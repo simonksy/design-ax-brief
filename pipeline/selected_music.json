@@ -1,103 +1,106 @@
 {
- "date": "2026-10-02",
- "section": "music",
- "picks": [
-  {
-   "rank": 1,
-   "tool": "Music",
-   "category": "music",
-   "accent": "#ff2d55",
-   "motif": "sphere",
-   "headline": "Japanese court rules human voices are protected in landmark AI case",
-   "url": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/",
-   "source": "Engadget",
-   "published_iso": "2026-10-01T14:58:44Z",
-   "og_image": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/l-intro-1790866642.jpg",
-   "excerpt": "A Japanese court partly sided with an anime voice actor against an anonymous TikTok user who posted AI clones of his voice, ruling that a person's voice is protected by publicity rights — a precedent for singers facing unauthorised AI voice models.",
-   "rationale": "Follow-up with a new concrete event: the court's ruling that a voice is protected by publicity rights. The 9/30 card covered only the filing and TikTok's defence. Engadget chosen over CMU, which bundles the already-published US fair-use ruling."
-  },
-  {
-   "rank": 2,
-   "tool": "Music",
-   "category": "music",
-   "accent": "#0070f3",
-   "motif": "sphere",
-   "headline": "Epidemic Sound partners with MyPart to bring adaptive music to PC gamers and streamers on Overwolf",
-   "url": "https://news.cision.com/epidemic-sound/r/epidemic-sound-partners-with-mypart-to-bring-adaptive-music-to-pc-gamers-and-streamers-on-overwolf,c4403604",
-   "source": "Epidemic Sound (Cision)",
-   "published_iso": "2026-10-01T07:29:00Z",
-   "og_image": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_400x400ar.png",
-   "excerpt": "Songhunt, an Overwolf in-game app, uses MyPart's multimodal AI to read gameplay in real time and pick matching tracks from Epidemic Sound's catalog across 1,500+ PC games, so streamers' soundtracks shift with the action.",
-   "rationale": "New shipping product: multimodal AI reads gameplay and picks licensed tracks in real time, so streamers' music adapts to the game. A concrete adaptive-music use case for creators."
-  },
-  {
-   "rank": 3,
-   "tool": "Music",
-   "category": "music",
-   "accent": "#7928ca",
-   "motif": "sphere",
-   "headline": "Kelly Clarkson Shares Her 'Controversial' Take on AI: 'I Think It's Welcome to the Table'",
-   "url": "https://www.billboard.com/music/pop/kelly-clarkson-loves-ai-controversial-take-1236352403/",
-   "source": "Billboard",
-   "published_iso": "2026-10-01T21:57:53Z",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/kelly-clarkson-las-culturistas-screenshot-billboard-1800.jpg?w=1024",
-   "excerpt": "Kelly Clarkson says she 'loves AI' and uses it artistically, but argues AI-made music should sit on separate charts rather than compete with human creations — a working artist's line on where AI belongs in the craft.",
-   "rationale": "A major artist says she uses AI in her work but wants AI music on separate charts. A fresh voice and a concrete proposal, and it differs from the earlier Fred again / Brian May / Todd Edwards cards."
-  },
-  {
-   "rank": 4,
-   "tool": "Music",
-   "category": "music",
-   "accent": "#2ec5c5",
-   "motif": "sphere",
-   "headline": "SLEEP CLUB's New Music About The 'Intrusion' Of AI Got Incorrectly Flagged By Spotify's AI Systems",
-   "url": "https://www.theprp.com/2026/09/28/news/sleep-clubs-new-music-about-the-intrusion-of-ai-into-our-daily-lives-once-again-got-incorrectly-flagged-by-spotifys-ai-systems/",
-   "source": "Theprp",
-   "published_iso": "2026-09-28T18:29:52Z",
-   "og_image": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp",
-   "excerpt": "Band SLEEP CLUB's new single — about AI's intrusion into daily life — was again wrongly flagged by Spotify's AI-detection systems, after their whole catalog was previously mis-tagged: a false-positive problem for streaming AI labelling.",
-   "rationale": "A real false positive from Spotify's AI-music detection hitting human artists. This is a different story from the Qobuz tagging and LANDR fraud cards and the Hypebot LLM essay (its history_match)."
-  },
-  {
-   "rank": 5,
-   "tool": "Music",
-   "category": "music",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "headline": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
-   "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
-   "source": "AWS Machine Learning Blog",
-   "published_iso": "2026-09-30T15:21:57Z",
-   "og_image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png",
-   "excerpt": "AWS walks through a three-agent music production pipeline (composition, generation, mixing hand-offs) sharing one GPU instance and filesystem — a reference workflow for agentic music creation.",
-   "rationale": "A hands-on reference build for agentic music production (composition, generation and mixing agents on one GPU). It is the most actionable workflow item in a pool with few tools."
+  "date": "2026-10-03",
+  "section": "music",
+  "items": [
+    {
+      "rank": 1,
+      "title": "AI music maker Suno now generates spoken words",
+      "tool": "Music",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "The Verge",
+      "published_iso": "2026-10-02T09:42:19+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Suno's new Speech beta generates synthetic voiceovers set to AI background music, pushing the music generator into ElevenLabs' spoken-audio territory.",
+      "category": "music",
+      "rationale": "Fresh product launch: Suno Speech (beta) generates voice and music as one track. Independent Verge coverage chosen over the duplicate Suno blog post."
+    },
+    {
+      "rank": 2,
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch",
+      "published_iso": "2026-10-02T21:09:14+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+      "excerpt": "Napster co-founder Sean Parker says Stability AI (maker of Stable Audio) is being repositioned as the go-to AI toolmaker for music professionals, built on catalogs licensed from Sony, Warner and Universal.",
+      "category": "music",
+      "rationale": "Product-strategy shift: Stable Audio maker refocusing on pro music tools built on label-licensed catalogs. This is product direction, not funding noise."
+    },
+    {
+      "rank": 3,
+      "title": "Questlove on the History of Sampling, From Public Enemy to Today: 'I See AI as a Parallel to Sampling Culture'",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
+      "source": "Billboard",
+      "published_iso": "2026-09-30T21:33:07+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024",
+      "excerpt": "On Billboard's On the Record, Questlove traces sampling from Public Enemy to microchopping and generative AI, arguing AI parallels sampling culture while the magic still lives in human imperfection.",
+      "category": "music",
+      "rationale": "High-profile artist perspective that places generative AI in the history of sampling. New voice, distinct from the Kelly Clarkson, Fred again.. and Todd Edwards takes already published."
+    },
+    {
+      "rank": 4,
+      "title": "Lyrics Show How AI Can Grow Music Revenue Without Replacing People",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "url": "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/",
+      "source": "Hypebot",
+      "published_iso": "2026-10-01T11:50:19.000Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg",
+      "excerpt": "AI-assisted lyric transcription, sync and translation can make long-tail songs (9.6M tracks, 13% of 2025 streams) addressable, expanding songwriter royalties while creating more work for human teams.",
+      "category": "music",
+      "rationale": "LyricFind op-ed that puts numbers on the AI lyric workflow (transcription, sync, translation) for the long tail. A different angle from the Musixmatch CEO interview."
+    },
+    {
+      "rank": 5,
+      "title": "Making \"Take Me Back\" | Braylon Browner x Nina McNeely",
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "url": "https://www.youtube.com/watch?v=1OITvfAN6-g",
+      "source": "Suno (YouTube)",
+      "published_iso": "2026-10-02T10:24:02-07:00",
+      "og_image": "https://i.ytimg.com/vi/1OITvfAN6-g/maxresdefault.jpg",
+      "excerpt": "Suno's behind-the-scenes film with Braylon Browner and Emmy-winning choreographer/director Nina McNeely shows the path from a dance to a Suno v6 song to a full music video built around movement.",
+      "category": "music",
+      "rationale": "Creator workflow case study that goes from dance to a Suno v6 song to a music video. Video asset available; distinct from the Speech launch."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability": {
+        "verdict": "new",
+        "nearest": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
+        "new_action": ""
+      },
+      "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/": {
+        "verdict": "new",
+        "nearest": "https://www.musicradar.com/artists/i-resent-the-way-people-talk-about-this-technology-as-if-its-from-the-devil-the-hypocrisy-in-the-industry-is-insane-house-legend-todd-edwards-on-how-ai-has-transformed-his-approach-to-sampling",
+        "new_action": ""
+      },
+      "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/": {
+        "verdict": "new",
+        "nearest": "https://www.musicbusinessworldwide.com/musixmatch-lyrics-are-becoming-the-llm-of-the-music-industry/",
+        "new_action": ""
+      },
+      "https://www.youtube.com/watch?v=1OITvfAN6-g": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped: suno.com/blog/introducing-speech-beta (the same Suno Speech launch as the Verge pick; kept The Verge as the independent outlet. Its history_match to the ElevenLabs MCP video is a different product). Dropped: MBW 'Suno confirms V6 model was trained on creations from users' (Sep 22, a running-story follow-up to the 2026-09-22 UMG/Sony second-lawsuit card and the 09-13 YouTube-training admission; Suno's public response is not a new filing or ruling, and it is 11 days old). Dropped: Andrew Huang 'AI scammers are trying to use me' (a Short with no description, unverifiable content, thin). Diversity: 5 distinct outlets (The Verge, TechCrunch, Billboard, Hypebot, Suno YouTube). No cross-section clash found with the flagged items (PS5 QSSR, Thomson Reuters v. ROSS, AWN Tripo)."
   }
- ],
- "dedup": {
-  "checks": {
-   "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/": {
-    "verdict": "follow-up",
-    "nearest": "https://www.digitalmusicnews.com/2026/09/27/japanese-voice-actor-sues-tiktok-ai-voice-cloning/",
-    "new_action": "Court ruling: the Japanese court partly sided with voice actor Kenjiro Tsuda and held that a person's voice is protected by publicity rights. The 9/30 card covered only the lawsuit and TikTok's 'ordinary male voice' defence, with no ruling yet."
-   },
-   "https://news.cision.com/epidemic-sound/r/epidemic-sound-partners-with-mypart-to-bring-adaptive-music-to-pc-gamers-and-streamers-on-overwolf,c4403604": {
-    "verdict": "new",
-    "nearest": ""
-   },
-   "https://www.billboard.com/music/pop/kelly-clarkson-loves-ai-controversial-take-1236352403/": {
-    "verdict": "new",
-    "nearest": "https://www.billboard.com/music/music-news/ai-generated-music-billboard-transparency-1236323619/"
-   },
-   "https://www.theprp.com/2026/09/28/news/sleep-clubs-new-music-about-the-intrusion-of-ai-into-our-daily-lives-once-again-got-incorrectly-flagged-by-spotifys-ai-systems/": {
-    "verdict": "new",
-    "nearest": "https://www.hypebot.com/an-llm-flagged-1-632-videos-one-was-real/"
-   },
-   "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/": {
-    "verdict": "new",
-    "nearest": ""
-   }
-  },
-  "note": "Cluster c0 (Japan voice ruling): kept Engadget and dropped CMU. CMU is the same Japan story and is also bundled with the US Third Circuit fair-use ruling already published 2026-10-01 (MBW). The Engadget item is kept as a follow-up because the ruling is a new judicial decision beyond the 9/30 lawsuit card; note the 10/01 curator had set aside the DMN version of the ruling, so this is its first publication. Not picked (fresh, but lower ranked): Questlove sampling/AI interview (overlaps the 10/01 Todd Edwards AI-sampling card; also a second Billboard card), Stability AI CEO prediction (exec talk / AI-business noise), Variety guest op-ed (opinion on the training-licensing fight already covered), Hypebot Braille (AI is speculative), T3 Woody Cook interview, RouteNote Dust & Harmony, Pressian Jeongseon Arirang municipal AI MV, RS AU Jason Derulo (edge of window), RS PH Taylor Swift 'Patient Zero' (speculative listener comparison). No advertorials or funding items were selected."
- },
- "not_picked": "CMU Japan/US double-ruling (same story as pick 1, plus the published fair-use ruling), Questlove, Stability AI CEO, Variety op-ed, Hypebot Braille, T3 Woody Cook, RouteNote Dust & Harmony, Pressian Arirang, RS AU Derulo, RS PH Taylor Swift"
 }

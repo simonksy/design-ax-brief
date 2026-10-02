@@ -6137,6 +6137,136 @@
           "x": "三个假设和结果一起列出来：40,000这个数字和1,800美元沿用了上一年的实际表现，70%是用于示例的假设而非实测值，两个月的回本周期如果按扣除流失后的净额来看，会拉长到一个季度。还有一部分无法换算成金钱：采用新引导流程的试用用户NPS为51，原有流程为34。"
         }
       ]
+    },
+    "design/classcad-ai-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ClassCAD.ai正式推出，定位为AI-driven（AI驱动）的可嵌入式CAD：一个能在Claude或Codex环境中构建CAD的独立MCP，可用作协作自动化层、快速对话式原型沙盒，或定制的内部工具。"
+        },
+        {
+          "t": "p",
+          "x": "它由位于St. Gallen, Switzerland（瑞士圣加仑）的AWV Informatik开发。底层CAD ClassCAD号称“headless nurbs modeller”，既可原生运行，也可作为WebAssembly（WASM）完全嵌入，并在JS/TS、Python和C++中提供相同的API。任何需要参数化模型重算、约束草图和STEP模型的产品或应用，都可以由它驱动。"
+        },
+        {
+          "t": "p",
+          "x": "开发者可使用两套APIs（API）：Part API基于特征工作并追踪特征生成的实体，适用于结构化的参数化零件；Solid API直接作用于实体本身，适用于不带历史记录、由代码构建的定制零件。"
+        },
+        {
+          "t": "p",
+          "x": "使用这一AI层几乎不需要CAD建模经验。用户向自己的前沿模型展示ClassCAD.ai网站，模型便会安装MCP，智能体随即成为CAD专家，模型上下文则保存在用户本地系统中。从输入或口述需求到上传需求清单，它都能构建可导出到传统CAD的模型；在一个示例中，它收到一份AliExpress电子元件购物清单，并被要求据此制作外壳。"
+        },
+        {
+          "t": "p",
+          "x": "目前非商业用途免费；商业许可起价为100 CHF。"
+        }
+      ]
+    },
+    "design/infoq-regeneratable-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+        },
+        {
+          "t": "p",
+          "x": "十年来，标准建议一直是打造全公司通用的组件库。Griffiths Waite的Daniel Curtis认为，当编码代理能快速生成带样式、大致符合无障碍要求的组件时，一套权威组件库带来的收益已不如从前。真正值得集中管理的是设计系统、令牌、规范和测试，而不是交付出去的组件代码。"
+        },
+        {
+          "t": "p",
+          "x": "共享组件库捆绑了四项承诺：复用、一致性、沉淀的专业经验，以及单一事实来源。其中只有复用和沉淀的专业经验需要交付代码，而这恰恰是AI如今能帮上忙的部分。真正的账单始终是维护：版本管理、迁移、变体泛滥，以及逐渐失守的归属权。"
+        },
+        {
+          "t": "p",
+          "x": "他提出的模式是：以令牌为事实来源，以机器可读的规范和工程原则作为代理生成所依据的规格，并通过视觉回归、无障碍和令牌一致性测试进行验证。版本管理随之上移到这些规则层面。"
+        },
+        {
+          "t": "p",
+          "x": "放任默认设置，模型会趋向平淡的平均水平，因此有鲜明主张的设计系统会成为差异化因素。无障碍，以及数据表格、组合框、日期选择器等真正棘手的组件，仍是保留部分精选共享代码的理由。"
+        }
+      ]
+    },
+    "design/doherty-threshold-ai-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+          "cap": "两个计算时代，遵循同一个400毫秒标准。"
+        },
+        {
+          "t": "p",
+          "x": "团队往往把AI功能的迟缓归咎于模型。但Doherty在1982年提出的阈值从来不是关于计算机思考有多快，而是关于人能把一个念头保持多久。低于大约400毫秒，用户就不再围绕停顿来成批组织思考。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI把一个事件拆成了两个：确认和回答，而阈值落在了确认上。界面可以在50毫秒内回显输入，完全不依赖推理。流式输出解决不了第一个token出现前的静默空档。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+          "cap": "两个时钟，两个负责方，两套规则。"
+        },
+        {
+          "t": "p",
+          "x": "每次AI交互都有两个时钟在走。第一个时钟从用户提交到界面证明已收到，目标应是100 ms，上限为400，属于前端的工作。第二个时钟是回答，只要坦诚说明等待换来了什么，就可以很长。在代理场景中，静默的步骤会让用户离开，回来后只是接受输出，human-in-the-loop审核也就此终结。"
+        },
+        {
+          "t": "p",
+          "x": "作者的建议是：在规格中拆分时间预算，先回显输入，展示真实状态，在真实环境中测量首次点击，并为每一次等待提供退出方式。"
+        }
+      ]
+    },
+    "design/ideogram45-region-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "Ideogram表示，其新模型Ideogram 4.5解决了AI图像编辑中最令人头疼的问题之一：编辑图像的一部分时，其余部分不应发生变化。给人物换装时，体型和背景都应保持原样。GPT-Image 2.5和Nano Banana等主流模型在这方面已有明显进步，但仍容易产生伪影，尤其是在多次编辑之后。该公司称，Ideogram 4.5只会改动用户指定的部分。目标用途包括产品摄影、室内设计、照片修复以及图内文字编辑。早期测试者也证实其在多次编辑间保持了很强的一致性。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Ideogram 4.5提供四个质量档位，每张图价格从0.8美分到22美分不等，全部以原生 2K 分辨率输出。该模型现已在Ideogram平台和API上线。合作伙伴包括Picsart、Runway、Pika和Leonardo AI。Ideogram还表示，开放权重版本即将推出。"
+        }
+      ]
+    },
+    "design/figma-motion-sept": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "1lnuBH7CbEY"
+        },
+        {
+          "t": "p",
+          "x": "Figma的《Release Notes 2026: September Edition》介绍了Figma Motion的新功能和画布更新。"
+        },
+        {
+          "t": "p",
+          "x": "Motion现在支持为设计系统定制动画样式、音频和文字动画。这些效果可通过Figma智能体以及经由MCP的编程智能体自动应用，并可直接导出为Lottie。"
+        },
+        {
+          "t": "p",
+          "x": "Community Riffs现已上线，用户可将动画、原型和实验作品直接分享到Figma Community页面。代码查看器和MCP更新让用户借助智能体修改内容，再推送回Figma。"
+        },
+        {
+          "t": "p",
+          "x": "本场演示还涵盖启动动画与文字错位动画、关键帧缓动、营销素材自动缩放、生成式插件与着色器、画布内的自定义AI技能、在Weave中生成图像、将不透明度设为变量，以及设计到代码还原度的提升。"
+        }
+      ]
     }
   }
 }

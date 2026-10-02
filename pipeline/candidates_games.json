@@ -1,148 +1,167 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "games",
   "window_hours": 336,
-  "now_iso": "2026-10-01T22:03:11Z",
   "items": [
     {
-      "url": "https://80.lv/articles/base-ps5-finally-gets-its-own-version-of-pssr-upscaling/",
-      "source": "80 Level",
+      "title": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
+      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-10-02T14:29:12.160641+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "At the GamesIndustry.biz HR Summit, attendees explained how any efficiency gains from generative AI are countered by employee anxiety, potential data leaks, and",
       "category": "games",
-      "published_iso": "2026-10-01T19:38:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50467/images/6abeb649e7440/contain_1200x630.jpg",
-      "headline": "Base PS5 Finally Gets Its Own Version of PSSR Upscaling",
-      "excerpt": "Sony's new Quick Spectral Super Resolution (QSSR) uses a streamlined neural network to bring PS5 Pro-style AI upscaling to the base PS5, starting with Marvel's Wolverine and Ghost of Yotei.",
-      "title": "Base PS5 Finally Gets Its Own Version of PSSR Upscaling"
+      "section": "games"
     },
     {
-      "url": "https://www.thegamer.com/ps5-adds-ai-upscaling-good-luck-seeing-a-difference/",
-      "source": "TheGamer",
+      "title": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads",
+      "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-10-02T15:37:33.400541+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Total War: Warhammer 3 mod SFO: Grimhammer 3 has been \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads.",
       "category": "games",
-      "published_iso": "2026-10-01T17:52:37Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/marvelswolverinenocowl.jpg?w=1600&h=900&fit=crop",
-      "headline": "PS5 AI Upscaling Rolls Out With Already Mixed Results",
-      "excerpt": "TheGamer's hands-on take finds Sony's new QSSR AI upscaler on the base PS5 delivers only minimal visible gains so far in its first two supported games.",
-      "title": "PS5 AI Upscaling Rolls Out With Already Mixed Results"
+      "section": "games"
     },
     {
-      "url": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
-      "source": "IGN",
+      "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
+      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-10-02T11:45:53.107075+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Bethesda have seemingly slapped an AI-generated Fallout: New York browser game with cease and desist order.",
       "category": "games",
-      "published_iso": "2026-10-01T16:48:27.491Z",
-      "og_image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-      "headline": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5",
-      "excerpt": "Sony's QSSR is a lighter neural upscaler that runs on the base PS5's weaker GPU, extending the PS5 Pro's PSSR pipeline to the whole install base.",
-      "title": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5"
+      "section": "games"
     },
     {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321697",
-      "source": "인벤",
+      "title": "Modders, Please Stop Putting Games Inside Other Games With AI",
+      "url": "https://kotaku.com/i-dont-want-to-play-your-ai-generated-mod-that-puts-skate-3-inside-of-modern-warfare-2-inside-of-minecraft-2000738660",
+      "source": "Kotaku",
+      "published_iso": "2026-10-02T13:48:47+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/mario-elden-ring-slop-1200x675.jpg",
+      "excerpt": "Does anyone actually want to play these monstrosities taking over Twitter?",
       "category": "games",
-      "published_iso": "2026-10-02T02:46:58+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/10/02/news/i1665018735.jpg",
-      "headline": "일반 PS5 생명 연장, 프로에만 있던 'AI 업스케일' 도입된다",
-      "excerpt": "소니가 일반 PS5용 AI 업스케일링 라이브러리 QSSR(퀵 스펙트럴 슈퍼 레졸루션)을 발표했다. 신경망을 간소화해 일반 PS5에서도 고품질 그래픽 구현이 가능해졌다는 설명이다.",
-      "title": "일반 PS5 생명 연장, 프로에만 있던 'AI 업스케일' 도입된다"
+      "section": "games"
     },
     {
-      "url": "https://www.pocketgamer.biz/layer-launches-ai-playable-ad-generator-to-tackle-production-bottlenecks-for-mobile-game-studios/",
-      "source": "PocketGamer.biz",
+      "title": "Artist Falsely Accused Of Using GenAI Gives The Perfect Response, 'Don't Forget What Makes Us Human!'",
+      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
+      "source": "Kotaku",
+      "published_iso": "2026-10-02T17:30:58+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
+      "excerpt": "Loish took to Instagram to explain why such accusations matter, and how to spot original creativity",
       "category": "games",
-      "published_iso": "2026-10-01T14:00:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141588/89956/header-4_l1200.jpg",
-      "headline": "Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios",
-      "excerpt": "Layer, an agentic creative platform for game studios, launched Playables, which builds end-to-end, network-ready HTML5 playable ads in hours rather than weeks.",
-      "title": "Layer launches AI Playable ad generator to tackle production bottlenecks for mobile game studios"
+      "section": "games"
     },
     {
-      "url": "https://aftermath.site/twitch-ads-ai-streamers-money/",
-      "source": "Aftermath",
+      "title": "Insomniac Confirms Wolverine Doesn't Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral",
+      "url": "https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775",
+      "source": "Kotaku",
+      "published_iso": "2026-09-18T22:45:32+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/09/wolverinps5slop-1200x675.jpg",
+      "excerpt": "A funky-looking bathroom sign is the result of an in-game glitch and is not AI slop",
       "category": "games",
-      "published_iso": "2026-09-29T23:12:41.000Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg",
-      "headline": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads",
-      "excerpt": "Twitch is now using AI classification of stream content to decide which creators are eligible for ad revenue, drawing pushback from streamers.",
-      "title": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads"
+      "section": "games"
     },
     {
-      "url": "https://www.inven.co.kr/webzine/news/?news=321667",
-      "source": "인벤",
+      "title": "Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: ",
+      "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-02T19:35:25Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+      "excerpt": "\"AI bros are definitely not beating the",
       "category": "games",
-      "published_iso": "2026-10-01T14:39:26+09:00",
-      "og_image": "https://static.inven.co.kr/column/2026/10/01/news/i1564923888.jpg",
-      "headline": "[이슈] 던전앤파이터, 신규 이벤트 AI 일러스트 논란에 '교체'",
-      "excerpt": "던전앤파이터 신규 이벤트의 레전더리 카드 일러스트가 AI 활용 논란에 휩싸였고, 넥슨은 일부 이미지에 AI를 활용했다고 밝힌 뒤 해당 일러스트를 교체하기로 했다.",
-      "title": "[이슈] 던전앤파이터, 신규 이벤트 AI 일러스트 논란에 '교체'"
+      "section": "games"
     },
     {
-      "url": "https://www.pcgamer.com/hardware/roll-up-roll-up-can-you-spot-which-of-these-images-are-using-dlss-5/",
+      "title": "\"Keep GenAI the f*ck away from MediEvil\" - My favorite PS1 creepy comedy caper now has a PC recomp, and it",
+      "url": "https://www.gamesradar.com/hardware/retro/keep-genai-the-f-ck-away-from-medievil-my-favorite-ps1-creepy-comedy-caper-now-has-a-pc-recomp-and-its-thankfully-not-vibe-coded/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-02T11:33:11Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/3R5bhPZHJbQ3KgUGRr32QD-1920-80.jpg",
+      "excerpt": "Sir Dan won",
+      "category": "games",
+      "section": "games"
+    },
+    {
+      "title": "Great, haystack slop is a thing now",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
       "source": "PC Gamer",
+      "published_iso": "2026-09-28T01:57:44Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/a8h5r8JXCRb4HF239QdTuJ-1200-80.png",
+      "excerpt": "All the interesting Steam facts for the week ending September 27.",
       "category": "games",
-      "published_iso": "2026-10-01T13:15:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/nTfkeFn4nFPXAga8497qdH-1920-80.jpg",
-      "headline": "Can you tell which of these images has been injected with DLSS 5?",
-      "excerpt": "PC Gamer runs GTA 6 trailer frames through DLSS 5 neural rendering at varying intensities, challenging readers to tell the AI-reinterpreted images from the originals.",
-      "title": "Can you tell which of these images has been injected with DLSS 5?"
+      "section": "games"
     },
     {
-      "url": "https://wccftech.com/dlss-4-5-comes-to-radeon-rx-9000-gpus-in-experimental-mod-using-amds-native-fp8-capabilities/",
-      "source": "Wccftech",
+      "title": "Official Unity Plugin for Grok Build Is Now Available",
+      "url": "https://unity.com/blog/unity-plugin-grok",
+      "source": "Unity",
+      "published_iso": "2026-10-01T00:00:00Z",
+      "og_image": "https://unity.com/unity-logo-2024.png",
+      "excerpt": "The official Unity Plugin now works in Grok Build. Get 30+ Unity-written skills with one terminal command. Unity 6+.",
       "category": "games",
-      "published_iso": "2026-10-01T11:20:38+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/RX-9070-XT-DLSS-4.5.jpg",
-      "headline": "DLSS 4.5 Comes To Radeon RX 9000 GPUs In Experimental Mod Using AMD's Native FP8 Capabilities",
-      "excerpt": "A new d4r release adds experimental NVIDIA DLSS 4 and 4.5 support to AMD RDNA 4 GPUs by running the neural upscaler on native FP8 hardware.",
-      "title": "DLSS 4.5 Comes To Radeon RX 9000 GPUs In Experimental Mod Using AMD's Native FP8 Capabilities"
+      "section": "games"
     },
     {
-      "url": "https://forums.unrealengine.com/t/release-uefn-claude-team-starter-kit-v1-84-an-ai-dev-team-for-your-map-that-you-can-actually-see-and-that-learns-from-every-map-you-ship/2835895",
+      "title": "컴투스플랫폼, 日 AI 게임 개발 현장서 ‘하이브 액실’ 공개",
+      "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111846",
+      "source": "게임톡",
+      "published_iso": "2026-09-29T22:57:27+09:00",
+      "og_image": "https://cdn.gametoc.co.kr/news/photo/202609/111846_325759_5258.jpg",
+      "excerpt": "컴투스플랫폼이 일본 도쿄에서 열린 AI 게임 개발 챌린지에서 차세대 게임 백엔드 플랫폼 ‘하이브 액실’을 소개했다.컴투스홀딩스의 자회사 컴투스플랫폼이 28일 일본",
+      "category": "games",
+      "section": "games"
+    },
+    {
+      "title": "The Original 'Halo' Is Now Playable in Web Browsers With Multiplayer Support",
+      "url": "https://www.polygon.com/halo-web-browser-ai-game-mods/",
+      "source": "Polygon",
+      "published_iso": "2026-10-02T17:54:00Z",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ss_567cd7abbf4dc976c707fb6b73be93e21bfbba0a-1920x1080.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "The Halo: Combat Evolved fan project supports up to 128 players",
+      "category": "games",
+      "section": "games"
+    },
+    {
+      "title": "Forget Vibecoded Slop, Here's A List Of Non-AI Decomps",
+      "url": "https://www.thegamer.com/list-non-vibecoded-decomps-recomps-majoras-mask-perfect-dark-sonic-mania/",
+      "source": "TheGamer",
+      "published_iso": "2026-10-02T13:20:45Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/giant-ominous-moon-in-majora-s-mask.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Recomps and decomps are fast becoming an AI minefield. Thankfully, someone has made a list of human-made projects.",
+      "category": "games",
+      "section": "games"
+    },
+    {
+      "title": "Dmitriy Vergasov - LocHub - AI Assisted Localization System ",
+      "url": "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341",
       "source": "Epic Developer Community",
+      "published_iso": "2026-09-29T10:51:54+00:00",
+      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png",
+      "excerpt": "LocHub brings AI translation into the Unreal Editor without taking the control away from you. Your project's strings go to the AI provider you choose, under your own key; built-in checks and a second AI catch the problems; you review the result in one place and pull it back as plain Unreal localizat",
       "category": "games",
-      "published_iso": "2026-10-01T00:26:54+00:00",
-      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/c/2/b/c2bc03a97a71aae9baf73e98f646ab64c3a1fb03_2_1024x512.png",
-      "headline": "UEFN Claude Team Starter Kit v1.84 — an AI dev team for your Fortnite map",
-      "excerpt": "A community kit turns Claude Code plus Unreal MCP into a visible multi-agent 'AI dev team' for UEFN map building, with a live dashboard and memory that learns from each shipped map.",
-      "title": "UEFN Claude Team Starter Kit v1.84 — an AI dev team for your Fortnite map"
+      "section": "games"
     },
     {
-      "url": "https://forums.unrealengine.com/t/sina-a-100-local-ai-digital-human-that-walks-the-level-and-operates-real-blueprint-equipment-metahuman-nvidia-ardy/2835494",
-      "source": "Epic Developer Community",
-      "category": "games",
-      "published_iso": "2026-09-29T20:39:41+00:00",
-      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg",
-      "headline": "Sina — a 100% local AI digital human that walks the level and operates Blueprint equipment",
-      "excerpt": "A UE5 plugin links any project to a local AI 'brain' so a MetaHuman can talk, move through the level and operate Blueprint-driven equipment with no cloud AI.",
-      "title": "Sina — a 100% local AI digital human that walks the level and operates Blueprint equipment"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
-      "source": "Unity (YouTube)",
-      "category": "games",
-      "published_iso": "2026-10-01T09:01:29-07:00",
-      "og_image": "https://i.ytimg.com/vi/Fx1orSJc8d4/maxresdefault.jpg",
-      "headline": "Introducing the official Unity plugin for Grok Build",
-      "excerpt": "Unity introduces an official plugin for xAI's Grok Build coding agent, bringing Unity engineering guidance directly into the terminal for AI-assisted game development.",
-      "title": "Introducing the official Unity plugin for Grok Build"
-    },
-    {
+      "title": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra ",
       "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
       "source": "Epic Developer Community",
-      "category": "games",
       "published_iso": "2026-09-28T03:03:13+00:00",
       "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
-      "headline": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra",
-      "excerpt": "A step-by-step guide to animated NPCs with AI-generated dialogue and conversation history, built with Codex, Unreal MCP, UnrealAI and the OpenAI API.",
-      "title": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra"
+      "excerpt": "A step-by-step guide to animated NPCs, AI-generated dialogue, and conversation history with Codex, Unreal MCP, UnrealAI, and the OpenAI API.  https://dev.epicgames.com/community/learning/tutorials/9mlkB/building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra",
+      "category": "games",
+      "section": "games"
     },
     {
-      "url": "https://www.gamesradar.com/games/ai-upscaling-is-coming-to-ps5-sonys-base-console-is-getting-its-own-version-of-the-ps5-pro-feature-ive-been-jealous-about-for-2-years/",
-      "source": "GamesRadar+",
+      "title": "Injecting DLSS 5 Into The Witcher 3 Remastered Gives Geralt a Much-Needed Facelift, but Costs Up to 30% Performance",
+      "url": "https://wccftech.com/the-witcher-3-remastered-dlss-5-geralt-facelift-performance-cost/",
+      "source": "Wccftech",
+      "published_iso": "2026-09-29T20:30:00+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/tw3r_key_visual76-HD-1920x1080.jpeg",
+      "excerpt": "We've hooked NVIDIA DLSS 5 into The Witcher 3: Wild Hunt — Remastered with intriguing results, both in visuals and performance.",
       "category": "games",
-      "published_iso": "2026-10-01T19:34:14Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iMksT7u6r7yCyLKwVKkiT4-1920-80.jpg",
-      "headline": "\"AI upscaling is coming to PS5\": Sony's base console is getting its own version of a PS5 Pro feature",
-      "excerpt": "Marvel's Wolverine and Ghost of Yotei are the first games to use Sony's new QSSR neural upscaler on the base PS5.",
-      "title": "\"AI upscaling is coming to PS5\": Sony's base console is getting its own version of a PS5 Pro feature"
+      "section": "games"
     }
   ]
 }

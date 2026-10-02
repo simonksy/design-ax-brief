@@ -1,1265 +1,17 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "movies",
   "cards": [
     {
-      "id": "continuum",
+      "id": "tripo-smartmesh-previs",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Runway Labs,\n영상 기반 OS 앱 공개",
-      "body": "Runway Labs가 영상 OS 앱 Project Continuum을 공개했다.",
-      "mini_headline": "Runway의 Project Continuum",
+      "headline": "Tripo, 프리비즈용\nSmartMesh 제안",
+      "body": "Tripo AI는 생성형 3D 도구가 레퍼런스·블록아웃·프리비즈를 돕는다고 했다.",
+      "mini_headline": "프리비즈용 Tripo SmartMesh",
       "tool": "Movies",
-      "source": "Runway",
-      "url": "https://www.youtube.com/watch?v=K7Q7FESRHJY",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "K7Q7FESRHJY"
-          },
-          {
-            "t": "p",
-            "x": "Runway Labs가 Project Continuum을 소개한다. 실시간 영상 인터페이스를 중심에 둔 새 운영체제 연구 애플리케이션이다."
-          },
-          {
-            "t": "p",
-            "x": "오늘 컴퓨터와 상호작용하는 네 가지 새 방식인 Portals, Visual Thinking, Responsive Video Interfaces, Interactive Worlds의 초기 모습을 공개한다. Solaris 같은 Interface World Models는 인터페이스가 무엇이 될 수 있는지 새로 그린다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Runway Labs unveils\nProject Continuum",
-          "body": "Runway Labs previews Project Continuum, an operating system research application built around real-time video.",
-          "mini_headline": "Runway's Project Continuum",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K7Q7FESRHJY"
-              },
-              {
-                "t": "p",
-                "x": "Introducing Project Continuum by Runway Labs, a new operating system research application built around real-time video interfaces."
-              },
-              {
-                "t": "p",
-                "x": "Today, we're sharing an early look at four new ways of interacting with your computer: Portals, Visual Thinking, Responsive Video Interfaces and Interactive Worlds. Interface World Models, like Solaris, are reimagining what an interface can be."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Runway Labs,\n영상 기반 OS 앱 공개",
-          "body": "Runway Labs가 영상 OS 앱 Project Continuum을 공개했다.",
-          "mini_headline": "Runway의 Project Continuum",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K7Q7FESRHJY"
-              },
-              {
-                "t": "p",
-                "x": "Runway Labs가 Project Continuum을 소개한다. 실시간 영상 인터페이스를 중심에 둔 새 운영체제 연구 애플리케이션이다."
-              },
-              {
-                "t": "p",
-                "x": "오늘 컴퓨터와 상호작용하는 네 가지 새 방식인 Portals, Visual Thinking, Responsive Video Interfaces, Interactive Worlds의 초기 모습을 공개한다. Solaris 같은 Interface World Models는 인터페이스가 무엇이 될 수 있는지 새로 그린다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Runway Labs、\n映像OS研究アプリを公開",
-          "body": "Runway Labsが映像OS研究アプリProject Continuumを公開した。",
-          "mini_headline": "RunwayのProject Continuum",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K7Q7FESRHJY"
-              },
-              {
-                "t": "p",
-                "x": "Runway Labsによる、リアルタイム映像インターフェースを軸に構築された新たなオペレーティングシステム研究アプリケーション、Project Continuumを紹介する。"
-              },
-              {
-                "t": "p",
-                "x": "本日、コンピューターとの新たな4つの関わり方であるPortals、Visual Thinking、Responsive Video Interfaces、Interactive Worldsの初期段階を公開する。SolarisのようなInterface World Modelsは、インターフェースのあり方そのものを描き直しつつある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Runway Labs发布\n实时视频OS研究应用",
-          "body": "Runway Labs预览基于实时视频的OS研究应用Project Continuum。",
-          "mini_headline": "Runway的Project Continuum",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K7Q7FESRHJY"
-              },
-              {
-                "t": "p",
-                "x": "Runway Labs推出Project Continuum，这是一款围绕实时视频界面打造的全新操作系统研究应用。"
-              },
-              {
-                "t": "p",
-                "x": "今天，我们抢先展示与电脑交互的四种新方式：Portals、Visual Thinking、Responsive Video Interfaces与Interactive Worlds。Solaris等Interface World Models正在重新构想界面的可能形态。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway Labs presenta\nProject Continuum",
-          "body": "Runway Labs adelanta Project Continuum, una app de investigación de sistemas operativos con video en tiempo real.",
-          "mini_headline": "Project Continuum de Runway",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K7Q7FESRHJY"
-              },
-              {
-                "t": "p",
-                "x": "Presentamos Project Continuum de Runway Labs, una nueva aplicación de investigación de sistemas operativos construida en torno a interfaces de video en tiempo real."
-              },
-              {
-                "t": "p",
-                "x": "Hoy compartimos un primer vistazo a cuatro nuevas formas de interactuar con el equipo: Portals, Visual Thinking, Responsive Video Interfaces e Interactive Worlds. Los Interface World Models, como Solaris, están replanteando lo que puede ser una interfaz."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Runway Labs,\n영상 기반 OS 앱 공개",
-          "body": "Runway Labs가 영상 OS 앱 Project Continuum을 공개했다.",
-          "mini_headline": "Runway의 Project Continuum",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K7Q7FESRHJY"
-              },
-              {
-                "t": "p",
-                "x": "Runway Labs가 실시간 영상 인터페이스를 중심으로 만든 새로운 운영체제 연구 애플리케이션 Project Continuum을 소개한다."
-              },
-              {
-                "t": "p",
-                "x": "오늘 우리는 컴퓨터와 상호작용하는 네 가지 새로운 방식인 Portals, Visual Thinking, Responsive Video Interfaces, Interactive Worlds의 초기 모습을 공개한다. Solaris 같은 Interface World Models는 인터페이스가 무엇이 될 수 있는지를 새롭게 그리고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Runway Labs、\n映像OS研究アプリを公開",
-          "body": "Runway Labsが映像OS研究アプリProject Continuumを公開した。",
-          "mini_headline": "RunwayのProject Continuum",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K7Q7FESRHJY"
-              },
-              {
-                "t": "p",
-                "x": "Runway Labsによる、リアルタイム映像インターフェースを軸に構築された新たなオペレーティングシステム研究アプリケーション、Project Continuumを紹介する。"
-              },
-              {
-                "t": "p",
-                "x": "本日、コンピューターとの新たな4つの関わり方であるPortals、Visual Thinking、Responsive Video Interfaces、Interactive Worldsの初期段階を公開する。SolarisのようなInterface World Modelsは、インターフェースのあり方そのものを描き直しつつある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Runway Labs发布\n实时视频OS研究应用",
-          "body": "Runway Labs预览基于实时视频的OS研究应用Project Continuum。",
-          "mini_headline": "Runway的Project Continuum",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K7Q7FESRHJY"
-              },
-              {
-                "t": "p",
-                "x": "Runway Labs推出Project Continuum，这是一款围绕实时视频界面打造的全新操作系统研究应用。"
-              },
-              {
-                "t": "p",
-                "x": "今天，我们抢先展示与电脑交互的四种新方式：Portals、Visual Thinking、Responsive Video Interfaces与Interactive Worlds。Solaris等Interface World Models正在重新构想界面的可能形态。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway Labs presenta\nProject Continuum",
-          "body": "Runway Labs adelanta Project Continuum, una app de investigación de sistemas operativos con video en tiempo real.",
-          "mini_headline": "Project Continuum de Runway",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "K7Q7FESRHJY"
-              },
-              {
-                "t": "p",
-                "x": "Presentamos Project Continuum de Runway Labs, una nueva aplicación de investigación de sistemas operativos construida en torno a interfaces de video en tiempo real."
-              },
-              {
-                "t": "p",
-                "x": "Hoy compartimos un primer vistazo a cuatro nuevas formas de interactuar con el equipo: Portals, Visual Thinking, Responsive Video Interfaces e Interactive Worlds. Los Interface World Models, como Solaris, están replanteando lo que puede ser una interfaz."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "affleck",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Ben Affleck,\nAnimals에 AI 활용",
-      "body": "Ben Affleck은 Netflix Animals에 AI를 많이 썼다고 밝혔다.",
-      "mini_headline": "Affleck의 AI 활용작 Animals",
-      "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-ai-netflix-movie-animals-1236717919/",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-          },
-          {
-            "t": "p",
-            "x": "Ben Affleck은 수요일 Bloomberg의 2026 Screentime 행사에서 곧 Netflix에 공개될 스릴러 Animals에 AI를 “여러 가지에” 썼다고 말했다. 다만 어디에 썼는지는 밝히지 않았다. “내 업계에서는 현실이라는 환상을 키우려 하기 때문”이라는 이유다. 이를 밝히는 일은 마술사가 숨겨 둔 토끼를 미리 알리는 것에 빗댔다. 이 영화가 “매우 인간적인 영화이기 때문에” AI를 윤리적으로 활용한 좋은 사례라고 본다는 말도 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "Gillian Anderson, Steven Yuen, Kerry Washington이 출연하는 Animals는 10월 9일 Netflix에서 공개된다. Affleck은 자신의 AI 회사 InterPositive를 6억 달러 가까이 받고 이 스트리머에 팔았다."
-          },
-          {
-            "t": "p",
-            "x": "그는 영화 제작자가 AI 도구를 다루는 “통제감”을 얻으면 이 기술은 더 이상 “무서운 외계 존재”가 아니라 “또 하나의 컴퓨팅 형태”가 된다고 말했다. 그렇다고 AI 덕분에 영화 제작자가 “[프롬프트를] 입력해 사람들이 보고 싶어 하는 영화를 만드는” 날이 오리라고 믿지는 않는다."
-          },
-          {
-            "t": "p",
-            "x": "Netflix가 영화 제작자에게 줄거리를 거듭 설명하게 한다는, 온라인에서 화제가 된 주장도 부인했다. “[Netflix는] 절대 그렇게 하지 않을 것”이라는 설명이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Ben Affleck used AI for lots\nof things in Netflix's Animals",
-          "body": "Ben Affleck says he used AI for lots of things in his upcoming Netflix thriller Animals, premiering Oct. 9.",
-          "mini_headline": "Affleck's AI-aided Animals",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-              },
-              {
-                "t": "p",
-                "x": "Ben Affleck used AI “for lots of things” in his upcoming Netflix thriller Animals, he said Wednesday at Bloomberg's 2026 Screentime event — but he won't say which things, because “in my business, we're trying to foster the illusion of reality.” He likened revealing them to a magician announcing the hidden bunny, adding that he thought the film was a good example of using AI ethically “because it's a very human movie.”"
-              },
-              {
-                "t": "p",
-                "x": "Animals, with Gillian Anderson, Steven Yuen and Kerry Washington, premieres on Netflix on Oct. 9. Affleck sold his AI company InterPositive to the streamer for nearly $600 million."
-              },
-              {
-                "t": "p",
-                "x": "He said that once filmmakers gain “a sense of control” over AI tools, the technology stops being a “terrifying alien” and becomes “another form of computing,” though he doesn't believe AI will ever let a filmmaker “type [a prompt] in and make a movie that people want to see.”"
-              },
-              {
-                "t": "p",
-                "x": "He also rejected the viral claim that Netflix makes filmmakers restate the plot of their movies, saying “[Netflix] would never do that.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Ben Affleck,\nAnimals에 AI 활용",
-          "body": "Ben Affleck은 Netflix Animals에 AI를 많이 썼다고 밝혔다.",
-          "mini_headline": "Affleck의 AI 활용작 Animals",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-              },
-              {
-                "t": "p",
-                "x": "Ben Affleck은 수요일 Bloomberg의 2026 Screentime 행사에서 곧 Netflix에 공개될 스릴러 Animals에 AI를 “여러 가지에” 썼다고 말했다. 다만 어디에 썼는지는 밝히지 않았다. “내 업계에서는 현실이라는 환상을 키우려 하기 때문”이라는 이유다. 이를 밝히는 일은 마술사가 숨겨 둔 토끼를 미리 알리는 것에 빗댔다. 이 영화가 “매우 인간적인 영화이기 때문에” AI를 윤리적으로 활용한 좋은 사례라고 본다는 말도 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "Gillian Anderson, Steven Yuen, Kerry Washington이 출연하는 Animals는 10월 9일 Netflix에서 공개된다. Affleck은 자신의 AI 회사 InterPositive를 6억 달러 가까이 받고 이 스트리머에 팔았다."
-              },
-              {
-                "t": "p",
-                "x": "그는 영화 제작자가 AI 도구를 다루는 “통제감”을 얻으면 이 기술은 더 이상 “무서운 외계 존재”가 아니라 “또 하나의 컴퓨팅 형태”가 된다고 말했다. 그렇다고 AI 덕분에 영화 제작자가 “[프롬프트를] 입력해 사람들이 보고 싶어 하는 영화를 만드는” 날이 오리라고 믿지는 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Netflix가 영화 제작자에게 줄거리를 거듭 설명하게 한다는, 온라인에서 화제가 된 주장도 부인했다. “[Netflix는] 절대 그렇게 하지 않을 것”이라는 설명이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Ben Affleck、\n新作AnimalsでAI活用",
-          "body": "Ben AffleckはNetflixのスリラーAnimalsでAIを多用したと語った。",
-          "mini_headline": "AffleckのAI活用作Animals",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-              },
-              {
-                "t": "p",
-                "x": "Ben Affleckは水曜日、Bloombergの2026 Screentimeイベントで、近く配信されるNetflixのスリラーAnimalsでAIを「いろいろなことに」使ったと語った。ただし、どこに使ったかは明かさない。「私の業界では、現実だという錯覚を育もうとしているから」だという。彼はそれを明かすことを、マジシャンが隠したウサギを先に告げることにたとえ、この作品は「とても人間的な映画だから」AIを倫理的に使った好例だと思うと付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "Gillian Anderson、Steven Yuen、Kerry Washingtonが出演するAnimalsは、10月9日にNetflixで配信される。Affleckは自身のAI企業InterPositiveを同ストリーマーに6億ドル近くで売却している。"
-              },
-              {
-                "t": "p",
-                "x": "彼は、映画制作者がAIツールに対して「コントロールしている感覚」を得れば、この技術は「恐ろしいエイリアン」ではなくなり、「もう一つのコンピューティングの形」になると述べた。ただし、AIによって映画制作者が「［プロンプトを］打ち込んで、人々が見たい映画を作る」ことができるようになるとは考えていない。"
-              },
-              {
-                "t": "p",
-                "x": "また、Netflixが映画制作者に作品のあらすじを繰り返し説明させるという、ネットで拡散した主張も否定し、「［Netflixは］決してそんなことはしない」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ben Affleck称\nAnimals多处用AI",
-          "body": "Ben Affleck称他在Netflix惊悚片Animals中多处用了AI。",
-          "mini_headline": "Affleck借助AI的Animals",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-              },
-              {
-                "t": "p",
-                "x": "Ben Affleck周三在Bloomberg的2026 Screentime活动上表示，他在即将登陆Netflix的惊悚片Animals中把AI用于“很多方面”，但不愿透露具体是哪些，因为“在我这一行，我们努力营造真实的幻觉”。他把公开这些细节比作魔术师预先说出藏起来的兔子，并补充说，他认为这部电影是合乎伦理地使用AI的好例子，“因为它是一部非常有人情味的电影”。"
-              },
-              {
-                "t": "p",
-                "x": "Animals由Gillian Anderson、Steven Yuen和Kerry Washington主演，将于10月9日在Netflix上线。Affleck曾以近6亿美元将自己的AI公司InterPositive出售给这家流媒体平台。"
-              },
-              {
-                "t": "p",
-                "x": "他说，一旦电影人对AI工具有了“掌控感”，这项技术就不再是“可怕的外星生物”，而会成为“另一种计算形式”；不过他并不认为AI能让电影人“输入[提示词]就做出一部人们想看的电影”。"
-              },
-              {
-                "t": "p",
-                "x": "他还否认了网上热传的Netflix要求电影人在片中反复交代剧情的说法，称“[Netflix]绝不会那样做”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ben Affleck usó IA para muchas\ncosas en Animals de Netflix",
-          "body": "Ben Affleck dice que usó IA para muchas cosas en Animals, su thriller de Netflix que se estrena el 9 de octubre.",
-          "mini_headline": "Animals, de Affleck, con ayuda de IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-              },
-              {
-                "t": "p",
-                "x": "Ben Affleck usó IA “para muchas cosas” en Animals, su próximo thriller de Netflix, según dijo el miércoles en el evento 2026 Screentime de Bloomberg, pero no quiso decir cuáles, porque “en mi negocio intentamos fomentar la ilusión de realidad”. Comparó revelarlas con un mago que anuncia dónde está el conejo escondido y añadió que considera la película un buen ejemplo de uso ético de la IA “porque es una película muy humana”."
-              },
-              {
-                "t": "p",
-                "x": "Animals, con Gillian Anderson, Steven Yuen y Kerry Washington, se estrena en Netflix el 9 de octubre. Affleck vendió su empresa de IA, InterPositive, a la plataforma por casi 600 millones de dólares."
-              },
-              {
-                "t": "p",
-                "x": "Afirmó que, cuando los cineastas adquieren “una sensación de control” sobre las herramientas de IA, la tecnología deja de ser un “alienígena aterrador” y se convierte en “otra forma de computación”, aunque no cree que la IA vaya a permitir nunca a un cineasta “escribir [un prompt] y hacer una película que la gente quiera ver”."
-              },
-              {
-                "t": "p",
-                "x": "También rechazó la afirmación viral de que Netflix obliga a los cineastas a repetir la trama de sus películas: “[Netflix] nunca haría eso”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Ben Affleck,\nAnimals에 AI 활용",
-          "body": "Ben Affleck은 Netflix Animals에 AI를 많이 썼다고 밝혔다.",
-          "mini_headline": "Affleck의 AI 활용작 Animals",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-              },
-              {
-                "t": "p",
-                "x": "Ben Affleck은 수요일 Bloomberg의 2026 Screentime 행사에서 곧 Netflix에 공개될 스릴러 Animals에 AI를 “여러 가지에” 썼다고 말했다. 다만 어디에 썼는지는 밝히지 않았다. “내 업계에서는 현실이라는 환상을 키우려 하기 때문”이라는 이유다. 그는 이를 공개하는 일을 마술사가 숨겨 둔 토끼를 미리 알리는 것에 빗댔고, 이 영화가 “매우 인간적인 영화이기 때문에” AI를 윤리적으로 활용한 좋은 사례라고 생각한다고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "Gillian Anderson, Steven Yuen, Kerry Washington이 출연하는 Animals는 10월 9일 Netflix에서 공개된다. Affleck은 자신의 AI 회사 InterPositive를 이 스트리머에 6억 달러 가까운 금액에 매각했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 영화 제작자가 AI 도구에 대해 “통제감”을 얻으면 이 기술은 더 이상 “무서운 외계 존재”가 아니라 “또 하나의 컴퓨팅 형태”가 된다고 말했다. 다만 AI 덕분에 영화 제작자가 “[프롬프트를] 입력해 사람들이 보고 싶어 하는 영화를 만드는” 날이 오리라고는 믿지 않는다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 Netflix가 영화 제작자에게 영화 줄거리를 거듭 설명하게 한다는 온라인 화제의 주장도 부인하며 “[Netflix는] 절대 그렇게 하지 않을 것”이라고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Ben Affleck、\n新作AnimalsでAI活用",
-          "body": "Ben AffleckはNetflixのスリラーAnimalsでAIを多用したと語った。",
-          "mini_headline": "AffleckのAI活用作Animals",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-              },
-              {
-                "t": "p",
-                "x": "Ben Affleckは水曜日、Bloombergの2026 Screentimeイベントで、近く配信されるNetflixのスリラーAnimalsでAIを「いろいろなことに」使ったと語った。ただし、どこに使ったかは明かさない。「私の業界では、現実だという錯覚を育もうとしているから」だという。彼はそれを明かすことを、マジシャンが隠したウサギを先に告げることにたとえ、この作品は「とても人間的な映画だから」AIを倫理的に使った好例だと思うと付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "Gillian Anderson、Steven Yuen、Kerry Washingtonが出演するAnimalsは、10月9日にNetflixで配信される。Affleckは自身のAI企業InterPositiveを同ストリーマーに6億ドル近くで売却している。"
-              },
-              {
-                "t": "p",
-                "x": "彼は、映画制作者がAIツールに対して「コントロールしている感覚」を得れば、この技術は「恐ろしいエイリアン」ではなくなり、「もう一つのコンピューティングの形」になると述べた。ただし、AIによって映画制作者が「［プロンプトを］打ち込んで、人々が見たい映画を作る」ことができるようになるとは考えていない。"
-              },
-              {
-                "t": "p",
-                "x": "また、Netflixが映画制作者に作品のあらすじを繰り返し説明させるという、ネットで拡散した主張も否定し、「［Netflixは］決してそんなことはしない」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ben Affleck称\nAnimals多处用AI",
-          "body": "Ben Affleck称他在Netflix惊悚片Animals中多处用了AI。",
-          "mini_headline": "Affleck借助AI的Animals",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-              },
-              {
-                "t": "p",
-                "x": "Ben Affleck周三在Bloomberg的2026 Screentime活动上表示，他在即将登陆Netflix的惊悚片Animals中把AI用于“很多方面”，但不愿透露具体是哪些，因为“在我这一行，我们努力营造真实的幻觉”。他把公开这些细节比作魔术师预先说出藏起来的兔子，并补充说，他认为这部电影是合乎伦理地使用AI的好例子，“因为它是一部非常有人情味的电影”。"
-              },
-              {
-                "t": "p",
-                "x": "Animals由Gillian Anderson、Steven Yuen和Kerry Washington主演，将于10月9日在Netflix上线。Affleck曾以近6亿美元将自己的AI公司InterPositive出售给这家流媒体平台。"
-              },
-              {
-                "t": "p",
-                "x": "他说，一旦电影人对AI工具有了“掌控感”，这项技术就不再是“可怕的外星生物”，而会成为“另一种计算形式”；不过他并不认为AI能让电影人“输入[提示词]就做出一部人们想看的电影”。"
-              },
-              {
-                "t": "p",
-                "x": "他还否认了网上热传的Netflix要求电影人在片中反复交代剧情的说法，称“[Netflix]绝不会那样做”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ben Affleck usó IA para muchas\ncosas en Animals de Netflix",
-          "body": "Ben Affleck dice que usó IA para muchas cosas en Animals, su thriller de Netflix que se estrena el 9 de octubre.",
-          "mini_headline": "Animals, de Affleck, con ayuda de IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810"
-              },
-              {
-                "t": "p",
-                "x": "Ben Affleck usó IA “para muchas cosas” en Animals, su próximo thriller de Netflix, según dijo el miércoles en el evento 2026 Screentime de Bloomberg, pero no quiso decir cuáles, porque “en mi negocio intentamos fomentar la ilusión de realidad”. Comparó revelarlas con un mago que anuncia dónde está el conejo escondido y añadió que considera la película un buen ejemplo de uso ético de la IA “porque es una película muy humana”."
-              },
-              {
-                "t": "p",
-                "x": "Animals, con Gillian Anderson, Steven Yuen y Kerry Washington, se estrena en Netflix el 9 de octubre. Affleck vendió su empresa de IA, InterPositive, a la plataforma por casi 600 millones de dólares."
-              },
-              {
-                "t": "p",
-                "x": "Afirmó que, cuando los cineastas adquieren “una sensación de control” sobre las herramientas de IA, la tecnología deja de ser un “alienígena aterrador” y se convierte en “otra forma de computación”, aunque no cree que la IA vaya a permitir nunca a un cineasta “escribir [un prompt] y hacer una película que la gente quiera ver”."
-              },
-              {
-                "t": "p",
-                "x": "También rechazó la afirmación viral de que Netflix obliga a los cineastas a repetir la trama de sus películas: “[Netflix] nunca haría eso”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "jadu",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Studio Jadu,\n대본을 애니메이션으로",
-      "body": "Studio Jadu는 AIDA로 창작자 대본을 애니메이션화하고 수익을 나눈다.",
-      "mini_headline": "Studio Jadu 출범",
-      "tool": "Movies",
-      "source": "AWN",
-      "url": "https://www.awn.com/news/former-youtube-and-tiktok-exec-masoud-loghmani-launches-studio-jadu",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-          },
-          {
-            "t": "p",
-            "x": "YouTube와 TikTok에서 크리에이터 수익화 제품을 만들고 키워 온 Masoud Loghmani가 AI 기반(AI-powered) 애니메이션 스튜디오 Studio Jadu를 출범했다. 스튜디오는 오리지널 애니메이션 쇼를 만드는 1인 아티스트와 소규모 팀을 돕고 수익도 함께 나눈다. 회사는 캘리포니아주 San Mateo에 있으며 Khosla Ventures와 Shakti VC에서 투자를 받았다."
-          },
-          {
-            "t": "p",
-            "x": "제작 도구 AIDA(AI Director's Assistant)는 아티스트의 대본을 애니메이션으로 바꾸되 창작 결정은 아티스트에게 맡긴다. 스튜디오는 이 도구를 프롬프트 기반 영상 생성기가 아니라 \"creative soundboard\"라고 부른다. 배급과 마케팅, 팬덤 형성, 수익화까지 돕는다."
-          },
-          {
-            "t": "p",
-            "x": "초기 작품으로는 에미상 4회 수상자 Fred Graver의 코미디 The Future Was Awesome, 스릴러 Sentinels, 초자연 미스터리 SDF가 있다. YouTube 구독자는 250만 명을 넘겼다."
-          },
-          {
-            "t": "p",
-            "x": "지금은 Pioneer Program 지원서를 받는 중이며, 애니메 스타일 프로젝트를 특히 눈여겨본다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Studio Jadu turns creator\nscripts into animation",
-          "body": "Masoud Loghmani's Studio Jadu uses its AIDA tool to animate creator scripts, with artists sharing in revenue.",
-          "mini_headline": "Studio Jadu launches",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-              },
-              {
-                "t": "p",
-                "x": "Masoud Loghmani, who built and scaled creator monetization products at YouTube and TikTok, has launched Studio Jadu, an AI-powered animation studio that backs solo artists and small teams as they make original animated shows and share in the revenue. The San Mateo, California company is backed by Khosla Ventures and Shakti VC."
-              },
-              {
-                "t": "p",
-                "x": "Its production tool, AIDA (AI Director's Assistant), turns an artist's script into animation while leaving creative decisions with the artist; the studio calls it a \"creative soundboard\" rather than a prompt-to-video generator, and also supports distribution, marketing, fandom development and monetization."
-              },
-              {
-                "t": "p",
-                "x": "Early shows include The Future Was Awesome, a comedy from four-time Emmy winner Fred Graver, the thriller Sentinels and the supernatural mystery SDF. The company has built an audience of more than 2.5 million YouTube subscribers."
-              },
-              {
-                "t": "p",
-                "x": "Its Pioneer Program is now accepting applications, with particular interest in anime-inspired projects."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Studio Jadu,\n대본을 애니메이션으로",
-          "body": "Studio Jadu는 AIDA로 창작자 대본을 애니메이션화하고 수익을 나눈다.",
-          "mini_headline": "Studio Jadu 출범",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-              },
-              {
-                "t": "p",
-                "x": "YouTube와 TikTok에서 크리에이터 수익화 제품을 만들고 키워 온 Masoud Loghmani가 AI 기반(AI-powered) 애니메이션 스튜디오 Studio Jadu를 출범했다. 스튜디오는 오리지널 애니메이션 쇼를 만드는 1인 아티스트와 소규모 팀을 돕고 수익도 함께 나눈다. 회사는 캘리포니아주 San Mateo에 있으며 Khosla Ventures와 Shakti VC에서 투자를 받았다."
-              },
-              {
-                "t": "p",
-                "x": "제작 도구 AIDA(AI Director's Assistant)는 아티스트의 대본을 애니메이션으로 바꾸되 창작 결정은 아티스트에게 맡긴다. 스튜디오는 이 도구를 프롬프트 기반 영상 생성기가 아니라 \"creative soundboard\"라고 부른다. 배급과 마케팅, 팬덤 형성, 수익화까지 돕는다."
-              },
-              {
-                "t": "p",
-                "x": "초기 작품으로는 에미상 4회 수상자 Fred Graver의 코미디 The Future Was Awesome, 스릴러 Sentinels, 초자연 미스터리 SDF가 있다. YouTube 구독자는 250만 명을 넘겼다."
-              },
-              {
-                "t": "p",
-                "x": "지금은 Pioneer Program 지원서를 받는 중이며, 애니메 스타일 프로젝트를 특히 눈여겨본다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Studio Jadu、\n脚本をアニメに",
-          "body": "Studio JaduはAIDAでクリエイターの脚本をアニメ化し、収益を分け合う。",
-          "mini_headline": "Studio Jadu始動",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-              },
-              {
-                "t": "p",
-                "x": "YouTubeとTikTokでクリエイター収益化プロダクトを構築・拡大してきたMasoud Loghmaniが、AIを活用した(AI-powered)アニメーションスタジオStudio Jaduを立ち上げた。オリジナルのアニメ作品を制作する個人アーティストや小規模チームを支援し、収益を分け合う。カリフォルニア州San Mateoを拠点とし、Khosla VenturesとShakti VCが出資している。"
-              },
-              {
-                "t": "p",
-                "x": "制作ツールAIDA(AI Director's Assistant)はアーティストの脚本をアニメーションに変換しつつ、創作上の判断はアーティストに委ねる。スタジオはこれをプロンプトから動画を生成するツールではなく\"creative soundboard\"と位置づけ、配信、マーケティング、ファンダム形成、収益化も支援する。"
-              },
-              {
-                "t": "p",
-                "x": "初期作品には、エミー賞4回受賞のFred Graverによるコメディ The Future Was Awesome、スリラー Sentinels、超自然ミステリー SDFがある。同社はYouTubeで250万人以上の登録者を獲得している。"
-              },
-              {
-                "t": "p",
-                "x": "現在Pioneer Programの応募を受け付けており、特にアニメ調のプロジェクトに関心を寄せている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Studio Jadu\n把创作者剧本变动画",
-          "body": "Studio Jadu用AIDA工具将创作者剧本制成动画，并与艺术家分享收入。",
-          "mini_headline": "Studio Jadu上线",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-              },
-              {
-                "t": "p",
-                "x": "曾在YouTube和TikTok打造并扩展创作者变现产品的Masoud Loghmani推出了AI驱动(AI-powered)的动画工作室Studio Jadu，支持独立艺术家和小团队制作原创动画节目，并与他们分享收入。这家位于加州San Mateo的公司获得了Khosla Ventures和Shakti VC的投资。"
-              },
-              {
-                "t": "p",
-                "x": "其制作工具AIDA(AI Director's Assistant)可将艺术家的剧本转化为动画，同时把创作决定权留给艺术家；工作室称它是\"creative soundboard\"，而非提示词生成视频的工具，并同时支持发行、营销、粉丝社群培育与变现。"
-              },
-              {
-                "t": "p",
-                "x": "首批作品包括四届艾美奖得主Fred Graver的喜剧The Future Was Awesome、惊悚片Sentinels和超自然悬疑片SDF。公司已在YouTube积累超过250万订阅者。"
-              },
-              {
-                "t": "p",
-                "x": "其Pioneer Program现已开放申请，尤其欢迎受日本动漫启发的项目。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Studio Jadu convierte guiones\nde creadores en animación",
-          "body": "Studio Jadu, de Masoud Loghmani, anima guiones de creadores con AIDA y comparte ingresos con los artistas.",
-          "mini_headline": "Nace Studio Jadu",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-              },
-              {
-                "t": "p",
-                "x": "Masoud Loghmani, que creó y escaló productos de monetización para creadores en YouTube y TikTok, ha lanzado Studio Jadu, un estudio de animación impulsado por IA (AI-powered) que respalda a artistas individuales y equipos pequeños mientras crean series animadas originales y comparten los ingresos. La empresa, con sede en San Mateo, California, cuenta con el respaldo de Khosla Ventures y Shakti VC."
-              },
-              {
-                "t": "p",
-                "x": "Su herramienta de producción, AIDA (AI Director's Assistant), convierte el guion de un artista en animación y deja las decisiones creativas en manos del artista; el estudio la describe como una \"creative soundboard\" y no como un generador de video a partir de prompts, y además apoya la distribución, el marketing, el desarrollo de comunidades de fans y la monetización."
-              },
-              {
-                "t": "p",
-                "x": "Entre las primeras series figuran The Future Was Awesome, una comedia de Fred Graver, ganador de cuatro premios Emmy; el thriller Sentinels y el misterio sobrenatural SDF. La compañía ha reunido una audiencia de más de 2,5 millones de suscriptores en YouTube."
-              },
-              {
-                "t": "p",
-                "x": "Su Pioneer Program ya acepta solicitudes, con especial interés en proyectos inspirados en el anime."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Studio Jadu,\n대본을 애니메이션으로",
-          "body": "Studio Jadu는 AIDA로 창작자 대본을 애니메이션화하고 수익을 나눈다.",
-          "mini_headline": "Studio Jadu 출범",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-              },
-              {
-                "t": "p",
-                "x": "YouTube와 TikTok에서 크리에이터 수익화 제품을 만들고 키워 온 Masoud Loghmani가 AI 기반(AI-powered) 애니메이션 스튜디오 Studio Jadu를 출범했다. 이 스튜디오는 오리지널 애니메이션 쇼를 만드는 1인 아티스트와 소규모 팀을 지원하고 수익을 함께 나눈다. 캘리포니아주 San Mateo에 자리한 이 회사는 Khosla Ventures와 Shakti VC의 투자를 받았다."
-              },
-              {
-                "t": "p",
-                "x": "제작 도구 AIDA(AI Director's Assistant)는 아티스트의 대본을 애니메이션으로 바꾸되 창작 결정은 아티스트에게 맡긴다. 스튜디오는 이를 프롬프트 기반 영상 생성기가 아닌 \"creative soundboard\"라고 부르며, 배급과 마케팅, 팬덤 형성, 수익화도 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "초기 작품으로는 에미상 4회 수상자 Fred Graver의 코미디 The Future Was Awesome, 스릴러 Sentinels, 초자연 미스터리 SDF가 있다. 회사는 250만 명이 넘는 YouTube 구독자를 확보했다."
-              },
-              {
-                "t": "p",
-                "x": "현재 Pioneer Program 지원서를 받고 있으며, 특히 애니메 스타일의 프로젝트에 관심을 두고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Studio Jadu、\n脚本をアニメに",
-          "body": "Studio JaduはAIDAでクリエイターの脚本をアニメ化し、収益を分け合う。",
-          "mini_headline": "Studio Jadu始動",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-              },
-              {
-                "t": "p",
-                "x": "YouTubeとTikTokでクリエイター収益化プロダクトを構築・拡大してきたMasoud Loghmaniが、AIを活用した(AI-powered)アニメーションスタジオStudio Jaduを立ち上げた。オリジナルのアニメ作品を制作する個人アーティストや小規模チームを支援し、収益を分け合う。カリフォルニア州San Mateoを拠点とし、Khosla VenturesとShakti VCが出資している。"
-              },
-              {
-                "t": "p",
-                "x": "制作ツールAIDA(AI Director's Assistant)はアーティストの脚本をアニメーションに変換しつつ、創作上の判断はアーティストに委ねる。スタジオはこれをプロンプトから動画を生成するツールではなく\"creative soundboard\"と位置づけ、配信、マーケティング、ファンダム形成、収益化も支援する。"
-              },
-              {
-                "t": "p",
-                "x": "初期作品には、エミー賞4回受賞のFred Graverによるコメディ The Future Was Awesome、スリラー Sentinels、超自然ミステリー SDFがある。同社はYouTubeで250万人以上の登録者を獲得している。"
-              },
-              {
-                "t": "p",
-                "x": "現在Pioneer Programの応募を受け付けており、特にアニメ調のプロジェクトに関心を寄せている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Studio Jadu\n把创作者剧本变动画",
-          "body": "Studio Jadu用AIDA工具将创作者剧本制成动画，并与艺术家分享收入。",
-          "mini_headline": "Studio Jadu上线",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-              },
-              {
-                "t": "p",
-                "x": "曾在YouTube和TikTok打造并扩展创作者变现产品的Masoud Loghmani推出了AI驱动(AI-powered)的动画工作室Studio Jadu，支持独立艺术家和小团队制作原创动画节目，并与他们分享收入。这家位于加州San Mateo的公司获得了Khosla Ventures和Shakti VC的投资。"
-              },
-              {
-                "t": "p",
-                "x": "其制作工具AIDA(AI Director's Assistant)可将艺术家的剧本转化为动画，同时把创作决定权留给艺术家；工作室称它是\"creative soundboard\"，而非提示词生成视频的工具，并同时支持发行、营销、粉丝社群培育与变现。"
-              },
-              {
-                "t": "p",
-                "x": "首批作品包括四届艾美奖得主Fred Graver的喜剧The Future Was Awesome、惊悚片Sentinels和超自然悬疑片SDF。公司已在YouTube积累超过250万订阅者。"
-              },
-              {
-                "t": "p",
-                "x": "其Pioneer Program现已开放申请，尤其欢迎受日本动漫启发的项目。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Studio Jadu convierte guiones\nde creadores en animación",
-          "body": "Studio Jadu, de Masoud Loghmani, anima guiones de creadores con AIDA y comparte ingresos con los artistas.",
-          "mini_headline": "Nace Studio Jadu",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/jadu1-1280.jpg?itok=R5EaQjbc"
-              },
-              {
-                "t": "p",
-                "x": "Masoud Loghmani, que creó y escaló productos de monetización para creadores en YouTube y TikTok, ha lanzado Studio Jadu, un estudio de animación impulsado por IA (AI-powered) que respalda a artistas individuales y equipos pequeños mientras crean series animadas originales y comparten los ingresos. La empresa, con sede en San Mateo, California, cuenta con el respaldo de Khosla Ventures y Shakti VC."
-              },
-              {
-                "t": "p",
-                "x": "Su herramienta de producción, AIDA (AI Director's Assistant), convierte el guion de un artista en animación y deja las decisiones creativas en manos del artista; el estudio la describe como una \"creative soundboard\" y no como un generador de video a partir de prompts, y además apoya la distribución, el marketing, el desarrollo de comunidades de fans y la monetización."
-              },
-              {
-                "t": "p",
-                "x": "Entre las primeras series figuran The Future Was Awesome, una comedia de Fred Graver, ganador de cuatro premios Emmy; el thriller Sentinels y el misterio sobrenatural SDF. La compañía ha reunido una audiencia de más de 2,5 millones de suscriptores en YouTube."
-              },
-              {
-                "t": "p",
-                "x": "Su Pioneer Program ya acepta solicitudes, con especial interés en proyectos inspirados en el anime."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "variety-animators-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 시대 주목할\n애니메이터 10인",
-      "body": "Variety 선정 2026 주목할 애니메이터 10인이 AI와 협업을 논했다.",
-      "mini_headline": "애니메이터들이 말하는 AI",
-      "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/awards/10-animators-to-watch-ai-animation-future-scad-1236894996/",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-          },
-          {
-            "t": "p",
-            "x": "애틀랜타에서 열린 제10회 SCAD AnimationFest 마지막 날, Variety가 선정한 2026년 10 Animators to Watch가 무대에 올라 자기 작업의 미래와, 사람의 손이 여전히 중요한 이유를 이야기했다. 이들은 아일랜드, 프랑스, 벨기에, 불가리아, 싱가포르, 홍콩, 캐나다, 미국(U.S.) 출신이며 손그림, 스톱모션, CG 애니메이션을 만든다."
-          },
-          {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-          },
-          {
-            "t": "p",
-            "x": "대화가 인공지능으로 넘어가자 패널들은 이를 정답이 하나뿐인 문제로 다루지 않았다. 대신 기술과 구체성, 협업 이야기로 돌아왔다. Cartoon Saloon의 Louise Bagnall은 최선의 방어는 더 구체적이 되는 것이라며 \"AI는 균질화로 흐르는 경향이 있다... 자신만의 관점에 기댈 수 있다. 세상을 보는 당신의 관점은 누구도 갖고 있지 않다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "\"Iron Boy\"의 애니메이션 감독 Chloë Aubert는 15년 전 2D가 사라지고 있다는 말을 들었지만 그저 만들고 싶은 작품을 계속 만들었다고 회상했다. Laika의 Tilly Fiddler는 AI로 만든 작품이라는 걸 알게 되면 흥미가 식는다고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-          },
-          {
-            "t": "p",
-            "x": "Spider-Verse 스토리보드 아티스트 Samantha Suyi Lee는 \"조금 두렵지만 나는 우리를 믿는다\"고 말했다. Disney의 Amol Sathe는 가장 좋은 프로젝트는 여전히 사람들이 협업하고 팀에 기대는 데서 나온다고 덧붙였다. 클린업 아티스트와 리거부터 제작팀까지, 잘 드러나지 않는 역할도 이날 조명을 받았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "10 Animators to Watch on AI\nand why the human hand matters",
-          "body": "Variety's 2026 class of 10 Animators to Watch discusses AI, unsung artists, collaboration and the medium's future.",
-          "mini_headline": "Animators weigh in on AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "On the final day of the 10th annual SCAD AnimationFest in Atlanta, Variety's 2026 class of 10 Animators to Watch took the stage to talk about the future of their craft and why the human hand still matters. The group spans Ireland, France, Belgium, Bulgaria, Singapore, Hong Kong, Canada and the U.S., working in hand-drawn, stop-motion and CG animation."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "When the talk turned to artificial intelligence, the panelists did not treat it as a single problem with one answer, returning instead to craft, specificity and collaboration. Cartoon Saloon's Louise Bagnall argued the best defense is to get more specific: \"AI tends toward homogeneity... You can lean into your own point of view. Nobody else has your point of view on the world.\""
-              },
-              {
-                "t": "p",
-                "x": "\"Iron Boy\" animation director Chloë Aubert recalled being told 15 years ago that 2D was disappearing, and simply kept making the work she wanted to make. Laika's Tilly Fiddler said she loses interest in work once she learns it is AI."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "\"It's a little scary, but I believe in us,\" said Spider-Verse storyboard artist Samantha Suyi Lee. Disney's Amol Sathe added that the best projects still come from people collaborating and relying on their teams. The panel also championed overlooked roles, from cleanup artists and riggers to production teams."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 시대 주목할\n애니메이터 10인",
-          "body": "Variety 선정 2026 주목할 애니메이터 10인이 AI와 협업을 논했다.",
-          "mini_headline": "애니메이터들이 말하는 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "애틀랜타에서 열린 제10회 SCAD AnimationFest 마지막 날, Variety가 선정한 2026년 10 Animators to Watch가 무대에 올라 자기 작업의 미래와, 사람의 손이 여전히 중요한 이유를 이야기했다. 이들은 아일랜드, 프랑스, 벨기에, 불가리아, 싱가포르, 홍콩, 캐나다, 미국(U.S.) 출신이며 손그림, 스톱모션, CG 애니메이션을 만든다."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "대화가 인공지능으로 넘어가자 패널들은 이를 정답이 하나뿐인 문제로 다루지 않았다. 대신 기술과 구체성, 협업 이야기로 돌아왔다. Cartoon Saloon의 Louise Bagnall은 최선의 방어는 더 구체적이 되는 것이라며 \"AI는 균질화로 흐르는 경향이 있다... 자신만의 관점에 기댈 수 있다. 세상을 보는 당신의 관점은 누구도 갖고 있지 않다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "\"Iron Boy\"의 애니메이션 감독 Chloë Aubert는 15년 전 2D가 사라지고 있다는 말을 들었지만 그저 만들고 싶은 작품을 계속 만들었다고 회상했다. Laika의 Tilly Fiddler는 AI로 만든 작품이라는 걸 알게 되면 흥미가 식는다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Spider-Verse 스토리보드 아티스트 Samantha Suyi Lee는 \"조금 두렵지만 나는 우리를 믿는다\"고 말했다. Disney의 Amol Sathe는 가장 좋은 프로젝트는 여전히 사람들이 협업하고 팀에 기대는 데서 나온다고 덧붙였다. 클린업 아티스트와 리거부터 제작팀까지, 잘 드러나지 않는 역할도 이날 조명을 받았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI時代に注目の\nアニメーター10人",
-          "body": "Variety選出の2026年注目アニメーター10人が、AIや協働、表現の未来を語った。",
-          "mini_headline": "アニメーターが語るAI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "アトランタで開かれた第10回SCAD AnimationFestの最終日、Varietyが選んだ2026年の10 Animators to Watchが登壇し、自らの仕事の未来と、人の手がなお重要である理由を語った。メンバーはアイルランド、フランス、ベルギー、ブルガリア、シンガポール、香港、カナダ、米国(U.S.)にまたがり、手描き、ストップモーション、CGアニメーションを手がける。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "話題が人工知能に及ぶと、パネリストたちはそれを答えが一つしかない単一の問題として扱わず、技巧、具体性、協働へと立ち返った。Cartoon SaloonのLouise Bagnallは、最善の防御はより具体的になることだと述べた。「AIは均質化に向かいがちだ……自分の視点に寄りかかればいい。世界に対するあなたの視点は、ほかの誰も持っていない」"
-              },
-              {
-                "t": "p",
-                "x": "「Iron Boy」のアニメーション監督Chloë Aubertは、15年前に2Dは消えつつあると言われたが、ただ作りたい作品を作り続けたと振り返った。LaikaのTilly Fiddlerは、作品がAIによるものだと知った途端に興味を失うと語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "「少し怖いけれど、私たちを信じている」とSpider-VerseのストーリーボードアーティストSamantha Suyi Leeは語った。DisneyのAmol Satheは、最良のプロジェクトは今も人々が協働し、チームを頼りにするところから生まれると付け加えた。パネルはクリーンアップアーティストやリガーから制作チームまで、見過ごされがちな役割にも光を当てた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Variety十位动画师\n谈AI与人手价值",
-          "body": "Variety评选的2026年十位值得关注的动画师，畅谈AI、协作与媒介的未来。",
-          "mini_headline": "动画师谈AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "在亚特兰大举行的第10届SCAD AnimationFest最后一天，Variety评选的2026年10 Animators to Watch登台，谈论这门手艺的未来，以及人手为何依然重要。这群动画师来自爱尔兰、法国、比利时、保加利亚、新加坡、香港、加拿大和美国(U.S.)，从事手绘、定格和CG动画创作。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "话题转到人工智能时，嘉宾们并未把它当作只有一个答案的单一问题，而是回到技艺、具体性与协作。Cartoon Saloon的Louise Bagnall认为最好的防御是变得更具体：“AI往往趋于同质化……你可以坚持自己的视角。没有人拥有你看待世界的视角。”"
-              },
-              {
-                "t": "p",
-                "x": "《Iron Boy》动画导演Chloë Aubert回忆，15年前就有人告诉她2D正在消失，而她只是继续做自己想做的作品。Laika的Tilly Fiddler说，一旦得知作品出自AI，她就会失去兴趣。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Spider-Verse分镜师Samantha Suyi Lee说：“有点可怕，但我相信我们。”Disney的Amol Sathe补充说，最好的项目依然来自人们的协作和对团队的依靠。嘉宾们也为常被忽视的岗位发声，从清稿师、绑定师到制作团队。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "10 Animators to Watch y la IA:\nla mano humana sigue importando",
-          "body": "La promoción 2026 de 10 Animators to Watch de Variety habla de IA, artistas anónimos, colaboración y futuro.",
-          "mini_headline": "Los animadores opinan sobre la IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "En la última jornada de la 10.ª edición de SCAD AnimationFest en Atlanta, la promoción 2026 de 10 Animators to Watch de Variety subió al escenario para hablar del futuro de su oficio y de por qué la mano humana sigue importando. El grupo abarca Irlanda, Francia, Bélgica, Bulgaria, Singapur, Hong Kong, Canadá y EE. UU. (U.S.), y trabaja en animación dibujada a mano, stop-motion y CG."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Cuando la conversación llegó a la inteligencia artificial, los panelistas no la trataron como un único problema con una sola respuesta, sino que volvieron al oficio, la especificidad y la colaboración. Louise Bagnall, de Cartoon Saloon, sostuvo que la mejor defensa es ser más específico: \"La IA tiende a la homogeneidad... Puedes apoyarte en tu propio punto de vista. Nadie más tiene tu punto de vista sobre el mundo\"."
-              },
-              {
-                "t": "p",
-                "x": "Chloë Aubert, directora de animación de \"Iron Boy\", recordó que hace 15 años le dijeron que el 2D estaba desapareciendo, y simplemente siguió haciendo el trabajo que quería hacer. Tilly Fiddler, de Laika, dijo que pierde el interés en una obra cuando se entera de que es IA."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "\"Da un poco de miedo, pero creo en nosotros\", dijo Samantha Suyi Lee, artista de storyboard de Spider-Verse. Amol Sathe, de Disney, añadió que los mejores proyectos siguen surgiendo de la colaboración entre personas y de la confianza en sus equipos. El panel también reivindicó funciones poco visibles, desde los artistas de limpieza y los riggers hasta los equipos de producción."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 시대 주목할\n애니메이터 10인",
-          "body": "Variety 선정 2026 주목할 애니메이터 10인이 AI와 협업을 논했다.",
-          "mini_headline": "애니메이터들이 말하는 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "애틀랜타에서 열린 제10회 SCAD AnimationFest 마지막 날, Variety가 선정한 2026년 10 Animators to Watch가 무대에 올라 자신들의 작업의 미래와 사람의 손이 여전히 중요한 이유를 이야기했다. 이들은 아일랜드, 프랑스, 벨기에, 불가리아, 싱가포르, 홍콩, 캐나다, 미국(U.S.) 출신으로 손그림, 스톱모션, CG 애니메이션 작업을 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "대화가 인공지능으로 옮겨 가자 패널들은 이를 정답이 하나뿐인 단일 문제로 다루지 않고 기술, 구체성, 협업으로 돌아왔다. Cartoon Saloon의 Louise Bagnall은 최선의 방어는 더 구체적이 되는 것이라며 \"AI는 균질화로 흐르는 경향이 있다... 자신만의 관점에 기댈 수 있다. 세상을 보는 당신의 관점은 누구도 갖고 있지 않다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "\"Iron Boy\"의 애니메이션 감독 Chloë Aubert는 15년 전 2D가 사라지고 있다는 말을 들었지만 그저 만들고 싶은 작품을 계속 만들었다고 회상했다. Laika의 Tilly Fiddler는 작품이 AI로 만들어졌다는 사실을 알게 되면 흥미를 잃는다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Spider-Verse 스토리보드 아티스트 Samantha Suyi Lee는 \"조금 두렵지만 나는 우리를 믿는다\"고 말했다. Disney의 Amol Sathe는 가장 좋은 프로젝트는 여전히 사람들이 협업하고 팀에 기대는 데서 나온다고 덧붙였다. 패널은 클린업 아티스트와 리거부터 제작팀까지 주목받지 못한 역할들도 조명했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI時代に注目の\nアニメーター10人",
-          "body": "Variety選出の2026年注目アニメーター10人が、AIや協働、表現の未来を語った。",
-          "mini_headline": "アニメーターが語るAI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "アトランタで開かれた第10回SCAD AnimationFestの最終日、Varietyが選んだ2026年の10 Animators to Watchが登壇し、自らの仕事の未来と、人の手がなお重要である理由を語った。メンバーはアイルランド、フランス、ベルギー、ブルガリア、シンガポール、香港、カナダ、米国(U.S.)にまたがり、手描き、ストップモーション、CGアニメーションを手がける。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "話題が人工知能に及ぶと、パネリストたちはそれを答えが一つしかない単一の問題として扱わず、技巧、具体性、協働へと立ち返った。Cartoon SaloonのLouise Bagnallは、最善の防御はより具体的になることだと述べた。「AIは均質化に向かいがちだ……自分の視点に寄りかかればいい。世界に対するあなたの視点は、ほかの誰も持っていない」"
-              },
-              {
-                "t": "p",
-                "x": "「Iron Boy」のアニメーション監督Chloë Aubertは、15年前に2Dは消えつつあると言われたが、ただ作りたい作品を作り続けたと振り返った。LaikaのTilly Fiddlerは、作品がAIによるものだと知った途端に興味を失うと語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "「少し怖いけれど、私たちを信じている」とSpider-VerseのストーリーボードアーティストSamantha Suyi Leeは語った。DisneyのAmol Satheは、最良のプロジェクトは今も人々が協働し、チームを頼りにするところから生まれると付け加えた。パネルはクリーンアップアーティストやリガーから制作チームまで、見過ごされがちな役割にも光を当てた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Variety十位动画师\n谈AI与人手价值",
-          "body": "Variety评选的2026年十位值得关注的动画师，畅谈AI、协作与媒介的未来。",
-          "mini_headline": "动画师谈AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "在亚特兰大举行的第10届SCAD AnimationFest最后一天，Variety评选的2026年10 Animators to Watch登台，谈论这门手艺的未来，以及人手为何依然重要。这群动画师来自爱尔兰、法国、比利时、保加利亚、新加坡、香港、加拿大和美国(U.S.)，从事手绘、定格和CG动画创作。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "话题转到人工智能时，嘉宾们并未把它当作只有一个答案的单一问题，而是回到技艺、具体性与协作。Cartoon Saloon的Louise Bagnall认为最好的防御是变得更具体：“AI往往趋于同质化……你可以坚持自己的视角。没有人拥有你看待世界的视角。”"
-              },
-              {
-                "t": "p",
-                "x": "《Iron Boy》动画导演Chloë Aubert回忆，15年前就有人告诉她2D正在消失，而她只是继续做自己想做的作品。Laika的Tilly Fiddler说，一旦得知作品出自AI，她就会失去兴趣。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Spider-Verse分镜师Samantha Suyi Lee说：“有点可怕，但我相信我们。”Disney的Amol Sathe补充说，最好的项目依然来自人们的协作和对团队的依靠。嘉宾们也为常被忽视的岗位发声，从清稿师、绑定师到制作团队。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "10 Animators to Watch y la IA:\nla mano humana sigue importando",
-          "body": "La promoción 2026 de 10 Animators to Watch de Variety habla de IA, artistas anónimos, colaboración y futuro.",
-          "mini_headline": "Los animadores opinan sobre la IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "En la última jornada de la 10.ª edición de SCAD AnimationFest en Atlanta, la promoción 2026 de 10 Animators to Watch de Variety subió al escenario para hablar del futuro de su oficio y de por qué la mano humana sigue importando. El grupo abarca Irlanda, Francia, Bélgica, Bulgaria, Singapur, Hong Kong, Canadá y EE. UU. (U.S.), y trabaja en animación dibujada a mano, stop-motion y CG."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112411.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Cuando la conversación llegó a la inteligencia artificial, los panelistas no la trataron como un único problema con una sola respuesta, sino que volvieron al oficio, la especificidad y la colaboración. Louise Bagnall, de Cartoon Saloon, sostuvo que la mejor defensa es ser más específico: \"La IA tiende a la homogeneidad... Puedes apoyarte en tu propio punto de vista. Nadie más tiene tu punto de vista sobre el mundo\"."
-              },
-              {
-                "t": "p",
-                "x": "Chloë Aubert, directora de animación de \"Iron Boy\", recordó que hace 15 años le dijeron que el 2D estaba desapareciendo, y simplemente siguió haciendo el trabajo que quería hacer. Tilly Fiddler, de Laika, dijo que pierde el interés en una obra cuando se entera de que es IA."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/2297112291.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "\"Da un poco de miedo, pero creo en nosotros\", dijo Samantha Suyi Lee, artista de storyboard de Spider-Verse. Amol Sathe, de Disney, añadió que los mejores proyectos siguen surgiendo de la colaboración entre personas y de la confianza en sus equipos. El panel también reivindicó funciones poco visibles, desde los artistas de limpieza y los riggers hasta los equipos de producción."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "massive",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Garfield 작가진,\nAI 애니 단편 제작",
-      "body": "Massive Studios가 TIFF에서 AI 크리스마스 단편 3편을 공개했다.",
-      "mini_headline": "Massive의 AI 단편",
-      "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/massive-studios-capcut-ai-films-todd-garner-reza-safai-1236716824/",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/animationworld/tripo-ais-yanpei-cao-talks-smartmesh-open-source-and-previs",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -1267,149 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+            "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
           },
           {
             "t": "p",
-            "x": "크리스마스 연휴를 배경으로 한 AI 기반(AI-powered) 애니메이션 단편 3편이 제작 중이고, 연말 전에 무료로 나온다. Massive Studios 공동 창업자 Reza Sixo Safai, The Garfield Movie 각본가 Paul A. Kaplan과 Mark Torgove, 프로듀서 Todd Garner가 Toronto International Film Festival 패널에서 이 AI 애니메이션(AI-animated) 단편들을 공개했다."
+            "x": "Tripo AI는 베이징에서 출발한 VAST의 제품 브랜드다. 이번 SIGGRAPH 2026에는 기술 논문 5편과 기조연설, Best in Show를 받은 Real-Time Live! 데모까지 들고 나왔다. 회사가 밝힌 사용자는 2000만 명이다. 올여름에는 기업가치 10억 달러에 약 3억 5000만 달러를 조달했다고 보도됐다."
           },
           {
             "t": "p",
-            "x": "작품은 Massive Studios가 CapCut과 함께 만들며, Video Studio와 영상 모델 Seedance 2.5 같은 AI 도구로 개발한다. Kaplan과 Torgove의 각본을 Safai가 연출하고 Garner가 제작을 맡는다. 예고편이 추수감사절 주말에 먼저 나오고, 작품은 크리스마스이브에 무료로 공개된다."
+            "x": "수석 과학자 Yanpei Cao에 따르면 이 데모는 이미 제품에 들어간 SmartMesh에서 나왔다. SmartMesh는 쓸 만한 토폴로지와 텍스처를 갖춘 게임용 에셋을 하나당 2초 안에 뽑도록 최적화돼 있고, 실제 출시 제품에서도 “5초나 10초도 걸리지 않는다”고 한다. 모델링부터 리메시, 리깅, 애니메이션, 텍스처까지 오픈소스를 기본으로 삼는다는 게 회사 설명이다."
           },
           {
             "t": "p",
-            "x": "팀에 따르면 단편은 손으로 그린 디자인과 배우의 연기를 결합하는 데서 출발했다. AI는 그 뒤 움직임을 입히는 데 썼다. Safai는 \"내게 중요한 것은 모든 프레임 뒤에 있는 사람들을 여전히 느낄 수 있다는 점\"이라고 말했다."
+            "x": "Cao가 꼽은 분야는 게임, 소비자용 3D 프린팅, 영화·애니메이션·XR, 로보틱스 네 가지다. 대형 스튜디오는 이 에셋을 레퍼런스나 정적 소품, 환경 블록아웃에 쓴다. 소규모 인디 팀은 이제 훨씬 많은 방향을 시험해 볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "영화 얘기에서 Cao는 솔직했다. “현재 출력 품질은... 영화 수준에 미치지 못한다. 그래도 사람들은 여전히 쓰고 있다”며 프리비즈가 “지금 우리에게 아주 큰 부분”이라고 덧붙였다. Tripo는 Maya, Houdini, Blender용 플러그인을 만드는 중이고, 번거로운 워크플로를 자동화하는 에이전트 시스템을 다음 목표로 잡았다. AI를 “아티스트와 함께... 그들을 건너뛰지 않고” 만들겠다는 얘기다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Garfield writers make\nAI animated shorts",
-          "body": "Massive Studios, CapCut and the Garfield Movie writers unveiled three free AI-animated Christmas shorts at TIFF.",
-          "mini_headline": "Massive's AI shorts",
+          "headline": "Tripo AI Pitches SmartMesh\nfor Blockouts and Previs",
+          "body": "Tripo AI's chief scientist Yanpei Cao says its generative 3D tools help artists with reference, blockouts and previs.",
+          "mini_headline": "Tripo SmartMesh\nfor Previs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
               },
               {
                 "t": "p",
-                "x": "A trio of AI-powered animated shorts set around the Christmas holiday is in the works and poised to debut before the end of the year — for free. Massive Studios co-founder Reza Sixo Safai, The Garfield Movie scribes Paul A. Kaplan and Mark Torgove and producer Todd Garner unveiled them at a Toronto International Film Festival panel."
+                "x": "Tripo AI, the product brand of Beijing-founded VAST, came to SIGGRAPH 2026 with five technical papers, a keynote and a Real-Time Live! demo that won Best in Show. The company reports 20 million users and raised roughly $350 million this summer at a reported $1 billion valuation."
               },
               {
                 "t": "p",
-                "x": "The films come from Massive Studios with CapCut and are being developed using AI tools like Video Studio and the video model Seedance 2.5. Safai will direct from Kaplan and Torgove's scripts, with Garner producing. A trailer debuts Thanksgiving weekend and the films arrive free on Christmas Eve."
+                "x": "Chief scientist Yanpei Cao said the demo was built on SmartMesh, already in the product, optimized to generate game-ready assets with usable topology and texture in under two seconds per asset; in the shipping product it \"takes less than five or 10 seconds.\" The company says its default is open source, across modeling, remesh, rigging, animation and texture."
               },
               {
                 "t": "p",
-                "x": "The team says the shorts began as hand-drawn designs combined with actor performances before AI helps bring them into motion. “What matters to me is that you can still feel the people behind every frame,” Safai said."
+                "x": "Cao named four sectors: gaming, consumer 3D printing, film/animation/XR, and robotics. Major studios use the assets as reference, static props or environment blockouts, while small indie teams can now explore many more directions."
+              },
+              {
+                "t": "p",
+                "x": "On film, Cao was direct: \"the current quality of the output... is not to film-quality standards. But people are still using it,\" adding that previs \"is a huge thing for us now.\" Tripo builds plugins for Maya, Houdini and Blender and is working toward an agentic system that automates tedious workflows, building AI \"with the artists... not around them.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Garfield 작가진,\nAI 애니 단편 제작",
-          "body": "Massive Studios가 TIFF에서 AI 크리스마스 단편 3편을 공개했다.",
-          "mini_headline": "Massive의 AI 단편",
+          "headline": "Tripo, 프리비즈용\nSmartMesh 제안",
+          "body": "Tripo AI는 생성형 3D 도구가 레퍼런스·블록아웃·프리비즈를 돕는다고 했다.",
+          "mini_headline": "프리비즈용 Tripo SmartMesh",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
               },
               {
                 "t": "p",
-                "x": "크리스마스 연휴를 배경으로 한 AI 기반(AI-powered) 애니메이션 단편 3편이 제작 중이고, 연말 전에 무료로 나온다. Massive Studios 공동 창업자 Reza Sixo Safai, The Garfield Movie 각본가 Paul A. Kaplan과 Mark Torgove, 프로듀서 Todd Garner가 Toronto International Film Festival 패널에서 이 AI 애니메이션(AI-animated) 단편들을 공개했다."
+                "x": "Tripo AI는 베이징에서 출발한 VAST의 제품 브랜드다. 이번 SIGGRAPH 2026에는 기술 논문 5편과 기조연설, Best in Show를 받은 Real-Time Live! 데모까지 들고 나왔다. 회사가 밝힌 사용자는 2000만 명이다. 올여름에는 기업가치 10억 달러에 약 3억 5000만 달러를 조달했다고 보도됐다."
               },
               {
                 "t": "p",
-                "x": "작품은 Massive Studios가 CapCut과 함께 만들며, Video Studio와 영상 모델 Seedance 2.5 같은 AI 도구로 개발한다. Kaplan과 Torgove의 각본을 Safai가 연출하고 Garner가 제작을 맡는다. 예고편이 추수감사절 주말에 먼저 나오고, 작품은 크리스마스이브에 무료로 공개된다."
+                "x": "수석 과학자 Yanpei Cao에 따르면 이 데모는 이미 제품에 들어간 SmartMesh에서 나왔다. SmartMesh는 쓸 만한 토폴로지와 텍스처를 갖춘 게임용 에셋을 하나당 2초 안에 뽑도록 최적화돼 있고, 실제 출시 제품에서도 “5초나 10초도 걸리지 않는다”고 한다. 모델링부터 리메시, 리깅, 애니메이션, 텍스처까지 오픈소스를 기본으로 삼는다는 게 회사 설명이다."
               },
               {
                 "t": "p",
-                "x": "팀에 따르면 단편은 손으로 그린 디자인과 배우의 연기를 결합하는 데서 출발했다. AI는 그 뒤 움직임을 입히는 데 썼다. Safai는 \"내게 중요한 것은 모든 프레임 뒤에 있는 사람들을 여전히 느낄 수 있다는 점\"이라고 말했다."
+                "x": "Cao가 꼽은 분야는 게임, 소비자용 3D 프린팅, 영화·애니메이션·XR, 로보틱스 네 가지다. 대형 스튜디오는 이 에셋을 레퍼런스나 정적 소품, 환경 블록아웃에 쓴다. 소규모 인디 팀은 이제 훨씬 많은 방향을 시험해 볼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "영화 얘기에서 Cao는 솔직했다. “현재 출력 품질은... 영화 수준에 미치지 못한다. 그래도 사람들은 여전히 쓰고 있다”며 프리비즈가 “지금 우리에게 아주 큰 부분”이라고 덧붙였다. Tripo는 Maya, Houdini, Blender용 플러그인을 만드는 중이고, 번거로운 워크플로를 자동화하는 에이전트 시스템을 다음 목표로 잡았다. AI를 “아티스트와 함께... 그들을 건너뛰지 않고” 만들겠다는 얘기다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Garfield脚本家が\nAIアニメ短編",
-          "body": "Massive StudiosとCapCutがTIFFでAIクリスマス短編3本を発表した。",
-          "mini_headline": "MassiveのAI短編",
+          "headline": "Tripo、プリビズ向け\nSmartMeshを提案",
+          "body": "Tripo AIの生成3Dツールはリファレンスやブロックアウト、プリビズを支えるという。",
+          "mini_headline": "プリビズ向けTripo SmartMesh",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
               },
               {
                 "t": "p",
-                "x": "クリスマス休暇を舞台にしたAIを活用した(AI-powered)アニメーション短編3本が制作中で、年内に無料で公開される予定だ。Massive Studios共同創業者のReza Sixo Safai、The Garfield Movieの脚本家Paul A. KaplanとMark Torgove、プロデューサーのTodd Garnerが、Toronto International Film Festivalのパネルでこれらの AI-animated 短編を発表した。"
+                "x": "Tripo AIは北京で創業したVASTのプロダクトブランドだ。SIGGRAPH 2026には技術論文5本、基調講演、そしてBest in Showを受賞したReal-Time Live!のデモを携えて参加した。同社のユーザー数は2000万人で、今夏、報道によれば評価額10億ドルで約3億5000万ドルを調達した。"
               },
               {
                 "t": "p",
-                "x": "作品はMassive StudiosがCapCutと組んで手がけ、Video Studioや動画モデルSeedance 2.5などのAIツールを使って開発している。KaplanとTorgoveの脚本をSafaiが監督し、Garnerがプロデュースする。予告編は感謝祭の週末に公開され、作品はクリスマスイブに無料で届けられる。"
+                "x": "首席科学者のYanpei Caoによると、デモはすでに製品に搭載されているSmartMeshを基盤にしている。SmartMeshは、使えるトポロジーとテクスチャを備えたゲーム用アセットを1アセットあたり2秒未満で生成できるよう最適化されており、出荷版の製品では「5秒か10秒もかからない」という。同社はモデリング、リメッシュ、リギング、アニメーション、テクスチャの全般でオープンソースを基本としている。"
               },
               {
                 "t": "p",
-                "x": "チームによると、短編は手描きのデザインと俳優の演技を組み合わせるところから始まり、その後AIが動きを与えている。「私にとって大切なのは、すべてのフレームの背後にいる人々を今も感じられることだ」とSafaiは語った。"
+                "x": "Caoはゲーム、一般消費者向け3Dプリント、映画・アニメーション・XR、ロボティクスの4分野を挙げた。大手スタジオはアセットをリファレンスや静的な小道具、環境のブロックアウトに使い、小規模なインディーチームはより多くの方向性を探れるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "映画についてCaoは率直だった。「現状の出力品質は……映画の品質基準には達していない。それでも人々は使っている」と述べ、プリビズは「今の我々にとって非常に大きな領域だ」と付け加えた。TripoはMaya、Houdini、Blender向けのプラグインを開発しており、面倒なワークフローを自動化するエージェント型システムを目指している。AIを「アーティストと共に……彼らを迂回するのではなく」作るという姿勢だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Garfield编剧\n打造AI动画短片",
-          "body": "Massive Studios与CapCut在TIFF发布三部免费AI圣诞动画短片。",
-          "mini_headline": "Massive的AI短片",
+          "headline": "Tripo为白模与预演\n主推SmartMesh",
+          "body": "Tripo AI首席科学家Yanpei Cao称，其生成式3D工具可用于参考、白模和预演。",
+          "mini_headline": "Tripo SmartMesh助力预演",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
               },
               {
                 "t": "p",
-                "x": "三部以圣诞假期为背景的AI驱动(AI-powered)动画短片正在制作中，预计年底前免费上线。Massive Studios联合创始人Reza Sixo Safai、The Garfield Movie编剧Paul A. Kaplan和Mark Torgove以及制片人Todd Garner在Toronto International Film Festival的一场座谈中公布了这些AI动画(AI-animated)短片。"
+                "x": "Tripo AI是北京创立的VAST旗下产品品牌，在SIGGRAPH 2026上带来了5篇技术论文、一场主题演讲，以及荣获Best in Show的Real-Time Live!演示。公司称拥有2000万用户，今年夏天据报道以10亿美元估值融资约3.5亿美元。"
               },
               {
                 "t": "p",
-                "x": "这些作品由Massive Studios与CapCut合作出品，使用Video Studio和视频模型Seedance 2.5等AI工具开发。Safai将执导Kaplan和Torgove的剧本，Garner担任制片。预告片将于感恩节周末首发，影片将在平安夜免费上线。"
+                "x": "首席科学家Yanpei Cao表示，这一演示基于已进入产品的SmartMesh。它经过优化，能以每个资产不到2秒的速度生成具备可用拓扑和纹理的游戏级资产；在正式产品中则“用时不到5秒或10秒”。公司称，其在建模、重拓扑、绑定、动画和纹理各环节默认开源。"
               },
               {
                 "t": "p",
-                "x": "团队表示，这些短片最初由手绘设计与演员表演结合而成，之后再借助AI让画面动起来。Safai说：“对我来说重要的是，你依然能感受到每一帧背后的人。”"
+                "x": "Cao列举了四个领域：游戏、消费级3D打印、电影/动画/XR，以及机器人。大型工作室将这些资产用作参考、静态道具或场景白模，而小型独立团队如今可以探索更多方向。"
+              },
+              {
+                "t": "p",
+                "x": "谈到电影，Cao直言：“目前输出的质量……还达不到电影级标准。但人们仍在使用”，并补充说预演“现在对我们来说是一件大事”。Tripo正在为Maya、Houdini和Blender开发插件，并致力于打造能自动化繁琐工作流的智能体系统，以“与艺术家一起……而不是绕开他们”的方式构建AI。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guionistas de Garfield crean\ncortos animados con IA",
-          "body": "Massive Studios, CapCut y los guionistas de Garfield presentaron en TIFF tres cortos navideños gratuitos hechos con IA.",
-          "mini_headline": "Los cortos con IA de Massive",
+          "headline": "Tripo AI propone SmartMesh\npara bloqueos y previsualización",
+          "body": "Según Yanpei Cao, de Tripo AI, sus herramientas 3D generativas ayudan con referencias, bloqueos y previsualización.",
+          "mini_headline": "Tripo SmartMesh para previsualización",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
               },
               {
                 "t": "p",
-                "x": "Un trío de cortos animados impulsados por IA (AI-powered) ambientados en las fiestas navideñas está en preparación y se estrenará antes de fin de año, de forma gratuita. Reza Sixo Safai, cofundador de Massive Studios; Paul A. Kaplan y Mark Torgove, guionistas de The Garfield Movie, y el productor Todd Garner presentaron estos cortos animados con IA (AI-animated) en un panel del Toronto International Film Festival."
+                "x": "Tripo AI, la marca de producto de VAST, empresa fundada en Pekín, llegó a SIGGRAPH 2026 con cinco artículos técnicos, una conferencia magistral y una demo en Real-Time Live! que ganó Best in Show. La compañía afirma tener 20 millones de usuarios y este verano recaudó unos 350 millones de dólares con una valoración que, según se informó, alcanza los 1.000 millones de dólares."
               },
               {
                 "t": "p",
-                "x": "Las películas son de Massive Studios junto con CapCut y se desarrollan con herramientas de IA como Video Studio y el modelo de video Seedance 2.5. Safai dirigirá a partir de los guiones de Kaplan y Torgove, con Garner como productor. Un tráiler se estrena el fin de semana de Acción de Gracias y las películas llegarán gratis en Nochebuena."
+                "x": "El científico jefe Yanpei Cao explicó que la demo se basó en SmartMesh, ya integrado en el producto y optimizado para generar assets listos para juegos, con topología y texturas utilizables, en menos de dos segundos por asset; en el producto comercial «tarda menos de cinco o 10 segundos». La empresa asegura que su opción por defecto es el código abierto en modelado, remallado, rigging, animación y texturizado."
               },
               {
                 "t": "p",
-                "x": "El equipo explica que los cortos empezaron como diseños dibujados a mano combinados con interpretaciones de actores, antes de que la IA ayudara a ponerlos en movimiento. “Lo que me importa es que todavía se pueda sentir a las personas detrás de cada fotograma”, dijo Safai."
+                "x": "Cao mencionó cuatro sectores: videojuegos, impresión 3D de consumo, cine/animación/XR y robótica. Los grandes estudios usan los assets como referencia, utilería estática o bloqueos de escenarios, mientras que los pequeños equipos independientes ahora pueden explorar muchas más direcciones."
+              },
+              {
+                "t": "p",
+                "x": "Sobre el cine, Cao fue directo: «la calidad actual de los resultados... no está a la altura de los estándares de cine. Pero la gente lo sigue usando», y añadió que la previsualización «es algo enorme para nosotros ahora». Tripo desarrolla plugins para Maya, Houdini y Blender y trabaja en un sistema agéntico que automatice los flujos de trabajo tediosos, construyendo IA «con los artistas... no a su alrededor»."
               }
             ]
           }
@@ -1417,105 +193,1339 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Garfield 작가진,\nAI 애니 단편 제작",
-          "body": "Massive Studios가 TIFF에서 AI 크리스마스 단편 3편을 공개했다.",
-          "mini_headline": "Massive의 AI 단편",
+          "headline": "Tripo, 프리비즈용\nSmartMesh 제안",
+          "body": "Tripo AI는 생성형 3D 도구가 레퍼런스·블록아웃·프리비즈를 돕는다고 했다.",
+          "mini_headline": "프리비즈용 Tripo SmartMesh",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
               },
               {
                 "t": "p",
-                "x": "크리스마스 연휴를 배경으로 한 AI 기반(AI-powered) 애니메이션 단편 3편이 제작 중이며, 연말 전에 무료로 공개될 예정이다. Massive Studios 공동 창업자 Reza Sixo Safai, The Garfield Movie 각본가 Paul A. Kaplan과 Mark Torgove, 프로듀서 Todd Garner가 Toronto International Film Festival 패널에서 이 AI 애니메이션(AI-animated) 단편들을 공개했다."
+                "x": "Tripo AI는 베이징에서 설립된 VAST의 제품 브랜드다. SIGGRAPH 2026에 기술 논문 5편과 기조연설, 그리고 Best in Show를 받은 Real-Time Live! 데모를 들고 나왔다. 회사는 사용자가 2000만 명이라고 밝혔고, 올여름 보도된 기업가치 10억 달러에 약 3억 5000만 달러를 조달했다."
               },
               {
                 "t": "p",
-                "x": "작품은 Massive Studios가 CapCut과 함께 만들며, Video Studio와 영상 모델 Seedance 2.5 같은 AI 도구로 개발하고 있다. Kaplan과 Torgove의 각본을 Safai가 연출하고 Garner가 제작을 맡는다. 예고편은 추수감사절 주말에 공개되고, 작품은 크리스마스이브에 무료로 나온다."
+                "x": "수석 과학자 Yanpei Cao는 이 데모가 이미 제품에 들어간 SmartMesh를 바탕으로 만들어졌다고 설명했다. SmartMesh는 쓸 만한 토폴로지와 텍스처를 갖춘 게임용 에셋을 에셋당 2초 이내에 생성하도록 최적화됐고, 실제 출시 제품에서는 “5초나 10초도 걸리지 않는다”고 한다. 회사는 모델링, 리메시, 리깅, 애니메이션, 텍스처 전반에서 오픈소스를 기본으로 삼는다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "팀에 따르면 단편은 손으로 그린 디자인과 배우의 연기를 결합하는 데서 출발했고, 이후 AI가 움직임을 입히는 데 쓰였다. Safai는 \"내게 중요한 것은 모든 프레임 뒤에 있는 사람들을 여전히 느낄 수 있다는 점\"이라고 말했다."
+                "x": "Cao는 게임, 소비자용 3D 프린팅, 영화·애니메이션·XR, 로보틱스의 네 분야를 꼽았다. 대형 스튜디오는 이 에셋을 레퍼런스나 정적 소품, 환경 블록아웃으로 쓰고, 소규모 인디 팀은 이제 훨씬 많은 방향을 탐색할 수 있게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "영화에 대해 Cao는 솔직했다. “현재 출력 품질은... 영화 수준에 미치지 못한다. 그래도 사람들은 여전히 쓰고 있다”며 프리비즈가 “지금 우리에게 아주 큰 부분”이라고 덧붙였다. Tripo는 Maya, Houdini, Blender용 플러그인을 만들고 있으며, 번거로운 워크플로를 자동화하는 에이전트 시스템을 향해 나아가고 있다. AI를 “아티스트와 함께... 그들을 건너뛰지 않고” 만든다는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Garfield脚本家が\nAIアニメ短編",
-          "body": "Massive StudiosとCapCutがTIFFでAIクリスマス短編3本を発表した。",
-          "mini_headline": "MassiveのAI短編",
+          "headline": "Tripo、プリビズ向け\nSmartMeshを提案",
+          "body": "Tripo AIの生成3Dツールはリファレンスやブロックアウト、プリビズを支えるという。",
+          "mini_headline": "プリビズ向けTripo SmartMesh",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
               },
               {
                 "t": "p",
-                "x": "クリスマス休暇を舞台にしたAIを活用した(AI-powered)アニメーション短編3本が制作中で、年内に無料で公開される予定だ。Massive Studios共同創業者のReza Sixo Safai、The Garfield Movieの脚本家Paul A. KaplanとMark Torgove、プロデューサーのTodd Garnerが、Toronto International Film Festivalのパネルでこれらの AI-animated 短編を発表した。"
+                "x": "Tripo AIは北京で創業したVASTのプロダクトブランドだ。SIGGRAPH 2026には技術論文5本、基調講演、そしてBest in Showを受賞したReal-Time Live!のデモを携えて参加した。同社のユーザー数は2000万人で、今夏、報道によれば評価額10億ドルで約3億5000万ドルを調達した。"
               },
               {
                 "t": "p",
-                "x": "作品はMassive StudiosがCapCutと組んで手がけ、Video Studioや動画モデルSeedance 2.5などのAIツールを使って開発している。KaplanとTorgoveの脚本をSafaiが監督し、Garnerがプロデュースする。予告編は感謝祭の週末に公開され、作品はクリスマスイブに無料で届けられる。"
+                "x": "首席科学者のYanpei Caoによると、デモはすでに製品に搭載されているSmartMeshを基盤にしている。SmartMeshは、使えるトポロジーとテクスチャを備えたゲーム用アセットを1アセットあたり2秒未満で生成できるよう最適化されており、出荷版の製品では「5秒か10秒もかからない」という。同社はモデリング、リメッシュ、リギング、アニメーション、テクスチャの全般でオープンソースを基本としている。"
               },
               {
                 "t": "p",
-                "x": "チームによると、短編は手描きのデザインと俳優の演技を組み合わせるところから始まり、その後AIが動きを与えている。「私にとって大切なのは、すべてのフレームの背後にいる人々を今も感じられることだ」とSafaiは語った。"
+                "x": "Caoはゲーム、一般消費者向け3Dプリント、映画・アニメーション・XR、ロボティクスの4分野を挙げた。大手スタジオはアセットをリファレンスや静的な小道具、環境のブロックアウトに使い、小規模なインディーチームはより多くの方向性を探れるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "映画についてCaoは率直だった。「現状の出力品質は……映画の品質基準には達していない。それでも人々は使っている」と述べ、プリビズは「今の我々にとって非常に大きな領域だ」と付け加えた。TripoはMaya、Houdini、Blender向けのプラグインを開発しており、面倒なワークフローを自動化するエージェント型システムを目指している。AIを「アーティストと共に……彼らを迂回するのではなく」作るという姿勢だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Garfield编剧\n打造AI动画短片",
-          "body": "Massive Studios与CapCut在TIFF发布三部免费AI圣诞动画短片。",
-          "mini_headline": "Massive的AI短片",
+          "headline": "Tripo为白模与预演\n主推SmartMesh",
+          "body": "Tripo AI首席科学家Yanpei Cao称，其生成式3D工具可用于参考、白模和预演。",
+          "mini_headline": "Tripo SmartMesh助力预演",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
               },
               {
                 "t": "p",
-                "x": "三部以圣诞假期为背景的AI驱动(AI-powered)动画短片正在制作中，预计年底前免费上线。Massive Studios联合创始人Reza Sixo Safai、The Garfield Movie编剧Paul A. Kaplan和Mark Torgove以及制片人Todd Garner在Toronto International Film Festival的一场座谈中公布了这些AI动画(AI-animated)短片。"
+                "x": "Tripo AI是北京创立的VAST旗下产品品牌，在SIGGRAPH 2026上带来了5篇技术论文、一场主题演讲，以及荣获Best in Show的Real-Time Live!演示。公司称拥有2000万用户，今年夏天据报道以10亿美元估值融资约3.5亿美元。"
               },
               {
                 "t": "p",
-                "x": "这些作品由Massive Studios与CapCut合作出品，使用Video Studio和视频模型Seedance 2.5等AI工具开发。Safai将执导Kaplan和Torgove的剧本，Garner担任制片。预告片将于感恩节周末首发，影片将在平安夜免费上线。"
+                "x": "首席科学家Yanpei Cao表示，这一演示基于已进入产品的SmartMesh。它经过优化，能以每个资产不到2秒的速度生成具备可用拓扑和纹理的游戏级资产；在正式产品中则“用时不到5秒或10秒”。公司称，其在建模、重拓扑、绑定、动画和纹理各环节默认开源。"
               },
               {
                 "t": "p",
-                "x": "团队表示，这些短片最初由手绘设计与演员表演结合而成，之后再借助AI让画面动起来。Safai说：“对我来说重要的是，你依然能感受到每一帧背后的人。”"
+                "x": "Cao列举了四个领域：游戏、消费级3D打印、电影/动画/XR，以及机器人。大型工作室将这些资产用作参考、静态道具或场景白模，而小型独立团队如今可以探索更多方向。"
+              },
+              {
+                "t": "p",
+                "x": "谈到电影，Cao直言：“目前输出的质量……还达不到电影级标准。但人们仍在使用”，并补充说预演“现在对我们来说是一件大事”。Tripo正在为Maya、Houdini和Blender开发插件，并致力于打造能自动化繁琐工作流的智能体系统，以“与艺术家一起……而不是绕开他们”的方式构建AI。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guionistas de Garfield crean\ncortos animados con IA",
-          "body": "Massive Studios, CapCut y los guionistas de Garfield presentaron en TIFF tres cortos navideños gratuitos hechos con IA.",
-          "mini_headline": "Los cortos con IA de Massive",
+          "headline": "Tripo AI propone SmartMesh\npara bloqueos y previsualización",
+          "body": "Según Yanpei Cao, de Tripo AI, sus herramientas 3D generativas ayudan con referencias, bloqueos y previsualización.",
+          "mini_headline": "Tripo SmartMesh para previsualización",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
               },
               {
                 "t": "p",
-                "x": "Un trío de cortos animados impulsados por IA (AI-powered) ambientados en las fiestas navideñas está en preparación y se estrenará antes de fin de año, de forma gratuita. Reza Sixo Safai, cofundador de Massive Studios; Paul A. Kaplan y Mark Torgove, guionistas de The Garfield Movie, y el productor Todd Garner presentaron estos cortos animados con IA (AI-animated) en un panel del Toronto International Film Festival."
+                "x": "Tripo AI, la marca de producto de VAST, empresa fundada en Pekín, llegó a SIGGRAPH 2026 con cinco artículos técnicos, una conferencia magistral y una demo en Real-Time Live! que ganó Best in Show. La compañía afirma tener 20 millones de usuarios y este verano recaudó unos 350 millones de dólares con una valoración que, según se informó, alcanza los 1.000 millones de dólares."
               },
               {
                 "t": "p",
-                "x": "Las películas son de Massive Studios junto con CapCut y se desarrollan con herramientas de IA como Video Studio y el modelo de video Seedance 2.5. Safai dirigirá a partir de los guiones de Kaplan y Torgove, con Garner como productor. Un tráiler se estrena el fin de semana de Acción de Gracias y las películas llegarán gratis en Nochebuena."
+                "x": "El científico jefe Yanpei Cao explicó que la demo se basó en SmartMesh, ya integrado en el producto y optimizado para generar assets listos para juegos, con topología y texturas utilizables, en menos de dos segundos por asset; en el producto comercial «tarda menos de cinco o 10 segundos». La empresa asegura que su opción por defecto es el código abierto en modelado, remallado, rigging, animación y texturizado."
               },
               {
                 "t": "p",
-                "x": "El equipo explica que los cortos empezaron como diseños dibujados a mano combinados con interpretaciones de actores, antes de que la IA ayudara a ponerlos en movimiento. “Lo que me importa es que todavía se pueda sentir a las personas detrás de cada fotograma”, dijo Safai."
+                "x": "Cao mencionó cuatro sectores: videojuegos, impresión 3D de consumo, cine/animación/XR y robótica. Los grandes estudios usan los assets como referencia, utilería estática o bloqueos de escenarios, mientras que los pequeños equipos independientes ahora pueden explorar muchas más direcciones."
+              },
+              {
+                "t": "p",
+                "x": "Sobre el cine, Cao fue directo: «la calidad actual de los resultados... no está a la altura de los estándares de cine. Pero la gente lo sigue usando», y añadió que la previsualización «es algo enorme para nosotros ahora». Tripo desarrolla plugins para Maya, Houdini y Blender y trabaja en un sistema agéntico que automatice los flujos de trabajo tediosos, construyendo IA «con los artistas... no a su alrededor»."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "curious-refuge-ai-depth-map",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "무료 AI 도구로\n영상에서 뎁스 맵 추출",
+      "body": "Curious Refuge가 무료 AI 도구로 뎁스 맵 만드는 법을 소개했다.",
+      "mini_headline": "뎁스 맵용 무료 AI 도구",
+      "tool": "Movies",
+      "source": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=BFsVW1DrLng",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "BFsVW1DrLng"
+          },
+          {
+            "t": "p",
+            "x": "Curious Refuge가 뎁스 맵을 만들 때 즐겨 쓰는 무료 AI 도구를 하나 소개했다. 바로 Depth Anything이다. 앱을 내려받아 Mac에서 로컬로 돌려도 되고, Fal.ai에서 온라인으로 써도 된다."
+          },
+          {
+            "t": "p",
+            "x": "뎁스 맵은 물체가 카메라에서 얼마나 가깝고 먼지를 명암으로 보여주는 회색조 영상이다. 튜토리얼에서 Fal에 영상을 올려 VDA Large 모델을 돌리자 약 60초 만에 뎁스 맵이 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "이렇게 뽑은 뎁스 맵은 AI 영상 도구에서 모션 레퍼런스 역할을 한다. 룩을 정하는 시작 이미지와 원본 영상을 함께 넣으면 생성된 숏은 원래 움직임과 공간 구조를 따르면서도 스타일과 환경은 달리할 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A Free AI Tool Pulls\nDepth Maps From Footage",
+          "body": "Curious Refuge shows how a free AI tool, run on a Mac or via Fal.ai, turns footage into depth maps that guide AI video.",
+          "mini_headline": "Free AI Tool\nfor Depth Maps",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BFsVW1DrLng"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge shares one of its favorite free AI tools for creating depth maps: Depth Anything, which can run locally on a Mac via a downloadable app or online through Fal.ai."
+              },
+              {
+                "t": "p",
+                "x": "A depth map is a grayscale video in which shades represent how close or far objects are from the camera. In the tutorial, footage uploaded to Fal with the VDA Large model rendered a depth map in roughly 60 seconds."
+              },
+              {
+                "t": "p",
+                "x": "The depth map is then used as a motion reference in an AI video tool, alongside a starting image for the look and the original footage, so the generated shot can change style and environment while following the original movement and spatial structure."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "무료 AI 도구로\n영상에서 뎁스 맵 추출",
+          "body": "Curious Refuge가 무료 AI 도구로 뎁스 맵 만드는 법을 소개했다.",
+          "mini_headline": "뎁스 맵용 무료 AI 도구",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BFsVW1DrLng"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge가 뎁스 맵을 만들 때 즐겨 쓰는 무료 AI 도구를 하나 소개했다. 바로 Depth Anything이다. 앱을 내려받아 Mac에서 로컬로 돌려도 되고, Fal.ai에서 온라인으로 써도 된다."
+              },
+              {
+                "t": "p",
+                "x": "뎁스 맵은 물체가 카메라에서 얼마나 가깝고 먼지를 명암으로 보여주는 회색조 영상이다. 튜토리얼에서 Fal에 영상을 올려 VDA Large 모델을 돌리자 약 60초 만에 뎁스 맵이 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "이렇게 뽑은 뎁스 맵은 AI 영상 도구에서 모션 레퍼런스 역할을 한다. 룩을 정하는 시작 이미지와 원본 영상을 함께 넣으면 생성된 숏은 원래 움직임과 공간 구조를 따르면서도 스타일과 환경은 달리할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "無料AIツールで\n映像から深度マップ",
+          "body": "Curious Refugeが無料AIツールで映像から深度マップを作る方法を紹介した。",
+          "mini_headline": "深度マップ用の無料AIツール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BFsVW1DrLng"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refugeは、深度マップ作成に愛用する無料AIツールの一つとしてDepth Anythingを紹介した。ダウンロード版アプリでMac上でローカルに動かすことも、Fal.ai経由でオンラインで使うこともできる。"
+              },
+              {
+                "t": "p",
+                "x": "深度マップとは、被写体がカメラからどれだけ近いか遠いかを濃淡で表したグレースケール映像だ。チュートリアルでは、映像をFalにアップロードしVDA Largeモデルを使うと、約60秒で深度マップがレンダリングされた。"
+              },
+              {
+                "t": "p",
+                "x": "この深度マップは、ルックを決める開始画像と元の映像とともに、AI動画ツールのモーションリファレンスとして使われる。これにより生成されたショットは、元の動きと空間構造に沿いながらスタイルや環境を変えられる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "免费AI工具\n从素材中提取深度图",
+          "body": "Curious Refuge演示了如何用免费AI工具把素材转成深度图以引导AI视频。",
+          "mini_headline": "免费AI工具生成深度图",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BFsVW1DrLng"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge分享了其最喜欢的免费深度图AI工具之一：Depth Anything。它既可通过下载应用在Mac上本地运行，也可通过Fal.ai在线使用。"
+              },
+              {
+                "t": "p",
+                "x": "深度图是一段灰度视频，用明暗表示物体离摄像机的远近。在教程中，将素材上传到Fal并使用VDA Large模型，约60秒便渲染出深度图。"
+              },
+              {
+                "t": "p",
+                "x": "随后，深度图在AI视频工具中用作运动参考，与决定画面风格的起始图像和原始素材一起使用，使生成的镜头在沿用原有运动和空间结构的同时，改变风格与环境。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una herramienta de IA gratuita\nextrae mapas de profundidad",
+          "body": "Curious Refuge muestra cómo una IA gratuita, en Mac o Fal.ai, convierte metraje en mapas de profundidad.",
+          "mini_headline": "IA gratuita para mapas de profundidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BFsVW1DrLng"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge comparte una de sus herramientas de IA gratuitas favoritas para crear mapas de profundidad: Depth Anything, que puede ejecutarse localmente en un Mac mediante una app descargable o en línea a través de Fal.ai."
+              },
+              {
+                "t": "p",
+                "x": "Un mapa de profundidad es un video en escala de grises en el que los tonos indican lo cerca o lejos que están los objetos de la cámara. En el tutorial, el metraje subido a Fal con el modelo VDA Large generó un mapa de profundidad en unos 60 segundos."
+              },
+              {
+                "t": "p",
+                "x": "Después, el mapa de profundidad se usa como referencia de movimiento en una herramienta de video con IA, junto con una imagen inicial que define el estilo visual y el metraje original, de modo que la toma generada puede cambiar de estilo y de entorno sin dejar de seguir el movimiento y la estructura espacial originales."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "무료 AI 도구로\n영상에서 뎁스 맵 추출",
+          "body": "Curious Refuge가 무료 AI 도구로 뎁스 맵 만드는 법을 소개했다.",
+          "mini_headline": "뎁스 맵용 무료 AI 도구",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BFsVW1DrLng"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge가 뎁스 맵 제작에 즐겨 쓰는 무료 AI 도구 하나를 소개했다. Depth Anything으로, 앱을 내려받아 Mac에서 로컬로 돌리거나 Fal.ai를 통해 온라인으로 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "뎁스 맵은 물체가 카메라에서 얼마나 가깝고 먼지를 명암으로 나타낸 회색조 영상이다. 튜토리얼에서는 Fal에 영상을 올리고 VDA Large 모델을 쓰자 약 60초 만에 뎁스 맵이 렌더링됐다."
+              },
+              {
+                "t": "p",
+                "x": "이렇게 만든 뎁스 맵은 AI 영상 도구에서 모션 레퍼런스로 쓰인다. 룩을 정하는 시작 이미지와 원본 영상을 함께 넣으면, 생성된 숏은 원래의 움직임과 공간 구조를 따르면서도 스타일과 환경을 바꿀 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "無料AIツールで\n映像から深度マップ",
+          "body": "Curious Refugeが無料AIツールで映像から深度マップを作る方法を紹介した。",
+          "mini_headline": "深度マップ用の無料AIツール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BFsVW1DrLng"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refugeは、深度マップ作成に愛用する無料AIツールの一つとしてDepth Anythingを紹介した。ダウンロード版アプリでMac上でローカルに動かすことも、Fal.ai経由でオンラインで使うこともできる。"
+              },
+              {
+                "t": "p",
+                "x": "深度マップとは、被写体がカメラからどれだけ近いか遠いかを濃淡で表したグレースケール映像だ。チュートリアルでは、映像をFalにアップロードしVDA Largeモデルを使うと、約60秒で深度マップがレンダリングされた。"
+              },
+              {
+                "t": "p",
+                "x": "この深度マップは、ルックを決める開始画像と元の映像とともに、AI動画ツールのモーションリファレンスとして使われる。これにより生成されたショットは、元の動きと空間構造に沿いながらスタイルや環境を変えられる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "免费AI工具\n从素材中提取深度图",
+          "body": "Curious Refuge演示了如何用免费AI工具把素材转成深度图以引导AI视频。",
+          "mini_headline": "免费AI工具生成深度图",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BFsVW1DrLng"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge分享了其最喜欢的免费深度图AI工具之一：Depth Anything。它既可通过下载应用在Mac上本地运行，也可通过Fal.ai在线使用。"
+              },
+              {
+                "t": "p",
+                "x": "深度图是一段灰度视频，用明暗表示物体离摄像机的远近。在教程中，将素材上传到Fal并使用VDA Large模型，约60秒便渲染出深度图。"
+              },
+              {
+                "t": "p",
+                "x": "随后，深度图在AI视频工具中用作运动参考，与决定画面风格的起始图像和原始素材一起使用，使生成的镜头在沿用原有运动和空间结构的同时，改变风格与环境。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una herramienta de IA gratuita\nextrae mapas de profundidad",
+          "body": "Curious Refuge muestra cómo una IA gratuita, en Mac o Fal.ai, convierte metraje en mapas de profundidad.",
+          "mini_headline": "IA gratuita para mapas de profundidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BFsVW1DrLng"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge comparte una de sus herramientas de IA gratuitas favoritas para crear mapas de profundidad: Depth Anything, que puede ejecutarse localmente en un Mac mediante una app descargable o en línea a través de Fal.ai."
+              },
+              {
+                "t": "p",
+                "x": "Un mapa de profundidad es un video en escala de grises en el que los tonos indican lo cerca o lejos que están los objetos de la cámara. En el tutorial, el metraje subido a Fal con el modelo VDA Large generó un mapa de profundidad en unos 60 segundos."
+              },
+              {
+                "t": "p",
+                "x": "Después, el mapa de profundidad se usa como referencia de movimiento en una herramienta de video con IA, junto con una imagen inicial que define el estilo visual y el metraje original, de modo que la toma generada puede cambiar de estilo y de entorno sin dejar de seguir el movimiento y la estructura espacial originales."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "bbc-brittin-ai-doctor-who",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "BBC 수장 AI-Made\n닥터 후 '꽤 좋다'",
+      "body": "BBC Matt Brittin은 전부 AI가 만든 닥터 후를 '꽤 좋다'고 했다.",
+      "mini_headline": "BBC 수장, AI 닥터 후 평가",
+      "tool": "Movies",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+          },
+          {
+            "t": "p",
+            "x": "BBC 사무총장 Matt Brittin은 AI로 만든(AI-generated) Doctor Who 에피소드가 “꽤 좋았다”고 평했다. 전 Google EMEA 대표인 그는 최근 누군가 이 장수 프랜차이즈의 50분짜리 에피소드를 보내왔는데 전부 AI로 만든 것이었다며, 굳이 깎아내리지 않았다. “사람을 대체하지는 않겠지만, 그 얘기는 곧 하겠다”는 말도 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "RTS London Convention에서 Brittin은 Amazon 인터내셔널 대표 Kelly Day와 같은 목소리로 AI의 힘을 옹호했다. “[이제] 누구나 할리우드 스튜디오에 가까운 수준의 콘텐츠를 만들 수 있다.” 그는 며칠 전에도 “가드레일 안에서”라면 AI가 제작하고 진행하는 프로그램도 허용하겠다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "이 발언은 BBC가 5억 파운드(6억 6200만 달러) 규모의 비용 절감으로 수백 명을 감원하는 와중에 나왔다. 곧 채널 폐쇄도 이어질 전망인데, BBC Three가 들어갈 수도 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "BBC Chief Calls AI-Made\nDoctor Who 'Pretty Good'",
+          "body": "BBC boss Matt Brittin says a fully AI-generated Doctor Who episode someone sent him was 'pretty good.'",
+          "mini_headline": "BBC Boss Rates\nAI Doctor Who",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "An AI-generated episode of Doctor Who was “pretty good,” according to BBC Director General Matt Brittin. The former Google EMEA boss said somebody had recently sent him a 50-minute episode of the long-running franchise that was completely AI-generated, and he refused to slam it. “I mean it’s not going to replace humans but we’ll come on to that,” he said."
+              },
+              {
+                "t": "p",
+                "x": "Speaking at the RTS London Convention, Brittin echoed Amazon international boss Kelly Day in backing the power of AI: “Everyone’s [now] got the ability to create content almost at the standard of a Hollywood studio.” Days earlier he said he would allow a programme to be made and presented by AI “within guardrails.”"
+              },
+              {
+                "t": "p",
+                "x": "The talk came amid a £500M ($662M) BBC savings drive leading to hundreds of layoffs, with channel closures, possibly including BBC Three, expected soon."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "BBC 수장 AI-Made\n닥터 후 '꽤 좋다'",
+          "body": "BBC Matt Brittin은 전부 AI가 만든 닥터 후를 '꽤 좋다'고 했다.",
+          "mini_headline": "BBC 수장, AI 닥터 후 평가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "BBC 사무총장 Matt Brittin은 AI로 만든(AI-generated) Doctor Who 에피소드가 “꽤 좋았다”고 평했다. 전 Google EMEA 대표인 그는 최근 누군가 이 장수 프랜차이즈의 50분짜리 에피소드를 보내왔는데 전부 AI로 만든 것이었다며, 굳이 깎아내리지 않았다. “사람을 대체하지는 않겠지만, 그 얘기는 곧 하겠다”는 말도 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "RTS London Convention에서 Brittin은 Amazon 인터내셔널 대표 Kelly Day와 같은 목소리로 AI의 힘을 옹호했다. “[이제] 누구나 할리우드 스튜디오에 가까운 수준의 콘텐츠를 만들 수 있다.” 그는 며칠 전에도 “가드레일 안에서”라면 AI가 제작하고 진행하는 프로그램도 허용하겠다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "이 발언은 BBC가 5억 파운드(6억 6200만 달러) 규모의 비용 절감으로 수백 명을 감원하는 와중에 나왔다. 곧 채널 폐쇄도 이어질 전망인데, BBC Three가 들어갈 수도 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "BBC会長、AI-Made\nドクター・フー「結構良い」",
+          "body": "BBCのMatt Brittinは全編AIで作ったドクター・フーを「かなり良い」と評した。",
+          "mini_headline": "BBC会長がAI版ドクター・フーを評価",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "BBCのMatt Brittin会長によれば、AI-generatedのDoctor Whoのエピソードは「かなり良かった」という。元Google EMEA責任者の彼は、最近誰かからこの長寿フランチャイズの50分のエピソードが送られてきたが、それは完全にAI生成だったと語り、酷評はしなかった。「人間に取って代わるものではないが、その話はあとでしよう」と彼は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "RTS London Conventionで登壇したBrittinは、Amazonの国際部門トップKelly Dayと同様にAIの力を支持し、「誰もが[今や]ハリウッドのスタジオにほぼ匹敵する水準のコンテンツを作れるようになった」と語った。その数日前には、「ガードレールの範囲内で」AIが制作・司会する番組を認める考えを示していた。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、BBCが5億ポンド（6億6200万ドル）の経費削減を進め、数百人規模の人員削減に至るなかで出たものだ。BBC Threeを含む可能性のあるチャンネル閉鎖も近く見込まれている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "BBC总裁：AI-Made\n《神秘博士》“挺好”",
+          "body": "BBC总裁Matt Brittin称，有人发给他的全AI生成《神秘博士》“相当不错”。",
+          "mini_headline": "BBC总裁点评AI版《神秘博士》",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "BBC总干事Matt Brittin表示，一集AI-generated的《神秘博士》（Doctor Who）“相当不错”。这位前Google EMEA负责人说，最近有人给他发来这部长寿系列的一集50分钟剧集，完全由AI生成，而他并未加以抨击。“我的意思是，它不会取代人类，不过这个我们稍后再谈，”他说。"
+              },
+              {
+                "t": "p",
+                "x": "在RTS London Convention上，Brittin与Amazon国际业务负责人Kelly Day一样力挺AI的能力：“每个人[如今]都有能力制作几乎达到好莱坞制片厂水准的内容。”几天前，他曾表示会允许“在护栏之内”由AI制作并主持节目。"
+              },
+              {
+                "t": "p",
+                "x": "这番言论发表之际，BBC正推进5亿英镑（6.62亿美元）的节支计划，导致数百人被裁，预计很快还将关停部分频道，可能包括BBC Three。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jefe de la BBC: el Doctor Who\nAI-Made es «bastante bueno»",
+          "body": "Matt Brittin, jefe de la BBC, dice que un episodio de Doctor Who generado por completo con IA era «bastante bueno».",
+          "mini_headline": "El jefe de la BBC valora un Doctor Who con IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Un episodio de Doctor Who generado por IA (AI-generated) fue «bastante bueno», según el director general de la BBC, Matt Brittin. El exresponsable de Google para EMEA contó que alguien le había enviado hace poco un episodio de 50 minutos de la longeva franquicia, generado por completo con IA, y se negó a criticarlo. «Quiero decir, no va a reemplazar a los humanos, pero hablaremos de eso», afirmó."
+              },
+              {
+                "t": "p",
+                "x": "En la RTS London Convention, Brittin coincidió con Kelly Day, responsable internacional de Amazon, en respaldar el poder de la IA: «Todo el mundo tiene [ya] la capacidad de crear contenido casi al nivel de un estudio de Hollywood». Días antes había dicho que permitiría que un programa fuera realizado y presentado por IA «dentro de unos límites»."
+              },
+              {
+                "t": "p",
+                "x": "La charla se produjo en medio de un plan de ahorro de la BBC de 500 millones de libras (662 millones de dólares) que conlleva cientos de despidos, con cierres de canales, posiblemente incluido BBC Three, previstos en breve."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "BBC 수장 AI-Made\n닥터 후 '꽤 좋다'",
+          "body": "BBC Matt Brittin은 전부 AI가 만든 닥터 후를 '꽤 좋다'고 했다.",
+          "mini_headline": "BBC 수장, AI 닥터 후 평가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "BBC 사무총장 Matt Brittin에 따르면, AI로 만든(AI-generated) Doctor Who 에피소드는 “꽤 좋았다”. 전 Google EMEA 대표인 그는 최근 누군가 이 장수 프랜차이즈의 50분짜리 에피소드를 보내왔는데 전부 AI로 생성된 것이었다고 전하며, 이를 깎아내리지 않았다. 그는 “사람을 대체하지는 않겠지만, 그 얘기는 곧 하겠다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "RTS London Convention에서 Brittin은 Amazon 인터내셔널 대표 Kelly Day와 같은 목소리로 AI의 힘을 지지했다. “[이제] 누구나 할리우드 스튜디오에 가까운 수준의 콘텐츠를 만들 수 있다.” 며칠 앞서 그는 “가드레일 안에서”라면 AI가 제작하고 진행하는 프로그램도 허용하겠다고 밝힌 바 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 발언은 BBC가 5억 파운드(6억 6200만 달러) 규모의 비용 절감에 나서 수백 명을 감원하는 가운데 나왔다. BBC Three를 포함할 수도 있는 채널 폐쇄도 곧 이어질 전망이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "BBC会長、AI-Made\nドクター・フー「結構良い」",
+          "body": "BBCのMatt Brittinは全編AIで作ったドクター・フーを「かなり良い」と評した。",
+          "mini_headline": "BBC会長がAI版ドクター・フーを評価",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "BBCのMatt Brittin会長によれば、AI-generatedのDoctor Whoのエピソードは「かなり良かった」という。元Google EMEA責任者の彼は、最近誰かからこの長寿フランチャイズの50分のエピソードが送られてきたが、それは完全にAI生成だったと語り、酷評はしなかった。「人間に取って代わるものではないが、その話はあとでしよう」と彼は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "RTS London Conventionで登壇したBrittinは、Amazonの国際部門トップKelly Dayと同様にAIの力を支持し、「誰もが[今や]ハリウッドのスタジオにほぼ匹敵する水準のコンテンツを作れるようになった」と語った。その数日前には、「ガードレールの範囲内で」AIが制作・司会する番組を認める考えを示していた。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、BBCが5億ポンド（6億6200万ドル）の経費削減を進め、数百人規模の人員削減に至るなかで出たものだ。BBC Threeを含む可能性のあるチャンネル閉鎖も近く見込まれている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "BBC总裁：AI-Made\n《神秘博士》“挺好”",
+          "body": "BBC总裁Matt Brittin称，有人发给他的全AI生成《神秘博士》“相当不错”。",
+          "mini_headline": "BBC总裁点评AI版《神秘博士》",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "BBC总干事Matt Brittin表示，一集AI-generated的《神秘博士》（Doctor Who）“相当不错”。这位前Google EMEA负责人说，最近有人给他发来这部长寿系列的一集50分钟剧集，完全由AI生成，而他并未加以抨击。“我的意思是，它不会取代人类，不过这个我们稍后再谈，”他说。"
+              },
+              {
+                "t": "p",
+                "x": "在RTS London Convention上，Brittin与Amazon国际业务负责人Kelly Day一样力挺AI的能力：“每个人[如今]都有能力制作几乎达到好莱坞制片厂水准的内容。”几天前，他曾表示会允许“在护栏之内”由AI制作并主持节目。"
+              },
+              {
+                "t": "p",
+                "x": "这番言论发表之际，BBC正推进5亿英镑（6.62亿美元）的节支计划，导致数百人被裁，预计很快还将关停部分频道，可能包括BBC Three。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jefe de la BBC: el Doctor Who\nAI-Made es «bastante bueno»",
+          "body": "Matt Brittin, jefe de la BBC, dice que un episodio de Doctor Who generado por completo con IA era «bastante bueno».",
+          "mini_headline": "El jefe de la BBC valora un Doctor Who con IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Un episodio de Doctor Who generado por IA (AI-generated) fue «bastante bueno», según el director general de la BBC, Matt Brittin. El exresponsable de Google para EMEA contó que alguien le había enviado hace poco un episodio de 50 minutos de la longeva franquicia, generado por completo con IA, y se negó a criticarlo. «Quiero decir, no va a reemplazar a los humanos, pero hablaremos de eso», afirmó."
+              },
+              {
+                "t": "p",
+                "x": "En la RTS London Convention, Brittin coincidió con Kelly Day, responsable internacional de Amazon, en respaldar el poder de la IA: «Todo el mundo tiene [ya] la capacidad de crear contenido casi al nivel de un estudio de Hollywood». Días antes había dicho que permitiría que un programa fuera realizado y presentado por IA «dentro de unos límites»."
+              },
+              {
+                "t": "p",
+                "x": "La charla se produjo en medio de un plan de ahorro de la BBC de 500 millones de libras (662 millones de dólares) que conlleva cientos de despidos, con cierres de canales, posiblemente incluido BBC Three, previstos en breve."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "curious-refuge-ai-sound-design",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 사운드 디자인\n시험대에 오르다",
+      "body": "Curious Refuge가 새 AI 사운드 도구의 후반 작업 활용도를 시험했다.",
+      "mini_headline": "AI 사운드 디자인 테스트",
+      "tool": "Movies",
+      "source": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=0yv0r5UyzCY",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "0yv0r5UyzCY"
+          },
+          {
+            "t": "p",
+            "x": "Curious Refuge가 AI 에이전트에게 사운드 디자인을 맡겨 봤다. 원래 사운드 디자인을 지운 영상에 InVideo의 새 에이전트와 ChatGPT Astra를 돌리고, 두 프로젝트에서 사람이 만든 버전과 결과를 나란히 비교했다."
+          },
+          {
+            "t": "p",
+            "x": "InVideo는 일부 효과를 제자리에 놓긴 했지만 레벨이 들쭉날쭉하고 장면과 어긋난 선택이 섞여 결과가 거칠었다. Adobe Premiere Pro 안에서 사운드 디자인을 짠 Astra 쪽이 더 쓸 만했다. 그래도 전문가 수준에는 못 미쳤다. 비용은 InVideo가 약 2시간에 4.56달러, Astra가 약 1시간 45분에 5.20달러였다."
+          },
+          {
+            "t": "p",
+            "x": "사람이 다듬을 거친 초안까지는 이 도구들로 쓸 만하다. 다만 타이밍과 감정, 창작 의도는 여전히 사람의 몫이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Curious Refuge Puts AI\nSound Design to the Test",
+          "body": "Curious Refuge runs new AI sound-design tools through multiple workflows to judge their value in post-production.",
+          "mini_headline": "AI Sound Design\nPut to the Test",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "0yv0r5UyzCY"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge tested whether AI agents can handle sound design, running InVideo's new agent and ChatGPT Astra on footage whose original sound design had been removed, then comparing the results with the human-made versions across two projects."
+              },
+              {
+                "t": "p",
+                "x": "InVideo placed some effects correctly but its execution was rough, with inconsistent leveling and choices that didn't fit the scene. Astra, which built the sound design inside Adobe Premiere Pro, produced the more useful result but still not professional quality. InVideo took about two hours and $4.56; Astra about 1 hour 45 minutes and $5.20."
+              },
+              {
+                "t": "p",
+                "x": "The verdict: the tools are useful for a rough first pass a human can refine, but timing, emotion and creative intent still need a human."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 사운드 디자인\n시험대에 오르다",
+          "body": "Curious Refuge가 새 AI 사운드 도구의 후반 작업 활용도를 시험했다.",
+          "mini_headline": "AI 사운드 디자인 테스트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "0yv0r5UyzCY"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge가 AI 에이전트에게 사운드 디자인을 맡겨 봤다. 원래 사운드 디자인을 지운 영상에 InVideo의 새 에이전트와 ChatGPT Astra를 돌리고, 두 프로젝트에서 사람이 만든 버전과 결과를 나란히 비교했다."
+              },
+              {
+                "t": "p",
+                "x": "InVideo는 일부 효과를 제자리에 놓긴 했지만 레벨이 들쭉날쭉하고 장면과 어긋난 선택이 섞여 결과가 거칠었다. Adobe Premiere Pro 안에서 사운드 디자인을 짠 Astra 쪽이 더 쓸 만했다. 그래도 전문가 수준에는 못 미쳤다. 비용은 InVideo가 약 2시간에 4.56달러, Astra가 약 1시간 45분에 5.20달러였다."
+              },
+              {
+                "t": "p",
+                "x": "사람이 다듬을 거친 초안까지는 이 도구들로 쓸 만하다. 다만 타이밍과 감정, 창작 의도는 여전히 사람의 몫이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIサウンドデザイン\nその実力を検証",
+          "body": "Curious Refugeが新しいAI音響ツールを試し、ポスプロでの価値を見極めた。",
+          "mini_headline": "AIサウンドデザインを検証",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "0yv0r5UyzCY"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refugeは、AIエージェントがサウンドデザインをこなせるかを検証した。元のサウンドデザインを取り除いた映像でInVideoの新エージェントとChatGPT Astraを走らせ、2つのプロジェクトで人間が手がけたバージョンと結果を比べた。"
+              },
+              {
+                "t": "p",
+                "x": "InVideoは一部の効果音を正しく配置したものの、音量レベルがばらつき、シーンに合わない選択もあって仕上がりは粗かった。Adobe Premiere Pro内でサウンドデザインを組み立てたAstraのほうが実用的な結果を出したが、それでもプロの品質には届かなかった。InVideoは約2時間で4.56ドル、Astraは約1時間45分で5.20ドルかかった。"
+              },
+              {
+                "t": "p",
+                "x": "結論として、これらのツールは人間が仕上げる前提の粗い下書きには役立つが、タイミングや感情、創作上の意図には依然として人間が必要だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Curious Refuge\n实测AI声音设计",
+          "body": "Curious Refuge用多种工作流测试新款AI声音设计工具，评估其后期制作价值。",
+          "mini_headline": "AI声音设计实测",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "0yv0r5UyzCY"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge测试了AI智能体能否胜任声音设计：在去除原有声音设计的素材上运行InVideo的新智能体和ChatGPT Astra，再在两个项目中将结果与人工制作的版本进行对比。"
+              },
+              {
+                "t": "p",
+                "x": "InVideo有些音效放对了位置，但整体执行粗糙，音量电平不一致，有些选择与场景不符。Astra在Adobe Premiere Pro中完成声音设计，结果更有用，但仍未达到专业水准。InVideo耗时约两小时、花费4.56美元；Astra约1小时45分钟、5.20美元。"
+              },
+              {
+                "t": "p",
+                "x": "结论是：这些工具适合做出供人打磨的粗略初稿，但节奏、情绪和创作意图仍需要人来把握。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Curious Refuge pone a prueba\nel diseño sonoro con IA",
+          "body": "Curious Refuge prueba nuevas herramientas de diseño sonoro con IA para medir su valor en posproducción.",
+          "mini_headline": "Diseño sonoro con IA a prueba",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "0yv0r5UyzCY"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge comprobó si los agentes de IA pueden encargarse del diseño sonoro: ejecutó el nuevo agente de InVideo y ChatGPT Astra sobre material al que se le había quitado el diseño sonoro original y comparó los resultados con las versiones hechas por personas en dos proyectos."
+              },
+              {
+                "t": "p",
+                "x": "InVideo colocó bien algunos efectos, pero la ejecución fue tosca, con niveles irregulares y decisiones que no encajaban con la escena. Astra, que construyó el diseño sonoro dentro de Adobe Premiere Pro, dio un resultado más útil, aunque todavía sin calidad profesional. InVideo tardó unas dos horas y costó $4.56; Astra, alrededor de 1 hora y 45 minutos y $5.20."
+              },
+              {
+                "t": "p",
+                "x": "El veredicto: las herramientas sirven para un primer borrador que una persona pueda pulir, pero el ritmo, la emoción y la intención creativa todavía requieren a un humano."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 사운드 디자인\n시험대에 오르다",
+          "body": "Curious Refuge가 새 AI 사운드 도구의 후반 작업 활용도를 시험했다.",
+          "mini_headline": "AI 사운드 디자인 테스트",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "0yv0r5UyzCY"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge는 AI 에이전트가 사운드 디자인을 해낼 수 있는지 시험했다. 원래 사운드 디자인을 지운 영상에 InVideo의 새 에이전트와 ChatGPT Astra를 돌린 뒤, 두 프로젝트에서 사람이 만든 버전과 결과를 비교했다."
+              },
+              {
+                "t": "p",
+                "x": "InVideo는 일부 효과를 제대로 배치했지만 레벨이 들쭉날쭉하고 장면에 맞지 않는 선택이 섞여 완성도가 거칠었다. Adobe Premiere Pro 안에서 사운드 디자인을 구성한 Astra가 더 쓸모 있는 결과를 냈지만, 여전히 전문가 수준에는 못 미쳤다. InVideo는 약 2시간에 4.56달러, Astra는 약 1시간 45분에 5.20달러가 들었다."
+              },
+              {
+                "t": "p",
+                "x": "결론은 이렇다. 이 도구들은 사람이 다듬을 거친 초안 작업에는 유용하지만, 타이밍과 감정, 창작 의도는 여전히 사람의 몫이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIサウンドデザイン\nその実力を検証",
+          "body": "Curious Refugeが新しいAI音響ツールを試し、ポスプロでの価値を見極めた。",
+          "mini_headline": "AIサウンドデザインを検証",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "0yv0r5UyzCY"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refugeは、AIエージェントがサウンドデザインをこなせるかを検証した。元のサウンドデザインを取り除いた映像でInVideoの新エージェントとChatGPT Astraを走らせ、2つのプロジェクトで人間が手がけたバージョンと結果を比べた。"
+              },
+              {
+                "t": "p",
+                "x": "InVideoは一部の効果音を正しく配置したものの、音量レベルがばらつき、シーンに合わない選択もあって仕上がりは粗かった。Adobe Premiere Pro内でサウンドデザインを組み立てたAstraのほうが実用的な結果を出したが、それでもプロの品質には届かなかった。InVideoは約2時間で4.56ドル、Astraは約1時間45分で5.20ドルかかった。"
+              },
+              {
+                "t": "p",
+                "x": "結論として、これらのツールは人間が仕上げる前提の粗い下書きには役立つが、タイミングや感情、創作上の意図には依然として人間が必要だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Curious Refuge\n实测AI声音设计",
+          "body": "Curious Refuge用多种工作流测试新款AI声音设计工具，评估其后期制作价值。",
+          "mini_headline": "AI声音设计实测",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "0yv0r5UyzCY"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge测试了AI智能体能否胜任声音设计：在去除原有声音设计的素材上运行InVideo的新智能体和ChatGPT Astra，再在两个项目中将结果与人工制作的版本进行对比。"
+              },
+              {
+                "t": "p",
+                "x": "InVideo有些音效放对了位置，但整体执行粗糙，音量电平不一致，有些选择与场景不符。Astra在Adobe Premiere Pro中完成声音设计，结果更有用，但仍未达到专业水准。InVideo耗时约两小时、花费4.56美元；Astra约1小时45分钟、5.20美元。"
+              },
+              {
+                "t": "p",
+                "x": "结论是：这些工具适合做出供人打磨的粗略初稿，但节奏、情绪和创作意图仍需要人来把握。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Curious Refuge pone a prueba\nel diseño sonoro con IA",
+          "body": "Curious Refuge prueba nuevas herramientas de diseño sonoro con IA para medir su valor en posproducción.",
+          "mini_headline": "Diseño sonoro con IA a prueba",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "0yv0r5UyzCY"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge comprobó si los agentes de IA pueden encargarse del diseño sonoro: ejecutó el nuevo agente de InVideo y ChatGPT Astra sobre material al que se le había quitado el diseño sonoro original y comparó los resultados con las versiones hechas por personas en dos proyectos."
+              },
+              {
+                "t": "p",
+                "x": "InVideo colocó bien algunos efectos, pero la ejecución fue tosca, con niveles irregulares y decisiones que no encajaban con la escena. Astra, que construyó el diseño sonoro dentro de Adobe Premiere Pro, dio un resultado más útil, aunque todavía sin calidad profesional. InVideo tardó unas dos horas y costó $4.56; Astra, alrededor de 1 hora y 45 minutos y $5.20."
+              },
+              {
+                "t": "p",
+                "x": "El veredicto: las herramientas sirven para un primer borrador que una persona pueda pulir, pero el ritmo, la emoción y la intención creativa todavía requieren a un humano."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "lightbox-expo-genai-ban",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "LightBox Expo\n생성형 AI에 강경 노선",
+      "body": "LightBox Expo 창립자들은 생성형 AI를 도둑질로 보고 금지한다고 했다.",
+      "mini_headline": "LightBox Expo, 생성형 AI 금지",
+      "tool": "Movies",
+      "source": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/festivals/lightbox-expo-bobby-chiu-jim-demonakos-267289.html",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+          },
+          {
+            "t": "p",
+            "x": "2018년 Jim Demonakos와 Bobby Chiu가 세운 LightBox Expo가 10월 23~25일 패서디나 컨벤션 센터로 돌아온다. 세션은 200개가 넘는다. 생성형 AI를 허용하지 않는 no-generative-AI 정책은 엄격해서, 패널은 물론 Artist Alley에서 파는 작품에도 적용된다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+            "cap": "애니 어워즈에 참석한 Bobby Chiu와 Jim Demonakos"
+          },
+          {
+            "t": "p",
+            "x": "Demonakos에 따르면 엑스포는 전시장과 Artist Alley에서 4년, 어쩌면 5년째 AI 정책을 운영해 왔다. “AI 작품은 누군가에게서 훔친 것이니, 우리는 사실상 해적판으로 본다.” 지난해에는 이 정책을 관람객에게도 내걸었다. “우리는 생성형 AI가 도둑질이며 진짜 예술이 아니라고 생각한다.”"
+          },
+          {
+            "t": "p",
+            "x": "AI 기업들이 반발하지 않았느냐는 질문에는 전혀 없었다고 답했다. 아티스트들은 대체로 이 입장을 반겼다고 한다. Chiu는 자신의 LightBox 패널에서 AI 없이도 시간과 인력, 비용을 덜 들이고 작업하는 법을 보여주는 식으로 AI에 맞선다고 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Disney, DreamWorks, Paramount, Illumination, Laika 같은 주요 스튜디오도 해마다 인재를 찾으러 다시 온다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "LightBox Expo Holds a Hard\nLine Against Generative AI",
+          "body": "LightBox Expo's founders explain why the concept-art show bans generative AI, which they call theft and not real art.",
+          "mini_headline": "LightBox Expo\nBans Gen AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "LightBox Expo, founded in 2018 by Jim Demonakos and Bobby Chiu, returns to the Pasadena Convention Center October 23–25 with more than 200 sessions. Its strict no-generative-AI policy applies not only to panels but also to work sold in Artist Alley."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+                "cap": "Bobby Chiu, Jim Demonakos at the Annie Awards"
+              },
+              {
+                "t": "p",
+                "x": "Demonakos said the expo has had an AI policy on its exhibit floor and in Artist Alley for four, possibly five, years: “We essentially consider AI work bootleg because you’ve stolen it from someone.” Last year it became attendee-facing. “We think generative AI is theft and it’s not real art.”"
+              },
+              {
+                "t": "p",
+                "x": "Asked about pushback from AI companies, he said there has been none, and artists have generally lauded the stance. Chiu said his own LightBox panel pushes back against AI by showing how to work with less time, fewer people and less money without using any AI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Major studios including Disney, DreamWorks, Paramount, Illumination and Laika return year after year to recruit."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "LightBox Expo\n생성형 AI에 강경 노선",
+          "body": "LightBox Expo 창립자들은 생성형 AI를 도둑질로 보고 금지한다고 했다.",
+          "mini_headline": "LightBox Expo, 생성형 AI 금지",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "2018년 Jim Demonakos와 Bobby Chiu가 세운 LightBox Expo가 10월 23~25일 패서디나 컨벤션 센터로 돌아온다. 세션은 200개가 넘는다. 생성형 AI를 허용하지 않는 no-generative-AI 정책은 엄격해서, 패널은 물론 Artist Alley에서 파는 작품에도 적용된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+                "cap": "애니 어워즈에 참석한 Bobby Chiu와 Jim Demonakos"
+              },
+              {
+                "t": "p",
+                "x": "Demonakos에 따르면 엑스포는 전시장과 Artist Alley에서 4년, 어쩌면 5년째 AI 정책을 운영해 왔다. “AI 작품은 누군가에게서 훔친 것이니, 우리는 사실상 해적판으로 본다.” 지난해에는 이 정책을 관람객에게도 내걸었다. “우리는 생성형 AI가 도둑질이며 진짜 예술이 아니라고 생각한다.”"
+              },
+              {
+                "t": "p",
+                "x": "AI 기업들이 반발하지 않았느냐는 질문에는 전혀 없었다고 답했다. 아티스트들은 대체로 이 입장을 반겼다고 한다. Chiu는 자신의 LightBox 패널에서 AI 없이도 시간과 인력, 비용을 덜 들이고 작업하는 법을 보여주는 식으로 AI에 맞선다고 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Disney, DreamWorks, Paramount, Illumination, Laika 같은 주요 스튜디오도 해마다 인재를 찾으러 다시 온다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "LightBox Expo\n生成AIに強硬姿勢",
+          "body": "LightBox Expoの創設者が生成AIを盗みとみなし禁止する理由を語った。",
+          "mini_headline": "LightBox Expoが生成AIを禁止",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "2018年にJim DemonakosとBobby Chiuが創設したLightBox Expoが、10月23〜25日にパサデナ・コンベンション・センターで200以上のセッションとともに開催される。厳格なno-generative-AI（生成AI禁止）ポリシーは、パネルだけでなくArtist Alleyで販売される作品にも適用される。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+                "cap": "アニー賞でのBobby ChiuとJim Demonakos"
+              },
+              {
+                "t": "p",
+                "x": "Demonakosによれば、同エキスポは展示フロアとArtist Alleyで4年、ひょっとすると5年前からAIポリシーを設けている。「AI作品は誰かから盗んだものなので、基本的に海賊版と見なしている」。昨年からはこの方針を来場者向けにも打ち出した。「生成AIは盗みであり、本物の芸術ではないと考えている」"
+              },
+              {
+                "t": "p",
+                "x": "AI企業からの反発について問われると、彼はまったくないと答え、アーティストからはおおむね称賛されているという。Chiuは自身のLightBoxパネルで、AIを一切使わずに、より少ない時間、人数、予算で仕事をする方法を示すことでAIに対抗していると語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Disney、DreamWorks、Paramount、Illumination、Laikaなどの大手スタジオが、毎年のように人材採用に訪れている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "LightBox Expo\n对生成式AI立场强硬",
+          "body": "LightBox Expo创办人解释为何禁用生成式AI：他们认为那是盗窃，并非真正的艺术。",
+          "mini_headline": "LightBox Expo禁用生成式AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "LightBox Expo由Jim Demonakos和Bobby Chiu于2018年创办，将于10月23日至25日重返帕萨迪纳会议中心，带来200多场活动。其严格的no-generative-AI（禁止生成式AI）政策不仅适用于座谈，也适用于Artist Alley出售的作品。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+                "cap": "Bobby Chiu与Jim Demonakos在安妮奖现场"
+              },
+              {
+                "t": "p",
+                "x": "Demonakos表示，展会在展区和Artist Alley实行AI政策已有四年，也可能是五年：“我们基本上把AI作品视为盗版，因为那是从别人那里偷来的。”去年，这项政策开始面向观众。“我们认为生成式AI就是盗窃，它不是真正的艺术。”"
+              },
+              {
+                "t": "p",
+                "x": "被问及是否遭到AI公司反对时，他说一次也没有，艺术家们则普遍称赞这一立场。Chiu说，他自己的LightBox座谈通过展示如何在完全不用AI的情况下，以更少的时间、人手和资金完成工作，来对抗AI。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Disney、DreamWorks、Paramount、Illumination和Laika等大型工作室年年回到这里招揽人才。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "LightBox Expo mantiene una\nlínea dura ante la IA generativa",
+          "body": "Los fundadores de LightBox Expo explican por qué vetan la IA generativa: la consideran robo, no arte real.",
+          "mini_headline": "LightBox Expo veta la IA generativa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "LightBox Expo, fundada en 2018 por Jim Demonakos y Bobby Chiu, vuelve al Pasadena Convention Center del 23 al 25 de octubre con más de 200 sesiones. Su estricta política no-generative-AI (sin IA generativa) se aplica no solo a los paneles, sino también a las obras que se venden en Artist Alley."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+                "cap": "Bobby Chiu y Jim Demonakos en los Annie Awards"
+              },
+              {
+                "t": "p",
+                "x": "Demonakos explicó que la exposición lleva cuatro, quizá cinco, años con una política sobre IA en su zona de exhibición y en Artist Alley: «En esencia, consideramos que la obra hecha con IA es pirata, porque se la has robado a alguien». El año pasado la política pasó a aplicarse también de cara a los asistentes. «Creemos que la IA generativa es un robo y que no es arte de verdad»."
+              },
+              {
+                "t": "p",
+                "x": "Preguntado por posibles reacciones en contra de empresas de IA, dijo que no ha habido ninguna y que los artistas, en general, han elogiado la postura. Chiu contó que su propio panel en LightBox planta cara a la IA al mostrar cómo trabajar con menos tiempo, menos personas y menos dinero sin usar IA en absoluto."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Grandes estudios como Disney, DreamWorks, Paramount, Illumination y Laika vuelven año tras año para reclutar talento."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "LightBox Expo\n생성형 AI에 강경 노선",
+          "body": "LightBox Expo 창립자들은 생성형 AI를 도둑질로 보고 금지한다고 했다.",
+          "mini_headline": "LightBox Expo, 생성형 AI 금지",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "2018년 Jim Demonakos와 Bobby Chiu가 세운 LightBox Expo가 10월 23~25일 패서디나 컨벤션 센터에서 200개가 넘는 세션과 함께 돌아온다. 생성형 AI를 허용하지 않는 엄격한 no-generative-AI 정책은 패널뿐 아니라 Artist Alley에서 판매되는 작품에도 적용된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+                "cap": "애니 어워즈에 참석한 Bobby Chiu와 Jim Demonakos"
+              },
+              {
+                "t": "p",
+                "x": "Demonakos는 엑스포가 전시장과 Artist Alley에서 4년, 어쩌면 5년째 AI 정책을 운영해 왔다고 말했다. “AI 작품은 누군가에게서 훔친 것이니, 우리는 사실상 해적판으로 본다.” 지난해에는 이 정책을 관람객에게도 내걸었다. “우리는 생성형 AI가 도둑질이며 진짜 예술이 아니라고 생각한다.”"
+              },
+              {
+                "t": "p",
+                "x": "AI 기업들의 반발이 있었느냐는 질문에 그는 전혀 없었다고 답했고, 아티스트들은 대체로 이 입장을 높이 평가했다고 전했다. Chiu는 자신의 LightBox 패널에서 AI를 전혀 쓰지 않고도 더 적은 시간과 인력, 비용으로 작업하는 법을 보여주며 AI에 맞선다고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Disney, DreamWorks, Paramount, Illumination, Laika 등 주요 스튜디오가 해마다 인재를 찾으러 다시 참가한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "LightBox Expo\n生成AIに強硬姿勢",
+          "body": "LightBox Expoの創設者が生成AIを盗みとみなし禁止する理由を語った。",
+          "mini_headline": "LightBox Expoが生成AIを禁止",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "2018年にJim DemonakosとBobby Chiuが創設したLightBox Expoが、10月23〜25日にパサデナ・コンベンション・センターで200以上のセッションとともに開催される。厳格なno-generative-AI（生成AI禁止）ポリシーは、パネルだけでなくArtist Alleyで販売される作品にも適用される。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+                "cap": "アニー賞でのBobby ChiuとJim Demonakos"
+              },
+              {
+                "t": "p",
+                "x": "Demonakosによれば、同エキスポは展示フロアとArtist Alleyで4年、ひょっとすると5年前からAIポリシーを設けている。「AI作品は誰かから盗んだものなので、基本的に海賊版と見なしている」。昨年からはこの方針を来場者向けにも打ち出した。「生成AIは盗みであり、本物の芸術ではないと考えている」"
+              },
+              {
+                "t": "p",
+                "x": "AI企業からの反発について問われると、彼はまったくないと答え、アーティストからはおおむね称賛されているという。Chiuは自身のLightBoxパネルで、AIを一切使わずに、より少ない時間、人数、予算で仕事をする方法を示すことでAIに対抗していると語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Disney、DreamWorks、Paramount、Illumination、Laikaなどの大手スタジオが、毎年のように人材採用に訪れている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "LightBox Expo\n对生成式AI立场强硬",
+          "body": "LightBox Expo创办人解释为何禁用生成式AI：他们认为那是盗窃，并非真正的艺术。",
+          "mini_headline": "LightBox Expo禁用生成式AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "LightBox Expo由Jim Demonakos和Bobby Chiu于2018年创办，将于10月23日至25日重返帕萨迪纳会议中心，带来200多场活动。其严格的no-generative-AI（禁止生成式AI）政策不仅适用于座谈，也适用于Artist Alley出售的作品。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+                "cap": "Bobby Chiu与Jim Demonakos在安妮奖现场"
+              },
+              {
+                "t": "p",
+                "x": "Demonakos表示，展会在展区和Artist Alley实行AI政策已有四年，也可能是五年：“我们基本上把AI作品视为盗版，因为那是从别人那里偷来的。”去年，这项政策开始面向观众。“我们认为生成式AI就是盗窃，它不是真正的艺术。”"
+              },
+              {
+                "t": "p",
+                "x": "被问及是否遭到AI公司反对时，他说一次也没有，艺术家们则普遍称赞这一立场。Chiu说，他自己的LightBox座谈通过展示如何在完全不用AI的情况下，以更少的时间、人手和资金完成工作，来对抗AI。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Disney、DreamWorks、Paramount、Illumination和Laika等大型工作室年年回到这里招揽人才。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "LightBox Expo mantiene una\nlínea dura ante la IA generativa",
+          "body": "Los fundadores de LightBox Expo explican por qué vetan la IA generativa: la consideran robo, no arte real.",
+          "mini_headline": "LightBox Expo veta la IA generativa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+              },
+              {
+                "t": "p",
+                "x": "LightBox Expo, fundada en 2018 por Jim Demonakos y Bobby Chiu, vuelve al Pasadena Convention Center del 23 al 25 de octubre con más de 200 sesiones. Su estricta política no-generative-AI (sin IA generativa) se aplica no solo a los paneles, sino también a las obras que se venden en Artist Alley."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+                "cap": "Bobby Chiu y Jim Demonakos en los Annie Awards"
+              },
+              {
+                "t": "p",
+                "x": "Demonakos explicó que la exposición lleva cuatro, quizá cinco, años con una política sobre IA en su zona de exhibición y en Artist Alley: «En esencia, consideramos que la obra hecha con IA es pirata, porque se la has robado a alguien». El año pasado la política pasó a aplicarse también de cara a los asistentes. «Creemos que la IA generativa es un robo y que no es arte de verdad»."
+              },
+              {
+                "t": "p",
+                "x": "Preguntado por posibles reacciones en contra de empresas de IA, dijo que no ha habido ninguna y que los artistas, en general, han elogiado la postura. Chiu contó que su propio panel en LightBox planta cara a la IA al mostrar cómo trabajar con menos tiempo, menos personas y menos dinero sin usar IA en absoluto."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Grandes estudios como Disney, DreamWorks, Paramount, Illumination y Laika vuelven año tras año para reclutar talento."
               }
             ]
           }

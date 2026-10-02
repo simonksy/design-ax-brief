@@ -1,143 +1,163 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "books",
+  "now_iso": "2026-10-02T22:00:00Z",
   "window_hours": 336,
-  "_note": "Collected via 30+ allowed-domain RSS feeds (PW x5 sections, Bookseller section pages, PP, Good e-Reader, Jane Friedman, Lit Hub, Book Riot, SK, TDR, TeleRead, Guardian books+AI, TC, Verge, Ars, Wired, B+P, Buchmesse press), 20 Google News RSS queries (when:14d), Bing News RSS for URL resolution, 3 WebSearches. On-list AI yield thin (7 items); off-list admitted under exception. Dropped: Scholarly Kitchen x2 (already published), Tsuda voice ruling / Thomson Reuters appeal / Murakami AI translation (published), Orelien follow-ups, BISG report (Jane Friedman), Tanapaev (RTE), Kindle 2026 refresh (no AI), Buchmesse 'Frankfurt Calling' + Druid Learning interview (no verifiable date), Atlantic 'Parasite Authors' (blocked), Forbes KDP slop (blocked + covered), edaily 똑서 (AI marginal), ProPublica/ASU (not books).",
   "items": [
     {
+      "title": "AAP, Authors Guild Applaud Decision in ROSS Copyright Infringement Case",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-10-02T00:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+      "excerpt": "An appeals judge backed a Delaware court ruling that found the now-defunct AI startup’s unauthorized copying of text from Thomson Reuters’s Westlaw platform was not fair use.",
       "category": "books",
-      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-      "source": "TechCrunch",
-      "published_iso": "2026-10-01T13:00:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1179901012.jpg?resize=1200,800",
-      "title": "Audible's new features let you explore book worlds — and use AI to talk to characters",
-      "excerpt": "Audible is rolling out features that track characters, surface places and imagery mentioned in books, and let listeners interact with characters via generative AI."
+      "section": "books"
     },
     {
+      "title": "Unsealed Files Show Open AI/Microsoft Knew Copying Was Illegal and Could Hurt Authors",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-09-21T00:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131557-2.JPG",
+      "excerpt": "Newly unsealed comments made in briefs filed by Open AI and Microsoft reveal that executives knew they were illegally training their products on copyrighted books and that AI generated books would likely displace human-authored books in the market.",
       "category": "books",
-      "url": "https://publishingperspectives.com/2026/10/innovation-with-ai-abounds-the-international-digital-publishing-award-announces-12-finalists/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-10-01T12:33:02Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen.png",
-      "title": "Innovation with AI Abounds: The International Digital Publishing Award Announces 12 Finalists",
-      "excerpt": "The International Digital Publishing Award names 12 finalists dominated by AI projects (AI translation, audiobooks, dyslexia tools); winners announced at Frankfurter Buchmesse next week."
+      "section": "books"
     },
     {
-      "category": "books",
-      "url": "https://www.thebookseller.com/comment/ai-narration-companies-audiobook-trojan-horse",
+      "title": "OpenAI 'trained models' on books from 'sketchy AF' LibGen, unsealed court filings reveal",
+      "url": "https://www.thebookseller.com/news/openai-trained-models-on-books-from-sketchy-af-libgen-unsealed-court-filings-reveal",
       "source": "The Bookseller",
-      "published_iso": "2026-10-01T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg",
-      "title": "AI narration companies are the audiobook industry's Trojan horse",
-      "excerpt": "Audio specialist Jessica Barnfield argues AI voice firms like ElevenLabs aren't widening access to audiobooks so much as gathering publishers' data."
+      "published_iso": "2026-09-23T11:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
+      "excerpt": "OpenAI staff discussed using books obtained from Library Genesis (LibGen) to train early GPT models, questioned how the source should be described publicly and weighed the cost of buying books instead.",
+      "category": "books",
+      "section": "books"
     },
     {
-      "category": "books",
+      "title": "AI might kill us, but is that so bad?",
       "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad",
       "source": "The Bookseller",
       "published_iso": "2026-10-01T13:45:00Z",
       "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg",
-      "title": "AI might kill us, but is that so bad?",
-      "excerpt": "Novelist Bonnie Garmus argues that while AI has alarmed most writers, it has also exposed the hubris of humankind. Opinion column."
+      "excerpt": "While the advent of AI has alarmed most writers, Bonnie Garmus argues it has also shone a light on the hubris of humankind.",
+      "category": "books",
+      "section": "books"
     },
     {
+      "title": "Another AI scandal affects an author in competition for a prestigious award",
+      "url": "https://janefriedman.com/another-ai-scandal-affects-an-author-in-competition-for-a-prestigious-award/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-30T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
+      "excerpt": "Every high-visibility award is at risk of finding itself in this situation if it intends to exclude AI-assisted work from consideration.",
       "category": "books",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "source": "TechCrunch",
-      "published_iso": "2026-10-01T17:50:19Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200",
-      "title": "Opus 5.5 loves to tell you 'this matters' (and other AI writing tells)",
-      "excerpt": "An analysis of model-specific prose tells finds Opus 5.5's biggest giveaway is the word 'dependable', used 23x more often than in human writing samples."
+      "section": "books"
     },
     {
+      "title": "OpenAI seeks to exclude book market study, citing funding ties to authors’ law firm",
+      "url": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-30T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "The accuracy and funding of research claiming Gen AI causes market harm have become important questions in the consolidated lawsuits.",
       "category": "books",
-      "url": "https://goodereader.com/blog/e-book-news/as-ai-generated-books-flood-amazon-lynotes-ai-detector-and-note-generator-give-readers-two-different-kinds-of-control",
-      "source": "Good e-Reader",
-      "published_iso": "2026-09-29T04:00:18Z",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/09/28235944/Picture1.png",
-      "title": "As AI-Generated Books Flood Amazon, Lynote's AI Detector And Note Generator Give Readers Two Different Kinds Of Control",
-      "excerpt": "Citing data that AI-assisted titles now make up as much as 31% of new Amazon Top 25 entrants, the piece pitches Lynote's sentence-level AI detector for checking 'Look Inside' previews. Possibly advertorial; verify before picking."
+      "section": "books"
     },
     {
+      "title": "Publishing industry organizations release 2026 report on AI use",
+      "url": "https://janefriedman.com/publishing-industry-organizations-release-2026-report-on-ai-use/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-30T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "Publishers report increased AI usage internally for marketing, metadata and title optimization, and admin work.",
       "category": "books",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101281-frankfurt-book-fair-2026-must-see-events.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-09-18T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131537-1.PNG",
-      "title": "Frankfurt Book Fair 2026: Must-See Events",
-      "excerpt": "PW's pre-fair guide: AI narration (Blinkist, Storytel), 'AI in Culture: Truth or Fiction?', AI and book publishing breakthroughs, and protecting content from AI text-and-data mining top Frankfurt's programme. Overlaps 09-25 Hall 4.1 card; push down."
+      "section": "books"
     },
     {
+      "title": "Can Better Wording Fix the “Made With AI” Problem? New 2026 Research Says It's Complicated",
+      "url": "https://the-digital-reader.com/can-better-wording-fix-the-made-with-ai-problem-new-2026-research-says-its-complicated/",
+      "source": "The Digital Reader",
+      "published_iso": "2026-10-02T15:17:43+00:00",
+      "og_image": "https://the-digital-reader.com/wp-content/uploads/2026/10/Wording.png",
+      "excerpt": "Can better wording solve the “Made With AI” problem? Explore what new 2026 research reveals about AI-generated content, detection, trust, and communication.",
       "category": "books",
+      "section": "books"
+    },
+    {
+      "title": "Dartmouth Provost’s “AI Dependency” Sparks Backlash",
+      "url": "https://www.insidehighered.com/news/governance/executive-leadership/2026/09/29/dartmouth-provosts-ai-dependency-sparks-backlash",
+      "source": "Inside Higher Ed",
+      "published_iso": "2026-09-29T07:00:00Z",
+      "og_image": "https://www.insidehighered.com/sites/default/files/styles/large/public/2024-03/GettyImages-930144692.jpg?itok=vhTcdN7X",
+      "excerpt": "Some students and faculty are calling for the provost’s firing after he allegedly used generative AI to write professional articles. He’s admitted to using ChatGPT, but says it didn’t replace his own intellectual judgment or authorship.",
+      "category": "books",
+      "section": "books"
+    },
+    {
+      "title": "Frankfurter Buchmesse 2026: Program Picks",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-program-picks/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-10-02T11:51:01+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2017/10/710-Buchmesse-Fahnen-2F-Book-Fair-flags-710x473-ftw.jpg",
+      "excerpt": "A sampling of the hundreds of outstanding panels and presentations on tap at the 2026 Frankfurter Buchmesse, which gets underway next week.",
+      "category": "books",
+      "section": "books"
+    },
+    {
+      "title": "Claremont author faces criticism over AI art in new book",
+      "url": "https://vnews.com/2026/10/02/ai-book-controversy-claremont/",
+      "source": "Valley News",
+      "published_iso": "2026-10-02T18:37:00+00:00",
+      "og_image": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=2560%2C1583&ssl=1",
+      "excerpt": "Claremont Middle School hosted author Giulio Savo and his book \"Directive Detectives: The Freedom Trail Directive,\" sparking debate over the use of AI in children's literature.",
+      "category": "books",
+      "section": "books",
+      "off_list": true
+    },
+    {
+      "title": "Is AI coming for audiobooks?",
       "url": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry",
       "source": "Marketplace",
-      "published_iso": "2026-09-30T21:30:00Z",
+      "published_iso": "2026-09-30T17:30:00-04:00",
       "og_image": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-      "title": "Is AI coming for audiobooks?",
-      "excerpt": "AI companies like ElevenLabs and Spoken are angling for the fast-growing audiobook market; it remains to be seen whether listeners will buy AI-narrated books."
+      "excerpt": "AI companies like ElevenLabs and Spoken are angling for the fast-growing audiobook market. It remains to be seen if consumers will buy in.",
+      "category": "books",
+      "section": "books",
+      "off_list": true
     },
     {
+      "title": "New AI Model: GPT-6.1 Sol",
+      "url": "https://feedback.sudowrite.com/changelog/new-ai-model-gpt-61-sol",
+      "source": "Sudowrite",
+      "published_iso": "2026-09-30T23:47:38.360Z",
+      "og_image": "https://og.featurebase.app/?type=root&title=New+AI+Model%3A+GPT-6.1+Sol&description=Barely+a+week+after+launching+GPT-6+Sol%2C+OpenAI+is+back+with+an+upgrade%3A+GPT-6.1+Sol+is+now+available%2C+and+we%27ve+added+it+to+Sudowrite.+OpenAI+built+t&companyLogo=https%3A%2F%2Ffb-usercontent.fra1.cdn.digitaloceanspaces.com%2F019224dc-a888-7f48-9ff1-ea2dd116543a.png&companyName=Sudowrite&companyThemeColor=%23b169ff&companyTLP=bottom",
+      "excerpt": "Barely a week after GPT-6 Sol, OpenAI's GPT-6.1 Sol upgrade is now available inside Sudowrite for fiction writers.",
       "category": "books",
-      "url": "https://spectrumnews1.com/oh/columbus/news/2026/09/30/authors-say-ai-generated-books-are-making-human-work-harder-to-find",
-      "source": "Spectrum News 1",
-      "published_iso": "2026-09-30T14:58:00Z",
-      "og_image": "https://s7d2.scene7.com/is/image/TWCNews/OH-20ai-20impact-20on-20authors-20digital-20image_1790778998847",
-      "title": "Authors say AI-generated books are making human work harder to find",
-      "excerpt": "Ohio authors raise concerns about AI-generated books crowding Amazon and about training data, saying the technology makes human work harder to discover."
+      "section": "books",
+      "off_list": true
     },
     {
+      "title": "Even More New Models: Sonnet 5.5, Gemini 3.7 & 3.8 and More",
+      "url": "https://feedback.sudowrite.com/changelog/even-more-new-models-sonnet-55-gemini-37-and-38",
+      "source": "Sudowrite",
+      "published_iso": "2026-09-28T23:39:47.908Z",
+      "og_image": "https://og.featurebase.app/?type=root&title=Even+More+New+Models%3A+Sonnet+5.5%2C+Gemini+3.7+%26+3.8+and+More&description=Claude+Sonnet+5.5+launched+today%2C+and+we%E2%80%99ve+already+made+it+available+in+Sudowrite.+It%27s+Anthropic%27s+new+mid-tier+model%2C+and+it+carries+over+some+of+t&companyLogo=https%3A%2F%2Ffb-usercontent.fra1.cdn.digitaloceanspaces.com%2F019224dc-a888-7f48-9ff1-ea2dd116543a.png&companyName=Sudowrite&companyThemeColor=%23b169ff&companyTLP=bottom",
+      "excerpt": "Claude Sonnet 5.5 launched today, and Sudowrite has already made it available alongside new Gemini 3.7 and 3.8 models for fiction drafting.",
       "category": "books",
-      "url": "https://global.chinadaily.com.cn/a/202609/28/WS6ab9da14e4b06d4aa0560887.html",
-      "source": "China Daily",
-      "published_iso": "2026-09-28T03:08:04Z",
-      "og_image": "http://img2.chinadaily.com.cn/images/202609/28/6aba0a7ee4b06d4a392d3ecb.jpeg",
-      "title": "Moon Over Lotus Isle: AI-co-created poem by Macao poet Ng Iat-i",
-      "excerpt": "At the Mandarin's House, a UNESCO World Heritage site, Macao poet Ng Iat-i recites 'Moon Over Lotus Isle', a poem co-created with AI. Short video feature."
+      "section": "books",
+      "off_list": true
     },
     {
+      "title": "Faster Chat, Better Rewrite & Printing",
+      "url": "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing",
+      "source": "Sudowrite",
+      "published_iso": "2026-09-22T02:49:17.794Z",
+      "og_image": "https://og.featurebase.app/?type=root&title=Faster+Chat%2C+Better+Rewrite+%26+Printing&description=We%E2%80%99ve+made+some+big+updates+to+Chat+very+recently%2C+improving+both+its+speed+and+performance.+Chat+responses+are+now+twice+as+fast+-+We+moved+Chat+to+f&companyLogo=https%3A%2F%2Ffb-usercontent.fra1.cdn.digitaloceanspaces.com%2F019224dc-a888-7f48-9ff1-ea2dd116543a.png&companyName=Sudowrite&companyThemeColor=%23b169ff&companyTLP=bottom",
+      "excerpt": "Sudowrite's Chat responses are now twice as fast, with an improved Rewrite tool and new printing support for manuscripts.",
       "category": "books",
-      "url": "https://www.24-7pressrelease.com/press-release/538747/charalab-releases-ai-manga-generator-to-help-publisher-creating-manga-comics-faster",
-      "source": "24-7 Press Release",
-      "published_iso": "2026-09-18T00:00:00Z",
-      "og_image": "https://www.24-7pressrelease.com/assets/attachments/053/press_release_distribution_0538747_237234",
-      "title": "CharaLab Releases AI Manga Generator to Help Publisher Creating Manga & Comics Faster",
-      "excerpt": "CharaLab launches an AI manga generator producing 1–6 panel pages in multiple art styles, pitched at publishers and creators for faster manga and comics production. Press release."
-    },
-    {
-      "category": "books",
-      "url": "https://www.vulture.com/article/publishers-hit-the-ai-jackpot.html",
-      "source": "Vulture",
-      "published_iso": "2026-10-01T09:00:13Z",
-      "og_image": "https://pyxis.nymag.com/v1/imgs/824/600/0e5678b0e90adc4322c2773ce96f084a86-anthropic-lawsuit.1x.rsocial.w1200.jpg",
-      "title": "Publishers Hit the AI Jackpot",
-      "excerpt": "Publishers stand to gain the most from Anthropic's $1.5 billion copyright settlement, and many writers aren't happy about it. Settlement-allocation follow-up; push down."
-    },
-    {
-      "category": "books",
-      "url": "https://fortune.com/2026/09/29/ai-writing-witch-hunt-new-spectrum-ghostwriting/",
-      "source": "Fortune",
-      "published_iso": "2026-09-29T10:30:00Z",
-      "og_image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2178039628-e1790630709526.jpg?resize=1200,600",
-      "title": "Stop asking writers if they used AI. Just ask them how much",
-      "excerpt": "Jack Brewster proposes a 0–5 disclosure scale for how much AI went into a piece of writing, and labels his own column 'H3 Polished'."
-    },
-    {
-      "category": "books",
-      "url": "https://eu.36kr.com/en/p/4003039857055617",
-      "source": "36Kr Europe",
-      "published_iso": "2026-09-29T00:02:28Z",
-      "og_image": "https://img.36krcdn.com/hsossms/20260928/v2_577299a8d82a4bda9e6b8ae98e0f33d7@1743780481@ai_oswg792002oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "title": "Korean Manhwa Apocalypse: Hidden Risks Behind Chinese AI Comic Dramas' Global Expansion",
-      "excerpt": "As Korean manhwa's overseas boom fades, Chinese AI-generated comic dramas are scaling globally, posing hidden risks to the webcomic business. Date from embedded publishTime."
-    },
-    {
-      "category": "books",
-      "url": "https://www.dailysabah.com/opinion/op-ed/who-is-the-storyteller-in-the-age-of-ai",
-      "source": "Daily Sabah",
-      "published_iso": "2026-10-01T21:05:00Z",
-      "og_image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/01/thumbs/1200x675/463278.jpg",
-      "title": "Who is the storyteller in the age of AI?",
-      "excerpt": "Op-ed tracing storytelling from Homer's epics to AI, arguing the medium changes while the search for meaning stays. Weak; filler only."
+      "section": "books",
+      "off_list": true
     }
   ]
 }

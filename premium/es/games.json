@@ -5611,6 +5611,117 @@
           "x": "The Witcher 4 está previsto para 2028, y con él arranca una nueva trilogía. CD Projekt también tiene en marcha Cyberpunk 2 y un juego multijugador de Witcher."
         }
       ]
+    },
+    "games/lochub-unreal-ai-localization": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+        },
+        {
+          "t": "p",
+          "x": "LocHub lleva la traducción con IA al Unreal Editor sin quitarte el control. Los textos de tu proyecto van al proveedor de IA que elijas, con tu propia clave; los controles integrados y una segunda IA detectan los problemas; revisas el resultado en un solo lugar y lo recuperas como datos de localización normales de Unreal."
+        },
+        {
+          "t": "p",
+          "x": "Los argumentos de formato, las formas plurales y las etiquetas rich-text se validan dos veces en código, por LocHub y por el propio validador de Unreal, de modo que no se puede aprobar texto roto. Un juez de IA opcional revisa el significado, la terminología y el tono, y coloca primero en la cola de revisión los textos de riesgo. Cada texto se traduce en contexto, con su recurso de origen o archivo C++, las notas de los desarrolladores, los textos vecinos, tu guía de estilo y tu glosario."
+        },
+        {
+          "t": "p",
+          "x": "La IA nunca sobrescribe las ediciones humanas, un cambio en el texto de origen marca las traducciones como desactualizadas y cada tarea recibe una estimación de coste y un límite de gasto estricto. Puedes usar tu propia clave de Anthropic, OpenAI, xAI, DeepSeek o Google Gemini, o Claude Code mediante una suscripción."
+        },
+        {
+          "t": "p",
+          "x": "Requiere Unreal Engine 5.6, 5.7 o 5.8 y Node.js 22.11 o posterior. El resultado son archivos de localización comunes y archivos .locres, así que puedes dejar de usar LocHub en cualquier momento."
+        }
+      ]
+    },
+    "games/banjo-tooie-vibe-recomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+          "cap": "(Crédito de imagen: Nintendo/Rare)"
+        },
+        {
+          "t": "p",
+          "x": "A medida que crecen las recompilaciones de clásicos hechas por fans, también lo hacen los proyectos AI-driven creados mediante vibe coding. Los desarrolladores de Zelda 64: Recompiled y Banjo: Recompiled están molestos con una nueva recompilación de Banjo-Tooie basada en su trabajo de N64: Recompiled, cuyo creador afirma que «las herramientas de IA generaron partes sustanciales del código de este proyecto»."
+        },
+        {
+          "t": "p",
+          "x": "«La Banjo-Tooie Recompilation NO (NOT) está asociada con nosotros», dijo el desarrollador Dario en Bluesky. «Tanto Zelda: Recompiled como Banjo: Recompiled tienen posturas No AI muy claras». El equipo ya había anunciado planes para un port de Tooie: «Usar la enorme cantidad de investigación humana que hemos hecho sobre el framework, el renderizador y los propios juegos y echarle IA encima es sencillamente una falta de respeto»."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+          "cap": "(Crédito de imagen: Nintendo/Zelda 64: Recompiled)"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador Reonu_ la calificó de «'alfa' rota» AI-rushed de un port que el equipo tenía previsto. Los desarrolladores de Donkey Kong 64: Recompiled rechazaron el vibe coding en julio, y el equipo del emulador RPCS3, que acepta código AI-assisted que entiende, ha rogado a los colaboradores que dejen de enviar «código basura de IA»."
+        }
+      ]
+    },
+    "games/fallout-new-york-ai-cnd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Crédito de imagen: Bethesda"
+        },
+        {
+          "t": "p",
+          "x": "El autor de un juego de navegador AI-generated llamado Fallout: New York afirma haber recibido un mensaje de cese y desista de ZeniMax, la empresa matriz de Bethesda. El juego se generó con Claude Opus 5.5, de Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "Su creador, que se presenta como «AI Creative» y usa el nombre CHRIS FIRST en Twitter, presumió de misiones, compañeros, árboles de diálogo, V.A.T.S. y un Pip-Boy, con «cero archivos de texturas» y «cero archivos de sonido», ya que todo se genera con código. Rock Paper Shotgun describe las caras de los NPC como absolutamente horribles. «Todo es gratis y gano 0 dinero con ello», escribió el autor de los prompts."
+        },
+        {
+          "t": "p",
+          "x": "Si el aviso es auténtico, el nombre de dominio «fallout.nyc» parece ser el hilo del que tiró ZeniMax para proteger su material con derechos de autor; RPS ha pedido comentarios a Bethesda. «¿Y si mejor hacéis vosotros un juego de Fallout para que yo no tenga que hacerlo?», respondió el creador. RPS recomienda en su lugar Fallout: London, un enorme mod hecho por humanos."
+        }
+      ]
+    },
+    "games/ue5-codex-gpt6-npc-tutorial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
+        },
+        {
+          "t": "p",
+          "x": "Tutorial de la comunidad: cómo crear NPCs conversacionales con IA en Unreal Engine 5 con Codex y GPT-6 Astra."
+        },
+        {
+          "t": "p",
+          "x": "Una guía step-by-step para crear NPCs animados, diálogos AI-generated e historial de conversación con Codex, Unreal MCP, UnrealAI y la OpenAI API."
+        }
+      ]
+    },
+    "games/qssr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "PSSR llevó el escalado con IA a la PS5 Pro, pero la PS5 base se quedó sin él por su GPU menos potente. En una entrada de blog, Sony detalló un nuevo modelo que funciona en la consola base: Quick Spectral Super Resolution, o QSSR. Al igual que PSSR, nació de la colaboración Project Amethyst con AMD."
+        },
+        {
+          "t": "p",
+          "x": "QSSR es mucho más ligero que PSSR, por lo que no conservará el detalle tan bien como PSSR en la PS5 Pro, pero debería ser mucho más preciso que el escalado temporal que se ha usado tradicionalmente en la consola."
+        },
+        {
+          "t": "p",
+          "x": "Debuta en Marvel's Wolverine y Ghost of Yotei. Mike Fitzgerald, de Insomniac, dijo que \"ofrece a nuestros jugadores de PS5 una buena muestra de la experiencia de PS5 Pro\", y los clips comparativos de Sony muestran que QSSR conserva mucho más detalle fino en edificios lejanos y vegetación, aunque la imagen aún puede verse borrosa o algo ruidosa."
+        },
+        {
+          "t": "p",
+          "x": "Sony afirma que pondrá QSSR a disposición de todos los desarrolladores, y los parches de ambos juegos se publican hoy."
+        }
+      ]
     }
   }
 }

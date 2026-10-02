@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "games",
   "cards": [
     {
-      "id": "qssr",
+      "id": "gibiz-hr-summit-genai-workload",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sony QSSR로 기본\nPS5도 AI 업스케일링",
-      "body": "PSSR을 가볍게 줄인 QSSR이 기본 PS5에도 AI 업스케일링을 가져온다.",
-      "mini_headline": "기본 PS5에 QSSR",
+      "headline": "생성형 AI가 게임사\n업무를 늘리나",
+      "body": "GamesIndustry.biz HR 회의서 genAI 이득을 불안·유출이 깎았다.",
+      "mini_headline": "GenAI, 스튜디오 업무 늘리나",
       "tool": "Games",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,173 +19,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+            "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: GamesIndustry.biz"
           },
           {
             "t": "p",
-            "x": "PSSR은 PS5 Pro에 AI 업스케일링을 가져왔지만, GPU 성능이 낮은 기본 PS5는 그 혜택을 받지 못했다. Sony는 블로그 글에서 기본 콘솔에서 돌아가는 새 모델 Quick Spectral Super Resolution, 즉 QSSR을 자세히 소개했다. PSSR처럼 AMD와 함께한 Project Amethyst 협업에서 나왔다."
+            "x": "10월 1일 열린 GamesIndustry.biz HR Summit에서 생성형 AI는 몇 번이고 화제에 올랐다. 코딩이 빨라지고 단순 반복 업무가 자동화된다는 의견도 나왔지만, 만병통치약과는 거리가 멀고 오히려 직장에 문제를 만든다는 시각이 대체적이었다. 민감한 데이터 우려, 커지는 직원 불안, 늘어나는 HR 업무 같은 문제다."
           },
           {
             "t": "p",
-            "x": "QSSR은 PSSR보다 훨씬 가벼워서 PS5 Pro의 PSSR만큼 디테일을 살리지는 못한다. 그래도 이 콘솔이 전통적으로 쓰던 템포럴 업스케일링보다는 훨씬 정확할 것으로 보인다."
+            "x": "참석자 회사 대부분이 이제 AI 정책을 두고 있지만, 변화가 워낙 빨라 계속 고쳐 써야 한다. 직원이 NDA 자료를 개인 ChatGPT 계정에 붙여 넣어도 거의 막을 길이 없다고 리더들은 털어놨다. 한 참석자는 \"AI가 재미있는 걸 만드는 건 본 적이 없다\"고 했고, 다른 참석자는 \"쓰레기를 더 빨리 만들 수 있다\"고 꼬집었다."
+          },
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+            "cap": "GamesIndustry.biz HR Summit은 London의 The Royal Institution에서 열렸다 | 이미지 출처: GamesIndustry.biz"
           },
           {
             "t": "p",
-            "x": "QSSR은 Marvel's Wolverine과 Ghost of Yotei에서 처음 적용된다. Insomniac의 Mike Fitzgerald는 QSSR이 \"PS5 플레이어에게 PS5 Pro 경험을 제대로 맛보게 해 준다\"고 말했다. Sony 비교 영상에서 QSSR은 먼 건물과 수풀의 세밀한 디테일을 훨씬 더 많이 살린다. 다만 화면이 여전히 흐릿하거나 노이즈가 조금 낄 때도 있다."
+            "x": "규칙을 강제하지 않으면 혼란이 생긴다. Gemini-generated 셰이더 코드가 스튜디오 규칙을 어겨 빌드를 되돌린 일이 있었고, 손가락이 더 달린 외주 AI 아트는 커뮤니티의 반발을 샀다. 업무 과정이 암묵지에 기대다 보니 워크플로 시범 도입이 무산되는 일도 잦다."
           },
           {
             "t": "p",
-            "x": "Sony는 QSSR을 모든 개발사에 제공한다고 밝혔다. 두 게임의 패치는 오늘 나온다."
+            "x": "HR 팀은 부정확한 내용투성이인 긴 AI-written 고충 신고서까지 떠안는다. 한 참석자는 \"꽤 자주 오히려 할 일이 늘었다\"며 AI가 질문에 답할 수는 있어도 \"사람을 읽지는 못한다\"고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sony's QSSR brings AI upscaling\nto the base PS5",
-          "body": "Sony's QSSR, a lighter take on PSSR, brings AI upscaling to the base PS5, debuting in Wolverine and Ghost of Yotei.",
-          "mini_headline": "QSSR comes\nto base PS5",
+          "headline": "Generative AI may be adding\nwork at game studios",
+          "body": "At the GamesIndustry.biz HR Summit, attendees said genAI gains are offset by staff anxiety and data-leak risks.",
+          "mini_headline": "GenAI may add\nstudio workload",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "PSSR brought AI upscaling to the PS5 Pro, but the base PS5 was left without it due to its weaker GPU. In a blog post, Sony detailed a new model that runs on the base console: Quick Spectral Super Resolution, or QSSR. Like PSSR, it was born from the Project Amethyst collaboration with AMD."
+                "x": "At the GamesIndustry.biz HR Summit on October 1, generative AI came up again and again. Some pointed to AI speeding up coding or automating drudge work, but the general view was that it falls far short of a miracle cure and is causing workplace problems: worries about sensitive data, rising employee anxiety, and more work for HR."
               },
               {
                 "t": "p",
-                "x": "QSSR is much more lightweight than PSSR, so it won't hold detail quite as well as PSSR does on the PS5 Pro, but it should be much more accurate than the temporal upscaling traditionally used on the console."
+                "x": "Most attendees' companies now have an AI policy, but the speed of change forces constant rewrites. Leaders said they have little control over staff pasting NDA material into personal ChatGPT accounts. \"I haven't seen AI create anything fun,\" one said; \"You can make crap quicker,\" quipped another."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "The GamesIndustry.biz HR Summit took place at The Royal Institution in London | Image credit: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "It debuts in Marvel's Wolverine and Ghost of Yotei. Insomniac's Mike Fitzgerald said it \"brings a great taste of the PS5 Pro experience to our players on PS5,\" and Sony's comparison clips show QSSR keeping far more fine detail in distant buildings and foliage, though the image can still be blurry or a bit noisy."
+                "x": "Without enforcement, chaos follows: Gemini-generated shader code that broke studio rules led to a reverted build, and outsourced AI art with extra fingers sparked a community backlash. Workflow pilots often collapse because processes rely on tacit knowledge."
               },
               {
                 "t": "p",
-                "x": "Sony says it is making QSSR available to all developers, and the patches for both games go live today."
+                "x": "HR teams also face lengthy AI-written grievance letters full of inaccurate detail. \"Quite often it's given me more to do,\" one attendee said, adding that AI can answer questions but \"can't read the person.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sony QSSR로 기본\nPS5도 AI 업스케일링",
-          "body": "PSSR을 가볍게 줄인 QSSR이 기본 PS5에도 AI 업스케일링을 가져온다.",
-          "mini_headline": "기본 PS5에 QSSR",
+          "headline": "생성형 AI가 게임사\n업무를 늘리나",
+          "body": "GamesIndustry.biz HR 회의서 genAI 이득을 불안·유출이 깎았다.",
+          "mini_headline": "GenAI, 스튜디오 업무 늘리나",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "PSSR은 PS5 Pro에 AI 업스케일링을 가져왔지만, GPU 성능이 낮은 기본 PS5는 그 혜택을 받지 못했다. Sony는 블로그 글에서 기본 콘솔에서 돌아가는 새 모델 Quick Spectral Super Resolution, 즉 QSSR을 자세히 소개했다. PSSR처럼 AMD와 함께한 Project Amethyst 협업에서 나왔다."
+                "x": "10월 1일 열린 GamesIndustry.biz HR Summit에서 생성형 AI는 몇 번이고 화제에 올랐다. 코딩이 빨라지고 단순 반복 업무가 자동화된다는 의견도 나왔지만, 만병통치약과는 거리가 멀고 오히려 직장에 문제를 만든다는 시각이 대체적이었다. 민감한 데이터 우려, 커지는 직원 불안, 늘어나는 HR 업무 같은 문제다."
               },
               {
                 "t": "p",
-                "x": "QSSR은 PSSR보다 훨씬 가벼워서 PS5 Pro의 PSSR만큼 디테일을 살리지는 못한다. 그래도 이 콘솔이 전통적으로 쓰던 템포럴 업스케일링보다는 훨씬 정확할 것으로 보인다."
+                "x": "참석자 회사 대부분이 이제 AI 정책을 두고 있지만, 변화가 워낙 빨라 계속 고쳐 써야 한다. 직원이 NDA 자료를 개인 ChatGPT 계정에 붙여 넣어도 거의 막을 길이 없다고 리더들은 털어놨다. 한 참석자는 \"AI가 재미있는 걸 만드는 건 본 적이 없다\"고 했고, 다른 참석자는 \"쓰레기를 더 빨리 만들 수 있다\"고 꼬집었다."
               },
-              {
-                "t": "p",
-                "x": "QSSR은 Marvel's Wolverine과 Ghost of Yotei에서 처음 적용된다. Insomniac의 Mike Fitzgerald는 QSSR이 \"PS5 플레이어에게 PS5 Pro 경험을 제대로 맛보게 해 준다\"고 말했다. Sony 비교 영상에서 QSSR은 먼 건물과 수풀의 세밀한 디테일을 훨씬 더 많이 살린다. 다만 화면이 여전히 흐릿하거나 노이즈가 조금 낄 때도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Sony는 QSSR을 모든 개발사에 제공한다고 밝혔다. 두 게임의 패치는 오늘 나온다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "SonyのQSSR、\n通常版PS5でAI超解像",
-          "body": "PSSRの軽量版であるQSSRが、通常版PS5にもAIアップスケーリングをもたらす。",
-          "mini_headline": "通常版PS5にQSSR",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "GamesIndustry.biz HR Summit은 London의 The Royal Institution에서 열렸다 | 이미지 출처: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "PSSRはPS5 ProにAIアップスケーリングをもたらしたが、GPU性能で劣る通常版PS5は対象外だった。Sonyはブログ記事で、通常版でも動作する新モデルQuick Spectral Super Resolution(QSSR)の詳細を明らかにした。PSSRと同様、AMDとの協業プロジェクトProject Amethystから生まれたものだ。"
+                "x": "규칙을 강제하지 않으면 혼란이 생긴다. Gemini-generated 셰이더 코드가 스튜디오 규칙을 어겨 빌드를 되돌린 일이 있었고, 손가락이 더 달린 외주 AI 아트는 커뮤니티의 반발을 샀다. 업무 과정이 암묵지에 기대다 보니 워크플로 시범 도입이 무산되는 일도 잦다."
               },
               {
                 "t": "p",
-                "x": "QSSRはPSSRよりはるかに軽量なため、PS5 ProのPSSRほどディテールを保持できないが、このコンソールで従来使われてきたテンポラルアップスケーリングよりはずっと正確になるはずだ。"
-              },
-              {
-                "t": "p",
-                "x": "最初の対応タイトルはMarvel's WolverineとGhost of Yoteiである。InsomniacのMike Fitzgeraldは、QSSRが「PS5のプレイヤーにPS5 Pro体験の素晴らしい味わいをもたらす」と述べた。Sonyの比較映像では、QSSRは遠くの建物や草木の細部をはるかに多く保っているが、画面がまだぼやけたり、多少ノイジーになったりすることもある。"
-              },
-              {
-                "t": "p",
-                "x": "SonyはQSSRをすべての開発者に提供するとしており、両タイトルのパッチは本日配信される。"
+                "x": "HR 팀은 부정확한 내용투성이인 긴 AI-written 고충 신고서까지 떠안는다. 한 참석자는 \"꽤 자주 오히려 할 일이 늘었다\"며 AI가 질문에 답할 수는 있어도 \"사람을 읽지는 못한다\"고 덧붙였다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sony QSSR\n为基础版PS5带来AI超分",
-          "body": "作为PSSR的轻量版，Sony的QSSR为基础版PS5带来了AI超分辨率。",
-          "mini_headline": "QSSR登陆基础版PS5",
+          "headline": "生成式AI或在增加\n游戏工作室的工作量",
+          "body": "GamesIndustry.biz HR峰会上，与会者称genAI收益被焦虑与泄密风险抵消。",
+          "mini_headline": "GenAI或加重工作室负担",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "PSSR为PS5 Pro带来了AI超分辨率，但基础版PS5因GPU性能较弱而无缘。Sony在一篇博客文章中详细介绍了一款可在基础版主机上运行的新模型：Quick Spectral Super Resolution，简称QSSR。与PSSR一样，它诞生于与AMD合作的Project Amethyst。"
+                "x": "在10月1日举行的GamesIndustry.biz HR Summit上，生成式AI一再成为话题。有人指出AI能加快编程速度或自动处理繁琐工作，但普遍看法是它远非灵丹妙药，反而正在给职场带来问题：对敏感数据的担忧、员工焦虑加剧，以及HR工作量增加。"
               },
               {
                 "t": "p",
-                "x": "QSSR比PSSR轻量得多，因此在细节保留上不及PS5 Pro上的PSSR，但应比这台主机传统上使用的时间性超分辨率准确得多。"
+                "x": "多数与会者所在的公司如今都有AI政策，但变化太快，政策不得不一改再改。管理者们表示，他们几乎无法阻止员工把NDA材料粘贴进个人ChatGPT账户。一位与会者说：“我还没见过AI创造出什么有趣的东西。”另一位则调侃：“你可以更快地做出垃圾。”"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "GamesIndustry.biz HR Summit在London的The Royal Institution举行 | 图片来源：GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "QSSR首发于Marvel's Wolverine和Ghost of Yotei。Insomniac的Mike Fitzgerald表示，它\"让PS5玩家充分领略到PS5 Pro的体验\"。Sony的对比片段显示，QSSR在远处建筑和植被上保留了多得多的细节，不过画面仍可能有些模糊或略带噪点。"
+                "x": "缺乏执行就会出乱子：违反工作室规定的Gemini-generated着色器代码导致构建被回滚，外包的AI美术图多出手指，引发社区反弹。由于流程依赖隐性知识，工作流试点也常常夭折。"
               },
               {
                 "t": "p",
-                "x": "Sony表示将向所有开发者开放QSSR，两款游戏的补丁今天上线。"
+                "x": "HR团队还要应对冗长、充满不实细节的AI-written投诉信。一位与会者说：“很多时候它反而给我添了更多事。”并补充说，AI能回答问题，却“读不懂人”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "QSSR de Sony lleva el escalado\ncon IA a la PS5 base",
-          "body": "QSSR, una versión más ligera de PSSR, lleva el escalado con IA a la PS5 base y debuta en Wolverine y Ghost of Yotei.",
-          "mini_headline": "QSSR llega a la PS5 base",
+          "headline": "La IA generativa podría sumar\ntrabajo a los estudios de juegos",
+          "body": "En la GamesIndustry.biz HR Summit se dijo que la ansiedad y el riesgo de fugas de datos anulan lo ganado con la genAI.",
+          "mini_headline": "La GenAI podría sumar trabajo a los estudios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de imagen: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "PSSR llevó el escalado con IA a la PS5 Pro, pero la PS5 base se quedó sin él por su GPU menos potente. En una entrada de blog, Sony detalló un nuevo modelo que funciona en la consola base: Quick Spectral Super Resolution, o QSSR. Al igual que PSSR, nació de la colaboración Project Amethyst con AMD."
+                "x": "En la GamesIndustry.biz HR Summit del 1 de octubre, la IA generativa salió una y otra vez. Algunos señalaron que la IA acelera la programación o automatiza tareas tediosas, pero la opinión general fue que está muy lejos de ser una solución milagrosa y que está causando problemas en el trabajo: preocupación por los datos sensibles, más ansiedad entre los empleados y más trabajo para HR."
               },
               {
                 "t": "p",
-                "x": "QSSR es mucho más ligero que PSSR, por lo que no conservará el detalle tan bien como PSSR en la PS5 Pro, pero debería ser mucho más preciso que el escalado temporal que se ha usado tradicionalmente en la consola."
+                "x": "La mayoría de las empresas de los asistentes ya tiene una política de IA, pero la velocidad del cambio obliga a reescribirla constantemente. Los responsables dijeron que apenas pueden controlar que el personal pegue material bajo NDA en cuentas personales de ChatGPT. «No he visto que la IA cree nada divertido», dijo uno; «Puedes hacer basura más rápido», ironizó otro."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "La GamesIndustry.biz HR Summit se celebró en The Royal Institution, en London | Crédito de imagen: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "Debuta en Marvel's Wolverine y Ghost of Yotei. Mike Fitzgerald, de Insomniac, dijo que \"ofrece a nuestros jugadores de PS5 una buena muestra de la experiencia de PS5 Pro\", y los clips comparativos de Sony muestran que QSSR conserva mucho más detalle fino en edificios lejanos y vegetación, aunque la imagen aún puede verse borrosa o algo ruidosa."
+                "x": "Sin control, llega el caos: un código de shaders Gemini-generated que incumplía las normas del estudio obligó a revertir una compilación, y un arte de IA externalizado con dedos de más provocó una reacción negativa de la comunidad. Los pilotos de flujos de trabajo suelen fracasar porque los procesos dependen de conocimiento tácito."
               },
               {
                 "t": "p",
-                "x": "Sony afirma que pondrá QSSR a disposición de todos los desarrolladores, y los parches de ambos juegos se publican hoy."
+                "x": "Los equipos de HR también reciben extensas quejas formales AI-written llenas de detalles inexactos. «Con bastante frecuencia me ha dado más trabajo», dijo un asistente, que añadió que la IA puede responder preguntas pero «no sabe leer a la persona»."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "生成AIがゲーム会社の\n仕事を増やしている可能性",
+          "body": "HRサミットでは、genAIの利点が社員の不安と情報漏洩リスクで相殺されるとの声が出た。",
+          "mini_headline": "genAIで現場の仕事が増える可能性",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像クレジット: GamesIndustry.biz"
+              },
+              {
+                "t": "p",
+                "x": "10月1日のGamesIndustry.biz HR Summitでは、生成AI（genAI）の話題が繰り返し持ち上がった。AIがコーディングを速めたり単調な作業を自動化したりするとの声もあったが、万能薬には程遠く、職場に問題を生んでいるというのが大方の見方だった。機密データへの懸念、社員の不安の高まり、そしてHRの仕事の増加である。"
+              },
+              {
+                "t": "p",
+                "x": "参加者の多くの会社にはすでにAIポリシーがあるが、変化が速く、絶えず書き直しを迫られている。社員がNDAの資料を個人のChatGPTアカウントに貼り付けることはほとんど管理できないと、リーダーたちは語った。「AIが何か楽しいものを生み出したのを見たことがない」とある参加者が言えば、別の参加者は「くだらないものを速く作れるだけだ」と皮肉った。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "GamesIndustry.biz HR SummitはロンドンのThe Royal Institutionで開催された | 画像クレジット: GamesIndustry.biz"
+              },
+              {
+                "t": "p",
+                "x": "ルールが徹底されなければ混乱が起きる。スタジオの規則に反するGemini製のシェーダーコードのせいでビルドを差し戻すことになり、指の多い外注のAIアートはコミュニティの反発を招いた。プロセスが暗黙知に頼っているため、ワークフローの試験導入はしばしば頓挫する。"
+              },
+              {
+                "t": "p",
+                "x": "HRチームは、不正確な内容だらけの長いAI-written（AIが書いた）苦情文書にも向き合っている。「むしろ仕事が増えたことがよくある」とある参加者は語り、AIは質問には答えられても「人の心は読めない」と付け加えた。"
               }
             ]
           }
@@ -193,121 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sony QSSR로 기본\nPS5도 AI 업스케일링",
-          "body": "PSSR을 가볍게 줄인 QSSR이 기본 PS5에도 AI 업스케일링을 가져온다.",
-          "mini_headline": "기본 PS5에 QSSR",
+          "headline": "생성형 AI가 게임사\n업무를 늘리고 있나",
+          "body": "GamesIndustry.biz HR 회의서 genAI 이득을 불안·유출이 깎았다.",
+          "mini_headline": "GenAI, 스튜디오 업무 늘리나",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "PSSR은 PS5 Pro에 AI 업스케일링을 가져왔지만, GPU 성능이 낮은 기본 PS5는 그 혜택을 받지 못했다. Sony는 블로그 글에서 기본 콘솔에서 돌아가는 새 모델 Quick Spectral Super Resolution, 즉 QSSR을 자세히 소개했다. PSSR과 마찬가지로 AMD와 함께한 Project Amethyst 협업에서 탄생했다."
+                "x": "10월 1일 열린 GamesIndustry.biz HR Summit에서는 생성형 AI가 거듭 화제에 올랐다. AI가 코딩 속도를 높이거나 단순 반복 업무를 자동화한다는 의견도 있었지만, 만병통치약과는 거리가 멀고 오히려 직장에 문제를 일으킨다는 시각이 대체적이었다. 민감한 데이터에 대한 우려, 커지는 직원 불안, 늘어나는 HR 업무가 그것이다."
               },
               {
                 "t": "p",
-                "x": "QSSR은 PSSR보다 훨씬 가벼워서 PS5 Pro의 PSSR만큼 디테일을 살리지는 못하지만, 이 콘솔에서 전통적으로 쓰던 템포럴 업스케일링보다는 훨씬 정확할 것으로 보인다."
+                "x": "참석자 대부분의 회사에는 이제 AI 정책이 있지만, 변화가 워낙 빨라 계속 고쳐 써야 한다. 리더들은 직원이 NDA 자료를 개인 ChatGPT 계정에 붙여 넣는 일을 거의 통제하지 못한다고 말했다. 한 참석자는 \"AI가 재미있는 걸 만드는 건 본 적이 없다\"고 했고, 다른 참석자는 \"쓰레기를 더 빨리 만들 수 있다\"고 꼬집었다."
               },
-              {
-                "t": "p",
-                "x": "QSSR은 Marvel's Wolverine과 Ghost of Yotei에서 처음 적용된다. Insomniac의 Mike Fitzgerald는 QSSR이 \"PS5 플레이어에게 PS5 Pro 경험을 제대로 맛보게 해 준다\"고 말했다. Sony의 비교 영상을 보면 QSSR은 먼 건물과 수풀의 세밀한 디테일을 훨씬 더 많이 살려 내지만, 화면이 여전히 흐릿하거나 다소 노이즈가 낄 때도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Sony는 QSSR을 모든 개발사에 제공한다고 밝혔으며, 두 게임의 패치는 오늘 배포된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "SonyのQSSR、\n通常版PS5でAI超解像",
-          "body": "PSSRの軽量版であるQSSRが、通常版PS5にもAIアップスケーリングをもたらす。",
-          "mini_headline": "通常版PS5にQSSR",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "GamesIndustry.biz HR Summit은 London의 The Royal Institution에서 열렸다 | 이미지 출처: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "PSSRはPS5 ProにAIアップスケーリングをもたらしたが、GPU性能で劣る通常版PS5は対象外だった。Sonyはブログ記事で、通常版でも動作する新モデルQuick Spectral Super Resolution(QSSR)の詳細を明らかにした。PSSRと同様、AMDとの協業プロジェクトProject Amethystから生まれたものだ。"
+                "x": "규칙을 강제하지 않으면 혼란이 따른다. 스튜디오 규칙을 어긴 Gemini-generated 셰이더 코드 때문에 빌드를 되돌린 일이 있었고, 손가락이 더 달린 외주 AI 아트는 커뮤니티의 반발을 샀다. 업무 과정이 암묵지에 기대고 있어 워크플로 시범 도입이 무산되는 경우도 많다."
               },
               {
                 "t": "p",
-                "x": "QSSRはPSSRよりはるかに軽量なため、PS5 ProのPSSRほどディテールを保持できないが、このコンソールで従来使われてきたテンポラルアップスケーリングよりはずっと正確になるはずだ。"
-              },
-              {
-                "t": "p",
-                "x": "最初の対応タイトルはMarvel's WolverineとGhost of Yoteiである。InsomniacのMike Fitzgeraldは、QSSRが「PS5のプレイヤーにPS5 Pro体験の素晴らしい味わいをもたらす」と述べた。Sonyの比較映像では、QSSRは遠くの建物や草木の細部をはるかに多く保っているが、画面がまだぼやけたり、多少ノイジーになったりすることもある。"
-              },
-              {
-                "t": "p",
-                "x": "SonyはQSSRをすべての開発者に提供するとしており、両タイトルのパッチは本日配信される。"
+                "x": "HR 팀은 부정확한 내용으로 가득한 장문의 AI-written 고충 신고서도 상대해야 한다. 한 참석자는 \"꽤 자주 오히려 할 일이 늘었다\"며, AI가 질문에 답할 수는 있어도 \"사람을 읽지는 못한다\"고 덧붙였다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sony QSSR\n为基础版PS5带来AI超分",
-          "body": "作为PSSR的轻量版，Sony的QSSR为基础版PS5带来了AI超分辨率。",
-          "mini_headline": "QSSR登陆基础版PS5",
+          "headline": "生成式AI或在增加\n游戏工作室的工作量",
+          "body": "GamesIndustry.biz HR峰会上，与会者称genAI收益被焦虑与泄密风险抵消。",
+          "mini_headline": "GenAI或加重工作室负担",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "PSSR为PS5 Pro带来了AI超分辨率，但基础版PS5因GPU性能较弱而无缘。Sony在一篇博客文章中详细介绍了一款可在基础版主机上运行的新模型：Quick Spectral Super Resolution，简称QSSR。与PSSR一样，它诞生于与AMD合作的Project Amethyst。"
+                "x": "在10月1日举行的GamesIndustry.biz HR Summit上，生成式AI一再成为话题。有人指出AI能加快编程速度或自动处理繁琐工作，但普遍看法是它远非灵丹妙药，反而正在给职场带来问题：对敏感数据的担忧、员工焦虑加剧，以及HR工作量增加。"
               },
               {
                 "t": "p",
-                "x": "QSSR比PSSR轻量得多，因此在细节保留上不及PS5 Pro上的PSSR，但应比这台主机传统上使用的时间性超分辨率准确得多。"
+                "x": "多数与会者所在的公司如今都有AI政策，但变化太快，政策不得不一改再改。管理者们表示，他们几乎无法阻止员工把NDA材料粘贴进个人ChatGPT账户。一位与会者说：“我还没见过AI创造出什么有趣的东西。”另一位则调侃：“你可以更快地做出垃圾。”"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "GamesIndustry.biz HR Summit在London的The Royal Institution举行 | 图片来源：GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "QSSR首发于Marvel's Wolverine和Ghost of Yotei。Insomniac的Mike Fitzgerald表示，它\"让PS5玩家充分领略到PS5 Pro的体验\"。Sony的对比片段显示，QSSR在远处建筑和植被上保留了多得多的细节，不过画面仍可能有些模糊或略带噪点。"
+                "x": "缺乏执行就会出乱子：违反工作室规定的Gemini-generated着色器代码导致构建被回滚，外包的AI美术图多出手指，引发社区反弹。由于流程依赖隐性知识，工作流试点也常常夭折。"
               },
               {
                 "t": "p",
-                "x": "Sony表示将向所有开发者开放QSSR，两款游戏的补丁今天上线。"
+                "x": "HR团队还要应对冗长、充满不实细节的AI-written投诉信。一位与会者说：“很多时候它反而给我添了更多事。”并补充说，AI能回答问题，却“读不懂人”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "QSSR de Sony lleva el escalado\ncon IA a la PS5 base",
-          "body": "QSSR, una versión más ligera de PSSR, lleva el escalado con IA a la PS5 base y debuta en Wolverine y Ghost of Yotei.",
-          "mini_headline": "QSSR llega a la PS5 base",
+          "headline": "La IA generativa podría sumar\ntrabajo a los estudios de juegos",
+          "body": "En la GamesIndustry.biz HR Summit se dijo que la ansiedad y el riesgo de fugas de datos anulan lo ganado con la genAI.",
+          "mini_headline": "La GenAI podría sumar trabajo a los estudios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de imagen: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "PSSR llevó el escalado con IA a la PS5 Pro, pero la PS5 base se quedó sin él por su GPU menos potente. En una entrada de blog, Sony detalló un nuevo modelo que funciona en la consola base: Quick Spectral Super Resolution, o QSSR. Al igual que PSSR, nació de la colaboración Project Amethyst con AMD."
+                "x": "En la GamesIndustry.biz HR Summit del 1 de octubre, la IA generativa salió una y otra vez. Algunos señalaron que la IA acelera la programación o automatiza tareas tediosas, pero la opinión general fue que está muy lejos de ser una solución milagrosa y que está causando problemas en el trabajo: preocupación por los datos sensibles, más ansiedad entre los empleados y más trabajo para HR."
               },
               {
                 "t": "p",
-                "x": "QSSR es mucho más ligero que PSSR, por lo que no conservará el detalle tan bien como PSSR en la PS5 Pro, pero debería ser mucho más preciso que el escalado temporal que se ha usado tradicionalmente en la consola."
+                "x": "La mayoría de las empresas de los asistentes ya tiene una política de IA, pero la velocidad del cambio obliga a reescribirla constantemente. Los responsables dijeron que apenas pueden controlar que el personal pegue material bajo NDA en cuentas personales de ChatGPT. «No he visto que la IA cree nada divertido», dijo uno; «Puedes hacer basura más rápido», ironizó otro."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "La GamesIndustry.biz HR Summit se celebró en The Royal Institution, en London | Crédito de imagen: GamesIndustry.biz"
               },
               {
                 "t": "p",
-                "x": "Debuta en Marvel's Wolverine y Ghost of Yotei. Mike Fitzgerald, de Insomniac, dijo que \"ofrece a nuestros jugadores de PS5 una buena muestra de la experiencia de PS5 Pro\", y los clips comparativos de Sony muestran que QSSR conserva mucho más detalle fino en edificios lejanos y vegetación, aunque la imagen aún puede verse borrosa o algo ruidosa."
+                "x": "Sin control, llega el caos: un código de shaders Gemini-generated que incumplía las normas del estudio obligó a revertir una compilación, y un arte de IA externalizado con dedos de más provocó una reacción negativa de la comunidad. Los pilotos de flujos de trabajo suelen fracasar porque los procesos dependen de conocimiento tácito."
               },
               {
                 "t": "p",
-                "x": "Sony afirma que pondrá QSSR a disposición de todos los desarrolladores, y los parches de ambos juegos se publican hoy."
+                "x": "Los equipos de HR también reciben extensas quejas formales AI-written llenas de detalles inexactos. «Con bastante frecuencia me ha dado más trabajo», dijo un asistente, que añadió que la IA puede responder preguntas pero «no sabe leer a la persona»."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "生成AIがゲーム会社の\n仕事を増やしている可能性",
+          "body": "HRサミットでは、genAIの利点が社員の不安と情報漏洩リスクで相殺されるとの声が出た。",
+          "mini_headline": "genAIで現場の仕事が増える可能性",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像クレジット: GamesIndustry.biz"
+              },
+              {
+                "t": "p",
+                "x": "10月1日のGamesIndustry.biz HR Summitでは、生成AI（genAI）の話題が繰り返し持ち上がった。AIがコーディングを速めたり単調な作業を自動化したりするとの声もあったが、万能薬には程遠く、職場に問題を生んでいるというのが大方の見方だった。機密データへの懸念、社員の不安の高まり、そしてHRの仕事の増加である。"
+              },
+              {
+                "t": "p",
+                "x": "参加者の多くの会社にはすでにAIポリシーがあるが、変化が速く、絶えず書き直しを迫られている。社員がNDAの資料を個人のChatGPTアカウントに貼り付けることはほとんど管理できないと、リーダーたちは語った。「AIが何か楽しいものを生み出したのを見たことがない」とある参加者が言えば、別の参加者は「くだらないものを速く作れるだけだ」と皮肉った。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "GamesIndustry.biz HR SummitはロンドンのThe Royal Institutionで開催された | 画像クレジット: GamesIndustry.biz"
+              },
+              {
+                "t": "p",
+                "x": "ルールが徹底されなければ混乱が起きる。スタジオの規則に反するGemini製のシェーダーコードのせいでビルドを差し戻すことになり、指の多い外注のAIアートはコミュニティの反発を招いた。プロセスが暗黙知に頼っているため、ワークフローの試験導入はしばしば頓挫する。"
+              },
+              {
+                "t": "p",
+                "x": "HRチームは、不正確な内容だらけの長いAI-written（AIが書いた）苦情文書にも向き合っている。「むしろ仕事が増えたことがよくある」とある参加者は語り、AIは質問には答えられても「人の心は読めない」と付け加えた。"
               }
             ]
           }
@@ -315,561 +375,513 @@
       }
     },
     {
-      "id": "unity-grok-build-plugin",
+      "id": "lochub-unreal-ai-localization",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "xAI 에이전트용\nUnity 공식 플러그인",
-      "body": "Unity의 xAI Grok Build용 플러그인이 지침을 터미널로 가져온다.",
-      "mini_headline": "Grok Build용 Unity 플러그인",
+      "headline": "LocHub이 AI 번역을\nUnreal Editor에",
+      "body": "LocHub은 내 AI 키로 Unreal 문자열을 번역하고 다른 AI로 검수한다.",
+      "mini_headline": "Unreal 안의 AI 현지화",
       "tool": "Games",
-      "source": "Unity (YouTube)",
-      "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
+      "source": "Epic Developer Community",
+      "url": "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+          },
+          {
+            "t": "p",
+            "x": "LocHub은 통제권은 그대로 둔 채 AI 번역을 Unreal Editor 안으로 들여온다. 프로젝트 문자열은 사용자가 고른 AI 제공업체에 사용자 본인의 키로 보내진다. 내장 검사와 두 번째 AI가 문제를 걸러 내면 사용자는 결과를 한곳에서 검토한 뒤 일반 Unreal 현지화 데이터로 다시 가져온다."
+          },
+          {
+            "t": "p",
+            "x": "서식 인수, 복수형, rich-text 태그는 LocHub과 Unreal 자체 검증기가 코드로 두 번 확인하기 때문에 깨진 텍스트는 승인 단계를 넘지 못한다. 선택 사항인 AI 심사기는 의미, 용어, 어조를 살피고 위험한 문자열을 검토 대기열 맨 앞으로 올린다. 번역은 문자열마다 원본 에셋이나 C++ 파일, 개발자 메모, 인접 문자열, 스타일 가이드와 용어집을 참고해 맥락 속에서 이뤄진다."
+          },
+          {
+            "t": "p",
+            "x": "사람이 고친 내용은 AI가 절대 덮어쓰지 않는다. 원문이 바뀌면 해당 번역에 구버전 표시가 붙고, 모든 작업에는 비용 추정과 엄격한 지출 상한이 걸린다. Anthropic, OpenAI, xAI, DeepSeek, Google Gemini의 키를 직접 쓰거나 구독으로 Claude Code를 이용하면 된다."
+          },
+          {
+            "t": "p",
+            "x": "Unreal Engine 5.6, 5.7, 5.8과 Node.js 22.11 이상이 필요하다. 출력물이 일반 현지화 아카이브와 .locres 파일이라 LocHub은 언제든 그만 써도 된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "LocHub brings AI translation\ninto the Unreal Editor",
+          "body": "LocHub runs Unreal strings through your own AI provider key, with built-in checks and a second AI to catch problems.",
+          "mini_headline": "AI localization\ninside Unreal",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+              },
+              {
+                "t": "p",
+                "x": "LocHub brings AI translation into the Unreal Editor without taking the control away from you. Your project's strings go to the AI provider you choose, under your own key; built-in checks and a second AI catch the problems; you review the result in one place and pull it back as plain Unreal localization data."
+              },
+              {
+                "t": "p",
+                "x": "Format arguments, plural forms and rich-text tags are validated in code twice, by LocHub and by Unreal's own validator, so broken text cannot be approved. An optional AI judge checks meaning, terminology and tone and puts risky strings first in the review queue. Each string is translated in context, with its source asset or C++ file, developer notes, neighbouring strings, your style guide and glossary."
+              },
+              {
+                "t": "p",
+                "x": "Human edits are never overwritten by the AI, changed source text marks translations outdated, and every job gets a cost estimate and a hard spending cap. Bring your own key from Anthropic, OpenAI, xAI, DeepSeek or Google Gemini, or use Claude Code via a subscription."
+              },
+              {
+                "t": "p",
+                "x": "It requires Unreal Engine 5.6, 5.7 or 5.8 and Node.js 22.11 or newer. Output is ordinary localization archives and .locres files, so you can stop using LocHub any time."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "LocHub이 AI 번역을\nUnreal Editor에",
+          "body": "LocHub은 내 AI 키로 Unreal 문자열을 번역하고 다른 AI로 검수한다.",
+          "mini_headline": "Unreal 안의 AI 현지화",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+              },
+              {
+                "t": "p",
+                "x": "LocHub은 통제권은 그대로 둔 채 AI 번역을 Unreal Editor 안으로 들여온다. 프로젝트 문자열은 사용자가 고른 AI 제공업체에 사용자 본인의 키로 보내진다. 내장 검사와 두 번째 AI가 문제를 걸러 내면 사용자는 결과를 한곳에서 검토한 뒤 일반 Unreal 현지화 데이터로 다시 가져온다."
+              },
+              {
+                "t": "p",
+                "x": "서식 인수, 복수형, rich-text 태그는 LocHub과 Unreal 자체 검증기가 코드로 두 번 확인하기 때문에 깨진 텍스트는 승인 단계를 넘지 못한다. 선택 사항인 AI 심사기는 의미, 용어, 어조를 살피고 위험한 문자열을 검토 대기열 맨 앞으로 올린다. 번역은 문자열마다 원본 에셋이나 C++ 파일, 개발자 메모, 인접 문자열, 스타일 가이드와 용어집을 참고해 맥락 속에서 이뤄진다."
+              },
+              {
+                "t": "p",
+                "x": "사람이 고친 내용은 AI가 절대 덮어쓰지 않는다. 원문이 바뀌면 해당 번역에 구버전 표시가 붙고, 모든 작업에는 비용 추정과 엄격한 지출 상한이 걸린다. Anthropic, OpenAI, xAI, DeepSeek, Google Gemini의 키를 직접 쓰거나 구독으로 Claude Code를 이용하면 된다."
+              },
+              {
+                "t": "p",
+                "x": "Unreal Engine 5.6, 5.7, 5.8과 Node.js 22.11 이상이 필요하다. 출력물이 일반 현지화 아카이브와 .locres 파일이라 LocHub은 언제든 그만 써도 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "LocHub、AI翻訳を\nUnreal Editorへ",
+          "body": "LocHubは自前のAIキーでUnreal文字列を翻訳し、別のAIが問題を検出する。",
+          "mini_headline": "Unreal内でAIローカライズ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+              },
+              {
+                "t": "p",
+                "x": "LocHubは、主導権を奪うことなくAI翻訳をUnreal Editorに持ち込む。プロジェクトの文字列は、ユーザーが選んだAIプロバイダーへ自分のキーで送られる。組み込みのチェックと2つ目のAIが問題を拾い、結果は1か所でレビューして、通常のUnrealローカライズデータとして取り込める。"
+              },
+              {
+                "t": "p",
+                "x": "書式引数、複数形、rich-textタグはLocHubとUnreal自身のバリデーターによってコードで二重に検証されるため、壊れたテキストは承認できない。オプションのAI審査役は意味、用語、トーンを確認し、リスクのある文字列をレビュー待ちの先頭に回す。各文字列は、元のアセットやC++ファイル、開発者メモ、隣接する文字列、スタイルガイド、用語集を踏まえ、文脈の中で翻訳される。"
+              },
+              {
+                "t": "p",
+                "x": "人間による修正をAIが上書きすることはなく、原文が変われば翻訳は古いものとして示され、各ジョブには費用見積もりと厳格な支出上限が付く。Anthropic、OpenAI、xAI、DeepSeek、Google Geminiの自分のキーを使うか、サブスクリプション経由でClaude Codeを使える。"
+              },
+              {
+                "t": "p",
+                "x": "動作にはUnreal Engine 5.6、5.7、5.8と、Node.js 22.11以降が必要だ。出力は通常のローカライズアーカイブと.locresファイルなので、いつでもLocHubの利用をやめられる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "LocHub将AI翻译带入\nUnreal Editor",
+          "body": "LocHub用你自己的AI密钥翻译Unreal文本，并由第二个AI排查问题。",
+          "mini_headline": "Unreal内的AI本地化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+              },
+              {
+                "t": "p",
+                "x": "LocHub把AI翻译带进Unreal Editor，同时不夺走你的控制权。项目文本通过你自己的密钥发送给你选择的AI服务商；内置检查和第二个AI负责发现问题；你在一处审阅结果，再将其作为普通的Unreal本地化数据取回。"
+              },
+              {
+                "t": "p",
+                "x": "格式参数、复数形式和rich-text标签会经LocHub与Unreal自带的校验器在代码层面两次验证，因此损坏的文本无法通过审批。可选的AI评审会检查含义、术语和语气，并把有风险的文本排在审阅队列最前面。每条文本都结合上下文翻译，参考其源资产或C++文件、开发者备注、相邻文本、你的风格指南和术语表。"
+              },
+              {
+                "t": "p",
+                "x": "人工修改绝不会被AI覆盖，源文本一旦变动，相应译文会被标记为过时，每项任务都附有费用估算和硬性支出上限。你可以使用自己的Anthropic、OpenAI、xAI、DeepSeek或Google Gemini密钥，也可以通过订阅使用Claude Code。"
+              },
+              {
+                "t": "p",
+                "x": "它需要Unreal Engine 5.6、5.7或5.8，以及Node.js 22.11或更高版本。输出是普通的本地化归档和.locres文件，因此你随时可以停用LocHub。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "LocHub lleva traducción con IA\nal Unreal Editor",
+          "body": "LocHub traduce los textos de Unreal con tu propia clave de IA, con controles integrados y una segunda IA de revisión.",
+          "mini_headline": "Localización con IA dentro de Unreal",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+              },
+              {
+                "t": "p",
+                "x": "LocHub lleva la traducción con IA al Unreal Editor sin quitarte el control. Los textos de tu proyecto van al proveedor de IA que elijas, con tu propia clave; los controles integrados y una segunda IA detectan los problemas; revisas el resultado en un solo lugar y lo recuperas como datos de localización normales de Unreal."
+              },
+              {
+                "t": "p",
+                "x": "Los argumentos de formato, las formas plurales y las etiquetas rich-text se validan dos veces en código, por LocHub y por el propio validador de Unreal, de modo que no se puede aprobar texto roto. Un juez de IA opcional revisa el significado, la terminología y el tono, y coloca primero en la cola de revisión los textos de riesgo. Cada texto se traduce en contexto, con su recurso de origen o archivo C++, las notas de los desarrolladores, los textos vecinos, tu guía de estilo y tu glosario."
+              },
+              {
+                "t": "p",
+                "x": "La IA nunca sobrescribe las ediciones humanas, un cambio en el texto de origen marca las traducciones como desactualizadas y cada tarea recibe una estimación de coste y un límite de gasto estricto. Puedes usar tu propia clave de Anthropic, OpenAI, xAI, DeepSeek o Google Gemini, o Claude Code mediante una suscripción."
+              },
+              {
+                "t": "p",
+                "x": "Requiere Unreal Engine 5.6, 5.7 o 5.8 y Node.js 22.11 o posterior. El resultado son archivos de localización comunes y archivos .locres, así que puedes dejar de usar LocHub en cualquier momento."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "LocHub이 AI 번역을\nUnreal Editor에",
+          "body": "LocHub은 Unreal 문자열을 내 AI 키로 번역하고 다른 AI가 검수한다.",
+          "mini_headline": "Unreal 안의 AI 현지화",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+              },
+              {
+                "t": "p",
+                "x": "LocHub은 통제권을 빼앗지 않으면서 AI 번역을 Unreal Editor 안으로 들여온다. 프로젝트의 문자열은 사용자가 고른 AI 제공업체로 사용자 자신의 키를 통해 전달된다. 내장 검사와 두 번째 AI가 문제를 잡아내고, 사용자는 결과를 한곳에서 검토한 뒤 일반 Unreal 현지화 데이터로 다시 가져온다."
+              },
+              {
+                "t": "p",
+                "x": "서식 인수, 복수형, rich-text 태그는 LocHub과 Unreal 자체 검증기가 코드로 두 번 검증하므로 깨진 텍스트는 승인할 수 없다. 선택 사항인 AI 심사기는 의미, 용어, 어조를 점검하고 위험한 문자열을 검토 대기열 맨 앞에 둔다. 각 문자열은 원본 에셋이나 C++ 파일, 개발자 메모, 인접 문자열, 스타일 가이드와 용어집을 참고해 맥락 속에서 번역한다."
+              },
+              {
+                "t": "p",
+                "x": "사람이 고친 내용은 AI가 절대 덮어쓰지 않고, 원문이 바뀌면 해당 번역은 구버전으로 표시되며, 모든 작업에는 비용 추정과 엄격한 지출 상한이 붙는다. Anthropic, OpenAI, xAI, DeepSeek, Google Gemini의 키를 직접 쓰거나, 구독으로 Claude Code를 이용할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Unreal Engine 5.6, 5.7, 5.8과 Node.js 22.11 이상이 필요하다. 출력물은 일반 현지화 아카이브와 .locres 파일이므로 언제든 LocHub 사용을 중단할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "LocHub、AI翻訳を\nUnreal Editorへ",
+          "body": "LocHubは自前のAIキーでUnreal文字列を翻訳し、別のAIが問題を検出する。",
+          "mini_headline": "Unreal内でAIローカライズ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+              },
+              {
+                "t": "p",
+                "x": "LocHubは、主導権を奪うことなくAI翻訳をUnreal Editorに持ち込む。プロジェクトの文字列は、ユーザーが選んだAIプロバイダーへ自分のキーで送られる。組み込みのチェックと2つ目のAIが問題を拾い、結果は1か所でレビューして、通常のUnrealローカライズデータとして取り込める。"
+              },
+              {
+                "t": "p",
+                "x": "書式引数、複数形、rich-textタグはLocHubとUnreal自身のバリデーターによってコードで二重に検証されるため、壊れたテキストは承認できない。オプションのAI審査役は意味、用語、トーンを確認し、リスクのある文字列をレビュー待ちの先頭に回す。各文字列は、元のアセットやC++ファイル、開発者メモ、隣接する文字列、スタイルガイド、用語集を踏まえ、文脈の中で翻訳される。"
+              },
+              {
+                "t": "p",
+                "x": "人間による修正をAIが上書きすることはなく、原文が変われば翻訳は古いものとして示され、各ジョブには費用見積もりと厳格な支出上限が付く。Anthropic、OpenAI、xAI、DeepSeek、Google Geminiの自分のキーを使うか、サブスクリプション経由でClaude Codeを使える。"
+              },
+              {
+                "t": "p",
+                "x": "動作にはUnreal Engine 5.6、5.7、5.8と、Node.js 22.11以降が必要だ。出力は通常のローカライズアーカイブと.locresファイルなので、いつでもLocHubの利用をやめられる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "LocHub将AI翻译带入\nUnreal Editor",
+          "body": "LocHub用你自己的AI密钥翻译Unreal文本，并由第二个AI排查问题。",
+          "mini_headline": "Unreal内的AI本地化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+              },
+              {
+                "t": "p",
+                "x": "LocHub把AI翻译带进Unreal Editor，同时不夺走你的控制权。项目文本通过你自己的密钥发送给你选择的AI服务商；内置检查和第二个AI负责发现问题；你在一处审阅结果，再将其作为普通的Unreal本地化数据取回。"
+              },
+              {
+                "t": "p",
+                "x": "格式参数、复数形式和rich-text标签会经LocHub与Unreal自带的校验器在代码层面两次验证，因此损坏的文本无法通过审批。可选的AI评审会检查含义、术语和语气，并把有风险的文本排在审阅队列最前面。每条文本都结合上下文翻译，参考其源资产或C++文件、开发者备注、相邻文本、你的风格指南和术语表。"
+              },
+              {
+                "t": "p",
+                "x": "人工修改绝不会被AI覆盖，源文本一旦变动，相应译文会被标记为过时，每项任务都附有费用估算和硬性支出上限。你可以使用自己的Anthropic、OpenAI、xAI、DeepSeek或Google Gemini密钥，也可以通过订阅使用Claude Code。"
+              },
+              {
+                "t": "p",
+                "x": "它需要Unreal Engine 5.6、5.7或5.8，以及Node.js 22.11或更高版本。输出是普通的本地化归档和.locres文件，因此你随时可以停用LocHub。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "LocHub lleva traducción con IA\nal Unreal Editor",
+          "body": "LocHub traduce los textos de Unreal con tu propia clave de IA, con controles integrados y una segunda IA de revisión.",
+          "mini_headline": "Localización con IA dentro de Unreal",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+              },
+              {
+                "t": "p",
+                "x": "LocHub lleva la traducción con IA al Unreal Editor sin quitarte el control. Los textos de tu proyecto van al proveedor de IA que elijas, con tu propia clave; los controles integrados y una segunda IA detectan los problemas; revisas el resultado en un solo lugar y lo recuperas como datos de localización normales de Unreal."
+              },
+              {
+                "t": "p",
+                "x": "Los argumentos de formato, las formas plurales y las etiquetas rich-text se validan dos veces en código, por LocHub y por el propio validador de Unreal, de modo que no se puede aprobar texto roto. Un juez de IA opcional revisa el significado, la terminología y el tono, y coloca primero en la cola de revisión los textos de riesgo. Cada texto se traduce en contexto, con su recurso de origen o archivo C++, las notas de los desarrolladores, los textos vecinos, tu guía de estilo y tu glosario."
+              },
+              {
+                "t": "p",
+                "x": "La IA nunca sobrescribe las ediciones humanas, un cambio en el texto de origen marca las traducciones como desactualizadas y cada tarea recibe una estimación de coste y un límite de gasto estricto. Puedes usar tu propia clave de Anthropic, OpenAI, xAI, DeepSeek o Google Gemini, o Claude Code mediante una suscripción."
+              },
+              {
+                "t": "p",
+                "x": "Requiere Unreal Engine 5.6, 5.7 o 5.8 y Node.js 22.11 o posterior. El resultado son archivos de localización comunes y archivos .locres, así que puedes dejar de usar LocHub en cualquier momento."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "banjo-tooie-vibe-recomp",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Banjo-Tooie의\nvibe-coded판 뭇매",
+      "body": "Zelda·Banjo 이식팀이 vibe-coded Banjo-Tooie를 비판했다.",
+      "mini_headline": "AI Banjo-Tooie 리컴프에 비판",
+      "tool": "Games",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "Fx1orSJc8d4"
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+            "cap": "(이미지 출처: Nintendo/Rare)"
           },
           {
             "t": "p",
-            "x": "Unity가 xAI의 Grok Build용 공식 플러그인을 내놓고 자사 엔지니어링 지침을 터미널로 직접 가져왔다. 명령어 하나면 설치되고 따로 설정할 것도 없다. Unity 6 이상에서 바로 작동한다."
+            "x": "팬들이 고전 게임을 리컴파일하는 프로젝트가 늘면서 vibe coding으로 만든 AI-driven 프로젝트도 덩달아 많아졌다. Zelda 64: Recompiled와 Banjo: Recompiled 개발진은 자기들의 N64: Recompiled 작업 위에 세운 새 Banjo-Tooie 리컴파일이 못마땅하다. 제작자는 \"AI 도구가 이 프로젝트 코드의 상당 부분을 생성했다\"고 밝혔다."
           },
           {
             "t": "p",
-            "x": "플러그인에는 Unity 기능 팀이 작성한 30개 이상의 Unity 스킬이 담겼다. UI Toolkit, URP, Shader Graph, 물리, LevelPlay, 현지화 등을 다룬다. 에이전트가 실행 중인 Unity Editor를 조작하고 프로젝트를 빌드·테스트하게 해 주는 Unity CLI 워크플로도 들어 있다."
+            "x": "개발자 Dario는 Bluesky에서 \"Banjo-Tooie Recompilation은 우리와 전혀(NOT) 관련이 없다\"며 \"Zelda: Recompiled와 Banjo: Recompiled 모두 매우 분명한 No AI 입장을 갖고 있다\"고 말했다. 팀은 이미 Tooie 이식 계획을 발표해 둔 상태다. \"프레임워크와 렌더러, 게임 자체에 대해 우리가 사람의 손으로 쌓아 온 방대한 연구를 가져다 AI에 던져 넣는 건 그저 무례한 일이다.\""
           },
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+            "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+            "cap": "(이미지 출처: Nintendo/Zelda 64: Recompiled)"
           },
           {
             "t": "p",
-            "x": "Unity 블로그에 따르면 Grok Build는 Claude Code, Codex에 이어 이 플러그인을 받은 세 번째 코딩 에이전트다. 세 에이전트의 스킬은 같고 한 저장소에서 관리된다. 그래서 같은 질문에는 어느 에이전트든 같은 Unity 지침을 내놓는다. 개발자들이 이 에이전트들과 CLI, 플러그인을 어떻게 쓰는지 보여 주는 데이터는 10월에 공개할 예정이라고 Unity는 밝혔다."
+            "x": "개발자 Reonu_는 이 프로젝트를 두고 팀이 계획해 둔 이식작을 AI-rushed로 급조한 \"망가진 '알파'\"라고 불렀다. Donkey Kong 64: Recompiled 개발진은 7월에 vibe coding을 거부했다. 이해 가능한 AI-assisted 코드라면 받아 주는 RPCS3 에뮬레이터 팀도 기여자들에게 \"AI 슬롭 코드\"는 그만 보내 달라고 호소했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Unity ships an official plugin\nfor xAI's Grok Build agent",
-          "body": "Unity's official plugin for xAI's Grok Build coding agent brings Unity engineering guidance directly into the terminal.",
-          "mini_headline": "Unity plugin for Grok Build",
+          "headline": "Port devs slam a vibe-coded\nBanjo-Tooie recompilation",
+          "body": "Zelda and Banjo PC port devs criticized a vibe-coded Banjo-Tooie recomp, saying throwing AI at it is disrespectful.",
+          "mini_headline": "Port devs slam AI\nBanjo-Tooie recomp",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Fx1orSJc8d4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+                "cap": "(Image credit: Nintendo/Rare)"
               },
               {
                 "t": "p",
-                "x": "Unity has released its official plugin for Grok Build, bringing its engineering guidance directly to the terminal. One command installs it, with no manual setup, and it works out of the box with Unity 6 and above."
+                "x": "As fanmade recompilations of classic games grow, so do AI-driven projects built through vibe coding. The devs behind Zelda 64: Recompiled and Banjo: Recompiled are perturbed by a new Banjo-Tooie recompilation that builds on their N64: Recompiled work, whose creator says \"AI tools generated substantial portions of this project's code.\""
               },
               {
                 "t": "p",
-                "x": "The plugin carries 30+ Unity skills written by Unity feature teams, covering areas such as UI Toolkit, URP, Shader Graph, physics, LevelPlay and localization, plus Unity CLI workflows that let the agent drive a running Unity Editor and build and test projects."
+                "x": "\"The Banjo-Tooie Recompilation is NOT associated with us,\" developer Dario said on Bluesky. \"Both Zelda: Recompiled and Banjo: Recompiled have very clear No AI stances.\" The team had already announced plans for a Tooie port: \"Using the extensive amount of human research we've done for the framework, the renderer and the games themselves and throwing AI at it is just disrespectful.\""
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+                "cap": "(Image credit: Nintendo/Zelda 64: Recompiled)"
               },
               {
                 "t": "p",
-                "x": "According to Unity's blog, Grok Build is the third coding agent to get the plugin after Claude Code and Codex. The skills are identical across all three and maintained from a single repository, so every agent gives the same Unity guidance for the same question. Unity says it will publish data on how developers use the CLI and plugin with these agents in October."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Unity lanza un plugin oficial\npara el agente Grok Build de xAI",
-          "body": "El plugin oficial de Unity para Grok Build, el agente de programación de xAI, lleva la guía de Unity a la terminal.",
-          "mini_headline": "Plugin de Unity para Grok Build",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "Fx1orSJc8d4"
-              },
-              {
-                "t": "p",
-                "x": "Unity ha lanzado su plugin oficial para Grok Build, que lleva sus pautas de ingeniería directamente a la terminal. Se instala con un solo comando, sin configuración manual, y funciona de inmediato con Unity 6 y versiones posteriores."
-              },
-              {
-                "t": "p",
-                "x": "El plugin incluye más de 30 skills de Unity escritas por los equipos de funciones de Unity, que abarcan áreas como UI Toolkit, URP, Shader Graph, física, LevelPlay y localización, además de flujos de trabajo de Unity CLI que permiten al agente controlar un Unity Editor en ejecución y compilar y probar proyectos."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
-              },
-              {
-                "t": "p",
-                "x": "Según el blog de Unity, Grok Build es el tercer agente de programación que recibe el plugin, después de Claude Code y Codex. Las skills son idénticas en los tres y se mantienen desde un único repositorio, de modo que todos los agentes dan la misma orientación de Unity ante la misma pregunta. Unity afirma que en octubre publicará datos sobre cómo usan los desarrolladores la CLI y el plugin con estos agentes."
+                "x": "Developer Reonu_ called it an AI-rushed \"broken 'alpha'\" of a port the team had planned. The Donkey Kong 64: Recompiled devs rejected vibe coding in July, and the RPCS3 emulator team, which accepts AI-assisted code it understands, has begged contributors to stop submitting \"AI slop code.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "xAI 에이전트용\nUnity 공식 플러그인",
-          "body": "Unity의 xAI Grok Build용 플러그인이 지침을 터미널로 가져온다.",
-          "mini_headline": "Grok Build용 Unity 플러그인",
+          "headline": "Banjo-Tooie의\nvibe-coded판 뭇매",
+          "body": "Zelda·Banjo 이식팀이 vibe-coded Banjo-Tooie를 비판했다.",
+          "mini_headline": "AI Banjo-Tooie 리컴프에 비판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Fx1orSJc8d4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+                "cap": "(이미지 출처: Nintendo/Rare)"
               },
               {
                 "t": "p",
-                "x": "Unity가 xAI의 Grok Build용 공식 플러그인을 내놓고 자사 엔지니어링 지침을 터미널로 직접 가져왔다. 명령어 하나면 설치되고 따로 설정할 것도 없다. Unity 6 이상에서 바로 작동한다."
+                "x": "팬들이 고전 게임을 리컴파일하는 프로젝트가 늘면서 vibe coding으로 만든 AI-driven 프로젝트도 덩달아 많아졌다. Zelda 64: Recompiled와 Banjo: Recompiled 개발진은 자기들의 N64: Recompiled 작업 위에 세운 새 Banjo-Tooie 리컴파일이 못마땅하다. 제작자는 \"AI 도구가 이 프로젝트 코드의 상당 부분을 생성했다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "플러그인에는 Unity 기능 팀이 작성한 30개 이상의 Unity 스킬이 담겼다. UI Toolkit, URP, Shader Graph, 물리, LevelPlay, 현지화 등을 다룬다. 에이전트가 실행 중인 Unity Editor를 조작하고 프로젝트를 빌드·테스트하게 해 주는 Unity CLI 워크플로도 들어 있다."
+                "x": "개발자 Dario는 Bluesky에서 \"Banjo-Tooie Recompilation은 우리와 전혀(NOT) 관련이 없다\"며 \"Zelda: Recompiled와 Banjo: Recompiled 모두 매우 분명한 No AI 입장을 갖고 있다\"고 말했다. 팀은 이미 Tooie 이식 계획을 발표해 둔 상태다. \"프레임워크와 렌더러, 게임 자체에 대해 우리가 사람의 손으로 쌓아 온 방대한 연구를 가져다 AI에 던져 넣는 건 그저 무례한 일이다.\""
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+                "cap": "(이미지 출처: Nintendo/Zelda 64: Recompiled)"
               },
               {
                 "t": "p",
-                "x": "Unity 블로그에 따르면 Grok Build는 Claude Code, Codex에 이어 이 플러그인을 받은 세 번째 코딩 에이전트다. 세 에이전트의 스킬은 같고 한 저장소에서 관리된다. 그래서 같은 질문에는 어느 에이전트든 같은 Unity 지침을 내놓는다. 개발자들이 이 에이전트들과 CLI, 플러그인을 어떻게 쓰는지 보여 주는 데이터는 10월에 공개할 예정이라고 Unity는 밝혔다."
+                "x": "개발자 Reonu_는 이 프로젝트를 두고 팀이 계획해 둔 이식작을 AI-rushed로 급조한 \"망가진 '알파'\"라고 불렀다. Donkey Kong 64: Recompiled 개발진은 7월에 vibe coding을 거부했다. 이해 가능한 AI-assisted 코드라면 받아 주는 RPCS3 에뮬레이터 팀도 기여자들에게 \"AI 슬롭 코드\"는 그만 보내 달라고 호소했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "xAIのエージェント向け\nUnity公式プラグイン",
-          "body": "UnityのxAI Grok Build向けプラグインが、指針をターミナルに届ける。",
-          "mini_headline": "Grok Build向けUnityプラグイン",
+          "headline": "vibe-codedの\nBanjo-Tooieに批判",
+          "body": "ZeldaとBanjoの移植陣が、vibe-codedのBanjo-Tooieを批判した。",
+          "mini_headline": "AI製Banjo-Tooie再コンパイルに批判",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Fx1orSJc8d4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+                "cap": "(画像提供：Nintendo/Rare)"
               },
               {
                 "t": "p",
-                "x": "UnityはxAIのGrok Build向け公式プラグインをリリースし、自社のエンジニアリング指針をターミナルに直接持ち込んだ。コマンド1つでインストールでき、手動設定は不要で、Unity 6以降ならすぐに動作する。"
+                "x": "クラシックゲームのファンメイド再コンパイルが増えるにつれ、vibe codingで作られたAI-drivenなプロジェクトも増えている。Zelda 64: RecompiledとBanjo: Recompiledの開発者たちは、自分たちのN64: Recompiledの成果を土台にした新たなBanjo-Tooie再コンパイルに困惑している。その作者は「このプロジェクトのコードのかなりの部分はAIツールが生成した」と述べている。"
               },
               {
                 "t": "p",
-                "x": "プラグインにはUnityの機能チームが書いた30以上のUnityスキルが含まれる。UI Toolkit、URP、Shader Graph、物理、LevelPlay、ローカライズなどの領域をカバーし、エージェントが起動中のUnity Editorを操作してプロジェクトをビルド・テストできるUnity CLIワークフローも備える。"
+                "x": "開発者のDarioはBlueskyで「Banjo-Tooie Recompilationは我々とは一切（NOT）関係ない」と述べ、「Zelda: RecompiledもBanjo: Recompiledも、No AIの姿勢を非常に明確にしている」とした。チームはすでにTooieの移植計画を発表していた。「フレームワーク、レンダラー、そしてゲームそのものについて我々が人の手で積み重ねてきた膨大な研究を使い、そこにAIを投げ込むのは、ただ無礼なことだ」"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+                "cap": "(画像提供：Nintendo/Zelda 64: Recompiled)"
               },
               {
                 "t": "p",
-                "x": "Unityのブログによると、Grok BuildはClaude Code、Codexに続き、このプラグインに対応した3つ目のコーディングエージェントだ。スキルは3つとも同一で単一のリポジトリから管理されており、同じ質問にはどのエージェントも同じUnityの指針を返す。Unityは、開発者がこれらのエージェントとCLIやプラグインをどう使っているかのデータを10月に公開するとしている。"
+                "x": "開発者のReonu_は、これをチームが計画していた移植をAI-rushedで急造した「壊れた『アルファ版』」と呼んだ。Donkey Kong 64: Recompiledの開発者たちは7月にvibe codingを拒否しており、理解できるAI-assistedのコードは受け入れるRPCS3エミュレーターチームも、貢献者に「AIスロップコード」の提出をやめるよう懇願している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity为xAI智能体\n推出官方插件",
-          "body": "Unity为xAI的Grok Build推出官方插件，把工程指导直接带进终端。",
-          "mini_headline": "Unity推出Grok Build插件",
+          "headline": "vibe-coded的\nBanjo-Tooie遭批评",
+          "body": "Zelda与Banjo PC移植团队批评vibe-coded的Banjo-Tooie重编译。",
+          "mini_headline": "移植开发者批AI版Banjo-Tooie",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Fx1orSJc8d4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+                "cap": "（图片来源：Nintendo/Rare）"
               },
               {
                 "t": "p",
-                "x": "Unity发布了面向xAI旗下Grok Build的官方插件，将其工程指导直接带进终端。只需一条命令即可安装，无需手动设置，在Unity 6及以上版本中开箱即用。"
+                "x": "随着经典游戏的粉丝重编译项目越来越多，借助vibe coding打造的AI-driven项目也在增加。Zelda 64: Recompiled和Banjo: Recompiled的开发者对一款新的Banjo-Tooie重编译感到不安，它建立在他们的N64: Recompiled成果之上，其作者称“这个项目的大部分代码由AI工具生成”。"
               },
               {
                 "t": "p",
-                "x": "该插件包含30多项由Unity功能团队编写的Unity技能，涵盖UI Toolkit、URP、Shader Graph、物理、LevelPlay和本地化等领域，另有Unity CLI工作流，可让智能体操控正在运行的Unity Editor，并构建和测试项目。"
+                "x": "开发者Dario在Bluesky上表示：“Banjo-Tooie Recompilation与我们毫无（NOT）关系。”“Zelda: Recompiled和Banjo: Recompiled都有非常明确的No AI立场。”团队此前已宣布Tooie移植计划：“拿我们在框架、渲染器和游戏本身上投入的大量人工研究，再把AI扔进去，这简直是不尊重。”"
               },
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+                "cap": "（图片来源：Nintendo/Zelda 64: Recompiled）"
               },
               {
                 "t": "p",
-                "x": "据Unity博客介绍，Grok Build是继Claude Code和Codex之后第三个获得该插件的编程智能体。三者的技能完全相同，并由同一个代码仓库维护，因此对同一个问题，每个智能体都会给出相同的Unity指导。Unity表示，将于10月公布开发者如何配合这些智能体使用CLI和插件的数据。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "Unity lanza un plugin oficial\npara el agente Grok Build de xAI",
-          "body": "El plugin oficial de Unity para Grok Build, el agente de programación de xAI, lleva la guía de Unity a la terminal.",
-          "mini_headline": "Plugin de Unity para Grok Build",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "Fx1orSJc8d4"
-              },
-              {
-                "t": "p",
-                "x": "Unity ha lanzado su plugin oficial para Grok Build, que lleva sus pautas de ingeniería directamente a la terminal. Se instala con un solo comando, sin configuración manual, y funciona de inmediato con Unity 6 y versiones posteriores."
-              },
-              {
-                "t": "p",
-                "x": "El plugin incluye más de 30 skills de Unity escritas por los equipos de funciones de Unity, que abarcan áreas como UI Toolkit, URP, Shader Graph, física, LevelPlay y localización, además de flujos de trabajo de Unity CLI que permiten al agente controlar un Unity Editor en ejecución y compilar y probar proyectos."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
-              },
-              {
-                "t": "p",
-                "x": "Según el blog de Unity, Grok Build es el tercer agente de programación que recibe el plugin, después de Claude Code y Codex. Las skills son idénticas en los tres y se mantienen desde un único repositorio, de modo que todos los agentes dan la misma orientación de Unity ante la misma pregunta. Unity afirma que en octubre publicará datos sobre cómo usan los desarrolladores la CLI y el plugin con estos agentes."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "xAI 에이전트용\nUnity 공식 플러그인",
-          "body": "Unity의 xAI Grok Build용 플러그인이 지침을 터미널로 가져온다.",
-          "mini_headline": "Grok Build용 Unity 플러그인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "Fx1orSJc8d4"
-              },
-              {
-                "t": "p",
-                "x": "Unity가 xAI의 Grok Build용 공식 플러그인을 내놓고 자사 엔지니어링 지침을 터미널로 직접 가져왔다. 명령어 하나로 설치되며 별도 설정이 필요 없고, Unity 6 이상에서 바로 작동한다."
-              },
-              {
-                "t": "p",
-                "x": "플러그인에는 Unity 기능 팀이 작성한 30개 이상의 Unity 스킬이 담겼다. UI Toolkit, URP, Shader Graph, 물리, LevelPlay, 현지화 등을 다루며, 에이전트가 실행 중인 Unity Editor를 조작하고 프로젝트를 빌드하고 테스트하게 하는 Unity CLI 워크플로도 포함한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
-              },
-              {
-                "t": "p",
-                "x": "Unity 블로그에 따르면 Grok Build는 Claude Code, Codex에 이어 이 플러그인을 받은 세 번째 코딩 에이전트다. 세 에이전트의 스킬은 동일하며 하나의 저장소에서 관리되므로, 같은 질문에는 어느 에이전트든 같은 Unity 지침을 내놓는다. Unity는 개발자들이 이 에이전트들과 함께 CLI와 플러그인을 어떻게 쓰는지에 대한 데이터를 10월에 공개할 예정이라고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "xAIのエージェント向け\nUnity公式プラグイン",
-          "body": "UnityのxAI Grok Build向けプラグインが、指針をターミナルに届ける。",
-          "mini_headline": "Grok Build向けUnityプラグイン",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "Fx1orSJc8d4"
-              },
-              {
-                "t": "p",
-                "x": "UnityはxAIのGrok Build向け公式プラグインをリリースし、自社のエンジニアリング指針をターミナルに直接持ち込んだ。コマンド1つでインストールでき、手動設定は不要で、Unity 6以降ならすぐに動作する。"
-              },
-              {
-                "t": "p",
-                "x": "プラグインにはUnityの機能チームが書いた30以上のUnityスキルが含まれる。UI Toolkit、URP、Shader Graph、物理、LevelPlay、ローカライズなどの領域をカバーし、エージェントが起動中のUnity Editorを操作してプロジェクトをビルド・テストできるUnity CLIワークフローも備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
-              },
-              {
-                "t": "p",
-                "x": "Unityのブログによると、Grok BuildはClaude Code、Codexに続き、このプラグインに対応した3つ目のコーディングエージェントだ。スキルは3つとも同一で単一のリポジトリから管理されており、同じ質問にはどのエージェントも同じUnityの指針を返す。Unityは、開発者がこれらのエージェントとCLIやプラグインをどう使っているかのデータを10月に公開するとしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Unity为xAI智能体\n推出官方插件",
-          "body": "Unity为xAI的Grok Build推出官方插件，把工程指导直接带进终端。",
-          "mini_headline": "Unity推出Grok Build插件",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "Fx1orSJc8d4"
-              },
-              {
-                "t": "p",
-                "x": "Unity发布了面向xAI旗下Grok Build的官方插件，将其工程指导直接带进终端。只需一条命令即可安装，无需手动设置，在Unity 6及以上版本中开箱即用。"
-              },
-              {
-                "t": "p",
-                "x": "该插件包含30多项由Unity功能团队编写的Unity技能，涵盖UI Toolkit、URP、Shader Graph、物理、LevelPlay和本地化等领域，另有Unity CLI工作流，可让智能体操控正在运行的Unity Editor，并构建和测试项目。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/ae3527e27fc75b514ea44132e8d3e23882bdc721-1177x655.png"
-              },
-              {
-                "t": "p",
-                "x": "据Unity博客介绍，Grok Build是继Claude Code和Codex之后第三个获得该插件的编程智能体。三者的技能完全相同，并由同一个代码仓库维护，因此对同一个问题，每个智能体都会给出相同的Unity指导。Unity表示，将于10月公布开发者如何配合这些智能体使用CLI和插件的数据。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "uefnclaudekit",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Fortnite 맵용\n눈에 보이는 AI 개발팀",
-      "body": "커뮤니티 키트가 Claude Code로 맵마다 배우는 UEFN AI 팀을 꾸린다.",
-      "mini_headline": "UEFN용 AI 개발팀",
-      "tool": "Games",
-      "source": "Epic Developer Community",
-      "url": "https://forums.unrealengine.com/t/release-uefn-claude-team-starter-kit-v1-84-an-ai-dev-team-for-your-map-that-you-can-actually-see-and-that-learns-from-every-map-you-ship/2835895",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "한 커뮤니티 크리에이터가 UEFN Claude Team Starter Kit v1.84를 공개했다. UEFN용 Claude Code + Unreal MCP 환경을 실시간 대시보드가 달린 실제 AI 개발팀으로 바꿔 주는 무료 오픈소스 키트다."
-          },
-          {
-            "t": "video",
-            "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
-          },
-          {
-            "t": "p",
-            "x": "Agent Console에는 코더, 리뷰어, QA, 릴리스 게이트, 플래너 등 12개 전문 에이전트가 표시되고, 인계 과정이 전부 실시간으로 보인다. 플레이 수, D1/D7 리텐션, 장르 순위 같은 섬 통계도 함께 보여 준다. 작업하는 동안 팀이 사양서와 로드맵, 버그 백로그도 직접 쓰고 갱신한다."
-          },
-          {
-            "t": "img",
-            "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-            "cap": "Agent Console"
-          },
-          {
-            "t": "p",
-            "x": "v1.84에서 새로 추가된 장르 스킬(서바이벌과 로그라이크 포함)은 사용자의 프로젝트에서 패턴을 학습한다. 배운 교훈은 몰래 적용하지 않고 늘 제안으로 먼저 내놓는다. 패턴은 여러 맵에서 통해야만 \"검증됨\" 상태가 된다. 프로젝트는 세션을 시작할 때마다 템플릿에서 스스로 업데이트하기도 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-            "cap": "파이프라인 다이어그램"
-          },
-          {
-            "t": "p",
-            "x": "플레이테스트가 끝날 때마다 버그와 회귀 검사가 자동으로 돌아가고, 출시 전에는 go/no-go 게이트를 거친다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "A visible AI dev team\nfor your Fortnite map",
-          "body": "A community kit turns Claude Code and Unreal MCP into a multi-agent UEFN team that learns from every map you ship.",
-          "mini_headline": "AI dev team\nfor UEFN",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "A community creator has released v1.84 of the UEFN Claude Team Starter Kit, which turns a Claude Code + Unreal MCP setup for UEFN into a working AI dev team with a live dashboard. It is free and open source."
-              },
-              {
-                "t": "video",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
-              },
-              {
-                "t": "p",
-                "x": "The Agent Console shows 12 specialist agents (coder, reviewers, QA, release gate, planner and more) with every handoff visible in real time, alongside island stats such as plays, D1/D7 retention and genre rank. The team also writes and updates the spec, roadmap and bug backlog as it works."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-                "cap": "Agent Console"
-              },
-              {
-                "t": "p",
-                "x": "New in v1.84, genre skills (survival and roguelike included) learn patterns from your own projects. Every lesson is proposed, never applied silently, and a pattern becomes \"proven\" only when it holds across several maps. Projects also update themselves from a template at the start of each session."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-                "cap": "Pipeline diagram"
-              },
-              {
-                "t": "p",
-                "x": "Automatic bug and regression checks run after every playtest, with a go/no-go gate before release."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Fortnite 맵용\n눈에 보이는 AI 개발팀",
-          "body": "커뮤니티 키트가 Claude Code로 맵마다 배우는 UEFN AI 팀을 꾸린다.",
-          "mini_headline": "UEFN용 AI 개발팀",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "한 커뮤니티 크리에이터가 UEFN Claude Team Starter Kit v1.84를 공개했다. UEFN용 Claude Code + Unreal MCP 환경을 실시간 대시보드가 달린 실제 AI 개발팀으로 바꿔 주는 무료 오픈소스 키트다."
-              },
-              {
-                "t": "video",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Agent Console에는 코더, 리뷰어, QA, 릴리스 게이트, 플래너 등 12개 전문 에이전트가 표시되고, 인계 과정이 전부 실시간으로 보인다. 플레이 수, D1/D7 리텐션, 장르 순위 같은 섬 통계도 함께 보여 준다. 작업하는 동안 팀이 사양서와 로드맵, 버그 백로그도 직접 쓰고 갱신한다."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-                "cap": "Agent Console"
-              },
-              {
-                "t": "p",
-                "x": "v1.84에서 새로 추가된 장르 스킬(서바이벌과 로그라이크 포함)은 사용자의 프로젝트에서 패턴을 학습한다. 배운 교훈은 몰래 적용하지 않고 늘 제안으로 먼저 내놓는다. 패턴은 여러 맵에서 통해야만 \"검증됨\" 상태가 된다. 프로젝트는 세션을 시작할 때마다 템플릿에서 스스로 업데이트하기도 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-                "cap": "파이프라인 다이어그램"
-              },
-              {
-                "t": "p",
-                "x": "플레이테스트가 끝날 때마다 버그와 회귀 검사가 자동으로 돌아가고, 출시 전에는 go/no-go 게이트를 거친다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Fortniteマップ用の\n見えるAI開発チーム",
-          "body": "Claude Codeを使うコミュニティ製キットがマップごとに学ぶUEFNチームを作る。",
-          "mini_headline": "UEFN向けAI開発チーム",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "あるコミュニティクリエイターが、UEFN Claude Team Starter Kitのv1.84を公開した。UEFN向けのClaude Code + Unreal MCP環境を、ライブダッシュボード付きの実働するAI開発チームに変えるキットで、無料のオープンソースだ。"
-              },
-              {
-                "t": "video",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Agent Consoleには、コーダー、レビュアー、QA、リリースゲート、プランナーなど12の専門エージェントが表示され、あらゆる引き継ぎをリアルタイムで確認できる。プレイ数、D1/D7リテンション、ジャンル順位といったアイランドの統計も並ぶ。チームは作業を進めながら、仕様書、ロードマップ、バグバックログの作成と更新も行う。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-                "cap": "Agent Console"
-              },
-              {
-                "t": "p",
-                "x": "v1.84で新たに加わったジャンルスキル(サバイバルやローグライクを含む)は、ユーザー自身のプロジェクトからパターンを学習する。学んだ内容は黙って適用されることはなく必ず提案として示され、パターンが「実証済み」になるのは複数のマップで通用した場合に限られる。プロジェクトはセッション開始時に毎回テンプレートから自動で更新される。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-                "cap": "パイプライン図"
-              },
-              {
-                "t": "p",
-                "x": "プレイテストのたびにバグとリグレッションの自動チェックが走り、リリース前にはgo/no-goゲートが設けられている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "为你的Fortnite地图\n配一支可见的AI开发团队",
-          "body": "社区套件借助Claude Code打造多智能体UEFN团队，从每张地图中学习。",
-          "mini_headline": "UEFN的AI开发团队",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "一位社区创作者发布了UEFN Claude Team Starter Kit v1.84，可将UEFN的Claude Code + Unreal MCP环境变成一支带实时仪表盘、真正可用的AI开发团队。它免费且开源。"
-              },
-              {
-                "t": "video",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Agent Console显示12个专职智能体（编码、审查、QA、发布把关、规划等），每一次交接都实时可见，同时还列出游玩次数、D1/D7留存和类型排名等岛屿数据。团队在工作中还会编写并更新规格文档、路线图和缺陷待办清单。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-                "cap": "Agent Console"
-              },
-              {
-                "t": "p",
-                "x": "v1.84新增了类型技能（包括生存和Roguelike），可从你自己的项目中学习模式。每条经验都会以提议形式提出，绝不会悄悄应用；只有在多张地图上都成立时，一个模式才会被标为\"已验证\"。项目还会在每次会话开始时从模板自动更新。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-                "cap": "流程示意图"
-              },
-              {
-                "t": "p",
-                "x": "每次试玩后都会自动运行缺陷和回归检查，发布前还设有go/no-go关卡。"
+                "x": "开发者Reonu_称其是团队原本计划的移植版被AI-rushed赶出来的“残破‘alpha’”。Donkey Kong 64: Recompiled的开发者在7月拒绝了vibe coding；而接受自己能理解的AI-assisted代码的RPCS3模拟器团队，也恳求贡献者别再提交“AI垃圾代码”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un equipo de IA visible\npara tu mapa de Fortnite",
-          "body": "Un kit de la comunidad convierte Claude Code y Unreal MCP en un equipo multiagente de UEFN que aprende de cada mapa.",
-          "mini_headline": "Equipo de IA para UEFN",
+          "headline": "Críticas a una recompilación\nvibe-coded de Banjo-Tooie",
+          "body": "Quienes portaron Zelda y Banjo a PC tachan de irrespetuoso usar IA en una recompilación vibe-coded de Banjo-Tooie.",
+          "mini_headline": "Critican el recomp con IA de Banjo-Tooie",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Un creador de la comunidad ha publicado la v1.84 del UEFN Claude Team Starter Kit, que convierte una configuración de Claude Code + Unreal MCP para UEFN en un equipo de desarrollo de IA funcional con un panel en vivo. Es gratuito y de código abierto."
-              },
-              {
-                "t": "video",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+                "cap": "(Crédito de imagen: Nintendo/Rare)"
               },
               {
                 "t": "p",
-                "x": "La Agent Console muestra 12 agentes especializados (programador, revisores, QA, control de lanzamiento, planificador y más) con cada traspaso visible en tiempo real, junto con estadísticas de la isla como partidas, retención D1/D7 y posición en el género. El equipo también redacta y actualiza la especificación, la hoja de ruta y el backlog de errores mientras trabaja."
+                "x": "A medida que crecen las recompilaciones de clásicos hechas por fans, también lo hacen los proyectos AI-driven creados mediante vibe coding. Los desarrolladores de Zelda 64: Recompiled y Banjo: Recompiled están molestos con una nueva recompilación de Banjo-Tooie basada en su trabajo de N64: Recompiled, cuyo creador afirma que «las herramientas de IA generaron partes sustanciales del código de este proyecto»."
+              },
+              {
+                "t": "p",
+                "x": "«La Banjo-Tooie Recompilation NO (NOT) está asociada con nosotros», dijo el desarrollador Dario en Bluesky. «Tanto Zelda: Recompiled como Banjo: Recompiled tienen posturas No AI muy claras». El equipo ya había anunciado planes para un port de Tooie: «Usar la enorme cantidad de investigación humana que hemos hecho sobre el framework, el renderizador y los propios juegos y echarle IA encima es sencillamente una falta de respeto»."
               },
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-                "cap": "Agent Console"
+                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+                "cap": "(Crédito de imagen: Nintendo/Zelda 64: Recompiled)"
               },
               {
                 "t": "p",
-                "x": "Como novedad en la v1.84, las skills de género (incluidas supervivencia y roguelike) aprenden patrones de tus propios proyectos. Cada lección se propone, nunca se aplica en silencio, y un patrón solo pasa a ser \"probado\" cuando se cumple en varios mapas. Los proyectos también se actualizan solos a partir de una plantilla al inicio de cada sesión."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-                "cap": "Diagrama del pipeline"
-              },
-              {
-                "t": "p",
-                "x": "Tras cada prueba de juego se ejecutan comprobaciones automáticas de errores y regresiones, con una compuerta de go/no-go antes del lanzamiento."
+                "x": "El desarrollador Reonu_ la calificó de «'alfa' rota» AI-rushed de un port que el equipo tenía previsto. Los desarrolladores de Donkey Kong 64: Recompiled rechazaron el vibe coding en julio, y el equipo del emulador RPCS3, que acepta código AI-assisted que entiende, ha rogado a los colaboradores que dejen de enviar «código basura de IA»."
               }
             ]
           }
@@ -877,161 +889,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Fortnite 맵용\n눈에 보이는 AI 개발팀",
-          "body": "커뮤니티 키트가 Claude Code로 맵마다 배우는 UEFN AI 팀을 꾸린다.",
-          "mini_headline": "UEFN용 AI 개발팀",
+          "headline": "Banjo-Tooie의\nvibe-coded판 뭇매",
+          "body": "Zelda·Banjo 이식팀이 vibe-coded Banjo-Tooie를 비판했다.",
+          "mini_headline": "AI Banjo-Tooie 리컴프에 비판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "한 커뮤니티 크리에이터가 UEFN Claude Team Starter Kit v1.84를 공개했다. UEFN용 Claude Code + Unreal MCP 환경을 실시간 대시보드를 갖춘 실제 AI 개발팀으로 바꿔 주는 키트로, 무료 오픈소스다."
-              },
-              {
-                "t": "video",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+                "cap": "(이미지 출처: Nintendo/Rare)"
               },
               {
                 "t": "p",
-                "x": "Agent Console에는 코더, 리뷰어, QA, 릴리스 게이트, 플래너 등 12개 전문 에이전트가 표시되고, 모든 인계 과정을 실시간으로 볼 수 있다. 플레이 수, D1/D7 리텐션, 장르 순위 같은 섬 통계도 함께 보여 준다. 팀은 작업하면서 사양서, 로드맵, 버그 백로그도 직접 작성하고 갱신한다."
+                "x": "고전 게임을 팬들이 리컴파일하는 프로젝트가 늘면서, vibe coding으로 만든 AI-driven 프로젝트도 늘고 있다. Zelda 64: Recompiled와 Banjo: Recompiled 개발진은 자신들의 N64: Recompiled 작업을 바탕으로 한 새 Banjo-Tooie 리컴파일에 불편한 기색이다. 이 프로젝트의 제작자는 \"AI 도구가 이 프로젝트 코드의 상당 부분을 생성했다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "개발자 Dario는 Bluesky에서 \"Banjo-Tooie Recompilation은 우리와 전혀(NOT) 관련이 없다\"며 \"Zelda: Recompiled와 Banjo: Recompiled 모두 매우 분명한 No AI 입장을 갖고 있다\"고 말했다. 팀은 이미 Tooie 이식 계획을 발표한 바 있다. \"프레임워크와 렌더러, 게임 자체에 대해 우리가 사람의 손으로 쌓아 온 방대한 연구를 가져다 AI에 던져 넣는 건 그저 무례한 일이다.\""
               },
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-                "cap": "Agent Console"
+                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+                "cap": "(이미지 출처: Nintendo/Zelda 64: Recompiled)"
               },
               {
                 "t": "p",
-                "x": "v1.84에서 새로 추가된 장르 스킬(서바이벌과 로그라이크 포함)은 사용자의 프로젝트에서 패턴을 학습한다. 모든 교훈은 조용히 적용하지 않고 늘 제안으로 먼저 내놓으며, 패턴은 여러 맵에서 통할 때에만 \"검증됨\" 상태가 된다. 프로젝트는 세션을 시작할 때마다 템플릿에서 스스로 업데이트하기도 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-                "cap": "파이프라인 다이어그램"
-              },
-              {
-                "t": "p",
-                "x": "플레이테스트가 끝날 때마다 버그와 회귀 검사가 자동으로 돌아가고, 출시 전에는 go/no-go 게이트를 거친다."
+                "x": "개발자 Reonu_는 이를 팀이 계획해 둔 이식작을 AI-rushed로 급조한 \"망가진 '알파'\"라고 불렀다. Donkey Kong 64: Recompiled 개발진은 7월에 vibe coding을 거부했고, 이해할 수 있는 AI-assisted 코드는 받아들이는 RPCS3 에뮬레이터 팀은 기여자들에게 \"AI 슬롭 코드\"를 그만 제출해 달라고 호소했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Fortniteマップ用の\n見えるAI開発チーム",
-          "body": "Claude Codeを使うコミュニティ製キットがマップごとに学ぶUEFNチームを作る。",
-          "mini_headline": "UEFN向けAI開発チーム",
+          "headline": "vibe-codedの\nBanjo-Tooieに批判",
+          "body": "ZeldaとBanjoの移植陣が、vibe-codedのBanjo-Tooieを批判した。",
+          "mini_headline": "AI製Banjo-Tooie再コンパイルに批判",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "あるコミュニティクリエイターが、UEFN Claude Team Starter Kitのv1.84を公開した。UEFN向けのClaude Code + Unreal MCP環境を、ライブダッシュボード付きの実働するAI開発チームに変えるキットで、無料のオープンソースだ。"
-              },
-              {
-                "t": "video",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+                "cap": "(画像提供：Nintendo/Rare)"
               },
               {
                 "t": "p",
-                "x": "Agent Consoleには、コーダー、レビュアー、QA、リリースゲート、プランナーなど12の専門エージェントが表示され、あらゆる引き継ぎをリアルタイムで確認できる。プレイ数、D1/D7リテンション、ジャンル順位といったアイランドの統計も並ぶ。チームは作業を進めながら、仕様書、ロードマップ、バグバックログの作成と更新も行う。"
+                "x": "クラシックゲームのファンメイド再コンパイルが増えるにつれ、vibe codingで作られたAI-drivenなプロジェクトも増えている。Zelda 64: RecompiledとBanjo: Recompiledの開発者たちは、自分たちのN64: Recompiledの成果を土台にした新たなBanjo-Tooie再コンパイルに困惑している。その作者は「このプロジェクトのコードのかなりの部分はAIツールが生成した」と述べている。"
+              },
+              {
+                "t": "p",
+                "x": "開発者のDarioはBlueskyで「Banjo-Tooie Recompilationは我々とは一切（NOT）関係ない」と述べ、「Zelda: RecompiledもBanjo: Recompiledも、No AIの姿勢を非常に明確にしている」とした。チームはすでにTooieの移植計画を発表していた。「フレームワーク、レンダラー、そしてゲームそのものについて我々が人の手で積み重ねてきた膨大な研究を使い、そこにAIを投げ込むのは、ただ無礼なことだ」"
               },
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-                "cap": "Agent Console"
+                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+                "cap": "(画像提供：Nintendo/Zelda 64: Recompiled)"
               },
               {
                 "t": "p",
-                "x": "v1.84で新たに加わったジャンルスキル(サバイバルやローグライクを含む)は、ユーザー自身のプロジェクトからパターンを学習する。学んだ内容は黙って適用されることはなく必ず提案として示され、パターンが「実証済み」になるのは複数のマップで通用した場合に限られる。プロジェクトはセッション開始時に毎回テンプレートから自動で更新される。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-                "cap": "パイプライン図"
-              },
-              {
-                "t": "p",
-                "x": "プレイテストのたびにバグとリグレッションの自動チェックが走り、リリース前にはgo/no-goゲートが設けられている。"
+                "x": "開発者のReonu_は、これをチームが計画していた移植をAI-rushedで急造した「壊れた『アルファ版』」と呼んだ。Donkey Kong 64: Recompiledの開発者たちは7月にvibe codingを拒否しており、理解できるAI-assistedのコードは受け入れるRPCS3エミュレーターチームも、貢献者に「AIスロップコード」の提出をやめるよう懇願している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "为你的Fortnite地图\n配一支可见的AI开发团队",
-          "body": "社区套件借助Claude Code打造多智能体UEFN团队，从每张地图中学习。",
-          "mini_headline": "UEFN的AI开发团队",
+          "headline": "vibe-coded的\nBanjo-Tooie遭批评",
+          "body": "Zelda与Banjo PC移植团队批评vibe-coded的Banjo-Tooie重编译。",
+          "mini_headline": "移植开发者批AI版Banjo-Tooie",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "一位社区创作者发布了UEFN Claude Team Starter Kit v1.84，可将UEFN的Claude Code + Unreal MCP环境变成一支带实时仪表盘、真正可用的AI开发团队。它免费且开源。"
-              },
-              {
-                "t": "video",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+                "cap": "（图片来源：Nintendo/Rare）"
               },
               {
                 "t": "p",
-                "x": "Agent Console显示12个专职智能体（编码、审查、QA、发布把关、规划等），每一次交接都实时可见，同时还列出游玩次数、D1/D7留存和类型排名等岛屿数据。团队在工作中还会编写并更新规格文档、路线图和缺陷待办清单。"
+                "x": "随着经典游戏的粉丝重编译项目越来越多，借助vibe coding打造的AI-driven项目也在增加。Zelda 64: Recompiled和Banjo: Recompiled的开发者对一款新的Banjo-Tooie重编译感到不安，它建立在他们的N64: Recompiled成果之上，其作者称“这个项目的大部分代码由AI工具生成”。"
+              },
+              {
+                "t": "p",
+                "x": "开发者Dario在Bluesky上表示：“Banjo-Tooie Recompilation与我们毫无（NOT）关系。”“Zelda: Recompiled和Banjo: Recompiled都有非常明确的No AI立场。”团队此前已宣布Tooie移植计划：“拿我们在框架、渲染器和游戏本身上投入的大量人工研究，再把AI扔进去，这简直是不尊重。”"
               },
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-                "cap": "Agent Console"
+                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+                "cap": "（图片来源：Nintendo/Zelda 64: Recompiled）"
               },
               {
                 "t": "p",
-                "x": "v1.84新增了类型技能（包括生存和Roguelike），可从你自己的项目中学习模式。每条经验都会以提议形式提出，绝不会悄悄应用；只有在多张地图上都成立时，一个模式才会被标为\"已验证\"。项目还会在每次会话开始时从模板自动更新。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-                "cap": "流程示意图"
-              },
-              {
-                "t": "p",
-                "x": "每次试玩后都会自动运行缺陷和回归检查，发布前还设有go/no-go关卡。"
+                "x": "开发者Reonu_称其是团队原本计划的移植版被AI-rushed赶出来的“残破‘alpha’”。Donkey Kong 64: Recompiled的开发者在7月拒绝了vibe coding；而接受自己能理解的AI-assisted代码的RPCS3模拟器团队，也恳求贡献者别再提交“AI垃圾代码”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un equipo de IA visible\npara tu mapa de Fortnite",
-          "body": "Un kit de la comunidad convierte Claude Code y Unreal MCP en un equipo multiagente de UEFN que aprende de cada mapa.",
-          "mini_headline": "Equipo de IA para UEFN",
+          "headline": "Críticas a una recompilación\nvibe-coded de Banjo-Tooie",
+          "body": "Quienes portaron Zelda y Banjo a PC tachan de irrespetuoso usar IA en una recompilación vibe-coded de Banjo-Tooie.",
+          "mini_headline": "Critican el recomp con IA de Banjo-Tooie",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Un creador de la comunidad ha publicado la v1.84 del UEFN Claude Team Starter Kit, que convierte una configuración de Claude Code + Unreal MCP para UEFN en un equipo de desarrollo de IA funcional con un panel en vivo. Es gratuito y de código abierto."
-              },
-              {
-                "t": "video",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/8/5/3/85363d5123e38c448a57413ad091e55f6e510a4f.mp4"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+                "cap": "(Crédito de imagen: Nintendo/Rare)"
               },
               {
                 "t": "p",
-                "x": "La Agent Console muestra 12 agentes especializados (programador, revisores, QA, control de lanzamiento, planificador y más) con cada traspaso visible en tiempo real, junto con estadísticas de la isla como partidas, retención D1/D7 y posición en el género. El equipo también redacta y actualiza la especificación, la hoja de ruta y el backlog de errores mientras trabaja."
+                "x": "A medida que crecen las recompilaciones de clásicos hechas por fans, también lo hacen los proyectos AI-driven creados mediante vibe coding. Los desarrolladores de Zelda 64: Recompiled y Banjo: Recompiled están molestos con una nueva recompilación de Banjo-Tooie basada en su trabajo de N64: Recompiled, cuyo creador afirma que «las herramientas de IA generaron partes sustanciales del código de este proyecto»."
+              },
+              {
+                "t": "p",
+                "x": "«La Banjo-Tooie Recompilation NO (NOT) está asociada con nosotros», dijo el desarrollador Dario en Bluesky. «Tanto Zelda: Recompiled como Banjo: Recompiled tienen posturas No AI muy claras». El equipo ya había anunciado planes para un port de Tooie: «Usar la enorme cantidad de investigación humana que hemos hecho sobre el framework, el renderizador y los propios juegos y echarle IA encima es sencillamente una falta de respeto»."
               },
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/4/a/c/4ac8cd77884bddecb4b52078ecdbf25b3193c3c1_2_676x500.png",
-                "cap": "Agent Console"
+                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+                "cap": "(Crédito de imagen: Nintendo/Zelda 64: Recompiled)"
               },
               {
                 "t": "p",
-                "x": "Como novedad en la v1.84, las skills de género (incluidas supervivencia y roguelike) aprenden patrones de tus propios proyectos. Cada lección se propone, nunca se aplica en silencio, y un patrón solo pasa a ser \"probado\" cuando se cumple en varios mapas. Los proyectos también se actualizan solos a partir de una plantilla al inicio de cada sesión."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/4/b/64bffc5ee78557cb129fb0a3b8ea5a2ce488002f_2_690x481.jpeg",
-                "cap": "Diagrama del pipeline"
-              },
-              {
-                "t": "p",
-                "x": "Tras cada prueba de juego se ejecutan comprobaciones automáticas de errores y regresiones, con una compuerta de go/no-go antes del lanzamiento."
+                "x": "El desarrollador Reonu_ la calificó de «'alfa' rota» AI-rushed de un port que el equipo tenía previsto. Los desarrolladores de Donkey Kong 64: Recompiled rechazaron el vibe coding en julio, y el equipo del emulador RPCS3, que acepta código AI-assisted que entiende, ha rogado a los colaboradores que dejen de enviar «código basura de IA»."
               }
             ]
           }
@@ -1039,15 +1019,15 @@
       }
     },
     {
-      "id": "twitchadsai",
+      "id": "fallout-new-york-ai-cnd",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Twitch, AI로\n브랜드 부적합 방송 선별",
-      "body": "Twitch가 AI로 브랜드에 맞지 않는 스트리머를 가려내 광고 배정에 쓴다.",
-      "mini_headline": "Twitch AI 광고 심사",
+      "headline": "AI-made 폴아웃에\nZeniMax C&D 주장",
+      "body": "Fallout: New York 제작자는 ZeniMax의 C&D를 받았다고 했다.",
+      "mini_headline": "AI Fallout 게임에 ZeniMax C&D 주장",
       "tool": "Games",
-      "source": "Aftermath",
-      "url": "https://aftermath.site/twitch-ads-ai-streamers-money/",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1055,295 +1035,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
+            "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: Bethesda"
           },
           {
             "t": "p",
-            "x": "Twitch CEO Dan Clancy는 Snarketing Podcast에서 사이트가 이미 방송을 텍스트로 받아쓰고 있기 때문에 \"최근에는 AI로 브랜드와 맞지 않을 수 있는 스트리머도 식별하고 있다\"고 말했다. 광고주 기준에 맞지 않는 방송에서 광고를 빼려는 것이다."
+            "x": "AI-generated(AI 생성) 브라우저 게임 Fallout: New York의 제작자가 Bethesda 모회사 ZeniMax에서 중단 요구 메시지를 받았다고 주장했다. 게임은 Anthropic의 Claude Opus 5.5로 만들었다."
           },
           {
             "t": "p",
-            "x": "스트리머들의 반응은 시큰둥하다. JP \"itmeJP\" McDaniel은 \"아, 그래서 광고 수익이 떨어졌구나\"라고 했고, Vtuber LuminusRed는 자신이 레즈비언이라는 이유로 AI가 광고를 빼 버릴 수 있다고 우려했다. 크리에이터가 무엇 때문에 표시됐는지 알 수 있기는 하냐고 묻는 이들도 있었다."
+            "x": "트위터에서 CHRIS FIRST라는 이름을 쓰는 자칭 \"AI Creative\" 제작자는 게임에 퀘스트, 동료, 대화 트리, V.A.T.S., Pip-Boy가 다 있고 전부 코드로 생성해 \"텍스처 파일은 영 개\", \"사운드 파일도 영 개\"라고 자랑했다. Rock Paper Shotgun은 NPC 얼굴을 두고 끔찍하게 흉측하다고 평했다. 프롬프터는 \"전부 무료이고 이걸로 한 푼도 벌지 않는다\"고 썼다."
           },
           {
             "t": "p",
-            "x": "Twitch 대변인은 이후 업데이트에서 Aftermath에 광고주마다 선호 기준을 따로 정한다고 설명했다. 매칭이 정교해지면 광고 기회가 오히려 늘어난다는 것이다. 대변인은 \"Twitch 직원이 여러 단계에 걸쳐 표시된 콘텐츠를 검토하며, 늘 그렇듯 장기적인 광고 자격에 관한 변경은 사람이 결정한다\"고 말했다. 광고주 선호가 수익에 영향을 줄 때 크리에이터에게 알릴 방법도 Twitch가 마련하는 중이라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "AI가 어떤 기준을 따르는지, 책임은 어디에 있는지 하는 물음은 아직 남아 있다고 Aftermath는 지적한다."
+            "x": "통지가 진짜라면 ZeniMax가 저작물을 지키려고 문제 삼은 건 \"fallout.nyc\" 도메인 이름으로 보인다. RPS는 Bethesda에 입장을 물었다. 제작자는 \"내가 안 만들어도 되게 차라리 당신들이 Fallout 게임을 만드는 건 어때?\"라고 응수했다. RPS는 그 대신 사람이 만든 대형 모드 Fallout: London을 권한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Twitch is using AI to flag\nstreams that don't fit brands",
-          "body": "Twitch now transcribes streams and uses AI to flag creators who may not suit a brand, which affects who gets ads.",
-          "mini_headline": "Twitch AI\nscreens for ads",
+          "headline": "Creator says ZeniMax sent C&D\nto AI-made Fallout game",
+          "body": "The maker of a Claude-built Fallout: New York browser game says Bethesda parent ZeniMax sent a cease and desist.",
+          "mini_headline": "ZeniMax C&D claimed\nfor AI Fallout game",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
+                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: Bethesda"
               },
               {
                 "t": "p",
-                "x": "On the Snarketing Podcast, Twitch CEO Dan Clancy said that because the site already transcribes streams, it has \"lately been using AI to also identify streamers that may not match a brand\" so ads can be pulled from broadcasts that don't fit an advertiser's considerations."
+                "x": "The person behind an AI-generated browser game dubbed Fallout: New York has claimed to have received a cease and desist message from Bethesda parent company ZeniMax. The game was generated using Anthropic's Claude Opus 5.5."
               },
               {
                 "t": "p",
-                "x": "Streamers are not enthused. \"Ohhh so that's why ad revenue dropped,\" said JP \"itmeJP\" McDaniel, while Vtuber LuminusRed worried that being a lesbian could cause the AI to remove ads. Others asked whether creators will ever learn what they were flagged for."
+                "x": "Its creator, a self-styled \"AI Creative\" going by CHRIS FIRST on Twitter, boasted of quests, companions, dialogue trees, V.A.T.S. and a Pip-Boy, with \"zero texture files\" and \"zero sound files\" since everything is generated by code. Rock Paper Shotgun calls the NPC faces utterly hideous. \"It's all free and I make 0 money on it,\" the prompter wrote."
               },
               {
                 "t": "p",
-                "x": "In an update, a Twitch representative told Aftermath that each advertiser sets its own preferences and that better matching should open up more ad opportunities. \"Twitch staff reviews flagged content at multiple stages, and as always, any changes to longer term ad eligibility would be a human decision,\" the rep said, adding that Twitch is building ways to tell creators when advertiser preferences affect their revenue."
-              },
-              {
-                "t": "p",
-                "x": "Aftermath argues questions remain about what standards the AI follows and where accountability lies."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Twitch, AI로\n브랜드 부적합 방송 선별",
-          "body": "Twitch가 AI로 브랜드에 맞지 않는 스트리머를 가려내 광고 배정에 쓴다.",
-          "mini_headline": "Twitch AI 광고 심사",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Twitch CEO Dan Clancy는 Snarketing Podcast에서 사이트가 이미 방송을 텍스트로 받아쓰고 있기 때문에 \"최근에는 AI로 브랜드와 맞지 않을 수 있는 스트리머도 식별하고 있다\"고 말했다. 광고주 기준에 맞지 않는 방송에서 광고를 빼려는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "스트리머들의 반응은 시큰둥하다. JP \"itmeJP\" McDaniel은 \"아, 그래서 광고 수익이 떨어졌구나\"라고 했고, Vtuber LuminusRed는 자신이 레즈비언이라는 이유로 AI가 광고를 빼 버릴 수 있다고 우려했다. 크리에이터가 무엇 때문에 표시됐는지 알 수 있기는 하냐고 묻는 이들도 있었다."
-              },
-              {
-                "t": "p",
-                "x": "Twitch 대변인은 이후 업데이트에서 Aftermath에 광고주마다 선호 기준을 따로 정한다고 설명했다. 매칭이 정교해지면 광고 기회가 오히려 늘어난다는 것이다. 대변인은 \"Twitch 직원이 여러 단계에 걸쳐 표시된 콘텐츠를 검토하며, 늘 그렇듯 장기적인 광고 자격에 관한 변경은 사람이 결정한다\"고 말했다. 광고주 선호가 수익에 영향을 줄 때 크리에이터에게 알릴 방법도 Twitch가 마련하는 중이라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "AI가 어떤 기준을 따르는지, 책임은 어디에 있는지 하는 물음은 아직 남아 있다고 Aftermath는 지적한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Twitch、AIで\nブランド不適合の配信を選別",
-          "body": "Twitchは配信の文字起こしを基に、ブランドに合わない配信者をAIで選別している。",
-          "mini_headline": "Twitch、AIで広告審査",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Snarketing Podcastで、TwitchのCEOであるDan Clancyは、サイトですでに配信を文字起こししていることから、「最近はAIを使って、ブランドに合わない可能性のある配信者の特定も行っている」と語った。広告主の意向に合わない配信から広告を外せるようにするためだ。"
-              },
-              {
-                "t": "p",
-                "x": "配信者たちの反応は冷ややかだ。JP「itmeJP」McDanielは「ああ、だから広告収入が落ちたのか」とコメントし、VtuberのLuminusRedは、自分がレズビアンであることを理由にAIが広告を外すのではないかと懸念した。自分が何を理由にフラグを立てられたのか、クリエイターが知ることはできるのかと問う声もあった。"
-              },
-              {
-                "t": "p",
-                "x": "その後の更新で、Twitchの担当者はAftermathに対し、広告主はそれぞれ独自の設定を行っており、マッチングの精度が上がれば広告の機会はむしろ増えるはずだと説明した。担当者は「Twitchのスタッフがフラグの立ったコンテンツを複数の段階で確認しており、これまでどおり、長期的な広告の適格性に関わる変更は人間が判断する」と述べ、広告主の設定が収益に影響する場合にクリエイターへ知らせる仕組みを構築中だと付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "Aftermathは、AIがどんな基準に従っているのか、責任の所在はどこにあるのかという疑問が残っていると論じている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Twitch用AI标记\n与品牌不符的直播",
-          "body": "Twitch会转录直播，并用AI标记可能与品牌不符的主播，从而影响广告投放。",
-          "mini_headline": "Twitch用AI筛选广告",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Twitch CEO Dan Clancy在Snarketing Podcast上表示，由于网站本来就会转录直播内容，平台\"最近也开始用AI识别可能与品牌不匹配的主播\"，以便从不符合广告主考量的直播中撤下广告。"
-              },
-              {
-                "t": "p",
-                "x": "主播们对此并不买账。JP \"itmeJP\" McDaniel说：\"哦——原来广告收入是这么掉的。\"Vtuber LuminusRed则担心，自己是女同性恋可能会导致AI撤掉广告。还有人问，创作者究竟能否得知自己因何被标记。"
-              },
-              {
-                "t": "p",
-                "x": "在后续更新中，一位Twitch代表告诉Aftermath，每个广告主都会设定自己的偏好，而更好的匹配应会带来更多广告机会。这位代表说：\"Twitch员工会在多个环节审核被标记的内容，并且一如既往，任何涉及长期广告资格的变更都将由人来决定。\"他还补充说，Twitch正在开发相关功能，在广告主偏好影响创作者收入时告知他们。"
-              },
-              {
-                "t": "p",
-                "x": "Aftermath认为，AI遵循什么标准、责任由谁承担，这些问题仍未得到解答。"
+                "x": "If the notice is genuine, the \"fallout.nyc\" domain name looks like the strand ZeniMax picked at to protect its copyrighted material; RPS has asked Bethesda for comment. \"How about you make a Fallout game instead so I don't have to?\" the creator replied. RPS instead recommends Fallout: London, a massive mod made by humans."
               }
             ]
           }
         },
         "es": {
-          "headline": "Twitch usa IA para señalar\nstreams no aptos para marcas",
-          "body": "Twitch usa IA para señalar a creadores que quizá no encajen con una marca, lo que afecta a quién recibe anuncios.",
-          "mini_headline": "La IA de Twitch filtra anuncios",
+          "headline": "Su autor dice que ZeniMax envió\nun C&D a su Fallout AI-made",
+          "body": "El autor de Fallout: New York, juego Claude-built, dice que ZeniMax, matriz de Bethesda, le envió un C&D.",
+          "mini_headline": "ZeniMax y el C&D a un Fallout hecho con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
+                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de imagen: Bethesda"
               },
               {
                 "t": "p",
-                "x": "En el Snarketing Podcast, el CEO de Twitch, Dan Clancy, dijo que, como el sitio ya transcribe los streams, \"últimamente también ha estado usando IA para identificar a streamers que quizá no encajen con una marca\", de modo que se puedan retirar anuncios de las emisiones que no se ajusten a las consideraciones de un anunciante."
+                "x": "El autor de un juego de navegador AI-generated llamado Fallout: New York afirma haber recibido un mensaje de cese y desista de ZeniMax, la empresa matriz de Bethesda. El juego se generó con Claude Opus 5.5, de Anthropic."
               },
               {
                 "t": "p",
-                "x": "Los streamers no están entusiasmados. \"Ahhh, así que por eso bajaron los ingresos por anuncios\", dijo JP \"itmeJP\" McDaniel, mientras que la Vtuber LuminusRed temía que ser lesbiana pudiera hacer que la IA le retirara los anuncios. Otros preguntaron si los creadores llegarán a saber alguna vez por qué fueron señalados."
+                "x": "Su creador, que se presenta como «AI Creative» y usa el nombre CHRIS FIRST en Twitter, presumió de misiones, compañeros, árboles de diálogo, V.A.T.S. y un Pip-Boy, con «cero archivos de texturas» y «cero archivos de sonido», ya que todo se genera con código. Rock Paper Shotgun describe las caras de los NPC como absolutamente horribles. «Todo es gratis y gano 0 dinero con ello», escribió el autor de los prompts."
               },
               {
                 "t": "p",
-                "x": "En una actualización, un representante de Twitch dijo a Aftermath que cada anunciante fija sus propias preferencias y que un mejor emparejamiento debería abrir más oportunidades publicitarias. \"El personal de Twitch revisa el contenido señalado en varias etapas y, como siempre, cualquier cambio en la elegibilidad publicitaria a largo plazo sería una decisión humana\", afirmó el representante, y añadió que Twitch está creando formas de avisar a los creadores cuando las preferencias de los anunciantes afectan a sus ingresos."
+                "x": "Si el aviso es auténtico, el nombre de dominio «fallout.nyc» parece ser el hilo del que tiró ZeniMax para proteger su material con derechos de autor; RPS ha pedido comentarios a Bethesda. «¿Y si mejor hacéis vosotros un juego de Fallout para que yo no tenga que hacerlo?», respondió el creador. RPS recomienda en su lugar Fallout: London, un enorme mod hecho por humanos."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-made 폴아웃에\nZeniMax C&D 주장",
+          "body": "Fallout: New York 제작자는 ZeniMax의 C&D를 받았다고 했다.",
+          "mini_headline": "AI Fallout 게임에 ZeniMax C&D 주장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Bethesda"
               },
               {
                 "t": "p",
-                "x": "Aftermath sostiene que siguen abiertas las preguntas sobre qué criterios sigue la IA y dónde recae la responsabilidad."
+                "x": "AI-generated(AI 생성) 브라우저 게임 Fallout: New York의 제작자가 Bethesda 모회사 ZeniMax에서 중단 요구 메시지를 받았다고 주장했다. 게임은 Anthropic의 Claude Opus 5.5로 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "트위터에서 CHRIS FIRST라는 이름을 쓰는 자칭 \"AI Creative\" 제작자는 게임에 퀘스트, 동료, 대화 트리, V.A.T.S., Pip-Boy가 다 있고 전부 코드로 생성해 \"텍스처 파일은 영 개\", \"사운드 파일도 영 개\"라고 자랑했다. Rock Paper Shotgun은 NPC 얼굴을 두고 끔찍하게 흉측하다고 평했다. 프롬프터는 \"전부 무료이고 이걸로 한 푼도 벌지 않는다\"고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "통지가 진짜라면 ZeniMax가 저작물을 지키려고 문제 삼은 건 \"fallout.nyc\" 도메인 이름으로 보인다. RPS는 Bethesda에 입장을 물었다. 제작자는 \"내가 안 만들어도 되게 차라리 당신들이 Fallout 게임을 만드는 건 어때?\"라고 응수했다. RPS는 그 대신 사람이 만든 대형 모드 Fallout: London을 권한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-madeゲームに\nZeniMaxがC&D通知",
+          "body": "Fallout: New Yorkの制作者が、ZeniMaxからC&Dを受けたと主張した。",
+          "mini_headline": "AI FalloutにZeniMaxがC&Dか",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像クレジット: Bethesda"
+              },
+              {
+                "t": "p",
+                "x": "AI-generated（AI生成）のブラウザゲーム「Fallout: New York」の制作者が、Bethesdaの親会社ZeniMaxから停止要求のメッセージを受け取ったと主張している。このゲームはAnthropicのClaude Opus 5.5で生成された。"
+              },
+              {
+                "t": "p",
+                "x": "制作者はTwitterでCHRIS FIRSTを名乗る自称「AI Creative」で、クエスト、コンパニオン、会話ツリー、V.A.T.S.、Pip-Boyを備え、すべてをコードで生成しているため「テクスチャファイルはゼロ」「サウンドファイルもゼロ」だと誇った。Rock Paper ShotgunはNPCの顔がひどく醜いと評している。「すべて無料で、これで一銭も稼いでいない」とプロンプターは書いた。"
+              },
+              {
+                "t": "p",
+                "x": "通知が本物なら、ZeniMaxが著作物を守るために問題視したのは「fallout.nyc」というドメイン名のようだ。RPSはBethesdaにコメントを求めている。制作者は「僕が作らなくて済むように、代わりにFalloutのゲームを作ったらどう？」と返した。RPSは代わりに、人の手による大型MOD「Fallout: London」を薦めている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "制作者称ZeniMax\n向AI-made游戏发C&D",
+          "body": "Claude打造的Fallout: New York作者称收到ZeniMax勒令停止函。",
+          "mini_headline": "ZeniMax被指向AI Fallout游戏发C&D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Bethesda"
+              },
+              {
+                "t": "p",
+                "x": "一款名为Fallout: New York的AI-generated（AI生成）浏览器游戏的制作者声称，收到了Bethesda母公司ZeniMax发来的勒令停止通知。该游戏使用Anthropic的Claude Opus 5.5生成。"
+              },
+              {
+                "t": "p",
+                "x": "其制作者在Twitter上名为CHRIS FIRST，自称“AI Creative”，夸耀游戏拥有任务、同伴、对话树、V.A.T.S.和Pip-Boy，并且因为一切都由代码生成，做到了“零纹理文件”和“零音效文件”。Rock Paper Shotgun称NPC的脸极其丑陋。这位提示词作者写道：“全部免费，我一分钱都不赚。”"
+              },
+              {
+                "t": "p",
+                "x": "如果通知属实，ZeniMax为保护版权素材而揪住的似乎是“fallout.nyc”这个域名；RPS已向Bethesda寻求置评。制作者回应：“不如你们来做一款Fallout游戏，这样我就不用做了？”RPS则推荐由人类制作的大型模组Fallout: London。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Twitch, AI로\n브랜드 부적합 방송 선별",
-          "body": "Twitch가 AI로 브랜드에 맞지 않는 스트리머를 가려내 광고 배정에 쓴다.",
-          "mini_headline": "Twitch AI 광고 심사",
+        "es": {
+          "headline": "Su autor dice que ZeniMax envió\nun C&D a su Fallout AI-made",
+          "body": "El autor de Fallout: New York, juego Claude-built, dice que ZeniMax, matriz de Bethesda, le envió un C&D.",
+          "mini_headline": "ZeniMax y el C&D a un Fallout hecho con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
+                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de imagen: Bethesda"
               },
               {
                 "t": "p",
-                "x": "Twitch CEO Dan Clancy는 Snarketing Podcast에서 사이트가 이미 방송을 텍스트로 받아쓰고 있기 때문에 \"최근에는 AI로 브랜드와 맞지 않을 수 있는 스트리머도 식별하고 있다\"고 말했다. 광고주의 고려 사항에 맞지 않는 방송에서 광고를 뺄 수 있도록 하기 위해서다."
+                "x": "El autor de un juego de navegador AI-generated llamado Fallout: New York afirma haber recibido un mensaje de cese y desista de ZeniMax, la empresa matriz de Bethesda. El juego se generó con Claude Opus 5.5, de Anthropic."
               },
               {
                 "t": "p",
-                "x": "스트리머들의 반응은 시큰둥하다. JP \"itmeJP\" McDaniel은 \"아, 그래서 광고 수익이 떨어졌구나\"라고 했고, Vtuber LuminusRed는 자신이 레즈비언이라는 이유로 AI가 광고를 빼 버릴 수 있다고 우려했다. 크리에이터가 무엇 때문에 표시됐는지 알 수 있기는 하냐고 묻는 이들도 있었다."
+                "x": "Su creador, que se presenta como «AI Creative» y usa el nombre CHRIS FIRST en Twitter, presumió de misiones, compañeros, árboles de diálogo, V.A.T.S. y un Pip-Boy, con «cero archivos de texturas» y «cero archivos de sonido», ya que todo se genera con código. Rock Paper Shotgun describe las caras de los NPC como absolutamente horribles. «Todo es gratis y gano 0 dinero con ello», escribió el autor de los prompts."
               },
               {
                 "t": "p",
-                "x": "이후 업데이트에서 Twitch 대변인은 Aftermath에 광고주마다 각자 선호 기준을 정하며, 매칭이 정교해지면 광고 기회가 오히려 늘어날 것이라고 설명했다. 대변인은 \"Twitch 직원이 여러 단계에 걸쳐 표시된 콘텐츠를 검토하며, 늘 그렇듯 장기적인 광고 자격에 관한 변경은 사람이 결정한다\"고 말하고, 광고주 선호가 수익에 영향을 줄 때 크리에이터에게 알리는 방법을 Twitch가 마련하고 있다고 덧붙였다."
+                "x": "Si el aviso es auténtico, el nombre de dominio «fallout.nyc» parece ser el hilo del que tiró ZeniMax para proteger su material con derechos de autor; RPS ha pedido comentarios a Bethesda. «¿Y si mejor hacéis vosotros un juego de Fallout para que yo no tenga que hacerlo?», respondió el creador. RPS recomienda en su lugar Fallout: London, un enorme mod hecho por humanos."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-made 폴아웃에\nZeniMax C&D 주장",
+          "body": "Fallout: New York 제작자는 ZeniMax의 C&D를 받았다고 했다.",
+          "mini_headline": "AI Fallout 게임에 ZeniMax C&D 주장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Bethesda"
               },
               {
                 "t": "p",
-                "x": "Aftermath는 AI가 어떤 기준을 따르는지, 책임은 어디에 있는지에 대한 물음이 여전히 남아 있다고 지적한다."
+                "x": "Fallout: New York이라는 AI-generated(AI 생성) 브라우저 게임의 제작자가 Bethesda 모회사 ZeniMax로부터 중단 요구 메시지를 받았다고 주장했다. 이 게임은 Anthropic의 Claude Opus 5.5로 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "트위터에서 CHRIS FIRST라는 이름을 쓰는 자칭 \"AI Creative\" 제작자는 퀘스트, 동료, 대화 트리, V.A.T.S., Pip-Boy를 갖췄고 모든 것을 코드로 생성해 \"텍스처 파일은 영 개\", \"사운드 파일도 영 개\"라고 자랑했다. Rock Paper Shotgun은 NPC 얼굴이 끔찍하게 흉측하다고 평했다. 프롬프터는 \"전부 무료이고 이걸로 한 푼도 벌지 않는다\"고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "통지가 진짜라면 ZeniMax가 저작물을 지키려고 문제 삼은 대목은 \"fallout.nyc\" 도메인 이름으로 보인다. RPS는 Bethesda에 입장을 요청했다. 제작자는 \"내가 안 만들어도 되게 차라리 당신들이 Fallout 게임을 만드는 건 어때?\"라고 응수했다. RPS는 대신 사람이 만든 대형 모드 Fallout: London을 추천한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Twitch、AIで\nブランド不適合の配信を選別",
-          "body": "Twitchは配信の文字起こしを基に、ブランドに合わない配信者をAIで選別している。",
-          "mini_headline": "Twitch、AIで広告審査",
+          "headline": "AI-madeゲームに\nZeniMaxがC&D通知",
+          "body": "Fallout: New Yorkの制作者が、ZeniMaxからC&Dを受けたと主張した。",
+          "mini_headline": "AI FalloutにZeniMaxがC&Dか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
+                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像クレジット: Bethesda"
               },
               {
                 "t": "p",
-                "x": "Snarketing Podcastで、TwitchのCEOであるDan Clancyは、サイトですでに配信を文字起こししていることから、「最近はAIを使って、ブランドに合わない可能性のある配信者の特定も行っている」と語った。広告主の意向に合わない配信から広告を外せるようにするためだ。"
+                "x": "AI-generated（AI生成）のブラウザゲーム「Fallout: New York」の制作者が、Bethesdaの親会社ZeniMaxから停止要求のメッセージを受け取ったと主張している。このゲームはAnthropicのClaude Opus 5.5で生成された。"
               },
               {
                 "t": "p",
-                "x": "配信者たちの反応は冷ややかだ。JP「itmeJP」McDanielは「ああ、だから広告収入が落ちたのか」とコメントし、VtuberのLuminusRedは、自分がレズビアンであることを理由にAIが広告を外すのではないかと懸念した。自分が何を理由にフラグを立てられたのか、クリエイターが知ることはできるのかと問う声もあった。"
+                "x": "制作者はTwitterでCHRIS FIRSTを名乗る自称「AI Creative」で、クエスト、コンパニオン、会話ツリー、V.A.T.S.、Pip-Boyを備え、すべてをコードで生成しているため「テクスチャファイルはゼロ」「サウンドファイルもゼロ」だと誇った。Rock Paper ShotgunはNPCの顔がひどく醜いと評している。「すべて無料で、これで一銭も稼いでいない」とプロンプターは書いた。"
               },
               {
                 "t": "p",
-                "x": "その後の更新で、Twitchの担当者はAftermathに対し、広告主はそれぞれ独自の設定を行っており、マッチングの精度が上がれば広告の機会はむしろ増えるはずだと説明した。担当者は「Twitchのスタッフがフラグの立ったコンテンツを複数の段階で確認しており、これまでどおり、長期的な広告の適格性に関わる変更は人間が判断する」と述べ、広告主の設定が収益に影響する場合にクリエイターへ知らせる仕組みを構築中だと付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "Aftermathは、AIがどんな基準に従っているのか、責任の所在はどこにあるのかという疑問が残っていると論じている。"
+                "x": "通知が本物なら、ZeniMaxが著作物を守るために問題視したのは「fallout.nyc」というドメイン名のようだ。RPSはBethesdaにコメントを求めている。制作者は「僕が作らなくて済むように、代わりにFalloutのゲームを作ったらどう？」と返した。RPSは代わりに、人の手による大型MOD「Fallout: London」を薦めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Twitch用AI标记\n与品牌不符的直播",
-          "body": "Twitch会转录直播，并用AI标记可能与品牌不符的主播，从而影响广告投放。",
-          "mini_headline": "Twitch用AI筛选广告",
+          "headline": "制作者称ZeniMax\n向AI-made游戏发C&D",
+          "body": "Claude打造的Fallout: New York作者称收到ZeniMax勒令停止函。",
+          "mini_headline": "ZeniMax被指向AI Fallout游戏发C&D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
+                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Bethesda"
               },
               {
                 "t": "p",
-                "x": "Twitch CEO Dan Clancy在Snarketing Podcast上表示，由于网站本来就会转录直播内容，平台\"最近也开始用AI识别可能与品牌不匹配的主播\"，以便从不符合广告主考量的直播中撤下广告。"
+                "x": "一款名为Fallout: New York的AI-generated（AI生成）浏览器游戏的制作者声称，收到了Bethesda母公司ZeniMax发来的勒令停止通知。该游戏使用Anthropic的Claude Opus 5.5生成。"
               },
               {
                 "t": "p",
-                "x": "主播们对此并不买账。JP \"itmeJP\" McDaniel说：\"哦——原来广告收入是这么掉的。\"Vtuber LuminusRed则担心，自己是女同性恋可能会导致AI撤掉广告。还有人问，创作者究竟能否得知自己因何被标记。"
+                "x": "其制作者在Twitter上名为CHRIS FIRST，自称“AI Creative”，夸耀游戏拥有任务、同伴、对话树、V.A.T.S.和Pip-Boy，并且因为一切都由代码生成，做到了“零纹理文件”和“零音效文件”。Rock Paper Shotgun称NPC的脸极其丑陋。这位提示词作者写道：“全部免费，我一分钱都不赚。”"
               },
               {
                 "t": "p",
-                "x": "在后续更新中，一位Twitch代表告诉Aftermath，每个广告主都会设定自己的偏好，而更好的匹配应会带来更多广告机会。这位代表说：\"Twitch员工会在多个环节审核被标记的内容，并且一如既往，任何涉及长期广告资格的变更都将由人来决定。\"他还补充说，Twitch正在开发相关功能，在广告主偏好影响创作者收入时告知他们。"
-              },
-              {
-                "t": "p",
-                "x": "Aftermath认为，AI遵循什么标准、责任由谁承担，这些问题仍未得到解答。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Twitch usa IA para señalar\nstreams no aptos para marcas",
-          "body": "Twitch usa IA para señalar a creadores que quizá no encajen con una marca, lo que afecta a quién recibe anuncios.",
-          "mini_headline": "La IA de Twitch filtra anuncios",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En el Snarketing Podcast, el CEO de Twitch, Dan Clancy, dijo que, como el sitio ya transcribe los streams, \"últimamente también ha estado usando IA para identificar a streamers que quizá no encajen con una marca\", de modo que se puedan retirar anuncios de las emisiones que no se ajusten a las consideraciones de un anunciante."
-              },
-              {
-                "t": "p",
-                "x": "Los streamers no están entusiasmados. \"Ahhh, así que por eso bajaron los ingresos por anuncios\", dijo JP \"itmeJP\" McDaniel, mientras que la Vtuber LuminusRed temía que ser lesbiana pudiera hacer que la IA le retirara los anuncios. Otros preguntaron si los creadores llegarán a saber alguna vez por qué fueron señalados."
-              },
-              {
-                "t": "p",
-                "x": "En una actualización, un representante de Twitch dijo a Aftermath que cada anunciante fija sus propias preferencias y que un mejor emparejamiento debería abrir más oportunidades publicitarias. \"El personal de Twitch revisa el contenido señalado en varias etapas y, como siempre, cualquier cambio en la elegibilidad publicitaria a largo plazo sería una decisión humana\", afirmó el representante, y añadió que Twitch está creando formas de avisar a los creadores cuando las preferencias de los anunciantes afectan a sus ingresos."
-              },
-              {
-                "t": "p",
-                "x": "Aftermath sostiene que siguen abiertas las preguntas sobre qué criterios sigue la IA y dónde recae la responsabilidad."
+                "x": "如果通知属实，ZeniMax为保护版权素材而揪住的似乎是“fallout.nyc”这个域名；RPS已向Bethesda寻求置评。制作者回应：“不如你们来做一款Fallout游戏，这样我就不用做了？”RPS则推荐由人类制作的大型模组Fallout: London。"
               }
             ]
           }
@@ -1351,309 +1301,141 @@
       }
     },
     {
-      "id": "sinametahuman",
+      "id": "ue5-codex-gpt6-npc-tutorial",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sina, 로컬 AI를\nMetaHuman에 심다",
-      "body": "UE5 플러그인으로 로컬 AI MetaHuman이 말하고 걷고 장비를 다룬다.",
-      "mini_headline": "로컬 AI MetaHuman",
+      "headline": "UE5로 말하는\nAI NPCs 만들기",
+      "body": "Codex와 Unreal MCP, OpenAI API로 UE5 NPCs를 만든다.",
+      "mini_headline": "UE5의 말하는 AI NPCs",
       "tool": "Games",
       "source": "Epic Developer Community",
-      "url": "https://forums.unrealengine.com/t/sina-a-100-local-ai-digital-human-that-walks-the-level-and-operates-real-blueprint-equipment-metahuman-nvidia-ardy/2835494",
-      "accent": "#ff5a4d",
+      "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
+      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "어떤 UE5 프로젝트든 로컬 AI \"두뇌\"와 연결해 주는 플러그인을 만들고 있다. 클라우드 AI 없이도 MetaHuman이 레벨 안에서 말하고 움직인다."
-          },
-          {
-            "t": "video",
-            "yt": "ho8m2GuVW3k"
-          },
-          {
-            "t": "p",
-            "x": "이 데모에서 캐릭터는 안전 교육 강사 역할을 맡는다. 전기 모터로 걸어가 조작부를 설명하고, 직접 버튼을 눌러 모터를 실제로 켜고 끈다."
-          },
-          {
-            "t": "p",
-            "x": "몸동작은 NVIDIA의 ARDY(text-to-motion)가 실시간으로 만들어 MetaHuman에 리타깃한다. 애니메이션 에셋은 쓰지 않는다. 걷기는 생성된 루트 모션을 NavMesh를 따라 적용하므로 발이 미끄러지지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "캐릭터는 레벨에 들어 있는 Blueprint 함수(StartMotor, StopMotor…)를 호출해 레벨을 조작한다. 플러그인이 이 함수들을 자동으로 찾아내고, Blueprint의 변수(IsRunning, EmergencyLatched)와 Print String 메시지를 읽는다. 그래서 기계가 작동을 거부하면(예: \"press RESET first\") 캐릭터도 이를 알아챈다."
-          },
-          {
             "t": "img",
-            "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
+            "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
           },
           {
             "t": "p",
-            "x": "스트림 화면의 아무 곳이나 탭해 \"이게 뭐야?\"라고 묻거나 \"저기로 가\"라고 말할 수 있다(시점 기준 라인 트레이스). 음소 타이밍에 맞춘 립싱크, 얼굴 표정, 카메라를 따라가는 인물 조명 리그, 피사계 심도를 적용한 얼굴 클로즈업도 갖췄다. 휴대폰으로 Pixel Streaming을 지원하고 JavaScript API(예: setExpression(\"uncertain\", 0.4))도 제공한다."
+            "x": "Codex와 GPT-6 Astra로 Unreal Engine 5에서 대화형 AI NPCs를 만드는 커뮤니티 튜토리얼이다."
           },
           {
             "t": "p",
-            "x": "AI 쪽은 같은 머신(RTX GPU 한 장)에서 돌아간다. 로컬 음성 인식, 로컬 LLM, 뉴럴 TTS, 그리고 회사 자체 문서로 만든 지식 그래프로 이뤄진다."
-          },
-          {
-            "t": "img",
-            "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
-          },
-          {
-            "t": "p",
-            "x": "모션과 립싱크 쪽 피드백을 특히 환영한다!"
+            "x": "Codex, Unreal MCP, UnrealAI, OpenAI API로 애니메이션 NPCs와 AI-generated 대사, 대화 기록을 구현하는 step-by-step 가이드다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sina puts a local AI brain\ninside a MetaHuman",
-          "body": "A UE5 plugin gives a MetaHuman a local AI brain so it can talk, walk the level and operate Blueprint equipment.",
-          "mini_headline": "Local AI\nMetaHuman",
+          "headline": "Building talking AI NPCs\nin Unreal Engine 5",
+          "body": "A guide wires Codex, Unreal MCP, UnrealAI, and the OpenAI API into animated UE5 NPCs with AI-generated dialogue.",
+          "mini_headline": "Talking AI NPCs\nin UE5",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "I've been building a plugin that links any UE5 project to a local AI \"brain\", so a MetaHuman can talk and act inside the level, with no cloud AI."
-              },
-              {
-                "t": "video",
-                "yt": "ho8m2GuVW3k"
-              },
-              {
-                "t": "p",
-                "x": "In this demo she's a safety trainer: she walks to an electric motor, explains its controls, and presses the buttons herself, so the motor really starts and stops."
-              },
-              {
-                "t": "p",
-                "x": "Body motion is generated live by NVIDIA's ARDY (text-to-motion) and retargeted onto the MetaHuman, with no animation assets. Walking uses the generated root motion along the NavMesh, so the feet don't slide."
-              },
-              {
-                "t": "p",
-                "x": "She operates the level by calling its own Blueprint functions (StartMotor, StopMotor…). The plugin discovers them automatically and reads the Blueprint's variables (IsRunning, EmergencyLatched) and its Print String messages, so she knows when a machine refuses (e.g. \"press RESET first\")."
-              },
-              {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
               },
               {
                 "t": "p",
-                "x": "Tap anything on the stream to ask \"what is this?\" or \"go there\" (line trace from the view). Phoneme-timed lip sync, facial expressions, a portrait light rig that follows the camera, and a face close-up with depth of field. Pixel Streaming to phones, plus a JavaScript API (e.g. setExpression(\"uncertain\", 0.4))."
+                "x": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra."
               },
               {
                 "t": "p",
-                "x": "The AI side runs on the same machine (one RTX GPU): local speech recognition, a local LLM, neural TTS, and a knowledge graph built from the company's own documents."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
-              },
-              {
-                "t": "p",
-                "x": "Feedback is very welcome, especially on the motion and the lip sync!"
+                "x": "A step-by-step guide to animated NPCs, AI-generated dialogue, and conversation history with Codex, Unreal MCP, UnrealAI, and the OpenAI API."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sina, 로컬 AI를\nMetaHuman에 심다",
-          "body": "UE5 플러그인으로 로컬 AI MetaHuman이 말하고 걷고 장비를 다룬다.",
-          "mini_headline": "로컬 AI MetaHuman",
+          "headline": "UE5로 말하는\nAI NPCs 만들기",
+          "body": "Codex와 Unreal MCP, OpenAI API로 UE5 NPCs를 만든다.",
+          "mini_headline": "UE5의 말하는 AI NPCs",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "어떤 UE5 프로젝트든 로컬 AI \"두뇌\"와 연결해 주는 플러그인을 만들고 있다. 클라우드 AI 없이도 MetaHuman이 레벨 안에서 말하고 움직인다."
-              },
-              {
-                "t": "video",
-                "yt": "ho8m2GuVW3k"
-              },
-              {
-                "t": "p",
-                "x": "이 데모에서 캐릭터는 안전 교육 강사 역할을 맡는다. 전기 모터로 걸어가 조작부를 설명하고, 직접 버튼을 눌러 모터를 실제로 켜고 끈다."
-              },
-              {
-                "t": "p",
-                "x": "몸동작은 NVIDIA의 ARDY(text-to-motion)가 실시간으로 만들어 MetaHuman에 리타깃한다. 애니메이션 에셋은 쓰지 않는다. 걷기는 생성된 루트 모션을 NavMesh를 따라 적용하므로 발이 미끄러지지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "캐릭터는 레벨에 들어 있는 Blueprint 함수(StartMotor, StopMotor…)를 호출해 레벨을 조작한다. 플러그인이 이 함수들을 자동으로 찾아내고, Blueprint의 변수(IsRunning, EmergencyLatched)와 Print String 메시지를 읽는다. 그래서 기계가 작동을 거부하면(예: \"press RESET first\") 캐릭터도 이를 알아챈다."
-              },
-              {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
               },
               {
                 "t": "p",
-                "x": "스트림 화면의 아무 곳이나 탭해 \"이게 뭐야?\"라고 묻거나 \"저기로 가\"라고 말할 수 있다(시점 기준 라인 트레이스). 음소 타이밍에 맞춘 립싱크, 얼굴 표정, 카메라를 따라가는 인물 조명 리그, 피사계 심도를 적용한 얼굴 클로즈업도 갖췄다. 휴대폰으로 Pixel Streaming을 지원하고 JavaScript API(예: setExpression(\"uncertain\", 0.4))도 제공한다."
+                "x": "Codex와 GPT-6 Astra로 Unreal Engine 5에서 대화형 AI NPCs를 만드는 커뮤니티 튜토리얼이다."
               },
               {
                 "t": "p",
-                "x": "AI 쪽은 같은 머신(RTX GPU 한 장)에서 돌아간다. 로컬 음성 인식, 로컬 LLM, 뉴럴 TTS, 그리고 회사 자체 문서로 만든 지식 그래프로 이뤄진다."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
-              },
-              {
-                "t": "p",
-                "x": "모션과 립싱크 쪽 피드백을 특히 환영한다!"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "SinaがローカルAIを\nMetaHumanに搭載",
-          "body": "UE5プラグインでMetaHumanがローカルAIを得て、話し、歩き、機器を操作する。",
-          "mini_headline": "ローカルAIのMetaHuman",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "あらゆるUE5プロジェクトをローカルAIの「頭脳」につなぐプラグインを開発している。これによりクラウドAIなしで、MetaHumanがレベル内で話し、行動できる。"
-              },
-              {
-                "t": "video",
-                "yt": "ho8m2GuVW3k"
-              },
-              {
-                "t": "p",
-                "x": "このデモでは、彼女は安全講習のトレーナーだ。電動モーターまで歩いて行って操作系を説明し、自らボタンを押すので、モーターは実際に起動・停止する。"
-              },
-              {
-                "t": "p",
-                "x": "体の動きはNVIDIAのARDY(text-to-motion)がリアルタイムで生成し、MetaHumanにリターゲットしている。アニメーションアセットは使っていない。歩行は生成したルートモーションをNavMeshに沿って使うため、足が滑らない。"
-              },
-              {
-                "t": "p",
-                "x": "彼女はレベル自身のBlueprint関数(StartMotor、StopMotor…)を呼び出してレベルを操作する。プラグインはそれらを自動で検出し、Blueprintの変数(IsRunning、EmergencyLatched)やPrint Stringのメッセージを読み取るので、機械が動作を拒んだとき(例:「press RESET first」)も彼女はそれを把握できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "ストリーム上の何かをタップすれば、「これは何?」と尋ねたり「あそこへ行って」と頼んだりできる(視点からのライントレース)。音素タイミングに合わせたリップシンク、表情、カメラに追従するポートレート用ライトリグ、被写界深度をかけた顔のクローズアップも備える。スマートフォンへのPixel Streamingに加え、JavaScript API(例:setExpression(\"uncertain\", 0.4))もある。"
-              },
-              {
-                "t": "p",
-                "x": "AI側は同じマシン(RTX GPU 1基)で動作する。ローカル音声認識、ローカルLLM、ニューラルTTS、そして企業独自の文書から構築したナレッジグラフだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
-              },
-              {
-                "t": "p",
-                "x": "フィードバックは大歓迎だ。特にモーションとリップシンクについて聞かせてほしい!"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sina把本地AI大脑\n装进MetaHuman",
-          "body": "一款UE5插件为MetaHuman装上本地AI大脑，使其能对话、在关卡中行走并操作设备。",
-          "mini_headline": "本地AI MetaHuman",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "我一直在开发一款插件，可将任意UE5项目连接到本地AI\"大脑\"，让MetaHuman无需云端AI就能在关卡中说话和行动。"
-              },
-              {
-                "t": "video",
-                "yt": "ho8m2GuVW3k"
-              },
-              {
-                "t": "p",
-                "x": "在这个演示中，她是一名安全培训师：她走到一台电动机前，讲解它的控制装置，并亲自按下按钮，让电机真正启动和停止。"
-              },
-              {
-                "t": "p",
-                "x": "身体动作由NVIDIA的ARDY（text-to-motion）实时生成，并重定向到MetaHuman上，不使用任何动画资产。行走时沿NavMesh使用生成的根运动，因此脚步不会打滑。"
-              },
-              {
-                "t": "p",
-                "x": "她通过调用关卡自身的Blueprint函数（StartMotor、StopMotor…）来操作关卡。插件会自动发现这些函数，并读取Blueprint的变量（IsRunning、EmergencyLatched）及其Print String消息，因此当机器拒绝执行时（例如\"press RESET first\"），她能知道。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "点击画面中的任何东西，就可以问\"这是什么？\"或说\"去那里\"（从视角发出线迹检测）。另有按音素计时的口型同步、面部表情、跟随摄像机的人像灯光组，以及带景深的面部特写。支持向手机进行Pixel Streaming，并提供JavaScript API（例如setExpression(\"uncertain\", 0.4)）。"
-              },
-              {
-                "t": "p",
-                "x": "AI部分运行在同一台机器上（一块RTX GPU）：本地语音识别、本地LLM、神经TTS，以及基于公司自有文档构建的知识图谱。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
-              },
-              {
-                "t": "p",
-                "x": "非常欢迎反馈，尤其是关于动作和口型同步的！"
+                "x": "Codex, Unreal MCP, UnrealAI, OpenAI API로 애니메이션 NPCs와 AI-generated 대사, 대화 기록을 구현하는 step-by-step 가이드다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Sina pone un cerebro de IA local\ndentro de un MetaHuman",
-          "body": "Un plugin de UE5 da a un MetaHuman un cerebro de IA local para hablar, recorrer el nivel y operar equipos Blueprint.",
-          "mini_headline": "MetaHuman con IA local",
+          "headline": "Crear NPCs con IA que hablan\nen Unreal Engine 5",
+          "body": "Una guía une Codex, Unreal MCP, UnrealAI y la OpenAI API para crear NPCs animados en UE5 con diálogos AI-generated.",
+          "mini_headline": "NPCs de IA que hablan en UE5",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "He estado creando un plugin que conecta cualquier proyecto de UE5 con un \"cerebro\" de IA local, para que un MetaHuman pueda hablar y actuar dentro del nivel, sin IA en la nube."
-              },
-              {
-                "t": "video",
-                "yt": "ho8m2GuVW3k"
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
               },
               {
                 "t": "p",
-                "x": "En esta demo ella es instructora de seguridad: camina hasta un motor eléctrico, explica sus controles y pulsa los botones ella misma, de modo que el motor realmente arranca y se detiene."
+                "x": "Tutorial de la comunidad: cómo crear NPCs conversacionales con IA en Unreal Engine 5 con Codex y GPT-6 Astra."
               },
               {
                 "t": "p",
-                "x": "El movimiento corporal lo genera en directo ARDY (text-to-motion) de NVIDIA y se retargetea al MetaHuman, sin recursos de animación. Al caminar se usa el root motion generado a lo largo del NavMesh, así que los pies no se deslizan."
-              },
-              {
-                "t": "p",
-                "x": "Ella maneja el nivel llamando a sus propias funciones de Blueprint (StartMotor, StopMotor…). El plugin las descubre automáticamente y lee las variables del Blueprint (IsRunning, EmergencyLatched) y sus mensajes de Print String, así que sabe cuándo una máquina se niega (p. ej., \"press RESET first\")."
-              },
+                "x": "Una guía step-by-step para crear NPCs animados, diálogos AI-generated e historial de conversación con Codex, Unreal MCP, UnrealAI y la OpenAI API."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "UE5で話す\nAI NPCsを作る",
+          "body": "Codexなどで、AI-generated会話を話すUE5 NPCsを作る手引きだ。",
+          "mini_headline": "UE5で話すAI NPCs",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
               },
               {
                 "t": "p",
-                "x": "Toca cualquier cosa en el stream para preguntar \"¿qué es esto?\" o decir \"ve allí\" (line trace desde la vista). Lip sync sincronizado por fonemas, expresiones faciales, un rig de luces de retrato que sigue a la cámara y un primer plano del rostro con profundidad de campo. Pixel Streaming a teléfonos, además de una API de JavaScript (p. ej., setExpression(\"uncertain\", 0.4))."
+                "x": "コミュニティチュートリアル: CodexとGPT-6 Astraを使い、Unreal Engine 5で会話型AI NPCs（NPC）を作る。"
               },
               {
                 "t": "p",
-                "x": "La parte de IA se ejecuta en la misma máquina (una GPU RTX): reconocimiento de voz local, un LLM local, TTS neuronal y un grafo de conocimiento construido a partir de los propios documentos de la empresa."
-              },
+                "x": "Codex、Unreal MCP、UnrealAI、OpenAI APIを使って、アニメーション付きのNPCs、AI-generated（AI生成）の会話、会話履歴を実装する手順ガイドだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用UE5打造\n会说话的AI NPCs",
+          "body": "指南用Codex等工具，在UE5中打造带AI-generated对话的动画NPCs。",
+          "mini_headline": "UE5中会说话的AI NPCs",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
               },
               {
                 "t": "p",
-                "x": "Cualquier comentario es muy bienvenido, ¡sobre todo sobre el movimiento y el lip sync!"
+                "x": "社区教程：借助Codex与GPT-6 Astra，在Unreal Engine 5中构建可对话的AI NPCs。"
+              },
+              {
+                "t": "p",
+                "x": "分步讲解如何用Codex、Unreal MCP、UnrealAI和OpenAI API实现带动画的NPCs、AI-generated（AI生成）对话以及对话历史。"
               }
             ]
           }
@@ -1661,201 +1443,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sina, 로컬 AI를\nMetaHuman에 심다",
-          "body": "UE5 플러그인으로 로컬 AI MetaHuman이 말하고 걷고 장비를 다룬다.",
-          "mini_headline": "로컬 AI MetaHuman",
+          "headline": "UE5로 말하는\nAI NPCs 만들기",
+          "body": "Codex와 Unreal MCP, OpenAI API로 UE5 NPCs를 만든다.",
+          "mini_headline": "UE5의 말하는 AI NPCs",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "어떤 UE5 프로젝트든 로컬 AI \"두뇌\"와 연결해 주는 플러그인을 만들고 있다. 클라우드 AI 없이도 MetaHuman이 레벨 안에서 말하고 움직일 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "ho8m2GuVW3k"
-              },
-              {
-                "t": "p",
-                "x": "이 데모에서 그녀는 안전 교육 강사다. 전기 모터로 걸어가 조작부를 설명하고, 직접 버튼을 눌러 모터를 실제로 켜고 끈다."
-              },
-              {
-                "t": "p",
-                "x": "몸동작은 NVIDIA의 ARDY(text-to-motion)가 실시간으로 생성해 MetaHuman에 리타깃하며, 애니메이션 에셋은 쓰지 않는다. 걷기는 생성된 루트 모션을 NavMesh를 따라 적용하므로 발이 미끄러지지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "그녀는 레벨 자체의 Blueprint 함수(StartMotor, StopMotor…)를 호출해 레벨을 조작한다. 플러그인이 이 함수들을 자동으로 찾아내고, Blueprint의 변수(IsRunning, EmergencyLatched)와 Print String 메시지를 읽기 때문에, 기계가 작동을 거부하면(예: \"press RESET first\") 그녀도 이를 알아챈다."
-              },
-              {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
               },
               {
                 "t": "p",
-                "x": "스트림 화면의 아무 곳이나 탭해 \"이게 뭐야?\"라고 묻거나 \"저기로 가\"라고 말할 수 있다(시점 기준 라인 트레이스). 음소 타이밍에 맞춘 립싱크, 얼굴 표정, 카메라를 따라가는 인물 조명 리그, 피사계 심도를 적용한 얼굴 클로즈업도 갖췄다. 휴대폰으로 Pixel Streaming을 지원하고 JavaScript API(예: setExpression(\"uncertain\", 0.4))도 제공한다."
+                "x": "커뮤니티 튜토리얼: Codex와 GPT-6 Astra로 Unreal Engine 5에서 대화형 AI NPCs 만들기."
               },
               {
                 "t": "p",
-                "x": "AI 쪽은 같은 머신(RTX GPU 한 장)에서 돌아간다. 로컬 음성 인식, 로컬 LLM, 뉴럴 TTS, 그리고 회사 자체 문서로 구축한 지식 그래프로 구성된다."
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
-              },
-              {
-                "t": "p",
-                "x": "특히 모션과 립싱크에 대한 피드백을 환영한다!"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "SinaがローカルAIを\nMetaHumanに搭載",
-          "body": "UE5プラグインでMetaHumanがローカルAIを得て、話し、歩き、機器を操作する。",
-          "mini_headline": "ローカルAIのMetaHuman",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "あらゆるUE5プロジェクトをローカルAIの「頭脳」につなぐプラグインを開発している。これによりクラウドAIなしで、MetaHumanがレベル内で話し、行動できる。"
-              },
-              {
-                "t": "video",
-                "yt": "ho8m2GuVW3k"
-              },
-              {
-                "t": "p",
-                "x": "このデモでは、彼女は安全講習のトレーナーだ。電動モーターまで歩いて行って操作系を説明し、自らボタンを押すので、モーターは実際に起動・停止する。"
-              },
-              {
-                "t": "p",
-                "x": "体の動きはNVIDIAのARDY(text-to-motion)がリアルタイムで生成し、MetaHumanにリターゲットしている。アニメーションアセットは使っていない。歩行は生成したルートモーションをNavMeshに沿って使うため、足が滑らない。"
-              },
-              {
-                "t": "p",
-                "x": "彼女はレベル自身のBlueprint関数(StartMotor、StopMotor…)を呼び出してレベルを操作する。プラグインはそれらを自動で検出し、Blueprintの変数(IsRunning、EmergencyLatched)やPrint Stringのメッセージを読み取るので、機械が動作を拒んだとき(例:「press RESET first」)も彼女はそれを把握できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "ストリーム上の何かをタップすれば、「これは何?」と尋ねたり「あそこへ行って」と頼んだりできる(視点からのライントレース)。音素タイミングに合わせたリップシンク、表情、カメラに追従するポートレート用ライトリグ、被写界深度をかけた顔のクローズアップも備える。スマートフォンへのPixel Streamingに加え、JavaScript API(例:setExpression(\"uncertain\", 0.4))もある。"
-              },
-              {
-                "t": "p",
-                "x": "AI側は同じマシン(RTX GPU 1基)で動作する。ローカル音声認識、ローカルLLM、ニューラルTTS、そして企業独自の文書から構築したナレッジグラフだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
-              },
-              {
-                "t": "p",
-                "x": "フィードバックは大歓迎だ。特にモーションとリップシンクについて聞かせてほしい!"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sina把本地AI大脑\n装进MetaHuman",
-          "body": "一款UE5插件为MetaHuman装上本地AI大脑，使其能对话、在关卡中行走并操作设备。",
-          "mini_headline": "本地AI MetaHuman",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "我一直在开发一款插件，可将任意UE5项目连接到本地AI\"大脑\"，让MetaHuman无需云端AI就能在关卡中说话和行动。"
-              },
-              {
-                "t": "video",
-                "yt": "ho8m2GuVW3k"
-              },
-              {
-                "t": "p",
-                "x": "在这个演示中，她是一名安全培训师：她走到一台电动机前，讲解它的控制装置，并亲自按下按钮，让电机真正启动和停止。"
-              },
-              {
-                "t": "p",
-                "x": "身体动作由NVIDIA的ARDY（text-to-motion）实时生成，并重定向到MetaHuman上，不使用任何动画资产。行走时沿NavMesh使用生成的根运动，因此脚步不会打滑。"
-              },
-              {
-                "t": "p",
-                "x": "她通过调用关卡自身的Blueprint函数（StartMotor、StopMotor…）来操作关卡。插件会自动发现这些函数，并读取Blueprint的变量（IsRunning、EmergencyLatched）及其Print String消息，因此当机器拒绝执行时（例如\"press RESET first\"），她能知道。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "点击画面中的任何东西，就可以问\"这是什么？\"或说\"去那里\"（从视角发出线迹检测）。另有按音素计时的口型同步、面部表情、跟随摄像机的人像灯光组，以及带景深的面部特写。支持向手机进行Pixel Streaming，并提供JavaScript API（例如setExpression(\"uncertain\", 0.4)）。"
-              },
-              {
-                "t": "p",
-                "x": "AI部分运行在同一台机器上（一块RTX GPU）：本地语音识别、本地LLM、神经TTS，以及基于公司自有文档构建的知识图谱。"
-              },
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
-              },
-              {
-                "t": "p",
-                "x": "非常欢迎反馈，尤其是关于动作和口型同步的！"
+                "x": "Codex, Unreal MCP, UnrealAI, OpenAI API로 애니메이션 NPCs, AI-generated 대사, 대화 기록을 구현하는 step-by-step 가이드다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Sina pone un cerebro de IA local\ndentro de un MetaHuman",
-          "body": "Un plugin de UE5 da a un MetaHuman un cerebro de IA local para hablar, recorrer el nivel y operar equipos Blueprint.",
-          "mini_headline": "MetaHuman con IA local",
+          "headline": "Crear NPCs con IA que hablan\nen Unreal Engine 5",
+          "body": "Una guía une Codex, Unreal MCP, UnrealAI y la OpenAI API para crear NPCs animados en UE5 con diálogos AI-generated.",
+          "mini_headline": "NPCs de IA que hablan en UE5",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "He estado creando un plugin que conecta cualquier proyecto de UE5 con un \"cerebro\" de IA local, para que un MetaHuman pueda hablar y actuar dentro del nivel, sin IA en la nube."
-              },
-              {
-                "t": "video",
-                "yt": "ho8m2GuVW3k"
+                "t": "img",
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
               },
               {
                 "t": "p",
-                "x": "En esta demo ella es instructora de seguridad: camina hasta un motor eléctrico, explica sus controles y pulsa los botones ella misma, de modo que el motor realmente arranca y se detiene."
+                "x": "Tutorial de la comunidad: cómo crear NPCs conversacionales con IA en Unreal Engine 5 con Codex y GPT-6 Astra."
               },
               {
                 "t": "p",
-                "x": "El movimiento corporal lo genera en directo ARDY (text-to-motion) de NVIDIA y se retargetea al MetaHuman, sin recursos de animación. Al caminar se usa el root motion generado a lo largo del NavMesh, así que los pies no se deslizan."
-              },
-              {
-                "t": "p",
-                "x": "Ella maneja el nivel llamando a sus propias funciones de Blueprint (StartMotor, StopMotor…). El plugin las descubre automáticamente y lee las variables del Blueprint (IsRunning, EmergencyLatched) y sus mensajes de Print String, así que sabe cuándo una máquina se niega (p. ej., \"press RESET first\")."
-              },
+                "x": "Una guía step-by-step para crear NPCs animados, diálogos AI-generated e historial de conversación con Codex, Unreal MCP, UnrealAI y la OpenAI API."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "UE5で話す\nAI NPCsを作る",
+          "body": "Codexなどで、AI-generated会話を話すUE5 NPCsを作る手引きだ。",
+          "mini_headline": "UE5で話すAI NPCs",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg"
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
               },
               {
                 "t": "p",
-                "x": "Toca cualquier cosa en el stream para preguntar \"¿qué es esto?\" o decir \"ve allí\" (line trace desde la vista). Lip sync sincronizado por fonemas, expresiones faciales, un rig de luces de retrato que sigue a la cámara y un primer plano del rostro con profundidad de campo. Pixel Streaming a teléfonos, además de una API de JavaScript (p. ej., setExpression(\"uncertain\", 0.4))."
+                "x": "コミュニティチュートリアル: CodexとGPT-6 Astraを使い、Unreal Engine 5で会話型AI NPCs（NPC）を作る。"
               },
               {
                 "t": "p",
-                "x": "La parte de IA se ejecuta en la misma máquina (una GPU RTX): reconocimiento de voz local, un LLM local, TTS neuronal y un grafo de conocimiento construido a partir de los propios documentos de la empresa."
-              },
+                "x": "Codex、Unreal MCP、UnrealAI、OpenAI APIを使って、アニメーション付きのNPCs、AI-generated（AI生成）の会話、会話履歴を実装する手順ガイドだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用UE5打造\n会说话的AI NPCs",
+          "body": "指南用Codex等工具，在UE5中打造带AI-generated对话的动画NPCs。",
+          "mini_headline": "UE5中会说话的AI NPCs",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/6/6/1/661358b869eb85c5c8a6c82547baffb313873b28_2_690x328.png"
+                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
               },
               {
                 "t": "p",
-                "x": "Cualquier comentario es muy bienvenido, ¡sobre todo sobre el movimiento y el lip sync!"
+                "x": "社区教程：借助Codex与GPT-6 Astra，在Unreal Engine 5中构建可对话的AI NPCs。"
+              },
+              {
+                "t": "p",
+                "x": "分步讲解如何用Codex、Unreal MCP、UnrealAI和OpenAI API实现带动画的NPCs、AI-generated（AI生成）对话以及对话历史。"
               }
             ]
           }

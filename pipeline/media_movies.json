@@ -1,7 +1,33 @@
-{"date":"2026-10-02","section":"movies","media":[
-{"id":"continuum","type":"video","src":"pipeline/media/continuum.mp4","poster":"pipeline/media/continuum.jpg"},
-{"id":"affleck","type":"image","src":"pipeline/media/affleck.jpg"},
-{"id":"jadu","type":"image","src":"pipeline/media/jadu.jpg"},
-{"id":"variety-animators-ai","type":"image","src":"pipeline/media/variety-animators-ai.jpg"},
-{"id":"massive","type":"image","src":"pipeline/media/massive.jpg"}
-]}
+{
+  "date": "2026-10-03",
+  "section": "movies",
+  "media": [
+    {
+      "id": "tripo-smartmesh-previs",
+      "type": "image",
+      "src": "pipeline/media/tripo-smartmesh-previs.jpg"
+    },
+    {
+      "id": "curious-refuge-ai-depth-map",
+      "type": "video",
+      "src": "pipeline/media/curious-refuge-ai-depth-map.mp4",
+      "poster": "pipeline/media/curious-refuge-ai-depth-map.jpg"
+    },
+    {
+      "id": "bbc-brittin-ai-doctor-who",
+      "type": "image",
+      "src": "pipeline/media/bbc-brittin-ai-doctor-who.jpg"
+    },
+    {
+      "id": "curious-refuge-ai-sound-design",
+      "type": "video",
+      "src": "pipeline/media/curious-refuge-ai-sound-design.mp4",
+      "poster": "pipeline/media/curious-refuge-ai-sound-design.jpg"
+    },
+    {
+      "id": "lightbox-expo-genai-ban",
+      "type": "image",
+      "src": "pipeline/media/lightbox-expo-genai-ban.jpg"
+    }
+  ]
+}

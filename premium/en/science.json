@@ -959,19 +959,19 @@
         },
         {
           "t": "p",
-          "x": "UCLA 연구진이 빛으로 딥페이크 영상 식별을 돕는 광학-신경 프로세서를 개발했다. 기존 시스템은 디지털 하드웨어에서 영상을 하나씩 차례로 검사한다. 이 프로세서는 탐지 과정의 일부를 빛의 물리적 전파가 맡아서 15개 이상의 영상 스트림을 한꺼번에 분석한다. 연구 결과는 eLight에 실렸다."
+          "x": "Researchers at UCLA have built an optical-neural processor that uses light to help identify deepfake videos. Unlike conventional systems that examine videos one after another on digital hardware, it can analyze 15 or more video streams at the same time, because part of the detection happens through the physical propagation of light. The study was published in eLight."
         },
         {
           "t": "p",
-          "x": "경량 디지털 인코더가 각 영상에서 공간·스펙트럼·시간 특징을 뽑아 공간 광변조기에 위상 패턴으로 표시하면 수동형 광학 디코더가 영상마다 진위 점수를 매긴다."
+          "x": "A lightweight digital encoder extracts spatial, spectral and temporal features from each video and displays them as a phase pattern on a spatial light modulator; a passive optical decoder then produces an authenticity score for each video."
         },
         {
           "t": "p",
-          "x": "광학 처리 한 번에 Celeb-DF 영상 15개를 검사하자 평균 정확도 97.79%, 민감도 99.86%가 나왔다. 영상 18개에서는 96.13%였다. 미세 조정을 최소한으로만 거치고도 처음 보는 Google VEO-3 영상에서 정확도 94.80%를 냈고, 블랙박스 적대적 공격에도 버텼다."
+          "x": "Screening 15 Celeb-DF videos per optical pass, the system reached 97.79% average accuracy and 99.86% sensitivity, and 96.13% at 18 videos. With minimal fine-tuning it hit 94.80% accuracy on unseen Google VEO-3 videos, and it resisted black-box adversarial attacks."
         },
         {
           "t": "p",
-          "x": "Aydogan Ozcan 교수 연구팀은 이 시스템을 처리량 높은 1차 방어선으로 본다. 의심스러운 콘텐츠는 더 정교한 디지털 모델로 넘겨 최종 판정을 맡긴다."
+          "x": "Professor Aydogan Ozcan's team sees it as a high-throughput first line of defense, passing suspicious content on to more demanding digital models for a final assessment."
         }
       ]
     },
@@ -6157,6 +6157,114 @@
         {
           "t": "p",
           "x": "The researchers did not run a direct head-to-head comparison with human pathologists. “Whether it beats pathologists isn't the right question,” Huang said. “The question is whether pathologists catch more and work faster when they use it alongside their own judgment.” The next experiment is designed to measure that difference."
+        }
+      ]
+    },
+    "science/napoleon-cipher-gpt6astra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "An engineer has used AI to break a previously unsolved cipher Napoleon Bonaparte used to send secret messages to his generals, letting a 217-year-old letter be read for the first time."
+        },
+        {
+          "t": "p",
+          "x": "Carter Church, an AI engineer at SentinelOne, said he gave OpenAI's GPT-6 Astra one prompt and one image; about six hours later the task was complete. The 1809 letter, sent at Napoleon's request by his stepson Eugène to Marshal Auguste de Marmont on the Adriatic coast, gave the positions of French and allied armies."
+        },
+        {
+          "t": "p",
+          "x": "Working from a low-resolution 1969 scan with 155 different signs, the model transcribed the text and, through its own web research, found a partial table by cryptology historian Daniel Tant covering 33 symbols, then used it to decode the rest."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+          "cap": "Auguste Frederic Louis Viesse de Marmont, the intended recipient of the coded message."
+        },
+        {
+          "t": "p",
+          "x": "\"It's a bit like a kind of Rosetta Stone,\" said King's College London historian Michael Rowe, noting the result matches Napoleon's original instructions, so it reveals little new. The result was confirmed by cryptographer Satoshi Tomokiyo, whose Cryptiana site now lists the letter as solved."
+        }
+      ]
+    },
+    "science/lmu-ai-consciousness-study": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Stories about AI deceiving users or pursuing its own goals invite us to talk about it as if it had a mind. But a new LMU study published in Cognition suggests people draw a surprisingly sharp line between intelligent behavior and consciousness."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+          "cap": "Hypotheses, experimental design and study overview. Credit: Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
+        },
+        {
+          "t": "p",
+          "x": "Led by Dr. Louis Longin, the team ran experiments with nearly 1,100 participants who read scenarios in which an AI or a human was more or less responsive to its surroundings, then rated how conscious or aware the protagonist was."
+        },
+        {
+          "t": "p",
+          "x": "More responsive agents were judged more conscious and aware. But even the most responsive AI was judged less conscious than the least responsive human, while ratings of awareness followed much the same pattern for AI and humans."
+        },
+        {
+          "t": "p",
+          "x": "\"People are quite willing to say that an AI notices things and is aware of its surroundings. But they clearly draw a line when it comes to the term 'consciousness,'\" says Longin. Senior author Bahador Bahrami says the findings show why the choice of language about AI matters."
+        }
+      ]
+    },
+    "science/antarctica-moss-geoai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new study led by the University of Wollongong, published in the ISPRS Journal of Photogrammetry and Remote Sensing, offers a new way to track life in one of the most remote environments on Earth."
+        },
+        {
+          "t": "p",
+          "x": "Combining ground surveys, drone imagery, satellite data and artificial intelligence, SAEF researchers built an end-to-end geospatial AI framework to create cross-scale, long-term maps of Antarctica's ecosystems, from patches of moss to vast icy landscapes."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+          "cap": "The landscape at Canada Glacier in the McMurdo Dry Valleys in Antarctica, where the field research was done. Credit: University of Wollongong"
+        },
+        {
+          "t": "p",
+          "x": "Antarctic mosses, lichens and cyanobacteria grow in small, fragmented patches. \"Our idea was to connect these different scales, using detailed field observations to inform drone-based mapping, and then using those drone-derived observations to support satellite-scale monitoring,\" said lead author Dr. Narmilan Amarasingam."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+          "cap": "Credit: University of Wollongong"
+        },
+        {
+          "t": "p",
+          "x": "The team developed and tested the framework over seven years at Canada Glacier. Tracking vegetation across years helps separate short-term variation from longer-term change. \"The aim is not to replace fieldwork,\" Amarasingam said."
+        }
+      ]
+    },
+    "science/speech-clock-voice-aging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new AI tool that analyzes hundreds of speech and language patterns estimates a person's age from the way they talk, and could hint at how they are aging and whether they're at risk of dementia, a study in Science Advances suggests."
+        },
+        {
+          "t": "p",
+          "x": "Researchers used recordings from more than 2,900 Spanish-speaking adults in five Latin American countries, extracting over 700 features such as pauses, speed, pitch and vocabulary to train a machine-learning model and compute a \"speech-age gap.\""
+        },
+        {
+          "t": "p",
+          "x": "People whose speech sounded older than their age were more likely to have cognitive problems, dementia and signs of accelerated biological aging on epigenetic clocks, and less favorable social and economic circumstances."
+        },
+        {
+          "t": "p",
+          "x": "Experts caution it is not a crystal ball. Speech can sound older because of depression or stress, the study mostly measured people at a single point in time, and the model has been tested only in Spanish. The team now plans to test other languages and follow people over time."
         }
       ]
     }

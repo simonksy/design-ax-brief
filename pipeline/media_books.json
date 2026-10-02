@@ -1,31 +1,30 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "books",
   "media": [
     {
-      "id": "audible-worlds",
+      "id": "savo-directive-detectives-ai-art",
       "type": "image",
-      "src": "pipeline/media/audible-worlds.png"
+      "src": "pipeline/media/savo-directive-detectives-ai-art.jpg"
     },
     {
-      "id": "idpa-finalists",
-      "type": "image",
-      "src": "pipeline/media/idpa-finalists.png"
+      "id": "openai-book-market-study-exclude",
+      "type": "svg"
     },
     {
-      "id": "opus-tells",
+      "id": "elevenlabs-spoken-audiobooks",
       "type": "image",
-      "src": "pipeline/media/opus-tells.jpg"
+      "src": "pipeline/media/elevenlabs-spoken-audiobooks.jpg"
     },
     {
-      "id": "ai-comic-dramas",
+      "id": "sudowrite-chat-rewrite-printing",
       "type": "image",
-      "src": "pipeline/media/ai-comic-dramas.jpg"
+      "src": "pipeline/media/sudowrite-chat-rewrite-printing.png"
     },
     {
-      "id": "ai-narration-trojan",
+      "id": "garmus-ai-hubris-essay",
       "type": "image",
-      "src": "pipeline/media/ai-narration-trojan.jpg"
+      "src": "pipeline/media/garmus-ai-hubris-essay.jpg"
     }
   ]
 }

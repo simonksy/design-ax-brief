@@ -5479,6 +5479,153 @@
           "x": "塔夫茨大学的Shaanan Cohney认为，清算的那一天正在逼近。“攻击者往往是早期采用者。要守住一座城堡，墙上不能有一个洞，哪怕一块松动的砖都不行。而攻城的人，只需要找到那一块松动的砖就够了。”目前休假、在OpenAI工作的MIT教授Aleksander Mądry说，应该帮助人们用上这类能力，但他也补充说，关键在于要让运营发电厂或金融市场的那一方，拿到比普通脚本小子更强的AI。"
         }
       ]
+    },
+    "gadgets/meta-muse-home-link": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+          "cap": "图片：The Verge、Getty Images、Meta"
+        },
+        {
+          "t": "p",
+          "x": "借助Meta开源的代码，现在你可以自己制作搭载该公司新AI智能体的Muse设备。Meta建议的项目包括：把Muse装进彩色E Ink显示屏来显示提醒；将其加入HDMI电视棒，在大屏幕上显示Muse；或者把Muse放进小型触屏设备，做出一个有点像DIY Muse Charm的东西。"
+        },
+        {
+          "t": "p",
+          "x": "Meta表示：“Muse设备是你自己动手打造的开源设备。用我们的SDKs为现成的ESP32开发板编程，或设置一台Raspberry Pi，然后把Muse连接到你的显示屏、按钮、传感器、执行器，以及工作台上任何闲置的东西。”不过Meta也提醒：“风险自负！”"
+        },
+        {
+          "t": "p",
+          "x": "该公司还在免费发放自己打造的Muse Home Link设备。Meta称，借助Muse Home Link，你可以利用社区开发的技能让AI智能体“根据你的设置，开灯、控制TV、把文件发送到打印机等等”。据Meta Superintelligence Labs的Nat Friedman透露，Meta生产了5,000台这款设备；在本月某个时候发货之前，你现在就可以申请Muse Home Link的候补名额。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Meta的Muse Home Link设备。"
+        }
+      ]
+    },
+    "gadgets/dgx-spark-64gb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+          "cap": "图片来源：Future"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia推出64GB版DGX Spark，面向不需要128GB RAM的本地AI用户，价格更加亲民。"
+        },
+        {
+          "t": "p",
+          "x": "AI领域发展迅速：像Qwen 3.8 27B 这样的稠密模型如今已能装进32GB RAM，而RAM价格飙升，使得与昂贵LPDDR5X永久绑定的芯片与其说是优势，不如说是门槛。"
+        },
+        {
+          "t": "p",
+          "x": "Acer、Asus、Dell、Gigabyte、HP和MSI的64GB GB10系统预计将于10月23日上市，起价$4999，不过内存价格可能让它们难以维持这一价位。128GB GB10系统即便能买到，售价也大约在$7000到$9000之间。"
+        },
+        {
+          "t": "p",
+          "x": "除此之外，64GB版Spark没有任何变化：同样配备用于集群的ConnectX 7 RDMA NIC、同样的20核Arm CPU，以及同样273 GB/s的共享内存带宽。"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia还新增了Sync Cluster Assistant，可自动将多台Spark连接在一起；另有Model Launcher，可在一台或多台系统上下载并启动模型，并将其接入OpenCode编程代理。128GB版Spark仍将继续供应，用于更大的模型和微调。"
+        }
+      ]
+    },
+    "gadgets/gemini-replaces-assistant-android": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "9月初，移动端Google Assistant的停用工作已经启动，现在看来正在大范围推开。"
+        },
+        {
+          "t": "p",
+          "x": "过去几周，Google一直在把Assistant用户迁移到Gemini。此次停用原定于2025年，后来推迟到2026年。8月初，Google公布了最终时间表。"
+        },
+        {
+          "t": "p",
+          "x": "从今天多位用户的反馈来看，此次迁移似乎已全面展开。在我们检查过的美国（US）和欧洲的所有设备和账户上，Google Assistant都已消失。"
+        },
+        {
+          "t": "p",
+          "x": "值得注意的是，Gemini应用已移除“Switch to Google Assistant”设置。在Google应用17.60稳定版和17.62测试版中，这个快捷方式不再出现在账户菜单底部。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "因此，你已无法再“在手机、平板电脑或配对设备上使用或切换回Google Assistant”。配对设备包括Wear OS、耳机和Android Auto。"
+        },
+        {
+          "t": "p",
+          "x": "“Google Nest和Google Home智能音箱、显示屏，或其他Google Assistant-enabled音箱和显示屏”上的Assistant暂时还没有变化。"
+        },
+        {
+          "t": "p",
+          "x": "现在，长按电源键或从屏幕角落滑动时，Gemini就是“Android上的语音助手体验”。"
+        }
+      ]
+    },
+    "gadgets/apple-no-record-home-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "可靠的Apple内幕人士Mark Gurman透露，Apple期待已久的家居中枢可能在10月晚些时候推出；他还在新播客Power On中预测，随后可能推出一款安防摄像头——而且它实际上不会录制视频。他还声称，Apple将推出性能更强的HomePod mini和Apple TV。"
+        },
+        {
+          "t": "p",
+          "x": "据Gurman称，这款摄像头将搭配Apple尚未发布、内部代号为J490的智能家居显示屏使用。这些小巧的圆柱形摄像头外形类似润唇膏，帧率极低，也不提供视频录制功能。"
+        },
+        {
+          "t": "p",
+          "x": "据报道，考虑到外界对过度监控的担忧，Apple将改为让传感器用AI分析家中的动静。它能够进行面部识别：如果识别出有人走进房间，就能告诉你是否认识这个人，但你只会收到文字描述。"
+        },
+        {
+          "t": "p",
+          "x": "Gurman补充说，这款摄像头将采用“与他们将用于带摄像头AirPods的技术非常相似的技术”。据报道，这款AirPods会拍摄分辨率极低的静态图像，并由Visual Intelligence进行分析。"
+        }
+      ]
+    },
+    "gadgets/gadgets-samsung-glasses-fcc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "备受期待的Samsung智能眼镜已通过FCC测试，意味着发布在即。SM-O200P和SM-O200J两款不同型号出现在FCC文件中，这通常是商业化之前的最后步骤之一。"
+        },
+        {
+          "t": "p",
+          "x": "从试产机型来看，这两个产品代码分别对应Warby Parker和Gentle Monster镜框。多种镜框款式将共用这些代码：Warby Parker有三款，Gentle Monster（目前）有两款。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "这款眼镜由Samsung与Google联合打造，将成为首款运行Android XR的产品，配备摄像头、麦克风和开放式扬声器，可用于通话、收听播客以及与Google Gemini互动。据悉，它采用Snapdragon AR1 Gen 1芯片组、一颗带指示LED的12MP摄像头，单次充电最多可使用9小时。除2026年秋季这一时间窗口外，价格和发布日期均未公布。"
+        },
+        {
+          "t": "p",
+          "x": "Road to VR指出，Samsung将面对领先多年的Meta，也将受到Meta此前因带摄像头眼镜而遭遇的同样公众审视。"
+        }
+      ]
     }
   }
 }

@@ -5446,6 +5446,138 @@
           "x": "研究并未直接让AI与人类病理医生正面比较。Huang说：“能不能战胜病理医生不是正确的问题。问题是病理医生如果一起用它，能不能多发现一些、工作更快一些。”下一步实验正是为了衡量这种差异而设计的。"
         }
       ]
+    },
+    "science/napoleon-cipher-gpt6astra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一名工程师借助AI破解了拿破仑·波拿巴（Napoleon Bonaparte）向麾下将领传递秘密信息时使用的一种此前未被破解的密码，让一封217年前的信件首次得以解读。"
+        },
+        {
+          "t": "p",
+          "x": "SentinelOne的AI工程师卡特·丘奇（Carter Church）说，他只给了OpenAI的GPT-6 Astra一个提示词和一张图片，大约六小时后任务就完成了。这封1809年的信由拿破仑授意、其继子欧仁（Eugène）寄给驻守亚得里亚海沿岸的奥古斯特·德·马尔蒙（Auguste de Marmont）元帅，信中列出了法军和盟军的部署位置。"
+        },
+        {
+          "t": "p",
+          "x": "模型以一份1969年、包含155种不同符号的低分辨率扫描件为基础转录了文本，并通过自主网络检索，找到了密码学史学者丹尼尔·唐（Daniel Tant）整理的一份涵盖33个符号的部分对照表，随后用它破译了其余部分。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+          "cap": "奥古斯特·弗雷德里克·路易·维耶斯·德·马尔蒙（Auguste Frederic Louis Viesse de Marmont），这封密信原定的收信人。"
+        },
+        {
+          "t": "p",
+          "x": "伦敦国王学院（King's College London）历史学家迈克尔·罗（Michael Rowe）说：“这有点像一种罗塞塔石碑。”他指出，结果与拿破仑的原始指令一致，因此几乎没有揭示新内容。该结果已由密码学家Satoshi Tomokiyo证实，他的Cryptiana网站现已将这封信列为已破解。"
+        }
+      ]
+    },
+    "science/lmu-ai-consciousness-study": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "关于AI欺骗用户或追求自身目标的报道，容易让人把它说得仿佛有心智一般。但发表在Cognition上的一项LMU新研究表明，人们在智能行为与意识之间划出了一条出人意料的清晰界线。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+          "cap": "假设、实验设计与研究概览。来源：Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
+        },
+        {
+          "t": "p",
+          "x": "由路易·朗金（Louis Longin）博士领导的团队对近1,100名参与者开展了实验。参与者阅读一些情境，其中AI或人类对周围环境的反应程度有高有低，然后评估主角有多大程度的意识或觉察。"
+        },
+        {
+          "t": "p",
+          "x": "反应越积极的主体，被认为意识和觉察程度越高。但即使反应最积极的AI，也被认为比反应最少的人类更缺乏意识；而在觉察程度的评分上，AI和人类的模式大致相同。"
+        },
+        {
+          "t": "p",
+          "x": "“人们相当愿意说AI会注意到事物、能觉察周围环境。但一说到‘意识’这个词，他们就明确划清了界线，”朗金说。资深作者巴哈多尔·巴赫拉米（Bahador Bahrami）表示，这些发现说明了为什么描述AI时的用词选择很重要。"
+        }
+      ]
+    },
+    "science/antarctica-moss-geoai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "由伍伦贡大学（University of Wollongong）主导、发表于ISPRS Journal of Photogrammetry and Remote Sensing的一项新研究，为追踪地球上最偏远环境之一的生命提供了新方法。"
+        },
+        {
+          "t": "p",
+          "x": "SAEF研究人员结合地面调查、无人机影像、卫星数据和人工智能，构建了一个端到端的地理空间AI框架，可绘制从苔藓斑块到广阔冰原的跨尺度、长期南极生态系统地图。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+          "cap": "开展实地研究的南极McMurdo Dry Valleys中Canada Glacier一带的景观。图片来源：University of Wollongong"
+        },
+        {
+          "t": "p",
+          "x": "南极的苔藓、地衣和蓝细菌生长在细小而零散的斑块中。第一作者纳尔米兰·阿马拉辛加姆（Narmilan Amarasingam）博士说：“我们的想法是把这些不同尺度连接起来：用详细的实地观测指导基于无人机的制图，再用无人机获得的观测支持卫星尺度的监测。”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+          "cap": "图片来源：University of Wollongong"
+        },
+        {
+          "t": "p",
+          "x": "团队在Canada Glacier用七年时间开发并测试了这一框架。跨年度追踪植被有助于区分短期波动与长期变化。阿马拉辛加姆说：“目的不是取代实地工作。”"
+        }
+      ]
+    },
+    "science/speech-clock-voice-aging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "发表在Science Advances上的一项研究表明，一款可分析数百种言语和语言模式的新AI工具，能根据一个人的说话方式估算其年龄，并可能提示此人的衰老状况以及是否有罹患痴呆症的风险。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员使用了来自五个拉美国家2,900多名讲西班牙语（Spanish-speaking）成年人的录音，提取了停顿、语速、音高和词汇等700多项特征来训练机器学习模型，并计算出“言语年龄差”（speech-age gap）。"
+        },
+        {
+          "t": "p",
+          "x": "说话听起来比实际年龄更老的人，更可能存在认知问题和痴呆症，在表观遗传时钟上显示出生物衰老加速的迹象，社会和经济状况也较差。"
+        },
+        {
+          "t": "p",
+          "x": "专家提醒，这并不是水晶球。抑郁或压力也会让声音听起来更老；该研究大多只在单一时间点测量受试者；而且模型只用西班牙语测试过。团队接下来计划在其他语言中进行测试，并对受试者进行长期追踪。"
+        }
+      ]
+    },
+    "science/uclaoptical": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+        },
+        {
+          "t": "p",
+          "x": "UCLA的研究人员开发出一种光学神经处理器，可借助光来帮助识别深度伪造视频。与在数字硬件上逐个检查视频的传统系统不同，由于部分检测过程通过光的物理传播完成，它能同时分析15路及以上的视频流。该研究发表于eLight。"
+        },
+        {
+          "t": "p",
+          "x": "一个轻量级数字编码器从每段视频中提取空间、光谱和时间特征，并以相位图样的形式显示在空间光调制器上；随后，一个无源光学解码器为每段视频生成真实性评分。"
+        },
+        {
+          "t": "p",
+          "x": "每次光学处理筛查15段Celeb-DF视频时，该系统的平均准确率为97.79%，灵敏度为99.86%；筛查18段视频时为96.13%。经过极少量微调后，它在未见过的Google VEO-3视频上达到94.80%的准确率，并能抵御黑盒对抗攻击。"
+        },
+        {
+          "t": "p",
+          "x": "Aydogan Ozcan教授团队将其视为高通量的第一道防线，可疑内容再交由要求更高的数字模型进行最终评估。"
+        }
+      ]
     }
   }
 }

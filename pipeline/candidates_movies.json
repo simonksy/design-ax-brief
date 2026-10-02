@@ -1,196 +1,168 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "movies",
   "window_hours": 336,
+  "now_iso": "2026-10-02T22:00:00Z",
   "items": [
     {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/massive-studios-capcut-ai-films-todd-garner-reza-safai-1236716824/",
-      "title": "Massive Studios, ‘Garfield Movie’ Writers and Producer Todd Garner Team on AI Animated Short Films",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-09-30T09:25:57+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/TIFF_CAPCUT_SEPT14_EDITS_FULLRES__NDK7459.jpg?crop=0px%2C2039px%2C5927px%2C3315px&resize=1440%2C810",
-      "excerpt": "Massive co-founder Reza Sixo Safai, scribes Paul A. Kaplan and Mark Torgove and Garner detailed the projects and their process during a panel at the Toronto International Film Festival."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-ai-netflix-movie-animals-1236717919/",
-      "title": "Ben Affleck Used AI “For Lots of Things” in His New Netflix Movie ‘Animals’",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-10-01T03:41:35+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/ANIMALS_20250311_WP_0019_R2.jpg?crop=0px%2C302px%2C7200px%2C4029px&resize=1440%2C810",
-      "excerpt": "Well, sure, when a platform pays like $600 million for your artificial intelligence company..."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/business/business-news/iberseries-platino-industria-2026-preview-ai-usefulness-1236697465/",
-      "title": "Madrid’s Iberseries & Platino Industria Bosses Tout Expansion and Innovation: “The Key Is Usefulness”",
-      "source": "The Hollywood Reporter",
-      "category": "movies",
-      "published_iso": "2026-09-28T12:30:00+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/Iberseries.jpg?w=1440&h=810&crop=1",
-      "excerpt": "Samuel Castro, Juan Alía and Adriana Castillo discuss what's new for the sixth edition, the prominence of microdramas and AI as topics, and how Mexico and Portugal will share the spotlight with Spain."
-    },
-    {
-      "url": "https://variety.com/2026/film/awards/10-animators-to-watch-ai-animation-future-scad-1236894996/",
-      "title": "10 Animators to Watch on AI, Animation’s Future and Why the Human Hand Still Matters: ‘Nobody Else Has Your Point of View’",
+      "title": "Luca Guadagnino Is 'Not Afraid' of Sam Altman Backlash to 'Artificial'",
+      "url": "https://variety.com/2026/film/global/luca-guadagnino-not-afraid-sam-altman-backlash-artificial-1236897470/",
       "source": "Variety",
+      "published_iso": "2026-10-02T13:37:24+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/luca-sam.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Guadagnino says he is not afraid of backlash over 'Artificial', his film dramatizing OpenAI and Sam Altman, arguing people with power over AI must be aware of their responsibility.",
       "category": "movies",
-      "published_iso": "2026-10-01T19:14:15+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Variety’s 10 Animators to Watch discuss AI, animation’s unsung artists, the importance of collaboration and the future of the medium."
+      "section": "movies"
     },
     {
-      "url": "https://nofilmschool.com/topview-ai-film-studio-intro",
-      "title": "It’s More Than an AI Clip Tool: An Intro to Topview and Its Cinematic Film Studio",
-      "source": "No Film School",
+      "title": "'Light Pillar' Director Xu Zao Readies AI-Themed Follow-Up 'Easy, My Friend'",
+      "url": "https://variety.com/2026/film/festivals/light-pillar-director-xu-zao-ai-themed-easy-my-friend-1236877974/",
+      "source": "Variety",
+      "published_iso": "2026-09-29T11:57:48+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/09/Xu-Zao.jpg?w=1000&h=563&crop=1",
+      "excerpt": "The Berlinale animation director's HAF Film Lab project follows an illustrator who rebuilds her life after AI takes her drawing skills and job; Xu calls AI a change of tool, not of filmmaking's core.",
       "category": "movies",
-      "published_iso": "2026-09-28T17:02:07+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=67812616&width=1200&height=600&coordinates=0%2C45%2C0%2C46",
-      "excerpt": "An introduction to Topview and how its Film Studio can help filmmakers use AI for more than random clips, but actually direct their own cinematic projects."
+      "section": "movies"
     },
     {
-      "url": "https://nofilmschool.com/adobe-plugin-in-chatgpt-update",
-      "title": "Adobe Announces More Interactive Editing Controls Are Coming for its Plugin in ChatGPT",
-      "source": "No Film School",
+      "title": "Tripo AI's Yanpei Cao Talks SmartMesh, Open Source and Previs",
+      "url": "https://www.awn.com/animationworld/tripo-ais-yanpei-cao-talks-smartmesh-open-source-and-previs",
+      "source": "Animation World Network",
+      "published_iso": "2026-10-02T12:37:00+00:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9",
+      "excerpt": "Tripo AI's chief scientist, fresh off a SIGGRAPH Real-Time Live! Best in Show, explains how its generative 3D tools (SmartMesh) help artists with reference, blockouts and previs.",
       "category": "movies",
-      "published_iso": "2026-09-30T21:15:04+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.webp?id=68001566&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
-      "excerpt": "Announced alongside OpenAI’s DevDay 2026 announcements, Adobe has introduced new interactive editing controls in the Adobe plugin in ChatGPT."
+      "section": "movies"
     },
     {
-      "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
-      "title": "'Doctor Who': BBC's Matt Brittin Says He Has Watched AI Episode",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-09-29T10:03:00+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024",
-      "excerpt": "An artificial intelligence 'Doctor Who' was sent to the BBC's Matt Brittin and he said it was \"pretty good\""
-    },
-    {
-      "url": "https://deadline.com/2026/09/amazon-prime-video-kelly-day-ai-fleabag-spend-in-uk-1237115997/",
-      "title": "Amazon's Kelly Day Says AI Can Help Creatives On The Next 'Fleabag'",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-09-29T08:53:28+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2020/12/fleabag-phoebe-t-1200x642-1569198068.jpg?w=980",
-      "excerpt": "Amazon's Kelly Day has said artificial intelligence can help unearth the next 'Fleabag' as she reveals spend in UK has hit £5 billion."
-    },
-    {
-      "url": "https://deadline.com/2026/09/mformedia-arcana-labs-sign-ai-production-pact-1237143000/",
-      "title": "MForMedia & Arcana Labs Sign AI Production Pact For Middle East",
-      "source": "Deadline",
-      "category": "movies",
-      "published_iso": "2026-09-30T15:20:55+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-      "excerpt": "Dubai's MForMedia will look to add AI workflows into its productions following a deal with Arcana Labs."
-    },
-    {
+      "title": "LightBox Founders On Taking A Hard Line Against Generative AI: 'We Think Generative AI Is Theft And It's Not Real Art'",
       "url": "https://www.cartoonbrew.com/festivals/lightbox-expo-bobby-chiu-jim-demonakos-267289.html",
-      "title": "LightBox Expo 2026: Bobby Chiu And Jim Demonakos On Animation",
       "source": "Cartoon Brew",
-      "category": "movies",
       "published_iso": "2026-09-30T08:37:34-04:00",
       "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg",
-      "excerpt": "The LightBox co-founders discuss the animation job market, studio recruiting, career development, and creating new opportunities for artists at every level."
-    },
-    {
-      "url": "https://www.cartoonbrew.com/festivals/ottawa-international-animation-festival-spotlight-newsletter-267206.html",
-      "title": "OIAF 2026: Award Winners, ‘Ray Gunn,’ AI, And More From Ottawa",
-      "source": "Cartoon Brew",
+      "excerpt": "LightBox Expo co-founders Bobby Chiu and Jim Demonakos explain why the animation/concept-art expo bans generative AI and how studios recruiting there responded.",
       "category": "movies",
-      "published_iso": "2026-09-28T07:03:05-04:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/image-4.png",
-      "excerpt": "We recap OIAF 2026, including the festival’s award winners, a ‘Ray Gunn’ panel with Brad Bird, AI discussions, Pitch THIS!, and more."
+      "section": "movies"
     },
     {
-      "url": "https://motionographer.com/news/ai-animation-ip-and-the-next-phase-of-creative-production/",
-      "title": "AI Animation, IP and the Next Phase of Creative Production",
-      "source": "Motionographer",
+      "title": "MForMedia & Arcana Labs Sign AI Production Pact For Middle East",
+      "url": "https://deadline.com/2026/09/mformedia-arcana-labs-sign-ai-production-pact-1237143000/",
+      "source": "Deadline",
+      "published_iso": "2026-09-30T15:20:55+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+      "excerpt": "Dubai's MForMedia will integrate Arcana Labs' AI production workflows into its film and TV slate under a new regional pact.",
       "category": "movies",
-      "published_iso": "2026-10-01T19:51:43+00:00",
-      "og_image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-      "excerpt": "Generative AI is rapidly moving from experimentation into professional animation and commercial production. For studios, agencies and brands, the opportunity is significant. Work that once required…"
+      "section": "movies"
     },
     {
-      "url": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/",
-      "title": "Japanese court rules human voices are protected in landmark AI case - Engadget",
-      "source": "Engadget",
+      "title": "BBC Boss Matt Brittin Says He Was Sent A 'Doctor Who' Episode Entirely Generated By AI",
+      "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
+      "source": "Deadline",
+      "published_iso": "2026-09-29T10:03:00+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024",
+      "excerpt": "BBC director-general Matt Brittin says he watched an unofficial, fully AI-generated 'Doctor Who' episode and found it 'pretty good', raising IP and craft questions for broadcasters.",
       "category": "movies",
-      "published_iso": "2026-10-01T14:58:44+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/l-intro-1790866642.jpg",
-      "excerpt": "Humans vs AI: It's time to d-d-d-d-duel."
+      "section": "movies"
     },
     {
-      "url": "https://www.awn.com/news/former-youtube-and-tiktok-exec-masoud-loghmani-launches-studio-jadu",
-      "title": "Former YouTube and TikTok Exec Masoud Loghmani Launches Studio Jadu",
-      "source": "AWN",
+      "title": "Amazon's Kelly Day Says AI Will Unlock 'Creative Risk' & Help Creatives On The Next 'Fleabag'",
+      "url": "https://deadline.com/2026/09/amazon-prime-video-kelly-day-ai-fleabag-spend-in-uk-1237115997/",
+      "source": "Deadline",
+      "published_iso": "2026-09-29T08:53:28+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2020/12/fleabag-phoebe-t-1200x642-1569198068.jpg?w=980",
+      "excerpt": "Prime Video's international chief argues AI tools will lower costs of experimentation and free creatives to take risks, saying it amplifies rather than replaces imagination.",
       "category": "movies",
-      "published_iso": "2026-09-30T16:18:00-07:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/jadu1-1280.jpg?itok=heTk96jv",
-      "excerpt": "The company turns independent creators' scripts into animation with its AIDA tool; artists keep creative control and share in revenue; 'The Future Was Awesome,' from Emmy winner Fred Graver, is among its first shows, and its Pioneer Program is taking applications."
+      "section": "movies"
     },
     {
-      "url": "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/",
-      "title": "The State of VFX and Animation Might Surprise You - postPerspective",
-      "source": "postPerspective",
-      "category": "movies",
-      "published_iso": "2026-09-30T21:23:43+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-      "excerpt": "By Joseph Bell  Three years ago, Jeffrey Katzenberg, co-founder and former CEO of DreamWorks Animation, predicted that the number of artists needed to make a world-class animated movie would decrease from 500 to less than 50 by 2026.  When Katzenberg made his prediction in 2023, my first concern was"
-    },
-    {
-      "url": "https://www.provideocoalition.com/after-effects-portal-september-2026/",
-      "title": "After Effects Portal September 2026 by Rich Young - ProVideo Coalition",
-      "source": "ProVideo Coalition",
-      "category": "movies",
-      "published_iso": "2026-09-30T23:51:34-07:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/effects-animation-label.jpeg",
-      "excerpt": "The first half of the year was impressive for After Effects, with months of big features, AI and freemium competition, and 3rd-parrty news. The current release of AE is September 2026 release (version 26.5 at IBC). Video summaries of 26.3 were linked earlier. We can expect an end of year push soon t"
-    },
-    {
-      "url": "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/",
       "title": "Can Art House Theaters Use AI-Driven Data Models to Reach a More Targeted Audience?",
+      "url": "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/",
       "source": "IndieWire",
-      "category": "movies",
       "published_iso": "2026-10-01T15:00:00+00:00",
       "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-      "excerpt": "The podcast \"Inside the Arthouse\" with Greg Laemmle and Raphael Sbarge partnered with data company Chronicle to bring their reach to the next level."
-    },
-    {
-      "url": "https://www.slist.kr/news/articleView.html?idxno=769131",
-      "title": "연상호 ‘실낙원’ 세계관 확장…직접 쓴 AI 단편 29일 공개",
-      "source": "싱글리스트",
+      "excerpt": "The 'Inside the Arthouse' podcast partnered with data company Chronicle to test AI-driven audience models for marketing independent films to art-house moviegoers.",
       "category": "movies",
-      "published_iso": "2026-09-28T08:02:30+09:00",
-      "og_image": "https://cdn.slist.kr/news/thumbnail/202609/769131_1177094_150_v150.jpg",
-      "excerpt": "연상호 감독의 신작 ‘실낙원’이 스페셜 단편 시리즈를 통해 본편에 앞서 세계관을 확장한다.영화 ‘실낙원’의 세계관을 바탕으로 제작된 단편 필름 시리즈 ‘실낙원 - 유니버스’가 오는 29일 첫선을 보인다. 이날 1화 ‘당신의 미역국’과 2화 ‘아빠가 있잖아’가 공개되며, 연상호 감독이 두 작품의 각본을 직접 집필했다.‘실낙원’은 9년 전 캠핑스쿨 버스 실종 사건으로 아들을 잃은 엄마 류소영 앞에 죽은 줄 알았던 아들 류선우가 살아 돌아오면서 벌어지는 이야기를 그린 심리 스릴러다. 김현주와 배현성이 출연한다.‘실낙원 - 유니버스’는 본"
+      "section": "movies"
     },
     {
-      "url": "https://www.youtube.com/watch?v=K7Q7FESRHJY",
-      "title": "Introducing Project Continuum by Runway Labs",
-      "source": "Runway",
+      "title": "After Effects Portal September 2026",
+      "url": "https://www.provideocoalition.com/after-effects-portal-september-2026/",
+      "source": "ProVideo Coalition",
+      "published_iso": "2026-09-30T23:51:34-07:00",
+      "og_image": "https://www.provideocoalition.com/wp-content/uploads/effects-animation-label.jpeg",
+      "excerpt": "Rich Young's monthly roundup of After Effects 26.5 (IBC release), AI features and AI-assistant beta, freemium competitors and third-party plugin news for motion designers.",
       "category": "movies",
-      "published_iso": "2026-10-01T08:45:30-07:00",
-      "og_image": "https://i.ytimg.com/vi/K7Q7FESRHJY/maxresdefault.jpg",
-      "excerpt": "Runway Labs previews Project Continuum, a research 'real-time video operating system' with Portals, Visual Thinking, Responsive Video Interfaces and Interactive Worlds."
+      "section": "movies"
     },
     {
-      "url": "https://www.youtube.com/watch?v=JWEAmLHp7Sg",
-      "title": "How Much of Filmmaking Can AI Agents Actually Do?",
+      "title": "Adobe After Effects AI Assistant Enters Public Beta - Whole-Project Scope, Expression Rigs, and Project Cleanup",
+      "url": "https://www.cined.com/adobe-after-effects-ai-assistant-enters-public-beta-whole-project-scope-expression-rigs-and-project-cleanup/",
+      "source": "CineD",
+      "published_iso": "2026-09-28T07:41:39+00:00",
+      "og_image": "https://www.cined.com/content/uploads/2026/09/AI-assistant-for-After-Effects-feature.jpg",
+      "excerpt": "After Effects' AI Assistant moves to public beta with project-wide scope, expression rig building, localization and project cleanup tools. (Off-list: on-list outlets had no standalone public-beta report.)",
+      "category": "movies",
+      "section": "movies"
+    },
+    {
+      "title": "AI Sound Design Is Here... But Is It Any Good?",
+      "url": "https://www.youtube.com/watch?v=0yv0r5UyzCY",
       "source": "Curious Refuge",
+      "published_iso": "2026-10-01T15:02:02-07:00",
+      "og_image": "https://i.ytimg.com/vi/0yv0r5UyzCY/maxresdefault.jpg",
+      "excerpt": "Curious Refuge tests the latest AI sound-design tools across multiple workflows to see how they affect film and video post-production.",
       "category": "movies",
+      "section": "movies"
+    },
+    {
+      "title": "How Much of Filmmaking Can AI Agents Actually Do?",
+      "url": "https://www.youtube.com/watch?v=JWEAmLHp7Sg",
+      "source": "Curious Refuge",
       "published_iso": "2026-09-28T18:23:32-07:00",
       "og_image": "https://i.ytimg.com/vi/JWEAmLHp7Sg/maxresdefault.jpg",
-      "excerpt": "Curious Refuge lets OpenAI's GPT Astra agent organize and edit a video, including VFX, SFX and marketing assets, and reports what worked and what didn't."
+      "excerpt": "Curious Refuge lets an AI agent (GPT Astra) organize and edit a video, including VFX, SFX and marketing assets, and reports what worked and what didn't.",
+      "category": "movies",
+      "section": "movies"
     },
     {
-      "url": "https://www.youtube.com/watch?v=vjNVieMl77E",
-      "title": "Block in 3D, refine with node-based AI",
-      "source": "fxguide",
+      "title": "How to Create a Depth Map Using AI + FREE Tool Download",
+      "url": "https://www.youtube.com/watch?v=BFsVW1DrLng",
+      "source": "Curious Refuge",
+      "published_iso": "2026-10-02T12:19:45-07:00",
+      "og_image": "https://i.ytimg.com/vi/BFsVW1DrLng/maxresdefault.jpg",
+      "excerpt": "Tutorial on generating depth maps from footage with a free AI tool that runs locally on Mac or via Fal.ai, for compositing and relighting workflows.",
       "category": "movies",
-      "published_iso": "2026-09-22T05:30:30-07:00",
-      "og_image": "https://i.ytimg.com/vi/vjNVieMl77E/maxresdefault.jpg",
-      "excerpt": "fxguide explains why Autodesk Flow Studio pairs a 3D editor with a node-based AI canvas and how that maps to a more controllable VFX production workflow."
+      "section": "movies"
+    },
+    {
+      "title": "What Mattered to Hollywood at This Year's Iberseries & Platino Industria",
+      "url": "https://www.hollywoodreporter.com/business/business-news/woody-allen-madrid-film-iberseries-platino-industria-wrap-1236714367/",
+      "source": "The Hollywood Reporter",
+      "published_iso": "2026-10-02T08:30:00+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Charles-and-Ozzy.jpg?w=1440&h=810&crop=1",
+      "excerpt": "Wrap of Madrid's Iberseries & Platino Industria, where AI in production was among the hot-button debates alongside microdramas and Spanish-language co-productions.",
+      "category": "movies",
+      "section": "movies"
+    },
+    {
+      "title": "Mubi's Efe Cakarel: 'We are going to stay as far away from AI as possible when it comes to films'",
+      "url": "https://www.screendaily.com/news/mubis-efe-cakarel-we-are-going-to-stay-as-far-away-from-ai-as-possible-when-it-comes-to-films/5220798.article",
+      "source": "Screen Daily",
+      "published_iso": "2026-09-28T08:20:00+01:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+      "excerpt": "Mubi uses AI in engineering and operations but will keep it away from films, Cakarel said at the Zurich Summit, betting that human taste and provenance gain value as AI content floods in.",
+      "category": "movies",
+      "section": "movies"
+    },
+    {
+      "title": "부산국제영화제 '포럼 비프' 10월 8일 개막…AI 시대 영화의 미래 논의",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=762264",
+      "source": "더쎈뉴스(The CEN News)",
+      "published_iso": "2026-09-30T15:51:48+09:00",
+      "og_image": "https://cdn.mhns.co.kr/news/thumbnail/202609/762264_896726_502_v150.jpg",
+      "excerpt": "제31회 BIFF 기간 '2026 포럼 비프'가 생성형 AI가 영화 제작과 창작자 역할에 미치는 영향을 다루는 세션을 열고, 지아장커의 AI 단편 등을 상영한다. (Off-list: cine21 had no verifiable fresh AI item.)",
+      "category": "movies",
+      "section": "movies"
     }
   ]
 }

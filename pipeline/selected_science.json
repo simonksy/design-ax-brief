@@ -1,96 +1,106 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "science",
-  "picks": [
+  "items": [
     {
-      "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
-      "source": "ScienceDaily",
-      "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+      "rank": 1,
+      "title": "An AI 'mind-reading' tool can reconstruct what you're looking at from a brain scan",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-10-01T10:32:24Z",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+      "excerpt": "Scientists built an AI system that reconstructs images a person is viewing from brain scans, and hope it could one day recover mental imagery or even dreams.",
+      "category": "science",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "UCLA optical (light-based) AI screens a dozen-plus videos at once for deepfakes at ~98% accuracy and low energy; a new hardware method with broad relevance.",
-      "published_iso": "2026-10-01T13:03:50Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp",
-      "excerpt": "UCLA researchers built an optical AI system that uses light to analyze more than a dozen videos at once, detecting deepfakes with nearly 98% accuracy at low energy cost and with resistance to adversarial attacks."
+      "rationale": "Human brain-scan-to-image reconstruction from a top-tier outlet; strong visual and clear research advance."
     },
     {
-      "url": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
+      "rank": 2,
+      "title": "'A kind of Rosetta Stone': AI decodes 217-year-old secret letter ordered by Napoleon",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon",
       "source": "Live Science",
-      "title": "AI's failed attempt to crack the Riemann hypothesis led a mathematician to a breakthrough",
+      "published_iso": "2026-10-02T10:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg",
+      "excerpt": "GPT-6 Astra was used to crack a centuries-old cipher that carried strategic military information between Napoleon's troops.",
+      "category": "science",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "First-person account of Claude's failed Riemann attempt that still sparked a real result; a fresh angle on AI in mathematics that is distinct from the earlier curve, sphere and probability stories.",
-      "published_iso": "2026-10-01T15:56:04Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-      "excerpt": "An attempt by Anthropic's Claude failed to prove the Riemann hypothesis, but it did produce something genuinely useful: inspiration."
+      "rationale": "Fresh, concrete result of a frontier model cracking a historical cipher; broad appeal and a new domain (cryptanalysis/history) for the section."
     },
     {
-      "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
-      "source": "MIT News",
-      "title": "This game-playing AI is the new champ at Stratego",
+      "rank": 3,
+      "title": "Even when AI behaves just like us, people still rate it as less conscious than humans",
+      "url": "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-10-02T16:00:25Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+      "excerpt": "In experiments with about 1,100 participants, LMU Munich researchers found people rate AI as significantly less conscious than humans showing identical behavior, though they judge both similarly 'aware' under neutral wording.",
+      "category": "science",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "MIT system beats human experts at the hidden-information game Stratego more cheaply than larger models, a step toward AI that supports decisions under uncertainty.",
-      "published_iso": "2026-09-30T15:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg",
-      "excerpt": "Researchers developed an AI system that beat human experts at the board wargame Stratego and outperformed more expensive models. This new system could someday help humans make strategic decisions in situations when some information is hidden."
+      "rationale": "New cognitive-psychology study (n~1,100) on how people attribute consciousness to AI; distinct from the 09-19 object-recognition item."
     },
     {
-      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
-      "source": "Microsoft Research",
-      "title": "Forecasting space weather risks on power grids",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "ML system predicts where geomagnetic storms will damage power grids 30-60 minutes ahead; new space-weather application, distinct from the published hurricane-intensity story.",
-      "published_iso": "2026-09-30T16:00:00Z",
-      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-TWLIFB-1200x627-1.jpg",
-      "excerpt": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives."
-    },
-    {
-      "url": "https://phys.org/news/2026-10-math-slightly-ai-human-teacher.html",
+      "rank": 4,
+      "title": "Drones, satellites and AI help scientists watch over Antarctica's smallest lifeforms",
+      "url": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
       "source": "Phys.org",
-      "title": "Adaptive AI boosts math only slightly; the human teacher remains essential",
+      "published_iso": "2026-09-30T15:20:13Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+      "excerpt": "University of Wollongong researchers built a multi-sensor, multi-temporal GeoAI framework fusing field surveys, drone and satellite imagery to map Antarctica's moss and lichen ecosystems over seven years at Canada Glacier.",
+      "category": "science",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Three-year study of ~8,000 Dutch pupils gives hard evidence on adaptive AI learning systems in classrooms: modest arithmetic gains, and the teacher is still essential.",
-      "published_iso": "2026-10-01T20:20:02Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-      "excerpt": "A three-year study of nearly 8,000 Dutch elementary pupils found adaptive AI learning systems modestly improved arithmetic performance, but researchers stress the human teacher remains essential."
+      "rationale": "Ecology/remote-sensing application with a seven-year GeoAI dataset; adds an Earth-science angle and has a usable image."
+    },
+    {
+      "rank": 5,
+      "title": "Your voice may reveal how fast you're aging, new AI 'speech clock' suggests",
+      "url": "https://www.livescience.com/health/aging/your-voice-may-reveal-how-fast-youre-aging-new-ai-speech-clock-suggests",
+      "source": "Live Science",
+      "published_iso": "2026-10-01T18:15:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg",
+      "excerpt": "A machine-learning 'speech clock' estimates a person's age from their speech, linking older-sounding voices with cognitive decline.",
+      "category": "science",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Novel aging biomarker from voice with a cognitive-decline link; distinct health topic from recent blood-stem-cell aging card."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.sciencedaily.com/releases/2026/09/260929053534.htm": {
+      "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html",
+        "nearest": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
         "new_action": ""
       },
-      "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough": {
-        "verdict": "new",
-        "nearest": "https://www.scientificamerican.com/article/anthropics-ai-steals-mathematicians-record-for-most-complicated-curve/",
-        "new_action": ""
-      },
-      "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930": {
+      "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/": {
+      "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-ai-fury-hurricane-intensity.html",
+        "nearest": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-math-slightly-ai-human-teacher.html": {
+      "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html": {
         "verdict": "new",
         "nearest": "",
+        "new_action": ""
+      },
+      "https://www.livescience.com/health/aging/your-voice-may-reveal-how-fast-youre-aging-new-ai-speech-clock-suggests": {
+        "verdict": "new",
+        "nearest": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
         "new_action": ""
       }
     },
-    "note": "Pool 20, no clusters. history_match review: space weather (related to hurricane intensity, 09-28) is a different event, so it stays as new. Retention-time small molecules (related to 'hidden universe of small molecules', 09-05) is a different tool, not a dup, but I left it out for outlet balance (phys.org already has a pick). Excluded at the orchestrator's direction: SynthID Bio (biosecurity, and it has no og_image). Also skipped MALVINA bacterial invasion as pathogen-adjacent. Left out arXiv x3 (no og_image), Talus Bio (company product launch, too close to AI-business noise), and STAT Claude genome op-ed (commentary). Quine (MSR) was not picked because it overlaps the recent 'AI scientist' and 'virtual cell' biology-agent stories and MSR already has a pick. Other good items held back to keep outlet diversity: voice aging clock (Live Science), algorithmic monoculture and visual AI cities (MIT News), drones for wildlife (Physics World), and AI vs human getting-to-know (Psychology Today). The 5 picks come from 5 different outlets, and all have an og_image."
+    "note": "Pool of 17, none dropped by story_dedup. Mind-reading (history_match: abdominal radiology 09-23) is a different study; closest real neighbour is the 09-17 UCL mouse visual-cortex video reconstruction, named as nearest; human fMRI image reconstruction is a separate study. LMU consciousness item (history_match 09-19 object recognition) is a different study. Skipped: Talus Bio Ptarmigan-1 (protein-targeting company launch, near biosecurity/protein exclusion and commercial); Sherry Turkle book and 'How AI Sees the City' book (book promotion/commentary, possible books-section overlap); Physics World drones-wildlife feature (evergreen overview, overlaps Antarctica drone pick); 'AI disagree with you' (close theme to 09-26 'When AI disagrees' and 09-08 disagreement items); AWARE psychiatry framework and chatbot-harm study (would make Phys.org/TechXplore/MedicalXpress publisher 3+; chatbot harm also close to 09-27 AI-and-teens item); retention-time, visual-illusion, quantum-math, MeLSI (lower novelty/no og_image); MIT algorithmic monoculture (hiring economics, weaker science fit). Diversity: Phys.org-family publisher 2 (Tech Xplore + Phys.org), Live Science 2, MIT Technology Review 1. Cross-section check was by judgment only; news_data.json is too large to scan in full, and none of these science items are known to have run elsewhere."
   }
 }

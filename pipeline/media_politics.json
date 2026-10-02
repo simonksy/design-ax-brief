@@ -1,7 +1,31 @@
-{"date":"2026-10-02","section":"politics","media":[
-{"id":"rossappeal","type":"svg"},
-{"id":"gpusmuggle","type":"svg"},
-{"id":"aioverviewsuit","type":"image","src":"pipeline/media/aioverviewsuit.jpg"},
-{"id":"openaicasubpoena","type":"image","src":"pipeline/media/openaicasubpoena.jpg"},
-{"id":"taiwandeepfake","type":"image","src":"pipeline/media/taiwandeepfake.png"}
-]}
+{
+  "date": "2026-10-03",
+  "section": "politics",
+  "media": [
+    {
+      "id": "newsom-ai-workplace-law",
+      "type": "image",
+      "src": "pipeline/media/newsom-ai-workplace-law.jpg"
+    },
+    {
+      "id": "eu-nudify-ai-ban",
+      "type": "image",
+      "src": "pipeline/media/eu-nudify-ai-ban.jpg"
+    },
+    {
+      "id": "vanorden-cooke-deepfake",
+      "type": "image",
+      "src": "pipeline/media/vanorden-cooke-deepfake.jpg"
+    },
+    {
+      "id": "china-lgfv-nvidia-chips",
+      "type": "image",
+      "src": "pipeline/media/china-lgfv-nvidia-chips.jpg"
+    },
+    {
+      "id": "msit-sovereign-ai-merge",
+      "type": "image",
+      "src": "pipeline/media/msit-sovereign-ai-merge.jpg"
+    }
+  ]
+}

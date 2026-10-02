@@ -10232,6 +10232,130 @@
           "x": "Prime 4 G2는 이미 나와 있고 가격은 $2,599 USD/ 2,699.99€/£2,299.99다."
         }
       ]
+    },
+    "music/stability-ai-sean-parker-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Napster 공동 창업자 Sean Parker가 다시 음악 산업에 뛰어들었다. 이번에는 규칙을 지킨다고 The Information에 말했다. (허락 대신 용서를 구했던 지난번 방식이 그리 잘 통하지 않았다는 점은 순순히 인정한다.)"
+        },
+        {
+          "t": "p",
+          "x": "2년 전 그는 Stability AI를 살리려는 $80 million 규모의 구제 작업에 참여했다. 이 이미지 생성 스타트업은 과도한 지출과 내부 혼란 끝에 창업자 Emad Mostaque가 축출되면서 무너지기 직전이었다. 이제 Parker와, CEO를 맡은 오랜 친구 Prem Akkaraju가 그동안 만든 것을 하나씩 내보이고 있다."
+        },
+        {
+          "t": "p",
+          "x": "Parker의 핵심 구상은 Stability를 음악 전문가들이 가장 먼저 찾는 AI 도구 제작사로 키우는 일이다. 회사는 8월 말 Sony, Warner, Universal 등에서 $76 million 투자를 유치했다고 발표했고, 이들은 거래 조건으로 학습용 카탈로그 라이선스도 내줬다. Stability는 이후 새 오디오 모델 세 가지와 AI 음악 편집 소프트웨어를 내놓았다. 텍스트 프롬프트만으로 연주곡 전체나 짧은 조각을 만드는 AI다. Parker는 곧 나올 업데이트에서 멜로디를 흥얼거리거나 비트박스로 드럼 패턴을 넣어 생성 방향을 잡을 수 있게 된다고 말한다."
+        }
+      ]
+    },
+    "music/questlove-sampling-ai": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "T8TFsrsEx_o"
+        },
+        {
+          "t": "p",
+          "x": "Questlove는 Billboard On the Record에서 샘플링의 흐름을 짚는다. Fairlight와 Marley Marl에서 출발해, 1988년 그에게 \"유레카의 순간(Eureka moment)\"이 된 Public Enemy의 It Takes a Nation of Millions to Hold Us Back까지. 이어 마이크로초핑, 카탈로그 매각, 생성형 AI가 이 예술 형식에 새로운 기회가 될지 위험이 될지 묻는다."
+        },
+        {
+          "t": "p",
+          "x": "\"1988년부터 1991년까지는 무법천지(Wild West)였어요. 아무도 우리를 단속하지 않았죠.\" 그의 말이다. 그러다 Biz Markie 소송 이후로는 허락을 받는 게 규칙이 됐다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "\"AI냐, 직접 만드느냐를 두고 늘 논쟁이 있어요. 전자레인지에 데우느냐, 제대로 한 끼를 요리하느냐의 차이죠. 제게는 불완전함 속에 늘 마법이 있었습니다.\""
+        },
+        {
+          "t": "p",
+          "x": "디지털 왜곡 탓에 소리만 놓고 보면 AI 음악은 \"아직 거기까지 오지 않았다\"는 게 그의 판단이다. 다만 10년 안에 모델이 이를 완성할 수도 있다고 본다. \"하지만 저는 AI를 샘플링 문화와 나란히 놓고 봅니다.\""
+        },
+        {
+          "t": "p",
+          "x": "\"AI 시스템을 만든다면 플랫폼 구축에 쓰인 자료를 투명하게 밝혀야 하고, 그에 대한 보상이 있어야 합니다.\""
+        }
+      ]
+    },
+    "music/lyricfind-ai-lyrics-long-tail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LyricFind 창립자 겸 CEO Darryl Ballantyne은 기고문에서 생성형 AI에 라이선스와 투명성, 안전장치가 필요하다고 짚으면서도, 가사·권리 데이터·메타데이터 분야의 AI는 기존 작품의 수익을 늘릴 수 있다고 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "가사 로열티는 사용량에 따라 나오기 때문에 가사가 비어 있으면 노출이 줄고 권리자 수익도 준다. 수작업 전사·싱크·번역은 손익분기점이 분명해서, 업계가 카탈로그를 얼마나 깊이 다룰지에 한계가 있었다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Luminate에 따르면 2025년에 10,000회에서 500,000회 사이로 스트리밍된 곡은 9.6M 곡으로, 전 세계 스트리밍 양의 13%를 넘는다. LyricFind는 AI로 첫 전사를 마친 뒤 단어 단위 싱크와 번역을 거치고, 단계마다 사람이 검증한다."
+        },
+        {
+          "t": "p",
+          "x": "직원 효율을 세네 배로 끌어올리면 활용 가능한 콘텐츠가 약 700% 늘어나니, 인력을 두 배로 늘리는 편이 합리적이라는 게 그의 설명이다. 정확도가 99%인 시스템도 가사 1억 건을 처리하면 오류가 백만 건 남는다."
+        }
+      ]
+    },
+    "music/suno-v6-take-me-back-video": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "1OITvfAN6-g"
+        },
+        {
+          "t": "p",
+          "x": "Braylon Browner와 Emmy 수상 안무가 겸 감독 Nina McNeely의 비하인드 장면을 따라가며, 춤이 노래가 되고 다시 움직임 중심의 온전한 창작 세계로 커지기까지 무엇이 필요한지 들여다본다."
+        },
+        {
+          "t": "p",
+          "x": "Browner는 \"작업하면서 바로 음악을 편집할 수 있다는 게 놀랍다\"며, 그 덕에 춤과 음악이 \"정말로 만나 완벽한 조화를 이룬다\"고 말한다. McNeely는 Suno가 \"안무가들에게 우리 안무 아이디어에 맞춰 곡을 바꿀 수 있는 힘을 되돌려 주고 있다\"고 덧붙인다."
+        },
+        {
+          "t": "p",
+          "x": "전체 뮤직비디오는 suno.com/braylon에서 볼 수 있다."
+        }
+      ]
+    },
+    "music/japanvoice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+        },
+        {
+          "t": "p",
+          "x": "일본 성우 쓰다 겐지로(Kenjiro Tsuda)는 한 TikTok 계정이 AI로 자신의 \"윤기 있는\" 바리톤 목소리를 복제했다고 주장했고, 도쿄 법원은 그의 손을 들어줬다. 선례가 될 이번 판결에서 법원은 사람의 목소리도 법의 보호를 받는다고 판단했다."
+        },
+        {
+          "t": "p",
+          "x": "'Yu-Gi-Oh!'의 카이바 세토(Seto Kaiba) 역으로 잘 알려진 Tsuda에 따르면 한 익명 계정이 2024년 7월부터 지난해 하반기까지 올린 영상 여러 편의 내레이션이 그의 목소리를 복제한 것이었다. TikTok에 영상 삭제를 명령해 달라는 요청은 계정이 이미 삭제됐다는 이유로 기각됐다."
+        },
+        {
+          "t": "p",
+          "x": "AFP 보도에 따르면 법원은 배우의 목소리를 허락 없이 쓰면 퍼블리시티권 침해로 봐야 한다고 판단했다. 일본에서 나온 첫 판결이다. TikTok은 재판에서 \"일반적인 남성 목소리\"가 쓰였다고 맞섰다."
+        },
+        {
+          "t": "p",
+          "x": "애니메이션 성우들 사이에서는 작품이나 초상이 AI 학습에 쓰이는 창작자를 더 보호해야 한다는 우려가 커지고 있다. 이번 판결은 그런 가운데 나왔다."
+        }
+      ]
     }
   }
 }

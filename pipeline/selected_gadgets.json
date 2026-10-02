@@ -1,115 +1,96 @@
 {
- "date": "2026-10-02",
- "section": "gadgets",
- "picks": [
-  {
-   "rank": 1,
-   "tool": "Gadgets",
-   "category": "gadgets",
-   "accent": "#ff5a4d",
-   "motif": "headset",
-   "headline": "Samsung FCC Approval Signals Gentle Monster & Warby Parker Smart Glasses Nearing Release",
-   "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
-   "source": "Road to VR",
-   "published_iso": "2026-10-01T09:00:17Z",
-   "og_image": "https://roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg",
-   "excerpt": "Samsung’s long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner. The News Two distinct SM-O200P and SM-O200J have appeared in FCC filings, which is typically one of the last steps before commercialization. Those two product codes indicate Warby Park",
-   "rationale": "Two concrete FCC filings (SM-O200P/J) for Samsung's first Android XR glasses. This is the single card for the Samsung glasses cluster."
-  },
-  {
-   "rank": 2,
-   "tool": "Gadgets",
-   "category": "gadgets",
-   "accent": "#2ec5c5",
-   "motif": "headset",
-   "headline": "Hearing tech startup Legato launches its AI hearing glasses",
-   "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-   "source": "TechCrunch",
-   "published_iso": "2026-10-01T13:00:00Z",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
-   "excerpt": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-   "rationale": "A new product launch of AI hearing-aid glasses. It is a different company and device from Meta's hearing feature (09-28)."
-  },
-  {
-   "rank": 3,
-   "tool": "Gadgets",
-   "category": "gadgets",
-   "accent": "#0070f3",
-   "motif": "headset",
-   "headline": "Google’s new Guided Vision feature can help you read the fine print",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-   "source": "The Verge",
-   "published_iso": "2026-10-01T19:47:51Z",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "Can you trust AI to see what’s going on around you?",
-   "rationale": "A new Gemini Live camera feature (Guided Vision) for reading the world around you. It is separate from the Live Avatar release on 09-25."
-  },
-  {
-   "rank": 4,
-   "tool": "Gadgets",
-   "category": "gadgets",
-   "accent": "#f5a623",
-   "motif": "headset",
-   "headline": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
-   "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
-   "source": "TechRadar",
-   "published_iso": "2026-10-01T20:00:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-   "excerpt": "Oura spots the changes, Xella tries to explain why",
-   "rationale": "A new Oura integration that pairs ring data with AI biomarker screening for 130+ conditions. It adds a wearables/health angle to the set."
-  },
-  {
-   "rank": 5,
-   "tool": "Gadgets",
-   "category": "gadgets",
-   "accent": "#eb367f",
-   "motif": "headset",
-   "headline": "Gemini for Home is now better at hearing you in noisy rooms",
-   "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
-   "source": "Android Authority",
-   "published_iso": "2026-09-30T20:58:51Z",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg",
-   "excerpt": "Google Home’s latest update makes Gemini faster and more reliable, while fixing lights, cameras, setup, and more.",
-   "rationale": "Google's third September Gemini for Home release improves voice pickup in noisy rooms and fixes several smart-home issues. It is a new shipped update that adds smart-home coverage and a fifth outlet."
+  "date": "2026-10-03",
+  "section": "gadgets",
+  "items": [
+    {
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "title": "Insta360 turns its action cameras into free 3D scanners — Spatial Capture tool uses Gaussian Splatting to build 3D models with 4 free renders a month",
+      "url": "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month",
+      "source": "TechRadar",
+      "published_iso": "2026-10-02T16:34:13Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb-2000-80.jpg",
+      "excerpt": "Insta360 has launched Spatial Capture, a free feature that uses 3D Gaussian Splatting to turn short 360 videos into explorable 3D models of indoor spaces.",
+      "rationale": "New free feature turns a consumer 360 camera into a Gaussian-splat 3D scanner, so designers get cheap room capture for spatial and interior work."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "published_iso": "2026-10-02T21:08:37+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "excerpt": "“Proceed at your own risk!”",
+      "rationale": "Concrete new release: Meta opens Home Link code so makers can build their own Muse-powered hardware, which opens a prototyping path for AI device designers."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse — new GB10 config starts at $4999 for those who can work with less",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-10-02T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB-2560-80.jpg",
+      "excerpt": "Less memory, lower price, otherwise identical",
+      "rationale": "New lower-priced 64GB DGX Spark config makes a local-AI desktop box more affordable for studios that run models on their own hardware."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "title": "Gemini fully replaces Google Assistant on Android",
+      "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
+      "source": "9to5Google",
+      "published_iso": "2026-09-28T20:48:08+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2018/01/google_assistant_logo_11.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "At the start of September, the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out.",
+      "rationale": "Platform milestone: Assistant is gone from Android phones and Gemini is now the default voice layer, which changes the baseline for anyone designing voice or assistant flows."
+    },
+    {
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "title": "Apple is reportedly building a smart home camera that won't record video footage of you or anyone else",
+      "url": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
+      "source": "Engadget",
+      "published_iso": "2026-10-02T13:44:31+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/l-intro-1790948027.jpg",
+      "excerpt": "The device will apparently use AI to analyze activity in your home without actually filming it.",
+      "rationale": "Newly reported Apple device that uses on-device AI to sense activity without storing footage, a privacy-by-design hardware pattern not covered before."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month": {
+        "verdict": "new",
+        "nearest": "https://www.notebookcheck.net/Acer-debuts-Aspire-G-3D-16-Glasses-free-3D-gaming-laptop-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.1385303.0.html",
+        "new_action": ""
+      },
+      "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link": {
+        "verdict": "follow-up",
+        "nearest": "https://www.androidauthority.com/meta-smart-glasses-muse-agent-leak-3714611/",
+        "new_action": "Meta released open-source Home Link code that lets makers build their own Muse AI gadgets. This is a new release, not the 09-24 glasses-assistant leak, the 09-23 0-day or the 09-25 keychain launch."
+      },
+      "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less": {
+        "verdict": "new",
+        "nearest": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
+        "new_action": ""
+      },
+      "https://9to5google.com/2026/09/28/google-assistant-gemini-android/": {
+        "verdict": "new",
+        "nearest": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
+        "new_action": ""
+      },
+      "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/": {
+        "verdict": "new",
+        "nearest": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped as repeats of published gadgets stories: Google Home Find My Phone update (same Google Home update run as 10-02 'Gemini for Home ... noisy rooms'); Apple Watch S12/Ultra 4 features (likely-repeat of 09-08); Apple homeOS and HomePad Oct 13 (rumor follow-ups of 09-22 'Apple Smart Home Display coming next month', no official release); Samsung Android XR glasses launch window (same story as 10-02 Samsung FCC smart glasses); CNET Qualcomm Adreno Neural Fusion (follow-up of 09-03 Neural Fusion and 09-23 Qualcomm flagship, no new release); UploadVR Meta Muse on glasses (same story as 09-24 Muse glasses leak; the Verge open-source release is kept instead); Notebookcheck Sony QSSR (games published it 10-02 via IGN). Not chosen on merit: Android Auto Gemini bug (minor), CNET weather voice test (evergreen comparison), Microsoft Oct 7 event preview (speculation), Xiaomi washer-dryer (weak AI angle), iPad 12 Apple Intelligence leak (code rumor), Body Proxy (would have made 2 Meta-glasses cards next to Muse). Nearest notes: for the Gemini-replaces-Assistant pick, history_match points to the XREAL hands-on, but the real related history is 09-05 'Gemini overlay bubble' and nothing on Assistant deprecation, so it is new. For the Apple camera pick, history_match is the roadtovr Meta camera-less glasses story; the closer one is 09-27 Verge 'Apple is making your security camera smarter' (software for third-party cameras, not a new Apple device). Cross-section: the Verge Muse open-source item is also in the design pool (vr) and should stay in gadgets only. Outlets: TechRadar, The Verge, Tom's Hardware, 9to5Google, Engadget (1 each)."
   }
- ],
- "dedup": {
-  "checks": {
-   "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/": {
-    "verdict": "new",
-    "nearest": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
-    "new_action": ""
-   },
-   "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/": {
-    "verdict": "new",
-    "nearest": "https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/",
-    "new_action": ""
-   },
-   "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision": {
-    "verdict": "new",
-    "nearest": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-    "new_action": ""
-   },
-   "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions": {
-    "verdict": "new",
-    "nearest": "",
-    "new_action": ""
-   },
-   "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/": {
-    "verdict": "follow-up",
-    "nearest": "https://www.androidauthority.com/google-home-gemini-upgrades-september-2026-3706505/",
-    "new_action": "A new Google Home release (the third September update, shipped 09-30) that improves Gemini's voice pickup in noisy rooms and speed, and fixes lights, cameras and setup. The 09-06 card covered an earlier, separate update."
-   }
-  },
-  "note": "Re-curation after a cross-section clash. Removed The Verge 'Sony brings AI graphics upscaling to the regular PS5' because the same QSSR story is published today in GAMES (IGN). Replacement: Android Authority Gemini for Home third September update, kept as a follow-up (a new shipped release, distinct from the 09-06 update card). Still dropped: UploadVR Meta camera-less glasses (likely-repeat of roadtovr 09-18). Also dropped 9to5Google Samsung XR November-launch report because it is in the same cluster as the Road to VR FCC pick. Dropped Verge 'Inside Microsoft's big Copilot rethink' (analysis piece; related to Ars Copilot+ PC 09-26). Dropped CNET Amazon driver glasses (privacy commentary on an ongoing rollout). Dropped the etnews AI-chip market piece (market trend). Dropped Tether offline translation (crypto PR, 9 days old). Passed over: Gemini replaces Assistant (rollout of an already-announced deprecation) and Android Auto Magic Cue (APK teardown, not a release; related to 09-20). Outlets: Road to VR, TechCrunch, The Verge, TechRadar, Android Authority (5 distinct)."
- },
- "dropped": [
-  {"url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr", "reason": "cross-section clash: same QSSR story published today in games (IGN)"},
-  {"url": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/", "reason": "likely-repeat of roadtovr 09-18 camera-less Meta glasses"},
-  {"url": "https://9to5google.com/2026/10/01/samsung-android-xr-glasses-release-date-report/", "reason": "same Samsung XR glasses cluster as the Road to VR FCC pick"},
-  {"url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad", "reason": "analysis/feature piece; related to Copilot+ PC card 09-26"},
-  {"url": "https://www.cnet.com/tech/amazon-delivery-driver-ai-smart-glasses-privacy/", "reason": "privacy commentary on an ongoing rollout, no new release"},
-  {"url": "https://www.etnews.com/20261001000279", "reason": "AI-chip market trend piece (business noise)"},
-  {"url": "https://www.techradar.com/pro/no-internet-no-problem-tether-just-released-free-ai-translation-models-that-work-offline-on-your-phone-and-laptop", "reason": "crypto-company model PR, 9 days old"}
- ]
 }

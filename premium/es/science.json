@@ -5885,6 +5885,138 @@
           "x": "No se hizo una comparación directa con patólogos humanos. Huang dijo: “Si supera a los patólogos no es la pregunta correcta. La pregunta es si, cuando los patólogos la usan junto con su propio criterio, detectan más casos y trabajan más rápido.” El siguiente experimento está diseñado para medir esa diferencia."
         }
       ]
+    },
+    "science/napoleon-cipher-gpt6astra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un ingeniero ha usado AI para romper un cifrado hasta ahora sin resolver que Napoleón Bonaparte empleaba para enviar mensajes secretos a sus generales, lo que ha permitido leer por primera vez una carta de 217 años."
+        },
+        {
+          "t": "p",
+          "x": "Carter Church, ingeniero de AI en SentinelOne, contó que dio a GPT-6 Astra, de OpenAI, un solo prompt y una sola imagen; unas seis horas después, la tarea estaba completa. La carta de 1809, enviada a petición de Napoleón por su hijastro Eugène al mariscal Auguste de Marmont en la costa del Adriático, indicaba las posiciones de los ejércitos franceses y aliados."
+        },
+        {
+          "t": "p",
+          "x": "A partir de un escaneo de baja resolución de 1969 con 155 signos distintos, el modelo transcribió el texto y, mediante su propia búsqueda en la web, encontró una tabla parcial del historiador de la criptología Daniel Tant que cubría 33 símbolos, y luego la usó para descifrar el resto."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+          "cap": "Auguste Frederic Louis Viesse de Marmont, el destinatario previsto del mensaje cifrado."
+        },
+        {
+          "t": "p",
+          "x": "\"Es un poco como una especie de piedra de Rosetta\", dijo Michael Rowe, historiador del King's College London, quien señaló que el resultado coincide con las instrucciones originales de Napoleón, por lo que revela poco nuevo. El resultado lo confirmó el criptógrafo Satoshi Tomokiyo, cuyo sitio Cryptiana ya incluye la carta como resuelta."
+        }
+      ]
+    },
+    "science/lmu-ai-consciousness-study": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las historias sobre una AI que engaña a los usuarios o persigue sus propios objetivos nos invitan a hablar de ella como si tuviera mente. Pero un nuevo estudio de la LMU publicado en Cognition sugiere que las personas trazan una línea sorprendentemente nítida entre el comportamiento inteligente y la conciencia."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+          "cap": "Hipótesis, diseño experimental y resumen del estudio. Crédito: Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
+        },
+        {
+          "t": "p",
+          "x": "Dirigido por el Dr. Louis Longin, el equipo realizó experimentos con casi 1,100 participantes que leyeron escenarios en los que una AI o un humano respondía más o menos a su entorno, y luego evaluaron cuán consciente o atento a lo que lo rodeaba era el protagonista."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes más receptivos fueron considerados más conscientes y atentos. Pero incluso la AI más receptiva fue juzgada menos consciente que el humano menos receptivo, mientras que las valoraciones de la percepción del entorno siguieron un patrón muy similar para la AI y los humanos."
+        },
+        {
+          "t": "p",
+          "x": "\"La gente está bastante dispuesta a decir que una AI se fija en las cosas y percibe su entorno. Pero traza claramente una línea cuando se trata del término 'conciencia'\", dice Longin. El autor sénior, Bahador Bahrami, afirma que los hallazgos muestran por qué importa el lenguaje que se elige para hablar de la AI."
+        }
+      ]
+    },
+    "science/antarctica-moss-geoai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un nuevo estudio dirigido por la University of Wollongong y publicado en ISPRS Journal of Photogrammetry and Remote Sensing ofrece una nueva forma de seguir la vida en uno de los entornos más remotos de la Tierra."
+        },
+        {
+          "t": "p",
+          "x": "Combinando estudios sobre el terreno, imágenes de drones, datos satelitales e inteligencia artificial, los investigadores de SAEF crearon un marco de AI geoespacial de extremo a extremo para elaborar mapas multiescala y a largo plazo de los ecosistemas de la Antártida, desde parches de musgo hasta vastos paisajes helados."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+          "cap": "El paisaje del Canada Glacier, en los McMurdo Dry Valleys de la Antártida, donde se realizó la investigación de campo. Crédito: University of Wollongong"
+        },
+        {
+          "t": "p",
+          "x": "Los musgos, líquenes y cianobacterias antárticos crecen en parches pequeños y fragmentados. \"Nuestra idea era conectar estas distintas escalas, usando observaciones de campo detalladas para orientar el mapeo con drones, y luego usar esas observaciones obtenidas con drones para respaldar el monitoreo a escala satelital\", dijo el autor principal, el Dr. Narmilan Amarasingam."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+          "cap": "Crédito: University of Wollongong"
+        },
+        {
+          "t": "p",
+          "x": "El equipo desarrolló y probó el marco durante siete años en el Canada Glacier. Seguir la vegetación a lo largo de los años ayuda a distinguir la variación a corto plazo del cambio a largo plazo. \"El objetivo no es reemplazar el trabajo de campo\", dijo Amarasingam."
+        }
+      ]
+    },
+    "science/speech-clock-voice-aging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una nueva herramienta de AI que analiza cientos de patrones del habla y del lenguaje estima la edad de una persona a partir de su forma de hablar, y podría dar pistas sobre cómo está envejeciendo y si corre riesgo de demencia, según sugiere un estudio publicado en Science Advances."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores usaron grabaciones de más de 2,900 adultos hispanohablantes de cinco países de América Latina y extrajeron más de 700 rasgos, como las pausas, la velocidad, el tono y el vocabulario, para entrenar un modelo de aprendizaje automático y calcular una \"brecha entre habla y edad\"."
+        },
+        {
+          "t": "p",
+          "x": "Las personas cuya habla sonaba más vieja que su edad tenían más probabilidades de presentar problemas cognitivos, demencia y signos de envejecimiento biológico acelerado según relojes epigenéticos, así como circunstancias sociales y económicas menos favorables."
+        },
+        {
+          "t": "p",
+          "x": "Los expertos advierten que no es una bola de cristal. El habla puede sonar más vieja por depresión o estrés, el estudio midió a la mayoría de las personas en un solo momento y el modelo solo se ha probado en español. El equipo planea ahora probarlo en otros idiomas y hacer un seguimiento de las personas a lo largo del tiempo."
+        }
+      ]
+    },
+    "science/uclaoptical": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de UCLA han creado un procesador óptico-neuronal que utiliza la luz para ayudar a identificar videos deepfake. A diferencia de los sistemas convencionales, que examinan los videos uno tras otro en hardware digital, puede analizar 15 o más flujos de video al mismo tiempo, porque parte de la detección ocurre mediante la propagación física de la luz. El estudio se publicó en eLight."
+        },
+        {
+          "t": "p",
+          "x": "Un codificador digital ligero extrae rasgos espaciales, espectrales y temporales de cada video y los muestra como un patrón de fase en un modulador espacial de luz; después, un decodificador óptico pasivo genera una puntuación de autenticidad para cada video."
+        },
+        {
+          "t": "p",
+          "x": "Al analizar 15 videos de Celeb-DF por pasada óptica, el sistema alcanzó una precisión media del 97.79% y una sensibilidad del 99.86%, y del 96.13% con 18 videos. Con un ajuste fino mínimo logró un 94.80% de precisión en videos inéditos de Google VEO-3 y resistió ataques adversarios de caja negra."
+        },
+        {
+          "t": "p",
+          "x": "El equipo del profesor Aydogan Ozcan lo concibe como una primera línea de defensa de alto rendimiento, que deriva el contenido sospechoso a modelos digitales más exigentes para una evaluación final."
+        }
+      ]
     }
   }
 }

@@ -953,19 +953,19 @@
         },
         {
           "t": "p",
-          "x": "일본 성우 쓰다 겐지로(Kenjiro Tsuda)는 한 TikTok 계정이 AI로 자신의 \"윤기 있는\" 바리톤 목소리를 복제했다고 주장했고, 도쿄 법원은 그의 손을 들어줬다. 선례가 될 이번 판결에서 법원은 사람의 목소리도 법의 보호를 받는다고 판단했다."
+          "x": "A Tokyo court has sided with Japanese voice actor Kenjiro Tsuda, who claimed a TikTok account had used AI to clone his \"lustrous\" baritone delivery, ruling that the human voice is protected by law in a landmark case."
         },
         {
           "t": "p",
-          "x": "'Yu-Gi-Oh!'의 카이바 세토(Seto Kaiba) 역으로 잘 알려진 Tsuda에 따르면 한 익명 계정이 2024년 7월부터 지난해 하반기까지 올린 영상 여러 편의 내레이션이 그의 목소리를 복제한 것이었다. TikTok에 영상 삭제를 명령해 달라는 요청은 계정이 이미 삭제됐다는 이유로 기각됐다."
+          "x": "Tsuda, best known as Seto Kaiba in Yu-Gi-Oh!, said the narrator of several videos posted by an anonymous account between July 2024 and the second half of last year was cloned from his voice. His request to order TikTok to remove the videos was dismissed, as the account has already been deleted."
         },
         {
           "t": "p",
-          "x": "AFP 보도에 따르면 법원은 배우의 목소리를 허락 없이 쓰면 퍼블리시티권 침해로 봐야 한다고 판단했다. 일본에서 나온 첫 판결이다. TikTok은 재판에서 \"일반적인 남성 목소리\"가 쓰였다고 맞섰다."
+          "x": "The court said using an actor's voice without permission should be deemed an infringement on their publicity rights, as reported by AFP — the first case of its kind in Japan. TikTok had argued in court that a \"generic male voice\" was used."
         },
         {
           "t": "p",
-          "x": "애니메이션 성우들 사이에서는 작품이나 초상이 AI 학습에 쓰이는 창작자를 더 보호해야 한다는 우려가 커지고 있다. 이번 판결은 그런 가운데 나왔다."
+          "x": "The ruling lands amid growing concern among anime voice actors that more must be done to protect creators whose work or likeness is ingested by AI."
         }
       ]
     },
@@ -5975,6 +5975,106 @@
         {
           "t": "p",
           "x": "Prime 4 G2 is available now, priced at $2,599 USD / €2,699.99 / £2,299.99."
+        }
+      ]
+    },
+    "music/stability-ai-sean-parker-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Sean Parker, the Napster co-founder, has jumped back into the music industry, and he tells The Information that he's playing by the rules this time. (Asking for forgiveness rather than permission didn't work out so well last time around, he readily concedes.)"
+        },
+        {
+          "t": "p",
+          "x": "Two years ago, he joined an $80 million rescue of Stability AI, the image-generator startup that nearly collapsed after overspending and internal turmoil led to founder Emad Mostaque's ouster. Now Parker and his longtime friend Prem Akkaraju, who became CEO, are taking the wraps off what they've been building."
+        },
+        {
+          "t": "p",
+          "x": "The big idea, Parker says, is to turn Stability into the go-to AI toolmaker for music professionals. Toward that end, in late August, the company announced $76 million in funding from, among others, Sony, Warner, and Universal, which also licensed their catalogs for training as part of the deal. Stability has since released three new audio models and AI music-editing software. The AI can generate whole instrumental tracks or short snippets from text prompts. Parker says an upcoming update will let users hum a melody or beatbox a drum pattern to steer it."
+        }
+      ]
+    },
+    "music/questlove-sampling-ai": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "T8TFsrsEx_o"
+        },
+        {
+          "t": "p",
+          "x": "On Billboard On the Record, Questlove traces sampling from the Fairlight and Marley Marl to Public Enemy's It Takes a Nation of Millions to Hold Us Back, his 1988 \"Eureka moment,\" and asks how microchopping, catalog sales and generative AI may pose new opportunities or risks to the art form."
+        },
+        {
+          "t": "p",
+          "x": "\"Between 1988 and 1991, it was the Wild West. No one was policing us,\" he says, until the Biz Markie lawsuit made permission the rule."
+        },
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "\"There's always a debate about AI versus making something yourself — microwaving versus cooking a full meal. To me, there has always been magic in imperfection.\""
+        },
+        {
+          "t": "p",
+          "x": "Sonically he is \"not there yet\" on AI music because of its digital distortion, though models may perfect it in ten years. \"But I see AI as a parallel to sampling culture.\""
+        },
+        {
+          "t": "p",
+          "x": "\"If you're building an AI system, you should be transparent about the material used to build the platform, and there should be compensation for it.\""
+        }
+      ]
+    },
+    "music/lyricfind-ai-lyrics-long-tail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In an op-ed, LyricFind founder and CEO Darryl Ballantyne argues that while generative AI needs licensing, transparency and guardrails, AI in lyrics, rights data and metadata can help existing works earn more."
+        },
+        {
+          "t": "p",
+          "x": "Lyric royalties are usage-driven, so gaps in availability mean fewer displays and less money for rightsholders. Manual transcription, sync and translation set a break-even point that limited how deep into the catalogue the industry could go."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Per Luminate, 9.6M songs were streamed 10,000 to 500,000 times in 2025, over 13% of global stream volume. LyricFind uses AI for first-pass transcription, then word-by-word sync and translation, with humans verifying throughout."
+        },
+        {
+          "t": "p",
+          "x": "Making staff three or four times more efficient grows viable content by about 700%, he says, so it makes sense to double the human team. Even a 99% accurate system on 100 million lyrics would leave a million errors."
+        }
+      ]
+    },
+    "music/suno-v6-take-me-back-video": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "1OITvfAN6-g"
+        },
+        {
+          "t": "p",
+          "x": "Go behind the scenes with Braylon Browner and Emmy award winning choreographer/director Nina McNeely to see what it takes to go from dance, to song, to complete creative world built around movement."
+        },
+        {
+          "t": "p",
+          "x": "\"It's amazing to be able to edit the music as you go,\" Browner says, so that dance and music \"really meet together and work perfectly in harmony.\" McNeely adds that Suno \"is giving the choreographers the power back to change the song to match our choreographic ideas.\""
+        },
+        {
+          "t": "p",
+          "x": "Watch the complete music video at suno.com/braylon"
         }
       ]
     }

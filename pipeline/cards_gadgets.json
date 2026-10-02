@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-samsung-glasses-fcc",
+      "id": "insta360-spatial-capture",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Samsung 스마트 안경\nFCC 테스트 통과",
-      "body": "Samsung 안경 SM-O200P와 SM-O200J가 FCC 문서에 올랐다.",
-      "mini_headline": "Samsung 안경, FCC 통과",
+      "headline": "Insta360 카메라가\n무료 3D 공간 스캐너로",
+      "body": "무료 Spatial Capture가 360 영상을 실내 3D 모델로 바꿔 준다.",
+      "mini_headline": "Insta360, 무료 3D 스캔 추가",
       "tool": "Gadgets",
-      "source": "Road to VR",
-      "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,197 +19,257 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+            "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+            "cap": "이미지 출처: Insta360"
           },
           {
             "t": "p",
-            "x": "오랫동안 기다려온 Samsung 스마트 안경이 FCC 테스트를 통과했다. 출시가 머지않았다는 신호다. FCC 서류에는 SM-O200P와 SM-O200J, 두 모델이 올라왔다. 보통 상용화 직전 마지막 단계 중 하나다."
+            "x": "Insta360이 무료 기능 Spatial Capture를 내놨다. 360 영상을 실제 공간의 정밀한 3D 모델로 바꿔, 그 안을 돌아다니며 볼 수 있게 해 준다. 아직 베타이고, 지금은 Insta360 X6와 X4 Air, X5를 비롯해 5.7K 영상을 30fps 이상으로 찍을 수 있는 이 회사 360 카메라라면 모두 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "양산 전 모델에서 확인된 대로 두 제품 코드는 각각 Warby Parker와 Gentle Monster 프레임을 가리킨다. 코드마다 여러 프레임 스타일이 붙을 예정인데, Warby Parker가 세 가지, Gentle Monster가 (현재까지) 두 가지다."
+            "x": "Spatial Capture의 바탕은 3D Gaussian Splatting(3DGS)이다. 소프트웨어가 매 순간 카메라 위치를 계산한 다음, 작고 반투명한 점 수백만 개로 장면을 다시 짜 맞춘다. 덕분에 카메라가 한 번도 놓인 적 없는 각도에서도 사실적인 3D 장면을 볼 수 있다."
+          },
+          {
+            "t": "video",
+            "yt": "HOBZMKxbHKw"
+          },
+          {
+            "t": "p",
+            "x": "클라우드 플랫폼 Splatica는 월 $49.95부터고, Spatial Capture는 매달 4회 무료 생성을 준다. Insta360 설명으로는 전문가용 Splatica가 더 높은 품질을 내는 반면, 일반 사용자용인 Spatial Capture는 2분짜리 영상을 약 8시간이 아니라 1~2시간 만에 렌더링한다."
+          },
+          {
+            "t": "p",
+            "x": "2분 이하 클립을 찍으면 처리는 클라우드에서 한다. Insta360이 권장하는 곳은 조명이 밝은 100제곱미터 이하의 실내다. 풍경보다는 방에 맞춘 기능으로 보인다. 장면은 브라우저 링크로 공유할 수 있지만, 파일로 내보내는 기능은 아직 없다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+            "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+            "cap": "이미지 출처: Insta360"
           },
           {
             "t": "p",
-            "x": "Samsung과 Google이 함께 만든 이 안경은 Android XR을 처음 탑재하는 제품이 될 예정이다. 카메라와 마이크, 귀를 막지 않는 스피커를 갖춰 통화하고 팟캐스트를 듣고 Google Gemini와 대화할 수 있다. Snapdragon AR1 Gen 1 칩셋에 표시 LED가 달린 12MP 카메라 한 대를 쓰고, 한 번 충전하면 최대 9시간 쓴다고 알려졌다. 2026년 가을이라는 출시 시기 말고는 가격도 출시일도 나오지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하고, 카메라 달린 안경을 두고 Meta가 받아온 대중의 시선도 똑같이 감당해야 한다고 짚었다."
+            "x": "리뷰어가 X6로 직접 찍은 테스트 클립은 업로드에 두 번이나 실패했다. 베타라면 겪을 법한 초기 문제다. 그래도 비싼 카메라의 가치를 높여 주는 반가운 무료 기능이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Samsung smart glasses\nclear FCC testing",
-          "body": "Samsung models SM-O200P and SM-O200J appear in FCC filings, pointing to Warby Parker and Gentle Monster frames.",
-          "mini_headline": "Samsung glasses clear FCC",
+          "headline": "Insta360 cameras become\nfree 3D room scanners",
+          "body": "Insta360's free Spatial Capture uses Gaussian Splatting to turn 360 videos into explorable 3D models of indoor spaces.",
+          "mini_headline": "Insta360 adds free 3D scanning",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+                "cap": "Image credit: Insta360"
               },
               {
                 "t": "p",
-                "x": "Samsung's long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner. Two distinct models, SM-O200P and SM-O200J, have appeared in FCC filings, typically one of the last steps before commercialization."
+                "x": "Insta360 has launched Spatial Capture, a free feature that turns 360 video into a detailed 3D model of a real space that you can move around in. It's still in beta, available now for the Insta360 X6 and any of the company's 360 cameras that can shoot 5.7K video at 30fps or above, including the X4 Air and X5."
               },
               {
                 "t": "p",
-                "x": "The two product codes indicate Warby Parker and Gentle Monster frames, respectively, as seen on pre-production models. Multiple frame styles will use those codes: three from Warby Parker and two (so far) from Gentle Monster."
+                "x": "Spatial Capture is built on 3D Gaussian Splatting (3DGS): software works out where the camera was at each moment, then rebuilds the scene from millions of tiny, semi-transparent blobs. The result is a photorealistic 3D scene viewable from angles the camera never occupied."
+              },
+              {
+                "t": "video",
+                "yt": "HOBZMKxbHKw"
+              },
+              {
+                "t": "p",
+                "x": "Cloud platform Splatica starts at $49.95 a month; Spatial Capture gives you four free generations a month. Insta360 says Splatica produces higher-quality results for professionals, while Spatial Capture is meant for casual users and renders a two-minute video in one to two hours versus around eight."
+              },
+              {
+                "t": "p",
+                "x": "You record a clip of two minutes or less, and processing happens in the cloud. Insta360 recommends well-lit indoor spaces up to 100 square meters, so it looks designed for rooms rather than landscapes. Scenes can be shared via a browser link, but can't yet be exported as files."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+                "cap": "Image credit: Insta360"
               },
               {
                 "t": "p",
-                "x": "Built with Samsung and Google, the glasses are set to be the first to run Android XR, with onboard cameras, microphones and off-ear speakers for calls, podcasts and interacting with Google Gemini. They are said to use a Snapdragon AR1 Gen 1 chipset, a single 12MP camera with indicator LED, and up to 9 hours of use per charge. No pricing or launch date has been announced outside the Fall 2026 window."
-              },
-              {
-                "t": "p",
-                "x": "Road to VR notes Samsung will face Meta's multi-year lead, and the same public scrutiny over camera-clad glasses that Meta has drawn."
+                "x": "The reviewer's own X6 test clip failed to upload twice — the kind of teething problem you'd expect from a beta — but it's a welcome freebie that adds value to a pricey camera."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Samsung 스마트 안경\nFCC 테스트 통과",
-          "body": "Samsung 안경 SM-O200P와 SM-O200J가 FCC 문서에 올랐다.",
-          "mini_headline": "Samsung 안경, FCC 통과",
+          "headline": "Insta360 카메라가\n무료 3D 공간 스캐너로",
+          "body": "무료 Spatial Capture가 360 영상을 실내 3D 모델로 바꿔 준다.",
+          "mini_headline": "Insta360, 무료 3D 스캔 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+                "cap": "이미지 출처: Insta360"
               },
               {
                 "t": "p",
-                "x": "오랫동안 기다려온 Samsung 스마트 안경이 FCC 테스트를 통과했다. 출시가 머지않았다는 신호다. FCC 서류에는 SM-O200P와 SM-O200J, 두 모델이 올라왔다. 보통 상용화 직전 마지막 단계 중 하나다."
+                "x": "Insta360이 무료 기능 Spatial Capture를 내놨다. 360 영상을 실제 공간의 정밀한 3D 모델로 바꿔, 그 안을 돌아다니며 볼 수 있게 해 준다. 아직 베타이고, 지금은 Insta360 X6와 X4 Air, X5를 비롯해 5.7K 영상을 30fps 이상으로 찍을 수 있는 이 회사 360 카메라라면 모두 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "양산 전 모델에서 확인된 대로 두 제품 코드는 각각 Warby Parker와 Gentle Monster 프레임을 가리킨다. 코드마다 여러 프레임 스타일이 붙을 예정인데, Warby Parker가 세 가지, Gentle Monster가 (현재까지) 두 가지다."
+                "x": "Spatial Capture의 바탕은 3D Gaussian Splatting(3DGS)이다. 소프트웨어가 매 순간 카메라 위치를 계산한 다음, 작고 반투명한 점 수백만 개로 장면을 다시 짜 맞춘다. 덕분에 카메라가 한 번도 놓인 적 없는 각도에서도 사실적인 3D 장면을 볼 수 있다."
+              },
+              {
+                "t": "video",
+                "yt": "HOBZMKxbHKw"
+              },
+              {
+                "t": "p",
+                "x": "클라우드 플랫폼 Splatica는 월 $49.95부터고, Spatial Capture는 매달 4회 무료 생성을 준다. Insta360 설명으로는 전문가용 Splatica가 더 높은 품질을 내는 반면, 일반 사용자용인 Spatial Capture는 2분짜리 영상을 약 8시간이 아니라 1~2시간 만에 렌더링한다."
+              },
+              {
+                "t": "p",
+                "x": "2분 이하 클립을 찍으면 처리는 클라우드에서 한다. Insta360이 권장하는 곳은 조명이 밝은 100제곱미터 이하의 실내다. 풍경보다는 방에 맞춘 기능으로 보인다. 장면은 브라우저 링크로 공유할 수 있지만, 파일로 내보내는 기능은 아직 없다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+                "cap": "이미지 출처: Insta360"
               },
               {
                 "t": "p",
-                "x": "Samsung과 Google이 함께 만든 이 안경은 Android XR을 처음 탑재하는 제품이 될 예정이다. 카메라와 마이크, 귀를 막지 않는 스피커를 갖춰 통화하고 팟캐스트를 듣고 Google Gemini와 대화할 수 있다. Snapdragon AR1 Gen 1 칩셋에 표시 LED가 달린 12MP 카메라 한 대를 쓰고, 한 번 충전하면 최대 9시간 쓴다고 알려졌다. 2026년 가을이라는 출시 시기 말고는 가격도 출시일도 나오지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하고, 카메라 달린 안경을 두고 Meta가 받아온 대중의 시선도 똑같이 감당해야 한다고 짚었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Samsungの眼鏡型端末\nFCC試験を通過",
-          "body": "SamsungのSM-O200PとSM-O200JがFCC文書に登場した。",
-          "mini_headline": "Samsung眼鏡がFCC通過",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "待望のSamsungスマートグラスがFCCの試験を通過し、発売が目前に迫っていることがうかがえる。FCCの書類にはSM-O200PとSM-O200Jという2つのモデルが登場した。これは通常、商用化前の最終段階の一つである。"
-              },
-              {
-                "t": "p",
-                "x": "2つの製品コードは、量産前モデルで確認されたとおり、それぞれWarby ParkerとGentle Monsterのフレームを示している。これらのコードは複数のフレームスタイルで使われ、Warby Parkerが3種類、Gentle Monsterが(現時点で)2種類となる。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "SamsungとGoogleが共同で開発したこのグラスは、Android XRを搭載する初の製品となる予定だ。カメラ、マイク、耳をふさがないスピーカーを備え、通話やポッドキャスト、Google Geminiとのやり取りに対応する。Snapdragon AR1 Gen 1チップセット、インジケーターLED付きの12MPカメラ1基を採用し、1回の充電で最大9時間使えるとされる。2026年秋という時期以外に、価格や発売日は発表されていない。"
-              },
-              {
-                "t": "p",
-                "x": "Road to VRは、Samsungが数年先行するMetaと競うことになり、カメラ付きグラスをめぐってMetaが受けてきたのと同じ世間の厳しい目にもさらされると指摘している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Samsung智能眼镜\n通过FCC测试",
-          "body": "Samsung两款眼镜SM-O200P与SM-O200J现身FCC文件。",
-          "mini_headline": "Samsung眼镜通过FCC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "备受期待的Samsung智能眼镜已通过FCC测试，意味着发布在即。SM-O200P和SM-O200J两款不同型号出现在FCC文件中，这通常是商业化之前的最后步骤之一。"
-              },
-              {
-                "t": "p",
-                "x": "从试产机型来看，这两个产品代码分别对应Warby Parker和Gentle Monster镜框。多种镜框款式将共用这些代码：Warby Parker有三款，Gentle Monster（目前）有两款。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "这款眼镜由Samsung与Google联合打造，将成为首款运行Android XR的产品，配备摄像头、麦克风和开放式扬声器，可用于通话、收听播客以及与Google Gemini互动。据悉，它采用Snapdragon AR1 Gen 1芯片组、一颗带指示LED的12MP摄像头，单次充电最多可使用9小时。除2026年秋季这一时间窗口外，价格和发布日期均未公布。"
-              },
-              {
-                "t": "p",
-                "x": "Road to VR指出，Samsung将面对领先多年的Meta，也将受到Meta此前因带摄像头眼镜而遭遇的同样公众审视。"
+                "x": "리뷰어가 X6로 직접 찍은 테스트 클립은 업로드에 두 번이나 실패했다. 베타라면 겪을 법한 초기 문제다. 그래도 비싼 카메라의 가치를 높여 주는 반가운 무료 기능이다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Gafas inteligentes de Samsung\nsuperan las pruebas de la FCC",
-          "body": "Los modelos SM-O200P y SM-O200J de Samsung aparecen en la FCC y apuntan a monturas de Warby Parker y Gentle Monster.",
-          "mini_headline": "Las gafas de Samsung pasan la FCC",
+          "headline": "Las cámaras Insta360 se vuelven\nescáneres 3D gratuitos",
+          "body": "Spatial Capture, gratuito de Insta360, usa Gaussian Splatting para convertir videos 360 en modelos 3D de interiores.",
+          "mini_headline": "Insta360 suma escaneo 3D gratuito",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+                "cap": "Crédito de la imagen: Insta360"
               },
               {
                 "t": "p",
-                "x": "Las esperadas gafas inteligentes de Samsung han superado las pruebas de la FCC, lo que sugiere que su lanzamiento está muy cerca. Dos modelos distintos, SM-O200P y SM-O200J, han aparecido en registros de la FCC, que suelen ser uno de los últimos pasos antes de la comercialización."
+                "x": "Insta360 lanzó Spatial Capture, una función gratuita que convierte video 360 en un modelo 3D detallado de un espacio real por el que es posible desplazarse. Todavía está en beta y ya está disponible para la Insta360 X6 y para cualquiera de las cámaras 360 de la compañía que graben video 5.7K a 30fps o más, incluidas la X4 Air y la X5."
               },
               {
                 "t": "p",
-                "x": "Los dos códigos de producto corresponden, respectivamente, a monturas de Warby Parker y Gentle Monster, como se ha visto en modelos de preproducción. Varios estilos de montura usarán esos códigos: tres de Warby Parker y dos (por ahora) de Gentle Monster."
+                "x": "Spatial Capture se basa en 3D Gaussian Splatting (3DGS): el software calcula dónde estaba la cámara en cada momento y luego reconstruye la escena a partir de millones de pequeñas manchas semitransparentes. El resultado es una escena 3D fotorrealista que puede verse desde ángulos que la cámara nunca ocupó."
+              },
+              {
+                "t": "video",
+                "yt": "HOBZMKxbHKw"
+              },
+              {
+                "t": "p",
+                "x": "La plataforma en la nube Splatica parte de $49.95 al mes; Spatial Capture ofrece cuatro generaciones gratuitas al mes. Insta360 afirma que Splatica produce resultados de mayor calidad para profesionales, mientras que Spatial Capture está pensada para usuarios ocasionales y procesa un video de dos minutos en una o dos horas, frente a unas ocho."
+              },
+              {
+                "t": "p",
+                "x": "Se graba un clip de dos minutos o menos y el procesamiento se hace en la nube. Insta360 recomienda espacios interiores bien iluminados de hasta 100 metros cuadrados, por lo que parece pensada para habitaciones más que para paisajes. Las escenas se pueden compartir mediante un enlace en el navegador, pero aún no se pueden exportar como archivos."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+                "cap": "Crédito de la imagen: Insta360"
               },
               {
                 "t": "p",
-                "x": "Desarrolladas por Samsung y Google, las gafas serán las primeras en ejecutar Android XR, con cámaras, micrófonos y altavoces fuera del oído para llamadas, pódcast e interacción con Google Gemini. Según se informa, usarán un chipset Snapdragon AR1 Gen 1, una única cámara de 12MP con LED indicador y hasta 9 horas de uso por carga. No se han anunciado precio ni fecha de lanzamiento más allá de la ventana de otoño de 2026."
+                "x": "El clip de prueba que el autor de la reseña grabó con su X6 no se pudo subir en dos ocasiones —el tipo de problema inicial esperable en una beta—, pero es un añadido gratuito bienvenido que suma valor a una cámara costosa."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Insta360のカメラが\n無料の3D部屋スキャナーに",
+          "body": "Insta360の無料機能は、360度動画から歩き回れる屋内3Dモデルを作る。",
+          "mini_headline": "Insta360、無料3Dスキャンを追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+                "cap": "画像提供：Insta360"
               },
               {
                 "t": "p",
-                "x": "Road to VR señala que Samsung tendrá que enfrentarse a la ventaja de varios años de Meta y al mismo escrutinio público sobre las gafas con cámara que ha recibido Meta."
+                "x": "Insta360は、360度動画を実在の空間の精細な3Dモデルに変換し、その中を動き回れる無料機能Spatial Captureを公開した。まだベータ版で、Insta360 X6のほか、X4 AirやX5を含め、5.7K 動画を30fps以上で撮影できる同社の360度カメラで利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "Spatial Captureは3D Gaussian Splatting（3DGS）を基盤とする。ソフトウェアが各瞬間のカメラ位置を割り出し、数百万個の小さな半透明の粒でシーンを再構築する。その結果、カメラが実際には置かれていなかった角度からも眺められる、写実的な3Dシーンが得られる。"
+              },
+              {
+                "t": "video",
+                "yt": "HOBZMKxbHKw"
+              },
+              {
+                "t": "p",
+                "x": "クラウドプラットフォームSplaticaは月額$49.95からだが、Spatial Captureでは月に四回まで無料で生成できる。Insta360によれば、Splaticaはプロ向けにより高品質な結果を出す一方、Spatial Captureは一般ユーザー向けで、二分の動画を約八時間ではなく一〜二時間でレンダリングする。"
+              },
+              {
+                "t": "p",
+                "x": "撮影するのは二分以内のクリップで、処理はクラウドで行われる。Insta360は100平方メートルまでの明るい屋内空間を推奨しており、風景よりも部屋向けに設計されているようだ。シーンはブラウザのリンクで共有できるが、ファイルとしての書き出しにはまだ対応していない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+                "cap": "画像提供：Insta360"
+              },
+              {
+                "t": "p",
+                "x": "レビュアー自身のX6によるテストクリップは二度アップロードに失敗した。ベータ版にありがちな初期不良だが、高価なカメラに価値を加える歓迎すべき無料機能だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Insta360相机变身\n免费3D房间扫描仪",
+          "body": "Insta360推出免费功能，可将360度视频转为可漫游的室内3D模型。",
+          "mini_headline": "Insta360新增免费3D扫描",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+                "cap": "图片来源：Insta360"
+              },
+              {
+                "t": "p",
+                "x": "Insta360推出了免费功能Spatial Capture，可将360度视频转换为真实空间的精细3D模型，并能在其中自由移动。该功能仍处于测试阶段，现已支持Insta360 X6，以及能以30fps或更高帧率拍摄5.7K 视频的该公司任意360度相机，包括X4 Air和X5。"
+              },
+              {
+                "t": "p",
+                "x": "Spatial Capture基于3D Gaussian Splatting（3DGS）技术：软件先推算出相机在每个时刻的位置，再用数百万个微小的半透明斑点重建场景。最终得到一个逼真的3D场景，可以从相机从未到过的角度观看。"
+              },
+              {
+                "t": "video",
+                "yt": "HOBZMKxbHKw"
+              },
+              {
+                "t": "p",
+                "x": "云平台Splatica月费$49.95起；Spatial Capture则每月提供四次免费生成。Insta360表示，Splatica面向专业用户，生成质量更高；Spatial Capture则面向普通用户，渲染一段两分钟视频只需一到两小时，而前者约需八小时。"
+              },
+              {
+                "t": "p",
+                "x": "用户需录制两分钟以内的片段，处理在云端完成。Insta360建议在光线充足、面积不超过100平方米的室内空间使用，看来它是为房间而非风景设计的。场景可通过浏览器链接分享，但暂时还不能导出为文件。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+                "cap": "图片来源：Insta360"
+              },
+              {
+                "t": "p",
+                "x": "评测者用自己的X6拍摄的测试片段两次上传失败——这是测试版常见的小毛病——但作为一项免费功能，它为一款价格不菲的相机增添了价值。"
               }
             ]
           }
@@ -217,137 +277,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Samsung 스마트 안경\nFCC 테스트 통과",
-          "body": "Samsung 안경 SM-O200P와 SM-O200J가 FCC 문서에 올랐다.",
-          "mini_headline": "Samsung 안경, FCC 통과",
+          "headline": "Insta360 카메라가\n무료 3D 공간 스캐너로",
+          "body": "무료 Spatial Capture는 360 영상을 실내 3D 모델로 바꾼다.",
+          "mini_headline": "Insta360, 무료 3D 스캔 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+                "cap": "이미지 출처: Insta360"
               },
               {
                 "t": "p",
-                "x": "오랫동안 기다려온 Samsung 스마트 안경이 FCC 테스트를 통과하면서 출시가 임박했음을 시사한다. FCC 서류에는 SM-O200P와 SM-O200J라는 서로 다른 두 모델이 등장했는데, 이는 보통 상용화 직전의 마지막 단계 중 하나다."
+                "x": "Insta360이 360 영상을 실제 공간의 정밀한 3D 모델로 바꿔 그 안을 돌아다닐 수 있게 하는 무료 기능 Spatial Capture를 출시했다. 아직 베타 단계이며, 지금은 Insta360 X6와 X4 Air, X5를 포함해 5.7K 영상을 30fps 이상으로 촬영할 수 있는 이 회사의 모든 360 카메라에서 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "두 제품 코드는 양산 전 모델에서 확인된 대로 각각 Warby Parker와 Gentle Monster 프레임을 가리킨다. 이 코드는 여러 프레임 스타일에 쓰일 예정이며, Warby Parker가 세 가지, Gentle Monster가 (현재까지) 두 가지다."
+                "x": "Spatial Capture는 3D Gaussian Splatting(3DGS)을 기반으로 한다. 소프트웨어가 순간마다 카메라의 위치를 계산한 뒤, 수백만 개의 작고 반투명한 점으로 장면을 다시 짜 맞춘다. 그 결과 카메라가 한 번도 놓이지 않았던 각도에서도 볼 수 있는 사실적인 3D 장면이 만들어진다."
+              },
+              {
+                "t": "video",
+                "yt": "HOBZMKxbHKw"
+              },
+              {
+                "t": "p",
+                "x": "클라우드 플랫폼 Splatica는 월 $49.95부터 시작하고, Spatial Capture는 매달 4회 무료 생성을 제공한다. Insta360은 Splatica가 전문가용으로 더 높은 품질의 결과물을 내는 반면, Spatial Capture는 일반 사용자를 위한 기능으로 2분짜리 영상을 약 8시간이 아닌 1~2시간 만에 렌더링한다고 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "2분 이하의 클립을 촬영하면 처리는 클라우드에서 이뤄진다. Insta360은 조명이 밝은 100제곱미터 이하의 실내 공간을 권장하는데, 풍경보다는 방을 위해 설계된 것으로 보인다. 장면은 브라우저 링크로 공유할 수 있지만 아직 파일로 내보낼 수는 없다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+                "cap": "이미지 출처: Insta360"
               },
               {
                 "t": "p",
-                "x": "Samsung과 Google이 함께 만든 이 안경은 Android XR을 처음으로 탑재하는 제품이 될 예정이다. 카메라와 마이크, 귀를 막지 않는 스피커를 갖춰 통화와 팟캐스트 청취, Google Gemini와의 상호작용을 지원한다. Snapdragon AR1 Gen 1 칩셋과 표시 LED가 달린 12MP 카메라 한 대를 쓰며, 한 번 충전으로 최대 9시간 사용할 수 있는 것으로 알려졌다. 2026년 가을이라는 출시 시기 외에 가격이나 출시일은 발표되지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하며, 카메라 달린 안경을 두고 Meta가 받아온 것과 같은 대중의 시선도 감당해야 한다고 짚었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Samsungの眼鏡型端末\nFCC試験を通過",
-          "body": "SamsungのSM-O200PとSM-O200JがFCC文書に登場した。",
-          "mini_headline": "Samsung眼鏡がFCC通過",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "待望のSamsungスマートグラスがFCCの試験を通過し、発売が目前に迫っていることがうかがえる。FCCの書類にはSM-O200PとSM-O200Jという2つのモデルが登場した。これは通常、商用化前の最終段階の一つである。"
-              },
-              {
-                "t": "p",
-                "x": "2つの製品コードは、量産前モデルで確認されたとおり、それぞれWarby ParkerとGentle Monsterのフレームを示している。これらのコードは複数のフレームスタイルで使われ、Warby Parkerが3種類、Gentle Monsterが(現時点で)2種類となる。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "SamsungとGoogleが共同で開発したこのグラスは、Android XRを搭載する初の製品となる予定だ。カメラ、マイク、耳をふさがないスピーカーを備え、通話やポッドキャスト、Google Geminiとのやり取りに対応する。Snapdragon AR1 Gen 1チップセット、インジケーターLED付きの12MPカメラ1基を採用し、1回の充電で最大9時間使えるとされる。2026年秋という時期以外に、価格や発売日は発表されていない。"
-              },
-              {
-                "t": "p",
-                "x": "Road to VRは、Samsungが数年先行するMetaと競うことになり、カメラ付きグラスをめぐってMetaが受けてきたのと同じ世間の厳しい目にもさらされると指摘している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Samsung智能眼镜\n通过FCC测试",
-          "body": "Samsung两款眼镜SM-O200P与SM-O200J现身FCC文件。",
-          "mini_headline": "Samsung眼镜通过FCC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "备受期待的Samsung智能眼镜已通过FCC测试，意味着发布在即。SM-O200P和SM-O200J两款不同型号出现在FCC文件中，这通常是商业化之前的最后步骤之一。"
-              },
-              {
-                "t": "p",
-                "x": "从试产机型来看，这两个产品代码分别对应Warby Parker和Gentle Monster镜框。多种镜框款式将共用这些代码：Warby Parker有三款，Gentle Monster（目前）有两款。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "这款眼镜由Samsung与Google联合打造，将成为首款运行Android XR的产品，配备摄像头、麦克风和开放式扬声器，可用于通话、收听播客以及与Google Gemini互动。据悉，它采用Snapdragon AR1 Gen 1芯片组、一颗带指示LED的12MP摄像头，单次充电最多可使用9小时。除2026年秋季这一时间窗口外，价格和发布日期均未公布。"
-              },
-              {
-                "t": "p",
-                "x": "Road to VR指出，Samsung将面对领先多年的Meta，也将受到Meta此前因带摄像头眼镜而遭遇的同样公众审视。"
+                "x": "리뷰어가 X6로 직접 찍은 테스트 클립은 두 번이나 업로드에 실패했다. 베타 버전이라면 예상할 만한 초기 문제다. 그래도 비싼 카메라의 가치를 높여 주는 반가운 무료 기능이다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Gafas inteligentes de Samsung\nsuperan las pruebas de la FCC",
-          "body": "Los modelos SM-O200P y SM-O200J de Samsung aparecen en la FCC y apuntan a monturas de Warby Parker y Gentle Monster.",
-          "mini_headline": "Las gafas de Samsung pasan la FCC",
+          "headline": "Las cámaras Insta360 se vuelven\nescáneres 3D gratuitos",
+          "body": "Spatial Capture, gratuito de Insta360, usa Gaussian Splatting para convertir videos 360 en modelos 3D de interiores.",
+          "mini_headline": "Insta360 suma escaneo 3D gratuito",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+                "cap": "Crédito de la imagen: Insta360"
               },
               {
                 "t": "p",
-                "x": "Las esperadas gafas inteligentes de Samsung han superado las pruebas de la FCC, lo que sugiere que su lanzamiento está muy cerca. Dos modelos distintos, SM-O200P y SM-O200J, han aparecido en registros de la FCC, que suelen ser uno de los últimos pasos antes de la comercialización."
+                "x": "Insta360 lanzó Spatial Capture, una función gratuita que convierte video 360 en un modelo 3D detallado de un espacio real por el que es posible desplazarse. Todavía está en beta y ya está disponible para la Insta360 X6 y para cualquiera de las cámaras 360 de la compañía que graben video 5.7K a 30fps o más, incluidas la X4 Air y la X5."
               },
               {
                 "t": "p",
-                "x": "Los dos códigos de producto corresponden, respectivamente, a monturas de Warby Parker y Gentle Monster, como se ha visto en modelos de preproducción. Varios estilos de montura usarán esos códigos: tres de Warby Parker y dos (por ahora) de Gentle Monster."
+                "x": "Spatial Capture se basa en 3D Gaussian Splatting (3DGS): el software calcula dónde estaba la cámara en cada momento y luego reconstruye la escena a partir de millones de pequeñas manchas semitransparentes. El resultado es una escena 3D fotorrealista que puede verse desde ángulos que la cámara nunca ocupó."
+              },
+              {
+                "t": "video",
+                "yt": "HOBZMKxbHKw"
+              },
+              {
+                "t": "p",
+                "x": "La plataforma en la nube Splatica parte de $49.95 al mes; Spatial Capture ofrece cuatro generaciones gratuitas al mes. Insta360 afirma que Splatica produce resultados de mayor calidad para profesionales, mientras que Spatial Capture está pensada para usuarios ocasionales y procesa un video de dos minutos en una o dos horas, frente a unas ocho."
+              },
+              {
+                "t": "p",
+                "x": "Se graba un clip de dos minutos o menos y el procesamiento se hace en la nube. Insta360 recomienda espacios interiores bien iluminados de hasta 100 metros cuadrados, por lo que parece pensada para habitaciones más que para paisajes. Las escenas se pueden compartir mediante un enlace en el navegador, pero aún no se pueden exportar como archivos."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+                "cap": "Crédito de la imagen: Insta360"
               },
               {
                 "t": "p",
-                "x": "Desarrolladas por Samsung y Google, las gafas serán las primeras en ejecutar Android XR, con cámaras, micrófonos y altavoces fuera del oído para llamadas, pódcast e interacción con Google Gemini. Según se informa, usarán un chipset Snapdragon AR1 Gen 1, una única cámara de 12MP con LED indicador y hasta 9 horas de uso por carga. No se han anunciado precio ni fecha de lanzamiento más allá de la ventana de otoño de 2026."
+                "x": "El clip de prueba que el autor de la reseña grabó con su X6 no se pudo subir en dos ocasiones —el tipo de problema inicial esperable en una beta—, pero es un añadido gratuito bienvenido que suma valor a una cámara costosa."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Insta360のカメラが\n無料の3D部屋スキャナーに",
+          "body": "Insta360の無料機能は、360度動画から歩き回れる屋内3Dモデルを作る。",
+          "mini_headline": "Insta360、無料3Dスキャンを追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+                "cap": "画像提供：Insta360"
               },
               {
                 "t": "p",
-                "x": "Road to VR señala que Samsung tendrá que enfrentarse a la ventaja de varios años de Meta y al mismo escrutinio público sobre las gafas con cámara que ha recibido Meta."
+                "x": "Insta360は、360度動画を実在の空間の精細な3Dモデルに変換し、その中を動き回れる無料機能Spatial Captureを公開した。まだベータ版で、Insta360 X6のほか、X4 AirやX5を含め、5.7K 動画を30fps以上で撮影できる同社の360度カメラで利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "Spatial Captureは3D Gaussian Splatting（3DGS）を基盤とする。ソフトウェアが各瞬間のカメラ位置を割り出し、数百万個の小さな半透明の粒でシーンを再構築する。その結果、カメラが実際には置かれていなかった角度からも眺められる、写実的な3Dシーンが得られる。"
+              },
+              {
+                "t": "video",
+                "yt": "HOBZMKxbHKw"
+              },
+              {
+                "t": "p",
+                "x": "クラウドプラットフォームSplaticaは月額$49.95からだが、Spatial Captureでは月に四回まで無料で生成できる。Insta360によれば、Splaticaはプロ向けにより高品質な結果を出す一方、Spatial Captureは一般ユーザー向けで、二分の動画を約八時間ではなく一〜二時間でレンダリングする。"
+              },
+              {
+                "t": "p",
+                "x": "撮影するのは二分以内のクリップで、処理はクラウドで行われる。Insta360は100平方メートルまでの明るい屋内空間を推奨しており、風景よりも部屋向けに設計されているようだ。シーンはブラウザのリンクで共有できるが、ファイルとしての書き出しにはまだ対応していない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+                "cap": "画像提供：Insta360"
+              },
+              {
+                "t": "p",
+                "x": "レビュアー自身のX6によるテストクリップは二度アップロードに失敗した。ベータ版にありがちな初期不良だが、高価なカメラに価値を加える歓迎すべき無料機能だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Insta360相机变身\n免费3D房间扫描仪",
+          "body": "Insta360推出免费功能，可将360度视频转为可漫游的室内3D模型。",
+          "mini_headline": "Insta360新增免费3D扫描",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+                "cap": "图片来源：Insta360"
+              },
+              {
+                "t": "p",
+                "x": "Insta360推出了免费功能Spatial Capture，可将360度视频转换为真实空间的精细3D模型，并能在其中自由移动。该功能仍处于测试阶段，现已支持Insta360 X6，以及能以30fps或更高帧率拍摄5.7K 视频的该公司任意360度相机，包括X4 Air和X5。"
+              },
+              {
+                "t": "p",
+                "x": "Spatial Capture基于3D Gaussian Splatting（3DGS）技术：软件先推算出相机在每个时刻的位置，再用数百万个微小的半透明斑点重建场景。最终得到一个逼真的3D场景，可以从相机从未到过的角度观看。"
+              },
+              {
+                "t": "video",
+                "yt": "HOBZMKxbHKw"
+              },
+              {
+                "t": "p",
+                "x": "云平台Splatica月费$49.95起；Spatial Capture则每月提供四次免费生成。Insta360表示，Splatica面向专业用户，生成质量更高；Spatial Capture则面向普通用户，渲染一段两分钟视频只需一到两小时，而前者约需八小时。"
+              },
+              {
+                "t": "p",
+                "x": "用户需录制两分钟以内的片段，处理在云端完成。Insta360建议在光线充足、面积不超过100平方米的室内空间使用，看来它是为房间而非风景设计的。场景可通过浏览器链接分享，但暂时还不能导出为文件。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+                "cap": "图片来源：Insta360"
+              },
+              {
+                "t": "p",
+                "x": "评测者用自己的X6拍摄的测试片段两次上传失败——这是测试版常见的小毛病——但作为一项免费功能，它为一款价格不菲的相机增添了价值。"
               }
             ]
           }
@@ -355,367 +455,15 @@
       }
     },
     {
-      "id": "gadgets-legato-hearing-glasses",
+      "id": "meta-muse-home-link",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Legato\nAI 청각 안경 출시",
-      "body": "999달러부터 Legato Frames는 AI로 소음 속 목소리를 골라낸다.",
-      "mini_headline": "Legato의 AI 청각 안경",
-      "tool": "Gadgets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-          },
-          {
-            "t": "p",
-            "x": "청각 기술 스타트업 Legato가 AI-based 청각 안경 Legato Frames 판매를 시작했다고 밝혔다. 특허받은 청각 보조 기술을 안경다리에 넣은 제품이다. 가격은 999달러부터이고, 중등도 이하 난청이 있는 성인용으로 설계했다. 기존 보청기의 비용과 착용감, 낙인 문제를 풀겠다는 목표다."
-          },
-          {
-            "t": "p",
-            "x": "Legato의 AI-powered 시스템은 지향성 마이크 대신 목소리와 배경 소음을 구분해 목소리는 키우고 불필요한 소리는 줄인다. 듀얼 스피커 시스템은 소리를 착용자 쪽으로 보내고 밖으로 새는 소리는 상쇄한다. 귀에서 몇 인치 떨어진 곳에서는 새는 소리가 99% 줄어든다."
-          },
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-          },
-          {
-            "t": "p",
-            "x": "모든 처리는 안경 안에서 끝나며 카메라나 녹음 기능은 없다. 무게는 렌즈를 포함해 34그램이고 배터리는 10-12시간 간다. 스타일은 세 가지이며 도수 렌즈와 Bluetooth 스트리밍을 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "Legato는 Bose 출신 Mehul Trivedi와 Steve Romine이 2024년 세운 회사다. 최근 1200만 달러를 투자받으며 스텔스 모드에서 나왔다. 안경은 온라인과 일부 U.S. 안과 업체에서 팔고, 시력 보험도 적용된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Legato launches\nAI hearing glasses",
-          "body": "Legato Frames, starting at $999, use on-device AI to pick out voices from background noise for people with hearing loss.",
-          "mini_headline": "Legato's AI hearing glasses",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Hearing tech startup Legato announced that its AI-based hearing glasses, Legato Frames, are now available. They build its patented hearing-assistance tech into the arms of eyewear frames. Starting at $999, they are designed for adults with up to moderate hearing loss, aiming to address the cost, comfort, and stigma of traditional hearing aids."
-              },
-              {
-                "t": "p",
-                "x": "Rather than directional microphones, Legato's AI-powered system distinguishes voices from background noise, amplifying voices while reducing unwanted sounds. A dual-speaker system directs sound to the wearer and cancels escaping sound, reducing it by 99% a few inches from the ear."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-              },
-              {
-                "t": "p",
-                "x": "All processing happens on the glasses, with no cameras or recording. They weigh 34 grams with lenses, get 10-12 hours of battery life, come in three styles, and support prescription lenses and Bluetooth streaming."
-              },
-              {
-                "t": "p",
-                "x": "Legato, founded in 2024 by Bose veterans Mehul Trivedi and Steve Romine, recently emerged from stealth with $12 million in funding. The frames are sold online and through select U.S. eye care providers, eligible for vision insurance coverage."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Legato\nAI 청각 안경 출시",
-          "body": "999달러부터 Legato Frames는 AI로 소음 속 목소리를 골라낸다.",
-          "mini_headline": "Legato의 AI 청각 안경",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "청각 기술 스타트업 Legato가 AI-based 청각 안경 Legato Frames 판매를 시작했다고 밝혔다. 특허받은 청각 보조 기술을 안경다리에 넣은 제품이다. 가격은 999달러부터이고, 중등도 이하 난청이 있는 성인용으로 설계했다. 기존 보청기의 비용과 착용감, 낙인 문제를 풀겠다는 목표다."
-              },
-              {
-                "t": "p",
-                "x": "Legato의 AI-powered 시스템은 지향성 마이크 대신 목소리와 배경 소음을 구분해 목소리는 키우고 불필요한 소리는 줄인다. 듀얼 스피커 시스템은 소리를 착용자 쪽으로 보내고 밖으로 새는 소리는 상쇄한다. 귀에서 몇 인치 떨어진 곳에서는 새는 소리가 99% 줄어든다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-              },
-              {
-                "t": "p",
-                "x": "모든 처리는 안경 안에서 끝나며 카메라나 녹음 기능은 없다. 무게는 렌즈를 포함해 34그램이고 배터리는 10-12시간 간다. 스타일은 세 가지이며 도수 렌즈와 Bluetooth 스트리밍을 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "Legato는 Bose 출신 Mehul Trivedi와 Steve Romine이 2024년 세운 회사다. 최근 1200만 달러를 투자받으며 스텔스 모드에서 나왔다. 안경은 온라인과 일부 U.S. 안과 업체에서 팔고, 시력 보험도 적용된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Legatoが\nAI聴覚メガネを発売",
-          "body": "999ドルからのLegato Framesは、端末内AIで騒音から声を聞き分ける。",
-          "mini_headline": "LegatoのAI聴覚メガネ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "聴覚テックのスタートアップLegatoは、AI-basedの聴覚メガネ「Legato Frames」の販売開始を発表した。特許取得済みの聴覚補助技術をメガネフレームのテンプルに組み込んでいる。価格は999ドルからで、中等度までの難聴がある成人向けに設計され、従来の補聴器が抱えるコスト、装着感、偏見の問題の解消を目指す。"
-              },
-              {
-                "t": "p",
-                "x": "指向性マイクではなく、LegatoのAI-poweredシステムが声と背景雑音を識別し、声を増幅しつつ不要な音を抑える。デュアルスピーカーシステムが音を装着者に届け、外に漏れる音を打ち消すことで、耳から数インチ離れた位置で音漏れを99%低減する。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-              },
-              {
-                "t": "p",
-                "x": "処理はすべてメガネ上で行われ、カメラや録音機能はない。重さはレンズ込みで34グラム、バッテリーは10-12時間持ち、3種類のスタイルで展開する。度付きレンズとBluetoothストリーミングにも対応する。"
-              },
-              {
-                "t": "p",
-                "x": "Legatoは2024年、Bose出身のMehul TrivediとSteve Romineが創業した。最近1200万ドルの資金調達とともにステルス状態から姿を現した。フレームはオンラインと一部のU.S.の眼科医療機関で販売され、視力保険の適用対象となる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Legato推出\nAI助听眼镜",
-          "body": "Legato Frames起价999美元，借助端侧AI从背景噪音中分辨人声。",
-          "mini_headline": "Legato的AI助听眼镜",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "听力科技初创公司Legato宣布，其AI-based助听眼镜Legato Frames现已上市。该产品将其专利听力辅助技术嵌入镜腿中，起价999美元，面向中度及以下听力损失的成年人，旨在解决传统助听器在成本、舒适度和社会偏见方面的问题。"
-              },
-              {
-                "t": "p",
-                "x": "Legato的AI-powered系统不依赖定向麦克风，而是从背景噪音中区分人声，在放大人声的同时减少多余声音。双扬声器系统将声音导向佩戴者，并抵消外泄的声音，在距耳朵几英寸处可将其降低99%。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-              },
-              {
-                "t": "p",
-                "x": "所有处理都在眼镜上完成，没有摄像头，也不录音。含镜片重34克，续航10-12小时，提供三种款式，支持处方镜片和Bluetooth串流。"
-              },
-              {
-                "t": "p",
-                "x": "Legato由Bose老员工Mehul Trivedi和Steve Romine于2024年创立，近期获得1200万美元融资并结束隐身状态。眼镜通过线上渠道及部分U.S.眼科服务机构销售，可使用视力保险。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Legato lanza gafas\nauditivas con IA",
-          "body": "Las Legato Frames, desde $999, ayudan a personas con pérdida auditiva a separar voces del ruido con IA local.",
-          "mini_headline": "Las gafas auditivas con IA de Legato",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "La startup de tecnología auditiva Legato anunció que sus gafas auditivas AI-based, Legato Frames, ya están disponibles. Integran su tecnología patentada de asistencia auditiva en las patillas de la montura. Con un precio desde $999, están diseñadas para adultos con pérdida auditiva de hasta grado moderado y buscan resolver el costo, la comodidad y el estigma de los audífonos tradicionales."
-              },
-              {
-                "t": "p",
-                "x": "En lugar de micrófonos direccionales, el sistema AI-powered de Legato distingue las voces del ruido de fondo, amplifica las voces y reduce los sonidos no deseados. Un sistema de doble altavoz dirige el sonido al usuario y cancela el que se escapa, reduciéndolo un 99% a unas pocas pulgadas del oído."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-              },
-              {
-                "t": "p",
-                "x": "Todo el procesamiento ocurre en las gafas, sin cámaras ni grabación. Pesan 34 gramos con lentes, ofrecen 10-12 horas de batería, vienen en tres estilos y admiten lentes graduadas y streaming por Bluetooth."
-              },
-              {
-                "t": "p",
-                "x": "Legato, fundada en 2024 por los veteranos de Bose Mehul Trivedi y Steve Romine, salió recientemente del modo sigiloso con $12 millones de financiación. Las monturas se venden en línea y a través de proveedores de salud visual seleccionados en U.S., y pueden cubrirse con el seguro de visión."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Legato\nAI 청각 안경 출시",
-          "body": "999달러부터 Legato Frames는 AI로 소음 속 목소리를 골라낸다.",
-          "mini_headline": "Legato의 AI 청각 안경",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "청각 기술 스타트업 Legato가 AI-based 청각 안경 Legato Frames의 판매를 시작했다고 발표했다. 특허받은 청각 보조 기술을 안경테 다리에 넣었다. 가격은 999달러부터이며, 중등도 이하 난청을 겪는 성인을 위해 설계했다. 기존 보청기의 비용, 착용감, 낙인 문제를 해결하는 것이 목표다."
-              },
-              {
-                "t": "p",
-                "x": "Legato의 AI-powered 시스템은 지향성 마이크 대신 목소리와 배경 소음을 구분해, 목소리는 키우고 불필요한 소리는 줄인다. 듀얼 스피커 시스템이 소리를 착용자에게 보내고 새어 나가는 소리를 상쇄해, 귀에서 몇 인치 떨어진 곳에서 이를 99% 줄인다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-              },
-              {
-                "t": "p",
-                "x": "모든 처리는 안경 안에서 이뤄지며 카메라나 녹음 기능은 없다. 렌즈를 포함한 무게는 34그램이고 배터리는 10-12시간 간다. 세 가지 스타일로 나오며 도수 렌즈와 Bluetooth 스트리밍을 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "Legato는 Bose 출신 Mehul Trivedi와 Steve Romine이 2024년 세운 회사로, 최근 1200만 달러 투자를 받고 스텔스 모드에서 벗어났다. 안경은 온라인과 일부 U.S. 안과 업체에서 판매하며, 시력 보험 적용 대상이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Legatoが\nAI聴覚メガネを発売",
-          "body": "999ドルからのLegato Framesは、端末内AIで騒音から声を聞き分ける。",
-          "mini_headline": "LegatoのAI聴覚メガネ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "聴覚テックのスタートアップLegatoは、AI-basedの聴覚メガネ「Legato Frames」の販売開始を発表した。特許取得済みの聴覚補助技術をメガネフレームのテンプルに組み込んでいる。価格は999ドルからで、中等度までの難聴がある成人向けに設計され、従来の補聴器が抱えるコスト、装着感、偏見の問題の解消を目指す。"
-              },
-              {
-                "t": "p",
-                "x": "指向性マイクではなく、LegatoのAI-poweredシステムが声と背景雑音を識別し、声を増幅しつつ不要な音を抑える。デュアルスピーカーシステムが音を装着者に届け、外に漏れる音を打ち消すことで、耳から数インチ離れた位置で音漏れを99%低減する。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-              },
-              {
-                "t": "p",
-                "x": "処理はすべてメガネ上で行われ、カメラや録音機能はない。重さはレンズ込みで34グラム、バッテリーは10-12時間持ち、3種類のスタイルで展開する。度付きレンズとBluetoothストリーミングにも対応する。"
-              },
-              {
-                "t": "p",
-                "x": "Legatoは2024年、Bose出身のMehul TrivediとSteve Romineが創業した。最近1200万ドルの資金調達とともにステルス状態から姿を現した。フレームはオンラインと一部のU.S.の眼科医療機関で販売され、視力保険の適用対象となる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Legato推出\nAI助听眼镜",
-          "body": "Legato Frames起价999美元，借助端侧AI从背景噪音中分辨人声。",
-          "mini_headline": "Legato的AI助听眼镜",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "听力科技初创公司Legato宣布，其AI-based助听眼镜Legato Frames现已上市。该产品将其专利听力辅助技术嵌入镜腿中，起价999美元，面向中度及以下听力损失的成年人，旨在解决传统助听器在成本、舒适度和社会偏见方面的问题。"
-              },
-              {
-                "t": "p",
-                "x": "Legato的AI-powered系统不依赖定向麦克风，而是从背景噪音中区分人声，在放大人声的同时减少多余声音。双扬声器系统将声音导向佩戴者，并抵消外泄的声音，在距耳朵几英寸处可将其降低99%。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-              },
-              {
-                "t": "p",
-                "x": "所有处理都在眼镜上完成，没有摄像头，也不录音。含镜片重34克，续航10-12小时，提供三种款式，支持处方镜片和Bluetooth串流。"
-              },
-              {
-                "t": "p",
-                "x": "Legato由Bose老员工Mehul Trivedi和Steve Romine于2024年创立，近期获得1200万美元融资并结束隐身状态。眼镜通过线上渠道及部分U.S.眼科服务机构销售，可使用视力保险。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Legato lanza gafas\nauditivas con IA",
-          "body": "Las Legato Frames, desde $999, ayudan a personas con pérdida auditiva a separar voces del ruido con IA local.",
-          "mini_headline": "Las gafas auditivas con IA de Legato",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "La startup de tecnología auditiva Legato anunció que sus gafas auditivas AI-based, Legato Frames, ya están disponibles. Integran su tecnología patentada de asistencia auditiva en las patillas de la montura. Con un precio desde $999, están diseñadas para adultos con pérdida auditiva de hasta grado moderado y buscan resolver el costo, la comodidad y el estigma de los audífonos tradicionales."
-              },
-              {
-                "t": "p",
-                "x": "En lugar de micrófonos direccionales, el sistema AI-powered de Legato distingue las voces del ruido de fondo, amplifica las voces y reduce los sonidos no deseados. Un sistema de doble altavoz dirige el sonido al usuario y cancela el que se escapa, reduciéndolo un 99% a unas pocas pulgadas del oído."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680"
-              },
-              {
-                "t": "p",
-                "x": "Todo el procesamiento ocurre en las gafas, sin cámaras ni grabación. Pesan 34 gramos con lentes, ofrecen 10-12 horas de batería, vienen en tres estilos y admiten lentes graduadas y streaming por Bluetooth."
-              },
-              {
-                "t": "p",
-                "x": "Legato, fundada en 2024 por los veteranos de Bose Mehul Trivedi y Steve Romine, salió recientemente del modo sigiloso con $12 millones de financiación. Las monturas se venden en línea y a través de proveedores de salud visual seleccionados en U.S., y pueden cubrirse con el seguro de visión."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-gemini-guided-vision",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Guided Vision,\n작은 글씨도 읽어준다",
-      "body": "Guided Vision은 폰 카메라에 비친 대상을 소리 내어 설명한다.",
-      "mini_headline": "Gemini Guided Vision",
+      "headline": "Meta, Muse AI\n기기 제작 코드 공개",
+      "body": "Meta가 Muse AI 기기 코드를 공개하며 위험은 각자 책임이라고 경고했다.",
+      "mini_headline": "Meta, Muse 기기 코드 공개",
       "tool": "Gadgets",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -723,149 +471,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+            "cap": "이미지: The Verge, Getty Images, Meta"
           },
           {
             "t": "p",
-            "x": "Guided Vision이 오늘부터 호환되는 Android 기기의 Gemini Live에 들어간다. 휴대폰 카메라에 비친 모든 것을 AI가 실시간 음성으로 설명해 주는 기능이다. Gemini Live에서 카메라를 공유하면 Google의 AI가 작은 글씨를 읽어 주고, 주변 환경을 설명하고, 근처 사물을 찾아 알려 주고, 특정 사물을 자세히 묘사한다."
+            "x": "Meta가 코드를 오픈소스로 풀면서, 이제 회사의 새 AI 에이전트를 얹은 Muse 기기를 직접 만들 수 있게 됐다. 회사가 예로 든 프로젝트는 이렇다. 컬러 E Ink 디스플레이에 Muse를 올려 알림을 띄우거나, HDMI 스틱에 넣어 큰 화면에서 Muse를 쓰거나, 작은 터치스크린 기기에 Muse를 담아 DIY Muse Charm 같은 기기를 만드는 식이다."
           },
           {
             "t": "p",
-            "x": "Apple이 iPhone과 Vision Pro에 넣은 VoiceOver Live Recognition 기능처럼 시각장애인과 저시력자, 특정 상황에서 도움이 필요한 사람을 위해 설계했다. 최근 Pixel 업데이트 때 공개된 Guided Vision은 Gemini 앱뿐 아니라 Google TalkBack에서도 쓸 수 있다. Android 9 이상 기기라면 설정 앱에서 접근성 바로가기로 지정해 둘 수도 있다."
+            "x": "Meta의 설명은 이렇다. “Muse 기기는 직접 만드는 오픈소스 기기”이며 “시중의 ESP32 보드를 프로그래밍하거나 우리 SDKs로 Raspberry Pi를 설정한 뒤, Muse를 디스플레이, 버튼, 센서, 액추에이터 등 작업대에 놓인 무엇에든 연결하라”는 것이다. 단서도 붙였다. “위험은 각자 책임지라!”"
           },
           {
             "t": "p",
-            "x": "보고 있는 대상을 두고 이어서 질문할 수도 있다. Gemini가 찾아준 물건의 유통기한을 읽어 달라고 하는 식이다. Google에 따르면 화면에 잡히지 않은 대상을 물으면 Gemini가 소리 신호로 카메라 위치를 맞추게 돕는다. 다만 Google은 Guided Vision을 “길 안내, 안전한 이동 안내, 장애물 감지” 같은 용도로 의존하거나 지팡이·보행 보조 기구 대신 쓰지 말라고 당부한다."
+            "x": "직접 만든 Muse Home Link 기기도 무료로 나눠 준다. Meta에 따르면 Muse Home Link가 있으면 AI 에이전트가 커뮤니티가 만든 스킬로 “설정에 따라 조명을 켜고, TV를 제어하고, 문서를 프린터로 보내는 등”의 일을 한다. Meta Superintelligence Labs의 Nat Friedman은 이 기기를 5,000대 생산했다고 밝혔다. 배송은 이달 중이고, 지금 Muse Home Link 대기 명단에 이름을 올릴 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+            "cap": "Meta의 Muse Home Link 기기."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google's Guided Vision\nhelps read the fine print",
-          "body": "Guided Vision in Gemini Live describes aloud whatever you point your phone's camera at, from small text to objects.",
-          "mini_headline": "Gemini Guided Vision",
+          "headline": "Meta opens code for building\nyour own Muse AI gadgets",
+          "body": "Meta open sourced code that lets makers build their own Muse AI gadgets, warning them to proceed at their own risk.",
+          "mini_headline": "Meta open sources Muse gadget code",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+                "cap": "Image: The Verge, Getty Images, Meta"
               },
               {
                 "t": "p",
-                "x": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone’s camera at. By sharing your camera in Gemini Live, you can have Google’s AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects."
+                "x": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm."
               },
               {
                 "t": "p",
-                "x": "Like the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it’s designed for people who are blind, have low vision, or want assistance in specific situations. In addition to the Gemini app, Guided Vision is also available in Google TalkBack, or users can set up an accessibility shortcut for it in the Settings app on devices running Android 9 and above, after it was announced in a recent set of Pixel updates."
+                "x": "“Muse gadgets are open source devices you build yourself,” Meta says. “Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench.” However, Meta cautions that you should “Proceed at your own risk!”"
               },
               {
                 "t": "p",
-                "x": "You can also ask follow-up questions about whatever you’re looking at, like asking Gemini to read off the expiration date on an item it helped you find. Google says Gemini will give you audio cues to help line up your camera if you ask about something that’s not in the shot. However, Google cautions users not to rely on Guided Vision for things like “navigation, safe-travel guidance, or obstacle detection,” or as a replacement for a cane or mobility aid."
+                "x": "The company is also giving away a Muse Home Link gadget that it created. With the Muse Home Link, you use community-built skills to have the AI agent “turn on a light, control your TV, send a document to a printer, and more, depending on your setup,” Meta says. It manufactured 5,000 of the gadgets, according to Meta Superintelligence Labs' Nat Friedman, and you can claim a waitlist spot for the Muse Home Link now ahead of shipping sometime this month."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Meta's Muse Home Link gadget."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Guided Vision,\n작은 글씨도 읽어준다",
-          "body": "Guided Vision은 폰 카메라에 비친 대상을 소리 내어 설명한다.",
-          "mini_headline": "Gemini Guided Vision",
+          "headline": "Meta, Muse AI\n기기 제작 코드 공개",
+          "body": "Meta가 Muse AI 기기 코드를 공개하며 위험은 각자 책임이라고 경고했다.",
+          "mini_headline": "Meta, Muse 기기 코드 공개",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+                "cap": "이미지: The Verge, Getty Images, Meta"
               },
               {
                 "t": "p",
-                "x": "Guided Vision이 오늘부터 호환되는 Android 기기의 Gemini Live에 들어간다. 휴대폰 카메라에 비친 모든 것을 AI가 실시간 음성으로 설명해 주는 기능이다. Gemini Live에서 카메라를 공유하면 Google의 AI가 작은 글씨를 읽어 주고, 주변 환경을 설명하고, 근처 사물을 찾아 알려 주고, 특정 사물을 자세히 묘사한다."
+                "x": "Meta가 코드를 오픈소스로 풀면서, 이제 회사의 새 AI 에이전트를 얹은 Muse 기기를 직접 만들 수 있게 됐다. 회사가 예로 든 프로젝트는 이렇다. 컬러 E Ink 디스플레이에 Muse를 올려 알림을 띄우거나, HDMI 스틱에 넣어 큰 화면에서 Muse를 쓰거나, 작은 터치스크린 기기에 Muse를 담아 DIY Muse Charm 같은 기기를 만드는 식이다."
               },
               {
                 "t": "p",
-                "x": "Apple이 iPhone과 Vision Pro에 넣은 VoiceOver Live Recognition 기능처럼 시각장애인과 저시력자, 특정 상황에서 도움이 필요한 사람을 위해 설계했다. 최근 Pixel 업데이트 때 공개된 Guided Vision은 Gemini 앱뿐 아니라 Google TalkBack에서도 쓸 수 있다. Android 9 이상 기기라면 설정 앱에서 접근성 바로가기로 지정해 둘 수도 있다."
+                "x": "Meta의 설명은 이렇다. “Muse 기기는 직접 만드는 오픈소스 기기”이며 “시중의 ESP32 보드를 프로그래밍하거나 우리 SDKs로 Raspberry Pi를 설정한 뒤, Muse를 디스플레이, 버튼, 센서, 액추에이터 등 작업대에 놓인 무엇에든 연결하라”는 것이다. 단서도 붙였다. “위험은 각자 책임지라!”"
               },
               {
                 "t": "p",
-                "x": "보고 있는 대상을 두고 이어서 질문할 수도 있다. Gemini가 찾아준 물건의 유통기한을 읽어 달라고 하는 식이다. Google에 따르면 화면에 잡히지 않은 대상을 물으면 Gemini가 소리 신호로 카메라 위치를 맞추게 돕는다. 다만 Google은 Guided Vision을 “길 안내, 안전한 이동 안내, 장애물 감지” 같은 용도로 의존하거나 지팡이·보행 보조 기구 대신 쓰지 말라고 당부한다."
+                "x": "직접 만든 Muse Home Link 기기도 무료로 나눠 준다. Meta에 따르면 Muse Home Link가 있으면 AI 에이전트가 커뮤니티가 만든 스킬로 “설정에 따라 조명을 켜고, TV를 제어하고, 문서를 프린터로 보내는 등”의 일을 한다. Meta Superintelligence Labs의 Nat Friedman은 이 기기를 5,000대 생산했다고 밝혔다. 배송은 이달 중이고, 지금 Muse Home Link 대기 명단에 이름을 올릴 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Meta의 Muse Home Link 기기."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Guided Vision\n小さな文字も読み上げ",
-          "body": "Gemini LiveのGuided Visionはカメラに映るものを音声で説明する。",
-          "mini_headline": "Gemini Guided Vision",
+          "headline": "Meta、Muse AI\n機器の自作コードを公開",
+          "body": "MetaはMuse AI機器を自作できるコードを公開し、「自己責任で」と警告した。",
+          "mini_headline": "MetaがMuse機器コードを公開",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+                "cap": "画像：The Verge、Getty Images、Meta"
               },
               {
                 "t": "p",
-                "x": "対応するAndroid端末のGemini Liveで本日、Guided Visionの提供が始まる。スマートフォンのカメラを向けたものをAIがリアルタイムに音声で説明する機能だ。Gemini Liveでカメラを共有すると、小さな文字の読み上げ、周囲の様子の説明、身の回りの物の発見や識別、特定の物の細部の説明などをGoogleのAIが手助けする。"
+                "x": "Metaがオープンソース化したコードを使えば、同社の新しいAIエージェントを搭載したMuse機器を自作できるようになった。同社が提案するプロジェクトには、カラーE InkディスプレイにMuseを載せてリマインダーを表示する、HDMIスティックに組み込んで大画面にMuseを映す、小型タッチスクリーン機器にMuseを入れてDIY Muse Charmのようなものを作る、といったものがある。"
               },
               {
                 "t": "p",
-                "x": "AppleがiPhoneとVision Proに追加したVoiceOver Live Recognitionと同様、視覚に障害のある人やロービジョンの人、特定の場面で支援を必要とする人に向けて設計されている。最近のPixelアップデートで発表されたGuided Visionは、Geminiアプリに加えてGoogle TalkBackでも利用でき、Android 9以降の端末では設定アプリでユーザー補助のショートカットを設定することもできる。"
+                "x": "Metaは「Muse機器は自分で組み立てるオープンソースのデバイスだ」とし、「市販のESP32ボードをプログラムするか、当社のSDKsでRaspberry Piをセットアップし、Museをディスプレイ、ボタン、センサー、アクチュエーター、そのほか作業台に転がっているあらゆるものにつなげてほしい」と説明する。ただしMetaは「自己責任で進めてほしい！」と注意を促している。"
               },
               {
                 "t": "p",
-                "x": "見ている対象について追加で質問することもできる。たとえば、見つけてもらった商品の賞味期限をGeminiに読み上げてもらうといった使い方だ。画面に映っていないものについて尋ねると、Geminiが音声の合図でカメラの位置合わせを手助けするとGoogleは説明する。ただしGoogleは、Guided Visionを「ナビゲーション、安全な移動の案内、障害物の検知」などに頼ったり、杖や移動補助具の代わりにしたりしないよう注意を促している。"
+                "x": "同社は自ら開発したMuse Home Link機器の無償配布も行う。Metaによると、Muse Home Linkを使えば、コミュニティが作ったスキルでAIエージェントに「設定に応じて照明をつけ、TVを操作し、文書をプリンターに送るなど」させられる。Meta Superintelligence LabsのNat Friedmanによれば、Metaはこの機器を5,000台製造しており、今月中の出荷を前に、いまからMuse Home Linkのウェイトリストに登録できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "MetaのMuse Home Link機器。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Guided Vision\n帮你读清小字",
-          "body": "Gemini Live的Guided Vision可用语音描述手机摄像头拍到的内容。",
-          "mini_headline": "Gemini Guided Vision",
+          "headline": "Meta开源代码\n可自制Muse AI设备",
+          "body": "Meta开源了自制Muse AI设备的代码，并提醒创客风险自负。",
+          "mini_headline": "Meta开源Muse设备代码",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+                "cap": "图片：The Verge、Getty Images、Meta"
               },
               {
                 "t": "p",
-                "x": "Guided Vision今天起在兼容Android设备上的Gemini Live中推出，利用AI实时语音描述手机摄像头所对准的任何事物。在Gemini Live中共享摄像头后，Google的AI可以帮助你阅读小字、描述周围环境、寻找或识别身边物体，以及描述特定物体的细节。"
+                "x": "借助Meta开源的代码，现在你可以自己制作搭载该公司新AI智能体的Muse设备。Meta建议的项目包括：把Muse装进彩色E Ink显示屏来显示提醒；将其加入HDMI电视棒，在大屏幕上显示Muse；或者把Muse放进小型触屏设备，做出一个有点像DIY Muse Charm的东西。"
               },
               {
                 "t": "p",
-                "x": "与Apple为iPhone和Vision Pro加入的VoiceOver Live Recognition功能类似，它面向盲人、低视力人群，或在特定场景下需要帮助的用户。Guided Vision已在最近一批Pixel更新中公布，除Gemini应用外，也可在Google TalkBack中使用；在运行Android 9及以上版本的设备上，用户还可以在设置应用中为其设置无障碍快捷方式。"
+                "x": "Meta表示：“Muse设备是你自己动手打造的开源设备。用我们的SDKs为现成的ESP32开发板编程，或设置一台Raspberry Pi，然后把Muse连接到你的显示屏、按钮、传感器、执行器，以及工作台上任何闲置的东西。”不过Meta也提醒：“风险自负！”"
               },
               {
                 "t": "p",
-                "x": "你还可以就所看的东西继续追问，例如让Gemini读出它帮你找到的物品上的保质期。Google表示，如果你询问的东西不在画面中，Gemini会给出音频提示，帮你对准摄像头。不过，Google提醒用户，不要依赖Guided Vision进行“导航、安全出行指引或障碍物检测”等用途，也不要用它代替手杖或助行器具。"
+                "x": "该公司还在免费发放自己打造的Muse Home Link设备。Meta称，借助Muse Home Link，你可以利用社区开发的技能让AI智能体“根据你的设置，开灯、控制TV、把文件发送到打印机等等”。据Meta Superintelligence Labs的Nat Friedman透露，Meta生产了5,000台这款设备；在本月某个时候发货之前，你现在就可以申请Muse Home Link的候补名额。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Meta的Muse Home Link设备。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guided Vision de Google\nayuda a leer la letra pequeña",
-          "body": "Guided Vision en Gemini Live describe en voz alta lo que enfoca la cámara, desde texto pequeño hasta objetos.",
-          "mini_headline": "Gemini Guided Vision",
+          "headline": "Meta abre el código para crear\ntus propios gadgets de Muse AI",
+          "body": "Meta liberó el código para que cada uno cree sus propios gadgets de Muse AI y advirtió que es bajo su propio riesgo.",
+          "mini_headline": "Meta libera el código de los gadgets Muse",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+                "cap": "Imagen: The Verge, Getty Images, Meta"
               },
               {
                 "t": "p",
-                "x": "Guided Vision llega hoy a Gemini Live en dispositivos Android compatibles para usar IA y ofrecer descripciones de audio en tiempo real de todo lo que se enfoque con la cámara del teléfono. Al compartir la cámara en Gemini Live, la IA de Google puede ayudar a leer texto pequeño, describir el entorno, encontrar o identificar objetos cercanos y describir detalles de objetos concretos."
+                "x": "Meta ahora permite fabricar tus propios gadgets de Muse, con el nuevo agente de AI de la compañía, gracias a código que la empresa liberó como open source. La compañía sugiere proyectos como cargar Muse en una pantalla E Ink a color para mostrar recordatorios, añadirlo a un stick HDMI para ver Muse en una pantalla grande o poner Muse en un pequeño dispositivo táctil para crear algo parecido a un DIY Muse Charm."
               },
               {
                 "t": "p",
-                "x": "Al igual que la función VoiceOver Live Recognition que Apple ha añadido al iPhone y al Vision Pro, está pensada para personas ciegas, con baja visión o que necesitan ayuda en situaciones concretas. Además de en la app Gemini, Guided Vision también está disponible en Google TalkBack, y los usuarios pueden configurar un acceso directo de accesibilidad en la app Ajustes de los dispositivos con Android 9 o posterior, después de que se anunciara en una reciente tanda de actualizaciones de Pixel."
+                "x": "“Los gadgets de Muse son dispositivos open source que construyes tú mismo”, dice Meta. “Programa una placa ESP32 comercial o configura una Raspberry Pi con nuestros SDKs y luego conecta Muse a tus pantallas, botones, sensores, actuadores y cualquier otra cosa que tengas en tu mesa de trabajo”. Sin embargo, Meta advierte: “¡Hazlo bajo tu propio riesgo!”"
               },
               {
                 "t": "p",
-                "x": "También se pueden hacer preguntas de seguimiento sobre lo que se está mirando, como pedir a Gemini que lea la fecha de caducidad de un artículo que ayudó a encontrar. Google afirma que Gemini dará indicaciones sonoras para ayudar a encuadrar la cámara si se pregunta por algo que no está en la imagen. Sin embargo, Google advierte a los usuarios que no confíen en Guided Vision para tareas como “navegación, orientación para desplazarse con seguridad o detección de obstáculos”, ni como sustituto de un bastón o una ayuda para la movilidad."
+                "x": "La compañía también regala un gadget Muse Home Link creado por ella misma. Con el Muse Home Link, puedes usar habilidades creadas por la comunidad para que el agente de AI “encienda una luz, controle tu TV, envíe un documento a una impresora y más, según tu configuración”, dice Meta. Según Nat Friedman, de Meta Superintelligence Labs, la empresa fabricó 5,000 unidades, y ya es posible reservar un lugar en la lista de espera del Muse Home Link antes de que comiencen los envíos en algún momento de este mes."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "El gadget Muse Home Link de Meta."
               }
             ]
           }
@@ -873,105 +657,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Guided Vision,\n작은 글씨도 읽어준다",
-          "body": "Guided Vision은 폰 카메라에 비친 대상을 소리 내어 설명한다.",
-          "mini_headline": "Gemini Guided Vision",
+          "headline": "Meta, Muse AI\n기기 제작 코드 공개",
+          "body": "Meta가 Muse AI 기기 코드를 공개하며 위험은 각자 책임이라고 경고했다.",
+          "mini_headline": "Meta, Muse 기기 코드 공개",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+                "cap": "이미지: The Verge, Getty Images, Meta"
               },
               {
                 "t": "p",
-                "x": "Guided Vision이 오늘부터 호환되는 Android 기기의 Gemini Live에 도입된다. AI를 활용해 휴대폰 카메라로 비춘 모든 것을 실시간 음성으로 설명해 주는 기능이다. Gemini Live에서 카메라를 공유하면 Google의 AI가 작은 글씨 읽기, 주변 환경 설명, 주변 사물 찾기와 식별, 특정 사물의 세부 묘사 등을 돕는다."
+                "x": "Meta가 오픈소스로 공개한 코드를 활용하면 이제 회사의 새 AI 에이전트를 탑재한 Muse 기기를 직접 만들 수 있다. 회사가 제안하는 프로젝트로는 컬러 E Ink 디스플레이에 Muse를 올려 알림을 띄우거나, HDMI 스틱에 넣어 큰 화면에서 Muse를 쓰거나, 작은 터치스크린 기기에 Muse를 담아 DIY Muse Charm처럼 보이는 기기를 만드는 것 등이 있다."
               },
               {
                 "t": "p",
-                "x": "Apple이 iPhone과 Vision Pro에 추가한 VoiceOver Live Recognition 기능처럼, 시각장애인이나 저시력자, 혹은 특정 상황에서 도움이 필요한 사람을 위해 설계했다. 최근 Pixel 업데이트에서 발표된 Guided Vision은 Gemini 앱뿐 아니라 Google TalkBack에서도 쓸 수 있으며, Android 9 이상 기기에서는 설정 앱에서 접근성 바로가기로 지정할 수도 있다."
+                "x": "Meta는 “Muse 기기는 직접 만드는 오픈소스 기기”라며 “시중의 ESP32 보드를 프로그래밍하거나 우리 SDKs로 Raspberry Pi를 설정한 뒤, Muse를 디스플레이, 버튼, 센서, 액추에이터 등 작업대에 놓인 무엇에든 연결하라”고 설명한다. 다만 Meta는 “위험은 각자 책임지라!”고 경고한다."
               },
               {
                 "t": "p",
-                "x": "보고 있는 대상에 대해 후속 질문도 할 수 있다. 예컨대 Gemini가 찾아준 물건의 유통기한을 읽어 달라고 요청하는 식이다. Google에 따르면 화면에 잡히지 않은 대상을 물으면 Gemini가 카메라 위치를 맞추도록 소리 신호를 준다. 다만 Google은 Guided Vision을 “길 안내, 안전한 이동 안내, 장애물 감지” 같은 용도로 의존하거나 지팡이·보행 보조 기구 대신 쓰지 말라고 당부한다."
+                "x": "회사는 직접 만든 Muse Home Link 기기도 무료로 나눠 준다. Meta에 따르면 Muse Home Link를 쓰면 커뮤니티가 만든 스킬로 AI 에이전트가 “설정에 따라 조명을 켜고, TV를 제어하고, 문서를 프린터로 보내는 등”의 일을 하게 할 수 있다. Meta Superintelligence Labs의 Nat Friedman에 따르면 Meta는 이 기기를 5,000대 생산했으며, 이달 중 배송에 앞서 지금 Muse Home Link 대기 명단에 이름을 올릴 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Meta의 Muse Home Link 기기."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Guided Vision\n小さな文字も読み上げ",
-          "body": "Gemini LiveのGuided Visionはカメラに映るものを音声で説明する。",
-          "mini_headline": "Gemini Guided Vision",
+          "headline": "Meta、Muse AI\n機器の自作コードを公開",
+          "body": "MetaはMuse AI機器を自作できるコードを公開し、「自己責任で」と警告した。",
+          "mini_headline": "MetaがMuse機器コードを公開",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+                "cap": "画像：The Verge、Getty Images、Meta"
               },
               {
                 "t": "p",
-                "x": "対応するAndroid端末のGemini Liveで本日、Guided Visionの提供が始まる。スマートフォンのカメラを向けたものをAIがリアルタイムに音声で説明する機能だ。Gemini Liveでカメラを共有すると、小さな文字の読み上げ、周囲の様子の説明、身の回りの物の発見や識別、特定の物の細部の説明などをGoogleのAIが手助けする。"
+                "x": "Metaがオープンソース化したコードを使えば、同社の新しいAIエージェントを搭載したMuse機器を自作できるようになった。同社が提案するプロジェクトには、カラーE InkディスプレイにMuseを載せてリマインダーを表示する、HDMIスティックに組み込んで大画面にMuseを映す、小型タッチスクリーン機器にMuseを入れてDIY Muse Charmのようなものを作る、といったものがある。"
               },
               {
                 "t": "p",
-                "x": "AppleがiPhoneとVision Proに追加したVoiceOver Live Recognitionと同様、視覚に障害のある人やロービジョンの人、特定の場面で支援を必要とする人に向けて設計されている。最近のPixelアップデートで発表されたGuided Visionは、Geminiアプリに加えてGoogle TalkBackでも利用でき、Android 9以降の端末では設定アプリでユーザー補助のショートカットを設定することもできる。"
+                "x": "Metaは「Muse機器は自分で組み立てるオープンソースのデバイスだ」とし、「市販のESP32ボードをプログラムするか、当社のSDKsでRaspberry Piをセットアップし、Museをディスプレイ、ボタン、センサー、アクチュエーター、そのほか作業台に転がっているあらゆるものにつなげてほしい」と説明する。ただしMetaは「自己責任で進めてほしい！」と注意を促している。"
               },
               {
                 "t": "p",
-                "x": "見ている対象について追加で質問することもできる。たとえば、見つけてもらった商品の賞味期限をGeminiに読み上げてもらうといった使い方だ。画面に映っていないものについて尋ねると、Geminiが音声の合図でカメラの位置合わせを手助けするとGoogleは説明する。ただしGoogleは、Guided Visionを「ナビゲーション、安全な移動の案内、障害物の検知」などに頼ったり、杖や移動補助具の代わりにしたりしないよう注意を促している。"
+                "x": "同社は自ら開発したMuse Home Link機器の無償配布も行う。Metaによると、Muse Home Linkを使えば、コミュニティが作ったスキルでAIエージェントに「設定に応じて照明をつけ、TVを操作し、文書をプリンターに送るなど」させられる。Meta Superintelligence LabsのNat Friedmanによれば、Metaはこの機器を5,000台製造しており、今月中の出荷を前に、いまからMuse Home Linkのウェイトリストに登録できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "MetaのMuse Home Link機器。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Guided Vision\n帮你读清小字",
-          "body": "Gemini Live的Guided Vision可用语音描述手机摄像头拍到的内容。",
-          "mini_headline": "Gemini Guided Vision",
+          "headline": "Meta开源代码\n可自制Muse AI设备",
+          "body": "Meta开源了自制Muse AI设备的代码，并提醒创客风险自负。",
+          "mini_headline": "Meta开源Muse设备代码",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+                "cap": "图片：The Verge、Getty Images、Meta"
               },
               {
                 "t": "p",
-                "x": "Guided Vision今天起在兼容Android设备上的Gemini Live中推出，利用AI实时语音描述手机摄像头所对准的任何事物。在Gemini Live中共享摄像头后，Google的AI可以帮助你阅读小字、描述周围环境、寻找或识别身边物体，以及描述特定物体的细节。"
+                "x": "借助Meta开源的代码，现在你可以自己制作搭载该公司新AI智能体的Muse设备。Meta建议的项目包括：把Muse装进彩色E Ink显示屏来显示提醒；将其加入HDMI电视棒，在大屏幕上显示Muse；或者把Muse放进小型触屏设备，做出一个有点像DIY Muse Charm的东西。"
               },
               {
                 "t": "p",
-                "x": "与Apple为iPhone和Vision Pro加入的VoiceOver Live Recognition功能类似，它面向盲人、低视力人群，或在特定场景下需要帮助的用户。Guided Vision已在最近一批Pixel更新中公布，除Gemini应用外，也可在Google TalkBack中使用；在运行Android 9及以上版本的设备上，用户还可以在设置应用中为其设置无障碍快捷方式。"
+                "x": "Meta表示：“Muse设备是你自己动手打造的开源设备。用我们的SDKs为现成的ESP32开发板编程，或设置一台Raspberry Pi，然后把Muse连接到你的显示屏、按钮、传感器、执行器，以及工作台上任何闲置的东西。”不过Meta也提醒：“风险自负！”"
               },
               {
                 "t": "p",
-                "x": "你还可以就所看的东西继续追问，例如让Gemini读出它帮你找到的物品上的保质期。Google表示，如果你询问的东西不在画面中，Gemini会给出音频提示，帮你对准摄像头。不过，Google提醒用户，不要依赖Guided Vision进行“导航、安全出行指引或障碍物检测”等用途，也不要用它代替手杖或助行器具。"
+                "x": "该公司还在免费发放自己打造的Muse Home Link设备。Meta称，借助Muse Home Link，你可以利用社区开发的技能让AI智能体“根据你的设置，开灯、控制TV、把文件发送到打印机等等”。据Meta Superintelligence Labs的Nat Friedman透露，Meta生产了5,000台这款设备；在本月某个时候发货之前，你现在就可以申请Muse Home Link的候补名额。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "Meta的Muse Home Link设备。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guided Vision de Google\nayuda a leer la letra pequeña",
-          "body": "Guided Vision en Gemini Live describe en voz alta lo que enfoca la cámara, desde texto pequeño hasta objetos.",
-          "mini_headline": "Gemini Guided Vision",
+          "headline": "Meta abre el código para crear\ntus propios gadgets de Muse AI",
+          "body": "Meta liberó el código para que cada uno cree sus propios gadgets de Muse AI y advirtió que es bajo su propio riesgo.",
+          "mini_headline": "Meta libera el código de los gadgets Muse",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+                "cap": "Imagen: The Verge, Getty Images, Meta"
               },
               {
                 "t": "p",
-                "x": "Guided Vision llega hoy a Gemini Live en dispositivos Android compatibles para usar IA y ofrecer descripciones de audio en tiempo real de todo lo que se enfoque con la cámara del teléfono. Al compartir la cámara en Gemini Live, la IA de Google puede ayudar a leer texto pequeño, describir el entorno, encontrar o identificar objetos cercanos y describir detalles de objetos concretos."
+                "x": "Meta ahora permite fabricar tus propios gadgets de Muse, con el nuevo agente de AI de la compañía, gracias a código que la empresa liberó como open source. La compañía sugiere proyectos como cargar Muse en una pantalla E Ink a color para mostrar recordatorios, añadirlo a un stick HDMI para ver Muse en una pantalla grande o poner Muse en un pequeño dispositivo táctil para crear algo parecido a un DIY Muse Charm."
               },
               {
                 "t": "p",
-                "x": "Al igual que la función VoiceOver Live Recognition que Apple ha añadido al iPhone y al Vision Pro, está pensada para personas ciegas, con baja visión o que necesitan ayuda en situaciones concretas. Además de en la app Gemini, Guided Vision también está disponible en Google TalkBack, y los usuarios pueden configurar un acceso directo de accesibilidad en la app Ajustes de los dispositivos con Android 9 o posterior, después de que se anunciara en una reciente tanda de actualizaciones de Pixel."
+                "x": "“Los gadgets de Muse son dispositivos open source que construyes tú mismo”, dice Meta. “Programa una placa ESP32 comercial o configura una Raspberry Pi con nuestros SDKs y luego conecta Muse a tus pantallas, botones, sensores, actuadores y cualquier otra cosa que tengas en tu mesa de trabajo”. Sin embargo, Meta advierte: “¡Hazlo bajo tu propio riesgo!”"
               },
               {
                 "t": "p",
-                "x": "También se pueden hacer preguntas de seguimiento sobre lo que se está mirando, como pedir a Gemini que lea la fecha de caducidad de un artículo que ayudó a encontrar. Google afirma que Gemini dará indicaciones sonoras para ayudar a encuadrar la cámara si se pregunta por algo que no está en la imagen. Sin embargo, Google advierte a los usuarios que no confíen en Guided Vision para tareas como “navegación, orientación para desplazarse con seguridad o detección de obstáculos”, ni como sustituto de un bastón o una ayuda para la movilidad."
+                "x": "La compañía también regala un gadget Muse Home Link creado por ella misma. Con el Muse Home Link, puedes usar habilidades creadas por la comunidad para que el agente de AI “encienda una luz, controle tu TV, envíe un documento a una impresora y más, según tu configuración”, dice Meta. Según Nat Friedman, de Meta Superintelligence Labs, la empresa fabricó 5,000 unidades, y ya es posible reservar un lugar en la lista de espera del Muse Home Link antes de que comiencen los envíos en algún momento de este mes."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+                "cap": "El gadget Muse Home Link de Meta."
               }
             ]
           }
@@ -979,15 +787,849 @@
       }
     },
     {
-      "id": "gadgets-oura-xella-biomarkers",
+      "id": "dgx-spark-64gb",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Oura, 링 데이터에\nAI 바이오마커 검사",
-      "body": "미국 Oura 링 데이터를 Xella AI가 바이오마커 검사와 묶는다.",
-      "mini_headline": "Oura, AI 바이오마커 검사 추가",
+      "headline": "64GB DGX Spark\nNvidia $4,999~",
+      "body": "Nvidia GB10 64GB DGX Spark는 $4,999로 메모리 외엔 같다.",
+      "mini_headline": "Nvidia의 $4,999 DGX Spark",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+            "cap": "이미지 출처: Future"
+          },
+          {
+            "t": "p",
+            "x": "Nvidia가 DGX Spark 64GB 버전을 내놓는다. 128GB RAM까지는 필요 없는 로컬 AI 사용자에게 더 싼 선택지를 주겠다는 계산이다."
+          },
+          {
+            "t": "p",
+            "x": "AI 분야는 빨리 움직인다. 이제 Qwen 3.8 27B 같은 dense 모델은 32GB RAM 안에 들어간다. RAM 가격까지 치솟으면서, 값비싼 LPDDR5X와 영구히 묶인 칩은 장점이라기보다 걸림돌이 됐다."
+          },
+          {
+            "t": "p",
+            "x": "Acer, Asus, Dell, Gigabyte, HP, MSI의 64GB GB10 시스템은 10월 23일 출시 때 $4999부터 시작한다. 다만 메모리 가격 탓에 이 가격이 유지되지 않을 수도 있다. 128GB GB10 시스템은 구할 수만 있다면 대략 $7000에서 $9000 선이다."
+          },
+          {
+            "t": "p",
+            "x": "나머지는 64GB Sparks도 똑같다. 클러스터링용 ConnectX 7 RDMA NIC, 20-core Arm CPU, 273 GB/s 공유 메모리 대역폭 모두 그대로다."
+          },
+          {
+            "t": "p",
+            "x": "Nvidia는 여러 Sparks를 자동으로 묶는 Sync Cluster Assistant도 추가한다. 하나 이상의 시스템에서 모델을 내려받아 실행하고 OpenCode 코딩 에이전트에 연결해 주는 Model Launcher도 함께다. 128GB Spark는 더 큰 모델과 파인튜닝용으로 계속 판매된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Nvidia adds a 64GB DGX Spark\nstarting at $4,999",
+          "body": "Nvidia's new GB10 config, a 64GB DGX Spark from $4,999, has less memory and a lower price but is otherwise identical.",
+          "mini_headline": "Nvidia's $4,999 DGX Spark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+                "cap": "Image credit: Future"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia is introducing a 64GB version of its DGX Spark, meant to be more affordable for local AI users who don't need 128GB of RAM."
+              },
+              {
+                "t": "p",
+                "x": "The AI field moves fast: dense models like Qwen 3.8 27B can now fit within 32GB of RAM, and skyrocketing RAM prices make a chip permanently paired with costly LPDDR5X more of a barrier than an asset."
+              },
+              {
+                "t": "p",
+                "x": "64GB GB10 systems from Acer, Asus, Dell, Gigabyte, HP, and MSI are slated to start at $4999 when they launch on October 23 — though memory prices may not let them stay there. 128GB GB10 systems, if you can find one, run roughly $7000 to $9000."
+              },
+              {
+                "t": "p",
+                "x": "Otherwise the 64GB Sparks are unchanged: the same ConnectX 7 RDMA NIC for clustering, the same 20-core Arm CPU, and the same 273 GB/s of shared memory bandwidth."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia is also adding the Sync Cluster Assistant to automate joining Sparks together, plus a Model Launcher that downloads and starts models across one or more systems and links them to the OpenCode coding agent. The 128GB Spark remains available for larger models and fine-tuning."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "64GB DGX Spark\nNvidia $4,999~",
+          "body": "Nvidia GB10 64GB DGX Spark는 $4,999로 메모리 외엔 같다.",
+          "mini_headline": "Nvidia의 $4,999 DGX Spark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+                "cap": "이미지 출처: Future"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia가 DGX Spark 64GB 버전을 내놓는다. 128GB RAM까지는 필요 없는 로컬 AI 사용자에게 더 싼 선택지를 주겠다는 계산이다."
+              },
+              {
+                "t": "p",
+                "x": "AI 분야는 빨리 움직인다. 이제 Qwen 3.8 27B 같은 dense 모델은 32GB RAM 안에 들어간다. RAM 가격까지 치솟으면서, 값비싼 LPDDR5X와 영구히 묶인 칩은 장점이라기보다 걸림돌이 됐다."
+              },
+              {
+                "t": "p",
+                "x": "Acer, Asus, Dell, Gigabyte, HP, MSI의 64GB GB10 시스템은 10월 23일 출시 때 $4999부터 시작한다. 다만 메모리 가격 탓에 이 가격이 유지되지 않을 수도 있다. 128GB GB10 시스템은 구할 수만 있다면 대략 $7000에서 $9000 선이다."
+              },
+              {
+                "t": "p",
+                "x": "나머지는 64GB Sparks도 똑같다. 클러스터링용 ConnectX 7 RDMA NIC, 20-core Arm CPU, 273 GB/s 공유 메모리 대역폭 모두 그대로다."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia는 여러 Sparks를 자동으로 묶는 Sync Cluster Assistant도 추가한다. 하나 이상의 시스템에서 모델을 내려받아 실행하고 OpenCode 코딩 에이전트에 연결해 주는 Model Launcher도 함께다. 128GB Spark는 더 큰 모델과 파인튜닝용으로 계속 판매된다."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nvidia añade un DGX Spark\nde 64GB desde $4,999",
+          "body": "El DGX Spark de 64GB de Nvidia, con GB10 y desde $4,999, tiene menos memoria pero es idéntico en lo demás.",
+          "mini_headline": "El DGX Spark de $4,999 de Nvidia",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+                "cap": "Crédito de la imagen: Future"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia presenta una versión de 64GB de su DGX Spark, pensada para ser más asequible para usuarios de AI local que no necesitan 128GB de RAM."
+              },
+              {
+                "t": "p",
+                "x": "El campo de la AI avanza rápido: modelos densos como Qwen 3.8 27B ya caben en 32GB de RAM, y la subida disparada de los precios de la RAM hace que un chip unido de forma permanente a la costosa LPDDR5X sea más un obstáculo que una ventaja."
+              },
+              {
+                "t": "p",
+                "x": "Los sistemas GB10 de 64GB de Acer, Asus, Dell, Gigabyte, HP y MSI empezarán en $4999 cuando salgan a la venta el 23 de octubre, aunque es posible que los precios de la memoria no permitan mantenerlos ahí. Los sistemas GB10 de 128GB, si se consigue alguno, cuestan aproximadamente entre $7000 y $9000."
+              },
+              {
+                "t": "p",
+                "x": "Por lo demás, los Sparks de 64GB no cambian: la misma ConnectX 7 RDMA NIC para clustering, la misma CPU Arm 20-core y el mismo ancho de banda de memoria compartida de 273 GB/s."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia también añade Sync Cluster Assistant para automatizar la conexión de varios Sparks, además de un Model Launcher que descarga e inicia modelos en uno o más sistemas y los vincula con el agente de programación OpenCode. El Spark de 128GB sigue disponible para modelos más grandes y ajuste fino."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "64GB版DGX Spark\n$4,999から登場",
+          "body": "GB10搭載の64GB版DGX Sparkは$4,999からで、メモリと価格以外は同じだ。",
+          "mini_headline": "Nvidiaの$4,999 DGX Spark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+                "cap": "画像提供：Future"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaは、128GBのRAMを必要としないローカルAIユーザー向けに、より手頃な64GB版DGX Sparkを投入する。"
+              },
+              {
+                "t": "p",
+                "x": "AI分野の進歩は速い。Qwen 3.8 27B のような高密度モデルは今や32GBのRAMに収まり、RAM価格の高騰によって、高価なLPDDR5Xと恒久的に組み合わされたチップは利点というより障壁になりつつある。"
+              },
+              {
+                "t": "p",
+                "x": "Acer、Asus、Dell、Gigabyte、HP、MSIの64GB GB10システムは、10月23日の発売時に$4999からとなる予定だ。ただしメモリ価格次第でその水準を保てない可能性もある。128GB GB10システムは、入手できたとしてもおよそ$7000〜$9000だ。"
+              },
+              {
+                "t": "p",
+                "x": "それ以外は64GB版Sparkも変わらない。クラスタリング用の同じConnectX 7 RDMA NIC、同じ20コアのArm CPU、そして同じ273 GB/sの共有メモリ帯域幅を備える。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaはさらに、Spark同士の連携を自動化するSync Cluster Assistantと、一台以上のシステムでモデルをダウンロード・起動し、OpenCodeコーディングエージェントと連携させるModel Launcherも追加する。128GB版Sparkは、より大きなモデルやファインチューニング向けに引き続き提供される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "64GB版DGX Spark\n$4,999起售",
+          "body": "GB10新配置64GB版DGX Spark售价$4,999起，除内存和价格外完全相同。",
+          "mini_headline": "Nvidia的$4,999 DGX Spark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+                "cap": "图片来源：Future"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia推出64GB版DGX Spark，面向不需要128GB RAM的本地AI用户，价格更加亲民。"
+              },
+              {
+                "t": "p",
+                "x": "AI领域发展迅速：像Qwen 3.8 27B 这样的稠密模型如今已能装进32GB RAM，而RAM价格飙升，使得与昂贵LPDDR5X永久绑定的芯片与其说是优势，不如说是门槛。"
+              },
+              {
+                "t": "p",
+                "x": "Acer、Asus、Dell、Gigabyte、HP和MSI的64GB GB10系统预计将于10月23日上市，起价$4999，不过内存价格可能让它们难以维持这一价位。128GB GB10系统即便能买到，售价也大约在$7000到$9000之间。"
+              },
+              {
+                "t": "p",
+                "x": "除此之外，64GB版Spark没有任何变化：同样配备用于集群的ConnectX 7 RDMA NIC、同样的20核Arm CPU，以及同样273 GB/s的共享内存带宽。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia还新增了Sync Cluster Assistant，可自动将多台Spark连接在一起；另有Model Launcher，可在一台或多台系统上下载并启动模型，并将其接入OpenCode编程代理。128GB版Spark仍将继续供应，用于更大的模型和微调。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "64GB DGX Spark\nNvidia $4,999~",
+          "body": "Nvidia GB10 64GB DGX Spark는 $4,999로 메모리 외엔 같다.",
+          "mini_headline": "Nvidia의 $4,999 DGX Spark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+                "cap": "이미지 출처: Future"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia가 DGX Spark의 64GB 버전을 선보인다. 128GB RAM까지는 필요 없는 로컬 AI 사용자에게 더 저렴한 선택지를 주려는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "AI 분야는 빠르게 움직인다. 이제 Qwen 3.8 27B 같은 dense 모델은 32GB RAM 안에 들어가고, RAM 가격이 치솟으면서 값비싼 LPDDR5X와 영구히 묶인 칩은 장점이라기보다 걸림돌이 됐다."
+              },
+              {
+                "t": "p",
+                "x": "Acer, Asus, Dell, Gigabyte, HP, MSI의 64GB GB10 시스템은 10월 23일 출시 때 $4999부터 시작할 예정이다. 다만 메모리 가격 때문에 그 가격이 유지되지 않을 수도 있다. 128GB GB10 시스템은 구할 수만 있다면 대략 $7000에서 $9000 수준이다."
+              },
+              {
+                "t": "p",
+                "x": "그 밖에 64GB Sparks는 그대로다. 클러스터링용 ConnectX 7 RDMA NIC, 20-core Arm CPU, 273 GB/s 공유 메모리 대역폭까지 모두 같다."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia는 여러 Sparks를 자동으로 묶어 주는 Sync Cluster Assistant와, 하나 이상의 시스템에서 모델을 내려받아 실행하고 OpenCode 코딩 에이전트에 연결하는 Model Launcher도 추가한다. 128GB Spark는 더 큰 모델과 파인튜닝 용도로 계속 판매된다."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nvidia añade un DGX Spark\nde 64GB desde $4,999",
+          "body": "El DGX Spark de 64GB de Nvidia, con GB10 y desde $4,999, tiene menos memoria pero es idéntico en lo demás.",
+          "mini_headline": "El DGX Spark de $4,999 de Nvidia",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+                "cap": "Crédito de la imagen: Future"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia presenta una versión de 64GB de su DGX Spark, pensada para ser más asequible para usuarios de AI local que no necesitan 128GB de RAM."
+              },
+              {
+                "t": "p",
+                "x": "El campo de la AI avanza rápido: modelos densos como Qwen 3.8 27B ya caben en 32GB de RAM, y la subida disparada de los precios de la RAM hace que un chip unido de forma permanente a la costosa LPDDR5X sea más un obstáculo que una ventaja."
+              },
+              {
+                "t": "p",
+                "x": "Los sistemas GB10 de 64GB de Acer, Asus, Dell, Gigabyte, HP y MSI empezarán en $4999 cuando salgan a la venta el 23 de octubre, aunque es posible que los precios de la memoria no permitan mantenerlos ahí. Los sistemas GB10 de 128GB, si se consigue alguno, cuestan aproximadamente entre $7000 y $9000."
+              },
+              {
+                "t": "p",
+                "x": "Por lo demás, los Sparks de 64GB no cambian: la misma ConnectX 7 RDMA NIC para clustering, la misma CPU Arm 20-core y el mismo ancho de banda de memoria compartida de 273 GB/s."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia también añade Sync Cluster Assistant para automatizar la conexión de varios Sparks, además de un Model Launcher que descarga e inicia modelos en uno o más sistemas y los vincula con el agente de programación OpenCode. El Spark de 128GB sigue disponible para modelos más grandes y ajuste fino."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "64GB版DGX Spark\n$4,999から登場",
+          "body": "GB10搭載の64GB版DGX Sparkは$4,999からで、メモリと価格以外は同じだ。",
+          "mini_headline": "Nvidiaの$4,999 DGX Spark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+                "cap": "画像提供：Future"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaは、128GBのRAMを必要としないローカルAIユーザー向けに、より手頃な64GB版DGX Sparkを投入する。"
+              },
+              {
+                "t": "p",
+                "x": "AI分野の進歩は速い。Qwen 3.8 27B のような高密度モデルは今や32GBのRAMに収まり、RAM価格の高騰によって、高価なLPDDR5Xと恒久的に組み合わされたチップは利点というより障壁になりつつある。"
+              },
+              {
+                "t": "p",
+                "x": "Acer、Asus、Dell、Gigabyte、HP、MSIの64GB GB10システムは、10月23日の発売時に$4999からとなる予定だ。ただしメモリ価格次第でその水準を保てない可能性もある。128GB GB10システムは、入手できたとしてもおよそ$7000〜$9000だ。"
+              },
+              {
+                "t": "p",
+                "x": "それ以外は64GB版Sparkも変わらない。クラスタリング用の同じConnectX 7 RDMA NIC、同じ20コアのArm CPU、そして同じ273 GB/sの共有メモリ帯域幅を備える。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidiaはさらに、Spark同士の連携を自動化するSync Cluster Assistantと、一台以上のシステムでモデルをダウンロード・起動し、OpenCodeコーディングエージェントと連携させるModel Launcherも追加する。128GB版Sparkは、より大きなモデルやファインチューニング向けに引き続き提供される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "64GB版DGX Spark\n$4,999起售",
+          "body": "GB10新配置64GB版DGX Spark售价$4,999起，除内存和价格外完全相同。",
+          "mini_headline": "Nvidia的$4,999 DGX Spark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+                "cap": "图片来源：Future"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia推出64GB版DGX Spark，面向不需要128GB RAM的本地AI用户，价格更加亲民。"
+              },
+              {
+                "t": "p",
+                "x": "AI领域发展迅速：像Qwen 3.8 27B 这样的稠密模型如今已能装进32GB RAM，而RAM价格飙升，使得与昂贵LPDDR5X永久绑定的芯片与其说是优势，不如说是门槛。"
+              },
+              {
+                "t": "p",
+                "x": "Acer、Asus、Dell、Gigabyte、HP和MSI的64GB GB10系统预计将于10月23日上市，起价$4999，不过内存价格可能让它们难以维持这一价位。128GB GB10系统即便能买到，售价也大约在$7000到$9000之间。"
+              },
+              {
+                "t": "p",
+                "x": "除此之外，64GB版Spark没有任何变化：同样配备用于集群的ConnectX 7 RDMA NIC、同样的20核Arm CPU，以及同样273 GB/s的共享内存带宽。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia还新增了Sync Cluster Assistant，可自动将多台Spark连接在一起；另有Model Launcher，可在一台或多台系统上下载并启动模型，并将其接入OpenCode编程代理。128GB版Spark仍将继续供应，用于更大的模型和微调。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gemini-replaces-assistant-android",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Android 비서,\nGemini로 완전 교체",
+      "body": "Android Google Assistant 종료가 퍼지며 Gemini가 대신한다.",
+      "mini_headline": "Gemini, Assistant 대체",
+      "tool": "Gadgets",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "모바일 Google Assistant 지원 종료는 9월 초에 시작됐다. 이제는 꽤 넓게 적용된 것으로 보인다."
+          },
+          {
+            "t": "p",
+            "x": "Google은 지난 몇 주 동안 Assistant 사용자를 Gemini로 옮겨 왔다. 이번 지원 종료는 원래 2025년 예정이었다가 2026년으로 밀렸고, Google은 8월 초에 최종 일정을 발표했다."
+          },
+          {
+            "t": "p",
+            "x": "오늘 들어온 여러 사용자 제보를 보면 전환이 본격적으로 진행 중인 듯하다. 미국(US)과 유럽에서 확인한 모든 기기와 계정에서 Google Assistant가 사라졌다."
+          },
+          {
+            "t": "p",
+            "x": "Gemini 앱에서는 “Switch to Google Assistant” 설정이 사라졌다. Google 앱 17.60 정식 버전과 17.62 베타의 계정 메뉴 하단에서도 이 바로가기는 더 이상 보이지 않는다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+          },
+          {
+            "t": "p",
+            "x": "이제 “휴대폰, 태블릿 또는 연결된 기기에서 Google Assistant를 사용하거나 다시 전환”할 수 없다. 연결된 기기에는 Wear OS, 헤드폰, Android Auto도 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "“Google Nest 및 Google Home 스마트 스피커, 디스플레이, 기타 Google Assistant-enabled 스피커와 디스플레이”의 Assistant에는 아직 변화가 없다."
+          },
+          {
+            "t": "p",
+            "x": "이제 전원 버튼을 길게 누르거나 화면 모서리에서 스와이프하면 “Android의 음성 비서 경험”은 Gemini가 맡는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Gemini fully replaces\nGoogle Assistant on Android",
+          "body": "Begun in early September, the Google Assistant phase-out on Android is rolling out widely, leaving Gemini in its place.",
+          "mini_headline": "Gemini replaces Assistant",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "At the start of September, the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out."
+              },
+              {
+                "t": "p",
+                "x": "Google has been moving Assistant users to Gemini over the past few weeks. This deprecation was originally set for 2025 and later extended to 2026. In early August, Google announced the final timeline."
+              },
+              {
+                "t": "p",
+                "x": "From various user reports today, this migration appears to be fully underway. Google Assistant is gone on all devices/accounts we checked in the US and Europe."
+              },
+              {
+                "t": "p",
+                "x": "Notably, the Gemini app has removed the “Switch to Google Assistant” setting. This shortcut no longer appears at the bottom of the account menu with Google app 17.60 stable and 17.62 beta."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "As such, you can no longer “use or switch back to Google Assistant on your phone, tablet, or paired devices.” The latter grouping includes Wear OS, headphones, and Android Auto."
+              },
+              {
+                "t": "p",
+                "x": "There are no changes to Assistant just yet on “Google Nest and Google Home smart speakers, displays, or other Google Assistant-enabled speakers and displays.”"
+              },
+              {
+                "t": "p",
+                "x": "Gemini is now the “voice assistant experience on Android” when you long-press the power button or swipe from the corners."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Android 비서,\nGemini로 완전 교체",
+          "body": "Android Google Assistant 종료가 퍼지며 Gemini가 대신한다.",
+          "mini_headline": "Gemini, Assistant 대체",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "모바일 Google Assistant 지원 종료는 9월 초에 시작됐다. 이제는 꽤 넓게 적용된 것으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 지난 몇 주 동안 Assistant 사용자를 Gemini로 옮겨 왔다. 이번 지원 종료는 원래 2025년 예정이었다가 2026년으로 밀렸고, Google은 8월 초에 최종 일정을 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "오늘 들어온 여러 사용자 제보를 보면 전환이 본격적으로 진행 중인 듯하다. 미국(US)과 유럽에서 확인한 모든 기기와 계정에서 Google Assistant가 사라졌다."
+              },
+              {
+                "t": "p",
+                "x": "Gemini 앱에서는 “Switch to Google Assistant” 설정이 사라졌다. Google 앱 17.60 정식 버전과 17.62 베타의 계정 메뉴 하단에서도 이 바로가기는 더 이상 보이지 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "이제 “휴대폰, 태블릿 또는 연결된 기기에서 Google Assistant를 사용하거나 다시 전환”할 수 없다. 연결된 기기에는 Wear OS, 헤드폰, Android Auto도 들어간다."
+              },
+              {
+                "t": "p",
+                "x": "“Google Nest 및 Google Home 스마트 스피커, 디스플레이, 기타 Google Assistant-enabled 스피커와 디스플레이”의 Assistant에는 아직 변화가 없다."
+              },
+              {
+                "t": "p",
+                "x": "이제 전원 버튼을 길게 누르거나 화면 모서리에서 스와이프하면 “Android의 음성 비서 경험”은 Gemini가 맡는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Androidのアシスタント\nGeminiに完全移行",
+          "body": "AndroidのGoogle Assistant廃止が本格化し、Geminiに置き換わる。",
+          "mini_headline": "GeminiがAssistantを置き換え",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "9月初め、モバイル版Google Assistantの提供終了が始まった。現在は広範囲に展開されているようだ。"
+              },
+              {
+                "t": "p",
+                "x": "Googleはここ数週間、AssistantユーザーをGeminiへ移行させてきた。この提供終了は当初2025年に予定され、その後2026年に延期された。Googleは8月初めに最終的なスケジュールを発表していた。"
+              },
+              {
+                "t": "p",
+                "x": "本日寄せられた複数のユーザー報告から見て、移行は本格的に進んでいるようだ。米国（US）と欧州で確認したすべてのデバイスとアカウントで、Google Assistantは姿を消している。"
+              },
+              {
+                "t": "p",
+                "x": "注目すべきは、Geminiアプリから「Switch to Google Assistant」の設定が削除されたことだ。Googleアプリ17.60安定版と17.62ベータでは、このショートカットがアカウントメニューの下部に表示されなくなった。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "そのため、もはや「スマートフォン、タブレット、またはペアリングしたデバイスでGoogle Assistantを使用したり、Google Assistantに戻したりする」ことはできない。ペアリングしたデバイスにはWear OS、ヘッドフォン、Android Autoが含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "「Google NestおよびGoogle Homeのスマートスピーカーやディスプレイ、その他のGoogle Assistant-enabledのスピーカーやディスプレイ」のAssistantには、まだ変更はない。"
+              },
+              {
+                "t": "p",
+                "x": "現在は、電源ボタンを長押しするか画面の隅からスワイプすると、Geminiが「Androidの音声アシスタント体験」となる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Android语音助手\n全面换成Gemini",
+          "body": "Android版Google Assistant淘汰已大范围推开，由Gemini接替。",
+          "mini_headline": "Gemini取代Assistant",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "9月初，移动端Google Assistant的停用工作已经启动，现在看来正在大范围推开。"
+              },
+              {
+                "t": "p",
+                "x": "过去几周，Google一直在把Assistant用户迁移到Gemini。此次停用原定于2025年，后来推迟到2026年。8月初，Google公布了最终时间表。"
+              },
+              {
+                "t": "p",
+                "x": "从今天多位用户的反馈来看，此次迁移似乎已全面展开。在我们检查过的美国（US）和欧洲的所有设备和账户上，Google Assistant都已消失。"
+              },
+              {
+                "t": "p",
+                "x": "值得注意的是，Gemini应用已移除“Switch to Google Assistant”设置。在Google应用17.60稳定版和17.62测试版中，这个快捷方式不再出现在账户菜单底部。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "因此，你已无法再“在手机、平板电脑或配对设备上使用或切换回Google Assistant”。配对设备包括Wear OS、耳机和Android Auto。"
+              },
+              {
+                "t": "p",
+                "x": "“Google Nest和Google Home智能音箱、显示屏，或其他Google Assistant-enabled音箱和显示屏”上的Assistant暂时还没有变化。"
+              },
+              {
+                "t": "p",
+                "x": "现在，长按电源键或从屏幕角落滑动时，Gemini就是“Android上的语音助手体验”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gemini reemplaza por completo\na Google Assistant en Android",
+          "body": "La retirada de Google Assistant en Android, iniciada a principios de septiembre, se amplía y deja paso a Gemini.",
+          "mini_headline": "Gemini reemplaza a Assistant",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A principios de septiembre comenzó la retirada de Google Assistant en dispositivos móviles. Ahora parece que se está implementando de forma generalizada."
+              },
+              {
+                "t": "p",
+                "x": "Google ha estado trasladando a los usuarios de Assistant a Gemini durante las últimas semanas. Esta retirada estaba prevista originalmente para 2025 y luego se aplazó a 2026. A principios de agosto, Google anunció el calendario definitivo."
+              },
+              {
+                "t": "p",
+                "x": "Según varios reportes de usuarios de hoy, esta migración parece estar plenamente en marcha. Google Assistant ha desaparecido en todos los dispositivos y cuentas que revisamos en Estados Unidos (US) y Europa."
+              },
+              {
+                "t": "p",
+                "x": "En particular, la app Gemini eliminó el ajuste “Switch to Google Assistant”. Este acceso directo ya no aparece en la parte inferior del menú de la cuenta con la app de Google 17.60 estable y 17.62 beta."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Por lo tanto, ya no es posible “usar Google Assistant ni volver a él en tu teléfono, tablet o dispositivos vinculados”. Este último grupo incluye Wear OS, auriculares y Android Auto."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora no hay cambios en Assistant en “los altavoces y pantallas inteligentes Google Nest y Google Home, ni en otros altavoces y pantallas Google Assistant-enabled”."
+              },
+              {
+                "t": "p",
+                "x": "Gemini es ahora la “experiencia de asistente de voz en Android” al mantener pulsado el botón de encendido o deslizar desde las esquinas."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Android 비서,\nGemini로 완전 교체",
+          "body": "Android Google Assistant 종료가 확산돼 Gemini가 대신한다.",
+          "mini_headline": "Gemini, Assistant 대체",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "9월 초 모바일에서 Google Assistant 지원 종료가 시작됐다. 이제는 광범위하게 적용되고 있는 것으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 지난 몇 주 동안 Assistant 사용자를 Gemini로 옮겨 왔다. 이번 지원 종료는 원래 2025년으로 예정됐다가 이후 2026년으로 연기됐다. Google은 8월 초 최종 일정을 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "오늘 여러 사용자 제보를 보면 이번 전환은 본격적으로 진행 중인 듯하다. 미국(US)과 유럽에서 확인한 모든 기기와 계정에서 Google Assistant가 사라졌다."
+              },
+              {
+                "t": "p",
+                "x": "특히 Gemini 앱에서 “Switch to Google Assistant” 설정이 사라졌다. Google 앱 17.60 정식 버전과 17.62 베타에서는 이 바로가기가 더 이상 계정 메뉴 하단에 나타나지 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "따라서 이제 “휴대폰, 태블릿 또는 연결된 기기에서 Google Assistant를 사용하거나 다시 전환”할 수 없다. 연결된 기기에는 Wear OS, 헤드폰, Android Auto가 포함된다."
+              },
+              {
+                "t": "p",
+                "x": "“Google Nest 및 Google Home 스마트 스피커, 디스플레이, 기타 Google Assistant-enabled 스피커와 디스플레이”의 Assistant에는 아직 변화가 없다."
+              },
+              {
+                "t": "p",
+                "x": "이제 전원 버튼을 길게 누르거나 화면 모서리에서 스와이프하면 Gemini가 “Android의 음성 비서 경험”을 맡는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Androidのアシスタント\nGeminiに完全移行",
+          "body": "AndroidのGoogle Assistant廃止が本格化し、Geminiに置き換わる。",
+          "mini_headline": "GeminiがAssistantを置き換え",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "9月初め、モバイル版Google Assistantの提供終了が始まった。現在は広範囲に展開されているようだ。"
+              },
+              {
+                "t": "p",
+                "x": "Googleはここ数週間、AssistantユーザーをGeminiへ移行させてきた。この提供終了は当初2025年に予定され、その後2026年に延期された。Googleは8月初めに最終的なスケジュールを発表していた。"
+              },
+              {
+                "t": "p",
+                "x": "本日寄せられた複数のユーザー報告から見て、移行は本格的に進んでいるようだ。米国（US）と欧州で確認したすべてのデバイスとアカウントで、Google Assistantは姿を消している。"
+              },
+              {
+                "t": "p",
+                "x": "注目すべきは、Geminiアプリから「Switch to Google Assistant」の設定が削除されたことだ。Googleアプリ17.60安定版と17.62ベータでは、このショートカットがアカウントメニューの下部に表示されなくなった。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "そのため、もはや「スマートフォン、タブレット、またはペアリングしたデバイスでGoogle Assistantを使用したり、Google Assistantに戻したりする」ことはできない。ペアリングしたデバイスにはWear OS、ヘッドフォン、Android Autoが含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "「Google NestおよびGoogle Homeのスマートスピーカーやディスプレイ、その他のGoogle Assistant-enabledのスピーカーやディスプレイ」のAssistantには、まだ変更はない。"
+              },
+              {
+                "t": "p",
+                "x": "現在は、電源ボタンを長押しするか画面の隅からスワイプすると、Geminiが「Androidの音声アシスタント体験」となる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Android语音助手\n全面换成Gemini",
+          "body": "Android版Google Assistant淘汰已大范围推开，由Gemini接替。",
+          "mini_headline": "Gemini取代Assistant",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "9月初，移动端Google Assistant的停用工作已经启动，现在看来正在大范围推开。"
+              },
+              {
+                "t": "p",
+                "x": "过去几周，Google一直在把Assistant用户迁移到Gemini。此次停用原定于2025年，后来推迟到2026年。8月初，Google公布了最终时间表。"
+              },
+              {
+                "t": "p",
+                "x": "从今天多位用户的反馈来看，此次迁移似乎已全面展开。在我们检查过的美国（US）和欧洲的所有设备和账户上，Google Assistant都已消失。"
+              },
+              {
+                "t": "p",
+                "x": "值得注意的是，Gemini应用已移除“Switch to Google Assistant”设置。在Google应用17.60稳定版和17.62测试版中，这个快捷方式不再出现在账户菜单底部。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "因此，你已无法再“在手机、平板电脑或配对设备上使用或切换回Google Assistant”。配对设备包括Wear OS、耳机和Android Auto。"
+              },
+              {
+                "t": "p",
+                "x": "“Google Nest和Google Home智能音箱、显示屏，或其他Google Assistant-enabled音箱和显示屏”上的Assistant暂时还没有变化。"
+              },
+              {
+                "t": "p",
+                "x": "现在，长按电源键或从屏幕角落滑动时，Gemini就是“Android上的语音助手体验”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gemini reemplaza por completo\na Google Assistant en Android",
+          "body": "La retirada de Google Assistant en Android, iniciada a principios de septiembre, se amplía y deja paso a Gemini.",
+          "mini_headline": "Gemini reemplaza a Assistant",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A principios de septiembre comenzó la retirada de Google Assistant en dispositivos móviles. Ahora parece que se está implementando de forma generalizada."
+              },
+              {
+                "t": "p",
+                "x": "Google ha estado trasladando a los usuarios de Assistant a Gemini durante las últimas semanas. Esta retirada estaba prevista originalmente para 2025 y luego se aplazó a 2026. A principios de agosto, Google anunció el calendario definitivo."
+              },
+              {
+                "t": "p",
+                "x": "Según varios reportes de usuarios de hoy, esta migración parece estar plenamente en marcha. Google Assistant ha desaparecido en todos los dispositivos y cuentas que revisamos en Estados Unidos (US) y Europa."
+              },
+              {
+                "t": "p",
+                "x": "En particular, la app Gemini eliminó el ajuste “Switch to Google Assistant”. Este acceso directo ya no aparece en la parte inferior del menú de la cuenta con la app de Google 17.60 estable y 17.62 beta."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Por lo tanto, ya no es posible “usar Google Assistant ni volver a él en tu teléfono, tablet o dispositivos vinculados”. Este último grupo incluye Wear OS, auriculares y Android Auto."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora no hay cambios en Assistant en “los altavoces y pantallas inteligentes Google Nest y Google Home, ni en otros altavoces y pantallas Google Assistant-enabled”."
+              },
+              {
+                "t": "p",
+                "x": "Gemini es ahora la “experiencia de asistente de voz en Android” al mantener pulsado el botón de encendido o deslizar desde las esquinas."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "apple-no-record-home-camera",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Apple, 녹화 안 하는\n카메라 개발설",
+      "body": "Apple이 녹화 없이 AI로 집 안 움직임을 읽는 홈캠을 만드는 중이라고 한다.",
+      "mini_headline": "Apple의 녹화 없는 카메라",
+      "tool": "Gadgets",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -995,179 +1637,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-            "cap": "Oura Ring 5"
+            "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
           },
           {
             "t": "p",
-            "x": "Oura가 Xella Health와 제휴했다. 검사실 검사와 원격 진료를 결합한 여성 정밀 건강 플랫폼이다. 미국에서 Xella를 구독하는 Oura 링 사용자는 수면, HRV, 안정 시 심박수, 체온 추세, 회복, 활동, 월경 주기 인사이트를 공유할 수 있다."
+            "x": "Apple 소식에 밝은 Mark Gurman은 Apple이 오래 기다려 온 홈 허브를 10월 후반에 내놓을 수 있다고 밝혔다. 새 팟캐스트 Power On에서는 이어서 보안 카메라가 나올 수 있다고 내다봤다. 다만 실제로 영상을 녹화하지는 않는 카메라다. 더 강력한 HomePod mini와 Apple TV도 나온다는 게 그의 주장이다."
           },
           {
             "t": "p",
-            "x": "Xella는 이어 자체 AI로 이른바 \"multi-omic\" 진단을 한다. Oura의 생리 데이터를 호르몬, 대사, 염증, 영양, 생식 건강, 심혈관대사 위험과 함께 분석해 건강 변화의 조짐일 수 있는 패턴을 찾는다. 그다음 Xella의 AI가 의사와 함께 관리 계획을 세운다. 자궁내막증 등 여성에게 영향을 주는 130가지 이상 질환의 치료도 여기에 들어갈 수 있다."
+            "x": "Gurman에 따르면 이 카메라는 내부에서 J490이라 부르는, 아직 발표되지 않은 Apple 스마트홈 디스플레이와 짝을 이룬다. 립밤을 닮은 작은 원통형이고, 프레임 레이트가 매우 낮으며 영상 녹화 기능은 없다."
           },
           {
             "t": "p",
-            "x": "Xella Health CEO 겸 공동 창업자 Kelly Lacob은 \"웨어러블은 생리적 변화를 감지하는 우리의 능력을 바꿔 놓았다\"고 말했다."
+            "x": "과도한 감시를 걱정하는 목소리를 의식해, Apple은 녹화 대신 센서가 AI로 집 안 움직임을 분석하게 할 것으로 알려졌다. 얼굴 인식도 된다. 누군가 방에 들어오면 아는 사람인지 알려 주지만, 사용자에게 오는 건 텍스트 설명뿐이다."
           },
           {
             "t": "p",
-            "x": "Xella는 연 499달러짜리 별도 멤버십이며, New York과 New Jersey를 뺀 U.S. 모든 주에서 쓸 수 있다. Oura Ring 5는 399달러에 월 5.99달러가 더 든다. 의료기기는 아니다."
+            "x": "Gurman은 이 카메라에 “카메라가 달린 AirPods에 쓰일 것과 매우 비슷한 기술”이 들어간다고 덧붙였다. 그 AirPods는 해상도가 극히 낮은 정지 이미지를 찍고, Visual Intelligence가 이를 분석하는 방식으로 알려져 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Oura pairs ring data with\nAI biomarker testing",
-          "body": "US Oura users can share ring data with Xella Health, whose AI pairs it with biomarker tests and doctor-led care.",
-          "mini_headline": "Oura adds AI biomarker tests",
+          "headline": "Apple is reportedly building\na camera that won't record",
+          "body": "Apple is reportedly building a smart home camera that uses AI to analyze activity in your home without filming it.",
+          "mini_headline": "Apple's no-record camera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-                "cap": "Oura Ring 5"
+                "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
               },
               {
                 "t": "p",
-                "x": "Oura has partnered with Xella Health, a women's precision health platform that combines lab testing with telehealth care. Oura ring owners in the US who subscribe to Xella can share sleep, HRV, resting heart rate, temperature trends, recovery, activity, and menstrual cycle insights."
+                "x": "Reliable Apple insider Mark Gurman revealed that Apple's long-awaited home hub could arrive later in October, and on his new Power On podcast he predicted that a security camera may follow — one that won't actually record video. He also claims Apple will launch more powerful versions of the HomePod mini and Apple TV."
               },
               {
                 "t": "p",
-                "x": "Xella then runs what it calls \"multi-omic\" diagnostics, using custom AI to analyze Oura's physiologic data alongside hormones, metabolism, inflammation, nutrition, reproductive health, and cardiometabolic risk to spot patterns that may indicate a change in health. Xella's AI then creates a care plan with a doctor, which can include treatment for more than 130 conditions that impact women, such as endometriosis."
+                "x": "According to Gurman, the camera is a companion to Apple's unannounced smart home display, internally called J490. The small cylindrical cameras, resembling chapstick, will have a very low frame rate and won't offer video recording."
               },
               {
                 "t": "p",
-                "x": "\"Wearables have transformed our ability to detect physiologic change,\" said Xella Health CEO and co-founder Kelly Lacob."
+                "x": "Mindful of concerns about over-surveillance, Apple will reportedly have the sensor use AI to analyze movement in your home instead. It will be able to do facial recognition: if it identifies someone walking into a room, it can tell you whether you know that person, but you'll only receive text descriptions."
               },
               {
                 "t": "p",
-                "x": "Xella is a separate membership costing $499 a year, available in all U.S. states except New York and New Jersey. The Oura Ring 5 starts at $399 plus $5.99 a month, and is not a medical device."
+                "x": "Gurman added that the camera will use “a very similar technology to what they're going to be using for the AirPods with cameras,” which reportedly take extremely low resolution still images analyzed by Visual Intelligence."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Oura, 링 데이터에\nAI 바이오마커 검사",
-          "body": "미국 Oura 링 데이터를 Xella AI가 바이오마커 검사와 묶는다.",
-          "mini_headline": "Oura, AI 바이오마커 검사 추가",
+          "headline": "Apple, 녹화 안 하는\n카메라 개발설",
+          "body": "Apple이 녹화 없이 AI로 집 안 움직임을 읽는 홈캠을 만드는 중이라고 한다.",
+          "mini_headline": "Apple의 녹화 없는 카메라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-                "cap": "Oura Ring 5"
+                "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
               },
               {
                 "t": "p",
-                "x": "Oura가 Xella Health와 제휴했다. 검사실 검사와 원격 진료를 결합한 여성 정밀 건강 플랫폼이다. 미국에서 Xella를 구독하는 Oura 링 사용자는 수면, HRV, 안정 시 심박수, 체온 추세, 회복, 활동, 월경 주기 인사이트를 공유할 수 있다."
+                "x": "Apple 소식에 밝은 Mark Gurman은 Apple이 오래 기다려 온 홈 허브를 10월 후반에 내놓을 수 있다고 밝혔다. 새 팟캐스트 Power On에서는 이어서 보안 카메라가 나올 수 있다고 내다봤다. 다만 실제로 영상을 녹화하지는 않는 카메라다. 더 강력한 HomePod mini와 Apple TV도 나온다는 게 그의 주장이다."
               },
               {
                 "t": "p",
-                "x": "Xella는 이어 자체 AI로 이른바 \"multi-omic\" 진단을 한다. Oura의 생리 데이터를 호르몬, 대사, 염증, 영양, 생식 건강, 심혈관대사 위험과 함께 분석해 건강 변화의 조짐일 수 있는 패턴을 찾는다. 그다음 Xella의 AI가 의사와 함께 관리 계획을 세운다. 자궁내막증 등 여성에게 영향을 주는 130가지 이상 질환의 치료도 여기에 들어갈 수 있다."
+                "x": "Gurman에 따르면 이 카메라는 내부에서 J490이라 부르는, 아직 발표되지 않은 Apple 스마트홈 디스플레이와 짝을 이룬다. 립밤을 닮은 작은 원통형이고, 프레임 레이트가 매우 낮으며 영상 녹화 기능은 없다."
               },
               {
                 "t": "p",
-                "x": "Xella Health CEO 겸 공동 창업자 Kelly Lacob은 \"웨어러블은 생리적 변화를 감지하는 우리의 능력을 바꿔 놓았다\"고 말했다."
+                "x": "과도한 감시를 걱정하는 목소리를 의식해, Apple은 녹화 대신 센서가 AI로 집 안 움직임을 분석하게 할 것으로 알려졌다. 얼굴 인식도 된다. 누군가 방에 들어오면 아는 사람인지 알려 주지만, 사용자에게 오는 건 텍스트 설명뿐이다."
               },
               {
                 "t": "p",
-                "x": "Xella는 연 499달러짜리 별도 멤버십이며, New York과 New Jersey를 뺀 U.S. 모든 주에서 쓸 수 있다. Oura Ring 5는 399달러에 월 5.99달러가 더 든다. 의료기기는 아니다."
+                "x": "Gurman은 이 카메라에 “카메라가 달린 AirPods에 쓰일 것과 매우 비슷한 기술”이 들어간다고 덧붙였다. 그 AirPods는 해상도가 극히 낮은 정지 이미지를 찍고, Visual Intelligence가 이를 분석하는 방식으로 알려져 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ouraがリング情報を\nAIバイオマーカー検査に",
-          "body": "米国のOuraユーザーは、リングデータをXellaのAI検査と診療に使える。",
-          "mini_headline": "Oura、AIバイオマーカー検査を追加",
+          "headline": "Apple、録画しない\nカメラを開発中か",
+          "body": "Appleは撮影せずAIで家の中の動きを分析するスマートホームカメラを開発中と報じられた。",
+          "mini_headline": "Appleの録画しないカメラ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-                "cap": "Oura Ring 5"
+                "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
               },
               {
                 "t": "p",
-                "x": "Ouraは、ラボ検査と遠隔医療を組み合わせた女性向けプレシジョン・ヘルスプラットフォームXella Healthと提携した。Xellaに加入する米国のOuraリング所有者は、睡眠、HRV、安静時心拍数、体温の傾向、回復、活動、月経周期のインサイトを共有できる。"
+                "x": "信頼性の高いApple情報筋のMark Gurmanは、Appleが待望のホームハブを10月後半に投入する可能性があると明かした。さらに新しいポッドキャストPower Onでは、その後にセキュリティカメラが続く可能性があると予測した。ただし、実際には動画を録画しないカメラだという。同氏はまた、AppleがHomePod miniとApple TVの高性能版を発売するとも主張している。"
               },
               {
                 "t": "p",
-                "x": "Xellaはその後、独自のAIでOuraの生理データをホルモン、代謝、炎症、栄養、生殖の健康、心血管代謝リスクとあわせて分析する「multi-omic」診断を行い、健康の変化を示しうるパターンを探る。さらにXellaのAIが医師とともにケアプランを作成し、子宮内膜症など女性に影響する130以上の疾患の治療を含めることができる。"
+                "x": "Gurmanによると、このカメラは社内でJ490と呼ばれる未発表のスマートホームディスプレイと組み合わせて使う製品だ。リップクリームに似た小さな円筒形のカメラで、フレームレートは非常に低く、動画の録画機能は備えない。"
               },
               {
                 "t": "p",
-                "x": "「ウェアラブルは生理的変化を検知する私たちの能力を一変させた」と、Xella HealthのCEO兼共同創業者Kelly Lacobは述べた。"
+                "x": "過剰な監視への懸念を踏まえ、Appleは代わりにセンサーがAIで家の中の動きを分析する仕組みにするという。顔認識も可能で、部屋に入ってきた人物を識別すると、その人が知り合いかどうかを伝えられるが、ユーザーが受け取るのはテキストによる説明だけだ。"
               },
               {
                 "t": "p",
-                "x": "Xellaは年499ドルの別会員制サービスで、New YorkとNew Jerseyを除くU.S.の全州で利用できる。Oura Ring 5は399ドルからで月額5.99ドルがかかり、医療機器ではない。"
+                "x": "Gurmanは、このカメラが「カメラ付きAirPodsに使われる予定の技術と非常によく似たもの」を使うと付け加えた。そのAirPodsは、極めて低解像度の静止画を撮影し、Visual Intelligenceで分析するとされる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Oura将戒指数据\n与AI生物标志物检测结合",
-          "body": "美国Oura用户可将戒指数据共享给Xella，由AI结合生物标志物检测。",
-          "mini_headline": "Oura新增AI生物标志物检测",
+          "headline": "传Apple正打造\n一款不录像的摄像头",
+          "body": "据报道，Apple正在打造一款不拍摄、用AI分析家中活动的智能家居摄像头。",
+          "mini_headline": "Apple不录像的摄像头",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-                "cap": "Oura Ring 5"
+                "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
               },
               {
                 "t": "p",
-                "x": "Oura与Xella Health达成合作，后者是一家将实验室检测与远程医疗相结合的女性精准健康平台。订阅Xella的美国Oura戒指用户可共享睡眠、HRV、静息心率、体温趋势、恢复、活动和月经周期洞察。"
+                "x": "可靠的Apple内幕人士Mark Gurman透露，Apple期待已久的家居中枢可能在10月晚些时候推出；他还在新播客Power On中预测，随后可能推出一款安防摄像头——而且它实际上不会录制视频。他还声称，Apple将推出性能更强的HomePod mini和Apple TV。"
               },
               {
                 "t": "p",
-                "x": "随后，Xella会进行其所称的\"multi-omic\"诊断，利用定制AI将Oura的生理数据与激素、代谢、炎症、营养、生殖健康及心脏代谢风险一并分析，寻找可能预示健康变化的模式。之后，Xella的AI会与医生共同制定护理计划，其中可包括针对子宫内膜异位症等130多种影响女性的疾病的治疗。"
+                "x": "据Gurman称，这款摄像头将搭配Apple尚未发布、内部代号为J490的智能家居显示屏使用。这些小巧的圆柱形摄像头外形类似润唇膏，帧率极低，也不提供视频录制功能。"
               },
               {
                 "t": "p",
-                "x": "Xella Health CEO兼联合创始人Kelly Lacob表示：\"可穿戴设备彻底改变了我们检测生理变化的能力。\""
+                "x": "据报道，考虑到外界对过度监控的担忧，Apple将改为让传感器用AI分析家中的动静。它能够进行面部识别：如果识别出有人走进房间，就能告诉你是否认识这个人，但你只会收到文字描述。"
               },
               {
                 "t": "p",
-                "x": "Xella是一项单独的会员服务，年费499美元，在除New York和New Jersey以外的所有U.S.州均可使用。Oura Ring 5起价399美元，另需每月5.99美元，且不属于医疗设备。"
+                "x": "Gurman补充说，这款摄像头将采用“与他们将用于带摄像头AirPods的技术非常相似的技术”。据报道，这款AirPods会拍摄分辨率极低的静态图像，并由Visual Intelligence进行分析。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Oura une los datos del anillo\ncon biomarcadores e IA",
-          "body": "Los usuarios de Oura en EE. UU. pueden compartir datos con Xella Health, cuya IA los cruza con biomarcadores.",
-          "mini_headline": "Oura suma pruebas de biomarcadores con IA",
+          "headline": "Apple estaría creando una\ncámara que no graba",
+          "body": "Apple estaría creando una cámara para el hogar inteligente que usa AI para analizar la actividad en casa sin grabarla.",
+          "mini_headline": "La cámara de Apple que no graba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-                "cap": "Oura Ring 5"
+                "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
               },
               {
                 "t": "p",
-                "x": "Oura se ha asociado con Xella Health, una plataforma de salud de precisión para mujeres que combina pruebas de laboratorio con atención por telemedicina. Los propietarios de un anillo Oura en EE. UU. que se suscriban a Xella pueden compartir datos de sueño, HRV, frecuencia cardíaca en reposo, tendencias de temperatura, recuperación, actividad y ciclo menstrual."
+                "x": "Mark Gurman, fuente fiable sobre Apple, reveló que el esperado hub doméstico de Apple podría llegar más adelante en octubre, y en su nuevo podcast Power On predijo que después podría llegar una cámara de seguridad, una que en realidad no grabará video. También afirma que Apple lanzará versiones más potentes del HomePod mini y del Apple TV."
               },
               {
                 "t": "p",
-                "x": "Después, Xella realiza lo que denomina diagnósticos \"multi-omic\", con una IA propia que analiza los datos fisiológicos de Oura junto con hormonas, metabolismo, inflamación, nutrición, salud reproductiva y riesgo cardiometabólico para detectar patrones que puedan indicar un cambio en la salud. Luego, la IA de Xella elabora un plan de atención con un médico, que puede incluir tratamiento para más de 130 afecciones que afectan a las mujeres, como la endometriosis."
+                "x": "Según Gurman, la cámara acompañará a la pantalla para el hogar inteligente aún no anunciada de Apple, llamada internamente J490. Las pequeñas cámaras cilíndricas, que se parecen a un bálsamo labial, tendrán una tasa de fotogramas muy baja y no ofrecerán grabación de video."
               },
               {
                 "t": "p",
-                "x": "\"Los wearables han transformado nuestra capacidad de detectar cambios fisiológicos\", afirmó Kelly Lacob, quien dirige Xella Health como CEO y la cofundó."
+                "x": "Consciente de la preocupación por la vigilancia excesiva, Apple haría que el sensor use AI para analizar el movimiento en tu hogar. Podrá hacer reconocimiento facial: si identifica a alguien que entra en una habitación, puede decirte si conoces a esa persona, pero solo recibirás descripciones en texto."
               },
               {
                 "t": "p",
-                "x": "Xella es una membresía aparte que cuesta $499 al año y está disponible en todos los estados de U.S. salvo New York y New Jersey. El Oura Ring 5 parte de $399 más $5.99 al mes y no es un dispositivo médico."
+                "x": "Gurman añadió que la cámara usará “una tecnología muy similar a la que van a usar en los AirPods con cámaras”, que, según se informa, toman imágenes fijas de resolución extremadamente baja que analiza Visual Intelligence."
               }
             ]
           }
@@ -1175,477 +1811,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Oura, 링 데이터에\nAI 바이오마커 검사",
-          "body": "미국 Oura 링 데이터를 Xella AI가 바이오마커 검사와 묶는다.",
-          "mini_headline": "Oura, AI 바이오마커 검사 추가",
+          "headline": "Apple, 녹화 안 하는\n카메라 개발설",
+          "body": "Apple이 촬영 없이 AI로 집 안 움직임을 읽는 홈캠을 개발 중이라고 한다.",
+          "mini_headline": "Apple의 녹화 없는 카메라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-                "cap": "Oura Ring 5"
+                "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
               },
               {
                 "t": "p",
-                "x": "Oura가 검사실 검사와 원격 진료를 결합한 여성 정밀 건강 플랫폼 Xella Health와 제휴했다. Xella를 구독하는 미국의 Oura 링 사용자는 수면, HRV, 안정 시 심박수, 체온 추세, 회복, 활동, 월경 주기 인사이트를 공유할 수 있다."
+                "x": "신뢰도 높은 Apple 소식통 Mark Gurman은 Apple이 오랫동안 기다려 온 홈 허브를 10월 후반에 내놓을 수 있다고 밝혔다. 그는 새 팟캐스트 Power On에서 이어서 보안 카메라가 나올 수 있다고 내다봤는데, 실제로는 영상을 녹화하지 않는 카메라다. 그는 또 Apple이 더 강력한 HomePod mini와 Apple TV를 출시할 것이라고 주장한다."
               },
               {
                 "t": "p",
-                "x": "Xella는 이어 자체 AI로 Oura의 생리 데이터를 호르몬, 대사, 염증, 영양, 생식 건강, 심혈관대사 위험과 함께 분석하는 이른바 \"multi-omic\" 진단을 실시해, 건강 변화를 시사할 수 있는 패턴을 찾는다. 이후 Xella의 AI가 의사와 함께 관리 계획을 세우며, 여기에는 자궁내막증 등 여성에게 영향을 주는 130가지 이상 질환의 치료가 포함될 수 있다."
+                "x": "Gurman에 따르면 이 카메라는 내부적으로 J490이라 불리는, 아직 발표되지 않은 Apple의 스마트홈 디스플레이와 짝을 이루는 제품이다. 립밤을 닮은 작은 원통형 카메라로, 프레임 레이트가 매우 낮고 영상 녹화 기능은 제공하지 않는다."
               },
               {
                 "t": "p",
-                "x": "Xella Health CEO 겸 공동 창업자 Kelly Lacob은 \"웨어러블은 생리적 변화를 감지하는 우리의 능력을 바꿔 놓았다\"고 말했다."
+                "x": "과도한 감시에 대한 우려를 의식한 Apple은 대신 센서가 AI로 집 안의 움직임을 분석하게 할 것으로 알려졌다. 얼굴 인식도 가능해, 누군가 방에 들어오면 아는 사람인지 알려 줄 수 있지만 사용자는 텍스트 설명만 받게 된다."
               },
               {
                 "t": "p",
-                "x": "Xella는 연 499달러의 별도 멤버십으로, New York과 New Jersey를 제외한 U.S. 모든 주에서 이용할 수 있다. Oura Ring 5는 399달러에 월 5.99달러가 추가되며, 의료기기가 아니다."
+                "x": "Gurman은 이 카메라가 “카메라가 달린 AirPods에 쓰일 것과 매우 비슷한 기술”을 사용할 것이라고 덧붙였다. 해당 AirPods는 해상도가 극히 낮은 정지 이미지를 찍고, 이를 Visual Intelligence가 분석하는 방식으로 알려져 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ouraがリング情報を\nAIバイオマーカー検査に",
-          "body": "米国のOuraユーザーは、リングデータをXellaのAI検査と診療に使える。",
-          "mini_headline": "Oura、AIバイオマーカー検査を追加",
+          "headline": "Apple、録画しない\nカメラを開発中か",
+          "body": "Appleは撮影せずAIで家の中の動きを分析するスマートホームカメラを開発中と報じられた。",
+          "mini_headline": "Appleの録画しないカメラ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-                "cap": "Oura Ring 5"
+                "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
               },
               {
                 "t": "p",
-                "x": "Ouraは、ラボ検査と遠隔医療を組み合わせた女性向けプレシジョン・ヘルスプラットフォームXella Healthと提携した。Xellaに加入する米国のOuraリング所有者は、睡眠、HRV、安静時心拍数、体温の傾向、回復、活動、月経周期のインサイトを共有できる。"
+                "x": "信頼性の高いApple情報筋のMark Gurmanは、Appleが待望のホームハブを10月後半に投入する可能性があると明かした。さらに新しいポッドキャストPower Onでは、その後にセキュリティカメラが続く可能性があると予測した。ただし、実際には動画を録画しないカメラだという。同氏はまた、AppleがHomePod miniとApple TVの高性能版を発売するとも主張している。"
               },
               {
                 "t": "p",
-                "x": "Xellaはその後、独自のAIでOuraの生理データをホルモン、代謝、炎症、栄養、生殖の健康、心血管代謝リスクとあわせて分析する「multi-omic」診断を行い、健康の変化を示しうるパターンを探る。さらにXellaのAIが医師とともにケアプランを作成し、子宮内膜症など女性に影響する130以上の疾患の治療を含めることができる。"
+                "x": "Gurmanによると、このカメラは社内でJ490と呼ばれる未発表のスマートホームディスプレイと組み合わせて使う製品だ。リップクリームに似た小さな円筒形のカメラで、フレームレートは非常に低く、動画の録画機能は備えない。"
               },
               {
                 "t": "p",
-                "x": "「ウェアラブルは生理的変化を検知する私たちの能力を一変させた」と、Xella HealthのCEO兼共同創業者Kelly Lacobは述べた。"
+                "x": "過剰な監視への懸念を踏まえ、Appleは代わりにセンサーがAIで家の中の動きを分析する仕組みにするという。顔認識も可能で、部屋に入ってきた人物を識別すると、その人が知り合いかどうかを伝えられるが、ユーザーが受け取るのはテキストによる説明だけだ。"
               },
               {
                 "t": "p",
-                "x": "Xellaは年499ドルの別会員制サービスで、New YorkとNew Jerseyを除くU.S.の全州で利用できる。Oura Ring 5は399ドルからで月額5.99ドルがかかり、医療機器ではない。"
+                "x": "Gurmanは、このカメラが「カメラ付きAirPodsに使われる予定の技術と非常によく似たもの」を使うと付け加えた。そのAirPodsは、極めて低解像度の静止画を撮影し、Visual Intelligenceで分析するとされる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Oura将戒指数据\n与AI生物标志物检测结合",
-          "body": "美国Oura用户可将戒指数据共享给Xella，由AI结合生物标志物检测。",
-          "mini_headline": "Oura新增AI生物标志物检测",
+          "headline": "传Apple正打造\n一款不录像的摄像头",
+          "body": "据报道，Apple正在打造一款不拍摄、用AI分析家中活动的智能家居摄像头。",
+          "mini_headline": "Apple不录像的摄像头",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-                "cap": "Oura Ring 5"
+                "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
               },
               {
                 "t": "p",
-                "x": "Oura与Xella Health达成合作，后者是一家将实验室检测与远程医疗相结合的女性精准健康平台。订阅Xella的美国Oura戒指用户可共享睡眠、HRV、静息心率、体温趋势、恢复、活动和月经周期洞察。"
+                "x": "可靠的Apple内幕人士Mark Gurman透露，Apple期待已久的家居中枢可能在10月晚些时候推出；他还在新播客Power On中预测，随后可能推出一款安防摄像头——而且它实际上不会录制视频。他还声称，Apple将推出性能更强的HomePod mini和Apple TV。"
               },
               {
                 "t": "p",
-                "x": "随后，Xella会进行其所称的\"multi-omic\"诊断，利用定制AI将Oura的生理数据与激素、代谢、炎症、营养、生殖健康及心脏代谢风险一并分析，寻找可能预示健康变化的模式。之后，Xella的AI会与医生共同制定护理计划，其中可包括针对子宫内膜异位症等130多种影响女性的疾病的治疗。"
+                "x": "据Gurman称，这款摄像头将搭配Apple尚未发布、内部代号为J490的智能家居显示屏使用。这些小巧的圆柱形摄像头外形类似润唇膏，帧率极低，也不提供视频录制功能。"
               },
               {
                 "t": "p",
-                "x": "Xella Health CEO兼联合创始人Kelly Lacob表示：\"可穿戴设备彻底改变了我们检测生理变化的能力。\""
+                "x": "据报道，考虑到外界对过度监控的担忧，Apple将改为让传感器用AI分析家中的动静。它能够进行面部识别：如果识别出有人走进房间，就能告诉你是否认识这个人，但你只会收到文字描述。"
               },
               {
                 "t": "p",
-                "x": "Xella是一项单独的会员服务，年费499美元，在除New York和New Jersey以外的所有U.S.州均可使用。Oura Ring 5起价399美元，另需每月5.99美元，且不属于医疗设备。"
+                "x": "Gurman补充说，这款摄像头将采用“与他们将用于带摄像头AirPods的技术非常相似的技术”。据报道，这款AirPods会拍摄分辨率极低的静态图像，并由Visual Intelligence进行分析。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Oura une los datos del anillo\ncon biomarcadores e IA",
-          "body": "Los usuarios de Oura en EE. UU. pueden compartir datos con Xella Health, cuya IA los cruza con biomarcadores.",
-          "mini_headline": "Oura suma pruebas de biomarcadores con IA",
+          "headline": "Apple estaría creando una\ncámara que no graba",
+          "body": "Apple estaría creando una cámara para el hogar inteligente que usa AI para analizar la actividad en casa sin grabarla.",
+          "mini_headline": "La cámara de Apple que no graba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-                "cap": "Oura Ring 5"
+                "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
               },
               {
                 "t": "p",
-                "x": "Oura se ha asociado con Xella Health, una plataforma de salud de precisión para mujeres que combina pruebas de laboratorio con atención por telemedicina. Los propietarios de un anillo Oura en EE. UU. que se suscriban a Xella pueden compartir datos de sueño, HRV, frecuencia cardíaca en reposo, tendencias de temperatura, recuperación, actividad y ciclo menstrual."
+                "x": "Mark Gurman, fuente fiable sobre Apple, reveló que el esperado hub doméstico de Apple podría llegar más adelante en octubre, y en su nuevo podcast Power On predijo que después podría llegar una cámara de seguridad, una que en realidad no grabará video. También afirma que Apple lanzará versiones más potentes del HomePod mini y del Apple TV."
               },
               {
                 "t": "p",
-                "x": "Después, Xella realiza lo que denomina diagnósticos \"multi-omic\", con una IA propia que analiza los datos fisiológicos de Oura junto con hormonas, metabolismo, inflamación, nutrición, salud reproductiva y riesgo cardiometabólico para detectar patrones que puedan indicar un cambio en la salud. Luego, la IA de Xella elabora un plan de atención con un médico, que puede incluir tratamiento para más de 130 afecciones que afectan a las mujeres, como la endometriosis."
+                "x": "Según Gurman, la cámara acompañará a la pantalla para el hogar inteligente aún no anunciada de Apple, llamada internamente J490. Las pequeñas cámaras cilíndricas, que se parecen a un bálsamo labial, tendrán una tasa de fotogramas muy baja y no ofrecerán grabación de video."
               },
               {
                 "t": "p",
-                "x": "\"Los wearables han transformado nuestra capacidad de detectar cambios fisiológicos\", afirmó Kelly Lacob, quien dirige Xella Health como CEO y la cofundó."
+                "x": "Consciente de la preocupación por la vigilancia excesiva, Apple haría que el sensor use AI para analizar el movimiento en tu hogar. Podrá hacer reconocimiento facial: si identifica a alguien que entra en una habitación, puede decirte si conoces a esa persona, pero solo recibirás descripciones en texto."
               },
               {
                 "t": "p",
-                "x": "Xella es una membresía aparte que cuesta $499 al año y está disponible en todos los estados de U.S. salvo New York y New Jersey. El Oura Ring 5 parte de $399 más $5.99 al mes y no es un dispositivo médico."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-gemini-home-noisy-rooms",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "시끄러운 방에서도\n더 잘 듣는 Gemini",
-      "body": "Gemini for Home이 시끄러운 방에서 잡담을 걸러내고 더 빨리 답한다.",
-      "mini_headline": "Gemini for Home, 더 잘 듣는다",
-      "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Google Home이 9월 들어 세 번째 업데이트를 받는다. Google에 따르면 시끄러운 방에서 명령할 때 Gemini for Home이 배경 대화를 더 잘 걸러내 요청을 알아듣는 일이 늘었다. 자주 쓰는 스마트홈, 미디어, 알람, 타이머 명령에는 더 빨리 응답한다."
-          },
-          {
-            "t": "p",
-            "x": "Gemini for Home은 여러 언어를 쓰는 가정에서도 더 안정적으로 작동하고, 오류가 난 뒤 \"이해하지 못했어요\"만 되풀이하던 문제도 사라졌다. 휴대폰 찾기 요청 처리도 훨씬 믿을 만해졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Home 앱에서는 밝기를 0%로 내리면 제대로 된 전원 끄기 명령이 나가고, 온라인 상태인 카메라와 도어벨 타일은 채워진 아이콘으로 바뀐다. Android와 iOS의 Nest 설정도 더 매끄러워졌다. 앱이 네트워크 자격 증명을 안전하게 캐시해 두므로 연이어 설정할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "이번 업데이트는 Matter 스위치의 오프라인 상태, Favorites 타일, 카메라 재생과 버퍼링, Walmart Onn 카메라 기록, Automations 기기 이름 문제도 고쳤다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Gemini for Home hears\nyou better in noisy rooms",
-          "body": "Google Home's third September update helps Gemini for Home filter out background chatter in loud rooms and reply faster.",
-          "mini_headline": "Gemini for Home hears better",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Home is getting its third update this September. Google says it has enhanced how Gemini for Home filters out background conversation when you give it a command in a loud room, so requests register more often, and it replies faster across common smart home, media, alarm, and timer commands."
-              },
-              {
-                "t": "p",
-                "x": "Gemini for Home should also be more reliable in multilingual households, and it no longer gets stuck repeating \"I didn't understand\" after an error. Asking it to find your phone is now a lot more reliable."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "In the Home app, sliding brightness to 0% now sends a proper power-off command, online camera and doorbell tiles appear as filled icons, and Nest setup on Android and iOS is smoother, with the app able to securely cache network credentials for back-to-back setups."
-              },
-              {
-                "t": "p",
-                "x": "The update also fixes Matter switch offline status, Favorites tiles, camera playback and buffering, Walmart Onn camera history, and Automations device names."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "시끄러운 방에서도\n더 잘 듣는 Gemini",
-          "body": "Gemini for Home이 시끄러운 방에서 잡담을 걸러내고 더 빨리 답한다.",
-          "mini_headline": "Gemini for Home, 더 잘 듣는다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Home이 9월 들어 세 번째 업데이트를 받는다. Google에 따르면 시끄러운 방에서 명령할 때 Gemini for Home이 배경 대화를 더 잘 걸러내 요청을 알아듣는 일이 늘었다. 자주 쓰는 스마트홈, 미디어, 알람, 타이머 명령에는 더 빨리 응답한다."
-              },
-              {
-                "t": "p",
-                "x": "Gemini for Home은 여러 언어를 쓰는 가정에서도 더 안정적으로 작동하고, 오류가 난 뒤 \"이해하지 못했어요\"만 되풀이하던 문제도 사라졌다. 휴대폰 찾기 요청 처리도 훨씬 믿을 만해졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Home 앱에서는 밝기를 0%로 내리면 제대로 된 전원 끄기 명령이 나가고, 온라인 상태인 카메라와 도어벨 타일은 채워진 아이콘으로 바뀐다. Android와 iOS의 Nest 설정도 더 매끄러워졌다. 앱이 네트워크 자격 증명을 안전하게 캐시해 두므로 연이어 설정할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이번 업데이트는 Matter 스위치의 오프라인 상태, Favorites 타일, 카메라 재생과 버퍼링, Walmart Onn 카메라 기록, Automations 기기 이름 문제도 고쳤다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "騒がしい部屋でも\nGeminiが聞き取る",
-          "body": "Gemini for Homeが騒がしい部屋で周囲の会話を取り除き、より速く応答する。",
-          "mini_headline": "Gemini for Homeの聞き取り向上",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Homeが今年9月で3度目となるアップデートを受ける。Googleによると、騒がしい部屋で指示を出した際にGemini for Homeが背景の会話を除去する仕組みを強化し、リクエストが認識されやすくなった。よく使うスマートホーム、メディア、アラーム、タイマーの各コマンドへの応答も速くなった。"
-              },
-              {
-                "t": "p",
-                "x": "Gemini for Homeは多言語の家庭でもより安定して動作するようになり、エラーの後に「わかりませんでした」を繰り返して抜け出せなくなる問題も解消された。スマートフォンを探すよう頼んだときの信頼性も大きく向上した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Homeアプリでは、明るさを0%までスライドすると正しく電源オフのコマンドが送られるようになり、オンラインのカメラとドアベルのタイルは塗りつぶしのアイコンで表示される。AndroidとiOSでのNestのセットアップもスムーズになり、アプリがネットワークの認証情報を安全にキャッシュして連続でセットアップできる。"
-              },
-              {
-                "t": "p",
-                "x": "今回のアップデートでは、Matterスイッチのオフライン表示、Favoritesタイル、カメラの再生とバッファリング、Walmart Onnカメラの履歴、Automationsのデバイス名に関する不具合も修正された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "嘈杂环境中\nGemini听得更清楚",
-          "body": "更新后，Gemini for Home在嘈杂房间里能滤除背景人声，回应也更快。",
-          "mini_headline": "Gemini for Home听得更清楚",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Home迎来今年9月的第三次更新。Google表示，已改进Gemini for Home在嘈杂房间中接收指令时过滤背景对话的方式，使请求更容易被识别，并在常见的智能家居、媒体、闹钟和计时器指令上回应更快。"
-              },
-              {
-                "t": "p",
-                "x": "Gemini for Home在多语言家庭中也应更加可靠，出错后不会再反复说“我没听懂”。让它帮你找手机的功能也可靠了许多。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在Home应用中，将亮度滑到0%现在会发送真正的关机指令，在线的摄像头和门铃磁贴会显示为实心图标；Android和iOS上的Nest设置也更顺畅，应用可以安全缓存网络凭据，便于连续设置。"
-              },
-              {
-                "t": "p",
-                "x": "此次更新还修复了Matter开关离线状态、Favorites磁贴、摄像头播放与缓冲、Walmart Onn摄像头历史记录以及Automations设备名称等问题。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Gemini for Home te oye mejor\nen habitaciones ruidosas",
-          "body": "La actualización de septiembre de Google Home ayuda a Gemini for Home a filtrar voces de fondo y responder más rápido.",
-          "mini_headline": "Gemini for Home oye mejor",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Home recibe su tercera actualización de este mes de septiembre. Google afirma que ha mejorado la forma en que Gemini for Home filtra las conversaciones de fondo cuando se le da una orden en una habitación ruidosa, de modo que las solicitudes se registran con más frecuencia, y que responde más rápido a los comandos habituales de hogar inteligente, multimedia, alarmas y temporizadores."
-              },
-              {
-                "t": "p",
-                "x": "Gemini for Home también debería ser más fiable en hogares multilingües y ya no se queda atascado repitiendo \"No lo he entendido\" tras un error. Pedirle que encuentre el teléfono ahora es mucho más fiable."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En la app Home, deslizar el brillo hasta el 0% ahora envía un comando de apagado real, los mosaicos de cámaras y timbres en línea aparecen como iconos rellenos, y la configuración de Nest en Android e iOS es más fluida, ya que la app puede almacenar en caché de forma segura las credenciales de red para configuraciones consecutivas."
-              },
-              {
-                "t": "p",
-                "x": "La actualización también corrige el estado sin conexión de los interruptores Matter, los mosaicos de Favorites, la reproducción y el almacenamiento en búfer de las cámaras, el historial de las cámaras Walmart Onn y los nombres de dispositivos en Automations."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "시끄러운 방에서도\n더 잘 듣는 Gemini",
-          "body": "Gemini for Home이 시끄러운 방에서 잡담을 걸러내고 더 빨리 답한다.",
-          "mini_headline": "Gemini for Home, 더 잘 듣는다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Home이 이번 9월 들어 세 번째 업데이트를 받는다. Google은 시끄러운 방에서 명령할 때 Gemini for Home이 배경 대화를 걸러내는 방식을 개선해 요청이 더 자주 인식되도록 했으며, 자주 쓰는 스마트홈, 미디어, 알람, 타이머 명령에 대한 응답도 빨라졌다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Gemini for Home은 여러 언어를 쓰는 가정에서도 더 안정적으로 작동하며, 오류가 난 뒤 \"이해하지 못했어요\"를 반복하는 문제도 사라졌다. 휴대폰 찾기 요청도 훨씬 안정적으로 처리한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Home 앱에서는 밝기를 0%로 내리면 제대로 된 전원 끄기 명령이 전송되고, 온라인 상태인 카메라와 도어벨 타일은 채워진 아이콘으로 표시된다. Android와 iOS에서 Nest 설정도 더 매끄러워졌으며, 앱이 네트워크 자격 증명을 안전하게 캐시해 연속 설정을 할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이번 업데이트는 Matter 스위치의 오프라인 상태, Favorites 타일, 카메라 재생과 버퍼링, Walmart Onn 카메라 기록, Automations 기기 이름 문제도 수정했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "騒がしい部屋でも\nGeminiが聞き取る",
-          "body": "Gemini for Homeが騒がしい部屋で周囲の会話を取り除き、より速く応答する。",
-          "mini_headline": "Gemini for Homeの聞き取り向上",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Homeが今年9月で3度目となるアップデートを受ける。Googleによると、騒がしい部屋で指示を出した際にGemini for Homeが背景の会話を除去する仕組みを強化し、リクエストが認識されやすくなった。よく使うスマートホーム、メディア、アラーム、タイマーの各コマンドへの応答も速くなった。"
-              },
-              {
-                "t": "p",
-                "x": "Gemini for Homeは多言語の家庭でもより安定して動作するようになり、エラーの後に「わかりませんでした」を繰り返して抜け出せなくなる問題も解消された。スマートフォンを探すよう頼んだときの信頼性も大きく向上した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Homeアプリでは、明るさを0%までスライドすると正しく電源オフのコマンドが送られるようになり、オンラインのカメラとドアベルのタイルは塗りつぶしのアイコンで表示される。AndroidとiOSでのNestのセットアップもスムーズになり、アプリがネットワークの認証情報を安全にキャッシュして連続でセットアップできる。"
-              },
-              {
-                "t": "p",
-                "x": "今回のアップデートでは、Matterスイッチのオフライン表示、Favoritesタイル、カメラの再生とバッファリング、Walmart Onnカメラの履歴、Automationsのデバイス名に関する不具合も修正された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "嘈杂环境中\nGemini听得更清楚",
-          "body": "更新后，Gemini for Home在嘈杂房间里能滤除背景人声，回应也更快。",
-          "mini_headline": "Gemini for Home听得更清楚",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Home迎来今年9月的第三次更新。Google表示，已改进Gemini for Home在嘈杂房间中接收指令时过滤背景对话的方式，使请求更容易被识别，并在常见的智能家居、媒体、闹钟和计时器指令上回应更快。"
-              },
-              {
-                "t": "p",
-                "x": "Gemini for Home在多语言家庭中也应更加可靠，出错后不会再反复说“我没听懂”。让它帮你找手机的功能也可靠了许多。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "在Home应用中，将亮度滑到0%现在会发送真正的关机指令，在线的摄像头和门铃磁贴会显示为实心图标；Android和iOS上的Nest设置也更顺畅，应用可以安全缓存网络凭据，便于连续设置。"
-              },
-              {
-                "t": "p",
-                "x": "此次更新还修复了Matter开关离线状态、Favorites磁贴、摄像头播放与缓冲、Walmart Onn摄像头历史记录以及Automations设备名称等问题。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Gemini for Home te oye mejor\nen habitaciones ruidosas",
-          "body": "La actualización de septiembre de Google Home ayuda a Gemini for Home a filtrar voces de fondo y responder más rápido.",
-          "mini_headline": "Gemini for Home oye mejor",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Home recibe su tercera actualización de este mes de septiembre. Google afirma que ha mejorado la forma en que Gemini for Home filtra las conversaciones de fondo cuando se le da una orden en una habitación ruidosa, de modo que las solicitudes se registran con más frecuencia, y que responde más rápido a los comandos habituales de hogar inteligente, multimedia, alarmas y temporizadores."
-              },
-              {
-                "t": "p",
-                "x": "Gemini for Home también debería ser más fiable en hogares multilingües y ya no se queda atascado repitiendo \"No lo he entendido\" tras un error. Pedirle que encuentre el teléfono ahora es mucho más fiable."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2024/07/google-home-homescreen-widget-favorites-scaled.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En la app Home, deslizar el brillo hasta el 0% ahora envía un comando de apagado real, los mosaicos de cámaras y timbres en línea aparecen como iconos rellenos, y la configuración de Nest en Android e iOS es más fluida, ya que la app puede almacenar en caché de forma segura las credenciales de red para configuraciones consecutivas."
-              },
-              {
-                "t": "p",
-                "x": "La actualización también corrige el estado sin conexión de los interruptores Matter, los mosaicos de Favorites, la reproducción y el almacenamiento en búfer de las cámaras, el historial de las cámaras Walmart Onn y los nombres de dispositivos en Automations."
+                "x": "Gurman añadió que la cámara usará “una tecnología muy similar a la que van a usar en los AirPods con cámaras”, que, según se informa, toman imágenes fijas de resolución extremadamente baja que analiza Visual Intelligence."
               }
             ]
           }

@@ -8719,6 +8719,119 @@
           "x": "지금 시간을 가장 많이 잡아먹는 게 파일 포맷이다. PDF는 여전히 까다롭다. 글자 하나를 옮겨도 나머지가 따라오지 않는 정적 표시 포맷이라 그렇다. 이건 좀 풀렸으면 한다. 솔직히 말하면 우리는 아직 시작 단계다. 적어도 내 느낌은 그렇다. 변화가 워낙 빨랐고, 상황이 가라앉은 뒤 어떤 모습일지는 알기 어렵다."
         }
       ]
+    },
+    "books/openai-book-market-study-exclude": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI는 작가들이 낸 병합 소송에서 한 도서 시장 연구를 배제해 달라고 요청했다. 이 연구가 작가 측 로펌과 자금으로 얽혀 있다는 이유에서다."
+        },
+        {
+          "t": "p",
+          "x": "Gen AI가 시장에 피해를 준다고 주장하는 연구가 얼마나 정확한지, 자금은 어디서 나왔는지가 병합 소송의 중요한 쟁점으로 떠올랐다."
+        }
+      ]
+    },
+    "books/elevenlabs-spoken-audiobooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+          "cap": "ElevenLabs는 누구의 목소리든 흉내 낼 수 있는 AI 음성 복제 기술을 개발했다."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs와 Spoken 같은 AI 기업들이 빠르게 커지는(fast-growing) 오디오북 시장을 노린다. ElevenLabs는 올여름 Michael Caine의 목소리를 재현해 낭독한 AI-voiced \"The Odyssey\"로 화제가 됐다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+          "cap": "ElevenLabs의 AI-voiced \"The Odyssey\"는 엇갈린 평가를 받았다."
+        },
+        {
+          "t": "p",
+          "x": "오디오북 매출은 지난해 9% 늘어 $2.43 billion을 기록했다. 사람이 낭독하는(Human-narrated) 오디오북은 만드는 데 여섯 달가량 걸리고 수천 달러가 든다. AI 버전은 $200이나 $300이면 충분하고 몇 시간에서 며칠이면 나온다. 베스트셀러 작가이자 Spoken의 사업개발 이사인 Joseph Nassise는 AI 덕에 모든 목소리와 발음을 직접 통제할 수 있다고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "SAG-AFTRA의 Jane Love는 지금까지 나온 AI 작품 중 조합원이 고용될 만한 작품은 없었다고 말한다. 2025년 AI 오디오북이 업계 매출에서 차지한 몫은 약 .03%였다. ElevenLabs로 목소리를 복제한 성우는 사용 시간당 약 $1.20을 번다. 내레이터 Will Damron은 음성 복제가 이 직업의 가치를 떨어뜨린다고 경고한다. Nassise도 AI 오디오북에는 명확한 표시가 필요하다고 본다."
+        }
+      ]
+    },
+    "books/sudowrite-chat-rewrite-printing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "최근 Chat을 크게 손봐 속도와 성능을 함께 끌어올렸다."
+        },
+        {
+          "t": "p",
+          "x": "Chat 응답 속도가 두 배로 빨라졌다 - 이번 주 Chat을 더 빠른 인프라로 옮기면서 응답 시간이 절반으로 줄었다. 큰 작업일수록 차이가 확실히 느껴진다."
+        },
+        {
+          "t": "p",
+          "x": "Chat의 실수가 줄었다 - Chat이 가장 자주 막히던 지점을 손보는 데 공을 들여 왔다. 최근 수정으로 오류율이 30% 낮아졌다. 맥락을 놓치거나 편집 위치를 잘못 잡거나 작업을 중간에 포기하는 일도 훨씬 드물어졌다. 아직 끝난 게 아니다. Chat 개선은 계속 이어진다."
+        },
+        {
+          "t": "p",
+          "x": "Rewrite가 이제 자체(in-house) 모델로 돌아간다 - Rewrite는 그동안 Anthropic의 Claude Sonnet을 써 왔다. 이번에 Ballad로 옮겼는데 결과가 모든 걸 말해 준다. 작가들이 Rewrite 결과물을 실제로 쓸 가능성이 20% 높아졌다. 한동안 Rewrite를 안 썼다면 다시 써 볼 만하다."
+        },
+        {
+          "t": "p",
+          "x": "이제 문서를 제대로 인쇄할 수 있다 - 예전에는 Sudowrite 편집기에서 Ctrl + P나 Command + P를 누르면 빈 페이지와 함께 더 넓은 브라우저가 필요하다는 메시지만 떴다. 다행히 이제는 보고 있는 문서를 깔끔하게 인쇄해 준다."
+        }
+      ]
+    },
+    "books/garmus-ai-hubris-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+        },
+        {
+          "t": "p",
+          "x": "소설가 Bonnie Garmus는 The Bookseller에 기고한 \"AI가 우리를 죽일지도 모르지만, 그게 그렇게 나쁜가?\"라는 제목의 칼럼에서 AI의 등장에 작가 대부분이 불안해졌지만 한편으로는 인류의 오만도 드러났다고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "Garmus의 작가 소개를 보면 그는 커피 없이는 못 사는(coffee-dependent) 미국 소설가다. 데뷔작 Lessons in Chemistry는 전 세계 베스트셀러 정상에 올랐고 New York Times 독자들이 뽑은 21세기 최고의 책 100권에도 이름을 올렸다."
+        }
+      ]
+    },
+    "books/audible-worlds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "오디오북 시장에서 Spotify와 새로 경쟁하게 된 Audible이 AI를 비롯한 기술로 눈을 돌렸다. Amazon이 소유한 이 회사가 선보인 기능은 세 가지다. 책 속 등장인물을 살펴보고, 인터랙티브 이야기에 참여하고, 책에 나오는 명소나 장소의 이미지와 부가 정보를 보는 기능이다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
+          "cap": "이미지 출처: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "이미지 기능은 우선 Sheehan Quirke의 “The Cultural Tutor” 한 작품에만 적용된다. 캐릭터 가이드는 Audible이 10월 1일 공개하는 Audible Original “Dracula”로 첫선을 보인다. 지금 누가 말하는지 실시간으로 보여 주고 스포일러 없는 캐릭터 카드도 띄운다. Audible Original “1984”와 공개 예정작 “Exoplanet”에도 들어간다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
+          "cap": "이미지 출처: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI(generative-AI) 기반 인터랙티브 이야기에서는 Dracula의 하인 Renfield와 대화할 수 있다. 이 캐릭터는 청취자에게 역할과 목표, 걸린 것을 정해 준 뒤 그 말에 실시간으로 반응한다. Audible은 이야기가 원작에서 벗어나지 않도록 창작자들이 참여한다고 밝혔다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
+          "cap": "이미지 출처: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "2025년 미국(U.S.) 오디오북 매출은 24억 3천만 달러에 이르렀다. 기능은 아직 베타다. Audible은 시간을 두고 적용 작품을 늘릴 계획이다."
+        }
+      ]
     }
   }
 }

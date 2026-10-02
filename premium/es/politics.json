@@ -849,6 +849,134 @@
           "x": "La noticia de la investigación llegó justo un día después de que representantes de las principales empresas de IA firmaran en la Casa Blanca un compromiso de autorregulación voluntaria. Antes, el fiscal general de Florida solicitó el lunes ante un tribunal una orden de restricción temporal contra OpenAI, y el martes un grupo jurídico de interés público demandó a OpenAI por la vulneración de Hugging Face."
         }
       ]
+    },
+    "politics/eu-nudify-ai-ban": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La llamada AI ‘Nudify’, que a partir de una sola foto crea imágenes en las que una persona real parece desvestida, quedará estrictamente prohibida en Europa. Al prohibir directamente por ley la AI que genera imágenes sexuales sin consentimiento, la EU eleva el uso indebido de la AI generativa de la retirada de contenidos a posteriori a la regulación de los propios sistemas de AI."
+        },
+        {
+          "t": "p",
+          "x": "Según la Comisión Europea (EC), la disposición de la ley de inteligencia artificial (AI Act) que prohíbe estos sistemas se aplicará desde el 2 de diciembre. El anuncio se produjo después de que más de 100 eurodiputados pidieran preparar su aplicación inmediata."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+          "cap": "La Unión Europea aplicará la ley con rigor contra la AI Nudify a partir de diciembre. Foto_sitio web de la EC"
+        },
+        {
+          "t": "p",
+          "x": "Thomas Regnier, portavoz de la EC, afirmó: “Esto es ilegal y no tiene cabida alguna en Europa”, y añadió: “Estamos preparados para aplicar la ley desde el primer día”."
+        },
+        {
+          "t": "p",
+          "x": "La AI Act define los propios sistemas de AI que generan contenido sexual sin consentimiento como una ‘práctica de AI prohibida’, y también prohíbe los sistemas de AI que generan material de abuso sexual infantil. En un principio no había una prohibición explícita, pero se añadió durante la revisión del Ómnibus de AI, y en mayo el Parlamento Europeo y el Consejo de la EU alcanzaron un acuerdo político."
+        },
+        {
+          "t": "p",
+          "x": "La EU también recurre a la Ley de Servicios Digitales (DSA) para investigar a Grok, de xAI, por generar imágenes sexuales sin consentimiento. Es una estructura de dos vías: la difusión de contenido ilegal en las plataformas se aborda con la DSA y los sistemas de AI que lo crean, con la AI Act."
+        }
+      ]
+    },
+    "politics/vanorden-cooke-deepfake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+          "cap": "Derrick Van Orden (Alex Brandon/AP)"
+        },
+        {
+          "t": "p",
+          "x": "El representante republicano Derrick Van Orden recibió el miércoles una carta de cese y desistimiento (cease-and-desist) de los abogados de Rebecca Cooke, su rival demócrata en el 3.er Distrito Congresional de Wisconsin, por videos deepfake creados con AI."
+        },
+        {
+          "t": "p",
+          "x": "La carta cita un deepfake que Van Orden publicó en X el 4 de agosto y que supuestamente muestra a Cooke diciendo que pretende \"aprovechar tanta corrupción como sea posible\". Ben Stafford, de Elias Law Group, escribió que el contenido busca \"engañar a los votantes de Wisconsin para que crean que ella dijo algo que no dijo\"."
+        },
+        {
+          "t": "p",
+          "x": "Wisconsin es uno de los 33 estados que regulan los deepfakes políticos; no los prohíbe, pero exige revelar que un video ha sido generado con AI (AI-generated). La carta señala que Cooke podría presentar una demanda por difamación."
+        },
+        {
+          "t": "p",
+          "x": "Van Orden respondió con otro video AI-generated y un comunicado en el que acusa a Cooke de difundir anuncios con \"afirmaciones falsas\" sobre su historial. Cooke dijo que Van Orden está \"poniendo palabras en mi boca\" y vinculó los deepfakes con los centros de datos que él ha apoyado."
+        }
+      ]
+    },
+    "politics/china-lgfv-nvidia-chips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+          "cap": "Logotipo de Nvidia"
+        },
+        {
+          "t": "p",
+          "x": "Bloomberg informó el día 2, tras analizar documentos presentados a las autoridades chinas, que una compañía financiera propiedad de gobiernos locales chinos financió la compra de chips de AI de alto rendimiento de Nvidia sujetos a los controles de exportación de Estados Unidos."
+        },
+        {
+          "t": "p",
+          "x": "Según los documentos, Semi-Tech Leasing Group prestó más de 3.000 millones de yuanes (unos 600.000 millones de wones) en el último año para que Gloryview Technology comprara más de 700 servidores. Un contrato especificaba la financiación de 32 servidores de Asustek equipados con chips B300 de Nvidia. Los documentos no indican qué chips se instalaron realmente en los cientos de servidores restantes."
+        },
+        {
+          "t": "p",
+          "x": "El B300 es un chip de AI de la familia Blackwell y no puede venderse a China sin permiso del gobierno de Estados Unidos. La mayoría de los servidores estaban instalados en un complejo de centros de datos de China Mobile en Zhongwei, Ningxia."
+        },
+        {
+          "t": "p",
+          "x": "Semi-Tech Leasing fue fundada en 2015 por el ‘Gran Fondo’, y hoy la mayor parte de sus acciones está en manos de gobiernos locales como los de Shenzhen y Pekín."
+        },
+        {
+          "t": "p",
+          "x": "El Ministerio de Industria y Tecnología de la Información de China y las empresas implicadas no respondieron a las solicitudes de comentarios. Nvidia dijo que está “revisando el informe y colaborará con sus clientes OEM para investigar”, mientras que Asustek afirmó que cumple estrictamente las leyes aplicables, incluidos los controles de exportación."
+        }
+      ]
+    },
+    "politics/msit-sovereign-ai-merge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+          "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, recorre un estand de la exposición ‘2026 Conexión de Talento de Innovación en AI de Corea’ en el COEX el 29 de julio."
+        },
+        {
+          "t": "p",
+          "x": "El Ministerio de Ciencia y TIC está integrando y reorganizando el proyecto de modelo fundacional de AI soberana, programas de AI de próxima generación y otros proyectos en un programa de apoyo a la competitividad en datos de 800.000 millones de wones para el próximo año."
+        },
+        {
+          "t": "p",
+          "x": "Según los documentos explicativos del proyecto de presupuesto de 2027 publicados por el despacho parlamentario de Kim Sun-min, del Partido de Reconstrucción de Corea, el Gobierno asignó 800.000 millones de wones al programa ‘Apoyo al fortalecimiento de la competitividad en datos para el desarrollo de AI de nivel frontera’: 7천500억원 para apoyo de datos de AI de nivel frontera y 50.000 millones de wones para crear una base de entrenamiento de AI para ciberseguridad."
+        },
+        {
+          "t": "p",
+          "x": "El modelo de apoyo pasa de subvenciones a aportaciones de capital al Banco de Desarrollo de Corea. El Gobierno aportará 7천500억원 al banco, que a su vez invertirá en empresas nacionales de AI. Los 50.000 millones de wones del presupuesto de AI de seguridad se asignarán a la Agencia de Internet y Seguridad de Corea (KISA)."
+        },
+        {
+          "t": "p",
+          "x": "Kim exigió que se explique el plan real de ejecución: “A la prensa le dicen que se impulsarán por separado, pero al Parlamento le presentaron un plan que los fusiona”. Además, sostuvo: “No se puede firmar sin más un cheque en blanco de 7천500억원 con usos y condiciones poco claros”."
+        }
+      ]
+    },
+    "politics/rossappeal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El martes, el Tribunal de Apelaciones del Tercer Circuito de EE. UU. (3rd U.S. Circuit Court of Appeals) confirmó la histórica victoria por derechos de autor de Thomson Reuters frente a Ross Intelligence, la ya desaparecida startup de IA legal. Es el primer fallo de una corte federal de apelaciones que rechaza el argumento de uso justo para usar contenido de editores, sin permiso ni compensación, en el entrenamiento de un producto comercial de IA."
+        },
+        {
+          "t": "p",
+          "x": "“Las pruebas no controvertidas reflejan que los materiales de Thomson Reuters poseen una chispa creativa, y ROSS aspiraba a ser un competidor directo usándolos para un fin muy similar”, escribió la jueza Tamika Montgomery-Reeves. Señaló que el caso no involucra un LLM ni otra herramienta de IA generativa: el buscador de Ross recuperaba pasajes existentes de resoluciones judiciales en lugar de generar texto, lo que, según ella, puede limitar su impacto en otros litigios de derechos de autor sobre IA."
+        },
+        {
+          "t": "p",
+          "x": "Thomson Reuters demandó en 2020 alegando que Ross copió miles de “headnotes” (resúmenes) de Westlaw para entrenar un buscador legal con IA de la competencia. El juez Stephanos Bibas falló a favor de Thomson Reuters en febrero de 2025."
+        },
+        {
+          "t": "p",
+          "x": "El fallo sugiere que una herramienta de IA que reproduce el texto de una obra para competir directamente con ella probablemente no supere la prueba de uso justo, aunque deja margen para que la IA generativa se considere más transformadora. Montgomery-Reeves distinguió el caso de Bartz v. Anthropic, en el que un juez concluyó que entrenar a Claude con libros era uso justo."
+        }
+      ]
     }
   }
 }

@@ -11488,6 +11488,153 @@
           "x": "8월 19일 상하이 증시 데뷔 첫날 주가는 다섯 배 넘게 올랐고, 월요일 종가 기준 기업가치는 340억 달러다. SemiAnalysis는 유니트리를 DJI에 빗댄다. 미국은 문을 닫는 쪽이다. 6월 하원의 초당적 법안이 유니트리를 이름까지 적어 중국 로봇 수입 제한을 제안했고, 7월엔 FCC가 외국산 로봇 규제를 걸었다. 봉쇄가 오히려 미국을 로봇 변방으로 밀어낼 수도 있다."
         }
       ]
+    },
+    "gadgets/meta-muse-home-link": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+          "cap": "이미지: The Verge, Getty Images, Meta"
+        },
+        {
+          "t": "p",
+          "x": "Meta가 코드를 오픈소스로 풀면서, 이제 회사의 새 AI 에이전트를 얹은 Muse 기기를 직접 만들 수 있게 됐다. 회사가 예로 든 프로젝트는 이렇다. 컬러 E Ink 디스플레이에 Muse를 올려 알림을 띄우거나, HDMI 스틱에 넣어 큰 화면에서 Muse를 쓰거나, 작은 터치스크린 기기에 Muse를 담아 DIY Muse Charm 같은 기기를 만드는 식이다."
+        },
+        {
+          "t": "p",
+          "x": "Meta의 설명은 이렇다. “Muse 기기는 직접 만드는 오픈소스 기기”이며 “시중의 ESP32 보드를 프로그래밍하거나 우리 SDKs로 Raspberry Pi를 설정한 뒤, Muse를 디스플레이, 버튼, 센서, 액추에이터 등 작업대에 놓인 무엇에든 연결하라”는 것이다. 단서도 붙였다. “위험은 각자 책임지라!”"
+        },
+        {
+          "t": "p",
+          "x": "직접 만든 Muse Home Link 기기도 무료로 나눠 준다. Meta에 따르면 Muse Home Link가 있으면 AI 에이전트가 커뮤니티가 만든 스킬로 “설정에 따라 조명을 켜고, TV를 제어하고, 문서를 프린터로 보내는 등”의 일을 한다. Meta Superintelligence Labs의 Nat Friedman은 이 기기를 5,000대 생산했다고 밝혔다. 배송은 이달 중이고, 지금 Muse Home Link 대기 명단에 이름을 올릴 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Meta의 Muse Home Link 기기."
+        }
+      ]
+    },
+    "gadgets/dgx-spark-64gb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+          "cap": "이미지 출처: Future"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia가 DGX Spark 64GB 버전을 내놓는다. 128GB RAM까지는 필요 없는 로컬 AI 사용자에게 더 싼 선택지를 주겠다는 계산이다."
+        },
+        {
+          "t": "p",
+          "x": "AI 분야는 빨리 움직인다. 이제 Qwen 3.8 27B 같은 dense 모델은 32GB RAM 안에 들어간다. RAM 가격까지 치솟으면서, 값비싼 LPDDR5X와 영구히 묶인 칩은 장점이라기보다 걸림돌이 됐다."
+        },
+        {
+          "t": "p",
+          "x": "Acer, Asus, Dell, Gigabyte, HP, MSI의 64GB GB10 시스템은 10월 23일 출시 때 $4999부터 시작한다. 다만 메모리 가격 탓에 이 가격이 유지되지 않을 수도 있다. 128GB GB10 시스템은 구할 수만 있다면 대략 $7000에서 $9000 선이다."
+        },
+        {
+          "t": "p",
+          "x": "나머지는 64GB Sparks도 똑같다. 클러스터링용 ConnectX 7 RDMA NIC, 20-core Arm CPU, 273 GB/s 공유 메모리 대역폭 모두 그대로다."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia는 여러 Sparks를 자동으로 묶는 Sync Cluster Assistant도 추가한다. 하나 이상의 시스템에서 모델을 내려받아 실행하고 OpenCode 코딩 에이전트에 연결해 주는 Model Launcher도 함께다. 128GB Spark는 더 큰 모델과 파인튜닝용으로 계속 판매된다."
+        }
+      ]
+    },
+    "gadgets/gemini-replaces-assistant-android": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "모바일 Google Assistant 지원 종료는 9월 초에 시작됐다. 이제는 꽤 넓게 적용된 것으로 보인다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 지난 몇 주 동안 Assistant 사용자를 Gemini로 옮겨 왔다. 이번 지원 종료는 원래 2025년 예정이었다가 2026년으로 밀렸고, Google은 8월 초에 최종 일정을 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "오늘 들어온 여러 사용자 제보를 보면 전환이 본격적으로 진행 중인 듯하다. 미국(US)과 유럽에서 확인한 모든 기기와 계정에서 Google Assistant가 사라졌다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini 앱에서는 “Switch to Google Assistant” 설정이 사라졌다. Google 앱 17.60 정식 버전과 17.62 베타의 계정 메뉴 하단에서도 이 바로가기는 더 이상 보이지 않는다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "이제 “휴대폰, 태블릿 또는 연결된 기기에서 Google Assistant를 사용하거나 다시 전환”할 수 없다. 연결된 기기에는 Wear OS, 헤드폰, Android Auto도 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "“Google Nest 및 Google Home 스마트 스피커, 디스플레이, 기타 Google Assistant-enabled 스피커와 디스플레이”의 Assistant에는 아직 변화가 없다."
+        },
+        {
+          "t": "p",
+          "x": "이제 전원 버튼을 길게 누르거나 화면 모서리에서 스와이프하면 “Android의 음성 비서 경험”은 Gemini가 맡는다."
+        }
+      ]
+    },
+    "gadgets/apple-no-record-home-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple 소식에 밝은 Mark Gurman은 Apple이 오래 기다려 온 홈 허브를 10월 후반에 내놓을 수 있다고 밝혔다. 새 팟캐스트 Power On에서는 이어서 보안 카메라가 나올 수 있다고 내다봤다. 다만 실제로 영상을 녹화하지는 않는 카메라다. 더 강력한 HomePod mini와 Apple TV도 나온다는 게 그의 주장이다."
+        },
+        {
+          "t": "p",
+          "x": "Gurman에 따르면 이 카메라는 내부에서 J490이라 부르는, 아직 발표되지 않은 Apple 스마트홈 디스플레이와 짝을 이룬다. 립밤을 닮은 작은 원통형이고, 프레임 레이트가 매우 낮으며 영상 녹화 기능은 없다."
+        },
+        {
+          "t": "p",
+          "x": "과도한 감시를 걱정하는 목소리를 의식해, Apple은 녹화 대신 센서가 AI로 집 안 움직임을 분석하게 할 것으로 알려졌다. 얼굴 인식도 된다. 누군가 방에 들어오면 아는 사람인지 알려 주지만, 사용자에게 오는 건 텍스트 설명뿐이다."
+        },
+        {
+          "t": "p",
+          "x": "Gurman은 이 카메라에 “카메라가 달린 AirPods에 쓰일 것과 매우 비슷한 기술”이 들어간다고 덧붙였다. 그 AirPods는 해상도가 극히 낮은 정지 이미지를 찍고, Visual Intelligence가 이를 분석하는 방식으로 알려져 있다."
+        }
+      ]
+    },
+    "gadgets/gadgets-samsung-glasses-fcc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "오랫동안 기다려온 Samsung 스마트 안경이 FCC 테스트를 통과했다. 출시가 머지않았다는 신호다. FCC 서류에는 SM-O200P와 SM-O200J, 두 모델이 올라왔다. 보통 상용화 직전 마지막 단계 중 하나다."
+        },
+        {
+          "t": "p",
+          "x": "양산 전 모델에서 확인된 대로 두 제품 코드는 각각 Warby Parker와 Gentle Monster 프레임을 가리킨다. 코드마다 여러 프레임 스타일이 붙을 예정인데, Warby Parker가 세 가지, Gentle Monster가 (현재까지) 두 가지다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Samsung과 Google이 함께 만든 이 안경은 Android XR을 처음 탑재하는 제품이 될 예정이다. 카메라와 마이크, 귀를 막지 않는 스피커를 갖춰 통화하고 팟캐스트를 듣고 Google Gemini와 대화할 수 있다. Snapdragon AR1 Gen 1 칩셋에 표시 LED가 달린 12MP 카메라 한 대를 쓰고, 한 번 충전하면 최대 9시간 쓴다고 알려졌다. 2026년 가을이라는 출시 시기 말고는 가격도 출시일도 나오지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하고, 카메라 달린 안경을 두고 Meta가 받아온 대중의 시선도 똑같이 감당해야 한다고 짚었다."
+        }
+      ]
     }
   }
 }

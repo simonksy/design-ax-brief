@@ -1,273 +1,363 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "politics",
   "cards": [
     {
-      "id": "rossappeal",
+      "id": "newsom-ai-workplace-law",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "항소법원, 톰슨 로이터\nAI 저작권 승소 유지",
-      "body": "U.S. 항소법원이 출판사 콘텐츠 무단 AI 학습에 공정 이용을 처음 부정했다.",
-      "mini_headline": "톰슨 로이터, AI 항소 승소",
+      "headline": "뉴섬, 캘리포니아\n직장 AI 제한 서명",
+      "body": "뉴섬 캘리포니아 주지사가 노동자 해고·감시에 AI 사용을 제한하는 법에 서명했다.",
+      "mini_headline": "뉴섬, 직장 AI 규정 서명",
       "tool": "Politics",
-      "source": "Nieman Lab",
-      "url": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
+      "source": "CalMatters",
+      "url": "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "화요일 미국 제3순회 연방항소법원(3rd U.S. Circuit Court of Appeals)은 Thomson Reuters가 지금은 문을 닫은 법률 AI 스타트업 Ross Intelligence를 상대로 거둔 획기적인 저작권 승소 판결을 유지했다. 출판사 콘텐츠를 허락이나 보상 없이 상업용 AI 제품 학습에 쓴 행위를 두고 공정 이용 주장을 받아들이지 않은 첫 연방 항소심 판결이다."
+            "t": "img",
+            "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+            "cap": "2026년 9월 15일 샌프란시스코 Dreamforce 행사장 밖에서 시위대가 AI의 일자리 잠식에 반대하는 집회를 열고 있다. 사진 Manuel Orbegozo, CalMatters"
           },
           {
             "t": "p",
-            "x": "“다툼의 여지가 없는 증거는 Thomson Reuters의 자료에 창작적 불꽃이 있고, ROSS가 이를 매우 유사한 목적에 사용해 직접적인 경쟁자가 되려 했음을 보여준다”고 Tamika Montgomery-Reeves 판사는 썼다. 그는 이번 사건이 LLM이나 다른 생성형 AI 도구를 다룬 것이 아니라고 짚었다. Ross의 검색 엔진은 텍스트를 생성하지 않고 판결문에 있는 구절을 찾아 보여줬다. 판사는 이 점이 다른 AI 저작권 소송에 미칠 영향을 제한할 수 있다고 본다."
+            "x": "개빈 뉴섬 주지사가 임기 중 마지막 정기 회기의 법안 처리 시한 마지막 날, 인공지능으로부터 노동자를 보호하는 법안 여러 건에 서명했다. 환자 돌봄과 해고에 AI를 쓰는 것을 제한하는 내용도 들어 있다. 다만 노동계가 밀어 온 의료 노동자 보호용 AI 관련(AI-related) 법안 2건은 거부했다."
           },
           {
             "t": "p",
-            "x": "Thomson Reuters는 2020년 Ross가 경쟁 AI 법률 검색 엔진을 학습시키려고 Westlaw의 “헤드노트(headnotes)” 수천 건을 복제했다며 소송을 냈다. Stephanos Bibas 판사는 2025년 2월 Thomson Reuters의 손을 들어줬다."
+            "x": "노동계 지도자들은 AI 법안 9건에 모두 서명하라고 압박하면서 그 결과가 향후 대선 출마 때 지지 여부에 영향을 줄 거라고 말해 왔다. 노조가 얻어낸 건 9건 중 7건이다."
           },
           {
             "t": "p",
-            "x": "이번 판결은 저작물의 텍스트를 재현해 그 저작물과 직접 경쟁하는 AI 도구는 공정 이용 판단을 통과하기 어렵다는 신호로 읽힌다. 다만 생성형 AI가 더 변형적이라고 평가받을 여지는 남겼다. Montgomery-Reeves 판사는 이 사건을 Bartz v. Anthropic 사건과 구분했다. 한 판사가 책으로 Claude를 학습시킨 것을 공정 이용으로 본 사건이다."
+            "x": "새 법은 노동자 해고나 징계에 AI를 쓰는 것을 제한한다. 환자 돌봄(patient-care) 결정은 AI가 아니라 의료 전문가가 내리도록 했고, 고용주가 노동자의 감정 상태를 예측하거나 뇌 데이터를 모으는 일도 막았다. 화장실 안 AI 감시도 금지 대상이다. 해고 사유가 전부든 일부든 AI나 자동화라면 미리 알려야 한다."
+          },
+          {
+            "t": "p",
+            "x": "뉴섬은 거부 메시지에서 정신건강 법안이 \"지나치게 광범위하다\"고 했다. 다른 법안의 보복 금지(anti-retaliation) 규정은 노동위원(Labor Commissioner)에게 집행할 의학적 전문성이 없다는 이유로 돌려보냈다. 캘리포니아간호사협회(California Nurses Association) 샌디 레딩 회장은 거부권 행사를 비판했다. 반면 AFL-CIO 리즈 슐러 회장은 새 법을 \"국내에서 가장 강력한 주 법률 중 일부\"로 꼽았다."
+          },
+          {
+            "t": "p",
+            "x": "CalMatters는 해고 관련 법이 입법 과정에서 후퇴했다고 짚었다. 노동자 이의 제기 절차와 이행을 강제할 소송권, 계약직 적용 범위가 법안에서 빠졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Court upholds Thomson Reuters\nAI copyright win over Ross",
-          "body": "In a first, a U.S. appeals court rejected fair use for training AI on publisher content used without permission.",
-          "mini_headline": "Thomson Reuters wins AI appeal",
+          "headline": "Newsom signs AI limits\nfor California workplaces",
+          "body": "California Gov. Newsom signed AI rules limiting how the technology can be used to fire, override or surveil workers.",
+          "mini_headline": "Newsom signs AI workplace rules",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "On Tuesday, the 3rd U.S. Circuit Court of Appeals upheld Thomson Reuters' landmark copyright win against the now-defunct legal AI startup Ross Intelligence — the first federal appeals ruling to reject a fair use argument for using publisher content, without permission or compensation, to train a commercial AI product."
+                "t": "img",
+                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+                "cap": "Protesters rally against AI job takeover outside Dreamforce in San Francisco, Sept. 15, 2026. Photo by Manuel Orbegozo for CalMatters"
               },
               {
                 "t": "p",
-                "x": "“The undisputed evidence reflects that Thomson Reuters's materials possess a creative spark, and ROSS aspired to be a direct competitor by using them for a highly similar purpose,” wrote Judge Tamika Montgomery-Reeves. She noted the case does not concern an LLM or other generative AI tool: Ross's search engine retrieved existing passages from judicial opinions rather than generating text, which she argues may limit its impact on other AI copyright litigation."
+                "x": "On the final day to act on bills from his last scheduled legislative session, Gov. Gavin Newsom signed several bills to protect workers from artificial intelligence, including limits on AI in patient care and in firing people. He vetoed two AI-related bills labor leaders had pushed for that would have protected health care workers."
               },
               {
                 "t": "p",
-                "x": "Thomson Reuters sued in 2020, alleging Ross copied thousands of Westlaw “headnotes” to train a competing AI legal search engine. Judge Stephanos Bibas sided with Thomson Reuters in February 2025."
+                "x": "Labor leaders had pressed him to sign a slate of nine AI bills, saying it would affect their support for any presidential run. Unions won seven of the nine."
               },
               {
                 "t": "p",
-                "x": "The ruling suggests an AI tool that reproduces a work's text to compete directly with it will likely fail a fair use test, while leaving room for generative AI to be seen as more transformative. Montgomery-Reeves distinguished the case from Bartz v. Anthropic, where a judge found training Claude on books was fair use."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "항소법원, 톰슨 로이터\nAI 저작권 승소 유지",
-          "body": "U.S. 항소법원이 출판사 콘텐츠 무단 AI 학습에 공정 이용을 처음 부정했다.",
-          "mini_headline": "톰슨 로이터, AI 항소 승소",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "화요일 미국 제3순회 연방항소법원(3rd U.S. Circuit Court of Appeals)은 Thomson Reuters가 지금은 문을 닫은 법률 AI 스타트업 Ross Intelligence를 상대로 거둔 획기적인 저작권 승소 판결을 유지했다. 출판사 콘텐츠를 허락이나 보상 없이 상업용 AI 제품 학습에 쓴 행위를 두고 공정 이용 주장을 받아들이지 않은 첫 연방 항소심 판결이다."
+                "x": "The new laws limit AI in terminating or disciplining workers, keep health care professionals rather than AI in charge of patient-care decisions, bar employers from predicting workers' emotional states or collecting brain data, ban AI surveillance in bathrooms, and require notice when layoffs are due in whole or in part to AI or automation."
               },
               {
                 "t": "p",
-                "x": "“다툼의 여지가 없는 증거는 Thomson Reuters의 자료에 창작적 불꽃이 있고, ROSS가 이를 매우 유사한 목적에 사용해 직접적인 경쟁자가 되려 했음을 보여준다”고 Tamika Montgomery-Reeves 판사는 썼다. 그는 이번 사건이 LLM이나 다른 생성형 AI 도구를 다룬 것이 아니라고 짚었다. Ross의 검색 엔진은 텍스트를 생성하지 않고 판결문에 있는 구절을 찾아 보여줬다. 판사는 이 점이 다른 AI 저작권 소송에 미칠 영향을 제한할 수 있다고 본다."
+                "x": "In veto messages, Newsom called the mental health measure \"overly broad\" and said the Labor Commissioner lacks the medical expertise to enforce the other bill's anti-retaliation rules. California Nurses Association President Sandy Reding criticized that veto, while AFL-CIO president Liz Shuler called the new laws \"some of the strongest state legislation in the country.\""
               },
               {
                 "t": "p",
-                "x": "Thomson Reuters는 2020년 Ross가 경쟁 AI 법률 검색 엔진을 학습시키려고 Westlaw의 “헤드노트(headnotes)” 수천 건을 복제했다며 소송을 냈다. Stephanos Bibas 판사는 2025년 2월 Thomson Reuters의 손을 들어줬다."
-              },
-              {
-                "t": "p",
-                "x": "이번 판결은 저작물의 텍스트를 재현해 그 저작물과 직접 경쟁하는 AI 도구는 공정 이용 판단을 통과하기 어렵다는 신호로 읽힌다. 다만 생성형 AI가 더 변형적이라고 평가받을 여지는 남겼다. Montgomery-Reeves 판사는 이 사건을 Bartz v. Anthropic 사건과 구분했다. 한 판사가 책으로 Claude를 학습시킨 것을 공정 이용으로 본 사건이다."
+                "x": "CalMatters notes the firing law was weakened during the legislative process, losing an appeals process for workers, a right to sue to compel compliance, and coverage of contractors."
               }
             ]
           }
         },
         "ja": {
-          "headline": "米控訴裁がRoss訴訟で\nトムソン・ロイター支持",
-          "body": "米国（U.S.）の控訴裁が、出版社コンテンツの無断AI学習にフェアユースを初めて否定した。",
-          "mini_headline": "トムソン・ロイターがAI控訴で勝訴",
+          "headline": "ニューサム知事、\n職場のAI規制法に署名",
+          "body": "カリフォルニア州のニューサム知事がAIによる労働者の解雇や監視などを制限する法に署名した。",
+          "mini_headline": "ニューサム知事、職場AI規制に署名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "火曜日、米第3巡回区控訴裁判所（3rd U.S. Circuit Court of Appeals）は、Thomson Reutersがすでに事業を終えた法務AIスタートアップRoss Intelligenceに対して勝ち取った画期的な著作権訴訟の判決を支持した。出版社のコンテンツを許可も対価もなく商用AI製品の学習に使うことについて、フェアユースの主張を退けた初の連邦控訴審判決となる。"
+                "t": "img",
+                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+                "cap": "2026年9月15日、サンフランシスコのDreamforce会場の外で、AIによる雇用の奪取に抗議する人々。写真：Manuel Orbegozo for CalMatters"
               },
               {
                 "t": "p",
-                "x": "「争いのない証拠は、Thomson Reutersの資料が創作的な輝きを備え、ROSSがそれを極めて似た目的に使うことで直接の競合相手になろうとしたことを示している」とTamika Montgomery-Reeves判事は記した。判事は、本件がLLMやその他の生成AIツールに関するものではないと指摘した。Rossの検索エンジンはテキストを生成するのではなく判決文の既存の一節を取り出すものであり、この点が他のAI著作権訴訟への影響を限定しうると判事は論じている。"
+                "x": "ギャビン・ニューサム知事は、自身最後となる定例議会会期の法案に対応する期限の最終日、患者ケアや解雇におけるAI利用の制限を含め、人工知能から労働者を守る複数の法案に署名した。一方、労働界が成立を求めていた、医療従事者を保護するAI関連(AI-related)法案2本には拒否権を行使した。"
               },
               {
                 "t": "p",
-                "x": "Thomson Reutersは2020年、Rossが競合するAI法務検索エンジンの学習のためにWestlawの「ヘッドノート（headnotes）」数千件を複製したとして提訴した。Stephanos Bibas判事は2025年2月、Thomson Reutersの主張を認めた。"
+                "x": "労働界の指導者らは9本のAI法案すべてへの署名を迫り、それが将来の大統領選出馬への支持に影響すると訴えていた。労組は9本のうち7本を勝ち取った。"
               },
               {
                 "t": "p",
-                "x": "今回の判決は、作品のテキストを再現してその作品と直接競合するAIツールはフェアユースの基準を満たしにくいことを示唆する一方、生成AIがより変容的とみなされる余地は残した。Montgomery-Reeves判事は本件を、書籍でClaudeを学習させたことをフェアユースと判断したBartz v. Anthropic事件と区別した。"
+                "x": "新法は、労働者の解雇や懲戒におけるAI利用を制限し、患者ケア(patient-care)に関する判断をAIではなく医療専門職が担うよう定める。また雇用主が労働者の感情状態を予測したり脳データを収集したりすることを禁じ、トイレでのAI監視を禁止し、解雇の全部または一部がAIや自動化によるものである場合には通知を義務づける。"
+              },
+              {
+                "t": "p",
+                "x": "ニューサム氏は拒否理由書で、メンタルヘルス法案を「過度に広範」と評し、もう一方の法案の報復禁止(anti-retaliation)規定を執行するには労働委員(Labor Commissioner)に医学的専門性が欠けていると述べた。カリフォルニア看護師協会(California Nurses Association)のサンディ・レディング会長はこの拒否権行使を批判した。一方、AFL-CIOのリズ・シュラー会長は新法を「国内で最も強力な州法の一部」と評価した。"
+              },
+              {
+                "t": "p",
+                "x": "CalMattersによると、解雇に関する法律は立法過程で弱められ、労働者の不服申し立て手続き、履行を求めて提訴する権利、請負業者への適用が削られた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "美上诉法院维持汤森路透\n对Ross的AI版权胜诉",
-          "body": "美国（U.S.）上诉法院首次驳回以未经许可的出版商内容训练AI属于合理使用的主张。",
-          "mini_headline": "汤森路透赢得AI上诉",
+          "headline": "纽森签署加州\n职场AI限制法案",
+          "body": "加州州长纽森签署新规，限制雇主利用AI解雇、监控员工或推翻其决定。",
+          "mini_headline": "纽森签署职场AI规定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "周二，美国第三巡回上诉法院（3rd U.S. Circuit Court of Appeals）维持了Thomson Reuters针对现已倒闭的法律AI初创公司Ross Intelligence赢得的里程碑式版权胜诉。这是首个驳回合理使用抗辩的联邦上诉裁决，涉及在未经许可、未付报酬的情况下使用出版商内容训练商业AI产品。"
+                "t": "img",
+                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+                "cap": "2026年9月15日，抗议者在旧金山Dreamforce场外集会，反对AI抢走工作。摄影：Manuel Orbegozo，CalMatters"
               },
               {
                 "t": "p",
-                "x": "“无可争议的证据表明，Thomson Reuters的材料具有创造性火花，而ROSS试图将其用于高度相似的目的，从而成为直接竞争者，”法官Tamika Montgomery-Reeves写道。她指出，本案并不涉及LLM或其他生成式AI工具：Ross的搜索引擎检索的是司法判决中的现有段落，而非生成文本，她认为这可能会限制本案对其他AI版权诉讼的影响。"
+                "x": "在其最后一个例行立法会期法案的处理截止日，州长加文·纽森签署了多项保护劳动者免受人工智能影响的法案，其中包括限制AI用于病患护理和解雇员工。他否决了劳工领袖推动的两项旨在保护医护人员的AI相关（AI-related）法案。"
               },
               {
                 "t": "p",
-                "x": "Thomson Reuters于2020年起诉，指控Ross复制了数千条Westlaw“眉批”（headnotes），用于训练一款与之竞争的AI法律搜索引擎。法官Stephanos Bibas于2025年2月作出有利于Thomson Reuters的裁决。"
+                "x": "劳工领袖此前敦促他签署全部9项AI法案，并表示这将影响他们对其任何总统竞选的支持。工会最终赢得了其中7项。"
               },
               {
                 "t": "p",
-                "x": "该裁决表明，复制作品文本以与其直接竞争的AI工具很可能无法通过合理使用检验，同时也为生成式AI被视为更具转换性留下了空间。Montgomery-Reeves将本案与Bartz v. Anthropic案区分开来，在后者中，一名法官认定用书籍训练Claude属于合理使用。"
+                "x": "新法限制在解雇或惩戒员工时使用AI，确保由医疗专业人员而非AI主导病患护理（patient-care）决策，禁止雇主预测员工情绪状态或收集脑部数据，禁止在洗手间进行AI监控，并要求在裁员全部或部分源于AI或自动化时发出通知。"
+              },
+              {
+                "t": "p",
+                "x": "纽森在否决说明中称心理健康法案“过于宽泛”，并表示劳工专员（Labor Commissioner）缺乏执行另一项法案反报复（anti-retaliation）条款所需的医学专业知识。加州护士协会（California Nurses Association）会长桑迪·雷丁批评了这一否决，而AFL-CIO主席利兹·舒勒则称新法是“全国最强有力的州立法之一”。"
+              },
+              {
+                "t": "p",
+                "x": "CalMatters指出，解雇相关法律在立法过程中遭到削弱，删去了员工申诉程序、为强制合规提起诉讼的权利以及对承包商的适用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Thomson Reuters gana a Ross en\napelación sobre copyright e IA",
-          "body": "Una corte de apelación de EE. UU. negó por primera vez el uso justo al entrenar IA con obras de editores sin permiso.",
-          "mini_headline": "Thomson Reuters gana apelación de IA",
+          "headline": "Newsom firma límites a la AI\nen el trabajo en California",
+          "body": "El gobernador Newsom firmó en California normas que limitan usar AI para despedir, anular o vigilar a empleados.",
+          "mini_headline": "Newsom firma normas de AI laboral",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El martes, el Tribunal de Apelaciones del Tercer Circuito de EE. UU. (3rd U.S. Circuit Court of Appeals) confirmó la histórica victoria por derechos de autor de Thomson Reuters frente a Ross Intelligence, la ya desaparecida startup de IA legal. Es el primer fallo de una corte federal de apelaciones que rechaza el argumento de uso justo para usar contenido de editores, sin permiso ni compensación, en el entrenamiento de un producto comercial de IA."
+                "t": "img",
+                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+                "cap": "Manifestantes protestan contra la sustitución de empleos por la AI frente a Dreamforce, en San Francisco, el 15 de septiembre de 2026. Foto de Manuel Orbegozo para CalMatters"
               },
               {
                 "t": "p",
-                "x": "“Las pruebas no controvertidas reflejan que los materiales de Thomson Reuters poseen una chispa creativa, y ROSS aspiraba a ser un competidor directo usándolos para un fin muy similar”, escribió la jueza Tamika Montgomery-Reeves. Señaló que el caso no involucra un LLM ni otra herramienta de IA generativa: el buscador de Ross recuperaba pasajes existentes de resoluciones judiciales en lugar de generar texto, lo que, según ella, puede limitar su impacto en otros litigios de derechos de autor sobre IA."
+                "x": "En el último día para actuar sobre los proyectos de su última sesión legislativa programada, el gobernador Gavin Newsom firmó varias leyes para proteger a los trabajadores frente a la inteligencia artificial, entre ellas límites al uso de la AI en la atención a pacientes y en los despidos. Vetó dos proyectos relacionados con la AI (AI-related) impulsados por líderes sindicales que habrían protegido a los trabajadores sanitarios."
               },
               {
                 "t": "p",
-                "x": "Thomson Reuters demandó en 2020 alegando que Ross copió miles de “headnotes” (resúmenes) de Westlaw para entrenar un buscador legal con IA de la competencia. El juez Stephanos Bibas falló a favor de Thomson Reuters en febrero de 2025."
+                "x": "Los líderes sindicales lo habían presionado para firmar un paquete de nueve proyectos de AI y advirtieron que ello influiría en su apoyo a cualquier candidatura presidencial. Los sindicatos lograron siete de los nueve."
               },
               {
                 "t": "p",
-                "x": "El fallo sugiere que una herramienta de IA que reproduce el texto de una obra para competir directamente con ella probablemente no supere la prueba de uso justo, aunque deja margen para que la IA generativa se considere más transformadora. Montgomery-Reeves distinguió el caso de Bartz v. Anthropic, en el que un juez concluyó que entrenar a Claude con libros era uso justo."
+                "x": "Las nuevas leyes limitan la AI en despidos o sanciones disciplinarias, mantienen a los profesionales sanitarios, y no a la AI, al frente de las decisiones de atención al paciente (patient-care), prohíben a los empleadores predecir el estado emocional de los trabajadores o recopilar datos cerebrales, prohíben la vigilancia con AI en los baños y exigen aviso cuando los despidos se deban total o parcialmente a la AI o la automatización."
+              },
+              {
+                "t": "p",
+                "x": "En sus mensajes de veto, Newsom calificó la medida de salud mental de \"excesivamente amplia\" y dijo que el Labor Commissioner carece de la experiencia médica necesaria para hacer cumplir las normas contra represalias (anti-retaliation) del otro proyecto. Sandy Reding, presidenta de la California Nurses Association, criticó ese veto, mientras que Liz Shuler, presidenta de la AFL-CIO, calificó las nuevas leyes como \"algunas de las legislaciones estatales más sólidas del país\"."
+              },
+              {
+                "t": "p",
+                "x": "CalMatters señala que la ley sobre despidos se debilitó durante el proceso legislativo: perdió un procedimiento de apelación para los trabajadores, el derecho a demandar para exigir su cumplimiento y la cobertura de los contratistas."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "뉴섬, 캘리포니아\n직장 AI 제한 서명",
+          "body": "뉴섬 캘리포니아 주지사가 노동자 해고·감시에 AI 사용을 제한하는 법에 서명했다.",
+          "mini_headline": "뉴섬, 직장 AI 규정 서명",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+                "cap": "2026년 9월 15일 샌프란시스코 Dreamforce 행사장 밖에서 시위대가 AI의 일자리 잠식에 반대하는 집회를 열고 있다. 사진 Manuel Orbegozo, CalMatters"
+              },
+              {
+                "t": "p",
+                "x": "개빈 뉴섬 주지사가 임기 중 마지막 정기 회기의 법안 처리 시한 마지막 날, 인공지능으로부터 노동자를 보호하는 법안 여러 건에 서명했다. 환자 돌봄과 해고에 AI를 쓰는 것을 제한하는 내용도 들어 있다. 다만 노동계가 밀어 온 의료 노동자 보호용 AI 관련(AI-related) 법안 2건은 거부했다."
+              },
+              {
+                "t": "p",
+                "x": "노동계 지도자들은 AI 법안 9건에 모두 서명하라고 압박하면서 그 결과가 향후 대선 출마 때 지지 여부에 영향을 줄 거라고 말해 왔다. 노조가 얻어낸 건 9건 중 7건이다."
+              },
+              {
+                "t": "p",
+                "x": "새 법은 노동자 해고나 징계에 AI를 쓰는 것을 제한한다. 환자 돌봄(patient-care) 결정은 AI가 아니라 의료 전문가가 내리도록 했고, 고용주가 노동자의 감정 상태를 예측하거나 뇌 데이터를 모으는 일도 막았다. 화장실 안 AI 감시도 금지 대상이다. 해고 사유가 전부든 일부든 AI나 자동화라면 미리 알려야 한다."
+              },
+              {
+                "t": "p",
+                "x": "뉴섬은 거부 메시지에서 정신건강 법안이 \"지나치게 광범위하다\"고 했다. 다른 법안의 보복 금지(anti-retaliation) 규정은 노동위원(Labor Commissioner)에게 집행할 의학적 전문성이 없다는 이유로 돌려보냈다. 캘리포니아간호사협회(California Nurses Association) 샌디 레딩 회장은 거부권 행사를 비판했다. 반면 AFL-CIO 리즈 슐러 회장은 새 법을 \"국내에서 가장 강력한 주 법률 중 일부\"로 꼽았다."
+              },
+              {
+                "t": "p",
+                "x": "CalMatters는 해고 관련 법이 입법 과정에서 후퇴했다고 짚었다. 노동자 이의 제기 절차와 이행을 강제할 소송권, 계약직 적용 범위가 법안에서 빠졌다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "항소법원, 톰슨 로이터\nAI 저작권 승소 유지",
-          "body": "U.S. 항소법원이 출판사 콘텐츠 무단 AI 학습에 공정 이용을 처음 부정했다.",
-          "mini_headline": "톰슨 로이터, AI 항소 승소",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "화요일 미국 제3순회 연방항소법원(3rd U.S. Circuit Court of Appeals)은 Thomson Reuters가 지금은 문을 닫은 법률 AI 스타트업 Ross Intelligence를 상대로 거둔 획기적인 저작권 승소 판결을 유지했다. 출판사 콘텐츠를 허락이나 보상 없이 상업용 AI 제품 학습에 쓴 행위에 대해 공정 이용 주장을 배척한 첫 연방 항소심 판결이다."
-              },
-              {
-                "t": "p",
-                "x": "“다툼의 여지가 없는 증거는 Thomson Reuters의 자료에 창작적 불꽃이 있고, ROSS가 이를 매우 유사한 목적에 사용해 직접적인 경쟁자가 되려 했음을 보여준다”고 Tamika Montgomery-Reeves 판사는 썼다. 그는 이번 사건이 LLM이나 다른 생성형 AI 도구와 관련된 것이 아니라고 짚었다. Ross의 검색 엔진은 텍스트를 생성하지 않고 판결문의 기존 구절을 찾아 보여줬으며, 그는 이 점이 다른 AI 저작권 소송에 미칠 영향을 제한할 수 있다고 본다."
-              },
-              {
-                "t": "p",
-                "x": "Thomson Reuters는 2020년 Ross가 경쟁 AI 법률 검색 엔진을 학습시키려고 Westlaw의 “헤드노트(headnotes)” 수천 건을 복제했다며 소송을 냈다. Stephanos Bibas 판사는 2025년 2월 Thomson Reuters의 손을 들어줬다."
-              },
-              {
-                "t": "p",
-                "x": "이번 판결은 저작물의 텍스트를 재현해 그 저작물과 직접 경쟁하는 AI 도구는 공정 이용 판단을 통과하기 어렵다는 점을 시사한다. 반면 생성형 AI가 더 변형적이라고 평가받을 여지는 남겼다. Montgomery-Reeves 판사는 이 사건을, 한 판사가 책으로 Claude를 학습시킨 것을 공정 이용으로 본 Bartz v. Anthropic 사건과 구분했다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "米控訴裁がRoss訴訟で\nトムソン・ロイター支持",
-          "body": "米国（U.S.）の控訴裁が、出版社コンテンツの無断AI学習にフェアユースを初めて否定した。",
-          "mini_headline": "トムソン・ロイターがAI控訴で勝訴",
+          "headline": "ニューサム知事、\n職場のAI規制法に署名",
+          "body": "カリフォルニア州のニューサム知事がAIによる労働者の解雇や監視などを制限する法に署名した。",
+          "mini_headline": "ニューサム知事、職場AI規制に署名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "火曜日、米第3巡回区控訴裁判所（3rd U.S. Circuit Court of Appeals）は、Thomson Reutersがすでに事業を終えた法務AIスタートアップRoss Intelligenceに対して勝ち取った画期的な著作権訴訟の判決を支持した。出版社のコンテンツを許可も対価もなく商用AI製品の学習に使うことについて、フェアユースの主張を退けた初の連邦控訴審判決となる。"
+                "t": "img",
+                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+                "cap": "2026年9月15日、サンフランシスコのDreamforce会場の外で、AIによる雇用の奪取に抗議する人々。写真：Manuel Orbegozo for CalMatters"
               },
               {
                 "t": "p",
-                "x": "「争いのない証拠は、Thomson Reutersの資料が創作的な輝きを備え、ROSSがそれを極めて似た目的に使うことで直接の競合相手になろうとしたことを示している」とTamika Montgomery-Reeves判事は記した。判事は、本件がLLMやその他の生成AIツールに関するものではないと指摘した。Rossの検索エンジンはテキストを生成するのではなく判決文の既存の一節を取り出すものであり、この点が他のAI著作権訴訟への影響を限定しうると判事は論じている。"
+                "x": "ギャビン・ニューサム知事は、自身最後となる定例議会会期の法案に対応する期限の最終日、患者ケアや解雇におけるAI利用の制限を含め、人工知能から労働者を守る複数の法案に署名した。一方、労働界が成立を求めていた、医療従事者を保護するAI関連(AI-related)法案2本には拒否権を行使した。"
               },
               {
                 "t": "p",
-                "x": "Thomson Reutersは2020年、Rossが競合するAI法務検索エンジンの学習のためにWestlawの「ヘッドノート（headnotes）」数千件を複製したとして提訴した。Stephanos Bibas判事は2025年2月、Thomson Reutersの主張を認めた。"
+                "x": "労働界の指導者らは9本のAI法案すべてへの署名を迫り、それが将来の大統領選出馬への支持に影響すると訴えていた。労組は9本のうち7本を勝ち取った。"
               },
               {
                 "t": "p",
-                "x": "今回の判決は、作品のテキストを再現してその作品と直接競合するAIツールはフェアユースの基準を満たしにくいことを示唆する一方、生成AIがより変容的とみなされる余地は残した。Montgomery-Reeves判事は本件を、書籍でClaudeを学習させたことをフェアユースと判断したBartz v. Anthropic事件と区別した。"
+                "x": "新法は、労働者の解雇や懲戒におけるAI利用を制限し、患者ケア(patient-care)に関する判断をAIではなく医療専門職が担うよう定める。また雇用主が労働者の感情状態を予測したり脳データを収集したりすることを禁じ、トイレでのAI監視を禁止し、解雇の全部または一部がAIや自動化によるものである場合には通知を義務づける。"
+              },
+              {
+                "t": "p",
+                "x": "ニューサム氏は拒否理由書で、メンタルヘルス法案を「過度に広範」と評し、もう一方の法案の報復禁止(anti-retaliation)規定を執行するには労働委員(Labor Commissioner)に医学的専門性が欠けていると述べた。カリフォルニア看護師協会(California Nurses Association)のサンディ・レディング会長はこの拒否権行使を批判した。一方、AFL-CIOのリズ・シュラー会長は新法を「国内で最も強力な州法の一部」と評価した。"
+              },
+              {
+                "t": "p",
+                "x": "CalMattersによると、解雇に関する法律は立法過程で弱められ、労働者の不服申し立て手続き、履行を求めて提訴する権利、請負業者への適用が削られた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "美上诉法院维持汤森路透\n对Ross的AI版权胜诉",
-          "body": "美国（U.S.）上诉法院首次驳回以未经许可的出版商内容训练AI属于合理使用的主张。",
-          "mini_headline": "汤森路透赢得AI上诉",
+          "headline": "纽森签署加州\n职场AI限制法案",
+          "body": "加州州长纽森签署新规，限制雇主利用AI解雇、监控员工或推翻其决定。",
+          "mini_headline": "纽森签署职场AI规定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "周二，美国第三巡回上诉法院（3rd U.S. Circuit Court of Appeals）维持了Thomson Reuters针对现已倒闭的法律AI初创公司Ross Intelligence赢得的里程碑式版权胜诉。这是首个驳回合理使用抗辩的联邦上诉裁决，涉及在未经许可、未付报酬的情况下使用出版商内容训练商业AI产品。"
+                "t": "img",
+                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+                "cap": "2026年9月15日，抗议者在旧金山Dreamforce场外集会，反对AI抢走工作。摄影：Manuel Orbegozo，CalMatters"
               },
               {
                 "t": "p",
-                "x": "“无可争议的证据表明，Thomson Reuters的材料具有创造性火花，而ROSS试图将其用于高度相似的目的，从而成为直接竞争者，”法官Tamika Montgomery-Reeves写道。她指出，本案并不涉及LLM或其他生成式AI工具：Ross的搜索引擎检索的是司法判决中的现有段落，而非生成文本，她认为这可能会限制本案对其他AI版权诉讼的影响。"
+                "x": "在其最后一个例行立法会期法案的处理截止日，州长加文·纽森签署了多项保护劳动者免受人工智能影响的法案，其中包括限制AI用于病患护理和解雇员工。他否决了劳工领袖推动的两项旨在保护医护人员的AI相关（AI-related）法案。"
               },
               {
                 "t": "p",
-                "x": "Thomson Reuters于2020年起诉，指控Ross复制了数千条Westlaw“眉批”（headnotes），用于训练一款与之竞争的AI法律搜索引擎。法官Stephanos Bibas于2025年2月作出有利于Thomson Reuters的裁决。"
+                "x": "劳工领袖此前敦促他签署全部9项AI法案，并表示这将影响他们对其任何总统竞选的支持。工会最终赢得了其中7项。"
               },
               {
                 "t": "p",
-                "x": "该裁决表明，复制作品文本以与其直接竞争的AI工具很可能无法通过合理使用检验，同时也为生成式AI被视为更具转换性留下了空间。Montgomery-Reeves将本案与Bartz v. Anthropic案区分开来，在后者中，一名法官认定用书籍训练Claude属于合理使用。"
+                "x": "新法限制在解雇或惩戒员工时使用AI，确保由医疗专业人员而非AI主导病患护理（patient-care）决策，禁止雇主预测员工情绪状态或收集脑部数据，禁止在洗手间进行AI监控，并要求在裁员全部或部分源于AI或自动化时发出通知。"
+              },
+              {
+                "t": "p",
+                "x": "纽森在否决说明中称心理健康法案“过于宽泛”，并表示劳工专员（Labor Commissioner）缺乏执行另一项法案反报复（anti-retaliation）条款所需的医学专业知识。加州护士协会（California Nurses Association）会长桑迪·雷丁批评了这一否决，而AFL-CIO主席利兹·舒勒则称新法是“全国最强有力的州立法之一”。"
+              },
+              {
+                "t": "p",
+                "x": "CalMatters指出，解雇相关法律在立法过程中遭到削弱，删去了员工申诉程序、为强制合规提起诉讼的权利以及对承包商的适用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Thomson Reuters gana a Ross en\napelación sobre copyright e IA",
-          "body": "Una corte de apelación de EE. UU. negó por primera vez el uso justo al entrenar IA con obras de editores sin permiso.",
-          "mini_headline": "Thomson Reuters gana apelación de IA",
+          "headline": "Newsom firma límites a la AI\nen el trabajo en California",
+          "body": "El gobernador Newsom firmó en California normas que limitan usar AI para despedir, anular o vigilar a empleados.",
+          "mini_headline": "Newsom firma normas de AI laboral",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El martes, el Tribunal de Apelaciones del Tercer Circuito de EE. UU. (3rd U.S. Circuit Court of Appeals) confirmó la histórica victoria por derechos de autor de Thomson Reuters frente a Ross Intelligence, la ya desaparecida startup de IA legal. Es el primer fallo de una corte federal de apelaciones que rechaza el argumento de uso justo para usar contenido de editores, sin permiso ni compensación, en el entrenamiento de un producto comercial de IA."
+                "t": "img",
+                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+                "cap": "Manifestantes protestan contra la sustitución de empleos por la AI frente a Dreamforce, en San Francisco, el 15 de septiembre de 2026. Foto de Manuel Orbegozo para CalMatters"
               },
               {
                 "t": "p",
-                "x": "“Las pruebas no controvertidas reflejan que los materiales de Thomson Reuters poseen una chispa creativa, y ROSS aspiraba a ser un competidor directo usándolos para un fin muy similar”, escribió la jueza Tamika Montgomery-Reeves. Señaló que el caso no involucra un LLM ni otra herramienta de IA generativa: el buscador de Ross recuperaba pasajes existentes de resoluciones judiciales en lugar de generar texto, lo que, según ella, puede limitar su impacto en otros litigios de derechos de autor sobre IA."
+                "x": "En el último día para actuar sobre los proyectos de su última sesión legislativa programada, el gobernador Gavin Newsom firmó varias leyes para proteger a los trabajadores frente a la inteligencia artificial, entre ellas límites al uso de la AI en la atención a pacientes y en los despidos. Vetó dos proyectos relacionados con la AI (AI-related) impulsados por líderes sindicales que habrían protegido a los trabajadores sanitarios."
               },
               {
                 "t": "p",
-                "x": "Thomson Reuters demandó en 2020 alegando que Ross copió miles de “headnotes” (resúmenes) de Westlaw para entrenar un buscador legal con IA de la competencia. El juez Stephanos Bibas falló a favor de Thomson Reuters en febrero de 2025."
+                "x": "Los líderes sindicales lo habían presionado para firmar un paquete de nueve proyectos de AI y advirtieron que ello influiría en su apoyo a cualquier candidatura presidencial. Los sindicatos lograron siete de los nueve."
               },
               {
                 "t": "p",
-                "x": "El fallo sugiere que una herramienta de IA que reproduce el texto de una obra para competir directamente con ella probablemente no supere la prueba de uso justo, aunque deja margen para que la IA generativa se considere más transformadora. Montgomery-Reeves distinguió el caso de Bartz v. Anthropic, en el que un juez concluyó que entrenar a Claude con libros era uso justo."
+                "x": "Las nuevas leyes limitan la AI en despidos o sanciones disciplinarias, mantienen a los profesionales sanitarios, y no a la AI, al frente de las decisiones de atención al paciente (patient-care), prohíben a los empleadores predecir el estado emocional de los trabajadores o recopilar datos cerebrales, prohíben la vigilancia con AI en los baños y exigen aviso cuando los despidos se deban total o parcialmente a la AI o la automatización."
+              },
+              {
+                "t": "p",
+                "x": "En sus mensajes de veto, Newsom calificó la medida de salud mental de \"excesivamente amplia\" y dijo que el Labor Commissioner carece de la experiencia médica necesaria para hacer cumplir las normas contra represalias (anti-retaliation) del otro proyecto. Sandy Reding, presidenta de la California Nurses Association, criticó ese veto, mientras que Liz Shuler, presidenta de la AFL-CIO, calificó las nuevas leyes como \"algunas de las legislaciones estatales más sólidas del país\"."
+              },
+              {
+                "t": "p",
+                "x": "CalMatters señala que la ley sobre despidos se debilitó durante el proceso legislativo: perdió un procedimiento de apelación para los trabajadores, el derecho a demandar para exigir su cumplimiento y la cobertura de los contratistas."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "뉴섬, 캘리포니아\n직장 AI 제한 서명",
+          "body": "뉴섬 캘리포니아 주지사가 노동자 해고·감시에 AI 사용을 제한하는 법에 서명했다.",
+          "mini_headline": "뉴섬, 직장 AI 규정 서명",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+                "cap": "2026년 9월 15일 샌프란시스코 Dreamforce 행사장 밖에서 시위대가 AI의 일자리 잠식에 반대하는 집회를 열고 있다. 사진 Manuel Orbegozo, CalMatters"
+              },
+              {
+                "t": "p",
+                "x": "개빈 뉴섬 주지사는 자신의 마지막 정기 회기 법안 처리 시한 마지막 날, 환자 돌봄과 해고에서 AI 사용을 제한하는 내용을 포함해 인공지능으로부터 노동자를 보호하는 법안 여러 건에 서명했다. 다만 노동계가 추진해 온, 의료 노동자를 보호하는 AI 관련(AI-related) 법안 2건에는 거부권을 행사했다."
+              },
+              {
+                "t": "p",
+                "x": "노동계 지도자들은 AI 법안 9건에 모두 서명하라고 압박하며, 이것이 향후 대선 출마 시 지지 여부에 영향을 줄 것이라고 말해 왔다. 노조는 9건 중 7건을 얻어냈다."
+              },
+              {
+                "t": "p",
+                "x": "새 법은 노동자 해고나 징계에 AI 사용을 제한하고, 환자 돌봄(patient-care) 결정을 AI가 아닌 의료 전문가가 맡도록 하며, 고용주가 노동자의 감정 상태를 예측하거나 뇌 데이터를 수집하는 것을 금지한다. 화장실 내 AI 감시도 금지하고, 해고가 전부 또는 일부 AI나 자동화 때문일 경우 사전 통지를 의무화한다."
+              },
+              {
+                "t": "p",
+                "x": "뉴섬은 거부 메시지에서 정신건강 법안을 \"지나치게 광범위하다\"고 평가했고, 다른 법안의 보복 금지(anti-retaliation) 규정을 집행하기에는 노동위원(Labor Commissioner)에게 의학적 전문성이 없다고 밝혔다. 캘리포니아간호사협회(California Nurses Association) 샌디 레딩 회장은 이 거부권 행사를 비판했고, AFL-CIO의 리즈 슐러 회장은 새 법을 \"국내에서 가장 강력한 주 법률 중 일부\"라고 평가했다."
+              },
+              {
+                "t": "p",
+                "x": "CalMatters는 해고 관련 법이 입법 과정에서 약화돼 노동자 이의 제기 절차, 이행을 강제하기 위한 소송권, 계약직 적용 범위가 빠졌다고 지적했다."
               }
             ]
           }
@@ -275,15 +365,15 @@
       }
     },
     {
-      "id": "gpusmuggle",
-      "source_lang": "en",
+      "id": "eu-nudify-ai-ban",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "캘리포니아 남성 기소\n3억 달러 GPU 中 밀수",
-      "body": "검찰은 업체 대표가 허위 서류와 제3국 경유로 GPU 서버를 중국에 보냈다고 본다.",
-      "mini_headline": "3억 달러 GPU 밀수 기소",
+      "headline": "EU, 누디파이 AI\n법으로 직접 금지",
+      "body": "EU가 12월 2일부터 비동의 성적 이미지를 만드는 누디파이 AI를 금지한다.",
+      "mini_headline": "EU, 누디파이 AI 금지",
       "tool": "Politics",
-      "source": "U.S. Department of Justice",
-      "url": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+      "source": "ZDNet Korea",
+      "url": "https://zdnet.co.kr/view/?no=20261002190003",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -291,215 +381,345 @@
         "blocks": [
           {
             "t": "p",
-            "x": "미 법무부에 따르면 City of Industry 소재 Earthmade Computer Inc.의 대표 Greg Lui(38)가 3개 혐의로 연방 기소돼 체포됐다. 미국산 GPU(U.S.-made GPUs)가 들어간 수출 통제 대상 서버를 3억 달러어치 넘게 중국으로 밀수한 혐의다."
+            "x": "사진 한 장으로 실제 인물의 옷을 벗긴 것처럼 이미지를 만드는 이른바 ‘누디파이(Nudify)’ AI가 유럽에서 엄격하게 금지된다. EU가 비동의 성적 이미지 생성 AI를 법으로 직접 금지하면서 생성형 AI의 악용을 사후 콘텐츠 삭제가 아닌 AI 시스템 자체의 규제 대상으로 끌어올린다."
           },
           {
             "t": "p",
-            "x": "Lui는 수출통제개혁법(Export Control Reform Act)과 수출관리규정(Export Administration Regulations) 위반 공모, 국외 밀수, 자금세탁 공모 혐의를 받는다. 9월 29일 나온 기소장을 보면 Lui와 공모자들은 2023년부터 2024년까지 미국(U.S.) 제조업체에 최종 사용자를 허위로 적은 서류를 냈고 서버를 말레이시아와 싱가포르 등으로 보낸 뒤 중국으로 재수출했다. 검찰은 Earthmade가 2024년 1월부터 10월 사이 말레이시아 운송업체 두 곳에서 1억 7600만 달러 이상을 받았다고 밝혔다."
+            "x": "EU 집행위원회(EC)에 따르면 이런 시스템을 금지하는 인공지능법(AI Act) 규정이 12월 2일부터 적용된다. 이번 발표는 유럽의회 의원 100명 이상이 즉각적인 집행 준비를 요구하면서 나왔다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+            "cap": "유럽연합이 12월부터 누디파이 AI에 대한 엄격한 법 집행에 나선다. 사진_EC 홈페이지"
           },
           {
             "t": "p",
-            "x": "유죄가 확정되면 Lui는 공모 혐의로 최대 20년, 자금세탁 혐의로 20년, 밀수 혐의로 10년의 징역형을 받을 수 있다. 기소는 혐의를 제기한 것일 뿐이다. 피고인은 유죄가 입증될 때까지 무죄로 추정된다."
+            "x": "토마 레니에 EC 대변인은 “이는 불법이며 유럽에서 설 자리가 전혀 없다”며 “시행 첫날부터 법을 집행할 준비가 돼 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "인공지능법은 비동의 성적 콘텐츠를 생성하는 AI 시스템 자체를 ‘금지된 AI 관행’으로 규정하며, 아동 성착취물을 생성하는 AI 시스템도 함께 금지된다. 당초 명시적 금지 규정은 없었으나 AI 옴니버스 개정 과정에서 추가됐고, 지난 5월 유럽의회와 EU 이사회가 정치적 합의에 도달했다."
+          },
+          {
+            "t": "p",
+            "x": "EU는 디지털서비스법(DSA)도 동원해 xAI의 그록(Grok)이 비동의 성적 이미지를 생성한 문제를 조사 중이다. 플랫폼의 불법 콘텐츠 확산은 DSA로, 이를 만드는 AI 시스템은 인공지능법으로 다루는 두 갈래 구조다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "California man charged in\n$300M GPU smuggling to China",
-          "body": "Prosecutors allege a tech firm owner used false paperwork and third-country transshipment to send GPU servers to China.",
-          "mini_headline": "$300M GPU smuggling charged",
+        "ko": {
+          "headline": "EU, 누디파이 AI\n법으로 직접 금지",
+          "body": "EU가 12월 2일부터 비동의 성적 이미지를 만드는 누디파이 AI를 금지한다.",
+          "mini_headline": "EU, 누디파이 AI 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Greg Lui, 38, owner of City of Industry-based Earthmade Computer Inc., was arrested on a three-count federal indictment charging him with smuggling more than $300 million in export-controlled servers containing U.S.-made GPUs to China, the Justice Department said."
+                "x": "사진 한 장으로 실제 인물의 옷을 벗긴 것처럼 이미지를 만드는 이른바 ‘누디파이(Nudify)’ AI가 유럽에서 엄격하게 금지된다. EU가 비동의 성적 이미지 생성 AI를 법으로 직접 금지하면서 생성형 AI의 악용을 사후 콘텐츠 삭제가 아닌 AI 시스템 자체의 규제 대상으로 끌어올린다."
               },
               {
                 "t": "p",
-                "x": "Lui is charged with conspiracy to violate the Export Control Reform Act and the Export Administration Regulations, outbound smuggling, and conspiracy to commit money laundering. According to the indictment returned Sept. 29, from 2023 to 2024 Lui and co-conspirators gave U.S. manufacturers false documentation about end users, shipped the servers to countries such as Malaysia and Singapore, then re-exported them to China. Prosecutors say Earthmade received more than $176 million from two Malaysia-based shipment companies between January and October 2024."
+                "x": "EU 집행위원회(EC)에 따르면 이런 시스템을 금지하는 인공지능법(AI Act) 규정이 12월 2일부터 적용된다. 이번 발표는 유럽의회 의원 100명 이상이 즉각적인 집행 준비를 요구하면서 나왔다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+                "cap": "유럽연합이 12월부터 누디파이 AI에 대한 엄격한 법 집행에 나선다. 사진_EC 홈페이지"
               },
               {
                 "t": "p",
-                "x": "If convicted, Lui faces up to 20 years on the conspiracy count, 20 years on the money laundering count and 10 years on the smuggling count. An indictment is merely an allegation, and defendants are presumed innocent until proven guilty."
+                "x": "토마 레니에 EC 대변인은 “이는 불법이며 유럽에서 설 자리가 전혀 없다”며 “시행 첫날부터 법을 집행할 준비가 돼 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "인공지능법은 비동의 성적 콘텐츠를 생성하는 AI 시스템 자체를 ‘금지된 AI 관행’으로 규정하며, 아동 성착취물을 생성하는 AI 시스템도 함께 금지된다. 당초 명시적 금지 규정은 없었으나 AI 옴니버스 개정 과정에서 추가됐고, 지난 5월 유럽의회와 EU 이사회가 정치적 합의에 도달했다."
+              },
+              {
+                "t": "p",
+                "x": "EU는 디지털서비스법(DSA)도 동원해 xAI의 그록(Grok)이 비동의 성적 이미지를 생성한 문제를 조사 중이다. 플랫폼의 불법 콘텐츠 확산은 DSA로, 이를 만드는 AI 시스템은 인공지능법으로 다루는 두 갈래 구조다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "캘리포니아 남성 기소\n3억 달러 GPU 中 밀수",
-          "body": "검찰은 업체 대표가 허위 서류와 제3국 경유로 GPU 서버를 중국에 보냈다고 본다.",
-          "mini_headline": "3억 달러 GPU 밀수 기소",
+        "en": {
+          "headline": "EU bans Nudify AI\ndirectly by law",
+          "body": "The EU will ban Nudify AI that creates non-consensual sexual images starting December 2.",
+          "mini_headline": "EU bans Nudify AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "미 법무부에 따르면 City of Industry 소재 Earthmade Computer Inc.의 대표 Greg Lui(38)가 3개 혐의로 연방 기소돼 체포됐다. 미국산 GPU(U.S.-made GPUs)가 들어간 수출 통제 대상 서버를 3억 달러어치 넘게 중국으로 밀수한 혐의다."
+                "x": "So-called ‘Nudify’ AI, which uses a single photo to create images that make a real person appear undressed, will be strictly banned in Europe. By directly banning AI that generates non-consensual sexual images by law, the EU elevates the misuse of generative AI from after-the-fact content removal to regulation of the AI systems themselves."
               },
               {
                 "t": "p",
-                "x": "Lui는 수출통제개혁법(Export Control Reform Act)과 수출관리규정(Export Administration Regulations) 위반 공모, 국외 밀수, 자금세탁 공모 혐의를 받는다. 9월 29일 나온 기소장을 보면 Lui와 공모자들은 2023년부터 2024년까지 미국(U.S.) 제조업체에 최종 사용자를 허위로 적은 서류를 냈고 서버를 말레이시아와 싱가포르 등으로 보낸 뒤 중국으로 재수출했다. 검찰은 Earthmade가 2024년 1월부터 10월 사이 말레이시아 운송업체 두 곳에서 1억 7600만 달러 이상을 받았다고 밝혔다."
+                "x": "According to the European Commission (EC), the AI Act provision banning such systems will apply from December 2. The announcement came after more than 100 members of the European Parliament called for immediate enforcement readiness."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+                "cap": "The European Union will begin strict legal enforcement against Nudify AI from December. Photo_EC website"
               },
               {
                 "t": "p",
-                "x": "유죄가 확정되면 Lui는 공모 혐의로 최대 20년, 자금세탁 혐의로 20년, 밀수 혐의로 10년의 징역형을 받을 수 있다. 기소는 혐의를 제기한 것일 뿐이다. 피고인은 유죄가 입증될 때까지 무죄로 추정된다."
+                "x": "EC spokesperson Thomas Regnier said, “This is illegal and has absolutely no place in Europe,” adding, “We are ready to enforce the law from day one.”"
+              },
+              {
+                "t": "p",
+                "x": "The AI Act defines AI systems that generate non-consensual sexual content as a ‘prohibited AI practice,’ and AI systems that generate child sexual abuse material are banned as well. There was originally no explicit prohibition, but it was added during the AI Omnibus revision process, and the European Parliament and the EU Council reached a political agreement in May."
+              },
+              {
+                "t": "p",
+                "x": "The EU is also using the Digital Services Act (DSA) to investigate xAI's Grok over its generation of non-consensual sexual images. The approach runs on two tracks: the spread of illegal content on platforms is handled under the DSA, while the AI systems that create it are handled under the AI Act."
               }
             ]
           }
         },
         "ja": {
-          "headline": "米加州の男性を起訴\n$300M GPU中国密輸",
-          "body": "検察は、IT企業の経営者が虚偽書類と第三国経由でGPUサーバーを中国へ送ったとみている。",
-          "mini_headline": "$300MのGPU密輸で起訴",
+          "headline": "EU、ヌーディファイAIを\n法律で直接禁止",
+          "body": "EUは12月2日から、同意のない性的画像を作るヌーディファイAIを禁止する。",
+          "mini_headline": "EU、ヌーディファイAI禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "米司法省によると、City of IndustryのEarthmade Computer Inc.を経営するGreg Lui（38）が、3件の罪状による連邦起訴で逮捕された。米国製GPU（U.S.-made GPUs）を搭載した輸出規制対象のサーバー3億ドル超相当を中国に密輸した罪に問われている。"
+                "x": "写真1枚で実在の人物の服を脱がせたかのような画像を作る、いわゆる「ヌーディファイ(Nudify)」AIが、欧州で厳しく禁止される。EUが同意のない性的画像を生成するAIを法律で直接禁止することで、生成AIの悪用は事後的なコンテンツ削除ではなく、AIシステムそのものの規制対象へと引き上げられる。"
               },
               {
                 "t": "p",
-                "x": "Luiは、輸出管理改革法（Export Control Reform Act）と輸出管理規則（Export Administration Regulations）への違反共謀、国外への密輸、資金洗浄の共謀の罪に問われている。9月29日に出された起訴状によると、Luiと共謀者らは2023年から2024年にかけて、米国（U.S.）のメーカーに最終利用者について虚偽の書類を渡し、サーバーをマレーシアやシンガポールなどに送ったうえで中国へ再輸出した。検察によれば、Earthmadeは2024年1月から10月の間にマレーシアの運送会社2社から1億7600万ドル超を受け取った。"
+                "x": "欧州委員会(EC)によると、こうしたシステムを禁止する人工知能法(AI Act)の規定は12月2日から適用される。今回の発表は、欧州議会議員100人以上が即時の執行準備を求めたことを受けたものだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+                "cap": "欧州連合は12月からヌーディファイAIに対する厳格な法執行に乗り出す。写真_EC公式サイト"
               },
               {
                 "t": "p",
-                "x": "有罪となれば、Luiは共謀罪で最長20年、資金洗浄罪で20年、密輸罪で10年の刑に問われる可能性がある。起訴は申し立てにすぎず、被告は有罪が立証されるまで無罪と推定される。"
+                "x": "EC報道官のトマ・レニエ氏は「これは違法であり、欧州に居場所はまったくない」と述べ、「施行初日から法を執行する準備ができている」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "人工知能法は、同意のない性的コンテンツを生成するAIシステムそのものを「禁止されたAI慣行」と定め、児童性的搾取物を生成するAIシステムも併せて禁止する。当初は明示的な禁止規定がなかったが、AIオムニバス改正の過程で追加され、5月に欧州議会とEU理事会が政治合意に達した。"
+              },
+              {
+                "t": "p",
+                "x": "EUはデジタルサービス法(DSA)も動員し、xAIのGrokが同意のない性的画像を生成した問題を調査している。プラットフォーム上の違法コンテンツの拡散はDSAで、それを作り出すAIシステムは人工知能法で扱う二本立ての構造だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加州男子被控向中国\n走私3亿美元GPU",
-          "body": "检方指控一家科技公司老板利用虚假文件和第三国转运将GPU服务器运往中国。",
-          "mini_headline": "3亿美元GPU走私案遭起诉",
+          "headline": "EU立法直接禁止\nNudify AI",
+          "body": "EU将自12月2日起禁止生成未经同意性图像的Nudify AI。",
+          "mini_headline": "EU禁止Nudify AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "美国司法部称，位于City of Industry的Earthmade Computer Inc.老板、38岁的Greg Lui因一份包含三项罪名的联邦起诉书被捕，被控将价值超过3亿美元、搭载美国制造GPU（U.S.-made GPUs）的出口管制服务器走私到中国。"
+                "x": "仅凭一张照片就能生成仿佛脱去真人衣服的图像的所谓“一键脱衣（Nudify）”AI，将在欧洲遭到严格禁止。EU以立法形式直接禁止生成未经同意性图像的AI，把生成式AI滥用问题从事后删除内容提升为对AI系统本身的监管。"
               },
               {
                 "t": "p",
-                "x": "Lui被控合谋违反《出口管制改革法》（Export Control Reform Act）和《出口管理条例》（Export Administration Regulations）、出境走私以及合谋洗钱。根据9月29日提交的起诉书，2023年至2024年间，Lui及其同谋向美国（U.S.）制造商提供有关最终用户的虚假文件，将服务器运往马来西亚和新加坡等国，再转口至中国。检方称，2024年1月至10月间，Earthmade从两家马来西亚运输公司收到超过1.76亿美元。"
+                "x": "据欧盟委员会（EC）称，禁止此类系统的《人工智能法》（AI Act）条款将于12月2日起适用。此次宣布是在100多名欧洲议会议员要求立即做好执法准备之后作出的。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+                "cap": "欧盟将自12月起对Nudify AI严格执法。图片_EC官网"
               },
               {
                 "t": "p",
-                "x": "如被定罪，Lui在合谋罪名上最高面临20年刑期，洗钱罪名20年，走私罪名10年。起诉书仅为指控，被告在被证明有罪之前均推定无罪。"
+                "x": "EC发言人托马·雷尼耶表示：“这是违法的，在欧洲毫无立足之地。”他还说：“我们已准备好从实施首日起执法。”"
+              },
+              {
+                "t": "p",
+                "x": "《人工智能法》将生成未经同意性内容的AI系统本身界定为“被禁止的AI行为”，生成儿童性剥削内容的AI系统也一并被禁止。该法最初并无明确禁止条款，后在AI综合（Omnibus）修订过程中加入，欧洲议会与EU理事会已于5月达成政治协议。"
+              },
+              {
+                "t": "p",
+                "x": "EU还动用《数字服务法》（DSA）调查xAI旗下Grok生成未经同意性图像的问题。平台上非法内容的传播由DSA处理，制造这些内容的AI系统则由《人工智能法》规管，形成双轨结构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Acusan a un hombre de California\nde pasar $300M en GPU a China",
-          "body": "La fiscalía acusa al dueño de una tecnológica de enviar servidores GPU a China con papeles falsos y vía otros países.",
-          "mini_headline": "Acusado por contrabando de GPU por $300M",
+          "headline": "La EU prohíbe directamente\npor ley la AI Nudify",
+          "body": "La EU prohibirá desde el 2 de diciembre la AI Nudify, que crea imágenes sexuales sin consentimiento.",
+          "mini_headline": "La EU prohíbe la AI Nudify",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Greg Lui, de 38 años, dueño de Earthmade Computer Inc., con sede en City of Industry, fue detenido por una acusación federal de tres cargos que le imputa haber introducido de contrabando en China más de $300 millones en servidores sujetos a control de exportación con GPU fabricadas en EE. UU. (U.S.-made GPUs), informó el Departamento de Justicia."
+                "x": "La llamada AI ‘Nudify’, que a partir de una sola foto crea imágenes en las que una persona real parece desvestida, quedará estrictamente prohibida en Europa. Al prohibir directamente por ley la AI que genera imágenes sexuales sin consentimiento, la EU eleva el uso indebido de la AI generativa de la retirada de contenidos a posteriori a la regulación de los propios sistemas de AI."
               },
               {
                 "t": "p",
-                "x": "Lui está acusado de conspirar para violar la Export Control Reform Act y las Export Administration Regulations, de contrabando de salida y de conspiración para lavar dinero. Según la acusación formal presentada el 29 de septiembre, entre 2023 y 2024 Lui y sus cómplices entregaron a fabricantes de EE. UU. (U.S.) documentación falsa sobre los usuarios finales, enviaron los servidores a países como Malasia y Singapur y luego los reexportaron a China. La fiscalía afirma que Earthmade recibió más de $176 millones de dos empresas de transporte con sede en Malasia entre enero y octubre de 2024."
+                "x": "Según la Comisión Europea (EC), la disposición de la ley de inteligencia artificial (AI Act) que prohíbe estos sistemas se aplicará desde el 2 de diciembre. El anuncio se produjo después de que más de 100 eurodiputados pidieran preparar su aplicación inmediata."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+                "cap": "La Unión Europea aplicará la ley con rigor contra la AI Nudify a partir de diciembre. Foto_sitio web de la EC"
               },
               {
                 "t": "p",
-                "x": "Si es declarado culpable, Lui se enfrenta a hasta 20 años por el cargo de conspiración, 20 años por el de lavado de dinero y 10 años por el de contrabando. Una acusación formal es solo una alegación, y los acusados se presumen inocentes hasta que se demuestre su culpabilidad."
+                "x": "Thomas Regnier, portavoz de la EC, afirmó: “Esto es ilegal y no tiene cabida alguna en Europa”, y añadió: “Estamos preparados para aplicar la ley desde el primer día”."
+              },
+              {
+                "t": "p",
+                "x": "La AI Act define los propios sistemas de AI que generan contenido sexual sin consentimiento como una ‘práctica de AI prohibida’, y también prohíbe los sistemas de AI que generan material de abuso sexual infantil. En un principio no había una prohibición explícita, pero se añadió durante la revisión del Ómnibus de AI, y en mayo el Parlamento Europeo y el Consejo de la EU alcanzaron un acuerdo político."
+              },
+              {
+                "t": "p",
+                "x": "La EU también recurre a la Ley de Servicios Digitales (DSA) para investigar a Grok, de xAI, por generar imágenes sexuales sin consentimiento. Es una estructura de dos vías: la difusión de contenido ilegal en las plataformas se aborda con la DSA y los sistemas de AI que lo crean, con la AI Act."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "캘리포니아 남성 기소\n3억 달러 GPU 中 밀수",
-          "body": "검찰은 업체 대표가 허위 서류와 제3국 경유로 GPU 서버를 중국에 보냈다고 본다.",
-          "mini_headline": "3억 달러 GPU 밀수 기소",
+        "en": {
+          "headline": "EU bans Nudify AI\ndirectly by law",
+          "body": "The EU will ban Nudify AI that creates non-consensual sexual images starting December 2.",
+          "mini_headline": "EU bans Nudify AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "미 법무부에 따르면 City of Industry에 있는 Earthmade Computer Inc.의 대표 Greg Lui(38)가 3개 혐의의 연방 기소에 따라 체포됐다. 그는 미국산 GPU(U.S.-made GPUs)가 들어간 수출 통제 대상 서버 3억 달러어치 이상을 중국으로 밀수한 혐의를 받는다."
+                "x": "So-called ‘Nudify’ AI, which uses a single photo to create images that make a real person appear undressed, will be strictly banned in Europe. By directly banning AI that generates non-consensual sexual images by law, the EU elevates the misuse of generative AI from after-the-fact content removal to regulation of the AI systems themselves."
               },
               {
                 "t": "p",
-                "x": "Lui는 수출통제개혁법(Export Control Reform Act)과 수출관리규정(Export Administration Regulations) 위반 공모, 국외 밀수, 자금세탁 공모 혐의를 받는다. 9월 29일 나온 기소장에 따르면 Lui와 공모자들은 2023년부터 2024년까지 미국(U.S.) 제조업체에 최종 사용자에 관한 허위 서류를 냈고, 서버를 말레이시아와 싱가포르 등으로 보낸 뒤 중국으로 재수출했다. 검찰은 Earthmade가 2024년 1월부터 10월 사이 말레이시아에 있는 운송업체 두 곳으로부터 1억 7600만 달러 이상을 받았다고 밝혔다."
+                "x": "According to the European Commission (EC), the AI Act provision banning such systems will apply from December 2. The announcement came after more than 100 members of the European Parliament called for immediate enforcement readiness."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+                "cap": "The European Union will begin strict legal enforcement against Nudify AI from December. Photo_EC website"
               },
               {
                 "t": "p",
-                "x": "유죄가 확정되면 Lui는 공모 혐의로 최대 20년, 자금세탁 혐의로 20년, 밀수 혐의로 10년의 징역형을 받을 수 있다. 기소는 혐의 제기일 뿐이며, 피고인은 유죄가 입증되기 전까지 무죄로 추정된다."
+                "x": "EC spokesperson Thomas Regnier said, “This is illegal and has absolutely no place in Europe,” adding, “We are ready to enforce the law from day one.”"
+              },
+              {
+                "t": "p",
+                "x": "The AI Act defines AI systems that generate non-consensual sexual content as a ‘prohibited AI practice,’ and AI systems that generate child sexual abuse material are banned as well. There was originally no explicit prohibition, but it was added during the AI Omnibus revision process, and the European Parliament and the EU Council reached a political agreement in May."
+              },
+              {
+                "t": "p",
+                "x": "The EU is also using the Digital Services Act (DSA) to investigate xAI's Grok over its generation of non-consensual sexual images. The approach runs on two tracks: the spread of illegal content on platforms is handled under the DSA, while the AI systems that create it are handled under the AI Act."
               }
             ]
           }
         },
         "ja": {
-          "headline": "米加州の男性を起訴\n$300M GPU中国密輸",
-          "body": "検察は、IT企業の経営者が虚偽書類と第三国経由でGPUサーバーを中国へ送ったとみている。",
-          "mini_headline": "$300MのGPU密輸で起訴",
+          "headline": "EU、ヌーディファイAIを\n法律で直接禁止",
+          "body": "EUは12月2日から、同意のない性的画像を作るヌーディファイAIを禁止する。",
+          "mini_headline": "EU、ヌーディファイAI禁止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "米司法省によると、City of IndustryのEarthmade Computer Inc.を経営するGreg Lui（38）が、3件の罪状による連邦起訴で逮捕された。米国製GPU（U.S.-made GPUs）を搭載した輸出規制対象のサーバー3億ドル超相当を中国に密輸した罪に問われている。"
+                "x": "写真1枚で実在の人物の服を脱がせたかのような画像を作る、いわゆる「ヌーディファイ(Nudify)」AIが、欧州で厳しく禁止される。EUが同意のない性的画像を生成するAIを法律で直接禁止することで、生成AIの悪用は事後的なコンテンツ削除ではなく、AIシステムそのものの規制対象へと引き上げられる。"
               },
               {
                 "t": "p",
-                "x": "Luiは、輸出管理改革法（Export Control Reform Act）と輸出管理規則（Export Administration Regulations）への違反共謀、国外への密輸、資金洗浄の共謀の罪に問われている。9月29日に出された起訴状によると、Luiと共謀者らは2023年から2024年にかけて、米国（U.S.）のメーカーに最終利用者について虚偽の書類を渡し、サーバーをマレーシアやシンガポールなどに送ったうえで中国へ再輸出した。検察によれば、Earthmadeは2024年1月から10月の間にマレーシアの運送会社2社から1億7600万ドル超を受け取った。"
+                "x": "欧州委員会(EC)によると、こうしたシステムを禁止する人工知能法(AI Act)の規定は12月2日から適用される。今回の発表は、欧州議会議員100人以上が即時の執行準備を求めたことを受けたものだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+                "cap": "欧州連合は12月からヌーディファイAIに対する厳格な法執行に乗り出す。写真_EC公式サイト"
               },
               {
                 "t": "p",
-                "x": "有罪となれば、Luiは共謀罪で最長20年、資金洗浄罪で20年、密輸罪で10年の刑に問われる可能性がある。起訴は申し立てにすぎず、被告は有罪が立証されるまで無罪と推定される。"
+                "x": "EC報道官のトマ・レニエ氏は「これは違法であり、欧州に居場所はまったくない」と述べ、「施行初日から法を執行する準備ができている」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "人工知能法は、同意のない性的コンテンツを生成するAIシステムそのものを「禁止されたAI慣行」と定め、児童性的搾取物を生成するAIシステムも併せて禁止する。当初は明示的な禁止規定がなかったが、AIオムニバス改正の過程で追加され、5月に欧州議会とEU理事会が政治合意に達した。"
+              },
+              {
+                "t": "p",
+                "x": "EUはデジタルサービス法(DSA)も動員し、xAIのGrokが同意のない性的画像を生成した問題を調査している。プラットフォーム上の違法コンテンツの拡散はDSAで、それを作り出すAIシステムは人工知能法で扱う二本立ての構造だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加州男子被控向中国\n走私3亿美元GPU",
-          "body": "检方指控一家科技公司老板利用虚假文件和第三国转运将GPU服务器运往中国。",
-          "mini_headline": "3亿美元GPU走私案遭起诉",
+          "headline": "EU立法直接禁止\nNudify AI",
+          "body": "EU将自12月2日起禁止生成未经同意性图像的Nudify AI。",
+          "mini_headline": "EU禁止Nudify AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "美国司法部称，位于City of Industry的Earthmade Computer Inc.老板、38岁的Greg Lui因一份包含三项罪名的联邦起诉书被捕，被控将价值超过3亿美元、搭载美国制造GPU（U.S.-made GPUs）的出口管制服务器走私到中国。"
+                "x": "仅凭一张照片就能生成仿佛脱去真人衣服的图像的所谓“一键脱衣（Nudify）”AI，将在欧洲遭到严格禁止。EU以立法形式直接禁止生成未经同意性图像的AI，把生成式AI滥用问题从事后删除内容提升为对AI系统本身的监管。"
               },
               {
                 "t": "p",
-                "x": "Lui被控合谋违反《出口管制改革法》（Export Control Reform Act）和《出口管理条例》（Export Administration Regulations）、出境走私以及合谋洗钱。根据9月29日提交的起诉书，2023年至2024年间，Lui及其同谋向美国（U.S.）制造商提供有关最终用户的虚假文件，将服务器运往马来西亚和新加坡等国，再转口至中国。检方称，2024年1月至10月间，Earthmade从两家马来西亚运输公司收到超过1.76亿美元。"
+                "x": "据欧盟委员会（EC）称，禁止此类系统的《人工智能法》（AI Act）条款将于12月2日起适用。此次宣布是在100多名欧洲议会议员要求立即做好执法准备之后作出的。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+                "cap": "欧盟将自12月起对Nudify AI严格执法。图片_EC官网"
               },
               {
                 "t": "p",
-                "x": "如被定罪，Lui在合谋罪名上最高面临20年刑期，洗钱罪名20年，走私罪名10年。起诉书仅为指控，被告在被证明有罪之前均推定无罪。"
+                "x": "EC发言人托马·雷尼耶表示：“这是违法的，在欧洲毫无立足之地。”他还说：“我们已准备好从实施首日起执法。”"
+              },
+              {
+                "t": "p",
+                "x": "《人工智能法》将生成未经同意性内容的AI系统本身界定为“被禁止的AI行为”，生成儿童性剥削内容的AI系统也一并被禁止。该法最初并无明确禁止条款，后在AI综合（Omnibus）修订过程中加入，欧洲议会与EU理事会已于5月达成政治协议。"
+              },
+              {
+                "t": "p",
+                "x": "EU还动用《数字服务法》（DSA）调查xAI旗下Grok生成未经同意性图像的问题。平台上非法内容的传播由DSA处理，制造这些内容的AI系统则由《人工智能法》规管，形成双轨结构。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Acusan a un hombre de California\nde pasar $300M en GPU a China",
-          "body": "La fiscalía acusa al dueño de una tecnológica de enviar servidores GPU a China con papeles falsos y vía otros países.",
-          "mini_headline": "Acusado por contrabando de GPU por $300M",
+          "headline": "La EU prohíbe directamente\npor ley la AI Nudify",
+          "body": "La EU prohibirá desde el 2 de diciembre la AI Nudify, que crea imágenes sexuales sin consentimiento.",
+          "mini_headline": "La EU prohíbe la AI Nudify",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Greg Lui, de 38 años, dueño de Earthmade Computer Inc., con sede en City of Industry, fue detenido por una acusación federal de tres cargos que le imputa haber introducido de contrabando en China más de $300 millones en servidores sujetos a control de exportación con GPU fabricadas en EE. UU. (U.S.-made GPUs), informó el Departamento de Justicia."
+                "x": "La llamada AI ‘Nudify’, que a partir de una sola foto crea imágenes en las que una persona real parece desvestida, quedará estrictamente prohibida en Europa. Al prohibir directamente por ley la AI que genera imágenes sexuales sin consentimiento, la EU eleva el uso indebido de la AI generativa de la retirada de contenidos a posteriori a la regulación de los propios sistemas de AI."
               },
               {
                 "t": "p",
-                "x": "Lui está acusado de conspirar para violar la Export Control Reform Act y las Export Administration Regulations, de contrabando de salida y de conspiración para lavar dinero. Según la acusación formal presentada el 29 de septiembre, entre 2023 y 2024 Lui y sus cómplices entregaron a fabricantes de EE. UU. (U.S.) documentación falsa sobre los usuarios finales, enviaron los servidores a países como Malasia y Singapur y luego los reexportaron a China. La fiscalía afirma que Earthmade recibió más de $176 millones de dos empresas de transporte con sede en Malasia entre enero y octubre de 2024."
+                "x": "Según la Comisión Europea (EC), la disposición de la ley de inteligencia artificial (AI Act) que prohíbe estos sistemas se aplicará desde el 2 de diciembre. El anuncio se produjo después de que más de 100 eurodiputados pidieran preparar su aplicación inmediata."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+                "cap": "La Unión Europea aplicará la ley con rigor contra la AI Nudify a partir de diciembre. Foto_sitio web de la EC"
               },
               {
                 "t": "p",
-                "x": "Si es declarado culpable, Lui se enfrenta a hasta 20 años por el cargo de conspiración, 20 años por el de lavado de dinero y 10 años por el de contrabando. Una acusación formal es solo una alegación, y los acusados se presumen inocentes hasta que se demuestre su culpabilidad."
+                "x": "Thomas Regnier, portavoz de la EC, afirmó: “Esto es ilegal y no tiene cabida alguna en Europa”, y añadió: “Estamos preparados para aplicar la ley desde el primer día”."
+              },
+              {
+                "t": "p",
+                "x": "La AI Act define los propios sistemas de AI que generan contenido sexual sin consentimiento como una ‘práctica de AI prohibida’, y también prohíbe los sistemas de AI que generan material de abuso sexual infantil. En un principio no había una prohibición explícita, pero se añadió durante la revisión del Ómnibus de AI, y en mayo el Parlamento Europeo y el Consejo de la EU alcanzaron un acuerdo político."
+              },
+              {
+                "t": "p",
+                "x": "La EU también recurre a la Ley de Servicios Digitales (DSA) para investigar a Grok, de xAI, por generar imágenes sexuales sin consentimiento. Es una estructura de dos vías: la difusión de contenido ilegal en las plataformas se aborda con la DSA y los sistemas de AI que lo crean, con la AI Act."
               }
             ]
           }
@@ -507,15 +727,15 @@
       }
     },
     {
-      "id": "aioverviewsuit",
+      "id": "vanorden-cooke-deepfake",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Chegg·Penske의\n구글 AI 요약 소송 기각",
-      "body": "판사는 구글 AI 요약에 대한 Chegg·Penske의 반독점 주장을 기각했다.",
-      "mini_headline": "구글 AI 요약 소송 기각",
+      "headline": "밴 오든 캠프에\nAI 딥페이크 중지 서한",
+      "body": "쿡 측 변호인은 밴 오든 캠프가 AI 딥페이크로 쿡의 발언을 지어냈다고 밝혔다.",
+      "mini_headline": "밴 오든, 딥페이크 서한 받아",
       "tool": "Politics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "Washington Sun",
+      "url": "https://www.washingtonsun.com/campaigns/van-orden-hit-with-cease-and-desist-letter-over-ai-deepfake-videos",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -523,197 +743,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+            "cap": "데릭 밴 오든 (Alex Brandon/AP)"
           },
           {
             "t": "p",
-            "x": "앞서 Reuters가 보도한 대로 연방 판사가 Chegg와 Rolling Stone의 모회사 Penske Media Corporation이 낸 반독점 소송 두 건을 기각했다. 두 회사는 Google이 AI 기반(AI-powered) 검색 기능으로 웹 트래픽을 빼앗아 간다고 주장했다. Amit Mehta 연방지방법원 판사는 수요일 판결에서 Google의 손을 들어줬다. PMC와 Chegg의 주장은 반독점법상 성립하지 않는다고 썼다."
+            "x": "공화당 데릭 밴 오든 하원의원이 수요일 AI 딥페이크 영상을 문제 삼은 중지 요구(cease-and-desist) 서한을 받았다. 보낸 쪽은 위스콘신주 제3선거구 민주당 도전자 레베카 쿡의 변호인단이다."
           },
           {
             "t": "p",
-            "x": "지난해 낸 소송에서 Chegg와 PMC는 Google이 독점력을 남용했다고 주장했다. 검색 결과에서 사라질 위험을 감수하든지 AI Overviews용 콘텐츠를 무료로 내놓든지 하라고 출판사들을 압박했다는 것이다. 이런 관행 탓에 자사 사이트로 갈 트래픽을 빼앗겨 매출에 타격을 입었다는 게 출판사들의 주장이다."
+            "x": "서한이 겨냥한 건 밴 오든이 8월 4일 X에 올린 딥페이크다. 영상 속 쿡은 \"가능한 한 많은 부패를 이용하겠다\"고 말한다. Elias Law Group의 벤 스태퍼드는 이 콘텐츠가 \"위스콘신 유권자들이 그녀가 하지 않은 말을 했다고 믿도록 속이려는\" 목적으로 만들어졌다고 썼다."
           },
           {
             "t": "p",
-            "x": "2024년 Google을 상대로 획기적인 반독점 판결을 내렸던 Mehta 판사는 Chegg와 PMC의 주장을 받아들이지 않았다. Mehta는 “원고들은 콘텐츠를 무료로 제공하면 Google이 검색 트래픽을 보내 줄 것이라는 ‘기대’가 있었다고만 주장했다”며 “그러나 기대는 합의가 아니다. 그것은 일반 검색 엔진이 작동하는 방식일 뿐이다”라고 썼다."
+            "x": "위스콘신은 정치 딥페이크를 규제하는 33개 주 가운데 하나다. 딥페이크 자체를 금지하진 않지만 영상이 AI로 생성됐다(AI-generated)는 사실은 밝히게 한다. 서한에는 쿡이 명예훼손 소송을 낼 수 있다는 내용도 담겼다."
           },
           {
             "t": "p",
-            "x": "Mehta는 법원이 “출판사들이 지금 처한 상황에 공감하지 않는 것은 아니다”라고 덧붙였다. 다만 반독점 규정이 “새로운 혁신”의 경제적 영향에 대응하려는 입법부의 결정을 대신할 수는 없다고 썼다."
-          },
-          {
-            "t": "p",
-            "x": "밝힘: The Verge는 Penske Media 소속이다."
+            "x": "밴 오든은 또 다른 AI-generated 영상과 성명을 내놓으며 맞섰다. 쿡이 자신의 의정 기록을 두고 \"허위 주장\"을 담은 광고를 내보낸다는 비난이었다. 쿡은 밴 오든이 \"내가 하지 않은 말을 내 입에 넣고 있다\"며 이번 딥페이크를 그가 지지해 온 데이터센터 문제와 엮었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Judge tosses Chegg and Penske\nsuits over Google AI Overviews",
-          "body": "A judge ruled that Chegg and Penske Media's claims against Google's AI Overviews don't stand up under antitrust law.",
-          "mini_headline": "Google AI Overviews suits tossed",
+          "headline": "Van Orden campaign hit with\nAI deepfake cease-and-desist",
+          "body": "Rebecca Cooke's lawyers say Rep. Van Orden's campaign used AI deepfake videos to falsely attribute statements to her.",
+          "mini_headline": "Van Orden faces deepfake letter",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+                "cap": "Derrick Van Orden (Alex Brandon/AP)"
               },
               {
                 "t": "p",
-                "x": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC and Chegg's claims don't stand up to antitrust law."
+                "x": "Republican Rep. Derrick Van Orden received a cease-and-desist letter Wednesday from attorneys for Rebecca Cooke, his Democratic challenger in Wisconsin's 3rd Congressional District, over AI deepfake videos."
               },
               {
                 "t": "p",
-                "x": "In lawsuits filed last year, Chegg and PMC accused Google of abusing its monopoly power by coercing publishers into supplying content for AI Overviews for free, or risk disappearing from search results. The publishers alleged Google's practices diverted traffic away from their sites, hurting their revenue."
+                "x": "The letter cites a deepfake Van Orden posted to X on Aug. 4 purporting to show Cooke saying she intends \"to take advantage of as much corruption as possible.\" Ben Stafford of Elias Law Group wrote that the content aims \"to fool the voters of Wisconsin into believing she said something she did not.\""
               },
               {
                 "t": "p",
-                "x": "Judge Mehta, who made a landmark antitrust ruling against Google in 2024, disagrees with Chegg and PMC's claims. “Plaintiffs have pleaded only that they have an ‘expectation’ that Google will send them search traffic if they make their content available for free,” Mehta writes. “But an expectation is not an agreement. It is simply how a general search engine works.”"
+                "x": "Wisconsin is one of 33 states regulating political deepfakes; it does not ban them but requires disclosure that a video is AI-generated. The letter says Cooke could pursue a defamation claim."
               },
               {
                 "t": "p",
-                "x": "Mehta adds that the court is not “unsympathetic to the situation publishers now find themselves in,” but writes that antitrust rules can't replace a legislative body's decision to address the economic impact of “new innovation.”"
-              },
-              {
-                "t": "p",
-                "x": "Disclosure: The Verge is part of Penske Media."
+                "x": "Van Orden responded with another AI-generated video and a statement accusing Cooke of running ads with \"false claims\" about his record. Cooke said Van Orden is \"putting words in my mouth\" and tied the deepfakes to data centers he has supported."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Chegg·Penske의\n구글 AI 요약 소송 기각",
-          "body": "판사는 구글 AI 요약에 대한 Chegg·Penske의 반독점 주장을 기각했다.",
-          "mini_headline": "구글 AI 요약 소송 기각",
+          "headline": "밴 오든 캠프에\nAI 딥페이크 중지 서한",
+          "body": "쿡 측 변호인은 밴 오든 캠프가 AI 딥페이크로 쿡의 발언을 지어냈다고 밝혔다.",
+          "mini_headline": "밴 오든, 딥페이크 서한 받아",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+                "cap": "데릭 밴 오든 (Alex Brandon/AP)"
               },
               {
                 "t": "p",
-                "x": "앞서 Reuters가 보도한 대로 연방 판사가 Chegg와 Rolling Stone의 모회사 Penske Media Corporation이 낸 반독점 소송 두 건을 기각했다. 두 회사는 Google이 AI 기반(AI-powered) 검색 기능으로 웹 트래픽을 빼앗아 간다고 주장했다. Amit Mehta 연방지방법원 판사는 수요일 판결에서 Google의 손을 들어줬다. PMC와 Chegg의 주장은 반독점법상 성립하지 않는다고 썼다."
+                "x": "공화당 데릭 밴 오든 하원의원이 수요일 AI 딥페이크 영상을 문제 삼은 중지 요구(cease-and-desist) 서한을 받았다. 보낸 쪽은 위스콘신주 제3선거구 민주당 도전자 레베카 쿡의 변호인단이다."
               },
               {
                 "t": "p",
-                "x": "지난해 낸 소송에서 Chegg와 PMC는 Google이 독점력을 남용했다고 주장했다. 검색 결과에서 사라질 위험을 감수하든지 AI Overviews용 콘텐츠를 무료로 내놓든지 하라고 출판사들을 압박했다는 것이다. 이런 관행 탓에 자사 사이트로 갈 트래픽을 빼앗겨 매출에 타격을 입었다는 게 출판사들의 주장이다."
+                "x": "서한이 겨냥한 건 밴 오든이 8월 4일 X에 올린 딥페이크다. 영상 속 쿡은 \"가능한 한 많은 부패를 이용하겠다\"고 말한다. Elias Law Group의 벤 스태퍼드는 이 콘텐츠가 \"위스콘신 유권자들이 그녀가 하지 않은 말을 했다고 믿도록 속이려는\" 목적으로 만들어졌다고 썼다."
               },
               {
                 "t": "p",
-                "x": "2024년 Google을 상대로 획기적인 반독점 판결을 내렸던 Mehta 판사는 Chegg와 PMC의 주장을 받아들이지 않았다. Mehta는 “원고들은 콘텐츠를 무료로 제공하면 Google이 검색 트래픽을 보내 줄 것이라는 ‘기대’가 있었다고만 주장했다”며 “그러나 기대는 합의가 아니다. 그것은 일반 검색 엔진이 작동하는 방식일 뿐이다”라고 썼다."
+                "x": "위스콘신은 정치 딥페이크를 규제하는 33개 주 가운데 하나다. 딥페이크 자체를 금지하진 않지만 영상이 AI로 생성됐다(AI-generated)는 사실은 밝히게 한다. 서한에는 쿡이 명예훼손 소송을 낼 수 있다는 내용도 담겼다."
               },
               {
                 "t": "p",
-                "x": "Mehta는 법원이 “출판사들이 지금 처한 상황에 공감하지 않는 것은 아니다”라고 덧붙였다. 다만 반독점 규정이 “새로운 혁신”의 경제적 영향에 대응하려는 입법부의 결정을 대신할 수는 없다고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "밝힘: The Verge는 Penske Media 소속이다."
+                "x": "밴 오든은 또 다른 AI-generated 영상과 성명을 내놓으며 맞섰다. 쿡이 자신의 의정 기록을 두고 \"허위 주장\"을 담은 광고를 내보낸다는 비난이었다. 쿡은 밴 오든이 \"내가 하지 않은 말을 내 입에 넣고 있다\"며 이번 딥페이크를 그가 지지해 온 데이터센터 문제와 엮었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Chegg・Penske訴訟\nグーグルAI要約巡り棄却",
-          "body": "判事は、グーグルAI要約を巡るCheggとPenskeの反トラスト法上の主張を退けた。",
-          "mini_headline": "グーグルAI要約訴訟を棄却",
+          "headline": "バン・オーデン陣営に\nAI偽動画で停止要求書",
+          "body": "クック氏の弁護士は、バン・オーデン陣営がAI偽造動画で発言を捏造したと主張する。",
+          "mini_headline": "バン・オーデン氏にディープフェイク停止要求",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+                "cap": "デリック・バン・オーデン(Alex Brandon/AP)"
               },
               {
                 "t": "p",
-                "x": "Reutersが先に報じたところによると、連邦判事は、CheggとRolling Stoneの親会社Penske Media Corporationが起こした反トラスト訴訟2件を棄却した。両社は、GoogleがAIを活用した（AI-powered）検索機能でウェブトラフィックを奪っていると訴えていた。Amit Mehta連邦地裁判事は水曜日の判決でGoogle側に立ち、PMCとCheggの主張は反トラスト法上成り立たないと記した。"
+                "x": "共和党のデリック・バン・オーデン下院議員は水曜日、ウィスコンシン州第3選挙区で議席を争う民主党候補レベッカ・クック氏の弁護士から、AIディープフェイク動画をめぐる停止要求(cease-and-desist)書簡を受け取った。"
               },
               {
                 "t": "p",
-                "x": "昨年起こした訴訟で、CheggとPMCは、Googleが独占力を乱用し、AI Overviews向けにコンテンツを無償で提供するか、検索結果から消えるリスクを負うかを出版社に迫ったと主張した。出版社側は、Googleの手法によって自社サイトへのトラフィックが奪われ、収益が損なわれたと訴えていた。"
+                "x": "書簡は、バン・オーデン氏が8月4日にXに投稿したディープフェイクを挙げている。この動画は、クック氏が「できる限り多くの腐敗を利用する」つもりだと語っているかのように見せるものだ。Elias Law Groupのベン・スタッフォード氏は、このコンテンツの狙いは「ウィスコンシンの有権者をだまし、彼女が言っていないことを言ったと信じ込ませる」ことにあると記した。"
               },
               {
                 "t": "p",
-                "x": "2024年にGoogleに対する画期的な反トラスト判決を下したMehta判事は、CheggとPMCの主張を退けた。「原告らが主張したのは、コンテンツを無償で提供すればGoogleが検索トラフィックを送ってくれるという『期待』を持っていたということだけだ」とMehtaは記した。「しかし期待は合意ではない。それは一般的な検索エンジンの仕組みにすぎない」"
+                "x": "ウィスコンシン州は政治ディープフェイクを規制する33州の一つで、禁止はしていないが、動画がAIで生成された(AI-generated)ものであることの開示を義務づけている。書簡は、クック氏が名誉毀損で訴える可能性があるとしている。"
               },
               {
                 "t": "p",
-                "x": "Mehtaは、裁判所が「出版社が現在置かれている状況に同情していないわけではない」と付け加えた。ただし、反トラスト法のルールは「新たなイノベーション」の経済的影響に対処する立法機関の判断に取って代わることはできないと記した。"
-              },
-              {
-                "t": "p",
-                "x": "開示：The VergeはPenske Mediaの傘下にある。"
+                "x": "バン・オーデン氏は別のAI-generated動画と声明で応じ、クック氏が自身の実績について「虚偽の主張」を含む広告を流していると非難した。クック氏は、バン・オーデン氏が「私の口に言葉を押し込んでいる」と述べ、ディープフェイクを同氏が支持してきたデータセンターと結びつけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Chegg和Penske诉讼\n谷歌AI概览案被驳回",
-          "body": "法官裁定，Chegg和Penske Media针对谷歌AI概览的主张不符合反垄断法。",
-          "mini_headline": "谷歌AI概览诉讼被驳回",
+          "headline": "范奥登阵营收到\nAI深度伪造停止函",
+          "body": "库克的律师称，范奥登议员阵营用AI深度伪造视频捏造她的言论。",
+          "mini_headline": "范奥登收到深度伪造停止函",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+                "cap": "德里克·范奥登（Alex Brandon/AP）"
               },
               {
                 "t": "p",
-                "x": "据Reuters此前报道，一名联邦法官驳回了Chegg和Rolling Stone母公司Penske Media Corporation提起的两起反垄断诉讼。两家公司指控Google利用其AI驱动（AI-powered）的搜索功能抢走网络流量。美国地区法官Amit Mehta在周三的裁决中站在Google一边，写道PMC和Chegg的主张在反垄断法上站不住脚。"
+                "x": "共和党籍众议员德里克·范奥登周三收到威斯康星州第3国会选区民主党挑战者丽贝卡·库克的律师发出的停止侵权函（cease-and-desist），事涉AI深度伪造视频。"
               },
               {
                 "t": "p",
-                "x": "在去年提起的诉讼中，Chegg和PMC指控Google滥用垄断地位，迫使出版商免费为AI Overviews提供内容，否则就要承担从搜索结果中消失的风险。出版商称，Google的做法将流量从其网站引走，损害了它们的收入。"
+                "x": "该函援引了范奥登8月4日在X上发布的一段深度伪造内容，其声称显示库克表示她打算“尽可能多地利用腐败”。Elias Law Group的本·斯塔福德写道，该内容旨在“欺骗威斯康星选民，让他们相信她说了她没说过的话”。"
               },
               {
                 "t": "p",
-                "x": "Mehta法官曾在2024年对Google作出具有里程碑意义的反垄断裁决，他不认同Chegg和PMC的主张。“原告仅主张，他们‘期望’只要免费提供内容，Google就会为其带来搜索流量，”Mehta写道，“但期望并不是协议。这只是通用搜索引擎的运作方式。”"
+                "x": "威斯康星州是33个规范政治深度伪造的州之一；该州并不禁止深度伪造，但要求披露视频由AI生成（AI-generated）。信中称，库克可以提出诽谤索赔。"
               },
               {
                 "t": "p",
-                "x": "Mehta补充说，法院并非“对出版商如今所处的境况毫无同情”，但他写道，反垄断规则无法取代立法机构为应对“新创新”的经济影响而作出的决定。"
-              },
-              {
-                "t": "p",
-                "x": "披露：The Verge隶属于Penske Media。"
+                "x": "范奥登以另一段AI-generated视频和一份声明回应，指责库克投放的广告就其履历提出“虚假说法”。库克说范奥登是在“把话硬塞进我嘴里”，并将这些深度伪造与他所支持的数据中心联系起来。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Juez desestima demandas de Chegg\ny Penske por Google AI Overviews",
-          "body": "Un juez resolvió que las demandas de Chegg y Penske Media contra Google AI Overviews carecen de base antimonopolio.",
-          "mini_headline": "Desestiman demandas por Google AI Overviews",
+          "headline": "Campaña de Van Orden recibe un\ncease-and-desist por AI",
+          "body": "Los abogados de Cooke afirman que la campaña de Van Orden usó deepfakes de AI para atribuirle frases que no dijo.",
+          "mini_headline": "Van Orden recibe carta por deepfakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+                "cap": "Derrick Van Orden (Alex Brandon/AP)"
               },
               {
                 "t": "p",
-                "x": "Un juez federal desestimó dos demandas antimonopolio presentadas por Chegg y por Penske Media Corporation, empresa matriz de Rolling Stone, que acusaban a Google de restarles tráfico web con sus funciones de búsqueda impulsadas por IA (AI-powered), según informó antes Reuters. El juez de distrito de EE. UU. Amit Mehta dio la razón a Google en un fallo del miércoles y escribió que las reclamaciones de PMC y Chegg no se sostienen bajo la ley antimonopolio."
+                "x": "El representante republicano Derrick Van Orden recibió el miércoles una carta de cese y desistimiento (cease-and-desist) de los abogados de Rebecca Cooke, su rival demócrata en el 3.er Distrito Congresional de Wisconsin, por videos deepfake creados con AI."
               },
               {
                 "t": "p",
-                "x": "En las demandas presentadas el año pasado, Chegg y PMC acusaron a Google de abusar de su poder de monopolio al obligar a los editores a ceder gratis contenido para AI Overviews, so pena de desaparecer de los resultados de búsqueda. Los editores alegaron que las prácticas de Google desviaron tráfico de sus sitios y perjudicaron sus ingresos."
+                "x": "La carta cita un deepfake que Van Orden publicó en X el 4 de agosto y que supuestamente muestra a Cooke diciendo que pretende \"aprovechar tanta corrupción como sea posible\". Ben Stafford, de Elias Law Group, escribió que el contenido busca \"engañar a los votantes de Wisconsin para que crean que ella dijo algo que no dijo\"."
               },
               {
                 "t": "p",
-                "x": "El juez Mehta, que dictó en 2024 un fallo antimonopolio histórico contra Google, discrepa de las reclamaciones de Chegg y PMC. “Los demandantes solo han alegado que tienen la ‘expectativa’ de que Google les envíe tráfico de búsqueda si ponen su contenido a disposición de forma gratuita”, escribe Mehta. “Pero una expectativa no es un acuerdo. Es simplemente como funciona un buscador general”."
+                "x": "Wisconsin es uno de los 33 estados que regulan los deepfakes políticos; no los prohíbe, pero exige revelar que un video ha sido generado con AI (AI-generated). La carta señala que Cooke podría presentar una demanda por difamación."
               },
               {
                 "t": "p",
-                "x": "Mehta añade que el tribunal no es “indiferente a la situación en la que se encuentran ahora los editores”, pero escribe que las normas antimonopolio no pueden sustituir la decisión de un órgano legislativo de abordar el impacto económico de la “nueva innovación”."
-              },
-              {
-                "t": "p",
-                "x": "Aviso: The Verge forma parte de Penske Media."
+                "x": "Van Orden respondió con otro video AI-generated y un comunicado en el que acusa a Cooke de difundir anuncios con \"afirmaciones falsas\" sobre su historial. Cooke dijo que Van Orden está \"poniendo palabras en mi boca\" y vinculó los deepfakes con los centros de datos que él ha apoyado."
               }
             ]
           }
@@ -721,137 +923,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Chegg·Penske의\n구글 AI 요약 소송 기각",
-          "body": "판사는 구글 AI 요약에 대한 Chegg·Penske의 반독점 주장을 기각했다.",
-          "mini_headline": "구글 AI 요약 소송 기각",
+          "headline": "밴 오든 캠프에\nAI 딥페이크 중지 서한",
+          "body": "쿡 측 변호인은 밴 오든 캠프가 AI 딥페이크로 쿡의 발언을 지어냈다고 밝혔다.",
+          "mini_headline": "밴 오든, 딥페이크 서한 받아",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+                "cap": "데릭 밴 오든 (Alex Brandon/AP)"
               },
               {
                 "t": "p",
-                "x": "앞서 Reuters가 보도한 대로, 연방 판사가 Chegg와 Rolling Stone의 모회사 Penske Media Corporation이 제기한 반독점 소송 두 건을 기각했다. 두 회사는 Google이 AI 기반(AI-powered) 검색 기능으로 웹 트래픽을 빼앗아 간다고 주장했다. Amit Mehta 연방지방법원 판사는 수요일 판결에서 Google의 손을 들어주며 PMC와 Chegg의 주장이 반독점법상 성립하지 않는다고 썼다."
+                "x": "공화당 소속 데릭 밴 오든 하원의원이 수요일, 위스콘신주 제3선거구 민주당 도전자 레베카 쿡의 변호인단으로부터 AI 딥페이크 영상과 관련한 중지 요구(cease-and-desist) 서한을 받았다."
               },
               {
                 "t": "p",
-                "x": "지난해 낸 소송에서 Chegg와 PMC는 Google이 독점력을 남용해, 검색 결과에서 사라질 위험을 감수하든지 AI Overviews용 콘텐츠를 무료로 내놓든지 하라고 출판사들을 압박했다고 주장했다. 출판사들은 Google의 이런 관행이 자사 사이트로 가는 트래픽을 빼돌려 매출에 타격을 줬다고 주장했다."
+                "x": "서한은 밴 오든이 8월 4일 X에 올린 딥페이크를 문제 삼았다. 이 영상은 쿡이 \"가능한 한 많은 부패를 이용하겠다\"고 말하는 것처럼 묘사했다. Elias Law Group의 벤 스태퍼드는 이 콘텐츠가 \"위스콘신 유권자들이 그녀가 하지 않은 말을 했다고 믿도록 속이려는\" 목적이라고 썼다."
               },
               {
                 "t": "p",
-                "x": "2024년 Google에 대해 획기적인 반독점 판결을 내린 Mehta 판사는 Chegg와 PMC의 주장에 동의하지 않았다. Mehta는 “원고들은 콘텐츠를 무료로 제공하면 Google이 검색 트래픽을 보내 줄 것이라는 ‘기대’가 있었다고만 주장했다”며 “그러나 기대는 합의가 아니다. 그것은 일반 검색 엔진이 작동하는 방식일 뿐이다”라고 썼다."
+                "x": "위스콘신은 정치 딥페이크를 규제하는 33개 주 가운데 하나로, 딥페이크를 금지하지는 않지만 영상이 AI로 생성됐다(AI-generated)는 사실을 밝히도록 요구한다. 서한은 쿡이 명예훼손 소송을 제기할 수 있다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Mehta는 법원이 “출판사들이 지금 처한 상황에 공감하지 않는 것은 아니다”라고 덧붙였다. 다만 반독점 규정이 “새로운 혁신”의 경제적 영향에 대응하려는 입법부의 결정을 대신할 수는 없다고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "밝힘: The Verge는 Penske Media 소속이다."
+                "x": "밴 오든은 또 다른 AI-generated 영상과 성명으로 대응하며, 쿡이 자신의 의정 기록에 대해 \"허위 주장\"을 담은 광고를 내보내고 있다고 비난했다. 쿡은 밴 오든이 \"내가 하지 않은 말을 내 입에 넣고 있다\"고 말하며, 딥페이크를 그가 지지해 온 데이터센터 문제와 연결 지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Chegg・Penske訴訟\nグーグルAI要約巡り棄却",
-          "body": "判事は、グーグルAI要約を巡るCheggとPenskeの反トラスト法上の主張を退けた。",
-          "mini_headline": "グーグルAI要約訴訟を棄却",
+          "headline": "バン・オーデン陣営に\nAI偽動画で停止要求書",
+          "body": "クック氏の弁護士は、バン・オーデン陣営がAI偽造動画で発言を捏造したと主張する。",
+          "mini_headline": "バン・オーデン氏にディープフェイク停止要求",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+                "cap": "デリック・バン・オーデン(Alex Brandon/AP)"
               },
               {
                 "t": "p",
-                "x": "Reutersが先に報じたところによると、連邦判事は、CheggとRolling Stoneの親会社Penske Media Corporationが起こした反トラスト訴訟2件を棄却した。両社は、GoogleがAIを活用した（AI-powered）検索機能でウェブトラフィックを奪っていると訴えていた。Amit Mehta連邦地裁判事は水曜日の判決でGoogle側に立ち、PMCとCheggの主張は反トラスト法上成り立たないと記した。"
+                "x": "共和党のデリック・バン・オーデン下院議員は水曜日、ウィスコンシン州第3選挙区で議席を争う民主党候補レベッカ・クック氏の弁護士から、AIディープフェイク動画をめぐる停止要求(cease-and-desist)書簡を受け取った。"
               },
               {
                 "t": "p",
-                "x": "昨年起こした訴訟で、CheggとPMCは、Googleが独占力を乱用し、AI Overviews向けにコンテンツを無償で提供するか、検索結果から消えるリスクを負うかを出版社に迫ったと主張した。出版社側は、Googleの手法によって自社サイトへのトラフィックが奪われ、収益が損なわれたと訴えていた。"
+                "x": "書簡は、バン・オーデン氏が8月4日にXに投稿したディープフェイクを挙げている。この動画は、クック氏が「できる限り多くの腐敗を利用する」つもりだと語っているかのように見せるものだ。Elias Law Groupのベン・スタッフォード氏は、このコンテンツの狙いは「ウィスコンシンの有権者をだまし、彼女が言っていないことを言ったと信じ込ませる」ことにあると記した。"
               },
               {
                 "t": "p",
-                "x": "2024年にGoogleに対する画期的な反トラスト判決を下したMehta判事は、CheggとPMCの主張を退けた。「原告らが主張したのは、コンテンツを無償で提供すればGoogleが検索トラフィックを送ってくれるという『期待』を持っていたということだけだ」とMehtaは記した。「しかし期待は合意ではない。それは一般的な検索エンジンの仕組みにすぎない」"
+                "x": "ウィスコンシン州は政治ディープフェイクを規制する33州の一つで、禁止はしていないが、動画がAIで生成された(AI-generated)ものであることの開示を義務づけている。書簡は、クック氏が名誉毀損で訴える可能性があるとしている。"
               },
               {
                 "t": "p",
-                "x": "Mehtaは、裁判所が「出版社が現在置かれている状況に同情していないわけではない」と付け加えた。ただし、反トラスト法のルールは「新たなイノベーション」の経済的影響に対処する立法機関の判断に取って代わることはできないと記した。"
-              },
-              {
-                "t": "p",
-                "x": "開示：The VergeはPenske Mediaの傘下にある。"
+                "x": "バン・オーデン氏は別のAI-generated動画と声明で応じ、クック氏が自身の実績について「虚偽の主張」を含む広告を流していると非難した。クック氏は、バン・オーデン氏が「私の口に言葉を押し込んでいる」と述べ、ディープフェイクを同氏が支持してきたデータセンターと結びつけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Chegg和Penske诉讼\n谷歌AI概览案被驳回",
-          "body": "法官裁定，Chegg和Penske Media针对谷歌AI概览的主张不符合反垄断法。",
-          "mini_headline": "谷歌AI概览诉讼被驳回",
+          "headline": "范奥登阵营收到\nAI深度伪造停止函",
+          "body": "库克的律师称，范奥登议员阵营用AI深度伪造视频捏造她的言论。",
+          "mini_headline": "范奥登收到深度伪造停止函",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+                "cap": "德里克·范奥登（Alex Brandon/AP）"
               },
               {
                 "t": "p",
-                "x": "据Reuters此前报道，一名联邦法官驳回了Chegg和Rolling Stone母公司Penske Media Corporation提起的两起反垄断诉讼。两家公司指控Google利用其AI驱动（AI-powered）的搜索功能抢走网络流量。美国地区法官Amit Mehta在周三的裁决中站在Google一边，写道PMC和Chegg的主张在反垄断法上站不住脚。"
+                "x": "共和党籍众议员德里克·范奥登周三收到威斯康星州第3国会选区民主党挑战者丽贝卡·库克的律师发出的停止侵权函（cease-and-desist），事涉AI深度伪造视频。"
               },
               {
                 "t": "p",
-                "x": "在去年提起的诉讼中，Chegg和PMC指控Google滥用垄断地位，迫使出版商免费为AI Overviews提供内容，否则就要承担从搜索结果中消失的风险。出版商称，Google的做法将流量从其网站引走，损害了它们的收入。"
+                "x": "该函援引了范奥登8月4日在X上发布的一段深度伪造内容，其声称显示库克表示她打算“尽可能多地利用腐败”。Elias Law Group的本·斯塔福德写道，该内容旨在“欺骗威斯康星选民，让他们相信她说了她没说过的话”。"
               },
               {
                 "t": "p",
-                "x": "Mehta法官曾在2024年对Google作出具有里程碑意义的反垄断裁决，他不认同Chegg和PMC的主张。“原告仅主张，他们‘期望’只要免费提供内容，Google就会为其带来搜索流量，”Mehta写道，“但期望并不是协议。这只是通用搜索引擎的运作方式。”"
+                "x": "威斯康星州是33个规范政治深度伪造的州之一；该州并不禁止深度伪造，但要求披露视频由AI生成（AI-generated）。信中称，库克可以提出诽谤索赔。"
               },
               {
                 "t": "p",
-                "x": "Mehta补充说，法院并非“对出版商如今所处的境况毫无同情”，但他写道，反垄断规则无法取代立法机构为应对“新创新”的经济影响而作出的决定。"
-              },
-              {
-                "t": "p",
-                "x": "披露：The Verge隶属于Penske Media。"
+                "x": "范奥登以另一段AI-generated视频和一份声明回应，指责库克投放的广告就其履历提出“虚假说法”。库克说范奥登是在“把话硬塞进我嘴里”，并将这些深度伪造与他所支持的数据中心联系起来。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Juez desestima demandas de Chegg\ny Penske por Google AI Overviews",
-          "body": "Un juez resolvió que las demandas de Chegg y Penske Media contra Google AI Overviews carecen de base antimonopolio.",
-          "mini_headline": "Desestiman demandas por Google AI Overviews",
+          "headline": "Campaña de Van Orden recibe un\ncease-and-desist por AI",
+          "body": "Los abogados de Cooke afirman que la campaña de Van Orden usó deepfakes de AI para atribuirle frases que no dijo.",
+          "mini_headline": "Van Orden recibe carta por deepfakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+                "cap": "Derrick Van Orden (Alex Brandon/AP)"
               },
               {
                 "t": "p",
-                "x": "Un juez federal desestimó dos demandas antimonopolio presentadas por Chegg y por Penske Media Corporation, empresa matriz de Rolling Stone, que acusaban a Google de restarles tráfico web con sus funciones de búsqueda impulsadas por IA (AI-powered), según informó antes Reuters. El juez de distrito de EE. UU. Amit Mehta dio la razón a Google en un fallo del miércoles y escribió que las reclamaciones de PMC y Chegg no se sostienen bajo la ley antimonopolio."
+                "x": "El representante republicano Derrick Van Orden recibió el miércoles una carta de cese y desistimiento (cease-and-desist) de los abogados de Rebecca Cooke, su rival demócrata en el 3.er Distrito Congresional de Wisconsin, por videos deepfake creados con AI."
               },
               {
                 "t": "p",
-                "x": "En las demandas presentadas el año pasado, Chegg y PMC acusaron a Google de abusar de su poder de monopolio al obligar a los editores a ceder gratis contenido para AI Overviews, so pena de desaparecer de los resultados de búsqueda. Los editores alegaron que las prácticas de Google desviaron tráfico de sus sitios y perjudicaron sus ingresos."
+                "x": "La carta cita un deepfake que Van Orden publicó en X el 4 de agosto y que supuestamente muestra a Cooke diciendo que pretende \"aprovechar tanta corrupción como sea posible\". Ben Stafford, de Elias Law Group, escribió que el contenido busca \"engañar a los votantes de Wisconsin para que crean que ella dijo algo que no dijo\"."
               },
               {
                 "t": "p",
-                "x": "El juez Mehta, que dictó en 2024 un fallo antimonopolio histórico contra Google, discrepa de las reclamaciones de Chegg y PMC. “Los demandantes solo han alegado que tienen la ‘expectativa’ de que Google les envíe tráfico de búsqueda si ponen su contenido a disposición de forma gratuita”, escribe Mehta. “Pero una expectativa no es un acuerdo. Es simplemente como funciona un buscador general”."
+                "x": "Wisconsin es uno de los 33 estados que regulan los deepfakes políticos; no los prohíbe, pero exige revelar que un video ha sido generado con AI (AI-generated). La carta señala que Cooke podría presentar una demanda por difamación."
               },
               {
                 "t": "p",
-                "x": "Mehta añade que el tribunal no es “indiferente a la situación en la que se encuentran ahora los editores”, pero escribe que las normas antimonopolio no pueden sustituir la decisión de un órgano legislativo de abordar el impacto económico de la “nueva innovación”."
-              },
-              {
-                "t": "p",
-                "x": "Aviso: The Verge forma parte de Penske Media."
+                "x": "Van Orden respondió con otro video AI-generated y un comunicado en el que acusa a Cooke de difundir anuncios con \"afirmaciones falsas\" sobre su historial. Cooke dijo que Van Orden está \"poniendo palabras en mi boca\" y vinculó los deepfakes con los centros de datos que él ha apoyado."
               }
             ]
           }
@@ -859,219 +1049,219 @@
       }
     },
     {
-      "id": "openaicasubpoena",
+      "id": "china-lgfv-nvidia-chips",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "캘리포니아주, 오픈AI\nAI 안전성 조사 착수",
-      "body": "캘리포니아주 법무장관실이 허깅페이스 해킹 건으로 오픈AI에 소환장을 발부했다.",
-      "mini_headline": "캘리포니아, 오픈AI 조사",
+      "headline": "\"中 지방정부 금융사\n엔비디아 칩 구매 지원\"",
+      "body": "블룸버그는 中 지방정부 소유 금융사가 엔비디아 칩 구매에 자금을 댔다고 보도했다.",
+      "mini_headline": "中 금융사 엔비디아 칩 자금 보도",
       "tool": "Politics",
-      "source": "Yonhap News",
-      "url": "https://www.yna.co.kr/view/AKR20261002005300091",
+      "source": "Yonhap",
+      "url": "https://www.yna.co.kr/view/AKR20261002135800009",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-            "cap": "오픈AI [로이터=연합뉴스 자료사진]"
+            "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+            "cap": "엔비디아 로고"
           },
           {
             "t": "p",
-            "x": "미국 캘리포니아주 당국이 오픈AI를 상대로 인공지능(AI) 안전성 관련 조사에 나섰다."
+            "x": "블룸버그통신은 2일 중국 당국에 제출된 문서를 분석해, 중국 지방정부들이 소유한 금융회사가 미국 수출통제 대상인 엔비디아 고성능 AI 칩 구매에 자금을 댔다고 보도했다."
           },
           {
             "t": "p",
-            "x": "캘리포니아주 법무장관실은 오픈AI에 사이버 보안 사고 조사를 위한 소환장을 발부했다고 1일(현지시간) 밝혔다. 이는 오픈AI의 이른바 '불량 에이전트'가 외부 기관인 허깅페이스를 해킹한 사건에 대한 조사의 일환이다."
+            "x": "문서에 따르면 세미-테크 리싱 그룹은 최근 1년간 글로리뷰 테크놀로지가 서버 700대 이상을 사도록 30억위안(약 6천억원) 이상을 빌려줬다. 한 계약서에는 엔비디아 B300 칩을 탑재한 아수스텍 서버 32대에 대한 자금 지원이 명시돼 있었다. 다른 서버 수백 대에 실제 어떤 칩이 탑재됐는지는 문서에 나와 있지 않다."
           },
           {
             "t": "p",
-            "x": "롭 본타 법무장관은 \"오픈AI에 사이버 보안 사고와 위험에 대한 추가 질의를 할 예정\"이라며 \"최첨단 (AI) 모델은 사이버 방어를 위한 정당한 도구이지만 이를 개발하는 기업은 모델이 사이버 공격을 자행하지 않도록 보장할 책임이 있다\"고 지적했다. 이어 \"이를 이행하지 않는 개발사에는 책임을 물어야 하고 우리는 이번 사안이 그러한 경우에 해당하는지 확인하는 데 최선을 다하고 있다\"고 설명했다."
+            "x": "B300은 블랙웰 제품군 AI 칩으로, 미국 정부 허가 없이는 중국에 판매할 수 없다. 서버 대부분은 닝샤 중웨이의 차이나모바일 데이터센터 단지에 설치된 것으로 나타났다."
           },
           {
             "t": "p",
-            "x": "그는 주 차원의 AI 규제를 막으려는 도널드 트럼프 행정부의 시도에 맞서 주민을 보호하고 안전한 AI 기술을 육성하는 주법(州法)을 수호하겠다고도 강조했다."
+            "x": "세미-테크 리싱은 2015년 ‘빅펀드’가 세운 회사로, 현재는 선전·베이징 등 지방정부들이 지분 대부분을 보유하고 있다."
           },
           {
             "t": "p",
-            "x": "캘리포니아주 법무장관실은 최근 다른 주 법무장관과 함께 AI 개발사에 대한 규제 법안 마련을 촉구하는 서한에도 참여했다. 오픈AI는 아이오와주를 비롯한 다른 15개 주 법무장관들로부터도 허깅페이스 해킹 사건에 대한 정보 제공을 요구받고 있다. 또 최근 연방거래위원회(FTC)도 오픈AI와 앤트로픽 등 주요 AI 개발사를 대상으로 AI 안전성 관련 조사에 착수했다."
+            "x": "중국 공업정보화부와 관련 기업들은 논평 요청에 응답하지 않았다. 엔비디아는 “보도를 확인하고 있으며 OEM 고객사와 협력해 조사할 것”이라고, 아수스텍은 수출통제 등 관련 법규를 엄격히 준수한다고 밝혔다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "캘리포니아주, 오픈AI\nAI 안전성 조사 착수",
-          "body": "캘리포니아주 법무장관실이 허깅페이스 해킹 건으로 오픈AI에 소환장을 발부했다.",
-          "mini_headline": "캘리포니아, 오픈AI 조사",
+          "headline": "\"中 지방정부 금융사\n엔비디아 칩 구매 지원\"",
+          "body": "블룸버그는 中 지방정부 소유 금융사가 엔비디아 칩 구매에 자금을 댔다고 보도했다.",
+          "mini_headline": "中 금융사 엔비디아 칩 자금 보도",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-                "cap": "오픈AI [로이터=연합뉴스 자료사진]"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+                "cap": "엔비디아 로고"
               },
               {
                 "t": "p",
-                "x": "미국 캘리포니아주 당국이 오픈AI를 상대로 인공지능(AI) 안전성 관련 조사에 나섰다."
+                "x": "블룸버그통신은 2일 중국 당국에 제출된 문서를 분석해, 중국 지방정부들이 소유한 금융회사가 미국 수출통제 대상인 엔비디아 고성능 AI 칩 구매에 자금을 댔다고 보도했다."
               },
               {
                 "t": "p",
-                "x": "캘리포니아주 법무장관실은 오픈AI에 사이버 보안 사고 조사를 위한 소환장을 발부했다고 1일(현지시간) 밝혔다. 이는 오픈AI의 이른바 '불량 에이전트'가 외부 기관인 허깅페이스를 해킹한 사건에 대한 조사의 일환이다."
+                "x": "문서에 따르면 세미-테크 리싱 그룹은 최근 1년간 글로리뷰 테크놀로지가 서버 700대 이상을 사도록 30억위안(약 6천억원) 이상을 빌려줬다. 한 계약서에는 엔비디아 B300 칩을 탑재한 아수스텍 서버 32대에 대한 자금 지원이 명시돼 있었다. 다른 서버 수백 대에 실제 어떤 칩이 탑재됐는지는 문서에 나와 있지 않다."
               },
               {
                 "t": "p",
-                "x": "롭 본타 법무장관은 \"오픈AI에 사이버 보안 사고와 위험에 대한 추가 질의를 할 예정\"이라며 \"최첨단 (AI) 모델은 사이버 방어를 위한 정당한 도구이지만 이를 개발하는 기업은 모델이 사이버 공격을 자행하지 않도록 보장할 책임이 있다\"고 지적했다. 이어 \"이를 이행하지 않는 개발사에는 책임을 물어야 하고 우리는 이번 사안이 그러한 경우에 해당하는지 확인하는 데 최선을 다하고 있다\"고 설명했다."
+                "x": "B300은 블랙웰 제품군 AI 칩으로, 미국 정부 허가 없이는 중국에 판매할 수 없다. 서버 대부분은 닝샤 중웨이의 차이나모바일 데이터센터 단지에 설치된 것으로 나타났다."
               },
               {
                 "t": "p",
-                "x": "그는 주 차원의 AI 규제를 막으려는 도널드 트럼프 행정부의 시도에 맞서 주민을 보호하고 안전한 AI 기술을 육성하는 주법(州法)을 수호하겠다고도 강조했다."
+                "x": "세미-테크 리싱은 2015년 ‘빅펀드’가 세운 회사로, 현재는 선전·베이징 등 지방정부들이 지분 대부분을 보유하고 있다."
               },
               {
                 "t": "p",
-                "x": "캘리포니아주 법무장관실은 최근 다른 주 법무장관과 함께 AI 개발사에 대한 규제 법안 마련을 촉구하는 서한에도 참여했다. 오픈AI는 아이오와주를 비롯한 다른 15개 주 법무장관들로부터도 허깅페이스 해킹 사건에 대한 정보 제공을 요구받고 있다. 또 최근 연방거래위원회(FTC)도 오픈AI와 앤트로픽 등 주요 AI 개발사를 대상으로 AI 안전성 관련 조사에 착수했다."
+                "x": "중국 공업정보화부와 관련 기업들은 논평 요청에 응답하지 않았다. 엔비디아는 “보도를 확인하고 있으며 OEM 고객사와 협력해 조사할 것”이라고, 아수스텍은 수출통제 등 관련 법규를 엄격히 준수한다고 밝혔다."
               }
             ]
           }
         },
         "en": {
-          "headline": "California opens AI safety\nprobe into OpenAI",
-          "body": "California's attorney general's office subpoenaed OpenAI over the hacking of Hugging Face.",
-          "mini_headline": "California probes OpenAI",
+          "headline": "\"Chinese local-gov't lender\nfunded Nvidia chip buys\"",
+          "body": "Bloomberg reported that a financial firm owned by Chinese local governments funded purchases of Nvidia chips.",
+          "mini_headline": "Report: Chinese lender funded Nvidia chips",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-                "cap": "OpenAI [Reuters=Yonhap News file photo]"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+                "cap": "Nvidia logo"
               },
               {
                 "t": "p",
-                "x": "Authorities in the U.S. state of California have launched an investigation into OpenAI over artificial intelligence (AI) safety."
+                "x": "Bloomberg reported on the 2nd, based on an analysis of documents submitted to Chinese authorities, that a financial company owned by Chinese local governments funded purchases of high-performance Nvidia AI chips subject to U.S. export controls."
               },
               {
                 "t": "p",
-                "x": "The California attorney general's office said on the 1st (local time) that it had issued a subpoena to OpenAI to investigate a cybersecurity incident. It is part of an investigation into an incident in which OpenAI's so-called 'rogue agent' hacked Hugging Face, an outside organization."
+                "x": "According to the documents, Semi-Tech Leasing Group lent more than 3 billion yuan (about 600 billion won) over the past year so that Gloryview Technology could buy more than 700 servers. One contract specified financing for 32 Asustek servers equipped with Nvidia B300 chips. The documents do not show which chips were actually installed in the hundreds of other servers."
               },
               {
                 "t": "p",
-                "x": "Attorney General Rob Bonta said, \"We plan to ask OpenAI further questions about cybersecurity incidents and risks,\" adding, \"Frontier (AI) models are legitimate tools for cyber defense, but the companies that develop them are responsible for ensuring their models do not carry out cyberattacks.\" He went on, \"Developers that fail to do so must be held accountable, and we are doing our utmost to determine whether this case is one of them.\""
+                "x": "The B300 is an AI chip in the Blackwell line and cannot be sold to China without U.S. government approval. Most of the servers were found to be installed at a China Mobile data center complex in Zhongwei, Ningxia."
               },
               {
                 "t": "p",
-                "x": "He also stressed that he would defend state laws that protect residents and foster safe AI technology against the Donald Trump administration's attempts to block state-level AI regulation."
+                "x": "Semi-Tech Leasing was founded in 2015 by the ‘Big Fund,’ and local governments including Shenzhen and Beijing now hold most of its shares."
               },
               {
                 "t": "p",
-                "x": "The California attorney general's office also recently joined other state attorneys general in a letter urging regulatory legislation for AI developers. OpenAI is also being asked by the attorneys general of 15 other states, including Iowa, to provide information about the Hugging Face hacking incident. In addition, the Federal Trade Commission (FTC) recently launched an AI safety investigation into major AI developers, including OpenAI and Anthropic."
+                "x": "China's Ministry of Industry and Information Technology and the companies involved did not respond to requests for comment. Nvidia said it is “looking into the report and will work with OEM customers to investigate,” while Asustek said it strictly complies with relevant laws and regulations, including export controls."
               }
             ]
           }
         },
         "ja": {
-          "headline": "米加州、OpenAIの\nAI安全性調査に着手",
-          "body": "加州司法長官室がHugging Faceハッキングの件でOpenAIに召喚状を出した。",
-          "mini_headline": "加州、OpenAIを調査",
+          "headline": "「中国地方政府系金融会社\nエヌビディアチップ購入支援」",
+          "body": "ブルームバーグは、中国地方政府系の金融会社がエヌビディアチップの購入資金を出したと報じた。",
+          "mini_headline": "中国金融会社のエヌビディアチップ資金報道",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-                "cap": "OpenAI [Reuters=聯合ニュース 資料写真]"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+                "cap": "エヌビディアのロゴ"
               },
               {
                 "t": "p",
-                "x": "米カリフォルニア州当局が、OpenAIを対象に人工知能(AI)の安全性に関する調査に乗り出した。"
+                "x": "ブルームバーグ通信は2日、中国当局に提出された文書を分析し、中国の地方政府が所有する金融会社が、米国の輸出規制対象であるエヌビディアの高性能AIチップの購入に資金を提供したと報じた。"
               },
               {
                 "t": "p",
-                "x": "カリフォルニア州司法長官室は1日(現地時間)、サイバーセキュリティー事故の調査のためOpenAIに召喚状を出したと明らかにした。OpenAIのいわゆる「暴走エージェント」が外部機関のHugging Faceをハッキングした事件に関する調査の一環である。"
+                "x": "文書によると、セミテック・リーシング・グループはこの1年間、グローリービュー・テクノロジーが700台以上のサーバーを購入できるよう30億元(約6000億ウォン)以上を貸し付けた。ある契約書には、エヌビディアのB300チップを搭載したASUSTeK製サーバー32台への資金支援が明記されていた。ほかの数百台のサーバーに実際どのチップが搭載されたかは文書に記されていない。"
               },
               {
                 "t": "p",
-                "x": "ロブ・ボンタ司法長官は「OpenAIにサイバーセキュリティー事故とリスクについて追加の質問を行う予定だ」とし、「最先端の(AI)モデルはサイバー防御のための正当なツールだが、それを開発する企業にはモデルがサイバー攻撃を行わないよう保証する責任がある」と指摘した。さらに「これを履行しない開発企業には責任を問わなければならず、我々は今回の事案がそれに当たるかどうかの確認に全力を尽くしている」と説明した。"
+                "x": "B300はBlackwell製品群のAIチップで、米政府の許可なしには中国に販売できない。サーバーの大半は寧夏・中衛にある中国移動(チャイナモバイル)のデータセンター群に設置されていたことが分かった。"
               },
               {
                 "t": "p",
-                "x": "同氏は、州レベルのAI規制を阻もうとするドナルド・トランプ政権の試みに対抗し、住民を守り安全なAI技術を育成する州法を守り抜く考えも強調した。"
+                "x": "セミテック・リーシングは2015年に「大基金」が設立した会社で、現在は深圳や北京などの地方政府が株式の大半を保有している。"
               },
               {
                 "t": "p",
-                "x": "カリフォルニア州司法長官室は最近、他州の司法長官とともに、AI開発企業への規制法案の策定を求める書簡にも加わった。OpenAIはアイオワ州をはじめとする他の15州の司法長官からも、Hugging Faceハッキング事件に関する情報提供を求められている。また最近、連邦取引委員会(FTC)もOpenAIやAnthropicなど主要AI開発企業を対象に、AIの安全性に関する調査に着手した。"
+                "x": "中国工業情報化省と関係企業はコメントの要請に応じなかった。エヌビディアは「報道を確認しており、OEM顧客と協力して調査する」とし、ASUSTeKは輸出規制など関連法規を厳格に順守していると表明した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加州对OpenAI\n启动AI安全调查",
-          "body": "加州总检察长办公室就Hugging Face遭入侵一事向OpenAI发出传票。",
-          "mini_headline": "加州调查OpenAI",
+          "headline": "“中国地方政府旗下金融公司\n资助购买英伟达芯片”",
+          "body": "彭博社报道称，中国地方政府旗下金融公司为购买英伟达芯片提供了资金。",
+          "mini_headline": "彭博：中国金融公司资助英伟达芯片",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-                "cap": "OpenAI [Reuters=韩联社资料图片]"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+                "cap": "英伟达标志"
               },
               {
                 "t": "p",
-                "x": "美国加利福尼亚州当局已对OpenAI展开人工智能（AI）安全相关调查。"
+                "x": "彭博社2日分析提交给中国当局的文件后报道称，中国地方政府所有的金融公司为购买受美国出口管制的英伟达高性能AI芯片提供了资金。"
               },
               {
                 "t": "p",
-                "x": "加州总检察长办公室1日（当地时间）表示，已向OpenAI发出传票，以调查一起网络安全事件。这是针对OpenAI所谓“失控智能体”入侵外部机构Hugging Face一事所作调查的一部分。"
+                "x": "文件显示，Semi-Tech Leasing集团在过去一年间向Gloryview Technology提供了逾30亿元人民币（约6000亿韩元）贷款，用于购买700多台服务器。其中一份合同明确写有为32台搭载英伟达B300芯片的华硕服务器提供资金。文件并未显示其他数百台服务器实际搭载了哪种芯片。"
               },
               {
                 "t": "p",
-                "x": "总检察长罗布·邦塔表示：“我们将就网络安全事件和风险向OpenAI提出进一步问询。”他指出：“前沿（AI）模型是用于网络防御的正当工具，但开发这些模型的企业有责任确保其模型不会实施网络攻击。”他接着说明：“未履行这一责任的开发商必须被追责，我们正在全力确认此次事件是否属于这种情况。”"
+                "x": "B300属于Blackwell系列AI芯片，未经美国政府许可不得向中国销售。大部分服务器被安装在宁夏中卫的中国移动数据中心园区。"
               },
               {
                 "t": "p",
-                "x": "他还强调，将对抗唐纳德·特朗普政府阻止州级AI监管的企图，捍卫保护居民、培育安全AI技术的州法。"
+                "x": "Semi-Tech Leasing由“大基金”于2015年设立，目前深圳、北京等地方政府持有其大部分股份。"
               },
               {
                 "t": "p",
-                "x": "加州总检察长办公室近期还与其他州总检察长一道，联署了一封敦促制定AI开发商监管法案的信函。OpenAI还被艾奥瓦州等其他15个州的总检察长要求提供有关Hugging Face入侵事件的信息。此外，美国联邦贸易委员会（FTC）近期也对OpenAI和Anthropic等主要AI开发商展开了AI安全相关调查。"
+                "x": "中国工业和信息化部及相关企业未回应置评请求。英伟达表示“正在核实报道，并将与OEM客户合作调查”，华硕则表示严格遵守出口管制等相关法规。"
               }
             ]
           }
         },
         "es": {
-          "headline": "California investiga a OpenAI\npor la seguridad de su IA",
-          "body": "La fiscalía general de California emitió una citación a OpenAI por el hackeo de Hugging Face.",
-          "mini_headline": "California investiga a OpenAI",
+          "headline": "\"Financiera de gobierno local\nchino financió chips de Nvidia\"",
+          "body": "Bloomberg informó que una financiera propiedad de gobiernos locales chinos financió la compra de chips de Nvidia.",
+          "mini_headline": "Financiera china y chips de Nvidia",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-                "cap": "OpenAI [Reuters=Yonhap, foto de archivo]"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+                "cap": "Logotipo de Nvidia"
               },
               {
                 "t": "p",
-                "x": "Las autoridades del estado estadounidense de California han abierto una investigación sobre OpenAI relacionada con la seguridad de la inteligencia artificial (IA)."
+                "x": "Bloomberg informó el día 2, tras analizar documentos presentados a las autoridades chinas, que una compañía financiera propiedad de gobiernos locales chinos financió la compra de chips de AI de alto rendimiento de Nvidia sujetos a los controles de exportación de Estados Unidos."
               },
               {
                 "t": "p",
-                "x": "La oficina del fiscal general de California informó el día 1 (hora local) de que emitió una citación a OpenAI para investigar un incidente de ciberseguridad. Forma parte de la investigación del caso en el que el llamado 'agente rebelde' de OpenAI hackeó a Hugging Face, una organización externa."
+                "x": "Según los documentos, Semi-Tech Leasing Group prestó más de 3.000 millones de yuanes (unos 600.000 millones de wones) en el último año para que Gloryview Technology comprara más de 700 servidores. Un contrato especificaba la financiación de 32 servidores de Asustek equipados con chips B300 de Nvidia. Los documentos no indican qué chips se instalaron realmente en los cientos de servidores restantes."
               },
               {
                 "t": "p",
-                "x": "El fiscal general Rob Bonta señaló: \"Tenemos previsto hacer más preguntas a OpenAI sobre incidentes y riesgos de ciberseguridad\", y añadió: \"Los modelos (de IA) de vanguardia son herramientas legítimas para la ciberdefensa, pero las empresas que los desarrollan tienen la responsabilidad de garantizar que sus modelos no lleven a cabo ciberataques\". Luego explicó: \"A los desarrolladores que no lo cumplan hay que pedirles cuentas, y estamos haciendo todo lo posible por determinar si este caso es uno de ellos\"."
+                "x": "El B300 es un chip de AI de la familia Blackwell y no puede venderse a China sin permiso del gobierno de Estados Unidos. La mayoría de los servidores estaban instalados en un complejo de centros de datos de China Mobile en Zhongwei, Ningxia."
               },
               {
                 "t": "p",
-                "x": "También subrayó que defenderá las leyes estatales que protegen a los residentes y fomentan una tecnología de IA segura frente a los intentos del gobierno de Donald Trump de bloquear la regulación de la IA a nivel estatal."
+                "x": "Semi-Tech Leasing fue fundada en 2015 por el ‘Gran Fondo’, y hoy la mayor parte de sus acciones está en manos de gobiernos locales como los de Shenzhen y Pekín."
               },
               {
                 "t": "p",
-                "x": "La oficina del fiscal general de California también se sumó recientemente, junto con fiscales generales de otros estados, a una carta que pide elaborar leyes para regular a los desarrolladores de IA. Los fiscales generales de otros 15 estados, entre ellos Iowa, también han pedido a OpenAI información sobre el hackeo de Hugging Face. Además, la Comisión Federal de Comercio (FTC) abrió recientemente una investigación sobre la seguridad de la IA dirigida a los principales desarrolladores, como OpenAI y Anthropic."
+                "x": "El Ministerio de Industria y Tecnología de la Información de China y las empresas implicadas no respondieron a las solicitudes de comentarios. Nvidia dijo que está “revisando el informe y colaborará con sus clientes OEM para investigar”, mientras que Asustek afirmó que cumple estrictamente las leyes aplicables, incluidos los controles de exportación."
               }
             ]
           }
@@ -1079,141 +1269,141 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "California opens AI safety\nprobe into OpenAI",
-          "body": "California's attorney general's office subpoenaed OpenAI over the hacking of Hugging Face.",
-          "mini_headline": "California probes OpenAI",
+          "headline": "\"Chinese local-gov't lender\nfunded Nvidia chip buys\"",
+          "body": "Bloomberg reported that a financial firm owned by Chinese local governments funded purchases of Nvidia chips.",
+          "mini_headline": "Report: Chinese lender funded Nvidia chips",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-                "cap": "OpenAI [Reuters=Yonhap News file photo]"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+                "cap": "Nvidia logo"
               },
               {
                 "t": "p",
-                "x": "Authorities in the U.S. state of California have launched an investigation into OpenAI over artificial intelligence (AI) safety."
+                "x": "Bloomberg reported on the 2nd, based on an analysis of documents submitted to Chinese authorities, that a financial company owned by Chinese local governments funded purchases of high-performance Nvidia AI chips subject to U.S. export controls."
               },
               {
                 "t": "p",
-                "x": "The California attorney general's office said on the 1st (local time) that it had issued a subpoena to OpenAI to investigate a cybersecurity incident. It is part of an investigation into an incident in which OpenAI's so-called 'rogue agent' hacked Hugging Face, an outside organization."
+                "x": "According to the documents, Semi-Tech Leasing Group lent more than 3 billion yuan (about 600 billion won) over the past year so that Gloryview Technology could buy more than 700 servers. One contract specified financing for 32 Asustek servers equipped with Nvidia B300 chips. The documents do not show which chips were actually installed in the hundreds of other servers."
               },
               {
                 "t": "p",
-                "x": "Attorney General Rob Bonta said, \"We plan to ask OpenAI further questions about cybersecurity incidents and risks,\" adding, \"Frontier (AI) models are legitimate tools for cyber defense, but the companies that develop them are responsible for ensuring their models do not carry out cyberattacks.\" He went on, \"Developers that fail to do so must be held accountable, and we are doing our utmost to determine whether this case is one of them.\""
+                "x": "The B300 is an AI chip in the Blackwell line and cannot be sold to China without U.S. government approval. Most of the servers were found to be installed at a China Mobile data center complex in Zhongwei, Ningxia."
               },
               {
                 "t": "p",
-                "x": "He also stressed that he would defend state laws that protect residents and foster safe AI technology against the Donald Trump administration's attempts to block state-level AI regulation."
+                "x": "Semi-Tech Leasing was founded in 2015 by the ‘Big Fund,’ and local governments including Shenzhen and Beijing now hold most of its shares."
               },
               {
                 "t": "p",
-                "x": "The California attorney general's office also recently joined other state attorneys general in a letter urging regulatory legislation for AI developers. OpenAI is also being asked by the attorneys general of 15 other states, including Iowa, to provide information about the Hugging Face hacking incident. In addition, the Federal Trade Commission (FTC) recently launched an AI safety investigation into major AI developers, including OpenAI and Anthropic."
+                "x": "China's Ministry of Industry and Information Technology and the companies involved did not respond to requests for comment. Nvidia said it is “looking into the report and will work with OEM customers to investigate,” while Asustek said it strictly complies with relevant laws and regulations, including export controls."
               }
             ]
           }
         },
         "ja": {
-          "headline": "米加州、OpenAIの\nAI安全性調査に着手",
-          "body": "加州司法長官室がHugging Faceハッキングの件でOpenAIに召喚状を出した。",
-          "mini_headline": "加州、OpenAIを調査",
+          "headline": "「中国地方政府系金融会社\nエヌビディアチップ購入支援」",
+          "body": "ブルームバーグは、中国地方政府系の金融会社がエヌビディアチップの購入資金を出したと報じた。",
+          "mini_headline": "中国金融会社のエヌビディアチップ資金報道",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-                "cap": "OpenAI [Reuters=聯合ニュース 資料写真]"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+                "cap": "エヌビディアのロゴ"
               },
               {
                 "t": "p",
-                "x": "米カリフォルニア州当局が、OpenAIを対象に人工知能(AI)の安全性に関する調査に乗り出した。"
+                "x": "ブルームバーグ通信は2日、中国当局に提出された文書を分析し、中国の地方政府が所有する金融会社が、米国の輸出規制対象であるエヌビディアの高性能AIチップの購入に資金を提供したと報じた。"
               },
               {
                 "t": "p",
-                "x": "カリフォルニア州司法長官室は1日(現地時間)、サイバーセキュリティー事故の調査のためOpenAIに召喚状を出したと明らかにした。OpenAIのいわゆる「暴走エージェント」が外部機関のHugging Faceをハッキングした事件に関する調査の一環である。"
+                "x": "文書によると、セミテック・リーシング・グループはこの1年間、グローリービュー・テクノロジーが700台以上のサーバーを購入できるよう30億元(約6000億ウォン)以上を貸し付けた。ある契約書には、エヌビディアのB300チップを搭載したASUSTeK製サーバー32台への資金支援が明記されていた。ほかの数百台のサーバーに実際どのチップが搭載されたかは文書に記されていない。"
               },
               {
                 "t": "p",
-                "x": "ロブ・ボンタ司法長官は「OpenAIにサイバーセキュリティー事故とリスクについて追加の質問を行う予定だ」とし、「最先端の(AI)モデルはサイバー防御のための正当なツールだが、それを開発する企業にはモデルがサイバー攻撃を行わないよう保証する責任がある」と指摘した。さらに「これを履行しない開発企業には責任を問わなければならず、我々は今回の事案がそれに当たるかどうかの確認に全力を尽くしている」と説明した。"
+                "x": "B300はBlackwell製品群のAIチップで、米政府の許可なしには中国に販売できない。サーバーの大半は寧夏・中衛にある中国移動(チャイナモバイル)のデータセンター群に設置されていたことが分かった。"
               },
               {
                 "t": "p",
-                "x": "同氏は、州レベルのAI規制を阻もうとするドナルド・トランプ政権の試みに対抗し、住民を守り安全なAI技術を育成する州法を守り抜く考えも強調した。"
+                "x": "セミテック・リーシングは2015年に「大基金」が設立した会社で、現在は深圳や北京などの地方政府が株式の大半を保有している。"
               },
               {
                 "t": "p",
-                "x": "カリフォルニア州司法長官室は最近、他州の司法長官とともに、AI開発企業への規制法案の策定を求める書簡にも加わった。OpenAIはアイオワ州をはじめとする他の15州の司法長官からも、Hugging Faceハッキング事件に関する情報提供を求められている。また最近、連邦取引委員会(FTC)もOpenAIやAnthropicなど主要AI開発企業を対象に、AIの安全性に関する調査に着手した。"
+                "x": "中国工業情報化省と関係企業はコメントの要請に応じなかった。エヌビディアは「報道を確認しており、OEM顧客と協力して調査する」とし、ASUSTeKは輸出規制など関連法規を厳格に順守していると表明した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加州对OpenAI\n启动AI安全调查",
-          "body": "加州总检察长办公室就Hugging Face遭入侵一事向OpenAI发出传票。",
-          "mini_headline": "加州调查OpenAI",
+          "headline": "“中国地方政府旗下金融公司\n资助购买英伟达芯片”",
+          "body": "彭博社报道称，中国地方政府旗下金融公司为购买英伟达芯片提供了资金。",
+          "mini_headline": "彭博：中国金融公司资助英伟达芯片",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-                "cap": "OpenAI [Reuters=韩联社资料图片]"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+                "cap": "英伟达标志"
               },
               {
                 "t": "p",
-                "x": "美国加利福尼亚州当局已对OpenAI展开人工智能（AI）安全相关调查。"
+                "x": "彭博社2日分析提交给中国当局的文件后报道称，中国地方政府所有的金融公司为购买受美国出口管制的英伟达高性能AI芯片提供了资金。"
               },
               {
                 "t": "p",
-                "x": "加州总检察长办公室1日（当地时间）表示，已向OpenAI发出传票，以调查一起网络安全事件。这是针对OpenAI所谓“失控智能体”入侵外部机构Hugging Face一事所作调查的一部分。"
+                "x": "文件显示，Semi-Tech Leasing集团在过去一年间向Gloryview Technology提供了逾30亿元人民币（约6000亿韩元）贷款，用于购买700多台服务器。其中一份合同明确写有为32台搭载英伟达B300芯片的华硕服务器提供资金。文件并未显示其他数百台服务器实际搭载了哪种芯片。"
               },
               {
                 "t": "p",
-                "x": "总检察长罗布·邦塔表示：“我们将就网络安全事件和风险向OpenAI提出进一步问询。”他指出：“前沿（AI）模型是用于网络防御的正当工具，但开发这些模型的企业有责任确保其模型不会实施网络攻击。”他接着说明：“未履行这一责任的开发商必须被追责，我们正在全力确认此次事件是否属于这种情况。”"
+                "x": "B300属于Blackwell系列AI芯片，未经美国政府许可不得向中国销售。大部分服务器被安装在宁夏中卫的中国移动数据中心园区。"
               },
               {
                 "t": "p",
-                "x": "他还强调，将对抗唐纳德·特朗普政府阻止州级AI监管的企图，捍卫保护居民、培育安全AI技术的州法。"
+                "x": "Semi-Tech Leasing由“大基金”于2015年设立，目前深圳、北京等地方政府持有其大部分股份。"
               },
               {
                 "t": "p",
-                "x": "加州总检察长办公室近期还与其他州总检察长一道，联署了一封敦促制定AI开发商监管法案的信函。OpenAI还被艾奥瓦州等其他15个州的总检察长要求提供有关Hugging Face入侵事件的信息。此外，美国联邦贸易委员会（FTC）近期也对OpenAI和Anthropic等主要AI开发商展开了AI安全相关调查。"
+                "x": "中国工业和信息化部及相关企业未回应置评请求。英伟达表示“正在核实报道，并将与OEM客户合作调查”，华硕则表示严格遵守出口管制等相关法规。"
               }
             ]
           }
         },
         "es": {
-          "headline": "California investiga a OpenAI\npor la seguridad de su IA",
-          "body": "La fiscalía general de California emitió una citación a OpenAI por el hackeo de Hugging Face.",
-          "mini_headline": "California investiga a OpenAI",
+          "headline": "\"Financiera de gobierno local\nchino financió chips de Nvidia\"",
+          "body": "Bloomberg informó que una financiera propiedad de gobiernos locales chinos financió la compra de chips de Nvidia.",
+          "mini_headline": "Financiera china y chips de Nvidia",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img2.yna.co.kr/photo/reuters/2026/10/02/PRU20261002052401009_P4.jpg",
-                "cap": "OpenAI [Reuters=Yonhap, foto de archivo]"
+                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+                "cap": "Logotipo de Nvidia"
               },
               {
                 "t": "p",
-                "x": "Las autoridades del estado estadounidense de California han abierto una investigación sobre OpenAI relacionada con la seguridad de la inteligencia artificial (IA)."
+                "x": "Bloomberg informó el día 2, tras analizar documentos presentados a las autoridades chinas, que una compañía financiera propiedad de gobiernos locales chinos financió la compra de chips de AI de alto rendimiento de Nvidia sujetos a los controles de exportación de Estados Unidos."
               },
               {
                 "t": "p",
-                "x": "La oficina del fiscal general de California informó el día 1 (hora local) de que emitió una citación a OpenAI para investigar un incidente de ciberseguridad. Forma parte de la investigación del caso en el que el llamado 'agente rebelde' de OpenAI hackeó a Hugging Face, una organización externa."
+                "x": "Según los documentos, Semi-Tech Leasing Group prestó más de 3.000 millones de yuanes (unos 600.000 millones de wones) en el último año para que Gloryview Technology comprara más de 700 servidores. Un contrato especificaba la financiación de 32 servidores de Asustek equipados con chips B300 de Nvidia. Los documentos no indican qué chips se instalaron realmente en los cientos de servidores restantes."
               },
               {
                 "t": "p",
-                "x": "El fiscal general Rob Bonta señaló: \"Tenemos previsto hacer más preguntas a OpenAI sobre incidentes y riesgos de ciberseguridad\", y añadió: \"Los modelos (de IA) de vanguardia son herramientas legítimas para la ciberdefensa, pero las empresas que los desarrollan tienen la responsabilidad de garantizar que sus modelos no lleven a cabo ciberataques\". Luego explicó: \"A los desarrolladores que no lo cumplan hay que pedirles cuentas, y estamos haciendo todo lo posible por determinar si este caso es uno de ellos\"."
+                "x": "El B300 es un chip de AI de la familia Blackwell y no puede venderse a China sin permiso del gobierno de Estados Unidos. La mayoría de los servidores estaban instalados en un complejo de centros de datos de China Mobile en Zhongwei, Ningxia."
               },
               {
                 "t": "p",
-                "x": "También subrayó que defenderá las leyes estatales que protegen a los residentes y fomentan una tecnología de IA segura frente a los intentos del gobierno de Donald Trump de bloquear la regulación de la IA a nivel estatal."
+                "x": "Semi-Tech Leasing fue fundada en 2015 por el ‘Gran Fondo’, y hoy la mayor parte de sus acciones está en manos de gobiernos locales como los de Shenzhen y Pekín."
               },
               {
                 "t": "p",
-                "x": "La oficina del fiscal general de California también se sumó recientemente, junto con fiscales generales de otros estados, a una carta que pide elaborar leyes para regular a los desarrolladores de IA. Los fiscales generales de otros 15 estados, entre ellos Iowa, también han pedido a OpenAI información sobre el hackeo de Hugging Face. Además, la Comisión Federal de Comercio (FTC) abrió recientemente una investigación sobre la seguridad de la IA dirigida a los principales desarrolladores, como OpenAI y Anthropic."
+                "x": "El Ministerio de Industria y Tecnología de la Información de China y las empresas implicadas no respondieron a las solicitudes de comentarios. Nvidia dijo que está “revisando el informe y colaborará con sus clientes OEM para investigar”, mientras que Asustek afirmó que cumple estrictamente las leyes aplicables, incluidos los controles de exportación."
               }
             ]
           }
@@ -1221,15 +1411,15 @@
       }
     },
     {
-      "id": "taiwandeepfake",
-      "source_lang": "en",
+      "id": "msit-sovereign-ai-merge",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "대만 선거에 필요한\n제대로 된 딥페이크법",
-      "body": "Lin은 대만 선거 딥페이크법에 삭제 요청이 한 건도 없었다며 개정을 촉구한다.",
-      "mini_headline": "대만 딥페이크법의 허점",
+      "headline": "과기정통부, 독자 AI\n통합 8천억 사업 편성",
+      "body": "예산안 자료상 과기정통부가 독자 AI 사업 등을 통합해 8천억원 사업을 편성했다.",
+      "mini_headline": "과기정통부, 8천억 AI 데이터 사업",
       "tool": "Politics",
-      "source": "Tech Policy Press",
-      "url": "https://www.techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works",
+      "source": "Yonhap",
+      "url": "https://www.yna.co.kr/view/AKR20261002109800017",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -1237,305 +1427,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-            "cap": "7월 24일 공개된 Wei Chun-yu의 풍자 영상 장면. 내레이션은 Lai Ching-te 총통의 목소리를 흉내 냈다."
+            "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+            "cap": "배경훈 부총리 겸 과학기술정보통신부 장관이 7월 29일 코엑스 ‘2026 대한민국 AI혁신인재 커넥트’ 전시부스를 둘러보고 있다."
           },
           {
             "t": "p",
-            "x": "Eddy Yen-Ting Lin은 이 기고문에서 대만이 딥페이크를 규제해 온 경험이 미국 등 각국 입법자에게 교훈이 된다고 주장한다. 대만은 2023년 5월 선거법을 고쳤다. 개정법 Article 51-3에 따라 조작된 음성이나 영상의 표적이 된 후보는 경찰에 감식을 요청할 수 있다. 딥페이크로 확인되면 이틀 안에 삭제하라고 플랫폼에 요구할 수도 있다."
+            "x": "과학기술정보통신부가 독자 AI 파운데이션 모델 프로젝트와 차세대 AI 관련 사업 등을 통합·개편해 내년 8천억원 규모의 데이터 경쟁력 강화 지원사업을 추진 중이다."
           },
           {
             "t": "p",
-            "x": "하지만 중앙선거위원회는 2026년 5월 기준 접수된 요청이 한 건도 없다고 확인했다. Lin은 KMT 계열(KMT-affiliated) 크리에이터 Wei Chun-yu가 7월 공개한 영상을 예로 든다. 경찰 분석에서 이 영상의 내레이션은 AI 생성(AI-generated) 음성의 특징을 보였고 Lai Ching-te 총통을 흉내 냈다. 그런데도 법의 적용 범위에서는 완전히 벗어나 있었다."
+            "x": "김선민 조국혁신당 의원실이 공개한 2027년도 예산안 사업설명자료에 따르면 정부는 ‘프론티어급 AI 개발을 위한 데이터 경쟁력 강화 지원’ 사업에 8천억원을 편성했다. 프론티어급 AI 데이터 지원에 7천500억원, 사이버보안 AI 학습 기반 구축에 500억원이다."
           },
           {
             "t": "p",
-            "x": "그는 세 가지 결함을 지적한다. 이 법은 후보만, 그것도 공식 선거 기간에만 보호한다. 객관적 기준이 없어 판단을 법원이 아닌 경찰에 맡긴다. 해외 플랫폼에 삭제 요청을 송달하는 일도 후보가 직접 해야 한다."
+            "x": "지원 방식은 출연에서 산업은행 출자로 바뀐다. 정부가 산업은행에 7천500억원을 출자하고 산업은행이 국내 AI 기업에 투자하는 구조다. 보안 AI 예산 500억원은 한국인터넷진흥원(KISA)에 출연된다."
           },
           {
             "t": "p",
-            "x": "Lin은 삭제 절차에 사법 감독을 두고 연중 적용해야 한다고 주장한다. EU의 Digital Services Act처럼 해외 플랫폼이 현지 법률 대리인을 지정하도록 의무화해야 한다는 주장도 편다."
+            "x": "김 의원은 “언론에는 따로 추진한다고 하면서 국회에는 합치는 계획을 제출했다”며 실제 추진계획을 설명하라고 요구했고, “사용처와 조건이 불분명한 7천500억원짜리 백지수표를 그냥 써줄 수는 없다”고 주장했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Taiwan's election needs a\ndeepfake law that works",
-          "body": "Eddy Yen-Ting Lin argues Taiwan's election deepfake law has drawn zero takedown requests and needs reform.",
-          "mini_headline": "Taiwan's deepfake law gap",
+        "ko": {
+          "headline": "과기정통부, 독자 AI\n통합 8천억 사업 편성",
+          "body": "예산안 자료상 과기정통부가 독자 AI 사업 등을 통합해 8천억원 사업을 편성했다.",
+          "mini_headline": "과기정통부, 8천억 AI 데이터 사업",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-                "cap": "A screenshot from a satirical video by Wei Chun-yu, released July 24, whose narration mimicked President Lai Ching-te's voice."
+                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+                "cap": "배경훈 부총리 겸 과학기술정보통신부 장관이 7월 29일 코엑스 ‘2026 대한민국 AI혁신인재 커넥트’ 전시부스를 둘러보고 있다."
               },
               {
                 "t": "p",
-                "x": "In this opinion piece, Eddy Yen-Ting Lin argues Taiwan's experience regulating deepfakes carries lessons for lawmakers in the US and beyond. In May 2023, Taiwan amended its election law: under Article 51-3, candidates targeted by manipulated audio or video can request a police forensic exam and, if it is verified as a deepfake, demand platforms remove it within two days."
+                "x": "과학기술정보통신부가 독자 AI 파운데이션 모델 프로젝트와 차세대 AI 관련 사업 등을 통합·개편해 내년 8천억원 규모의 데이터 경쟁력 강화 지원사업을 추진 중이다."
               },
               {
                 "t": "p",
-                "x": "Yet the Central Election Commission confirmed it had received zero requests as of May 2026. Lin points to a July video by KMT-affiliated creator Wei Chun-yu whose narration, which police analysis found bore the hallmarks of AI-generated audio, mimicked President Lai Ching-te — it fell outside the law entirely."
+                "x": "김선민 조국혁신당 의원실이 공개한 2027년도 예산안 사업설명자료에 따르면 정부는 ‘프론티어급 AI 개발을 위한 데이터 경쟁력 강화 지원’ 사업에 8천억원을 편성했다. 프론티어급 AI 데이터 지원에 7천500억원, 사이버보안 AI 학습 기반 구축에 500억원이다."
               },
               {
                 "t": "p",
-                "x": "He identifies three flaws: the law protects only candidates and only during the official election period; it lacks an objective standard and leaves the call to police rather than courts; and candidates must serve takedown requests on offshore platforms themselves."
+                "x": "지원 방식은 출연에서 산업은행 출자로 바뀐다. 정부가 산업은행에 7천500억원을 출자하고 산업은행이 국내 AI 기업에 투자하는 구조다. 보안 AI 예산 500억원은 한국인터넷진흥원(KISA)에 출연된다."
               },
               {
                 "t": "p",
-                "x": "Lin argues removal mechanisms need judicial oversight, year-round coverage, and a requirement that foreign platforms designate a local legal representative, as the EU's Digital Services Act does."
+                "x": "김 의원은 “언론에는 따로 추진한다고 하면서 국회에는 합치는 계획을 제출했다”며 실제 추진계획을 설명하라고 요구했고, “사용처와 조건이 불분명한 7천500억원짜리 백지수표를 그냥 써줄 수는 없다”고 주장했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "대만 선거에 필요한\n제대로 된 딥페이크법",
-          "body": "Lin은 대만 선거 딥페이크법에 삭제 요청이 한 건도 없었다며 개정을 촉구한다.",
-          "mini_headline": "대만 딥페이크법의 허점",
+        "en": {
+          "headline": "MSIT merges sovereign AI into\n800 billion won program",
+          "body": "Budget documents show MSIT merged its sovereign AI project and others into an 800 billion won program.",
+          "mini_headline": "MSIT's 800 billion won AI data program",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-                "cap": "7월 24일 공개된 Wei Chun-yu의 풍자 영상 장면. 내레이션은 Lai Ching-te 총통의 목소리를 흉내 냈다."
+                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+                "cap": "Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon tours an exhibition booth at ‘2026 Korea AI Innovation Talent Connect’ at COEX on July 29."
               },
               {
                 "t": "p",
-                "x": "Eddy Yen-Ting Lin은 이 기고문에서 대만이 딥페이크를 규제해 온 경험이 미국 등 각국 입법자에게 교훈이 된다고 주장한다. 대만은 2023년 5월 선거법을 고쳤다. 개정법 Article 51-3에 따라 조작된 음성이나 영상의 표적이 된 후보는 경찰에 감식을 요청할 수 있다. 딥페이크로 확인되면 이틀 안에 삭제하라고 플랫폼에 요구할 수도 있다."
+                "x": "The Ministry of Science and ICT is merging and reorganizing the sovereign AI foundation model project, next-generation AI programs and other projects into a data competitiveness support program worth 800 billion won next year."
               },
               {
                 "t": "p",
-                "x": "하지만 중앙선거위원회는 2026년 5월 기준 접수된 요청이 한 건도 없다고 확인했다. Lin은 KMT 계열(KMT-affiliated) 크리에이터 Wei Chun-yu가 7월 공개한 영상을 예로 든다. 경찰 분석에서 이 영상의 내레이션은 AI 생성(AI-generated) 음성의 특징을 보였고 Lai Ching-te 총통을 흉내 냈다. 그런데도 법의 적용 범위에서는 완전히 벗어나 있었다."
+                "x": "According to 2027 budget proposal project descriptions released by the office of Rep. Kim Sun-min of the Rebuilding Korea Party, the government allocated 800 billion won to the ‘Support for Strengthening Data Competitiveness for Frontier-Level AI Development’ program: 7천500억원 for frontier-level AI data support and 50 billion won for building a cybersecurity AI training base."
               },
               {
                 "t": "p",
-                "x": "그는 세 가지 결함을 지적한다. 이 법은 후보만, 그것도 공식 선거 기간에만 보호한다. 객관적 기준이 없어 판단을 법원이 아닌 경찰에 맡긴다. 해외 플랫폼에 삭제 요청을 송달하는 일도 후보가 직접 해야 한다."
+                "x": "The support method changes from grants to capital investment through the Korea Development Bank. The government will invest 7천500억원 in the Korea Development Bank, which will then invest in domestic AI companies. The 50 billion won security AI budget will be granted to the Korea Internet & Security Agency (KISA)."
               },
               {
                 "t": "p",
-                "x": "Lin은 삭제 절차에 사법 감독을 두고 연중 적용해야 한다고 주장한다. EU의 Digital Services Act처럼 해외 플랫폼이 현지 법률 대리인을 지정하도록 의무화해야 한다는 주장도 편다."
+                "x": "Kim demanded an explanation of the actual implementation plan, saying, “They told the press the projects would proceed separately, but submitted a plan to the National Assembly that combines them,” and argued, “We cannot simply write a 7천500억원 blank check with unclear uses and conditions.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "台湾の選挙に必要な\n機能するディープフェイク法",
-          "body": "Eddy Yen-Ting Linは、削除要請ゼロの台湾選挙ディープフェイク法改正を訴える。",
-          "mini_headline": "台湾ディープフェイク法の穴",
+          "headline": "科学技術情報通信部、独自AI\n統合で8000億ウォン事業",
+          "body": "予算案資料では科学技術情報通信部が独自AI事業などを統合し8000億ウォンの事業を組んだ。",
+          "mini_headline": "科学技術情報通信部、8000億ウォンのAIデータ事業",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-                "cap": "7月24日に公開されたWei Chun-yuによる風刺動画の一場面。ナレーションはLai Ching-te総統の声をまねていた。"
+                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+                "cap": "ペ・ギョンフン副首相兼科学技術情報通信部長官が7月29日、COEXで開かれた「2026 大韓民国AI革新人材コネクト」の展示ブースを見て回っている。"
               },
               {
                 "t": "p",
-                "x": "この論考でEddy Yen-Ting Linは、ディープフェイク規制をめぐる台湾の経験は米国をはじめ各国の立法者にとって教訓になると論じる。台湾は2023年5月に選挙法を改正した。第51-3条に基づき、操作された音声や動画の標的となった候補者は警察に鑑定を求めることができ、ディープフェイクと確認されれば、プラットフォームに2日以内の削除を要求できる。"
+                "x": "科学技術情報通信部が、独自AIファウンデーションモデルプロジェクトや次世代AI関連事業などを統合・再編し、来年8000億ウォン規模のデータ競争力強化支援事業を推進している。"
               },
               {
                 "t": "p",
-                "x": "しかし中央選挙委員会は、2026年5月時点で受け付けた要請はゼロだったと認めた。Linは、KMT系（KMT-affiliated）のクリエイターWei Chun-yuが7月に公開した動画を例に挙げる。警察の分析でAI生成（AI-generated）音声の特徴があるとされたナレーションはLai Ching-te総統をまねていたが、この法律の対象からは完全に外れていた。"
+                "x": "祖国革新党のキム・ソンミン議員室が公開した2027年度予算案の事業説明資料によると、政府は「フロンティア級AI開発のためのデータ競争力強化支援」事業に8000億ウォンを計上した。内訳はフロンティア級AIデータ支援に7천500억원、サイバーセキュリティAI学習基盤の構築に500億ウォンだ。"
               },
               {
                 "t": "p",
-                "x": "Linは3つの欠陥を挙げる。この法律は候補者のみを、しかも正式な選挙期間中に限って保護する。客観的な基準を欠き、判断を裁判所ではなく警察に委ねている。そして候補者自身が海外プラットフォームに削除要請を送達しなければならない。"
+                "x": "支援方式は出捐から産業銀行への出資に変わる。政府が産業銀行に7천500억원を出資し、産業銀行が国内AI企業に投資する仕組みだ。セキュリティAI予算500億ウォンは韓国インターネット振興院(KISA)に出捐される。"
               },
               {
                 "t": "p",
-                "x": "Linは、削除の仕組みには司法による監督と通年の適用が必要であり、EUのDigital Services Actのように、外国プラットフォームに現地の法定代理人の指定を義務づけるべきだと主張する。"
+                "x": "キム議員は「報道機関には別々に進めると言いながら、国会には統合する計画を提出した」として実際の推進計画の説明を求め、「使途や条件が不明確な7천500억원の白紙小切手をそのまま切るわけにはいかない」と主張した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "台湾选举需要\n管用的深度伪造法",
-          "body": "Eddy Yen-Ting Lin认为，台湾选举深伪法至今零删除请求，亟需改革。",
-          "mini_headline": "台湾深伪法的漏洞",
+          "headline": "韩国科技部整合自主AI\n编列8000亿韩元项目",
+          "body": "预算案资料显示，韩国科技部将自主AI等项目整合为8000亿韩元规模的项目。",
+          "mini_headline": "韩国科技部8000亿韩元AI数据项目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-                "cap": "Wei Chun-yu于7月24日发布的讽刺视频截图，其旁白模仿了Lai Ching-te总统的声音。"
+                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+                "cap": "韩国副总理兼科学技术信息通信部长官裴庆勋7月29日在COEX参观“2026大韩民国AI创新人才对接会”展位。"
               },
               {
                 "t": "p",
-                "x": "在这篇评论文章中，Eddy Yen-Ting Lin认为，台湾规范深度伪造的经验可为美国及其他地区的立法者提供借鉴。2023年5月，台湾修订了选举法：根据第51-3条，遭受被操纵音频或视频针对的候选人可请求警方进行鉴识，一经确认为深度伪造，即可要求平台在两天内删除。"
+                "x": "韩国科学技术信息通信部正整合、重组自主AI基础模型项目及下一代AI相关项目等，推进明年规模达8000亿韩元的数据竞争力强化支援项目。"
               },
               {
                 "t": "p",
-                "x": "然而，中央选举委员会证实，截至2026年5月，其收到的请求为零。Lin举例称，KMT系（KMT-affiliated）创作者Wei Chun-yu在7月发布了一段视频，警方分析发现其旁白具有AI生成（AI-generated）音频的特征，且模仿了Lai Ching-te总统——但该视频完全不在这部法律的适用范围内。"
+                "x": "根据祖国革新党议员金善民办公室公开的2027年度预算案项目说明资料，政府为“面向前沿级AI开发的数据竞争力强化支援”项目编列了8000亿韩元，其中前沿级AI数据支援7천500억원，网络安全AI训练基础建设500亿韩元。"
               },
               {
                 "t": "p",
-                "x": "他指出了三个缺陷：该法只保护候选人，且仅限于正式选举期间；缺乏客观标准，由警方而非法院作出判断；候选人还须自行向境外平台送达删除请求。"
+                "x": "支援方式由拨款改为向韩国产业银行注资。政府向产业银行注资7천500억원，再由产业银行投资国内AI企业。安全AI预算500亿韩元将拨给韩国互联网振兴院（KISA）。"
               },
               {
                 "t": "p",
-                "x": "Lin认为，删除机制需要司法监督、全年适用，并应像EU的Digital Services Act那样，要求外国平台指定当地法律代表。"
+                "x": "金议员表示：“对媒体说要分开推进，却向国会提交了合并计划。”并要求说明实际推进计划。金议员还称：“不能就这样开出一张用途和条件都不明确的7천500억원空白支票。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las elecciones de Taiwán piden\nuna ley de deepfakes eficaz",
-          "body": "Eddy Yen-Ting Lin afirma que la ley de deepfakes electorales de Taiwán, sin solicitudes de retirada, debe reformarse.",
-          "mini_headline": "El vacío de la ley de deepfakes de Taiwán",
+          "headline": "El MSIT integra la AI soberana\nen 800.000 millones de wones",
+          "body": "Según el presupuesto, el MSIT integró su proyecto de AI soberana y otros en un plan de 800.000 millones de wones.",
+          "mini_headline": "MSIT: plan de datos de AI de 800.000 millones de wones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-                "cap": "Captura de un video satírico de Wei Chun-yu, publicado el 24 de julio, cuya narración imitaba la voz del presidente Lai Ching-te."
+                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, recorre un estand de la exposición ‘2026 Conexión de Talento de Innovación en AI de Corea’ en el COEX el 29 de julio."
               },
               {
                 "t": "p",
-                "x": "En este artículo de opinión, Eddy Yen-Ting Lin sostiene que la experiencia de Taiwán en la regulación de los deepfakes ofrece lecciones para los legisladores de EE. UU. y otros países. En mayo de 2023, Taiwán reformó su ley electoral: según el artículo 51-3, los candidatos afectados por audio o video manipulado pueden solicitar un examen forense policial y, si se verifica que es un deepfake, exigir a las plataformas que lo retiren en un plazo de dos días."
+                "x": "El Ministerio de Ciencia y TIC está integrando y reorganizando el proyecto de modelo fundacional de AI soberana, programas de AI de próxima generación y otros proyectos en un programa de apoyo a la competitividad en datos de 800.000 millones de wones para el próximo año."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, la Comisión Electoral Central confirmó que, a mayo de 2026, no había recibido ninguna solicitud. Lin cita un video de julio del creador Wei Chun-yu, vinculado al KMT (KMT-affiliated), cuya narración —que según el análisis policial presentaba rasgos de audio generado por IA (AI-generated)— imitaba al presidente Lai Ching-te; quedó completamente fuera del alcance de la ley."
+                "x": "Según los documentos explicativos del proyecto de presupuesto de 2027 publicados por el despacho parlamentario de Kim Sun-min, del Partido de Reconstrucción de Corea, el Gobierno asignó 800.000 millones de wones al programa ‘Apoyo al fortalecimiento de la competitividad en datos para el desarrollo de AI de nivel frontera’: 7천500억원 para apoyo de datos de AI de nivel frontera y 50.000 millones de wones para crear una base de entrenamiento de AI para ciberseguridad."
               },
               {
                 "t": "p",
-                "x": "Identifica tres fallas: la ley protege solo a los candidatos y solo durante el período electoral oficial; carece de un criterio objetivo y deja la decisión en manos de la policía y no de los tribunales; y los candidatos deben notificar ellos mismos las solicitudes de retirada a plataformas extranjeras."
+                "x": "El modelo de apoyo pasa de subvenciones a aportaciones de capital al Banco de Desarrollo de Corea. El Gobierno aportará 7천500억원 al banco, que a su vez invertirá en empresas nacionales de AI. Los 50.000 millones de wones del presupuesto de AI de seguridad se asignarán a la Agencia de Internet y Seguridad de Corea (KISA)."
               },
               {
                 "t": "p",
-                "x": "Lin sostiene que los mecanismos de retirada requieren supervisión judicial, cobertura durante todo el año y la obligación de que las plataformas extranjeras designen un representante legal local, como hace la Digital Services Act de la UE."
+                "x": "Kim exigió que se explique el plan real de ejecución: “A la prensa le dicen que se impulsarán por separado, pero al Parlamento le presentaron un plan que los fusiona”. Además, sostuvo: “No se puede firmar sin más un cheque en blanco de 7천500억원 con usos y condiciones poco claros”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "대만 선거에 필요한\n제대로 된 딥페이크법",
-          "body": "Lin은 대만 선거 딥페이크법에 삭제 요청이 한 건도 없었다며 개정을 촉구한다.",
-          "mini_headline": "대만 딥페이크법의 허점",
+        "en": {
+          "headline": "MSIT merges sovereign AI into\n800 billion won program",
+          "body": "Budget documents show MSIT merged its sovereign AI project and others into an 800 billion won program.",
+          "mini_headline": "MSIT's 800 billion won AI data program",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-                "cap": "7월 24일 공개된 Wei Chun-yu의 풍자 영상 장면. 내레이션은 Lai Ching-te 총통의 목소리를 흉내 냈다."
+                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+                "cap": "Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon tours an exhibition booth at ‘2026 Korea AI Innovation Talent Connect’ at COEX on July 29."
               },
               {
                 "t": "p",
-                "x": "이 기고문에서 Eddy Yen-Ting Lin은 딥페이크를 규제해 온 대만의 경험이 미국 등 각국 입법자에게 교훈을 준다고 주장한다. 대만은 2023년 5월 선거법을 개정했다. 개정법 Article 51-3에 따라 조작된 음성이나 영상의 표적이 된 후보는 경찰에 감식을 요청할 수 있고, 딥페이크로 확인되면 플랫폼에 이틀 안에 삭제를 요구할 수 있다."
+                "x": "The Ministry of Science and ICT is merging and reorganizing the sovereign AI foundation model project, next-generation AI programs and other projects into a data competitiveness support program worth 800 billion won next year."
               },
               {
                 "t": "p",
-                "x": "그러나 중앙선거위원회는 2026년 5월 기준으로 요청을 한 건도 받지 않았다고 확인했다. Lin은 KMT 계열(KMT-affiliated) 크리에이터 Wei Chun-yu가 7월 공개한 영상을 예로 든다. 경찰 분석 결과 이 영상의 내레이션은 AI 생성(AI-generated) 음성의 특징을 보였고 Lai Ching-te 총통을 흉내 냈지만, 법의 적용 범위에서 완전히 벗어나 있었다."
+                "x": "According to 2027 budget proposal project descriptions released by the office of Rep. Kim Sun-min of the Rebuilding Korea Party, the government allocated 800 billion won to the ‘Support for Strengthening Data Competitiveness for Frontier-Level AI Development’ program: 7천500억원 for frontier-level AI data support and 50 billion won for building a cybersecurity AI training base."
               },
               {
                 "t": "p",
-                "x": "그는 세 가지 결함을 지적한다. 이 법은 후보만, 그것도 공식 선거 기간에만 보호한다. 객관적 기준이 없어 판단을 법원이 아닌 경찰에 맡긴다. 또 후보가 해외 플랫폼에 직접 삭제 요청을 송달해야 한다."
+                "x": "The support method changes from grants to capital investment through the Korea Development Bank. The government will invest 7천500억원 in the Korea Development Bank, which will then invest in domestic AI companies. The 50 billion won security AI budget will be granted to the Korea Internet & Security Agency (KISA)."
               },
               {
                 "t": "p",
-                "x": "Lin은 삭제 절차에 사법 감독과 연중 적용이 필요하고, EU의 Digital Services Act처럼 해외 플랫폼이 현지 법률 대리인을 지정하도록 의무화해야 한다고 주장한다."
+                "x": "Kim demanded an explanation of the actual implementation plan, saying, “They told the press the projects would proceed separately, but submitted a plan to the National Assembly that combines them,” and argued, “We cannot simply write a 7천500억원 blank check with unclear uses and conditions.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "台湾の選挙に必要な\n機能するディープフェイク法",
-          "body": "Eddy Yen-Ting Linは、削除要請ゼロの台湾選挙ディープフェイク法改正を訴える。",
-          "mini_headline": "台湾ディープフェイク法の穴",
+          "headline": "科学技術情報通信部、独自AI\n統合で8000億ウォン事業",
+          "body": "予算案資料では科学技術情報通信部が独自AI事業などを統合し8000億ウォンの事業を組んだ。",
+          "mini_headline": "科学技術情報通信部、8000億ウォンのAIデータ事業",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-                "cap": "7月24日に公開されたWei Chun-yuによる風刺動画の一場面。ナレーションはLai Ching-te総統の声をまねていた。"
+                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+                "cap": "ペ・ギョンフン副首相兼科学技術情報通信部長官が7月29日、COEXで開かれた「2026 大韓民国AI革新人材コネクト」の展示ブースを見て回っている。"
               },
               {
                 "t": "p",
-                "x": "この論考でEddy Yen-Ting Linは、ディープフェイク規制をめぐる台湾の経験は米国をはじめ各国の立法者にとって教訓になると論じる。台湾は2023年5月に選挙法を改正した。第51-3条に基づき、操作された音声や動画の標的となった候補者は警察に鑑定を求めることができ、ディープフェイクと確認されれば、プラットフォームに2日以内の削除を要求できる。"
+                "x": "科学技術情報通信部が、独自AIファウンデーションモデルプロジェクトや次世代AI関連事業などを統合・再編し、来年8000億ウォン規模のデータ競争力強化支援事業を推進している。"
               },
               {
                 "t": "p",
-                "x": "しかし中央選挙委員会は、2026年5月時点で受け付けた要請はゼロだったと認めた。Linは、KMT系（KMT-affiliated）のクリエイターWei Chun-yuが7月に公開した動画を例に挙げる。警察の分析でAI生成（AI-generated）音声の特徴があるとされたナレーションはLai Ching-te総統をまねていたが、この法律の対象からは完全に外れていた。"
+                "x": "祖国革新党のキム・ソンミン議員室が公開した2027年度予算案の事業説明資料によると、政府は「フロンティア級AI開発のためのデータ競争力強化支援」事業に8000億ウォンを計上した。内訳はフロンティア級AIデータ支援に7천500억원、サイバーセキュリティAI学習基盤の構築に500億ウォンだ。"
               },
               {
                 "t": "p",
-                "x": "Linは3つの欠陥を挙げる。この法律は候補者のみを、しかも正式な選挙期間中に限って保護する。客観的な基準を欠き、判断を裁判所ではなく警察に委ねている。そして候補者自身が海外プラットフォームに削除要請を送達しなければならない。"
+                "x": "支援方式は出捐から産業銀行への出資に変わる。政府が産業銀行に7천500억원を出資し、産業銀行が国内AI企業に投資する仕組みだ。セキュリティAI予算500億ウォンは韓国インターネット振興院(KISA)に出捐される。"
               },
               {
                 "t": "p",
-                "x": "Linは、削除の仕組みには司法による監督と通年の適用が必要であり、EUのDigital Services Actのように、外国プラットフォームに現地の法定代理人の指定を義務づけるべきだと主張する。"
+                "x": "キム議員は「報道機関には別々に進めると言いながら、国会には統合する計画を提出した」として実際の推進計画の説明を求め、「使途や条件が不明確な7천500억원の白紙小切手をそのまま切るわけにはいかない」と主張した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "台湾选举需要\n管用的深度伪造法",
-          "body": "Eddy Yen-Ting Lin认为，台湾选举深伪法至今零删除请求，亟需改革。",
-          "mini_headline": "台湾深伪法的漏洞",
+          "headline": "韩国科技部整合自主AI\n编列8000亿韩元项目",
+          "body": "预算案资料显示，韩国科技部将自主AI等项目整合为8000亿韩元规模的项目。",
+          "mini_headline": "韩国科技部8000亿韩元AI数据项目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-                "cap": "Wei Chun-yu于7月24日发布的讽刺视频截图，其旁白模仿了Lai Ching-te总统的声音。"
+                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+                "cap": "韩国副总理兼科学技术信息通信部长官裴庆勋7月29日在COEX参观“2026大韩民国AI创新人才对接会”展位。"
               },
               {
                 "t": "p",
-                "x": "在这篇评论文章中，Eddy Yen-Ting Lin认为，台湾规范深度伪造的经验可为美国及其他地区的立法者提供借鉴。2023年5月，台湾修订了选举法：根据第51-3条，遭受被操纵音频或视频针对的候选人可请求警方进行鉴识，一经确认为深度伪造，即可要求平台在两天内删除。"
+                "x": "韩国科学技术信息通信部正整合、重组自主AI基础模型项目及下一代AI相关项目等，推进明年规模达8000亿韩元的数据竞争力强化支援项目。"
               },
               {
                 "t": "p",
-                "x": "然而，中央选举委员会证实，截至2026年5月，其收到的请求为零。Lin举例称，KMT系（KMT-affiliated）创作者Wei Chun-yu在7月发布了一段视频，警方分析发现其旁白具有AI生成（AI-generated）音频的特征，且模仿了Lai Ching-te总统——但该视频完全不在这部法律的适用范围内。"
+                "x": "根据祖国革新党议员金善民办公室公开的2027年度预算案项目说明资料，政府为“面向前沿级AI开发的数据竞争力强化支援”项目编列了8000亿韩元，其中前沿级AI数据支援7천500억원，网络安全AI训练基础建设500亿韩元。"
               },
               {
                 "t": "p",
-                "x": "他指出了三个缺陷：该法只保护候选人，且仅限于正式选举期间；缺乏客观标准，由警方而非法院作出判断；候选人还须自行向境外平台送达删除请求。"
+                "x": "支援方式由拨款改为向韩国产业银行注资。政府向产业银行注资7천500억원，再由产业银行投资国内AI企业。安全AI预算500亿韩元将拨给韩国互联网振兴院（KISA）。"
               },
               {
                 "t": "p",
-                "x": "Lin认为，删除机制需要司法监督、全年适用，并应像EU的Digital Services Act那样，要求外国平台指定当地法律代表。"
+                "x": "金议员表示：“对媒体说要分开推进，却向国会提交了合并计划。”并要求说明实际推进计划。金议员还称：“不能就这样开出一张用途和条件都不明确的7천500억원空白支票。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las elecciones de Taiwán piden\nuna ley de deepfakes eficaz",
-          "body": "Eddy Yen-Ting Lin afirma que la ley de deepfakes electorales de Taiwán, sin solicitudes de retirada, debe reformarse.",
-          "mini_headline": "El vacío de la ley de deepfakes de Taiwán",
+          "headline": "El MSIT integra la AI soberana\nen 800.000 millones de wones",
+          "body": "Según el presupuesto, el MSIT integró su proyecto de AI soberana y otros en un plan de 800.000 millones de wones.",
+          "mini_headline": "MSIT: plan de datos de AI de 800.000 millones de wones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/3tzzh18d/production/9761aa33d1a17affb50e12589ac51b7808877416-1200x675.png",
-                "cap": "Captura de un video satírico de Wei Chun-yu, publicado el 24 de julio, cuya narración imitaba la voz del presidente Lai Ching-te."
+                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+                "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, recorre un estand de la exposición ‘2026 Conexión de Talento de Innovación en AI de Corea’ en el COEX el 29 de julio."
               },
               {
                 "t": "p",
-                "x": "En este artículo de opinión, Eddy Yen-Ting Lin sostiene que la experiencia de Taiwán en la regulación de los deepfakes ofrece lecciones para los legisladores de EE. UU. y otros países. En mayo de 2023, Taiwán reformó su ley electoral: según el artículo 51-3, los candidatos afectados por audio o video manipulado pueden solicitar un examen forense policial y, si se verifica que es un deepfake, exigir a las plataformas que lo retiren en un plazo de dos días."
+                "x": "El Ministerio de Ciencia y TIC está integrando y reorganizando el proyecto de modelo fundacional de AI soberana, programas de AI de próxima generación y otros proyectos en un programa de apoyo a la competitividad en datos de 800.000 millones de wones para el próximo año."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, la Comisión Electoral Central confirmó que, a mayo de 2026, no había recibido ninguna solicitud. Lin cita un video de julio del creador Wei Chun-yu, vinculado al KMT (KMT-affiliated), cuya narración —que según el análisis policial presentaba rasgos de audio generado por IA (AI-generated)— imitaba al presidente Lai Ching-te; quedó completamente fuera del alcance de la ley."
+                "x": "Según los documentos explicativos del proyecto de presupuesto de 2027 publicados por el despacho parlamentario de Kim Sun-min, del Partido de Reconstrucción de Corea, el Gobierno asignó 800.000 millones de wones al programa ‘Apoyo al fortalecimiento de la competitividad en datos para el desarrollo de AI de nivel frontera’: 7천500억원 para apoyo de datos de AI de nivel frontera y 50.000 millones de wones para crear una base de entrenamiento de AI para ciberseguridad."
               },
               {
                 "t": "p",
-                "x": "Identifica tres fallas: la ley protege solo a los candidatos y solo durante el período electoral oficial; carece de un criterio objetivo y deja la decisión en manos de la policía y no de los tribunales; y los candidatos deben notificar ellos mismos las solicitudes de retirada a plataformas extranjeras."
+                "x": "El modelo de apoyo pasa de subvenciones a aportaciones de capital al Banco de Desarrollo de Corea. El Gobierno aportará 7천500억원 al banco, que a su vez invertirá en empresas nacionales de AI. Los 50.000 millones de wones del presupuesto de AI de seguridad se asignarán a la Agencia de Internet y Seguridad de Corea (KISA)."
               },
               {
                 "t": "p",
-                "x": "Lin sostiene que los mecanismos de retirada requieren supervisión judicial, cobertura durante todo el año y la obligación de que las plataformas extranjeras designen un representante legal local, como hace la Digital Services Act de la UE."
+                "x": "Kim exigió que se explique el plan real de ejecución: “A la prensa le dicen que se impulsarán por separado, pero al Parlamento le presentaron un plan que los fusiona”. Además, sostuvo: “No se puede firmar sin más un cheque en blanco de 7천500억원 con usos y condiciones poco claros”."
               }
             ]
           }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "music",
   "cards": [
     {
-      "id": "japanvoice",
+      "id": "suno-speech-beta",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "일본 법원, 목소리도\n퍼블리시티권 보호 판결",
-      "body": "도쿄 법원이 AI 음성 복제 TikTok 계정 건에서 성우 손을 일부 들어줬다.",
-      "mini_headline": "AI 복제에서 목소리를 지킨 판결",
+      "headline": "Suno Speech 베타\nAI 음악에 목소리 입혀",
+      "body": "Suno Speech가 AI 음악에 음성을 얹어 ElevenLabs 영역을 넘본다.",
+      "mini_headline": "Suno Speech, 내레이션 추가",
       "tool": "Music",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,295 +19,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
           },
           {
             "t": "p",
-            "x": "일본 성우 쓰다 겐지로(Kenjiro Tsuda)는 한 TikTok 계정이 AI로 자신의 \"윤기 있는\" 바리톤 목소리를 복제했다고 주장했고, 도쿄 법원은 그의 손을 들어줬다. 선례가 될 이번 판결에서 법원은 사람의 목소리도 법의 보호를 받는다고 판단했다."
+            "x": "Suno가 AI 음악을 넘어 Speech로 영역을 넓힌다. 대본이나 프롬프트 설명만으로 말하는 목소리를 만들어 주는 기능이다. 지금은 Suno 웹·모바일 플랫폼에서 공개 베타로 쓸 수 있고, 내레이션 뒤에 깔 배경음악도 함께 만든다."
           },
           {
             "t": "p",
-            "x": "'Yu-Gi-Oh!'의 카이바 세토(Seto Kaiba) 역으로 잘 알려진 Tsuda에 따르면 한 익명 계정이 2024년 7월부터 지난해 하반기까지 올린 영상 여러 편의 내레이션이 그의 목소리를 복제한 것이었다. TikTok에 영상 삭제를 명령해 달라는 요청은 계정이 이미 삭제됐다는 이유로 기각됐다."
+            "x": "최고제품책임자 Jack Brody는 이를 \"목소리와 음악을 하나의 응집된 트랙으로 함께 생성하는 첫 오디오 모델\"이라고 부르면서, 음악은 \"언제나 Suno의 중심에 있을 것\"이라고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "AFP 보도에 따르면 법원은 배우의 목소리를 허락 없이 쓰면 퍼블리시티권 침해로 봐야 한다고 판단했다. 일본에서 나온 첫 판결이다. TikTok은 재판에서 \"일반적인 남성 목소리\"가 쓰였다고 맞섰다."
+            "x": "AI 음성이 새로운 건 아니다. DeepMind와 Adobe가 이미 뛰어들었고, 2023년부터 가장 널리 알려진 플랫폼 중 하나인 ElevenLabs도 있다. The Verge는 음악 생성기를 두고 소송이 잇따르자 Suno가 플랫폼 다각화에 나선 것으로 본다."
           },
           {
             "t": "p",
-            "x": "애니메이션 성우들 사이에서는 작품이나 초상이 AI 학습에 쓰이는 창작자를 더 보호해야 한다는 우려가 커지고 있다. 이번 판결은 그런 가운데 나왔다."
+            "x": "음악은 선택 사항이라 끄면 깨끗한 음성만 남는다. Create 탭의 Simple 모드는 \"선원들을 독려하는 해적 선장\" 같은 프롬프트를 받고, Advanced 모드에서는 직접 쓴 대본을 넣어 목소리 성별, 말투, 다양성을 조절한다. 클립은 최대 약 8분까지 나온다."
+          },
+          {
+            "t": "p",
+            "x": "\"베타는 정말 베타라는 뜻입니다.\" Brody의 말이다. \"가끔 영국식 억양이 호주에 갔다가 돌아오기도 합니다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A Japanese court rules a voice\nis protected by publicity rights",
-          "body": "A Tokyo court partly sided with an anime voice actor against an anonymous TikTok account that cloned his voice with AI.",
-          "mini_headline": "Court shields a voice from AI clones",
+          "headline": "Suno's new Speech beta\nadds voices to AI music",
+          "body": "Suno's Speech beta sets synthetic voiceovers to AI background music, moving into ElevenLabs' spoken-audio territory.",
+          "mini_headline": "Suno Speech adds voiceovers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "A Tokyo court has sided with Japanese voice actor Kenjiro Tsuda, who claimed a TikTok account had used AI to clone his \"lustrous\" baritone delivery, ruling that the human voice is protected by law in a landmark case."
+                "x": "Suno is branching out from AI music with Speech, a feature that generates spoken voices from scripts or prompted descriptions. It is now in public beta on Suno's web and mobile platforms, and generates voiceovers together with background music to accompany them."
               },
               {
                 "t": "p",
-                "x": "Tsuda, best known as Seto Kaiba in Yu-Gi-Oh!, said the narrator of several videos posted by an anonymous account between July 2024 and the second half of last year was cloned from his voice. His request to order TikTok to remove the videos was dismissed, as the account has already been deleted."
+                "x": "Chief product officer Jack Brody called it \"the first audio model that generates voice and music together as one cohesive track,\" adding that music \"will always be at the heart of Suno.\""
               },
               {
                 "t": "p",
-                "x": "The court said using an actor's voice without permission should be deemed an infringement on their publicity rights, as reported by AFP — the first case of its kind in Japan. TikTok had argued in court that a \"generic male voice\" was used."
+                "x": "AI speech is hardly new: DeepMind, Adobe and ElevenLabs, one of the most recognizable platforms since 2023, are already there. The Verge suggests Suno is likely trying to diversify a platform whose music generator has drawn many lawsuits."
               },
               {
                 "t": "p",
-                "x": "The ruling lands amid growing concern among anime voice actors that more must be done to protect creators whose work or likeness is ingested by AI."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Tribunal japonés ampara la voz\ncon el derecho de imagen",
-          "body": "Un tribunal de Tokio respaldó en parte a un actor de voz contra una cuenta anónima de TikTok que clonó su voz con IA.",
-          "mini_headline": "Un tribunal protege la voz de los clones de IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+                "x": "The music is optional and can be toggled off for clean speech. In the Create tab, Simple mode takes a prompt such as \"a pirate captain rallying his crew,\" while Advanced mode accepts a custom script and adjusts voice gender, speech style and variety. Clips run up to about eight minutes."
               },
               {
                 "t": "p",
-                "x": "Un tribunal de Tokio ha dado la razón al actor de voz japonés Kenjiro Tsuda, que denunció que una cuenta de TikTok había usado IA para clonar su \"lustrosa\" interpretación de barítono, y ha dictaminado en un caso histórico que la voz humana está protegida por la ley."
-              },
-              {
-                "t": "p",
-                "x": "Tsuda, conocido sobre todo como Seto Kaiba en Yu-Gi-Oh!, afirmó que la narración de varios vídeos publicados por una cuenta anónima entre julio de 2024 y la segunda mitad del año pasado se clonó a partir de su voz. Su petición de ordenar a TikTok la retirada de los vídeos fue desestimada, ya que la cuenta ya había sido eliminada."
-              },
-              {
-                "t": "p",
-                "x": "El tribunal señaló que usar la voz de un actor sin permiso debe considerarse una vulneración de sus derechos de imagen, según informó AFP; es el primer caso de este tipo en Japón. TikTok había alegado ante el tribunal que se utilizó una \"voz masculina genérica\"."
-              },
-              {
-                "t": "p",
-                "x": "El fallo llega en medio de una creciente preocupación entre los actores de voz de anime, que consideran que hay que hacer más para proteger a los creadores cuya obra o imagen es absorbida por la IA."
+                "x": "\"Beta really does mean beta,\" Brody said. \"Occasionally, British accents can wander off to Australia and back.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "일본 법원, 목소리도\n퍼블리시티권 보호 판결",
-          "body": "도쿄 법원이 AI 음성 복제 TikTok 계정 건에서 성우 손을 일부 들어줬다.",
-          "mini_headline": "AI 복제에서 목소리를 지킨 판결",
+          "headline": "Suno Speech 베타\nAI 음악에 목소리 입혀",
+          "body": "Suno Speech가 AI 음악에 음성을 얹어 ElevenLabs 영역을 넘본다.",
+          "mini_headline": "Suno Speech, 내레이션 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "일본 성우 쓰다 겐지로(Kenjiro Tsuda)는 한 TikTok 계정이 AI로 자신의 \"윤기 있는\" 바리톤 목소리를 복제했다고 주장했고, 도쿄 법원은 그의 손을 들어줬다. 선례가 될 이번 판결에서 법원은 사람의 목소리도 법의 보호를 받는다고 판단했다."
+                "x": "Suno가 AI 음악을 넘어 Speech로 영역을 넓힌다. 대본이나 프롬프트 설명만으로 말하는 목소리를 만들어 주는 기능이다. 지금은 Suno 웹·모바일 플랫폼에서 공개 베타로 쓸 수 있고, 내레이션 뒤에 깔 배경음악도 함께 만든다."
               },
               {
                 "t": "p",
-                "x": "'Yu-Gi-Oh!'의 카이바 세토(Seto Kaiba) 역으로 잘 알려진 Tsuda에 따르면 한 익명 계정이 2024년 7월부터 지난해 하반기까지 올린 영상 여러 편의 내레이션이 그의 목소리를 복제한 것이었다. TikTok에 영상 삭제를 명령해 달라는 요청은 계정이 이미 삭제됐다는 이유로 기각됐다."
+                "x": "최고제품책임자 Jack Brody는 이를 \"목소리와 음악을 하나의 응집된 트랙으로 함께 생성하는 첫 오디오 모델\"이라고 부르면서, 음악은 \"언제나 Suno의 중심에 있을 것\"이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "AFP 보도에 따르면 법원은 배우의 목소리를 허락 없이 쓰면 퍼블리시티권 침해로 봐야 한다고 판단했다. 일본에서 나온 첫 판결이다. TikTok은 재판에서 \"일반적인 남성 목소리\"가 쓰였다고 맞섰다."
+                "x": "AI 음성이 새로운 건 아니다. DeepMind와 Adobe가 이미 뛰어들었고, 2023년부터 가장 널리 알려진 플랫폼 중 하나인 ElevenLabs도 있다. The Verge는 음악 생성기를 두고 소송이 잇따르자 Suno가 플랫폼 다각화에 나선 것으로 본다."
               },
               {
                 "t": "p",
-                "x": "애니메이션 성우들 사이에서는 작품이나 초상이 AI 학습에 쓰이는 창작자를 더 보호해야 한다는 우려가 커지고 있다. 이번 판결은 그런 가운데 나왔다."
+                "x": "음악은 선택 사항이라 끄면 깨끗한 음성만 남는다. Create 탭의 Simple 모드는 \"선원들을 독려하는 해적 선장\" 같은 프롬프트를 받고, Advanced 모드에서는 직접 쓴 대본을 넣어 목소리 성별, 말투, 다양성을 조절한다. 클립은 최대 약 8분까지 나온다."
+              },
+              {
+                "t": "p",
+                "x": "\"베타는 정말 베타라는 뜻입니다.\" Brody의 말이다. \"가끔 영국식 억양이 호주에 갔다가 돌아오기도 합니다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "日本の裁判所、声に\nパブリシティ権認める",
-          "body": "東京の裁判所は、AIで声を複製した匿名TikTokアカウントを巡り声優の訴えを一部認めた。",
-          "mini_headline": "AIの複製から声を守る判決",
+          "headline": "Sunoの新Speech\nAI音楽に声を加える",
+          "body": "SunoのSpeechはAI音楽に合成音声を重ね、ElevenLabsの領域に踏み込む。",
+          "mini_headline": "Suno Speechが音声を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "東京の裁判所は、TikTokのアカウントがAIを使って自身の「艶のある」バリトンの語りを複製したと主張した日本の声優、津田健次郎(Kenjiro Tsuda)の訴えを認め、画期的な判断として人間の声は法律で保護されるとした。"
+                "x": "SunoはAI音楽の枠を超え、台本やプロンプトの説明から話し声を生成する機能Speechを打ち出した。現在Sunoのウェブ版とモバイル版で公開ベータとして提供され、ナレーションとそれに添える背景音楽をあわせて生成する。"
               },
               {
                 "t": "p",
-                "x": "『遊☆戯☆王』(Yu-Gi-Oh!)の海馬瀬人(Seto Kaiba)役で知られる津田は、匿名アカウントが2024年7月から昨年下半期にかけて投稿した複数の動画のナレーションが、自身の声から複製されたものだと述べた。TikTokに動画の削除を命じるよう求めた請求は、アカウントがすでに削除されていたため棄却された。"
+                "x": "最高製品責任者のJack Brodyは、これを「声と音楽を一つのまとまったトラックとして同時に生成する初のオーディオモデル」と呼び、音楽は「常にSunoの中心にあり続ける」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "AFPによると、裁判所は俳優の声を無断で使うことはパブリシティ権の侵害にあたると判断した。日本で初めてのケースである。TikTok側は法廷で「一般的な男性の声」が使われたと主張していた。"
+                "x": "AI音声自体は目新しくない。DeepMind、Adobe、そして2023年以降最もよく知られたプラットフォームの一つであるElevenLabsがすでに参入している。The Vergeは、音楽生成機能が多くの訴訟を招いてきたSunoが、プラットフォームの多角化を図っている可能性が高いと見る。"
               },
               {
                 "t": "p",
-                "x": "今回の判決は、作品や肖像がAIに取り込まれるクリエイターを守るため、さらなる対策が必要だとするアニメ声優の懸念が高まるなかで出された。"
+                "x": "音楽は任意で、オフにすれば音声だけを得られる。CreateタブのSimpleモードでは「船員を鼓舞する海賊船長」のようなプロンプトを入力し、Advancedモードでは独自の台本を使って声の性別、話し方、バリエーションを調整できる。クリップは最長で約8分だ。"
+              },
+              {
+                "t": "p",
+                "x": "「ベータは本当にベータという意味だ」とBrodyは言う。「ときどき、イギリス訛りがオーストラリアまで行って戻ってくることがある」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本法院裁定声音\n受形象权保护",
-          "body": "东京法院部分支持一名动漫声优，其声音遭匿名TikTok账号用AI克隆。",
-          "mini_headline": "法院保护声音免遭AI克隆",
+          "headline": "Suno Speech测试版\n为AI音乐配上人声",
+          "body": "Suno的Speech测试版为AI背景音乐配上合成旁白，进军ElevenLabs语音领域。",
+          "mini_headline": "Suno Speech加入旁白",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "东京一家法院支持了日本声优津田健次郎（Kenjiro Tsuda）的主张，在这起具有里程碑意义的案件中裁定人类声音受法律保护。津田称，一个TikTok账号用AI克隆了他“富有光泽”的男中音。"
+                "x": "Suno以Speech功能拓展AI音乐之外的版图，可根据脚本或提示描述生成说话的声音。该功能目前在Suno的网页和移动平台上公开测试，会在生成旁白的同时配上相应的背景音乐。"
               },
               {
                 "t": "p",
-                "x": "以在《Yu-Gi-Oh!》（游戏王）中为海马濑人（Seto Kaiba）配音而闻名的津田表示，一个匿名账号在2024年7月至去年下半年间发布的多段视频，其旁白克隆自他的声音。由于该账号已被删除，他要求法院责令TikTok删除视频的请求被驳回。"
+                "x": "首席产品官Jack Brody称其为“首个将人声与音乐作为一条完整音轨同时生成的音频模型”，并补充说音乐“将始终是Suno的核心”。"
               },
               {
                 "t": "p",
-                "x": "据AFP报道，法院认为未经许可使用演员的声音应被视为侵犯其形象权，这是日本首例此类案件。TikTok曾在庭上辩称，视频使用的是“普通男性声音”。"
+                "x": "AI语音并不新鲜：DeepMind、Adobe，以及自2023年以来最知名的平台之一ElevenLabs都已入局。The Verge认为，Suno的音乐生成器已招致多起诉讼，此举很可能是在推动平台多元化。"
               },
               {
                 "t": "p",
-                "x": "动漫声优日益担忧，作品或形象被AI吸收的创作者需要得到更多保护，这一裁决正是在此背景下作出的。"
+                "x": "音乐为可选项，关闭后即可得到纯净语音。在Create标签页中，Simple模式接受“一位鼓舞船员的海盗船长”这类提示，Advanced模式则可使用自定义脚本，并调整声音性别、说话风格和多样性。片段最长约8分钟。"
+              },
+              {
+                "t": "p",
+                "x": "“测试版就真的是测试版，”Brody说，“英国口音偶尔会跑到澳大利亚再绕回来。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La nueva beta Speech de Suno\nañade voces a la música con AI",
+          "body": "La beta de Speech de Suno une voces sintéticas y música de fondo con AI, y entra en el terreno de ElevenLabs.",
+          "mini_headline": "Suno Speech añade locuciones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Suno amplía su alcance más allá de la música con AI con Speech, una función que genera voces habladas a partir de guiones o descripciones en forma de prompt. Ya está en beta pública en las plataformas web y móvil de Suno, y genera las locuciones junto con la música de fondo que las acompaña."
+              },
+              {
+                "t": "p",
+                "x": "El director de producto, Jack Brody, la describió como \"el primer modelo de audio que genera voz y música juntas como una sola pista cohesionada\", y añadió que la música \"siempre estará en el corazón de Suno\"."
+              },
+              {
+                "t": "p",
+                "x": "La voz con AI no es nueva: DeepMind, Adobe y ElevenLabs, una de las plataformas más reconocibles desde 2023, ya están ahí. The Verge sugiere que Suno probablemente busca diversificar una plataforma cuyo generador de música ha acumulado numerosas demandas."
+              },
+              {
+                "t": "p",
+                "x": "La música es opcional y puede desactivarse para obtener solo la voz. En la pestaña Create, el modo Simple acepta un prompt como \"un capitán pirata arengando a su tripulación\", mientras que el modo Advanced admite un guion propio y ajusta el género de la voz, el estilo de habla y la variedad. Los clips duran hasta unos ocho minutos."
+              },
+              {
+                "t": "p",
+                "x": "\"Beta realmente significa beta\", dijo Brody. \"De vez en cuando, los acentos británicos pueden irse hasta Australia y volver\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Tribunal japonés ampara la voz\ncon el derecho de imagen",
-          "body": "Un tribunal de Tokio respaldó en parte a un actor de voz contra una cuenta anónima de TikTok que clonó su voz con IA.",
-          "mini_headline": "Un tribunal protege la voz de los clones de IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Un tribunal de Tokio ha dado la razón al actor de voz japonés Kenjiro Tsuda, que denunció que una cuenta de TikTok había usado IA para clonar su \"lustrosa\" interpretación de barítono, y ha dictaminado en un caso histórico que la voz humana está protegida por la ley."
-              },
-              {
-                "t": "p",
-                "x": "Tsuda, conocido sobre todo como Seto Kaiba en Yu-Gi-Oh!, afirmó que la narración de varios vídeos publicados por una cuenta anónima entre julio de 2024 y la segunda mitad del año pasado se clonó a partir de su voz. Su petición de ordenar a TikTok la retirada de los vídeos fue desestimada, ya que la cuenta ya había sido eliminada."
-              },
-              {
-                "t": "p",
-                "x": "El tribunal señaló que usar la voz de un actor sin permiso debe considerarse una vulneración de sus derechos de imagen, según informó AFP; es el primer caso de este tipo en Japón. TikTok había alegado ante el tribunal que se utilizó una \"voz masculina genérica\"."
-              },
-              {
-                "t": "p",
-                "x": "El fallo llega en medio de una creciente preocupación entre los actores de voz de anime, que consideran que hay que hacer más para proteger a los creadores cuya obra o imagen es absorbida por la IA."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "일본 법원, 목소리도\n퍼블리시티권 보호 판결",
-          "body": "도쿄 법원이 AI 음성 복제 TikTok 계정 건에서 성우 손을 일부 들어줬다.",
-          "mini_headline": "AI 복제로부터 목소리를 지킨 판결",
+          "headline": "Suno Speech 베타\nAI 음악에 목소리 입혀",
+          "body": "Suno Speech가 AI 음악에 음성을 얹어 ElevenLabs 영역을 넘본다.",
+          "mini_headline": "Suno Speech, 내레이션 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "도쿄 법원이 TikTok 계정이 AI로 자신의 \"윤기 있는\" 바리톤 목소리를 복제했다고 주장한 일본 성우 쓰다 겐지로(Kenjiro Tsuda)의 손을 들어줬다. 획기적인 이번 판결에서 법원은 사람의 목소리가 법으로 보호된다고 판단했다."
+                "x": "Suno가 AI 음악을 넘어 Speech로 영역을 넓힌다. 대본이나 프롬프트 설명을 바탕으로 말하는 목소리를 생성하는 기능이다. 현재 Suno의 웹·모바일 플랫폼에서 공개 베타로 제공되며, 내레이션과 함께 이를 받쳐 줄 배경음악도 생성한다."
               },
               {
                 "t": "p",
-                "x": "'Yu-Gi-Oh!'의 카이바 세토(Seto Kaiba) 역으로 잘 알려진 Tsuda는 한 익명 계정이 2024년 7월부터 지난해 하반기까지 올린 여러 영상의 내레이션이 자신의 목소리를 복제한 것이라고 밝혔다. TikTok에 영상 삭제를 명령해 달라는 요청은 계정이 이미 삭제됐다는 이유로 기각됐다."
+                "x": "Jack Brody 최고제품책임자는 이를 \"목소리와 음악을 하나의 응집된 트랙으로 함께 생성하는 첫 오디오 모델\"이라고 부르며, 음악은 \"언제나 Suno의 중심에 있을 것\"이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "AFP 보도에 따르면 법원은 배우의 목소리를 허락 없이 쓰는 것은 퍼블리시티권 침해로 봐야 한다고 판단했다. 일본에서 이런 판결은 처음이다. TikTok은 재판에서 \"일반적인 남성 목소리\"가 쓰였다고 주장했다."
+                "x": "AI 음성 자체는 새롭지 않다. DeepMind, Adobe, 그리고 2023년부터 가장 널리 알려진 플랫폼 중 하나인 ElevenLabs가 이미 이 분야에 있다. The Verge는 음악 생성기를 둘러싼 소송이 잇따른 만큼 Suno가 플랫폼 다각화를 꾀하는 것으로 보인다고 분석했다."
               },
               {
                 "t": "p",
-                "x": "이번 판결은 작품이나 초상이 AI에 학습되는 창작자를 보호하기 위해 더 많은 조치가 필요하다는 애니메이션 성우들의 우려가 커지는 가운데 나왔다."
+                "x": "음악은 선택 사항이며 끄면 깨끗한 음성만 얻을 수 있다. Create 탭의 Simple 모드는 \"선원들을 독려하는 해적 선장\" 같은 프롬프트를 받고, Advanced 모드는 직접 쓴 대본을 받아 목소리 성별, 말투, 다양성을 조절한다. 클립 길이는 최대 약 8분이다."
+              },
+              {
+                "t": "p",
+                "x": "\"베타는 정말 베타라는 뜻입니다.\" Brody의 말이다. \"가끔 영국식 억양이 호주에 갔다가 돌아오기도 합니다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "日本の裁判所、声に\nパブリシティ権認める",
-          "body": "東京の裁判所は、AIで声を複製した匿名TikTokアカウントを巡り声優の訴えを一部認めた。",
-          "mini_headline": "AIの複製から声を守る判決",
+          "headline": "Sunoの新Speech\nAI音楽に声を加える",
+          "body": "SunoのSpeechはAI音楽に合成音声を重ね、ElevenLabsの領域に踏み込む。",
+          "mini_headline": "Suno Speechが音声を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "東京の裁判所は、TikTokのアカウントがAIを使って自身の「艶のある」バリトンの語りを複製したと主張した日本の声優、津田健次郎(Kenjiro Tsuda)の訴えを認め、画期的な判断として人間の声は法律で保護されるとした。"
+                "x": "SunoはAI音楽の枠を超え、台本やプロンプトの説明から話し声を生成する機能Speechを打ち出した。現在Sunoのウェブ版とモバイル版で公開ベータとして提供され、ナレーションとそれに添える背景音楽をあわせて生成する。"
               },
               {
                 "t": "p",
-                "x": "『遊☆戯☆王』(Yu-Gi-Oh!)の海馬瀬人(Seto Kaiba)役で知られる津田は、匿名アカウントが2024年7月から昨年下半期にかけて投稿した複数の動画のナレーションが、自身の声から複製されたものだと述べた。TikTokに動画の削除を命じるよう求めた請求は、アカウントがすでに削除されていたため棄却された。"
+                "x": "最高製品責任者のJack Brodyは、これを「声と音楽を一つのまとまったトラックとして同時に生成する初のオーディオモデル」と呼び、音楽は「常にSunoの中心にあり続ける」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "AFPによると、裁判所は俳優の声を無断で使うことはパブリシティ権の侵害にあたると判断した。日本で初めてのケースである。TikTok側は法廷で「一般的な男性の声」が使われたと主張していた。"
+                "x": "AI音声自体は目新しくない。DeepMind、Adobe、そして2023年以降最もよく知られたプラットフォームの一つであるElevenLabsがすでに参入している。The Vergeは、音楽生成機能が多くの訴訟を招いてきたSunoが、プラットフォームの多角化を図っている可能性が高いと見る。"
               },
               {
                 "t": "p",
-                "x": "今回の判決は、作品や肖像がAIに取り込まれるクリエイターを守るため、さらなる対策が必要だとするアニメ声優の懸念が高まるなかで出された。"
+                "x": "音楽は任意で、オフにすれば音声だけを得られる。CreateタブのSimpleモードでは「船員を鼓舞する海賊船長」のようなプロンプトを入力し、Advancedモードでは独自の台本を使って声の性別、話し方、バリエーションを調整できる。クリップは最長で約8分だ。"
+              },
+              {
+                "t": "p",
+                "x": "「ベータは本当にベータという意味だ」とBrodyは言う。「ときどき、イギリス訛りがオーストラリアまで行って戻ってくることがある」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本法院裁定声音\n受形象权保护",
-          "body": "东京法院部分支持一名动漫声优，其声音遭匿名TikTok账号用AI克隆。",
-          "mini_headline": "法院保护声音免遭AI克隆",
+          "headline": "Suno Speech测试版\n为AI音乐配上人声",
+          "body": "Suno的Speech测试版为AI背景音乐配上合成旁白，进军ElevenLabs语音领域。",
+          "mini_headline": "Suno Speech加入旁白",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "东京一家法院支持了日本声优津田健次郎（Kenjiro Tsuda）的主张，在这起具有里程碑意义的案件中裁定人类声音受法律保护。津田称，一个TikTok账号用AI克隆了他“富有光泽”的男中音。"
+                "x": "Suno以Speech功能拓展AI音乐之外的版图，可根据脚本或提示描述生成说话的声音。该功能目前在Suno的网页和移动平台上公开测试，会在生成旁白的同时配上相应的背景音乐。"
               },
               {
                 "t": "p",
-                "x": "以在《Yu-Gi-Oh!》（游戏王）中为海马濑人（Seto Kaiba）配音而闻名的津田表示，一个匿名账号在2024年7月至去年下半年间发布的多段视频，其旁白克隆自他的声音。由于该账号已被删除，他要求法院责令TikTok删除视频的请求被驳回。"
+                "x": "首席产品官Jack Brody称其为“首个将人声与音乐作为一条完整音轨同时生成的音频模型”，并补充说音乐“将始终是Suno的核心”。"
               },
               {
                 "t": "p",
-                "x": "据AFP报道，法院认为未经许可使用演员的声音应被视为侵犯其形象权，这是日本首例此类案件。TikTok曾在庭上辩称，视频使用的是“普通男性声音”。"
+                "x": "AI语音并不新鲜：DeepMind、Adobe，以及自2023年以来最知名的平台之一ElevenLabs都已入局。The Verge认为，Suno的音乐生成器已招致多起诉讼，此举很可能是在推动平台多元化。"
               },
               {
                 "t": "p",
-                "x": "动漫声优日益担忧，作品或形象被AI吸收的创作者需要得到更多保护，这一裁决正是在此背景下作出的。"
+                "x": "音乐为可选项，关闭后即可得到纯净语音。在Create标签页中，Simple模式接受“一位鼓舞船员的海盗船长”这类提示，Advanced模式则可使用自定义脚本，并调整声音性别、说话风格和多样性。片段最长约8分钟。"
+              },
+              {
+                "t": "p",
+                "x": "“测试版就真的是测试版，”Brody说，“英国口音偶尔会跑到澳大利亚再绕回来。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La nueva beta Speech de Suno\nañade voces a la música con AI",
+          "body": "La beta de Speech de Suno une voces sintéticas y música de fondo con AI, y entra en el terreno de ElevenLabs.",
+          "mini_headline": "Suno Speech añade locuciones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Suno amplía su alcance más allá de la música con AI con Speech, una función que genera voces habladas a partir de guiones o descripciones en forma de prompt. Ya está en beta pública en las plataformas web y móvil de Suno, y genera las locuciones junto con la música de fondo que las acompaña."
+              },
+              {
+                "t": "p",
+                "x": "El director de producto, Jack Brody, la describió como \"el primer modelo de audio que genera voz y música juntas como una sola pista cohesionada\", y añadió que la música \"siempre estará en el corazón de Suno\"."
+              },
+              {
+                "t": "p",
+                "x": "La voz con AI no es nueva: DeepMind, Adobe y ElevenLabs, una de las plataformas más reconocibles desde 2023, ya están ahí. The Verge sugiere que Suno probablemente busca diversificar una plataforma cuyo generador de música ha acumulado numerosas demandas."
+              },
+              {
+                "t": "p",
+                "x": "La música es opcional y puede desactivarse para obtener solo la voz. En la pestaña Create, el modo Simple acepta un prompt como \"un capitán pirata arengando a su tripulación\", mientras que el modo Advanced admite un guion propio y ajusta el género de la voz, el estilo de habla y la variedad. Los clips duran hasta unos ocho minutos."
+              },
+              {
+                "t": "p",
+                "x": "\"Beta realmente significa beta\", dijo Brody. \"De vez en cuando, los acentos británicos pueden irse hasta Australia y volver\"."
               }
             ]
           }
@@ -315,165 +355,165 @@
       }
     },
     {
-      "id": "songhunt",
+      "id": "stability-ai-sean-parker-music",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Songhunt, AI가\nPC 게임 맞춰 선곡",
-      "body": "Songhunt는 멀티모달 AI로 게임을 실시간 읽고 어울리는 곡을 고른다.",
-      "mini_headline": "AI가 PC 게임 음악을 실시간 선곡",
+      "headline": "Sean Parker의 새\nStability AI",
+      "body": "Sean Parker는 Stability AI를 전문 음악 도구 회사로 바꾼다.",
+      "mini_headline": "Stability AI, 음악으로 전환",
       "tool": "Music",
-      "source": "Epidemic Sound (Cision)",
-      "url": "https://news.cision.com/epidemic-sound/r/epidemic-sound-partners-with-mypart-to-bring-adaptive-music-to-pc-gamers-and-streamers-on-overwolf,c4403604",
-      "accent": "#0070f3",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
           },
           {
             "t": "p",
-            "x": "Epidemic Sound가 Overwolf, MyPart와 함께 Songhunt의 새 Stream 모드를 출시한다고 발표했다. Songhunt는 Overwolf의 인게임 앱으로, 1,500개가 넘는 PC 게임에서 PC 게이머 각자에게 맞춘 적응형 음악을 들려준다."
+            "x": "Napster 공동 창업자 Sean Parker가 다시 음악 산업에 뛰어들었다. 이번에는 규칙을 지킨다고 The Information에 말했다. (허락 대신 용서를 구했던 지난번 방식이 그리 잘 통하지 않았다는 점은 순순히 인정한다.)"
           },
           {
             "t": "p",
-            "x": "Songhunt는 MyPart의 멀티모달 AI로 게임 플레이를 쉬지 않고 읽는다. 조용한 탐험이든 빠른 전투든 화면 속 상황에 맞는 음악을 Epidemic Sound 카탈로그에서 골라낸다."
+            "x": "2년 전 그는 Stability AI를 살리려는 $80 million 규모의 구제 작업에 참여했다. 이 이미지 생성 스타트업은 과도한 지출과 내부 혼란 끝에 창업자 Emad Mostaque가 축출되면서 무너지기 직전이었다. 이제 Parker와, CEO를 맡은 오랜 친구 Prem Akkaraju가 그동안 만든 것을 하나씩 내보이고 있다."
           },
           {
             "t": "p",
-            "x": "Epidemic Sound의 카탈로그는 100% IP-owned(지식재산권 100% 보유)다. 덕분에 Twitch와 YouTube 스트리머는 VODs 음소거나 저작권 신고, 영상 삭제를 걱정하지 않아도 된다. Epidemic Sound의 SVP B2B Rasmus Thofte는 \"Songhunt는 그 절충을 없앤다\"고 말했다."
+            "x": "Parker의 핵심 구상은 Stability를 음악 전문가들이 가장 먼저 찾는 AI 도구 제작사로 키우는 일이다. 회사는 8월 말 Sony, Warner, Universal 등에서 $76 million 투자를 유치했다고 발표했고, 이들은 거래 조건으로 학습용 카탈로그 라이선스도 내줬다. Stability는 이후 새 오디오 모델 세 가지와 AI 음악 편집 소프트웨어를 내놓았다. 텍스트 프롬프트만으로 연주곡 전체나 짧은 조각을 만드는 AI다. Parker는 곧 나올 업데이트에서 멜로디를 흥얼거리거나 비트박스로 드럼 패턴을 넣어 생성 방향을 잡을 수 있게 된다고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Songhunt lets AI pick music\nto match live PC gameplay",
-          "body": "Songhunt uses MyPart's multimodal AI to read gameplay live and pick matching tracks from Epidemic Sound's catalog.",
-          "mini_headline": "AI scores PC gameplay live",
+          "headline": "Sean Parker rebuilds\nStability AI around music",
+          "body": "Sean Parker says Stability AI is pivoting to pro music tools built on catalogs licensed from Sony, Warner and Universal.",
+          "mini_headline": "Stability AI turns to music",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Epidemic Sound announced a partnership with Overwolf and MyPart to launch a new Stream mode in Songhunt, the Overwolf in-game app that gives PC gamers a personalized, adaptive music experience across more than 1,500 PC games."
+                "x": "Sean Parker, the Napster co-founder, has jumped back into the music industry, and he tells The Information that he's playing by the rules this time. (Asking for forgiveness rather than permission didn't work out so well last time around, he readily concedes.)"
               },
               {
                 "t": "p",
-                "x": "Songhunt uses MyPart's multimodal AI to interpret gameplay continuously and select music from Epidemic Sound's catalog that matches what is happening on screen, shifting from quiet exploration to fast-paced combat."
+                "x": "Two years ago, he joined an $80 million rescue of Stability AI, the image-generator startup that nearly collapsed after overspending and internal turmoil led to founder Emad Mostaque's ouster. Now Parker and his longtime friend Prem Akkaraju, who became CEO, are taking the wraps off what they've been building."
               },
               {
                 "t": "p",
-                "x": "For streamers on Twitch and YouTube, Epidemic Sound's 100% IP-owned catalog removes the risk of muted VODs, copyright claims and takedowns. \"Songhunt removes that trade-off,\" said Rasmus Thofte, SVP B2B at Epidemic Sound."
+                "x": "The big idea, Parker says, is to turn Stability into the go-to AI toolmaker for music professionals. Toward that end, in late August, the company announced $76 million in funding from, among others, Sony, Warner, and Universal, which also licensed their catalogs for training as part of the deal. Stability has since released three new audio models and AI music-editing software. The AI can generate whole instrumental tracks or short snippets from text prompts. Parker says an upcoming update will let users hum a melody or beatbox a drum pattern to steer it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Songhunt, AI가\nPC 게임 맞춰 선곡",
-          "body": "Songhunt는 멀티모달 AI로 게임을 실시간 읽고 어울리는 곡을 고른다.",
-          "mini_headline": "AI가 PC 게임 음악을 실시간 선곡",
+          "headline": "Sean Parker의 새\nStability AI",
+          "body": "Sean Parker는 Stability AI를 전문 음악 도구 회사로 바꾼다.",
+          "mini_headline": "Stability AI, 음악으로 전환",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Epidemic Sound가 Overwolf, MyPart와 함께 Songhunt의 새 Stream 모드를 출시한다고 발표했다. Songhunt는 Overwolf의 인게임 앱으로, 1,500개가 넘는 PC 게임에서 PC 게이머 각자에게 맞춘 적응형 음악을 들려준다."
+                "x": "Napster 공동 창업자 Sean Parker가 다시 음악 산업에 뛰어들었다. 이번에는 규칙을 지킨다고 The Information에 말했다. (허락 대신 용서를 구했던 지난번 방식이 그리 잘 통하지 않았다는 점은 순순히 인정한다.)"
               },
               {
                 "t": "p",
-                "x": "Songhunt는 MyPart의 멀티모달 AI로 게임 플레이를 쉬지 않고 읽는다. 조용한 탐험이든 빠른 전투든 화면 속 상황에 맞는 음악을 Epidemic Sound 카탈로그에서 골라낸다."
+                "x": "2년 전 그는 Stability AI를 살리려는 $80 million 규모의 구제 작업에 참여했다. 이 이미지 생성 스타트업은 과도한 지출과 내부 혼란 끝에 창업자 Emad Mostaque가 축출되면서 무너지기 직전이었다. 이제 Parker와, CEO를 맡은 오랜 친구 Prem Akkaraju가 그동안 만든 것을 하나씩 내보이고 있다."
               },
               {
                 "t": "p",
-                "x": "Epidemic Sound의 카탈로그는 100% IP-owned(지식재산권 100% 보유)다. 덕분에 Twitch와 YouTube 스트리머는 VODs 음소거나 저작권 신고, 영상 삭제를 걱정하지 않아도 된다. Epidemic Sound의 SVP B2B Rasmus Thofte는 \"Songhunt는 그 절충을 없앤다\"고 말했다."
+                "x": "Parker의 핵심 구상은 Stability를 음악 전문가들이 가장 먼저 찾는 AI 도구 제작사로 키우는 일이다. 회사는 8월 말 Sony, Warner, Universal 등에서 $76 million 투자를 유치했다고 발표했고, 이들은 거래 조건으로 학습용 카탈로그 라이선스도 내줬다. Stability는 이후 새 오디오 모델 세 가지와 AI 음악 편집 소프트웨어를 내놓았다. 텍스트 프롬프트만으로 연주곡 전체나 짧은 조각을 만드는 AI다. Parker는 곧 나올 업데이트에서 멜로디를 흥얼거리거나 비트박스로 드럼 패턴을 넣어 생성 방향을 잡을 수 있게 된다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Songhunt、AIが\nPCゲームに合わせ選曲",
-          "body": "SonghuntはマルチモーダルAIでゲームをリアルタイムで読み取り、合う曲を選ぶ。",
-          "mini_headline": "AIがPCゲームの音楽をライブで選ぶ",
+          "headline": "Sean Parkerが\nStability AI刷新",
+          "body": "Sean ParkerはStability AIをプロ向け音楽ツール企業へ転換すると語る。",
+          "mini_headline": "Stability AIが音楽へ転換",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Epidemic SoundはOverwolfおよびMyPartとの提携を発表し、Songhuntに新しいStreamモードを導入する。SonghuntはOverwolfのゲーム内アプリで、1,500本以上のPCゲームでPCゲーマーにパーソナライズされた適応型の音楽体験を提供する。"
+                "x": "Napsterの共同創業者Sean Parkerが音楽業界に戻ってきた。The Informationに対し、今回はルールに従っていると語っている。(前回は許可より許しを請うやり方があまりうまくいかなかったと、本人もあっさり認めている。)"
               },
               {
                 "t": "p",
-                "x": "SonghuntはMyPartのマルチモーダルAIでゲームプレイを継続的に解釈し、静かな探索から激しい戦闘まで、画面上の状況に合った音楽をEpidemic Soundのカタログから選ぶ。"
+                "x": "2年前、彼はStability AIを救済する$80 millionの支援に加わった。同社は画像生成のスタートアップで、過剰な支出と社内の混乱から創業者Emad Mostaqueが追放され、崩壊寸前に陥っていた。現在、Parkerと、CEOに就いた長年の友人Prem Akkarajuが、これまで築いてきたものを公開しつつある。"
               },
               {
                 "t": "p",
-                "x": "TwitchやYouTubeの配信者にとって、Epidemic Soundの100% IP-owned(IPを100%自社保有する)カタログは、VODsのミュート、著作権申し立て、削除のリスクをなくす。Epidemic SoundのSVP B2B、Rasmus Thofteは「Songhuntはそのトレードオフをなくす」と述べた。"
+                "x": "Parkerによれば、大きな狙いはStabilityを音楽のプロにとって定番のAIツールメーカーにすることだ。その一環として同社は8月下旬、Sony、Warner、Universalなどから$76 millionの資金調達を発表した。これらの企業は契約の一部として、学習用にカタログのライセンスも提供した。Stabilityはその後、新たなオーディオモデル3種とAI音楽編集ソフトウェアをリリースした。このAIはテキストプロンプトからインスト曲全体や短いフレーズを生成できる。Parkerによると、今後のアップデートでは、メロディを口ずさんだりドラムパターンをビートボックスしたりして生成を導けるようになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Songhunt让AI\n为PC游戏实时配乐",
-          "body": "Songhunt借助多模态AI实时解读游戏画面，并挑选相匹配的曲目。",
-          "mini_headline": "AI为PC游戏实时配乐",
+          "headline": "Sean Parker以音乐\n重塑Stability AI",
+          "body": "Sean Parker称Stability AI将转向基于授权曲库的专业音乐工具。",
+          "mini_headline": "Stability AI转向音乐",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Epidemic Sound宣布与Overwolf和MyPart合作，在Songhunt中推出全新Stream模式。Songhunt是Overwolf旗下的游戏内应用，在超过1,500款PC游戏中为PC玩家提供个性化、自适应的音乐体验。"
+                "x": "Napster联合创始人Sean Parker重返音乐行业，他告诉The Information，这次他会按规矩行事。（他坦然承认，上一次先斩后奏、事后再求原谅的做法效果并不好。）"
               },
               {
                 "t": "p",
-                "x": "Songhunt借助MyPart的多模态AI持续解读游戏过程，从Epidemic Sound曲库中挑选与画面情境相匹配的音乐，从安静的探索切换到快节奏的战斗。"
+                "x": "两年前，他参与了对Stability AI的$80 million救助。这家图像生成初创公司因过度支出和内部动荡导致创始人Emad Mostaque被罢免，一度濒临崩溃。如今，Parker与出任CEO的老友Prem Akkaraju正揭开他们一直在打造的成果。"
               },
               {
                 "t": "p",
-                "x": "对于Twitch和YouTube上的主播而言，Epidemic Sound 100% IP-owned（完全自有版权）的曲库消除了VODs被静音、版权申诉和下架的风险。Epidemic Sound的SVP B2B Rasmus Thofte表示：“Songhunt消除了这种取舍。”"
+                "x": "Parker表示，宏大构想是把Stability打造成音乐专业人士首选的AI工具开发商。为此，公司在8月下旬宣布获得Sony、Warner、Universal等方面的$76 million融资，这几家公司还作为交易的一部分授权其曲库用于训练。此后，Stability发布了三款新音频模型和AI音乐编辑软件。该AI可根据文本提示生成完整器乐曲或短片段。Parker说，即将推出的更新将让用户通过哼唱旋律或用beatbox打出鼓点来引导生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Songhunt deja que la IA elija\nmúsica para partidas de PC",
-          "body": "Songhunt usa la IA multimodal de MyPart para leer la partida en vivo y elegir temas del catálogo de Epidemic Sound.",
-          "mini_headline": "La IA musicaliza partidas de PC en vivo",
+          "headline": "Sean Parker reorienta\nStability AI hacia la música",
+          "body": "Sean Parker dice que Stability AI se centra en herramientas para músicos con catálogos de Sony, Warner y Universal.",
+          "mini_headline": "Stability AI apuesta por la música",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Epidemic Sound anunció una alianza con Overwolf y MyPart para lanzar un nuevo modo Stream en Songhunt, la app integrada en el juego de Overwolf que ofrece a los jugadores de PC una experiencia musical personalizada y adaptativa en más de 1,500 juegos de PC."
+                "x": "Sean Parker, cofundador de Napster, ha vuelto a la industria musical y le dice a The Information que esta vez juega según las reglas. (Pedir perdón en lugar de permiso no le salió tan bien la última vez, admite sin reparos.)"
               },
               {
                 "t": "p",
-                "x": "Songhunt usa la IA multimodal de MyPart para interpretar la partida de forma continua y seleccionar del catálogo de Epidemic Sound música acorde con lo que ocurre en pantalla, desde una exploración tranquila hasta un combate frenético."
+                "x": "Hace dos años se sumó a un rescate de 80 millones de dólares de Stability AI, la startup de generación de imágenes que estuvo a punto de hundirse después de que el gasto excesivo y las tensiones internas llevaran a la salida de su fundador, Emad Mostaque. Ahora Parker y su viejo amigo Prem Akkaraju, que asumió como CEO, presentan lo que han estado construyendo."
               },
               {
                 "t": "p",
-                "x": "Para los streamers de Twitch y YouTube, el catálogo 100% IP-owned de Epidemic Sound elimina el riesgo de VODs silenciados, reclamaciones de derechos de autor y retiradas. \"Songhunt elimina ese dilema\", dijo Rasmus Thofte, SVP B2B de Epidemic Sound."
+                "x": "La gran idea, según Parker, es convertir a Stability en el fabricante de herramientas de AI de referencia para los profesionales de la música. Con ese fin, a finales de agosto la empresa anunció una financiación de 76 millones de dólares procedente, entre otros, de Sony, Warner y Universal, que como parte del acuerdo también licenciaron sus catálogos para entrenamiento. Desde entonces, Stability ha lanzado tres nuevos modelos de audio y un software de edición musical con AI. La AI puede generar pistas instrumentales completas o fragmentos breves a partir de prompts de texto. Parker dice que una próxima actualización permitirá a los usuarios tararear una melodía o marcar con beatbox un patrón de batería para guiarla."
               }
             ]
           }
@@ -481,105 +521,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Songhunt, AI가\nPC 게임 맞춰 선곡",
-          "body": "Songhunt는 멀티모달 AI로 게임을 실시간 읽고 어울리는 곡을 고른다.",
-          "mini_headline": "AI가 PC 게임 음악을 실시간 선곡",
+          "headline": "Sean Parker의 새\nStability AI",
+          "body": "Sean Parker는 Stability AI를 전문 음악 도구 회사로 바꾼다.",
+          "mini_headline": "Stability AI, 음악으로 전환",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Epidemic Sound가 Overwolf, MyPart와 손잡고 Songhunt에 새 Stream 모드를 출시한다고 발표했다. Songhunt는 1,500개가 넘는 PC 게임에서 PC 게이머에게 개인화된 적응형 음악 경험을 제공하는 Overwolf의 인게임 앱이다."
+                "x": "Napster 공동 창업자 Sean Parker가 음악 산업에 다시 뛰어들었다. 그는 The Information에 이번에는 규칙을 지키고 있다고 말했다. (지난번에는 허락 대신 용서를 구하는 방식이 그리 잘 통하지 않았다고 그는 순순히 인정한다.)"
               },
               {
                 "t": "p",
-                "x": "Songhunt는 MyPart의 멀티모달 AI로 게임 플레이를 계속 해석해, 조용한 탐험부터 빠른 전투까지 화면 속 상황에 맞는 음악을 Epidemic Sound 카탈로그에서 고른다."
+                "x": "그는 2년 전 Stability AI를 살리기 위한 $80 million 규모의 구제 작업에 참여했다. 이 이미지 생성 스타트업은 과도한 지출과 내부 혼란 끝에 창업자 Emad Mostaque가 축출되면서 붕괴 직전까지 갔다. 이제 Parker와 CEO가 된 오랜 친구 Prem Akkaraju가 그동안 만들어 온 것을 공개하고 있다."
               },
               {
                 "t": "p",
-                "x": "Twitch와 YouTube 스트리머에게 Epidemic Sound의 100% IP-owned(지식재산권 100% 보유) 카탈로그는 VODs 음소거, 저작권 신고, 영상 삭제의 위험을 없애준다. Epidemic Sound의 SVP B2B Rasmus Thofte는 \"Songhunt는 그 절충을 없앤다\"고 말했다."
+                "x": "Parker는 핵심 구상이 Stability를 음악 전문가들이 가장 먼저 찾는 AI 도구 제작사로 만드는 것이라고 말한다. 이를 위해 회사는 8월 말 Sony, Warner, Universal 등으로부터 $76 million 투자를 유치했다고 발표했으며, 이들은 거래의 일환으로 학습용 카탈로그 라이선스도 제공했다. Stability는 이후 새 오디오 모델 세 가지와 AI 음악 편집 소프트웨어를 내놓았다. 이 AI는 텍스트 프롬프트로 연주곡 전체나 짧은 조각을 생성할 수 있다. Parker는 곧 나올 업데이트에서 사용자가 멜로디를 흥얼거리거나 비트박스로 드럼 패턴을 넣어 생성 방향을 이끌 수 있게 된다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Songhunt、AIが\nPCゲームに合わせ選曲",
-          "body": "SonghuntはマルチモーダルAIでゲームをリアルタイムで読み取り、合う曲を選ぶ。",
-          "mini_headline": "AIがPCゲームの音楽をライブで選ぶ",
+          "headline": "Sean Parkerが\nStability AI刷新",
+          "body": "Sean ParkerはStability AIをプロ向け音楽ツール企業へ転換すると語る。",
+          "mini_headline": "Stability AIが音楽へ転換",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Epidemic SoundはOverwolfおよびMyPartとの提携を発表し、Songhuntに新しいStreamモードを導入する。SonghuntはOverwolfのゲーム内アプリで、1,500本以上のPCゲームでPCゲーマーにパーソナライズされた適応型の音楽体験を提供する。"
+                "x": "Napsterの共同創業者Sean Parkerが音楽業界に戻ってきた。The Informationに対し、今回はルールに従っていると語っている。(前回は許可より許しを請うやり方があまりうまくいかなかったと、本人もあっさり認めている。)"
               },
               {
                 "t": "p",
-                "x": "SonghuntはMyPartのマルチモーダルAIでゲームプレイを継続的に解釈し、静かな探索から激しい戦闘まで、画面上の状況に合った音楽をEpidemic Soundのカタログから選ぶ。"
+                "x": "2年前、彼はStability AIを救済する$80 millionの支援に加わった。同社は画像生成のスタートアップで、過剰な支出と社内の混乱から創業者Emad Mostaqueが追放され、崩壊寸前に陥っていた。現在、Parkerと、CEOに就いた長年の友人Prem Akkarajuが、これまで築いてきたものを公開しつつある。"
               },
               {
                 "t": "p",
-                "x": "TwitchやYouTubeの配信者にとって、Epidemic Soundの100% IP-owned(IPを100%自社保有する)カタログは、VODsのミュート、著作権申し立て、削除のリスクをなくす。Epidemic SoundのSVP B2B、Rasmus Thofteは「Songhuntはそのトレードオフをなくす」と述べた。"
+                "x": "Parkerによれば、大きな狙いはStabilityを音楽のプロにとって定番のAIツールメーカーにすることだ。その一環として同社は8月下旬、Sony、Warner、Universalなどから$76 millionの資金調達を発表した。これらの企業は契約の一部として、学習用にカタログのライセンスも提供した。Stabilityはその後、新たなオーディオモデル3種とAI音楽編集ソフトウェアをリリースした。このAIはテキストプロンプトからインスト曲全体や短いフレーズを生成できる。Parkerによると、今後のアップデートでは、メロディを口ずさんだりドラムパターンをビートボックスしたりして生成を導けるようになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Songhunt让AI\n为PC游戏实时配乐",
-          "body": "Songhunt借助多模态AI实时解读游戏画面，并挑选相匹配的曲目。",
-          "mini_headline": "AI为PC游戏实时配乐",
+          "headline": "Sean Parker以音乐\n重塑Stability AI",
+          "body": "Sean Parker称Stability AI将转向基于授权曲库的专业音乐工具。",
+          "mini_headline": "Stability AI转向音乐",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Epidemic Sound宣布与Overwolf和MyPart合作，在Songhunt中推出全新Stream模式。Songhunt是Overwolf旗下的游戏内应用，在超过1,500款PC游戏中为PC玩家提供个性化、自适应的音乐体验。"
+                "x": "Napster联合创始人Sean Parker重返音乐行业，他告诉The Information，这次他会按规矩行事。（他坦然承认，上一次先斩后奏、事后再求原谅的做法效果并不好。）"
               },
               {
                 "t": "p",
-                "x": "Songhunt借助MyPart的多模态AI持续解读游戏过程，从Epidemic Sound曲库中挑选与画面情境相匹配的音乐，从安静的探索切换到快节奏的战斗。"
+                "x": "两年前，他参与了对Stability AI的$80 million救助。这家图像生成初创公司因过度支出和内部动荡导致创始人Emad Mostaque被罢免，一度濒临崩溃。如今，Parker与出任CEO的老友Prem Akkaraju正揭开他们一直在打造的成果。"
               },
               {
                 "t": "p",
-                "x": "对于Twitch和YouTube上的主播而言，Epidemic Sound 100% IP-owned（完全自有版权）的曲库消除了VODs被静音、版权申诉和下架的风险。Epidemic Sound的SVP B2B Rasmus Thofte表示：“Songhunt消除了这种取舍。”"
+                "x": "Parker表示，宏大构想是把Stability打造成音乐专业人士首选的AI工具开发商。为此，公司在8月下旬宣布获得Sony、Warner、Universal等方面的$76 million融资，这几家公司还作为交易的一部分授权其曲库用于训练。此后，Stability发布了三款新音频模型和AI音乐编辑软件。该AI可根据文本提示生成完整器乐曲或短片段。Parker说，即将推出的更新将让用户通过哼唱旋律或用beatbox打出鼓点来引导生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Songhunt deja que la IA elija\nmúsica para partidas de PC",
-          "body": "Songhunt usa la IA multimodal de MyPart para leer la partida en vivo y elegir temas del catálogo de Epidemic Sound.",
-          "mini_headline": "La IA musicaliza partidas de PC en vivo",
+          "headline": "Sean Parker reorienta\nStability AI hacia la música",
+          "body": "Sean Parker dice que Stability AI se centra en herramientas para músicos con catálogos de Sony, Warner y Universal.",
+          "mini_headline": "Stability AI apuesta por la música",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_800x800ar.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Epidemic Sound anunció una alianza con Overwolf y MyPart para lanzar un nuevo modo Stream en Songhunt, la app integrada en el juego de Overwolf que ofrece a los jugadores de PC una experiencia musical personalizada y adaptativa en más de 1,500 juegos de PC."
+                "x": "Sean Parker, cofundador de Napster, ha vuelto a la industria musical y le dice a The Information que esta vez juega según las reglas. (Pedir perdón en lugar de permiso no le salió tan bien la última vez, admite sin reparos.)"
               },
               {
                 "t": "p",
-                "x": "Songhunt usa la IA multimodal de MyPart para interpretar la partida de forma continua y seleccionar del catálogo de Epidemic Sound música acorde con lo que ocurre en pantalla, desde una exploración tranquila hasta un combate frenético."
+                "x": "Hace dos años se sumó a un rescate de 80 millones de dólares de Stability AI, la startup de generación de imágenes que estuvo a punto de hundirse después de que el gasto excesivo y las tensiones internas llevaran a la salida de su fundador, Emad Mostaque. Ahora Parker y su viejo amigo Prem Akkaraju, que asumió como CEO, presentan lo que han estado construyendo."
               },
               {
                 "t": "p",
-                "x": "Para los streamers de Twitch y YouTube, el catálogo 100% IP-owned de Epidemic Sound elimina el riesgo de VODs silenciados, reclamaciones de derechos de autor y retiradas. \"Songhunt elimina ese dilema\", dijo Rasmus Thofte, SVP B2B de Epidemic Sound."
+                "x": "La gran idea, según Parker, es convertir a Stability en el fabricante de herramientas de AI de referencia para los profesionales de la música. Con ese fin, a finales de agosto la empresa anunció una financiación de 76 millones de dólares procedente, entre otros, de Sony, Warner y Universal, que como parte del acuerdo también licenciaron sus catálogos para entrenamiento. Desde entonces, Stability ha lanzado tres nuevos modelos de audio y un software de edición musical con AI. La AI puede generar pistas instrumentales completas o fragmentos breves a partir de prompts de texto. Parker dice que una próxima actualización permitirá a los usuarios tararear una melodía o marcar con beatbox un patrón de batería para guiarla."
               }
             ]
           }
@@ -587,270 +627,407 @@
       }
     },
     {
-      "id": "clarkson",
+      "id": "questlove-sampling-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Kelly Clarkson welcomes AI\nbut wants separate charts",
-      "body": "Kelly Clarkson says she loves AI and is into it artistically, but thinks AI artists should be on a separate chart.",
-      "mini_headline": "Clarkson: AI music, separate charts",
+      "headline": "Questlove \"AI는\n샘플링 문화와 닮았다\"",
+      "body": "Questlove는 Public Enemy부터 AI까지 샘플링을 되짚는다.",
+      "mini_headline": "Questlove가 본 AI와 샘플링",
       "tool": "Music",
       "source": "Billboard",
-      "url": "https://www.billboard.com/music/pop/kelly-clarkson-loves-ai-controversial-take-1236352403/",
-      "accent": "#7928ca",
+      "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "video",
-            "yt": "R4nt1u0z27s"
+            "yt": "T8TFsrsEx_o"
           },
           {
             "t": "p",
-            "x": "On the latest episode of Las Culturistas, Kelly Clarkson said a lot of good can come from AI: \"Controversial? I don't care: I love AI. ... I'm into it artistically, too. I have fun with it.\""
+            "x": "Questlove는 Billboard On the Record에서 샘플링의 흐름을 짚는다. Fairlight와 Marley Marl에서 출발해, 1988년 그에게 \"유레카의 순간(Eureka moment)\"이 된 Public Enemy의 It Takes a Nation of Millions to Hold Us Back까지. 이어 마이크로초핑, 카탈로그 매각, 생성형 AI가 이 예술 형식에 새로운 기회가 될지 위험이 될지 묻는다."
           },
           {
             "t": "p",
-            "x": "She called most opinions on AI music too \"black-and-white\": \"I think it's welcome to the table ... but I don't think they should be competing with humans.\""
+            "x": "\"1988년부터 1991년까지는 무법천지(Wild West)였어요. 아무도 우리를 단속하지 않았죠.\" 그의 말이다. 그러다 Biz Markie 소송 이후로는 허락을 받는 게 규칙이 됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
           },
           {
             "t": "p",
-            "x": "\"When you see AI artists competing on a chart with humans, I have an issue,\" she said. \"I think there should be a separate chart ... We can't lose human.\""
+            "x": "\"AI냐, 직접 만드느냐를 두고 늘 논쟁이 있어요. 전자레인지에 데우느냐, 제대로 한 끼를 요리하느냐의 차이죠. 제게는 불완전함 속에 늘 마법이 있었습니다.\""
           },
           {
             "t": "p",
-            "x": "In August, Billboard reaffirmed its commitment to transparently note when an AI-generated song enters its charts, as Luminate announced plans to label AI-created content."
+            "x": "디지털 왜곡 탓에 소리만 놓고 보면 AI 음악은 \"아직 거기까지 오지 않았다\"는 게 그의 판단이다. 다만 10년 안에 모델이 이를 완성할 수도 있다고 본다. \"하지만 저는 AI를 샘플링 문화와 나란히 놓고 봅니다.\""
+          },
+          {
+            "t": "p",
+            "x": "\"AI 시스템을 만든다면 플랫폼 구축에 쓰인 자료를 투명하게 밝혀야 하고, 그에 대한 보상이 있어야 합니다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Kelly Clarkson welcomes AI\nbut wants separate charts",
-          "body": "Kelly Clarkson says she loves AI and is into it artistically, but thinks AI artists should be on a separate chart.",
-          "mini_headline": "Clarkson: AI music, separate charts",
+          "headline": "Questlove: AI is a parallel\nto sampling culture",
+          "body": "Questlove traces sampling from Public Enemy to microchopping and AI, arguing the magic lives in human imperfection.",
+          "mini_headline": "Questlove on AI and sampling",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "R4nt1u0z27s"
+                "yt": "T8TFsrsEx_o"
               },
               {
                 "t": "p",
-                "x": "On the latest episode of Las Culturistas, Kelly Clarkson said a lot of good can come from AI: \"Controversial? I don't care: I love AI. ... I'm into it artistically, too. I have fun with it.\""
+                "x": "On Billboard On the Record, Questlove traces sampling from the Fairlight and Marley Marl to Public Enemy's It Takes a Nation of Millions to Hold Us Back, his 1988 \"Eureka moment,\" and asks how microchopping, catalog sales and generative AI may pose new opportunities or risks to the art form."
               },
               {
                 "t": "p",
-                "x": "She called most opinions on AI music too \"black-and-white\": \"I think it's welcome to the table ... but I don't think they should be competing with humans.\""
+                "x": "\"Between 1988 and 1991, it was the Wild West. No one was policing us,\" he says, until the Biz Markie lawsuit made permission the rule."
+              },
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "\"When you see AI artists competing on a chart with humans, I have an issue,\" she said. \"I think there should be a separate chart ... We can't lose human.\""
+                "x": "\"There's always a debate about AI versus making something yourself — microwaving versus cooking a full meal. To me, there has always been magic in imperfection.\""
               },
               {
                 "t": "p",
-                "x": "In August, Billboard reaffirmed its commitment to transparently note when an AI-generated song enters its charts, as Luminate announced plans to label AI-created content."
+                "x": "Sonically he is \"not there yet\" on AI music because of its digital distortion, though models may perfect it in ten years. \"But I see AI as a parallel to sampling culture.\""
+              },
+              {
+                "t": "p",
+                "x": "\"If you're building an AI system, you should be transparent about the material used to build the platform, and there should be compensation for it.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Questlove \"AI는\n샘플링 문화와 닮았다\"",
+          "body": "Questlove는 Public Enemy부터 AI까지 샘플링을 되짚는다.",
+          "mini_headline": "Questlove가 본 AI와 샘플링",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "T8TFsrsEx_o"
+              },
+              {
+                "t": "p",
+                "x": "Questlove는 Billboard On the Record에서 샘플링의 흐름을 짚는다. Fairlight와 Marley Marl에서 출발해, 1988년 그에게 \"유레카의 순간(Eureka moment)\"이 된 Public Enemy의 It Takes a Nation of Millions to Hold Us Back까지. 이어 마이크로초핑, 카탈로그 매각, 생성형 AI가 이 예술 형식에 새로운 기회가 될지 위험이 될지 묻는다."
+              },
+              {
+                "t": "p",
+                "x": "\"1988년부터 1991년까지는 무법천지(Wild West)였어요. 아무도 우리를 단속하지 않았죠.\" 그의 말이다. 그러다 Biz Markie 소송 이후로는 허락을 받는 게 규칙이 됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "\"AI냐, 직접 만드느냐를 두고 늘 논쟁이 있어요. 전자레인지에 데우느냐, 제대로 한 끼를 요리하느냐의 차이죠. 제게는 불완전함 속에 늘 마법이 있었습니다.\""
+              },
+              {
+                "t": "p",
+                "x": "디지털 왜곡 탓에 소리만 놓고 보면 AI 음악은 \"아직 거기까지 오지 않았다\"는 게 그의 판단이다. 다만 10년 안에 모델이 이를 완성할 수도 있다고 본다. \"하지만 저는 AI를 샘플링 문화와 나란히 놓고 봅니다.\""
+              },
+              {
+                "t": "p",
+                "x": "\"AI 시스템을 만든다면 플랫폼 구축에 쓰인 자료를 투명하게 밝혀야 하고, 그에 대한 보상이 있어야 합니다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Clarkson、AIを歓迎\nただしチャートは別に",
-          "body": "ClarksonはAIを好むが、AIアーティストは別チャートにすべきだと語った。",
-          "mini_headline": "Clarkson、AI音楽は別チャートに",
+          "headline": "Questlove「AIは\nサンプリング文化に通じる」",
+          "body": "QuestloveはPublic EnemyからAIまでサンプリング史を語る。",
+          "mini_headline": "Questloveが語るAIとサンプリング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "R4nt1u0z27s"
+                "yt": "T8TFsrsEx_o"
               },
               {
                 "t": "p",
-                "x": "Kelly ClarksonはLas Culturistasの最新エピソードで、AIから多くの良いものが生まれうると語った。「物議を醸す?気にしない。私はAIが大好き。……芸術的にも興味がある。楽しんで使っている」"
+                "x": "QuestloveはBillboard On the Recordで、FairlightやMarley Marlから、1988年の自身の「Eureka moment(ひらめきの瞬間)」となったPublic EnemyのIt Takes a Nation of Millions to Hold Us Backまで、サンプリングの歩みをたどる。そして、マイクロチョッピングやカタログ売却、生成AIがこの芸術形式にどんな新たな機会やリスクをもたらしうるかを問う。"
               },
               {
                 "t": "p",
-                "x": "彼女はAI音楽をめぐる意見の多くは「白黒をつけすぎ」だとし、「AIを迎え入れるのはいいと思う……でも人間と競い合うべきではないと思う」と述べた。"
+                "x": "「1988年から1991年まではWild West(無法地帯)だった。誰も僕らを取り締まらなかった」と彼は言う。だがBiz Markieの訴訟を機に、許諾を得ることがルールになった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "「AIアーティストがチャートで人間と競っているのを見ると、問題だと感じる」と彼女は言う。「別のチャートがあるべきだと思う……人間らしさを失ってはいけない」"
+                "x": "「AIか、自分で作るかという議論は常にある。電子レンジで温めるか、ちゃんとした食事を作るかの違いだ。僕にとっては、不完全さの中にいつも魔法があった」"
               },
               {
                 "t": "p",
-                "x": "8月、BillboardはAI-generated(AI生成)の楽曲がチャート入りした際に透明性をもって明記する方針を再確認し、LuminateもAI-created(AIで作られた)コンテンツにラベルを付ける計画を発表した。"
+                "x": "デジタル歪みがあるため、音の面でAI音楽は「まだその域に達していない」と彼は見るが、10年後にはモデルが完成させるかもしれないという。「でも、僕はAIをサンプリング文化と相通じるものだと見ている」"
+              },
+              {
+                "t": "p",
+                "x": "「AIシステムを作るなら、プラットフォーム構築に使った素材について透明であるべきだし、それに対する対価も支払われるべきだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clarkson欢迎AI\n但希望另设榜单",
-          "body": "Kelly Clarkson称自己喜欢AI，但认为AI艺人应进入单独的榜单。",
-          "mini_headline": "Clarkson：AI音乐应另设榜单",
+          "headline": "Questlove：AI与\n采样文化一脉相承",
+          "body": "Questlove梳理从Public Enemy到AI的采样历程，认为魔力在于人的不完美。",
+          "mini_headline": "Questlove谈AI与采样",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "R4nt1u0z27s"
+                "yt": "T8TFsrsEx_o"
               },
               {
                 "t": "p",
-                "x": "Kelly Clarkson在最新一期Las Culturistas节目中表示，AI能带来很多好处：“有争议？我不在乎：我爱AI。……在艺术上我也很喜欢它。我玩得很开心。”"
+                "x": "在Billboard On the Record节目中，Questlove回顾了采样从Fairlight和Marley Marl，到Public Enemy的It Takes a Nation of Millions to Hold Us Back——他1988年的“Eureka moment”（顿悟时刻）——的发展历程，并探讨微切片、版权目录出售和生成式AI可能给这门艺术形式带来哪些新机遇或风险。"
               },
               {
                 "t": "p",
-                "x": "她认为，多数关于AI音乐的看法都太过“非黑即白”：“我觉得欢迎它加入……但我不认为它们应该与人类竞争。”"
+                "x": "“1988年到1991年间，那就是Wild West（蛮荒西部）。没人管我们，”他说。直到Biz Markie诉讼案之后，获得许可才成为规则。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "“看到AI艺人在榜单上与人类竞争，我就有意见，”她说，“我认为应该有一个单独的榜单……我们不能失去人性。”"
+                "x": "“关于用AI还是亲手创作，争论从未停止——就像用微波炉加热和做一顿完整的饭。对我来说，不完美之中一直有种魔力。”"
               },
               {
                 "t": "p",
-                "x": "8月，Billboard重申将在AI-generated（AI生成）歌曲进入榜单时予以透明标注，同时Luminate宣布计划为AI-created（AI创作）内容添加标签。"
+                "x": "由于存在数字失真，他认为AI音乐在声音上“还没到那个程度”，不过模型或许会在十年内将其完善。“但我把AI看作与采样文化相平行的事物。”"
+              },
+              {
+                "t": "p",
+                "x": "“如果你在构建AI系统，就应该公开用于搭建平台的素材，并且应当为此支付报酬。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kelly Clarkson acoge la IA\npero pide listas separadas",
-          "body": "Kelly Clarkson dice que le encanta la IA, pero cree que los artistas de IA deberían tener una lista aparte.",
-          "mini_headline": "Clarkson: música de IA, en listas aparte",
+          "headline": "Questlove: la AI es un paralelo\nde la cultura del sampleo",
+          "body": "Questlove repasa el sampleo de Public Enemy al microchopping y la AI, y sitúa la magia en la imperfección humana.",
+          "mini_headline": "Questlove sobre la AI y el sampleo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "R4nt1u0z27s"
+                "yt": "T8TFsrsEx_o"
               },
               {
                 "t": "p",
-                "x": "En el episodio más reciente de Las Culturistas, Kelly Clarkson dijo que la IA puede aportar mucho bueno: \"¿Polémico? No me importa: me encanta la IA. ... También me interesa en lo artístico. Me divierto con ella.\""
+                "x": "En Billboard On the Record, Questlove repasa el sampleo desde el Fairlight y Marley Marl hasta It Takes a Nation of Millions to Hold Us Back, de Public Enemy, su \"momento Eureka\" de 1988, y se pregunta qué nuevas oportunidades o riesgos pueden suponer para esta forma de arte el microchopping, la venta de catálogos y la AI generativa."
               },
               {
                 "t": "p",
-                "x": "Calificó la mayoría de las opiniones sobre la música con IA de demasiado \"blanco o negro\": \"Creo que es bienvenida a la mesa ... pero no creo que deban competir con los humanos.\""
+                "x": "\"Entre 1988 y 1991 era el Wild West. Nadie nos vigilaba\", dice, hasta que la demanda contra Biz Markie convirtió el permiso en la norma."
+              },
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "\"Cuando veo a artistas de IA compitiendo en una lista con humanos, tengo un problema\", dijo. \"Creo que debería haber una lista aparte ... No podemos perder lo humano.\""
+                "x": "\"Siempre hay un debate entre la AI y hacer algo uno mismo: calentar en el microondas o cocinar una comida completa. Para mí, siempre ha habido magia en la imperfección\"."
               },
               {
                 "t": "p",
-                "x": "En agosto, Billboard reafirmó su compromiso de señalar con transparencia cuándo una canción AI-generated (generada por IA) entra en sus listas, mientras Luminate anunció planes para etiquetar el contenido AI-created (creado con IA)."
+                "x": "En lo sonoro, considera que la música con AI \"todavía no está ahí\" por su distorsión digital, aunque los modelos podrían perfeccionarla en diez años. \"Pero veo la AI como un paralelo de la cultura del sampleo\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Si estás construyendo un sistema de AI, deberías ser transparente sobre el material usado para construir la plataforma, y debería haber una compensación por ello\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "Clarkson、AIを歓迎\nただしチャートは別に",
-          "body": "ClarksonはAIを好むが、AIアーティストは別チャートにすべきだと語った。",
-          "mini_headline": "Clarkson、AI音楽は別チャートに",
+        "ko": {
+          "headline": "Questlove \"AI는\n샘플링 문화와 닮았다\"",
+          "body": "Questlove는 Public Enemy부터 AI까지 샘플링을 되짚는다.",
+          "mini_headline": "Questlove가 본 AI와 샘플링",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "R4nt1u0z27s"
+                "yt": "T8TFsrsEx_o"
               },
               {
                 "t": "p",
-                "x": "Kelly ClarksonはLas Culturistasの最新エピソードで、AIから多くの良いものが生まれうると語った。「物議を醸す?気にしない。私はAIが大好き。……芸術的にも興味がある。楽しんで使っている」"
+                "x": "Questlove는 Billboard On the Record에서 Fairlight와 Marley Marl부터 1988년 그에게 \"유레카의 순간(Eureka moment)\"이었던 Public Enemy의 It Takes a Nation of Millions to Hold Us Back까지 샘플링의 흐름을 짚는다. 그리고 마이크로초핑, 카탈로그 매각, 생성형 AI가 이 예술 형식에 어떤 새로운 기회나 위험이 될 수 있는지 묻는다."
               },
               {
                 "t": "p",
-                "x": "彼女はAI音楽をめぐる意見の多くは「白黒をつけすぎ」だとし、「AIを迎え入れるのはいいと思う……でも人間と競い合うべきではないと思う」と述べた。"
+                "x": "\"1988년부터 1991년까지는 무법천지(Wild West)였어요. 아무도 우리를 단속하지 않았죠.\" 그의 말이다. 그러다 Biz Markie 소송 이후 허락을 받는 것이 규칙이 됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "「AIアーティストがチャートで人間と競っているのを見ると、問題だと感じる」と彼女は言う。「別のチャートがあるべきだと思う……人間らしさを失ってはいけない」"
+                "x": "\"AI냐, 직접 만드느냐를 두고 늘 논쟁이 있어요. 전자레인지에 데우느냐, 제대로 한 끼를 요리하느냐의 차이죠. 제게는 불완전함 속에 늘 마법이 있었습니다.\""
               },
               {
                 "t": "p",
-                "x": "8月、BillboardはAI-generated(AI生成)の楽曲がチャート入りした際に透明性をもって明記する方針を再確認し、LuminateもAI-created(AIで作られた)コンテンツにラベルを付ける計画を発表した。"
+                "x": "디지털 왜곡 때문에 그는 소리 면에서 AI 음악이 \"아직 거기까지 오지 않았다\"고 보지만, 10년 안에 모델이 이를 완성할 수도 있다고 한다. \"하지만 저는 AI를 샘플링 문화와 나란히 놓고 봅니다.\""
+              },
+              {
+                "t": "p",
+                "x": "\"AI 시스템을 만든다면 플랫폼 구축에 쓰인 자료를 투명하게 밝혀야 하고, 그에 대한 보상이 있어야 합니다.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Questlove「AIは\nサンプリング文化に通じる」",
+          "body": "QuestloveはPublic EnemyからAIまでサンプリング史を語る。",
+          "mini_headline": "Questloveが語るAIとサンプリング",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "T8TFsrsEx_o"
+              },
+              {
+                "t": "p",
+                "x": "QuestloveはBillboard On the Recordで、FairlightやMarley Marlから、1988年の自身の「Eureka moment(ひらめきの瞬間)」となったPublic EnemyのIt Takes a Nation of Millions to Hold Us Backまで、サンプリングの歩みをたどる。そして、マイクロチョッピングやカタログ売却、生成AIがこの芸術形式にどんな新たな機会やリスクをもたらしうるかを問う。"
+              },
+              {
+                "t": "p",
+                "x": "「1988年から1991年まではWild West(無法地帯)だった。誰も僕らを取り締まらなかった」と彼は言う。だがBiz Markieの訴訟を機に、許諾を得ることがルールになった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "「AIか、自分で作るかという議論は常にある。電子レンジで温めるか、ちゃんとした食事を作るかの違いだ。僕にとっては、不完全さの中にいつも魔法があった」"
+              },
+              {
+                "t": "p",
+                "x": "デジタル歪みがあるため、音の面でAI音楽は「まだその域に達していない」と彼は見るが、10年後にはモデルが完成させるかもしれないという。「でも、僕はAIをサンプリング文化と相通じるものだと見ている」"
+              },
+              {
+                "t": "p",
+                "x": "「AIシステムを作るなら、プラットフォーム構築に使った素材について透明であるべきだし、それに対する対価も支払われるべきだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clarkson欢迎AI\n但希望另设榜单",
-          "body": "Kelly Clarkson称自己喜欢AI，但认为AI艺人应进入单独的榜单。",
-          "mini_headline": "Clarkson：AI音乐应另设榜单",
+          "headline": "Questlove：AI与\n采样文化一脉相承",
+          "body": "Questlove梳理从Public Enemy到AI的采样历程，认为魔力在于人的不完美。",
+          "mini_headline": "Questlove谈AI与采样",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "R4nt1u0z27s"
+                "yt": "T8TFsrsEx_o"
               },
               {
                 "t": "p",
-                "x": "Kelly Clarkson在最新一期Las Culturistas节目中表示，AI能带来很多好处：“有争议？我不在乎：我爱AI。……在艺术上我也很喜欢它。我玩得很开心。”"
+                "x": "在Billboard On the Record节目中，Questlove回顾了采样从Fairlight和Marley Marl，到Public Enemy的It Takes a Nation of Millions to Hold Us Back——他1988年的“Eureka moment”（顿悟时刻）——的发展历程，并探讨微切片、版权目录出售和生成式AI可能给这门艺术形式带来哪些新机遇或风险。"
               },
               {
                 "t": "p",
-                "x": "她认为，多数关于AI音乐的看法都太过“非黑即白”：“我觉得欢迎它加入……但我不认为它们应该与人类竞争。”"
+                "x": "“1988年到1991年间，那就是Wild West（蛮荒西部）。没人管我们，”他说。直到Biz Markie诉讼案之后，获得许可才成为规则。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "“看到AI艺人在榜单上与人类竞争，我就有意见，”她说，“我认为应该有一个单独的榜单……我们不能失去人性。”"
+                "x": "“关于用AI还是亲手创作，争论从未停止——就像用微波炉加热和做一顿完整的饭。对我来说，不完美之中一直有种魔力。”"
               },
               {
                 "t": "p",
-                "x": "8月，Billboard重申将在AI-generated（AI生成）歌曲进入榜单时予以透明标注，同时Luminate宣布计划为AI-created（AI创作）内容添加标签。"
+                "x": "由于存在数字失真，他认为AI音乐在声音上“还没到那个程度”，不过模型或许会在十年内将其完善。“但我把AI看作与采样文化相平行的事物。”"
+              },
+              {
+                "t": "p",
+                "x": "“如果你在构建AI系统，就应该公开用于搭建平台的素材，并且应当为此支付报酬。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kelly Clarkson acoge la IA\npero pide listas separadas",
-          "body": "Kelly Clarkson dice que le encanta la IA, pero cree que los artistas de IA deberían tener una lista aparte.",
-          "mini_headline": "Clarkson: música de IA, en listas aparte",
+          "headline": "Questlove: la AI es un paralelo\nde la cultura del sampleo",
+          "body": "Questlove repasa el sampleo de Public Enemy al microchopping y la AI, y sitúa la magia en la imperfección humana.",
+          "mini_headline": "Questlove sobre la AI y el sampleo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "R4nt1u0z27s"
+                "yt": "T8TFsrsEx_o"
               },
               {
                 "t": "p",
-                "x": "En el episodio más reciente de Las Culturistas, Kelly Clarkson dijo que la IA puede aportar mucho bueno: \"¿Polémico? No me importa: me encanta la IA. ... También me interesa en lo artístico. Me divierto con ella.\""
+                "x": "En Billboard On the Record, Questlove repasa el sampleo desde el Fairlight y Marley Marl hasta It Takes a Nation of Millions to Hold Us Back, de Public Enemy, su \"momento Eureka\" de 1988, y se pregunta qué nuevas oportunidades o riesgos pueden suponer para esta forma de arte el microchopping, la venta de catálogos y la AI generativa."
               },
               {
                 "t": "p",
-                "x": "Calificó la mayoría de las opiniones sobre la música con IA de demasiado \"blanco o negro\": \"Creo que es bienvenida a la mesa ... pero no creo que deban competir con los humanos.\""
+                "x": "\"Entre 1988 y 1991 era el Wild West. Nadie nos vigilaba\", dice, hasta que la demanda contra Biz Markie convirtió el permiso en la norma."
+              },
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "\"Cuando veo a artistas de IA compitiendo en una lista con humanos, tengo un problema\", dijo. \"Creo que debería haber una lista aparte ... No podemos perder lo humano.\""
+                "x": "\"Siempre hay un debate entre la AI y hacer algo uno mismo: calentar en el microondas o cocinar una comida completa. Para mí, siempre ha habido magia en la imperfección\"."
               },
               {
                 "t": "p",
-                "x": "En agosto, Billboard reafirmó su compromiso de señalar con transparencia cuándo una canción AI-generated (generada por IA) entra en sus listas, mientras Luminate anunció planes para etiquetar el contenido AI-created (creado con IA)."
+                "x": "En lo sonoro, considera que la música con AI \"todavía no está ahí\" por su distorsión digital, aunque los modelos podrían perfeccionarla en diez años. \"Pero veo la AI como un paralelo de la cultura del sampleo\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Si estás construyendo un sistema de AI, deberías ser transparente sobre el material usado para construir la plataforma, y debería haber una compensación por ello\"."
               }
             ]
           }
         }
-      },
-      "i18n_status": {
-        "ko": "fallback"
       }
     },
     {
-      "id": "sleepclub",
+      "id": "lyricfind-ai-lyrics-long-tail",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Spotify AI가 또\nSLEEP CLUB 오판",
-      "body": "Spotify AI가 SLEEP CLUB 신곡을 추천 부적격으로 또 분류했다.",
-      "mini_headline": "Spotify AI, 또 밴드를 오판",
+      "headline": "AI 가사 도구가\n롱테일 저작권료 키운다",
+      "body": "LyricFind는 AI 가사 작업이 9.6M 롱테일 곡의 로열티를 키운다고 본다.",
+      "mini_headline": "롱테일을 위한 AI 가사",
       "tool": "Music",
-      "source": "Theprp",
-      "url": "https://www.theprp.com/2026/09/28/news/sleep-clubs-new-music-about-the-intrusion-of-ai-into-our-daily-lives-once-again-got-incorrectly-flagged-by-spotifys-ai-systems/",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -858,295 +1035,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
           },
           {
             "t": "p",
-            "x": "Spotify가 슈게이즈 밴드 SLEEP CLUB의 최신 싱글 \"Weight Of Ease\"를 AI 사용 곡으로 잘못 분류한 것으로 보인다. 곧 나올 데뷔 앨범 \"Dweller\"의 수록곡이다. Spotify는 앞서 밴드 카탈로그 전체를 이렇게 분류했다가 바로잡은 적이 있다."
+            "x": "LyricFind 창립자 겸 CEO Darryl Ballantyne은 기고문에서 생성형 AI에 라이선스와 투명성, 안전장치가 필요하다고 짚으면서도, 가사·권리 데이터·메타데이터 분야의 AI는 기존 작품의 수익을 늘릴 수 있다고 주장한다."
           },
           {
             "t": "p",
-            "x": "Matt Jones는 \"두 번의 발매에서 두 번째로, 최신 싱글 'Weight of Ease'가 Spotify의 AI-driven(AI 기반) 내부 시스템에서 '추천 부적격'으로 분류됐다\"고 밝혔다. 그는 알고리즘 지원이 평균적인 아티스트 스트리밍의 약 50-70%를 차지한다고 짚었다. 카탈로그 복구에는 약 5주가 걸렸다."
+            "x": "가사 로열티는 사용량에 따라 나오기 때문에 가사가 비어 있으면 노출이 줄고 권리자 수익도 준다. 수작업 전사·싱크·번역은 손익분기점이 분명해서, 업계가 카탈로그를 얼마나 깊이 다룰지에 한계가 있었다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
           },
           {
             "t": "p",
-            "x": "그는 \"AI가 우리 삶 구석구석에 침투하는 현상을 다룬 이 앨범이 계속 AI 시스템에 잘못 걸린다는 게 아이러니하다\"고 덧붙였다. 밴드는 나중에 첫 번째 분류의 원인이 밴드명에 든 \"sleep\"이라는 단어였다고 밝혔다. Spotify는 이번 건을 설명하지 않았다."
+            "x": "Luminate에 따르면 2025년에 10,000회에서 500,000회 사이로 스트리밍된 곡은 9.6M 곡으로, 전 세계 스트리밍 양의 13%를 넘는다. LyricFind는 AI로 첫 전사를 마친 뒤 단어 단위 싱크와 번역을 거치고, 단계마다 사람이 검증한다."
           },
           {
-            "t": "video",
-            "yt": "kfolpGoqW10"
+            "t": "p",
+            "x": "직원 효율을 세네 배로 끌어올리면 활용 가능한 콘텐츠가 약 700% 늘어나니, 인력을 두 배로 늘리는 편이 합리적이라는 게 그의 설명이다. 정확도가 99%인 시스템도 가사 1억 건을 처리하면 오류가 백만 건 남는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Spotify's AI system flags\nSLEEP CLUB's new single again",
-          "body": "Spotify's AI-driven system flagged SLEEP CLUB's new single as ineligible for recommendation, again misjudging the band.",
-          "mini_headline": "Spotify's AI flags a band again",
+          "headline": "AI lyric tools could grow\nlong-tail song royalties",
+          "body": "LyricFind argues AI lyric transcription, sync and translation could expand royalties from 9.6M long-tail tracks.",
+          "mini_headline": "AI lyrics for the long tail",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
               },
               {
                 "t": "p",
-                "x": "Shoegaze outfit SLEEP CLUB's latest single \"Weight Of Ease\", from their upcoming debut album \"Dweller\", has seemingly been incorrectly flagged by Spotify for AI usage. The band's entire catalog had previously been flagged before Spotify resolved it."
+                "x": "In an op-ed, LyricFind founder and CEO Darryl Ballantyne argues that while generative AI needs licensing, transparency and guardrails, AI in lyrics, rights data and metadata can help existing works earn more."
               },
               {
                 "t": "p",
-                "x": "\"For the 2nd time in two releases, our newest single 'Weight of Ease' has been flagged by Spotify's AI driven internal system as 'ineligible for recommendation',\" said Matt Jones, noting algorithmic support makes up roughly 50-70% of an average artist's streams. It took roughly 5 weeks to restore the catalog."
+                "x": "Lyric royalties are usage-driven, so gaps in availability mean fewer displays and less money for rightsholders. Manual transcription, sync and translation set a break-even point that limited how deep into the catalogue the industry could go."
               },
-              {
-                "t": "p",
-                "x": "\"It's ironic that this album, which is about the intrusion of AI into every aspect of our lives, keeps getting flagged by AI systems incorrectly,\" he added. The band later said the first flag stemmed from the word \"sleep\" in their name; Spotify has not explained the current one."
-              },
-              {
-                "t": "video",
-                "yt": "kfolpGoqW10"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Spotify AI가 또\nSLEEP CLUB 오판",
-          "body": "Spotify AI가 SLEEP CLUB 신곡을 추천 부적격으로 또 분류했다.",
-          "mini_headline": "Spotify AI, 또 밴드를 오판",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify가 슈게이즈 밴드 SLEEP CLUB의 최신 싱글 \"Weight Of Ease\"를 AI 사용 곡으로 잘못 분류한 것으로 보인다. 곧 나올 데뷔 앨범 \"Dweller\"의 수록곡이다. Spotify는 앞서 밴드 카탈로그 전체를 이렇게 분류했다가 바로잡은 적이 있다."
+                "x": "Per Luminate, 9.6M songs were streamed 10,000 to 500,000 times in 2025, over 13% of global stream volume. LyricFind uses AI for first-pass transcription, then word-by-word sync and translation, with humans verifying throughout."
               },
               {
                 "t": "p",
-                "x": "Matt Jones는 \"두 번의 발매에서 두 번째로, 최신 싱글 'Weight of Ease'가 Spotify의 AI-driven(AI 기반) 내부 시스템에서 '추천 부적격'으로 분류됐다\"고 밝혔다. 그는 알고리즘 지원이 평균적인 아티스트 스트리밍의 약 50-70%를 차지한다고 짚었다. 카탈로그 복구에는 약 5주가 걸렸다."
-              },
-              {
-                "t": "p",
-                "x": "그는 \"AI가 우리 삶 구석구석에 침투하는 현상을 다룬 이 앨범이 계속 AI 시스템에 잘못 걸린다는 게 아이러니하다\"고 덧붙였다. 밴드는 나중에 첫 번째 분류의 원인이 밴드명에 든 \"sleep\"이라는 단어였다고 밝혔다. Spotify는 이번 건을 설명하지 않았다."
-              },
-              {
-                "t": "video",
-                "yt": "kfolpGoqW10"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "SpotifyのAIが再び\nSLEEP CLUBを誤判定",
-          "body": "SpotifyのAIシステムがSLEEP CLUBの新曲を再び推薦対象外と判定した。",
-          "mini_headline": "SpotifyのAIがまたバンドを誤判定",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
-              },
-              {
-                "t": "p",
-                "x": "シューゲイザーバンドSLEEP CLUBが近く発表するデビューアルバム「Dweller」からの最新シングル「Weight Of Ease」が、SpotifyにAI使用として誤ってフラグを立てられたようだ。以前にはバンドの全カタログがフラグ対象となり、その後Spotifyが解決していた。"
-              },
-              {
-                "t": "p",
-                "x": "「2作続けて2度目となるが、最新シングル『Weight of Ease』がSpotifyのAI-driven(AI駆動)の内部システムによって『推薦対象外』と判定された」とMatt Jonesは述べ、アルゴリズムによる後押しが平均的なアーティストのストリーム数の約50-70%を占めると指摘した。カタログの復旧には約5週間かかった。"
-              },
-              {
-                "t": "p",
-                "x": "「AIが私たちの生活のあらゆる面に入り込むことをテーマにしたこのアルバムが、AIシステムに何度も誤ってフラグを立てられるのは皮肉だ」と彼は付け加えた。バンドは後に、最初のフラグはバンド名の「sleep」という単語が原因だったと説明した。今回の件についてSpotifyは説明していない。"
-              },
-              {
-                "t": "video",
-                "yt": "kfolpGoqW10"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Spotify的AI系统\n再次标记SLEEP CLUB",
-          "body": "Spotify的AI系统再次将SLEEP CLUB新单曲判为不符合推荐条件。",
-          "mini_headline": "Spotify的AI再次误判乐队",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
-              },
-              {
-                "t": "p",
-                "x": "盯鞋乐队SLEEP CLUB即将发行的首张专辑《Dweller》中的最新单曲《Weight Of Ease》，似乎被Spotify误判为使用了AI。此前，该乐队的全部作品曾被标记，后来由Spotify解决。"
-              },
-              {
-                "t": "p",
-                "x": "“这是我们连续两次发行中第二次遇到这种情况，最新单曲《Weight of Ease》被Spotify的AI-driven（AI驱动）内部系统标记为‘不符合推荐条件’，”Matt Jones说。他指出，算法推荐约占普通艺人播放量的50-70%。此前恢复作品目录花了约5周。"
-              },
-              {
-                "t": "p",
-                "x": "“讽刺的是，这张讲述AI侵入我们生活方方面面的专辑，一再被AI系统错误标记，”他补充道。乐队后来表示，第一次标记源于乐队名中的“sleep”一词；Spotify尚未解释此次标记的原因。"
-              },
-              {
-                "t": "video",
-                "yt": "kfolpGoqW10"
+                "x": "Making staff three or four times more efficient grows viable content by about 700%, he says, so it makes sense to double the human team. Even a 99% accurate system on 100 million lyrics would leave a million errors."
               }
             ]
           }
         },
         "es": {
-          "headline": "El sistema de IA de Spotify\nvuelve a marcar a SLEEP CLUB",
-          "body": "El sistema de IA de Spotify volvió a marcar el nuevo sencillo de SLEEP CLUB como no apto para recomendación.",
-          "mini_headline": "La IA de Spotify vuelve a marcar a una banda",
+          "headline": "La AI en las letras podría\nampliar regalías de cola larga",
+          "body": "LyricFind cree que transcribir, sincronizar y traducir letras con AI podría ampliar regalías de 9.6M temas long-tail.",
+          "mini_headline": "Letras con AI para la cola larga",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
               },
               {
                 "t": "p",
-                "x": "El último sencillo del grupo de shoegaze SLEEP CLUB, \"Weight Of Ease\", de su próximo álbum debut \"Dweller\", habría sido marcado por error por Spotify por uso de IA. Antes, todo el catálogo de la banda había sido marcado hasta que Spotify lo resolvió."
+                "x": "En un artículo de opinión, el fundador y CEO de LyricFind, Darryl Ballantyne, sostiene que, si bien la AI generativa necesita licencias, transparencia y salvaguardas, la AI aplicada a letras, datos de derechos y metadatos puede ayudar a que las obras existentes generen más ingresos."
               },
               {
                 "t": "p",
-                "x": "\"Por segunda vez en dos lanzamientos, nuestro nuevo sencillo 'Weight of Ease' ha sido marcado por el sistema interno AI-driven (impulsado por IA) de Spotify como 'no apto para recomendación'\", dijo Matt Jones, quien señaló que el apoyo algorítmico representa aproximadamente el 50-70% de las reproducciones de un artista promedio. Restaurar el catálogo llevó unas 5 semanas."
+                "x": "Las regalías por letras dependen del uso, así que los vacíos de disponibilidad implican menos visualizaciones y menos dinero para los titulares de derechos. La transcripción, la sincronización y la traducción manuales fijaban un punto de equilibrio que limitaba hasta dónde podía llegar la industria dentro del catálogo."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
               },
               {
                 "t": "p",
-                "x": "\"Es irónico que este álbum, que trata sobre la intrusión de la IA en todos los aspectos de nuestras vidas, siga siendo marcado por error por sistemas de IA\", añadió. La banda dijo después que la primera marca se debió a la palabra \"sleep\" en su nombre; Spotify no ha explicado la actual."
+                "x": "Según Luminate, 9.6M canciones se reprodujeron entre 10,000 y 500,000 veces en 2025, más del 13% del volumen mundial de streams. LyricFind usa AI para una primera transcripción y luego para la sincronización palabra por palabra y la traducción, con verificación humana en todo el proceso."
               },
               {
-                "t": "video",
-                "yt": "kfolpGoqW10"
+                "t": "p",
+                "x": "Hacer al personal tres o cuatro veces más eficiente aumenta el contenido viable en torno a un 700%, afirma, por lo que tiene sentido duplicar el equipo humano. Incluso un sistema con un 99% de precisión sobre 100 millones de letras dejaría un millón de errores."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 가사 도구가\n롱테일 저작권료 키운다",
+          "body": "LyricFind는 AI 가사 작업이 9.6M 롱테일 곡의 로열티를 키운다고 본다.",
+          "mini_headline": "롱테일을 위한 AI 가사",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "LyricFind 창립자 겸 CEO Darryl Ballantyne은 기고문에서 생성형 AI에 라이선스와 투명성, 안전장치가 필요하다고 짚으면서도, 가사·권리 데이터·메타데이터 분야의 AI는 기존 작품의 수익을 늘릴 수 있다고 주장한다."
+              },
+              {
+                "t": "p",
+                "x": "가사 로열티는 사용량에 따라 나오기 때문에 가사가 비어 있으면 노출이 줄고 권리자 수익도 준다. 수작업 전사·싱크·번역은 손익분기점이 분명해서, 업계가 카탈로그를 얼마나 깊이 다룰지에 한계가 있었다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Luminate에 따르면 2025년에 10,000회에서 500,000회 사이로 스트리밍된 곡은 9.6M 곡으로, 전 세계 스트리밍 양의 13%를 넘는다. LyricFind는 AI로 첫 전사를 마친 뒤 단어 단위 싱크와 번역을 거치고, 단계마다 사람이 검증한다."
+              },
+              {
+                "t": "p",
+                "x": "직원 효율을 세네 배로 끌어올리면 활용 가능한 콘텐츠가 약 700% 늘어나니, 인력을 두 배로 늘리는 편이 합리적이라는 게 그의 설명이다. 정확도가 99%인 시스템도 가사 1억 건을 처리하면 오류가 백만 건 남는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI歌詞ツールが\nロングテール印税を拡大",
+          "body": "LyricFindは、AI歌詞技術で9.6M 曲のロングテール印税が増えると説く。",
+          "mini_headline": "ロングテールにAI歌詞",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "LyricFindの創業者兼CEOであるDarryl Ballantyneは寄稿で、生成AIにはライセンス、透明性、ガードレールが必要だとしつつ、歌詞や権利データ、メタデータにおけるAIは既存作品の収益拡大に役立つと論じる。"
+              },
+              {
+                "t": "p",
+                "x": "歌詞の印税は利用量に応じて発生するため、提供されていない歌詞があれば表示回数が減り、権利者の収入も減る。手作業の書き起こし、同期、翻訳には損益分岐点があり、業界がカタログをどこまで深く掘り下げられるかを制約してきた。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Luminateによると、2025年に10,000回から500,000回再生された曲は9.6M 曲にのぼり、世界のストリーミング総量の13%超を占めた。LyricFindはAIで最初の書き起こしを行い、続いて単語単位の同期と翻訳を進め、全工程で人間が検証する。"
+              },
+              {
+                "t": "p",
+                "x": "スタッフの効率を三、四倍に高めれば、採算の合うコンテンツは約700%増えるため、人員を倍増させるのが理にかなうと彼は言う。精度99%のシステムでも、1億件の歌詞を扱えば百万件の誤りが残る。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI歌词工具\n或可扩大长尾版税",
+          "body": "LyricFind认为，AI歌词转录、同步与翻译可扩大9.6M 首长尾歌曲的版税。",
+          "mini_headline": "面向长尾的AI歌词",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "LyricFind创始人兼CEO Darryl Ballantyne在一篇评论文章中指出，生成式AI需要授权、透明度和防护机制，但应用于歌词、版权数据和元数据的AI能帮助现有作品获得更多收入。"
+              },
+              {
+                "t": "p",
+                "x": "歌词版税按使用量计算，歌词缺失意味着展示次数减少，版权方收入也随之减少。人工转录、同步和翻译设定了盈亏平衡点，限制了业界深入挖掘曲库的程度。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
+              },
+              {
+                "t": "p",
+                "x": "据Luminate统计，2025年有9.6M 首歌曲的播放量在10,000至500,000次之间，占全球播放总量的13%以上。LyricFind先用AI完成初步转录，再进行逐词同步和翻译，全程由人工核验。"
+              },
+              {
+                "t": "p",
+                "x": "他表示，若员工效率提高三四倍，可行的内容量将增长约700%，因此将人工团队扩大一倍是合理的。即便是准确率99%的系统，处理1亿条歌词也会留下百万个错误。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Spotify AI가 또\nSLEEP CLUB 오판",
-          "body": "Spotify AI가 SLEEP CLUB 신곡을 추천 부적격으로 또 분류했다.",
-          "mini_headline": "Spotify AI, 또 밴드를 오판",
+        "es": {
+          "headline": "La AI en las letras podría\nampliar regalías de cola larga",
+          "body": "LyricFind cree que transcribir, sincronizar y traducir letras con AI podría ampliar regalías de 9.6M temas long-tail.",
+          "mini_headline": "Letras con AI para la cola larga",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
               },
               {
                 "t": "p",
-                "x": "슈게이즈 밴드 SLEEP CLUB이 곧 낼 데뷔 앨범 \"Dweller\"의 최신 싱글 \"Weight Of Ease\"를 Spotify가 AI 사용 곡으로 잘못 분류한 것으로 보인다. 앞서 Spotify는 밴드의 전체 카탈로그를 분류했다가 문제를 해결한 바 있다."
+                "x": "En un artículo de opinión, el fundador y CEO de LyricFind, Darryl Ballantyne, sostiene que, si bien la AI generativa necesita licencias, transparencia y salvaguardas, la AI aplicada a letras, datos de derechos y metadatos puede ayudar a que las obras existentes generen más ingresos."
               },
               {
                 "t": "p",
-                "x": "Matt Jones는 \"두 번의 발매에서 두 번째로, 최신 싱글 'Weight of Ease'가 Spotify의 AI-driven(AI 기반) 내부 시스템에서 '추천 부적격'으로 분류됐다\"고 밝히며, 알고리즘 지원이 평균적인 아티스트 스트리밍의 약 50-70%를 차지한다고 지적했다. 카탈로그를 복구하는 데는 약 5주가 걸렸다."
+                "x": "Las regalías por letras dependen del uso, así que los vacíos de disponibilidad implican menos visualizaciones y menos dinero para los titulares de derechos. La transcripción, la sincronización y la traducción manuales fijaban un punto de equilibrio que limitaba hasta dónde podía llegar la industria dentro del catálogo."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
               },
               {
                 "t": "p",
-                "x": "그는 \"AI가 우리 삶 구석구석에 침투하는 현상을 다룬 이 앨범이 계속 AI 시스템에 잘못 걸린다는 게 아이러니하다\"고 덧붙였다. 밴드는 이후 첫 번째 분류가 밴드명의 \"sleep\"이라는 단어 때문이었다고 밝혔다. Spotify는 이번 건에 대해 설명하지 않았다."
+                "x": "Según Luminate, 9.6M canciones se reprodujeron entre 10,000 y 500,000 veces en 2025, más del 13% del volumen mundial de streams. LyricFind usa AI para una primera transcripción y luego para la sincronización palabra por palabra y la traducción, con verificación humana en todo el proceso."
               },
               {
-                "t": "video",
-                "yt": "kfolpGoqW10"
+                "t": "p",
+                "x": "Hacer al personal tres o cuatro veces más eficiente aumenta el contenido viable en torno a un 700%, afirma, por lo que tiene sentido duplicar el equipo humano. Incluso un sistema con un 99% de precisión sobre 100 millones de letras dejaría un millón de errores."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 가사 도구가\n롱테일 저작권료 키운다",
+          "body": "LyricFind는 AI 가사 작업이 9.6M 롱테일 곡의 로열티를 키운다고 본다.",
+          "mini_headline": "롱테일을 위한 AI 가사",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "LyricFind 창립자이자 CEO인 Darryl Ballantyne은 기고문에서, 생성형 AI에는 라이선스와 투명성, 안전장치가 필요하지만 가사·권리 데이터·메타데이터 분야의 AI는 기존 작품의 수익을 늘릴 수 있다고 주장한다."
+              },
+              {
+                "t": "p",
+                "x": "가사 로열티는 사용량에 따라 발생하므로, 가사가 제공되지 않는 공백은 노출 감소와 권리자 수익 감소로 이어진다. 수작업 전사·싱크·번역에는 손익분기점이 있었고, 이 때문에 업계가 카탈로그를 얼마나 깊이 다룰 수 있는지가 제한됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Luminate에 따르면 2025년에 9.6M 곡이 10,000회에서 500,000회 스트리밍됐고, 이는 전 세계 스트리밍 양의 13%를 넘는다. LyricFind는 AI로 첫 전사를 한 뒤 단어 단위 싱크와 번역을 진행하며, 모든 단계에서 사람이 검증한다."
+              },
+              {
+                "t": "p",
+                "x": "그는 직원 효율을 세네 배로 높이면 활용 가능한 콘텐츠가 약 700% 늘어나므로 인력을 두 배로 늘리는 것이 합리적이라고 말한다. 정확도 99%인 시스템이라도 가사 1억 건을 처리하면 백만 건의 오류가 남는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SpotifyのAIが再び\nSLEEP CLUBを誤判定",
-          "body": "SpotifyのAIシステムがSLEEP CLUBの新曲を再び推薦対象外と判定した。",
-          "mini_headline": "SpotifyのAIがまたバンドを誤判定",
+          "headline": "AI歌詞ツールが\nロングテール印税を拡大",
+          "body": "LyricFindは、AI歌詞技術で9.6M 曲のロングテール印税が増えると説く。",
+          "mini_headline": "ロングテールにAI歌詞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
               },
               {
                 "t": "p",
-                "x": "シューゲイザーバンドSLEEP CLUBが近く発表するデビューアルバム「Dweller」からの最新シングル「Weight Of Ease」が、SpotifyにAI使用として誤ってフラグを立てられたようだ。以前にはバンドの全カタログがフラグ対象となり、その後Spotifyが解決していた。"
+                "x": "LyricFindの創業者兼CEOであるDarryl Ballantyneは寄稿で、生成AIにはライセンス、透明性、ガードレールが必要だとしつつ、歌詞や権利データ、メタデータにおけるAIは既存作品の収益拡大に役立つと論じる。"
               },
               {
                 "t": "p",
-                "x": "「2作続けて2度目となるが、最新シングル『Weight of Ease』がSpotifyのAI-driven(AI駆動)の内部システムによって『推薦対象外』と判定された」とMatt Jonesは述べ、アルゴリズムによる後押しが平均的なアーティストのストリーム数の約50-70%を占めると指摘した。カタログの復旧には約5週間かかった。"
+                "x": "歌詞の印税は利用量に応じて発生するため、提供されていない歌詞があれば表示回数が減り、権利者の収入も減る。手作業の書き起こし、同期、翻訳には損益分岐点があり、業界がカタログをどこまで深く掘り下げられるかを制約してきた。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
               },
               {
                 "t": "p",
-                "x": "「AIが私たちの生活のあらゆる面に入り込むことをテーマにしたこのアルバムが、AIシステムに何度も誤ってフラグを立てられるのは皮肉だ」と彼は付け加えた。バンドは後に、最初のフラグはバンド名の「sleep」という単語が原因だったと説明した。今回の件についてSpotifyは説明していない。"
+                "x": "Luminateによると、2025年に10,000回から500,000回再生された曲は9.6M 曲にのぼり、世界のストリーミング総量の13%超を占めた。LyricFindはAIで最初の書き起こしを行い、続いて単語単位の同期と翻訳を進め、全工程で人間が検証する。"
               },
               {
-                "t": "video",
-                "yt": "kfolpGoqW10"
+                "t": "p",
+                "x": "スタッフの効率を三、四倍に高めれば、採算の合うコンテンツは約700%増えるため、人員を倍増させるのが理にかなうと彼は言う。精度99%のシステムでも、1億件の歌詞を扱えば百万件の誤りが残る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Spotify的AI系统\n再次标记SLEEP CLUB",
-          "body": "Spotify的AI系统再次将SLEEP CLUB新单曲判为不符合推荐条件。",
-          "mini_headline": "Spotify的AI再次误判乐队",
+          "headline": "AI歌词工具\n或可扩大长尾版税",
+          "body": "LyricFind认为，AI歌词转录、同步与翻译可扩大9.6M 首长尾歌曲的版税。",
+          "mini_headline": "面向长尾的AI歌词",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
               },
               {
                 "t": "p",
-                "x": "盯鞋乐队SLEEP CLUB即将发行的首张专辑《Dweller》中的最新单曲《Weight Of Ease》，似乎被Spotify误判为使用了AI。此前，该乐队的全部作品曾被标记，后来由Spotify解决。"
+                "x": "LyricFind创始人兼CEO Darryl Ballantyne在一篇评论文章中指出，生成式AI需要授权、透明度和防护机制，但应用于歌词、版权数据和元数据的AI能帮助现有作品获得更多收入。"
               },
               {
                 "t": "p",
-                "x": "“这是我们连续两次发行中第二次遇到这种情况，最新单曲《Weight of Ease》被Spotify的AI-driven（AI驱动）内部系统标记为‘不符合推荐条件’，”Matt Jones说。他指出，算法推荐约占普通艺人播放量的50-70%。此前恢复作品目录花了约5周。"
+                "x": "歌词版税按使用量计算，歌词缺失意味着展示次数减少，版权方收入也随之减少。人工转录、同步和翻译设定了盈亏平衡点，限制了业界深入挖掘曲库的程度。"
               },
-              {
-                "t": "p",
-                "x": "“讽刺的是，这张讲述AI侵入我们生活方方面面的专辑，一再被AI系统错误标记，”他补充道。乐队后来表示，第一次标记源于乐队名中的“sleep”一词；Spotify尚未解释此次标记的原因。"
-              },
-              {
-                "t": "video",
-                "yt": "kfolpGoqW10"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El sistema de IA de Spotify\nvuelve a marcar a SLEEP CLUB",
-          "body": "El sistema de IA de Spotify volvió a marcar el nuevo sencillo de SLEEP CLUB como no apto para recomendación.",
-          "mini_headline": "La IA de Spotify vuelve a marcar a una banda",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp"
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
               },
               {
                 "t": "p",
-                "x": "El último sencillo del grupo de shoegaze SLEEP CLUB, \"Weight Of Ease\", de su próximo álbum debut \"Dweller\", habría sido marcado por error por Spotify por uso de IA. Antes, todo el catálogo de la banda había sido marcado hasta que Spotify lo resolvió."
+                "x": "据Luminate统计，2025年有9.6M 首歌曲的播放量在10,000至500,000次之间，占全球播放总量的13%以上。LyricFind先用AI完成初步转录，再进行逐词同步和翻译，全程由人工核验。"
               },
               {
                 "t": "p",
-                "x": "\"Por segunda vez en dos lanzamientos, nuestro nuevo sencillo 'Weight of Ease' ha sido marcado por el sistema interno AI-driven (impulsado por IA) de Spotify como 'no apto para recomendación'\", dijo Matt Jones, quien señaló que el apoyo algorítmico representa aproximadamente el 50-70% de las reproducciones de un artista promedio. Restaurar el catálogo llevó unas 5 semanas."
-              },
-              {
-                "t": "p",
-                "x": "\"Es irónico que este álbum, que trata sobre la intrusión de la IA en todos los aspectos de nuestras vidas, siga siendo marcado por error por sistemas de IA\", añadió. La banda dijo después que la primera marca se debió a la palabra \"sleep\" en su nombre; Spotify no ha explicado la actual."
-              },
-              {
-                "t": "video",
-                "yt": "kfolpGoqW10"
+                "x": "他表示，若员工效率提高三四倍，可行的内容量将增长约700%，因此将人工团队扩大一倍是合理的。即便是准确率99%的系统，处理1亿条歌词也会留下百万个错误。"
               }
             ]
           }
@@ -1154,195 +1371,165 @@
       }
     },
     {
-      "id": "agentcore",
+      "id": "suno-v6-take-me-back-video",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AWS, 에이전트 3개로\n음악 제작 파이프라인",
-      "body": "AWS는 세 에이전트가 GPU 인스턴스 하나를 공유하는 구조를 소개했다.",
-      "mini_headline": "AWS 에이전트로 짠 음악 파이프라인",
+      "headline": "춤에서 Suno v6\n노래와 뮤직비디오로",
+      "body": "Browner·McNeely가 춤을 Suno v6 곡과 뮤직비디오로 만든다.",
+      "mini_headline": "춤에서 Suno v6 뮤비까지",
       "tool": "Music",
-      "source": "AWS Machine Learning Blog",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
-      "accent": "#f5a623",
+      "source": "Suno (YouTube)",
+      "url": "https://www.youtube.com/watch?v=1OITvfAN6-g",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+            "t": "video",
+            "yt": "1OITvfAN6-g"
           },
           {
             "t": "p",
-            "x": "AWS가 Amazon Bedrock AgentCore Runtime Instances에 음악 제작 파이프라인을 배포하는 과정을 소개했다. 관리형 EC2 인프라로, 며칠씩 이어지는 세션과 GPUs, 영구 볼륨을 지원하고 여러 에이전트를 한 곳에 함께 배치할 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-            "cap": "GPU 인스턴스와 세션 하나를 공유하는 세 에이전트 파이프라인(Compose, Deliver, Screen)"
+            "x": "Braylon Browner와 Emmy 수상 안무가 겸 감독 Nina McNeely의 비하인드 장면을 따라가며, 춤이 노래가 되고 다시 움직임 중심의 온전한 창작 세계로 커지기까지 무엇이 필요한지 들여다본다."
           },
           {
             "t": "p",
-            "x": "작곡 에이전트는 Claude Sonnet 4.6으로 프로듀서의 요청을 브리프로 정리한 뒤 인스턴스의 NVIDIA L4에서 오픈소스 ACE-Step 모델로 오디오를 렌더링한다. 48 kHz 스테레오 20초 분량이면 약 9초 걸린다. 납품 에이전트는 .wav를 측정해 EQ, 컴프레션, 리미팅 체인을 건다. 컴플라이언스 에이전트가 이를 다시 측정하고 스튜디오의 기존 카탈로그와 대조한다. 일치 항목이 나오면 교체를 요청한다."
+            "x": "Browner는 \"작업하면서 바로 음악을 편집할 수 있다는 게 놀랍다\"며, 그 덕에 춤과 음악이 \"정말로 만나 완벽한 조화를 이룬다\"고 말한다. McNeely는 Suno가 \"안무가들에게 우리 안무 아이디어에 맞춰 곡을 바꿀 수 있는 힘을 되돌려 주고 있다\"고 덧붙인다."
           },
           {
             "t": "p",
-            "x": "같은 세션 ID로 부른 에이전트는 인스턴스 하나와 파일 시스템 하나를 함께 쓴다. 세션은 최대 14일까지 유지된다."
+            "x": "전체 뮤직비디오는 suno.com/braylon에서 볼 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AWS maps a three-agent\nmusic production pipeline",
-          "body": "AWS shows composition, delivery and compliance agents handing off a track while sharing one GPU instance and filesystem.",
-          "mini_headline": "AWS agents build a music pipeline",
+          "headline": "From a dance to a Suno v6\nsong and music video",
+          "body": "Braylon Browner and Nina McNeely turn a dance into a Suno v6 song, then a music video built around movement.",
+          "mini_headline": "Dance to Suno v6 video",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+                "t": "video",
+                "yt": "1OITvfAN6-g"
               },
               {
                 "t": "p",
-                "x": "AWS walks through deploying a music production pipeline on Amazon Bedrock AgentCore Runtime Instances, managed EC2 infrastructure that adds multi-day sessions, GPUs, persistent volumes and colocation of multiple agents."
-              },
-              {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-                "cap": "The three-agent pipeline (Compose, Deliver, Screen) sharing one GPU instance and session"
+                "x": "Go behind the scenes with Braylon Browner and Emmy award winning choreographer/director Nina McNeely to see what it takes to go from dance, to song, to complete creative world built around movement."
               },
               {
                 "t": "p",
-                "x": "A composition agent turns a producer's request into a brief with Claude Sonnet 4.6 and renders audio with the open-source ACE-Step model on the instance's NVIDIA L4 — 20 seconds of 48 kHz stereo in about 9 seconds. A delivery agent measures the .wav and applies an EQ, compression and limiting chain; a compliance agent re-measures it and screens it against the studio's back catalog, asking for a replacement if it flags a match."
+                "x": "\"It's amazing to be able to edit the music as you go,\" Browner says, so that dance and music \"really meet together and work perfectly in harmony.\" McNeely adds that Suno \"is giving the choreographers the power back to change the song to match our choreographic ideas.\""
               },
               {
                 "t": "p",
-                "x": "Invoked with the same session ID, the agents share one instance and filesystem, and sessions can persist for up to 14 days."
+                "x": "Watch the complete music video at suno.com/braylon"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AWS, 에이전트 3개로\n음악 제작 파이프라인",
-          "body": "AWS는 세 에이전트가 GPU 인스턴스 하나를 공유하는 구조를 소개했다.",
-          "mini_headline": "AWS 에이전트로 짠 음악 파이프라인",
+          "headline": "춤에서 Suno v6\n노래와 뮤직비디오로",
+          "body": "Browner·McNeely가 춤을 Suno v6 곡과 뮤직비디오로 만든다.",
+          "mini_headline": "춤에서 Suno v6 뮤비까지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+                "t": "video",
+                "yt": "1OITvfAN6-g"
               },
               {
                 "t": "p",
-                "x": "AWS가 Amazon Bedrock AgentCore Runtime Instances에 음악 제작 파이프라인을 배포하는 과정을 소개했다. 관리형 EC2 인프라로, 며칠씩 이어지는 세션과 GPUs, 영구 볼륨을 지원하고 여러 에이전트를 한 곳에 함께 배치할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-                "cap": "GPU 인스턴스와 세션 하나를 공유하는 세 에이전트 파이프라인(Compose, Deliver, Screen)"
+                "x": "Braylon Browner와 Emmy 수상 안무가 겸 감독 Nina McNeely의 비하인드 장면을 따라가며, 춤이 노래가 되고 다시 움직임 중심의 온전한 창작 세계로 커지기까지 무엇이 필요한지 들여다본다."
               },
               {
                 "t": "p",
-                "x": "작곡 에이전트는 Claude Sonnet 4.6으로 프로듀서의 요청을 브리프로 정리한 뒤 인스턴스의 NVIDIA L4에서 오픈소스 ACE-Step 모델로 오디오를 렌더링한다. 48 kHz 스테레오 20초 분량이면 약 9초 걸린다. 납품 에이전트는 .wav를 측정해 EQ, 컴프레션, 리미팅 체인을 건다. 컴플라이언스 에이전트가 이를 다시 측정하고 스튜디오의 기존 카탈로그와 대조한다. 일치 항목이 나오면 교체를 요청한다."
+                "x": "Browner는 \"작업하면서 바로 음악을 편집할 수 있다는 게 놀랍다\"며, 그 덕에 춤과 음악이 \"정말로 만나 완벽한 조화를 이룬다\"고 말한다. McNeely는 Suno가 \"안무가들에게 우리 안무 아이디어에 맞춰 곡을 바꿀 수 있는 힘을 되돌려 주고 있다\"고 덧붙인다."
               },
               {
                 "t": "p",
-                "x": "같은 세션 ID로 부른 에이전트는 인스턴스 하나와 파일 시스템 하나를 함께 쓴다. 세션은 최대 14일까지 유지된다."
+                "x": "전체 뮤직비디오는 suno.com/braylon에서 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AWS、3エージェントの\n音楽制作パイプライン",
-          "body": "AWSは作曲・納品・審査の3エージェントが1つのGPUインスタンスを共有する構成を示した。",
-          "mini_headline": "AWSのエージェントが音楽パイプラインを構築",
+          "headline": "ダンスからSuno v6の\n曲とミュージックビデオへ",
+          "body": "BrownerとMcNeelyがダンスをSuno v6の曲とミュージックビデオに仕立てる。",
+          "mini_headline": "ダンスからSuno v6のMVへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+                "t": "video",
+                "yt": "1OITvfAN6-g"
               },
               {
                 "t": "p",
-                "x": "AWSは、Amazon Bedrock AgentCore Runtime Instances上に音楽制作パイプラインをデプロイする手順を解説した。これはマネージドなEC2インフラで、複数日にわたるセッション、GPUs、永続ボリューム、複数エージェントの同居配置を可能にする。"
-              },
-              {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-                "cap": "1つのGPUインスタンスとセッションを共有する3エージェントのパイプライン(Compose、Deliver、Screen)"
+                "x": "Braylon Brownerと、Emmy賞を受賞した振付師/監督のNina McNeelyの舞台裏に密着し、ダンスから曲へ、さらに動きを軸にした完全な創作世界へと至るまでに何が必要かを探る。"
               },
               {
                 "t": "p",
-                "x": "作曲エージェントは、プロデューサーの依頼をClaude Sonnet 4.6でブリーフに変換し、インスタンスのNVIDIA L4上でオープンソースのACE-Stepモデルを使って音声をレンダリングする。48 kHzステレオ20秒分を約9秒で生成する。納品エージェントは.wavを測定し、EQ、コンプレッション、リミッティングのチェーンを適用する。コンプライアンスエージェントはそれを再測定してスタジオの過去カタログと照合し、一致が検出されれば差し替えを求める。"
+                "x": "「作りながら音楽を編集できるのは本当にすごい」とBrownerは言い、それによってダンスと音楽が「しっかり出会い、完璧に調和する」と語る。McNeelyは、Sunoが「振付師に、自分たちの振付のアイデアに合わせて曲を変える力を取り戻させてくれている」と付け加える。"
               },
               {
                 "t": "p",
-                "x": "同じセッションIDで呼び出されたエージェントは1つのインスタンスとファイルシステムを共有し、セッションは最長14日間持続できる。"
+                "x": "ミュージックビデオの全編はsuno.com/braylonで視聴できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AWS展示三智能体\n音乐制作流水线",
-          "body": "AWS展示了作曲、交付和合规三个智能体共享一台GPU实例协作的方案。",
-          "mini_headline": "AWS智能体搭建音乐流水线",
+          "headline": "从舞蹈到Suno v6\n歌曲与音乐视频",
+          "body": "Browner与McNeely把舞蹈变成Suno v6歌曲，再拍成围绕动作的音乐视频。",
+          "mini_headline": "从舞蹈到Suno v6视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+                "t": "video",
+                "yt": "1OITvfAN6-g"
               },
               {
                 "t": "p",
-                "x": "AWS介绍了如何在Amazon Bedrock AgentCore Runtime Instances上部署音乐制作流水线。这是一种托管式EC2基础设施，支持多日会话、GPUs、持久化卷以及多个智能体同机部署。"
-              },
-              {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-                "cap": "共享一台GPU实例和同一会话的三智能体流水线（Compose、Deliver、Screen）"
+                "x": "跟随Braylon Browner与Emmy奖得主、编舞/导演Nina McNeely走进幕后，看看从舞蹈到歌曲，再到围绕动作构建的完整创作世界，需要付出什么。"
               },
               {
                 "t": "p",
-                "x": "作曲智能体借助Claude Sonnet 4.6将制作人的需求转化为创作简报，并在实例的NVIDIA L4上用开源ACE-Step模型渲染音频——约9秒即可生成20秒48 kHz立体声。交付智能体对.wav进行测量，并施加EQ、压缩和限幅处理链；合规智能体再次测量，并将其与工作室的过往曲库比对，如发现匹配则要求替换。"
+                "x": "“能够边做边编辑音乐，真是太棒了，”Browner说，这样舞蹈和音乐就能“真正交汇，完美和谐地配合”。McNeely补充说，Suno“正在把权力交还给编舞者，让我们能根据自己的编舞构想修改歌曲”。"
               },
               {
                 "t": "p",
-                "x": "使用同一会话ID调用的智能体共享一个实例和文件系统，会话最长可持续14天。"
+                "x": "完整音乐视频请见suno.com/braylon"
               }
             ]
           }
         },
         "es": {
-          "headline": "AWS describe una cadena de\nproducción musical con 3 agentes",
-          "body": "AWS muestra agentes de composición, entrega y cumplimiento que comparten una instancia GPU y un sistema de archivos.",
-          "mini_headline": "Agentes de AWS arman una cadena musical",
+          "headline": "De un baile a una canción\ny un videoclip con Suno v6",
+          "body": "Braylon Browner y Nina McNeely llevan un baile a una canción de Suno v6 y a un videoclip centrado en el movimiento.",
+          "mini_headline": "Del baile a un videoclip con Suno v6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+                "t": "video",
+                "yt": "1OITvfAN6-g"
               },
               {
                 "t": "p",
-                "x": "AWS explica cómo desplegar una cadena de producción musical en Amazon Bedrock AgentCore Runtime Instances, una infraestructura EC2 gestionada que añade sesiones de varios días, GPUs, volúmenes persistentes y la ubicación conjunta de varios agentes."
-              },
-              {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-                "cap": "La cadena de tres agentes (Compose, Deliver, Screen) que comparte una instancia GPU y una sesión"
+                "x": "Un vistazo entre bastidores con Braylon Browner y la coreógrafa/directora ganadora de un Emmy Nina McNeely para ver qué hace falta para pasar del baile a la canción y a un mundo creativo completo construido en torno al movimiento."
               },
               {
                 "t": "p",
-                "x": "Un agente de composición convierte la solicitud de un productor en un brief con Claude Sonnet 4.6 y genera el audio con el modelo de código abierto ACE-Step en la NVIDIA L4 de la instancia: 20 segundos de estéreo a 48 kHz en unos 9 segundos. Un agente de entrega mide el .wav y aplica una cadena de EQ, compresión y limitación; un agente de cumplimiento vuelve a medirlo y lo contrasta con el catálogo anterior del estudio, y pide un reemplazo si detecta una coincidencia."
+                "x": "\"Es increíble poder editar la música sobre la marcha\", dice Browner, para que el baile y la música \"de verdad se encuentren y funcionen en perfecta armonía\". McNeely añade que Suno \"está devolviendo a los coreógrafos el poder de cambiar la canción para que se ajuste a nuestras ideas coreográficas\"."
               },
               {
                 "t": "p",
-                "x": "Invocados con el mismo ID de sesión, los agentes comparten una instancia y un sistema de archivos, y las sesiones pueden durar hasta 14 días."
+                "x": "El videoclip completo puede verse en suno.com/braylon"
               }
             ]
           }
@@ -1350,125 +1537,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AWS, 에이전트 3개로\n음악 제작 파이프라인",
-          "body": "AWS는 세 에이전트가 GPU 인스턴스 하나를 공유하는 구조를 소개했다.",
-          "mini_headline": "AWS 에이전트로 짠 음악 파이프라인",
+          "headline": "춤에서 Suno v6\n노래와 뮤직비디오로",
+          "body": "Browner·McNeely가 춤을 Suno v6 곡과 뮤직비디오로 만든다.",
+          "mini_headline": "춤에서 Suno v6 뮤비까지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+                "t": "video",
+                "yt": "1OITvfAN6-g"
               },
               {
                 "t": "p",
-                "x": "AWS가 Amazon Bedrock AgentCore Runtime Instances에 음악 제작 파이프라인을 배포하는 과정을 소개했다. 이 관리형 EC2 인프라는 여러 날에 걸친 세션, GPUs, 영구 볼륨, 여러 에이전트의 동일 위치 배치를 지원한다."
-              },
-              {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-                "cap": "GPU 인스턴스와 세션 하나를 공유하는 세 에이전트 파이프라인(Compose, Deliver, Screen)"
+                "x": "Braylon Browner와 Emmy 수상 안무가/감독 Nina McNeely의 비하인드 장면을 통해 춤에서 노래로, 다시 움직임을 중심으로 한 완전한 창작 세계로 나아가는 데 무엇이 필요한지 살펴본다."
               },
               {
                 "t": "p",
-                "x": "작곡 에이전트는 Claude Sonnet 4.6으로 프로듀서의 요청을 브리프로 바꾸고, 인스턴스의 NVIDIA L4에서 오픈소스 ACE-Step 모델로 오디오를 렌더링한다. 48 kHz 스테레오 20초 분량을 약 9초 만에 만든다. 납품 에이전트는 .wav를 측정해 EQ, 컴프레션, 리미팅 체인을 적용한다. 컴플라이언스 에이전트는 이를 다시 측정하고 스튜디오의 기존 카탈로그와 대조해, 일치 항목이 나오면 교체를 요청한다."
+                "x": "Browner는 \"작업하면서 바로 음악을 편집할 수 있다는 게 놀랍다\"며, 덕분에 춤과 음악이 \"정말로 만나 완벽한 조화를 이룬다\"고 말한다. McNeely는 Suno가 \"안무가들에게 우리 안무 아이디어에 맞춰 곡을 바꿀 수 있는 힘을 되돌려 주고 있다\"고 덧붙인다."
               },
               {
                 "t": "p",
-                "x": "같은 세션 ID로 호출한 에이전트들은 인스턴스와 파일 시스템 하나를 공유하며, 세션은 최대 14일까지 유지할 수 있다."
+                "x": "전체 뮤직비디오는 suno.com/braylon에서 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AWS、3エージェントの\n音楽制作パイプライン",
-          "body": "AWSは作曲・納品・審査の3エージェントが1つのGPUインスタンスを共有する構成を示した。",
-          "mini_headline": "AWSのエージェントが音楽パイプラインを構築",
+          "headline": "ダンスからSuno v6の\n曲とミュージックビデオへ",
+          "body": "BrownerとMcNeelyがダンスをSuno v6の曲とミュージックビデオに仕立てる。",
+          "mini_headline": "ダンスからSuno v6のMVへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+                "t": "video",
+                "yt": "1OITvfAN6-g"
               },
               {
                 "t": "p",
-                "x": "AWSは、Amazon Bedrock AgentCore Runtime Instances上に音楽制作パイプラインをデプロイする手順を解説した。これはマネージドなEC2インフラで、複数日にわたるセッション、GPUs、永続ボリューム、複数エージェントの同居配置を可能にする。"
-              },
-              {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-                "cap": "1つのGPUインスタンスとセッションを共有する3エージェントのパイプライン(Compose、Deliver、Screen)"
+                "x": "Braylon Brownerと、Emmy賞を受賞した振付師/監督のNina McNeelyの舞台裏に密着し、ダンスから曲へ、さらに動きを軸にした完全な創作世界へと至るまでに何が必要かを探る。"
               },
               {
                 "t": "p",
-                "x": "作曲エージェントは、プロデューサーの依頼をClaude Sonnet 4.6でブリーフに変換し、インスタンスのNVIDIA L4上でオープンソースのACE-Stepモデルを使って音声をレンダリングする。48 kHzステレオ20秒分を約9秒で生成する。納品エージェントは.wavを測定し、EQ、コンプレッション、リミッティングのチェーンを適用する。コンプライアンスエージェントはそれを再測定してスタジオの過去カタログと照合し、一致が検出されれば差し替えを求める。"
+                "x": "「作りながら音楽を編集できるのは本当にすごい」とBrownerは言い、それによってダンスと音楽が「しっかり出会い、完璧に調和する」と語る。McNeelyは、Sunoが「振付師に、自分たちの振付のアイデアに合わせて曲を変える力を取り戻させてくれている」と付け加える。"
               },
               {
                 "t": "p",
-                "x": "同じセッションIDで呼び出されたエージェントは1つのインスタンスとファイルシステムを共有し、セッションは最長14日間持続できる。"
+                "x": "ミュージックビデオの全編はsuno.com/braylonで視聴できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AWS展示三智能体\n音乐制作流水线",
-          "body": "AWS展示了作曲、交付和合规三个智能体共享一台GPU实例协作的方案。",
-          "mini_headline": "AWS智能体搭建音乐流水线",
+          "headline": "从舞蹈到Suno v6\n歌曲与音乐视频",
+          "body": "Browner与McNeely把舞蹈变成Suno v6歌曲，再拍成围绕动作的音乐视频。",
+          "mini_headline": "从舞蹈到Suno v6视频",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+                "t": "video",
+                "yt": "1OITvfAN6-g"
               },
               {
                 "t": "p",
-                "x": "AWS介绍了如何在Amazon Bedrock AgentCore Runtime Instances上部署音乐制作流水线。这是一种托管式EC2基础设施，支持多日会话、GPUs、持久化卷以及多个智能体同机部署。"
-              },
-              {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-                "cap": "共享一台GPU实例和同一会话的三智能体流水线（Compose、Deliver、Screen）"
+                "x": "跟随Braylon Browner与Emmy奖得主、编舞/导演Nina McNeely走进幕后，看看从舞蹈到歌曲，再到围绕动作构建的完整创作世界，需要付出什么。"
               },
               {
                 "t": "p",
-                "x": "作曲智能体借助Claude Sonnet 4.6将制作人的需求转化为创作简报，并在实例的NVIDIA L4上用开源ACE-Step模型渲染音频——约9秒即可生成20秒48 kHz立体声。交付智能体对.wav进行测量，并施加EQ、压缩和限幅处理链；合规智能体再次测量，并将其与工作室的过往曲库比对，如发现匹配则要求替换。"
+                "x": "“能够边做边编辑音乐，真是太棒了，”Browner说，这样舞蹈和音乐就能“真正交汇，完美和谐地配合”。McNeely补充说，Suno“正在把权力交还给编舞者，让我们能根据自己的编舞构想修改歌曲”。"
               },
               {
                 "t": "p",
-                "x": "使用同一会话ID调用的智能体共享一个实例和文件系统，会话最长可持续14天。"
+                "x": "完整音乐视频请见suno.com/braylon"
               }
             ]
           }
         },
         "es": {
-          "headline": "AWS describe una cadena de\nproducción musical con 3 agentes",
-          "body": "AWS muestra agentes de composición, entrega y cumplimiento que comparten una instancia GPU y un sistema de archivos.",
-          "mini_headline": "Agentes de AWS arman una cadena musical",
+          "headline": "De un baile a una canción\ny un videoclip con Suno v6",
+          "body": "Braylon Browner y Nina McNeely llevan un baile a una canción de Suno v6 y a un videoclip centrado en el movimiento.",
+          "mini_headline": "Del baile a un videoclip con Suno v6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png"
+                "t": "video",
+                "yt": "1OITvfAN6-g"
               },
               {
                 "t": "p",
-                "x": "AWS explica cómo desplegar una cadena de producción musical en Amazon Bedrock AgentCore Runtime Instances, una infraestructura EC2 gestionada que añade sesiones de varios días, GPUs, volúmenes persistentes y la ubicación conjunta de varios agentes."
-              },
-              {
-                "t": "img",
-                "src": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-1.png",
-                "cap": "La cadena de tres agentes (Compose, Deliver, Screen) que comparte una instancia GPU y una sesión"
+                "x": "Un vistazo entre bastidores con Braylon Browner y la coreógrafa/directora ganadora de un Emmy Nina McNeely para ver qué hace falta para pasar del baile a la canción y a un mundo creativo completo construido en torno al movimiento."
               },
               {
                 "t": "p",
-                "x": "Un agente de composición convierte la solicitud de un productor en un brief con Claude Sonnet 4.6 y genera el audio con el modelo de código abierto ACE-Step en la NVIDIA L4 de la instancia: 20 segundos de estéreo a 48 kHz en unos 9 segundos. Un agente de entrega mide el .wav y aplica una cadena de EQ, compresión y limitación; un agente de cumplimiento vuelve a medirlo y lo contrasta con el catálogo anterior del estudio, y pide un reemplazo si detecta una coincidencia."
+                "x": "\"Es increíble poder editar la música sobre la marcha\", dice Browner, para que el baile y la música \"de verdad se encuentren y funcionen en perfecta armonía\". McNeely añade que Suno \"está devolviendo a los coreógrafos el poder de cambiar la canción para que se ajuste a nuestras ideas coreográficas\"."
               },
               {
                 "t": "p",
-                "x": "Invocados con el mismo ID de sesión, los agentes comparten una instancia y un sistema de archivos, y las sesiones pueden durar hasta 14 días."
+                "x": "El videoclip completo puede verse en suno.com/braylon"
               }
             ]
           }

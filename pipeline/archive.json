@@ -75904,6 +75904,1484 @@
    "date": "2026-10-02",
    "section": "science",
    "has_full": true
+  },
+  {
+   "id": "elevenlabs-spoken-audiobooks",
+   "headline": "AI 기업들\n오디오북 시장 겨냥",
+   "body": "ElevenLabs와 Spoken이 fast-growing 오디오북 시장을 노린다.",
+   "tool": "Books",
+   "source": "Marketplace",
+   "url": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry",
+   "accent": "#7928ca",
+   "motif": "swatch",
+   "image": "pipeline/media/elevenlabs-spoken-audiobooks.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "AI companies set sights\non the audiobook market",
+     "body": "ElevenLabs and Spoken are angling for the fast-growing audiobook market, though consumer demand remains unproven."
+    },
+    "ko": {
+     "headline": "AI 기업들\n오디오북 시장 겨냥",
+     "body": "ElevenLabs와 Spoken이 fast-growing 오디오북 시장을 노린다."
+    },
+    "ja": {
+     "headline": "AI企業が狙う\nオーディオブック市場",
+     "body": "ElevenLabsとSpokenがfast-growingなオーディオブック市場を狙う。"
+    },
+    "zh": {
+     "headline": "AI公司瞄准\n有声书市场",
+     "body": "ElevenLabs和Spoken瞄准fast-growing的有声书市场，但需求未获验证。"
+    },
+    "es": {
+     "headline": "Empresas de AI ponen la mira\nen el mercado de audiolibros",
+     "body": "ElevenLabs y Spoken apuntan al fast-growing mercado de audiolibros, aunque la demanda sigue sin demostrarse."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "garmus-ai-hubris-essay",
+   "headline": "Bonnie Garmus:\nAI가 드러낸 인간의 오만",
+   "body": "소설가 Bonnie Garmus는 AI가 인간의 오만까지 드러냈다고 본다.",
+   "tool": "Books",
+   "source": "The Bookseller",
+   "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad",
+   "accent": "#2ec5c5",
+   "motif": "swatch",
+   "image": "pipeline/media/garmus-ai-hubris-essay.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Bonnie Garmus: AI exposes\nthe hubris of humankind",
+     "body": "Novelist Bonnie Garmus argues that while AI alarms most writers, it has also exposed the hubris of humankind."
+    },
+    "ko": {
+     "headline": "Bonnie Garmus:\nAI가 드러낸 인간의 오만",
+     "body": "소설가 Bonnie Garmus는 AI가 인간의 오만까지 드러냈다고 본다."
+    },
+    "ja": {
+     "headline": "Bonnie Garmus:\nAIが暴く人類の傲慢",
+     "body": "小説家Bonnie Garmusは、AIが人類の傲慢さも浮き彫りにしたと論じる。"
+    },
+    "zh": {
+     "headline": "Bonnie Garmus：\nAI暴露人类的傲慢",
+     "body": "小说家Bonnie Garmus认为，AI虽令多数作家不安，却也暴露了人类的傲慢。"
+    },
+    "es": {
+     "headline": "Bonnie Garmus: la AI expone\nla soberbia de la humanidad",
+     "body": "Para la novelista Bonnie Garmus, la AI alarma a la mayoría de los escritores, pero también expone la soberbia humana."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "openai-book-market-study-exclude",
+   "headline": "OpenAI가 배제 요청한\nmarket-harm 연구",
+   "body": "OpenAI가 로펌 자금과 얽혔다며 AI 도서 시장 피해 연구 배제를 요청했다.",
+   "tool": "Books",
+   "source": "Jane Friedman",
+   "url": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/",
+   "accent": "#0070f3",
+   "motif": "swatch",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "OpenAI seeks to exclude\nbook market-harm study",
+     "body": "OpenAI seeks to exclude a study claiming AI harms the book market, citing its funding ties to the authors' law firm."
+    },
+    "ko": {
+     "headline": "OpenAI가 배제 요청한\nmarket-harm 연구",
+     "body": "OpenAI가 로펌 자금과 얽혔다며 AI 도서 시장 피해 연구 배제를 요청했다."
+    },
+    "ja": {
+     "headline": "OpenAI、排除を要求\nmarket-harm研究",
+     "body": "OpenAIは作家側事務所との資金関係を理由に、AIの書籍市場被害研究の排除を求める。"
+    },
+    "zh": {
+     "headline": "OpenAI请求排除\nmarket-harm研究",
+     "body": "OpenAI以与作者律所存在资金关联为由，请求排除一项称AI损害图书市场的研究。"
+    },
+    "es": {
+     "headline": "OpenAI pide excluir un estudio\nsobre market-harm en libros",
+     "body": "OpenAI pide excluir un estudio sobre el daño de la AI al mercado del libro por vínculos con el bufete de los autores."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "savo-directive-detectives-ai-art",
+   "headline": "Claremont 작가\n신간 AI 삽화 논란",
+   "body": "Giulio Savo AI-illustrated 책이 Claremont서 비판받다.",
+   "tool": "Books",
+   "source": "Valley News",
+   "url": "https://vnews.com/2026/10/02/ai-book-controversy-claremont/",
+   "accent": "#f5a623",
+   "motif": "swatch",
+   "image": "pipeline/media/savo-directive-detectives-ai-art.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Claremont author criticized\nover AI art in new book",
+     "body": "Giulio Savo's AI-illustrated book, given free to Claremont families, drew criticism over historical errors."
+    },
+    "ko": {
+     "headline": "Claremont 작가\n신간 AI 삽화 논란",
+     "body": "Giulio Savo AI-illustrated 책이 Claremont서 비판받다."
+    },
+    "ja": {
+     "headline": "Claremontの作家\n新刊のAI挿絵に批判",
+     "body": "Giulio SavoのAI-illustrated本がClaremontで批判を浴びた。"
+    },
+    "zh": {
+     "headline": "Claremont作家\n新书AI插图遭批评",
+     "body": "Giulio Savo的AI-illustrated书在Claremont因史实错误受批评。"
+    },
+    "es": {
+     "headline": "Autor de Claremont, criticado\npor el arte con AI de su libro",
+     "body": "El libro AI-illustrated de Giulio Savo, regalado a familias de Claremont, recibió críticas por errores históricos."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "sudowrite-chat-rewrite-printing",
+   "headline": "Sudowrite Chat\n속도 두 배, 원고 인쇄도",
+   "body": "Sudowrite Chat이 두 배 빨라졌고 Rewrite 개선과 인쇄도 더해졌다.",
+   "tool": "Books",
+   "source": "Sudowrite",
+   "url": "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing",
+   "accent": "#eb367f",
+   "motif": "swatch",
+   "image": "pipeline/media/sudowrite-chat-rewrite-printing.png",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Sudowrite doubles Chat speed\nand adds manuscript printing",
+     "body": "Sudowrite's Chat responds twice as fast, alongside an improved Rewrite tool and new printing support for manuscripts."
+    },
+    "ko": {
+     "headline": "Sudowrite Chat\n속도 두 배, 원고 인쇄도",
+     "body": "Sudowrite Chat이 두 배 빨라졌고 Rewrite 개선과 인쇄도 더해졌다."
+    },
+    "ja": {
+     "headline": "Sudowrite Chat\n速度倍増、原稿印刷も",
+     "body": "Sudowrite Chatが倍速になり、Rewriteも改善、原稿印刷にも対応した。"
+    },
+    "zh": {
+     "headline": "Sudowrite Chat\n提速一倍并支持打印稿件",
+     "body": "Sudowrite的Chat响应速度翻倍，Rewrite工具获改进，并新增稿件打印功能。"
+    },
+    "es": {
+     "headline": "Sudowrite acelera Chat al doble\ny permite imprimir manuscritos",
+     "body": "El Chat de Sudowrite responde el doble de rápido, con un Rewrite mejorado y nueva opción de imprimir manuscritos."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "books",
+   "has_full": true
+  },
+  {
+   "id": "bfl-flux3-image",
+   "headline": "Flux 3 Image\n나머지는 두고 편집",
+   "body": "Flux 3 Image는 나머지를 그대로 두고 최대 4K 해상도로 단계별 편집한다.",
+   "tool": "KeyShot",
+   "source": "The Decoder",
+   "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "image": "pipeline/media/bfl-flux3-image.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Flux 3 Image edits in steps\nand leaves the rest alone",
+     "body": "Black Forest Labs says Flux 3 Image makes multi-step edits without touching the rest of a picture, at up to 4K."
+    },
+    "zh": {
+     "headline": "Flux 3 Image\n分步编辑，其余不动",
+     "body": "Black Forest Labs称Flux 3 Image可分步局部编辑，最高4K。"
+    },
+    "es": {
+     "headline": "Flux 3 Image edita por pasos\ny deja intacto el resto",
+     "body": "Black Forest Labs afirma que Flux 3 Image hace ediciones en varios pasos sin tocar el resto de la imagen, hasta 4K."
+    },
+    "ko": {
+     "headline": "Flux 3 Image\n나머지는 두고 편집",
+     "body": "Flux 3 Image는 나머지를 그대로 두고 최대 4K 해상도로 단계별 편집한다."
+    },
+    "ja": {
+     "headline": "Flux 3 Imageは\n他を変えず段階編集",
+     "body": "Flux 3 Imageは他の部分を変えずに段階的に編集でき、最大 4K で出力する。"
+    }
+   },
+   "date": "2026-10-03",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "classcad-ai-mcp",
+   "headline": "ClassCAD.ai,\nAI 에이전트에 CAD",
+   "body": "ClassCAD.ai가 Claude·Codex용 CAD 모델링 MCP로 출시됐다.",
+   "tool": "Text-to-CAD",
+   "source": "DEVELOP3D",
+   "url": "https://develop3d.com/ai/classcad-ai-cad-mcp/",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "image": "pipeline/media/classcad-ai-mcp.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "ClassCAD.ai brings CAD\nmodeling to AI agents",
+     "body": "ClassCAD.ai launches as an embeddable AI CAD, a self-contained MCP that builds CAD models inside Claude or Codex."
+    },
+    "ko": {
+     "headline": "ClassCAD.ai,\nAI 에이전트에 CAD",
+     "body": "ClassCAD.ai가 Claude·Codex용 CAD 모델링 MCP로 출시됐다."
+    },
+    "ja": {
+     "headline": "ClassCAD.ai、\nAIエージェントにCAD",
+     "body": "ClassCAD.aiはClaudeやCodexでCADモデルを作るMCPとして登場した。"
+    },
+    "zh": {
+     "headline": "ClassCAD.ai：\n让AI智能体做CAD建模",
+     "body": "ClassCAD.ai作为独立MCP上线，可在Claude或Codex中构建CAD模型。"
+    },
+    "es": {
+     "headline": "ClassCAD.ai lleva el CAD\na los agentes de AI",
+     "body": "ClassCAD.ai se lanza como un CAD con AI integrable, un MCP autónomo que crea modelos CAD dentro de Claude o Codex."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "doherty-threshold-ai-ux",
+   "headline": "느린 AI의 해법은 디자인\n더 싼 추론이 아니다",
+   "body": "Doherty 임계값은 답변이 아닌 확인에 걸리니 체감 속도는 프런트엔드 몫이다.",
+   "tool": "Figma",
+   "source": "UX Collective",
+   "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "image": "pipeline/media/doherty-threshold-ai-ux.png",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Fix slow AI with design,\nnot cheaper inference",
+     "body": "Doherty's threshold now applies to the acknowledgment, not the answer, so perceived speed is front-end work."
+    },
+    "ko": {
+     "headline": "느린 AI의 해법은 디자인\n더 싼 추론이 아니다",
+     "body": "Doherty 임계값은 답변이 아닌 확인에 걸리니 체감 속도는 프런트엔드 몫이다."
+    },
+    "ja": {
+     "headline": "遅いAIは設計で直す\n安い推論ではなく",
+     "body": "Doherty閾値は今や回答ではなく受信確認に適用され、体感速度はフロントエンドの仕事だ。"
+    },
+    "zh": {
+     "headline": "慢AI靠设计来解决\n而非更便宜的推理",
+     "body": "Doherty阈值如今作用于确认而非回答，感知速度因此是前端的工作。"
+    },
+    "es": {
+     "headline": "La AI lenta se cura con diseño,\nno con inferencia más barata",
+     "body": "El umbral de Doherty ahora rige el acuse de recibo, no la respuesta: la velocidad percibida es tarea del front-end."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "ideogram45-region-edit",
+   "headline": "Ideogram 4.5,\n일부만 고치고 나머지 유지",
+   "body": "Ideogram 4.5는 고른 영역만 고치며 장당 0.8센트부터 2K로 출력한다.",
+   "tool": "KeyShot",
+   "source": "The Decoder",
+   "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
+   "accent": "#eb367f",
+   "motif": "sphere",
+   "image": "pipeline/media/ideogram45-region-edit.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Ideogram 4.5 edits one region\nand keeps the rest intact",
+     "body": "Ideogram says its 4.5 model edits only chosen areas, with native 2K output from 0.8 cents per image."
+    },
+    "ko": {
+     "headline": "Ideogram 4.5,\n일부만 고치고 나머지 유지",
+     "body": "Ideogram 4.5는 고른 영역만 고치며 장당 0.8센트부터 2K로 출력한다."
+    },
+    "es": {
+     "headline": "Ideogram 4.5 edita una región\ny mantiene intacto el resto",
+     "body": "Ideogram dice que su modelo 4.5 edita solo zonas elegidas, con salida nativa en 2K desde 0.8 centavos por imagen."
+    },
+    "ja": {
+     "headline": "Ideogram 4.5\n一部だけ編集し他は保持",
+     "body": "Ideogram 4.5は指定領域のみ編集し、1枚0.8セントから 2K で出力する。"
+    },
+    "zh": {
+     "headline": "Ideogram 4.5\n只改选区其余不动",
+     "body": "Ideogram称其4.5模型只编辑选定区域，原生 2K 输出，每张图低至0.8美分。"
+    }
+   },
+   "date": "2026-10-03",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "infoq-regeneratable-ui",
+   "headline": "공유 UI 라이브러리,\n재사용에서 재생성으로",
+   "body": "모델이 표준 UI를 즉석에서 다시 만들면 일관성은 토큰·가이드라인·테스트가 맡는다.",
+   "tool": "Design Tokens",
+   "source": "InfoQ",
+   "url": "https://www.infoq.com/articles/regeneratable-ui-component-library/",
+   "accent": "#2ec5c5",
+   "motif": "swatch",
+   "image": "pipeline/media/infoq-regeneratable-ui.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Shared UI libraries move from\nreusable to regeneratable",
+     "body": "With models regenerating standard UI on demand, consistency now comes from central tokens, guidelines and tests."
+    },
+    "ko": {
+     "headline": "공유 UI 라이브러리,\n재사용에서 재생성으로",
+     "body": "모델이 표준 UI를 즉석에서 다시 만들면 일관성은 토큰·가이드라인·테스트가 맡는다."
+    },
+    "ja": {
+     "headline": "共有UIライブラリは\n再利用から再生成へ",
+     "body": "モデルが標準UIを都度再生成する今、一貫性は中央のトークンや指針、テストが担う。"
+    },
+    "zh": {
+     "headline": "共享UI组件库\n从可复用到可重生成",
+     "body": "模型可按需重新生成标准UI，一致性如今来自集中的令牌、规范和测试。"
+    },
+    "es": {
+     "headline": "Bibliotecas de UI compartidas:\nde reutilizables a regenerables",
+     "body": "Con modelos que regeneran la UI estándar a demanda, la coherencia viene ahora de tokens, guías y tests centrales."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "design",
+   "has_full": true
+  },
+  {
+   "id": "apple-no-record-home-camera",
+   "headline": "Apple, 녹화 안 하는\n카메라 개발설",
+   "body": "Apple이 녹화 없이 AI로 집 안 움직임을 읽는 홈캠을 만드는 중이라고 한다.",
+   "tool": "Gadgets",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
+   "accent": "#f5a623",
+   "motif": "headset",
+   "image": "pipeline/media/apple-no-record-home-camera.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Apple is reportedly building\na camera that won't record",
+     "body": "Apple is reportedly building a smart home camera that uses AI to analyze activity in your home without filming it."
+    },
+    "ko": {
+     "headline": "Apple, 녹화 안 하는\n카메라 개발설",
+     "body": "Apple이 녹화 없이 AI로 집 안 움직임을 읽는 홈캠을 만드는 중이라고 한다."
+    },
+    "ja": {
+     "headline": "Apple、録画しない\nカメラを開発中か",
+     "body": "Appleは撮影せずAIで家の中の動きを分析するスマートホームカメラを開発中と報じられた。"
+    },
+    "zh": {
+     "headline": "传Apple正打造\n一款不录像的摄像头",
+     "body": "据报道，Apple正在打造一款不拍摄、用AI分析家中活动的智能家居摄像头。"
+    },
+    "es": {
+     "headline": "Apple estaría creando una\ncámara que no graba",
+     "body": "Apple estaría creando una cámara para el hogar inteligente que usa AI para analizar la actividad en casa sin grabarla."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "dgx-spark-64gb",
+   "headline": "64GB DGX Spark\nNvidia $4,999~",
+   "body": "Nvidia GB10 64GB DGX Spark는 $4,999로 메모리 외엔 같다.",
+   "tool": "Gadgets",
+   "source": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+   "accent": "#7928ca",
+   "motif": "headset",
+   "image": "pipeline/media/dgx-spark-64gb.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Nvidia adds a 64GB DGX Spark\nstarting at $4,999",
+     "body": "Nvidia's new GB10 config, a 64GB DGX Spark from $4,999, has less memory and a lower price but is otherwise identical."
+    },
+    "ko": {
+     "headline": "64GB DGX Spark\nNvidia $4,999~",
+     "body": "Nvidia GB10 64GB DGX Spark는 $4,999로 메모리 외엔 같다."
+    },
+    "es": {
+     "headline": "Nvidia añade un DGX Spark\nde 64GB desde $4,999",
+     "body": "El DGX Spark de 64GB de Nvidia, con GB10 y desde $4,999, tiene menos memoria pero es idéntico en lo demás."
+    },
+    "ja": {
+     "headline": "64GB版DGX Spark\n$4,999から登場",
+     "body": "GB10搭載の64GB版DGX Sparkは$4,999からで、メモリと価格以外は同じだ。"
+    },
+    "zh": {
+     "headline": "64GB版DGX Spark\n$4,999起售",
+     "body": "GB10新配置64GB版DGX Spark售价$4,999起，除内存和价格外完全相同。"
+    }
+   },
+   "date": "2026-10-03",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "gemini-replaces-assistant-android",
+   "headline": "Android 비서,\nGemini로 완전 교체",
+   "body": "Android Google Assistant 종료가 퍼지며 Gemini가 대신한다.",
+   "tool": "Gadgets",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
+   "accent": "#2ec5c5",
+   "motif": "headset",
+   "image": "pipeline/media/gemini-replaces-assistant-android.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Gemini fully replaces\nGoogle Assistant on Android",
+     "body": "Begun in early September, the Google Assistant phase-out on Android is rolling out widely, leaving Gemini in its place."
+    },
+    "ko": {
+     "headline": "Android 비서,\nGemini로 완전 교체",
+     "body": "Android Google Assistant 종료가 퍼지며 Gemini가 대신한다."
+    },
+    "ja": {
+     "headline": "Androidのアシスタント\nGeminiに完全移行",
+     "body": "AndroidのGoogle Assistant廃止が本格化し、Geminiに置き換わる。"
+    },
+    "zh": {
+     "headline": "Android语音助手\n全面换成Gemini",
+     "body": "Android版Google Assistant淘汰已大范围推开，由Gemini接替。"
+    },
+    "es": {
+     "headline": "Gemini reemplaza por completo\na Google Assistant en Android",
+     "body": "La retirada de Google Assistant en Android, iniciada a principios de septiembre, se amplía y deja paso a Gemini."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "insta360-spatial-capture",
+   "headline": "Insta360 카메라가\n무료 3D 공간 스캐너로",
+   "body": "무료 Spatial Capture가 360 영상을 실내 3D 모델로 바꿔 준다.",
+   "tool": "Gadgets",
+   "source": "TechRadar",
+   "url": "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month",
+   "accent": "#ff5a4d",
+   "motif": "headset",
+   "image": "pipeline/media/insta360-spatial-capture.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Insta360 cameras become\nfree 3D room scanners",
+     "body": "Insta360's free Spatial Capture uses Gaussian Splatting to turn 360 videos into explorable 3D models of indoor spaces."
+    },
+    "ko": {
+     "headline": "Insta360 카메라가\n무료 3D 공간 스캐너로",
+     "body": "무료 Spatial Capture가 360 영상을 실내 3D 모델로 바꿔 준다."
+    },
+    "es": {
+     "headline": "Las cámaras Insta360 se vuelven\nescáneres 3D gratuitos",
+     "body": "Spatial Capture, gratuito de Insta360, usa Gaussian Splatting para convertir videos 360 en modelos 3D de interiores."
+    },
+    "ja": {
+     "headline": "Insta360のカメラが\n無料の3D部屋スキャナーに",
+     "body": "Insta360の無料機能は、360度動画から歩き回れる屋内3Dモデルを作る。"
+    },
+    "zh": {
+     "headline": "Insta360相机变身\n免费3D房间扫描仪",
+     "body": "Insta360推出免费功能，可将360度视频转为可漫游的室内3D模型。"
+    }
+   },
+   "date": "2026-10-03",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "meta-muse-home-link",
+   "headline": "Meta, Muse AI\n기기 제작 코드 공개",
+   "body": "Meta가 Muse AI 기기 코드를 공개하며 위험은 각자 책임이라고 경고했다.",
+   "tool": "Gadgets",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+   "accent": "#0070f3",
+   "motif": "headset",
+   "image": "pipeline/media/meta-muse-home-link.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Meta opens code for building\nyour own Muse AI gadgets",
+     "body": "Meta open sourced code that lets makers build their own Muse AI gadgets, warning them to proceed at their own risk."
+    },
+    "ko": {
+     "headline": "Meta, Muse AI\n기기 제작 코드 공개",
+     "body": "Meta가 Muse AI 기기 코드를 공개하며 위험은 각자 책임이라고 경고했다."
+    },
+    "ja": {
+     "headline": "Meta、Muse AI\n機器の自作コードを公開",
+     "body": "MetaはMuse AI機器を自作できるコードを公開し、「自己責任で」と警告した。"
+    },
+    "zh": {
+     "headline": "Meta开源代码\n可自制Muse AI设备",
+     "body": "Meta开源了自制Muse AI设备的代码，并提醒创客风险自负。"
+    },
+    "es": {
+     "headline": "Meta abre el código para crear\ntus propios gadgets de Muse AI",
+     "body": "Meta liberó el código para que cada uno cree sus propios gadgets de Muse AI y advirtió que es bajo su propio riesgo."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "gadgets",
+   "has_full": true
+  },
+  {
+   "id": "banjo-tooie-vibe-recomp",
+   "headline": "Banjo-Tooie의\nvibe-coded판 뭇매",
+   "body": "Zelda·Banjo 이식팀이 vibe-coded Banjo-Tooie를 비판했다.",
+   "tool": "Games",
+   "source": "GamesRadar+",
+   "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "image": "pipeline/media/banjo-tooie-vibe-recomp.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Port devs slam a vibe-coded\nBanjo-Tooie recompilation",
+     "body": "Zelda and Banjo PC port devs criticized a vibe-coded Banjo-Tooie recomp, saying throwing AI at it is disrespectful."
+    },
+    "ko": {
+     "headline": "Banjo-Tooie의\nvibe-coded판 뭇매",
+     "body": "Zelda·Banjo 이식팀이 vibe-coded Banjo-Tooie를 비판했다."
+    },
+    "ja": {
+     "headline": "vibe-codedの\nBanjo-Tooieに批判",
+     "body": "ZeldaとBanjoの移植陣が、vibe-codedのBanjo-Tooieを批判した。"
+    },
+    "zh": {
+     "headline": "vibe-coded的\nBanjo-Tooie遭批评",
+     "body": "Zelda与Banjo PC移植团队批评vibe-coded的Banjo-Tooie重编译。"
+    },
+    "es": {
+     "headline": "Críticas a una recompilación\nvibe-coded de Banjo-Tooie",
+     "body": "Quienes portaron Zelda y Banjo a PC tachan de irrespetuoso usar IA en una recompilación vibe-coded de Banjo-Tooie."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "fallout-new-york-ai-cnd",
+   "headline": "AI-made 폴아웃에\nZeniMax C&D 주장",
+   "body": "Fallout: New York 제작자는 ZeniMax의 C&D를 받았다고 했다.",
+   "tool": "Games",
+   "source": "Rock Paper Shotgun",
+   "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+   "accent": "#eb367f",
+   "motif": "cube",
+   "image": "pipeline/media/fallout-new-york-ai-cnd.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Creator says ZeniMax sent C&D\nto AI-made Fallout game",
+     "body": "The maker of a Claude-built Fallout: New York browser game says Bethesda parent ZeniMax sent a cease and desist."
+    },
+    "es": {
+     "headline": "Su autor dice que ZeniMax envió\nun C&D a su Fallout AI-made",
+     "body": "El autor de Fallout: New York, juego Claude-built, dice que ZeniMax, matriz de Bethesda, le envió un C&D."
+    },
+    "ko": {
+     "headline": "AI-made 폴아웃에\nZeniMax C&D 주장",
+     "body": "Fallout: New York 제작자는 ZeniMax의 C&D를 받았다고 했다."
+    },
+    "ja": {
+     "headline": "AI-madeゲームに\nZeniMaxがC&D通知",
+     "body": "Fallout: New Yorkの制作者が、ZeniMaxからC&Dを受けたと主張した。"
+    },
+    "zh": {
+     "headline": "制作者称ZeniMax\n向AI-made游戏发C&D",
+     "body": "Claude打造的Fallout: New York作者称收到ZeniMax勒令停止函。"
+    }
+   },
+   "date": "2026-10-03",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "gibiz-hr-summit-genai-workload",
+   "headline": "생성형 AI가 게임사\n업무를 늘리나",
+   "body": "GamesIndustry.biz HR 회의서 genAI 이득을 불안·유출이 깎았다.",
+   "tool": "Games",
+   "source": "GamesIndustry.biz",
+   "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "image": "pipeline/media/gibiz-hr-summit-genai-workload.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Generative AI may be adding\nwork at game studios",
+     "body": "At the GamesIndustry.biz HR Summit, attendees said genAI gains are offset by staff anxiety and data-leak risks."
+    },
+    "ko": {
+     "headline": "생성형 AI가 게임사\n업무를 늘리나",
+     "body": "GamesIndustry.biz HR 회의서 genAI 이득을 불안·유출이 깎았다."
+    },
+    "zh": {
+     "headline": "生成式AI或在增加\n游戏工作室的工作量",
+     "body": "GamesIndustry.biz HR峰会上，与会者称genAI收益被焦虑与泄密风险抵消。"
+    },
+    "es": {
+     "headline": "La IA generativa podría sumar\ntrabajo a los estudios de juegos",
+     "body": "En la GamesIndustry.biz HR Summit se dijo que la ansiedad y el riesgo de fugas de datos anulan lo ganado con la genAI."
+    },
+    "ja": {
+     "headline": "生成AIがゲーム会社の\n仕事を増やしている可能性",
+     "body": "HRサミットでは、genAIの利点が社員の不安と情報漏洩リスクで相殺されるとの声が出た。"
+    }
+   },
+   "date": "2026-10-03",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "lochub-unreal-ai-localization",
+   "headline": "LocHub이 AI 번역을\nUnreal Editor에",
+   "body": "LocHub은 내 AI 키로 Unreal 문자열을 번역하고 다른 AI로 검수한다.",
+   "tool": "Games",
+   "source": "Epic Developer Community",
+   "url": "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "image": "pipeline/media/lochub-unreal-ai-localization.png",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "LocHub brings AI translation\ninto the Unreal Editor",
+     "body": "LocHub runs Unreal strings through your own AI provider key, with built-in checks and a second AI to catch problems."
+    },
+    "ko": {
+     "headline": "LocHub이 AI 번역을\nUnreal Editor에",
+     "body": "LocHub은 내 AI 키로 Unreal 문자열을 번역하고 다른 AI로 검수한다."
+    },
+    "ja": {
+     "headline": "LocHub、AI翻訳を\nUnreal Editorへ",
+     "body": "LocHubは自前のAIキーでUnreal文字列を翻訳し、別のAIが問題を検出する。"
+    },
+    "zh": {
+     "headline": "LocHub将AI翻译带入\nUnreal Editor",
+     "body": "LocHub用你自己的AI密钥翻译Unreal文本，并由第二个AI排查问题。"
+    },
+    "es": {
+     "headline": "LocHub lleva traducción con IA\nal Unreal Editor",
+     "body": "LocHub traduce los textos de Unreal con tu propia clave de IA, con controles integrados y una segunda IA de revisión."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "ue5-codex-gpt6-npc-tutorial",
+   "headline": "UE5로 말하는\nAI NPCs 만들기",
+   "body": "Codex와 Unreal MCP, OpenAI API로 UE5 NPCs를 만든다.",
+   "tool": "Games",
+   "source": "Epic Developer Community",
+   "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Building talking AI NPCs\nin Unreal Engine 5",
+     "body": "A guide wires Codex, Unreal MCP, UnrealAI, and the OpenAI API into animated UE5 NPCs with AI-generated dialogue."
+    },
+    "ko": {
+     "headline": "UE5로 말하는\nAI NPCs 만들기",
+     "body": "Codex와 Unreal MCP, OpenAI API로 UE5 NPCs를 만든다."
+    },
+    "es": {
+     "headline": "Crear NPCs con IA que hablan\nen Unreal Engine 5",
+     "body": "Una guía une Codex, Unreal MCP, UnrealAI y la OpenAI API para crear NPCs animados en UE5 con diálogos AI-generated."
+    },
+    "ja": {
+     "headline": "UE5で話す\nAI NPCsを作る",
+     "body": "Codexなどで、AI-generated会話を話すUE5 NPCsを作る手引きだ。"
+    },
+    "zh": {
+     "headline": "用UE5打造\n会说话的AI NPCs",
+     "body": "指南用Codex等工具，在UE5中打造带AI-generated对话的动画NPCs。"
+    }
+   },
+   "date": "2026-10-03",
+   "section": "games",
+   "has_full": true
+  },
+  {
+   "id": "bbc-brittin-ai-doctor-who",
+   "headline": "BBC 수장 AI-Made\n닥터 후 '꽤 좋다'",
+   "body": "BBC Matt Brittin은 전부 AI가 만든 닥터 후를 '꽤 좋다'고 했다.",
+   "tool": "Movies",
+   "source": "Deadline",
+   "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
+   "accent": "#7928ca",
+   "motif": "frame",
+   "image": "pipeline/media/bbc-brittin-ai-doctor-who.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "BBC Chief Calls AI-Made\nDoctor Who 'Pretty Good'",
+     "body": "BBC boss Matt Brittin says a fully AI-generated Doctor Who episode someone sent him was 'pretty good.'"
+    },
+    "ko": {
+     "headline": "BBC 수장 AI-Made\n닥터 후 '꽤 좋다'",
+     "body": "BBC Matt Brittin은 전부 AI가 만든 닥터 후를 '꽤 좋다'고 했다."
+    },
+    "ja": {
+     "headline": "BBC会長、AI-Made\nドクター・フー「結構良い」",
+     "body": "BBCのMatt Brittinは全編AIで作ったドクター・フーを「かなり良い」と評した。"
+    },
+    "zh": {
+     "headline": "BBC总裁：AI-Made\n《神秘博士》“挺好”",
+     "body": "BBC总裁Matt Brittin称，有人发给他的全AI生成《神秘博士》“相当不错”。"
+    },
+    "es": {
+     "headline": "Jefe de la BBC: el Doctor Who\nAI-Made es «bastante bueno»",
+     "body": "Matt Brittin, jefe de la BBC, dice que un episodio de Doctor Who generado por completo con IA era «bastante bueno»."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "curious-refuge-ai-depth-map",
+   "headline": "무료 AI 도구로\n영상에서 뎁스 맵 추출",
+   "body": "Curious Refuge가 무료 AI 도구로 뎁스 맵 만드는 법을 소개했다.",
+   "tool": "Movies",
+   "source": "Curious Refuge",
+   "url": "https://www.youtube.com/watch?v=BFsVW1DrLng",
+   "accent": "#f5a623",
+   "motif": "frame",
+   "image": "pipeline/media/curious-refuge-ai-depth-map.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "A Free AI Tool Pulls\nDepth Maps From Footage",
+     "body": "Curious Refuge shows how a free AI tool, run on a Mac or via Fal.ai, turns footage into depth maps that guide AI video."
+    },
+    "ko": {
+     "headline": "무료 AI 도구로\n영상에서 뎁스 맵 추출",
+     "body": "Curious Refuge가 무료 AI 도구로 뎁스 맵 만드는 법을 소개했다."
+    },
+    "ja": {
+     "headline": "無料AIツールで\n映像から深度マップ",
+     "body": "Curious Refugeが無料AIツールで映像から深度マップを作る方法を紹介した。"
+    },
+    "zh": {
+     "headline": "免费AI工具\n从素材中提取深度图",
+     "body": "Curious Refuge演示了如何用免费AI工具把素材转成深度图以引导AI视频。"
+    },
+    "es": {
+     "headline": "Una herramienta de IA gratuita\nextrae mapas de profundidad",
+     "body": "Curious Refuge muestra cómo una IA gratuita, en Mac o Fal.ai, convierte metraje en mapas de profundidad."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "curious-refuge-ai-sound-design",
+   "headline": "AI 사운드 디자인\n시험대에 오르다",
+   "body": "Curious Refuge가 새 AI 사운드 도구의 후반 작업 활용도를 시험했다.",
+   "tool": "Movies",
+   "source": "Curious Refuge",
+   "url": "https://www.youtube.com/watch?v=0yv0r5UyzCY",
+   "accent": "#2ec5c5",
+   "motif": "frame",
+   "image": "pipeline/media/curious-refuge-ai-sound-design.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Curious Refuge Puts AI\nSound Design to the Test",
+     "body": "Curious Refuge runs new AI sound-design tools through multiple workflows to judge their value in post-production."
+    },
+    "ko": {
+     "headline": "AI 사운드 디자인\n시험대에 오르다",
+     "body": "Curious Refuge가 새 AI 사운드 도구의 후반 작업 활용도를 시험했다."
+    },
+    "ja": {
+     "headline": "AIサウンドデザイン\nその実力を検証",
+     "body": "Curious Refugeが新しいAI音響ツールを試し、ポスプロでの価値を見極めた。"
+    },
+    "zh": {
+     "headline": "Curious Refuge\n实测AI声音设计",
+     "body": "Curious Refuge用多种工作流测试新款AI声音设计工具，评估其后期制作价值。"
+    },
+    "es": {
+     "headline": "Curious Refuge pone a prueba\nel diseño sonoro con IA",
+     "body": "Curious Refuge prueba nuevas herramientas de diseño sonoro con IA para medir su valor en posproducción."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "lightbox-expo-genai-ban",
+   "headline": "LightBox Expo\n생성형 AI에 강경 노선",
+   "body": "LightBox Expo 창립자들은 생성형 AI를 도둑질로 보고 금지한다고 했다.",
+   "tool": "Movies",
+   "source": "Cartoon Brew",
+   "url": "https://www.cartoonbrew.com/festivals/lightbox-expo-bobby-chiu-jim-demonakos-267289.html",
+   "accent": "#eb367f",
+   "motif": "frame",
+   "image": "pipeline/media/lightbox-expo-genai-ban.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "LightBox Expo Holds a Hard\nLine Against Generative AI",
+     "body": "LightBox Expo's founders explain why the concept-art show bans generative AI, which they call theft and not real art."
+    },
+    "ko": {
+     "headline": "LightBox Expo\n생성형 AI에 강경 노선",
+     "body": "LightBox Expo 창립자들은 생성형 AI를 도둑질로 보고 금지한다고 했다."
+    },
+    "ja": {
+     "headline": "LightBox Expo\n生成AIに強硬姿勢",
+     "body": "LightBox Expoの創設者が生成AIを盗みとみなし禁止する理由を語った。"
+    },
+    "zh": {
+     "headline": "LightBox Expo\n对生成式AI立场强硬",
+     "body": "LightBox Expo创办人解释为何禁用生成式AI：他们认为那是盗窃，并非真正的艺术。"
+    },
+    "es": {
+     "headline": "LightBox Expo mantiene una\nlínea dura ante la IA generativa",
+     "body": "Los fundadores de LightBox Expo explican por qué vetan la IA generativa: la consideran robo, no arte real."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "tripo-smartmesh-previs",
+   "headline": "Tripo, 프리비즈용\nSmartMesh 제안",
+   "body": "Tripo AI는 생성형 3D 도구가 레퍼런스·블록아웃·프리비즈를 돕는다고 했다.",
+   "tool": "Movies",
+   "source": "Animation World Network",
+   "url": "https://www.awn.com/animationworld/tripo-ais-yanpei-cao-talks-smartmesh-open-source-and-previs",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "image": "pipeline/media/tripo-smartmesh-previs.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Tripo AI Pitches SmartMesh\nfor Blockouts and Previs",
+     "body": "Tripo AI's chief scientist Yanpei Cao says its generative 3D tools help artists with reference, blockouts and previs."
+    },
+    "ko": {
+     "headline": "Tripo, 프리비즈용\nSmartMesh 제안",
+     "body": "Tripo AI는 생성형 3D 도구가 레퍼런스·블록아웃·프리비즈를 돕는다고 했다."
+    },
+    "ja": {
+     "headline": "Tripo、プリビズ向け\nSmartMeshを提案",
+     "body": "Tripo AIの生成3Dツールはリファレンスやブロックアウト、プリビズを支えるという。"
+    },
+    "zh": {
+     "headline": "Tripo为白模与预演\n主推SmartMesh",
+     "body": "Tripo AI首席科学家Yanpei Cao称，其生成式3D工具可用于参考、白模和预演。"
+    },
+    "es": {
+     "headline": "Tripo AI propone SmartMesh\npara bloqueos y previsualización",
+     "body": "Según Yanpei Cao, de Tripo AI, sus herramientas 3D generativas ayudan con referencias, bloqueos y previsualización."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "movies",
+   "has_full": true
+  },
+  {
+   "id": "lyricfind-ai-lyrics-long-tail",
+   "headline": "AI 가사 도구가\n롱테일 저작권료 키운다",
+   "body": "LyricFind는 AI 가사 작업이 9.6M 롱테일 곡의 로열티를 키운다고 본다.",
+   "tool": "Music",
+   "source": "Hypebot",
+   "url": "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "image": "pipeline/media/lyricfind-ai-lyrics-long-tail.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "AI lyric tools could grow\nlong-tail song royalties",
+     "body": "LyricFind argues AI lyric transcription, sync and translation could expand royalties from 9.6M long-tail tracks."
+    },
+    "es": {
+     "headline": "La AI en las letras podría\nampliar regalías de cola larga",
+     "body": "LyricFind cree que transcribir, sincronizar y traducir letras con AI podría ampliar regalías de 9.6M temas long-tail."
+    },
+    "ko": {
+     "headline": "AI 가사 도구가\n롱테일 저작권료 키운다",
+     "body": "LyricFind는 AI 가사 작업이 9.6M 롱테일 곡의 로열티를 키운다고 본다."
+    },
+    "ja": {
+     "headline": "AI歌詞ツールが\nロングテール印税を拡大",
+     "body": "LyricFindは、AI歌詞技術で9.6M 曲のロングテール印税が増えると説く。"
+    },
+    "zh": {
+     "headline": "AI歌词工具\n或可扩大长尾版税",
+     "body": "LyricFind认为，AI歌词转录、同步与翻译可扩大9.6M 首长尾歌曲的版税。"
+    }
+   },
+   "date": "2026-10-03",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "questlove-sampling-ai",
+   "headline": "Questlove \"AI는\n샘플링 문화와 닮았다\"",
+   "body": "Questlove는 Public Enemy부터 AI까지 샘플링을 되짚는다.",
+   "tool": "Music",
+   "source": "Billboard",
+   "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "image": "pipeline/media/questlove-sampling-ai.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Questlove: AI is a parallel\nto sampling culture",
+     "body": "Questlove traces sampling from Public Enemy to microchopping and AI, arguing the magic lives in human imperfection."
+    },
+    "ko": {
+     "headline": "Questlove \"AI는\n샘플링 문화와 닮았다\"",
+     "body": "Questlove는 Public Enemy부터 AI까지 샘플링을 되짚는다."
+    },
+    "ja": {
+     "headline": "Questlove「AIは\nサンプリング文化に通じる」",
+     "body": "QuestloveはPublic EnemyからAIまでサンプリング史を語る。"
+    },
+    "zh": {
+     "headline": "Questlove：AI与\n采样文化一脉相承",
+     "body": "Questlove梳理从Public Enemy到AI的采样历程，认为魔力在于人的不完美。"
+    },
+    "es": {
+     "headline": "Questlove: la AI es un paralelo\nde la cultura del sampleo",
+     "body": "Questlove repasa el sampleo de Public Enemy al microchopping y la AI, y sitúa la magia en la imperfección humana."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "stability-ai-sean-parker-music",
+   "headline": "Sean Parker의 새\nStability AI",
+   "body": "Sean Parker는 Stability AI를 전문 음악 도구 회사로 바꾼다.",
+   "tool": "Music",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "image": "pipeline/media/stability-ai-sean-parker-music.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Sean Parker rebuilds\nStability AI around music",
+     "body": "Sean Parker says Stability AI is pivoting to pro music tools built on catalogs licensed from Sony, Warner and Universal."
+    },
+    "ko": {
+     "headline": "Sean Parker의 새\nStability AI",
+     "body": "Sean Parker는 Stability AI를 전문 음악 도구 회사로 바꾼다."
+    },
+    "ja": {
+     "headline": "Sean Parkerが\nStability AI刷新",
+     "body": "Sean ParkerはStability AIをプロ向け音楽ツール企業へ転換すると語る。"
+    },
+    "zh": {
+     "headline": "Sean Parker以音乐\n重塑Stability AI",
+     "body": "Sean Parker称Stability AI将转向基于授权曲库的专业音乐工具。"
+    },
+    "es": {
+     "headline": "Sean Parker reorienta\nStability AI hacia la música",
+     "body": "Sean Parker dice que Stability AI se centra en herramientas para músicos con catálogos de Sony, Warner y Universal."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "suno-speech-beta",
+   "headline": "Suno Speech 베타\nAI 음악에 목소리 입혀",
+   "body": "Suno Speech가 AI 음악에 음성을 얹어 ElevenLabs 영역을 넘본다.",
+   "tool": "Music",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+   "accent": "#ff2d55",
+   "motif": "sphere",
+   "image": "pipeline/media/suno-speech-beta.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Suno's new Speech beta\nadds voices to AI music",
+     "body": "Suno's Speech beta sets synthetic voiceovers to AI background music, moving into ElevenLabs' spoken-audio territory."
+    },
+    "ko": {
+     "headline": "Suno Speech 베타\nAI 음악에 목소리 입혀",
+     "body": "Suno Speech가 AI 음악에 음성을 얹어 ElevenLabs 영역을 넘본다."
+    },
+    "ja": {
+     "headline": "Sunoの新Speech\nAI音楽に声を加える",
+     "body": "SunoのSpeechはAI音楽に合成音声を重ね、ElevenLabsの領域に踏み込む。"
+    },
+    "zh": {
+     "headline": "Suno Speech测试版\n为AI音乐配上人声",
+     "body": "Suno的Speech测试版为AI背景音乐配上合成旁白，进军ElevenLabs语音领域。"
+    },
+    "es": {
+     "headline": "La nueva beta Speech de Suno\nañade voces a la música con AI",
+     "body": "La beta de Speech de Suno une voces sintéticas y música de fondo con AI, y entra en el terreno de ElevenLabs."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "suno-v6-take-me-back-video",
+   "headline": "춤에서 Suno v6\n노래와 뮤직비디오로",
+   "body": "Browner·McNeely가 춤을 Suno v6 곡과 뮤직비디오로 만든다.",
+   "tool": "Music",
+   "source": "Suno (YouTube)",
+   "url": "https://www.youtube.com/watch?v=1OITvfAN6-g",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "image": "pipeline/media/suno-v6-take-me-back-video.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "From a dance to a Suno v6\nsong and music video",
+     "body": "Braylon Browner and Nina McNeely turn a dance into a Suno v6 song, then a music video built around movement."
+    },
+    "ko": {
+     "headline": "춤에서 Suno v6\n노래와 뮤직비디오로",
+     "body": "Browner·McNeely가 춤을 Suno v6 곡과 뮤직비디오로 만든다."
+    },
+    "ja": {
+     "headline": "ダンスからSuno v6の\n曲とミュージックビデオへ",
+     "body": "BrownerとMcNeelyがダンスをSuno v6の曲とミュージックビデオに仕立てる。"
+    },
+    "zh": {
+     "headline": "从舞蹈到Suno v6\n歌曲与音乐视频",
+     "body": "Browner与McNeely把舞蹈变成Suno v6歌曲，再拍成围绕动作的音乐视频。"
+    },
+    "es": {
+     "headline": "De un baile a una canción\ny un videoclip con Suno v6",
+     "body": "Braylon Browner y Nina McNeely llevan un baile a una canción de Suno v6 y a un videoclip centrado en el movimiento."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "music",
+   "has_full": true
+  },
+  {
+   "id": "china-lgfv-nvidia-chips",
+   "headline": "\"中 지방정부 금융사\n엔비디아 칩 구매 지원\"",
+   "body": "블룸버그는 中 지방정부 소유 금융사가 엔비디아 칩 구매에 자금을 댔다고 보도했다.",
+   "tool": "Politics",
+   "source": "Yonhap",
+   "url": "https://www.yna.co.kr/view/AKR20261002135800009",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "image": "pipeline/media/china-lgfv-nvidia-chips.jpg",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "\"中 지방정부 금융사\n엔비디아 칩 구매 지원\"",
+     "body": "블룸버그는 中 지방정부 소유 금융사가 엔비디아 칩 구매에 자금을 댔다고 보도했다."
+    },
+    "en": {
+     "headline": "\"Chinese local-gov't lender\nfunded Nvidia chip buys\"",
+     "body": "Bloomberg reported that a financial firm owned by Chinese local governments funded purchases of Nvidia chips."
+    },
+    "ja": {
+     "headline": "「中国地方政府系金融会社\nエヌビディアチップ購入支援」",
+     "body": "ブルームバーグは、中国地方政府系の金融会社がエヌビディアチップの購入資金を出したと報じた。"
+    },
+    "zh": {
+     "headline": "“中国地方政府旗下金融公司\n资助购买英伟达芯片”",
+     "body": "彭博社报道称，中国地方政府旗下金融公司为购买英伟达芯片提供了资金。"
+    },
+    "es": {
+     "headline": "\"Financiera de gobierno local\nchino financió chips de Nvidia\"",
+     "body": "Bloomberg informó que una financiera propiedad de gobiernos locales chinos financió la compra de chips de Nvidia."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "eu-nudify-ai-ban",
+   "headline": "EU, 누디파이 AI\n법으로 직접 금지",
+   "body": "EU가 12월 2일부터 비동의 성적 이미지를 만드는 누디파이 AI를 금지한다.",
+   "tool": "Politics",
+   "source": "ZDNet Korea",
+   "url": "https://zdnet.co.kr/view/?no=20261002190003",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "image": "pipeline/media/eu-nudify-ai-ban.jpg",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "EU, 누디파이 AI\n법으로 직접 금지",
+     "body": "EU가 12월 2일부터 비동의 성적 이미지를 만드는 누디파이 AI를 금지한다."
+    },
+    "en": {
+     "headline": "EU bans Nudify AI\ndirectly by law",
+     "body": "The EU will ban Nudify AI that creates non-consensual sexual images starting December 2."
+    },
+    "ja": {
+     "headline": "EU、ヌーディファイAIを\n法律で直接禁止",
+     "body": "EUは12月2日から、同意のない性的画像を作るヌーディファイAIを禁止する。"
+    },
+    "zh": {
+     "headline": "EU立法直接禁止\nNudify AI",
+     "body": "EU将自12月2日起禁止生成未经同意性图像的Nudify AI。"
+    },
+    "es": {
+     "headline": "La EU prohíbe directamente\npor ley la AI Nudify",
+     "body": "La EU prohibirá desde el 2 de diciembre la AI Nudify, que crea imágenes sexuales sin consentimiento."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "msit-sovereign-ai-merge",
+   "headline": "과기정통부, 독자 AI\n통합 8천억 사업 편성",
+   "body": "예산안 자료상 과기정통부가 독자 AI 사업 등을 통합해 8천억원 사업을 편성했다.",
+   "tool": "Politics",
+   "source": "Yonhap",
+   "url": "https://www.yna.co.kr/view/AKR20261002109800017",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "image": "pipeline/media/msit-sovereign-ai-merge.jpg",
+   "source_lang": "ko",
+   "text": {
+    "ko": {
+     "headline": "과기정통부, 독자 AI\n통합 8천억 사업 편성",
+     "body": "예산안 자료상 과기정통부가 독자 AI 사업 등을 통합해 8천억원 사업을 편성했다."
+    },
+    "en": {
+     "headline": "MSIT merges sovereign AI into\n800 billion won program",
+     "body": "Budget documents show MSIT merged its sovereign AI project and others into an 800 billion won program."
+    },
+    "ja": {
+     "headline": "科学技術情報通信部、独自AI\n統合で8000億ウォン事業",
+     "body": "予算案資料では科学技術情報通信部が独自AI事業などを統合し8000億ウォンの事業を組んだ。"
+    },
+    "zh": {
+     "headline": "韩国科技部整合自主AI\n编列8000亿韩元项目",
+     "body": "预算案资料显示，韩国科技部将自主AI等项目整合为8000亿韩元规模的项目。"
+    },
+    "es": {
+     "headline": "El MSIT integra la AI soberana\nen 800.000 millones de wones",
+     "body": "Según el presupuesto, el MSIT integró su proyecto de AI soberana y otros en un plan de 800.000 millones de wones."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "newsom-ai-workplace-law",
+   "headline": "뉴섬, 캘리포니아\n직장 AI 제한 서명",
+   "body": "뉴섬 캘리포니아 주지사가 노동자 해고·감시에 AI 사용을 제한하는 법에 서명했다.",
+   "tool": "Politics",
+   "source": "CalMatters",
+   "url": "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/",
+   "accent": "#3b6bff",
+   "motif": "cube",
+   "image": "pipeline/media/newsom-ai-workplace-law.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Newsom signs AI limits\nfor California workplaces",
+     "body": "California Gov. Newsom signed AI rules limiting how the technology can be used to fire, override or surveil workers."
+    },
+    "ja": {
+     "headline": "ニューサム知事、\n職場のAI規制法に署名",
+     "body": "カリフォルニア州のニューサム知事がAIによる労働者の解雇や監視などを制限する法に署名した。"
+    },
+    "zh": {
+     "headline": "纽森签署加州\n职场AI限制法案",
+     "body": "加州州长纽森签署新规，限制雇主利用AI解雇、监控员工或推翻其决定。"
+    },
+    "es": {
+     "headline": "Newsom firma límites a la AI\nen el trabajo en California",
+     "body": "El gobernador Newsom firmó en California normas que limitan usar AI para despedir, anular o vigilar a empleados."
+    },
+    "ko": {
+     "headline": "뉴섬, 캘리포니아\n직장 AI 제한 서명",
+     "body": "뉴섬 캘리포니아 주지사가 노동자 해고·감시에 AI 사용을 제한하는 법에 서명했다."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "vanorden-cooke-deepfake",
+   "headline": "밴 오든 캠프에\nAI 딥페이크 중지 서한",
+   "body": "쿡 측 변호인은 밴 오든 캠프가 AI 딥페이크로 쿡의 발언을 지어냈다고 밝혔다.",
+   "tool": "Politics",
+   "source": "Washington Sun",
+   "url": "https://www.washingtonsun.com/campaigns/van-orden-hit-with-cease-and-desist-letter-over-ai-deepfake-videos",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "image": "pipeline/media/vanorden-cooke-deepfake.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Van Orden campaign hit with\nAI deepfake cease-and-desist",
+     "body": "Rebecca Cooke's lawyers say Rep. Van Orden's campaign used AI deepfake videos to falsely attribute statements to her."
+    },
+    "ko": {
+     "headline": "밴 오든 캠프에\nAI 딥페이크 중지 서한",
+     "body": "쿡 측 변호인은 밴 오든 캠프가 AI 딥페이크로 쿡의 발언을 지어냈다고 밝혔다."
+    },
+    "ja": {
+     "headline": "バン・オーデン陣営に\nAI偽動画で停止要求書",
+     "body": "クック氏の弁護士は、バン・オーデン陣営がAI偽造動画で発言を捏造したと主張する。"
+    },
+    "zh": {
+     "headline": "范奥登阵营收到\nAI深度伪造停止函",
+     "body": "库克的律师称，范奥登议员阵营用AI深度伪造视频捏造她的言论。"
+    },
+    "es": {
+     "headline": "Campaña de Van Orden recibe un\ncease-and-desist por AI",
+     "body": "Los abogados de Cooke afirman que la campaña de Van Orden usó deepfakes de AI para atribuirle frases que no dijo."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "politics",
+   "has_full": true
+  },
+  {
+   "id": "antarctica-moss-geoai",
+   "headline": "드론·위성으로 그린\n남극의 작은 생명",
+   "body": "Wollongong 팀이 현장·드론·위성으로 남극 이끼·지의류를 7년간 매핑했다.",
+   "tool": "Science",
+   "source": "Phys.org",
+   "url": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
+   "accent": "#eb367f",
+   "motif": "sphere",
+   "image": "pipeline/media/antarctica-moss-geoai.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Drones and satellites map\nAntarctica's tiny life",
+     "body": "Wollongong researchers fused field, drone and satellite data to map Antarctic moss and lichen over seven years."
+    },
+    "ko": {
+     "headline": "드론·위성으로 그린\n남극의 작은 생명",
+     "body": "Wollongong 팀이 현장·드론·위성으로 남극 이끼·지의류를 7년간 매핑했다."
+    },
+    "ja": {
+     "headline": "ドローンと衛星で\n南極の小さな生命を地図化",
+     "body": "Wollongongの研究陣は現地・ドローン・衛星で南極のコケと地衣類を7年間地図化した。"
+    },
+    "zh": {
+     "headline": "无人机与卫星\n绘制南极微小生命",
+     "body": "Wollongong研究人员融合实地、无人机和卫星数据，历时七年绘制了南极苔藓与地衣分布。"
+    },
+    "es": {
+     "headline": "Drones y satélites cartografían\nla diminuta vida de la Antártida",
+     "body": "Un equipo de Wollongong unió datos de campo, drones y satélites para mapear musgo y líquenes antárticos en siete años."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "science",
+   "has_full": true
+  },
+  {
+   "id": "lmu-ai-consciousness-study",
+   "headline": "사람들 눈에 AI는\n여전히 의식이 덜하다",
+   "body": "LMU Munich 실험서 약 1,100명이 AI를 인간보다 덜 의식적이라 봤다.",
+   "tool": "Science",
+   "source": "Tech Xplore",
+   "url": "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "image": "pipeline/media/lmu-ai-consciousness-study.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "People still rate AI as\nless conscious than humans",
+     "body": "In tests with nearly 1,100 people, LMU Munich found AI was rated less conscious than humans acting identically."
+    },
+    "ko": {
+     "headline": "사람들 눈에 AI는\n여전히 의식이 덜하다",
+     "body": "LMU Munich 실험서 약 1,100명이 AI를 인간보다 덜 의식적이라 봤다."
+    },
+    "ja": {
+     "headline": "人はAIを今も\n人間より意識が低いと見る",
+     "body": "LMU Munichの約1,100人の実験で、AIは同じ行動の人間より意識が低いとされた。"
+    },
+    "zh": {
+     "headline": "人们仍认为AI\n意识不如人类",
+     "body": "LMU Munich对近1,100人的测试发现，行为相同时，AI被认为比人类更缺乏意识。"
+    },
+    "es": {
+     "headline": "La gente aún ve a la AI como\nmenos consciente que los humanos",
+     "body": "En pruebas con casi 1,100 personas, LMU Munich halló que la AI parece menos consciente que humanos con igual conducta."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "science",
+   "has_full": true
+  },
+  {
+   "id": "mindreading-brain-scan",
+   "headline": "AI가 뇌 스캔으로\n본 이미지 되살린다",
+   "body": "연구진이 뇌 스캔만으로 사람이 본 이미지를 재구성하는 AI 시스템을 만들었다.",
+   "tool": "Science",
+   "source": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "image": "pipeline/media/mindreading-brain-scan.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "AI rebuilds what you see\nfrom a brain scan",
+     "body": "Scientists built an AI system that reconstructs the images a person is viewing from scans of their brain."
+    },
+    "ko": {
+     "headline": "AI가 뇌 스캔으로\n본 이미지 되살린다",
+     "body": "연구진이 뇌 스캔만으로 사람이 본 이미지를 재구성하는 AI 시스템을 만들었다."
+    },
+    "ja": {
+     "headline": "AIが脳スキャンから\n見た画像を再現",
+     "body": "科学者らが、脳スキャンから人が見ている画像を再構成するAIシステムを開発した。"
+    },
+    "zh": {
+     "headline": "AI从脑部扫描中\n重现你看到的画面",
+     "body": "科学家开发出一套AI系统，能根据脑部扫描重建一个人正在观看的图像。"
+    },
+    "es": {
+     "headline": "Una AI reconstruye lo que ves\na partir de un escáner cerebral",
+     "body": "Científicos crearon un sistema de AI que reconstruye las imágenes que una persona ve mediante escáneres cerebrales."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "science",
+   "has_full": true
+  },
+  {
+   "id": "napoleon-cipher-gpt6astra",
+   "headline": "GPT-6 Astra가\n나폴레옹의 밀서 풀었다",
+   "body": "엔지니어가 GPT-6 Astra로 나폴레옹 밀서의 217년 묵은 암호를 풀었다.",
+   "tool": "Science",
+   "source": "Live Science",
+   "url": "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "image": "pipeline/media/napoleon-cipher-gpt6astra.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "GPT-6 Astra cracks a secret\nletter ordered by Napoleon",
+     "body": "An engineer used GPT-6 Astra to crack the 217-year-old cipher of a letter Napoleon ordered sent to one of his marshals."
+    },
+    "ko": {
+     "headline": "GPT-6 Astra가\n나폴레옹의 밀서 풀었다",
+     "body": "엔지니어가 GPT-6 Astra로 나폴레옹 밀서의 217년 묵은 암호를 풀었다."
+    },
+    "ja": {
+     "headline": "GPT-6 Astraが\nナポレオンの密書を解読",
+     "body": "技術者がGPT-6 Astraでナポレオンが元帥に送らせた217年前の手紙の暗号を解いた。"
+    },
+    "zh": {
+     "headline": "GPT-6 Astra破解\n拿破仑授意的密信",
+     "body": "工程师用GPT-6 Astra破解了拿破仑命人寄给麾下元帅的217年前密信。"
+    },
+    "es": {
+     "headline": "GPT-6 Astra descifra una carta\nsecreta ordenada por Napoleón",
+     "body": "Con GPT-6 Astra, un ingeniero descifró el código de 217 años de una carta que Napoleón hizo enviar a un mariscal."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "science",
+   "has_full": true
+  },
+  {
+   "id": "speech-clock-voice-aging",
+   "headline": "목소리가 드러낼 수 있는\n노화의 속도",
+   "body": "AI 음성 시계가 목소리로 나이를 가늠하는데, 늙게 들리면 인지 문제와 연관된다.",
+   "tool": "Science",
+   "source": "Live Science",
+   "url": "https://www.livescience.com/health/aging/your-voice-may-reveal-how-fast-youre-aging-new-ai-speech-clock-suggests",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "image": "pipeline/media/speech-clock-voice-aging.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Your voice may reveal\nhow fast you're aging",
+     "body": "An AI speech clock estimates age from a person's voice, linking older-sounding voices with cognitive problems."
+    },
+    "ko": {
+     "headline": "목소리가 드러낼 수 있는\n노화의 속도",
+     "body": "AI 음성 시계가 목소리로 나이를 가늠하는데, 늙게 들리면 인지 문제와 연관된다."
+    },
+    "ja": {
+     "headline": "声でわかるかもしれない\n老化のスピード",
+     "body": "AIの音声時計は声から年齢を推定し、老けて聞こえる声と認知機能の問題を結びつける。"
+    },
+    "zh": {
+     "headline": "你的声音或能透露\n你衰老得有多快",
+     "body": "一款AI语音时钟能通过声音估算年龄，并将听起来更老的声音与认知问题联系起来。"
+    },
+    "es": {
+     "headline": "Tu voz podría revelar\nlo rápido que envejeces",
+     "body": "Un reloj del habla con AI estima la edad por la voz y asocia las voces que suenan mayores con problemas cognitivos."
+    }
+   },
+   "date": "2026-10-03",
+   "section": "science",
+   "has_full": true
   }
  ]
 }
