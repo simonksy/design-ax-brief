@@ -10,6 +10,23 @@ import { applyEntitlement } from "./lib/billing.js";
 const json = (obj, status = 200, extra = {}) =>
   new Response(JSON.stringify(obj), { status, headers: { "content-type": "application/json", ...extra } });
 
+// custom_data.email(로그인한 계정)과 Paddle 고객 이메일(영수증이 가는 주소)이 갈리는
+// 경우를 로그로만 남긴다. 권한은 custom_data 쪽에 여는 게 맞다 — 세션이 있는 주소다.
+// 막지 않는 이유: 잘못된 행에 권한을 여는 것은 복구 가능하지만, 실제 결제를 거부하는
+// 것은 복구할 수 없다. 조회는 waitUntil로 돌려 웹훅 응답을 늦추지 않는다.
+async function warnEmailMismatch(env, delta) {
+  try {
+    const paddleEmail = await fetchCustomerEmail(env, delta.customerId);
+    if (paddleEmail && paddleEmail !== delta.email)
+      console.error("paddle webhook: email mismatch — event", delta.eventId,
+                    "custom_data:", delta.email, "paddle customer:", paddleEmail,
+                    "customer:", delta.customerId);
+  } catch (e) {
+    console.error("paddle webhook: customer lookup failed — event", delta.eventId,
+                  String((e && e.message) || e));
+  }
+}
+
 async function currentEmail(request, env) {
   const cookie = parseCookies(request.headers.get("cookie"))[SESSION_COOKIE];
   const sess = await verifySession(cookie, env.SESSION_SIGNING_KEY);
@@ -105,7 +122,16 @@ export default {
       const raw = await request.text();
       const ok = await verifyPaddleSignature(raw, request.headers.get("paddle-signature"),
                                              env.PADDLE_WEBHOOK_SECRET);
-      if (!ok) return new Response(null, { status: 401 });
+      if (!ok) {
+        // 돈이 흐르는 경로의 조용한 거부는 전부 로그를 남긴다. PADDLE_WEBHOOK_SECRET이
+        // 틀리면 모든 이벤트가 401로 떨어지는데, 로그가 없으면 며칠을 흔적 없이 잃는다.
+        let id = null, parsed = true;
+        try { id = JSON.parse(raw)?.event_id ?? null; } catch { parsed = false; }
+        console.error("paddle webhook: signature rejected —",
+                      parsed ? `event ${id}` : "body did not parse",
+                      "secret configured:", !!env.PADDLE_WEBHOOK_SECRET);
+        return new Response(null, { status: 401 });
+      }
 
       let event;
       try { event = JSON.parse(raw); } catch { return new Response(null, { status: 400 }); }
@@ -114,6 +140,7 @@ export default {
       // 관심 없는 이벤트는 200으로 받아준다 — 401/500을 주면 Paddle이 계속 재전송한다.
       if (!delta) return json({ ok: true, ignored: true });
 
+      const fromCustomData = !!delta.email;
       if (!delta.email) delta.email = await fetchCustomerEmail(env, delta.customerId);
       if (!delta.email) {
         // 이메일을 끝내 알 수 없으면 반영할 수 없다. 500을 줘서 Paddle이 재전송하게
@@ -121,7 +148,22 @@ export default {
         console.error("paddle webhook: no email", delta.eventId, delta.customerId);
         return new Response(null, { status: 500 });
       }
+      if (!fromCustomData)
+        // custom_data가 이 이벤트에 실려오지 않았다. 구매자가 오버레이에서 고친 주소일
+        // 수 있고, 그러면 결제는 세션이 없는 주소에 꽂힌다 — 가장 추적하기 어려운 실패다.
+        console.error("paddle webhook: custom_data.email absent — event", delta.eventId,
+                      "custom_data: (none)", "paddle customer:", delta.email,
+                      "customer:", delta.customerId);
+
       const result = await applyEntitlement(env.DB, delta);
+      if (result === "stale")
+        // 늦게 온 이벤트이거나 수동 부여를 보호한 경우. 어느 쪽이든 이 이벤트는 반영되지
+        // 않았으므로, "결제했는데 안 열린다"는 문의가 오면 여기부터 봐야 한다.
+        console.error("paddle webhook: not applied (stale or manual-protected) — event",
+                      delta.eventId, delta.email, delta.status, "periodEnd:", delta.periodEnd);
+      if (result === "duplicate")
+        console.error("paddle webhook: duplicate event ignored —", delta.eventId, delta.email);
+      if (result === "applied" && fromCustomData) ctx.waitUntil(warnEmailMismatch(env, delta));
       return json({ ok: true, result });
     }
 
