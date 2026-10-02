@@ -40,9 +40,8 @@
       // 별도 영역처럼 보이지 않게 — 페이지 맨 위 배경색 그대로에 가는 구분선만.
       "background:#f4f0e9;border-bottom:1px solid rgba(40,30,20,.07);}" +
       "body{padding-top:52px;}html.ax-nobar body{padding-top:0;}" +
-      // 폰에서 스티키 바(z-index 120)와 잠깐 겹치더라도 그쪽이 위에 오게 낮춰 둔다.
-      "@media (max-width:720px){#ax-topbar{height:48px;padding:0 10px;gap:6px;z-index:110;}" +
-      "body{padding-top:48px;}}" +
+      // 폰에서는 React가 그리는 고정바 1줄이 버튼의 자리다 — 이 바는 쓰지 않는다.
+      "@media (max-width:720px){#ax-topbar{display:none;}body{padding-top:0;}}" +
       "#ax-globe{position:relative;z-index:200;flex:0 0 auto;display:flex;align-items:center;" +
       "justify-content:center;width:36px;height:36px;border-radius:50%;border:1px solid rgba(23,23,23,.22);" +
       "background:#fdfbf7;" +
