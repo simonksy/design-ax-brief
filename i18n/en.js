@@ -114,6 +114,7 @@ window.AX_I18N = {
  "pro.cta_short": "Pro",
  "pro.row_archive": "Every card so far (2,400+)",
  "pro.row_cards": "Cards per day",
+ "pro.row_cards_note": "Per category: 1 free · 5 with Pro",
  "pro.row_deep": "Read the full article",
  "pro.row_graph": "Interactive knowledge network",
  "pro.row_mcp": "MCP server for the knowledge base",

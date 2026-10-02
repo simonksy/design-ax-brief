@@ -486,7 +486,7 @@ async function pollEntitlement(tries = 5, gapMs = 2000) {
    pro: 'soon'은 아직 만들지 않은 혜택 — 체크 대신 "준비 중" 배지가 뜬다.
    없는 기능에 체크를 주면 돈을 받고 약속을 어기는 셈이라, 배지로만 예고한다. */
 const PRO_ROWS = [
-  { key: 'cards',   free: '1',    pro: '40' },
+  { key: 'cards',   free: '8',    pro: '40', note: true },
   { key: 'deep',    free: false,  pro: true },
   { key: 'archive', free: false,  pro: true },
   { key: 'graph',   free: false,  pro: true },
@@ -533,6 +533,11 @@ function ProCompareTable({ t }) {
             <div style={{ padding: '11px 10px 11px 14px', fontSize: 14, fontWeight: 600, color: t.hl,
               lineHeight: 1.35, wordBreak: 'keep-all', borderTop: '1px solid ' + t.rule }}>
               {tx('pro.row_' + row.key)}
+              {row.note && (
+                <div style={{ marginTop: 2, fontSize: 11.5, fontWeight: 500, color: t.mute }}>
+                  {tx('pro.row_' + row.key + '_note')}
+                </div>
+              )}
             </div>
             <div style={{ padding: '11px 4px', textAlign: 'center', fontSize: 14.5, borderTop: '1px solid ' + t.rule }}>
               <ProCell v={row.free} t={t} />
@@ -1861,6 +1866,7 @@ function InsightsView({ t, mobile, entitled }) {
         if (prevId === nextId) return;
         hoverRef.current = next;
         el.style.cursor = next ? 'pointer' : 'default';
+        pauseSpin(!!next);   // 노드 위에서는 자전을 멈춘다
         restyle();
       })
       .onNodeDrag((n) => {
@@ -1947,7 +1953,20 @@ function InsightsView({ t, mobile, entitled }) {
     };
     g.__orientLinks = orientLinks;
     controls.enablePan = false;
-    controls.autoRotateSpeed = 0.55;
+    // 자전 속도 — 노드에 커서가 닿으면 즉시 멈추고, 커서가 떠나면 원래 속도까지
+    // 서서히 올린다. 멈춤이 즉각적이어야 겨냥한 노드가 커서 밑에서 미끄러지지
+    // 않고, 재가동이 점진적이어야 화면이 덜컥 튀지 않는다. 실제 속도 적용은
+    // 프레임 루프(fxLoop)가 맡는다.
+    const SPIN_SPEED = 0.55;
+    const SPIN_RAMP_MS = 1200;
+    let spinRamp = 1;          // 0 = 정지, 1 = 원래 속도
+    let spinPaused = false;    // 호버로 인한 일시정지
+    controls.autoRotateSpeed = SPIN_SPEED;
+    const pauseSpin = (on) => {
+      if (spinPaused === on) return;
+      spinPaused = on;
+      if (on) { spinRamp = 0; controls.autoRotateSpeed = 0; }   // 멈춤은 즉시
+    };
     const setRotate = (on) => { controls.autoRotate = on && !selRef.current; };
     setRotate(true);
     g.__setRotate = setRotate; g.__restyle = restyle;   // 카루셀 핸들러에서 사용
@@ -2101,9 +2120,18 @@ function InsightsView({ t, mobile, entitled }) {
     };
     let fxRaf = 0;
     const fxT0 = performance.now();
+    let fxPrev = 0;
     const fxLoop = (now) => {
       const f = selRef.current, pid = pulseRef.current;
       const ph = (now - fxT0) / 1000;
+      // 자전 램프 — 호버가 풀린 뒤 1.2초에 걸쳐 0에서 원래 속도까지 올린다.
+      // smoothstep이라 출발도 도착도 완만하다. 첫 프레임의 dt는 버린다.
+      const dt = fxPrev ? Math.min(100, now - fxPrev) : 0;
+      fxPrev = now;
+      if (!spinPaused && spinRamp < 1) {
+        spinRamp = Math.min(1, spinRamp + dt / SPIN_RAMP_MS);
+        controls.autoRotateSpeed = SPIN_SPEED * (spinRamp * spinRamp * (3 - 2 * spinRamp));
+      }
       const blink = 0.5 + 0.5 * Math.sin(ph * 4.5);
       g.graphData().nodes.forEach((n) => {
         const o = n.__threeObj; if (!o) return;
@@ -2139,7 +2167,7 @@ function InsightsView({ t, mobile, entitled }) {
     const onResize = () => { g.width(el.clientWidth).height(el.clientHeight); };
     // 포인터가 창을 벗어날 때 호버가 남아 있으면 그 클러스터 외 전부가 회색으로
     // 굳는다 — 확실하게 해제한다.
-    const onLeave = () => { if (hoverRef.current) { hoverRef.current = null; restyle(); } };
+    const onLeave = () => { pauseSpin(false); if (hoverRef.current) { hoverRef.current = null; restyle(); } };
     el.addEventListener('pointerleave', onLeave);
     const ro = new ResizeObserver(onResize);
     ro.observe(el);
