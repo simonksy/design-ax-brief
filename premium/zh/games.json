@@ -3359,6 +3359,153 @@
           "x": "Cao博士列出的下一步课题有三项:从单个资产转向环境与交互、为环境搭建代码和逻辑、以及能预测接下来几分钟的世界模型。这三者结合后,艺术家将把时间花在确定方向上,而不是制作资产和编写脚本。"
         }
       ]
+    },
+    "games/games-dwarf-fortress-magic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
+          "cap": "Myth and Magic更新概念图。在Armok的形象之下，一名矮人法师施放法术。图片来源：Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "已经实现了猫咪酗酒、程序生成的吟游诗人传统，甚至像定时炸弹一样爆发的热核龙息的Dwarf Fortress。兄弟开发者Tarn Adams和Zach Adams始终没有放下一个更高的目标：魔法。一种与宇宙论和神话绑定、每次玩家点击「生成新世界」都会重新构建、只在那个世界内成立的程序化魔法。"
+        },
+        {
+          "t": "p",
+          "x": "对于一款已经树立了模拟复杂度标杆的游戏来说，这也是一次鲁莽的尝试。这花了10年时间，需要把整套脚本体系推翻重做。Bay 12 Games从Adams兄弟之外首次招募的程序员Putnam扛起了这项工作。说实话这有点难以置信，但第一批内容会在今年内推出。"
+        },
+        {
+          "t": "video",
+          "yt": "8P-FTy6hhp0"
+        },
+        {
+          "t": "p",
+          "x": "Tarn Adams在一段简短的发布视频中确认，第一个Myth and Magic更新将在年内到来。他说目标是打造一套程序化魔法体系，不只是组合法术效果，而是直接深入宇宙最根本的宇宙论构成，创造出用其他方式绝不可能出现的魔法情境。"
+        },
+        {
+          "t": "p",
+          "x": "这个构想可以追溯到2017年。把魔法与每个世界的创世神话和宇宙论绑定后，Dwarf Fortress不再只是批量生产世界变体的游戏，而成为一台能生成整套奇幻设定的生成器。由此诞生的宇宙，魔法会像物理法则一样根本。"
+        },
+        {
+          "t": "p",
+          "x": "Adams这样说道。「It allows your fortresses to pursue magical research that really feels like discovery.」意思是要塞能够进行真正像是发现一样的魔法研究。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7YB7v9Jh7Qb2VXAeDsP5NV.png",
+          "cap": "六臂苍蝇人用魔法清空了满是哥布林的走廊。图片来源：Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "视频只有一分钟，却闪现了不少施法的角色。哥布林萨满把一只猫瞬间传送走，矮人法师反复把一个哥布林砸向墙壁。手持四根法杖的六臂苍蝇人用魔法弹雨横扫满是敌方剑士的走廊。被死灵法师施加了不死诅咒的矮人立刻开始咬旁边的同伴。"
+        },
+        {
+          "t": "p",
+          "x": "在一个魔法投射物迅速摧毁矮人前哨站的画面上，Adams补充说，游戏里会有让东西爆炸的魔法效果，但也会包含魔法材料、附魔、仪式、古代遗迹这类让奇幻真正像奇幻的元素。而且每一项都与那个宇宙从根本上如何运作绑定在一起。"
+        },
+        {
+          "t": "p",
+          "x": "第一个Myth and Magic更新还没有发布日期。Dwarf Fortress目前可以在Steam和Bay 12 Games网站上获取。"
+        }
+      ]
+    },
+    "games/games-genai-visual-literacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "被冤枉用了genAI的游戏们。图片来源：Rock Paper Shotgun"
+        },
+        {
+          "t": "p",
+          "x": "关于游戏中使用的画作是否出自生成式AI的猎巫行动已经成了日常。Rock Paper Shotgun花了几周时间，采访了被冤枉指认的开发者和艺术家，问他们为什么偏偏那张图会被怀疑。AI图像没有固定的画风，也没有固定的质量，结果完全取决于喂给模型的数据，所以曾经有效的辨别技巧很快就会过时。"
+        },
+        {
+          "t": "p",
+          "x": "Fallen London的开发商Failbetter的沟通总监Hannah Flynn表示，每当视频广泛传播或有重大公告时，都一定会有人问是否用了genAI。工作室甚至在官网上挂出了不使用AI的声明。她猜测，绘画风的笔触，以及眼睛或手指过多这类怪异的身体描绘，反而更容易引来怀疑。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/tenebris-somnia-2.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "头上顶着蜡烛的怪物。这是恐怖游戏Tenebris Somnia中的一个画面。图片来源：New Blood Interactive"
+        },
+        {
+          "t": "p",
+          "x": "New Blood Interactive的CEO David Oshry也遭遇了同样的怀疑，说的是混合了像素艺术和实拍影像的恐怖游戏Tenebris Somnia。最终他不得不另外发布一段记录道具制作过程的幕后视频。他说这种质疑尤其在Instagram上几乎没有停过，而一年前这类反应还很少见。这场风波倒是让愿望单一周内增加了1.5万份。"
+        },
+        {
+          "t": "p",
+          "x": "开发Schrodinger's Cat Burglar的Abandoned Sheep干脆直接换掉了画作。引发争议的那张关键插图，是当地画师Tom Williams在2022年年中手绘的，那时genAI还画不出这种水准。工作室总监Martin Binfield表示，这张图似乎是因为过于光滑精致才被盯上的。评论区的留言与「这是AI画的吗?」这种疑问相比，更像是「不去掉AI我就不买」这种断言。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/unnamed(2)_XiRPXSV.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "多次被指认为AI生成的Schrodinger's Cat Burglar旧版关键插图。图片来源：Abandoned Sheep"
+        },
+        {
+          "t": "p",
+          "x": "插画师Janna Sophia Koppenwallner正在写一篇关于人类辨别AI准确率的硕士论文。虽然数据还未经同行评审、仍属中期结果，但平均辨别准确率为74%，而完成过简短培训模块的人表现反而略差一些。她还提到，容易被误认的画作大多是干净、完成度高、受欢迎的流行画风。数据越多，模型就越擅长复刻，因此小众画风目前还模仿不出来。"
+        },
+        {
+          "t": "p",
+          "x": "出错的方式也不一样。AI会把事物揉在一起混合，比如头发像融进项链里一样，因为它并不知道自己在画什么，只是按概率把东西拼接起来。人类新手的失误不会是这种样子。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/image(1).png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "分步展示路径追踪与降噪处理过程的十格图像。图片来源：Abdou Bouam"
+        },
+        {
+          "t": "p",
+          "x": "一旦老式机器学习工具掺进来，判断就更容易搞混。自由插画师Abdou Bouam曾被客户问起一块模糊的污斑是不是AI画的，其实那是降噪留下的痕迹。路径追踪渲染一开始布满噪点，必须累积足够的采样才能在物理上变得准确。像2018年发布的Nvidia Optix这类降噪器确实用到了机器学习，但和现在的生成式AI性质不同:它是用特意加入噪点后渲染出的图像训练的，而不是靠未经授权收集的数据，而且是在本地运行，而不是在数据中心。"
+        },
+        {
+          "t": "p",
+          "x": "Koppenwallner表示，单纯靠肉眼辨别正变得越来越难。如今的线索更多藏在上下文里，而不是图像本身。了解这一点并用来保护自己，和只凭直觉就公开点名攻击别人，是两件不同的事。"
+        }
+      ]
+    },
+    "games/games-google-ai-pitch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
+          "cap": "Google Cloud博客「Level up: How AI is unlocking a new golden age of games」中的一段。图片来源：Aftermath"
+        },
+        {
+          "t": "p",
+          "x": "Aftermath的作者写道，自己浪费了人生中的几分钟去读Google Cloud网站上发布的公司博客文章「Level up: How AI is unlocking a new golden age of games」。作者是Google游戏部门全球总监Jack Buser。"
+        },
+        {
+          "t": "p",
+          "x": "套路是老一套:公司内部人士写的推销文案，紧跟着一堆像LinkedIn钓鱼贴的句子。「We need a structural shift to revive the ecosystem where creative risks are sustainable again. Fortunately, AI has matured enough to help drive that renaissance.」意思是，要让创意冒险重新变得可持续，需要一次结构性转变，而幸运的是，AI已经足够成熟，能帮助推动这场复兴。"
+        },
+        {
+          "t": "p",
+          "x": "真正引人注意的是文章末尾的部分。Buser列举了游戏开发中他认为「有趣」的三个AI应用案例:史克威尔艾尼克斯正加入Dragon Quest X Online的实时多模态同伴「Chatty Slimey」；10Six Games今年夏天推出的时间旅行式大群生存Roguelite游戏YOU vs. Zombies中的自定义生成系统「The Ritual」；以及育碧用语音指挥取代指令菜单的Teammates原型。"
+        },
+        {
+          "t": "p",
+          "x": "作者的反应又短又狠:在这场集体狂热上投入了三到四年，撑起这篇推销文案的居然只是这三个琐碎、烦人又不受欢迎的小花招吗?他反问这就是你们所说的黄金时代吗。"
+        },
+        {
+          "t": "p",
+          "x": "Chatty Slimey与Dragon Quest粉丝群建立起来的关系，似乎只剩下有多少人讨厌它。YOU vs. Zombies是这次他才第一次听说并去查了一下，看起来很糟糕。Teammates其实在2025年11月的一篇Aftermath文章里就已经出现过一次。"
+        },
+        {
+          "t": "p",
+          "x": "把一切都押在AI流水线上的开发商和工作室已经花了好几年。可至今没有任何成果能让普通人真正在意这项技术。那种让全世界玩家为AI生成角色机智又贴合语境的回应而着迷的RPG在哪里？那种由AI打造出值得探索的无限世界、培养出不只是被动反应、而是真正有趣的伙伴的生活模拟游戏又在哪里？"
+        },
+        {
+          "t": "p",
+          "x": "作者直接给出了原因:因为AI做不到这些。他认为，真正卡住开发进度的瓶颈，往往不是技术上的些微局限，而是那些一直把AI硬塞给员工的管理者和所有者本身的无能与短视。"
+        },
+        {
+          "t": "p",
+          "x": "Buser用一个比喻为文章收尾。「I think of AI as an exoskeleton — an Iron Man suit for developers. The armor does the heavy lifting, but it does nothing without the intent of the human pilot inside.」意思是他把AI看作开发者的钢铁侠战衣，也就是外骨骼。Aftermath的最后一句话是:钢铁侠战衣实际上并不存在，那只是一个幻想。"
+        }
+      ]
     }
   }
 }

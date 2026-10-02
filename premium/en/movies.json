@@ -3277,6 +3277,117 @@
           "x": "Astro Burn is a 'cute 'em up' developed by Dulull's game studio Beyond the Pixels and published by Pixel Doors. It came out on PC and Mac via Steam and GOG this past July, with mobile and console ports in the works."
         }
       ]
+    },
+    "movies/movies-be-brave-venice-ai-doc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "New York-based Italian director Francesco Carrozzini is bringing “Be Brave” to the Venice Film Festival. It is an 85-minute portrait of Renzo Rosso, the founder of Diesel. He says he used AI in a way that “can still live inside a place for emotion and story.”"
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Renzo-Rosso.jpg?w=1000&h=563&crop=1",
+          "cap": "Our Films"
+        },
+        {
+          "t": "p",
+          "x": "In the film, Rosso is a visionary and underdog who went against the grain, a man who rose from poverty to build a fashion empire. Yet Carrozzini never filmed his subject for a single frame. Every era of Rosso was recreated entirely with AI."
+        },
+        {
+          "t": "p",
+          "x": "Venice artistic director Alberto Barbera, announcing the invitation, said, “I want to offer this film as an invitation to think together about what new creative possibilities AI as a tool can open up for filmmakers.” It counts among the first AI features to premiere at a top-tier festival."
+        },
+        {
+          "t": "p",
+          "x": "The Lido is no stranger to Carrozzini. He first came with “Franca: Chaos and Creation,” about his mother, the influential editor-in-chief of Vogue Italia, and returned in 2022 with his first narrative feature, “Hanging Sun.”"
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Francesco-Carrozzini.jpg",
+          "cap": "Francesco Carrozzini / Our Films"
+        },
+        {
+          "t": "p",
+          "x": "Production took a year and a half. “AI changed so much in the meantime that we had to redo what we'd done early on,” he adds. “By the time it screens in theaters, it will probably already be old.” Still, he says, “it's genuinely exciting to work with a medium that changes at this speed.” The film was produced by Lorenzo Mieli, Mario Zanani and Gabriele Immirzi at Rome's Our Films."
+        },
+        {
+          "t": "p",
+          "x": "It started out of necessity. Rosso has a large TV archive, but no usable interviews and even less of his private moments. That led to the idea of building it from scratch, even while worrying no one would believe it. From there, the idea spread into making AI itself the subject of the film."
+        },
+        {
+          "t": "p",
+          "x": "The whole documentary is scripted. It uses a device in which the director goes looking for Rosso and Rosso evades and runs from him, and that chase became the theme itself. “This film isn't a thesis on AI. If it says one thing in the end, it's that people have to come first.”"
+        },
+        {
+          "t": "p",
+          "x": "The work itself “was a nightmare at first.” AI does not give you exactly what you ask for. As he puts it precisely, “it always gives you some version of what you requested.” Building faces from period photos, creating voices for each age, and matching lip-sync became a tedious, repetitive grind."
+        },
+        {
+          "t": "p",
+          "x": "The hardest part was neither the face nor the voice. It was behavior. “You can get the voice perfectly. You can match the image too. But what's really hard is behavior.”"
+        },
+        {
+          "t": "p",
+          "x": "Labeling all the generated material like real footage so editors could pull from it was also a job in itself. Much of it was handled by Blackstone, with AI artist Roberto Veragnoli doing the heavy lifting. “It looks like a plain documentary. But the labor behind it is closer to a heavy CGI blockbuster.” The process of making things at low resolution and then upscaling went on continuously."
+        },
+        {
+          "t": "p",
+          "x": "Whether audiences notice isn't his concern. What matters is making it funny and relatable. But he draws a clear line: for now, he won't take on contemporary fiction or period drama made without actors, because emotion comes from the work of real people."
+        }
+      ]
+    },
+    "movies/movies-nice-touch-v2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nice Touch has released V2 of its namesake app, an AI editing assistant for professional video post teams. This isn't a touch-up; it's a complete rebuild, and more than 300 conversations with editors, producers, production supervisors and studio heads shaped the design. It's available to use right now."
+        },
+        {
+          "t": "p",
+          "x": "Here's how it works. It analyzes project footage, transcribing with word-level accuracy while separating speakers. From there you just give instructions in plain language. Say what cut you want, and the app lays actual clips, cuts and markers onto the timeline — in a state you can keep working on directly."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Nice-Touch-app.jpg",
+          "cap": "Nice Touch"
+        },
+        {
+          "t": "p",
+          "x": "Starting with what's new in V2: first, where it lives has changed. It now runs inside Adobe Premiere and DaVinci Resolve."
+        },
+        {
+          "t": "p",
+          "x": "The editing engine was also rebuilt. Interviews, podcasts, panels, direct-to-camera pieces, sessions with overlapping speakers — each has its own character. V2 reads what kind of material it has received and what kind of edit was requested, and handles it accordingly."
+        },
+        {
+          "t": "p",
+          "x": "Multicam starts from the original multicam. Angle sync holds through any number of versions and revisions. Analysis and transcription run in 18 languages."
+        },
+        {
+          "t": "p",
+          "x": "It's a conversation, not a black box. Editors give instructions in words, see a preview of what the app intends to do, and can put the brakes on before it runs."
+        },
+        {
+          "t": "p",
+          "x": "The founders are Matthew Cooksey and Paul Simon. Over 12 years, the two grew Circus Street's video production outfit to 200 people and made TV- and VFX-grade content for Coca-Cola, Nike, Nestlé and Pfizer. Cooksey built a £500,000 virtual studio that produced 60 hours of content in 20 languages, reaching more than 500,000 viewers."
+        },
+        {
+          "t": "p",
+          "x": "Media Composer, Final Cut, Premiere, Resolve — tools have changed how each generation works, but no one ever touched the most painful part. When a drive full of footage arrives, always more than expected, someone still has to watch all of it, pull selects, sync multicam and lay down an assembly. Creative judgment only begins after that. It usually eats an entire day."
+        },
+        {
+          "t": "p",
+          "x": "Two things kept coming up across the 300 conversations. One: most existing AI tools required stepping out of editing to process something elsewhere and bring the result back in — a line editors didn't want to cross."
+        },
+        {
+          "t": "p",
+          "x": "Two: there was no single output everyone wanted. Needs differed by project and by corner of the industry — stringouts, selects, assemblies, supercuts, cutdowns, sound bites, paper edits, each with its own precise set of expectations. V2 was built to target that range, not a single fixed output."
+        },
+        {
+          "t": "p",
+          "x": "Pricing is on nicetouch.app. The five-day free trial unlocks every feature with 2,000 credits. Paid tiers are the 7,000-credit Pro at $67.75 a month and the 40,000-credit Ultra at $338.67 a month, with pay-as-you-go top-ups also available. Podimo and the University of Georgia's School of Social Work editing team are already using it."
+        }
+      ]
     }
   }
 }

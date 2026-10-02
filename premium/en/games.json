@@ -3588,6 +3588,153 @@
           "x": "Dr. Cao named three things as the next homework: moving from a single asset to environments and interaction, attaching the code and logic that build environments, and a world model that predicts the next few minutes. Once those three come together, artists will spend their time setting direction instead of making assets and writing scripts."
         }
       ]
+    },
+    "games/games-dwarf-fortress-magic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
+          "cap": "Key art for the Myth and Magic update. A dwarf mage casts a spell beneath the form of Armok. Image credit: Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "Dwarf Fortress has already implemented cat alcoholism, procedurally generated bardic traditions, and thermonuclear dragon breath that goes off like a time bomb. But brothers and developers Tarn Adams and Zach Adams haven't let go of an even bigger goal: magic. Procedural magic tied to a cosmology and mythology that gets rewritten every time a player hits 'generate new world,' and that only works within that particular world."
+        },
+        {
+          "t": "p",
+          "x": "It's a reckless undertaking even for a game that already set the bar for simulation complexity. It took 10 years and required overhauling the entire scripting system. Putnam, the first programmer Bay 12 Games hired from outside the Adams brothers, carried that work. It's honestly hard to believe, but the first piece arrives this year."
+        },
+        {
+          "t": "video",
+          "yt": "8P-FTy6hhp0"
+        },
+        {
+          "t": "p",
+          "x": "In a short announcement video, Tarn Adams confirmed the first Myth and Magic update arrives this year. He said the goal is a procedural magic system that reaches past combining spell effects and digs straight into a universe's fundamental cosmological makeup, creating magical situations that couldn't come about any other way."
+        },
+        {
+          "t": "p",
+          "x": "The idea dates back to 2017. By tying magic to each world's creation myth and cosmology, Dwarf Fortress stops being a game that stamps out world variations and becomes a generator that creates entire fantasy settings. The result is universes where magic is as fundamental as the laws of physics."
+        },
+        {
+          "t": "p",
+          "x": "Adams said: “It allows your fortresses to pursue magical research that really feels like discovery.” That means your fortress can carry out magical research that genuinely feels like discovery."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7YB7v9Jh7Qb2VXAeDsP5NV.png",
+          "cap": "A six-armed fly-man clears a corridor full of goblins with magic. Image credit: Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "The video is only a minute long, but it offers glimpses of characters using magic. A goblin shaman teleports a cat, a dwarf mage repeatedly slams a goblin into a wall, and a six-armed fly-man holding four wands tears through a corridor full of enemy swordsmen with a barrage of magic bolts. A dwarf cursed with undeath by a necromancer immediately starts biting the comrade next to it."
+        },
+        {
+          "t": "p",
+          "x": "Over a scene of a magic projectile quickly demolishing a dwarven outpost, Adams added that there will be magic effects that blow things up, but also everything that makes fantasy feel like fantasy: magical materials, enchantments, rituals, and ancient ruins. And each one is tied to how that particular universe works at its core."
+        },
+        {
+          "t": "p",
+          "x": "There's no release date yet for the first Myth and Magic update. Dwarf Fortress is currently available on Steam and the Bay 12 Games site."
+        }
+      ]
+    },
+    "games/games-genai-visual-literacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Games unfairly suspected of using genAI. Image credit: Rock Paper Shotgun"
+        },
+        {
+          "t": "p",
+          "x": "Witch hunts over whether art used in a game is the output of generative AI have become routine. Over several weeks, Rock Paper Shotgun spoke with developers and artists who were unfairly singled out and asked why that particular image drew suspicion. AI images have no fixed style or quality; the result is shaped entirely by what was fed into the model, so any detection trick that worked once quickly goes stale."
+        },
+        {
+          "t": "p",
+          "x": "Hannah Flynn, communications director at Failbetter, maker of Fallen London, said that whenever a video goes viral or there's a major announcement, the question of whether they use genAI always follows. The studio has even posted a statement on its homepage saying it won't use AI. Her guess is that a painterly art style, or odd bodily details like too many eyes or fingers, actually invite more suspicion."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/tenebris-somnia-2.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "A monster with a candle on its head. A scene from the horror game Tenebris Somnia. Image credit: New Blood Interactive"
+        },
+        {
+          "t": "p",
+          "x": "David Oshry, CEO of New Blood Interactive, faced the same suspicion over Tenebris Somnia, a horror game that mixes pixel art with live-action footage. He ended up having to release a separate behind-the-scenes video showing how the props were made. He said the criticism, especially on Instagram, is almost constant now; a year ago this kind of reaction was rare. The uproar did boost the wishlist by 15,000 adds in a single week."
+        },
+        {
+          "t": "p",
+          "x": "Abandoned Sheep, maker of Schrodinger's Cat Burglar, ended up replacing the art entirely. The key art in question was hand-drawn by local artist Tom Williams in mid-2022, before genAI could produce that level of quality. Studio director Martin Binfield said it seems to have been flagged for looking too polished. The comments leaned less toward “is this AI?” and more toward a flat assertion that they wouldn't buy it until the AI was removed."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/unnamed(2)_XiRPXSV.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "The old key art for Schrodinger's Cat Burglar, repeatedly singled out as AI-generated. Image credit: Abandoned Sheep"
+        },
+        {
+          "t": "p",
+          "x": "Illustrator Janna Sophia Koppenwallner is writing her master's thesis on how accurately people can spot AI. The data is still preliminary and not yet peer-reviewed, but average detection accuracy came out to 74%, and people who completed a short training module actually did slightly worse. She added that the art most often mistaken for AI tended to be clean, highly polished, popular styles. The more data available, the better a model can reproduce a style, so niche styles still can't be convincingly imitated."
+        },
+        {
+          "t": "p",
+          "x": "The texture of the mistakes differs too. AI blends things together, like hair flowing into a necklace, because it's stitching things together by probability without knowing what it's actually drawing. A human beginner's mistakes don't look like that."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/image(1).png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "A 10-panel image showing path tracing and denoising applied step by step. Image credit: Abdou Bouam"
+        },
+        {
+          "t": "p",
+          "x": "Things get more tangled when older machine-learning tools enter the picture. Freelance artist Abdou Bouam was asked by a client whether a blurry smudge was AI; it was actually a denoising artifact. Path-traced renders start out full of noise and only become physically accurate once enough samples accumulate. Denoisers like Nvidia Optix, which came out in 2018, do use machine learning, but they're a different thing from today's generative AI: they were trained on images rendered with deliberately added noise rather than scraped data, and they run locally rather than in a data center."
+        },
+        {
+          "t": "p",
+          "x": "Koppenwallner said pure visual detection is only getting harder. These days the real clues lie more in context than in the image itself. Knowing that, and using it to protect yourself, is different from trusting a gut feeling and publicly calling someone out."
+        }
+      ]
+    },
+    "games/games-google-ai-pitch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
+          "cap": "An excerpt from Google Cloud's blog post 'Level up: How AI is unlocking a new golden age of games.' Image credit: Aftermath"
+        },
+        {
+          "t": "p",
+          "x": "The Aftermath writer said they wasted a few minutes of their life reading Google Cloud's company blog post 'Level up: How AI is unlocking a new golden age of games.' The author is Jack Buser, Google's global director of games."
+        },
+        {
+          "t": "p",
+          "x": "The shape of it is predictable: a sales pitch written by someone from the company, followed by sentences that read like LinkedIn bait. “We need a structural shift to revive the ecosystem where creative risks are sustainable again. Fortunately, AI has matured enough to help drive that renaissance.” In other words, reviving the ecosystem so creative risk-taking becomes sustainable again requires a structural shift, and fortunately AI has matured enough to help drive that renaissance."
+        },
+        {
+          "t": "p",
+          "x": "What actually caught the writer's eye was the end of the post. Buser cites three cases he calls 'interesting' uses of AI in game development: Chatty Slimey, a real-time multimodal companion Square Enix is adding to Dragon Quest X Online; The Ritual, a custom generation system from 10Six Games' time-traveling horde-survival roguelite YOU vs. Zombies, which launched this summer; and Teammates, Ubisoft's prototype that replaces command menus with voice direction."
+        },
+        {
+          "t": "p",
+          "x": "The writer's response is short and harsh: after three to four years poured into this collective madness, is this trio of minor, annoying, unpopular party tricks really all you have to back up a sales pitch? They ask whether this is really what Google means by a golden age."
+        },
+        {
+          "t": "p",
+          "x": "The only thing Chatty Slimey seems to be building with the Dragon Quest fandom is how much people dislike it. YOU vs. Zombies, which the writer had never heard of before and looked up, looks poor. Teammates has already shown up once before, in an Aftermath piece from November 2025."
+        },
+        {
+          "t": "p",
+          "x": "Developers and studios that bet everything on AI pipelines have spent years at it. And still there's no output that makes an ordinary person care about this technology. Where's the RPG that has gamers worldwide hooked on witty, context-aware responses from AI-generated characters? Where's the life sim where AI has built an infinite world worth exploring, with companions who aren't just reactive but genuinely interesting?"
+        },
+        {
+          "t": "p",
+          "x": "The writer cuts straight to the reason: it's because AI can't do that. They argue that the real bottleneck blocking development schedules usually isn't some minor technical limitation, but the incompetence and short-sightedness of the very managers and owners who keep pushing AI onto workers."
+        },
+        {
+          "t": "p",
+          "x": "Buser closes with a metaphor. “I think of AI as an exoskeleton — an Iron Man suit for developers. The armor does the heavy lifting, but it does nothing without the intent of the human pilot inside.” In other words, he sees AI as an Iron Man suit for developers, an exoskeleton. Aftermath's closing line: the Iron Man suit doesn't actually exist. It's a fantasy."
+        }
+      ]
     }
   }
 }

@@ -15194,10 +15194,9 @@
   "date": "2026-09-01",
   "section": "movies",
   "has_full": true,
-  "headline": "나이스 터치, AI 편집 어시스턴트\nV2를 전면 재설계해 내놨다",
-  "body": "편집자와 프로듀서 300여 명의 이야기를 듣고 앱을 통째로 새로 만들어 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Nice Touch新版\n編集AI、V2登場",
+  "body": "編集者とプロデューサー300人超の声を聞き、アプリを一から作り直し公開した。",
+  "lang": "ja"
  },
  {
   "id": "movies-junkyard-king-daubrez",
@@ -15226,10 +15225,9 @@
   "date": "2026-09-01",
   "section": "movies",
   "has_full": true,
-  "headline": "베네치아로 향한 AI 다큐멘터리\n감독은 “사람이 먼저”라고 말한다",
-  "body": "카로치니 감독은 베네치아 출품작 「비 브레이브」에서 사람이 먼저라고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI映画、ヴェネチアへ\n監督「人が先」と語る",
+  "body": "カロッツィーニ監督はヴェネチア出品作「ビー・ブレイブ」で、人が先だと語る。",
+  "lang": "ja"
  },
  {
   "id": "movies-ai-prompt-copyright-bill",
@@ -15402,10 +15400,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "코딩 에이전트가 읽는\n브랜드 규칙 한 파일",
-  "body": "코딩 에이전트가 불러 쓰는 브랜드 규칙 파일 design.md를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "コーディングAIが\n読むブランド規則書",
+  "body": "コーディングAIが読み込むブランドルールファイルdesign.mdを公開した。",
+  "lang": "ja"
  },
  {
   "id": "design-runway-solaris",
@@ -15418,10 +15415,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "Runway Solaris,\n프롬프트가 곧 인터페이스",
-  "body": "코드 없이 프롬프트만으로 상호작용 인터페이스를 프레임 단위로 만들어내는 모델이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Runway Solaris\nプロンプトがUIに",
+  "body": "コードなしにプロンプトだけでインターフェースをフレーム単位で生成するモデルだ。",
+  "lang": "ja"
  },
  {
   "id": "design-quest3-240hz",
@@ -15434,10 +15430,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "Quest 3, 주사율\n240Hz까지 열렸다",
-  "body": "Meta 업데이트로 240Hz, 풀 해상도에선 207Hz까지 주사율이 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Quest 3の描画\n240Hzまで対応",
+  "body": "Metaの更新でリフレッシュレートが240Hz、フル解像度では207Hzまで上がった。",
+  "lang": "ja"
  },
  {
   "id": "design-css-random-polyfill",
@@ -15450,10 +15445,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "CSS random()을\n폴리필로 지금 쓴다",
-  "body": "random() 함수를 폴리필로 감싸 모든 브라우저에서 지금 쓰게 만든 기록이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "CSS random()を\n今すぐポリフィルで使う",
+  "body": "random()をポリフィルで包み、全ブラウザで今使えるようにした記録だ。",
+  "lang": "ja"
  },
  {
   "id": "design-blender-krita-bridge",
@@ -15466,10 +15460,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "Blender에서 잡고\nKrita에서 칠한다",
-  "body": "Blender 뷰를 캡처해 Krita에서 칠한 뒤 모델에 되돌리는 브리지다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Blenderで捉え\nKritaで塗る",
+  "body": "BlenderのビューをKritaで塗り、モデルへ戻すブリッジだ。",
+  "lang": "ja"
  },
  {
   "id": "books-ssrs-audiobook-narration-survey",
@@ -15642,10 +15635,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "Suno가 스스로 만든 음악 과잉에\n다운로드 상한이라는 제동을 건다",
-  "body": "MIDiA는 음악 산업이 녹음이 아니라 문화를 길러내는 사업이어야 한다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Suno、過剰生産に\nDL上限で歯止め",
+  "body": "MIDiAは音楽業界は録音でなく文化を育てる産業であるべきだとみる。",
+  "lang": "ja"
  },
  {
   "id": "music-stemdeck",
@@ -15658,10 +15650,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "StemDeck, 계정도 업로드도 없이\n로컬에서 스템 여섯 개를 뽑는다",
-  "body": "세 운영체제에서 모두 돌아가고 보컬과 드럼, 기타, 피아노를 따로 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "StemDeckは登録不要\nローカルで6ステム抽出",
+  "body": "3つのOSで動き、ボーカルやドラム、ギター、ピアノを個別に抽出する。",
+  "lang": "ja"
  },
  {
   "id": "music-round-hill-suit",
@@ -15674,10 +15665,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "음악 퍼블리셔 Round Hill이\nSuno와 Anthropic을 걸었다",
-  "body": "Round Hill은 두 회사의 무단 복제가 공정이용이 아니라고 주장한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Round Hillが提訴\nSuno・Anthropic",
+  "body": "Round Hillは両社の無断複製はフェアユースでないと主張する。",
+  "lang": "ja"
  },
  {
   "id": "music-platform-ai-policies",
@@ -15690,10 +15680,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "밴드캠프는 금지, 스포티파이는 라벨\nAI 음악 규칙이 서비스마다 갈린다",
-  "body": "빌보드가 스포티파이부터 밴드캠프까지 아홉 곳의 AI 음악 정책을 모아 갱신한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Bandcampは禁止\nSpotifyはラベル化",
+  "body": "ビルボードがSpotifyからBandcampまで9社のAI音楽政策をまとめ更新する。",
+  "lang": "ja"
  },
  {
   "id": "music-human-first-certification",
@@ -15706,10 +15695,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "사람이 만든 음악이라는 표시에\n체크박스가 아니라 인증기관이 필요하다",
-  "body": "그리드 보정과 피치 보정, 생성형 AI를 쓰지 않은 녹음에만 인증 마크를 붙인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "「人間製」の音楽には\nチェックでなく認証機関が必要",
+  "body": "グリッド補正やピッチ補正、生成AIを使わない録音にのみ認証マークを与える。",
+  "lang": "ja"
  },
  {
   "id": "movies-utopai-ai-native-slate",
@@ -15914,10 +15902,9 @@
   "date": "2026-08-31",
   "section": "gadgets",
   "has_full": true,
-  "headline": "베이징 세계 휴머노이드 로봇 게임\n기록은 깨졌고 로봇은 불탔다",
-  "body": "베이징 세계 휴머노이드 로봇 게임에서 한 로봇이 100미터를 9.39초에 뛰며 기록을 갈아치웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "北京ヒューマノイド大会\n記録更新、ロボット炎上",
+  "body": "北京の世界ヒューマノイド大会で、ロボットが100m走で9.39秒の新記録を出した。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-anthropic-hardware-standard",
@@ -15930,10 +15917,9 @@
   "date": "2026-08-31",
   "section": "gadgets",
   "has_full": true,
-  "headline": "앤스로픽이 내놓은 하드웨어 표준\nAI 에이전트가 실험 장비를 직접 만진다",
-  "body": "앤스로픽이 공개한 MHS는 AI 에이전트가 실험 장비를 공통 규격으로 다루게 하는 드라이버 묶음이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Anthropicの新標準\nAIが実験装置に触れる",
+  "body": "Anthropic公開のMHSは、AIが実験装置を共通規格で扱うドライバー群だ。",
+  "lang": "ja"
  },
  {
   "id": "design-figma-variables-structure",
@@ -15946,10 +15932,9 @@
   "date": "2026-08-31",
   "section": "design",
   "has_full": true,
-  "headline": "Figma 변수를 네 컬렉션으로 나눠\n코드베이스와 같은 값을 쓴다",
-  "body": "네 개 컬렉션으로 원시값과 의미 토큰을 갈라 두면 규모가 커져도 값이 흔들리지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma変数を4分類に\nコードと同じ値を使う",
+  "body": "4つのコレクションに原始値と意味トークンを分けると、規模が大きくなっても値がぶれない。",
+  "lang": "ja"
  },
  {
   "id": "design-disney-auction-concept-art",
@@ -16122,10 +16107,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "획의 타이밍과 압력이\n파킨슨병을 가려낸다",
-  "body": "스마트 펜이 기록한 획 신호를 딥러닝에 넣어 최대 98.95% 정확도를 얻었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "筆圧とタイミング\nパーキンソン判別",
+  "body": "スマートペンの筆跡信号を深層学習に通し最大98.95%の精度を得た。",
+  "lang": "ja"
  },
  {
   "id": "science-mof-linker-ml",
@@ -16138,10 +16122,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "화학을 읽는 모델이 찾아낸\n물 수확 소재 10종",
-  "body": "MOF 링커 변환 4,000건을 학습한 모델이 물 수확 소재 10종을 짚어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "化学を読むAI\n水収穫材料10種",
+  "body": "MOFリンカー変換4,000件を学習したモデルが水収穫材料10種を見出した。",
+  "lang": "ja"
  },
  {
   "id": "science-glucofm",
@@ -16154,10 +16137,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "구글이 내놓은 연속 혈당\n파운데이션 모델 GlucoFM",
-  "body": "라벨 없는 연속 혈당 109,066시간을 학습해 대사 예측 과제 7종을 다룬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "グーグルの連続血糖\n基盤モデルGlucoFM",
+  "body": "ラベルなし連続血糖109,066時間を学習し代謝予測課題7種を扱う。",
+  "lang": "ja"
  },
  {
   "id": "science-cancer-vaccine-algorithm",
@@ -16170,10 +16152,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "머크·모더나 암 백신의\n진짜 심장은 알고리즘",
-  "body": "종양 변이 수천 개에서 신생항원 34개를 고르는 알고리즘이 백신의 핵심이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "メルク・モデルナ癌ワクチン\n心臓はアルゴリズム",
+  "body": "数千の腫瘍変異から新生抗原34個を選ぶアルゴリズムがワクチンの核心だ。",
+  "lang": "ja"
  },
  {
   "id": "music-uk-voice-cloning",
@@ -16186,10 +16167,9 @@
   "date": "2026-08-30",
   "section": "music",
   "has_full": true,
-  "headline": "영국 음악인과 배우 80여 명이\n목소리 복제 규제를 요구했다",
-  "body": "동의 없는 목소리 복제를 막을 법을 만들어 달라며 공연자들이 정부에 서한을 보냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "英の音楽家俳優80人超\n声複製の規制求める",
+  "body": "同意のない声複製を防ぐ法整備を求め、演者らが英政府に書簡を送った。",
+  "lang": "ja"
  },
  {
   "id": "music-ig-first-draft",
@@ -16362,10 +16342,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "구글이 게임에 내민 AI 데모,\n3~4년의 결과가 이것뿐인가",
-  "body": "구글이 내세운 게임 AI 사례 세 건에 3~4년 성과가 이것뿐이냐는 혹평이 붙었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "グーグルのAIデモ\n3~4年でこれだけ?",
+  "body": "グーグルが示したゲームAI事例3件に、3~4年でこれだけかという批判が付いた。",
+  "lang": "ja"
  },
  {
   "id": "games-genai-visual-literacy",
@@ -16378,10 +16357,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "게임 속 AI 아트를 가려내는 건\n결국 시각적 문해력의 문제다",
-  "body": "생성형 AI 그림을 알아보는 눈은 타고나는 게 아니라 훈련으로 길러진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ゲーム内AI画像の\n見極めは読解力",
+  "body": "生成AIが描いた絵を見抜く目は、生まれつきではなく訓練によって育つものだ。",
+  "lang": "ja"
  },
  {
   "id": "games-dwarf-fortress-magic",
@@ -16394,10 +16372,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "드워프 포트리스, 세계마다 다른\n마법 체계를 절차적으로 만든다",
-  "body": "올해 안에 나올 '신화와 마법' 업데이트는 월드마다 다른 마법 체계를 새로 짠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Dwarf Fortress\n世界ごとに魔法生成",
+  "body": "今年登場の「神話と魔法」更新は世界ごとに異なる魔法体系を作る。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-roborock-qrevo-2-pro",
@@ -16410,10 +16387,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "존재를 잊게 만드는 청소기,\n로보락 큐레보 2 프로",
-  "body": "큐레보 2 프로는 25,000Pa 흡입에 물걸레 자동 탈착까지 550달러에 넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "存在を忘れる掃除機\nQrevo 2 Pro",
+  "body": "Qrevo 2 Proは25,000Pa吸引と自動モップ着脱を550ドルに収めた。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-pixel-11",
@@ -16426,10 +16402,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "구글이 픽셀 11에서 소셜과\nAI를 한 몸으로 묶었다",
-  "body": "픽셀 11은 찍는 순간과 앱 여는 순간에 모두 AI를 끼운 899달러 플래그십이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "グーグルのPixel 11\n社交とAIを統合",
+  "body": "Pixel 11は撮影の瞬間もアプリを開く瞬間もAIを組み込んだ899ドルの旗艦機だ。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-low-light-two-stage-ai",
@@ -16442,10 +16417,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "야간 모드가 뭉갠 질감을\n2단계 AI가 되살린다",
-  "body": "우한대 연구진이 UHD 저조도 사진을 질감까지 지키며 밝히는 2단계 AI를 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "夜景で潰れた\n質感を2段AIが復元",
+  "body": "武漢大学の研究陣が、質感を保ちつつUHD低照度写真を明るくする2段階AIを発表した。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-ios27-siri-app",
@@ -16458,10 +16432,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "iOS 27의 시리는\n이제 하나의 앱이다",
-  "body": "애플이 다시 만든 시리가 iOS 27에서 처음으로 독립된 챗봇 앱을 갖게 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "iOS27のSiri\n単独アプリ化",
+  "body": "アップルが刷新したSiriが、iOS27で初めて独立したチャットボットアプリを得た。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-gemini-nano-4",
@@ -16474,10 +16447,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이 인텔리전스는\n나노 3부터 돌아간다",
-  "body": "구글이 요구 사양에 '나노 v3 이상'을 되살리고 나노 4 첫 기기를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Geminiは\nナノ3から動作",
+  "body": "グーグルが要件に「Nano v3以上」を復活させ、Nano 4初の端末を発表した。",
+  "lang": "ja"
  },
  {
   "id": "design-vercel-dashboard-agents",
@@ -16490,10 +16462,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "Vercel 대시보드에서\n에이전트를 바로 배포한다",
-  "body": "Vercel 대시보드에서 eve 에이전트를 만들면 곧바로 배포돼 대화까지 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Vercelダッシュ\nボードで即展開",
+  "body": "Vercelダッシュボードでeveエージェントを作れば、即展開され対話もできる。",
+  "lang": "ja"
  },
  {
   "id": "design-openai-cursor-cutoff",
@@ -16506,10 +16477,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "OpenAI가 11월 12일\nCursor에서 모델을 뺀다",
-  "body": "OpenAI가 2026년 11월 12일 Cursor의 모델 접근을 끊기로 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "OpenAIが11月12日\nCursor撤退へ",
+  "body": "OpenAIが2026年11月12日、Cursorへのモデル提供を停止する。",
+  "lang": "ja"
  },
  {
   "id": "design-figma-agent-army",

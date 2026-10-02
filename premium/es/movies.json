@@ -2999,6 +2999,64 @@
           "x": "La función que el presentador señala como algo que no ha visto en ningún otro lugar es la búsqueda visual: se introduce tu propia creación generada por IA y encuentra planos de películas reales de la misma familia visual. También muestra un flujo de trabajo de subir capturas de pantalla a un lienzo de Flora y encadenarlas con prompts. El precio realmente es gratis."
         }
       ]
+    },
+    "movies/movies-be-brave-venice-ai-doc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El director italiano Francesco Carrozzini, afincado en Nueva York, lleva “Be Brave” al Festival de Venecia. Es un retrato de 85 minutos sobre Renzo Rosso, fundador de Diesel. Dice que usó la IA de una manera que “todavía puede vivir dentro del lugar de la emoción y la historia”."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Renzo-Rosso.jpg?w=1000&h=563&crop=1",
+          "cap": "Our Films"
+        },
+        {
+          "t": "p",
+          "x": "En la película, Rosso es un visionario y un desvalido que fue contra la corriente, un hombre que partió de la pobreza para construir un imperio de la moda. Sin embargo, Carrozzini nunca filmó a su protagonista en un solo fotograma. Cada etapa de Rosso fue recreada enteramente con IA."
+        },
+        {
+          "t": "p",
+          "x": "El director artístico de Venecia, Alberto Barbera, al anunciar la invitación, dijo: “Quiero presentar esta película como una invitación a pensar juntos qué nuevas posibilidades creativas puede abrir la IA, como herramienta, para los cineastas.” Se cuenta entre los primeros largometrajes de IA en estrenarse en un festival de primer nivel."
+        },
+        {
+          "t": "p",
+          "x": "El Lido no es un lugar desconocido para Carrozzini. Llegó por primera vez con “Franca: Chaos and Creation”, sobre su madre, la influyente editora en jefe de Vogue Italia, y volvió en 2022 con su primer largometraje de ficción, “Hanging Sun”."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Francesco-Carrozzini.jpg",
+          "cap": "Francesco Carrozzini / Our Films"
+        },
+        {
+          "t": "p",
+          "x": "La producción tardó un año y medio. “Mientras tanto, la IA cambió tanto que tuvimos que rehacer lo que habíamos hecho al principio”, añade. “Para cuando llegue a los cines, probablemente ya sea algo viejo.” Aun así, dice que “es realmente emocionante trabajar con un medio que cambia a esta velocidad.” La producción, en Roma, estuvo a cargo de Lorenzo Mieli, Mario Zanani y Gabriele Immirzi, de Our Films."
+        },
+        {
+          "t": "p",
+          "x": "Todo empezó por necesidad. Rosso tiene un amplio archivo televisivo, pero sin entrevistas utilizables y con aún menos momentos privados. De ahí surgió la idea de construirlo todo desde cero, aunque temiendo que nadie lo creyera. De eso se derivó la idea de convertir a la propia IA en el tema de la película."
+        },
+        {
+          "t": "p",
+          "x": "Todo el documental está guionizado. Usa un recurso en el que el director busca a Rosso y Rosso lo esquiva y huye de él, y esa persecución se convirtió en el tema mismo. “Esta película no es una tesis sobre la IA. Si al final dice algo, es que la gente tiene que ir primero.”"
+        },
+        {
+          "t": "p",
+          "x": "El trabajo en sí “fue una pesadilla al principio”. La IA no da exactamente lo que se le pide. Como él lo resume con precisión, “siempre te da alguna versión de lo que pediste.” Construir rostros a partir de fotos de época, crear voces para cada edad y ajustar la sincronización labial se convirtió en una repetición tediosa."
+        },
+        {
+          "t": "p",
+          "x": "Lo más difícil no fue ni el rostro ni la voz. Fue el comportamiento. “La voz se puede lograr a la perfección. La imagen también se puede ajustar. Pero lo verdaderamente difícil es el comportamiento.”"
+        },
+        {
+          "t": "p",
+          "x": "Etiquetar todo el material acumulado como si fuera material filmado real, para que los editores pudieran usarlo, también fue un trabajo en sí mismo. Gran parte estuvo a cargo de Blackstone, y el artista de IA Roberto Veragnoli hizo el trabajo más duro. “Por fuera parece un simple documental. Pero el trabajo invertido se acerca al de una gran producción pesada de CGI.” El proceso de crear a baja resolución y luego ampliar siguió de forma continua."
+        },
+        {
+          "t": "p",
+          "x": "Si el público lo nota o no, no es su preocupación. Su postura es que basta con que resulte gracioso y empático. Pero la línea es clara: por ahora dice que no aceptará ficción contemporánea ni dramas de época hechos sin actores, porque la emoción surge del trabajo de personas reales."
+        }
+      ]
     }
   }
 }

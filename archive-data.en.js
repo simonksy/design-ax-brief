@@ -15189,10 +15189,9 @@
   "date": "2026-09-01",
   "section": "movies",
   "has_full": true,
-  "headline": "나이스 터치, AI 편집 어시스턴트\nV2를 전면 재설계해 내놨다",
-  "body": "편집자와 프로듀서 300여 명의 이야기를 듣고 앱을 통째로 새로 만들어 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Nice Touch, an AI Edit Assistant\nRolls Out a Full Redesign: V2",
+  "body": "Nice Touch rebuilt its app from scratch after talking with over 300 editors and producers.",
+  "lang": "en"
  },
  {
   "id": "movies-junkyard-king-daubrez",
@@ -15221,10 +15220,9 @@
   "date": "2026-09-01",
   "section": "movies",
   "has_full": true,
-  "headline": "베네치아로 향한 AI 다큐멘터리\n감독은 “사람이 먼저”라고 말한다",
-  "body": "카로치니 감독은 베네치아 출품작 「비 브레이브」에서 사람이 먼저라고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI Documentary Heads to Venice\nDirector: “People Come First”",
+  "body": "Director Francesco Carrozzini says in his Venice entry “Be Brave” that people come first.",
+  "lang": "en"
  },
  {
   "id": "movies-ai-prompt-copyright-bill",
@@ -15397,10 +15395,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "코딩 에이전트가 읽는\n브랜드 규칙 한 파일",
-  "body": "코딩 에이전트가 불러 쓰는 브랜드 규칙 파일 design.md를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "One file of brand rules\nthat coding agents read",
+  "body": "Vercel released design.md, a brand rules file that coding agents load and use.",
+  "lang": "en"
  },
  {
   "id": "design-runway-solaris",
@@ -15413,10 +15410,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "Runway Solaris,\n프롬프트가 곧 인터페이스",
-  "body": "코드 없이 프롬프트만으로 상호작용 인터페이스를 프레임 단위로 만들어내는 모델이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Runway Solaris,\nthe prompt is the interface",
+  "body": "It is a model that generates interactive interfaces frame by frame from prompts alone, without code.",
+  "lang": "en"
  },
  {
   "id": "design-quest3-240hz",
@@ -15429,10 +15425,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "Quest 3, 주사율\n240Hz까지 열렸다",
-  "body": "Meta 업데이트로 240Hz, 풀 해상도에선 207Hz까지 주사율이 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Quest 3's refresh rate\nnow reaches 240Hz",
+  "body": "A Meta update raised the refresh rate to 240Hz, or 207Hz at full resolution.",
+  "lang": "en"
  },
  {
   "id": "design-css-random-polyfill",
@@ -15445,10 +15440,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "CSS random()을\n폴리필로 지금 쓴다",
-  "body": "random() 함수를 폴리필로 감싸 모든 브라우저에서 지금 쓰게 만든 기록이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "CSS random() works now\nthanks to a polyfill",
+  "body": "This is the story of wrapping the random() function in a polyfill so it works in every browser today.",
+  "lang": "en"
  },
  {
   "id": "design-blender-krita-bridge",
@@ -15461,10 +15455,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "Blender에서 잡고\nKrita에서 칠한다",
-  "body": "Blender 뷰를 캡처해 Krita에서 칠한 뒤 모델에 되돌리는 브리지다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Caught in Blender,\npainted in Krita",
+  "body": "A bridge that captures a Blender view, paints it in Krita, and sends the result back to the model.",
+  "lang": "en"
  },
  {
   "id": "books-ssrs-audiobook-narration-survey",
@@ -15637,10 +15630,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "Suno가 스스로 만든 음악 과잉에\n다운로드 상한이라는 제동을 건다",
-  "body": "MIDiA는 음악 산업이 녹음이 아니라 문화를 길러내는 사업이어야 한다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Suno curbs its own music glut\nby capping downloads",
+  "body": "MIDiA argues the music industry should be in the business of cultivating culture, not recordings.",
+  "lang": "en"
  },
  {
   "id": "music-stemdeck",
@@ -15653,10 +15645,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "StemDeck, 계정도 업로드도 없이\n로컬에서 스템 여섯 개를 뽑는다",
-  "body": "세 운영체제에서 모두 돌아가고 보컬과 드럼, 기타, 피아노를 따로 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "StemDeck, no account or upload\npulls six stems locally",
+  "body": "It runs on all three major operating systems and separates vocals, drums, guitar, and piano.",
+  "lang": "en"
  },
  {
   "id": "music-round-hill-suit",
@@ -15669,10 +15660,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "음악 퍼블리셔 Round Hill이\nSuno와 Anthropic을 걸었다",
-  "body": "Round Hill은 두 회사의 무단 복제가 공정이용이 아니라고 주장한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Music publisher Round Hill sues\nSuno and Anthropic",
+  "body": "Round Hill argues that the two companies' unauthorized copying is not fair use.",
+  "lang": "en"
  },
  {
   "id": "music-platform-ai-policies",
@@ -15685,10 +15675,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "밴드캠프는 금지, 스포티파이는 라벨\nAI 음악 규칙이 서비스마다 갈린다",
-  "body": "빌보드가 스포티파이부터 밴드캠프까지 아홉 곳의 AI 음악 정책을 모아 갱신한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Bandcamp bans, Spotify labels\nAI music rules differ by service",
+  "body": "Billboard compiles and keeps updating AI music policies at nine services, from Spotify to Bandcamp.",
+  "lang": "en"
  },
  {
   "id": "music-human-first-certification",
@@ -15701,10 +15690,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "사람이 만든 음악이라는 표시에\n체크박스가 아니라 인증기관이 필요하다",
-  "body": "그리드 보정과 피치 보정, 생성형 AI를 쓰지 않은 녹음에만 인증 마크를 붙인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Labeling human-made music\nneeds certifiers, not checkboxes",
+  "body": "The mark certifies only recordings made without grid correction, pitch correction, or generative AI.",
+  "lang": "en"
  },
  {
   "id": "movies-utopai-ai-native-slate",
@@ -15925,10 +15913,9 @@
   "date": "2026-08-31",
   "section": "gadgets",
   "has_full": true,
-  "headline": "앤스로픽이 내놓은 하드웨어 표준\nAI 에이전트가 실험 장비를 직접 만진다",
-  "body": "앤스로픽이 공개한 MHS는 AI 에이전트가 실험 장비를 공통 규격으로 다루게 하는 드라이버 묶음이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Anthropic's hardware standard\nAI agents handle lab equipment",
+  "body": "MHS, released by Anthropic, is a set of drivers that lets AI agents handle lab equipment under a shared standard.",
+  "lang": "en"
  },
  {
   "id": "design-figma-variables-structure",
@@ -15941,10 +15928,9 @@
   "date": "2026-08-31",
   "section": "design",
   "has_full": true,
-  "headline": "Figma 변수를 네 컬렉션으로 나눠\n코드베이스와 같은 값을 쓴다",
-  "body": "네 개 컬렉션으로 원시값과 의미 토큰을 갈라 두면 규모가 커져도 값이 흔들리지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma variables split into four\nto match the codebase's values",
+  "body": "Splitting primitives from semantic tokens across four collections keeps values stable as projects scale.",
+  "lang": "en"
  },
  {
   "id": "design-disney-auction-concept-art",
@@ -16117,10 +16103,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "획의 타이밍과 압력이\n파킨슨병을 가려낸다",
-  "body": "스마트 펜이 기록한 획 신호를 딥러닝에 넣어 최대 98.95% 정확도를 얻었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Stroke timing and pressure\ncan detect Parkinson's",
+  "body": "Feeding smart-pen stroke signals into deep learning reached up to 98.95% accuracy.",
+  "lang": "en"
  },
  {
   "id": "science-mof-linker-ml",
@@ -16133,10 +16118,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "화학을 읽는 모델이 찾아낸\n물 수확 소재 10종",
-  "body": "MOF 링커 변환 4,000건을 학습한 모델이 물 수확 소재 10종을 짚어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "A model that reads chemistry\nfound 10 water harvesters",
+  "body": "Trained on 4,000 MOF linker transformations, the model identified 10 water-harvesting materials.",
+  "lang": "en"
  },
  {
   "id": "science-glucofm",
@@ -16149,10 +16133,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "구글이 내놓은 연속 혈당\n파운데이션 모델 GlucoFM",
-  "body": "라벨 없는 연속 혈당 109,066시간을 학습해 대사 예측 과제 7종을 다룬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Google's continuous glucose\nfoundation model: GlucoFM",
+  "body": "Trained on 109,066 hours of unlabeled glucose data, it handles seven metabolic prediction tasks.",
+  "lang": "en"
  },
  {
   "id": "science-cancer-vaccine-algorithm",
@@ -16165,10 +16148,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "머크·모더나 암 백신의\n진짜 심장은 알고리즘",
-  "body": "종양 변이 수천 개에서 신생항원 34개를 고르는 알고리즘이 백신의 핵심이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Merck-Moderna cancer vaccine's\nreal heart is an algorithm",
+  "body": "An algorithm that selects 34 neoantigens from thousands of tumor mutations is the vaccine's core.",
+  "lang": "en"
  },
  {
   "id": "music-uk-voice-cloning",
@@ -16181,10 +16163,9 @@
   "date": "2026-08-30",
   "section": "music",
   "has_full": true,
-  "headline": "영국 음악인과 배우 80여 명이\n목소리 복제 규제를 요구했다",
-  "body": "동의 없는 목소리 복제를 막을 법을 만들어 달라며 공연자들이 정부에 서한을 보냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "80+ UK musicians and actors\ndemand voice-cloning rules",
+  "body": "Performers sent the government a letter calling for a law to stop voice cloning without consent.",
+  "lang": "en"
  },
  {
   "id": "music-ig-first-draft",
@@ -16357,10 +16338,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "구글이 게임에 내민 AI 데모,\n3~4년의 결과가 이것뿐인가",
-  "body": "구글이 내세운 게임 AI 사례 세 건에 3~4년 성과가 이것뿐이냐는 혹평이 붙었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Google's AI demo for games:\nis this all 3-4 years got?",
+  "body": "Critics mocked Google for presenting three game AI cases as the result of 3-4 years of work.",
+  "lang": "en"
  },
  {
   "id": "games-genai-visual-literacy",
@@ -16373,10 +16353,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "게임 속 AI 아트를 가려내는 건\n결국 시각적 문해력의 문제다",
-  "body": "생성형 AI 그림을 알아보는 눈은 타고나는 게 아니라 훈련으로 길러진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Spotting AI art in games is\na matter of visual literacy",
+  "body": "The eye that spots generative AI art isn't innate; it's trained through practice.",
+  "lang": "en"
  },
  {
   "id": "games-dwarf-fortress-magic",
@@ -16389,10 +16368,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "드워프 포트리스, 세계마다 다른\n마법 체계를 절차적으로 만든다",
-  "body": "올해 안에 나올 '신화와 마법' 업데이트는 월드마다 다른 마법 체계를 새로 짠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Dwarf Fortress procedurally\nbuilds a unique magic system",
+  "body": "The upcoming 'Myth and Magic' update builds a distinct magic system for every world this year.",
+  "lang": "en"
  },
  {
   "id": "gadgets-roborock-qrevo-2-pro",
@@ -16405,10 +16383,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "존재를 잊게 만드는 청소기,\n로보락 큐레보 2 프로",
-  "body": "큐레보 2 프로는 25,000Pa 흡입에 물걸레 자동 탈착까지 550달러에 넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "The vacuum that disappears,\nRoborock Qrevo 2 Pro",
+  "body": "The Qrevo 2 Pro packs 25,000Pa suction and automatic mop detaching into a $550 package.",
+  "lang": "en"
  },
  {
   "id": "gadgets-pixel-11",
@@ -16421,10 +16398,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "구글이 픽셀 11에서 소셜과\nAI를 한 몸으로 묶었다",
-  "body": "픽셀 11은 찍는 순간과 앱 여는 순간에 모두 AI를 끼운 899달러 플래그십이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Google fuses social and AI\ninto one in the Pixel 11",
+  "body": "The Pixel 11 is an $899 flagship that packs AI into both the moment you shoot and the moment you open an app.",
+  "lang": "en"
  },
  {
   "id": "gadgets-low-light-two-stage-ai",
@@ -16437,10 +16413,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "야간 모드가 뭉갠 질감을\n2단계 AI가 되살린다",
-  "body": "우한대 연구진이 UHD 저조도 사진을 질감까지 지키며 밝히는 2단계 AI를 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "A two-stage AI restores\ntexture night mode flattens",
+  "body": "Wuhan University researchers built a two-stage AI that brightens UHD low-light photos while preserving texture.",
+  "lang": "en"
  },
  {
   "id": "gadgets-ios27-siri-app",
@@ -16453,10 +16428,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "iOS 27의 시리는\n이제 하나의 앱이다",
-  "body": "애플이 다시 만든 시리가 iOS 27에서 처음으로 독립된 챗봇 앱을 갖게 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Siri in iOS 27 is now\nits own standalone app",
+  "body": "Apple's rebuilt Siri has its first standalone chatbot app, arriving with iOS 27.",
+  "lang": "en"
  },
  {
   "id": "gadgets-gemini-nano-4",
@@ -16469,10 +16443,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이 인텔리전스는\n나노 3부터 돌아간다",
-  "body": "구글이 요구 사양에 '나노 v3 이상'을 되살리고 나노 4 첫 기기를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gemini Intelligence runs\non Nano 3 and up",
+  "body": "Google restored 'Nano v3 or higher' to its requirements and unveiled the first Nano 4 devices.",
+  "lang": "en"
  },
  {
   "id": "design-vercel-dashboard-agents",
@@ -16485,10 +16458,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "Vercel 대시보드에서\n에이전트를 바로 배포한다",
-  "body": "Vercel 대시보드에서 eve 에이전트를 만들면 곧바로 배포돼 대화까지 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Vercel's dashboard now deploys\nagents instantly",
+  "body": "Build an eve agent in the Vercel dashboard and it deploys instantly, ready to chat.",
+  "lang": "en"
  },
  {
   "id": "design-openai-cursor-cutoff",
@@ -16501,10 +16473,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "OpenAI가 11월 12일\nCursor에서 모델을 뺀다",
-  "body": "OpenAI가 2026년 11월 12일 Cursor의 모델 접근을 끊기로 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "OpenAI will pull its models\nfrom Cursor on November 12",
+  "body": "OpenAI has decided to cut off Cursor's access to its models on November 12, 2026.",
+  "lang": "en"
  },
  {
   "id": "design-figma-agent-army",

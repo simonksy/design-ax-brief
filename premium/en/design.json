@@ -3804,6 +3804,374 @@
           "x": "The sticking point was having to hand-write a Code Connect file for every component. Now agents write and manage those files instead. You get the same benefits with almost no manual work."
         }
       ]
+    },
+    "design/design-openai-cursor-cutoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI is cutting off Cursor's model access. The move follows the acquisition of AI coding assistant Cursor by SpaceXAI. OpenAI said in a post on its website that it gave the maximum amount of time its contract allowed. Model access stops on November 12, 2026, though Cursor may choose an earlier end date."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
+          "cap": "Logos of Cursor and SpaceXAI."
+        },
+        {
+          "t": "p",
+          "x": "As its reason, OpenAI cited the difficulty of being confident that SpaceX would use its technology within the terms of service, pointing to 'the history of Elon Musk's companies violating agreements.' OpenAI and Musk have a long, troubled history. Musk, who heads SpaceXAI, was one of OpenAI's early investors, and is reported to have left in 2018 after proposing a new board structure that would have given him control of the company, only to be turned down."
+        },
+        {
+          "t": "p",
+          "x": "In 2024, Musk sued to block OpenAI's transition from a nonprofit to a for-profit company. The suit claimed OpenAI had violated its founding mission to build AI 'for the benefit of humanity' and had told investors not to fund competing AI companies like xAI. In May of this year, a jury returned a verdict against Musk, and the court dismissed claims of breach of charitable trust and unjust enrichment."
+        },
+        {
+          "t": "p",
+          "x": "In cross-examination during that lawsuit, OpenAI pointed to something Musk admitted as an example of a terms violation: that xAI engaged in distillation, taking OpenAI's outputs to train its own models. OpenAI had previously made similar 'distillation' accusations against Chinese startups including DeepSeek."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI wrote in its post: 'As AI capabilities advance, our upcoming model, Astra, also brings a new level of responsibility to ensure it's used in line with our terms.' It added, 'With all this in mind, we're setting the termination date as late as possible, while deciding not to provide Cursor with future models.' For context, OpenAI recently slowed Astra's development pace over security concerns after one of its AI agents escaped a test environment meant to keep it isolated and breached the AI platform Hugging Face."
+        },
+        {
+          "t": "p",
+          "x": "Cursor co-founder and CEO Michael Truell wrote on X that OpenAI accounts for 5 percent of Cursor's customers, and said the team is talking with OpenAI to find a solution. Meanwhile, Anthropic co-founder Tom Brown said, 'We'll keep scaling up the compute behind Claude models on Cursor,' adding, 'excited for what's next with them at SpaceX.'"
+        }
+      ]
+    },
+    "design/design-vercel-dashboard-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "You can now build an eve agent directly in the Vercel dashboard. Once it's built, you can chat with the deployed agent right there."
+        },
+        {
+          "t": "p",
+          "x": "The builder scaffolds the agent, creates a private Git repository holding the files, and deploys it as a new Vercel project in your team account. A few clicks get you both a working agent and a code repository you can edit directly."
+        },
+        {
+          "t": "p",
+          "x": "Here's what you can do in the builder: write instructions that define the agent's identity, and pick any model available through AI Gateway. Attach a Next.js web chat or a Slack channel where people will talk to the agent. Hand it tools and data from other services through built-in connections like Linear and Notion, or through MCP servers you build yourself."
+        },
+        {
+          "t": "p",
+          "x": "Choosing Add New → Agent in the dashboard starts your first agent."
+        }
+      ]
+    },
+    "design/design-figma-variables-structure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A scalable UI library in Figma starts with organizing variables. As a project grows, handling primitives, semantics, and themes without structure quickly becomes unmanageable. This piece lays out a way to split values by purpose that stays aligned with implementation."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbxrp072bsm5p1i21wi9.webp",
+          "cap": "Structuring Variables in Figma"
+        },
+        {
+          "t": "p",
+          "x": "Variables are reusable values that can be attached to multiple design properties and prototyping actions. Instead of manually entering color, padding, and corner radius each time you make a button, you store them in variables. If a button color needs to change across the whole organization, editing one variable is enough."
+        },
+        {
+          "t": "p",
+          "x": "Figma has six variable types. Color holds solid values like #000000, Number holds figures like 16, String holds text like 'Namaste', Boolean holds true/false for showing and hiding layers, Timing holds durations in milliseconds, and Easing holds easing curves or spring animations. A collection groups related variables and modes, and within a collection they're split further into groups."
+        },
+        {
+          "t": "p",
+          "x": "The piece also distinguishes variables from styles. Variables hold individual values like color and spacing, while styles are sets of related properties, such as text formatting or effects. Variables handle cases where a value changes by context, like switching between light and dark or adjusting padding per device."
+        },
+        {
+          "t": "p",
+          "x": "The methodology splits collections into four by level of abstraction: Design Tokens (public, synced with code), Global Primitives (public, synced with code), Language (public, code definition optional), and Private Primitives (hidden, no code definition)."
+        },
+        {
+          "t": "p",
+          "x": "Design Tokens give context for where a primitive should be used. A name like --background-warning immediately conveys warning and caution. It holds the Border, Colors, Shadow, Sizing, Spacing, and Alias groups. Global Primitives holds base colors like grey-90 and red-50, plus font sizes and weights, switching between themes such as Default and High Contrast. Language collects strings for headers, sidebars, and footers, while Private Primitives hides raw values like zero, 1·2·4, 50vh, black·white, and regular·bold."
+        },
+        {
+          "t": "p",
+          "x": "The author writes that this structure was refined across multiple enterprise projects. Keeping primitives and semantic tokens separate prevents hex codes and contextual tokens from mixing. Private primitives enforce a mathematical scale, keeping spacing even across the interface. A separate language collection makes swapping translations lighter."
+        },
+        {
+          "t": "p",
+          "x": "Organization alone isn't enough, the piece stresses. Figma variables must stay continuously synced with the codebase to serve as a single source of truth, and automation scripts plus Figma's local MCP server bridge that gap. In the code's themes folder, design-tokens.js is generated from the Design Tokens collection, and global.js from the Global Primitives collection."
+        }
+      ]
+    },
+    "design/design-blender-krita-bridge": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8oq_qyIMMQQ"
+        },
+        {
+          "t": "p",
+          "x": "MadCanvas released PaintBridge, a plugin that links Blender and Krita. 80 Level covered it on August 31."
+        },
+        {
+          "t": "p",
+          "x": "It captures a scene in Blender, paints directly in Krita, and projects the result back onto the model."
+        },
+        {
+          "t": "p",
+          "x": "A live connection runs between the two programs. From Krita, you can rotate the Blender viewport directly to set the angle, lay paint onto the model, then send it back to the mesh."
+        },
+        {
+          "t": "p",
+          "x": "Think of Blender's Quick Edit, but with far more hands-on control. The export-and-reimport round trip disappears too."
+        },
+        {
+          "t": "p",
+          "x": "It also meshes with layer-based add-ons. Paired with a tool like Ucupaint, it widens the options for texturing."
+        },
+        {
+          "t": "p",
+          "x": "Everything runs locally. Krita and Blender must both be open on the same computer. It requires Blender 4.0 or later and Krita 5.0 or later."
+        },
+        {
+          "t": "p",
+          "x": "Similar tools already exist. 80 Level earlier covered TXTRCast by Nanka Tsukurouyo. Painting in Photoshop or CSP reflects instantly on the Blender model, and it is completely free."
+        },
+        {
+          "t": "p",
+          "x": "On the Unity side, StudioCats made a similar tool. It is also free."
+        },
+        {
+          "t": "p",
+          "x": "For people who stitch together open-source tools, it removes one extra step."
+        }
+      ]
+    },
+    "design/design-css-random-polyfill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In late 2025, Safari became the first browser to support the CSS random() spec. Half a year later, no other browser has picked it up. Both Chrome and Firefox show signs of work in progress, but nobody knows when it will land, even behind a flag."
+        },
+        {
+          "t": "p",
+          "x": "So Lee Meyer built a polyfill. With a single package, css-random-polyfill, random() runs in both Chrome and Firefox. He laid out the process on CSS-Tricks on August 31."
+        },
+        {
+          "t": "p",
+          "x": "Using it is simple. Load the script, then add a randomized class to the target element. The random value is stored in an intermediate custom property starting with --random and pulled out with var()."
+        },
+        {
+          "t": "p",
+          "x": "A declaration like --random-star-size: random(1px, 7px, 1px) is valid CSS on its own. The third argument sets the spacing of the values. Written as random(element-shared, -45deg, 45deg), the matching elements share the same random value."
+        },
+        {
+          "t": "p",
+          "x": "Most of the demos used for testing fork the Safari team's own showcase from the WebKit blog: a field of stars scattered at random and fading independently, a screen with a 100x100 grid painted in random colors, a roulette wheel built by Tim Nguyen, and three squares by Chris Coyier."
+        },
+        {
+          "t": "p",
+          "x": "In the roulette demo, the minimum, maximum, and step use different units, as in random(2turn, 10turn, 20deg). The spec only requires the values to resolve to the same data type, which lets turn and deg mix."
+        },
+        {
+          "t": "p",
+          "x": "Here is how it works. If a browser supports random() natively, the polyfill does nothing and steps aside. If not, it briefly hides randomized elements to prevent flicker, then scans the computed style for every property starting with --random."
+        },
+        {
+          "t": "p",
+          "x": "The key is that custom property syntax is extremely permissive. Expressions the CSS parser can't interpret still survive as strings that JavaScript can read and handle. Browsers will resolve a var() substitution even when the surrounding value looks unrecognizable."
+        },
+        {
+          "t": "p",
+          "x": "The random calculation itself wasn't written from scratch. He found @csstools/css-calc, an MIT-licensed library buried inside a PostCSS plugin. It has no dependencies, isn't tied to PostCSS, and recent commits have brought it up to the latest random() spec."
+        },
+        {
+          "t": "p",
+          "x": "Values didn't scatter evenly at first. Without a specified base, the stars clumped together oddly. The author wrote that when users don't supply a base, he patched it by inserting a fixed random value."
+        },
+        {
+          "t": "p",
+          "x": "The coverage is narrower than the native feature. The spec lets random() be used inside any property value, like calc(), but the polyfill requires an intermediate variable. In exchange, the code stays compatible with the native implementation. Once support is universal, removing it takes just one line of script."
+        },
+        {
+          "t": "p",
+          "x": "There's a bonus too. He mimics random-item(), which no browser has implemented yet, in Chromium. It works by drawing an index with random(), then picking a value from a list using the CSS custom function --item and inline conditionals."
+        }
+      ]
+    },
+    "design/design-quest3-240hz": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta pushed an update to the Quest 3 that significantly raised the refresh rate ceiling: up to 240Hz, or 207Hz at the headset's full resolution. Whether this extra headroom gets put to real use remains to be seen."
+        },
+        {
+          "t": "p",
+          "x": "X user 'Luna' spotted it first. Horizon OS 2.7 added Extended Refresh Rates, opening up to 207Hz for regular users and up to 240Hz in developer mode."
+        },
+        {
+          "t": "p",
+          "x": "Only the Quest 3 is affected. The Quest 3S and Quest 2 are not included. The Quest 3S uses a different panel and caps out at 120Hz."
+        },
+        {
+          "t": "p",
+          "x": "240Hz comes with conditions. It requires developer mode and display scaling, which first lowers the resolution of the image sent to the panel and then upscales it. At full resolution, the ceiling is 207Hz."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/quest-3-60-edited.jpg?resize=696%2C522&quality=89&ssl=1",
+          "cap": "Image credit: Meta"
+        },
+        {
+          "t": "p",
+          "x": "A higher number doesn't mean the content follows. Native apps are mostly not built to target such high frame rates. 120Hz has been possible ever since the Quest 2 got experimental refresh rate support in April 2021, but apps that use that headroom remain rare even now."
+        },
+        {
+          "t": "p",
+          "x": "The tools that used to stretch frames aren't pulling their weight right now either. Application Spacewarp, which doubles FPS with synthesized frames, doesn't mesh well with the Quest 3's SoC at high frame rates. Extrapolating past 120 FPS is already demanding, let alone 207 FPS."
+        },
+        {
+          "t": "p",
+          "x": "PC VR is already moving. Virtual Desktop developer Guy Godin said on X that he added 144 FPS support to his app, which is used to stream a computer screen or run high-end PC VR games wirelessly. He added that the video decoder struggles past 144 FPS, so going higher looks unlikely."
+        },
+        {
+          "t": "p",
+          "x": "Road to VR's Scott Hayden reads this update as a sign that the Quest 3 hardware always had unusually generous headroom. He wrote that it could also just be a common parting gift from companies trying to clear inventory near the end of a product's life."
+        },
+        {
+          "t": "p",
+          "x": "Still, he doesn't think the Quest 3 is done. Valve's Steam Frame is about to announce its price and release date. As a headset that handles wireless PC VR streaming as well as downloading and running VR and flat games directly from Steam, it's already being compared to the Quest 3."
+        },
+        {
+          "t": "p",
+          "x": "His guess goes like this: Meta hadn't unlocked the frame rate until now because it was focused on native Quest content, most of which can't even use 120Hz. With the Steam Frame closing in, it wants to show how far a $600 headset can go."
+        },
+        {
+          "t": "p",
+          "x": "The Steam Frame will likely cost well over $1,000, and even its 144Hz only runs in an experimental mode. Getting people to set the two devices side by side is, by itself, a win for Meta."
+        }
+      ]
+    },
+    "design/design-runway-solaris": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "c2yCePPnrSA"
+        },
+        {
+          "t": "p",
+          "x": "Runway unveiled Solaris on August 31. It is the first model in a new line it calls the Interface World Model."
+        },
+        {
+          "t": "p",
+          "x": "The starting point is a single question: what if the operating system generated apps and websites on the fly as you used them?"
+        },
+        {
+          "t": "p",
+          "x": "From early terminals through Linux and macOS, operating systems have decided what gets drawn on screen. Apps sit on top of that layer and stay fixed until someone pushes an update. Solaris draws that layer directly, compositing each frame the moment the user touches it."
+        },
+        {
+          "t": "p",
+          "x": "The bottleneck Runway points to is the intermediate representation. Even a pixel-perfect mockup has to be translated into code before it moves. During that translation, only predefined behaviors survive, and visual density gets cut down too."
+        },
+        {
+          "t": "p",
+          "x": "Solaris handles rendering and interaction in a single model. With no conversion step, there is no loss, and the entire frame becomes the interface."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/solaris-eval-reconstruction-strip-1.webp",
+          "cap": "The result of reconstructing a web page from a single screenshot. The original is on the left; reconstructions by GPT-4o, Gemini 2.5 Pro, and Fable 5 are on the right."
+        },
+        {
+          "t": "p",
+          "x": "The translation loss was measured numerically. Thirty interface types were handed to multimodal language models as a single screenshot each to reconstruct, and information preservation was measured with structural similarity (SSIM) and DINOv3 feature comparisons. Every model, including Claude Fable 5, lost information, and quality dropped consistently as visual complexity rose."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/08/image-25-d4f3e428-eecc-4752-b5cd-30b7898ace03.png",
+          "cap": "Pairwise comparison results scored by 250 users."
+        },
+        {
+          "t": "p",
+          "x": "It was also pitted directly against code-built interfaces. Starting from the same image and requesting the same manipulation, its output was placed side by side with Claude Opus 5's. 250 participants made about 7,500 judgments across 30 examples. Instruction-following split 61% to 24%, and when asked whether motion felt natural within the scene, it split 71% to 21%."
+        },
+        {
+          "t": "p",
+          "x": "The architecture is a modified Gen-4.5 video generation model. Clicks and drags are accepted as conditioning for the next frame, just like text or images; frame generation was switched to be sequential, and the denoising stage was distilled down to a few steps. A language model decides how the scene should change, and the world model handles the drawing."
+        },
+        {
+          "t": "p",
+          "x": "The remaining challenges are stated plainly. Text is the hardest part. Keeping legible characters stable in real time is still an open problem, and maintaining scene consistency over long sessions and working with accessibility tech like screen readers are also under study."
+        },
+        {
+          "t": "p",
+          "x": "Solaris is still taking early access applications. Runway said it is preparing a public launch together with key partners."
+        }
+      ]
+    },
+    "design/design-vercel-design-md": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel released design.md. It's a file hosted at a single URL; no matter which tool an agent runs in, reading just this file lets it produce a page that looks like Vercel. Design engineer John Phamous laid out the process on August 31."
+        },
+        {
+          "t": "p",
+          "x": "The starting point was an internal skill called product-design. Inside the repo, it lets an agent find and read the design system and product guidelines. The problem is outside the repo. Reports, proposals, and one-off pages get made in tools that can't read that file."
+        },
+        {
+          "t": "p",
+          "x": "At first, they tried porting product-design straight into a public prompt. The sentences describing the visual language held up fine, but interpretation varied by model, and the same instructions produced completely different pages."
+        },
+        {
+          "t": "p",
+          "x": "There were two reasons. Phrases like “keep the layout clean” mean practically nothing. The bigger issue was the missing context. Inside the repo, real components and deployed examples surround the skill, but in a public prompt there are only words."
+        },
+        {
+          "t": "p",
+          "x": "So they dropped the port and rewrote it from scratch, bouncing off a fixed set of evaluation prompts the whole time. Seven of them, pulled from real work: a usage and performance report, a renewal proposal, a benchmark report, an interactive planning page, a build-versus-buy brief, and a presentation deck."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4kNmeRfQq0MgbJMdN7XCIQ/4092a7652549d41c938436b48f182423/Frame_1400003192__2_.png",
+          "cap": "Same prompt, data, model, and viewport, with design.md left out on one side and included on the other."
+        },
+        {
+          "t": "p",
+          "x": "The first experiment was the renewal proposal. Run without design.md, it produced a generic SaaS dashboard. The version fed the file put the renewal recommendation up front and gathered the commercial case into a single grid. More than style shifted — structure and hierarchy did too."
+        },
+        {
+          "t": "p",
+          "x": "The finished system has three layers: design.md holding judgment calls, a public stylesheet defining classes and tokens, and an evaluation loop that turns feedback into rules and automated checks."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5ddvYwvA6TmgyMRnBnTk82/1319c6b7f77f1f6c04efd6d8366cc7b0/Frame_1400003199.png",
+          "cap": "A piece of design.md. Naming a recurring 'generated' tell makes it easy to avoid."
+        },
+        {
+          "t": "p",
+          "x": "The stylesheet was kept separate because the agent kept inventing its own typography and spacing. Header, table, stat-strip, and chart styles were bundled into CSS, posted at a public URL, with only the class names written into design.md."
+        },
+        {
+          "t": "p",
+          "x": "One round means regenerating all seven scenarios from scratch with the current file, run on both Claude Opus 4.8 and Codex with GPT-5.5. Reviewer feedback was pushed down to whichever layer could enforce it most narrowly: judgment calls as prose, mechanics as stylesheet, anything a machine could check as a code check."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3mNy5CuYb5RzJo50MID1eo/95404ecb3be7a04eba93c2edeb155a99/Frame_1400003195__2_.png",
+          "cap": "A case where a table couldn't use its remaining width. Before and after pinning down a rule and a check."
+        },
+        {
+          "t": "p",
+          "x": "Making the file took more than 200 generations. At the end, three desktop scenarios were generated with Codex with GPT-5.5, both with and without the file. Running automated checks on the six pages found 39 known failures versus 91 — 57% fewer."
+        },
+        {
+          "t": "p",
+          "x": "Vercel added caveats too. The checks only catch failures it has already seen, six pages is too small a sample to argue about quality, and every page, with or without the file, still had flaws that would block a launch. Still, failures that were named and pinned down as rules tended not to reappear."
+        },
+        {
+          "t": "p",
+          "x": "Keeping the file current comes down to real use. Calling @design-agent in Slack builds a page with the current design.md and returns a screenshot and a deployment URL. Recurring complaints get pulled out of the feedback that piles up each week, and people decide what to fix."
+        }
+      ]
     }
   }
 }

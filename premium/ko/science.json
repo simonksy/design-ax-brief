@@ -7101,6 +7101,151 @@
           "x": "“몇 년 동안 양자컴퓨터를 키우는 데 가장 어려웠던 건 물리학이 아니라 새벽 2시에 레이저 잠금을 고치러 차를 모는 사람이었다”고 QuEra 양자시스템 부문 부사장 Sergio H. Cantu가 말했다. 다만 이번 시범은 서브시스템 하나에 그쳤고, 양자컴퓨터 전체가 스스로를 돌본다는 증명은 아니다. MHS는 Anthropic과 Howard Hughes Medical Institute의 Janelia Research Campus가 함께 시작했고, 안전 설계를 검토하는 동안 제한된 연구 프리뷰로 남아 있다."
         }
       ]
+    },
+    "science/science-cancer-vaccine-algorithm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "모더나와 머크가 함께 개발한 개인 맞춤 암 백신은 승인되면 유전 정보를 사실상 알고리즘이 써 내려간 첫 의약품이 된다. 환자마다 소프트웨어가 종양 변이 수천 개를 훑고, 그중 신생항원 34개를 골라 그 사람 전용 mRNA 백신에 담는다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2022/11/5-1024x576.jpg",
+          "cap": "여섯 번 복제되는 mRNA 가닥. Credit: Christine Kao/STAT"
+        },
+        {
+          "t": "p",
+          "x": "STAT의 Meghana Keshavan이 짚은 지점은 규제와 계산이 겹쳐 있는 이 실험의 성격이다. 일부 연구자는 변이를 고르는 이 알고리즘을 치료의 ‘비밀 소스’로 본다. 반면 월가의 회의적인 투자자들은 맞춤화 자체가 굳이 필요 없을지 모른다고 의심한다. mRNA가 종양을 자극해 키트루다(Keytruda)에 더 잘 반응하도록 만들 뿐이라는 이야기다."
+        },
+        {
+          "t": "p",
+          "x": "그래서 그 알고리즘 안에는 무엇이 들었나. 노스캐롤라이나대의 암 백신 전문가 Alex Rubinsteyn의 답은 짧았다. “전혀 모른다. 다들 자기가 가진 게 독점 지식이라고 말한다.”"
+        },
+        {
+          "t": "p",
+          "x": "돈은 이미 움직였다. 모더나는 개인 맞춤 암 백신의 임상 3상 성공을 알린 지 일주일 만에 전환사채로 20억 달러를 조달하고 있다. 같은 날 The Readout에는 미국의 중국 바이오텍 규제가 유럽에 반사이익을 줄 수 있다는 분석, AstraZeneca와 Ionis의 eplontersen 3상 실패가 Alnylam에 드리운 그림자, Revolution Medicines의 췌장암 신약 Rasonque 승인 소식이 함께 실렸다."
+        }
+      ]
+    },
+    "science/science-glucofm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "웨어러블이 읽는 움직임과 수면은 혈당 조절을 간접적으로만 비춘다. 연속혈당측정기(CGM)는 피부 밑 센서로 몇 분마다 간질액 포도당을 재며 공복과 야간, 식후 패턴을 직접 남긴다. 남는 문제는 해석이다. 그 궤적을 읽어 줄 임상 라벨은 비싸고 드물다."
+        },
+        {
+          "t": "p",
+          "x": "구글 리서치의 Ahmed A. Metwally와 Zechen Li 팀이 8월 26일 공개한 GlucoFM은 여기에 자기지도 학습으로 답한다. 기존 CGM 파운데이션 모델인 CGMformer, GluFormer, CGM-JEPA가 혈당을 하나의 표현 흐름으로 처리한 데 비해, GlucoFM은 느린 기저 추세와 식사·활동·센서 잡음이 만드는 단기 편차를 두 갈래로 나눠 인코딩한다. 시간대와 결측 위치도 지운 채로 두지 않는다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM1_Overview.width-1250.png",
+          "cap": "GlucoFM 개요. 데이터 전처리, JEPA 방식 사전학습 구조, 임상 예측 응용. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "사전학습에는 Wear-CGM과 공개 데이터셋 4종에서 모은 라벨 없는 CGM 109,066시간, 참가자·세션 기록 477건이 들어갔다. 기록마다 24시간 5분 격자에 맞추고 관측 마스크를 남겨 잰 값과 빈 값을 구분한다. 원시 수치를 그대로 복원하는 대신, 가린 구간의 잠재 표현을 주변 맥락으로 맞히게 하고 기저와 단기 편차가 다음 한 시간에 어떻게 움직일지도 함께 예측시켰다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM2_Framework.width-1250.png",
+          "cap": "GlucoFM의 모델 구조와 사전학습 목표. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "평가는 CGMacros, Stanford, Hall, ShanghaiT2DM 네 코호트와 임상 예측 과제 7종, 코호트-과제 조합 14건에서 이뤄졌다. 인코더를 얼린 채 선형 분류기만 얹었더니 평균 PR-AUC가 같은 데이터로 재학습한 최강 CGM 전용 베이스라인의 54.7에서 58.8로 올랐다. 절대 4.1점, 상대로는 약 7.5% 차이다. 당뇨 위험과 베타세포 기능 이상 평가는 전부, 인슐린 저항성은 네 건 중 세 건에서 1위였다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM3_LinearProbe.width-1250.png",
+          "cap": "대사 표현형 선형 프로브 성능. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "식후 2시간 혈당 반응 예측에서는 참가자 34명의 식사 874건을 Dexcom과 Libre로 나눠 검증했다. 식전 1시간 CGM과 영양 정보, 공복 혈당과 BMI, 당뇨 여부까지 넣은 조건에서 평균 절대 오차 21.88 mg/dL을 기록해 최고 베이스라인 22.90 mg/dL, 학습 폴드 평균 27.69 mg/dL을 앞섰다."
+        },
+        {
+          "t": "p",
+          "x": "하루치를 넘어 최대 7일을 평균 내자 Stanford 베타세포 기능 이상은 9.6점, Hall 당뇨 예측은 14.0점씩 PR-AUC가 올랐다. 코호트를 갈아탄 전이 실험에서는 12건 중 11건에서 최강 경쟁 모델을 0.5~8.6점 앞섰고, 한 번만 0.6점 뒤졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM6_Transfer.width-1250.png",
+          "cap": "코호트 간 전이 성능. GlucoFM과 최강 베이스라인의 PR-AUC 차이. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "라벨이 극단적으로 적을 때도 순위는 그대로였다. 클래스당 한 명, 관측치 1%만 준 조건에서도 GlucoFM이 가장 높은 과제 평균 PR-AUC를 냈다. 연구팀은 사전학습 인구가 아직 작다는 점을 한계로 들며, 더 다양한 집단과 여러 날에 걸친 학습으로 범위를 넓히겠다고 밝혔다."
+        }
+      ]
+    },
+    "science/science-mof-linker-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "자율 실험실이 늘 걸려 넘어지던 자리는 규모다. 만들 수 있는 물질의 경우의 수가 워낙 많아, 하나씩 돌려보는 방식으로는 끝이 나지 않는다. 워싱턴대 세인트루이스 화학과 조교수 Zhiling Zheng은 순서를 바꾸자고 말한다. 후보를 전수로 훑는 대신, 논문에 쌓인 화학 지식을 모델에 먼저 읽히자는 쪽이다. “AI가 새로운 구조를 예측하는 데 강력하다는 건 이미 보고 있다”는 게 그의 출발점이다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg",
+          "cap": "실험실 이미지. Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "성과는 이미 나왔다. Zheng 팀은 금속유기골격체(MOF)의 링커 변환 4,000건을 대형 언어 모델에 학습시켰고, 모델이 짚어낸 신소재 10종은 공기에서 물을 거두는 성능에서 최신 알루미늄 기반 흡착제를 앞섰다. 손이 많이 가는 전수 스크리닝은 거치지 않았다. 결과는 Science에 ‘Reprogramming synthesis’로 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "같은 대학 McKelvey School of Engineering의 Christopher Cooper는 데이터 쪽을 팠다. 문헌에 흩어진 합성 ‘레시피’를 모델이 쓸 형태로 자동 정제하는 방법을 Kathryn Miller와 함께 만들어, 쓸 만한 동적 고분자 후보를 가려내는 Dynamic Polymer Annotated Library(DPAL)를 Matter에 내놨다. “모델이 그 지침들을 이해하고 서로 섞어서 ‘이게 성공 확률이 높다’고 말해 주기를 바란다”고 그는 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "Cooper는 고분자를 확률 분포로 표현해 계산을 덜어내는 방법도 함께 제시했다. “확률로 쪼개 보면 시스템을 물리적으로 표현할 길이 생기고, 모델의 예측과 정확도도 빨라진다.” 두 연구가 가리키는 방향은 같다. 무작정 다 해보는 실험이 아니라 모델의 제안을 따라가는 표적 설계다. Zheng의 말을 빌리면 “실험실에서 10시간을 서 있는 대신 매니저가 될 수 있다”."
+        }
+      ]
+    },
+    "science/science-parkinsons-drawing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "파킨슨병의 신호는 생각보다 여러 곳에 흩어져 있다. 머리카락과 혈액, 귀지에서 단서가 나왔고 말투나 정신 건강, 사는 지역까지 정도는 달라도 연관이 보고됐다. 그런데도 진단은 여전히 임상 평가에 크게 기댄다. 손쉽게 쓸 결정적 바이오마커가 없으니 조기 진단은 더 까다롭다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/handwriting-on-notebook.jpg",
+          "cap": "노트에 쓴 손글씨. Credit: Yifei Fang/Moment/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Discover Computing에 실린 연구는 그림 한 장으로 다른 길을 낸다. 인도 Siksha ‘O’ Anusandhan University의 컴퓨터과학자 Ishan Ayus가 제1저자로 이끈 팀이, 단순한 그리기 검사만으로 파킨슨병을 짚어내는 AI 시스템을 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "데이터는 브라질에서 앞서 진행된 파킨슨병 연구에서 가져왔다. 참가자 66명 가운데 31명이 환자, 35명이 건강한 대조군이다. 이들은 생체 신호를 읽는 스마트 펜으로 나선과 각진 선이 이어지는 미앤더, 두 가지 도형을 따라 그렸다. 펜은 그려진 이미지와 손 움직임 신호를 동시에 기록했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/spirals-and-meanders.jpg",
+          "cap": "파킨슨병 환자와 비환자가 그린 나선과 미앤더. Credit: Ayus et al., Discov. Comput., 2026"
+        },
+        {
+          "t": "p",
+          "x": "연구진은 이미지와 센서 데이터를 여러 딥러닝 모델에 나눠 넣었다. 각 모델은 도형의 공간적 불규칙성과 함께 펜이 잡아낸 운동 조절, 손 협응의 미세한 차이를 평가했다. 그 판단들을 정확도로 가중해 하나의 결론으로 모으는 알고리즘이 SNAKE다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/BiometricSmartPenFMeasuresMotorControl-1200x438.png",
+          "cap": "스마트 펜이 기록한 손가락 그립, 축 압력, 기울기, 가속도. 왼쪽이 건강한 대조군, 오른쪽이 파킨슨병 환자. Credit: Ayus et al., Discov. Comput., 2026"
+        },
+        {
+          "t": "p",
+          "x": "결과는 미앤더 98.95%, 나선 97.74% 정확도. 손글씨와 그림으로 파킨슨병을 판별하던 기존 AI들을 웃도는 수치다. “손으로 쓴 이미지는 획의 불규칙성, 떨림에서 온 왜곡, 형태 이탈 같은 공간 특성을 준다”고 연구진은 적었다. “반면 센서로 잡은 필기 신호는 속도 변동, 압력의 불균일, 협응 결손 같은 시간축의 운동 행동을 담는다.”"
+        },
+        {
+          "t": "p",
+          "x": "한계도 분명히 했다. 66명은 실제 임상에서 마주하는 파킨슨병의 다양성을 담기엔 작은 표본이라, 진단 성능의 확증이 아니라 틀의 가능성으로 읽어 달라는 것이다. 더 큰 임상 검증을 통과한다면 비침습·저비용의 원격 신경 스크리닝과 임상 의사결정 지원으로 이어질 수 있다고 팀은 봤다."
+        }
+      ]
     }
   }
 }

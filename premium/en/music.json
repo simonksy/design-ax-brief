@@ -3510,6 +3510,257 @@
           "x": "Abyss II runs on 64-bit Windows 10 and 11 in VST3 and AAX formats. On Intel and Apple silicon Macs running macOS 13 or later, it supports AU, VST3, and AAX."
         }
       ]
+    },
+    "music/music-uk-voice-cloning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/musicians-actors-unite-in-uk-campaign-against-ai-voice-cloning.png",
+          "cap": "Photo: Jason Rosewell"
+        },
+        {
+          "t": "p",
+          "x": "Actors and musicians sent a letter to the UK government. They are asking for better protection against AI cloning and using their voices."
+        },
+        {
+          "t": "p",
+          "x": "More than 80 performers signed on, including actor Hugh Bonneville and singer Sandi Thom. They asked Prime Minister Andy Burnham to pass a law that would better protect everyone in the UK from voice cloning and the unconsented training of recordings."
+        },
+        {
+          "t": "p",
+          "x": "Audiobook narrator Alice Sockett, who co-founded the campaign, called voice cloning “an existential threat to our entire industry.”"
+        },
+        {
+          "t": "p",
+          "x": "“My voice is out there, but it has no protection,” she said. “I see voice theft increasing every week.”"
+        },
+        {
+          "t": "p",
+          "x": "Among the signatories is Siobhan McSweeney, an actor from <Derry Girls>. She worried that the government cannot keep pace with how fast AI technology is advancing."
+        },
+        {
+          "t": "p",
+          "x": "“There is a way to work alongside AI, using it as a tool that benefits us instead of making us obsolete,” she said. “What audiences want is human connection, not AI.”"
+        },
+        {
+          "t": "p",
+          "x": "Scottish singer Sandi Thom, known for her 2006 hit “I Wish I Was a Punk Rocker (With Flowers in My Hair),” explained why she signed the letter, saying her voice is “something that belongs only to me and that I was given at birth.”"
+        },
+        {
+          "t": "p",
+          "x": "“Behind that voice are the emotions, the life, the pain, the tears and the joy I felt getting here,” she added. “Without creativity, we are nothing.”"
+        },
+        {
+          "t": "p",
+          "x": "A government spokesperson told the BBC that “digital replicas can be a powerful tool, including for the creative industries,” but added that there remains room for harm. “We respect and protect human creators. That is why we have announced a public consultation on how to address these harms while protecting legitimate innovation.”"
+        },
+        {
+          "t": "p",
+          "x": "Months earlier, lawyers had warned that AI technology was advancing so fast that UK law had become “not fit for purpose.” AI legal consultant Dr. Mathilde Pavis said, “The law gets close, but it does not fully protect your voice, your face or your identity.”"
+        },
+        {
+          "t": "p",
+          "x": "Voice cloning technology itself has clear uses, such as for people who have lost their voice to illness. The point of this effort is to put legal safeguards in place so that people's voices are not misused as the technology advances."
+        }
+      ]
+    },
+    "music/music-human-first-certification": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cynthia Ju made an important point in an earlier Hypebot piece, “'Human First' Is a Promise Nobody Can Verify Yet.” Her point: claiming a recording is “human first” without any way to back it up is just a line anyone can say. As she puts it, “A claim is visible. What makes it credible is enforcement.”"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-26-musical-form.jpg",
+          "cap": "Hypebot"
+        },
+        {
+          "t": "p",
+          "x": "Ju traces the history of open-source software, explaining that it mattered because its definition was managed outside the companies that profited from it. But her proposed fix is simply adding a checkbox to the upload forms of distributors like DistroKid, CD Baby, and TuneCore. The logic: self-declaration becomes part of the contract between artist and distributor, giving it legal weight, while enforcement runs at “near-zero marginal cost.”"
+        },
+        {
+          "t": "p",
+          "x": "That is where it runs into reality. What happens when a distributor tells a customer their human-made claim is false, pulls the music from streaming platforms, and cuts off their service? Right there, zero marginal cost turns into investigations, demands for evidence, published standards, appeals processes, and expensive litigation. With no industry consensus and no federal regulation, a rejected artist can simply move to another distributor."
+        },
+        {
+          "t": "video",
+          "yt": "SOlIA0T66cg"
+        },
+        {
+          "t": "p",
+          "x": "What exactly gets verified before enforcement is also unclear. Is it entirely human-made, partly, or a mix of human and machine? Does a mastering plugin that has sold for over a decade suddenly make a recording AI-made just because it is now marketed as AI? And where do tools that swap a performer's timing and pitch for machine-decided “perfect” values fit in?"
+        },
+        {
+          "t": "p",
+          "x": "The author, Jeffrey Anthony, founded the Musical Form Institute and has worked on this issue. His Certificate of Embodied Production (CEP) is neither a voluntary label nor a checkbox. It is a certification mark filed for registration with the U.S. Patent and Trademark Office under serial number 99559776, certifying that a recording was made without grid correction, pitch correction, or generative AI. That does not mean the USPTO certifies individual recordings or approves the CEP standard."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/certificate-beige-1.png",
+          "cap": "Certificate of Embodied Production"
+        },
+        {
+          "t": "p",
+          "x": "It belongs in the same category as Certified Organic, Fair Trade, and LEED. A certifying body publishes its standards, evaluates applicants against them, manages who is eligible to use the mark, and maintains enforcement, suspension, and revocation procedures. CEP has the same: published standards, an evidence-review process, conflict-of-interest controls, a public registry, a permanent audit trail, and appeals, suspension, and revocation procedures. A trained human analyst reviews every recording directly."
+        },
+        {
+          "t": "p",
+          "x": "CEP is not a strict “no AI” label, nor does it push analog purism. It allows assistive processing such as mastering or EQ-helper plugins, because technology alone does not tell you where authority over musical form lies. The three processes are grouped together for one reason: all three take authority over the final form away from the person who performed it."
+        },
+        {
+          "t": "p",
+          "x": "Distributors can carry certification status in metadata and act when the mark is misused. But the definition, review, and judgment of that claim must stay outside any company that profits from every upload. A checkbox only means something when it points to a real certification process beyond itself."
+        }
+      ]
+    },
+    "music/music-platform-ai-policies": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "With AI-made music flooding in, how streaming services should handle these tracks has become the music industry's most urgent question. Opinions diverge on whether to exclude them from royalty payouts, take them down entirely, or simply label them. Billboard has compiled a continuously updated list of each platform's self-disclosed policies."
+        },
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2024/09/phone-music-ai-2024-billboard-1548.jpg?w=1024",
+          "cap": "Photo: Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The scale alone is striking. Deezer said in June 2026 that AI tracks made up more than 50% of daily uploads “at peak.” Apple Music told Billboard in April that “more than a third” of its monthly uploads were 100% AI-generated. Qobuz said in January that 34% of new uploads were AI. Tracks that use AI only partially are far harder to catch, so these figures may understate the real scale."
+        },
+        {
+          "t": "p",
+          "x": "In April 2026, Spotify opened a way for creators to disclose in the credits exactly where AI was used, whether it's a single guitar riff or an entire production. It also rolled out a verification badge for human creators and an artist-profile protection feature that locks artist pages against stray uploads. In August, it announced an “AI persona” label for AI-generated artists, taking effect from mid-September; music carrying that label is excluded from personalized recommendations."
+        },
+        {
+          "t": "p",
+          "x": "Apple Music will apply its “Made With AI” label, announced in August, by the end of 2026. Labels and distributors tag tracks as “substantially AI-generated,” so the label relies on disclosure rather than automatic detection. YouTube also requires disclosure and applies a label when generative AI content is uploaded, but otherwise has no policy aimed specifically at music."
+        },
+        {
+          "t": "p",
+          "x": "Tidal has taken the toughest stance. Since June, it has excluded AI-generated content from royalties and placed the responsibility for identifying it on distributors before upload; it began adding labels in mid-July as well. Deezer uses an AI detector to label tracks and exclude them from recommendations, and since July it removes AI tracks suspected of being used for streaming fraud or that haven't been played in over six months. In January, Bandcamp banned outright any track whose creation process used AI entirely or “substantially.”"
+        },
+        {
+          "t": "p",
+          "x": "SoundCloud blocks AI content that impersonates human artists or clones their voices. Amazon Music has only tools for impersonation and spam, with no AI-specific policy yet. Qobuz issued a “human first” stance in January, stating that its playlists, articles, and reviews are 100% human-made."
+        }
+      ]
+    },
+    "music/music-round-hill-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Round Hill Music has filed copyright infringement lawsuits against Suno and Anthropic in the United States, the latest music rights holder to join the ranks targeting AI companies. The Suno suit also names the Israeli company Bright Data as a defendant, alleging that Suno used Bright Data's tools to illegally scrape millions of songs from digital platforms like YouTube to build its training data."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/suno-anthropic-roundhill.png",
+          "cap": "Complete Music Update"
+        },
+        {
+          "t": "p",
+          "x": "Round Hill CEO Josh Gruss said, “We are not against artificial intelligence,” but added, “We are against the idea of building multibillion-dollar businesses on other people's creative work and paying creators nothing.” On the obligation to secure licenses, he said it is “not a barrier to innovation” but exists only “to protect the legal owners of the raw material.” He added that, as an independent music company, Round Hill has both the freedom and the duty to say so clearly and act on it."
+        },
+        {
+          "t": "p",
+          "x": "Round Hill describes itself as “a pioneering private equity platform managing a $1.1 billion music rights portfolio.” It runs investment funds that hold those rights, while also managing the music and turning it into revenue as both a label and a publisher."
+        },
+        {
+          "t": "p",
+          "x": "Both companies are already facing other lawsuits, so the legal arguments are familiar. Suno has signed licensing deals with Warner Music and BMG, but is still fighting lawsuits from Universal Music, Sony Music, and independent musicians. Anthropic settled a lawsuit from book authors for $1.5 billion, and music publishers have also sued it, alleging it copied lyrics en masse while building training data for Claude."
+        },
+        {
+          "t": "p",
+          "x": "The core claim in both cases is the same: that the two companies copied recordings and songs Round Hill owns and manages, without a license, to train their respective models. Like other AI companies, Suno and Anthropic hold that AI training is fair use under U.S. copyright law, requiring no permission or license from creators and rights holders."
+        },
+        {
+          "t": "p",
+          "x": "Some early rulings, including in the authors' case against Anthropic, found that AI training could be fair use. Round Hill argues that defense does not hold up in this case. One reason is the companies' “indefinite retention of unauthorized copies.” It argues that “permanently stockpiling and maintaining a mass of copyrighted works without deciding how they will be used in the future fails every factor of the fair-use analysis,” because “the purpose is acquisition, not transformation.”"
+        },
+        {
+          "t": "p",
+          "x": "The lawsuits are being handled by music industry attorney Richard Busch. He said, “The question in these cases is not complicated,” noting that “copyrighted works were used to build multibillion-dollar businesses — in Anthropic's case, a company valued at more than a trillion dollars — while the songwriters and publishers who created the foundation of that value received nothing.” He added that “there is nothing fair about that use,” and that he intends to make that argument before the court and jury."
+        }
+      ]
+    },
+    "music/music-stemdeck": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Stem separation has moved, in just a few years, from a technology held by a handful of companies to a feature anyone can use. StemDeck shows that shift directly: it's a free, open-source stem-separation app that runs on Linux, Mac, and Windows."
+        },
+        {
+          "t": "img",
+          "src": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png",
+          "cap": "StemDeck"
+        },
+        {
+          "t": "p",
+          "x": "It's a stem-extraction platform built to separate vocals, drums, bass, piano, and guitar. It's meant for practice, transcription, remixing, and other audio work."
+        },
+        {
+          "t": "p",
+          "x": "Drag in an MP3, WAV, FLAC, OGG/Opus, MP4, or M4A file, or paste a YouTube link, and it splits the audio into up to six parts: vocals, drums, bass, guitar, piano, and everything else."
+        },
+        {
+          "t": "p",
+          "x": "After the split, you can listen right away in a multitrack mixer that resembles a DAW. You can mute and solo tracks, adjust levels, zoom in on waveforms, loop sections, and export stems individually or as whatever mix you want. All processing happens entirely on your own computer."
+        },
+        {
+          "t": "p",
+          "x": "It bills itself as a free alternative to cloud stem-separation services like Moises or LALAL.AI. There's no account, no quota, no upload, and no subscription. It doesn't store, cache, or redistribute downloaded content, and no file ever leaves your device."
+        },
+        {
+          "t": "p",
+          "x": "The developer drew a clear line: “If you need stems for personal study and want something free and local, StemDeck is enough. If you need a polished finish, a mobile app, or deeper tools for performers, a commercial product is the better choice.”"
+        },
+        {
+          "t": "p",
+          "x": "It's available for download on GitHub, with no price attached."
+        }
+      ]
+    },
+    "music/music-suno-friction": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno is deliberately adding friction to the AI overproduction it created. According to Variety, it has imposed a download cap, fencing in how much music users can pull out."
+        },
+        {
+          "t": "img",
+          "src": "https://www.midiaresearch.com/storage/uploads/blog/featured/2651/cover_image-1787236880.jpg",
+          "cap": "Image: made with Canva Pro"
+        },
+        {
+          "t": "p",
+          "x": "Streaming services have pulled down millions of tracks suspected of being spam. TechRepublic reports that Spotify is introducing an AI persona label. According to Music Business Worldwide, Suno has also signed a licensing deal with BMG. The view of AI as a bull in a china shop is shifting toward something the music industry embraces, manages, and turns into revenue."
+        },
+        {
+          "t": "p",
+          "x": "What's left as the real homework is culture. The answer doesn't lie in using AI to mass-produce more creators. MIDiA argues the music industry needs to redefine itself, not as a music business, but as a culture-based one. Rather than producing music and rights, the structure that generates culture through artists is itself the asset that endures in the AI era."
+        },
+        {
+          "t": "p",
+          "x": "AI's functional capability isn't up for debate. Making a recording has dropped from a task requiring expert skill to a single prompt. In most industries, function is king, and value is priced on end-to-end efficiency and capability. Music is different. It's not a functional industry that extracts raw material, but a cultural industry that carries meaning and identity. The better AI fills music's functional demands, the less that function can set music apart as a cultural asset."
+        },
+        {
+          "t": "p",
+          "x": "Recordings were, for a long time, a scarce cultural object. Warner Music CEO Robert Kyncl called music “the most abundant thing in the universe besides oxygen” (Semafor). But as recordings flooded in, music lost the cultural asset it alone used to hold. In solving the functional problem of production, a cultural problem was created. The cultural value hasn't disappeared, it has just moved. Power now shifts to where trust already exists: to artists who push forward through performance, history, and personality."
+        },
+        {
+          "t": "p",
+          "x": "Music now runs on the same track as entertainment as a whole. Athletes, podcasters, influencers, and celebrities occupy the same attention economy as artists. Simply producing and releasing a recording no longer generates achievement, an established audience, or cultural authority."
+        },
+        {
+          "t": "p",
+          "x": "The power to grow culture comes not from technology but from social infrastructure. MIDiA points to Stockholm as a model. Decades of investment in music education, support studios, venues, and public institutions let the scene grow and let its talent punch above its weight on the global stage. Stockholm is now applying this model to its Meatpacking District, using music as “an engine of urban renewal” (Fast Company)."
+        },
+        {
+          "t": "p",
+          "x": "AI has made music production commonplace. In its place, building culture may become the most valuable skill in the music industry."
+        }
+      ]
     }
   }
 }

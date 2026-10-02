@@ -3279,6 +3279,151 @@
           "x": "“多年来,扩展量子计算机最难的部分不是物理学,而是凌晨两点开车去修激光锁定的人,”QuEra量子系统部门副总裁Sergio H. Cantu说。不过,这次试验只涉及一个子系统,并不能证明整台量子计算机能够自我维护。MHS由Anthropic与Howard Hughes Medical Institute旗下的Janelia Research Campus共同发起,在安全设计接受审查期间,它仍是一个有限的研究预览项目。"
         }
       ]
+    },
+    "science/science-cancer-vaccine-algorithm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Moderna与默克联合开发的个性化癌症疫苗,一旦获批,将成为首个遗传信息实质上由算法编写的药物。针对每位患者,软件会扫描数千个肿瘤突变,从中挑选出34个新生抗原,纳入专属于该患者的mRNA疫苗中。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2022/11/5-1024x576.jpg",
+          "cap": "复制六次的mRNA链。Credit: Christine Kao/STAT"
+        },
+        {
+          "t": "p",
+          "x": "STAT的Meghana Keshavan指出,这项试验的特点在于监管与计算的交织。部分研究者将挑选突变的这一算法视为治疗方案的“秘方”。而华尔街持怀疑态度的投资者则担心,个性化本身或许并非必要——mRNA可能只是刺激肿瘤,使其对Keytruda的反应更好。"
+        },
+        {
+          "t": "p",
+          "x": "那么,这个算法里究竟装了什么?北卡罗来纳大学的癌症疫苗专家Alex Rubinsteyn的回答很简短:“没人真正知道。每个人都说自己拥有的是专有知识。”"
+        },
+        {
+          "t": "p",
+          "x": "资金已经开始流动。在宣布个性化癌症疫苗三期临床成功仅一周后,Moderna正通过可转换债券筹集20亿美元。同一天的The Readout还刊登了多篇报道:美国对中国生物科技的监管可能让欧洲从中受益的分析、AstraZeneca与Ionis的eplontersen三期失败给Alnylam带来的阴影,以及Revolution Medicines的胰腺癌新药Rasonque获批的消息。"
+        }
+      ]
+    },
+    "science/science-glucofm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "可穿戴设备读取的运动和睡眠,只能间接反映血糖调控。连续血糖监测仪(CGM)通过皮下传感器每隔几分钟测量组织间液葡萄糖,直接记录空腹、夜间和餐后模式。剩下的难题是解读。能够读懂这些轨迹的临床标签既昂贵又稀缺。"
+        },
+        {
+          "t": "p",
+          "x": "Google Research的Ahmed A. Metwally和Zechen Li团队于8月26日发布的GlucoFM,用自监督学习回应了这一问题。现有的CGM基础模型如CGMformer、GluFormer和CGM-JEPA将血糖处理为单一的表示流,而GlucoFM则将缓慢的基线趋势与由饮食、活动、传感器噪声造成的短期偏差分开编码。时间信息和缺失位置也不会被抹去。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM1_Overview.width-1250.png",
+          "cap": "GlucoFM概览。数据预处理、JEPA式预训练架构、临床预测应用。Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "预训练使用了从Wear-CGM和四个公开数据集收集的109,066小时无标签CGM数据,以及477条参与者/会话记录。每条记录都对齐到24小时、5分钟间隔的网格,并保留观测掩码以区分测量值和缺失值。该模型不是直接还原原始数值,而是根据周围上下文推断被遮盖区段的潜在表示,同时预测基线和短期偏差在接下来一小时内将如何变化。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM2_Framework.width-1250.png",
+          "cap": "GlucoFM的模型架构与预训练目标。Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "评估覆盖CGMacros、Stanford、Hall、ShanghaiT2DM四个队列、7种临床预测任务,以及14组队列-任务组合。在冻结编码器、仅添加线性分类器的情况下,平均PR-AUC从在同一数据上重新训练的最强CGM专用基线的54.7提升到58.8,绝对提升4.1分,相对提升约7.5%。在所有糖尿病风险和β细胞功能异常评估中均排名第一,在4项胰岛素抵抗评估中的3项中排名第一。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM3_LinearProbe.width-1250.png",
+          "cap": "代谢表型线性探测性能。Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "在预测餐后2小时血糖反应时,研究团队用34名参与者的874次用餐数据进行验证,并按Dexcom和Libre设备分开检验。在加入餐前1小时CGM数据、营养信息、空腹血糖、BMI及糖尿病状态的条件下,GlucoFM的平均绝对误差为21.88 mg/dL,优于最佳基线的22.90 mg/dL和训练折叠平均值27.69 mg/dL。"
+        },
+        {
+          "t": "p",
+          "x": "将平均周期从单日延长到最多7天后,Stanford的β细胞功能异常评估PR-AUC提升9.6分,Hall的糖尿病预测提升14.0分。在跨队列迁移实验中,GlucoFM在12项中的11项上以0.5至8.6分的优势超过最强竞争模型,仅在1项上落后0.6分。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM6_Transfer.width-1250.png",
+          "cap": "跨队列迁移性能。GlucoFM与最强基线之间的PR-AUC差异。Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "即便标签极为稀缺,排名依然保持不变。即使每类只给一个样本、仅使用1%的观测数据,GlucoFM仍在任务平均PR-AUC上表现最高。研究团队指出,预训练人群规模仍偏小是一个局限,并表示计划通过更多样化的人群和跨多日的训练来扩大范围。"
+        }
+      ]
+    },
+    "science/science-mof-linker-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "自主实验室一直被规模问题所困。可能存在的材料组合数量过于庞大,逐一试验的方式永无止境。华盛顿大学圣路易斯分校化学系助理教授Zhiling Zheng认为应该颠倒顺序。与其穷举式地筛选候选材料,不如先让模型读取文献中积累的化学知识。他的出发点是:“我们已经看到AI在预测新结构方面非常强大。”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg",
+          "cap": "实验室图片。Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "成果已经出现。Zheng团队用4,000例金属有机框架(MOF)连接体转化数据训练了一个大语言模型,模型找出的10种新材料在从空气中收集水的性能上超越了最新的铝基吸附剂,全程无需耗费大量人力的穷举式筛选。研究结果以《Reprogramming synthesis》发表于Science。"
+        },
+        {
+          "t": "p",
+          "x": "同校McKelvey工程学院的Christopher Cooper则专注于数据层面。他与Kathryn Miller共同开发了一种方法,能将散落在文献中的合成“配方”自动提炼为模型可用的形式,并在Matter发表了用于筛选可行动态聚合物候选材料的Dynamic Polymer Annotated Library(DPAL)。他解释道:“我们希望模型能理解这些指南并加以组合,从而判断‘这个成功概率很高’。”"
+        },
+        {
+          "t": "p",
+          "x": "Cooper还提出了一种将聚合物表示为概率分布、从而减轻计算负担的方法。“把它拆分成概率之后,就有办法从物理层面表示这个系统,模型的预测速度和准确度也会提高。”两项研究指向同一个方向:不是盲目地把所有方案都试一遍,而是依照模型的建议进行有针对性的设计。用Zheng的话说,“与其在实验室里站10个小时,不如去当经理。”"
+        }
+      ]
+    },
+    "science/science-parkinsons-drawing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "帕金森病的信号比想象中分布得更广。头发、血液、耳垢中都发现过线索,语音方式、心理健康甚至居住地区也被报告出不同程度的关联。尽管如此,诊断仍然在很大程度上依赖临床评估。由于缺乏简便可用的决定性生物标志物,早期诊断更加困难。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/handwriting-on-notebook.jpg",
+          "cap": "笔记本上的手写字。Credit: Yifei Fang/Moment/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "发表在Discover Computing上的这项研究,用一张图开辟了另一条路径。由印度Siksha 'O' Anusandhan University计算机科学家Ishan Ayus担任第一作者领导的团队,打造了一套仅凭简单绘图测试就能识别帕金森病的AI系统。"
+        },
+        {
+          "t": "p",
+          "x": "数据来自此前在巴西开展的一项帕金森病研究。66名参与者中,31人为患者,35人为健康对照组。他们用能读取生物信号的智能笔描摹了两种图形:螺旋线,以及由折角线连接而成的曲折线(meander)。笔同时记录下所画图像和手部动作信号。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/spirals-and-meanders.jpg",
+          "cap": "帕金森病患者与非患者所画的螺旋线和曲折线。Credit: Ayus et al., Discov. Comput., 2026"
+        },
+        {
+          "t": "p",
+          "x": "研究团队将图像和传感器数据分别输入多个深度学习模型。每个模型都评估了图形的空间不规则性,以及笔捕捉到的运动控制和手部协调方面的细微差异。将这些判断按准确率加权并汇总为单一结论的算法,就是SNAKE。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/BiometricSmartPenFMeasuresMotorControl-1200x438.png",
+          "cap": "智能笔记录的手指握姿、轴向压力、倾斜度和加速度。左侧为健康对照组,右侧为帕金森病患者。Credit: Ayus et al., Discov. Comput., 2026"
+        },
+        {
+          "t": "p",
+          "x": "结果显示,曲折线的准确率为98.95%,螺旋线为97.74%,超过了此前依靠手写和绘图判别帕金森病的现有AI系统。研究团队写道:“手写图像提供了笔画不规则、震颤造成的扭曲、形状偏离等空间特征。”“而传感器捕获的书写信号,则记录了速度波动、压力不均、协调缺陷等时间轴上的运动行为。”"
+        },
+        {
+          "t": "p",
+          "x": "研究团队也明确指出了局限性。66人的样本量太小,无法涵盖实际临床中帕金森病的多样性,因此这一结果应被视为该框架的可能性,而非已确证的诊断性能。团队认为,若能通过更大规模的临床验证,这种方法有望发展为无创、低成本的远程神经筛查工具,并为临床决策提供支持。"
+        }
+      ]
     }
   }
 }

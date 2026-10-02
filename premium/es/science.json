@@ -3346,6 +3346,99 @@
           "x": "“Durante años, lo más difícil de escalar las computadoras cuánticas no fue la física, sino la persona que conducía a las 2 a.m. para arreglar un bloqueo de láser”, dijo Sergio H. Cantu, vicepresidente de sistemas cuánticos de QuEra. Aun así, esta prueba se limitó a un solo subsistema y no demuestra que toda una computadora cuántica pueda cuidarse sola. MHS fue lanzado conjuntamente por Anthropic y el Janelia Research Campus del Howard Hughes Medical Institute, y sigue siendo una vista previa de investigación limitada mientras se revisa su diseño de seguridad."
         }
       ]
+    },
+    "science/science-cancer-vaccine-algorithm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La vacuna personalizada contra el cáncer desarrollada conjuntamente por Moderna y Merck, de recibir aprobación, se convertiría en el primer medicamento cuyo contenido genético está efectivamente escrito por un algoritmo. En cada paciente, un software analiza miles de mutaciones tumorales y selecciona 34 neoantígenos para incluirlos en una vacuna de mRNA exclusiva para esa persona."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2022/11/5-1024x576.jpg",
+          "cap": "Una cadena de mRNA replicada seis veces. Crédito: Christine Kao/STAT"
+        },
+        {
+          "t": "p",
+          "x": "Meghana Keshavan, de STAT, señala que este experimento se sitúa en la intersección entre la regulación y el cálculo. Algunos investigadores consideran que el algoritmo que selecciona las mutaciones es la 'fórmula secreta' del tratamiento. Inversores escépticos de Wall Street, en cambio, sospechan que la personalización en sí podría no ser necesaria, y sugieren que el mRNA solo estimularía el tumor para que responda mejor a Keytruda."
+        },
+        {
+          "t": "p",
+          "x": "Entonces, ¿qué hay realmente dentro de ese algoritmo? Alex Rubinsteyn, experto en vacunas contra el cáncer de la Universidad de Carolina del Norte, dio una respuesta breve. “Nadie lo sabe realmente. Todos dicen que lo que tienen es conocimiento exclusivo”."
+        },
+        {
+          "t": "p",
+          "x": "El dinero ya se está moviendo. Una semana después de anunciar el éxito de la fase 3 de su vacuna personalizada contra el cáncer, Moderna está recaudando 2.000 millones de dólares mediante bonos convertibles. La misma edición de The Readout incluyó además un análisis sobre cómo las restricciones de EE. UU. a la biotecnología china podrían beneficiar a Europa, la sombra que el fracaso de la fase 3 de eplontersen de AstraZeneca e Ionis proyecta sobre Alnylam, y la noticia de la aprobación de Rasonque, el nuevo fármaco de Revolution Medicines contra el cáncer de páncreas."
+        }
+      ]
+    },
+    "science/science-mof-linker-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El punto donde los laboratorios autónomos siempre han tropezado es la escala. El número de materiales posibles es tan grande que probarlos uno por uno nunca termina. Zhiling Zheng, profesor asistente de química en la Universidad de Washington en San Luis, propone invertir el orden. En lugar de examinar candidatos de forma exhaustiva, su enfoque consiste en hacer que un modelo lea primero el conocimiento químico acumulado en la literatura científica. Su punto de partida: “Ya hemos visto que la IA es poderosa para predecir nuevas estructuras”."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg",
+          "cap": "Imagen de laboratorio. Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los resultados ya están aquí. El equipo de Zheng entrenó un modelo de lenguaje de gran escala con 4.000 transformaciones de enlazadores de estructuras metal-orgánicas (MOF), y los 10 nuevos materiales identificados por el modelo superaron a los adsorbentes de aluminio más avanzados en la captación de agua del aire. No se realizó el laborioso cribado exhaustivo. Los hallazgos se publicaron en Science como 'Reprogramming synthesis'."
+        },
+        {
+          "t": "p",
+          "x": "Christopher Cooper, de la misma universidad, en la McKelvey School of Engineering, se enfocó en el lado de los datos. Junto con Kathryn Miller, desarrolló un método para destilar automáticamente las 'recetas' de síntesis dispersas en la literatura a un formato que los modelos puedan usar, y publicó en Matter la Dynamic Polymer Annotated Library (DPAL), que distingue candidatos viables de polímeros dinámicos. “Queremos que el modelo entienda esas instrucciones y las combine para decir: 'esta tiene una alta probabilidad de éxito'”, explicó."
+        },
+        {
+          "t": "p",
+          "x": "Cooper también propuso una forma de aligerar el cálculo representando los polímeros como distribuciones de probabilidad. “Al descomponerlo en probabilidades, se obtiene una manera de representar el sistema físicamente, y también se acelera la predicción y la precisión del modelo”. Ambos estudios apuntan en la misma dirección: no la experimentación a ciegas, sino un diseño dirigido que sigue las sugerencias del modelo. En palabras de Zheng, “en lugar de pasar 10 horas de pie en el laboratorio, puedes convertirte en gerente”."
+        }
+      ]
+    },
+    "science/science-parkinsons-drawing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las señales del Parkinson están dispersas en más lugares de lo que se pensaba. Se han encontrado pistas en el cabello, la sangre y el cerumen, y se han reportado vínculos, en distinto grado, incluso con el habla, la salud mental y el lugar de residencia. Aun así, el diagnóstico sigue dependiendo en gran medida de la evaluación clínica. Sin un biomarcador decisivo y fácil de usar, el diagnóstico temprano resulta aún más difícil."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/handwriting-on-notebook.jpg",
+          "cap": "Escritura a mano en un cuaderno. Crédito: Yifei Fang/Moment/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio publicado en Discover Computing abre un camino distinto con un solo dibujo. Un equipo liderado por el primer autor Ishan Ayus, informático de la Siksha 'O' Anusandhan University en India, construyó un sistema de IA capaz de detectar la enfermedad de Parkinson con una simple prueba de dibujo."
+        },
+        {
+          "t": "p",
+          "x": "Los datos provienen de un estudio anterior sobre el Parkinson realizado en Brasil. De 66 participantes, 31 eran pacientes y 35 eran controles sanos. Trazaron dos figuras —una espiral y un meandro formado por líneas angulares conectadas— con un lápiz inteligente que lee señales biométricas. El lápiz registró a la vez la imagen dibujada y la señal de movimiento de la mano."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/spirals-and-meanders.jpg",
+          "cap": "Espirales y meandros dibujados por pacientes de Parkinson y por personas sin la enfermedad. Crédito: Ayus et al., Discov. Comput., 2026"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores introdujeron las imágenes y los datos de los sensores en varios modelos de aprendizaje profundo. Cada modelo evaluó las irregularidades espaciales de las figuras junto con diferencias sutiles en el control motor y la coordinación de la mano captadas por el lápiz. SNAKE es el algoritmo que pondera esos juicios según su precisión y los combina en una sola conclusión."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/BiometricSmartPenFMeasuresMotorControl-1200x438.png",
+          "cap": "Agarre de los dedos, presión axial, inclinación y aceleración registrados por el lápiz inteligente. Izquierda: control sano. Derecha: paciente de Parkinson. Crédito: Ayus et al., Discov. Comput., 2026"
+        },
+        {
+          "t": "p",
+          "x": "Los resultados: 98,95% de precisión para los meandros y 97,74% para las espirales, superando a los sistemas de IA existentes que usaban escritura a mano y dibujos para identificar el Parkinson. “Las imágenes manuscritas aportan características espaciales como irregularidades en el trazo, distorsiones causadas por el temblor y desviaciones de forma”, escribieron los investigadores. “Las señales de escritura captadas por sensores, en cambio, registran el comportamiento motor en el eje temporal, como fluctuaciones de velocidad, irregularidades de presión y déficits de coordinación”."
+        },
+        {
+          "t": "p",
+          "x": "También dejaron claras las limitaciones. Una muestra de 66 personas es demasiado pequeña para captar la diversidad del Parkinson que se observa en la práctica clínica real, por lo que los resultados deben leerse como el potencial del marco y no como una confirmación del rendimiento diagnóstico. El equipo señaló que, si el método supera una validación clínica más amplia, podría conducir a un cribado neurológico remoto no invasivo y de bajo costo, además de apoyo a la decisión clínica."
+        }
+      ]
     }
   }
 }

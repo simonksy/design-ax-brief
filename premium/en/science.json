@@ -3374,6 +3374,151 @@
           "x": "“For years, the hardest part of scaling up quantum computers wasn't the physics, it was the person driving in at 2 a.m. to fix a laser lock,” said Sergio H. Cantu, QuEra's vice president of quantum systems. Still, this trial covered only a single subsystem, and it is not proof that an entire quantum computer can look after itself. MHS was launched jointly by Anthropic and the Janelia Research Campus of the Howard Hughes Medical Institute, and it remains a limited research preview while its safety design is under review."
         }
       ]
+    },
+    "science/science-cancer-vaccine-algorithm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The personalized cancer vaccine developed jointly by Moderna and Merck would, if approved, become the first medicine whose genetic content is effectively written by an algorithm. For each patient, software scans thousands of tumor mutations and selects 34 neoantigens to include in that person's own mRNA vaccine."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2022/11/5-1024x576.jpg",
+          "cap": "An mRNA strand replicated six times. Credit: Christine Kao/STAT"
+        },
+        {
+          "t": "p",
+          "x": "STAT's Meghana Keshavan points to how this experiment sits at the overlap of regulation and computation. Some researchers see the algorithm that picks the mutations as the treatment's 'secret sauce.' Skeptical investors on Wall Street, however, suspect the personalization itself may not even be necessary, arguing that the mRNA may simply be stimulating tumors to respond better to Keytruda."
+        },
+        {
+          "t": "p",
+          "x": "So what is actually inside that algorithm? Alex Rubinsteyn, a cancer vaccine expert at the University of North Carolina, had a short answer. “No one really knows. Everyone claims what they have is proprietary knowledge.”"
+        },
+        {
+          "t": "p",
+          "x": "The money has already started moving. A week after announcing phase 3 success for its personalized cancer vaccine, Moderna is raising $2 billion through convertible notes. The same day's edition of The Readout also carried an analysis of how U.S. restrictions on Chinese biotech could benefit Europe, the shadow that AstraZeneca and Ionis's phase 3 failure of eplontersen casts over Alnylam, and news of the approval of Revolution Medicines's pancreatic cancer drug Rasonque."
+        }
+      ]
+    },
+    "science/science-glucofm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The movement and sleep that wearables track only indirectly reflect glucose control. A continuous glucose monitor (CGM) uses a sensor under the skin to measure interstitial glucose every few minutes, directly recording fasting, overnight, and post-meal patterns. What remains is the problem of interpretation. Clinical labels that could read those trajectories are expensive and scarce."
+        },
+        {
+          "t": "p",
+          "x": "GlucoFM, released on August 26 by a team led by Ahmed A. Metwally and Zechen Li at Google Research, answers this with self-supervised learning. While existing CGM foundation models such as CGMformer, GluFormer, and CGM-JEPA treat glucose as a single representational stream, GlucoFM encodes it as two separate branches: a slow baseline trend and the short-term deviations created by meals, activity, and sensor noise. It also does not discard time-of-day information or the location of missing values."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM1_Overview.width-1250.png",
+          "cap": "GlucoFM overview. Data preprocessing, JEPA-style pretraining architecture, and clinical prediction applications. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "Pretraining used 109,066 hours of unlabeled CGM data and 477 participant/session records gathered from Wear-CGM and four public datasets. Each record was fit to a 24-hour, 5-minute grid, with an observation mask kept to distinguish measured values from gaps. Rather than reconstructing raw values directly, the model was trained to infer the latent representation of masked segments from surrounding context, while also predicting how the baseline and short-term deviations would move over the next hour."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM2_Framework.width-1250.png",
+          "cap": "GlucoFM's model architecture and pretraining objectives. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "Evaluation covered four cohorts—CGMacros, Stanford, Hall, and ShanghaiT2DM—seven clinical prediction tasks, and 14 cohort-task combinations. With the encoder frozen and only a linear classifier added, the average PR-AUC rose from 54.7 for the strongest CGM-only baseline retrained on the same data to 58.8, a gap of 4.1 points in absolute terms and about 7.5% relative. GlucoFM ranked first on every diabetes-risk and beta-cell dysfunction evaluation, and on three of four insulin-resistance evaluations."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM3_LinearProbe.width-1250.png",
+          "cap": "Linear probe performance on metabolic phenotypes. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "For predicting the two-hour post-meal glucose response, the team validated against 874 meals from 34 participants, split between Dexcom and Libre devices. Using one hour of pre-meal CGM data plus nutrition information, fasting glucose, BMI, and diabetes status, GlucoFM achieved a mean absolute error of 21.88 mg/dL, beating the best baseline's 22.90 mg/dL and the training-fold average of 27.69 mg/dL."
+        },
+        {
+          "t": "p",
+          "x": "Averaging over periods of up to seven days rather than a single day raised PR-AUC by 9.6 points for Stanford beta-cell dysfunction and 14.0 points for Hall diabetes prediction. In transfer experiments across cohorts, GlucoFM outperformed the strongest competing model by 0.5 to 8.6 points in 11 of 12 cases, falling behind by 0.6 points in just one."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/GlucoFM6_Transfer.width-1250.png",
+          "cap": "Cross-cohort transfer performance. PR-AUC difference between GlucoFM and the strongest baseline. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "The ranking held even with extremely limited labels. Even given just one person per class and only 1% of observations, GlucoFM produced the highest average PR-AUC across tasks. The team cited the still-small pretraining population as a limitation and said it plans to broaden the scope with more diverse populations and multi-day training."
+        }
+      ]
+    },
+    "science/science-mof-linker-ml": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The place where autonomous labs have always stumbled is scale. The number of possible materials is so large that testing them one by one never ends. Zhiling Zheng, an assistant professor of chemistry at Washington University in St. Louis, says it's time to flip the order. Instead of exhaustively screening candidates, his approach is to first have a model read the chemical knowledge accumulated in papers. His starting point: “We've already seen that AI is powerful at predicting new structures.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/labs.jpg",
+          "cap": "Lab image. Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "The results are already in. Zheng's team trained a large language model on 4,000 metal-organic framework (MOF) linker transformations, and the 10 new materials the model identified outperformed state-of-the-art aluminum-based adsorbents at harvesting water from air. The labor-intensive exhaustive screening was skipped entirely. The findings appeared in Science as 'Reprogramming synthesis.'"
+        },
+        {
+          "t": "p",
+          "x": "Christopher Cooper, at the same university's McKelvey School of Engineering, dug into the data side. Together with Kathryn Miller, he built a method to automatically distill synthesis 'recipes' scattered across the literature into a form models can use, and published the Dynamic Polymer Annotated Library (DPAL), which screens for viable dynamic polymer candidates, in Matter. “We want the model to understand those instructions and combine them to say, ‘this one has a high probability of success,’” he explained."
+        },
+        {
+          "t": "p",
+          "x": "Cooper also proposed a way to lighten the computational load by representing polymers as probability distributions. “Breaking it down into probabilities gives you a way to represent the system physically, and it also speeds up the model's predictions and accuracy.” Both studies point in the same direction: not brute-force experimentation, but targeted design that follows the model's suggestions. In Zheng's words, “Instead of standing in the lab for 10 hours, you can become a manager.”"
+        }
+      ]
+    },
+    "science/science-parkinsons-drawing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Signals of Parkinson's disease turn up in more places than one might expect. Clues have come from hair, blood, and earwax, and links have been reported, to varying degrees, even with speech patterns, mental health, and where someone lives. Even so, diagnosis still relies heavily on clinical evaluation. Without an easy, decisive biomarker, early diagnosis remains especially difficult."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/handwriting-on-notebook.jpg",
+          "cap": "Handwriting in a notebook. Credit: Yifei Fang/Moment/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "A study published in Discover Computing takes a different path with a single drawing. A team led by first author Ishan Ayus, a computer scientist at Siksha 'O' Anusandhan University in India, built an AI system that can flag Parkinson's disease from a simple drawing test alone."
+        },
+        {
+          "t": "p",
+          "x": "The data came from an earlier Parkinson's disease study conducted in Brazil. Of 66 participants, 31 were patients and 35 were healthy controls. They traced two shapes—a spiral and a meander made of connected angled lines—using a smart pen that reads biometric signals. The pen recorded both the drawn image and the hand-movement signal at the same time."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/spirals-and-meanders.jpg",
+          "cap": "Spirals and meanders drawn by Parkinson's patients and non-patients. Credit: Ayus et al., Discov. Comput., 2026"
+        },
+        {
+          "t": "p",
+          "x": "The researchers fed the images and sensor data into several deep learning models. Each model assessed the shapes' spatial irregularities along with subtle differences in motor control and hand coordination captured by the pen. SNAKE is the algorithm that weighs those judgments by accuracy and combines them into a single conclusion."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/08/BiometricSmartPenFMeasuresMotorControl-1200x438.png",
+          "cap": "Finger grip, axial pressure, tilt, and acceleration recorded by the smart pen. Left: healthy control. Right: Parkinson's patient. Credit: Ayus et al., Discov. Comput., 2026"
+        },
+        {
+          "t": "p",
+          "x": "The results: 98.95% accuracy for meanders and 97.74% for spirals, surpassing existing AI systems that used handwriting and drawings to identify Parkinson's disease. “Handwritten images provide spatial features such as stroke irregularities, tremor-induced distortions, and shape deviations,” the researchers wrote. “Sensor-captured writing signals, meanwhile, capture motor behavior along the time axis, such as speed fluctuations, pressure irregularities, and coordination deficits.”"
+        },
+        {
+          "t": "p",
+          "x": "They were also clear about the limits. A sample of 66 is too small to capture the diversity of Parkinson's disease seen in actual clinical practice, so the results should be read as evidence of the framework's potential rather than confirmed diagnostic performance. The team said that if the approach passes larger clinical validation, it could lead to noninvasive, low-cost remote neurological screening and clinical decision support."
+        }
+      ]
     }
   }
 }

@@ -3422,6 +3422,153 @@
           "x": "El Dr. Cao señaló tres tareas pendientes: pasar de un solo activo a entornos e interacción, añadir el código y la lógica que construyen los entornos, y un modelo de mundo que prediga los próximos minutos. Cuando esas tres piezas se combinen, los artistas dedicarán su tiempo a definir la dirección en lugar de crear activos y escribir scripts."
         }
       ]
+    },
+    "games/games-dwarf-fortress-magic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
+          "cap": "Arte clave de la actualización Myth and Magic. Un mago enano lanza un hechizo bajo la forma de Armok. Crédito de imagen: Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "Dwarf Fortress ya ha implementado alcoholismo felino, tradiciones bárdicas generadas proceduralmente y un aliento de dragón termonuclear que estalla como una bomba de relojería. Pero los hermanos desarrolladores Tarn Adams y Zach Adams no han soltado una meta aún mayor: la magia. Magia procedural ligada a una cosmología y mitología que se reescribe cada vez que un jugador pulsa 'generar nuevo mundo', y que solo funciona dentro de ese mundo en particular."
+        },
+        {
+          "t": "p",
+          "x": "Es un intento temerario incluso para un juego que ya marcó el estándar de complejidad de simulación. Llevó 10 años y exigió rehacer por completo el sistema de scripts. Putnam, el primer programador que Bay 12 Games contrató fuera de los hermanos Adams, sostuvo ese trabajo. Es, francamente, difícil de creer, pero la primera pieza llega este año."
+        },
+        {
+          "t": "video",
+          "yt": "8P-FTy6hhp0"
+        },
+        {
+          "t": "p",
+          "x": "En un breve video de anuncio, Tarn Adams confirmó que la primera actualización de Myth and Magic llega este año. Dijo que el objetivo es un sistema de magia procedural que va más allá de combinar efectos de hechizos y se adentra directamente en la configuración cosmológica fundamental de un universo, creando situaciones mágicas que no podrían surgir de ninguna otra manera."
+        },
+        {
+          "t": "p",
+          "x": "La idea se remonta a 2017. Al vincular la magia al mito de creación y la cosmología de cada mundo, Dwarf Fortress deja de ser un juego que produce variaciones de mundo y se convierte en un generador que crea ambientaciones de fantasía completas. El resultado son universos donde la magia es tan fundamental como las leyes de la física."
+        },
+        {
+          "t": "p",
+          "x": "Adams dijo: “It allows your fortresses to pursue magical research that really feels like discovery.” Es decir, que tu fortaleza puede llevar a cabo investigación mágica que de verdad se siente como un descubrimiento."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7YB7v9Jh7Qb2VXAeDsP5NV.png",
+          "cap": "Un hombre-mosca de seis brazos despeja con magia un pasillo lleno de goblins. Crédito de imagen: Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "El video dura solo un minuto, pero ofrece destellos de personajes usando magia. Un chamán goblin teletransporta a un gato, un mago enano estampa repetidamente a un goblin contra una pared, y un hombre-mosca de seis brazos con cuatro varitas arrasa un pasillo lleno de espadachines enemigos con una lluvia de proyectiles mágicos. Un enano maldecido con no-muerte por un nigromante empieza de inmediato a morder al compañero de al lado."
+        },
+        {
+          "t": "p",
+          "x": "Sobre una escena de un proyectil mágico demoliendo rápidamente un puesto avanzado enano, Adams añadió que habrá efectos mágicos que hacen estallar cosas, pero también todo lo que hace que la fantasía se sienta como fantasía: materiales mágicos, encantamientos, rituales y ruinas antiguas. Y cada uno está ligado a cómo funciona ese universo en concreto en su núcleo."
+        },
+        {
+          "t": "p",
+          "x": "Todavía no hay fecha de lanzamiento para la primera actualización de Myth and Magic. Dwarf Fortress está disponible actualmente en Steam y en el sitio de Bay 12 Games."
+        }
+      ]
+    },
+    "games/games-genai-visual-literacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Juegos acusados injustamente de usar genAI. Crédito de imagen: Rock Paper Shotgun"
+        },
+        {
+          "t": "p",
+          "x": "Las cacerías de brujas sobre si el arte usado en un juego es resultado de IA generativa se han vuelto rutina. Durante varias semanas, Rock Paper Shotgun habló con desarrolladores y artistas señalados injustamente y les preguntó por qué esa imagen en particular despertó sospechas. Las imágenes de IA no tienen un estilo ni una calidad fijos; el resultado depende solo de lo que se alimentó al modelo, así que cualquier truco de detección que funcionó una vez pronto queda obsoleto."
+        },
+        {
+          "t": "p",
+          "x": "Hannah Flynn, directora de comunicación de Failbetter, creadora de Fallen London, dijo que cada vez que un video se vuelve viral o hay un gran anuncio, siempre llega la pregunta de si usan genAI. El estudio incluso publicó en su página principal una declaración de que no usará IA. Su sospecha es que un estilo pictórico, o detalles corporales extraños como demasiados ojos o dedos, provocan más sospecha en lugar de menos."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/tenebris-somnia-2.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Un monstruo con una vela sobre la cabeza. Una escena del juego de horror Tenebris Somnia. Crédito de imagen: New Blood Interactive"
+        },
+        {
+          "t": "p",
+          "x": "David Oshry, CEO de New Blood Interactive, enfrentó la misma sospecha por Tenebris Somnia, un juego de horror que mezcla pixel art con metraje real. Terminó teniendo que publicar un video detrás de cámaras aparte que mostraba cómo se hacían los objetos. Dijo que las críticas, especialmente en Instagram, son ahora casi constantes; hace un año este tipo de reacción era poco común. El alboroto sí hizo que la lista de deseos sumara 15.000 adiciones en una sola semana."
+        },
+        {
+          "t": "p",
+          "x": "Abandoned Sheep, creadora de Schrodinger's Cat Burglar, terminó reemplazando por completo el arte. El arte clave en cuestión fue dibujado a mano por el artista local Tom Williams a mediados de 2022, antes de que la genAI pudiera producir ese nivel. El director del estudio, Martin Binfield, dijo que parece haber sido señalado por verse demasiado pulido. Los comentarios se inclinaban menos hacia “¿esto es IA?” y más hacia la afirmación tajante de que no comprarían hasta que se quitara la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/unnamed(2)_XiRPXSV.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "El antiguo arte clave de Schrodinger's Cat Burglar, señalado repetidamente como generado por IA. Crédito de imagen: Abandoned Sheep"
+        },
+        {
+          "t": "p",
+          "x": "La ilustradora Janna Sophia Koppenwallner está escribiendo su tesis de maestría sobre qué tan bien puede la gente detectar IA. Los datos todavía son preliminares y no han pasado revisión por pares, pero la precisión promedio de detección fue del 74%, y quienes completaron un breve módulo de entrenamiento obtuvieron resultados algo peores. Añadió que el arte que más se confunde suele tener un estilo limpio, muy pulido y popular. Cuantos más datos existen, mejor puede un modelo reproducir un estilo, así que los estilos de nicho todavía no se pueden imitar de forma convincente."
+        },
+        {
+          "t": "p",
+          "x": "La textura de los errores también es distinta. La IA mezcla las cosas entre sí, como el cabello que se funde con un collar, porque va uniendo elementos por probabilidad sin saber en realidad qué está dibujando. Los errores de un principiante humano no se ven así."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/image(1).png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Una imagen dividida en 10 paneles que muestra el trazado de rayos y la eliminación de ruido aplicados paso a paso. Crédito de imagen: Abdou Bouam"
+        },
+        {
+          "t": "p",
+          "x": "Las cosas se complican más cuando entran en juego herramientas de aprendizaje automático más antiguas. Un cliente le preguntó al artista independiente Abdou Bouam si una mancha borrosa era IA; en realidad era un artefacto de eliminación de ruido. Los renders con trazado de rayos empiezan llenos de ruido y solo se vuelven físicamente precisos cuando se acumulan suficientes muestras. Eliminadores de ruido como Nvidia Optix, lanzado en 2018, sí usan aprendizaje automático, pero son algo distinto de la IA generativa actual: se entrenaron con imágenes renderizadas con ruido añadido deliberadamente en lugar de datos recopilados sin permiso, y se ejecutan de forma local en lugar de en un centro de datos."
+        },
+        {
+          "t": "p",
+          "x": "Koppenwallner dijo que la detección puramente visual es cada vez más difícil. Hoy en día las pistas están más en el contexto que en la imagen misma. Saber eso y usarlo para protegerse es distinto de confiar solo en el instinto y señalar públicamente a alguien."
+        }
+      ]
+    },
+    "games/games-google-ai-pitch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
+          "cap": "Un fragmento del blog de Google Cloud 'Level up: How AI is unlocking a new golden age of games'. Crédito de imagen: Aftermath"
+        },
+        {
+          "t": "p",
+          "x": "El autor de Aftermath escribió que perdió unos minutos de su vida leyendo la entrada del blog corporativo de Google Cloud 'Level up: How AI is unlocking a new golden age of games'. El autor es Jack Buser, director global de juegos de Google."
+        },
+        {
+          "t": "p",
+          "x": "La forma es previsible: un discurso de ventas escrito por alguien de la empresa, seguido de frases que suenan a cebo de LinkedIn. “We need a structural shift to revive the ecosystem where creative risks are sustainable again. Fortunately, AI has matured enough to help drive that renaissance.” Es decir, que para revivir el ecosistema y que los riesgos creativos vuelvan a ser sostenibles se necesita un cambio estructural, y que por suerte la IA ha madurado lo suficiente para ayudar a impulsar ese renacimiento."
+        },
+        {
+          "t": "p",
+          "x": "Lo que realmente llamó la atención del autor fue el final del texto. Buser menciona tres casos de uso de IA en el desarrollo de juegos que considera 'interesantes': Chatty Slimey, un compañero multimodal en tiempo real que Square Enix añade a Dragon Quest X Online; The Ritual, el sistema de generación personalizada del roguelite de supervivencia contra hordas con viajes en el tiempo YOU vs. Zombies, lanzado este verano por 10Six Games; y el prototipo Teammates de Ubisoft, que sustituye los menús de comandos por dirección por voz."
+        },
+        {
+          "t": "p",
+          "x": "La reacción del autor es breve y dura: tras tres o cuatro años dedicados a esta locura colectiva, ¿esto es lo único que hay para respaldar un discurso de ventas, estos tres trucos menores, molestos y poco populares? Pregunta si esto es realmente lo que ustedes llaman una edad de oro."
+        },
+        {
+          "t": "p",
+          "x": "Lo único que Chatty Slimey parece estar construyendo con el fandom de Dragon Quest es cuánto lo odian. YOU vs. Zombies, del que el autor nunca había oído hablar hasta ahora y que buscó por su cuenta, se ve mal. Teammates ya había aparecido antes, en un artículo de Aftermath de noviembre de 2025."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores y estudios que lo apostaron todo a los pipelines de IA llevan años en ello. Y aun así no hay ningún resultado que haga que una persona común se interese por esta tecnología. ¿Dónde está el RPG que tiene a jugadores de todo el mundo enganchados con respuestas ingeniosas y contextuales de personajes generados por IA? ¿Dónde está el simulador de vida donde la IA ha creado un mundo infinito que vale la pena explorar, con compañeros que no solo reaccionan sino que son genuinamente interesantes?"
+        },
+        {
+          "t": "p",
+          "x": "El autor va directo al grano sobre la razón: es porque la IA no puede hacer eso. Considera que el verdadero cuello de botella que frena los calendarios de desarrollo no suele ser alguna limitación técnica menor, sino la incompetencia y la falta de visión de los propios gerentes y dueños que insisten en imponer la IA a los trabajadores."
+        },
+        {
+          "t": "p",
+          "x": "Buser cierra con una metáfora. “I think of AI as an exoskeleton — an Iron Man suit for developers. The armor does the heavy lifting, but it does nothing without the intent of the human pilot inside.” Es decir, ve la IA como un traje de Iron Man para desarrolladores, un exoesqueleto. La frase final de Aftermath es esta: el traje de Iron Man en realidad no existe. Es una fantasía."
+        }
+      ]
     }
   }
 }

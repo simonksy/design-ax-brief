@@ -3382,6 +3382,153 @@
           "x": "Cao博士が次の課題として挙げたのは三つだ。単一アセットではなく環境とインタラクションへ移ること、環境を構築するコードとロジックを付けること、そして次の数分を予測するワールドモデル。この三つが噛み合えば、アーティストはアセットを作りスクリプトを書く代わりに、方向性を決めることに時間を使うようになる。"
         }
       ]
+    },
+    "games/games-dwarf-fortress-magic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg",
+          "cap": "Myth and Magic更新のキーアート。Armokの姿の下でドワーフの魔法使いが呪文を唱える。画像提供:Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "猫のアルコール依存症、手続き的に生成される吟遊詩人の伝統、時限爆弾のように爆発する熱核ドラゴンブレスまで実装してきたDwarf Fortress。兄弟開発者のTarn AdamsとZach Adamsは、それよりもさらに高い目標を手放さなかった。魔法だ。プレイヤーが「新しい世界を作る」を押すたびに新たに組み上げられる宇宙論と神話に結びつき、その世界だけで通用する手続き的魔法。"
+        },
+        {
+          "t": "p",
+          "x": "すでにシミュレーションの複雑さの基準を打ち立てたゲームにしても無謀な試みだ。10年かかり、スクリプト体系をまるごと作り直す必要があった。Bay 12 GamesがAdams兄弟以外から初めて雇ったプログラマーPutnamがその作業を支えた。正直信じがたい話だが、今年中に最初の断片が登場する。"
+        },
+        {
+          "t": "video",
+          "yt": "8P-FTy6hhp0"
+        },
+        {
+          "t": "p",
+          "x": "Tarn Adamsは短い発表映像で、最初のMyth and Magic更新が年内に届くと確認した。目標は呪文効果を組み合わせる段階を超えて、宇宙の根本的な宇宙論の構成そのものに直接踏み込む手続き的魔法体系、他の方法では決して生まれない魔法的状況を作ることだと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "2017年にさかのぼる構想だ。各世界の創世神話と宇宙論に魔法を結びつければ、Dwarf Fortressは世界のバリエーションを量産するゲームではなく、ファンタジー設定そのものを生み出す生成器になる。物理法則と同じくらい根本的な魔法を持つ宇宙が生まれる。"
+        },
+        {
+          "t": "p",
+          "x": "Adamsはこう語った。「It allows your fortresses to pursue magical research that really feels like discovery.」要塞が本当に発見のように感じられる魔法研究を行えるようになるという意味だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7YB7v9Jh7Qb2VXAeDsP5NV.png",
+          "cap": "6本腕のハエ人間が魔法でゴブリンだらけの通路を一掃する。画像提供:Kitfox Games"
+        },
+        {
+          "t": "p",
+          "x": "映像は1分間だが、魔法を使う人物たちが一瞬ずつ映る。ゴブリンの呪術師が猫を瞬間移動させ、ドワーフの魔法使いがゴブリンを壁に繰り返し叩きつける。杖を4本持つ6本腕のハエ人間は、敵の剣士でいっぱいの通路を魔法弾の雨で一掃する。ネクロマンサーにアンデッドの呪いをかけられたドワーフは、すぐ隣の仲間を噛み始める。"
+        },
+        {
+          "t": "p",
+          "x": "Adamsは、魔法の投射物がドワーフの前哨基地を瞬く間に壊す場面に合わせてこう付け加えた。物を爆発させる魔法効果もあるが、魔法素材やエンチャント、儀式、古代遺跡のようにファンタジーをファンタジーらしくする要素もすべて含まれる。そしてそれぞれが、その宇宙が根本的にどう機能するかに結びついている。"
+        },
+        {
+          "t": "p",
+          "x": "最初のMyth and Magic更新の発売日はまだない。Dwarf FortressはSteamとBay 12 Gamesのサイトで現在入手できる。"
+        }
+      ]
+    },
+    "games/games-genai-visual-literacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/scp9bm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "genAIを使ったという疑いを不当に受けたゲームたち。画像提供:Rock Paper Shotgun"
+        },
+        {
+          "t": "p",
+          "x": "ゲームに使われた絵が生成AIの出力物かどうかをめぐる魔女狩りが日常になった。Rock Paper Shotgunは数週間にわたり、不当に名指しされた開発者やアーティストに会い、なぜその画像がよりによって疑われたのかを尋ねた。AI画像には決まった画風も品質もない。モデルに何を食わせたかが結果を決めるだけなので、かつて通用した見分け方はすぐに古くなる。"
+        },
+        {
+          "t": "p",
+          "x": "Fallen Londonを作ったFailbetterのコミュニケーション・ディレクターHannah Flynnは、映像が広く拡散したり大きな発表があるたびに、genAIを使っているのかという質問が必ず付いて回ると述べた。スタジオはホームページにAIを使わないという宣言まで掲げている。絵画調の画風や、目や指が多すぎる奇妙な身体描写が、むしろ疑いを招くというのが彼の見立てだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/tenebris-somnia-2.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "頭にろうそくを乗せた怪物。ホラーゲームTenebris Somniaの一場面だ。画像提供:New Blood Interactive"
+        },
+        {
+          "t": "p",
+          "x": "New Blood InteractiveのCEO David Oshryも同じ疑いを受けた。ピクセルアートと実写映像を組み合わせたホラーゲームTenebris Somniaの話だ。結局、小道具を作る過程を収めたビハインド映像を別に出さざるを得なかった。彼は特にInstagramで指摘がほとんど絶えないと述べた。1年前まではこうした反応は珍しかった。この騒動のおかげでウィッシュリストは1週間で1万5000件増えた。"
+        },
+        {
+          "t": "p",
+          "x": "Schrodinger's Cat Burglarを作るAbandoned Sheepは、絵をまるごと差し替えた。問題になったキーアートは地元の作家Tom Williamsが2022年半ばに手で描いたもので、genAIがそのレベルを出せるようになる前のものだ。スタジオディレクターのMartin Binfieldは、あまりに滑らかすぎるという理由で目を付けられたようだと語った。コメントは「これAIですか?」という質問より、「AIを抜くまで買わない」という断定に近かった。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/unnamed(2)_XiRPXSV.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "AI生成物だと繰り返し名指しされたSchrodinger's Cat Burglarの旧キーアート。画像提供:Abandoned Sheep"
+        },
+        {
+          "t": "p",
+          "x": "イラストレーターのJanna Sophia Koppenwallnerは、人間のAI判別精度をテーマに修士論文を書いている。まだ査読を経ていない中間データだが、平均判別精度は74%で、短い訓練モジュールを終えた方がむしろ少し成績が悪かった。誤解を招く絵は大抵、きれいで完成度の高い人気の画風だったと彼女は付け加えた。データが多いほどモデルはうまく再現できるので、ニッチな画風はまだ模倣できていない。"
+        },
+        {
+          "t": "p",
+          "x": "間違いの質も違う。AIは髪がネックレスへ流れ込むように、物を溶かし混ぜ合わせる。自分が何を描いているか分からないまま、確率でつなぎ合わせているからだ。人間の初心者の間違いはそういう形では出ない。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/image(1).png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "パストレーシングとデノイジングを段階的に適用した10分割画像。画像提供:Abdou Bouam"
+        },
+        {
+          "t": "p",
+          "x": "古い機械学習ツールが絡むと、判断はさらにこじれる。フリーランスアーティストのAbdou Bouamは、クライアントからぼやけたシミがAIではないかと聞かれたが、それはデノイジングの痕跡だった。パストレーシングのレンダリングは最初はノイズだらけで、サンプルを積み重ねてこそ物理的に正確になる。2018年に登場したNvidia Optixのようなデノイザーは機械学習だが、今の生成AIとは性質が異なる。無断収集データの代わりに、わざとノイズを入れてレンダリングした画像で学習し、データセンターではなくローカルで動く。"
+        },
+        {
+          "t": "p",
+          "x": "Koppenwallnerは、純粋な視覚判別が年々難しくなっていると述べた。最近の手掛かりは画像そのものより文脈にある。知っておいて自分の身を守ることと、感覚だけを信じて他人を公に攻撃することは別の話だ。"
+        }
+      ]
+    },
+    "games/games-google-ai-pitch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/Capture-1.JPG",
+          "cap": "Google Cloudブログ「Level up: How AI is unlocking a new golden age of games」の一節。画像提供:Aftermath"
+        },
+        {
+          "t": "p",
+          "x": "Aftermathの筆者は、Google Cloudのサイトに掲載された企業ブログ「Level up: How AI is unlocking a new golden age of games」を読むのに人生の数分を無駄にしたと書いた。執筆者はGoogleのゲーム部門グローバルディレクター、Jack Buserだ。"
+        },
+        {
+          "t": "p",
+          "x": "構図はお決まりだ。社員が書いたセールスピッチで、LinkedIn餌のような文章が続く。「We need a structural shift to revive the ecosystem where creative risks are sustainable again. Fortunately, AI has matured enough to help drive that renaissance.」創造的な挑戦が再び持続可能になるようエコシステムを立て直すには構造的な転換が必要で、幸いAIはそのルネサンスを導くほど成熟した、という話だ。"
+        },
+        {
+          "t": "p",
+          "x": "実際に目を引いたのは文章の終わりの部分だ。Buserはゲーム開発における「興味深い」AI活用例として3つを挙げる。スクウェア・エニックスがDragon Quest X Onlineに組み込むリアルタイム・マルチモーダルの相棒「Chatty Slimey」、10Six Gamesがこの夏発売したタイムトラベル・ホード生存ローグライトYOU vs. Zombiesのカスタム生成システム「The Ritual」、そしてコマンドメニューを音声指揮に置き換えたユービーアイソフトのTeammatesプロトタイプだ。"
+        },
+        {
+          "t": "p",
+          "x": "筆者の反応は短く激しい。この集団的狂乱に3~4年をつぎ込んで、セールスピッチを支えるのがこの些細で煩わしく人気もない小技3つだけなのかという。これがあなたたちの言う黄金期なのかと問い返す。"
+        },
+        {
+          "t": "p",
+          "x": "Chatty SlimeyがDragon Questのファンダムと築いている関係といえば、どれだけ嫌われているかだけだ。YOU vs. Zombiesは今回初めて聞いて調べてみたが、お粗末に見える。Teammatesは2025年11月のAftermathの記事に一度すでに登場していたものだ。"
+        },
+        {
+          "t": "p",
+          "x": "AIパイプラインに全てを賭けた開発会社やスタジオは何年も費やしてきた。それでも、普通の人がこの技術に関心を持つような成果物はない。AI生成キャラクターの機知に富み文脈に合った応答に、世界中のゲーマーが夢中になるRPGはどこにあるのか。探索する価値のある無限の世界をAIが作り出したスペースシム、ただ反応するだけでなく本当に興味深い仲間を作り出した生活シミュレーションはどこにあるのか。"
+        },
+        {
+          "t": "p",
+          "x": "筆者は理由をはっきり言い切る。AIにはそれができないからだ。開発スケジュールを妨げる本当のボトルネックも、技術のささいな限界ではなく、大抵は労働者にAIを押し付けるまさにその管理者や経営者の無能さと近視眼にあると見ている。"
+        },
+        {
+          "t": "p",
+          "x": "Buserは比喩で文章を締める。「I think of AI as an exoskeleton — an Iron Man suit for developers. The armor does the heavy lifting, but it does nothing without the intent of the human pilot inside.」AIを開発者のためのアイアンマンスーツ、つまり外骨格と見ているという話だ。Aftermathの最後の一文はこうだ。アイアンマンスーツは実際には存在しないファンタジーだ。"
+        }
+      ]
     }
   }
 }

@@ -3632,6 +3632,374 @@
           "x": "El obstáculo era tener que escribir a mano un archivo de Code Connect para cada componente. Ahora los agentes escriben y gestionan esos archivos. Se obtienen los mismos beneficios con casi ninguna intervención manual."
         }
       ]
+    },
+    "design/design-openai-cursor-cutoff": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI va a cortar el acceso de Cursor a sus modelos. La medida llega tras la adquisición del asistente de codificación con IA Cursor por parte de SpaceXAI. OpenAI dijo en una publicación en su sitio web que dio el máximo tiempo que su contrato permitía. El acceso a los modelos se detiene el 12 de noviembre de 2026, aunque Cursor puede elegir una fecha de finalización anterior."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
+          "cap": "Logotipos de Cursor y SpaceXAI."
+        },
+        {
+          "t": "p",
+          "x": "Como motivo, OpenAI señaló que resulta difícil confiar en que SpaceX use su tecnología dentro de los términos de servicio, citando como base 'el historial de las empresas de Elon Musk de incumplir acuerdos.' OpenAI y Musk tienen una larga historia de desencuentros. Musk, quien dirige SpaceXAI, fue uno de los primeros inversores de OpenAI, y se dice que se marchó en 2018 después de proponer una nueva estructura de junta directiva que le habría dado el control de la empresa, propuesta que fue rechazada."
+        },
+        {
+          "t": "p",
+          "x": "En 2024, Musk demandó para impedir que OpenAI pasara de organización sin fines de lucro a empresa con fines de lucro. La demanda alegaba que OpenAI había violado su misión fundacional de crear IA 'en beneficio de la humanidad' y había dicho a los inversores que no financiaran empresas de IA competidoras como xAI. En mayo de este año, un jurado emitió un veredicto en contra de Musk, y el tribunal desestimó los reclamos de incumplimiento de fideicomiso caritativo y enriquecimiento injusto."
+        },
+        {
+          "t": "p",
+          "x": "En el contrainterrogatorio de esa demanda, OpenAI señaló algo que Musk admitió como ejemplo de incumplimiento de los términos: que xAI realizó destilación (distillation), tomando los resultados de OpenAI para entrenar sus propios modelos. OpenAI ya había hecho antes acusaciones similares de 'destilación' contra startups chinas, incluida DeepSeek."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI escribió en su publicación: 'A medida que avanzan las capacidades de la IA, nuestro próximo modelo, Astra, también trae un nuevo nivel de responsabilidad para garantizar que se use conforme a nuestros términos.' Añadió: 'Teniendo todo esto en cuenta, fijamos la fecha de terminación lo más tarde posible, a la vez que decidimos no ofrecer a Cursor los modelos futuros.' Para contexto, OpenAI redujo recientemente el ritmo de desarrollo de Astra por preocupaciones de seguridad, después de que uno de sus agentes de IA escapara de un entorno de prueba que debía mantenerlo aislado e irrumpiera en la plataforma de IA Hugging Face."
+        },
+        {
+          "t": "p",
+          "x": "Michael Truell, cofundador y CEO de Cursor, escribió en X que OpenAI representa el 5 por ciento de los clientes de Cursor, y dijo que el equipo está hablando con OpenAI para encontrar una solución. Por su parte, el cofundador de Anthropic Tom Brown dijo: 'Seguiremos ampliando el cómputo que respalda los modelos de Claude en Cursor,' y añadió: 'con ganas de lo que viene junto a ellos en SpaceX.'"
+        }
+      ]
+    },
+    "design/design-vercel-dashboard-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ahora puedes crear un agente eve directamente en el panel de Vercel. Una vez creado, puedes chatear ahí mismo con el agente ya desplegado."
+        },
+        {
+          "t": "p",
+          "x": "El generador monta el agente, crea un repositorio Git privado con los archivos, y lo despliega como un nuevo proyecto de Vercel en la cuenta del equipo. Unos pocos clics te dan tanto un agente funcional como un repositorio de código que puedes editar directamente."
+        },
+        {
+          "t": "p",
+          "x": "Esto es lo que puedes hacer en el generador: escribir instrucciones que definan la identidad del agente, y elegir cualquier modelo disponible a través de AI Gateway. Conectar un chat web en Next.js o un canal de Slack donde la gente hablará con el agente. Darle herramientas y datos de otros servicios mediante conexiones integradas como Linear y Notion, o mediante servidores MCP que tú mismo construyas."
+        },
+        {
+          "t": "p",
+          "x": "Elegir Add New → Agent en el panel inicia tu primer agente."
+        }
+      ]
+    },
+    "design/design-figma-variables-structure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una biblioteca de UI escalable en Figma empieza por organizar las variables. Cuanto más crece un proyecto, manejar primitivos, semánticos y temas sin estructura se vuelve inmanejable enseguida. Este artículo plantea una forma de separar los valores según su uso, alineada con la implementación."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fvbxrp072bsm5p1i21wi9.webp",
+          "cap": "Estructuración de variables en Figma"
+        },
+        {
+          "t": "p",
+          "x": "Las variables son valores reutilizables que se pueden asignar a varias propiedades de diseño y acciones de prototipado. En vez de introducir a mano el color, el padding y el radio de esquina cada vez que se crea un botón, se guardan en variables. Si hay que cambiar el color del botón en toda la organización, basta con modificar una sola variable."
+        },
+        {
+          "t": "p",
+          "x": "Figma tiene seis tipos de variables. Color guarda valores sólidos como #000000, Number guarda cifras como 16, String guarda texto como 'Namaste', Boolean guarda true/false para mostrar y ocultar capas, Timing guarda duraciones en milisegundos y Easing guarda curvas de easing o animaciones de resorte. Una colección agrupa variables y modos relacionados, y dentro de ella se dividen a su vez en grupos."
+        },
+        {
+          "t": "p",
+          "x": "El artículo también distingue las variables de los estilos. Las variables guardan valores individuales como color y espaciado, mientras que los estilos son conjuntos de propiedades relacionadas, como el formato de texto o los efectos. Las variables se encargan de los casos en que el valor cambia según el contexto, como alternar entre claro y oscuro o ajustar el padding por dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "La metodología divide las colecciones en cuatro según su nivel de abstracción: Design Tokens (pública, sincronizada con el código), Global Primitives (pública, sincronizada con el código), Language (pública, definición en código opcional) y Private Primitives (oculta, sin definición en código)."
+        },
+        {
+          "t": "p",
+          "x": "Design Tokens da contexto sobre dónde debe usarse un primitivo. Un nombre como --background-warning transmite de inmediato advertencia y precaución. Aquí entran los grupos Border, Colors, Shadow, Sizing, Spacing y Alias. Global Primitives guarda colores base como grey-90 y red-50, además de tamaños y pesos de fuente, y cambia entre temas como Default y High Contrast. Language reúne las cadenas de texto de encabezados, barra lateral y pie de página, y Private Primitives oculta valores primitivos como zero, 1·2·4, 50vh, black·white y regular·bold."
+        },
+        {
+          "t": "p",
+          "x": "El autor escribe que esta estructura se ha perfeccionado a través de varios proyectos empresariales. Separar los primitivos de los tokens semánticos evita que los códigos hex se mezclen con los tokens de contexto. Los private primitives obligan a usar una escala matemática, lo que mantiene el espaciado uniforme en toda la interfaz. Tener una colección de idioma aparte hace más ligero el cambio de traducciones."
+        },
+        {
+          "t": "p",
+          "x": "El artículo insiste en que organizar no basta. Las variables de Figma deben mantenerse sincronizadas de forma continua con el código base para servir como única fuente de verdad, y los scripts de automatización junto con el servidor MCP local de Figma cubren esa brecha. En la carpeta themes del código, design-tokens.js se genera a partir de la colección Design Tokens, y global.js a partir de la colección Global Primitives."
+        }
+      ]
+    },
+    "design/design-blender-krita-bridge": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8oq_qyIMMQQ"
+        },
+        {
+          "t": "p",
+          "x": "MadCanvas lanzó PaintBridge, un plugin que conecta Blender y Krita. 80 Level lo presentó el 31 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "Captura la escena en Blender, pinta directamente en Krita y proyecta el resultado de nuevo sobre el modelo."
+        },
+        {
+          "t": "p",
+          "x": "Entre los dos programas se establece una conexión activa. Desde Krita se puede girar el viewport de Blender para fijar el ángulo, aplicar la pintura sobre el modelo y luego devolverla a la malla."
+        },
+        {
+          "t": "p",
+          "x": "Es como el Quick Edit de Blender, pero con mucho más control directo. También desaparece el ir y venir de exportar e importar archivos."
+        },
+        {
+          "t": "p",
+          "x": "También funciona con complementos basados en capas. Usado junto a herramientas como Ucupaint, amplía las opciones de texturizado."
+        },
+        {
+          "t": "p",
+          "x": "Todo el proceso es local. Krita y Blender deben estar abiertos a la vez en el mismo equipo. Requiere Blender 4.0 o superior y Krita 5.0 o superior."
+        },
+        {
+          "t": "p",
+          "x": "No faltan herramientas similares. 80 Level ya había cubierto TXTRCast, de Nanka Tsukurouyo. Pintar en Photoshop o CSP se refleja al instante en el modelo de Blender, y esa opción es totalmente gratuita."
+        },
+        {
+          "t": "p",
+          "x": "En el entorno Unity existe una herramienta similar hecha por StudioCats. También es gratuita."
+        },
+        {
+          "t": "p",
+          "x": "Para quienes combinan herramientas de código abierto, esto elimina un paso más."
+        }
+      ]
+    },
+    "design/design-css-random-polyfill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A finales de 2025, Safari se convirtió en el primer navegador en soportar la especificación CSS random(). Medio año después, ningún otro navegador la ha incorporado. Chrome y Firefox muestran señales de trabajo en curso, pero nadie sabe cuándo estará disponible, ni siquiera detrás de un flag."
+        },
+        {
+          "t": "p",
+          "x": "Por eso Lee Meyer construyó un polyfill. Con un único paquete, css-random-polyfill, random() funciona tanto en Chrome como en Firefox. Explicó el proceso en CSS-Tricks el 31 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "Usarlo es sencillo. Se carga el script y se añade la clase randomized al elemento objetivo. El valor aleatorio se guarda en una propiedad personalizada intermedia que empieza con --random y se recupera con var()."
+        },
+        {
+          "t": "p",
+          "x": "Una declaración como --random-star-size: random(1px, 7px, 1px) es CSS válido por sí misma. El tercer argumento es el intervalo de los valores. Escrito como random(element-shared, -45deg, 45deg), los elementos correspondientes comparten el mismo valor aleatorio."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de las demos usadas en las pruebas son forks de la demostración del propio equipo de Safari publicada en el blog de WebKit: un campo de estrellas dispersas al azar que se desvanecen de forma independiente, una pantalla con una cuadrícula de 100x100 pintada con colores aleatorios, una ruleta hecha por Tim Nguyen y tres cuadrados de Chris Coyier."
+        },
+        {
+          "t": "p",
+          "x": "En la demo de la ruleta, el mínimo, el máximo y el intervalo usan unidades distintas, como en random(2turn, 10turn, 20deg). La especificación solo exige que los valores se resuelvan al mismo tipo de dato, lo que permite mezclar turn y deg."
+        },
+        {
+          "t": "p",
+          "x": "El funcionamiento es así: si el navegador soporta random() de forma nativa, el polyfill no hace nada y se aparta. Si no lo soporta, oculta brevemente los elementos randomized para evitar parpadeos y recorre el estilo calculado buscando toda propiedad que empiece con --random."
+        },
+        {
+          "t": "p",
+          "x": "La clave es que la sintaxis de las propiedades personalizadas es extremadamente permisiva. Las expresiones que el parser de CSS no puede interpretar sobreviven como cadenas de texto que JavaScript puede leer y manipular. La sustitución var() se resuelve igual aunque el valor circundante parezca irreconocible."
+        },
+        {
+          "t": "p",
+          "x": "El cálculo del número aleatorio no lo escribió desde cero. Encontró @csstools/css-calc, una librería con licencia MIT que estaba dentro de un plugin de PostCSS. No tiene dependencias, no está atada a PostCSS, y los commits recientes ya la actualizaron a la última especificación de random()."
+        },
+        {
+          "t": "p",
+          "x": "Hubo un problema con valores que no se distribuían de forma uniforme. Sin una base especificada, las estrellas se agrupaban de forma extraña. El autor escribió que, cuando el usuario no da una base, lo resolvió insertando un valor aleatorio fijo."
+        },
+        {
+          "t": "p",
+          "x": "La cobertura es más estrecha que la implementación nativa. La especificación permite usar random() dentro de cualquier valor de propiedad, como calc(), pero el polyfill requiere una variable intermedia. A cambio, el código se mantiene compatible con la implementación nativa. Cuando el soporte sea universal, bastará con borrar una línea de script."
+        },
+        {
+          "t": "p",
+          "x": "También añadió un extra. Imita en Chromium la función random-item(), que todavía ningún navegador ha implementado. Funciona sacando un índice con random() y eligiendo un valor de una lista mediante la función personalizada de CSS --item y condicionales en línea."
+        }
+      ]
+    },
+    "design/design-quest3-240hz": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta envió una actualización al Quest 3 que elevó considerablemente el límite de la tasa de refresco: hasta 240Hz, o 207Hz a la resolución completa del visor. Todavía está por verse si ese margen se aprovecha de verdad."
+        },
+        {
+          "t": "p",
+          "x": "El usuario de X 'Luna' lo descubrió primero. Horizon OS 2.7 añadió las Extended Refresh Rates, que abren hasta 207Hz para usuarios normales y hasta 240Hz en modo desarrollador."
+        },
+        {
+          "t": "p",
+          "x": "Solo el Quest 3 está afectado. El Quest 3S y el Quest 2 no están incluidos. El Quest 3S usa un panel distinto y se queda en 120Hz."
+        },
+        {
+          "t": "p",
+          "x": "Los 240Hz tienen condiciones. Requieren modo desarrollador y escalado de pantalla, que primero reduce la resolución de la imagen enviada al panel y luego la amplía. A resolución completa, el límite es de 207Hz."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/quest-3-60-edited.jpg?resize=696%2C522&quality=89&ssl=1",
+          "cap": "Crédito de imagen: Meta"
+        },
+        {
+          "t": "p",
+          "x": "Un número más alto no significa que el contenido lo siga. La mayoría de las apps nativas no están hechas para apuntar a tasas de refresco tan altas. Los 120Hz han sido posibles desde que el Quest 2 recibió soporte experimental de tasa de refresco en abril de 2021, pero incluso ahora son pocas las apps que usan ese margen."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas que antes estiraban los fotogramas tampoco rinden por ahora. Application Spacewarp, que duplica los FPS con fotogramas sintetizados, no se acopla bien con el SoC del Quest 3 a tasas de refresco altas. Extrapolar por encima de 120 FPS ya es exigente, y 207 FPS lo es mucho más."
+        },
+        {
+          "t": "p",
+          "x": "El lado de PC VR ya se está moviendo. Guy Godin, desarrollador de Virtual Desktop, dijo en X que añadió soporte de 144 FPS a su app, usada para transmitir la pantalla de una computadora o ejecutar juegos de PC VR de gama alta de forma inalámbrica. Añadió que el decodificador de video se ve exigido por encima de 144 FPS, así que ir más alto parece poco probable."
+        },
+        {
+          "t": "p",
+          "x": "Scott Hayden, de Road to VR, interpreta esta actualización como una señal de que el hardware del Quest 3 siempre tuvo un margen inusualmente generoso. Escribió que también podría ser simplemente el gesto habitual de las empresas que buscan liquidar inventario cerca del final de la vida de un producto."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, no cree que el Quest 3 esté acabado. El Steam Frame de Valve está a punto de anunciar precio y fecha de lanzamiento. Al ser un visor que maneja streaming inalámbrico de PC VR además de descargar y ejecutar juegos VR y planos directamente desde Steam, ya se le compara con el Quest 3."
+        },
+        {
+          "t": "p",
+          "x": "Su suposición es la siguiente: Meta no había liberado la tasa de refresco hasta ahora porque se concentraba en el contenido nativo de Quest, la mayor parte del cual ni siquiera usa 120Hz. Con el Steam Frame acercándose, quiere mostrar hasta dónde puede llegar un visor de 600 dólares."
+        },
+        {
+          "t": "p",
+          "x": "El Steam Frame probablemente costará bastante más de 1.000 dólares, y hasta sus 144Hz solo funcionan en un modo experimental. Hacer que la gente compare los dos dispositivos lado a lado ya es, de por sí, una ventaja para Meta."
+        }
+      ]
+    },
+    "design/design-runway-solaris": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "c2yCePPnrSA"
+        },
+        {
+          "t": "p",
+          "x": "Runway presentó Solaris el 31 de agosto. Es el primer modelo de una nueva línea a la que llama Interface World Model."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida es una sola pregunta: ¿qué pasaría si el sistema operativo generara las apps y sitios web sobre la marcha, mientras se usan?"
+        },
+        {
+          "t": "p",
+          "x": "Desde las terminales más antiguas hasta Linux y macOS, los sistemas operativos han decidido qué se dibuja en pantalla. Las apps se apoyan sobre esa capa y permanecen fijas hasta que alguien envía una actualización. Solaris dibuja esa capa directamente, componiendo cada fotograma en el instante en que el usuario lo toca."
+        },
+        {
+          "t": "p",
+          "x": "El cuello de botella que señala Runway es la representación intermedia. Incluso un diseño pulido al píxel tiene que traducirse a código antes de cobrar vida. Durante esa traducción, solo sobrevive el comportamiento predefinido, y la densidad visual también se reduce."
+        },
+        {
+          "t": "p",
+          "x": "Solaris maneja el renderizado y la interacción en un solo modelo. Al no haber paso de conversión, no hay pérdida, y el fotograma completo se convierte en la interfaz."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/solaris-eval-reconstruction-strip-1.webp",
+          "cap": "Resultado de reconstruir una página web a partir de una sola captura de pantalla. El original está a la izquierda; las reconstrucciones de GPT-4o, Gemini 2.5 Pro y Fable 5 están a la derecha."
+        },
+        {
+          "t": "p",
+          "x": "La pérdida por traducción se midió numéricamente. Se entregó a modelos de lenguaje multimodal una sola captura de pantalla de cada una de 30 interfaces para reconstruirlas, y la preservación de información se midió con similitud estructural (SSIM) y comparación de características DINOv3. Todos los modelos, incluido Claude Fable 5, perdieron información, y la calidad cayó de forma consistente a medida que subía la complejidad visual."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/08/image-25-d4f3e428-eecc-4752-b5cd-30b7898ace03.png",
+          "cap": "Resultados de comparaciones por pares calificadas por 250 usuarios."
+        },
+        {
+          "t": "p",
+          "x": "También se enfrentó directamente a interfaces hechas con código. Partiendo de la misma imagen y pidiendo la misma manipulación, su resultado se colocó junto al de Claude Opus 5. 250 participantes emitieron unos 7.500 juicios sobre 30 ejemplos. El cumplimiento de instrucciones se dividió 61% frente a 24%, y al preguntar si el movimiento se sentía natural dentro de la escena, la diferencia fue 71% frente a 21%."
+        },
+        {
+          "t": "p",
+          "x": "La arquitectura es una versión modificada del modelo de generación de video Gen-4.5. Los clics y arrastres se aceptan como condicionamiento para el siguiente fotograma, igual que el texto o las imágenes; la generación de fotogramas se cambió a un modo secuencial, y la etapa de eliminación de ruido se destiló a unos pocos pasos. Un modelo de lenguaje decide cómo debe cambiar la escena, y el modelo de mundo se encarga de dibujarla."
+        },
+        {
+          "t": "p",
+          "x": "Los retos que quedan se expusieron con franqueza. Lo más difícil es el texto. Mantener caracteres legibles en tiempo real sigue siendo un problema abierto, y mantener la coherencia de la escena en sesiones largas, así como encajar con tecnologías de accesibilidad como los lectores de pantalla, también están en estudio."
+        },
+        {
+          "t": "p",
+          "x": "Solaris todavía está en fase de solicitudes de acceso anticipado. Runway dijo que está preparando un lanzamiento público junto con socios clave."
+        }
+      ]
+    },
+    "design/design-vercel-design-md": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel publicó design.md. Es un archivo alojado en una sola URL; sin importar en qué herramienta se ejecute, basta con que el agente lo lea para producir una página que parece de Vercel. El ingeniero de diseño John Phamous explicó el proceso el 31 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida fue una habilidad interna llamada product-design. Dentro del repositorio, permite que el agente encuentre y lea el sistema de diseño y las guías de producto. El problema está fuera. Los informes, propuestas y páginas puntuales se crean con herramientas que no pueden leer ese archivo."
+        },
+        {
+          "t": "p",
+          "x": "Al principio intentaron trasladar product-design directamente a un prompt público. Las frases que describían el lenguaje visual se mantenían intactas, pero la interpretación variaba según el modelo, y las mismas instrucciones producían páginas completamente distintas."
+        },
+        {
+          "t": "p",
+          "x": "Había dos razones. Frases como “que el diseño se vea limpio” prácticamente no significan nada. El problema mayor era el contexto perdido. Dentro del repositorio, componentes reales y ejemplos desplegados rodean la habilidad, pero en un prompt público solo quedan palabras."
+        },
+        {
+          "t": "p",
+          "x": "Así que abandonaron el traslado y reescribieron todo desde cero, chocando cada vez con un conjunto fijo de prompts de evaluación. Siete, extraídos del trabajo real: un informe de uso y rendimiento, una propuesta de renovación, un informe de benchmark, una página interactiva de planificación, un informe de construir versus comprar y una presentación."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4kNmeRfQq0MgbJMdN7XCIQ/4092a7652549d41c938436b48f182423/Frame_1400003192__2_.png",
+          "cap": "Mismo prompt, datos, modelo y viewport, con design.md excluido en un lado e incluido en el otro."
+        },
+        {
+          "t": "p",
+          "x": "El primer experimento fue la propuesta de renovación. Ejecutado sin design.md, produjo un panel de SaaS genérico. La versión que recibió el archivo puso la recomendación de renovación al frente y reunió el argumento comercial en una sola cuadrícula. No solo cambió el estilo; también la estructura y la jerarquía."
+        },
+        {
+          "t": "p",
+          "x": "El sistema terminado tiene tres capas: design.md, que contiene los criterios; una hoja de estilos pública que define clases y tokens; y un ciclo de evaluación que convierte el feedback en reglas y comprobaciones automáticas."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5ddvYwvA6TmgyMRnBnTk82/1319c6b7f77f1f6c04efd6d8366cc7b0/Frame_1400003199.png",
+          "cap": "Un fragmento de design.md. Nombrar un patrón recurrente de 'generado por IA' ayuda a evitarlo."
+        },
+        {
+          "t": "p",
+          "x": "La hoja de estilos se mantuvo separada porque el agente seguía inventando su propia tipografía y espaciado. Los estilos de encabezado, tabla, barra de estadísticas y gráficos se agruparon en CSS, publicados en una URL pública, y en design.md solo quedaron los nombres de las clases."
+        },
+        {
+          "t": "p",
+          "x": "Una ronda consiste en regenerar los siete escenarios desde cero con el archivo actual, ejecutados tanto en Claude Opus 4.8 como en Codex with GPT-5.5. Las observaciones de los revisores se bajaron a la capa donde pudieran aplicarse de forma más estrecha: los criterios como prosa, la mecánica como hoja de estilos, y lo que una máquina pudiera verificar como comprobación de código."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3mNy5CuYb5RzJo50MID1eo/95404ecb3be7a04eba93c2edeb155a99/Frame_1400003195__2_.png",
+          "cap": "Un caso en el que una tabla no aprovechaba el ancho restante. Comparación antes y después de fijar una regla y una comprobación."
+        },
+        {
+          "t": "p",
+          "x": "Hacer el archivo llevó más de 200 generaciones. Al final, se generaron tres escenarios de escritorio con Codex with GPT-5.5, con el archivo y sin él. Al correr comprobaciones automáticas sobre las seis páginas, los fallos conocidos fueron 39 frente a 91, un 57% menos."
+        },
+        {
+          "t": "p",
+          "x": "Vercel también añadió matices. Las comprobaciones solo detectan fallos que ya se han visto antes, seis páginas son una muestra demasiado pequeña para hablar de calidad, y con o sin el archivo, todas las páginas conservaban defectos que impedirían un lanzamiento. Aun así, los fallos que se nombraron y se fijaron como reglas tendían a no reaparecer."
+        },
+        {
+          "t": "p",
+          "x": "Mantener el archivo actualizado depende del uso real. Llamar a @design-agent en Slack genera una página con el design.md vigente y devuelve una captura de pantalla y una URL de despliegue. Cada semana se extraen las quejas recurrentes del feedback acumulado, y las personas deciden qué corregir."
+        }
+      ]
     }
   }
 }

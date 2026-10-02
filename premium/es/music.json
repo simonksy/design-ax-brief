@@ -3282,6 +3282,204 @@
           "x": "Daniel Drolet, CEO de Music IP Holdings y Liquidax, vinculó la protección de los artistas con la innovación. “Esta cartera está diseñada para lograr ambas cosas: abrir nuevas oportunidades para la innovación responsable, al mismo tiempo que ofrece a artistas, compositores y titulares de derechos una protección más sólida y el derecho a compartir el valor que genera su obra”."
         }
       ]
+    },
+    "music/music-human-first-certification": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cynthia Ju señaló un punto clave en un artículo anterior para Hypebot, “'Humano primero' es una promesa que todavía nadie puede verificar”. Según ella, afirmar que una grabación es “humano primero” sin ningún mecanismo que lo respalde es solo una frase vacía que cualquiera puede decir. Como escribe Ju: “La afirmación es visible; lo que la hace creíble es la aplicación.”"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-26-musical-form.jpg",
+          "cap": "Hypebot"
+        },
+        {
+          "t": "p",
+          "x": "Ju repasa la historia del software de código abierto y explica que tuvo sentido porque su definición se gestionaba fuera de las empresas que se beneficiaban de ella. Pero la solución que propone es simplemente añadir una casilla más al formulario de subida de distribuidoras como DistroKid, CD Baby y TuneCore. La lógica es que la autodeclaración pasa a formar parte del contrato entre el artista y la distribuidora, lo que le da peso legal, mientras que la capa de aplicación funciona con un “costo marginal casi cero”."
+        },
+        {
+          "t": "p",
+          "x": "Aquí choca con la realidad. ¿Qué pasa si una distribuidora le dice a un cliente que su afirmación de haber hecho la grabación de forma humana es falsa, retira la música de las plataformas de streaming y le corta el acceso al servicio? Justo ahí, el costo marginal cero se convierte en investigaciones, exigencias de pruebas, criterios públicos, procesos de apelación y litigios costosos. Sin consenso de la industria ni regulación federal, un artista rechazado simplemente puede pasarse a otra distribuidora."
+        },
+        {
+          "t": "video",
+          "yt": "SOlIA0T66cg"
+        },
+        {
+          "t": "p",
+          "x": "Tampoco está claro qué se verifica antes de aplicar la norma. ¿Todo fue hecho por humanos, solo una parte, o es una mezcla de humano y máquina? ¿Un plugin de mastering que se vende desde hace más de una década convierte la grabación en obra de IA solo porque ahora se promociona como IA? ¿Y dónde quedan las herramientas que sustituyen el tiempo y la entonación del intérprete por valores “perfectos” decididos por la máquina?"
+        },
+        {
+          "t": "p",
+          "x": "El autor, Jeffrey Anthony, fundó el Musical Form Institute y ha trabajado en este problema. Su Certificate of Embodied Production (CEP) no es ni una etiqueta voluntaria ni una casilla. Es un sello de certificación en proceso de registro ante la Oficina de Patentes y Marcas de Estados Unidos con el número de serie 99559776, que certifica que una grabación se hizo sin corrección de cuantización, corrección de tono ni IA generativa. Esto no significa que la oficina certifique grabaciones individuales ni que apruebe los criterios del CEP."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/certificate-beige-1.png",
+          "cap": "Certificate of Embodied Production"
+        },
+        {
+          "t": "p",
+          "x": "Pertenece a la misma categoría que la certificación orgánica, el comercio justo o LEED. Un organismo certificador publica sus criterios, evalúa a los solicitantes según esos criterios, administra quién puede usar el sello y mantiene procesos de aplicación, suspensión y revocación. El CEP cuenta con lo mismo: criterios públicos, un proceso de revisión de pruebas, controles de conflicto de interés, un registro público, un historial de auditoría permanente y procesos de apelación, suspensión y revocación. Cada grabación la revisa directamente un analista humano capacitado."
+        },
+        {
+          "t": "p",
+          "x": "El CEP no es una etiqueta estricta de “prohibido la IA” ni defiende un purismo analógico. Permite procesos auxiliares como el mastering o plugins de ayuda para EQ, porque la tecnología por sí sola no indica dónde reside la autoridad sobre la forma musical. Los tres procesos se agrupan por una sola razón: los tres le quitan al intérprete la autoridad sobre la forma final."
+        },
+        {
+          "t": "p",
+          "x": "Las distribuidoras pueden registrar el estado de certificación en los metadatos y actuar si el sello se usa de forma fraudulenta. Pero la definición, revisión y resolución de esa afirmación debe quedar fuera de cualquier empresa que gane dinero con cada subida. Una casilla solo tiene sentido cuando señala un proceso de certificación real más allá de sí misma."
+        }
+      ]
+    },
+    "music/music-platform-ai-policies": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Con la música hecha con IA inundando el mercado, cómo deben tratar los servicios de streaming estas canciones se ha convertido en la pregunta más urgente de la industria musical. Las opiniones se dividen entre excluirlas del reparto de regalías, retirarlas por completo o simplemente etiquetarlas. Billboard ha elaborado una lista que actualiza continuamente con las políticas que cada plataforma declara por sí misma."
+        },
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2024/09/phone-music-ai-2024-billboard-1548.jpg?w=1024",
+          "cap": "Foto: Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La escala ya es considerable. Deezer dijo en junio de 2026 que las subidas diarias de pistas con IA superaron el 50% “en los momentos pico”. Apple Music le dijo a Billboard en abril que “más de un tercio” de sus subidas mensuales eran 100% generadas por IA. Qobuz también afirmó en enero que el 34% de las subidas nuevas eran de IA. Las canciones que usan IA solo parcialmente son mucho más difíciles de detectar, así que estas cifras podrían estar por debajo de la realidad."
+        },
+        {
+          "t": "p",
+          "x": "En abril de 2026, Spotify abrió una forma de que los creadores declaren directamente en los créditos dónde se usó la IA, ya sea un solo riff de guitarra o toda la producción. También lanzó una insignia de verificación para creadores humanos y una función de protección de perfil de artista que bloquea subidas ajenas en las páginas de artista. En agosto anunció una etiqueta de “persona de IA” para artistas generados por IA, vigente desde mediados de septiembre; la música con esa etiqueta queda excluida de las recomendaciones personalizadas."
+        },
+        {
+          "t": "p",
+          "x": "Apple Music aplicará su etiqueta “Made With AI”, anunciada en agosto, antes de que termine 2026. El sistema depende de que los sellos y distribuidoras etiqueten los temas como “generados sustancialmente por IA”, así que se basa en la declaración y no en la detección automática. YouTube también exige declarar el contenido de IA generativa al subirlo y le pone una etiqueta. Fuera de eso, todavía no hay políticas dirigidas específicamente a la música."
+        },
+        {
+          "t": "p",
+          "x": "La postura más dura es la de Tidal. Desde junio excluye el contenido generado por IA de las regalías y traslada a las distribuidoras la responsabilidad de identificarlo antes de la subida; desde mediados de julio también empezó a etiquetarlo. Deezer usa un detector de IA para etiquetar y excluir temas de las recomendaciones, y desde julio elimina pistas de IA sospechosas de usarse para fraude de streaming o que no se han reproducido en más de seis meses. En enero, Bandcamp prohibió por completo los temas cuyo proceso de creación usó IA en su totalidad o de forma “sustancial”."
+        },
+        {
+          "t": "p",
+          "x": "SoundCloud bloquea el contenido de IA que suplanta a artistas humanos o clona sus voces. Amazon Music solo tiene herramientas contra la suplantación y el spam, sin una política específica para la IA todavía. Qobuz adoptó en enero una postura de “humanos primero” y afirmó que sus listas de reproducción, artículos y reseñas son 100% hechos por personas."
+        }
+      ]
+    },
+    "music/music-round-hill-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Round Hill Music ha presentado demandas por infracción de derechos de autor contra Suno y Anthropic en Estados Unidos, la última compañía de derechos musicales en sumarse a las que apuntan contra empresas de IA. La demanda contra Suno también nombra como demandada a la empresa israelí Bright Data, alegando que Suno usó las herramientas de Bright Data para extraer ilegalmente millones de canciones de plataformas digitales como YouTube con el fin de construir sus datos de entrenamiento."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/08/suno-anthropic-roundhill.png",
+          "cap": "Complete Music Update"
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo de Round Hill, Josh Gruss, dijo: “No estamos en contra de la inteligencia artificial”, pero añadió: “Estamos en contra de la idea de construir negocios multimillonarios sobre la obra creativa de otros sin pagarles nada a los creadores”. Sobre la obligación de obtener licencias, dijo que no es “un obstáculo para la innovación”, sino que existe solo “para proteger a los propietarios legales de la materia prima”. Añadió que, al ser una compañía musical independiente, Round Hill tiene tanto la libertad como el deber de decirlo con claridad y actuar en consecuencia."
+        },
+        {
+          "t": "p",
+          "x": "Round Hill se describe a sí misma como “una plataforma pionera de capital privado que gestiona un portafolio de derechos musicales de 1100 millones de dólares”. Administra fondos de inversión que son titulares de esos derechos, mientras también gestiona la música como sello y editora, convirtiéndola en ingresos."
+        },
+        {
+          "t": "p",
+          "x": "Ambas empresas ya enfrentan otras demandas, así que los argumentos legales resultan familiares. Suno ha firmado acuerdos de licencia con Warner Music y BMG, pero sigue disputando demandas de Universal Music, Sony Music y músicos independientes. Anthropic llegó a un acuerdo con autores de libros por 1500 millones de dólares, y editoras musicales también la han demandado, alegando que copió letras de canciones en masa mientras construía los datos de entrenamiento de Claude."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo de ambos casos es el mismo: que las dos empresas copiaron, sin licencia, grabaciones y canciones que Round Hill posee y gestiona, para entrenar sus respectivos modelos. Como otras empresas de IA, Suno y Anthropic sostienen que el entrenamiento de IA es uso justo bajo la ley de derechos de autor de Estados Unidos, por lo que no requiere permiso ni licencia de creadores y titulares de derechos."
+        },
+        {
+          "t": "p",
+          "x": "Algunos fallos iniciales, incluido el del caso de los autores contra Anthropic, consideraron que el entrenamiento de IA podía ser uso justo. Round Hill sostiene que esa defensa no se sostiene en este caso. Una de las razones es la “retención indefinida de copias no autorizadas” por parte de ambas empresas. Argumenta que “acumular y mantener permanentemente un cúmulo de obras protegidas por derechos de autor sin decidir cómo se usarán en el futuro no supera ninguno de los factores del análisis de uso justo”, porque “el propósito es la adquisición, no la transformación”."
+        },
+        {
+          "t": "p",
+          "x": "Las demandas están a cargo del abogado de la industria musical Richard Busch. Dijo: “La pregunta en estos casos no es complicada”, y señaló que “las obras protegidas por derechos de autor se usaron para construir negocios multimillonarios —en el caso de Anthropic, una empresa valorada en más de un billón de dólares— mientras que los compositores y editoras que crearon la base de ese valor no recibieron nada”. Añadió que “no hay nada justo en ese uso” y que presentará ese argumento ante el tribunal y el jurado."
+        }
+      ]
+    },
+    "music/music-stemdeck": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La separación de stems ha pasado, en solo unos años, de ser una tecnología en manos de unas pocas empresas a una función que cualquiera puede usar. StemDeck refleja justamente ese cambio: es una aplicación gratuita y de código abierto para separar stems que funciona en Linux, Mac y Windows."
+        },
+        {
+          "t": "img",
+          "src": "https://www.synthtopia.com/wp-content/uploads/2026/08/stemdeck.png",
+          "cap": "StemDeck"
+        },
+        {
+          "t": "p",
+          "x": "Es una plataforma de extracción de stems creada para separar voz, batería, bajo, piano y guitarra. Está pensada para la práctica, la transcripción, el remix y otros trabajos de audio."
+        },
+        {
+          "t": "p",
+          "x": "Si arrastras un archivo MP3, WAV, FLAC, OGG/Opus, MP4 o M4A, o pegas un enlace de YouTube, lo divide en hasta seis partes: voz, batería, bajo, guitarra, piano y el resto del sonido."
+        },
+        {
+          "t": "p",
+          "x": "Tras la separación, puedes escuchar de inmediato en un mezclador multipista parecido a un DAW. Puedes silenciar y aislar pistas, ajustar niveles, ampliar la forma de onda, repetir secciones en bucle y exportar los stems por separado o en la mezcla que quieras. Todo el procesamiento ocurre por completo en tu propio ordenador."
+        },
+        {
+          "t": "p",
+          "x": "Se presenta como una alternativa gratuita a servicios de separación de stems en la nube como Moises o LALAL.AI. No hay cuenta, ni cuota, ni subida, ni suscripción. No guarda, ni almacena en caché, ni redistribuye el contenido descargado, y ningún archivo sale nunca del dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador trazó una línea clara: “Si necesitas stems para estudiar por tu cuenta y quieres algo gratuito y local, StemDeck es suficiente. Si necesitas un acabado más pulido, una aplicación móvil o herramientas más avanzadas para intérpretes, un producto comercial es mejor opción.”"
+        },
+        {
+          "t": "p",
+          "x": "Se descarga desde GitHub y no tiene ningún costo."
+        }
+      ]
+    },
+    "music/music-suno-friction": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno está añadiendo deliberadamente fricción a la sobreproducción de IA que ella misma generó. Según Variety, ha impuesto un límite de descargas, poniendo un cerco a la cantidad de música que los usuarios pueden extraer."
+        },
+        {
+          "t": "img",
+          "src": "https://www.midiaresearch.com/storage/uploads/blog/featured/2651/cover_image-1787236880.jpg",
+          "cap": "Imagen: hecha con Canva Pro"
+        },
+        {
+          "t": "p",
+          "x": "Los servicios de streaming han retirado millones de pistas sospechosas de ser spam. TechRepublic informa que Spotify está introduciendo una etiqueta de “persona de IA”. Según Music Business Worldwide, Suno también ha firmado un acuerdo de licencia con BMG. La mirada que veía a la IA como un toro en una tienda de porcelana está dando paso a otra: algo que la industria musical abraza, gestiona y convierte en ingresos."
+        },
+        {
+          "t": "p",
+          "x": "Lo que queda como tarea pendiente es, entonces, la cultura. La respuesta no está en usar la IA para producir en masa más creadores. MIDiA sostiene que la industria musical debe redefinirse, no como un negocio de música, sino como un negocio basado en la cultura. En lugar de producir música y derechos, la estructura que genera cultura a través de los artistas es el activo que perdura en la era de la IA."
+        },
+        {
+          "t": "p",
+          "x": "La capacidad funcional de la IA ya no está en discusión. Hacer una grabación ha pasado de ser una tarea que exigía destreza experta a resolverse con una sola línea de instrucción. En la mayoría de las industrias, la función es el rey, y el valor se fija según la eficiencia y la capacidad de principio a fin. La música es distinta. No es una industria funcional que extrae materia prima, sino una industria cultural que transporta significado e identidad. Cuanto mejor cubre la IA las exigencias funcionales de la música, menor es la fuerza de esa función para distinguir a la música como activo cultural."
+        },
+        {
+          "t": "p",
+          "x": "Durante mucho tiempo, las grabaciones fueron un objeto cultural escaso. El director ejecutivo de Warner Music, Robert Kyncl, dijo que la música es “lo más abundante del universo, aparte del oxígeno” (Semafor). Pero con la inundación de grabaciones, la música perdió el activo cultural que antes solo ella poseía. Al resolver el problema funcional de la producción, se creó un problema cultural. El valor cultural no desapareció, solo se trasladó. El poder se traslada a donde ya existe confianza: hacia los artistas que avanzan apoyados en su actuación, su trayectoria y su personalidad."
+        },
+        {
+          "t": "p",
+          "x": "Ahora la música compite en la misma pista que todo el entretenimiento. Deportistas, podcasters, influencers y celebridades están en la misma economía de la atención que los artistas. Producir y lanzar una sola grabación ya no genera logro, ni una audiencia consolidada, ni autoridad cultural."
+        },
+        {
+          "t": "p",
+          "x": "El poder de hacer crecer la cultura no viene de la tecnología, sino de la infraestructura social. MIDiA señala a Estocolmo como modelo. Décadas de inversión en educación musical, estudios de apoyo, salas de conciertos e instituciones públicas permitieron que la escena creciera y que su talento rindiera por encima de su peso en el escenario mundial. Estocolmo aplica ahora este modelo a su distrito de Meatpacking, usando la música como “un motor de regeneración urbana” (Fast Company)."
+        },
+        {
+          "t": "p",
+          "x": "La IA ha convertido la producción musical en algo común. A cambio, crear cultura podría convertirse en la habilidad más valiosa de la industria musical."
+        }
+      ]
     }
   }
 }

@@ -3757,6 +3757,286 @@
           "x": "Whoop's plans come in several tiers. The cheapest is $199 a year. You can get a discount by trading in another company's wearable, or offset the cost with FSA or HSA funds. Even so, staying on long enough means spending more than you would on a competitor's product — though that may not matter much to someone who'd buy the Meridian band in the first place."
         }
       ]
+    },
+    "gadgets/gadgets-gemini-nano-4": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "After the Pixel 11 series launched, Google updated its Gemini Nano 4 developer documentation."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-intelligence-3.jpg?quality=82&strip=all&w=1600",
+          "cap": "Gemini Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "'Nano v4' devices first appeared from Google and Samsung in the past few weeks. On Google's side that's the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold; on Samsung's side, the Galaxy Z Flip8, Galaxy Z Fold8, and Galaxy Z Fold8 Ultra."
+        },
+        {
+          "t": "p",
+          "x": "This list, updated yesterday, targets app developers, but there was movement on the consumer-facing Gemini Intelligence side too."
+        },
+        {
+          "t": "p",
+          "x": "Google revised the requirements list on android.com, restoring the phrase 'Nano v3 or higher.' This line first appeared right after The Android Show: I/O Edition in May, then was quickly removed."
+        },
+        {
+          "t": "p",
+          "x": "The document states: \"Gemini Intelligence features are available only on Android devices meeting the most advanced performance and specification requirements.\" The conditions listed alongside it include on-device AI integrating AI Core and Nano v3 or higher, 12GB or more of RAM, a qualifying flagship chip, 5 OS upgrades, and quarterly security updates for 6 years."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Intelligence officially launched on Samsung's latest foldable last month and now supports task automation in more than 40 apps. The Pixel 11 series marks the first appearance of Rambler and Proactive Assistance (formerly Magic Cue)."
+        },
+        {
+          "t": "p",
+          "x": "It's still unclear whether the Pixel 10 or the Galaxy S26 series will officially get Gemini Intelligence. Create My Widget is also still pending. Google has said it is rolling out new features in multiple waves."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-11": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google's Pixel 11 launched at $899. That's $100 more than its predecessor, but base storage has doubled. After weeks of use, an Android Central reviewer summed up this generation as the point where AI meets social media."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/b5BJxHtKg6ZNPEksyUxVB9-2000-80.jpg",
+          "cap": "Google Pixel 11. Priced from $899."
+        },
+        {
+          "t": "p",
+          "x": "At 8.6mm thick, it's even chunkier than the Galaxy S26 Ultra. But the camera bump is smaller, so it sits flatter on a desk. Wired charging stays at 30W, but wireless has sped up to 25W, and turning on the hidden Extreme Charging option filled it from 0% to 50% in 30 minutes."
+        },
+        {
+          "t": "p",
+          "x": "A new feature, Magic Capture, sits to the left of Photo mode in the camera app. Press the shutter and a video rolls while AI picks out a good moment in the background and saves it as a photo. The reviewer said it pulled a usable shot even at a poorly lit party."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/68Z5QZy5PFG75siWxMZoK9-1200-80.jpg",
+          "cap": "The Pixel 11's Pause Point. It makes you stop once before opening an app."
+        },
+        {
+          "t": "p",
+          "x": "On the other side is Pause Point, a digital wellbeing feature that makes you take a breath, set a timer, or write down how you feel before opening a distracting app. The reviewer set it on Instagram and said the extra step was annoying enough that they stopped opening the app at all."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cUusrnXEDKEMoWkkXMF2H9-1200-80.jpg",
+          "cap": "Inside Google Messages, Gemini surfaces the schedule first."
+        },
+        {
+          "t": "p",
+          "x": "Gemini is everywhere too. The Daily Brief scans the calendar and Gmail to lay out the morning schedule, and when a friend texted asking if they were free this weekend, Gemini prompted them to check the calendar first. The key point is that it all happens without ever leaving Google Messages."
+        },
+        {
+          "t": "p",
+          "x": "Running all this is the Tensor G6, built with AI performance in mind. But without the Pixel 11 Pro's vapor chamber, it gets fairly hot during long gaming sessions. The camera setup is unchanged from the previous model, and colors come out a bit warmer than on the Pixel 10."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/6SX98axy3ExPYKkkgqYb7S-1200-80.jpg",
+          "cap": "A low-light indoor sample shot on the Pixel 11."
+        },
+        {
+          "t": "p",
+          "x": "Pro-exclusive features like HiLight and Pro camera controls are missing. Still, it has the same 12GB of RAM as the Pro and most of the AI features, so the conclusion is that the Pixel 11 is worth buying if you don't specifically need the Pro."
+        }
+      ]
+    },
+    "gadgets/gadgets-roborock-qrevo-2-pro": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Robot vacuums do the cleaning for you, but they don't let you fully let go. Hair wraps around the brush, mops need washing, and in a home that mixes hardwood and carpet, a wet mop can end up somewhere it shouldn't. Roborock's new Qrevo 2 Pro set out to cut down on that leftover fuss."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Roborock-Qrevo-2-Pro-with-the-robot-vacuum-cleaning-floors.jpg",
+          "cap": "The Roborock Qrevo 2 Pro cleaning a floor."
+        },
+        {
+          "t": "p",
+          "x": "The starting point is suction power. At 25,000Pa, it easily handles crumbs under the dining table, dust under the sofa, pet hair on the floor, and dirt embedded in carpet."
+        },
+        {
+          "t": "p",
+          "x": "The tangling problem falls to the dual anti-tangle system. The main brush and side brush steer hair toward the suction inlet instead of letting it wrap around the roller. Roborock said its own testing showed a 0% tangle rate and 100% hair removal rate, though that would need independent verification."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Roborock-Qrevo-2-Pro-dock-station-besides-a-kid-and-a-cat.jpg",
+          "cap": "The self-cleaning dock. It leaves the mops here before heading to carpet."
+        },
+        {
+          "t": "p",
+          "x": "Moving onto carpet doesn't require hands either. Unlike products that only lift the mops, the Qrevo 2 Pro returns to the dock, detaches the mops entirely, and comes back out. On carpet, Carpet Boost+ raises suction, and turning on Deep Carpet Cleaning makes it cross the same spot once more in a crisscross pattern."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Roborock-Qrevo-2-Pro-in-the-living-room.jpg",
+          "cap": "The Qrevo 2 Pro making its way around the living room."
+        },
+        {
+          "t": "p",
+          "x": "The rest wraps up at the dock. It washes the mops with 75-degree water, dries them with 45-degree warm air to prevent odor, and refills its own water tank. Roborock says the dust bin doesn't need emptying for up to 65 days."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Roborock-Qrevo-2-Pro-besides-a-dog-kid-and-parents-in-the-kitchen.jpg",
+          "cap": "In the kitchen. It erases, one by one, the chores that would otherwise need a human hand."
+        },
+        {
+          "t": "p",
+          "x": "The Qrevo 2 Pro goes on sale in the U.S. today, carrying a promotional price of $550, down from its $799 list price. The feature list is packed, but what matters most in the end is how long you can leave it alone."
+        }
+      ]
+    },
+    "gadgets/gadgets-anthropic-hardware-standard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Agentic AI has flooded the field over the past year, but the world that automated AI touches has mostly stayed inside the computer. It was all data and actions that ended on a screen, like text, images, and code. Anthropic is pushing that boundary outward. The driver specification the company calls the Model Hardware Standard (MHS) aims to let AI agents pick up and control almost any device."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsgraph-1440x951.png",
+          "cap": "Anthropic's diagram showing MHS acting as a translation layer between AI agents and many kinds of devices. Image courtesy of Anthropic"
+        },
+        {
+          "t": "p",
+          "x": "What's out now is a research preview. Anthropic pitches MHS as cutting the work scientists used to face writing custom software every time they had to get lab equipment talking to each other. When devices share a common interface and common data format, they communicate over the network “without a separate translation program wedged in between.” The company writes that experiment setups that used to take weeks to months now shrink to “hours, minutes.”"
+        },
+        {
+          "t": "p",
+          "x": "In the video posted with the announcement, Anthropic technical staff member Alec Kemeny says the idea for MHS came from watching neuroscientist Arco Bast run memory-formation experiments on the brain at the HHMI Janelia Research Campus in Ashburn, Virginia. Bast had tied together all sorts of parts — a rotating laser beam, a microscope, a camera — into one shared interface. “With this approach, AI could run any science experiment in the world.” That's the thought Kemeny had at the time."
+        },
+        {
+          "t": "p",
+          "x": "A shared machine interface language doesn't necessarily require an AI model. Anthropic also says MHS devices can be controlled in real time through command-line prompts and API code files. But attaching an AI model via the Model Context Protocol lets scientists operate equipment in natural language, and the model “reasons through each step of the experiment, changes parameters in real time, and in some cases recovers from hardware errors without human intervention,” the company explains."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic gives this example: a model like Claude adjusts a laser, checks the result with a separate camera, and repeats the process to auto-calibrate the whole system. It can also focus a microscope, analyze the results to decide where to look next, then move to that region and continue the experiment. In the video, Claude reasoned out on its own how to move a robot arm to pick up an aluminum can it had never been trained on. Instead of reasoning through every step each time, it can also write API scripts to sequence devices and adjust them as conditions change."
+        },
+        {
+          "t": "video",
+          "yt": "P1zBiAQU1IA"
+        },
+        {
+          "t": "p",
+          "x": "MHS also includes a standard tagging system that records the real-world constraints of hardware. For models trained mostly in virtual environments, it encodes physical traits like a robot arm's weight and range of motion, adjustable parameters, measurement options, and enforced safety limits. Bundling these tags into a reference file lets a model get the key information right away, even for a device it has never encountered before."
+        },
+        {
+          "t": "p",
+          "x": "MHS also includes a standard tagging system that records the real-world constraints of hardware. For models trained mostly in virtual environments, it encodes physical traits like a robot arm's weight and range of motion, adjustable parameters, measurement options, and enforced safety limits. Bundling these tags into a reference file lets a model get the key information right away, even for a device it has never encountered before."
+        },
+        {
+          "t": "p",
+          "x": "The preview includes “a first group of science labs and advanced manufacturers.” Amazon Web Services (Strands Robots), Hugging Face (LeRobot), Raspberry Pi, Automata, and Universal Robots are on the list. Together they will build “safety evaluations and best practices for AI systems that handle physical equipment.” The next step is to expand MHS into an open-source, “agent-neutral” standard."
+        }
+      ]
+    },
+    "gadgets/gadgets-ios27-siri-app": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siri launched in 2011, and spent most of that time trailing the assistants from Google, OpenAI, and Anthropic. iOS 27 is Apple's attempt to close that gap. It rebuilds the assistant with new AI features and, for the first time, attaches a standalone app that works like a conversational chatbot."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-to-use-the-new-siri-app-in-ios-27/intro-1787327971.jpg",
+          "cap": "The new Siri app in iOS 27."
+        },
+        {
+          "t": "p",
+          "x": "There's a catch, though. Even after updating to iOS 27, you need an iPhone 15 Pro or later to reach Apple Intelligence and the new Siri. Earlier models, including the base iPhone 15, remain stuck with the old, sluggish Siri. The language is still English only, and users in the EU and China are blocked by local regulations, with no setting to work around it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-to-use-the-new-siri-app-in-ios-27/setting-up-siri-ai-on-ios-27-1787327972.jpg",
+          "cap": "The screen for turning on the new Siri in Settings."
+        },
+        {
+          "t": "p",
+          "x": "Turning it on is simple. If you skipped the prompt right after the update, go to Settings > Siri, tap Turn On Siri, and choose the new Siri. It sometimes opens right away, but sometimes you land on a waitlist. Beta testers reported wait times ranging from a few minutes to several days."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-to-use-the-new-siri-app-in-ios-27/three-ways-to-use-siri-1787327972.jpg",
+          "cap": "The conversation screen in the new Siri app."
+        },
+        {
+          "t": "p",
+          "x": "There are three ways to call it up. Swipe down from the Dynamic Island to bring up a search bar, or do the familiar long press on the side button. If you want something shaped like ChatGPT, there's a dedicated Siri app for that."
+        },
+        {
+          "t": "p",
+          "x": "The app syncs and stores past conversations through iCloud. Answers don't come as a single line, but as a mix of text cards and images. You can tap the plus button to add photos or documents for context. The old command for checking the weather still works as before. What's different is that asking about a message or email now gets an actual answer instead of being told to go search for it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-to-use-the-new-siri-app-in-ios-27/managing-conversation-history-1787327973.jpg",
+          "cap": "Conversation history shown as a card grid."
+        },
+        {
+          "t": "p",
+          "x": "You can dig through history using the search button on the main screen. A toggle in the top right lets you switch between a list and a card grid, and a long press brings up pin, rename, and delete. You choose how long to keep history, 30 days, 1 year, or indefinitely, under Settings > Siri > Keep Conversations. Short commands like setting a timer or playing a song aren't saved to history."
+        },
+        {
+          "t": "p",
+          "x": "iOS 27 is still a public beta, and the full release usually arrives in fall. If you don't want to wait, you can join early through the beta software program open to developers and testers. Just be sure to back up first."
+        }
+      ]
+    },
+    "gadgets/gadgets-low-light-two-stage-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Smartphone cameras pull out detail well even in tricky scenes. They're still weak against darkness, though. Once light disappears, even expensive phones pick up noise, shadows turn muddy, and fine texture gets flattened."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/06/Apple-iPhone-17-Pro-White.jpg?resize=1200%2C630",
+          "cap": "A smartphone camera struggling in the dark. The research targets that exact spot."
+        },
+        {
+          "t": "p",
+          "x": "LL-Refiner, from researchers at Wuhan University in China, is a two-stage machine learning system aimed at that problem. The goal is to brighten ultra-high-definition (UHD) low-light images without throwing away the small details that make a photo look like a photo. The research, reported by Tech Xplore, was published in the IEEE/CAA Journal of Automatica Sinica on July 3, 2026."
+        },
+        {
+          "t": "p",
+          "x": "The problem grows with resolution. UHD images carry an enormous amount of information, so AI has to raise brightness while also preserving color, lighting, contours, texture, and the structure of the whole scene at once."
+        },
+        {
+          "t": "p",
+          "x": "LL-Refiner splits the job in two. First, a transformer-based neural network handles a downscaled version of the photo. Instead of processing every pixel directly, it roughly adjusts only global properties like lighting, color distribution, and the scene's overall layout."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/samsung-galaxy-z-fold8-25.jpg?resize=2000%2C1200",
+          "cap": "The higher the resolution, the harder dark scenes are to process."
+        },
+        {
+          "t": "p",
+          "x": "A second, adaptive refinement network then takes over that result. Using cross-attention modules, it gradually restores contours, texture, and detail across multiple scales, bringing the image back up to its original resolution. The payoff of this structure is that it eases the computational load of brightening a huge image while preserving information that would otherwise vanish in the dark."
+        },
+        {
+          "t": "p",
+          "x": "The researchers pitted it against leading existing correction techniques using real low-light photos, including smartphone photos shot under conditions different from training. LL-Refiner consistently came out ahead, with the gap widening especially in preserving sharpness in textured areas together with the fine structure of patterns."
+        },
+        {
+          "t": "p",
+          "x": "They didn't stop at whether it looked better. They fed the corrected images into a separate computer vision task, depth estimation, since cameras increasingly hand visual information to robots and self-driving technology. Images processed through LL-Refiner produced more accurate depth predictions, and Professor Jiayi Ma said it was the only method that estimated background depth reasonably accurately under these conditions."
+        },
+        {
+          "t": "p",
+          "x": "This doesn't mean a software update will change night photography right away. For now it's closer to a demonstration of a new correction approach than a feature in a commercial camera. But the direction is clear: adding more pixels alone won't solve low light, and future phones will lean more on AI to redraw difficult scenes, while staying within the line of not fabricating a photo that never existed."
+        }
+      ]
     }
   }
 }
