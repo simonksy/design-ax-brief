@@ -3144,6 +3144,91 @@
           "x": "Chris Culvenor, Paul Franklin, Rikki Proost, David Tibballs, Allison Holloway and Emer Harkin serve as executive producers. It premieres September 23."
         }
       ]
+    },
+    "movies/movies-ai-short-drama": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Wuxi, Jiangsu province, in eastern China. On Chen Hao's aging desktop, more than ten versions of Nuke, the VFX industry's standard tool, are still installed. For nearly a decade he learned each new version, and taught himself English to learn Autodesk Maya and Unreal Engine."
+        },
+        {
+          "t": "img",
+          "src": "https://image5.sixthtone.com/image/5/99/695.jpg",
+          "cap": "Qidian Interactive, Wuxi's AI video studio"
+        },
+        {
+          "t": "p",
+          "x": "He's now technical director at Qidian Interactive, a new AI video studio in Wuxi. The platform he's building compresses that accumulated expertise into a few lines of prompt."
+        },
+        {
+          "t": "p",
+          "x": "By around last year, AI video had become comparable to output that used to take him days to produce. The arrival of ByteDance's text-to-video model Seedance 2.0 made it much easier to turn out studio-grade footage, and the company pushed harder into AI. Chen Hao was assigned to develop its in-house model."
+        },
+        {
+          "t": "p",
+          "x": "\"I don't like AI. But I had no choice but to use it,\" he told Sixth Tone. \"Once I realized a single click could sometimes beat two or three days of work, there was no way not to use it.\""
+        },
+        {
+          "t": "p",
+          "x": "The system is called Yudian. Work began in April, and the first version shipped about a month later. It watches trending material on social media to suggest premises, writes dialogue, builds storyboards, places characters and objects in 3D space, and even judges whether an ending's cliffhanger is sharp enough to hook viewers."
+        },
+        {
+          "t": "p",
+          "x": "A production prompt shown on one screen read: \"45 to 60 seconds. Setting: a watch repair shop. Barton lunges for the pocket watch, Eliza twists her wrist to shatter the central gear. The action should be extremely fast and explosive, giving the audience no room to breathe.\" Camera, lens, and lighting were all specified."
+        },
+        {
+          "t": "p",
+          "x": "Ma Shuan, a lighting artist with nearly two decades in film, including VFX work on The Wandering Earth, uses AI at Qidian to clean up live-action footage — erasing modern concrete that crept into an ancient battlefield scene, for instance. Frame-by-frame cleanup that used to take two or three days now takes half a day. \"For me, AI is only an aid. Traditional production is controllable. With AI, every single result is a gamble.\""
+        },
+        {
+          "t": "p",
+          "x": "In the industry, that gamble is called \"card-pulling.\" Some studios keep a \"card operator\" whose only job is to keep generating until a usable shot comes out. Huang, 26, who works at a production company in Shanghai, spends his day running the same shot three or four times over. \"A sofa that seats one in one cut comes back as a two-seater in the next.\""
+        },
+        {
+          "t": "p",
+          "x": "Qidian's Wuxi production base opened in April. It hired more than 50 staff within a month, nearly half of them newcomers. In June, it was turning out four or five short dramas a day, each with 30 to 44 episodes. A fantasy adventure that had cleared censorship review but had been shelved because it needed a budget of 8 million to 10 million yuan ($1.19 million to $1.49 million) over three years was finished with AI in two months for roughly 1 million yuan."
+        },
+        {
+          "t": "p",
+          "x": "As speed picked up, review work grew. Project director Chen Jie used to look at 20 shots a week; now she looks at dozens, sometimes hundreds, a day. \"The footage comes out so fast it wears you down. I've become almost numb to it by now.\" AI-generated characters still have a \"waxy\" look."
+        },
+        {
+          "t": "p",
+          "x": "Chen Hao thinks feature films are still hard to replace with AI. But he believes that once a single sentence can produce a finished 10-minute, or even 90-minute, video, many of the jobs that make up production today will simply become unnecessary. Qidian plans to license Yudian to other studios."
+        }
+      ]
+    },
+    "movies/movies-unreleased-video-models": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "YQTduCzNoqw"
+        },
+        {
+          "t": "p",
+          "x": "Two unidentified AI video models have shown up in Artificial Analysis Arena's blind test, under the code names Polaris and Vega. No one has confirmed who made them yet."
+        },
+        {
+          "t": "p",
+          "x": "There's no official attribution. But based on the timing and the quality of the output, the host guesses one of them is likely the video model Meta has been teasing for a long time. It could be Kling 4, or it could be from somewhere nobody expected. Brent Lynch was the first to spot and post about the two models."
+        },
+        {
+          "t": "p",
+          "x": "The video breaks down the outputs released so far, one by one, covering character consistency across multiple shots, physics, on-screen text, native audio, and even a completely uncensored baby Batman. At the end, it answers which one it would pick in a head-to-head matchup."
+        },
+        {
+          "t": "p",
+          "x": "The Polaris tests run through a sweating pilot, a dog wrestling with physics, banner text, and a rock climber. Vega passes through a hall of mirrors and speaks Italian, but runs into trouble with text. The pilot-versus-pilot comparison becomes the deciding factor."
+        },
+        {
+          "t": "p",
+          "x": "The second half covers StillsLab, a free shot reference library built around how AI filmmakers actually work, with each still carrying a color palette with hex codes and camera and lens information."
+        },
+        {
+          "t": "p",
+          "x": "The feature the host singles out as something they haven't seen anywhere else is visual search: feed in your own AI-generated output, and it finds real film shots in the same visual family. It also shows a workflow of uploading screenshots to a Flora canvas and chaining them with prompts. The price really is free."
+        }
+      ]
     }
   }
 }

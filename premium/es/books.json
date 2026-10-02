@@ -2772,6 +2772,80 @@
           "x": "“Al principio dijeron que era para Kindle, y no lo creí. Pensé que no podía ser, por los problemas de derechos de publicación y de autor. Después supe que era para IA. Lo que no me gusta es que yo no puedo llevarme estos libros. El conocimiento que contienen es enorme, y algunos parecen ejemplares raros. De hecho, oí que piden libros raros a propósito. Lo que me preocupa es que después ni siquiera se puedan reutilizar: eso significa que hay menos libros que otras personas puedan ver.”"
         }
       ]
+    },
+    "books/books-google-expert-intelligence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google ha lanzado “Expert Intelligence”. Es una función que permite a los lectores sacar partido, directamente dentro de los productos de IA de Google, de los libros electrónicos que ya compraron y de fuentes verificadas."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/657/12_Main.jpg",
+          "cap": "Foto: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "El catálogo inicial ya supera los 100.000 títulos de editoriales. Es la primera vez que se tiende, a esta escala, un camino para que un libro, mediante una licencia formal, se convierta en material para las respuestas de una IA."
+        },
+        {
+          "t": "p",
+          "x": "La noticia la escribió Melina Spanoudi, de The Bookseller, el 1 de septiembre. El cuerpo del artículo está detrás de un muro de suscripción, así que lo que se puede confirmar públicamente llega solo hasta el resumen del anuncio."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, se perfila el panorama. En el lugar donde antes había un enlace a resultados de búsqueda, ahora aparece una respuesta con licencia."
+        },
+        {
+          "t": "p",
+          "x": "Para las editoriales, es un asunto que mueve a la vez los contratos y la estrategia de distribución. Dónde trazar la línea en las negociaciones de derechos vuelve a ser un punto de disputa."
+        }
+      ]
+    },
+    "books/books-scholarly-kitchen-ai-use": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1448631861.jpg",
+          "cap": "The Scholarly Kitchen"
+        },
+        {
+          "t": "p",
+          "x": "Casi nada es seguro sobre el valor y el futuro de la IA en la comunicación académica. David Crotty escribe que hay exactamente una certeza: quienes odian la IA la odian de verdad, y quieren que lo sepas. The Scholarly Kitchen (TSK) ha pasado los últimos meses aprendiendo sobre IA, y ha expuesto lo que ha aprendido junto con su política actual."
+        },
+        {
+          "t": "p",
+          "x": "Hace unos meses, se publicó un artículo invitado que incluía, sin cambios, una imagen generada por IA enviada por un colaborador. La reacción fue rápida y, en general, acalorada. A nadie parecía importarle el contenido del artículo. Todo el mundo hablaba solo de la imagen “slop”, que no era especialmente excesiva ni errónea. De no haber estado etiquetada como generada por IA, la mayoría probablemente la habría pasado por alto. Al final, se cambió por una imagen mucho más aburrida hecha por un humano."
+        },
+        {
+          "t": "p",
+          "x": "Después de eso, empezaron a llegar correos de lectores. Al principio era cosa de una vez al mes; ahora son varios al día. Dicen que un artículo de TSK “parece” escrito por IA, o que al pasarlo por algún detector de IA, el resultado dice que lo escribió una IA."
+        },
+        {
+          "t": "p",
+          "x": "Una de esas quejas fue la ocasión para que TSK elaborara un artículo junto con Nature News. El periodista Richard Van Noorden investigó y descubrió que herramientas como Pangram y GPTZero habían mejorado mucho su precisión, pero que el mercado seguía lleno de herramientas de baja calidad. Más importante aún: ni siquiera las mejores herramientas pueden distinguir un texto generado por IA de uno pulido por IA. Un texto escrito por IA desde cero, uno escrito enteramente por un humano y solo traducido al inglés por IA, y uno en el que solo la corrección se dejó en manos de la IA, reciben todos la misma etiqueta de “generado por IA”."
+        },
+        {
+          "t": "p",
+          "x": "Nature News lo expresó así: “Por mucho que mejore la detección de IA, hay un límite del que no puede escapar. Los investigadores dicen que el software puede señalar dónde intervino la IA en un texto, pero no puede demostrar cómo se usó ni juzgar si ese uso es éticamente aceptable.”"
+        },
+        {
+          "t": "p",
+          "x": "Uno de los redactores de TSK pasó su propio informe por Pangram. La herramienta acertó la cifra —9% generado por IA— pero se equivocó al señalar qué partes eran de la IA y cuáles eran humanas."
+        },
+        {
+          "t": "p",
+          "x": "La política de TSK es esta: las herramientas de IA no pueden figurar como autoras. Las imágenes generadas por IA no se publican salvo que haya una razón específica. Dicho esto, se permite a redactores, editores y revisores usar IA para borradores y edición, siempre que registren de forma transparente que la usaron. La divulgación se había dejado a discreción del autor, pero como ha señalado Avi Staiman en dos artículos recientes, los autores se resisten a hacer ese tipo de declaración. Su argumento era que prohibir del todo las herramientas solo lleva a que la gente las use de todos modos y mienta al respecto. Por eso ahora se pide la divulgación directamente."
+        },
+        {
+          "t": "p",
+          "x": "También hay un nuevo sesgo creado por el rechazo a la IA. En lugar de evaluar de verdad un argumento que no gusta, declararlo “IA” elimina la necesidad de pensar. Que los artículos con ortografía y gramática torpes queden relegados en la revisión, sin importar la calidad de la investigación, es un problema antiguo, y había esperanza de que la IA eliminara ese sesgo para los investigadores no angloparlantes. En cambio, un clima de rechazo hacia cualquier cosa tocada por la IA ha creado un sesgo más."
+        },
+        {
+          "t": "p",
+          "x": "Crotty mismo no usa ninguna herramienta de IA. Para él, escribir es pensar. Externalizar la escritura, dice, equivale a externalizar el pensamiento. Lo que le preocupa es el aumento de textos comunes y que todos se parecen. Los modelos de lenguaje de gran tamaño son máquinas que predicen la siguiente palabra, así que todo lo arrastran hacia el centro. Como ocurre con la investigación, el valor de un texto está en los extremos, y si todo se concentra en medio de una curva de campana, lo único que queda es homogeneización y descubrimientos perdidos."
+        }
+      ]
     }
   }
 }

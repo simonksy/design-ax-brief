@@ -3532,6 +3532,35 @@
           "x": "来源：O'Reilly Radar —— The Design System as the Control Plane for AI-Generated UI，Niharika P. Pujari，2026-08-25。"
         }
       ]
+    },
+    "design/design-cursor-harness": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel AI SDK的harness层现已支持Cursor，通过官方适配器@ai-sdk/harness-cursor实现。使用harness层，可以让不同的编码智能体运行在同一个HarnessAgent接口之下。无需改动应用代码，只需替换智能体本身即可。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1n6Al2Mlj10A9dU0k4zUpy/b777fa1e7e2bc5191f17cdf5372114fd/cursor_ai_sdk_harness_adapter_og_card_og_card.jpg",
+          "cap": "Vercel Changelog — Cursor AI SDK harness adapter"
+        },
+        {
+          "t": "p",
+          "x": "用法只需把cursor传给HarnessAgent即可。先从@ai-sdk/harness/agent引入HarnessAgent，再从@ai-sdk/harness-cursor引入cursor，然后用new HarnessAgent({ harness: cursor })创建实例，就能得到一个运行Cursor的HarnessAgent。"
+        },
+        {
+          "t": "p",
+          "x": "在内部，该适配器通过@ai-sdk/harness-acp，用Agent Client Protocol（ACP）把Cursor连接到HarnessAgent上。"
+        },
+        {
+          "t": "p",
+          "x": "目前支持的harness，加上Cursor，共有Claude Code、Cline、Codex、Deep Agents、Grok Build、OpenCode和Py。未来还会加入更多。要开始使用，可查看Cursor harness文档。"
+        },
+        {
+          "t": "p",
+          "x": "来源：Vercel Changelog — Cursor is now available in the AI SDK harness layer, Felix Arntz, 2026-08-27。"
+        }
+      ]
     }
   }
 }

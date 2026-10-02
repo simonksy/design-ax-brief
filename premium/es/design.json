@@ -3499,6 +3499,35 @@
           "x": "Fuente: O'Reilly Radar — The Design System as the Control Plane for AI-Generated UI, Niharika P. Pujari, 2026-08-25."
         }
       ]
+    },
+    "design/design-cursor-harness": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La capa harness del AI SDK de Vercel ahora admite Cursor, mediante el adaptador oficial @ai-sdk/harness-cursor. La capa harness ejecuta distintos agentes de codificación a través de la misma interfaz HarnessAgent, de modo que puedes cambiar de agente sin tocar el código de tu aplicación."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1n6Al2Mlj10A9dU0k4zUpy/b777fa1e7e2bc5191f17cdf5372114fd/cursor_ai_sdk_harness_adapter_og_card_og_card.jpg",
+          "cap": "Vercel Changelog — Cursor AI SDK harness adapter"
+        },
+        {
+          "t": "p",
+          "x": "Usarlo solo requiere pasar cursor a HarnessAgent. Importa HarnessAgent desde @ai-sdk/harness/agent y cursor desde @ai-sdk/harness-cursor, y luego créalo con new HarnessAgent({ harness: cursor }). Así obtienes un HarnessAgent que ejecuta Cursor."
+        },
+        {
+          "t": "p",
+          "x": "Por debajo, el adaptador usa @ai-sdk/harness-acp para conectar Cursor a HarnessAgent mediante el Agent Client Protocol (ACP)."
+        },
+        {
+          "t": "p",
+          "x": "Los harnesses admitidos, sumando Cursor, son Claude Code, Cline, Codex, Deep Agents, Grok Build, OpenCode y Py. Pronto se añadirán más. Para empezar, consulta la documentación del harness de Cursor."
+        },
+        {
+          "t": "p",
+          "x": "Fuente: Vercel Changelog — Cursor is now available in the AI SDK harness layer, Felix Arntz, 2026-08-27."
+        }
+      ]
     }
   }
 }

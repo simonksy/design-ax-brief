@@ -3008,6 +3008,252 @@
           "x": "Artículo — Christian Lagemann et al, Nature (2026). DOI: 10.1038/s41586-026-10917-6"
         }
       ]
+    },
+    "science/science-double-blind-eval": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/FzmosgmmTRGnSxbVB4Uub9VHNWGtqTq5rHOQ-VOFRgAaehrn6_AzEYqdD5vFhP57ZpSuOvG7Yrbst-HSp-y_mzNRpiNFC5iq7_Up30g7eGUfT1o2=w1440-h810-n-nu",
+          "cap": "Un haz de luz atraviesa un cubo translúcido grabado con una cerradura y un ojo de llave. Imagen: Google DeepMind"
+        },
+        {
+          "t": "p",
+          "x": "Imagina a un estudiante antes de un examen de alto riesgo. Si viera el examen de antemano, incluso una puntuación perfecta quedaría contaminada por ese conocimiento previo y se convertiría en un logro sin sentido. Para medir correctamente lo que alguien sabe, no debería poder ver las preguntas antes de que empiece el examen. Este es exactamente el problema que enfrenta la industria al evaluar modelos de IA de frontera. Si un modelo ya ha visto las preguntas del examen —un problema conocido como contaminación de benchmarks— los resultados solo son confiables hasta cierto punto."
+        },
+        {
+          "t": "p",
+          "x": "Hoy presentamos la primera evaluación doble ciego del mundo para un modelo de IA de frontera propietario. Encerramos las evaluaciones externas dentro de una “caja” criptográfica para que el modelo no pueda usarlas para mejorar su rendimiento antes de la prueba. Junto con el Singapore AI Safety Institute, OpenMined, AVERI y MLCommons, probamos el modelo Gemini Flash Lite frente a un benchmark confidencial, en un entorno que preserva la privacidad."
+        },
+        {
+          "t": "p",
+          "x": "Google examina los sistemas de IA con evaluaciones exhaustivas a lo largo de todo el desarrollo e implementación del modelo, y no depende solo de pruebas internas. Para encontrar puntos ciegos, trabajamos con una variedad de socios externos —incluidos laboratorios especializados, la sociedad civil e institutos nacionales de seguridad de la IA (AISI)— y usamos su experiencia para poner a prueba nuestros modelos."
+        },
+        {
+          "t": "p",
+          "x": "Cuanto más capaz se vuelve un modelo, más importante es garantizar que no haya visto antes las preguntas de la prueba o los prompts. Cualquier indicio de exposición previa distorsiona los resultados. Los responsables de políticas, los investigadores y las empresas necesitan confiar en que los benchmarks reflejan con precisión las capacidades reales y la seguridad de un modelo. Si un modelo puede “espiar” los elementos de evaluación, las puntuaciones se inflan artificialmente y esa confianza se derrumba."
+        },
+        {
+          "t": "p",
+          "x": "Los protocolos de registro cero (zero-logging) y las salvaguardas contractuales estrictas han mantenido confidenciales los prompts de prueba externos durante mucho tiempo. Añadir salvaguardas técnicas y criptográficas a eso es un gran avance para la evaluación segura de modelos."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, las evaluaciones externas de alto riesgo conllevaban una disyuntiva: o el evaluador entregaba los prompts de prueba (con el riesgo de que el proveedor del modelo viera las preguntas de antemano), o el proveedor del modelo entregaba los pesos (con el riesgo de exponer su propiedad intelectual)."
+        },
+        {
+          "t": "p",
+          "x": "La evaluación doble ciego elimina esa disyuntiva. Usando Confidential Space, parte de la cartera de computación confidencial de Google Cloud, verificamos de forma criptográfica que los datos de evaluación externos y el modelo propietario permanecen visibles solo para su propio dueño. El evaluador nunca ve los pesos del modelo Gemini, y Google nunca ve los prompts de prueba del evaluador."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/QIliP0rsPdITCeVJ/Double_blind_evals_diagram.svg",
+          "cap": "Un flujo de evaluación de siete pasos en el que el propietario de la IA y el evaluador pasan por un enclave de GPU seguro entre ambos. Imagen: Google DeepMind"
+        },
+        {
+          "t": "p",
+          "x": "Esta prueba criptográfica evita la contaminación de benchmarks y protege los datos sensibles. A medida que los modelos se vuelven más capaces, esto se vuelve especialmente importante en casos de alta sensibilidad, como las evaluaciones de ciberseguridad o las que usan las agencias gubernamentales. La evaluación doble ciego permite a las instituciones independientes probar rigurosamente los modelos de frontera sin ceder soberanía de datos ni seguridad."
+        },
+        {
+          "t": "p",
+          "x": "Esperamos que este piloto abra una nueva frontera en la supervisión de modelos y ayude a toda la industria a construir sistemas de IA más seguros, más confiables y más ampliamente reconocidos como tales. La metodología y los resultados se detallan en un informe técnico."
+        }
+      ]
+    },
+    "science/science-fluid-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx2.b-cdn.net/gfx/news/hires/2026/fast-but-error-prone-a-1.jpg",
+          "cap": "Figura del artículo. Fuente: Journal of Fluid Mechanics (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Un asistente de IA ayudó a un equipo de investigadores de la Universidad de Colorado Boulder a resolver un problema matemático que los había bloqueado durante un año y medio, dejando también errores sutiles en el camino. El resultado podría cambiar la forma de estudiar nanopartículas unas 1,000 veces más finas que un cabello humano, y también muestra hasta dónde llega la IA, y dónde se detiene, como compañera de investigación."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo estudio se publicó en el Journal of Fluid Mechanics. Describe la solución a un problema de dinámica de fluidos de varias décadas y cómo el equipo combinó la experiencia de la IA y la humana."
+        },
+        {
+          "t": "p",
+          "x": "La investigación fue dirigida por Ankur Gupta, profesor asistente de ingeniería química y biológica, y Arkava Ganguly, un estudiante de posgrado que había dedicado un año y medio al problema. Trabajando con Claude AI de Anthropic, el dúo descubrió que estirar una nanopartícula de una forma esférica a una forma de balón de rugby cambia su velocidad en un campo eléctrico, mientras que añadir pequeñas protuberancias u ondulaciones no la cambia."
+        },
+        {
+          "t": "p",
+          "x": "El artículo aborda la electroforesis, el movimiento de partículas cargadas en un campo eléctrico. Hace más de 100 años, el físico polaco Marian Smoluchowski demostró que la velocidad de una partícula suele ser independiente de su tamaño y forma. Desde entonces, los científicos han ido delimitando poco a poco los regímenes en los que las partículas se vuelven tan pequeñas que sus propiedades importan, pero nunca hubo una explicación generalizada."
+        },
+        {
+          "t": "p",
+          "x": "“Avanzamos hasta cierto punto y luego nos quedamos atascados”, dijo Gupta. “Había tanto revuelo en torno a la IA que decidimos probarla. Nosotros planteamos el problema, y teníamos curiosidad por saber si la IA podría manejar el álgebra larga y laboriosa necesaria para resolverlo.”"
+        },
+        {
+          "t": "p",
+          "x": "Claude se encargó del álgebra mientras los investigadores verificaban cada paso. La respuesta llegó en cinco semanas."
+        },
+        {
+          "t": "p",
+          "x": "Claude fue especialmente fuerte en el trabajo repetitivo y que lleva mucho tiempo: ejecutar cálculos largos, escribir código y producir figuras de calidad para publicación. Plantear el problema, elegir el enfoque matemático e interpretar los resultados quedó en manos de los investigadores."
+        },
+        {
+          "t": "p",
+          "x": "“El proceso mismo de hacer ciencia cambió”, dijo Ganguly. “En lugar de pasar la mayor parte del tiempo resolviendo matemáticas o escribiendo código desde cero, pasamos el tiempo depurando el trabajo de Claude y poniendo a prueba si sus conclusiones tenían sentido.”"
+        },
+        {
+          "t": "p",
+          "x": "A medida que avanzaba el trabajo, los errores de Claude se volvieron más difíciles de detectar. Cometía errores matemáticos sutiles que parecían correctos, y a veces ajustaba su razonamiento para encajar con un resultado esperado. Las respuestas resultantes eran internamente coherentes pero incorrectas; algunas parecían correctas hasta que se revisaban paso a paso, gráficos incluidos."
+        },
+        {
+          "t": "p",
+          "x": "“Confiábamos menos en los resultados de Claude que en nuestro propio trabajo manual, así que el esfuerzo de verificación no dejaba de crecer”, dijo Ganguly."
+        },
+        {
+          "t": "p",
+          "x": "Mientras preparaban una entrada de blog para acompañar el manuscrito, los investigadores le pidieron a Claude que redactara un borrador de la sección de 'errores'. Lo que obtuvieron fueron tres errores que sonaban plausibles pero que en realidad nunca habían ocurrido."
+        },
+        {
+          "t": "p",
+          "x": "“Los científicos deben revisar cuidadosamente los resultados generados por IA frente a las fuentes primarias, sus propios cálculos y su comprensión de cómo debería comportarse la ciencia”, dijo Gupta. “Si se confía demasiado, ese error se extiende a todo el proyecto. Es evidente que la IA abrirá problemas antes inabordables. Pero la velocidad no debe cambiarse por precisión.”"
+        },
+        {
+          "t": "p",
+          "x": "“Esta es nuestra experiencia con un problema. No debe leerse como un veredicto sobre la IA en la ciencia.”"
+        }
+      ]
+    },
+    "science/science-protein-beyond": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202608/Keating%20Lab_2026%20POTTSMPNN.png?itok=aGrABxck",
+          "cap": "Cinco pares de secuencia-estructura de una proteína. El verde es la proteína natural; el resto proviene de secuencias diseñadas. Imagen: Lillian Eden/Departamento de Biología del MIT"
+        },
+        {
+          "t": "p",
+          "x": "La función de una proteína la determina su estructura, y la estructura —la forma en que se pliega la proteína— la determina la secuencia de aminoácidos, las unidades que la componen."
+        },
+        {
+          "t": "p",
+          "x": "Muchos métodos para diseñar nuevas proteínas, incluidos los destinados a unirse a moléculas que causan enfermedades dentro de las células, siguen dos pasos. Primero se fija la estructura, y luego un marco de aprendizaje automático genera una lista de secuencias que podrían adoptar esa estructura."
+        },
+        {
+          "t": "p",
+          "x": "En la naturaleza, secuencias de aminoácidos distintas suelen plegarse en la misma estructura. A la inversa, una sola secuencia puede adoptar distintas estructuras según la flexibilidad de la proteína o sus desencadenantes funcionales. Por eso, el reto de diseñar nuevas proteínas con IA está en lograr que la IA ‘vea’ que varias secuencias pueden adoptar el mismo plegamiento."
+        },
+        {
+          "t": "p",
+          "x": "“Este campo ha medido el éxito durante mucho tiempo preguntando si un modelo reproduce las secuencias de proteínas que la evolución llegó a seleccionar. Nuestro trabajo muestra que esa no es la mejor métrica para el diseño de proteínas”, dijo Amy E. Keating, jefa del Departamento de Biología del MIT y autora principal del artículo, publicado recientemente en PNAS."
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo marco de aprendizaje automático desarrollado en el departamento, PottsMPNN, incorpora los principios físicos que rigen la estructura y la estabilidad de una proteína. Eso mejora la generación de secuencias y aumenta la capacidad de predecir cómo afectarán las mutaciones a la estabilidad, lo que significa que el modelo comprende mejor el paisaje secuencia-energía, la relación entre la identidad de cada aminoácido y la estabilidad de la proteína."
+        },
+        {
+          "t": "p",
+          "x": "Al incorporar este marco a un pipeline de diseño de proteínas, resulta posible diseñar proteínas estructuralmente sólidas con secuencias que no se parecen a ninguna proteína natural."
+        },
+        {
+          "t": "p",
+          "x": "“Si se piensa en una estructura completamente nueva y diseñada, no hay una secuencia natural con la que compararla”, dijo el estudiante de posgrado y primer autor Foster Birnbaum. “Lo que realmente nos importa es qué probabilidad hay de que la secuencia generada se pliegue en la estructura deseada, qué tan bien entiende el modelo el paisaje secuencia-energía, y qué tan bien predice el efecto de las mutaciones en la estabilidad de la proteína.”"
+        },
+        {
+          "t": "p",
+          "x": "Birnbaum se interesó primero en el ‘ruido’, una estrategia que mezcla variaciones en las estructuras de las proteínas durante el entrenamiento. El ruido frena la tendencia del modelo a imitar en exceso las secuencias naturales y amplía la variedad de estructuras para las que puede generar secuencias."
+        },
+        {
+          "t": "p",
+          "x": "PottsMPNN también usa distribuciones por pares para capturar las interacciones entre aminoácidos. Tener en cuenta las interacciones físicas de las 20 opciones de secuencia posibles en dos posiciones de una proteína es la razón por la que modela el paisaje secuencia-energía con más precisión que otros métodos."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores introdujeron conjuntos de secuencias relacionadas evolutivamente en el entrenamiento de PottsMPNN, enseñando al modelo cómo distintas secuencias pueden adoptar la misma estructura plegada."
+        },
+        {
+          "t": "p",
+          "x": "Birnbaum admite que recurrir a información evolutiva sigue dependiendo, en cierto sentido, de secuencias naturales. Aun así, PottsMPNN demostró que, cuanto menos depende el modelo de las secuencias naturales, mejor es su consistencia estructural y su predicción energética en proteínas novedosas."
+        },
+        {
+          "t": "p",
+          "x": "“Una vez que se puede diseñar cualquier proteína que se quiera, se abren posibilidades de bioingeniería un poco inquietantes”, dijo Birnbaum. “Es un problema difícil. Aun así, soy genuinamente optimista sobre el avance de la biología en este siglo.”"
+        },
+        {
+          "t": "p",
+          "x": "Keating lo resume así: “Nuestro método empuja al campo hacia el diseño de proteínas útiles que no existen en la naturaleza para diversas aplicaciones, al mismo tiempo que asienta una base más sólida para avances futuros.”"
+        }
+      ]
+    },
+    "science/science-qled-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/07/spectrum-web-9612716-iStock_yuyanga.jpg",
+          "cap": "El aprendizaje automático halló una mezcla de disolventes que produce películas de puntos cuánticos muy uniformes. Imagen: Physics World/iStock_yuyanga"
+        },
+        {
+          "t": "p",
+          "x": "Los LED de puntos cuánticos (QLED) atraen el interés de la industria de pantallas e iluminación porque emiten una luz brillante y de muy alta pureza de color, y podrían fabricarse de forma más económica mediante procesamiento en solución. Pero fabricar QLED de alto rendimiento sigue siendo difícil, porque los puntos cuánticos deben distribuirse de forma uniforme dentro de una película densamente compactada. Si la película no es uniforme, la eficiencia cae y los dispositivos se degradan más rápido."
+        },
+        {
+          "t": "p",
+          "x": "En este estudio se usó aprendizaje automático para hallar las condiciones de disolvente que producen las películas de puntos cuánticos más uniformes. Se caracterizaron varios disolventes mediante cinco parámetros clave que influyen en cómo se asientan los puntos cuánticos a medida que el disolvente se evapora. La uniformidad de la película se midió con microscopía de fuerza atómica, que ofrece información detallada sobre la morfología y la rugosidad de la superficie."
+        },
+        {
+          "t": "p",
+          "x": "Se entrenaron tres modelos de aprendizaje automático para predecir la uniformidad de la película a partir de las propiedades del disolvente. La regresión de vectores de soporte (Support Vector Regression) fue la más precisa de los tres, y ese modelo se usó para elegir la mezcla óptima de disolventes. La dispersión de rayos X de ángulo pequeño en incidencia rasante (GISAXS) confirmó que la película resultante compactaba los puntos cuánticos de forma más uniforme."
+        },
+        {
+          "t": "p",
+          "x": "Los QLED fabricados con la mezcla de disolventes optimizada tuvieron mayor eficiencia y mayor vida operativa que los dispositivos hechos con un solo disolvente. El estudio muestra que la homogeneidad de la película es un factor decisivo en el rendimiento de los QLED, y a la vez demuestra la utilidad del aprendizaje automático como herramienta para optimizar dispositivos optoelectrónicos procesados en solución."
+        },
+        {
+          "t": "p",
+          "x": "El artículo es Beomsoo Chun et al., “Machine-learning-enabled solvent engineering for uniform quantum dot packing in efficient and stable quantum-dot light-emitting diodes”, Rep. Prog. Phys. 89 078002 (2026)."
+        }
+      ]
+    },
+    "science/science-solar-storm-9h": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/14972_Active_Region_Short_Horiz_ProRes_1920x1080_2997_ed.jpg_750_20260827_011316.jpg",
+          "cap": "Una herramienta de IA creada por investigadores del New Jersey Institute of Technology detecta señales de una tormenta solar casi nueve horas antes de que aparezca en la superficie. Imagen: NASA Goddard Space Flight Center/SDO"
+        },
+        {
+          "t": "p",
+          "x": "Al oír hablar de pronósticos del tiempo, pensamos de forma instintiva en el clima de la Tierra: si lloverá o despejará. Rara vez pensamos en el clima más allá de la Tierra, el llamado clima espacial. El clima espacial a veces se manifiesta como auroras que inspiran asombro en las latitudes altas del norte y del sur, pero sus efectos negativos en la vida cotidiana suelen olvidarse, entre ellos la caída de satélites de comunicaciones o estaciones terrestres. Pronosticar con antelación el clima espacial que se aproxima, para poder prepararse, ha sido durante mucho tiempo un problema sin resolver para los investigadores."
+        },
+        {
+          "t": "p",
+          "x": "Ahora se ha dado un paso más cerca. Los investigadores presentaron un nuevo modelo de IA llamado EarlyDetect en un artículo publicado recientemente en el Journal of Geophysical Research: Machine Learning and Computation. Como su nombre indica, el objetivo principal de EarlyDetect es observar la superficie solar y el campo magnético para detectar señales precursoras en las regiones activas, conocidas como el lugar donde comienza la actividad del clima espacial."
+        },
+        {
+          "t": "p",
+          "x": "“Lo más difícil es que las regiones activas empiezan a crecer bajo la superficie visible del Sol, donde la estructura magnética no se puede observar directamente”, dijo el Dr. Alexander Kosovichev, profesor distinguido de física en el New Jersey Institute of Technology (NJIT) e investigador co-principal y coautor del artículo del proyecto. “En su lugar, observamos cambios muy pequeños en el campo magnético y variaciones en los patrones de las ondas sonoras que atraviesan constantemente el interior del Sol. Es algo parecido a notar que el ritmo se desvía levemente dentro de una orquesta muy ruidosa.”"
+        },
+        {
+          "t": "p",
+          "x": "Para probar EarlyDetect, los investigadores le proporcionaron datos recogidos previamente por el generador de imágenes heliosísmico y magnético (SDO/HMI) a bordo del Observatorio de Dinámica Solar (SDO) de la NASA. El enfoque es similar al de los modelos de lenguaje de gran tamaño (LLM), que también necesitan recibir información para aprender, pero EarlyDetect se diseñó con un marco de IA llamado arquitectura transformer, la misma arquitectura que impulsa a los LLM como ChatGPT o Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Igual que un LLM, EarlyDetect se entrenó con datos de SDO/HMI y luego se dejó observar regiones activas que no había visto durante el entrenamiento. Como resultado, los investigadores confirmaron que EarlyDetect detecta señales precursoras un promedio de 9.24 horas antes de que una región activa se haga visible junto con la actividad de clima espacial."
+        },
+        {
+          "t": "p",
+          "x": "“El aprendizaje automático todavía no se usa ampliamente para pronosticar la actividad solar”, dijo la Dra. Mengjia Xu, profesora asistente de ciencia de datos en NJIT e investigadora principal y coautora del artículo del proyecto. “Nuestra investigación muestra que los modelos de aprendizaje automático avanzados abren nuevas posibilidades para la predicción futura del clima espacial.”"
+        },
+        {
+          "t": "p",
+          "x": "El evento de clima espacial más famoso de la historia moderna es quizás el Evento Carrington. Ocurrido del 1 al 2 de septiembre de 1859, produjo auroras visibles en todo el mundo y colapsó las redes de telégrafo de todo el planeta. Los operadores de telégrafo recibieron descargas, los aparatos siguieron funcionando incluso después de desconectarlos de la energía, y el papel de telégrafo llegó a incendiarse."
+        },
+        {
+          "t": "p",
+          "x": "El nombre proviene del astrónomo británico Richard Carrington, quien descubrió la llamarada solar que causó el caos. La observó la mañana del 1 de septiembre. La intensidad de la llamarada que presenció se describió más tarde como equivalente a 10.000 millones de bombas atómicas. La llamarada fue tan potente que, en pocas horas, sumió a todo el planeta en el caos, y algunas personas creyeron que había llegado el fin del mundo."
+        },
+        {
+          "t": "p",
+          "x": "Si EarlyDetect ayudará a los pronósticos de clima espacial en las próximas décadas es una pregunta que solo el tiempo podrá responder."
+        }
+      ]
     }
   }
 }

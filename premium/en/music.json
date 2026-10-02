@@ -3396,6 +3396,120 @@
           "x": "The update is free."
         }
       ]
+    },
+    "music/music-umg-ai-patents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/UMG-Patent-Licensing.jpg",
+          "cap": "Universal Music's AI patent licensing (photo: Brecht Corbeel)"
+        },
+        {
+          "t": "p",
+          "x": "Thirteen months after announcing it would “significantly expand” a patent portfolio through a joint venture formed with Liquidax Capital, Universal Music Group has formally licensed those AI patents to Udio and GRAI."
+        },
+        {
+          "t": "p",
+          "x": "The UMG-Liquidax joint venture is called Music IP Holdings. The company disclosed the two deals in an official statement sent to DMN. According to the statement and its website, it already holds more than 24 patents, with over 50 more pending."
+        },
+        {
+          "t": "p",
+          "x": "“This portfolio spans the entire lifecycle of creating, licensing and commercializing AI-generated content — from the moment a prompt is entered through moderation, watermarking, identifier tagging, approval, license distribution, and settlement across open and closed ecosystems,” Music IP Holdings said."
+        },
+        {
+          "t": "p",
+          "x": "The intent to monetize is clear. The same site hosts a detailed application form for “qualified organizations” seeking to license the patents."
+        },
+        {
+          "t": "p",
+          "x": "It's no surprise that Udio came in early. The generative AI platform, which once faced off against UMG in court, is now building licensed products with the major label, along with Warner Music and Merlin. Sony Music is not involved."
+        },
+        {
+          "t": "p",
+          "x": "GRAI is relatively less known. It's an AI-powered remix and social listening app based in Warsaw, and it closed a $9 million seed round led by Khosla Ventures last April. Khosla also holds stakes in Hook and Splash; Hook recently signed a “milestone” deal with UMG."
+        },
+        {
+          "t": "p",
+          "x": "What happens to companies that don't want to pay? Infringement lawsuits also appear to be on the table — an interesting twist for an industry that has long stood on the other side of patent litigation."
+        },
+        {
+          "t": "p",
+          "x": "The site states plainly that using the patented technology without a license is infringement, even if a company wrote its own code. In Music IP Holdings' view, technology that “generates music,” “transforms audio into new structures,” “uses new audio workflows,” or “analyzes or decomposes music” requires a license."
+        },
+        {
+          "t": "p",
+          "x": "So would companies like Klay Vision or Spotify also need to sign patent deals? Time will tell. Based on the website and a Music Row office that quietly opened last November, the joint venture appears to be seeking more deals here."
+        },
+        {
+          "t": "p",
+          "x": "Bill Campbell's Barefoot Media is helping bring the portfolio to market and develop licensing opportunities across the tech and creative industries. Campbell said, “At every major inflection point in digital music, the most successful models have been the ones that brought technology companies and rights holders together under a clear, practical licensing framework.”"
+        },
+        {
+          "t": "p",
+          "x": "Daniel Drolet, CEO of Music IP Holdings and Liquidax, framed artist protection and innovation together. “This portfolio is designed to do both — opening new opportunities for responsible innovation while giving artists, songwriters and rights holders stronger protection and the right to share in the value their work creates.”"
+        }
+      ]
+    },
+    "music/music-abyss-ii": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/abyss-ii-728x364.jpg",
+          "cap": "Dawesome Abyss II (image courtesy of Dawesome)"
+        },
+        {
+          "t": "p",
+          "x": "Developer Dawesome has released Abyss II, a visual synthesizer for macOS and Windows. The introductory price is €89, with a regular price of €149."
+        },
+        {
+          "t": "p",
+          "x": "Dawesome describes Abyss II as a synth made for musicians rather than engineers. Instead of digging through pages dense with technical parameters to build up a sound, you place visible Tone Colors on a Gradient and move between them to morph the timbre."
+        },
+        {
+          "t": "p",
+          "x": "The concept itself carries over from the first-generation Abyss, but this version adds one major new way to create sound material. Drop an audio file directly onto the Gradient, and Abyss II turns it into a row of spectral Tone Colors."
+        },
+        {
+          "t": "video",
+          "yt": "uAsadOIZL0A"
+        },
+        {
+          "t": "p",
+          "x": "The interesting part is that this isn't ordinary sample playback. It analyzes the original and reinterprets it as playable, pitch-accurate synth material."
+        },
+        {
+          "t": "p",
+          "x": "You can drop a single file or an entire folder onto the Palette view. Abyss II uses machine learning to extract Tone Colors and groups similar results together, building a personal palette out of your own recordings or sample library."
+        },
+        {
+          "t": "p",
+          "x": "It catches wavetables automatically, and sorts other sources anywhere along the range between organic material and static, wavetable-like material."
+        },
+        {
+          "t": "p",
+          "x": "Once colors land on the Gradient, the Position control sweeps through those timbres, and the synth's modulation system adds movement. For further sound shaping, there's FM and a virtual analog filter, plus new additions Syntify, Brute, and Velvet, which sharpen, distort, or smooth out a sound."
+        },
+        {
+          "t": "p",
+          "x": "A new modular effects engine has also been added, with 20 module types across four reorderable slots. A new polyrhythmic sequencer sets step lengths independently, and the package adds full MPE support, three LFOs, two ADSR envelopes, a mono mode, undo and redo, and more than 400 presets."
+        },
+        {
+          "t": "p",
+          "x": "The presets include around 200 newly made ones alongside around 200 reworked from the first-generation Abyss."
+        },
+        {
+          "t": "p",
+          "x": "The trial has a low barrier to entry. You can get it without entering an email or creating an account, and the same installer runs in demo mode. The only limitation is that after two or three days, occasional LP-style crackle noise starts creeping in."
+        },
+        {
+          "t": "p",
+          "x": "If you own Abyss 1, you can upgrade for €45 instead of the regular €75 during the introductory promotion. Anyone who bought Abyss 1 in 2026 gets the upgrade for free."
+        },
+        {
+          "t": "p",
+          "x": "Abyss II runs on 64-bit Windows 10 and 11 in VST3 and AAX formats. On Intel and Apple silicon Macs running macOS 13 or later, it supports AU, VST3, and AAX."
+        }
+      ]
     }
   }
 }

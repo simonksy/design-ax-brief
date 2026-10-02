@@ -3210,6 +3210,107 @@
           "x": "AI游戏开发的早期成果已经显现。独立模组制作者正在用AI把平面PC游戏搬进VR，相关列表每天都在增加。随着入门门槛降低，模组的质量和速度都在提升。"
         }
       ]
+    },
+    "games/games-side-modlai-qa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Modlai-x-Side---Gamescom-2026.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "从左至右：Teppei Tachibana、Benedikte Mikkelsen、Martin McBride、Christoffer Holmgård。图片来源：Modl.ai·Side"
+        },
+        {
+          "t": "p",
+          "x": "游戏服务公司Side与丹麦AI企业Modl.ai签署了一份谅解备忘录。这是一项为期六个月、具有约束力的协议，两家公司将共同打造一套基于AI的质量保证系统。Side长期以PTW之名活跃在服务市场，而Modl.ai是一家较新的公司，成立于2018年，两年后完成了170万美元的种子轮融资。"
+        },
+        {
+          "t": "p",
+          "x": "Side首席商务官Martin McBride表示，“目前游戏行业里被视为皇冠上的宝石、圣杯级的体验，就是用AI技术更好地增强QA服务”。“还没有人真正解决这个问题。我们认为我们做到了。”"
+        },
+        {
+          "t": "p",
+          "x": "此前的AI QA技术，只有在开发商交出整个构建版本的情况下才能运作。Modl.ai以前的方式同样是“集成式”的，需要接入插件和SDK，因而要求源代码。摩擦很大，正如创始人Christoffer Holmgard所说，“随着时间推移变得越来越难”。"
+        },
+        {
+          "t": "p",
+          "x": "新系统不会窥探内部。“我们就像交给QA测试员那样原样拿到产品，把它装进相似甚至相同的设备里。然后我们的方案会一边看着屏幕一边玩游戏，模拟主要流程，把发生的一切都变成数据集。第二套AI系统会审查这些数据，找出漏洞，上报到人的层级，再询问是否需要处理。”这是Holmgard的解释。"
+        },
+        {
+          "t": "p",
+          "x": "第一步是积累Modl.ai所说的“游戏知识”。开发者上传项目素材并与AI对话。“全部用自然语言完成，有时会附上图片，有时会上传游戏设计文档。”接下来是决定测试什么的阶段，这一步仍需要人的专业经验来打磨提示词，以确保代理行为正确。"
+        },
+        {
+          "t": "p",
+          "x": "之后，系统会根据一次运行产生的数据生成漏洞报告。“我们会拿到全部文字，还有我们称之为证据的短视频和日志数据。这些会交给人类QA专家，由他来审核，并决定后续制作中如何处理。”随着测试员反馈的不断积累，判断游戏中某个东西是漏洞还是功能的那种直觉，也会逐渐渗入系统。"
+        },
+        {
+          "t": "p",
+          "x": "Side设想的未来是，QA人员转型为AI工程师。McBride说，“这类项目的好处在于，它能把我们的人往价值链上游推”。与其走从测试员升到高级测试员的老路，不如成为AI工程师，收入因此提高，也让因人力成本流失到海外的岗位，有机会重新回流。"
+        },
+        {
+          "t": "p",
+          "x": "Modl.ai首席产品官Benedikte Mikkelsen指出了减少重复劳动这一点。“不需要一个人一遍又一遍地重复同一个流程，那个人可以去做价值更高的工作。”McBride也明确表示，AI不会取代QA人员。Side把AI看作一个“滑动刻度”。“人会始终处在环路之中，这就是我们的理念。”"
+        },
+        {
+          "t": "p",
+          "x": "不过，目前这项技术能应付的游戏类型还很有限。Side首席运营官Oliver Deslandes很坦率：“比如解谜游戏、卡牌游戏，节奏不要太快的那种，带有可重复机制的游戏。像格斗游戏那样非常快的类型，还要等以后再说。”它的目标是小型体验，而不是3D开放世界。"
+        }
+      ]
+    },
+    "games/games-tencent-motus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech.jpg",
+          "cap": "Tencent Games Central Tech。图片来源：Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Tencent Games Central Tech在Gamescom上首次以统一品牌的形象亮相，带来了横跨内容制作、游玩体验和长期live运营的一整套自研技术。登上Gamescom 2026展台的有Motus、GIGA、MagicDawn、Anti-Cheat Expert、GVoice、WeTest。"
+        },
+        {
+          "t": "p",
+          "x": "位于核心的是Motus，一条从头到尾处理3D角色动画的AI流水线，建立在Tencent自研的生成式动画基础模型之上。它把原本各自独立运作的绑定、蒙皮、动作生成、动作修正和实时角色互动，串联成了一体。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Motus.jpg",
+          "cap": "3D角色动画流水线Motus。图片来源：Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "动作既可以用文字提示生成，也可以来自视频或关键帧。多角色互动涵盖战斗、协作，乃至社交动作。它会分析角色拓扑结构，在几秒内生成可直接用于生产的骨骼，并为肌肉、服装等部位附加蒙皮权重。"
+        },
+        {
+          "t": "p",
+          "x": "它不只是一个生成工具。修正功能能自行发现并修复抖动、网格穿插、关节异常、脚部滑动等问题。在流水线的末端，音频或文本可以实时驱动表情、肢体动作和反应。Tencent还考虑了智能NPC、数字人乃至虚拟主持人等用途。"
+        },
+        {
+          "t": "p",
+          "x": "Motus技术负责人兼首席研究员Zijiao Zeng在8月24日的Gamescom Dev活动“Breathing Life into Geometry 2.0”环节中介绍了这条流水线，现场还展示了把文字提示变成3D动画的演示。据Tencent介绍，Motus技术已经应用于Game for Peace、PUBG MOBILE、Delta Force、Honor of Kings、Roco Kingdom、League of Legends和Teamfight Tactics。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech-Onsite-1.jpg",
+          "cap": "Gamescom 2026现场。图片来源：Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Central Tech的产品线延伸到动画之外。GIGA把游戏和虚拟世界当作通用AI代理的训练场，重点在于基于视觉的决策、语言与行为的对齐，以及实时竞争行为。MagicDawn在渲染技术上叠加AI和云计算，处理性能、画质和音频。Tencent以Roco Kingdom为例，称得益于全局光照和跨平台支持，这款浏览器游戏已经扩展为一个64平方公里的开放世界。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/MagicDawn.jpg",
+          "cap": "在渲染上叠加AI与云计算的MagicDawn。图片来源：Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Anti-Cheat Expert负责拦截作弊、保护客户端、应对游戏内经济风险和威胁情报。GVoice是一套低延迟语音通信方案，带有AI降噪、自研编解码器和实时翻译。WeTest Acorn AI Studio让自主代理直接上手玩游戏，不分题材和平台地找出问题。"
+        },
+        {
+          "t": "p",
+          "x": "Tencent在Gamescom 2026上传达的信息是，这些技术正在走出演示环节，成为实际开发流水线中可复用的组件。世界模型和实时交互视频方面的研究也在继续推进。至于这些技术未来会用在哪些游戏上，Tencent尚未透露。"
+        }
+      ]
     }
   }
 }

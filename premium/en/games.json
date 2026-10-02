@@ -3484,6 +3484,62 @@
           "x": "Still, the games this technology can currently handle are limited. Side's chief operating officer Oliver Deslandes was candid: “Puzzle games, card games, things that aren't too fast. Things with repeatable mechanics. Something very fast like a fighting game is more of a later conversation.” It's aimed at small experiences rather than 3D open worlds."
         }
       ]
+    },
+    "games/games-tencent-motus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech.jpg",
+          "cap": "Tencent Games Central Tech. Image credit: Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Tencent Games Central Tech made its first appearance as a unified brand at Gamescom. It brought out its own bundle of technologies spanning content creation, gameplay experience, and long-term live operations. On the Gamescom 2026 showcase stage were Motus, GIGA, MagicDawn, Anti-Cheat Expert, GVoice, and WeTest."
+        },
+        {
+          "t": "p",
+          "x": "At the center is Motus, an AI pipeline that handles 3D character animation start to finish, built on top of Tencent's own generative animation foundation model. It links together rigging, skinning, motion generation, motion correction, and real-time character interaction, processes that used to run separately."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Motus.jpg",
+          "cap": "Motus, the 3D character animation pipeline. Image credit: Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Motion can be generated from text prompts, video, or keyframes. Multi-character interaction covers combat, cooperation, and even social gestures. It analyzes character topology to produce a production-ready skeleton within seconds and attaches skinning weights to areas like muscles and clothing."
+        },
+        {
+          "t": "p",
+          "x": "It isn't just a generation tool. Its correction features find and fix problems like jitter, mesh penetration, joint anomalies, and foot sliding on their own. At the end of the pipeline, audio or text drives facial expressions, gestures, and reactions in real time. Tencent has intelligent NPCs, digital humans, and even virtual hosts in mind."
+        },
+        {
+          "t": "p",
+          "x": "Zijiao Zeng, Motus's technical lead and principal researcher, explained the pipeline on August 24 at Gamescom Dev's “Breathing Life into Geometry 2.0” session, where a demo turning text prompts into 3D animation was also shown live. According to Tencent, Motus technology has already been used in Game for Peace, PUBG MOBILE, Delta Force, Honor of Kings, Roco Kingdom, League of Legends, and Teamfight Tactics."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech-Onsite-1.jpg",
+          "cap": "The Gamescom 2026 floor. Image credit: Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "The Central Tech lineup reaches beyond animation. GIGA uses games and virtual worlds as a training ground for general-purpose AI agents, focusing on vision-based decision-making, aligning language with behavior, and real-time competitive behavior. MagicDawn layers AI and cloud computing onto rendering technology to handle performance, visual quality, and audio. Tencent cited Roco Kingdom as an example, saying global illumination and cross-platform support let the browser game move into a 64-square-kilometer open world."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/MagicDawn.jpg",
+          "cap": "MagicDawn, which layers AI and cloud onto rendering. Image credit: Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Anti-Cheat Expert handles cheat blocking, client protection, in-game economic risk, and threat intelligence. GVoice is low-latency voice communication with AI noise removal, its own codec, and real-time translation. WeTest Acorn AI Studio has autonomous agents play games directly, finding problems across genres and platforms."
+        },
+        {
+          "t": "p",
+          "x": "The message Tencent put forward at Gamescom 2026 is that these technologies are moving past demo showcases to become reusable parts of real development pipelines. Research on world models and real-time interactive video continues as well. Tencent hasn't yet said which games will use the technology going forward."
+        }
+      ]
     }
   }
 }

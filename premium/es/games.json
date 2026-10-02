@@ -3273,6 +3273,107 @@
           "x": "Los primeros resultados del desarrollo de juegos con IA ya se están notando. Modders independientes están usando IA para llevar juegos de PC planos a VR, y la lista sigue creciendo cada día. Con una barrera de entrada más baja, los mods salen mejores y más rápido."
         }
       ]
+    },
+    "games/games-side-modlai-qa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Modlai-x-Side---Gamescom-2026.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "De izquierda a derecha: Teppei Tachibana, Benedikte Mikkelsen, Martin McBride, Christoffer Holmgård. Crédito de imagen: Modl.ai/Side"
+        },
+        {
+          "t": "p",
+          "x": "La empresa de servicios para videojuegos Side ha firmado un memorando de entendimiento con la empresa danesa de IA Modl.ai. Es un acuerdo vinculante de seis meses, durante el cual ambas compañías construirán juntas un sistema de control de calidad basado en IA. Side lleva mucho tiempo operando en el mercado de servicios bajo el nombre PTW, mientras que Modl.ai es una empresa más nueva, fundada en 2018 y que recaudó 1,7 millones de dólares en una ronda semilla dos años después."
+        },
+        {
+          "t": "p",
+          "x": "Martin McBride, director comercial de Side, dijo que “lo que ahora se considera la joya de la corona, el santo grial, en la industria de los videojuegos, es reforzar mejor los servicios de QA con tecnología de IA”. “Nadie lo había resuelto realmente. Creemos que nosotros sí.”"
+        },
+        {
+          "t": "p",
+          "x": "La tecnología de QA con IA anterior solo funcionaba si los desarrolladores entregaban toda la build. El enfoque previo de Modl.ai también era “basado en integración”, con plugins y SDKs conectados, lo que requería el código fuente. La fricción era alta, y como dijo el fundador Christoffer Holmgard, “se volvía más difícil con el tiempo”."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo sistema no mira por dentro. “Tomamos el producto tal cual, como si se lo estuviéramos entregando a un probador de QA, y lo instalamos en un dispositivo similar o idéntico. Entonces nuestra solución mira la pantalla y juega el juego, simulando los flujos principales, y convierte todo lo que ocurre en un conjunto de datos. Un segundo sistema de IA revisa eso, encuentra errores, los escala a un nivel humano y pregunta si requieren acción”, explicó Holmgard."
+        },
+        {
+          "t": "p",
+          "x": "El primer paso es construir lo que Modl.ai llama “conocimiento del juego”. Los desarrolladores suben los assets del proyecto y conversan con la IA. “Todo se hace en lenguaje natural. A veces se adjuntan imágenes, a veces se suben documentos de diseño del juego.” Luego viene decidir qué probar, una etapa que todavía necesita experiencia humana para afinar los prompts de modo que el agente se comporte correctamente."
+        },
+        {
+          "t": "p",
+          "x": "Después de eso, el sistema convierte los datos de una sola ejecución en un informe de errores. “Recibimos todo el texto, junto con lo que llamamos evidencia: clips cortos y datos de registro. Eso va a un experto humano de QA. Esa persona lo revisa y decide cómo se maneja en el resto de la producción.” El criterio para distinguir si algo en el juego es un error o una función también se va filtrando en el sistema a medida que se acumula la retroalimentación de los probadores."
+        },
+        {
+          "t": "p",
+          "x": "Side imagina un futuro en el que el personal de QA pasa a roles de ingeniería de IA. McBride dijo que “lo bueno de programas como este es que hace subir a nuestra gente en la cadena de valor”. En lugar de pasar de probador a probador senior, alguien se convierte en ingeniero de IA, gana más por ello, y eso también abre espacio para devolver empleos a países de los que habían salido por los costos laborales."
+        },
+        {
+          "t": "p",
+          "x": "Benedikte Mikkelsen, directora de producto de Modl.ai, señaló la reducción de la repetición. “No se necesita a una persona para repetir el mismo flujo una y otra vez. Esa persona puede hacer un trabajo mucho más valioso.” McBride también dejó claro que la IA no sustituye al personal de QA. Side ve la IA como una “escala deslizante”. “Los humanos siempre estarán en el ciclo. Ese es nuestro espíritu.”"
+        },
+        {
+          "t": "p",
+          "x": "Aun así, los juegos que esta tecnología puede manejar por ahora son limitados. Oliver Deslandes, director de operaciones de Side, fue franco: “Juegos de rompecabezas, juegos de cartas, cosas que no sean demasiado rápidas. Cosas con mecánicas repetibles. Algo muy rápido como un juego de lucha es una conversación para más adelante.” Está pensado para experiencias pequeñas, no para mundos abiertos en 3D."
+        }
+      ]
+    },
+    "games/games-tencent-motus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech.jpg",
+          "cap": "Tencent Games Central Tech. Crédito de imagen: Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Tencent Games Central Tech hizo su primera aparición como marca unificada en Gamescom. Presentó su propio conjunto de tecnologías que abarca la creación de contenido, la experiencia de juego y las operaciones en vivo a largo plazo. En el escenario de Gamescom 2026 estuvieron Motus, GIGA, MagicDawn, Anti-Cheat Expert, GVoice y WeTest."
+        },
+        {
+          "t": "p",
+          "x": "En el centro está Motus, un pipeline de IA que se encarga de la animación de personajes en 3D de principio a fin, construido sobre el modelo fundacional de animación generativa propio de Tencent. Conecta en uno solo procesos que antes funcionaban por separado: rigging, skinning, generación de movimiento, corrección de movimiento e interacción de personajes en tiempo real."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Motus.jpg",
+          "cap": "Motus, el pipeline de animación de personajes en 3D. Crédito de imagen: Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "El movimiento se puede generar a partir de prompts de texto, video o keyframes. La interacción entre varios personajes abarca combate, cooperación e incluso gestos sociales. Analiza la topología del personaje para producir en segundos un esqueleto listo para producción, y asigna pesos de skinning a zonas como los músculos y la ropa."
+        },
+        {
+          "t": "p",
+          "x": "No es solo una herramienta de generación. Sus funciones de corrección encuentran y arreglan por sí solas problemas como vibraciones, penetración de mallas, anomalías en las articulaciones y deslizamiento de los pies. Al final del pipeline, el audio o el texto impulsan expresiones faciales, gestos y reacciones en tiempo real. Tencent tiene en mente NPCs inteligentes, humanos digitales e incluso presentadores virtuales."
+        },
+        {
+          "t": "p",
+          "x": "Zijiao Zeng, líder técnico de Motus e investigador principal, explicó el pipeline el 24 de agosto en la sesión “Breathing Life into Geometry 2.0” de Gamescom Dev, donde también se mostró en vivo una demostración que convertía prompts de texto en animación 3D. Según Tencent, la tecnología de Motus ya se ha usado en Game for Peace, PUBG MOBILE, Delta Force, Honor of Kings, Roco Kingdom, League of Legends y Teamfight Tactics."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech-Onsite-1.jpg",
+          "cap": "El recinto de Gamescom 2026. Crédito de imagen: Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "La línea de Central Tech se extiende más allá de la animación. GIGA usa juegos y mundos virtuales como campo de entrenamiento para agentes de IA de propósito general, con foco en la toma de decisiones basada en visión, la alineación entre lenguaje y comportamiento, y el comportamiento competitivo en tiempo real. MagicDawn añade IA y computación en la nube a la tecnología de renderizado para abordar el rendimiento, la calidad visual y el audio. Tencent citó Roco Kingdom como ejemplo, diciendo que la iluminación global y el soporte multiplataforma permitieron que el juego de navegador pasara a un mundo abierto de 64 kilómetros cuadrados."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/MagicDawn.jpg",
+          "cap": "MagicDawn, que añade IA y nube al renderizado. Crédito de imagen: Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Anti-Cheat Expert se encarga de bloquear trampas, proteger el cliente, el riesgo económico dentro del juego y la inteligencia de amenazas. GVoice es una comunicación de voz de baja latencia con eliminación de ruido por IA, su propio códec y traducción en tiempo real. WeTest Acorn AI Studio hace que agentes autónomos jueguen directamente, encontrando problemas sin importar el género o la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "El mensaje que Tencent transmitió en Gamescom 2026 es que estas tecnologías están dejando de ser demostraciones para convertirse en piezas reutilizables de pipelines de desarrollo reales. También continúa la investigación sobre modelos de mundo y video interactivo en tiempo real. Tencent todavía no ha dicho en qué juegos usará esta tecnología de aquí en adelante."
+        }
+      ]
     }
   }
 }

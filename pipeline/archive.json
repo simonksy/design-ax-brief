@@ -44063,6 +44063,14 @@
     "ja": {
      "headline": "入札から最終ラップ\nまで台帳はAIが記入",
      "body": "AICPの予算・発注・給与を1画面に集め、入札書簡とレシートはAIが作成する。"
+    },
+    "zh": {
+     "headline": "从投标到最终\n结算，AI填账",
+     "body": "AICP把预算、订单和薪资集中到一屏，AI负责撰写投标函和收据。"
+    },
+    "es": {
+     "headline": "De la licitación al wrap\nfinal, la IA llena los libros",
+     "body": "Reúne presupuestos AICP, órdenes de compra y nóminas en una pantalla, y la IA escribe cartas de licitación y recibos."
     }
    }
   },
@@ -44078,7 +44086,29 @@
    "image": null,
    "date": "2026-08-27",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "코드명만 붙은 영상 모델 두 개\n출력물을 하나씩 뜯어봤다",
+     "body": "블라인드 테스트에 나타난 두 모델의 출력을 뜯고 무료 레퍼런스 라이브러리도 짚는다."
+    },
+    "en": {
+     "headline": "Two video models with only\ncode names, picked apart",
+     "body": "It breaks down the outputs of two models from a blind test and covers a free reference library."
+    },
+    "ja": {
+     "headline": "コード名だけの\n映像モデル2つ比較",
+     "body": "ブラインドテストに現れた2モデルの出力を分析し、無料参照ライブラリも紹介する。"
+    },
+    "zh": {
+     "headline": "两个只有代号\n的视频模型拆解",
+     "body": "拆解盲测中出现的两个模型的输出，还顺带介绍一个免费参考库。"
+    },
+    "es": {
+     "headline": "Dos modelos de video solo con\nnombre en clave, analizados",
+     "body": "Desglosa las salidas de dos modelos vistos en una prueba ciega y repasa una biblioteca de referencia gratuita."
+    }
+   }
   },
   {
    "id": "music-abyss-ii",
@@ -44092,7 +44122,21 @@
    "image": null,
    "date": "2026-08-27",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "아무 오디오 파일이나 떨어뜨리면\n머신러닝이 스펙트럼 팔레트로 바꾼다",
+     "body": "오디오 파일을 연주 가능한 Tone Color로 쪼갠 뒤 비슷한 것끼리 묶는다."
+    },
+    "en": {
+     "headline": "Drop in any audio file, and\nML turns it into a spectrum",
+     "body": "It splits audio files into playable Tone Colors, then groups similar ones together."
+    },
+    "ja": {
+     "headline": "音声ファイルを\nMLがスペクトル化",
+     "body": "音声ファイルを演奏可能なTone Colorに分割し、似たもの同士でまとめる。"
+    }
+   }
   },
   {
    "id": "music-elevenmusic-composer",
@@ -44507,6 +44551,14 @@
     "ja": {
      "headline": "Googleが電子書籍に\n質問機能開放",
      "body": "Google Playで買った電子書籍10万点余りに直接質問できるようになった。"
+    },
+    "zh": {
+     "headline": "Google开放\n电子书问答功能",
+     "body": "用户现在可以直接向Google Play购买的10万多种电子书提问。"
+    },
+    "es": {
+     "headline": "Google abre preguntas\ndirectas sobre libros digitales",
+     "body": "Los lectores ya pueden hacer preguntas directas a más de 100.000 libros electrónicos comprados en Google Play."
     }
    }
   },
@@ -44522,7 +44574,29 @@
    "image": "pipeline/media/books-scholarly-kitchen-ai-use.jpg",
    "date": "2026-08-28",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "AI 사용을 먼저 밝힌 편집실",
+     "body": "스칼라리 키친이 자체 AI 사용을 공개하며 탐지 도구의 정확도 문제를 짚었다."
+    },
+    "en": {
+     "headline": "An editorial team that\ndisclosed its AI use first",
+     "body": "The Scholarly Kitchen disclosed its own AI use and pointed to accuracy problems in detection tools."
+    },
+    "ja": {
+     "headline": "AI利用を\n先に公表した編集部",
+     "body": "スカラリー・キッチンが自らのAI利用を公開し、検知ツールの精度問題を指摘した。"
+    },
+    "zh": {
+     "headline": "率先公开\nAI使用的编辑部",
+     "body": "The Scholarly Kitchen公开自身AI使用情况，并指出检测工具的准确度问题。"
+    },
+    "es": {
+     "headline": "Una redacción que reveló\nsu uso de IA primero",
+     "body": "The Scholarly Kitchen reveló su propio uso de IA y señaló problemas de precisión en las herramientas de detección."
+    }
+   }
   },
   {
    "id": "design-cursor-harness",
@@ -44536,7 +44610,29 @@
    "image": "pipeline/media/design-cursor-harness.jpg",
    "date": "2026-08-28",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "커서가 버셀 AI SDK\n하네스 어댑터로 들어왔다",
+     "body": "커서도 같은 하네스 인터페이스를 쓰게 되면서 코드 에이전트가 교체 가능해졌다."
+    },
+    "en": {
+     "headline": "Cursor joins the Vercel AI SDK\nharness as an adapter",
+     "body": "With Cursor now using the same harness interface, coding agents become interchangeable."
+    },
+    "ja": {
+     "headline": "CursorがVercel\nAI SDKに参入",
+     "body": "Cursorも同じハーネスインターフェースを使い、コードエージェントが入れ替え可能になった。"
+    },
+    "zh": {
+     "headline": "Cursor加入\nVercel AI SDK",
+     "body": "Cursor也用上了同一套harness接口，代码智能体由此可以互换。"
+    },
+    "es": {
+     "headline": "Cursor se suma al harness\ndel AI SDK de Vercel",
+     "body": "Al usar Cursor la misma interfaz de harness, los agentes de código ahora se pueden intercambiar."
+    }
+   }
   },
   {
    "id": "design-fusion-forward",
@@ -44983,6 +45079,14 @@
     "ja": {
      "headline": "ゲームQAにAI\n人は輪の中に",
      "body": "SideがModl.aiと手を組み、QAにAIを使うが判断は人に残す。"
+    },
+    "zh": {
+     "headline": "游戏QA引入AI\n人始终在环内",
+     "body": "Side与Modl.ai合作，在QA中使用AI，但判断权留给人。"
+    },
+    "es": {
+     "headline": "La IA entra en el QA de\nvideojuegos, con humanos dentro",
+     "body": "Side se asocia con Modl.ai para llevar la IA al control de calidad, dejando el juicio final a las personas."
     }
    }
   },
@@ -44998,7 +45102,29 @@
    "image": "pipeline/media/games-tencent-motus.jpg",
    "date": "2026-08-28",
    "section": "games",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Tencent가 애니메이션부터 테스트까지\nAI 툴체인을 통째로 공개했다",
+     "body": "Tencent가 3D 애니메이션 AI Motus와 자동 테스트 도구를 공개했다."
+    },
+    "en": {
+     "headline": "Tencent's AI Toolchain Spans\nFrom Animation to Testing",
+     "body": "Tencent unveiled Motus, its 3D animation AI, along with automated testing tools."
+    },
+    "ja": {
+     "headline": "Tencentが一括\nAIツール群公開",
+     "body": "Tencentが3DアニメーションAI Motusと自動テストツールを公開した。"
+    },
+    "zh": {
+     "headline": "Tencent全套\nAI工具链公开",
+     "body": "Tencent公开了3D动画AI Motus与自动测试工具。"
+    },
+    "es": {
+     "headline": "Tencent presenta toda su\ncadena de IA, de animar a probar",
+     "body": "Tencent presentó Motus, su IA de animación 3D, junto con herramientas de pruebas automatizadas."
+    }
+   }
   },
   {
    "id": "movies-ai-short-drama",
@@ -45012,7 +45138,25 @@
    "image": null,
    "date": "2026-08-28",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "전직 애니메이터와 촬영감독이\nAI 숏드라마 시스템을 짓는다",
+     "body": "애니메이터와 VFX 아티스트들이 대본부터 수정까지 맡는 숏드라마 AI를 만든다."
+    },
+    "en": {
+     "headline": "A Former Animator and a\nCinematographer Build AI Drama",
+     "body": "Animators and VFX artists are building short-drama AI that handles everything from scripts to edits."
+    },
+    "ja": {
+     "headline": "元アニメーター\nがAIドラマ製作",
+     "body": "アニメーターとVFXアーティストが脚本から修正まで担うショートドラマAIを作る。"
+    },
+    "zh": {
+     "headline": "前动画师与\n摄影师造AI剧",
+     "body": "动画师和VFX艺术家在打造一套从剧本到修改都由AI完成的短剧系统。"
+    }
+   }
   },
   {
    "id": "movies-cocomelon-ai",
@@ -45190,7 +45334,13 @@
    "image": null,
    "date": "2026-08-28",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Suno 겨눈 인디 아티스트 집단소송,\n각하 없이 증거개시로 넘어간다",
+     "body": "AI 산출물과 스트림 리핑 주장이 살아남아 Suno 집단소송이 증거개시로 넘어간다."
+    }
+   }
   },
   {
    "id": "music-umg-ai-patents",
@@ -45204,7 +45354,21 @@
    "image": null,
    "date": "2026-08-28",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Universal Music 합작사가 AI 특허\n24건 넘게 Udio와 GRAI에 내줬다",
+     "body": "Universal Music이 합작사를 통해 24건 넘는 AI 특허를 Udio와 GRAI에 내줬다."
+    },
+    "en": {
+     "headline": "Universal Music venture licenses\n24+ AI patents to Udio and GRAI",
+     "body": "Through a joint venture, Universal Music has licensed more than 24 AI patents to Udio and GRAI."
+    },
+    "es": {
+     "headline": "Filial de Universal Music cede\n24+ patentes IA a Udio y GRAI",
+     "body": "A través de una empresa conjunta, Universal Music ha licenciado más de 24 patentes de IA a Udio y GRAI."
+    }
+   }
   },
   {
    "id": "science-double-blind-eval",
@@ -45218,7 +45382,25 @@
    "image": "pipeline/media/science-double-blind-eval.jpg",
    "date": "2026-08-28",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "자기 시험지를 자기가 채점하는\nAI 벤치마크에 이중맹검을 건다",
+     "body": "DeepMind가 임상시험 이중맹검을 빌려 AI 평가를 검증하는 시범을 시작한다."
+    },
+    "ja": {
+     "headline": "自己採点AI試験に\n二重盲検導入",
+     "body": "DeepMindが臨床試験の二重盲検を借り、AI評価の検証を試みる。"
+    },
+    "zh": {
+     "headline": "自评式AI测试\n引入双盲检验",
+     "body": "DeepMind借鉴临床试验双盲法,验证AI评测的可信度。"
+    },
+    "es": {
+     "headline": "Benchmarks de IA que se\nautoevalúan pasan a doble ciego",
+     "body": "DeepMind toma prestado el diseño de doble ciego de los ensayos clínicos para validar las evaluaciones de IA."
+    }
+   }
   },
   {
    "id": "science-fluid-ai",
@@ -45232,7 +45414,25 @@
    "image": "pipeline/media/science-fluid-ai.jpg",
    "date": "2026-08-28",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "1년 반 매달린 유체역학 문제를\nAI와 함께 5주 만에 풀었다",
+     "body": "AI 조수 덕에 5주 만에 답이 나왔지만, 미묘한 오류도 함께 끼어들었다."
+    },
+    "ja": {
+     "headline": "1年半の難問を\nAIで5週間で解決",
+     "body": "AI助手のおかげで5週間で答えが出たが、微妙な誤りも混じった。"
+    },
+    "zh": {
+     "headline": "一年半的流体\n力学题AI5周解出",
+     "body": "靠AI助手帮忙,仅用5周便得出答案,却也带来了细微的错误。"
+    },
+    "es": {
+     "headline": "Un problema de fluidos de\n18 meses, resuelto en 5 semanas",
+     "body": "Gracias a un asistente de IA, la respuesta llegó en cinco semanas, pero con errores sutiles."
+    }
+   }
   },
   {
    "id": "science-protein-beyond",
@@ -45246,7 +45446,29 @@
    "image": "pipeline/media/science-protein-beyond.png",
    "date": "2026-08-28",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "자연이 이미 쓴 서열을 넘어\n단백질 설계 적중률을 올렸다",
+     "body": "MIT 연구진은 자연의 서열을 되풀이하지 않게 모델을 몰아 설계 적중률을 높였다."
+    },
+    "en": {
+     "headline": "Beyond sequences nature already\nwrote, protein design improves",
+     "body": "MIT researchers push models beyond repeating nature's sequences to raise design accuracy."
+    },
+    "ja": {
+     "headline": "自然の配列を\n超え設計精度向上",
+     "body": "MIT研究チームは自然配列への依存を抑え、設計の的中率を高めた。"
+    },
+    "zh": {
+     "headline": "超越自然已有\n序列,提升设计",
+     "body": "MIT研究团队让模型减少依赖天然序列,从而提升了设计命中率。"
+    },
+    "es": {
+     "headline": "Más allá de las secuencias\nnaturales, mejor diseño proteico",
+     "body": "Investigadores del MIT evitan que sus modelos repitan secuencias naturales, mejorando el diseño de proteínas."
+    }
+   }
   },
   {
    "id": "science-qled-ml",
@@ -45260,7 +45482,29 @@
    "image": "pipeline/media/science-qled-ml.jpg",
    "date": "2026-08-28",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "기계학습이 찾아낸 용매 배합이\n양자점 필름을 고르게 만든다",
+     "body": "기계학습이 용매 배합 공간을 뒤져 양자점 막을 균일하게 만드는 조성을 찾아냈다."
+    },
+    "en": {
+     "headline": "A solvent blend found by\nmachine learning levels QD films",
+     "body": "Machine learning searched the solvent-blend space to find a mix that makes quantum dot films uniform."
+    },
+    "ja": {
+     "headline": "機械学習が見つけた\n溶媒配合で量子点膜均一化",
+     "body": "機械学習が溶媒配合空間を探り、量子点膜を均一にする組成を見つけた。"
+    },
+    "zh": {
+     "headline": "机器学习找到\n溶剂配方让量子点均匀",
+     "body": "机器学习搜索溶剂配方空间,找出能让量子点膜更均匀的组合。"
+    },
+    "es": {
+     "headline": "Una mezcla de disolventes\nde ML nivela las películas QD",
+     "body": "El aprendizaje automático halló una mezcla de disolventes que uniforma la película de puntos cuánticos."
+    }
+   }
   },
   {
    "id": "science-solar-storm-9h",
@@ -45274,7 +45518,29 @@
    "image": "pipeline/media/science-solar-storm-9h.jpg",
    "date": "2026-08-28",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "자기장의 미세한 조짐을 읽어\n태양폭풍을 9시간 먼저 잡는다",
+     "body": "기계학습이 자기장 전조를 읽어 우주기상 예보보다 최대 9시간 빠르게 경보를 낸다."
+    },
+    "en": {
+     "headline": "Reading faint magnetic clues,\nAI spots solar storms 9h early",
+     "body": "Machine learning reads magnetic precursors to issue alerts up to nine hours before space-weather forecasts."
+    },
+    "ja": {
+     "headline": "磁場の微兆で\n太陽嵐9時間前検知",
+     "body": "機械学習が磁場の前兆を読み、宇宙天気予報より最大9時間早く警報を出す。"
+    },
+    "zh": {
+     "headline": "读磁场微兆\n提前9小时测太阳风暴",
+     "body": "机器学习读取磁场前兆,比太空天气预报提前最多9小时发出警报。"
+    },
+    "es": {
+     "headline": "Al leer señales magnéticas\nsutiles, la IA avisa 9h antes",
+     "body": "El aprendizaje automático lee precursores magnéticos y alerta hasta 9 horas antes que el pronóstico espacial."
+    }
+   }
   },
   {
    "id": "books-claude-watermark-theatre",
@@ -45287,7 +45553,21 @@
    "motif": "swatch",
    "date": "2026-08-29",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "생성 아닌 편집에 찍히는 클로드 워터마크",
+     "body": "새로 쓰지 않고 손보기만 해도 표식이 붙는 탓에 준법 시늉이라는 비판이 나온다."
+    },
+    "en": {
+     "headline": "Claude's watermark lands even\non edits, not just new text",
+     "body": "Because even touch-ups, not just new writing, get flagged, critics call it compliance theater."
+    },
+    "ja": {
+     "headline": "生成でなく\n編集にも電子透かし",
+     "body": "新規作成でなく編集だけでも印が付き、見せかけの順守と批判される。"
+    }
+   }
   },
   {
    "id": "books-ftc-book-destruction",

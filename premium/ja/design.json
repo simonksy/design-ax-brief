@@ -3583,6 +3583,35 @@
           "x": "出典:O'Reilly Radar — The Design System as the Control Plane for AI-Generated UI, Niharika P. Pujari、2026-08-25。"
         }
       ]
+    },
+    "design/design-cursor-harness": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel AI SDKのハーネスレイヤーがCursorに対応した。公式アダプター@ai-sdk/harness-cursorを通じてだ。ハーネスレイヤーを使うと、異なるコーディングエージェントを同じHarnessAgentインターフェースで動かせる。アプリケーションのコードに手を加えず、エージェントだけを入れ替えればよい。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1n6Al2Mlj10A9dU0k4zUpy/b777fa1e7e2bc5191f17cdf5372114fd/cursor_ai_sdk_harness_adapter_og_card_og_card.jpg",
+          "cap": "Vercel Changelog — Cursor AI SDK harness adapter"
+        },
+        {
+          "t": "p",
+          "x": "使い方はHarnessAgentにcursorを渡すだけだ。@ai-sdk/harness/agentからHarnessAgentを、@ai-sdk/harness-cursorからcursorを取り込んだあと、new HarnessAgent({ harness: cursor })で作る。Cursorを実行するHarnessAgentができる。"
+        },
+        {
+          "t": "p",
+          "x": "内部では、アダプターが@ai-sdk/harness-acpを使い、エージェントクライアントプロトコル（ACP）でCursorをHarnessAgentに接続する。"
+        },
+        {
+          "t": "p",
+          "x": "対応ハーネスは、Cursorを加えてClaude Code、Cline、Codex、Deep Agents、Grok Build、OpenCode、Pyだ。今後さらに追加される。始めるにはCursorハーネスのドキュメントを見ればよい。"
+        },
+        {
+          "t": "p",
+          "x": "出典：Vercel Changelog — Cursor is now available in the AI SDK harness layer, Felix Arntz, 2026-08-27."
+        }
+      ]
     }
   }
 }

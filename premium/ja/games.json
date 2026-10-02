@@ -3234,6 +3234,62 @@
           "x": "ただ、今この技術が対応できるゲームは限られている。Sideの最高執行責任者Oliver Deslandesは率直だった。「パズル、カードゲーム、あまり速くないものです。繰り返し可能なメカニクスがあるもの。格闘ゲームのような非常に速いものは、もう少し先の話です」。3Dのオープンワールドではなく、小さな体験向けだ。"
         }
       ]
+    },
+    "games/games-tencent-motus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech.jpg",
+          "cap": "Tencent Games Central Tech。画像提供:Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Tencent Games Central Techが、Gamescomで統合ブランドとして初めて姿を見せた。コンテンツ制作、ゲームプレイ体験、長期的なライブ運営にまたがる自社技術群を携えての登場だ。Gamescom 2026のショーケースに上がったのはMotus、GIGA、MagicDawn、Anti-Cheat Expert、GVoice、WeTestだ。"
+        },
+        {
+          "t": "p",
+          "x": "中心にあるのはMotusだ。3Dキャラクターアニメーションを最初から最後まで扱うAIパイプラインで、自社生成のアニメーション基盤モデルの上に成り立っている。これまで別々に動いていたリギング、スキニング、モーション生成、モーション補正、リアルタイムのキャラクター相互作用を一つにつなぐ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Motus.jpg",
+          "cap": "3Dキャラクターアニメーションパイプラインのmotus。画像提供:Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "モーションはテキストプロンプトでも、映像でも、キーフレームでも作れる。複数キャラクターの相互作用は戦闘や協力、社交的な動きまで扱う。キャラクターのトポロジーを解析し、数秒でプロダクションにそのまま使えるスケルトンを作り、筋肉や衣装といった部位にスキニングウェイトを付ける。"
+        },
+        {
+          "t": "p",
+          "x": "生成だけのツールではない。補正機能が、震え、メッシュの貫通、関節の異常、足の滑りといった問題を自分で見つけて直す。パイプラインの終端では、音声やテキストが表情や身振り、反応をリアルタイムに動かす。Tencentは知的なNPC、デジタルヒューマン、バーチャルホストまで見据えている。"
+        },
+        {
+          "t": "p",
+          "x": "Motusの技術リーダーでプリンシパルリサーチャーのZijiao Zengが、8月24日にGamescom Devの「Breathing Life into Geometry 2.0」セッションでこのパイプラインを説明した。会場ではテキストプロンプトを3Dアニメーションに変えるデモも披露された。Tencentによれば、Motus技術はすでにGame for Peace、PUBG MOBILE、Delta Force、Honor of Kings、Roco Kingdom、League of Legends、Teamfight Tacticsに使われている。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Tencent-Games-Central-Tech-Onsite-1.jpg",
+          "cap": "Gamescom 2026の会場。画像提供:Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Central Techのラインアップはアニメーションの先にも広がる。GIGAはゲームと仮想世界を汎用AIエージェントの訓練場として使う。視覚に基づく意思決定、言語と行動の整合、リアルタイムの競争的行動に焦点を当てている。MagicDawnはレンダリング技術にAIとクラウドコンピューティングを重ね、性能、画質、オーディオを扱う。TencentはRoco Kingdomを例に挙げた。グローバルイルミネーションとクロスプラットフォーム対応のおかげで、ブラウザゲームが64平方キロメートルのオープンワールドへ移行したという説明だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/MagicDawn.jpg",
+          "cap": "レンダリングにAIとクラウドを重ねたMagicDawn。画像提供:Tencent Games"
+        },
+        {
+          "t": "p",
+          "x": "Anti-Cheat Expertはチート阻止、クライアント保護、インゲーム経済のリスク、脅威インテリジェンスを担う。GVoiceはAIによるノイズ除去と独自コーデック、リアルタイム翻訳を備えた低遅延の音声通信だ。WeTest Acorn AI Studioは自律エージェントが自らゲームをプレイし、ジャンルやプラットフォームを問わず問題を見つけ出す。"
+        },
+        {
+          "t": "p",
+          "x": "TencentがGamescom 2026で発したメッセージは、これらの技術がデモ用の展示を超えて、実際の開発パイプラインで再利用できる部品になりつつあるということだ。ワールドモデルとリアルタイムのインタラクティブ動画の研究も続けていく。その技術を今後どのゲームに使うかはまだ明らかにしていない。"
+        }
+      ]
     }
   }
 }

@@ -2937,6 +2937,79 @@
           "x": "For publishers, this is an issue that moves contracts and distribution strategy all at once. Where to draw the line in rights negotiations has become a point of contention again."
         }
       ]
+    },
+    "books/books-claude-watermark-theatre": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Starting August 2, Anthropic adds an invisible watermark to every piece of text and file Claude produces. The move is meant to comply with the EU AI Act's transparency provisions, but it applies worldwide, not just in Europe. The method follows SynthID Text, which Google DeepMind released in 2024."
+        },
+        {
+          "t": "p",
+          "x": "The controversy starts with where the mark lands. Even when Claude is only asked to edit — proofreading, translating, or summarizing — rather than write something new, the output still carries the watermark. Anthropic itself has stressed that the mark is only a signal, not evidence. Detecting it only tells you the text passed through Claude at some point; it doesn't say who wrote it."
+        },
+        {
+          "t": "p",
+          "x": "Article 50 of the EU AI Act actually states that this obligation does not apply when AI merely assists with standard editing or doesn't substantially alter the input. Watermarking editing assistance as well goes beyond what the law requires — and that's where the compliance theater critique comes in."
+        },
+        {
+          "t": "p",
+          "x": "The provision itself carries real weight. Article 50's transparency obligation took effect on August 2. Violations carry a fine of up to €15 million or 3% of global annual revenue, whichever is greater."
+        },
+        {
+          "t": "p",
+          "x": "There's a gap in the opposite direction too. If a sentence is heavily rewritten, translated into another language, or very short, even genuine Claude-written text won't register a mark. The same goes for output from older models that never watermarked at all."
+        },
+        {
+          "t": "p",
+          "x": "This article by Jane Friedman is available in full only to paid subscribers."
+        }
+      ]
+    },
+    "books/books-scholarly-kitchen-ai-use": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1448631861.jpg",
+          "cap": "The Scholarly Kitchen"
+        },
+        {
+          "t": "p",
+          "x": "Almost nothing is certain about the value and future of AI in scholarly communication. David Crotty writes that there is exactly one certainty: people who hate AI really hate it, and they want to make sure you know it. The Scholarly Kitchen (TSK) has spent recent months learning about AI, and it has laid out what it's learned along with its current policy."
+        },
+        {
+          "t": "p",
+          "x": "A few months ago, there was a guest post that ran an AI-generated image sent in by a contributor, unchanged. The reaction was fast and largely heated. No one seemed interested in the content of the piece itself. All anyone talked about was the “slop” image — which wasn't especially excessive or wrong. Had it not been labeled as AI-generated, most people probably would have scrolled right past it. In the end, it was swapped for a much more boring human-made image."
+        },
+        {
+          "t": "p",
+          "x": "After that, reader emails started coming in. At first it was about once a month; now it's several a day. They say a TSK piece “seems” to have been written by AI, or that running some AI detector somewhere produced a result saying AI wrote it."
+        },
+        {
+          "t": "p",
+          "x": "One such complaint became the occasion for TSK to put together a piece with Nature News. Reporter Richard Van Noorden dug in and found that tools like Pangram and GPTZero have sharply improved their accuracy, but plenty of low-quality tools are still on the market. More importantly, even the best tools can't tell AI-generated writing apart from AI-polished writing. Text written by AI from scratch, text written entirely by a human and only translated into English by AI, and text where only the proofreading was handed to AI all get slapped with the same “AI-generated” label."
+        },
+        {
+          "t": "p",
+          "x": "Nature News put it this way: “No matter how good AI detection gets, there's a limit it can't escape. Researchers say the software can flag where AI was involved in a piece of writing, but it can't prove how it was used or judge whether that use is ethically acceptable.”"
+        },
+        {
+          "t": "p",
+          "x": "One TSK writer ran their own report through Pangram. It got the number right — 9% AI-generated — but it misidentified which parts were AI and which were human."
+        },
+        {
+          "t": "p",
+          "x": "TSK's policy is this: AI tools can't be listed as authors. AI-generated images don't get published unless there's a specific reason to. That said, writers, editors, and reviewers are allowed to use AI for drafting and editing, as long as they transparently record that they used it. Disclosure has been left to writers' discretion, but as Avi Staiman has pointed out in two recent pieces, writers are reluctant to make that kind of declaration. His point was that banning the tools outright just means people use them anyway and lie about it. So now TSK asks for disclosure directly."
+        },
+        {
+          "t": "p",
+          "x": "There's also a new bias created by the AI backlash. Instead of actually evaluating an argument you don't like, declaring it “AI” lets you skip the thinking altogether. Papers with awkward spelling and grammar getting pushed aside in review regardless of the quality of the research is an old problem, and there was hope that AI would strip that bias away for non-native English researchers. Instead, a climate of rejecting anything AI has touched has created one more bias."
+        },
+        {
+          "t": "p",
+          "x": "Crotty himself doesn't use AI tools at all. To him, writing is thinking. Outsourcing the writing, he said, amounts to outsourcing the thinking. What worries him is the rise of writing that's ordinary and all looks alike. Large language models are machines that predict the next word, so they pull everything toward the middle. As with research, value in writing sits at the extremes, and if everything gets pulled into the middle of a bell curve, all that's left is homogenization and missed discoveries."
+        }
+      ]
     }
   }
 }

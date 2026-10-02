@@ -3147,6 +3147,141 @@
           "x": "The study, published in Science, shows how quickly classical simulation of quantum physics is advancing, and how the contest between classical and quantum computing pushes that progress forward. Tindall and his colleagues maintain an open-source tensor network quantum simulator library, and are applying TN–BP to interacting electron systems like the Hubbard model while extending it to finite-temperature problems."
         }
       ]
+    },
+    "science/science-protein-beyond": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202608/Keating%20Lab_2026%20POTTSMPNN.png?itok=aGrABxck",
+          "cap": "Five sequence-structure pairs for one protein. Green is the natural protein; the rest come from designed sequences. Image: Lillian Eden/MIT Department of Biology"
+        },
+        {
+          "t": "p",
+          "x": "A protein's function is determined by its structure, and its structure — the way the protein folds — is determined by the sequence of amino acids, the units that make it up."
+        },
+        {
+          "t": "p",
+          "x": "Many methods for designing new proteins, including those meant to bind disease-causing molecules inside cells, follow two steps. First the structure is set, then a machine-learning framework generates a list of sequences likely to adopt that structure."
+        },
+        {
+          "t": "p",
+          "x": "In nature, different amino acid sequences often fold into the same structure. Conversely, a single sequence can adopt different structures depending on a protein's flexibility or functional triggers. So the challenge in designing new proteins with AI lies in getting the AI to ‘see’ that multiple sequences can take on the same fold."
+        },
+        {
+          "t": "p",
+          "x": "“This field has long measured success by asking whether a model reproduces the protein sequences that evolution happened to select. Our work shows that's not the best metric for protein design,” said Amy E. Keating, head of MIT's Department of Biology and senior author of the paper, recently published in PNAS."
+        },
+        {
+          "t": "p",
+          "x": "A new machine-learning framework developed in the department, PottsMPNN, embraces the physical principles that govern a protein's structure and stability. That improves sequence generation and boosts the ability to predict how mutations will affect stability — meaning the model better understands the sequence-energy landscape, the relationship between each amino acid's identity and protein stability."
+        },
+        {
+          "t": "p",
+          "x": "Layering this framework onto a protein design pipeline makes it possible to design structurally sound proteins with sequences that resemble no natural protein at all."
+        },
+        {
+          "t": "p",
+          "x": "“If you're thinking about a completely new, designed structure, there's no natural sequence to compare it to,” said graduate student and first author Foster Birnbaum. “What we actually care about is how likely the generated sequence is to fold into the desired structure, how well the model understands the sequence-energy landscape, and how well it predicts the effect of mutations on protein stability.”"
+        },
+        {
+          "t": "p",
+          "x": "Birnbaum first became interested in ‘noise’ — a strategy of mixing variations into protein structures during training. Noise curbs the model's tendency to overly mimic natural sequences and widens the range of structures it can generate sequences for."
+        },
+        {
+          "t": "p",
+          "x": "PottsMPNN also uses pairwise distributions to capture interactions between amino acids. Accounting for the physical interactions of all 20 possible sequence choices at two positions in a protein is why it models the sequence-energy landscape more accurately than other methods."
+        },
+        {
+          "t": "p",
+          "x": "The researchers fed evolutionarily related sets of sequences into PottsMPNN's training, teaching the model how different sequences can adopt the same folded structure."
+        },
+        {
+          "t": "p",
+          "x": "Birnbaum acknowledges that drawing on evolutionary information still relies, in a sense, on natural sequences. Even so, PottsMPNN showed that the less the model leans on natural sequences, the better its structural consistency and energy predictions become for novel proteins."
+        },
+        {
+          "t": "p",
+          "x": "“Once you can design whatever protein you want, it opens up some slightly scary bioengineering possibilities,” Birnbaum said. “It's a hard problem. Still, I'm genuinely optimistic about the progress of biology this century.”"
+        },
+        {
+          "t": "p",
+          "x": "Keating sums it up this way: “Our method pushes the field toward designing useful proteins that don't exist in nature for a range of applications, while also laying a sturdier foundation for future progress.”"
+        }
+      ]
+    },
+    "science/science-qled-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/07/spectrum-web-9612716-iStock_yuyanga.jpg",
+          "cap": "Machine learning found a solvent blend that produces highly uniform quantum dot films. Image: Physics World/iStock_yuyanga"
+        },
+        {
+          "t": "p",
+          "x": "Quantum dot LEDs (QLEDs) draw interest from the display and lighting industries because they produce bright, highly color-pure light, and could be made more cheaply through solution processing. But making high-performance QLEDs remains difficult, since quantum dots need to be evenly spread throughout a densely packed film. An uneven film lowers efficiency and causes devices to fail faster."
+        },
+        {
+          "t": "p",
+          "x": "In this study, machine learning was used to find the solvent conditions that produce the most uniform quantum dot films. Various solvents were characterized using five key solvent parameters that affect how quantum dots settle as the solvent evaporates. Film uniformity was measured with atomic force microscopy, which provides detailed information on surface morphology and roughness."
+        },
+        {
+          "t": "p",
+          "x": "Three machine-learning models were trained to predict film uniformity from solvent properties. Support Vector Regression was the most accurate of the three, and that model was used to select the optimal mixed-solvent blend. Grazing-incidence small-angle X-ray scattering (GISAXS) confirmed that the resulting film packed quantum dots more uniformly."
+        },
+        {
+          "t": "p",
+          "x": "QLEDs made with the optimized solvent blend had higher efficiency and longer operational lifetimes than devices made with a single solvent. The study shows that film homogeneity is a decisive factor in QLED performance, while also demonstrating the usefulness of machine learning as a tool for optimizing solution-processed optoelectronic devices."
+        },
+        {
+          "t": "p",
+          "x": "The paper is Beomsoo Chun et al., “Machine-learning-enabled solvent engineering for uniform quantum dot packing in efficient and stable quantum-dot light-emitting diodes,” Rep. Prog. Phys. 89 078002 (2026)."
+        }
+      ]
+    },
+    "science/science-solar-storm-9h": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/14972_Active_Region_Short_Horiz_ProRes_1920x1080_2997_ed.jpg_750_20260827_011316.jpg",
+          "cap": "An AI tool built by researchers at New Jersey Institute of Technology catches signs of a solar storm almost nine hours before it reaches the surface. Image: NASA Goddard Space Flight Center/SDO"
+        },
+        {
+          "t": "p",
+          "x": "When we think of weather forecasting, we instinctively picture Earth's weather — whether it will rain or clear up. We rarely think of weather beyond Earth, so-called space weather. Space weather sometimes shows up as awe-inspiring auroras at high northern and southern latitudes, but its harmful everyday effects are often forgotten — including communication satellites and ground stations going down. Forecasting incoming space weather to prepare in advance has long been a problem researchers couldn't crack."
+        },
+        {
+          "t": "p",
+          "x": "Now they've gotten a step closer. Researchers introduced a new AI model called EarlyDetect in a paper recently published in the Journal of Geophysical Research: Machine Learning and Computation. As the name suggests, EarlyDetect's main goal is to observe the Sun's surface and magnetic field to catch precursor signals of active regions — known to be where space weather activity begins."
+        },
+        {
+          "t": "p",
+          "x": "“The hardest part is that active regions start growing beneath the Sun's visible surface, where the magnetic structure can't be directly observed,” said Dr. Alexander Kosovichev, Distinguished Professor of Physics at New Jersey Institute of Technology (NJIT) and co-principal investigator and co-author of the project's paper. “Instead, we look at tiny changes in the magnetic field and shifting patterns in sound waves that constantly pass through the Sun's interior. It's a bit like catching a rhythm slightly off inside a very noisy orchestra.”"
+        },
+        {
+          "t": "p",
+          "x": "To test EarlyDetect, the researchers fed it previously collected data from the Helioseismic and Magnetic Imager aboard NASA's Solar Dynamics Observatory (SDO/HMI). The approach is similar to large language models (LLMs), which also need to be fed information to learn from, but EarlyDetect was designed with an AI framework called the transformer architecture — the same architecture that powers LLMs like ChatGPT or Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Like an LLM, EarlyDetect was trained on SDO/HMI data and then let loose to observe active regions it hadn't seen during training. As a result, the researchers confirmed that EarlyDetect catches precursor signals an average of 9.24 hours before an active region becomes visible along with space weather activity."
+        },
+        {
+          "t": "p",
+          "x": "“Machine learning isn't yet widely used for forecasting solar activity,” said Dr. Mengjia Xu, assistant professor of data science at NJIT and principal investigator and co-author of the project's paper. “Our research shows that advanced machine-learning models open new possibilities for future space weather prediction.”"
+        },
+        {
+          "t": "p",
+          "x": "Perhaps the most famous space weather event in modern history is the Carrington Event. Occurring from September 1 to 2, 1859, it produced auroras visible around the world and collapsed telegraph networks across the globe. Telegraph operators were shocked, telegraph machines kept running even after being disconnected from power, and telegraph paper even caught fire."
+        },
+        {
+          "t": "p",
+          "x": "The event is named after British astronomer Richard Carrington, who discovered the solar flare that caused the chaos. He observed it on the morning of September 1. The flare's intensity he witnessed was later described as equivalent to 10 billion atomic bombs. The flare was so powerful that within hours it threw the entire planet into turmoil, and some people believed the end of the world had come."
+        },
+        {
+          "t": "p",
+          "x": "Whether EarlyDetect will help space weather forecasting over the coming decades is a question only time can answer."
+        }
+      ]
     }
   }
 }

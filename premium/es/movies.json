@@ -2926,6 +2926,79 @@
           "x": "Chris Culvenor, Paul Franklin, Rikki Proost, David Tibballs, Allison Holloway y Emer Harkin son los productores ejecutivos. Se estrena el 23 de septiembre."
         }
       ]
+    },
+    "movies/movies-lineo-producers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lineo, orientado a la producción de comerciales, ha lanzado una plataforma de gestión de producción que lleva un trabajo desde la primera licitación hasta el wrap final en un solo lugar. Cubre presupuestos, calendarios, cartas de licitación, paquetes de licitación, órdenes de compra, nóminas y libros de caja menor, con el gasto real visible para todo el equipo en tiempo real. La crearon los productores en activo Corwin Carroll, Erik McCaslin y Austin Beckford."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Calendar_UI_Laptop-1.jpg",
+          "cap": "Pantalla del calendario de producción de Lineo."
+        },
+        {
+          "t": "p",
+          "x": "“La producción de comerciales nunca ha estado tan exprimida como ahora. Los entregables crecen y los presupuestos se reducen,” dice el cofundador Carroll. “La única salida es trabajar de forma más inteligente. Tras más de un año de uso por productores ejecutivos, productores de línea y coordinadores, Lineo ha reducido el tiempo de licitación, lo que nos permite trabajar tres veces más rápido. Ese tiempo ahorrado lo devolvemos al propio trabajo.”"
+        },
+        {
+          "t": "p",
+          "x": "Los equipos de producción suelen funcionar sobre una docena de herramientas que no se comunican entre sí. Lineo dice haber condensado todo eso en una sola pantalla operativa. En la etapa de licitación, los productores crean presupuestos editados colaborativamente en tiempo real usando los formatos AICP/APA que ya utilizan, con soporte para las 20 principales monedas del mundo. La etapa de planificación reúne calendarios y recursos en una sola pantalla para que todo el equipo vea lo mismo."
+        },
+        {
+          "t": "p",
+          "x": "En la etapa de paquete, se recupera un presupuesto anterior, se pule la carta de licitación con IA, se aplica la marca al calendario y se exporta un único paquete de licitación en PDF sin salir de la aplicación. En la etapa de liquidación, la IA escanea y analiza órdenes de compra, nóminas y caja menor para registrarlas, y el resultado se convierte en cifras de gasto real que el software de contabilidad puede leer."
+        },
+        {
+          "t": "p",
+          "x": "Production Assistant es una IA que extrae los datos de este trabajo al instante. “Lista de órdenes de compra impagadas por encima de 5.000 dólares.” “¿Cuál es el plazo para la declaración Taft-Hartley?” Se pueden subir especificaciones de licitación, guiones y tratamientos y preguntar directamente. También fuera del asistente, la IA lee facturas, documentos de nómina y recibos para completar por sí sola los libros de órdenes de compra, nómina y caja menor, eliminando la ventana que antes producía más errores durante el wrap."
+        },
+        {
+          "t": "p",
+          "x": "La app de escritorio para macOS funciona completamente sin conexión. Se puede usar en un avión o en locación, y se sincroniza en cuanto vuelve la conexión. La seguridad incluye cifrado de extremo a extremo, aislamiento de inquilinos con permisos a nivel de fila, pagos gestionados solo a través de Stripe, procesamiento de documentos por IA que no conserva datos, y borrado automático de información personal."
+        },
+        {
+          "t": "p",
+          "x": "Los precios se dividen en un plan para productores individuales y otro para equipos de producción. Los próximos complementos incluyen ReelFlow, para compartir reels y bibliotecas con colaboradores, y Accounting Sync, para exportar directamente a Xero y QuickBooks."
+        },
+        {
+          "t": "p",
+          "x": "“Tras llevar mucho tiempo dirigiendo una productora, lo que más necesitaba era que los propietarios, los directivos y la contabilidad vieran la situación en tiempo real,” explica el cofundador Beckford. “Porque enterarse un mes después ya no deja nada que se pueda hacer.”"
+        }
+      ]
+    },
+    "movies/movies-unreleased-video-models": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "YQTduCzNoqw"
+        },
+        {
+          "t": "p",
+          "x": "Dos modelos de video de IA no identificados han aparecido en la prueba ciega de Artificial Analysis Arena, con los nombres en clave Polaris y Vega. Todavía nadie ha confirmado quién los hizo."
+        },
+        {
+          "t": "p",
+          "x": "No hay atribución oficial. Pero, a juzgar por el momento y la calidad de los resultados, el presentador supone que uno de los dos es probablemente el modelo de video que Meta lleva tiempo anunciando. Podría ser Kling 4, o podría venir de algún lugar que nadie esperaba. Brent Lynch fue el primero en detectar y publicar sobre los dos modelos."
+        },
+        {
+          "t": "p",
+          "x": "El video desglosa uno por uno los resultados aparecidos hasta ahora, repasando la consistencia de personajes a través de varios planos, la física, el texto en pantalla, el audio nativo, e incluso un Batman bebé sin censura alguna. Al final, responde cuál elegiría en un enfrentamiento directo entre ambos."
+        },
+        {
+          "t": "p",
+          "x": "Las pruebas del lado de Polaris pasan por un piloto sudando, un perro luchando con la física, texto en pancartas y un escalador de rocas. Vega atraviesa una sala de espejos y también habla italiano, pero muestra problemas con el texto. La comparación piloto contra piloto se convierte en el criterio decisivo."
+        },
+        {
+          "t": "p",
+          "x": "La segunda mitad trata sobre StillsLab, una biblioteca gratuita de referencia de planos creada según la forma real de trabajar de los cineastas de IA, en la que cada fotograma fijo lleva una paleta de colores con códigos hexadecimales e información de cámara y lente."
+        },
+        {
+          "t": "p",
+          "x": "La función que el presentador señala como algo que no ha visto en ningún otro lugar es la búsqueda visual: se introduce tu propia creación generada por IA y encuentra planos de películas reales de la misma familia visual. También muestra un flujo de trabajo de subir capturas de pantalla a un lienzo de Flora y encadenarlas con prompts. El precio realmente es gratis."
+        }
+      ]
     }
   }
 }

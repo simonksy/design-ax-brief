@@ -9227,6 +9227,35 @@
           "x": "출처: O'Reilly Radar — The Design System as the Control Plane for AI-Generated UI, Niharika P. Pujari, 2026-08-25."
         }
       ]
+    },
+    "design/design-cursor-harness": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "버셀 AI SDK의 하네스 레이어가 커서를 지원한다. 공식 어댑터 @ai-sdk/harness-cursor를 통해서다. 하네스 레이어를 쓰면 서로 다른 코딩 에이전트를 같은 HarnessAgent 인터페이스로 돌린다. 애플리케이션 코드를 손대지 않고 에이전트만 갈아 끼우면 된다."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1n6Al2Mlj10A9dU0k4zUpy/b777fa1e7e2bc5191f17cdf5372114fd/cursor_ai_sdk_harness_adapter_og_card_og_card.jpg",
+          "cap": "Vercel Changelog — Cursor AI SDK harness adapter"
+        },
+        {
+          "t": "p",
+          "x": "쓰는 법은 HarnessAgent에 cursor를 넘기는 것뿐이다. @ai-sdk/harness/agent에서 HarnessAgent를, @ai-sdk/harness-cursor에서 cursor를 가져온 다음 new HarnessAgent({ harness: cursor })로 만든다. 커서를 실행하는 HarnessAgent가 생긴다."
+        },
+        {
+          "t": "p",
+          "x": "안쪽에서는 어댑터가 @ai-sdk/harness-acp를 써서 에이전트 클라이언트 프로토콜(ACP)로 커서를 HarnessAgent에 연결한다."
+        },
+        {
+          "t": "p",
+          "x": "지원 하네스는 커서를 더해 클로드 코드, 클라인, 코덱스, 딥 에이전츠, 그록 빌드, 오픈코드, 파이다. 곧 더 붙는다. 시작하려면 커서 하네스 문서를 보면 된다."
+        },
+        {
+          "t": "p",
+          "x": "출처: Vercel Changelog — Cursor is now available in the AI SDK harness layer, Felix Arntz, 2026-08-27."
+        }
+      ]
     }
   }
 }

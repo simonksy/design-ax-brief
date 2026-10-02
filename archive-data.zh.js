@@ -17195,9 +17195,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "생성 아닌 편집에 찍히는 클로드 워터마크",
-  "body": "새로 쓰지 않고 손보기만 해도 표식이 붙는 탓에 준법 시늉이라는 비판이 나온다.",
-  "lang": "ko",
+  "headline": "Claude's watermark lands even\non edits, not just new text",
+  "body": "Because even touch-ups, not just new writing, get flagged, critics call it compliance theater.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17211,10 +17211,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "자기장의 미세한 조짐을 읽어\n태양폭풍을 9시간 먼저 잡는다",
-  "body": "기계학습이 자기장 전조를 읽어 우주기상 예보보다 최대 9시간 빠르게 경보를 낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "读磁场微兆\n提前9小时测太阳风暴",
+  "body": "机器学习读取磁场前兆,比太空天气预报提前最多9小时发出警报。",
+  "lang": "zh"
  },
  {
   "id": "science-qled-ml",
@@ -17227,10 +17226,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "기계학습이 찾아낸 용매 배합이\n양자점 필름을 고르게 만든다",
-  "body": "기계학습이 용매 배합 공간을 뒤져 양자점 막을 균일하게 만드는 조성을 찾아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "机器学习找到\n溶剂配方让量子点均匀",
+  "body": "机器学习搜索溶剂配方空间,找出能让量子点膜更均匀的组合。",
+  "lang": "zh"
  },
  {
   "id": "science-protein-beyond",
@@ -17243,10 +17241,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "자연이 이미 쓴 서열을 넘어\n단백질 설계 적중률을 올렸다",
-  "body": "MIT 연구진은 자연의 서열을 되풀이하지 않게 모델을 몰아 설계 적중률을 높였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "超越自然已有\n序列,提升设计",
+  "body": "MIT研究团队让模型减少依赖天然序列,从而提升了设计命中率。",
+  "lang": "zh"
  },
  {
   "id": "science-fluid-ai",
@@ -17259,10 +17256,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "1년 반 매달린 유체역학 문제를\nAI와 함께 5주 만에 풀었다",
-  "body": "AI 조수 덕에 5주 만에 답이 나왔지만, 미묘한 오류도 함께 끼어들었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一年半的流体\n力学题AI5周解出",
+  "body": "靠AI助手帮忙,仅用5周便得出答案,却也带来了细微的错误。",
+  "lang": "zh"
  },
  {
   "id": "science-double-blind-eval",
@@ -17275,10 +17271,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "자기 시험지를 자기가 채점하는\nAI 벤치마크에 이중맹검을 건다",
-  "body": "DeepMind가 임상시험 이중맹검을 빌려 AI 평가를 검증하는 시범을 시작한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "自评式AI测试\n引入双盲检验",
+  "body": "DeepMind借鉴临床试验双盲法,验证AI评测的可信度。",
+  "lang": "zh"
  },
  {
   "id": "music-umg-ai-patents",
@@ -17291,9 +17286,9 @@
   "date": "2026-08-28",
   "section": "music",
   "has_full": true,
-  "headline": "Universal Music 합작사가 AI 특허\n24건 넘게 Udio와 GRAI에 내줬다",
-  "body": "Universal Music이 합작사를 통해 24건 넘는 AI 특허를 Udio와 GRAI에 내줬다.",
-  "lang": "ko",
+  "headline": "Universal Music venture licenses\n24+ AI patents to Udio and GRAI",
+  "body": "Through a joint venture, Universal Music has licensed more than 24 AI patents to Udio and GRAI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17323,9 +17318,9 @@
   "date": "2026-08-28",
   "section": "music",
   "has_full": true,
-  "headline": "Neural DSP가 Quad Cortex에 더한\nDevice Presets와 가상 장비 8종",
-  "body": "CorOS 4.1.0이 Device Presets와 가상 장비 8종을 더해 톤 만드는 시간을 줄인다.",
-  "lang": "ko",
+  "headline": "Neural DSP adds to Quad Cortex\nDevice Presets, 8 new devices",
+  "body": "CorOS 4.1.0 adds Device Presets and 8 new virtual devices, cutting down tone-building time.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17339,10 +17334,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "AI로 되살린 진 와일더의 목소리가\n넷플릭스 예능을 진행한다",
-  "body": "넷플릭스 경연 예능 예고편에서 AI로 복원한 진 와일더의 목소리가 진행을 맡는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI复活之声\n主持Netflix节目",
+  "body": "Netflix竞技综艺预告片中,由AI复原的吉恩·怀尔德之声担任主持。",
+  "lang": "zh"
  },
  {
   "id": "movies-scantic-3dgs",
@@ -17355,10 +17349,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "Scantic, 아이폰 안에서\n가우시안 스플랫을 만든다",
-  "body": "Scantic은 클라우드 없이 아이폰에서 3DGS 스캔을 만들고 기본 앱은 무료다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Scantic让\niPhone生成高斯溅射",
+  "body": "Scantic无需云端即可在iPhone上生成3DGS扫描,基础版免费。",
+  "lang": "zh"
  },
  {
   "id": "movies-media-composer-2026-8",
@@ -17371,10 +17364,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "Media Composer 2026.8,\nAI 도구와 Ready to Edit",
-  "body": "IBC2026을 앞두고 공유 프로젝트 옵션과 새 AI 편집 도구가 함께 실렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Media Composer\n2026.8新AI编辑",
+  "body": "IBC2026前夕,新版本带来共享项目选项和全新AI编辑工具Ready to Edit。",
+  "lang": "zh"
  },
  {
   "id": "movies-cocomelon-ai",
@@ -17387,9 +17379,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "코코멜론 만드는 Moonbug,\n아티스트에게 AI 실험을 주문하다",
-  "body": "코코멜론 제작사 Moonbug가 AI 도입을 알리며 사람이 늘 개입한다고 밝혔다.",
-  "lang": "ko",
+  "headline": "Moonbug, maker of Cocomelon,\ntells artists to test AI",
+  "body": "Moonbug, the studio behind Cocomelon, said it is adopting AI while keeping a human always in the loop.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17631,10 +17623,9 @@
   "date": "2026-08-28",
   "section": "design",
   "has_full": true,
-  "headline": "커서가 버셀 AI SDK\n하네스 어댑터로 들어왔다",
-  "body": "커서도 같은 하네스 인터페이스를 쓰게 되면서 코드 에이전트가 교체 가능해졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Cursor加入\nVercel AI SDK",
+  "body": "Cursor也用上了同一套harness接口，代码智能体由此可以互换。",
+  "lang": "zh"
  },
  {
   "id": "books-scholarly-kitchen-ai-use",
@@ -17647,10 +17638,9 @@
   "date": "2026-08-28",
   "section": "books",
   "has_full": true,
-  "headline": "AI 사용을 먼저 밝힌 편집실",
-  "body": "스칼라리 키친이 자체 AI 사용을 공개하며 탐지 도구의 정확도 문제를 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "率先公开\nAI使用的编辑部",
+  "body": "The Scholarly Kitchen公开自身AI使用情况，并指出检测工具的准确度问题。",
+  "lang": "zh"
  },
  {
   "id": "books-google-expert-intelligence",
@@ -17663,10 +17653,9 @@
   "date": "2026-08-28",
   "section": "books",
   "has_full": true,
-  "headline": "Google opens up Q&A\naccess for e-books",
-  "body": "Readers can now ask direct questions of more than 100,000 e-books bought on Google Play.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "Google开放\n电子书问答功能",
+  "body": "用户现在可以直接向Google Play购买的10万多种电子书提问。",
+  "lang": "zh"
  },
  {
   "id": "books-amazon-vgt3-scanning",

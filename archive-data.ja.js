@@ -17191,10 +17191,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "생성 아닌 편집에 찍히는 클로드 워터마크",
-  "body": "새로 쓰지 않고 손보기만 해도 표식이 붙는 탓에 준법 시늉이라는 비판이 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "生成でなく\n編集にも電子透かし",
+  "body": "新規作成でなく編集だけでも印が付き、見せかけの順守と批判される。",
+  "lang": "ja"
  },
  {
   "id": "science-solar-storm-9h",
@@ -17207,10 +17206,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "자기장의 미세한 조짐을 읽어\n태양폭풍을 9시간 먼저 잡는다",
-  "body": "기계학습이 자기장 전조를 읽어 우주기상 예보보다 최대 9시간 빠르게 경보를 낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "磁場の微兆で\n太陽嵐9時間前検知",
+  "body": "機械学習が磁場の前兆を読み、宇宙天気予報より最大9時間早く警報を出す。",
+  "lang": "ja"
  },
  {
   "id": "science-qled-ml",
@@ -17223,10 +17221,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "기계학습이 찾아낸 용매 배합이\n양자점 필름을 고르게 만든다",
-  "body": "기계학습이 용매 배합 공간을 뒤져 양자점 막을 균일하게 만드는 조성을 찾아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "機械学習が見つけた\n溶媒配合で量子点膜均一化",
+  "body": "機械学習が溶媒配合空間を探り、量子点膜を均一にする組成を見つけた。",
+  "lang": "ja"
  },
  {
   "id": "science-protein-beyond",
@@ -17239,10 +17236,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "자연이 이미 쓴 서열을 넘어\n단백질 설계 적중률을 올렸다",
-  "body": "MIT 연구진은 자연의 서열을 되풀이하지 않게 모델을 몰아 설계 적중률을 높였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "自然の配列を\n超え設計精度向上",
+  "body": "MIT研究チームは自然配列への依存を抑え、設計の的中率を高めた。",
+  "lang": "ja"
  },
  {
   "id": "science-fluid-ai",
@@ -17255,10 +17251,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "1년 반 매달린 유체역학 문제를\nAI와 함께 5주 만에 풀었다",
-  "body": "AI 조수 덕에 5주 만에 답이 나왔지만, 미묘한 오류도 함께 끼어들었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "1年半の難問を\nAIで5週間で解決",
+  "body": "AI助手のおかげで5週間で答えが出たが、微妙な誤りも混じった。",
+  "lang": "ja"
  },
  {
   "id": "science-double-blind-eval",
@@ -17271,10 +17266,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "자기 시험지를 자기가 채점하는\nAI 벤치마크에 이중맹검을 건다",
-  "body": "DeepMind가 임상시험 이중맹검을 빌려 AI 평가를 검증하는 시범을 시작한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "自己採点AI試験に\n二重盲検導入",
+  "body": "DeepMindが臨床試験の二重盲検を借り、AI評価の検証を試みる。",
+  "lang": "ja"
  },
  {
   "id": "music-umg-ai-patents",
@@ -17287,9 +17281,9 @@
   "date": "2026-08-28",
   "section": "music",
   "has_full": true,
-  "headline": "Universal Music 합작사가 AI 특허\n24건 넘게 Udio와 GRAI에 내줬다",
-  "body": "Universal Music이 합작사를 통해 24건 넘는 AI 특허를 Udio와 GRAI에 내줬다.",
-  "lang": "ko",
+  "headline": "Universal Music venture licenses\n24+ AI patents to Udio and GRAI",
+  "body": "Through a joint venture, Universal Music has licensed more than 24 AI patents to Udio and GRAI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17319,9 +17313,9 @@
   "date": "2026-08-28",
   "section": "music",
   "has_full": true,
-  "headline": "Neural DSP가 Quad Cortex에 더한\nDevice Presets와 가상 장비 8종",
-  "body": "CorOS 4.1.0이 Device Presets와 가상 장비 8종을 더해 톤 만드는 시간을 줄인다.",
-  "lang": "ko",
+  "headline": "Neural DSP adds to Quad Cortex\nDevice Presets, 8 new devices",
+  "body": "CorOS 4.1.0 adds Device Presets and 8 new virtual devices, cutting down tone-building time.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17335,9 +17329,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "AI로 되살린 진 와일더의 목소리가\n넷플릭스 예능을 진행한다",
-  "body": "넷플릭스 경연 예능 예고편에서 AI로 복원한 진 와일더의 목소리가 진행을 맡는다.",
-  "lang": "ko",
+  "headline": "Gene Wilder's AI-revived voice\nhosts a Netflix reality show",
+  "body": "Gene Wilder's AI-restored voice hosts the trailer for a new Netflix competition show.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17351,10 +17345,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "Scantic, 아이폰 안에서\n가우시안 스플랫을 만든다",
-  "body": "Scantic은 클라우드 없이 아이폰에서 3DGS 스캔을 만들고 기본 앱은 무료다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Scanticが\niPhone内で3DGS生成",
+  "body": "ScanticはクラウドなしでiPhone上で3DGSスキャンを作成し、基本アプリは無料だ。",
+  "lang": "ja"
  },
  {
   "id": "movies-media-composer-2026-8",
@@ -17367,10 +17360,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "Media Composer 2026.8,\nAI 도구와 Ready to Edit",
-  "body": "IBC2026을 앞두고 공유 프로젝트 옵션과 새 AI 편집 도구가 함께 실렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Media Composer\n2026.8新AI編集",
+  "body": "IBC2026を前に、共有プロジェクトと新AI編集機能Ready to Editが加わった。",
+  "lang": "ja"
  },
  {
   "id": "movies-cocomelon-ai",
@@ -17383,10 +17375,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "코코멜론 만드는 Moonbug,\n아티스트에게 AI 실험을 주문하다",
-  "body": "코코멜론 제작사 Moonbug가 AI 도입을 알리며 사람이 늘 개입한다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Moonbug社が\nアーティストにAI実験指示",
+  "body": "Cocomelon製作のMoonbugはAI導入を明らかにし、常に人が関与すると述べた。",
+  "lang": "ja"
  },
  {
   "id": "movies-ai-short-drama",
@@ -17626,10 +17617,9 @@
   "date": "2026-08-28",
   "section": "design",
   "has_full": true,
-  "headline": "커서가 버셀 AI SDK\n하네스 어댑터로 들어왔다",
-  "body": "커서도 같은 하네스 인터페이스를 쓰게 되면서 코드 에이전트가 교체 가능해졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "CursorがVercel\nAI SDKに参入",
+  "body": "Cursorも同じハーネスインターフェースを使い、コードエージェントが入れ替え可能になった。",
+  "lang": "ja"
  },
  {
   "id": "books-scholarly-kitchen-ai-use",
@@ -17642,10 +17632,9 @@
   "date": "2026-08-28",
   "section": "books",
   "has_full": true,
-  "headline": "AI 사용을 먼저 밝힌 편집실",
-  "body": "스칼라리 키친이 자체 AI 사용을 공개하며 탐지 도구의 정확도 문제를 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI利用を\n先に公表した編集部",
+  "body": "スカラリー・キッチンが自らのAI利用を公開し、検知ツールの精度問題を指摘した。",
+  "lang": "ja"
  },
  {
   "id": "books-google-expert-intelligence",
