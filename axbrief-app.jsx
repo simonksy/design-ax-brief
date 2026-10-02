@@ -464,6 +464,7 @@ function SubscribeModal({ onClose, t }) {
   const [phase, setPhase] = useState('choose');   // choose | confirming | slow | error | login | sent
   const [note, setNote] = useState('');
   const [email, setEmail] = useState('');
+  const [sendingLink, setSendingLink] = useState(false);
 
   const start = async (plan) => {
     try {
@@ -526,13 +527,22 @@ function SubscribeModal({ onClose, t }) {
               placeholder={tx('paywall.email_label')} autoComplete="email"
               style={{ width: '100%', boxSizing: 'border-box', padding: '10px 12px', fontSize: 16,
                 borderRadius: 10, border: '1px solid ' + t.rule, marginBottom: 8 }} />
-            <AxPill label={tx('paywall.send_link')} t={t} onClick={async () => {
-              if (!email.includes('@')) return;
-              await fetch('/api/auth/request', { method: 'POST',
-                headers: { 'content-type': 'application/json' },
-                body: JSON.stringify({ email }) });
-              setPhase('sent');
-            }} />
+            <AxPill label={tx('paywall.send_link')} t={t}
+              style={sendingLink ? { opacity: .6, pointerEvents: 'none' } : undefined}
+              onClick={async () => {
+                if (sendingLink || !email.includes('@')) return;
+                setSendingLink(true);
+                try {
+                  await fetch('/api/auth/request', { method: 'POST',
+                    headers: { 'content-type': 'application/json' },
+                    body: JSON.stringify({ email }) });
+                  setPhase('sent');
+                } catch {
+                  setPhase('error'); setNote(tx('paywall.checkout_failed'));
+                } finally {
+                  setSendingLink(false);
+                }
+              }} />
           </React.Fragment>
         )}
         {phase === 'sent' && (
@@ -1205,18 +1215,25 @@ function ProBadge({ onClick }) {
 /* 구독자에게만 보이는 관리 링크 — 카드 변경·해지·영수증은 Paddle 포털에서 한다. */
 function ManageLink({ t }) {
   const [busy, setBusy] = useState(false);
+  const [msg, setMsg] = useState('');
   return (
-    <button disabled={busy} onClick={async () => {
-      setBusy(true);
-      try {
-        const r = await fetch('/api/billing/portal', { credentials: 'same-origin' });
-        const b = await r.json();
-        if (b.url) window.open(b.url, '_blank', 'noopener');
-      } finally { setBusy(false); }
-    }} className="ax-eyebrow" style={{ cursor: 'pointer', border: 'none', background: 'none',
-      color: t.faint, textDecoration: 'underline', padding: 0 }}>
-      {tx('paywall.manage')}
-    </button>
+    <React.Fragment>
+      <button disabled={busy} onClick={async () => {
+        setBusy(true); setMsg('');
+        try {
+          const r = await fetch('/api/billing/portal', { credentials: 'same-origin' });
+          const b = await r.json();
+          if (b.url) { window.open(b.url, '_blank', 'noopener'); return; }
+          setMsg(r.status === 404 ? tx('paywall.manage_no_subscription') : tx('paywall.manage_unavailable'));
+        } catch {
+          setMsg(tx('paywall.manage_unavailable'));
+        } finally { setBusy(false); }
+      }} className="ax-eyebrow" style={{ cursor: 'pointer', border: 'none', background: 'none',
+        color: t.faint, textDecoration: 'underline', padding: 0 }}>
+        {tx('paywall.manage')}
+      </button>
+      {msg && <div className="ax-eyebrow" style={{ marginTop: 4, color: t.faint }}>{msg}</div>}
+    </React.Fragment>
   );
 }
 
@@ -1343,7 +1360,9 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
           {entitled ? tx('deck.hint_mobile')
             : tx('deck.locked')}
         </p>
-        {!entitled && <div style={{ marginTop: 10 }}><ProBadge onClick={() => setShowSubscribe(true)} /></div>}
+        <div style={{ marginTop: 10 }}>
+          {entitled ? <ManageLink t={t} /> : <ProBadge onClick={() => setShowSubscribe(true)} />}
+        </div>
       </div>
       <div className="ax-strip" ref={stripRef}>
         {days.map((day) => {

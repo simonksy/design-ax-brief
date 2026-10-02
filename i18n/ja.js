@@ -93,6 +93,8 @@ window.AX_I18N = {
  "paywall.login": "ログイン",
  "paywall.login_first": "購読するにはログインしてください",
  "paywall.manage": "購読の管理",
+ "paywall.manage_no_subscription": "有効な購読が見つかりません。",
+ "paywall.manage_unavailable": "購読管理ページを開けませんでした。しばらくしてから再度お試しください。",
  "paywall.modal_body": "登録すると、すべてのカテゴリーの全記事と深掘り分析が見られます。",
  "paywall.modal_title": "AX-it NOWを購読",
  "paywall.new_tab": "決済画面が開きます",

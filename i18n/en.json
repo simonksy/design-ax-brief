@@ -93,6 +93,8 @@
   "paywall.login": "Log in",
   "paywall.login_first": "Please log in first to subscribe",
   "paywall.manage": "Manage subscription",
+  "paywall.manage_no_subscription": "No active subscription found.",
+  "paywall.manage_unavailable": "Could not open the subscription portal. Please try again later.",
   "paywall.modal_body": "Subscribe to see full news and in-depth analysis across every category.",
   "paywall.modal_title": "Subscribe to AX-it NOW",
   "paywall.new_tab": "The checkout will open",
