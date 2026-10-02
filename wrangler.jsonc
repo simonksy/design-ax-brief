@@ -20,7 +20,11 @@
   },
   "vars": {
     "BASE_URL": "https://axitnow.com",
-    "I18N_MENU": "1"
+    "I18N_MENU": "1",
+    "PADDLE_ENV": "sandbox",
+    "PADDLE_CLIENT_TOKEN": "",
+    "PADDLE_PRICE_MONTHLY": "",
+    "PADDLE_PRICE_YEARLY": ""
   },
   "d1_databases": [
     { "binding": "DB", "database_name": "axbrief-subscribers", "database_id": "a82e6d9c-8393-4a6e-9d7b-4cfcbe08ea44" }

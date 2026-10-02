@@ -4,6 +4,8 @@ import { issueMagicToken, consumeMagicToken } from "./lib/tokens.js";
 import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } from "./lib/cookies.js";
 import { getEntitlement } from "./lib/entitlement.js";
 import { sendMagicLink } from "./lib/email.js";
+import { verifyPaddleSignature, toEntitlement, fetchCustomerEmail } from "./lib/paddle.js";
+import { applyEntitlement } from "./lib/billing.js";
 
 const json = (obj, status = 200, extra = {}) =>
   new Response(JSON.stringify(obj), { status, headers: { "content-type": "application/json", ...extra } });
@@ -88,6 +90,66 @@ export default {
 
     if (p === "/api/auth/logout" && request.method === "POST")
       return json({ ok: true }, 200, { "set-cookie": sessionClearCookie() });
+
+    // Paddle 웹훅 — 권한이 열리는 유일한 경로. 브라우저가 보고하는 결제 성공은
+    // 믿지 않는다. 서명 검증은 원문 바디로 하므로 파싱보다 먼저 한다.
+    if (p === "/api/billing/webhook" && request.method === "POST") {
+      const raw = await request.text();
+      const ok = await verifyPaddleSignature(raw, request.headers.get("paddle-signature"),
+                                             env.PADDLE_WEBHOOK_SECRET);
+      if (!ok) return new Response(null, { status: 401 });
+
+      let event;
+      try { event = JSON.parse(raw); } catch { return new Response(null, { status: 400 }); }
+
+      const delta = toEntitlement(event);
+      // 관심 없는 이벤트는 200으로 받아준다 — 401/500을 주면 Paddle이 계속 재전송한다.
+      if (!delta) return json({ ok: true, ignored: true });
+
+      if (!delta.email) delta.email = await fetchCustomerEmail(env, delta.customerId);
+      if (!delta.email) {
+        // 이메일을 끝내 알 수 없으면 반영할 수 없다. 500을 줘서 Paddle이 재전송하게
+        // 두고(일시적 API 장애일 수 있다) 로그에 남긴다.
+        console.error("paddle webhook: no email", delta.eventId, delta.customerId);
+        return new Response(null, { status: 500 });
+      }
+      const result = await applyEntitlement(env.DB, delta);
+      return json({ ok: true, result });
+    }
+
+    // 결제 시작 — price id를 번들에 박지 않고 여기서 내려준다. 로그인을 요구하는
+    // 이유: 결제 이메일과 로그인 이메일이 갈리면 돈을 내고도 아무것도 안 열린다.
+    if (p === "/api/billing/checkout" && request.method === "POST") {
+      const email = await currentEmail(request, env);
+      if (!email) return json({ reason: "login_required" }, 401);
+      let plan = null;
+      try { plan = (await request.json()).plan; } catch {}
+      const priceId = plan === "monthly" ? env.PADDLE_PRICE_MONTHLY
+                    : plan === "yearly" ? env.PADDLE_PRICE_YEARLY : null;
+      if (!priceId) return json({ reason: "unknown_plan" }, 400);
+      return json({ priceId, email, clientToken: env.PADDLE_CLIENT_TOKEN,
+                    environment: env.PADDLE_ENV === "sandbox" ? "sandbox" : "production" });
+    }
+
+    // 구독 관리 — 카드 변경·해지·영수증은 Paddle 고객 포털로 보낸다.
+    if (p === "/api/billing/portal") {
+      const email = await currentEmail(request, env);
+      if (!email) return json({ reason: "login_required" }, 401);
+      const row = await env.DB.prepare(
+        "SELECT provider_customer_id FROM subscribers WHERE email = ?"
+      ).bind(email).first();
+      if (!row || !row.provider_customer_id) return json({ reason: "no_subscription" }, 404);
+      const base = env.PADDLE_ENV === "sandbox"
+        ? "https://sandbox-api.paddle.com" : "https://api.paddle.com";
+      const res = await fetch(`${base}/customers/${encodeURIComponent(row.provider_customer_id)}/portal-sessions`,
+        { method: "POST", headers: { authorization: `Bearer ${env.PADDLE_API_KEY}`,
+                                     "content-type": "application/json" }, body: "{}" });
+      if (!res.ok) return json({ reason: "portal_unavailable" }, 502);
+      const body = await res.json().catch(() => null);
+      const link = body?.data?.urls?.general?.overview;
+      if (!link) return json({ reason: "portal_unavailable" }, 502);
+      return json({ url: link });
+    }
 
     if (p === "/api/me") {
       const email = await currentEmail(request, env);
