@@ -85,7 +85,9 @@ if (!document.getElementById('ax-styles')) {
   .ax-heroin{animation:axheroin .6s cubic-bezier(.2,.8,.25,1);}
   /* ---- responsive shell ---- */
   .ax-shell{position:relative;z-index:1;max-width:1120px;margin:0 auto;padding:34px 40px 90px;box-sizing:border-box;}
-  .ax-hero-wrap{position:relative;width:480px;max-width:100%;height:760px;margin:6px auto 0;}
+  /* 카드 기본 치수. 480:760 비율을 지킨 채 한 단계 줄였다(요청). 비율이 어긋나면
+     안쪽 고정 px 레이아웃에서 Read 버튼이 잘린다. */
+  .ax-hero-wrap{position:relative;width:440px;max-width:100%;height:697px;margin:6px auto 0;}
   @media (max-width:760px){
     .ax-shell{padding:16px 12px 56px;}
     /* FIXED pixel height on mobile — viewport units (svh/vh) change as the browser
@@ -126,6 +128,17 @@ if (!document.getElementById('ax-styles')) {
      padding:0!important;border-radius:0!important;color:inherit!important;font:inherit!important;
      max-width:none!important;box-shadow:none!important;}
   /* ---- section tabs (Design / Music / Movies / Games / Books) ---- */
+  /* 카테고리 + 구분선 + 버튼 묶음이 한 줄. 다 들어가면 가운데로 모이고, 좁아지면
+     카테고리만 줄며 가로로 스크롤된다 — 버튼은 늘 오른쪽에 남는다. */
+  .ax-navrow{display:flex;align-items:center;justify-content:center;gap:10px;
+     max-width:1240px;margin:0 auto 16px;padding:0 12px;box-sizing:border-box;}
+  .ax-navrow .ax-tabs{flex:0 1 auto;min-width:0;flex-wrap:nowrap;overflow-x:auto;
+     justify-content:flex-start;margin:0;padding:2px 0;scrollbar-width:none;
+     -webkit-overflow-scrolling:touch;}
+  .ax-navrow .ax-tabs::-webkit-scrollbar{display:none;}
+  .ax-navdiv{flex:0 0 auto;width:1px;height:22px;}
+  .ax-actions{flex:0 0 auto;display:flex;align-items:center;gap:8px;}
+  @media (max-width:720px){ .ax-navdiv,.ax-navrow>#ax-actions-d{display:none;} }
   .ax-tabs{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin:0 auto 16px;padding:0 12px;}
   /* 탭 글자는 UI의 길잡이다 — 모노스페이스 12px/600은 윈도우에서 가늘고 희미했다.
      13.5px/700으로 키우고 자간을 좁혀 덩어리로 읽히게 한다. */
@@ -1845,7 +1858,7 @@ function MobileFilmstrip({ t, onOpen, days, entitled, hasSubscription }) {
 
 /* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck.
    Pro 구독자에게는 맨 앞에 Insights(지식 네트워크) 진입 pill이 구분선과 함께 붙는다. ---- */
-function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights }) {
+function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights, actions }) {
   const tabs = (
     <div className="ax-tabs" role="tablist" aria-label={tx('nav.sections')}
       style={flush ? { margin: 0, padding: 0, justifyContent: 'flex-start' } : undefined}>
@@ -1878,7 +1891,18 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
       })}
     </div>
   );
-  return tabs;
+  if (!actions) return tabs;
+  /* 카테고리 줄 오른쪽 끝에 세로 구분선을 긋고 그 너머에 Login·Pro·지구본을 둔다.
+     버튼은 i18n.js가 이 자리로 옮겨 담는다. 지난번엔 버튼을 position:static으로
+     바꿔 담았다가 Pro의 빛 쓸기와 지구본의 select가 기준점을 잃었다 — 이번엔
+     relative를 유지한 채 자리만 옮긴다. */
+  return (
+    <div className="ax-navrow">
+      {tabs}
+      <span aria-hidden className="ax-navdiv" style={{ background: t.rule }} />
+      <div id="ax-actions-d" className="ax-actions" />
+    </div>
+  );
 }
 
 /* ---- MobileStickyHeader: a compact two-row bar that curtains down from the top once
@@ -1897,13 +1921,13 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
     return () => window.removeEventListener('resize', m);
   }, []);
   const g = Math.max(12, Math.round(gutter || 14));   // left/right inset = the card's edges
+  /* 폰의 유일한 고정 바. 늘 보인다 — 예전에는 스크롤해야 내려왔고, 그 위에 별도
+     상단 바까지 생기면서 둘이 겹쳐 레이아웃이 깨졌다. 1줄은 로고와 Login·Pro·
+     지구본(i18n.js가 #ax-actions-m에 넣는다), 2줄은 카테고리 가로 스크롤. */
   return (
-    /* 상단 고정 바(#ax-topbar, 폰에서 48px) 아래로 내려 앉는다 — top:0이면 그 위를
-       덮어 두 바가 겹치고 레이아웃이 깨진다. 로고는 이 줄 왼쪽, Login·Pro·지구본은
-       위 바 오른쪽에 있다. */
+    <React.Fragment>
     <div aria-hidden={!stuckTitle} style={{
-      position: 'fixed', top: 48, left: 0, right: 0, zIndex: 120, overflow: 'hidden',
-      // stage 1 → only the title row; stage 2 → grow to reveal the tabs row beneath it
+      position: 'fixed', top: 0, left: 0, right: 0, zIndex: 120, overflow: 'hidden',
       height: stuckTabs ? titleH + tabsH : titleH,
       transform: stuckTitle ? 'translateY(0)' : 'translateY(-101%)',
       transition: stuckTitle
@@ -1911,19 +1935,20 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
         : 'transform .22s cubic-bezier(.4,0,1,1), height .22s cubic-bezier(.4,0,1,1)',
       background: t.cardSolid || '#fbf8f3', borderBottom: `1px solid ${t.rule}`,
       boxShadow: '0 6px 18px -12px rgba(60,40,30,.5)' }}>
-      {/* row 1 — static title (left) + Daily Brief (right), aligned to the card's edges */}
-      <div ref={titleRef} style={{ padding: `12px ${g}px 16px`, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
+      {/* row 1 — 로고(왼쪽) + 버튼 묶음(오른쪽) */}
+      <div ref={titleRef} style={{ padding: `8px ${g}px 8px`, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
         <div onClick={onTitle} style={{ cursor: onTitle ? 'pointer' : 'default', flex: '0 0 auto',
           fontFamily: 'var(--font-sans)', fontWeight: 700, letterSpacing: '-0.03em', fontSize: 16,
           color: t.hl, whiteSpace: 'nowrap', lineHeight: 1 }}>AX-it NOW</div>
-        <div className="ax-eyebrow" style={{ color: t.mute, whiteSpace: 'nowrap', lineHeight: 1 }}>{tx('masthead.daily_brief')} · {ds}</div>
+        <div id="ax-actions-m" style={{ display: 'flex', alignItems: 'center', gap: 6, flex: '0 0 auto' }} />
       </div>
       {/* row 2 — section tabs, flush to the same left edge as the title and the card */}
-      <div ref={tabsRef} style={{ padding: `0 ${g}px 12px` }}>
+      <div ref={tabsRef} style={{ padding: `0 ${g}px 10px` }}>
         <SectionTabs sections={sections} order={order} active={active} onSelect={onSelect} t={t} flush
           showInsights={showInsights} insightsActive={insightsActive} onInsights={onInsights} />
       </div>
     </div>
+    </React.Fragment>
   );
 }
 
@@ -1942,6 +1967,7 @@ const INSIGHTS_COLORS = {
 };
 const insightsLabel = (sec) => tx('insights.legend_' + sec);   // legend label per section key
 const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비
+const INSIGHTS_GAP = 14;
 const INSIGHTS_H = Math.round(INSIGHTS_CARD_W * 760 / 480);   // 카드(480:760) 높이 = 두 칸 공통 높이
 const INSIGHTS_DIM = 'rgba(128,136,162,0.38)';   // 포커스 밖 노드·엣지 — 배경보다 살짝 밝게 + 반투명(시야 확보)
 
@@ -2741,6 +2767,11 @@ function ThemedPage({ themeKey }) {
       .then((d) => { if (d) { setAuth(d); if (window.axSetAuthUI) window.axSetAuthUI(d); } })
       .catch(() => {});
   }, []);
+  // 폰에서 스티키 바가 내려와 있으면 버튼을 그 첫 줄로 옮긴다 — 두 벌을 동시에
+  // 띄우지 않기 위해서다. 버튼을 그리는 쪽이 React 밖(i18n.js)이라 알려 줘야 한다.
+  useEffect(() => {
+    if (window.axPlaceActions) window.axPlaceActions(isMobile && stuckTitle);
+  }, [isMobile, stuckTitle]);
   // 헤더 Pro 버튼(i18n.js, React를 모르므로 이벤트로만 알림)이 쏘는 'ax:subscribe'를
   // 듣고 구독 모달을 연다. i18n.js의 axMountGlobe와 같은 역할의 짝.
   const [showSubscribe, setShowSubscribe] = useState(false);
@@ -2893,7 +2924,7 @@ function ThemedPage({ themeKey }) {
         </div>
         <div style={insightsOn ? { position: 'relative', zIndex: 3 } : undefined}>
           <SectionTabs sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection} t={t}
-            showInsights={true} insightsActive={insightsOn} onInsights={openInsights} />
+            showInsights={true} insightsActive={insightsOn} onInsights={openInsights} actions />
         </div>
         {/* back-to-today control — rendered only while viewing a past day. */}
         {!insightsOn && hero.day && (
