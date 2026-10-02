@@ -1913,13 +1913,23 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
 function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, order, active, onSelect, onTitle, showInsights, insightsActive, onInsights }) {
   const titleRef = useRef(); const tabsRef = useRef();
   const [titleH, setTitleH] = useState(50); const [tabsH, setTabsH] = useState(50);
+  // 바는 overflow:hidden에 높이를 실측값으로 잡는다. 그런데 Login·Pro·지구본은
+  // React 밖(i18n.js)에서 나중에 이 줄에 꽂히므로, 마운트 때 한 번만 재면 그 뒤로
+  // 줄이 높아져도 옛 높이에 잘린다 — 로고와 카테고리 줄 윗부분이 가려진 원인.
+  // ResizeObserver로 내용이 바뀔 때마다 다시 잰다.
   useEffect(() => {
     const m = () => {
       if (titleRef.current) setTitleH(titleRef.current.offsetHeight);
       if (tabsRef.current) setTabsH(tabsRef.current.offsetHeight);
     };
     m(); window.addEventListener('resize', m);
-    return () => window.removeEventListener('resize', m);
+    let ro;
+    if (typeof ResizeObserver !== 'undefined') {
+      ro = new ResizeObserver(m);
+      if (titleRef.current) ro.observe(titleRef.current);
+      if (tabsRef.current) ro.observe(tabsRef.current);
+    }
+    return () => { window.removeEventListener('resize', m); if (ro) ro.disconnect(); };
   }, []);
   const g = Math.max(12, Math.round(gutter || 14));   // left/right inset = the card's edges
   /* 폰의 유일한 고정 바. 늘 보인다 — 예전에는 스크롤해야 내려왔고, 그 위에 별도
