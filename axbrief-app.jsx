@@ -533,9 +533,12 @@ function SubscribeModal({ onClose, t }) {
                 if (sendingLink || !email.includes('@')) return;
                 setSendingLink(true);
                 try {
-                  await fetch('/api/auth/request', { method: 'POST',
+                  // 상태 코드를 반드시 본다 — 발송 실패를 '보냈습니다'로 보여주면
+                  // 사용자는 오지 않는 메일을 기다리게 된다.
+                  const r = await fetch('/api/auth/request', { method: 'POST',
                     headers: { 'content-type': 'application/json' },
                     body: JSON.stringify({ email }) });
+                  if (!r.ok) { setPhase('error'); setNote(tx('paywall.send_link_failed')); return; }
                   setPhase('sent');
                 } catch {
                   setPhase('error'); setNote(tx('paywall.send_link_failed'));

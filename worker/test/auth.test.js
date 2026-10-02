@@ -1,4 +1,4 @@
-import { env, createExecutionContext, waitOnExecutionContext } from "cloudflare:test";
+import { env, fetchMock, createExecutionContext, waitOnExecutionContext } from "cloudflare:test";
 import { describe, it, expect, beforeAll } from "vitest";
 import worker from "../index.js";
 import schema from "../schema.sql?raw";
@@ -50,6 +50,27 @@ describe("auth + entitlement", () => {
     const sess = cookie.split(";")[0].split("=")[1];
     const me = await (await call("/api/me", { headers: { cookie: "ax_session=" + sess } })).json();
     expect(me).toEqual({ loggedIn: true, email: "free@x.com", entitled: false });
+  });
+
+  // 발송 실패를 200으로 숨기면 사용자는 오지 않는 메일을 영원히 기다린다.
+  // (주소가 등록돼 있는지는 여전히 숨긴다 — 그건 별개의 사건이다.)
+  it("메일 발송이 실제로 실패하면 2xx가 아니다", async () => {
+    const saved = env.RESEND_API_KEY;
+    fetchMock.activate(); fetchMock.disableNetConnect();
+    fetchMock.get("https://api.resend.com").intercept({ path: "/emails", method: "POST" })
+      .reply(500, "boom");
+    env.RESEND_API_KEY = "re_live_key";
+    try {
+      const res = await call("/api/auth/request", {
+        method: "POST", headers: { "content-type": "application/json" },
+        body: JSON.stringify({ email: "sendfail@x.com" }),
+      });
+      expect(res.status).toBe(502);
+      expect((await res.json()).ok).toBe(false);
+    } finally {
+      env.RESEND_API_KEY = saved;
+      fetchMock.deactivate();
+    }
   });
 
   it("returns ok (no crash) for a non-string email value", async () => {

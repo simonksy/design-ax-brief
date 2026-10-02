@@ -75,7 +75,15 @@ export default {
       if (email) {
         const token = await issueMagicToken(env.AUTH_TOKENS, email);
         const link = `${env.BASE_URL}/api/auth/callback?token=${token}`;
-        await sendMagicLink(env, email, link);
+        try {
+          await sendMagicLink(env, email, link);
+        } catch (e) {
+          // 주소가 등록돼 있는지는 끝까지 숨기지만(= 모르는 주소도 ok:true), 메일
+          // 발송 자체가 실패한 것은 다른 사건이다. 성공으로 위장하면 사용자는 오지
+          // 않는 메일을 영원히 기다린다.
+          console.error("auth/request: magic link send failed", String(e && e.message || e));
+          return json({ ok: false, reason: "send_failed" }, 502);
+        }
       }
       return json({ ok: true }); // never reveal whether the email exists
     }
