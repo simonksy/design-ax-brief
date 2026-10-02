@@ -4742,6 +4742,489 @@
           "x": "Whether it's Blue Tokens, Red Credits, or Green Funbucks, consumption-based licensing has become the default for AI tools. It's hard to blame Dassault Systèmes for following the trend. Still, it doesn't sit easily. Having covered the shift from perpetual CAD seats to subscriptions for a long time, it's hard to shake the feeling that the water is heating up again the same way it did back then — a transition that worked for vendors and left a residue of resentment among users."
         }
       ]
+    },
+    "design/design-agent-native-clips": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "It's 4:52 p.m. on a Friday, and a message goes up in the bug channel: “The dashboard won't load.” The only attachment is a single screenshot of a spinner."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/bd963b406ef04a4fbf9d1af53ab3b313?width=1200",
+          "cap": "Agent-Native Clips captures a recording together with browser diagnostics"
+        },
+        {
+          "t": "p",
+          "x": "Ask for a video, and ten minutes later a link arrives: someone opening the project, waiting, getting an error banner. It proves the bug is real, but it says nothing about why it happened."
+        },
+        {
+          "t": "p",
+          "x": "That's when the ritual begins: open the app, log in with that account, open dev tools, check the console, switch to the network tab, refresh, find the failed request, and copy the status code. The recording only captured the symptom, and the evidence stayed trapped inside a browser you can't get into."
+        },
+        {
+          "t": "p",
+          "x": "Agent-Native Clips fills that gap. It's a free, open-source screen recorder that, while recording, also collects console output, failed network requests, HTTP status codes, and the context before and after the moment something broke. Record once, and the video goes to whoever needs to watch it while the diagnostic data goes to whoever needs to fix it."
+        },
+        {
+          "t": "video",
+          "yt": "EqmOsEK5DCg"
+        },
+        {
+          "t": "p",
+          "x": "On the surface, it behaves just like any other async recording tool: capture the browser, add mic and camera, save, share a link. The difference is what the clip carries with it. Record with the Chrome extension, and browser-level diagnostics come attached."
+        },
+        {
+          "t": "p",
+          "x": "What gets attached: console logs and errors, failed network requests, HTTP status codes, the timing and context around the failure, and structured metadata an AI coding agent can read. The app runs locally or on a free hosted version."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F05bb71d2e558466aa2749dacdf8646b7?width=1200",
+          "cap": "The browser diagnostics collected alongside the recording"
+        },
+        {
+          "t": "p",
+          "x": "It's clear why a screen recording alone stalls the fix: finding out which endpoint failed, whether the response was a 401 or a 502, or whether the frontend got odd data still requires someone to open dev tools and dig from scratch. Reproducing a bug three times can even change the conditions along the way. With Clips, that loop shrinks to four steps: start recording, reproduce, stop, share."
+        },
+        {
+          "t": "p",
+          "x": "Setup has two parts: the Clips app, which runs locally or in the cloud, and a Chrome extension that starts the recording and gathers diagnostics. It's better to pin the extension to the toolbar. No one digs through an extension menu the moment a bug hits."
+        },
+        {
+          "t": "p",
+          "x": "In the demo, a network error appears the moment the app opens, and the browser logs several failed requests, including 502s and 401s. A 502 shows up when a gateway or proxy gets a bad response from an upstream service; a 401 shows up when a request lacks authentication."
+        },
+        {
+          "t": "p",
+          "x": "A saved clip bundles that session's console messages and network errors together as JSON. It's not a format made for easy reading. It's not data meant for a human to scroll through, it's data meant for a tool to process."
+        },
+        {
+          "t": "p",
+          "x": "That's why a clip reads two ways at once: a person watches the video, a machine tears into the data. You can hand it to an AI assistant and ask it to trace the request causing the 502 back through the code and propose a fix, or ask it to turn it into a GitHub issue with reproduction steps, expected behavior, actual behavior, and the browser errors."
+        },
+        {
+          "t": "p",
+          "x": "It isn't only a developer's tool. A designer can upload a broken screen found during review without ever learning the network tab, and a PM can send along the exact sequence of events with technical evidence attached. The source is open on GitHub, so self-hosting is just a fork away."
+        }
+      ]
+    },
+    "design/design-artstation-noai-default": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ArtStation has rolled out stronger measures, saying it will protect artists' work from unauthorized AI training and also keep generated images from flooding the platform."
+        },
+        {
+          "t": "p",
+          "x": "Starting today, the NoAI setting is turned on for every new project uploaded. The tag is also applied retroactively to projects and profiles that were already up. There's no need to go through an old portfolio piece by piece."
+        },
+        {
+          "t": "p",
+          "x": "The NoAI tag marks a piece of work as off-limits for AI training. Anyone who wants to allow training can just turn the setting off. The structure has flipped: protection used to require a request, and now protection is the default that you opt out of if you want."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/c7/images/6a99d0b469743/widen_1840x0.jpg",
+          "cap": "The NoAI setting applies to both new uploads and existing projects"
+        },
+        {
+          "t": "p",
+          "x": "Crawler blocking is done in partnership with Cloudflare. It works by identifying known AI crawlers and automated scraping tools and stopping them before they can access content in bulk. The company acknowledges there's no way to make public images completely unscrapable. Still, it says the goal is to make unauthorized access harder and to keep adjusting its defenses as the technology changes."
+        },
+        {
+          "t": "p",
+          "x": "In its announcement, ArtStation wrote that the community's demand was clear and that it agrees with it. The statement closed with the line: “There's no reason artists should have to ask first to protect their own work.”"
+        },
+        {
+          "t": "p",
+          "x": "Indexing by ordinary search engines stays open. Recruiters, studios, and potential clients can still find portfolios just as they do now."
+        },
+        {
+          "t": "p",
+          "x": "The terms of service were updated as well. Under the current AI policy, ownership of the work stays with the artist, and ArtStation does not sell or license that work to AI companies. There are also no agreements that permit AI companies to collect the content."
+        },
+        {
+          "t": "p",
+          "x": "The announcement didn't stop at the training issue. The company itself admitted that its current CreatedWithAI label and filters haven't been enough to hold back the flood of generated images."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/fb/images/6a99d0f73b7c4/widen_1840x0.jpg",
+          "cap": "It also addressed generated images overwhelming the discovery system"
+        },
+        {
+          "t": "p",
+          "x": "Artists have long argued that as generated work piles up, original work becomes harder to find and portfolios become harder to evaluate. The company says it is improving its discovery tools and adding more controls, but hasn't yet explained how or when those will arrive."
+        },
+        {
+          "t": "p",
+          "x": "This move comes right after Kitbash acquired ArtStation and Sketchfab. Kitbash is the company behind Kitbash3D and Greyscalegorilla. The deal, announced in August, split both platforms off from Epic Games, while existing portfolios, libraries, subscriptions, marketplaces, and workflows stayed in place."
+        },
+        {
+          "t": "p",
+          "x": "That doesn't mean AI-made images are banned. Work made with AI tools can still be posted, as long as you own it or have permission to post it. If a product sold on the marketplace includes generative AI output, it needs the CreatedWithAI tag."
+        },
+        {
+          "t": "p",
+          "x": "For artists who have been demanding that generated work be removed entirely, this line may still fall short. Even so, turning on NoAI for existing uploads too is a sign that ArtStation's default has actually shifted."
+        }
+      ]
+    },
+    "design/design-cursor-vercel-sandbox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cursor Cloud Agents can now run inside Vercel Sandbox instead of on machines operated by Cursor."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5KmgvmWZwaaPFGskgNOJAu/6b3659ba24e56f6bf4fe2c181d6d95e5/run_cursor_cloud_agents_in_vercel_sandbox_og_card.jpg",
+          "cap": "Cursor Cloud Agents running in Vercel Sandbox"
+        },
+        {
+          "t": "p",
+          "x": "Cursor still manages the agent harness and the inference loop itself. Its Self-Hosted Machines API only pulls in the execution environment from outside: you supply the place where repositories get cloned, files get edited, and commands and tests get run. This feature is available only on the Cursor Enterprise plan."
+        },
+        {
+          "t": "p",
+          "x": "Vercel Sandbox creates that place by spinning up an isolated Firecracker microVM for every single agent request. Vercel Functions and Vercel Workflow handle the control plane: picking up pending requests, spinning up workers, watching sessions, and cleaning up on their own."
+        },
+        {
+          "t": "p",
+          "x": "This setup delivers four things: a worker pool that can scale down to zero without any long-lived virtual machines, a dedicated sandbox attached to each request, durable retries when a worker or session dies, and user-scoped credentials that live only briefly, inside the sandbox."
+        },
+        {
+          "t": "p",
+          "x": "Vercel also published a step-by-step guide for deploying the reference implementation to your own account, along with Sandbox documentation."
+        }
+      ]
+    },
+    "design/design-mancity-ai-kit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Manchester City's new kit is the first professional football kit designed by fans using AI, and it's actually worn on the pitch."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms-2/2026/08/03-91598957-puma-ai-generated-soccer.jpg",
+          "cap": "Manchester City's new fan-designed third kit"
+        },
+        {
+          "t": "p",
+          "x": "This third kit, unveiled by the Premier League club, came out of Puma AI Creator, a generative AI tool built in-house by the German sportswear brand Puma."
+        },
+        {
+          "t": "p",
+          "x": "Puma launched this generator in December 2024. Its engine is the AI co-creation platform Deepobjects, paired with text prompts and sliders for adjusting elements like the collar, colors, and badge placement. Last year, Ederson, Stefan Ortega, and Rico Lewis used AI to create a green goalkeeper kit with a goal-net pattern. The club then opened the tool to the public for the rest of its kits."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/12-91598957-puma-ai-generated-soccer.jpg",
+          "cap": "A design concept made with Puma AI Creator"
+        },
+        {
+          "t": "p",
+          "x": "People in more than 200 countries created over 180,000 designs, drawing more than 1.7 million votes. The platform gave participants design credits and two entries, with more credits and entries available for rating other people's designs or holding a Puma NFT."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/04-91598957-puma-ai-generated-soccer.jpg",
+          "cap": "The finalist designs narrowed down by vote"
+        },
+        {
+          "t": "p",
+          "x": "Among the ten finalists, the winner was a prompt by Elliott, a lifelong Man City supporter. He said he made it during his lunch break. Down the middle of a white jersey run two gradient blue vertical stripes, one sky blue and one navy. The front carries the club badge, the Puma logo, and the logo of sponsor Etihad Airways. The fabric is Puma's lightweight performance material, Ultraweave."
+        },
+        {
+          "t": "p",
+          "x": "Unlike adversarial designs made to confuse AI systems, the winning design has no bizarre or dizzying patterns. A white kit with sky blue and navy vertical stripes is something the club has worn before, as it did in a Nike-made kit for the 2013-14 season."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/05-91598957-puma-ai-generated-soccer.jpg",
+          "cap": "The winning design made into an actual kit"
+        },
+        {
+          "t": "p",
+          "x": "Even so, this kit marks a turning point in how professional sports is embracing AI. The club said it's the first case of a fan-designed, AI-made kit being worn on a football pitch. Comments on the club's own post included criticism calling it “AI slop” and saying it lacked originality."
+        }
+      ]
+    },
+    "design/design-armorpaint-1-0-out-after": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260904_ArmorPaint10_f-960x480.jpg",
+          "cap": "ArmorPaint, now an official release after eight years"
+        },
+        {
+          "t": "p",
+          "x": "The Armory development team has released ArmorPaint 1.0, an open source 3D texture painting program. It's the 'official' version, arriving eight years after entering early access in 2018."
+        },
+        {
+          "t": "p",
+          "x": "This release rewrites the software in C. With the performance gain, it can paint much larger 3D assets in real time and stack more texture layers at higher resolution. New additions include basic sculpting and UV editing, skinned-character timeline playback, AI image upscaling, and a feature that turns photos into materials."
+        },
+        {
+          "t": "p",
+          "x": "Downloads are open for Windows, Linux, and macOS, with Android and iOS as experimental builds. As of this writing, the product website carries no official release announcement, but the early-release-candidate label has disappeared from the download list."
+        },
+        {
+          "t": "p",
+          "x": "ArmorPaint is a 3D painting tool for building PBR texture maps used in DCC software or game engines. It's often cited as a cheaper alternative to Adobe Substance 3D Painter. You paint directly onto a model's surface in a real-time path-traced viewport, and because it's GPU-based, high-end GPUs can paint up to 16K. It bakes AO, Cavity, Thickness, normal, material ID, and lightmaps, and exports to PNG, JPEG, and EXR at up to 32-bit color depth."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260904_ArmorPaint10_Performance-960x480.jpg",
+          "cap": "1.0 (blue bars) is faster than 0.9 (gray bars)"
+        },
+        {
+          "t": "p",
+          "x": "Code originally written in Haxe with the JavaScript engine V8 layered on top is now entirely C. No external libraries are needed either. GPU acceleration runs on Direct3D 12, Vulkan, Metal, and WebGPU, while ray tracing runs on Direct3D 12 on Windows, Vulkan on Linux and Android, and Metal on macOS and iOS. The codebase has shrunk enough that, in the development blog's own phrasing, it would fit on two old 1.4MB floppy disks. More importantly, it uses far less memory. You can open large models and paint high-resolution textures without changing your hardware."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260904_ArmorPaint10_NewFeatures-960x480.jpg",
+          "cap": "A new tile-sheet creation plugin for game artists"
+        },
+        {
+          "t": "p",
+          "x": "New features include a basic digital sculpting mode. Decimate, Subdivide, Smooth, and Bevel modifiers for working with imported geometry, plus a basic UV editor, are also included. Path and curve layers let you add stitching or geometric patterns, and the timeline tab plays back skinned mesh animation or lets you build simple tween animations. 'Neural Nodes' handle image upscaling, converting images to PBR textures, and text-to-image generation. All supported models are open source and run locally on a workstation or tablet."
+        },
+        {
+          "t": "p",
+          "x": "The source code is free under the zlib license. Compiled binaries that support development cost $19 on itch.io; the iOS app is $17.99 and the Android app is $19.99."
+        }
+      ]
+    },
+    "design/design-auto-syncing-tailwind-config-from": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The author opened GitHub last Tuesday and found the main deploy pipeline all red. Staging was completely dead. The cause: two frontend teams had edited the Tailwind config file at the same time. Team A had added spacing utilities for a marketing landing page; Team B added brand colors for a new product dashboard. While resolving the merge conflict by hand and force-pushing, half the core brand colors disappeared and the production deploy stopped."
+        },
+        {
+          "t": "p",
+          "x": "This is what always happens when a single config file becomes a bottleneck. A developer copies hex codes and pixel values from Figma by hand and pastes them into a giant JavaScript object. Someone makes a typo. Someone deletes a bracket. The author decided to take the human out of this step. Figma is the source of truth for design decisions, Tailwind is the destination, and code is what connects the two."
+        },
+        {
+          "t": "p",
+          "x": "The token file uses the W3C Design Token format, a standard JSON structure that specifies values and types explicitly, making it easy to predict. A TypeScript utility was attached to it. It skips meta keys starting with a dollar sign, recursively walks the token tree to produce flat keys like brand-primary, and then writes a tailwind.preset.js module to disk. The main Tailwind config now simply imports this preset."
+        },
+        {
+          "t": "p",
+          "x": "A GitHub Action handles execution. The workflow only runs on pull requests where tokens.json has changed; it runs the conversion script and then commits the updated preset straight into the same pull request. When a designer changes a variable in Figma, a pull request opens with the new JSON, and the developer just reviews the code and hits merge."
+        },
+        {
+          "t": "p",
+          "x": "The author added that maintaining a hand-built conversion script gets annoying once typography rules grow complex or dark-mode themes multiply. That's what led to building the Figma plugin Design System Sync. It exports variables and styles to GitHub or Bitbucket and automatically opens a pull request with a visual diff attached. The free tier gives you five exports a month."
+        }
+      ]
+    },
+    "design/design-figma-motion-basics-time-stamped": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xI4tglaE5GA"
+        },
+        {
+          "t": "p",
+          "x": "This is a one-minute video Figma posted. It covers timestamped comments in Figma Motion, which tie a comment to a specific moment in the animation rather than the whole file."
+        },
+        {
+          "t": "p",
+          "x": "Leaving one is simple. Pick [Comment] from the toolbar, then move the playhead to the point you want to mark. Click the animation while in that state, and the comment attaches to that moment."
+        },
+        {
+          "t": "p",
+          "x": "The video has four segments: 00:00 introduction, 00:10 how to add a timestamped comment, 00:25 adding multiple timestamps to one comment, 00:41 viewing a collaborator's comments."
+        },
+        {
+          "t": "p",
+          "x": "Figma also linked a blog post introducing Figma Motion and a document on the basics of motion design."
+        }
+      ]
+    },
+    "design/design-parker-only-went-made-those": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Making a spec ad nobody asked for is good practice for sharpening skills, building a portfolio, and getting noticed online. Brands actually picking up that concept, though, is rare. The recent Parker billboard creative challenge rewrote that rule, a case study in what solid moderation, genuine engagement on social media, and reflexes fast enough to seize an opportunity can leave behind for a brand."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qPttecBxT8ZfvWvUL5YmQY.jpg",
+          "cap": "A Parker billboard concept that recast the pen as an anti-AI tool"
+        },
+        {
+          "t": "p",
+          "x": "It started with one LinkedIn user's 'anti-AI campaign ad idea.' A Parker pen spec ad posted by freelance copywriter and creative strategist Kushagra Oberoi picked up thousands of likes for its AI-era timing and a perspective that made people look at a ballpoint pen differently. Seeing it, Andrew Tindall, Chief Growth Officer of One Minute Briefs and System 1, put out a call for other ideas."
+        },
+        {
+          "t": "p",
+          "x": "350 entries came in from around the world. Ten were shortlisted and tested with consumers on System 1's ad-testing platform, and the minimalist 'Think' concept by Simon Sinclair and Manish Dodani came out on top."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/s7L2zNCXniyDezB9BmgvbT-1200-80.jpg",
+          "cap": "The Parker billboard that went up in Times Square"
+        },
+        {
+          "t": "p",
+          "x": "Within days of the contest ending, Parker's parent company Newell Brands made the project official. All 10 finalists went up on a digital billboard in New York's Times Square, each credited with the name of the person who came up with the idea. A brand that became the unexpected beneficiary of crowdsourced advertising, having received hundreds of independent ideas, ended up putting real media spend behind the world's most iconic outdoor ad spot."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GVSyX77SJfLHbueeuDXNNT-1200-80.jpg",
+          "cap": "All 10 finalists went up on the digital billboard"
+        },
+        {
+          "t": "p",
+          "x": "The writer described the #SellMeThisPen challenge as the kind of spontaneous collaboration that makes social media feel welcoming again. It also showed how clever repositioning can hold onto a brand through a changing era. They added that it made them want to pick up a pen again before handwriting is forgotten."
+        }
+      ]
+    },
+    "design/design-why-does-ai-generated-food": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Restaurants, cafes, and brands are using AI to generate food promotional images, and the result is a flood of appetite-killing slop: donut-shaped shrimp, worm-like noodles, construction materials masquerading as ice cream. There are lumps and holes everywhere. It's hard to say why anyone would sell food with AI when the real thing is right there, but there's a decent explanation for why AI is so good at producing such nauseating images."
+        },
+        {
+          "t": "p",
+          "x": "Most major image generators use diffusion. They start with a screen full of noise and gradually strip it away to build the requested image. Chris Russell, a computer vision expert who teaches AI and policy at Oxford, explained that “this restores coarse structure first, with fine texture coming last.” The problem arises when the structure is already wrong before the details are added. Sharp texture simply gets laid over a broken structure. It's the same kind of failure as a hand generated with six fingers."
+        },
+        {
+          "t": "p",
+          "x": "Even when the structure is fine, the details go wrong. Giovanbattista Califano, a behavioral scientist at the University of Naples Federico II, said “diffusion models are notoriously bad at generating structures that are thin, continuous, and then end.” He added that “noodles, strands, and tentacles are exactly that geometry, so spaghetti-like artifacts bleed into places that make no anatomical or culinary sense.” Repeating textures like bubbles or seeds are also hard to contain within boundaries, so they leak into the wrong places. That's why clustered holes that trigger trypophobia show up in AI food images."
+        },
+        {
+          "t": "p",
+          "x": "AI doesn't know what a sandwich is. The same goes for noodles and burritos. It has only learned what they statistically look like, not why they look that way. Roland Meyer, a professor at the University of Zurich, said “AI image generation reproduces appearances without any real knowledge of the world.” Michael Cook, a senior lecturer at King's College London, pointed to ice cream that looks like cracked concrete and burgers that seem sculpted from stone, saying textures that “would look completely normal in an architectural context” go wrong the moment you imagine eating them."
+        },
+        {
+          "t": "p",
+          "x": "Training data makes the problem worse. Cook said that because the training process is so opaque, there's no way to know what gets mixed together or what associations form. Food photography is already heavily staged, with strong contrast, saturated colors, glossy lighting, and exaggerated shapes. Meyer said AI picks up only surface qualities without understanding context, adding that “it perfectly mimics the look of a photo but can't mimic the professional aesthetic strategy behind it.”"
+        },
+        {
+          "t": "p",
+          "x": "Simon Colton, a professor of computational creativity at Queen Mary University of London, pointed out that there are surprisingly few plain, ordinary images of a red apple. “Who's going to post a boring photo of an apple online?” Strange images, by contrast, spread widely through Reddit and memes. On top of that, AI now trains on material that AI itself created. Cook cited research showing that training models on model output causes “model collapse,” making images grow increasingly similar to one another."
+        },
+        {
+          "t": "p",
+          "x": "Prompts play a role too. They're often as vague as simply asking for a sandwich, or they mix in words like “precisely,” which mean little for image generation even if they work fine for text. Blowing up a low-resolution image also magnifies flaws that would otherwise go unnoticed and creates gaps for the model to fill in."
+        },
+        {
+          "t": "p",
+          "x": "That's why so many AI food images fall deep into the uncanny valley. Humans happen to be extremely good at noticing when something is wrong with food. Disgust is thought to be an emotion that evolved to protect us from parasites, pathogens, and toxins. Califano said the uncanny valley for food is far more visceral than it is for faces. Noodle-like tentacles evoke worms, clustered holes evoke infection, and off colors evoke decay. It looks like food, but our brains know."
+        }
+      ]
+    },
+    "design/design-dynamic-text": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "7q3spdQlZLA"
+        },
+        {
+          "t": "p",
+          "x": "Adobe Creative Cloud posted a new video introducing Photoshop's Dynamic Text feature. It lets users place, space, and structure text layers more intuitively."
+        },
+        {
+          "t": "p",
+          "x": "Dynamic Text was added to Photoshop earlier this year based on feedback from the user community. Adobe says the feature gives users more precise control over text layers."
+        },
+        {
+          "t": "p",
+          "x": "The key point is that the spacing and structure of placed text layers automatically adjust whenever the content changes."
+        },
+        {
+          "t": "p",
+          "x": "At the end of the video, Adobe asks viewers directly what update they want to see next. It is an example of how the Creative Cloud channel has incorporated customer feedback into the product."
+        }
+      ]
+    },
+    "design/design-lamp-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6.jpg",
+          "cap": "A desk robot lamp unveiled by Autonomous. It moves via a camera-equipped head and five servos."
+        },
+        {
+          "t": "p",
+          "x": "Autonomous has unveiled 「Lamp」, a Pixar-style desk lighting robot that moves as if it were alive. It can see and hear, and it also doubles as an AI assistant."
+        },
+        {
+          "t": "p",
+          "x": "A video clip of it answering the question 「What does it feel like to be alive?」 drew praise after being played more than 274,000 times on X."
+        },
+        {
+          "t": "p",
+          "x": "Autonomous says 「every AI so far has lived behind glass.」 Unlike existing AI trapped in a browser tab and forgotten within a week, the company argues Lamp has a 「living body.」 Its camera-equipped head moves on five position-feedback servos and it also has a microphone array and stereo speakers. Every motion was designed in detail, down to a brief hesitation before lifting its head, a startle when something passes through its view, and a slow settling motion."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zTpJcfJoAaRHcbB7HiKbzE.jpg",
+          "cap": "According to Autonomous, most of the development time went into this single motion. (Image credit: Autonomous)"
+        },
+        {
+          "t": "p",
+          "x": "Autonomous said it spent most of its development time on this motion, since it is what creates the illusion that you are looking at a living creature rather than a device."
+        },
+        {
+          "t": "p",
+          "x": "Lamp keeps watching the user, reminding them to drink water, pointing out slouched posture, tracking break times, and offering to play calm music if they look tired. It can also talk with other robots."
+        },
+        {
+          "t": "p",
+          "x": "It has everyday uses too. It checks the inbox, schedules events on Google Calendar, posts to WordPress, and reads out GitHub issues while you type. Its features can be expanded through a 「Skill Store」 with more than 70 add-ons."
+        },
+        {
+          "t": "p",
+          "x": "Users can stop it from watching or mute it, which eases some of the unease of having a surveillance device on the desk. Whether or not that concerns you, the motion and craftsmanship themselves are impressive."
+        },
+        {
+          "t": "p",
+          "x": "Lamp starts at $499, dropping to $464 each for bulk orders of 30 or more units. It comes in four colors, fully assembled, shipping from September 24, 2026, with a one-year warranty and a 30-day return policy."
+        }
+      ]
+    },
+    "design/design-rtx-spark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
+          "cap": "At IFA 2026, NVIDIA unveiled its local AI agent ecosystem all at once."
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA, together with Microsoft and several partners, rolled out a wave of tools at IFA 2026 to make running local AI agents faster and easier. The new compact RTX Spark PC launches in October."
+        },
+        {
+          "t": "p",
+          "x": "Hermes Agent, OpenClo, and the Perplexity portable computer help make local AI easier to set up on NVIDIA GPUs. Optimizations to llama.cpp and vLLM have made local inference up to 1.9 times faster, and the gains are available right away in LM Studio and Ollama."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/09/local-ai-ifa-blog-body.jpg",
+          "cap": "llama.cpp raised throughput on the GeForce RTX 5090 by up to 1.9 times through kernel optimizations."
+        },
+        {
+          "t": "p",
+          "x": "The newly launched NVIDIA Personal AI Router (PAIR) is a free, open-source tool that automatically distributes inference tasks across multiple PCs on the same network. More than half of U.S. households own more than two PCs, most of which sit idle, and PAIR helps put that capacity to shared use."
+        },
+        {
+          "t": "p",
+          "x": "One piece of news that will catch a designer's eye is CyberLink PhotoDirector's AI PC Mode. Optimized for the RTX Spark, it supports generative editing, image correction, object and blemish removal, background replacement, portrait retouching, and generating entirely new images, letting users choose local or cloud processing depending on the task. It accelerates local computation with TensorRT-RTX and FP8."
+        },
+        {
+          "t": "p",
+          "x": "The RTX Spark is set to launch in October. With an RTX Blackwell GPU delivering 1 petaflop of performance, up to 128GB of unified memory, and a 20-core Grace CPU, it spans everything from thin laptops to small desktops meant to run agents around the clock. Lenovo and Acer have unveiled new devices, and game studios such as EA, Embark, and Ubisoft are also lending support."
+        }
+      ]
     }
   }
 }

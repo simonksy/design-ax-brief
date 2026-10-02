@@ -4853,6 +4853,489 @@
           "x": "Por eso celebro el enfoque de Noruega. Dejamos las plataformas de redes sociales sin regular durante años antes de intentar siquiera supervisarlas, y todavía estamos lidiando con las consecuencias. Las empresas tecnológicas han tratado el anonimato público como un daño colateral aceptable en su carrera por nuevo hardware y funciones. Si las empresas no van a construir salvaguardas adecuadas por sí mismas, los reguladores deben trazar la línea en su lugar."
         }
       ]
+    },
+    "gadgets/gadgets-gemini-spark-google-photos": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Fotos se ha añadido a la lista de aplicaciones propias que controla Gemini Spark. Google dice que su agente personal puede manejar “tareas complejas de varios pasos” en la biblioteca de fotos del usuario."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&w=1600",
+          "cap": "Gemini Spark"
+        },
+        {
+          "t": "p",
+          "x": "Esto es lo que puede hacer: buscar fotos y videos por tema, lugar, fecha o evento, y pedirle que elija las mejores tomas o filtre los duplicados. Puede retocar la calidad de la imagen, aplicar correcciones sencillas y crear collages o imágenes con estilo. Las ediciones siempre se guardan en Google Fotos como una copia nueva."
+        },
+        {
+          "t": "p",
+          "x": "Con los álbumes ocurre lo mismo. Puede crear un álbum nuevo, compartido o privado, y llenarlo con las fotos elegidas. Los enlaces al álbum que crea se envían a través de aplicaciones conectadas como Gmail, Google Docs y Mensajes. También puedes programar tareas recurrentes, como crear un álbum mensual de lo más destacado o reunir por separado las fotos de recibos, y también puede extraer texto de las imágenes."
+        },
+        {
+          "t": "p",
+          "x": "Combinado con funciones ya existentes de Spark, como la programación y la limpieza en segundo plano, se vuelven posibles instrucciones como esta: “Cada fin de semana, elige las mejores fotos de comida, haz un collage y ponlo en un álbum nuevo llamado 'Lo que comió mi cámara esta semana'”."
+        },
+        {
+          "t": "p",
+          "x": "También puede pasar la información que encuentra en las fotos a otras aplicaciones conectadas, como Gmail o Workspace: “Compara mis fotos del concierto de verano del barrio con mi calendario de Google. ¿Qué noche puedo ir?”"
+        },
+        {
+          "t": "p",
+          "x": "Google también dio ejemplos de encadenar varias acciones a la vez: elegir las 15 mejores fotos del viaje a Hawái de la semana pasada, retocar las tomas de playa, ponerlas en un álbum compartido llamado 'Aloha 2026' y redactar un correo con el enlace; o reunir fotos y videos recientes de una fiesta de calle en un álbum llamado 'Summer Block Party' y preparar un correo para enviar al grupo del barrio."
+        },
+        {
+          "t": "p",
+          "x": "También incorpora salvaguardas. Se crea una copia antes de cualquier edición, y los álbumes nuevos son privados por defecto. Spark pide permiso antes de compartir un álbum o enviar un correo."
+        },
+        {
+          "t": "p",
+          "x": "Se está implementando de forma gradual durante varias semanas para los suscriptores de Google AI Pro y Ultra en Estados Unidos."
+        }
+      ]
+    },
+    "gadgets/gadgets-lenovo-aeroblade-rollable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lenovo es una empresa que lleva portátiles conceptuales a la IFA de Berlín. Los dos que trajo este año se centraron en productividad y portabilidad, y se vieron más cerca de algo que realmente se puede comprar que los conceptos vistos antes."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH-1999-80.jpg",
+          "cap": "Lenovo Project Swan (Foto: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "Primero, Project AeroBlade es un portátil de 14 pulgadas. En palabras del comunicado de prensa, “rediseñó cada componente en torno a la movilidad”. Abandona el ventilador por la refrigeración de estado sólido AirJet de Frore Systems, en la que una membrana piezoeléctrica vibra en una frecuencia ultrasónica inaudible para el oído humano. Lleva cuatro módulos AirJet Mini, tres más que el único de referencia visto en el diseño de referencia de Intel Wildcat Lake en el Computex de este año."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aPmjCfw9UwxrZwrkGoV5wG.jpg",
+          "cap": "Lenovo Project AeroBlade (Foto: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "El AirJet Mini más reciente de Frore Systems extrae 7,5 vatios por módulo, así que AeroBlade enfría activamente un total de 30 vatios. Eso combina bien con el chip Intel Lunar Lake que Lenovo puso en este concepto, que tiene un TDP de 17 a 30 vatios."
+        },
+        {
+          "t": "p",
+          "x": "Gracias a una placa base pequeña y un chasis de magnesio y aluminio, el grosor bajó a 0,39 pulgadas (10mm) y el peso a menos de 1,83 libras (830 gramos). Al ser tan fino, los únicos puertos son USB-C/Thunderbolt 4, pero hay tres, junto con una pantalla OLED y Wi-Fi 7."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CU2AEVqRkbGakR23xJ5KKH.jpg",
+          "cap": "AeroBlade, enfriado sin ventilador por cuatro unidades AirJet Mini (Foto: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "La otra máquina es Project Swan, el regreso de Lenovo a las pantallas enrollables, esta vez más comedido y realista que antes. Va dentro de lo que parece un chasis ThinkBook de 14 pulgadas corriente, y al pulsar un botón la pantalla se despliega a 17 pulgadas en 16:9, con una resolución de 2850 x 1672."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/kBt7bDvoh4RacW5GUKzspG-1200-80.jpg",
+          "cap": "Project Swan desplegándose a 17 pulgadas con solo pulsar un botón (Foto: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "Está claro que no es una máquina de 14 pulgadas ligera y fina. Pesa 3,53 libras (1,6 kg) y mide 0,7 pulgadas (17,9mm) de grosor. El volumen adicional se concentra en la tapa, que alberga el mecanismo de enrollado y los marcos que se extienden hacia los lados. El ruido del motor era lo bastante fuerte como para resultar difícil de ignorar en un producto terminado. En cambio, no se atascó ni una vez durante múltiples aperturas y cierres, algo poco habitual en un concepto como este."
+        },
+        {
+          "t": "p",
+          "x": "Si el mecanismo de la pantalla se redujera un poco más, esto parece listo para convertirse en un producto real. Aunque el volumen no convenza, la idea de llevar encima una máquina de 14 pulgadas y desplegarla a 17 cuando se necesita resulta bastante atractiva."
+        }
+      ]
+    },
+    "gadgets/gadgets-nvidia-pair-gpu-cluster": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si siempre te faltan tokens de IA, y tienes en casa varias PC con GPU ociosas, esto te va a interesar. La propuesta de Nvidia es aprovechar esos ciclos libres para ahorrar en el costo de tokens en la nube, manteniendo el trabajo dentro de casa."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta presentada en IFA 2026 se llama Personal AI Router, o PAIR para abreviar. Toma las subtareas que el agente de tu PC principal divide y las reparte entre los sistemas de tu red doméstica que tienen GPU disponible."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg",
+          "cap": "Personal AI Router (PAIR) (Imagen: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Así lo explica Nvidia: le das un objetivo a un agente local, y un agente central divide ese objetivo en varias subtareas. Si todas esas tareas se amontonan en la misma GPU, compiten entre sí por espacio y todo se vuelve más lento, mucho más que si cada subagente tuviera su propio nodo de cómputo dedicado."
+        },
+        {
+          "t": "p",
+          "x": "PAIR dispersa ese trabajo por la red doméstica. En una casa con GPU de sobra, cada sistema participante se encarga de una subtarea y devuelve el resultado al nodo principal, lo que abre la posibilidad de que una tarea grande termine más rápido."
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, las otras PC no siempre están ociosas. Sus dueños juegan, hacen trabajo creativo o usan la GPU para sus propias tareas de IA. Si alguien recupera su GPU, PAIR está diseñado para absorber ese cambio sin problemas. No reserva por adelantado la capacidad de las PC de otros; en cambio, está construido para crecer y reducirse según los recursos que estén libres en cada momento."
+        },
+        {
+          "t": "p",
+          "x": "Como no se sabe cuándo aparecerán ciclos libres, la calidad del clúster de PAIR no está garantizada. Pero para un trabajo largo sin una fecha límite ajustada, sigue siendo mejor que amontonar todo un enjambre de agentes en un solo nodo."
+        },
+        {
+          "t": "p",
+          "x": "La instalación es bastante sencilla. Configuras un proxy al que se conecta un frontend de IA como LM Studio u Ollama, y PAIR distribuye el trabajo entre los nodos de la red y devuelve los resultados a esa aplicación original. Cada nodo participante también necesita tener instalado PAIR junto con Ollama o LM Studio. La detección de nodos usa mDNS, y recurre a direcciones IP si eso falla. Nvidia dice que los nodos participantes no necesitan tener cargado el mismo modelo."
+        },
+        {
+          "t": "p",
+          "x": "Los requisitos son una unidad DGX Spark (u otro GB10), o una tarjeta gráfica GeForce RTX serie 20 o más reciente. Para inferencia, también se admiten Mac con chips de la serie M4 o posteriores. Hay clientes disponibles para Windows, macOS y Linux."
+        }
+      ]
+    },
+    "gadgets/gadgets-vision-pro-hip-surgery": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El fabricante de dispositivos médicos Stryker anunció esta semana que su aplicación para Apple Vision Pro se usó en una cirugía que podría considerarse un hito. El software para el visor, SportSuite Vision, se empleó en una artroscopia de cadera en Duke Health, su primer uso en un entorno clínico real. La FDA concedió la aprobación De Novo el 17 de julio."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/intro-1788469479.jpg",
+          "cap": "Un Apple Vision Pro usado en el quirófano"
+        },
+        {
+          "t": "p",
+          "x": "Desde que Apple presentó su visor de realidad mixta, ha persistido la pregunta de para quién es realmente este dispositivo. El primer modelo no estaba pensado para el gran público, y tampoco lo estaba la versión M5, más potente, que probamos el año pasado. Aun así, Vision Pro parecía apuntar a un futuro doméstico interesante, a la espera del momento adecuado."
+        },
+        {
+          "t": "p",
+          "x": "Una cirugía compleja se acerca bastante a ese momento. En realidad mixta, el personal médico puede interactuar directamente con el paciente que tiene delante mientras ve datos y herramientas en un espacio digital. En esta primera cirugía con SportSuite Vision, el cirujano mantuvo a la vista las herramientas de planificación quirúrgica ortopédica de Stryker, las imágenes artroscópicas y las tomografías durante toda la artroscopia de cadera."
+        },
+        {
+          "t": "p",
+          "x": "“La computación espacial me permitió organizar la información clínica clave según mi flujo de trabajo y consultarla sin salir del campo estéril”, dijo Chad Mather III, el cirujano ortopédico de Duke Health que realizó la operación con el Vision Pro. “La configuración del quirófano resultó más cómoda y sencilla, y la información que necesitaba permaneció siempre a la vista.”"
+        },
+        {
+          "t": "p",
+          "x": "Dado el precio del visor y lo exigente que es desarrollar el software, falta bastante para que el médico de cabecera lo use en una revisión rutinaria. Que Apple haya recortado buena parte del equipo de Vision Pro el mes pasado tampoco es una buena señal para su adopción masiva. Aun así, a la hora de juzgar para qué sirven los visores de realidad mixta, este tipo de aplicación es justo la que podría poner al Vision Pro en su lugar."
+        }
+      ]
+    },
+    "gadgets/gadgets-anker-mindbase-hub": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En IFA 2026, Anker presentó un nuevo hub para el hogar inteligente. Su nombre, nada modesto, es MindBase. Tiene forma de torre, similar a un router Wi-Fi común. La empresa amplió considerablemente AnkaAI, el asistente de voz antes limitado a sus dispositivos Soundcore, e incorporó el resultado al nuevo hub, en su primer intento directo de competir en el mercado del hogar inteligente dominado por Apple, Google y Amazon."
+        },
+        {
+          "t": "p",
+          "x": "MindBase no se limita a ser un controlador de hogar inteligente. Incluye almacenamiento local ampliable tipo NAS y procesamiento de IA en el propio dispositivo para analizar las imágenes de las cámaras de seguridad. Junto con el lanzamiento, Anker anunció otra novedad: retirará las submarcas Eufy y Soundcore, y pronto las unificará bajo el nombre Anker."
+        },
+        {
+          "t": "p",
+          "x": "MindBase es un controlador Matter 1.5, es decir, puede actuar por sí solo como el cerebro de los dispositivos compatibles con Matter. Basta conectar bombillas inteligentes, abridores de puertas de garaje, robots aspiradores y distintos sensores, y luego darles órdenes de voz a AnkaAI. También se integra con Apple Home, Google Home, Amazon Alexa y Home Assistant. Brett White, gerente de relaciones públicas de Anker en el stand de IFA, explicó que en ese papel MindBase se comporta como un Hue Bridge o un SwitchBot Hub, transfiriendo los dispositivos Matter ya conectados a la plataforma que elija el usuario."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/MindBase-top-off.jpg",
+          "cap": "MindBase con la parte superior abierta (Foto: Wes Davis / Gizmodo)"
+        },
+        {
+          "t": "p",
+          "x": "Lo que más llamó la atención fue el asistente de hogar inteligente. Según Anker, MindBase se diseñó inicialmente como un dispositivo centrado en la seguridad, similar a su propio HomeBase: por ejemplo, si detecta que uno llega a casa casi siempre a la misma hora, sugiere desactivar las alertas de cámara. Desde ahí el alcance se amplió, y ahora puede conectarse a cualquier dispositivo Matter y controlarlo tanto desde la app de Anker como por voz."
+        },
+        {
+          "t": "p",
+          "x": "Como hub de cámaras de seguridad, es esencialmente una versión mejorada del Eufy HomeBase. Admite 16 cámaras de seguridad inalámbricas, y si se conecta un switch PoE externo, se pueden añadir cuatro cámaras con cable más. Quienes venían usando un HomeBase S380 pueden migrar sus grabaciones guardadas a MindBase."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Eufy-MindBase-Neural-Chip.jpg",
+          "cap": "El chip de procesamiento de IA, extraíble (Foto: Wes Davis / Gizmodo)"
+        },
+        {
+          "t": "p",
+          "x": "La IA de seguridad integrada en el dispositivo ejecuta un LLM propio en un chip de 26 TOPS. Como referencia, los PC Copilot de Microsoft exigen un mínimo de 40 TOPS. Anker afirma que este agente de IA “evalúa eventos en tiempo real para determinar el riesgo, y responde con observación, iluminación, avisos de voz y disuasión activa”. La empresa también planea lanzar más adelante agentes para la gestión energética del hogar y para administrar dispositivos de limpieza y electrodomésticos. El chip de procesamiento de IA está cerca de la ranura del disco duro, en la parte superior del dispositivo, y se puede extraer fácilmente, por lo que podría reemplazarse más adelante."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Eufy-MindBase-ports.jpg",
+          "cap": "Puertos en la parte trasera de MindBase (Foto: Wes Davis / Gizmodo)"
+        },
+        {
+          "t": "p",
+          "x": "Por último está el NAS. White dijo que es un NAS de verdad, que no solo almacena archivos sino que también ejecuta aplicaciones. El almacenamiento flash integrado es de 64GB, y se le pueden añadir hasta 48TB más usando discos duros de 2,5 o 3,5 pulgadas, o unidades SSD. Según la empresa, se pueden buscar fotos, grabaciones y documentos guardados mediante lenguaje natural, y los datos personales nunca salen hacia la nube. Tampoco hay cuota de suscripción."
+        },
+        {
+          "t": "p",
+          "x": "Anker también vende un kit de seguridad para MindBase. Combina la cámara Eufy TrackLight Cam S1 y el videoportero Video Doorbell S4, recién presentados, con sensores de entrada y movimiento y el Smart Security Shield. Según la empresa, este Shield es un sensor que “detecta a extraños hasta a 15 metros de distancia, y reconoce a familiares hasta a 30 metros usando credenciales digitales DSKey”. Aquí, “familiares” se refiere a los miembros que han instalado la app de Anker y se han registrado en el hogar."
+        },
+        {
+          "t": "p",
+          "x": "El precio y la fecha de lanzamiento todavía no se han anunciado."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-overlay-bubble": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La superposición de Gemini en Android ahora tiene una opción de multitarea. Al minimizarla, queda un acceso directo flotante con forma de burbuja."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&w=1600",
+          "cap": "La superposición de Gemini en el Pixel 11 Pro"
+        },
+        {
+          "t": "p",
+          "x": "Se añadió un botón de “Minimizar” en la parte superior de la superposición. Justo después de escribir un mensaje, se ubica en el centro; una vez que aparece la respuesta, se mueve hacia la derecha del contenedor con forma de píldora."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-overlay-Minimize-bubble-1a.jpg?ssl=1",
+          "cap": "El botón de minimizar que aparece al escribir un mensaje"
+        },
+        {
+          "t": "p",
+          "x": "Al presionarlo, la superposición se repliega en una burbuja con el logo de la chispa. Google lo describe así: “Usa Gemini incluso mientras haces varias cosas a la vez. Tócala para expandirla. Arrástrala para moverla o cerrarla.”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-overlay-Minimize-bubble-2a.jpg?ssl=1",
+          "cap": "La burbuja de Gemini que queda en pantalla tras replegarse"
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, la burbuja queda fija en una de seis posiciones predefinidas y no se puede colocar en cualquier lugar. También aparece un error por el que la burbuja vuelve a la esquina inferior derecha cada vez que se minimiza."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-overlay-Minimize-bubble-3a.jpg?ssl=1",
+          "cap": "La burbuja flotando sobre otra app"
+        },
+        {
+          "t": "p",
+          "x": "Una vez que aparece toda la respuesta, tocar fuera de la hoja la devuelve a su forma de burbuja. Usar el gesto de retroceso del sistema cierra toda la superposición, y también se puede cerrar arrastrándola."
+        },
+        {
+          "t": "p",
+          "x": "Es claramente más rápido que abrir la app de Gemini, entrar al panel lateral y volver a la conversación. Se usa para lanzar una pregunta, minimizarla y hacer otra cosa en lugar de esperar sin avanzar a que llegue la respuesta. Para una experiencia más completa, también se puede aplicar la función de burbujas del sistema de Android 17 a la app de Gemini."
+        },
+        {
+          "t": "p",
+          "x": "El botón de minimizar y la burbuja de Gemini se están implementando ampliamente hoy en Android."
+        }
+      ]
+    },
+    "gadgets/gadgets-ikairos-modular-wearable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El iKairos de Ringverse es un wearable de IA modular que viene en forma de robot acompañante de escritorio. También se puede separar del cuerpo y usar como colgante de IA alrededor del cuello. Su objetivo es reunir datos de contexto y mostrar al usuario sugerencias realmente útiles."
+        },
+        {
+          "t": "p",
+          "x": "Ni los colgantes con IA ni los robots de IA de escritorio son nuevos. Pero en IFA 2026, la empresa singapurense Ringverse presentó un wearable modular que se puede dejar sobre el escritorio y también colgar del cuello."
+        },
+        {
+          "t": "p",
+          "x": "El producto se llama iKairos. Gracias a su diseño modular, aprende sobre la vida del usuario desde varios ángulos. Sobre el escritorio, observa y reacciona como cualquier otro robot de IA de escritorio. Al salir, basta con sacarlo del cuerpo del robot y colocarlo en un collar."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-1.jpg",
+          "cap": "iKairos presentado en IFA 2026 (Foto: Adamya Sharma / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "Por eso iKairos recopila datos de contexto del usuario en distintos entornos. Los datos recopilados pasan al sistema operativo de IA de Ringverse, LifeOS, que luego elige sugerencias relevantes y, con suerte, útiles."
+        },
+        {
+          "t": "p",
+          "x": "El ejemplo que dio Ringverse es el siguiente: si iKairos nota que el tema de la navegación a vela sale repetidamente en las conversaciones pero nunca se traduce en acción, sugiere tomar una clase de navegación el fin de semana."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-2.jpg",
+          "cap": "Separado como módulo de collar (Foto: Adamya Sharma / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "La privacidad también se destaca. Según la empresa, iKairos combina protecciones de software y de hardware. Tiene un obturador físico de cámara, una luz indicadora de privacidad y un botón de silencio manual. Los datos se cifran tanto en tránsito como en reposo, no se usan para entrenar modelos de IA, y el usuario decide cuánto tiempo se conservan."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-3.jpg",
+          "cap": "El obturador físico y la luz indicadora de privacidad (Foto: Adamya Sharma / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "La visión más amplia de Ringverse es que iKairos construya una comprensión detallada y sutil de los hábitos, el trabajo, los amigos y las conversaciones del usuario. La idea es trasplantar esa comprensión acumulada a cuerpos de robot o accesorios, y así impulsar en el futuro robots domésticos."
+        },
+        {
+          "t": "p",
+          "x": "Todavía no se han fijado el precio ni la fecha de lanzamiento. Quien tenga interés puede anotarse en la lista de espera en el sitio web de Ringverse."
+        }
+      ]
+    },
+    "gadgets/gadgets-minisforum-local-ai-boxes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El fabricante de mini PC Minisforum presentó las últimas versiones de sus dos productos insignia en IFA 2026, en Berlín. Uno es la NAS con agente de IA N5 Max-P495, sucesora de la NAS insignia que llegó a principios de este año con OpenClaw preinstalado; el otro es la MS-S1 Max-P495, una mini PC pensada para cómputo de IA. Ambas integran un AMD Ryzen AI Max+ Pro 495 con una GPU Radeon 8065S para entregar hasta 131 TOPS, y ambas escalan hasta 192GB de memoria unificada, de los cuales 160GB se pueden destinar a memoria gráfica."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/66ZKeMNUG2Qj6bscFTNUdY.png",
+          "cap": "Los nuevos productos de Minisforum (Foto: Minisforum)"
+        },
+        {
+          "t": "p",
+          "x": "La N5 Max-P495 admite hasta 200TB de almacenamiento local. Combinada con el Ryzen AI Max+ Pro 495, puede ejecutar agentes como OpenClaw o Hermes Agent directamente sobre el dispositivo de almacenamiento. Como los datos nunca salen del dispositivo, se preserva la privacidad, y el almacenamiento local también reduce la latencia. Minisforum dijo que diseñó la N5 MAX-P495 como “un backend central que reúne datos, modelos, conocimiento y tareas de IA de larga duración”. Si se considera que la IA agéntica consume 1.000 veces más tokens que una IA normal, también resulta útil para mantener bajo control el costo de inferencia."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/H4yaCzWFJ7ig7CGmMyhDvG-1200-80.png",
+          "cap": "La NAS con agente de IA N5 Max-P495 (Foto: Minisforum)"
+        },
+        {
+          "t": "p",
+          "x": "Si se necesita más potencia para trabajo profesional o flujos creativos, la opción es la MS-S1 Max-P495. Igual que la NAS, es una versión renovada de la mini PC insignia existente de la empresa; el modelo anterior usaba un APU AMD Ryzen AI Max 395+. El nuevo producto cambia al Ryzen AI Max+ Pro 495, y entrega 55 TOPS solo con la NPU dedicada y 131 TOPS en total. Admite modelos de Gemma, OpenAI y Qwen, entre otros. También es fácil de escalar: entran cuatro unidades en un rack de 2U."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BE2swDtHJbeRNDsjzQ5dJU-1200-80.png",
+          "cap": "La estación de trabajo mini de IA MS-S1 Max-P495 (Foto: Minisforum)"
+        },
+        {
+          "t": "p",
+          "x": "Ambos equipos también son una buena alternativa a la Mac Mini y la Mac Studio, que están escasas por el auge de la IA local. Lo mismo aplica a quien quiera una máquina pequeña sin recortes de rendimiento, tenga o no interés en IA. Como la memoria unificada se puede pedir hasta con 192GB, no hay riesgo de quedarse corto de RAM en renderizado 3D, edición de video o dinámica de fluidos computacional. La 8060S del antiguo Ryzen AI Max 395+ ya movía bien juegos en 1080p, así que también hay mucho margen para jugar con la nueva mini PC."
+        },
+        {
+          "t": "p",
+          "x": "Si se busca algo para ejecutar modelos, la N5 Max-P495 y la MS-S1 Max-P495 son candidatas que vale la pena considerar. Aun así, conviene poner medidas de seguridad para que un agente no borre todo el directorio de inicio. Ninguno de los dos productos tiene todavía precio ni fecha de lanzamiento. Quien quiera verlas en persona y esté en Berlín puede pasar por IFA, que se celebra del 4 al 8 de septiembre."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google, tras añadir recientemente a la app de Google Home una función de cuentos con IA conversacional, alarmas mejoradas, un reconocimiento de canciones más preciso y una forma más sencilla de difundir mensajes, lanza ahora una nueva actualización que lleva a Gemini for Home un paso más allá."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg",
+          "cap": "El logotipo de Gemini en un teléfono Android."
+        },
+        {
+          "t": "p",
+          "x": "Esta actualización de la app de Google Home ya ha comenzado a desplegarse e incluye pequeñas mejoras que amplían el alcance del control por voz de Gemini for Home y facilitan la gestión de automatizaciones."
+        },
+        {
+          "t": "p",
+          "x": "El mayor cambio es que Gemini ahora entiende una gama mucho más amplia de comandos de voz que abarcan tanto el control de medios como el de dispositivos del hogar. Ahora los comandos de medios pueden combinarse con otros tipos de comandos en una sola solicitud, de modo que se pueden dar dos acciones a la vez, como 「apaga las luces y apaga también la música」."
+        },
+        {
+          "t": "p",
+          "x": "En comparación con el anterior Google Assistant, Gemini for Home ya era un asistente mucho más capaz y conversacional, por lo que resultaba extraño que no pudiera combinar comandos de medios y de hogar inteligente. Ahora que estos comandos pueden encadenarse, solicitudes como 「salta esta canción y enciende las luces del patio trasero」 o 「apaga la música y apaga las luces de la sala」 ya no la confunden ni generan errores."
+        },
+        {
+          "t": "p",
+          "x": "También hay buenas noticias para los usuarios de Google Home que últimamente tenían problemas al configurar alarmas o añadir elementos a una lista de Google Keep. Google confirmó que esta actualización corrige ambos errores y que esos comandos ya funcionan correctamente."
+        },
+        {
+          "t": "p",
+          "x": "Por último, esta actualización también facilita mucho la gestión de las automatizaciones de Google Home. Las listas de activadores y acciones dentro del editor de automatizaciones ahora se ordenan automáticamente por orden alfabético, lo que permite encontrar más rápido la función del dispositivo deseada. Además, para quienes gestionan automatizaciones mediante aplicaciones de terceros, Google Home ahora respeta la configuración de visibilidad establecida en esa aplicación, de modo que las rutinas de terceros marcadas como privadas ya no saturan la lista de automatizaciones de Google Home."
+        }
+      ]
+    },
+    "gadgets/gadgets-govee-ai-lighting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Govee vuelve a apostar por la iluminación ambiental para el hogar inteligente en IFA 2026. Los nuevos productos de iluminación con IA presentados ajustan la luz ambiental de forma automática, admiten transiciones de color muy precisas y ofrecen configuraciones personalizadas para espacios interiores y exteriores."
+        },
+        {
+          "t": "p",
+          "x": "El Sky Ceiling Light es un producto centrado en gestionar el estado de ánimo a lo largo del día. Con el nuevo AI Lighting Bot 2.0 de Govee, ajusta la iluminación según la rutina o el estado de ánimo del momento, y emite una luz azul cielo con una longitud de onda de 478nm para ayudar a mantener el estado de alerta en horas con poca luz solar. Emite hasta 7.000 lúmenes de luz blanca con un CRI de 95, y su rango de temperatura de color va de 1.000K a 10.000K. Cuenta con la certificación TÜV Rheinland de funcionamiento sin parpadeo y baja luz azul, y es compatible con Matter. Se vende en Estados Unidos desde el 4 de septiembre por 399 dólares, y en Europa por 399 euros."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Govee-Sky-Ceiling-Light-lifestyle-image.jpg?resize=2000%2C1200",
+          "cap": "El Govee Sky Ceiling Light."
+        },
+        {
+          "t": "p",
+          "x": "El COB Strip Light 2 Pro, pensado para iluminación de acento en interiores, produce una iluminación ambiental suave y sin uniones visibles. También integra el AI Lighting Bot 2.0, que permite crear escenas de luz adaptadas a juegos, cine o lectura usando solo comandos de texto o voz. Dispone de 1.344 LED y 16 IC por metro en una estructura de triple ranura para una difusión de luz sin uniones, y mejora la precisión del color con tecnología RGBWWIC, un CRI de 92 y un rango de temperatura de color de 1.000K a 10.000K. El modelo de 5 metros llega el 4 de septiembre por 169,99 dólares (179,99 euros en Europa), y el de 2 metros a finales de septiembre por 99,99 dólares (89,99 euros en Europa)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Govee-COB-Strip-Light-2-Pro-lifestyle-image.jpg?resize=2000%2C1200",
+          "cap": "El Govee COB Strip Light 2 Pro."
+        },
+        {
+          "t": "p",
+          "x": "El último de esta línea es el Permanent Outdoor Lights 2 Pro, para iluminación exterior de viviendas. Su mejora de hardware más notable es una estructura de emisión de luz de doble capa, con dos chips IC de control independiente en cada cabezal, que permiten mostrar colores o efectos distintos en las secciones superior e inferior al mismo tiempo. Gracias al sistema de gestión de color LuminBlend+ de Govee, puede gestionar transiciones de color complejas a lo largo de todo el alero del techo, y, como el resto de la nueva línea, se conecta al AI Lighting Bot 2.0, lo que permite crear temas festivos o ambientes exteriores cotidianos con solo una instrucción sencilla. Sale a la venta en Estados Unidos a partir del 7 de septiembre, con un precio de 499,99 dólares por 100 pies y 799,99 dólares por 200 pies."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Govee-Permanent-Outdoor-Lights-2-Pro-lifestyle-image.jpg?resize=2000%2C1200",
+          "cap": "El Govee Permanent Outdoor Lights 2 Pro."
+        }
+      ]
+    },
+    "gadgets/gadgets-homepod-siri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según Mark Gurman, de Bloomberg, Apple está probando internamente un nuevo HomePod de tamaño completo con IA de Siri."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/t6jJN3ydbuPh9w847p_UiDAlqGY=/2500x/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
+          "cap": "El actual HomePod de segunda generación, lanzado en 2023."
+        },
+        {
+          "t": "p",
+          "x": "Gurman señaló en un informe sobre las próximas novedades de Apple publicado hoy que este altavoz no está cerca de salir al mercado, es decir, que no se trata de un producto inminente. El HomePod que se usa actualmente salió en enero de 2023."
+        }
+      ]
+    },
+    "gadgets/gadgets-ugreen-homeagent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ugreen, conocida por sus cargadores y cables, se ha adentrado en el negocio del hogar inteligente. Su nuevo HomeAgent es un hub de IA local que gestiona los dispositivos de su ecosistema, diseñado para procesar todos los datos en el propio dispositivo en lugar de en servidores en la nube."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Ugreen-HomeAgent-1.jpg?quality=82&strip=all&resize=1200,628",
+          "cap": "El Ugreen HomeAgent."
+        },
+        {
+          "t": "p",
+          "x": "Ugreen lanzó dos modelos juntos, el HA100 y el HA100 Pro. La función principal de este hub de IA local, que funciona en la red doméstica, es resumir los eventos detectados alrededor de la casa. De forma similar a la función premium de Google Home, analiza las imágenes de las cámaras sin un servidor externo para generar descripciones que distinguen entre personas, mascotas y vehículos."
+        },
+        {
+          "t": "p",
+          "x": "El hub también elige por sí mismo imágenes destacadas de la biblioteca de fotos accesible y las muestra en el marco de fotos inteligente de Ugreen. Según el fabricante, ambos modelos de HomeAgent admiten Matter, lo que permite integrar otros dispositivos conectados en la red dentro de un ecosistema de hogar inteligente más amplio y controlarlos localmente."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Ugreen-HomeAgent-cameras.jpg?quality=82&strip=all",
+          "cap": "La línea de cámaras SinKare presentada junto con HomeAgent."
+        },
+        {
+          "t": "p",
+          "x": "Ugreen también presentó dispositivos que son compatibles con HomeAgent desde el primer momento. La línea incluye tres cámaras pensadas tanto para vigilancia interior como exterior. El modelo para interiores, SinKare, cuenta con función de giro e inclinación, resolución 4K y conectividad Wi-Fi 6, además de un obturador físico pensado para la privacidad."
+        },
+        {
+          "t": "p",
+          "x": "Para exteriores, Ugreen lanzó las versiones SinKare PoE y a batería. Ambas combinan una cámara tipo bala fija con un módulo de giro e inclinación para capturar tres flujos de video a la vez con un zoom híbrido de hasta 9x. La mayor diferencia entre ambos modelos es la forma de alimentación: uno se conecta por Ethernet, mientras que el otro funciona con una batería cargada por energía solar, una diferencia que determina la velocidad de respuesta y la libertad de instalación."
+        },
+        {
+          "t": "p",
+          "x": "Todo el ecosistema HomeAgent, incluidos los dos modelos de hub y las cámaras SinKare, comenzó a aceptar pedidos anticipados desde el mismo día de su presentación."
+        }
+      ]
     }
   }
 }

@@ -3807,6 +3807,296 @@
           "x": "La carga no puede recaer solo en los investigadores. Las editoriales, las instituciones y los diseñadores de plataformas también deben incorporar en su diseño el control sobre la memoria, la separación entre preferencias de estilo y creencias sustantivas, la evaluación de interacciones personalizadas a largo plazo, y la preservación de fuentes y evidencia. La personalización en sí misma no es el enemigo. Un buen compañero de investigación conoce cómo trabajamos, pero no determina a qué conclusiones llegamos."
         }
       ]
+    },
+    "books/books-author-solar-sail": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este episodio del programa de Joanna Penn empieza con noticias del sector editorial y, a partir del minuto 6:50, pasa al segmento “Perspectivas sobre la IA y la escritura”. La introducción aborda cómo revivir un catálogo antiguo y la idea de Tim O'Reilly de la IA como medio."
+        },
+        {
+          "t": "video",
+          "yt": "PzQCZNxBKZI"
+        },
+        {
+          "t": "p",
+          "x": "A partir del minuto 19:32 llega la entrevista con Tracy Cooper-Posey, autora que ha publicado más de 200 novelas y obras de no ficción bajo tres seudónimos. El tema es cómo rediseñar el negocio de autor para el panorama editorial que realmente existe, y no para el que los autores desearían tener."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo es la teoría de la “vela solar”: un criterio para distinguir, entre todo el marketing que se hace hoy, cuál seguirá llevando lectores al libro dentro de diez años. La conversación sigue con la idea de que las redes sociales y la publicidad de pago tienen una vida media corta, con los rasgos de un negocio de autor independiente que perdura, y con cómo encontrar y reducir la resistencia operativa que carga el negocio."
+        },
+        {
+          "t": "p",
+          "x": "Cooper-Posey también cuenta cómo, tras terminar un tratamiento contra el cáncer, volvió a aprender a escribir frase por frase. También explica qué es la enshittification y por qué eso no es culpa tuya, sino del entorno."
+        }
+      ]
+    },
+    "books/books-decoy-font": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/decoy-font.jpg",
+          "cap": "Una frase compuesta con Decoy Font"
+        },
+        {
+          "t": "p",
+          "x": "¿Se pueden leer las letras de arriba? Un modelo de lenguaje de gran tamaño no puede."
+        },
+        {
+          "t": "p",
+          "x": "Se trata de Decoy Font, creada por la empresa de diseño y tecnología Mixfont. Es una tipografía que promete ocultar el texto de los rastreadores de IA. Según una nota de Dezeen, cada letra se dibuja en dos capas: un contorno nítido encima y, debajo, una forma más oscura y difuminada. Los humanos pueden leer ambas capas, entornando los ojos o alejándose un paso. La IA no puede. Es la segunda vez que Mixfont experimenta con tipografía que bloquea a la IA. La obra anterior fue Ghost Font, cuyas letras se movían y se escondían, mareante de mirar."
+        },
+        {
+          "t": "p",
+          "x": "“La mayoría de los sistemas de IA funcionan leyendo de cerca los píxeles de una imagen”, explica Mixfont. “Por eso, si pegas una imagen así en un modelo de IA, el LLM se concentra en el texto en primer plano que tenga el contorno más nítido”. Es una forma ingeniosa y de poco esfuerzo de romper la capacidad de un modelo para procesar texto."
+        },
+        {
+          "t": "p",
+          "x": "James Polta, autor del artículo, disfruta este experimento tanto como objeto de diseño como como gesto creativo de resistencia frente a la IA. Aclara, sin embargo, que Mixfont no es aliada del bando anti-IA. La empresa se describe a sí misma como una “fundición de tipografía digital basada en IA”, y la mayoría de sus herramientas permiten que los usuarios generen tipografías sintéticas con IA."
+        },
+        {
+          "t": "p",
+          "x": "El fundador Eric Lu dijo a Dezeen que el experimento forma parte de un trabajo más amplio sobre IA que “pone a prueba los límites de lo que un LLM puede resolver con facilidad”. “La reacción a esta tipografía muestra que mucha gente siente un cansancio real hacia la IA”, dijo Lu. “Quieren una forma de defenderse de la IA que ha entrado en su vida”."
+        },
+        {
+          "t": "p",
+          "x": "Decoy Font se puede probar directamente en el sitio web de Mixfont, donde también se explica cómo se hizo."
+        }
+      ]
+    },
+    "books/books-wandering-taste": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esto es un texto que la novelista Kyla Zhao escribió para Writer's Digest. Hace poco, antes de la Sun Valley Conference, la entrevistó Women's Wear Daily. Es un encuentro solo por invitación donde cada verano se reúnen en Idaho para socializar y hacer negocios los poderosos de los medios, la tecnología y las finanzas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.writersdigest.com/uploads/2026/09/the-art-of-wandering-protecting-creative-taste-in-the-age-of-algorithms-by-kyla-zhao.png?auto=webp",
+          "cap": "Kyla Zhao, “El arte de vagar”"
+        },
+        {
+          "t": "p",
+          "x": "La entrevista fue en su calidad de autora de “Valley Verified”, una novela sobre una periodista de moda que deja Manhattan por una startup de Silicon Valley. Al preguntarle sobre el acercamiento entre la moda y la tecnología, Zhao dio varias respuestas, pero se guardó una: la idea de que las dos industrias no se parecen tanto como se cree."
+        },
+        {
+          "t": "p",
+          "x": "La moda se sostiene sobre un gusto personal irracional que no puede traducirse en números, por eso una prenda que resulta ridícula en el gancho puede verse espléndida puesta por la persona indicada. La tecnología está en el extremo opuesto. La IA absorbe cantidades enormes de material existente, encuentra patrones y produce resultados que probablemente le gusten a la mayoría: competentes pero planos. En ese proceso se lima la arruga extraña que hace divertidos el arte y la creación."
+        },
+        {
+          "t": "p",
+          "x": "Shein es un ejemplo de esto: una empresa tecnológica disfrazada de empresa de moda. Mientras una casa de moda tradicional señala con cierta intuición creativa lo que la gente debería vestir a continuación, Shein usa datos para detectar aquello a lo que los consumidores ya han respondido y devuelve variaciones producidas a toda velocidad. En lugar de crear tendencias, las deduce con ingeniería inversa a partir de algoritmos y nos dice qué deberíamos querer."
+        },
+        {
+          "t": "p",
+          "x": "Después de notar esa estructura en Shein, vio lo mismo en su propia vida. El algoritmo la conoce tan bien que, en cuanto muestra el más mínimo interés por un tema, ese tema la inunda de inmediato. Se detuvo en un video con una falda larga blanca, y en pocos días todas las mujeres de su feed tenían esa falda."
+        },
+        {
+          "t": "p",
+          "x": "Al principio resulta muy cómodo. Luego, “más de lo que me gusta” se convierte en “nada salvo lo que ya me gusta”. El hábito de vagar desaparece entre días ajustados a la eficiencia y noches alimentadas a cucharadas por el scroll, aunque ese vagar, objetivamente ineficiente, es lo que le ha dado a Zhao sus mejores ideas."
+        },
+        {
+          "t": "p",
+          "x": "Hace unos años en Las Vegas, cansada de su lista de “cosas que hay que hacer”, caminó sin ningún plan bajo el calor del desierto y entró al Mob Museum, de nombre sencillo. Frente a una pared con famosos gánsteres de la historia estadounidense, le pasó por la cabeza un pensamiento: ¿dónde están todas las mujeres? Esos diez minutos fueron la semilla de “Heirs of Infamy”, una novela juvenil que Penguin Random House publicará este octubre."
+        },
+        {
+          "t": "p",
+          "x": "Zhao no ofrece ninguna solución grandiosa. No está diciendo que hay que tirar el teléfono al mar y vivir solo de cartas escritas a mano y palomas mensajeras. Simplemente escribe que quiere ser una persona un poco menos predecible para el algoritmo: ver una película antigua sin consultar Rotten Tomatoes, tomar una revista que normalmente no leería, entrar a un museo sin buscar antes sus puntos destacados."
+        },
+        {
+          "t": "p",
+          "x": "El gusto es un músculo. Si todo lo que consumes ya viene filtrado, clasificado, optimizado y hasta garantizado, nunca tienes que usar ese músculo. Entonces resulta fácil confundir lo que de verdad te gusta con lo que simplemente reconoces de haberlo visto demasiadas veces. Zhao escribe que le gustaría ser alguien un poco más difícil de deducir para un algoritmo mediante ingeniería inversa."
+        }
+      ]
+    },
+    "books/books-google-rolls-out-ai-chatbots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ahora puedes hacerle preguntas a la IA dentro de los libros electrónicos comprados en Google Play Books. Esto se aplica solo a los libros cuya editorial y autor optaron por participar. Los lectores también pueden acceder a funciones como infografías, resúmenes en audio y cuestionarios."
+        },
+        {
+          "t": "p",
+          "x": "La función se llama Expert Intelligence. Construida sobre los cuadernos de Gemini, antes NotebookLM, permite preguntar sobre el contenido del libro, hacer un cuestionario al terminar de leer y convertir datos clave en una infografía. Las respuestas son citas tomadas directamente del libro o resúmenes elaborados por la IA. También puede generar presentaciones de diapositivas."
+        },
+        {
+          "t": "p",
+          "x": "Lo que la distingue de otros grandes modelos de lenguaje es el origen de la información. Google trabaja directamente con las editoriales para mantener la información que se da al usuario atada a ese libro específico, sin mezclar contenido extraído de datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "La lista de lanzamiento cubre más de 100.000 títulos en inglés. La mayoría son libros de no ficción, con Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan, O'Reilly Media y Penguin Random House entre los participantes. Solo se aplica a libros comprados en Google Play Books."
+        },
+        {
+          "t": "p",
+          "x": "El escritor de no ficción Steven Johnson creó la función tras unirse a Google Labs en julio de 2022. Dijo que podría extenderse de los libros de texto a revistas académicas y libros autopublicados con el tiempo. Que esté disponible en el extranjero depende de los términos contractuales de cada región. Si los autores deben optar por participar o por excluirse también depende de su contrato con la editorial."
+        },
+        {
+          "t": "p",
+          "x": "Nihar Malaviya, director ejecutivo de Penguin Random House, dijo que condicionar la función a la compra del libro reconoce el valor del libro mientras pone una barrera real en torno a la protección de derechos de autor. Mary Rasenberger, directora del Authors Guild, también lo calificó de avance positivo. Mientras tanto, editoriales y autores presentaron en julio una demanda que acusa a Google de infringir derechos de autor de forma generalizada al desarrollar sus modelos Gemini."
+        }
+      ]
+    },
+    "books/books-top-wsj-editor-approves-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://futurism.com/wp-content/uploads/2026/08/wsj-ai-writing-fact-of-life.jpg?quality=85&w=1152",
+          "cap": "STAN HONDA/AFP via Getty Images/Futurism"
+        },
+        {
+          "t": "p",
+          "x": "El Wall Street Journal les dijo a sus columnistas de opinión que podían usar IA. Tampoco exige ningún aviso al respecto. Viniendo de un diario importante, la industria lo lee como un punto de inflexión."
+        },
+        {
+          "t": "p",
+          "x": "El lunes, Stanley Druckenmiller publicó 「Let the Bond Market Speak」 en la sección de Opinión del WSJ. Es el exgestor de fondos de cobertura que fundó Duquesne Capital. El texto apuntaba directamente al liderazgo del secretario del Tesoro, Scott Bessent, y de inmediato llamó la atención por la relación personal entre ambos. Pero lo que les llamó la atención a los lectores fue otra cosa: la sospecha de que estaba escrito por IA."
+        },
+        {
+          "t": "p",
+          "x": "En los comentarios circuló un análisis de la herramienta de detección de IA Pangram, y los lectores señalaron frases del tipo “it's not X, but Y” y el llamado “estilo Claude” repartido por todo el texto. El WSJ no incluyó ningún aviso. Druckenmiller admitió de inmediato haber usado IA. “Hay una razón por la que cambié mi carrera de literatura inglesa a economía”, le dijo a NOTUS. “No me da vergüenza. Ahora escribo todo con IA, por la misma razón que uno usa una calculadora para resolver un problema matemático.” También dijo que no entendía por qué su uso de la IA era un problema. “Lleva mi nombre. Es mi mensaje.”"
+        },
+        {
+          "t": "p",
+          "x": "Lo que llamó más la atención fue la reacción del periódico. El editor de Opinión del WSJ, Paul Gigot, le dijo a Max Tani de Semafor que la IA es un hecho de la vida moderna. Si un artículo de opinión refleja la opinión genuina del autor, dijo, está bien publicarlo sin aviso. “La gente va a usar IA en su trabajo y su escritura, incluso para investigación, revisión gramatical y edición. Lo que nos importa es si lo que publicamos refleja el argumento original del autor, y si ese autor tiene la posición y la credibilidad para plantear ese argumento.”"
+        },
+        {
+          "t": "p",
+          "x": "Otros periódicos fueron en la dirección opuesta. La semana pasada, el Financial Times le añadió una corrección visible a un artículo de opinión del profesor de Harvard Ricardo Hausmann. No había revelado que usó IA para recortar un borrador largo, un uso que el código editorial del FT prohíbe explícitamente. En mayo, el New York Times endureció mucho sus normas para colaboradores externos, exigiendo que todo texto e imagen enviado por freelancers sea producto de la creación y el oficio humanos."
+        },
+        {
+          "t": "p",
+          "x": "Tani llamó a este momento un precedente para los medios de noticias. El editor de la segunda página de opinión más importante del país aprobó el uso de IA para redactar borradores, sin exigir ningún aviso. Algunos señalan que no es la primera vez que un multimillonario usa a alguien que escribe por él. Pero redactar el borrador es parte del proceso de construir un argumento. Y dado que las opiniones publicadas en las páginas del WSJ mueven mercados y sacuden políticas, la pregunta sigue abierta."
+        }
+      ]
+    },
+    "books/books-u-s-department-justice-files": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Departamento de Justicia de EE. UU. presentó ante el tribunal una “declaración de interés” de 20 páginas, dirigida al juez Sidney Stein, quien lleva una demanda muy seguida de cerca. El documento sostiene que Estados Unidos tiene un fuerte interés en seguir haciendo crecer una industria de inteligencia artificial sólida y competitiva. Si se restringe el desarrollo de modelos de lenguaje grande por una lectura equivocada del uso justo, se bloquearía el avance de la creatividad y la ciencia, y con ello se frenaría también la prosperidad y la movilidad económica de Estados Unidos."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-03-at-11.41.14-PM.png",
+          "cap": "Una imagen incluida en un artículo de Publishing Perspectives"
+        },
+        {
+          "t": "p",
+          "x": "La presentación se programó para el 4 de septiembre, fecha límite para las mociones de juicio sumario de ambas partes. Los abogados del DOJ consideraron que el entrenamiento de IA es altamente transformativo. Su razonamiento: un fallo que niegue el uso justo dañaría la competencia en el mercado de los LLM, porque al final solo las empresas tecnológicas más grandes tendrían el capital para pagar tarifas de licencia."
+        },
+        {
+          "t": "p",
+          "x": "El texto del escrito dice lo siguiente: que las grandes tecnológicas monopolicen el entrenamiento de LLM gracias a barreras de licencia no es de interés público, y esas barreras funcionan como un gran subsidio a los medios tradicionales ya establecidos. El argumento que sigue es que, si no se fuerza una lectura estrecha de la ley de derechos de autor, los LLM podrían en realidad equilibrar el terreno de juego entre editoriales tradicionales e independientes."
+        },
+        {
+          "t": "p",
+          "x": "En una nota al pie, el escrito no tomó posición sobre si un régimen de licencias es viable, ni en lo financiero ni en lo operativo. En cambio, concluyó que exigir licencias pagas pondría a las empresas de IA estadounidenses en desventaja frente a competidores de países que no respetan de forma consistente la ley de propiedad intelectual de EE. UU. También rechazó el argumento de que la competencia indirecta de los resultados de la IA pudiera constituir una infracción, la misma lógica que está en el centro de dos demandas recientes que editoriales presentaron contra Google y Meta."
+        },
+        {
+          "t": "p",
+          "x": "La llamada teoría de la dilución del mercado fue planteada por el juez Vince Chhabria en el fallo de junio de 2025 de Kadrey contra Meta, que advertía sobre un escenario en el que las obras generadas por IA inundarían el mercado. El DOJ calificó esta teoría de seriamente defectuosa, y sostuvo que el daño de mercado de resultados futuros no tiene relevancia para el análisis caso por caso del uso justo que exige la ley. También descartó, en una breve nota al pie, cualquier razón para deferir a la interpretación de la registradora de derechos de autor Shira Perlmutter."
+        },
+        {
+          "t": "p",
+          "x": "Los defensores del uso justo leen esta presentación como un punto de inflexión para la ley de derechos de autor de EE. UU. Adam Eisgrau, de Chamber of Progress, le dijo a NOTUS que no recordaba un precedente de que el gobierno expusiera su posición sobre el uso justo ante un tribunal con tanta claridad. James Grimmelmann, de Cornell Tech, calificó el escrito de bien construido, con prosa serena y citas de la jurisprudencia adecuada. El vocero del New York Times, Graham James, replicó que el DOJ se puso del lado de un puñado de empresas de IA valoradas en un billón de dólares a costa de los creadores estadounidenses."
+        }
+      ]
+    },
+    "books/books-ai-publishing-scams": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En una entrevista con Writer's Digest, Victoria Strauss, cofundadora de Writer Beware, dice que solo se dio cuenta de la gravedad del problema después de unirse a un grupo de escritores en línea en 1998 y escuchar una historia tras otra sobre agentes falsos que cobran comisiones, agencias de edición deficientes y editoriales de autoedición fraudulentas."
+        },
+        {
+          "t": "p",
+          "x": "Dice que el panorama ha cambiado por completo. Los tipos de estafa tradicionales siguen existiendo, pero ahora predominan las nuevas amenazas creadas con IA. “Un agente literario o editorial de buena reputación casi nunca te contacta primero”, explica Strauss. Los estafadores hacen justo lo contrario: su arma principal es contactar primero a un público indiscriminado."
+        },
+        {
+          "t": "p",
+          "x": "También es común la táctica de hacerse pasar por un autor famoso y ofrecer mentoría como cebo. El estafador se acerca fingiendo ser un escritor reconocido y luego atrae a la víctima hacia servicios falsos, explotando el deseo de reconocimiento de los escritores."
+        },
+        {
+          "t": "p",
+          "x": "Hoy en día es más difícil detectar el engaño, porque la IA puede generar correos de halago sofisticados y adaptados a cada persona. Estos mensajes suelen terminar con una pregunta abierta para alargar la conversación, hasta que finalmente se pide dinero."
+        },
+        {
+          "t": "p",
+          "x": "Que una empresa que se presenta como legítima solo use una dirección de Gmail y no deje ningún rastro en línea es también una señal de alerta. Strauss recomienda distinguir entre las estafas directas, los \"esquemas\" depredadores pero formalmente legales, y las \"trampas\" que empiezan con buena intención pero causan daño por una gestión deficiente."
+        },
+        {
+          "t": "p",
+          "x": "Antes de ChatGPT, una gramática torpe era una señal de correo fraudulento, pero ahora la IA genera frases fluidas y naturales, e incluso las listas de correos se obtienen rastreando la web con IA. Strauss pide no sentir vergüenza por haber sido engañado y denunciarlo primero, y cita como ejemplo de la magnitud del problema el caso de una red de estafas editoriales con base en Filipinas que sustrajo 48 millones de dólares a más de 800 víctimas."
+        }
+      ]
+    },
+    "books/books-anthropic-watermark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Todd Carpenter escribe en un artículo para Scholarly Kitchen que, con la entrada en vigor del artículo 50(2) de la Ley de IA de la UE, Anthropic ha aplicado un sistema de marca de agua a todos los modelos que ha lanzado desde el 2 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "El texto se marca mediante un complejo algoritmo de selección de tokens, mientras que el contenido no textual, como las imágenes, se marca con información de procedencia basada en el protocolo C2PA."
+        },
+        {
+          "t": "p",
+          "x": "Carpenter teme que estas marcas de confianza se confundan fácilmente con una prueba absoluta de la calidad del contenido, del mismo modo que haber pasado una revisión por pares no demuestra la validez de un artículo."
+        },
+        {
+          "t": "p",
+          "x": "Señala que la marca de agua de Anthropic está resolviendo el problema de procedencia equivocado. La pregunta importante no es qué produjo la IA, sino qué contenido humano se usó para producirlo. El acuerdo de derechos de autor entre Anthropic y Bartz también se centró solo en la compensación, dejando sin resolver la atribución de origen de lo generado."
+        },
+        {
+          "t": "p",
+          "x": "La marca de agua en sí también es fácil de romper. Estudios presentados en la International Conference on Machine Learning de 2024 y 2025 mostraron que las técnicas de marca de agua de entonces podían neutralizarse a bajo costo, y desde entonces han surgido herramientas de evasión como el humanizador de Grammarly, en un juego continuo entre detección y evasión."
+        },
+        {
+          "t": "p",
+          "x": "Carpenter también señala el riesgo de que se use como herramienta de vigilancia. Citando el caso de 2017 de la contratista de la NSA Reality Winner, detenida por los puntos de rastreo ocultos en un documento filtrado, advierte que si las cadenas de la marca de agua se almacenan, algún día podrían usarse para rastrear a un usuario específico."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/AdobeStock_1986121828-scaled.jpeg",
+          "cap": "Un dial de la máquina 'Bombe' usada para descifrar los códigos Enigma alemanes durante la Segunda Guerra Mundial."
+        }
+      ]
+    },
+    "books/books-oreilly-ai-writing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En un artículo publicado en O'Reilly Radar, Tim O'Reilly sostiene que la IA debería considerarse un medio, como la pintura, la fotografía o la música, a través del cual los humanos extraen percepción y belleza."
+        },
+        {
+          "t": "p",
+          "x": "Pone como ejemplo un ensayo que escribió el año pasado a partir de sus conversaciones con Claude, 'Why AI Needs Us'. En el epílogo revela: 'La autora de este texto soy yo, pero cada frase la escribió Claude', y explica que lo que preguntó y cómo lo preguntó fue su propia aportación."
+        },
+        {
+          "t": "p",
+          "x": "O'Reilly señala que cuando apareció la fotografía también se lamentó que 'la pintura ha muerto', pero la pintura no desapareció; en su lugar nació un nuevo género artístico, la fotografía. Cree que escribir con IA está, del mismo modo, todavía en la etapa del cine mudo."
+        },
+        {
+          "t": "p",
+          "x": "Frente al ensayo de Ted Chiang 'Why A.I. Isn't Going to Make Art', que sostiene que el arte es la acumulación de miles de decisiones y que, por tanto, no puede surgir de un prompt breve, O'Reilly responde que en ese único prompt puede condensarse toda una vida de lectura y reflexión."
+        },
+        {
+          "t": "p",
+          "x": "También describe su propio proceso de escritura. Cuando ordena transcripciones de reuniones, usa casi sin cambios los borradores de ChatGPT, pero en textos que escribe él mismo, como este ensayo, vuelca pensamientos desordenados, hace que Claude los organice y luego los reescribe una y otra vez."
+        },
+        {
+          "t": "p",
+          "x": "O'Reilly compara escribir con IA con pedalear una bicicleta eléctrica: la velocidad que se obtiene depende del esfuerzo que se pone. Prevé que pronto surgirán escritores que dominen esta herramienta, y dice que no se debería apresurarse a frenar a quienes hoy están probando los límites de la escritura con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image-1-1600x1205.jpeg",
+          "cap": "Una pieza expuesta en el Museo del Duomo de Milán que muestra cómo un estudio a pluma se convierte, a través de un molde de yeso, en una escultura de mármol terminada."
+        }
+      ]
     }
   }
 }

@@ -4247,6 +4247,354 @@
           "x": "El algoritmo se desarrolló en Unity 3D, pero se puede portar a otros motores. Carpenter está preparando algunas funciones más, entre ellas distribuirlo como un paquete de Unity que cualquiera pueda usar. La entrada de blog detallada y la demo web se pueden consultar directamente en el artículo original."
         }
       ]
+    },
+    "games/games-agents404-bezi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Agents 404 es una comedia de sigilo cooperativo basada en física. Una banda de asesinos tremendamente torpes se infiltra en lugares vigilados, se pone disfraces ridículos, elimina a villanos caricaturescos y luego corre a esconder las pruebas que deja atrás. Parte de una premisa tipo Hitman, pero el objetivo no es un asesinato limpio, sino el caos que se genera entre todos."
+        },
+        {
+          "t": "video",
+          "yt": "Dduk8u_16lA"
+        },
+        {
+          "t": "p",
+          "x": "El estudio PlayHero construyó su primer prototipo en alrededor de un mes. Sobre sistemas heredados de un proyecto anterior, el equipo incorporó a Bezi, un agente de IA que funciona directamente dentro de Unity. Usaron el prototipo para validar rápido el concepto y montar un tráiler, y superaron las 60.000 listas de deseos en Steam."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49914/images/6a976fc9388c1/contain_1200x630.jpg",
+          "cap": "Agents 404 — una comedia de sigilo cooperativo basada en física"
+        },
+        {
+          "t": "p",
+          "x": "El fundador Anton Slashcev señala como ejemplo destacado el sistema de ragdoll, en el que varios jugadores cargan un cuerpo juntos. El equipo documenta cada función, y Bezi también ayuda a escribir esos documentos. Antes de empezar una función nueva, le dan contexto primero y redactan los requisitos desde el punto de vista de un diseñador de juegos. Para funciones complejas, también fijan las restricciones técnicas y los patrones de arquitectura que hay que seguir."
+        },
+        {
+          "t": "p",
+          "x": "El siguiente paso es dejar que Bezi haga preguntas a su vez. Se le pide que señale qué necesita aclaración y que proponga mejoras y un plan de implementación. Para funciones delicadas, el desarrollador principal revisa ese plan primero. Solo cuando el plan se aprueba, el agente empieza a escribir código."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/53/images/6a8f7a4368450/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La línea está clara. Bezi se encarga de funciones que no tocan la arquitectura principal o que ya tienen un patrón de implementación establecido. Lo nuevo, lo complejo o lo sensible a la arquitectura queda en manos del desarrollador principal. Los assets siguen siendo responsabilidad de los diseñadores de juegos y los artistas, y Bezi interviene sobre todo para explicar por qué algo no funciona."
+        },
+        {
+          "t": "p",
+          "x": "Algunos sistemas quedan completamente aislados, como la simulación general de comportamiento de los NPC: la IA solo puede acceder a ellos a través de interfaces existentes. Cuando código escrito por IA toca un área sensible, el desarrollador principal siempre lo revisa. Según Slashcev, cuanto más frágil es un sistema —física, cooperación, sigilo—, más necesita una persona entender su estructura. Los sistemas centrales nunca deben convertirse en una caja negra para el equipo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/bd/images/6a9726b2c8469/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Él cree que la etapa de prototipo no exige grandes habilidades técnicas. Construir un sistema de producción escalable es otra historia. El código escrito por IA también puede dejar deuda técnica: manejable dentro de un módulo aislado, pero seria si se extiende por todo el sistema."
+        },
+        {
+          "t": "p",
+          "x": "En la fase inicial de validación, la velocidad va antes que la calidad. El objetivo es simplemente comprobar si una idea funciona y si los jugadores responden. El prototipo construido así reunió 120.000 listas de deseos en dos meses. En palabras de Slashcev, la IA es una ejecutora —a veces incluso una asesora—, pero las decisiones siguen en manos de las personas. Los criterios sobre arquitectura, estilo visual, diseño de juego y UX no han desaparecido."
+        }
+      ]
+    },
+    "games/games-ai-disclosure-bait": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "1666: Amsterdam se dio a conocer como el nuevo juego de Patrice Désilets, cocreador de Assassin's Creed, y sufrió un primer golpe de imagen al presentarse con un arte de IA vergonzosamente malo. En una entrevista con GamesRadar, Désilets dijo que el estudio usó la máquina de plagio “sobre todo al principio, durante la conceptualización y la preproducción”, y que ya la sacaron del proceso. Es una historia que ya hemos escuchado."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/1666.jpg",
+          "cap": "1666: Amsterdam"
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año, el equipo de Blood of Dawnwalker dijo lo mismo. Este juego de sigilo y acción con vampiros, hecho por exdesarrolladores de Witcher, sale esta semana. Lo mismo pasó con Tomb Raider: Legacy of Atlantis. Su página de Steam dice que usaron “herramientas asistidas por IA” para “exploración temprana y contenido de desarrollo provisional”, pero que “cualquier activo en el que intervino la IA fue reemplazado o retocado a mano para preservar la visión creativa y artística del equipo”. El CEO de Larian, Swen Vincke, dio una explicación parecida a comienzos de año."
+        },
+        {
+          "t": "p",
+          "x": "Ya se ha fijado una fórmula. Usar IA, ser descubierto o admitirlo, decir que no hay activos de IA en el juego final y añadir que no se usará IA por un tiempo. Y cerrar con que, al fin y al cabo, tampoco se usó tanto, así que cuál es el problema. Así las críticas se apagan y todo vuelve a la normalidad."
+        },
+        {
+          "t": "p",
+          "x": "Eso no puede aceptarse como absolución. No es una respuesta honesta a la crítica, y no se sostiene si se mira de cerca. La creación es un proceso, y empieza con la idea y la conceptualización. Los escritores imaginan mundos nuevos, los artistas esbozan sus visiones más retorcidas, los diseñadores inventan géneros y mecánicas que no existían. Es un lugar común, pero ahí es exactamente donde la IA menos debería entrar."
+        },
+        {
+          "t": "p",
+          "x": "Aunque el texto, las imágenes y los diseños que generó la IA no sobrevivan en el juego final, sus huellas quedan esparcidas por todas partes. Las personas pueden haber repintado encima, pero el boceto de fondo sigue siendo el fantasma de la IA. Aunque la contribución se haya limitado de verdad a las etapas iniciales, la IA ya marcó el rumbo del barco. No es una técnica concreta, sino gente aprendiendo a dirigir a la IA: ese mismo paisaje se ha trasladado al desarrollo de videojuegos. Más allá de cierto punto, es peor que meter una o dos imágenes feas en el juego, porque rellena las grietas de la base, y todo lo demás se construye encima."
+        },
+        {
+          "t": "p",
+          "x": "Esto es publicidad engañosa, y no debería dejarse convertir en la norma. La IA está presente en estos juegos aunque no se vea en cada momento. Los ejecutivos y directivos de los estudios seguirán diciendo ambas cosas a la vez, y eso no puede quedar sin cuestionar. Las palabras tienen que significar algo. De lo contrario, la IA gana de verdad."
+        }
+      ]
+    },
+    "games/games-dlss5-nomanssky-mod": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El DLSS 5 de Nvidia está convirtiendo juegos que lucían bien en algo parecido a un reality show retocado por IA. Esta vez le toca a No Man's Sky, el juego de exploración espacial de Hello Games. Un clip hecho por un fan se volvió viral y dejó claro que bastante gente quiere DLSS 5 en el juego, pero Hello Games no parece tener intención de añadirlo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iPh5JZjpBhqEQybSWb8QXo-1920-80.jpg",
+          "cap": "No Man's Sky (Imagen: Hello Games)"
+        },
+        {
+          "t": "p",
+          "x": "La publicación original del streamer de Twitch Oskar1up superó los 6.000 me gusta y 1,8 millones de reproducciones. Los comentarios elogiaron los atardeceres color durazno y las olas como de cristal que produjo DLSS 5, un aspecto bastante distinto de la belleza sutil por la que se conoce a este juego de 2016. La publicación llegó a los ojos de Martin Griffiths, programador de motor en Hello Games."
+        },
+        {
+          "t": "p",
+          "x": "Un usuario escribió que No Man's Sky era justo el juego hecho para DLSS 5, porque al no tener rostros humanos evita el valle inquietante y, con tantas escenas de naturaleza y espacio, deja mucho margen para añadir realismo. Griffiths no estuvo de acuerdo."
+        },
+        {
+          "t": "p",
+          "x": "“Si DLSS 5 llega a No Man's Sky, probablemente sea tarea mía, porque yo escribí el soporte de DLSS”, escribió Griffiths en Twitter. “Pero adoptarlo es más una decisión de dirección artística que una decisión técnica.”"
+        },
+        {
+          "t": "p",
+          "x": "En su demo de Gamescom 2026, Nvidia dejó claro que este filtro de IA generativa en 2D está pensado solo para juegos fotorrealistas. Según ese criterio, No Man's Sky, que lleva años construyendo sus propias galaxias suaves y multicolores, nunca fue el objetivo."
+        },
+        {
+          "t": "p",
+          "x": "La intención y la realidad no coinciden. Los usuarios desmontaron los archivos de NBA 2K27 para crear su propio interruptor de DLSS 5, y esta vía no oficial hizo que No Man's Sky pareciera lleno de gelatina. Una frase de Griffiths resume la cuestión: “No se trata de si se puede. Se trata de si la imagen mejora, o si empieza a erosionar el aspecto y la sensación propios de No Man's Sky.”"
+        }
+      ]
+    },
+    "games/games-steam-slop-backlash": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vapor World: Over The Mind combina combate souls-like con exploración tipo Metroidvania. Su estilo artístico pictórico recuerda a Lies of P o a las plataformas narrativas de Playdead. Según el estudio coreano Alive Inc, tenía 100.000 listas de deseos justo antes de su lanzamiento en Acceso Anticipado el 19 de agosto. Una demo abierta desde enero de 2025 hizo buena parte de ese trabajo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/VXDPYxPTqdUPBSkvhENZXE-1480-80.webp",
+          "cap": "Vapor World: Over The Mind (Imagen: Alive Inc)"
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento se vino abajo enseguida. Ni su mundo particular ni su combate centrado en el parry generaron ruido. La atención se fue hacia algo que no estaba en la demo: un uso de IA imposible de pasar por alto."
+        },
+        {
+          "t": "p",
+          "x": "La reseña “más útil” de Steam decía así: “Vi la primera escena cinemática, que aparece antes de que empiece el juego, y la IA generativa que usaron ni siquiera pudo mantener consistente el modelo del protagonista.” Añadía que el gameplay del tráiler se veía divertido, pero que ella apoyaba a las personas, no a los robots."
+        },
+        {
+          "t": "video",
+          "yt": "AxLikQwnHWw"
+        },
+        {
+          "t": "p",
+          "x": "Ahora mismo, 64 reseñas se mantienen en “Mayormente negativas”. Es un golpe duro para un estudio de apenas cinco personas. Es posible que hayan leído mal el ambiente. En una encuesta del Pew Research Center, Corea del Sur apareció como el país menos escéptico sobre la IA entre 25 países. En Estados Unidos, Italia, Australia y Brasil, alrededor de la mitad de los encuestados se inclinó más por la preocupación que por el entusiasmo respecto a la IA en la vida diaria, pero en Corea del Sur esa cifra fue de solo el 16 por ciento."
+        },
+        {
+          "t": "p",
+          "x": "La disculpa del director del estudio, Young Kim, deja entrever desconcierto. Dijo que la escena con IA se reemplazaría durante el fin de semana, y así fue. “Elegimos la IA porque creíamos que podía alcanzar un nivel de expresión que nuestros recursos actuales no podían lograr, y que nos dejaría concentrarnos más en el juego en sí, más allá de la historia y las cinemáticas”, escribió. Calificó eso de decisión apresurada. Dijo que esperaba que algunas personas se decepcionaran, pero no que llegara a esta magnitud."
+        },
+        {
+          "t": "p",
+          "x": "La escena se había hecho originalmente con el motor del juego y luego se sustituyó por una versión con IA, y el equipo no notó la diferencia de calidad que eso generaba. Alive Inc se suma ahora a una lista que incluye a Larian Studios y Sandfall Interactive, estudios que dieron marcha atrás con el uso de IA tras una fuerte reacción en contra. Vapor World no es pura basura generada por IA: el trabajo puesto en el juego principal todavía se nota en pantalla. Pero elegir IA generativa para ahorrar esfuerzo es algo que el público, al menos por ahora, no está dispuesto a perdonar."
+        }
+      ]
+    },
+    "games/games-ai-panic-forcing-developers-prove": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La semana pasada, durante el Opening Night Live de Gamescom, se presentó el tráiler de revelación de Humankind 2, un juego de estrategia del género de civilizaciones. Poco después de su publicación, empezó a circular en internet la idea de que parte o todo el tráiler se había hecho con herramientas de IA. El estudio lo negó y publicó un video extendido detrás de cámaras que muestra cómo lo filmaron usando sets y personas reales."
+        },
+        {
+          "t": "p",
+          "x": "El video que Amplitude Studios publicó el 4 de septiembre dura 1 minuto y 30 segundos. Como se aclara al inicio del video, esta revelación detrás de cámaras surgió por las reacciones en línea que calificaron el tráiler de AI slop. Amplitude asegura que no usó ninguna herramienta de generación por IA en ninguna parte del tráiler. En su lugar, combinó personas, animales y sets reales con efectos y visuales por CG."
+        },
+        {
+          "t": "video",
+          "yt": "acJyM3ZK6nI"
+        },
+        {
+          "t": "p",
+          "x": "El estudio de Humankind 2, previsto para 2027, dijo que trabajó con BETC, la agencia creativa responsable de varios tráilers del Humankind original. El rodaje se hizo en “varios sets reales diseñados para representar distintas épocas”, cada una con su propio vestuario, utilería, iluminación y actuación. BETC también colaboró con el estudio de CGI y VFX LiveFX para “reforzar” el tráiler con elementos como tornados y explosiones generados por CG."
+        },
+        {
+          "t": "p",
+          "x": "Benjamin Le Breton, director creativo de BETC, dijo en un comunicado: “Nuestra ambición era condensar la amplitud de la historia humana en 73 segundos sin perder su peso emocional. Más que contar una historia sobre la civilización, queríamos que el público la viviera. Ver el mundo a través de los ojos de un recién nacido nos permitió recorrer nueve épocas, y nos recuerda que cada generación hereda el legado de la anterior mientras también tiene la oportunidad de redefinir el futuro.”"
+        },
+        {
+          "t": "p",
+          "x": "Entonces, ¿por qué tanta gente dio por hecho que era generado por IA? Hay varias razones probables. Algunas tomas en primera persona algo rígidas en el tráiler, junto con un aspecto borroso aplicado en la posproducción, probablemente confundieron a la gente. Muchos seguramente lo vieron solo en el teléfono, donde las pantallas pequeñas dificultan apreciar los detalles. A eso se sumó una ansiedad más amplia de que todo lo que vemos podría ser AI slop, en una Gamescom donde, de hecho, se presentaron varios juegos hechos con IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "No he ocultado en este espacio que me disgusta el contenido generado por IA. Aun así, hay que tener cuidado al lanzar sospechas sin pruebas sólidas ni verificación. Si llamamos “AI slop” a todo lo que se ve algo tosco, borroso o simplemente mediocre, el slop real se escapa con más facilidad, y las personas que se esforzaron en hacer algo real terminan sufriendo sin motivo."
+        }
+      ]
+    },
+    "games/games-modder-enables-dlss-5-neural": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Alguien logró ejecutar el nuevo DLSS 5 en una GPU AMD RDNA 4 usando un único archivo ejecutable."
+        },
+        {
+          "t": "p",
+          "x": "En los últimos días, además de la implementación oficial en NBA 2K7, DLSS 5 ha aparecido de forma no oficial en varios juegos más. Modders y usuarios muy entusiastas han conseguido activar el renderizado neuronal de DLSS 5 incluso en GPU más antiguas como las series RTX 40, RTX 30 y RTX 20. NVIDIA dijo que más adelante lo extenderá a la serie RTX 40, pero por ahora sigue limitado a la serie RTX 50."
+        },
+        {
+          "t": "p",
+          "x": "El renderizado neuronal de DLSS 5 usa actualmente FP8 en su modelo en tiempo real, lo que significa que no hay motivo técnico para que no pueda funcionar en GPU de última generación. De ahí surgió la pregunta de si también funcionaría en GPU AMD RDNA 5, que admiten FP8 por hardware. Resultó que sí: un modder lo consiguió activar realmente en la serie RX 9000."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-5-on-AMD-File-Requirements.jpg",
+          "cap": "La lista de archivos necesarios"
+        },
+        {
+          "t": "p",
+          "x": "Un video publicado por Ancient Gameplays confirma que este método funciona. Muestra cómo se activa DLSS 5 NR en juegos como Cyberpunk 2077 en su propia Radeon RX 9070 XT. El proceso es sencillo: se coloca el archivo “dlssnr_on_amd_setup.exe” en la carpeta bin\\x64 del juego, como en Cyberpunk 2077, y se pone el archivo “nvngx_dlssnr.dl” en la misma carpeta."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-5-AMD-process-728x376.jpg",
+          "cap": "El proceso de instalación"
+        },
+        {
+          "t": "p",
+          "x": "Al ejecutar el archivo, se siguen unas indicaciones básicas. Después se abre el juego y se activa FSR 3 o FSR 4. Con la tecla End se invoca la superposición, y al volver a ejecutar el archivo se puede elegir “update” (U) o “remove” (R) para activar o desactivar DLSS 5 NR en el juego."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Cyberpunk-2077-RX-9070-XT-DLSS-5-Off-scaled.jpg",
+          "cap": "DLSS 5 Off"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Cyberpunk-2077-RX-9070-XT-DLSS-5-On-scaled.jpg",
+          "cap": "DLSS 5 On"
+        },
+        {
+          "t": "p",
+          "x": "Como se ve en el video, sin DLSS 5 NR, Cyberpunk 2077 superaba los 80fps en la RX 9070 XT, pero al activar NR cayó a 11-12fps. Al no tener optimización, consume muchísimo rendimiento. Aun así, el modder ha seguido sacando versiones nuevas, y la alpha v0.2.7 mejora el rendimiento un 12%, alcanzando 30fps en Cyberpunk 2077 a 1080p. Según el modder, el mismo método también hace funcionar GTA V: Enhanced en la RX 9070 XT."
+        },
+        {
+          "t": "video",
+          "yt": "MQ-flbvMflY"
+        }
+      ]
+    },
+    "games/games-artstation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/09/ArtStation_Blog_Header.webp"
+        },
+        {
+          "t": "p",
+          "x": "ArtStation se ha consolidado durante mucho tiempo como un espacio de referencia para que los artistas profesionales muestren su trabajo y publiquen sus portafolios. Si conoces a un artista de videojuegos, es muy probable que su portafolio también esté en este sitio. Según la experiencia de este autor, que cubrió la sección de arte en Kotaku durante más de una década, entre el 90 y el 95 por ciento de los enlaces de portafolio presentados eran páginas de ArtStation y no sitios web personales."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, la reputación de ArtStation como operador no siempre ha sido buena. Mientras estaba bajo Epic Games, los usuarios protestaron en masa por la inacción de la empresa ante la invasión de imágenes generadas por IA en el sitio, y tras la invasión rusa de Ucrania en 2022, surgieron repetidamente acusaciones de que la gestión eliminaba obras proucranianas."
+        },
+        {
+          "t": "p",
+          "x": "Pero el mes pasado, el sitio fue vendido. Epic Games, que había estado deshaciéndose poco a poco de los sitios que había comprado sin criterio con el dinero de Fortnite, anunció el 10 de agosto que había traspasado ArtStation a Kitbash. Kitbash es la empresa que opera la plataforma de activos 3D Kitbash3D y Greyscalegorilla."
+        },
+        {
+          "t": "p",
+          "x": "Lo primero que hizo la nueva dirección fue publicar un comunicado titulado 「ArtStation debe priorizar a los artistas」. En él reconoce que la empresa había sido negligente a la hora de proteger las obras de los artistas frente al scraping de empresas de IA, y que había que hacer más para que el contenido generado por IA no entorpeciera las funciones de búsqueda y exploración. Para ello, decidió cambiar algunos interruptores, etiquetas y valores predeterminados."
+        },
+        {
+          "t": "p",
+          "x": "Para ser el anuncio de un nuevo propietario, es un contenido bastante alentador, y son palabras que los usuarios llevaban mucho tiempo esperando. Aun así, hay un aspecto decepcionante. Si se piensa que el sitio probablemente ya ha sido objeto de scraping sin fin durante los últimos tres años, es difícil evitar la impresión de que llega la solución después del daño."
+        },
+        {
+          "t": "p",
+          "x": "Durante la última semana he observado en redes sociales las reacciones de artistas profesionales, que en general se mantenían en algún punto entre 「por fin」 y 「tarde, pero bienvenido」. Es una reacción bastante comprensible. ArtStation ha sufrido un duro golpe a su reputación en los últimos años, y mientras tanto han surgido alternativas como Cara. Este comunicado es claramente un paso adelante respecto a la era de Epic Games, pero parece quedar un largo camino para recuperar la confianza perdida."
+        }
+      ]
+    },
+    "games/games-dlss5-kcd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rTBSuGGDXhUBQ4VysuHrcN-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La controversia en torno a DLSS 5 tiene varias vertientes, hasta el punto de que se habla de un supuesto 「slop de IA」. La más conocida de ellas es su aspecto peculiarmente extraño. Han surgido preocupaciones reales sobre si una tecnología que altera tanto la estética puede preservar la intención artística original de los desarrolladores, y NVIDIA también está tratando de defender la opinión pública en este punto."
+        },
+        {
+          "t": "p",
+          "x": "Daniel Vávra, quien dirigió las dos entregas de la serie Kingdom Come: Deliverance, volvió a sumarse a este debate, esta vez del lado de DLSS 5. El domingo pasado escribió en X que algunos críticos estaban 「completamente fuera de sí」, y publicó imágenes de comparación de antes y después de KCD2, argumentando que la tecnología realmente ayudó a materializar la visión de su equipo."
+        },
+        {
+          "t": "p",
+          "x": "Explicó que 「la de la izquierda es una cara rota porque el sistema de iluminación limitado del motor del juego no renderiza bien las sombras, la textura de la piel ni el detalle del mapa normal」, y que el detalle mejoró en la versión con DLSS 5. Añadió que 「que el casco no proyecte sombra sobre la cara y que el renderizado del mapa normal esté hecho un desastre nunca fue nuestra visión artística original」."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, hay que señalar que la preocupación por que la IA retoque el arte no es solo una cuestión técnica de si el resultado puede quedar más limpio. Si una IA hubiera editado el momento en que Paul McCartney toca un acorde equivocado y suelta una palabrota en Hey Jude, probablemente lo habría recortado con pulcritud, pero casi todos estarían de acuerdo en que ese pequeño error en realidad mejoró la canción. Ese tipo de imperfecciones deja un toque humano en la obra. Aun así, en X no tardaron en llegar respuestas que cuestionaban que la afirmación de Vávra fuera realmente una mejora."
+        },
+        {
+          "t": "p",
+          "x": "La usuaria de X Goosewasinuse escribió en una republicación con cita que 「esto no se ve tan mal, y entiendo por qué Dan dice esto」, pero añadió que 「la cuestión es que, por buscar realismo, el personaje quedó demasiado brillante y solo parece raro」. Una cuenta llamada Knight(Fate)1029384756 también señaló que 「no es culpa mía que no te esforzaras en hacerlo mejor. ¿No le acabas de dejar el juicio artístico a una máquina que no sabe pensar?」."
+        },
+        {
+          "t": "p",
+          "x": "La relación entre Warhorse Studios y la IA sigue siendo conflictiva. A principios de este año, Max Heitmánek, quien había sido el editor de la versión en inglés de Kingdom Come: Deliverance 2, declaró públicamente que fue despedido para ser reemplazado por IA."
+        }
+      ]
+    },
+    "games/games-dwarf-fortress": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dwarf Fortress es un juego con una capacidad de generar historias que parece no tener fin. Como se basa en la generación procedimental, cualquiera que lo haya jugado durante mucho tiempo puede contar sin esfuerzo algún incidente absurdo que le ocurrió a su grupo de mineros."
+        },
+        {
+          "t": "p",
+          "x": "Basta con ver el titular de un artículo de Lincoln Carpenter en PC Gamer: 「El equipo forense de Dwarf Fortress culpa de un misterioso caso de combustión humana espontánea a un artefacto que de repente recordó que es cuatro veces más caliente que la superficie del sol」. Es realmente hermoso."
+        },
+        {
+          "t": "p",
+          "x": "En cualquier caso, solo con este ejemplo ya queda desmentida la idea de que la IA generativa es la primera capaz de generar historias sin fin, porque Dwarf Fortress lleva haciéndolo sin un solo LLM. Al final, esto significa que, si se quieren historias infinitas, es mejor dar a la gente las herramientas para crearlas que el producto terminado en sí."
+        },
+        {
+          "t": "p",
+          "x": "En Gamescom 2026, el cocreador Tarn Adams, que se reunió con Joshua Wolens de PC Gamer, explicó así su criterio para decidir qué simulaciones merece la pena añadir al juego: 「Lo juegas y piensas, ah, qué bien, eso fue un buen momento, y sientes que se está formando una pequeña narrativa; ahí es cuando sabes que va a funcionar」."
+        },
+        {
+          "t": "p",
+          "x": "Adams puso como ejemplo una reunión de abogados enanos interrumpida por un perro maleducado que entra corriendo y muerde a alguien, algo que, según los estándares de Dwarf Fortress, no tiene nada de particularmente extraño. Al preguntarle por qué nos encariñamos con las historias que surgen por azar en sistemas como este, pero no con el slop de IA, que todavía no ha producido una sola historia que a la gente le guste, Adams respondió lo siguiente."
+        },
+        {
+          "t": "p",
+          "x": "「Bueno, la razón por la que te gusta una historia hecha por un humano es porque tú también eres humano. Lo que le ha pasado a otro ser humano tiene, incluso en un nivel muy básico, una experiencia compartida con la que resuena」."
+        },
+        {
+          "t": "p",
+          "x": "「No siempre se puede distinguir」, admitió también Adams. 「¿No es esa precisamente la trampa? Eso es básicamente lo que es la prueba de Turing: si puedes detectar si hay una chispa humana ahí dentro. Y si tú, siendo humano, te deja engañar un robot en una prueba de Turing, puede ser mérito del robot o un fallo tuyo. No sé cuál de las dos cosas, pero en los próximos años todos vamos a estar rodeados de esto y vamos a ser puestos a prueba muy duramente」."
+        },
+        {
+          "t": "p",
+          "x": "Es interesante ver la prueba de Turing no como si un ordenador se comporta con tanta inteligencia como un humano, sino como si un ordenador puede reproducir esa 「chispa」 propiamente humana. Puede sonar algo sentimental, pero da la sensación de que esa parte es clave para disfrutar realmente del arte."
+        },
+        {
+          "t": "p",
+          "x": "Esa parece ser también la razón por la que las historias generadas proceduralmente en Dwarf Fortress resultan interesantes. Aunque la narrativa la cree al azar un ordenador, la forma de describirla lleva impresa la mano humana. Limitarse a enumerar los hechos habría sido insoportablemente aburrido, pero expresado como lo hace Lincoln, provoca risa de forma natural. Estos enanos pequeños y ridículos acaban convirtiéndonos a todos en escritores."
+        }
+      ]
     }
   }
 }

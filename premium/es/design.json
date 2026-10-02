@@ -4603,6 +4603,489 @@
           "x": "Ya sean Blue Tokens, Red Credits o Green Funbucks, las licencias basadas en consumo se han convertido en el estándar de las herramientas de IA. Es difícil culpar a Dassault Systèmes por seguir la tendencia. Aun así, no deja de ser incómodo. Habiendo cubierto durante mucho tiempo la transición de los asientos de CAD perpetuos a las suscripciones, es difícil no sentir que el agua se está calentando otra vez de la misma manera que entonces: una transición que funcionó para los proveedores y dejó resentimiento entre los usuarios."
         }
       ]
+    },
+    "design/design-agent-native-clips": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Son las 4:52 de la tarde de un viernes, y aparece un mensaje en el canal de errores: “El panel no carga.” El único adjunto es una captura de pantalla con un ícono de carga girando."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/bd963b406ef04a4fbf9d1af53ab3b313?width=1200",
+          "cap": "Agent-Native Clips capta la grabación junto con los diagnósticos del navegador"
+        },
+        {
+          "t": "p",
+          "x": "Pides el video y, diez minutos después, llega un enlace: alguien abre el proyecto, espera, recibe un aviso de error. Prueba que el error es real, pero no dice nada sobre por qué ocurrió."
+        },
+        {
+          "t": "p",
+          "x": "Ahí empieza el ritual: abrir la aplicación, iniciar sesión con esa cuenta, abrir las herramientas de desarrollador, revisar la consola, pasar a la pestaña de red, actualizar, encontrar la solicitud fallida y copiar el código de estado. La grabación solo capturó el síntoma, y la evidencia quedó atrapada dentro de un navegador al que no puedes entrar."
+        },
+        {
+          "t": "p",
+          "x": "Agent-Native Clips llena ese vacío. Es un grabador de pantalla gratuito y de código abierto que, mientras grabas, también recopila la salida de la consola, las solicitudes de red fallidas, los códigos de estado HTTP y el contexto antes y después del momento en que algo se rompió. Grabas una vez, y el video va a quien necesita verlo mientras los datos de diagnóstico van a quien necesita arreglarlo."
+        },
+        {
+          "t": "video",
+          "yt": "EqmOsEK5DCg"
+        },
+        {
+          "t": "p",
+          "x": "En la superficie, se comporta como cualquier otra herramienta de grabación asíncrona: capturar el navegador, añadir micrófono y cámara, guardar, compartir un enlace. La diferencia está en lo que lleva consigo el clip. Si grabas con la extensión de Chrome, se adjuntan diagnósticos a nivel de navegador."
+        },
+        {
+          "t": "p",
+          "x": "Lo que se adjunta: registros y errores de consola, solicitudes de red fallidas, códigos de estado HTTP, el momento y el contexto alrededor del fallo, y metadatos estructurados que un agente de codificación con IA puede leer. La aplicación funciona de forma local o en una versión alojada gratuita."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F05bb71d2e558466aa2749dacdf8646b7?width=1200",
+          "cap": "Los diagnósticos del navegador que se recopilan junto con la grabación"
+        },
+        {
+          "t": "p",
+          "x": "Está claro por qué una grabación de pantalla por sí sola detiene la reparación: averiguar qué endpoint falló, si la respuesta fue un 401 o un 502, o si el frontend recibió datos extraños sigue exigiendo que alguien abra las herramientas de desarrollador y excave desde cero. Reproducir un error tres veces puede incluso cambiar las condiciones en el camino. Con Clips, ese bucle se reduce a cuatro pasos: empezar a grabar, reproducir, detener, compartir."
+        },
+        {
+          "t": "p",
+          "x": "La instalación tiene dos partes: la aplicación Clips, que corre de forma local o en la nube, y una extensión de Chrome que inicia la grabación y recopila los diagnósticos. Es mejor fijar la extensión en la barra de herramientas. Nadie se pone a buscar en el menú de una extensión justo cuando aparece un error."
+        },
+        {
+          "t": "p",
+          "x": "En la demostración, aparece un error de red en el momento en que se abre la aplicación, y el navegador registra varias solicitudes fallidas, incluidos 502 y 401. Un 502 aparece cuando una puerta de enlace o un proxy recibe una respuesta incorrecta de un servicio ascendente; un 401 aparece cuando a una solicitud le falta autenticación."
+        },
+        {
+          "t": "p",
+          "x": "Un clip guardado agrupa los mensajes de consola y los errores de red de esa sesión juntos como JSON. No es un formato pensado para leerse con facilidad. No son datos para que una persona los revise desplazándose por la pantalla, son datos para que una herramienta los procese."
+        },
+        {
+          "t": "p",
+          "x": "Por eso un clip se lee de dos maneras a la vez: una persona ve el video, una máquina desmenuza los datos. Puedes entregárselo a un asistente de IA y pedirle que rastree hasta el código la solicitud que causa el 502 y proponga una solución, o pedirle que lo convierta en un issue de GitHub con los pasos de reproducción, el comportamiento esperado, el comportamiento real y los errores del navegador."
+        },
+        {
+          "t": "p",
+          "x": "No es solo una herramienta para desarrolladores. Un diseñador puede subir una pantalla rota que encontró durante una revisión sin aprender nunca la pestaña de red, y un PM puede enviar la secuencia exacta de los hechos junto con evidencia técnica. El código está disponible en GitHub, así que el autoalojamiento está a solo un fork de distancia."
+        }
+      ]
+    },
+    "design/design-artstation-noai-default": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ArtStation lanzó medidas reforzadas, con las que dice que protegerá el trabajo de los artistas del entrenamiento de IA no autorizado y evitará que las imágenes generadas inunden la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Desde hoy mismo, la configuración NoAI se activa en todos los proyectos nuevos que se suban. La etiqueta también se aplica de forma retroactiva a los proyectos y perfiles que ya estaban publicados. Ya no hace falta revisar un portafolio antiguo pieza por pieza."
+        },
+        {
+          "t": "p",
+          "x": "La etiqueta NoAI marca ese trabajo como vedado para el entrenamiento de IA. Quien quiera permitir el entrenamiento solo tiene que desactivar la opción. La estructura se invirtió: antes había que pedir protección, y ahora la protección es la opción por defecto, que se puede desactivar si se quiere."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/c7/images/6a99d0b469743/widen_1840x0.jpg",
+          "cap": "La configuración NoAI se aplica tanto a las nuevas subidas como a los proyectos existentes"
+        },
+        {
+          "t": "p",
+          "x": "El bloqueo de rastreadores se hace junto con Cloudflare. Funciona identificando rastreadores de IA conocidos y herramientas de recolección automática, y deteniéndolos antes de que accedan al contenido en masa. La propia empresa reconoce que no existe forma de hacer que las imágenes públicas sean completamente imposibles de extraer. Aun así, dice que su objetivo es dificultar más el acceso no autorizado y seguir ajustando sus defensas a medida que cambie la tecnología."
+        },
+        {
+          "t": "p",
+          "x": "En el anuncio, ArtStation escribió que la demanda de la comunidad era clara y que está de acuerdo con ella. Al final del texto añadió esta frase: “No hay razón para que los artistas tengan que pedir primero que se proteja su propio trabajo”."
+        },
+        {
+          "t": "p",
+          "x": "La indexación de los motores de búsqueda habituales se mantiene abierta. Reclutadores, estudios y clientes potenciales pueden seguir encontrando los portafolios igual que ahora."
+        },
+        {
+          "t": "p",
+          "x": "También se modificaron los términos de servicio. Según la política de IA vigente, la propiedad del trabajo sigue siendo del artista, y ArtStation no vende ni licencia ese trabajo a empresas de IA. Tampoco existen acuerdos que permitan a empresas de IA recolectar el contenido."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio no se limitó al problema del entrenamiento. La propia empresa admitió que su etiqueta y sus filtros actuales de CreatedWithAI no han bastado para contener la avalancha de imágenes generadas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/fb/images/6a99d0f73b7c4/widen_1840x0.jpg",
+          "cap": "También se abordó el problema de las imágenes generadas que inundan el sistema de descubrimiento"
+        },
+        {
+          "t": "p",
+          "x": "Los artistas han argumentado desde hace tiempo que, cuanto más se acumulan los contenidos generados, más difícil es encontrar el trabajo original y evaluar los portafolios. La empresa dice que está mejorando sus herramientas de descubrimiento y añadiendo más controles, pero todavía no ha explicado de qué forma ni cuándo llegarán."
+        },
+        {
+          "t": "p",
+          "x": "Esta medida llega justo después de que Kitbash adquiriera ArtStation y Sketchfab. Kitbash es la empresa detrás de Kitbash3D y Greyscalegorilla. Este acuerdo, anunciado en agosto, separó ambas plataformas de Epic Games, mientras que los portafolios, bibliotecas, suscripciones, mercados y flujos de trabajo existentes se mantuvieron igual."
+        },
+        {
+          "t": "p",
+          "x": "Eso no significa que se prohíban las imágenes hechas con IA. El trabajo creado con herramientas de IA se puede seguir publicando, siempre que se tenga la propiedad o el permiso para publicarlo. Si un producto vendido en el mercado incluye resultados de IA generativa, debe llevar la etiqueta CreatedWithAI."
+        },
+        {
+          "t": "p",
+          "x": "Para los artistas que han estado exigiendo que se elimine por completo el contenido generado, esta línea puede seguir siendo insuficiente. Aun así, activar NoAI incluso en las subidas ya existentes es una señal de que el valor por defecto de ArtStation realmente cambió."
+        }
+      ]
+    },
+    "design/design-cursor-vercel-sandbox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cursor Cloud Agents ya puede ejecutarse dentro de Vercel Sandbox en lugar de en las máquinas operadas por Cursor."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5KmgvmWZwaaPFGskgNOJAu/6b3659ba24e56f6bf4fe2c181d6d95e5/run_cursor_cloud_agents_in_vercel_sandbox_og_card.jpg",
+          "cap": "Cursor Cloud Agents ejecutándose en Vercel Sandbox"
+        },
+        {
+          "t": "p",
+          "x": "Cursor sigue gestionando el harness del agente y el bucle de inferencia. Su Self-Hosted Machines API solo trae desde fuera el entorno de ejecución: tú aportas el lugar donde se clonan los repositorios, se editan los archivos y se ejecutan comandos y pruebas. Esta función solo está disponible en el plan Cursor Enterprise."
+        },
+        {
+          "t": "p",
+          "x": "Vercel Sandbox crea ese lugar lanzando una microVM Firecracker aislada para cada solicitud del agente. El plano de control que recoge las solicitudes pendientes, lanza workers, vigila las sesiones y limpia todo por su cuenta corre a cargo de Vercel Functions y Vercel Workflow."
+        },
+        {
+          "t": "p",
+          "x": "Esta estructura aporta cuatro cosas: un conjunto de workers que puede reducirse hasta cero sin máquinas virtuales de larga duración, un sandbox dedicado para cada solicitud, reintentos duraderos cuando un worker o una sesión falla, y credenciales con alcance de usuario que viven poco tiempo, solo dentro del sandbox."
+        },
+        {
+          "t": "p",
+          "x": "Vercel también publicó una guía paso a paso para desplegar la implementación de referencia en la cuenta de cada uno, junto con la documentación de Sandbox."
+        }
+      ]
+    },
+    "design/design-mancity-ai-kit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La nueva camiseta del Manchester City es la primera camiseta profesional diseñada por aficionados con IA, y se usa realmente en el campo."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms-2/2026/08/03-91598957-puma-ai-generated-soccer.jpg",
+          "cap": "La nueva tercera camiseta del Manchester City, diseñada por aficionados"
+        },
+        {
+          "t": "p",
+          "x": "Esta tercera camiseta, presentada por el club de la Premier League, salió de Puma AI Creator, una herramienta de IA generativa creada internamente por la marca alemana de ropa deportiva Puma."
+        },
+        {
+          "t": "p",
+          "x": "Puma lanzó este generador en diciembre de 2024. Su motor es Deepobjects, una plataforma de co-creación con IA, con indicaciones de texto y controles deslizantes para ajustar elementos como el cuello, los colores y la posición del escudo. El año pasado, Ederson, Stefan Ortega y Rico Lewis usaron IA para crear una camiseta de portero verde con un patrón de red de portería. Después, el club abrió la herramienta al público para el resto de las camisetas."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/12-91598957-puma-ai-generated-soccer.jpg",
+          "cap": "Una propuesta de diseño hecha con Puma AI Creator"
+        },
+        {
+          "t": "p",
+          "x": "Personas de más de 200 países crearon más de 180.000 diseños, que atrajeron más de 1,7 millones de votos. La plataforma daba a los participantes créditos de diseño y dos entradas al concurso, con créditos y entradas adicionales por valorar los diseños de otros o por tener un NFT de Puma."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/04-91598957-puma-ai-generated-soccer.jpg",
+          "cap": "Los diseños finalistas, reducidos por votación"
+        },
+        {
+          "t": "p",
+          "x": "Entre los diez finalistas, el ganador fue la indicación de Elliott, aficionado del Man City de toda la vida. Dijo que la creó durante su hora de comer. Por el centro de un jersey blanco bajan dos franjas verticales azules con degradado, una celeste y otra marino. En la parte delantera llevan el escudo del club, el logo de Puma y el del patrocinador Etihad Airways. La tela es Ultraweave, el material ligero de rendimiento de Puma."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de los diseños adversarios creados para confundir a los sistemas de IA, el diseño ganador no tiene patrones extraños ni mareantes. Una camiseta blanca con franjas verticales celestes y marinas es algo que el club ya ha llevado antes, como en la camiseta hecha por Nike para la temporada 2013-14."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/05-91598957-puma-ai-generated-soccer.jpg",
+          "cap": "El diseño ganador convertido en camiseta real"
+        },
+        {
+          "t": "p",
+          "x": "Aun así, esta camiseta marca un punto de inflexión en cómo el deporte profesional está adoptando la IA. El club afirmó que es el primer caso de una camiseta diseñada por aficionados con IA que se lleva en el campo de fútbol. En los comentarios de la propia publicación del club, sin embargo, también hubo críticas que la calificaron de “slop de IA” o de falta de originalidad."
+        }
+      ]
+    },
+    "design/design-armorpaint-1-0-out-after": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260904_ArmorPaint10_f-960x480.jpg",
+          "cap": "ArmorPaint, ahora una versión oficial tras ocho años"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de desarrollo de Armory lanzó ArmorPaint 1.0, un software de código abierto para pintura de texturas 3D. Es la versión 'oficial' que llega ocho años después de entrar en acceso anticipado en 2018."
+        },
+        {
+          "t": "p",
+          "x": "Esta versión reescribe el software en C. Con la mejora de rendimiento, puede pintar en tiempo real activos 3D mucho más grandes y apilar más capas de textura a mayor resolución. Entre las novedades hay un modo básico de esculpido, edición de UV, reproducción de línea de tiempo para personajes con esqueleto, escalado de imágenes con IA y una función que convierte fotos en materiales."
+        },
+        {
+          "t": "p",
+          "x": "Las descargas están abiertas para Windows, Linux y macOS, con versiones experimentales para Android e iOS. Al momento de escribir esto, el sitio del producto no tiene un anuncio oficial de lanzamiento, pero la etiqueta de candidato a lanzamiento anticipado ha desaparecido de la lista de descargas."
+        },
+        {
+          "t": "p",
+          "x": "ArmorPaint es una herramienta de pintura 3D para crear mapas de textura PBR usados en software DCC o motores de videojuegos. Se le menciona a menudo como una alternativa económica a Adobe Substance 3D Painter. Pintas directamente sobre la superficie del modelo en un visor con trazado de rayos en tiempo real, y como está basado en GPU, las tarjetas de alto rendimiento pueden pintar hasta en 16K. Genera bakes de AO, Cavity, Thickness, normales, ID de material y mapas de luz, y exporta a PNG, JPEG y EXR con hasta 32 bits de profundidad de color."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260904_ArmorPaint10_Performance-960x480.jpg",
+          "cap": "La 1.0 (barras azules) es más rápida que la 0.9 (barras grises)"
+        },
+        {
+          "t": "p",
+          "x": "El código, originalmente escrito en Haxe con el motor de JavaScript V8 encima, ahora es todo en C. Tampoco se necesitan bibliotecas externas. La aceleración por GPU corre sobre Direct3D 12, Vulkan, Metal y WebGPU, y el trazado de rayos corre con Direct3D 12 en Windows, Vulkan en Linux y Android, y Metal en macOS e iOS. La base de código se ha reducido tanto que, en palabras del propio blog de desarrollo, cabría en dos disquetes antiguos de 1.4 MB. Más importante aún, consume mucha menos memoria. Se pueden abrir modelos grandes y pintar texturas de alta resolución sin cambiar el hardware."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260904_ArmorPaint10_NewFeatures-960x480.jpg",
+          "cap": "Un nuevo plugin para crear hojas de mosaicos pensado para artistas de videojuegos"
+        },
+        {
+          "t": "p",
+          "x": "Entre las nuevas funciones hay un modo básico de esculpido digital. También se añadieron los modificadores Decimate, Subdivide, Smooth y Bevel para trabajar con geometría importada, junto con un editor de UV básico. Las capas de trazado y curva permiten agregar costuras o patrones geométricos, y la pestaña de línea de tiempo reproduce animación de malla con esqueleto o permite crear animaciones tween simples. Los 'Nodos Neuronales' se encargan de escalar imágenes, convertirlas en texturas PBR y generar imágenes a partir de texto. Todos los modelos admitidos son de código abierto y se ejecutan localmente en una estación de trabajo o tableta."
+        },
+        {
+          "t": "p",
+          "x": "El código fuente es gratuito bajo la licencia zlib. Los binarios compilados que apoyan el desarrollo cuestan 19 dólares en itch.io; la app de iOS cuesta 17.99 dólares y la de Android, 19.99 dólares."
+        }
+      ]
+    },
+    "design/design-auto-syncing-tailwind-config-from": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El autor abrió GitHub el martes pasado y encontró el pipeline de despliegue principal totalmente en rojo. El entorno de staging estaba completamente caído. La causa: dos equipos de frontend habían editado el archivo de configuración de Tailwind al mismo tiempo. El equipo A había añadido utilidades de espaciado para una landing page de marketing; el equipo B añadió colores de marca para un nuevo panel de producto. Mientras resolvían el conflicto de fusión a mano y hacían un push forzado, la mitad de los colores de marca principales desaparecieron y el despliegue a producción se detuvo."
+        },
+        {
+          "t": "p",
+          "x": "Esto es lo que siempre pasa cuando un solo archivo de configuración se convierte en un cuello de botella. Un desarrollador copia a mano códigos hexadecimales y valores en píxeles desde Figma y los pega en un objeto gigante de JavaScript. Alguien comete un error de tipeo. Alguien borra un paréntesis. El autor decidió sacar al humano de este paso. Figma es el origen de las decisiones de diseño, Tailwind es el destino, y el código es lo que conecta ambos."
+        },
+        {
+          "t": "p",
+          "x": "El archivo de tokens usa el formato W3C Design Token, una estructura JSON estándar que especifica valores y tipos de forma explícita, lo que lo hace fácil de predecir. A esto se le agregó una utilidad en TypeScript. Omite las claves meta que empiezan con signo de dólar, recorre el árbol de tokens de forma recursiva para producir claves planas como brand-primary, y luego escribe un módulo tailwind.preset.js en disco. La configuración principal de Tailwind ahora simplemente importa ese preset."
+        },
+        {
+          "t": "p",
+          "x": "La ejecución la maneja una GitHub Action. El flujo de trabajo solo corre en los pull requests donde cambió tokens.json; ejecuta el script de conversión y luego confirma el preset actualizado directamente en ese mismo pull request. Cuando un diseñador cambia una variable en Figma, se abre un pull request con el nuevo JSON, y el desarrollador solo revisa el código y presiona fusionar."
+        },
+        {
+          "t": "p",
+          "x": "El autor añadió que mantener un script de conversión hecho a mano se vuelve molesto cuando las reglas de tipografía se complican o se multiplican los temas de modo oscuro. Por eso creó el plugin de Figma Design System Sync. Exporta variables y estilos a GitHub o Bitbucket y abre automáticamente un pull request con un diff visual adjunto. El nivel gratuito ofrece cinco exportaciones al mes."
+        }
+      ]
+    },
+    "design/design-figma-motion-basics-time-stamped": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xI4tglaE5GA"
+        },
+        {
+          "t": "p",
+          "x": "Este es un video de un minuto que publicó Figma. Trata sobre los comentarios con marca de tiempo en Figma Motion, que vinculan un comentario a un momento específico de la animación en lugar de al archivo completo."
+        },
+        {
+          "t": "p",
+          "x": "Dejar uno es sencillo. Elige [Comentario] en la barra de herramientas y luego mueve la cabeza de reproducción al punto que quieres marcar. Haz clic en la animación en ese estado, y el comentario queda fijado a ese momento."
+        },
+        {
+          "t": "p",
+          "x": "El video tiene cuatro segmentos: 00:00 introducción, 00:10 cómo añadir un comentario con marca de tiempo, 00:25 agregar varias marcas de tiempo a un mismo comentario, 00:41 ver los comentarios de un colaborador."
+        },
+        {
+          "t": "p",
+          "x": "Figma también enlazó una entrada de blog que presenta Figma Motion y un documento sobre los principios básicos del diseño de movimiento."
+        }
+      ]
+    },
+    "design/design-parker-only-went-made-those": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Crear un anuncio spec que nadie pidió es una buena práctica para pulir habilidades, construir un portafolio y llamar la atención en línea. Sin embargo, es raro que una marca realmente adopte ese boceto. El reciente desafío creativo de la valla de Parker reescribió esa regla, un caso que muestra lo que una gestión sólida, una interacción genuina en redes sociales y reflejos lo bastante rápidos para aprovechar la oportunidad pueden dejarle a una marca."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/qPttecBxT8ZfvWvUL5YmQY.jpg",
+          "cap": "Un boceto de valla de Parker que reposiciona el bolígrafo como herramienta anti-IA"
+        },
+        {
+          "t": "p",
+          "x": "Todo empezó con la 'idea de anuncio de campaña anti-IA' de un usuario de LinkedIn. El anuncio spec de un bolígrafo Parker publicado por el redactor publicitario independiente y estratega creativo Kushagra Oberoi reunió miles de 'me gusta' por su oportunidad frente al momento de la IA y por una perspectiva que hacía ver el bolígrafo de otra manera. Al verlo, Andrew Tindall, director de crecimiento de One Minute Briefs y System 1, lanzó una convocatoria para otras ideas."
+        },
+        {
+          "t": "p",
+          "x": "Llegaron 350 propuestas de todo el mundo. Se seleccionaron 10 y se probaron en la plataforma de pruebas publicitarias de System 1 para medir la reacción de los consumidores, y el boceto minimalista 'Think' de Simon Sinclair y Manish Dodani quedó en primer lugar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/s7L2zNCXniyDezB9BmgvbT-1200-80.jpg",
+          "cap": "La valla de Parker instalada en Times Square"
+        },
+        {
+          "t": "p",
+          "x": "Pocos días después de terminar la convocatoria, Newell Brands, la empresa matriz de Parker, hizo oficial el proyecto. Los 10 finalistas completos se instalaron en una valla digital en Times Square, en Nueva York, cada uno con el nombre de la persona que propuso la idea. Una marca que se convirtió en beneficiaria inesperada de la publicidad por crowdsourcing, al recibir cientos de ideas independientes, terminó poniendo inversión publicitaria real en el espacio publicitario exterior más icónico del mundo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GVSyX77SJfLHbueeuDXNNT-1200-80.jpg",
+          "cap": "Los 10 finalistas completos se instalaron en la valla digital"
+        },
+        {
+          "t": "p",
+          "x": "El autor escribió que el desafío #SellMeThisPen fue el tipo de colaboración espontánea que vuelve a hacer agradables las redes sociales. También mostró cómo un reposicionamiento inteligente puede retener a una marca en una época cambiante. Añadió que incluso le dieron ganas de volver a usar un bolígrafo antes de que se olvide la escritura a mano."
+        }
+      ]
+    },
+    "design/design-why-does-ai-generated-food": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Restaurantes, cafés y marcas están usando IA para crear imágenes promocionales de comida, y el resultado es una avalancha de contenido que quita el apetito: camarones con forma de dona, fideos que parecen gusanos, materiales de construcción que se hacen pasar por helado. Hay bultos y agujeros por todas partes. Es difícil entender por qué alguien vendería comida con IA cuando tiene el producto real justo delante, pero hay cierta explicación de por qué la IA produce tan bien imágenes tan repulsivas."
+        },
+        {
+          "t": "p",
+          "x": "Muchos de los principales generadores de imágenes usan difusión. Empiezan con una pantalla llena de ruido y lo eliminan poco a poco hasta construir la imagen solicitada. Chris Russell, experto en visión por computadora que enseña IA y políticas públicas en Oxford, explicó que “así se restaura primero la estructura gruesa, y la textura fina llega al final”. El problema surge cuando la estructura ya está mal antes de añadir los detalles. Una textura nítida simplemente se coloca sobre una estructura equivocada. Es el mismo tipo de fallo que generar una mano con seis dedos."
+        },
+        {
+          "t": "p",
+          "x": "Incluso cuando la estructura está bien, los detalles se desvían. Giovanbattista Califano, científico del comportamiento de la Universidad de Nápoles Federico II, dijo que “los modelos de difusión son notoriamente débiles para generar estructuras finas, continuas y que terminan en una punta”, y añadió que “los fideos, los filamentos y los tentáculos tienen exactamente esa geometría, por lo que artefactos parecidos a espaguetis se extienden a lugares que no tienen sentido ni anatómico ni culinario”. Las texturas repetitivas, como burbujas o semillas, también son difíciles de contener dentro de límites claros y se filtran a lugares equivocados. Por eso las imágenes de comida con IA suelen tener agujeros agrupados que provocan tripofobia."
+        },
+        {
+          "t": "p",
+          "x": "La IA no sabe qué es un sándwich. Tampoco sabe qué son los fideos ni los burritos. Solo ha aprendido cómo se ven estadísticamente, no por qué tienen ese aspecto. Roland Meyer, profesor de la Universidad de Zúrich, dijo que “la generación de imágenes con IA reproduce apariencias sin un conocimiento real del mundo”. Michael Cook, profesor titular en el King's College de Londres, mencionó helados que parecen concreto agrietado y hamburguesas que parecen esculpidas en piedra, y señaló que texturas que “se verían completamente normales en un contexto arquitectónico” se vuelven extrañas en el momento en que se imaginan como comida."
+        },
+        {
+          "t": "p",
+          "x": "Los datos de entrenamiento agravan el problema. Cook dijo que, como el proceso de entrenamiento es tan opaco, no hay forma de saber qué se mezcla ni qué asociaciones se forman. Las fotos de comida ya están muy producidas de por sí, con contraste marcado, colores intensos, iluminación brillante y formas exageradas. Meyer dijo que la IA capta solo propiedades superficiales y las reproduce sin entender el contexto, y añadió que “imita perfectamente la apariencia de una foto, pero no puede imitar la estrategia estética profesional detrás de ella”."
+        },
+        {
+          "t": "p",
+          "x": "Simon Colton, profesor de creatividad computacional en Queen Mary University of London, señaló que hay sorprendentemente pocas imágenes de una manzana roja común. “¿Quién va a publicar en internet una foto aburrida de una manzana?” Las imágenes extrañas, en cambio, se difunden ampliamente en Reddit y como memes. Además, la IA ahora también se entrena con material generado por IA. Cook citó investigaciones que muestran que entrenar modelos con la salida de otros modelos provoca un “colapso del modelo”, por el que las imágenes se vuelven cada vez más parecidas entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Los propios prompts también contribuyen. A veces son tan vagos como pedir simplemente un sándwich, o mezclan palabras como “precisamente”, que funcionan en texto pero apenas significan algo para la generación de imágenes. Ampliar mucho una imagen de baja resolución también agranda defectos que antes pasaban inadvertidos y crea huecos que el modelo debe rellenar."
+        },
+        {
+          "t": "p",
+          "x": "Por eso muchas imágenes de comida generadas con IA caen de lleno en el valle inquietante. Precisamente los humanos somos extremadamente buenos para notar cuando algo falla en la comida. Se cree que el asco es una emoción que evolucionó para protegernos de parásitos, patógenos y toxinas. Califano dijo que el valle inquietante de la comida es mucho más visceral que el de los rostros humanos. Los tentáculos parecidos a fideos evocan gusanos, los agujeros agrupados evocan infección y los colores desajustados evocan descomposición. Parece comida, pero nuestro cerebro lo sabe."
+        }
+      ]
+    },
+    "design/design-dynamic-text": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "7q3spdQlZLA"
+        },
+        {
+          "t": "p",
+          "x": "Adobe Creative Cloud publicó un nuevo video que presenta la función de texto dinámico de Photoshop. Ahora las capas de texto se pueden colocar, espaciar y estructurar de forma más intuitiva."
+        },
+        {
+          "t": "p",
+          "x": "El texto dinámico se incorporó a Photoshop a principios de este año a partir de los comentarios de la comunidad de usuarios. Adobe explica que la función da a los usuarios un control más preciso sobre las capas de texto."
+        },
+        {
+          "t": "p",
+          "x": "El punto clave es que el margen y la estructura de las capas de texto ya colocadas se ajustan automáticamente cada vez que cambia el contenido."
+        },
+        {
+          "t": "p",
+          "x": "Al final del video, Adobe pregunta directamente a los espectadores qué actualización quieren ver a continuación. Es un ejemplo de cómo el canal de Creative Cloud ha incorporado los comentarios de los clientes al producto."
+        }
+      ]
+    },
+    "design/design-lamp-robot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/RRR5VZcnMCpMfNaJcSKfv6.jpg",
+          "cap": "Robot lámpara de escritorio presentado por Autonomous. Se mueve con una cabeza con cámara y cinco servomotores."
+        },
+        {
+          "t": "p",
+          "x": "Autonomous presentó 「Lamp」, un robot de iluminación de escritorio con estilo Pixar que se mueve como si estuviera vivo. Puede ver y oír, y también funciona como asistente de IA."
+        },
+        {
+          "t": "p",
+          "x": "Un clip de video en el que responde a la pregunta 「¿qué se siente al estar vivo?」 recibió elogios tras superar las 274.000 reproducciones en X."
+        },
+        {
+          "t": "p",
+          "x": "Autonomous afirma que 「toda la IA que ha existido hasta ahora vive detrás de un cristal」. A diferencia de la IA habitual, atrapada en una pestaña del navegador y olvidada en una semana, la empresa sostiene que Lamp tiene un 「cuerpo vivo」. Su cabeza con cámara se mueve mediante cinco servomotores con retroalimentación de posición y también cuenta con un arreglo de micrófonos y altavoces estéreo. Se diseñó cada movimiento en detalle, desde una breve vacilación antes de levantar la cabeza hasta un sobresalto cuando algo cruza su campo de visión y un lento asentamiento final."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zTpJcfJoAaRHcbB7HiKbzE.jpg",
+          "cap": "Según Autonomous, la mayor parte del tiempo de desarrollo se dedicó a este único movimiento. (Crédito de imagen: Autonomous)"
+        },
+        {
+          "t": "p",
+          "x": "Autonomous dijo que dedicó la mayor parte del tiempo de desarrollo a este movimiento, porque es lo que da la impresión de estar viendo un ser vivo y no un dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "Lamp observa constantemente al usuario, le recuerda beber agua, le señala si encorva la postura, controla los descansos y ofrece poner música tranquila si parece cansado. También puede conversar con otros robots."
+        },
+        {
+          "t": "p",
+          "x": "También tiene usos cotidianos. Revisa la bandeja de entrada, programa eventos en Google Calendar, publica en WordPress y lee en voz alta los issues de GitHub mientras se escribe. Sus funciones se pueden ampliar mediante una 「tienda de habilidades」 con más de 70 complementos."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden detener su vigilancia o silenciarlo, lo que alivia en parte la incomodidad de tener un dispositivo de vigilancia en el escritorio. Más allá de esa preocupación, el movimiento y el acabado en sí son impresionantes."
+        },
+        {
+          "t": "p",
+          "x": "Lamp parte de 499 dólares y baja hasta 464 dólares por unidad en compras al por mayor de 30 unidades o más. Viene en cuatro colores, totalmente ensamblado, con envíos desde el 24 de septiembre de 2026, garantía de un año y devoluciones de 30 días."
+        }
+      ]
+    },
+    "design/design-rtx-spark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
+          "cap": "En IFA 2026, NVIDIA presentó de una vez su ecosistema de agentes de IA locales."
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA, junto con Microsoft y varios socios, presentó en IFA 2026 una serie de herramientas para ejecutar agentes de IA locales de forma más rápida y sencilla. La nueva PC compacta RTX Spark se lanza en octubre."
+        },
+        {
+          "t": "p",
+          "x": "Hermes Agent, OpenClo y el ordenador portátil de Perplexity ayudan a configurar la IA local de forma más sencilla en las GPU de NVIDIA. Gracias a las optimizaciones de llama.cpp y vLLM, la inferencia local es hasta 1,9 veces más rápida, y la mejora ya está disponible en LM Studio y Ollama."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/09/local-ai-ifa-blog-body.jpg",
+          "cap": "llama.cpp elevó el rendimiento hasta 1,9 veces en la GeForce RTX 5090 mediante optimizaciones de kernel."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo NVIDIA Personal AI Router (PAIR) es una herramienta gratuita y de código abierto que distribuye automáticamente las tareas de inferencia entre varias PC de la misma red. Más de la mitad de los hogares estadounidenses tienen más de dos PC, la mayoría sin usar, y PAIR ayuda a aprovechar ese recurso de forma compartida."
+        },
+        {
+          "t": "p",
+          "x": "Una noticia que llamará especialmente la atención de los diseñadores es el modo AI PC de CyberLink PhotoDirector. Optimizado para la RTX Spark, admite edición generativa, corrección de imagen, eliminación de objetos e imperfecciones, cambio de fondo, retoque de retratos y generación de imágenes completamente nuevas, y permite elegir entre procesamiento local o en la nube según la tarea. Acelera el cálculo local con TensorRT-RTX y FP8."
+        },
+        {
+          "t": "p",
+          "x": "La RTX Spark está lista para lanzarse en octubre. Con una GPU RTX Blackwell de 1 petaflop de rendimiento, hasta 128GB de memoria unificada y una CPU Grace de 20 núcleos, abarca desde portátiles delgados hasta pequeños equipos de escritorio pensados para ejecutar agentes de forma continua. Lenovo y Acer han presentado nuevos dispositivos, y estudios de videojuegos como EA, Embark y Ubisoft también colaboran."
+        }
+      ]
     }
   }
 }

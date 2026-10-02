@@ -4922,6 +4922,506 @@
           "x": "That's why I welcome Norway's approach. We left social media platforms unregulated for years before even attempting oversight, and we're still dealing with the fallout. Tech companies have treated public anonymity as acceptable collateral damage in their race for new hardware and features. If companies won't build proper safeguards themselves, regulators need to draw the line instead."
         }
       ]
+    },
+    "gadgets/gadgets-gemini-spark-google-photos": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Photos has been added to the list of in-house apps that Gemini Spark controls. Google says its personal agent can handle “complex, multi-step tasks” on a user's photo library."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&w=1600",
+          "cap": "Gemini Spark"
+        },
+        {
+          "t": "p",
+          "x": "Here's what it can do: find photos and videos by subject, place, date, or event, and ask it to pick the best shots or filter out duplicates. It can touch up image quality, apply simple corrections, and make collages or stylized images. Edits are always saved to Google Photos as a new copy."
+        },
+        {
+          "t": "p",
+          "x": "Albums work the same way. It can create a new album, shared or private, and fill it with chosen photos. Links to the album it creates get sent through connected apps like Gmail, Google Docs, and Messages. You can also schedule recurring tasks, like making a monthly highlights album or gathering receipt photos separately, and it can pull text out of images too."
+        },
+        {
+          "t": "p",
+          "x": "Combined with Spark's existing features, like scheduling and background cleanup, this kind of instruction becomes possible: “Every weekend, pick the best food photos, make a collage, and put it in a new album called 'What My Camera Ate This Week.'”"
+        },
+        {
+          "t": "p",
+          "x": "It can also hand off information found in photos to other connected apps like Gmail or Workspace: “Match my local summer concert photos against my Google Calendar schedule. Which night can I go?”"
+        },
+        {
+          "t": "p",
+          "x": "Google also gave examples of chaining several actions together: pick the 15 best photos from last week's Hawaii trip, touch up the beach shots, put them in a shared album called 'Aloha 2026,' and draft an email with the link; or gather recent block-party photos and videos into a 'Summer Block Party' album and prepare an email to send to the neighborhood group."
+        },
+        {
+          "t": "p",
+          "x": "Safeguards are built in too. A copy is made before any edit, and new albums default to private. Spark asks for permission before sharing an album or sending an email."
+        },
+        {
+          "t": "p",
+          "x": "It is rolling out gradually over several weeks to Google AI Pro and Ultra subscribers in the United States."
+        }
+      ]
+    },
+    "gadgets/gadgets-lenovo-aeroblade-rollable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lenovo is a company that brings concept laptops to IFA in Berlin. The two it brought this year focused on productivity and portability, and looked closer to something you could actually buy than past concepts have."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pFUTZC2E45bixMv5P25jDH-1999-80.jpg",
+          "cap": "Lenovo Project Swan (Photo: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "First, Project AeroBlade is a 14-inch laptop. In the press release's words, it “redesigned every component around mobility.” It drops the fan for Frore Systems' AirJet solid-state cooling, in which a piezoelectric membrane vibrates at an ultrasonic frequency inaudible to human ears. Four AirJet Mini modules are packed in here, three more than the single one in the Intel Wildcat Lake reference design seen at Computex this year."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aPmjCfw9UwxrZwrkGoV5wG.jpg",
+          "cap": "Lenovo Project AeroBlade (Photo: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "Frore Systems' latest AirJet Mini pulls out 7.5 watts per module, so AeroBlade actively cools 30 watts in total. That matches well with the Intel Lunar Lake chip Lenovo put in this concept, which has a TDP of 17 to 30 watts."
+        },
+        {
+          "t": "p",
+          "x": "Thanks to a small motherboard and a magnesium-aluminum frame, thickness came down to 0.39 inches (10mm) and weight to under 1.83 pounds (830 grams). Being this thin means the only ports are USB-C/Thunderbolt 4, but there are three of them, along with an OLED screen and Wi-Fi 7."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CU2AEVqRkbGakR23xJ5KKH.jpg",
+          "cap": "AeroBlade, cooled fanlessly by four AirJet Mini units (Photo: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "The other machine is Project Swan, Lenovo's return to rollable screens, this time more restrained and realistic than before. It sits inside what looks like an ordinary 14-inch ThinkBook chassis, and pressing a button unfurls the screen to 17 inches at 16:9, with a resolution of 2850 x 1672."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/kBt7bDvoh4RacW5GUKzspG-1200-80.jpg",
+          "cap": "Project Swan unfurling to 17 inches at the press of a button (Photo: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "It's obviously not a light, thin 14-inch machine. It weighs 3.53 pounds (1.6kg) and measures 0.7 inches (17.9mm) thick. That added bulk is concentrated in the lid, which houses the rolling mechanism and bezels that spread out to the sides. The motor noise was loud enough that it would be hard to overlook in a finished product. On the other hand, it never jammed through repeated opening and closing, which is unusual for a concept like this."
+        },
+        {
+          "t": "p",
+          "x": "If the screen mechanism could shrink just a bit more, this looks ready to cross over into an actual product. Even if the bulk isn't appealing, the idea of carrying around a 14-inch machine and unfurling it to 17 inches when you need it is quite tempting."
+        }
+      ]
+    },
+    "gadgets/gadgets-nvidia-pair-gpu-cluster": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "If you're always short on AI tokens, and you have a few PCs at home sitting on idle GPUs, this will catch your ear. Nvidia's pitch is to put those idle cycles to work, saving on cloud token costs while keeping the workload inside the house."
+        },
+        {
+          "t": "p",
+          "x": "The tool, unveiled at IFA 2026, is called the Personal AI Router, or PAIR for short. It takes subtasks split off by the agent on your main PC and distributes them to systems with spare GPU capacity on your home network."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg",
+          "cap": "Personal AI Router (PAIR) (Image: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Here's Nvidia's explanation: give a local agent one goal, and a central agent breaks that goal into several subtasks. If all of those tasks pile onto the same GPU, they compete for space and the whole thing slows down, much more than if each sub-agent had its own dedicated compute node."
+        },
+        {
+          "t": "p",
+          "x": "PAIR scatters that work across the home network instead. In a house with plenty of spare GPUs, each participating system takes on one subtask and sends the result back to the main node, which creates room for a large job to finish faster."
+        },
+        {
+          "t": "p",
+          "x": "Of course, other PCs aren't always idle. Their owners game, do creative work, or use the GPU for their own AI tasks. If someone reclaims their GPU, PAIR is designed to absorb that change smoothly. It doesn't reserve other people's PC capacity in advance; instead, it's built to expand and shrink to match whatever resources happen to be free at the moment."
+        },
+        {
+          "t": "p",
+          "x": "Because there's no telling when spare cycles will show up, the quality of a PAIR cluster isn't guaranteed. But for a long job without a tight deadline, it still beats cramming an entire agent swarm onto a single node."
+        },
+        {
+          "t": "p",
+          "x": "Setup is fairly simple. You set up a proxy that an AI front end like LM Studio or Ollama connects to, and PAIR distributes work across the network's nodes and returns results to that original app. Each participating node also needs PAIR installed alongside Ollama or LM Studio. Node discovery uses mDNS, falling back to IP addresses if that fails. Nvidia says participating nodes don't need to have the same model loaded."
+        },
+        {
+          "t": "p",
+          "x": "Requirements are a DGX Spark (or other GB10) box, or a GeForce RTX 20-series or newer graphics card. For inference, Macs with M4-series chips or later are also supported. Clients are available for Windows, macOS, and Linux."
+        }
+      ]
+    },
+    "gadgets/gadgets-nvidia-rtx-spark-ai-pcs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Three months ago, Nvidia unveiled the RTX Spark “superchip” along with a handful of laptops built to use it. Even with plenty of questions left unanswered, it looked like a moment that would mark a turning point in PC history."
+        },
+        {
+          "t": "p",
+          "x": "At IFA 2026 in Berlin, I got my first hands-on look at one of those laptops. Mini desktop PCs built around the RTX Spark were also announced there. Demand for running agent workflows like OpenClaw on a personal computer keeps growing, and these new PCs are built squarely for that demand."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a988e1369e7125a8c650442/191:100/w_1280,c_limit/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg",
+          "cap": "An RTX Spark-based AI PC unveiled at IFA 2026"
+        },
+        {
+          "t": "p",
+          "x": "The one shown in person was the Lenovo Yoga 9n 2-in-1. It's a 16-inch laptop with a 360-degree hinge, and its finish makes clear it's aimed squarely at the MacBook Pro. The OLED touch display runs at 2880 x 1800 resolution and 120Hz, with six-speaker sound and a 9.2-megapixel webcam on top."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a988cd09d9d9d82fb444e2b/master/w_1600,c_limit/lenovo-yoga-9n03-source--Les-Shu.jpg",
+          "cap": "Lenovo Yoga 9n 2-in-1 (Photo: Les Shu)"
+        },
+        {
+          "t": "p",
+          "x": "It's 0.69 inches thick, only 0.03 inches more than the 16-inch MacBook Pro. What makes that possible is Nvidia's Arm-based chip, which combines up to a 20-core Grace CPU and up to a 6,144-core Blackwell RTX GPU with shared memory into a single SoC. Going by core count alone, the built-in GPU's performance falls somewhere between today's laptop RTX 5070 Ti and RTX 5080."
+        },
+        {
+          "t": "p",
+          "x": "Lenovo also prepared a 15-inch Yoga Pro 9n. Its display is 2560 x 1600, and its thinnest point is 0.66 inches. A unique feature of this model is a force pad touchpad you can write and draw on directly with a stylus. Memory tops out at 64GB on the 9n 2-in-1 and 128GB on the Pro."
+        },
+        {
+          "t": "p",
+          "x": "Lenovo isn't the only one with RTX Spark laptops coming this fall. The Dell XPS 16, Asus ProArt P16, and Microsoft Surface Laptop Ultra are all lined up. In the 14-inch category, the HP OmniBook X 14 is still the only one."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a988b6bf00ece367647c29e/master/w_1600,c_limit/Acer-SFF-RTX-Spark-vertical.jpg",
+          "cap": "Acer SFF RTX Spark (Photo: Acer)"
+        },
+        {
+          "t": "p",
+          "x": "On the mini PC side, Acer has released the SFF RTX Spark. It packs “petaflops of AI performance” and up to 128GB of memory into a body about the size of a Mac mini, and it uses the same superchip as the Asus ProArt Mini PC unveiled earlier in the summer."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a988b6b69e7125a8c65043c/master/w_1600,c_limit/asus-ProArt-GR1X-Mini-PC.jpg",
+          "cap": "Asus ProArt Mini PC (Photo: Asus)"
+        },
+        {
+          "t": "p",
+          "x": "There's also the Lenovo ThinkCentre X Ultra, which uses AMD, with a Ryzen Max+ Pro 495 and 128GB of memory, starting at $3,699. What's left in the end is price. RAM has never been this expensive and this necessary at once. Considering that a 128GB MacBook Pro now costs $6,139, this isn't likely to come cheap either."
+        }
+      ]
+    },
+    "gadgets/gadgets-vision-pro-hip-surgery": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Medical device maker Stryker announced this week that its Apple Vision Pro app was used in what could be seen as a milestone surgery. The headset software, SportSuite Vision, was used in a hip arthroscopy at Duke Health—its first use in an actual clinical setting. The FDA granted De Novo approval on July 17."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/intro-1788469479.jpg",
+          "cap": "An Apple Vision Pro used in the operating room"
+        },
+        {
+          "t": "p",
+          "x": "Ever since Apple introduced its mixed-reality headset, the question of who it's actually for has lingered. The first model wasn't built for a mass audience, and neither was the more powerful M5 version we tried last year. Still, Vision Pro seemed to point toward an interesting future at home, waiting for the right situation to arrive."
+        },
+        {
+          "t": "p",
+          "x": "Complex surgery is close to that situation. In mixed reality, clinicians can interact directly with the patient in front of them while also viewing data and tools in digital space. In this first SportSuite Vision surgery, the surgeon kept Stryker's orthopedic surgical planning tools, arthroscopic footage, and CT images on hand throughout the hip arthroscopy."
+        },
+        {
+          "t": "p",
+          "x": "“Spatial computing let me arrange key clinical information to fit my workflow and check it right there within the sterile field,” said Chad Mather III, the orthopedic surgeon at Duke Health who performed the surgery with Vision Pro. “The OR setup became more comfortable and streamlined, and the information I needed stayed in view.”"
+        },
+        {
+          "t": "p",
+          "x": "Given the cost of the headset and how demanding the software development is, it'll be a while before your local doctor is wearing one during a checkup. Apple's reported cuts to much of the Vision Pro team last month aren't a good sign for mainstream adoption, either. Still, when it comes to judging what mixed-reality headsets are good for, this kind of application is exactly what could put Vision Pro in its rightful place."
+        }
+      ]
+    },
+    "gadgets/gadgets-anker-mindbase-hub": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At IFA 2026, Anker unveiled a new smart home hub. Its name, grandly enough, is MindBase. It looks like a tower, similar to a common Wi-Fi router. The company built on AnkaAI, the voice assistant previously limited to its Soundcore devices, expanding it significantly, marking Anker's first head-on attempt to compete in the smart home market dominated by Apple, Google, and Amazon."
+        },
+        {
+          "t": "p",
+          "x": "MindBase doesn't stop at being a smart home controller. It includes expandable NAS-style local storage and on-device AI that processes security camera footage directly on the unit. Alongside the launch, Anker shared other news: it will retire its sub-brands Eufy and Soundcore, folding everything under the Anker name soon."
+        },
+        {
+          "t": "p",
+          "x": "MindBase is a Matter 1.5 controller, meaning it can single-handedly act as the brain for Matter-compatible devices. Connect smart bulbs, garage door openers, robot vacuums, and various sensors, then give commands to AnkaAI by voice. It also ties into Apple Home, Google Home, Amazon Alexa, and Home Assistant. Brett White, Anker's PR manager, who spoke at the IFA booth, explained that in this role MindBase behaves like a Hue Bridge or SwitchBot Hub, handing off already-connected Matter devices to whichever platform the user chooses."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/MindBase-top-off.jpg",
+          "cap": "MindBase with the top removed (Photo: Wes Davis / Gizmodo)"
+        },
+        {
+          "t": "p",
+          "x": "What stood out most was the smart home assistant side. Anker said it initially designed MindBase as a security-focused device, similar to its own HomeBase. For example, if it notices you come home around the same time every day, it proactively suggests turning off camera alerts. From there the scope widened, and now it can connect to any Matter device and control it either through the Anker app or by voice."
+        },
+        {
+          "t": "p",
+          "x": "As a security camera hub, it's essentially a souped-up version of the Eufy HomeBase. It accepts 16 wireless security cameras, and connecting an external PoE switch adds four more wired cameras. Anyone coming from a HomeBase S380 can migrate their stored footage over to MindBase."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Eufy-MindBase-Neural-Chip.jpg",
+          "cap": "The removable AI processing chip (Photo: Wes Davis / Gizmodo)"
+        },
+        {
+          "t": "p",
+          "x": "The on-device security AI runs Anker's own LLM on a 26 TOPS chip. For reference, Microsoft's Copilot PC requirement is at least 40 TOPS. Anker says this AI agent “evaluates events in real time to assess risk, and responds with observation, lighting, voice warnings, and active deterrence.” The company also plans to follow up with agents for home energy management and for managing cleaning devices and appliances. The AI processing chip sits near the hard drive slot on top of the device and can be easily pulled out, so it could be swapped later."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Eufy-MindBase-ports.jpg",
+          "cap": "Ports on the back of MindBase (Photo: Wes Davis / Gizmodo)"
+        },
+        {
+          "t": "p",
+          "x": "Last is the NAS. White said it's a proper NAS that not only stores files but also runs apps. Built-in flash storage is 64GB, and you can add up to 48TB more using 2.5-inch or 3.5-inch hard drives or SSDs. According to the company, you can search stored photos, recordings, and documents using natural language, and personal data never leaves the device for the cloud. There's no subscription fee either."
+        },
+        {
+          "t": "p",
+          "x": "Anker also sells a MindBase security kit. It pairs the newly unveiled Eufy TrackLight Cam S1 and Video Doorbell S4 with entry and motion sensors and the Smart Security Shield. The Shield is a sensor that Anker says “detects strangers up to 15 meters away, and recognizes family members up to 30 meters away using DSKey digital credentials.” Here, “family” refers to members who have installed the Anker app and registered themselves to the home."
+        },
+        {
+          "t": "p",
+          "x": "Pricing and availability haven't been announced yet."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-overlay-bubble": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Gemini overlay on Android now has a multitasking option. Minimizing it leaves behind a floating bubble shortcut."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&w=1600",
+          "cap": "The Gemini overlay on the Pixel 11 Pro"
+        },
+        {
+          "t": "p",
+          "x": "A “Minimize” button has been added to the top of the overlay. Right after you enter a prompt, it sits in the center; once an answer appears, it moves to the right side of the pill-shaped container."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-overlay-Minimize-bubble-1a.jpg?ssl=1",
+          "cap": "The minimize button that appears after entering a prompt"
+        },
+        {
+          "t": "p",
+          "x": "Tapping it collapses the overlay into a bubble bearing the spark logo. Google describes it this way: “Use Gemini even while multitasking. Tap to expand. Drag to move it or close it.”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-overlay-Minimize-bubble-2a.jpg?ssl=1",
+          "cap": "The Gemini bubble that remains on screen after collapsing"
+        },
+        {
+          "t": "p",
+          "x": "That said, the bubble locks into one of six fixed positions rather than landing anywhere you like. There's also a bug where the bubble snaps back to the bottom right every time you minimize it."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-overlay-Minimize-bubble-3a.jpg?ssl=1",
+          "cap": "The bubble floating over another app"
+        },
+        {
+          "t": "p",
+          "x": "Once the full answer has appeared, tapping outside the sheet sends it back into a bubble. Using the system's back gesture closes the whole overlay, and you can also drag it closed."
+        },
+        {
+          "t": "p",
+          "x": "It's clearly faster than opening the Gemini app, going into the side panel, and returning to the conversation. People use it to fire off a question, minimize it, and do something else instead of waiting idle for the answer. For a richer experience, you can also apply Android 17's system bubbles feature to the Gemini app."
+        },
+        {
+          "t": "p",
+          "x": "The minimize button and the Gemini bubble are rolling out broadly to Android today."
+        }
+      ]
+    },
+    "gadgets/gadgets-ikairos-modular-wearable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Ringverse iKairos is a modular AI wearable that comes in the form of a desktop robot companion. You can also detach it from the body and wear it as an AI pendant around your neck. Its purpose is to gather contextual data and surface suggestions that are actually useful to the user."
+        },
+        {
+          "t": "p",
+          "x": "Neither AI pendants nor desktop AI robots are new. But at IFA 2026, the Singapore-based company Ringverse brought out a modular wearable that can sit on a desk and also hang around your neck."
+        },
+        {
+          "t": "p",
+          "x": "The product is named iKairos. Thanks to its modular design, it learns about the user's life from multiple angles. On the desk, it observes and responds like any other desktop AI robot. When you head out, you simply pop it out of the robot body and clip it onto a necklace."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-1.jpg",
+          "cap": "iKairos shown at IFA 2026 (Photo: Adamya Sharma / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "That's how iKairos gathers contextual data about the user across multiple environments. The collected data feeds into Ringverse's AI operating system, LifeOS, which then picks out suggestions that are relevant and, hopefully, useful."
+        },
+        {
+          "t": "p",
+          "x": "Here's the example Ringverse gave: if iKairos notices that sailing keeps coming up in conversation but never turns into action, it suggests taking a sailing lesson over the weekend."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-2.jpg",
+          "cap": "Detached as a necklace module (Photo: Adamya Sharma / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "Privacy is also emphasized. According to the company, iKairos combines both software and hardware protections. It has a physical camera shutter, a privacy indicator light, and a manual mute button. Data is encrypted both in transit and at rest, it isn't used to train AI models, and retention periods are set by the user."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-3.jpg",
+          "cap": "The physical shutter and privacy indicator light (Photo: Adamya Sharma / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "Ringverse's bigger vision is for iKairos to build a detailed, nuanced understanding of a user's habits, work, friends, and conversations. The plan is to transplant that accumulated understanding into robot bodies or accessories, eventually powering home robots."
+        },
+        {
+          "t": "p",
+          "x": "Pricing and launch timing haven't been set. Anyone interested can join the waitlist on Ringverse's website."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "After recently adding a conversational AI storytime feature, improved alarms, more accurate song recognition, and easier message broadcasting to the Google Home app, Google is rolling out a new update that takes Gemini for Home a step further."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg",
+          "cap": "The Gemini logo on an Android phone."
+        },
+        {
+          "t": "p",
+          "x": "This Google Home app update has already begun rolling out, bundling small improvements that widen Gemini for Home's voice control range and make automation management easier."
+        },
+        {
+          "t": "p",
+          "x": "The biggest change is that Gemini now understands a much wider range of voice commands spanning both media and home device control. Media commands can now be combined with other kinds of commands in a single request, so you can issue two actions at once, such as 「turn off the lights and turn off the music too.」"
+        },
+        {
+          "t": "p",
+          "x": "Compared to the previous Google Assistant, Gemini for Home was already far more capable and conversational, so its inability to combine media and smart home commands was actually puzzling. Now that these commands can be chained together, requests like 「skip this song and turn on the backyard lights」 or 「turn off the music and turn off the living room lights」 no longer confuse it or trigger errors."
+        },
+        {
+          "t": "p",
+          "x": "There is also good news for Google Home users who have recently had trouble setting alarms or adding items to a Google Keep list. Google confirmed that this update fixes both bugs and that the commands now work properly."
+        },
+        {
+          "t": "p",
+          "x": "Finally, this update also makes managing Google Home automations much easier. The lists of starters and actions inside the automation editor are now automatically sorted alphabetically, making it faster to find the device feature you want. Also, for users who manage automations through third-party apps, Google Home now respects the visibility settings configured in that app, meaning third-party routines kept private will no longer clutter the Google Home automation list."
+        }
+      ]
+    },
+    "gadgets/gadgets-govee-ai-lighting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Govee is once again doubling down on smart home mood lighting at IFA 2026. The new AI lighting products it unveiled automatically adjust mood lighting, support fine-grained color transitions, and offer custom settings tailored to indoor and outdoor spaces alike."
+        },
+        {
+          "t": "p",
+          "x": "The Sky Ceiling Light is built around managing how you feel throughout the day. Govee's new AI Lighting Bot 2.0 adjusts lighting to match your schedule or mood, and emits a sky-blue light at a 478nm wavelength to help maintain alertness during hours with little sunlight. It outputs up to 7,000 lumens of white light at a CRI of 95, with a color temperature range spanning 1,000K to 10,000K. It has earned TÜV Rheinland certification for flicker-free operation and low blue light, and it supports Matter. It goes on sale in the U.S. from September 4 for $399, and in Europe for €399."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Govee-Sky-Ceiling-Light-lifestyle-image.jpg?resize=2000%2C1200",
+          "cap": "The Govee Sky Ceiling Light."
+        },
+        {
+          "t": "p",
+          "x": "The COB Strip Light 2 Pro, intended for indoor accent lighting, produces seamless, smooth mood lighting. It also contains AI Lighting Bot 2.0, letting you create lighting scenes suited to gaming, watching movies, reading, and other situations using only text or voice commands. It arranges 1,344 LEDs and 16 ICs per meter in a triple-groove structure for seamless light diffusion, and raises color accuracy with RGBWWIC technology, a CRI of 92, and a color temperature range of 1,000K to 10,000K. The 5-meter model arrives September 4 at $169.99 (€179.99 in Europe), and the 2-meter model arrives in late September at $99.99 (€89.99 in Europe)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Govee-COB-Strip-Light-2-Pro-lifestyle-image.jpg?resize=2000%2C1200",
+          "cap": "The Govee COB Strip Light 2 Pro."
+        },
+        {
+          "t": "p",
+          "x": "Last in the lineup is the Permanent Outdoor Lights 2 Pro, for exterior house lighting. The standout hardware upgrade is a dual-layer light-emitting structure, with each light head containing two independently controlled IC chips that let the upper and lower sections display different colors or effects at the same time. Govee's LuminBlend+ color management system handles complex color transitions across an entire roofline, and like the rest of the new lineup, it connects to AI Lighting Bot 2.0, letting users create holiday themes or everyday outdoor moods from simple prompts alone. It goes on sale in the U.S. starting September 7, priced at $499.99 for 100 feet and $799.99 for 200 feet."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Govee-Permanent-Outdoor-Lights-2-Pro-lifestyle-image.jpg?resize=2000%2C1200",
+          "cap": "The Govee Permanent Outdoor Lights 2 Pro."
+        }
+      ]
+    },
+    "gadgets/gadgets-homepod-siri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "According to Bloomberg's Mark Gurman, Apple is internally testing a new full-size HomePod with Siri AI built in."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/t6jJN3ydbuPh9w847p_UiDAlqGY=/2500x/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
+          "cap": "The current second-generation HomePod, released in 2023."
+        },
+        {
+          "t": "p",
+          "x": "In an Apple product forecast report published today, Gurman noted that the speaker is not imminent, meaning it is not coming out soon. The HomePod currently in use was released in January 2023."
+        }
+      ]
+    },
+    "gadgets/gadgets-ugreen-homeagent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ugreen, known for chargers and cables, has entered the smart home business. Its new HomeAgent is a local AI hub that manages its ecosystem devices, designed to process all data on the device itself rather than on cloud servers."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Ugreen-HomeAgent-1.jpg?quality=82&strip=all&resize=1200,628",
+          "cap": "The Ugreen HomeAgent."
+        },
+        {
+          "t": "p",
+          "x": "Ugreen released two models together, the HA100 and HA100 Pro. The core feature of this local AI hub, which operates on the home network, is summarizing events detected around the house. Similar to Google Home's premium feature, it analyzes camera footage without an external server to generate descriptions that distinguish between people, pets, and vehicles."
+        },
+        {
+          "t": "p",
+          "x": "The hub also picks highlight images from an accessible photo library on its own and displays them on Ugreen's smart photo frame. According to the manufacturer, both HomeAgent models support Matter, allowing them to tie together other connected devices on the network within a broader smart home ecosystem and control them locally."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Ugreen-HomeAgent-cameras.jpg?quality=82&strip=all",
+          "cap": "The SinKare camera lineup unveiled alongside HomeAgent."
+        },
+        {
+          "t": "p",
+          "x": "Ugreen also introduced devices that work right away with HomeAgent. The lineup includes three cameras aimed at both indoor and outdoor surveillance needs. The indoor model, SinKare, has pan-and-tilt functionality, 4K resolution, and Wi-Fi 6 connectivity, along with a physical shutter for privacy."
+        },
+        {
+          "t": "p",
+          "x": "For outdoor use, Ugreen released SinKare PoE and battery versions. Both combine a fixed bullet camera with a pan-and-tilt module to capture three video feeds at once with up to 9x hybrid zoom. The biggest difference between the two models is their power source: one connects via Ethernet, while the other runs on a solar-charged battery, a difference that affects response speed and installation flexibility."
+        },
+        {
+          "t": "p",
+          "x": "The entire HomeAgent ecosystem, including both hub models and the SinKare cameras, began taking pre-orders the same day it was unveiled."
+        }
+      ]
     }
   }
 }

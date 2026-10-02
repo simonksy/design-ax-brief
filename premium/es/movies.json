@@ -4075,6 +4075,425 @@
           "yt": "ca76F7Jo84k"
         }
       ]
+    },
+    "movies/movies-avid-mc-2026-8": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ya está disponible Avid Media Composer 2026.8. El cambio más grande esta vez es el soporte para almacenamiento de terceros. Es un cambio tan grande que Avid publicó un documento aparte para explicarlo, y de él depende también la tarifa de actualización de 99 dólares para usuarios de Media Composer Ultimate que pasan a Enterprise."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Avid-Media-Composer-ekSB8kXc-000127.jpg",
+          "cap": "Interfaz de Media Composer 2026.8"
+        },
+        {
+          "t": "p",
+          "x": "Media Composer ahora admite oficialmente proyectos compartidos en almacenamiento compartido de terceros, incluidos NAS y SAN, aunque solo con una licencia de Media Composer Enterprise. Varios editores pueden compartir bins en el mismo proyecto y usar juntos el material del almacenamiento compartido. El bloqueo de bins muestra un candado verde cuando está disponible y uno rojo cuando otro editor lo tiene abierto, en cuyo caso se abre en modo de solo lectura."
+        },
+        {
+          "t": "p",
+          "x": "Las salas de edición que trabajan con Ultimate y han resuelto el bloqueo de bins con herramientas como MimicPro ahora tienen que elegir: quedarse en su versión actual y seguir como hasta ahora, o pasar a 2026.8 y adquirir una licencia Enterprise. Avid dice que los clientes que no actualicen no necesitan hacer nada."
+        },
+        {
+          "t": "p",
+          "x": "Para quien edita entrevistas o mesas redondas, lo interesante es PhraseFind Multicam Auto Cut. Primero se transcribe el clip multicámara, luego se asigna un ángulo de cámara a cada hablante en la herramienta de transcripción, se carga el clip de grupo en una secuencia y se pulsa Auto Cut. Media Composer analiza la transcripción y corta automáticamente hacia quien esté hablando. El resultado se ajusta con opciones como el desfase de tiempo y la duración mínima del habla."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Avid-Media-Composer-50b3TiHg-000139-Auto-Cut.jpg",
+          "cap": "Un primer corte armado por Auto Cut"
+        },
+        {
+          "t": "p",
+          "x": "El autor señala que Avid no está vendiendo esto como una herramienta de IA. Usa la función de transcripción integrada, pero el resto se parece más a un procesamiento mecánico. No puede ver la expresión de alguien que no habla ni una buena reacción, así que la idea es dejarle solo el primer corte y que el editor entre después a pulirlo."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta de transcripción ahora tiene control de versiones. La transcripción original hecha por la IA sigue disponible, así que se puede revertir todo o solo una parte en cualquier momento. También se añadió una función para dividir un segmento en dos, una opción para unir segmentos consecutivos del mismo hablante en un solo párrafo, y una opción para separar párrafos cada 30 segundos por defecto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Avid-transcript-CleanShot-YNm3Yekb-000140.jpg",
+          "cap": "La herramienta de transcripción, ahora con control de versiones"
+        },
+        {
+          "t": "p",
+          "x": "Además, ahora se puede elegir directamente la pista de audio del clip maestro original al trabajar con subclips y clips de grupo, con ajuste de ganancia y volumen incluido. La ventana de selección de columnas tiene un campo de búsqueda. En Titler+, los keyframes se mantienen de forma más estable al recortar, cortar o duplicar clips. El Media Composer First gratuito también creció, con los límites de número de pistas de video/audio y el tope de resolución SD/HD eliminados."
+        }
+      ]
+    },
+    "movies/movies-gwm-worlds2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "pmjyB-lc4KQ"
+        },
+        {
+          "t": "p",
+          "x": "Runway lanzó GWM Worlds 2. En lugar de un modelo que genera clips terminados, es un modelo que ejecuta en tiempo real un mundo al que se puede entrar y moverse dentro de él. El video a 720p y 24fps y el audio a 48.000Hz se mantienen sin cortes."
+        },
+        {
+          "t": "p",
+          "x": "Primero se define el entorno, los personajes, el estilo visual, las leyes físicas y el ambiente. Una vez dentro, se da instrucciones por texto. Se puede hablar a un personaje concreto o a toda la escena: pedir que alguien blanda una espada, que una habitación se llene de agua o que llegue una tormenta de arena. La cámara sigue moviéndose de forma independiente a todo eso."
+        },
+        {
+          "t": "p",
+          "x": "Runway organizó esta entrada en un formato que llama WorldPrompt, dividido en dos capas: lo que persiste y lo que cambia con el tiempo. La capa frontal contiene el Genesis Prompt y el primer fotograma, con la descripción de la escena, los personajes y reglas como la gravedad o las colisiones. La capa posterior contiene acciones con marcas de tiempo de inicio y fin, y entradas de cámara por fotograma. Las acciones pueden superponerse, y los diálogos se tratan como un tipo más de acción."
+        },
+        {
+          "t": "p",
+          "x": "Un punto importante es que no hay una duración fija. El mundo no sigue un guion; continúa desde el punto en que llega una nueva entrada. Se puede caminar en primera persona y luego pasar a tercera persona, y cuando los personajes hablan entre sí, se añaden incluso la forma de la boca y el tono de voz. También se puede cargar un video existente por delante y seguir jugando a partir de donde termina."
+        },
+        {
+          "t": "p",
+          "x": "Runway considera este modelo una base para el entretenimiento interactivo, los personajes virtuales, y la robótica y la simulación de agentes encarnados. También se presentaron experimentos en los que se encargó a un agente un personaje y la iluminación de un castillo al mismo tiempo, y otro en el que debía encontrar el camino entre una bandera roja y una bandera azul."
+        }
+      ]
+    },
+    "movies/movies-seedance-facegrid": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "7AVUM6AR1W8"
+        },
+        {
+          "t": "p",
+          "x": "Si usas herramientas de video con IA, en algún momento te topas con este mensaje: no puede generarse porque incluye a una persona real. El mismo bloqueo aparece incluso en trabajos de cine o publicidad hechos con permiso. Curious Refuge probó por su cuenta un método que circula estos días, usando Seedance 2.5 directamente."
+        },
+        {
+          "t": "p",
+          "x": "El método es sencillo. Antes de subir la referencia del personaje, se dibuja una cuadrícula sobre el rostro para ocultarlo ligeramente. El truco consiste en cubrir solo lo necesario para pasar el filtro, dejando la mayor cantidad posible de información identificable. Se preparó esta versión con cuadrícula para ambas personas antes de pasar a la generación de video."
+        },
+        {
+          "t": "p",
+          "x": "Hubo tres pruebas: una escena con ambas personas juntas, una escena más compleja con una referencia de ubicación añadida, y una escena de café en la que las dos intercambian diálogo. Cada vez se comparó el resultado junto al obtenido con la referencia original, sin cuadrícula."
+        },
+        {
+          "t": "p",
+          "x": "Funciona. Pero tiene un costo. La referencia con la cara cubierta mantuvo entre un 80 y un 85 por ciento del parecido con la persona original, y la referencia original siempre produjo un parecido más preciso. La pérdida se nota más en primeros planos, escenas con mucho diálogo, o trabajos donde el actor debe verse igual en varias tomas."
+        },
+        {
+          "t": "p",
+          "x": "Si la consistencia precisa del personaje importa, esta no es la primera opción. Pero es una carta útil cuando ya se tiene permiso y la plataforma sigue rechazando la referencia, cuando el personaje tiene ropa o aspecto distintivo, o cuando solo se necesita salir del paso de forma temporal."
+        }
+      ]
+    },
+    "movies/movies-showcraft-public": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nuah Studios abrió al público su plataforma de producción con IA, Showcraft. Esta empresa de San Francisco diseñó la plataforma para tomar un punto de partida —ya sea un guion, una lista de planos o una sola imagen de concepto— y llevarlo a través de storyboards, animatics, animación y montaje final en un solo entorno. Dentro funcionan varios modelos de IA de imagen y video a la vez."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1081221-rainbowhollowfuneral1-1280.jpg?itok=Tn_oPVHN",
+          "cap": "“Rainbow Hollow”, la comedia oscura para adultos de Noah Wagner con estilo stop-motion. Imagen cortesía de Nuah Studios"
+        },
+        {
+          "t": "p",
+          "x": "Lo importante es que esto no es una demo. La primera serie original de Nuah —“Rainbow Hollow”, la comedia oscura para adultos con estilo stop-motion de Noah Wagner— se hizo en Showcraft. Lo mismo ocurre con “Astro Burn”, una microserie animada en formato vertical de HaZ Dulu, basada en su propio videojuego de pixel art retro."
+        },
+        {
+          "t": "p",
+          "x": "La base de usuarios también crece. La usa Joel Kuwahara, productor ganador de un Emmy y cofundador de Bento Box Entertainment, y la guionista y directora Jerrica Cleland, antigua directora de fotografía de Pixar, la incorporó a su nuevo largometraje. Esa película la produce el estudio de animación nominado al Óscar Nøerlum Entertainment, con Nikolaj Coster-Waldau y su productora Ill Kippers como productores ejecutivos."
+        },
+        {
+          "t": "p",
+          "x": "Cleland dijo: “Combinar Showcraft con la animación tradicional mediante un enfoque centrado en las personas y dirigido por artistas abre nuevas posibilidades creativas y, a la vez, reduce a la mitad los costos de producción. Hace posibles películas independientes como la mía.”"
+        },
+        {
+          "t": "p",
+          "x": "En cuanto a funciones, admite gestión de color ACES y salida en HDR/SDR. La empresa dijo que el escalado local en tiempo real a 4K está en desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo Silvio Druin lo explicó así: “La IA puede hacer un plano. El problema difícil es convertir miles de planos en una producción coherente. Showcraft lleva la estructura y el control de un entorno de producción profesional a la IA, para que los cineastas se concentren en la historia y la dirección en lugar de gestionar un flujo de trabajo fragmentado.”"
+        },
+        {
+          "t": "p",
+          "x": "El precio es un paquete de créditos de pago único, no una suscripción. El costo de generación se muestra antes de lanzar el render, y los créditos comprados siguen siendo válidos durante seis meses. Las suscripciones y los planes adicionales llegan el 6 de octubre, y los créditos comprados durante el acceso anticipado se mantienen bajo esas condiciones de vencimiento."
+        }
+      ]
+    },
+    "movies/movies-introducing-solaris-our-first-interface": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "c2yCePPnrSA"
+        },
+        {
+          "t": "p",
+          "x": "Runway presentó Solaris, el primer modelo de una nueva línea que la empresa llama Modelo de Mundo de Interfaz (Interface World Model). La pregunta detrás es simple: ¿qué pasaría si el sistema operativo generara las apps y los sitios web mientras se usan?"
+        },
+        {
+          "t": "p",
+          "x": "Solaris no convierte la interfaz en código para luego ejecutarla. Genera la propia pantalla fotograma a fotograma, en tiempo real. Cuando se la toca, sintetiza el siguiente fotograma según esa acción. Como la pantalla se sigue renderizando sin parar, los reflejos se mueven con la iluminación y los objetos reaccionan según cómo se los toque. A diferencia del software que solo acepta acciones predefinidas, puede recibir comportamientos completamente distintos dentro de la misma escena."
+        },
+        {
+          "t": "p",
+          "x": "Así es como funciona. Entradas como clics y arrastres se convierten en la condición del siguiente fotograma, de modo que la relación entre la acción y la pantalla se aprende en lugar de programarse por separado. Los modelos de difusión de video son demasiado lentos para uso interactivo, así que Runway pasó por tres etapas: enseñar la generación autorregresiva de fotogramas, destilar el proceso de eliminación de ruido a unos pocos pasos, y luego volver a entrenar el modelo con sus propias salidas. Un modelo de lenguaje interpreta qué hacer, y Solaris dibuja cómo se ve eso y cómo responde."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/solaris-eval-reconstruction-strip-1.webp",
+          "cap": "Resultados de la prueba de fidelidad de reconstrucción"
+        },
+        {
+          "t": "p",
+          "x": "La evaluación se hizo por dos vías. En la prueba de fidelidad de reconstrucción, se les dieron capturas de pantalla de sitios web a modelos de lenguaje multimodales como Claude Fable 5, GPT-4o y Gemini 2.5 Pro para que reconstruyeran la interfaz, y se midió la preservación del contenido con las métricas SSIM y características DINOv3. El rendimiento caía a medida que las pantallas se volvían más complejas, y a pesar de los avances de los últimos años, todos los modelos de lenguaje perdían información durante la reconstrucción."
+        },
+        {
+          "t": "p",
+          "x": "En el estudio con usuarios, 250 personas compararon Solaris con el modelo de lenguaje más reciente, Claude Opus 5, en 30 escenarios de interacción, y se recopilaron cerca de 7.500 juicios por pares. En el cumplimiento de instrucciones, Solaris obtuvo 61% frente a 24% de la interfaz construida con código. En el comportamiento natural, la diferencia se amplió a 71% frente a 21%."
+        },
+        {
+          "t": "p",
+          "x": "También se señalaron las limitaciones. Generar texto legible de forma estable es uno de los problemas más difíciles de la generación de video, y las interfaces dependen en gran medida del texto. Como alternativa, se propone un enfoque híbrido que deja las pantallas con mucho texto a modelos de imagen y la interacción a modelos de video. La precisión factual se maneja anclando el primer fotograma a imágenes reales del producto y material de referencia. Mantener la coherencia en interacciones largas y la integración con tecnologías de asistencia como los lectores de pantalla siguen siendo problemas pendientes."
+        },
+        {
+          "t": "p",
+          "x": "Todavía no se han anunciado fecha de lanzamiento ni precio. Runway está preparando un lanzamiento completo junto con socios importantes, y el acceso anticipado se gestiona mediante un formulario de solicitud."
+        }
+      ]
+    },
+    "movies/movies-one-new-categories-at-ves": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Visual Effects Society (VES) anunció nuevas categorías y cambios de reglamento para los VES Awards. La 25ª ceremonia se celebrará el 17 de febrero de 2027 en el Beverly Hilton de Los Ángeles."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2025/01/53546041416_ea0b102178_o.jpg?fit=1280%2C853&ssl=1",
+          "cap": "VES Awards"
+        },
+        {
+          "t": "p",
+          "x": "Una de las categorías nuevas es Outstanding In-Camera Effects in a Photoreal Project. Renombra y amplía la categoría existente Outstanding Special (Practical) Effects in a Photoreal Project. Cubre resultados logrados con técnicas físicas, ópticas y mecánicas y captados directamente en cámara, desde pirotecnia, miniaturas y animatrónica hasta maquillaje especial y sets de perspectiva forzada. VES escribió que esta ampliación honra el hecho de que el trabajo hecho en el mundo real sigue siendo la base de la narrativa a través de efectos visuales."
+        },
+        {
+          "t": "p",
+          "x": "Otra categoría nueva es Outstanding Visual Effects in a Short Project. Abierta tanto a acción real como a animación para obras de 45 minutos o menos, acepta cortometrajes narrativos, cortos documentales, videos musicales, contenido nativo de redes sociales y cine experimental. También crea un espacio para artistas que trabajan fuera de lo teatral y lo episódico."
+        },
+        {
+          "t": "p",
+          "x": "VES también empezó a separar la animación de la acción real. Lo que antes era una sola categoría, Outstanding CG Cinematography, ahora se divide en dos: una para acción real y otra para animación. El nombre de la categoría de animación cambia de Animated Feature a Animated Project, lo que incorpora también el trabajo episódico. La categoría centrada en simulación pasó a llamarse Procedural Effects."
+        },
+        {
+          "t": "p",
+          "x": "El calendario es el siguiente. Las inscripciones abren el 15 de septiembre de 2026 y cierran el 31 de octubre. El evento global de nominaciones, solo para miembros, está previsto para el 16 de enero de 2027, con el anuncio de finalistas el 19 de enero. La visualización y votación en línea se extienden del 25 de enero al 7 de febrero."
+        }
+      ]
+    },
+    "movies/movies-over-500-free-maya-animation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si animas en Maya, seguramente ya has usado alguna de las herramientas gratuitas de Ehsan Bayat en algún momento: Twosify, Pickify, Vectorify y, más recientemente, Animo. Las construye en torno a su propio flujo de trabajo para eliminar tareas repetitivas, y las publica todas de forma gratuita. Sigue sacando herramientas nuevas también."
+        },
+        {
+          "t": "video",
+          "yt": "0llgDIuS2Jg"
+        },
+        {
+          "t": "p",
+          "x": "Esta versión permite cargar referencias directamente dentro de Maya, aceptando todos los formatos de video además de GIF e imágenes. También se añadieron seis controles deslizantes de animación más. El mayor cambio es el nuevo editor de herramientas: reúne más de 500 herramientas en una sola pantalla, permite asignarles atajos de teclado o fijarlas directamente al shelf, e incluso deja registrar herramientas de animación propias."
+        },
+        {
+          "t": "p",
+          "x": "A eso se suman correcciones de errores y mejoras de rendimiento, además de un repaso al flujo de la interfaz."
+        },
+        {
+          "t": "p",
+          "x": "Esto es lo que incluye Animo: selection sets, espejo de poses y animación, controles deslizantes de animación, barra de herramientas del graph editor, un fast arc tracker y un camera space arc tracker, nudge de claves a izquierda y derecha, pivotes temporales, space switching y attribute space switching, offset global, Xform, una herramienta de animación al estilo Spider-Verse, repathing de animación, copiar animación y poses entre escenas, exportación e importación rápida de objetos, fast baking, reinicio de translate/rotate/scale, una herramienta de capas de animación y un playblaster multicámara."
+        },
+        {
+          "t": "p",
+          "x": "Animo todavía está en beta, con un aviso de que pueden quedar errores, y se descarga desde la página de lanzamiento. Hace unos días, también presentó el rig de cuerpo completo gratuito para Maya de STUDIOJOIN."
+        }
+      ]
+    },
+    "movies/movies-tamar-ai-s-tapnow-brings": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Liu Haonan y Cao Yihang han estado hilvanando sus historias desde el instituto. Diez años después, los dos construyen casi en solitario un universo de ciencia ficción a escala de 30 años luz, usando herramientas de producción con IA en lugar de un equipo de rodaje."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Key-visual-for-TapNow-AI-Screening-on-VPB.jpg?w=1000&h=667&crop=1",
+          "cap": "Imagen clave de la proyección de IA de TapNow en el Venice Production Bridge"
+        },
+        {
+          "t": "p",
+          "x": "La escala exigía presupuesto, personal e infraestructura, y por eso la autoridad para contar historias a gran escala solía estar en manos de Hollywood. Las herramientas de producción con IA han empezado a sacudir ese esquema, y este año las empresas que las fabrican se reunieron en Venecia."
+        },
+        {
+          "t": "p",
+          "x": "En el centro está Tamar AI, con sede en Palo Alto. La empresa dice que está construyendo infraestructura creativa para la era de la IA combinando herramientas de producción, una plataforma de streaming e incubación de IP. Su producto estrella, TapNow, es un sistema operativo creativo nativo de IA que reúne IA multimodal, agentes y flujos de producción en un solo entorno. Según la empresa, lo usan más de 3 millones de personas al día en 150 países y regiones."
+        },
+        {
+          "t": "p",
+          "x": "Tian Shu, responsable global de soluciones de producto de IA en Alibaba Token Hub, socio tecnológico del proyecto, lo expresa así: “La IA no sustituye a quienes hacen cine. Solo acorta la distancia entre lo que se imagina y lo que se puede ver.”"
+        },
+        {
+          "t": "p",
+          "x": "Sobre esa base se apoya 10,000 Parallel Universes, un programa de incubación para creadores e IP. La primera temporada recibió más de 2.000 propuestas, y el total de premios superó los 500.000 dólares. Los equipos seleccionados recibieron recursos de computación, y en algunos casos también financiación para la producción. Según la empresa, a cambio no se queda con los derechos de autor."
+        },
+        {
+          "t": "p",
+          "x": "「Primordia」, creada por Liu y Cao, es la obra insignia del programa. Transcurre en un grupo de sistemas estelares que ambos llaman Ore, donde estalla una guerra por recursos extraídos de criaturas antiguas. Cao encuentra el atractivo del cine hecho con IA menos en las herramientas que en la escala. “Antes, incluso el rodaje en exteriores de un solo cortometraje necesitaba de 30 a 40 personas. Todos venían a preguntar qué seguía, y el flujo creativo se interrumpía constantemente.” La razón de Liu es más simple. “Al final, era cosa de personas. En la producción tradicional, a veces se dedica más tiempo a la gente y a la administración que al trabajo en sí.”"
+        },
+        {
+          "t": "p",
+          "x": "HappyHorse se encarga de una parte de la infraestructura. Es un modelo de generación de video dentro de Alibaba Token Hub (ATH), el grupo de negocio independiente que Alibaba Group creó en marzo. En lugar de ser una herramienta de acabado final, está pensada para ver y probar ideas desde la etapa de planificación, cubriendo desde la exploración de conceptos hasta la previsualización. Actuó como socio tecnológico en tres de las obras del programa, y las tres llegan a Venecia como ganadoras."
+        },
+        {
+          "t": "p",
+          "x": "Las dos empresas organizan una programación conjunta en el Venice Production Bridge. El panel AI + Cinema: The Next Generation of Storytelling and Creativity se celebra el 4 de septiembre en el Hotel Excelsior, seguido de la proyección de seleccionadas New Voices in AI Cinema el 7 de septiembre en el Palazzo del Casino."
+        },
+        {
+          "t": "p",
+          "x": "Hacia donde se dirige TapNow es Glanze. Cada título empieza como un adelanto llamado Glance antes de crecer hasta convertirse en episodios y temporadas. La versión web se lanzó el 4 de septiembre con más de 40 Glances de series publicados, cinco de los cuales pasan a serialización completa. La app móvil llega a finales de octubre, con más de 30 series en emisión y más de 100 Glances para explorar."
+        }
+      ]
+    },
+    "movies/movies-what-makes-good-rotoscope": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "iIIZBNHNJbs"
+        },
+        {
+          "t": "p",
+          "x": "Corridor Crew dedica 56 segundos a una sola cosa: el rotoscopiado. La pregunta es qué separa un buen roto de uno malo."
+        },
+        {
+          "t": "p",
+          "x": "Quien responde es la supervisora de VFX Marion Spates. Ha sido nominada al Emmy y ha trabajado en Stranger Things, WandaVision, Lost in Space, y la reciente Avatar: The Last Airbender. En el video comparte un consejo que podría cambiar la forma de verlo."
+        },
+        {
+          "t": "p",
+          "x": "También se cuenta que su primer trabajo en VFX fue hacer el rotoscopiado de Matthew McConaughey en Reign of Fire."
+        }
+      ]
+    },
+    "movies/movies-ai-coverage": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4wva-82hHJ0"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge presentó en un nuevo video un flujo de trabajo de IA que extrae nueva cobertura de cámara usando solo grabaciones existentes. El video se titula 「Este flujo de trabajo de IA está dando la vuelta al cine」."
+        },
+        {
+          "t": "p",
+          "x": "Con esta técnica es posible crear a partir de grabaciones existentes incluso ángulos que nunca se capturaron realmente en el set."
+        },
+        {
+          "t": "p",
+          "x": "El flujo de trabajo fue ideado por Christopher Gwinn, y el canal dijo que también publicó en su blog un artículo detallado sobre el proceso."
+        },
+        {
+          "t": "p",
+          "x": "Se presentó como una técnica que puede dar a editores y directores una nueva opción en situaciones donde las nuevas tomas son difíciles o la cobertura es insuficiente."
+        }
+      ]
+    },
+    "movies/movies-crafty-apes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este episodio del fxpodcast se reúne con la CEO de Crafty Apes, Alana Newell, para conocer su trayectoria de artista de composición manual a directiva de estudio, y cómo ha cambiado desde esa posición el criterio para medir el éxito."
+        },
+        {
+          "t": "p",
+          "x": "Como artista, Newell encontraba satisfacción en terminar un plano y ver la imagen acabada. Pero ahora, al dirigir una empresa de unas 400 personas repartidas en ocho oficinas, los momentos de victoria visibles son mucho más escasos."
+        },
+        {
+          "t": "p",
+          "x": "\"Para mí, toda victoria termina siendo una victoria de nuestro equipo\", dice. \"Es un éxito logrado juntos.\" En cambio, cuando ocurre un error, añadió que el peso que siente a nivel personal es distinto, \"ya que este puesto responde por los resultados de toda la empresa\"."
+        },
+        {
+          "t": "p",
+          "x": "La experiencia acumulada en el terreno de producción sigue presente en el liderazgo de Newell. La forma en que fija los precios de los proyectos, calcula el riesgo y se comunica con los artistas proviene toda de esa experiencia. Es también parte de por qué Crafty Apes se ha ganado la reputación de ser una empresa ágil y que aprovecha bien sus recursos, capaz de moverse con libertad entre grandes producciones taquilleras y proyectos pequeños que requieren un trato cuidadoso."
+        },
+        {
+          "t": "p",
+          "x": "Asumir trabajos de distintas escalas al mismo tiempo también es una estrategia de gestión. En lugar de depender de unas pocas producciones grandes, Crafty Apes reparte ampliamente su exposición. Newell dice que un estudio repartido en 50 proyectos puede absorber cambios de calendario de forma mucho más segura que uno que depende de cinco clientes principales."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología también es parte de esta estrategia, aunque la mirada de Newell no se detiene solo en la IA generativa que tanto se comenta hoy en día. Las empresas de VFX ya han acumulado años de datos de producción que cubren calendarios, dificultad de los planos y momentos reales de entrega. En su opinión, el aprendizaje automático puede usar estos datos para mejorar la precisión de las ofertas, la asignación de personal y la selección de proyectos."
+        },
+        {
+          "t": "p",
+          "x": "\"Para el aprendizaje automático, el pipeline de VFX no es un 'error', es una 'función'\", dice ella."
+        },
+        {
+          "t": "p",
+          "x": "Crafty Apes también anima a sus artistas a desarrollar habilidades más amplias. Newell cree que las herramientas que van surgiendo en la industria favorecen a las personas curiosas y adaptables más que a los candidatos que destacan por sus años de experiencia en un área específica. Formar talento internamente también importa, pero considera que el talento y las ideas que llegan de fuera son la fuente clave de estímulo creativo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/sphere-830x542.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El trabajo de 「El mago de Oz」 realizado en Sphere fue un caso de aplicar el conocimiento tradicional de VFX a un formato completamente nuevo. Newell dijo que también ve oportunidades en el entretenimiento inmersivo, las instalaciones interactivas, los museos y las atracciones de parques temáticos, y que de hecho hay un proyecto en marcha con Universal."
+        },
+        {
+          "t": "p",
+          "x": "Para ella, esto no consiste simplemente en sumar un mercado adyacente más. Se acerca más a ampliar la propia definición de en qué puede convertirse Crafty Apes en el futuro. \"Pienso en Crafty no como una empresa de VFX, sino como una productora de contenido\", dice Newell. \"Si necesitas imágenes, nosotros las haremos.\""
+        }
+      ]
+    },
+    "movies/movies-danny-boyle": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El director Danny Boyle ha admitido haber usado IA en su nueva película 「Ink」, que retrata la fundación de The Sun."
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/Ink.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista con Vanity Fair, Boyle dijo que usó IA generativa durante unos 30 segundos de metraje en la nueva película, que inauguró el Festival Internacional de Cine de Venecia. La película fue invitada después también al Festival de Cine de Telluride."
+        },
+        {
+          "t": "p",
+          "x": "\"En la película hay unos 30 segundos en los que se animan dos fotografías antiguas\", dijo en una entrevista en video realizada en Telluride, Colorado. \"Ah, y también hay ratas. La IA es especialmente buena para representar animales, y así es como hicimos las ratas que corren por la redacción de The Sun\", añadió."
+        },
+        {
+          "t": "p",
+          "x": "Algunos espectadores publicaron en redes sociales que se preguntaban si en la película se habían revivido con IA fotos antiguas de los hermanos Kray y de la ex primera ministra británica Margaret Thatcher, y las imágenes del evento de Telluride sugieren que efectivamente fue así."
+        },
+        {
+          "t": "p",
+          "x": "Cuando Vanity Fair le preguntó antes qué opinaba del uso de IA en la película, Boyle respondió lo siguiente: \"¿Qué importa lo que yo piense? Lo que importa es lo que piensan los de veinte años. Esa es la respuesta honesta. Para mí, la IA es una herramienta útil en muchos sentidos, pero con la condición de que se use de forma respetuosa, y si se sustituye a un actor por IA, a ese actor hay que pagarle una compensación justa.\""
+        },
+        {
+          "t": "p",
+          "x": "Antes de eso, Boyle también había expresado su preocupación por el impacto de la IA en el periodismo y otras industrias en la rueda de prensa de 「Ink」 celebrada en Venecia."
+        },
+        {
+          "t": "p",
+          "x": "\"Las grandes tecnológicas y su IA son peligrosas porque podrían sustituir al periodismo mismo. Crearán periodistas de IA más eficientes y más baratos, pero ¿podrá un periodista de IA creado así decirle la verdad al poder que lo creó?\""
+        },
+        {
+          "t": "p",
+          "x": "「Ink」 está protagonizada por Jack O'Connell, Guy Pearce y Claire Foy, y retrata el ascenso del tabloide británico The Sun, de notoria fama, en la década de 1970, bajo el mando del editor Larry Lamb, a quien Rupert Murdoch reclutó del Daily Mirror."
+        },
+        {
+          "t": "p",
+          "x": "Producida por StudioCanal y Netflix, la película se estrenará en cines en diciembre y llegará a Netflix en enero, y ha sido recibida en general con buenas críticas en Venecia, con un 85% en Rotten Tomatoes."
+        }
+      ]
     }
   }
 }

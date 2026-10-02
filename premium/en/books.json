@@ -3980,6 +3980,374 @@
           "x": "The burden can't fall on researchers alone. Publishers, institutions, and platform designers also need to build in memory controls, a separation between stylistic preferences and substantive beliefs, evaluation of long-running personalized interactions, and preservation of sources and evidence. Personalization itself isn't the enemy. A good research partner knows how we work, but doesn't determine which conclusions we reach."
         }
       ]
+    },
+    "books/books-author-solar-sail": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This episode of Joanna Penn's show opens with publishing news, then shifts at 6:50 into the “Perspectives on AI and Writing” segment. The intro covers reviving a backlist and Tim O'Reilly's idea of AI as a medium."
+        },
+        {
+          "t": "video",
+          "yt": "PzQCZNxBKZI"
+        },
+        {
+          "t": "p",
+          "x": "At 19:32, the interview with Tracy Cooper-Posey begins. She has published more than 200 novels and nonfiction books under three pen names. The topic is how to redesign an author business for the publishing environment that actually exists, not the one authors wish for."
+        },
+        {
+          "t": "p",
+          "x": "The core idea is the “solar sail” theory, a standard for picking out which of today's marketing efforts will still be bringing readers to a book in 10 years. The conversation covers how social media and paid ads have a short half-life, what distinguishes an indie author business that lasts, and how to find and reduce the operational friction weighing a business down."
+        },
+        {
+          "t": "p",
+          "x": "Cooper-Posey also shares how, after finishing cancer treatment, she relearned how to write one sentence at a time. She also explains what enshittification is, and why it is the environment's fault, not yours."
+        }
+      ]
+    },
+    "books/books-decoy-font": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/decoy-font.jpg",
+          "cap": "A sentence set in Decoy Font"
+        },
+        {
+          "t": "p",
+          "x": "Can you read the letters above? A large language model cannot."
+        },
+        {
+          "t": "p",
+          "x": "This is Decoy Font, made by the design-and-technology company Mixfont. It is a typeface that claims to hide text from AI crawlers. According to a report from Dezeen, each letter is drawn in two layers: a sharp outline on top and a darker, blurred shape underneath. Humans can read both layers, by squinting or stepping back a bit. AI cannot. This is the second time Mixfont has experimented with AI-blocking type. The earlier piece was Ghost Font, whose letters moved and hid, queasy to look at for long."
+        },
+        {
+          "t": "p",
+          "x": "“Most AI systems work by reading an image's pixels up close,” Mixfont explains. “So when you paste an image like this into an AI model, the LLM focuses on whichever foreground text has the sharpest outline.” It is a clever, low-effort way to break a model's ability to process text."
+        },
+        {
+          "t": "p",
+          "x": "James Polta, who wrote the article, likes the experiment both as a design object and as a creative act of resistance to AI. He is careful to note, though, that Mixfont is no ally of the anti-AI camp. The company describes itself as an “AI-powered digital font foundry,” and most of its tools let users generate synthetic typefaces with AI."
+        },
+        {
+          "t": "p",
+          "x": "Founder Eric Lu told Dezeen that the experiment is part of broader AI work that “tests the limits of what LLMs can easily solve.” “The reaction to this font shows that a lot of people are feeling real AI fatigue,” Lu said. “They want a way to defend themselves against the AI that has entered their lives.”"
+        },
+        {
+          "t": "p",
+          "x": "Decoy Font can be tried directly on Mixfont's website, which also explains how it was made."
+        }
+      ]
+    },
+    "books/books-pangram-trust": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pangram is a 24-person AI startup. Its office sits above a Popeyes in Brooklyn, and it has raised $13 million so far. Almost no one had heard of it until earlier this year. Yet if you take the company at its word, Pangram is the only thing standing between writing and a total takeover by machines."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a96e84e0b666cfc32288113/191:100/w_1280,c_limit/09012026-pangram-still.jpg",
+          "cap": "Photo-illustration: WIRED STAFF; GETTY IMAGES"
+        },
+        {
+          "t": "p",
+          "x": "Pangram scores any piece of writing with an estimated probability of how much AI was involved, a calculation that is, of course, also done by AI. In January, word spread on Reddit and YouTube that author Mia Ballard had used AI to write “Shy Girl,” a self-published novel Hachette had agreed to publish formally. Ballard denied it. Pangram's CEO posted on X that the book was 78 percent AI-generated, and Hachette dropped the publication."
+        },
+        {
+          "t": "p",
+          "x": "Similar accusations followed one after another. The New York Times was criticized over a Modern Love column flagged as AI-written, with a Pangram score of 100 percent. Next came a Commonwealth short story prize winner (100 percent), the novel “Daggermouth” (60 percent), and a thriller that sold for $2.4 million (97 percent). In late July, Substack added Pangram to its platform."
+        },
+        {
+          "t": "p",
+          "x": "Not every writer welcomes this. Jane Friedman, a writer and publishing expert, puts it this way: “There is a lot of resistance and anger directed at AI-detection software. There's a sense that it's seen as being as bad as, or even worse than, the AI companies themselves.”"
+        },
+        {
+          "t": "p",
+          "x": "Co-founder and CEO Max Spero is thirty. In July, the company raised $9 million and released a new model, Pangram 4. Its detection method is called “synthetic mirroring”: human-written text is given to an LLM to rewrite similarly, teaching the model how AI writes. “Our datasets are all properly licensed. That's rare in the AI industry these days.”"
+        },
+        {
+          "t": "p",
+          "x": "The “Shy Girl” case is what put the company on the map. Investigative project Dre Docie pointed out that the manuscript Spero had received came from a piracy site. “Yeah. And, well... that's how it happened. I didn't look closely.”"
+        },
+        {
+          "t": "p",
+          "x": "Criticism focuses on two things: the damage false positives cause, and the bias baked into training. Sam Illingworth, who teaches critical AI literacy at Edinburgh Napier University, says, “I don't think AI detectors work. They're biased against certain people.” Research has also found that writing by non-native English speakers gets flagged as AI at a higher rate."
+        },
+        {
+          "t": "p",
+          "x": "The numbers also conflict. A new Notre Dame working paper found that the Pangram 3.2 model flagged academic abstracts with light AI editing as AI-written 64 to 80 percent of the time. It caught less than 4 percent of AI writing that had been run through a “humanizer.” The company says its new model has a false-positive rate of 0.0041 percent, deliberately designed to lean toward “human” on borderline cases. Even human writing heavily rewritten by AI still comes back as human-written 41.37 percent of the time."
+        },
+        {
+          "t": "p",
+          "x": "When Gotham Ghostwriters surveyed 1,481 working writers last year, 61 percent said they used AI tools and 7 percent said they had published AI-written text. When Stony Brook University's Tuhin Chakrabarty ran 14,419 self-published novels through Pangram, nearly 20 percent came back with high detection scores."
+        },
+        {
+          "t": "p",
+          "x": "Pangram tries to strip all the nuance, variables, and uncertainty out of a piece of writing and hand back a single number. People are far messier than that."
+        }
+      ]
+    },
+    "books/books-wandering-taste": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is a piece novelist Kyla Zhao wrote for Writer's Digest. Not long ago, ahead of the Sun Valley Conference, she was interviewed by Women's Wear Daily. It's an invitation-only gathering where media, tech, and finance power players mingle and make deals in Idaho every summer."
+        },
+        {
+          "t": "img",
+          "src": "https://www.writersdigest.com/uploads/2026/09/the-art-of-wandering-protecting-creative-taste-in-the-age-of-algorithms-by-kyla-zhao.png?auto=webp",
+          "cap": "Kyla Zhao, “The Art of Wandering”"
+        },
+        {
+          "t": "p",
+          "x": "She gave the interview as the author of “Valley Verified,” a novel about a fashion journalist who leaves Manhattan for a Silicon Valley startup. Asked about fashion and tech growing closer, Zhao offered several answers, but there was one she held back: that the two industries don't actually have all that much in common."
+        },
+        {
+          "t": "p",
+          "x": "Fashion rests on personal taste that is irrational and can't be reduced to numbers, which is why a garment that looks ridiculous on a hanger can look wonderful on the right person. Technology sits on the opposite side. AI ingests enormous amounts of existing material, finds patterns, and produces results the masses are likely to like: competent but flat. The odd, interesting wrinkles that make art and creation fun get sanded away in that process."
+        },
+        {
+          "t": "p",
+          "x": "Shein is a case in point: a tech company wearing a fashion company's skin. Where a traditional fashion house points toward what people should wear next with some degree of creative instinct, Shein mines data for what consumers have already responded to and feeds back ultra-fast variations on it. Instead of creating trends, it reverse-engineers them through algorithms and tells us what we should want."
+        },
+        {
+          "t": "p",
+          "x": "Once she noticed that structure at Shein, she saw the same thing in her own life. The algorithm knows her so well that the moment she shows even a flicker of interest in a topic, that topic floods in. She paused on one video featuring a white maxi skirt, and within days every woman in her feed had that skirt."
+        },
+        {
+          "t": "p",
+          "x": "At first it's very convenient. Then “more of what I like” turns into “nothing but what I already like.” The habit of wandering disappears somewhere between days optimized for efficiency and nights spoon-fed by scrolling, even though that objectively inefficient wandering is what has given Zhao her best ideas."
+        },
+        {
+          "t": "p",
+          "x": "A few years ago in Las Vegas, tired of her “must-do” list, she walked through the desert heat with no plan and wandered into the plainly named Mob Museum. Standing in front of a wall of famous gangsters from American history, one thought crossed her mind: where are all the women? Those ten minutes became the seed for “Heirs of Infamy,” a YA novel coming from Penguin Random House this October."
+        },
+        {
+          "t": "p",
+          "x": "Zhao doesn't offer a grand solution. She isn't suggesting you throw your phone into the ocean and live by handwritten letters and carrier pigeons. She just writes that she wants to be a little less predictable to the algorithm: watching an old film without checking Rotten Tomatoes, picking up a magazine she doesn't normally read, walking into a museum without looking up the highlights beforehand."
+        },
+        {
+          "t": "p",
+          "x": "Taste is a muscle. If everything you consume has already been filtered, ranked, optimized, and guaranteed, you never have to use that muscle. Then it becomes easy to confuse what you genuinely like with what you've simply seen so often you recognize it. Zhao writes that she'd like to be someone who is a little harder for an algorithm to reverse-engineer."
+        }
+      ]
+    },
+    "books/books-google-rolls-out-ai-chatbots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "You can now ask AI questions inside e-books bought on Google Play Books. This applies only to books whose publisher and author opted in. Readers can also pull up features like infographics, audio summaries, and quizzes."
+        },
+        {
+          "t": "p",
+          "x": "The feature is called Expert Intelligence. Built on Gemini notebooks, formerly NotebookLM, it lets you ask about a book's content, take a quiz once you've finished reading, and turn key data into an infographic. Answers are either quotes pulled directly from the book or summaries the AI has compiled. It can also build slide decks."
+        },
+        {
+          "t": "p",
+          "x": "What sets it apart from other large language models is where the information comes from. Google works directly with publishers to keep the information given to users tied to that specific book, with nothing mixed in from material scraped for training data."
+        },
+        {
+          "t": "p",
+          "x": "The launch list covers more than 100,000 English-language titles. Most are nonfiction books, with Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan, O'Reilly Media, and Penguin Random House on board. It applies only to books purchased on Google Play Books."
+        },
+        {
+          "t": "p",
+          "x": "Nonfiction writer Steven Johnson built the feature after joining Google Labs in July 2022. He said it could expand from textbooks to academic journals and self-published books over time. Whether it's available abroad depends on region-by-region contract terms. Whether authors must opt in or opt out also depends on their contract with the publisher."
+        },
+        {
+          "t": "p",
+          "x": "Nihar Malaviya, CEO of Penguin Random House, said gating the feature behind a purchase recognizes the book's value while putting a real fence around copyright protection. Mary Rasenberger, head of the Authors Guild, called it a positive step too. Meanwhile, publishers and authors filed suit in July accusing Google of broadly infringing copyright while developing its Gemini models."
+        }
+      ]
+    },
+    "books/books-top-wsj-editor-approves-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://futurism.com/wp-content/uploads/2026/08/wsj-ai-writing-fact-of-life.jpg?quality=85&w=1152",
+          "cap": "STAN HONDA/AFP via Getty Images/Futurism"
+        },
+        {
+          "t": "p",
+          "x": "The Wall Street Journal told its opinion writers it's fine to use AI. It isn't asking for any disclosure either. Coming from a major newspaper, the industry reads it as a turning point."
+        },
+        {
+          "t": "p",
+          "x": "On Monday, Stanley Druckenmiller published 「Let the Bond Market Speak」 in WSJ Opinion. He is the former hedge fund manager who founded Duquesne Capital. The piece took direct aim at Treasury Secretary Scott Bessent's leadership and immediately drew attention because of the two men's personal relationship. But what caught readers' eyes was something else: suspicion that it had been written by AI."
+        },
+        {
+          "t": "p",
+          "x": "Comments featured an analysis from the AI detection tool Pangram, and readers pointed out “it's not X, but Y”-style sentences and so-called Claude-speak scattered throughout. WSJ attached no disclosure at all. Druckenmiller immediately admitted he had used AI. “There's a reason I switched my major from English literature to economics,” he told NOTUS. “I'm not embarrassed. I write everything with AI now, for the same reason you use a calculator to solve a math problem.” He also said he didn't see why his own use of AI was a problem. “My name is on it. It's my message.”"
+        },
+        {
+          "t": "p",
+          "x": "What drew more attention was the newspaper's response. WSJ Opinion editor Paul Gigot told Semafor's Max Tani that AI is a fact of modern life. If an op-ed reflects the writer's genuine opinion, he said, it's fine to run it without disclosure. “People are going to use AI in their work and writing, including for research, grammar checks, and editing. What matters to us is whether the piece we run reflects the writer's original argument, and whether that writer has the standing and credibility to make that argument.”"
+        },
+        {
+          "t": "p",
+          "x": "Other papers went the opposite way. Last week, the Financial Times attached a prominent correction to an op-ed by Harvard professor Ricardo Hausmann. He hadn't disclosed using AI to trim a long draft, a use explicitly banned by the FT's editorial code. In May, the New York Times tightened its guidelines for outside contributors significantly, requiring that all text and images submitted by freelancers be the product of human creativity and craft."
+        },
+        {
+          "t": "p",
+          "x": "Tani called this moment a precedent for the news media. The editor of the country's second-most-important opinion page has approved AI for drafting, with no disclosure required. Some note this isn't the first time a billionaire has used a ghostwriter. But drafting is part of the process of building an argument. And given that opinions on WSJ's pages move markets and shake policy, the question doesn't go away."
+        }
+      ]
+    },
+    "books/books-u-s-department-justice-files": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The US Department of Justice filed a 20-page “statement of interest” with the court, addressed to Judge Sidney Stein, who is handling a closely watched lawsuit. The document states that the United States has a strong interest in continuing to grow a robust, competitive artificial intelligence industry. Restricting large language model development through a misreading of fair use, it argues, would block progress in creativity and science, and set back American prosperity and economic mobility along with it."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/Screen-Shot-2026-09-03-at-11.41.14-PM.png",
+          "cap": "An image featured in a Publishing Perspectives article"
+        },
+        {
+          "t": "p",
+          "x": "The timing matched September 4, the deadline for both sides' summary judgment motions. DOJ's attorneys viewed AI training as highly transformative. Their logic: a ruling that denies fair use would damage competition in the LLM market, since only the biggest tech companies would ultimately have the capital to afford licensing fees."
+        },
+        {
+          "t": "p",
+          "x": "The brief's language runs like this: it is not in the public interest for big tech companies to monopolize LLM training behind licensing barriers to entry, and those barriers function like a massive subsidy to legacy mainstream media. The argument that follows is that, absent a forced narrow reading of copyright law, LLMs could actually level the playing field between mainstream and independent publishers."
+        },
+        {
+          "t": "p",
+          "x": "In a footnote, the brief took no position on whether a licensing regime is feasible, financially or operationally. Instead, it concluded that mandating paid licenses would put American AI companies at a disadvantage against competitors from countries that don't consistently respect US intellectual property law. It also rejected the argument that indirect competition from AI output could constitute infringement, the same logic at the core of two recent lawsuits publishers filed against Google and Meta."
+        },
+        {
+          "t": "p",
+          "x": "The so-called market dilution theory was advanced by Judge Vince Chhabria in the June 2025 Kadrey v. Meta ruling, warning of a scenario where AI-generated works flood the market. DOJ called this theory seriously flawed, arguing that market harm from future output is irrelevant to the case-by-case fair use analysis the law requires. It also dismissed, in a brief footnote, any reason to defer to Register of Copyrights Shira Perlmutter's interpretation."
+        },
+        {
+          "t": "p",
+          "x": "Fair use advocates read this filing as a watershed moment for US copyright law. Adam Eisgrau of Chamber of Progress told NOTUS he couldn't recall a precedent for the government stating its position on fair use to a court this clearly. James Grimmelmann of Cornell Tech called it a well-constructed brief, written in calm prose and citing the right case law. New York Times spokesperson Graham James countered that the DOJ sided with a handful of trillion-dollar AI companies at the expense of American creators."
+        }
+      ]
+    },
+    "books/books-ai-publishing-scams": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In an interview with Writer's Digest, Victoria Strauss, co-founder of Writer Beware, said she only realized the seriousness of the problem after joining an online writers' group in 1998 and hearing one story after another about fake agents who skim off fees, shoddy editing services, and fraudulent vanity presses."
+        },
+        {
+          "t": "p",
+          "x": "She says the landscape has completely changed. The old types of scams are still around, but new AI-made threats now dominate. \"A reputable literary agent or publisher almost never reaches out to you first,\" Strauss explains. Scammers do the opposite, making unsolicited outreach to large numbers of people their main weapon."
+        },
+        {
+          "t": "p",
+          "x": "Impersonating a well-known author and dangling mentorship as bait is also common. Scammers approach pretending to be a famous writer and then lure victims into fake services, preying on writers' desire for recognition."
+        },
+        {
+          "t": "p",
+          "x": "These days it's harder to spot the deception, since AI can generate sophisticated, tailored flattery emails. These messages typically end with an open-ended question to drag out the conversation, eventually leading to a request for money."
+        },
+        {
+          "t": "p",
+          "x": "A company that claims to be legitimate but only uses a Gmail address and leaves no online trace is also a warning sign. Strauss advises distinguishing between outright scams, predatory but technically legal \"schemes,\" and \"traps\" that start with good intentions but cause harm through poor operation."
+        },
+        {
+          "t": "p",
+          "x": "Before ChatGPT, clumsy grammar was a telltale sign of a scam email, but now AI produces smooth, natural sentences, and even the email lists are compiled by scraping the web with AI. Strauss urges people not to feel ashamed about being fooled and to report it first, citing a Philippines-based publishing scam ring that took $48 million from more than 800 victims as an example of the scale involved."
+        }
+      ]
+    },
+    "books/books-anthropic-watermark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Todd Carpenter writes in a Scholarly Kitchen post that, with Article 50(2) of the EU AI Act now in effect, Anthropic has applied a watermarking system to every model it has released since August 2."
+        },
+        {
+          "t": "p",
+          "x": "Text is marked through a complex token-selection algorithm, while non-text content such as images is marked with C2PA-protocol-based provenance information."
+        },
+        {
+          "t": "p",
+          "x": "Carpenter worries that these trust marks can easily be mistaken for absolute proof of content quality — the same way peer review doesn't prove a paper's validity."
+        },
+        {
+          "t": "p",
+          "x": "He points out that Anthropic's watermark is solving the wrong provenance problem. The real question isn't about the AI's output, but about what human content went into producing it. The copyright settlement between Anthropic and Bartz also focused only on compensation, leaving the question of attribution for generated content untouched."
+        },
+        {
+          "t": "p",
+          "x": "The watermark itself is also easy to break. Research presented at the 2024 and 2025 International Conference on Machine Learning showed that the watermarking techniques of the time could be defeated cheaply, and workaround tools like the Grammarly humanizer have since emerged, turning detection and evasion into a game of cat and mouse."
+        },
+        {
+          "t": "p",
+          "x": "Carpenter also flags the potential for misuse as a surveillance tool. Citing the 2017 case of NSA contractor Reality Winner, who was caught because of tracking dots hidden in a leaked document, he warns that if watermark strings are stored, they could someday be used to trace a specific user."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/AdobeStock_1986121828-scaled.jpeg",
+          "cap": "A dial from the 'Bombe' machine used to decrypt German Enigma codes during World War II."
+        }
+      ]
+    },
+    "books/books-oreilly-ai-writing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In a piece posted to O'Reilly Radar, Tim O'Reilly argues that AI should be seen as a medium, much like paint, photography or music, through which humans draw out insight and beauty."
+        },
+        {
+          "t": "p",
+          "x": "He cites, as an example, an essay he wrote last year based on his conversations with Claude, 'Why AI Needs Us.' In the afterword, he reveals, 'I am the author of this piece, but Claude wrote every sentence,' explaining that what he asked and how he asked it was his own contribution."
+        },
+        {
+          "t": "p",
+          "x": "O'Reilly notes that when photography emerged, people lamented that 'painting is dead,' yet painting didn't disappear — instead, a new art form, photography, was born. He believes writing with AI is, likewise, still at the stage of silent film."
+        },
+        {
+          "t": "p",
+          "x": "Responding to Ted Chiang's essay 'Why A.I. Isn't Going to Make Art,' which argues that art is the accumulation of thousands of choices and therefore can't come from a short prompt, O'Reilly counters that a lifetime of reading and thought can be compressed into a single prompt."
+        },
+        {
+          "t": "p",
+          "x": "He also describes his own writing process. When cleaning up meeting transcripts, he uses ChatGPT's drafts almost as-is, but for pieces he writes himself, like this essay, he dumps out disorganized thoughts, has Claude organize them, and then revises the result again and again."
+        },
+        {
+          "t": "p",
+          "x": "O'Reilly compares writing with AI to pedaling an e-bike: the speed you get scales with the effort you put in. He predicts writers who master this tool will soon emerge, and says people shouldn't be too quick to stop those who are testing the limits of AI-assisted writing today."
+        },
+        {
+          "t": "img",
+          "src": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/08/image-1-1600x1205.jpeg",
+          "cap": "An exhibit at the Museo del Duomo di Milano showing how a pen-and-ink study becomes a plaster cast and then a finished marble sculpture."
+        }
+      ]
+    },
+    "books/books-scholarly-ai-licensing-trends": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Laura Harvey and Chris Reed write in a Scholarly Kitchen post that they tracked developments outside scholarly publishing over the past year, and that this outside view matters more than ever now that scholarly publishing is going through its second digital transition."
+        },
+        {
+          "t": "p",
+          "x": "First, business models are evolving. News Corp signed a licensing deal with Meta in early 2026, and Le Monde signed one with them at the end of the previous year; Bloomberg has grown beyond terminal subscriptions into an enterprise data business worth $2 billion to $3 billion a year. Content companies that lead with trust — Thomson Reuters' CoCounsel, Salesforce's collaboration with Claude, Moody's launch of AI skills — are turning that trust into products embedded directly in workflows."
+        },
+        {
+          "t": "p",
+          "x": "Second, discovery is being disrupted. In Wiley's 2025 survey, 84% of researchers said they use AI in their work, and 62% said they use it for research- and publishing-related tasks. Consensus has grown to 2.5 million monthly users since launching at the end of 2022, and is aiming to become 'the operating system for researchers.'"
+        },
+        {
+          "t": "p",
+          "x": "Third, differentiation and community. The Economist has pushed a '3D strategy' of differentiation, direct relationships and discoverability, while Wired made its journalists the product itself, opening a forum exclusive to subscribers. The authors note that scholarly publishing's expert authors and editorial boards could occupy a position similar to Wired's journalists."
+        },
+        {
+          "t": "p",
+          "x": "Fourth, trust. Controversies over AI authorship — like the Shannon Girl case or the Granta literary prize controversy — were the biggest trust issue in publishing over the past year. The authors note these incidents exposed gaps in quality-control systems, and predict scholarly publishing will increasingly face similar research-integrity controversies."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-2170742583.jpg",
+          "cap": "An image showing a single yellow arrow providing direction amid black arrows pointing every which way."
+        }
+      ]
     }
   }
 }

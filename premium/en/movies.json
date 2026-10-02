@@ -4391,6 +4391,473 @@
           "yt": "ca76F7Jo84k"
         }
       ]
+    },
+    "movies/movies-avid-mc-2026-8": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Avid Media Composer 2026.8 is out. The biggest change this time is third-party storage support. It's a big enough shift that Avid put out a separate document for it, and it's tied to the $99 upgrade fee for Media Composer Ultimate users moving to Enterprise."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Avid-Media-Composer-ekSB8kXc-000127.jpg",
+          "cap": "Media Composer 2026.8 interface"
+        },
+        {
+          "t": "p",
+          "x": "Media Composer now officially supports shared projects on third-party shared storage, including NAS and SAN—but only with a Media Composer Enterprise license. Multiple editors can share bins on the same project and use media on shared storage together. Bin locking shows a green lock when available, a red lock when another editor has it open, and opens read-only in that case."
+        },
+        {
+          "t": "p",
+          "x": "Edit rooms running Ultimate that have been solving bin-locking with tools like MimicPro now have a choice: stay on their current version and keep doing what they're doing, or move to 2026.8 and take on an Enterprise license. Avid says customers who don't upgrade don't need to do anything."
+        },
+        {
+          "t": "p",
+          "x": "For anyone cutting interviews or panel talks, the interesting addition is PhraseFind Multicam Auto Cut. You transcribe the multicam clip first, assign a camera angle to each speaker in the transcript tool, load the group clip into a sequence, and hit Auto Cut. Media Composer analyzes the transcript and automatically cuts to whoever is speaking. You refine the result with settings like timing offset and minimum speech length."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Avid-Media-Composer-50b3TiHg-000139-Auto-Cut.jpg",
+          "cap": "A first line cut built by Auto Cut"
+        },
+        {
+          "t": "p",
+          "x": "The author notes that Avid isn't marketing this as an AI tool. It uses the built-in transcription feature, but the rest is closer to mechanical processing. It can't see a silent person's expression or a good reaction shot, so the idea is to let it handle the first line cut and have an editor go in and refine it."
+        },
+        {
+          "t": "p",
+          "x": "The transcript tool now has version control. The AI's original transcript stays available, so you can revert the whole thing or just a section at any time. There's also a feature to split a segment in two, an option to merge consecutive segments from the same speaker into one paragraph, and an option to break paragraphs at a default 30-second interval."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Avid-transcript-CleanShot-YNm3Yekb-000140.jpg",
+          "cap": "The transcript tool, now with version control"
+        },
+        {
+          "t": "p",
+          "x": "Beyond that, you can now pick the audio track straight from the original master clip when working with subclips and group clips, with gain and volume adjustment included. The column selection window got a search field. In Titler+, keyframes hold up more reliably when you trim, cut, or duplicate clips. The free Media Composer First also grew, with its video/audio track count limits and SD/HD resolution cap removed."
+        }
+      ]
+    },
+    "movies/movies-gwm-worlds2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "pmjyB-lc4KQ"
+        },
+        {
+          "t": "p",
+          "x": "Runway has released GWM Worlds 2. Instead of a model that spits out finished clips, it's a model that runs, in real time, a world you can step into and move around. 720p video at 24fps and 48,000Hz audio stream without interruption."
+        },
+        {
+          "t": "p",
+          "x": "You first set the environment, characters, visual style, physics, and mood. Once inside, you direct it with text. You can speak to a specific character or to the whole scene—tell someone to swing a sword, have a room fill with water, or bring in a sandstorm. The camera keeps moving independently of all that."
+        },
+        {
+          "t": "p",
+          "x": "Runway organized this input into a format it calls WorldPrompt, split into two layers: what persists and what changes over time. The front layer holds the Genesis Prompt and first frame, covering scene description, characters, and rules like gravity or collision. The back layer holds actions with start and end timestamps plus frame-level camera input. Actions can overlap, and dialogue counts as one type of action."
+        },
+        {
+          "t": "p",
+          "x": "A major point is that there's no fixed length. The world doesn't follow a script; it continues from wherever new input arrives. You can walk in first person, then cut to third person, and when characters talk to each other, lip shapes and tone of voice come along with it. You can also feed in existing footage and keep playing from where it leaves off."
+        },
+        {
+          "t": "p",
+          "x": "Runway sees this model as a foundation for interactive entertainment, virtual characters, and robotics and embodied-agent simulation. Also released alongside it were experiments where an agent was given a character and castle lighting to handle at once, and where it was tasked with navigating between a red flag and a blue flag."
+        }
+      ]
+    },
+    "movies/movies-hope-mocap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/09/Vikander-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Director Na Hong-jin's Hope combines sci-fi and action. It's set in a fictional port town near Korea's DMZ. After an unidentified alien life-form is discovered, police, hunters, and residents struggle to survive a growing threat. Alicia Vikander and Michael Fassbender play the aliens J'aur and Ma'veyyo, performing them through motion capture."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/09/BTS-VFX.jpg?resize=1170%2C658&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "The film is packed with large-scale action, from police car chases and shootouts to alien creatures tearing through the town and forest. There's even a character who charges in on horseback. Visual effects were key to sculpting the creatures and placing them in scenes, but the crew also held onto the sense that the action was physically grounded—which is why the camera keeps shaking."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/09/HOPE_STILL_7.jpeg?resize=1170%2C490&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Each alien creature looks different from the next. From tentacled forms to ones closer to human shape, most carry the wounds from crash-landing on Earth. Director Na said, 'They all came from different planets, and when they meet in the film, they're bound together as a single front.' That's also why the creature that appears first is left almost formless. Early designs leaned toward realism before the team changed course, moving away from the American creature-design mold toward Asian lines and shapes."
+        },
+        {
+          "t": "p",
+          "x": "Ma'veyyo, the leader played by Fassbender, normally stands on two legs but shifts into a four-legged beast when chasing humans. It drew a little inspiration from Ridley Scott's Alien, and was designed as a biological transformation rather than a mechanical one. Most scenes featuring the alien creatures were shot with stunt doubles and dummies, with the lead actors' performances added later on a motion capture stage in post-production."
+        },
+        {
+          "t": "video",
+          "yt": "g6DviOKNe6c"
+        },
+        {
+          "t": "p",
+          "x": "The action was planned in advance through storyboards and previs. The key challenge was keeping the camera close to the actors. Drones, cranes, and cable cams were all used, and XM2 supplied an electric bike fitted with a camera arm, a remote-controlled slider, and a wireless camera vehicle named 'Charlie.' About a dozen horses and vehicles stood ready at a time. Director Na said, 'The lens was only about a foot from the horses' hooves,' adding that it wouldn't have been possible without the stunt team's trust. Because filming happened on location rather than in a controlled studio, practical effects like explosions went off in real time during shooting."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/09/Fassbender.jpg?resize=1170%2C658&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "On the motion capture set, the actors wore body suits along with head-mounted cameras (HMC) for their faces. The team used previs to block out movement, and director Na said watching both actors memorize even nonsensical lines word-for-word made him feel their professionalism. Facial performances captured by the HMC were transferred directly onto the digital creatures. Visual effects were led by Westworld, and the hardest part was scale. The gigantic bodies moving at such absurd speed made motion blur stand out, and the team held onto that problem until they got it right."
+        }
+      ]
+    },
+    "movies/movies-seedance-facegrid": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "7AVUM6AR1W8"
+        },
+        {
+          "t": "p",
+          "x": "If you use AI video tools, you'll eventually hit this message: it can't generate the clip because a real person is in it. The same block shows up even on film or ad work done with proper permission. Curious Refuge tested a workaround that's been going around, using it directly on Seedance 2.5."
+        },
+        {
+          "t": "p",
+          "x": "The method is simple. Before uploading a character reference, you draw a grid over the face to lightly obscure it—just enough to get past the filter while keeping as much identifying information as possible. Both figures got this treatment before moving on to video generation."
+        },
+        {
+          "t": "p",
+          "x": "There were three tests: a scene with both figures together, a more complex scene with an added location reference, and a cafe scene where the two trade dialogue. Each time, the result was placed side by side with one made from the original, unobscured reference."
+        },
+        {
+          "t": "p",
+          "x": "It works. But there's a cost. The grid-obscured reference held onto about 80 to 85 percent of the likeness to the original person, and the unobscured reference always produced a more accurate likeness. The loss shows up most in close-ups, dialogue-heavy scenes, or any job where an actor needs to look the same across multiple shots."
+        },
+        {
+          "t": "p",
+          "x": "If precise character consistency matters, this isn't the first option. But it's a card worth playing when you have permission and the platform keeps rejecting the reference anyway, when the character has distinctive clothing or appearance, or when you just need to get past the block temporarily."
+        }
+      ]
+    },
+    "movies/movies-showcraft-public": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nuah Studios has opened its AI production platform, Showcraft, to the public. The San Francisco company built the platform to take a starting point—whether that's a script, a shot list, or a single concept image—and carry it through storyboards, animatics, animation, and final editing in one environment. Several AI image and video models run together inside it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1081221-rainbowhollowfuneral1-1280.jpg?itok=Tn_oPVHN",
+          "cap": "Noah Wagner's stop-motion-style adult dark comedy “Rainbow Hollow.” Image courtesy of Nuah Studios"
+        },
+        {
+          "t": "p",
+          "x": "What matters is that this isn't a demo. Nuah's first original series—Noah Wagner's stop-motion-style adult dark comedy “Rainbow Hollow”—was made on Showcraft. So was “Astro Burn,” a vertical animated micro-series by HaZ Dulu adapting his own retro pixel-art game."
+        },
+        {
+          "t": "p",
+          "x": "The user base is growing too. Emmy-winning producer and Bento Box Entertainment co-founder Joel Kuwahara uses it, and writer-director Jerrica Cleland, a former Pixar cinematographer, attached it to her new feature. That feature is being produced by Oscar-nominated animation studio Nøerlum Entertainment, with Nikolaj Coster-Waldau and his production company Ill Kippers as executive producers."
+        },
+        {
+          "t": "p",
+          "x": "Cleland said, “Combining Showcraft with traditional animation through an artist-led, human-centered approach opens up new creative possibilities while cutting production costs in half. It makes independent films like mine possible.”"
+        },
+        {
+          "t": "p",
+          "x": "On the feature side, it supports ACES color management and HDR/SDR output. The company said local real-time 4K upscaling is in the works."
+        },
+        {
+          "t": "p",
+          "x": "CEO Silvio Druin explained it this way: “AI can make one shot. The hard problem is turning thousands of shots into a coherent production. Showcraft brings the structure and control of a professional production environment into AI, letting filmmakers focus on story and direction instead of managing a fragmented workflow.”"
+        },
+        {
+          "t": "p",
+          "x": "Pricing is a one-time credit bundle, not a subscription. Generation costs are shown before a render is triggered, and purchased credits stay valid for six months. Subscriptions and add-on tiers launch on October 6, and credits bought during the early access period carry over under those expiration terms."
+        }
+      ]
+    },
+    "movies/movies-introducing-solaris-our-first-interface": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "c2yCePPnrSA"
+        },
+        {
+          "t": "p",
+          "x": "Runway unveiled Solaris, the first model in a new line the company calls an Interface World Model. The question behind it is simple: what happens if the operating system generates apps and websites while you're using them?"
+        },
+        {
+          "t": "p",
+          "x": "Solaris doesn't turn an interface into code and then run it. It generates the screen itself frame by frame, in real time. When you touch it, the next frame is synthesized to match that action. Because the screen keeps rendering, reflections shift with the lighting and objects respond however they're touched. Unlike software that only accepts prebuilt actions, it can take in completely different behaviors within the same scene."
+        },
+        {
+          "t": "p",
+          "x": "Here's how it works. Inputs like clicks and drags become the conditioning for the next frame, so the relationship between action and screen is learned rather than programmed separately. Video diffusion models are too slow for interactive use, so Runway went through a three-step process: teaching autoregressive frame generation, distilling denoising down to a few steps, and then retraining on its own outputs. A language model interprets what to do, and Solaris renders how that looks and responds."
+        },
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/assets/solaris-eval-reconstruction-strip-1.webp",
+          "cap": "Reconstruction fidelity test results"
+        },
+        {
+          "t": "p",
+          "x": "The evaluation ran two ways. In the reconstruction fidelity test, multimodal language models like Claude Fable 5, GPT-4o, and Gemini 2.5 Pro were given website screenshots and asked to rebuild the interface, and content preservation was measured using SSIM and DINOv3 features. Performance dropped as screens got more complex, and despite recent years of progress, every language model lost information during reconstruction."
+        },
+        {
+          "t": "p",
+          "x": "In the user study, 250 people compared Solaris against the latest language model, Claude Opus 5, across 30 interaction scenarios, producing nearly 7,500 pairwise judgments. For following instructions, Solaris scored 61% versus 24% for the code-built interface. For natural-feeling behavior, the gap widened to 71% versus 21%."
+        },
+        {
+          "t": "p",
+          "x": "The limitations were listed too. Rendering readable text reliably is one of the hardest problems in video generation, yet interfaces depend heavily on text. As an alternative, Runway points to a hybrid approach that splits text-heavy screens off to image models while interaction stays with video models. Factual accuracy is handled by anchoring to a first frame built from real product images and reference material. Maintaining consistency over long interactions and integrating with assistive technology like screen readers are still open problems."
+        },
+        {
+          "t": "p",
+          "x": "No release date or pricing has been announced. Runway is preparing a full launch with major partners, and early access is being taken through an application form."
+        }
+      ]
+    },
+    "movies/movies-one-new-categories-at-ves": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Visual Effects Society (VES) announced new categories and rule changes for the VES Awards. The 25th ceremony will be held on February 17, 2027, at the Beverly Hilton in Los Angeles."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2025/01/53546041416_ea0b102178_o.jpg?fit=1280%2C853&ssl=1",
+          "cap": "VES Awards"
+        },
+        {
+          "t": "p",
+          "x": "One of the new categories is Outstanding In-Camera Effects in a Photoreal Project. It renames and broadens the existing Outstanding Special (Practical) Effects in a Photoreal Project. It covers results achieved through physical, optical, and mechanical techniques and captured in camera, spanning pyrotechnics, miniatures, and animatronics through special makeup and forced-perspective sets. VES wrote that this expansion honors the fact that work made in the real world remains the foundation of visual effects storytelling."
+        },
+        {
+          "t": "p",
+          "x": "Another new category is Outstanding Visual Effects in a Short Project. Open to live-action and animation alike for works 45 minutes or under, it accepts short narrative films, short documentaries, music videos, social-media-native content, and experimental films. It also creates a place for artists working outside theatrical and episodic projects."
+        },
+        {
+          "t": "p",
+          "x": "VES also began splitting animation and live action apart. What was once a single Outstanding CG Cinematography category is now divided into separate live-action and animation categories. The animation category's name changes from Animated Feature to Animated Project, bringing episodic work under its umbrella. The simulation-focused category has been renamed Procedural Effects."
+        },
+        {
+          "t": "p",
+          "x": "Here's the timeline. Submissions open on September 15, 2026, and close on October 31. The members-only global nomination event is set for January 16, 2027, with finalists announced on January 19. Online viewing and voting run from January 25 through February 7."
+        }
+      ]
+    },
+    "movies/movies-over-500-free-maya-animation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "If you animate in Maya, you've probably used one of Ehsan Bayat's free tools at some point: Twosify, Pickify, Vectorify, and most recently Animo. He builds them around his own workflow to cut out repetitive work, and he releases every one of them for free. New tools keep coming out too."
+        },
+        {
+          "t": "video",
+          "yt": "0llgDIuS2Jg"
+        },
+        {
+          "t": "p",
+          "x": "This version lets you load references directly inside Maya, accepting every video format along with GIFs and images. Six more animation sliders were added as well. The biggest change is the new tool editor: it surfaces more than 500 tools on a single screen, lets you assign hotkeys or pin them straight to the shelf, and even lets you register your own animation tools."
+        },
+        {
+          "t": "p",
+          "x": "On top of that come bug fixes and performance improvements, plus a pass at cleaning up the UI flow."
+        },
+        {
+          "t": "p",
+          "x": "Here's what's packed into Animo: selection sets, pose and animation mirroring, animation sliders, a graph editor toolbar, a fast arc tracker and a camera-space arc tracker, left-right key nudging, temporary pivots, space switching and attribute space switching, global offset, Xform, a Spider-Verse style animation tool, animation repathing, copying animation and poses between scenes, quick object export and import, fast baking, translate/rotate/scale reset, an animation layer tool, and a multi-camera playblaster."
+        },
+        {
+          "t": "p",
+          "x": "Animo is still in beta, with a notice that bugs may remain, and it's available to download from the release page. A few days ago, he also introduced STUDIOJOIN's free full-body Maya rig."
+        }
+      ]
+    },
+    "movies/movies-tamar-ai-s-tapnow-brings": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Liu Haonan and Cao Yihang have been stitching together each other's stories since high school. Ten years on, the two of them build a 30-light-year-scale sci-fi universe almost entirely by themselves, using AI production tools instead of a camera crew."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Key-visual-for-TapNow-AI-Screening-on-VPB.jpg?w=1000&h=667&crop=1",
+          "cap": "Key visual for the TapNow AI screening at the Venice Production Bridge"
+        },
+        {
+          "t": "p",
+          "x": "Scale used to require budget, people, and infrastructure, which is largely why the authority to tell big stories sat with Hollywood. AI production tools have begun to shake up that arrangement, and this year the companies building those tools gathered in Venice."
+        },
+        {
+          "t": "p",
+          "x": "At the center of it is Palo Alto-based Tamar AI. The company says it's building creative infrastructure for the AI era by combining production tools, a streaming platform, and IP incubation. Its flagship product, TapNow, is an AI-native creative operating system that packs multimodal AI, agents, and production workflows into a single environment. According to the company, it's used by more than 3 million people a day across 150 countries and regions."
+        },
+        {
+          "t": "p",
+          "x": "Tian Shu, head of global AI product solutions at technology partner Alibaba Token Hub, put it this way: “AI doesn't replace the people who make films. It just narrows the distance between what you imagine and what you can see.”"
+        },
+        {
+          "t": "p",
+          "x": "Sitting on top of that is 10,000 Parallel Universes, a creator and IP incubation program. The first season drew more than 2,000 submissions, with prize money topping $500,000. Selected teams received computing resources, and in some cases production funding as well. The company says it didn't take copyright in return."
+        },
+        {
+          "t": "p",
+          "x": "Liu and Cao's「Primordia」is the program's flagship title. It's set among a cluster of star systems the pair call Ore, where a war breaks out over resources mined from ancient creatures. Cao sees the appeal of AI filmmaking less in the tools than in the scale. “In the past, even one location shoot for a short film needed 30 to 40 people. They'd all come ask what's next, and the creative flow kept getting interrupted.” Liu's reason is simpler. “In the end, it came down to people. In traditional production, you sometimes spend more time on people and admin than on the work itself.”"
+        },
+        {
+          "t": "p",
+          "x": "HappyHorse handles the infrastructure side. It's a video generation model inside Alibaba Token Hub (ATH), the independent business group Alibaba Group set up in March. Rather than a finishing tool, it's built to let people preview and test ideas early, during the planning stage, and it covers everything from concept exploration to previsualization. It served as technology partner on three of the program's entries, and all three are heading to Venice as award winners."
+        },
+        {
+          "t": "p",
+          "x": "The two companies are co-hosting programming at the Venice Production Bridge. The panel AI + Cinema: The Next Generation of Storytelling and Creativity runs on September 4 at the Hotel Excelsior, followed by the selections screening New Voices in AI Cinema on September 7 at the Palazzo del Casino."
+        },
+        {
+          "t": "p",
+          "x": "Where TapNow is heading is Glanze. Every title starts as a preview called a Glance before growing into episodes and seasons. The web version launched on September 4 with more than 40 series Glances posted, five of which are moving into full serialization. The mobile app arrives in late October, carrying more than 30 serialized shows and more than 100 Glances to browse."
+        }
+      ]
+    },
+    "movies/movies-what-makes-good-rotoscope": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "iIIZBNHNJbs"
+        },
+        {
+          "t": "p",
+          "x": "Corridor Crew spends 56 seconds on just one thing: rotoscoping. The question is what separates good roto from bad roto."
+        },
+        {
+          "t": "p",
+          "x": "Answering it is VFX supervisor Marion Spates. She's been Emmy-nominated and has worked on Stranger Things, WandaVision, Lost in Space, and the recent Avatar: The Last Airbender. In the video, she shares one tip that could change how you think about it."
+        },
+        {
+          "t": "p",
+          "x": "There's also the story of her first VFX job: rotoscoping Matthew McConaughey in Reign of Fire."
+        }
+      ]
+    },
+    "movies/movies-ai-coverage": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4wva-82hHJ0"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge unveiled an AI workflow in a new video that extracts new camera coverage using only existing footage. The video is titled 「This AI Workflow Is Flipping Filmmaking Upside Down.」"
+        },
+        {
+          "t": "p",
+          "x": "Using this technique, it is possible to newly create angles from existing footage that were never actually captured on set."
+        },
+        {
+          "t": "p",
+          "x": "The workflow was devised by Christopher Gwinn, and the channel said it also posted a detailed write-up of the process on its blog."
+        },
+        {
+          "t": "p",
+          "x": "It was introduced as a technique that could give editors and directors a new option in situations where reshoots are difficult or coverage is lacking."
+        }
+      ]
+    },
+    "movies/movies-crafty-apes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This episode of the fxpodcast meets Crafty Apes CEO Alana Newell to hear about her journey from hands-on compositing artist to studio executive, and how her yardstick for success has changed in that seat."
+        },
+        {
+          "t": "p",
+          "x": "As an artist, Newell found satisfaction in finishing a shot and seeing the completed frame. But now, leading a company of about 400 people across eight offices, visible moments of victory are far rarer."
+        },
+        {
+          "t": "p",
+          "x": "\"For me, every win ultimately belongs to our team,\" she says. \"It's a success we achieved together.\" Conversely, when a mistake happens, she added that the personal weight she feels is different, \"since this seat is responsible for the whole company's results.\""
+        },
+        {
+          "t": "p",
+          "x": "The experience she built on production floors still carries directly into Newell's leadership today. How she prices project bids, gauges risk, and communicates with artists all comes from that experience. It is also part of why Crafty Apes has earned a reputation as a nimble, resourceful company that moves freely between big tentpole films and smaller projects that need a careful hand."
+        },
+        {
+          "t": "p",
+          "x": "Taking on work of different scales at the same time is also a kind of management strategy. Rather than relying on a handful of big titles, Crafty Apes spreads its exposure widely. Newell says a studio spread across 50 projects can absorb schedule changes far more safely than a studio dependent on five major clients."
+        },
+        {
+          "t": "p",
+          "x": "Technology is also part of this strategy, though Newell's focus doesn't stop at the generative AI that's getting all the attention these days. VFX companies have already accumulated years of production data covering schedules, shot difficulty, and actual delivery timing. Her view is that machine learning can use this data to sharpen the accuracy of bidding, staffing, and project selection."
+        },
+        {
+          "t": "p",
+          "x": "\"For machine learning, the VFX pipeline isn't a 'bug,' it's a 'feature,'\" she says."
+        },
+        {
+          "t": "p",
+          "x": "Crafty Apes also encourages its artists to build broader skill sets. Newell believes the newly emerging tools in the industry favor people who are curious and adaptable over applicants who lean on years of experience in one specific area. Growing talent in-house matters too, but she considers outside talent and ideas the key source of creative stimulation."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/sphere-830x542.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The 「The Wizard of Oz」 work done at Sphere was a case of applying traditional VFX know-how to an entirely new format. Newell said she also sees opportunities in immersive entertainment, interactive installations, museums, and theme park attractions, and that there is in fact an ongoing project with Universal."
+        },
+        {
+          "t": "p",
+          "x": "To her, this isn't simply about adding one more adjacent market. It's closer to expanding the very definition of what Crafty Apes can become. \"I think of Crafty not as a VFX company but as a content production company,\" Newell says. \"If you need footage, we'll make it for you.\""
+        }
+      ]
+    },
+    "movies/movies-danny-boyle": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Director Danny Boyle has admitted to using AI in his new film 「Ink,」 which depicts the founding of The Sun."
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/Ink.png?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "In an interview with Vanity Fair, Boyle said he used generative AI for about 30 seconds of footage in the new film, which opened the Venice International Film Festival. The film was subsequently invited to the Telluride Film Festival as well."
+        },
+        {
+          "t": "p",
+          "x": "\"There's about 30 seconds in the film where two old photographs are animated into motion,\" he said in a video interview conducted in Telluride, Colorado. \"Oh, and there are also rats. AI is particularly strong at rendering animals, and that's how we made the rats running through The Sun's newsroom,\" he added."
+        },
+        {
+          "t": "p",
+          "x": "Some viewers posted on social media wondering whether old photos of the Kray brothers and former British Prime Minister Margaret Thatcher had been revived with AI in the film, and footage from the Telluride event suggests that was indeed the case."
+        },
+        {
+          "t": "p",
+          "x": "When Vanity Fair earlier asked how he felt about the film's use of AI, Boyle answered as follows: \"What does my opinion matter? What matters is what 20-year-olds think. That's the honest answer. For me, AI is a useful tool in many ways. But that comes with the condition that it's used in a respectful way, and if an actor is replaced with AI, that actor has to be fairly compensated.\""
+        },
+        {
+          "t": "p",
+          "x": "Even before that, Boyle had voiced concerns about AI's impact on journalism and other industries at the 「Ink」 press conference held in Venice."
+        },
+        {
+          "t": "p",
+          "x": "\"Big Tech and their AI are dangerous because they could replace journalism itself. They will build more efficient and cheaper AI journalists, but will an AI journalist built that way be able to speak truth to the power that created it?\""
+        },
+        {
+          "t": "p",
+          "x": "「Ink」 stars Jack O'Connell, Guy Pearce, and Claire Foy, and depicts the rise of Britain's notorious tabloid The Sun in the 1970s, under editor Larry Lamb, who was recruited from the Daily Mirror by Rupert Murdoch."
+        },
+        {
+          "t": "p",
+          "x": "Produced by StudioCanal and Netflix, the film is set for a theatrical release in December and a Netflix release in January, and has been largely well received in Venice, currently holding an 85% score on Rotten Tomatoes."
+        }
+      ]
     }
   }
 }

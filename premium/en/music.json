@@ -4517,6 +4517,315 @@
           "x": "$29.99 on the App Store. It may be the best money spent in live visuals right now, especially alongside fun things like Quantum VJ HD from the SunVox developer."
         }
       ]
+    },
+    "music/music-alok-personalised-mv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brazilian DJ and producer Alok teamed up with the agency Rise New York & Partners to run a campaign for his headphone line, WAAW by Alok. Buying the headphones gets you a music video made just for you. The premise was that a human holds the creative key."
+        },
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-01T131828.002.png",
+          "cap": "WAAW by Alok campaign"
+        },
+        {
+          "t": "p",
+          "x": "The starting point was ordinary. An official video set to Alok's track was shot first, with its visual texture drawn from the pop-art style of Brazilian illustrator Rogério Puhl. An engine was layered on top of that."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Omni acts as the brain managing the flow of video, sound design, and text adaptation. The Google Maps API reads the fan's surroundings to work real landmarks into the story, and the Google Weather API matches lighting and weather to that place on that day. Style trends are tracked through YouTube and Trends data, and the actual video clips are produced by Vertex AI and Veo. The rendering pipeline runs on Google Cloud."
+        },
+        {
+          "t": "p",
+          "x": "Fans submit a Beat Profile carrying their tastes and real-time environmental data. In return, they get a video with their own neighborhood's weather and city skyline worked into the background."
+        },
+        {
+          "t": "p",
+          "x": "Control was kept through rules. The team spent weeks testing the engine against five visual rules, discarding 81.4 percent of the draft clips produced along the way. Camera movement, color, and the story's key beats stayed locked, with only designated sections left open."
+        }
+      ]
+    },
+    "music/music-audacity4-release": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Muse Group has released Audacity 4. The company calls it the biggest update in its 25-year history. Clip editing was rebuilt from the ground up, and the interface got reworked too. The ties to audio.com run tighter now. The price is still $0."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Audacity-4-T.jpg",
+          "cap": "Audacity 4"
+        },
+        {
+          "t": "p",
+          "x": "Clips can now overlap. You can select and edit multiple clips at once, or group them to move as one. Everything is non-destructive, so trimmed audio comes back if you stretch the clip out again. How the audio behind a deleted section fills the gap is set through the ripple editing option."
+        },
+        {
+          "t": "p",
+          "x": "The Split tool, long requested by the community, is here. It cuts one track or several at once, right at the playhead. Clip envelopes bring volume automation inside the clip itself, letting you draw fades without touching the original recording. Built-in effects got a visual redesign only; what they do hasn't changed. Real-time effects and VST3, Audio Unit, and LV2 support are still there."
+        },
+        {
+          "t": "p",
+          "x": "A home screen exists for the first time. It shows local projects and cloud projects stored on audio.com in one place, laid out as thumbnails instead of file names so they're easier to scan. Workspaces save a separate screen layout for each kind of task, so switching from podcast editing to music work no longer means resetting the whole app."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-01-1024x565.jpg",
+          "cap": "The redesigned interface"
+        },
+        {
+          "t": "p",
+          "x": "The look changed more than at any point in its history, as Muse Group put it. Toolbars and track controls were rearranged, and the playback and recording meters were swapped out. The playhead stays visible at all times, and panning and zooming feel smoother. Light and dark themes, an accent color picker, and a reworked high-contrast mode come along with it."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-02-1024x565.jpg",
+          "cap": "The cleaned-up toolbar and track controls"
+        },
+        {
+          "t": "p",
+          "x": "Muse Group Chief Product Officer Julia Sazhina said Audacity has helped creators record and edit for more than 25 years, and that version 4 is meant to carry it through the next 25—while leaving what people already loved about it untouched."
+        },
+        {
+          "t": "p",
+          "x": "AI tools stay in place. A bundle of Intel OpenVINO-based plugins handles stem separation, music generation, transcription using Whisper.cpp, and noise suppression. They run on the PC itself without uploading audio to a server. Version 4 remains free and open source, and the official release is available from MuseHub."
+        }
+      ]
+    },
+    "music/music-moises-advisors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Armin van Buuren and Laidback Luke have joined Moises as the first artists in its artist partnership program."
+        },
+        {
+          "t": "img",
+          "src": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Armin%20%2B%20Luke%203.jpg.webp",
+          "cap": "Armin van Buuren and Laidback Luke"
+        },
+        {
+          "t": "p",
+          "x": "Moises positions itself as an alternative to platforms like Suno, claiming it trains its models only on licensed, authorized tracks and files. Ableton, Fender, the Whitney Houston Foundation, Cory Henry, Jordan Rudess, and Berklee Online are already tied to the company, and Charlie Puth joined as Chief Music Officer earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "The two musicians' role is to give feedback on its DJ and production tools. They're also helping refine the studio tool suite, which includes stem separation, isolation, chord recognition, and mastering."
+        },
+        {
+          "t": "p",
+          "x": "Founder and CEO Geraldo Ramos said, “The next generation of creative tools needs to be built with musicians, not for them.” Laidback Luke added that a good tool doesn't work for you instead—it helps you listen better, learn faster, and make sharper calls. Van Buuren set one condition: whether the artist holds the control."
+        },
+        {
+          "t": "p",
+          "x": "The platform, which started in dance music, is broadening its genres. It's now used by roughly 80 million people across 190 countries, with the U.S., Brazil, India, France, and Japan as its biggest markets."
+        },
+        {
+          "t": "p",
+          "x": "The backdrop is messy. By SubmitHub's count, nearly 40 percent of tracks released in July had AI involved somewhere, and a third of the artists categorized that way denied using it. Last month, Beatport banned fully AI-generated tracks outright. After Sony Music took down 135,000 deepfake songs in March, Traxsource, Bandcamp, and Deezer followed similar paths."
+        }
+      ]
+    },
+    "music/music-producely-dialr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Producely Dialr, first shown at Superbooth25, is finally taking orders. It is a plugin controller."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-ft-2.jpg",
+          "cap": "Producely Dialr"
+        },
+        {
+          "t": "p",
+          "x": "It comes from Producely, a startup in Copenhagen, Denmark, founded by Morten Søderquist Li, who worked in music technology."
+        },
+        {
+          "t": "p",
+          "x": "Plugin controllers already exist from SSL and Softube. What sets Dialr apart is automatic mapping. It scans your installed VST3 and AU plugin library and sends the parameter data to Producely's AI cloud, which builds a controller profile for that combination and sends it back. Once received, it works offline."
+        },
+        {
+          "t": "p",
+          "x": "A 7-inch LCD touchscreen shows parameter names and values, and reassigns the layout each time you switch plugins or pages. The knobs sit in two rows of six, in three sizes, so your hand learns their positions. Step encoders on either side of the screen page through plugin sections, fine-tune values, and move between DAW tracks."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-01-1024x565.jpg",
+          "cap": "12 knobs and a 7-inch touchscreen"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-03-1024x565.jpg",
+          "cap": "Rear view"
+        },
+        {
+          "t": "p",
+          "x": "Its range is broad, covering everyday audio processors, soft synths, and control plugins that run WesAudio and Bettermaker hardware. The bet is that you won't have to remap from scratch every time you add a plugin."
+        },
+        {
+          "t": "p",
+          "x": "It is now taking pre-orders, with shipping starting within weeks."
+        }
+      ]
+    },
+    "music/music-suno-studio2-plugins": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "lGvyrEkZ6ZU"
+        },
+        {
+          "t": "p",
+          "x": "This video covers how to build your own audio effects using Studio Chat in Suno Studio 2.0. It is hosted by Henry Fipps."
+        },
+        {
+          "t": "p",
+          "x": "Two things get built: a stereo doubler and a pitch-shifting delay. You type the effect you want into the chat, the AI proposes a build plan first, and once you confirm and save it, it lands in My Plugins."
+        },
+        {
+          "t": "p",
+          "x": "After loading the finished stereo doubler onto a track to check the sound, a new plugin called Crystal Sparkle is built and placed on a drum track. The video closes by noting plugin features coming next."
+        },
+        {
+          "t": "p",
+          "x": "The tool that once wrote your song now also builds the processors that refine it. Suno filmed the 5-minute-55-second walkthrough itself."
+        }
+      ]
+    },
+    "music/music-accentize-chameleon-emmy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Two years after winning an Engineering, Science & Technology Emmy for dxRevive Pro, Accentize has been named again, this time for its reverb-matching plugin Chameleon. The award is given by the Television Academy in Los Angeles and honors engineering, science and technology achievements that have had a major impact on the television industry."
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/accentize_chameleon-rrwNhEr7GV_o8hsYvn_lSKKTeYMAPqW6.jpg",
+          "cap": "Accentize Chameleon reverb-matching plugin"
+        },
+        {
+          "t": "p",
+          "x": "Accentize says Chameleon was built to address a long-standing headache in audio post-production: matching the acoustic character of recordings made in different environments. Newly recorded material such as ADR, dubbing and Foley needs to sit naturally within the production sound, but if the room reverb differs, the result still feels disconnected no matter how well the original was captured."
+        },
+        {
+          "t": "p",
+          "x": "Chameleon analyzes the reverb characteristics of a reference recording and generates a reverb profile to apply to other tracks. Dialogue mixers and others can quickly recreate a location's acoustic color without rebuilding it by hand."
+        },
+        {
+          "t": "p",
+          "x": "Benjamin Graf, founder of Accentize and developer of Chameleon, said: “Winning an Emmy for dxRevive Pro in 2024 was already beyond anything we imagined. Getting this kind of recognition again with Chameleon is truly special. The two products address different problems in dialogue post-production, but they started from the same motivation: using new technology to make difficult, time-consuming audio work easier for professionals. We're deeply grateful to the audio community that helped grow these tools with their feedback and support.”"
+        },
+        {
+          "t": "p",
+          "x": "The award will be presented at the Engineering, Science & Technology Emmy Awards ceremony on Wednesday, October 14, at the Television Academy's Saban Media Center in Los Angeles."
+        }
+      ]
+    },
+    "music/music-dreamtonics-instrument-x": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dreamtonics, the Tokyo company behind the vocal synthesis tools Synthesizer V and Vocoflex, has released Instrument X. It marks the company's move from vocal synthesis into orchestral scoring."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Attack-Mag-News-Feat-Images-INSTRUMENT-X.png?fit=1400%2C479&ssl=1",
+          "cap": "Dreamtonics Instrument X"
+        },
+        {
+          "t": "p",
+          "x": "Rather than relying on a multi-gigabyte sample library, Instrument X turns sheet music directly into sound using neural acoustic modeling. Instead of static loop triggers, composers and producers control bowing, breath and key articulation themselves."
+        },
+        {
+          "t": "p",
+          "x": "The engine runs up to eleven simultaneous microphone feeds, including close mics, a Decca tree and room ambience. To keep the channels aligned, Dreamtonics developed — and has filed a patent for — a method that measures a studio's acoustic geometry using a custom dodecahedral speaker array. A physics-augmented neural network separates the room's directional acoustics from the dry instrument source. It needs no internet connection and no dedicated GPU, running locally on an ordinary laptop."
+        },
+        {
+          "t": "video",
+          "yt": "1MXQKiWQvSY"
+        },
+        {
+          "t": "p",
+          "x": "Key features include an articulation editor that combines automatic Smart Articulation with manual, note-by-note control, letting staccato, legato, col legno and mute be layered on a single note. The dynamics lane automatically draws context-appropriate dynamics while also shifting the instrument's timbre and overtones, with manual override available. AI performance retakes let users regenerate an entire phrase or adjust just the timbre drift, micro pitch curve or motion intensity. Overlapping notes render as fully independent voices, and a mic mixer panel balances spot mics, the Decca tree and the room."
+        },
+        {
+          "t": "p",
+          "x": "The launch lineup spans three collections and fifteen instrument expansions. Strings: Violin 1, Viola 1, Violoncello 1, Contrabass 1. Woodwinds: Flute 1, Piccolo 1, Oboe 1, Clarinet in A 1, Bassoon 1. Brass: Trumpet 1, Trombone 1, Horn 1, Tuba 1. Each instrument comes with five style presets — Adagio, Allegro, con Fuoco, Pop and Ballade — that change the entire emotional color of a performance."
+        },
+        {
+          "t": "p",
+          "x": "Founder and CEO Kanru Hua said the company considered folding the instruments into its existing workspace but ultimately chose a separate platform. “Many users had asked us to bring the instruments into our ecosystem. Rather than overloading a single workspace, we decided to build Instrument X as a standalone platform alongside Synthesizer V and Vocoflex, completing a trilogy.” He added that matching professional composition and production standards was harder than the AI synthesis itself, and that the engine had to be rebuilt from the ground up to reflect the physics of each instrument family — though the workflow remains familiar to existing Synthesizer V users."
+        },
+        {
+          "t": "p",
+          "x": "It is sold through the Dreamtonics Store. The core editor is free with the purchase of any expansion pack. A 14-day editor trial and a 7-day instrument trial can be activated directly from the Product Manager panel. Individual expansion packs cost $99, the Orchestral Strings collection $249, Orchestral Woodwinds $279, Orchestral Brass $249, pick-and-mix packs range from $158 to $396, and the Orchestral Essentials bundle is $349."
+        }
+      ]
+    },
+    "music/music-socan-sues-suno": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SOCAN, the Canadian music rights organization, has sued the AI music platform Suno for copyright infringement. It alleges that the Suno service generates and streams unauthorized copies of songs in SOCAN's repertoire."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-2-socan.jpg",
+          "cap": "SOCAN and Suno"
+        },
+        {
+          "t": "p",
+          "x": "The complaint was filed on September 2 in Canada's Federal Court. According to Music Business Worldwide, it identifies 150 Suno-generated tracks drawn from 137 songs represented by SOCAN. At issue are both the outputs and the streaming of them to Canadian users."
+        },
+        {
+          "t": "p",
+          "x": "The songs named include Avril Lavigne's “Sk8er Boi,” Tom Cochrane's “Life Is a Highway” and Joni Mitchell's “Both Sides Now.” SOCAN also posted comparison material online that lets listeners play the original recordings alongside the Suno tracks it alleges infringe them."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Screenshot-2026-09-03-at-12.01.14---PM.png",
+          "cap": "Screenshot of SOCAN's AI lawsuit page"
+        },
+        {
+          "t": "p",
+          "x": "Andrea Kokonis, SOCAN's Chief Legal Officer and General Counsel, told Billboard Canada that Suno entered Canada in December 2023 without SOCAN's consent, and that subsequent discussions had not resolved the dispute. “We want to make sure that when our members' songs are used, the value flows back to our members.”"
+        },
+        {
+          "t": "p",
+          "x": "SOCAN sought damages and profits arising from the infringement, or alternatively statutory damages of CA$20,000 per song. It also requested CA$10 million in punitive and exemplary damages, along with a court order to prevent further infringement. Neither report carried a response from Suno to the lawsuit."
+        }
+      ]
+    },
+    "music/music-songscription-publishing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The startup Songscription first came into view in July 2025, when TechCrunch covered its 'automatic music transcription' service. The copyright 'gray area' question came up at the same time. That November, the company raised $5 million, and advisor and music-tech veteran Elizabeth Moody publicly said it would sign deals with publishers and take an ethical approach. This month we spoke with CEO Andrew Carlins about how that arrangement works and how AI is used in transcription and arrangement."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-13.49.55.png?fit=780%2C390&ssl=1",
+          "cap": "Songscription's automatic sheet-music transcription screen"
+        },
+        {
+          "t": "p",
+          "x": "At the time of the funding round, users had surpassed 150,000. Carlins says growth has since exceeded 20% a month, and most new users are \"singer-songwriters and creators transcribing their own work into sheet music for the first time.\" Features have kept being added: chord recognition, a feature that simplifies transcriptions \"to match a player's level, including beginners,\" and a text-based notation editor with an AI chat interface. Aligning lyrics with music and generating lead sheets or duet arrangements from transcriptions are still in beta."
+        },
+        {
+          "t": "p",
+          "x": "Deals with indie publishers are also continuing. So far only Spirit Music Group has been announced, but more are expected within weeks. \"Publishers have generally been very supportive,\" Carlins says. \"More than 90% of songs written today remain untranscribed, and even transcribed songs are limited in instrumentation and difficulty level. Publishers understand that Songscription can support artists' and songwriters' creative workflows and expand sheet-music access to players at every level.\""
+        },
+        {
+          "t": "p",
+          "x": "He also said publishers value the fact that Songscription sought out license deals on its own initiative. \"They seem more willing to license to us than to some other AI services.\" \"Choosing to work with the industry early on wasn't a hard decision. If your mission is to empower artists and music learners, you know you have to work alongside the industry.\""
+        },
+        {
+          "t": "p",
+          "x": "The company is also looking beyond its first service. It recently released Anything Piano, a piano-learning app for Apple devices, built on the observation that many Songscription users are \"learning piano or looking for a more structured way to practice.\" \"Anything Piano, in its current form, turns any audio into a simplified piano tutorial with guided fingering, and listens to a user playing piano to give feedback on their performance.\" The company recently renamed itself Play Anything, reflecting a broader mission of helping people learn and play songs they love. Songscription will be grown as a platform for creators and songwriters, while Anything Piano will be grown as a platform for learners and those seeking performance feedback."
+        }
+      ]
     }
   }
 }

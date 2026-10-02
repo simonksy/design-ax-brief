@@ -4427,6 +4427,330 @@
           "x": "Camera Intelligence似乎想让电影创作者们放心：尽管它把生成式AI带到了几乎紧贴拍摄行为的位置，但并不打算取消拍摄本身。正是这个前提，把Caira牢牢留在了摄影这一端。无论AI之后在上面叠加什么，起点始终是站在相机后面、决定拍什么的那个人。"
         }
       ]
+    },
+    "gadgets/gadgets-gemini-spark-google-photos": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gemini Spark可操控的自家应用列表中,新加入了Google相册。谷歌的说法是,这个个人智能体能针对照片库处理“复杂的多步骤任务”。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&w=1600",
+          "cap": "Gemini Spark"
+        },
+        {
+          "t": "p",
+          "x": "它能做的事情是这样的:按主题、地点、日期、事件查找照片和视频,让它挑出拍得好的照片,或者过滤掉重复的。它可以调整画质、做简单修图,也能制作拼贴或带风格效果的图片。编辑结果始终会以新副本的形式保存到Google相册中。"
+        },
+        {
+          "t": "p",
+          "x": "相册方面也是如此。无论是共享相册还是私密相册,它都能新建并放入挑好的照片。生成的相册链接会通过Gmail、Google文档、信息等关联应用发送出去。你还可以把重复性任务预设好,比如每月生成一份精选相册,或者单独收集收据照片,它也能负责从图片中提取文字。"
+        },
+        {
+          "t": "p",
+          "x": "把这项功能和Spark原本的预约、后台整理等功能结合起来,就能实现这样的指令:“每个周末,从美食照片里挑出拍得好的,做成拼贴图,放进一个叫‘这周我的相机吃了什么’的新相册里。”"
+        },
+        {
+          "t": "p",
+          "x": "它还可以把从照片中找到的信息,转交给Gmail或Workspace等其他关联应用。“把我拍的社区夏季音乐会照片,对照我的Google日历安排看看。哪天晚上我能去?”"
+        },
+        {
+          "t": "p",
+          "x": "官方还给出了一次性串联多个动作的示例:从上周夏威夷旅行的照片里挑出15张好看的,把海滩照片修一下,放进名为“Aloha 2026”的共享相册,再写一封带链接的邮件草稿;或者把最近社区聚会的照片和视频整理成“Summer Block Party”相册,再准备一封发给邻里群组的邮件。"
+        },
+        {
+          "t": "p",
+          "x": "安全机制也配套加入。编辑前会先生成副本,新建相册默认是私密的。在分享相册或发送邮件之前,Spark都会先征得同意。"
+        },
+        {
+          "t": "p",
+          "x": "面向美国的Google AI Pro和Ultra订阅用户,将分数周逐步推出。"
+        }
+      ]
+    },
+    "gadgets/gadgets-nvidia-pair-gpu-cluster": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如果你总觉得AI token不够用,家里又有几台插着闲置GPU的电脑,这个消息值得你关注。Nvidia的思路是,把那些闲置的算力周期调动起来使用,从而省下云端token的费用,同时让任务留在家里完成。"
+        },
+        {
+          "t": "p",
+          "x": "这款在IFA 2026上公布的工具名叫Personal AI Router,简称PAIR。主PC上的智能体把任务拆分成子任务后,PAIR会把它们分发给家庭网络中GPU有余量的那些系统。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HQBVzLHUJELwt5GRSyQMC-1920-80.jpg",
+          "cap": "Personal AI Router(PAIR)(图片:Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia是这样解释的:给本地智能体一个目标,中央智能体就会把这个目标拆分成多个子任务。如果这些任务全部挤在同一块GPU上,就会互相抢占资源,导致整体变慢——比起每个子智能体都拥有专属计算节点的情况,要慢上不少。"
+        },
+        {
+          "t": "p",
+          "x": "PAIR做的,是把这些任务分散到家庭网络中去。如果家里闲置GPU足够多,每个参与的系统就分担一个子任务,再把结果传回主节点。这样一来,大型任务就有机会更快完成。"
+        },
+        {
+          "t": "p",
+          "x": "当然,其他电脑并不总是闲着。主人可能在玩游戏、做创作,或者把GPU用在自己的AI任务上。据称,一旦有人把自己的GPU收回去,PAIR能够平滑地应对这种变化。它不会提前预留别人电脑的算力,而是设计成根据当下实际空闲的资源随时伸缩。"
+        },
+        {
+          "t": "p",
+          "x": "由于谁也不知道闲置算力周期什么时候会出现,PAIR集群的质量无法得到保证。但对于那些截止时间不紧的长任务来说,这总比把整整一群智能体都挤在一个节点上要好。"
+        },
+        {
+          "t": "p",
+          "x": "安装过程相对简单。只要搭建一个代理,让LM Studio或Ollama之类的AI前端连接上去,PAIR就会把任务分配给网络中的各个节点,再把结果传回原来的应用。参与的节点也需要各自同时安装Ollama或LM Studio以及PAIR。节点发现依靠mDNS,如果不行就退回到使用IP地址。Nvidia表示,参与的节点不需要都预先加载同一个模型。"
+        },
+        {
+          "t": "p",
+          "x": "运行条件是一台DGX Spark(或其他GB10)设备,或者GeForce RTX 20系列及以上的显卡。用于推理时,也支持M4系列及以后的Mac。客户端提供Windows、macOS和Linux版本。"
+        }
+      ]
+    },
+    "gadgets/gadgets-vision-pro-hip-surgery": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "医疗器械公司史赛克本周宣布，其Apple Vision Pro应用被用于一例具有里程碑意义的手术。头戴设备软件SportSuite Vision被用于杜克健康的髋关节镜手术，这是该软件首次进入真实临床场景。FDA的De Novo批准于7月17日下达。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/intro-1788469479.jpg",
+          "cap": "在手术室中使用的Apple Vision Pro"
+        },
+        {
+          "t": "p",
+          "x": "自苹果推出其混合现实头显以来，这款设备究竟是为谁而生的问题一直悬而未决。初代产品并非面向大众，去年我们试用的性能更强的M5版本也是如此。但Vision Pro似乎始终在指向一个有趣的家庭场景未来，只是在等待合适的落地时机。"
+        },
+        {
+          "t": "p",
+          "x": "复杂手术正是这样的场景。在混合现实中，医护人员可以直接与眼前的患者互动，同时查看数字空间中的资料和工具。在这次首例SportSuite Vision手术中，主刀医生在整个髋关节镜手术过程中，始终将史赛克的骨科手术规划工具、关节镜影像和CT影像置于眼前。"
+        },
+        {
+          "t": "p",
+          "x": "“空间计算让我能按照自己的工作流程摆放关键临床信息，并在无菌区域内直接查看，”在杜克健康用Vision Pro主刀这台手术的骨科医生查德·马瑟三世说。“手术室的布置变得更舒适、更简洁，需要的信息始终留在视野中。”"
+        },
+        {
+          "t": "p",
+          "x": "考虑到头显的价格和软件开发的难度，社区医生在体检时戴着它工作的日子还很遥远。苹果上月被曝大幅缩减Vision Pro团队，这对普及来说也不是好消息。但若论混合现实头显的用途，这类应用正是能让Vision Pro找到自己位置的那一种。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-overlay-bubble": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Android上的Gemini悬浮窗现在多了一个多任务选项。将它最小化后，会留下一个悬浮的气泡状快捷方式。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&w=1600",
+          "cap": "Pixel 11 Pro上的Gemini悬浮窗"
+        },
+        {
+          "t": "p",
+          "x": "悬浮窗顶部新增了一个“最小化”按钮。刚输入提示词时，它位于中间；得到回答后，会移动到胶囊状容器的右侧。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-overlay-Minimize-bubble-1a.jpg?ssl=1",
+          "cap": "输入提示词后出现的最小化按钮"
+        },
+        {
+          "t": "p",
+          "x": "点击后，悬浮窗会收缩成带有闪光图标的气泡。Google的说明是这样的：“即使在多任务处理时也能使用Gemini。点击即可展开。可以拖动移动或关闭它。”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-overlay-Minimize-bubble-2a.jpg?ssl=1",
+          "cap": "收起后留在屏幕上的Gemini气泡"
+        },
+        {
+          "t": "p",
+          "x": "不过，这个气泡只会固定在六个预设位置之一，不能随意摆放。另外还有一个漏洞：每次最小化时，气泡都会弹回右下角。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-overlay-Minimize-bubble-3a.jpg?ssl=1",
+          "cap": "悬浮在其他应用上方的气泡"
+        },
+        {
+          "t": "p",
+          "x": "回答完全显示之后，点击表单外部的区域，就会再次收回为气泡。使用系统的返回手势可以关闭整个悬浮窗，也可以直接拖动将其关闭。"
+        },
+        {
+          "t": "p",
+          "x": "比起打开Gemini应用、进入侧边栏再返回对话，这种方式明显更快。用户可以先提出问题并将其最小化，然后去做别的事情，而不是干等回答出来。如果想要更丰富的体验，也可以把Android 17的系统气泡功能用在Gemini应用上。"
+        },
+        {
+          "t": "p",
+          "x": "最小化按钮和Gemini气泡从今天起将在Android上大范围推送。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ikairos-modular-wearable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ringverse的iKairos是一款以桌面机器人伴侣形态出现的模块化AI穿戴设备。它可以从机身上取下，作为AI挂坠佩戴在脖子上。其目的是收集情境数据，为用户呈现真正有用的建议。"
+        },
+        {
+          "t": "p",
+          "x": "AI挂坠也好，桌面AI机器人也好，都算不上新鲜事物。不过在IFA 2026上，新加坡公司Ringverse带来了一款既能摆在桌上、又能挂在脖子上的模块化穿戴设备。"
+        },
+        {
+          "t": "p",
+          "x": "这款产品名为iKairos。得益于模块化设计，它能从多个角度了解用户的生活。放在桌上时，它会像普通的桌面AI机器人那样观察并做出反应。外出时，只需把它从机器人机身中取出，挂在项链上随身携带即可。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-1.jpg",
+          "cap": "亮相IFA 2026的iKairos(图片来源：Adamya Sharma / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "正因如此，iKairos能够跨多种使用场景收集用户的情境数据。收集到的数据会汇入Ringverse的AI操作系统LifeOS，由LifeOS挑选出相关且(理想情况下)有用的建议并呈现出来。"
+        },
+        {
+          "t": "p",
+          "x": "Ringverse举了这样一个例子：如果iKairos注意到对话中反复提到航海，却始终没有落实到行动，它就会建议在周末上一次航海课程。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-2.jpg",
+          "cap": "拆分为项链模块的状态(图片来源：Adamya Sharma / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "隐私保护也被放在突出位置。据公司介绍，iKairos同时具备软件和硬件两方面的防护。它配有物理摄像头快门、隐私指示灯和手动静音按钮。无论是传输中还是存储中的数据都会被加密，这些数据不会被用来训练AI模型，保存期限由用户自行设定。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/ikairos-ifa-3.jpg",
+          "cap": "物理快门与隐私指示灯(图片来源：Adamya Sharma / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "Ringverse的更大构想，是让iKairos细致而微妙地理解用户的习惯、工作、朋友和日常对话。公司计划把这样积累下来的理解移植到机器人机身或配件上，以此驱动未来的家用机器人。"
+        },
+        {
+          "t": "p",
+          "x": "价格和上市时间尚未确定。有兴趣的用户可以在Ringverse官网加入等候名单。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "谷歌最近在Google Home应用中新增了对话式AI睡前故事功能、改进后的闹钟、更准确的歌曲识别,以及更便捷的消息群发功能,如今又带来一次让Gemini for Home更上一层楼的全新更新。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg",
+          "cap": "Android手机上显示的Gemini标志。"
+        },
+        {
+          "t": "p",
+          "x": "此次Google Home应用更新已经开始推送,其中包含一系列小幅改进,扩大了Gemini for Home的语音控制范围,并让自动化管理变得更加轻松。"
+        },
+        {
+          "t": "p",
+          "x": "最大的变化是,Gemini现在能够理解范围更广的语音指令,涵盖媒体和家庭设备控制。如今媒体指令可以和其他类型的指令合并到同一请求中,比如「关灯,顺便把音乐也关掉」这样的两个动作可以一次性下达。"
+        },
+        {
+          "t": "p",
+          "x": "相比此前的Google助理,Gemini for Home本就已经远比它更能干、对话也更自然,因此此前无法将媒体指令和智能家居指令合并处理,反倒显得有些奇怪。如今这些指令终于可以连在一起,像「跳过这首歌,打开后院灯」「关掉音乐,关掉客厅灯」这样的请求也不会再让它犯迷糊或报错。"
+        },
+        {
+          "t": "p",
+          "x": "此外,对于最近在设置闹钟或向Google Keep列表添加项目时遇到问题的Google Home用户来说,这也是个好消息。谷歌表示,此次更新已经修复了这两个漏洞,相关指令现在可以正常运行。"
+        },
+        {
+          "t": "p",
+          "x": "最后,此次更新还让Google Home的自动化管理变得更加简单。自动化编辑器中的触发条件和动作列表如今会自动按字母顺序排列,方便用户快速找到想要的设备功能。另外,对于通过第三方应用管理自动化的用户,Google Home现在会直接尊重该应用中设置的可见范围,也就是说被设为私密的第三方例行程序不会再扰乱Google Home的自动化列表。"
+        }
+      ]
+    },
+    "gadgets/gadgets-govee-ai-lighting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Govee在IFA 2026上再次加码智能家居氛围灯。此次发布的AI照明新品可自动调节氛围灯光、支持细腻的色彩过渡,并针对室内外空间分别提供定制设置。"
+        },
+        {
+          "t": "p",
+          "x": "Sky Ceiling Light是一款围绕全天状态管理打造的产品。借助Govee全新的AI Lighting Bot 2.0,它能根据日程或当天的心情调节灯光,并发出478nm波长的天蓝色光,帮助用户在日照不足的时段也保持清醒。它最高可输出7,000流明的白光,显色指数(CRI)达95,色温范围覆盖1,000K至10,000K。该产品已获得认证无频闪及低蓝光的TÜV莱茵认证,并支持Matter协议。美国定价399美元,自9月4日起发售;欧洲定价399欧元。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Govee-Sky-Ceiling-Light-lifestyle-image.jpg?resize=2000%2C1200",
+          "cap": "Govee Sky Ceiling Light。"
+        },
+        {
+          "t": "p",
+          "x": "面向室内重点照明的COB Strip Light 2 Pro,能呈现无缝顺滑的氛围灯光。它同样搭载AI Lighting Bot 2.0,仅凭文字或语音指令即可打造适合游戏、观影、阅读等场景的灯光氛围。每米配置1,344颗LED和16颗IC芯片,以三重凹槽结构排布,实现无缝光扩散;并通过RGBWWIC技术、CRI 92以及1,000K~10,000K色温范围提升色彩准确度。5米版本于9月4日以169.99美元(欧洲179.99欧元)发售,2米版本于9月末以99.99美元(欧洲89.99欧元)发售。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Govee-COB-Strip-Light-2-Pro-lifestyle-image.jpg?resize=2000%2C1200",
+          "cap": "Govee COB Strip Light 2 Pro。"
+        },
+        {
+          "t": "p",
+          "x": "此次产品线的最后一款,是用于室外住宅照明的Permanent Outdoor Lights 2 Pro。其最引人注目的硬件升级是双层发光结构:每个灯头内置两颗可独立控制的IC芯片,让上下区段能够同时呈现不同的颜色或效果。得益于Govee的LuminBlend+色彩管理系统,它还能驾驭覆盖整条屋檐线的复杂色彩过渡;与其他新品一样,它同样连接AI Lighting Bot 2.0,仅凭简单的提示词即可打造节日主题或日常的户外氛围。该产品将于9月7日在美国开售,价格为100英尺499.99美元、200英尺799.99美元。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/09/Govee-Permanent-Outdoor-Lights-2-Pro-lifestyle-image.jpg?resize=2000%2C1200",
+          "cap": "Govee Permanent Outdoor Lights 2 Pro。"
+        }
+      ]
+    },
+    "gadgets/gadgets-homepod-siri": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "据彭博社马克·古尔曼报道,苹果正在内部测试一款搭载Siri AI的全新大尺寸HomePod。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/t6jJN3ydbuPh9w847p_UiDAlqGY=/2500x/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg",
+          "cap": "2023年推出的现款第二代HomePod。"
+        },
+        {
+          "t": "p",
+          "x": "古尔曼在今日发布的苹果新品展望报告中提到,这款音箱目前尚未临近发布,也就是说短期内不会推出。目前在售的HomePod于2023年1月推出。"
+        }
+      ]
+    },
+    "gadgets/gadgets-vive-eagle": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "去年,HTC发布了对标Meta眼镜系列的智能眼镜Vive Eagle。公司在台湾率先发布后,迟迟未将这股势头延续到西方市场的发布上,如今整整一年过去,才将这款产品带到北美、欧洲、英国和澳大利亚。亚洲以外的消费者这才第一次有机会亲身体验这款作为Meta替代品的眼镜。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/htc-vive-eagle-smart-glasses-finally-come-to-the-west/l-intro-1788348912.jpg",
+          "cap": "正式登陆西方市场的HTC Vive Eagle。"
+        },
+        {
+          "t": "p",
+          "x": "与推迟发布不同,硬件本身变化不大。它依然搭载Qualcomm Snapdragon AR Gen 1处理器、4GB内存、32GB存储空间,以及可提供36小时待机时间的235mAh电池。前置摄像头为1200万像素,HTC通过禁止关闭提示LED、未佩戴时不录制、以及在用户口头要求下停止录制等方式来保护隐私。"
+        },
+        {
+          "t": "p",
+          "x": "核心功能是AI整合。用户可以在多种任务中选择使用OpenAI或Gemini。HTC表示,其会将收集到的数据与自身训练数据集分开存放,并对请求进行匿名化处理,以确保无法识别具体用户身份。开放式立体声扬声器在播报AI回答的同时,也支持日常音乐和播客的播放。"
+        },
+        {
+          "t": "p",
+          "x": "Vive Eagle提供方形和飞行员形两种镜框,配有黑色、咖啡色、浆果色三种半透明配色。镜片默认搭载蔡司镜片,可选透明、染色或变色镜片,也可安装近视镜片。美国定价从基础款499美元起,欧洲和英国则从9月21日起分别以469欧元和429英镑开售。"
+        }
+      ]
     }
   }
 }

@@ -4476,6 +4476,447 @@
           "x": "The researchers see inverse design as the next step: set the electronic properties you want, and the AI determines and builds the needed structure on its own. It's a stepping stone toward topological qubits, the basic unit of ultra-stable quantum computers. Narasimha said, 「We believe this approach will accelerate new breakthroughs in understanding quantum states and in future technologies.」"
         }
       ]
+    },
+    "science/science-ai-experiment-design": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Research is a matter of asking questions of the universe. For centuries, clever minds have pushed science forward by designing experiments so results reveal the laws of nature as clearly and unambiguously as possible."
+        },
+        {
+          "t": "p",
+          "x": "An international research team asked whether this process could be automated. The answer was a clear yes. Across several fields of physics, AI proposed experiments that produced more precise results than human-designed ones. The findings were published in Nature."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-23.jpg",
+          "cap": "How do you turn the components in hand into the right experiment? Credit: TU Wien"
+        },
+        {
+          "t": "p",
+          "x": "A typical situation in experimental physics looks like this. A lab is full of lasers, lenses, mirrors, and all kinds of detectors and electronic components. The number of ways to combine them is effectively uncountable. Picking the one combination among that vast space that will yield new insight usually takes intuition and long experience."
+        },
+        {
+          "t": "p",
+          "x": "Sometimes even that isn't enough. Mario Krenn, now a professor of scientific machine learning at the University of Tübingen, was wrestling with a quantum experiment setup as a student in Vienna. No one in the lab could find an arrangement that would show the quantum effect they wanted."
+        },
+        {
+          "t": "p",
+          "x": "Krenn decided to ask a computer instead. After mathematically describing the components on hand, he had an algorithm search for combinations that would make a meaningful experiment. “Programming it took only a few hours. Then I went home and left the computer running. When I came into the office the next day, the program had produced a file with the answer,” he said. Unlike any of us, the computer had found an arrangement that met the conditions."
+        },
+        {
+          "t": "p",
+          "x": "This method bears little resemblance to large language models. Chatbots learn from vast amounts of data to produce statistically plausible answers. Finding a new physics experiment is a different kind of problem. “It's an enormous optimization problem,” Krenn explains. The space of possible experiments you can build from a set of components is overwhelmingly large, so a computer has to search it systematically to reach the best solution."
+        },
+        {
+          "t": "p",
+          "x": "Philipp Haslinger, head of the electron microscopy center at TU Wien, called the results impressive. “Especially in electron microscopy, we are only now beginning to systematically explore entanglement and new quantum-mechanical microscope concepts. Human intuition is still quite limited in this area,” he said. AI also identifies microscope designs that yield far better images than people would have thought of, or that open up entirely new kinds of measurements."
+        },
+        {
+          "t": "p",
+          "x": "The same approach has already led to improvements in fusion reactors, ideas for particle detectors, and proposals that raise the sensitivity of gravitational-wave detectors. Krenn says that sometimes it's immediately clear why the computer's design is better, and sometimes it's only confirmed to be better computationally, without being easy to put into words."
+        },
+        {
+          "t": "p",
+          "x": "The goal he envisions is a kind of universal physics simulator. A handful of fundamental physics equations can already get you quite far. The picture is one where a computer uses those equations to predict what will happen in a given arrangement, then refines the device toward the desired goal."
+        },
+        {
+          "t": "p",
+          "x": "Setting the goal remains a human job. What you want, and what constraints apply, such as a cost ceiling or the energy limit a device can absorb without breaking, all need to be specified as precisely as possible. Asked whether it's a letdown to hand the moment of great discovery over to a computer, Krenn flatly said no. “Human work just moves up a level,” he said. Just as no one wants to go back to the days of calculating by hand, using this tool still requires expertise, creativity, and a feel for physics."
+        }
+      ]
+    },
+    "science/science-fda-genai-pilot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As the US Food and Drug Administration (FDA) wrestles with how to regulate medical devices that use generative AI to make clinical judgments, it has temporarily allowed some developers to bring products to market first."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_1767433801-1024x576.jpeg",
+          "cap": "The FDA experiments with regulating generative AI medical devices. Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Four devices have recently been accepted into the TEMPO pilot program. AI products from Cadence and Limbic are among them. Getting into the program lets a product launch without marketing authorization."
+        },
+        {
+          "t": "p",
+          "x": "The FDA set up this pilot to expand the technologies available for the Medicare ACCESS Model, an experiment that pays for technology that manages chronic disease. At the same time, it gives both regulators and companies a place to test AI regulation in the field."
+        },
+        {
+          "t": "p",
+          "x": "What remains an open question is how far oversight can be pushed back in exchange for speed."
+        }
+      ]
+    },
+    "science/science-male-fly-connectome": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Research, working with the HHMI Janelia Research Campus and several partner institutions, has released a wiring diagram of the entire brain and central nervous system of a male fruit fly. By neuron count, it is the largest brain map produced so far."
+        },
+        {
+          "t": "p",
+          "x": "The fruit fly is a research subject that has produced multiple Nobel Prizes. Its stereotyped behavior and short life cycle have made it a staple model organism in genetics. Mapping all 86 billion neurons in the human brain is still impossible, so scientists use AI to map smaller brains first."
+        },
+        {
+          "t": "p",
+          "x": "The result of a decade of joint research was published in the journal Cell. It contains more than 166,000 neurons and 125 million synaptic connections."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/Male-Fruit-Fly-Brain-Map-1.width-1250.png",
+          "cap": "Part of a male fruit fly's brain and central nervous system cells, seen from an oblique front view (left) and from above (right)."
+        },
+        {
+          "t": "p",
+          "x": "This connectome also includes the ventral nerve cord, the fly's equivalent of the spinal cord. A map that once covered only the brain now extends to the relationship between brain and body. Annotation and verification were done by hand by experts at HHMI Janelia. The finished map can be viewed and downloaded through Neuroglancer, an open-source tool built by Google."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/Male-Fruit-Fly-Brain-Map-2.width-1250.jpg",
+          "cap": "The new connectome, made up of neurons from the central brain (green), optic lobes (purple), and ventral nerve cord (blue)."
+        },
+        {
+          "t": "p",
+          "x": "Paired with the previously released female fruit fly brain map, it now allows direct comparison of where male and female neurons diverge, a lead for probing the biological mechanisms of courtship and aggressive behavior. In regions where males and females are similar, it also allows a look at variation between individuals."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/Male-Fruit-Fly-Brain-Map-3.width-1250.png",
+          "cap": "Neurons that developed differently in males (green) and females (magenta). The male side has two extra branches."
+        },
+        {
+          "t": "p",
+          "x": "Connectomics means slicing the brain into millions of thin sections, imaging each section, and then stitching them back together with computers and AI. The flood-filling networks used by the Google team are convolutional neural networks that start from a single pixel and find every pixel belonging to the same object. The 2019 fully automated reconstruction of the female fruit fly brain, and the 2020 half-brain map of the female brain with 25,000 neurons and 21 million connections verified by hand, sit on that same trajectory."
+        },
+        {
+          "t": "p",
+          "x": "More recently, mixing synthetic neurons into the training data boosted both the speed and accuracy of the reconstruction system PATHFINDER. Even now, verifying and annotating a single fruit fly brain map takes years. That manual work has to shrink before larger brains become feasible."
+        },
+        {
+          "t": "p",
+          "x": "The next target is vertebrates. In research led by Columbia University, the Google team mapped the signal-processing region of the elephantnose fish's hindbrain, with the results published in Nature. A paper in preparation with Harvard presents the first vertebrate dataset to combine the full neural structure and molecular cell types of a larval zebrafish brain."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/Male-Fruit-Fly-Brain-Map-4.width-1250.png",
+          "cap": "An image from the Fish Fire&Wire dataset, combining whole-brain activity and neural structure from a single zebrafish."
+        },
+        {
+          "t": "p",
+          "x": "Modeling all 86 billion neurons in the human brain is still far off. Even so, three follow-up papers released alongside the male fruit fly connectome are already being used in research on vision, taste, and social behavior."
+        }
+      ]
+    },
+    "science/science-silicon-subjects": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Swapping human participants for AI stand-ins, so-called digital twins, in behavioral research has long been a wish of some social scientists. People are expensive, tire easily, and in some studies even suffer psychological distress."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090226_SG_digitaltwin_main.jpg",
+          "cap": "Digital twins, the results suggest, need to be used with caution. Qi Yang/Moment/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "A study published September 2 in Science Advances says that wish needs more time. AI twins built to mimic a specific person's behavior instead distorted that person's views. The researchers called it the “funhouse mirror” effect."
+        },
+        {
+          "t": "p",
+          "x": "Olivier Toubia, a computational social scientist at Columbia Business School, says “there's some promise,” but the twins' performance overall was somewhat disappointing."
+        },
+        {
+          "t": "p",
+          "x": "The underlying material is data Toubia's team reported last year in Marketing Science. The team gathered more than 2,000 people from across the US and had them answer more than 500 questions covering age, race, income, education, religious life, political leanings, personality traits, spending habits, numeracy, and vocabulary. Many of the scales came from psychology, economics, and management research, alongside online tests measuring thought patterns and biases. The resulting public dataset has been downloaded roughly 25,000 times so far."
+        },
+        {
+          "t": "p",
+          "x": "This study built twins by feeding each person's full information into a large language model and instructing it to answer as that person would. Across 19 social science experiments, it pitted people against their twins on everything from views of donors who give to both Republican and Democratic candidates to how they “think” about algorithmic hiring."
+        },
+        {
+          "t": "p",
+          "x": "The twins beat chance but were wrong about one time in four on average, roughly on par with chatbots given only demographic information. Where they did better than demographics-only models was in capturing real variation among people. Given two people who rated their own self-control as 2 and 4, a low-information model flattens both to 3, while the twin produces 3 and 5. Still wrong, but the spread within the group survives better."
+        },
+        {
+          "t": "p",
+          "x": "The researchers pointed to several distortions behind the weaker performance. Twin responses were more homogeneous than humans' and skewed toward demographic stereotypes. Accuracy rose for wealthier, more educated participants. The twins also showed a bias toward trusting others more and worrying less about technological threats. Above all, they were more rational than the humans."
+        },
+        {
+          "t": "p",
+          "x": "Hadi Hosseini, an AI researcher and economist at Penn State, saw something similar while studying medical decisions made by AI agents under resource scarcity. “LLMs distort human judgment in a very particular direction, toward being far more rational and sensible than actual people.”"
+        },
+        {
+          "t": "p",
+          "x": "There's room to fix this. Hosseini notes that the study used “a very static set of questions,” and believes the data would improve with more dynamic methods, such as a chatbot following a person around for a day or checking in regularly. Toubia plans to test more sophisticated training methods."
+        },
+        {
+          "t": "p",
+          "x": "It's not useless as is. Tired people answer in one sentence and stop, while twins keep going without fatigue and produce long answers. There's also a use in pre-testing experimental designs with twins before running them on real people. Still, Toubia urges humility. Social scientists tend to treat scales and surveys as capturing the whole of human experience, but predicting human behavior with machines remains brutally hard. “Expectations for synthetic data need to be realistic.”"
+        }
+      ]
+    },
+    "science/science-weathernext3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Weather sways billions of decisions every day. Some are small, like whether to grab an umbrella on the way out. But extremes like wind, rain, heat waves, and drought send ripples through agriculture, global supply chains, clean energy production, and national economies."
+        },
+        {
+          "t": "p",
+          "x": "In recent years, AI has upended weather forecasting by learning from historical records to produce predictions faster and more accurate than traditional methods. What remained unsolved was fast-changing weather in small areas. Earlier models lacked spatial resolution and struggled to incorporate real-time observations like satellites."
+        },
+        {
+          "t": "p",
+          "x": "WeatherNext 3, released by Google DeepMind and Google Research on September 3, targets exactly that. In real-time evaluations by the independent assessor Brightband, it scored the highest accuracy of any global weather model released so far. It learns directly from real-time observations and produces hourly, high-resolution forecasts from raw satellite data."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
+          "cap": "The WeatherNext 3 title image, set above the clouds."
+        },
+        {
+          "t": "p",
+          "x": "Start with resolution. Key metrics like temperature and humidity are rendered on a 5km grid, other metrics on a 10km grid, and atmospheric variables like wind speed on a 25km grid. That is roughly five times sharper than WeatherNext 2, the previous model, which produced a 25km grid every six hours."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_diagrams_fig-01.width-1200.format-webp.webp",
+          "cap": "A diagram of the WeatherNext 3 system architecture."
+        },
+        {
+          "t": "p",
+          "x": "The biggest change is the training material. Most AI weather models, including WeatherNext 2, are raised on data produced by numerical weather prediction (NWP) models. That approach, which simulates physics on supercomputers, comes with a six-hour data lag and introduces bias in fast-changing variables like rain or surface temperature. WeatherNext 3 takes in real-time mosaics streamed directly from geostationary satellites and produces a new forecast every hour."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/WeatherNext3_diagrams_fig-02_56sxldb.mp4"
+        },
+        {
+          "t": "p",
+          "x": "It also learns directly from sparsely scattered ground station data. That is what makes a 5km global forecast that accounts for terrain possible. This matters especially for Latin America, Africa, and Asia-Pacific, regions that had been left out of high-resolution forecasting because of the supercomputer cost of running regional models."
+        },
+        {
+          "t": "p",
+          "x": "New forecasts for renewable energy were also added. It produces wind speed at 100m, the height of wind turbine hubs, along with high-resolution cloud cover and solar irradiance to gauge how much light solar plants will receive."
+        },
+        {
+          "t": "p",
+          "x": "Precipitation has always been a weak spot for global models. Trained on NASA's satellite-based IMERG and the team's own satellite radar precipitation reanalysis data, the model improved the continuous ranked probability score (CRPS) in medium-range forecasts by up to 60% versus IMERG, 30% versus MRMS, and 10% versus rain gauge observations in the early forecast window."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_diagrams_fig-03.width-1200.format-webp.webp",
+          "cap": "A comparison of precipitation probability forecasts. WeatherNext 2 on the left, WeatherNext 3 in the middle, satellite observations on the right."
+        },
+        {
+          "t": "p",
+          "x": "Starting this day, it rolls out in sequence across Google Search, the Gemini app, Google Maps and the Maps Platform Weather API, and Earth Engine. Precipitation forecast accuracy improves by up to 50% when looking more than a day ahead."
+        }
+      ]
+    },
+    "science/science-ai2-hard-parts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI already helps with a large share of scientific work: combing through literature, analyzing data, writing code, forming and testing hypotheses. The hard part lies elsewhere — building systems that scientists can keep steering as research unfolds and which hypotheses to chase or which experiments to run keeps changing."
+        },
+        {
+          "t": "p",
+          "x": "An event held at Ai2 on August 27 addressed that problem. It expanded on an ongoing collaboration with the Paul G. Allen Research Center at the Providence Swedish Cancer Institute. Using cancer research that came out of that collaboration as a starting point, the event identified what is missing from today's scientific AI, and five issues came up repeatedly across the talks and panels."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1788277424-panelists.jpg?fit=max&w=1400&fm=jpg",
+          "cap": "Panel discussion at the event. Photo: Ai2"
+        },
+        {
+          "t": "p",
+          "x": "The first is leaving room for human judgment. Bodhisattwa Prasad Majumder called the judgment that separates interesting results from trivial or already-known ones 'scientific taste.' Current systems can't make that distinction on their own. Even AutoDiscovery would sometimes produce hypotheses that were statistically striking but biologically or clinically nonsensical, and it only became useful once researchers added domain knowledge."
+        },
+        {
+          "t": "p",
+          "x": "The second is steerability. Plans get upended when an experiment produces an unexpected result or a new paper comes out. Majumder said today's agents have trouble changing direction mid-course during a long investigation. Instructions, context and tools need to be swappable without retraining the model from scratch."
+        },
+        {
+          "t": "p",
+          "x": "The third is deciding what to delegate. Hoifung Poon drew a line between productivity gains and creativity gains. Tasks that are tedious but that people already know how to do — like searching records or organizing literature — are easy to delegate and easy to verify. By contrast, producing a mechanism nobody had thought of may be valuable but is hard to confirm. Abraham Flaxman cited a case where a researcher used AI to test the algorithm in their own paper, found an error, and requested the paper be retracted. Kelly Paulson's summary was short: \"It's not search, it's research. You have to discover, and you have to verify.\""
+        },
+        {
+          "t": "p",
+          "x": "The fourth is the amplification of bad science. Faster analysis doesn't fix a poorly designed study. Stephen Salerno described AI not as an equalizer but as an amplifier: solid experimental design, careful collection and sound causal reasoning get stronger, but shaky assumptions and flawed methodology grow just as much. That makes it more important to ask where the data came from, why it was collected, and who was left out."
+        },
+        {
+          "t": "p",
+          "x": "The fifth is the missing link between AI and experiments. Kyle Travalini pointed to neuroscience problems involving hundreds of cell types and thousands of shifting genes — a scale no one can track through literature alone. Once agents that sift evidence and rank hypotheses eventually exchange data directly with lab equipment, the results of one experiment will shape the design of the next. Poon sketched 'virtual tissue' as a bridge connecting individual cell models to 'virtual patients.'"
+        }
+      ]
+    },
+    "science/science-genomic-transfer-learning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Polygenic risk scores (PRS) combine hundreds to millions of genetic variants to predict disease risk. One reason clinical adoption has been slow is clear: genome-wide association studies (GWAS) to date have been heavily weighted toward European cohorts, so accuracy drops sharply when they're applied to non-European populations. This is because genetic architecture, population structure and allele frequencies differ across groups."
+        },
+        {
+          "t": "p",
+          "x": "Still, running a brand-new GWAS at a scale of hundreds of thousands of people is beyond most healthcare systems. Joy Pumarin Floipisut and Cory McLean of Google Research tested transfer learning from European-centered GWAS instead. They moved PRS drawn from hundreds of thousands of Europeans in the UK Biobank (UKB) to Biobank Japan (BBJ), a cohort of about 200,000 Japanese people, and examined eight clinical traits while varying the sample size on both sides."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BBJ_GenomicPrediction1-ExperimentalDesign.width-1250.png",
+          "cap": "Cross-population genomic prediction experimental design. Photo: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "The traits were body mass index (BMI), systolic and diastolic blood pressure, red blood cell count, white blood cell count, HDL, LDL and blood glucose. There were three methods: training an elastic net on variants found in UKB, building a variant set by meta-analyzing GWAS from both populations, and PRS-CSx, designed to handle differences in linkage disequilibrium between populations. All evaluations used the same BBJ holdout sample."
+        },
+        {
+          "t": "p",
+          "x": "The results ran against expectations. When target-population data was scarce, European data clearly helped. But once the BBJ sample passed 15,000 people, a model trained on the target population alone pulled ahead. Adding European data actually ate into the gains from a larger sample. The same pattern showed up across all eight traits examined."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BBJ_GenomicPrediction3-PRS4HDL.width-1250.png",
+          "cap": "HDL cholesterol PRS performance curve. Photo: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "The crossover point varied by trait. For 'conserved' traits with high genetic correlation between the two populations, the benefit of mixing in European data persisted up to a BBJ sample of roughly 25,000 to 40,000 people. For traits with strong population specificity, such as HDL, LDL and blood glucose, the benefit disappeared much earlier — a sign that the European data was that far out of distribution."
+        },
+        {
+          "t": "p",
+          "x": "Meta-analysis and PRS-CSx diverged. For conserved traits, the effect of meta-analysis was small, because the BBJ GWAS sample lacked statistical power. For population-specific traits like HDL and LDL, however, meta-analysis significantly outperformed single-population discovery. PRS-CSx needed more data: below a target sample of 25,000, it underperformed the best elastic net on every trait except BMI, but as the sample approached 100,000 it matched or beat the top model on every trait except blood glucose."
+        },
+        {
+          "t": "p",
+          "x": "The authors stated plainly that the common assumption — that more out-of-population data is always better — does not hold for PRS in minority populations. Growing diverse regional biobanks and choosing models suited to a trait's heritability and sample size need to go hand in hand."
+        }
+      ]
+    },
+    "science/science-llm-attention-deficit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Machine learning's design started from the human brain. But apart from how impressive large language models (LLMs) have become, there are points where they diverge cognitively from biological brains. A study published in the journal PNAS Nexus applied a widely used psychological test to leading LLMs and found weak executive control of attention."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pic15954_85.jpg?itok=kRahlaAj",
+          "cap": "Photo: BrianPenny/Pixabay"
+        },
+        {
+          "t": "p",
+          "x": "Corresponding author Jin Fan wrote, along with Suketu Chandrakant Patel and Hongbin Wang: \"The transformers in large language models implement the self-attention mechanism that transformed natural language processing well, but they lack the explicit architecture for executive control of attention found in humans. That control is essential for resolving conflict among competing computations and selecting relevant information, and it is decisive for adaptive behavior.\""
+        },
+        {
+          "t": "p",
+          "x": "Serious research into attention took off in the late 1800s. The American psychologist William James (1842–1910), often regarded as the founder of modern scientific psychology, wrote in his 1890 work The Principles of Psychology that attention is \"the withdrawal from some things in order to deal effectively with others,\" and called its opposite a distracted state, using the German word for lack of mind, \"Zerstreutheit.\" A century later, in 1990, Michael Posner and Steven Petersen proposed that the attention system is separate from the brain's information-processing regions and divides into three subsystems: orienting, detection and alerting. In 2002 came the Attention Network Test (ANT), designed to measure it."
+        },
+        {
+          "t": "p",
+          "x": "Twenty years after that, in 2022, OpenAI released ChatGPT. As LLMs spread rapidly across academia and industry, understanding their capabilities and limits became urgent. The research team cited prior work showing that cognitive control is more strongly tied to crystallized intelligence, and wrote that this pattern overlaps with the performance characteristics of LLMs."
+        },
+        {
+          "t": "p",
+          "x": "For the test, the team chose the Stroop test, the standard measure of executive function. Created by John Stroop in 1935, it has subjects read aloud two sets of color-name lists: in one, the word and the ink color match, and in the other they don't. The models tested were OpenAI's GPT-5 and GPT-4o, Anthropic's Claude Opus 4.1, Claude Sonnet 4.5 and Claude 3.5 Sonnet, and Google's Gemini 2.5 Pro."
+        },
+        {
+          "t": "p",
+          "x": "When lists were short, the LLMs behaved like humans. On lists of one or five words, executive control was \"not entirely absent,\" in the researchers' words. As lists grew longer, accuracy dropped sharply — something that doesn't happen with humans. The researchers wrote that \"the graded degradation with list length suggests a failure of goal maintenance, where the integrity of goal representations dilutes as task demands lengthen.\""
+        },
+        {
+          "t": "p",
+          "x": "The research team believes this isn't just a matter of memory capacity. They argue that the transformer's attention mechanism needs to be refined for conflict resolution, and even say this work is necessary to reach artificial general intelligence (AGI). Their conclusion: \"Future development would benefit not merely from enhanced memory capabilities, but from implementing sophisticated executive control systems that can handle decision conflicts through structured, goal-directed processing.\""
+        }
+      ]
+    },
+    "science/science-mammogram-ai-review": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A review led by the UCLA Health Jonsson Comprehensive Cancer Center summed up where things stand with commercial AI tools that assist mammogram interpretation. AI can spot subtle traces of breast cancer missed at routine screening, and some systems even pick up risk signals before a lesion is visible on imaging. Several limitations remain, though. The paper appeared in the Journal of Breast Imaging."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-may-help-identify-b-1.jpg",
+          "cap": "Study corresponding author Tiffany Yu, UCLA professor of radiology. Photo: University of California, Los Angeles"
+        },
+        {
+          "t": "p",
+          "x": "The focus is on interval cancers — cancers diagnosed after a negative screening result but before the next scheduled screening. They serve as a measure of how well a screening program is working, and tend to be more aggressive than cancers caught by screening. Tiffany Yu, a UCLA professor of radiology, said, \"The ultimate goal of screening mammography is to eliminate these interval cancers and catch as many as possible earlier, at the time of screening.\""
+        },
+        {
+          "t": "p",
+          "x": "Some interval cancers grow fast enough that there's no trace at all on the prior image. Others left a trace that simply wasn't read at the time — and that's where AI comes in. Pooling retrospective studies, AI identified a substantial share of interval cancers that had faint signals on the prior image. Estimates ranged from 5% to 78%, depending on the study, the AI system and the methodology."
+        },
+        {
+          "t": "p",
+          "x": "The researchers were careful to note this represents potential detection, not evidence that AI has actually lowered interval-cancer incidence. Co-author Hannah Milch, a UCLA professor of radiology, put it this way: \"Finding cancer retrospectively is very different from showing that it would have been diagnosed earlier had AI been used at the time of screening. We need prospective evidence that AI actually changes patient outcomes.\""
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-may-help-identify-b.jpg",
+          "cap": "Graphical abstract of the paper. Photo: Journal of Breast Imaging (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Risk prediction tells a similar story. In one study, AI had already assigned the highest risk score to 23.1% of women who later developed an interval cancer, three screenings before diagnosis, and that share rose to 39.4% at the screening immediately before diagnosis. What clinicians should do when imaging looks normal but the risk score is high remains undecided. Additional imaging might catch cancer earlier, but it could also lead to false positives, unnecessary procedures and overdiagnosis."
+        },
+        {
+          "t": "p",
+          "x": "The review also pointed to a large prospective randomized controlled trial from 2026. It compared AI-assisted reading with the double reading common in Europe, among more than 105,000 women. The interval-cancer rate was 1.55 per 1,000 women in the AI-assisted group versus 1.76 in the standard group. Sensitivity was higher with AI assistance, 80.5% versus 73.8%, while specificity was the same at 98.5%. Reading workload dropped by 44.3%, without a drop in overall cancer detection."
+        },
+        {
+          "t": "p",
+          "x": "The authors noted that while this trial is the strongest prospective evidence available so far, it was designed as a non-inferiority study. Conditions such as 2D mammography, long screening intervals and double reading also differ from U.S. programs. Professor Yu said differences among international screening programs make it hard to compare results directly, and that there isn't enough research applicable to the U.S. The review's conclusion is that future work needs to prospectively follow patients and look at recall rates, false positives, reading burden and follow-up exams together."
+        }
+      ]
+    },
+    "science/science-small-molecule-atlas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The human body and its gut microbes produce thousands of small molecules that drive immunity and metabolism. Figuring out exactly what those molecules are has long been a bottleneck: with current methods, more than 80% of compounds detected in biological samples can't be linked to a known structure."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-maps-the-h.jpg",
+          "cap": "AIMe screen capture. Photo: Frank Schroeder, Boyce Thompson Institute"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Boyce Thompson Institute (BTI) and Cornell University have chipped away at that wall. AIMe, built on what's known as neuro-symbolic AI, predicts and organizes the mass spectra of more than 100 million organic small molecules so they can be searched. The work was done by Professor Frank Schroeder of BTI and Cornell's Department of Chemistry and Chemical Biology, together with Professor Carla Gomes, who leads Cornell's AI for Science Institute. A preprint is posted on bioRxiv."
+        },
+        {
+          "t": "p",
+          "x": "Mass spectrometry breaks a compound into fragments and records the mass of each one. This fragmentation pattern, or tandem mass spectrum, works as a molecule's fingerprint. The problem is that experimental reference libraries are thin: even combined, today's available libraries cover less than 1% of known compounds, and solving the structure of a single unknown compound can take days to months."
+        },
+        {
+          "t": "p",
+          "x": "AIMe doesn't wait for experimental spectra to pile up. It predicts spectra computationally and stores them in a search resource called MS2KOSMOS. For essentially every organic small molecule in the public chemistry database PubChem, it generated more than 800 million predicted spectra — roughly a thousand-fold expansion of searchable chemical space compared with existing experimental libraries."
+        },
+        {
+          "t": "p",
+          "x": "Gomes explained that \"the core of AIMe is DeepMS2Reasoner, which mimics how a molecule breaks apart inside a mass spectrometer.\" Symbolic rules lay out physically plausible fragmentation steps, and a neural network assigns a probability to each step. The output comes as a predicted spectrum along with a map showing how the molecule broke apart."
+        },
+        {
+          "t": "p",
+          "x": "The team applied AIMe to metabolomic data comparing germ-free mice, which have no gut microbes at all, with normal mice. Thousands of chemical features differed between the two groups, and most of the more abundant ones couldn't be identified by existing methods. When the researchers queried 111 unidentified microbiome-dependent compounds against MS2KOSMOS, about a third came back with a close predicted spectrum and candidate structure."
+        },
+        {
+          "t": "p",
+          "x": "Two compounds in particular became case studies. Schroeder said both produced spectra that looked like polyamine derivatives, but the fragmentation patterns didn't match anything previously described. The first turned out to be a linear putrescine derivative and was soon confirmed by synthesizing a reference standard. The second was only solved after candidates were expanded to include cyclic variants — it turned out to be a macrocyclic polyamine never reported in mice or humans. A search of public databases found the same compound in 57 of 99 human fecal samples."
+        },
+        {
+          "t": "p",
+          "x": "The team also ran a repository-scale test. Running AIMe on more than 7 million spectral clusters in GNPS, a large public mass spectrometry repository, produced tentative annotations for 2.69 million of them at the same similarity threshold — compared with roughly 416,000 annotated by prior work."
+        }
+      ]
     }
   }
 }

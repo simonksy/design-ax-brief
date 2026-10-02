@@ -3714,6 +3714,282 @@
           "x": "App Store上售价29.99美元。这可能是目前live visual领域花得最值的一笔钱，尤其是配上SunVox开发者做的Quantum VJ HD这类有趣的东西时。"
         }
       ]
+    },
+    "music/music-alok-personalised-mv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "巴西DJ兼制作人Alok与代理公司Rise New York & Partners合作，为自己的耳机系列发起了“WAAW by Alok”活动。买下耳机，就能得到一支只为那个人制作的音乐录影带。前提是创作的主导权始终握在人的手里。"
+        },
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-01T131828.002.png",
+          "cap": "WAAW by Alok活动"
+        },
+        {
+          "t": "p",
+          "x": "起点很普通。先拍了一支配合Alok歌曲的官方影片，画面质感取自巴西插画师Rogério Puhl的波普艺术风格，再在其上另外叠加了一套引擎。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini Omni充当大脑，负责管理影像、音效设计和文本改编的流程。Google Maps API读取粉丝周边的环境，把真实地标编进故事里；Google Weather API则让当天那个地点的光线和天气对上号。风格趋势靠YouTube和Trends数据追踪，实际的视频片段由Vertex AI和Veo生成。整条渲染流水线搭建在Google Cloud之上。"
+        },
+        {
+          "t": "p",
+          "x": "粉丝提交包含个人喜好和实时环境信息的Beat Profile，随后就能收到一支把自己所在地天气和城市天际线融入背景的影片。"
+        },
+        {
+          "t": "p",
+          "x": "控制手段是规则。团队花了数周时间，用五条视觉规则对引擎进行测试，过程中产生的初版片段有81.4%被舍弃。镜头运动、色彩和叙事的关键节拍都被锁定，只留出指定的区间可以变动。"
+        }
+      ]
+    },
+    "music/music-audacity4-release": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Muse Group发布了Audacity 4。按官方说法，这是25年历史上最大的一次更新。剪辑片段的方式被彻底重做，界面也做了调整。和audio.com的衔接变得更紧密。价格依然是0元。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Audacity-4-T.jpg",
+          "cap": "Audacity 4"
+        },
+        {
+          "t": "p",
+          "x": "片段之间现在可以互相重叠。可以一次选中多个片段进行编辑，也可以把它们组合起来当作一个整体移动。整个过程都是非破坏性的，剪掉的声音只要把片段重新拉长就能找回来。删掉的部分由后面的音频如何填补，则在波纹编辑选项里选择。"
+        },
+        {
+          "t": "p",
+          "x": "社区长期要求的Split工具也加入了。无论是一条轨道还是多条，都能在播放头所在位置一次性分割。Clip Envelope把音量自动化拉进片段内部，可以在不触碰原始录音的情况下画出淡入淡出。内置效果只是重新绘制了界面，功能本身没有变化。实时效果以及VST3、Audio Unit、LV2的支持也都保留下来。"
+        },
+        {
+          "t": "p",
+          "x": "主屏幕是这次新增的功能。本地项目和存放在audio.com上的云端项目可以在同一个地方查看，用缩略图代替文件名排列，浏览起来更轻松。工作区功能可以按任务类型分别保存界面布局，从播客剪辑切换到音乐制作时，不再需要把整个应用重新设置一遍。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-01-1024x565.jpg",
+          "cap": "重新绘制的界面"
+        },
+        {
+          "t": "p",
+          "x": "外观也如Muse Group所说，是历史上变化最大的一次。工具栏和轨道控件被重新排布，播放和录音电平表也换了样式。播放头始终可见，移动和缩放都更加顺滑。还加入了亮色、暗色主题、强调色选择，以及经过打磨的高对比度模式。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-02-1024x565.jpg",
+          "cap": "整理过的工具栏和轨道控件"
+        },
+        {
+          "t": "p",
+          "x": "Muse Group首席产品官Julia Sazhina表示，Audacity二十多年来一直在帮助创作者录音和剪辑，4这个版本是为了让它再撑过下一个25年——同时保留人们已经喜欢的那些部分。"
+        },
+        {
+          "t": "p",
+          "x": "AI工具保留了原位。一组基于英特尔OpenVINO的插件负责人声分离、音乐生成、使用Whisper.cpp的转录以及噪声抑制，全部在电脑本地运行，不会把音频上传到服务器。4同样还是免费开源，正式版可以从MuseHub获取。"
+        }
+      ]
+    },
+    "music/music-producely-dialr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在Superbooth25首次亮相的Producely Dialr终于开始接受订购。它是一款插件控制器。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-ft-2.jpg",
+          "cap": "Producely Dialr"
+        },
+        {
+          "t": "p",
+          "x": "制造商是丹麦哥本哈根的Producely，由曾从事音乐科技工作的Morten Søderquist Li创立的初创公司。"
+        },
+        {
+          "t": "p",
+          "x": "插件控制器市场已有SSL和Softube的产品。Dialr的不同之处在于自动映射。它扫描已安装的VST3和AU插件库，将参数信息发送到Producely的AI云端，服务器会为该组合生成控制器配置文件并返回。接收一次之后即可离线使用。"
+        },
+        {
+          "t": "p",
+          "x": "7英寸LCD触摸屏显示参数名称和数值，每次切换插件或页面时都会自动重新编排布局。旋钮为两排各六个，分为三种尺寸，便于手指记住位置。屏幕两侧的步进编码器可用于切换插件区段、微调数值，也可在DAW音轨之间切换。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-01-1024x565.jpg",
+          "cap": "12个旋钮和7英寸触摸屏"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-03-1024x565.jpg",
+          "cap": "背面"
+        },
+        {
+          "t": "p",
+          "x": "适用范围很广，从常见的音频处理器、软件合成器，到控制WesAudio和Bettermaker硬件的控制插件都能支持。该产品的设计理念是，每次新增插件时都不必从头重新映射。"
+        },
+        {
+          "t": "p",
+          "x": "目前正在接受预订，发货将在几周内开始。"
+        }
+      ]
+    },
+    "music/music-suno-studio2-plugins": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "lGvyrEkZ6ZU"
+        },
+        {
+          "t": "p",
+          "x": "这段视频讲解了如何用Suno Studio 2.0的Studio Chat制作专属音频效果。主持人是Henry Fipps。"
+        },
+        {
+          "t": "p",
+          "x": "视频中展示了两种效果：一个立体声倍增器，一个变调延迟。在聊天框写下想要的效果后，AI会先给出构建方案，确认并保存后即进入My Plugins。"
+        },
+        {
+          "t": "p",
+          "x": "将做好的立体声倍增器加载到音轨上确认效果后，又新建了一个名为Crystal Sparkle的插件并加到鼓轨上。结尾提到了即将加入的插件功能。"
+        },
+        {
+          "t": "p",
+          "x": "曾经帮忙写歌的工具，如今连打磨歌曲的处理器也能做出来。这段5分55秒的演示由Suno自己拍摄。"
+        }
+      ]
+    },
+    "music/music-accentize-chameleon-emmy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Accentize凭借dxRevive Pro获得工程、科学与技术类艾美奖两年后,又因混响匹配插件Chameleon再次获得提名。该奖项由洛杉矶电视艾美奖学院颁发,旨在表彰对电视行业产生重大影响的工程、科学与技术成就。"
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/a/accentize_chameleon-rrwNhEr7GV_o8hsYvn_lSKKTeYMAPqW6.jpg",
+          "cap": "Accentize的Chameleon混响匹配插件"
+        },
+        {
+          "t": "p",
+          "x": "Accentize表示,Chameleon旨在解决音频后期制作中长期存在的难题:匹配在不同环境下录制的录音的声学特性。像ADR、配音和拟音这类新录制的素材需要自然地融入制作声音中,但如果房间混响不同,无论原始录音多么出色,听感上仍会显得格格不入。"
+        },
+        {
+          "t": "p",
+          "x": "Chameleon会分析参考录音中的混响特性,然后生成可应用于其他音轨的混响配置文件。对白混音师等工作人员无需手动重新搭建场地的声学色彩,就能迅速还原。"
+        },
+        {
+          "t": "p",
+          "x": "Accentize创始人、Chameleon开发者Benjamin Graf表示:「2024年凭借dxRevive Pro获得艾美奖已经超出我们的想象。能凭Chameleon再次获得这样的认可,意义非常特别。这两款产品解决的是对白后期制作中不同的问题,但出发的动机是一样的:用新技术让繁琐耗时的音频工作对专业人士来说更简单。衷心感谢音频社区用反馈与支持,一同把这些工具培育起来。」"
+        },
+        {
+          "t": "p",
+          "x": "颁奖典礼将于10月14日星期三,在洛杉矶电视艾美奖学院的萨班媒体中心举行的工程、科学与技术类艾美奖颁奖礼上进行。"
+        }
+      ]
+    },
+    "music/music-dreamtonics-instrument-x": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "打造了人声合成工具Synthesizer V和Vocoflex的东京公司Dreamtonics发布了Instrument X。这标志着这家此前专注于人声合成的公司,正式进入管弦乐配乐领域。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Attack-Mag-News-Feat-Images-INSTRUMENT-X.png?fit=1400%2C479&ssl=1",
+          "cap": "Dreamtonics的Instrument X"
+        },
+        {
+          "t": "p",
+          "x": "Instrument X不依赖数吉字节容量的采样库,而是通过神经声学建模直接将乐谱转换为声音。作曲家和制作人可以亲自操控运弓、呼吸和按键发音,而不是依赖静态的循环触发。"
+        },
+        {
+          "t": "p",
+          "x": "该引擎可同时处理多达11路麦克风信号,包括近距离麦克风、Decca树形麦克风阵列以及房间氛围音。为了防止各声道错位,Dreamtonics开发了一套方法,利用自制的十二面体扬声器阵列测量录音室的声学几何结构,并已为此申请专利。一个融合物理原理的神经网络负责分离房间的方向性声学与干声乐器音源。它不需要联网,也不需要专用GPU,可以在普通笔记本电脑上本地运行。"
+        },
+        {
+          "t": "video",
+          "yt": "1MXQKiWQvSY"
+        },
+        {
+          "t": "p",
+          "x": "主要功能如下。发音编辑器将自动的Smart Articulation与逐音符的手动控制结合在一起,可以在同一个音符上叠加断音、连音、击木奏法和闷音。动态音轨会根据上下文自动绘制合适的力度变化,同时改变乐器的音色和泛音,也支持手动覆盖。AI演奏重录功能允许用户重新生成整段乐句,或者只挑选音色漂移、微音高曲线、动作强度等单项进行调整。重叠的音符会被渲染为完全独立的声部,麦克风混音面板则用于权衡近距离麦克风、Decca树形阵列与房间声的比例。"
+        },
+        {
+          "t": "p",
+          "x": "首发阵容包括三大系列、共15款乐器扩展包。弦乐系列有Violin 1、Viola 1、Violoncello 1、Contrabass 1。木管系列有Flute 1、Piccolo 1、Oboe 1、Clarinet in A 1、Bassoon 1。铜管系列有Trumpet 1、Trombone 1、Horn 1、Tuba 1。每款乐器都配有Adagio、Allegro、con Fuoco、Pop、Ballade五种风格预设,可整体改变演奏的情感色彩。"
+        },
+        {
+          "t": "p",
+          "x": "创始人兼CEO Kanru Hua表示,公司也考虑过把这些乐器整合进现有工作空间,但最终还是选择了独立平台。「很多用户一直要求我们把这些乐器纳入我们的生态系统。我们没有选择让单一工作空间负担过重,而是决定把Instrument X打造成与Synthesizer V、Vocoflex并列的独立平台,从而完成这个三部曲。」他还表示,比起AI合成本身,达到专业作曲与制作标准反而更难,公司必须针对每一类乐器重新反映其物理特性,从零搭建引擎;不过整体工作流程对现有Synthesizer V用户来说依然是熟悉的样子。"
+        },
+        {
+          "t": "p",
+          "x": "该产品在Dreamtonics Store发售。只要购买任意一款扩展包,核心编辑器即可免费使用。14天编辑器试用和7天乐器试用可以直接在Product Manager面板中开启。单个扩展包售价$99,Orchestral Strings系列$249,Orchestral Woodwinds售价$279,Orchestral Brass售价$249,混搭包售价区间为$158至$396,Orchestral Essentials套装售价$349。"
+        }
+      ]
+    },
+    "music/music-socan-sues-suno": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "加拿大音乐版权组织SOCAN以侵犯版权为由起诉了AI音乐平台Suno。该组织称,Suno的服务生成并流媒体播放了SOCAN代理曲目中未经授权的复制内容。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-2-socan.jpg",
+          "cap": "SOCAN与Suno"
+        },
+        {
+          "t": "p",
+          "x": "诉状于9月2日提交至加拿大联邦法院。据Music Business Worldwide报道,诉状指明了150首由Suno生成的音轨,这些音轨来自SOCAN代理的137首歌曲。争议的焦点在于这些生成内容本身,以及向加拿大用户的流媒体播放。"
+        },
+        {
+          "t": "p",
+          "x": "被提及的歌曲包括艾薇儿·拉维妮(Avril Lavigne)的《Sk8er Boi》、汤姆·科克兰(Tom Cochrane)的《Life Is a Highway》,以及琼妮·米切尔(Joni Mitchell)的《Both Sides Now》。SOCAN还在网上发布了对比资料,让人们可以并排聆听原始录音和其指控侵权的Suno音轨。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Screenshot-2026-09-03-at-12.01.14---PM.png",
+          "cap": "SOCAN AI诉讼页面截图"
+        },
+        {
+          "t": "p",
+          "x": "SOCAN首席法务官兼法律总负责人Andrea Kokonis向Billboard Canada表示,Suno在2023年12月未经SOCAN同意进入加拿大市场,此后的沟通也未能解决争端。「我们希望确保,会员的歌曲被使用时,其价值能够回馈给会员。」"
+        },
+        {
+          "t": "p",
+          "x": "SOCAN要求赔偿因侵权产生的损失与利润,或者选择按每首歌曲2万加元的法定赔偿金。此外,SOCAN还要求1000万加元的惩罚性及惕戒性赔偿,以及阻止进一步侵权的法院命令。两篇报道均未提及Suno方面对此诉讼的回应。"
+        }
+      ]
+    },
+    "music/music-songscription-publishing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Songscription这家初创公司首次进入人们视野是在2025年7月,当时TechCrunch报道了其“自动音乐转谱”服务。版权上的“灰色地带”问题也是在那时被提出的。同年11月,公司完成了500万美元融资,音乐科技界资深人士、公司顾问Elizabeth Moody当时公开表示,公司将与出版商签约,走合乎道德的路线。本月,我们采访了CEO Andrew Carlins,了解这些协议具体如何运作,以及公司在转谱和编曲中如何使用AI。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-13.49.55.png?fit=780%2C390&ssl=1",
+          "cap": "Songscription的自动乐谱转录界面"
+        },
+        {
+          "t": "p",
+          "x": "融资时,用户数已超过15万。Carlins表示,此后每月增长率都超过20%,其中大多数新用户是“第一次把自己的作品转成乐谱的词曲作者和创作者”。公司也不断添加新功能,包括和弦识别、能“根据演奏者水平(包括初学者)”简化转谱的功能,以及使用AI聊天界面的文本式记谱编辑器。歌词与音乐对齐、把转谱导出为主奏谱或二重奏的功能仍处于测试阶段。"
+        },
+        {
+          "t": "p",
+          "x": "公司与独立出版商的签约也在持续进行。目前公开的只有Spirit Music Group一家,但预计几周内会公布更多。「总体来说,出版商都非常友好。」Carlins说。「如今写出的歌曲中有90%以上仍未被转谱,就算已转谱的歌曲,其乐器编制和难度也很有限。出版商理解,Songscription能够为艺人和作曲者的创作流程提供助力,并让各个水平的演奏者都能更容易获取乐谱。」"
+        },
+        {
+          "t": "p",
+          "x": "他还表示,出版商很看重Songscription主动寻求授权协议这一态度。「相比一些其他AI服务,他们似乎更愿意给我们授权。」「很早就决定与行业站在一起,这并不是一个困难的决定。如果一个团队的使命是赋能艺人和音乐学习者,那么它就清楚自己必须与行业并肩工作。」"
+        },
+        {
+          "t": "p",
+          "x": "公司也在展望首款服务之外的方向。最近推出了面向Apple设备的钢琴学习应用Anything Piano。这款应用源于一个发现:相当多Songscription用户“正在学习钢琴,或者在寻找更系统的练习方法”。「目前这个版本的Anything Piano,能把任意音频转换成带指法引导的简化钢琴教程,并通过聆听用户的弹奏为其演奏提供反馈。」公司最近把名称改为Play Anything,官方说法是这体现了帮助人们学习并演奏自己喜爱曲目的更广泛使命。Songscription将作为面向创作者和作曲者的平台继续发展,而Anything Piano则将作为面向学习者和希望获得演奏反馈人群的平台继续发展。"
+        }
+      ]
     }
   }
 }

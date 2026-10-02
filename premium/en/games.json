@@ -4552,6 +4552,427 @@
           "x": "It feels like the day an impossible-seeming port lands on an early PS1 is getting closer. The trouble is that too many of these projects reach for AI instead of the straightforward approach. I'd love to play a crisp console version of Quake, but I'd rather not lend support to a tool that's eating away at the craft of development."
         }
       ]
+    },
+    "games/games-agents404-bezi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Agents 404 is a physics-based co-op stealth comedy. A crew of hopelessly clumsy assassins sneak into guarded locations, throw on ridiculous disguises, take down cartoonish villains, and then scramble to hide the evidence they leave behind. It starts from a Hitman-like premise, but the goal isn't a clean kill—it's the mess you make together."
+        },
+        {
+          "t": "video",
+          "yt": "Dduk8u_16lA"
+        },
+        {
+          "t": "p",
+          "x": "Developer PlayHero built its first prototype in about a month. On top of systems carried over from an earlier project, the team layered Bezi, an AI agent that runs directly inside Unity. They used the prototype to quickly validate the concept and cut a trailer, and it pushed past 60,000 wishlists on Steam."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49914/images/6a976fc9388c1/contain_1200x630.jpg",
+          "cap": "Agents 404 — a physics-based co-op stealth comedy"
+        },
+        {
+          "t": "p",
+          "x": "Founder Anton Slashcev points to the ragdoll system, where multiple players carry a body together, as a standout example. The team documents every feature, and Bezi helps write those documents too. Before starting a new feature, they hand it context first and write requirements from a game designer's point of view. For complex features, they also pin down technical constraints and the architecture patterns to follow."
+        },
+        {
+          "t": "p",
+          "x": "The next step is having Bezi push back. It's asked to flag what needs clarifying and to come up with improvement ideas and an implementation plan. For tricky features, the lead developer reviews that plan first. Only once the plan passes does the agent start writing code."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/53/images/6a8f7a4368450/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The line is clear. Bezi handles features that don't touch the core architecture or that already have an established implementation pattern. Anything new, complex, or sensitive to the architecture stays with the lead developer. Assets are still owned by game designers and artists, with Bezi brought in mainly to explain why something doesn't work."
+        },
+        {
+          "t": "p",
+          "x": "Some systems are walled off entirely, such as the general-purpose NPC behavior simulation—AI can only reach them through existing interfaces. Whenever AI-written code touches a sensitive area, the lead developer always reviews it. According to Slashcev, the more fragile a system—physics, co-op, stealth—the more a human needs to understand its structure. Core systems should never become a black box to the team."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/bd/images/6a9726b2c8469/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "He believes a prototype stage doesn't require serious engineering skill. Building a scalable production system is a different story. Code written by AI can also leave behind technical debt—manageable within an isolated module, but serious once it spreads across the whole system."
+        },
+        {
+          "t": "p",
+          "x": "In the early validation phase, speed comes before quality. The goal is simply to check whether an idea works and whether players respond to it. The prototype built that way gathered 120,000 wishlists in two months. In Slashcev's words, AI is an executor—sometimes even an advisor—but the decisions stay with people. Judgment calls on architecture, visual style, game design, and UX haven't gone anywhere."
+        }
+      ]
+    },
+    "games/games-ai-disclosure-bait": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "1666: Amsterdam was known as the new game from Assassin's Creed co-creator Patrice Désilets, and it took a hit when it launched with embarrassingly bad AI art. In an interview with GamesRadar, Désilets said the studio ran the plagiarism machine “mostly early on, during concepting and preproduction,” and that it's now out of the pipeline. It's a line we've heard before."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/1666.jpg",
+          "cap": "1666: Amsterdam"
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, the team behind Blood of Dawnwalker said the same thing. The vampire stealth-action game, made by former Witcher developers, comes out this week. So did Tomb Raider: Legacy of Atlantis. Its Steam page says “AI-assisted tools” were used for “early exploration and placeholder development content,” but that “any assets touched by AI were either replaced or refined by hand to preserve the team's creative and artistic vision.” Larian CEO Swen Vincke offered a similar explanation earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "One formula has already hardened. Use AI, get caught or come clean, say no AI assets made it into the final game, then add that you won't be using AI for a while. Finish with the line that it wasn't used much to begin with, so what's the problem. Then the backlash fades and it's back to business as usual."
+        },
+        {
+          "t": "p",
+          "x": "That can't be taken as absolution. It isn't an honest response to criticism, and it doesn't hold up once you look closely. Creation is a process, and it starts with ideation and concepting. Writers imagine new worlds, artists sketch their most twisted visions, designers invent genres and mechanics that didn't exist before. It's a cliché, but that's exactly the spot where AI should least be allowed in."
+        },
+        {
+          "t": "p",
+          "x": "Even if the text, images, and designs AI produced don't survive into the final game, fingerprints remain scattered throughout. Humans may have painted over it, but the underlying sketch is AI's phantom. Even if the contribution really was confined to the early stages, AI already steered the ship. It's not a specific technique but people learning how to direct AI—that same landscape has moved into game development. Past a certain point, it's worse than putting one or two ugly pictures in the game. It fills the cracks in the foundation, and everything else gets built on top."
+        },
+        {
+          "t": "p",
+          "x": "This is bait-and-switch, and it shouldn't be allowed to become the default. AI is woven into these games even when it isn't visible at any given moment. Executives and studio heads will keep saying both things at once, and that can't be left unchallenged. Words need to mean something. Otherwise, AI really does win."
+        }
+      ]
+    },
+    "games/games-bytebrew-liveops-agents": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ByteBrew has made its live-ops stack, Operate, run directly inside its real-time app intelligence MCP server, Shift AI. It's an added layer on top of a platform that already analyzes, operates, and grows mobile apps."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/09/ByteBrew_Platform_Images_with_Logo.jpg",
+          "cap": "Operate moved inside Shift AI (Image: ByteBrew)"
+        },
+        {
+          "t": "p",
+          "x": "The goal is to merge the conversation that finds a problem with the one that fixes it. A studio points out to Shift AI what needs to change, and a single message pushes a live update to users worldwide through ByteBrew's Remote Configs and A/B Tests. That makes it possible to define different experiences per cohort and ship them all at once."
+        },
+        {
+          "t": "p",
+          "x": "Co-founder and COO Kian Hozouri said in a press release, “Mobile sets the pace for digital advertising. In a market this competitive, the teams that adapt fastest keep surviving.” He added that teams can already see exactly where in a session users drop off and which offers aren't landing."
+        },
+        {
+          "t": "p",
+          "x": "What changes is speed. Updates reach every user at once instead of waiting through review that can take up to 48 hours. There's no staged rollout, no store submission, and no version fragmentation to manage later. Bundling metric assembly, config edits, experiment setup, segment building, and in-app change QA into one conversation frees up about eight hours a week."
+        },
+        {
+          "t": "p",
+          "x": "For teams where scale was the problem, the math changes. Some studios maintain 250 configs for a single app while running more than 100 titles at once. Done by hand, personalization stops being a strategy and becomes an operational burden—tweaking the first-user experience for one cohort, adjusting pricing and offers for a group with different price sensitivity, shifting low-spending users to ad-based monetization. Then measuring the results and repeating that pattern across dozens of configs."
+        },
+        {
+          "t": "p",
+          "x": "CEO Cameron Hozouri said, “Finding insights in the data is still revenue left on the table.” The next step is deploying that fix instantly to individual users—no release cycle, no app store review."
+        }
+      ]
+    },
+    "games/games-dlss5-nomanssky-mod": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nvidia's DLSS 5 keeps turning otherwise fine-looking games into AI-smoothed reality shows. This time it's Hello Games' space exploration title No Man's Sky. A fan-made clip went viral, showing that plenty of people want DLSS 5 in the game—but Hello Games itself doesn't seem interested in adding it."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/iPh5JZjpBhqEQybSWb8QXo-1920-80.jpg",
+          "cap": "No Man's Sky (Image: Hello Games)"
+        },
+        {
+          "t": "p",
+          "x": "The original post by Twitch streamer Oskar1up passed 6,000 likes and 1.8 million views. Comments praised the peach-colored sunsets and glassy waves that DLSS 5 produced—a look quite different from the subtle beauty this 2016 game is known for. The post caught the eye of Hello Games engine programmer Martin Griffiths."
+        },
+        {
+          "t": "p",
+          "x": "One user wrote that No Man's Sky was practically made for DLSS 5, arguing that the lack of human faces avoids the uncanny valley and that its heavy focus on nature and space scenes leaves plenty of room to add realism. Griffiths disagreed."
+        },
+        {
+          "t": "p",
+          "x": "“If DLSS 5 ever comes to No Man's Sky, it'll probably be my job, since I wrote the DLSS support,” Griffiths wrote on Twitter. “But adopting it is more of an art direction choice than a technical decision.”"
+        },
+        {
+          "t": "p",
+          "x": "At its Gamescom 2026 demo, Nvidia made clear this 2D generative AI filter is meant only for photorealistic games. By that standard, No Man's Sky—which has spent years building its own soft, rainbow-hued galaxies—was never the intended target."
+        },
+        {
+          "t": "p",
+          "x": "Intent and reality don't match. Users dug into NBA 2K27's files to build their own DLSS 5 toggle, and this unofficial route made No Man's Sky look like it had been filled with jelly. A line from Griffiths sums up the question: “It's not about whether you can. It's about whether the image gets better, or whether it starts eroding what makes No Man's Sky look and feel like itself.”"
+        }
+      ]
+    },
+    "games/games-steam-slop-backlash": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vapor World: Over The Mind blends Soulslike combat with Metroidvania exploration. Its painterly art style brings to mind Lies of P or Playdead's narrative platformers. According to Korean studio Alive Inc, it had 100,000 wishlists just before its Early Access launch on August 19. A demo kept open since January 2025 did a lot of that work."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/VXDPYxPTqdUPBSkvhENZXE-1480-80.webp",
+          "cap": "Vapor World: Over The Mind (Image: Alive Inc)"
+        },
+        {
+          "t": "p",
+          "x": "The launch fell apart fast. Neither its distinctive world nor its parry-focused combat generated buzz. Attention went instead to one thing missing from the demo: AI use that was impossible to miss."
+        },
+        {
+          "t": "p",
+          "x": "Steam's “most helpful” review put it this way: “I watched the first cutscene, which happens before gameplay even starts, and the generative AI they used couldn't even keep the main character's model consistent.” It added that the gameplay in the trailer looked fun, but that the reviewer supports people, not robots."
+        },
+        {
+          "t": "video",
+          "yt": "AxLikQwnHWw"
+        },
+        {
+          "t": "p",
+          "x": "64 reviews currently sit at “Mostly Negative.” That's a painful outcome for a studio with roughly five employees. It's possible they misread the room. In a Pew Research Center survey, South Korea came out as the least skeptical of AI among 25 countries surveyed. In the U.S., Italy, Australia, and Brazil, roughly half of respondents leaned toward concern over excitement about AI in daily life, but in South Korea that figure was just 16 percent."
+        },
+        {
+          "t": "p",
+          "x": "Studio director Young Kim's apology carries a note of bewilderment. He said the AI cutscene would be replaced within the weekend, and it was. “We chose AI because we believed it could reach a level of expression our existing resources couldn't, and that it would let us focus more on the game itself, outside the story and cinematics,” he wrote. He called that a hasty judgment. He said he expected some disappointment but didn't expect it to grow this large."
+        },
+        {
+          "t": "p",
+          "x": "The cutscene had originally been made in-engine and later swapped for an AI version, and the team didn't notice the gap in quality that created. Alive Inc now joins a list that includes Larian Studios and Sandfall Interactive—studios that walked back AI use after a strong backlash. Vapor World isn't wall-to-wall slop; the work put into the core game still shows on screen. But choosing generative AI to cut corners is something audiences, at least right now, aren't willing to forgive."
+        }
+      ]
+    },
+    "games/games-ai-panic-forcing-developers-prove": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Last week, the reveal trailer for the civilization strategy game Humankind 2 debuted during Gamescom's Opening Night Live. Almost immediately, talk spread online that part or all of the trailer looked like it had been made with AI tools. The developer denied it and released an extended behind-the-scenes video showing how it was shot using real sets and people."
+        },
+        {
+          "t": "p",
+          "x": "The video Amplitude Studios released on September 4 runs 1 minute and 30 seconds. As it states at the top, this behind-the-scenes reveal came in response to online reactions calling the trailer AI slop. Amplitude says no AI generation tools were used in any part of the trailer. Instead, it mixed real people, animals, and sets with CG visuals and effects."
+        },
+        {
+          "t": "video",
+          "yt": "acJyM3ZK6nI"
+        },
+        {
+          "t": "p",
+          "x": "The developer of Humankind 2, due out in 2027, said it worked with BETC, the creative agency behind several trailers for the original Humankind. Filming took place on “several practical sets designed to represent different eras,” each with its own costumes, props, lighting, and acting. BETC also collaborated with CGI/VFX studio LiveFX to “enhance” the trailer with elements like CG tornadoes and explosions."
+        },
+        {
+          "t": "p",
+          "x": "BETC creative director Benjamin Le Breton said in a press release: “Our ambition was to condense the breadth of human history into 73 seconds without losing its emotional weight. Rather than tell a story about civilization, we wanted audiences to experience it. Seeing the world through the eyes of a newborn let us move across nine eras, and it's a reminder that every generation inherits the legacy of the one before it while also getting the chance to redefine the future.”"
+        },
+        {
+          "t": "p",
+          "x": "So why did so many people assume it was AI-generated? There are a few likely reasons. Somewhat stiff first-person shots in the trailer, along with a hazy look applied in post, probably tripped people up. Plenty of viewers likely watched it only on their phones, where small screens make it hard to pick out detail. That combined with a broader anxiety that everything in front of us might be AI slop, at a Gamescom that actually featured several games made with generative AI."
+        },
+        {
+          "t": "p",
+          "x": "I haven't hidden in this space that I dislike AI-generated content. Still, it's worth being careful about throwing around accusations without solid evidence or verification. If we call everything that looks a little rough, blurry, or just not great “AI slop,” the real slop gets an easier pass, and the people who put real work into making something real end up getting hurt for no reason."
+        }
+      ]
+    },
+    "games/games-modder-enables-dlss-5-neural": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Someone managed to get the latest DLSS 5 running on an AMD RDNA 4 GPU using a single executable."
+        },
+        {
+          "t": "p",
+          "x": "Over the past few days, DLSS 5 has shown up unofficially in several games beyond its official implementation in NBA 2K7. Modders and enthusiasts have gotten DLSS 5 neural rendering working even on older GPUs like the RTX 40, RTX 30, and RTX 20 series. NVIDIA has said it will eventually extend support to the RTX 40 series, but for now it's locked to the RTX 50 series."
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5 neural rendering currently uses FP8 in its real-time model, which means there's no technical reason it couldn't run on the latest-generation GPUs. That raised the question of whether it could also work on AMD RDNA 5 GPUs, which support FP8 in hardware. It turned out it could: one modder actually got it running on the RX 9000 series."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-5-on-AMD-File-Requirements.jpg",
+          "cap": "The list of required files"
+        },
+        {
+          "t": "p",
+          "x": "A video posted by Ancient Gameplays confirms that this workaround functions. It shows DLSS 5 NR being turned on in games like Cyberpunk 2077 on their own Radeon RX 9070 XT. The process is simple: drop the “dlssnr_on_amd_setup.exe” file into the game's bin\\x64 folder, as with Cyberpunk 2077, and place the “nvngx_dlssnr.dl” file in the same folder."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/DLSS-5-AMD-process-728x376.jpg",
+          "cap": "The installation process"
+        },
+        {
+          "t": "p",
+          "x": "Running the executable walks you through a few basic prompts. Then you launch the game and enable FSR 3 or FSR 4. Pressing the End key brings up the overlay, and running the executable again lets you choose “update” (U) or “remove” (R) to turn DLSS 5 NR on or off in the game."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Cyberpunk-2077-RX-9070-XT-DLSS-5-Off-scaled.jpg",
+          "cap": "DLSS 5 Off"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Cyberpunk-2077-RX-9070-XT-DLSS-5-On-scaled.jpg",
+          "cap": "DLSS 5 On"
+        },
+        {
+          "t": "p",
+          "x": "As shown in the video, Cyberpunk 2077 ran above 80fps on the RX 9070 XT without DLSS 5 NR, but dropped to 11-12fps once NR was turned on. With no optimization in place, it eats heavily into performance. Still, the modder has kept pushing out new versions, and alpha v0.2.7 boosts performance by 12%, delivering 30fps in Cyberpunk 2077 at 1080p. The modder also says the same method gets GTA V: Enhanced running on the RX 9070 XT."
+        },
+        {
+          "t": "video",
+          "yt": "MQ-flbvMflY"
+        }
+      ]
+    },
+    "games/games-artstation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/09/ArtStation_Blog_Header.webp"
+        },
+        {
+          "t": "p",
+          "x": "ArtStation has long established itself as a leading space for professional artists to showcase their work and post portfolios. If you know a game artist, odds are good their portfolio lives on this site too. In this writer's experience covering art at Kotaku for more than a decade, 90 to 95 percent of the portfolio links featured were ArtStation pages rather than personal websites."
+        },
+        {
+          "t": "p",
+          "x": "That said, ArtStation's reputation as an operator has not always been good. While under Epic Games, users once staged a mass protest over the site's inaction as AI-generated images flooded the platform, and after Russia's 2022 invasion of Ukraine, allegations repeatedly surfaced that management was removing pro-Ukraine artwork."
+        },
+        {
+          "t": "p",
+          "x": "Last month, however, the site was sold. Epic Games, which had been gradually unwinding the sites it had bought up indiscriminately with Fortnite money, announced on August 10 that it had handed ArtStation over to Kitbash. Kitbash is the company behind the 3D asset platform Kitbash3D and Greyscalegorilla."
+        },
+        {
+          "t": "p",
+          "x": "The first thing the new management did was publish a statement titled 「ArtStation should put artists first.」 It acknowledged that the company had been lax about protecting artists' work from scraping by AI companies and that more needed to be done so AI-generated content doesn't clutter search and discovery features. To that end, it decided to change some default toggles, tags, and settings."
+        },
+        {
+          "t": "p",
+          "x": "For a new owner's announcement, it is fairly encouraging content, and words users have long been waiting to hear. Still, there is a frustrating side to it. Given that the site has presumably already been endlessly scraped over the past three years, it is hard to shake the impression of closing the barn door after the horse has bolted."
+        },
+        {
+          "t": "p",
+          "x": "Watching professional artists' reactions on social media over the past week, they stayed somewhere between 「finally」 and 「late but welcome.」 That is an understandable response. ArtStation's reputation has taken a serious hit in recent years, and alternatives like Cara have emerged in the meantime. This statement is clearly a step forward from the Epic Games era, but there still seems to be a long way to go before the trust that was lost can be won back."
+        }
+      ]
+    },
+    "games/games-dlss5-kcd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rTBSuGGDXhUBQ4VysuHrcN-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The controversy surrounding DLSS 5 has several strands, to the point that people are calling it AI slop. The most notorious of these is its distinctively strange look. Real concerns have emerged over whether a technology that alters aesthetics this drastically can preserve a developer's original artistic intent, and NVIDIA has been working to defend public opinion on this point."
+        },
+        {
+          "t": "p",
+          "x": "Daniel Vávra, who directed both entries in the Kingdom Come: Deliverance series, has jumped back into this debate, this time on the side of DLSS 5. Last Sunday, he wrote on X that some critics were 「completely out of their minds」 and posted before-and-after comparison images from KCD2, arguing that the technology actually helped realize his team's vision."
+        },
+        {
+          "t": "p",
+          "x": "He explained that 「the left is a broken face because the game engine's limited lighting system fails to properly render shadows, skin texture, and normal map detail,」 and that detail improved in the DLSS 5 version. He stressed that 「the helmet not casting a shadow on the face and the normal map rendering being a mess was never our intended artistic vision.」"
+        },
+        {
+          "t": "p",
+          "x": "Still, it should be noted that concerns over AI touching up art are not purely a technical question of whether the result can be made cleaner. An AI would likely have cleanly edited out the moment Paul McCartney hits a wrong chord and swears in Hey Jude, yet most would agree that small mistake actually made the song better. Flaws like that leave a human touch on a work. Even so, pushback quickly followed on X that Vávra's claim was hard to see as an improvement."
+        },
+        {
+          "t": "p",
+          "x": "X user Goosewasinuse wrote in a quote repost that 「this doesn't look that bad, and I get why Dan is saying this,」 but added that 「the point is that in chasing realism, the character was made so overly shiny it just looks weird.」 An account called Knight(Fate)1029384756 also jabbed, 「it's not my fault you didn't put in the effort to make it better. Didn't you just hand artistic judgment over to a machine that can't think instead?」"
+        },
+        {
+          "t": "p",
+          "x": "Warhorse Studios' relationship with AI remains contentious. Earlier this year, Max Heitmánek, who had been the English-language editor for Kingdom Come: Deliverance 2, publicly stated that he was laid off so he could be replaced by AI."
+        }
+      ]
+    },
+    "games/games-dlss5-mods": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Feature-Image-5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A leaked implementation of DLSS 5 neural rendering keeps spreading beyond the scope NVIDIA officially announced. Modders are now working with older RTX GPUs, games that don't support DLSS, legacy graphics APIs, and even emulators."
+        },
+        {
+          "t": "p",
+          "x": "Just days after NVIDIA's experimental DLSS 5 neural rendering runtime leaked via NBA 2K27, the PC modding community moved a big step closer to running the technology in places it was never meant for. It was originally meant for the RTX 40 series, but now it also works on the older RTX 30 and 20 series and is even reaching into emulators. NVIDIA itself has so far only demonstrated DLSS 5 exclusively on the RTX 50 series, with an official launch planned for this fall."
+        },
+        {
+          "t": "p",
+          "x": "It was previously reported that the leaked neural rendering model technically ran on the RTX 3080 as well, but calling the early implementation 「playable」 was a stretch. In Deep Rock Galactic, X user @flovreq found that turning on DLSS 5 dropped the frame rate from roughly 138 to just 4. The core of the problem was that the leaked build was built for FP8 computation, which the RTX 20 and 30 series were not designed to accelerate as well as the newer architectures."
+        },
+        {
+          "t": "p",
+          "x": "But things changed quickly. According to X user @DystopianSuns, the community is now running DLSS 5 on RTX 20 and 30 GPUs using an FP16 approach, which fits the Turing and Ampere architectures far better than the earlier FP8 approach."
+        },
+        {
+          "t": "p",
+          "x": "What's more interesting is that this technology can now be used even in games that never supported DLSS to begin with. @DystopianSuns recently demonstrated DLSS 5 running on Batman: Arkham Knight, a DirectX 11 game that doesn't support DLSS at all. The method works by having the DLSS5-Feeder project and ShortFuse's new RenoDX work process depth and motion vector data pulled from ReShade into the form neural rendering requires, then handing it off to the actual DLSS computation."
+        },
+        {
+          "t": "p",
+          "x": "The compatibility list has already grown surprisingly wide. DLSS5-Feeder has successfully been tested on Metro 2033 Redux, Splinter Cell: Blacklist, BioShock Remastered, Fable Anniversary, and even the Vulkan version of Doom (2016). ShortFuse's new RenoDX add-on natively supports 64-bit D3D9, D3D11, and D3D12 games, while Feeder handles Vulkan and 32-bit games."
+        },
+        {
+          "t": "p",
+          "x": "Emulators are not exempt either. @DystopianSuns demonstrated running Manhunt on the PS2 emulator PCSX2 with DLSS 5 neural rendering applied. The fact that the leaked model is already reaching emulated PlayStation 2 games shows clearly where this modding trend is headed."
+        },
+        {
+          "t": "p",
+          "x": "Of course, this should not be mistaken for official NVIDIA support. The leaked DLSS 5 runtime is still unfinished, performance overhead can be severe, motion vector reconstruction is imperfect, and compatibility varies widely, including HUD elements getting mixed in with the game image. Even so, in less than a week, DLSS 5 has spread from an experimental DLL exclusive to the RTX 50 series into a technology spanning four generations of RTX cards, decade-old DX11 and DX9 games, Vulkan games, and even console emulators."
+        }
+      ]
+    },
+    "games/games-dwarf-fortress": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7HZXqceMZSFKyTWajLVHaK-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dwarf Fortress is a game with a seemingly endless capacity for generating stories. Because it is built on procedural generation, anyone who has played it for a long time can rattle off some absurd incident that happened to their band of miners."
+        },
+        {
+          "t": "p",
+          "x": "Just look at the headline of an article by Lincoln Carpenter at PC Gamer: 「Dwarf Fortress forensics team blames mysterious spontaneous human combustion on an artifact that suddenly remembered it's four times hotter than the surface of the sun.」 That is beautiful."
+        },
+        {
+          "t": "p",
+          "x": "That one example alone disproves the notion that generative AI is the first thing capable of endlessly generating stories, since Dwarf Fortress has been doing that without a single LLM. In the end, it means that if you want infinite stories, it's better to hand people the tools to make them rather than a finished product."
+        },
+        {
+          "t": "p",
+          "x": "Speaking with PC Gamer's Joshua Wolens at Gamescom 2026, co-creator Tarn Adams explained his standard for deciding which simulations are worth adding to the game: 「You play it and go, oh, that's nice, that was a good moment, and it feels like a little narrative is forming — that's when you know it's going to work.」"
+        },
+        {
+          "t": "p",
+          "x": "Adams gave the example of a rude dog bursting into a meeting of dwarf lawyers and biting someone, nothing particularly strange by Dwarf Fortress standards. Asked why we feel attached to stories that emerge by chance from systems like this, but not to AI slop, which hasn't yet produced a single story people actually like, Adams answered as follows."
+        },
+        {
+          "t": "p",
+          "x": "「Well, the reason you like a story made by a human is because you're human too. What another human went through has shared experience, even on a very basic level, so it resonates.」"
+        },
+        {
+          "t": "p",
+          "x": "「You can't always tell the difference,」 Adams admitted. 「Isn't that the whole trap? That's basically what the Turing test is — can you spot whether there's a human spark in there. And if you, a human, get fooled by a robot in a Turing test, that might be a credit to the robot or a failure on your part. I don't know which, but over the next few years we're all going to be surrounded by this stuff and tested pretty brutally.」"
+        },
+        {
+          "t": "p",
+          "x": "It's an interesting way to view the Turing test, not as whether a computer behaves as intelligently as a human, but as whether a computer can reproduce that distinctly human 「spark.」 It might sound a bit sentimental, but that part feels like the key to actually enjoying art."
+        },
+        {
+          "t": "p",
+          "x": "That seems to be where Dwarf Fortress's procedurally generated stories get interesting too. Even if a computer randomly creates the narrative, the way it's described still carries a human touch. Just listing the events would have been unbearably dull, but phrased the way Lincoln did, it makes you laugh. These small, ridiculous dwarves end up turning all of us into writers."
+        }
+      ]
     }
   }
 }

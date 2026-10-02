@@ -4387,6 +4387,368 @@
           "x": "Los investigadores ven el diseño inverso como el siguiente paso: fijar las propiedades electrónicas deseadas y dejar que la IA determine y construya por sí misma la estructura necesaria. Es un paso hacia los qubits topológicos, la unidad básica de las computadoras cuánticas ultraestables. Narasimha dijo: 「Creemos que este enfoque acelerará nuevos avances en la comprensión de los estados cuánticos y en tecnologías futuras.」"
         }
       ]
+    },
+    "science/science-ai-experiment-design": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La investigación consiste en hacerle preguntas al universo. Durante siglos, mentes ingeniosas han impulsado la ciencia diseñando experimentos para que los resultados revelen las leyes de la naturaleza con la mayor claridad y sin ambigüedad posible."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo internacional de investigación preguntó si este proceso podía automatizarse. La respuesta fue un sí claro. En varios campos de la física, la IA propuso experimentos que arrojaron resultados más precisos que los diseñados por humanos. El estudio se publicó en Nature."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/artificial-intelligenc-23.jpg",
+          "cap": "¿Cómo convertir los componentes que se tienen a mano en el experimento correcto? Crédito: TU Wien"
+        },
+        {
+          "t": "p",
+          "x": "Una situación típica en física experimental es esta: un laboratorio está lleno de láseres, lentes, espejos y toda clase de detectores y componentes electrónicos. El número de formas de combinarlos es prácticamente incontable. Elegir, entre esa vasta posibilidad, la combinación que revele un nuevo hallazgo suele requerir intuición y mucha experiencia."
+        },
+        {
+          "t": "p",
+          "x": "A veces ni eso basta. Mario Krenn, hoy profesor de aprendizaje automático científico en la Universidad de Tubinga, lidiaba con un montaje de experimento cuántico cuando era estudiante en Viena. Nadie en el laboratorio lograba encontrar una disposición que mostrara el efecto cuántico buscado."
+        },
+        {
+          "t": "p",
+          "x": "Krenn decidió preguntarle a una computadora. Tras describir matemáticamente los componentes disponibles, hizo que un algoritmo buscara combinaciones que formaran un experimento con sentido. “Programarlo tomó solo unas horas. Luego me fui a casa y dejé la computadora encendida. Al llegar a la oficina al día siguiente, el programa había generado un archivo con la respuesta”, relató. A diferencia de cualquiera de nosotros, la computadora ya había encontrado una disposición que cumplía las condiciones."
+        },
+        {
+          "t": "p",
+          "x": "Este método tiene poco parecido con los grandes modelos de lenguaje. Los chatbots aprenden de enormes cantidades de datos para producir respuestas estadísticamente plausibles. Encontrar un nuevo experimento de física es un problema de otra naturaleza. “Es un problema de optimización enorme”, explica Krenn. El espacio de experimentos posibles que se pueden construir con un conjunto de componentes es abrumadoramente grande, así que una computadora debe explorarlo de forma sistemática para llegar a la mejor solución."
+        },
+        {
+          "t": "p",
+          "x": "Philipp Haslinger, jefe del centro de microscopía electrónica de TU Wien, calificó los resultados de impresionantes. “Sobre todo en microscopía electrónica, apenas estamos empezando a explorar de forma sistemática el entrelazamiento y nuevos conceptos de microscopios cuántico-mecánicos. La intuición humana todavía es bastante limitada en esta área”, dijo. La IA también identifica diseños de microscopios que producen imágenes mucho mejores de las que una persona habría imaginado, o que abren mediciones completamente nuevas."
+        },
+        {
+          "t": "p",
+          "x": "El mismo enfoque ya ha llevado a mejoras en reactores de fusión, ideas para detectores de partículas y propuestas que aumentan la sensibilidad de los detectores de ondas gravitacionales. Krenn dice que a veces queda claro de inmediato por qué el diseño de la computadora es mejor, y otras veces solo se confirma que es mejor computacionalmente, sin que sea fácil explicarlo con palabras."
+        },
+        {
+          "t": "p",
+          "x": "La meta que él imagina es una especie de simulador físico universal. Con un puñado de ecuaciones fundamentales de la física ya se puede llegar bastante lejos. La idea es que una computadora use esas ecuaciones para predecir qué ocurrirá en una disposición dada, y luego ajuste el dispositivo hacia el objetivo deseado."
+        },
+        {
+          "t": "p",
+          "x": "Definir el objetivo sigue siendo tarea humana. Hay que especificar con la mayor precisión posible qué se quiere y qué restricciones aplican, como un tope de costo o el límite de energía que un dispositivo puede absorber sin romperse. Al preguntarle si no le da pena cederle a una computadora el momento del gran descubrimiento, Krenn respondió que no, tajante. “El trabajo humano simplemente sube un nivel”, dijo. Así como nadie quiere volver a la época de calcular a mano, usar esta herramienta sigue exigiendo experiencia, creatividad y sentido de la física."
+        }
+      ]
+    },
+    "science/science-fda-genai-pilot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mientras la Administración de Alimentos y Medicamentos de EE. UU. (FDA) lidia con cómo regular los dispositivos médicos que usan IA generativa para tomar decisiones clínicas, ha permitido temporalmente que algunos desarrolladores lancen sus productos al mercado antes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_1767433801-1024x576.jpeg",
+          "cap": "La FDA experimenta con la regulación de dispositivos médicos de IA generativa. Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Cuatro dispositivos han sido aceptados recientemente en el programa piloto TEMPO. Entre ellos están productos de IA de Cadence y Limbic. Entrar en el programa permite lanzar el producto sin autorización de comercialización."
+        },
+        {
+          "t": "p",
+          "x": "La FDA creó este programa piloto para ampliar las tecnologías disponibles para el Modelo Medicare ACCESS, un experimento que paga por tecnología que gestiona enfermedades crónicas. Al mismo tiempo, es un espacio donde tanto reguladores como empresas pueden probar la regulación de la IA sobre el terreno."
+        },
+        {
+          "t": "p",
+          "x": "Lo que queda como pregunta abierta es hasta dónde se puede postergar la supervisión a cambio de velocidad."
+        }
+      ]
+    },
+    "science/science-male-fly-connectome": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Research, junto con el HHMI Janelia Research Campus y varias instituciones colaboradoras, publicó un diagrama de cableado de todo el cerebro y el sistema nervioso central de una mosca de la fruta macho. Por número de neuronas, es el mapa cerebral más grande producido hasta ahora."
+        },
+        {
+          "t": "p",
+          "x": "La mosca de la fruta es un material de investigación que ha generado varios premios Nobel. Su comportamiento estereotipado y su ciclo de vida corto la han convertido en un organismo modelo básico de la genética. Mapear los 86.000 millones de neuronas del cerebro humano todavía es imposible, así que los científicos usan IA para empezar por cerebros más pequeños."
+        },
+        {
+          "t": "p",
+          "x": "El resultado de una investigación conjunta de una década se publicó en la revista Cell. Contiene más de 166.000 neuronas y 125 millones de conexiones sinápticas."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/Male-Fruit-Fly-Brain-Map-1.width-1250.png",
+          "cap": "Parte de las células del cerebro y el sistema nervioso central de una mosca de la fruta macho, vistas desde un ángulo frontal oblicuo (izquierda) y desde arriba (derecha)."
+        },
+        {
+          "t": "p",
+          "x": "Este conectoma incluye también el cordón nervioso ventral, el equivalente de la médula espinal en la mosca. Un mapa que antes solo cubría el cerebro ahora se extiende a la relación entre cerebro y cuerpo. La anotación y verificación las hicieron a mano expertos del HHMI Janelia. La versión terminada puede verse y descargarse con Neuroglancer, una herramienta de código abierto creada por Google."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/Male-Fruit-Fly-Brain-Map-2.width-1250.jpg",
+          "cap": "El nuevo conectoma, formado por neuronas del cerebro central (verde), los lóbulos ópticos (morado) y el cordón nervioso ventral (azul)."
+        },
+        {
+          "t": "p",
+          "x": "Emparejado con el mapa cerebral de la mosca hembra publicado antes, ahora permite comparar directamente dónde se separan las neuronas de machos y hembras, una pista para investigar los mecanismos biológicos del cortejo y la conducta agresiva. En las regiones donde machos y hembras son similares, también permite observar la variación entre individuos."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/Male-Fruit-Fly-Brain-Map-3.width-1250.png",
+          "cap": "Neuronas que se desarrollaron de forma distinta en machos (verde) y hembras (magenta). El lado macho tiene dos ramificaciones más."
+        },
+        {
+          "t": "p",
+          "x": "La conectómica consiste en cortar el cerebro en millones de secciones delgadas, fotografiar cada una y luego volver a unirlas con computadoras e IA. Las redes de inundación por relleno que usa el equipo de Google son redes neuronales convolucionales que parten de un solo píxel y encuentran todos los píxeles que pertenecen al mismo objeto. La reconstrucción totalmente automática del cerebro de la mosca hembra en 2019, y el mapa de media hembra con 25.000 neuronas y 21 millones de conexiones verificadas a mano en 2020, están sobre esa misma trayectoria."
+        },
+        {
+          "t": "p",
+          "x": "Más recientemente, mezclar neuronas sintéticas en los datos de entrenamiento mejoró a la vez la velocidad y la precisión del sistema de reconstrucción PATHFINDER. Incluso hoy, verificar y anotar un solo mapa cerebral de mosca toma años. Ese trabajo manual tiene que reducirse para poder abordar cerebros más grandes."
+        },
+        {
+          "t": "p",
+          "x": "El siguiente objetivo son los vertebrados. En una investigación liderada por la Universidad de Columbia, el equipo de Google mapeó la región de procesamiento de señales del cerebro posterior de un pez elefante, con resultados publicados en Nature. Un artículo en preparación con Harvard presenta el primer conjunto de datos de un vertebrado que combina toda la estructura neuronal y los tipos de células moleculares del cerebro de un pez cebra larval."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/Male-Fruit-Fly-Brain-Map-4.width-1250.png",
+          "cap": "Una imagen del conjunto de datos Fish Fire&Wire, que combina la actividad cerebral completa y la estructura neuronal de un solo pez cebra."
+        },
+        {
+          "t": "p",
+          "x": "Modelar los 86.000 millones de neuronas del cerebro humano sigue estando lejos. Aun así, tres artículos derivados publicados junto con el conectoma de la mosca macho ya se están usando en investigaciones sobre visión, gusto y conducta social."
+        }
+      ]
+    },
+    "science/science-silicon-subjects": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sustituir a los participantes humanos por representantes de IA, los llamados gemelos digitales, en la investigación conductual ha sido durante mucho tiempo un deseo de algunos científicos sociales. Las personas son costosas, se cansan fácilmente y, en algunos estudios, llegan a sufrir angustia psicológica."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/090226_SG_digitaltwin_main.jpg",
+          "cap": "Los gemelos digitales, sugieren los resultados, deben usarse con cautela. Qi Yang/Moment/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio publicado el 2 de septiembre en Science Advances dice que ese deseo necesita más tiempo. Los gemelos de IA construidos para imitar el comportamiento de una persona específica distorsionaron, en cambio, sus opiniones. Los investigadores llamaron a esto el efecto “espejo de feria”."
+        },
+        {
+          "t": "p",
+          "x": "Olivier Toubia, científico social computacional de la Columbia Business School, dice que “hay algo de promesa”, aunque el desempeño de los gemelos resultó, en general, algo decepcionante."
+        },
+        {
+          "t": "p",
+          "x": "La base es un conjunto de datos que el equipo de Toubia reportó el año pasado en Marketing Science. El equipo reunió a más de 2.000 personas de todo Estados Unidos y les hizo responder más de 500 preguntas sobre edad, raza, ingresos, educación, vida religiosa, orientación política, rasgos de personalidad, hábitos de consumo, habilidad numérica y vocabulario. Incluyeron muchas escalas habituales en la investigación de psicología, economía y administración, junto con pruebas en línea que miden patrones de pensamiento y sesgos. Este material, convertido en un conjunto de datos público, se ha descargado unas 25.000 veces hasta ahora."
+        },
+        {
+          "t": "p",
+          "x": "Este estudio construyó los gemelos introduciendo toda la información de cada persona en un modelo de lenguaje grande e indicándole que respondiera como esa persona. A lo largo de 19 experimentos de ciencias sociales, enfrentó a personas y gemelos en temas que van desde cómo ven a quienes donan tanto a candidatos republicanos como demócratas hasta cómo “piensan” sobre la contratación algorítmica."
+        },
+        {
+          "t": "p",
+          "x": "Los gemelos superaron al azar, pero se equivocaron en promedio una de cada cuatro veces, un nivel similar al de chatbots que solo recibieron información demográfica. Donde sí superaron a los modelos que solo conocían la demografía fue en capturar la variación real entre personas. Ante dos personas que calificaron su propio autocontrol con 2 y 4 puntos, un modelo con poca información reduce a ambas a 3, mientras que el gemelo produce 3 y 5. Sigue siendo incorrecto, pero la diferencia dentro del grupo se conserva mejor."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores señalaron varias distorsiones detrás del desempeño más débil. Las respuestas de los gemelos fueron más homogéneas que las humanas y se inclinaron hacia estereotipos demográficos. La precisión aumentaba entre los participantes más ricos y con más educación. También mostraron un sesgo hacia confiar más en los demás y preocuparse menos por las amenazas tecnológicas. Sobre todo, fueron más racionales que los humanos."
+        },
+        {
+          "t": "p",
+          "x": "Hadi Hosseini, investigador de IA y economista de Penn State, vio algo parecido al analizar decisiones médicas que toman agentes de IA cuando los recursos son escasos. “Los LLM distorsionan el juicio humano en una dirección muy particular, hacia ser mucho más racionales y razonables que las personas reales.”"
+        },
+        {
+          "t": "p",
+          "x": "Hay margen para corregirlo. Hosseini señala que el estudio usó “un conjunto de preguntas muy estático” y considera que los datos mejorarían con métodos más dinámicos, como un chatbot que acompañe a una persona durante un día o converse con ella regularmente. Toubia planea probar métodos de entrenamiento más sofisticados."
+        },
+        {
+          "t": "p",
+          "x": "No carece por completo de utilidad. Las personas cansadas responden con una frase y se detienen, mientras que los gemelos no se cansan y producen respuestas largas. También sirven para probar diseños experimentales con gemelos antes de aplicarlos a personas reales. Aun así, Toubia pide humildad. Los científicos sociales suelen creer que las escalas y encuestas capturan toda la experiencia humana, pero predecir el comportamiento humano con máquinas sigue siendo extremadamente difícil. “Las expectativas sobre los datos sintéticos deben ser realistas.”"
+        }
+      ]
+    },
+    "science/science-weathernext3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El clima afecta miles de millones de decisiones cada día. Algunas son pequeñas, como si llevar o no un paraguas al salir. Pero fenómenos extremos como el viento, la lluvia, las olas de calor y la sequía repercuten en la agricultura, las cadenas de suministro globales, la producción de energía limpia y las economías nacionales."
+        },
+        {
+          "t": "p",
+          "x": "En los últimos años, la IA ha transformado la predicción meteorológica al aprender de registros históricos para producir pronósticos más rápidos y precisos que los métodos tradicionales. Lo que quedaba sin resolver era el clima que cambia rápido en áreas pequeñas. Los modelos anteriores carecían de resolución espacial y tenían dificultades para incorporar observaciones en tiempo real, como las de satélite."
+        },
+        {
+          "t": "p",
+          "x": "WeatherNext 3, presentado por Google DeepMind y Google Research el 3 de septiembre, apunta justo a eso. En evaluaciones en tiempo real del evaluador independiente Brightband, obtuvo la precisión más alta entre todos los modelos meteorológicos globales publicados hasta ahora. Aprende directamente de observaciones en tiempo real y produce pronósticos horarios de alta resolución a partir de datos satelitales sin procesar."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
+          "cap": "La imagen del título de WeatherNext 3, situada sobre las nubes."
+        },
+        {
+          "t": "p",
+          "x": "Empecemos por la resolución. Indicadores clave como la temperatura y la humedad se representan en una cuadrícula de 5 km, otros indicadores en 10 km, y variables atmosféricas como la velocidad del viento en 25 km. Es aproximadamente cinco veces más nítido que WeatherNext 2, el modelo anterior, que generaba una cuadrícula de 25 km cada seis horas."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_diagrams_fig-01.width-1200.format-webp.webp",
+          "cap": "Un diagrama de la arquitectura del sistema WeatherNext 3."
+        },
+        {
+          "t": "p",
+          "x": "El mayor cambio está en el material de entrenamiento. La mayoría de los modelos meteorológicos de IA, incluido WeatherNext 2, se alimentan de datos generados por modelos de predicción numérica del tiempo (NWP). Ese enfoque, que simula la física en supercomputadoras, conlleva un retraso de datos de seis horas e introduce sesgos en variables que cambian rápido, como la lluvia o la temperatura de la superficie. WeatherNext 3 recibe directamente los mosaicos que transmiten en tiempo real los satélites geoestacionarios y produce un pronóstico nuevo cada hora."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/WeatherNext3_diagrams_fig-02_56sxldb.mp4"
+        },
+        {
+          "t": "p",
+          "x": "También aprende directamente de datos de estaciones terrestres dispersas y escasas. Eso es lo que hace posible un pronóstico global de 5 km que tiene en cuenta el terreno. Esto importa especialmente para América Latina, África y Asia-Pacífico, regiones que habían quedado fuera de los pronósticos de alta resolución por el costo en supercomputación de ejecutar modelos regionales."
+        },
+        {
+          "t": "p",
+          "x": "También se añadieron nuevos pronósticos para energía renovable. Produce la velocidad del viento a 100 m, la altura de los rotores de las turbinas eólicas, junto con cobertura de nubes de alta resolución e irradiancia solar para estimar cuánta luz recibirán las plantas solares."
+        },
+        {
+          "t": "p",
+          "x": "La precipitación siempre ha sido un punto débil de los modelos globales. Entrenado con el producto satelital IMERG de la NASA y con sus propios datos de reanálisis de precipitación por radar satelital, el modelo mejoró la puntuación de probabilidad continua clasificada (CRPS) en pronósticos de mediano plazo hasta un 60% frente a IMERG, un 30% frente a MRMS y un 10% frente a observaciones de pluviómetros en la ventana de pronóstico temprana."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_diagrams_fig-03.width-1200.format-webp.webp",
+          "cap": "Comparación de pronósticos de probabilidad de precipitación. A la izquierda, WeatherNext 2; en el centro, WeatherNext 3; a la derecha, observaciones satelitales."
+        },
+        {
+          "t": "p",
+          "x": "A partir de este día, se incorpora de forma progresiva a la Búsqueda de Google, la app de Gemini, Google Maps y la API de clima de Maps Platform, y Earth Engine. La precisión del pronóstico de precipitación mejora hasta un 50% al mirar más de un día hacia adelante."
+        }
+      ]
+    },
+    "science/science-ai2-hard-parts": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La IA ya ayuda con buena parte del trabajo científico: rastrea literatura, analiza datos, escribe código, formula y pone a prueba hipótesis. La parte difícil está en otro lugar: construir sistemas que los científicos puedan seguir dirigiendo a medida que, con el avance de la investigación, cambian las hipótesis que persiguen o los experimentos que ejecutan."
+        },
+        {
+          "t": "p",
+          "x": "Un evento celebrado en Ai2 el 27 de agosto abordó ese problema. Fue una ocasión para ampliar la colaboración con el Paul G. Allen Research Center del Providence Swedish Cancer Institute. Tomando como punto de partida la investigación sobre cáncer surgida de esa colaboración, se señaló qué le falta a la IA científica actual, y a lo largo de las presentaciones y los paneles surgieron de forma recurrente cinco cuestiones."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1788277424-panelists.jpg?fit=max&w=1400&fm=jpg",
+          "cap": "Debate en panel durante el evento. Foto: Ai2"
+        },
+        {
+          "t": "p",
+          "x": "La primera es dejar espacio para el criterio humano. Bodhisattwa Prasad Majumder llamó 'gusto científico' al juicio que separa los resultados interesantes de los triviales o ya conocidos. Los sistemas actuales no pueden hacer esa distinción por sí mismos. Incluso AutoDiscovery solía producir hipótesis estadísticamente sorprendentes pero sin sentido biológico o clínico, y solo resultaba útil una vez que los investigadores añadían conocimiento del dominio."
+        },
+        {
+          "t": "p",
+          "x": "La segunda es la capacidad de dirección. Los planes se tambalean cuando un experimento produce un resultado inesperado o aparece un nuevo artículo. Majumder considera que los agentes actuales tienen dificultades para cambiar de rumbo durante una investigación larga. Debería poder sustituirse instrucciones, contexto y herramientas sin volver a entrenar el modelo desde cero."
+        },
+        {
+          "t": "p",
+          "x": "La tercera es decidir qué delegar. Hoifung Poon separó las ganancias de productividad de las ganancias de creatividad. Tareas tediosas que las personas ya saben hacer, como buscar registros u organizar literatura, son fáciles de delegar y de verificar. En cambio, proponer un mecanismo que nadie había imaginado puede tener valor pero es difícil de confirmar. Abraham Flaxman mencionó el caso de un investigador que usó IA para probar el algoritmo de su propio artículo, encontró un error y pidió que se retractara el artículo. El resumen de Kelly Paulson fue breve: “No es búsqueda, es investigación. Hay que descubrir, y hay que verificar.”"
+        },
+        {
+          "t": "p",
+          "x": "La cuarta es la amplificación de la mala ciencia. Que el análisis sea más rápido no corrige un estudio mal diseñado. Stephen Salerno describió la IA no como un igualador sino como un amplificador: un diseño experimental sólido, una recolección cuidadosa y una inferencia causal íntegra se vuelven más fuertes, pero los supuestos débiles y las metodologías defectuosas crecen igual de rápido. Por eso se vuelve más importante preguntar de dónde vienen los datos, por qué se recopilaron y quién quedó fuera."
+        },
+        {
+          "t": "p",
+          "x": "La quinta es el eslabón que falta entre la IA y los experimentos. Kyle Travalini puso como ejemplo problemas de neurociencia que involucran cientos de tipos celulares y miles de genes cambiantes, una escala que nadie puede rastrear solo con literatura. Cuando los agentes que seleccionan evidencia y clasifican hipótesis lleguen a intercambiar información directamente con el equipo de laboratorio, el resultado de un experimento dará forma al siguiente. Poon describió el 'tejido virtual' como un puente entre los modelos de células individuales y los 'pacientes virtuales'."
+        }
+      ]
+    },
+    "science/science-mammogram-ai-review": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una revisión liderada por el UCLA Health Jonsson Comprehensive Cancer Center resumió la situación actual de las herramientas de IA comerciales que ayudan a interpretar mamografías. La IA puede detectar rastros sutiles de cáncer de mama que se pasan por alto en el cribado habitual, y algunos sistemas incluso detectan señales de riesgo antes de que una lesión sea visible en la imagen. Aun así, quedan varias limitaciones. El artículo se publicó en el Journal of Breast Imaging."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-may-help-identify-b-1.jpg",
+          "cap": "Autora correspondiente del estudio, Tiffany Yu, profesora de radiología en UCLA. Foto: University of California, Los Angeles"
+        },
+        {
+          "t": "p",
+          "x": "El foco está en los cánceres de intervalo: los que se diagnostican después de un resultado negativo en el cribado, pero antes del siguiente cribado programado. Sirven como medida de qué tan bien funciona un programa de cribado, y suelen ser más agresivos que los cánceres detectados en el cribado. Tiffany Yu, profesora de radiología en UCLA, dijo: “El objetivo final de la mamografía de cribado es eliminar estos cánceres de intervalo y detectar tantos como sea posible antes, en el momento del cribado.”"
+        },
+        {
+          "t": "p",
+          "x": "Algunos cánceres de intervalo crecen tan rápido que no dejan ningún rastro en la imagen anterior. Otros sí dejaron un rastro, que simplemente no se leyó en su momento, y ahí es donde entra la IA. Al reunir estudios retrospectivos, la IA identificó una parte considerable de los cánceres de intervalo que tenían señales débiles en la imagen anterior. Las estimaciones oscilaron entre el 5% y el 78%, según el estudio, el sistema de IA y la metodología."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores señalaron con cuidado que esto representa una detección potencial, no una prueba de que la IA haya reducido realmente la incidencia de cánceres de intervalo. La coautora Hannah Milch, profesora de radiología en UCLA, lo explicó así: “Encontrar el cáncer de forma retrospectiva es muy distinto a demostrar que se habría diagnosticado antes si se hubiera usado IA en el momento del cribado. Necesitamos pruebas prospectivas de que la IA realmente cambia los resultados de los pacientes.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-may-help-identify-b.jpg",
+          "cap": "Resumen gráfico del artículo. Foto: Journal of Breast Imaging (2026)"
+        },
+        {
+          "t": "p",
+          "x": "La predicción de riesgo cuenta una historia parecida. En un estudio, la IA ya había asignado la puntuación de riesgo más alta al 23.1% de las mujeres que luego desarrollaron un cáncer de intervalo, tres cribados antes del diagnóstico, y esa proporción subió al 39.4% en el cribado inmediatamente anterior al diagnóstico. Qué deben hacer los clínicos cuando la imagen parece normal pero la puntuación de riesgo es alta sigue sin resolverse. Más imágenes podrían detectar el cáncer antes, pero también podrían llevar a falsos positivos, procedimientos innecesarios y sobrediagnóstico."
+        },
+        {
+          "t": "p",
+          "x": "La revisión también señaló un gran ensayo controlado aleatorizado prospectivo de 2026. Comparó la lectura asistida por IA con la doble lectura habitual en Europa, en más de 105,000 mujeres. La tasa de cáncer de intervalo fue de 1.55 por 1,000 mujeres en el grupo asistido por IA frente a 1.76 en el grupo estándar. La sensibilidad fue mayor con la asistencia de IA, 80.5% frente a 73.8%, mientras que la especificidad fue la misma, 98.5%. La carga de lectura cayó un 44.3%, sin que bajara la tasa global de detección de cáncer."
+        },
+        {
+          "t": "p",
+          "x": "Los autores señalaron que, aunque este ensayo es la evidencia prospectiva más sólida disponible hasta ahora, se diseñó como un estudio de no inferioridad. Condiciones como la mamografía 2D, intervalos de cribado largos y la doble lectura también difieren de los programas de EE. UU. La profesora Yu dijo que las diferencias entre los programas de cribado internacionales dificultan comparar los resultados directamente, y que falta investigación aplicable a EE. UU. La conclusión de la revisión es que el trabajo futuro necesita seguir a las pacientes de forma prospectiva y analizar juntas las tasas de reconvocatoria, los falsos positivos, la carga de lectura y los exámenes de seguimiento."
+        }
+      ]
+    },
+    "science/science-small-molecule-atlas": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El cuerpo humano y sus microbios intestinales producen miles de moléculas pequeñas que impulsan la inmunidad y el metabolismo. Averiguar exactamente qué son esas moléculas ha sido durante mucho tiempo un obstáculo: con los métodos actuales, más del 80% de los compuestos detectados en muestras biológicas no se pueden vincular a una estructura conocida."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-tool-maps-the-h.jpg",
+          "cap": "Captura de pantalla de AIMe. Foto: Frank Schroeder, Boyce Thompson Institute"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Boyce Thompson Institute (BTI) y de la Universidad de Cornell han abierto una pequeña brecha en ese muro. AIMe, construido sobre lo que se conoce como IA neuro-simbólica, predice y organiza los espectros de masas de más de 100 millones de moléculas orgánicas pequeñas para que puedan buscarse. El trabajo lo realizaron el profesor Frank Schroeder, del BTI y del Departamento de Química y Biología Química de Cornell, junto con la profesora Carla Gomes, que dirige el AI for Science Institute de Cornell. Hay un preprint disponible en bioRxiv."
+        },
+        {
+          "t": "p",
+          "x": "La espectrometría de masas fragmenta un compuesto y registra la masa de cada fragmento. Este patrón de fragmentación, el espectro de masas en tándem, funciona como la huella digital de una molécula. El problema es que las bibliotecas experimentales de referencia son escasas: incluso sumadas todas las disponibles hoy, cubren menos del 1% de los compuestos conocidos, y resolver la estructura de un solo compuesto desconocido puede tardar de días a meses."
+        },
+        {
+          "t": "p",
+          "x": "AIMe no espera a que se acumulen espectros experimentales. Predice los espectros computacionalmente y los almacena en un recurso de búsqueda llamado MS2KOSMOS. Para prácticamente todas las moléculas orgánicas pequeñas de la base de datos química pública PubChem, generó más de 800 millones de espectros predichos, una expansión de aproximadamente mil veces del espacio químico consultable en comparación con las bibliotecas experimentales existentes."
+        },
+        {
+          "t": "p",
+          "x": "Gomes explicó que \"el núcleo de AIMe es DeepMS2Reasoner, que imita cómo se fragmenta una molécula dentro de un espectrómetro de masas.\" Reglas simbólicas enumeran pasos de fragmentación físicamente plausibles, y una red neuronal asigna una probabilidad a cada paso. El resultado llega como un espectro predicho junto con un mapa que muestra cómo se fragmentó la molécula."
+        },
+        {
+          "t": "p",
+          "x": "El equipo aplicó AIMe a datos metabolómicos que comparaban ratones libres de gérmenes, sin microbios intestinales en absoluto, con ratones normales. Miles de características químicas diferían entre los dos grupos, y la mayoría de las más abundantes no podían identificarse con los métodos existentes. Al consultar MS2KOSMOS sobre 111 compuestos no identificados dependientes del microbioma, alrededor de un tercio arrojó un espectro predicho cercano y una estructura candidata."
+        },
+        {
+          "t": "p",
+          "x": "Dos compuestos en particular se convirtieron en casos de estudio. Schroeder dijo que ambos producían espectros que parecían derivados de poliaminas, pero los patrones de fragmentación no coincidían con nada descrito previamente. El primero resultó ser un derivado lineal de putrescina y pronto se confirmó sintetizando un estándar de referencia. El segundo solo se resolvió al ampliar los candidatos para incluir variantes cíclicas: resultó ser una poliamina macrocíclica nunca reportada en ratones o humanos. Una búsqueda en bases de datos públicas encontró el mismo compuesto en 57 de 99 muestras fecales humanas."
+        },
+        {
+          "t": "p",
+          "x": "El equipo también realizó una prueba a escala de repositorio. Al ejecutar AIMe sobre más de 7 millones de clústeres espectrales en GNPS, un gran repositorio público de espectrometría de masas, se generaron anotaciones provisionales para 2.69 millones de ellos con el mismo umbral de similitud, frente a los aproximadamente 416,000 anotados por trabajos anteriores."
+        }
+      ]
     }
   }
 }

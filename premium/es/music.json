@@ -4187,6 +4187,286 @@
           "x": "29,99 dólares en la App Store. Puede ser el mejor dinero gastado en visuales en vivo en este momento, más todavía junto a cosas divertidas como Quantum VJ HD, del desarrollador de SunVox."
         }
       ]
+    },
+    "music/music-alok-personalised-mv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El DJ y productor brasileño Alok se unió a la agencia Rise New York & Partners para lanzar una campaña para su línea de auriculares, WAAW by Alok. Al comprar los auriculares, se obtiene un video musical hecho solo para esa persona. La premisa era que una persona mantuviera la clave creativa."
+        },
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-01T131828.002.png",
+          "cap": "Campaña WAAW by Alok"
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida fue sencillo. Primero se grabó un video oficial con la canción de Alok, cuya textura visual se tomó del estilo pop art del ilustrador brasileño Rogério Puhl. Sobre eso se añadió un motor aparte."
+        },
+        {
+          "t": "p",
+          "x": "Gemini Omni actúa como el cerebro que gestiona el flujo de video, diseño de sonido y adaptación de texto. La API de Google Maps lee el entorno del fan para incorporar puntos de referencia reales a la historia, y la API de Google Weather ajusta la iluminación y el clima a ese lugar en ese día. Las tendencias de estilo se siguen con datos de YouTube y Trends, y los clips de video reales los produce Vertex AI junto con Veo. El pipeline de renderizado corre sobre Google Cloud."
+        },
+        {
+          "t": "p",
+          "x": "Los fans envían un Beat Profile con sus gustos y datos del entorno en tiempo real. A cambio, reciben un video con el clima de su propio barrio y el perfil de su ciudad incorporados al fondo."
+        },
+        {
+          "t": "p",
+          "x": "El control se mantuvo mediante reglas. El equipo pasó semanas probando el motor contra cinco reglas visuales, descartando el 81,4 por ciento de los clips preliminares generados en el proceso. El movimiento de cámara, el color y los puntos clave de la historia quedaron fijos, dejando abiertas solo las secciones designadas."
+        }
+      ]
+    },
+    "music/music-audacity4-release": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Muse Group lanzó Audacity 4. Según la empresa, es la actualización más grande en sus 25 años de historia. La forma de editar clips se rehízo por completo, y la interfaz también se retocó. La conexión con audio.com es ahora más estrecha. El precio sigue siendo $0."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/Audacity-4-T.jpg",
+          "cap": "Audacity 4"
+        },
+        {
+          "t": "p",
+          "x": "Los clips ahora pueden superponerse. Se pueden seleccionar y editar varios clips a la vez, o agruparlos para moverlos como uno solo. Todo es no destructivo, así que el audio recortado vuelve si se estira el clip de nuevo. Cómo rellena el audio de atrás el hueco que deja un corte se elige en la opción de edición por ondulación."
+        },
+        {
+          "t": "p",
+          "x": "Llegó también la herramienta Split, pedida desde hace tiempo por la comunidad. Corta una pista o varias a la vez, justo en la posición del cabezal de reproducción. Los envelopes de clip llevan la automatización de volumen dentro del propio clip, permitiendo dibujar fades sin tocar la grabación original. Los efectos integrados solo recibieron un rediseño visual; lo que hacen no cambió. El soporte para efectos en tiempo real y para VST3, Audio Unit y LV2 también se mantiene."
+        },
+        {
+          "t": "p",
+          "x": "Por primera vez existe una pantalla de inicio. Muestra en un solo lugar los proyectos locales y los proyectos en la nube guardados en audio.com, en miniaturas en lugar de nombres de archivo para facilitar la búsqueda visual. Los espacios de trabajo guardan una disposición de pantalla distinta para cada tipo de tarea, así que pasar de editar un podcast a trabajar en música ya no obliga a reconfigurar toda la aplicación."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-01-1024x565.jpg",
+          "cap": "La interfaz rediseñada"
+        },
+        {
+          "t": "p",
+          "x": "El aspecto también cambió más que en cualquier otro momento de su historia, según Muse Group. Se reordenaron la barra de herramientas y los controles de pista, y se reemplazaron los medidores de reproducción y grabación. El cabezal de reproducción está siempre visible, y el desplazamiento y el zoom se sienten más fluidos. Se añaden temas claro y oscuro, selección de color de acento y un modo de alto contraste mejorado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2024/07/Audacity-4-02-1024x565.jpg",
+          "cap": "La barra de herramientas y los controles de pista, ya ordenados"
+        },
+        {
+          "t": "p",
+          "x": "Julia Sazhina, directora de producto de Muse Group, dijo que Audacity lleva más de 25 años ayudando a los creadores a grabar y editar, y que la versión 4 busca sostenerlo durante los próximos 25 años, sin tocar lo que la gente ya quería de él."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de IA se mantienen en su lugar. Un conjunto de plugins basados en Intel OpenVINO se encarga de la separación de voces, la generación de música, la transcripción con Whisper.cpp y la supresión de ruido. Funcionan dentro del propio PC sin subir el audio a un servidor. La versión 4 sigue siendo gratuita y de código abierto, y la versión oficial se descarga desde MuseHub."
+        }
+      ]
+    },
+    "music/music-moises-advisors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Armin van Buuren y Laidback Luke se unieron a Moises como los primeros artistas de su programa de colaboración con artistas."
+        },
+        {
+          "t": "img",
+          "src": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-09/Armin%20%2B%20Luke%203.jpg.webp",
+          "cap": "Armin van Buuren y Laidback Luke"
+        },
+        {
+          "t": "p",
+          "x": "Moises se presenta como una alternativa a plataformas como Suno, al afirmar que entrena sus modelos solo con pistas y archivos con licencia y autorización. Ableton, Fender, la Whitney Houston Foundation, Cory Henry, Jordan Rudess y Berklee Online ya están vinculados a la empresa, y Charlie Puth se incorporó como Chief Music Officer a comienzos de este año."
+        },
+        {
+          "t": "p",
+          "x": "El papel de los dos músicos es dar retroalimentación sobre sus herramientas de DJ y producción. También ayudan a perfeccionar el conjunto de herramientas de estudio, que incluye separación de pistas, aislamiento, reconocimiento de acordes y masterización."
+        },
+        {
+          "t": "p",
+          "x": "El fundador y director ejecutivo Geraldo Ramos dijo: “La próxima generación de herramientas creativas tiene que construirse con los músicos, no para ellos.” Laidback Luke añadió que una buena herramienta no trabaja en tu lugar, sino que te ayuda a escuchar mejor, aprender más rápido y tomar decisiones más firmes. Van Buuren puso una sola condición: si el artista mantiene el control."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma, que empezó en la música dance, está ampliando sus géneros. Ahora la usan unos 80 millones de personas en 190 países, con Estados Unidos, Brasil, India, Francia y Japón como sus mayores mercados."
+        },
+        {
+          "t": "p",
+          "x": "El contexto es confuso. Según el recuento de SubmitHub, casi el 40 por ciento de los temas publicados en julio tuvo alguna intervención de IA, y un tercio de los artistas clasificados así negó haberla usado. El mes pasado, Beatport prohibió por completo las pistas generadas íntegramente por IA. Después de que Sony Music retirara 135.000 canciones deepfake en marzo, Traxsource, Bandcamp y Deezer siguieron caminos parecidos."
+        }
+      ]
+    },
+    "music/music-producely-dialr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Producely Dialr, presentado por primera vez en Superbooth25, ya acepta pedidos. Es un controlador de plugins."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-ft-2.jpg",
+          "cap": "Producely Dialr"
+        },
+        {
+          "t": "p",
+          "x": "Lo fabrica Producely, una startup de Copenhague, Dinamarca, fundada por Morten Søderquist Li, que trabajaba en tecnología musical."
+        },
+        {
+          "t": "p",
+          "x": "Ya existen controladores de plugins de SSL o Softube. La diferencia de Dialr es el mapeo automático. Escanea tu biblioteca instalada de plugins VST3 y AU, envía los datos de los parámetros a la nube de IA de Producely, y el servidor genera un perfil de controlador para esa combinación y lo devuelve. Una vez recibido, funciona sin conexión."
+        },
+        {
+          "t": "p",
+          "x": "Una pantalla táctil LCD de 7 pulgadas muestra los nombres y valores de los parámetros, y reorganiza el conjunto cada vez que cambias de plugin o de página. Los knobs están en dos filas de seis, en tres tamaños, para que la mano memorice su posición. Los encoders por pasos a los lados de la pantalla recorren secciones de plugins, ajustan valores con precisión y también se mueven entre pistas del DAW."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-01-1024x565.jpg",
+          "cap": "12 knobs y una pantalla táctil de 7 pulgadas"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/producely-dialr-03-1024x565.jpg",
+          "cap": "Vista posterior"
+        },
+        {
+          "t": "p",
+          "x": "Su alcance es amplio: va desde procesadores de audio comunes y sintetizadores de software hasta plugins de control que manejan hardware de WesAudio y Bettermaker. La apuesta del producto es que no tengas que rehacer el mapeo desde cero cada vez que agregas un plugin."
+        },
+        {
+          "t": "p",
+          "x": "Ya está tomando pedidos por anticipado, y el envío comienza en pocas semanas."
+        }
+      ]
+    },
+    "music/music-suno-studio2-plugins": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "lGvyrEkZ6ZU"
+        },
+        {
+          "t": "p",
+          "x": "Este video muestra cómo crear tus propios efectos de audio con Studio Chat en Suno Studio 2.0. Lo presenta Henry Fipps."
+        },
+        {
+          "t": "p",
+          "x": "Se construyen dos cosas: un doblador estéreo y un delay con cambio de tono. Escribes el efecto que quieres en el chat, la IA propone primero un plan de construcción, y al confirmarlo y guardarlo queda en My Plugins."
+        },
+        {
+          "t": "p",
+          "x": "Tras cargar el doblador estéreo terminado en una pista para comprobar el sonido, se crea un nuevo plugin llamado Crystal Sparkle y se coloca en una pista de batería. Al final se mencionan funciones de plugin que llegarán más adelante."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta que componía la canción ahora también construye los procesadores que la pulirán. Suno filmó este recorrido de 5 minutos y 55 segundos."
+        }
+      ]
+    },
+    "music/music-dreamtonics-instrument-x": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dreamtonics, la empresa de Tokio detrás de las herramientas de síntesis vocal Synthesizer V y Vocoflex, ha lanzado Instrument X. Marca el paso de la compañía desde la síntesis vocal hacia la orquestación."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Attack-Mag-News-Feat-Images-INSTRUMENT-X.png?fit=1400%2C479&ssl=1",
+          "cap": "Instrument X de Dreamtonics"
+        },
+        {
+          "t": "p",
+          "x": "En lugar de depender de una librería de muestras de varios gigabytes, Instrument X convierte la partitura directamente en sonido mediante modelado acústico neuronal. En vez de disparadores de loop estáticos, los compositores y productores controlan ellos mismos la articulación del arco, la respiración y las teclas."
+        },
+        {
+          "t": "p",
+          "x": "El motor gestiona hasta once señales de micrófono simultáneas, incluyendo micrófonos de proximidad, un árbol Decca y la ambiencia de la sala. Para evitar que los canales se desalineen, Dreamtonics desarrolló —y ha solicitado una patente para— un método que mide la geometría acústica de un estudio usando un arreglo de altavoces dodecaédrico propio. Una red neuronal reforzada con física separa la acústica direccional de la sala de la fuente instrumental seca. No requiere conexión a internet ni GPU dedicada, y funciona de forma local en un portátil normal."
+        },
+        {
+          "t": "video",
+          "yt": "1MXQKiWQvSY"
+        },
+        {
+          "t": "p",
+          "x": "Entre las funciones principales se incluye un editor de articulación que combina Smart Articulation automático con control manual nota a nota, permitiendo apilar staccato, legato, col legno y sordina sobre una misma nota. El carril de dinámica dibuja automáticamente matices acordes al contexto, a la vez que modifica el timbre y los armónicos del instrumento, con posibilidad de anulación manual. Las retomas de interpretación con IA permiten regenerar una frase completa o ajustar solo la deriva tímbrica, la curva de microafinación o la intensidad de movimiento. Las notas superpuestas se renderizan como voces completamente independientes, y un panel de mezcla de micrófonos permite equilibrar los micrófonos de punto, el árbol Decca y la sala."
+        },
+        {
+          "t": "p",
+          "x": "La gama de lanzamiento incluye tres colecciones y quince expansiones de instrumentos. Cuerdas: Violin 1, Viola 1, Violoncello 1, Contrabass 1. Viento madera: Flute 1, Piccolo 1, Oboe 1, Clarinet in A 1, Bassoon 1. Viento metal: Trumpet 1, Trombone 1, Horn 1, Tuba 1. Cada instrumento incluye cinco presets de estilo —Adagio, Allegro, con Fuoco, Pop y Ballade— que cambian por completo el color emocional de la interpretación."
+        },
+        {
+          "t": "p",
+          "x": "El fundador y CEO Kanru Hua dijo que la empresa consideró integrar los instrumentos en su espacio de trabajo existente, pero finalmente optó por una plataforma separada. “Muchos usuarios nos pidieron que trajéramos los instrumentos a nuestro ecosistema. En lugar de sobrecargar un solo espacio de trabajo, decidimos construir Instrument X como una plataforma independiente junto a Synthesizer V y Vocoflex, completando una trilogía.” Añadió que ajustarse a los estándares profesionales de composición y producción fue más difícil que la propia síntesis por IA, y que el motor tuvo que reconstruirse desde cero para reflejar la física de cada familia de instrumentos, aunque el flujo de trabajo sigue siendo familiar para los usuarios actuales de Synthesizer V."
+        },
+        {
+          "t": "p",
+          "x": "Se vende en la Dreamtonics Store. El editor principal es gratuito con la compra de cualquier expansión. Una prueba de 14 días del editor y de 7 días de los instrumentos puede activarse directamente desde el panel Product Manager. Cada expansión individual cuesta $99, la colección Orchestral Strings $249, Orchestral Woodwinds $279, Orchestral Brass $249, los packs mixtos van de $158 a $396, y el paquete Orchestral Essentials cuesta $349."
+        }
+      ]
+    },
+    "music/music-socan-sues-suno": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SOCAN, la organización canadiense de derechos musicales, ha demandado a la plataforma de música con IA Suno por infracción de derechos de autor. Alega que el servicio de Suno genera y transmite copias no autorizadas de canciones de su repertorio."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-2-socan.jpg",
+          "cap": "SOCAN y Suno"
+        },
+        {
+          "t": "p",
+          "x": "La demanda se presentó el 2 de septiembre ante la Corte Federal de Canadá. Según Music Business Worldwide, la demanda identifica 150 pistas generadas por Suno a partir de 137 canciones representadas por SOCAN. Lo que se cuestiona son tanto esos resultados como su transmisión a usuarios canadienses."
+        },
+        {
+          "t": "p",
+          "x": "Entre las canciones mencionadas están “Sk8er Boi” de Avril Lavigne, “Life Is a Highway” de Tom Cochrane y “Both Sides Now” de Joni Mitchell. SOCAN también publicó en línea material comparativo que permite escuchar las grabaciones originales junto a las pistas de Suno que, según alega, las infringen."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Screenshot-2026-09-03-at-12.01.14---PM.png",
+          "cap": "Captura de la página de la demanda de IA de SOCAN"
+        },
+        {
+          "t": "p",
+          "x": "Andrea Kokonis, directora jurídica y asesora general de SOCAN, dijo a Billboard Canada que Suno entró en Canadá en diciembre de 2023 sin el consentimiento de SOCAN, y que las conversaciones posteriores no resolvieron la disputa. “Queremos asegurarnos de que, cuando se usan las canciones de nuestros miembros, el valor regrese a ellos.”"
+        },
+        {
+          "t": "p",
+          "x": "SOCAN reclamó los daños y las ganancias derivados de la infracción, o en su lugar, una indemnización legal de 20,000 dólares canadienses por canción. También solicitó 10 millones de dólares canadienses en daños punitivos y ejemplares, junto con una orden judicial para impedir nuevas infracciones. Ninguno de los dos medios recogió una respuesta de Suno sobre la demanda."
+        }
+      ]
+    },
+    "music/music-songscription-publishing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La startup Songscription llamó la atención por primera vez en julio de 2025, cuando TechCrunch cubrió su servicio de 'transcripción musical automática'. En ese momento también se señaló el problema de la 'zona gris' en materia de derechos de autor. En noviembre de ese año, la empresa recaudó $5 millones, y su asesora y veterana de la tecnología musical Elizabeth Moody declaró públicamente que firmaría acuerdos con editoriales y seguiría un enfoque ético. Este mes hablamos con el CEO Andrew Carlins sobre cómo funciona ese acuerdo y cómo se usa la IA en la transcripción y el arreglo."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-13.49.55.png?fit=780%2C390&ssl=1",
+          "cap": "Pantalla de transcripción automática de partituras de Songscription"
+        },
+        {
+          "t": "p",
+          "x": "En el momento de la financiación, los usuarios habían superado los 150,000. Carlins dice que desde entonces el crecimiento ha superado el 20% mensual, y que la mayoría son \"compositores y creadores que transcriben su propio trabajo a partitura por primera vez\". También se han seguido añadiendo funciones: reconocimiento de acordes, una función que simplifica las transcripciones \"según el nivel del intérprete, incluidos los principiantes\", y un editor de notación basado en texto con una interfaz de chat de IA. Alinear la letra con la música o generar hojas guía o arreglos a dúo a partir de las transcripciones sigue en fase beta."
+        },
+        {
+          "t": "p",
+          "x": "Los acuerdos con editoriales independientes también continúan. Hasta ahora solo se ha anunciado Spirit Music Group, pero se esperan más en unas semanas. “En general, las editoriales han sido muy receptivas”, dice Carlins. “Más del 90% de las canciones que se escriben hoy siguen sin transcribir, y las que sí lo están tienen una instrumentación y una dificultad limitadas. Las editoriales entienden que Songscription puede apoyar el flujo de trabajo creativo de artistas y compositores, y ampliar el acceso a partituras para intérpretes de todos los niveles.”"
+        },
+        {
+          "t": "p",
+          "x": "También dijo que las editoriales valoran que Songscription haya buscado por iniciativa propia los acuerdos de licencia. “Parecen más dispuestas a darnos licencias que a otros servicios de IA.” “Decidir trabajar con la industria desde el principio no fue una decisión difícil. Si tu misión es empoderar a artistas y a quienes aprenden música, sabes que debes trabajar junto a la industria.”"
+        },
+        {
+          "t": "p",
+          "x": "La empresa también mira más allá de su primer servicio. Recientemente lanzó Anything Piano, una aplicación de aprendizaje de piano para dispositivos Apple, que surgió al observar que muchos usuarios de Songscription “están aprendiendo piano o buscan una forma más estructurada de practicar”. “Anything Piano, en su forma actual, convierte cualquier audio en un tutorial de piano simplificado con digitación guiada, y escucha a la persona tocar el piano para darle retroalimentación sobre su interpretación.” La empresa cambió recientemente su nombre a Play Anything, lo que según explica refleja una misión más amplia: ayudar a la gente a aprender y tocar las canciones que le gustan. Songscription se desarrollará como una plataforma para creadores y compositores, mientras que Anything Piano se desarrollará como una plataforma para quienes aprenden y buscan retroalimentación sobre su interpretación."
+        }
+      ]
     }
   }
 }
