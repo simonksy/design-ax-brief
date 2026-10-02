@@ -4,7 +4,10 @@ import { sendMagicLink } from "../lib/email.js";
 
 describe("sendMagicLink", () => {
   it("posts to Resend when a real key is set", async () => {
-    const realEnv = { ...env, RESEND_API_KEY: "re_live_key" };
+    // MAIL_FROM must be explicitly cleared: wrangler.jsonc now sets it, and the
+    // test fixture inherits those vars — without this the fallback branch is
+    // never exercised.
+    const realEnv = { ...env, RESEND_API_KEY: "re_live_key", MAIL_FROM: undefined };
     fetchMock.activate(); fetchMock.disableNetConnect();
     let seen = null;
     fetchMock.get("https://api.resend.com").intercept({ path: "/emails", method: "POST" })

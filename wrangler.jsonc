@@ -21,10 +21,11 @@
   "vars": {
     "BASE_URL": "https://axitnow.com",
     "I18N_MENU": "1",
+    "MAIL_FROM": "AX-it NOW <noreply@axitnow.com>",
     "PADDLE_ENV": "sandbox",
-    "PADDLE_CLIENT_TOKEN": "",
-    "PADDLE_PRICE_MONTHLY": "",
-    "PADDLE_PRICE_YEARLY": "",
+    "PADDLE_CLIENT_TOKEN": "test_8a239ffec3f57bf523aba791ffb",
+    "PADDLE_PRICE_MONTHLY": "pri_01m3xjar8ye0m5xbzwtfjynbet",
+    "PADDLE_PRICE_YEARLY": "pri_01m3xja5vpv2qadwtn86gxbaya",
     // 버튼에 표시할 금액. Paddle에서 가격이 바뀌면 배포 없이 여기만 고친다.
     // 금액만 둔다 — '월/연' 같은 주변 문구는 i18n의 틀(paywall.plan_*_fmt)이 갖는다.
     "PADDLE_PRICE_MONTHLY_AMOUNT": "$5.99",
