@@ -86,6 +86,33 @@
       "#ax-login:hover{background:#2e2a26;border-color:#2e2a26;}" +
       "#ax-login:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
       "#ax-login .ax-login-short{display:none;}" +
+      // 폰: 버튼 셋 대신 더보기 하나. 누르면 오른쪽에서 사이드바가 열린다.
+      "#ax-menu{display:none;position:relative;width:38px;height:38px;border-radius:10px;" +
+      "align-items:center;justify-content:center;border:1px solid rgba(23,23,23,.22);" +
+      "background:#fdfbf7;color:#1c1a18;cursor:pointer;padding:0;flex:0 0 auto;}" +
+      "#ax-menu:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
+      "#ax-scrim{position:fixed;inset:0;z-index:400;background:rgba(20,16,12,.5);" +
+      "opacity:0;pointer-events:none;transition:opacity .22s ease;}" +
+      "#ax-scrim.open{opacity:1;pointer-events:auto;}" +
+      "#ax-drawer{position:fixed;top:0;right:0;bottom:0;width:min(300px,82vw);z-index:401;" +
+      "background:#f7f3ec;border-left:1px solid rgba(40,30,20,.12);box-sizing:border-box;" +
+      "padding:16px 16px calc(16px + env(safe-area-inset-bottom));display:flex;flex-direction:column;gap:10px;" +
+      "transform:translateX(101%);transition:transform .26s cubic-bezier(.2,.8,.25,1);" +
+      "box-shadow:-12px 0 32px -18px rgba(40,30,20,.5);}" +
+      "#ax-drawer.open{transform:translateX(0);}" +
+      "#ax-drawer-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:4px;}" +
+      "#ax-drawer-title{font-family:Pretendard,system-ui,sans-serif;font-weight:700;font-size:15px;color:#1c1a18;}" +
+      "#ax-drawer-close{width:34px;height:34px;border-radius:9px;border:1px solid rgba(23,23,23,.18);" +
+      "background:#fdfbf7;color:#1c1a18;font-size:18px;line-height:1;cursor:pointer;padding:0;}" +
+      // 사이드바 안에서는 알약이 아니라 메뉴 줄처럼 — 가로 꽉 차고 왼쪽 정렬.
+      "#ax-drawer #ax-login,#ax-drawer #ax-pro,#ax-drawer #ax-globe{width:100%;height:46px;" +
+      "border-radius:12px;justify-content:flex-start;padding:0 14px;font-size:14px;}" +
+      "#ax-drawer #ax-globe{gap:10px;}" +
+      "#ax-drawer #ax-globe .ax-globe-label{display:inline;}" +
+      "#ax-drawer #ax-login .ax-login-full{display:none;}#ax-drawer #ax-login .ax-login-short{display:inline;}" +
+      "#ax-drawer #ax-pro .ax-pro-full{display:inline;}#ax-drawer #ax-pro .ax-pro-short{display:none;}" +
+      "#ax-globe .ax-globe-label{display:none;font-family:Pretendard,system-ui,sans-serif;font-weight:700;}" +
+      "@media (max-width:720px){#ax-menu{display:flex;}}" +
       // 구독 중일 때 Pro 버튼 — 모션을 멈추고 차분한 완료 상태로 바꾼다.
       "#ax-pro.is-pro{animation:none;background:linear-gradient(110deg,#7928ca,#0070f3);" +
       "background-size:100% 100%;}" +
@@ -111,6 +138,11 @@
     });
     sel.value = LANG;
     sel.onchange = function () { window.axSetLang(sel.value); };
+    var globeLabel = document.createElement("span");
+    globeLabel.className = "ax-globe-label";
+    (window.AX_LANG_NAMES.find(function (o) { return o[0] === LANG; }) || [])[1]
+      && (globeLabel.textContent = window.AX_LANG_NAMES.find(function (o) { return o[0] === LANG; })[1]);
+    box.appendChild(globeLabel);
     box.appendChild(sel);
     document.body.appendChild(box);
     // Pro entry point, left of the globe — same pill/blur treatment, same gate.
@@ -152,6 +184,58 @@
       loginBtn.classList.toggle("signed-in", loggedIn);
     };
 
+    // 더보기 버튼과 사이드바 — 폰에서 버튼 셋을 한 곳에 모은다.
+    var menuBtn = document.createElement("button");
+    menuBtn.id = "ax-menu";
+    menuBtn.type = "button";
+    menuBtn.setAttribute("aria-label", window.t("nav.menu"));
+    menuBtn.setAttribute("aria-expanded", "false");
+    menuBtn.innerHTML =
+      '<svg width="19" height="19" viewBox="0 0 20 20" fill="none" stroke="currentColor"' +
+      ' stroke-width="1.9" stroke-linecap="round" aria-hidden>' +
+      '<path d="M3 5.5h14M3 10h14M3 14.5h14"/></svg>';
+
+    var scrim = document.createElement("div");
+    scrim.id = "ax-scrim";
+    var drawer = document.createElement("div");
+    drawer.id = "ax-drawer";
+    drawer.setAttribute("role", "dialog");
+    drawer.setAttribute("aria-modal", "true");
+    drawer.setAttribute("aria-label", window.t("nav.menu"));
+    var head = document.createElement("div");
+    head.id = "ax-drawer-head";
+    var dTitle = document.createElement("span");
+    dTitle.id = "ax-drawer-title";
+    dTitle.textContent = window.t("nav.menu");
+    var closeBtn = document.createElement("button");
+    closeBtn.id = "ax-drawer-close";
+    closeBtn.type = "button";
+    closeBtn.setAttribute("aria-label", window.t("common.close"));
+    closeBtn.innerHTML = "&times;";
+    head.appendChild(dTitle); head.appendChild(closeBtn);
+    drawer.appendChild(head);
+    document.body.appendChild(scrim);
+    document.body.appendChild(drawer);
+
+    var setMenu = function (open) {
+      scrim.classList.toggle("open", open);
+      drawer.classList.toggle("open", open);
+      menuBtn.setAttribute("aria-expanded", open ? "true" : "false");
+      // 열려 있는 동안 뒤 페이지가 스크롤되지 않게 — 폰에서 특히 거슬린다.
+      document.documentElement.style.overflow = open ? "hidden" : "";
+    };
+    menuBtn.onclick = function () { setMenu(true); };
+    closeBtn.onclick = function () { setMenu(false); };
+    scrim.onclick = function () { setMenu(false); };
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") setMenu(false);
+    });
+    // 사이드바 안에서 뭔가를 고르면 닫는다 — 모달이 그 뒤에 뜨므로 겹치면 안 된다.
+    drawer.addEventListener("click", function (e) {
+      if (e.target.closest("#ax-login,#ax-pro")) setMenu(false);
+    });
+    sel.addEventListener("change", function () { setMenu(false); });
+
     var bar = document.createElement("div");
     bar.id = "ax-topbar";
     document.body.appendChild(bar);
@@ -175,6 +259,18 @@
         ? (wantMobile ? document.getElementById("ax-actions-m") : null)
         : document.getElementById("ax-actions-d");
       if (!slot && reactPage && !phone) { bar.style.display = "none"; return; }
+      if (phone) {
+        // 줄에는 더보기 하나만, 실제 버튼 셋은 사이드바 안에 둔다.
+        if (slot && menuBtn.parentNode !== slot) slot.appendChild(menuBtn);
+        if (loginBtn.parentNode !== drawer) {
+          drawer.appendChild(loginBtn); drawer.appendChild(proBtn); drawer.appendChild(box);
+        }
+        bar.style.display = "none";
+        document.documentElement.classList.add("ax-nobar");
+        return;
+      }
+      if (menuBtn.parentNode) menuBtn.parentNode.removeChild(menuBtn);
+      setMenu(false);
       var host = slot || bar;
       // 카테고리 줄(데스크톱)이나 스티키 바(폰)에 담겼으면 상단 바는 비워 둔다.
       // React가 없는 페이지(archive)에는 두 자리가 다 없어 상단 바가 폴백이 된다.

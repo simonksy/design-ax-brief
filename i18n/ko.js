@@ -92,6 +92,7 @@ window.AX_I18N = {
  "masthead.daily_brief": "Daily Brief",
  "nav.card": "카드 {n}",
  "nav.home": "홈으로",
+ "nav.menu": "메뉴",
  "nav.next": "다음",
  "nav.prev": "이전",
  "nav.sections": "섹션",
