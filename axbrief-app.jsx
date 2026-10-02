@@ -651,8 +651,8 @@ function firstChargeLabel(plan) {
    The portal escapes the transform so the popup opens over the card you tapped,
    with the blurred locked card still visible behind the translucent backdrop. */
 /* 구독 모달 — 플랜 2종. 결제창은 Paddle 오버레이로 사이트 위에 뜬다. */
-function SubscribeModal({ onClose, t }) {
-  const [phase, setPhase] = useState('choose');   // choose | confirming | slow | error | login | sent
+function SubscribeModal({ onClose, t, initialPhase }) {
+  const [phase, setPhase] = useState(initialPhase || 'choose');   // choose | confirming | slow | error | login | sent
   const [note, setNote] = useState('');
   const [email, setEmail] = useState('');
   const [sendingLink, setSendingLink] = useState(false);
@@ -2561,16 +2561,26 @@ function ThemedPage({ themeKey }) {
   useEffect(() => {
     fetch('/api/me', { credentials: 'same-origin' })
       .then((r) => (r.ok ? r.json() : null))
-      .then((d) => { if (d) setAuth(d); })
+      // 헤더의 Pro/로그인 버튼은 i18n.js가 그린다(React 밖). 권한을 아는 쪽은
+      // 여기뿐이라 결과를 넘겨 준다 — 구독 중이면 'Pro 이용 중'으로 바뀌고,
+      // 로그인하지 않았으면 로그인 버튼이 나타난다.
+      .then((d) => { if (d) { setAuth(d); if (window.axSetAuthUI) window.axSetAuthUI(d); } })
       .catch(() => {});
   }, []);
   // 헤더 Pro 버튼(i18n.js, React를 모르므로 이벤트로만 알림)이 쏘는 'ax:subscribe'를
   // 듣고 구독 모달을 연다. i18n.js의 axMountGlobe와 같은 역할의 짝.
   const [showSubscribe, setShowSubscribe] = useState(false);
+  const [subscribePhase, setSubscribePhase] = useState('choose');
   useEffect(() => {
-    const onProClick = () => setShowSubscribe(true);
-    window.addEventListener('ax:subscribe', onProClick);
-    return () => window.removeEventListener('ax:subscribe', onProClick);
+    const onPro = () => { setSubscribePhase('choose'); setShowSubscribe(true); };
+    // 이미 구독한 사람이 새 기기에서 들어온 경우 — 요금제가 아니라 로그인부터.
+    const onLogin = () => { setSubscribePhase('login'); setShowSubscribe(true); };
+    window.addEventListener('ax:subscribe', onPro);
+    window.addEventListener('ax:login', onLogin);
+    return () => {
+      window.removeEventListener('ax:subscribe', onPro);
+      window.removeEventListener('ax:login', onLogin);
+    };
   }, []);
   // Insights(Pro 전용 지식 네트워크) 뷰 — #insights 딥링크로도 진입. 엔타이틀이
   // 아니면 렌더 시점에 브리프로 폴백되므로 해시만으로는 열리지 않는다.
@@ -2753,7 +2763,8 @@ function ThemedPage({ themeKey }) {
             AI 생성 고지와 운영자 표기는 사실 그대로 적는다. */}
         <SiteFooter t={t} />
       </div>
-      {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
+      {showSubscribe && <SubscribeModal t={t} initialPhase={subscribePhase}
+        onClose={() => setShowSubscribe(false)} />}
     </div>
   );
 }
