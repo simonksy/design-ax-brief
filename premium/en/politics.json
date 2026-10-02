@@ -849,6 +849,26 @@
           "x": "News of the investigation came just a day after top AI company executives signed a voluntary self-regulation pledge at the White House. Earlier, Florida's attorney general filed for a temporary restraining order against OpenAI in court on Monday, and a public-interest legal group sued OpenAI on Tuesday over the Hugging Face breach."
         }
       ]
+    },
+    "politics/rossappeal": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "화요일 미국 제3순회 연방항소법원(3rd U.S. Circuit Court of Appeals)은 Thomson Reuters가 지금은 문을 닫은 법률 AI 스타트업 Ross Intelligence를 상대로 거둔 획기적인 저작권 승소 판결을 유지했다. 출판사 콘텐츠를 허락이나 보상 없이 상업용 AI 제품 학습에 쓴 행위를 두고 공정 이용 주장을 받아들이지 않은 첫 연방 항소심 판결이다."
+        },
+        {
+          "t": "p",
+          "x": "“다툼의 여지가 없는 증거는 Thomson Reuters의 자료에 창작적 불꽃이 있고, ROSS가 이를 매우 유사한 목적에 사용해 직접적인 경쟁자가 되려 했음을 보여준다”고 Tamika Montgomery-Reeves 판사는 썼다. 그는 이번 사건이 LLM이나 다른 생성형 AI 도구를 다룬 것이 아니라고 짚었다. Ross의 검색 엔진은 텍스트를 생성하지 않고 판결문에 있는 구절을 찾아 보여줬다. 판사는 이 점이 다른 AI 저작권 소송에 미칠 영향을 제한할 수 있다고 본다."
+        },
+        {
+          "t": "p",
+          "x": "Thomson Reuters는 2020년 Ross가 경쟁 AI 법률 검색 엔진을 학습시키려고 Westlaw의 “헤드노트(headnotes)” 수천 건을 복제했다며 소송을 냈다. Stephanos Bibas 판사는 2025년 2월 Thomson Reuters의 손을 들어줬다."
+        },
+        {
+          "t": "p",
+          "x": "이번 판결은 저작물의 텍스트를 재현해 그 저작물과 직접 경쟁하는 AI 도구는 공정 이용 판단을 통과하기 어렵다는 신호로 읽힌다. 다만 생성형 AI가 더 변형적이라고 평가받을 여지는 남겼다. Montgomery-Reeves 판사는 이 사건을 Bartz v. Anthropic 사건과 구분했다. 한 판사가 책으로 Claude를 학습시킨 것을 공정 이용으로 본 사건이다."
+        }
+      ]
     }
   }
 }

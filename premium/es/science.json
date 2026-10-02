@@ -950,6 +950,466 @@
           "x": "LLM의 평가는 상대의 성별과 문화적 배경, 상황 맥락에 따라서도 달라졌다. 저자들은 전체 협력을 높이는 규범을 따르라고 지시하는 식의 프롬프트 개입은 효과가 제한적이고 모델마다 들쭉날쭉했다고 밝혔다."
         }
       ]
+    },
+    "science/science-cognitive-map-planner": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La energía que consume la IA hoy se ha vuelto un obstáculo, tanto en lo económico como en lo político y lo científico. El cerebro humano produce inteligencia con 20 W. Esa brecha, señalada por Wolfgang Maass, de TU Graz, es el punto de partida de la nueva investigación."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Tsinghua, TU Graz y el Consejo Nacional de Investigación de Italia rediseñaron una red neuronal artificial usando un marco tomado de la ciencia cognitiva y la neurociencia. El artículo se publicó en Nature Machine Intelligence con el título 'Neural sampling from cognitive maps enables goal-directed imagination and planning'."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-rooted-in.jpg",
+          "cap": "Muestreo a partir de un mapa cognitivo bidimensional para imaginar trayectorias espaciales de forma orientada a objetivos. Fuente: Nature Machine Intelligence (2026). DOI: 10.1038/s42256-026-01254-4"
+        },
+        {
+          "t": "p",
+          "x": "La clave es el mapa cognitivo. El cerebro guarda el conocimiento aprendido no en tablas o parámetros, sino en forma de mapa, y los investigadores trasladaron esa representación a la red neuronal. En lugar de agrandar redes neuronales profundas o grandes modelos de lenguaje, cambiaron la representación misma."
+        },
+        {
+          "t": "p",
+          "x": "“Me pareció fascinante que la evolución haya inventado los algoritmos y las estructuras de datos que producen inteligencia en el cerebro”, dijo Maass. “¿Cómo son? ¿Se pueden reproducir en un dispositivo artificial?” También señaló que ya existe un amplio cuerpo de investigación que explora los algoritmos cerebrales a nivel microscópico."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-rooted-in-1.jpg",
+          "cap": "Estructura y proceso de entrenamiento de GCML. Fuente: Nature Machine Intelligence (2026). DOI: 10.1038/s42256-026-01254-4"
+        },
+        {
+          "t": "p",
+          "x": "En las pruebas, esta red neuronal planificó y resolvió problemas que nunca había visto, adaptándose a la situación. El proceso que guía sus predicciones y acciones también resultó más fácil de examinar que en los modelos de IA existentes. Como funciona con aprendizaje local y sin un proceso de entrenamiento pesado, puede instalarse en hardware de bajo consumo como chips neuromórficos, chips de computación en memoria y matrices de memristores."
+        },
+        {
+          "t": "p",
+          "x": "El equipo ha comenzado a trabajar con Intel y varias startups estadounidenses para llevar el algoritmo a chips dedicados. Las siguientes metas son un procesamiento de baja latencia parecido al del cerebro y una IA explicable que muestre qué experiencias respaldaron una decisión determinada. Maass dijo que sigue trabajando para trasladar algoritmos inspirados en el cerebro a hardware más eficiente energéticamente."
+        }
+      ]
+    },
+    "science/science-nsf-self-driving-labs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Fundación Nacional de Ciencias de Estados Unidos (NSF) ha decidido invertir $380 millones (£285 millones) en instalar laboratorios automatizados impulsados por IA por todo el país. La Universidad Estatal de Carolina del Norte (NCSU) liderará una parte de ese esfuerzo."
+        },
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/3/0/550430_pclhero_814303_crop.jpg",
+          "cap": "Fundación Nacional de Ciencias de Estados Unidos (NSF). Fuente: Chemistry World"
+        },
+        {
+          "t": "p",
+          "x": "Se llama Speed lab (self-driving platforms for experimental co-design in chemistry and materials science). Con una duración de cuatro años y un presupuesto de $20 millones, estará dirigido por el ingeniero químico de la NCSU Milad Abolhasani, junto con Alex Miller, químico organometálico de la Universidad de Carolina del Norte en Chapel Hill."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es un laboratorio autónomo en el que los científicos fijan los objetivos de investigación y robots inteligentes ejecutan los procedimientos. Operar equipos automatizados a distancia también forma parte de la tarea. Las áreas iniciales de enfoque son catalizadores para mejorar la eficiencia de la manufactura química, materiales semiconductores para energía, detección y electrónica, y materiales fotocatalíticos."
+        },
+        {
+          "t": "p",
+          "x": "Abolhasani dijo que Speed reducirá el tiempo que toma encontrar materiales y moléculas funcionales en campos como la electrónica avanzada, los fármacos y la agricultura, de años a semanas."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del MIT aportarán capacidades de aprendizaje automático e IA para la investigación química. El lado de Chapel Hill construirá nuevas interfaces de acceso y control, y pondrá a prueba varios tipos de reacciones químicas. Miller dijo: \"Crear herramientas de hardware y software que permitan a quienes no tienen acceso a equipos avanzados probar sus propias ideas de investigación podría cambiar las reglas del juego.\""
+        },
+        {
+          "t": "p",
+          "x": "Los módulos de laboratorio autónomo dentro de Speed ejecutan experimentos en paralelo y usan aprendizaje automático para predecir qué experimentos vale la pena probar después. Miller cree que esto acelerará más de 100 veces el proceso que va desde el descubrimiento de materiales líderes hasta su optimización. Esta financiación de la NSF también respaldará, durante los próximos cuatro años, proyectos en biotecnología y bioquímica, materia blanda y electrónica."
+        }
+      ]
+    },
+    "science/science-schrodinger-farid-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI Prognosis, de STAT, es un boletín solo para suscriptores. La mayor parte del texto de esta edición está detrás del muro de pago, así que aquí solo se recoge lo que aparece en la parte abierta y en el resumen del artículo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_RamyFarid-645x645.png",
+          "cap": "Ramy Farid, CEO de Schrödinger. Fuente: STAT"
+        },
+        {
+          "t": "p",
+          "x": "Esta edición, escrita por la periodista Brittany Trang, lleva como título cómo cambió de opinión sobre la IA el CEO de Schrödinger, Ramy Farid. Farid ha estado durante mucho tiempo del lado de la simulación basada en física en el diseño de fármacos. El artículo gira en torno a dónde ve ahora el lugar del aprendizaje automático en el descubrimiento computacional de fármacos, y qué cambió su opinión."
+        },
+        {
+          "t": "p",
+          "x": "El artículo también aborda el giro de Centene hacia la IA. El subtítulo que agrupa ambos casos es 'Schrödinger's and Centene's AI shifts'."
+        },
+        {
+          "t": "p",
+          "x": "En la parte abierta, Trang escribe que está esperando el momento en que la gente corrija los juicios que ha hecho sobre la IA. Dentro de unos cinco años, dice, quedará más claro qué puede y qué no puede hacer la IA, y habrá menos jefes que obliguen a sus empleados a usar una IA que no funciona. También cree que la propia IA irá mejorando. Una vez que se disipe la burbuja, la incertidumbre en torno a la IA debería reducirse tanto en el mercado laboral como en el mundo en general."
+        },
+        {
+          "t": "p",
+          "x": "No fue posible confirmar las declaraciones ni los argumentos de Farid que están detrás del muro de pago. Esta tarjeta recoge solo la introducción pública y el resumen del artículo."
+        }
+      ]
+    },
+    "science/science-aalto-reading-rl-model": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad Aalto, junto con un equipo internacional, han construido el modelo más preciso hasta ahora de cómo las personas leen un texto. Usando técnicas de aprendizaje por refuerzo propias de la robótica, explica y reproduce las decisiones que toman los lectores mientras recorren un texto."
+        },
+        {
+          "t": "p",
+          "x": "\"Esta es la primera vez que un método de IA no solo imita la lectura humana, sino que la entiende\", dijo el profesor Antti Oulasvirta, de la Universidad Aalto. En el estudio, que se publicará en Nature Human Behaviour el lunes 10 de agosto, los investigadores afirman que el modelo podría usarse para operar pantallas de realidad aumentada (RA) más inteligentes y para adaptar textos complejos al lector y a la situación."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos anteriores imitaban el comportamiento humano entrenándose con grandes conjuntos de datos que emparejaban fragmentos de texto con datos de seguimiento ocular, pero nunca entendían realmente el contenido y perdían fuerza cuando cambiaban el idioma o el contexto, explica Oulasvirta. El nuevo modelo, en cambio, sigue los mecanismos psicológicos que usan los lectores para distribuir su atención, mostrando cómo se acumula la comprensión mientras los ojos recorren palabras, frases y párrafos."
+        },
+        {
+          "t": "p",
+          "x": "\"Siempre estamos leyendo algo. Pero a lo largo de la historia de la escritura, los textos que hemos leído se diseñaron para un uso masivo, no para una persona y una situación concretas\", dijo Oulasvirta, añadiendo que esto está en posición de cambiar eso."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-reinforc.jpg",
+          "cap": "El mecanismo de racionalidad de recursos en la lectura. Fuente: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02534-0"
+        },
+        {
+          "t": "p",
+          "x": "El principio que guía el modelo es la racionalidad de recursos. Mientras leemos, decidimos constantemente hacia dónde mirar a continuación para maximizar la comprensión dentro del tiempo disponible. La asignación de la mirada se decide en tres niveles —palabras, frases y el texto completo— y depende del idioma del lector, su capacidad de memoria, su vista y la velocidad de sus ojos. Los lectores con buena memoria y ojos rápidos saltan con confianza de un párrafo a otro, mientras que los lectores con memoria más débil suelen volver atrás y releer con más frecuencia."
+        },
+        {
+          "t": "p",
+          "x": "\"Leer parece algo sin esfuerzo, pero el cerebro decide constantemente adónde mirar, qué saltarse y cuándo volver atrás. Gasta la atención como si fuera un presupuesto para maximizar la comprensión\", dijo el profesor Shengdong Zhao, de la Universidad de la Ciudad de Hong Kong."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores convirtieron los rasgos del lector en parámetros ajustables uno por uno, y dejaron que el modelo encontrara por sí mismo la estrategia óptima para dirigir la atención. \"Colocamos el modelo en un mundo con millones de textos. Luego, con aprendizaje por refuerzo de IA, optimizamos los movimientos oculares y lo entrenamos para que entendiera realmente lo que leía\", explicó Oulasvirta."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-captures-how.jpg",
+          "cap": "El profesor Antti Oulasvirta, que dirige el Laboratorio de Comportamiento Computacional de la Universidad Aalto en Finlandia. Fuente: Antti Kahilaniemi/Aalto University"
+        },
+        {
+          "t": "p",
+          "x": "Mientras lee, el modelo construye una descripción comprimida del contenido del texto. Cuando falta una palabra o una cláusula importante, envía la mirada a completar esa información. Preguntarle qué retuvo dentro del tiempo y las restricciones dadas permite medir su comprensión. Comparar las decisiones de asignación de atención del modelo con datos reales de seguimiento ocular de personas mostró que coincidían con el comportamiento de los lectores, lo que permite construir un modelo del lector promedio y ajustarlo para distintos tipos de lector."
+        },
+        {
+          "t": "p",
+          "x": "Esto abre la puerta a nuevas ayudas de lectura y a un diseño de textos personalizado: gafas inteligentes que ajusten la velocidad y la disposición del texto en pantalla según la situación y el usuario, o que reescriban el propio texto para adaptarlo a él. \"Con un solo documento original, como un texto legal enredado, podemos generar versiones que se leen mejor para cada lector sin mucho esfuerzo adicional\", dijo Oulasvirta."
+        },
+        {
+          "t": "p",
+          "x": "El siguiente paso es examinar cómo podría usarse este modelo para ayudar a personas con dislexia o con menor capacidad lingüística. \"Queremos ayudar a los usuarios en tiempo real, por ejemplo diseñando textos útiles que no distraigan la atención de un conductor\", dijo. En el estudio participaron, además de la Universidad Aalto, investigadores de la Universidad de Ciencia y Tecnología de Hong Kong, la Universidad de la Ciudad de Hong Kong y la Universidad Nacional de Singapur."
+        }
+      ]
+    },
+    "science/science-ai-agents-for-science": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cada pocas décadas, alguien declara que la ciencia se ha terminado. En 1903, Albert Michelson escribió que \"las leyes y los hechos fundamentales más importantes de las ciencias físicas ya han sido descubiertos\", y en la década de 1980, Stephen Hawking pensó que la física teórica estaba a punto de terminar. Con la IA irrumpiendo ahora, esa misma sensación ha vuelto."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg",
+          "cap": "Fuente: Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "En 2024, Demis Hassabis y John Jumper, de Google DeepMind, compartieron el Premio Nobel de Química por AlphaFold, que predice la estructura tridimensional de las proteínas, un problema que había resistido solución durante medio siglo. El equipo de Hassabis llamó a AlphaFold \"una plantilla de cómo la IA puede acelerar toda la ciencia a velocidad digital\", y las startups de modelos fundacionales pasaron a recaudar miles de millones de dólares."
+        },
+        {
+          "t": "p",
+          "x": "Eric Schmidt y Suhas Mahesh creen que esa plantilla está equivocada, porque las condiciones que produjeron un resultado como AlphaFold son extremadamente raras. El Protein Data Bank en el que se basa contiene unas 170.000 estructuras verificadas experimentalmente, acumuladas a lo largo de 53 años de colaboración internacional y, según estimaciones recientes, unos 21.000 millones de dólares en experimentos."
+        },
+        {
+          "t": "p",
+          "x": "Hay una barrera de la que se habla menos: en muchos campos, simplemente no se puede generar un dato comparable. La cristalografía de proteínas es muy reproducible —más de 25 premios Nobel se han apoyado en esta técnica—, pero la mayoría de la ciencia experimental produce resultados que oscilan. Las líneas celulares cambian, los reactivos arrastran contaminantes a nivel de trazas y la humedad varía. Unos datos lo bastante consistentes para entrenar una red neuronal exigirían nuevos métodos de medición y estándares que, por ahora, no existen."
+        },
+        {
+          "t": "p",
+          "x": "Algunos campos sí cumplen esas condiciones: la previsión meteorológica, buena parte de la genómica y partes de la química. Las preguntas abiertas que quedan necesitan un plan distinto, y ahí es donde entran los agentes."
+        },
+        {
+          "t": "p",
+          "x": "Los científicos siempre han razonado en la incertidumbre. Un biólogo que busca un nuevo objetivo farmacológico nunca ha tenido un conjunto de datos perfecto. Combina cálculos de acoplamiento con estructuras conocidas, hace algunos experimentos de unión, y sopesa las fortalezas y los puntos ciegos de cada método. La verdadera habilidad de la ciencia es entrelazar resultados de varias herramientas y corregir el rumbo a medida que llega la evidencia."
+        },
+        {
+          "t": "p",
+          "x": "Eso es lo que hacen los agentes. Son motores de razonamiento de IA a los que se les dan herramientas y la capacidad de usarlas. A medida que estos programas, construidos sobre grandes modelos de lenguaje, se han extendido, la necesidad de conjuntos de datos específicos para la ciencia ha caído en picado. Mientras que AlphaFold aplica un método potente a una pregunta estrecha, los agentes son generalistas por naturaleza."
+        },
+        {
+          "t": "p",
+          "x": "El AI Co-Scientist de Google, presentado en mayo, es un ejemplo. Ante una tarea de una sola página —explicar cómo se propaga la resistencia a los antibióticos entre especies bacterianas—, el sistema lanzó subagentes. Uno extraía hipótesis de la literatura, otro las interrogaba como un revisor por pares, otro clasificaba a los candidatos en un torneo, y otro refinaba lo que quedaba. Concluyó que los genes de resistencia viajan montados en virus bacterianos para llegar a nuevos huéspedes, y tenía razón. Investigadores del Imperial College London habían llegado a esa misma conclusión tras una década de trabajo de laboratorio, pero su artículo todavía está en revisión."
+        },
+        {
+          "t": "p",
+          "x": "Las alucinaciones, el juicio desigual y los límites de memoria y de entrada siguen presentes. Aun así, los dos autores argumentan que, una vez que caiga este muro, las ganancias en fiabilidad y velocidad científicas se acumularán de forma compuesta. Los agentes registran cada una de sus propias acciones, lo que los convierte en una solución estructural para la crisis de reproducibilidad: dejan automáticamente la divulgación de datos en bruto y código que los investigadores llevan tiempo postergando."
+        },
+        {
+          "t": "p",
+          "x": "El mayor cambio es la velocidad. Cuando probar algo toma menos tiempo que discutirlo, la gente simplemente lo prueba. Un agente que lee mil artículos por hora, diseña 500 moléculas y aprende de los fracasos de la noche a la mañana reduce el costo de la experimentación. Schmidt y Mahesh escriben que las herramientas que abarcan todos los campos —como el cálculo, el razonamiento estadístico, la espectroscopía o la computadora— han aparecido solo un puñado de veces en la historia, y que este es uno de esos cambios."
+        }
+      ]
+    },
+    "science/science-mit-geopt-physics-pretraining": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La IA escribe texto, genera imágenes e incluso produce modelos 3D. Pero todavía es torpe a la hora de poner a prueba diseños de robots o vehículos en distintos entornos, porque no entiende la física tan bien como entiende los píxeles o el texto."
+        },
+        {
+          "t": "p",
+          "x": "Construir una IA capaz de simular ampliamente situaciones físicas requeriría datos físicos a esa misma escala, algo que la tecnología actual no puede ofrecer. Incluso conseguir unos pocos puntos de datos que la red pueda aprender toma mucho tiempo, porque un algoritmo llamado solucionador numérico tiene que calcular magnitudes físicas en cada punto de una forma 3D. Es minucioso pero lento, lo que limita la cantidad de datos disponibles para comprobar si el diseño de un avión es seguro y aerodinámico."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202608/MIT-GeoPT-01-press.jpg",
+          "cap": "El modelo GeoPT \"sería realmente útil para un ingeniero que quiera probar el diseño de un coche sin hacer un montón de experimentos físicos\", dice Haisu Wu, investigador posdoctoral del MIT e investigador de CSAIL. Crédito: Alex Shipps/MIT CSAIL, usando el modelo GeoPT y material de Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "GeoPT, un método de preentrenamiento creado por investigadores del Laboratorio de Ciencias de la Computación e Inteligencia Artificial del MIT (CSAIL) y de la Universidad de Tsinghua, permite que los modelos de simulación aprendan física de forma más amplia y eficiente. Reproduce interacciones mecánicas cotidianas en 3D, mostrando en qué punto de un objeto se detiene una partícula. Los modelos que adquieren este sentido de la física representan la realidad con más precisión, alcanzan su máximo rendimiento el doble de rápido y usan hasta un 60% menos de datos de entrenamiento que los modelos líderes."
+        },
+        {
+          "t": "p",
+          "x": "\"Vemos la física como una tercera modalidad para los modelos de IA, después del texto y los píxeles\", dice Minghao Guo, estudiante de doctorado del MIT e investigador de CSAIL, coautor principal del artículo de GeoPT. \"Nuestro modelo de uso general es lo bastante versátil para construir un modelo del mundo físico. Los modelos que generan datos de robots o video ya dominan el texto y los datos visuales, y añadir precisión física hace que su resultado se acerque mucho más a la realidad.\""
+        },
+        {
+          "t": "p",
+          "x": "Usarlo es sencillo. Se carga un modelo 3D de un objeto —un buque de guerra, un avión de pasajeros, un camión—, se fija la dirección y la velocidad de la fuerza que se quiere aplicar, y aparece un mapa de calor que muestra qué partes se ven afectadas y cómo. El sentido de la física de GeoPT proviene de la mecánica sintética: se entrenó con 1,3 millones de muestras de una pequeña esfera moviéndose a distintas velocidades y ángulos antes de detenerse en un punto específico de un objeto, y las partículas se quedan pegadas al contacto en lugar de atravesarlo o rebotar."
+        },
+        {
+          "t": "p",
+          "x": "Fue especialmente sólido en escenarios industriales. En un conjunto de datos que capturaba cómo responden formas 3D complejas al flujo de aire y a la presión en la superficie, superó a los modelos de primer nivel en velocidad, precisión y eficiencia por igual. En los casos en que el casco de un barco enfrenta aire y olas a la vez, usó un 60% menos de datos etiquetados mientras alcanzaba la máxima precisión cuatro veces más rápido que la mejor referencia. También acertó en cómo se abolla un vehículo tras un choque usando menos datos, y representó con precisión una escena de luz atravesando un modelo de conejo con el que nunca había entrenado."
+        },
+        {
+          "t": "p",
+          "x": "\"Si le va bien en los benchmarks industriales, significa que puede resolver los problemas de física más difíciles\", dice el coautor principal Haisu Wu. \"GeoPT produjo simulaciones de alta precisión con más de 100 millones de puntos de malla en solo segundos.\""
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores ven el sistema actual como un adelanto del modelo fundacional de física que imaginan. Lo siguiente es escalar a más formas y abordar fenómenos más complejos. El artículo se presentó en julio en la Conferencia Internacional sobre Aprendizaje Automático (ICML), y el autor principal es Wojciech Matusik, profesor de EECS en el MIT."
+        }
+      ]
+    },
+    "science/science-single-lead-ecg-heart-failure-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Winston-Salem, Carolina del Norte, 6 de agosto de 2026 — Una investigación dirigida por la Facultad de Medicina de Wake Forest encontró que la IA puede ayudar a detectar signos de insuficiencia cardíaca, incluidos tipos que suelen pasarse por alto en la atención rutinaria. El modelo funcionó bien incluso con datos de ECG de una sola derivación, del tipo que registran algunos dispositivos portátiles. No se probó con datos recogidos realmente por wearables, pero los resultados sugieren que algún día podría perfeccionarse hasta convertirse en una prueba de cribado más sencilla."
+        },
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/36e731f1-06d8-497d-bfb2-f3a22e079103/Rendition/low-res/Content/Public",
+          "cap": "El autor correspondiente, Oguz Akbilgic, profesor de inteligencia artificial en la sección de medicina cardiovascular del Departamento de Medicina Interna de la Facultad de Medicina de Wake Forest. Crédito: Wake Forest University School of Medicine"
+        },
+        {
+          "t": "p",
+          "x": "La insuficiencia cardíaca afecta a más de 6 millones de estadounidenses y es una causa importante de hospitalización y muerte. La detección temprana importa, pero evaluar la función cardíaca suele requerir un ecocardiograma, una prueba que no está disponible en todos los puntos de atención. Un ECG potenciado con IA podría usarse para identificar a los pacientes que necesitan pruebas adicionales."
+        },
+        {
+          "t": "p",
+          "x": "El estudio, publicado en el Journal of the American Heart Association, produjo una herramienta de IA que lee datos de electrocardiograma (ECG) estándar para detectar tres tipos de disfunción cardíaca: fracción de eyección reducida (rEF), en la que la cámara principal de bombeo del corazón expulsa mucha menos sangre de lo normal; fracción de eyección levemente reducida (mEF); e insuficiencia cardíaca con fracción de eyección preservada (HFpEF), en la que la proporción expulsada es normal pero el corazón tiene problemas para llenarse o funcionar."
+        },
+        {
+          "t": "p",
+          "x": "La fracción de eyección es la proporción de sangre que la cámara principal de bombeo del corazón expulsa con cada latido. La HFpEF es especialmente difícil de detectar en etapas tempranas y suele pasarse por alto en la atención rutinaria."
+        },
+        {
+          "t": "p",
+          "x": "\"Este es un avance importante hacia detectar la insuficiencia cardíaca más temprano con herramientas que ya se usan en la atención rutinaria\", dice el autor correspondiente Oguz Akbilgic, profesor de inteligencia artificial en la sección de medicina cardiovascular de la Facultad de Medicina de Wake Forest. \"Nuestro modelo de IA puede detectar varios tipos de disfunción cardíaca usando solo un simple ECG de una derivación, la misma configuración de derivación que usan muchos relojes inteligentes y dispositivos de ECG portátiles, lo que significa que podría perfeccionarse como una prueba de cribado basada en wearables.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Algunas de estas afecciones avanzan sin síntomas notables hasta que se descubren solo después de haber empeorado. Nuestro modelo llena ese vacío al detectar patrones eléctricos del corazón que son difíciles de ver para el ojo humano. Está pensado para ayudar a los médicos a decidir cuándo se justifican más pruebas de insuficiencia cardíaca\", dijo Akbilgic."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores construyeron el modelo con más de 1 millón de ECG de Atrium Health Wake Forest Baptist, y probaron si funcionaba en una población de pacientes distinta usando más de 72.000 ECG adicionales del Centro de Ciencias de la Salud de la Universidad de Tennessee. El modelo clasificó los ECG en cuatro categorías: rEF, mEF, HFpEF o sin anomalías. Los investigadores probaron en paralelo una versión que usa ECG de 12 derivaciones y una versión de una sola derivación del tipo que podría recoger un wearable."
+        },
+        {
+          "t": "p",
+          "x": "Las dos versiones tuvieron un desempeño similar. El modelo de 12 derivaciones fue especialmente bueno para identificar a pacientes con fracción de eyección reducida, y algo más débil pero aún útil en los otros dos tipos. El modelo de una sola derivación se acercó mucho al de 12 derivaciones. En pacientes pediátricos, su capacidad para detectar la fracción de eyección reducida igualó o superó a la de los modelos existentes, y como la muestra era pequeña, los investigadores calificaron el resultado solo como alentador. El rendimiento se mantuvo bien en distintas poblaciones."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de investigación está ahora probando el modelo en clínicas de medicina familiar de Atrium Health Wake Forest Baptist para ver cómo funciona en la práctica real. \"Estamos comprobando si ayuda a los médicos a identificar a los pacientes que necesitan más pruebas, y qué efecto tiene en la atención y en el uso de recursos\", dijeron. El estudio recibió apoyo parcial del Instituto Nacional del Corazón, los Pulmones y la Sangre, parte de los Institutos Nacionales de Salud de Estados Unidos."
+        }
+      ]
+    },
+    "science/science-capuchinai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ya existe un sistema de IA que automatiza las pruebas cognitivas en monos capuchinos silvestres. CapuchinAI, desarrollado por investigadores de la Universidad de Emory y el Instituto de Tecnología de Georgia, combina reconocimiento facial con tareas de pantalla táctil en tiempo real, y el artículo de prueba de concepto se publicó en American Journal of Primatology. Es el primer método para medir la cognición de primates silvestres de forma sistemática y a escala."
+        },
+        {
+          "t": "p",
+          "x": "“El cerebro de los primates no evolucionó en un laboratorio. Evolucionó en entornos complejos y muy competitivos”, dice Marcela Benítez, profesora asistente de antropología en Emory y autora principal del artículo. “Y, aun así, estudiar la cognición de primates en estado silvestre es poco común, porque medir la cognición en un entorno impredecible exige controlar el experimento.”"
+        },
+        {
+          "t": "p",
+          "x": "CapuchinAI mete una pequeña computadora alimentada por batería dentro del equipo de investigación de campo. Reconoce qué mono se ha acercado, muestra en una pantalla táctil una tarea adaptada a ese individuo, y dispensa comida automáticamente si la resuelve correctamente. En las pruebas de prototipo en la reserva forestal de Tabogo, en Costa Rica, el sistema identificó a los capuchinos individuales con un 97% de precisión. Los capuchinos silvestres se acostumbraron rápido al equipo y aprendieron que presionar la pantalla producía una recompensa."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co.jpg",
+          "cap": "Gracias a la visión artificial, el modelo puede cambiar la prueba de un individuo a otro al instante, lo que permite que varios monos participen en una misma sesión. Crédito: el equipo de investigación."
+        },
+        {
+          "t": "p",
+          "x": "El modelo de reconocimiento facial lo construyeron Jacob Abernethy, profesor asociado en Georgia Tech, y Sai Lakshit Potluri, usando el marco de código abierto YOLO. Se entrenó con seis capuchinos silvestres captados en video GoPro de alta resolución filmado en Tabogo, y estudiantes de grado de Emory y Georgia Tech dibujaron manualmente cuadros delimitadores de rostros y etiquetaron nombres en miles de fotos y videos."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co-2.jpg",
+          "cap": "Los estudiantes de grado dibujaron cuadros delimitadores alrededor de los rostros de los capuchinos en video de campo y etiquetaron correctamente a los individuos. Los individuos en la foto son Pelé, Pedro, Fío y Pesto. Crédito: Emory University."
+        },
+        {
+          "t": "p",
+          "x": "El siguiente paso quedó a cargo de Federico Sánchez Vargas, estudiante de doctorado en antropología en Emory y primer autor del artículo. “El modelo reconocía bien a los seis, pero en el campo hay unos 100 capuchinos, y para el resto no teníamos video de alta resolución para entrenarlo.” Reescribió el modelo en Python para que, en lugar de identificar individuos, solo distinga “capuchino o no”. Cuando un mono se acerca, una webcam grava automáticamente, ampliando los datos de entrenamiento por sí sola. Un segundo script usa pygame para mostrar estímulos en pantalla, y al presionar un cuadrado azul un motor dispensa comida. Ambos scripts corren juntos en una Raspberry Pi de más o menos la mitad del tamaño de un iPhone, que dura ocho horas con un paquete de baterías."
+        },
+        {
+          "t": "p",
+          "x": "La caja que alberga el equipo se construyó en el garaje de Benítez. El equipo armó una caja de 51 centímetros de alto con tablas de pino, sellador, tiras de goma y tubería de plástico, e imprimió en 3D el dispensador en el TechLab de Emory."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co-4.jpg",
+          "cap": "Sánchez Vargas y Benítez seguían ajustando hasta las 11 de la noche la caja que habían diseñado y construido ellos mismos, la víspera de su viaje a Costa Rica. Crédito: Emory University."
+        },
+        {
+          "t": "p",
+          "x": "Durante los primeros dos días en el campo, no se acercó nadie. Al tercer día, un macho llamado Trompudo —que significa “hocico grande”— no pudo resistir el olor a plátano, se subió a la caja, golpeó la parte de atrás y terminó tocando la pantalla. Cayó un trozo de plátano seco. Volvió a tocarla, y salió otro trozo. “Se veía el momento en que entendía: ‘ah, solo hay que presionar la pantalla’.” Durante el período piloto, 16 individuos tocaron el equipo. Algunos aprendieron rápido; otros la inspeccionaron con los labios antes de besarla; otros más observaron a sus amigos y se acercaron más tarde."
+        },
+        {
+          "t": "p",
+          "x": "El equipo está volviendo a entrenar el modelo de reconocimiento facial con el video del período piloto y preparando experimentos en cuatro frentes: capacidad de aprendizaje, control de impulsos, flexibilidad cognitiva y memoria. El artículo también publicó el código y el diseño del equipo de bajo costo. “Nuestro método de IA no sustituye a los investigadores humanos en el campo,” dice Sánchez Vargas. “Todavía se necesitan los datos de observación que la gente recoge sobre el terreno.”"
+        }
+      ]
+    },
+    "science/science-claude-jamming": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dos físicos teóricos, uno de ellos premio Nobel. Un problema matemático que los tuvo atrapados durante una década se resolvió con la ayuda de Claude, el modelo de lenguaje a gran escala de Anthropic. Es un logro de la física fundamental, y otra prueba de que la IA está cambiando cómo se investiga en algunos campos."
+        },
+        {
+          "t": "p",
+          "x": "El escenario del problema son los sistemas complejos, en particular un fenómeno llamado jamming (atasco). “El jamming es una transición en la que un sistema en estado fluido se congela de pronto por completo mientras sigue siendo desordenado”, explica Francesco Zamponi, físico de la Universidad Sapienza de Roma. Imaginemos bolas sin fricción ni peso flotando dentro de una caja sin gravedad. Si añadimos más bolas o las inflamos, el espacio se estrecha, y en cierta densidad crítica cada bola queda atrapada por sus vecinas y todo el sistema se detiene. Si se congela despacio, se forma un cristal, como naranjas apiladas en un mercado; si se comprime rápido, se congela desordenado, como un atasco de tráfico."
+        },
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/08/claude-team-635x472.jpg",
+          "cap": "Los autores del artículo original de 2014. De izquierda a derecha: Giorgio Parisi, Patrick Charbonneau, Francesco Zamponi, Jorge Kurchan y Pierfrancesco Urbani. Foto: Maurizio Perciballi."
+        },
+        {
+          "t": "p",
+          "x": "El jamming es también un caso de un problema matemático mucho más general llamado satisfacción de restricciones. La posición de cada bola es una variable; la regla de que dos bolas no pueden superponerse es una restricción. Por eso la neurociencia y la inteligencia artificial usan el mismo concepto. En una red neuronal, los pesos sinápticos son las variables, y las clasificaciones que debe aprender son las restricciones. “Una red neuronal en estado ‘líquido’ ajusta sus pesos para cumplir todas las condiciones”, dice Zamponi, “pero cuando hay demasiados datos, choca con una pared, se vuelve ‘sólida’ y empieza a cometer errores.”"
+        },
+        {
+          "t": "p",
+          "x": "En 2014, Giorgio Parisi y Zamponi, junto con colegas de Estados Unidos y Francia, encontraron una relación extraña en cálculos numéricos. Al sumar dos parámetros, a y b, vinculados a la distribución de las fuerzas de contacto y a la escala de los huecos entre bolas, el resultado era invariablemente 1. Ambos valores son clave para definir la estructura empaquetada, pero por más que lo intentaran, nunca apareció una demostración formal de a + b = 1. Parisi recibió la mitad del Premio Nobel de Física de 2021."
+        },
+        {
+          "t": "p",
+          "x": "Preguntarle a una IA generativa fue idea de Parisi. Era un problema adecuado para encargárselo a una máquina: la conjetura era clara y existía incluso una respuesta numérica, pero faltaba la demostración analítica. Los dos eligieron Claude, por considerar que tenía mejores capacidades de codificación y razonamiento matemático. Aun así, no le pidieron la demostración de inmediato. “Primero le hicimos reproducir los cálculos numéricos que hizo nuestro grupo hace diez años. Cuando obtuvo los mismos resultados, naturalmente le hicimos la siguiente pregunta: ‘Si a + b = 1, ¿puedes demostrar por qué?’”"
+        },
+        {
+          "t": "p",
+          "x": "El primer camino que propuso el modelo era básicamente correcto, pero mezclaba pequeños errores matemáticos que exigieron varias rondas de pulido y verificación. Aun así, Zamponi dice que la “intuición clave” vino del lado de la IA. “Nosotros habíamos pasado años buscando una respuesta complicada, algo como una simetría estructural profundamente oculta, y Claude nos mostró que la respuesta era mucho más simple y estaba justo frente a nosotros.” La nueva demostración conecta la teoría de dimensión infinita del equipo de Zamponi con un marco construido en la misma época por el equipo de Matthieu Wyart en la EPFL, confirmando que ambos puntos de partida llegan a la misma ley física."
+        },
+        {
+          "t": "p",
+          "x": "Zamponi cree que la IA generativa podría llegar a ser tan importante como la Revolución Industrial o el nacimiento de internet, quizá más: una especie de “telescopio para la mente” que acelera el ritmo de la investigación. Por otro lado, le preocupa que una avalancha de artículos pseudocientíficos mediocres termine abrumando el sistema de revisión por pares. Los dos investigadores publicaron la transcripción completa de su conversación con Claude junto con el artículo. El estudio se publicó en el Journal of Statistical Mechanics: Theory and Experiment."
+        }
+      ]
+    },
+    "science/science-kaist-memtransistor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los chips de IA se están volviendo cada vez más programables. Investigadores de KAIST construyeron un dispositivo cuyas características de respuesta pueden programarse para manejar datos que llegan a velocidades muy variadas. Redujo el error de predicción para datos en constante cambio hasta 40 veces, y se considera una tecnología que podría mejorar el rendimiento de la IA en tiempo real en autos autónomos, robots y dispositivos wearables."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo liderado por el catedrático Choi Shin-hyun, de la Escuela de Ingeniería Eléctrica y Electrónica y la Escuela de Posgrado en Ingeniería de Sistemas Semiconductores, desarrolló un memtransistor dinámico programable (PDM) que fija sus características de respuesta temporal en múltiples estados y las conserva, junto con un arreglo integrado de estos dispositivos. El estudio se publicó en Nature Communications."
+        },
+        {
+          "t": "p",
+          "x": "Un memtransistor es un dispositivo de nueva generación que combina en uno la función de almacenamiento de información de una memoria con la función de cómputo de un transistor. El PDM procesa datos mientras conserva información previa, ajustando y manteniendo sus características de respuesta para adaptarse a los datos entrantes."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-chamele.jpg",
+          "cap": "El concepto y el principio de funcionamiento del memtransistor dinámico programable (PDM), que procesa señales de series temporales a través de múltiples escalas de tiempo. Los dispositivos convencionales tienen una única respuesta temporal fija, lo que limita el rango de escalas de tiempo que pueden manejar, pero el PDM usa una estructura de compuerta de doble función para fijar las características de respuesta en varias etapas, de rápidas a lentas, y conservarlas de forma no volátil. Fuente: KAIST."
+        },
+        {
+          "t": "p",
+          "x": "Las computadoras y los smartphones actuales necesitan un procesamiento de software complejo para analizar datos que cambian con el tiempo, lo que implica una gran carga computacional y un alto consumo de energía. La investigación ha seguido buscando que el hardware procese los datos directamente, pero una vez fabricado, un dispositivo convencional no puede cambiar su velocidad de respuesta."
+        },
+        {
+          "t": "p",
+          "x": "El equipo superó esta barrera construyendo una estructura de doble capa dentro del transistor: una capa de almacenamiento de carga que acumula y procesa los datos, superpuesta con una capa de captura de electrones que ajusta la velocidad de respuesta de forma no volátil. Los datos entrantes se procesan en la capa de almacenamiento de carga, mientras que la capa de captura de electrones ajusta, en varias etapas, la velocidad con la que el dispositivo recupera su estado original. En los experimentos, el tiempo de recuperación de corriente se pudo ajustar en un rango de aproximadamente 5 veces, y la frecuencia característica en un rango de más de 10 veces."
+        },
+        {
+          "t": "p",
+          "x": "En particular, en experimentos que predecían datos donde se entrelazaban cambios rápidos y lentos, el PDM redujo el error hasta 40 veces en comparación con dispositivos convencionales de velocidad de respuesta fija."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-chamele-1.jpg",
+          "cap": "La estructura de un arreglo de PDM que combina dispositivos con distintas características de respuesta temporal, y su rendimiento en el procesamiento de señales en múltiples escalas de tiempo. A cada dispositivo se le asigna una constante de tiempo distinta, de respuesta rápida a lenta, para procesar varias señales de series temporales a la vez. Fuente: KAIST."
+        },
+        {
+          "t": "p",
+          "x": "El procesamiento preciso sigue siendo posible incluso cuando cambia el estilo de la escritura o la velocidad de movimiento de un objeto, gracias a características de respuesta ajustadas a la escala temporal de la entrada. Una vez fijadas, las características de respuesta se mantienen sin necesidad de una fuente de alimentación externa continua, y los datos de entrada no requieren preprocesamiento aparte. El dispositivo también es compatible tal cual con los materiales de proceso semiconductor comerciales de uso extendido, lo que favorece la producción en masa y la comercialización."
+        },
+        {
+          "t": "p",
+          "x": "El equipo construyó un arreglo de PDM para predecir datos complejos, igualando la precisión de los sistemas existentes basados en software mientras usaba mucha menos energía. El profesor Choi Shin-hyun dijo: “Esta investigación demuestra un chip de IA cuyas características de respuesta pueden programarse para procesar eficientemente datos a distintas velocidades”, y añadió que “se convertirá en una tecnología clave para mejorar el rendimiento de dispositivos de IA como autos autónomos, robots y wearables, a la vez que se reduce su consumo de energía”."
+        }
+      ]
+    },
+    "science/science-ramanomics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A la hora de observar el interior de las células vivas, la biología ha dependido durante mucho tiempo de tintes fluorescentes. Funcionan bien, pero tienen un costo: la célula observada cambia, solo se pueden ver unas pocas estructuras a la vez, y hasta la precisión de la medición se reduce."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo dirigido por investigadores de la Universidad de Buffalo (University at Buffalo) presentó una forma de superar estos límites combinando inteligencia artificial con espectroscopia Raman. Ramanomics, una técnica óptica desarrollada en Buffalo, mide la composición bioquímica de una célula sin alterarla. En lugar de marcadores fluorescentes que se adhieren a componentes específicos y brillan bajo una iluminación especial, identifica las estructuras por la huella bioquímica única que poseen."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-and-ramanomics-coul-1.jpg",
+          "cap": "A la izquierda, se usan marcadores fluorescentes para rastrear estructuras celulares y recopilar datos bioquímicos que crean ejemplos de entrenamiento para la IA; a la derecha, la IA distingue estructuras celulares usando solo señales bioquímicas. Fuente: University at Buffalo, ACS Omega (2026)."
+        },
+        {
+          "t": "p",
+          "x": "“Esta colaboración interdisciplinaria que aplica IA a Ramanomics es la primera en demostrar que los orgánulos dentro de células vivas pueden identificarse de forma no invasiva, sin marcado con tintes”, dijo el Dr. Paras N. Prasad, director del Instituto de Láseres, Fotónica y Biofotónica de la Universidad de Buffalo y profesor distinguido de SUNY. “Esto abre un camino hacia la búsqueda de marcadores biológicos de enfermedades, el descubrimiento de nuevos fármacos y una medicina más personalizada.”"
+        },
+        {
+          "t": "p",
+          "x": "“En el momento en que se introduce un tinte en una célula, se está metiendo una sustancia extraña. Esa sustancia extraña altera el comportamiento natural de la célula, lo que afecta justo al valor que se intenta medir”, explicó el Dr. Varun Chandola, profesor asociado del Departamento de Ciencias de la Computación e Ingeniería de la Universidad de Buffalo. “Poder ver el interior de una célula sin alterarla físicamente es un gran avance. Como capta la biología tal como es, se obtiene una imagen más precisa de cómo funciona realmente la célula.”"
+        },
+        {
+          "t": "p",
+          "x": "Los dos son los investigadores principales de un artículo publicado en junio en ACS Omega. El equipo obtuvo “huellas” bioquímicas de cuatro tipos de orgánulos celulares mediante espectroscopia Raman, y luego usó esas huellas para entrenar varios modelos de aprendizaje automático. Una vez entrenada, la IA podía recibir solo una nueva medición Raman e identificar de qué parte de la célula provenía. Entre los modelos probados, una red neuronal fue la que mejor resultó, identificando correctamente los orgánulos con una precisión de alrededor del 90%."
+        },
+        {
+          "t": "p",
+          "x": "Al eliminarse el paso de preparar e introducir un tinte, el flujo de trabajo se simplifica, se reducen los artefactos experimentales y aumenta la sensibilidad de la medición. Observar las células durante más tiempo sin alterarlas también abre nuevas formas de ver cómo surgen y se propagan las enfermedades, y cómo responden al tratamiento. También se vuelve más fácil rastrear los cambios moleculares vinculados al cáncer o a enfermedades metabólicas."
+        },
+        {
+          "t": "p",
+          "x": "El equipo ha comenzado ahora a trabajar en acoplar modelos de IA a equipos de imágenes Raman de próxima generación que usan fuentes de luz cuántica. “Ahora mismo, obtener una sola señal confiable puede tardar hasta tres minutos”, dijo Chandola, y añadió que “reducir eso a alrededor de un segundo nos permitiría analizar muchas más células a gran escala”. El equipo también está ampliando el trabajo hacia el uso de las salidas del modelo para distinguir células cancerosas de células normales."
+        }
+      ]
     }
   }
 }

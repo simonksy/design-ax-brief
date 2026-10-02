@@ -958,6 +958,421 @@
           "x": "Aside from the core AI clip-selection feature, the software itself is fairly solid. It starts recording automatically with a small popup when you launch a game, and once you quit the game you can freely edit by adding and removing clips. You can also set a storage cap, and once it's reached, the oldest recordings get deleted first. He noticed no performance drop while recording, but that was on a high-end PC, so results may vary depending on the setup."
         }
       ]
+    },
+    "games/qssr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "PSSR은 PS5 Pro에 AI 업스케일링을 가져왔지만, GPU 성능이 낮은 기본 PS5는 그 혜택을 받지 못했다. Sony는 블로그 글에서 기본 콘솔에서 돌아가는 새 모델 Quick Spectral Super Resolution, 즉 QSSR을 자세히 소개했다. PSSR처럼 AMD와 함께한 Project Amethyst 협업에서 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "QSSR은 PSSR보다 훨씬 가벼워서 PS5 Pro의 PSSR만큼 디테일을 살리지는 못한다. 그래도 이 콘솔이 전통적으로 쓰던 템포럴 업스케일링보다는 훨씬 정확할 것으로 보인다."
+        },
+        {
+          "t": "p",
+          "x": "QSSR은 Marvel's Wolverine과 Ghost of Yotei에서 처음 적용된다. Insomniac의 Mike Fitzgerald는 QSSR이 \"PS5 플레이어에게 PS5 Pro 경험을 제대로 맛보게 해 준다\"고 말했다. Sony 비교 영상에서 QSSR은 먼 건물과 수풀의 세밀한 디테일을 훨씬 더 많이 살린다. 다만 화면이 여전히 흐릿하거나 노이즈가 조금 낄 때도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Sony는 QSSR을 모든 개발사에 제공한다고 밝혔다. 두 게임의 패치는 오늘 나온다."
+        }
+      ]
+    },
+    "games/games-1666-ai-assets-cut": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Patrice Désilets reaffirmed that he has removed all AI-made assets from 1666: Amsterdam, and won't use them going forward. He apologized for the parts that slipped through unfiltered, and said it won't happen again."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/szrjvRP5ugTH28quHLyhJE-1920-80.jpg",
+          "cap": "Image: GamesRadar+"
+        },
+        {
+          "t": "p",
+          "x": "\"We live in a world full of AI. Between us, that's the honest truth.\" That's Désilets's statement. \"But there were parts of the pipeline we didn't clean up enough. Since then, we've made sure not to use AI anywhere in the game.\""
+        },
+        {
+          "t": "p",
+          "x": "The controversy began after this witch action-adventure was revealed at Summer Game Fest. Sharp-eyed players spotted AI-generated artwork in a short free demo Panache Digital posted on Steam. The Assassin's Creed creator told reporters at a recent hands-on event that it \"won't be in the final product.\" As soon as the generative AI art was flagged, he put an illustrator on cleaning it up, and now says every image is \"real.\""
+        },
+        {
+          "t": "p",
+          "x": "According to Désilets, the team used AI tools early in development. \"I can ask AI to turn one thing into 75 variations. I can't call in 75 illustrators and get variations back in 3 seconds. That's the world we live in, and we're a small team making this game,\" he said. \"Eventually, we didn't even notice it was AI anymore, because we got used to looking at it.\""
+        },
+        {
+          "t": "p",
+          "x": "\"I'm really sorry about that. Honestly, it's something we did among ourselves 2 to 3 years ago. Something slipped through unfiltered when we put the demo out. It won't happen again.\""
+        },
+        {
+          "t": "p",
+          "x": "1666: Amsterdam enters Early Access on August 25. It can be downloaded and played on PC via Steam."
+        }
+      ]
+    },
+    "games/games-eve-frontier-agent-testbed": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Fenris Creations (formerly CCP Games), the studio behind EVE Online, has hired former Icelandic minister Áslaug Arna Sigurbjörnsdóttir as director of AI partnerships."
+        },
+        {
+          "t": "p",
+          "x": "Sigurbjörnsdóttir served as Iceland's minister of justice and minister of higher education, science and innovation. Fenris has put her in charge of working with AI labs, universities, policymakers, and strategic partners. It's a new research initiative set against EVE Frontier, EVE Online's survival spinoff."
+        },
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf582a97c7f66b1e6/6a79e9d13f9687dbb361f2ae/Eve_Header.png",
+          "cap": "An EVE Frontier ship crossing a red sci-fi horizon"
+        },
+        {
+          "t": "p",
+          "x": "The company's announcement read: \"Fenris Creations has spent the past few months preparing to test a bold hypothesis—that a persistent virtual world backed by real social and economic systems, like EVE Frontier, could serve as a living stage to test advanced AI before it becomes more deeply embedded in our daily lives.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Instead of relying only on short simulations that reset when they end, the goal is to create a place where autonomous agents can be observed alongside real people, inside an open, evolving economy with real consequences—within the kind of dynamic system only the company's game can offer.\""
+        },
+        {
+          "t": "p",
+          "x": "The Reykjavik-based studio sees the EVE universe as well suited to training autonomous AI, since it has no fixed endpoint and is an unpredictable universe shaped by the choices of hundreds of thousands of people."
+        },
+        {
+          "t": "p",
+          "x": "\"That makes this one of the few places where you can study the behavior of autonomous systems under conditions close to a real society, a real economy—including the irrational, emotional, and unpredictable responses that real people bring,\" the company explained."
+        },
+        {
+          "t": "p",
+          "x": "\"In EVE Frontier, the new chapter of the EVE universe, autonomous AI systems set goals, respond to change, and sustain consistent decisions over long stretches of time. That process is observed within a living, open world. Researchers can better evaluate model behavior in genuinely complex environments and draw on it to develop future AI responsibly.\""
+        },
+        {
+          "t": "p",
+          "x": "Fenris says this research will also improve EVE Frontier itself, used to make NPC behavior richer and refine the onboarding process for new players. \"If the plan succeeds, it opens up an entirely new role for Fenris Creations and EVE Frontier—making a meaningful contribution to research on intelligent agents, complex systems, and AI alignment, while also expanding the range of experiences EVE Frontier can offer players.\""
+        },
+        {
+          "t": "p",
+          "x": "Sigurbjörnsdóttir said her experience making and enforcing policy will help the studio and its partners—making \"meaningful progress\" with the regulators overseeing the AI sector."
+        },
+        {
+          "t": "p",
+          "x": "\"There is no bigger opportunity to help shape the future of AI innovation together—being part of a testbed that helps our partners make meaningful progress with regulators and build safe, practical, and trustworthy AI standards,\" she said. \"I'll help Fenris push this work forward responsibly.\""
+        },
+        {
+          "t": "p",
+          "x": "The news comes a few months after Fenris announced it would stand as an independent studio and entered a research partnership with Google DeepMind, at which point Google took a stake in the studio."
+        }
+      ]
+    },
+    "games/games-no-mans-sky-not-rushing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Around when No Man's Sky first came out, its biggest boast was its sophisticated algorithms. They generated more planets than a single person could visit even living a billion lifetimes. Ten years later, some companies promise that another technology, large language models and generative AI, can inflate a developer's output just as far beyond imagination. Hello Games CEO Sean Murray says he has no plans to join that race."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/no-mans-sky-1200x675.jpg",
+          "cap": "No Man's Sky"
+        },
+        {
+          "t": "p",
+          "x": "\"I remember coming back from COVID. Everyone was figuring out how to run studios and game companies.\" He said this in an interview with Kotaku for No Man's Sky's 10th anniversary. \"How do you get people working together again? Call them back to the office? Go hybrid? We talked about that a lot. I remember saying at the time, 'Let's hold back a bit. Keep working from home, and let everyone else screw it up first.'\""
+        },
+        {
+          "t": "p",
+          "x": "Despite all the claims and fears around generative AI, Murray plans to respond the same way. Before co-founding Hello Games, he was at Criterion Games. In 2006, while he was lead programmer on the cult FPS Black, the company was owned by Electronic Arts. EA is reported to be covering some of the debt from its $55 billion sale to Saudi Arabia with new AI technology."
+        },
+        {
+          "t": "p",
+          "x": "\"I read the article about EA being sold to the Saudis,\" he said. \"It's like, 'Don't worry, we're going to use AI for everything, so we'll save billions of dollars.' That kind of thing. And I just sit there and think, great, good luck, let's see how that goes. I'll watch from a distance.\""
+        },
+        {
+          "t": "p",
+          "x": "Just as Murray waited to see how office work settled after COVID, he plans to watch what becomes the industry standard over the next few years. Just a few months ago, major games from the Tomb Raider remake to the new Crazy Taxi faced fan backlash after revealing they'd used some generative AI in development. Players worry slop will end up in the finished game, and developers haven't clearly explained what adding the technology actually improves."
+        },
+        {
+          "t": "p",
+          "x": "Murray's prediction is this: AI won't change the fundamental difficulty of making a good game. \"Making games is really hard, and people are going to learn that hard things are still hard—making something feel good to play,\" he added. \"My day-to-day role is just to enjoy making games the way we always have. That still works for us, and we still enjoy it.\""
+        }
+      ]
+    },
+    "games/games-axolotl3d": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "2mg8tNIKvXE"
+        },
+        {
+          "t": "p",
+          "x": "Axolotl3D is a unified model that generates 3D shapes from incomplete observations arriving in different forms. Whether it's reconstructing from photos, filling in occluded parts, or touching up a shape that already exists, one model handles all of it."
+        },
+        {
+          "t": "p",
+          "x": "Recent 3D generation methods have improved a lot in quality, but they assume an ideal condition: a clean single image showing the whole object. Reality is different. Objects are partly occluded, captured from only a handful of viewpoints, or survive only as partial 3D data. Sometimes you also want to fix a flaw in a shape you've already built, or change just one part of it."
+        },
+        {
+          "t": "p",
+          "x": "Researchers have been solving these problems one at a time. Each approach was strong in its own domain, but nothing spanned all four. The starting point for Axolotl3D is the observation that all four tasks ultimately come down to completing a 3D object from incomplete observations."
+        },
+        {
+          "t": "p",
+          "x": "Whatever forms of input come in, each is encoded and merged into multimodal conditioning tokens. These tokens condition a diffusion transformer to produce a completed shape latent. The key is how it's trained: it simulates varied partial observations across a large 3D dataset and mixes inputs on the fly. That makes cross-modality reasoning robust and lets it carry over to many situations."
+        },
+        {
+          "t": "p",
+          "x": "This shows up in a real image-to-3D pipeline too. A handful of photos are used to predict and align camera and 3D points, which are then handed to the model to produce the final mesh. In effect, a complete 3D mesh comes out of casually taken photos."
+        },
+        {
+          "t": "p",
+          "x": "Local editing works too. Paint directly over a rendered view to mark where to edit, an inpainting model generates the changed appearance, and Axolotl3D lifts that into 3D geometry. Because the original point cloud is kept as a condition, the untouched areas stay exactly as they were."
+        },
+        {
+          "t": "p",
+          "x": "It can also pull an incomplete object straight out of a real captured scene. Once a user segments an object in the scene, its splats become the conditioning points, and the model produces a mesh that's ready to use in simulation. Unlike a Gaussian splat fragment that's left with large holes, a completed mesh makes physics simulation far more accurate."
+        },
+        {
+          "t": "p",
+          "x": "The authors also noted a limitation: because the model follows input points faithfully, how well it holds up against noisy input is left as a balance to work out going forward. The research has been accepted to ECCV 2026, and the authors are Anita Hu and Maria Shugrina."
+        }
+      ]
+    },
+    "games/games-motion-imitation": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "8B05cy3UuSE"
+        },
+        {
+          "t": "p",
+          "x": "Teaching parkour to a virtual human is a strange problem. Knowing every move perfectly is useless if you don't know when to use which one. A perfect jump means nothing if the vaulting box has shifted out of reach."
+        },
+        {
+          "t": "p",
+          "x": "Systems that strictly imitate a human look beautiful, but they're brittle and repetitive. Systems that chase a goal adapt well, but they often stop moving like a human. This research sets out to do both: it remembers human motion precisely while still knowing when to break from the script if it has to."
+        },
+        {
+          "t": "p",
+          "x": "The training data is surprisingly small: 19 parkour videos pulled from the internet, 30 seconds in total. Existing methods couldn't handle this task. They either staggered around like they were drunk, or gamed the problem by dodging the level instead of actually clearing it."
+        },
+        {
+          "t": "p",
+          "x": "The new method clears levels like a ninja. It combines and adapts the skills it has learned to fit the situation. It holds up well on longer levels, when multiple levels are placed together, and in front of obstacle layouts it has never seen before."
+        },
+        {
+          "t": "p",
+          "x": "Here's how it works. One character is placed in two classrooms at once. In the first classroom, it imitates human motion. That produces human-like movement, but nothing beyond what it has already seen. In the second classroom, it solves new obstacle courses. Both classrooms feed it information about the body, the obstacles, and the destination together."
+        },
+        {
+          "t": "p",
+          "x": "The key is a judge. Shown real human motion alongside the surrounding obstacles, the judge has to call it real; shown AI-generated motion, it has to call it fake. That judge is used to train an AI performer. Clumsy movement gets a low score, while human-like movement that fits the obstacles gets rewarded. The performer gets better at fooling the judge, and the judge gets better at catching artificial movement, and the two improve together. A final term stabilizes the judge so that a slight change in movement doesn't flip its verdict entirely."
+        },
+        {
+          "t": "p",
+          "x": "It's not perfect. Tracking error is lower than with previous methods, but the success rate is a bit lower too. The success rate on long levels still sits around 40%. Unnatural recovery movements also remain a limitation. The paper is freely available, and code may follow later."
+        }
+      ]
+    },
+    "games/games-pssr2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/08/PlayStation-5-Pro-Beta-Update-PSSR-1920x1080.jpg",
+          "cap": "PS5 Pro beta system software update"
+        },
+        {
+          "t": "p",
+          "x": "The feature that ultimately defines the PS5 Pro is a single one: the PlayStation Spectral Super Resolution (PSSR) upscaler. The first version left something to be desired, with cases like the Silent Hill 2 remake where it didn't mesh properly with Unreal Engine 5's lighting rendering. PSSR 2.0, which followed, took the console's gaming experience up a notch."
+        },
+        {
+          "t": "p",
+          "x": "The problem is games that haven't been updated. Those titles still only support the first version, so improving their image quality depends on the system's “Enhanced PSSR Image Quality” toggle. That toggle will eventually disappear once a successor to the upscaler arrives. Until then, Sony seems intent on getting as much use out of it as possible, so that PS5 Pro users end up using the latest PSSR in every supported game."
+        },
+        {
+          "t": "p",
+          "x": "According to posts on the ResetERA forum, Sony has started sending out invitations to test a new PlayStation 5 system software update. The accompanying email reads: \"The 'Enhanced PSSR Image Quality' feature is now turned on by default. Updating your system software will automatically turn on this setting. When enabled, Enhanced PSSR Image Quality is applied even to games that support an earlier version of PSSR, giving you a sharper, clearer picture.\""
+        },
+        {
+          "t": "p",
+          "x": "The rest is quiet: system software performance and stability improvements, plus a small change to the Bluetooth off function in some regions. That said, since this is still a beta, there's room for undocumented features or additional changes before the final release. No official release date has been set yet."
+        }
+      ]
+    },
+    "games/games-qa-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Square Enix, one of Japan's largest game publishers, is teaming up with Google to build AI for QA testing. The goal is to speed things up by automating quality control and review in game development. After AI has already pushed into the roles of artists and programmers across gaming and other industries, QA testers are now on the chopping block."
+        },
+        {
+          "t": "p",
+          "x": "According to Automaton, Square Enix has been actively using Gemini, Google's flagship AI, to speed up QA testing. At last week's Google Cloud Next Tokyo '26 event, the company confirmed directly that it plans to use more AI in game development."
+        },
+        {
+          "t": "p",
+          "x": "The AI is said to be able to play through an entire game. It “analyzes the screen and understands what's happening in the game” and uses in-game controls directly. A video reportedly demonstrating this was shown at the event, but the video itself has been hard to actually track down."
+        },
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/06/image-2026-06-16T100650.871.jpg?quality=75&w=840&resize=1024%2C576",
+          "cap": "Square Enix is well known for the Final Fantasy series. Now it has AI by its side too. Image credit: Square Enix"
+        },
+        {
+          "t": "p",
+          "x": "Square Enix executives explained that they never envisioned having a conversation with the AI. What they wanted was “an AI that listens to the game's sound, observes minute changes happening on screen, and fully understands the situation.” Automaton noted that the workload on Square Enix developers has grown significantly in recent years, and that this appears to be the backdrop for expanding AI use."
+        },
+        {
+          "t": "p",
+          "x": "The company says this will let developers focus on creative work and lighten the burden of the most tedious tasks."
+        },
+        {
+          "t": "p",
+          "x": "In theory, that makes sense, since a large part of QA involves holding down a movement button and repeating the same action endlessly. But it's hard to shake the feeling that this is corporate language covering up the real intent. AI makes things cheap and fast, not necessarily better."
+        },
+        {
+          "t": "p",
+          "x": "Automaton added that Square Enix even received support from Japan's Ministry of Economy, Trade and Industry to build an AI-based automated QA development platform. That gives the company institutional backing to push ahead."
+        },
+        {
+          "t": "p",
+          "x": "In any industry, AI takes human creativity away. Creativity isn't just the basis of art; it underpins countless fields. QA is tedious, grueling work, that much is true, but AI will miss a lot, especially at a fine-grained level, and the result will be a worse experience at launch than before."
+        },
+        {
+          "t": "p",
+          "x": "On top of that, because AI makes things up so often, cleaning up after it could become an even more tedious and tricky job, likely piling more work onto the very developers it was supposed to help."
+        },
+        {
+          "t": "p",
+          "x": "Everyone loses out, and these giant companies, backed even by the government, don't so much as blink."
+        }
+      ]
+    },
+    "games/games-take-two-ai-not-replace": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In a recent earnings call for Take-Two Interactive, maker of Grand Theft Auto 6, CEO Strauss Zelnick spoke about the future of AI in game development. While he acknowledged his own company would use AI, he held firm to the view that the technology would not replace anyone."
+        },
+        {
+          "t": "p",
+          "x": "“Those tools don't replace anybody,” Zelnick said. He explained that the company focuses on making entertainment rather than leading with technology."
+        },
+        {
+          "t": "p",
+          "x": "“The first of our core pillars is creativity,” Zelnick said. “We have 13,000 colleagues around the world, the vast majority of whom create something every day. I believe technology can enhance their creativity, but it cannot and should not replace it.”"
+        },
+        {
+          "t": "p",
+          "x": "Zelnick does not believe using AI will significantly lower development costs. Instead, he said it could “meaningfully elevate” the quality of games. He has said similar things before. In a 2025 investor presentation, Take-Two said it would not use AI as an excuse to cut staff."
+        },
+        {
+          "t": "p",
+          "x": "Zelnick also confirmed that day that GTA 6 has not been delayed and will launch on PS5 and Xbox Series X|S on November 19. He forecast that GTA 6 would give the company a very strong fiscal year. He said pre-orders are at a level “unprecedented in the industry,” and may represent demand the industry has never seen."
+        }
+      ]
+    },
+    "games/games-blood-rain-cope": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/stella-balde-e1785850013847.jpg",
+          "cap": "Image: Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "Kim Hyung Tae is an artist who has made games for decades. It was never going to go over well with hardcore fans once he embraced generative AI. The Shift Up CEO recently released a music video featuring Evie, the protagonist of the studio's new game Stellar Blade: Blood Rain. Fans kept calling it slop and tearing it down, and his explanation didn't change their minds."
+        },
+        {
+          "t": "p",
+          "x": "“EVIE, who is the center of this video, is a character our talented artists and modelers spent over a year building from head to toe.” Kim Hyung Tae wrote on X last week, as reported by IGN. “AI isn't creating her from scratch. It's rendering the character based on the data, design, and craftsmanship our team built. I'd really appreciate it if you could view the work with that in mind.”"
+        },
+        {
+          "t": "p",
+          "x": "That explanation only raises more questions about where the finished video actually came from. Was it produced using only existing human-made art and in-game footage? Wasn't the AI tool used trained on a database full of other people's work? How many people actually worked on the music video itself?"
+        },
+        {
+          "t": "p",
+          "x": "One fan answered with a comparison. “Bayonetta pulled this off 16 years ago, without AI, using in-game models, on a far smaller budget than Stellar Blade….”"
+        },
+        {
+          "t": "p",
+          "x": "“Kim Hyung Tae was one of the most influential artists of our generation.” said another fan. “It's absurd that he's defending AI this openly, even at the cost of his reputation. One drawing from you, on skill alone, would spread further than any AI video.” Another post said he'd tainted over a year of work with something as cheap as a “Grok, make my character dance” request."
+        },
+        {
+          "t": "p",
+          "x": "Some pointed out that Evie in the video doesn't resemble how she looked at her trailer debut earlier this year. “You're diminishing the quality of your own work, your brand, your studio, and the character Evie herself,” one user wrote. Even players with no objection to generative AI itself took issue with the quality of this particular result. “If it had looked good, the reaction would have been positive. But the costume changes between cuts, and so does her appearance. LLMs are improving, but they're not there yet.”"
+        },
+        {
+          "t": "p",
+          "x": "One critic posted this: “Telling a computer to spit out a ridiculously bad AI video and then acting like that is insane self-justification. He's basically saying, 'understand me, I showed you a drawing of my character I made,' lol. The reason the effort looks like zero is that it actually is. Take the hint.”"
+        },
+        {
+          "t": "p",
+          "x": "This is the first time Shift Up has been on the defensive since Stellar Blade launched. The hardcore fandom that spread conspiracy theories about Sony censorship and raged over the game missing out on Game of the Year nominations—with its fierce attachment to the female protagonist in particular—has now turned on the CEO himself."
+        },
+        {
+          "t": "p",
+          "x": "There's no evidence yet that AI was used in Stellar Blade: Blood Rain itself. But Kim Hyung Tae has been openly pushing the technology as a tool that lets small studios compete with big companies. “We put about 150 people on one game, while China puts in 1,000 to 2,000,” he said earlier this year. “We can't compete on quality or on volume of content.”"
+        },
+        {
+          "t": "p",
+          "x": "“One person can do the work of 100,” he added. Meanwhile, AI can also burn through an entire fandom's goodwill in a matter of seconds."
+        }
+      ]
+    },
+    "games/games-world-apart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://es.kotaku.com/app/uploads/2026/08/Diseno-sin-titulo-2026-08-07T105252.732.jpg",
+          "cap": "Image: Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "Artificial intelligence keeps pushing further into the games industry. Some are still wary of the technology, while several studios are already experimenting with changing how people and virtual worlds connect in the first place. This time, one of the world's leading tech companies has released an ambitious project meant to set the standard for that new wave."
+        },
+        {
+          "t": "p",
+          "x": "ChinaJoy 2026, one of Asia's biggest gaming events, became a stage where AI-driven projects showed themselves off. One that stood out was World Apart, a PC RPG being made under ByteDance, the owner of TikTok. The company makes no secret of wanting a presence in the games industry too."
+        },
+        {
+          "t": "p",
+          "x": "The studio's stated goal is bold: to become the game with the most generative AI in the market. It's more of a marketing line than a measurable trait, but it makes clear where the development is headed."
+        },
+        {
+          "t": "p",
+          "x": "In conventional role-playing games, NPCs repeat lines written in advance. World Apart aims for much more natural conversation. The idea is to have characters read context and respond to player choices in real time, so each encounter plays out differently."
+        },
+        {
+          "t": "p",
+          "x": "What technology will make this happen hasn't been disclosed yet. But integration with NVIDIA ACE is widely rumored. It's a platform built by the American company to give NPCs advanced conversational ability, having characters listen, process information, and answer with voice generated on the spot."
+        },
+        {
+          "t": "p",
+          "x": "This isn't the first time. A widely known example is inZOI, made by Krafton. Characters called Smart Zois showed more complex behavior, simulated emotion, and a breadth of interaction rarely seen in this genre."
+        },
+        {
+          "t": "p",
+          "x": "Interest is high, but World Apart is still full of question marks. The official Steam page confirms only that it's in development and lets people add it to their wishlist, while the combat system, character progression, world scale, and exploration all remain hidden."
+        },
+        {
+          "t": "p",
+          "x": "Much of the heated anticipation in China comes from exactly that unknown. Most of what's been shown so far is AI-made prerendered footage, and there's been no extended look at how it actually plays. That's why many are asking whether what's visible now is the final product, and whether AI will really turn things upside down the way the studio claims."
+        },
+        {
+          "t": "p",
+          "x": "World Apart is part of a bigger picture at ByteDance. The company has spent years restructuring its interactive entertainment organization and attaching AI to multiple projects, releasing nearly a dozen titles at ChinaJoy 2026 alone."
+        },
+        {
+          "t": "p",
+          "x": "What gets said on stage needs to be taken with a grain of salt. Phrases like “the game with the most AI in the world” are familiar marketing language, and there's no evidence yet that the promise will really translate into a different experience. What's clear is that this ranks among the most ambitious generative-AI experiments announced recently. Even meeting part of its goals could mark a line in the evolution of NPCs."
+        }
+      ]
     }
   }
 }

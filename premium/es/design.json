@@ -1047,6 +1047,538 @@
           "x": "Él imagina al diseñador del futuro no como alguien que conoce todas las herramientas de IA, sino como alguien que sabe cuándo usarla, qué preguntar, qué dudar y cuándo no usarla en absoluto. Un diseñador que produce 100 conceptos por hora puede ser más productivo. Un diseñador que nota que 99 de ellos resuelven el problema equivocado puede ser más valioso. Su conclusión es que las organizaciones también deberían evaluar la definición del problema, el criterio y la experimentación, y no solo la velocidad, el volumen y el acabado."
         }
       ]
+    },
+    "design/design-animating-border-image": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El border-image de CSS es una función que mucha gente conoce pero suele pasar por alto. En resumen, usa una imagen o un degradado como borde en lugar de líneas planas como solid o dashed."
+        },
+        {
+          "t": "p",
+          "x": "Hay una advertencia importante: la imagen de borde no se dobla para seguir la forma del borde. Aun así, al autor le gusta border-image por su eficiencia. Se recorta bien y se aplica sola a los cuatro lados. Esa propiedad resulta especialmente útil al animar imágenes de borde y degradados."
+        },
+        {
+          "t": "p",
+          "x": "El ejemplo es sencillo: un solo div con texto con formato. Después de fijar un tamaño para .card y colocar una imagen de fondo, se ajusta un poco el texto para que no quede pegado encima del fondo."
+        },
+        {
+          "t": "p",
+          "x": "Para el borde se usa un degradado CSS de un solo color, por dos razones. Un degradado también es un tipo de imagen de fondo, y resulta cómodo para mostrar animación. El degradado se coloca en el lugar del borde con border-image-source, border-image-slice y border-image-width. En la demo hay un pequeño espacio entre el borde en movimiento y la imagen."
+        },
+        {
+          "t": "p",
+          "x": "Aquí surge un problema: los degradados no se animan por defecto. Por eso el autor registra directamente una propiedad personalizada, ya que las variables CSS sí pueden animarse. Al registrar una variable como --p con un tipo de sintaxis como <percentage>, <angle> o <number>, y aplicar una transición en hover, el borde se mueve."
+        },
+        {
+          "t": "p",
+          "x": "No hay razón para detenerse aquí. Se puede usar conic-gradient en lugar de linear-gradient, animar el propio valor de border-image-slice, y poner border-image-repeat en round para que se repita como un mosaico. Al mover el slice de 1 a 20 píxeles en hover, el patrón del borde se rompe de forma entrecortada. No es una técnica que un agente de código elegiría por sí mismo."
+        }
+      ]
+    },
+    "design/design-figma-agents-in-file": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "yheAh7VOHLc"
+        },
+        {
+          "t": "p",
+          "x": "Este es un video en el que Figma muestra directamente cómo trabajar con agentes dentro de un archivo de diseño. El soporte para FigJam y Slides se anunció como el siguiente paso. Es la declaración más clara hasta ahora, en palabras de la propia empresa, de que los agentes no desplazan los archivos existentes, sino que se instalan dentro de ellos."
+        },
+        {
+          "t": "p",
+          "x": "Empezar es sencillo. Se elige una capa en el lienzo y se pulsa Agents, y aparece un cuadro de prompt sobre el lienzo. El atajo es Cmd o Ctrl + Enter. Al pulsar Agents en la navegación izquierda, la barra lateral permanece abierta y la conversación continúa."
+        },
+        {
+          "t": "p",
+          "x": "Figma describe el papel del agente en tres partes: crear y variar diseños, automatizar tareas tediosas, y recibir retroalimentación de diseño. Con prompts se generan nuevas pantallas y layouts, y se ajustan el layout, el espaciado y las instancias de componentes. Aplica estilos y variables existentes, y crea o edita imágenes. La lista también incluye redactar y corregir contenido en volumen, crear plugins y shaders, añadir movimiento y animación, y conectar bibliotecas de diseño."
+        },
+        {
+          "t": "p",
+          "x": "También está claro lo que no puede hacer. La edición vectorial y la herramienta Draw todavía están en desarrollo, y no puede exportar assets ni crear diagramas o visualizaciones de datos. Tampoco se puede usar en móvil ni en otros productos de Figma."
+        },
+        {
+          "t": "p",
+          "x": "No hay restricción de plan. Sin embargo, se necesita un asiento Full con permiso de edición para modificar realmente el archivo; los asientos View, Dev o Collab solo pueden conversar. Durante la beta está abierto de forma gratuita, pero con un límite de uso mensual que se reinicia cada mes."
+        }
+      ]
+    },
+    "design/design-mablelink-maya-transfer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49666/images/6a79d3382bcf7/contain_1200x630.jpg",
+          "cap": "MableLink."
+        },
+        {
+          "t": "p",
+          "x": "MableLink, de Mohamed Ragheb, es un conector de pipeline pensado solo para usuarios de Maya. En lugar de aplanar la escena con una exportación simple, conserva los datos subyacentes intactos."
+        },
+        {
+          "t": "p",
+          "x": "Envía escenas animadas de Maya directamente a Blender y Unreal, conservando rigs, animación, blend shapes, cámaras, luces, pivotes y jerarquía. También se transfieren materiales basados en física como vidrio, dispersión de subsuperficie, emisión y clearcoat. Además soporta resincronización en vivo con Blender y Unreal, NURBS, importación y exportación GLB/GLTF con compresión inteligente de texturas, funcionamiento sin depender de Blender, y conversión de malla a vóxel para MagicaVoxel."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos versiones. La versión gratuita da 20 transferencias a Blender, 20 a Unreal y 5 transferencias de materiales basados en física. Pro elimina estos límites y añade Update Sync."
+        },
+        {
+          "t": "p",
+          "x": "La instalación toma pocos minutos. Se arrastra y suelta en Maya, se hace un clic en Blender, y se ejecuta un script en Unreal para que quede instalado como un plugin real en todos los proyectos de ese motor. También se añade a los proyectos que se creen después. El paquete portátil .mable guarda la escena, los materiales y las texturas en un solo archivo para que cualquiera del equipo lo abra en Blender o Unreal."
+        },
+        {
+          "t": "p",
+          "x": "La compatibilidad cubre Maya 2024/2027, Blender 4.5 LTS/5.2 LTS, y Unreal Engine 5.8. El desarrollo sigue en marcha, y recientemente pasó de v0.1 a v0.1.3."
+        },
+        {
+          "t": "p",
+          "x": "Pro es una compra única. La misma clave de licencia funciona en hasta 5 dispositivos, y sigue siendo válida incluso después de reinstalar."
+        }
+      ]
+    },
+    "design/design-mudbox-discontinued": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260810_AutodeskDiscontiuesMudbox_f-960x480.jpg",
+          "cap": "Autodesk Mudbox."
+        },
+        {
+          "t": "p",
+          "x": "Autodesk va a discontinuar Mudbox, su software de escultura digital. Era una herramienta usada en concept art, desarrollo de videojuegos, efectos visuales y motion graphics."
+        },
+        {
+          "t": "p",
+          "x": "Las ventas y renovaciones de la suscripción de 3 años ya terminaron el 7 de agosto de 2026. Las suscripciones mensual y anual le siguen el 7 de noviembre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Mudbox salió de Wētā FX hace 20 años. Lo crearon los artistas Andrew Camenisch, Dave Cardwell y Tibor Madjar, que dejaron el estudio tras trabajar en King Kong en 2005. Los tres recibieron un premio técnico de la Academia en 2014 por «funciones de diseño nuevas y potentes que elevaron de forma significativa el estado del arte de la escultura digital multirresolución». Autodesk adquirió a Skymatter, el desarrollador original, en 2007."
+        },
+        {
+          "t": "p",
+          "x": "Hacia 2017, Autodesk volvió a invertir y añadió un sistema de teselado dinámico en Mudbox 2018.2. Las mejoras notables se detuvieron ahí. Mudbox 2027, lanzado en marzo de 2026, fue «la sexta actualización anual consecutiva sin ninguna función nueva en sus notas de lanzamiento»."
+        },
+        {
+          "t": "p",
+          "x": "Aunque no hubo funciones nuevas durante años, los artistas mantuvieron su suscripción de unos 105 dólares al año. La razón fue su flujo de trabajo intuitivo basado en capas. A diferencia de ZBrush o 3DCoat, cuya interfaz y flujo de trabajo se alejan del estándar, Mudbox nunca resultó ajeno para quienes venían de otro software de CG."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2025/04/250328_Mudbox2026_main.jpg",
+          "cap": "Una recreación de fans de la princesa Mérida de Disney, esculpida en Mudbox por el artista de personajes Xhon Hysenaj. Sirvió como la última imagen promocional del sitio web de Mudbox de Autodesk."
+        },
+        {
+          "t": "p",
+          "x": "Los suscriptores a partir del 7 de agosto de 2026 podrán usar Mudbox 2027 durante cinco años. Sin embargo, el soporte técnico y los parches de seguridad duran solo tres años, y después de eso no habrá ni funciones nuevas ni corrección de errores."
+        }
+      ]
+    },
+    "design/design-agent-ui-mcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cualquiera que haya desarrollado algo con Claude o Cursor últimamente conoce el patrón. El código es limpio y la lógica funciona, pero la pantalla parece un clon de Bootstrap de 2015. Todas las esquinas son igual de redondeadas, las sombras se colocan en cualquier parte sin transmitir profundidad, y las animaciones parecen robóticas en lugar de orgánicas."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes son buenos produciendo HTML y CSS que funcionan, pero no tienen ningún concepto de intención de diseño. Escriben código que pinta un botón de azul, pero no saben por qué debería aparecer una escala de resorte al pulsarlo, ni cómo debería cambiar la elevación frente al plano de fondo. El resultado es una interfaz “zombi”: funciona, pero no tiene vida, y eso es un problema técnico que también afecta la accesibilidad y el control del usuario."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta que usa para cerrar esa brecha es el UI/UX Excellence Prover, conectado mediante Vinkius. No escribe el código por él; funciona como una prueba unitaria de diseño conectada al flujo del agente, que verifica si un componente generado cumple los estándares de 2026 en seis pilares."
+        },
+        {
+          "t": "p",
+          "x": "La primera observación es la “decoración plana”. Los agentes añaden un box-shadow a cada tarjeta porque parece moderno, pero una sombra está pensada para indicar espacio, no para decorar. Una pantalla bien construida expresa jerarquía con niveles de elevación de 0 a 5; si todo tiene sombra, nada destaca. El Prover detecta sombras sin justificación y obliga a definir la elevación con tokens que realmente signifiquen profundidad."
+        },
+        {
+          "t": "p",
+          "x": "El movimiento no es diferente. La salida de los LLM se apoya en transition: ease-in-out. Las transiciones de página deben seguir la dirección del movimiento, y un clic necesita algo más que un cambio de color: necesita una escala de resorte que imite el contacto. El Prover busca tokens de movimiento con duraciones fijas y propiedades físicas en lugar de valores arbitrarios en milisegundos, y marca como superfluo cualquier movimiento que no sirva para explicar, guiar o confirmar."
+        },
+        {
+          "t": "p",
+          "x": "El punto que más falla es el diseño de estados. Es fácil pensar solo en lo predeterminado y el clic, pero un producto real necesita al menos ocho: Idle, Hover, Active/Pressed, Focus-visible, Disabled, Loading, Success, Error. Un botón sin retroalimentación de carga o error ya es deuda técnica por sí mismo, y el Prover encuentra los estados que faltan y hace que se implementen."
+        },
+        {
+          "t": "p",
+          "x": "El apartado de accesibilidad apunta al “teatro de accesibilidad”. Muchos sitios afirman cumplir WCAG 2.2 AA mientras los botones de icono carecen de aria-label o el anillo de foco está roto. El Prover verifica, según WCAG 2.2 AAA, un contraste de al menos 4.5:1, un focus-visible que funcione correctamente y una alternativa para prefers-reduced-motion."
+        },
+        {
+          "t": "p",
+          "x": "También revisa patrones oscuros. La “UI calmada” que exige el Prover comprueba si las acciones irreversibles, como eliminar, tienen una fricción deliberada, y si no existen casillas premarcadas ni rutas de cancelación ocultas."
+        },
+        {
+          "t": "p",
+          "x": "Conectarse es sencillo con cualquier cliente que soporte MCP: basta con poner un token de Vinkius en Cursor o Claude Desktop. En lugar de pedirle creatividad a la IA, se trata de sentar junto a ella un verificador que afirma sin rodeos que debe haber ocho estados, que el movimiento debe usar física de resortes, que el espaciado debe seguir una cuadrícula de 8px. El diseño pasa de ser una conversación subjetiva a un requisito de ingeniería verificable."
+        }
+      ]
+    },
+    "design/design-figma-copy-paste": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "qn7uTCE146g"
+        },
+        {
+          "t": "p",
+          "x": "Es un video publicado por el canal oficial de Figma, 「How Figma made copy + paste faster」. Tal como indica el título, explica en persona el trabajo de ingeniería que hizo mucho más rápido el copiar y pegar."
+        },
+        {
+          "t": "p",
+          "x": "Copiar y pegar es la acción menos vistosa pero más usada en una herramienta de diseño. Confirma que la sensación de acabado de una herramienta depende más del trabajo de latencia que nadie anuncia que de un acabado visual llamativo."
+        }
+      ]
+    },
+    "design/design-makera-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/Makera-links-CNC-software-mobile-control-and-project-sharing.jpg",
+          "cap": "El ecosistema de Makera de software CNC, control móvil y compartición de proyectos."
+        },
+        {
+          "t": "p",
+          "x": "Makera ha lanzado Makera Studio, Makerables y la aplicación Makera. Es un ecosistema dirigido a usuarios de CNC de escritorio que reúne software y comunidad en un solo lugar, pensado para funcionar en toda la línea de CNC de escritorio de Makera, incluidos Carvera, Carvera Air y Z1."
+        },
+        {
+          "t": "p",
+          "x": "El software CAM, la compartición de proyectos y el control móvil de la máquina entran en un solo flujo. Respalda las etapas de encontrar un proyecto, preparar archivos, mecanizar, aprender y volver a compartir, lo que reduce las herramientas separadas que hacen falta al moverse entre el software, el material de la comunidad y el manejo de la máquina."
+        },
+        {
+          "t": "p",
+          "x": "Makera Studio es una plataforma integrada que reúne CAM, simulación de mecanizado y control de máquina en un solo espacio de trabajo. Cubre las etapas del proceso de fabricación, desde cargar un modelo, elegir una estrategia de mecanizado, generar trayectorias de herramienta y previsualizar resultados, hasta manejar la máquina. Para tareas como mecanizado 2D/3D, talla en relieve de 3 o 4 ejes y grabado láser, se incluyen Guided Modes que ayudan a los principiantes a configurar un proyecto, con optimización automática de parámetros para materiales comunes y simulación de mecanizado para revisar el trabajo antes de cortar."
+        },
+        {
+          "t": "p",
+          "x": "Makerables es una plataforma comunitaria para creadores de CNC. Incluye herramientas asistidas por IA que generan diseños a partir de indicaciones de texto, imágenes existentes o conceptos iniciales. Aquí también se convierten imágenes de referencia en relieves o modelos 3D, y se refinan proyectos para la producción en CNC. Los proyectos pueden incluir archivos de diseño, datos de CAM, programas de mecanizado, recomendaciones de materiales, información de herramientas, parámetros de mecanizado, documentación y notas de montaje."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden explorar proyectos, subir su propio trabajo e intercambiar opiniones con otros makers, y luego seguir editando o mecanizando directamente en Makera Studio. Makera también ha lanzado un Co-Creation Contest que da a los colaboradores seleccionados recomendaciones, presentaciones editoriales, eventos de la comunidad y oportunidades de exposición."
+        },
+        {
+          "t": "p",
+          "x": "La aplicación Makera traslada parte del flujo de Studio y Makerables al móvil. Desde un smartphone, los usuarios pueden conectarse y controlar una máquina Makera, y explorar proyectos recomendados y trabajos de la comunidad mediante la integración con Makerables. Las funciones avanzadas, como la generación de contenido con IA o la publicación de proyectos, se quedan en el escritorio, mientras que la aplicación se centra en explorar proyectos y controlar la máquina."
+        },
+        {
+          "t": "p",
+          "x": "Makerables está abierto a makers de todo el mundo, mientras que Makera Studio lo usan los clientes de Makera. Al sumar software CAM, creación asistida por IA y una comunidad de makers sobre el hardware, el alcance del producto de CNC de escritorio se ha ampliado."
+        }
+      ]
+    },
+    "design/design-photoshop-2791": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260805_Photoshop2791_f-960x480.jpg",
+          "cap": "Photoshop 27.9.1, presentado por Adobe."
+        },
+        {
+          "t": "p",
+          "x": "Adobe ha lanzado Photoshop 27.9.1, la última versión del programa de edición de imágenes que se usa para arte conceptual, edición de texturas y retoque de renders."
+        },
+        {
+          "t": "p",
+          "x": "En esencia es una actualización de flujo de trabajo. Se refinó la sensación de las herramientas Generate Image y Remove, basadas en IA, y se añadió una función para guardar una lista de fuentes favoritas. También se corrigió esta vez un error crítico presente en la propia 27.9."
+        },
+        {
+          "t": "p",
+          "x": "Es natural preguntarse por qué Photoshop pasó directamente de 27.8 a 27.9.1, y CG Channel se hizo la misma pregunta. Según usuarios del subreddit de Photoshop, la 27.9 salió a finales de julio pero se retiró rápido por un error que hacía que las imágenes se vieran descoloridas. Cory Shubert, gerente de producto de Photoshop, escribió en el foro de reportes de errores que la 27.9.1 corrigió ese problema, por lo que la versión que aparece en las notas de la versión es 27.9.1."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de la corrección de errores, esta versión sobre todo pulió el flujo de trabajo. La herramienta Remove basada en IA, que borra automáticamente objetos no deseados de las fotos, ahora se usa directamente desde la barra de tareas contextual. Otra función de IA, Generate Image, muestra sugerencias acordes al contexto en el campo de prompt para ayudar a escribir mejores indicaciones. También es posible ahora enviar de una vez varias capas de un documento local de Photoshop a Firefly Boards, la herramienta de moodboards con IA de Adobe."
+        },
+        {
+          "t": "p",
+          "x": "Fuera del ámbito de la IA, ahora se puede exportar una lista de fuentes favoritas, que se conserva incluso si se borran o restablecen las preferencias. Los recursos en la nube también se pueden buscar por palabra clave en lugar de revisarlos uno por uno."
+        },
+        {
+          "t": "p",
+          "x": "Photoshop 27.9.1 funciona en Windows 10 o posterior y macOS 14.0 o posterior. La documentación en línea también la llama la versión de julio de 2026. Al ser por suscripción, el plan de Fotografía que incluye Photoshop cuesta 29.99 dólares al mes o 239.88 dólares al año, y la suscripción individual de Photoshop cuesta 34.49 dólares al mes o 263.88 dólares al año."
+        }
+      ]
+    },
+    "design/design-token-extractor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es la historia de un desarrollador que pasaba mucho tiempo mirando cómo estaba armado un sitio web. El método anterior era lento: abrir DevTools, inspeccionar algunos elementos, copiar colores, revisar el tamaño de fuente, repasar media queries y anotarlo todo en algún lugar."
+        },
+        {
+          "t": "p",
+          "x": "Ese proceso terminó convirtiéndose en una extensión de Chrome."
+        },
+        {
+          "t": "p",
+          "x": "Design System Extractor lee el sistema visual de la página abierta en la pestaña actual y empaqueta el resultado en un ZIP. La versión 1.4.0 ya está en la Chrome Web Store."
+        },
+        {
+          "t": "p",
+          "x": "El uso es simple: abre una página que puedas inspeccionar, ejecuta la extensión y pulsa Capture."
+        },
+        {
+          "t": "p",
+          "x": "La extensión revisa el DOM y los estilos de la página en busca de colores, tipografía, espaciado, radios de borde, sombras, breakpoints, movimiento, pares de contraste y estados de interacción. También identifica componentes conocidos como botones, campos de entrada, tarjetas e insignias."
+        },
+        {
+          "t": "p",
+          "x": "Antes de descargar, se pueden revisar los elementos capturados y quitar los que no se necesiten. El ZIP contiene tokens en JSON, propiedades personalizadas de CSS, un tema de Tailwind, archivos de Style Dictionary y una lista de los componentes encontrados en la página."
+        },
+        {
+          "t": "p",
+          "x": "Lo que realmente resultó complicado fueron las capturas de pantalla. La cosa cambia si hay encabezados fijos, secciones de carga diferida, áreas de scroll anidadas o feeds sin fin, así que la extensión abandonó la idea de una captura completa en una sola imagen. En su lugar, encuentra secciones utilizables, las desplaza hasta la vista y las recorta por separado. Las imágenes recortadas se pueden revisar una por una antes de exportarlas. El scroll infinito también se maneja así: la captura tiene un punto de parada definido en lugar de seguir bajando sin fin."
+        },
+        {
+          "t": "p",
+          "x": "El procesamiento de los datos de la página ocurre por completo dentro de tu propio equipo, dentro de la extensión. No hay backend ni servicio de análisis. El desarrollador no recibe direcciones de página, estilos extraídos, capturas de pantalla ni registros de uso. Las imágenes temporales del viewport permanecen en memoria solo mientras se generan los recortes de componentes. Los valores introducidos en formularios, las contraseñas, las cookies, los tokens de autenticación y el almacenamiento del navegador no se tocan en absoluto."
+        },
+        {
+          "t": "p",
+          "x": "Al ser la primera versión pública, el desarrollador espera especialmente reportes de páginas donde la captura se salte una sección, recorte mal o extraiga tokens incorrectos. Esos casos son los que determinan qué se corrige a continuación."
+        }
+      ]
+    },
+    "design/design-baseline-audit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las dependencias suelen añadirse una vez y luego se olvidan. Hacen su trabajo, las pruebas pasan, y nadie vuelve a mirarlas. Mientras tanto, la plataforma web ha seguido avanzando, y buena parte de las librerías que quedan en package.json ya viven dentro del navegador."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/1-git-diff-removed-npm-dependencies.png",
+          "cap": "Un git diff que muestra, en rojo, las dependencias de npm eliminadas de package.json."
+        },
+        {
+          "t": "p",
+          "x": "En una aplicación de JavaScript de tamaño medio, las dependencias que la plataforma ya maneja por sí sola suman unos 60KB a 90KB tras la compresión: formato de fechas y números, peticiones HTTP, modales, tooltips, copia profunda, agrupación de arrays. Las librerías se quedan porque npm audit revisa la seguridad pero rara vez pregunta si el navegador ya puede hacer esto."
+        },
+        {
+          "t": "p",
+          "x": "Baseline, del WebDX Community Group, indica qué tan segura es una función en Chrome, Edge, Firefox y Safari. Limited availability significa que aún no ha llegado a todos los motores; Newly available significa que acaba de llegar a todos; Widely available significa que lleva así 30 meses. Ese intervalo de 30 meses se convierte en la base de la auditoría."
+        },
+        {
+          "t": "p",
+          "x": "Antes de eliminar algo, se hacen tres preguntas: es seguro para los usuarios, cuánto cuesta reemplazarlo, y si la función de la plataforma cubre realmente el caso de uso real."
+        },
+        {
+          "t": "p",
+          "x": "El paquete de internacionalización es el caso más fácil. timeago.js, pluralize, numeral y humanize-duration pueden pasar a Intl.RelativeTimeFormat, PluralRules, NumberFormat y DurationFormat. Usando los cuatro se ahorran 14KB comprimidos. Sin embargo, Intl.DurationFormat todavía es Newly available, así que conviene revisar primero la base de usuarios."
+        },
+        {
+          "t": "p",
+          "x": "El caso de HTTP exige más cautela. axios pesa 17KB comprimidos y superagent 19KB, pero para peticiones comunes basta con fetch y AbortController. Sin embargo, fetch no rechaza ante un 404 o 500, y no tiene interceptores, reintentos automáticos ni progreso de subida. Si se necesita aunque sea uno de esos, conviene construir un envoltorio delgado propio."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/2-bundlephobia-website.png",
+          "cap": "Una pantalla de Bundlephobia que muestra axios con 44kb minificado y 16.6kb comprimido con gzip."
+        },
+        {
+          "t": "p",
+          "x": "Los elementos básicos de la interfaz dan los resultados más claros. Un solo elemento dialog elimina a la vez una librería de modales y focus-trap, y bloquear el scroll de fondo requiere una sola línea: body:has(dialog:modal){overflow:hidden}. Los menús desplegables y los tooltips quedan cubiertos por la Popover API y el posicionamiento de anclaje CSS. Solo este conjunto ahorra alrededor de 24KB comprimidos."
+        },
+        {
+          "t": "p",
+          "x": "Esto no es un argumento para eliminar Lodash por completo, sino para dejar de cargar las partes que el navegador ya tiene. groupBy pasa a ser Object.groupBy, cloneDeep pasa a ser structuredClone, y las operaciones de conjuntos usan los métodos nativos de Set. debounce y throttle se quedan, porque no tienen sustituto."
+        },
+        {
+          "t": "p",
+          "x": "Temporal, en cambio, alcanzó la Etapa 4 de TC39 en marzo de 2026, pero no está en una versión publicada de Safari, así que todavía no es Baseline. El polyfill oficial pesa 44KB comprimidos, mientras que dayjs pesa 3KB. Cambiar ahora añadiría 41KB al paquete. Hasta que Safari lo incluya, se sigue usando dayjs."
+        },
+        {
+          "t": "p",
+          "x": "El proceso de auditoría es breve: ejecutar npm ls --omit=dev --depth=0 para listar las dependencias que se publican, pesarlas con un analizador de paquetes, y revisar el estado de Baseline de las funciones de reemplazo en webstatus.dev o en las insignias de MDN. No es una limpieza única, sino un hábito que conviene repetir una vez por trimestre."
+        }
+      ]
+    },
+    "design/design-cybernetic-app": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Stafford Beer dijo que “el propósito de un sistema es lo que ese sistema hace”. Si eso es cierto, uno de los propósitos de los sistemas de información que usamos es dispersar nuestras ideas, perderlas y dejarlas abandonadas. Las herramientas de escritura y organización cobran un impuesto de borradores confusos, perdidos, duplicados y abandonados, y el usuario no tiene ninguna herramienta para revertirlo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*hOE7jWBhDRorf-HLW9Jp0w.png",
+          "cap": "Un boceto de Stafford Beer que superpone el sistema nervioso humano al modelo de sistema viable."
+        },
+        {
+          "t": "p",
+          "x": "El problema, según el autor, es que las apps no tienen la capacidad de cambiarse a sí mismas según nuestros objetivos. Cibernética viene del griego kybernḗtēs, que significa quien dirige un barco, y trata sobre sistemas que persisten y se adaptan dentro de un entorno. No tiene relación con los cyborgs ni el ciberespacio."
+        },
+        {
+          "t": "p",
+          "x": "La idea central es el sistema viable. Es un sistema que gestiona su estado interno y responde a la presión externa, y si pierde cualquiera de las dos capacidades, pierde su viabilidad. Aquí, variedad se refiere al número de cosas que algo puede hacer. Un torniquete de metro solo tiene dos estados, bloqueado y desbloqueado, pero la variedad de una persona o una organización es incontable."
+        },
+        {
+          "t": "p",
+          "x": "Un sistema viable exige una estructura de dos capas. Una es la recursión: así como una empresa se divide en divisiones, las divisiones en departamentos y los departamentos en equipos, un sistema viable contiene sistemas viables dentro de sí. La otra es la estructura sistema-metasistema, en la que, en vez de imponer órdenes, se deja que el interior se coordine por sí mismo mientras un sistema aparte vigila el avance frente a los objetivos y hace ajustes."
+        },
+        {
+          "t": "p",
+          "x": "Esta estructura se traslada directamente a la pantalla de una app de texto. Cada rectángulo en pantalla es un widget, y cada widget es System 1. Coordinar cómo varios widgets de texto se reparten el espacio es System 2, y crear y cerrar widgets en respuesta a lo que escribe el usuario es System 3. Las apps de hoy suelen detenerse ahí."
+        },
+        {
+          "t": "p",
+          "x": "Lo que falta es System 4 y System 5. System 4 vigila el entorno —aquí, el texto que escribe el usuario— y cambia el comportamiento de System 3. Agranda y resalta los pasajes con un alto “coeficiente de variedad”, donde el sentido cambia según cómo se corte la frase; expande a pantalla completa los fragmentos huérfanos que no se referencian en ningún otro lugar; y compara con documentos y estructuras anteriores para recomendar fusionar textos con alto déjà vu."
+        },
+        {
+          "t": "p",
+          "x": "System 5 vigila si System 4 está cumpliendo su función. Toma como indicadores si los usuarios realmente editan los widgets agrandados, si terminan de escribir con más frecuencia, y si los huérfanos y duplicados disminuyen. Si algo no funciona, lo ajusta o avisa al usuario. Aquí vuelve la idea de que el propósito de un sistema es lo que hace: si un sistema declara el propósito X pero se observa que hace Y y no se corrige, su propósito es Y."
+        },
+        {
+          "t": "p",
+          "x": "Lo que el autor advierte evitar es una herramienta que afirme saber qué es un buen texto. Un ordenador solo debería manejar cosas con respuestas claras, como cuántas palabras tiene una frase; puede mostrar que una frase es lo bastante larga como para confundir, pero no debería decir cómo corregirla. Como señaló Ted Nelson, el software actual usa la capacidad de conexión del ordenador para imitar el papel. Estas funciones deberían filtrarse en la interfaz como lo hace el papel real —como una pila desordenada sobre un escritorio que indica que algo no está organizado— en lugar de aparecer de golpe como Clippy."
+        }
+      ]
+    },
+    "design/design-gpt-live-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/intro-1785348648.jpg",
+          "cap": "El modo de voz de ChatGPT funcionando en un iPhone."
+        },
+        {
+          "t": "p",
+          "x": "Los asistentes de IA como ChatGPT han mejorado con cada nuevo modelo en funciones, precisión y velocidad de respuesta. La IA generativa no es perfecta ni una fuente que deba aceptarse sin dudas, pero para quien ya está acostumbrado, pasar a la conversación por voz resulta más cómodo que escribirlo todo. El Voice Mode inicial de 2023 funcionaba uniendo tres sistemas: convertir el habla en texto, dejar que un modelo de lenguaje generara la respuesta, y hacer que un modelo de síntesis de voz la leyera en voz alta."
+        },
+        {
+          "t": "p",
+          "x": "El Advanced Voice Mode que vino después procesaba todo con un único modelo multimodal, lo que mejoró mucho la sensación. Ahora, las conversaciones de voz de ChatGPT las maneja GPT-Live, con una naturalidad que sube otro escalón. OpenAI lo describe como una estructura de “dúplex completo” que escucha y habla al mismo tiempo. Aquí se resuelve el problema del modelo de voz anterior, que confundía una pausa breve con el final del habla y empezaba a responder antes de que la persona terminara de hablar."
+        },
+        {
+          "t": "p",
+          "x": "Ahora ChatGPT puede soltar pequeñas señales como “mmm” o “claro” mientras la persona todavía está hablando. Para preguntas que requieren razonamiento o investigación, GPT-Live le pasa el trabajo por detrás a un modelo como GPT-5.5."
+        },
+        {
+          "t": "p",
+          "x": "GPT-Live se usa en las apps de ChatGPT para Android e iOS, y en la web del navegador. Los usuarios de ChatGPT Pro, Plus y Go usan el modelo GPT-Live-1, y el plan gratuito usa GPT-Live-1 mini. GPT-Live ha desplazado al antiguo Advanced Voice por turnos y se ha vuelto el valor predeterminado. Se inicia tocando el ícono de ChatGPT Voice, con forma de onda, en el extremo derecho del cuadro de entrada. La primera vez, se solicita permiso para usar el micrófono."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/starting-a-conversation-with-gpt-live-1785348649.jpg",
+          "cap": "La pantalla de configuración de ChatGPT Voice."
+        },
+        {
+          "t": "p",
+          "x": "Al entrar en el modo de voz aparece en pantalla una esfera que reacciona. Basta hablar como de costumbre. El ícono de configuración en la esquina superior derecha permite elegir el nivel de inteligencia del modelo entre Instant, Medium y High. GPT-Live-1 mini no tiene esta opción, por lo que se necesita un plan de pago. ChatGPT Voice sigue activo aunque se cambie a otra app o se bloquee el dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, GPT-Live todavía no admite compartir pantalla ni video. Se puede volver al modelo de voz anterior eligiendo otro modelo en Voice, dentro de la configuración. En el mismo lugar se puede cambiar la voz y el idioma, o hacer que ChatGPT Voice se abra de forma predeterminada al iniciar la app."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/how-to-use-chatgpts-new-more-natural-voice-mode-for-conversations/what-gpt-live-excels-at-1785348650.jpg",
+          "cap": "El ícono de la app de ChatGPT en la pantalla de inicio de un iPhone."
+        },
+        {
+          "t": "p",
+          "x": "El autor, que prefiere escribir, al principio no tenía mucho interés en el nuevo modo de voz, hasta que mantuvo varias conversaciones largas con él. Lo que impresionó no fue lo inteligente que era, sino la rapidez con la que se olvidaba que se estaba hablando con una IA. No interrumpe, y no hay que esperar incómodamente a que el otro termine. Cuando una pregunta se alarga, incluso da la sensación de anticipar lo que se va a decir después."
+        },
+        {
+          "t": "p",
+          "x": "Gracias a lo rápido que responde, también sirve para interpretación en tiempo real. Si se desliza hacia abajo durante la conversación, aparece la transcripción de lo dicho. Para preguntas que conviene mostrar visualmente, crea y muestra un widget interactivo junto con la respuesta hablada."
+        },
+        {
+          "t": "p",
+          "x": "El nivel de inteligencia predeterminado es Instant. Prioriza respuestas rápidas sin dejar de manejar bien las preguntas cotidianas, y pasa las búsquedas o el razonamiento profundo a un modelo más potente por detrás sin interrumpir la conversación. Para quien trate temas complejos con frecuencia, Medium y High tardan uno o dos instantes más en pensar, pero ese retraso no rompe el ritmo de la conversación."
+        }
+      ]
+    },
+    "design/design-process-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/6kXsysepNhmLkYCkMg7jMk.jpg",
+          "cap": "Imagen cortesía de Square Enix."
+        },
+        {
+          "t": "p",
+          "x": "Conservar bocetos y borradores puede ser la única prueba que quede de que algo lo hizo un humano."
+        },
+        {
+          "t": "p",
+          "x": "La polémica que atraviesa ahora Square Enix, la editora japonesa de Final Fantasy y Kingdom Hearts, es del tipo que debería interesar a cualquiera que se gane la vida creando cosas."
+        },
+        {
+          "t": "p",
+          "x": "Según informó un medio hermano, el arte de portada de la colección de Kingdom Hearts, que llegará a Switch 2 y otras plataformas, despertó sospechas de haber sido generado por IA a pocas horas de su revelación. Las pruebas saltan a la vista: el pato Donald tiene tres dedos en una mano y cuatro en la otra. Los detalles del reloj no coinciden entre sí, los llaveros tienen tamaños distintos entre ellos, y el conjunto se ve descuidado."
+        },
+        {
+          "t": "p",
+          "x": "Square Enix dijo que no era IA. Según su comunicado, el equipo de desarrollo hizo la imagen sin herramientas generativas, y los errores fueron fallos humanos."
+        },
+        {
+          "t": "p",
+          "x": "Puede ser cierto. El problema es que nadie fuera del estudio tiene forma de comprobarlo. Incluso después de revisar la portada tres veces, corrigiendo algunos errores y dejando otros intactos, la duda permaneció. La verdadera historia es esa incertidumbre, y es más grande que el problema de la portada de una sola editora."
+        },
+        {
+          "t": "p",
+          "x": "“Lo hizo un humano” ya no es una frase que empresas o freelancers puedan decir y que simplemente se les crea. Hay que demostrarlo. Una suposición que se mantuvo durante mucho tiempo se ha invertido."
+        },
+        {
+          "t": "p",
+          "x": "Durante décadas se asumió que el propio trabajo era obra de uno mismo; no había razón para pensar lo contrario. Ahora es al revés. Si un trabajo tiene aunque sea un indicio de lo que se llama un rasgo de IA, la explicación le corresponde a quien lo hizo, y un “confía en mí” ya no basta."
+        },
+        {
+          "t": "p",
+          "x": "Lo afortunado es que el hábito de conservar el proceso ya era un buen hábito antes de todo esto. Los bocetos, los cortes preliminares, las hojas de contacto y los borradores iniciales siempre tuvieron valor: son prueba de un rango y una destreza que la pieza terminada por sí sola no puede mostrar, y material promocional para usar más adelante. Una razón por la que la gente recibe tan bien este tipo de contenido en redes sociales es que ahí hay pistas y estímulos que no se consiguen en otro lado."
+        },
+        {
+          "t": "p",
+          "x": "También queda algo para quien hace el trabajo. Anotar por qué se tomó una decisión, sea en un pie de foto o solo en una nota para uno mismo, aclara la decisión misma. La mitad de un cuaderno de bocetos vive en textos que nunca se comparten. No es un consejo nuevo. Lo nuevo es el tamaño de lo que está en juego."
+        },
+        {
+          "t": "p",
+          "x": "Guardar registros del proceso solía ser un extra para cuando quedaba tiempo y energía. Hacia finales de la década de 2020, se ha vuelto prácticamente indispensable para cualquier trabajo que pueda confundirse con algo hecho por una máquina. Archivos con capas activas, borradores con marca de tiempo, tableros de referencia, incluso grabaciones de pantalla del trabajo tomando forma: todo eso puede llegar a necesitarse algún día para demostrar que uno mismo lo hizo."
+        },
+        {
+          "t": "p",
+          "x": "Así que no se deben tirar los borradores preliminares, hay que mantener activado el historial de versiones, grabar la pantalla cuando el software lo permita, y conservar los archivos aunque parezca que nunca se volverán a usar. La sospecha de que algo lo hizo una máquina cuesta clientes, encargos y reputación, incluso cuando no es cierta."
+        }
+      ]
+    },
+    "design/design-vr-mech-modeler": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "xdxtO9Z9u40"
+        },
+        {
+          "t": "p",
+          "x": "The Gnomon Workshop publicó Design Mechs in VR Using Substance 3D Modeler. Es una guía gratuita de flujo de trabajo de escultura en VR, grabada por el artista de conceptos de WB Games Andre-Lang Huynh."
+        },
+        {
+          "t": "p",
+          "x": "Es un curso en video de 30 minutos que cubre Substance 3D Modeler y KeyShot."
+        },
+        {
+          "t": "p",
+          "x": "En el curso, Huynh muestra todo su flujo de trabajo para diseñar y esculpir un mecha desde cero usando el software de escultura en VR de Adobe, Substance 3D Modeler. Empieza con formas geométricas simples, fijando primero la proporción y la silueta, y luego añade complejidad con formas secundarias y terciarias como articulaciones y placas de armadura, además de color y detalle de superficie."
+        },
+        {
+          "t": "p",
+          "x": "Las funciones de Substance 3D Modeler que se cubren incluyen primitivas, pinceles de escultura, booleanos, capas, materiales, sellos, simetría, ajuste de ángulo y elementos reutilizables de kitbash."
+        },
+        {
+          "t": "p",
+          "x": "Una vez terminada la escultura, pasa a KeyShot para aplicar materiales, montar una iluminación simple y producir renders de presentación. Los archivos del proyecto incluidos con el taller contienen la escena terminada de Substance 3D Modeler."
+        },
+        {
+          "t": "p",
+          "x": "Andre-Lang Huynh es artista de conceptos avanzado en WB Games Montréal. Diseñó personajes, utilería y vehículos en Gotham Knights, incluidos el Batmóvil y la Batcicleta."
+        },
+        {
+          "t": "p",
+          "x": "Design Mechs in VR Using Substance 3D Modeler se puede ver con una suscripción a The Gnomon Workshop, que incluye más de 300 tutoriales. La suscripción cuesta 57 dólares al mes o 499 dólares al año, y también hay una prueba gratuita."
+        }
+      ]
     }
   }
 }

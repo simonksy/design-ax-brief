@@ -1112,6 +1112,482 @@
           "x": "出挑的也不只有Yanxin-X2。CES 2026上出现了会折衣服的LG CLOiD，以及能把衣物放进洗衣机的SwitchBot Onero H1。在北京举行的世界人形机器人运动会上，Tiangong Ultra以9.39秒跑完100米。1X售价2万美元的NEO也开始学习做家务。整个行业正在把速度、灵巧度、实用性，乃至情感的逼真程度，一并往上推。"
         }
       ]
+    },
+    "gadgets/gadgets-apple-reference-image": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "iOS 27测试版5中残留的代码指向一个新功能:判断照片是否由iPhone拍摄,也就是验证那部相机是否就是真实来源。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&w=1600",
+          "cap": "iPhone相机应用"
+        },
+        {
+          "t": "p",
+          "x": "伪装成真实照片的合成图像不是新问题,但生成式AI图像的泛滥让它变得紧迫。熟练编辑师过去要花几个小时甚至几天完成的工作,现在只凭一句粗糙的想法,几秒钟就能生成。"
+        },
+        {
+          "t": "p",
+          "x": "于是多家公司先推出了甄别AI生成内容的方法。Google打造了SynthID,把看不见的水印嵌入图片和其他媒介,这项技术也传播到了Google之外,OpenAI在生成图片上也使用它。Meta也在Facebook、Instagram和Threads上加了AI生成标识。但这类体系暴露出一个局限:它们无法准确识别被操纵的媒介,甚至连自家AI模型生成的内容都会漏判。"
+        },
+        {
+          "t": "p",
+          "x": "苹果似乎也在着手处理这个问题,而且不只是给Image Playground生成图片的元数据打标签。iOS 27测试版5的新代码中出现了一个名为Apple Reference Image的名称。它是一项功能,用拍摄该照片的iPhone相机硬件所绑定的唯一数据来证明这张照片的来源。"
+        },
+        {
+          "t": "p",
+          "x": "在云端处理敏感用户数据方面,苹果一贯坚持的方式在这里依然适用。系统设计让苹果无法查看原始照片本身。图片会被发送到Private Cloud Compute进行验证,返回给苹果的只有部分传感器信息和照片元数据。如果判定某个传感器被篡改,苹果可以撤销该传感器此前发出的认证。"
+        },
+        {
+          "t": "p",
+          "x": "该功能默认关闭。之后可以在“设置 > 相机 > Reference Image”中打开,并点击Reference Mode使用。关键在于拍摄的那一刻:必须用相机新的“Reference”模式拍摄。按平常方式拍的照片,日后根本没有可供认证的依据。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/reference-mode.jpg?quality=82&strip=all",
+          "cap": "打开Apple Reference Image时出现的隐私说明界面"
+        },
+        {
+          "t": "p",
+          "x": "Reference模式不会自动为照片做认证。认证由用户之后自行选择,到那时原始图片和来源数据才会被发送到Private Cloud Compute。验证完成后,苹果会给照片加上一个唯一ID。"
+        },
+        {
+          "t": "p",
+          "x": "认证过的照片也可以发送给别人。接收方的苹果设备会在设备内部检查认证是否仍然有效。苹果不会知道对方在看哪张照片。"
+        },
+        {
+          "t": "p",
+          "x": "随附的信息会因传输方式(AirDrop、信息等)和照片状态而不同,原始照片、编辑过的版本和认证过的版本各不相同。苹果写道,如果选择发送“All Photos Data”,唯一硬件标识符甚至裁剪前的影像都可能一并传过去。"
+        },
+        {
+          "t": "p",
+          "x": "USB传输会附带一个“Transfer with Provenance”选项。开启后,传到Mac或PC的认证照片会带上Reference Image数据。即使是未认证的照片,也可能留有唯一硬件标识符或裁剪前影像之类的来源信息。"
+        }
+      ]
+    },
+    "gadgets/gadgets-home-assistant-intent-triggers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "第一次用Home Assistant搭自动化时,有几个能跑,但不知道为什么更新后它们还能继续跑。我跟自己约定,只要不出故障就不去动它们。它们是靠论坛帖子和对传感器状态的猜测拼凑起来的。靠试错搭起来之后,我就放着不管了,怕一碰就把让它们运转起来的“魔法”弄停了。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-3.jpg",
+          "cap": "在Home Assistant仪表盘中添加设备的界面"
+        },
+        {
+          "t": "p",
+          "x": "Home Assistant 2026.7解开了这个顾虑。在Labs里待了几个月的按意图触发和条件,现在成了创建自动化时的默认选项。不用再去迁就Home Assistant的逻辑,而是从自己想要什么出发。这不是个小变化——重写了最乱的那个自动化之后,我才明白这一点。"
+        },
+        {
+          "t": "p",
+          "x": "用以前的方式写自动化,得先回答一堆跟真正想做的事没什么关系的问题:是状态触发、数值状态触发,还是设备触发?最难的是搞清楚那个传感器触发时吐出的是“on”还是“detected”。门锁会说“locked”吗,还是会因为接入的集成组件不同而说法不一?"
+        },
+        {
+          "t": "p",
+          "x": "所以哪怕只是房间变热就开空调这么简单的事,也因此变得比必要的更难。你得知道传感器到底报告什么值,还得猜它是不是会短暂变成“unavailable”。那种好不容易跑起来的自动化,之后再也没打开过,就怕碰坏那摇摇晃晃撑着的逻辑。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/turn-on-ac-automation-template.jpg",
+          "cap": "开空调自动化模板"
+        },
+        {
+          "t": "p",
+          "x": "在按意图触发里,选“电池低”再指定传感器就完事了。阈值由Home Assistant按适合该传感器的逻辑自动设定。不过前提是传感器要正确表明自己是电池传感器——如果是自己搭的节点,得先把配置弄对。温度那边也一样,把数值状态触发换成“温度阈值穿越”触发,结果完全相同。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/battery-low-automation-trigger.jpg",
+          "cap": "自动化里的电池低触发"
+        },
+        {
+          "t": "p",
+          "x": "客厅灯光自动化原本靠一个实体名绑定一个PIR移动传感器。在我加一个传感器填补死角之前,一切都还好。之后得回到自动化里,手动把传感器加进触发列表。一想到换传感器或加传感器就要重复这个动作,就觉得很烦。"
+        },
+        {
+          "t": "p",
+          "x": "新的触发瞄准的是整片区域,而不是单个设备。客厅自动化现在看的是房间里的动静,不在乎有几个传感器。因为自动化记录的是意图而不是具体设备,添加、移除传感器,或者换掉出问题的那个,都变容易了。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/creating-automation-for-motion-detection.jpg",
+          "cap": "创建动作检测自动化的界面"
+        },
+        {
+          "t": "p",
+          "x": "周末我做了一个电影之夜自动化,能察觉深夜回家并营造氛围:灯光变暖变暗,电视打开。我用手机位置跟踪从not_home变成home作为判断依据,但进门那几秒如果信号断了,跟踪器会先显示“unavailable”,然后才最终定在home。"
+        },
+        {
+          "t": "p",
+          "x": "这样一来,自动化就会错过那次切换,或者先跳到旧值。加了条件让它能跑之后,我就再没碰过它。按意图触发没有这个问题——自动化的构建块会自己处理“unknown”和“unavailable”。换成新的到家触发并删掉旧条件之后,再也没出过错。"
+        },
+        {
+          "t": "p",
+          "x": "没动过的自动化照旧运行。对于用YAML而不是界面写自动化的人来说,按意图触发也能干净地迁移过去。这不是只改了界面的版本,原有的触发类型也没有消失。"
+        },
+        {
+          "t": "p",
+          "x": "变的是出发点。下一个要写的自动化,起点不再是哪种触发类型合适,而是想做什么。旧自动化出故障时,也更可能被打开修好,而不是放着不管。如果你一直在躲着几个自动化,现在正是重新做一遍的理由。"
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-muse-glimmer": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如今好用的AI模型大多依赖云端。提示词和随附的数据离开设备发往服务器,再由模型处理后把答案送回来。也有模型选择完全在设备内运行。围绕云端AI的顾虑会因此减少,但也带着各自的局限。Meta的新模型选择了后者,正面触碰了端侧AI的典型限制。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg",
+          "cap": "Meta | 来源 Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "云端AI最大的局限是,一旦断网就什么都做不了。像Meta的Muse Glimmer这样完全在设备内运行的模型,不受此限。查询发往云端带来的隐私问题也是一样——每次发请求,都等于把数据交给那家公司,而端侧运行则不会这样。"
+        },
+        {
+          "t": "p",
+          "x": "当然,Muse Glimmer并不是第一个摆脱云端服务器的模型。Google的Gemini Nano和Gemma 4、微软的Phi-4-mini,以及Meta自己的Llama 3也都能在本地运行。只是这些模型要轻得多,专注于更简单的任务。Muse Glimmer瞄准的是代理型AI,这正是它身处设备之内这件事变得特别的原因。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-10.jpg",
+          "cap": "Meta | 来源 Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Muse Glimmer本身并不轻。它是一个300亿参数的模型。Gemini Nano 1是18亿参数,Nano 2是32.5亿参数,Nano 3和Nano 4约为40亿,完全不是一个量级。"
+        },
+        {
+          "t": "p",
+          "x": "Meta表示,这类模型通常要占用超过55GB内存。通过4比特量化突破了这道门槛,降到了20GB以下。公司写道,它“小到足以在装有单张消费级GPU的Mac或PC上运行,从而打开本地代理和函数调用,到本地编码、LLM-as-a-judge评测等用途”。"
+        },
+        {
+          "t": "p",
+          "x": "它能做的事情包括写代码并调试、从头到尾处理多轮往来的指令,以及在长任务中不丢失上下文。即便出了岔子,也足以做到“诊断错误并重试,而不是直接停下”。训练数据来自100多种语言,还能通过调整推理强度在质量和速度之间取得平衡。"
+        },
+        {
+          "t": "p",
+          "x": "速度也很快。一般的AI模型是一个一个吐出token的,任务越复杂,答案就越慢。Meta在这一点上走了条略微不同的路。"
+        },
+        {
+          "t": "p",
+          "x": "这条捷径叫推测解码。一个以DFlash为基础的轻量级“草稿”模型,会提前猜测Muse Glimmer接下来可能给出的token。草稿模型一次性提出几个符合上下文的token,Muse Glimmer再选择接受或拒绝。这样做不会削减质量,只会缩短整体响应时间。"
+        },
+        {
+          "t": "p",
+          "x": "Muse Glimmer已经上线Hugging Face。对Ollama、LM Studio、Unsloth、llama.cpp、ExecuTorch和MLX的支持正在准备中。"
+        }
+      ]
+    },
+    "gadgets/gadgets-norecognition-pattern": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "过去一年里,比尔·斯威林根几乎重复着同一个试验:用电脑生成一种让铺满美国街头的监控摄像头识别不出的图案。跑了大约3100万次之后,他说现在只要想要,随时都能做出这样的图案。"
+        },
+        {
+          "t": "p",
+          "x": "把这种图案印到衣服或物品上,最广泛部署的车牌识别器和监控摄像头就抓不到底下的东西,人或车都一样。这个名为noRecognition的项目,能让人绕开美国及其他地方运行的自动检测和算法监控。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/patterns-example-norecognition.jpg?w=1024",
+          "cap": "斯威林根做的图案 | 来源 Bill Swearingen"
+        },
+        {
+          "t": "p",
+          "x": "图案并不会阻止拍摄本身,它扰乱的是摄像头识别物体、人和面孔的能力,使检测警报不会响起。在那台曾经能从干草堆里挑出针的摄像头面前,这个人又变回了干草堆里的一根针——直到有人知道该往哪儿看。"
+        },
+        {
+          "t": "p",
+          "x": "“隐私是一项基本权利,”他本周在电话里对TechCrunch说。他把自己的图案形容为一种“选择不被追踪”的方法。"
+        },
+        {
+          "t": "p",
+          "x": "他住在堪萨斯城,是共同创办了安全聚会SecKC的安全专家。他说,他家附近每隔几步就立着一台摄像头,而没有人同意过被监控。去年他本想去参加一场集会,一想到那么多摄像头要追踪正在行使言论自由的人,就觉得不舒服,这成了项目的起点。"
+        },
+        {
+          "t": "p",
+          "x": "他搭了一个概念验证实验室,逐一攻破开源视频检测算法。带着算力赶来的人帮他把规模做大,概念验证也长成了一个强化学习模型——能自己学会哪种图案管用、哪种不管用。他把这形容为教自己的模型“学会画画”。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/pattern.jpg",
+          "cap": "让检测失效的图案 | 来源 Bill Swearingen"
+        },
+        {
+          "t": "p",
+          "x": "每次图案被识破,模型就再试一次,最终同时攻破了多种算法。他测试过的11种开源检测算法,最后都被一个组合统统攻破,其中包括Flock车牌识别器、Axon身体摄像机,以及运行Clearview AI的摄像头软件。他说,现在模型每分钟都生成新图案,一批比一批在数学上更先进。"
+        },
+        {
+          "t": "p",
+          "x": "周五在拉斯维加斯的DEF CON进行了第一次实战测试。借助Donut Media的帮助,他们给一辆2009款丰田Yaris裹上最新图案,看能不能躲过Flock摄像头。“这证明了它有效,”他说。不过车轮是个难题。演示视频将在几周内发布。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/donut-media-car-swearingen.jpg?w=652",
+          "cap": "裹上图案的2009款丰田Yaris | 来源 Bill Swearingen / Donut Media"
+        },
+        {
+          "t": "p",
+          "x": "下一步是把这种图案交到想要它的人手里。noRecognition正通过众筹准备T恤、连帽衫等早期商品,甚至考虑推出车身贴膜。目标是分辨率要好到远处也管用,同时看起来也不能太差。最强的那种图案他没有发到网上,免得被摄像头厂商破解。他说:“每失败一次,模型就会变好一点,图案也就越来越强。”"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-ultra-trio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "综合彭博社Mark Gurman和Macworld的Filipe Espósito等多方报道，苹果计划在2026年底到2027年初之间，推出最多三款以「Ultra」命名的新产品。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/WmYNENGA95YGRkAlvJXDrf2Vqko=/400x0/article-new/2025/08/Apple-Foldable-Thumb.jpg?lossy",
+          "cap": "苹果的折叠屏iPhone"
+        },
+        {
+          "t": "p",
+          "x": "传闻已久的折叠屏iPhone名字预计会是「iPhone Ultra」。据称它配备7.7英寸内屏和5.3英寸外屏、两个后置摄像头和一个前置摄像头，并用Touch ID电源键取代Face ID。宽大的内屏很适合看视频和多任务处理。"
+        },
+        {
+          "t": "p",
+          "x": "「iPhone Ultra」预计会在今年9月与iPhone 18 Pro、iPhone 18 Pro Max一起发布。美国起售价估计在1,999美元到2,499美元之间。"
+        },
+        {
+          "t": "p",
+          "x": "「AirPods Ultra」据说最快今年内就会推出。如果9月和「iPhone Ultra」一起发布，时间线也说得通。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/B6KsHRXz2lQ_d0eqYJhsA-QZosY=/400x0/article-new/2026/08/AirPods-Ultra-Mock.jpg?lossy",
+          "cap": "AirPods Ultra的模型"
+        },
+        {
+          "t": "p",
+          "x": "「AirPods Ultra」实质上就是在AirPods Pro上加了一个充当Siri之眼的小型红外摄像头。据Gurman报道，这枚摄像头会强化iPhone 15 Pro及以后机型上的Visual Intelligence功能，耳机上的一个小LED灯会提示摄像头是否在工作。"
+        },
+        {
+          "t": "p",
+          "x": "在iOS 27中，Visual Intelligence被纳入相机App里新的「Siri」模式。有了「AirPods Ultra」，不用动手也能做到同样的事。"
+        },
+        {
+          "t": "p",
+          "x": "他表示：「这个想法是让用户可以直接询问自己正在看的东西。」比如看着厨房台面上的食材，就可以问Siri晚餐该做什么。"
+        },
+        {
+          "t": "p",
+          "x": "上个月，有人在iOS 27第二个开发者测试版代码中发现了带摄像头AirPods的痕迹，这是发布临近的信号。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/6LUGcgExrirfkG6GjQac1k7tAk4=/400x0/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg?lossy",
+          "cap": "MacBook Pro"
+        },
+        {
+          "t": "p",
+          "x": "最后是「MacBook Ultra」。据称它会配备兼具触控功能的OLED显示屏。此外还提到了M5 Pro和M5 Max芯片、灵动岛、比最新MacBook Pro更薄的设计，甚至还有苹果自研的C2调制解调器用于5G/LTE连接。Gurman透露苹果计划在2027年初之前推出这款MacBook。"
+        },
+        {
+          "t": "p",
+          "x": "也就是说，iPhone Ultra、AirPods Ultra、MacBook Ultra会在接下来六七个月里依次登场。"
+        }
+      ]
+    },
+    "gadgets/gadgets-eu-glasses-rules": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "智能眼镜因为负面消息频频成为话题，我之前多次写过大规模监管迟早会跟上，如今禁令和限制果然开始成形。目前还没有哪个国家彻底全面禁止，但有些地方在特定场合禁止使用，也有地方在考虑更严厉的措施。像活动主办方这样的民间企业，也开始在自家场地禁止使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HvQHUDBQ3y38W4k2cpbW9a.jpg",
+          "cap": "Magic Leap的Android XR智能眼镜（图片来源：Magic Leap）"
+        },
+        {
+          "t": "p",
+          "x": "美国大体上可以自由使用，但纽约州在州内所有法庭都禁止使用。能录像的眼镜可能被视为威胁案件相关人员的手段，而在涉及敏感信息的审判中，未经授权的录像风险很大。费城、夏威夷和北卡罗来纳也对法庭设下了类似禁令。美国空军在服役规定中明确写道：「着制服期间禁止佩戴具备拍照、摄像或AI功能的智能眼镜或镜面镀膜眼镜。」像黑客大会DEF CON 34这样的活动，干脆直接禁止携带入场。"
+        },
+        {
+          "t": "p",
+          "x": "英国的情况也类似。法庭并未正式禁止使用，但自从有人在审判过程中被眼镜的AI教练指点之后，整体氛围已转向劝阻使用。英国法庭本就限制录像，用眼镜拍照或录像和用手机、普通相机一样算违规。Monopoly Events在接连收到偷拍举报后，在自家举办的Comic Con上禁止了相机眼镜，目前也有请愿要求禁止其销售和宣传。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wmeVR8CtaH5C3wzhtmFHfN.jpg",
+          "cap": "Memomind One智能眼镜（图片来源：Future / Hamish Hector）"
+        },
+        {
+          "t": "p",
+          "x": "在欧盟，欧洲数据保护委员会正在撰写一份关于智能眼镜的报告，预计几个月内发布。各成员国则先行一步。德国的数据保护监管官警告说，现行禁止在日常物品中藏录像装置的法律，已经可以用来限制相机眼镜。荷兰的数字权利活动者指出了未经本人察觉就被拍摄的问题，法国的国家信息自由委员会也指出了相机眼镜带来的隐私风险。"
+        },
+        {
+          "t": "p",
+          "x": "韩国的禁令出发点不同。随着有人被发现用智能眼镜尝试作弊，韩国专门限制将其带入考场。考虑到大学修学能力考试的分量，这项规定索性把能不能带进去这件事讲得清清楚楚，不留任何含糊空间。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jHpFaFch9dZ3ghBau5gzi9.jpg",
+          "cap": "Ray-Ban Meta智能眼镜（图片来源：Meta）"
+        },
+        {
+          "t": "p",
+          "x": "目前真正落地实施的禁令还不算多，如果硬件本身不改变，这个数字还会增加。最大的担忧是那些意外出现在别人镜头里的人的隐私，尤其是在他们完全不知道自己被拍下的情况下。解决办法也很明显：让「正在录制」这件事变得更加显眼。比如更亮的拍摄指示灯、拍照时响亮的快门声，或是录像过程中持续发出的提示音。在用户这一侧，人们希望能掌控厂商可以访问哪些内容，也想确切知道哪些照片和视频会被转交给外部或外包人员。在真正严厉的监管到来之前，智能眼镜还能撑多久，现在还不好说。"
+        }
+      ]
+    },
+    "gadgets/gadgets-memomind-one": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "中国投影仪厂商XGIMI在6月为自己的首款智能眼镜Memomind One开启了众筹。赌的是消费者会认可不带摄像头的显示眼镜，结果筹款额突破了100万美元。这个品类又一次赢得了早期的信任。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/memomind-one.jpg?resize=1068%2C712&quality=89&ssl=1",
+          "cap": "Memomind One | 图片来源：XGIMI"
+        },
+        {
+          "t": "p",
+          "x": "6月28日Kickstarter一开启，就轻松超过了8万港元（约1万美元）的目标，不到一周就筹到了50万美元。如今距离8月28日截止还有20天，筹款已经突破了100万美元。"
+        },
+        {
+          "t": "p",
+          "x": "这款产品1月在拉斯维加斯的CES 2026上首次亮相。它完全不配备摄像头，取而代之的是2,000尼特的双绿色micro-LED显示屏和音频，并加入了实时翻译、笔记记录、情境感知辅助、导航等AI功能。"
+        },
+        {
+          "t": "p",
+          "x": "价格在显示型智能眼镜里也算偏低。Nomad、Gotham、Archive三种款式的标准版都是400美元起。加配处方镜片要500美元，可选多种颜色的定制版则是450美元起。预计2026年8月发货。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-nomad.jpg?resize=696%2C464&quality=89&ssl=1",
+          "cap": "Memomind One Nomad | 图片来源：XGIMI"
+        },
+        {
+          "t": "p",
+          "x": "XGIMI没有单独设置延伸目标（stretch goal）。这次众筹的性质实际上更接近预订。"
+        },
+        {
+          "t": "p",
+          "x": "如果Memomind One的成绩说明了什么，那就是不配摄像头这张牌，比想象中要强得多。眼下Meta在无显示屏的摄像头眼镜上遭遇的反弹，也是原因之一。"
+        },
+        {
+          "t": "p",
+          "x": "直到不久前，Meta都没能真正阻止有人挖掉拍摄指示灯，或用其他办法让系统失效。由于目前还没有真正的竞争者，现在断言还太早，但Meta这件事多少算是往井里下了毒。"
+        },
+        {
+          "t": "p",
+          "x": "打出「无摄像头显示眼镜」这张牌的并非Memomind一家。不过它比主要竞争对手Even Realities的G2便宜：G2即便去掉处方镜片也要600美元。"
+        },
+        {
+          "t": "p",
+          "x": "话虽如此，我也没有十足把握「纯显示」眼镜真的会大火。在目前的功耗和算力限制下，同时跑摄像头和显示屏并不容易，这看起来更像是把暂时分裂的界限，打磨成了一个独立的市场细分。我打算长期使用Memomind One，来验证这个假设。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-watch-rethink": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "彭博社马克·古尔曼在Power On newsletter中报道,苹果正从零开始重新审视Apple Watch产品线。他把这次变化比作可折叠iPhone所代表的「革命性设计变化」,并写道这将是「为新时代对产品进行的一次改造」。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/moO1wpKxZZc7Vf6ryH6mSjLilsM=/400x0/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg?lossy",
+          "cap": "Apple Watch Ultra 2的复杂功能(complications)。"
+        },
+        {
+          "t": "p",
+          "x": "工业设计团队提出的方案有多条路线。完全去掉屏幕的健身追踪器、显示类型和尺寸各不相同的Apple Watch,以及圆形屏幕机型,都在考虑范围之内。不过古尔曼认为,圆形机型真正上市的可能性不大。"
+        },
+        {
+          "t": "p",
+          "x": "价位也会向上下两端拉开。有消息提到会在Ultra和Hermès之上新增更高档次,也会在SE之下推出更便宜的选项。无屏健身手环和智能戒指重新畅销的趋势,苹果也没有轻视。"
+        },
+        {
+          "t": "p",
+          "x": "方向目前还没有定下来。但随着竞争加剧,重做产品线的决心据说很坚定。目标是振兴增长缓慢的穿戴设备、智能家居和配件业务,计划里还包括整合AI功能、全面改版健康App等长远布局。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home-storytime": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "谷歌为Gemini for Home(早期访问)和Google Home应用推送了8月5日更新。最引人注意的是Storytime,AI会即兴编故事,应用那边则着力让日常控制变得更稳定。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg",
+          "cap": "Google Home应用 | 图片来源:Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "交互式Storytime可以用语音编故事,还能在中途修改。可以要求编一个新故事,也可以把孩子设定为主角。可以把《三只小猪》里的狼换成霸王龙,或者让主角突然捡到一张藏宝图。"
+        },
+        {
+          "t": "p",
+          "x": "日常使用的部分也做了改进。用自然语言设置闹钟和定时器时理解得更准了,还会照顾12小时制和24小时制的习惯。询问定时器还剩多久时回答更准确,像「煮溏心蛋的定时器」这种请求也不会漏掉。"
+        },
+        {
+          "t": "p",
+          "x": "音箱方面也有细节调整。关灯或调暗灯光时的提示音变了,修复了例行程序结束后灯环仍保持点亮的bug。谷歌还补充说,7月底短暂出现的Spotify故障也已解决。"
+        },
+        {
+          "t": "p",
+          "x": "Google Home应用的更新里,摄像头部分变化更大。可以接入更多第三方安防摄像头,比如Eufy、Tapo、Wyze、Reolink、Nanit,这样在一个应用里就能看到更多画面。录像存储变快了,直播稳定性和画面移动也有改善。Home Premium Advanced订阅用户能收到AI生成的摄像头事件摘要,不用看完全部录像就知道发生了什么。自动化功能开放给了更多国家和语言,智能门锁的联动在通知和错误处理上也有改进。"
+        }
+      ]
+    },
+    "gadgets/gadgets-kata-friends-paywall": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "售价700美元的SwitchBot Kata Friends,是一款装了LCD眼睛的熊形AI机器人。它会点头、抖耳朵、挥手臂,靠三个轮子在屋里到处走。鼻子位置嵌着的摄像头能认人,也会对简单的手势作出反应。作者和这台机器人一起生活了两周。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-main.jpg",
+          "cap": "SwitchBot Kata Friends © Wes Davis / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "靠3,200mAh电池能跑三个小时左右,电量不足时会自己回到底座。眼睛屏幕没法关掉,晚上作者直接按电源键。连上Wi-Fi后可以在App里切换正常、待机、睡眠模式,还能像扫地机器人一样,在自己画出的地图上标出禁区。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-app-view.jpg",
+          "cap": "App里积累的地图和日记 © Screenshots by Wes Davis / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "App里还有日记功能。每天早上,AI会把前一天的事情整理成摘要发上去。机器人拍下的相册也能打开,作者的相册里全是孩子脸部的特写和自己歪角度拍的照片。有SwitchBot Hub的话,还能像HomePod或Echo那样指挥家里的设备,只是经常一次听不懂,得说两遍。"
+        },
+        {
+          "t": "p",
+          "x": "问题出在计价方式上。第一次设置会开启Companion Care Plan的15天免费试用。每年400美元的高级(Premium)套餐把开机、免费维修、每年一次检查和毛发打理都打包在一起。每月15美元(每年150美元)的基础(Essential)套餐只保留设备和App的功能。没有订阅的话,连不需要联网的机内动作也会全部停止,机器人就那样安静地待着,没有声音也没有动作。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-subscription-ended.jpg",
+          "cap": "订阅结束后,眼睛里会显示美元符号 © Wes Davis / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "试用期结束前两天,作者告诉孩子这台机器人快要停下来了,孩子哭了。作者只能抱着孩子,讲死亡、时间带来的疗愈,以及人一生中会经历的失去和新的缘分。他写道,自己对SwitchBot连不需要App和云端的基本动作都封锁感到生气。"
+        },
+        {
+          "t": "p",
+          "x": "问SwitchBot是否打算改变订阅政策,得到的回应是:即使没有订阅,也会让机器人能睁眼走动,再回到充电器上。但没有提到会恢复互动功能。花了700美元还要再搭一个订阅的产品,很难让人推荐。这让人想起宝马(BMW)把座椅加热做成订阅制而遭骂的事——至少那时候,车还能开。"
+        }
+      ]
     }
   }
 }

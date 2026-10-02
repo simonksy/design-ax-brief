@@ -1112,6 +1112,574 @@
           "x": "Yanxin-X2 isn't the only standout. CES 2026 featured LG's laundry-folding CLOiD and SwitchBot's Onero H1, which loads laundry into a washing machine. At the World Humanoid Robot Games in Beijing, Tiangong Ultra ran 100 meters in 9.39 seconds. 1X's $20,000 NEO is setting out to learn household chores. The industry is pushing forward on speed, dexterity, usefulness, and now, emotional believability."
         }
       ]
+    },
+    "gadgets/gadgets-samsung-glasses-fcc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "오랫동안 기다려온 Samsung 스마트 안경이 FCC 테스트를 통과했다. 출시가 머지않았다는 신호다. FCC 서류에는 SM-O200P와 SM-O200J, 두 모델이 올라왔다. 보통 상용화 직전 마지막 단계 중 하나다."
+        },
+        {
+          "t": "p",
+          "x": "양산 전 모델에서 확인된 대로 두 제품 코드는 각각 Warby Parker와 Gentle Monster 프레임을 가리킨다. 코드마다 여러 프레임 스타일이 붙을 예정인데, Warby Parker가 세 가지, Gentle Monster가 (현재까지) 두 가지다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Samsung과 Google이 함께 만든 이 안경은 Android XR을 처음 탑재하는 제품이 될 예정이다. 카메라와 마이크, 귀를 막지 않는 스피커를 갖춰 통화하고 팟캐스트를 듣고 Google Gemini와 대화할 수 있다. Snapdragon AR1 Gen 1 칩셋에 표시 LED가 달린 12MP 카메라 한 대를 쓰고, 한 번 충전하면 최대 9시간 쓴다고 알려졌다. 2026년 가을이라는 출시 시기 말고는 가격도 출시일도 나오지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하고, 카메라 달린 안경을 두고 Meta가 받아온 대중의 시선도 똑같이 감당해야 한다고 짚었다."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-reference-image": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Code left in iOS 27 beta 5 points to a new feature. It's a mechanism that confirms whether a photo was taken on an iPhone, that is, whether that camera is really the source."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&w=1600",
+          "cap": "iPhone Camera app"
+        },
+        {
+          "t": "p",
+          "x": "Composite images that pass themselves off as real aren't a new problem. But the flood of generative AI images has made it urgent. Work that used to take a skilled editor hours or days can now come out in seconds from a single half-formed idea."
+        },
+        {
+          "t": "p",
+          "x": "So several companies rolled out ways to flag AI-made content first. Google built SynthID, which embeds invisible watermarks in images and other media, and the technology spread beyond Google, with OpenAI using it on generated images. Meta also added AI-generation labels on Facebook, Instagram, and Threads. But these systems showed a limit: they failed to catch manipulated media properly, missing even content made by their own AI models."
+        },
+        {
+          "t": "p",
+          "x": "Apple appears to be addressing this too, going further than just tagging the metadata of images made with Image Playground. New code in iOS 27 beta 5 references something called Apple Reference Image. It's a feature that proves a photo's origin using unique data tied to the iPhone camera hardware that took it."
+        },
+        {
+          "t": "p",
+          "x": "The approach Apple has kept for handling sensitive user data in the cloud applies here too. It's designed so Apple can't view the original photo itself. The image is sent to Private Cloud Compute for verification, and only some sensor information and photo metadata come back to Apple. If a sensor is judged to have been tampered with, Apple can revoke prior certifications issued through that sensor."
+        },
+        {
+          "t": "p",
+          "x": "The feature is off by default. It's turned on later in Settings > Camera > Reference Image, and used by tapping Reference Mode. What matters is the moment of capture: the photo has to be taken in the camera's new “Reference” mode. A photo taken normally leaves no basis for certifying it later."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/reference-mode.jpg?quality=82&strip=all",
+          "cap": "The privacy notice screen shown when turning on Apple Reference Image"
+        },
+        {
+          "t": "p",
+          "x": "Reference mode doesn't automatically certify a photo. The user chooses to certify it later, and at that point the original image and provenance data go to Private Cloud Compute. Once verification is complete, Apple attaches a unique ID to the photo."
+        },
+        {
+          "t": "p",
+          "x": "A certified photo can also be sent to someone else. The recipient's Apple device checks on-device whether the certification still holds. Apple doesn't know which photo that person is viewing."
+        },
+        {
+          "t": "p",
+          "x": "What information travels along with it depends on the transfer method (AirDrop, Messages, etc.) and the photo's state—whether it's the original, an edited version, or a certified one. Apple writes that choosing to send “All Photos Data” can carry over a unique hardware identifier and even uncropped footage."
+        },
+        {
+          "t": "p",
+          "x": "USB transfers get a “Transfer with Provenance” option. If it's turned on, Reference Image data travels along with certified photos moved to a Mac or PC. Even uncertified photos can retain provenance information like a unique hardware identifier or uncropped footage."
+        }
+      ]
+    },
+    "gadgets/gadgets-home-assistant-intent-triggers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When I first built automations in Home Assistant, some of them worked, but I had no idea why they kept working after updates. I promised myself I wouldn't touch them unless they broke. They were patchworks stitched together from forum posts and guesses about sensor states. Once I had them running through trial and error, I just left them alone, afraid the magic that made them work would stop."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-3.jpg",
+          "cap": "The screen for adding a device to the Home Assistant dashboard"
+        },
+        {
+          "t": "p",
+          "x": "Home Assistant 2026.7 eased that fear. Intent-based triggers and conditions, which had sat in Labs for months, are now a default option when building automations. Instead of fitting your idea to Home Assistant's logic, you start from what you actually want. It's not a small change. I realized that after rewriting my messiest automation."
+        },
+        {
+          "t": "p",
+          "x": "Building an automation the old way meant answering questions that had little to do with what you actually wanted to do. Was it a state trigger, a numeric state trigger, or a device trigger? The hardest part was figuring out whether a sensor reports 'on' or 'detected' when it's triggered. Would a lock say 'locked,' or would it say something different depending on the integration behind it?"
+        },
+        {
+          "t": "p",
+          "x": "That made even something as simple as turning on the AC when a room gets hot harder than it needed to be. You had to know exactly what value a sensor reported, and guess whether it might briefly show 'unavailable.' Once an automation like that barely started working, you never opened it again, afraid of disturbing logic that was holding together by a thread."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/turn-on-ac-automation-template.jpg",
+          "cap": "The automation template for turning on the AC"
+        },
+        {
+          "t": "p",
+          "x": "With intent-based triggers, picking 'Battery low' and specifying the sensor was all it took. Home Assistant sets the threshold itself using logic appropriate to that sensor. It only works if the sensor properly identifies itself as a battery sensor, though—if it's a node you built yourself, you have to get the configuration right first. Temperature was the same. Swapping a numeric state trigger for a 'Temperature threshold crossed' trigger gave the same result."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/battery-low-automation-trigger.jpg",
+          "cap": "The battery-low trigger in the automation"
+        },
+        {
+          "t": "p",
+          "x": "My living room lighting automation was tied to a single PIR motion sensor by entity name. It was fine until I added another sensor to cover a blind spot. I had to go back into the automation and manually add the sensor to the trigger list. The thought of repeating that every time I swapped or added a sensor was dreadful."
+        },
+        {
+          "t": "p",
+          "x": "The new trigger targets a whole area instead of a single device. The living room automation now watches for motion in the room. It doesn't matter how many sensors there are. Because the automation records intent rather than a specific device, adding, removing, or swapping out a misbehaving sensor is easy."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/creating-automation-for-motion-detection.jpg",
+          "cap": "The screen for creating a motion-detection automation"
+        },
+        {
+          "t": "p",
+          "x": "On weekends I built a movie-night automation that senses a late evening homecoming and sets the mood: warm, dim lights and the TV turning on. I used the phone's location tracker switching from not_home to home as the basis, but if the signal dropped for a few seconds while walking in, the tracker would show 'unavailable' before finally settling on home."
+        },
+        {
+          "t": "p",
+          "x": "When that happened, the automation either missed the transition or jumped to the old value first. I added conditions to get it working and never touched it again after that. Intent-based triggers don't have this problem. The automation's building blocks handle 'unknown' and 'unavailable' on their own. After I switched to the new arrival trigger and removed the old conditions, it hasn't misfired once since."
+        },
+        {
+          "t": "p",
+          "x": "Automations you haven't touched still run exactly as before. For people who write YAML instead of using the interface, intent-based triggers translate cleanly too. This isn't just an interface-only release, and existing trigger types haven't gone away."
+        },
+        {
+          "t": "p",
+          "x": "What's changed is the starting point. The next automation you write starts from what you want to do, not from which trigger type fits. When an old automation breaks, you're now more likely to go in and fix it instead of just leaving it alone. If you've been avoiding a few automations, now's an excuse to rebuild them."
+        }
+      ]
+    },
+    "gadgets/gadgets-hoverair-versa": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "HoverAir, which has built autonomous-flying selfie drones, has unveiled Versa. It pairs the flight tech the company has accumulated with the convenience of a pocket camera. At its core is a high-end stabilized pocket camera like DJI's Osmo, which turns into a cinematic selfie drone once a drone body is attached magnetically. By going after two product categories at once, it has a single goal: making it as easy as possible to film yourself, or someone else."
+        },
+        {
+          "t": "video",
+          "yt": "eWNhu7JzLRM"
+        },
+        {
+          "t": "p",
+          "x": "Versa is HoverAir's first pocket camera. It carries a 3-axis gimbal that handles tilt, yaw, and pitch all at once. Other pocket cameras on the market don't go beyond 2 axes. It has a rotating screen and camera controls, with RGB lighting that doubles as a status light. From the outside, it looks like a well-made, ordinary pocket camera."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/88ETQKHvPyijYgKKbUZpYV.png",
+          "cap": "HoverAir Versa | Source: HoverAir on YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Pulling out the wings changes things. A small foldable drone body attaches magnetically to pogo pins on the back of the device. After connecting it, you unfold the wings and give it a light tap on top, and it lifts off straight from your palm. There's no separate controller. AI follows the user on its own. There are more than 10 intelligent modes that use AI framing to shoot from any direction, plus a 360-degree feature."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZiptYeVqBt65ATran9Q4NW.png",
+          "cap": "The drone body that attaches magnetically | Source: HoverAir on YouTube"
+        },
+        {
+          "t": "p",
+          "x": "In this mode, called 3D World, the drone circles the surroundings, takes photos from multiple angles, and stitches them into a single 360-degree scene to look through and share later. In effect, it's also going after Insta360's user base. That said, Insta360 records 360-degree video in real time, leaving much more room for post-production, so it's not quite the same thing. Still, it's a fun trick, and it remains to be seen how well HoverAir pulls it off."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EVfHCddo9n36npE8Jxv6fV.png",
+          "cap": "3D World mode | Source: HoverAir on YouTube"
+        },
+        {
+          "t": "p",
+          "x": "There's no price or release date yet. With only a teaser video promising it's coming soon, specs are also unconfirmed. The company is pushing the widest dynamic range in this class. In promotional material, the lens looks large and the drone body very small. Going by HoverAir's earlier selfie drones, it seems plausible it could shoot 8K video in 10-bit Log or HLG and fly up to 45 km/h."
+        },
+        {
+          "t": "p",
+          "x": "The test footage on HoverAir's website, and the video embedded above, are quite impressive. The idea invites both excitement and skepticism. Still, it's hard to deny that Versa feels like magic. Nothing like it exists on the market right now. HoverAir has already made selfie drones like the X1 series well, and a pocket camera isn't especially hard technology, so what's left is simply weaving the two into one body."
+        }
+      ]
+    },
+    "gadgets/gadgets-norecognition-pattern": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bill Swearingen repeated roughly the same test for about a year. He had a computer generate patterns that surveillance cameras blanketing American streets couldn't detect. After running it around 31 million times, he says he can now produce such a pattern whenever he wants."
+        },
+        {
+          "t": "p",
+          "x": "Put this pattern on clothing or an object, and the most widely deployed license plate readers and surveillance cameras can't pick out what's underneath it—whether it's a person or a vehicle. The project, named noRecognition, lets people slip past automated detection and algorithmic surveillance running in the US and elsewhere."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/patterns-example-norecognition.jpg?w=1024",
+          "cap": "A pattern made by Swearingen | Source: Bill Swearingen"
+        },
+        {
+          "t": "p",
+          "x": "The pattern doesn't stop filming itself. It disrupts a camera's ability to identify objects, people, and faces, so no detection alert goes off. In front of a camera that used to pick a needle out of a haystack, that person becomes a needle in a haystack again—until someone who knows where to look shows up."
+        },
+        {
+          "t": "p",
+          "x": "“Privacy is a basic right,” he told TechCrunch this week on a call. He described his pattern as a way to “opt out of being tracked.”"
+        },
+        {
+          "t": "p",
+          "x": "A Kansas City resident, he's a security professional who co-founded the security meetup SecKC. He said cameras stand just a few steps apart in his neighborhood, and no one ever consented to being watched. It started last year when he was heading to a rally and felt uneasy at the thought of all those cameras tracking people exercising free speech."
+        },
+        {
+          "t": "p",
+          "x": "He set up a proof-of-concept lab and took down open-source video detection algorithms one by one. People who showed up with compute resources helped him scale it, and the proof of concept grew into a reinforcement learning model—one that learns on its own which patterns work and which don't. He described it as teaching his own model “how to draw.”"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/pattern.jpg",
+          "cap": "A pattern that defeats detection | Source: Bill Swearingen"
+        },
+        {
+          "t": "p",
+          "x": "Every time a pattern got caught, the model tried again, and it eventually broke through several algorithms at once. He arrived at a combination that defeats all 11 open-source detection algorithms he tested. That includes the software behind Flock license plate readers, Axon body cameras, and cameras running Clearview AI. The model now generates a new pattern every minute, he said, and each batch is mathematically ahead of the last."
+        },
+        {
+          "t": "p",
+          "x": "The first real-world test came Friday at DEF CON in Las Vegas. With help from Donut Media, he wrapped a 2009 Toyota Yaris in his latest pattern and checked whether a Flock camera would catch it. “It proved it works,” he said. The wheels, though, were tricky. The demo video will come out within a few weeks."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/donut-media-car-swearingen.jpg?w=652",
+          "cap": "The 2009 Toyota Yaris wrapped in the pattern | Source: Bill Swearingen / Donut Media"
+        },
+        {
+          "t": "p",
+          "x": "The next step is putting the pattern into the hands of anyone who wants it. noRecognition is lining up early merchandise like T-shirts and hoodies through crowdfunding, and is even looking ahead to vehicle wraps. The goal is resolution good enough to work from a distance while still looking decent. He hasn't posted the strongest pattern online, so camera makers can't crack it. “Every time it fails, the model gets better, so the pattern keeps improving,” he said."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-ultra-trio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pulling together several reports, including Bloomberg's Mark Gurman and Macworld's Filipe Espósito, Apple plans to release as many as three new products carrying the “Ultra” name between late 2026 and early 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/WmYNENGA95YGRkAlvJXDrf2Vqko=/400x0/article-new/2025/08/Apple-Foldable-Thumb.jpg?lossy",
+          "cap": "Apple's foldable iPhone."
+        },
+        {
+          "t": "p",
+          "x": "The long-rumored foldable iPhone looks set to be named “iPhone Ultra.” Reports point to a 7.7-inch internal display and a 5.3-inch external display, two rear cameras and one front camera, and a Touch ID power button in place of Face ID. The wide internal screen suits video watching and multitasking."
+        },
+        {
+          "t": "p",
+          "x": "The “iPhone Ultra” is expected to launch alongside the iPhone 18 Pro and iPhone 18 Pro Max this September. Its US starting price is estimated to fall between $1,999 and $2,499."
+        },
+        {
+          "t": "p",
+          "x": "The “AirPods Ultra” could arrive as early as this year. It would line up if revealed alongside the “iPhone Ultra” in September."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/B6KsHRXz2lQ_d0eqYJhsA-QZosY=/400x0/article-new/2026/08/AirPods-Ultra-Mock.jpg?lossy",
+          "cap": "A mockup of AirPods Ultra."
+        },
+        {
+          "t": "p",
+          "x": "The “AirPods Ultra” is essentially AirPods Pro with a small infrared camera attached to act as Siri's eyes. According to Gurman's reporting, the camera enhances the Visual Intelligence feature on iPhone 15 Pro and later models, and a small LED on the earbud signals whether the camera is active."
+        },
+        {
+          "t": "p",
+          "x": "In iOS 27, Visual Intelligence moves into a new “Siri” mode in the Camera app. With the “AirPods Ultra,” you can do the same thing hands-free."
+        },
+        {
+          "t": "p",
+          "x": "“The idea is to let users ask about whatever they're looking at right away,” he said. For instance, you could look at the ingredients on a kitchen counter and ask Siri what to make for dinner."
+        },
+        {
+          "t": "p",
+          "x": "Last month, traces of camera-equipped AirPods were found in the code of the second iOS 27 developer beta, a sign that release is getting close."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/6LUGcgExrirfkG6GjQac1k7tAk4=/400x0/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg?lossy",
+          "cap": "MacBook Pro."
+        },
+        {
+          "t": "p",
+          "x": "Last is the “MacBook Ultra.” It's said to carry an OLED display that doubles as a touchscreen. Also mentioned are M5 Pro and M5 Max chips, a Dynamic Island, a design thinner than the latest MacBook Pro, and even Apple's own in-house C2 modem for 5G/LTE connectivity. Gurman reported that Apple plans to release this MacBook by early 2027."
+        },
+        {
+          "t": "p",
+          "x": "That would put the iPhone Ultra, AirPods Ultra, and MacBook Ultra arriving one after another over the next six or seven months."
+        }
+      ]
+    },
+    "gadgets/gadgets-eu-glasses-rules": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Smart glasses have been getting attention for the wrong reasons, and I've written several times that major regulation was likely to follow. As expected, bans and restrictions are starting to take shape. No country has moved to an outright ban yet. Instead, some places have blocked use in specific situations, and others are considering tougher measures. Private companies like event organizers are also barring them from their own venues."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HvQHUDBQ3y38W4k2cpbW9a.jpg",
+          "cap": "Magic Leap's Android XR smart glasses (Image credit: Magic Leap)"
+        },
+        {
+          "t": "p",
+          "x": "The US is mostly free to use them, but New York State has banned them in every courtroom in the state. Glasses that can record could be seen as an attempt to intimidate people involved in a case, and unauthorized recording carries real risk in trials where sensitive information comes up. Philadelphia, Hawaii, and North Carolina have put similar bans in place for courtrooms. The US Air Force wrote into its service regulations that “smart glasses or mirrored lenses with photo, video, or AI capability are prohibited while in uniform.” Some events, like the hacker conference DEF CON 34, have banned bringing them in at all."
+        },
+        {
+          "t": "p",
+          "x": "The UK is in a similar spot. Courts haven't banned the glasses outright, but after someone was found getting coached by a glasses' AI during a trial, the mood has turned toward discouraging their use. UK courtrooms already restrict recording, so taking photos or video with the glasses breaks the rules the same way a phone or ordinary camera would. Monopoly Events banned camera glasses at its own Comic Con after repeated reports of covert filming, and there's also a petition calling for their sale and promotion to be banned."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wmeVR8CtaH5C3wzhtmFHfN.jpg",
+          "cap": "Memomind One smart glasses (Image credit: Future / Hamish Hector)"
+        },
+        {
+          "t": "p",
+          "x": "In the EU, the European Data Protection Board is writing a report on smart glasses, expected within a few months. Member states are moving first. Germany's data protection supervisor warned that existing law banning recording devices hidden in everyday objects could already be used against camera glasses. Digital rights activists in the Netherlands have flagged the problem of being filmed without knowing it, and France's CNIL has also pointed to the privacy risks of camera glasses."
+        },
+        {
+          "t": "p",
+          "x": "Korea's ban comes from a different angle. After cases surfaced of people caught trying to cheat with smart glasses, the country specifically restricted bringing them into exam rooms. Given the weight of the College Scholastic Ability Test, the rule simply spells out, with no room for confusion, whether the glasses can even be carried in."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jHpFaFch9dZ3ghBau5gzi9.jpg",
+          "cap": "Ray-Ban Meta smart glasses (Image credit: Meta)"
+        },
+        {
+          "t": "p",
+          "x": "Not many bans have actually taken effect yet. That will grow if the hardware doesn't change. The biggest worry is the privacy of people who get caught in someone else's camera by chance, especially when they have no idea they're being filmed. The fix is obvious: make it far more obvious that recording is happening. Think brighter capture indicator lights, a loud shutter sound when a photo is taken, or a sound that plays while video is rolling. On the user side, people want control over what the manufacturer can access, and want to know for certain which photos and videos get passed on to outside parties or contractors. It's unclear how much longer smart glasses can hold out before serious regulation arrives."
+        }
+      ]
+    },
+    "gadgets/gadgets-memomind-one": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Chinese projector maker XGIMI opened crowdfunding in June for its first smart glasses, Memomind One. The bet was that consumers would respond to display glasses without a camera, and the funding has now passed $1 million. The category has earned another round of early confidence."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/memomind-one.jpg?resize=1068%2C712&quality=89&ssl=1",
+          "cap": "Memomind One | Source: XGIMI"
+        },
+        {
+          "t": "p",
+          "x": "As soon as the Kickstarter launched on June 28, it easily cleared its HK$80,000 (about $10,000) goal, and raised $500,000 within a week. Now, with 20 days left before the August 28 deadline, it has passed $1 million."
+        },
+        {
+          "t": "p",
+          "x": "The product was first unveiled in January at CES 2026 in Las Vegas. It leaves out a camera entirely, and instead packs in a 2,000-nit dual green micro-LED display and audio, plus AI features like real-time translation, note-taking, context-aware assistance, and navigation."
+        },
+        {
+          "t": "p",
+          "x": "The price is on the low end even among display smart glasses. All three styles—Nomad, Gotham, and Archive—start at $400 for the Standard Edition. Adding prescription lenses brings it to $500, and the Custom Edition, which offers a choice of colors, starts at $450. Shipping is set for August 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-nomad.jpg?resize=696%2C464&quality=89&ssl=1",
+          "cap": "Memomind One Nomad | Source: XGIMI"
+        },
+        {
+          "t": "p",
+          "x": "XGIMI didn't set a separate stretch goal. The campaign looks, in practice, closer to a pre-order."
+        },
+        {
+          "t": "p",
+          "x": "If Memomind One's numbers say anything, it's that skipping the camera is a much stronger marketing card than expected. The backlash Meta is currently facing over its camera-only glasses, which lack a display, is part of that too."
+        },
+        {
+          "t": "p",
+          "x": "Until recently, Meta hasn't managed to properly stop people from disabling the recording indicator LED or otherwise defeating the system by other means. It's too early to be certain since there's no real competitor yet, but there's a sense in which Meta has poisoned the well."
+        },
+        {
+          "t": "p",
+          "x": "Memomind isn't the first to push display glasses without a camera. But it's cheaper than its main rival, Even Realities' G2, which costs $600 even without prescription lenses."
+        },
+        {
+          "t": "p",
+          "x": "That said, I'm not convinced that “display-only” glasses are really about to take off in a big way. Given today's power and compute constraints, running a camera and a display together is hard, so this looks more like a temporary split being smoothed into its own market segment. I plan to test that assumption by living with Memomind One for a while."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-watch-rethink": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bloomberg's Mark Gurman reported in the Power On newsletter that Apple is reexamining the Apple Watch lineup from the ground up. He compared the shift to the “revolutionary design change” represented by the foldable iPhone, writing that it would be “a transformation of the product for a new era.”"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/moO1wpKxZZc7Vf6ryH6mSjLilsM=/400x0/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg?lossy",
+          "cap": "Complications on the Apple Watch Ultra 2."
+        },
+        {
+          "t": "p",
+          "x": "The industrial design team has floated several directions. Under consideration are a screenless fitness tracker, Apple Watch models with different display types and sizes, and even a round-screen model. Gurman, however, thinks a round model is unlikely to actually ship."
+        },
+        {
+          "t": "p",
+          "x": "Price points would also spread further apart, with talk of a higher tier sitting above Ultra and Hermès, and a cheaper option below the SE. Apple isn't taking lightly the renewed sales momentum of screenless fitness bands and smart rings either."
+        },
+        {
+          "t": "p",
+          "x": "No direction has been settled yet. But as competition intensifies, the resolve to rebuild the lineup is said to be firm. The goal is to revive the slow-growing wearables, home, and accessories segment, with plans that stretch out to weaving in AI features and overhauling the Health app."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home-storytime": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google rolled out an August 5 update to Gemini for Home (early access) and the Google Home app. The standout is Storytime, where AI makes up stories on the fly, while the app side focused on making everyday controls more reliable."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg",
+          "cap": "Google Home app | Source: Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Interactive Storytime makes up stories by voice and lets you change them midway. You can ask for a new story or make a child the main character. You can swap the wolf in The Three Little Pigs for a Tyrannosaurus, or have the main character suddenly pick up a treasure map."
+        },
+        {
+          "t": "p",
+          "x": "Everyday use got attention too. Alarms and timers set with natural language are understood better, and the system now respects 12-hour or 24-hour format preferences. It answers questions about how much time is left on a timer more accurately, and catches requests like a timer for soft-boiled eggs."
+        },
+        {
+          "t": "p",
+          "x": "There are small speaker fixes as well. The confirmation sound for turning off lights or dimming them has changed, and a bug where the light ring stayed on after a routine finished has been fixed. Google also said it resolved a brief Spotify outage from late July."
+        },
+        {
+          "t": "p",
+          "x": "The Google Home app update is bigger on the camera side. You can now add more third-party security cameras—Eufy, Tapo, Wyze, Reolink, Nanit—to see more feeds in one app. Recording storage is faster, and live-streaming stability and panning have improved. Home Premium Advanced subscribers get AI camera event summaries, so they know what happened without watching the full recording. Automations are available in more countries and languages, and smart lock integration has better notifications and error handling."
+        }
+      ]
+    },
+    "gadgets/gadgets-kata-friends-paywall": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The $700 SwitchBot Kata Friends is a bear-shaped AI robot with LCD eyes. It nods, twitches its ears, waves its arms, and roams the house on three wheels. A camera tucked into its nose spot recognizes people and responds to simple gestures. The author lived with this robot for two weeks."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-main.jpg",
+          "cap": "SwitchBot Kata Friends © Wes Davis / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "It roams for about three hours on a 3,200mAh battery and heads back to its dock on its own once it runs low. There's no way to turn off the eye screen, so at night the author simply pressed the power button. While connected to Wi-Fi, you can switch between Normal, Standby, and Sleep modes in the app, and like a robot vacuum, it draws no-go zones on the map it builds for itself."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-app-view.jpg",
+          "cap": "Maps and the diary piling up in the app © Screenshots by Wes Davis / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "The app also has a diary. Every morning, AI posts a summary of the previous day. A photo album the robot has taken also opens up, and the author's was full of close-ups of a child's face and awkward-angle selfies of itself. With a SwitchBot hub, it can also command devices around the house, like a HomePod or Echo—though it often failed to understand on the first try and needed to be told twice."
+        },
+        {
+          "t": "p",
+          "x": "The problem is the pricing. Setting it up for the first time starts a 15-day free trial of the Companion Care Plan. The $400-a-year Premium plan bundles turning the robot on with free repairs, an annual checkup, and fur grooming. The $15-a-month ($150-a-year) Essential plan only keeps the device and app features alive. Without a subscription, even the device's internal functions that don't need the internet stop entirely. The robot just sits there, with no sound and no movement."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-subscription-ended.jpg",
+          "cap": "When the subscription ends, a dollar sign appears in its eyes © Wes Davis / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Two days before the trial ended, the author told the child the robot would soon stop, and the child cried. The author had to hold the child and talk about death, the healing that time brings, and the losses and new connections one encounters in life. The author wrote that they were angry at SwitchBot for blocking even basic functions that need neither the app nor the cloud."
+        },
+        {
+          "t": "p",
+          "x": "Asked whether SwitchBot plans to change its subscription policy, the company said it would make it so the robot can open its eyes and roam around before returning to its charger even without a subscription. There was no mention of restoring interaction. It's hard to recommend a product that costs $700 and still requires a subscription on top. It recalls the backlash BMW faced for trying to turn heated seats into a subscription—except back then, at least the car still drove."
+        }
+      ]
+    },
+    "gadgets/gadgets-ryzen-npu-binned": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AMD released two Gorgon Point notebook chips on August 9: the Ryzen 5 439 and the Ryzen 7 449. Neither has the NPU that defined the Ryzen AI 400 series. AMD's own spec pages leave the NPU field blank. That's where they part ways with their closest siblings, the Ryzen AI 5 Pro 440 and the Ryzen AI 7 Pro 450."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ryzen_400.jpg",
+          "cap": "The Ryzen 400 series | Source: AMD"
+        },
+        {
+          "t": "p",
+          "x": "The 439 uses the same Zen 5/Zen 5c 3+3 configuration as the Pro 440. Instead, boost clock drops from 4.8GHz to 4.6GHz, and the Zen 5c cluster drops from 3.5GHz to 3.3GHz. L3 cache is also cut in half, from 16MB to 8MB. The up to 50 TOPS XDNA NPU figure the Pro 440 touts has disappeared entirely from the 439's page."
+        },
+        {
+          "t": "p",
+          "x": "The 449 is closer to the Pro 450. The 4+4 core configuration and Radeon 860M integrated graphics stay the same. Only the boost clock, down slightly from 5.1GHz to 5.0GHz, and the Zen 5c, from 3.6GHz to 3.4GHz, are lower. The up to 50 TOPS NPU and the platform-wide 66 TOPS figure attached to the Pro 450 are absent from the 449's listing."
+        },
+        {
+          "t": "p",
+          "x": "Everything else is the same. A default TDP of 28W with a 15-54W configurable range, the TSMC 4nm process, and the FP8 socket all match the Ryzen AI siblings. Pricing hasn't been announced, and neither have any laptops built around these chips."
+        },
+        {
+          "t": "p",
+          "x": "AMD's product finder also has what looks like a labeling error. Both chips sit under the “Ryzen 400” tab, but the header above the comparison table reads “AMD Ryzen 6000 Series Processors.” It has the look of something posted in a hurry."
+        }
+      ]
+    },
+    "gadgets/gadgets-wacom-movinkpad-11": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Wacom is a Japanese company founded in 1983, and one of the longest-running makers of graphics tablets. In recent years it has put its weight behind the Movinkpad, an Android tablet built for drawing directly with a stylus."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/Wacom-Movinkpad.webp?w=564",
+          "cap": "Wacom Movinkpad 11 | Source: Wacom"
+        },
+        {
+          "t": "p",
+          "x": "What TechCrunch borrowed and tried out is the first model in the series, the Movinkpad 11. The latest entry is the Movinkpad Pro 14, released last fall, which adds a 3K-resolution OLED screen and a wider color gamut for $899. Starting with the first model was a deliberate choice, to see where the series began."
+        },
+        {
+          "t": "p",
+          "x": "The short version: it's easy to set up and worth the money. $500 is expensive for someone with little interest in drawing. But for those who like digital drawing but don't have much money to spare, it sits in a middle zone—somewhere between the $30-something Huion Inspiroy H640P, the $3,500 Wacom Cintiq Pro 27, and iPads that run up to $1,100."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_4537.jpeg?w=680",
+          "cap": "A drawing made with the Movinkpad 11 | Source: Lucas Ropek/TechCrunch"
+        },
+        {
+          "t": "p",
+          "x": "The specs: an 11.45-inch screen, 8GB of memory, and 128GB of storage. It weighs 1.3 pounds, so carrying it around isn't a burden. The included Pro Pen 3 is a 6.3-inch stylus with three side buttons you can assign as you like, and the nib can be swapped using a $15 replacement pack. In hand, it feels close to a thin felt-tip pen."
+        },
+        {
+          "t": "p",
+          "x": "Being Android, it's tied to a Google account. The free Wacom Canvas comes preinstalled, and if you need more features, you buy the paid Clip Studio Paint. The character of the tip—pen, brush, pencil—gets changed inside the software."
+        },
+        {
+          "t": "p",
+          "x": "There's plenty of competition, starting with iPads that use the Apple Pencil. Even so, the Movinkpad is a device built around one thing, drawing, and the company behind it has stuck around in this space for a long time. Over a weekend, spending a few hours and drawing a handful of silly pictures, it turned out to be a pretty fun way to spend an afternoon."
+        }
+      ]
     }
   }
 }

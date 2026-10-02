@@ -950,6 +950,535 @@
           "x": "LLM의 평가는 상대의 성별과 문화적 배경, 상황 맥락에 따라서도 달라졌다. 저자들은 전체 협력을 높이는 규범을 따르라고 지시하는 식의 프롬프트 개입은 효과가 제한적이고 모델마다 들쭉날쭉했다고 밝혔다."
         }
       ]
+    },
+    "science/uclaoptical": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+        },
+        {
+          "t": "p",
+          "x": "UCLA 연구진이 빛으로 딥페이크 영상 식별을 돕는 광학-신경 프로세서를 개발했다. 기존 시스템은 디지털 하드웨어에서 영상을 하나씩 차례로 검사한다. 이 프로세서는 탐지 과정의 일부를 빛의 물리적 전파가 맡아서 15개 이상의 영상 스트림을 한꺼번에 분석한다. 연구 결과는 eLight에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "경량 디지털 인코더가 각 영상에서 공간·스펙트럼·시간 특징을 뽑아 공간 광변조기에 위상 패턴으로 표시하면 수동형 광학 디코더가 영상마다 진위 점수를 매긴다."
+        },
+        {
+          "t": "p",
+          "x": "광학 처리 한 번에 Celeb-DF 영상 15개를 검사하자 평균 정확도 97.79%, 민감도 99.86%가 나왔다. 영상 18개에서는 96.13%였다. 미세 조정을 최소한으로만 거치고도 처음 보는 Google VEO-3 영상에서 정확도 94.80%를 냈고, 블랙박스 적대적 공격에도 버텼다."
+        },
+        {
+          "t": "p",
+          "x": "Aydogan Ozcan 교수 연구팀은 이 시스템을 처리량 높은 1차 방어선으로 본다. 의심스러운 콘텐츠는 더 정교한 디지털 모델로 넘겨 최종 판정을 맡긴다."
+        }
+      ]
+    },
+    "science/science-cognitive-map-planner": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The power AI now consumes has become an obstacle economically, politically and scientifically. The human brain produces intelligence on 20W. That gap, as pointed out by Wolfgang Maass of TU Graz, is the starting point for the new research."
+        },
+        {
+          "t": "p",
+          "x": "Researchers from Tsinghua University, TU Graz and Italy's National Research Council rebuilt an artificial neural network using a framework drawn from cognitive science and neuroscience. The paper was published in Nature Machine Intelligence under the title 'Neural sampling from cognitive maps enables goal-directed imagination and planning.'"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-rooted-in.jpg",
+          "cap": "Sampling from a two-dimensional cognitive map to imagine spatial paths in a goal-directed way. Source: Nature Machine Intelligence (2026). DOI: 10.1038/s42256-026-01254-4"
+        },
+        {
+          "t": "p",
+          "x": "The core idea is the cognitive map. The brain stores learned knowledge not as tables or parameters but in the form of a map, and the researchers carried this representation over into the neural network. Rather than scaling up deep neural networks or large language models, they changed the representation itself."
+        },
+        {
+          "t": "p",
+          "x": "“It was fascinating that evolution invented algorithms and data structures that produce intelligence in the brain,” said Maass. “What do they look like, and can they be recreated in an artificial device?” He also noted that there is already a large body of research probing brain algorithms at the micro level."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-framework-rooted-in-1.jpg",
+          "cap": "The structure and training process of GCML. Source: Nature Machine Intelligence (2026). DOI: 10.1038/s42256-026-01254-4"
+        },
+        {
+          "t": "p",
+          "x": "In testing, the network planned and solved problems it had never seen before, adapting to the situation. The process driving its predictions and actions was also easier to inspect than in existing AI models. Because it runs on local learning rather than a heavy training process, it can be mounted on low-power hardware such as neuromorphic chips, in-memory computing chips and memristor arrays."
+        },
+        {
+          "t": "p",
+          "x": "The researchers have begun working with Intel and several U.S. startups to put the algorithm onto dedicated chips. The next goals are brain-like low-latency processing and explainable AI that shows which experiences backed up a given decision. Maass said he continues working to move brain-like algorithms onto more energy-efficient hardware."
+        }
+      ]
+    },
+    "science/science-nsf-self-driving-labs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The U.S. National Science Foundation (NSF) has decided to spend $380 million (£285 million) building AI-run automated labs nationwide. North Carolina State University (NCSU) will lead one part of that effort."
+        },
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/3/0/550430_pclhero_814303_crop.jpg",
+          "cap": "The U.S. National Science Foundation (NSF). Source: Chemistry World"
+        },
+        {
+          "t": "p",
+          "x": "It's named Speed Lab (self-driving platforms for experimental co-design in chemistry and materials science). Over four years with a $20 million budget, it will be led by NCSU chemical engineer Milad Abolhasani, together with Alex Miller, an organometallic chemist at the University of North Carolina at Chapel Hill."
+        },
+        {
+          "t": "p",
+          "x": "The goal is a self-driving lab where scientists set the research targets and smart robots carry out the procedures. Remotely operating automation equipment is also part of the scope. The initial focus areas are catalysts to improve chemical manufacturing efficiency, semiconductor materials for energy, sensing and electronics, and photocatalytic materials."
+        },
+        {
+          "t": "p",
+          "x": "Abolhasani said Speed will cut the time it takes to find functional materials and molecules in fields like advanced electronics, pharmaceuticals and agriculture from years to weeks."
+        },
+        {
+          "t": "p",
+          "x": "MIT researchers will contribute machine learning and AI capabilities for chemistry research. The Chapel Hill side will build new access and control interfaces and pilot several types of chemical reactions. Miller said, \"Building hardware and software tools that let people without access to advanced equipment test their own research ideas could change the game.\""
+        },
+        {
+          "t": "p",
+          "x": "The self-driving lab modules inside Speed run experiments in parallel and use machine learning to predict which experiments are worth trying next. Miller believes this will speed up the process from discovering lead materials to optimizing them by more than 100 times. This NSF funding will also support projects over the next four years in biotechnology and biochemistry, soft matter, and electronics."
+        }
+      ]
+    },
+    "science/science-schrodinger-farid-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "STAT's AI Prognosis is a subscriber-only newsletter. Most of this edition sits behind the paywall, so only what's available in the open portion and the article summary is carried here."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/08/AIPrognosis_Wordpress_RamyFarid-645x645.png",
+          "cap": "Schrödinger CEO Ramy Farid. Source: STAT"
+        },
+        {
+          "t": "p",
+          "x": "This edition, written by reporter Brittany Trang, is titled on how Schrödinger CEO Ramy Farid changed his mind about AI. Farid has long been on the side of physics-based simulation in drug design. The piece centers on where he now sees machine learning standing in computational drug discovery, and what changed his judgment."
+        },
+        {
+          "t": "p",
+          "x": "The article also covers Centene's AI pivot. The subheading combining both cases is 'Schrödinger's and Centene's AI shifts.'"
+        },
+        {
+          "t": "p",
+          "x": "In the open portion, Trang writes that she is waiting for the moment when people correct the judgments they've made about AI. In about five years, she says, it will become clearer what AI can and can't do, and fewer bosses will force employees to use AI that doesn't work. AI itself getting better is also part of it, she writes. Once the hype clears, uncertainty around AI should ease both in the labor market and across the world more broadly."
+        },
+        {
+          "t": "p",
+          "x": "Farid's own remarks and reasoning, which sit behind the paywall, could not be confirmed. This card covers only the public introduction and the article summary."
+        }
+      ]
+    },
+    "science/science-aalto-reading-rl-model": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Aalto University, working with an international team, have built the most accurate model yet of how people read text. Using reinforcement learning techniques from robotics, it explains and reproduces the choices readers make as they scan through text."
+        },
+        {
+          "t": "p",
+          "x": "\"This is the first time an AI method has not just imitated human reading, but actually understood it,\" said Professor Antti Oulasvirta of Aalto University. In the study, due to appear in Nature Human Behaviour on Monday, August 10, the researchers say the model could be used to run smarter augmented reality (AR) displays and to tailor complex text to readers and situations."
+        },
+        {
+          "t": "p",
+          "x": "Earlier models mimicked human behavior by training on large datasets pairing text fragments with eye-tracking data, but they never truly understood the content and lost their footing when language or context changed, Oulasvirta explains. The new model instead follows the psychological mechanisms readers use to allocate attention, showing how understanding builds up as the eyes move across words, sentences, and paragraphs."
+        },
+        {
+          "t": "p",
+          "x": "\"We are always reading something. But throughout the history of writing, the text we've read was designed for mass use, not for one specific person and one specific situation,\" Oulasvirta said, adding that this is positioned to change that."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-uses-reinforc.jpg",
+          "cap": "The resource-rational mechanism behind reading. Source: Nature Human Behaviour (2026). DOI: 10.1038/s41562-026-02534-0"
+        },
+        {
+          "t": "p",
+          "x": "The principle driving the model is resource rationality. While reading, we constantly decide where to look next in order to maximize understanding within the time we have. Gaze allocation is determined at three levels — words, sentences, and whole texts — and is shaped by the reader's language, memory capacity, eyesight, and eye speed. Readers with strong memory and fast eyes leap confidently from paragraph to paragraph, while readers with weaker memory tend to backtrack and reread more often."
+        },
+        {
+          "t": "p",
+          "x": "\"Reading feels effortless, but the brain is constantly deciding where to look, what to skip, and when to go back. It spends attention like a budget to maximize understanding,\" said Professor Shengdong Zhao of City University of Hong Kong."
+        },
+        {
+          "t": "p",
+          "x": "The researchers set up reader traits as adjustable parameters, then let the model find its own optimal strategy for directing attention. \"We placed the model in a world with millions of texts. Then, using AI reinforcement learning, we optimized its eye movements and trained it to actually understand what it read,\" Oulasvirta explained."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-captures-how.jpg",
+          "cap": "Professor Antti Oulasvirta, who leads the Computational Behavior Lab at Aalto University in Finland. Source: Antti Kahilaniemi/Aalto University"
+        },
+        {
+          "t": "p",
+          "x": "As it reads, the model builds a compressed description of the text's content. When an important word or clause is missing, it sends its gaze to fill in that information. Asking what it retained within the time and constraints given measures its comprehension. Comparing the model's attention-allocation decisions with real human eye-tracking data showed they overlapped with actual reader behavior — making it possible to build a model of the average reader and tune it for different reader types."
+        },
+        {
+          "t": "p",
+          "x": "This opens the door to new reading aids and personalized text design — smart glasses that adjust the speed and layout of on-screen text to the situation and user, or that rewrite the text itself to fit the user. \"Given a single source document, like a tangled legal text, we can generate versions that read better for different readers without much extra effort,\" Oulasvirta said."
+        },
+        {
+          "t": "p",
+          "x": "The next task is to examine how this model could be used to help people with dyslexia or lower language ability. \"We want to help users in real time, for example by designing helpful text that doesn't distract a driver's attention,\" he said. Researchers from the Hong Kong University of Science and Technology, City University of Hong Kong, and the National University of Singapore took part in the study alongside Aalto University."
+        }
+      ]
+    },
+    "science/science-ai-agents-for-science": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Every few decades, someone declares that science is finished. In 1903, Albert Michelson wrote that \"the more important fundamental laws and facts of physical science have all been discovered,\" and in the 1980s, Stephen Hawking thought theoretical physics was nearly at an end. With AI now sweeping in, that same feeling is back."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists2.jpg",
+          "cap": "Source: Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "In 2024, Demis Hassabis and John Jumper of Google DeepMind shared the Nobel Prize in Chemistry for AlphaFold, which predicts the three-dimensional structure of proteins — a problem that had resisted solution for half a century. Hassabis's team called AlphaFold \"a template for how AI can accelerate all of science at digital speed,\" and foundation-model startups went on to raise billions of dollars."
+        },
+        {
+          "t": "p",
+          "x": "Eric Schmidt and Suhas Mahesh believe that template is wrong, because the conditions that produced a result like AlphaFold are exceedingly rare. The underlying Protein Data Bank holds about 170,000 experimentally verified structures, built up over 53 years of international collaboration and, by recent estimates, roughly $21 billion worth of experiments."
+        },
+        {
+          "t": "p",
+          "x": "There's a less-discussed barrier: in many fields, you simply can't generate comparable data at all. Protein crystallography is highly reproducible — more than 25 Nobel Prizes have relied on the technique — but most experimental science produces results that wobble. Cell lines drift, reagents carry trace contaminants, and humidity varies. Data consistent enough to train a neural network would require new measurement methods and standards that, for now, don't exist."
+        },
+        {
+          "t": "p",
+          "x": "Some fields do meet the conditions — weather forecasting, much of genomics, and parts of chemistry. The remaining open questions need a different plan, and that's where agents come in."
+        },
+        {
+          "t": "p",
+          "x": "Scientists have always reasoned under uncertainty. A biologist searching for a new drug target has never had a perfect dataset. They stitch together docking calculations and known structures, run a few binding experiments, and weigh the strengths and blind spots of each method. Science's real skill is weaving together results from multiple tools and revising as evidence comes in."
+        },
+        {
+          "t": "p",
+          "x": "That's what agents do. They're AI reasoning engines handed tools and the ability to use them. As these programs, built on large language models, have spread, the need for science-specific datasets has dropped sharply. Where AlphaFold applies a powerful method to a narrow question, agents are generalists by nature."
+        },
+        {
+          "t": "p",
+          "x": "Google's AI Co-Scientist, unveiled in May, is one example. Given a one-page task — explain how antibiotic resistance spreads between bacterial species — the system spun up sub-agents. One pulled hypotheses from the literature, one grilled them like a peer reviewer, one ranked candidates in a tournament, and one refined what was left. It concluded that resistance genes hitch a ride on bacterial viruses to reach new hosts, and it was right. Researchers at Imperial College London had reached that same conclusion over a decade at the lab bench, but their paper is still under review."
+        },
+        {
+          "t": "p",
+          "x": "Hallucination, uneven judgment, and memory and input limits are all still there. Even so, the two authors argue that once this wall comes down, the gains to scientific reliability and speed compound. Agents log every one of their own actions, making them a structural fix for the reproducibility crisis — they automatically leave behind the raw-data-and-code disclosures researchers have long put off."
+        },
+        {
+          "t": "p",
+          "x": "The biggest shift is speed. Once testing something takes less time than arguing about it, people just run it. An agent that reads a thousand papers an hour, designs 500 molecules, and learns from failures overnight lowers the cost of experimentation. Schmidt and Mahesh write that tools spanning every field — like calculus, statistical reasoning, spectroscopy, or the computer — have appeared only a handful of times in history, and that this is one of those shifts."
+        }
+      ]
+    },
+    "science/science-mit-geopt-physics-pretraining": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI can write text, generate images, and even produce 3D models. But it's still clumsy at testing robot or vehicle designs across different environments — because it doesn't understand physics as well as it understands pixels or text."
+        },
+        {
+          "t": "p",
+          "x": "Building an AI that can broadly simulate physical situations would require physics data at a matching scale, and current technology can't deliver that. Even getting the model a handful of data points it can learn from takes a long time, because an algorithm called a numerical solver has to compute physical quantities at every point on a 3D shape. That's thorough but slow, which limits how much data is available to check whether an aircraft design is safe and aerodynamic."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202608/MIT-GeoPT-01-press.jpg",
+          "cap": "The GeoPT model \"would be really useful for an engineer who wants to test out a car design without running a ton of physical experiments,\" says Haisu Wu, an MIT postdoc and CSAIL researcher. Credit: Alex Shipps/MIT CSAIL, using the GeoPT model and material from Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "GeoPT, a pretraining approach built by researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL) and Tsinghua University, lets simulation models learn physics more broadly and more efficiently. It replays everyday mechanical interactions in 3D, showing where on an object a particle comes to rest. Models that pick up this sense of physics render reality more accurately, reach peak performance twice as fast, and use up to 60% less training data than leading models."
+        },
+        {
+          "t": "p",
+          "x": "\"We see physics as a third modality for AI models, after text and pixels,\" says Minghao Guo, an MIT PhD student and CSAIL researcher who is a co-first author of the GeoPT paper. \"Our general-purpose model is versatile enough to build a model of the physical world. Models that generate robot data or video are already fluent in text and visual data, and layering in physical accuracy makes their output far closer to reality.\""
+        },
+        {
+          "t": "p",
+          "x": "Using it is simple. Load a 3D model of an object — a battleship, a passenger plane, a truck — set the direction and speed of the force you want to apply, and a heat map shows which parts are affected and how. GeoPT's sense of physics comes from synthetic mechanics: it trained on 1.3 million samples of a small sphere moving at various speeds and angles before coming to rest at a specific point on an object, with particles sticking on contact rather than passing through or bouncing off."
+        },
+        {
+          "t": "p",
+          "x": "It was especially strong on industrial scenarios. On a dataset capturing how complex 3D shapes respond to airflow and surface pressure, it beat top-tier models on speed, accuracy, and efficiency alike. For cases where a ship's hull faces both air and waves, it used 60% less labeled data while reaching peak accuracy four times faster than the best baseline. It also matched how a crashed vehicle crumples using less data, and accurately rendered a scene of light passing through a rabbit model it had never been trained on."
+        },
+        {
+          "t": "p",
+          "x": "\"If it does well on industrial benchmarks, that means it can solve the hardest physics problems,\" says co-first author Haisu Wu. \"GeoPT produced high-precision simulations with more than 100 million mesh points in just seconds.\""
+        },
+        {
+          "t": "p",
+          "x": "The researchers see the current system as a preview of the physics foundation model they envision. Scaling up to more shapes and handling more complex phenomena is next. The paper was presented in July at the International Conference on Machine Learning (ICML), and the senior author is Wojciech Matusik, an MIT professor in EECS."
+        }
+      ]
+    },
+    "science/science-single-lead-ecg-heart-failure-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Winston-Salem, North Carolina, Aug. 6, 2026 — Research led by Wake Forest University School of Medicine found that AI can help spot signs of heart failure, including types that are often missed in routine care. The model performed well even with single-lead ECG data of the kind some wearable devices capture. It wasn't tested on data actually collected by wearables, but the results suggest it could one day be refined into an easier screening test."
+        },
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/36e731f1-06d8-497d-bfb2-f3a22e079103/Rendition/low-res/Content/Public",
+          "cap": "Corresponding author Oguz Akbilgic, professor of artificial intelligence in the Department of Internal Medicine's cardiovascular medicine section at Wake Forest University School of Medicine. Credit: Wake Forest University School of Medicine"
+        },
+        {
+          "t": "p",
+          "x": "Heart failure affects more than 6 million Americans and is a leading cause of hospitalization and death. Early detection matters, but assessing heart function usually requires an echocardiogram, a test that isn't available at every point of care. An AI-enhanced ECG could be used to flag patients who need further testing."
+        },
+        {
+          "t": "p",
+          "x": "The study, published in the Journal of the American Heart Association, produced an AI tool that reads standard electrocardiogram (ECG) data to flag three types of heart dysfunction: reduced ejection fraction (rEF), where the heart's main pumping chamber sends out far less blood than normal; mildly reduced ejection fraction (mEF); and heart failure with preserved ejection fraction (HFpEF), where the ejected proportion is normal but the heart has trouble filling or functioning."
+        },
+        {
+          "t": "p",
+          "x": "Ejection fraction is the proportion of blood the heart's main pumping chamber pushes out with each beat. HFpEF is especially hard to catch early and is often missed in routine care."
+        },
+        {
+          "t": "p",
+          "x": "\"This is a major step toward catching heart failure earlier with tools already used in routine care,\" says corresponding author Oguz Akbilgic, professor of artificial intelligence in the cardiovascular medicine section at Wake Forest University School of Medicine. \"Our AI model can detect multiple types of heart dysfunction using just a simple single-lead ECG — the exact lead configuration used by many smartwatches and wearable ECG devices, which means it could be refined into a wearable-based screening test.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Some of these conditions progress without noticeable symptoms until they're found only after they've worsened. Our model fills that gap by picking up on electrical patterns in the heart that are hard for the human eye to detect. It's meant to help clinicians decide when further heart failure testing is warranted,\" Akbilgic said."
+        },
+        {
+          "t": "p",
+          "x": "The researchers built the model using more than 1 million ECGs from Atrium Health Wake Forest Baptist, and tested whether it held up in a different patient population using more than 72,000 other ECGs from the University of Tennessee Health Science Center. The model classified ECGs into four categories: rEF, mEF, HFpEF, or no abnormality. Researchers tested a version using 12-lead ECGs side by side with a single-lead version of the kind a wearable could collect."
+        },
+        {
+          "t": "p",
+          "x": "The two versions performed similarly. The 12-lead model was especially strong at identifying patients with reduced ejection fraction, and was somewhat weaker but still useful for the other two types. The single-lead model came close to matching the 12-lead version. In pediatric patients, its ability to detect reduced ejection fraction matched or exceeded that of existing models, and since the sample was small, the researchers described the result only as encouraging. Performance held up well across different populations."
+        },
+        {
+          "t": "p",
+          "x": "The research team is now piloting the model in family medicine clinics at Atrium Health Wake Forest Baptist to see how it performs in actual practice. \"We're checking whether it helps clinicians identify patients who need further testing, and what effect it has on care and resource use,\" they said. The study received partial support from the National Heart, Lung, and Blood Institute, part of the National Institutes of Health."
+        }
+      ]
+    },
+    "science/science-alphafold-team": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Eight years, over 200 million predictions, and a Nobel Prize shared by two founders. With that record behind it, the team that built AlphaFold, Google DeepMind's protein-structure-prediction AI, has disbanded itself."
+        },
+        {
+          "t": "p",
+          "x": "The Financial Times reported last week that DeepMind had dissolved its dedicated AlphaFold team. John Jumper, co-developer of AlphaFold2, said in June he was moving to Anthropic, while the remaining researchers were either reassigned to other projects within Google or moved to Isomorphic Labs. A DeepMind spokesperson told Scientific American that many of those moves happened more than a year ago. The public database and prediction server continue to run as before."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/2314a22e-979f-4ec0-b62a-009f5161a7bd/DeepMind-cofounders-on-spiral-stairs.jpg?m=1786050178.267&w=600",
+          "cap": "Google DeepMind CEO Demis Hassabis and AlphaFold2 co-developer John Jumper, photographed together at the London headquarters after sharing half of the 2024 Nobel Prize in Chemistry."
+        },
+        {
+          "t": "p",
+          "x": "So is the scientific mission DeepMind set out to accomplish finished? By the standard the company chose, largely yes. Researchers outside DeepMind have already reproduced and extended its results, so the field may feel less of a shock from the team's dispersal than it might first appear."
+        },
+        {
+          "t": "p",
+          "x": "DeepMind launched AlphaFold in 2018 to solve the “protein folding problem” — determining a protein's three-dimensional structure from its amino acid sequence alone. Research dating back to the 1970s had made partial progress, but AlphaFold, built on models trained on experimentally determined structures and sequence data, produced accurate models in minutes to hours. The second generation dominated the blind competition CASP in 2020, and the third generation, in 2024, expanded its scope to predicting interactions involving DNA, RNA, and candidate drugs. That same year, Jumper and CEO Demis Hassabis shared half of the Nobel Prize in Chemistry."
+        },
+        {
+          "t": "p",
+          "x": "The team's dissolution coincides with bigger changes at DeepMind. Google announced on Wednesday that Hassabis is stepping down as DeepMind CEO to become Alphabet's chief scientist. His decision to release AlphaFold for free reportedly brought prestige but little direct revenue, and is said to have caused friction inside Google."
+        },
+        {
+          "t": "p",
+          "x": "John Moult, a computational biologist at the University of Maryland who co-founded CASP, said back in 2020 that AlphaFold had already “largely solved” the structure-prediction problem. He says it's “not surprising” that DeepMind is now moving on. “They judged it a good problem because you can show success or failure cleanly.” From DeepMind's side, he says, the thinking is: “We did it, so what's the next mission?”"
+        },
+        {
+          "t": "p",
+          "x": "AlphaFold proved far more useful outside of CASP. Protein misfolding is tied to conditions like Alzheimer's disease and cystic fibrosis. Researchers have used the publicly available prediction data for everything from malaria vaccine research to breeding hardier crops."
+        },
+        {
+          "t": "p",
+          "x": "Still, “largely solved” applies to a specific benchmark, not to structural biology as a whole. Many proteins work as parts of larger molecular machines and shift between multiple shapes while functioning. Predicting those changes, or figuring out how molecules will bind, remains difficult. “There's a whole list of these problems still sitting there, and they're definitely not all solved,” Moult says."
+        },
+        {
+          "t": "p",
+          "x": "Debora Marks, a computational biologist at Harvard Medical School who pioneered the approach underlying AlphaFold, also said DeepMind's decision wasn't surprising. “I would have done the same thing. Why keep going once you've already finished?” DeepMind released AlphaFold3's inference code and model weights for academic research in 2024, and independent research teams have since released their own versions and extensions. Moult doesn't think the team's dissolution will slow that momentum. “It doesn't really affect the usefulness of what they did. Other people are doing it now.”"
+        }
+      ]
+    },
+    "science/science-capuchinai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An AI system that automates cognitive testing of wild capuchin monkeys has arrived. CapuchinAI, built by researchers at Emory University and Georgia Tech, combines facial recognition with real-time touchscreen tasks, and the proof-of-concept paper appeared in the American Journal of Primatology. It's the first method for measuring wild primate cognition systematically, and at scale."
+        },
+        {
+          "t": "p",
+          "x": "“Primate brains didn't evolve in a lab. They evolved in complex, highly competitive environments,” said Marcela Benítez, assistant professor of anthropology at Emory and the paper's lead author. “Yet studying primate cognition in the wild is rare, because measuring cognition in an unpredictable environment means you need to control the experiment.”"
+        },
+        {
+          "t": "p",
+          "x": "CapuchinAI puts a small, battery-powered computer inside field-research equipment. It recognizes which monkey has approached, displays a task tailored to that individual on a touchscreen, and automatically dispenses food when the task is solved correctly. In prototype trials at the Tabogo forest reserve in Costa Rica, the system identified individual capuchins with 97% accuracy. Wild capuchins quickly grew used to the equipment, learning that pressing the screen produced a reward."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co.jpg",
+          "cap": "Thanks to machine vision, the model can switch tests from one individual to another instantly, letting several monkeys take part in a single session. Credit: the research team"
+        },
+        {
+          "t": "p",
+          "x": "The facial-recognition model was built by Jacob Abernethy, an associate professor at Georgia Tech, and Sai Lakshit Potluri, using the open-source YOLO framework. It was trained on six wild capuchins captured in high-resolution GoPro footage shot at Tabogo, with Emory and Georgia Tech undergraduates manually drawing facial bounding boxes and labeling names across thousands of photos and clips."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co-2.jpg",
+          "cap": "Undergraduates drew bounding boxes around capuchin faces in field footage and labeled the individuals correctly. The monkeys pictured are Pelé, Pedro, Fio, and Pesto. Credit: Emory University"
+        },
+        {
+          "t": "p",
+          "x": "The next step fell to Federico Sánchez Vargas, an anthropology PhD student at Emory and the paper's first author. “The model recognized the six well, but there are about 100 capuchins in the field, and we didn't have high-resolution footage to train on for the rest.” He rewrote the model in Python so that, instead of identifying individuals, it simply flags “capuchin or not.” When a monkey approaches, a webcam automatically records, growing the training data on its own. A second script uses pygame to display stimuli on the screen, and pressing a blue square triggers a motor to dispense food. Both scripts run together on a Raspberry Pi about half the size of an iPhone, which lasts eight hours on a battery pack."
+        },
+        {
+          "t": "p",
+          "x": "The enclosure to house the equipment was built in Benítez's garage. The team framed a box 51 centimeters tall out of pine boards, sealant, rubber strips, and plastic tubing, and 3D-printed the food dispenser at Emory's TechLab."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-opens-new-era-in-co-4.jpg",
+          "cap": "Sánchez Vargas and Benítez were still tweaking the box they'd designed and built themselves until 11 p.m. the night before leaving for Costa Rica. Credit: Emory University"
+        },
+        {
+          "t": "p",
+          "x": "No one approached for the first two days in the field. On the third day, a male named Trompudo — meaning “big snout” — couldn't resist the smell of bananas, climbed onto the box, banged on the back, and hit the screen. A piece of dried banana dropped out. He touched it again, and another piece came out. “You could see it click: ‘oh, I just have to press the screen.’” Sixteen individuals touched the equipment during the pilot period. Some learned fast; others inspected the screen with their lips before kissing it; still others watched their friends first and approached only later."
+        },
+        {
+          "t": "p",
+          "x": "The researchers are retraining the facial-recognition model on footage from the pilot period and preparing experiments across four domains: learning ability, impulse control, cognitive flexibility, and memory. The paper also released the code and the design for the low-cost equipment. “Our AI method doesn't replace human researchers in the field,” said Sánchez Vargas. “You still need observational data gathered by people on the ground.”"
+        }
+      ]
+    },
+    "science/science-claude-jamming": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Two theoretical physicists, one a Nobel laureate. A math problem that had held them both for a decade was solved with the help of Anthropic's large language model Claude. It's a result in fundamental physics, and another sign that AI is changing how research gets done in some fields."
+        },
+        {
+          "t": "p",
+          "x": "The setting is complex systems, specifically a phenomenon called jamming. “Jamming is a transition where a system in a fluid state suddenly and completely freezes while still disordered,” explains Francesco Zamponi, a physicist at Sapienza University of Rome. Imagine balls with no friction and no weight floating inside a zero-gravity box. Add more balls or inflate them, and space grows tight; at some critical density, each ball gets locked in place by its neighbors and the whole system stops moving. Freeze it slowly and you get a crystal, like oranges stacked at a market; compress it quickly and it freezes disordered, like a traffic jam."
+        },
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/08/claude-team-635x472.jpg",
+          "cap": "The authors of the original 2014 paper. From left: Giorgio Parisi, Patrick Charbonneau, Francesco Zamponi, Jorge Kurchan, and Pierfrancesco Urbani. Photo: Maurizio Perciballi"
+        },
+        {
+          "t": "p",
+          "x": "Jamming is also an instance of a much more general mathematical problem called constraint satisfaction. The position of each ball is a variable; the rule that no two balls can overlap is a constraint. That's why neuroscience and artificial intelligence use the same concept. In a neural network, synaptic weights are the variables, and the classifications it must learn are the constraints. “A neural network in a ‘liquid’ state adjusts its weights to meet every condition,” Zamponi says, “but once there's too much data, it hits a wall, turns ‘solid,’ and starts producing errors.”"
+        },
+        {
+          "t": "p",
+          "x": "In 2014, Giorgio Parisi and Zamponi, together with colleagues in the US and France, found a strange relationship in numerical calculations. Add together two parameters, a and b, tied to the distribution of contact forces and the scaling of the gaps between balls, and the sum was invariably 1. Both values are central to defining the packed structure, yet no matter how hard they tried, a formal proof of a + b = 1 never emerged. Parisi received half of the 2021 Nobel Prize in Physics."
+        },
+        {
+          "t": "p",
+          "x": "Asking generative AI was Parisi's idea. It was a problem well-suited to handing off to a machine: the conjecture was clear, and there was even a numerical answer, but no analytical proof. The two chose Claude, judging its coding and mathematical reasoning to be stronger. Even so, they didn't ask for a proof right away. “We had it reproduce the numerical calculations our group made ten years ago first. Once it got the same results, we naturally asked the next question: ‘If a + b = 1, can you prove why?’”"
+        },
+        {
+          "t": "p",
+          "x": "The model's first attempt was broadly on the right track, but mixed in small mathematical errors that took multiple rounds of refining and checking. Still, Zamponi says the “core intuition” came from the AI. “We'd spent years searching for a complicated answer, something like a deeply hidden structural symmetry, and Claude showed us the answer was much simpler and right in front of us.” The new proof links Zamponi's team's infinite-dimensional theory with a framework built around the same time by Matthieu Wyart's team at EPFL, confirming that the two starting points lead to the same physical law."
+        },
+        {
+          "t": "p",
+          "x": "Zamponi believes generative AI could become as important as the Industrial Revolution or the birth of the internet, maybe more so — a kind of “telescope for the mind” that accelerates the pace of research. On the other hand, he worries about a flood of shoddy pseudoscientific papers overwhelming peer review. The two researchers released the full transcript of their conversation with Claude alongside the paper. It was published in the Journal of Statistical Mechanics: Theory and Experiment."
+        }
+      ]
+    },
+    "science/science-kaist-memtransistor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI chips are becoming increasingly programmable. Researchers at KAIST have built a device whose response characteristics can be programmed to handle data arriving at widely varying speeds. It cut prediction error for constantly changing data by up to 40 times, and is seen as a technology that could boost real-time AI performance in self-driving cars, robots, and wearable devices."
+        },
+        {
+          "t": "p",
+          "x": "A team led by Chair Professor Choi Shin-hyun of the School of Electrical Engineering and the Graduate School of Semiconductor Systems Engineering developed a programmable dynamic memtransistor (PDM) that sets its time-response characteristics to multiple states and retains them, along with an integrated array of the devices. The paper was published in Nature Communications."
+        },
+        {
+          "t": "p",
+          "x": "A memtransistor is a next-generation device that combines a memory's information-storage function with a transistor's computing function in one. The PDM processes data while retaining prior information, adjusting and maintaining its response characteristics to match the incoming data."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-chamele.jpg",
+          "cap": "The concept and operating principle of the programmable dynamic memtransistor (PDM), which processes time-series signals across multiple time scales. Conventional devices have a single fixed time response, limiting the range of time scales they can handle, but the PDM uses a dual-function gate structure to set response characteristics across multiple stages, from fast to slow, and retain them non-volatilely. Source: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Today's computers and smartphones need complex software processing to analyze data that changes over time, which comes with a heavy computational burden and high power consumption. Research has continued into letting hardware process data directly, but once a conventional device is fabricated, its response speed can't be changed."
+        },
+        {
+          "t": "p",
+          "x": "The team got around this barrier by building a dual-layer structure inside the transistor: a charge-storage layer that accumulates and processes data, layered with an electron-trapping layer that non-volatilely tunes the response speed. Incoming data is processed in the charge-storage layer, while the electron-trapping layer adjusts, across multiple stages, how fast the device recovers back to its original state. In experiments, current recovery time was tunable across a roughly 5-fold range, and characteristic frequency across more than a 10-fold range."
+        },
+        {
+          "t": "p",
+          "x": "In particular, in experiments predicting data where fast and slow changes were intertwined, the PDM cut error by up to 40 times compared with conventional devices that have a fixed response speed."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-chamele-1.jpg",
+          "cap": "The structure of a PDM array combining devices with different time-response characteristics, and its multi-timescale signal-processing performance. Each device is assigned a different time constant, from fast to slow response, so multiple time-series signals can be processed simultaneously. Source: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Accurate processing stays possible even when handwriting style or an object's movement speed changes, thanks to response characteristics tuned to the input's time scale. Once set, the response characteristics persist without a continuous external power supply, and the input data requires no separate preprocessing. The device is also compatible as-is with widely used commercial semiconductor process materials, which favors mass production and commercialization."
+        },
+        {
+          "t": "p",
+          "x": "The team built a PDM array to predict complex data, matching the accuracy of existing software-based systems while using far less energy. Professor Choi Shin-hyun said, “This research demonstrates an AI chip whose response characteristics can be programmed to efficiently process data at different speeds,” adding that it “will become a key technology for boosting the performance of AI devices like self-driving cars, robots, and wearables while lowering their power consumption.”"
+        }
+      ]
+    },
+    "science/science-ramanomics": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When looking inside living cells, biology has long relied on fluorescent dyes. They work well, but they come at a cost: the cells being observed change, only a handful of structures can be seen at once, and measurement accuracy itself drops."
+        },
+        {
+          "t": "p",
+          "x": "A team led by researchers at the University at Buffalo has come up with a way around these limits by pairing artificial intelligence with Raman spectroscopy. Ramanomics, an optical technique pioneered at Buffalo, measures a cell's biochemical makeup without disturbing it. Instead of fluorescent labels that latch onto specific components and glow under special lighting, it identifies structures by the unique biochemical fingerprint they carry."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-and-ramanomics-coul-1.jpg",
+          "cap": "On the left, fluorescent labels are used to trace cell structures and collect biochemical data to create training examples for AI; on the right, AI distinguishes cell structures using only biochemical signals. Source: University at Buffalo, ACS Omega (2026)"
+        },
+        {
+          "t": "p",
+          "x": "“This interdisciplinary collaboration applying AI to Ramanomics is the first to show that organelles inside living cells can be identified non-invasively, without dye labeling,” said Dr. Paras N. Prasad, director of the Institute for Lasers, Photonics and Biophotonics at the University at Buffalo and SUNY Distinguished Professor. “It opens a path toward finding biological markers of disease, discovering new drugs, and more personalized medicine.”"
+        },
+        {
+          "t": "p",
+          "x": "“The moment you put a dye into a cell, you've introduced a foreign substance. That foreign substance disrupts the cell's natural behavior, which affects the very value you're trying to measure,” explained Dr. Varun Chandola, associate professor in the Department of Computer Science and Engineering at the University at Buffalo. “Being able to look inside a cell without physically altering it is a major advance. Because it captures biology as it actually is, you get a more accurate picture of how the cell really works.”"
+        },
+        {
+          "t": "p",
+          "x": "The two are the lead researchers on a paper published in ACS Omega in June. The team captured biochemical “fingerprints” of four types of cell organelles using Raman spectroscopy, then used those fingerprints to train several machine learning models. Once trained, the AI could take in a new Raman measurement alone and pinpoint which part of the cell it came from. Among the models tested, a neural network performed best, correctly identifying organelles with about 90% accuracy."
+        },
+        {
+          "t": "p",
+          "x": "With the step of formulating and introducing a dye gone, the workflow gets simpler, experimental artifacts drop, and measurement sensitivity rises. Watching cells for longer periods without disturbing them also opens new views into how diseases arise and spread, and how they respond to treatment. It also becomes easier to track the molecular changes tied to cancer or metabolic disease."
+        },
+        {
+          "t": "p",
+          "x": "The team has now started work on attaching AI models to next-generation Raman imaging equipment that uses quantum light sources. “Right now, getting one reliable signal can take up to three minutes,” Chandola said, adding that “cutting that down to around a second would let us analyze far more cells at scale.” The team is also expanding the work toward using model outputs to distinguish cancer cells from normal ones."
+        }
+      ]
     }
   }
 }

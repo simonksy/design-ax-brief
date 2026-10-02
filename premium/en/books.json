@@ -879,6 +879,298 @@
           "x": "The newsletter also included news on claims procedures. Authors now have 60 days, not 30, from the date they receive a claim notice to file paperwork. Where a publisher wrongly claimed 100%, the settlement administrator has been sending correction emails since the week of September 14. All Big Five publishers have opened dedicated inboxes for author inquiries."
         }
       ]
+    },
+    "books/audible-worlds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "오디오북 시장에서 Spotify와 새로 경쟁하게 된 Audible이 AI를 비롯한 기술로 눈을 돌렸다. Amazon이 소유한 이 회사가 선보인 기능은 세 가지다. 책 속 등장인물을 살펴보고, 인터랙티브 이야기에 참여하고, 책에 나오는 명소나 장소의 이미지와 부가 정보를 보는 기능이다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
+          "cap": "이미지 출처: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "이미지 기능은 우선 Sheehan Quirke의 “The Cultural Tutor” 한 작품에만 적용된다. 캐릭터 가이드는 Audible이 10월 1일 공개하는 Audible Original “Dracula”로 첫선을 보인다. 지금 누가 말하는지 실시간으로 보여 주고 스포일러 없는 캐릭터 카드도 띄운다. Audible Original “1984”와 공개 예정작 “Exoplanet”에도 들어간다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
+          "cap": "이미지 출처: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI(generative-AI) 기반 인터랙티브 이야기에서는 Dracula의 하인 Renfield와 대화할 수 있다. 이 캐릭터는 청취자에게 역할과 목표, 걸린 것을 정해 준 뒤 그 말에 실시간으로 반응한다. Audible은 이야기가 원작에서 벗어나지 않도록 창작자들이 참여한다고 밝혔다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
+          "cap": "이미지 출처: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "2025년 미국(U.S.) 오디오북 매출은 24억 3천만 달러에 이르렀다. 기능은 아직 베타다. Audible은 시간을 두고 적용 작품을 늘릴 계획이다."
+        }
+      ]
+    },
+    "books/books-95-percent-ai-chapter": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HT94dPtKAhI"
+        },
+        {
+          "t": "p",
+          "x": "Future Fiction Academy posted this video on August 5, 2026. The title is 'The question a publisher asked after reading a 95% AI chapter.'"
+        },
+        {
+          "t": "p",
+          "x": "This happened at a book fair. Buyers from a major imprint read a chapter that was 95% written by AI, and they came back with one question. How did it turn out this good. Not whether it was written by AI."
+        },
+        {
+          "t": "p",
+          "x": "What the video points to here is the gap between the two sides' positions. A publisher has an engineer assigned to this problem, but a writer has only themselves. So the skill to build, it argues, isn't fearing the system but working with it."
+        }
+      ]
+    },
+    "books/books-cheap-models-first": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "3NRTlv_vQOY"
+        },
+        {
+          "t": "p",
+          "x": "This is episode 45 of Future Fiction Academy's podcast 'Automated Author.' It went up on August 3, 2026, hosted by Elizabeth Ann West and Stacey Anderson. There's one question: are writers wasting money by slapping a premium AI model onto every stage of writing?"
+        },
+        {
+          "t": "p",
+          "x": "After finishing a 24-hour AI challenge, the two found their original hypothesis was completely backwards. Cheaper models held up surprisingly well for brainstorming, system design, organizing workflows, and building out a project's skeleton. They also didn't show the over-engineering that pricier models often fall into. Once the foundation is solid, you can bring in the premium model to polish, add depth, and handle the finishing."
+        },
+        {
+          "t": "p",
+          "x": "Plenty of practical detail comes in along the way. Why specifying length as a number inflates padding, how to fix stylometry when your own voice goes missing, whether you can build a book-making machine with Claude Code, and how to borrow from Final Fantasy and probability to explain how AI 'spawns' words."
+        },
+        {
+          "t": "p",
+          "x": "They also noted limits. Cheaper models struggled on stories with complex structure, like romance duets. That's why editing skill and critical reading still fall to the writer. There's also a long stretch on creators needing a voice in the AI conversation, plus the comparison of AI to a new kind of calculator."
+        },
+        {
+          "t": "p",
+          "x": "The idea is to split up use cases. Use cheap models for exploring, iterating, and building the machinery, and save the strongest, most expensive model only for the work that actually needs it."
+        },
+        {
+          "t": "p",
+          "x": "The back half covers the two hosts' August publishing schedules, the manuscript and proofs they're bringing to Iceland, finishing a long-delayed series, and 15 years in publishing."
+        }
+      ]
+    },
+    "books/books-cope-no-ai-clause": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an interview Rick Anderson posted on August 10, 2026. A couple of weeks earlier, the Committee on Publication Ethics (COPE) released a new version of its Code of Conduct and added another framework called Core Principles, replacing the Core Practices it retired in 2024. Anderson asked COPE's executive director, Natalie Ridgway, about the two frameworks."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2224569687-1024x778.jpg",
+          "cap": "An illustration of a document going through fact-checking, with a question mark on one side and a check mark on the other"
+        },
+        {
+          "t": "p",
+          "x": "The Core Principles are the shared ethical ground the scholarly community stands on. Ridgway said the principles were set up to serve as a starting point for cases where there isn't detailed guidance. Within COPE, they're also used to spot gaps in existing material and to set the order for future guidance."
+        },
+        {
+          "t": "p",
+          "x": "The Code of Conduct came back because members asked for it. There was a lot of talk that the Core Practices weren't clear or specific enough. The new code pins down standards members must follow, so it can be used directly in everyday judgment calls. Both frameworks support the 'integrity' pillar of COPE's strategy."
+        },
+        {
+          "t": "p",
+          "x": "Some clauses in the code are clear-cut, like \"comply with the COPE membership terms and the policies they reference,\" while others leave room for interpretation, like \"act in a way that protects the reputation of COPE and its members.\" Ridgway said she won't read the broader clauses arbitrarily. The subcommittee weighs context, a member's conduct, and the distance from the expectations the code sets, together. On diversity, equity, inclusion and accessibility, the weight falls first on participation, support and improvement, but the committee acts when something has been clearly abandoned."
+        },
+        {
+          "t": "p",
+          "x": "AI doesn't get its own clause in the code. Like other ethical matters, it will be handled through the Core Principles and detailed guidance issued as needed. \"AI tools and the tools that detect AI use are changing so fast that naming AI specifically risked the clause being outdated by the time it was published.\" How far to open up AI use by authors, reviewers, journals and publishers themselves also varies by outlet. Instead, principles like transparency, integrity and accountability become the basis for judgment calls on AI."
+        },
+        {
+          "t": "p",
+          "x": "That doesn't mean COPE has stepped back. It's involved in several joint AI-related projects, and it created a new deputy chair position for AI and external engagement, filled by Tim Kersjes. The role is meant to drive discussion on what support members need."
+        },
+        {
+          "t": "p",
+          "x": "Anderson also asked how to balance transparency against privacy. COPE's guidance reads: \"If an editor has credible evidence of misconduct, they should notify the author's institution as soon as possible. However, whether to correct or retract a paper is up to the editor, and does not necessarily depend on the outcome of an institutional investigation. If the editor is confident the paper cannot be trusted, they should retract it without waiting for the institutional investigation's outcome.\" Judging a paper's credibility falls to the editor, and sometimes the publisher; judging an author's intent or responsibility falls to the institution."
+        },
+        {
+          "t": "p",
+          "x": "In a retraction notice, a third party's name is included when it's relevant and the person consents, if the issue was raised by a third party; if it came out of an institutional investigation, that fact is stated. However, in the U.S. there is law governing what institutions can share, so the information that reaches editors falls within that scope."
+        },
+        {
+          "t": "p",
+          "x": "A revised version of the membership terms and the scope of authority of the Promotion and Integrity subcommittee is also coming soon. The standards themselves won't be flipped around; what changes is how expectations are explained and enforced. Ridgway was clear that COPE is not a regulator. The aim is to tie membership and code compliance together more clearly, and to tighten the process for following up when problems arise."
+        }
+      ]
+    },
+    "books/books-opus5-for-novelists": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "es-EGrWfJeg"
+        },
+        {
+          "t": "p",
+          "x": "This is a livestream NovelCrafter held on August 1, 2026. The title itself poses the question: is Opus 5 an upgrade for writers?"
+        },
+        {
+          "t": "p",
+          "x": "“It's expensive. But is it worth it?” The broadcast places Opus 5 alongside its predecessors and looks at where it stands next to Sonnet and Fable, the same line of models."
+        },
+        {
+          "t": "p",
+          "x": "NovelCrafter is an AI tool for writing novels. It can be started with a free trial, and has separate channels for Discord, documentation, and feature requests."
+        }
+      ]
+    },
+    "books/books-pulitzer-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is the weekly column written by Publishing Perspectives editor-in-chief Andrew Richard Albanese on August 10, 2026. He is filling in again this week while Carlo Carrenho is on summer vacation with his family, and Carrenho returns as of August 24."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+          "cap": "Header image for the “Around the Book World” column"
+        },
+        {
+          "t": "p",
+          "x": "This week's top stories continue as follows. In Russia, a third publisher received a four-year suspended sentence on charges of “LGBTQ+ extremism.” An August 5 Russian attack destroyed the remaining 100,000 copies in stock at Ukrainian publisher BookChef, after around 800,000 copies were lost in the July attack. Prague will hold a Kurdish-Arab book fair on August 15-16, and Brazil released figures showing rights deals rose sharply at major book fairs in the first half of the year."
+        },
+        {
+          "t": "p",
+          "x": "In the United States, HarperCollins grew revenue 6% to $2.29 billion for the fiscal year ended June 30. Profit fell 3% to $287 million. This came alongside a $13 million write-down tied to the closure of Baker & Taylor and a $16 million write-down of overseas inventory. Digital revenue rose 4%, driven by audiobooks, which were up 16%. Parent company News Corporation CEO Robert Thomson said, “AI can really transform audiobooks, because there will be far more options for voices, sound effects, and other techniques.” HarperCollins also has a share in Anthropic's $1.5 billion settlement, and Thomson added, “This won't be the last AI-related lawsuit. We expect cash-rich legal sequels.”"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/logo-trans.png",
+          "cap": "Section covering HarperCollins's fiscal year results"
+        },
+        {
+          "t": "p",
+          "x": "Amid ongoing lawsuits and controversy over literary works said to have been made with AI, Nieman Lab reported that across the 15 journalism categories of the 2026 Pulitzer Prizes, “five winners and three finalists disclosed AI use in their entries.” That is the highest number since the disclosure requirement began in 2024. Winners were announced on May 4."
+        },
+        {
+          "t": "p",
+          "x": "Marjorie Miller, who administers the Pulitzer Prizes, told Nieman Lab, “It sounds obvious, but AI is here to stay now.” “The industry is far less afraid of AI tools than before. It's become clearer where it's appropriate, such as for data collection and analysis, and where it isn't, such as writing and revising articles that could be in contention for a Pulitzer.” Miller said that as AI keeps changing, journalists must “make sure and reassure” that the final product is human-made even when AI is used as an assistive tool. She also said that next year's Pulitzer Prizes will add an “AI disclosure field” to the book category entry forms."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-09-at-12.39.58-PM-300x237.png",
+          "cap": "Section covering the Pulitzer Prize's AI disclosure"
+        },
+        {
+          "t": "p",
+          "x": "The column closes with news that library users in Turkey grew from 28 million to 39.2 million over eight years, and a note that UK and US librarians will meet online on September 14 to discuss book bans."
+        }
+      ]
+    },
+    "books/books-bisg-ai-agenda": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an article written by Jim Milliot on August 7, 2026. BISG (the Book Industry Study Group), which handles publishing standards, changed leadership as it marked its 50th anniversary. Brian O'Leary, who led the group for a decade, stepped down in June, and Allison Bellan took over the role."
+        },
+        {
+          "t": "p",
+          "x": "Bellan spent 22 years at Duke University Press. She worked as director of strategic innovation and services, and said she will now focus on tying production practices into standards and building an early-warning system to flag supply-chain problems in advance."
+        },
+        {
+          "t": "p",
+          "x": "Among those priorities, how AI will change publishing looms large. Bellan said that “AI was essentially the first topic that came up in nearly every conversation” she had with people in the industry. BISG is running a second AI survey with BookNet Canada, with results due this fall."
+        },
+        {
+          "t": "p",
+          "x": "She also wants to expand BISG's role in alerting the industry early to regulatory changes. Bellan cited BISG's work informing publishers about the EU Deforestation Regulation and the European Accessibility Act as achievements."
+        },
+        {
+          "t": "p",
+          "x": "In September, she will also attend the Book Publishing Next Forum. Laura Sesieo of Supply Chain Insights will deliver the keynote, and a gala reception at the New-York Historical Society will follow the event. It is both a celebration and a fundraiser."
+        }
+      ]
+    },
+    "books/books-novel-to-ai-film": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IEi44Dmn9rM"
+        },
+        {
+          "t": "p",
+          "x": "This is a record of adapting one chapter of the science-fiction novel 『Jumpbox』 into AI-generated video. Some shots were astonishing, and some completely fell apart. It lays out what worked, what broke, and what order to follow if starting over tomorrow."
+        },
+        {
+          "t": "p",
+          "x": "The first mistake was treating the prose as if it were already a production format. The workflow that survived went from prose to beats, from beats to shots, then through a visual bible and prompts before pulling clips, with editing last. Each stage removes one layer of ambiguity. A model invents details when it doesn't know them, so this clears away the room to invent beforehand."
+        },
+        {
+          "t": "p",
+          "x": "The sequence that succeeded most cleanly had a simple goal: escape the soldiers, cross the field, and reach one fixed point. The silhouette was clear, the terrain was legible, and there was only one destination, so the model followed along without trouble."
+        },
+        {
+          "t": "p",
+          "x": "An overly ambitious chase sequence was different. Soldiers, a forest, explosions, a cliff, and a portal all moved at once. There was energy, but motion was not the same as clarity. The fix was to block out the terrain first, keep the destination visible on screen, and split overloaded actions into separate beats. Running in a straight line and running into someone should not share one beat."
+        },
+        {
+          "t": "p",
+          "x": "Failures tend to have fixed causes. If a character wavers, the reference, character sheet, or location is weak. If motion looks wrong, the blocking is thin, and if a clip is overloaded, the beats need to be cut further. The biggest problem is having no destination. Without a physical anchor for the shot to hold onto, the frame simply falls apart."
+        },
+        {
+          "t": "p",
+          "x": "So a failed generation is not wasted credits but a production note. Reading why it went wrong changes the next output."
+        },
+        {
+          "t": "p",
+          "x": "The recommended order is this: lock the storyboard early, settle on a very small set of strong references, and test for continuity problems before pulling the easy shots. This stage calls for previsualization or a lightweight model. The point is to decide what each sequence is before spending a single credit."
+        },
+        {
+          "t": "p",
+          "x": "The story comes in first and editing goes out last. AI didn't create the story; a person did, and that story is what made the video possible. The point is to use the machine to express a story that was already yours."
+        }
+      ]
+    },
+    "books/books-asian-publishers-week-seoul": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Erin L. Cox reported the news on August 7, 2026. The Korean Publishers Society (KOPUS) has pushed back the application deadline for Asian Publishers Week 2026. The event runs November 3 to 6 in Seoul."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Asian-Publishers-Week.png",
+          "cap": "A promotional image for Asian Publishers Week 2026"
+        },
+        {
+          "t": "p",
+          "x": "This year's theme is “Publishing in the AI Era: Between Crisis and Opportunity,” fitting an event built to expand cross-border cooperation and take on the industry's pressing challenges."
+        },
+        {
+          "t": "p",
+          "x": "Participants will share how AI is affecting their own markets and sit together for an open discussion of how global publishing will change going forward."
+        },
+        {
+          "t": "p",
+          "x": "Asian publishers take part as a delegation, with experts also selected separately from Europe and the US. Applications close August 17. Candidates need experience in the Asian publishing market or in international publishing cooperation involving Asia, concrete knowledge of AI and publishing trends in their own region, and practical AI skills tied to publishing."
+        },
+        {
+          "t": "p",
+          "x": "The program is built around roundtable discussions, an open forum with presentations for Korean publishers, one-on-one business meetings, and visits to major publishers and bookstores in Seoul and Paju Book City."
+        },
+        {
+          "t": "p",
+          "x": "The Korean Publishers Society has proposed policy for a sustainable future for Korean publishing, and has led field-focused initiatives such as Asian Publishers Week and the Seoul Book Institute (SBI)."
+        }
+      ]
     }
   }
 }

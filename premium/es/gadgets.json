@@ -1112,6 +1112,596 @@
           "x": "El Yanxin-X2 no es el único que destaca. En el CES 2026 aparecieron el CLOiD de LG, que dobla ropa, y el Onero H1 de SwitchBot, que carga la ropa en la lavadora. En los Juegos Mundiales de Robots Humanoides en Pekín, el Tiangong Ultra corrió 100 metros en 9,39 segundos. El NEO de 1X, de 20.000 dólares, se propone aprender tareas domésticas. La industria está impulsando a la vez la velocidad, la destreza, la utilidad y, ahora, la credibilidad emocional."
         }
       ]
+    },
+    "gadgets/gadgets-apple-reference-image": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Código que queda en iOS 27 beta 5 apunta a una nueva función. Es un mecanismo que confirma si una foto se tomó con un iPhone, es decir, si esa cámara es realmente el origen."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&w=1600",
+          "cap": "App Cámara del iPhone"
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes compuestas que se hacen pasar por reales no son un problema nuevo. Pero la avalancha de imágenes de IA generativa lo ha vuelto urgente. Un trabajo que a un editor experimentado le tomaba horas o días ahora puede salir en segundos a partir de una sola idea a medio formar."
+        },
+        {
+          "t": "p",
+          "x": "Por eso varias empresas presentaron primero formas de identificar contenido hecho con IA. Google creó SynthID, que incrusta marcas de agua invisibles en imágenes y otros medios, y la tecnología se extendió más allá de Google, con OpenAI usándola en imágenes generadas. Meta también añadió etiquetas de generación por IA en Facebook, Instagram y Threads. Pero estos sistemas mostraron un límite: no lograban detectar bien los medios manipulados, y hasta se les escapaba contenido hecho por sus propios modelos de IA."
+        },
+        {
+          "t": "p",
+          "x": "Apple parece estar abordando también este problema, y va más allá de simplemente etiquetar los metadatos de las imágenes hechas con Image Playground. El nuevo código de iOS 27 beta 5 menciona algo llamado Apple Reference Image. Es una función que prueba el origen de una foto usando datos únicos vinculados al hardware de la cámara del iPhone que la tomó."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque que Apple ha mantenido para manejar datos sensibles de usuarios en la nube se aplica también aquí. Está diseñado para que Apple no pueda ver la foto original en sí. La imagen se envía a Private Cloud Compute para su verificación, y a Apple solo le llega parte de la información del sensor y los metadatos de la foto. Si se determina que un sensor fue manipulado, Apple puede revocar certificaciones previas emitidas con ese sensor."
+        },
+        {
+          "t": "p",
+          "x": "La función está desactivada por defecto. Se activa después en Configuración > Cámara > Reference Image, y se usa pulsando Reference Mode. Lo que importa es el momento de la captura: la foto debe tomarse con el nuevo modo “Reference” de la cámara. Una foto tomada de forma normal no deja ninguna base para certificarla después."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/reference-mode.jpg?quality=82&strip=all",
+          "cap": "La pantalla de aviso de privacidad que aparece al activar Apple Reference Image"
+        },
+        {
+          "t": "p",
+          "x": "El modo Reference no certifica una foto automáticamente. El usuario elige certificarla más adelante, y en ese momento la imagen original y los datos de procedencia se envían a Private Cloud Compute. Una vez completada la verificación, Apple añade un ID único a la foto."
+        },
+        {
+          "t": "p",
+          "x": "Una foto certificada también se puede enviar a otra persona. El dispositivo Apple del receptor comprueba, en el propio dispositivo, si la certificación se mantiene. Apple no sabe qué foto está viendo esa persona."
+        },
+        {
+          "t": "p",
+          "x": "La información que viaja junto con ella depende del método de transferencia (AirDrop, Mensajes, etc.) y del estado de la foto: si es el original, una versión editada o una certificada. Apple escribe que, al elegir enviar «All Photos Data», puede transferirse también un identificador de hardware único e incluso metraje sin recortar."
+        },
+        {
+          "t": "p",
+          "x": "Las transferencias por USB incluyen una opción «Transfer with Provenance». Si está activada, los datos de Reference Image acompañan a las fotos certificadas que se mueven a un Mac o PC. Incluso las fotos no certificadas pueden conservar información de procedencia, como un identificador de hardware único o metraje sin recortar."
+        }
+      ]
+    },
+    "gadgets/gadgets-home-assistant-intent-triggers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando construí automatizaciones en Home Assistant por primera vez, algunas funcionaban, pero no tenía idea de por qué seguían funcionando después de las actualizaciones. Me prometí a mí mismo no tocarlas a menos que se rompieran. Eran parches hechos con publicaciones de foros y conjeturas sobre el estado de los sensores. Una vez que las logré poner en marcha a base de prueba y error, las dejé así, con miedo de que la magia que las hacía funcionar se detuviera."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/home-assistant-tablet-dashboard-3.jpg",
+          "cap": "La pantalla para añadir un dispositivo al panel de Home Assistant"
+        },
+        {
+          "t": "p",
+          "x": "Home Assistant 2026.7 disolvió ese miedo. Los disparadores y condiciones por intención, que llevaban meses en Labs, ahora aparecen por defecto al crear automatizaciones. En lugar de adaptarte a la lógica de Home Assistant, empiezas por lo que realmente quieres. No es un cambio pequeño. Lo comprendí al reescribir mi automatización más desordenada."
+        },
+        {
+          "t": "p",
+          "x": "Para construir una automatización a la manera antigua había que responder preguntas que poco tenían que ver con lo que realmente se quería hacer. ¿Era un disparador de estado, un disparador de estado numérico o un disparador de dispositivo? Lo más difícil era averiguar si ese sensor emitía 'on' o 'detected' al activarse. ¿Una cerradura diría 'locked', o diría algo distinto según la integración que la manejara?"
+        },
+        {
+          "t": "p",
+          "x": "Por eso, incluso algo tan simple como encender el aire acondicionado cuando una habitación se calienta resultaba más difícil de lo necesario. Había que saber exactamente qué valor reportaba el sensor, y adivinar si por un instante mostraría 'unavailable'. Una vez que esa automatización apenas empezaba a funcionar, nunca más se volvía a abrir, por miedo a tocar una lógica que se sostenía por un hilo."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/turn-on-ac-automation-template.jpg",
+          "cap": "La plantilla de automatización para encender el aire acondicionado"
+        },
+        {
+          "t": "p",
+          "x": "Con los disparadores por intención, bastaba elegir 'Batería baja' y especificar el sensor. El umbral lo fija Home Assistant automáticamente con la lógica adecuada para ese sensor. Pero solo funciona si el sensor se identifica correctamente como sensor de batería; si es un nodo hecho a mano, hay que ajustar primero la configuración. Con la temperatura pasaba igual: cambiar un disparador de estado numérico por uno de 'umbral de temperatura superado' daba el mismo resultado."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/battery-low-automation-trigger.jpg",
+          "cap": "El disparador de batería baja en la automatización"
+        },
+        {
+          "t": "p",
+          "x": "La automatización de la luz del salón estaba atada por nombre de entidad a un solo sensor de movimiento PIR. Funcionaba bien hasta que añadí otro sensor para cubrir un punto ciego. Tuve que volver a la automatización y añadir el sensor a mano en la lista de disparadores. Pensar en repetir esto cada vez que cambiara o añadiera un sensor resultaba horrible."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo disparador apunta a toda un área, no a un solo dispositivo. La automatización del salón ahora detecta movimiento en la habitación, sin importar cuántos sensores haya. Como la automatización registra una intención en lugar de un dispositivo concreto, resulta fácil añadir o quitar sensores, o sustituir el que esté dando problemas."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/creating-automation-for-motion-detection.jpg",
+          "cap": "La pantalla para crear una automatización de detección de movimiento"
+        },
+        {
+          "t": "p",
+          "x": "Los fines de semana armé una automatización de noche de cine que detecta una llegada tardía a casa y crea el ambiente: luces cálidas y tenues, y el televisor se encienda. Usé como base que la ubicación del teléfono pasara de not_home a home, pero si la señal se cortaba unos segundos al entrar, el rastreador marcaba 'unavailable' antes de finalmente asentarse en home."
+        },
+        {
+          "t": "p",
+          "x": "Cuando eso pasaba, la automatización se perdía la transición o saltaba antes al valor anterior. Le añadí condiciones para que funcionara y no la volví a tocar. Los disparadores por intención no tienen este problema: los bloques de construcción de la automatización gestionan 'unknown' y 'unavailable' por sí mismos. Después de cambiar al nuevo disparador de llegada y quitar las condiciones antiguas, no ha fallado ni una sola vez."
+        },
+        {
+          "t": "p",
+          "x": "Las automatizaciones que no has tocado siguen funcionando igual que antes. Para quienes escriben en YAML en lugar de usar la interfaz, los disparadores por intención también se trasladan de forma limpia. No es una versión que solo retocó la interfaz, y los tipos de disparador existentes no han desaparecido."
+        },
+        {
+          "t": "p",
+          "x": "Lo que cambió es el punto de partida. La próxima automatización que escribas empezará por lo que quieres hacer, no por qué tipo de disparador encaja. Cuando una automatización vieja se rompe, ahora es más probable que entres a arreglarla en lugar de dejarla así. Si hay automatizaciones que has estado evitando, esta es la excusa para reconstruirlas."
+        }
+      ]
+    },
+    "gadgets/gadgets-hoverair-versa": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "HoverAir, que ha fabricado drones selfie de vuelo autónomo, presentó Versa. Combina la tecnología de vuelo que ha acumulado con la comodidad de una cámara de bolsillo. Su núcleo es una cámara de bolsillo con estabilización de alta gama como el Osmo de DJI, que se convierte en un dron selfie cinematográfico al acoplarle un cuerpo de dron con imanes. Al apuntar a dos categorías de producto a la vez, persigue un solo objetivo: hacer lo más fácil posible filmarte a ti mismo o a otra persona."
+        },
+        {
+          "t": "video",
+          "yt": "eWNhu7JzLRM"
+        },
+        {
+          "t": "p",
+          "x": "Versa es la primera cámara de bolsillo de HoverAir. Lleva un gimbal de 3 ejes que controla inclinación, giro y cabeceo a la vez. Otras cámaras de bolsillo del mercado no superan los 2 ejes. Tiene una pantalla giratoria y controles de cámara, y una luz RGB que también hace de indicador de estado. Por fuera, parece una cámara de bolsillo normal, bien hecha."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/88ETQKHvPyijYgKKbUZpYV.png",
+          "cap": "HoverAir Versa | Fuente: HoverAir en YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Sacar las alas cambia las cosas. Un pequeño cuerpo de dron plegable se acopla con imanes a unos pines pogo en la parte de atrás del dispositivo. Tras conectarlo, se despliegan las alas y, con un ligero toque en la parte superior, despega directamente de la mano. No hay control remoto aparte. La IA sigue al usuario por sí sola. Hay más de 10 modos inteligentes que usan encuadre por IA para grabar desde cualquier dirección, además de una función de 360 grados."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZiptYeVqBt65ATran9Q4NW.png",
+          "cap": "El cuerpo de dron que se acopla con imanes | Fuente: HoverAir en YouTube"
+        },
+        {
+          "t": "p",
+          "x": "En este modo, llamado 3D World, el dron da vueltas alrededor, toma fotos desde varios ángulos y las une en una sola escena de 360 grados para verla y compartirla después. En el fondo, también apunta al público de Insta360. Aunque esa plataforma graba video de 360 grados en tiempo real, con mucho más margen de posproducción, así que no es exactamente lo mismo. Aun así, es un truco entretenido, y queda por ver qué tan bien lo logra HoverAir."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EVfHCddo9n36npE8Jxv6fV.png",
+          "cap": "Modo 3D World | Fuente: HoverAir en YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Todavía no hay precio ni fecha de lanzamiento. Solo existe un video teaser que promete que llegará pronto, así que las especificaciones tampoco están definidas. La empresa destaca el rango dinámico más amplio de esta categoría. En el material promocional, el lente se ve grande y el cuerpo del dron muy pequeño. Tomando como referencia los drones selfie anteriores, parece plausible que pueda grabar video en 8K en 10-bit Log o HLG, y volar hasta 45 km/h."
+        },
+        {
+          "t": "p",
+          "x": "El video de prueba en el sitio web de HoverAir, y el que se incluye arriba, son bastante impresionantes. La idea despierta tanto entusiasmo como escepticismo. Aun así, es difícil negar que Versa se siente como magia. Hoy no existe nada así en el mercado. HoverAir ya ha hecho bien drones selfie como la serie X1, y una cámara de bolsillo no es una tecnología especialmente difícil, así que lo que queda es simplemente unir las dos cosas en un solo cuerpo."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-muse-glimmer": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hoy, los modelos de IA que vale la pena usar suelen depender de la nube. El prompt y los datos que lo acompañan salen del dispositivo hacia un servidor, y desde ahí la respuesta procesada por el modelo vuelve. También hay modelos que optan por ejecutarse enteramente en el dispositivo. Eso reduce las preocupaciones en torno a la IA en la nube, pero trae consigo sus propios límites. El nuevo modelo de Meta elige esta segunda vía, y enfrenta de frente una de las limitaciones típicas de la IA en el dispositivo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-4.jpg",
+          "cap": "Meta | Fuente: Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "El mayor límite de la IA en la nube es que no puede hacer nada si se corta internet. Un modelo que corre por completo en el dispositivo, como Muse Glimmer de Meta, está libre de eso. Lo mismo pasa con los problemas de privacidad que surgen cuando las consultas salen hacia la nube: cada solicitud enviada supone entregarle los datos a esa empresa, algo que no ocurre con lo que corre en el dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, Muse Glimmer no es el primer modelo en alejarse de los servidores en la nube. Gemini Nano y Gemma 4 de Google, Phi-4-mini de Microsoft, y el propio Llama 3 de Meta también corren en local. Pero estos son mucho más ligeros y se centran en tareas más simples. Muse Glimmer apunta a la IA agéntica. Por eso resulta especial que esté en el dispositivo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-10.jpg",
+          "cap": "Meta | Fuente: Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Muse Glimmer en sí no es ligero. Es un modelo de 30.000 millones de parámetros. Gemini Nano 1 tiene 1.800 millones, Nano 2 tiene 3.250 millones, y Nano 3 y Nano 4 tienen alrededor de 4.000 millones, así que está en otra categoría."
+        },
+        {
+          "t": "p",
+          "x": "Meta dijo que un modelo así normalmente ocupa más de 55GB de memoria. Con cuantización de 4 bits superó esa barrera, bajando de 20GB. La empresa escribió que es «lo bastante pequeño para correr en una Mac o PC con una sola GPU de consumo, lo que abre usos que van desde agentes locales y llamadas a funciones hasta programación local y evaluación LLM-as-a-judge»."
+        },
+        {
+          "t": "p",
+          "x": "Lo que puede hacer es escribir y depurar código, llevar a cabo de principio a fin instrucciones con varios intercambios, y no perder el contexto en tareas largas. Si algo falla, tiene la capacidad de «diagnosticar el error y reintentarlo en lugar de detenerse». Sus datos de entrenamiento vinieron de más de 100 idiomas, y puede ajustar la intensidad de razonamiento para equilibrar calidad y velocidad."
+        },
+        {
+          "t": "p",
+          "x": "También es rápido. Los modelos de IA normales sueltan los tokens de uno en uno. Cuanto más compleja es la tarea, más lenta es la respuesta. Meta tomó aquí un camino algo distinto."
+        },
+        {
+          "t": "p",
+          "x": "Es un rodeo llamado decodificación especulativa. Un modelo 'borrador' ligero basado en DFlash adivina por adelantado los tokens que Muse Glimmer probablemente va a producir. El borrador propone varios tokens coherentes con el contexto a la vez, y Muse Glimmer los acepta o los rechaza. Esto reduce el tiempo total de respuesta sin sacrificar calidad."
+        },
+        {
+          "t": "p",
+          "x": "Muse Glimmer está disponible en Hugging Face. El soporte para Ollama, LM Studio, Unsloth, llama.cpp, ExecuTorch y MLX está en camino."
+        }
+      ]
+    },
+    "gadgets/gadgets-norecognition-pattern": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bill Swearingen repitió más o menos la misma prueba durante el último año. Consistía en hacer que una computadora generara patrones que las cámaras de vigilancia que cubren las calles de EE. UU. no pudieran detectar. Después de unas 31 millones de repeticiones, dice que ahora puede producir ese tipo de patrón cuando quiera."
+        },
+        {
+          "t": "p",
+          "x": "Si se pone este patrón en ropa u objetos, los lectores de matrículas y las cámaras de vigilancia más extendidos no logran captar lo que hay debajo, sea una persona o un vehículo. El proyecto, llamado noRecognition, permite eludir la detección automática y la vigilancia algorítmica que opera en Estados Unidos y en otros lugares."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/patterns-example-norecognition.jpg?w=1024",
+          "cap": "Un patrón hecho por Swearingen | Fuente: Bill Swearingen"
+        },
+        {
+          "t": "p",
+          "x": "El patrón no impide la grabación en sí. Altera la capacidad de la cámara para identificar objetos, personas y rostros, de modo que no se dispare ninguna alerta de detección. Ante una cámara que antes lograba encontrar la aguja en el pajar, esa persona vuelve a ser una aguja en un pajar, hasta que aparece alguien que sabe dónde mirar."
+        },
+        {
+          "t": "p",
+          "x": "«La privacidad es un derecho básico», dijo esta semana por teléfono a TechCrunch. Describió su patrón como una forma de «elegir no ser rastreado»."
+        },
+        {
+          "t": "p",
+          "x": "Residente de Kansas City, es un experto en seguridad que cofundó el grupo de seguridad SecKC. Dijo que en su barrio hay cámaras cada pocos pasos, y que nadie dio nunca su consentimiento para ser vigilado. Todo empezó el año pasado, cuando se dirigía a una manifestación y le incomodó pensar que tantas cámaras iban a rastrear a personas que ejercían la libertad de expresión."
+        },
+        {
+          "t": "p",
+          "x": "Montó un laboratorio de prueba de concepto y fue derribando, uno por uno, algoritmos de detección de video de código abierto. Personas que llegaron aportando recursos de cómputo le ayudaron a ampliar la escala, y la prueba de concepto creció hasta convertirse en un modelo de aprendizaje por refuerzo, que aprende por sí mismo qué patrones funcionan y cuáles no. Lo describió como enseñarle a su propio modelo «a dibujar»."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/pattern.jpg",
+          "cap": "Un patrón que neutraliza la detección | Fuente: Bill Swearingen"
+        },
+        {
+          "t": "p",
+          "x": "Cada vez que un patrón era detectado, el modelo lo intentaba de nuevo, y finalmente logró vencer varios algoritmos a la vez. Llegó a una combinación que derrota a los 11 algoritmos de detección de código abierto que probó. Eso incluye el software detrás de los lectores de matrículas Flock, las cámaras corporales de Axon, y las cámaras que usan Clearview AI. Ahora el modelo genera un patrón nuevo cada minuto, dijo, y cada lote avanza matemáticamente sobre el anterior."
+        },
+        {
+          "t": "p",
+          "x": "La primera prueba real ocurrió el viernes en DEF CON, en Las Vegas. Con ayuda de Donut Media, envolvió un Toyota Yaris de 2009 con su patrón más reciente y comprobó si una cámara Flock lo detectaba. «Demostró que funciona», dijo. Las ruedas, sin embargo, fueron complicadas. El video de la demostración saldrá en unas semanas."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/donut-media-car-swearingen.jpg?w=652",
+          "cap": "Un Toyota Yaris de 2009 envuelto en el patrón | Fuente: Bill Swearingen / Donut Media"
+        },
+        {
+          "t": "p",
+          "x": "El siguiente paso es poner el patrón en manos de quienes lo quieran. noRecognition está preparando mercancía inicial, como camisetas y sudaderas, mediante crowdfunding, y también piensa en envolturas para vehículos. La meta es una resolución lo bastante buena para funcionar a distancia y que además se vea bien. No ha publicado en internet el patrón más fuerte, para que los fabricantes de cámaras no puedan descifrarlo. «Cada vez que falla, el modelo mejora, y por eso el patrón sigue mejorando», dijo."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-ultra-trio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según varios reportes, entre ellos los de Mark Gurman de Bloomberg y Filipe Espósito de Macworld, Apple planea lanzar hasta tres productos nuevos con el nombre “Ultra” entre finales de 2026 y comienzos de 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/WmYNENGA95YGRkAlvJXDrf2Vqko=/400x0/article-new/2025/08/Apple-Foldable-Thumb.jpg?lossy",
+          "cap": "El iPhone plegable de Apple"
+        },
+        {
+          "t": "p",
+          "x": "El iPhone plegable, del que se rumoraba hace tiempo, llevaría el nombre de “iPhone Ultra”. Se mencionan una pantalla interna de 7.7 pulgadas y una externa de 5.3 pulgadas, dos cámaras traseras y una frontal, y un botón de encendido con Touch ID en lugar de Face ID. La amplia pantalla interna se presta bien para ver video y hacer varias tareas a la vez."
+        },
+        {
+          "t": "p",
+          "x": "El “iPhone Ultra” se espera que llegue junto al iPhone 18 Pro y al iPhone 18 Pro Max este septiembre. Su precio inicial en EE. UU. se estima entre 1,999 y 2,499 dólares."
+        },
+        {
+          "t": "p",
+          "x": "El “AirPods Ultra” podría llegar tan pronto como este año. Tendría sentido si se presenta junto al “iPhone Ultra” en septiembre."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/B6KsHRXz2lQ_d0eqYJhsA-QZosY=/400x0/article-new/2026/08/AirPods-Ultra-Mock.jpg?lossy",
+          "cap": "Una maqueta del AirPods Ultra."
+        },
+        {
+          "t": "p",
+          "x": "El “AirPods Ultra” es, en esencia, unos AirPods Pro con una pequeña cámara infrarroja añadida que actúa como los ojos de Siri. Según el reporte de Gurman, esta cámara refuerza la función Visual Intelligence en el iPhone 15 Pro y modelos posteriores, y un pequeño LED en el audífono indica si la cámara está activa."
+        },
+        {
+          "t": "p",
+          "x": "En iOS 27, Visual Intelligence pasa a un nuevo modo “Siri” dentro de la app de cámara. Con el “AirPods Ultra”, se puede hacer lo mismo sin usar las manos."
+        },
+        {
+          "t": "p",
+          "x": "“La idea es que el usuario pueda preguntar de inmediato sobre lo que está viendo”, dijo. Por ejemplo, se podría mirar los ingredientes sobre la encimera de la cocina y preguntarle a Siri qué preparar para la cena."
+        },
+        {
+          "t": "p",
+          "x": "El mes pasado se encontraron rastros de unos AirPods con cámara en el código de la segunda beta para desarrolladores de iOS 27, una señal de que el lanzamiento está cerca."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/6LUGcgExrirfkG6GjQac1k7tAk4=/400x0/article-new/2026/04/MacBook-Pro-Low-Angle-Wide-Lens.jpg?lossy",
+          "cap": "MacBook Pro."
+        },
+        {
+          "t": "p",
+          "x": "Por último está el “MacBook Ultra”. Se dice que llevaría una pantalla OLED que también funciona como táctil. También se mencionan los chips M5 Pro y M5 Max, el Dynamic Island, un diseño más delgado que el del MacBook Pro actual, e incluso un módem C2 diseñado por Apple para conectividad 5G/LTE. Gurman informó que Apple planea lanzar este MacBook para comienzos de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Eso significa que el iPhone Ultra, el AirPods Ultra y el MacBook Ultra llegarían uno tras otro en los próximos seis o siete meses."
+        }
+      ]
+    },
+    "gadgets/gadgets-eu-glasses-rules": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las gafas inteligentes han estado llamando la atención por los motivos equivocados, y he escrito varias veces que era probable que llegara una gran regulación. Como se esperaba, las prohibiciones y restricciones están empezando a tomar forma. Ningún país ha avanzado todavía hacia una prohibición total. En cambio, algunos lugares han bloqueado su uso en situaciones específicas, y otros están considerando medidas más duras. Empresas privadas, como organizadores de eventos, también las prohíben en sus propios recintos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HvQHUDBQ3y38W4k2cpbW9a.jpg",
+          "cap": "Las gafas inteligentes Android XR de Magic Leap (Crédito de imagen: Magic Leap)"
+        },
+        {
+          "t": "p",
+          "x": "En EE. UU. se pueden usar en su mayoría libremente, pero el estado de Nueva York las ha prohibido en todos los tribunales del estado. Unas gafas capaces de grabar podrían verse como un intento de intimidar a las personas involucradas en un caso, y la grabación no autorizada implica un riesgo real en juicios donde se trata información sensible. Filadelfia, Hawái y Carolina del Norte han establecido prohibiciones similares para los tribunales. La Fuerza Aérea de EE. UU. escribió en su reglamento de servicio que “las gafas inteligentes o lentes espejadas con capacidad de foto, video o IA están prohibidas mientras se lleve el uniforme”. Algunos eventos, como la conferencia de hackers DEF CON 34, han prohibido directamente llevarlas."
+        },
+        {
+          "t": "p",
+          "x": "El Reino Unido está en una situación parecida. Los tribunales no han prohibido las gafas de forma directa, pero después de que se descubriera a alguien recibiendo instrucciones de la IA de unas gafas durante un juicio, el ambiente se ha vuelto desfavorable a su uso. Los tribunales británicos ya restringen la grabación, así que tomar fotos o video con las gafas rompe las reglas igual que lo haría un teléfono o una cámara normal. Monopoly Events prohibió las gafas con cámara en su propia Comic Con tras reportes repetidos de grabaciones encubiertas, y también hay una petición que pide prohibir su venta y promoción."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wmeVR8CtaH5C3wzhtmFHfN.jpg",
+          "cap": "Las gafas inteligentes Memomind One (Crédito de imagen: Future / Hamish Hector)"
+        },
+        {
+          "t": "p",
+          "x": "En la UE, el Comité Europeo de Protección de Datos está redactando un informe sobre gafas inteligentes, que se espera en unos meses. Los estados miembros se están moviendo primero. El supervisor de protección de datos de Alemania advirtió que la ley existente, que prohíbe dispositivos de grabación ocultos en objetos cotidianos, ya podría usarse contra las gafas con cámara. Activistas de derechos digitales en los Países Bajos han señalado el problema de ser filmado sin saberlo, y la CNIL de Francia también ha apuntado a los riesgos de privacidad de las gafas con cámara."
+        },
+        {
+          "t": "p",
+          "x": "La prohibición de Corea surge de un ángulo distinto. Después de que aparecieran casos de personas descubiertas intentando hacer trampa con gafas inteligentes, el país restringió específicamente llevarlas a las salas de examen. Dado el peso del examen de aptitud escolar universitario (CSAT), la norma simplemente deja claro, sin lugar a confusión, si siquiera se pueden llevar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jHpFaFch9dZ3ghBau5gzi9.jpg",
+          "cap": "Las gafas inteligentes Ray-Ban Meta (Crédito de imagen: Meta)"
+        },
+        {
+          "t": "p",
+          "x": "Todavía no son muchas las prohibiciones que se han puesto realmente en marcha. Eso crecerá si el hardware no cambia. La mayor preocupación es la privacidad de quienes quedan capturados por casualidad en la cámara de otra persona, sobre todo cuando no tienen idea de que los están grabando. La solución es obvia: dejar mucho más claro que se está grabando. Piénsese en luces indicadoras de captura más brillantes, un sonido de obturador fuerte al tomar una foto, o un sonido que se reproduzca mientras corre el video. Del lado de los usuarios, la gente quiere controlar a qué puede acceder el fabricante, y quiere saber con certeza qué fotos y videos terminan en manos de terceros o contratistas externos. No está claro cuánto más podrán resistir las gafas inteligentes antes de que llegue una regulación seria."
+        }
+      ]
+    },
+    "gadgets/gadgets-memomind-one": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El fabricante chino de proyectores XGIMI abrió en junio el crowdfunding de sus primeras gafas inteligentes, Memomind One. La apuesta era que los consumidores responderían a unas gafas con pantalla sin cámara, y la recaudación ya ha superado el millón de dólares. La categoría ha ganado así otra ronda de confianza temprana."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/memomind-one.jpg?resize=1068%2C712&quality=89&ssl=1",
+          "cap": "Memomind One | Fuente: XGIMI"
+        },
+        {
+          "t": "p",
+          "x": "En cuanto se abrió la Kickstarter el 28 de junio, superó con facilidad su meta de HK$80,000 (unos 10,000 dólares), y en menos de una semana reunió 500,000 dólares. Y ahora, con 20 días por delante antes del cierre del 28 de agosto, ha superado el millón de dólares."
+        },
+        {
+          "t": "p",
+          "x": "El producto se presentó por primera vez en enero en el CES 2026 de Las Vegas. No incluye cámara en absoluto; en su lugar lleva una pantalla micro-LED verde dual de 2,000 nits y audio, además de funciones de IA como traducción en tiempo real, toma de notas, asistencia según el contexto y navegación."
+        },
+        {
+          "t": "p",
+          "x": "El precio está entre los más bajos dentro de las gafas inteligentes con pantalla. Los tres estilos, Nomad, Gotham y Archive, parten de 400 dólares en la Standard Edition. Añadir lentes con graduación sube el precio a 500 dólares, y la Custom Edition, que ofrece varios colores, parte de 450 dólares. El envío está previsto para agosto de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/07/memo-mind-nomad.jpg?resize=696%2C464&quality=89&ssl=1",
+          "cap": "Memomind One Nomad | Fuente: XGIMI"
+        },
+        {
+          "t": "p",
+          "x": "XGIMI no fijó una meta adicional de stretch goal. La campaña, en la práctica, se parece más a un pedido anticipado."
+        },
+        {
+          "t": "p",
+          "x": "Si los resultados de Memomind One dicen algo, es que dejar fuera la cámara es una baza de marketing mucho más fuerte de lo esperado. La reacción en contra que enfrenta ahora Meta por sus gafas con cámara y sin pantalla también influye."
+        },
+        {
+          "t": "p",
+          "x": "Hasta hace poco, Meta no ha logrado impedir del todo que la gente inutilice el LED indicador de grabación o burle el sistema de otras maneras. Es pronto para sacar conclusiones, ya que todavía no hay un competidor real, pero en cierto sentido Meta ha envenenado el pozo."
+        },
+        {
+          "t": "p",
+          "x": "Memomind no es la primera en apostar por gafas con pantalla y sin cámara. Pero es más barata que su principal rival, el G2 de Even Realities, que cuesta 600 dólares incluso sin lentes graduadas."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, no tengo del todo claro que las gafas “solo pantalla” vayan a despegar de verdad. Dadas las limitaciones actuales de energía y cómputo para hacer funcionar cámara y pantalla a la vez, esto parece más bien el pulido de una división temporal hasta convertirla en un segmento de mercado propio. Pienso poner a prueba esa suposición usando Memomind One durante un tiempo."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-watch-rethink": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mark Gurman, de Bloomberg, informó en su newsletter Power On que Apple está reexaminando la línea Apple Watch desde cero. Comparó este cambio con el “cambio de diseño revolucionario” que representa el iPhone plegable, y escribió que sería “una transformación del producto para una nueva era”."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/moO1wpKxZZc7Vf6ryH6mSjLilsM=/400x0/article-new/2025/06/Apple-Watch-Ultra-2-Complications.jpg?lossy",
+          "cap": "Complicaciones del Apple Watch Ultra 2."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de diseño industrial ha planteado varias direcciones. Se están considerando un rastreador de actividad física sin pantalla, modelos de Apple Watch con distintos tipos y tamaños de pantalla, e incluso un modelo de pantalla redonda. Sin embargo, Gurman considera poco probable que el modelo redondo llegue a salir."
+        },
+        {
+          "t": "p",
+          "x": "Los precios también se extenderían hacia ambos extremos, con una gama superior por encima de Ultra y Hermès, y una opción más barata por debajo del SE. Apple tampoco toma a la ligera el repunte en las ventas de pulseras de actividad sin pantalla y anillos inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "Aún no se ha decidido una dirección. Pero, a medida que la competencia se intensifica, la determinación de rehacer la línea sería firme. El objetivo es reactivar el segmento de wearables, hogar y accesorios, de crecimiento lento, con planes a largo plazo que incluyen integrar funciones de IA y renovar por completo la app Health."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home-storytime": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google lanzó una actualización con fecha del 5 de agosto para Gemini for Home (acceso anticipado) y la app Google Home. Lo más llamativo es Storytime, donde la IA inventa cuentos sobre la marcha, mientras que la app se centró en hacer más fiables los controles de uso diario."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-4.jpg",
+          "cap": "App Google Home | Fuente: Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Storytime interactivo inventa cuentos por voz y permite cambiarlos a mitad de camino. Se puede pedir un cuento nuevo o convertir a un niño en el protagonista. Se puede cambiar al lobo de Los tres cerditos por un Tyrannosaurus, o hacer que el protagonista encuentre de repente un mapa del tesoro."
+        },
+        {
+          "t": "p",
+          "x": "El uso diario también recibió mejoras. Las alarmas y temporizadores pedidos en lenguaje natural se entienden mejor, y ahora se respeta la preferencia por el formato de 12 o 24 horas. Responde con más precisión cuánto tiempo queda en un temporizador, y capta pedidos como un temporizador para huevos pasados por agua."
+        },
+        {
+          "t": "p",
+          "x": "También hay ajustes menores en los altavoces. El sonido de confirmación al apagar o atenuar las luces cambió, y se corrigió un error por el que el anillo de luz seguía encendido después de terminar una rutina. Google añadió además que resolvió una breve interrupción de Spotify de finales de julio."
+        },
+        {
+          "t": "p",
+          "x": "La actualización de la app Google Home es más grande en el apartado de cámaras. Ahora se pueden añadir más cámaras de seguridad de terceros —Eufy, Tapo, Wyze, Reolink, Nanit— para ver más vistas en una sola app. El almacenamiento de grabaciones es más rápido, y la estabilidad de la transmisión en vivo y el desplazamiento de la imagen mejoraron. Los suscriptores de Home Premium Advanced reciben resúmenes de eventos de cámara generados por IA, así que saben qué pasó sin ver toda la grabación. Las automatizaciones están disponibles en más países e idiomas, y la integración con cerraduras inteligentes mejoró las notificaciones y el manejo de errores."
+        }
+      ]
+    },
+    "gadgets/gadgets-kata-friends-paywall": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El SwitchBot Kata Friends, de 700 dólares, es un robot de IA con forma de oso y ojos LCD. Asiente con la cabeza, mueve las orejas, agita los brazos y recorre la casa sobre tres ruedas. Una cámara incrustada en el lugar de la nariz reconoce a las personas y responde a gestos simples. El autor vivió con este robot durante dos semanas."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-main.jpg",
+          "cap": "SwitchBot Kata Friends © Wes Davis / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Con una batería de 3.200mAh recorre la casa durante unas tres horas, y cuando se le acaba la energía vuelve solo a su base. No hay forma de apagar la pantalla de los ojos, así que por la noche el autor simplemente pulsaba el botón de encendido. Conectado al Wi-Fi, se puede cambiar entre los modos Normal, Standby y Sleep desde la app, y, como un robot aspirador, traza zonas prohibidas en el mapa que dibuja por sí mismo."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-app-view.jpg",
+          "cap": "Mapas y el diario que se acumulan en la app © Screenshots by Wes Davis / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "La app también tiene un diario. Cada mañana, la IA publica un resumen del día anterior. También se puede abrir un álbum de fotos que toma el robot; el del autor estaba lleno de primeros planos de la cara de su hijo y selfies del propio robot en ángulos poco favorecedores. Con un hub de SwitchBot, también puede dar órdenes a los dispositivos de la casa, como un HomePod o un Echo, aunque con frecuencia no entendía a la primera y había que repetirlo dos veces."
+        },
+        {
+          "t": "p",
+          "x": "El problema está en cómo se fija el precio. Al configurarlo por primera vez comienza una prueba gratuita de 15 días del Companion Care Plan. El plan Premium, de 400 dólares al año, incluye encender el robot junto con reparaciones gratuitas, una revisión anual y el cuidado del pelaje. El plan Essential, de 15 dólares al mes (150 dólares al año), solo mantiene activas las funciones del dispositivo y la app. Sin suscripción, se detiene por completo hasta el funcionamiento interno del dispositivo que no necesita internet. El robot se queda quieto, sin sonido ni movimiento."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/07/SwitchBot-Kata-Friends-subscription-ended.jpg",
+          "cap": "Cuando termina la suscripción, aparece un símbolo de dólar en los ojos © Wes Davis / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Dos días antes de que terminara la prueba, el autor le dijo a su hijo que el robot pronto se detendría, y el niño lloró. El autor tuvo que abrazar a su hijo y hablarle de la muerte, de la sanación que trae el tiempo, y de las pérdidas y los nuevos vínculos que se viven a lo largo de la vida. Escribió que le enfadó que SwitchBot bloqueara incluso las funciones básicas que no necesitan ni la app ni la nube."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle a SwitchBot si pensaba cambiar su política de suscripción, la respuesta fue que harían posible que el robot abra los ojos y se mueva por la casa hasta volver a su cargador incluso sin suscripción. No se mencionó restaurar la interacción. Es difícil recomendar un producto que cuesta 700 dólares y que además exige una suscripción. Recuerda el episodio en que BMW recibió críticas por intentar convertir los asientos calefactados en una suscripción; al menos entonces, el coche seguía andando."
+        }
+      ]
+    },
+    "gadgets/gadgets-ryzen-npu-binned": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AMD lanzó el 9 de agosto dos chips para portátiles de la generación Gorgon Point: el Ryzen 5 439 y el Ryzen 7 449. Ninguno tiene la NPU que definía la serie Ryzen AI 400. Las propias páginas de especificaciones de AMD dejan el campo de la NPU en blanco. Ahí es donde se separan de sus parientes más cercanos, el Ryzen AI 5 Pro 440 y el Ryzen AI 7 Pro 450."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Ryzen_400.jpg",
+          "cap": "La serie Ryzen 400 | Fuente: AMD"
+        },
+        {
+          "t": "p",
+          "x": "El 439 usa la misma configuración Zen 5/Zen 5c 3+3 que el Pro 440. En cambio, el reloj boost baja de 4.8GHz a 4.6GHz, y el clúster Zen 5c baja de 3.5GHz a 3.3GHz. La caché L3 también se reduce a la mitad, de 16MB a 8MB. La cifra de hasta 50 TOPS de la NPU XDNA que destaca el Pro 440 ha desaparecido por completo de la página del 439."
+        },
+        {
+          "t": "p",
+          "x": "El 449 se acerca más al Pro 450. La configuración de núcleos 4+4 y los gráficos integrados Radeon 860M se mantienen. Solo el reloj boost, que baja levemente de 5.1GHz a 5.0GHz, y el Zen 5c, de 3.6GHz a 3.4GHz, son más bajos. La NPU de hasta 50 TOPS y la cifra de 66 TOPS a nivel de plataforma que acompañan al Pro 450 no aparecen en la ficha del 449."
+        },
+        {
+          "t": "p",
+          "x": "El resto es igual. Un TDP predeterminado de 28W con un rango configurable de 15 a 54W, el proceso de 4nm de TSMC y el zócalo FP8 coinciden con los de la familia Ryzen AI. Todavía no se han anunciado precios ni portátiles con estos chips."
+        },
+        {
+          "t": "p",
+          "x": "El buscador de productos de AMD también tiene lo que parece un error de etiquetado. Ambos chips aparecen en la pestaña “Ryzen 400”, pero el encabezado sobre la tabla comparativa dice “AMD Ryzen 6000 Series Processors”. Tiene toda la pinta de haberse publicado con prisa."
+        }
+      ]
+    },
+    "gadgets/gadgets-wacom-movinkpad-11": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Wacom es una empresa japonesa fundada en 1983 y una de las que lleva más tiempo fabricando tabletas gráficas. En los últimos años ha apostado por el Movinkpad, una tableta Android pensada para dibujar directamente con un lápiz óptico."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/Wacom-Movinkpad.webp?w=564",
+          "cap": "Wacom Movinkpad 11 | Fuente: Wacom"
+        },
+        {
+          "t": "p",
+          "x": "Lo que TechCrunch tomó prestado para probar es el primer modelo de la serie, el Movinkpad 11. El más reciente es el Movinkpad Pro 14, lanzado el otoño pasado, que añade una pantalla OLED de resolución 3K y una gama de color más amplia por 899 dólares. Empezar justo por el primer modelo fue una decisión deliberada, para ver dónde comenzó la serie."
+        },
+        {
+          "t": "p",
+          "x": "La versión corta: es fácil de configurar y vale lo que cuesta. 500 dólares es caro para alguien con poco interés en dibujar. Pero para quienes disfrutan del dibujo digital y no tienen mucho dinero de sobra, ocupa una zona intermedia: entre el Huion Inspiroy H640P, de unos 30 dólares, el Wacom Cintiq Pro 27, de 3.500 dólares, y los iPads, que llegan hasta los 1.100 dólares."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_4537.jpeg?w=680",
+          "cap": "Un dibujo hecho con el Movinkpad 11 | Fuente: Lucas Ropek/TechCrunch"
+        },
+        {
+          "t": "p",
+          "x": "Las especificaciones: pantalla de 11.45 pulgadas, 8GB de memoria y 128GB de almacenamiento. Pesa 1.3 libras, así que llevarlo encima no supone una carga. El Pro Pen 3 incluido es un lápiz óptico de 6.3 pulgadas con tres botones laterales que se pueden asignar a gusto, y la punta se cambia con un paquete de repuestos de 15 dólares. Al sostenerlo, se parece bastante a un rotulador de fieltro fino."
+        },
+        {
+          "t": "p",
+          "x": "Por ser Android, queda vinculado a una cuenta de Google. Trae preinstalado el gratuito Wacom Canvas, y si se necesitan más funciones, se compra el Clip Studio Paint de pago. El carácter de la punta —pluma, pincel, lápiz— se cambia dentro del programa."
+        },
+        {
+          "t": "p",
+          "x": "Hay mucha competencia, empezando por los iPads que usan el Apple Pencil. Aun así, el Movinkpad es un dispositivo centrado en una sola cosa, dibujar, y la empresa que lo hace lleva mucho tiempo en este terreno. Tras pasar unas horas un fin de semana dibujando algunas imágenes absurdas, resultó una forma bastante agradable de pasar una tarde."
+        }
+      ]
     }
   }
 }

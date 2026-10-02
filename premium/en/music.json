@@ -944,6 +944,598 @@
           "x": "Still, the ruling doesn't resolve the fair-use question in the Suno and Udio cases. Ross was a tool for finding existing case law, not generative AI. Judge Stephanos Bibas, who issued the lower-court ruling, drew that same line in his 2025 decision, writing that it dealt \"only with non-generative AI.\" Suno and Udio are building their defenses around fair use. In the Massachusetts case against Suno, both sides plan to file for summary judgment on fair use."
         }
       ]
+    },
+    "music/japanvoice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+        },
+        {
+          "t": "p",
+          "x": "일본 성우 쓰다 겐지로(Kenjiro Tsuda)는 한 TikTok 계정이 AI로 자신의 \"윤기 있는\" 바리톤 목소리를 복제했다고 주장했고, 도쿄 법원은 그의 손을 들어줬다. 선례가 될 이번 판결에서 법원은 사람의 목소리도 법의 보호를 받는다고 판단했다."
+        },
+        {
+          "t": "p",
+          "x": "'Yu-Gi-Oh!'의 카이바 세토(Seto Kaiba) 역으로 잘 알려진 Tsuda에 따르면 한 익명 계정이 2024년 7월부터 지난해 하반기까지 올린 영상 여러 편의 내레이션이 그의 목소리를 복제한 것이었다. TikTok에 영상 삭제를 명령해 달라는 요청은 계정이 이미 삭제됐다는 이유로 기각됐다."
+        },
+        {
+          "t": "p",
+          "x": "AFP 보도에 따르면 법원은 배우의 목소리를 허락 없이 쓰면 퍼블리시티권 침해로 봐야 한다고 판단했다. 일본에서 나온 첫 판결이다. TikTok은 재판에서 \"일반적인 남성 목소리\"가 쓰였다고 맞섰다."
+        },
+        {
+          "t": "p",
+          "x": "애니메이션 성우들 사이에서는 작품이나 초상이 AI 학습에 쓰이는 창작자를 더 보호해야 한다는 우려가 커지고 있다. 이번 판결은 그런 가운데 나왔다."
+        }
+      ]
+    },
+    "music/music-bangalter-ai": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Etl79iuZxaU"
+        },
+        {
+          "t": "p",
+          "x": "This is a conversation Thomas Bangalter had with Yana Peel, CHANEL's global head of arts, culture and heritage, at Art Basel. When AI came up, he said flatly that he has little interest in using artificial intelligence for creation."
+        },
+        {
+          "t": "p",
+          "x": "The sticking point isn't the tool but the channel it runs through. AI operates on prompts, but he said his own relationship to creation and art is “mostly happening at a deeper level, which does not express itself through words” — that is, it happens on a level that doesn't surface through language. That doesn't sit well with a process that has to pass through words."
+        },
+        {
+          "t": "p",
+          "x": "He said the most meaningful creation happens outside intellectual expression, in the place where feelings are understood. On architecture, he said it may be the most creative of all art forms, since it mixes fiction and reality."
+        },
+        {
+          "t": "p",
+          "x": "The conversation also touched on Warehouse Artefacts, the immersive work he made with Julien Charrière and Rampa, the albums Daft Punk left behind, the influence of Andy Warhol and 'Metropolis,' and his orchestral composition and ballet work."
+        },
+        {
+          "t": "p",
+          "x": "His latest solo album, 'Mirage — Ballet for 16 Dancers,' came out this past June. It's an eight-track work written for the ballet of the same name by Damien Jalet and Kōhei Nawa."
+        },
+        {
+          "t": "p",
+          "x": "He has previously all but given up on hopes of a Daft Punk reunion, and has described working on the 'Tron: Legacy' soundtrack as “depressing” and “limiting.”"
+        },
+        {
+          "t": "p",
+          "x": "DJ Mag placed this alongside recent remarks from Skrillex, who talked about the sense that art sees you."
+        }
+      ]
+    },
+    "music/music-dreamtonics-tease": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "PT6b6jSTtO4"
+        },
+        {
+          "t": "p",
+          "x": "Dreamtonics made its name with Synthesizer V Studio, a vocal synthesis tool that works more like a programmable virtual session singer."
+        },
+        {
+          "t": "p",
+          "x": "Vocoflex, which followed, brought the same technology into a plugin. It lets you apply the timbre of one reference voice, or several, onto a different voice."
+        },
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/d/dreamtonics_coming_soon-QB9i4snX9CWYope6FzEdd8liNh1U46iE.jpg",
+          "cap": "The teaser image Dreamtonics put up"
+        },
+        {
+          "t": "p",
+          "x": "The team has teased a new project it will soon bring into the world, though it has shown almost nothing of its hand. The only hints so far are the single sentence “human nuance is not a switch” and the video above, leaving plenty of room for speculation."
+        },
+        {
+          "t": "p",
+          "x": "When Sound On Sound asked Dreamtonics about it, the company said there would be more to share soon."
+        }
+      ]
+    },
+    "music/music-provenance-recipe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an op-ed Andreea Gleeson, former CEO of TuneCore, wrote for Music Business Worldwide. It starts from the diagnosis that the AI situation has already moved into commercialization, while the industry is still fumbling to catch up with the rules."
+        },
+        {
+          "t": "p",
+          "x": "The evidence she cites: more than 90,000 AI tracks are uploaded to Deezer every day, passing half of all new uploads, and TIDAL has decided to exclude fully AI-made recordings from royalties. IFPI has put out chart-eligibility principles, and Spotify and Universal Music Group have opened licensed AI tools. The market is writing the rules before legislation catches up."
+        },
+        {
+          "t": "p",
+          "x": "It's not an unfamiliar picture. In 2007 with YouTube's Content ID, and in 2008 with Spotify, market standards also arrived ahead of regulation. AI is following the same track."
+        },
+        {
+          "t": "p",
+          "x": "According to a Luminate survey, 54% of U.S. musicians were positive about AI tools, versus 35% of non-musician respondents. On the other side, 46% of listeners showed resistance to AI voices making entirely new songs. That reads as listeners also drawing a line between AI that assists human creation and AI that replaces it."
+        },
+        {
+          "t": "p",
+          "x": "Gleeson divides AI music into four layers: creation, distribution, attribution and consumption. The information captured upstream directly shapes the outcomes downstream."
+        },
+        {
+          "t": "p",
+          "x": "As examples of participation rather than replacement, she cites the licensed AI-voice collaboration with Robert Owens, and the Spotify-Merlin partnership that legally clears fan-made remixes."
+        },
+        {
+          "t": "p",
+          "x": "Her core argument is that detection is the wrong fight. Rather than trying to guess the recipe after dinner is already plated, the idea is to keep a record the moment the ingredients go in. As with organic certification, reliable metadata should be attached at the moment the DAW creates it."
+        },
+        {
+          "t": "p",
+          "x": "Once AI labels start determining royalty splits and chart eligibility, metadata becomes money. Standardizing the label alone isn't enough; verifiable provenance has to follow from upstream."
+        },
+        {
+          "t": "p",
+          "x": "So Gleeson redefines this as an interoperability problem rather than a copyright one. Work on MIDI 2.0 shows a way to pass provenance back and forth across a song's entire lifecycle, and movements like the Music Tech Coalition, which involves Peter Brown and Venable, are stitching scattered efforts into a single commercial infrastructure. What's needed now isn't new technology, but coordination."
+        }
+      ]
+    },
+    "music/music-reflector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/reflector-728x364.jpg",
+          "cap": "Reflector — an open source sample-browsing workstation that scans libraries by harmonic relationships"
+        },
+        {
+          "t": "p",
+          "x": "Austin Rockman, a composer and software engineer, has released Reflector, a free open source sample-browsing workstation."
+        },
+        {
+          "t": "p",
+          "x": "Machine learning finds its way into just about every music tool these days. What makes this one stand out is that it's less about stamping out more sounds and more about letting you work with audio differently."
+        },
+        {
+          "t": "p",
+          "x": "It's simple to use. You point it at a folder of sounds, it analyzes them on-device, and from there it finds sounds that pair well with a given sample or that sound similar. It browses your library by harmonic relationship rather than by folder name."
+        },
+        {
+          "t": "p",
+          "x": "If you like one sample, it points you toward other sounds that could lock in with it harmonically. If a pitch shift would make something fit better, it even suggests the transposition."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't stop at a single search either. Lay samples out roughly on a DAW-like timeline, and it watches what's happening in the current session to offer its next suggestion."
+        },
+        {
+          "t": "p",
+          "x": "Austin calls this a pre-DAW stage. It isn't meant to replace your main music software. It's a place to throw sounds around, see what fits, and then pull out WAVs or stems to continue the work elsewhere."
+        },
+        {
+          "t": "p",
+          "x": "Right now it targets material with harmonic content, like pads, keys, strings, synths, guitar, vocals, and pitch-centered field recordings. It doesn't analyze rhythm, so it isn't a beat-matching tool."
+        },
+        {
+          "t": "p",
+          "x": "There's also a Galaxy view that scatters your saved sessions across a 3D space, showing which arrangements connect harmonically. If you have a large library or a pile of unfinished sketches, this is where you might rediscover connections you'd forgotten about."
+        },
+        {
+          "t": "p",
+          "x": "All processing runs on-device, and neither audio nor usage history leaves your machine. The model was trained only on synthetic audio rather than copyrighted recordings. Austin has made clear that the weights, model code and training pipeline are all open source, and that it will stay free going forward."
+        },
+        {
+          "t": "p",
+          "x": "As experimental software from a solo developer, expect some rough edges. Right now it's available as a signed macOS application."
+        }
+      ]
+    },
+    "music/music-suno-breach-suits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Two class-action lawsuits have been filed accusing Suno of storing user data in a manner that was “negligent and/or reckless.” The plaintiffs claim the company knew about the security risk and did nothing about it."
+        },
+        {
+          "t": "p",
+          "x": "The suits were filed by Suno users Frank Rugnetta and Alec Pilavian. Both filed in Massachusetts, where Suno is headquartered, and are seeking class-action status representing all affected U.S. users."
+        },
+        {
+          "t": "p",
+          "x": "The breach happened in November 2025 and came to light only recently through reporting by 404 Media. The accessed information covered 55.3 million Suno users and included names, addresses, emails, phone numbers, purchase history and some payment card information."
+        },
+        {
+          "t": "p",
+          "x": "The leaked data also included Suno's source code. That revealed that the company had scraped songs and lyrics from Deezer, Genius and YouTube to use for AI training."
+        },
+        {
+          "t": "p",
+          "x": "Suno never formally notified users of the breach. It acknowledged the security incident only after the reporting came out."
+        },
+        {
+          "t": "p",
+          "x": "The causes of action in the lawsuits are negligence, breach of implied contract, breach of good faith, and unjust enrichment. The plaintiffs say they now face a lifetime risk of fraud, identity theft and invasion of privacy."
+        }
+      ]
+    },
+    "music/music-agents-release-ops": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/07/Pibox_article_hero-3-scaled.png",
+          "cap": "AI agents move into the music industry's back office"
+        },
+        {
+          "t": "p",
+          "x": "The back office of music companies is quietly being handed over to AI agents. Delivery QC, metadata cleanup, and trend monitoring went first, and early A&R screening has followed."
+        },
+        {
+          "t": "p",
+          "x": "Digital Music News separates what's actually running today from what's still only in pitch decks."
+        },
+        {
+          "t": "p",
+          "x": "It also looks at how release operations teams are reorganizing to fit this shift."
+        },
+        {
+          "t": "p",
+          "x": "The original page blocked access (HTTP 403), so this card carries only the summary captured during collection. The full article is available at the source link below."
+        }
+      ]
+    },
+    "music/music-headrush-nam": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "HeadRush has released free firmware for Core, Prime, and Prime Flex. The devices now read Neural Amp Modeler captures directly and connect to the Tone3000 platform. With no need to convert on a computer or route through third-party software, users can reach the community's \"hundreds of thousands\" of sounds."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/hvYNSH99RKbotGVsvbRfwX.jpg",
+          "cap": "HeadRush Prime — this firmware loads NAM captures directly on the device"
+        },
+        {
+          "t": "p",
+          "x": "MusicRadar compares this moment to a turning point in music consumption. Just as the iPod put digital music in everyone's hands, a similar barrier has come down in how electric guitar tone gets distributed, the outlet argues."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Agt9PgN8r6GFvQdMAU8fwN.jpg",
+          "cap": "Browsing and loading community captures directly on the touchscreen"
+        },
+        {
+          "t": "p",
+          "x": "The ecosystem of sharing tone isn't new on its own. Positive Grid lets users trade presets with each other, and Line 6's Helix Stadium includes a Proxy Cloning Engine that digitally clones amps and pedals. Neural DSP's Neural Capture captures amps to the cloud and shares them with the community."
+        },
+        {
+          "t": "p",
+          "x": "The difference is the fence. Rival platforms keep their sounds locked inside their own ecosystems, while HeadRush has layered the open-source Tone3000 on top of its own sound. Users browse community NAM captures on the touchscreen and load them as-is — no format conversion, no file-management hassle."
+        },
+        {
+          "t": "p",
+          "x": "HeadRush put it plainly: \"the era of closed tone is over.\" Tone3000's capture library has built up combinations of vintage amps and pedals, like a '65 Deluxe Reverb biting a Klon boost, and users can pull them straight onto the device. Lowering the barrier to entry this much should speed adoption across the industry."
+        },
+        {
+          "t": "video",
+          "yt": "0f6CiVLwnp0"
+        },
+        {
+          "t": "p",
+          "x": "Blackstar walked this path first. It built Tone3000 integration and NAM support into its practice amps, the Beam Mini and Beam Solo."
+        }
+      ]
+    },
+    "music/music-saregama-ai-videos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/2-IMAGES-98.jpg",
+          "cap": "Saregama — India's oldest record label is adding AI video to its catalog"
+        },
+        {
+          "t": "p",
+          "x": "Saregama, India's oldest record label, founded around 1901, is making AI-generated music videos for 1960s–70s film songs using generative AI. The label, part of the RP-Sanjiv Goenka Group, holds the recording and composition rights but not the rights to the original footage. CEO Vikram Mehra revealed the effort during the company's fiscal Q1 earnings call on August 4. Saregama Music's YouTube channel has about 64 million subscribers."
+        },
+        {
+          "t": "p",
+          "x": "The reason there's no footage is simple. Back when the films were made, there was no market for selling the footage to labels, so it stayed locked inside the film negatives held by the movie studios. It's a burden that newer rival labels don't carry. Shooting new footage never made financial sense before, but AI has driven the cost down. Mehra said it \"can be INR 70,000 also\" — about 70,000 rupees, or roughly $740."
+        },
+        {
+          "t": "p",
+          "x": "There are two target generations. For Gen X, the original audio stays untouched while new, modern-feeling visuals are added. For Gen Z, the composition is left alone but the arrangement gets reworked before being paired with new AI video."
+        },
+        {
+          "t": "p",
+          "x": "The second track using generative AI is this: third-party tools create podcast-like audio, laid over music from the company's own catalog. A fifty-year-old narrator reminisces while following along to songs about love, breakups, and friendship. There are also plans to license this out to other podcast producers."
+        },
+        {
+          "t": "p",
+          "x": "Mehra split AI into two tracks. Predictive AI, which has been running for four years and is used to decide on acquiring rights, now has a better hit-to-miss ratio, he said. Generative AI, he said, is the one that changes the game entirely. The content-acquisition budget runs 300–350 crore rupees a year, or $31.6 million to $36.9 million."
+        },
+        {
+          "t": "p",
+          "x": "He also restated the company's position on rights. It supports licensed innovation and opposes unauthorized use. New digital licensing deals now include clauses against rights dilution and fraud. Back in May, Mehra said streaming services should value AI-generated music at zero."
+        },
+        {
+          "t": "p",
+          "x": "The film business is being wound down. Instead, in December 2025, the company put in $36 million to buy a stake in Bhansali Productions and secure exclusive rights to its upcoming film music. For Gen Z, it connects through Pocket Aces and its FilterCopy studio, fully acquired in 2024 for $45 million."
+        },
+        {
+          "t": "p",
+          "x": "The catalog runs to about 180,000 songs and grows by 5,000 a year. In fiscal year 2026, 60% of music revenue came from songs released after 2000, and 45% from songs after 2020. Older songs are monetized directly through Carvaan, the company's retro player and streaming app. The in-house AI team has built two new units, one for content and one for process, running within the existing budget with no extra spending."
+        },
+        {
+          "t": "p",
+          "x": "Fiscal Q1 revenue was 263.6 crore rupees, or $27.8 million, up 27% year over year. Adjusted EBITDA jumped 69% to 112.4 crore rupees, or $11.8 million. The music segment alone grew 39% to 230.6 crore rupees, or $24.3 million."
+        },
+        {
+          "t": "p",
+          "x": "Mehra sees India's paid subscribers reaching 100 million, on the assumption that free music shrinks and prices rise toward around 100 rupees a month. Paid streaming today accounts for just 3% of India's internet users, according to Goldman Sachs. In 2025 alone, India added nearly 4 million paid subscriptions, bringing the cumulative total to 14.4 million."
+        }
+      ]
+    },
+    "music/music-suno-voices-mobile": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/Suno_Voices3-e1786325517488.jpg",
+          "cap": "Suno Voices — train the feature on your own voice so it can sing new songs"
+        },
+        {
+          "t": "p",
+          "x": "In an August 7 release note, Suno said its vocal cloning feature, Voices, now works on iOS and Android. The feature launched in March alongside the v5.5 model, but until now it had to be set up on desktop."
+        },
+        {
+          "t": "p",
+          "x": "There are three ways to use it: record yourself singing, upload an audio file, or pick a track from your own Suno library. The platform isolates the vocal used for training on its own, and verifies that the voice is really yours by having you read a confirmation phrase out loud."
+        },
+        {
+          "t": "p",
+          "x": "Free users now also get a limited taste of Voices. Using it further requires an upgrade. Pro and Premier subscribers remain unlimited as before. Voices created are private by default, so only the account owner can use them."
+        },
+        {
+          "t": "p",
+          "x": "This also caps off a run of recent updates. iMessage integration, CarPlay and Android Auto support, and improved stem-separation tools all arrived in succession. A waitlist has also opened for Suno Vinyl, which presses AI-made songs onto physical records. Pricing is set at around $45, shipping not included."
+        },
+        {
+          "t": "p",
+          "x": "Around the same time, Suno said it's adding audio watermarking and fingerprinting. The goal is to catch fraud happening on streaming platforms, and it has also set a new download policy meant to block mass distribution."
+        },
+        {
+          "t": "p",
+          "x": "Copyright disputes remain tangled on multiple fronts. In July, a German court found infringement in the GEMA case, and Denmark's Koda has a separate claim. In the U.S., Universal Music Group and Sony Music are suing, with claims that could exceed $9 billion."
+        }
+      ]
+    },
+    "music/music-unlearning-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/machine-unlearning-hub.png",
+          "cap": "Machine Unlearning Research Hub — a library on whether training data can really be erased"
+        },
+        {
+          "t": "p",
+          "x": "AI developers offer skeptical musicians one safety valve: if you don't like how your music is being used, they'll remove it later. Chris Castle of MusicTechPolicy thinks that promise is close to fiction in practice."
+        },
+        {
+          "t": "p",
+          "x": "Removing a single song from an already-trained neural network is, as The Trichordist puts it, like trying to take the eggs back out of a baked cake. The moment a model learns a track, trillions of internal values shift across the entire system."
+        },
+        {
+          "t": "p",
+          "x": "Castle put it this way: \"Creators should not assume that a contractual promise to 'remove' works from future training is equivalent to proving that an existing model has actually forgotten them.\" A contractual promise to exclude a work from future training is a different thing from proving that an already-built model has actually forgotten it."
+        },
+        {
+          "t": "p",
+          "x": "He opened the Machine Unlearning Research Hub to close this gap between what the technology claims and what it actually does."
+        },
+        {
+          "t": "p",
+          "x": "The hub is a public library collecting peer-reviewed papers on machine unlearning along with audio research and policy analysis. Machine unlearning refers to a still-theoretical procedure for making a system forget specific training data without rebuilding it from scratch."
+        },
+        {
+          "t": "p",
+          "x": "Musicians have four uses for it. If an AI startup claims it can easily opt artists out or delete catalogs even after training, the hub's research can be used to check that claim. By showing that retroactive deletion isn't currently possible, it pins down for platforms why upfront consent and licensing fees are necessary."
+        },
+        {
+          "t": "p",
+          "x": "It also tracks real progress in audio unlearning, such as post-hoc pruning or output filters, serving as a window to watch for whether true data deletion ever becomes possible. And when someone argues that unauthorized scraping can simply be papered over with unlearning later, it serves as grounds to push back in copyright debates."
+        },
+        {
+          "t": "p",
+          "x": "Hypebot's conclusion is short: when you sit down with an AI music company, don't trade upfront permission or payment for a promise to delete things later. Until real machine unlearning is possible, strict consent obtained before training is the only real protection."
+        },
+        {
+          "t": "p",
+          "x": "Build artists' rights on solid science, so musicians don't end up buying a fake delete button. That's the goal Chris Castle and the new hub have set."
+        }
+      ]
+    },
+    "music/music-iamchoir": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "I Am Audio has released I Am Choir, a plugin that turns a single mono vocal recording into a choir performance, powered by an AI voice model trained on recordings of real singers."
+        },
+        {
+          "t": "img",
+          "src": "https://www.synthtopia.com/wp-content/uploads/2026/08/choir-728x409.jpg",
+          "cap": "I Am Choir — a plugin that turns one vocal track into a choir ensemble"
+        },
+        {
+          "t": "p",
+          "x": "It works differently from a typical harmonizer or chorus effect. It generates an ensemble performance that follows the original vocal's lyrics, melody, and timing exactly."
+        },
+        {
+          "t": "p",
+          "x": "The first release includes three models: Gospel Choir, Children's Choir, and Gang Vocals. More voice models are planned."
+        },
+        {
+          "t": "p",
+          "x": "According to the company, the voice models were built together with the participating singers, who were paid for their recordings and also receive royalties from product sales."
+        },
+        {
+          "t": "p",
+          "x": "It's available now for macOS and Windows. The list price is US$199, with an introductory price of US$169."
+        }
+      ]
+    },
+    "music/music-luke-steele": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As the debate over using AI in music continues, Empire Of The Sun's Luke Steele has come down, somewhat hesitantly, on the pro side."
+        },
+        {
+          "t": "video",
+          "yt": "2uxtRs8dYgw"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SQZsrwwMbxrnenxP6bF7PQ.jpg",
+          "cap": "Luke Steele of Empire Of The Sun"
+        },
+        {
+          "t": "p",
+          "x": "Speaking on iHeartRadio Canada, the Australian musician said he uses AI “of course.” “I like this fight right now. Human vs. AI, it's pretty exciting. But at the end of the day it's just another tool. It's like a really smart guitar pedal.”"
+        },
+        {
+          "t": "p",
+          "x": "He went on: “I think you've got to be careful because it's so powerful. AI is going to empower the artists who know how to use it, and they're going to become unstoppable.”"
+        },
+        {
+          "t": "p",
+          "x": "“Artists who are against AI need to be careful, because it's going to creep up like the boogeyman in the night and swallow you whole.” Having said that, he brushed aside the enormous environmental impact of using AI."
+        },
+        {
+          "t": "p",
+          "x": "One artist who actually uses AI publicly looks far from “unstoppable.” Boy George has spent days in trouble over We Will Dance Again, a pro-Israel, AI-assisted track."
+        },
+        {
+          "t": "p",
+          "x": "The backlash was swift. The song reads as denying the genocide taking place in Gaza (a term used by both the UN and Amnesty International), and takes a contentious political stance with lyrics criticizing pro-Palestinian musicians."
+        },
+        {
+          "t": "p",
+          "x": "Last Thursday, George quit a two-week West End role he'd taken as King Herod in Jesus Christ Superstar at the London Palladium. He then split with his label manager, Tony Pontius, who reportedly told him he wanted “nothing to do with” We Will Dance Again."
+        },
+        {
+          "t": "p",
+          "x": "This time he clashed with Bandcamp. He uploaded the track over the weekend, but Bandcamp took the song down and suspended his account."
+        },
+        {
+          "t": "p",
+          "x": "The platform hasn't commented on the song yet. But the issue is likely less about the political content than the fact that it was made with AI. Bandcamp banned tracks made “entirely” or “substantially” with AI earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "The Culture Club singer wasn't about to stay quiet. He posted a clip on Instagram titled “Bandcamp. What a bunch of c***s!” “The drama continues. Sadly Bandcamp has deleted my profile. Anyone hoping to save We Will Dance Again will have to wait until I find a way to re-record and release it.”"
+        }
+      ]
+    },
+    "music/music-mixvault": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mastering The Mix has released a new immersive EQ plugin, MIXVAULT, for macOS and Windows."
+        },
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/mixvault-728x364.jpg",
+          "cap": "MIXVAULT — an EQ interface that lets you push and pull sound in a 3D room"
+        },
+        {
+          "t": "p",
+          "x": "It follows REFERENCE 3 and STEREOVAULT. Think of it as a ground-up overhaul of the company's earlier EQ tools, MIXROOM and BASSROOM."
+        },
+        {
+          "t": "p",
+          "x": "The idea is simple: treat EQ not as curve editing, but as handling the sound right in front of you. Instead of dragging nodes up and down, you pull a given frequency forward to bring it out, or push it back to tuck it away."
+        },
+        {
+          "t": "p",
+          "x": "The interface is a 3D room view that responds as you work. A hertz strip on the wall lets you zoom into the band you want. Fine control still remains: scroll over a band to change the Q, or double-click a dB value to type in a number directly."
+        },
+        {
+          "t": "video",
+          "yt": "4HAJEeulOmo"
+        },
+        {
+          "t": "p",
+          "x": "A lot of effort went into honest monitoring. MIXVAULT level-matches every adjustment in real time, so instead of the illusion that something sounds better just because it's louder, you hear the actual tonal change. It also comes with a live delta display showing how the EQ is altering the signal, and a Delta button that lets you toggle between the dry and processed sound."
+        },
+        {
+          "t": "p",
+          "x": "It also analyzes the audio to build Smart Presets suited to the source and genre. Pick from mix, vocal, drums, bass, or music, and you can step through tonal directions one notch at a time, from dark and thick to bright and forward. These aren't fixed curves being loaded in — they're presets pulled from that specific audio right now."
+        },
+        {
+          "t": "p",
+          "x": "There are four resolution modes. Broad uses four wide bands to shape tone quickly, and Balanced handles general mastering with six bands. Detailed digs into problem spots with nine narrow bands, and Bass concentrates five bands between 20Hz and 320Hz."
+        },
+        {
+          "t": "p",
+          "x": "The Bass mode is an improved version of the BASSROOM filter, shaping low end while minimizing phase and transient distortion. The company says MIXVAULT's default filter matches the frequency response of the top setting on the market's leading linear-phase EQ, while running at 36 times lower latency."
+        },
+        {
+          "t": "p",
+          "x": "You can also load a reference track as a tonal target and compare it with levels matched. It also comes with A/B states, undo and redo, full bypass, trim, a dry/wet mix, keyboard shortcuts, and a resizable interface."
+        },
+        {
+          "t": "p",
+          "x": "It's priced at $80 / £59 / €70.95, with a 15-day free trial. The launch discount runs through September 4, 2026, giving both new and existing customers 30% off, with an added loyalty discount for existing users. Owners of MIXROOM and BASSROOM get 50% off."
+        },
+        {
+          "t": "p",
+          "x": "Formats are VST3, AU, and AAX. macOS supports both Intel and Apple Silicon on 10.15 or later, and it runs on Windows 10 or later."
+        }
+      ]
+    },
+    "music/music-suno-30years": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "For almost thirty years, my songs lived only in a notebook. I finished writing the lyrics, but the melodies always came to me only in fragments, I didn't know how to play an instrument, and there was no one to hand the lyrics to."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-6-JAK-oped.jpg",
+          "cap": "Hypebot op-ed — a record from singer-songwriter Jeff Kaiser, who turned 30 years of lyrics into songs"
+        },
+        {
+          "t": "p",
+          "x": "Then I found Suno. I barely knew anything about prompts, only the sound I wanted: a warm male vocal, acoustic guitar, an unhurried tempo, honest country. The first attempt was this simple: “Country song. Male singer. Acoustic guitar. Slow tempo.”"
+        },
+        {
+          "t": "p",
+          "x": "I pasted in the lyrics and hit Generate. A minute later, my song was coming out of the speakers. Even now, with twenty-six songs made, that feeling hasn't worn off."
+        },
+        {
+          "t": "p",
+          "x": "Even a basic prompt can produce something convincing. With Suno, the hard part isn't writing — it's aiming. The first two songs I picked from the notebook went through dozens of runs."
+        },
+        {
+          "t": "p",
+          "x": "I had to build up the skill of putting the sound in my head into words first. So I talked it through with ChatGPT, Gemini, and Grok, explaining what I wanted, then showed each one what the others came up with to push further. For nine months, that was the whole method."
+        },
+        {
+          "t": "p",
+          "x": "Then I came across a seven-page guide someone had posted for free. It wasn't about music — it was about Suno. Prompts have a character limit, and earlier words carry more weight. Each word has to narrow something down, and whatever you don't want goes to the very end. Half the work isn't the prompt at all — it's the tags planted inside the lyrics."
+        },
+        {
+          "t": "p",
+          "x": "“She Came Out of the Blue,” out September 4, is the first song where I applied that method all the way through. The mood is a late-night, cinematic Gulf Coast air; the vocal is a weathered country baritone; the production is analog warmth with “No glossy pop sheen. No organ.” Unlike the other songs I ran dozens of times, this one came out the way I wanted on the first pass."
+        },
+        {
+          "t": "p",
+          "x": "Once two songs became twenty-six in a year, I wondered what would happen if I handed them to musicians. Making that first contact was harder than prompting. I put together a glossary of music terms, called and emailed Nashville demo studios directly, and found the rest through AirGigs and SoundBetter. My worry turned out to be misplaced. No one treated me like a joke."
+        },
+        {
+          "t": "p",
+          "x": "On “Winding On,” out February 5, producer Vito Astone rebuilt every instrumental part from scratch and added a fingerpicked acoustic intro. Abbie Parker sang lead. On the line “Some things break and just stay broken,” her voice caught, just barely. Those were lyrics I'd been carrying for years."
+        },
+        {
+          "t": "p",
+          "x": "Since November 2025 I've released one song a month, and cumulative streams are approaching 200,000. One track was used in Florida tourism promotion. But that's not the point."
+        },
+        {
+          "t": "p",
+          "x": "AI didn't write the lyrics. It made the music, and it took a year to learn how to aim it. What I couldn't do for 30 years wasn't writing — it was finishing. The software didn't replace Vito or Abbie. It just introduced us."
+        }
+      ]
     }
   }
 }
