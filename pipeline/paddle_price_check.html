@@ -1,0 +1,42 @@
+<!-- Paddle 가격 ID 점검 도구.
+     환경변수 이름과 Paddle에 실제로 등록된 상품이 일치하는지 확인한다. 한 번
+     어긋난 적이 있다 — MONTHLY에 연간 가격이, YEARLY에 월간 가격이 들어가 있어
+     월 요금을 누른 사람에게 연 $59.99 결제창이 떴다. 이름만 보고는 알 수 없고
+     결제창을 열어야 드러나므로, 가격 ID를 바꿀 때마다 특히 프로덕션 전환 전에
+     반드시 돌린다. 체험 기간(trial)도 함께 찍는다 — 사이트가 약속한 "첫 달 무료"와
+     Paddle 설정이 어긋나면 약속을 어기게 된다.
+
+     사용법 (repo 루트에서):
+       python3 -m http.server 8799 --directory pipeline
+       open http://localhost:8799/paddle_price_check.html
+     아래 IDS/토큰은 wrangler.jsonc의 vars와 같은 값으로 맞춰 두어야 한다. -->
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>price check</title></head>
+<body><pre id="out">loading…</pre>
+<script src="https://cdn.paddle.com/paddle/v2/paddle.js"></script>
+<script>
+var IDS = {
+  "PADDLE_PRICE_MONTHLY": "pri_01m3xja5vpv2qadwtn86gxbaya",
+  "PADDLE_PRICE_YEARLY":  "pri_01m3xjar8ye0m5xbzwtfjynbet"
+};
+Paddle.Environment.set('sandbox');
+Paddle.Initialize({ token: 'test_8a239ffec3f57bf523aba791ffb' });
+var lines = [];
+var keys = Object.keys(IDS);
+function step(i){
+  if (i >= keys.length) { document.getElementById('out').textContent = lines.join('\n') + '\nDONE'; return; }
+  var k = keys[i];
+  Paddle.PricePreview({ items: [{ priceId: IDS[k], quantity: 1 }], address: { countryCode: 'KR' } })
+    .then(function(r){
+      var it = r.data.details.lineItems[0];
+      var p = it.price;
+      lines.push(k + ' = ' + IDS[k]
+        + '\n    product : ' + (p.name || '') + ' / ' + (it.product ? it.product.name : '')
+        + '\n    cycle   : ' + (p.billingCycle ? (p.billingCycle.frequency + ' ' + p.billingCycle.interval) : 'one-time')
+        + '\n    trial   : ' + (p.trialPeriod ? (p.trialPeriod.frequency + ' ' + p.trialPeriod.interval) : 'none')
+        + '\n    total   : ' + it.formattedTotals.total + '  (subtotal ' + it.formattedTotals.subtotal + ', tax ' + it.formattedTotals.tax + ')');
+      step(i+1);
+    })
+    .catch(function(e){ lines.push(k + ' = ' + IDS[k] + '\n    ERROR: ' + (e && (e.detail||e.message||JSON.stringify(e)))); step(i+1); });
+}
+step(0);
+</script></body></html>
