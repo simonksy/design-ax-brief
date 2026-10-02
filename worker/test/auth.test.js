@@ -73,6 +73,36 @@ describe("auth + entitlement", () => {
     }
   });
 
+  // 인증 없는 무제한 메일 발송기는 메일 쿼터를 말려 로그인(=결제의 선행 관문)을
+  // 막고, 제3자에게 메일을 퍼붓는 중계기로도 쓰인다.
+  describe("/api/auth/request 스로틀", () => {
+    const links = async () => (await env.AUTH_TOKENS.list({ prefix: "ml:" })).keys.length;
+    const ask = (email, ip) => call("/api/auth/request", {
+      method: "POST",
+      headers: { "content-type": "application/json", "cf-connecting-ip": ip },
+      body: JSON.stringify({ email }),
+    });
+
+    it("같은 주소로 쏟아부으면 시간당 5통에서 멈추되 응답은 ok로 같다", async () => {
+      const before = await links();
+      for (let i = 0; i < 8; i++) {
+        const res = await ask("flood@x.com", "203.0.113.9");
+        expect(res.status).toBe(200);
+        expect((await res.json()).ok).toBe(true);   // 제한에 걸렸음을 알려주지 않는다
+      }
+      expect((await links()) - before).toBe(5);
+    });
+
+    it("주소를 바꿔가며 쏟아부어도 IP당 시간당 15통에서 멈춘다", async () => {
+      const before = await links();
+      for (let i = 0; i < 18; i++) {
+        const res = await ask(`victim${i}@x.com`, "203.0.113.10");
+        expect(res.status).toBe(200);
+      }
+      expect((await links()) - before).toBe(15);
+    });
+  });
+
   it("returns ok (no crash) for a non-string email value", async () => {
     const res = await call("/api/auth/request", {
       method: "POST", headers: { "content-type": "application/json" },

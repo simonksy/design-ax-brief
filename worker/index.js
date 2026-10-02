@@ -1,6 +1,6 @@
 import { LANGS, pickLang, splitLangPath } from "./lib/lang.js";
 import { signSession, verifySession } from "./lib/crypto.js";
-import { issueMagicToken, consumeMagicToken } from "./lib/tokens.js";
+import { issueMagicToken, consumeMagicToken, rateLimited } from "./lib/tokens.js";
 import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } from "./lib/cookies.js";
 import { getEntitlement } from "./lib/entitlement.js";
 import { sendMagicLink } from "./lib/email.js";
@@ -90,6 +90,12 @@ export default {
       try { email = (await request.json()).email; } catch {}
       email = String(email || "").trim().toLowerCase();
       if (email) {
+        // 주소당 시간당 5통, IP당 시간당 15통. 넘으면 보내지 않고도 응답은 똑같다
+        // — 등록 여부도, 제한에 걸렸는지도 알려주지 않는다.
+        const ip = request.headers.get("cf-connecting-ip") || "unknown";
+        if (await rateLimited(env.AUTH_TOKENS, "em", email, 5) ||
+            await rateLimited(env.AUTH_TOKENS, "ip", ip, 15))
+          return json({ ok: true });
         const token = await issueMagicToken(env.AUTH_TOKENS, email);
         const link = `${env.BASE_URL}/api/auth/callback?token=${token}`;
         try {
