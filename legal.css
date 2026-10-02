@@ -1,0 +1,17 @@
+/* 약관·환불·개인정보 페이지 공용 스타일. 앱의 종이 톤을 그대로 쓰되,
+   읽기만 하는 페이지라 장식을 모두 걷어낸다. */
+body { margin: 0; background: #f1ece4; color: #1c1a18; font-family: Pretendard, system-ui, sans-serif; }
+main { max-width: 680px; margin: 0 auto; padding: 56px 24px 96px; }
+h1 { font-size: 26px; margin: 0 0 6px; }
+.date { color: #8a827a; font-size: 13px; margin-bottom: 14px; }
+h2 { font-size: 17px; margin: 34px 0 10px; }
+h3 { font-size: 15px; margin: 24px 0 8px; }
+p, li { font-size: 14.5px; line-height: 1.7; color: #3a352f; }
+ul { padding-left: 20px; }
+a { color: #1c1a18; }
+.back { display: inline-block; margin-bottom: 28px; font-size: 13.5px; text-decoration: none; color: #8a827a; }
+.note { color: #8a827a; font-size: 13px; }
+/* 언어 구분선 — 같은 문서의 두 언어판을 눈으로 가른다. */
+.lang-split { margin: 56px 0 0; border: 0; border-top: 1px solid #ddd5c9; }
+.lang-tag { display: inline-block; margin: 28px 0 0; padding: 3px 10px; border-radius: 999px;
+  font-size: 11.5px; font-weight: 700; letter-spacing: .04em; color: #8a827a; background: #e7e0d5; }

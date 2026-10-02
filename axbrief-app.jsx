@@ -459,7 +459,17 @@ function loadPaddle(clientToken, environment) {
     s.onload = () => {
       try {
         if (environment === 'sandbox') window.Paddle.Environment.set('sandbox');
-        window.Paddle.Initialize({ token: clientToken });
+        // Initialize의 eventCallback은 모든 Paddle.js 이벤트를 받는다. 결제창이
+        // 아예 열리지 못한 경우(checkout.error)는 Checkout.open의 콜백까지 가지
+        // 않으므로, 진단 로그는 여기 걸어야 한다. 오버레이는 실패를 "Something
+        // went wrong" 한 줄로 덮어버린다 — code/detail은 이 경로로만 보인다.
+        window.Paddle.Initialize({
+          token: clientToken,
+          eventCallback: (e) => {
+            if (e && (e.name === 'checkout.error' || e.name === 'checkout.warning'))
+              console.error('[ax] paddle ' + e.name, e.detail || '', e);
+          },
+        });
         resolve(window.Paddle);
       } catch (e) { reject(e); }
     };
@@ -508,6 +518,40 @@ function ProCell({ v, t, strong }) {
   return (
     <span style={{ color: strong ? t.hl : t.body, fontWeight: strong ? 700 : 400,
       fontSize: strong ? 19 : 15 }}>{v}</span>
+  );
+}
+
+/* 사이트 푸터. 링크 네 개(약관·개인정보·환불·문의)는 Paddle 도메인 심사가
+   "navigation으로 분명히 접근 가능해야 한다"고 요구하는 항목이다. 그 아래 두 줄은
+   사실 고지 — 카드 글이 AI 산출물이라는 점과, 결제의 판매자가 Paddle이라는 점.
+   없는 정보(사업자번호 등)는 적지 않는다. */
+const FOOTER_LINKS = [
+  { key: 'terms',    href: '/terms' },
+  { key: 'privacy',  href: '/privacy' },
+  { key: 'refunds',  href: '/refunds' },
+  { key: 'support',  href: 'mailto:support@axitnow.com' },
+  { key: 'report',   href: 'mailto:support@axitnow.com?subject=Issue%20report' },
+];
+
+function SiteFooter({ t }) {
+  const link = { color: t.mute, textDecoration: 'none', borderBottom: '1px solid ' + t.rule };
+  return (
+    <footer style={{ padding: '56px 20px 44px', borderTop: '1px solid ' + t.rule, marginTop: 48 }}>
+      <nav style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '10px 18px',
+        marginBottom: 18 }}>
+        {FOOTER_LINKS.map((l) => (
+          <a key={l.key} href={l.href} className="ax-body" style={{ ...link, fontSize: 12.5 }}>
+            {tx('footer.' + l.key)}
+          </a>
+        ))}
+      </nav>
+      <p className="ax-body" style={{ fontSize: 11.5, lineHeight: 1.7, color: t.faint,
+        margin: '0 auto', maxWidth: 520, textAlign: 'center' }}>
+        {tx('footer.ai_notice')}<br />
+        {tx('footer.mor')}<br />
+        {tx('footer.operator')}
+      </p>
+    </footer>
   );
 }
 
@@ -636,6 +680,13 @@ function SubscribeModal({ onClose, t }) {
         customData: { email: cfg.email },      // 웹훅이 이 이메일로 권한을 연다
         settings: { displayMode: 'overlay', theme: 'light' },
         eventCallback: async (e) => {
+          // Paddle 오버레이는 실패를 "Something went wrong" 한 줄로만 덮는다. 실제
+          // 원인은 이 이벤트에만 들어 있으므로 콘솔에 그대로 남긴다 — 운영자가
+          // 결제 문제를 진단할 유일한 통로다.
+          if (e.name === 'checkout.error' || e.name === 'checkout.warning') {
+            console.error('[ax] paddle ' + e.name, e);
+            return;
+          }
           if (e.name !== 'checkout.completed') return;
           setPhase('confirming');
           if (await pollEntitlement()) window.location.reload();
@@ -2672,12 +2723,9 @@ function ThemedPage({ themeKey }) {
               {tx('section.empty')}</p>
           </div>
         )}
-        {/* site footer — minimal: copyright + privacy policy (required by AdSense) */}
-        <footer style={{ textAlign: 'center', padding: '48px 20px 40px' }}>
-          <p className="ax-body" style={{ fontSize: 12.5, color: t.faint, margin: 0 }}>
-            © AX-it NOW · <a href="/privacy" style={{ color: t.faint, textDecoration: 'underline' }}>{tx('footer.privacy')}</a>
-          </p>
-        </footer>
+        {/* 사이트 푸터 — 약관·개인정보·환불 링크는 Paddle 도메인 심사의 요구사항이고,
+            AI 생성 고지와 운영자 표기는 사실 그대로 적는다. */}
+        <SiteFooter t={t} />
       </div>
       {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     </div>
