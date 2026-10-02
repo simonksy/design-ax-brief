@@ -5819,6 +5819,72 @@
           "x": "Adelantar la reactividad cruzada y la especificidad, pasando de ser un resultado del cribado a convertirse en un objetivo de diseño, amplía el rango de comportamientos de unión que el diseño computacional puede producir, concluyen los investigadores."
         }
       ]
+    },
+    "science/science-pathology-o3-h4k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/kuy7t9RKYDT4sN76GeXhNM-1200-80.jpg",
+          "cap": "En un nuevo estudio, los investigadores entrenaron una IA para que recorriera muestras de tejido de forma similar a un patólogo humano. (Nicola Tree via Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Una IA que busca cáncer también detecta mejor cuando recorre la muestra como lo haría un patólogo humano."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, la IA solía mirar solo zonas preseleccionadas o leer la muestra dividida en fragmentos de tamaño fijo. Los patólogos no trabajan así. Recorren el tejido alternando acercamientos y alejamientos, y se detienen donde algo resulta sospechoso. Una sola muestra puede contener miles de millones de píxeles, pero la evidencia del cáncer puede estar en una fracción minúscula de ella."
+        },
+        {
+          "t": "p",
+          "x": "Zhi Huang, coautor del estudio y profesor asistente de patología y medicina de laboratorio en la Universidad de Pensilvania, comparó el proceso con un helicóptero de búsqueda y rescate. “No se empieza mirando un metro cuadrado de terreno”, dijo a Live Science. Primero se recorre el terreno y luego se desciende para mirar de cerca. Un estudio publicado en julio en Nature Biomedical Engineering mostró que ese método funciona."
+        },
+        {
+          "t": "p",
+          "x": "Ese primer recorrido es justamente donde fallan los modelos de visión y lenguaje (VLM), porque la mayoría de las IA de patología aprenden a partir de lo que queda después de la búsqueda: una imagen que marca la ubicación del cáncer o el diagnóstico final."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores usaron en cambio el propio comportamiento de búsqueda del patólogo como datos de entrenamiento. Llamaron a este método “Pathology-CoT”, por cadena de pensamiento, y convirtieron en datos adónde se movía la pantalla y dónde se hacía zoom."
+        },
+        {
+          "t": "p",
+          "x": "Una herramienta específica registró cómo ocho patólogos se desplazaban por las muestras y cambiaban el aumento. Los registros originales eran desordenados, con tramos en los que se pasaban del punto objetivo o manipulaban el aumento sin un propósito claro. Los investigadores eliminaron esos movimientos, conservaron solo los tramos donde se percibía una intención y los cotejaron con datos de seguimiento ocular."
+        },
+        {
+          "t": "p",
+          "x": "Por cada zona que examinaba un patólogo, el VLM escribía una breve justificación de por qué merecía atención. Que una persona la aceptara, la corrigiera o la rechazara también se convertía en datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta resultante es Pathology-o3. Recorre la muestra en baja resolución, el modelo entrenado con el comportamiento de los patólogos elige las zonas que merecen una mirada más detallada y solo esas zonas se envían al VLM en alta resolución."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vCAiBonjTBy3wTUBebcsS-1200-80.jpg",
+          "cap": "Pathology-CoT enseña al algoritmo a recorrer toda la muestra y luego volver a las zonas de interés para observarlas de cerca."
+        },
+        {
+          "t": "p",
+          "x": "La validación se hizo con muestras de tejido de ganglios linfáticos de casos de cáncer de colon. Pathology-o3 identificó correctamente el 100% de las muestras positivas de cáncer. A cambio, el 15,5% de las que marcó como positivas resultaron en realidad negativas. En la misma prueba, OpenAI o3 identificó correctamente el 87,5% de las muestras positivas, y el 53,3% de las que marcó como positivas eran negativas."
+        },
+        {
+          "t": "p",
+          "x": "Huang explicó que el sistema se diseñó para favorecer una segunda mirada antes que un cáncer pasado por alto, y que los falsos positivos son el precio de esa decisión. Mohammad Asadi, científico de datos de la Universidad de Stanford que no participó en la investigación, consideró que aceptar ese nivel de falsas alarmas depende del uso que se le dé. No tiene la precisión necesaria para diagnosticar por sí sola, pero sí es útil para señalar zonas que merecen una segunda revisión."
+        },
+        {
+          "t": "p",
+          "x": "Al someterla de nuevo a prueba con datos externos que nunca había visto, la tasa de aciertos positivos fue del 97,6%, y el 37,1% de las muestras marcadas como positivas eran negativas. Incluso para la misma tarea médica, el rendimiento varía cuando cambia el origen de los datos."
+        },
+        {
+          "t": "p",
+          "x": "Al aplicar el mismo método de entrenamiento a varios VLM existentes, el rendimiento mejoró en todos ellos, el resultado que Huang considera más importante. “Lo esencial no es nuestro sistema”, dijo. “El ingrediente que faltaba estuvo siempre dentro de los hospitales.”"
+        },
+        {
+          "t": "p",
+          "x": "No se hizo una comparación directa con patólogos humanos. Huang dijo: “Si supera a los patólogos no es la pregunta correcta. La pregunta es si, cuando los patólogos la usan junto con su propio criterio, detectan más casos y trabajan más rápido.” El siguiente experimento está diseñado para medir esa diferencia."
+        }
+      ]
     }
   }
 }

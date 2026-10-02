@@ -6093,6 +6093,72 @@
           "x": "Moving cross-reactivity and specificity upstream, from a screening outcome to a design objective, widens the range of binding behaviors that computational design can produce, the researchers conclude."
         }
       ]
+    },
+    "science/science-pathology-o3-h4k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/kuy7t9RKYDT4sN76GeXhNM-1200-80.jpg",
+          "cap": "In a new study, researchers trained an AI to scan tissue slides the way a human pathologist does. (Nicola Tree via Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "An AI hunting for cancer does better when it scans a slide the way a human pathologist does."
+        },
+        {
+          "t": "p",
+          "x": "Until now, AI has mostly looked only at preselected regions or read a slide in fixed-size tiles. Pathologists don't work that way. They scan across the tissue, zooming in and out, pausing wherever something looks suspicious. A single slide can hold billions of pixels, but the evidence of cancer may sit in only a tiny fraction of it."
+        },
+        {
+          "t": "p",
+          "x": "Study co-author Zhi Huang, an assistant professor of pathology and laboratory medicine at the University of Pennsylvania, compared the process to a search-and-rescue helicopter. “You don't start by looking at one square meter of ground,” he told Live Science. You scan the terrain first, then swoop down for a closer look. A study published in July in Nature Biomedical Engineering showed that approach works."
+        },
+        {
+          "t": "p",
+          "x": "That initial scan is exactly where vision-language models (VLMs) get stuck, because most pathology AI learns from what's left after the search is done — an image marking the cancer's location or a final diagnosis."
+        },
+        {
+          "t": "p",
+          "x": "The researchers instead turned the pathologist's search behavior itself into training data. They called the approach “Pathology-CoT,” for chain of thought, turning where the view moved and where it zoomed in into data in its own right."
+        },
+        {
+          "t": "p",
+          "x": "A dedicated tool recorded how eight pathologists moved around slides and changed magnification. The raw logs were messy, mixed with overshoots past a target spot and idle fiddling with the zoom. The researchers stripped out that noise, kept only the moments that showed clear intent, and checked them against eye-tracking data."
+        },
+        {
+          "t": "p",
+          "x": "For every region a pathologist examined, a VLM wrote a short rationale for why it was worth looking at. Whether a human accepted, corrected, or rejected that rationale also became training data."
+        },
+        {
+          "t": "p",
+          "x": "The resulting tool is Pathology-o3. It scans a slide at low resolution, then a model trained on pathologist behavior picks the regions worth a closer look and passes only those regions to the VLM at high resolution."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vCAiBonjTBy3wTUBebcsS-1200-80.jpg",
+          "cap": "Pathology-CoT teaches the algorithm to scan the whole slide, then return to regions of interest for a closer look."
+        },
+        {
+          "t": "p",
+          "x": "Validation used lymph node tissue slides from colon cancer cases. Pathology-o3 correctly identified 100% of cancer-positive slides. In exchange, 15.5% of the slides it flagged as positive were actually negative. In the same test, OpenAI o3 correctly identified 87.5% of positive slides, and 53.3% of the slides it flagged as positive were negative."
+        },
+        {
+          "t": "p",
+          "x": "Huang explained that the system was designed to make a second look more likely than a missed cancer, and false positives are the price of that choice. Mohammad Asadi, a Stanford data scientist who was not involved in the research, said whether that rate of false alarms is acceptable depends on the use case. It isn't precise enough to diagnose on its own, but it is useful for flagging regions that deserve another look."
+        },
+        {
+          "t": "p",
+          "x": "When tested again on external data it had never seen, the positive hit rate was 97.6%, and 37.1% of the slides it flagged as positive were negative. Even on the same medical task, performance shifts when the data source changes."
+        },
+        {
+          "t": "p",
+          "x": "Applying the same training method to several existing VLMs improved every one of them — the result Huang considers most important. “The point isn't our system,” he said. “The missing ingredient was inside hospitals all along.”"
+        },
+        {
+          "t": "p",
+          "x": "The researchers did not run a direct head-to-head comparison with human pathologists. “Whether it beats pathologists isn't the right question,” Huang said. “The question is whether pathologists catch more and work faster when they use it alongside their own judgment.” The next experiment is designed to measure that difference."
+        }
+      ]
     }
   }
 }

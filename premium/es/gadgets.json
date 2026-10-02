@@ -6159,6 +6159,114 @@
           "cap": "El horario de sesiones de Meta Connect 2026"
         }
       ]
+    },
+    "gadgets/gadgets-ai-agent-home-hack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aa092c74e574542e273c50f/191:100/w_1280,c_limit/AI-Lab-Hacked-Gadgets-on-Home-Network-Business.jpg",
+          "cap": "Photo-Illustration: WIRED Staff; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de IA de vanguardia han mejorado mucho su capacidad en seguridad en los últimos meses. Encuentran días cero en bases de código enormes y rastrean las vulnerabilidades de un ordenador en un instante. Incluso ha habido casos de agentes de seguridad que se coordinan entre sí para entrar en sistemas externos."
+        },
+        {
+          "t": "p",
+          "x": "Con ganas de verlo de cerca, solté uno en la red de mi casa. Durante varios días, este agente indisciplinado encontró vulnerabilidades en los dispositivos del hogar, entró en un PC y confirmó que los proyectos que había hecho con vibe coding estaban llenos de errores. Mi mujer puso los ojos en blanco cada vez que me jactaba de haber encontrado una nueva vulnerabilidad."
+        },
+        {
+          "t": "p",
+          "x": "¿Que entregarle la red de tu casa a un agente de seguridad todopoderoso es una locura? Tiene razón. Aun así, el escenario de seguridad que tenemos delante solo se entiende yendo uno mismo. El resultado tuvo, de forma inesperada, algo tranquilizador. Puede que la mejor defensa contra el hackeo con IA sea tener tu propio hacker de IA."
+        },
+        {
+          "t": "p",
+          "x": "El experimento empezó con Abliteration AI, una startup que vende modelos potentes con las barreras quitadas. Si se localizan y se modifican, en los parámetros internos de un modelo de pesos abiertos, los patrones que llevan al rechazo, las restricciones desaparecen. A este proceso lo llaman abliteration."
+        },
+        {
+          "t": "p",
+          "x": "Quitar las barreras no es poco frecuente. El mundo académico usa modelos desalineados para examinar cómo funciona la IA, y las empresas de seguridad los usan para poner a prueba sistemas. El modelo principal de Abliteration AI es una variante de GLM 5.3, el último modelo de programación agéntica de Z.ai. Por el precio de una pizza, se obtiene una capacidad equiparable a Mythos de Anthropic o Astra de OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "El CEO, Devon, cree que difundir ampliamente estos modelos es en realidad la defensa más inteligente. “Desde aerolíneas hasta bancos, las empresas de infraestructura crítica están adoptando agentes a un ritmo frenético. ¿Cómo se garantiza que un actor malicioso no pueda usar esos agentes para hacer daño?”"
+        },
+        {
+          "t": "p",
+          "x": "Creé una cuenta e instalé un arnés llamado CyberStrike. Al pedirle al GLM-5.3 desalineado que examinara la red local, encontró en cuestión de minutos una docena de dispositivos de hardware y elaboró una lista de vulnerabilidades. La impresora estaba mal configurada, de modo que cualquiera en la red podía iniciar sesión. El equipo de sonido Wiim filtraba información sin parar; incluso averiguó que la última canción reproducida había sido Rein Me In, de Sam Fender y Olivia Dean."
+        },
+        {
+          "t": "p",
+          "x": "Un agente sin restricciones le resultaría útil a un hacker, pero a mí me dejó consejos aprovechables. Además de actualizar el firmware y bloquear la impresora, recomendó sacar los dispositivos IoT, como los altavoces inteligentes, a una red de invitados. No está mal para un modelo sin moral alguna. En mis carpetas de vibe coding detectó decenas de problemas, incluidas credenciales de API sin proteger."
+        },
+        {
+          "t": "p",
+          "x": "También hubo un momento inquietante. Al pedirle que intentara iniciar sesión en una máquina Linux, dedujo un nombre de usuario válido a partir de los nombres de otros sistemas. Cuando dijo que iba a escribir un script de fuerza bruta, le dije que se detuviera. Entonces encontró una clave criptográfica, inició sesión sin contraseña y empezó a buscar contraseñas para obtener privilegios de root. Verlo rebuscar entre directorios me dejó un escalofrío."
+        },
+        {
+          "t": "p",
+          "x": "Shaanan Cohney, de la Universidad de Tufts, cree que se acerca un día de ajuste de cuentas. “Los atacantes suelen ser early adopters. Para defender un castillo no puede haber ni un agujero en la pared, ni un ladrillo suelto. Para tomarlo, basta con encontrar ese único ladrillo suelto.” Aleksander Mądry, profesor del MIT actualmente en excedencia trabajando en OpenAI, dice que hay que ayudar a la gente a usar estas capacidades, aunque añade que lo crucial es asegurarse de que quienes operan centrales eléctricas o mercados financieros cuenten con una IA más fuerte que la de un script kiddie cualquiera."
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-robot-dog": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
+          "cap": "El Unitree Go2 Pro que llevé a la oficina"
+        },
+        {
+          "t": "p",
+          "x": "En una clara mañana de junio, caminé al trabajo con el robot de cuatro patas a mi lado. Nunca había atraído tantas miradas. La gente le tomaba fotos, preguntaba si lo había construido yo mismo y quería saber si era para vigilancia. Los perros de verdad mantenían la distancia y gruñían."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos millas desde mi casa en Mount Pleasant, Washington DC, hasta mi oficina cerca de la Casa Blanca. El trayecto es cuesta abajo, así que la batería aguantó bien. El problema fue el regreso. Cuesta arriba, con la temperatura subiendo a 87°F (30°C), sus pasos se volvieron visiblemente más pesados. Con mi casa ya a la vista, la batería marcó 5% y la temperatura interna llegó a 84°C (183°F), y el robot simplemente se sentó. Ni siquiera se apagó con elegancia: se volcó con las patas levantadas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-640x480.jpg",
+          "cap": "El perro robot caído a pocos pasos de casa"
+        },
+        {
+          "t": "p",
+          "x": "Mucha gente preguntaba para qué sirve, y la verdad es que para poco. Los robots con ruedas son más rápidos para entregas y los drones son mejores para levantamientos. Sin brazos, tampoco puede hacer tareas domésticas. A cambio, su precio es sorprendentemente bajo: 4.017 dólares con aranceles y envío incluidos."
+        },
+        {
+          "t": "p",
+          "x": "El roboticista de la Universidad George Mason Xuesu Xiao lo dijo así: “Hace diez años, muy pocos grupos investigaban la locomoción cuadrúpeda, porque eran los únicos que sabían construir el hardware. Con la llegada de Unitree, la investigación cuadrúpeda se democratizó por completo.” Los robots cuadrúpedos de su laboratorio cuestan 15.000 dólares cada uno, mientras que Spot, de Boston Dynamics, considerado líder de la industria, parte de 75.000 dólares."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image1-640x480.jpg",
+          "cap": "El profesor Xuesu Xiao frente a un robot cuadrúpedo de Unitree en su laboratorio"
+        },
+        {
+          "t": "p",
+          "x": "El fundador Wang Xingxing construyó un tosco robot cuadrúpedo llamado XDog como tesis de maestría en la Universidad de Shanghái. “Marc Raibert, de Boston Dynamics, es mi ídolo,” dijo en una entrevista con IEEE Spectrum en marzo de 2016. Unitree, fundada ese mismo mayo, lanzó después Laikago (2017) y AlienGo (2019), y luego el Go1 por 2.700 dólares en 2021, y el Go2 por 1.600 dólares (Air) y 2.800 dólares (Pro) en 2023."
+        },
+        {
+          "t": "video",
+          "yt": "HN-XBQRHXqM"
+        },
+        {
+          "t": "p",
+          "x": "¿Por qué es tan barato? Cuando Simplexity desarmó un Go2, encontró tres motores por pata, 12 en total, todos con la misma especificación. “Usan el mismo motor en todas partes. Eso reduce tanto el costo como el número de piezas, y el diseño resulta más resistente,” dijo el ingeniero mecánico Luis Elenes. Una pata se puede cambiar en menos de un minuto. Jakub Bartoszek, de MAB Robotics, cree que el uso de componentes de menor calidad también ayuda a bajar el costo. Las deducciones fiscales del gobierno chino y las compras masivas de instituciones públicas también presionaron los precios a la baja."
+        },
+        {
+          "t": "p",
+          "x": "La elección del reductor también es distinta. Los motores de las patas de Spot van emparejados con un reductor de 51:1, preciso pero caro y rígido. Unitree, en cambio, empareja un motor más grande con solo una caja de engranajes de 6,33:1. El costo baja y el movimiento se vuelve más ágil."
+        },
+        {
+          "t": "p",
+          "x": "Los cuadrúpedos fueron solo el punto de partida. El H1 llegó en 2023 y el G1 al año siguiente. La versión de investigación EDU cuesta alrededor de 50.000 dólares, mientras que la versión de consumo parte de 13.500 dólares. El Go2 funciona con 12 motores, mientras que el G1 más económico usa 23. Según los documentos de salida a bolsa de agosto, los ingresos por cuadrúpedos subieron de 230 millones de yuanes (34 millones de dólares) en 2024 a 697 millones de yuanes (104 millones de dólares) en 2025, y los de humanoides saltaron de 107 millones de yuanes (16 millones de dólares) a 867 millones de yuanes (129 millones de dólares)."
+        },
+        {
+          "t": "p",
+          "x": "El 19 de agosto, en su debut en la bolsa de Shanghái, el precio de la acción subió más de cinco veces, y al cierre del lunes la empresa estaba valorada en 34.000 millones de dólares. SemiAnalysis compara a Unitree con DJI. Estados Unidos, por su parte, se inclina por cerrar la puerta: en junio, un proyecto de ley bipartidista de la Cámara nombró a Unitree específicamente al proponer restricciones a la importación de robots chinos, y en julio la FCC impuso normas sobre robots de fabricación extranjera. El cierre podría, en cambio, empujar a Estados Unidos a los márgenes de la robótica."
+        }
+      ]
     }
   }
 }

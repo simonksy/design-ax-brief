@@ -6143,6 +6143,114 @@
           "cap": "The Meta Connect 2026 session schedule"
         }
       ]
+    },
+    "gadgets/gadgets-ai-agent-home-hack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6aa092c74e574542e273c50f/191:100/w_1280,c_limit/AI-Lab-Hacked-Gadgets-on-Home-Network-Business.jpg",
+          "cap": "Photo-Illustration: WIRED Staff; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Frontier AI models have made big gains in security capability over the past few months. They find zero-days in massive codebases and scan a computer's vulnerabilities in no time. There have even been cases of security agents colluding with each other to break into outside systems."
+        },
+        {
+          "t": "p",
+          "x": "Wanting a closer look, I turned one loose on my home network. Over a few days, this unruly agent found vulnerabilities in household devices, broke into one PC, and confirmed that the projects I'd made through vibe coding were riddled with bugs. My wife rolled her eyes every time I bragged about a new vulnerability I'd found."
+        },
+        {
+          "t": "p",
+          "x": "Handing your home network over to an all-powerful security agent is insane, right? That's a fair point. Still, you can't really grasp the security hellscape in front of you without going there yourself. The result was, unexpectedly, somewhat reassuring in places. The best defense against AI hacking might be having your own AI hacker."
+        },
+        {
+          "t": "p",
+          "x": "The experiment started with Abliteration AI, a startup that sells powerful models with their guardrails removed. If you find and tweak the internal parameters of an open-weight model that lead to refusals, the restrictions disappear. This process is called abliteration."
+        },
+        {
+          "t": "p",
+          "x": "Removing guardrails isn't rare. Academics use misaligned models to dig into how AI works, and security firms use them to probe systems. Abliteration AI's top model is a variant of Z.ai's latest agentic coding model, GLM 5.3. For the price of a pizza, you get capability on par with Anthropic's Mythos or OpenAI's Astra."
+        },
+        {
+          "t": "p",
+          "x": "CEO Devon believes pushing these models out widely is actually the smarter defense. \"From airlines to banks, critical infrastructure companies are adopting agents like crazy. How do you make sure bad actors can't use those agents for harm?\""
+        },
+        {
+          "t": "p",
+          "x": "I created an account and installed a harness called CyberStrike. When I told the misaligned GLM-5.3 to look at my local network, it found about a dozen pieces of hardware and pulled up a list of vulnerabilities within minutes. The printer was misconfigured so that anyone on the network could log in. The Wiim stereo leaked information freely; it even figured out that the last song played was Rein Me In by Sam Fender and Olivia Dean."
+        },
+        {
+          "t": "p",
+          "x": "An unleashed agent would be useful to a hacker, but it left me with some solid advice too. Beyond updating firmware and locking down the printer, it recommended moving IoT devices like smart speakers onto a guest network. Not bad for a model with no morals at all. In my vibe-coding folders, it caught dozens of issues, including unprotected API credentials."
+        },
+        {
+          "t": "p",
+          "x": "There was a scary part too. When I told it to try logging into a Linux machine, it inferred a valid username based on the names of other systems. When it said it would write a brute-force script, I told it to stop. It then found a cryptographic key, logged in without a password, and started digging for passwords to gain root access. Watching it rifle through directories sent a chill down my spine."
+        },
+        {
+          "t": "p",
+          "x": "Shaanan Cohney of Tufts University thinks a day of reckoning is coming. \"Attackers tend to be early adopters. To defend a castle, you need zero holes in the wall, not even one loose brick. To take the castle, you only need to find that one loose brick.\" Aleksander Mądry, an MIT professor currently on leave working at OpenAI, says we need to help people use these capabilities. But he added that the real issue is making sure the people running power plants or financial markets end up with AI stronger than the average script kiddie's."
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-robot-dog": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
+          "cap": "The Unitree Go2 Pro I brought to the office"
+        },
+        {
+          "t": "p",
+          "x": "On a clear June morning, I walked to work with the four-legged robot beside me. I had never drawn so many stares. People took photos, asked if I had built it myself, and pressed me about whether it was for surveillance. Real dogs kept their distance and growled."
+        },
+        {
+          "t": "p",
+          "x": "It's two miles from my home in Mount Pleasant, Washington DC, to my office near the White House. The route is downhill, so the battery held up fine. The trip home was the problem. Going uphill as the temperature climbed to 87°F (30°C), its steps grew noticeably heavier. With my house in sight, the battery hit 5% and the internal temperature hit 84°C (183°F), and it simply sat down. It didn't power off gracefully either—it flipped over with its legs still raised."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-640x480.jpg",
+          "cap": "The robot dog collapsed a few steps from home"
+        },
+        {
+          "t": "p",
+          "x": "Plenty of people asked what it's actually good for, and honestly, not much. Wheeled robots are faster for deliveries, drones are better for surveying, and without arms it can't do housework. What it has instead is a startlingly low price: $4,017 including tariffs and shipping."
+        },
+        {
+          "t": "p",
+          "x": "George Mason University roboticist Xuesu Xiao put it this way: “Ten years ago, only a handful of groups were working on quadruped locomotion, because they were the only ones who knew how to build the hardware themselves. Unitree coming in democratized quadruped research across the board.” The quadruped robots in his lab cost $15,000 apiece, while Boston Dynamics's Spot, long considered the industry leader, starts at $75,000."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image1-640x480.jpg",
+          "cap": "Professor Xuesu Xiao standing in front of a Unitree quadruped robot in his lab"
+        },
+        {
+          "t": "p",
+          "x": "Founder Wang Xingxing built a crude quadruped called XDog as his master's thesis at Shanghai University. “Boston Dynamics's Marc Raibert is my idol,” he said in a March 2016 interview with IEEE Spectrum. Unitree, which he founded that May, went on to release Laikago (2017) and AlienGo (2019), then Go1 for $2,700 in 2021, and Go2 for $1,600 (Air) and $2,800 (Pro) in 2023."
+        },
+        {
+          "t": "video",
+          "yt": "HN-XBQRHXqM"
+        },
+        {
+          "t": "p",
+          "x": "Why is it so cheap? When Simplexity tore down a Go2, they found three motors per leg—12 in total—all the same spec. “They use the same motor everywhere. It cuts both cost and part count, and the design ends up sturdier for it,” said mechanical engineer Luis Elenes. A leg can be swapped out in under a minute. Jakub Bartoszek of MAB Robotics credits much of the savings to the use of lower-quality components. Chinese government tax credits and bulk purchases by public institutions also pushed costs down."
+        },
+        {
+          "t": "p",
+          "x": "The choice of reducer is also different. Spot's leg motors pair with a 51:1 reducer, which is precise but expensive and stiff. Unitree instead pairs a larger motor with just a 6.33:1 gearbox. The cost comes down and the movement becomes more agile."
+        },
+        {
+          "t": "p",
+          "x": "The quadrupeds were a stepping stone. H1 came in 2023, followed by G1 the next year. The research-grade EDU runs around $50,000, while the consumer version starts at $13,500. Go2 runs on 12 motors, while the cheapest G1 uses 23. According to August listing documents, quadruped revenue rose from 230 million yuan ($34 million) in 2024 to 697 million yuan ($104 million) in 2025, while humanoid revenue jumped from 107 million yuan ($16 million) to 867 million yuan ($129 million)."
+        },
+        {
+          "t": "p",
+          "x": "On its first day trading in Shanghai on August 19, the stock price rose more than fivefold, and the company's valuation stood at $34 billion as of Monday's close. SemiAnalysis compares Unitree to DJI. The US, meanwhile, is leaning toward shutting the door: a bipartisan House bill in June named Unitree specifically in proposing restrictions on importing Chinese robots, and in July the FCC imposed rules on foreign-made robots. The lockout could end up pushing the US to the margins of robotics instead."
+        }
+      ]
     }
   }
 }

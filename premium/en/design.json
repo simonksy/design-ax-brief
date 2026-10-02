@@ -6218,6 +6218,208 @@
           "x": "This announcement builds on the direct Morpholio Trace integration added in Vectorworks 2026 Update 5, a feature that links hand-drawn sketches on an iPad straight into Vectorworks design files and drawings. Trace for Business is available through the Vectorworks customer portal, while individual subscribers continue to use Morpholio Trace through the App Store."
         }
       ]
+    },
+    "design/design-blender-hair-rig": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anyone who's worked with stylized 3D characters knows how tedious it is to place hair bones one by one during rigging. A new Blender tool featured by 80 Level cuts that step out."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/50123/images/6aa16cd8a1256/contain_1200x630.jpg",
+          "cap": "Deform bone chains generated automatically along hair strands"
+        },
+        {
+          "t": "video",
+          "yt": "LqR3rwRd6Zs"
+        },
+        {
+          "t": "p",
+          "x": "The tool automatically builds a bone chain from the selected hair tip point. You can also choose whether the bones follow the curve of the hair strand or extend in a straight line."
+        },
+        {
+          "t": "p",
+          "x": "For finer control, you can set the hair tip and hair root markers yourself. Values like bone count, the length of hair the bones cover, root depth, and direction are all adjustable."
+        },
+        {
+          "t": "p",
+          "x": "Support isn't narrow, either. It handles open hair cards, closed or tube-shaped hair, and cases where multiple strands are selected at once."
+        },
+        {
+          "t": "p",
+          "x": "Using it requires Blender 4.5 LTS or later. The generator is fully self-contained inside Blender and needs no external dependencies or network access. It's available for download on the Blender Extensions platform."
+        },
+        {
+          "t": "p",
+          "x": "If you want to dig further into hair, Draw-Hair is worth a look too. It's a free tool for drawing hair curves directly in the Blender viewport, following the shape of a guide mesh."
+        },
+        {
+          "t": "p",
+          "x": "For body-and-clothing interpenetration issues, ShellFit is useful. A similar free alternative, Proximity Snap, is more focused on modeling and sees broader use across different tasks."
+        }
+      ]
+    },
+    "design/design-imagined-speaker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A brand archetype creates a single personality. Seen from a distance, that's exactly the picture you want, because every touchpoint feels like the same brand. The problem is that the distance an archetype carries you is shorter than expected once you're the person who has to turn that personality into UX copy."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/09/What-to-do-when-brand-archetypes-dont-help-you-write-UX-copy.jpg",
+          "cap": "When brand archetypes don't help you write UX copy"
+        },
+        {
+          "t": "p",
+          "x": "That's because archetypes are categories by design. You pick a category, like Explorer, and apply it across the whole brand. A category is a type of person, not a person, and a type doesn't talk. People talk."
+        },
+        {
+          "t": "p",
+          "x": "That's not to say archetypes are wrong. Pairing a brand archetype with a user persona to set voice and tone is a common approach, and the two answer different questions: who we are, and who's on the other side of the screen. But one question remains: what should the brand say right now?"
+        },
+        {
+          "t": "p",
+          "x": "Say the archetype is Caregiver, and the persona is a first-time buyer worried about being scammed. When it's time to write checkout-flow copy, you get stuck. How would a Caregiver reassure this person in this situation? Personality types have many shades, so one person leans toward soothing, another toward practical guidance."
+        },
+        {
+          "t": "p",
+          "x": "The author closes this gap with a method shared by Vitaly Friedman. Before writing copy, picture one real person speaking to the user. The question narrows from “Does this sound like a Caregiver” to “How would this person say it?”"
+        },
+        {
+          "t": "p",
+          "x": "There's no need to invent a speaker from scratch. Bring in someone you already know, like a friend who stays calm under pressure or a mentor who's naturally warm, and write through that person. The requirement is drawing them specifically enough that you can hear their voice."
+        },
+        {
+          "t": "p",
+          "x": "The example is MealPlan, an app for planning weekly meals and managing nutrition goals. The archetype is Caregiver, and the speaker is Sarah, a nurse who calmly reassures an anxious patient. Sarah doesn't rush, avoids jargon, and explains the steps before asking for action."
+        },
+        {
+          "t": "p",
+          "x": "In onboarding, Sarah opens with “Welcome to MealPlan” and says personalized meal plans will make healthy eating a little easier. When she asks for personal information, she states up front why it's needed and how it will be used. If a card is declined, she explains what happened, then offers a path to try again or choose another method, side by side."
+        },
+        {
+          "t": "p",
+          "x": "Sarah's voice stays the same across all three scenes. What changes is the tone: welcoming, transparent, and reassuring, matched to the user's emotional state. Write through the speaker, and the tone follows on its own."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/09/imagined-speaker-UX-copy-technique-vitaly-friedman.png",
+          "cap": "A workshop that fills in the imagined speaker's personality together"
+        },
+        {
+          "t": "p",
+          "x": "For a team, make the speaker a shared asset. In a workshop, choose the speaker together and fill in background, personality, communication style, values, and habits on sticky notes so everyone holds a similar picture. “Nurse Sarah” leaves far less room for interpretation than “Caregiver.”"
+        },
+        {
+          "t": "p",
+          "x": "This speaker carries straight over into AI output, too. Instead of a vague prompt, describe who Sarah is and instruct the tool to write as her. You can also feed a content style guide and brand documents in together and embed them in a custom GPT."
+        }
+      ]
+    },
+    "design/design-steamvr-update": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Valve has rolled out a fairly significant update to SteamVR. It reads as a sign that the launch of the long-awaited standalone VR headset, Steam Frame, is getting close."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg",
+          "cap": "Steam Frame | Courtesy Valve"
+        },
+        {
+          "t": "p",
+          "x": "Update, September 11, 2026: The SteamVR 2.17 update, which had stayed in beta, has now rolled out to all users. The full list of changes is available in the changelog Valve posted."
+        },
+        {
+          "t": "p",
+          "x": "Original story (July 18, 2026): This update brings some of Steam's standard features over to SteamVR. Thanks to the new UI for the SteamVR dashboard, the whole runtime looks to be moving toward a user experience better suited to VR."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/07/steamvr-frame-update.jpg",
+          "cap": "The new SteamVR dashboard | Courtesy Valve"
+        },
+        {
+          "t": "p",
+          "x": "According to the patch notes, users who opt into the Steam Client Beta get a far more useful dashboard. Steam Deck-style Quick Access controls arrive, and the path to achievements, guides, and notes gets shorter."
+        },
+        {
+          "t": "p",
+          "x": "Valve said it also improved overlay management, battery information, and brightness controls to boost usability."
+        },
+        {
+          "t": "p",
+          "x": "For anyone who's been waiting years, this update feels like it's finally turned a corner. Ahead of launch, Valve has brought large numbers of Steam Frame headsets into the US, and is now finally tightening up the long-neglected SteamVR UI to a commercial standard."
+        },
+        {
+          "t": "p",
+          "x": "A “Great on Frame” page has also recently gone live alongside this. The list of optimized VR and non-VR games guaranteed to work on Steam Frame keeps growing."
+        },
+        {
+          "t": "p",
+          "x": "The two things people actually want to know, price and an exact release date, still aren't here. Going by the Steam Machine, which launched last month at $1,050, far higher than expected, Steam Frame is likely to balloon in price similarly, due to the global RAM and storage shortage currently underway."
+        }
+      ]
+    },
+    "design/design-ux-roi-case": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+          "cap": "Building A UX ROI Case That Survives The Boardroom"
+        },
+        {
+          "t": "p",
+          "x": "There comes a moment when a CFO looks at a wireframe and asks, “What does this do for the numbers?” A storyboard won't answer that, and the days when a five-minute pitch worked are over. Alex Williams writes that to win budget, design has to prove it's good for the business, not just the user."
+        },
+        {
+          "t": "p",
+          "x": "Instead of scattering tips, the piece carries a single case all the way through. Meridian, a mid-size B2B SaaS company, is entirely fictional, and the same numbers for one onboarding redesign follow through from setting goals, to cost calculation, to causal validation, to final ROI."
+        },
+        {
+          "t": "p",
+          "x": "The starting point was a lack of goals. “Improve new users' adaptation rate to the platform” can't be designed or measured. Interviews across departments surfaced the real shape of the problem: a median of 14 days before trial users saw first value, most churned before that, and onboarding questions were filling up the support queue."
+        },
+        {
+          "t": "p",
+          "x": "The resulting OKR was to cut the median time-to-first-value from 14 days to 7 with a guided setup flow, and raise trial-to-paid conversion from 8% to 9.5%. The KPIs weren't set by the UX team alone, but built together with whoever was accountable for the results."
+        },
+        {
+          "t": "p",
+          "x": "ROI has a denominator, and that's where UX teams usually get it wrong. Design and research labor: $45,000. Tools and participant incentives: $8,000. Two front-end sprints plus QA: $38,000. Coordination overhead: $4,000."
+        },
+        {
+          "t": "p",
+          "x": "The item almost everyone leaves out is stakeholder time. Logging the hours pulled into workshops and reviews by attendee, time, and seniority, then converting that into cost including salary and benefits, came to $22,000 for the quarter. Total: $117,000."
+        },
+        {
+          "t": "p",
+          "x": "Next, causality. Over eight weeks, half of new trial signups got the new guided setup, half got the existing flow. The control group converted at 8.0%, the test group at 9.4%, on a sample of about 6,100."
+        },
+        {
+          "t": "p",
+          "x": "Weeks five through eight overlapped with the marketing team's pricing-page test. The team noted this, confirmed it had reached both groups evenly, and still attributed only 70% of the lift to the redesign. Deciding that before the results come in, and leaving a paper trail, is what earns credibility in the boardroom."
+        },
+        {
+          "t": "p",
+          "x": "Leading and lagging indicators go on the same slide. Setup completion rate moved from 62% to 89%, and median time-to-first-value from 14 days to 6.5, before the conversion rate followed."
+        },
+        {
+          "t": "p",
+          "x": "The math closes like this. On 40,000 annual trials, raising conversion from 8.0% to 9.4% adds about 560 paying customers, and multiplying by $1,800 in annual recurring revenue per account gives roughly $1,008,000 in new ARR. Applying 70% attribution brings the defensible figure down to about $706,000."
+        },
+        {
+          "t": "p",
+          "x": "Set against $117,000, first-year ROI lands around 5:1, with a payback period of about two months. Onboarding-related support tickets dropped nearly 30%, to 3,600 a year, adding $54,000 separately at $15 per resolved ticket. That line reads more honestly kept apart rather than folded in."
+        },
+        {
+          "t": "p",
+          "x": "Three assumptions are noted alongside the results. The 40,000 and $1,800 figures hold last year's performance steady, the 70% is an illustrative assumption rather than a measurement, and the two-month payback stretches to a quarter once viewed as a net figure after churn. There's also a side that doesn't convert to money: trial users who got the new onboarding had an NPS of 51, versus 34 for the existing flow."
+        }
+      ]
     }
   }
 }

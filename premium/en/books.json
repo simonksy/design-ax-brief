@@ -5092,6 +5092,227 @@
           "x": "Christie Henry, CEO of Princeton University Press, has stopped expecting much. “Are we optimistic that we'll be invited to the negotiating table? No.” Still, the worst predictions haven't come true. “People forget that we still have agency. We can choose what to put out, we can choose what to buy, and most importantly, we can choose what to read.”"
         }
       ]
+    },
+    "books/books-fake-citations": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The New Mexico Supreme Court held a lawyer in contempt of court for filing a brief written with ChatGPT. The brief contained “false testimony from entirely fabricated witnesses,” along with statements attributed to police officers who don't exist. Referring him to the disciplinary board, the court wrote that he showed “no sign of remorse, and no concern for his client.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
+          "cap": "The ChatGPT icon displayed on a smartphone screen"
+        },
+        {
+          "t": "p",
+          "x": "The lawyer is Stephen Aarons, who has practiced criminal defense in New Mexico for more than 40 years. He was hired by the family of Oscar Renee Sandoval, a murder defendant, to handle his appeal. Sandoval was sentenced to life in prison in February 2025 for killing Shiereen Al-Jibury, his partner and the mother of his children."
+        },
+        {
+          "t": "p",
+          "x": "Aarons filed the brief in question in August 2025, and weeks later the state prosecutor's office moved to strike parts of it. According to the court's order issued Wednesday, Aarons admitted he signed and filed the AI-generated brief without checking its factual claims or legal citations, and did not tell his client he had done so."
+        },
+        {
+          "t": "p",
+          "x": "The fabricated witnesses were Officer Michelle Amarillo, Officer Sanchez, Manal Al-Jibury, and Teresa Marquez. Testimony that Danny Stanton had been threatened, that Linda Stanton's husband had been threatened, and that Mariah Chavez and Teresa Marquez described the shooter's clothing and appearance were all fabricated as well. The case-law citations also misstated their legal holdings."
+        },
+        {
+          "t": "p",
+          "x": "Several lawyers have already been caught citing fake case law. Aarons was different. The cases he cited were real; he misdescribed what they held and brought in testimony that never existed."
+        },
+        {
+          "t": "p",
+          "x": "At an August 21 hearing, Aarons said he fed trial transcripts and case materials into ChatGPT and it produced fake quotations. He said he used a 2025 version based on the OpenAI o3 model. “I thought I had a bulletproof summary.” He said AI is used so widely in law and medicine that he assumed it would be accurate."
+        },
+        {
+          "t": "p",
+          "x": "Chief Justice C. Shannon Bacon's questioning was especially sharp. She noted that he had violated “eight or nine provisions” of the code of conduct and said his claim that he didn't know about AI hallucinations was hard to accept. Even her thirteen-year-old nephew and her seventy-five-year-old stepmother know about the problem, she said. “Do you watch the news? Do you listen to the radio? Lawyers relying on AI hallucinations is on the front page every day. Either you buried your head in the sand or you gambled, and neither one fits the code of conduct.”"
+        },
+        {
+          "t": "p",
+          "x": "Justice Michael Vigil summed up that building a legal argument with AI isn't the problem in itself. “It doesn't matter what the tool is. Whether you hire a C-student lawyer or an A-student lawyer, if you don't check their work before filing it, that's the issue.”"
+        },
+        {
+          "t": "p",
+          "x": "The sanction bars Aarons from appearing before the state supreme court until the disciplinary proceedings are over, plus a $5,000 fine payable to the State Bar of New Mexico's Client Protection Fund. The court ordered the public defender's office to appoint new counsel, struck the existing briefs from the record, and the case will be heard again in the 2026-27 term."
+        },
+        {
+          "t": "p",
+          "x": "In a statement to Ars, Aarons said he took on the appeal in March 2025, used ChatGPT to summarize the trial proceedings, and that the resulting outline and summary contained many errors. “At the time, I didn't know AI could hallucinate facts.” He said he hopes the disciplinary board will take into account that it was an honest mistake."
+        }
+      ]
+    },
+    "books/books-guild-openai-sj": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In the class action the Authors Guild and its member authors brought against OpenAI and Microsoft, both sides have moved for summary judgment. Summary judgment lets a judge rule without a full trial, based only on evidence that isn't in dispute."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131296-1.JPG",
+          "cap": "A robotic arm copying text from a book with a pen"
+        },
+        {
+          "t": "p",
+          "x": "The case began in September 2023, when the Authors Guild and 17 co-plaintiffs sued OpenAI and Microsoft, and it was consolidated with other class actions in October 2025. The book-related claims are now being heard alongside the publishers' suit led by The New York Times. The consolidated case is In Re: Open AI Inc. Copyright Infringement Litigation (1:25-md-03143), before Judge Sidney Stein in the U.S. District Court for the Southern District of New York."
+        },
+        {
+          "t": "p",
+          "x": "The current lead plaintiffs are 13 authors, including David Baldacci, Jonathan Franzen, John Grisham, George R.R. Martin, and Jodi Picoult, seven of whom have been parties to the case since it began."
+        },
+        {
+          "t": "p",
+          "x": "The plaintiffs' argument is this: OpenAI infringed copyright by using novelists' work to train GPT. Their September 5 brief opens with the line that “OpenAI's GPT models pose an existential threat” to people who write and publish books, and that they “threaten the incentive to create, writers' livelihoods, and the future of publishing.”"
+        },
+        {
+          "t": "p",
+          "x": "Much of the correspondence and evidence exchanged during discovery has been sealed, and the Authors Guild's own brief is heavily redacted. That conceals both the scale of books affected and how OpenAI and Microsoft “worked together” to assemble the training dataset."
+        },
+        {
+          "t": "p",
+          "x": "The plaintiffs wrote that “OpenAI built its business on a foundation of mass piracy,” saying it copied book content found on the pirate site Library Genesis (LibGen) and then deleted it. They added that courts have consistently held that getting for free what you should have had to buy is not fair use."
+        },
+        {
+          "t": "p",
+          "x": "As evidence of harm, they pointed to growing sales of AI-generated fiction on platforms like Kindle, and cited a 2025 tweet by OpenAI machine-learning engineer Tarun Gogineni that went viral, which said that if George R.R. Martin died early, GPT-5 would autocomplete his series."
+        },
+        {
+          "t": "p",
+          "x": "The defendants' September 4 brief argues the opposite: the use in question is “highly transformative” and therefore fair use, and that “no property right is unlimited.” Training a usable LLM requires hundreds of billions to tens of trillions of words, they argue, and books are just one source gathered to extract general language patterns, not to copy creative expression."
+        },
+        {
+          "t": "p",
+          "x": "They also argued that ChatGPT “does not display copies of books” and that its regurgitation rate is “known to be 0.00007%.” They wrote that the longest continuous passage the plaintiffs' expert could extract, after pushing the system with millions of prompts, was 1,899 words from A Game of Thrones, or 0.62% of the book."
+        },
+        {
+          "t": "p",
+          "x": "The defendants likened their case to ones where a fair-use defense succeeded, such as the 2015 Authors Guild v. Google Inc. (Google Books) case and the 2025 Kadrey v. Meta Platforms case. The plaintiffs counter that their case is different: the covert copying, done to build a competing product, cost authors and publishers the chance to earn revenue through AI training licenses."
+        },
+        {
+          "t": "p",
+          "x": "Opposition briefs are due in early October, and reply briefs by early November."
+        }
+      ]
+    },
+    "books/books-scheffler-illustrators": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is Axel Scheffler's contribution, published in The Bookseller's Comment section on September 9, 2026. The title is “AI is a real threat to illustrators, and the government must act.” The outlet's one-line summary captures exactly where the piece starts: he used to think AI could be ignored, and seeing what it can now do changed his mind."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/677/asd1.jpg",
+          "cap": "Axel Scheffler drawing the Gruffalo in lederhosen at the Publishers Association's annual reception at the UK Parliament on September 8, 2026"
+        },
+        {
+          "t": "p",
+          "x": "Scheffler was born in Hamburg, Germany, in 1957. After studying art history in Hamburg, he moved to the UK in 1982 to study illustration at Bath Academy of Art, and has worked as a freelance illustrator in London ever since."
+        },
+        {
+          "t": "p",
+          "x": "The Gruffalo, which he made with author Julia Donaldson, has sold more than 17 million copies in 105 countries. Given the weight his name carries in the UK picture-book market, this piece is not a warning coming from outside the industry."
+        },
+        {
+          "t": "p",
+          "x": "The full text is available only to The Bookseller's paying subscribers, so this is a summary. But the demand laid out in the title and the outlet's summary is not vague: AI is a real threat to illustrators, and the government must act."
+        }
+      ]
+    },
+    "books/books-springer-framework": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Springer Nature has revised its editorial policy on the use of artificial intelligence. Alongside it, the publisher released a framework meant to help researchers, peer reviewers, and editors decide when and how AI tools can be used throughout the research publishing process."
+        },
+        {
+          "t": "img",
+          "src": "https://www.researchinformation.info/wp-content/uploads/2024/11/ClarivateViewpoint.jpeg",
+          "cap": "A growing number of publishers are putting AI-use standards into writing"
+        },
+        {
+          "t": "p",
+          "x": "The publisher said that as AI has become deeply embedded in research and publishing work, calls for clearer, more practical guidance have grown louder. By its own count, more than 70% of researchers increasingly view publisher guidance on AI as important. On the same day, Oxford University Press also released its own guidelines on authors' use of AI."
+        },
+        {
+          "t": "p",
+          "x": "This revision builds on the existing AI principles of accountability, transparency, human oversight, and confidentiality in editorial review."
+        },
+        {
+          "t": "p",
+          "x": "What has changed is the question itself. Instead of asking whether AI was used or not, the policy asks how it was used, how far its influence extends, how high the risk level is, and whether proper human oversight was in place."
+        },
+        {
+          "t": "p",
+          "x": "On the lower-risk end, it listed polishing sentences, organizing data, and structuring review comments. Suggesting research methods, finding patterns in data, or helping interpret results are different matters. Because these can affect interpretation, evaluation, and decision-making, they call for closer review, disclosure, and human oversight."
+        },
+        {
+          "t": "p",
+          "x": "Some areas remain fully off-limits. AI must not replace responsible human judgment or undermine the integrity of the publishing process. That includes generating research conclusions with AI and handing peer review over to AI tools."
+        },
+        {
+          "t": "p",
+          "x": "The disclosure requirement was also stated firmly. Proper reporting of AI use is what raises transparency and allows sound judgment, the policy says, while also acknowledging that responsibly used AI-assisted work is becoming part of everyday academic research and communication."
+        },
+        {
+          "t": "p",
+          "x": "Chief Publishing Officer Harsh Jegadeesan said: “We believe AI, when used responsibly, can accelerate discovery and improve research communication. This updated guidance makes clear that human accountability remains the cornerstone of research and publishing, and it helps researchers use AI responsibly, transparently, and with confidence.”"
+        },
+        {
+          "t": "p",
+          "x": "Ellie Gendle, head of journal policy, noted that distinguishing between use cases matters more and more. A policy built around assessing and managing AI use, she said, lets researchers navigate this shift responsibly, with safeguards kicking in where integrity or accountability risks are high."
+        },
+        {
+          "t": "p",
+          "x": "“The new guidance also makes clear that AI cannot replace human judgment and accountability. At the same time, used carefully, responsibly, and with proper disclosure, AI will increasingly be used across a wider range of research and publishing activities,” Gendle said."
+        }
+      ]
+    },
+    "books/books-veristage-insight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Publishers Weekly spoke with Veristage Chief Customer Officer Hannah Johnson. According to her, the volume of work publishers run through the company's AI publishing-services platform, Insight, has surpassed 50,000 books a month, and that number is growing fast."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131361-1.PNG",
+          "cap": "Veristage Chief Customer Officer Hannah Johnson"
+        },
+        {
+          "t": "p",
+          "x": "— You're based in the US and work with more than 80 publishers across 15 countries. What do they use this for?"
+        },
+        {
+          "t": "p",
+          "x": "It covers a wide range, from proofreading and translation to metadata and accessibility work. Because our customer base is so varied, we've learned what tools people actually need. Everything from three-person teams to multinational organizations, and general trade, education, and academic or institutional publishing, is mixed in."
+        },
+        {
+          "t": "p",
+          "x": "— If a publisher just dropped a manuscript into ChatGPT or Claude, wouldn't they get the same result?"
+        },
+        {
+          "t": "p",
+          "x": "Publishers come to us at the point where they say, “We've tried ChatGPT, we've tried Claude, we've experimented, and we hit a wall.” If you upload a whole book to ChatGPT and ask it to proofread to your house style guide, the results are rarely good. At some point it stops, or it handles the book unevenly from one part to the next. Our tool processes the entire book with a consistent set of rules and returns consistent results. You pick a rule set, press a button, and you get a proofed manuscript. If it didn't come out the way you wanted, there's a person you can call to have it fixed."
+        },
+        {
+          "t": "p",
+          "x": "— What shouldn't publishers hand off to AI?"
+        },
+        {
+          "t": "p",
+          "x": "Relying on a model's general knowledge goes wrong. If you upload a book and ask for comp titles, it will give you some, but it skews toward famous, older books, because the training data cuts off six months to a year back. One thing specific to publishing: we advise against using it to decide what to publish. We still think that has to rely on human judgment."
+        },
+        {
+          "t": "p",
+          "x": "— A year from now, what do you want to see change in AI?"
+        },
+        {
+          "t": "p",
+          "x": "Right now, file formats eat up the most time. PDF is still difficult, because it's a static display format where moving one character doesn't carry the rest along with it. I'd like to see that get easier. Honestly, we're still at an early stage, at least that's how it feels to me. Change has come so fast that it's hard to know what things will look like once it settles down."
+        }
+      ]
     }
   }
 }

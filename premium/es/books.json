@@ -4876,6 +4876,174 @@
           "x": "Christie Henry, CEO de Princeton University Press, ya no espera mucho. “¿Somos optimistas de que nos invitarán a la mesa de negociación? No”. Aun así, no se han cumplido las peores profecías. “La gente olvida que todavía tenemos capacidad de decisión. Podemos elegir qué publicar, podemos elegir qué comprar y, lo más importante, podemos elegir qué leer”."
         }
       ]
+    },
+    "books/books-fake-citations": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Corte Suprema de Nuevo México declaró a un abogado en desacato por presentar un escrito redactado con ChatGPT. El escrito contenía “testimonios falsos de testigos completamente inventados”, junto con declaraciones atribuidas a policías que no existen. Al remitirlo a la junta disciplinaria, el tribunal escribió que no mostró “ni señales de arrepentimiento ni preocupación por su cliente”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
+          "cap": "El icono de ChatGPT en la pantalla de un teléfono inteligente"
+        },
+        {
+          "t": "p",
+          "x": "El abogado implicado es Stephen Aarons, quien ejerce la defensa penal en Nuevo México desde hace más de 40 años. La familia de Oscar Renee Sandoval, acusado de asesinato, lo contrató para llevar la apelación. Sandoval fue condenado a cadena perpetua en febrero de 2025 por matar a Shiereen Al-Jibury, su pareja y madre de sus hijos."
+        },
+        {
+          "t": "p",
+          "x": "Aarons presentó el escrito en cuestión en agosto de 2025, y semanas después la fiscalía estatal pidió que se eliminaran partes de él. Según la orden judicial del miércoles, admitió que firmó y presentó el escrito generado por IA sin verificar sus afirmaciones de hecho ni sus citas legales, y que no informó de ello a su cliente."
+        },
+        {
+          "t": "p",
+          "x": "Los testigos inventados fueron el Officer Michelle Amarillo, el Officer Sanchez, Manal Al-Jibury y Teresa Marquez. También eran falsos el testimonio de Danny Stanton sobre haber recibido amenazas, el de Linda Stanton sobre las amenazas recibidas por su esposo, y el de Mariah Chavez y Teresa Marquez sobre la ropa y el aspecto del agresor. Las citas de jurisprudencia también tergiversaban su contenido legal."
+        },
+        {
+          "t": "p",
+          "x": "Ya se ha descubierto a varios abogados citando jurisprudencia falsa. Aarons fue distinto: las sentencias que citó eran reales, pero describió su contenido de forma incorrecta y añadió testimonios que nunca existieron."
+        },
+        {
+          "t": "p",
+          "x": "En una audiencia del 21 de agosto, dijo que al introducir las transcripciones del juicio y los materiales del caso en ChatGPT obtuvo citas falsas. Afirmó haber usado una versión de 2025 basada en el modelo OpenAI o3. “Pensé que tenía un resumen a prueba de todo.” Dijo que, dado lo extendido que está el uso de la IA en el ámbito legal y médico, supuso que sería preciso."
+        },
+        {
+          "t": "p",
+          "x": "El interrogatorio de la presidenta del tribunal, C. Shannon Bacon, fue especialmente duro. Señaló que había violado “ocho o nueve disposiciones” del código de conducta y dijo que resultaba difícil aceptar que no supiera de las alucinaciones de la IA. Según ella, hasta su sobrino de trece años y su madrastra de setenta y cinco lo saben. “¿Ve las noticias? ¿Escucha la radio? El problema de los abogados que confían en alucinaciones de IA aparece todos los días en primera plana. O se escondió de la realidad o se arriesgó, y ninguna de las dos cosas encaja con el código de conducta.”"
+        },
+        {
+          "t": "p",
+          "x": "El magistrado Michael Vigil resumió que construir un argumento legal con IA no es, en sí mismo, el problema. “No importa cuál sea la herramienta. Ya contrate a un abogado de notable o a uno de excelente, si no revisa su trabajo antes de presentarlo, ese es el problema.”"
+        },
+        {
+          "t": "p",
+          "x": "La sanción le prohíbe presentarse ante el tribunal supremo estatal hasta que concluya el proceso disciplinario, además de una multa de 5.000 dólares a favor del Fondo de Protección al Cliente del Colegio de Abogados de Nuevo México. El tribunal ordenó a la defensoría pública designar un nuevo abogado, eliminó del expediente los escritos existentes, y el caso volverá a tratarse en el período 2026-27."
+        },
+        {
+          "t": "p",
+          "x": "En una declaración enviada a Ars, Aarons dijo que asumió la apelación en marzo de 2025, que usó ChatGPT para resumir el desarrollo del juicio y que el índice y el resumen resultantes contenían muchos errores. “En ese momento no sabía que la IA podía alucinar datos.” Dijo que espera que la junta disciplinaria tenga en cuenta que se trató de un error honesto."
+        }
+      ]
+    },
+    "books/books-scheffler-illustrators": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este es el artículo de Axel Scheffler publicado en la sección de Comentario de The Bookseller el 9 de septiembre de 2026. El título es “AI is a real threat to illustrators, and the government must act”. El resumen de una línea que añadió el medio refleja exactamente el punto de partida del texto: pensaba que la IA podía ignorarse, pero cambió de opinión al ver de qué es capaz."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/677/asd1.jpg",
+          "cap": "Axel Scheffler dibujando al Gruffalo con lederhosen en la recepción anual de la Publishers Association celebrada en el Parlamento británico el 8 de septiembre de 2026"
+        },
+        {
+          "t": "p",
+          "x": "Scheffler nació en Hamburgo, Alemania, en 1957. Tras estudiar historia del arte en Hamburgo, se trasladó al Reino Unido en 1982 para estudiar ilustración en la Bath Academy of Art, y desde entonces ha trabajado como ilustrador independiente en Londres."
+        },
+        {
+          "t": "p",
+          "x": "The Gruffalo, el libro que hizo junto con la autora Julia Donaldson, ha vendido más de 17 millones de ejemplares en 105 países. Dado el peso que tiene su nombre en el mercado británico de libros ilustrados, este artículo no es una advertencia que llegue desde fuera de la industria."
+        },
+        {
+          "t": "p",
+          "x": "El texto completo solo está disponible para los suscriptores de pago de The Bookseller, así que se presenta como resumen. Pero la exigencia que fija el título y el resumen del medio no es ambigua: la IA es una amenaza real para los ilustradores, y el gobierno debe actuar."
+        }
+      ]
+    },
+    "books/books-springer-framework": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Springer Nature revisó su política editorial sobre el uso de la inteligencia artificial. Junto con ella, la editorial presentó un marco destinado a ayudar a investigadores, revisores por pares y editores a decidir cuándo y cómo pueden usarse las herramientas de IA en todo el proceso de publicación de la investigación."
+        },
+        {
+          "t": "img",
+          "src": "https://www.researchinformation.info/wp-content/uploads/2024/11/ClarivateViewpoint.jpeg",
+          "cap": "Cada vez más editoriales están poniendo por escrito sus estándares sobre el uso de la IA"
+        },
+        {
+          "t": "p",
+          "x": "La editorial explicó que, a medida que la IA se integra profundamente en el trabajo de investigación y publicación, han crecido las voces que piden directrices más claras y prácticas. Según sus propios datos, más del 70% de los investigadores considera cada vez más importantes las directrices de las editoriales sobre IA. El mismo día, Oxford University Press también publicó sus propias directrices sobre el uso de la IA por parte de los autores."
+        },
+        {
+          "t": "p",
+          "x": "Esta revisión se apoya en los principios ya existentes sobre IA: responsabilidad, transparencia, supervisión humana y confidencialidad en la revisión editorial."
+        },
+        {
+          "t": "p",
+          "x": "Lo que ha cambiado es la pregunta misma. En lugar de preguntar si se usó IA o no, la política ahora examina cómo se usó, hasta dónde llega su influencia, qué nivel de riesgo implica y si existió una supervisión humana adecuada."
+        },
+        {
+          "t": "p",
+          "x": "Entre los usos de bajo riesgo mencionó pulir frases, ordenar datos y estructurar comentarios de revisión. Sugerir métodos de investigación, encontrar patrones en los datos o ayudar a interpretar resultados es distinto: como puede influir en la interpretación, la evaluación y la toma de decisiones, requiere una revisión más estricta, divulgación y supervisión humana."
+        },
+        {
+          "t": "p",
+          "x": "También mantuvo zonas completamente prohibidas. La IA no debe sustituir el juicio humano responsable ni dañar la integridad del proceso de publicación. Eso incluye generar conclusiones de investigación con IA o delegar la revisión por pares a herramientas de IA."
+        },
+        {
+          "t": "p",
+          "x": "También insistió en la obligación de divulgar. Declarar adecuadamente el uso de IA es lo que eleva la transparencia y permite un buen juicio, según la política, que a la vez reconoce que el trabajo asistido por IA, usado de forma responsable, se está volviendo parte habitual de la investigación y la comunicación académicas."
+        },
+        {
+          "t": "p",
+          "x": "El director de publicaciones, Harsh Jegadeesan, dijo: “Creemos que la IA, usada de forma responsable, acelera el descubrimiento y mejora la comunicación científica. Esta guía actualizada deja claro que la responsabilidad humana sigue siendo la piedra angular de la investigación y la publicación, y ayuda a los investigadores a usar la IA de forma responsable, transparente y con confianza.”"
+        },
+        {
+          "t": "p",
+          "x": "Ellie Gendle, responsable de política editorial de revistas, señaló que distinguir entre casos de uso es cada vez más importante. Según ella, una política centrada en evaluar y gestionar el uso de la IA permite a los investigadores afrontar este cambio de forma responsable, y activa salvaguardas donde existen grandes riesgos para la integridad o la responsabilidad."
+        },
+        {
+          "t": "p",
+          "x": "“La nueva guía también deja claro que la IA no puede sustituir el juicio y la responsabilidad humanos. Al mismo tiempo, usada con cuidado, de forma responsable y con la divulgación adecuada, la IA se utilizará cada vez más en una gama más amplia de actividades de investigación y publicación”, dijo Gendle."
+        }
+      ]
+    },
+    "books/books-veristage-insight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Publishers Weekly habló con Hannah Johnson, directora de atención al cliente de Veristage. Según ella, el volumen de trabajo que las editoriales procesan a través de Insight, la plataforma de servicios editoriales con IA de la empresa, ha superado los 50.000 libros al mes, y esa cifra sigue creciendo con rapidez."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131361-1.PNG",
+          "cap": "Hannah Johnson, directora de atención al cliente de Veristage"
+        },
+        {
+          "t": "p",
+          "x": "— Tienen sede en Estados Unidos y trabajan con más de 80 editoriales en 15 países. ¿Para qué usan esto?"
+        },
+        {
+          "t": "p",
+          "x": "Es un abanico amplio, desde corrección y traducción hasta metadatos y trabajo de accesibilidad. Como nuestra base de clientes es tan variada, hemos aprendido qué herramientas necesita realmente la gente. Desde equipos de tres personas hasta organizaciones multinacionales, se mezclan la edición general, la educativa y la académica o institucional."
+        },
+        {
+          "t": "p",
+          "x": "— Si una editorial simplemente sube el manuscrito a ChatGPT o Claude, ¿no obtendría el mismo resultado?"
+        },
+        {
+          "t": "p",
+          "x": "Las editoriales llegan a nosotros en el momento en que dicen: “Probamos ChatGPT, probamos Claude, experimentamos, y nos topamos con un muro.” Si subes un libro entero a ChatGPT y le pides que lo corrija según tu manual de estilo, es difícil que el resultado sea bueno. En algún momento se detiene, o trata el libro de forma irregular de una parte a otra. Nuestra herramienta procesa el libro entero con un conjunto de reglas coherente y devuelve resultados coherentes. Eliges un conjunto de reglas, pulsas un botón y obtienes el manuscrito corregido. Si no salió como querías, hay una persona a la que puedes llamar para que lo arregle."
+        },
+        {
+          "t": "p",
+          "x": "— ¿Qué no deberían delegar las editoriales en la IA?"
+        },
+        {
+          "t": "p",
+          "x": "Apoyarse en el conocimiento general del modelo sale mal. Si subes un libro y le pides títulos comparables, te los da, pero se inclina hacia libros famosos y antiguos, porque los datos de entrenamiento se cortan entre seis meses y un año atrás. Una cosa específica de la edición: recomendamos no usarla para decidir qué publicar. Creemos que eso todavía debe depender del criterio humano."
+        },
+        {
+          "t": "p",
+          "x": "— ¿Qué le gustaría que cambiara en la IA de aquí a un año?"
+        },
+        {
+          "t": "p",
+          "x": "Ahora mismo, lo que más tiempo consume son los formatos de archivo. El PDF sigue siendo complicado, porque es un formato de visualización estática en el que mover un carácter no arrastra el resto con él. Me gustaría que eso se resolviera. Siendo sincera, todavía estamos en una etapa inicial, al menos así lo siento yo. El cambio ha sido tan rápido que es difícil saber cómo se verán las cosas cuando se asienten."
+        }
+      ]
     }
   }
 }

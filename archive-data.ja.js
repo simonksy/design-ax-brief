@@ -9278,10 +9278,9 @@
   "date": "2026-09-14",
   "section": "music",
   "has_full": true,
-  "headline": "Denon Prime 4 G2\nMPC 패드와 스템 분리를 품다",
-  "body": "Prime 4 G2는 MPC의 멀티터치 패드와 기기 내장 스템 분리를 함께 갖췄다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Prime 4 G2登場\nMPCパッドとステム分離",
+  "body": "Prime 4 G2はMPCのマルチタッチパッドと内蔵ステム分離を両方備えた。",
+  "lang": "ja"
  },
  {
   "id": "music-audio-intelligence",
@@ -9294,10 +9293,9 @@
   "date": "2026-09-14",
   "section": "music",
   "has_full": true,
-  "headline": "Apple Audio Intelligence\nShazam 음악 인식을 품다",
-  "body": "Apple이 Audio Intelligence에 Shazam 음악 인식을 함께 넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Apple新機能\nShazam認識統合",
+  "body": "AppleがAudio IntelligenceにShazamの音楽認識を組み込んだ。",
+  "lang": "ja"
  },
  {
   "id": "movies-vicon-captive",
@@ -9310,10 +9308,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "Vicon, 페이셜 캡처 업체\nCaptive Devices 인수",
-  "body": "옥스퍼드 메트릭스 산하 모션 캡처 사업부가 CoreHMC 헤드 리그 제작사를 사들였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Viconが顔キャプチャ\n企業を買収",
+  "body": "Viconが、CoreHMCを手がけるCaptive Devicesを買収した。",
+  "lang": "ja"
  },
  {
   "id": "movies-val-kilmer-ai",
@@ -9326,9 +9323,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "AI로 되살린 Val Kilmer\nTIFF 마켓에 오르다",
-  "body": "유족 동의와 SAG-AFTRA 규정, 유산 보상을 거친 AI 재현이 마켓에 올랐다.",
-  "lang": "ko",
+  "headline": "Val Kilmer, Revived by AI,\nComes to the TIFF Market",
+  "body": "The AI recreation, cleared by family, SAG-AFTRA rules, and estate compensation, hits the market.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9342,10 +9339,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "벤토박스 창업자가 손그림과 AI를\n섞어 만든 코미디 파일럿",
-  "body": "Joel Kuwahara와 Mark Evestaff가 손그림에 AI를 섞은 파일럿 티저를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ベントボックス創業者\n手描きとAI融合",
+  "body": "Joel KuwaharaとMark Evestaffが手描きとAIの試作を公開した。",
+  "lang": "ja"
  },
  {
   "id": "movies-kling-tiff-panel",
@@ -9358,10 +9354,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "Kling AI, TIFF 마켓에서\nAI 영상의 한계를 짚다",
-  "body": "TIFF 마켓 패널에서 일관성 있는 시네마틱 AI 영상 제작이 화두로 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "TIFFマーケットで\nAI映像の限界指摘",
+  "body": "TIFFマーケットのパネルで、一貫したシネマティックAI映像制作が議題になった。",
+  "lang": "ja"
  },
  {
   "id": "movies-gyllenhaal-flesh",
@@ -9374,10 +9369,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "Maggie Gyllenhaal이 밝힌\nAI 실험이 무너진 지점",
-  "body": "베네치아 심사위원장이 단편 Flesh Impact에서 시도한 AI 실험의 실패를 털어놓는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gyllenhaalが語る\nAI実験の破綻点",
+  "body": "ベネチア審査委員長が短編Flesh ImpactでのAI実験の失敗を語る。",
+  "lang": "ja"
  },
  {
   "id": "games-witcher4-ai",
@@ -9390,10 +9384,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "복잡한 게임은 AI로 안 된다\nThe Witcher 4는 사람이 만든다",
-  "body": "CD Projekt 공동대표는 AI를 보조 도구로만 쓰겠다고 선을 그었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "The Witcher 4は\nAIでは作れない",
+  "body": "CD Projektの共同代表は、AIを補助的な道具としてだけ使うと明言した。",
+  "lang": "ja"
  },
  {
   "id": "games-tagforce-ai-loc",
@@ -9406,9 +9399,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "Yu-Gi-Oh Tag Force GX,\nAI로 번역하고 사람이 검수했다",
-  "body": "AI 번역에 사람 검수를 붙인 현지화가 공개되자 이용자 반발이 이어졌다.",
-  "lang": "ko",
+  "headline": "Yu-Gi-Oh Tag Force GX,\nAI Translated, Human-Edited",
+  "body": "The reveal that localization paired AI translation with human review drew user backlash.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9422,10 +9415,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "Saber의 Tim Willits\n\"제작에는 생성형 AI를 쓰지 않는다\"",
-  "body": "Tim Willits는 Saber가 제작 파이프라인에 생성형 AI를 쓰지 않는다고 못 박는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "SaberのWillits\n生成AIは不使用",
+  "body": "Tim WillitsはSaberが制作に生成AIを使わないと明言した。",
+  "lang": "ja"
  },
  {
   "id": "games-imamura-proto",
@@ -9438,10 +9430,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "Zelda 아트 디렉터가 AI로 만든\n프로토타입에 반발이 쏟아졌다",
-  "body": "Takaya Imamura는 AI 프로토타입 공개 뒤 비난에 놀랐다고 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Zeldaアートディレクター\nAI試作に猛反発",
+  "body": "Takaya ImamuraはAI試作公開後の批判に驚いたと語った。",
+  "lang": "ja"
  },
  {
   "id": "games-fable-npc",
@@ -9454,9 +9445,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "Fable의 NPC 1,000명은\n랜덤 생성이 아니라 수작업이다",
-  "body": "Playground는 랜덤 생성 툴을 버리고 NPC 1,000명을 손으로 만들었다.",
-  "lang": "ko",
+  "headline": "Fable's 1,000 NPCs Were Not\nRandomly Generated, But Handmade",
+  "body": "Playground ditched its random-generation tool and handcrafted 1,000 NPCs instead.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9470,10 +9461,9 @@
   "date": "2026-09-14",
   "section": "gadgets",
   "has_full": true,
-  "headline": "4,000달러짜리 중국산 로봇 개\n집에 들여 직접 써봤다",
-  "body": "4,000달러를 주고 산 유니트리 로봇 개가 소비자용 로봇의 현주소를 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "4000ドル中国製ロボット犬\n家に迎えて試した",
+  "body": "4000ドルで購入したユニトリーのロボット犬が、消費者向けロボットの現状を物語る。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-rayneo-io-glasses",
@@ -9534,10 +9524,9 @@
   "date": "2026-09-14",
   "section": "gadgets",
   "has_full": true,
-  "headline": "가드레일을 걷어낸 AI가\n내 집 기기를 털었다",
-  "body": "안전장치를 제거한 오픈소스 모델이 집안 기기의 취약점을 찾아내고 해법까지 알려줬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ガードレール外し\n家中の機器を侵害",
+  "body": "安全装置を外したオープンソースモデルが家中機器の脆弱性と対策を教えた。",
+  "lang": "ja"
  },
  {
   "id": "design-ux-roi-case",
@@ -9550,10 +9539,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "UX 성과를 경영진의 언어로\n바꿔 예산을 따내는 법",
-  "body": "디자인 작업을 경영진이 투자하는 재무 언어로 옮기는 과정을 예시로 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "UX成果を経営陣の\n言葉に変え予算獲得",
+  "body": "デザイン作業を経営陣が投資する財務の言葉に移す過程を例で示す。",
+  "lang": "ja"
  },
  {
   "id": "design-steamvr-update",
@@ -9566,10 +9554,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "밸브, Steam Frame 앞두고\nSteamVR 대시보드를 다시 짰다",
-  "body": "SteamVR 2.17이 대시보드 UI와 퀵 액세스, 배터리 표시를 새로 손봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "SteamVR刷新\nFrame発売前に",
+  "body": "SteamVR 2.17がダッシュボードUIやクイックアクセス、電池表示を新しくした。",
+  "lang": "ja"
  },
  {
   "id": "design-imagined-speaker",
@@ -9582,10 +9569,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "브랜드 아키타입이 카피에서 막힐 때\n상상 속 화자를 먼저 세운다",
-  "body": "추상적인 아키타입을 상상 속 화자로 바꾸면 AI 도구도 따라 쓸 목소리가 생긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "アーキタイプで詰まる\nまず話者を想定",
+  "body": "抽象的なアーキタイプを想定上の話者に変えればAIも使える声になる。",
+  "lang": "ja"
  },
  {
   "id": "design-cg-roundup-0913",
@@ -9598,10 +9584,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "이번 주 놓치기 쉬운\nCG 소프트웨어 릴리스 정리",
-  "body": "실시간 라이팅과 GPU 렌더러, 마야 리깅 업데이트에 AI 생성 도구 두 건이 끼었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "見逃しやすい今週の\nCGソフトリリース",
+  "body": "リアルタイム照明やGPUレンダラー、Mayaリギング更新にAI生成ツール2件が加わった。",
+  "lang": "ja"
  },
  {
   "id": "design-blender-hair-rig",
@@ -9614,10 +9599,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "머리카락 끝점만 찍으면\n본 체인을 만들어주는 블렌더 애드온",
-  "body": "선택한 머리카락 끝에서 디폼 본 체인을 생성해 리깅 시간을 줄여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "毛先を指定するだけ\nボーン自動生成アドオン",
+  "body": "選んだ毛先からデフォームボーンを生成し、リギングの時間を減らす。",
+  "lang": "ja"
  },
  {
   "id": "books-veristage-insight",
@@ -9630,10 +9614,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "사람이 전화를 받는 AI 회사\n한 달 5만 권이 지나간다",
-  "body": "Insight를 거쳐 가는 물량이 한 달 5만 권 분량을 넘어섰다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "人が電話に出るAI企業\n月5万冊が通過",
+  "body": "Insightを通る量が月5万冊分を超えたと明らかにした。",
+  "lang": "ja"
  },
  {
   "id": "books-springer-framework",
@@ -9646,10 +9629,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "Springer Nature가\nAI 활용 프레임워크를 공개했다",
-  "body": "연구자와 심사자, 편집자가 AI 사용을 판단하도록 편집 정책을 고쳤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "出版社がAI活用指針\nを新たに公開",
+  "body": "Springer Natureが編集方針を改め、研究者・査読者・編集者にAI判断を委ねた。",
+  "lang": "ja"
  },
  {
   "id": "books-scheffler-illustrators",
@@ -9662,10 +9644,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "생성형 AI는 삽화가 생계를 위협한다\n정부가 지금 나서야 한다",
-  "body": "Axel Scheffler가 생성형 AI를 삽화가에게 실재하는 위협이라고 못 박았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "生成AIが挿絵家を脅かす\n政府は今動くべき",
+  "body": "Axel Schefflerは生成AIを挿絵家への現実の脅威だと断言した。",
+  "lang": "ja"
  },
  {
   "id": "books-guild-openai-sj",
@@ -9678,10 +9659,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "작가조합과 OpenAI가\n동시에 약식판결을 청구했다",
-  "body": "작가조합 측과 OpenAI·Microsoft가 공정이용을 두고 약식판결을 청구했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "作家組合とOpenAI\n同時に略式判決請求",
+  "body": "作家組合側とOpenAI・Microsoftが、フェアユースを巡り略式判決を請求した。",
+  "lang": "ja"
  },
  {
   "id": "books-fake-citations",
@@ -9694,9 +9674,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "ChatGPT가 지어낸 증인들\n법원은 변호사를 제재했다",
-  "body": "존재하지 않는 증인의 진술을 ChatGPT로 인용한 변호사가 제재를 받았다.",
-  "lang": "ko",
+  "headline": "Witnesses ChatGPT invented\nA court sanctioned the lawyer",
+  "body": "A lawyer who cited statements from witnesses that don't exist, generated by ChatGPT, was sanctioned.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9710,10 +9690,9 @@
   "date": "2026-09-13",
   "section": "science",
   "has_full": true,
-  "headline": "병리학자의 시선 이동을 학습한 AI\n림프절 암 슬라이드를 100% 잡아냈다",
-  "body": "양성으로 지목한 슬라이드의 15.5%는 음성이었지만, 암은 하나도 놓치지 않았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "病理医の視線を学習したAI\nリンパ節がんを100%検出",
+  "body": "陽性と判定したスライドの15.5%は陰性だったが、がんは一つも見逃さなかった。",
+  "lang": "ja"
  },
  {
   "id": "science-odin-multi-v9t",

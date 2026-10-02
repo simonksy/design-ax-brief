@@ -5303,6 +5303,43 @@
           "x": "Al final, lo que se busca es un flujo de trabajo más simple. No se necesita un reproductor NAM de terceros, y lo que se sube a la biblioteca se abre dentro del plugin desde el momento en que se publica. Los favoritos se gestionan y organizan para integrarlos en la configuración in-the-box que ya se tenga. Stanley Vergilis, cofundador y director ejecutivo de Tone3000, dijo que por ser de código abierto, este es el peor momento que tendrá de aquí en adelante, y que tiene ganas de ver qué construye la comunidad."
         }
       ]
+    },
+    "music/music-audio-intelligence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple celebró ayer por la noche un evento de producto. Nuevos iPhone, incluido un modelo plegable, junto con AirPods y Apple Watch, subieron al escenario. Pero el anuncio que más llamó la atención en el terreno musical fue otro: 'Audio Intelligence'."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-10T111910.577.png?fit=2000%2C1500&ssl=1",
+          "cap": "Información de la canción en el Apple Watch"
+        },
+        {
+          "t": "p",
+          "x": "¿Qué es y por qué importa? Es una función integrada en el nuevo hardware y software del Apple Watch, descrita como el uso de IA para “detectar sonidos, identificar música y ayudarte a mantenerte presente, protegiendo tu privacidad en cada paso.”"
+        },
+        {
+          "t": "p",
+          "x": "En resumen, si llevas puesto un Apple Watch, el reloj sigue escuchando el entorno a través del micrófono. No es muy distinto de lo que hace un altavoz inteligente."
+        },
+        {
+          "t": "p",
+          "x": "Te avisa cuando suena el timbre o una alarma, algo útil para personas con problemas de audición. También “toma notas” de las conversaciones a lo largo del día para crear un resumen que puedes leer después, y 'Live Rewind' permite abrir un registro de lo que se dijo en los últimos 15 segundos."
+        },
+        {
+          "t": "p",
+          "x": "Y luego está Shazam. Apple escribió en su resumen que “el reconocimiento musical de Shazam detecta automáticamente la canción que suena de fondo, mostrando el título y el nombre del artista en el Smart Stack sin siquiera tocar el widget.”"
+        },
+        {
+          "t": "p",
+          "x": "El etiquetado automático de Shazam en sí no es nuevo; lleva más de una década en la aplicación móvil. Pero que entre en el reloj de muñeca de la gente sí es un desarrollo nuevo."
+        },
+        {
+          "t": "p",
+          "x": "Un reloj que escucha todo el día plantea problemas de privacidad, tanto para quien lo lleva como para la gente a su alrededor, y también en cuanto a cómo Apple almacena y usa esos datos. Apple también es sensible a este punto, y publicó por separado un documento de 'Privacy Overview' que lo aborda punto por punto."
+        }
+      ]
     }
   }
 }

@@ -6031,6 +6031,208 @@
           "x": "SuperSplat 3.0 se usa gratis en el navegador. Funciona en Chrome, Edge, Safari 26 o posterior, y Firefox con WebGPU activado. El código fuente se ha publicado bajo la licencia de código abierto MIT."
         }
       ]
+    },
+    "design/design-blender-hair-rig": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Quien haya trabajado con personajes 3D estilizados sabe lo tedioso que es colocar los huesos del pelo uno por uno durante el rigging. Una nueva herramienta de Blender presentada por 80 Level elimina ese paso."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/50123/images/6aa16cd8a1256/contain_1200x630.jpg",
+          "cap": "Cadena de huesos deformables generada automáticamente a lo largo de los mechones de pelo"
+        },
+        {
+          "t": "video",
+          "yt": "LqR3rwRd6Zs"
+        },
+        {
+          "t": "p",
+          "x": "La herramienta genera automáticamente una cadena de huesos a partir de la punta de pelo seleccionada. También permite elegir si los huesos siguen la curva del mechón o se extienden en línea recta."
+        },
+        {
+          "t": "p",
+          "x": "Para un control más fino, puedes fijar tú mismo los marcadores de punta y raíz del pelo. Valores como el número de huesos, la longitud de pelo que cubren, la profundidad de la raíz y la dirección también se pueden ajustar."
+        },
+        {
+          "t": "p",
+          "x": "El soporte tampoco es limitado: funciona con tarjetas de pelo abiertas, formas cerradas o en tubo, y con casos en los que se seleccionan varios mechones a la vez."
+        },
+        {
+          "t": "p",
+          "x": "Para usarla se necesita Blender 4.5 LTS o una versión posterior. El generador funciona íntegramente dentro de Blender y no requiere dependencias externas ni conexión a internet. Se descarga desde la plataforma Blender Extensions."
+        },
+        {
+          "t": "p",
+          "x": "Si piensas profundizar más en el pelo, Draw-Hair también merece una mirada: es una herramienta gratuita para dibujar curvas de pelo directamente en el viewport de Blender, siguiendo la forma de una malla guía."
+        },
+        {
+          "t": "p",
+          "x": "Para el problema de que el cuerpo y la ropa se atraviesen entre sí, ShellFit resulta útil. Una alternativa gratuita similar, Proximity Snap, está más enfocada en el modelado y se usa de forma más general en distintas tareas."
+        }
+      ]
+    },
+    "design/design-imagined-speaker": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un arquetipo de marca crea una única personalidad. Visto desde lejos, eso es exactamente la imagen que se busca, porque cada punto de contacto se siente como la misma marca. El problema es que, para la persona que tiene que convertir esa personalidad en copy de UX, la distancia que recorre el arquetipo es más corta de lo esperado."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/09/What-to-do-when-brand-archetypes-dont-help-you-write-UX-copy.jpg",
+          "cap": "Cuando los arquetipos de marca no ayudan a escribir copy de UX"
+        },
+        {
+          "t": "p",
+          "x": "Esto ocurre porque los arquetipos son, por diseño, categorías. Se elige una categoría, como Explorer, y se aplica a toda la marca. Una categoría es un tipo de persona, no una persona, y un tipo no habla. Quien habla son las personas."
+        },
+        {
+          "t": "p",
+          "x": "Esto no quiere decir que los arquetipos estén equivocados. Emparejar un arquetipo de marca con una persona de usuario para definir voz y tono es un enfoque habitual, y ambos responden a preguntas distintas: quiénes somos y quién está al otro lado de la pantalla. Aun así, queda una pregunta: ¿qué debe decir la marca en este momento?"
+        },
+        {
+          "t": "p",
+          "x": "Supongamos que el arquetipo es Caregiver y la persona de usuario es un comprador primerizo que teme que lo engañen. Al llegar el momento de escribir el copy del flujo de pago, uno se queda atascado. ¿Cómo tranquilizaría un Caregiver a esta persona en esta situación? Los tipos de personalidad tienen muchos matices: unos se inclinan hacia el consuelo, otros hacia una guía práctica."
+        },
+        {
+          "t": "p",
+          "x": "La autora cierra esta brecha con un método compartido por Vitaly Friedman. Antes de escribir el copy, imagina a una persona real hablándole al usuario. La pregunta se reduce de “¿esto suena como un Caregiver?” a “¿cómo lo diría esta persona?”"
+        },
+        {
+          "t": "p",
+          "x": "No hace falta inventar un hablante desde cero. Se puede recurrir a alguien que ya se conoce, como un amigo que permanece tranquilo bajo presión o un mentor de calidez natural, y escribir a través de esa persona. La condición es dibujarla con suficiente detalle como para poder oír su voz."
+        },
+        {
+          "t": "p",
+          "x": "El ejemplo es MealPlan, una app para planificar comidas semanales y gestionar objetivos nutricionales. El arquetipo es Caregiver, y el hablante es Sarah, una enfermera que tranquiliza con calma a un paciente ansioso. Sarah no apresura, evita la jerga y explica los pasos antes de pedir una acción."
+        },
+        {
+          "t": "p",
+          "x": "En el onboarding, Sarah abre con “Welcome to MealPlan” y dice que los planes de comida personalizados harán que comer sano sea un poco más fácil. Cuando pide datos personales, explica primero por qué se necesitan y cómo se usarán. Si se rechaza una tarjeta, explica qué ocurrió y luego ofrece, en paralelo, la opción de volver a intentarlo o elegir otro método."
+        },
+        {
+          "t": "p",
+          "x": "En las tres escenas, la voz de Sarah se mantiene igual. Lo que cambia es el tono: da la bienvenida, es transparente y tranquiliza, según el estado emocional del usuario. Si se escribe a través del hablante, el tono llega por sí solo."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/09/imagined-speaker-UX-copy-technique-vitaly-friedman.png",
+          "cap": "Un taller en el que se completa juntos la personalidad del hablante imaginario"
+        },
+        {
+          "t": "p",
+          "x": "Si se trabaja en equipo, el hablante se convierte en un activo compartido. En un taller, se elige el hablante juntos y se completan en notas adhesivas el trasfondo, la personalidad, el estilo de comunicación, los valores y los hábitos, para que todos tengan una imagen parecida. “Enfermera Sarah” deja mucho menos margen de interpretación que “Caregiver”."
+        },
+        {
+          "t": "p",
+          "x": "Este hablante también pasa directamente a la salida de la IA. En lugar de un prompt vago, basta con describir quién es Sarah y pedirle a la herramienta que escriba como ella. También se puede incorporar una guía de estilo de contenido y documentos de marca, e incrustarlos en un GPT personalizado."
+        }
+      ]
+    },
+    "design/design-steamvr-update": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Valve ha lanzado una actualización bastante importante para SteamVR. Se interpreta como una señal de que el lanzamiento del esperado visor VR independiente Steam Frame está cerca."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/06/steam-frame-2-edited-1.jpg",
+          "cap": "Steam Frame | Courtesy Valve"
+        },
+        {
+          "t": "p",
+          "x": "Actualización del 11 de septiembre de 2026: la actualización de SteamVR 2.17, que había permanecido solo en beta, ya está disponible para todos los usuarios. El listado completo de cambios puede consultarse en el registro de cambios publicado por Valve."
+        },
+        {
+          "t": "p",
+          "x": "Artículo original (18 de julio de 2026): esta actualización trae a SteamVR algunas funciones estándar de Steam. Gracias a la nueva interfaz del panel de SteamVR, todo el entorno de ejecución parece estar reordenándose hacia una experiencia de usuario más adecuada para VR."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/07/steamvr-frame-update.jpg",
+          "cap": "El nuevo panel de SteamVR | Courtesy Valve"
+        },
+        {
+          "t": "p",
+          "x": "Según las notas del parche, los usuarios inscritos en Steam Client Beta reciben un panel mucho más útil. Llegan los controles de Acceso Rápido al estilo Steam Deck, y se acorta el camino hacia los logros, las guías y las notas."
+        },
+        {
+          "t": "p",
+          "x": "Valve afirmó que también mejoró la gestión de superposiciones, la información de batería y el control de brillo para aumentar la usabilidad."
+        },
+        {
+          "t": "p",
+          "x": "Para quienes llevan años esperando, esta actualización da la sensación de haber doblado por fin la esquina. De cara al lanzamiento, Valve ha traído a Estados Unidos grandes cantidades de visores Steam Frame, y ahora por fin está ajustando a un estándar comercial la interfaz de SteamVR, abandonada durante mucho tiempo."
+        },
+        {
+          "t": "p",
+          "x": "Junto a esto, también se ha abierto recientemente una página “Great on Frame”. La lista de juegos VR y no VR optimizados cuyo funcionamiento está garantizado en Steam Frame sigue creciendo."
+        },
+        {
+          "t": "p",
+          "x": "Las dos cosas que realmente se quieren saber, el precio y la fecha exacta de lanzamiento, todavía no existen. Tomando como referencia la Steam Machine, lanzada el mes pasado a 1.050 dólares, mucho más de lo esperado, es probable que Steam Frame se infle de precio de forma similar, debido a la actual escasez mundial de RAM y almacenamiento."
+        }
+      ]
+    },
+    "design/design-ux-roi-case": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+          "cap": "Building A UX ROI Case That Survives The Boardroom"
+        },
+        {
+          "t": "p",
+          "x": "Llega el momento en que un CFO mira un wireframe y pregunta: “¿Qué hace esto por los números?” Un storyboard no basta para responder, y los tiempos en que una presentación de cinco minutos funcionaba ya pasaron. Alex Williams escribe que, para conseguir presupuesto, el diseño tiene que demostrar que es bueno no solo para el usuario, sino también para el negocio."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de repartir consejos sueltos, el artículo sigue un solo caso de principio a fin. Meridian, una empresa B2B SaaS de tamaño medio, es completamente ficticia, y las mismas cifras de un rediseño de onboarding acompañan todo el recorrido: fijar objetivos, calcular costes, validar la causalidad y llegar al ROI final."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida era la falta de objetivos. “Mejorar la tasa de adaptación de los nuevos usuarios a la plataforma” no se puede diseñar ni medir. Las entrevistas por departamento revelaron la forma real del problema: una mediana de 14 días hasta que los usuarios en prueba veían el primer valor, la mayoría abandonaba antes de eso, y las preguntas sobre onboarding llenaban la cola de soporte."
+        },
+        {
+          "t": "p",
+          "x": "El OKR resultante fue reducir la mediana de time-to-first-value de 14 a 7 días con un flujo de configuración guiada, y elevar la conversión de prueba a pago del 8% al 9,5%. Los KPI no los fijó el equipo de UX en solitario, sino junto con quienes respondían por los resultados."
+        },
+        {
+          "t": "p",
+          "x": "El ROI tiene un denominador, y ahí es donde los equipos de UX suelen equivocarse. Mano de obra de diseño e investigación: 45.000 dólares. Herramientas e incentivos para participantes: 8.000 dólares. Dos sprints de frontend más QA: 38.000 dólares. Sobrecarga de coordinación: 4.000 dólares."
+        },
+        {
+          "t": "p",
+          "x": "La partida que casi todos olvidan es el tiempo de las partes interesadas. Al registrar las horas dedicadas a talleres y revisiones por asistente, tiempo y nivel, y convertirlas en coste incluyendo salario y beneficios, el total fue de 22.000 dólares por trimestre. Suma total: 117.000 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Lo siguiente es la causalidad. Durante ocho semanas, la mitad de los nuevos registros de prueba recibió la nueva configuración guiada, y la otra mitad el flujo existente. El grupo de control convirtió al 8,0%, el grupo experimental al 9,4%, sobre una muestra de unos 6.100 casos."
+        },
+        {
+          "t": "p",
+          "x": "Entre las semanas cinco y ocho se superpuso una prueba de la página de precios del equipo de marketing. El equipo lo anotó, confirmó que había llegado por igual a ambos grupos, y aun así atribuyó solo el 70% de la mejora al rediseño. Decidir eso antes de ver los resultados, y dejar constancia del motivo, es lo que tiene valor en la sala de juntas."
+        },
+        {
+          "t": "p",
+          "x": "Los indicadores adelantados y rezagados van en la misma diapositiva. La tasa de finalización de la configuración pasó del 62% al 89%, y la mediana de time-to-first-value de 14 días a 6,5, moviéndose antes de que la tasa de conversión los siguiera."
+        },
+        {
+          "t": "p",
+          "x": "El cálculo se cierra así. Sobre 40.000 pruebas anuales, elevar la conversión del 8,0% al 9,4% suma unos 560 clientes de pago, y al multiplicar por 1.800 dólares de ingreso recurrente anual por cuenta da aproximadamente 1.008.000 dólares de nuevo ARR. Aplicando una atribución del 70%, la cifra defendible baja a unos 706.000 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Frente a los 117.000 dólares, el ROI del primer año queda en torno a 5:1, con un periodo de recuperación de unos dos meses. Los tickets de soporte relacionados con el onboarding bajaron casi un 30%, a 3.600 al año, lo que suma otros 54.000 dólares a 15 dólares por ticket resuelto. Esa línea se lee con más honestidad si se deja separada en vez de sumarla."
+        },
+        {
+          "t": "p",
+          "x": "Junto a los resultados se anotan tres supuestos. Las cifras de 40.000 y 1.800 dólares mantienen fijo el rendimiento del año anterior, el 70% es un supuesto ilustrativo y no una medición, y el retorno de dos meses se estira a un trimestre si se mira como cifra neta tras descontar las bajas. También queda una parte que no se traduce en dinero: los usuarios en prueba que recibieron el nuevo onboarding tuvieron un NPS de 51, frente a 34 del flujo existente."
+        }
+      ]
     }
   }
 }

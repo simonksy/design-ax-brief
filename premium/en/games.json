@@ -5801,6 +5801,239 @@
           "x": "Zhao suggested installing it today, opening a project, and finishing one tedious task — an atlas, a localization pass, an in-app purchase, that kind of thing."
         }
       ]
+    },
+    "games/games-fable-npc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Fable, the fantasy series returning with a reboot, is home to roughly 1,000 NPCs that the studio calls its “Living Population.” Rather than leaving them to a random-generation tool, the studio designed each one by hand."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/48/images/6aa12c1a8373f/widen_1840x0.jpg",
+          "cap": "Playground Games, Xbox Game Studios"
+        },
+        {
+          "t": "p",
+          "x": "Game director Ralph Fulton told GamesRadar+ that while using a tool would have taken far less time, the studio decided handcrafting them simply made more sense."
+        },
+        {
+          "t": "p",
+          "x": "“We chose every single element of every NPC ourselves, so that players could read them and they'd be coherent from top to bottom. We originally had a tool that randomly rolled NPCs, and it would have been a massive labor-saving device. It would have saved us an enormous amount of time. But the results just didn't make as much sense.”"
+        },
+        {
+          "t": "p",
+          "x": "Randomly rolled characters often ended up with personality, occupation and appearance that didn't line up, the studio said—producing things like a vegan butcher, or a hairdresser with a flat, lifeless hairstyle."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/2a/images/6aa12c2f83069/widen_1840x0.jpg",
+          "cap": "Playground Games, Xbox Game Studios"
+        },
+        {
+          "t": "p",
+          "x": "Fable's NPCs don't stop at having a name, a job and a daily routine. They recognize what the player has done and react differently depending on their reputation."
+        },
+        {
+          "t": "p",
+          "x": "Fable, developed by Playground Games and published by Xbox, recently had its release pushed back to 2027. The new release date is February 23."
+        },
+        {
+          "t": "p",
+          "x": "The setting is still Albion, and players will explore its reimagined regions in single-player. According to the developers, finishing the story takes about 20 hours, but spending hundreds of hours with it, as in a life simulation, is also possible."
+        }
+      ]
+    },
+    "games/games-imamura-proto": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Takaya Imamura carries one of the heavier names among Nintendo's game developers: graphic designer on the original Star Fox, character designer on F-Zero: Climax, supervisor on Super Smash Bros. Brawl, and art director on The Legend of Zelda: Majora's Mask."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2024/05/21092468b7c641fb4386d2f4f6f00223-1200x675.jpg",
+          "cap": "© Nintendo"
+        },
+        {
+          "t": "p",
+          "x": "Because of that résumé, a recent experiment drew a backlash online far bigger than the experiment itself. It was a single post saying he was “testing out” AI, and even he didn't expect fans to get this angry."
+        },
+        {
+          "t": "p",
+          "x": "He posted a few images of an AI-made 3D shooter prototype on X. He seemed quite pleased with the results. “I'm currently testing out game development using AI. Going back and forth with AI on various ideas over and over, I've found that old feeling of making games with a programmer, saying ‘let's try this, let's try that,’ has come back to me… What an incredible era this has become…”"
+        },
+        {
+          "t": "p",
+          "x": "The criticism poured in mostly from Japanese X users. One reply read: “You shouldn't be doing this at a time when there's already fierce criticism and even boycotts happening overseas. Today's AI technology relies on stealing other people's data. Using it will send your company's credibility plunging, just as it did for Level-5. Please don't go through with this.”"
+        },
+        {
+          "t": "p",
+          "x": "Imamura stood his ground and replied: “I fully understand your point. But given my profession, I can't simply ignore AI, so I'm trying it out as an experiment. I'm not a programmer, and I find it genuinely amazing that AI can fill that gap and turn my ideas into an actual working game.”"
+        },
+        {
+          "t": "p",
+          "x": "After that reply was read as a promise to release a finished product, he posted again: “I can't believe this… getting hammered this hard just for quickly making a game prototype with AI… I never even said I'd finish it or release it…”"
+        },
+        {
+          "t": "p",
+          "x": "A developer using AI and then being blindsided by angry comments is no longer a novel scene by itself. What stands out here is that most of the critics this time are in Japan."
+        },
+        {
+          "t": "p",
+          "x": "Reactions to generative AI in games have diverged by region for years now. This response from Japanese players is a sign that the divide is more nuanced than it has appeared so far."
+        }
+      ]
+    },
+    "games/games-saber-willits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "I met Tim Willits, Saber Interactive's chief creative officer, at Gamescom. The first question was about the incident where CEO Matthew Karch responded bluntly to the allegation that he had replaced a writer with ChatGPT."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Tim-Willits-16-9.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Tim Willits"
+        },
+        {
+          "t": "p",
+          "x": "“That's just Matt being Matt, sarcastic as always,” Willits said. “What matters is that we've never replaced anyone with AI. That's ridiculous. We don't use generative AI on Space Marine, Hellraiser, or Stuntman.”"
+        },
+        {
+          "t": "p",
+          "x": "They do experiment, though, because nobody yet knows where this technology will work or where it will be welcomed across the industry. The AI mode in Rideshare Stimulator is that testing ground. Everything else, down to the side missions, was written entirely by people, he made clear."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/rideshare-stimulator-screenshot.jpg?width=1200&height=675&fit=crop&quality=85&format=jpg&auto=webp",
+          "cap": "The Free Ride mode in Rideshare Stimulator"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI has no place in the production pipeline — not in code, environments, or textures. Still, he acknowledges its use. For someone who has spent his whole career wishing he could draw, a tool that pulls the picture out of his head is genuinely useful."
+        },
+        {
+          "t": "p",
+          "x": "Saber, which spun off from Embracer in 2024, still runs 15 studios with 3,500 employees — in Serbia, Armenia, Georgia, Spain, Portugal, Sweden, Argentina, and Australia. “Now that we've started making games in Australia too, the sun never sets on Saber development.”"
+        },
+        {
+          "t": "p",
+          "x": "North America isn't on that list. The Florida headquarters and the US publishing team remain, but “there's essentially no real development left in North America,” he says. It matches the pattern Amir Satvat of ASGC has pointed out: “workforce moving out of North America to essentially everywhere else.”"
+        },
+        {
+          "t": "p",
+          "x": "His tone changes when the conversation turns to development costs. “With some games, as you play them, you can see the money that got wasted. You can see dollars falling off the screen.” Warhammer 40,000: Space Marine 2's development budget was a third of what a recent big-budget title from a major North American studio cost, and it sold 11 million more copies."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/space-marine-2-headline.jpg?width=1200&height=675&fit=crop&quality=85&format=jpg&auto=webp",
+          "cap": "Warhammer 40,000: Space Marine 2"
+        },
+        {
+          "t": "p",
+          "x": "The math is simple. A major North American studio burns through more than $2 million a month. Over five years, that's 60 months, or $120 million in labor costs alone. Add marketing and publishing and it easily tops $150 million, while each copy sold nets only around $25. SnowRunner, which has earned hundreds of millions of dollars, cost $6 million to make."
+        },
+        {
+          "t": "p",
+          "x": "That's why Saber champions the AA label. World War Z has 32 million players, and he asks whether that can really still be called AA. Instead of betting the whole company on one home run, he thinks games are heading toward slate financing, the approach film has long used to spread bets across multiple titles."
+        },
+        {
+          "t": "p",
+          "x": "Embracing recognizable IP follows the same logic. Saber has worked with Universal, Paramount, Lionsgate, and Disney, and its reputation for respecting the source material on Evil Dead: The Game carried over into the John Wick game. With IO Interactive, it is co-developing a remaster of the early Hitman trilogy."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/hitman-classic-trilogy-remastered.jpg?width=1200&height=675&fit=crop&quality=85&format=jpg&auto=webp",
+          "cap": "Hitman Classic Trilogy Remastered"
+        }
+      ]
+    },
+    "games/games-tagforce-ai-loc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Yu-Gi-Oh Tag Force GX was revealed yesterday during a Nintendo Direct. The name sounds new, but it's actually a remake of 2008's Yu-Gi-Oh GX Tag Force 3, rescuing a title that nearly stayed buried on the PSP. This also marks its first official North American release, which made it big news for longtime fans."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/09/a-character-holding-up-a-yu-gi-oh-card-in-yu-gi-oh-tag-force-gx.jpg?w=1600&h=900&fit=crop",
+          "cap": "Yu-Gi-Oh Tag Force GX"
+        },
+        {
+          "t": "p",
+          "x": "That excitement didn't last long. A disclosure notice on the Steam page revealed that the game used generative AI in its translation process, and that for some languages, AI did the translating while a human translator only proofread it."
+        },
+        {
+          "t": "p",
+          "x": "“We used AI to improve the efficiency and quality of translation,” the notice reads. “However, all final translations are reviewed and revised by the development team before being implemented. All translated text is reviewed by human editors to ensure it is accurate, appropriate, and high quality.”"
+        },
+        {
+          "t": "p",
+          "x": "So why not just have that human editor handle the whole translation? The article's suspicion is that this is ultimately a step toward training AI well enough to eventually cut human translators out entirely."
+        },
+        {
+          "t": "p",
+          "x": "Konami's reasoning is that this approach speeds up the schedule. But if every line still has to be proofread and fixed when needed, it's unclear whether it actually ends up faster."
+        },
+        {
+          "t": "p",
+          "x": "Many fans were angry, reacting with disappointment that the choice of AI over hiring translators had been made at all."
+        },
+        {
+          "t": "p",
+          "x": "Opinions are divided. Some argue that, unlike AI-generated art or in-game assets, this isn't quite as severe a case since AI was used only as a tool. What's clear is that consumers will have to draw that line for themselves, since Tag Force won't be the first case or the last."
+        },
+        {
+          "t": "p",
+          "x": "Crazy Taxi faced a similar test. Controversy flared after Sega admitted to using generative AI during the “ideation phase” of development, and the company later clarified that no AI art would appear in the final release. Every attempt to normalize generative AI in games keeps running into resistance."
+        },
+        {
+          "t": "p",
+          "x": "Yu-Gi-Oh Tag Force GX is set to release on February 16, 2027."
+        }
+      ]
+    },
+    "games/games-witcher4-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "CD Projekt's co-CEO, Michał Nowakowski, has laid out how he views artificial intelligence when it comes to making games."
+        },
+        {
+          "t": "p",
+          "x": "At a recent earnings briefing, he acknowledged that AI is “clearly becoming a trend in game development.”"
+        },
+        {
+          "t": "p",
+          "x": "At the same time, he stressed that the Polish developer still makes its games “primarily using people.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-11.26.18-AM.png",
+          "cap": "The Witcher 4"
+        },
+        {
+          "t": "p",
+          "x": "“If anything, AI is just one tool among many others. There are places where it helps, and it may help even more in the future. But we don't plan to rely on AI to make the whole game for us,” he said, according to PC Gamer."
+        },
+        {
+          "t": "video",
+          "yt": "54dabgZJ5YA"
+        },
+        {
+          "t": "p",
+          "x": "The reason lies in the nature of what they make. Nowakowski said CD Projekt builds “incredibly complex games,” and stated flatly that bringing AI into that kind of work is not “the right or ethical path.”"
+        },
+        {
+          "t": "p",
+          "x": "He didn't apply that standard to the rest of the industry, though. “It's not my place to say whether this applies to the whole industry. I think everyone has to make that judgment for themselves.” Whether to use AI is something each studio, or at least its leadership, can decide on its own."
+        },
+        {
+          "t": "p",
+          "x": "The Witcher 4 is scheduled for release in 2028, kicking off a new trilogy. CD Projekt is also working on Cyberpunk 2 and a multiplayer Witcher game alongside it."
+        }
+      ]
     }
   }
 }
