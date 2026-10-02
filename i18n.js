@@ -75,6 +75,10 @@
       "#ax-login:hover{border-color:rgba(23,23,23,.35);}" +
       "#ax-login:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
       "#ax-login .ax-login-short{display:none;}" +
+      // 카테고리 줄 안으로 들어갔을 때(React가 #ax-actions를 그린 경우).
+      // 절대위치를 버리고 한 줄의 일부가 된다 — 로고와 겹칠 일이 없어진다.
+      ".ax-actions #ax-globe,.ax-actions #ax-pro,.ax-actions #ax-login{position:static;top:auto;right:auto;}" +
+      ".ax-actions #ax-login{display:flex;}" +
       // 구독 중일 때 Pro 버튼 — 모션을 멈추고 차분한 완료 상태로 바꾼다.
       "#ax-pro.is-pro{animation:none;background:linear-gradient(110deg,#7928ca,#0070f3);" +
       "background-size:100% 100%;}" +
@@ -128,9 +132,25 @@
     loginBtn.onclick = function () { window.dispatchEvent(new CustomEvent("ax:login")); };
     document.body.appendChild(loginBtn);
 
-    // 가로 위치: 로그인 버튼은 Pro 버튼 왼쪽에 붙는다. Pro 버튼의 너비는 문구
-    // 길이(언어마다 다름)와 화면 폭에 따라 달라지므로 실측해서 정한다.
+    // React가 카테고리 줄(#ax-actions)을 그리면 세 버튼을 그 안으로 옮긴다.
+    // 그러면 로고 위에 떠 있지 않고 카테고리와 한 줄이 되어, 폭이 모자랄 때
+    // 카테고리만 가로로 흐르고 버튼은 오른쪽에 고정된다. React가 없는 페이지
+    // (archive 등)에서는 #ax-actions가 없으므로 지금처럼 우상단에 떠 있는다.
+    var docked = false;
+    var dock = function () {
+      var slot = document.getElementById("ax-actions");
+      if (!slot || docked) return !!slot;
+      slot.appendChild(loginBtn);
+      slot.appendChild(proBtn);
+      slot.appendChild(box);
+      docked = true;
+      return true;
+    };
+
+    // 떠 있는 동안에만 쓰는 가로 위치 — Pro 버튼 너비가 문구 길이(언어마다 다름)에
+    // 따라 달라지므로 실측해서 정한다. 도킹된 뒤에는 flex가 알아서 한다.
     var placeLogin = function () {
+      if (docked) { loginBtn.style.right = ""; return; }
       var proRight = window.innerWidth <= 720 ? 52 : 56;
       loginBtn.style.right = (proRight + proBtn.offsetWidth + 8) + "px";
     };
@@ -153,7 +173,10 @@
     // (the logo is rendered by React after load, so re-measure on resize and for a
     // few frames). They move together so they never drift apart.
     var align = function () {
+      dock();
       placeLogin();
+      // 도킹되면 줄의 일부라 로고 정렬 계산이 필요 없다.
+      if (docked) { box.style.top = ""; proBtn.style.top = ""; loginBtn.style.top = ""; return; }
       var logo = document.querySelector("[data-ax-logo]");
       if (!logo || window.innerWidth > 720) {
         box.style.top = ""; proBtn.style.top = ""; loginBtn.style.top = ""; return;
@@ -166,7 +189,7 @@
       loginBtn.style.top = Math.round(mid - loginBtn.offsetHeight / 2) + "px";
     };
     window.addEventListener("resize", align);
-    var tries = 0, tick = setInterval(function () { align(); if (++tries > 40) clearInterval(tick); }, 100);
+    var tries = 0, tick = setInterval(function () { align(); if (++tries > 80) clearInterval(tick); }, 100);
   };
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", window.axMountGlobe);
   else window.axMountGlobe();

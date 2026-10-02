@@ -126,6 +126,16 @@ if (!document.getElementById('ax-styles')) {
      padding:0!important;border-radius:0!important;color:inherit!important;font:inherit!important;
      max-width:none!important;box-shadow:none!important;}
   /* ---- section tabs (Design / Music / Movies / Games / Books) ---- */
+  /* 카테고리 + 오른쪽 버튼 묶음을 한 줄에. 버튼은 고정, 카테고리만 흐른다. */
+  .ax-navbar{display:flex;align-items:center;gap:12px;max-width:1120px;margin:0 auto 16px;padding:0 12px;
+     box-sizing:border-box;}
+  .ax-actions{flex:0 0 auto;display:flex;align-items:center;gap:8px;}
+  /* navbar 안에서는 한 줄 유지 + 넘치면 가로 스크롤. 폭이 넉넉하면 가운데로 모인다.
+     데스크톱에서도 창을 좁히면 그대로 스크롤로 넘어간다 — 폭 기준이 아니라
+     내용이 넘치는지로 결정되므로 기기 구분이 필요 없다. */
+  .ax-navbar .ax-tabs{flex:1 1 auto;min-width:0;flex-wrap:nowrap;overflow-x:auto;
+     margin:0;padding:2px 0;scrollbar-width:none;-webkit-overflow-scrolling:touch;}
+  .ax-navbar .ax-tabs::-webkit-scrollbar{display:none;}
   .ax-tabs{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin:0 auto 16px;padding:0 12px;}
   /* 탭 글자는 UI의 길잡이다 — 모노스페이스 12px/600은 윈도우에서 가늘고 희미했다.
      13.5px/700으로 키우고 자간을 좁혀 덩어리로 읽히게 한다. */
@@ -145,12 +155,14 @@ if (!document.getElementById('ax-styles')) {
      카드 안쪽은 고정 px라 비율이 어긋나지 않게 폭·높이를 같은 비(480:760)로 늘린다. */
   @media (min-width:1700px){
     .ax-shell{max-width:1360px;padding:44px 48px 110px;}
+    .ax-navbar{max-width:1360px;}
     .ax-hero-wrap{width:560px;height:887px;}
     .ax-tab{font-size:15px;padding:10px 21px;}
     .ax-tabs{gap:9px;margin-bottom:22px;}
   }
   @media (min-width:2200px){
     .ax-shell{max-width:1560px;}
+    .ax-navbar{max-width:1560px;}
     .ax-hero-wrap{width:640px;height:1013px;}
     .ax-tab{font-size:16px;padding:11px 23px;}
   }
@@ -966,7 +978,7 @@ function fallbackCopy(text) {
     document.body.appendChild(ta); ta.focus(); ta.select(); document.execCommand('copy'); ta.remove(); } catch (e) {}
 }
 
-function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, section }) {
+function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, section, wide }) {
   // Share a per-card static page (/s/<section>/<id>) — it carries OG/Twitter meta so
   // the link unfurls with the card's image + headline, then redirects into the app
   // (/?c=<section>:<id>). The legacy ?c= link still works if anyone has one copied.
@@ -985,11 +997,11 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
       </div>
       <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column', padding: mobile ? '16px 18px 18px' : '22px 26px 22px' }}>
         <Eyebrow item={it} index={index} total={total} t={t} />
-        <h2 className="ax-hl" style={{ fontSize: mobile ? 21 : 28, lineHeight: 1.18, marginTop: mobile ? 10 : 14, color: t.hl }}>{it.headline}</h2>
+        <h2 className="ax-hl" style={{ fontSize: mobile ? 21 : wide ? 33 : 28, lineHeight: 1.18, marginTop: mobile ? 10 : 14, color: t.hl }}>{it.headline}</h2>
         {/* wrapper is the flex item (blockified safely); the <p> stays a real
             -webkit-box so -webkit-line-clamp actually caps at 3 lines */}
         <div style={{ flex: '0 0 auto', marginTop: mobile ? 9 : 12 }}>
-          <p className="ax-body" style={{ fontSize: mobile ? 14 : 15, lineHeight: 1.55, margin: 0, color: t.body,
+          <p className="ax-body" style={{ fontSize: mobile ? 14 : wide ? 17.5 : 15, lineHeight: 1.55, margin: 0, color: t.body,
             display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden',
             maxHeight: 'calc(1.55em * 3)' }}>{it.body}</p>
         </div>
@@ -1203,13 +1215,13 @@ function PremiumFullArticle({ item, t, section, onClose }) {
    the overlay (or Enter/Space) opens SubscribeModal; the underlying card content
    is inert (pointerEvents: none) and never flips/expands — there is no `full` in
    the payload for a locked card, so there's nothing to open. ---- */
-function LockedCard({ item, index, total, t, mobile, section }) {
+function LockedCard({ item, index, total, t, mobile, section, wide }) {
   const [showSubscribe, setShowSubscribe] = useState(false);
   return (
     <div style={{ height: '100%', position: 'relative', overflow: 'hidden', borderRadius: 'inherit' }}>
       <div aria-hidden style={{ height: '100%', pointerEvents: 'none',
         filter: 'blur(10px) saturate(.7) brightness(.94)', transform: 'scale(1.04)' }}>
-        <LayoutEditorial item={item} index={index} total={total} active={false} t={t} mobile={mobile} section={section} />
+        <LayoutEditorial item={item} index={index} total={total} active={false} t={t} mobile={mobile} section={section} wide={wide} />
       </div>
       <div role="button" tabIndex={0} aria-label={tx('paywall.unlock_all')}
         onClick={() => setShowSubscribe(true)}
@@ -1236,7 +1248,7 @@ function LockedCard({ item, index, total, t, mobile, section }) {
    to the FullArticle back. Desktop-first (the back uses absolute faces that need a
    fixed-height card; on mobile, where the hero is content-height, fall back to the
    plain summary card for now). ---- */
-function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section, entitled }) {
+function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section, entitled, wide }) {
   const [flipped, setFlipped] = useState(false);
   const [flipping, setFlipping] = useState(false);   // true during the rotate animation
   const flipTimer = useRef();
@@ -1253,14 +1265,14 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
   // EXCEPT for an entitled subscriber: they get the normal flip card below,
   // whose back (PremiumFullArticle) lazy-fetches the deep-dive from the Worker.
   if (item.locked && !entitled) {
-    return <LockedCard item={item} index={index} total={total} t={t} mobile={mobile} section={section} />;
+    return <LockedCard item={item} index={index} total={total} t={t} mobile={mobile} section={section} wide={wide} />;
   }
   // public payload carries hasFull as a plain boolean; item.full (when present) is
   // the COMPLETE deep-dive (free/archive cards only — see FullArticle). A locked
   // card reaching this point is only here because the viewer is entitled.
   const hasFull = item.locked ? true : !!item.hasFull;
   if (!hasFull) {
-    return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
+    return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} wide={wide} />;
   }
   // 3D only while flipping/flipped. At rest on the front the card is a plain 2D element
   // (no perspective/preserve-3d → no compositing layer → vertical touch scrolls the page).
@@ -1270,7 +1282,7 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
       <div className={'ax-flip' + (flipped ? ' flipped' : '')} style={{ transformStyle: use3d ? 'preserve-3d' : 'flat' }}>
         <div className="ax-flip-face">
           <LayoutEditorial item={item} index={index} total={total} active={active && !flipped} t={t} mobile={mobile}
-            onExpand={() => doFlip(true)} section={section} />
+            onExpand={() => doFlip(true)} section={section} wide={wide} />
         </div>
         {/* hide the back when flat (no backface-visibility in a flat context) so it can't
             bleed over the front; only the active card mounts the heavy article. */}
@@ -1309,6 +1321,9 @@ function NavButton({ dir, disabled, onClick, t }) {
    sliding cards are full-bleed — no rounded-corner gaps on swipe.
    ============================================================ */
 function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
+  // 넓은 화면에서는 카드 틀이 커진다 — 안쪽 타이포도 같이 키워야 비례가 맞는다.
+  // Insights의 카드는 480 기준으로 그린 뒤 통째로 scale하므로 거기엔 주지 않는다.
+  const wide = useWide();
   const [idx, setIdx] = useState(initialIndex);
   // 잠긴 카드로 넘어오면 구독 창을 한 번 띄운다. 한 번인 게 중요하다 — 닫을 때마다
   // 다시 뜨면 넘길 때마다 가로막는 꼴이라, 설득이 아니라 방해가 된다. 그래서
@@ -1387,7 +1402,7 @@ function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
-              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} entitled={entitled} />
+              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} entitled={entitled} wide={wide} />
             </div>
           ))}
         </div>
@@ -1741,6 +1756,23 @@ function HeroDeckIntro({ day, cardIdx, t, onDone, mobile }) {
   );
 }
 
+/* ---- useWide: 넓은 화면 여부. 큰 모니터와 윈도우 저배율에서 카드가 화면의
+   5분의 1만 쓰던 문제 때문에, 틀과 함께 안쪽 타이포도 한 단계 키운다. ---- */
+function useWide(minW = 1700) {
+  const q = `(min-width:${minW}px)`;
+  const [on, setOn] = useState(() => typeof window !== 'undefined'
+    && !!(window.matchMedia && window.matchMedia(q).matches));
+  useEffect(() => {
+    if (!window.matchMedia) return;
+    const m = window.matchMedia(q);
+    const fn = () => setOn(m.matches);
+    fn();
+    m.addEventListener ? m.addEventListener('change', fn) : m.addListener(fn);
+    return () => { m.removeEventListener ? m.removeEventListener('change', fn) : m.removeListener(fn); };
+  }, [q]);
+  return on;
+}
+
 /* ---- useIsMobile: reactive max-width media query (no hover on touch) ---- */
 function useIsMobile(maxW) {
   const q = `(max-width:${maxW}px)`;
@@ -1842,8 +1874,8 @@ function MobileFilmstrip({ t, onOpen, days, entitled, hasSubscription }) {
 
 /* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck.
    Pro 구독자에게는 맨 앞에 Insights(지식 네트워크) 진입 pill이 구분선과 함께 붙는다. ---- */
-function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights }) {
-  return (
+function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights, actions }) {
+  const tabs = (
     <div className="ax-tabs" role="tablist" aria-label={tx('nav.sections')}
       style={flush ? { margin: 0, padding: 0, justifyContent: 'flex-start' } : undefined}>
       {showInsights && (
@@ -1873,6 +1905,16 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
           </button>
         );
       })}
+    </div>
+  );
+  if (!actions) return tabs;
+  /* 카테고리와 오른쪽 버튼들을 한 줄에 둔다. 버튼 묶음은 고정이고 카테고리만
+     흐른다 — 폭이 모자라면 카테고리 쪽만 가로로 스크롤되고 Login·Pro·지구본은
+     항상 보인다. 버튼은 i18n.js가 이 자리에 옮겨 담는다(React 밖에서 만든다). */
+  return (
+    <div className="ax-navbar">
+      {tabs}
+      <div id="ax-actions" className="ax-actions" />
     </div>
   );
 }
@@ -2907,7 +2949,7 @@ function ThemedPage({ themeKey }) {
         </div>
         <div style={insightsOn ? { position: 'relative', zIndex: 3 } : undefined}>
           <SectionTabs sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection} t={t}
-            showInsights={true} insightsActive={insightsOn} onInsights={openInsights} />
+            showInsights={true} insightsActive={insightsOn} onInsights={openInsights} actions />
         </div>
         {/* back-to-today control — rendered only while viewing a past day. */}
         {!insightsOn && hero.day && (
