@@ -126,19 +126,6 @@ if (!document.getElementById('ax-styles')) {
      padding:0!important;border-radius:0!important;color:inherit!important;font:inherit!important;
      max-width:none!important;box-shadow:none!important;}
   /* ---- section tabs (Design / Music / Movies / Games / Books) ---- */
-  /* 카테고리 + 오른쪽 버튼 묶음을 한 줄에. 버튼은 고정, 카테고리만 흐른다. */
-  .ax-navbar{display:flex;align-items:center;gap:12px;max-width:1120px;margin:0 auto 16px;padding:0 12px;
-     box-sizing:border-box;}
-  .ax-actions{flex:0 0 auto;display:flex;align-items:center;gap:8px;}
-  /* navbar 안에서는 한 줄 유지 + 넘치면 가로 스크롤. 폭이 넉넉하면 가운데로 모인다.
-     데스크톱에서도 창을 좁히면 그대로 스크롤로 넘어간다 — 폭 기준이 아니라
-     내용이 넘치는지로 결정되므로 기기 구분이 필요 없다. */
-  /* justify-content:center로 두면 넘친 왼쪽이 잘리고 스크롤로도 닿지 않는다
-     (모달에서 겪은 것과 같은 함정). 왼쪽부터 채우고 넘치면 오른쪽으로 흐른다. */
-  .ax-navbar .ax-tabs{flex:1 1 auto;min-width:0;flex-wrap:nowrap;overflow-x:auto;
-     justify-content:flex-start;margin:0;padding:2px 0;scrollbar-width:none;
-     -webkit-overflow-scrolling:touch;}
-  .ax-navbar .ax-tabs::-webkit-scrollbar{display:none;}
   .ax-tabs{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin:0 auto 16px;padding:0 12px;}
   /* 탭 글자는 UI의 길잡이다 — 모노스페이스 12px/600은 윈도우에서 가늘고 희미했다.
      13.5px/700으로 키우고 자간을 좁혀 덩어리로 읽히게 한다. */
@@ -158,14 +145,12 @@ if (!document.getElementById('ax-styles')) {
      카드 안쪽은 고정 px라 비율이 어긋나지 않게 폭·높이를 같은 비(480:760)로 늘린다. */
   @media (min-width:1700px){
     .ax-shell{max-width:1280px;padding:40px 44px 100px;}
-    .ax-navbar{max-width:1280px;}
     .ax-hero-wrap{width:520px;height:823px;}
     .ax-tab{font-size:14.5px;padding:9px 19px;}
     .ax-tabs{gap:9px;margin-bottom:22px;}
   }
   @media (min-width:2200px){
     .ax-shell{max-width:1440px;}
-    .ax-navbar{max-width:1440px;}
     .ax-hero-wrap{width:560px;height:887px;}
     .ax-tab{font-size:15px;padding:10px 21px;}
   }
@@ -1877,7 +1862,7 @@ function MobileFilmstrip({ t, onOpen, days, entitled, hasSubscription }) {
 
 /* ---- SectionTabs: Design / Music / Movies / Games / Books — switches the hero deck.
    Pro 구독자에게는 맨 앞에 Insights(지식 네트워크) 진입 pill이 구분선과 함께 붙는다. ---- */
-function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights, actions }) {
+function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights, insightsActive, onInsights }) {
   const tabs = (
     <div className="ax-tabs" role="tablist" aria-label={tx('nav.sections')}
       style={flush ? { margin: 0, padding: 0, justifyContent: 'flex-start' } : undefined}>
@@ -1910,16 +1895,7 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
       })}
     </div>
   );
-  if (!actions) return tabs;
-  /* 카테고리와 오른쪽 버튼들을 한 줄에 둔다. 버튼 묶음은 고정이고 카테고리만
-     흐른다 — 폭이 모자라면 카테고리 쪽만 가로로 스크롤되고 Login·Pro·지구본은
-     항상 보인다. 버튼은 i18n.js가 이 자리에 옮겨 담는다(React 밖에서 만든다). */
-  return (
-    <div className="ax-navbar">
-      {tabs}
-      <div id="ax-actions" className="ax-actions" />
-    </div>
-  );
+  return tabs;
 }
 
 /* ---- MobileStickyHeader: a compact two-row bar that curtains down from the top once
@@ -2952,7 +2928,7 @@ function ThemedPage({ themeKey }) {
         </div>
         <div style={insightsOn ? { position: 'relative', zIndex: 3 } : undefined}>
           <SectionTabs sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection} t={t}
-            showInsights={true} insightsActive={insightsOn} onInsights={openInsights} actions />
+            showInsights={true} insightsActive={insightsOn} onInsights={openInsights} />
         </div>
         {/* back-to-today control — rendered only while viewing a past day. */}
         {!insightsOn && hero.day && (

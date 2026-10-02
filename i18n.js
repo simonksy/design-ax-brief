@@ -31,7 +31,16 @@
     if (!window.AX_I18N_ON || document.getElementById("ax-globe")) return;
     var css = document.createElement("style");
     css.textContent =
-      "#ax-globe{position:absolute;top:14px;right:14px;z-index:200;display:flex;align-items:center;" +
+      // 상단 고정 바 — 스크롤해도 늘 보인다. 배경은 불투명(반투명이면 윈도우에서
+      // ClearType이 꺼진다). 버튼들은 바 안의 flex 아이템이되 position:relative를
+      // 유지한다 — static으로 두면 Pro의 빛 쓸기(::after)와 지구본의 투명 select가
+      // 기준점을 잃고 페이지 전체에 앵커된다.
+      "#ax-topbar{position:fixed;top:0;left:0;right:0;height:52px;z-index:300;display:flex;" +
+      "align-items:center;justify-content:flex-end;gap:8px;padding:0 14px;box-sizing:border-box;" +
+      "background:#f4efe7;border-bottom:1px solid rgba(40,30,20,.10);}" +
+      "body{padding-top:52px;}" +
+      "@media (max-width:720px){#ax-topbar{height:48px;padding:0 10px;gap:6px;}body{padding-top:48px;}}" +
+      "#ax-globe{position:relative;z-index:200;flex:0 0 auto;display:flex;align-items:center;" +
       "justify-content:center;width:36px;height:36px;border-radius:50%;border:1px solid rgba(23,23,23,.22);" +
       "background:#fdfbf7;" +
       "color:#4a4540;" +
@@ -44,8 +53,8 @@
       // Pro 버튼은 이 사이트에서 돈이 들어오는 유일한 입구다. 주변의 담백한 알약들과
       // 같은 옷을 입고 있으면 아무도 누르지 않는다 — 그라데이션으로 칠하고, 천천히
       // 흐르게 두고, 가끔 빛이 한 번 쓸고 지나가게 한다.
-      "#ax-pro{position:absolute;top:14px;right:56px;z-index:200;display:flex;align-items:center;" +
-      "justify-content:center;height:36px;padding:0 16px;border-radius:18px;border:none;overflow:hidden;" +
+      "#ax-pro{position:relative;z-index:200;flex:0 0 auto;display:flex;align-items:center;" +
+      "justify-content:center;height:36px;padding:0 16px;border-radius:10px;border:none;overflow:hidden;" +
       "background:linear-gradient(110deg,#7928ca,#0070f3,#eb367f,#7928ca);background-size:300% 100%;" +
       "animation:axprohue 9s linear infinite;" +
       "color:#fff;cursor:pointer;font-family:Pretendard,system-ui,sans-serif;font-size:13px;font-weight:700;" +
@@ -65,8 +74,8 @@
       // 이미 구독한 사람이 새 기기에서 들어오면 로그인할 입구가 있어야 한다.
       // 로그인 상태를 알기 전/로그인한 뒤에는 감춘다 — right 값은 Pro 버튼의
       // 실제 너비를 재서 JS가 정한다(문구 길이가 언어마다 다르다).
-      "#ax-login{position:absolute;top:14px;z-index:200;display:none;align-items:center;" +
-      "justify-content:center;height:36px;padding:0 15px;border-radius:18px;" +
+      "#ax-login{position:relative;z-index:200;flex:0 0 auto;display:none;align-items:center;" +
+      "justify-content:center;height:36px;padding:0 15px;border-radius:10px;" +
       "border:1px solid rgba(23,23,23,.22);background:#fdfbf7;" +
       "color:#3a352f;" +
       "cursor:pointer;font-family:Pretendard,system-ui,sans-serif;font-size:13px;font-weight:700;" +
@@ -75,21 +84,14 @@
       "#ax-login:hover{border-color:rgba(23,23,23,.35);}" +
       "#ax-login:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
       "#ax-login .ax-login-short{display:none;}" +
-      // 카테고리 줄 안으로 들어갔을 때(React가 #ax-actions를 그린 경우).
-      // 절대위치를 버리고 한 줄의 일부가 된다 — 로고와 겹칠 일이 없어진다.
-      ".ax-actions #ax-globe,.ax-actions #ax-pro,.ax-actions #ax-login{position:static;top:auto;right:auto;}" +
-      ".ax-actions #ax-login{display:flex;}" +
       // 구독 중일 때 Pro 버튼 — 모션을 멈추고 차분한 완료 상태로 바꾼다.
       "#ax-pro.is-pro{animation:none;background:linear-gradient(110deg,#7928ca,#0070f3);" +
       "background-size:100% 100%;}" +
       "#ax-pro.is-pro::after{display:none;}" +
       // 모션을 줄여 달라는 설정은 존중한다 — 색만 남기고 움직임은 멈춘다.
       "@media (prefers-reduced-motion:reduce){#ax-pro{animation:none;}#ax-pro::after{display:none;}}" +
-      "@media (max-width:720px){#ax-globe{top:10px;right:10px;}" +
-      "#ax-pro{top:10px;right:52px;}#ax-pro .ax-pro-full{display:none;}#ax-pro .ax-pro-short{display:inline;}" +
-      // 폰에서는 로고 옆에 알약 셋이 들어가지 않는다 — Login이 로고를 파고들었다.
-      // 헤더에서는 빼고, 로그인 입구는 구독 팝업 안의 링크로 둔다(거기서 모두 닿는다).
-      "#ax-login{display:none!important;}}";
+      "@media (max-width:720px){#ax-pro .ax-pro-full{display:none;}#ax-pro .ax-pro-short{display:inline;}" +
+      "#ax-login .ax-login-full{display:none;}#ax-login .ax-login-short{display:inline;}}";
     document.head.appendChild(css);
     var box = document.createElement("div");
     box.id = "ax-globe";
@@ -132,29 +134,9 @@
     loginBtn.onclick = function () { window.dispatchEvent(new CustomEvent("ax:login")); };
     document.body.appendChild(loginBtn);
 
-    // React가 카테고리 줄(#ax-actions)을 그리면 세 버튼을 그 안으로 옮긴다.
-    // 그러면 로고 위에 떠 있지 않고 카테고리와 한 줄이 되어, 폭이 모자랄 때
-    // 카테고리만 가로로 흐르고 버튼은 오른쪽에 고정된다. React가 없는 페이지
-    // (archive 등)에서는 #ax-actions가 없으므로 지금처럼 우상단에 떠 있는다.
-    var docked = false;
-    var dock = function () {
-      var slot = document.getElementById("ax-actions");
-      if (!slot || docked) return !!slot;
-      slot.appendChild(loginBtn);
-      slot.appendChild(proBtn);
-      slot.appendChild(box);
-      docked = true;
-      return true;
-    };
-
-    // 떠 있는 동안에만 쓰는 가로 위치 — Pro 버튼 너비가 문구 길이(언어마다 다름)에
-    // 따라 달라지므로 실측해서 정한다. 도킹된 뒤에는 flex가 알아서 한다.
-    var placeLogin = function () {
-      if (docked) { loginBtn.style.right = ""; return; }
-      var proRight = window.innerWidth <= 720 ? 52 : 56;
-      loginBtn.style.right = (proRight + proBtn.offsetWidth + 8) + "px";
-    };
-
+    // 세 버튼은 상단 고정 바에 담긴다. 예전에는 body에 절대위치로 띄우고 폰에서
+    // 로고 중심선에 맞췄는데, 버튼이 셋이 되면서 로고를 파고들었다. 고정 바는
+    // 그 계산 자체를 없앤다 — 스크롤해도 늘 보이는 건 덤이다.
     // React가 /api/me를 읽고 나면 이걸 불러 준다. 로그인 상태를 모르는 동안에는
     // 로그인 버튼을 감춰 둔다 — Pro 구독자에게 잠깐 떴다 사라지는 게 더 어색하다.
     window.axSetAuthUI = function (auth) {
@@ -166,30 +148,15 @@
       proBtn.querySelector(".ax-pro-short").textContent =
         window.t(entitled ? "pro.cta_active_short" : "pro.cta_short");
       loginBtn.classList.toggle("on", !loggedIn);
-      placeLogin();
     };
 
-    // Mobile: centre the globe + Pro/Login buttons on the logo's horizontal midline
-    // (the logo is rendered by React after load, so re-measure on resize and for a
-    // few frames). They move together so they never drift apart.
-    var align = function () {
-      dock();
-      placeLogin();
-      // 도킹되면 줄의 일부라 로고 정렬 계산이 필요 없다.
-      if (docked) { box.style.top = ""; proBtn.style.top = ""; loginBtn.style.top = ""; return; }
-      var logo = document.querySelector("[data-ax-logo]");
-      if (!logo || window.innerWidth > 720) {
-        box.style.top = ""; proBtn.style.top = ""; loginBtn.style.top = ""; return;
-      }
-      var r = logo.getBoundingClientRect();
-      if (!r.height) return;
-      var mid = r.top + window.scrollY + r.height / 2;
-      box.style.top = Math.round(mid - box.offsetHeight / 2) + "px";
-      proBtn.style.top = Math.round(mid - proBtn.offsetHeight / 2) + "px";
-      loginBtn.style.top = Math.round(mid - loginBtn.offsetHeight / 2) + "px";
-    };
-    window.addEventListener("resize", align);
-    var tries = 0, tick = setInterval(function () { align(); if (++tries > 80) clearInterval(tick); }, 100);
+    var bar = document.createElement("div");
+    bar.id = "ax-topbar";
+    bar.appendChild(loginBtn);
+    bar.appendChild(proBtn);
+    bar.appendChild(box);
+    document.body.appendChild(bar);
+
   };
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", window.axMountGlobe);
   else window.axMountGlobe();
