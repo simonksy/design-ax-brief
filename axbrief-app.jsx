@@ -133,26 +133,12 @@ if (!document.getElementById('ax-styles')) {
      Consolas/Courier New로 떨어졌고 — 다른 폰트, 더 거친 렌더링, 더 딱딱한 인상.
      이미 불러와 둔 Pretendard로 통일한다: 한글·영문 모두 설계된 폰트라 두 OS에서
      같게 보이고 가독성도 낫다. */
-  .ax-tab{font-family:'Pretendard',var(--font-sans);font-size:14px;letter-spacing:-0.005em;font-weight:700;
-     cursor:pointer;padding:8px 18px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
+  .ax-tab{font-family:'Pretendard',var(--font-sans);font-size:13px;letter-spacing:-0.005em;font-weight:700;
+     cursor:pointer;padding:7px 16px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
   .ax-tab:active{transform:scale(.95);}
   @media (max-width:760px){
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}
     .ax-tabs::-webkit-scrollbar{display:none;}
-  }
-  /* 큰 화면 — 2560px 모니터나 윈도우 125% 배율(=2304 CSS px)에서는 1120px 본문에
-     480px 카드라 화면의 5분의 1만 쓰고 모든 게 작아 보였다. 폭과 카드를 함께 키운다.
-     카드 안쪽은 고정 px라 비율이 어긋나지 않게 폭·높이를 같은 비(480:760)로 늘린다. */
-  @media (min-width:1700px){
-    .ax-shell{max-width:1280px;padding:40px 44px 100px;}
-    .ax-hero-wrap{width:520px;height:823px;}
-    .ax-tab{font-size:14.5px;padding:9px 19px;}
-    .ax-tabs{gap:9px;margin-bottom:22px;}
-  }
-  @media (min-width:2200px){
-    .ax-shell{max-width:1440px;}
-    .ax-hero-wrap{width:560px;height:887px;}
-    .ax-tab{font-size:15px;padding:10px 21px;}
   }
   /* ---- Pro 비교표 + 요금제 버튼 (SubscribeModal). 색·모션은 Pro 열과 할인
      스티커에만 쓴다 — 나머지 모달은 사이트의 절제된 톤을 그대로 유지한다. */
@@ -772,6 +758,9 @@ function SubscribeModal({ onClose, t, initialPhase }) {
       // 409 = 이미 Paddle 구독 행이 있다. 두 번째 구독을 열면 첫 구독이 고아가 되므로
       // 서버가 막는다 — 사용자는 '구독 관리'로 가야 한다.
       if (res.status === 409) { setPhase('error'); setNote(tx('paywall.already_subscribed')); return; }
+      // 503 sandbox_mode = 운영자 검증용 가드. 오류가 아니라 의도된 차단이라
+      // 같은 문구로 뭉뚱그리면 진짜 오류와 구별되지 않는다.
+      if (res.status === 503) { setPhase('error'); setNote(tx('paywall.sandbox_mode')); return; }
       if (!res.ok) { setPhase('error'); setNote(tx('paywall.checkout_failed')); return; }
       const cfg = await res.json();
       const Paddle = await loadPaddle(cfg.clientToken, cfg.environment);
@@ -966,7 +955,7 @@ function fallbackCopy(text) {
     document.body.appendChild(ta); ta.focus(); ta.select(); document.execCommand('copy'); ta.remove(); } catch (e) {}
 }
 
-function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, section, wide }) {
+function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, section }) {
   // Share a per-card static page (/s/<section>/<id>) — it carries OG/Twitter meta so
   // the link unfurls with the card's image + headline, then redirects into the app
   // (/?c=<section>:<id>). The legacy ?c= link still works if anyone has one copied.
@@ -985,11 +974,11 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
       </div>
       <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column', padding: mobile ? '16px 18px 18px' : '22px 26px 22px' }}>
         <Eyebrow item={it} index={index} total={total} t={t} />
-        <h2 className="ax-hl" style={{ fontSize: mobile ? 21 : wide ? 31 : 28, lineHeight: 1.18, marginTop: mobile ? 10 : 14, color: t.hl }}>{it.headline}</h2>
+        <h2 className="ax-hl" style={{ fontSize: mobile ? 21 : 28, lineHeight: 1.18, marginTop: mobile ? 10 : 14, color: t.hl }}>{it.headline}</h2>
         {/* wrapper is the flex item (blockified safely); the <p> stays a real
             -webkit-box so -webkit-line-clamp actually caps at 3 lines */}
         <div style={{ flex: '0 0 auto', marginTop: mobile ? 9 : 12 }}>
-          <p className="ax-body" style={{ fontSize: mobile ? 14 : wide ? 16.5 : 15, lineHeight: 1.55, margin: 0, color: t.body,
+          <p className="ax-body" style={{ fontSize: mobile ? 14 : 15, lineHeight: 1.55, margin: 0, color: t.body,
             display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden',
             maxHeight: 'calc(1.55em * 3)' }}>{it.body}</p>
         </div>
@@ -1099,15 +1088,19 @@ function FullArticle({ item, t, section, onClose }) {
   return (
     <React.Fragment>
       <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
-        <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12 }}>
-        <div style={{ minWidth: 0, flex: 1 }}>
+        <div style={{ minWidth: 0 }}>
+          {/* 크기 조절은 eyebrow 줄 끝에 둔다 — 제목과 한 줄에 두면 제목 폭이 줄어
+              멀쩡하던 헤드라인이 꺾인다. */}
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
             {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {tx('card.preview_translated')}</span>
           </div>
           {it.untranslated && <UntranslatedNote t={t} style={{ marginBottom: 7 }} />}
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
-        </div>
-        <FontSizeControl idx={sizeIdx} set={setSizeIdx} t={t} />
+          {/* 크기 조절은 제목 아래 자기 줄에. eyebrow와 한 줄에 두면 폰에서 자리가
+              모자라 제목까지 밀려 꺾인다. */}
+          <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: 10 }}>
+            <FontSizeControl idx={sizeIdx} set={setSizeIdx} t={t} />
+          </div>
         </div>
       </div>
       {/* extra bottom padding so the last line clears the floating close pill */}
@@ -1157,14 +1150,14 @@ function PremiumFullArticle({ item, t, section, onClose }) {
   return (
     <React.Fragment>
       <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
-        <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12 }}>
-        <div style={{ minWidth: 0, flex: 1 }}>
+        <div style={{ minWidth: 0 }}>
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>{it.eyebrow} · {it.tool}</div>
           {(it.untranslated || (state.status === 'ready' && state.lang && state.lang !== want)) &&
             <UntranslatedNote t={t} style={{ marginBottom: 7 }} />}
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
-        </div>
-        <FontSizeControl idx={sizeIdx} set={setSizeIdx} t={t} />
+          <div style={{ display: 'flex', justifyContent: 'flex-end', marginTop: 10 }}>
+            <FontSizeControl idx={sizeIdx} set={setSizeIdx} t={t} />
+          </div>
         </div>
       </div>
       <div className="ax-full ax-body" style={{ color: t.body, fontSize: FULL_SIZES[sizeIdx],
@@ -1203,13 +1196,13 @@ function PremiumFullArticle({ item, t, section, onClose }) {
    the overlay (or Enter/Space) opens SubscribeModal; the underlying card content
    is inert (pointerEvents: none) and never flips/expands — there is no `full` in
    the payload for a locked card, so there's nothing to open. ---- */
-function LockedCard({ item, index, total, t, mobile, section, wide }) {
+function LockedCard({ item, index, total, t, mobile, section }) {
   const [showSubscribe, setShowSubscribe] = useState(false);
   return (
     <div style={{ height: '100%', position: 'relative', overflow: 'hidden', borderRadius: 'inherit' }}>
       <div aria-hidden style={{ height: '100%', pointerEvents: 'none',
         filter: 'blur(10px) saturate(.7) brightness(.94)', transform: 'scale(1.04)' }}>
-        <LayoutEditorial item={item} index={index} total={total} active={false} t={t} mobile={mobile} section={section} wide={wide} />
+        <LayoutEditorial item={item} index={index} total={total} active={false} t={t} mobile={mobile} section={section} />
       </div>
       <div role="button" tabIndex={0} aria-label={tx('paywall.unlock_all')}
         onClick={() => setShowSubscribe(true)}
@@ -1236,7 +1229,7 @@ function LockedCard({ item, index, total, t, mobile, section, wide }) {
    to the FullArticle back. Desktop-first (the back uses absolute faces that need a
    fixed-height card; on mobile, where the hero is content-height, fall back to the
    plain summary card for now). ---- */
-function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section, entitled, wide }) {
+function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section, entitled }) {
   const [flipped, setFlipped] = useState(false);
   const [flipping, setFlipping] = useState(false);   // true during the rotate animation
   const flipTimer = useRef();
@@ -1253,14 +1246,14 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
   // EXCEPT for an entitled subscriber: they get the normal flip card below,
   // whose back (PremiumFullArticle) lazy-fetches the deep-dive from the Worker.
   if (item.locked && !entitled) {
-    return <LockedCard item={item} index={index} total={total} t={t} mobile={mobile} section={section} wide={wide} />;
+    return <LockedCard item={item} index={index} total={total} t={t} mobile={mobile} section={section} />;
   }
   // public payload carries hasFull as a plain boolean; item.full (when present) is
   // the COMPLETE deep-dive (free/archive cards only — see FullArticle). A locked
   // card reaching this point is only here because the viewer is entitled.
   const hasFull = item.locked ? true : !!item.hasFull;
   if (!hasFull) {
-    return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} wide={wide} />;
+    return <LayoutEditorial item={item} index={index} total={total} active={active} t={t} mobile={mobile} />;
   }
   // 3D only while flipping/flipped. At rest on the front the card is a plain 2D element
   // (no perspective/preserve-3d → no compositing layer → vertical touch scrolls the page).
@@ -1270,7 +1263,7 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
       <div className={'ax-flip' + (flipped ? ' flipped' : '')} style={{ transformStyle: use3d ? 'preserve-3d' : 'flat' }}>
         <div className="ax-flip-face">
           <LayoutEditorial item={item} index={index} total={total} active={active && !flipped} t={t} mobile={mobile}
-            onExpand={() => doFlip(true)} section={section} wide={wide} />
+            onExpand={() => doFlip(true)} section={section} />
         </div>
         {/* hide the back when flat (no backface-visibility in a flat context) so it can't
             bleed over the front; only the active card mounts the heavy article. */}
@@ -1285,7 +1278,8 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
 }
 
 /* ---- themed circular nav ---- */
-function NavButton({ dir, disabled, onClick, t }) {
+function NavButton({ dir, disabled, onClick, t, size }) {
+  const d = size || 34;
   const styles = {
     light: { bg: 'rgba(255,255,255,.7)', bd: 'rgba(40,30,20,.14)', fg: '#1c1a18' },
     dark: { bg: 'rgba(255,255,255,.1)', bd: 'rgba(255,255,255,.22)', fg: '#fff' },
@@ -1293,10 +1287,10 @@ function NavButton({ dir, disabled, onClick, t }) {
   }[t.nav];
   return (
     <button aria-label={dir === 'l' ? tx('nav.prev') : tx('nav.next')} disabled={disabled} onClick={onClick}
-      style={{ width: 34, height: 34, borderRadius: '50%', display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
+      style={{ width: d, height: d, borderRadius: '50%', display: 'inline-flex', alignItems: 'center', justifyContent: 'center',
         background: styles.bg, border: `1px solid ${styles.bd}`, color: styles.fg, cursor: disabled ? 'default' : 'pointer',
-        opacity: disabled ? .35 : 1, WebkitBackdropFilter: 'blur(8px)', backdropFilter: 'blur(8px)', transition: 'opacity .15s' }}>
-      <svg width="15" height="15" viewBox="0 0 18 18" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        opacity: disabled ? .35 : 1, boxShadow: '0 6px 18px -8px rgba(40,30,20,.45)', transition: 'opacity .15s, transform .12s' }}>
+      <svg width={Math.round(d * 0.44)} height={Math.round(d * 0.44)} viewBox="0 0 18 18" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
         <path d={dir === 'l' ? 'M11 3L5 9l6 6' : 'M7 3l6 6-6 6'} />
       </svg>
     </button>
@@ -1309,9 +1303,6 @@ function NavButton({ dir, disabled, onClick, t }) {
    sliding cards are full-bleed — no rounded-corner gaps on swipe.
    ============================================================ */
 function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
-  // 넓은 화면에서는 카드 틀이 커진다 — 안쪽 타이포도 같이 키워야 비례가 맞는다.
-  // Insights의 카드는 480 기준으로 그린 뒤 통째로 scale하므로 거기엔 주지 않는다.
-  const wide = useWide();
   const [idx, setIdx] = useState(initialIndex);
   // 잠긴 카드로 넘어오면 구독 창을 한 번 띄운다. 한 번인 게 중요하다 — 닫을 때마다
   // 다시 뜨면 넘길 때마다 가로막는 꼴이라, 설득이 아니라 방해가 된다. 그래서
@@ -1382,7 +1373,7 @@ function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
     return () => { el.removeEventListener('touchstart', onStart); el.removeEventListener('touchmove', onMove); el.removeEventListener('touchend', onEnd); };
   }, [total]);
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0 }}>
+    <div style={{ display: 'flex', flexDirection: 'column', height: '100%', minHeight: 0, position: 'relative' }}>
       <div className="ax-heroin" ref={viewportRef} style={{ flex: 1, minHeight: 0, overflow: 'clip',
         touchAction: 'pan-y',   // browser owns vertical (page / article); JS owns horizontal
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
@@ -1390,21 +1381,30 @@ function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
         <div className="ax-track" ref={trackRef} style={{ transform: `translateX(${-idx * 100}%)` }}>
           {items.map((it, i) => (
             <div className="ax-slide" key={i}>
-              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} entitled={entitled} wide={wide} />
+              <FlipCard item={it} index={i} total={total} active={i === idx} t={t} mobile={mobile} section={section} entitled={entitled} />
             </div>
           ))}
         </div>
       </div>
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 16, paddingTop: mobile ? 12 : 16 }}>
-        <NavButton dir="l" disabled={idx === 0} onClick={() => go(idx - 1)} t={t} />
-        <div style={{ display: 'flex', gap: 7, alignItems: 'center' }}>
-          {items.map((_, i) => (
-            <button key={i} aria-label={tx('nav.card', { n: i + 1 })} onClick={() => go(i)}
-              style={{ border: 'none', padding: 0, cursor: 'pointer', height: 6, borderRadius: 3,
-                width: i === idx ? 22 : 6, transition: 'all .2s', background: i === idx ? t.dotOn : t.dotOff }} />
-          ))}
-        </div>
-        <NavButton dir="r" disabled={idx === total - 1} onClick={() => go(idx + 1)} t={t} />
+      {/* 좌우 이동은 카드 바깥 여백의 중앙 높이에. 점 옆에 모여 있을 때보다
+          넘기려는 손이 가는 자리에 가깝다. 카드에 붙이지 않고 조금 띄운다.
+          폰에서는 여백이 없으니 숨기고 스와이프에 맡긴다. */}
+      {!mobile && (
+        <React.Fragment>
+          <div style={{ position: 'absolute', left: -58, top: '50%', transform: 'translateY(-50%)', zIndex: 4 }}>
+            <NavButton dir="l" disabled={idx === 0} onClick={() => go(idx - 1)} t={t} size={44} />
+          </div>
+          <div style={{ position: 'absolute', right: -58, top: '50%', transform: 'translateY(-50%)', zIndex: 4 }}>
+            <NavButton dir="r" disabled={idx === total - 1} onClick={() => go(idx + 1)} t={t} size={44} />
+          </div>
+        </React.Fragment>
+      )}
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 7, paddingTop: mobile ? 12 : 16 }}>
+        {items.map((_, i) => (
+          <button key={i} aria-label={tx('nav.card', { n: i + 1 })} onClick={() => go(i)}
+            style={{ border: 'none', padding: 0, cursor: 'pointer', height: 6, borderRadius: 3,
+              width: i === idx ? 22 : 6, transition: 'all .2s', background: i === idx ? t.dotOn : t.dotOff }} />
+        ))}
       </div>
     </div>
   );
@@ -1744,23 +1744,6 @@ function HeroDeckIntro({ day, cardIdx, t, onDone, mobile }) {
   );
 }
 
-/* ---- useWide: 넓은 화면 여부. 큰 모니터와 윈도우 저배율에서 카드가 화면의
-   5분의 1만 쓰던 문제 때문에, 틀과 함께 안쪽 타이포도 한 단계 키운다. ---- */
-function useWide(minW = 1700) {
-  const q = `(min-width:${minW}px)`;
-  const [on, setOn] = useState(() => typeof window !== 'undefined'
-    && !!(window.matchMedia && window.matchMedia(q).matches));
-  useEffect(() => {
-    if (!window.matchMedia) return;
-    const m = window.matchMedia(q);
-    const fn = () => setOn(m.matches);
-    fn();
-    m.addEventListener ? m.addEventListener('change', fn) : m.addListener(fn);
-    return () => { m.removeEventListener ? m.removeEventListener('change', fn) : m.removeListener(fn); };
-  }, [q]);
-  return on;
-}
-
 /* ---- useIsMobile: reactive max-width media query (no hover on touch) ---- */
 function useIsMobile(maxW) {
   const q = `(max-width:${maxW}px)`;
@@ -1839,7 +1822,7 @@ function MobileFilmstrip({ t, onOpen, days, entitled, hasSubscription }) {
                     <div style={{ padding: '10px 11px 12px' }}>
                       <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5 }}>{c.tool}</div>
                       {/* reserve 3 lines so every card is the same height regardless of headline length */}
-                      <div className="ax-hl" style={{ fontSize: 14.5, lineHeight: 1.34, color: t.hl, height: 'calc(1.34em * 3)',
+                      <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl, height: 'calc(1.32em * 3)',
                         display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
                     </div>
                   </button>
@@ -1915,8 +1898,11 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
   }, []);
   const g = Math.max(12, Math.round(gutter || 14));   // left/right inset = the card's edges
   return (
+    /* 상단 고정 바(#ax-topbar, 폰에서 48px) 아래로 내려 앉는다 — top:0이면 그 위를
+       덮어 두 바가 겹치고 레이아웃이 깨진다. 로고는 이 줄 왼쪽, Login·Pro·지구본은
+       위 바 오른쪽에 있다. */
     <div aria-hidden={!stuckTitle} style={{
-      position: 'fixed', top: 0, left: 0, right: 0, zIndex: 120, overflow: 'hidden',
+      position: 'fixed', top: 48, left: 0, right: 0, zIndex: 120, overflow: 'hidden',
       // stage 1 → only the title row; stage 2 → grow to reveal the tabs row beneath it
       height: stuckTabs ? titleH + tabsH : titleH,
       transform: stuckTitle ? 'translateY(0)' : 'translateY(-101%)',
@@ -1955,25 +1941,7 @@ const INSIGHTS_COLORS = {
   books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#9aa8c7',
 };
 const insightsLabel = (sec) => tx('insights.legend_' + sec);   // legend label per section key
-const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비 (기본)
-/* 넓은 화면에서는 열을 키운다. 카드는 컨테이너 폭에 맞춰 scale되므로(cardScale)
-   열이 넓어지면 카드 안의 글자도 같이 커진다. 2560px 모니터나 윈도우 125% 배율
-   (=2304 CSS px)에서 480px짜리 카드가 화면의 5분의 1만 쓰던 문제를 푼다. */
-const INSIGHTS_CARD_W_WIDE = 520;
-function insightsCardW() {
-  return (typeof window !== 'undefined' && window.innerWidth >= 1700)
-    ? INSIGHTS_CARD_W_WIDE : INSIGHTS_CARD_W;
-}
-function useInsightsCardW() {
-  const [w, setW] = useState(insightsCardW);
-  useEffect(() => {
-    const on = () => setW(insightsCardW());
-    window.addEventListener('resize', on);
-    return () => window.removeEventListener('resize', on);
-  }, []);
-  return w;
-}
-const INSIGHTS_GAP = 14;
+const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비
 const INSIGHTS_H = Math.round(INSIGHTS_CARD_W * 760 / 480);   // 카드(480:760) 높이 = 두 칸 공통 높이
 const INSIGHTS_DIM = 'rgba(128,136,162,0.38)';   // 포커스 밖 노드·엣지 — 배경보다 살짝 밝게 + 반투명(시야 확보)
 
@@ -2012,7 +1980,6 @@ function InsightsView({ t, mobile, entitled }) {
   // 카드 칸은 히어로 원본(480×760)을 통째로 스케일해서 넣는다 — 타이포·줄바꿈이
   // 본 사이트와 동일해져 긴 제목에도 Read 버튼이 잘리지 않는다.
   const cardBoxRef = useRef();
-  const cardW = useInsightsCardW();
   const [cardScale, setCardScale] = useState(INSIGHTS_CARD_W / 480);
   useEffect(() => {
     const box = cardBoxRef.current; if (!box) return;
@@ -2579,7 +2546,7 @@ function InsightsView({ t, mobile, entitled }) {
           )}
         </div>
         <div style={{ padding: '10px 11px 12px' }}>
-          <div className="ax-eyebrow" style={{ fontSize: 10.5, color: t.mute, marginBottom: 6,
+          <div className="ax-eyebrow" style={{ fontSize: 10, color: t.faint, marginBottom: 5,
             display: 'flex', alignItems: 'center', gap: 5 }}>
             <span aria-hidden style={{ width: 8, height: 8, borderRadius: '50%', flex: '0 0 auto',
               background: INSIGHTS_COLORS[n.section] || '#8a8377' }} />
@@ -2605,13 +2572,12 @@ function InsightsView({ t, mobile, entitled }) {
     <div style={{ width: '100vw', position: 'relative', left: '50%', transform: 'translateX(-50%)' }}>
     {/* 상단 2분할: [3D 네트워크 창 | 클릭된 노드의 뉴스 카드] */}
     <div style={{ display: 'flex', flexDirection: mobile ? 'column' : 'row', gap: INSIGHTS_GAP,
-      alignItems: 'flex-start', maxWidth: cardW > INSIGHTS_CARD_W ? 1720 : 1320,
-      margin: '8px auto 0', padding: '0 16px',
+      alignItems: 'flex-start', maxWidth: 1320, margin: '8px auto 0', padding: '0 16px',
       boxSizing: 'border-box' }}>
       {/* 네트워크 창 — 히어로 프레임, 남는 폭 전부 사용 */}
       <div style={{ flex: mobile ? 'none' : '1 1 auto', minWidth: 0, position: 'relative',
         width: mobile ? '100%' : 'auto',
-        height: mobile ? 'max(52vh, 320px)' : Math.round(cardW * 760 / 480),
+        height: mobile ? 'max(52vh, 320px)' : INSIGHTS_H,
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
         background: 'radial-gradient(120% 95% at 50% 38%, #2b2f3d 0%, #20232f 46%, #171923 82%, #101219 100%)',
         overflow: 'hidden' }}>
@@ -2654,7 +2620,7 @@ function InsightsView({ t, mobile, entitled }) {
                   cursor: 'pointer', opacity: off ? 0.55 : 1, userSelect: 'none' }}>
                 <span style={{ width: 9, height: 9, borderRadius: '50%', flex: '0 0 auto',
                   background: INSIGHTS_COLORS[s] }} />
-                <span className="ax-eyebrow" style={{ color: '#4a453e', fontSize: 12, flex: 1, minWidth: 60 }}>
+                <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10, flex: 1, minWidth: 52 }}>
                   {insightsLabel(s)}
                 </span>
                 {/* 눈 아이콘 — 뜬 눈 = 표시 중, 감은 눈 = 숨김 */}
@@ -2674,7 +2640,7 @@ function InsightsView({ t, mobile, entitled }) {
               </div>
             );
           })}
-          <div className="ax-eyebrow" style={{ color: '#6d675f', fontSize: 11, marginTop: 7, borderTop: '1px solid #eee6d9', paddingTop: 6 }}>
+          <div className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 9.5, marginTop: 6, borderTop: '1px solid #eee6d9', paddingTop: 5 }}>
             {tx('insights.size_legend')}
           </div>
         </div>
@@ -2687,13 +2653,13 @@ function InsightsView({ t, mobile, entitled }) {
             placeholder={mobile ? tx('insights.search_placeholder_mobile') : tx('insights.search_placeholder')}
             style={{ width: '100%', boxSizing: 'border-box', padding: mobile ? '10px 70px 10px 16px' : '11px 74px 11px 20px', borderRadius: 999,
               border: '1px solid #ddd5c7', background: 'rgba(255,255,255,.94)', color: '#171717',
-              fontSize: mobile ? 16 : 14.5, fontFamily: 'inherit', outline: 'none',
+              fontSize: mobile ? 16 : 13, fontFamily: 'inherit', outline: 'none',
               boxShadow: '0 6px 18px -8px rgba(80,50,40,.25)' }} />
           {query.trim() && (
             <div style={{ position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)',
               display: 'flex', alignItems: 'center', gap: 7 }}>
               {searchRef.current && (
-                <span className="ax-eyebrow" style={{ color: '#6d675f', fontSize: 11.5 }}>{tx('insights.match_count', { n: searchRef.current.size })}</span>
+                <span className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 10 }}>{tx('insights.match_count', { n: searchRef.current.size })}</span>
               )}
               <button aria-label={tx('insights.clear_search')} onClick={() => onSearch('')}
                 style={{ width: 24, height: 24, borderRadius: '50%', border: '1px solid #ddd5c7',
@@ -2708,7 +2674,7 @@ function InsightsView({ t, mobile, entitled }) {
         </div>
       </div>
       {/* 클릭된 노드의 뉴스 카드 (히어로 프레임 — 불투명·라운드·플립) */}
-      <div style={{ width: mobile ? '100%' : cardW, flex: 'none' }}>
+      <div style={{ width: mobile ? '100%' : INSIGHTS_CARD_W, flex: 'none' }}>
         <div ref={cardBoxRef} style={{ aspectRatio: '480 / 760', position: 'relative',
           borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
           background: solid, overflow: 'clip' }}>
@@ -2733,8 +2699,7 @@ function InsightsView({ t, mobile, entitled }) {
     </div>
     {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     {/* 하단: 연관 뉴스 카루셀 — 넘치면 좌우 화살표로 가로 스크롤 넛징 */}
-    <div style={{ maxWidth: cardW > INSIGHTS_CARD_W ? 1720 : 1320, margin: '18px auto 40px',
-      padding: '0 2px', boxSizing: 'border-box', position: 'relative' }}>
+    <div style={{ maxWidth: 1320, margin: '18px auto 40px', padding: '0 2px', boxSizing: 'border-box', position: 'relative' }}>
       <div className="ax-strip" ref={stripRef} onScroll={stripScrollCheck}>
         {stripIds.map((id) => <StripCard key={id} id={id} />)}
       </div>
