@@ -50044,6 +50044,14 @@
     "ja": {
      "headline": "エボラゲノム72個で\n伝播モデルを即時調整",
      "body": "INRAEが神経事後推定で系統動力学モデルの調整を大幅に高速化した。"
+    },
+    "zh": {
+     "headline": "72份埃博拉基因组\n实时校准传播模型",
+     "body": "INRAE团队用神经后验估计大幅提升了系统动力学模型的校准速度。"
+    },
+    "es": {
+     "headline": "72 genomas de ébola afinan\nmodelos de transmisión en vivo",
+     "body": "El INRAE usó estimación posterior neuronal para acelerar la calibración de modelos filodinámicos."
     }
    }
   },
@@ -50059,7 +50067,25 @@
    "image": "pipeline/media/science-timesfm-3.png",
    "date": "2026-09-01",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "다변량 시계열을 학습 없이\n예측하는 TimesFM-3",
+     "body": "과제별 학습 없이 다변량 시계열을 예측하는 제로샷 모델로, 기후와 건강 모니터링까지 겨냥한다."
+    },
+    "en": {
+     "headline": "TimesFM-3 Forecasts\nMultivariate Series, No Training",
+     "body": "It's a zero-shot model for multivariate time series, aimed even at climate and health monitoring."
+    },
+    "ja": {
+     "headline": "学習なしで多変量\n予測するTimesFM-3",
+     "body": "学習なしで多変量時系列を予測するゼロショットモデルで、気候や健康モニタリングも見据える。"
+    },
+    "es": {
+     "headline": "TimesFM-3 predice series\nmultivariadas sin entrenar",
+     "body": "Es un modelo de cero disparos para series temporales multivariadas, pensado incluso para el clima y la salud."
+    }
+   }
   },
   {
    "id": "books-appeal-over-legal-fees",
@@ -50073,7 +50099,29 @@
    "image": "pipeline/media/books-appeal-over-legal-fees.jpg",
    "date": "2026-09-02",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "변호사 수임료를 둘러싼 항소로\n앤스로픽 합의금 지급이 밀린다",
+     "body": "변호인단의 수임료 항소로 앤스로픽 15억 달러 합의금 지급이 더 밀리게 됐다."
+    },
+    "en": {
+     "headline": "An Appeal Over Legal Fees\nDelays Anthropic's Payout",
+     "body": "An appeal over lawyers' fees pushes back payment of Anthropic's $1.5 billion settlement."
+    },
+    "ja": {
+     "headline": "弁護士費用で控訴\nアンソロピック和解金遅延",
+     "body": "弁護団の費用控訴で、アンソロピックの15億ドル支払いが一段と遅れる。"
+    },
+    "zh": {
+     "headline": "律师费上诉致\nAnthropic赔款延迟",
+     "body": "律师团就律师费提出上诉,令Anthropic15亿美元赔款支付进一步延迟。"
+    },
+    "es": {
+     "headline": "Una apelación por honorarios\nretrasa el pago de Anthropic",
+     "body": "Una apelación de los abogados por sus honorarios retrasa aún más el pago del acuerdo de 1.500 millones de Anthropic."
+    }
+   }
   },
   {
    "id": "books-guest-post-the-human",
@@ -50419,7 +50467,29 @@
    "image": null,
    "date": "2026-09-02",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Canva를 겨눈 Google Pics\n테스터 한정 풀고 전면 공개",
+     "body": "Google이 테스터 한정이던 디자인 앱 Google Pics를 전면 공개했다."
+    },
+    "en": {
+     "headline": "Google Pics takes aim at Canva,\nnow open to everyone",
+     "body": "Google has opened Google Pics, a design app once limited to testers, to everyone."
+    },
+    "ja": {
+     "headline": "Canva照準の\nGoogle Pics全開放",
+     "body": "Googleがテスター限定だったGoogle Picsを全面公開した。"
+    },
+    "zh": {
+     "headline": "直指Canva的\nGoogle Pics全开放",
+     "body": "Google将原本限测试者使用的设计应用Google Pics全面开放。"
+    },
+    "es": {
+     "headline": "Google Pics apunta a Canva,\nya abierto a todos",
+     "body": "Google ha abierto por completo Google Pics, una app de diseño antes limitada a testers."
+    }
+   }
   },
   {
    "id": "gadgets-meta-muse-transcribe",
@@ -50433,7 +50503,29 @@
    "image": null,
    "date": "2026-09-02",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "겹쳐 말해도 화자를 갈라내는\nMeta 실시간 전사 모델",
+     "body": "Meta가 겹친 말도 화자별로 갈라내는 첫 실시간 음성 모델을 내놨다."
+    },
+    "en": {
+     "headline": "Meta's real-time transcription\nsplits speakers who overlap",
+     "body": "Meta released its first real-time voice model that separates speakers even when they talk over each other."
+    },
+    "ja": {
+     "headline": "重複発話も分離\nMeta即時転写",
+     "body": "Metaが重なる声も話者別に分ける初の即時音声モデルを出した。"
+    },
+    "zh": {
+     "headline": "重叠也能分人\nMeta实时转写",
+     "body": "Meta推出了首个能按说话人分离重叠语音的实时转写模型。"
+    },
+    "es": {
+     "headline": "El modelo de Meta separa voces\naunque hablen a la vez",
+     "body": "Meta lanzó su primer modelo de voz en tiempo real que distingue a cada hablante incluso si se superponen."
+    }
+   }
   },
   {
    "id": "gadgets-paint-ai-watermark",
@@ -50447,7 +50539,13 @@
    "image": null,
    "date": "2026-09-02",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "내 PC에서 만든 AI 이미지에\n서버가 발급한 식별자가 박힌다",
+     "body": "Windows Paint가 AI 이미지에 서버 발급 GUID를 보이지 않게 새긴다."
+    }
+   }
   },
   {
    "id": "gadgets-sonos-27",
@@ -50461,7 +50559,29 @@
    "image": null,
    "date": "2026-09-02",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "앱을 새로 짜고 에이전트에게\n시스템을 여는 Sonos 27",
+     "body": "Sonos가 공개 MCP 서버를 열어 외부 AI 에이전트에 스피커 제어를 넘겼다."
+    },
+    "en": {
+     "headline": "Sonos 27 rewrites the app\nand opens the system to agents",
+     "body": "Sonos opened a public MCP server and handed speaker control to outside AI agents."
+    },
+    "ja": {
+     "headline": "アプリ刷新し\nSonos 27が解放",
+     "body": "Sonosが公開MCPサーバーで外部AIエージェントにスピーカー制御を開放した。"
+    },
+    "zh": {
+     "headline": "Sonos 27重写App\n开放系统给AI",
+     "body": "Sonos开放公共MCP服务器,把音箱控制权交给外部AI智能体。"
+    },
+    "es": {
+     "headline": "Sonos 27 reescribe la app\ny abre el sistema a agentes",
+     "body": "Sonos abrió un servidor MCP público y cedió el control de los altavoces a agentes de IA externos."
+    }
+   }
   },
   {
    "id": "games-30-years-later-i",
@@ -50475,7 +50595,17 @@
    "image": "pipeline/media/games-30-years-later-i.jpg",
    "date": "2026-09-02",
    "section": "games",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "AI가 거든 PS1 Quake보다\n손으로 짠 옛 포팅이 나았다",
+     "body": "AI가 거든 PS1 Quake 포팅보다 AI를 안 쓴 옛 QuakePSX가 나았다."
+    },
+    "en": {
+     "headline": "The old hand-coded port beat\nthe AI-assisted PS1 Quake",
+     "body": "The old QuakePSX port, made without AI, was better than the AI-assisted PS1 Quake port."
+    }
+   }
   },
   {
    "id": "games-dwarf-fortress-creator-calls",

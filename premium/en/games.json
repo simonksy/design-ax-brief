@@ -4501,6 +4501,57 @@
           "x": "The algorithm was developed in Unity 3D but can be ported to other engines. Carpenter is preparing a few more features, including releasing it as a Unity package anyone can grab. The full blog post and web demo are available in the original article."
         }
       ]
+    },
+    "games/games-30-years-later-i": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DRr2MjfGwEffDEDE78LQnC-1920-80.jpg",
+          "cap": "Quake running on a PS1"
+        },
+        {
+          "t": "p",
+          "x": "I stumbled onto a new PS1 homebrew that included a Quake demo and thought I'd finally found a way to properly enjoy this shooter on a Sony console. Unlike DOOM, this iconic MS-DOS game never got invited to the PlayStation party in the '90s. But my plan to just kick back and play it was shattered by one detail: it was made with AI."
+        },
+        {
+          "t": "p",
+          "x": "Yes, it's yet another impressive retro console project with AI lurking beneath the surface. It's a shame, too. The PSxOxide demo packs Quake alongside a strange and wonderful bundle that includes PS1 versions of Minecraft, Guitar Hero and Rocket League, plus Celeste Classic if you're into platformers. But all of it lends support to AI-assisted development."
+        },
+        {
+          "t": "p",
+          "x": "On the demo's GitHub, PSoXide developer EBonura said it received \"substantial AI assistance under human direction and hardware verification.\" The code wasn't generated wholesale — Claude was used for debugging and development support."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NedjBdbThwQFFoQXBkpxLJ.jpg",
+          "cap": "Photo: Phil Hayton"
+        },
+        {
+          "t": "p",
+          "x": "I hadn't looked into ways to run Quake on the PS1 in a while, but it turns out the PSoXide demo was built on top of an older project. That port, called QuakePSX, is at least five years old going by the dates on its page, and it received an update nine months ago. As far as I know, this old shareware port doesn't use AI. So that one's fine to just go ahead and try."
+        },
+        {
+          "t": "p",
+          "x": "I played through both PSoXide and the original QuakePSX demo over the weekend, and it was actually the latter that came closer to what I wanted. A big reason is that it supports a PS1 mouse, giving it a feel closer to a PC even on a '90s console. The frame rate also felt a bit higher, though you should brace yourself for numbers well short of 30fps."
+        },
+        {
+          "t": "p",
+          "x": "I should add that the moment I found a Quake port, I shot my own PS1 setup in the foot. I'd swapped the shell on a modded early PlayStation that I used to run shooters off burned CDs, and the laser alignment shifted just enough that neither one loads properly anymore."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gYqUMfk9ZGSKm8yxhX2u5n.jpg",
+          "cap": "The clear PS1 is beautiful, but it absolutely hates Quake. Photo: Phil Hayton"
+        },
+        {
+          "t": "p",
+          "x": "If you're thinking of picking up a modern accessory like a PSxMemCard to use TonyHax, or swapping your disc drive for something like an XStation SD card ODE, it's worth keeping this in mind. The ODE route takes away the Quake loading struggle, but as someone who wants to keep physical media alive, I'm still digging into why swapping the shell causes problems."
+        },
+        {
+          "t": "p",
+          "x": "It feels like the day an impossible-seeming port lands on an early PS1 is getting closer. The trouble is that too many of these projects reach for AI instead of the straightforward approach. I'd love to play a crisp console version of Quake, but I'd rather not lend support to a tool that's eating away at the craft of development."
+        }
+      ]
     }
   }
 }

@@ -3738,6 +3738,31 @@
           "x": "Edison Research at SSRS realiza estudios de mercado sobre audio, medios y tendencias. Sus estudios insignia incluyen Share of Ear®, que mide todo el consumo de audio en Estados Unidos en un solo conjunto de datos; Edison Podcast Metrics™, que mide la escucha de pódcasts en Estados Unidos mediante encuestas; y The Infinite Dial®, que se realiza desde 1998. Abarca más de 66 países y territorios, incluido Estados Unidos."
         }
       ]
+    },
+    "books/books-appeal-over-legal-fees": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-1.jpg",
+          "cap": "Boletín de noticias de ALLi del 1 de septiembre"
+        },
+        {
+          "t": "p",
+          "x": "Esta semana empieza atando cabos sueltos de historias que hemos venido siguiendo. La más importante es una noticia con implicaciones inmediatas para el caso Anthropic: podría presentarse una apelación, y quien la presenta resulta inesperado. No es la empresa tecnológica que debe pagar el acuerdo colectivo de 1.500 millones de dólares. La noticia la señaló Jane Friedman."
+        },
+        {
+          "t": "p",
+          "x": "La apelación la presentaron varios bufetes involucrados en el caso. En este litigio, los jueces determinaron, no una sino dos veces, que los honorarios reclamados por los abogados eran excesivos, y que debía reducirse el porcentaje del fondo total que les correspondía, dado que en realidad no había tanto trabajo para ellos. Esta apelación la presentó el equipo legal contratado para coordinar a las editoriales. Últimamente las editoriales no están quedando bien en este caso, y eso tampoco ayuda a su relación con los autores."
+        },
+        {
+          "t": "p",
+          "x": "Si la apelación tiene éxito y la parte de los abogados en el fondo de 1.500 millones de dólares crece, el dinero que llega a los titulares de derechos disminuye en la misma medida. Incluso si no tiene éxito, la capa adicional de proceso retrasa el cobro real."
+        },
+        {
+          "t": "p",
+          "x": "También hay novedades sobre la historia de que Amazon trituró libros, incluidos ejemplares raros, tras usarlos para entrenar IA. Varias partes han enviado cartas a la Comisión Federal de Comercio (FTC) pidiéndole que investigue esta práctica. La preocupación central es si se trata de una maniobra para consolidar un monopolio."
+        }
+      ]
     }
   }
 }

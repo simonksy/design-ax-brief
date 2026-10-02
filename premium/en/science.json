@@ -4259,6 +4259,74 @@
           "x": "The researchers believe this framework could extend beyond electrolysis cells to the design of other computationally demanding energy technologies, such as fuel cells, batteries, and catalyst systems. The paper's first author is Hoseob Lee, and the DOI is 10.1016/j.applthermaleng.2026.132115."
         }
       ]
+    },
+    "science/science-timesfm-3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Research has released TimesFM-3, a time series foundation model that completes multivariate forecasts in a single forward pass. The team says it outperforms other forecasting models by a wide margin on major benchmarks."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+          "cap": "TimesFM-3: a zero-shot foundation model for multivariate forecasting. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "Since the first TimesFM launched in 2024, time series foundation models have spread into retail, finance, observational monitoring, manufacturing, healthcare and the natural sciences."
+        },
+        {
+          "t": "p",
+          "x": "But through TimesFM-2.5, released in September 2025, the models only handled univariate series — meaning they projected the future by looking only at a single series' own past. Real-world forecasting problems don't come shaped that way. Take ice cream sales as an example: past sales alone don't give you the full picture. You also need related product sales like cones or syrup, foot-traffic records, and already-known future schedules like weather forecasts, promotions and holidays."
+        },
+        {
+          "t": "p",
+          "x": "TimesFM-3 was pretrained from the start for multivariate forecasting. It has 330 million parameters, and the corpus of real and synthetic time series used for training exceeds one trillion time points. Without task-specific fine-tuning, it forecasts multiple intertwined series at once. It natively supports simultaneous forecasting of multiple targets, covariates known only up to the past, and dynamic covariates whose future schedule is already known."
+        },
+        {
+          "t": "p",
+          "x": "The backbone is the same decoder-only transformer as before. Consecutive data points are grouped into 32-step patches, and per-series normalization absorbs scale differences. For targets and past-only covariates, a single patch becomes a token. Past-future covariates use a 'look-ahead': a future patch is appended to the current patch, letting the model peek ahead at signals it already knows."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/TimesFM31_Architecture.width-1250.png",
+          "cap": "The architecture of TimesFM-3. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "The transformer stack operates like a two-dimensional grid. Causal temporal attention looks horizontally, only at past tokens within the same series, to prevent information leakage. Cross-variate attention scans vertically across other series at the same point in time, learning correlations between series. The two forms of attention alternate across multiple layers."
+        },
+        {
+          "t": "p",
+          "x": "Decoding was also reworked. The previous version built and attached patches one at a time, which piled up latency and accumulated error. TimesFM-3 fills the entire forecast horizon in a single forward pass using Contiguous Patch Masking. For each target series, it produces nine quantiles, from the 10th to the 90th percentile."
+        },
+        {
+          "t": "p",
+          "x": "Back to ice cream. The univariate model (red line) just projects past sales' weekly pattern forward and doesn't know about a scheduled promotion. Feed TimesFM-3's multivariate mode (blue line) the promotion schedule as a past-future covariate, and it learns from past context the relationship between promotions and sales spikes, factoring in roughly a 20% sales increase on each promotion day ahead of time."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/TimesFM3_PromotionsGraph.width-1250.png",
+          "cap": "A multivariate forecast given promotion covariates factors in the sales spike on planned promotion days ahead of time. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "Evaluation ran on three benchmarks: Gift-Eval, FEV-Bench and Time. It ranked first among pretrained foundation models on both point-forecast and probabilistic-forecast metrics. The comparison set included multivariate models like Chronos-2 and the Toto 2.0 family, as well as Google's own TimesFM-2.5."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/TimesFM33_Gift-Eval.width-1250.png",
+          "cap": "Gift-Eval performance comparison. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "What stands out is the univariate mode's performance. Treated series separately, with no covariates and no cross-series information, it still matched or beat competing models. Switching to multivariate mode takes it up another notch."
+        },
+        {
+          "t": "p",
+          "x": "TimesFM-3 is available on GitHub and Hugging Face. BigQuery integration is coming within a few weeks. In the meantime, for univariate tasks you can already try TimesFM-2.5 directly through BigQuery's AI.FORECAST command."
+        }
+      ]
     }
   }
 }

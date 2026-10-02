@@ -4068,6 +4068,127 @@
           "x": "Este trabajo se realizó en el laboratorio ISCAAS de Munir. Se enmarca en un impulso más amplio por llevar la tecnología cuántica a usos prácticos, no solo en salud, sino también en ciberseguridad, infraestructura inteligente, sistemas autónomos y computación científica. “La computación cuántica está pasando de la promesa teórica a la innovación práctica, y la salud es una de las áreas de aplicación de mayor impacto donde el aprendizaje automático cuántico puede marcar la diferencia”, añadió Munir."
         }
       ]
+    },
+    "science/science-npe-outbreak": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un campo ha transformado la epidemiología en los últimos 25 años: la filodinámica, que usa secuencias genéticas para examinar cómo evolucionan los patógenos."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-method-can-supp.jpg",
+          "cap": "Comparación de resultados de inferencia NPE y MCMC usando datos de series temporales. Credit: Proceedings B (2026). DOI: 10.1098/rspb.2026.1059"
+        },
+        {
+          "t": "p",
+          "x": "Gracias a las matemáticas, estos datos se organizan ordenadamente en un árbol filogenético. Cada rama es una cadena de transmisión, y cada hoja es una infección individual."
+        },
+        {
+          "t": "p",
+          "x": "La longitud de la rama indica el número de mutaciones, y los puntos de ramificación revelan las relaciones de linaje entre patógenos. Eso permite remontar cualquier cepa hasta su cepa parental y comparar secuencias genéticas."
+        },
+        {
+          "t": "p",
+          "x": "El árbol se construye con un algoritmo que propone el árbol más plausible dado los datos genéticos disponibles. A partir de él se estiman valores como la velocidad de propagación del patógeno, la duración de las infecciones y su origen geográfico."
+        },
+        {
+          "t": "p",
+          "x": "Para que esas estimaciones sean fiables hay que analizar muchísimas secuencias genéticas y comparar los valores estimados con los datos epidemiológicos existentes, basados en observaciones poblacionales."
+        },
+        {
+          "t": "p",
+          "x": "Eso implica escalar los modelos matemáticos, y en este momento están limitados por la complejidad de los datos y el volumen que hay que procesar, ya que las secuencias genéticas se entrelazan con fechas, prevalencia y ubicación geográfica."
+        },
+        {
+          "t": "p",
+          "x": "Los científicos del INRAE recurrieron a una técnica de IA de aprendizaje profundo llamada estimación posterior neuronal (neural posterior estimation, NPE), usada originalmente en neurociencia y astrofísica. Usando un conjunto de datos de 72 genomas del brote de ébola de 2014 en Sierra Leona, demostraron que el método se sostiene."
+        },
+        {
+          "t": "p",
+          "x": "Los parámetros estimados a partir del árbol filogenético fueron similares a los valores obtenidos con métodos de inferencia tradicionales. Es la primera vez que se aplica este método a la filodinámica usando datos genéticos. Los resultados se publicaron en la revista Proceedings B."
+        },
+        {
+          "t": "p",
+          "x": "La NPE hace mucho más rápida la calibración de los modelos matemáticos y puede manejar grandes volúmenes de datos heterogéneos, potencialmente hasta miles de secuencias. Un algoritmo así abre un camino para gestionar brotes y epidemias ganaderas en tiempo real, probando escenarios sobre la marcha y añadiendo datos nuevos en cualquier momento."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores han publicado un tutorial en línea detallado para que otros puedan reproducir el mismo análisis."
+        },
+        {
+          "t": "p",
+          "x": "Artículo: Francesco Pinotti et al, Simulation-based inference of epidemiological and phylodynamic models via neural posterior estimation, Proceedings B (2026). DOI: 10.1098/rspb.2026.1059. Proporcionado por: INRAE."
+        }
+      ]
+    },
+    "science/science-timesfm-3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Research presentó TimesFM-3, un modelo de base para series temporales que completa pronósticos multivariados en una sola pasada hacia adelante. Según el equipo, supera por un amplio margen a otros modelos de pronóstico en los principales benchmarks."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+          "cap": "TimesFM-3: un modelo de base de cero disparos para pronósticos multivariados. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "Desde que se lanzó el primer TimesFM en 2024, los modelos de base para series temporales se han extendido al retail, las finanzas, el monitoreo de observación, la manufactura, la salud y las ciencias naturales."
+        },
+        {
+          "t": "p",
+          "x": "Pero hasta TimesFM-2.5, lanzado en septiembre de 2025, los modelos solo manejaban series univariadas, es decir, proyectaban el futuro mirando solo el historial propio de una única serie. Los problemas reales de pronóstico no vienen así. Tomando como ejemplo las ventas de helado, el historial de ventas por sí solo no da el panorama completo: también hay que mirar las ventas de productos relacionados, como conos o jarabes, los registros de afluencia de público, y calendarios futuros ya conocidos, como pronósticos del tiempo, promociones y festivos."
+        },
+        {
+          "t": "p",
+          "x": "TimesFM-3 se preentrenó desde el principio para el pronóstico multivariado. Tiene 330 millones de parámetros, y el corpus de series temporales reales y sintéticas usado en el entrenamiento supera el billón de puntos temporales. Sin ajuste fino específico por tarea, pronostica a la vez varias series entrelazadas. Admite de forma nativa el pronóstico simultáneo de múltiples objetivos, covariables conocidas solo hasta el pasado, y covariables dinámicas cuyo calendario futuro ya se conoce."
+        },
+        {
+          "t": "p",
+          "x": "La base es el mismo transformador solo decodificador de antes. Los puntos de datos consecutivos se agrupan en parches de 32 pasos, y una normalización por serie absorbe las diferencias de escala. Para los objetivos y las covariables conocidas solo en el pasado, cada parche se convierte directamente en un token. Las covariables pasado-futuro usan un 'look-ahead': se añade un parche futuro al parche actual, dejando que el modelo eche un vistazo anticipado a señales que ya conoce."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/TimesFM31_Architecture.width-1250.png",
+          "cap": "La arquitectura de TimesFM-3. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "La pila de transformadores funciona como una cuadrícula bidimensional. La atención temporal causal mira horizontalmente, solo a los tokens pasados dentro de la misma serie, para evitar fugas de información. La atención entre variables recorre verticalmente otras series en el mismo instante, aprendiendo las correlaciones entre series. Las dos formas de atención se alternan a lo largo de varias capas."
+        },
+        {
+          "t": "p",
+          "x": "La decodificación también se rehízo. La versión anterior construía y unía los parches uno por uno, lo que acumulaba latencia y error. TimesFM-3 llena todo el horizonte de pronóstico en una sola pasada hacia adelante mediante Contiguous Patch Masking. Para cada serie objetivo, produce nueve cuantiles, del percentil 10 al 90."
+        },
+        {
+          "t": "p",
+          "x": "Volvamos al helado. El modelo univariado (línea roja) solo proyecta hacia adelante el patrón semanal de ventas pasadas y no sabe nada de una promoción programada. Si se le da al modo multivariado de TimesFM-3 (línea azul) el calendario de la promoción como covariable pasado-futuro, aprende del contexto pasado la relación entre promociones y repuntes de ventas, incorporando de antemano un aumento de ventas de alrededor del 20% en cada día de promoción."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/TimesFM3_PromotionsGraph.width-1250.png",
+          "cap": "Un pronóstico multivariado con covariables de promoción incorpora de antemano el repunte de ventas en los días de promoción planificados. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "La evaluación se hizo en tres benchmarks: Gift-Eval, FEV-Bench y Time. Quedó en primer lugar entre los modelos de base preentrenados tanto en métricas de pronóstico puntual como probabilístico. El conjunto de comparación incluyó modelos multivariados como Chronos-2 y la familia Toto 2.0, además del propio TimesFM-2.5 de Google."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/TimesFM33_Gift-Eval.width-1250.png",
+          "cap": "Comparación de rendimiento en Gift-Eval. Credit: Google Research"
+        },
+        {
+          "t": "p",
+          "x": "Lo que destaca es el rendimiento en modo univariado. Tratando las series por separado, sin covariables ni información entre series, igualó o superó a los modelos de la competencia. Al cambiar al modo multivariado, sube un escalón más."
+        },
+        {
+          "t": "p",
+          "x": "TimesFM-3 está disponible en GitHub y Hugging Face. La integración con BigQuery llegará en unas semanas. Mientras tanto, para tareas univariadas ya se puede probar TimesFM-2.5 directamente con el comando AI.FORECAST de BigQuery."
+        }
+      ]
     }
   }
 }

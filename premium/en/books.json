@@ -3911,6 +3911,31 @@
           "x": "Edison Research at SSRS conducts market research on audio, media, and trends. Its flagship studies include Share of Ear®, which measures all audio consumption in the U.S. in a single dataset; Edison Podcast Metrics™, which surveys U.S. podcast listening; and The Infinite Dial®, running since 1998. It covers more than 66 countries and territories, including the United States."
         }
       ]
+    },
+    "books/books-appeal-over-legal-fees": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-September-1.jpg",
+          "cap": "ALLi September 1 news briefing"
+        },
+        {
+          "t": "p",
+          "x": "This week starts by tying up loose ends on stories we've been following for a while. The biggest is news with immediate implications for the Anthropic case: an appeal may be filed, and the party filing it is unexpected. It isn't the tech company that owes the $1.5 billion class-action settlement. The news was flagged by Jane Friedman."
+        },
+        {
+          "t": "p",
+          "x": "The appeal was filed by several law firms involved in the case. Judges in the case ruled not once but twice that the fees the lawyers sought were excessive, and that the lawyers' cut of the overall fund should be reduced, on the grounds that there wasn't actually all that much work for them to do. This appeal was filed by the counsel brought in to coordinate the publishers' side. Lately, publishers haven't been looking good in this case, and it isn't doing their relationship with authors any favors either."
+        },
+        {
+          "t": "p",
+          "x": "If the appeal succeeds and the lawyers' cut of the $1.5 billion fund grows, the money going to rights holders shrinks by that much. Even if it fails, the added layer of process means actual payout gets delayed."
+        },
+        {
+          "t": "p",
+          "x": "There's also a follow-up to the story about Amazon shredding books, including rare ones, after using them for AI training. Several parties have sent letters asking the Federal Trade Commission (FTC) to look into the practice. The core concern is whether this is a move to entrench monopoly power."
+        }
+      ]
     }
   }
 }

@@ -4639,6 +4639,113 @@
           "x": "The idea of wearing a dedicated microphone for voice input isn't new on its own. Last year, Sandbar unveiled the Stream Ring, and a few months later, Pebble showed the Index 01. Both are whisper-into rings that are just now starting to ship to early buyers. Relay also considered a ring but dropped the idea, reasoning that there are already plenty of smart rings. It's priced at $150, which includes a year of software access; after that, it's $15 a month."
         }
       ]
+    },
+    "gadgets/gadgets-google-pics-ga": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When Google launched Google Pics last May, it described it as a rival to services like Canva. The app handles image generation and design together, but until now only a small group of testers could use it. There's good news for anyone who's been waiting."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Pics-official-image.jpg",
+          "cap": "Google Pics, as unveiled by Google"
+        },
+        {
+          "t": "p",
+          "x": "Google says Google Pics has moved past limited access and is now open to everyone. That includes subscribers to Google AI Pro and Ultra, Google AI Pro for Education users, and Workspace users on the Business Standard, Business Plus, Enterprise Standard and Enterprise Plus plans."
+        },
+        {
+          "t": "p",
+          "x": "For anyone encountering it for the first time: Google Pics lets you create designs from a blank page or edit images you already have. Using image segmentation, you can select, move and resize a specific person or object within a photo. It also lets you edit or translate just the text inside an image while leaving the design and fonts untouched."
+        },
+        {
+          "t": "p",
+          "x": "You can share what you make with others, so a friend or colleague can edit the same image with you at the same time. Pics is also built into Google Docs and Slides, letting you refine images right inside a document. Drive integration is coming \"within a few weeks,\" according to the company."
+        },
+        {
+          "t": "p",
+          "x": "This announcement comes well after competing service Canva was integrated into Gemini and Google's AI Mode search. For anyone who wants a smart image design tool within the Google ecosystem, there's now one more option."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-muse-transcribe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta has released its first real-time audio model, Muse Voice Transcribe. The company says it handles dictation and transcription for more than 20 speakers and smoothly captures multiple languages mixed together at once."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/intro-1788299695.jpg",
+          "cap": "Muse Voice Transcribe, as unveiled by Meta Superintelligence Lab"
+        },
+        {
+          "t": "p",
+          "x": "Mark Zuckerberg, back on X for the first time in three years, posted a demo handling multiple speakers and multiple languages at once. In the video, the transcription automatically distinguishes who's speaking and follows along when the language changes. It even catches \"code-switching,\" where the language shifts within a single sentence."
+        },
+        {
+          "t": "p",
+          "x": "\"Muse Voice Transcribe is MSL's first real-time audio perception model, and it's rolling out starting today. It's SOTA in streaming speech recognition, and it handles speaker separation and endpoint detection within a single model.\""
+        },
+        {
+          "t": "p",
+          "x": "\"The model decides on its own when to listen. It waits a bit longer on difficult words and commits quickly on easy ones. Adaptive latency predicts tokens one at a time to improve accuracy,\" Zuckerberg explained. \"It holds up on messy, real-world audio. It was trained on more than 70 languages and validated on 25 at launch. It handles code-switching mid-sentence, and it can handle sessions with more than 20 speakers talking for over an hour.\""
+        },
+        {
+          "t": "p",
+          "x": "This announcement comes less than a week after Google Gemini 3.5 Transcribe, which touted similar capabilities. Google is building its own audio model into Android, and later into Chrome as well. It's not yet known whether Meta plans to put Muse Voice Transcribe into its flagship services."
+        },
+        {
+          "t": "p",
+          "x": "For now, the new model can be tried in the recently released Meta AI Mac app. Because that Mac app also runs the voice features for other apps, Muse Voice Transcribe handles dictation for other services too. Developers can call it as Muse Code or through the Meta Model API, priced at $3 per 1,000 minutes of audio. A demo version is also up on Meta's research blog."
+        },
+        {
+          "t": "p",
+          "x": "Muse Voice Transcribe is the latest release from Meta Superintelligence Lab (MSI), which has been churning out new models and tools one after another. In the past few weeks alone, the team has also put out its first dedicated coding agent, an open-weight model, and the Meta AI Mac app mentioned above."
+        }
+      ]
+    },
+    "gadgets/gadgets-sonos-27": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Along with new soundbars and headphones, Sonos has also announced an app update and a major change to the OS that runs across its entire product line. It's the biggest software news from the company since the 2024 app-update disaster, when Sonos rushed out an app to match new Ace headphone features, leaving out major functionality and shipping it full of bugs. The fallout cost Patrick Spence his job as CEO, and 2025 passed without a single new product."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/sonos-will-soon-let-ai-assistants-control-your-system/intro-1788221155.jpg",
+          "cap": "Sonos 27, as unveiled by Sonos"
+        },
+        {
+          "t": "p",
+          "x": "The OS now gets a version number every year, and this one is named Sonos 27. The biggest, and also most anticipated, new feature is letting AI handle control of the Sonos system. Sonos 27 lets you connect ChatGPT and, really, \"any outside AI assistant or agent.\" That means you can have the AI you're already using take over system operations without having to stop what you're doing."
+        },
+        {
+          "t": "p",
+          "x": "Sonos says it runs its own public MCP (model context protocol) server that any AI can find and connect to. Once connected, you can mostly make it do what you'd expect — play a specific song, move audio between speakers or groups, adjust volume. It's fair to see this as an extension of the decision, a few years back, to put Alexa and the Google Assistant on its speakers."
+        },
+        {
+          "t": "p",
+          "x": "Sonos also previewed Sonos Custom Agents, a feature that lets users build agents with a \"model, persona and voice\" of their own choosing. A Sonos 27 voice assistant was also mentioned, described as \"a proprietary assistant built for music and mood curation,\" but honestly, it's not yet clear how that differs from the bare-bones Sonos voice assistant that already exists."
+        },
+        {
+          "t": "p",
+          "x": "There's more to see beyond the AI story. 'Sonos Fabric' is a new feature where products \"sense\" other devices in the same system and configure themselves accordingly. In practice, a speaker's role changes depending on where it's placed. Put two Move 2 or Play speakers behind your couch, for instance, and they'll automatically become the surround speakers for your soundbar. It uses high-frequency tones to locate the speakers and switch their roles, with no input needed from the user."
+        },
+        {
+          "t": "p",
+          "x": "Another feature under Fabric is for the just-announced Ace Ultra headphones. Headphone linking connects the Ace Ultra to a Sonos system almost like another speaker, handing off audio that had been coming from the speakers to the headphones instead. It will be offered as early access when the Ace Ultra launches on September 29."
+        },
+        {
+          "t": "p",
+          "x": "The app has also been redesigned. Home, system and search tabs stay persistently visible, and you can pin the speakers you use most. These are features that have been in testing all summer, but they'll become the default once the September 8 update rolls out. iOS lock-screen controls are also included. There are now presets too, letting you save a group of speakers along with content and volume settings and turn them all on at once."
+        },
+        {
+          "t": "p",
+          "x": "For Apple users, there's a virtual volume knob you control by twisting two fingers on the screen to adjust system volume. The iPad app has been rebuilt for the bigger screen, and it now works with the Shortcuts app, so you can trigger automations with Siri. Sonos 27 is rolling out to every piece of hardware currently running the S2 platform. The new app navigation, early-access MCP features and portable surround feature all go live on September 8."
+        }
+      ]
     }
   }
 }

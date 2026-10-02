@@ -4570,6 +4570,113 @@
           "x": "La idea de llevar encima un micrófono dedicado para la entrada de voz no es nueva en sí misma. El año pasado, Sandbar presentó el Stream Ring, y meses después, Pebble mostró el Index 01. Ambos son anillos en los que se susurra y apenas están empezando a llegar a los primeros compradores. Relay también consideró un anillo, pero lo descartó porque ya hay muchos anillos inteligentes. Cuesta 150 dólares, e incluye un año de acceso al software; después, son 15 dólares al mes."
         }
       ]
+    },
+    "gadgets/gadgets-google-pics-ga": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En mayo, Google presentó Google Pics describiéndola como rival de servicios como Canva. Es una app que combina generación de imágenes y diseño, pero hasta ahora solo un pequeño grupo de testers podía usarla. Para quienes esperaban, llega una buena noticia."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Pics-official-image.jpg",
+          "cap": "Google Pics, presentada por Google"
+        },
+        {
+          "t": "p",
+          "x": "Google ha indicado que Google Pics ha dejado atrás el acceso limitado y ahora está abierta a todos. Esto incluye a los suscriptores de Google AI Pro y Ultra, a los usuarios de Google AI Pro for Education, y a los usuarios de Workspace con los planes Business Standard, Business Plus, Enterprise Standard y Enterprise Plus."
+        },
+        {
+          "t": "p",
+          "x": "Para quien la vea por primera vez: con Google Pics se puede crear un diseño desde cero o editar una imagen ya existente. Con la segmentación de imágenes, se puede seleccionar, mover y redimensionar solo a una persona u objeto concreto dentro de una foto. También se puede editar o traducir solo el texto de una imagen dejando intactos el diseño y las fuentes."
+        },
+        {
+          "t": "p",
+          "x": "Lo que se crea se puede compartir con otras personas, de modo que un amigo o colega edite la misma imagen al mismo tiempo. Pics también está integrada en Google Docs y Slides, así que se pueden retocar imágenes directamente dentro de un documento. Según la empresa, la integración con Drive llegará “en unas semanas”."
+        },
+        {
+          "t": "p",
+          "x": "Este anuncio llega bastante después de que Canva, un servicio competidor, se integrara en Gemini y en la búsqueda en modo IA de Google. Para quien quiera usar una herramienta de diseño de imágenes inteligente dentro del ecosistema de Google, ahora hay una opción más."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-muse-transcribe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta ha lanzado Muse Voice Transcribe, su primer modelo de audio en tiempo real. Según la empresa, maneja dictado y transcripción para más de 20 hablantes y capta con fluidez varios idiomas mezclados a la vez."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/intro-1788299695.jpg",
+          "cap": "Muse Voice Transcribe, presentado por Meta Superintelligence Lab"
+        },
+        {
+          "t": "p",
+          "x": "Mark Zuckerberg, de vuelta en X por primera vez en tres años, publicó una demostración que maneja varios hablantes y varios idiomas a la vez. En el video, la transcripción distingue automáticamente quién habla y sigue el ritmo cuando cambia el idioma. Incluso detecta el “code-switching”, el cambio de idioma dentro de una misma frase."
+        },
+        {
+          "t": "p",
+          "x": "“Muse Voice Transcribe es el primer modelo de percepción de audio en tiempo real de MSL, y se despliega a partir de hoy. Es SOTA en reconocimiento de voz en streaming, y procesa la separación de hablantes y la detección de puntos finales dentro de un solo modelo”."
+        },
+        {
+          "t": "p",
+          "x": "“El modelo decide por sí mismo cuándo escuchar. Espera un poco más en las palabras difíciles y se decide rápido en las fáciles. Con latencia adaptativa predice los tokens uno por uno para mejorar la precisión”, explicó Zuckerberg. “Aguanta bien con audio real y desordenado. Se entrenó con más de 70 idiomas y se validaron 25 en el lanzamiento. Maneja el code-switching a mitad de frase, y soporta sesiones con más de 20 hablantes conversando durante más de una hora”."
+        },
+        {
+          "t": "p",
+          "x": "Este anuncio llega menos de una semana después de Google Gemini 3.5 Transcribe, que presentaba capacidades similares. Google está integrando su propio modelo de audio en Android, y más adelante también en Chrome. Todavía no se sabe si Meta piensa incorporar Muse Voice Transcribe a sus servicios principales."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, el nuevo modelo se puede probar en la app Meta AI para Mac, lanzada recientemente. Como esa app de Mac también ejecuta las funciones de voz de otras apps, Muse Voice Transcribe se encarga también del dictado de otros servicios. Los desarrolladores pueden invocarlo como Muse Code o mediante la Meta Model API, con un precio de 3 dólares por cada 1.000 minutos de audio. También hay una versión de demostración publicada en el blog de investigación de Meta."
+        },
+        {
+          "t": "p",
+          "x": "Muse Voice Transcribe es el resultado más reciente de Meta Superintelligence Lab (MSI), que viene sacando nuevos modelos y herramientas uno tras otro. En las últimas semanas, este equipo también presentó su primer agente de programación dedicado, un modelo de pesos abiertos y, como se mencionó antes, la app Meta AI para Mac."
+        }
+      ]
+    },
+    "gadgets/gadgets-sonos-27": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Además de nuevas barras de sonido y auriculares, Sonos anunció también una actualización de la app y un cambio importante en el sistema operativo que hace funcionar a todos sus productos. Es la noticia de software más importante de la empresa desde el desastre de la actualización de la app de 2024, cuando Sonos sacó la app a toda prisa para ajustarse a las nuevas funciones de los auriculares Ace, dejando fuera funciones clave y con muchos errores. Esto le costó el puesto de CEO a Patrick Spence, y en 2025 no salió un solo producto nuevo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/sonos-will-soon-let-ai-assistants-control-your-system/intro-1788221155.jpg",
+          "cap": "Sonos 27, presentado por Sonos"
+        },
+        {
+          "t": "p",
+          "x": "Ahora el sistema operativo recibe un número de versión cada año, y este se llama Sonos 27. La función nueva más importante, y también la más esperada, es dejar que la IA controle el sistema Sonos. Sonos 27 permite conectar ChatGPT y, en realidad, “cualquier asistente o agente de IA externo”. Esto significa que se puede hacer que la IA que ya se usa tome el control del sistema sin tener que dejar de hacer lo que se estaba haciendo."
+        },
+        {
+          "t": "p",
+          "x": "Sonos afirma que opera directamente un servidor MCP (model context protocol) público al que puede conectarse cualquier IA. Una vez conectada, se le puede pedir en general lo esperable: reproducir una canción concreta, mover el audio entre altavoces o grupos, ajustar el volumen. Es razonable verlo como una extensión de la decisión, tomada hace unos años, de poner a Alexa y al Asistente de Google a funcionar en sus altavoces."
+        },
+        {
+          "t": "p",
+          "x": "Sonos también presentó por adelantado Sonos Custom Agents, una función que permite a los usuarios crear agentes con un “modelo, una personalidad y una voz” elegidos por ellos mismos. También se mencionó un asistente de voz de Sonos 27, descrito como “un asistente propio creado para la curación de música y ambiente”, pero, sinceramente, aún no está claro en qué se diferencia del asistente de voz de Sonos, bastante sencillo, que ya existe."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de la IA, hay otras cosas que vale la pena mirar. 'Sonos Fabric' es una función nueva en la que los productos “detectan” otros dispositivos del mismo sistema y se configuran solos en consecuencia. En la práctica, el papel de un altavoz cambia según dónde se coloque. Por ejemplo, poner dos altavoces Move 2 o Play detrás del sofá hace que se conviertan automáticamente en los altavoces envolventes de la barra de sonido. Usa tonos de alta frecuencia para ubicar los altavoces y cambiar sus roles, sin que el usuario tenga que intervenir."
+        },
+        {
+          "t": "p",
+          "x": "Otra función dentro de Fabric es para los auriculares Ace Ultra, anunciados justo ahora. La vinculación de auriculares conecta el Ace Ultra al sistema Sonos casi como si fuera otro altavoz más, pasando al auricular el audio que antes salía de los altavoces. Se ofrecerá como acceso anticipado cuando el Ace Ultra salga el 29 de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "La app también se rediseñó. Las pestañas de inicio, sistema y búsqueda permanecen siempre visibles, y se pueden fijar los altavoces que más se usan. Son funciones que estuvieron en pruebas todo el verano, pero se volverán el valor predeterminado cuando se despliegue la actualización del 8 de septiembre. También se incluyen los controles en la pantalla de bloqueo de iOS. Además, ahora hay preajustes que permiten guardar un grupo de altavoces junto con el contenido y los ajustes de volumen, y encenderlos todos a la vez."
+        },
+        {
+          "t": "p",
+          "x": "Para los usuarios de Apple, se añade una perilla de volumen virtual que se controla retorciendo dos dedos en la pantalla para ajustar el volumen del sistema. La app de iPad se rehizo para la pantalla grande, y ahora funciona con la app Atajos, de modo que se pueden lanzar automatizaciones con Siri. Sonos 27 se está desplegando en todo el hardware que actualmente funciona con la plataforma S2. La nueva navegación de la app, las funciones MCP de acceso anticipado y la función de sonido envolvente portátil se activan todas el 8 de septiembre."
+        }
+      ]
     }
   }
 }

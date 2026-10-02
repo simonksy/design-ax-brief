@@ -4227,6 +4227,113 @@
           "x": "随身携带语音输入专用麦克风的想法本身并不新。去年Sandbar推出了Stream Ring，几个月后Pebble又带来了Index 01。两者都是靠低声耳语输入的戒指，目前刚开始向早期购买者发货。Relay也考虑过戒指形态，但因为智能戒指已经太多而放弃了。定价150美元，包含一年的软件使用权，之后每月15美元。"
         }
       ]
+    },
+    "gadgets/gadgets-google-pics-ga": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google去年5月推出Google Pics时,称其为对标Canva等服务的产品。这是一款将图像生成与设计功能融合在一起的应用,但此前只有少数测试者能够使用。等待已久的人现在有了好消息。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-Pics-official-image.jpg",
+          "cap": "Google公开的Google Pics"
+        },
+        {
+          "t": "p",
+          "x": "Google表示,Google Pics已超越限量测试阶段,现已向所有人开放。适用对象包括Google AI Pro与Ultra订阅用户、Google AI Pro for Education用户,以及使用Business Standard、Business Plus、Enterprise Standard、Enterprise Plus套餐的Workspace用户。"
+        },
+        {
+          "t": "p",
+          "x": "对于第一次接触的人来说,Google Pics既可以从空白页开始创建设计,也可以修改已有的图片。借助图像分割功能,可以单独选取照片中的特定人物或物体进行编辑、移动和缩放。还可以在保留设计和字体的前提下,只修改或翻译图片内的文字。"
+        },
+        {
+          "t": "p",
+          "x": "制作完成的成果可以分享给他人,让朋友或同事与你同时编辑同一张图片。Pics也已集成到Google Docs和Slides中,可以在文档里直接调整图片。据该公司介绍,与Drive的联动功能将在「几周内」加入。"
+        },
+        {
+          "t": "p",
+          "x": "此次发布的时间点,是在竞争对手Canva接入Gemini以及Google的AI模式搜索很久之后。如果想在Google生态系统内使用更智能的图像设计工具,现在又多了一个选择。"
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-muse-transcribe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta推出了首款实时音频模型Muse Voice Transcribe。该公司表示,这款模型可处理超过20名说话人的听写与转写,并能流畅应对多种语言同时混杂的情况。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/intro-1788299695.jpg",
+          "cap": "Meta Superintelligence Lab公开的Muse Voice Transcribe"
+        },
+        {
+          "t": "p",
+          "x": "时隔三年重返X的马克·扎克伯格,发布了一段同时处理多名说话人和多种语言的演示。视频中的转写会自动区分发言人,并在语言切换时随之跟进,甚至能捕捉到一句话中途换语言的「语码转换」现象。"
+        },
+        {
+          "t": "p",
+          "x": "「Muse Voice Transcribe是MSL首个实时音频感知模型,从今天起开始推出。它在流式语音识别上达到SOTA水平,并在单一模型内自行完成说话人分离与端点检测。」"
+        },
+        {
+          "t": "p",
+          "x": "「模型会自行判断何时该听。遇到难词时会多等一会儿,遇到易词时则很快确定下来。通过自适应延迟逐个预测token,以提升准确率。」扎克伯格解释道。「即便面对杂乱的真实音频也能应付。它在70多种语言上进行了训练,发布时验证了25种语言。能处理句中的语码转换,也能应对20名以上说话人持续交谈超过一小时的场景。」"
+        },
+        {
+          "t": "p",
+          "x": "此次发布,距离同样主打类似能力的Google Gemini 3.5 Transcribe问世还不到一周。Google正把自家的音频模型嵌入Android,日后还将嵌入Chrome。目前尚不清楚Meta是否打算把Muse Voice Transcribe用到其主力服务中。"
+        },
+        {
+          "t": "p",
+          "x": "眼下,可以在最近发布的Meta AI Mac应用中体验这款新模型。由于这款Mac应用本身也驱动着其他应用的语音功能,Muse Voice Transcribe因此也承担了其他服务的听写任务。开发者可以通过Muse Code和Meta Model API调用它,价格为每1000分钟音频3美元。Meta的研究博客上也发布了演示版本。"
+        },
+        {
+          "t": "p",
+          "x": "Muse Voice Transcribe是Meta Superintelligence Lab(MSI)接连推出新模型与工具的最新成果。过去几周里,该团队还陆续发布了首个专用编码智能体、一个开放权重模型,以及前面提到的Meta AI Mac应用。"
+        }
+      ]
+    },
+    "gadgets/gadgets-sonos-27": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "除了新款声霸和耳机之外,Sonos还一并宣布了应用更新,以及驱动其全线产品的操作系统的重大变化。这是该公司自2024年应用更新惨案以来发布的最大软件消息。当时Sonos为了赶上新款Ace耳机的功能,仓促推出应用,结果不仅缺失大量核心功能,bug也相当严重。此事余波导致Patrick Spence卸任CEO,2025年整年没有发布一款新品。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/sonos-will-soon-let-ai-assistants-control-your-system/intro-1788221155.jpg",
+          "cap": "Sonos公开的Sonos 27"
+        },
+        {
+          "t": "p",
+          "x": "如今,这套操作系统每年都会带上一个版本号,这一次的名字是Sonos 27。最大、也最为人期待的新功能,是把Sonos系统的控制权交给AI。Sonos 27可以连接ChatGPT,实际上「外部任何AI助手或智能体」都能接入。也就是说,用户可以让自己已经在用的AI在不中断手头工作的情况下,直接操控系统。"
+        },
+        {
+          "t": "p",
+          "x": "Sonos表示,公司自行运营一个任何AI都能找到并接入的公共MCP(model context protocol)服务器。接入之后,播放特定曲目、在音箱或分组之间转移音频、调节音量这类常见操作基本都能交给它完成。可以把这看作是几年前让Alexa和Google助手在音箱上运行那一决定的延续。"
+        },
+        {
+          "t": "p",
+          "x": "Sonos还提前公开了Sonos Custom Agents功能,让用户自行设定「模型、人格与声音」来创建专属智能体。公司也提到了Sonos 27语音助手,称其为「专为音乐与氛围策划打造的自有助手」,但说实话,它与现有这款功能简单的Sonos语音助手究竟有何不同,目前还不清楚。"
+        },
+        {
+          "t": "p",
+          "x": "AI话题之外也有值得关注的内容。「Sonos Fabric」是一项新功能,能让产品「感知」同一系统内的其他设备并自动调整自身设置。实际效果是,音箱的角色会随摆放位置而变化。比如把两台Move 2或Play音箱放在沙发后面,它们就会自动变成声霸的环绕音箱。系统通过高频音定位音箱位置并切换角色,用户无需手动操作。"
+        },
+        {
+          "t": "p",
+          "x": "Fabric之下还有一项功能,是为刚刚发布的Ace Ultra耳机准备的。耳机联动功能会把Ace Ultra几乎当作系统中的另一个音箱来连接,将原本从音箱输出的音频转交给耳机播放。该功能将在9月29日Ace Ultra发布时以抢先体验形式提供。"
+        },
+        {
+          "t": "p",
+          "x": "应用界面也重新设计了。主页、系统、搜索这三个标签会始终保持显示,常用音箱也可以固定在界面上。这些功能整个夏天都在测试中开放使用,9月8日更新推送后将成为默认设置。还加入了iOS锁屏控制。另外新增了预设功能,可以保存一组音箱及其内容和音量设置,一键全部开启。"
+        },
+        {
+          "t": "p",
+          "x": "对Apple用户而言,新增了一个虚拟音量旋钮,用两指在屏幕上扭动即可调节系统音量。iPad应用针对大屏幕重新设计,并与「快捷指令」应用联动,可以用Siri触发自动化操作。Sonos 27将推送给目前运行S2平台的所有硬件。新的应用导航、抢先体验的MCP功能,以及便携环绕声功能,都将于9月8日全面开放。"
+        }
+      ]
     }
   }
 }
