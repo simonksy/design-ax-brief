@@ -42,7 +42,8 @@ assert "/api/auth/request" in src, "no login path inside the subscribe modal"
 assert "/api/billing/portal" in src, "no manage-subscription link"
 
 # 9) 새 문구 키도 5개 언어에 모두 있다
-need2 = ["paywall.email_label", "paywall.send_link", "paywall.link_sent", "paywall.manage"]
+need2 = ["paywall.email_label", "paywall.send_link", "paywall.link_sent", "paywall.manage",
+         "paywall.manage_no_subscription", "paywall.manage_unavailable", "paywall.send_link_failed"]
 for lang in ("ko", "en", "ja", "zh", "es"):
     d = json.load(open(os.path.join(ROOT, "i18n", f"{lang}.json"), encoding="utf-8"))
     missing = [k for k in need2 if k not in d]

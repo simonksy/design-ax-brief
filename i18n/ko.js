@@ -103,6 +103,7 @@ window.AX_I18N = {
  "paywall.plan_yearly_note": "17% 할인",
  "paywall.rest_for_subscribers": "오늘의 나머지 소식은 구독자에게 공개됩니다",
  "paywall.send_link": "로그인 링크 받기",
+ "paywall.send_link_failed": "로그인 링크를 보내지 못했습니다. 잠시 후 다시 시도해 주세요.",
  "paywall.subscribe": "구독하기",
  "paywall.trial": "첫 달 무료",
  "paywall.unlock_all": "구독하고 모두 보기",

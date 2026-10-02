@@ -103,6 +103,7 @@ window.AX_I18N = {
  "paywall.plan_yearly_note": "省 17%",
  "paywall.rest_for_subscribers": "今日其余资讯仅向订阅者开放",
  "paywall.send_link": "发送登录链接",
+ "paywall.send_link_failed": "登录链接发送失败，请重试。",
  "paywall.subscribe": "订阅",
  "paywall.trial": "首月免费",
  "paywall.unlock_all": "订阅解锁全部内容",

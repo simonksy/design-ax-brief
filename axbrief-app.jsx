@@ -538,7 +538,7 @@ function SubscribeModal({ onClose, t }) {
                     body: JSON.stringify({ email }) });
                   setPhase('sent');
                 } catch {
-                  setPhase('error'); setNote(tx('paywall.checkout_failed'));
+                  setPhase('error'); setNote(tx('paywall.send_link_failed'));
                 } finally {
                   setSendingLink(false);
                 }
