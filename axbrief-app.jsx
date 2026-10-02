@@ -561,12 +561,12 @@ function ProCompareTable({ t }) {
   const proBorder = '1px solid rgba(121,40,202,.38)';
   return (
     <div style={{ marginBottom: 16, borderRadius: 12, overflow: 'hidden', border: '1px solid ' + t.rule,
-      display: 'grid', gridTemplateColumns: '1fr 56px 74px', fontFamily: 'Pretendard, system-ui' }}>
+      display: 'grid', gridTemplateColumns: '1fr 76px 92px', fontFamily: 'Pretendard, system-ui' }}>
       <div />
-      <div style={{ padding: '10px 4px', textAlign: 'center', fontSize: 13, fontWeight: 700, color: t.mute }}>
+      <div style={{ padding: '10px 10px', textAlign: 'center', fontSize: 13, fontWeight: 700, color: t.mute }}>
         {tx('pro.col_free')}
       </div>
-      <div className="ax-pro-col" style={{ padding: '10px 4px 9px', textAlign: 'center',
+      <div className="ax-pro-col" style={{ padding: '10px 10px 9px', textAlign: 'center',
         border: proBorder, borderBottom: 'none', borderRadius: '9px 9px 0 0' }}>
         <span className="ax-pro-badge">{tx('pro.col_pro')}</span>
       </div>
@@ -574,7 +574,7 @@ function ProCompareTable({ t }) {
         const last = i === PRO_ROWS.length - 1;
         return (
           <React.Fragment key={row.key}>
-            <div style={{ padding: '11px 10px 11px 14px', fontSize: 14, fontWeight: 600, color: t.hl,
+            <div style={{ padding: '12px 18px 12px 16px', fontSize: 14, fontWeight: 600, color: t.hl,
               lineHeight: 1.35, wordBreak: 'keep-all', borderTop: '1px solid ' + t.rule }}>
               {tx('pro.row_' + row.key)}
               {row.note && (
@@ -583,10 +583,10 @@ function ProCompareTable({ t }) {
                 </div>
               )}
             </div>
-            <div style={{ padding: '11px 4px', textAlign: 'center', fontSize: 14.5, borderTop: '1px solid ' + t.rule }}>
+            <div style={{ padding: '12px 10px', textAlign: 'center', fontSize: 14.5, borderTop: '1px solid ' + t.rule }}>
               <ProCell v={row.free} t={t} />
             </div>
-            <div className="ax-pro-col" style={{ padding: '11px 4px', textAlign: 'center',
+            <div className="ax-pro-col" style={{ padding: '12px 10px', textAlign: 'center',
               borderLeft: proBorder, borderRight: proBorder,
               borderBottom: last ? proBorder : 'none', borderRadius: last ? '0 0 9px 9px' : 0 }}>
               <ProCell v={row.pro} t={t} strong />
@@ -718,11 +718,17 @@ function SubscribeModal({ onClose, t }) {
   );
 
   return ReactDOM.createPortal(
+    /* 뒤 배경은 확실히 눌러야 모달이 앞으로 나온다 — .4로는 밝은 종이색 배경에서
+       거의 읽히지 않았다. 블러를 얹어 깊이를 준다. 세로 패딩과 overflow는 모달이
+       화면보다 길어졌을 때(작은 노트북·가로 모드) 잘리지 않게 하는 안전장치다. */
     <div onClick={(e) => { e.stopPropagation(); onClose(); }}
-      style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
-      display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 2147483100 }}>
+      style={{ position: 'fixed', inset: 0, background: 'rgba(20,16,12,.62)',
+      backdropFilter: 'blur(4px)', WebkitBackdropFilter: 'blur(4px)',
+      display: 'flex', alignItems: 'center', justifyContent: 'center',
+      padding: '24px 16px', boxSizing: 'border-box', overflowY: 'auto',
+      zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
-        padding: 26, width: 440, maxWidth: '92vw', fontFamily: 'Pretendard, system-ui' }}>
+        padding: 26, width: 480, maxWidth: '92vw', fontFamily: 'Pretendard, system-ui' }}>
         <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>{tx('paywall.modal_title')}</p>
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
           {tx('paywall.modal_body')}
