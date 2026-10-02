@@ -5484,6 +5484,256 @@
           "x": "Los usos son amplios: crear personajes de videojuego, coleccionables, assets de animación, incluso prototipos de producto. Prácticamente cualquier cosa que se te ocurra encaja. Al final del video, Matt Wolfe pregunta qué te animarías a hacer."
         }
       ]
+    },
+    "design/design-ai-brief-agency-5rt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las agencias de diseño llevan mucho tiempo sosteniendo en silencio el ecosistema de startups. Cuando un fundador con grandes ambiciones y poco presupuesto llegaba con una idea interesante, la agencia asumía el riesgo si le gustaba el concepto, esperando que la relación diera frutos más adelante o que se convirtiera en portafolio de un nuevo sector."
+        },
+        {
+          "t": "p",
+          "x": "Daniel Hind, fundador de la agencia londinense Greatergood® Brands, dice que ese modelo se está desmoronando. “En el último año, la naturaleza de los briefs que llegan de startups ha cambiado por completo”, afirma. Lo que antes era un texto de “somos una startup y esto es todo el dinero que tenemos” se ha convertido en documentos que claramente no escribió el fundador: briefs que una IA produce en segundos y envía en bloque a las agencias mejor posicionadas en Google."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/38JGnhzw5peG8MUSznSvrH.png",
+          "cap": "Una pantalla que muestra a un chatbot de IA redactando un brief para una agencia de diseño. (Crédito de imagen: Greatergood® Brands)"
+        },
+        {
+          "t": "p",
+          "x": "La tentación del lado del fundador es obvia. Escribir un brief para una agencia exige tiempo y reflexión. Un chatbot lo termina en segundos. Se introducen los datos del producto y el servicio, y genera un documento basado en lo que ha aprendido sobre cómo “debe ser” un brief. El problema es que no existe un brief estándar que sirva para cualquier negocio: lo que necesita una gran empresa no tiene nada que ver con lo que necesita una startup de una sola persona para lanzar una marca."
+        },
+        {
+          "t": "p",
+          "x": "“Es completamente excesivo”, dice Hind. Los briefs exigen una propuesta estratégica que abarca arquitectura de marca, diseño de marca, un kit de herramientas de marca, empaque, estrategia de retail, estrategia de entrada al mercado, sitio web y plan de contenidos, para una empresa que no es más que una persona y una suscripción de IA de 14,99 libras al mes. “A fundadores de este tamaño a menudo ni les hace falta aún buena parte de eso, y muchas veces no pueden costear ni una sola pieza, pero la IA no lo sabe. Simplemente escribe el brief más extenso que puede producir y lo dispara.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QS9XT6w2MXdrhZM8N4EZxH.png",
+          "cap": "Un brief para agencia de diseño generado por un chatbot de IA. (Crédito de imagen: Greatergood® Brands)"
+        },
+        {
+          "t": "p",
+          "x": "Disparar un brief escrito en segundos a decenas de agencias a la vez parece eficiente. Pero enviarlo a ciegas dificulta llamar la atención de la agencia adecuada. Cuanto mejor es el talento creativo, más selecciona a sus clientes. Es el fundador quien tiene que venderse."
+        },
+        {
+          "t": "p",
+          "x": "“Antes, cuando llegaba un brief de un fundador aguerrido, se notaba que alguien se había sentado a pensar bien su negocio”, dice Hind. “Esos eran justo los proyectos en los que nos arriesgábamos.” Ahora es distinto. “Casi el 90% de lo que llega de startups es genérico, idéntico a lo que reciben los diez primeros resultados de búsqueda, y pide diez veces el alcance que esa startup realmente necesita. Se ha vuelto mucho más difícil distinguir en qué fundador apostar.”"
+        },
+        {
+          "t": "p",
+          "x": "Hind agregó que los modelos de IA incluso adjuntan reglas sobre cómo debe responder la agencia. Cada brief termina con una lista de lo que debe incluir la propuesta y el procedimiento a seguir. El resultado es uno de dos: una agencia seria envía a la startup la misma cotización que enviaría a un cliente global, o simplemente no responde."
+        },
+        {
+          "t": "p",
+          "x": "Es otro caso de una tecnología pensada para hacer las cosas rápidas y fáciles que termina bloqueando el camino de las personas a las que debía ayudar. Son los fundadores quienes pueden revertir la tendencia. Hind señaló que escribir el brief uno mismo es, en 2026, la forma más rápida de dejar una impresión en una agencia creativa."
+        }
+      ]
+    },
+    "design/design-autodesk-neural-cad-b4m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los directivos de Autodesk presentaron una visión de cómo la IA cambiará el software de diseño: un modelo fundacional que entiende la forma, combinado con una capa de conocimiento que la empresa llama “Project Intelligence”. Martyn Day analizó esa estrategia."
+        },
+        {
+          "t": "p",
+          "x": "Las declaraciones del CEO Andrew Anagnost apuntaban sobre todo a arquitectura y construcción, pero se aplican igual al desarrollo de productos. Él cree que la IA debería cerrar la brecha entre una idea y un modelo terminado en lugar de sustituir a los diseñadores, llevando la intención de diseño hasta la simulación, la ingeniería y la fabricación."
+        },
+        {
+          "t": "p",
+          "x": "El problema al que vuelve una y otra vez es la evaporación del conocimiento. El conocimiento de ingeniería desaparece al pasar entre personas, aplicaciones y etapas de desarrollo. Un modelo CAD solo conserva qué se diseñó, pero casi nunca por qué se cambió una tolerancia o qué restricción de fabricación determinó la forma final. Anagnost dice que esas decisiones y suposiciones deben permanecer ligadas al producto y convertirse en datos para la siguiente tarea."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/09/ImageGenerationFusionAutodeskAssistant-1024x575.jpg",
+          "cap": "El plano de Autodesk para la IA en CAD."
+        },
+        {
+          "t": "p",
+          "x": "Neural CAD, presentado en Autodesk University 2025, marcó el punto de inflexión. Hasta entonces, la industria se había centrado en usar LLM para automatizar tareas repetitivas, escribir scripts o llamar a las API de CAD existentes. Neural CAD es distinto: un modelo fundacional entrenado con datos profesionales de CAD razona directamente sobre forma, topología y relaciones de ingeniería. Se apoya en la investigación de Autodesk AI Lab y Project Bernini, y genera geometría B-rep editable a partir de entradas mixtas de texto, bocetos, imágenes y voz."
+        },
+        {
+          "t": "p",
+          "x": "Autodesk presenta Neural CAD como un complemento del modelado paramétrico, no como su sustituto. La precisión y el control determinista quedan en manos de las herramientas paramétricas, mientras que la exploración conceptual y la manipulación natural corresponden a Neural CAD. Mike Haley, vicepresidente senior de investigación, explicó que genera varias alternativas en paralelo y que, en algunas tareas, incluso produce secuencias de construcción paramétrica. AutoConstrain, en Fusion, es un ejemplo temprano."
+        },
+        {
+          "t": "p",
+          "x": "El punto delicado es el bloqueo con el proveedor. Si Project Intelligence se convierte en el repositorio no solo de los modelos CAD, sino también del conocimiento de ingeniería, las reglas de diseño y los flujos de trabajo de una organización, se crea una dependencia de plataforma mucho más profunda que la de los formatos de archivo propietarios. La industria tardó 20 años en escapar del bloqueo por formato de archivo, y ahora enfrenta un bloqueo del conocimiento. Haley admitió que algunos modelos usan datos de diseño generados por los clientes, aunque añadió que están agregados y despojados de información identificable, y que los clientes pueden optar por desactivar las funciones avanzadas de IA."
+        },
+        {
+          "t": "p",
+          "x": "La precisión tampoco está resuelta todavía. Neural CAD no puede garantizar una precisión perfecta. Autodesk optó por combinar la generación probabilística con un motor paramétrico determinista para refinar la geometría y llevarla dentro de la tolerancia. Es menos un botón mágico que una herramienta para diseño conceptual y tareas de alcance acotado."
+        },
+        {
+          "t": "p",
+          "x": "El costo también queda pendiente. Para empresas que ya pagan por software de autoría, colaboración en la nube y almacenamiento de datos, el cómputo de IA y los servicios de Project Intelligence son otro gasto recurrente. Si Autodesk es la empresa capaz de entregar realmente ese futuro es otra cuestión. La estrategia misma se sostiene sobre la premisa de que los clientes confiarán su conocimiento de ingeniería y su propiedad intelectual de forma más profunda a una sola plataforma."
+        }
+      ]
+    },
+    "design/design-chatgpt-sketch-9f2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI lanzó ChatGPT Images 2.5 el martes y añadió una forma más de pedir una imagen: el garabato. Al activar una nueva función llamada Sketch, se puede dibujar directamente dentro de ChatGPT y luego decir qué imagen se quiere a partir de ese dibujo."
+        },
+        {
+          "t": "p",
+          "x": "Usarlo es sencillo. Escribir @Sketch en el campo de chat abre una ventana de dibujo. Cuando el periodista introdujo un garabato de un gato hecho a mano con el mouse, el resultado fue una foto fotorrealista siguiendo las instrucciones. También se puede dejar un comentario directamente sobre la parte de la imagen que se quiere cambiar; así fue como se cambió el color de los ojos del gato."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-08-at-1.08.36-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "El garabato original dibujado a mano y la primera imagen de gato que hizo ChatGPT. Como los ojos eran verdes, se pidió cambiarlos a azul."
+        },
+        {
+          "t": "p",
+          "x": "Images 2.5 también recibió mejoras propias. OpenAI dijo que la iluminación es más natural, las texturas más ricas, y que el modelo sigue mejor que antes las instrucciones de edición en varias rondas. La latencia de generación de imágenes bajó hasta un 50 por ciento frente a Images 2.0."
+        },
+        {
+          "t": "p",
+          "x": "Images 2.5 ya está disponible para usuarios de ChatGPT, ChatGPT Work y Codex en escritorio, móvil y web."
+        },
+        {
+          "t": "video",
+          "yt": "6l7ble9P74o"
+        }
+      ]
+    },
+    "design/design-date-slop-7qd": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hace tiempo participé en un concurso de la peor UX, en la categoría del peor selector de fechas, y solo ahora lo he pulido lo suficiente para mostrarlo. No gané el premio. ¿Significa eso que mi demo no era lo bastante mala? Me tienta tomarlo como un cumplido."
+        },
+        {
+          "t": "p",
+          "x": "Le di la vuelta a un futuro en el que los asistentes de IA se han vuelto tan comunes y tan abusados que entorpecen en lugar de ayudar. Un bot secuestra el lugar donde debería estar el selector de fechas. Insiste en que él va a introducir la fecha, intenta sonsacar la fecha de nacimiento con preguntas tediosas, y no la acepta aunque el usuario simplemente la diga."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/0w2vzeikxo6bkh5tn5mi.webp",
+          "cap": "Captura de pantalla de date-slop.hdv.dev en funcionamiento."
+        },
+        {
+          "t": "p",
+          "x": "La arquitectura original era así: cuando el usuario pone el foco en el campo de fecha, el cliente inicializa una conversación. Se crea una sesión de chat en la memoria del servidor, y un prompt con las reglas va a gpt-4o-mini. El primer saludo y la pregunta vuelven junto con un ID de sesión, y cada respuesta posterior lleva ese ID para recuperar el historial de la conversación. Cuando el bot adivina la fecha, envía un mensaje con un formato fijo, y el cliente lo analiza y lo coloca en el formulario."
+        },
+        {
+          "t": "p",
+          "x": "La primera lección fue el arranque en frío. Al estar en el plan gratuito, no quería pagar para evitarlo, pero una demo que nadie había tocado en un tiempo tardaba en despertar. Hice que la app despertara la función serverless en segundo plano en cuanto se abría, y si aun así iba lenta, un gráfico de carga pedía disculpas por la espera."
+        },
+        {
+          "t": "p",
+          "x": "Ajustar el prompt fue la parte más tediosa. Si es demasiado fácil, aburre; si es demasiado difícil, se abandona. Como un jurado podría probarlo solo una vez, ese equilibrio tenía que acertarse cada vez. Aun reescribiendo varias veces la regla de que “el usuario nunca puede decir una fecha, mes o año concretos”, el LLM a veces aceptaba una fecha dicha directamente. A la inversa, otras veces devolvía una contrapregunta vaga e inútil ante una pista muy específica. El consejo habitual es escribir qué hacer en lugar de qué no hacer."
+        },
+        {
+          "t": "p",
+          "x": "La mayor lección fue no guardar el estado de la conversación en la memoria del servidor. Acumulaba todas las sesiones en memoria y nunca borraba las terminadas, pero las instancias serverless se reciclaban constantemente y las borraban por mí. Si una instancia se reciclaba a mitad de la conversación, el cliente seguía teniendo un ID de sesión mientras el servidor ya no tenía esa sesión, y la pantalla se quedaba congelada. Había una sola solución: mover el historial de la conversación al estado del cliente y enviar la conversación completa con cada solicitud, dejando solo el prompt del sistema en el servidor."
+        },
+        {
+          "t": "p",
+          "x": "La última preocupación fue el costo. El éxito es barato, pero el abuso es caro. Puse un límite de gasto y desactivé la recarga automática. Eso solo no bastaba para impedir que una sola persona agotara todo el crédito, así que añadí una regla de firewall de Vercel para devolver un 429 si llegaban más de 20 mensajes en 60 segundos. El cliente limita la longitud de la conversación, y las solicitudes a OpenAI usan max_completion_tokens para acotar el tamaño de la respuesta."
+        },
+        {
+          "t": "p",
+          "x": "Llamar a una API de IA es fácil. Construir encima una función útil para el usuario sigue siendo ingeniería de software corriente. Cada función nueva trae consigo nuevos modos de fallo y nuevas vías de abuso. La protección a nivel de aplicación sola no basta; hace falta además límites de frecuencia a nivel de infraestructura y control de facturación."
+        }
+      ]
+    },
+    "design/design-resolve-mcp-x7k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Blackmagic Design actualizó al mismo tiempo su software gratuito de corrección de color y edición, DaVinci Resolve, y la versión comercial de 295 dólares, DaVinci Resolve Studio."
+        },
+        {
+          "t": "p",
+          "x": "La actualización es gratuita, pero no es ligera. La versión 21.1 incorpora más de 100 herramientas nuevas, entre ellas un servidor MCP que conecta el software con herramientas de IA externas como Claude y Codex. En lugar de buscar en los menús y operar manualmente, se mueve Resolve escribiendo comandos en lenguaje natural a la IA. Los ejemplos que da Blackmagic van desde tareas repetitivas, como organizar archivos multimedia o cambiar la configuración del proyecto, hasta ediciones como armar un resumen de momentos destacados a partir de un video largo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260908_DaVinciResolve211_MCPServer-960x480.jpg",
+          "cap": "El nuevo servidor MCP permite que herramientas de IA externas controlen DaVinci Resolve."
+        },
+        {
+          "t": "p",
+          "x": "La página Fusion, la herramienta de composición, también creció mucho. La biblioteca Krokodove, integrada en la versión 21.0, ganó más de 25 herramientas para crear formas en 2D y 3D. Entre las más destacadas están el nodo sPrimitive Create, para formas básicas complejas como cruces y estrellas; Connect3D, que conecta vértices en una red de líneas; HeightFieldCreate3D, que deforma planos 3D a partir de mapas de bits; y TubeCreate3D, que teje formas de tubo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260908_DaVinciResolve211_Krokodove-960x480.jpg",
+          "cap": "Se añadieron más de 25 herramientas Krokodove para motion graphics en la página Fusion."
+        },
+        {
+          "t": "p",
+          "x": "En el lado de los VFX, Lens Distort ganó un modo Fusion Division Radial que corrige la distorsión trazando líneas a lo largo de los bordes rectos del cuadro. El rastreador de cámara ahora puede importar tracks creados en otro software. La composición deep obtuvo una vista previa tipo flipbook de imágenes deep y un modo de mezcla Hard Mix, y Renderer3D ahora admite motion blur y objetos mate en modo deep, con un renderizado deep acelerado por hardware hasta 8 veces más rápido. También se incorporó el shader de materiales OpenPBR, un estándar de la industria."
+        },
+        {
+          "t": "p",
+          "x": "En la página Color, el Multi-Master Trim Manager ahora maneja Dolby Vision, HDR10+ y HDR Vivid como pases separados, lo que permite graduar según el formato. También se añadió un nodo ResolveFX Panomap para trabajar con metraje esférico y hemisférico. La nueva página Photo acepta todos los paneles de control de hardware de Blackmagic y admite las series GFX y X de Fujifilm, el sistema SL de Leica, y modelos adicionales de Sony Alpha."
+        },
+        {
+          "t": "p",
+          "x": "DaVinci Resolve 21.1 funciona en Windows 10 o posterior, Rocky Linux 8.6 y macOS 15.0 o posterior. La licencia permanente de la versión básica es gratuita, mientras que la versión Studio, que añade funciones de IA, 3D estereoscópico y herramientas de colaboración, cuesta 295 dólares. La actualización a 21.1 es gratuita para los usuarios existentes. También se incorporó esta vez soporte nativo para el superchip Nvidia RTX Spark."
+        }
+      ]
+    },
+    "design/design-voice-ux-patterns-m3s": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Radio Rex, el primer juguete activado por voz, se vendió en 1922. Al llamarlo “Rex”, la energía acústica del sonido de la x, en torno a los 500Hz, hacía vibrar un puente metálico que cortaba la corriente; el electroimán se soltaba y un resorte lanzaba la figura del perro."
+        },
+        {
+          "t": "p",
+          "x": "Durante casi un siglo después, el principio no cambió: captar un patrón de sonido, ajustarlo a una intención y activar una respuesta. A medida que los modelos de lenguaje y de voz mejoraron rápidamente, el propio medio de la voz cambió. Sharang Sharma trazó, como un mapa, los ocho patrones que se están consolidando ahora, el papel del agente tal como lo percibe el usuario, y las decisiones de diseño y los límites detrás de cada uno."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*8elyTUeaqc_ofvkJHKFbvg.jpeg",
+          "cap": "Patrón 1. Videollamadas y llamadas de voz con avatar"
+        },
+        {
+          "t": "p",
+          "x": "El primero son las videollamadas y llamadas de voz con avatar. Aquí entran el coaching, como las llamadas de Lily en Duolingo o MasterClass AI call, y experiencias de compañía como Tolan y Replika. El contacto visual, la sincronización labial y los gestos sutiles crean sensación de presencia. En una encuesta de usuarios de Tolan publicada por la empresa, el 85.6% dijo que les ayudó a superar emociones difíciles y el 72.5% dijo que les ayudó a gestionar o mejorar relaciones. En los más realistas, como HeyGen LiveAvatar, un desajuste en la sincronización labial rompe la inmersión."
+        },
+        {
+          "t": "p",
+          "x": "El segundo, por turnos, fija con el estado de la pantalla quién habla y quién escucha. Se usa para tutorías, preparación de entrevistas y evaluación de competencias, como en HireVue AI o Final Round AI. Sin rostro, el peso cae en la calidad de voz y en una transición de turno limpia, y al no permitir interrupciones, su uso queda limitado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*7b5GCQDHDXRQtMX2gaJ6CQ.jpeg",
+          "cap": "Patrón 3. Llamadas telefónicas con IA"
+        },
+        {
+          "t": "p",
+          "x": "El tercero, las llamadas telefónicas con IA, gestiona soporte al cliente, verificación de leads, reservas y encuestas como si fueran llamadas reales. Aquí están plataformas B2B como Ringg AI, Retell y Vapi. Vapi afirmó que, dejando el flujo intacto pero cambiando el guion corporativo por un tono de colega, su tasa de conversión en llamadas salientes subió del 14% al 22%."
+        },
+        {
+          "t": "p",
+          "x": "El cuarto formato añade voz a un chat de texto. El modo de voz de ChatGPT y Gemini Live son ejemplos típicos, y el flujo se rompe con salidas que no se pueden leer en voz alta, como código o tablas. El quinto, de voz a texto, no tiene conversación de ida y vuelta, y la precisión de la salida es el producto en sí. Wispr Flow afirma que el 90% de los mensajes se envían sin corregir una sola letra, por encima del 71% de OpenAI."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*4_JnySQ7FLaef9uoAi955A.jpeg",
+          "cap": "Patrón 7. Transcripciones de copiloto"
+        },
+        {
+          "t": "p",
+          "x": "El sexto, video con guion más voz, une una entrada de voz a un video grabado de antemano. La IA no genera respuestas; puntúa lo que se dice y elige el fragmento que coincide. Speak y Teuida se acercan a esto, y como cada ramificación exige una nueva grabación, el costo se duplica a medida que se añaden idiomas. El séptimo, transcripciones de copiloto, escucha la conversación y genera decisiones, tareas y resúmenes. Aquí están Granola, Otter y Fireflies, y para llamadas de ventas, Gong y Chorus."
+        },
+        {
+          "t": "p",
+          "x": "El octavo, ambiental y con palabra de activación, se remonta al Shoebox que IBM presentó en 1961. Los sistemas actuales entienden solicitudes desordenadas, recuerdan el contexto y manejan calendarios, mapas, música y hogares inteligentes. Sin sesiones ni hilos, cada interacción empieza desde cero."
+        },
+        {
+          "t": "p",
+          "x": "En el último siglo, el problema que resolvieron las interfaces de voz fue ajustar la intención. Al resolverse, se abrió paso a tutores que responden en tiempo real, llamadas de soporte que podrían pasar por humanas y resúmenes de reuniones lo bastante fiables para actuar sobre ellos. Lo que queda es elegir: poner un rostro en pantalla o quedarse solo con la voz, qué personalidad darle, si interrumpe la conversación o escucha en silencio. Diseñar cómo se ve un agente importa tanto como diseñar qué puede hacer."
+        }
+      ]
     }
   }
 }

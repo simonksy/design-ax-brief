@@ -4388,6 +4388,137 @@
           "x": "El trabajo que queda ahora, según The New York Times, es el de ‘humanizador’: retocar textos generados por IA para que no los detecten los verificadores de plagio. El profesor Mark Graham, de Oxford, cree que la misma convulsión se repetirá en todo el mundo. Bundi lo dice así: “La IA llega a los banqueros, llega a los contadores, llega a los ingenieros. También llegará a los arquitectos. Llega a todos.”"
         }
       ]
+    },
+    "books/books-anthropic-agent-claims-v4x": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esta semana, los autores que esperaban los pagos del acuerdo de Anthropic recibieron un correo inesperado: alguien más había reclamado derechos sobre su parte."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?w=1024",
+          "cap": "Anthropic llegó a un acuerdo por la demanda colectiva de derechos de autor el año pasado por 1.500 millones de dólares."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic cerró la demanda colectiva por derechos de autor con un acuerdo el año pasado. El tribunal consideró que entrenar modelos de IA con obras protegidas era uso justo, pero no eximió la copia ilegal de esas obras. El acuerdo recibió la aprobación final en julio, y el proceso de pago se puso en marcha desde entonces."
+        },
+        {
+          "t": "p",
+          "x": "Las condiciones son estas: se pagan 3.000 dólares por cada obra copiada ilegalmente, y el total abarca cerca de 500.000 títulos. Si el libro tiene un contrato vigente con una editorial establecida, el autor y la editorial se dividen el pago por igual. Si el autor se autopublicó o recuperó los derechos tras quedar el libro fuera de catálogo, el autor recibe el monto completo."
+        },
+        {
+          "t": "p",
+          "x": "Pero en redes sociales se acumularon reportes de editoriales que reclamaban más de lo que les correspondía. La autora de misterio y suspenso April Henry escribió: “¿Qué está haciendo HarperCollins? Reclamó como suyo, en el acuerdo de Anthropic, un libro cuyos derechos me fueron devueltos hace al menos 17 años. Y el mismo día me llegó una alerta de crédito que mostraba a HarperCollins añadido como mi empleador. ¡Eso nunca había pasado!”"
+        },
+        {
+          "t": "p",
+          "x": "Las quejas que llegaron a Victoria Strauss, de Writer Beware, se dividían en dos grupos: libros cuyos derechos ya habían sido devueltos, sin base para un reclamo, y libros en los que una editorial exigía el 100 por ciento cuando solo le correspondía la mitad. Strauss dijo que no quiere atribuir a mala fe lo que puede explicarse por una gestión de registros deficiente, pero añadió que algunas editoriales ya han admitido el error y pidieron a Anthropic que lo corrigiera."
+        },
+        {
+          "t": "p",
+          "x": "Mary Rasenberger, directora del Authors Guild, también dijo al New York Times que no ve esto como un despojo por parte de las editoriales. Explicó que no se trata de señalar a ningún autor en particular, sino de un resultado previsible de una gestión de registros deficiente y un proceso de acuerdo confuso. La evaluación de Strauss es algo más grave. Lo que ella ha visto es solo “un vistazo a través de una pequeña grieta en un muro enorme”, escribió, pero con un número sin precedentes de reportes llegando en dos días y los mismos errores repitiéndose, parece “algo mucho más amplio y estructural, no los fallos habituales que se esperarían en una operación de este tamaño”."
+        },
+        {
+          "t": "p",
+          "x": "Las editoriales no son las únicas que reclaman una parte. Strauss dijo haber recibido reportes de que varias agencias literarias también presentaron reclamos, y añadió que resulta sorprendente, ya que las agencias son solo representantes que venden libros, no titulares de derechos. La autora Courtney Milan (seudónimo de la exsecretaria judicial y profesora de derecho Heidi Bond) lo expresó con más franqueza en Bluesky: “Escucho que algunos agentes intentan quedarse con un porcentaje del dinero del acuerdo de Anthropic. No lo hagan. ¿Qué están haciendo? ¡Deténganse ya!”"
+        },
+        {
+          "t": "p",
+          "x": "Milan y el Authors Guild también explicaron cómo impugnar la distribución. La parte complicada es el momento de la devolución de derechos: para reclamar el 100 por ciento de un libro, los derechos debían haber sido devueltos antes del 10 de agosto de 2022, la fecha de descarga fijada por el acuerdo."
+        }
+      ]
+    },
+    "books/books-audible-human-translation-r6p": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131280-1.PNG",
+          "cap": "Dos Audible Originals llegados del mercado en alemán. A la izquierda, The Ratcatcher 2, de Anthony Caseria; a la derecha, Forged by Fire, de Ellie J. Morrigan."
+        },
+        {
+          "t": "p",
+          "x": "Audible dijo que este año cuadruplicó el número de obras traducidas de idiomas europeos al inglés. Las traducciones desde Europa crecieron un 300 por ciento respecto al mismo periodo del año pasado, aunque la empresa no reveló la cifra del año anterior."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, para finales de 2026 las traducciones europeas representarán cerca del 25 por ciento de su catálogo de Originals en inglés. Originals designa los audiolibros que Audible encarga, produce o distribuye en exclusiva en su propia plataforma. Las obras provienen principalmente de Alemania, Francia, España e Italia. Un portavoz de Audible confirmó que toda la traducción fue hecha por humanos, no por IA."
+        },
+        {
+          "t": "p",
+          "x": "Esto responde a la demanda de ficción de género. Los pedidos se concentran en crimen, thriller, misterio y romantasy, explicó la empresa en su anuncio. Las obras en alemán destacan especialmente, encabezadas por The Ratcatcher 2, de Anthony Caseria, y la secuela romantasy de Ellie J. Morrigan, Forged by Fire. Su predecesora, Bound by Fire, es hasta ahora la traducción al inglés más escuchada de Audible."
+        },
+        {
+          "t": "p",
+          "x": "Aurélie de Troyer, directora de contenido internacional de Audible, dijo en un comunicado: “El éxito de estos títulos ha reforzado nuestra convicción de que una buena historia cruza idiomas y fronteras.” Añadió: “A medida que el audio borra cada vez más las fronteras, podemos presentar a escritores y creadores extraordinarios a los oyentes de habla inglesa a través de un nuevo medio.”"
+        }
+      ]
+    },
+    "books/books-authors-guild-registration-q7m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Tras el acuerdo de 1.500 millones de dólares en la demanda colectiva de derechos de autor contra Anthropic, el Authors Guild recibió el mismo reporte una y otra vez: los contratos exigían el registro, pero las editoriales nunca presentaron los libros ante la Oficina de Derechos de Autor de EE. UU., lo que los dejó fuera del acuerdo."
+        },
+        {
+          "t": "p",
+          "x": "El grupo definido por el tribunal es estrecho. El libro debe haber sido descargado por Anthropic de LibGen o PiLiMi en fechas específicas de 2021 y 2022, debe tener ISBN o ASIN, y debe haberse registrado en la Oficina de Derechos de Autor dentro de los tres meses posteriores a la publicación o antes de la primera infracción. Muchos autores y agentes han informado que sus libros quedaron fuera de la lista porque las editoriales nunca los registraron."
+        },
+        {
+          "t": "p",
+          "x": "Para medir el alcance del problema, el Authors Guild hizo varias preguntas a los autores: si el contrato de publicación exige que la editorial registre los derechos de autor; si lo exige, si hay un plazo definido; si ese plazo es el de tres meses tras la publicación que preserva la elegibilidad para daños estatutarios y honorarios de abogados, o alguna otra fecha; y, por último, si la editorial cumplió ese compromiso. Los autores podían anotar varios títulos de libros y editoriales."
+        },
+        {
+          "t": "p",
+          "x": "Respondieron más de 500 autores, con más de 1.400 libros y cerca de 400 sellos editoriales, con fechas de publicación que se remontan 40 años."
+        },
+        {
+          "t": "p",
+          "x": "Los autores confirmaron que el 54 por ciento de los libros tenía una obligación de registro en el contrato; el 17 por ciento dijo no saber si existía esa cláusula. De los 864 libros en los que se respondió si se había cumplido, en 804, alrededor del 93 por ciento, la editorial no cumplió con el deber de registro. El Authors Guild aclaró que esta cifra refleja quién respondió, no la tasa real de incumplimiento. Entre las 470 respuestas que indicaron un plazo, 258, el 54,9 por ciento, señalaron los tres meses posteriores a la publicación."
+        },
+        {
+          "t": "p",
+          "x": "Estas cifras por sí solas no establecen un incumplimiento de contrato individual. Hay que examinar el lenguaje del contrato caso por caso, y también evaluar si el simple registro habría calificado realmente al libro para el acuerdo, empezando por confirmar si Anthropic lo descargó realmente en 2021 o 2022. Aun así, la señal de que los registros omitidos no son casos aislados es clara: de los 804 libros contados como incumplidos, 321 se publicaron entre 2019 y 2025, lo que coincide con los relatos de que el trabajo de registro de las editoriales se atrasó durante la pandemia."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión del Authors Guild remite al contrato. Recomienda incluir una cláusula que fije el momento del registro y la forma de cumplirlo. Si el contrato estándar no tiene esa cláusula, pide que se añada, y si la editorial lo posterga, explica cómo el autor puede registrar el manuscrito por sí mismo. También propuso una nueva cláusula modelo que obligue el proceso de registro. Ya es tarde para el acuerdo de Anthropic, pero en las indemnizaciones de las demandas de IA que vendrán, el registro marcará la diferencia."
+        }
+      ]
+    },
+    "books/books-library-ai-supply-h3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bookriot.com/wp-content/uploads/2025/10/library-check-out.jpg.optimal.jpg",
+          "cap": "Check Your Shelf, el resumen semanal de noticias que Book Riot prepara para bibliotecarios."
+        },
+        {
+          "t": "p",
+          "x": "El boletín para bibliotecarios de Book Riot, Check Your Shelf, abrió esta semana con un homenaje a Dolly Parton. Parton, que murió a los 80 años, invirtió regalías en comunidades negras y donó 1 millón de dólares a la investigación de la vacuna contra el COVID-19. Su Imagination Library, iniciada en 1995, ha enviado cientos de millones de libros a niños de cinco países."
+        },
+        {
+          "t": "p",
+          "x": "Las noticias sobre IA empiezan en el terreno de la distribución de libros físicos. Las librerías de segunda mano del Reino Unido e Irlanda están recibiendo pedidos masivos con títulos sin ninguna lógica, y sospechan que quienes los hacen son empresas de IA."
+        },
+        {
+          "t": "p",
+          "x": "404 Media rastreó la ruta de un envío de libros raros. Terminó en una instalación de entrenamiento de IA de Amazon."
+        },
+        {
+          "t": "p",
+          "x": "El interior de la propia librería de Amazon tampoco está tranquilo. Una investigación de Publishers Weekly encontró que el 63 por ciento de los libros religiosos vendidos en Amazon probablemente fueron escritos por IA. Los lectores mismos no se ponen de acuerdo sobre qué cuenta como un libro escrito por IA, según una encuesta que hizo Book Riot."
+        },
+        {
+          "t": "p",
+          "x": "Surgió una objeción al hábito de usar IA para resumir libros difíciles: la fricción de tropezar con una frase es, en sí misma, parte de la lectura."
+        },
+        {
+          "t": "p",
+          "x": "El último punto es sobre una biblioteca. Rachel Reid, autora de la serie Heated Rivalry, donó 300.000 dólares al saber que cinco sucursales de la Biblioteca Regional de Annapolis Valley, en Nueva Escocia, cerrarían permanentemente."
+        }
+      ]
     }
   }
 }

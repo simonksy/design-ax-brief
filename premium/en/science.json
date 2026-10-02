@@ -5486,6 +5486,124 @@
           "x": "There's also a risk that item-level information could be used to defeat a benchmark. Even so, the researchers wrote that “transparency about what benchmark items actually measure is worth that risk.”"
         }
       ]
+    },
+    "science/science-controversial-stimuli": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/why-scientists-are-loo.jpg",
+          "cap": "The concept of “principal distortion” extends this approach to two or more models. The two images on the right add each distortion to the original. Credit: Nature Reviews Neuroscience (2026). DOI: 10.1038/s41583-026-01070-0"
+        },
+        {
+          "t": "p",
+          "x": "The days when AI merely mimicked the brain are over. Now AI models are used to question how the brain computes."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Nikolaus Kriegeskorte of Columbia University's Zuckerman Institute leads the work, which aims to tell which model captures the brain's actual computations."
+        },
+        {
+          "t": "p",
+          "x": "The review paper, co-written with Tal Golan and colleagues at Ben-Gurion University and the University of Luxembourg, appeared in Nature Reviews Neuroscience."
+        },
+        {
+          "t": "p",
+          "x": "Neuroscientists build computational theories to explain how billions of neurons work together to produce seeing, hearing, thinking, planning and acting."
+        },
+        {
+          "t": "p",
+          "x": "Several models already perform human-level tasks such as face recognition. The problem was finding a way to tell which one solves the task the way the brain does."
+        },
+        {
+          "t": "p",
+          "x": "When models score similarly on standard tasks, no verdict emerges. Accuracy alone cannot show which model reflects the brain."
+        },
+        {
+          "t": "p",
+          "x": "So the researchers reversed the approach. They use AI to optimize synthetic images so that competing models make different predictions about human behavior."
+        },
+        {
+          "t": "p",
+          "x": "Showing these “controversial stimuli” to humans or animals reveals which model's predictions match the actual responses."
+        },
+        {
+          "t": "p",
+          "x": "A digit-recognition experiment illustrates this. Researchers made an ambiguous image that one model read as 3 and another read as 7, then showed it to people."
+        },
+        {
+          "t": "p",
+          "x": "Two theories competed: discriminative recognition, which classifies by features, and generative recognition, which builds a mental model of the object to identify it."
+        },
+        {
+          "t": "p",
+          "x": "The result supported the view that “generative computation plays an important role in visual recognition,” meaning the visual system uses both approaches together."
+        },
+        {
+          "t": "p",
+          "x": "Even when none of the tested models explain human behavior, that is still useful: it exposes weak points in current theories and opens a path to new models."
+        },
+        {
+          "t": "p",
+          "x": "As the researchers put it, “some models are clearly less wrong than others.” Even without perfection, a direction emerges."
+        },
+        {
+          "t": "p",
+          "x": "The method is not limited to visual perception. It applies to “any sensory processing, and to many other processes the brain carries out.”"
+        },
+        {
+          "t": "p",
+          "x": "Kriegeskorte said generative computation is important “not just for imagining something, but for perceiving it as well.”"
+        }
+      ]
+    },
+    "science/science-rna-scaffold-stvc8": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-proteins-e-1.jpg",
+          "cap": "Design and screening of the STV RNA carrier, built from the ground up. Credit: Nature (2026). DOI: 10.1038/s41586-026-10952-3"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Helmholtz Munich's Institute of Stem Cell Research (ISF) and Institute of Developmental Genetics (IDG), together with the Technical University of Munich, built an RNA carrier by attaching AI-designed structural proteins to functional protein parts. The results appeared in Nature."
+        },
+        {
+          "t": "p",
+          "x": "The starting point was different. Dr. Christoph Gruber says, “We weren't trying to recreate nature. We designed a new structure for the specific task of delivering RNA efficiently.”"
+        },
+        {
+          "t": "p",
+          "x": "The team created and screened more than 100 carrier variants. Unexpectedly, geometries not found in nature outperformed those modeled on nature. The most efficient was STV-C8."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Maren Kirstin Schumacher notes that “a structure so different from natural virus capsids works especially well.” It's an example of AI expanding the range of protein design."
+        },
+        {
+          "t": "p",
+          "x": "In cell culture, STV-C8 delivered RNA into target cells far more efficiently than the virus-like particles and lipid nanoparticles used for comparison. Compared with lipid nanoparticles, it produced the same level of protein using less RNA."
+        },
+        {
+          "t": "p",
+          "x": "The cargo can also be swapped. Its modular structure carries different RNA to specific target cells, so it can be adapted to different uses and targets."
+        },
+        {
+          "t": "p",
+          "x": "In mouse experiments, STV-C8 injected intravenously expressed RNA mainly in the lungs. No signs of immune response or toxic side effects appeared."
+        },
+        {
+          "t": "p",
+          "x": "In pig muscle, the carrier delivered CRISPR/Cas9 components. It actually cut out a disease-related segment in the dystrophin gene, the blueprint for a protein that supports muscle cells. The core pathology of Duchenne muscular dystrophy lies in this gene."
+        },
+        {
+          "t": "p",
+          "x": "Professor Wolfgang Wurst said, “With STV-C8, we have created a platform we can develop toward multiple therapeutic applications.” The team plans to move the technology into a spin-off company."
+        },
+        {
+          "t": "p",
+          "x": "Challenges remain before clinical use. Researchers still need to look more closely at how to target the carrier precisely to specific cell types and how it spreads within the body."
+        }
+      ]
     }
   }
 }

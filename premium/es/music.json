@@ -4820,6 +4820,92 @@
           "x": "Esto continúa la tendencia de Sonos de abrir sus dispositivos a varios asistentes de IA y a terceros. El control por voz está pasando de ser una ventanilla que toma órdenes dictadas a convertirse en algo más parecido a un interlocutor con gustos propios."
         }
       ]
+    },
+    "music/music-chartmetric-flow-b8k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/Sung-e1788866187311.jpeg",
+          "cap": "Sung Cho, fundador y CEO de Chartmetric"
+        },
+        {
+          "t": "p",
+          "x": "La empresa de análisis de datos musicales Chartmetric lanzó Flow, un agente de IA pensado para ampliar y simplificar las herramientas de trabajo de sus suscriptores."
+        },
+        {
+          "t": "p",
+          "x": "En palabras de Sung Cho, fundador y CEO de Chartmetric, Flow definitivamente no es “otro chatbot de IA más”. Según la empresa, desglosa análisis complejos y señala cómo, por qué y dónde responde la audiencia a un artista dado."
+        },
+        {
+          "t": "p",
+          "x": "También elabora informes semanales para los lanzamientos principales, redacta planes de marketing con varias fases, y hace seguimiento de millones de pistas en los principales servicios."
+        },
+        {
+          "t": "p",
+          "x": "“Flow es un producto nuevo construido para la gente que trabaja en la industria musical, apoyado en el sólido pipeline de datos que Chartmetric ha construido en los últimos 10 años”, dijo Cho. “Piensa la mejor estrategia desde la perspectiva de la industria musical, y cruza tus datos con 14 millones de artistas.”"
+        },
+        {
+          "t": "p",
+          "x": "Flow añade los propios conjuntos de datos y la tecnología propietaria de Chartmetric sobre modelos de IA existentes. Recorre billones de puntos de datos y devuelve análisis y recomendaciones casi al instante."
+        },
+        {
+          "t": "p",
+          "x": "Akash Mukherjee, director de producto de Chartmetric, dijo: “Llevamos dos años construyendo Flow y pensamos seguir refinándolo. Flow es un miembro del equipo. Se encarga de tareas, fija horarios, automatiza cosas y funciona como un socio que piensa contigo detrás de escena.”"
+        },
+        {
+          "t": "p",
+          "x": "Los suscriptores de Premium, a 150 dólares al mes, usan Flow Lite. El paquete Ultra, a 180 dólares al mes, incluye todas las funciones, y la suscripción independiente cuesta 60 dólares al mes. Los créditos son 20 al mes para Premium y 100 al mes para Ultra y la suscripción independiente, con la opción de comprar más si hace falta."
+        },
+        {
+          "t": "p",
+          "x": "Cho dijo que “más de 4.000 usuarios han resuelto con la app de Flow preguntas que antes ocupaban toda una sesión de investigación”. Entre ellas, quién es realmente la audiencia de un artista, qué provocó un repunte o una caída, y cómo se comparan con sus pares en todas las plataformas. “La historia que antes armabas a mano, saltando entre gráficos, filtros y hojas de cálculo, ahora vuelve de una sola conversación, lista para guardar, exportar y usar. Pasar de rastrear qué pasó a entender por qué pasó y decidir qué hacer después: ese es el cambio que crea Flow.”"
+        },
+        {
+          "t": "p",
+          "x": "Toda categoría de panel incluye una prueba de siete días. Durante la prueba, los créditos de Flow quedan limitados a 10, y después se abre la asignación mensual. Chartmetric fue una de las primeras empresas de la industria de datos musicales en abrir un servidor MCP a principios de este año, y el acceso a MCP ya está incluido en todos los planes de suscripción."
+        }
+      ]
+    },
+    "music/music-isbell-suno-x3v": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/09/2246607714-e1788285629641.jpg",
+          "cap": "Jason Isbell en el escenario de exhibición del Country Music Hall of Fame, noviembre de 2025"
+        },
+        {
+          "t": "p",
+          "x": "Jason Isbell lidera una nueva demanda colectiva contra Suno, alegando que la empresa diseñó su generador de música con IA para evocar los rasgos identificables de los artistas."
+        },
+        {
+          "t": "p",
+          "x": "Presentada el lunes 31 de agosto y obtenida por Billboard, la demanda sostiene que Suno incrustó toda la persona musical de los músicos en su modelo como tokens, violando lo que se conoce como el derecho de publicidad. Como resultado, dice la demanda, un usuario puede escribir solo el nombre de un músico y obtener canciones, descripciones y arte que “evocan la identidad de un músico querido.”"
+        },
+        {
+          "t": "p",
+          "x": "La demanda lo expresa así: “El sistema de Suno reconoce 'Jason Isbell' como algo mucho más grande que una simple cadena de caracteres. El nombre funciona como una clave de búsqueda que extrae un conjunto de representaciones propias de ese interprete, y el sistema lo usa para generar respuestas vinculadas a ese músico.” En otras palabras, con solo introducir un nombre llegan a la vez canciones, atributos descriptivos e imágenes relacionadas con ese músico."
+        },
+        {
+          "t": "p",
+          "x": "Como ejemplo, la demanda cita que introducir el nombre de Isbell produjo una canción de Americana llamada “Paper Bell”, un resultado que imitaba la voz masculina claramente distintiva de Isbell y el vibrato propio del country."
+        },
+        {
+          "t": "p",
+          "x": "Junto a Isbell figuran como demandantes David Lowery, líder de Camper Van Beethoven y defensor de los derechos de los artistas desde hace mucho tiempo, el cantante de blues Guy Forsyth y el saxofonista de jazz Ed Calle. Su objetivo es representar, como clase, a todos los músicos cuyo nombre haya sido aceptado como prompt en Suno."
+        },
+        {
+          "t": "p",
+          "x": "Suno ha dicho que usa filtros para bloquear prompts que nombran a artistas específicos. La demanda señala que esos filtros a menudo no funcionan y que, incluso cuando funcionan, se “eluden fácilmente” poniendo espacios entre las letras de un nombre. Introducir “m i c h a e l j a c k s o n” produjo una canción pop llamada “Glovebox Moonwalk” que incluso venía con la imagen del guante blanco característico de Michael Jackson; “t a y l o r s w i f t” produjo una canción de ruptura al estilo de Taylor Swift; y “b a d b u n n y” produjo una pista de reguetón en español al estilo de Bad Bunny."
+        },
+        {
+          "t": "p",
+          "x": "La parte de Isbell alega violaciones de las leyes de derecho de publicidad en estados como Nueva York, California y Tennessee. Como ese derecho es independiente del copyright, el argumento sostiene que un artista puede presentar su propia reclamación por su nombre aunque su sello ya haya licenciado música a Suno. Warner Music Group licenció con Suno el otoño pasado, y BMG lo hizo el mes pasado. La demanda busca una indemnización no especificada y sostiene que la clase de demandantes podría llegar a “millones.”"
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de Suno dijo a Billboard el 1 de septiembre que “creemos que esta reclamación carece de fundamento y pensamos defendernos.” “Suno no se dedica a vender el nombre de nadie: es un lugar que ayuda a la gente a crear música nueva y original. Respaldamos las numerosas salvaguardas que hemos construido en toda la plataforma, incluido el bloqueo de prompts con nombres de artistas específicos o canciones protegidas por derechos de autor.”"
+        }
+      ]
     }
   }
 }

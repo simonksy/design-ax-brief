@@ -4699,6 +4699,137 @@
           "x": "The work that remains now, according to The New York Times, is being a ‘humanizer’ — reworking AI-generated text so it slips past plagiarism checks. Oxford's Professor Mark Graham expects the same upheaval to repeat around the world. As Bundi puts it: “AI is coming for bankers, for accountants, for engineers. It will come for architects too. It is coming for everyone.”"
         }
       ]
+    },
+    "books/books-anthropic-agent-claims-v4x": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This week, authors waiting on Anthropic settlement payments got an unexpected email: someone else had staked a claim to their share."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?w=1024",
+          "cap": "Anthropic settled the copyright class action last year for $1.5 billion."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic ended the copyright class action with a settlement last year. The court held that training AI models on copyrighted works was fair use, but did not excuse pirating those works. The settlement received final approval in July, and the payment process has been moving since then."
+        },
+        {
+          "t": "p",
+          "x": "The terms: $3,000 goes out per pirated work, covering close to 500,000 titles. If a book has an active contract with an established publisher, the author and publisher split it evenly. If the author self-published or regained rights after the book went out of print, the author gets the full amount."
+        },
+        {
+          "t": "p",
+          "x": "But reports of publishers claiming more than their share piled up on social media. Mystery and thriller author April Henry wrote: “What is HarperCollins doing? They claimed my book as theirs in the Anthropic settlement, even though the rights reverted to me at least 17 years ago. And the same day, a credit alert showed HarperCollins added as my employer. That's never happened before!”"
+        },
+        {
+          "t": "p",
+          "x": "Complaints reaching Victoria Strauss of Writer Beware fell into two groups: books where rights had already reverted, leaving no basis for a claim, and books where a publisher demanded 100 percent when it was only owed half. Strauss said she doesn't want to attribute to malice what is plausibly explained by poor record-keeping, but added that some publishers have already admitted the error and asked Anthropic to correct it."
+        },
+        {
+          "t": "p",
+          "x": "Mary Rasenberger, head of the Authors Guild, told the New York Times she doesn't see this as publishers grabbing money. It's not about singling out any author, she said, but a predictable result of poor record-keeping and a confusing settlement process. Strauss's assessment carries more weight. What she has seen is only “a glimpse through a small crack in a huge wall,” she wrote, but with an unprecedented number of reports coming in over two days and the same errors reported again and again, it looks like “something far broader and structural, not just the usual glitches you'd expect from an operation this size.”"
+        },
+        {
+          "t": "p",
+          "x": "Publishers aren't the only ones claiming a share. Strauss said she's received reports that several literary agencies have filed claims too, adding that it's surprising since agencies are only agents selling books, not rightsholders. Author Courtney Milan (a pen name for former law clerk and law professor Heidi Bond) put it more bluntly on Bluesky: “I'm hearing some agents are trying to take a percentage of the Anthropic settlement money. Do not do this. What are you doing, stop it right now!”"
+        },
+        {
+          "t": "p",
+          "x": "Milan and the Authors Guild also explained how to dispute the allocation. The tricky part is the timing of rights reversion: to claim 100 percent of a book, the rights must have reverted before August 10, 2022, the download date set by the settlement."
+        }
+      ]
+    },
+    "books/books-audible-human-translation-r6p": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131280-1.PNG",
+          "cap": "Two Audible Originals that came from the German-language market. On the left, Anthony Caseria's The Ratcatcher 2; on the right, Ellie J. Morrigan's Forged by Fire."
+        },
+        {
+          "t": "p",
+          "x": "Audible said it has quadrupled the number of works translated from European languages into English this year. Translations from Europe rose 300 percent compared with the same period last year, though the company did not disclose last year's figure."
+        },
+        {
+          "t": "p",
+          "x": "By the end of 2026, European translations will make up close to 25 percent of the English Originals lineup, the company says. Originals refers to audiobooks Audible commissions, produces, or distributes exclusively on its own platform. The works come mainly from Germany, France, Spain, and Italy. An Audible spokesperson confirmed that all translation was done by humans, not AI."
+        },
+        {
+          "t": "p",
+          "x": "This follows demand for genre fiction. Crime, thriller, mystery, and romantasy titles are drawing the most orders, the company explained in its announcement. German-language works are doing especially well, led by Anthony Caseria's The Ratcatcher 2 and Ellie J. Morrigan's romantasy sequel Forged by Fire. Its predecessor, Bound by Fire, is Audible's most-listened-to English translation to date."
+        },
+        {
+          "t": "p",
+          "x": "Aurélie de Troyer, Audible's head of international content, said in a statement, “The success of these titles has reinforced our belief that a good story crosses languages and borders.” She added, “As audio increasingly erases borders, we can introduce brilliant writers and creators to English-speaking listeners through a new medium.”"
+        }
+      ]
+    },
+    "books/books-authors-guild-registration-q7m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "After the Anthropic copyright class action settled for $1.5 billion, the Authors Guild was flooded with the same report: contracts required registration, but publishers never filed the books with the U.S. Copyright Office, leaving them out of the settlement."
+        },
+        {
+          "t": "p",
+          "x": "The class the court defined is narrow. The book must have been downloaded by Anthropic from LibGen or PiLiMi on specific dates in 2021 and 2022, must have an ISBN or ASIN, and must have been registered with the Copyright Office within three months of publication or before the first infringement. Many authors and agents have reported that their books were left off the work list because publishers never registered them."
+        },
+        {
+          "t": "p",
+          "x": "To gauge the scale of the problem, the Authors Guild asked authors several questions: whether their publishing contract requires the publisher to register copyright; if so, whether there's a deadline; whether that deadline is the three months after publication that preserves eligibility for statutory damages and attorney's fees, or some other date; and finally, whether the publisher kept that commitment. Authors could list multiple book titles and publishers."
+        },
+        {
+          "t": "p",
+          "x": "More than 500 authors responded, covering more than 1,400 books and close to 400 imprints, with publication dates going back 40 years."
+        },
+        {
+          "t": "p",
+          "x": "Authors confirmed that 54 percent of the books had a registration duty written into the contract; 17 percent said they didn't know if such a clause existed. Of the 864 books where authors answered whether the duty was met, publishers failed to register 804, or about 93 percent. The Authors Guild stressed that this figure reflects who responded, not the actual noncompliance rate. Among the 470 responses that specified a deadline, 258, or 54.9 percent, named three months after publication."
+        },
+        {
+          "t": "p",
+          "x": "These numbers alone don't establish an individual breach of contract. The contract language needs to be examined case by case, and it's necessary to check whether registration alone would really have qualified the book for the settlement, starting with whether Anthropic actually downloaded it in 2021 or 2022. Still, the signal that registration lapses aren't isolated is clear: of the 804 books counted as noncompliant, 321 were published between 2019 and 2025, matching accounts that publishers' registration work fell behind during the pandemic."
+        },
+        {
+          "t": "p",
+          "x": "The Authors Guild's conclusion comes back to the contract. It recommends adding a clause that locks in when registration must happen and how it is carried out. If a standard contract lacks such a clause, authors should ask for one, and if a publisher stalls, authors can register the manuscript themselves; the guide explains how. The Guild also proposed a new model clause that would make registration mandatory. It's too late for the Anthropic settlement, but registration status will be the dividing line in damages from the AI lawsuits still to come."
+        }
+      ]
+    },
+    "books/books-library-ai-supply-h3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bookriot.com/wp-content/uploads/2025/10/library-check-out.jpg.optimal.jpg",
+          "cap": "Check Your Shelf, the weekly news roundup Book Riot compiles for librarians."
+        },
+        {
+          "t": "p",
+          "x": "Book Riot's librarian newsletter Check Your Shelf opened this week with a tribute to Dolly Parton. Parton, who died at 80, invested royalties in Black communities and gave $1 million to COVID-19 vaccine research. Her Imagination Library, started in 1995, has sent hundreds of millions of books to children in five countries."
+        },
+        {
+          "t": "p",
+          "x": "The AI news starts on the ground in the physical book trade. UK and Irish used bookshops have been getting bulk orders of oddly scattered titles, and they suspect AI companies are placing them."
+        },
+        {
+          "t": "p",
+          "x": "404 Media traced the route of one shipment of rare books. It ended up at an Amazon AI training facility."
+        },
+        {
+          "t": "p",
+          "x": "Inside Amazon's own bookstore, things aren't quiet either. A Publishers Weekly investigation found that 63 percent of religious books sold on Amazon are likely AI-written. Readers themselves disagree on what counts as an AI-written book, according to a survey Book Riot ran."
+        },
+        {
+          "t": "p",
+          "x": "A pushback emerged against the habit of using AI to summarize difficult books. The argument is that stumbling over a sentence is itself part of reading."
+        },
+        {
+          "t": "p",
+          "x": "The last item is about a library. Rachel Reid, author of the Heated Rivalry series, donated $300,000 after hearing that five branches of the Annapolis Valley Regional Library in Nova Scotia would close permanently."
+        }
+      ]
     }
   }
 }

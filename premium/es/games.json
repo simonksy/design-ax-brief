@@ -4866,6 +4866,468 @@
           "x": "En junio probé la demo de Penguin Colony. Escribí que era tosca pero cósmicamente interesante, y añadí: «Aunque es corta, la demo sienta las bases de una crítica particular a la ideología fascista. Quién iba a imaginar que esto aparecería mientras se controla a un pingüino». Esa demo sigue disponible. Se puede visitar la página de Steam para probarla o añadirla a la lista de deseos antes del lanzamiento de octubre."
         }
       ]
+    },
+    "games/games-arm-mali-g2-nx-r4v": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Arm celebró el evento Arm Everywhere China en Shanghái y presentó nuevos productos de cómputo de IA: la plataforma de cómputo nativa de IA CSS for Mobile 2, y la GPU Mali G2-Ultra NX, diseñada con el cómputo de redes neuronales en su núcleo. La empresa afirma que mejora el rendimiento gráfico usando mucho menos calor y energía."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Arm-Newsroom-Edge-AI-GPU-image.jpg",
+          "cap": "Arm Mali G2-Ultra NX"
+        },
+        {
+          "t": "p",
+          "x": "Dejan Lazarov, del equipo de producto de GPU de Arm, dijo que el chip tardó dos años y medio en desarrollarse. La idea partió de permitir que los desarrolladores móviles usaran de verdad técnicas que exigen mucho cómputo, como el trazado de rayos. Arm no dijo qué dispositivos lo llevarán, pero su predecesor, el Mali G1-Ultra, está en productos de Xiaomi, Vivo y OnePlus."
+        },
+        {
+          "t": "p",
+          "x": "Arm trabajó con Sumo Digital para crear Neural Dawn, un juego hecho para mostrar esta tecnología. Entre los juegos que usarán el rendimiento del nuevo chip están Arena Breakout Infinite de Tencent, Where Winds Meet de NetEase e Infinity Nikki de Infold Games."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/NeuralDawn_Screenshot01.jpg",
+          "cap": "Neural Dawn, creado con Sumo Digital"
+        },
+        {
+          "t": "video",
+          "yt": "e4cnNm805YI"
+        },
+        {
+          "t": "p",
+          "x": "Hay tres tecnologías centrales: Neural Super Sampling (NSS), NSSD, que también elimina ruido, y NFRU, para generación de fotogramas. Lazarov dio este ejemplo: en el primer fotograma, la GPU renderiza solo un cuarto de la pantalla, y el acelerador neuronal reconstruye las otras tres cuartas partes con NSS. En el segundo fotograma no hay renderizado tradicional en absoluto: cada píxel es resultado de la reconstrucción de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia también añade detalle que no estaba en el fotograma original con DLSS 5, pero ha recibido críticas por alejarse de la intención original de los desarrolladores. Lazarov insistió varias veces en que el enfoque de Arm es distinto. “Nuestra red neuronal no es generativa. Tiene un carácter distinto al de los modelos DLSS más recientes. Al ser de tipo convolucional, no imagina ni inventa nada. Simplemente sabe cómo deben verse las cosas.”"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/nvidia-dlss_2m7KplY.jpg",
+          "cap": "Se ha criticado a DLSS 5 por alejarse de la intención del desarrollador"
+        },
+        {
+          "t": "p",
+          "x": "Por eso Arm publicó tanto la red neuronal de resolución como la de generación de fotogramas en GitHub y Hugging Face. Si los desarrolladores extraen un conjunto de datos de su propio juego y vuelven a entrenar las redes, el escalado y la inserción de fotogramas salen acordes al estilo visual de ese juego. Como el reentrenamiento se hace de forma interna, tampoco hay riesgo de que se filtre propiedad intelectual, según explicó la empresa."
+        },
+        {
+          "t": "p",
+          "x": "“DLSS no es abierto. Es distinto a nuestra red neuronal. Es propietario, cerrado y una caja negra, así que no se sabe qué ocurre dentro.” Su argumento es que no se puede saber con qué se entrenó ni volver a entrenarlo uno mismo."
+        },
+        {
+          "t": "p",
+          "x": "También dieron cifras: junto con 4 veces más rendimiento y 4 veces más eficiencia, el tráfico de DRAM, que supone una gran parte del consumo energético móvil, bajó un 70 por ciento. El año pasado, la GPU tenía que llevarse al límite para mover Neural Dawn a 40 fps, y normalmente iba a 15 fps. La nueva GPU llega a 60 fps sin esfuerzo."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas ya cuentan con un plugin para Unreal, con planes de ampliarlo a otros motores. También se está considerando Unity, pero la prioridad está en Unreal. Los equipos que usan motores propios reciben un SDK. Según Lazarov, añadirlo a un juego ya lanzado toma unos tres meses. El propio Neural Dawn fue hecho por un equipo de menos de 20 personas en 18 meses."
+        }
+      ]
+    },
+    "games/games-dlss5-dual-gpu-mod-m3z": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "XWv5jw90yHc"
+        },
+        {
+          "t": "p",
+          "x": "Un desarrollador usó vibe coding para crear un archivo de complemento de ReShade que traslada el trabajo de renderizado neuronal de DLSS a una segunda GPU. Al activarlo, la gran pérdida de rendimiento que solía acompañarlo prácticamente desaparece. No es del todo una sorpresa, ya que Jensen Huang usó dos tarjetas gráficas cuando mostró esta función por primera vez en el GDC y el GTC de esta primavera. Aun así, abre una vía para dejar la GPU que ya se usaba libre para el coprocesamiento neuronal."
+        },
+        {
+          "t": "p",
+          "x": "El archivo del complemento se llama mgpu_bridge. Como la mayoría de las implementaciones de DLSS 5 hasta ahora, el usuario elige el juego, el modelo y la intensidad del efecto, y está hecho para ReShade, la aplicación que inyecta efectos visuales en los juegos. El archivo está en GitHub, así que puede colocarse directamente en un juego que ya tenga instalado un mod de DLSS 5."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento siempre ha sido el obstáculo. Hasta Nvidia ha afirmado que activar el renderizado neuronal reduce la tasa de fotogramas entre un 50 y un 60 por ciento, sin importar el juego o la intensidad del filtro de IA. Cuando PC Gamer midió NBA 2K27 antes de su lanzamiento, encontró caídas incluso mayores que esas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GdUR8M8koZZwGPhmTxDmN8-1200-80.jpg",
+          "cap": "Una pantalla con el renderizado neuronal activado"
+        },
+        {
+          "t": "p",
+          "x": "En el complemento creado por Marcelo Gibu, una segunda tarjeta gráfica —aquí, una RTX 5060 Ti 16GB— recibe el fotograma terminado, hace el procesamiento neuronal y lo envía a su propio monitor. Como el fotograma nunca vuelve a la tarjeta original, no hay pérdida ni latencia adicional por ese viaje de ida y vuelta."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/FqdP8wjrhsx4LHcLV63wH8-1200-80.jpg",
+          "cap": "Una pantalla con el renderizado neuronal desactivado"
+        },
+        {
+          "t": "p",
+          "x": "El proceso detrás también es propio de la época. Gibu usó dos RTX 5060 Ti 16GB, las mismas que luego usó para las pruebas, para correr un modelo local, Qwen3.8-27B-Q6_K, en LM Studio y armar la estructura del complemento, y dejó la mayor parte del núcleo en C++ en manos de Claude. Escribió que Claude “dio varios diagnósticos seguros, bien formateados y equivocados”."
+        },
+        {
+          "t": "p",
+          "x": "“Esta es la razón para hacerlo: el posprocesamiento neuronal consume por completo el dispositivo en el que corre. Si se ejecuta en la GPU de renderizado, el margen que se gana al bajar la resolución se lo come de inmediato la etapa neuronal, y no queda nada para el escalado. Al moverlo a una segunda GPU, la GPU de renderizado queda realmente liberada”, escribió Gibu en su explicación."
+        },
+        {
+          "t": "p",
+          "x": "Los requisitos no son livianos. La RTX 5060 Ti es el quinto nivel de la línea Blackwell de Nvidia y hoy cuesta unos 800 dólares por tarjeta, así que esta configuración por sí sola supone 1.600 dólares en silicio. También hacen falta dos monitores. Gibu escribió en el readme de GitHub que “un segundo monitor no es un lujo, es obligatorio. La salida neuronal sale de la tarjeta que la generó”. Puede funcionar sin monitor, pero se nota notablemente más lento."
+        },
+        {
+          "t": "p",
+          "x": "Como funciona mediante ReShade, procesa después de que se produce el fotograma final, y no puede usar nada de la información de profundidad y vectores de movimiento que emplea la implementación oficial de Nvidia. El propio Gibu insistió en que es de nivel de investigación, no de producto. Solo lo ha probado en una máquina con tres juegos, así que recomienda leer el código fuente antes de ejecutarlo."
+        }
+      ]
+    },
+    "games/games-eu-dev-ai-survey-t8c": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El 61% de los desarrolladores de videojuegos europeos teme que la IA generativa los presione a crear más rápido y en mayor cantidad. Solo el 35% pensó que la IA eliminaría empleos o reduciría la demanda de su propio puesto."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/person-using-computer.jpg",
+          "cap": "Fuente de la imagen: Christin Hume via Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "Estas cifras aparecen en el informe Talent Signals Reshaping the Games Industry, escrito por Tanya Loktionova, fundadora de Values Value y cofundadora de InGame Job. Se basa en los datos de la décima Big Games Industry Employment Survey. Ya se publicó un resumen, y el informe completo saldrá en noviembre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Poco más de la mitad de los encuestados temía que la IA generativa redujera la calidad del trabajo. El 46% dijo que la IA ha hecho más difícil evaluar la habilidad real de los candidatos. Menos de un tercio, el 29%, se preocupó por la ética, y el 12% dijo no tener ninguna preocupación."
+        },
+        {
+          "t": "p",
+          "x": "El 78% dijo que su forma de trabajar ha cambiado. De ellos, el 33% dijo que cambió mucho y el 45% que cambió en cierta medida. El 22% dijo que no había cambiado nada."
+        },
+        {
+          "t": "p",
+          "x": "Las respuestas de los fundadores también destacan. El 35% dijo que decidió no contratar porque las herramientas de IA podían hacer ese trabajo. El 48% dijo que su empresa opera actualmente con pérdidas, y el 60% dijo que mantiene sus equipos deliberadamente pequeños."
+        },
+        {
+          "t": "p",
+          "x": "En una encuesta anual a ponentes publicada el mes pasado por Gamescom Devs, el 83% también opinó que la IA generativa afectaría la estructura de los equipos o la productividad."
+        },
+        {
+          "t": "p",
+          "x": "Las opiniones se dividieron respecto a los empleos en sí. El 36% pensó que los roles cambiarían antes que reducirse los equipos, y el 33% pensó que los equipos se harían más pequeños. El 14% dijo que usar IA aumenta la producción individual, y el 17% no esperaba ningún recorte de personal."
+        }
+      ]
+    },
+    "games/games-murkmire-no-ai-mod-h5w": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Skyrim acaba de recibir otro mod de expansión de peso. Es un viaje a Marisma Negra, la tierra natal de los argonianos, con los árboles hist y los pantanos húmedos intactos. Parece que el creador quiere que este mod diga algo más allá de ser divertido: que un modder en solitario también puede lanzar un proyecto ambicioso de forma gratuita sin apoyarse en la IA generativa."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/skyrim-mod-king-of-the-murkmire-01.jpg",
+          "cap": "La selva de árboles hist de King of the Murkmire"
+        },
+        {
+          "t": "p",
+          "x": "“No lo hice para lanzar un mensaje. Pero con este lanzamiento quiero señalar una cosa. En 2026, un buen mod todavía puede salir gratis, sin usar IA en absoluto, y hecho por un solo desarrollador.” Así lo escribió el modder Pancake0723 en la descripción de su mod, King of the Murkmire. “No es un ataque, es solo algo para pensar.”"
+        },
+        {
+          "t": "p",
+          "x": "Buena parte de los mods de Skyrim que aparecen hoy en Nexus Mods pasan de alguna forma por la IA generativa. En ese contexto, es reconfortante ver a un creador que se enorgullece de haber hecho algo tan complejo sin esa tecnología."
+        },
+        {
+          "t": "video",
+          "yt": "fmh8VocIczs"
+        },
+        {
+          "t": "p",
+          "x": "Lanzado la semana pasada, este mod supone una carga de trabajo considerable para llevarla solo. Está ambientado en una versión de la era de Skyrim de Murkmire, en Marisma Negra, con 13 misiones y más de 1.000 líneas de diálogo grabadas por personas reales. La mayoría de las líneas las pronuncia la tribu Saxhleel de la región. Entre sus pueblos y ciudades está el puerto de Lilmoth, llamado “la joya enconada de Marisma Negra”."
+        },
+        {
+          "t": "p",
+          "x": "Al recorrer Murkmire se encuentran un antiguo santuario de piedra llamado Xanmeer, una mazmorra hist y ruinas ayleid e imperiales. Pero es peligroso si el personaje no está suficientemente desarrollado. “Marisma Negra está llena de criaturas peligrosas y enfermedades terribles. Ambas cosas frenaron en su día el avance del ejército imperial. Este mod no se hizo fácil. Si llegas con un nivel bajo y sin pociones para curar enfermedades, acabarás desgarrado, infectado y derrotado.”"
+        },
+        {
+          "t": "p",
+          "x": "El creador dice que, de hecho, nunca ha jugado el DLC de Elder Scrolls Online ambientado en Murkmire. En su lugar, lo construyó leyendo la serie de libros del juego The Argonian Account y la wiki gestionada por fans Unofficial Elder Scrolls Pages, y viendo a youtubers jugar esa expansión. Cubrir solo una parte de la región, y no toda, también fue intencional, para subrayar que buena parte de esta tierra sigue siendo desconocida para los forasteros y para mantenerse fiel al canon registrado."
+        },
+        {
+          "t": "p",
+          "x": "Para probarlo uno mismo hace falta algo de preparación. Hay que conseguir el archivo principal y los archivos LOD desde la página del mod, o generar los LOD con una herramienta como DynDOLOD. También se necesita el contenido de las Creations gratuitas de Bethesda Fishing, Rare Curios y Saints and Seducers, además del _ResourcePack.bsa que viene con la Special Edition y la Anniversary Edition. Una vez listo, hay que buscar el barco Lady Pavomay cerca del aserradero al sur de los muelles de Solitude."
+        }
+      ]
+    },
+    "games/games-nhl27-ai-commentary-q7d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El veterano locutor deportivo John Buccigross afirmó que la simulación de hockey sobre hielo de EA Sports, NHL 27, está generando audio de comentarios con IA generativa."
+        },
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project%2835%29.png?width=1400&auto=webp&quality=80&disable=upscale",
+          "cap": "Arte clave de NHL 27"
+        },
+        {
+          "t": "p",
+          "x": "La noticia la informó IGN, y la detectó primero el editor en jefe de Insider Gaming, Mike Straw. Buccigross mencionó el uso de IA por parte de EA mientras hablaba de su trabajo en el juego en el pódcast Chirpin Zebras, diciendo que EA le había mostrado una demostración."
+        },
+        {
+          "t": "p",
+          "x": "“Últimamente uso algo de IA. Me pusieron algo hecho con mi voz. Vaya, pensé, esto está bastante bien. Si el trabajo baja y el cheque se mantiene igual, lo acepto.”"
+        },
+        {
+          "t": "p",
+          "x": "Dijo que también se equivoca. Durante la demostración, su voz sintetizada dijo “¡Gol! El público se levanta de sus sillas”, y Buccigross señaló que son asientos, no sillas."
+        },
+        {
+          "t": "p",
+          "x": "“Hay detalles así, por eso hay que volver a escuchar. Las palabras importan. Aun así, la IA se vuelve más lista. Más adelante dirá asientos en vez de sillas. Pero alguien tiene que introducirlo a mano”, añadió después."
+        },
+        {
+          "t": "p",
+          "x": "La opinión de los desarrolladores sobre la IA generativa ha sido fría durante años. Muchos han señalado que está desgastando la industria. El director de EA, Andrew Wilson, está del otro lado. En 2024 dijo que hasta el 60 por ciento del proceso de desarrollo podría quedar al alcance de la IA generativa, y que EA está adoptando la tecnología a fondo."
+        },
+        {
+          "t": "p",
+          "x": "A finales de ese mismo año, ante inversores, afirmó sin rodeos que la IA generativa está en el centro del negocio de EA y que no es solo una palabra de moda. A finales de 2025, EA se asoció con Stability AI para construir juntos modelos, herramientas y flujos de trabajo, con el objetivo declarado de repensar la forma de crear contenido."
+        },
+        {
+          "t": "p",
+          "x": "El propio Buccigross no parece tener mucho reparo en que clonen su voz. Sin embargo, no se ha confirmado si EA usa esta tecnología en otras partes del juego. Game Developer ha pedido explicaciones a EA."
+        }
+      ]
+    },
+    "games/games-abcd-splat-v3n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La fotogrametría y el renderizado neuronal reconstruyen espacios reales cada vez más grandes. El problema es que, apenas la escena crece un poco, enseguida supera la memoria de una GPU de alto rendimiento."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/27/images/6aa2ecc6e092e/widen_1840x0.png",
+          "cap": "ABCD entrena escenas a gran escala dividiéndolas en bloques espaciales. Imagen: Ka Heng Shiu"
+        },
+        {
+          "t": "p",
+          "x": "El investigador Ka Heng Shiu chocó con el mismo muro. En “The Lost Metropolis”, un proyecto artístico y patrimonial que documenta espacios urbanos de Hong Kong en vías de desaparición, escaneó pueblos y edificios enteros, hasta sus interiores, pero cada vez que intentaba reconstruirlos con 3D Gaussian splatting, la memoria de la GPU se agotaba."
+        },
+        {
+          "t": "p",
+          "x": "Ese problema se convirtió en su tesis de grado. La dejó de lado por cerca de un año y medio mientras buscaba trabajo, y luego la retomó y la desarrolló junto con Karthik Subramanian hasta llegar a ABCD, Alpha-Composited Block Coordinate Descent. Se presentó en SIGGRAPH."
+        },
+        {
+          "t": "p",
+          "x": "ABCD divide la escena en bloques espaciales y optimiza solo uno a la vez, a diferencia de entrenar regiones pequeñas por separado y luego combinarlas. La analogía de Shiu es esta: si divides una habitación en izquierda y derecha y entrenas solo la izquierda, el optimizador colocará los gaussianos en el lugar equivocado al intentar explicar las imágenes de cámara que capturaron objetos del lado derecho. Ese error aparece después, al combinar las partes, como geometría flotante o costuras."
+        },
+        {
+          "t": "p",
+          "x": "En cambio, ABCD congela el resto de la escena pero la mantiene en pantalla. Para cada cámara, renderiza de antemano los gaussianos inactivos en imágenes de primer plano y de fondo, y dibuja el bloque activo entre esas dos capas, componiéndolo por alfa."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/9a/images/6aa2ecdc0dcec/widen_1840x0.png",
+          "cap": "La estructura que repliega las regiones inactivas en imágenes RGBA de primer plano y fondo. Imagen: Ka Heng Shiu"
+        },
+        {
+          "t": "p",
+          "x": "Lo único que debe permanecer en la memoria de la GPU es el bloque activo. El resto queda replegado en imágenes cuyo tamaño no depende del número de gaussianos. Gracias a eso, el pico de VRAM queda, en la práctica, liberado del tamaño total de la escena."
+        },
+        {
+          "t": "p",
+          "x": "No es gratis. La implementación actual cambia memoria de GPU, un recurso valioso, por RAM del sistema, disco y tiempo de entrenamiento adicional, recursos más baratos. La prueba de visibilidad también es todavía conservadora: solo comprueba si el bloque está dentro del frustum de la cámara, no si otra geometría lo oculta. Un recorte que tenga en cuenta las oclusiones reduciría mucho el caché innecesario."
+        },
+        {
+          "t": "p",
+          "x": "El caché se guarda como PNG sin pérdida. Aplicar una compresión más fuerte y refinar la estrategia de caché deja margen notable para reducir tanto el almacenamiento como la carga de entrenamiento."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/16/images/6aa2ef964a968/widen_1840x0.png",
+          "cap": "Un experimento que divide una escena de Mip-NeRF 360 en casi treinta bloques. Imagen: Ka Heng Shiu"
+        },
+        {
+          "t": "p",
+          "x": "Los experimentos del artículo eligieron deliberadamente los casos difíciles. Incluso al dividir una escena de Mip-NeRF 360, difícil de partir de forma limpia, en casi treinta bloques, los artefactos de división casi no se notaron, y convergió de forma similar a un modelo estándar de Gaussian splatting. Para una escena que supera solo un poco la capacidad de la GPU, dividirla en solo dos bloques reduce la VRAM relacionada con los gaussianos casi a la mitad."
+        },
+        {
+          "t": "p",
+          "x": "A escala de bloques urbanos, Shiu considera que el cuello de botella deja de ser la VRAM y pasa a ser el cómputo. Cuantos más bloques hay, mayor es el costo de ir y volver para refrescar el caché. La pregunta también cambia de “cuál es la GPU más grande en la que entra esta escena” a “cómo programar y actualizar estas regiones”."
+        },
+        {
+          "t": "p",
+          "x": "El esqueleto de ABCD no está atado solo al 3D Gaussian splatting. Cualquier representación que se pueda dividir espacialmente y recomponer mediante composición alfa sirve, sea de tipo NeRF o splatting basado en triángulos. La dirección que más entusiasma a Shiu es el entrenamiento distribuido: como cada worker pasa la mayor parte del tiempo en su propia región, se necesita menos sincronización de alto ancho de banda, y los bloques se podrían repartir según la memoria y el cómputo de máquinas con rendimientos distintos. El artículo completo y el código están publicados en GitHub."
+        }
+      ]
+    },
+    "games/games-blizzard-union-q4m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los empleados de Blizzard Entertainment firmaron un nuevo convenio colectivo con la empresa matriz, Microsoft. El sindicato Communications Workers of America (CWA) representó la negociación, que tardó dos años completos en cerrarse. En un lado de la mesa había 1,900 empleados."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/9a/images/6aa3b19d03075/widen_1840x0.jpg",
+          "cap": "Trabajadores de Blizzard Entertainment que firmaron el nuevo convenio colectivo. Imagen: 80 Level"
+        },
+        {
+          "t": "p",
+          "x": "El convenio cubre alrededor de una docena de equipos representados por el sindicato. Abarca organizaciones de títulos insignia como World of Warcraft, Overwatch, Diablo y Hearthstone, así como los departamentos de Platform and Technology y Story and Franchise Development."
+        },
+        {
+          "t": "p",
+          "x": "“Este contrato nos permite seguir fijando nuevos estándares para este trabajo”, dijo Daniel Weltz, miembro del comité de negociación de Platform and Technology e ingeniero de software senior. La lista de logros es larga: aumentos salariales, un horario híbrido de tres días a la semana, un proceso de quejas y adaptaciones por discapacidad."
+        },
+        {
+          "t": "p",
+          "x": "Lo central es otra cosa: de ahora en adelante, Blizzard debe “discutir, evaluar y negociar” con el sindicato antes de introducir herramientas de IA en el trabajo."
+        },
+        {
+          "t": "p",
+          "x": "También se añadió una red de seguridad para despidos. Durante los 14 meses posteriores al anuncio de un despido, los trabajadores tienen ahora derecho de recontratación para postularse a cualquier vacante en cualquier unidad de negociación dentro de Blizzard. También reciben cuatro semanas adicionales de indemnización, sin importar su antigüedad."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/d0/images/6aa3b35db183a/widen_1840x0.jpg",
+          "cap": "El convenio abarca alrededor de una docena de equipos representados por el sindicato. Imagen: 80 Level"
+        },
+        {
+          "t": "p",
+          "x": "“Este contrato significa que ha comenzado una nueva era en Blizzard Entertainment”, dijo Simon Hedrick, miembro del comité de negociación de Overwatch y analista de calidad, añadiendo que espera que estas reglas se extiendan algún día a toda la industria. El presidente de CWA, Claude Cummings Jr., dijo que los miembros del sindicato de Blizzard están “abriendo camino para todos los estudios de Xbox”."
+        },
+        {
+          "t": "p",
+          "x": "Detrás de todo esto hay despidos. La empresa matriz, Xbox, eliminó al menos 1,600 puestos en julio en sus estudios, incluido Blizzard, y el año pasado, según se informó, también se despidió a parte del equipo de Warcraft Rumble."
+        }
+      ]
+    },
+    "games/games-bytedance-world-h8x": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ByteDance, la empresa matriz de TikTok, está preparando un modelo de IA que genera video espacial en tiempo real, similar al Genie de Google."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/09/bytedance.jpg",
+          "cap": "Imagen: ByteDance"
+        },
+        {
+          "t": "p",
+          "x": "Según el informe de Bloomberg, el modelo está especializado en generar video espacial en tiempo real. La empresa espera que funcione como un “volante” que conecte su negocio de streaming de video, TikTok, con su filial de hardware XR, Pico Interactive."
+        },
+        {
+          "t": "p",
+          "x": "Citando a personas con conocimiento del asunto, el informe dice que el fundador Zhang Yiming supervisa personalmente el desarrollo, y el lanzamiento podría llegar ya el próximo mes."
+        },
+        {
+          "t": "p",
+          "x": "El punto de comparación, el Genie de Google, no solo genera entornos virtuales interactivos en tiempo real, sino que también simula entornos físicos para que los agentes de IA se muevan en ellos."
+        },
+        {
+          "t": "video",
+          "yt": "dO0csRgxo_A"
+        },
+        {
+          "t": "p",
+          "x": "Se dice que Zhang ve esta tecnología como el eslabón clave que conecta los modelos de IA y recursos en la nube existentes de la empresa, sus plataformas de contenido y su filial XR, Pico. El modelo se basa en Seedance, el modelo propio de la empresa para generar video cinematográfico."
+        },
+        {
+          "t": "p",
+          "x": "Sobre el calendario no se sabe nada más allá de “ya el próximo mes”. Mientras tanto, Pico retrasó la presentación de Space Pro, su respuesta al Apple Vision Pro, alegando que quiere “más tiempo para una revisión importante de la experiencia de software”."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/06/pico-project-swan.jpg",
+          "cap": "Un render filtrado de “Project Swan”. Imagen: Luna"
+        },
+        {
+          "t": "p",
+          "x": "No está claro si el modelo de video espacial es el verdadero motivo de ese retraso. Una escasez mundial de componentes, que ya ha subido los precios de la RAM, el almacenamiento y ahora los SoC de Qualcomm, junto con el casco autónomo Steam Frame de Valve, también podría estar frenando a Pico."
+        },
+        {
+          "t": "p",
+          "x": "La empresa dijo que presentará el Pico Space Pro dentro del cuarto trimestre. El cuarto trimestre comienza el 1 de octubre."
+        }
+      ]
+    },
+    "games/games-hoyoverse-voice-w9t": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Estos días, las escenas de operadores de IA generativa que trataban el trabajo de otros como propio y chocaban de frente con la ley de derechos de autor se repiten casi a diario. Esta vez fue una buena noticia para HoYoverse, desarrollador de Genshin Impact: un tribunal de Shanghái dictaminó que debía pagar unos $112,000 en daños."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Smver5XGGDMmgLbWD4dELd.jpg",
+          "cap": "Personajes de Genshin Impact. Imagen: MiHoYo"
+        },
+        {
+          "t": "p",
+          "x": "Según un informe de Automaton, un “proveedor de servicios de IA” sin nombre, también con sede en Shanghái, debe pagar 750,000 yuanes, el precio por reproducir sin autorización las voces de 63 personajes de Genshin Impact."
+        },
+        {
+          "t": "p",
+          "x": "El tribunal determinó que los paquetes de voz de IA que vendía la empresa tenían “características casi idénticas” a las de los personajes del juego gacha. Para la promoción, usó versiones ligeramente modificadas de las imágenes de esos personajes."
+        },
+        {
+          "t": "p",
+          "x": "Por eso, el Tribunal Popular del Nuevo Distrito de Pudong, en Shanghái, determinó que la infracción no se limitaba al contenido dentro del juego, sino que también afectaba al diseño de los personajes, y concluyó que constituía competencia desleal. El uso de los paquetes de voz estaba lejos de un juego normal de Genshin Impact: el producto presentaba versiones ligeramente alteradas de los personajes como avatares virtuales conversadores."
+        },
+        {
+          "t": "p",
+          "x": "En cualquier caso, HoYoverse ganó esta ronda, aunque los $112,000 obtenidos son mucho menos de lo esperado. La empresa, que también creó Honkai: Star Rail, había reclamado inicialmente 5 millones de yuanes, unos $745,000, junto con una orden de cese inmediata."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de conceder esa cantidad, el tribunal ordenó detener de inmediato la conducta infractora. Ahora que la empresa de IA retiró recientemente su apelación, el pago de $112,000 es definitivo."
+        }
+      ]
+    },
+    "games/games-mages-juggernaut-r6d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mages ha mantenido durante mucho tiempo el puesto de desarrollador de novelas visuales más querido de Japón. Historias como Steins;Gate tuvieron éxito internacional incluso al pasar del juego al anime."
+        },
+        {
+          "t": "p",
+          "x": "Tampoco es que nunca haya tocado otros géneros: el año pasado lanzó un juego de ritmo. Aun así, la marca de la empresa siempre fue la novela visual minuciosamente elaborada, o pequeños spin-offs de su último anime. Por eso resulta tan extraño que el nuevo título Juggernaut sea un clon de Quake hecho con IA."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/09/HRwpwtHa8AEbkT8.jpg",
+          "cap": "Juggernaut, el shooter con IA que Mages presentó. Imagen: Mages"
+        },
+        {
+          "t": "p",
+          "x": "La revelación se hizo de forma bastante repentina en la cuenta de redes sociales de la empresa. Juggernaut se presenta como una experiencia que “vuelve a los 90”, diciendo que “se ve retro y se juega retro, porque de verdad es retro”."
+        },
+        {
+          "t": "p",
+          "x": "Basta con mirar la pantalla un momento para quedarse con la extraña impresión de una mezcla de Quake y Doom con zombis. El objetivo es simplemente matar a 5,000 enemigos. La suavidad característica del arte generado por IA hace que todo se vea algo torcido."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/09/ss_61e80c53d3bba3454108a9fc7245057ab713dba3.1920x1080.jpg",
+          "cap": "El resultado de saltar a un género que nunca había tocado. Imagen: Mages"
+        },
+        {
+          "t": "p",
+          "x": "La respuesta está en el aviso sobre uso de IA en la página de Steam. El secreto para saltar tan sin esfuerzo a un género nunca antes tocado fue el uso masivo de tecnología de IA. La empresa declaró que usó modelos de IA generativa para crear el 100 por ciento del código fuente y los efectos del juego, el 60 por ciento de los gráficos y el 50 por ciento del sonido."
+        },
+        {
+          "t": "p",
+          "x": "La reacción de los fans de habla inglesa ha sido casi unánimemente negativa, con voces que critican el aspecto del juego junto a otras sorprendidas de que la IA haya llegado tan lejos en el desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "Mages no es el único estudio japonés con la mirada puesta en la IA generativa. Una encuesta del año pasado encontró que el 51 por ciento de los estudios de videojuegos japoneses estaba experimentando con esta tecnología, y algunos, como Level-5, mostraron abiertamente cómo usaron activos generados."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, llegar a hacer un juego entero con IA y lanzarlo sigue siendo poco frecuente. Es difícil encontrar una razón para elegir Juggernaut por encima de los juegos que copia tan abiertamente. Por ahora solo se puede añadir a la lista de deseos, y todavía no tiene fecha de lanzamiento."
+        }
+      ]
     }
   }
 }

@@ -4375,6 +4375,307 @@
           "x": "价格为61.59美元，现已开售。"
         }
       ]
+    },
+    "movies/movies-adobe-ibc-genmedia-a7k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在IBC 2026召开前,Adobe发布了Premiere Pro和After Effects的更新。“AI用得很多,但也掺了些真正好用的东西”,这是Scott Simmons的开篇第一句。从在时间线内直接生成画面的功能,到帮你写表达式的After Effects AI助手,正式版和测试版混杂在一起。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Premiere_Gen-Media-Tool-2.jpg",
+          "cap": "在轨道上划出范围并输入提示词,就能在原地生成素材"
+        },
+        {
+          "t": "p",
+          "x": "生成式媒体工具本周将在IBC上正式进入Premiere。在轨道任意位置划出范围,描述所需内容,无需离开应用就能生成。该工具位于原来生成扩展所在的工具栏位置,长按即可在两者之间切换。可用滴管在时间线或节目监视器上取一个参考帧,再输入提示词并选择模型。序列设置由Premiere自动匹配,因此生成的片段会符合剪辑本身的分辨率和画面比例。积分费用会在运行前显示在任务栏上。"
+        },
+        {
+          "t": "p",
+          "x": "模型可以在Adobe Firefly、Google Veo、Kling、Runway和Luma之间选择。同一工具也能为音频轨道生成音效。可以划出范围并输入提示词,也可以直接录下自己的声音来确定时长和强弱。结果会以四种变体返回,并全部保存到项目中。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-QmYst4mR-000153-generate-soundscape.jpg",
+          "cap": "Generate Soundscape无需提示词,只读取画面即可生成四条音轨"
+        },
+        {
+          "t": "p",
+          "x": "测试版还新增了两项功能。Generate Music使用Firefly Music模型,根据提示词和目标BPM生成免版权背景音乐,并可选择是加入前奏与尾奏结构,还是做成无缝循环。Generate Soundscape则跳过提示词环节,读取所选范围上方的画面,按动作生成四条预混音轨——两条环境音、两条音效。Simmons写道,效果并不稳定,有的音轨可用,有的则出现了不同步的问题。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Premiere_Enhance-Audio.jpg",
+          "cap": "Enhance Audio会把混合片段拆分为对白、音乐、环境音和音效"
+        },
+        {
+          "t": "p",
+          "x": "Premiere测试版中的新AI音频工具,针对的是项目里已经存在的糟糕声音。Enhance Audio会把混合片段拆分为对白、音乐、环境音和音效,并分别给出滑块。Separate Sound Sources会把这些声道导出到各自独立的物理轨道。Separate Crosstalk会把两个说话者重叠录制的声音拆成两条轨道,剩余部分放进第三条轨道。Dynamic Auto Ducking会自动生成闪避关键帧,并在每次移动片段时重新生成。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-57uBmRUl-000151-HSL-masks.jpg",
+          "cap": "色彩模式新增了HSL蒙版和明度蒙版"
+        },
+        {
+          "t": "p",
+          "x": "色彩模式仍处于测试阶段,但自NAB首次亮相以来功能增加很快。Auto Color是一键调整色温和曝光的起点,无论应用于单个片段、选中的一组片段还是整段序列,方式都一样。HSL蒙版和明度蒙版可以单独抠出色相、饱和度或亮度中的特定区间,并应用到片段调整上。晕影模块和中间调模块也进入了测试版。"
+        },
+        {
+          "t": "p",
+          "x": "After Effects将迎来公开测试版的AI助手,它作用于整个项目,而不只是当前打开的合成。用语言描述想要的动作,它就会用JavaScript写出带滑块的表达式绑定,并以表格形式展示自己做了什么。表达式损坏时,也可以直接让它修复。它还能扫描有数百个图层的继承项目,提出整理结构建议,经批准后再执行。所有操作都可以撤销。"
+        },
+        {
+          "t": "p",
+          "x": "在面向记者的演示中,Jason Druss用一个Photoshop文件制作了一段90年代风格的停格拼贴动画。他只用一句提示词,就为六个照片帧预合成绑定了表达式,并添加了摆动幅度、帧率和堆叠间距等滑块。"
+        }
+      ]
+    },
+    "movies/movies-astro-burn-nura-e6v": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E04-banner.png",
+          "cap": "《Astro Burn》微系列"
+        },
+        {
+          "t": "p",
+          "x": "独立游戏工作室Beyond the Pixels的弹幕射击游戏《Astro Burn》,迈出了成为动画微系列的下一步。第1集已可在TikTok、YouTube Shorts和Instagram上观看。在游戏中,玩家化身宇宙猫Astro,与机器人同伴一起突破荒诞的障碍和敌人返回家乡。"
+        },
+        {
+          "t": "p",
+          "x": "制作该游戏的伦敦开发者、导演兼制作人Haz Dulull与Nura Studio合作,把《Astro Burn》改编成十集1分钟竖屏短集。制作使用了Nura位于蒙特利尔和洛杉矶的Showcraft平台,将游戏的角色和世界重新设计以适应社交媒体的滑动浏览习惯。"
+        },
+        {
+          "t": "p",
+          "x": "Dulull这样说道:“Showcraft是为像我这样非常珍视自己IP的制作人和创作者设计的。我想要完全掌控一个只用我自己的素材训练出来的锁定模型,这样《Astro Burn》的视觉身份才能从头到尾保持一致。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E02_RabbitArmy.png",
+          "cap": "第2集《Rabbit Army》中的一个场景"
+        },
+        {
+          "t": "p",
+          "x": "作为主创兼制作人与Dulull紧密合作的Nura Studio编剧兼导演Abe Schuermann,大约用一个工作周就开发并完成一集。剧本、动画、音效设计、配音录制、音乐、清理到最终交付都包含在这一周里。"
+        },
+        {
+          "t": "p",
+          "x": "即便是最初的测试画面,也只用了Dulull提供的原始角色贴图、动画和美术素材进行训练。“我附上备注发过去,几个小时,有时更快,修改版就回来了,反馈被精确地体现出来。对一个主创来说,这种响应速度是很少见的。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E01_Fighting.png",
+          "cap": "第1集的战斗场景"
+        },
+        {
+          "t": "p",
+          "x": "制作团队强调,从头到尾都是由人主导制作的。Astro的配音由Graziella LaRocca担任,AL由Elvis Deane配音,Brian Wolwich轮流出演多个配角。音乐由真人作曲家创作,通过Epidemic Sound获得授权后再配合画面剪辑。Schuermann这样说:“人类声优带来的细微差别,是AI配音大多做不到的。音乐上我们也是同样的想法。”"
+        },
+        {
+          "t": "p",
+          "x": "Showcraft并没有取代传统的创作团队,而是让一个由一名IP所有者兼主创、一名编剧兼导演、三名声优和一名授权作曲家组成的小团队,完成了原本需要几个月时间和远超这些的资源才能完成的项目。一开始对生成式AI心存怀疑的Dulull这样总结:“AI不会替你讲故事,那仍然是你自己的事。这之所以行得通,是因为技术在支撑一个清晰的创作愿景,而不是随便输入一个想法就能产出随便一个镜头。”"
+        },
+        {
+          "t": "p",
+          "x": "Nura认为,这种改编是独立游戏开发者扩展IP、接触新观众的一种实用模式。Nura Studio的执行制作人兼内容副总裁Isabelle Riva表示,“微系列是让玩家在他们本就花费时间的地方发现独立开发者游戏的一种有力方式”。十集将在十天内每天发布一集。"
+        },
+        {
+          "t": "video",
+          "yt": "0fyuxrSFfCA"
+        }
+      ]
+    },
+    "movies/movies-revize-pitchblack-d4t": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/Thunderbolts_RSP_14A-2400x0-c-default.jpg",
+          "cap": "Rising Sun Pictures参与制作的《Thunderbolts》"
+        },
+        {
+          "t": "p",
+          "x": "今天的Before and Afters播客邀请到了Pitch Black的Troy Tobin。他目前担任REVIZE的研究与创新负责人。"
+        },
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/troy_profile_pb.jpg",
+          "cap": "Troy Tobin"
+        },
+        {
+          "t": "p",
+          "x": "REVIZE是Rising Sun Pictures自主研发的机器学习技术。工作室的艺术家们已经在《Sinners》《Mickey 17》《Thunderbolts》《Furiosa》《Thor: Love and Thunder》等作品中使用过它。"
+        },
+        {
+          "t": "p",
+          "x": "这次发布的核心是扩展。REVIZE将从Rising Sun走向Pitch Black旗下的其他工作室,也就是FOLKS、El Ranchito和Square One。"
+        },
+        {
+          "t": "p",
+          "x": "在播客中,Tobin和Ian Failes谈到了这次扩展,也一起回顾了REVIZE是如何诞生的、用在了哪些地方,以及未来会走向何处。"
+        },
+        {
+          "t": "p",
+          "x": "Before and Afters已经多次报道过REVIZE,包括Rising Sun Pictures这项机器学习技术的诞生过程、《Sonic the Hedgehog 3》中最混乱场景里的换脸与激光效果、tweening技术,以及年轻版Furiosa的制作方法。"
+        }
+      ]
+    },
+    "movies/movies-ccai-site-b8j": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "好莱坞的故事编辑是否特别容易受到AI冲击？概念插画师呢，混音师又如何？"
+        },
+        {
+          "t": "p",
+          "x": "Creators Coalition on AI(CCAI)将于周三启动的一个持续项目，正是要回答这些问题。其正式名称为Standards & Definitions Project，并以一个面向行业的网站开启。CCAI是由Joseph Gordon-Levitt、Daniel Kwan，以及深夜节目资深人士Ted Trempe等十几人在九个月前共同成立的组织，主张在AI时代的创作中仍由人来主导。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/kwanccai.jpg?w=2000&h=1126&crop=1",
+          "cap": "Hiro Murai与Daniel Kwan在2024年Film Independent Forum主题对谈上。"
+        },
+        {
+          "t": "p",
+          "x": "这个网络门户以一份收录约180个AI相关术语的词汇表开篇，意在把原本各说各话的说法统一到同一套标准上。"
+        },
+        {
+          "t": "p",
+          "x": "“AI Impact Visualizer”也同步上线。它为导演、音效、动画、编剧、表演等11个创作领域的约150种职务打分，从0(“完全不涉及该项工作”)到5(“可以完成全部工作”)。相当多职务还被进一步拆分成数十个子项目。"
+        },
+        {
+          "t": "p",
+          "x": "目前已有超过250人作答，但目标是数千人。大多数职务目前仍标注为“recommended knowledge”，这说明收集到的数据还不够充分。"
+        },
+        {
+          "t": "p",
+          "x": "“这份资料的目的，是把围绕AI流传的各种说法收集起来，打造一个事实的基础，”Trempe在采访中说。“这并不是我们想做的事的终点，只是搭建一个让大家能持续跟上的过程。”"
+        },
+        {
+          "t": "p",
+          "x": "他也承认这项调查无法涵盖所有情况：一旦片场转为虚拟拍摄，哪怕得分为0的发型师也会受到影响。不过创始人们认为，这至少让原本只能泛泛而谈的议题开始变成了数字。“我希望人们能拥有一种更清楚表达的工具，而不是只剩模糊的恐惧，”今年制作了《The AI Doc》的Trempe说。"
+        },
+        {
+          "t": "p",
+          "x": "去年夏天经过两场汇集11个领域工会代表的“大会”之后，影响力可视化工具和词汇表在周三正式发布。举例来说，人类原创内容被定义为“生成式AI系统未对其表达性内容作出贡献的创作”，而使用相机、乐器、编辑软件，或只执行纯技术功能的AI系统，不会被计入其中。"
+        },
+        {
+          "t": "p",
+          "x": "这些定义是在大会上反复拉锯打磨出来的，并非一成不变，Trempe说，它们会随会员意见而调整。CCAI的签署者多达数千人，包括Judd Apatow、Ava DuVernay、Margot Robbie，直到Guillermo del Toro。"
+        },
+        {
+          "t": "p",
+          "x": "创始人们期待这套共通语言能从工会谈判一直用到个人合同中。CCAI的创始人兼该团体的召集人、编剧兼导演David Goyer表示，“CCAI的Standards & Definitions Project，是要把混乱变成清晰，把清晰变成行动的能力。”Trempe还提到了另一种用途：让州议会起草并通过相关法案变得更容易。"
+        },
+        {
+          "t": "p",
+          "x": "CCAI会持续修订术语和影响评估，重大更新按季度进行。调查页面可以填入自己的经历，但会核实是否在好莱坞从业。Gordon-Levitt在配合发布的声明中说：“对我来说，这个问题比好莱坞本身更大。艺术家和创作者就是煤矿里的金丝雀。”Kwan也补了一句：“如果我们要为透明而战，就得先自己做到透明。”"
+        }
+      ]
+    },
+    "movies/movies-del-toro-craft-w6r": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Guillermo del Toro在生成式AI进入影视行业这件事上，从来不吝于发声。最近一次Reddit AMA上，他逐条讲述了当艺术家把AI当作捷径时，创作过程中会消失些什么。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Pans-Labyrinth.jpg",
+          "cap": "del Toro举例提到的《潘神的迷宫》中的佩尔曼。"
+        },
+        {
+          "t": "p",
+          "x": "在他看来，艺术家最重要的工作，发生在画面成型很久之前，也就是反复打磨想法的那段时间。“那是整个过程里的四分之三，正是它让人抵达那些若没有这个过程根本想不到的点子。AI能很快把你带到中间地带，但真正把你推向前10%的那种辩证过程，就藏在那段历程里。”"
+        },
+        {
+          "t": "p",
+          "x": "他没有只停留在假设层面。他这样解释《潘神的迷宫》里那个没有眼睛的怪物佩尔曼是怎么来的：“最初雕的是一个有脸的老人。然后我说，‘把脸去掉。’因为我当时看过蝠鲉的照片，还看过Don Coscarelli的《魅影食人族》海报。这两样东西分别隔了一周或一个月出现，它们的组合不是方程式里天然含有的排列，而是炼金术。于是我说‘去掉脸’，接着又说‘把眼睛放到手上’。”"
+        },
+        {
+          "t": "p",
+          "x": "他说，这样的三角定位之所以会发生，是因为他和这个生物一起生活了一两个月。“AI就像一台超高速引擎，专门从已经存在的东西里抽取出半有知觉的排列组合。创作，是从未存在过的东西，是让某种事物开始存在。”"
+        },
+        {
+          "t": "p",
+          "x": "他列出的第二项损失，是学徒式的历练。“你永远不是大师，你始终是学徒。”"
+        },
+        {
+          "t": "p",
+          "x": "在这一点上，他同样举出了现场的例子。他问Christopher Nolan，《The Odyssey》里Matt Damon在风暴海面上漂浮的那场戏是怎么拍的，Nolan回答说，他们是真的把Damon放进了一场真实的海上风暴里。"
+        },
+        {
+          "t": "p",
+          "x": "“一张好照片里30%是意外造就的，比如水滴溅到镜头上，或者相机晃了一下。”他回忆说，大约1993、94年前后，Jim Cameron给他看《终结者2》里Robert Patrick用手臂砸碎车后窗那一幕时，特意指出了镜头光斑。“那是我们特意放进去的。观众只要看到画面里有‘事故’，就会觉得它是真的。”del Toro补充道：“事故是决定性的，而最好的事故，是你没有主动招来的那些。”"
+        },
+        {
+          "t": "p",
+          "x": "尽管自《环太平洋》以来他一直用数字方式拍摄，他依然坚持使用人偶、实体特效化妆、真实的场景、服装和道具。“我喜欢这样一个局面：我们每个人都在为某种东西而战。Chris Nolan一路坚持用IMAX摄影机全程胶片拍摄；我则追逐人偶、实体化妆和真实道具。”"
+        },
+        {
+          "t": "p",
+          "x": "如今他的怪物设计灵感也不再来自屏幕，而是来自古老的插画——像Edmund Dulac、Arthur Rackham、John Bauer这些在1800年代末到1900年代初为童话书作画的人。在此之上，还叠加着来自墨西哥的装饰元素：《环太平洋》里的怪兽像是阿雷布里赫，Faun额头上有同心圆，Hellboy的皮肤上则刻着凹槽。"
+        },
+        {
+          "t": "p",
+          "x": "最后，他的结论还是“减法”。“在设计里，关键往往不在于往生物身上加什么，而在于去掉什么。佩尔曼没有眼睛，眼睛长在手上；死亡天使没有眼睛，眼睛长在翅膀上。关键是你不把什么东西放在哪里。”在围绕AI的争论中，他最看重的一点是：和一个想法相处过的时间，是无法被替代、也无法被重复的。"
+        }
+      ]
+    },
+    "movies/movies-microdrama-ai-v9n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "如今这种形态的竖屏剧产业最早诞生于中国。经过疫情，短剧这种形式呈爆发式扩散。当有报道称AI制作的竖屏作品正在涌入中国市场、制作人员开始为饭碗担忧时，这对美国这个新兴市场来说也是一个不祥的信号。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/17rep_page3.jpg?w=1920&h=1080&crop=1",
+          "cap": "以电路板为背景，一只机械手托举着竖屏剧的两位主角。"
+        },
+        {
+          "t": "p",
+          "x": "瞄准美国市场的公司也在测试这类短篇AI故事是否能打动观众。像My Muse、Inkitt Ironblood这样只发AI竖屏作品的App已经存在，DramaBox、DramaWave、FlareFlow等大公司也在不断增加合成演员和背景，把靠提示词生成的视频塞进App里。"
+        },
+        {
+          "t": "p",
+          "x": "对洛杉矶一带的从业者来说，这种变化直接关乎饭碗。2023年好莱坞罢工之后，传统工作机会消失的地方，竖屏剧曾支撑着演员和幕后人员的生计。如今洛杉矶的竖屏剧从业者告诉The Hollywood Reporter，曾经稳定的工作机会已经明显减少。"
+        },
+        {
+          "t": "p",
+          "x": "“在这一行做了好几年全职的人，正在回到以前的工作，回到家里。演员、幕后、制片人都是。”不使用AI的竖屏剧平台Chera TV联合创始人兼演员Candace Mizga这样说。“尤其是最近这一两个月，情况特别严重。”"
+        },
+        {
+          "t": "p",
+          "x": "成本差距很明显。据AI竖屏剧制作公司Axis AI Studios介绍，实拍竖屏剧的预算大体在10万到30万美元之间，而一部看起来还不错的长篇AI竖屏作品只需6万到10万美元就能做出来。制作周期也不一样：实拍要12周，AI只要2周——这是全AI应用My Muse的所有者Holywater Tech给出的数字。"
+        },
+        {
+          "t": "p",
+          "x": "如果说实拍一周需要50人，“现在五个人、七天就能做出一集”，同时发行实拍和AI内容的平台Shortical首席执行官兼联合创始人Guy Shimoni这样说。他解释称，2月面世的视频生成工具Seedance 2.0让这种转变提前到来。“Seedance 2.0一出来，大家就都开始用了。”"
+        },
+        {
+          "t": "p",
+          "x": "试镜机会正在枯竭。LEWK Management的经纪人Maddie Grove说，“到了6月，原本每天能发15到20条的选角通知，减少到了大约4条。”演员Kylie Carson说，去年每周还有5到15场竖屏剧试镜，现在只有两场。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/IMG_0694.jpg?w=2000",
+          "cap": "在洛杉矶的拍摄现场，化妆师正在为CandyJar竖屏剧《Fight Dirty》主演Carter Harvey做特写前的准备。"
+        },
+        {
+          "t": "p",
+          "x": "同意问题也浮出水面。演员们在7月告诉Business Insider，他们在实拍竖屏作品里的表演和肖像，未经许可被用在了全AI项目中。Grove说，6月以来她见过四次平台违反演员合同中AI条款的情况。"
+        },
+        {
+          "t": "p",
+          "x": "编剧也未能幸免。Tess Dinerstein在2025年把一部海盗题材的竖屏剧剧本卖给了DramaBox，2026年完成修订稿时，她向一位高管表示希望这部作品不要用AI制作。几个月后，那位高管离开了公司，作品最终以AI项目的形式面世。"
+        },
+        {
+          "t": "p",
+          "x": "据悉，在中国，2026年第一季度新上线的竖屏剧中有95%以上都是用AI制作的。AI竖屏作品在美国会不会只是昙花一现，最终要由观众来决定。拍过40部竖屏作品的演员Martina Monti这样说：“有些人对未来更乐观，他们就是希望这股AI泡沫自己破掉。另一些人，就不好说了。”她还补充说，目前情况并不理想。"
+        }
+      ]
     }
   }
 }

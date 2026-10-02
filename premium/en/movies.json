@@ -5105,6 +5105,295 @@
           "x": "It's priced at $61.59 and is available now."
         }
       ]
+    },
+    "movies/movies-adobe-ibc-genmedia-a7k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ahead of IBC 2026, Adobe released updates to Premiere Pro and After Effects. There's a lot of AI in them, but some of it is actually useful, Scott Simmons opened by saying. The lineup mixes shipped features and betas, from a tool that generates footage inside the timeline to an AI assistant for After Effects that writes expressions for you."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Premiere_Gen-Media-Tool-2.jpg",
+          "cap": "Draw a range on a track, write a prompt, and a clip is generated right there"
+        },
+        {
+          "t": "p",
+          "x": "The generative media tool becomes a full feature in Premiere this week at IBC. Draw a range anywhere on a track, describe what you need, and it's generated without leaving the app. The tool sits where the generative extension used to live on the toolbar, and a long press switches between the two. You pick a reference frame from the timeline or the program monitor with an eyedropper, write a prompt, and choose a model. Premiere matches the sequence settings, so the clip comes out at the edit's resolution and aspect ratio. The credit cost shows up in the taskbar before you run it."
+        },
+        {
+          "t": "p",
+          "x": "You can pick a model from Adobe Firefly, Google Veo, Kling, Runway or Luma. The same tool also generates sound effects on audio tracks. You draw a range and write a prompt, but you can also record your own voice to set the timing and intensity. Results come back as four variations, and all of them are saved to the project."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-QmYst4mR-000153-generate-soundscape.jpg",
+          "cap": "Generate Soundscape skips the prompt and reads only the footage to pull four tracks"
+        },
+        {
+          "t": "p",
+          "x": "Two more features arrived in beta. Generate Music uses the Firefly Music model to take a prompt and a target BPM and produce royalty-free background music, letting you choose between an intro/outro structure or a seamless loop. Generate Soundscape skips the prompt entirely. It reads the footage above the selected range and pulls four pre-mixed tracks — two ambience, two effects — matched to the action. Simmons wrote that the results were uneven: some tracks were usable, others were out of sync."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Premiere_Enhance-Audio.jpg",
+          "cap": "Enhance Audio splits a mixed clip into dialogue, music, ambience and effects"
+        },
+        {
+          "t": "p",
+          "x": "The new AI audio tools in the Premiere beta target bad sound that's already in your project. Enhance Audio splits a mixed clip into dialogue, music, ambience and effects, each with its own slider. Separate Sound Sources exports those channels to their own physical tracks. Separate Crosstalk splits audio where two speakers were recorded over each other into two tracks, with the remainder going to a third track. Dynamic Auto Ducking generates ducking keyframes automatically, and regenerates them whenever you move a clip."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-57uBmRUl-000151-HSL-masks.jpg",
+          "cap": "Color mode gets new HSL and luminance masks"
+        },
+        {
+          "t": "p",
+          "x": "Color mode is still in beta, but features have been landing fast since its NAB debut. Auto Color is a starting point that sets white balance and exposure in one pass, and it runs the same way whether you apply it to a single clip, a selected group, or an entire sequence. HSL masks and luminance masks isolate specific ranges of hue, saturation or brightness and attach them to clip adjustments. A vignette module and a midtones module also arrived in beta."
+        },
+        {
+          "t": "p",
+          "x": "After Effects gets an AI assistant in public beta. It operates across the whole project rather than just the open comp. Describe the motion you want, and it writes an expression rig with sliders using JavaScript, then breaks down what it built in a table. If an expression breaks, you can just ask it to fix it. It can also scan an inherited project with hundreds of layers, propose an organizational structure, and execute it once you approve. Every action can be undone."
+        },
+        {
+          "t": "p",
+          "x": "In a press demo, Jason Druss used a Photoshop file to build a '90s-style stop-motion collage animation. With a single prompt, he rigged expressions across six photo-frame precomps and added sliders for wiggle amount, frame rate and stack spacing."
+        }
+      ]
+    },
+    "movies/movies-astro-burn-nura-e6v": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E04-banner.png",
+          "cap": "'Astro Burn' micro-series"
+        },
+        {
+          "t": "p",
+          "x": "'Astro Burn,' the bullet-hell shooter from independent game studio Beyond the Pixels, has taken its next step as an animated micro-series. Episode 1 is available on TikTok, YouTube Shorts and Instagram. In the game, players become the space cat Astro, fighting through absurd obstacles and enemies alongside a robot companion to get home."
+        },
+        {
+          "t": "p",
+          "x": "Haz Dulull, the London-based developer, director and producer who made the game, teamed up with Nura Studio to turn 'Astro Burn' into ten one-minute vertical episodes. They were made with Nura's Showcraft platform, based in Montreal and Los Angeles, which reworked the game's characters and world for social media scrolling."
+        },
+        {
+          "t": "p",
+          "x": "Here's how Dulull put it: “Showcraft was designed for producers and creators like me who care deeply about their own IP. I wanted full control over a locked model trained only on my own assets, so that 'Astro Burn's' visual identity would stay intact all the way through.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E02_RabbitArmy.png",
+          "cap": "A scene from Episode 2, 'Rabbit Army'"
+        },
+        {
+          "t": "p",
+          "x": "Abe Schuermann, a writer and director at Nura Studio who worked closely with Dulull as showrunner and producer, developed and finished each episode in roughly one working week. That covers the script, animation, sound design, voice recording, music, cleanup and final delivery."
+        },
+        {
+          "t": "p",
+          "x": "Even the first test frames were trained only on the original character sprites, animation and artwork that Dulull provided. “When I sent notes, revisions came back in hours, sometimes faster, with the feedback reflected exactly. That kind of turnaround is rare for a showrunner.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E01_Fighting.png",
+          "cap": "A fight scene from Episode 1"
+        },
+        {
+          "t": "p",
+          "x": "The team stresses that people led the production from start to finish. Graziella LaRocca voices Astro, Elvis Deane voices AL, and Brian Wolwich plays several supporting roles in rotation. The music was written by human composers and licensed through Epidemic Sound, then edited to picture. Schuermann puts it this way: “A human voice actor brings nuance that's mostly absent in AI voices. We feel the same about the music.”"
+        },
+        {
+          "t": "p",
+          "x": "Showcraft didn't replace a traditional creative team — it let a small group, made up of one IP owner and showrunner, one writer-director, three voice actors and a licensed composer, finish a project that would normally have needed months and far more resources. Dulull, who was initially skeptical of generative AI, sums it up this way: “AI doesn't tell your story for you. That's still your job. This works because the technology supports a clear creative vision, not because you can feed it any idea and pull out any shot.”"
+        },
+        {
+          "t": "p",
+          "x": "Nura sees this adaptation as a practical model for indie game developers to expand their IP and reach new audiences. Isabelle Riva, Nura Studio's executive producer and VP of content, said “micro-series are a powerful way to get indie developers' games discovered where players are already spending their time.” The ten episodes release one per day over ten days."
+        },
+        {
+          "t": "video",
+          "yt": "0fyuxrSFfCA"
+        }
+      ]
+    },
+    "movies/movies-resolve-211-assistant-b3m": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1.jpg?id=67739364&width=1245&height=700&quality=50",
+          "cap": "DaVinci Resolve 21.1 (Image: Blackmagic Design)"
+        },
+        {
+          "t": "p",
+          "x": "Blackmagic Design released DaVinci Resolve 21.1. It brings AI assistant integration, the hottest topic in editing software right now, along with more than 100 new tools and controls. Photo support and camera formats also expanded, and a long list of changes landed for editing speed and color grading."
+        },
+        {
+          "t": "p",
+          "x": "It reads like two announcements folded into one. The first is yet another major update. Blackmagic hasn't let up on its push to make Resolve the primary choice for editors and colorists. Its push into multimedia editing continues as well, with the photo editing side gaining expanded support and new camera formats."
+        },
+        {
+          "t": "video",
+          "yt": "Wi44XLKQ3YA"
+        },
+        {
+          "t": "p",
+          "x": "The other announcement is AI assistant integration, an area that until now has mostly belonged to third-party apps and tools like Edey AI or Nice Touch."
+        },
+        {
+          "t": "p",
+          "x": "On the Media page, you can now edit text and checkboxes in list view, and search scans down into sub-bins with exact text matching. There's also a feature to change the start timecode of multiple clips at once. The Cut and Edit pages gained Inspector presets, a new comparison timeline workflow, and shortcut switching across up to 25 multicam angles. The trim editor refines with mouse drag and nudge."
+        },
+        {
+          "t": "p",
+          "x": "The Color page now reads DJI D-Gamut2 and D-Log2, GoPro Log, Leica L-Log, and Vivo's wide gamut and Vivo Log. Fusion gained Crocodove-based shape and 3D tools along with OpenPBR material shader support. In general items, it natively supports NVIDIA RTX Spark systems on Windows, and HEIC decoding gets hardware acceleration on Apple silicon. HTJ2K-compressed EXR rendering is now possible too."
+        },
+        {
+          "t": "p",
+          "x": "At the end of the release notes is a line editing suites will chew on. Python scripting has moved to the Studio edition. Blackmagic's explanation is that the Python API was being used to bolt Studio features onto the free version. The company added that it covers its engineering team's costs through Studio license sales, taking a different path from subscriptions that charge monthly and lock your work if you don't pay."
+        }
+      ]
+    },
+    "movies/movies-revize-pitchblack-d4t": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/Thunderbolts_RSP_14A-2400x0-c-default.jpg",
+          "cap": "'Thunderbolts,' worked on by Rising Sun Pictures"
+        },
+        {
+          "t": "p",
+          "x": "Today's episode of the Before and Afters podcast featured Troy Tobin of Pitch Black. He currently serves as head of research and innovation for REVIZE."
+        },
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/troy_profile_pb.jpg",
+          "cap": "Troy Tobin"
+        },
+        {
+          "t": "p",
+          "x": "REVIZE is a proprietary machine learning technology that came out of Rising Sun Pictures. Studio artists have used it on films like 'Sinners,' 'Mickey 17,' 'Thunderbolts,' 'Furiosa' and 'Thor: Love and Thunder.'"
+        },
+        {
+          "t": "p",
+          "x": "The core of this announcement is expansion. REVIZE is moving beyond Rising Sun to other studios under Pitch Black — namely FOLKS, El Ranchito and Square One."
+        },
+        {
+          "t": "p",
+          "x": "On the podcast, Tobin and Ian Failes discuss that expansion. They also cover how REVIZE was built, where it's been used, and where it's headed next."
+        },
+        {
+          "t": "p",
+          "x": "Before and Afters has covered REVIZE multiple times before, including how Rising Sun Pictures' machine learning technology was built, the face swaps and lasers in the most chaotic scene of 'Sonic the Hedgehog 3,' tweening technology, and how young Furiosa was made."
+        }
+      ]
+    },
+    "movies/movies-ccai-site-b8j": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Is a Hollywood story editor especially vulnerable to AI? What about a concept illustrator, or a sound mixer?"
+        },
+        {
+          "t": "p",
+          "x": "An ongoing project the Creators Coalition on AI (CCAI) is launching on Wednesday takes on exactly those questions. Officially called the Standards & Definitions Project, it opens with a website aimed at the industry. CCAI is a group formed nine months ago by around a dozen people, including Joseph Gordon-Levitt, Daniel Kwan, and late-night program veteran Ted Trempe. It favors keeping creation in the AI era human-led."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/kwanccai.jpg?w=2000&h=1126&crop=1",
+          "cap": "Hiro Murai and Daniel Kwan at a keynote conversation at the 2024 Film Independent Forum."
+        },
+        {
+          "t": "p",
+          "x": "The web portal starts with a glossary of roughly 180 AI-related terms, meant to put previously shifting language on common ground."
+        },
+        {
+          "t": "p",
+          "x": "An “AI Impact Visualizer” also goes live alongside it. It rates roughly 150 jobs across 11 creative areas — direction, sound, animation, screenwriting, acting, and more — on a scale from 0 (“doesn't touch that work”) to 5 (“can do the whole job”). Many of those jobs are further broken down into dozens of sub-items."
+        },
+        {
+          "t": "p",
+          "x": "More than 250 people have responded so far, but the goal is thousands. Most jobs are still marked as “recommended knowledge,” a sign that not enough data has been gathered yet."
+        },
+        {
+          "t": "p",
+          "x": "“The point of this material is to gather all the stories floating around about AI and build a factual floor,” Trempe said in an interview. “It's not the destination of what we're trying to do. It just sets up a process people can keep pace with.”"
+        },
+        {
+          "t": "p",
+          "x": "He admits the survey can't capture every case: a hairdresser who scored a 0 is still affected once a set goes virtual. Still, the founders see this as having started to translate what was once vague back-and-forth into numbers. “I hope people end up with a tool to speak more clearly instead of vague fear,” said Trempe, who produced “The AI Doc” this year."
+        },
+        {
+          "t": "p",
+          "x": "The Impact Visualizer and glossary arrive on Wednesday after two “conventions” last summer that brought together guild representatives from all 11 areas. Human-authored content, for instance, is defined as “work to which a generative AI system has not contributed expressive content,” and using a camera, instrument, editing software, or an AI system that performs purely technical functions doesn't count against that."
+        },
+        {
+          "t": "p",
+          "x": "The definitions were hashed out through back-and-forth at the conventions and aren't set in stone, Trempe says; they'll change based on member input. CCAI's signatories number in the thousands, including Judd Apatow, Ava DuVernay, Margot Robbie, and Guillermo del Toro."
+        },
+        {
+          "t": "p",
+          "x": "The founders hope the shared language will be used everywhere from guild negotiations to individual contracts. CCAI founder and the group's convener, writer-director David Goyer, said “CCAI's Standards & Definitions Project is about turning confusion into clarity, and clarity into the capacity to act.” Trempe also cited an easier path to drafting and passing state legislation as a use case."
+        },
+        {
+          "t": "p",
+          "x": "CCAI will keep refining the terms and impact assessments, with major updates each quarter. People can add their own experience to the survey page, which verifies whether they work in Hollywood. In a statement timed to the launch, Gordon-Levitt said, “To me, this is bigger than Hollywood. Artists and creators are the canary in the coal mine.” Kwan added his own line: “If we're going to fight for transparency, we have to show it ourselves first.”"
+        }
+      ]
+    },
+    "movies/movies-microdrama-ai-v9n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The vertical drama industry in its current form began in China. The duanju format spread explosively through the pandemic. When reports emerged that AI-made vertical dramas were flooding the Chinese market and production workers were worried about their jobs, it was an ominous sign for the nascent U.S. market too."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/17rep_page3.jpg?w=1920&h=1080&crop=1",
+          "cap": "Against a backdrop of circuit boards, a robotic hand holds up two vertical drama leads."
+        },
+        {
+          "t": "p",
+          "x": "Companies targeting the U.S. market are also testing whether these short AI stories work. There are apps like My Muse and Inkitt Ironblood that release only AI vertical dramas, and major players like DramaBox, DramaWave, and FlareFlow are also expanding synthetic actors and backgrounds, filling their apps with prompt-generated video."
+        },
+        {
+          "t": "p",
+          "x": "For workers around LA, that shift is directly a question of work. After traditional jobs vanished following the 2023 Hollywood strikes, vertical dramas served as a livelihood for actors and crew. Now, vertical drama workers in LA tell The Hollywood Reporter that work that was once reliable has noticeably dried up."
+        },
+        {
+          "t": "p",
+          "x": "“People who worked full-time in this business for years are going back to old jobs, back home. Actors, crew, producers alike,” said Candace Mizga, co-founder of Chera TV, a vertical drama platform that doesn't use AI, and an actor herself. “These last couple of months especially have been huge.”"
+        },
+        {
+          "t": "p",
+          "x": "The cost gap is clear. While live-action vertical drama budgets generally run $100,000 to $300,000, a convincing feature-length AI vertical drama can be made for $60,000 to $100,000, according to AI vertical drama studio Axis AI Studios. Timelines differ too: 12 weeks for live-action versus 2 weeks for AI, figures cited by Holywater Tech, which owns the all-AI app My Muse."
+        },
+        {
+          "t": "p",
+          "x": "Where a live-action shoot once required 50 people over seven days, “now five people can make an episode in seven days,” said Guy Shimoni, CEO and co-founder of Shortical, a platform that releases both live-action and AI content. He explained that the video generator Seedance 2.0, released in February, accelerated adoption. “Once Seedance 2.0 came out, everyone started using it.”"
+        },
+        {
+          "t": "p",
+          "x": "Auditions are drying up. Maddie Grove, a manager at LEWK Management, said that “by June, casting notices that once posted 15 to 20 a day had dropped to around four.” Actor Kylie Carson says vertical drama auditions that numbered 5 to 15 a week last year are down to two now."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/IMG_0694.jpg?w=2000",
+          "cap": "On an LA set, a makeup artist preps Carter Harvey, lead of CandyJar's vertical drama “Fight Dirty,” for a close-up."
+        },
+        {
+          "t": "p",
+          "x": "Consent has become an issue too. Actors told Business Insider in July that their performances and likenesses from live-action vertical dramas were used in all-AI projects without permission. Grove says she's seen four cases since June of platforms violating the AI clauses in actors' contracts."
+        },
+        {
+          "t": "p",
+          "x": "Writers aren't spared either. Tess Dinerstein sold a pirate-themed vertical drama script to DramaBox in 2025, and around the time she finished revisions in 2026, she told an executive she hoped it wouldn't be made with AI. Months later, that executive left the company, and the project came out as an AI production."
+        },
+        {
+          "t": "p",
+          "x": "In China, more than 95 percent of new vertical dramas in the first quarter of 2026 were reportedly made with AI. Whether AI vertical dramas end up as a passing spectacle in the U.S. is ultimately up to viewers. Martina Monti, an actor who has shot 40 vertical dramas, puts it this way: “Some people are more optimistic about the future — they just hope this AI bubble pops. Others, I don't know.” Right now, she added, it just isn't working well."
+        }
+      ]
     }
   }
 }

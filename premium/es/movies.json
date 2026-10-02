@@ -4741,6 +4741,295 @@
           "x": "Cuesta 61,59 dólares y ya está disponible."
         }
       ]
+    },
+    "movies/movies-adobe-ibc-genmedia-a7k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Antes del IBC 2026, Adobe lanzó actualizaciones para Premiere Pro y After Effects. Hay mucha IA metida, pero también algo útil mezclado, dijo Scott Simmons para abrir. La lista combina funciones ya lanzadas y versiones beta, desde una herramienta que genera metraje dentro de la línea de tiempo hasta un asistente de IA para After Effects que escribe expresiones por ti."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Premiere_Gen-Media-Tool-2.jpg",
+          "cap": "Marca un rango en la pista y escribe un prompt: el clip se genera ahí mismo"
+        },
+        {
+          "t": "p",
+          "x": "La herramienta de medios generativos pasa a ser oficial en Premiere esta semana en el IBC. Marca un rango en cualquier parte de la pista, describe lo que necesitas y se genera sin salir de la aplicación. La herramienta ocupa el lugar donde antes estaba la extensión generativa en la barra de herramientas, y una pulsación larga alterna entre las dos. Con el cuentagotas tomas un fotograma de referencia de la línea de tiempo o del monitor de programa, escribes el prompt y eliges un modelo. Premiere ajusta la configuración de la secuencia, así que el clip sale con la resolución y la relación de aspecto de la edición. El costo en créditos aparece en la barra de tareas antes de ejecutarlo."
+        },
+        {
+          "t": "p",
+          "x": "El modelo se elige entre Adobe Firefly, Google Veo, Kling, Runway y Luma. La misma herramienta también genera efectos de sonido en las pistas de audio. Se marca un rango y se escribe un prompt, pero también se puede grabar la propia voz para fijar el tiempo y la intensidad. El resultado vuelve en cuatro variaciones, y todas se guardan en el proyecto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-QmYst4mR-000153-generate-soundscape.jpg",
+          "cap": "Generate Soundscape se salta el prompt y solo lee el metraje para extraer cuatro pistas"
+        },
+        {
+          "t": "p",
+          "x": "A la beta se le añadieron dos funciones más. Generate Music usa el modelo Firefly Music, toma un prompt y un objetivo de BPM, y genera música de fondo libre de regalías, dejando elegir entre una estructura de intro y outro o un loop sin costuras. Generate Soundscape se salta el prompt por completo. Lee el metraje por encima del rango seleccionado y extrae cuatro pistas premezcladas —dos de ambiente, dos de efectos— ajustadas a la acción. Simmons escribió que los resultados fueron desiguales: algunas pistas eran utilizables, otras quedaron fuera de sincronía."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Premiere_Enhance-Audio.jpg",
+          "cap": "Enhance Audio separa un clip mezclado en diálogo, música, ambiente y efectos"
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas herramientas de audio con IA de la beta de Premiere apuntan al sonido defectuoso que ya está en tu proyecto. Enhance Audio separa un clip mezclado en diálogo, música, ambiente y efectos, cada uno con su propio control deslizante. Separate Sound Sources exporta esos canales a sus propias pistas físicas. Separate Crosstalk divide en dos pistas el audio donde dos hablantes quedaron grabados uno sobre el otro, y envía el resto a una tercera pista. Dynamic Auto Ducking genera fotogramas clave de ducking automáticamente, y los vuelve a generar cada vez que mueves un clip."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Adobe-Premiere-Beta-57uBmRUl-000151-HSL-masks.jpg",
+          "cap": "El modo de color incorpora nuevas máscaras HSL y de luminancia"
+        },
+        {
+          "t": "p",
+          "x": "El modo de color sigue en beta, pero le llegan funciones rápido desde su debut en el NAB. Auto Color es un punto de partida que ajusta la temperatura de color y la exposición de una sola vez, y funciona igual se aplique a un solo clip, a un grupo seleccionado o a toda la secuencia. Las máscaras HSL y de luminancia aíslan rangos concretos de tono, saturación o brillo y se aplican a los ajustes del clip. También llegaron a la beta un módulo de viñeta y uno de tonos medios."
+        },
+        {
+          "t": "p",
+          "x": "After Effects recibe un asistente de IA en beta pública. Opera sobre todo el proyecto, no solo sobre la composición abierta. Describes con palabras el movimiento que quieres, y escribe, con JavaScript, un rig de expresiones con controles deslizantes, y luego desglosa en una tabla lo que construyó. Si una expresión se rompe, basta con pedirle que la arregle. También puede revisar un proyecto heredado con cientos de capas, proponer una estructura de organización y ejecutarla una vez que la apruebas. Toda acción se puede deshacer."
+        },
+        {
+          "t": "p",
+          "x": "En una demostración para la prensa, Jason Druss usó un archivo de Photoshop para crear una animación de stop-motion tipo collage con estética de los años 90. Con un solo prompt, armó un rig de expresiones en seis precomposiciones de fotogramas fotográficos, y añadió controles deslizantes para la cantidad de oscilación, la velocidad de fotogramas y el espaciado entre capas."
+        }
+      ]
+    },
+    "movies/movies-astro-burn-nura-e6v": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E04-banner.png",
+          "cap": "Microserie 'Astro Burn'"
+        },
+        {
+          "t": "p",
+          "x": "'Astro Burn', el juego de disparos tipo bullet-hell del estudio independiente Beyond the Pixels, ha dado su siguiente paso como microserie animada. El episodio 1 ya está disponible en TikTok, YouTube Shorts e Instagram. En el juego, los jugadores se convierten en el gato espacial Astro, que lucha contra obstáculos y enemigos absurdos junto a un compañero robot para volver a casa."
+        },
+        {
+          "t": "p",
+          "x": "Haz Dulull, el desarrollador, director y productor londinense que creó el juego, se asoció con Nura Studio para convertir 'Astro Burn' en diez episodios verticales de un minuto. Se hicieron con la plataforma Showcraft de Nura, con sede en Montreal y Los Ángeles, que rediseñó los personajes y el mundo del juego para el scroll de las redes sociales."
+        },
+        {
+          "t": "p",
+          "x": "Así lo explica Dulull: “Showcraft está pensado para productores y creadores como yo, que cuidan mucho su propia propiedad intelectual. Quería tener control total sobre un modelo cerrado entrenado solo con mis propios recursos, para que la identidad visual de 'Astro Burn' se mantuviera intacta de principio a fin.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E02_RabbitArmy.png",
+          "cap": "Una escena del episodio 2, 'Rabbit Army'"
+        },
+        {
+          "t": "p",
+          "x": "Abe Schuermann, guionista y director de Nura Studio que trabajó codo a codo con Dulull como showrunner y productor, desarrolló y terminó cada episodio en aproximadamente una semana laboral. Eso incluye el guion, la animación, el diseño de sonido, la grabación de voces, la música, la limpieza y la entrega final."
+        },
+        {
+          "t": "p",
+          "x": "Incluso los primeros fotogramas de prueba se entrenaron solo con los sprites originales de los personajes, la animación y las ilustraciones que Dulull proporcionó. “Cuando enviaba notas, las revisiones volvían en horas, a veces más rápido, con el feedback reflejado con exactitud. Ese tipo de respuesta es poco habitual para un showrunner.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Astro-Burn-E01_Fighting.png",
+          "cap": "Una escena de lucha del episodio 1"
+        },
+        {
+          "t": "p",
+          "x": "El equipo insiste en que las personas dirigieron la producción de principio a fin. Graziella LaRocca pone la voz de Astro, Elvis Deane la de AL, y Brian Wolwich interpreta varios papeles secundarios por turnos. La música la escribieron compositores humanos y se licenció a través de Epidemic Sound, luego se editó sobre la imagen. Schuermann lo resume así: “Un actor de voz humano aporta matices que casi nunca están en las voces de IA. Pensamos lo mismo sobre la música.”"
+        },
+        {
+          "t": "p",
+          "x": "Showcraft no sustituyó a un equipo creativo tradicional: permitió que un grupo pequeño, formado por un propietario de la IP y showrunner, un guionista-director, tres actores de voz y un compositor con licencia, terminara un proyecto que normalmente habría necesitado meses y recursos mucho mayores. Dulull, que al principio era escéptico sobre la IA generativa, lo resume así: “La IA no cuenta tu historia por ti. Eso sigue siendo tu trabajo. Esto funciona porque la tecnología respalda una visión creativa clara, no porque puedas meter cualquier idea y sacar cualquier plano.”"
+        },
+        {
+          "t": "p",
+          "x": "Nura ve esta adaptación como un modelo práctico para que los desarrolladores de juegos indie amplíen su propiedad intelectual y lleguen a nuevas audiencias. Isabelle Riva, productora ejecutiva y vicepresidenta de contenido de Nura Studio, dijo que “las microseries son una forma poderosa de lograr que los juegos de desarrolladores indie se descubran donde los jugadores ya están pasando su tiempo”. Los diez episodios se estrenan uno por día durante diez días."
+        },
+        {
+          "t": "video",
+          "yt": "0fyuxrSFfCA"
+        }
+      ]
+    },
+    "movies/movies-resolve-211-assistant-b3m": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1.jpg?id=67739364&width=1245&height=700&quality=50",
+          "cap": "DaVinci Resolve 21.1 (Imagen: Blackmagic Design)"
+        },
+        {
+          "t": "p",
+          "x": "Blackmagic Design lanzó DaVinci Resolve 21.1. Incluye integración con un asistente de IA, el tema más candente en el software de edición en este momento, junto con más de 100 herramientas y controles nuevos. El soporte de fotos y los formatos de cámara también se ampliaron, y llegó una larga lista de ajustes para la velocidad de edición y la corrección de color."
+        },
+        {
+          "t": "p",
+          "x": "Parece como dos anuncios fundidos en uno. El primero es otra gran actualización más. Blackmagic no afloja en su empeño por convertir a Resolve en la opción principal para editores y coloristas. También continúa su expansión hacia la edición multimedia, con el lado de edición de fotos reforzado por un soporte más amplio y nuevos formatos de cámara."
+        },
+        {
+          "t": "video",
+          "yt": "Wi44XLKQ3YA"
+        },
+        {
+          "t": "p",
+          "x": "El otro anuncio es la integración con un asistente de IA, un área que hasta ahora se veía sobre todo en apps y herramientas de terceros como Edey AI o Nice Touch."
+        },
+        {
+          "t": "p",
+          "x": "En la página Media ahora se pueden editar el texto y las casillas en la vista de lista, y la búsqueda rastrea hasta los subcompartimentos con coincidencia exacta de texto. También llegó una función para cambiar el código de tiempo de inicio de varios clips a la vez. Las páginas Cut y Edit ganaron ajustes preestablecidos del inspector, un nuevo flujo de trabajo de línea de tiempo comparativa, y el cambio por atajo entre hasta 25 ángulos multicámara. El editor de recorte se ajusta con arrastre de ratón y pequeños empujones."
+        },
+        {
+          "t": "p",
+          "x": "La página Color ahora lee DJI D-Gamut2 y D-Log2, GoPro Log, Leica L-Log, y el gamut amplio y Vivo Log de Vivo. Fusion ganó herramientas de forma y 3D basadas en Crocodove junto con soporte para el shader de materiales OpenPBR. En los elementos generales, ahora hay soporte nativo para sistemas NVIDIA RTX Spark en Windows, y la decodificación HEIC recibe aceleración por hardware en Apple silicon. También es posible ahora renderizar EXR comprimido con HTJ2K."
+        },
+        {
+          "t": "p",
+          "x": "Al final de las notas de la versión hay una frase que las salas de edición masticarán. La programación en Python se trasladó a la edición Studio. La explicación de Blackmagic es que la API de Python se estaba usando para incrustar funciones de Studio en la versión gratuita. La empresa añadió que cubre los costos de su equipo de ingeniería con la venta de licencias de Studio, y que seguirá un camino distinto al de las suscripciones que cobran cada mes y bloquean el trabajo si no se paga."
+        }
+      ]
+    },
+    "movies/movies-revize-pitchblack-d4t": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/Thunderbolts_RSP_14A-2400x0-c-default.jpg",
+          "cap": "'Thunderbolts', en el que trabajó Rising Sun Pictures"
+        },
+        {
+          "t": "p",
+          "x": "El episodio de hoy del pódcast Before and Afters contó con Troy Tobin, de Pitch Black. Actualmente dirige investigación e innovación en REVIZE."
+        },
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/troy_profile_pb.jpg",
+          "cap": "Troy Tobin"
+        },
+        {
+          "t": "p",
+          "x": "REVIZE es una tecnología de aprendizaje automático propia salida de Rising Sun Pictures. Los artistas del estudio la han usado en películas como 'Sinners,' 'Mickey 17,' 'Thunderbolts,' 'Furiosa' y 'Thor: Love and Thunder.'"
+        },
+        {
+          "t": "p",
+          "x": "El núcleo de este anuncio es la expansión. REVIZE pasa de Rising Sun a otros estudios bajo Pitch Black, es decir, FOLKS, El Ranchito y Square One."
+        },
+        {
+          "t": "p",
+          "x": "En el pódcast, Tobin e Ian Failes hablan de esa expansión. También repasan cómo se construyó REVIZE, dónde se ha usado y hacia dónde va a continuación."
+        },
+        {
+          "t": "p",
+          "x": "Before and Afters ha cubierto REVIZE varias veces antes, incluyendo cómo se construyó la tecnología de aprendizaje automático de Rising Sun Pictures, los cambios de rostro y los láseres en la escena más caótica de 'Sonic the Hedgehog 3,' la tecnología de tweening, y cómo se creó la Furiosa joven."
+        }
+      ]
+    },
+    "movies/movies-ccai-site-b8j": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "¿Es un editor de historias de Hollywood especialmente vulnerable a la IA? ¿Y un ilustrador de conceptos, o un mezclador de sonido?"
+        },
+        {
+          "t": "p",
+          "x": "Un proyecto en curso que la Creators Coalition on AI (CCAI) lanza el miércoles aborda justo esas preguntas. Su nombre oficial es Standards & Definitions Project, y se abre con un sitio web dirigido a la industria. CCAI es un grupo formado hace nueve meses por una docena de personas, entre ellas Joseph Gordon-Levitt, Daniel Kwan y el veterano de programas nocturnos Ted Trempe. Su postura es que la creación en la era de la IA debe seguir liderada por personas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/kwanccai.jpg?w=2000&h=1126&crop=1",
+          "cap": "Hiro Murai y Daniel Kwan en una conversación inaugural del Film Independent Forum de 2024."
+        },
+        {
+          "t": "p",
+          "x": "El portal web empieza con un glosario de unos 180 términos relacionados con la IA, pensado para poner en un mismo lugar un lenguaje que antes variaba de un lado a otro."
+        },
+        {
+          "t": "p",
+          "x": "También se publica el “AI Impact Visualizer”. Califica unos 150 puestos en 11 áreas creativas — dirección, sonido, animación, guion, actuación y más — en una escala de 0 (“no toca ese trabajo”) a 5 (“puede hacer el trabajo completo”). Muchos puestos se desglosan además en decenas de subcategorías."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora han respondido más de 250 personas, pero la meta es llegar a miles. La mayoría de los puestos siguen marcados como “recommended knowledge”, señal de que todavía no se ha reunido suficiente información."
+        },
+        {
+          "t": "p",
+          "x": "“El propósito de este material es reunir todas las historias que circulan sobre la IA y construir una base de hechos”, dijo Trempe en una entrevista. “No es el destino final de lo que intentamos hacer. Solo establece un proceso con el que la gente pueda mantenerse al día”."
+        },
+        {
+          "t": "p",
+          "x": "Él mismo admite que la encuesta no puede abarcar todos los casos: si un set pasa a ser virtual, hasta un peluquero que obtuvo un 0 se ve afectado. Aun así, los fundadores consideran que esto ha empezado a traducir en números algo de lo que antes solo se hablaba de forma vaga. “Espero que la gente tenga una herramienta para hablar con más claridad en lugar de un miedo difuso”, dijo Trempe, quien este año produjo “The AI Doc”."
+        },
+        {
+          "t": "p",
+          "x": "El Impact Visualizer y el glosario llegan el miércoles tras dos “convenciones” el verano pasado que reunieron a representantes de gremios de las 11 áreas. El contenido de autoría humana, por ejemplo, se define como “trabajo al que un sistema de IA generativa no ha aportado contenido expresivo”, y usar una cámara, un instrumento, software de edición o un sistema de IA que cumple funciones puramente técnicas no cuenta en contra de eso."
+        },
+        {
+          "t": "p",
+          "x": "Las definiciones se pulieron a base de tira y afloja en las convenciones y no están grabadas en piedra, dice Trempe; cambiarán según los comentarios de los miembros. Los firmantes de CCAI llegan a varios miles, entre ellos Judd Apatow, Ava DuVernay, Margot Robbie y Guillermo del Toro."
+        },
+        {
+          "t": "p",
+          "x": "Los fundadores esperan que el lenguaje común se use desde las negociaciones gremiales hasta los contratos individuales. El fundador de CCAI y convocante del grupo, el escritor y director David Goyer, dijo que “el Standards & Definitions Project de CCAI busca convertir la confusión en claridad, y la claridad en capacidad de actuar”. Trempe también mencionó como uso facilitar la redacción y aprobación de leyes estatales."
+        },
+        {
+          "t": "p",
+          "x": "CCAI seguirá revisando los términos y las evaluaciones de impacto, con actualizaciones mayores cada trimestre. En la página de la encuesta se puede añadir la propia experiencia, aunque se verifica si la persona trabaja en Hollywood. En un comunicado coincidiendo con el lanzamiento, Gordon-Levitt dijo: “Para mí esto es más grande que Hollywood. Los artistas y creadores son el canario en la mina”. Kwan añadió algo más: “Si vamos a luchar por la transparencia, primero tenemos que demostrarla nosotros mismos”."
+        }
+      ]
+    },
+    "movies/movies-microdrama-ai-v9n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La industria del drama vertical, en su forma actual, comenzó en China. El formato duanju se extendió de forma explosiva durante la pandemia. Cuando surgieron reportes de que los dramas verticales hechos con IA estaban inundando el mercado chino y el personal de producción temía por sus empleos, fue una señal ominosa también para el mercado incipiente de EE. UU."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/17rep_page3.jpg?w=1920&h=1080&crop=1",
+          "cap": "Con placas de circuito de fondo, una mano robótica sostiene a los dos protagonistas de un drama vertical."
+        },
+        {
+          "t": "p",
+          "x": "Las empresas que apuntan al mercado estadounidense también están probando si estas breves historias con IA funcionan. Hay apps como My Muse e Inkitt Ironblood que solo publican dramas verticales con IA, y grandes jugadores como DramaBox, DramaWave y FlareFlow también están ampliando actores y fondos sintéticos, llenando sus apps con video generado por prompts."
+        },
+        {
+          "t": "p",
+          "x": "Para los trabajadores de la zona de Los Ángeles, ese cambio es directamente un problema de trabajo. Después de que desaparecieran los empleos tradicionales tras las huelgas de Hollywood de 2023, los dramas verticales sirvieron de sustento para actores y equipos técnicos. Ahora, trabajadores del drama vertical en Los Ángeles le dicen a The Hollywood Reporter que el trabajo que antes era confiable se ha reducido notablemente."
+        },
+        {
+          "t": "p",
+          "x": "“Gente que trabajó tiempo completo en esto durante años está volviendo a trabajos anteriores, a casa. Actores, equipo técnico, productores también”, dijo Candace Mizga, cofundadora de Chera TV, una plataforma de drama vertical que no usa IA, y actriz ella misma. “Estos últimos meses en particular han sido enormes”."
+        },
+        {
+          "t": "p",
+          "x": "La diferencia de costos es clara. Mientras los presupuestos de drama vertical en vivo generalmente rondan entre $100,000 y $300,000, un drama vertical con IA de largometraje y aspecto convincente puede hacerse por entre $60,000 y $100,000, según el estudio de drama vertical con IA Axis AI Studios. Los plazos también difieren: 12 semanas para el rodaje real frente a 2 semanas con IA, cifras citadas por Holywater Tech, propietaria de la app totalmente con IA My Muse."
+        },
+        {
+          "t": "p",
+          "x": "Donde un rodaje real exigía antes 50 personas durante siete días, “ahora cinco personas pueden hacer un episodio en siete días”, dijo Guy Shimoni, CEO y cofundador de Shortical, una plataforma que publica tanto contenido real como con IA. Explicó que el generador de video Seedance 2.0, lanzado en febrero, aceleró la adopción. “En cuanto salió Seedance 2.0, todos empezaron a usarlo”."
+        },
+        {
+          "t": "p",
+          "x": "Las audiciones se están secando. Maddie Grove, representante de LEWK Management, dijo que “para junio, los avisos de casting que antes publicaban 15 a 20 al día habían caído a unos cuatro”. La actriz Kylie Carson dice que las audiciones de drama vertical, que el año pasado eran de 5 a 15 por semana, ahora son dos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/IMG_0694.jpg?w=2000",
+          "cap": "En un set de Los Ángeles, una maquilladora prepara a Carter Harvey, protagonista del drama vertical de CandyJar “Fight Dirty”, para un primer plano."
+        },
+        {
+          "t": "p",
+          "x": "También surgió un problema de consentimiento. En julio, actores le dijeron a Business Insider que sus actuaciones y semejanza en dramas verticales reales se usaron sin permiso en proyectos totalmente con IA. Grove dice que ha visto cuatro casos desde junio de plataformas que violan las cláusulas de IA en los contratos de los actores."
+        },
+        {
+          "t": "p",
+          "x": "Los guionistas tampoco se salvan. Tess Dinerstein vendió un guion de drama vertical con temática pirata a DramaBox en 2025, y hacia cuando terminó las revisiones en 2026, le dijo a un ejecutivo que esperaba que no se hiciera con IA. Meses después, ese ejecutivo dejó la empresa, y el proyecto salió como una producción con IA."
+        },
+        {
+          "t": "p",
+          "x": "En China, se informa que más del 95 por ciento de los nuevos dramas verticales del primer trimestre de 2026 se hicieron con IA. Si los dramas verticales con IA terminan siendo un espectáculo pasajero en EE. UU. depende, en última instancia, de los espectadores. Martina Monti, actriz que ha filmado 40 dramas verticales, lo resume así: “Algunas personas son más optimistas sobre el futuro: solo esperan que esta burbuja de IA estalle. Otras, no sé”. Agregó que, por ahora, las cosas no funcionan bien."
+        }
+      ]
     }
   }
 }

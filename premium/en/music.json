@@ -5305,6 +5305,144 @@
           "x": "This extends a trend in which Sonos has been opening its devices up to multiple AI assistants and third parties. Voice control is moving from a window that takes dictated commands toward something more like a companion with its own taste."
         }
       ]
+    },
+    "music/music-chartmetric-flow-b8k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/Sung-e1788866187311.jpeg",
+          "cap": "Sung Cho, Chartmetric founder and CEO"
+        },
+        {
+          "t": "p",
+          "x": "Music data analytics company Chartmetric released Flow, an AI agent meant to expand and simplify subscribers' working tools."
+        },
+        {
+          "t": "p",
+          "x": "In the words of Chartmetric founder and CEO Sung Cho, Flow is definitely not “just another AI chatbot.” According to the company, it unpacks complex analysis and identifies how, why and where audiences respond to a given artist."
+        },
+        {
+          "t": "p",
+          "x": "It also builds weekly reports for flagship releases, drafts multi-phase marketing plans, and tracks millions of tracks across major services."
+        },
+        {
+          "t": "p",
+          "x": "“Flow is a new product built for people working in the music industry, riding on the solid data pipeline Chartmetric has built over the last 10 years,” Cho said. “It thinks through the best strategy from a music industry perspective, and cross-references your data against 14 million artists.”"
+        },
+        {
+          "t": "p",
+          "x": "Flow layers Chartmetric's own datasets and proprietary technology on top of existing AI models. It scans through trillions of data points and returns analysis and recommendations in near real time."
+        },
+        {
+          "t": "p",
+          "x": "Akash Mukherjee, Chartmetric's chief product officer, said, “We've been building Flow for two years and plan to keep refining it going forward. Flow is a member of the team. It handles tasks, sets schedules, automates things, and works as a partner thinking alongside you in the background.”"
+        },
+        {
+          "t": "p",
+          "x": "Premium subscribers at $150 a month use Flow Lite. The $180-a-month Ultra package includes the full feature set, and the standalone subscription is $60 a month. Credits run 20 a month for Premium and 100 a month for Ultra and the standalone subscription, with extras available for purchase if needed."
+        },
+        {
+          "t": "p",
+          "x": "Cho said “more than 4,000 users have used the Flow app to answer questions that used to take an entire research session.” Those include things like who an artist's audience actually is, what drove a spike or a drop, and how they stack up against peers across every platform. “The story you used to piece together by hand, bouncing between charts, filters and spreadsheets, now comes back from a single conversation, ready to save, export and act on. Moving from tracking what happened to understanding why it happened and deciding what to do next — that's the shift Flow creates.”"
+        },
+        {
+          "t": "p",
+          "x": "A seven-day trial comes with every dashboard tier. During the trial, Flow credits are capped at 10, after which the monthly allotment opens up. Chartmetric was among the first in the music data industry to open an MCP server earlier this year, and MCP access is now included in every subscription plan."
+        }
+      ]
+    },
+    "music/music-isbell-suno-x3v": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/09/2246607714-e1788285629641.jpg",
+          "cap": "Jason Isbell on the exhibit stage at the Country Music Hall of Fame, November 2025"
+        },
+        {
+          "t": "p",
+          "x": "Jason Isbell is leading a new class action lawsuit against Suno, claiming the company designed its AI music generator to call up artists' identifiable traits."
+        },
+        {
+          "t": "p",
+          "x": "Filed on Monday, August 31, and obtained by Billboard, the complaint argues that Suno embedded musicians' entire musical personas into its model as tokens, violating what's known as the right of publicity. As a result, the complaint says, a user can type in just a musician's name and get songs, descriptions and artwork that “evoke the identity of a beloved musician.”"
+        },
+        {
+          "t": "p",
+          "x": "The complaint puts it this way: “The Suno system recognizes 'Jason Isbell' as something far larger than a mere string of characters. The name functions as a search key that pulls up a bundle of performer-specific representations, and the system uses it to generate responses tied to that musician.” In other words, entering just a name brings back songs, descriptive attributes and related imagery associated with that musician all at once."
+        },
+        {
+          "t": "p",
+          "x": "As an example, the complaint cites entering Isbell's name producing an Americana song called “Paper Bell,” a result that mimicked Isbell's distinctively clear male vocals and country-style vibrato."
+        },
+        {
+          "t": "p",
+          "x": "Joining Isbell as plaintiffs are David Lowery, frontman of Camper Van Beethoven and a longtime artist rights advocate, blues singer Guy Forsyth, and jazz saxophonist Ed Calle. Their goal is to represent, as a class, every musician whose name has been accepted as a Suno prompt."
+        },
+        {
+          "t": "p",
+          "x": "Suno has said it uses filters to block prompts naming specific artists. The complaint says those filters frequently don't work, and that even when they do, they're “easily defeated” by putting spaces between the letters of a name. Entering “m i c h a e l j a c k s o n” produced a pop song called “Glovebox Moonwalk” that even came with Michael Jackson's signature white-glove imagery; “t a y l o r s w i f t” produced a Taylor Swift-style breakup song; and “b a d b u n n y” produced a Bad Bunny-style Spanish-language reggaeton track."
+        },
+        {
+          "t": "p",
+          "x": "Isbell's side alleges violations of right-of-publicity statutes in states including New York, California and Tennessee. Since that right is separate from copyright, the argument goes, an artist can bring their own claim over their name even if their label has already licensed music to Suno. Warner Music Group licensed with Suno last fall, and BMG did so last month. The suit seeks unspecified damages and argues the class of plaintiffs could run into the “millions.”"
+        },
+        {
+          "t": "p",
+          "x": "A Suno spokesperson told Billboard on September 1 that “we believe this claim is without merit and intend to defend against it.” “Suno isn't in the business of selling anyone's name — it's a place that helps people make new, original music. We stand behind the numerous safeguards we've built across the platform, including blocking prompts for specific artist names or copyrighted songs.”"
+        }
+      ]
+    },
+    "music/music-soundboost-v4-q7m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Soundboost added engine v4 to its browser mastering service. Instead of building a mastering chain from scratch, you can just write out what you want in plain language."
+        },
+        {
+          "t": "p",
+          "x": "The workflow is simple: upload your mix, describe the result you want, and compare the master Soundboost produces against the original."
+        },
+        {
+          "t": "p",
+          "x": "You might ask for something warmer or louder without crushing the dynamics. If you don't like the result, there's no need to start over — just refine it with another request."
+        },
+        {
+          "t": "p",
+          "x": "The final call is still yours. A built-in A/B comparison makes it easier to decide which master to pick."
+        },
+        {
+          "t": "p",
+          "x": "Soundboost works more like an assistant for the finishing stage. That's especially true when you need a starting point for mastering, or want to test several directions before committing to one."
+        },
+        {
+          "t": "p",
+          "x": "There are six starting profiles: Balanced, Warm, Punch, Loud, Clear and Vintage. You can also search for a reference track, tweak the final EQ by hand, compare revisions, and carry a master's seed number over to another track to match the tone across an EP or a whole album."
+        },
+        {
+          "t": "p",
+          "x": "Engine v4 is a ground-up rewrite of the processing behind the service. Soundboost says it's about 35 percent faster, mastering a 3-minute song in just over 10 seconds. Every master coming out of the platform now runs on this engine."
+        },
+        {
+          "t": "video",
+          "yt": "UDwQ8Lq3f0E"
+        },
+        {
+          "t": "p",
+          "x": "Because it runs in the browser, there's no plugin or desktop installer to deal with. The same account also works in the iOS and Android apps, so you can switch to a phone or tablet whenever that's more convenient."
+        },
+        {
+          "t": "p",
+          "x": "Free previews work without creating an account. There's also a free mode for full exports, though the current version inserts a random vocal tag into the finished file."
+        },
+        {
+          "t": "p",
+          "x": "A free stem separation feature is also available without registration. It splits a track into five parts you can adjust for level, pan, mute, solo, loop, pitch and tempo in the browser mixer."
+        },
+        {
+          "t": "p",
+          "x": "The Unlimited plan, at $16 a month or $48 a year, gives unlimited masters, WAV export, effects and 15 revisions per track. Unlimited Plus, at $24 a month or $72 a year, adds bulk mastering, unlimited revisions, extra stems and drum separation."
+        }
+      ]
     }
   }
 }

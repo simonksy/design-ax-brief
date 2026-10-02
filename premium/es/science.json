@@ -5261,6 +5261,75 @@
           "x": "También existe el riesgo de que la información a nivel de item se use para anular un benchmark. Aun así, el equipo escribió que «la transparencia sobre qué miden realmente los items de un benchmark vale ese riesgo»."
         }
       ]
+    },
+    "science/science-controversial-stimuli": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/why-scientists-are-loo.jpg",
+          "cap": "El concepto de “distorsión del componente principal” amplía este enfoque a dos o más modelos. Las dos imágenes de la derecha añaden cada distorsión a la original. Credit: Nature Reviews Neuroscience (2026). DOI: 10.1038/s41583-026-01070-0"
+        },
+        {
+          "t": "p",
+          "x": "La época en que la IA se limitaba a imitar el cerebro ha terminado. Ahora se usan modelos de IA para cuestionar cómo calcula el cerebro."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Nikolaus Kriegeskorte, del Instituto Zuckerman de la Universidad de Columbia, dirige este trabajo, que busca determinar qué modelo capta realmente los cálculos del cerebro."
+        },
+        {
+          "t": "p",
+          "x": "El artículo de revisión, escrito junto con Tal Golan y colegas de la Universidad Ben-Gurion y la Universidad de Luxemburgo, se publicó en Nature Reviews Neuroscience."
+        },
+        {
+          "t": "p",
+          "x": "Los neurocientíficos elaboran teorías computacionales para explicar cómo miles de millones de neuronas actúan juntas para producir la visión, el oído, el pensamiento, la planificación y la acción."
+        },
+        {
+          "t": "p",
+          "x": "Ya existen varios modelos que realizan tareas a nivel humano, como el reconocimiento facial. El problema era encontrar la forma de distinguir cuál resuelve la tarea como lo hace el cerebro."
+        },
+        {
+          "t": "p",
+          "x": "Cuando los modelos obtienen resultados similares en tareas estándar, no hay veredicto posible. La precisión sola no revela qué modelo refleja al cerebro."
+        },
+        {
+          "t": "p",
+          "x": "Por eso invirtieron el enfoque: usan IA para optimizar imágenes sintéticas que hacen que los modelos en competencia produzcan predicciones distintas sobre el comportamiento humano."
+        },
+        {
+          "t": "p",
+          "x": "Mostrar estos “estímulos controvertidos” a personas o animales revela qué predicciones de modelo coinciden con las respuestas reales."
+        },
+        {
+          "t": "p",
+          "x": "Un experimento de reconocimiento de dígitos lo ilustra. Crearon una imagen ambigua que un modelo leía como 3 y otro como 7, y se la mostraron a personas."
+        },
+        {
+          "t": "p",
+          "x": "Compitieron dos teorías: el reconocimiento discriminativo, que clasifica por características, y el reconocimiento generativo, que construye un modelo mental del objeto para identificarlo."
+        },
+        {
+          "t": "p",
+          "x": "El resultado respaldó la idea de que “el cómputo generativo cumple un papel importante en el reconocimiento visual”, lo que implica que el sistema visual usa ambos métodos a la vez."
+        },
+        {
+          "t": "p",
+          "x": "Incluso si ninguno de los modelos probados explica el comportamiento humano, eso también es útil: expone los puntos débiles de las teorías actuales y abre camino a nuevos modelos."
+        },
+        {
+          "t": "p",
+          "x": "Como dicen los investigadores, “algunos modelos se equivocan claramente menos que otros”. Aunque no sea perfecto, se traza una dirección."
+        },
+        {
+          "t": "p",
+          "x": "Este método no se limita a la percepción visual. Se aplica a “cualquier procesamiento sensorial, y a muchos otros procesos que realiza el cerebro”."
+        },
+        {
+          "t": "p",
+          "x": "Kriegeskorte dijo que el cómputo generativo es importante “no solo para imaginar algo, sino también para percibirlo”."
+        }
+      ]
     }
   }
 }
