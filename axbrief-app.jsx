@@ -129,8 +129,12 @@ if (!document.getElementById('ax-styles')) {
   .ax-tabs{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin:0 auto 16px;padding:0 12px;}
   /* 탭 글자는 UI의 길잡이다 — 모노스페이스 12px/600은 윈도우에서 가늘고 희미했다.
      13.5px/700으로 키우고 자간을 좁혀 덩어리로 읽히게 한다. */
-  .ax-tab{font-family:var(--font-mono);font-size:13.5px;letter-spacing:.02em;font-weight:700;cursor:pointer;
-     padding:8px 17px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
+  /* 탭은 모노스페이스였다. 맥에서는 Menlo로 단정했지만 윈도우에는 Menlo가 없어
+     Consolas/Courier New로 떨어졌고 — 다른 폰트, 더 거친 렌더링, 더 딱딱한 인상.
+     이미 불러와 둔 Pretendard로 통일한다: 한글·영문 모두 설계된 폰트라 두 OS에서
+     같게 보이고 가독성도 낫다. */
+  .ax-tab{font-family:'Pretendard',var(--font-sans);font-size:14px;letter-spacing:-0.005em;font-weight:700;
+     cursor:pointer;padding:8px 18px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
   .ax-tab:active{transform:scale(.95);}
   @media (max-width:760px){
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}
@@ -218,6 +222,8 @@ const THEMES = {
     feedShadow: '0 1px 1px rgba(60,40,30,.04), 0 14px 34px -18px rgba(120,60,40,.28)',
     /* opaque fills used on mobile so cards paint without the costly backdrop-filter */
     cardSolid: '#fbf8f3', feedSolid: '#fbf8f3',
+    /* 탭처럼 배경 없는 자리에 쓰는 불투명 보조 글자색 (t.mute의 알파 없는 짝) */
+    muteSolid: '#6d675f',
   },
   zenGlass: {
     name: 'Zen Glass · Bold',
@@ -233,6 +239,7 @@ const THEMES = {
     feedBg: 'rgba(255,255,255,0.3)', feedBorder: '1px solid rgba(255,255,255,0.8)',
     feedShadow: 'inset 0 1px 0 rgba(255,255,255,.6), 0 18px 44px -20px rgba(120,50,90,.4)',
     cardSolid: '#f8f2f5', feedSolid: '#f8f2f5',
+    muteSolid: '#6b6069',
   },
 };
 
@@ -576,6 +583,53 @@ function SiteFooter({ t }) {
   );
 }
 
+/* 구독 중인 사람에게 보여주는 상태판. 이미 산 사람에게 다시 비교표를 들이밀 이유가
+   없다 — 알고 싶은 건 "내가 언제까지, 얼마를, 어느 주소로 결제하고 있는가"다.
+   해지한 구독은 '다음 결제일'이 아니라 '이용 종료일'이다 — 같은 날짜지만 뜻이 반대라
+   라벨을 바꾼다. */
+function fmtDay(unix) {
+  if (!unix) return null;
+  try {
+    return new Intl.DateTimeFormat(window.AX_LANG_TAG,
+      { year: 'numeric', month: 'long', day: 'numeric' }).format(new Date(unix * 1000));
+  } catch { return null; }
+}
+
+function ProStatus({ me, t }) {
+  const started = fmtDay(me && me.startedAt);
+  const end = fmtDay(me && me.periodEnd);
+  const canceled = me && me.status === 'canceled';
+  const pastDue = me && me.status === 'past_due';
+  const rows = [
+    [tx('status.email'), me && me.email],
+    [tx('status.started'), started],
+    [tx(canceled ? 'status.ends' : 'status.next_charge'), end || tx('status.none')],
+  ].filter((r) => r[1]);
+  return (
+    <div style={{ marginBottom: 16 }}>
+      <div style={{ display: 'inline-flex', alignItems: 'center', gap: 6, fontSize: 12.5, fontWeight: 700,
+        color: '#fff', padding: '5px 12px', borderRadius: 999, marginBottom: 12,
+        background: 'linear-gradient(110deg,#7928ca,#0070f3)' }}>
+        ✓ {tx('pro.active')}
+      </div>
+      {(canceled || pastDue) && (
+        <p style={{ margin: '0 0 12px', fontSize: 13, lineHeight: 1.6, color: canceled ? '#8a6d3b' : '#a94442' }}>
+          {tx(canceled ? 'status.canceled_note' : 'status.past_due_note')}
+        </p>
+      )}
+      <div style={{ border: '1px solid ' + t.rule, borderRadius: 12, overflow: 'hidden' }}>
+        {rows.map((r, i) => (
+          <div key={r[0]} style={{ display: 'flex', gap: 12, padding: '11px 14px', fontSize: 14,
+            borderTop: i ? '1px solid ' + t.rule : 'none' }}>
+            <span style={{ flex: '0 0 40%', color: t.mute, fontWeight: 600 }}>{r[0]}</span>
+            <span style={{ flex: 1, color: t.hl, fontWeight: 600, wordBreak: 'break-all' }}>{r[1]}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 /* 무료/Pro 혜택 비교표 — SubscribeModal의 choose 화면, 요금제 버튼 위에 뜬다.
    Pro 열만 그라데이션 테두리로 띄워 담백한 무료 열과 대비시킨다. */
 function ProCompareTable({ t }) {
@@ -758,32 +812,35 @@ function SubscribeModal({ onClose, t, initialPhase }) {
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
         padding: 26, width: 580, maxWidth: '94vw', fontFamily: 'Pretendard, system-ui' }}>
         <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>
-          {phase === 'login' && loginFor === 'signin' ? tx('auth.login_title') : tx('paywall.modal_title')}
+          {phase === 'login' && loginFor === 'signin' ? tx('auth.login_title')
+            : phase === 'choose' && me && me.entitled ? tx('status.title')
+            : tx('paywall.modal_title')}
         </p>
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
-          {phase === 'login'
-            ? tx(loginFor === 'signin' ? 'auth.login_body' : 'paywall.login_first')
+          {phase === 'login' ? tx(loginFor === 'signin' ? 'auth.login_body' : 'paywall.login_first')
+            : phase === 'choose' && me && me.entitled ? tx('status.body')
             : tx('paywall.modal_body')}
         </p>
         {phase === 'choose' && (
-          <React.Fragment>
-            <ProCompareTable t={t} />
-            {me && me.hasSubscription ? (
-              <React.Fragment>
-                <div style={{ display: 'inline-flex', alignItems: 'center', gap: 6, fontSize: 12, fontWeight: 600,
-                  color: t.hl, background: 'rgba(0,0,0,.045)', padding: '5px 11px', borderRadius: 999, marginBottom: 10 }}>
-                  ✓ {tx('pro.active')}
-                </div>
+          me && me.entitled ? (
+            <React.Fragment>
+              <ProStatus me={me} t={t} />
+              {me.hasSubscription && <ManageLink t={t} />}
+            </React.Fragment>
+          ) : (
+            <React.Fragment>
+              <ProCompareTable t={t} />
+              {me && me.hasSubscription ? (
                 <div style={{ marginTop: 2 }}><ManageLink t={t} /></div>
-              </React.Fragment>
-            ) : (
-              <React.Fragment>
-                <Plan plan="monthly" price={planPrice('monthly')} />
-                <Plan plan="yearly" price={planPrice('yearly')} highlight
-                  discount={tx('paywall.plan_yearly_note')} />
-              </React.Fragment>
-            )}
-          </React.Fragment>
+              ) : (
+                <React.Fragment>
+                  <Plan plan="monthly" price={planPrice('monthly')} />
+                  <Plan plan="yearly" price={planPrice('yearly')} highlight
+                    discount={tx('paywall.plan_yearly_note')} />
+                </React.Fragment>
+              )}
+            </React.Fragment>
+          )
         )}
         {phase === 'login' && (
           <React.Fragment>
@@ -1696,7 +1753,7 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
             title={tx('insights.tab_title')}
             style={insightsActive
               ? { background: '#7928ca', color: '#fff', border: '1px solid #7928ca' }
-              : { background: 'rgba(121,40,202,.08)', color: '#7928ca', border: '1px solid #7928ca' }}>
+              : { background: '#f3ecfb', color: '#6a1fb0', border: '1px solid #7928ca' }}>
             {tx('insights.tab_label')}
           </button>
           <span aria-hidden style={{ alignSelf: 'center', color: t.rule, fontSize: 15, padding: '0 3px', userSelect: 'none' }}>|</span>
@@ -1709,7 +1766,10 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
           <button key={s} role="tab" aria-selected={on} className="ax-tab" onClick={() => onSelect(s)}
             style={on
               ? { background: t.hl, color: '#fff', border: '1px solid ' + t.hl }
-              : { background: 'transparent', color: t.mute, border: '1px solid ' + t.rule }}>
+              /* 불투명 배경 + 불투명 글자색. 투명 배경 위의 반투명 글자는 뒤의 흐린
+                 색 덩어리가 비쳐 번져 보였고, 크롬도 ClearType을 쓸 수 없었다. */
+              : { background: t.cardSolid || '#fbf8f3', color: t.muteSolid || t.mute,
+                  border: '1px solid ' + t.rule }}>
             {label}
           </button>
         );

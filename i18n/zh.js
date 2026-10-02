@@ -137,5 +137,14 @@ window.AX_I18N = {
  "section.empty": "该板块暂无今日资讯，稍后会更新。",
  "section.preparing": "准备中",
  "share.copied": "已复制",
- "share.copy_link": "复制链接"
+ "share.copy_link": "复制链接",
+ "status.body": "您的 Pro 订阅正在生效。",
+ "status.canceled_note": "已取消。在下列日期之前仍可正常使用。",
+ "status.email": "邮箱",
+ "status.ends": "可用至",
+ "status.next_charge": "下次扣款",
+ "status.none": "—",
+ "status.past_due_note": "扣款失败。请在订阅管理中检查您的支付方式。",
+ "status.started": "开始日期",
+ "status.title": "订阅状态"
 };

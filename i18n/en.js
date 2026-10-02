@@ -137,5 +137,14 @@ window.AX_I18N = {
  "section.empty": "This section doesn't have today's news yet. It will be filled in soon.",
  "section.preparing": "Preparing",
  "share.copied": "copied",
- "share.copy_link": "Copy link"
+ "share.copy_link": "Copy link",
+ "status.body": "Your Pro subscription is active.",
+ "status.canceled_note": "Cancelled. You keep full access until the date below.",
+ "status.email": "Email",
+ "status.ends": "Access until",
+ "status.next_charge": "Next charge",
+ "status.none": "—",
+ "status.past_due_note": "A payment failed. Please check your card in Manage subscription.",
+ "status.started": "Started",
+ "status.title": "Your subscription"
 };
