@@ -1479,6 +1479,366 @@
           "x": "The team has now started work on attaching AI models to next-generation Raman imaging equipment that uses quantum light sources. “Right now, getting one reliable signal can take up to three minutes,” Chandola said, adding that “cutting that down to around a second would let us analyze far more cells at scale.” The team is also expanding the work toward using model outputs to distinguish cancer cells from normal ones."
         }
       ]
+    },
+    "science/science-teen-ai-mental-health-surge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Whether young people use AI for mental health issues is no longer the question. Health authorities say the real issue is whether the advice they receive is sound. A recent survey found that AI chatbot mental health consultations among teens and young adults rose 60% in a year, and the researchers who led it expect the trend to continue."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/mental-health-ai.jpg",
+          "cap": "Source: Pavel Danilyuk from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "The study was led by Hao Yu, associate professor of population medicine at Harvard Medical School and the Harvard Pilgrim Health Care Institute, with 1,727 participants. While AI could fill the gap left by a shortage of mental health professionals, Yu said it is now time to examine whether the advice it gives helps or harms."
+        },
+        {
+          "t": "p",
+          "x": "Asked what the survey found, Yu said: “In a similar study last year, one in eight young people aged 12 to 21 used AI for mental health issues. This year it was nearly one in five. That means close to 20% of young people in this country are seeking mental health advice from AI — a surge within a single year.” Usage rates were higher among older teens and young women."
+        },
+        {
+          "t": "p",
+          "x": "“It may be surprising that most teens who use AI haven’t told either their parents or their doctor.” Yu said this is concerning because many AI models mix in inaccurate information and were never designed to give mental health advice in the first place. That’s why she urged parents and doctors to talk with children about their AI use — so they can notice if a child has a mental health issue, or help them tell accurate information from the misinformation scattered online."
+        },
+        {
+          "t": "p",
+          "x": "The US health care system has a severe shortage of psychiatrists, especially child psychiatrists, and only half of people who need mental health treatment actually receive it. In that gap, AI has its own advantages. “AI is patient. It’s available any time, day or night, with no appointment needed. And it’s kind — it rarely gets harsh or irritated.” That is especially true in rural or remote areas with severe workforce shortages."
+        },
+        {
+          "t": "p",
+          "x": "Quality is a separate issue. There have been cases where teens discussing mental health issues with AI led to tragedies, including suicide attempts. AI companies have promised to build in safeguards, but Yu pointed out there is no empirical evidence showing how well those promises are being kept. In this study, more than 90% of teens said the advice was useful, but whether it is truly helpful and accurate remains an empirical question still to be answered."
+        },
+        {
+          "t": "p",
+          "x": "Most AI models are designed to be friendly and agreeable in order to keep users engaged, and young people are especially drawn in by that. Yu said development of AI trained specifically for therapeutic use should be accelerated, since it could help ease the shortage of child psychiatrists. Still, it is natural to worry about the quality and safety of such models, and some policymakers, such as those in Illinois, have already acted. In the end, she said, it comes down to patient safety."
+        },
+        {
+          "t": "p",
+          "x": "A follow-up survey is also planned. Yu expects the rate to keep rising as long as AI remains part of young people’s daily lives and unmet mental health needs persist. There was one surprising finding: there was no significant difference between rural and urban areas, despite the digital divide and the far greater shortage of child psychiatrists in rural areas. If follow-up research confirms this, it could help offset the harm from workforce shortages — but only if those AI models meet the clinical standards for mental health advice."
+        }
+      ]
+    },
+    "science/science-antibody-cdr-model": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Designing an effective antibody drug is a bit like finding the right key in a warehouse full of locks. There can be millions to billions of candidates, and only a tiny fraction recognize a disease target and bind to it tightly. Researchers at Boston University have introduced an antibody-specific AI framework that sharply narrows that search."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2021/antibody.jpg",
+          "cap": "An illustration of an antibody."
+        },
+        {
+          "t": "p",
+          "x": "Most of an antibody is just scaffolding that holds the structure up. The information that determines what it recognizes and how tightly it binds is concentrated in six small loops called the complementarity-determining regions (CDRs). Dr. John Misasi explained it this way: “Think of an antibody like a screwdriver. It doesn't matter if it's long or short — what screw it fits depends on the shape of the tip. The CDR is that tip, and it decides which target the antibody recognizes.”"
+        },
+        {
+          "t": "p",
+          "x": "Instead of treating antibodies like ordinary proteins, the researchers redesigned the training process around antibody biology. They trained on more than 1.6 million naturally paired heavy- and light-chain antibody sequences, leaving the surrounding structure largely intact while deliberately masking up to half of the amino acids within the CDRs — forcing the model to repeatedly reconstruct the regions that matter most for binding."
+        },
+        {
+          "t": "p",
+          "x": "The finished model has about 600 million parameters. On a dataset of more than 90,000 engineered antibody variants targeting six antigens, it boosted binding-affinity prediction by up to 27%, matching or beating much larger antibody language models across several benchmarks — while using less computing power."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Diane Joseph-McCarthy said, “We wanted to teach AI the biology that matters most, so we could give researchers better tools to discover, optimize, and ultimately design the next generation of antibody therapeutics.” Dr. Misasi added that narrowing millions of possibilities down to a few hundred promising ones saves enormous amounts of lab time, personnel, and cost. The paper was published on August 13 in Communications AI & Computing."
+        }
+      ]
+    },
+    "science/science-amie-video-consultation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Research has extended its medical conversation AI, AMIE, to real-time video consultations. It now reads not just what patients describe in words, but what they show in front of the camera. The researchers said this is the first case of AI reaching expert-level performance in live clinical video consultations. It was published on August 11, and the write-up was authored by Google senior research scientist Anil Palepu and research lead Mike Schaekermann."
+        },
+        {
+          "t": "video",
+          "yt": "zdioahIODDM"
+        },
+        {
+          "t": "p",
+          "x": "AMIE (Video) runs a set of agents asynchronously. The Talker naturally carries the flow of conversation with the patient. The Planner runs clinical reasoning in the background, updating the differential diagnosis, while Perception reads clinically meaningful nonverbal cues from the audio and video stream. It's a structure that splits work needing an immediate response from work that needs deeper deliberation."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/AMIE_Video-1.width-1250.png",
+          "cap": "An overview of AMIE for real-time clinical video consultations, the evaluation study, and key results."
+        },
+        {
+          "t": "p",
+          "x": "The evaluation used 100 clinical scenarios spanning five body systems. It ran 300 standardized consultations, with 15 trained simulated patient actors taking part. There were three comparison arms: AMIE (Video), the text baseline AMIE (Text), and 10 primary care physicians."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/AMIE_Video-2.width-1250.png",
+          "cap": "Diagnostic accuracy, clinical rater scores, and simulated patient actor preference for AMIE and primary care physician video visit quality."
+        },
+        {
+          "t": "p",
+          "x": "In results scored by clinical raters, AMIE (Video) ran neck and neck with primary care physicians on core items like history-taking and diagnostic accuracy. It actually came out ahead on visual examination and guiding remote physical exams. Simulated patient actors clearly preferred AMIE on empathy and rapport."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/AMIE_Video-3.width-1250.png",
+          "cap": "An ablation experiment comparing the video configuration with a text-chat-only configuration, based on clinical rater scores and simulated patient actor preference."
+        },
+        {
+          "t": "p",
+          "x": "The researchers were clear about the limitations. They worked with professional actors rather than real patients, which narrowed the scope to conditions that could be reproduced through acting. Even with strong overall performance, there were cases of errors in perception and reasoning, and technical issues carried over from the Project Astra prototype stage remained."
+        },
+        {
+          "t": "p",
+          "x": "Next is validation with real patients. The plan is to broaden the range of clinical presentations covered and pair it with ongoing real-world studies at partner institutions such as Beth Israel Deaconess Medical Center and Included Health."
+        }
+      ]
+    },
+    "science/science-iceboost-glacier-volume": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Ca' Foscari University of Venice have introduced IceBoost v2.0, a machine learning model that maps the ice volume of the world's glaciers. Excluding Antarctica and Greenland, Earth's glaciers hold about 150,000 cubic kilometers of ice — enough to raise sea levels by 32.3 centimeters if it all melted."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-ai-model-reveals.jpg",
+          "cap": "IceBoost v2.0 estimates global glacier ice volume at about 150,000 cubic kilometers."
+        },
+        {
+          "t": "p",
+          "x": "The model was trained on more than 7 million field measurements of glacier thickness. It incorporated 26 physical and geometric variables, including terrain slope, ice flow velocity, and temperature. Lead researcher Niccolò Maffezzoli said the estimates match field observations up to 40% better."
+        },
+        {
+          "t": "p",
+          "x": "\"The distribution of glacier thickness is a fundamental variable for glaciology and climate models,\" said Maffezzoli, a physicist at Ca' Foscari University and a member of Italy's National Research Council Institute of Polar Sciences (CNR-ISP). To forecast how glaciers will change by 2100 and how much they'll add to sea levels, he said, you first need a fine-grained picture of their current state."
+        },
+        {
+          "t": "p",
+          "x": "\"Machine learning models open up a different path. Rather than imposing a predetermined physical description, they learn directly from the data to produce predictions,\" Maffezzoli explained."
+        },
+        {
+          "t": "p",
+          "x": "A striking case is the Geikie Plateau in eastern Greenland. IceBoost v2.0 found nearly twice the ice previously reported there, with thickness reaching 2 kilometers in places."
+        },
+        {
+          "t": "p",
+          "x": "The value comes from freshwater management. About 1.9 billion people worldwide depend on water that glaciers release. The model also points to where field observations should be prioritized going forward: the Himalaya, the Karakoram, and Patagonia's large ice fields."
+        },
+        {
+          "t": "p",
+          "x": "\"We need to move fast. We expect mid-latitude glaciers, including the Alps, to disappear within the coming decades,\" Maffezzoli said. The study was published in Scientific Data (DOI: 10.1038/s41597-026-07744-9) and is linked to the Glacier Model Intercomparison Project (GlacierMIP4). The results can be viewed directly through a web tool (https://nmaffe.github.io/iceboost_webapp/)."
+        }
+      ]
+    },
+    "science/science-openai-astra-math-attribution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Last week OpenAI announced 10 math results produced with its next-generation large language model, Astra. The claim was that it had solved long-open problems, with total token costs coming to $2,000. But as mathematicians combed through the papers, citation concerns surfaced."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/dc0903bd-2979-4f28-8e8c-2db77b24337b/AI-plagiarism.jpg",
+          "cap": "Source: Malte Mueller/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The first case is the sphere-packing problem, which deals with how to pack balls into mathematical spaces of more than 1,000 dimensions. Steven Miller of Yeshiva University believes Astra's solution reused the argument from a paper he co-authored in 2016, presenting it as if it were a new result."
+        },
+        {
+          "t": "p",
+          "x": "\"They're deliberately trampling over work by people who came before them. From where I stand, this is fully organized, and amounts to research misconduct,\" Miller said. He called it plagiarism."
+        },
+        {
+          "t": "p",
+          "x": "The second case is group theory, a result claiming there's at least one group that lacks the property of soficity. Francesco Fournier-Facio of the University of Cambridge pointed out that the key idea here already appeared in papers from 2016 and 2019. Andreas Thom of TU Dresden, a co-author of the 2019 paper, also left a comment on MathOverflow."
+        },
+        {
+          "t": "p",
+          "x": "Fournier-Facio isn't dismissing Astra's work itself. He described the result as \"creative and elementary at the same time.\" But he believes what AI is good at is fitting puzzle pieces together, not making a genuinely new intellectual leap."
+        },
+        {
+          "t": "p",
+          "x": "\"There's a giant PR machine that wants this to sound impressive, and it isn't interested in whether it's 100% accurate,\" Fournier-Facio said. OpenAI's press release stated the problems had been open for \"at least a decade\" with no progress, but critics counter that there had been research done just before this."
+        },
+        {
+          "t": "p",
+          "x": "An OpenAI spokesperson responded: \"We take responsibility for the accuracy of these results and hold ourselves to the same standards generally expected of human mathematicians. In line with standard academic practice, we plan to make minor revisions to the paper this week.\""
+        },
+        {
+          "t": "p",
+          "x": "The issue doesn't end with the plagiarism dispute alone. \"OpenAI is now fully participating in top-tier research. If so, it should be held to the same academic standards as the rest of us,\" Fournier-Facio said. It's a demand that as AI takes a seat as a researcher, it should keep to the same norms of citation and sourcing. The article was written by Joseph Howlett and edited by Lee Billings."
+        }
+      ]
+    },
+    "science/science-ai-mathematics-human": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mathematicians tend to be cautious about new things. Even researchers armed with computers took years to transform the field as a whole. Now artificial intelligence, large language models in particular, is seeping into how mathematics gets done. Scientific American's Manon Bischoff met Yang-Hui He, a mathematician and physicist at the London Institute for Mathematical Sciences."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg",
+          "cap": "A 3D illustration of a human head formed from geometric shapes. Source: Andriy Onufriyenko/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "He spent a long time working on string theory. The turn came in 2017. Instead of quantum gravity or the nature of time, everyone suddenly started talking about machine learning, and his own students began seeking machine learning jobs instead of positions in finance or academia. His son, born that year, wouldn't sleep, so He stayed up with him every night learning machine learning through online courses. Mathematica had just released a neural network framework, which was enough to start experimenting."
+        },
+        {
+          "t": "p",
+          "x": "He applied that simple neural network to data on Calabi-Yau manifolds, the high-dimensional geometric objects at the heart of string theory. The experiment was meant to test whether it could recognize topological properties, and he didn't expect much. The network predicted certain properties with considerable accuracy. A machine that knew nothing about geometry or topology had learned a deep mathematical structure."
+        },
+        {
+          "t": "p",
+          "x": "After the paper came out, several groups picked up similar ideas. He himself drifted away from string theory. Once he stripped away the physical motivation, he found himself using machines to explore the structure of mathematics itself."
+        },
+        {
+          "t": "p",
+          "x": "Convincing physicists was easy. CERN had been using machine learning since at least the 1990s. Mathematicians were far more skeptical. 'For the past eight years I've felt like a traveling salesman,' he said. 'I'd move from field to field asking, do you have data, and shall we look together for hidden structure in it?' Since then he has worked with researchers in representation theory, algebraic geometry, number theory, combinatorics and differential geometry."
+        },
+        {
+          "t": "p",
+          "x": "The most interesting effect of AI, He says, is a new shared language. Researchers in analytic number theory and experts in partial differential equations work in closely related fields yet speak different languages. But once they start talking about data, patterns and learning, a common ground suddenly appears. 'In that sense, AI strangely makes mathematics more human,' he said. 'It gets people talking to each other again.'"
+        },
+        {
+          "t": "p",
+          "x": "Pattern recognition and hypothesis generation were stage one. The next question is whether AI is actually useful for solving important unsolved problems. The evidence comes from FrontierMath, a project that creates new unsolved, difficult problems and solutions to measure AI capability. In the summer of 2025, He took part in tier 4, locked in a room with 30 mathematicians for several days to create problems. No one could leave so that conversations wouldn't leak onto the internet, and everyone signed non-disclosure agreements. AI cracked around 10% of the problem set within a month. Tier 5, which deals with meaningful unsolved problems, is now underway."
+        },
+        {
+          "t": "p",
+          "x": "Asked what's left for humans if AI takes over the research, he said he isn't worried. He doesn't need to be the one proving a theorem; he just wants to know the answer. Interpretation, context and judgment remain human work. He compared it to Bach's music: you don't have to have composed it yourself to be moved listening to it all day, and mathematics can work the same way. You could even think of AI as the ultimate mathematics library. A colleague once asked a question about the Monster group so technical that even experts couldn't answer it right away, and a language model found the answer buried deep in an old paper's theorem. 'Even after people forget, AI will remember your research.'"
+        }
+      ]
+    },
+    "science/science-cerebellum-memtransistor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new AI chip mimics the instinctive motor responses of the human brain. Modeled on the cerebellum, which handles balance and fine muscle control, it's designed to let familiar information pass through and react only to unexpected events. In simulations using electrocardiogram (ECG) data, the device caught arrhythmias with 98% accuracy within one-fifth of a heartbeat. The research was published in Nature Communications on July 10."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Q4rT8bEMhs2NS232EpvYBC-2000-80.png",
+          "cap": "An illustration of a brain placed over an electronic circuit. The new chip works in a way similar to the human brain."
+        },
+        {
+          "t": "p",
+          "x": "It could open a path toward low-power AI that notices and responds to anomalies without relying on the massive computation of data centers. The range of applications spans always-on health monitors to self-driving cars and robots. Computer architectures modeled on the human brain are called neuromorphic computing."
+        },
+        {
+          "t": "p",
+          "x": "The brain's biological circuits don't process all incoming information with equal intensity. They prioritize important signals, filter out background noise and conserve energy. Neuromorphic research has generally targeted the cerebrum, the seat of thought. This research team chose the cerebellum instead."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yPvYa5rP7TLZARfA5UsYEi.jpg",
+          "cap": "A map of the human brain, including the cerebellum."
+        },
+        {
+          "t": "p",
+          "x": "In the cerebellum's neural circuits, competing excitatory and inhibitory signals maintain a balance. When something unexpected happens, that balance tips, telling the brain a response is needed. Co-author Mark Hersam, a professor of materials science and engineering at Northwestern University, says the cerebellum is an untapped candidate for neuromorphic AI. 'The cerebellum conserves its resources to ignore what's expected and respond to what's unexpected. That approach ultimately leads to lower energy consumption.'"
+        },
+        {
+          "t": "p",
+          "x": "Today's AI excels at pattern recognition but burns enormous amounts of computation constantly analyzing data streams. Hardware holds it back too: because memory and computation are handled by separate components, shuttling data between them creates a delay known as the von Neumann bottleneck. This device eliminates that back-and-forth by combining memory and computation into a single component called a memtransistor. It's built from atomically thin molybdenum disulfide semiconductor, with an asymmetric structure where only one electrode contacts the semiconductor directly, so reversing the voltage direction switches it between excitatory and inhibitory modes."
+        },
+        {
+          "t": "p",
+          "x": "The device was designed to serve as the core of the output layer in a larger spiking neural network. The researchers measured the pulse response of a single memtransistor and used the results to simulate a network that distinguishes normal ECGs from arrhythmias. Feeding the same ECG data into both the cerebellum-inspired network and a standard transformer model and comparing detection speed and efficiency, the cerebellum-inspired version was more than twice as fast and used roughly 1/10,000th the computation."
+        },
+        {
+          "t": "p",
+          "x": "Hersam said real-world performance depends on the device's speed and size, but that it leads to faster, more energy-efficient hardware. 'We haven't scaled it up to the level of commercial silicon chips, but in principle, 2D materials and memtransistors can be scaled to comparable sizes and operating speeds.' He added that it's especially well suited to settings like edge computing, where fast inference is needed with minimal power."
+        },
+        {
+          "t": "p",
+          "x": "The bigger point is that this could shake up AI's reliance on data centers. The International Energy Agency projects global data center electricity demand will reach about 945 terawatt-hours by 2030, slightly more than Japan's total electricity consumption, with AI as the main driver. Hersam said, 'Our approach promises lower energy consumption by reducing the total amount of computation needed. It's not an incremental performance improvement but a fundamentally different way of doing anomaly detection.' The next step is to mimic the cerebellum's adaptive ability to stop treating a repeated event as special after encountering it multiple times."
+        }
+      ]
+    },
+    "science/science-earlydetect-solar-emergence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Long before a dark sunspot appears on the Sun's surface, active regions, the sites where powerful solar eruptions begin, quietly leak signs of their formation. Researchers at the New Jersey Institute of Technology (NJIT) say they've built an AI model that reads those early signals to forecast the emergence of active regions nearly nine hours ahead, on average."
+        },
+        {
+          "t": "p",
+          "x": "In a paper published in the Journal of Geophysical Research: Machine Learning and Computation, the researchers report that a model called EarlyDetect picks up precursors of active region emergence in the Sun's acoustic activity and magnetic field. The corresponding author is Jonas Tirona, an undergraduate researcher at NJIT. Researchers from NJIT, Princeton University and NASA's Ames Research Center worked together using data from NASA's Solar Dynamics Observatory (SDO)."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/solar-eruptions.jpg",
+          "cap": "Source: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "'The most valuable thing this study shows is that machine learning can predict in advance when solar active regions will appear,' said Tirona, a computer science major entering his senior year. 'With that early warning, satellite communication companies or power grid operators can prepare and reduce the damage from solar storms.'"
+        },
+        {
+          "t": "p",
+          "x": "Active regions, the magnetically strong areas where sunspots form, emerge over the course of several hours. As the magnetic field rises to the surface, it leaves a faint trace in sound waves, a mark that helioseismology, the study of the Sun's oscillations, can pick up. EarlyDetect reads hourly maps of acoustic power and magnetic field measurements from SDO."
+        },
+        {
+          "t": "p",
+          "x": "'The hardest part is that active regions start growing beneath the Sun's visible surface, where the magnetic structure can't be observed directly,' explained Alexander Kosovichev, distinguished professor of physics at NJIT and project co-lead. 'It's a bit like noticing a slightly off beat inside an extremely noisy orchestra.'"
+        },
+        {
+          "t": "p",
+          "x": "The model's backbone is a transformer, the same architecture used by large language models like ChatGPT. Tirona, who joined the team last year, and the rest of the team found something unexpected: filtering added to highlight important patterns was actually ruining the forecasts. Kosovichev said that was the biggest surprise. 'We expected it to isolate useful short-term patterns, but instead it averaged away the faint fluctuations that gave the earliest warnings.' Tirona said, 'The signal the filter stripped out turned out to be really important for predicting when an active region would emerge.'"
+        },
+        {
+          "t": "p",
+          "x": "After training on SDO/HMI observations, the team tested the model on active regions it had never seen before. The best-performing version caught precursors an average of 9.24 hours before the active region became visible, outperforming both a standard transformer model and existing benchmark methods. Mengjia Xu, project lead and assistant professor of data science at NJIT, said the study shows that advanced machine learning models open new possibilities for space weather forecasting. The team also released a public dataset called SolARED."
+        },
+        {
+          "t": "p",
+          "x": "That said, it's not yet ready for real-time forecasting. Because it was trained on known emergence events, it still produces false alarms and sometimes predicts late. A warning that an active region is emerging also doesn't predict a flare or coronal mass ejection. Tirona said, 'It would be really cool if models like this could one day help predict space weather. We're not there yet, but it's an exciting step.'"
+        }
+      ]
+    },
+    "science/science-language-free-reasoning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Some people find that saying a hard problem out loud helps them think it through. But cognitive neuroscientists at MIT's McGovern Institute for Brain Research believe language itself isn't necessary for logical reasoning. In a study published in PNAS, a team led by Evelina Fedorenko, an associate professor of brain and cognitive sciences at MIT, confirmed that even people whose language abilities are severely impaired can solve logical reasoning problems. Brain imaging also showed that language-processing regions weren't recruited for logical reasoning."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/functional-brain-scan-neurotypical-participant.webp",
+          "cap": "A functional brain scan of a neurotypical participant. Activity for logic (green) and language (red/yellow) is clearly separated. Source: Hope Kean, MIT"
+        },
+        {
+          "t": "p",
+          "x": "Philosophers, linguists and cognitive scientists have argued for thousands of years over whether language is essential to thought. Many have viewed language as the tool of thinking. Hope Kean, a postdoctoral researcher in Fedorenko's lab, says there's good reason for that view. 'Abstract thought shares a lot of properties with language. You can break thoughts into small atoms, logical propositions, and combine them hierarchically to build more complex rules.' Still, the two suspected that the brain separates the communication of reasoning from reasoning itself. Logical reasoning demands a precision that everyday language doesn't offer, and unlike language, which flows linearly word by word, the path to a conclusion is less linear."
+        },
+        {
+          "t": "p",
+          "x": "Verification was tricky, since explaining the task to participants and getting their answers both depend on language. Fedorenko's team partnered with Rosemary Varley's team at University College London, which studies acquired language impairment. The subjects were two people whose language regions were damaged by stroke, leaving them with severe difficulty understanding and producing speech. To bypass language, the researchers built logic games using numbers and visual patterns: a task of finding the hidden rule that reverses one list of numbers into another and applying it to new examples, and a task of choosing which geometric pattern correctly completes a matrix."
+        },
+        {
+          "t": "p",
+          "x": "The result held even as the puzzles got harder. Participants with severe language impairment solved them as well as the control group, and even conveyed the rules they'd discovered through gestures or drawings. Kean said the result 'directly overturns the theory that symbolic rule induction is impossible without language ability.'"
+        },
+        {
+          "t": "p",
+          "x": "The team also examined the brains of healthy adults. Participants underwent multiple MRI sessions at MIT, performing logic games, tasks that mapped each person's own language-processing regions, and tasks that mapped the 'multiple demand network' that supports complex problem-solving. They also solved syllogisms like, 'If a ball is red, then it is big. The ball is red. Is the ball big?' The scans were unambiguous: the language system didn't switch on either for induction, finding hidden rules, or for deduction, assessing the validity of syllogisms. The surprise was the multiple demand network, which activated for induction but didn't participate in deduction."
+        },
+        {
+          "t": "p",
+          "x": "The two researchers read this as evidence that language and logic rest on separate systems in the brain. Professionals who work with people with aphasia have long known that losing language isn't losing intelligence. Fedorenko said, 'A growing body of research shows that abstract logical thinking is preserved even with severe aphasia,' stressing that language difficulty says nothing about a person's intelligence or ability."
+        },
+        {
+          "t": "p",
+          "x": "There are implications for artificial intelligence too. Large language models like ChatGPT and Claude are trained entirely on text and produce text, yet plausibly mimic human reasoning. The human brain works differently. Kean believes that examining how human reasoning diverges from the way language models operate can offer clues for future AI design."
+        }
+      ]
     }
   }
 }

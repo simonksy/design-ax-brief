@@ -1171,6 +1171,469 @@
           "x": "The Korean Publishers Society has proposed policy for a sustainable future for Korean publishing, and has led field-focused initiatives such as Asian Publishers Week and the Seoul Book Institute (SBI)."
         }
       ]
+    },
+    "books/books-aries-chronoshub-submission": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an interview posted by Alice Meadows on August 11, 2026. Jennifer Fleet of Aries Systems and Kristian Grubar of ChronosHub answered together. There is one question: how far has the submission experience authors now expect come, and why has publishing failed to keep up?"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2195190890-1024x683.jpg",
+          "cap": "An author working at a computer"
+        },
+        {
+          "t": "p",
+          "x": "Fleet pointed out that the submission process is unclear from the very first screen. Because authors often only discover formatting requirements well into the process, many say a single submission can take more than a day. She also questioned whether all that information needs to be collected upfront in the first place."
+        },
+        {
+          "t": "p",
+          "x": "Grubar put more weight on the lack of guidance. Researchers don’t get the information they need at the moment they need it. For people used to software at the level of Spotify or Amazon, publishing systems make them manually fill in fields that could be pulled automatically from ORCID or ROR. There’s no reason researchers who don’t lower their expectations for commercial software should lower them only for scholarly publishing, he said."
+        },
+        {
+          "t": "p",
+          "x": "What the two companies built together through this partnership is the “Enhanced Researcher Experience.” It brings journal recommendations, manuscript tracking, and real-time status checks into Editorial Manager, and gathers scattered guidelines and requirements into one place. Rather than building from scratch, Aries partnered with ChronosHub, which already served IEEE and ACS. Early-adopter sign-ups are open, and full release is set for late in the third quarter of 2026. Next up is pre-submission, which checks scope and grammar before editorial review."
+        },
+        {
+          "t": "p",
+          "x": "What the two of them read in early customers’ reactions was relief. Adding a layer on top of the platform they already used, rather than ripping it out, worked. As Grubar put it, that’s because a publisher’s day revolves around Editorial Manager. Fleet said she also learned that assumptions made during development don’t always match real-world use."
+        },
+        {
+          "t": "p",
+          "x": "The core point comes at the end. Grubar said PDFs are on the way out, and that publishers need to capture manuscripts as complete data if they want to use them for AI training. Fleet said content going forward needs to reach not just readers, but the AI reading it as well. “A flat PDF doesn’t serve that purpose.” The more consistently each journal gathers information in the same way, the more room there is to use AI and automated matching. That matters even more as the volume of manuscripts that don’t fit paper-mill submissions keeps growing."
+        },
+        {
+          "t": "p",
+          "x": "A comment raised concerns that standardization erases differences between fields. Fleet replied that configuration flexibility stays in place, while the data itself is aligned strategically."
+        }
+      ]
+    },
+    "books/books-iflytek-ainote2-roadmap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an article by Michael Kozlowski, editor-in-chief of Good e-Reader, published on August 7, 2026. The iFlytek AINOTE 2 is an ultra-thin E-Ink paper tablet with a large language model built in. It holds a Guinness World Record for thinness, and targets office workers and students who need high-level meeting transcription, automatic note organization, and document handling. The company has released its 2026 software roadmap."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/08/07005653/7-1x.webp",
+          "cap": "iFlytek AINOTE 2"
+        },
+        {
+          "t": "p",
+          "x": "The widest-reaching changes are to handwriting and writing. Pen thickness now adjusts seamlessly across notes, PDFs, e-books, and office documents. The toolbar collapses into a floating widget that keeps only pen, text, and recording, and can be moved along the edge of the screen. The tab bar can switch between the top and bottom of the screen. PDFs can now be inserted directly into a note in use, up to 50MB and 50 pages, and the file must not be password-protected. Handwriting tools still work fully on inserted PDFs. Pages can be selected across multiple sheets to cut, paste, hide, or delete. Bookmarks are split into titles, to-dos, and stars, letting users jump to that spot at once."
+        },
+        {
+          "t": "p",
+          "x": "Recording and summarization were also reworked. By default, recording continues even when the Folio cover is closed. Users can delete just the audio file to save space while keeping the transcript in the body text. AI templates for meetings, lectures, videos, and personal notes have increased, and the range of translation language options has widened. TXT has been added to sharing and export, and both MP3 and TXT now support full offline export."
+        },
+        {
+          "t": "p",
+          "x": "The notable part is how it keeps AI open-ended. AINOTE 2 works as an input hub, handing off notes, ideas, and documents to external AI environments like Codex for deeper processing. Users can also plug in their own LLM API key to build automations tailored to their own work. Other additions include handwriting over screenshots, an AI assistant on the home screen, a schedule widget on the lock screen, reading modes split into general, custom settings, and classic literature, reusable typesetting templates saved per book, a Japanese user manual, and customizable functions for the top physical button."
+        },
+        {
+          "t": "p",
+          "x": "The company is also recruiting beta testers. Among participants who complete the feedback form in full, one will receive $50 and ten will receive $10 gift cards."
+        }
+      ]
+    },
+    "books/books-library-avoiding-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Book Riot's librarian newsletter “Check Your Shelf.” Compiled by Katie McLain Horner on August 11, 2026. It's a roundup of links for librarians to keep on hand, and the item at the top of this edition is library programs for users who want to avoid AI."
+        },
+        {
+          "t": "img",
+          "src": "https://s2982.pcdn.co/wp-content/uploads/2026/07/library-computer.jpg.optimal.jpg",
+          "cap": "Computers in a library reading room"
+        },
+        {
+          "t": "p",
+          "x": "Starting with library news, “AI-avoidance” workshops aimed at people fed up with Big Tech have spread by word of mouth. In Indiana, frontline librarians are being trained on how to respond to patrons in mental health crises. A public school librarian in Massachusetts stepped down, protesting a decline in reading for pleasure among students. The Los Angeles Central Library marked its 100th anniversary, with the world's largest pop-up book also on display."
+        },
+        {
+          "t": "p",
+          "x": "Publishing links continue. Anthropic's $1.5 billion settlement received final approval from the judge. Sarah Wynn-Williams' lawsuit against Meta is being read as a test of publishing's power to stand up to Big Tech. AI companies are buying up old books in bulk, reasoning that they haven't been mixed with “AI slop.” Predictions that AI would sweep away jobs are also proving off the mark as hiring at large companies revives. Katie Porter has pivoted from politics to being a book influencer."
+        },
+        {
+          "t": "p",
+          "x": "People and books news includes PEN America president Dinaw Mengestu's resignation, and the death of Japanese mystery writer Keigo Higashino at 68. Matthew Haig is opening a bookstore in Brighton. On the numbers side: print sales of all editions of The Odyssey are up 76% since the start of the year, a look at why fewer Americans are reading for leisure, and a survey finding that readers score higher on well-being than non-readers. The back section is filled with romance, mystery, and sci-fi recommendation lists."
+        }
+      ]
+    },
+    "books/books-spotify-audiobook-discovery": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an article by Ed Nawotka in Publishers Weekly, published on August 11, 2026. Spotify said it is testing three AI tools for audiobooks: a service that builds an audiobook playlist from a single prompt, a search that answers natural-language questions by searching across every format on Spotify, and a system that tracks book series more closely."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130829-1.PNG",
+          "cap": "An image from the article covering Spotify's new audiobook features"
+        },
+        {
+          "t": "p",
+          "x": "Prompt playlists are a feature that appeared first in music before moving to podcasts. When a listener writes a request, it builds a list by looking at both listening history and literary trends together. Requests can include things like books recently adapted into a drama or movie, or books that finish in 15 hours or less. It launched as a usage-limited beta for Premium subscribers in the US, Canada, the UK, Ireland, Australia, New Zealand, and Sweden."
+        },
+        {
+          "t": "p",
+          "x": "Natural-language search takes a question, whether typed or spoken, and finds an answer across music, podcasts, and audiobooks. Spotify gave examples like “What Scandinavian noir should I listen to before a trip to Sweden” or “Where does the Cyclops first appear in The Odyssey.” It works only in English and is limited to Premium subscribers 18 and older in the US, Ireland, and Sweden. It's still not clear exactly how the feature works, or what copyright basis the book-related answers rest on."
+        },
+        {
+          "t": "p",
+          "x": "The series feature is meant to help listeners “keep track of the story from book to book.” Books that belong to a multi-book saga get a marker inside the app, and it shows reading order by factoring in where prequels and novellas fit relative to the main series. Finishing one book automatically prompts the next. An author's page shows every series that author has published. It's already live in the US, Canada, the UK, Ireland, Australia, New Zealand, and Sweden."
+        },
+        {
+          "t": "p",
+          "x": "James Jacoby, senior director of engineering and insights for Spotify's audiobooks division, said “books are one of the most powerful ways people spend time on Spotify.” He added that the new features are “reducing the friction between a listener and a book they'd love.”"
+        }
+      ]
+    },
+    "books/books-stm-ai-against-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is an article by Melina Spanudi in The Bookseller, published on August 11, 2026. Caroline Sutton, chief executive of the International Association of Scientific, Technical and Medical Publishers (STM), said automated screening and human oversight should both be used when reviewing research submissions suspected of manipulation."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
+          "cap": "Image accompanying the article (© Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "What Sutton warned against is academic publishing getting trapped in an “AI-versus-AI war.” As AI-fabricated submissions grow and the side filtering them also leans on AI, the situation could be reduced to a standoff between machines alone."
+        },
+        {
+          "t": "p",
+          "x": "So Sutton's argument is to treat automated integrity checks as a pairing with editorial judgment, not a substitute for it. No matter how densely the filtering tools are laid down, there still needs to be a human looking at the end of the line."
+        }
+      ]
+    },
+    "books/books-cognitive-debt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In Part 1, Ashutosh Gidiyal introduces a cognitive accountability framework that separates cognition AI is getting increasingly good at from cognition humans must hold onto. Whether to read a manuscript before or after an AI summary, whether to form a judgment first or receive an AI interpretation first. Each choice looks trivial, but it accumulates across thousands of manuscript, review, and editorial decisions. In scholarly publishing, the central AI risk is not hallucination but cognitive debt — the gradual erosion of the human capacities that give scholarship originality, integrity, and meaning."
+        },
+        {
+          "t": "p",
+          "x": "Cognitive coherence stands when discovery weighs ideas against evidence, judgment weighs how much that evidence matters, and intellect guides this process into a consistent conclusion. Mechanical cognition generates possibilities; non-mechanical cognition supplies the context, meaning, and purpose that decide which possibilities to trust and act on."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig_3_Cognitive_Debt_Curve_300_DPI-copy-1024x683.jpg",
+          "cap": "Figure 1. The cognitive debt curve. As AI dependence replaces non-mechanical cognition, independent thinking declines and cognitive debt accumulates past a tipping point."
+        },
+        {
+          "t": "p",
+          "x": "Like technical debt in software, cognitive debt offers an immediate gain in efficiency. The cost comes later. Non-mechanical cognition does not accumulate like knowledge — it grows only through use. Discovery matures by repeatedly confronting evidence, and judgment grows by separating what seems plausible from what truly matters. Left unused, it goes dormant like a muscle. This is especially painful for early-career researchers and graduate students whose judgment is still forming."
+        },
+        {
+          "t": "p",
+          "x": "None of this means AI should go unused. When AI takes on mechanical cognition, people gain room to invest more deeply in discovery, judgment, and decision-making. An editor who once spent hours cross-checking references can redirect that time toward assessing originality and importance. A reviewer who evaluates a manuscript independently and uses AI only to polish the report's sentences keeps ownership of the judgment. Cognitive debt is not an inevitable result of AI, but a result of misallocation."
+        },
+        {
+          "t": "p",
+          "x": "At the publisher level, the task shifts to organizational governance. Bottlenecks such as repeated coordination, fragmented workflows, inconsistent procedures, and knowledge concentrated in a few people are mechanical problems that AI handles well. But automation only scales existing practices, while organizational learning changes the practices themselves. The question shifts from “what does the data show” to “what does it mean.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig-4_Adaptive_Publisher_Feedback_Loop_300_DPI_Update-copy-683x1024.jpg",
+          "cap": "Figure 2. The adaptive publisher's feedback loop. Human judgment identifies organizational problems, AI clears mechanical bottlenecks while gathering organizational knowledge, and editorial leadership turns those insights into policy, learning, and practical improvements."
+        },
+        {
+          "t": "p",
+          "x": "Say, for example, that papers flagged by AI for complex methodology get desk-rejected at an unusually high rate. AI can surface the pattern, but editorial leadership decides whether it reflects an unintended bias, a valid standard, or a signal to change policy. The most adaptive publishers are not the ones that automate the most workflow, but the ones that deliberately keep AI's mechanical cognition tied to human judgment, discernment, and governance."
+        },
+        {
+          "t": "p",
+          "x": "As mechanical cognition becomes common, what grows scarce is not the capacity to process information but the human capacity to turn knowledge into understanding. Scholarly publishing, where knowledge is evaluated, refined, and certified, is where this distinction will show up first. What lies ahead will be decided not by how capable artificial thinking becomes, but by how deliberately we protect cognitive coherence."
+        }
+      ]
+    },
+    "books/books-editor-ai-clause": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Freelance editor Mary Kole took on two AI-written novels back to back earlier this year. No one asked her, and the clients never said they had used a chatbot. Both manuscripts looked polished at a glance. The further she read, the clearer it became that she was doing something different from her usual editing."
+        },
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2026/08/kole_editing_AI-blogpost-1000x667.png",
+          "cap": "Illustration imagining the code behind an LLM as glass blocks of word lists. Photo: Google DeepMind"
+        },
+        {
+          "t": "p",
+          "x": "Instead of discussing edits with a person, Kole found herself hunting for humanity in AI-generated text. She rebuilt emotional arcs, deepened characters, cut passages that overstated the theme, and reshaped a voice that read like a statistically plausible average character back into a single voice. She was effectively making hundreds of creative judgment calls that belonged to the original writer, for the same pay."
+        },
+        {
+          "t": "p",
+          "x": "Josh Bernoff, who published AI guidelines for ghostwriters and editors, reaches the same diagnosis. “AI-generated manuscripts are clean, grammatically correct, and read smoothly. They're also soulless. A good editor fixes a text's problems so the author's voice and ideas come through. But here, there's no author's voice.” He sees editing AI text as sitting somewhere between ghostwriting and ordinary editing, and charges a 50% surcharge for it. His reasoning: to claim copyright, every AI-written sentence has to be rewritten without leaving a single word unchanged, which costs at least 50% more work."
+        },
+        {
+          "t": "p",
+          "x": "Kole's concern isn't whether AI was used, but whether that fact is disclosed up front. Disclosure isn't about catching who cheated — it's about defining the scope of work accurately. Detection tools aren't foolproof either. Even Derek Newton, who built the detection service Verify My Writing, says, “AI detection can tell you whether a robot drew the picture, but it can't tell you whether the picture is good.”"
+        },
+        {
+          "t": "p",
+          "x": "The new clause she added isn't a moral statement but a definition of work scope. It defines what counts as AI-generated content, requires clients to disclose whether and how much they used it, and gives the company the right to run up to 1,500 words through a detection tool. For manuscripts that involve AI, she charges an extra 50% of the editing fee and disclaims responsibility for factual errors and copyright-registration eligibility. If the AI share turns out to be larger than disclosed, she stops work to renegotiate scope, schedule, and price — or ends the contract."
+        },
+        {
+          "t": "p",
+          "x": "Kole hasn't actually had to invoke the clause yet. She knows she will soon. The value of editing was never about catching awkward grammar. It was always about recognizing a real human voice and helping more of it come through."
+        }
+      ]
+    },
+    "books/books-villanova-bot-or-not": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is a roundup ALLi news editor Dan Holloway wrote on August 13. Just a week earlier, he had covered Tuhin Chakrabarti's study, which looked at more than 14,000 self-published titles. That study found that AI puts commercial pressure on indie authors, even as books with traces of AI sold less than books written by humans."
+        },
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-13.jpg",
+          "cap": "Image accompanying the news that AI-written stories scored higher with readers"
+        },
+        {
+          "t": "p",
+          "x": "This week's study carries more weight. The title the Villanova researchers gave it lays out the hypothesis directly: “Bot or Not: Can People Distinguish Between Human- and AI System-Written Stories.”"
+        },
+        {
+          "t": "p",
+          "x": "The experiment ran in two tracks. In one, roughly 1,600 readers read a single short story and had to guess whether a human or an AI wrote it. In the other two, 900 readers read two short stories each and were asked about the source of each."
+        },
+        {
+          "t": "p",
+          "x": "The first result is what you'd expect. People did no better than chance at telling the two apart. But a different detail made headlines. When participants rated their own expertise in literature and in AI, those who rated their AI expertise highly distinguished better than chance, while those who rated their literary expertise highly did not. There is clearly a detectable difference, yet the very people embedded in the creative world struggle to find it."
+        },
+        {
+          "t": "p",
+          "x": "Layering in the scores participants gave makes the picture darker still. Without knowing which was which, readers rated the AI-written stories higher. As for why, much of the speculation points to many readers preferring clarity and simplicity over complexity and nuance."
+        },
+        {
+          "t": "p",
+          "x": "The researchers don't think this result diminishes the importance of creative writing as human expression and thought. Still, it leaves behind the implication that turning that expression into income is getting harder. After the study came out, concerns emerged about what it means for human authors."
+        }
+      ]
+    },
+    "books/books-amazon-destructive-scanning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "According to a report published this morning by 404 Media, Amazon buys books in bulk, scans them for AI training data, and destroys the books in the process."
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/08/Untitled-design-23.png",
+          "cap": "Literary Hub, reporting that Amazon destroys rare books for AI training"
+        },
+        {
+          "t": "p",
+          "x": "This isn't a story that came out of nowhere. The fact that other AI companies have been doing 'destructive scanning' to train LLMs has been leaking out bit by bit for at least two years."
+        },
+        {
+          "t": "p",
+          "x": "The dominoes started falling last January, when the Washington Post reported that Anthropic was running a secret project to \"destructively scan every book in the world.\" The details of this project, named 'Project Panama', a name fit for a Bond villain, came out this year during the copyright lawsuit authors filed against Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "That scoop alone made the company behind Claude look like an outlier. But ongoing lawsuits against Meta, Google, Microsoft and OpenAI point to similar practices. Lately the focus has fallen especially on deceased authors, who can't object."
+        },
+        {
+          "t": "p",
+          "x": "Amazon has denied doing 'destructive scanning.' On this subject at least, it has stayed very, very quiet. But reporting by Emanuel Maiberg sent a different signal. 404 Media picked a rare book it figured AI companies would want to buy for training data, and followed it on a route across the country."
+        },
+        {
+          "t": "p",
+          "x": "The trail ended at an Amazon warehouse in Las Vegas, Nevada. Workers there said they cut the spines off print books that arrive in bulk so they can scan them faster. The print books are destroyed in the process."
+        },
+        {
+          "t": "p",
+          "x": "There's one more villain detail: the team's logo is reportedly a dinosaur baring its teeth while holding a book."
+        },
+        {
+          "t": "p",
+          "x": "Why rare books specifically? Project Panama documents obtained by the Washington Post include a passage where one Anthropic co-founder reasoned that training AI on books would let it learn \"how to write well\" instead of imitating \"low-quality internet-speak.\""
+        },
+        {
+          "t": "p",
+          "x": "Maiberg makes the same point. A lot of the text found in print books isn't on the internet, and AI companies have already scraped the internet clean. There's also the advantage that the data is well organized. A book printed before 2022 comes with the added guarantee that it contains no AI-written sentences mixed in. Training on AI-generated text again degrades models through a recursive process called 'model collapse.'"
+        },
+        {
+          "t": "p",
+          "x": "There is at least one bit of good news. The American public still tends to oppose destroying books, at least on the surface. Public pressure over this blatant practice has already led some companies to change course. Writer Brittany Allen wrote that, if these machines don't collapse on their own, she hopes the tap of shame will cut the circuit."
+        }
+      ]
+    },
+    "books/books-china-publishing-ai-standards": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Publishing Perspectives' weekly roundup of international publishing news. This week, editor-in-chief Andrew Richard Albanese wrote a short edition in place of Carlo Carrenho, who is on vacation. Carrenho returns on August 24."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+          "cap": "Publishing Perspectives' weekly international publishing column"
+        },
+        {
+          "t": "p",
+          "x": "The most notable item is from China. At the 16th China International Digital Publishing Expo, running August 27 to 29 in Jinan, Shandong Province, the Chinese Academy of Press and Publication, a co-organizer and the academic arm of the National Press and Publication Administration (NPPA), will unveil interim standards for applying AI in the publishing industry. The report comes from Tech Times."
+        },
+        {
+          "t": "p",
+          "x": "The same expo will feature a dedicated online gaming section for the first time. The report notes this means China's publishing authority, which oversees books, academic journals and the nation's print culture, is officially recognizing video games as an equal means of Chinese cultural expression. Both changes trace back to the international success of the game Black Myth: Wukong. The expo is China's only comprehensive industry exhibition devoted exclusively to digital publishing and digital content."
+        },
+        {
+          "t": "p",
+          "x": "There's news from Korea too. According to Asia Economy, the 90th IFLA World Library and Information Congress wrapped up in Busan on August 13. Under the theme 'Libraries Driving Change,' more than 3,500 people gathered from around the world for over 200 sessions covering AI, intellectual freedom and sustainability."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2012/12/IFLA.jpg",
+          "cap": "IFLA, which held the 90th World Library and Information Congress"
+        },
+        {
+          "t": "p",
+          "x": "AI was a central topic here too. The report summarizes a growing consensus that libraries should be redefined not as 'repositories of knowledge' but as trusted public knowledge infrastructure. IFLA President Leslie Weir said in her opening remarks that libraries should boldly embrace change and become agents leading their communities toward a better future."
+        },
+        {
+          "t": "p",
+          "x": "The rest of the headlines: Kris Kliemann will receive the BISG 2026 Industry Achievement Award. In Brazil, the 'Women's Voices in the Book Market' project, aimed at expanding women's place in publishing, launches on August 18. An analysis of 17 million loans from Prague's municipal library found that female users outnumbered male users by nearly three to one, with Jeff Kinney's Diary of a Wimpy Kid as the most borrowed title. More than 10 Korean publishers are competing for the rights to Haruki Murakami's 16th novel. The 11th Istanbul International Arabic Book Fair opened, and Cambridge University professor Jason Addy, who had faced plagiarism allegations, was found dead at his London home on August 14. Rakuten Kobo is making another push into the US market."
+        }
+      ]
+    },
+    "books/books-claude-watermark-word-choice": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "_0NmhvNm61A"
+        },
+        {
+          "t": "p",
+          "x": "Episode 50 of The Automated Author, the podcast from Future Fiction Academy. Elizabeth Ann West and Stacy Anderson spend 44 minutes digging into Claude's AI text watermarking."
+        },
+        {
+          "t": "p",
+          "x": "The starting point is this question: what happens if the watermark itself changes the writing? The two argue that the approach Anthropic has proposed could affect word choice. It might look like a trivial lexical decision, but for someone writing fiction, it's anything but trivial."
+        },
+        {
+          "t": "p",
+          "x": "The conversation moves into familiar territory: AI-sounding phrasing, vague nouns, repetitive sentences. They go through it point by point, whether stylometrics can break the watermark, whether manual human edits erase it, whether a Python-based workaround gets around it. If watermarking interferes with an author's style, the question comes up of whether Claude can keep its spot as the top writing model. Elizabeth reveals she's moving a significant portion of her current novel work from Claude to ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "The back half has a different texture: who gets to be called an author, and who a professional publisher. How much easier AI has made building independent publishing infrastructure, what platform risk looks like when you depend on Amazon KDP, and whether it's better to open your own store. The chapter list also includes a segment titled 'the human must be the final checksum,' Stacy's trip to Iceland, and each of their publishing goals for the week."
+        },
+        {
+          "t": "p",
+          "x": "The video was released on August 17, 2026, and runs 44 minutes. This summary is based on the published description and chapter list."
+        }
+      ]
+    },
+    "books/books-code-yes-novels-no": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Kevin Hincker is sometimes called a novelist and sometimes a software developer. At bottom the two jobs resemble each other in that both are about organizing information, but they're opposites at the crucial point: programmers hate being surprised, while novelists live to be surprised."
+        },
+        {
+          "t": "img",
+          "src": "https://www.writersdigest.com/uploads/2026/06/kevin-hincker-author-photo-e1781830488900.png?auto=webp",
+          "cap": "Kevin Hincker"
+        },
+        {
+          "t": "p",
+          "x": "If code he's written surprises him, that's almost always a sign something went wrong. Conversely, if a novel has no surprise in it, that's also likely a sign it was written badly. Hincker says surprise is a structural requirement of fiction. A novel can still be bad even with surprise in it, but at least one part of it was done right."
+        },
+        {
+          "t": "p",
+          "x": "So his report from the front lines is short. As of 2026, every single line of code he puts out is written by AI agents. And in his fiction, not even a single period is AI-made."
+        },
+        {
+          "t": "p",
+          "x": "The reason isn't taste but the nature of the work. What he loved about programming was envisioning the finished product and refining, piece by piece, how users would encounter it. What he hated was the typing: the numbing kind that repeats a few hundred words and symbols in slightly different order each time. Now agents have taken that part over entirely, and he only touches the user experience he always loved."
+        },
+        {
+          "t": "p",
+          "x": "Fiction is different. Here, he writes, he loves the typing itself: the feel of words landing on the screen, the experience of words passing through him, the organic flow and meditative rhythm of it. Once he inserted an AI agent, that flow vanished. To him it felt like constantly asking for permission. Is this right? Is this good enough?"
+        },
+        {
+          "t": "p",
+          "x": "The disappearance of risk is also a problem. He likes the tightrope walk of facing chaos alone in the middle of a page. He said the risk sharpens him. AI, like a safety net, brings that risk down to almost zero."
+        },
+        {
+          "t": "p",
+          "x": "His verdict on the software side is the opposite. AI is now essentially his process, and the whole category of tangible digital art he can touch has expanded. It scales up and still runs stably, because there are no more surprises left in code. He writes that ambition is the only thing limiting a developer now. Asked whether that's a good thing, he answers that he doesn't know."
+        },
+        {
+          "t": "p",
+          "x": "For a novelist, ambition was never the bottleneck to begin with. Someone who starts from a blank page, writes 100,000 words and stands back up can't possibly lack ambition. Hincker's real limits are things like how much coffee he's had, how many times he's refreshed his news feed, or whether he slept wrong on his arm. These aren't places AI can touch."
+        },
+        {
+          "t": "p",
+          "x": "The final paragraph is the conclusion. The problem he can never resolve is wanting to be surprised, and he sees that as a human problem, not just his own. A tool trained only on yesterday's work can't give him the breakthrough he needs today. It's always a day behind. That, he wrote, is why he draws the line here."
+        }
+      ]
+    },
+    "books/books-synthetic-consensus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Walk across London's Blackfriars Bridge and you'll see the Oxo Tower standing on the south bank of the Thames. Its upper windows read circle, cross, circle again. Lit up at night, they spell O-X-O. When the building was completed in the late 1920s, outdoor advertising along the riverbank was banned. Instead of putting up a sign, the designers embedded the brand into the building's structure. The rule was followed, and what the rule was meant to prevent happened anyway."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/960px-Oxo_Tower_London_June_2016_002.jpg",
+          "cap": "The Oxo Tower in London, seen from the Thames. Photo: Wikimedia Commons, CC-BY"
+        },
+        {
+          "t": "p",
+          "x": "What built up Oxo was a meat extract sold as nutritious. Its roots trace to the 19th-century chemist Justus von Liebig. He declared protein the 'only true nutrient' for building the body and powering muscles, and in 1865 brought out a concentrated syrup called 'extract of meat.' The scientific and medical communities were enthusiastic, and Florence Nightingale recommended it too."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/extract-of-meat.jpg",
+          "cap": "An advertisement for 'extract of meat' from a magazine circa 1890-1899 (Wellcome Collection/Public Domain Work)"
+        },
+        {
+          "t": "p",
+          "x": "That same year, Adolf Fick and Johannes Wislicenus climbed the Faulhorn in the Swiss Alps on a protein-free diet. Measuring energy expenditure and nitrogen excretion, they found that fat and carbohydrates, not protein, had powered their muscles. The meat extract contained almost no protein. Liebig had never properly tested his hypothesis, and when challenged, he pushed forward instead of correcting course. The idea shaped research, eating habits and the food industry for decades."
+        },
+        {
+          "t": "p",
+          "x": "What Jason Hu draws from this story is a systemic problem. The premise that science self-corrects only holds when the speed of correcting errors keeps pace with the speed at which they're generated. In the past, slow diffusion let that premise hold. Not anymore."
+        },
+        {
+          "t": "p",
+          "x": "He calls this 'synthetic consensus,' a state in which a claim's credibility comes not from independent verification but from repetition, aggregation and recursive reproduction. It gets cited without verification, embedded across papers, reviews, textbooks, databases and AI systems, and looks justified every time it's used, regardless of its actual evidence. What's different here is that it's not human bias but the infrastructure itself that manufactures the appearance of consensus."
+        },
+        {
+          "t": "p",
+          "x": "Three forces drive this. Persistence: an omega-3 COPD clinical trial retracted in 2008 for data fabrication was still being cited positively in more than 100 papers, reviews and textbooks 11 years later, with almost none mentioning the retraction. Supply: paper mills have industrialized, with output growing exponentially for a decade, structurally outpacing the rate at which editors and publishers can filter it out. Recursion: generative AI reproduces even flawed claims at essentially zero cost. Each pass dilutes the original uncertainty while deepening the impression of support."
+        },
+        {
+          "t": "p",
+          "x": "Shumailov and colleagues call it \"model collapse\": feeding model-generated text into training without filtering causes an irreversible defect in which the tails of the original distribution disappear. Traberg and colleagues point to \"scientific monoculture,\" in which AI generating ideas, summarizing literature and framing research questions pushes topics, methods and language toward uniformity."
+        },
+        {
+          "t": "p",
+          "x": "Peer review, editorial oversight and post-publication corrections are all still necessary. But they were built to target a different problem. Retraction notices can't keep pace with citations, paper mill volume overwhelms detection, and generative systems carry claims along paths no publisher controls."
+        },
+        {
+          "t": "p",
+          "x": "Hu, describing United2Act and the STM Association's 'Responsible Use of Research Content in Generative AI' initiative, in which he's directly involved, writes that it's necessary but not yet sufficient. The pieces exist, such as Crossmark badges, the Retraction Watch database, and NISO's recommendations for transmitting retractions, but adoption is uneven and standards are fragmented. Downstream systems, AI models in particular, remain outside the correction loop."
+        },
+        {
+          "t": "p",
+          "x": "So the task has shifted from detection to propagation: making corrections flow downstream as fast as claims do. It's unglamorous work, but without it, the system keeps feeding what it can't fix on its own. At the end of the piece, Hu discloses that he used Claude Opus 4.6 and ChatGPT-5.4 mini to polish the prose."
+        }
+      ]
     }
   }
 }

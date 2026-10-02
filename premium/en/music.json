@@ -1536,6 +1536,398 @@
           "x": "AI didn't write the lyrics. It made the music, and it took a year to learn how to aim it. What I couldn't do for 30 years wasn't writing — it was finishing. The software didn't replace Vito or Abbie. It just introduced us."
         }
       ]
+    },
+    "music/music-beatport-ai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Beatport-AI-ban-T.jpg",
+          "cap": "Beatport's AI music ban (Photo courtesy of Beatport)"
+        },
+        {
+          "t": "p",
+          "x": "Beatport has started filtering out AI-made music. The dance music download store has added Beatdapp's detection tool to its catalog, a system meant to catch tracks that are entirely or mostly AI-made at the point of upload."
+        },
+        {
+          "t": "p",
+          "x": "The AI policy itself has been in place since January 2025. What's new is the technology actually enforcing it. How well the tool catches things remains to be seen over the coming months."
+        },
+        {
+          "t": "p",
+          "x": "Music made entirely by AI is held during ingestion, and the rights holder is notified right away. AI-assisted work is treated differently. “Music made with AI assistance will continue to be accepted as long as the finished track is predominantly human-made,” Beatport's policy page states. Such releases get flagged at the import stage, so the curation team knows what it's looking at during review."
+        },
+        {
+          "t": "p",
+          "x": "Beatdapp was originally a partner for streaming fraud detection. With this new AI detection tool, that collaboration has expanded into music identification as well."
+        },
+        {
+          "t": "p",
+          "x": "Beatport says the decision directly reflects where the community stands. In a user survey, 60% said they would not play AI-generated tracks in their sets, and 77% made clear they would support human creators. 8% said they were open to playing AI music, while 13% said they'd consider it if fair compensation went to artists and labels."
+        },
+        {
+          "t": "p",
+          "x": "Beatport CEO Matt Gralen summed it up this way: “Beatport exists for DJs, and to empower artists and labels. New production techniques have pushed electronic music forward from the start, but tools that help human creativity are different from systems that replace creativity altogether. Beatport was built on the former.”"
+        },
+        {
+          "t": "p",
+          "x": "Beatdapp co-founder and co-CEO Andrew Batey noted that the music industry has always embraced new technology, adding that what's needed now is infrastructure that brings real transparency to the generative AI era. AFEM Chief Strategy Officer Jay Ahern said this approach aligns with AFEM's AI principles: human intent and creative control should sit alongside consent, licensing, transparency, provenance labeling, and fair compensation."
+        },
+        {
+          "t": "p",
+          "x": "The timing isn't a coincidence. Last month, Paris-based streaming giant Deezer confirmed that about 50% of its platform's daily uploads — roughly 90,000 tracks — are AI-generated. In early August, Spotify said it would add an 'AI Persona' badge to AI-generated artist profiles. In June, reporting by The Atlantic revealed that AI developers had used about 21 million copyrighted tracks to train their models."
+        },
+        {
+          "t": "p",
+          "x": "Pairing a full ban on AI music with automated detection is a consistent choice for a DJ-focused platform. It won't work perfectly for a while. Untouched AI music is caught relatively well, but once it's edited, layered with human vocals, and mixed with other sounds, even sophisticated tools struggle to tell the difference. Still, that's better than having no rules at all, Gearnews concludes."
+        }
+      ]
+    },
+    "music/music-ia-de-esser": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/ia-deesser-728x364.jpg",
+          "cap": "IA De-Esser — a free de-esser with four slots"
+        },
+        {
+          "t": "p",
+          "x": "Immanent Audio has released IA De-Esser, a free de-essing and resonance-suppression plugin for macOS and Windows."
+        },
+        {
+          "t": "p",
+          "x": "IA De-Esser takes a slightly different approach. Instead of a single module, it uses four filter slots to tame sibilance, harshness, and spiking resonance. Each slot can run as a De-Ess mode that reacts automatically to sibilance, or as a mode that handles a broader range of harsh sound."
+        },
+        {
+          "t": "p",
+          "x": "It's a reasonable idea. Shaving off a little harshness in each module produces a more natural result than pushing a single de-esser hard."
+        },
+        {
+          "t": "p",
+          "x": "In Auto mode, you just set the Low-Cut and Hi-Cut range, and the plugin picks the depth and Q values it judges appropriate. Smart mode goes a step further, scanning the spectrum and sending active slots to the points that need attention."
+        },
+        {
+          "t": "p",
+          "x": "The goal is to trim away only the harshness you want gone, without letting the whole vocal or instrument collapse into that muffled, over-de-essed sound. The screen displays attack, release, depth, and Q in real time, so you can read what the plugin is doing."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't add to DAW latency, so it can just be left on even in situations like tracking, where delay is a problem."
+        },
+        {
+          "t": "p",
+          "x": "With AI-made audio tools multiplying lately, we asked Immanent Audio whether this plugin was built with AI too. Developer Jay confirmed it, saying “AI was used to speed up the process.” He added that, as a software engineer by trade, he doesn't ship code he doesn't understand."
+        },
+        {
+          "t": "p",
+          "x": "IA De-Esser is available free on Gumroad. It supports VST3 and AU formats on macOS and Windows."
+        }
+      ]
+    },
+    "music/music-spotify-ai-persona": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Spotify-AI-Persona-01-1024x565.jpg",
+          "cap": "Spotify AI Persona · Source: Spotify"
+        },
+        {
+          "t": "p",
+          "x": "Spotify is introducing a new tag, the AI Persona label, for artist profiles that don't stand in for a real person. Starting mid-September 2026, these profiles will be marked on banners, in search, and on tracks within playlists. At the same time, Spotify will exclude these profiles from editorial and algorithmic recommendations by default."
+        },
+        {
+          "t": "p",
+          "x": "Spotify says listener feedback was clear: people want to know whether a real person is behind a profile or an AI-made persona. Artists and their teams will now self-report whether their profile is an AI Persona. Spotify will also actively review profiles, including those using realistic AI-generated images. Within a few months, listeners will be able to flag profiles they suspect are unlabeled AI Personas. Spotify makes the final call."
+        },
+        {
+          "t": "p",
+          "x": "The timing isn't a coincidence. The platform has been swamped with AI-made content for months. In April, Spotify already launched 'Verified by Spotify' to mark genuine artist profiles. The AI Persona label is part of a larger plan called 'Artist Identity & Trust,' which also includes SongDNA and AI song credits — tools for disclosing how an artist used AI in making music."
+        },
+        {
+          "t": "p",
+          "x": "What really matters isn't the label itself, but what comes attached to it. Music from AI Persona profiles won't appear by default in either editorial or personalized recommendations. On a platform where music discovery runs largely on algorithmic playlists, that's close to blocking reach — even though Spotify officially describes it as just a label."
+        },
+        {
+          "t": "p",
+          "x": "Payouts, however, stay the same. Royalties for AI Persona tracks are paid out as usual. What Spotify is targeting is exposure, not money. TIDAL went the opposite way in July, keeping AI tracks in its catalog but cutting them off entirely from royalties and direct sales."
+        },
+        {
+          "t": "p",
+          "x": "In July, major industry bodies like IFPI and RIAA agreed on two voluntary labels, 'AI-Generated' and 'AI-Assisted.' The big streaming platforms didn't take part. Spotify, lukewarm at the time, has now chosen a different path. Where the industry bodies' labels mark how much AI went into a recording, Spotify's AI Persona label asks whether there's a person behind the profile at all."
+        },
+        {
+          "t": "p",
+          "x": "Whether the label actually slows AI personas from crowding out real artists, or savvy operators simply find a way around it, won't be clear until after it takes effect in mid-September."
+        }
+      ]
+    },
+    "music/music-tonex-2-player": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4VDagEqs99EEaZkfKzZ2BT.jpg",
+          "cap": "A diagram of the IK Multimedia Tonex ecosystem"
+        },
+        {
+          "t": "p",
+          "x": "IK Multimedia has reworked Tonex Player from top to bottom. It now has a “photorealistic” gear selection screen and a streamlined workflow, and the public beta arrives together with 220 new Premium Tone Models."
+        },
+        {
+          "t": "p",
+          "x": "Tonex 2.0 Player functions more like a creative hub within IK Multimedia's electric guitar and bass tone ecosystem. Managing Tone Models, edits, presets, and captures, and discovering new sounds, are all brought together in one place."
+        },
+        {
+          "t": "p",
+          "x": "Sounds made here carry over directly to the entire lineup of Tonex hardware devices."
+        },
+        {
+          "t": "p",
+          "x": "When IK Multimedia says the Tonex ecosystem is growing, that's not an exaggeration. The diagram with Tonex 2.0 Player sitting at the center of multiple hardware units gets more complex by the day."
+        },
+        {
+          "t": "p",
+          "x": "Tonex 2.0 Player runs both as a guitar plugin and as a standalone app for your DAW. The moment you open it, you can see the home screen has changed. Gear, signal chains, and the library all open from here."
+        },
+        {
+          "t": "video",
+          "yt": "pbYaZjeKkBQ"
+        },
+        {
+          "t": "p",
+          "x": "IK Multimedia explains it this way: “It's faster to find the sound you want, easier to shape it, and more rewarding to explore.” In other words, you find the sound you want faster, shape it more easily, and have more fun digging around."
+        },
+        {
+          "t": "p",
+          "x": "The screen for browsing amp models now looks better. The connection to the ToneNET community has also tightened up, and the new Smart Search makes it easier to find user-made Tone Models and signal chain presets. A dedicated, resizable floating browser moves between amps, effects, and the Tonex collection."
+        },
+        {
+          "t": "p",
+          "x": "This is the core of the Tonex model. The Tonex lineup, software and hardware alike, is designed to interlock completely with IK Multimedia's Amplitube 5 platform. What this overhaul is pushing for is a single workflow running from capture through studio, rehearsal, and stage."
+        },
+        {
+          "t": "p",
+          "x": "Tonex 2.0 Player is open now as a public beta. It will soon roll out to all Tonex users as a free update."
+        }
+      ]
+    },
+    "music/music-daddario-ai-admission": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/z9H4sYWjQE42gw9xW8iKRi.jpg",
+          "cap": "D'Addario — the subject of the controversial NYXL HD demo video"
+        },
+        {
+          "t": "p",
+          "x": "D'Addario admitted it used generative AI in a demo video for its NYXL HD extended-range electric guitar strings. The New York–based strings and accessories brand confirmed that Suno Studio was used to regenerate the original track."
+        },
+        {
+          "t": "p",
+          "x": "The Instagram statement begins: \"We got this wrong. We've completed a full review and confirmed that Suno Studio was used to regenerate the original track. We shared inaccurate information, and we're truly sorry.\""
+        },
+        {
+          "t": "p",
+          "x": "Until then, the company had denied using AI, even releasing a video showing DAW stem files. YouTubers were the ones who dug into that claim. Danny Sapko raised the first questions, and scrutiny spread around a heavily processed progressive metal performance demo. Rhett Shull obtained the stem files directly and looked further into the controversy."
+        },
+        {
+          "t": "video",
+          "yt": "22iRLD7yvsw"
+        },
+        {
+          "t": "p",
+          "x": "D'Addario artists like Yvette Young and Mike Dawes initially defended the brand. Things escalated after the company deleted critical comments and one employee claimed to have been doxxed."
+        },
+        {
+          "t": "p",
+          "x": "In the statement, D'Addario said it had also mishandled comment moderation. \"Honest criticism should not be erased.\" It added that it would change how it runs its channels so people are protected from threats, harassment, and doxxing while still being heard."
+        },
+        {
+          "t": "p",
+          "x": "It also laid out a new policy. \"We do not support AI-generated music, and our process will reflect that going forward.\" Employees and creative partners will now be required to disclose whether generative AI was used in content, and the company will review that disclosure closely."
+        },
+        {
+          "t": "p",
+          "x": "It closed by saying it knows one statement won't fix this, that D'Addario exists because musicians have entrusted their sound to its products, and that it will earn the same trust in how it treats this community."
+        }
+      ]
+    },
+    "music/music-apc-140": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/s/noizefield_audio-plugin-coder_product_image.png",
+          "cap": "Noizefield Audio Plugin Coder"
+        },
+        {
+          "t": "p",
+          "x": "Music software maker Noizefield has released Audio Plugin Coder (APC) 1.4.0, a major update to the open-source framework that uses AI coding agents to turn plugin ideas written in natural language into VST3/AU project structures."
+        },
+        {
+          "t": "p",
+          "x": "APC guides users through ideation, architecture design, UI design, implementation, testing, and packaging, while carrying forward project state and troubleshooting knowledge throughout. It's aimed at producers, sound designers, and developers who don't want to start from an empty C++ project. It runs on Windows, macOS, and Linux alongside agents like Claude Code, Cursor, Codex, Kilo, and Antigravity."
+        },
+        {
+          "t": "p",
+          "x": "Here's what's new in 1.4.0. It upgrades from JUCE 8 to JUCE 9.0.1, picking up support for the latest hosts, tooling, and WebView-based UI. /apc-setup is a first-run wizard that checks the toolchain and sets plugin, build, and release folder locations, UI defaults, and per-step AI model preferences."
+        },
+        {
+          "t": "p",
+          "x": "Workflow commands also got unique names, like /apc-dream, /apc-plan, /apc-design, /apc-impl, and /apc-ship — a change meant to avoid name collisions with other AI tools, though short aliases like /dream still remain. Dependency checking has gotten tighter, and the WebView plugin documentation has improved. Build scripts were fixed to recognize paths correctly, and WebView UI smoke tests on Windows were verified against actual plugin builds."
+        },
+        {
+          "t": "video",
+          "yt": "B_hEkSp3tEk"
+        },
+        {
+          "t": "p",
+          "x": "APC 1.4.0 is available for free on GitHub, with the source code open as well."
+        }
+      ]
+    },
+    "music/music-eu-ai-label": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-4-AI-EU.jpg",
+          "cap": "The transparency provision of the EU AI Act, in force since August 2"
+        },
+        {
+          "t": "p",
+          "x": "Since August 2, new transparency provisions under the European Union's AI Act have taken effect. Audio, images, video and text that AI created or substantially altered must now clearly disclose that they are “artificial”."
+        },
+        {
+          "t": "p",
+          "x": "Developers of general-purpose AI systems now face new transparency obligations as well. It marks the first milestone consumers can actually feel in the EU's flagship AI legislation."
+        },
+        {
+          "t": "p",
+          "x": "For the music industry, the change isn't about blocking AI but about making its use visible. It doesn't ban AI music, nor does it settle the copyright disputes over AI training data."
+        },
+        {
+          "t": "p",
+          "x": "Instead, “the focus is on transparency”. Content that AI created or substantially altered must be recognizable to listeners, and developers must document how they trained their models and meet the AI Act's transparency requirements."
+        },
+        {
+          "t": "p",
+          "x": "The music industry's biggest legal questions remain unanswered. The new rules don't determine whether companies like Suno or Udio infringed copyright by training on copyrighted recordings, nor do they require disclosing every song used in training. That fight continues in courtrooms and licensing negotiations around the world."
+        },
+        {
+          "t": "p",
+          "x": "What Europe has set is a single baseline: “AI-made content can no longer be anonymous”."
+        },
+        {
+          "t": "p",
+          "x": "For artists, labels and rights holders, it becomes easier to identify AI-generated output and examine how it is presented to listeners. Holding companies accountable for how they used AI also gets easier. Companies that violate the transparency requirements can face fines of up to €15 million, or 3% of their annual global revenue."
+        }
+      ]
+    },
+    "music/music-spotify-kobalt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/spotify-has-roped-the-indie-publisher-kobalt-into-its-ai-platform-for-covers-and-remixes/intro-1786636073.jpg",
+          "cap": "The Spotify and Kobalt logos on a black background"
+        },
+        {
+          "t": "p",
+          "x": "Spotify has been teasing an AI tool that lets fans make covers and remixes for a while now. It has already disclosed a partnership with Universal Music Group. The new partner is indie music publisher Kobalt, a company that publishes songs for a wide range of musicians, from Phoebe Bridgers to post-punk band IDLES."
+        },
+        {
+          "t": "p",
+          "x": "Kobalt artists will soon be able to opt into Spotify's new platform, where fans take songs and rework them into remixes and covers, powered, of course, by a suite of AI tools. No one has heard the results yet. Think something like Suno, but using only properly licensed songs instead of scraping the whole internet."
+        },
+        {
+          "t": "p",
+          "x": "So the tool is being promoted not as a new way for generative AI to rip off artists, but as a new way for them to make money. Spotify says it will “open up additional revenue streams and new ways to drive discovery”. Kobalt CEO Laurent Hubert added that its artists are “directly benefiting from the creative opportunities these new features provide”."
+        },
+        {
+          "t": "p",
+          "x": "At least it's clear where that revenue will come from. The platform will launch as a paid add-on for Premium subscribers. It's still unknown how much it will cost, or whether anyone will actually pay to make an AI cover of a favorite song."
+        },
+        {
+          "t": "p",
+          "x": "It's also unclear whether there will be a way to make covers without AI. If it really all comes down to licensing, what's the difference between algorithmic slop and a real cover performed and recorded by a human? Either way, answers will take a while to arrive. Spotify hasn't said when the tool will launch."
+        }
+      ]
+    },
+    "music/music-suno-bmg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/MikeyShulman.jpg",
+          "cap": "Suno co-founder and CEO Mikey Shulman. Photo by Samuel Boivin / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Suno has added another badge to its collection. The AI music platform and BMG jointly announced a new deal on August 12. BMG's press release described it as a “global alliance that establishes a strategic framework covering BMG's recorded and music publishing repertoire”, a strategic framework spanning its recorded music and publishing catalog."
+        },
+        {
+          "t": "p",
+          "x": "The press release notes the opt-in element for BMG artists. “The agreement ensures that BMG artists and songwriters who choose to participate have their rights protected and are compensated for their music, while also settling prior use of BMG recordings and publishing works.” Artists and songwriters who choose to participate have their rights protected and get compensated, and past use is settled as part of this deal."
+        },
+        {
+          "t": "p",
+          "x": "BMG is the first major rights holder to sign a licensing deal with Suno since Warner Music Group partnered with the company nine months ago. The largest rights holders, Universal Music Group and Sony Music Group, are still suing Suno in the United States, alleging widespread copyright infringement in training its earlier models."
+        },
+        {
+          "t": "p",
+          "x": "Suno co-founder and CEO Mikey Shulman said, “We believe the future of music will be more participatory, creating entirely new ways for artists and fans to connect.” He added that building that future responsibly means working directly with the people who make the music."
+        },
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/01/Celine-Joshua_BMG-1-e1769440073714.jpeg",
+          "cap": "Celine Joshua, EVP of Global Marketing and Streaming at BMG"
+        },
+        {
+          "t": "p",
+          "x": "Celine Joshua, BMG's EVP of Global Marketing and Streaming, made clear that choice is the guiding principle. “This agreement establishes strong protections, clear economics, and new creative possibilities for artists and their fans.” Protections are strong, the economics are clear, and the creative possibilities are new."
+        },
+        {
+          "t": "p",
+          "x": "The BMG announcement came the same week Suno confirmed it would cap how many downloads subscribers can make. The cap, which takes effect next month, is meant to “make it harder for bad actors to mass-export music”. Suno also plans to add audio watermarking and fingerprinting technology."
+        },
+        {
+          "t": "p",
+          "x": "In June, Suno raised more than $400 million at a $5.4 billion valuation and passed 100 million users. Last month, it lost a dispute with Germany's GEMA in the Munich Regional Court, which ordered it to disclose revenue information and pay damages. BMG holds more than 3 million songs and recordings, including catalogs from will.i.am, Jean-Michel Jarre, Tina Turner and Paul Simon. Its scale will grow further with a multibillion-dollar merger with Concord set to close in the fourth quarter."
+        }
+      ]
+    },
+    "music/music-uppbeat-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/The-Uppbeat-Creator-Report.jpg",
+          "cap": "Uppbeat Creator Report 2026"
+        },
+        {
+          "t": "p",
+          "x": "AI has surged into the creator economy, reshaping the digital landscape. Content has exploded, and authenticity has come under pressure. Instead of forecasting the future, creative asset platform Uppbeat asked creators directly."
+        },
+        {
+          "t": "p",
+          "x": "The newly released Uppbeat Creator Report 2026 is based on a survey of 1,792 creative professionals and 13 in-depth interviews conducted between February and March 2026. It examines how creators, including musicians and YouTubers, are adapting to new technology, which AI tools they embrace, and which parts of the creative process they refuse to hand over to machines."
+        },
+        {
+          "t": "p",
+          "x": "The line is clear. “Just 6.7% of respondents finding fully AI-generated content acceptable”, meaning only 6.7% of respondents accept output that is entirely AI-made. Yet “60% are happy to integrate AI assistance” into their workflow. Contrary to tech-industry assumptions, “16- to 24-year-olds are the least likely group to use AI tools”, using them the least of any age group."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/The-Uppbeat-Creator-Report-4.jpg",
+          "cap": "Where artists draw the line on AI — Uppbeat Creator Report"
+        },
+        {
+          "t": "p",
+          "x": "Three themes emerged from more than 2,600 open-ended responses. Specificity matters more than volume. As AI makes mass production easier, “creators are standing out by getting more specific and niche” rather than simply increasing output. Audiences are pushing back too, quietly scrolling past overly automated, predictable content in favor of something “messy, emotional, and brilliant”. And amid an endless supply of AI-generated material, the one scarce resource left is a creator's individual perspective and voice."
+        },
+        {
+          "t": "p",
+          "x": "There's advice for independent musicians too: hand off chores like metadata, promo scheduling, email drafts, clip editing and work logistics to AI, but keep songwriting, recording vocals and meeting fans in person for yourself. Mass-producing predictable tracks just gets swallowed by the algorithmic sludge. What turns people into paying fans is an extremely specific aesthetic and a vulnerable, personal story."
+        },
+        {
+          "t": "p",
+          "x": "Hypebot's conclusion is this: there's no need to fear AI, nor to hand over one's entire creative identity to it. Use the tools to strip away backend friction and buy back time, then spend that time on raw, direct connection, through songs, shows and the merch table. In an age of endless synthetic noise, a personal story is a competitive edge that goes beyond branding."
+        }
+      ]
     }
   }
 }

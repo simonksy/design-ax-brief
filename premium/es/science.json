@@ -1410,6 +1410,329 @@
           "x": "El equipo ha comenzado ahora a trabajar en acoplar modelos de IA a equipos de imágenes Raman de próxima generación que usan fuentes de luz cuántica. “Ahora mismo, obtener una sola señal confiable puede tardar hasta tres minutos”, dijo Chandola, y añadió que “reducir eso a alrededor de un segundo nos permitiría analizar muchas más células a gran escala”. El equipo también está ampliando el trabajo hacia el uso de las salidas del modelo para distinguir células cancerosas de células normales."
         }
       ]
+    },
+    "science/science-teen-ai-mental-health-surge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Que los jóvenes usen IA para problemas de salud mental ya no es la pregunta. El problema, dicen las autoridades sanitarias, es si el consejo que reciben es fiable. Una encuesta reciente halló que las consultas de salud mental a chatbots de IA entre adolescentes y jóvenes adultos aumentaron un 60% en un año, y quienes dirigieron el estudio esperan que la tendencia continúe."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/mental-health-ai.jpg",
+          "cap": "Fuente: Pavel Danilyuk from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "El estudio fue dirigido por Hao Yu, profesora asociada de medicina poblacional en la Facultad de Medicina de Harvard y el Instituto de Salud Harvard Pilgrim, con 1727 participantes. Aunque considera que la IA podría cubrir el vacío dejado por la escasez de profesionales de salud mental, Yu dijo que ahora es momento de evaluar si ese consejo ayuda o perjudica."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle qué reveló la encuesta, Yu respondió: “En un estudio similar del año pasado, uno de cada ocho jóvenes de 12 a 21 años usaba IA por problemas de salud mental. Este año fue casi uno de cada cinco. Eso significa que casi el 20% de los jóvenes de este país buscan consejo de salud mental en la IA, un repunte en solo un año”. El uso fue mayor entre los mayores del grupo y entre las mujeres jóvenes."
+        },
+        {
+          "t": "p",
+          "x": "“Puede sorprender que la mayoría de los adolescentes que usan IA no se lo han dicho ni a sus padres ni a su médico”. Yu dijo que esto es preocupante porque varios modelos de IA mezclan información errónea y, de entrada, no fueron creados para dar consejo de salud mental. Por eso recomendó que padres y médicos hablen con los chicos sobre su uso de la IA, para poder notar si un menor tiene un problema de salud mental, o ayudarlo a distinguir información precisa de la desinformación que abunda en línea."
+        },
+        {
+          "t": "p",
+          "x": "El sistema de salud de EE. UU. tiene una gran escasez de psiquiatras, en especial psiquiatras infantiles, y solo la mitad de quienes necesitan tratamiento de salud mental llega a recibirlo. En ese vacío, la IA tiene sus propias ventajas. “La IA es paciente. Está disponible a toda hora, sin necesidad de cita. Y es amable: rara vez es dura o se impacienta”. Eso es especialmente cierto en zonas rurales o remotas con una grave escasez de personal."
+        },
+        {
+          "t": "p",
+          "x": "La calidad es otro asunto. Ha habido casos de adolescentes que, al hablar con la IA sobre problemas de salud mental, vivieron tragedias como intentos de suicidio. Las empresas de IA han prometido incorporar salvaguardas, pero Yu señaló que no hay evidencia empírica de que esas promesas se cumplan. En este estudio, más del 90% de los adolescentes dijo que el consejo era útil, pero si realmente ayuda y es preciso sigue siendo una cuestión empírica por confirmar."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los modelos de IA están diseñados para ser amables y complacientes con el fin de retener a los usuarios, y los jóvenes caen con especial facilidad en eso. Yu considera que se debería acelerar el desarrollo de IA entrenada para fines terapéuticos, ya que podría aliviar la escasez de psiquiatras infantiles. Aun así, es natural que preocupe la calidad y seguridad de esos modelos, y algunos responsables de políticas, como en Illinois, ya han actuado. Al final, dijo, es una cuestión de seguridad del paciente."
+        },
+        {
+          "t": "p",
+          "x": "También está prevista una encuesta de seguimiento. Yu espera que la proporción siga subiendo mientras la IA siga siendo parte de la vida diaria de los jóvenes y persista una demanda de salud mental sin cubrir. Hubo un hallazgo inesperado: no hubo una diferencia significativa entre zonas rurales y grandes ciudades, a pesar de la brecha digital y de la escasez mucho mayor de psiquiatras infantiles en el campo. Si la investigación de seguimiento confirma esto, podría ayudar a reducir el efecto de la escasez de personal, pero para ello esos modelos de IA deberán cumplir con los estándares clínicos del consejo de salud mental."
+        }
+      ]
+    },
+    "science/science-antibody-cdr-model": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Diseñar un fármaco de anticuerpos eficaz se parece a buscar la llave correcta en un almacén lleno de cerraduras. Puede haber de millones a miles de millones de candidatos, y solo una fracción mínima reconoce un objetivo de la enfermedad y se une a él con firmeza. Investigadores de la Universidad de Boston han presentado un marco de IA específico para anticuerpos que reduce drásticamente esa búsqueda."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2021/antibody.jpg",
+          "cap": "Una ilustración de un anticuerpo."
+        },
+        {
+          "t": "p",
+          "x": "La mayor parte de un anticuerpo es solo el andamiaje que sostiene la estructura. La información que determina qué reconoce y con qué fuerza se une está concentrada en seis pequeños bucles llamados regiones determinantes de complementariedad (CDR). El Dr. John Misasi lo explicó así: “Piensen en un anticuerpo como un destornillador. No importa si es largo o corto; qué tornillo encaja lo determina la forma de la punta. El CDR es justamente esa punta, y decide qué objetivo reconoce el anticuerpo”."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de tratar los anticuerpos como proteínas comunes, los investigadores rediseñaron el proceso de entrenamiento en torno a la biología de los anticuerpos. Entrenaron el modelo con más de 1,6 millones de secuencias de anticuerpos de cadena pesada y ligera emparejadas de forma natural, dejando en gran medida intacta la estructura circundante mientras enmascaraban deliberadamente hasta la mitad de los aminoácidos dentro de los CDR, obligando al modelo a reconstruir una y otra vez las regiones más importantes para la unión."
+        },
+        {
+          "t": "p",
+          "x": "El modelo final tiene unos 600 millones de parámetros. En un conjunto de datos con más de 90.000 variantes de anticuerpos modificados dirigidas a seis antígenos, mejoró la predicción de afinidad de unión hasta en un 27%, igualando o superando a modelos de lenguaje de anticuerpos mucho más grandes en varios benchmarks, y usando además menos recursos de cómputo."
+        },
+        {
+          "t": "p",
+          "x": "La Dra. Diane Joseph-McCarthy dijo: “Queríamos enseñarle a la IA la biología que más importa, para dar a los investigadores mejores herramientas con las que descubrir, optimizar y, finalmente, diseñar la próxima generación de tratamientos con anticuerpos”. El Dr. Misasi añadió que reducir millones de posibilidades a unos pocos cientos prometedores ahorra una cantidad enorme de tiempo de laboratorio, personal y costes. El estudio se publicó el 13 de agosto en Communications AI & Computing."
+        }
+      ]
+    },
+    "science/science-amie-video-consultation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Research ha extendido su IA de conversación médica, AMIE, a las videoconsultas en tiempo real. Ahora lee no solo lo que los pacientes describen con palabras, sino lo que muestran frente a la cámara. Los investigadores dijeron que este es el primer caso de una IA que alcanza un rendimiento de nivel experto en videoconsultas clínicas en tiempo real. Se publicó el 11 de agosto, y el texto lo escribieron el científico investigador senior de Google Anil Palepu y el líder de investigación Mike Schaekermann."
+        },
+        {
+          "t": "video",
+          "yt": "zdioahIODDM"
+        },
+        {
+          "t": "p",
+          "x": "AMIE (Video) ejecuta un conjunto de agentes de forma asíncrona. El Talker lleva de forma natural el flujo de la conversación con el paciente. El Planner ejecuta en segundo plano el razonamiento clínico, actualizando el diagnóstico diferencial, mientras que Perception lee señales no verbales clínicamente relevantes a partir del audio y el video. Es una estructura que separa el trabajo que exige respuesta inmediata del que exige una deliberación más profunda."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/AMIE_Video-1.width-1250.png",
+          "cap": "Un resumen de AMIE para videoconsultas clínicas en tiempo real, el estudio de evaluación y los resultados clave."
+        },
+        {
+          "t": "p",
+          "x": "La evaluación usó 100 escenarios clínicos que abarcan cinco sistemas del cuerpo. Se realizaron 300 consultas estandarizadas, con la participación de 15 actores entrenados como pacientes simulados. Hubo tres grupos de comparación: AMIE (Video), la línea base de texto AMIE (Text), y 10 médicos de familia."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/AMIE_Video-2.width-1250.png",
+          "cap": "Precisión diagnóstica, puntuaciones de evaluadores clínicos y preferencia de los actores de pacientes simulados sobre la calidad de las videoconsultas de AMIE y los médicos de familia."
+        },
+        {
+          "t": "p",
+          "x": "En los resultados puntuados por evaluadores clínicos, AMIE (Video) estuvo a la par de los médicos de familia en aspectos centrales como la toma de historial y la precisión diagnóstica. De hecho, se adelantó en el examen visual y en guiar exámenes físicos a distancia. Los actores de pacientes simulados prefirieron claramente a AMIE en empatía y conexión."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/AMIE_Video-3.width-1250.png",
+          "cap": "Un experimento de ablación que compara la configuración con video frente a una configuración solo con chat de texto, basado en las puntuaciones de evaluadores clínicos y la preferencia de los actores de pacientes simulados."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores fueron claros sobre las limitaciones. Trabajaron con actores profesionales en lugar de pacientes reales, lo que redujo el alcance a afecciones que podían reproducirse mediante actuación. Aunque el rendimiento general fue alto, hubo casos de errores de percepción y razonamiento, y persistieron problemas técnicos heredados de la etapa de prototipo de Project Astra."
+        },
+        {
+          "t": "p",
+          "x": "Lo siguiente es la validación con pacientes reales. El plan es ampliar la gama de presentaciones clínicas cubiertas y combinarla con estudios de uso real en curso en instituciones asociadas como Beth Israel Deaconess Medical Center e Included Health."
+        }
+      ]
+    },
+    "science/science-iceboost-glacier-volume": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad Ca' Foscari de Venecia presentaron IceBoost v2.0, un modelo de aprendizaje automático que mapea el volumen de hielo de los glaciares del mundo. Sin contar la Antártida ni Groenlandia, los glaciares de la Tierra contienen unos 150.000 kilómetros cúbicos de hielo, suficiente para elevar el nivel del mar 32,3 centímetros si se derritieran por completo."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-ai-model-reveals.jpg",
+          "cap": "IceBoost v2.0 estima que el volumen de hielo de los glaciares del mundo es de unos 150.000 kilómetros cúbicos."
+        },
+        {
+          "t": "p",
+          "x": "El modelo se entrenó con más de 7 millones de mediciones de campo del grosor de los glaciares. Incorporó 26 variables físicas y geométricas, entre ellas la pendiente del terreno, la velocidad del flujo de hielo y la temperatura. El investigador principal, Niccolò Maffezzoli, dijo que estas estimaciones coinciden hasta un 40% mejor con las observaciones de campo."
+        },
+        {
+          "t": "p",
+          "x": "“La distribución del grosor de los glaciares es una variable fundamental para los modelos de glaciología y de clima”, dijo Maffezzoli, físico de la Universidad Ca' Foscari y miembro del Instituto de Ciencias Polares del Consejo Nacional de Investigación de Italia (CNR-ISP). Para prever cómo cambiarán los glaciares hacia 2100 y cuánto contribuirán al nivel del mar, dijo, primero hay que conocer con detalle su estado actual."
+        },
+        {
+          "t": "p",
+          "x": "“Los modelos de aprendizaje automático abren otro camino. En lugar de imponer una descripción física predefinida, aprenden directamente de los datos para generar predicciones”, explicó Maffezzoli."
+        },
+        {
+          "t": "p",
+          "x": "Un caso llamativo es la meseta de Geikie, en el este de Groenlandia. IceBoost v2.0 encontró allí casi el doble del hielo reportado hasta ahora, con un grosor que llega a los 2 kilómetros en algunos puntos."
+        },
+        {
+          "t": "p",
+          "x": "La utilidad de esto está en la gestión del agua dulce. Unos 1.900 millones de personas en el mundo dependen del agua que liberan los glaciares. El modelo también señala dónde deberían priorizarse las observaciones de campo de cara al futuro: el Himalaya, el Karakórum y los grandes campos de hielo de la Patagonia."
+        },
+        {
+          "t": "p",
+          "x": "“Hay que darse prisa. Esperamos que los glaciares de latitudes medias, incluidos los de los Alpes, desaparezcan en las próximas décadas”, dijo Maffezzoli. El estudio se publicó en Scientific Data (DOI: 10.1038/s41597-026-07744-9) y está vinculado al Glacier Model Intercomparison Project (GlacierMIP4). Los resultados pueden verse directamente a través de una herramienta web (https://nmaffe.github.io/iceboost_webapp/)."
+        }
+      ]
+    },
+    "science/science-openai-astra-math-attribution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI anunció la semana pasada 10 resultados matemáticos obtenidos con su modelo de lenguaje de próxima generación, Astra. Afirmaba haber resuelto problemas abiertos desde hacía mucho tiempo, con un costo total de tokens de 2.000 dólares. Pero cuando los matemáticos examinaron los artículos a fondo, surgieron problemas de citación."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/dc0903bd-2979-4f28-8e8c-2db77b24337b/AI-plagiarism.jpg",
+          "cap": "Fuente: Malte Mueller/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El primer caso es el problema del empaquetamiento de esferas, que trata de cómo llenar de bolas un espacio matemático de más de 1.000 dimensiones. Steven Miller, de la Universidad Yeshiva, considera que la solución de Astra reutilizó el argumento de un artículo que él coescribió en 2016, presentándolo como si fuera un resultado nuevo."
+        },
+        {
+          "t": "p",
+          "x": "\"Están pisoteando deliberadamente el trabajo de quienes vinieron antes que ellos. Desde mi punto de vista, esto es completamente organizado y constituye mala conducta en la investigación\", dijo Miller. Lo llamó plagio."
+        },
+        {
+          "t": "p",
+          "x": "El segundo caso es de teoría de grupos, un resultado que afirma que existe al menos un grupo que no tiene la propiedad de soficidad. Francesco Fournier-Facio, de la Universidad de Cambridge, señaló que la idea central usada aquí ya aparecía en artículos de 2016 y 2019. Andreas Thom, de la TU Dresden y coautor del artículo de 2019, también dejó un comentario en MathOverflow."
+        },
+        {
+          "t": "p",
+          "x": "Fournier-Facio no está menospreciando el trabajo de Astra en sí. Describió el resultado como \"creativo y elemental a la vez\". Pero considera que en lo que la IA es buena es en encajar piezas de un rompecabezas, no en dar un salto intelectual genuinamente nuevo."
+        },
+        {
+          "t": "p",
+          "x": "\"Hay una máquina de relaciones públicas enorme que quiere que esto suene impresionante, y a esa maquinaria no le interesa si es 100% exacto\", dijo Fournier-Facio. El comunicado de prensa de OpenAI afirmaba que esos problemas habían estado abiertos \"durante al menos una década\" sin avances, pero los críticos replican que hubo investigación realizada justo antes de esto."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de OpenAI respondió: \"Nos responsabilizamos de la exactitud de estos resultados y nos exigimos los mismos estándares que normalmente se esperan de los matemáticos humanos. De acuerdo con la práctica académica habitual, planeamos hacer revisiones menores al artículo esta semana.\""
+        },
+        {
+          "t": "p",
+          "x": "La cuestión no termina solo con la disputa por plagio. \"OpenAI ahora participa plenamente en la investigación de más alto nivel. Si es así, debería estar sujeta a los mismos estándares académicos que el resto de nosotros\", dijo Fournier-Facio. Es una exigencia de que, en la medida en que la IA ocupa el lugar de un investigador, mantenga las mismas normas de citación y atribución de fuentes. El artículo lo escribió Joseph Howlett y lo editó Lee Billings."
+        }
+      ]
+    },
+    "science/science-ai-mathematics-human": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los matemáticos suelen ser cautelosos ante las novedades. Incluso a los investigadores armados con computadoras les tomó años transformar el campo por completo. Ahora la inteligencia artificial, en particular los grandes modelos de lenguaje, se está infiltrando en la forma de hacer matemáticas. Manon Bischoff, de Scientific American, se reunió con Yang-Hui He, matemático y físico del London Institute for Mathematical Sciences."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg",
+          "cap": "Ilustración 3D de una cabeza humana formada por figuras geométricas. Fuente: Andriy Onufriyenko/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "He se dedicó durante mucho tiempo a la teoría de cuerdas. El giro llegó en 2017. En lugar de gravedad cuántica o la naturaleza del tiempo, todo el mundo empezó a hablar de aprendizaje automático, y sus propios estudiantes buscaban empleos en aprendizaje automático en lugar de puestos en finanzas o en la academia. Su hijo, nacido ese año, no dormía, así que He se quedaba despierto con él todas las noches aprendiendo aprendizaje automático con cursos en línea. Mathematica acababa de lanzar un marco de redes neuronales, suficiente para empezar a experimentar."
+        },
+        {
+          "t": "p",
+          "x": "Aplicó esa red neuronal sencilla a datos de variedades de Calabi-Yau, los objetos geométricos de alta dimensión que están en el centro de la teoría de cuerdas. El experimento buscaba ver si podía reconocer propiedades topológicas, y no esperaba mucho. La red predijo ciertas propiedades con una precisión considerable. Una máquina que no sabía nada de geometría ni de topología había aprendido una estructura matemática profunda."
+        },
+        {
+          "t": "p",
+          "x": "Tras la publicación del artículo, varios grupos retomaron ideas similares. He mismo se alejó de la teoría de cuerdas. Al despojar la motivación física, se encontró usando máquinas para explorar la estructura misma de las matemáticas."
+        },
+        {
+          "t": "p",
+          "x": "Convencer a los físicos fue fácil. El CERN venía usando aprendizaje automático al menos desde la década de 1990. Los matemáticos eran mucho más escépticos. 'Durante los últimos ocho años me he sentido como un vendedor ambulante', dijo. 'Iba de campo en campo preguntando si tenían datos y si podíamos buscar juntos una estructura oculta en ellos.' Desde entonces ha trabajado con investigadores de teoría de la representación, geometría algebraica, teoría de números, combinatoria y geometría diferencial."
+        },
+        {
+          "t": "p",
+          "x": "El efecto más interesante de la IA, según He, es un nuevo lenguaje común. Los investigadores de teoría analítica de números y los expertos en ecuaciones diferenciales parciales trabajan en campos cercanos pero hablan idiomas distintos. Sin embargo, en cuanto empiezan a hablar de datos, patrones y aprendizaje, aparece de repente un terreno común. 'En ese sentido, la IA, de forma extraña, hace que las matemáticas sean más humanas', dijo. 'Porque hace que la gente vuelva a hablar entre sí.'"
+        },
+        {
+          "t": "p",
+          "x": "El reconocimiento de patrones y la generación de hipótesis fueron la primera etapa. La siguiente pregunta es si la IA realmente sirve para resolver problemas importantes sin resolver. La evidencia viene de FrontierMath, un proyecto que crea problemas difíciles y sin resolver, junto con sus soluciones, para medir la capacidad de la IA. En el verano de 2025 participó en la fase 4, encerrado en una sala con 30 matemáticos durante varios días para crear problemas. No podían salir para que las conversaciones no se filtraran a internet, y todos firmaron acuerdos de confidencialidad. La IA resolvió alrededor del 10% de los problemas en un mes. Ahora está en marcha la fase 5, que aborda problemas sin resolver realmente significativos."
+        },
+        {
+          "t": "p",
+          "x": "Ante la pregunta de qué les queda a los humanos si la IA se encarga de la investigación, respondió que no le preocupa. No necesita ser él quien demuestre un teorema; solo quiere conocer la respuesta. La interpretación, el contexto y el juicio siguen siendo tarea humana. He lo comparó con la música de Bach: uno no tiene que haberla compuesto para pasar el día escuchándola y conmoverse, y las matemáticas pueden funcionar igual. Se puede pensar en la IA como la biblioteca matemática definitiva. Un colega planteó una pregunta sobre el grupo Monstruo tan técnica que ni los expertos podían responderla de inmediato, y un modelo de lenguaje encontró la respuesta enterrada en un teorema oculto en un artículo antiguo. 'Incluso después de que la gente olvide, la IA recordará tu investigación.'"
+        }
+      ]
+    },
+    "science/science-cerebellum-memtransistor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ha aparecido un chip de IA que imita las respuestas motoras instintivas del cerebro humano. Modelado a partir del cerebelo, que se encarga del equilibrio y el control muscular fino, está diseñado para dejar pasar la información conocida y reaccionar solo ante eventos inesperados. En simulaciones con datos de electrocardiograma (ECG), el dispositivo detectó arritmias con un 98% de precisión en menos de un quinto de latido. La investigación se publicó el 10 de julio en Nature Communications."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Q4rT8bEMhs2NS232EpvYBC-2000-80.png",
+          "cap": "Ilustración de un cerebro sobre un circuito electrónico. El nuevo chip funciona de forma similar al cerebro humano."
+        },
+        {
+          "t": "p",
+          "x": "Esto podría abrir camino a una IA de bajo consumo capaz de detectar y responder a señales anómalas sin depender del enorme cómputo de los centros de datos. El rango de aplicaciones va desde monitores de salud siempre encendidos hasta vehículos autónomos y robots. Las arquitecturas informáticas inspiradas en el cerebro humano se llaman computación neuromórfica."
+        },
+        {
+          "t": "p",
+          "x": "Los circuitos biológicos del cerebro no procesan toda la información entrante con la misma intensidad. Priorizan las señales importantes, filtran el ruido de fondo y ahorran energía. La investigación neuromórfica ha apuntado generalmente al cerebro, el centro del pensamiento. Este equipo eligió en cambio el cerebelo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yPvYa5rP7TLZARfA5UsYEi.jpg",
+          "cap": "Un mapa del cerebro humano, incluido el cerebelo."
+        },
+        {
+          "t": "p",
+          "x": "En los circuitos neuronales del cerebelo, señales excitatorias e inhibitorias que compiten entre sí mantienen un equilibrio. Cuando ocurre algo inesperado, ese equilibrio se inclina y le indica al cerebro que se necesita una respuesta. El coautor Mark Hersam, profesor de ciencia e ingeniería de materiales en la Universidad Northwestern, dice que el cerebelo es un candidato sin explotar para la IA neuromórfica. 'El cerebelo reserva sus recursos para ignorar lo esperado y responder a lo inesperado. Ese enfoque termina derivando en un menor consumo de energía.'"
+        },
+        {
+          "t": "p",
+          "x": "La IA actual es excelente en el reconocimiento de patrones, pero consume una enorme cantidad de cómputo analizando constantemente flujos de datos. El hardware también es un obstáculo: como la memoria y el cómputo son componentes separados, el intercambio de datos entre ellos genera un retraso conocido como el cuello de botella de von Neumann. Este dispositivo elimina ese ir y venir al combinar memoria y cómputo en un único componente llamado memtransistor. Está hecho de disulfuro de molibdeno, un semiconductor de grosor atómico, con una estructura asimétrica en la que solo un electrodo toca directamente el semiconductor, de modo que invertir la dirección del voltaje alterna entre un modo excitatorio y uno inhibitorio."
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo fue diseñado para servir como núcleo de la capa de salida de una red neuronal de pulsos más grande. Los investigadores midieron la respuesta de pulso de un solo memtransistor y usaron el resultado para simular una red que distingue ECG normales de arritmias. Al introducir los mismos datos de ECG tanto en la red inspirada en el cerebelo como en un modelo transformer estándar y comparar la velocidad y la eficiencia de detección, la versión inspirada en el cerebelo fue más del doble de rápida y usó aproximadamente 1/10.000 del cómputo."
+        },
+        {
+          "t": "p",
+          "x": "Hersam dijo que el rendimiento real depende de la velocidad y el tamaño del dispositivo, pero que conduce a un hardware más rápido y eficiente en energía. 'No lo hemos escalado al nivel de los chips de silicio comerciales, pero en principio, los materiales 2D y los memtransistores pueden escalarse a tamaños y velocidades de operación comparables.' Añadió que es especialmente adecuado para entornos como la computación en el borde, donde se necesita inferencia rápida con un consumo mínimo de energía."
+        },
+        {
+          "t": "p",
+          "x": "Lo importante es que esto podría sacudir la dependencia de la IA respecto a los centros de datos. La Agencia Internacional de la Energía proyecta que la demanda eléctrica global de los centros de datos alcanzará unos 945 teravatios-hora en 2030, un poco más que el consumo eléctrico total de Japón, impulsada principalmente por la IA. Hersam dijo: 'Nuestro enfoque promete un menor consumo de energía al reducir la cantidad total de cómputo necesario. No es una mejora de rendimiento incremental, sino una forma fundamentalmente distinta de hacer detección de anomalías.' El siguiente paso es imitar la capacidad de adaptación del cerebelo, que deja de tratar un evento repetido como especial después de experimentarlo varias veces."
+        }
+      ]
+    },
+    "science/science-earlydetect-solar-emergence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mucho antes de que una mancha oscura aparezca en la superficie del Sol, las regiones activas, los lugares donde comienzan las erupciones solares más potentes, dejan escapar en silencio señales de su formación. Investigadores del New Jersey Institute of Technology (NJIT) afirman haber creado un modelo de IA que lee esas señales tempranas para pronosticar la aparición de regiones activas con casi nueve horas de antelación, en promedio."
+        },
+        {
+          "t": "p",
+          "x": "En un artículo publicado en el Journal of Geophysical Research: Machine Learning and Computation, los investigadores informan que un modelo llamado EarlyDetect detecta precursores de la aparición de regiones activas en la actividad acústica y el campo magnético del Sol. El autor correspondiente es Jonas Tirona, investigador de pregrado en NJIT. Investigadores de NJIT, la Universidad de Princeton y el Centro de Investigación Ames de la NASA trabajaron juntos usando datos del Observatorio de Dinámica Solar (SDO) de la NASA."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/solar-eruptions.jpg",
+          "cap": "Fuente: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "'Lo más valioso que muestra este estudio es que el aprendizaje automático puede predecir con antelación cuándo aparecerán las regiones activas solares', dijo Tirona, estudiante de ciencias de la computación que pasará a su último año. 'Con esa alerta temprana, las empresas de comunicaciones satelitales o de redes eléctricas pueden prepararse y reducir el daño de las tormentas solares.'"
+        },
+        {
+          "t": "p",
+          "x": "Las regiones activas, las zonas magnéticamente intensas donde se forman las manchas solares, emergen a lo largo de varias horas. Mientras el campo magnético asciende hacia la superficie, deja una huella tenue en las ondas sonoras, una marca que la heliosismología, el estudio de las oscilaciones del Sol, puede detectar. EarlyDetect lee mapas horarios de potencia acústica y mediciones del campo magnético del SDO."
+        },
+        {
+          "t": "p",
+          "x": "'La parte más difícil es que las regiones activas empiezan a crecer bajo la superficie visible del Sol, donde la estructura magnética no se puede observar directamente', explicó Alexander Kosovichev, profesor distinguido de física en NJIT y codirector del proyecto. 'Es un poco como notar un compás levemente desafinado dentro de una orquesta extremadamente ruidosa.'"
+        },
+        {
+          "t": "p",
+          "x": "La columna vertebral del modelo es un transformer, la misma arquitectura que usan los grandes modelos de lenguaje como ChatGPT. Tirona, que se incorporó al equipo el año pasado, y el resto del equipo descubrieron algo inesperado: el filtrado añadido para resaltar patrones importantes en realidad estaba arruinando los pronósticos. Kosovichev dijo que eso fue lo más sorprendente. 'Esperábamos que aislara patrones útiles de corto plazo, pero en cambio promedió y borró las fluctuaciones tenues que daban las alertas más tempranas.' Tirona dijo: 'La señal que el filtro eliminaba resultó ser realmente importante para predecir cuándo emergería una región activa.'"
+        },
+        {
+          "t": "p",
+          "x": "Tras entrenarse con observaciones de SDO/HMI, el equipo probó el modelo en regiones activas que nunca había visto. La versión con mejor rendimiento detectó precursores un promedio de 9.24 horas antes de que la región activa se volviera visible, superando tanto a un modelo transformer estándar como a los métodos de referencia existentes. Mengjia Xu, líder del proyecto y profesora asistente de ciencia de datos en NJIT, dijo que el estudio muestra que los modelos de aprendizaje automático avanzados abren nuevas posibilidades para la predicción del clima espacial. El equipo también publicó un conjunto de datos abierto llamado SolARED."
+        },
+        {
+          "t": "p",
+          "x": "Aún así, no está lista para pronósticos en tiempo real. Como se entrenó con eventos de aparición conocidos, todavía produce falsas alarmas y en ocasiones predice tarde. Una alerta de que una región activa está emergiendo tampoco predice una erupción solar o una eyección de masa coronal. Tirona dijo: 'Sería realmente genial si estos modelos algún día ayudaran a predecir el clima espacial. Aún no llegamos ahí, pero es un paso emocionante.'"
+        }
+      ]
     }
   }
 }

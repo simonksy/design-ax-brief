@@ -1579,6 +1579,423 @@
           "x": "Design Mechs in VR Using Substance 3D Modeler se puede ver con una suscripción a The Gnomon Workshop, que incluye más de 300 tutoriales. La suscripción cuesta 57 dólares al mes o 499 dólares al año, y también hay una prueba gratuita."
         }
       ]
+    },
+    "design/design-alien-no-mesh-shader": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49683/images/6a7afda7da4c2/contain_1200x630.jpg",
+          "cap": "Un alien hecho enteramente con un shader de Three.js."
+        },
+        {
+          "t": "p",
+          "x": "Este alien adorable, visualizado por el desarrollador sénior Drin, parece 3D pero no lo es. Está hecho con Three.js, y lo que produce la sensación de 3D no es la geometría, sino la matemática del shader."
+        },
+        {
+          "t": "p",
+          "x": "Detrás no hay malla, ni textura, ni un solo vértice. Solo hay matemática funcionando dentro del shader. La escena consiste en un único quad de pantalla completa, y cada píxel se calcula en el fragment shader mediante ray marching sobre un campo de distancia con signo."
+        },
+        {
+          "t": "p",
+          "x": "Al final, la matemática del shader se encarga de la profundidad, la forma y el volumen sobre una superficie plana. Técnicamente es un plano completamente plano, pero genera la ilusión de volumen. El ray marching y los SDF son técnicas que los artistas técnicos usan para crear visuales estilizados y sin geometría directamente en la GPU."
+        },
+        {
+          "t": "p",
+          "x": "Hay varias formas de lograr un falso 3D convincente. Una de ellas es cómo el director del corto en Blender Dust of the Simulacrum resolvió la distorsión de lente gran angular. El logotipo hecho para Web Entangled Prophecy salió de Unreal Engine 5 usando una retainer box y HLSL."
+        },
+        {
+          "t": "p",
+          "x": "Del lado de Three.js hay ejemplos como el sistema de nevada en tiempo real de Chiro Visuals, el port que Yong Su hizo a Three.js de la demo WebGL de Evan Wallace, y el Three.js Water Pro de Dan Greenheck. Para la configuración del alien, se puede hacer clic en el enlace y probarlo directamente cambiando los colores."
+        }
+      ]
+    },
+    "design/design-apple-mlb-immersive": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?resize=1068%2C712&quality=89&ssl=1",
+          "cap": "Cortesía: Apple, Major League Baseball."
+        },
+        {
+          "t": "p",
+          "x": "Apple y la Major League Baseball (MLB) llevarán varios partidos de béisbol en vivo a Vision Pro. Las transmisiones comienzan el 28 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "Cuando Apple anunció por primera vez el número de partidos que había asegurado para el calendario de béisbol de agosto, no estaba claro si los suscriptores de Apple TV podrían ver partidos inmersivos hacia el cierre de la temporada 2026."
+        },
+        {
+          "t": "p",
+          "x": "Esta vez, Apple anunció cuatro partidos en vivo de “Friday Night Baseball” que se extienden hasta el 18 de septiembre. La transmisión tiene a Paul Severino en la narración, a Xavier Scruggs en los comentarios y a Michelle Margaux como reportera de línea de banda."
+        },
+        {
+          "t": "p",
+          "x": "Estos son los partidos disponibles en Vision Pro. Viernes 28 de agosto: Boston Red Sox contra New York Yankees, 7:00 p.m. hora del este de EE. UU. Viernes 4 de septiembre: Los Angeles Angels contra Pittsburgh Pirates, 6:30 p.m. Viernes 11 de septiembre: San Diego Padres contra San Francisco Giants, 10:00 p.m. Viernes 18 de septiembre: San Francisco Giants contra Los Angeles Dodgers, 10:00 p.m."
+        },
+        {
+          "t": "p",
+          "x": "Igual que con la transmisión inmersiva de la NBA de los Los Angeles Lakers a comienzos de este año, los partidos de MLB también se emitirán en el formato propio de Apple de video inmersivo espacial 3D a 180 grados. Los espectadores pueden elegir entre varios puntos de vista, con repeticiones, alineaciones de los equipos y estadísticas flotando en su espacio."
+        },
+        {
+          "t": "p",
+          "x": "Las transmisiones están disponibles para los usuarios de Vision Pro que tienen una suscripción a Apple TV. Eso incluye Australia, Canadá, Alemania, Hong Kong, Japón, Corea del Sur, Taiwán, el Reino Unido y Estados Unidos, entre otros. Quien se pierda un partido puede ver en cualquier momento la repetición completa y los paquetes de momentos destacados en la app de Apple TV para Vision Pro."
+        }
+      ]
+    },
+    "design/design-artstation-sketchfab-sale": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc-1280-80.webp",
+          "cap": "ArtStation y Sketchfab se unen a la familia de KitBash3D y Greyscalegorilla. Imagen: KitBash."
+        },
+        {
+          "t": "p",
+          "x": "ArtStation sigue siendo una de las comunidades de arte digital más grandes en línea. Tiene más de 10 millones de usuarios registrados. Con miles de artistas digitales usándola como su sitio principal de portafolio, es comprensible que la noticia de otro cambio de dueño no resulte tranquilizadora."
+        },
+        {
+          "t": "p",
+          "x": "Epic Games, creador de Fortnite y Unreal Engine, anunció que vende ArtStation y el sitio de activos 3D Sketchfab. Ambos fueron adquiridos hace cinco años, en 2021. El nuevo propietario es KitBash, que opera la plataforma de activos 3D KitBash3D y Greyscalegorilla."
+        },
+        {
+          "t": "p",
+          "x": "Con este acuerdo, Epic se concentrará en Unreal Engine 6, Fortnite, la Epic Games Store y su ecosistema de desarrolladores. KitBash obtiene un conjunto de plataformas que abarca educación, portafolios y descubrimiento de artistas, hasta activos 3D, materiales y publicación listos para producción."
+        },
+        {
+          "t": "p",
+          "x": "KitBash ve esta adquisición como una oportunidad para construir un ecosistema más amplio que cubra todo el proceso creativo, desde la formación hasta la publicación. KitBash3D ya cuenta con una vasta biblioteca de activos 3D y entornos listos para producción, mientras que Greyscalegorilla se ha dedicado a materiales, plugins y herramientas para artistas 3D y diseñadores de motion."
+        },
+        {
+          "t": "p",
+          "x": "El co-CEO de KitBash, Banks Boutté, dijo: “Son plataformas donde la gente ha construido portafolios, carreras y comunidades. Esa confianza es real, y nuestra primera prioridad es proteger lo que los usuarios más valoran en cada plataforma, escuchar a quienes dependen de ellas y construir el futuro con cuidado”."
+        },
+        {
+          "t": "p",
+          "x": "ArtStation fue fundada en 2014 por Leonard Teo y Kevin Strike como un centro de portafolios para artistas digitales de juegos, cine y entretenimiento. También hubo preocupación cuando Epic la adquirió en 2021, pero unirse al ecosistema benefició a muchos artistas, y Epic además redujo las comisiones del mercado. Bill Clifford, SVP a cargo del ecosistema de Unreal en Epic Games, dijo que “KitBash ampliará las oportunidades para que los artistas se conecten entre sí y muestren su trabajo de nuevas formas en cada etapa del proceso creativo”."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo propietario dice que, por ahora, nada cambia para los artistas. Los portafolios, bibliotecas y formas de trabajo existentes se mantienen igual. Los clientes de KitBash3D y Cargo también conservan sus kits, activos y suscripciones. La propiedad intelectual sigue en manos de los artistas, y KitBash ha dejado claro que protegerá la propiedad, la atribución y los derechos de creación. Los precios de suscripción y las condiciones de acceso tampoco cambian, y la venta de activos 2D/3D e impresiones continúa sin interrupciones. Sin embargo, en ninguno de los dos anuncios se menciona ningún cambio de propiedad en Fab, el mercado de activos digitales de Epic."
+        },
+        {
+          "t": "p",
+          "x": "A largo plazo, queda por ver cómo se integrará este ecosistema ampliado. Algunos artistas son optimistas y creen que la consolidación ampliará su visibilidad, mientras que otros temen la concentración de la propiedad y una menor competencia entre plataformas."
+        },
+        {
+          "t": "p",
+          "x": "La expectativa más extendida es que, con el cambio de propietario, también cambie la política de IA de ArtStation. Muchos opinan que la primera tarea de KitBash debería ser reducir el AI slop acumulado en ambas plataformas. Para quienes se fueron de ArtStation en los últimos años, esa es la única razón para volver. ArtStation escribió en X que está escuchando la voz de los artistas, y que “hay confianza que ganar, mucho que aprender y un trabajo importante por hacer”."
+        }
+      ]
+    },
+    "design/design-figma-make-time-savings": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Herramientas de IA como Figma Make han estado acortando los ciclos de diseño al encargarse del trabajo repetitivo y mecánico que antes ocupaba a los equipos. Pero pocos equipos saben realmente cuánto tiempo ahorraron, o dónde obtuvieron el mayor beneficio. El equipo de ciencia de datos de Figma se propuso encontrar una respuesta, pero métodos habituales como las pruebas A/B o la inferencia causal no lograban capturar toda la complejidad de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Yendo directo al resultado: el trabajo de diseño hecho con Figma Make fue un 20% más rápido y un 16% más fácil. Quienes más se beneficiaron fueron los PM, con tareas un 23% más rápidas y un 37% más fáciles. Estas cifras provienen de un ensayo controlado aleatorizado en el que 100 participantes resolvieron las mismas tareas con y sin Make."
+        },
+        {
+          "t": "p",
+          "x": "La medición es complicada por las variables de confusión. La antigüedad, la experiencia y la dificultad de la tarea afectan todas la velocidad de trabajo. Los métodos estadísticos habituales no logran eliminar estas variables, por lo que no se puede distinguir cuánto del cambio en productividad corresponde realmente a la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3ba7180ee5d497a81d831a7220c41f866bb60deb-3264x2176.jpg?w=1080&h=720&q=75&fit=max&auto=format",
+          "cap": "Comparación de ventajas y desventajas entre pruebas A/B en línea, inferencia causal con datos observacionales y ensayos controlados aleatorizados."
+        },
+        {
+          "t": "p",
+          "x": "Vale la pena pensar en dar Make a un grupo y desactivarlo en otro. En teoría las variables de confusión se distribuyen al azar, pero no hay forma de controlar si ambos grupos realizan tareas igualmente complejas. La inferencia causal a partir de datos de registro también resultó un camino cerrado. El emparejamiento por puntaje de propensión (PSM) solo funciona si todas las variables de confusión están capturadas en los registros, y un ID de usuario anonimizado no revela la experiencia subjetiva de diseño de esa persona. Tampoco había variables utilizables como instrumentales (IV) en los registros."
+        },
+        {
+          "t": "p",
+          "x": "La opción que quedaba era un ensayo controlado aleatorizado (RCT). La asignación aleatoria distribuye las variables de confusión por igual entre los dos grupos, hacer que todos resuelvan las mismas tareas elimina las diferencias en las propiedades de la tarea, y un equipo de investigación capacitado que coordina las sesiones reduce la variación. El tamaño de la muestra se fijó ejecutando un análisis de poder con los tamaños de efecto de investigaciones previas del sector, como el RCT de GitHub Copilot: 50 diseñadores de producto y 50 gerentes de producto, 100 personas en total."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8bc8653bcddc30417de400df036e41bf803a1a4a-1608x812.jpg?rect=1,0,1606,812&w=1080&q=75&fit=max&auto=format",
+          "cap": "Tarea 1. Convertir un diseño que empieza en modo claro a modo oscuro."
+        },
+        {
+          "t": "p",
+          "x": "Las tareas tenían que ser algo que cualquiera reconociera, sin importar su experiencia, así que se optó por editar una publicación de redes sociales. Se diseñaron tres escenarios: cambiar la interfaz y la apariencia, crear una pantalla nueva a partir de un diseño base, y añadir interacción y capacidad de respuesta. Lo más difícil fue encontrar un punto que no fuera demasiado fácil para los diseñadores de producto ni demasiado difícil para los PM. Las tareas se rediseñaron tres veces tras pilotos internos. Como las diferencias en la forma de conducir las sesiones eran en sí mismas otra variable de confusión, se creó un guion y una guía de resolución de problemas que siguieron todos los facilitadores."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/121c4ffabf507588adc72768f9cae241dbfc636f-3264x2176.jpg?w=1080&h=720&q=75&fit=max&auto=format",
+          "cap": "El tiempo de finalización bajó un 20%, la facilidad de la tarea subió un 16% y la usabilidad percibida de Figma subió un 15%."
+        },
+        {
+          "t": "p",
+          "x": "Los 100 participantes completaron el estudio. El tiempo acumulado de finalización de tareas bajó un 20%, la facilidad de la tarea subió un 16% y la usabilidad percibida de Figma subió un 15%. Los PM mejoraron en un margen mayor que los diseñadores de producto en todas las medidas. Según un modelo de regresión con interacción, los PM que usaron Make recuperaron un 23% acumulado, y en el conjunto del experimento alcanzaron una eficiencia casi igual a la de los diseñadores de producto que no usaron Make."
+        },
+        {
+          "t": "p",
+          "x": "Dónde aparecían las ganancias dependía del rol. Los PM reportaron mejoras en las dos tareas más fáciles y rápidas, pero no mostraron mejoras estadísticamente significativas en la tarea más difícil y larga. Los diseñadores de producto mostraron el patrón contrario, con una mejora de tiempo significativa solo en la tarea más difícil. Para los diseñadores, Make funciona como una herramienta que adelanta el trabajo de cero a uno y el diseño de interacciones complejas; para los PM, es más bien una herramienta básica que les permite aportar rápidamente al diseño."
+        },
+        {
+          "t": "p",
+          "x": "El análisis combinó pruebas de hipótesis con modelos de regresión OLS, y cualquier resultado no señalado de otra forma es estadísticamente significativo. El diseño del estudio permite afirmar con confianza que Make causó estas mejoras. Figma está preparando un RCT similar en torno a su nuevo agente de diseño."
+        }
+      ]
+    },
+    "design/design-lottie-tactile-ux": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Al construir una interfaz web táctil, que rebota y se rompe, la opción habitual en la industria es un motor físico. Matter.js, Cannon.js o WebGL hecho a mano se han convertido en el estándar para sitios gamificados e inmersivos."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de Isadora Agency llegó a la misma encrucijada al construir Stress Release, un juguete digital para liberar estrés que deja a creativos agotados golpear, estirar y deformar personajes animados de la interfaz. Al revisar motores físicos, encontraron una diferencia decisiva: “Un motor físico crea un movimiento plausible, pero en nuestro caso necesitábamos el movimiento que el animador había querido.”"
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/02-intentional-motion.png",
+          "cap": "Una tarjeta de personaje. Muestra la personalidad y la identidad visual que definen la secuencia de animación y los estados de interacción."
+        },
+        {
+          "t": "p",
+          "x": "Lo que necesitaban no era una simulación realista, sino una respuesta especificada fotograma por fotograma. Así que abandonaron por completo los motores físicos y construyeron la experiencia con control programático del estado de Lottie, manipulación del DOM y matemática basada en distancia."
+        },
+        {
+          "t": "p",
+          "x": "El requisito central era un control totalmente determinista. Los archivos Lottie en .json que creó el animador exigían una secuenciación fotograma por fotograma. La reacción “mega squeeze”, por ejemplo, necesitaba exactamente 181 fotogramas de acumulación seguidos de una secuencia de liberación. Manejar el estado con la API nativa de Lottie permitió disparar las animaciones con precisión sin sobrescribir los fotogramas clave que el animador había trabajado con tanto cuidado."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/03-tactile-feedback.png",
+          "cap": "Las respuestas de Lottie, ligadas a la detección de clics basada en distancia, crean la sensación de golpear realmente al personaje."
+        },
+        {
+          "t": "p",
+          "x": "El runtime de Lottie renderiza internamente la animación vectorial JSON como SVG. Los elementos se seleccionan por ID y clase CSS, y el comportamiento lo dirigen los segmentos de Lottie, las transformaciones CSS y la matemática del evento de clic. Cada clic se mide respecto al punto central del personaje: las coordenadas de la página se convierten en coordenadas locales del personaje y luego se calcula la distancia con el teorema de Pitágoras."
+        },
+        {
+          "t": "p",
+          "x": "Ese único número decide a la vez la puntuación, la intensidad de la respuesta y la posición de la explosión. Dentro de los 10 píxeles del centro son 100 puntos, dentro de los 40 píxeles son de 70 a 90 puntos, y más allá de 145 píxeles son 0 puntos. Se parece a una diana con anillos de puntuación concéntricos. El Lottie de la explosión se reposiciona según las coordenadas del clic."
+        },
+        {
+          "t": "p",
+          "x": "Los clics en escritorio y los toques en móvil se capturan con escuchadores de eventos nativos. Al no añadir una capa de raycasting, el modelo de interacción nunca se desalinea con el renderizado de la animación. Cada personaje guarda idle, squeeze1 a 3 y las animaciones finales como rangos de fotogramas, y cada clic reproduce el siguiente segmento antes de volver al bucle idle."
+        },
+        {
+          "t": "p",
+          "x": "Construir sobre el DOM eliminó la necesidad de volver a medir las cajas delimitadoras en cada dispositivo. El redimensionamiento responsivo se maneja solo con variables CSS, y el SVG de Lottie se escala con naturalidad sin perder su estado."
+        },
+        {
+          "t": "p",
+          "x": "El JSON de Lottie es pesado. Con 21 animaciones de personajes más las variantes de explosión encima, mantener el rendimiento, sobre todo en móvil, exigió mucho trabajo de ajuste. performance.now() mide el tiempo de carga inicial, y si supera los 5 segundos se marca como conexión lenta. En lugar de cargar las 21 de una vez, se cargan de dos en dos de forma secuencial con await para que los dispositivos de gama baja no se bloqueen. Las animaciones de explosión, que son pesadas, se destruyen y se vuelven a crear sobre la marcha para mantener baja la memoria en estado de espera. En la pantalla de estantería, donde las 21 corren a la vez, la calidad se reduce a 0,5 y la velocidad a 0,6; en la pantalla de juego, centrada en un solo personaje, la calidad se mantiene en 1."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/05-conclusion.png",
+          "cap": "El estado “mega squeeze”. Las secuencias de animación superpuestas, las transiciones de fondo y la retroalimentación sincronizada en el tiempo intensifican la sensación de impacto."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología la define el requisito de diseño. Como necesitaban una respuesta visual personalizada y controlada, eligieron el control de estado programático en lugar de la simulación emergente. El código solo escucha, calcula y dispara el gatillo; la sensación la definió el animador."
+        }
+      ]
+    },
+    "design/design-figma-skills": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Desde hoy, se pueden crear skills para el agente de Figma directamente dentro del producto. Las skills que se crean pueden publicarse en la comunidad para compartirlas con otros."
+        },
+        {
+          "t": "p",
+          "x": "Una skill es, en el fondo, un archivo de texto en markdown. Con su forma de instrucciones ordenadas o de prompt, a primera vista parece cosa de ingenieros, pero en realidad se ajusta bien para contener el criterio y el gusto que los diseñadores llevan consigo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1536&h=1536&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "Ilustración de elementos de interfaz —flechas, cartas, caras sonrientes, flores y cuadrados— encadenados a lo largo de un camino a rayas"
+        },
+        {
+          "t": "p",
+          "x": "La autora encontró el truco mientras hacía un tutorial de motion. Escribió una skill que aplica su curva de easing habitual al keyframe en el que está trabajando, la llamó /ease-like-miggi, y cuando el equipo la usó, el motion del equipo empezó a moverse como el suyo propio."
+        },
+        {
+          "t": "p",
+          "x": "Así es como se hace. Se le da al agente un frame de diseño como referencia, o se le indican los pasos y pautas deseadas, y se le pide que construya una skill. Cuando aparece un borrador, se previsualiza y se prueba directamente en el chat. Mientras se usa, se ajustan los pasos, se cambia el formato, o se abre el editor de markdown para refinarla a mano. Muchas también funcionan junto al servidor MCP de Figma en agentes de terceros."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "Maqueta de prompts de trabajo con IA alrededor de un lienzo de diseño móvil"
+        },
+        {
+          "t": "p",
+          "x": "Algunas de las diez que eligió la comunidad. /xray-scan convierte una foto o una descripción en algo parecido a una radiografía: blanco y negro con bordes brillantes que, al superponer varias, se vuelve un collage (Adele Ix). /find-animation-opportunities señala dónde algo debería moverse y está estático, y a la inversa, dónde no debería moverse y se mueve, incluso sugiriendo las cifras (Emil Kowalski, Linear). /camera-pan-and-zoom construye un rig de cámara sin tocar los frames para crear panorámicas, zooms y giros (Mallory Dean, Figma)."
+        },
+        {
+          "t": "p",
+          "x": "/better-interface entrega al agente un manual de reglas personal que abarca tipografía, maquetación, accesibilidad, motion y textos de producto (Jakub Krehel, Interfere). /component-handoff toma un solo componente y lo despliega en un frame de documentación: desde un encabezado con nombre, versión y responsable, hasta una vista previa en vivo, una cuadrícula de variantes, qué hacer y qué no, el desglose de estados y la anatomía completa (Mauro Berteri, Itti Digital)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/efe4f75c324a81587d2bda37df7de8eca3c0c8fb-3070x1727.png?rect=1,0,3068,1727&w=1080&h=608&q=75&fit=max&auto=format",
+          "cap": "Especificación de un componente de botón deslizante con los estados de espera, arrastre, carga y completado junto a una tabla de especificaciones"
+        },
+        {
+          "t": "p",
+          "x": "/create-color mapea los rellenos, trazos y sombras visibles a tokens o estilos, y detecta colores codificados a mano. Si hay un degradado, anota la posición, el color y la variable vinculada de cada punto (Ian Guisard, Uber). /analyze-components revisa una página para señalar componentes huérfanos, duplicados y errores de nombres, y sustituye instancias todas a la vez (Amy Ha, Walmart)."
+        },
+        {
+          "t": "p",
+          "x": "/ui-state-expander toma una sola pantalla y la despliega en estados de carga, vacío, error, deshabilitado, datos parciales y casos límite, añadiendo disparadores, textos, transiciones y notas de implementación (Linda Ojo, Paystack). /superfuture-design-review clasifica los resultados de una revisión en rojo para bloqueantes, amarillo para correcciones recomendadas y verde para lo que ya funciona (Joey Primiani). /usability-test-guide coloca preguntas de guía junto a los frames para construir una guía de pruebas de usabilidad (Neha Kodi)."
+        },
+        {
+          "t": "p",
+          "x": "El agente de diseño está abierto en beta para los usuarios con asiento Full en los planes Professional, Organization y Enterprise. Los asientos Collab, Dev y View pueden usarlo en borradores. Es gratuito durante la beta."
+        }
+      ]
+    },
+    "design/design-onshape-featurescript-mcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PTC lanzó el FeatureScript MCP Server para Onshape. Permite construir funciones de CAD propias usando lenguaje natural y IA."
+        },
+        {
+          "t": "p",
+          "x": "Se presentó como parte de Onshape Labs. Basta describir con palabras la función deseada para que la IA la construya en FeatureScript, la pruebe, la depure y la refine hasta que funcione como se pretende."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/08/Onshape-Labs-MCP-1024x576.jpg",
+          "cap": "Onshape Labs FeatureScript MCP"
+        },
+        {
+          "t": "p",
+          "x": "Las empresas automatizan tareas repetitivas, construyen herramientas adaptadas a su flujo de trabajo y, en el proceso, dejan registrado el conocimiento de ingeniería."
+        },
+        {
+          "t": "p",
+          "x": "Por ejemplo, una función construida al darle a la IA un PDF con definiciones de un estándar aplica una hélice compleja con un solo clic. Una herramienta para estanterías de alambre o rejillas de fregadero toma parámetros fijados por el usuario y genera patrones de cuadrícula y estructuras de soporte. En la práctica, se construye un botón dedicado para el cuello de botella que siempre frenaba el trabajo."
+        },
+        {
+          "t": "p",
+          "x": "“FeatureScript es el lenguaje de abstracción que usamos para construir nuestras propias funciones, y lo liberamos todo como código abierto. Se puede construir la funcionalidad que falta, añadir lo que se necesite, y algunos clientes ya lo estaban haciendo así. Nuestra intención es que la gente adapte el sistema CAD a sus propias necesidades”, dijo Darren Henry, gerente general y vicepresidente senior de Onshape en PTC, en una vista previa anticipada ofrecida a DEVELOP3D."
+        },
+        {
+          "t": "p",
+          "x": "“Como todos saben, a la IA le gusta programar. Con Onshape basta para tener un conjunto sólido de herramientas estándar, y desde ahí se extiende según las necesidades de cada uno. Un CAD estándar sólido y ajustado exactamente a lo que se necesita: ahí es donde creemos que está la fortaleza de Onshape.”"
+        },
+        {
+          "t": "p",
+          "x": "El FeatureScript MCP Server también amplía el alcance a LLM de programación como Claude, ChatGPT y Gemini. Construido sobre el Model Context Protocol, conecta la IA directamente con el código de FeatureScript."
+        },
+        {
+          "t": "p",
+          "x": "Pedirle a la IA que escriba una función de FeatureScript ha sido posible desde hace años. La diferencia ahora es que también prueba y evalúa. “Escribe el código, lo prueba, evalúa la salida y lo reescribe si es necesario. Juzga por sí misma si el resultado coincide con el objetivo, y hace todo esto de forma autónoma”, explicó Cody Armstrong, Director Senior de Innovación en IA de Onshape."
+        },
+        {
+          "t": "p",
+          "x": "Lo que especialmente entusiasma a Onshape es la memoria persistente. “Registra por sí sola, en la memoria, qué interacciones tuvo en el pasado. El objetivo es evitar repetir el mismo error en el futuro”, dijo Armstrong. Al escribir y leer notas sobre errores y soluciones pasadas, el agente mejora con el tiempo."
+        },
+        {
+          "t": "p",
+          "x": "No se limita a construir funciones dentro del propio CAD. Trabajando junto con LLM externos, también construye prompts que levantan modelos de CAD conformes a estándares. En un caso de un intercambiador de calor de carcasa y tubos, se completó un ensamblaje de 267 piezas sin que una persona trazara una sola línea de boceto. Se incluyó una lista de corte, junto con varias tablas, entre ellas una hoja de especificaciones de soldadura."
+        },
+        {
+          "t": "p",
+          "x": "Ya sean imágenes, PDF, estándares o pautas internas, mientras más se proporcione, mejores serán los resultados iniciales. Aun así, una función puede construirse a partir de un solo prompt sencillo."
+        },
+        {
+          "t": "p",
+          "x": "“El futuro de la IA en CAD no es un simple text-to-CAD, sino text-to-code-to-CAD”, dijo David Katzman, EVP y gerente general de Onshape y Arena en PTC. “El verdadero valor de la IA está en convertir una idea validada en una herramienta que se puede reescribir una y otra vez. Con el nuevo FeatureScript MCP Server, Onshape se ha convertido en el CAD de producción más reescribible que existe.”"
+        }
+      ]
+    },
+    "design/design-toolbag-503": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Marmoset lanzó la versión 5.03, la más reciente de Toolbag, su software de renderizado en tiempo real y lookdev para juegos, VFX y trabajo de portafolio."
+        },
+        {
+          "t": "p",
+          "x": "Vuelve a ser una actualización gratuita bastante grande. Se añadieron nuevas capas de Text y Scatter, y ahora soporta perfiles de luz IES, unidades físicas de luz y los dispositivos de entrada SpaceMouse de 3Dconnexion."
+        },
+        {
+          "t": "p",
+          "x": "Toolbag es una herramienta para manejar el lookdev, la composición y el renderizado final con poca carga. Lo usan mucho los artistas de videojuegos, pero su uso crece también en otros campos. Permite revisar rápidamente un modelo importado mientras se ajustan materiales PBR y la iluminación, y desde Toolbag 4.0 en 2021 también admite pintura de texturas en 3D. Se pueden hornear mapas de textura y pasarlos a otras herramientas DCC o motores de juego, o renderizar directamente ahí imágenes fijas y animación."
+        },
+        {
+          "t": "p",
+          "x": "Con 5.03 llegan dos nuevas capas de textura. La capa Text proyecta letras sobre un modelo o las alinea siguiendo la superficie de la malla, con control sobre el estilo de fuente, el espaciado entre letras y la alineación. La capa Scatter dispersa elementos como piedras u hojas sobre una superficie determinada, o los distribuye proyectándolos desde planos 2D, 3D o de calcomanía."
+        },
+        {
+          "t": "p",
+          "x": "En el plano del rendimiento, ahora se pueden pausar o desactivar los mosaicos UDIM uno por uno, y se añadió un sistema de caché de capas que hace que un proyecto promedio sea “unas 2,7 veces” más rápido. Importar diseños vectoriales como logotipos o etiquetas en SVG también es posible ahora."
+        },
+        {
+          "t": "p",
+          "x": "La iluminación cambió de dos maneras orientadas a reproducir la luz real con más precisión. Ahora soporta perfiles IES que capturan el patrón de caída real de las luminarias, que se pueden obtener gratis en línea. También es posible especificar el brillo en unidades físicas, lo que marca una diferencia especialmente notable en escenas de interior. El motion blur se puede previsualizar en el viewport, y los cielos procedurales ganaron controles de Sun Scale y Sky Color."
+        },
+        {
+          "t": "p",
+          "x": "El horneado ahora permite fijar una distancia máxima de rayo, y la calidad del mapa de curvatura mejoró, especialmente cerca de las costuras UV. También se admite la selección múltiple de materiales. La navegación en el viewport ahora funciona con la línea SpaceMouse de 3Dconnexion."
+        },
+        {
+          "t": "p",
+          "x": "Toolbag 5.03 funciona en Windows 10 y macOS 13.5 o posterior, y admite GPU de AMD, Apple Silicon y NVIDIA. Las licencias perpetuas cuestan 399 dólares para artistas individuales y 1299 dólares para estudios. Las suscripciones cuestan 18,99 dólares al mes por persona y 49,99 dólares al mes para estudios."
+        }
+      ]
+    },
+    "design/design-vision-pro-webxr-sim": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“¿Una porción de jalea física cortada a mano?”"
+        },
+        {
+          "t": "p",
+          "x": "James C. Kane presentó una demo de simulaciones de gel, arena y agua ejecutándose en el Apple Vision Pro. La construyó combinando WebXR y WebGPU a través de Three.js, y dijo que, hasta donde él sabe, es la primera vez que se usa Three.js para esa combinación."
+        },
+        {
+          "t": "p",
+          "x": "El enlace a la demo está en el artículo. Aclaró que solo la probó en escritorio y en un Apple Vision Pro M5 con la beta para desarrolladores de visionOS 27."
+        },
+        {
+          "t": "p",
+          "x": "También se enlazó otro trabajo de James: convertir la demo de agua WebGPU de Yong Su en algo parecido a una piscina real en un Apple Vision Pro M5, y ejecutar la demo de iluminación por clústeres de Sponza de Brandon Jones en el mismo dispositivo usando WebGPU y WebXR."
+        },
+        {
+          "t": "p",
+          "x": "También se destacó como algo que vale la pena ver el proyecto XR de Lucas Martinic, que hace dudar de si todo lo que rodea es real."
+        }
+      ]
+    },
+    "design/design-adobe-stock-ai-studio": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "VIiPvMoEnsY"
+        },
+        {
+          "t": "p",
+          "x": "Un video de 11 minutos publicado por el canal de Adobe Creative Cloud. El título es \"How To Turn One Image Into Multiple Brand Assets With Adobe Stock's AI Studio\"."
+        },
+        {
+          "t": "p",
+          "x": "Trata sobre cómo convertir una sola imagen de Adobe Stock en múltiples activos que se ajustan perfectamente a la estética de una marca. Alexei Dela Cuesta expone de principio a fin su propio flujo de trabajo con Adobe Stock AI Studio."
+        },
+        {
+          "t": "p",
+          "x": "El orden es así: cambiar el color, ajustar la tipografía, sustituir el fondo y, por último, darle movimiento a la imagen."
+        },
+        {
+          "t": "p",
+          "x": "Adobe sitúa la utilidad de este flujo en situaciones con plazos y presupuestos ajustados, dirigido a quienes necesitan producir contenido que llame la atención con rapidez incluso en esas condiciones."
+        }
+      ]
     }
   }
 }

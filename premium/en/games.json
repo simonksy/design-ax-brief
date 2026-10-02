@@ -1373,6 +1373,620 @@
           "x": "What gets said on stage needs to be taken with a grain of salt. Phrases like “the game with the most AI in the world” are familiar marketing language, and there's no evidence yet that the promise will really translate into a different experience. What's clear is that this ranks among the most ambitious generative-AI experiments announced recently. Even meeting part of its goals could mark a line in the evolution of NPCs."
         }
       ]
+    },
+    "games/games-deanbeat-external-devs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“There's a question I keep turning over these days: how will outside developers use AI tools for the game development and publishing companies that are their clients?” Dean Takahashi opened his August 8 column, The DeanBeat, this way."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/06/halo-sword.jpg",
+          "cap": "Master Chief in Halo Campaign Evolved. Source: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "The example he gives is Microsoft. When Microsoft laid off 1,600 people in early July and said it would cut 1,600 (or 1,250) more, Takahashi interviewed outside developers who lost their jobs as a result. The shadow of the layoff decisions fell even on developers who weren't Microsoft employees."
+        },
+        {
+          "t": "p",
+          "x": "The column asks how the outsourcing and co-development studios that support AAA art and production pipelines will actually deploy AI tools for their publisher clients amid a shrinking ecosystem. The question itself shifts from “Will AI replace developers?” to “Whose pipeline is it when the work sits outside the company?”"
+        },
+        {
+          "t": "p",
+          "x": "The rest of the piece is reserved for GamesBeat's paid membership, GB MAX, so this is as far as the translation goes."
+        }
+      ]
+    },
+    "games/games-relu-mimesis-ai-design": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "KRAFTON JAPAN held a talk event, “KRAFTON × ReLU Games Development Talk,” in Tokyo on August 5, 2026. Staff from ReLU Games, a creative studio under KRAFTON, ran sessions covering how they use AI in game development, using the development of the PC horror game MIMESIS as a case study."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/001.jpg",
+          "cap": "MIMESIS"
+        },
+        {
+          "t": "p",
+          "x": "MIMESIS is a four-player co-op horror game pitted against an AI that mimics players. Its core idea is “cooperation with an entity you can't trust”: to survive, players must team up with teammates, yet face the dilemma that the teammate beside them might not be human. The AI-driven NPC, MIMESIS, mimics a player's movement and voice in real time, blending naturally into the group. The game has sold 2 million copies on Steam since its early access launch in October 2025."
+        },
+        {
+          "t": "p",
+          "x": "AI Creative team leader Lee Gi-mun's session, “A Studio That Produces 3 to 4 Prototypes a Week,” introduced how the studio uses AI. The studio sees AI as bringing a new grammar to games, just as the internet once gave rise to online games and smartphones brought new experiences to mobile games."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/002.jpg",
+          "cap": "Lee Gi-mun"
+        },
+        {
+          "t": "p",
+          "x": "Right now, though, AI in the world is mostly used just as a tool. Handling a camera requires knowledge of lenses and optics, but that alone doesn't make a good film. To make a good film, you need to learn how to craft a good story. The same goes for AI and game development, Lee Gi-mun said: the question is how to use AI to create new kinds of fun in games — in other words, “AI game design.”"
+        },
+        {
+          "t": "p",
+          "x": "ReLU Games set three principles. First, build a large volume of output bottom-up: any staff member can make, release, and revise a game directly. Second, start from a Seed, not an idea: instead of a design document, make a prototype called a “Seed” that lets people actually play and confirm the fun. Third, focus on solving problems across job boundaries."
+        },
+        {
+          "t": "p",
+          "x": "To put the three principles into practice, ReLU Games built its own tool, “Nolan.” When a staff member uploads a Seed's source code, AI turns it into something anyone can play and publishes it. Other staff who try it don't just comment on what could be improved — they also use AI agents to attempt to improve the source code itself."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/004.jpg",
+          "cap": "Nolan's workflow"
+        },
+        {
+          "t": "p",
+          "x": "What matters is that, in Nolan, AI's job is only to build and deploy the source code — people themselves come up with the actual improvements. Leaving build and deployment to AI cuts down on the need for server engineers, letting each staff member release more Seeds in less time. The company has released 114 Seeds internally, all made within five days by a single AI agent specialist."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/014.jpg",
+          "cap": "Ahn Jae-hong"
+        },
+        {
+          "t": "p",
+          "x": "MIMESIS director Ahn Jae-hong's session, “How a Prototype That Almost Got Buried Was Reborn as a 2-Million-Copy Game,” covered that process. The prototype, “Doppelganger,” was a hardcore escape-action game pitting three players against three doppelgangers. Playtest feedback was mostly negative: people could tell new AI technology was involved, but said the game itself wasn't fun, or that it could have been made without AI technology at all. Development was halted in August 2024. Ahn Jae-hong said that, given limited resources, “without a quick decision, we would have spent a lot more time on the same concept.”"
+        },
+        {
+          "t": "p",
+          "x": "The team then noticed that co-op horror games with comic elements were popular on Steam. That genre has a culture of laughing together at players' failures. From this came the idea of mimicry: rather than combat, imitating a teammate's movement and voice to make other players doubt whether a companion is real or a monster could become a new kind of fun. The demo came together in three months and ranked 4th among the world's most-played demos at Steam Next Fest in January 2025."
+        },
+        {
+          "t": "p",
+          "x": "Large language models also came up. Lee Gi-mun explained that the behavior part and the voice part are separate. Behavior analysis feeds over 4,000 pieces of information into a neural network, which doesn't suit an LLM, and since MIMESIS deals only with its own specific information, there's no need for an expensive LLM. The voice part uses recorded voices rather than synthesis."
+        },
+        {
+          "t": "p",
+          "x": "Going forward, the major update MIMESIS 3.0 aims to expand the idea so that players doubt the entire game. Lee Gi-mun said the studio plans to release one more title within 2026 and is also considering using new technologies such as “overhearing AI.”"
+        }
+      ]
+    },
+    "games/games-supergirl-concept-art-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A behind-the-scenes video documenting the making of Supergirl was hastily taken down. It had failed to win people over. Far from showcasing the crew's craft, everyone's attention locked onto a single moment in the video: a part where the team appeared to have used AI to create concept art for one character."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/lobo-in-the-supergirl-movie-he-is-riding-on-a-motorbike-and-cheering.png",
+          "cap": "Lobo in Supergirl"
+        },
+        {
+          "t": "p",
+          "x": "In the scene in question, a few crew members look over several versions of Lobo, played by Jason Momoa. Rather than poring over carefully hand-drawn concept art, it looks like AI-generated images that overlay various design ideas onto Momoa's face. Almost no one is happy about the possibility that this was part of the creative process."
+        },
+        {
+          "t": "p",
+          "x": "The video focused on how the character Lobo was realized for the new Supergirl film. The official upload, however, can no longer be viewed. It has been switched to private."
+        },
+        {
+          "t": "p",
+          "x": "This came after a clip from the video spread widely online. In that clip, the crew looks over concept art that appears clearly AI-generated in order to settle on one element of Lobo's design. Many people voiced disappointment and anger that generative AI had been anywhere near Supergirl's production."
+        },
+        {
+          "t": "p",
+          "x": "No evidence of AI use elsewhere has surfaced, but the incident has cast suspicion on other parts of the film too. Even if it was limited to concept art, there's still a chance other characters got the same treatment. The earliest work may have been done by hand, with AI used only for finishing touches on the design, but that's disappointing all the same. Filmmaking has run perfectly well on human creativity alone. It's also hard to argue that a comic-book movie needs AI reference art."
+        },
+        {
+          "t": "p",
+          "x": "It hasn't been confirmed that the AI backlash is why the video was taken down. Still, it's the most plausible reason. That was, after all, the part of the video that drew the most attention. So what happens now? Will they re-upload it with that part cut? It's too late for that. A statement explaining how generative AI was used seems more likely, and once the fuss dies down, the video will probably quietly go public again."
+        },
+        {
+          "t": "p",
+          "x": "As of 10:25 p.m. UK time, a correction was added to the article, noting that the use of generative AI is suspected, not confirmed."
+        },
+        {
+          "t": "p",
+          "x": "One thing remains clear: big studios still have a long way to go before AI slop becomes normal."
+        }
+      ]
+    },
+    "games/games-twitch-ai-optout": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Yesterday, the Twitch streaming community learned that its content was being used to train Amazon's AI models. The way they found out wasn't exactly above board. Rather than issuing a formal notice and asking creators for permission, Twitch had turned the feature on by default on streamer accounts and quietly buried the opt-out deep inside the platform's security settings."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2023/12/6148c6a04be14bf3f0811b1506446a1b.jpg",
+          "cap": "Image: Twitch / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "In a livestream explaining the AI training program and answering the community's questions and concerns, Twitch's Chief Product Officer Mike Minton gave a striking answer when asked why the setting was opt-out rather than opt-in: “If it were opt-in, nobody would turn it on. Well, honestly, that's the answer. That's why it's on by default.”"
+        },
+        {
+          "t": "p",
+          "x": "Gamers dislike generative AI. People who make games dislike it too. And Twitch is now watching, in real time, that streamers who play and broadcast games dislike it as well. Social media is flooded with posts from streamers angry that their content is being used for AI training — and that the setting is on by default. Critics have called it deceptive, since no one can turn off a setting they don't even know exists."
+        },
+        {
+          "t": "p",
+          "x": "Streamers are fighting back in whatever ways they can. The biggest one is simply telling each other what's going on and where to turn the setting off."
+        },
+        {
+          "t": "p",
+          "x": "The annoying part is that opting out only works on your own channel. Even if you turn it off on your channel, stepping into another streamer's chat who hasn't opted out means whatever is said there still gets used for AI training. So streamers started using the tag “aioptedout” to signal that a channel is safe to chat in."
+        },
+        {
+          "t": "p",
+          "x": "Twitch's feedback forum has also become an outlet. The top-voted suggestion in the “Creators and Stream Features” category is “Make all AI features opt-in, with opt-out as the default.” It had gathered 15,714 votes as of this writing. AI may be everywhere these days, but at least in the gaming community, players are loudly saying this isn't it."
+        }
+      ]
+    },
+    "games/games-gamescom-dev-survey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nearly half of respondents named AI-assisted development as the biggest industry trend of the next three years."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/gcdev-announcement-2025.jpg",
+          "cap": "Image: Gamescom"
+        },
+        {
+          "t": "p",
+          "x": "Gamescom Dev released the results of its annual speaker survey. 83% of respondents said AI affects team structure or productivity."
+        },
+        {
+          "t": "p",
+          "x": "Among the 100 speakers surveyed, nearly half named AI-assisted development as the most important industry trend of the next three years. It was followed by hardware and RAM prices at 28%, the creator economy at 7%, and user-generated content at 5%."
+        },
+        {
+          "t": "p",
+          "x": "30% said they want to use AI minimally in development, down from 33% last year. In contrast, 34% said code and production benefit most from AI assistance."
+        },
+        {
+          "t": "p",
+          "x": "On jobs, 36% said roles would change rather than team sizes shrinking, while 33% expected teams to get smaller. 14% said individual output would increase, and 17% said there would be no workforce cuts."
+        },
+        {
+          "t": "p",
+          "x": "More than half of respondents named economic uncertainty as the industry's biggest challenge. Market saturation (38%), discoverability (35%), and rising development costs (30%) followed."
+        },
+        {
+          "t": "p",
+          "x": "To improve discoverability, respondents pointed to greater transparency in platform algorithms (32%), better store recommendations (22%), and more curated editorial coverage (21%)."
+        },
+        {
+          "t": "p",
+          "x": "For future opportunities, 37% cited smaller development teams, followed by community building and new publishing models, each at 15%."
+        },
+        {
+          "t": "p",
+          "x": "Opinions were split on which business or revenue model will dominate the market over the next three years. Digital and packaged premium games led at 29%, followed by live services at 24% and item-based free-to-play at 21%."
+        }
+      ]
+    },
+    "games/games-saber-chatgpt-writer": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "It's been alleged that publisher Saber Interactive made heavy use of generative AI on its upcoming driving sim Rideshare “Stimulator,” even replacing some staff with bots like ChatGPT, without disclosing AI use on its Steam store page."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GwurUCWSHLDo5mea9ApPzg-1920-80.jpg",
+          "cap": "Image: Saber Interactive"
+        },
+        {
+          "t": "p",
+          "x": "Rideshare “Stimulator” first became known through a trailer Saber and developer Unigine released on July 30. On August 11, former lead writer Stella Sacco reacted to the news on Bluesky, saying Saber had buried its AI use."
+        },
+        {
+          "t": "p",
+          "x": "“I didn't even know it had been announced. I was the lead writer on this game. And Saber replaced me with ChatGPT partway through development,” Sacco said. “The passenger voices were all AI too. Either they changed direction partway through, or they're just not disclosing it on Steam.”"
+        },
+        {
+          "t": "p",
+          "x": "Sacco also pointed to a post she made on December 21, 2023: “I got replaced at work on a game I was working on. By ChatGPT.”"
+        },
+        {
+          "t": "p",
+          "x": "Her LinkedIn history states she was at Saber from July 2023 to July 2024, as “lead writer on several titles in Saber's portfolio, including STUNTMAN HOLLYWOOD.”"
+        },
+        {
+          "t": "video",
+          "yt": "lQxBAE1tE8g"
+        },
+        {
+          "t": "p",
+          "x": "Rideshare “Stimulator” bills itself as a driving simulator layered with a rideshare business sim. Players plot routes across a city, talk to passengers, and chase a high driver rating."
+        },
+        {
+          "t": "p",
+          "x": "“Dodge traffic, follow the rules, race against the clock, and drop off quirky passengers, each with their own story that's interesting, funny, or just plain weird,” reads the Steam description. A newly created Saber website page uses the same wording."
+        },
+        {
+          "t": "p",
+          "x": "Conspicuously missing from that Steam page is an AI disclosure. Valve requires games that use generative AI in “content that is shipped with the game and is consumed by players” to disclose that on Steam. According to the Steamworks content survey documentation, that includes “artwork, sound, narrative, localization, and more.”"
+        },
+        {
+          "t": "p",
+          "x": "Many developers have told GamesRadar+ that they support Valve's generative AI policy. There is opposition within the industry, though, with Epic Games and Epic Games Store boss Tim Sweeney a notable example."
+        },
+        {
+          "t": "p",
+          "x": "The allegation has already spread to the YouTube comments on the public trailer, and to the PS5 version's video as well."
+        },
+        {
+          "t": "p",
+          "x": "“'Replaced the writers and voice actors with AI!' Got it.” reads one comment posted an hour before this article's deadline."
+        },
+        {
+          "t": "p",
+          "x": "“AI writing with AI voice.” read another comment posted an hour before that."
+        },
+        {
+          "t": "p",
+          "x": "“No AI disclosure on the Steam page, planning to fix that? Seems like at least one writer got pushed out by chatgpt.” reads yet another recent comment."
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+ has asked Saber Interactive for comment on Rideshare “Stimulator's” AI use and policy."
+        },
+        {
+          "t": "p",
+          "x": "In a separate, unrelated note, Saber CEO Matt Karch recently confirmed that Rideshare “Simulator” does in fact contain a joke aimed at Gearbox CEO Randy Pitchford."
+        }
+      ]
+    },
+    "games/games-unreal-runtime-inference": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BFfebAtBLfU"
+        },
+        {
+          "t": "p",
+          "x": "As games increasingly adopt real-time inference, memory usage and runtime efficiency now matter as much as the quality of the model itself."
+        },
+        {
+          "t": "p",
+          "x": "Recorded at Unreal Fest Chicago 2026, this talk covers how Databiomes has optimized AI models for use in actual game runtimes, working closely with AMD to balance fidelity, performance, energy efficiency, and platform constraints."
+        },
+        {
+          "t": "p",
+          "x": "Databiomes and AMD share lessons learned from moving offline-trained models into real-time execution in Unreal Engine. That includes strategies for easing memory pressure, ways to cut latency, and how to scale across a wide range of hardware spanning CPUs, GPUs, and NPUs."
+        },
+        {
+          "t": "p",
+          "x": "The talk also shows how AMD's technology and plugins help trim runtime costs further, the goal being AI features that fit within real-world performance and memory budgets. After watching, it becomes clearer what it actually takes to ship AI in games today."
+        },
+        {
+          "t": "p",
+          "x": "Posted by the Unreal Engine channel on August 7, 2026, the video runs a little over 33 minutes."
+        }
+      ]
+    },
+    "games/games-zhong-kui-no-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Game Science is taking its time making Black Myth: Zhong Kui."
+        },
+        {
+          "t": "p",
+          "x": "On Weibo, Yang Qi, art director of the Black Myth series and co-founder of Game Science, answered a fan's question about whether AI would be used to speed up development. “We'll stay away from AI-generated content at the design and asset stages.” According to a translation shared by a Reset Era user, he said: “Not out of resistance — we're simply trying to hold our ground until the end.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GEb56f3tQ68JQjKBgKXBUi-1920-80.jpg",
+          "cap": "Image: Game Science"
+        },
+        {
+          "t": "p",
+          "x": "To expand on his thinking, he brought up Nolan's latest epic, The Odyssey. “At a time when digital filmmaking and 3D post-production seem to have hit a dead end, look at Nolan,” Qi wrote."
+        },
+        {
+          "t": "video",
+          "yt": "ZygQP-U3MtM"
+        },
+        {
+          "t": "p",
+          "x": "“He's doing great. He's even shaking things up using older techniques,” he continued. “There's no ‘last train’ we absolutely have to catch. It's fine to stay at a small inn for a while. Besides, there's plenty of time for things like AI. No need to rush.”"
+        },
+        {
+          "t": "p",
+          "x": "That's welcome news, since technologies like generative AI and chatbots are becoming more and more common across the industry. Tomb Raider: Legacy of Atlantis, Call of Duty: Black Ops 7, and Kingdom Hearts are three cases confirmed or suspected to have used generative AI assets in some form, and all three drew considerable backlash."
+        },
+        {
+          "t": "p",
+          "x": "Stellar Blade: Blood Rain also used an AI music video as part of its promotion, and its creative director sees the technology as essential to the Korean game development scene. It's reassuring to see Game Science hold out against that trend and lean solely on human-led creation."
+        },
+        {
+          "t": "p",
+          "x": "Still, the possibility that it could enter the pipeline later lingers. One can only hope the negative reaction surrounding Stellar Blade gives Game Science enough reason to hold back."
+        }
+      ]
+    },
+    "games/games-castle-walls-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon has released the first long-form drama made entirely with AI on any major global streaming platform."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/image.png",
+          "cap": "Image credit: GamesBeat"
+        },
+        {
+          "t": "p",
+          "x": "The period drama “Castle Walls” landed on Amazon Prime Video on August 12. Two 15-minute episodes were released together on the same day, making it the world's first all-AI television series. Production was handled by AI Yapım, the AI division of Ay Yapım, a three-time International Emmy-winning Turkish production company. The story is drawn from the legend of Alamut Castle, the central setting of Assassin's Creed Mirage."
+        },
+        {
+          "t": "p",
+          "x": "The visuals were produced by AYDNA, an in-house video diffusion model trained only on Ay Yapım's own content catalog, to which it holds the rights. AI Yapım said in its press release that this was a deliberate choice to avoid data scraped from outside sources, at a time when the industry is under scrutiny over the provenance of training data. The pipeline combined prompt enhancement, creative development and a proprietary storyboarding system, with AYDNA generating the finished footage. Dubbing for each language, however, was done by human voice actors, and the performances were not AI-generated."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/External-Alamut-BTS-46-1024x576.png",
+          "cap": "One of the hand-drawn images made while creating “Castle Walls.”"
+        },
+        {
+          "t": "p",
+          "x": "There's roughly a two-year gap between the two episodes by AI development standards, and it shows on screen. The first episode was built shot by shot using an inpainting technique that predates today's mainstream image-generation models — a labor-intensive older method of piecing together frames one by one. The second episode added more advanced generative AI tools to the pipeline. Rather than appearing as separate works released years apart, that shift plays out side by side within a single series."
+        },
+        {
+          "t": "p",
+          "x": "Even though AI generated the visuals, all narrative and editorial decisions were made by people. The creative team was led by writers Kerem Deren and Çisil Hazal Tenim, who also worked together on the internationally distributed drama “El Turco.” Before AI entered the process, human artists hand-drew sketches of characters and locations to establish the backgrounds and character designs first. Those sketches were included in the press kit, which AI Yapım said was meant to show where human input sits within the production process."
+        },
+        {
+          "t": "p",
+          "x": "The production pedigree is solid for an AI series. Parent company Ay Yapım is a three-time International Emmy winner, with credits including “Endless Love (Kara Sevda),” the first Turkish drama to win an International Emmy; “Şahsiyet,” which earned Haluk Bilginer a Best Actor award; and “Family Secrets (Yargı).” AI Yapım also runs WAIFF Turkey, the Turkish chapter of the World AI Film Festival, and is listed as an AI production capability partner for the International Emmy's education program."
+        },
+        {
+          "t": "p",
+          "x": "For gamers, the Assassin's Creed connection serves as the entry point. Alamut Castle was already fictionalized in Ubisoft's Mirage, and here it becomes the thread that ties the drama's story together. “Castle Walls” is now streaming worldwide on Amazon Prime Video."
+        }
+      ]
+    },
+    "games/games-fan-translation-no-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "There's a game that stayed hidden from Western audiences for a long time: the Super Famicom title Kamaitachi no Yoru. Remakes have been localized before, but the original had never been properly translated — until translator and programmer But Thou Must did it without using any AI at all."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/08/IMG_6615.jpg",
+          "cap": "Some ports replaced the silhouettes with anime characters."
+        },
+        {
+          "t": "p",
+          "x": "The title translates roughly to “Night of the Sickle Weasel.” A kamaitachi is a yokai with blade-like arms that rides on whirlwinds. The game runs almost entirely on text, and because Chunsoft labeled the genre a “sound novel,” it reads more like a book than most visual novels. Protagonist Tooru and his girlfriend Mari get trapped at the Spur mountain lodge during a ski trip, and murders follow one after another in the snowstorm. There are about 40 bad endings, and players have to get through all of them to reach the real culprit. It sold 750,000 copies in 1994 and later became a foundational work for the visual novel genre."
+        },
+        {
+          "t": "p",
+          "x": "Translating it was also a technical battle. The original Japanese version capped name entry at six characters. “Six characters was enough for the default names, Tooru and Mari. But where you have to enter the name of who you think the killer is, six characters wasn't enough,” But Thou Must said on Discord. They wrote their own assembly code to extend the culprit's name to ten characters, and Tooru and Mari's to seven."
+        },
+        {
+          "t": "p",
+          "x": "They drew a clear line against AI translation. “I don't agree with the attitude that an AI fan translation is 'better than nothing.' If it's a game's first translation, that patch becomes the player's first and probably only experience of it. Even if a human-made fan translation comes along later, most people won't care — they've already played the game.”"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/08/IMG_6603.jpg",
+          "cap": "Innocent Tears, an original Xbox game that was Japan-only."
+        },
+        {
+          "t": "p",
+          "x": "Patches for Innocent Tears and London Spirit Detectives came out the same week. Innocent Tears' GitHub page reads, “No AI was used in this patch. Only pure stupidity.” The English patch for Kowloon's Gate, released earlier this year, belongs to the same lineage."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/08/IMG_6601.jpg",
+          "cap": "London Spirit Detectives, a PlayStation RPG released by Bandai in 1999."
+        },
+        {
+          "t": "p",
+          "x": "bigbanana23, the hacker behind London Spirit Detectives, isn't opposed to AI itself but is skeptical about using it for this kind of work. “Once you start leaning on AI for this, you lose the chance to develop your own skills, and the pool of people who actually understand the process behind this hobby slowly thins out.” For translator Aishsha, it was more personal — they lost a mass of clients who switched to AI chasing speed and lower cost, and several of them came back saying, “please look at this mess.”"
+        },
+        {
+          "t": "p",
+          "x": "Even so, this is a golden age for fan translation. Kowloon's Gate translator _dk says feng shui and Taoist theory aren't properly laid out on the English-language internet, so there's little for an LLM to scrape, and that context simply couldn't be left to AI. “As long as the community doesn't settle for 'good enough,' projects will keep coming,” said Innocent Tears translator SnowyAria."
+        }
+      ]
+    },
+    "games/games-gen1recomp-not-vibe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Over the past few weeks, a Pokemon PC port called Gen1Recomp spread quickly. Mods that turn the original Game Boy RPG into a 3D voxel world played a big part in that. It launched supporting Pokemon Red, Blue and Yellow, and has now added beta support for Pokemon Gold. Developer BryanThaBoi also answered in detail how the project used AI — and that answer might not be what people expected."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/A9zneYLDSTHZ4axMdnF9pB.jpg",
+          "cap": "Image credit: Nintendo / @Charmi"
+        },
+        {
+          "t": "p",
+          "x": "Gen1Recomp works much like other classic-game PC ports we've seen before. It runs the classic Pokemon games exactly as remembered, the way an emulator would, but with added graphics options. If you want to zoom the camera way out to see the map from far away, you can do that."
+        },
+        {
+          "t": "p",
+          "x": "What's really exciting is the room for modding. Gen1Recomp already has a ton of mods attached to it, including some that turn the entire game world into a 3D voxel map, opening up a completely new perspective. That novelty is what pushed Gen1Recomp into the spotlight almost overnight."
+        },
+        {
+          "t": "p",
+          "x": "If you dislike seeing AI tangled up in fan projects, there's bad news. Gen1Recomp was made with AI — or more precisely, made with the help of AI, and BryanThaBoi is very insistent on that distinction."
+        },
+        {
+          "t": "p",
+          "x": "“You see this? Pretty cool, right? And this is just the start. Modders have already put out over 100 new mods. On top of that, there are 6 translations in the most widely used languages, with more on the way.” The developer posted this on August 3."
+        },
+        {
+          "t": "p",
+          "x": "“No, this recomp wasn't 'made with Claude.'” That's a statement the developer posted on Discord. “Did I use AI? Yes. Those are two different statements, but the problem is that most people hear them as one. Specifically, that using AI means vibe coding. That's not true. It can be, but not in this case.”"
+        },
+        {
+          "t": "p",
+          "x": "What BryanThaBoi means by vibe coding is inexperienced developers using AI to paper over gaps in their own knowledge. That's the same kind of thing the developers of the PS3 emulator RPCS3 were trying to block earlier this year when they decided to stop accepting AI-generated code submissions altogether."
+        },
+        {
+          "t": "p",
+          "x": "BryanThaBoi insists their own use of AI is different — an experienced software developer using AI as a supporting tool, the way they would in their day job. It's the same spirit as Valve head Gabe Newell calling AI developers' “cheat code.”"
+        },
+        {
+          "t": "p",
+          "x": "“When someone asks me point blank, 'is this AI,' I've answered no — because it's not what they mean by it,” BryanThaBoi said. “The moment you say 'I used AI,' people assume vibe coding, that you're hands-off and don't even know how to develop. That's not what happened here. So it's nearly impossible to answer people who've already closed their minds on this topic, or who don't understand it at all and are just angry that AI touched anything.”"
+        },
+        {
+          "t": "p",
+          "x": "To people who get angry at their stance, BryanThaBoi responds with a single GIF. It reads “eat a shoe,” and you can probably guess what it shows. Making the position clear counts for something, but this response probably won't sit well with those who reject AI outright."
+        }
+      ]
+    },
+    "games/games-no-ai-clause": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "New technology always runs into the same problem. Cutting-edge tech moves fast, on a timescale of a few years, while humans — soft, fleshy bodies carrying complex bureaucracies and legal systems — move at a glacial pace. That exact scene is playing out with generative AI."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7gLeER4Zzrhn8o2b3mzzR6.jpg",
+          "cap": "Image credit: Larian"
+        },
+        {
+          "t": "p",
+          "x": "For a few years now, the games industry has been pouring out excited talk: that AI would let small studios make big games, that soon it would generate concept art, music and game dialogue on its own. Naturally, the tired phrase “democratizing art” never failed to come up."
+        },
+        {
+          "t": "p",
+          "x": "In practice, generative AI is closer to a plagiarism machine. It often spits out near-copies, and even when it doesn't, running it requires countless pieces of copyrighted work (some of which, at times, literally need to be burned away). That legal heat has scared game companies, lawyer Haley MacLean said in an interview with GamesRadar+."
+        },
+        {
+          "t": "p",
+          "x": "MacLean, who handles corporate IP at Voyer Law with a focus on games, says AI-ban clauses have especially surged in the past year. “It's flipped completely, especially over the last year. Two or three years ago you'd see it only occasionally … now even small, bare-bones publishing studios are like, 'let's just put it in to cover ourselves.'”"
+        },
+        {
+          "t": "p",
+          "x": "“So now it's just boilerplate. In fact, if I come across a contract without a generative AI clause, and the publisher is also making assets, I'll push to add one — because we need it locked in that the publisher can't use generative AI for the game's marketing, porting, or QA.”"
+        },
+        {
+          "t": "p",
+          "x": "Even looked at through the cold eyes of capital, this isn't surprising. There's tension between platforms and developers over clearing AI slop off their own shores. Platforms recommend attaching big, clear disclosures so users can filter out the junk, but the developers who actually attach those disclosures end up sinking because of it."
+        },
+        {
+          "t": "p",
+          "x": "In June, a data analyst found that AI disclosures cut the number of reviews a game receives by as much as 53% and make overall ratings more negative. MacLean says that's why the attitude “I don't want to use generative AI because the community will hate it” has become so widespread."
+        }
+      ]
+    },
+    "games/games-unity-copilot-tips": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "To introduce its beta AI features, Unity brought in Stacey Haffner — a former Microsoft principal developer advocate who has spent more than a decade making indie games and posting development tutorials on YouTube every other week. She shared five tips for bringing GitHub Copilot into Unity work."
+        },
+        {
+          "t": "p",
+          "x": "First, don't fight the context window — structure the work around its limits. “The context window is the AI's working memory for a session, and it has a limit.” Depending on the underlying model, performance can start to sag even before that limit is reached, and if you compress a session after it's already sagged, that sagging state becomes the new baseline. For big features, a main thread breaks the work into small pieces and directs it, spinning up separate implementation and verification agents and running them until they pass."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/d285b1d006f0280dc1aea5511855b78349fb02d7-1899x1068.png",
+          "cap": "The Copilot chat panel drafting an implementation plan for a modular quest system."
+        },
+        {
+          "t": "p",
+          "x": "Second, set up the project environment ahead of time. Putting configuration files in the project's .github folder lets you tune a general model's behavior to this domain. Always-on Custom Instructions hold defaults like coding rules, the Unity engine version, and the rendering pipeline. Agents are split into domain-expert personas, like shaders or UI Toolkit, while Skills are modular instructions that only get called in when the relevant task comes up, saving memory."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/07134e27cd64c1b1421906af04fe17f079525058-1873x1053.png",
+          "cap": "The customization screen for managing agents, skills, and instructions."
+        },
+        {
+          "t": "p",
+          "x": "Third, planning does half the work. Attaching instructions to the /plan command gets Copilot to scan the codebase and map out an implementation path before writing a single line of code. Describe the feature or fix in as much detail as possible, then tell it to investigate and come back with questions — edge cases surface in that back-and-forth. Only after the broad strokes are set — which existing systems to use, which classes and methods to create — do you let it write code."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/9872d7e08b6ca61afecf62f70a3225c69a0321c7-1861x528.png",
+          "cap": "The input field requesting an implementation plan with the /plan command."
+        },
+        {
+          "t": "p",
+          "x": "Fourth, don't skip code review. “AI-written code needs review. Even more so if it's code that's going to stay in the project long-term.” When an implementation comes back, read it like a pull request. Select the code and get an explanation with /Explain, or have it critique the code it just wrote with /Review, then attach inline comments to the diff and send it back as a batch. That habit protects code quality and builds a deeper understanding of the system."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/fbad7017f82f7447bf9613e0761a455a386d0aba-1876x1055.png",
+          "cap": "The screen getting an explanation of selected code via /explain."
+        },
+        {
+          "t": "p",
+          "x": "Fifth, use AI as a personal tutor. To finally tackle shader study she'd long put off, Haffner built a Unity Shader Graph agent tuned toward teaching, and worked on a ground-targeting overlay for combat. For the first two shaders, she worked through nodes and formulas with guidance; for the third, she built it alone but asked for hints instead of answers whenever she got stuck. “By the end, I actually understood what I had built.”"
+        }
+      ]
+    },
+    "games/games-artstation-kitbash3d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games has handed off ArtStation and Sketchfab, the 3D art and game asset platforms it bought in 2021, to KitBash3D, an asset-library company. The sale price wasn't disclosed. Among ArtStation's 10 million registered users, those speaking up are welcoming the news. One user wrote that they now have hope the platform will regain its “old glory” and “clear out all the AI flooding the marketplace.”"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/Epic-Games-and-ArtStation-initial-purchase-image-Epic-Games-ArtStation.jpg",
+          "cap": "Image: Epic Games / ArtStation"
+        },
+        {
+          "t": "p",
+          "x": "As Creative Bloq noted, Epic Games, KitBash3D, and ArtStation each announced the sale separately on August 10. Epic's post put its weight on continuing to prioritize “Unreal Engine 6, Fortnite, the developer ecosystem, and the Epic Games Store,” while ArtStation's post focused on how the sale affects users."
+        },
+        {
+          "t": "p",
+          "x": "\"As of today, ArtStation and Sketchfab are becoming part of KitBash, the company behind the 3D art platform KitBash3D and Greyscalegorilla,\" ArtStation's statement reads. \"With the addition of ArtStation and Sketchfab's art-publishing and discovery platforms, artists will be supported through the full process of turning ideas into form, sharing their work, and building a career. Nothing changes about how creators use ArtStation and Sketchfab. Your portfolios, libraries, and core workflows continue running exactly as they are.\""
+        },
+        {
+          "t": "p",
+          "x": "\"We deeply care about supporting professional artists, and the time, craft, and effort that goes into that work. Your voice plays an important part in shaping what comes next. Keep sharing it. We're here, and we're listening.\" That's from a post ArtStation's official account put up on August 11."
+        },
+        {
+          "t": "p",
+          "x": "Ever since Epic acquired the two platforms in 2021, artists have complained that AI art and assets have been \"plastered everywhere, burying real people's work, and routinely used to deceive potential clients.\""
+        },
+        {
+          "t": "p",
+          "x": "Artists on the r/ArtStation subreddit are also optimistic about what comes after the sale. \"Free from Epic and their love of AI slop. Hope it's good news,\" one user commented. \"I don't trust Epic Games. They genuinely have a talent for ruining everything they touch,\" another user wrote. \"I'm really happy my two favorite websites are no longer in their grip.\""
+        },
+        {
+          "t": "p",
+          "x": "Not entirely unrelated to the platform leaving Epic's hands, ArtStation followed up its official statement with another post on X, saying it's \"excited to see what the next chapter looks like\" and that it's \"listening\" to user feedback. \"There's trust to earn, a lot to learn, and important work ahead. The feedback we hear from artists matters.\""
+        }
+      ]
     }
   }
 }

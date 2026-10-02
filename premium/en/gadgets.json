@@ -1680,6 +1680,408 @@
           "x": "There's plenty of competition, starting with iPads that use the Apple Pencil. Even so, the Movinkpad is a device built around one thing, drawing, and the company behind it has stuck around in this space for a long time. Over a weekend, spending a few hours and drawing a handful of silly pictures, it turned out to be a pretty fun way to spend an afternoon."
         }
       ]
+    },
+    "gadgets/gadgets-abbott-lingo-google-health": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Abbott has partnered with Google Health in a multi-year collaboration to connect its continuous glucose monitor, Lingo, to the Google Health app. Lingo users will see their own metabolic data in Google Health and receive lifestyle and diet advice flagged by AI through the Google Health coach."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/intro-1786473283.jpg",
+          "cap": "Abbott headquarters sign | Source: Engadget"
+        },
+        {
+          "t": "p",
+          "x": "Lingo is a device aimed at adults who don't use insulin. Engadget reported back in 2023 that continuous glucose monitors were trending among people without diabetes. But it found little research backing up any benefit that group gets from scrutinizing their blood sugar so closely."
+        },
+        {
+          "t": "p",
+          "x": "A piece published by the Johns Hopkins Bloomberg School of Public Health in 2026 struck a similar tone. Whether continuous glucose monitors are a health benefit for people without diabetes still isn't clear. They do make people more conscious of what they eat, but a body without diabetes corrects for blood sugar spikes on its own. Fixating too much on the numbers can even end up disrupting eating habits."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Idris Mugal said that even trained physicians need other indicators to read continuous glucose monitor results. For someone without training, he said, “they don't even know how to interpret it. So it's completely useless.”"
+        },
+        {
+          "t": "p",
+          "x": "The two companies will also run what they call “the largest real-world metabolic health study yet” as part of this partnership, looking at how activity, sleep, and metabolic health are intertwined. Still, there's a chance the results end up steering people toward buying yet another device. It's better to talk with your own doctor before changing any health habits."
+        }
+      ]
+    },
+    "gadgets/gadgets-infimaker-k1": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Over the past decade, making physical objects at home has mostly meant 3D printers. Lately, computer-numerical-control equipment, or CNC, has been encroaching on that territory. Prices have dropped compared with industrial machines, and the CAM software used to plan tool paths has become approachable for hobbyists too. That's driven a rise in desktop milling machines that can handle metal, wood, and various thermoplastics."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/InfiMaker-K1-CNC-machine-scaled.jpg",
+          "cap": "InfiMaker K1 | Source: InfiMaker"
+        },
+        {
+          "t": "p",
+          "x": "InfiMaker K1's pitch is that it skips CAD entirely. It turns a single flat image into a 3D model that AI can carve. On desktop CNC machines, commercial software supporting 4- and 5-axis machining has always been a barrier, and this is meant to lower that barrier. It also accepts standard 3D files like STL, STEP, and OBJ as is."
+        },
+        {
+          "t": "p",
+          "x": "Machining runs on 5 axes. Beyond the basic 3 axes, it carves while tilting or rotating the target. Tilt ranges from -30° to +110°. It also has an automatic tool changer that swaps between five tools, plus a ruby centering probe."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/07/InfiMaker-K1-models-scaled.jpg",
+          "cap": "A model carved by the K1 | Source: InfiMaker"
+        },
+        {
+          "t": "p",
+          "x": "The spindle runs at 1.5kW with a top speed of 20,000 rpm. The company cites 0.01mm repeat accuracy. Materials it can carve include acrylic, aluminum, brass, composites, copper, engineering plastics, jade, resin, steel, titanium, wax, and wood."
+        },
+        {
+          "t": "p",
+          "x": "The Kickstarter launches today. The early-bird price is $5,199, 40% below the planned retail price of $8,599. Higher-tier backers get a water-cooling unit, vise jaws, and a wireless jog handwheel."
+        }
+      ]
+    },
+    "gadgets/gadgets-ios27-siri-voice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "iOS 27's fifth beta widened how much you can tweak Siri's AI voices. Before this, speed and expression controls only worked on two American voices."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/1riNGgoEtyPAwjvtb3-3HRrKwmE=/400x0/article-new/2026/08/ios-27-siri-voice.jpg?lossy",
+          "cap": "Speed and expression controls for Siri voices | Source: MacRumors"
+        },
+        {
+          "t": "p",
+          "x": "Now the same controls apply to 11 voices: seven American and four British. Speed sets how fast it talks, and expression sets how strongly it emphasizes words. All of the adjustment happens on-device."
+        },
+        {
+          "t": "p",
+          "x": "There's a hardware catch, though. On iPhone, it only works on the 17 Pro, 17 Pro Max, and iPhone Air. On Mac, it needs an M3 chip or later with at least 12GB of RAM, and on iPad, an M4 iPad Pro or later model with at least 12GB of RAM."
+        }
+      ]
+    },
+    "gadgets/gadgets-windows11-ai-unbundle": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Microsoft released the August cumulative update KB5121003. It targets Windows 11 24H2 and 25H2, raising builds to 26100.9165 and 26200.9165 respectively. Improvements previewed in July's optional update are now included in this security patch."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-Patch-Tuesday47.jpg",
+          "cap": "Windows 11 August Patch Tuesday | Source: Notebookcheck"
+        },
+        {
+          "t": "p",
+          "x": "On Copilot+ PCs, users can now remove just the image-generation AI component on its own. This is done under Settings > System > AI components. It opens a path to removing local AI features one at a time instead of all at once."
+        },
+        {
+          "t": "p",
+          "x": "Windows Hello's enhanced sign-in security now extends beyond built-in fingerprint readers. It supports compatible external fingerprint readers too, bringing hardware-isolated authentication to desktops without sensors and to Copilot+ devices. It's found under Settings > Accounts > Sign-in options."
+        },
+        {
+          "t": "p",
+          "x": "File Explorer's Details view no longer lists every size in KB. It now shows KB, MB, or GB as appropriate. Middle-clicking a folder in the address bar or on Home opens it in a new tab. Search now tolerates typos in installed app names better, starts matching from two characters, and ranks Settings results higher."
+        },
+        {
+          "t": "p",
+          "x": "Voice Access gained a voice isolation mode that filters out nearby speech and noise. Precision touchpad settings let users adjust scroll and zoom speed, and turn on accelerated scrolling."
+        },
+        {
+          "t": "p",
+          "x": "The rollout happens automatically through Windows Update. Enterprises follow their usual steps via WSUS or Intune. Deployment of updated Secure Boot certificates also continues ahead of their existing expiration dates. Support for Windows 11 24H2 Home and Pro ends on October 13, 2026."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-china-llm-alibaba": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Reuters reported that Apple trained its own large language model for the Chinese market. The choice means Apple Intelligence features on devices sold in China will not rely on an outside model."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+          "cap": "Apple Intelligence. In China, a different model runs this feature."
+        },
+        {
+          "t": "p",
+          "x": "Sources in the report say the LLM was developed with help from Alibaba. It marks a shift from Apple's earlier strategy of relying on local models to bring generative AI to China."
+        },
+        {
+          "t": "p",
+          "x": "The AI features are expected to launch in China within the next few months. The report calls this a “dual-track strategy” for deploying AI in China. It lets Apple clear the regulatory hurdles that have tripped up other US tech companies."
+        },
+        {
+          "t": "p",
+          "x": "This makes Apple the first foreign company approved by the Chinese government to offer its own AI model."
+        },
+        {
+          "t": "p",
+          "x": "Apple had earlier agreed with Chinese regulators to add Alibaba's Qwen model to Apple Intelligence features, similar to the ChatGPT extension used in other regions. Apple briefly posted a support document in China explaining how Mac users could connect Alibaba's Qwen AI to Siri and its writing tools, then pulled it entirely within a day."
+        }
+      ]
+    },
+    "gadgets/gadgets-lg-cloid-nvidia-humanoid": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Legacy hardware companies are adding humanoids to their roadmaps one by one. This time it's LG's turn, though the timeline is still being handled carefully."
+        },
+        {
+          "t": "p",
+          "x": "LG's bipedal humanoid runs on Nvidia's robotics stack, with a target date of early 2027. It sits within a broader plan that extends into AI factories and autonomous vehicle platforms."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/01/LG-CLOiD-Image-1.jpg?resize=1200%2C720",
+          "cap": "LG CLOiD, unveiled earlier this year. This wheeled robot will enter factories first."
+        },
+        {
+          "t": "p",
+          "x": "Earlier this week, LG and Nvidia signed a memorandum of understanding at Nvidia's Santa Clara headquarters. LG Chairman Kwang Mo Koo and Nvidia CEO Jensen Huang were both present."
+        },
+        {
+          "t": "p",
+          "x": "At the center of it is the bipedal humanoid LG plans to unveil in time for CES 2027 in early 2027. Reportedly it will include the Nvidia Jetson Thor chip for inference and the Isaac GR00T foundation model for processing. It will also carry Nvidia Halos, described as the industry's first full-stack safety framework built for robots."
+        },
+        {
+          "t": "p",
+          "x": "Parts will be sourced in-house. Actuators, sensors and batteries will come from LG Electronics, LG Innotek and LG Energy Solution — convenient, and it keeps costs down."
+        },
+        {
+          "t": "p",
+          "x": "LG isn't waiting idly until 2027. This year it will test the wheeled robot LG CLOiD in factories — an industrial version of the home robot unveiled earlier this year. The partnership also includes building a “robot data factory” using LG CNS's PhysicalWorks platform to feed it large volumes of training data."
+        },
+        {
+          "t": "p",
+          "x": "Beyond robots, LG will build two factories over the next two years. By mid-2027 it will build an AI factory reference site using Nvidia's Vera Rubin platform, and by mid-2028 it will raise an 80-megawatt LG AI Factory in Cheonan, South Korea."
+        },
+        {
+          "t": "p",
+          "x": "This reads less like a shift in internal priorities than preparation for a product to bundle and sell alongside another giant company. Worth watching is Nvidia's Halos safety framework. Liability for humanoids sharing floor space with people has been one of the industry's biggest unresolved problems for years."
+        }
+      ]
+    },
+    "gadgets/gadgets-openai-doughnut-companion": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "For months, word has circulated that OpenAI's first piece of hardware would be a screenless smart speaker. It was already known that it would sense its surroundings, be portable anywhere in the home, and proactively offer help. A new report from Bloomberg gives the first clear picture of what the device actually looks like."
+        },
+        {
+          "t": "p",
+          "x": "According to the report, the device is donut-shaped and about the size of a hockey puck. It can be carried from room to room or simply left within reach. The price won't be cheap: OpenAI is reportedly considering a $300 to $400 range, with a launch targeted for 2027."
+        },
+        {
+          "t": "p",
+          "x": "Earlier reports mentioned controlling smart home devices, playing media, answering questions, replying to messages, and calling on ChatGPT to help throughout the day. Voice is the main input, but the device also includes a camera and environmental sensors, letting it read what's happening nearby without being told. Apple is sketching a similar picture with next-generation AirPods that add a camera."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2023/01/apple-homepod-2023-review-14.jpg?resize=3840%2C2160",
+          "cap": "An Apple HomePod 2023 sitting on a desk at home. Photo: Zeke Jones / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Another goal is for the device to get to know its user over time. What it says will shift based on daily rhythms, preferences and past conversations, and it will offer to help before the user even picks up a phone or types a prompt. An advanced, human-like conversational model is of course part of the package. OpenAI has already shown considerable progress on this with the recently unveiled ChatGPT Live."
+        },
+        {
+          "t": "p",
+          "x": "Conversation is handled by a microphone and speaker, with lights signaling whether the device is listening or responding. Part of the device actually moves during interactions, a design meant to evoke the sense of a small robot rather than a speaker sitting still in a corner. It brings to mind WALL-E or R2-D2 — both feel alive, attentive and emotionally present through movement and response alone. OpenAI appears to be chasing the same effect by giving ChatGPT a physical form and an expressive personality."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2021/02/wall-e-movie-2.jpg?resize=1200%2C675",
+          "cap": "WALL-E holding a Rubik's Cube. Image: Walt Disney Studios Motion Pictures"
+        },
+        {
+          "t": "p",
+          "x": "How it will actually play out remains an open question. A moving, donut-shaped AI companion can easily look like a cheap toy if the design or motion is even slightly off. But OpenAI is building the device with former Apple design chief Jony Ive and his studio, LoveFrom, which gives reason to expect a polished object rather than a toy."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI President Greg Brockman has already confirmed the company is preparing a lineup of devices. This small companion could be the first object to give ChatGPT a place of its own in the home."
+        }
+      ]
+    },
+    "gadgets/gadgets-rogbid-visionw-price-floor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rogbid has released the $69.99 VisionW 3-in-1 AI smart glasses. The headline feature is swappable frames, shown off through three styles that cover both outdoor and everyday use."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Rogbid-VisionW.png",
+          "cap": "The Rogbid VisionW. It comes with three interchangeable frames."
+        },
+        {
+          "t": "p",
+          "x": "The first is a thick black wayfarer with dark tinted lenses: 145.7mm front width, 48.8mm lens height, 18mm bridge. The second uses a wider double bridge with dark lenses at 147.4mm width and 48.4mm height. The third is a browline half-rim with clear lenses, the widest of the three at 151mm, with a 44mm lens height."
+        },
+        {
+          "t": "p",
+          "x": "One thing is worth noting: nowhere in Rogbid's product information does it clearly state that all three frames are included in the $69.99 package. The “3-in-1” name and the side-by-side presentation of the three designs suggest that they are, but the company hasn't published a parts list."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-08-12-at-12.35.08AM.png",
+          "cap": "A VisionW spec graphic published by Rogbid."
+        },
+        {
+          "t": "p",
+          "x": "Connectivity runs on Bluetooth, with a 200mAh battery and magnetic charging. One of the product graphics carries the phrase “long battery” alongside the number 39 days, but with no explanation of whether that's standby or actual use time, it's too early to take that as real usage time. It supports 3D surround sound, and the AI voice assistant uses large language models including ChatGPT and Grok. The lenses include blue light and UV blocking."
+        },
+        {
+          "t": "p",
+          "x": "Rogbid says the frames use skin-friendly TR90 material, but the spec images show that two of the three designs have metal fronts. There's no camera anywhere in the published specs. This is a device focused on audio and AI features rather than photo or video."
+        }
+      ]
+    },
+    "gadgets/gadgets-google-health-ai-hallucination": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Right as Google rolled out the Pixel Watch 5, its freshly overhauled Google Health app came under fire. The AI coach built into the app has been inventing workouts and numbers that don't match reality."
+        },
+        {
+          "t": "p",
+          "x": "The strongest backlash has come from longtime Fitbit users."
+        },
+        {
+          "t": "p",
+          "x": "This case stands out as a sharp example of what happens when you layer generative AI on top of a health-data screen people trusted."
+        }
+      ]
+    },
+    "gadgets/gadgets-matic-cues-voice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Since I reviewed the squared-off Matic robot vacuum last year, I've written more than once that I like this thing. It can't get under a couch, but everywhere else its design and performance are good enough that it became the yardstick I measure other floor-cleaning robots against. Matic, which has been steadily filling in small features, just shipped a big update that adds voice and gesture control."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/Matic-listening.jpg",
+          "cap": "When it hears the wake phrase, the screen turns blue to signal that it's listening."
+        },
+        {
+          "t": "p",
+          "x": "The bundle of new input methods is called 'Matic Cues.' Starting August 13, users who get the new firmware wake the robot with 'Hey Matic' and give it commands in natural language. The commands are interpreted by Google Gemini on a cloud server. It takes anything from a simple phrase like 'start cleaning' to a compound command like 'vacuum the dining room rug, then mop the bedroom floor.' You can also tell it to follow you, or point at a spot on the floor and say 'clean here.'"
+        },
+        {
+          "t": "p",
+          "x": "I used it for a few days. Say the wake phrase and the robot turns to face me, with the screen switching to a blue background reading 'Listening…' The letdown was the follow feature. It routinely lost track of me around corners or past chairs, and it would sometimes chase a chair leg instead of my leg."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/Matic-Cues.jpg",
+          "cap": "The Matic Cues screen, which bundles voice and gesture control."
+        },
+        {
+          "t": "p",
+          "x": "Everything else worked well. I scattered cornmeal on the kitchen floor and bits of paper on the living room rug, then pointed at each and told it to clean. The robot backed up to get a better view of me, or, if there was no room to back up, displayed text on screen asking me to step back a bit, then cleaned the spot."
+        },
+        {
+          "t": "p",
+          "x": "It also handled compound commands properly. Being able to tell it to vacuum one room and mop another in a single instruction was convenient. The Matic app has no feature for setting different cleaning modes per room, so voice commands effectively unlocked that capability for the first time."
+        },
+        {
+          "t": "p",
+          "x": "Co-founder Mehul Nariyawala said they'd held off adding that because they didn't want to complicate the app. \"Of course we want to. But going forward, we're trying to approach everything voice-first.\""
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/Matic-spot-clean-1.jpg",
+          "cap": "Matic navigating to a spot a hand pointed at and cleaning it."
+        },
+        {
+          "t": "p",
+          "x": "There's a catch, too. This is the first Matic feature that requires an internet connection. Working entirely over Bluetooth used to be one of this robot's selling points. Nariyawala said the goal is to shrink the model so voice runs within the 4GB of RAM on the robot's Nvidia Jetson Orin chip, and added that staying local-only still gets you \"80% of the benefit.\""
+        },
+        {
+          "t": "p",
+          "x": "Prices are climbing. The robot vacuum that cost $1,095 at review time rose to $1,245 because of tariffs that pushed up component costs, and it rises again to $1,495 on September 9, 2026."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-11-tensor-g6-tpu": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Looking at the hardware changes in the new Pixel 11 series, the standout is Tensor G6's new TPU. Google says compute performance is up 50%, with some tasks up to 3.5x faster. The numbers sound good, but the question is what this actually means for someone holding a Pixel 11."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-series-hands-on-tensor-g6-4-scaled.jpg",
+          "cap": "The DevCheck app showing Tensor G6 information on the Pixel 11 Pro XL."
+        },
+        {
+          "t": "p",
+          "x": "Start with what a TPU actually does. If the CPU handles apps and the GPU mainly handles games, the TPU is dedicated to machine-learning computation. It has its own dot-product matrix units and high-speed memory access. It's effectively the AI processor inside the Pixel, handling tasks that don't need the cloud, like speech recognition, dictation, and sentence suggestions."
+        },
+        {
+          "t": "p",
+          "x": "The TPU doesn't just run Gemini Nano. It's deeply tied into Tensor's image-processing pipeline and is also used for computational-photography features like Night Sight, super-res zoom, subject separation, and video processing. This upgrade is also behind the telephoto zoom growing from 100x last year to 120x this year. A stronger TPU means headroom to run heavier AI tools without the cost, latency, and privacy issues that come with the cloud."
+        },
+        {
+          "t": "p",
+          "x": "New features also arrive with the Pixel 11. Google says Gemini Nano's responses are more accurate and faster. When turning speech into text, it automatically strips out filler words like 'um,' and the Pixel Camera app can transcribe sign language into text. Magic Capture takes up to 500 photos and lets Gemini pick five photos and one video. Live Translate converts video, podcasts, and voice messages into the language you want as you watch or listen."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-series-hands-on-proactive-assistance-5-scaled.jpg",
+          "cap": "The Proactive Assistance screen on the Pixel 11."
+        },
+        {
+          "t": "p",
+          "x": "Proactive Assistance surfaces information scattered across contacts or messages right when you need it. It's aimed at helping you not miss appointments and reply to messages and emails faster. Since this processing finishes on the device, the data stays in an encrypted space."
+        },
+        {
+          "t": "p",
+          "x": "Starting mid-2026, outside developers will also be able to target Tensor's TPU directly through LiteRT and the Google Tensor SDK beta. But since the SDK is still in beta, it's too early to expect a flood of products right away. A 50% boost in compute doesn't mean every app gets 50% faster; it's closer to having the headroom to run bigger, heavier models locally."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-hands-on-3-scaled.jpg",
+          "cap": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL."
+        },
+        {
+          "t": "p",
+          "x": "The limits are clear. Gemini Intelligence still handles some processing in the cloud, and the 'Banana' image generator and Video Boost remain cloud-only. A 50% faster TPU doesn't let the phone replace a high-performance cloud. Even so, in the broader shift of moving AI computation out of data centers and into your hand, Tensor G6's TPU marks another step forward."
+        }
+      ]
+    },
+    "gadgets/gadgets-ray-ban-meta-vision-ireland": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta is handing over 15,000 Ray-Ban Meta glasses to Vision Ireland, an organization for blind and visually impaired people in Ireland. To receive one, you have to apply through the Vision Ireland website, but the glasses themselves are free. Meta said the 15,000 units are enough to cover every adult blind or visually impaired person the organization supports."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/meta-is-giving-away-15000-ai-glasses-to-blind-and-visually-impaired-people-in-ireland/intro-1786613090.jpg",
+          "cap": "Ray-Ban Meta glasses set against a white background."
+        },
+        {
+          "t": "p",
+          "x": "Meta's AI glasses have drawn plenty of criticism. There's room for them to be used to secretly record someone without consent. The outlook got worse once a service surfaced offering to disable the LED that signals recording is underway. Meta responded that it would disable the camera on any glasses whose LED has been tampered with or broken. On top of that, Wired found code suggesting Meta had been considering adding facial recognition to the Meta AI app."
+        },
+        {
+          "t": "p",
+          "x": "Even so, glasses like these help blind people a great deal. They read text aloud and identify nearby objects. Having the surroundings described lets someone finish tasks faster and more safely. You can also ask it to read a message aloud and then have Meta AI dictate a reply. Meta has also partnered with the Be My Eyes network, letting people call volunteers through the glasses. Volunteers help with things like picking out clothes or finding the right carton of milk at the grocery store."
+        },
+        {
+          "t": "p",
+          "x": "Anyone who wants a free pair of Ray-Ban Meta glasses can apply through the Vision Ireland website or by calling the dedicated line, +353 1 882 1910. Vision Ireland handles selecting recipients, in-person training, and follow-up support."
+        }
+      ]
     }
   }
 }

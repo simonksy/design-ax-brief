@@ -1463,6 +1463,356 @@
           "x": "AI没有写歌词。它做出了音乐，而学会如何瞄准它，花了我一年时间。三十年来做不到的从来不是写，而是完成。软件没有替代Vito，也没有替代Abbie，它只是把我们介绍给了彼此。"
         }
       ]
+    },
+    "music/music-beatport-ai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Beatport-AI-ban-T.jpg",
+          "cap": "Beatport的AI音乐禁令(图片提供:Beatport)"
+        },
+        {
+          "t": "p",
+          "x": "Beatport开始过滤AI制作的音乐。这家舞曲下载商店在自家目录中接入了Beatdapp的检测工具,用来在上传时识别出全部或大部分由AI制作的曲目。"
+        },
+        {
+          "t": "p",
+          "x": "AI政策本身从2025年1月就已存在。新的是真正执行这项政策的技术手段。这套工具的检测效果如何,还要再观察几个月才能知道。"
+        },
+        {
+          "t": "p",
+          "x": "完全由AI制作的音乐会在导入环节被暂扣,并立即通知版权方。AI辅助制作的作品则另当别论。Beatport的政策页面写道:“只要成品曲目主要由人工完成,使用AI辅助制作的音乐仍会被继续接受。”这类发行作品会在导入阶段被打上标记,方便策展团队在审核时清楚自己在看什么。"
+        },
+        {
+          "t": "p",
+          "x": "Beatdapp原本是流媒体欺诈检测方面的合作伙伴。通过这次的AI检测工具,双方的合作也扩展到了音乐识别领域。"
+        },
+        {
+          "t": "p",
+          "x": "Beatport表示,这一决定直接反映了社区的立场。在用户调查中,60%的人表示不会在自己的歌单中播放AI生成的曲目,77%明确表示会支持人类创作者。表示愿意播放AI音乐的占8%,若艺人和厂牌能获得合理报酬则会考虑播放的占13%。"
+        },
+        {
+          "t": "p",
+          "x": "Beatport首席执行官Matt Gralen如此总结:“Beatport的存在是为了DJ,也是为了给艺人和厂牌赋能。新的制作技法从一开始就在推动电子音乐向前发展,但辅助人类创作的工具,和彻底取代创作的系统并不是一回事。Beatport正是建立在前者之上的。”"
+        },
+        {
+          "t": "p",
+          "x": "Beatdapp联合创始人兼联合CEO Andrew Batey指出,音乐产业一向乐于接受新技术,并补充说,当下真正需要的是能在生成式AI时代带来真正透明度的基础设施。AFEM首席战略官Jay Ahern认为,这种做法与AFEM的AI原则是一致的——人类的意图与创作控制权,应当与同意、授权、透明度、来源标注以及合理报酬放在同等重要的位置。"
+        },
+        {
+          "t": "p",
+          "x": "这个时间点并非偶然。上个月,总部位于巴黎的流媒体巨头Deezer证实,其平台每日上传内容中约50%、大约9万首曲目是AI生成的。8月初,Spotify表示将为AI生成的艺人主页加上“AI Persona”标识。6月,《The Atlantic》的报道披露,AI开发公司用于训练模型的受版权保护曲目约有2,100万首。"
+        },
+        {
+          "t": "p",
+          "x": "把完全禁止AI音乐和自动检测结合在一起,对一个以DJ为核心的平台来说是一个前后一致的选择。短期内它还不会完美运作。未经处理的AI音乐相对容易被识别,但一旦经过编辑、加入人声、再和其他声音混合,再精密的工具也很难分辨。Gearnews得出的结论是:这总比完全没有规则要好。"
+        }
+      ]
+    },
+    "music/music-ia-de-esser": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/ia-deesser-728x364.jpg",
+          "cap": "IA De-Esser——使用四个插槽的免费降齿音插件"
+        },
+        {
+          "t": "p",
+          "x": "Immanent Audio发布了面向macOS和Windows的免费降齿音·共振抑制插件IA De-Esser。"
+        },
+        {
+          "t": "p",
+          "x": "IA De-Esser的思路略有不同。它不用单一模块,而是用四个滤波器插槽来处理齿音、刺耳声和突出的共振。每个插槽都可以设为对齿音自动响应的De-Ess模式,也可以设为处理更大范围刺耳声的模式。"
+        },
+        {
+          "t": "p",
+          "x": "这个思路相当不错。让每个模块各削去一点刺耳感,效果比用一个降齿音器狠狠压下去更自然。"
+        },
+        {
+          "t": "p",
+          "x": "在Auto模式下,只需设定Low-Cut和Hi-Cut的范围,插件就会自行选出它认为合适的depth和Q值。Smart模式则更进一步,会扫描频谱,把激活的插槽派到真正需要处理的位置。"
+        },
+        {
+          "t": "p",
+          "x": "目标是只削掉你想去掉的那部分刺耳声,而不让人声或乐器整体陷入降齿音处理特有的那种闷糊感。屏幕上会实时显示attack、release、depth、Q,让你看清插件到底在做什么。"
+        },
+        {
+          "t": "p",
+          "x": "它不会增加DAW的延迟,所以即便在录音这种对延迟很敏感的场合,也可以直接挂上使用。"
+        },
+        {
+          "t": "p",
+          "x": "由于最近用AI做的音频工具明显增多,我们问了Immanent Audio,这款插件是不是也是用AI开发的。开发者Jay证实确有此事,他说“AI was used to speed up the process”,即用AI来加快开发速度。不过他也补充说,由于自己本职是软件工程师,所以不会加入自己看不懂的代码。"
+        },
+        {
+          "t": "p",
+          "x": "IA De-Esser可在Gumroad免费获取,支持macOS和Windows上的VST3、AU格式。"
+        }
+      ]
+    },
+    "music/music-spotify-ai-persona": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Spotify-AI-Persona-01-1024x565.jpg",
+          "cap": "Spotify AI Persona·来源:Spotify"
+        },
+        {
+          "t": "p",
+          "x": "Spotify即将推出一个新标签——AI Persona标识,用于标记那些并非代表真实人物的艺人资料页。从2026年9月中旬起,相关资料页会在横幅、搜索结果以及歌单内的曲目上显示该标识。同时,Spotify会默认把这些资料页从编辑精选和算法推荐中剔除。"
+        },
+        {
+          "t": "p",
+          "x": "Spotify表示,听众的意见很明确:他们想知道资料页背后究竟是真实的人,还是AI制造出来的人设。此后,艺人及其团队需要自行申报自己的资料页是否属于AI Persona。Spotify也会主动审查相关资料页,包括那些使用逼真AI生成图像的账号。几个月内,听众还将能够举报那些疑似未标注的AI Persona资料页,最终判定权仍在Spotify手中。"
+        },
+        {
+          "t": "p",
+          "x": "这个时间点并非偶然。该平台这几个月一直被AI生成内容困扰。4月,Spotify已经推出了用于标记真实艺人资料页的“Verified by Spotify”。AI Persona标识是“Artist Identity & Trust”这一更大计划的一部分,其中还包括SongDNA以及AI歌曲署名机制——用来披露艺人在创作音乐时具体如何使用了AI。"
+        },
+        {
+          "t": "p",
+          "x": "真正关键的不是标签本身,而是它带来的后果。打上AI Persona标识的资料页所对应的音乐,默认不会出现在编辑精选推荐,也不会出现在个性化推荐之中。在一个音乐发现几乎完全依赖算法歌单的平台上,这几乎等同于切断了曝光渠道——尽管Spotify官方表示这只是一个标签而已。"
+        },
+        {
+          "t": "p",
+          "x": "不过,分成待遇不受影响。AI Persona曲目的版税照常支付。Spotify瞄准的不是钱,而是曝光度。7月,TIDAL走了相反的路线:把AI曲目保留在目录中,却彻底切断了它们的版税收入和直接销售渠道。"
+        },
+        {
+          "t": "p",
+          "x": "7月,IFPI和RIAA等主要行业组织就“AI-Generated”和“AI-Assisted”两种自愿标签达成一致,大型流媒体平台并未参与其中。当时态度冷淡的Spotify,如今选择了一条不同的路。如果说行业组织的标签是在标明一段录音中AI参与的程度,那么Spotify的AI Persona标识,问的则是资料页背后是否真的有一个人。"
+        },
+        {
+          "t": "p",
+          "x": "这个标签究竟能否真正遏制AI人设挤占真实艺人的空间,还是会被老练的运营者找到漏洞绕开,只有等到9月中旬正式实施之后才能见分晓。"
+        }
+      ]
+    },
+    "music/music-tonex-2-player": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4VDagEqs99EEaZkfKzZ2BT.jpg",
+          "cap": "IK Multimedia Tonex生态系统结构图"
+        },
+        {
+          "t": "p",
+          "x": "IK Multimedia把Tonex Player从头到尾重新打磨了一遍。新增了“photorealistic”设备选择界面和更简洁的工作流程,公开测试版还一并带来了220个全新的Premium Tone Model。"
+        },
+        {
+          "t": "p",
+          "x": "Tonex 2.0 Player在IK Multimedia的电吉他·贝斯音色生态系统中,更像是一个创作中心。管理Tone Model、编辑版本、预设、采样,以及寻找新音色,全都集中在了这一个地方。"
+        },
+        {
+          "t": "p",
+          "x": "做出来的音色可以原样用在整条Tonex硬件产品线上。"
+        },
+        {
+          "t": "p",
+          "x": "IK Multimedia说Tonex生态系统在不断壮大,这并非夸大其词。那张以Tonex 2.0 Player为中心、串联多款硬件的结构图,正变得一天比一天复杂。"
+        },
+        {
+          "t": "p",
+          "x": "Tonex 2.0 Player既可以作为吉他插件使用,也可以作为DAW的独立应用运行。一打开就能看到主页界面已经不一样了,设备、信号链和素材库都从这里统一打开。"
+        },
+        {
+          "t": "video",
+          "yt": "pbYaZjeKkBQ"
+        },
+        {
+          "t": "p",
+          "x": "IK Multimedia这样解释:“It's faster to find the sound you want, easier to shape it, and more rewarding to explore.”意思是能更快找到想要的音色、更轻松地调整,也更有乐趣去探索。"
+        },
+        {
+          "t": "p",
+          "x": "浏览音箱模型的界面变得更好看了。与ToneNET社区的连接也更紧密,新的Smart Search让用户更容易找到别人制作的Tone Model和信号链预设。一个可调整大小的专用悬浮浏览器,可以在音箱、效果器和Tonex合集之间来回切换。"
+        },
+        {
+          "t": "p",
+          "x": "这正是Tonex这套模式的核心所在。无论软件还是硬件,整条Tonex产品线都被设计成与IK Multimedia的Amplitube 5平台完全咬合。这次改版所主张的,也是一条从采样到录音室、排练再到舞台始终贯穿的单一工作流程。"
+        },
+        {
+          "t": "p",
+          "x": "Tonex 2.0 Player现已开放公开测试版,很快将作为免费更新推送给所有Tonex用户。"
+        }
+      ]
+    },
+    "music/music-daddario-ai-admission": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/z9H4sYWjQE42gw9xW8iKRi.jpg",
+          "cap": "D'Addario——引发争议的NYXL HD演示视频主角"
+        },
+        {
+          "t": "p",
+          "x": "D'Addario承认在NYXL HD扩展音域电吉他弦的演示视频中使用了生成式AI。这家总部位于纽约的琴弦与配件品牌确认,他们用Suno Studio重新生成了原始音轨。"
+        },
+        {
+          "t": "p",
+          "x": "Instagram声明开头写道:“We got this wrong. We've completed a full review and confirmed that Suno Studio was used to regenerate the original track. We shared inaccurate information, and we're truly sorry.”大意是,他们错了,已完成全面审查并确认使用了Suno Studio,分享了不准确的信息,并对此深感抱歉。"
+        },
+        {
+          "t": "p",
+          "x": "在此之前,公司一直否认使用了AI,甚至发布了展示DAW音轨文件的视频。深挖这一说法的是YouTube博主。Danny Sapko最先提出质疑,随后围绕一段经过厚重后期处理的前卫金属演奏演示,验证不断扩散。Rhett Shull直接拿到了音轨文件,对这场争议做了更深入的调查。"
+        },
+        {
+          "t": "video",
+          "yt": "22iRLD7yvsw"
+        },
+        {
+          "t": "p",
+          "x": "Yvette Young和Mike Dawes等D'Addario代言艺人最初为品牌辩护。但随着公司删除批评评论、并有一名员工声称个人信息遭到曝光,事态进一步升级。"
+        },
+        {
+          "t": "p",
+          "x": "在声明中,D'Addario承认自己在评论管理上也犯了错。“Honest criticism should not be erased.”意思是,诚实的批评不应被删除。公司还表示会改变频道的运营方式,在保护人们免受威胁、骚扰和信息曝光的同时,也让不同意见能够被听到。"
+        },
+        {
+          "t": "p",
+          "x": "公司还公布了新政策。“We do not support AI-generated music, and our process will reflect that going forward.”今后员工和创作合作方必须披露内容中是否使用了生成式AI,公司会对相关披露进行仔细审核。"
+        },
+        {
+          "t": "p",
+          "x": "声明的结尾写道:他们知道一份声明无法解决问题,D'Addario之所以存在,是因为音乐人愿意把自己的声音托付给他们的产品,公司也会在对待这个社区的方式上赢得同样的信任。"
+        }
+      ]
+    },
+    "music/music-apc-140": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/s/noizefield_audio-plugin-coder_product_image.png",
+          "cap": "Noizefield Audio Plugin Coder"
+        },
+        {
+          "t": "p",
+          "x": "音乐软件制造商Noizefield发布了Audio Plugin Coder（APC）1.4.0。这是一次重大更新，该开源框架通过AI编码代理，把用自然语言写下的插件创意转化为VST3/AU项目结构。"
+        },
+        {
+          "t": "p",
+          "x": "APC会引导用户完成从构思、架构设计、UI设计、实现、测试到打包的各个阶段，并在整个过程中持续携带项目状态与问题排查知识。它面向那些不想从空的C++项目开始的制作人、音效设计师和开发者，可配合Claude Code、Cursor、Codex、Kilo、Antigravity等代理，在Windows、macOS和Linux上运行。"
+        },
+        {
+          "t": "p",
+          "x": "1.4.0的变化如下：从JUCE 8升级到JUCE 9.0.1，从而支持最新的宿主、工具链以及基于WebView的UI。/apc-setup是首次运行的设置向导，用于检查工具链，并设置插件、构建与发布文件夹的位置、UI默认值，以及各步骤的AI模型偏好。"
+        },
+        {
+          "t": "p",
+          "x": "工作流命令也获得了专属名称，比如/apc-dream、/apc-plan、/apc-design、/apc-impl、/apc-ship，这一调整是为了避免与其他AI工具的命令名称冲突，不过像/dream这样的短别名依旧保留。依赖检查变得更严格，WebView插件文档也得到了改进。构建脚本修复了路径识别问题，在Windows上针对WebView UI的烟雾测试，也通过实际插件构建进行了验证。"
+        },
+        {
+          "t": "video",
+          "yt": "B_hEkSp3tEk"
+        },
+        {
+          "t": "p",
+          "x": "APC 1.4.0可在GitHub上免费获取，源代码也已公开。"
+        }
+      ]
+    },
+    "music/music-eu-ai-label": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-4-AI-EU.jpg",
+          "cap": "8月2日生效的欧盟AI法案透明度条款"
+        },
+        {
+          "t": "p",
+          "x": "从8月2日起，欧盟AI法案的新透明度条款正式生效。AI生成或大幅修改的音频、图像、视频和文本，如今必须明确标注其为“人工”内容。"
+        },
+        {
+          "t": "p",
+          "x": "通用AI系统开发者也被赋予了新的透明度义务。这是欧盟标志性AI立法中，消费者首次能够切身感受到的里程碑。"
+        },
+        {
+          "t": "p",
+          "x": "从音乐产业的角度看，这次变化不是在阻止AI，而是让AI的使用痕迹变得可见。它既不禁止AI音乐，也不解决围绕AI训练数据的版权争端。"
+        },
+        {
+          "t": "p",
+          "x": "相反，“重点在于透明度”。AI生成或大幅修改的内容必须让听众能够识别，开发公司也必须记录训练方式，并遵守AI法案的透明度要求。"
+        },
+        {
+          "t": "p",
+          "x": "音乐产业面临的重大法律问题依然没有答案。新规定并不能判定Suno或Udio等公司用受版权保护的录音训练模型是否构成侵权，也不要求公开训练中使用的全部曲目。这场争斗仍在世界各地的法庭和授权谈判桌上继续。"
+        },
+        {
+          "t": "p",
+          "x": "欧洲这次确立的是一条基准线：“AI生成的内容不能再是匿名的”。"
+        },
+        {
+          "t": "p",
+          "x": "对艺人、唱片公司和版权方而言，识别AI生成物、追究其呈现给听众的方式都变得更容易。追究公司如何使用AI的责任也是如此。违反透明度要求的公司，最高可被处以1500万欧元或其全球年营业额3%的罚款。"
+        }
+      ]
+    },
+    "music/music-spotify-kobalt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/spotify-has-roped-the-indie-publisher-kobalt-into-its-ai-platform-for-covers-and-remixes/intro-1786636073.jpg",
+          "cap": "黑色背景上的Spotify和Kobalt标志"
+        },
+        {
+          "t": "p",
+          "x": "Spotify早就在预告一款让粉丝制作翻唱和混音的AI工具，并已公开与Universal Music Group的合作。这次的新合作方是独立音乐出版公司Kobalt，该公司代理从Phoebe Bridgers到后朋克乐队IDLES等众多音乐人的作品出版。"
+        },
+        {
+          "t": "p",
+          "x": "Kobalt旗下艺人很快就能选择接入Spotify的新平台。粉丝可以在这里拿歌曲重新制作成混音或翻唱，背后当然运行着一整套AI工具。目前还没有人听过实际效果。大致可以理解为类似Suno，但不是扫遍整个互联网，而是只使用正式获得授权的歌曲。"
+        },
+        {
+          "t": "p",
+          "x": "因此，这款工具的宣传重点不是生成式AI盘剥艺人的新方式，而是艺人赚钱的新方式。Spotify表示这将“open up additional revenue streams and new ways to drive discovery”，即开辟新的收入来源和发现路径。Kobalt首席执行官Laurent Hubert补充说，旗下艺人将“directly benefiting from the creative opportunities these new features provide”，即从新功能带来的创作机会中直接获益。"
+        },
+        {
+          "t": "p",
+          "x": "至少这笔收入从何而来是清楚的。该平台将作为Premium订阅用户的付费附加功能推出。价格会是多少，是否真有人愿意为给喜欢的歌曲做AI翻唱而付费，目前都还不知道。"
+        },
+        {
+          "t": "p",
+          "x": "是否会开放不使用AI的翻唱途径也不清楚。如果归根结底只是授权问题，那么算法吐出的劣质作品和真人演奏录制的翻唱之间又有什么区别呢。无论哪种情况，答案都还需要一段时间才能揭晓。Spotify尚未公布上线时间。"
+        }
+      ]
+    },
+    "music/music-uppbeat-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/The-Uppbeat-Creator-Report.jpg",
+          "cap": "Uppbeat Creator Report 2026"
+        },
+        {
+          "t": "p",
+          "x": "AI涌入创作者经济，改变了数字格局。内容爆炸式增长，真实性面临危机。创作素材平台Uppbeat没有预测未来，而是直接询问了创作者本人。"
+        },
+        {
+          "t": "p",
+          "x": "新发布的《Uppbeat Creator Report 2026》基于2026年2月至3月对1,792名创作专业人士的调查，以及13次深度访谈。报告考察了包括音乐人和YouTuber在内的创作者如何适应新技术，他们接受哪些AI工具，又在创作过程中哪些部分坚持不交给机器。"
+        },
+        {
+          "t": "p",
+          "x": "界限很清楚。“just 6.7% of respondents finding fully AI-generated content acceptable”，即只有6.7%的受访者接受完全由AI生成的作品。然而“60% are happy to integrate AI assistance”，约60%愿意在工作流程中融入AI的协助。与科技行业的普遍认知相反，“16- to 24-year-olds are the least likely group to use AI tools”，16至24岁人群使用AI工具的比例最低。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/The-Uppbeat-Creator-Report-4.jpg",
+          "cap": "艺人为AI划下界限之处 — Uppbeat Creator Report"
+        },
+        {
+          "t": "p",
+          "x": "在超过2,600条开放式回答中，浮现出三个主题。具体性胜过数量。随着AI让批量生产变得更容易，“creators are standing out by getting more specific and niche”，创作者靠的不是增加产量，而是进入更窄、更具体的位置来脱颖而出。受众也在反弹，悄悄划过那些过度自动化、千篇一律的内容，去寻找“messy, emotional, and brilliant”的人性痕迹。而在无穷无尽的AI生成物中，唯一稀缺的资源就是创作者个人的视角和声音。"
+        },
+        {
+          "t": "p",
+          "x": "报告也给独立音乐人提了建议：把元数据、宣传排期、邮件草拟、剪辑、工作后勤这类杂务交给AI，但不要把写歌、录人声、与歌迷面对面见面的事也交出去。批量产出千篇一律的曲目，只会被算法的泥潭吞没。真正能把人变成付费歌迷的，是极其具体的审美和脆弱而真实的个人故事。"
+        },
+        {
+          "t": "p",
+          "x": "Hypebot的结论是：不必害怕AI，也不必把创作身份整个交出去。用工具清除后台的摩擦、买回时间，再把这些时间花在歌曲、舞台和周边摆摊前那种原始、直接的连接上。在合成噪音无穷无尽的时代，个人故事是超越品牌本身的竞争力。"
+        }
+      ]
     }
   }
 }

@@ -1434,6 +1434,456 @@
           "x": "La conclusión es esta: las referencias reutilizables de personajes, props y lugares están entre los flujos de trabajo mejor cuidados de cualquier herramienta de video con IA disponible hoy. Pero el modelo de video en sí todavía no alcanza a líderes como Seedance. Sumado a que desbloquear el 1080p cuesta 100 dólares al mes, es difícil recomendarlo hoy para trabajo cinematográfico profesional. Aun así, si xAI sigue mejorando la calidad de imagen mientras amplía su enfoque basado en activos, podría convertirse en una herramienta atractiva para quienes crean personajes recurrentes y contenido serial."
         }
       ]
+    },
+    "movies/movies-billy-joel-ai-doc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/YoungBillyJoelAI.jpg",
+          "cap": "Un joven Billy Joel recreado con IA (Imagen: The Hollywood Reporter)"
+        },
+        {
+          "t": "p",
+          "x": "Un director de documentales consiguió una entrevista de radio de Billy Joel que había permanecido oculta durante mucho tiempo. Luego, usando IA, puso de nuevo en pantalla a un joven Billy Joel."
+        },
+        {
+          "t": "p",
+          "x": "El propio Billy Joel no participó en el trabajo de recreación. Su imagen joven fue restaurada sin el consentimiento del artista."
+        },
+        {
+          "t": "p",
+          "x": "Es un caso que muestra de frente ese vacío de consentimiento: hasta dónde debería permitirse la recreación de documentales con IA."
+        }
+      ]
+    },
+    "movies/movies-castle-walls-prime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Castle-Walls-poster.jpg",
+          "cap": "Póster de Castle Walls (Imagen: Variety)"
+        },
+        {
+          "t": "p",
+          "x": "El drama histórico hecho con IA Castle Walls se estrenó en Prime Video. Lo produjo Ay Yapim, una de las grandes productoras de televisión de Turquía."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de producción presenta esta obra como la primera serie hecha enteramente con IA generativa en llegar a una gran plataforma de streaming."
+        },
+        {
+          "t": "p",
+          "x": "Es una prueba real de si un flujo de producción totalmente sintético puede sostener una serie con guion de principio a fin."
+        }
+      ]
+    },
+    "movies/movies-rocxzoom-kickstarter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "FarseerTech, una startup fundada por antiguos ingenieros de DJI, lanza RocXZoom en Kickstarter. Es una cámara portátil de 400 gramos que combina un zoom híbrido de 50x con pan-tilt motorizado y seguimiento de sujeto por IA. La empresa la llama la primera cámara robótica de zoom extremo del mundo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/RocXZoom-camera-7-900x506.jpeg",
+          "cap": "El equipo de FarseerTech, formado por antiguos ingenieros de DJI (Imagen: FarseerTech)"
+        },
+        {
+          "t": "p",
+          "x": "El equipo trabajó en la Inspire, la Osmo Pocket y la Ronin 4D en DJI. Esa experiencia se traslada directamente al diseño del gimbal y a los algoritmos de seguimiento de este producto."
+        },
+        {
+          "t": "p",
+          "x": "El funcionamiento combina tres elementos. La visión por computadora reconoce al sujeto, un gimbal motorizado lo sigue físicamente, y el zoom híbrido de 50x mantiene el encuadre mientras el sujeto se mueve. La empresa dice que puede identificar más de 300 especies de animales, y afirma que reacciona en 0,01 segundos ante sujetos que se mueven a 10–20 metros por segundo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Untitled-September-09-2025-at-09.50.28-8-900x506.jpeg",
+          "cap": "La cámara RocXZoom (Imagen: FarseerTech)"
+        },
+        {
+          "t": "p",
+          "x": "El cuerpo pesa 400 gramos. Está hecho de aluminio mecanizado y tiene certificación IP54. Las vibraciones se controlan combinando el mecanismo del gimbal con estabilización electrónica. Una pantalla OLED de 5 pulgadas está integrada en el cuerpo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/RocXZoom-camera-9-900x506.jpeg",
+          "cap": "Un rig de teleobjetivo que cabe en el bolsillo (Imagen: FarseerTech)"
+        },
+        {
+          "t": "p",
+          "x": "El sensor es de 1/2.5 pulgadas, de nivel smartphone. El video llega como máximo a 4K 30fps, y el 1080p admite 30 o 60fps. Las fotos se guardan en 4K o 1080p. El diafragma va de f/1.8 a f/3.9. La distancia focal cubre un rango equivalente a 35mm de 40–2000mm, con zoom óptico de 20x más extensión digital."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/RocXZoom-camera-6-900x506.jpeg",
+          "cap": "La pantalla OLED de 5 pulgadas integrada en el cuerpo (Imagen: FarseerTech)"
+        },
+        {
+          "t": "p",
+          "x": "También se puede operar de forma remota mediante una app móvil, una función pensada para situaciones en las que la cámara se cuelga en algún lugar para grabar. La empresa también prepara el RocXZoom Pro, que añade el sistema de seguimiento por IA a cámaras y objetivos ya existentes."
+        },
+        {
+          "t": "p",
+          "x": "Aún no hay, sin embargo, material grabado verificado de forma independiente. También hará falta más detalle sobre códecs y formatos para juzgar si funciona bien en el uso real."
+        }
+      ]
+    },
+    "movies/movies-seedance-25-blocking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-14.37.07-e1770907766400.png",
+          "cap": "Imagen principal del artículo (Imagen: Deadline)"
+        },
+        {
+          "t": "p",
+          "x": "Seedance 2.5, el modelo de generación de video de ByteDance, ha empezado a rechazar prompts que reproducen directamente propiedad intelectual de Hollywood y los rostros de estrellas."
+        },
+        {
+          "t": "p",
+          "x": "La versión anterior, Seedance 2.0, recibió fuertes críticas después de que se difundieran videos deepfake hechos con Tom Cruise y Brad Pitt. Esta medida llega después de ese episodio."
+        },
+        {
+          "t": "p",
+          "x": "Es poco habitual ver que a un modelo de video convencional, de los que de verdad usan los creadores, se le añadan después barreras de propiedad intelectual y de imagen. Para quienes trabajan con Seedance, qué prompts pasan el filtro está a punto de cambiar."
+        }
+      ]
+    },
+    "movies/movies-doc-opt-out-ai-clinic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
+          "cap": "Fotograma de THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST, de Daniel Roher y Charlie Tyrell (Foto: Focus Features)"
+        },
+        {
+          "t": "p",
+          "x": "Al ver noticias o documentales, el público necesita poder confiar en las imágenes que ve en pantalla. Sin embargo, el software de edición de video de uso extendido incorpora cada vez más funciones de IA que ni los propios directores conocen, y menos aún saben cómo desactivarlas."
+        },
+        {
+          "t": "p",
+          "x": "Un próximo seminario aborda esta preocupación. Enseñará a periodistas y documentalistas cuándo quitar la IA y exactamente cómo hacerlo. IndieWire ha sabido en exclusiva que Field of Vision y la Freedom of the Press Foundation lanzarán la sexta edición de su Clínica de Seguridad Digital, una serie de cursos gratuitos en línea sobre la huella digital de los equipos de documentales y periodistas. Ha apoyado a más de 500 equipos de producción durante más de cinco años, y esta edición ya ha superado el interés previo de la del año pasado."
+        },
+        {
+          "t": "p",
+          "x": "El punto central de esta edición es una nueva sesión fijada para el 10 de septiembre llamada “When and How to Opt Out of AI”. La cofundadora de Field of Vision, Charlotte Cook, dijo que es un tema que los usuarios han pedido desde hace tiempo. Ella recela de las herramientas que incorporan IA de formas poco visibles, como la autocorrección o la integración con motores de búsqueda. Dice que los creadores deben conocer su proceso con precisión y poder demostrar que ellos son los autores, también por el bien del público que necesita confiar en los medios."
+        },
+        {
+          "t": "p",
+          "x": "Cook lo explicó así: “Los cineastas deben poder resguardar las imágenes y el metraje con el que trabajan, y saber que no se ha infiltrado ninguna influencia que no conocen, para poder respaldar el resultado”."
+        },
+        {
+          "t": "p",
+          "x": "En la sesión, los formadores de Freedom of the Press guían a los participantes paso a paso. Eso incluye cómo desactivar funciones de IA específicas en herramientas de edición y apps, dónde subir el metraje protegiéndolo del rastreo por IA, y cómo determinar si algo ha sido retocado o editado. “Es la evaluación de riesgo que se necesita al evaluar herramientas de IA y ver qué se conecta con qué y cómo”, resumió Cook. También se abordan los servicios de transcripción y la protección de la propiedad intelectual, incluyendo confirmar que algo realmente es de uno. Dijo que algunas herramientas están cambiando sus políticas de usuario, por lo que determinar dónde recae la propiedad es el desafío actual."
+        },
+        {
+          "t": "p",
+          "x": "Esta es una de cinco sesiones repartidas a lo largo de un mes. Las demás tratan sobre seguridad digital, cómo comunicarse de forma segura al cruzar fronteras o en regiones sensibles, el almacenamiento seguro y el cifrado del metraje, y la reducción de la huella digital, incluyendo borrar material privado de cuentas sociales personales."
+        },
+        {
+          "t": "p",
+          "x": "El calendario es el siguiente: 13 de agosto, Introducción a la seguridad digital; 20 de agosto, Comunicarse de forma segura; 27 de agosto, Proteger el metraje; 3 de septiembre, Reducir la huella digital; 10 de septiembre, Exclusión de IA. Todas las sesiones son los jueves de 1:30 a 3 de la tarde."
+        },
+        {
+          "t": "p",
+          "x": "Field of Vision mantiene materiales y guías relacionados en https://www.digitalsecurity.film/. Las inscripciones para formación grupal se reciben en bit.ly/digitalsecurity2026."
+        }
+      ]
+    },
+    "movies/movies-nura-rainbow-hollow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/rainbow_hollow_milo_cat-1280.jpg?itok=d6wFFF2I",
+          "cap": "〈Rainbow Hollow〉 (Imagen: Nura Studios)"
+        },
+        {
+          "t": "p",
+          "x": "〈Rainbow Hollow〉 parece stop-motion. No lo es. Esta serie de comedia oscura para adultos, dirigida por Noah Wagner, hizo cada plano con IA. Es el primer original de Nura Studios, que abrió sus puertas en abril."
+        },
+        {
+          "t": "p",
+          "x": "Todo empezó en un funeral. Mientras veía cómo bajaba a tierra el ataúd de un amigo, Wagner pensó que no había una buena manera de colocar un cuerpo. Anotó en su diario de producción la escena que se le ocurrió entonces: una cámara sigue el ataúd hacia abajo y se queda junto al cadáver, hasta que se oyen golpes en la puerta y un muerto viviente asoma la cabeza."
+        },
+        {
+          "t": "p",
+          "x": "Fue claymation desde el principio. Escribió que no fue una decisión tomada después, sino que la propia escena que se le ocurrió ya era claymation. Pero no tenía ni los recursos ni el respaldo de la industria para hacer un stop-motion real a esa escala. Describe el estilo visual de la serie como una deuda con ese oficio, no un sustituto. “No hay nada que reemplace esa alma y esa conexión humana”, dijo."
+        },
+        {
+          "t": "p",
+          "x": "Milo es un bombero que murió antes de tiempo intentando salvar a un gato atrapado en un árbol. Enterrado bajo tierra, descubre Rainbow Hollow, un pueblo donde los muertos siguen viviendo, con una condición: el cuerpo tiene que permanecer intacto. Cuando Milo descubre que su esposa quiere ser incinerada, sale a matarla, tanto por ella como para que los dos puedan estar juntos para siempre."
+        },
+        {
+          "t": "video",
+          "yt": "4y3LR66E9Ao"
+        },
+        {
+          "t": "p",
+          "x": "Robert Koscheleon pone la voz a Milo, y Art Brown, la de Lazarus. Michael Koehler escribió el guion y construyó la serie junto con Wagner. Wagner también se encargó de la animación y la edición, y entre los dos dividieron la idea original en tres episodios. Isabel Riva es productora ejecutiva, y Graziela LaRocca, productora técnica. 〈Rainbow Hollow〉 es una coproducción de Nura y A Work of Ark."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081221-rainbowhollowlazarus-1280.jpg?itok=JwQwT9-X",
+          "cap": "Lazarus (Imagen: Nura Studios)"
+        },
+        {
+          "t": "p",
+          "x": "La base de producción es Showcraft, una plataforma web para hacer episodios animados que Nura presentó en abril y que lleva meses probando en beta privada. Reúne en un solo entorno la historia, la preproducción, el layout, la animación, la edición y el acabado de posproducción, construido sobre modelos de IA ajustados. Wagner explica que sustituye la producción de cine con IA que antes avanzaba entre carpetas y lienzos dispersos por una sola interfaz que se mantiene de plano a plano. Los comentarios de los creadores en el lugar entran a la plataforma en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Escribir el guion tomó un mes. Las aproximadamente siete semanas siguientes tuvieron la generación y la edición avanzando en paralelo, sin un orden fijo. La mayor parte se hizo con Seedance 2.0, que según él mantuvo la textura tosca de claymation y extrajo el sincronismo labial directamente de las grabaciones de los actores. Primero unía los planos a la secuencia y después decidía cuál debía ser el siguiente plano. “La película real se descubrió y se hizo 100% en la edición”, escribió."
+        },
+        {
+          "t": "p",
+          "x": "La lista de participantes en la beta incluyó al cofundador de Bento Box Entertainment, Joel Kuwahara; al exartista de desarrollo visual de Disney, John Mahoney; y a la exdirectora de fotografía de Pixar, Jerica Cleland. También participó Ervin Han, quien ganó el Cristal de largometraje en Annecy 2026 junto con Raúl García por 〈The Violinist〉."
+        },
+        {
+          "t": "p",
+          "x": "Showcraft se abre al público a principios de septiembre. Otras series de Nura llegarán en agosto y septiembre. Wagner es productor jefe de IA e innovación en Ecobend Creative, y su trabajo se ha emitido en HBO, Netflix, NBC y BBC."
+        }
+      ]
+    },
+    "movies/movies-peacock-public-eye": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/WOLFPublicEye.png?w=1024",
+          "cap": "〈Public Eye〉 (Imagen: Wolf Games)"
+        },
+        {
+          "t": "p",
+          "x": "Peacock añade a su catálogo móvil el juego episódico interactivo 〈Public Eye〉. Es un misterio de asesinato que NBCU describe como “narrativa al estilo microdrama que se encuentra con la investigación criminal interactiva”, y es el primer juego móvil por entregas de Peacock."
+        },
+        {
+          "t": "p",
+          "x": "Se desarrolla en 10 partes. Los jugadores asumen el papel del oficial de patrulla Logan Dyne, investigando en secreto la muerte de su tío en la Caldera City, plagada de crimen. Cada episodio combina la historia con una jugabilidad centrada en puzles. Buscar pistas entre escenas animadas revela una conspiración que recorre todo el departamento de policía. Las imágenes hechas con IA se combinan con la habilidad narrativa de Wolf Games, dejando que los usuarios impulsen la historia por sí mismos."
+        },
+        {
+          "t": "p",
+          "x": "〈Public Eye〉 es otro resultado del acuerdo más amplio que NBCUniversal firmó con Wolf Games. Wolf Games es una startup de IA generativa cofundada por Elliot Wolf, productor ejecutivo e hijo de Dick Wolf, creador de 〈Law & Order〉. A comienzos de este año, Peacock lanzó 〈Law & Order: Clue Hunter〉, y la app también incluye juegos de palabras, cuestionarios y un título de 〈Wheel of Fortune〉."
+        },
+        {
+          "t": "p",
+          "x": "Según NBCU, el 40% de los usuarios móviles de Peacock ha probado juegos en la app. 〈Law & Order: Clue Hunter〉 está entre sus lanzamientos de juegos más exitosos hasta la fecha, con usuarios que pasan en promedio más de seis minutos al día. También se observa una tendencia de que el juego atrae nuevos espectadores a la serie original."
+        },
+        {
+          "t": "p",
+          "x": "El cofundador de Wolf Games, Elliot Wolf, dijo: “Hicimos que entrar en 〈Public Eye〉 fuera muy fácil. En cuestión de segundos estás recogiendo pistas, conociendo personajes y sintiendo cómo una historia tensa se va encajando en la punta de tus dedos”. Se describe como un nuevo mundo de crimen y traición, inmersivo y cinematográfico, pero tan fácil de retomar como un puzle de la mañana."
+        },
+        {
+          "t": "p",
+          "x": "John Zelli, vicepresidente senior de UX y diseño de producto en NBCUniversal Media Group, dijo que el juego se sitúa en la intersección de dos tendencias que los usuarios han recibido bien: el microdrama y la narrativa interactiva. En lugar de ver cómo se desarrolla una historia, los fans pueden entrar directamente en ella, dijo. Añadió que trabajar con Wolf Games es una forma de explorar cómo reunir video, jugabilidad y narrativa en un solo lugar."
+        }
+      ]
+    },
+    "movies/movies-actionvfx-filmmakers-course": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/vfx-for-filmmakers-1-624x415.jpg",
+          "cap": "VFX for Filmmakers (imagen: ActionVFX)"
+        },
+        {
+          "t": "p",
+          "x": "ActionVFX lanzó el curso en línea “VFX for Filmmakers”. Está diseñado para profesionales del video que no son especialistas en VFX —directores, editores, directores de fotografía y creadores que hacen de todo— para que produzcan por su cuenta efectos visuales con peso en comerciales, videos musicales y cine independiente."
+        },
+        {
+          "t": "p",
+          "x": "Mientras las expectativas de los clientes suben y los presupuestos de producción se reducen, los profesionales del video en el terreno se encuentran cada vez más a cargo de los efectos visuales sin un estudio de VFX dedicado. El curso combina el sentido de dirección tradicional con un pipeline de composición completo, enseñando a producir tomas de nivel de estudio con software que ya se tiene, como Adobe After Effects y Photoshop."
+        },
+        {
+          "t": "p",
+          "x": "El plan de estudios incluye un paquete de assets profesionales valorado en $2,300. Los alumnos reciben 13 placas de práctica en video real para seguir las clases, más de 50 elementos ActionVFX Pro, y una guía de referencia de VFX para uso práctico."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de ActionVFX, Rodolphe Pierre-Louis, dijo: “La mayoría de los cineastas choca con una pared en el momento en que una toma necesita efectos visuales. O recortan su visión creativa o queman el presupuesto en subcontratar: es una cosa o la otra. Este curso cambia esa ecuación. Le da a directores, directores de fotografía y editores un pipeline repetible para rodar de forma más inteligente en el set, usar herramientas de IA prácticas, y producir tomas listas para el cliente sin un departamento de VFX.”"
+        },
+        {
+          "t": "p",
+          "x": "El curso está dirigido por los veteranos de producción de ActionVFX Zachery Vanhoy y Sam Crowe. Está estructurado para llevar a los alumnos desde cero experiencia hasta entregar una toma profesional terminada, eliminando el relleno teórico para enfocarse en situaciones que realmente importan en la práctica."
+        },
+        {
+          "t": "p",
+          "x": "El paquete de assets de producción, valorado en más de $2,300, incluye 13 placas de práctica en video real, unos 50 elementos de stock de ActionVFX, archivos de proyecto y una hoja de referencia para usar en el set. El módulo que conecta el set con la posproducción cubre la previsualización, la iluminación de pantalla verde, la configuración de cámara, los marcadores de tracking y la recolección de datos en el set, eliminando dolores de cabeza de posproducción antes incluso de abrir el software."
+        },
+        {
+          "t": "p",
+          "x": "El aprendizaje basado en proyectos se centra en una composición principal de pantalla verde sobre un entorno de matte painting, con miniproyectos aparte para el reemplazo de cielo (tracking de puntos) y el reemplazo de pantalla (tracking planar). El módulo “Modern AI Integration” enseña la generación de mapas de profundidad, rotoscopia asistida por IA, relleno sensible al contenido, y resolución de problemas técnicos con ayuda de LLM como herramientas prácticas. El avance es al ritmo de cada alumno."
+        },
+        {
+          "t": "p",
+          "x": "“VFX for Filmmakers” está disponible ahora por $299."
+        }
+      ]
+    },
+    "movies/movies-ai-creative-summit-bfi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/2/9/1/1484291_aicreativesummit20261_492441.jpg",
+          "cap": "2026 AI Creative Summit (imagen: Broadcast)"
+        },
+        {
+          "t": "p",
+          "x": "Se revelaron los temas de contenido de la Cumbre AI Creative Summit 2026. Regulación, flujo de trabajo de producción y habilidades son el eje central."
+        },
+        {
+          "t": "p",
+          "x": "El evento anual, lanzado en 2023 por Broadcast, Screen International y Broadcast Tech, se ha agotado cada año y este año amplía su formato. En 2026 ocupará todo el recinto del BFI Southbank en Londres el 11 de noviembre, cubriendo el creciente uso de la IA en la producción de contenido a través de tres ejes."
+        },
+        {
+          "t": "p",
+          "x": "La primera lista de ponentes se anunciará el próximo mes; los temas se definieron antes. Rights, Ethics & Responsible AI; AI in Production; The Future of Storytelling and Audience Engagement; Skills, Talent & the Next Generation; Policy, Regulation & Industry Leadership; AI and Business & Competitive Advantage; y Emerging Technology & What's Next, todos entraron en la lista."
+        },
+        {
+          "t": "p",
+          "x": "La sesión Rights, Ethics & Responsible AI cubre las cuestiones legales, éticas y de confianza que determinan la adopción de la IA en los medios y el entretenimiento. La sesión de producción, bajo el lema “Del hype al flujo de trabajo”, analiza cómo la IA entra en los procesos reales de producción para generar eficiencia, creatividad y resultados tangibles."
+        },
+        {
+          "t": "p",
+          "x": "La sesión The Future of Storytelling and Audience Engagement examina cómo la IA está cambiando la creación de contenido, la experiencia de la audiencia y los nuevos formatos narrativos. La sesión Skills, Talent & the Next Generation trata cómo las organizaciones y las personas pueden prepararse para trabajar en una industria saturada de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/2/6/5/1484265_aicreativesummit20262_195817.jpg",
+          "cap": "2026 AI Creative Summit (imagen: Broadcast)"
+        },
+        {
+          "t": "p",
+          "x": "La sesión AI and Business & Competitive Advantage cubre cómo las organizaciones pueden construir estrategias sostenibles y extraer valor, mientras que Policy, Regulation & Industry Leadership aborda el panorama regulatorio cambiante y los marcos que determinarán el futuro de la IA. La sesión final, “What's Next”, mira más allá de las herramientas actuales, hacia las tecnologías que definirán la próxima generación de medios y entretenimiento."
+        },
+        {
+          "t": "p",
+          "x": "Las entradas de la primera tanda ya se agotaron, y ahora quedan entradas prioritarias de £455 más IVA, de las cuales ya se ha vendido más de la mitad. Cuando se agoten, se pasará a entradas anticipadas de £505."
+        },
+        {
+          "t": "p",
+          "x": "Entre los asistentes de ediciones anteriores, todas agotadas, se encuentran Disney, Netflix, Coutts, Warner Bros. Discovery, Apple TV+, Liverpool FC, Shell, BBC, Quay Street Productions, Banijay, ITV Studios, AMC Networks International, NBC Universal, University of Westminster, Sony Pictures Television, All3Media, Channel 4, Accenture y Love Productions. El evento está patrocinado por Sneakit Labs y Bizart."
+        }
+      ]
+    },
+    "movies/movies-artlist-seedance-unlimited": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/artlist-appears-to-have-quietly-removed-seedance-2-5-v0-ksxbe0zy6kih1.jpg.webp",
+          "cap": "Artlist anunció masivamente Seedance 2.5 como “1 año ilimitado” y luego cortó el acceso en una semana (captura: Reddit)."
+        },
+        {
+          "t": "p",
+          "x": "Durante todo el fin de semana, Artlist les dijo a los cineastas que comprar una suscripción anual de AI Creator les daría uso ilimitado de Seedance 2.5 de ByteDance durante doce meses. Días después, el modelo se retiró de la lista de uso ilimitado en todos los planes, y a quienes habían pagado unos $500 se les dieron créditos equivalentes a una fracción mínima de esa cantidad. Artlist dice que el problema fue la demanda. Visto el costo por unidad del propio modelo, era una promesa que no se podía cumplir desde el principio."
+        },
+        {
+          "t": "p",
+          "x": "Hay que reconocerlo: dejaron de escudarse en eufemismos. En un comunicado enviado a los clientes afectados, la empresa dijo que había hecho una gran promesa que “no pudo cumplir” y admitió el error. Es la frase más honesta que ha salido de Artlist esta semana, y también una confesión de que la oferta se vendió sin que nadie comprobara si era viable."
+        },
+        {
+          "t": "p",
+          "x": "Seedance 2.5 no es un modelo barato de operar. En el mercado público de reventa, generar un segundo de video en 720p cuesta alrededor de $0.47, lo que deja el costo de un solo clip de 30 segundos en unos $14. Los términos promocionales de Artlist fijaban un límite diario de unos 2,550 segundos, es decir, 85 clips de 30 segundos. Haciendo la multiplicación, un suscriptor de uso intensivo quema unos $1,190 en inferencia al día. Con una suscripción de $500 al año."
+        },
+        {
+          "t": "p",
+          "x": "El precio mayorista de Artlist no es público, así que esta cifra solo indica una dirección, y no necesita ser precisa. Con cualquier tasa de descuento que se aplique, un solo usuario intensivo recupera el costo de la suscripción de todo un año en un solo día, y la empresa pierde dinero durante los 364 días restantes. No fue una previsión errada: era una oferta que solo funcionaba si los clientes no usaban lo que habían comprado. Los clientes lo usaron, y se derrumbó en una semana."
+        },
+        {
+          "t": "p",
+          "x": "La cifra de 2,550 segundos también dice algo por sí misma: el plan ilimitado tenía un tope diario incorporado desde el momento en que se vendió."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Artlist-warning-900x507.jpg",
+          "cap": "El mensaje que Artlist envió a los suscriptores anunciando el fin del acceso a Seedance 2.5 (captura proporcionada por un usuario)."
+        },
+        {
+          "t": "p",
+          "x": "Si toda la industria hubiera chocado con el mismo muro, culpar a la capacidad habría sido creíble, pero no fue así. Higgsfield puso un tope de uso ilimitado de 33 días como máximo; Runway da 7 días a los nuevos suscriptores Max; Renoise ofrece una semana; Topview ofrece 60 días; Krea trabaja en bloques de 7, 15 o 30 días; OpenArt limita lo ilimitado a generaciones de 5 segundos y 480p. Es hasta ahí donde aguanta la economía. Solo Artlist vendió 365 días, y presentó esa diferencia no como una advertencia, sino como prueba de valor."
+        },
+        {
+          "t": "p",
+          "x": "Los términos definen lo ilimitado como “no deducir créditos por esa generación durante el período de acceso”, y luego vacían casi todo el significado de esa palabra. El texto no garantizaba velocidad, ni capacidad, ni acceso ininterrumpido, ni número de generaciones, ni “la provisión continua de servicios, modelos o funciones de IA”, y seguía publicado en el sitio incluso mientras se difundía la promoción. La línea de defensa legal ya estaba trazada antes de que saliera el marketing."
+        },
+        {
+          "t": "p",
+          "x": "El remedio se diseñó para proteger el efectivo. Los créditos mensuales de los suscriptores afectados subieron de 80.000 a 180.000. AI Creator cuesta $41.67 al mes con facturación anual, o $69.99 con facturación mensual, y los usuarios dicen haber pagado $499.99 por el plan anual promocional. Según los cálculos de los propios clientes, una generación de 30 segundos cuesta unos 15.000 créditos, lo que significa que la nueva asignación equivale a poco más de doce clips al mes. Lo que eran 85 al día se convirtió en doce al mes."
+        },
+        {
+          "t": "p",
+          "x": "El remedio más justo, el reembolso, es solo por solicitud, y además se limita a quienes compraron entre el 7 y el 10 de agosto. Los clientes tienen que buscarlo, pedirlo y esperar. Algunos se procesaron rápido, como prometía la política; muchos otros, bloqueados por negativas o silencio, recuperaron su dinero a través de PayPal o de contracargos (chargebacks) de sus tarjetas."
+        }
+      ]
+    },
+    "movies/movies-dalet-solution-suites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Solution-Suites-Dalet-624x415.jpeg",
+          "cap": "Dalet Solution Suites (imagen: Dalet)"
+        },
+        {
+          "t": "p",
+          "x": "Dalet, que ofrece tecnología y servicios a organizaciones centradas en medios, lanzó Dalet Solution Suites, una línea de productos nativa de la nube que combina la creación, distribución, gestión y archivo de medios. Está construida sobre Dalet Flex, su propia plataforma de gestión de activos de medios, con flujos de trabajo preconfigurados para producción/distribución y catalogación/archivo, además de inteligencia consciente de los medios y automatización. La IA agéntica y la interfaz conversacional están pensadas para ayudar a los equipos creativos a pasar de las formas antiguas de trabajar a las nuevas."
+        },
+        {
+          "t": "p",
+          "x": "La Suite de Producción y Distribución ejecuta todo, desde la ingesta hasta la edición, la revisión, la colaboración, la orquestación de flujos de trabajo y la publicación multiplataforma, dentro de un único entorno. Conecta el camino desde la creación de contenido hasta la distribución y simplifica las operaciones de video en sí mismas."
+        },
+        {
+          "t": "p",
+          "x": "La Suite de Catalogación y Archivo es un repositorio central impulsado por IA para organizar, enriquecer, gobernar y recuperar el video de una organización. Los usuarios encuentran y reutilizan contenido existente mientras preparan la biblioteca para usarla en flujos de trabajo de IA."
+        },
+        {
+          "t": "p",
+          "x": "Ambas suites, que funcionan sobre la plataforma de orquestación empresarial Dalet Flex, incluyen a Dalia, el asistente de IA consciente de los medios de Dalet. Busca en las bibliotecas de video en lenguaje natural, automatiza tareas repetitivas, enriquece metadatos y lanza flujos de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Dalet sitúa su diferencia frente a plataformas de almacenamiento genéricas o soluciones independientes en su capacidad de gestión de medios, que rastrea las relaciones entre activos y metadatos, colaboradores, flujos de trabajo, aprobaciones, derechos y requisitos de distribución. La empresa dice que combinar un despliegue rápido con flujos de trabajo de medios de extremo a extremo simplifica la incorporación y permite manejar las operaciones de medios en una sola plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Cada suite incluye más de 25 flujos de trabajo preconfigurados, una arquitectura SaaS nativa de la nube, opciones de despliegue gestionado, APIs abiertas y funciones de IA integradas. La arquitectura estandarizada reduce la dificultad de implementación y facilita que integradores de sistemas o consultores de soluciones la desplieguen por sí mismos."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo son organizaciones que necesitan capacidad de medios de nivel empresarial, como deportes, universidades, comunicaciones corporativas y agencias gubernamentales. Dalet Solution Suites está disponible de inmediato en Estados Unidos a través de Dalet y su ecosistema global de socios, y se abrirá en otras regiones en los próximos meses."
+        }
+      ]
+    },
+    "movies/movies-nvidia-video-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/3/0/7/1484307_nvidiaaivideodetector_311235.jpg",
+          "cap": "Detector de video con IA de Nvidia (imagen: NVIDIA)"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia lanzó una herramienta para identificar contenido generado con IA."
+        },
+        {
+          "t": "p",
+          "x": "El microservicio NIM Synthetic Video Detector, integrado en la plataforma NVIDIA For Media, analiza el video cuadro por cuadro y entrega una puntuación de clasificación sobre si hay contenido sintético mezclado."
+        },
+        {
+          "t": "p",
+          "x": "El juicio se mantiene incluso después de la compresión, el cambio de tamaño, el recorte y la recodificación habituales en el trabajo de salas de redacción y video social. En las propias pruebas de Nvidia, la precisión alcanzó hasta un 92% en video sin comprimir, 87% con 15% de compresión y 82% con 50% de compresión."
+        },
+        {
+          "t": "p",
+          "x": "La velocidad de procesamiento, para 1080p, es de 22 milisegundos en sistemas NVIDIA RTX y de unos 30 milisegundos en GPU NVIDIA L40."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo son los equipos de noticias. Pueden usar la puntuación para priorizar la revisión, marcar o aislar material sospechoso, y enviarlo a un análisis más profundo. Nvidia aclaró que esto no sustituye los procesos de verificación existentes, sino que solo ofrece “otra señal”."
+        },
+        {
+          "t": "p",
+          "x": "Funciona en entornos locales, en el borde (edge), híbridos y en entornos aislados (air-gapped) aprobados. También se está integrando en software de socios como el Wowza Video Intelligence Framework."
+        }
+      ]
     }
   }
 }

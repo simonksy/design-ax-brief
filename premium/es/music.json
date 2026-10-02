@@ -1487,6 +1487,393 @@
           "x": "La IA no escribió la letra. Hizo la música, y aprender a apuntarla me llevó un año. Lo que no pude hacer en 30 años no fue escribir, sino terminar. El software no sustituyó a Vito ni a Abbie. Solo nos presentó."
         }
       ]
+    },
+    "music/music-beatport-ai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Beatport-AI-ban-T.jpg",
+          "cap": "La prohibición de IA de Beatport (foto cortesía de Beatport)"
+        },
+        {
+          "t": "p",
+          "x": "Beatport ha empezado a filtrar la música hecha con IA. La tienda de descargas de música dance incorporó a su catálogo la herramienta de detección de Beatdapp, un sistema pensado para detectar, en el momento de la subida, las pistas hechas por completo o en su mayoría con IA."
+        },
+        {
+          "t": "p",
+          "x": "La política sobre IA en sí existe desde enero de 2025. Lo nuevo es la tecnología que realmente la hace cumplir. Qué tan bien detecta la herramienta es algo que se sabrá en los próximos meses."
+        },
+        {
+          "t": "p",
+          "x": "La música hecha enteramente con IA queda retenida durante la ingesta, y se notifica de inmediato al titular de los derechos. La asistencia de IA se trata de forma distinta. “La música hecha con asistencia de IA seguirá siendo aceptada siempre que la pista final esté hecha mayoritariamente por manos humanas”, dice la página de políticas de Beatport. Estos lanzamientos quedan marcados en la etapa de importación, de modo que el equipo de curaduría sabe qué está viendo al revisarlos."
+        },
+        {
+          "t": "p",
+          "x": "Beatdapp era originalmente un socio para la detección de fraude en streaming. Con esta nueva herramienta de detección de IA, esa colaboración se ha ampliado también a la identificación de música."
+        },
+        {
+          "t": "p",
+          "x": "Beatport dice que esta decisión refleja directamente la postura de la comunidad. En una encuesta a usuarios, el 60% dijo que no pondría pistas generadas por IA en sus sets, y el 77% dejó claro que apoyaría a los creadores humanos. El 8% dijo estar dispuesto a poner música de IA, y el 13% dijo que lo consideraría si hubiera una compensación justa para artistas y sellos."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Beatport, Matt Gralen, lo resumió así: “Beatport existe para los DJs, y para empoderar a artistas y sellos. Las nuevas técnicas de producción han impulsado la música electrónica desde el principio, pero las herramientas que ayudan a la creatividad humana son distintas de los sistemas que la sustituyen por completo. Beatport se construyó sobre lo primero”."
+        },
+        {
+          "t": "p",
+          "x": "Andrew Batey, cofundador y co-CEO de Beatdapp, señaló que la industria de la música siempre ha adoptado nuevas tecnologías, y añadió que lo que se necesita ahora es una infraestructura que aporte transparencia real en la era de la IA generativa. Jay Ahern, director de estrategia de AFEM, consideró que este enfoque se alinea con los principios de IA de AFEM: la intención humana y el control creativo deben situarse junto al consentimiento, las licencias, la transparencia, el etiquetado de procedencia y la compensación justa."
+        },
+        {
+          "t": "p",
+          "x": "El momento no es casualidad. El mes pasado, el gigante del streaming parisino Deezer confirmó que alrededor del 50% de las subidas diarias a su plataforma, unas 90.000 canciones, son generadas por IA. A principios de agosto, Spotify dijo que añadiría una insignia de 'AI Persona' a los perfiles de artistas generados por IA. En junio, un reportaje de The Atlantic reveló que las empresas de IA han usado unos 21 millones de pistas protegidas por derechos de autor para entrenar sus modelos."
+        },
+        {
+          "t": "p",
+          "x": "Combinar una prohibición total de la música de IA con la detección automática es una decisión coherente para una plataforma centrada en DJs. Por ahora no funcionará a la perfección. La música de IA sin modificar se detecta relativamente bien, pero una vez editada, con voces humanas añadidas y mezclada con otros sonidos, incluso las herramientas más sofisticadas tienen dificultades para distinguirla. Aun así, es mejor que no tener ninguna regla, concluye Gearnews."
+        }
+      ]
+    },
+    "music/music-ia-de-esser": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/ia-deesser-728x364.jpg",
+          "cap": "IA De-Esser: un de-esser gratuito con cuatro slots"
+        },
+        {
+          "t": "p",
+          "x": "Immanent Audio ha lanzado IA De-Esser, un plugin gratuito de de-essing y supresión de resonancias para macOS y Windows."
+        },
+        {
+          "t": "p",
+          "x": "IA De-Esser adopta un enfoque algo distinto. En lugar de un solo módulo, usa cuatro slots de filtro para controlar la sibilancia, la aspereza y los picos de resonancia. Cada slot puede funcionar como un modo De-Ess que reacciona automáticamente a la sibilancia, o como un modo que trata un rango más amplio de sonido áspero."
+        },
+        {
+          "t": "p",
+          "x": "Es una idea razonable. Quitar un poco de aspereza en cada módulo da un resultado más natural que forzar un solo de-esser al máximo."
+        },
+        {
+          "t": "p",
+          "x": "En el modo Auto, basta con fijar el rango de Low-Cut y Hi-Cut para que el plugin elija los valores de depth y Q que considera adecuados. El modo Smart va un paso más allá: escanea el espectro y envía los slots activos a los puntos que necesitan atención."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es recortar solo la aspereza que se quiere eliminar, sin que la voz o el instrumento entero se hunda en ese sonido apagado tan característico del de-essing. La pantalla muestra attack, release, depth y Q en tiempo real, para que se entienda qué está haciendo el plugin."
+        },
+        {
+          "t": "p",
+          "x": "No añade latencia a la DAW, así que puede dejarse puesto incluso en situaciones como la grabación, donde el retraso es un problema."
+        },
+        {
+          "t": "p",
+          "x": "Como las herramientas de audio hechas con IA se han multiplicado últimamente, le preguntamos a Immanent Audio si este plugin también se había desarrollado con IA. El desarrollador, Jay, lo confirmó: “AI was used to speed up the process”. Añadió que, como su oficio es la ingeniería de software, no publica código que no entiende."
+        },
+        {
+          "t": "p",
+          "x": "IA De-Esser se puede descargar gratis en Gumroad. Es compatible con los formatos VST3 y AU en macOS y Windows."
+        }
+      ]
+    },
+    "music/music-spotify-ai-persona": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Spotify-AI-Persona-01-1024x565.jpg",
+          "cap": "Spotify AI Persona · Fuente: Spotify"
+        },
+        {
+          "t": "p",
+          "x": "Spotify va a introducir una nueva etiqueta, AI Persona, para perfiles de artista que no representan a una persona real. A partir de mediados de septiembre de 2026, esos perfiles aparecerán marcados en banners, en las búsquedas y en las pistas dentro de las playlists. Al mismo tiempo, Spotify excluirá estos perfiles por defecto de las recomendaciones editoriales y algorítmicas."
+        },
+        {
+          "t": "p",
+          "x": "Spotify dice que la opinión de los oyentes fue clara: querían saber si detrás de un perfil hay una persona real o una persona creada con IA. A partir de ahora, los artistas y sus equipos deberán declarar ellos mismos si su perfil es un AI Persona. Spotify también revisará activamente los perfiles, incluidos los que usan imágenes realistas generadas con IA. En unos meses se abrirá además una función para que los oyentes reporten perfiles sin etiqueta que sospechen sean AI Persona. La decisión final la toma Spotify."
+        },
+        {
+          "t": "p",
+          "x": "El momento no es casual. La plataforma lleva meses inundada de contenido hecho con IA. En abril ya lanzó 'Verified by Spotify' para marcar los perfiles de artistas reales. La etiqueta AI Persona forma parte de un plan más amplio llamado 'Artist Identity & Trust', que también incluye SongDNA y los créditos de canción con IA, mecanismos para revelar cómo usó un artista la IA al hacer música."
+        },
+        {
+          "t": "p",
+          "x": "Lo que realmente importa no es la etiqueta en sí, sino lo que lleva consigo. La música de los perfiles AI Persona no aparecerá por defecto ni en las recomendaciones editoriales ni en las personalizadas. En una plataforma donde el descubrimiento de música depende en la práctica de las playlists algorítmicas, esto se acerca a bloquear el alcance, aunque Spotify diga oficialmente que es solo una etiqueta."
+        },
+        {
+          "t": "p",
+          "x": "Los pagos, sin embargo, no cambian. Las regalías de las pistas AI Persona se siguen pagando como siempre. Lo que Spotify busca limitar no es el dinero, sino la exposición. TIDAL, en julio, fue en la dirección contraria: mantuvo las pistas de IA en su catálogo, pero las cortó por completo de las regalías y de la venta directa."
+        },
+        {
+          "t": "p",
+          "x": "En julio, grandes organismos del sector como IFPI y RIAA acordaron dos etiquetas voluntarias, 'AI-Generated' y 'AI-Assisted'. Las grandes plataformas de streaming no participaron. Spotify, entonces tibia al respecto, ha elegido ahora un camino distinto. Si las etiquetas de los organismos del sector marcan cuánta IA hay en una grabación, la etiqueta AI Persona de Spotify pregunta si hay una persona detrás del perfil."
+        },
+        {
+          "t": "p",
+          "x": "Si la etiqueta logra realmente frenar que las personas de IA desplacen a artistas reales, o si operadores con maña encuentran la forma de esquivarla, no se sabrá hasta después de que entre en vigor a mediados de septiembre."
+        }
+      ]
+    },
+    "music/music-suno-studio-2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/08/suno-studio-2@2000x1500.jpg",
+          "cap": "Suno Studio 2.0 — la barra de chat pidiendo un beat de trip-hop"
+        },
+        {
+          "t": "p",
+          "x": "Suno ha actualizado su propia DAW, Suno Studio, a la versión 2.0. Añade separación de stems avanzada y herramientas MIDI, además de la posibilidad de chatear con la propia DAW."
+        },
+        {
+          "t": "p",
+          "x": "Suno Studio se lanzó en 2025. Pone las funciones habituales de una DAW sobre la tecnología de IA generativa que le dio notoriedad a Suno. MusicTech revisó la plataforma a principios de este año y le dio un 6 sobre 10."
+        },
+        {
+          "t": "p",
+          "x": "Empecemos por el cambio más propio de Suno. En Studio 2.0 se chatea con la DAW “like you would any other collaborator”, es decir, como lo harías con cualquier otro colaborador. En 'Chat' se le puede pedir que cree instrumentos y voces desde cero, que diseñe un nuevo plugin junto contigo, o que ordene una sesión."
+        },
+        {
+          "t": "p",
+          "x": "Suno explica que Chat entiende de producción musical: “like you would any other member of the band” — como si hablaras con cualquier otro miembro de la banda. En el momento del lanzamiento, crear nuevos plugins no consume créditos, aunque Suno añadió “though a credit structure may be introduced in the future”, es decir, que en el futuro podría introducirse un sistema de créditos."
+        },
+        {
+          "t": "p",
+          "x": "También llegó una función muy solicitada. Los usuarios de Studio 2.0 pueden importar, grabar y editar MIDI directamente en la línea de tiempo. También pueden crear sonidos desde cero con un nuevo sintetizador de wavetable. Los clips MIDI también sirven como prompts para generar nuevo audio. Sin un controlador MIDI, se pueden tocar notas con el teclado del ordenador."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta de separación de stems también se actualizó a su versión más reciente, que Suno describe como de “amazing audio fidelity”. Esta es también la primera vez que se pueden dibujar curvas de automatización en los parámetros de pistas y plugins para cambiarlos con el tiempo. Los suscriptores Premier pueden exportar multipista y stems sin límite."
+        },
+        {
+          "t": "p",
+          "x": "Suno Studio 2.0 ya está disponible para los usuarios Premier. La suscripción Premier cuesta 18 libras al mes."
+        }
+      ]
+    },
+    "music/music-tonex-2-player": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4VDagEqs99EEaZkfKzZ2BT.jpg",
+          "cap": "Diagrama del ecosistema Tonex de IK Multimedia"
+        },
+        {
+          "t": "p",
+          "x": "IK Multimedia ha rediseñado Tonex Player de arriba a abajo. Incorpora una pantalla de selección de equipo “photorealistic” y un flujo de trabajo más ordenado, y la beta pública llega junto con 220 nuevos Premium Tone Models."
+        },
+        {
+          "t": "p",
+          "x": "Tonex 2.0 Player funciona más como un centro creativo dentro del ecosistema de tonos de guitarra eléctrica y bajo de IK Multimedia. Gestionar Tone Models, ediciones, presets y capturas, y descubrir sonidos nuevos, queda todo reunido en un solo lugar."
+        },
+        {
+          "t": "p",
+          "x": "Los sonidos creados aquí se usan igual en todo el catálogo de hardware Tonex."
+        },
+        {
+          "t": "p",
+          "x": "Cuando IK Multimedia dice que el ecosistema Tonex está creciendo, no es una exageración. El diagrama con Tonex 2.0 Player sentado en el centro de varios equipos de hardware se vuelve más complejo cada día."
+        },
+        {
+          "t": "p",
+          "x": "Tonex 2.0 Player funciona tanto como plugin de guitarra como app independiente para la DAW. En cuanto se abre, se nota que la pantalla de inicio ha cambiado. El equipo, la cadena de señal y la librería se abren todos desde aquí."
+        },
+        {
+          "t": "video",
+          "yt": "pbYaZjeKkBQ"
+        },
+        {
+          "t": "p",
+          "x": "IK Multimedia lo explica así: “It's faster to find the sound you want, easier to shape it, and more rewarding to explore”. Es decir, se encuentra el sonido deseado más rápido, se da forma con más facilidad y resulta más gratificante explorar."
+        },
+        {
+          "t": "p",
+          "x": "La pantalla para recorrer los modelos de amplificador ahora se ve mejor. La conexión con la comunidad ToneNET también se ha estrechado, y el nuevo Smart Search facilita encontrar Tone Models y presets de cadena de señal hechos por usuarios. Un navegador flotante dedicado, de tamaño ajustable, se mueve entre amplis, efectos y la colección Tonex."
+        },
+        {
+          "t": "p",
+          "x": "Este es el punto central del modelo Tonex. Toda la gama Tonex, software y hardware por igual, está diseñada para encajar por completo con la plataforma Amplitube 5 de IK Multimedia. Lo que propone esta renovación es también un único flujo de trabajo que va de la captura al estudio, al ensayo y al escenario."
+        },
+        {
+          "t": "p",
+          "x": "Tonex 2.0 Player está abierto ahora como beta pública. Pronto llegará a todos los usuarios de Tonex como actualización gratuita."
+        }
+      ]
+    },
+    "music/music-daddario-ai-admission": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/z9H4sYWjQE42gw9xW8iKRi.jpg",
+          "cap": "D'Addario — protagonista del polémico video de demostración de NYXL HD"
+        },
+        {
+          "t": "p",
+          "x": "D'Addario admitió haber usado IA generativa en un video de demostración de sus cuerdas de guitarra eléctrica de rango extendido NYXL HD. La marca de cuerdas y accesorios, con sede en Nueva York, confirmó que usó Suno Studio para regenerar la pista original."
+        },
+        {
+          "t": "p",
+          "x": "El comunicado en Instagram empieza así: \"We got this wrong. We've completed a full review and confirmed that Suno Studio was used to regenerate the original track. We shared inaccurate information, and we're truly sorry.\""
+        },
+        {
+          "t": "p",
+          "x": "Hasta entonces, la empresa había negado usar IA, e incluso publicó un video que mostraba archivos stem de DAW. Fueron youtubers quienes indagaron en esa afirmación. Danny Sapko planteó las primeras dudas, y la verificación se extendió en torno a una demo de interpretación de metal progresivo muy procesada. Rhett Shull obtuvo los archivos stem directamente y profundizó más en la controversia."
+        },
+        {
+          "t": "video",
+          "yt": "22iRLD7yvsw"
+        },
+        {
+          "t": "p",
+          "x": "Artistas de D'Addario como Yvette Young y Mike Dawes defendieron inicialmente a la marca. La situación se intensificó cuando la empresa borró comentarios críticos y un empleado afirmó haber sido doxeado."
+        },
+        {
+          "t": "p",
+          "x": "En el comunicado, D'Addario dijo que también había manejado mal la moderación de comentarios. \"Honest criticism should not be erased.\" Es decir, la crítica honesta no debería borrarse. Añadió que cambiará la forma de gestionar sus canales para proteger a las personas de amenazas, acoso y exposición de datos personales, sin dejar de escuchar las opiniones."
+        },
+        {
+          "t": "p",
+          "x": "También estableció una nueva política. \"We do not support AI-generated music, and our process will reflect that going forward.\" Los empleados y socios creativos deberán revelar de ahora en adelante si se usó IA generativa en el contenido, y la empresa revisará esa información a fondo."
+        },
+        {
+          "t": "p",
+          "x": "Cerró diciendo que sabe que un solo comunicado no resuelve esto, que D'Addario existe porque los músicos han confiado su sonido a sus productos, y que se ganará esa misma confianza en la forma en que trate a esta comunidad."
+        }
+      ]
+    },
+    "music/music-apc-140": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/s/noizefield_audio-plugin-coder_product_image.png",
+          "cap": "Noizefield Audio Plugin Coder"
+        },
+        {
+          "t": "p",
+          "x": "El fabricante de software musical Noizefield lanzó Audio Plugin Coder (APC) 1.4.0, una gran actualización del framework de código abierto que usa agentes de codificación con IA para convertir ideas de plugins escritas en lenguaje natural en estructuras de proyecto VST3/AU."
+        },
+        {
+          "t": "p",
+          "x": "APC guía a los usuarios a través de la ideación, el diseño de la arquitectura, el diseño de la UI, la implementación, las pruebas y el empaquetado, mientras conserva el estado del proyecto y el conocimiento para resolver problemas durante todo el proceso. Está pensado para productores, diseñadores de sonido y desarrolladores que no quieren empezar desde un proyecto de C++ vacío. Funciona en Windows, macOS y Linux junto a agentes como Claude Code, Cursor, Codex, Kilo y Antigravity."
+        },
+        {
+          "t": "p",
+          "x": "Esto es lo nuevo en la versión 1.4.0. Actualiza de JUCE 8 a JUCE 9.0.1, incorporando soporte para los hosts y herramientas más recientes y para la UI basada en WebView. /apc-setup es un asistente de primera ejecución que revisa la cadena de herramientas y configura las ubicaciones de las carpetas de plugins, compilación y lanzamiento, los valores predeterminados de la UI y las preferencias de modelo de IA para cada paso."
+        },
+        {
+          "t": "p",
+          "x": "Los comandos de flujo de trabajo también recibieron nombres propios, como /apc-dream, /apc-plan, /apc-design, /apc-impl y /apc-ship, un ajuste pensado para evitar choques de nombres con otras herramientas de IA, aunque los alias cortos como /dream se mantienen. La verificación de dependencias es más estricta, y la documentación de plugins con WebView ha mejorado. Los scripts de compilación se corrigieron para reconocer rutas correctamente, y las pruebas de humo de la UI de WebView en Windows se verificaron con compilaciones de plugins reales."
+        },
+        {
+          "t": "video",
+          "yt": "B_hEkSp3tEk"
+        },
+        {
+          "t": "p",
+          "x": "APC 1.4.0 está disponible gratis en GitHub, con el código fuente también abierto."
+        }
+      ]
+    },
+    "music/music-eu-ai-label": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/8-4-AI-EU.jpg",
+          "cap": "La disposición de transparencia de la Ley de IA de la UE, en vigor desde el 2 de agosto"
+        },
+        {
+          "t": "p",
+          "x": "Desde el 2 de agosto, han entrado en vigor las nuevas disposiciones de transparencia de la Ley de IA de la Unión Europea. El audio, las imágenes, el vídeo y el texto creados o alterados sustancialmente por IA deben ahora declarar claramente que son “artificiales”."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores de sistemas de IA de uso general también quedan sujetos a nuevas obligaciones de transparencia. Es el primer hito que los consumidores perciben de manera tangible en la legislación emblemática de la UE sobre IA."
+        },
+        {
+          "t": "p",
+          "x": "Desde la perspectiva de la industria musical, este cambio no busca frenar la IA, sino hacer visible su uso. No prohíbe la música hecha con IA ni resuelve las disputas de derechos de autor sobre los datos de entrenamiento de la IA."
+        },
+        {
+          "t": "p",
+          "x": "En cambio, “el foco está en la transparencia”. Si un contenido fue creado o alterado sustancialmente por IA, el oyente debe poder reconocerlo, y las empresas desarrolladoras deben documentar cómo entrenaron sus modelos y cumplir los requisitos de transparencia de la Ley de IA."
+        },
+        {
+          "t": "p",
+          "x": "Las grandes preguntas legales de la industria musical siguen sin respuesta. Las nuevas normas no determinan si empresas como Suno o Udio cometieron infracciones al entrenar con grabaciones protegidas por derechos de autor, ni exigen revelar todas las canciones usadas en el entrenamiento. Esa disputa continúa en tribunales y mesas de negociación de licencias de todo el mundo."
+        },
+        {
+          "t": "p",
+          "x": "Lo que Europa ha establecido esta vez es una línea de base única: “el contenido hecho por IA ya no puede ser anónimo”."
+        },
+        {
+          "t": "p",
+          "x": "Para los artistas, sellos y titulares de derechos, resulta más fácil identificar los contenidos generados por IA y examinar cómo se presentan a los oyentes. También es más fácil exigir responsabilidad a las empresas por cómo usaron la IA. Las empresas que incumplan los requisitos de transparencia pueden enfrentar multas de hasta 15 millones de euros, o el 3% de su facturación mundial anual."
+        }
+      ]
+    },
+    "music/music-spotify-kobalt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/spotify-has-roped-the-indie-publisher-kobalt-into-its-ai-platform-for-covers-and-remixes/intro-1786636073.jpg",
+          "cap": "Los logotipos de Spotify y Kobalt sobre fondo negro"
+        },
+        {
+          "t": "p",
+          "x": "Spotify lleva tiempo insinuando una herramienta de IA que permite a los fans crear portadas y remixes. Ya había revelado una colaboración con Universal Music Group. El nuevo socio es la editorial musical independiente Kobalt, que publica canciones de un amplio abanico de músicos, desde Phoebe Bridgers hasta la banda post-punk IDLES."
+        },
+        {
+          "t": "p",
+          "x": "Los artistas de Kobalt podrán sumarse pronto a la nueva plataforma de Spotify, donde los fans toman canciones y las transforman en remixes y versiones, impulsadas, por supuesto, por un conjunto de herramientas de IA. Todavía nadie ha escuchado los resultados. Es algo parecido a Suno, pero usando solo canciones con licencia adecuada en lugar de rastrear toda la internet."
+        },
+        {
+          "t": "p",
+          "x": "Por eso la herramienta se presenta no como una nueva forma de que la IA generativa explote a los artistas, sino como una nueva forma de que ganen dinero. Spotify dice que “open up additional revenue streams and new ways to drive discovery”, es decir, que se abrirán nuevas fuentes de ingresos y nuevas formas de impulsar el descubrimiento. El director ejecutivo de Kobalt, Laurent Hubert, añadió que sus artistas estarán “directly benefiting from the creative opportunities these new features provide”, beneficiándose directamente de las oportunidades creativas que ofrecen estas nuevas funciones."
+        },
+        {
+          "t": "p",
+          "x": "Al menos está claro de dónde vendrán esos ingresos. La plataforma se lanzará como un complemento de pago para los suscriptores de Premium. Aún no se sabe cuánto costará, ni si alguien pagará realmente por crear una versión con IA de su canción favorita."
+        },
+        {
+          "t": "p",
+          "x": "Tampoco se sabe si existirá una vía para hacer versiones sin IA. Si al final todo se reduce a un asunto de licencias, ¿qué diferencia hay entre el slop generado por un algoritmo y una versión real interpretada y grabada por una persona? Sea como sea, las respuestas tardarán en llegar. Spotify todavía no ha dicho cuándo se lanzará."
+        }
+      ]
+    },
+    "music/music-uppbeat-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/08/The-Uppbeat-Creator-Report.jpg",
+          "cap": "Uppbeat Creator Report 2026"
+        },
+        {
+          "t": "p",
+          "x": "La IA ha irrumpido en la economía de los creadores y ha transformado el panorama digital. El contenido se ha multiplicado y la autenticidad atraviesa una crisis. En lugar de predecir el futuro, la plataforma de activos creativos Uppbeat preguntó directamente a los propios creadores."
+        },
+        {
+          "t": "p",
+          "x": "El recién publicado Uppbeat Creator Report 2026 se basa en una encuesta a 1,792 profesionales creativos y 13 entrevistas en profundidad realizadas entre febrero y marzo de 2026. Examina cómo los creadores, incluidos músicos y youtubers, se adaptan a la nueva tecnología, qué herramientas de IA adoptan y qué partes del proceso creativo se niegan a cederle a las máquinas."
+        },
+        {
+          "t": "p",
+          "x": "La línea es clara. “Just 6.7% of respondents finding fully AI-generated content acceptable”, es decir, solo el 6.7% de los encuestados acepta contenido generado enteramente por IA. Sin embargo, “60% are happy to integrate AI assistance”, alrededor del 60% integra con gusto la ayuda de la IA en su flujo de trabajo. Contrario a lo que supone la industria tecnológica, “16- to 24-year-olds are the least likely group to use AI tools”, el grupo de 16 a 24 años es el que menos usa herramientas de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/The-Uppbeat-Creator-Report-4.jpg",
+          "cap": "Dónde los artistas marcan el límite con la IA — Uppbeat Creator Report"
+        },
+        {
+          "t": "p",
+          "x": "De más de 2,600 respuestas abiertas surgieron tres temas. La especificidad importa más que el volumen. A medida que la IA facilita la producción masiva, “creators are standing out by getting more specific and niche”, los creadores destacan volviéndose más específicos y de nicho en lugar de simplemente producir más. El público también reacciona: pasa de largo el contenido excesivamente automatizado y previsible en busca de algo “messy, emotional, and brilliant”, con un matiz humano. Y en medio de un flujo infinito de contenido generado por IA, el único recurso escaso que queda es la mirada y la voz propias del creador."
+        },
+        {
+          "t": "p",
+          "x": "También hay consejos para los músicos independientes. Dejar en manos de la IA tareas como los metadatos, la planificación de promoción, los borradores de correos, la edición de clips y la logística de trabajo, pero no ceder la composición, la grabación de voces ni el encuentro directo con los fans. Producir en masa canciones predecibles solo termina engullido por el fango algorítmico. Lo que convierte a la gente en fans que pagan es una estética extremadamente específica y una historia personal vulnerable."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión de Hypebot es esta: no hay que temer a la IA ni entregarle por completo la identidad creativa. Hay que usar las herramientas para eliminar la fricción de fondo y recuperar tiempo, y dedicar ese tiempo a la conexión cruda y directa de las canciones, los conciertos y la mesa de merchandising. En una era de ruido sintético infinito, la historia personal es una ventaja competitiva que va más allá de la marca."
+        }
+      ]
     }
   }
 }

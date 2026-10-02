@@ -1455,6 +1455,402 @@
           "x": "结论是这样的：可复用的角色、道具、场景参考，是目前已有的AI视频工具里工作流程管理得最好的一类。但视频模型本身仍跟不上Seedance这样的领先者。再加上开启1080p需要每月100美元，今天很难把它推荐给专业影视制作使用。不过，如果xAI在提升画质的同时继续拓展基于资产的工作方式，对于制作反复出场角色和系列作品的人来说，它仍有可能成为一款有吸引力的工具。"
         }
       ]
+    },
+    "movies/movies-billy-joel-ai-doc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/YoungBillyJoelAI.jpg",
+          "cap": "AI还原的年轻时期比利·乔尔(图片:The Hollywood Reporter)"
+        },
+        {
+          "t": "p",
+          "x": "一位纪录片导演拿到了一段尘封已久的比利·乔尔电台采访。随后,他用AI把年轻时的比利·乔尔重新搬上了画面。"
+        },
+        {
+          "t": "p",
+          "x": "这次还原工作,比利·乔尔本人并未参与。也就是说,他年轻时的形象是在未经这位艺人本人同意的情况下复原的。"
+        },
+        {
+          "t": "p",
+          "x": "这起事件直接暴露了使用AI进行纪录片再现时的同意空白问题——AI重现的边界究竟该划在哪里。"
+        }
+      ]
+    },
+    "movies/movies-castle-walls-prime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Castle-Walls-poster.jpg",
+          "cap": "《Castle Walls》海报(图片:Variety)"
+        },
+        {
+          "t": "p",
+          "x": "由AI制作的历史剧《Castle Walls》在Prime Video上线。该剧由土耳其电视制作巨头Ay Yapim出品。"
+        },
+        {
+          "t": "p",
+          "x": "制作方将这部作品称为登上大型流媒体平台的首部全流程生成式AI剧集。"
+        },
+        {
+          "t": "p",
+          "x": "这是对一个问题的真实检验:完全合成的制作流程,能否撑起一整部剧本剧集从头到尾。"
+        }
+      ]
+    },
+    "movies/movies-rocxzoom-kickstarter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "由前DJI工程师创立的初创公司FarseerTech,将把RocXZoom推上Kickstarter。这是一款重400克的手持相机,集50倍混合变焦、电机驱动的平移与俯仰,以及AI对象追踪于一身。该公司称其为全球首款机器人级极限变焦相机。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/RocXZoom-camera-7-900x506.jpeg",
+          "cap": "由前DJI工程师组成的FarseerTech团队(图片:FarseerTech)"
+        },
+        {
+          "t": "p",
+          "x": "团队成员曾在DJI参与过Inspire、Osmo Pocket和Ronin 4D的研发。那段经历直接延续到了这款产品的云台设计与追踪算法中。"
+        },
+        {
+          "t": "p",
+          "x": "工作原理由三部分协同完成:计算机视觉识别拍摄对象,电机云台对其进行物理跟随,50倍混合变焦则在对象移动时持续保持取景。该公司表示能识别300多种动物,并给出数据称可在0.01秒内对以每秒10到20米移动的对象做出反应。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Untitled-September-09-2025-at-09.50.28-8-900x506.jpeg",
+          "cap": "RocXZoom相机(图片:FarseerTech)"
+        },
+        {
+          "t": "p",
+          "x": "机身重400克,采用CNC加工铝材打造,达到IP54防护等级。防抖由云台机构与电子防抖共同完成。机身上配有一块5英寸OLED屏幕。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/RocXZoom-camera-9-900x506.jpeg",
+          "cap": "可装进口袋的长焦镜头套件(图片:FarseerTech)"
+        },
+        {
+          "t": "p",
+          "x": "传感器为1/2.5英寸,属于智能手机级别。视频最高支持4K 30fps,1080p支持30或60fps。照片可保存为4K或1080p。光圈在f/1.8至f/3.9之间变化。等效35mm焦距范围为40–2000mm,光学变焦20倍,另加数字扩展。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/RocXZoom-camera-6-900x506.jpeg",
+          "cap": "机身自带的5英寸OLED屏(图片:FarseerTech)"
+        },
+        {
+          "t": "p",
+          "x": "还可以通过手机App进行远程操控,这项功能是为把相机固定在某处拍摄的场景设计的。该公司还在准备RocXZoom Pro,可将AI追踪系统加装到现有相机和镜头上。"
+        },
+        {
+          "t": "p",
+          "x": "不过目前还没有经过独立验证的实拍素材。编码格式方面的细节也需要进一步公开,才能判断它在实际拍摄现场是否真正好用。"
+        }
+      ]
+    },
+    "movies/movies-seedance-25-blocking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-14.37.07-e1770907766400.png",
+          "cap": "文章配图(图片:Deadline)"
+        },
+        {
+          "t": "p",
+          "x": "字节跳动的视频生成模型Seedance 2.5开始拒绝那些直接还原好莱坞IP与明星面孔的提示词。"
+        },
+        {
+          "t": "p",
+          "x": "此前的Seedance 2.0曾因出现以Tom Cruise和Brad Pitt为对象制作的深度伪造视频并广泛传播而招致猛烈批评。此次举措正是在那场风波之后推出的。"
+        },
+        {
+          "t": "p",
+          "x": "创作者实际在用的主流视频模型,事后才被打上IP与肖像护栏,这种情况并不常见。对用Seedance创作的人来说,哪些提示词能够通过,很快就会不一样。"
+        }
+      ]
+    },
+    "movies/movies-doc-opt-out-ai-clinic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/03/AI_FP_00002.jpg?w=650",
+          "cap": "丹尼尔·罗赫与查理·泰瑞尔执导的《THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST》剧照(图片:Focus Features)"
+        },
+        {
+          "t": "p",
+          "x": "观看新闻或纪录片时,观众需要能够信任画面中的素材。然而,广泛使用的视频编辑软件却越来越多地内置了连导演本人都未必察觉的AI功能,而如何关闭这些功能更是鲜为人知。"
+        },
+        {
+          "t": "p",
+          "x": "一场即将举行的研讨会正是要解决这种担忧。它会告诉记者和纪录片制作者什么时候该去除AI,以及具体该怎么去除。据IndieWire独家报道,Field of Vision与新闻自由基金会(Freedom of the Press Foundation)将举办第六期数字安全诊所,这是一个面向纪录片制作人员和记者、聚焦数字足迹的免费在线课程系列。五年多来,已有500多个制作团队受益,而本期在预先关注度上已经超过了去年那一期。"
+        },
+        {
+          "t": "p",
+          "x": "本期的重头戏,是定于9月10日的新场次“When and How to Opt Out of AI”。Field of Vision联合创始人夏洛特·库克说,这是用户长期以来一直提出的主题。她警惕那些以不易察觉的方式引入AI的工具,比如自动校正或搜索引擎整合。她认为,制作者需要精确掌握自己的工作流程,并能够证明某件作品确实出自自己之手——这同样是为了需要信任媒体的观众。"
+        },
+        {
+          "t": "p",
+          "x": "库克这样说道:“电影人必须能够守护自己所处理的影像和素材,必须清楚没有自己不知道的因素掺入其中,这样才能站在最终成果的背后。”"
+        },
+        {
+          "t": "p",
+          "x": "在这场讲座中,新闻自由基金会的培训师会逐一带参会者了解各个环节,包括如何关闭编辑工具和应用内的特定AI功能,在哪里上传素材才能避免被AI抓取,以及如何判断某个内容是否经过了修饰或编辑。库克总结道:“这是在评估AI工具、弄清什么与什么如何相连时所需要的风险评估。”讲座还会涉及转录服务,以及如何保护知识产权并确认其确实属于自己。她提到,有些工具正在修改用户政策,眼下的难题正是弄清所有权究竟归属何处。"
+        },
+        {
+          "t": "p",
+          "x": "这是为期一个月、共五场讲座中的一场。其余几场涉及数字安全、在跨境或敏感地区如何安全沟通、素材的安全存储与加密方式,以及包括从个人社交账号中删除私人资料在内的数字足迹缩减。"
+        },
+        {
+          "t": "p",
+          "x": "具体安排如下:8月13日,数字安全入门;8月20日,安全沟通;8月27日,保护素材;9月3日,缩减数字足迹;9月10日,AI退出。全部安排在周四下午1点30分至3点。"
+        },
+        {
+          "t": "p",
+          "x": "Field of Vision将相关资料和指南放在https://www.digitalsecurity.film/。团体培训报名可通过bit.ly/digitalsecurity2026进行。"
+        }
+      ]
+    },
+    "movies/movies-peacock-public-eye": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/WOLFPublicEye.png?w=1024",
+          "cap": "《Public Eye》(图片:Wolf Games)"
+        },
+        {
+          "t": "p",
+          "x": "Peacock在其移动端阵容中加入了互动剧集类游戏《Public Eye》。NBCU将其称为“微剧式叙事与互动犯罪调查的结合”的谋杀悬疑作品,也是Peacock首款连载型手机游戏。"
+        },
+        {
+          "t": "p",
+          "x": "全剧共10集。玩家扮演巡警Logan Dyne,在犯罪横行的Caldera City暗中调查叔叔的死因。每一集都将剧情与解谜为核心的玩法结合在一起。在动画场景中搜寻线索的过程中,一场贯穿整个警局的阴谋逐渐浮现。AI制作的画面配合Wolf Games的叙事功底,让玩家亲自推动故事发展。"
+        },
+        {
+          "t": "p",
+          "x": "《Public Eye》是NBC环球与Wolf Games更大一笔合作中的又一成果。Wolf Games是一家生成式AI初创公司,由执行制片人Elliot Wolf联合创立,他是打造了《Law & Order》的Dick Wolf之子。今年早些时候,Peacock推出了《Law & Order: Clue Hunter》,应用内还有填字游戏、问答题以及《Wheel of Fortune》相关的作品。"
+        },
+        {
+          "t": "p",
+          "x": "据NBCU透露,Peacock移动端用户中有40%在应用内体验过游戏。《Law & Order: Clue Hunter》是迄今最成功的游戏上线案例之一,用户平均每天停留超过6分钟。也出现了游戏为原剧带来新观众的趋势。"
+        },
+        {
+          "t": "p",
+          "x": "Wolf Games联合创始人Elliot Wolf表示:“我们把《Public Eye》做得非常容易上手。几秒钟之内你就能捡起线索、遇见角色,感受到一个紧张的故事在指尖逐渐拼合起来。”这是一个关于犯罪与背叛的新世界,具有沉浸感和电影感,却又像晨间解谜游戏一样容易拿起就玩。"
+        },
+        {
+          "t": "p",
+          "x": "NBC环球媒体集团产品UX与设计高级副总裁John Zelli表示,这款游戏正处在微剧和互动叙事这两股用户欢迎的潮流交汇之处。他说,这让粉丝不再只是旁观故事展开,而是能够真正走进故事之中。他还补充说,通过与Wolf Games的合作,他们正在探索把影像、玩法和叙事整合到一处的方法。"
+        }
+      ]
+    },
+    "movies/movies-actionvfx-filmmakers-course": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/vfx-for-filmmakers-1-624x415.jpg",
+          "cap": "VFX for Filmmakers（图片 ActionVFX）"
+        },
+        {
+          "t": "p",
+          "x": "ActionVFX开设了在线课程「VFX for Filmmakers」。这门课程面向非VFX专业出身的影像从业者，也就是导演、剪辑师、摄影指导，以及独自承担全部工作的创作者，帮助他们在广告片、音乐视频和独立电影中自主制作有分量的视觉特效。"
+        },
+        {
+          "t": "p",
+          "x": "客户期望不断提高，制作预算却在缩水，这使得现场的影像从业者越来越多地要在没有专属VFX工作室的情况下承担视觉特效工作。这门课程把传统的导演直觉与一套完整的合成流水线结合起来，教人用Adobe After Effects和Photoshop这类已经拥有的软件，做出工作室级别的镜头。"
+        },
+        {
+          "t": "p",
+          "x": "课程中附带价值2,300美元的专业素材包。学员会获得13种与课程配套的实拍练习素材板、50多个ActionVFX专业元素，以及一份实用的VFX参考指南。"
+        },
+        {
+          "t": "p",
+          "x": "ActionVFX CEO罗多尔夫·皮埃尔-路易斯（Rodolphe Pierre-Louis）表示：「大多数影视制作人一旦镜头需要视觉特效，就会撞上一堵墙：要么压缩创作愿景，要么把预算砸进外包，二者必选其一。这门课程改变了这个局面。它给导演、摄影指导和剪辑师提供了一套可以反复使用的流程，让他们在现场拍得更聪明，用上实用的AI工具，不靠特效部门也能做出能交付给客户的镜头。」"
+        },
+        {
+          "t": "p",
+          "x": "课程由ActionVFX制作资深人员Zachery Vanhoy和Sam Crowe主讲。整体设计是把学员从零经验带到能够交付完整专业镜头的水平，剔除理论上的冗余，聚焦于真正有价值的实战场景。"
+        },
+        {
+          "t": "p",
+          "x": "这份价值超过2,300美元的制作素材包，包含13种实拍练习素材板、约50个ActionVFX素材库元素、项目文件，以及一份现场参考速查表。连接现场与后期的流程章节涵盖预可视化、绿幕布光、相机设置、跟踪标记和现场数据采集，在打开软件之前就先排除掉后期的麻烦。"
+        },
+        {
+          "t": "p",
+          "x": "以项目为核心的学习，以叠加在遮罩绘景环境上的主角绿幕合成为主轴，另外还附带了天空替换（点跟踪）和画面替换（平面跟踪）两个小项目。「Modern AI Integration」章节将深度图生成、AI辅助转描、内容感知填充，以及借助LLM进行技术排障，作为实用工具来教授。学习进度可按各自节奏推进。"
+        },
+        {
+          "t": "p",
+          "x": "「VFX for Filmmakers」目前以299美元开放报名。"
+        }
+      ]
+    },
+    "movies/movies-ai-creative-summit-bfi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/2/9/1/1484291_aicreativesummit20261_492441.jpg",
+          "cap": "2026 AI创意峰会（图片 Broadcast）"
+        },
+        {
+          "t": "p",
+          "x": "2026 AI创意峰会的内容主题已经公布，以监管、制作工作流与技能为主轴。"
+        },
+        {
+          "t": "p",
+          "x": "这项由Broadcast、Screen International与Broadcast Tech在2023年创办的年度活动，历次都售罄，今年进一步扩大了规模。2026年将于11月11日包下伦敦BFI南岸（BFI Southbank）整栋场馆，以三条主线梳理内容制作中日益增长的AI应用。"
+        },
+        {
+          "t": "p",
+          "x": "首批演讲嘉宾名单将于下个月公布，主题则已先行确定：Rights, Ethics & Responsible AI、AI in Production、The Future of Storytelling and Audience Engagement、Skills, Talent & the Next Generation、Policy, Regulation & Industry Leadership、AI and Business & Competitive Advantage，以及Emerging Technology & What's Next。"
+        },
+        {
+          "t": "p",
+          "x": "Rights, Ethics & Responsible AI环节聚焦于贯穿媒体与娱乐行业、左右AI采用的法律、伦理与信任问题。以「从炒作到工作流」为主题的制作环节，关注AI如何真正进入制作流程，带来效率、创意与可见的成果。"
+        },
+        {
+          "t": "p",
+          "x": "The Future of Storytelling and Audience Engagement环节探讨AI如何改变内容创作、观众体验与新的叙事形式。Skills, Talent & the Next Generation环节则关注在被AI渗透的行业中，机构与个人应如何做好工作准备。"
+        },
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/2/6/5/1484265_aicreativesummit20262_195817.jpg",
+          "cap": "2026 AI创意峰会（图片 Broadcast）"
+        },
+        {
+          "t": "p",
+          "x": "AI and Business & Competitive Advantage环节关注机构如何制定可持续战略并提炼价值，Policy, Regulation & Industry Leadership环节关注不断变化的监管格局以及将决定AI未来走向的框架。最后的「What's Next」环节，着眼于当下工具之外、将定义下一代媒体与娱乐的技术。"
+        },
+        {
+          "t": "p",
+          "x": "首批门票已经售罄，目前剩下的是不含增值税455英镑的优先票，其中过半也已售出。售完后将切换为505英镑的预售票。"
+        },
+        {
+          "t": "p",
+          "x": "此前几场售罄活动的参会方包括Disney、Netflix、Coutts、Warner Bros. Discovery、Apple TV+、Liverpool FC、Shell、BBC、Quay Street Productions、Banijay、ITV Studios、AMC Networks International、NBC Universal、University of Westminster、Sony Pictures Television、All3Media、Channel 4、Accenture、Love Productions。赞助方为Sneakit Labs与Bizart。"
+        }
+      ]
+    },
+    "movies/movies-artlist-seedance-unlimited": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/artlist-appears-to-have-quietly-removed-seedance-2-5-v0-ksxbe0zy6kih1.jpg.webp",
+          "cap": "Artlist曾大肆宣传Seedance 2.5为「1年无限」，却在一周内切断了访问权限（截图 Reddit）"
+        },
+        {
+          "t": "p",
+          "x": "整个周末，Artlist都在告诉电影制作者，购买年度AI Creator订阅就能在12个月内无限使用ByteDance的Seedance 2.5。几天后，这款模型就从所有套餐的无限名单中被移除，而那些支付了约500美元的人，只拿到相当于这笔钱极小一部分的积分。Artlist方面表示问题出在需求上。但从模型本身的单位成本来看，这本就是一个从一开始就无法兑现的承诺。"
+        },
+        {
+          "t": "p",
+          "x": "值得肯定的是，他们不再用委婉说法来遮掩。在发给受影响客户的声明中，公司表示自己做出了「无法兑现」的重大承诺，并承认这是个错误。这是Artlist本周说出的最诚实的一句话，同时也等于承认，这项承诺在没有任何人核实是否可行的情况下就卖了出去。"
+        },
+        {
+          "t": "p",
+          "x": "Seedance 2.5并不是一款运行成本低廉的模型。在公开的转售市场上，生成一秒720p视频的价格大约在0.47美元，一段30秒片段的成本约为14美元。Artlist促销条款规定的每日上限约为2,550秒，相当于85段30秒片段。换算下来，一个重度使用的订阅用户每天要消耗价值1,190美元的推理算力——而订阅费只是每年500美元。"
+        },
+        {
+          "t": "p",
+          "x": "Artlist的批发单价并未公开，这个数字只能说明方向，也不需要精确。无论套用怎样的折扣率，一个重度用户都能在一天之内收回一整年的订阅费，剩下的364天则是公司在赔钱。这不是预测失误，而是一个只有在客户不使用自己所买之物时才能维持的条件。客户用了，于是一周之内就垮掉了。"
+        },
+        {
+          "t": "p",
+          "x": "2,550秒这个数字本身也说明了一些问题：这款无限套餐从出售那一刻起，就被设定了每日上限。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Artlist-warning-900x507.jpg",
+          "cap": "Artlist发给订阅用户、宣布终止Seedance 2.5访问权限的消息（用户提供的截图）"
+        },
+        {
+          "t": "p",
+          "x": "如果整个行业都撞上了同样的墙，那么把原因归咎于算力还算说得过去，但事实并非如此。Higgsfield把无限套餐的上限设在最多33天；Runway给新的Max订阅用户提供7天；Renoise是一周；Topview是60天；Krea以7天、15天、30天为单位；OpenArt则把无限使用限定在5秒、480p的生成上。原因是经济模型只能支撑到这个程度。唯独Artlist卖的是365天，而且把这种差距当作价值的证明来营销，而不是当作警示。"
+        },
+        {
+          "t": "p",
+          "x": "条款把「无限」定义为「在访问期内不为该项生成扣除积分」，随后几乎把这个词的所有意义都抽空了。不保证速度、不保证容量、不保证不间断的访问、不保证生成次数，也不保证「持续提供AI服务、模型或功能」——这些措辞在促销活动进行期间，一直原样挂在网站上。法律上的防线，早在营销信息发出之前就已经布好了。"
+        },
+        {
+          "t": "p",
+          "x": "补救措施的设计重点是保住现金。受影响订阅用户的月度积分从8万提高到18万。AI Creator按年付费为每月41.67美元，按月付费为69.99美元，用户表示自己为促销年卡支付了499.99美元。按客户自己的计算，一次30秒生成大约需要15,000积分，照此换算，提升后的额度相当于每月十二段多一点的片段。原本每天85段，变成了每月十二段。"
+        },
+        {
+          "t": "p",
+          "x": "最公平的补救方式——退款，需要主动申请，而且仅限8月7日至10日之间的购买者。客户必须自己去寻找渠道提出申请，然后等待。有些按政策承诺很快处理完毕，但也有不少人在遭到拒绝或无人回应后，转而通过PayPal和发卡机构的拒付（chargeback）才拿回了钱。"
+        }
+      ]
+    },
+    "movies/movies-dalet-solution-suites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Solution-Suites-Dalet-624x415.jpeg",
+          "cap": "Dalet Solution Suites（图片 Dalet）"
+        },
+        {
+          "t": "p",
+          "x": "为媒体核心机构提供技术与服务的Dalet推出了Dalet Solution Suites，这是一套将媒体制作、发行、管理与存档整合在一起的云原生产品线。它构建在Dalet自有的媒体资产管理平台Dalet Flex之上，内置了为制作/发行与编目/归档预先搭建的工作流、媒体感知智能与自动化功能。代理式AI与对话式界面，旨在帮助创意团队从旧方式过渡到新方式。"
+        },
+        {
+          "t": "p",
+          "x": "制作与发行套件把从素材接入到剪辑、审阅、协作、工作流编排、多平台发布全部整合在同一环境中运行，衔接内容从创作到发行的路径，让视频运营本身变得更简单。"
+        },
+        {
+          "t": "p",
+          "x": "编目与归档套件是一个基于AI的中央存储库，用于整理、增强、管控并重新调用机构内部的视频。用户在查找并重新利用现有内容的同时，也在把素材库打磨成可供AI工作流使用的状态。"
+        },
+        {
+          "t": "p",
+          "x": "两套套件都运行在Dalet Flex企业编排平台之上，并内置Dalet具备媒体感知能力的AI助手Dalia，可以用自然语言检索视频库、自动执行重复性任务、增强元数据并启动工作流。"
+        },
+        {
+          "t": "p",
+          "x": "Dalet认为自己与通用存储平台或单一功能解决方案的区别，在于其媒体管理能力——能够兼顾资产与元数据、贡献者、工作流、审批、权利以及发行要求之间的关联关系。该公司表示，快速部署与端到端媒体工作流相结合，能简化上线流程，并让机构在单一平台上处理媒体运营。"
+        },
+        {
+          "t": "p",
+          "x": "每套套件都包含25个以上预先配置好的工作流、云原生SaaS架构、托管部署选项、开放API，以及内置的AI功能。标准化的架构降低了实施难度，也让系统集成商或解决方案顾问更容易自行完成部署。"
+        },
+        {
+          "t": "p",
+          "x": "其瞄准的对象是体育、高校、企业传播、部委与政府机构等需要企业级媒体能力的组织。Dalet Solution Suites目前已可在美国通过Dalet及其全球合作伙伴生态系统直接使用，其他地区将在未来几个月内陆续开放。"
+        }
+      ]
+    },
+    "movies/movies-nvidia-video-detector": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/3/0/7/1484307_nvidiaaivideodetector_311235.jpg",
+          "cap": "NVIDIA AI视频检测器（图片 NVIDIA）"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA推出了一款用于识别AI生成内容的工具。"
+        },
+        {
+          "t": "p",
+          "x": "集成在NVIDIA For Media平台中的Synthetic Video Detector NIM微服务，会逐帧拆解视频，并输出一个分类分数，判断其中是否混有合成内容。"
+        },
+        {
+          "t": "p",
+          "x": "即便经过新闻编辑室与社交视频工作中常见的压缩、缩放、裁剪与重新编码，判定结果依然有效。在NVIDIA自己的测试中，无压缩视频的准确率最高可达92%，15%压缩时为87%，50%压缩时为82%。"
+        },
+        {
+          "t": "p",
+          "x": "以1080p为基准，处理速度在NVIDIA RTX系统上为22毫秒，在NVIDIA L40 GPU上约为30毫秒。"
+        },
+        {
+          "t": "p",
+          "x": "目标用户是新闻团队：他们可以根据分数来决定审核顺序，对可疑素材打标或隔离，再转交更深入的分析。NVIDIA特别强调，这并非要取代现有的核实流程，只是提供「另一个信号」。"
+        },
+        {
+          "t": "p",
+          "x": "该工具可在本地、边缘、混合环境以及经过批准的气隙（air-gapped）环境中运行，目前也在被集成到像Wowza Video Intelligence Framework这样的合作伙伴软件中。"
+        }
+      ]
     }
   }
 }

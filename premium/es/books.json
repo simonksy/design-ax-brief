@@ -1136,6 +1136,386 @@
           "x": "La Sociedad de Editores de Corea ha propuesto políticas para un futuro sostenible de la edición coreana, y ha liderado iniciativas centradas sobre el terreno como Asian Publishers Week y el Seoul Book Institute (SBI)."
         }
       ]
+    },
+    "books/books-aries-chronoshub-submission": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esta es una entrevista publicada por Alice Meadows el 11 de agosto de 2026. Jennifer Fleet, de Aries Systems, y Kristian Grubar, de ChronosHub, respondieron juntos. Hay una sola pregunta: ¿hasta dónde ha llegado la experiencia de envío que los autores esperan hoy, y por qué la publicación académica no le ha dado alcance?"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2195190890-1024x683.jpg",
+          "cap": "Un autor trabajando frente a un ordenador"
+        },
+        {
+          "t": "p",
+          "x": "Fleet señaló que el proceso de envío no es claro desde la primera pantalla. Como los requisitos de formato suelen descubrirse muy avanzado el proceso, no son pocos los autores que dicen que un solo envío puede tardar más de un día. También se preguntó si hace falta recibir toda esa información desde el principio."
+        },
+        {
+          "t": "p",
+          "x": "Grubar puso más peso en la falta de orientación. Los investigadores no reciben la información que necesitan en el momento en que la necesitan. Para quienes están acostumbrados a software del nivel de Spotify o Amazon, los sistemas de publicación los obligan a rellenar a mano campos que podrían extraerse automáticamente de ORCID o ROR. No hay razón, dijo, para que un investigador que no baja sus expectativas con software comercial las baje solo en la publicación académica."
+        },
+        {
+          "t": "p",
+          "x": "Lo que las dos empresas construyeron juntas se llama “Enhanced Researcher Experience”. Reúne recomendaciones de revistas, seguimiento de manuscritos y verificación de estado en tiempo real dentro de Editorial Manager, y junta en un solo lugar directrices y requisitos que antes estaban dispersos. En lugar de construir desde cero, Aries se asoció con ChronosHub, que ya atendía a IEEE y ACS. Las inscripciones para adoptantes tempranos están abiertas, y el lanzamiento completo está previsto para finales del tercer trimestre de 2026. El siguiente paso es el envío previo, que revisa alcance y gramática antes de la revisión editorial."
+        },
+        {
+          "t": "p",
+          "x": "En las reacciones de los primeros clientes, lo que ambos percibieron fue alivio. Añadir una capa sobre la plataforma que ya usaban, en vez de reemplazarla, funcionó. En palabras de Grubar, esto se debe a que el día a día de una editorial gira alrededor de Editorial Manager. Fleet dijo que también aprendió que las suposiciones hechas durante el desarrollo no siempre coinciden con el uso real."
+        },
+        {
+          "t": "p",
+          "x": "El punto central llega al final. Grubar dijo que el PDF está en retirada, y que las editoriales deben capturar los manuscritos como datos completos para poder usarlos en el entrenamiento de IA. Fleet consideró que, de ahora en adelante, el contenido debe llegar no solo a los lectores, sino también a la IA que lo lee. “Un PDF plano no cumple ese propósito.” Cuanto más uniforme sea la manera en que cada revista reúne la información, mayor será el margen para usar IA y emparejamiento automático, algo aún más relevante cuando crece el número de manuscritos que no coinciden con envíos de paper mills."
+        },
+        {
+          "t": "p",
+          "x": "En los comentarios también surgió la preocupación de que la estandarización borre los matices propios de cada disciplina. Fleet respondió que la flexibilidad de la configuración se mantiene, mientras que los datos se alinean de forma estratégica."
+        }
+      ]
+    },
+    "books/books-iflytek-ainote2-roadmap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este es un artículo de Michael Kozlowski, editor en jefe de Good e-Reader, publicado el 7 de agosto de 2026. El iFlytek AINOTE 2 es una tablet de papel E-Ink ultrafina con un modelo de lenguaje de gran escala integrado. Tiene un Récord Guinness por su delgadez, y está dirigida a profesionales y estudiantes que necesitan transcripción de reuniones de alto nivel, organización automática de notas y procesamiento de documentos. La empresa presentó su hoja de ruta de software para 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/08/07005653/7-1x.webp",
+          "cap": "iFlytek AINOTE 2"
+        },
+        {
+          "t": "p",
+          "x": "Los cambios más amplios son en escritura a mano y redacción. El grosor del lápiz ahora se ajusta sin interrupciones entre notas, PDF, libros electrónicos y documentos de oficina. La barra de herramientas se reduce a un widget flotante que deja solo lápiz, texto y grabación, y puede moverse por el borde de la pantalla. La barra de pestañas puede alternar entre la parte superior e inferior. Los PDF ahora se pueden insertar directamente en la nota en uso, hasta 50MB y 50 páginas, y el archivo no debe tener contraseña. Las herramientas de escritura a mano siguen funcionando por completo en los PDF insertados. Las páginas se pueden seleccionar entre varias hojas para cortar, pegar, ocultar o eliminar. Los marcadores se dividen en títulos, tareas y estrellas, lo que permite saltar a ese punto de una vez."
+        },
+        {
+          "t": "p",
+          "x": "La grabación y el resumen también se rediseñaron. De forma predeterminada, la grabación continúa incluso con la funda Folio cerrada. Los usuarios pueden borrar solo el archivo de audio para ahorrar espacio, mientras mantienen la transcripción en el cuerpo del texto. Han aumentado las plantillas de IA para reuniones, clases, vídeos y notas personales, y se ha ampliado el rango de idiomas de traducción. Se añadió TXT a las opciones de compartir y exportar, y tanto MP3 como TXT ahora admiten exportación completamente sin conexión."
+        },
+        {
+          "t": "p",
+          "x": "Lo destacable es cómo mantiene la IA abierta. AINOTE 2 funciona como un centro de entrada, que envía notas, ideas y documentos a entornos de IA externos como Codex para un procesamiento más profundo. Los usuarios también pueden conectar su propia clave de API de LLM para crear automatizaciones adaptadas a su trabajo. Otras novedades incluyen escritura a mano sobre capturas de pantalla, un asistente de IA en la pantalla de inicio, un widget de agenda en la pantalla de bloqueo, modos de lectura divididos en general, configuración personalizada y literatura clásica, plantillas de maquetación reutilizables guardadas por libro, un manual de usuario en japonés, y funciones personalizables para el botón físico superior."
+        },
+        {
+          "t": "p",
+          "x": "La empresa también busca probadores beta. Entre los participantes que completen el formulario de comentarios por entero, uno recibirá 50 dólares y diez recibirán tarjetas de regalo de 10 dólares."
+        }
+      ]
+    },
+    "books/books-library-avoiding-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es el boletín para bibliotecarios de Book Riot, “Check Your Shelf”. Compilado por Katie McLain Horner el 11 de agosto de 2026. Es un artículo que reúne enlaces que los bibliotecarios deben tener a mano, y lo que encabeza esta edición son programas bibliotecarios para usuarios que quieren evitar la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://s2982.pcdn.co/wp-content/uploads/2026/07/library-computer.jpg.optimal.jpg",
+          "cap": "Computadoras en la sala de lectura de una biblioteca"
+        },
+        {
+          "t": "p",
+          "x": "Empezando por las noticias de bibliotecas, los talleres de “evitar la IA” dirigidos a personas hartas de las grandes tecnológicas se hicieron populares de boca en boca. En Indiana se está capacitando a bibliotecarios de primera línea sobre cómo responder a usuarios en crisis de salud mental. Una bibliotecaria de una escuela pública de Massachusetts renunció a su puesto en protesta por la caída de la lectura por placer entre los estudiantes. La Biblioteca Central de Los Ángeles celebró su 100 aniversario, con el libro desplegable más grande del mundo también en exhibición."
+        },
+        {
+          "t": "p",
+          "x": "También siguen los enlaces sobre publicación. El acuerdo de 1500 millones de dólares de Anthropic recibió la aprobación final del juez. La demanda de Sarah Wynn-Williams contra Meta se interpreta como una prueba de la capacidad de la industria editorial para hacer frente a las grandes tecnológicas. Las empresas de IA están comprando libros antiguos en grandes cantidades, con el argumento de que no están mezclados con “AI slop”. Las predicciones de que la IA arrasaría con los empleos también están resultando erróneas a medida que se reactiva la contratación en las grandes empresas. Katie Porter pasó de la política a ser influencer de libros."
+        },
+        {
+          "t": "p",
+          "x": "En noticias de personas y libros figuran la renuncia de Dinaw Mengestu, presidente de PEN America, y el fallecimiento del autor japonés de misterio Keigo Higashino (68 años). Matthew Haig abrirá una librería en Brighton. En cuanto a cifras, las ventas impresas de todas las ediciones de La Odisea subieron un 76% desde comienzos de año, hay un análisis de por qué menos estadounidenses leen por placer, y una encuesta encontró que los lectores tienen niveles de bienestar más altos que los no lectores. La parte final está llena de listas de recomendaciones de romance, misterio y ciencia ficción."
+        }
+      ]
+    },
+    "books/books-stm-ai-against-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este es un artículo de Melina Spanudi en The Bookseller, publicado el 11 de agosto de 2026. Caroline Sutton, directora ejecutiva de la Asociación Internacional de Editores Científicos, Técnicos y Médicos (STM), dijo que debe usarse tanto el cribado automático como la supervisión humana al revisar envíos de investigación con sospecha de manipulación."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
+          "cap": "Imagen que acompaña al artículo (© Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "Lo que Sutton advirtió es que la publicación académica podría quedar atrapada en una “guerra de IA contra IA”. A medida que aumentan los envíos fabricados con IA y el lado que los filtra también se apoya en la IA, la situación podría reducirse a un enfrentamiento solo entre máquinas."
+        },
+        {
+          "t": "p",
+          "x": "Por eso, el planteamiento de Sutton es que los controles automáticos de integridad acompañen al juicio editorial, no que lo sustituyan. Sin importar cuán densamente se despliguen las herramientas de filtrado, al final no puede faltar un lugar donde una persona lo revise."
+        }
+      ]
+    },
+    "books/books-cognitive-debt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En la primera parte, Ashutosh Gidiyal presenta un marco de responsabilidad cognitiva que separa la cognición en la que la IA es cada vez más competente de la cognición que los humanos deben conservar. Si conviene leer un manuscrito antes o después de un resumen de IA, si conviene formar primero el propio juicio o recibir antes la interpretación de la IA. Cada elección parece trivial, pero se acumula a lo largo de miles de decisiones sobre manuscritos, revisiones y ediciones. En la edición académica, el riesgo central de la IA no es la alucinación, sino la deuda cognitiva: el deterioro gradual de las capacidades humanas que dan a la investigación originalidad, integridad y sentido."
+        },
+        {
+          "t": "p",
+          "x": "La coherencia cognitiva se sostiene cuando el descubrimiento compara ideas con evidencia, el discernimiento pesa esa evidencia y la inteligencia guía el proceso hacia un juicio consistente. La cognición mecánica genera posibilidades; la cognición no mecánica aporta el contexto, el sentido y el propósito que determinan qué posibilidades creer y poner en práctica."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig_3_Cognitive_Debt_Curve_300_DPI-copy-1024x683.jpg",
+          "cap": "Figura 1. La curva de la deuda cognitiva. Cuanto más sustituye la dependencia de la IA a la cognición no mecánica, más disminuye el pensamiento independiente y más se acumula la deuda cognitiva por encima de un punto crítico."
+        },
+        {
+          "t": "p",
+          "x": "Como la deuda técnica en el software, la deuda cognitiva también ofrece una ganancia inmediata en eficiencia. El costo llega después. La cognición no mecánica no se acumula como el conocimiento: solo crece con el uso. El descubrimiento madura al enfrentarse una y otra vez a la evidencia, y el discernimiento crece al distinguir lo verosímil de lo verdaderamente importante. Si no se usa, queda dormida como un músculo. Esto resulta especialmente grave para investigadores jóvenes y estudiantes de posgrado cuyo juicio todavía se está formando."
+        },
+        {
+          "t": "p",
+          "x": "Esto no significa dejar de usar la IA. Cuando la IA se encarga de la cognición mecánica, las personas ganan margen para invertir más a fondo en descubrimiento, discernimiento y juicio. Un editor que antes pasaba horas cotejando referencias puede destinar ese tiempo a evaluar la originalidad y la importancia. Un revisor que evalúa el manuscrito por sí mismo y solo usa la IA para pulir las frases del informe conserva el control del juicio. La deuda cognitiva no es un resultado inevitable de la IA, sino de una mala distribución."
+        },
+        {
+          "t": "p",
+          "x": "A nivel de la editorial, la tarea pasa a ser de gobernanza organizativa. Cuellos de botella como la coordinación repetida, los flujos de trabajo fragmentados, los procedimientos desiguales o el conocimiento concentrado en pocas personas son problemas mecánicos que la IA maneja bien. Pero la automatización solo amplía las prácticas existentes, mientras que el aprendizaje organizativo cambia esas prácticas. La pregunta pasa de “qué muestran los datos” a “qué significan”."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Fig-4_Adaptive_Publisher_Feedback_Loop_300_DPI_Update-copy-683x1024.jpg",
+          "cap": "Figura 2. El ciclo de retroalimentación de la editorial adaptativa. El discernimiento humano detecta los problemas organizativos, la IA elimina los cuellos de botella mecánicos mientras reúne conocimiento organizativo, y el liderazgo editorial convierte esas ideas en políticas, aprendizaje y mejoras prácticas."
+        },
+        {
+          "t": "p",
+          "x": "Supongamos, por ejemplo, que los artículos que la IA marca como metodológicamente complejos reciben un rechazo de escritorio en una proporción inusualmente alta. La IA detecta el patrón, pero es el liderazgo editorial quien decide si refleja un sesgo no intencionado, un criterio válido o una señal para cambiar la política. Las editoriales más adaptables no son las que automatizan más su flujo de trabajo, sino las que mantienen deliberadamente unidas la cognición mecánica de la IA y el discernimiento, el juicio y la gobernanza humanos."
+        },
+        {
+          "t": "p",
+          "x": "A medida que la cognición mecánica se vuelve común, lo que escasea no es la capacidad de procesar información, sino la capacidad humana de convertir el conocimiento en comprensión. La edición académica, que evalúa, pule y certifica el conocimiento, es donde esta distinción aparecerá primero. Lo que viene no lo decidirá cuán capaz se vuelva el pensamiento artificial, sino cuán conscientemente protejamos la coherencia cognitiva."
+        }
+      ]
+    },
+    "books/books-editor-ai-clause": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La editora independiente Mary Kole recibió a comienzos de este año dos novelas escritas con IA, una tras otra. Nadie le preguntó, y los clientes nunca dijeron que hubieran usado un chatbot. A primera vista, ambos manuscritos parecían pulidos. Cuanto más leía, más claro quedaba que estaba haciendo algo distinto de su edición habitual."
+        },
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2026/08/kole_editing_AI-blogpost-1000x667.png",
+          "cap": "Ilustración que imagina el código detrás de un LLM como bloques de vidrio con listas de palabras. Foto: Google DeepMind"
+        },
+        {
+          "t": "p",
+          "x": "En lugar de conversar con una persona sobre los cambios, Kole se encontró buscando humanidad en un texto generado por IA. Reconstruyó los arcos emocionales, profundizó a los personajes, eliminó pasajes que exageraban el tema y devolvió a una sola voz lo que sonaba como un personaje promedio estadísticamente plausible. En la práctica tomó cientos de decisiones creativas que correspondían al autor original, por la misma paga."
+        },
+        {
+          "t": "p",
+          "x": "Josh Bernoff, quien publicó pautas de IA para escritores fantasma y editores, llega al mismo diagnóstico. “Los manuscritos generados por IA son limpios, gramaticalmente correctos y se leen con fluidez. También carecen de alma. Un buen editor corrige los problemas de un texto para que se note la voz y las ideas del autor. Pero aquí no hay voz de autor.” Considera que editar texto de IA se ubica entre la escritura fantasma y la edición ordinaria, y por eso cobra un recargo del 50%. Su razonamiento: para reclamar derechos de autor, cada oración escrita por IA debe reescribirse sin dejar una sola palabra sin cambiar, lo que cuesta al menos un 50% más de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "A Kole no le preocupa si se usó IA, sino si ese hecho se divulga por adelantado. La divulgación no busca atrapar a quien hizo trampa, sino definir con precisión el alcance del trabajo. Las herramientas de detección tampoco son infalibles. Incluso Derek Newton, creador del servicio de detección Verify My Writing, dice: “La detección de IA puede decirte si un robot hizo el dibujo, pero no puede decirte si el dibujo es bueno.”"
+        },
+        {
+          "t": "p",
+          "x": "La nueva cláusula que añadió no es una declaración moral, sino una definición del alcance del trabajo. Define qué cuenta como contenido generado por IA, exige a los clientes divulgar si lo usaron y en qué medida, y le da a la empresa el derecho de pasar hasta 1500 palabras por una herramienta de detección. Para manuscritos que incluyen IA, cobra un 50% adicional de la tarifa de edición y renuncia a toda responsabilidad por errores de hecho o por la posibilidad de registrar derechos de autor. Si la proporción de IA resulta mayor que la divulgada, detiene el trabajo para renegociar el alcance, el calendario y el precio, o termina el contrato."
+        },
+        {
+          "t": "p",
+          "x": "Kole todavía no ha tenido que invocar realmente la cláusula. Sabe que lo hará pronto. El valor de la edición nunca estuvo en detectar una gramática torpe. Siempre estuvo en reconocer una voz humana real y ayudar a que se escuchara más de ella."
+        }
+      ]
+    },
+    "books/books-villanova-bot-or-not": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este es un resumen que el editor de noticias de ALLi, Dan Holloway, escribió el 13 de agosto. Apenas una semana antes había hablado del estudio de Tuhin Chakrabarti, que analizó más de 14.000 títulos autopublicados. Ese estudio sostenía que la IA ejerce presión comercial sobre los autores independientes, aunque los libros con rastros de IA se vendían menos que los escritos por humanos."
+        },
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/News-August-13.jpg",
+          "cap": "Imagen que acompaña la noticia de que los relatos escritos por IA obtuvieron puntuaciones más altas de los lectores"
+        },
+        {
+          "t": "p",
+          "x": "El estudio de esta semana pesa más. El título que le dieron los investigadores de Villanova expone la hipótesis sin rodeos: “Bot or Not: Can People Distinguish Between Human- and AI System-Written Stories” (¿Bot o no? ¿Pueden las personas distinguir entre historias escritas por humanos y por sistemas de IA?)."
+        },
+        {
+          "t": "p",
+          "x": "El experimento se dividió en dos ramas. En una, unos 1.600 lectores leyeron un solo relato y debían adivinar si lo había escrito un humano o una IA. En las otras dos, 900 lectores leyeron dos relatos cada uno y se les preguntó por el origen de cada uno."
+        },
+        {
+          "t": "p",
+          "x": "El primer resultado es el esperado. Las personas no lo hicieron mejor que el azar al distinguir los dos tipos. Lo que sí se convirtió en titular fue otra cosa. Cuando se pidió a los participantes que calificaran su propia pericia en literatura y en IA, quienes se calificaron alto en pericia de IA distinguieron mejor que el azar, mientras que quienes se calificaron alto en pericia literaria no lo lograron. Existe claramente una diferencia perceptible, pero quienes están inmersos en el mundo creativo tienen dificultad para encontrarla."
+        },
+        {
+          "t": "p",
+          "x": "Si se añaden las puntuaciones que dieron los participantes, el panorama se oscurece aún más. Sin saber cuál era cuál, los lectores puntuaron más alto los relatos escritos por IA. Sobre el porqué, buena parte de las especulaciones apunta a que muchos lectores prefieren la claridad y la simplicidad por encima de la complejidad y la sutileza."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores no creen que este resultado reste importancia a la escritura creativa como expresión y pensamiento humanos. Aun así, queda la idea de que convertir esa expresión en ingresos resulta cada vez más difícil. Tras la publicación, surgieron preocupaciones sobre lo que esto significa para los autores humanos."
+        }
+      ]
+    },
+    "books/books-amazon-destructive-scanning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según un informe publicado esta mañana por 404 Media, Amazon compra libros a gran escala, los escanea para datos de entrenamiento de IA, y destruye los libros en el proceso."
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/08/Untitled-design-23.png",
+          "cap": "Literary Hub, que informó que Amazon destruye libros raros para entrenar IA"
+        },
+        {
+          "t": "p",
+          "x": "No es una historia que haya salido de la nada. El hecho de que otras empresas de IA hayan estado haciendo 'escaneo destructivo' para entrenar LLM se ha venido filtrando poco a poco desde hace al menos dos años."
+        },
+        {
+          "t": "p",
+          "x": "Las fichas de dominó empezaron a caer en enero pasado, cuando el Washington Post informó que Anthropic dirigía un proyecto secreto para \"escanear destructivamente todos los libros del mundo\". Los detalles de este proyecto, llamado 'Project Panama', un nombre digno de un villano de Bond, salieron a la luz este año durante la demanda por derechos de autor que escritores presentaron contra Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "Esa primicia por sí sola hacía que la empresa detrás de Claude pareciera una excepción. Pero demandas en curso contra Meta, Google, Microsoft y OpenAI apuntan a prácticas similares. Últimamente la atención se ha centrado especialmente en autores fallecidos, que no pueden protestar."
+        },
+        {
+          "t": "p",
+          "x": "Amazon ha negado hacer 'escaneo destructivo'. Sobre este tema al menos, ha guardado un silencio muy, muy profundo. Pero un reportaje de Emanuel Maiberg dio otra señal. 404 Media eligió un libro raro que consideró atractivo para que las empresas de IA lo compraran como datos de entrenamiento, y siguió su ruta a través del país."
+        },
+        {
+          "t": "p",
+          "x": "El rastro terminó en un almacén de Amazon en Las Vegas, Nevada. Los trabajadores de allí dijeron que cortan el lomo de los libros impresos que llegan en grandes cantidades para escanearlos más rápido. Los libros impresos se destruyen en el proceso."
+        },
+        {
+          "t": "p",
+          "x": "A esto se suma un detalle más digno de villano: el logo de ese equipo sería, según se informa, un dinosaurio mostrando los dientes con un libro en la mano."
+        },
+        {
+          "t": "p",
+          "x": "¿Por qué precisamente libros raros? Los documentos del Proyecto Panama obtenidos por el Washington Post incluyen un pasaje en el que uno de los cofundadores de Anthropic razonaba que entrenar IA con libros le permitiría aprender \"a escribir bien\" en lugar de imitar \"el habla de internet de baja calidad\"."
+        },
+        {
+          "t": "p",
+          "x": "Maiberg hace el mismo señalamiento. Buena parte del texto que contienen los libros impresos no está en internet, y las empresas de IA ya han rastreado por completo el lado de internet. También está la ventaja de que los datos están bien organizados. Un libro impreso antes de 2022 trae además la garantía de que no contiene frases escritas por IA mezcladas. Entrenar de nuevo con texto generado por IA degrada los modelos a través de un proceso recursivo llamado 'colapso del modelo'."
+        },
+        {
+          "t": "p",
+          "x": "Hay al menos un dato alentador. El público estadounidense todavía tiende a oponerse a la destrucción de libros, al menos en la superficie. La presión de la opinión pública sobre esta práctica tan descarada ya ha hecho que algunas empresas cambien de actitud. La escritora Brittany Allen escribió que, si estas máquinas no colapsan por sí solas, espera que el grifo de la vergüenza corte el circuito."
+        }
+      ]
+    },
+    "books/books-china-publishing-ai-standards": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El resumen semanal de noticias internacionales de publicación de Publishing Perspectives. Esta semana, el editor en jefe Andrew Richard Albanese escribió una edición breve en lugar de Carlo Carrenho, que está de vacaciones. Carrenho regresa el 24 de agosto."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+          "cap": "La columna semanal de publicación internacional de Publishing Perspectives"
+        },
+        {
+          "t": "p",
+          "x": "Lo más destacado es la noticia de China. En la 16ª Feria Internacional de Publicación Digital de China, que se celebra del 27 al 29 de agosto en Jinan, provincia de Shandong, la Academia China de Prensa y Publicación, coorganizadora y rama académica de la Administración Nacional de Prensa y Publicación (NPPA), presentará normas provisionales para la aplicación de IA en la industria editorial. La información proviene de Tech Times."
+        },
+        {
+          "t": "p",
+          "x": "La misma feria contará por primera vez con una sección dedicada a los juegos en línea. El informe señala que esto significa que la autoridad editorial china, que supervisa libros, revistas académicas y la cultura impresa de la nación, reconoce oficialmente los videojuegos como un medio equivalente de expresión cultural china. Ambos cambios se remontan al éxito internacional del juego Black Myth: Wukong. La feria es la única exhibición industrial integral de China dedicada exclusivamente a la publicación digital y el contenido digital."
+        },
+        {
+          "t": "p",
+          "x": "También hay noticias de Corea. Según Asia Economy, el 90º Congreso Mundial de Bibliotecas e Información de la IFLA concluyó en Busan el 13 de agosto. Bajo el lema 'Bibliotecas que impulsan el cambio', más de 3.500 personas de todo el mundo se reunieron en más de 200 sesiones sobre IA, libertad intelectual y sostenibilidad."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2012/12/IFLA.jpg",
+          "cap": "La IFLA, que celebró el 90º Congreso Mundial de Bibliotecas e Información"
+        },
+        {
+          "t": "p",
+          "x": "Aquí también la IA fue un tema central. El informe resume un consenso creciente en torno a redefinir las bibliotecas no como 'depósitos de conocimiento' sino como infraestructura pública de conocimiento confiable. La presidenta de la IFLA, Leslie Weir, dijo en su discurso de apertura que las bibliotecas deben abrazar el cambio con decisión y convertirse en agentes que guíen a sus comunidades hacia un futuro mejor."
+        },
+        {
+          "t": "p",
+          "x": "El resto de los titulares: Kris Kliemann recibirá el Premio a la Trayectoria de la Industria BISG 2026. En Brasil, el proyecto 'Voces de Mujeres en el Mercado del Libro', destinado a ampliar el lugar de las mujeres en la edición, se lanza el 18 de agosto. Un análisis de 17 millones de préstamos de la biblioteca municipal de Praga encontró que las usuarias superaban a los usuarios casi tres a uno, y el libro más prestado fue Diary of a Wimpy Kid de Jeff Kinney. Más de 10 editoriales coreanas compiten por los derechos de la 16ª novela de Haruki Murakami. Se inauguró la 11ª Feria Internacional del Libro Árabe de Istambul, y el profesor de la Universidad de Cambridge Jason Addy, que enfrentaba acusaciones de plagio, fue hallado muerto en su casa de Londres el 14 de agosto. Rakuten Kobo está intentando otra vez entrar en el mercado estadounidense."
+        }
+      ]
+    },
+    "books/books-claude-watermark-word-choice": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "_0NmhvNm61A"
+        },
+        {
+          "t": "p",
+          "x": "Episodio 50 de The Automated Author, el podcast de Future Fiction Academy. Elizabeth Ann West y Stacy Anderson dedican 44 minutos a examinar el marcado de agua de texto con IA de Claude."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida es esta pregunta: ¿qué pasa si la propia marca de agua cambia el texto? El planteamiento de ambas es que el método propuesto por Anthropic podría afectar la elección de palabras. Puede parecer una decisión léxica trivial, pero para quien escribe ficción no es trivial en absoluto."
+        },
+        {
+          "t": "p",
+          "x": "La conversación avanza hacia un terreno conocido: frases con aire de IA, sustantivos vagos, oraciones repetitivas. Repasan, uno por uno, si la estilometría puede romper la marca de agua, si una edición manual la borra, si un rodeo hecho con Python la elude. Si el marcado de agua interfiere con el estilo del autor, surge también la pregunta de si Claude puede conservar su lugar como el modelo de escritura líder. Elizabeth revela que está trasladando buena parte de su trabajo de novela actual de Claude a ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "La segunda mitad tiene otro tono: a quién se le llama autor y a quién editor profesional. Cuánto más fácil ha hecho la IA montar una infraestructura de autoedición, qué riesgo de plataforma implica depender de Amazon KDP, y si conviene abrir una tienda propia. La lista de capítulos incluye también un segmento titulado 'el humano debe ser el checksum final', el viaje de Stacy a Islandia y los objetivos de publicación de cada una para esta semana."
+        },
+        {
+          "t": "p",
+          "x": "El video se publicó el 17 de agosto de 2026 y dura 44 minutos. Este resumen se basa en la descripción publicada y la lista de capítulos."
+        }
+      ]
+    },
+    "books/books-code-yes-novels-no": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A Kevin Hincker a veces se le llama novelista y a veces desarrollador de software. En el fondo, ambos trabajos se parecen porque consisten en organizar información, pero en el punto decisivo son opuestos: los programadores odian que algo los sorprenda, mientras que los novelistas viven para sorprenderse."
+        },
+        {
+          "t": "img",
+          "src": "https://www.writersdigest.com/uploads/2026/06/kevin-hincker-author-photo-e1781830488900.png?auto=webp",
+          "cap": "Kevin Hincker"
+        },
+        {
+          "t": "p",
+          "x": "Si un código que ha escrito lo sorprende, casi siempre es señal de que algo salió mal. Al contrario, si una novela no tiene sorpresa, eso también se acerca a estar mal escrita. Hincker dice que la sorpresa es un requisito estructural de la ficción. Una novela puede ser mala incluso con sorpresa, pero al menos una parte se hizo bien."
+        },
+        {
+          "t": "p",
+          "x": "Por eso su informe desde el frente es breve. A partir de 2026, cada línea de código que produce la escriben agentes de IA. Y en su ficción, ni siquiera un punto final está hecho por IA."
+        },
+        {
+          "t": "p",
+          "x": "La razón no es gusto, sino la naturaleza del trabajo. En programación, lo que le gustaba era imaginar el producto terminado y pulir, pieza por pieza, cómo lo encontrarían los usuarios. Lo que odiaba era escribir a máquina: el tipo de tecleo entumecedor que repite unas pocas centenas de palabras y símbolos en un orden ligeramente distinto cada vez. Ahora los agentes se han hecho cargo por completo de esa parte, y él solo toca la experiencia de usuario que siempre le gustó."
+        },
+        {
+          "t": "p",
+          "x": "La ficción es distinta. Aquí, escribe, ama el acto de escribir a máquina en sí: la sensación de las palabras posándose en la pantalla, la experiencia de que las palabras pasen a través de él, ese flujo orgánico y ritmo casi meditativo. En cuanto introdujo un agente de IA, ese flujo desapareció. Para él se sentía como pedir permiso constantemente. ¿Está bien así? ¿Es suficiente con esto?"
+        },
+        {
+          "t": "p",
+          "x": "La desaparición del riesgo también es un problema. Le gusta la cuerda floja de enfrentar el caos solo, en medio de la página. Dijo que el riesgo lo afila. La IA, como una red de seguridad, reduce ese riesgo casi a cero."
+        },
+        {
+          "t": "p",
+          "x": "Su veredicto sobre el lado del software es el opuesto. Ahora la IA es esencialmente su proceso, y toda la categoría de arte digital tangible que puede tocar se ha ampliado. Escala sin perder estabilidad, porque ya no quedan sorpresas en el código. Escribe que la ambición es lo único que ahora limita a un desarrollador. Cuando le preguntan si eso es bueno, responde que no lo sabe."
+        },
+        {
+          "t": "p",
+          "x": "Para un novelista, la ambición nunca fue el cuello de botella. Alguien que empieza con una página en blanco, escribe 100.000 palabras y se levanta no puede carecer de ambición. Los límites reales de Hincker son cosas como cuánto café ha tomado, cuántas veces ha actualizado su feed de noticias, o si durmió mal sobre el brazo. No son lugares que la IA pueda tocar."
+        },
+        {
+          "t": "p",
+          "x": "El último párrafo es la conclusión. El problema que nunca termina de resolver es querer sorprenderse, y lo ve no solo como un problema suyo, sino humano. Una herramienta entrenada solo con el trabajo de ayer no puede darle el avance que necesita hoy. Siempre va un día por detrás. Por eso, escribió, traza la línea aquí."
+        }
+      ]
     }
   }
 }

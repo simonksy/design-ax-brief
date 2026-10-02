@@ -1603,6 +1603,482 @@
           "x": "Design Mechs in VR Using Substance 3D Modeler is available through a subscription to The Gnomon Workshop, which includes more than 300 tutorials. The subscription costs $57 a month or $499 a year, with a free trial available."
         }
       ]
+    },
+    "design/design-alien-no-mesh-shader": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49683/images/6a7afda7da4c2/contain_1200x630.jpg",
+          "cap": "An alien made entirely with a Three.js shader."
+        },
+        {
+          "t": "p",
+          "x": "This cute alien, visualized by Senior Developer Drin, looks 3D but isn't. It was built with Three.js, and what creates the 3D feel isn't geometry but shader math."
+        },
+        {
+          "t": "p",
+          "x": "There's no mesh, no texture, and not a single vertex behind it. There's only math running inside the shader. The scene consists of one full-screen quad, and each pixel is calculated in the fragment shader by ray marching a signed distance field."
+        },
+        {
+          "t": "p",
+          "x": "In the end, shader math handles depth, shape, and form on a flat surface. Technically it's a completely flat plane, but it produces the illusion of volume. Ray marching and SDFs are techniques technical artists use to create stylized, geometry-free visuals straight on the GPU."
+        },
+        {
+          "t": "p",
+          "x": "There's more than one way to build convincing fake 3D. One example is how the director of the Blender short Dust of the Simulacrum solved wide-angle lens distortion. The logo made for Web Entangled Prophecy came out of Unreal Engine 5 using a retainer box and HLSL."
+        },
+        {
+          "t": "p",
+          "x": "On the Three.js side, there's Chiro Visuals' real-time snowfall system, Yong Su's port of Evan Wallace's WebGL demo into Three.js, and Dan Greenheck's Three.js Water Pro. For the alien setup, click through the link to try it out directly, changing the colors as you go."
+        }
+      ]
+    },
+    "design/design-apple-mlb-immersive": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/08/apple-mlb-livestream-2026.jpg?resize=1068%2C712&quality=89&ssl=1",
+          "cap": "Courtesy: Apple, Major League Baseball."
+        },
+        {
+          "t": "p",
+          "x": "Apple and Major League Baseball (MLB) are bringing several live baseball games to Vision Pro. The livestreams begin on August 28."
+        },
+        {
+          "t": "p",
+          "x": "When Apple first announced the number of games it had secured for the August baseball schedule, it wasn't clear whether Apple TV subscribers would get to watch immersive games as the 2026 season wound down."
+        },
+        {
+          "t": "p",
+          "x": "This time, Apple announced four live “Friday Night Baseball” games running through September 18. The broadcast features Paul Severino on play-by-play, Xavier Scruggs on commentary, and Michelle Margaux as sideline reporter."
+        },
+        {
+          "t": "p",
+          "x": "Here are the games available on Vision Pro. Friday, August 28: Boston Red Sox vs. New York Yankees, 7:00 p.m. Eastern. Friday, September 4: Los Angeles Angels vs. Pittsburgh Pirates, 6:30 p.m. Friday, September 11: San Diego Padres vs. San Francisco Giants, 10:00 p.m. Friday, September 18: San Francisco Giants vs. Los Angeles Dodgers, 10:00 p.m."
+        },
+        {
+          "t": "p",
+          "x": "As with the Los Angeles Lakers' immersive NBA livestream earlier this year, the MLB games will also go out in Apple's own 180-degree 3D spatial immersive video format. Viewers can choose among multiple viewpoints, with replays, team lineups, and stats floating in their space."
+        },
+        {
+          "t": "p",
+          "x": "The livestreams are available to Vision Pro users who subscribe to Apple TV. That includes Australia, Canada, Germany, Hong Kong, Japan, Korea, Taiwan, the UK, and the US, among others. Anyone who misses a game can watch the full game replay and highlight packages anytime in the Apple TV app for Vision Pro."
+        }
+      ]
+    },
+    "design/design-artstation-sketchfab-sale": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3omVpuKsspmQAAQKnrXAtc-1280-80.webp",
+          "cap": "ArtStation and Sketchfab join the KitBash3D and Greyscalegorilla family. Image: KitBash."
+        },
+        {
+          "t": "p",
+          "x": "ArtStation is still one of the largest digital art communities online. It has more than 10 million registered users. With thousands of digital artists using it as their main portfolio site, it's understandable that news of yet another change of ownership wouldn't sit easily."
+        },
+        {
+          "t": "p",
+          "x": "Epic Games, maker of Fortnite and Unreal Engine, announced it is selling ArtStation and the 3D asset site Sketchfab. Both were acquired five years ago, in 2021. The new owner is KitBash, which runs the 3D asset platform KitBash3D and Greyscalegorilla."
+        },
+        {
+          "t": "p",
+          "x": "With this deal, Epic will focus on Unreal Engine 6, Fortnite, the Epic Games Store, and its developer ecosystem. KitBash gains a bundle of platforms spanning education, portfolios, and artist discovery all the way through production-ready 3D assets, materials, and publishing."
+        },
+        {
+          "t": "p",
+          "x": "KitBash sees the acquisition as a chance to build a broader ecosystem covering the whole creative process, from training through publishing. KitBash3D already holds a vast library of production-ready 3D assets and environments, while Greyscalegorilla has focused on materials, plugins, and tools for 3D artists and motion designers."
+        },
+        {
+          "t": "p",
+          "x": "KitBash co-CEO Banks Boutté said: “These are platforms where people have built portfolios, careers, and communities. That trust is real, and our first priority is protecting what users value most on each platform, listening to the people who rely on them, and building the future carefully.”"
+        },
+        {
+          "t": "p",
+          "x": "ArtStation was founded in 2014 by Leonard Teo and Kevin Strike as a portfolio hub for digital artists in games, film, and entertainment. There were concerns when Epic acquired it in 2021 too, but joining the ecosystem benefited many artists, and Epic also lowered marketplace fees. Bill Clifford, SVP overseeing the Unreal ecosystem at Epic Games, said “KitBash will expand opportunities for artists to connect with each other and showcase their work in new ways at every stage of the creative process.”"
+        },
+        {
+          "t": "p",
+          "x": "The new owner says nothing changes for artists right away. Existing portfolios, libraries, and workflows carry over as is. KitBash3D and Cargo customers also keep their kits, assets, and subscriptions. Intellectual property stays with the artists, and KitBash has stated firmly that it will protect ownership, attribution, and creative rights. Subscription prices and access terms stay the same too, and 2D/3D asset and print sales continue uninterrupted. Neither announcement, however, mentions any change of ownership for Fab, Epic's digital asset marketplace."
+        },
+        {
+          "t": "p",
+          "x": "Over the long run, how the expanded ecosystem will fit together remains to be seen. Some artists are optimistic that the consolidation will widen exposure, while others worry about concentrated ownership and reduced competition between platforms."
+        },
+        {
+          "t": "p",
+          "x": "The biggest expectation is that ArtStation's AI policy will change along with its ownership. Many feel KitBash's first task should be cutting down the AI slop that has piled up on both platforms. For those who have left ArtStation in recent years, that alone is the reason to come back. ArtStation wrote on X that it is listening to artists' voices, saying “there's trust to earn, a lot to learn, and important work ahead.”"
+        }
+      ]
+    },
+    "design/design-figma-make-time-savings": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI tools like Figma Make have been shortening design cycles by taking over repetitive, mechanical work that used to tie up teams. But few teams actually know how much time they've saved, or where the gains are biggest. Figma's data science team set out to find an answer, but common methods like A/B testing or causal inference couldn't capture the full complexity of AI."
+        },
+        {
+          "t": "p",
+          "x": "To put the result first: design work done with Figma Make was 20% faster and 16% easier. PMs benefited the most, with their tasks 23% faster and 37% easier. These numbers come from a randomized controlled trial in which 100 participants solved the same tasks with and without Make."
+        },
+        {
+          "t": "p",
+          "x": "Measurement is tricky because of confounding variables. Tenure, experience, and task difficulty all affect how fast someone works. Everyday statistical methods can't strip out these variables, which makes it impossible to tell how much of a productivity change is actually due to AI."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/3ba7180ee5d497a81d831a7220c41f866bb60deb-3264x2176.jpg?w=1080&h=720&q=75&fit=max&auto=format",
+          "cap": "Comparing the trade-offs of online A/B testing, causal inference from observational data, and randomized controlled trials."
+        },
+        {
+          "t": "p",
+          "x": "One approach worth considering is giving one group Make and turning it off for another. In theory, confounding variables scatter randomly, but there's no way to control whether the two groups end up doing equally complex tasks. Causal inference from log data was also a dead end. Propensity score matching (PSM) only works if every confounding variable is captured in the logs, and an anonymized user ID doesn't reveal a person's subjective design experience. There were no usable instrumental variables (IV) in the logs either."
+        },
+        {
+          "t": "p",
+          "x": "The option left was a randomized controlled trial (RCT). Random assignment spreads confounding variables evenly across both groups, having everyone solve the same tasks removes differences in task properties, and a trained research team coordinating the sessions reduces variance. Sample size was set by running a power analysis using effect sizes from prior industry research like the GitHub Copilot RCT: 50 product designers and 50 product managers, 100 people in all."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8bc8653bcddc30417de400df036e41bf803a1a4a-1608x812.jpg?rect=1,0,1606,812&w=1080&q=75&fit=max&auto=format",
+          "cap": "Task 1. Convert a design that starts in light mode into dark mode."
+        },
+        {
+          "t": "p",
+          "x": "The tasks had to be something anyone would recognize, regardless of experience, so the team settled on editing a social media post. They built three scenarios: changing UI and appearance, building a new screen from a base design, and adding interactions and responsiveness. The hardest part was finding a point that wasn't too easy for product designers but not too hard for PMs. The tasks went through three redesigns after internal pilots. Since differences in how sessions were run were themselves a confounding variable, the team built a script and troubleshooting guide for every facilitator to follow."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/121c4ffabf507588adc72768f9cae241dbfc636f-3264x2176.jpg?w=1080&h=720&q=75&fit=max&auto=format",
+          "cap": "Completion time down 20%, task ease up 16%, perceived Figma usability up 15%."
+        },
+        {
+          "t": "p",
+          "x": "All 100 participants completed the study. Cumulative task completion time dropped 20%, task ease rose 16%, and perceived Figma usability rose 15%. PMs improved by a wider margin than product designers on every measure. Under an interaction regression model, PMs using Make recovered 23% cumulatively, and across the full experiment they performed at an efficiency nearly matching product designers who didn't use Make."
+        },
+        {
+          "t": "p",
+          "x": "Where the gains showed up differed by role. PMs reported improvement on the two easiest, fastest tasks but showed no statistically significant improvement on the hardest, longest task. Product designers showed the opposite pattern, with significant time improvement only on the hardest task. For designers, Make works as a tool that accelerates zero-to-one and complex interaction design; for PMs, it's more of a basic tool that lets them pitch in on design quickly."
+        },
+        {
+          "t": "p",
+          "x": "The analysis combined hypothesis testing with OLS regression models, and any result not noted otherwise is statistically significant. The design gives confidence that Make caused these improvements. Figma is preparing a similar RCT around its new design agent."
+        }
+      ]
+    },
+    "design/design-lottie-tactile-ux": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When building a web interface that feels tactile, bouncy, and breakable, the usual industry choice is a physics engine. Matter.js, Cannon.js, or hand-rolled WebGL have become standard for immersive gamified sites."
+        },
+        {
+          "t": "p",
+          "x": "The Isadora Agency team hit the same fork in the road while building Stress Release, a digital stress-relief toy that lets burned-out creatives hit, stretch, and distort animated UI characters. While looking at physics engines, they found a decisive difference: “A physics engine creates plausible motion. In our case, we needed motion the animator had intended.”"
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/02-intentional-motion.png",
+          "cap": "A character card. It shows the personality and visual identity that define the animation sequence and interaction states."
+        },
+        {
+          "t": "p",
+          "x": "What they needed wasn't realistic simulation but frame-specified response. So they dropped physics engines entirely and built the experience with programmatic control of Lottie state, DOM manipulation, and distance-based math."
+        },
+        {
+          "t": "p",
+          "x": "The core requirement was fully deterministic control. The .json Lottie files the animators built demanded frame-level sequencing. The “mega squeeze” reaction, for instance, needed an exact 181-frame build-up followed by a release sequence. Handling state through Lottie's native API let them trigger animations precisely without overwriting the keyframes the animators had carefully crafted."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/03-tactile-feedback.png",
+          "cap": "Lottie responses tied to distance-based click detection create the sensation of actually hitting the character."
+        },
+        {
+          "t": "p",
+          "x": "The Lottie runtime renders JSON vector animation internally as SVG. Elements are selected by ID and CSS class, while behavior is driven by Lottie segments, CSS transforms, and click-event math. Every click is measured against the character's center point: page coordinates are converted to the character's local coordinates, then distance is found with the Pythagorean theorem."
+        },
+        {
+          "t": "p",
+          "x": "That one number decides score, feedback intensity, and explosion position all at once. Within 10 pixels of the center scores 100 points, within 40 pixels scores 70 to 90, and beyond 145 pixels scores 0. It resembles a dartboard with concentric scoring rings. The explosion Lottie is repositioned to match the click coordinates."
+        },
+        {
+          "t": "p",
+          "x": "Desktop clicks and mobile taps are both captured with native event listeners. Without adding a raycasting layer, the interaction model never drifts out of sync with the animation rendering. Each character stores idle, squeeze1 through 3, and ending animations as frame ranges, and every click plays the next segment before returning to the idle loop."
+        },
+        {
+          "t": "p",
+          "x": "Building on the DOM eliminated the need to re-measure bounding boxes on every device. Responsive resizing is handled entirely through CSS variables, and the Lottie SVG scales naturally without losing state."
+        },
+        {
+          "t": "p",
+          "x": "Lottie JSON is heavy. With 21 character animations plus explosion variants layered on top, keeping performance intact, especially on mobile, took real effort. performance.now() measures initial load time, and anything over 5 seconds gets flagged as a slow connection. Instead of loading all 21 at once, they're loaded two at a time in sequence with await so lower-end devices don't choke. Heavy explosion animations are destroyed and recreated on the fly to keep idle-state memory down. On the shelf screen, where all 21 run at once, quality is lowered to 0.5 and speed to 0.6; on the play screen, which focuses on a single character, quality stays at 1."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/05-conclusion.png",
+          "cap": "The “mega squeeze” state. Layered animation sequences, background transitions, and timed feedback build up the sense of impact."
+        },
+        {
+          "t": "p",
+          "x": "Design requirements decide the technology. Because they needed customized, controlled visual responses, they chose programmatic state control over emergent simulation. The code only listens, calculates, and pulls the trigger — the feel was set by the animator."
+        }
+      ]
+    },
+    "design/design-eu-ai-labelling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This week brought a stir over phrases like “massive fines” and “sweeping new AI regulation.” Looked at closely, it's much narrower and more commonsense. The goal is to make AI visible where it should be visible, and the target is specifically AI-generated content."
+        },
+        {
+          "t": "p",
+          "x": "Starting August 2, 2026, AI labeling becomes a legal requirement for companies serving EU citizens. Like the European Accessibility Act, this isn't just a problem for EU companies. Any company anywhere is covered if people inside the EU use its AI output."
+        },
+        {
+          "t": "p",
+          "x": "The point of labeling is to make it clearly recognizable to everyone that content was artificially created or manipulated. Article 50(4) of the AI Act names four targets: deepfakes that look like real people, objects, places, or events and could be mistaken for genuine ones; chatbots and AI agents, which must disclose that they are not human; fully AI-written text on matters of public interest that hasn't gone through human review; and emotion-recognition and biometric-categorization tools."
+        },
+        {
+          "t": "p",
+          "x": "Both the provider that builds or supplies the AI and the deployer that uses it carry the obligation. As with GDPR or the EAA, licensing an outside tool doesn't let you dodge Article 50."
+        },
+        {
+          "t": "p",
+          "x": "Most other AI-assisted work falls outside the new transparency rules. If a human reviewed and edited the output, and a named individual or organization takes editorial responsibility, there's no disclosure requirement. Small edits like spelling, grammar, formatting, cropping, color correction, or AI translation don't count as generation. Summarizing, synthesizing images, substantially rewriting, and adding or removing elements from a photo, on the other hand, do count."
+        },
+        {
+          "t": "p",
+          "x": "“A human glanced at it” doesn't qualify as editorial review. The Commission made clear that review must be substantive and that a responsible person must be named."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/app-sparkle-symbols-ai.jpg",
+          "cap": "Sparkle icons are everywhere across AI products, but they don't tell you which content was actually AI-made"
+        },
+        {
+          "t": "p",
+          "x": "The sticking point is the icon. As part of its code of practice, the Commission issued an EU AI icon set. It's an “AI” mark similar to the AI label in the Carbon design system, not the sparkle icon many products use. Sparkles are used more often to mean “this has an AI feature” than “this content was made by AI,” making them ambiguous — exactly the kind of signal the rule is trying to filter out."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-ai-label-icons.jpg",
+          "cap": "The EU's official AI icon set — three versions: basic AI, fully generated, and partially modified"
+        },
+        {
+          "t": "p",
+          "x": "The Commission made clear that using the icon alone doesn't automatically mean you're complying with the law. A barely visible icon, text buried in the footer, or a label that flashes for a second and disappears all fail. The icon has to be clearly visible, carry a plain-language label, and be readable by assistive technology. It's safer to place plain text like “AI-generated” next to the icon, and the label has to travel along when the content is reshared or downloaded."
+        },
+        {
+          "t": "img",
+          "src": "https://res.cloudinary.com/indysigner/image/fetch/f_auto,q_80/w_400/https://files.smashing.media/articles/eu-guidelines-ai-labelling/nngroup-research-sparkle-icon.jpg",
+          "cap": "Research showing a sparkle alone struggles to signal that something is AI-generated"
+        },
+        {
+          "t": "p",
+          "x": "This isn't just an EU matter. China made labeling and watermark metadata mandatory starting September 1, 2025. California's SB 942, after being amended by AB 853, took effect on the same date as the EU, August 2, 2026. South Korea's AI Basic Act took effect January 22, 2026, and is considered the first comprehensive national-level law to mandate deepfake labeling; fines run around $20,000 per violation, with a one-year grace period before enforcement. India applies amended IT rules starting February 20, 2026, requiring disclosure of “synthetically generated information.”"
+        },
+        {
+          "t": "p",
+          "x": "If AI content could be mistaken for something human-made, whoever made it has to say so clearly, and the UI has to flag the parts that AI made. That's the core of the rule. It helps weed out AI slop."
+        }
+      ]
+    },
+    "design/design-figma-skills": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Starting today, you can build skills for the Figma agent directly inside the product. Skills you create can be posted to the community to share with others."
+        },
+        {
+          "t": "p",
+          "x": "A skill is ultimately a markdown text file. With its shape of ordered instructions or prompts, it looks at first like an engineer's tool, but it actually fits well for carrying the judgment and taste designers bring to their work."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1536&h=1536&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "Illustration of interface elements — arrows, letters, smiling faces, flowers, and squares — strung along a striped path"
+        },
+        {
+          "t": "p",
+          "x": "The author got a feel for it while building a motion tutorial. They wrote a skill that applies their go-to easing curve to whatever keyframe is being worked on, named it /ease-like-miggi, and when the team used it, the team's motion started moving like their own."
+        },
+        {
+          "t": "p",
+          "x": "Here's how it's done. You give the agent a design frame as reference, or tell it the steps and guidelines you want, and ask it to build a skill. Once a draft appears, you preview it and try it right away in chat. As you use it, you adjust steps, change the format, or open the markdown editor to refine it by hand. Many also work alongside the Figma MCP server in third-party agents."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=3264&h=1836&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "Mockup of AI work prompts surrounding a mobile design canvas"
+        },
+        {
+          "t": "p",
+          "x": "A few of the ten the community picked. /xray-scan turns a photo or description into something like an X-ray — black and white with glowing edges that becomes a collage when several are layered (Adele Ix). /find-animation-opportunities flags spots that should move but are static, and spots that shouldn't move but are, and even suggests the numbers (Emil Kowalski, Linear). /camera-pan-and-zoom builds a camera rig without touching the frames to stage pans, zooms, and rolls (Mallory Dean, Figma)."
+        },
+        {
+          "t": "p",
+          "x": "/better-interface hands the agent a personal rulebook spanning typography, layout, accessibility, motion, and product copy (Jakub Krehel, Interfere). /component-handoff picks a single component and unfolds it into a documentation frame — from a header with name, version, and owner, to a live preview, variant grid, dos and don'ts, state breakdown, and full anatomy (Mauro Berteri, Itti Digital)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/efe4f75c324a81587d2bda37df7de8eca3c0c8fb-3070x1727.png?rect=1,0,3068,1727&w=1080&h=608&q=75&fit=max&auto=format",
+          "cap": "A sliding-button component spec laying out wait, drag, loading, and done states alongside a spec table"
+        },
+        {
+          "t": "p",
+          "x": "/create-color maps visible fills, strokes, and shadows to tokens or styles and catches hardcoded colors. For gradients, it notes each stop's position, color, and linked variable (Ian Guisard, Uber). /analyze-components scans a page to flag orphaned components, duplicates, and naming errors, and swaps instances all at once (Amy Ha, Walmart)."
+        },
+        {
+          "t": "p",
+          "x": "/ui-state-expander takes a single screen and expands it into loading, empty, error, disabled, partial-data, and edge-case states, attaching triggers, copy, transitions, and implementation notes (Linda Ojo, Paystack). /superfuture-design-review sorts review results into red for blockers, yellow for recommended fixes, and green for what already works (Joey Primiani). /usability-test-guide attaches guiding questions next to frames to build a usability-test guide (Neha Kodi)."
+        },
+        {
+          "t": "p",
+          "x": "The design agent is open in beta to Full-seat users on the Professional, Organization, and Enterprise plans. Collab, Dev, and View seats can use it in drafts. It's free during the beta."
+        }
+      ]
+    },
+    "design/design-onshape-featurescript-mcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PTC has released the FeatureScript MCP Server for Onshape. It lets you build your own CAD features using natural language and AI."
+        },
+        {
+          "t": "p",
+          "x": "Released as part of Onshape Labs, it works like this: describe the feature you want in words, and AI builds it in FeatureScript, tests it, debugs it, and refines it until it behaves as intended."
+        },
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/08/Onshape-Labs-MCP-1024x576.jpg",
+          "cap": "Onshape Labs FeatureScript MCP"
+        },
+        {
+          "t": "p",
+          "x": "Companies automate repetitive work, build tools tailored to their workflow, and preserve engineering knowledge in the process."
+        },
+        {
+          "t": "p",
+          "x": "For example, a feature built by feeding AI a PDF containing a standard's definitions can apply a complex helix with a single click. A tool for wire shelving or sink racks takes user-set parameters and generates grid patterns and support structures. In effect, you build a dedicated button for the bottleneck that always slowed you down."
+        },
+        {
+          "t": "p",
+          "x": "“FeatureScript is the abstraction language we use to build our own features, and we've open-sourced the whole thing. You can build missing functionality, add what you need, and some customers were already doing exactly that. Our intent is to let people adapt the CAD system to their own needs,” Darren Henry, PTC's General Manager and Senior Vice President of Onshape, said in an early preview given to DEVELOP3D."
+        },
+        {
+          "t": "p",
+          "x": "“As everyone knows, AI likes coding. With Onshape, you get a solid set of standard tools and extend from there to fit your own needs. Solid standard CAD tailored exactly to what you need — that's where we think Onshape's strength lies.”"
+        },
+        {
+          "t": "p",
+          "x": "The FeatureScript MCP Server also extends reach to coding LLMs like Claude, ChatGPT, and Gemini. Built on the Model Context Protocol, it connects AI directly to FeatureScript code."
+        },
+        {
+          "t": "p",
+          "x": "Asking AI to write a FeatureScript feature has been possible for years. The difference now is that it also tests and evaluates. “It writes the code, tests it, evaluates the output, and rewrites it if needed. It judges for itself whether the result matches the goal, and does all of this autonomously,” explained Cody Armstrong, Onshape's Senior Director of AI Innovation."
+        },
+        {
+          "t": "p",
+          "x": "What Onshape is especially counting on is persistent memory. “It writes down what interactions it had in the past, on its own, into memory. The goal is to avoid making the same mistake again,” Armstrong said. By writing and reading notes on past errors and solutions, the agent gets better over time."
+        },
+        {
+          "t": "p",
+          "x": "It's not limited to building features within CAD itself. Working with external LLMs, it also builds prompts that construct standards-compliant CAD models. In a shell-and-tube heat exchanger case, a 267-part assembly was completed without a person drawing a single sketch line. A cut list was included, along with several tables such as a welding specification sheet."
+        },
+        {
+          "t": "p",
+          "x": "Whether it's images, PDFs, standards, or internal guidelines, the more you provide, the better the initial results. Still, a feature can be built from a single simple prompt."
+        },
+        {
+          "t": "p",
+          "x": "“The future of AI in CAD isn't simple text-to-CAD, it's text-to-code-to-CAD,” said David Katzman, PTC's EVP and General Manager of Onshape and Arena. “The real value of AI lies in turning a validated idea into a tool you can rewrite again and again. With the new FeatureScript MCP Server, Onshape has become the most rewritable production CAD there is.”"
+        }
+      ]
+    },
+    "design/design-toolbag-503": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Marmoset has released version 5.03, the latest update to Toolbag, its real-time rendering and lookdev software for games, VFX, and portfolio work."
+        },
+        {
+          "t": "p",
+          "x": "It's another sizable free update. New Text and Scatter layers have been added, along with support for IES light profiles, physical light units, and 3Dconnexion's SpaceMouse input devices."
+        },
+        {
+          "t": "p",
+          "x": "Toolbag is a tool for handling lookdev, compositing, and final rendering with a light footprint. Game artists use it heavily, but its use is growing in other fields too. You can quickly check an imported model while dialing in PBR materials and lighting, and since Toolbag 4.0 in 2021, it has also supported 3D texture painting. You can bake texture maps and pass them to other DCC tools or game engines, or render stills and animation directly inside it."
+        },
+        {
+          "t": "p",
+          "x": "Two new texture layers arrive with 5.03. The Text layer projects lettering onto a model or aligns it along a mesh surface, with controls for font style, letter spacing, and alignment. The Scatter layer scatters elements like rocks or leaves across a specific surface, or distributes them by projecting from 2D, 3D, or decal planes."
+        },
+        {
+          "t": "p",
+          "x": "On the performance side, you can now pause or disable UDIM tiles individually, and layer caching has been added, making the average project “about 2.7x” faster. Importing vector designs like logos or labels as SVG is also now supported."
+        },
+        {
+          "t": "p",
+          "x": "Lighting changed in two ways aimed at reproducing real light more accurately. It now supports IES profiles that capture the actual falloff pattern of real light fixtures, which you can get free online. You can also specify brightness in physical units, which makes a particularly noticeable difference in interior scenes. Motion blur can be previewed in the viewport, and procedural skies gained Sun Scale and Sky Color controls."
+        },
+        {
+          "t": "p",
+          "x": "Baking now lets you set a maximum ray distance, and curvature map quality has improved, especially near UV seams. Multiple material selection is also supported. Viewport navigation now works with 3Dconnexion's SpaceMouse line."
+        },
+        {
+          "t": "p",
+          "x": "Toolbag 5.03 runs on Windows 10 and macOS 13.5 or later, and supports AMD, Apple Silicon, and NVIDIA GPUs. Perpetual licenses are $399 for individual artists and $1,299 for studios. Subscriptions are $18.99 a month for individuals and $49.99 a month for studios."
+        }
+      ]
+    },
+    "design/design-vision-pro-webxr-sim": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“Care for a slice of physics jelly, hand-cut?”"
+        },
+        {
+          "t": "p",
+          "x": "James C. Kane released a demo of gel, sand, and water simulations running on the Apple Vision Pro. He built it by combining WebXR and WebGPU through Three.js, and said this is, as far as he knows, the first time Three.js has been used for that combination."
+        },
+        {
+          "t": "p",
+          "x": "The demo link is in the article. He noted he only tested it on desktop and on an M5 Apple Vision Pro running the visionOS 27 developer beta."
+        },
+        {
+          "t": "p",
+          "x": "James's other work was also linked alongside it: turning Yong Su's WebGPU water demo into something like a real swimming pool on an M5 Apple Vision Pro, and running Brandon Jones's Sponza clustered lighting demo on the same device using WebGPU and WebXR."
+        },
+        {
+          "t": "p",
+          "x": "Also featured as worth a look was Lucas Martinic's XR project, which makes you doubt whether everything around you is real."
+        }
+      ]
+    },
+    "design/design-adobe-stock-ai-studio": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "VIiPvMoEnsY"
+        },
+        {
+          "t": "p",
+          "x": "An 11-minute video posted by the Adobe Creative Cloud channel. The title is \"How To Turn One Image Into Multiple Brand Assets With Adobe Stock's AI Studio\"."
+        },
+        {
+          "t": "p",
+          "x": "It covers how to turn a single Adobe Stock image into multiple assets that fit a brand's aesthetic perfectly. Alexei Dela Cuesta walks through his own workflow using Adobe Stock AI Studio from start to finish."
+        },
+        {
+          "t": "p",
+          "x": "The sequence goes like this: change the color, adjust the typography, swap the background, and finally bring the image to life with motion."
+        },
+        {
+          "t": "p",
+          "x": "Adobe positions this workflow for situations with tight deadlines and budgets, aimed at people who need to produce eye-catching content quickly even under those constraints."
+        }
+      ]
     }
   }
 }

@@ -1349,6 +1349,583 @@
           "x": "Lo que se dice en el escenario conviene tomarlo con cautela. Frases como “el juego con más IA del mundo” son un lenguaje de marketing familiar, y todavía no hay pruebas de que esa promesa se traduzca realmente en una experiencia distinta. Lo que sí es claro es que se trata de uno de los experimentos de IA generativa más ambiciosos anunciados recientemente. Cumplir siquiera parte de sus objetivos podría marcar un antes y un después en la evolución de los NPC."
         }
       ]
+    },
+    "games/games-deanbeat-external-devs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "“Hay una pregunta que no deja de rondarme últimamente: ¿cómo usarán las empresas de desarrollo externas las herramientas de IA para sus clientes, las compañías de desarrollo y publicación de videojuegos?”. Así abrió Dean Takahashi su columna del 8 de agosto, The DeanBeat."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/06/halo-sword.jpg",
+          "cap": "Master Chief en Halo Campaign Evolved. Fuente: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "El ejemplo que pone es Microsoft. A principios de julio, cuando Microsoft despidió a 1600 personas y dijo que recortaría 1600 (o 1250) más, Takahashi entrevistó a desarrolladores externos que perdieron su empleo como consecuencia. La sombra de esas decisiones de despido llegó incluso a desarrolladores que ni siquiera eran empleados de Microsoft."
+        },
+        {
+          "t": "p",
+          "x": "La columna pregunta cómo desplegarán realmente las herramientas de IA, para sus clientes editores, los estudios de externalización y codesarrollo que sostienen los flujos de arte y producción AAA en medio de un ecosistema que se reduce. La propia pregunta pasa de “¿La IA sustituirá a los desarrolladores?” a “¿De quién es el flujo de trabajo cuando el trabajo está fuera de la empresa?”."
+        },
+        {
+          "t": "p",
+          "x": "El resto del texto es exclusivo para GB MAX, la membresía de pago de GamesBeat, así que la traducción llega hasta aquí."
+        }
+      ]
+    },
+    "games/games-relu-mimesis-ai-design": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "KRAFTON JAPAN celebró el 5 de agosto de 2026 en Tokio el evento de charlas “KRAFTON × ReLU Games, charla de desarrollo”. El personal de ReLU Games, el estudio creativo de KRAFTON, dirigió sesiones sobre cómo usan la IA en el desarrollo de videojuegos, usando como ejemplo el desarrollo del juego de terror para PC MIMESIS."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/001.jpg",
+          "cap": "MIMESIS"
+        },
+        {
+          "t": "p",
+          "x": "MIMESIS es un juego de terror cooperativo para cuatro jugadores que se enfrenta a una IA que imita a los jugadores. Su idea central es “la cooperación con una presencia en la que no se puede confiar”: para sobrevivir, los jugadores deben unirse a sus compañeros, pero se enfrentan al dilema de que el compañero que tienen al lado quizá no sea humano. El NPC controlado por IA, MIMESIS, imita en tiempo real el movimiento y la voz de un jugador, mezclándose de forma natural entre los compañeros. El juego ha vendido 2 millones de copias en Steam desde su lanzamiento en acceso anticipado en octubre de 2025."
+        },
+        {
+          "t": "p",
+          "x": "En la sesión “Un estudio que produce de 3 a 4 prototipos por semana”, a cargo de Lee Gi-mun, líder del equipo de AI Creative, se presentó cómo usa la IA el estudio. Así como antes internet dio origen a los juegos en línea y los smartphones trajeron nuevas experiencias a los juegos móviles, este estudio considera que la IA también aporta una nueva gramática a los videojuegos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/002.jpg",
+          "cap": "Lee Gi-mun"
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, hoy en día la IA se usa sobre todo como una simple herramienta. Manejar una cámara requiere conocimientos de lentes y óptica, pero eso solo no produce una buena película; para hacer una buena película hay que aprender a construir una buena historia. Según Lee Gi-mun, con la IA y el desarrollo de juegos ocurre lo mismo, por lo que hay que pensar cómo usar la IA para generar una nueva diversión en los juegos, es decir, en el “diseño de juegos con IA”."
+        },
+        {
+          "t": "p",
+          "x": "ReLU Games estableció tres principios. Primero, generar muchos resultados de abajo hacia arriba: cualquier miembro del personal puede crear, publicar y corregir un juego por sí mismo. Segundo, partir de un Seed y no de una idea: en lugar de un documento de diseño, crear un prototipo llamado “Seed” que permite comprobar la diversión jugándolo de verdad. Tercero, concentrarse en resolver problemas más allá de los límites de cada puesto."
+        },
+        {
+          "t": "p",
+          "x": "Para poner en práctica estos tres principios, ReLU Games creó su propia herramienta, “Nolan”. Cuando un miembro del personal sube el código fuente de un Seed que ha creado, la IA lo convierte en algo que cualquiera puede jugar y lo publica. El resto del personal que lo prueba no solo comenta qué se podría mejorar, sino que también usa agentes de IA para intentar mejorar el propio código fuente."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/004.jpg",
+          "cap": "Flujo de trabajo de Nolan"
+        },
+        {
+          "t": "p",
+          "x": "Lo importante es que, en Nolan, lo único que hace la IA es compilar y desplegar el código fuente; las propias mejoras las piensa una persona. Al dejar la compilación y el despliegue en manos de la IA, se reduce la necesidad de recurrir a ingenieros de servidor, y cada miembro del personal publica más Seeds en menos tiempo. Dentro de la empresa se han publicado 114 Seeds, todos creados en cinco días por un único especialista en agentes de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/898/G089803/20260807066/TN/014.jpg",
+          "cap": "Ahn Jae-hong"
+        },
+        {
+          "t": "p",
+          "x": "La sesión de Ahn Jae-hong, director de MIMESIS, titulada “Cómo un prototipo que casi quedó enterrado renació como un juego de 2 millones de copias”, trató ese proceso. El prototipo “Doppelganger” era un juego de acción de escape hardcore en el que tres jugadores se enfrentaban a tres doppelgangers. Los comentarios de las pruebas de juego fueron en su mayoría negativos: se notaba que había nueva tecnología de IA, pero el juego en sí no era divertido, o se podía haber hecho sin tecnología de IA. En agosto de 2024 se decidió detener el desarrollo. Ahn Jae-hong dijo que, con recursos limitados, “sin una decisión rápida, habríamos dedicado mucho tiempo al mismo concepto”."
+        },
+        {
+          "t": "p",
+          "x": "Después, notaron que en Steam eran populares los juegos de terror cooperativo con elementos cómicos. Ese género tiene una cultura de reírse juntos de los fallos de los jugadores. De ahí surgió la idea de la imitación: en lugar del combate, imitar el movimiento y la voz de un compañero para hacer que otros jugadores duden si es un compañero real o un monstruo se convirtió en la nueva diversión. La demo se completó en tres meses y, en enero de 2025, quedó cuarta entre las demos más jugadas del mundo en el Steam Next Fest."
+        },
+        {
+          "t": "p",
+          "x": "También se habló de los modelos de lenguaje de gran escala. Lee Gi-mun explicó que la parte de comportamiento y la parte de voz están separadas. El análisis de comportamiento introduce más de 4000 datos en una red neuronal, lo que no es apto para un LLM, y como MIMESIS solo maneja información específica suya, no necesita un LLM costoso. La parte de voz usa voces grabadas, no síntesis."
+        },
+        {
+          "t": "p",
+          "x": "De cara al futuro, buscan que la gran actualización MIMESIS 3.0 amplíe la idea para que los jugadores duden del juego entero. Lee Gi-mun dijo que el estudio planea lanzar un título más dentro de 2026 y que también está considerando usar nuevas tecnologías como la “IA de escucha” (overhearing AI)."
+        }
+      ]
+    },
+    "games/games-supergirl-concept-art-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un video detrás de cámaras que documentaba el rodaje de Supergirl fue retirado a toda prisa. No había logrado ganarse al público. Lejos de mostrar el oficio del equipo, toda la atención se centró en un único momento del video: una parte en la que el equipo parecía haber usado IA para crear el arte conceptual de un personaje."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/lobo-in-the-supergirl-movie-he-is-riding-on-a-motorbike-and-cheering.png",
+          "cap": "Lobo en Supergirl"
+        },
+        {
+          "t": "p",
+          "x": "En la escena en cuestión, varios miembros del equipo revisan distintas versiones de Lobo, interpretado por Jason Momoa. En lugar de debatir sobre un arte conceptual dibujado con esmero, parece tratarse de imágenes generadas por IA que superponen diversas ideas de diseño sobre el rostro de Momoa. Casi nadie se alegra de que esto pudiera haber sido parte del proceso creativo."
+        },
+        {
+          "t": "p",
+          "x": "El video se centraba en cómo se concibió al personaje Lobo para la nueva película de Supergirl. Sin embargo, la versión subida oficialmente ya no puede verse. Se puso en privado."
+        },
+        {
+          "t": "p",
+          "x": "Esto ocurrió después de que un fragmento del video se difundiera ampliamente en internet. En ese fragmento, el equipo revisa un arte conceptual que parece claramente generado por IA para decidir un elemento del diseño de Lobo. Muchas personas expresaron decepción y enojo porque la IA generativa hubiera estado cerca de la producción de Supergirl."
+        },
+        {
+          "t": "p",
+          "x": "No se ha visto evidencia de que se usara en otras partes, pero el incidente ha hecho sospechar también de otras secciones de la película. Aunque se limitara al arte conceptual, sigue existiendo la posibilidad de que otros personajes recibieran el mismo trato. Es posible que el trabajo más temprano se hiciera a mano y que la IA solo se usara en los retoques finales del diseño, pero eso sigue siendo decepcionante. El cine ha funcionado perfectamente bien solo con la creatividad humana. Tampoco es fácil sostener que una película de cómics necesite referencias hechas con IA."
+        },
+        {
+          "t": "p",
+          "x": "No se ha confirmado que la reacción contra la IA sea la razón por la que se retiró el video. Aun así, es la explicación más plausible. Al fin y al cabo, esa fue la parte del video que atrajo más atención. Entonces, ¿qué sigue ahora? ¿Volver a subirlo sin esa parte? Ya es demasiado tarde para eso. Parece más probable que aparezca un comunicado explicando cómo se usó la IA generativa, y que, cuando el alboroto se calme, el video vuelva a hacerse público discretamente."
+        },
+        {
+          "t": "p",
+          "x": "Hacia las 22:25, hora del Reino Unido, se añadió una corrección al artículo: el uso de IA generativa se sospecha, pero no está confirmado."
+        },
+        {
+          "t": "p",
+          "x": "Una cosa queda clara: a los grandes estudios todavía les queda un largo camino antes de que el AI slop se vuelva normal."
+        }
+      ]
+    },
+    "games/games-twitch-ai-optout": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ayer, la comunidad de streaming de Twitch se enteró de que su contenido se estaba usando para entrenar los modelos de IA de Amazon. La forma en que se enteraron no fue precisamente transparente. En lugar de hacer un anuncio formal y pedir permiso a los creadores, Twitch activó esta función por defecto en las cuentas de los streamers y escondió discretamente la opción para desactivarla en lo más profundo de la configuración de seguridad de la plataforma."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2023/12/6148c6a04be14bf3f0811b1506446a1b.jpg",
+          "cap": "Imagen: Twitch / Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "En una transmisión en directo para explicar el programa de entrenamiento de IA y responder a las preguntas e inquietudes de la comunidad, el director de producto de Twitch, Mike Minton, dio una respuesta sorprendente a por qué era opt-out en lugar de opt-in: “Si fuera opt-in, nadie lo activaría. Bueno, sinceramente, esa es la respuesta. Por eso viene activado por defecto”."
+        },
+        {
+          "t": "p",
+          "x": "A los jugadores no les gusta la IA generativa. A quienes hacen videojuegos tampoco. Y Twitch está comprobando en tiempo real que a los streamers que juegan y transmiten tampoco les gusta. Las redes sociales están llenas de publicaciones de streamers enojados porque su contenido se usa para entrenar IA, y además viene activado por defecto. Se ha dicho que es engañoso, porque nadie puede desactivar una opción cuya existencia ni siquiera conoce."
+        },
+        {
+          "t": "p",
+          "x": "Los streamers se defienden como pueden. La forma más extendida es avisarse entre ellos de lo que está pasando y de dónde desactivar esa opción."
+        },
+        {
+          "t": "p",
+          "x": "Lo molesto es que desactivarlo solo funciona en el propio canal. Aunque lo hayas desactivado en tu canal, si entras al chat de otro streamer que no lo ha desactivado, lo que se diga ahí se sigue usando para entrenar la IA. Por eso los streamers crearon la etiqueta “aioptedout” para señalar que un canal es seguro para chatear."
+        },
+        {
+          "t": "p",
+          "x": "El foro de comentarios de Twitch también se ha vuelto un canal de queja. La propuesta más votada en la categoría “Creators and Stream Features” es “hacer que todas las funciones de IA sean opcionales, con opt-out como opción por defecto”. Al momento de escribir esto había reunido 15,714 votos. La IA puede estar en todas partes, pero al menos en la comunidad de los videojuegos, los jugadores están diciendo en voz alta que esto no está bien."
+        }
+      ]
+    },
+    "games/games-gamescom-dev-survey": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Casi la mitad de los encuestados señaló el desarrollo asistido por IA como la mayor tendencia del sector en los próximos tres años."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/gcdev-announcement-2025.jpg",
+          "cap": "Imagen: Gamescom"
+        },
+        {
+          "t": "p",
+          "x": "Gamescom Dev publicó los resultados de su encuesta anual a ponentes. El 83% de los encuestados dijo que la IA afecta a la estructura de equipo o a la productividad."
+        },
+        {
+          "t": "p",
+          "x": "Entre los 100 ponentes encuestados, casi la mitad señaló el desarrollo asistido por IA como la tendencia más importante del sector en los próximos tres años. Le siguieron el precio del hardware y la RAM con 28%, la economía de creadores con 7% y el contenido generado por usuarios con 5%."
+        },
+        {
+          "t": "p",
+          "x": "El 30% dijo que quiere usar la IA de forma mínima en el desarrollo, por debajo del 33% del año pasado. En cambio, el 34% dijo que el código y la producción son los que más se benefician de la asistencia de IA."
+        },
+        {
+          "t": "p",
+          "x": "En cuanto al empleo, el 36% considera que los roles cambiarán más que el tamaño de los equipos, mientras que el 33% espera que los equipos se reduzcan. El 14% dijo que la producción individual aumentará, y el 17% cree que no habrá recortes de personal."
+        },
+        {
+          "t": "p",
+          "x": "Más de la mitad de los encuestados señaló la incertidumbre económica como el mayor desafío del sector. Le siguieron la saturación del mercado (38%), la capacidad de ser descubierto (35%) y el aumento de los costes de desarrollo (30%)."
+        },
+        {
+          "t": "p",
+          "x": "Para mejorar la capacidad de ser descubierto, los encuestados mencionaron una mayor transparencia en los algoritmos de las plataformas (32%), mejores recomendaciones de las tiendas (22%) y más cobertura editorial curada (21%)."
+        },
+        {
+          "t": "p",
+          "x": "Como oportunidad futura, el 37% mencionó equipos de desarrollo más pequeños, seguido por la creación de comunidad y los nuevos modelos de publicación, cada uno con 15%."
+        },
+        {
+          "t": "p",
+          "x": "Las opiniones se dividieron sobre qué modelo de negocio o de ingresos dominará el mercado en los próximos tres años. Los juegos premium digitales y en caja lideraron con 29%, seguidos por los servicios en vivo con 24% y el free-to-play basado en venta de objetos con 21%."
+        }
+      ]
+    },
+    "games/games-saber-chatgpt-writer": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Se ha denunciado que la editora Saber Interactive hizo un uso intensivo de IA generativa en su próximo simulador de conducción Rideshare “Stimulator”, llegando a sustituir a parte del personal con bots como ChatGPT, sin revelar el uso de IA en su página de Steam."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GwurUCWSHLDo5mea9ApPzg-1920-80.jpg",
+          "cap": "Imagen: Saber Interactive"
+        },
+        {
+          "t": "p",
+          "x": "Rideshare “Stimulator” se conoció por primera vez gracias a un tráiler que Saber y la desarrolladora Unigine publicaron el 30 de julio. El 11 de agosto, la exguionista principal Stella Sacco reaccionó a la noticia en Bluesky, diciendo que Saber había ocultado el uso de IA."
+        },
+        {
+          "t": "p",
+          "x": "“Ni siquiera sabía que se había anunciado. Yo era la guionista principal de este juego. Y Saber me sustituyó por ChatGPT a mitad del desarrollo”, dijo Sacco. “Las voces de los pasajeros también eran todas IA. O cambiaron de rumbo a mitad de camino, o simplemente no lo están indicando en Steam”."
+        },
+        {
+          "t": "p",
+          "x": "Sacco también señaló una publicación que hizo el 21 de diciembre de 2023: “Me sustituyeron en el trabajo en un juego en el que estaba trabajando. Por ChatGPT”."
+        },
+        {
+          "t": "p",
+          "x": "Su historial de LinkedIn indica que estuvo en Saber de julio de 2023 a julio de 2024, como “guionista principal en varios títulos del catálogo de Saber, incluido STUNTMAN HOLLYWOOD”."
+        },
+        {
+          "t": "video",
+          "yt": "lQxBAE1tE8g"
+        },
+        {
+          "t": "p",
+          "x": "Rideshare “Stimulator” se presenta como un simulador de conducción combinado con un simulador de negocio de transporte. Los jugadores trazan rutas por una ciudad, hablan con los pasajeros y buscan una calificación alta como conductor."
+        },
+        {
+          "t": "p",
+          "x": "“Esquiva el tráfico, sigue las reglas, corre contra el reloj y deja a pasajeros peculiares, cada uno con su propia historia, interesante, graciosa o simplemente rara”, dice la descripción de Steam. Una página del sitio web de Saber creada recientemente usa la misma redacción."
+        },
+        {
+          "t": "p",
+          "x": "Lo que llama la atención por su ausencia en esa página de Steam es una divulgación de uso de IA. Valve exige que los juegos que usan IA generativa en “contenido que se distribuye con el juego y que consumen los jugadores” lo declaren en Steam. Según la documentación de la encuesta de contenido de Steamworks, eso incluye “arte, sonido, narrativa, localización y más”."
+        },
+        {
+          "t": "p",
+          "x": "Muchos desarrolladores han dicho a GamesRadar+ que apoyan la política de IA generativa de Valve. Sin embargo, existe oposición dentro del sector, con Tim Sweeney, al frente de Epic Games y Epic Games Store, como ejemplo destacado."
+        },
+        {
+          "t": "p",
+          "x": "La denuncia ya se ha extendido a los comentarios de YouTube del tráiler público, y también al vídeo de la versión de PS5."
+        },
+        {
+          "t": "p",
+          "x": "“‘¡Sustituyeron a los guionistas y actores de voz por IA!’ Entendido”, dice un comentario publicado una hora antes del cierre de este artículo."
+        },
+        {
+          "t": "p",
+          "x": "“Escritura de IA con voz de IA”, decía otro comentario publicado una hora antes de ese."
+        },
+        {
+          "t": "p",
+          "x": "“No hay divulgación de IA en la página de Steam, ¿piensan corregirlo? Parece que al menos una guionista fue desplazada por chatgpt”, dice otro comentario reciente."
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+ ha pedido a Saber Interactive su postura sobre el uso de IA y la política de Rideshare “Stimulator”."
+        },
+        {
+          "t": "p",
+          "x": "En una nota aparte y sin relación, el CEO de Saber, Matt Karch, confirmó recientemente que Rideshare “Simulator” sí contiene una broma dirigida al CEO de Gearbox, Randy Pitchford."
+        }
+      ]
+    },
+    "games/games-unreal-runtime-inference": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BFfebAtBLfU"
+        },
+        {
+          "t": "p",
+          "x": "A medida que los juegos adoptan cada vez más la inferencia en tiempo real, el uso de memoria y la eficiencia en tiempo de ejecución importan tanto como la calidad del propio modelo."
+        },
+        {
+          "t": "p",
+          "x": "Grabada en Unreal Fest Chicago 2026, esta charla repasa cómo Databiomes ha optimizado modelos de IA para usarlos en el tiempo de ejecución real de los juegos, trabajando de cerca con AMD para equilibrar fidelidad, rendimiento, eficiencia energética y restricciones de plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Databiomes y AMD comparten las lecciones aprendidas al llevar modelos entrenados sin conexión a la ejecución en tiempo real en Unreal Engine. Eso incluye estrategias para reducir la presión de memoria, formas de bajar la latencia y cómo escalar a una amplia variedad de hardware que abarca CPU, GPU y NPU."
+        },
+        {
+          "t": "p",
+          "x": "La charla también muestra cómo la tecnología y los plugins de AMD ayudan a recortar aún más los costes de ejecución, con el objetivo de lograr funciones de IA que encajen en presupuestos reales de rendimiento y memoria. Después de verla, queda más claro qué se necesita hoy para llevar IA a los juegos."
+        },
+        {
+          "t": "p",
+          "x": "Publicado por el canal de Unreal Engine el 7 de agosto de 2026, el video dura poco más de 33 minutos."
+        }
+      ]
+    },
+    "games/games-zhong-kui-no-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Game Science se está tomando su tiempo con Black Myth: Zhong Kui."
+        },
+        {
+          "t": "p",
+          "x": "En Weibo, Yang Qi, director de arte de la serie Black Myth y cofundador de Game Science, respondió a la pregunta de un fan sobre si usarían IA para acelerar el desarrollo. “Nos mantendremos alejados del contenido generado por IA en las etapas de diseño y assets.” Según una traducción compartida por un usuario de Reset Era, dijo: “No por resistencia, sino simplemente porque intentamos mantener nuestro lugar hasta el final.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GEb56f3tQ68JQjKBgKXBUi-1920-80.jpg",
+          "cap": "Imagen: Game Science"
+        },
+        {
+          "t": "p",
+          "x": "Para desarrollar más su idea, mencionó la última gran obra de Nolan, The Odyssey. “En un momento en que el cine digital y la posproducción en 3D parecen haber llegado a un callejón sin salida, miren a Nolan”, escribió Qi."
+        },
+        {
+          "t": "video",
+          "yt": "ZygQP-U3MtM"
+        },
+        {
+          "t": "p",
+          "x": "“Le está yendo muy bien. Hasta usa técnicas más antiguas para sacudir las cosas”, continuó. “No hay ningún ‘último tren’ que tengamos que alcanzar sí o sí. Está bien quedarse un rato en una pequeña posada. Además, hay tiempo de sobra para algo como la IA. No hace falta apurarse.”"
+        },
+        {
+          "t": "p",
+          "x": "Es una buena noticia, ya que tecnologías como la IA generativa y los chatbots se están volviendo cada vez más comunes en la industria. Tomb Raider: Legacy of Atlantis, Call of Duty: Black Ops 7 y Kingdom Hearts son tres casos confirmados o sospechados de haber usado assets de IA generativa en alguna forma, y los tres recibieron un rechazo considerable."
+        },
+        {
+          "t": "p",
+          "x": "Stellar Blade: Blood Rain también usó un video musical de IA como parte de su promoción, y su director creativo considera que esta tecnología es imprescindible para la escena de desarrollo de juegos coreana. Es alentador ver que Game Science resiste esa tendencia y se apoya únicamente en la creación liderada por personas."
+        },
+        {
+          "t": "p",
+          "x": "Aún así, sigue pendiente la posibilidad de que más adelante se incorpore al proceso. Solo queda esperar que la reacción negativa en torno a Stellar Blade sirva para frenar a Game Science como corresponde."
+        }
+      ]
+    },
+    "games/games-castle-walls-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon lanzó el primer drama de formato largo hecho enteramente con IA en una de las principales plataformas de streaming del mundo."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/image.png",
+          "cap": "Imagen: GamesBeat"
+        },
+        {
+          "t": "p",
+          "x": "El drama de época “Castle Walls” llegó a Amazon Prime Video el 12 de agosto. Se publicaron juntos, el mismo día, dos episodios de 15 minutos, lo que lo convirtió en la primera serie de televisión del mundo hecha enteramente con IA. La producción estuvo a cargo de AI Yapım, la división de IA de Ay Yapım, una productora turca ganadora de tres Premios Emmy Internacionales. La historia se basa en la leyenda del Castillo de Alamut, el escenario central de Assassin's Creed Mirage."
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes fueron creadas por AYDNA, un modelo propio de difusión de video entrenado únicamente con el catálogo de contenido propio de Ay Yapım, sobre el que posee los derechos. AI Yapım afirmó en su comunicado que esta fue una decisión deliberada para evitar datos extraídos de fuentes externas, en un momento en que la industria enfrenta críticas por el origen de sus datos de entrenamiento. El proceso combinó mejora de prompts, desarrollo creativo y un sistema propio de guion gráfico, y AYDNA generó el metraje final. El doblaje en cada idioma, sin embargo, estuvo a cargo de actores de voz humanos, y las actuaciones no fueron generadas por IA."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/External-Alamut-BTS-46-1024x576.png",
+          "cap": "Una de las imágenes dibujadas a mano durante la creación de “Castle Walls”."
+        },
+        {
+          "t": "p",
+          "x": "Entre los dos episodios hay una brecha de unos dos años según los estándares de desarrollo de IA, y eso se nota en pantalla. El primer episodio se construyó toma por toma con una técnica de inpainting anterior a los modelos de generación de imágenes predominantes hoy, un método antiguo y laborioso de ensamblar fotogramas uno por uno. El segundo episodio incorporó herramientas de IA generativa más avanzadas al proceso. En lugar de tratarse de obras separadas lanzadas con años de diferencia, ese cambio se muestra uno junto al otro dentro de una misma serie."
+        },
+        {
+          "t": "p",
+          "x": "Aunque la IA generó las imágenes, todas las decisiones narrativas y de edición las tomaron personas. El equipo creativo estuvo liderado por los guionistas Kerem Deren y Çisil Hazal Tenim, quienes también trabajaron juntos en el drama de distribución internacional “El Turco”. Antes de que interviniera la IA, artistas humanos dibujaron a mano bocetos de personajes y lugares para establecer primero los fondos y los diseños de los personajes. Esos bocetos se incluyeron en el kit de prensa, algo que AI Yapım dijo que buscaba dejar constancia de dónde se sitúa el aporte humano en el proceso de producción."
+        },
+        {
+          "t": "p",
+          "x": "El historial de producción es sólido para una serie de IA. La empresa matriz, Ay Yapım, ha ganado tres Premios Emmy Internacionales, con créditos como “Endless Love (Kara Sevda)”, el primer drama turco en ganar un Emmy Internacional; “Şahsiyet”, que le dio a Haluk Bilginer un premio al mejor actor; y “Family Secrets (Yargı)”. AI Yapım también dirige WAIFF Turkey, la sede turca del World AI Film Festival, y figura como socio de capacidades de producción con IA del programa educativo de los Premios Emmy Internacionales."
+        },
+        {
+          "t": "p",
+          "x": "Para los jugadores, la conexión con Assassin's Creed sirve como puerta de entrada. El Castillo de Alamut ya había sido ficcionalizado en el Mirage de Ubisoft, y aquí se convierte en el hilo que une la historia del drama. “Castle Walls” se transmite ahora en todo el mundo en Amazon Prime Video."
+        }
+      ]
+    },
+    "games/games-fan-translation-no-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hay un juego que permaneció oculto durante mucho tiempo para el público occidental: Kamaitachi no Yoru, para Super Famicom. Los remakes habían sido localizados alguna vez, pero el original nunca había sido traducido correctamente, hasta que el traductor y programador But Thou Must lo hizo sin usar IA en absoluto."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/08/IMG_6615.jpg",
+          "cap": "Algunos ports reemplazaron las siluetas con personajes de anime."
+        },
+        {
+          "t": "p",
+          "x": "El título se traduce aproximadamente como “La noche de la comadreja hoz”. Un kamaitachi es un yokai con brazos en forma de cuchilla que viaja sobre torbellinos. El juego avanza casi por completo con texto, y como Chunsoft llamó a este género “novela sonora”, se lee más como un libro que la mayoría de las novelas visuales. Los protagonistas Tooru y su pareja Mari quedan atrapados en el refugio de montaña Spur durante un viaje de esquí, y los asesinatos se suceden en medio de la tormenta de nieve. Hay unos 40 finales malos, y hay que pasarlos todos para llegar al verdadero culpable. Vendió 750.000 copias en 1994 y después se convirtió en una obra fundacional del género de la novela visual."
+        },
+        {
+          "t": "p",
+          "x": "Traducirlo también fue una batalla técnica. La versión japonesa original limitaba la entrada de nombres a seis caracteres. “Seis caracteres eran suficientes para los nombres por defecto, Tooru y Mari. Pero en la parte donde hay que escribir el nombre de quien crees que es el culpable, seis caracteres no bastaban”, dijo But Thou Must en Discord. Escribieron su propio código en ensamblador para extender el nombre del culpable a diez caracteres, y los de Tooru y Mari a siete."
+        },
+        {
+          "t": "p",
+          "x": "Trazaron una línea clara frente a la traducción con IA. “No estoy de acuerdo con la actitud de que una traducción de fans hecha con IA es 'mejor que nada'. Si es la primera traducción de un juego, ese parche se convierte en la primera y probablemente única experiencia del jugador con él. Aunque más adelante aparezca una traducción de fans hecha por humanos, a la mayoría no le importará: ya habrán jugado el juego.”"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/08/IMG_6603.jpg",
+          "cap": "Innocent Tears, un juego original de Xbox que salió solo en Japón."
+        },
+        {
+          "t": "p",
+          "x": "Esa misma semana también salieron parches para Innocent Tears y London Spirit Detectives. La página de GitHub de Innocent Tears dice: “No se usó IA en este parche. Solo pura estupidez.” El parche en inglés de Kowloon's Gate, publicado a principios de este año, pertenece a la misma línea."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/08/IMG_6601.jpg",
+          "cap": "London Spirit Detectives, un RPG de PlayStation publicado por Bandai en 1999."
+        },
+        {
+          "t": "p",
+          "x": "bigbanana23, el hacker detrás de London Spirit Detectives, no se opone a la IA en sí, pero es escéptico sobre este tipo de trabajo. “Si empiezas a depender de la IA para esto, pierdes la oportunidad de desarrollarte, y la capa de gente que realmente entiende el proceso detrás de este hobby se va reduciendo poco a poco.” Para la traductora Aishsha, fue un problema más personal: perdió una gran cantidad de clientes que se pasaron a la IA buscando mayor rapidez y menor costo, y varios de ellos volvieron diciendo “por favor, mira este desastre”."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, esta es una época dorada para la traducción de fans. _dk, traductor de Kowloon's Gate, dice que la teoría del feng shui y el taoísmo no está bien organizada en el internet en inglés, así que no hay mucho que un LLM pueda extraer, y ese contexto simplemente no se podía dejar en manos de la IA. “Mientras la comunidad no se conforme con 'esto ya es suficiente', seguirán apareciendo proyectos,” dijo SnowyAria, traductor de Innocent Tears."
+        }
+      ]
+    },
+    "games/games-gen1recomp-not-vibe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En las últimas semanas, un port para PC de Pokemon llamado Gen1Recomp se difundió rápidamente. Los mods que convierten el RPG original de Game Boy en un mundo voxel en 3D tuvieron mucho que ver. Al principio salió con soporte para Pokemon Red, Blue y Yellow, y ahora se ha añadido soporte beta para Pokemon Gold. El desarrollador BryanThaBoi también respondió en detalle cómo el proyecto usó IA, y esa respuesta puede no ser la que la gente esperaba."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/A9zneYLDSTHZ4axMdnF9pB.jpg",
+          "cap": "Imagen: Nintendo / @Charmi"
+        },
+        {
+          "t": "p",
+          "x": "Gen1Recomp funciona de forma parecida a otros ports para PC de juegos clásicos que hemos visto antes. Ejecuta los Pokemon clásicos exactamente como se recuerdan, igual que haría un emulador, pero con opciones gráficas adicionales. Si quieres alejar la cámara al máximo para ver el mapa desde lejos de un vistazo, puedes hacerlo."
+        },
+        {
+          "t": "p",
+          "x": "Lo realmente emocionante es el margen para el modding. Gen1Recomp ya tiene un montón de mods instalados, incluidos algunos que convierten todo el mundo del juego en un mapa voxel en 3D, abriendo una perspectiva completamente nueva. Esa novedad fue lo que impulsó a Gen1Recomp casi de la noche a la mañana."
+        },
+        {
+          "t": "p",
+          "x": "Si no te gusta que la IA se mezcle con proyectos de fans, hay malas noticias. Gen1Recomp se hizo con IA. Más exactamente, se hizo con ayuda de la IA, y BryanThaBoi insiste mucho en esa distinción."
+        },
+        {
+          "t": "p",
+          "x": "“¿Ven esto? Es bastante genial. Y esto es solo el comienzo. Los modders ya han sacado más de 100 mods nuevos. Además, hay 6 traducciones en los idiomas más usados, y vendrán más.” Eso publicó el desarrollador el 3 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "“No, este recomp no está 'hecho con Claude'.” Esa es una declaración que el desarrollador publicó en Discord. “¿Que si usé IA? Sí. Son dos afirmaciones distintas, pero el problema es que la mayoría las escucha como una sola. En concreto, que usar IA significa vibe coding. Eso no es cierto. Puede serlo, pero no en este caso.”"
+        },
+        {
+          "t": "p",
+          "x": "Lo que BryanThaBoi entiende por vibe coding es que desarrolladores sin experiencia usen la IA para tapar los huecos en su propio conocimiento. Eso es el mismo tipo de cosa que el equipo del emulador de PS3 RPCS3 intentó frenar a principios de este año, cuando decidió dejar de aceptar por completo envíos de código generado por IA."
+        },
+        {
+          "t": "p",
+          "x": "BryanThaBoi insiste en que su propio uso de la IA es distinto: un desarrollador de software con experiencia que usa la IA como herramienta de apoyo, igual que haría en su trabajo habitual. Es el mismo espíritu con el que el jefe de Valve, Gabe Newell, llamó a la IA el “código de trucos” de los desarrolladores."
+        },
+        {
+          "t": "p",
+          "x": "“Cuando alguien me pregunta directamente 'esto es IA', he respondido que no, porque no lo es en el sentido que ellos quieren decir,” dijo BryanThaBoi. “En el momento en que dices 'usé IA', la gente da por hecho que es vibe coding, que no haces nada y que ni siquiera sabes desarrollar. Eso no es lo que pasó aquí. Por eso es casi imposible responder a quienes ya tienen la mente cerrada sobre este tema, o a quienes no lo entienden en absoluto y solo están enojados porque la IA tocó algo.”"
+        },
+        {
+          "t": "p",
+          "x": "A quienes se enojan con su postura, BryanThaBoi les responde con un solo GIF. Dice “cómete un zapato”, y probablemente se puede adivinar qué muestra. Dejar la postura clara tiene su mérito, pero es poco probable que esta respuesta les resulte agradable a quienes rechazan la IA por completo."
+        }
+      ]
+    },
+    "games/games-unity-copilot-tips": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Para presentar sus funciones de IA en beta, Unity invitó a Stacey Haffner, exprincipal developer advocate de Microsoft que lleva más de una década haciendo juegos indie y publicando tutoriales de desarrollo en YouTube cada dos semanas. Compartió cinco consejos para incorporar GitHub Copilot al trabajo en Unity."
+        },
+        {
+          "t": "p",
+          "x": "Primero, no luches contra la ventana de contexto: organiza el trabajo según sus límites. “La ventana de contexto es la memoria de trabajo que usa la IA durante una sesión, y tiene un límite.” Según el modelo subyacente, el rendimiento puede empezar a decaer incluso antes de llegar a ese límite, y si comprimes la sesión después de que ya haya decaído, ese estado decaído se convierte en la nueva base. Para funciones grandes, un hilo principal divide el trabajo en piezas pequeñas y lo dirige, lanzando agentes de implementación y de verificación por separado y ejecutándolos hasta que pasen."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/d285b1d006f0280dc1aea5511855b78349fb02d7-1899x1068.png",
+          "cap": "El panel de chat de Copilot trazando un plan de implementación para un sistema modular de misiones."
+        },
+        {
+          "t": "p",
+          "x": "Segundo, prepara el entorno del proyecto de antemano. Poner archivos de configuración en la carpeta .github del proyecto permite ajustar el comportamiento de un modelo general a este dominio. Las Custom Instructions, siempre activas, guardan valores por defecto como las reglas de codificación, la versión del motor de Unity y el pipeline de renderizado. Los Agents se dividen en personas expertas por área, como shaders o UI Toolkit, mientras que las Skills son instrucciones modulares que solo se invocan cuando aparece la tarea correspondiente, lo que ahorra memoria."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/07134e27cd64c1b1421906af04fe17f079525058-1873x1053.png",
+          "cap": "La pantalla de personalización para gestionar agentes, skills e instrucciones."
+        },
+        {
+          "t": "p",
+          "x": "Tercero, la planificación hace la mitad del trabajo. Adjuntar instrucciones al comando /plan hace que Copilot recorra la base de código y trace una ruta de implementación antes de escribir una sola línea. Describe la función o el arreglo con el mayor detalle posible y pídele que investigue y vuelva con preguntas: los casos límite salen a la luz en ese ida y vuelta. Solo después de fijar las líneas generales —qué sistemas existentes usar, qué clases y métodos crear— se le deja escribir código."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/9872d7e08b6ca61afecf62f70a3225c69a0321c7-1861x528.png",
+          "cap": "El campo de entrada que solicita un plan de implementación con el comando /plan."
+        },
+        {
+          "t": "p",
+          "x": "Cuarto, no te saltes la revisión de código. “El código escrito por IA necesita revisión. Más aún si es código que va a quedarse en el proyecto a largo plazo.” Cuando vuelve una implementación, se lee como un pull request. Se selecciona el código y se pide una explicación con /Explain, o se le hace criticar el código que acaba de escribir con /Review, y luego se añaden comentarios en línea al diff y se devuelve todo junto. Ese hábito protege la calidad del código y profundiza la comprensión del sistema."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/fbad7017f82f7447bf9613e0761a455a386d0aba-1876x1055.png",
+          "cap": "La pantalla que recibe una explicación del código seleccionado mediante /explain."
+        },
+        {
+          "t": "p",
+          "x": "Quinto, usa la IA como tutor personal. Para por fin abordar el estudio de shaders que tenía postergado, Haffner construyó un agente de Unity Shader Graph orientado a enseñar, y trabajó en una capa de puntería en el suelo para combate. Con los primeros dos shaders avanzó guiada por nodos y fórmulas; el tercero lo construyó sola, pero pidiendo pistas en lugar de respuestas cada vez que se atascaba. “Al final, realmente entendía lo que había construido.”"
+        }
+      ]
+    },
+    "games/games-artstation-kitbash3d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epic Games traspasó ArtStation y Sketchfab, las plataformas de arte 3D y assets de videojuegos que había comprado en 2021, a KitBash3D, una empresa de bibliotecas de assets. No se reveló el monto. Entre los 10 millones de usuarios registrados de ArtStation, quienes se pronuncian reciben bien la noticia. Un usuario escribió que ahora hay esperanza de que la plataforma recupere su \"antigua gloria\" y \"elimine todo el AI que inunda el mercado\"."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/Epic-Games-and-ArtStation-initial-purchase-image-Epic-Games-ArtStation.jpg",
+          "cap": "Imagen: Epic Games / ArtStation"
+        },
+        {
+          "t": "p",
+          "x": "Como señaló Creative Bloq, Epic Games, KitBash3D y ArtStation anunciaron la venta por separado el 10 de agosto. El comunicado de Epic puso el acento en seguir priorizando \"Unreal Engine 6, Fortnite, el ecosistema de desarrolladores y la Epic Games Store\", mientras que el de ArtStation se centró en cómo afecta la venta a los usuarios."
+        },
+        {
+          "t": "p",
+          "x": "\"A partir de hoy, ArtStation y Sketchfab pasan a formar parte de KitBash, la empresa detrás de la plataforma de arte 3D KitBash3D y de Greyscalegorilla\", dice el comunicado de ArtStation. \"Con la incorporación de las plataformas de publicación y descubrimiento de arte de ArtStation y Sketchfab, los artistas recibirán apoyo en todo el proceso de convertir ideas en forma, compartir su trabajo y construir una carrera. Nada cambia en la forma en que los creadores usan ArtStation y Sketchfab. Sus portafolios, bibliotecas y flujos de trabajo principales seguirán funcionando igual que ahora.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Nos importa profundamente apoyar a los artistas profesionales, y el tiempo, el oficio y el esfuerzo que ponen en ese trabajo. Su voz es una parte importante de cómo pensamos lo que viene. Sigan haciéndola oír. Estamos aquí, y estamos escuchando.\" Esto lo publicó la cuenta oficial de ArtStation el 11 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "Desde que Epic adquirió las dos plataformas en 2021, los artistas se han quejado de que el arte y los assets de IA quedan \"pegados por todas partes, enterrando el trabajo de personas reales, y se usan habitualmente para engañar a clientes potenciales\"."
+        },
+        {
+          "t": "p",
+          "x": "Los artistas del subreddit r/ArtStation también se muestran optimistas sobre lo que vendrá tras la venta. \"Libres de Epic y de su amor por el AI slop. Espero que sea una buena noticia\", comentó un usuario. \"No confío en Epic Games. De verdad tienen un talento para arruinar todo lo que tocan\", escribió otro usuario. \"Me alegra mucho que mis dos sitios web favoritos ya no estén en sus manos.\""
+        },
+        {
+          "t": "p",
+          "x": "No del todo ajeno a que la plataforma haya salido de manos de Epic, ArtStation publicó, tras su comunicado oficial, otro mensaje en X diciendo que está \"con ganas de ver cómo será el próximo capítulo\" y que está \"escuchando\" los comentarios de los usuarios. \"Hay confianza que ganar, mucho que aprender, y trabajo importante por delante. Los comentarios que recibimos de los artistas importan.\""
+        }
+      ]
     }
   }
 }
