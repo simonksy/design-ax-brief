@@ -1996,6 +1996,541 @@
           "x": "Adobe sitúa la utilidad de este flujo en situaciones con plazos y presupuestos ajustados, dirigido a quienes necesitan producir contenido que llame la atención con rapidez incluso en esas condiciones."
         }
       ]
+    },
+    "design/design-ai-sdk-harness-acp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel ha añadido el paquete @ai-sdk/harness-acp a la capa de harness de AI SDK. Cualquier harness que siga el Agent Client Protocol (ACP) puede ejecutarse ahora como HarnessAgent."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3UHwfbngr1cY9BcpRkJbjI/dc86b1b9db0bcf0b0273659423f19494/acp-harness-support-og.png",
+          "cap": "Imagen de portada sobre fondo negro con el logo triangular de Vercel y el texto “Use any ACP-compatible harness with AI SDK”."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, los adaptadores de harness envolvían los runtimes uno por uno, con adaptadores separados para Claude Code, Codex, Pi, Deep Agents y OpenCode. @ai-sdk/harness-acp envuelve un protocolo, no un runtime. En vez de ser un adaptador hecho para un solo harness, es un meta-adaptador que permite construir un adaptador para cualquier harness que publique un paquete compatible con ACP."
+        },
+        {
+          "t": "p",
+          "x": "Tampoco requiere mucho código usarlo. Se pasa ese paquete a createACP y se define el mapeo básico del harness, y ya se tiene un harness. A partir de ahí, se entrega a HarnessAgent igual que cualquier otro harness."
+        },
+        {
+          "t": "p",
+          "x": "ACP añade una capa de abstracción sobre los harness de codificación, pero la capa de harness de AI SDK decidió no quedar atada a ella. Hay harness que no admiten ACP, y en algunos, pasar por ACP reduce o cambia cuánto de su comportamiento interno queda expuesto. En esos casos, un adaptador hecho a medida encaja de forma más precisa."
+        },
+        {
+          "t": "p",
+          "x": "Por eso, para Claude Code y Codex se recomienda usar primero @ai-sdk/harness-claude-code y @ai-sdk/harness-codex. @ai-sdk/harness-acp se usa cuando un harness sin adaptador dedicado publica un paquete compatible con ACP."
+        }
+      ]
+    },
+    "design/design-ai-ui-placement": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las funciones de IA son ya un componente básico de los productos. Abundan los consejos sobre cómo diseñar la experiencia de IA, pero se habla poco de en qué parte de la pantalla debería ir esa función. Sea un chatbot, un asistente de escritura o la generación de imágenes, la colocación determina cómo la perciben y la adoptan los usuarios."
+        },
+        {
+          "t": "p",
+          "x": "La fatiga por IA es real. Una función debe sentirse como una sugerencia, no como un anuncio. Ya nadie recibe con agrado un recuadro que pregunta si necesitas ayuda."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/web-hosting-site-showing-list-of-domains.png",
+          "cap": "La pantalla de un proveedor de hosting con un botón de Spin AI site junto a cada línea de la lista de dominios."
+        },
+        {
+          "t": "p",
+          "x": "En la pantalla de un proveedor de hosting, hay un botón de Spin AI site junto a cada línea de la lista de dominios. Si fuera uno solo, sería una función; repetido línea tras línea, es ruido. El usuario no recibe ayuda, sino que se le recuerda sin cesar que existe una IA. Habría funcionado mejor como una sola acción global en la parte superior de la lista, o apareciendo según el contexto al gestionar un dominio."
+        },
+        {
+          "t": "p",
+          "x": "Los patrones de colocación surgen del tipo de producto y de las convenciones de UX. En los widgets flotantes, la convención es la esquina inferior derecha. Como la mayoría de los idiomas se leen de izquierda a derecha, queda justo donde se aterriza tras recorrer el contenido con la vista. Grammarly es un buen ejemplo: sin nada que señalar es un pequeño icono de G, y cuando se acumulan sugerencias se convierte en un círculo de color con un número. No interrumpe hasta que se le toca."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/Canva-AI-highlighted-in-Affinitys-Studio-Manager.png",
+          "cap": "Canva AI, instalado dentro del Studio Manager de Affinity."
+        },
+        {
+          "t": "p",
+          "x": "Poner la IA en la barra de herramientas la coloca al mismo nivel que las demás herramientas del producto. También es una señal de que afecta a todo el archivo o documento. Canva AI dentro del Studio Manager de Affinity es un ejemplo de esto. La barra de acciones, en cambio, está ligada a lo que se está haciendo en ese momento. La barra de herramientas dice que siempre está disponible; la barra de acciones dice que se ajusta a esta tarea concreta."
+        },
+        {
+          "t": "p",
+          "x": "Una barra lateral tiene espacio para sostener una conversación larga. Colocada a la derecha se lee como un asistente; a la izquierda, como un colaborador activo. Opera AI va a la derecha, el chatbot de Firefox a la izquierda, y GitHub Copilot en VS Code también entra en esta categoría. No saca al usuario del espacio de trabajo principal. Sin embargo, una barra lateral plegable es fácil de olvidar para quien no estaba buscando la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/Figmas-dedicated-AI-hub.png",
+          "cap": "La pantalla del centro de IA dedicado de Figma, que se siente como un producto distinto."
+        },
+        {
+          "t": "p",
+          "x": "Cuando se llega a una página o un centro dedicado, la IA ya no es algo secundario. Figma AI es un ejemplo a la vez bueno y malo. Al abrirlo parece que se entra en otro producto, y el camino de vuelta al lienzo queda bloqueado por una pantalla de pago: solo se abre en el plan Professional. Es útil como punto de partida para hacer un primer borrador o explorar ideas, pero el trabajo real tiene que ocurrir en el lienzo. En el momento en que se cede toda la pantalla, eso deja de ser una función y se convierte en un destino nuevo."
+        },
+        {
+          "t": "p",
+          "x": "Lo integrado en línea (inline) genera la menor resistencia. Al estar justo junto a lo que se está trabajando, mantiene la sensación de control y no interrumpe el flujo. Si hay que desplazarse a otro lugar para encontrar la IA, la gente simplemente la pasa por alto."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/UX-checklist-for-AI-feature-placement.png",
+          "cap": "Una lista de verificación de UX con cinco preguntas para decidir la colocación de una función de IA."
+        },
+        {
+          "t": "p",
+          "x": "Es una negociación entre la capacidad de descubrirse y la interrupción, y una función solo necesita destacar tanto como valga. La decisión se reduce a cinco preguntas: ¿Es la IA el centro del flujo? ¿Existe ya una convención establecida para este tipo de producto? ¿Con qué frecuencia se usa? ¿Actúa sobre una selección o sobre todo el documento? ¿Está bien ponerla en un menú? Si la respuesta a esta última pregunta es sí, basta con ponerla en el menú."
+        },
+        {
+          "t": "p",
+          "x": "WhatsApp le dio a Meta AI un botón fijo, y los portátiles con Windows sustituyeron la tecla Ctrl derecha, usada durante décadas, por una tecla de Copilot. El botón lateral de los nuevos teléfonos Samsung abre Gemini en lugar del encendido. Cuando se descoloca el sentido que el cuerpo ya tenía memorizado, resulta desconcertante. A los usuarios no les molesta la IA; lo que no quieren es que se les recuerde constantemente que está ahí. Basta con colocarla donde sea útil y mantenerla fuera de la vista en todo lo demás."
+        }
+      ]
+    },
+    "design/design-dsds-w3c": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La documentación de sistemas de diseño acaba de dar un gran paso. El Design System Documentation Community Group ha sido aprobado en el W3C. Si te interesan los sistemas de diseño, y especialmente cómo sobreviven en un diseño y un desarrollo en los que la IA ya se ha metido, esta no es una noticia para dejar pasar."
+        },
+        {
+          "t": "img",
+          "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-spec-1024x585.png",
+          "cap": "La pantalla de la documentación del Design system doc spec 0.15.2, publicada en designsystemdocspec.org."
+        },
+        {
+          "t": "p",
+          "x": "El autor ha estado siguiendo esto desde que PJ Onori empezó a escribir el Design System Documentation Spec (DSDS). Lo que le atrapó es que señala con precisión un problema que la industria solo ha rodeado desde que existe la documentación: la documentación de sistemas de diseño no tiene una forma acordada."
+        },
+        {
+          "t": "p",
+          "x": "Los tokens tienen un formato y los componentes tienen código, pero la documentación vive, sola, dentro de la estructura que cada equipo decide inventar. Siempre fue un problema de calidad, sostenido copiándose unos a otros y corrigiendo poco a poco. Ahora que los agentes de IA han empezado a leer los sistemas de diseño, los problemas de calidad, acceso y usabilidad salen todos a la vez a la superficie."
+        },
+        {
+          "t": "p",
+          "x": "DSDS define la documentación de sistemas de diseño como un formato legible por máquina. La divide en siete tipos de entidades (componentes, tokens, temas, fundamentos, patrones, guías y fragmentos) y construye cada una con bloques de documentación estándar como directrices, detalles de API, estados y accesibilidad. Su utilidad va en dos direcciones. Deja intacta la documentación escrita para personas y solo añade una estructura para que las máquinas la recorran. Y como cada equipo hereda una estructura que gente con mucha experiencia debatió a fondo, la calidad base de toda la industria sube."
+        },
+        {
+          "t": "img",
+          "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-mvoe-1024x585.png",
+          "cap": "Una ilustración de varias manos encajando ojos, dientes y una antena en la cara de un robot cuadrado y rojo."
+        },
+        {
+          "t": "p",
+          "x": "zeroheight ya usa esta especificación. La adoptó como modelo de cómo debería escribirse la documentación, y su sistema de pruebas interno, Baseline, se construyó enteramente sobre DSDS. Cuando los clientes preguntan cómo estructurar mejor su documentación y hacerla legible para la IA, la especificación se pone junto a ella para evaluar su conformidad. zeroheight también construyó un plugin de Claude que audita la documentación y devuelve mejoras, y una función de auditoría en camino toma sus criterios también de DSDS."
+        },
+        {
+          "t": "img",
+          "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-approach-1024x585.png",
+          "cap": "Una ilustración de un robot y unas manos encajando bloques de imagen y texto sobre una ventana de navegador."
+        },
+        {
+          "t": "p",
+          "x": "El 30 de julio, PJ propuso el grupo comunitario al W3C. El objetivo era \"lower the burden of design system management by developing an open format for structuring design system documentation\", y ahora ha sido aprobado. Cuando existe un terreno neutral, hasta los competidores se suben a la misma base. El Design Tokens Community Group ya demostró que este camino funciona: los tokens, que antes variaban de una herramienta a otra, se convirtieron en una especificación compartida por toda la industria. Hace falta el estatus del W3C para que plataformas de documentación, herramientas de diseño y empresas de IA se sienten a la misma mesa. Una vez que se añaden la gobernanza y la política de propiedad intelectual, la especificación dura más que cualquier responsable o empresa concreta."
+        },
+        {
+          "t": "p",
+          "x": "Los tokens, vistos en retrospectiva, eran el caso fácil: datos estructurados con valores y tipos. La documentación es prosa, opinión y contexto. Buena parte de lo que hace valiosa a la documentación de un sistema de diseño nunca iba a tener, de entrada, la forma de un estándar. Estandarizar el contenedor sin aplastar las opiniones que contiene: ese es el reto que marcará los primeros tiempos de este grupo."
+        },
+        {
+          "t": "img",
+          "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-path-1024x585.png",
+          "cap": "Una ilustración de bloques y interruptores de colores alineados en una fila, con una mano recogiendo un solo token."
+        },
+        {
+          "t": "p",
+          "x": "Hoy se pueden hacer dos cosas: unirse al grupo comunitario y comparar la propia documentación con la especificación. Todavía no se ha tomado ninguna decisión importante, y se necesita la voz de quienes realmente mantienen la documentación, no solo la de quienes construyen las herramientas."
+        }
+      ]
+    },
+    "design/design-figma-move-fast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Con la IA, la velocidad es fácil de conseguir. La deuda técnica también. Los mejores equipos no se detienen en entregar rápido. Piensan las cosas a fondo, construyen con eficiencia y hacen algo distinto."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/72d55d007b0b6306b30d3555868e28f88a9f2f2d-3600x2025.png?w=3600&h=2025&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "Una imagen abstracta con manchas suaves en rosa, amarillo, verde, naranja y morado, esparcidas como flores."
+        },
+        {
+          "t": "p",
+          "x": "Durante mucho tiempo, el código fue la puerta para construir un producto, y los desarrolladores tenían la llave. La IA ha eliminado esa puerta. Personas que nunca han abierto un IDE ahora entregan software que funciona. Pero ahora que cualquiera puede construir cualquier cosa, construir lo correcto se ha vuelto más difícil. Los equipos están bajo presión constante para seguir ejecutando y ser más rápidos, y esa velocidad nubla el juicio. Resulta fácil confundir un resultado pulido con uno bueno."
+        },
+        {
+          "t": "p",
+          "x": "Un resultado que parece terminado en la superficie puede salir de unas pocas líneas de prompt. Antes de la IA, ese acabado significaba que un experto había resuelto decisiones de juicio y compromisos. Ahora se llega rápido a un prototipo, pero el LLM rellena los huecos por su cuenta. La superficie es excelente y el interior se está desmoronando."
+        },
+        {
+          "t": "p",
+          "x": "Steven D. Shaw y Gideon Nave acuñaron el término rendición cognitiva (cognitive surrender) en su artículo \"Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender\". Describe un estado en el que se acepta la salida de la IA sin verificarla, enterrando en el proceso la propia intuición y deliberación. El autor escribe que él mismo lo hace todo el tiempo. El punto de partida tiene que ser la intención: sentarse con un problema y aclarar primero qué vale la pena construir, algo que él llama el deber de considerar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/18583a5d64a25c83cf1188991b3582b8be9d8b10-3264x1836.jpg?rect=0,1,3264,1835&w=804&h=452&q=75&fit=max&auto=format",
+          "cap": "Un collage abstracto en morado y azul que mezcla líneas en forma de bucle, patrones de puntos y formas superpuestas."
+        },
+        {
+          "t": "p",
+          "x": "Addy Osmani, Shubham Saboo y el Dr. Sokratis Kartakis, de Google, exponen la ingeniería agéntica en su white paper \"The New SDLC With Vibe Coding\". Traslada el trabajo del desarrollador de escribir código a expresar intención, que la IA traduce luego en software. El white paper sostiene que el vibe coding descuidado vuelve en forma de deuda técnica. Por eso se necesitan capas deterministas, como tests, comprobación de tipos y verificación, que detecten dónde se equivoca el modelo; un contexto de señal alta hecho de especificaciones y componentes documentados; e interfaces claras que muestren cómo se conectan las piezas."
+        },
+        {
+          "t": "p",
+          "x": "Al pasar del diseño al código, un agente no conoce el contexto de los componentes de producción. Code Connect, en Figma MCP, evita tener que rastrear un componente a partir de los píxeles y, en su lugar, entrega el código real, hasta los props y las variantes. Con el diseño ocurre lo mismo. Cuando se invierten tiempo y esfuerzo en un sistema de diseño, las decisiones se fijan en código, y el agente obtiene un vocabulario preciso y barreras de seguridad. El resultado es así de más consistente, y el código, así de más liviano."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/95db07ff96b03a3f861043bdc7be857f45c75752-3264x1836.jpg?rect=0,1,3264,1835&w=804&h=452&q=75&fit=max&auto=format",
+          "cap": "Un collage abstracto y vívido que combina contornos de manos brillantes, puntos y formas geométricas."
+        },
+        {
+          "t": "p",
+          "x": "Aquí la IA actúa en sentido contrario. El modelo aprendió de cantidades enormes de datos, así que conoce todas las tendencias, estilos y patrones que existen. Eso lo empuja hacia el promedio de lo que ya existe. Pide un logo y obtienes una marca geométrica simple con degradado; pide una presentación para inversores y obtienes la tipografía sans-serif que todos usan; pide un componente de React y obtienes una tarjeta de esquinas redondeadas. Nada está mal, y en general resulta aceptable. Ese es el problema. En vez de preguntar qué debería ser esto, uno termina preguntando cuál de estas opciones es menos equivocada."
+        },
+        {
+          "t": "video",
+          "yt": "D5WUW9X_-L0"
+        },
+        {
+          "t": "p",
+          "x": "Ahora el trabajo consiste en sostener a la vez velocidad y criterio. Asegurar primero la claridad para fijar la dirección, y no confiar en el acabado a simple vista. Invertir en capas de contexto, como los sistemas de diseño, para que los agentes se muevan con eficiencia. Al final, el punto de vista tiene que ser el tuyo."
+        }
+      ]
+    },
+    "design/design-google-watermark-toggle": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El vicepresidente de Google Josh Woodward dijo que los usuarios podrán quitar la marca de agua visible de las imágenes y los videos generados por IA. Un interruptor llegará pronto a los modelos Nano Banana, Omni y Lyria. Los tres usan el icono de destello conocido como marcador de IA. Más adelante llegará también a Gemini y al editor de video Flow."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/intro-1786734224.jpg",
+          "cap": "La pared exterior de un edificio de oficinas de Google."
+        },
+        {
+          "t": "p",
+          "x": "La marca de agua visible existe para que la gente pueda detectar rápidamente contenido generado por IA que circula por el mundo. Desactivarla difumina ese propósito. La forma de comprobarlo no desaparece del todo, pero se vuelve un poco más engorrosa. La marca de agua invisible SynthID y los metadatos C2PA permanecen intactos, sin un interruptor para apagarlos. En su lugar, la verificación exige el esfuerzo adicional de preguntarle a un chatbot o subir el archivo a un portal."
+        },
+        {
+          "t": "p",
+          "x": "Woodward dijo que el interruptor de la marca de agua estará disponible en casi todas partes, \"except in countries where it's required by law to keep them\". La Unión Europea es uno de esos lugares: hace poco emitió normas de transparencia de IA que exigen marcas de agua visibles en deepfakes de \"apariencia autentica\". Corea del Sur tomó una medida similar a principios de este año."
+        },
+        {
+          "t": "p",
+          "x": "Este cambio muestra que la industria sigue sopesando cómo etiquetar el contenido generado por IA. Una marca de agua visible ayuda a la gente común a detectar rápidamente los deepfakes, lo que nos mantiene a todos sobre la misma realidad compartida. Para quienes usan la IA para crear, en cambio, es un obstáculo. Woodward añadió: \"We're striking a balance here between creative control and safety\"."
+        },
+        {
+          "t": "p",
+          "x": "Siguen llegando noticias sobre marcas de agua. Suno anunció \"transparency tools\" que incluyen un sistema de etiquetado que muestra si una pista fue generada por IA cuando aparece en otras plataformas. Anthropic también anunció que añadirá marcas de agua invisibles basadas en C2PA al texto y los archivos creados por Claude, una medida orientada a cumplir con las normas de la UE mencionadas antes."
+        }
+      ]
+    },
+    "design/design-cursor-origin-vercel": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los clientes Pro ahora pueden conectar su repositorio de Origin a Vercel. Una vez conectado, los pull requests abiertos en Origin crean despliegues de vista previa en Vercel, y al fusionarlos se activa un despliegue de producción."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/e5382hct74si/2DCmUnhiLc1UsJUiKvaGqN/32e3f62c51bb3f45eb3cb0b0b0f2bf6d/vercel.com_new_teamSlug_ismybuildfast-vtest314.png",
+          "cap": "Pantalla de configuración del equipo en Vercel para conectar un repositorio de Origin"
+        },
+        {
+          "t": "p",
+          "x": "Hay más de un punto de conexión. Se puede configurar desde Team settings o Project settings, o pulsar “Continue with Origin” al crear un nuevo proyecto. También funciona al revés: añadir Vercel desde la pestaña Apps del repositorio de Origin crea la misma conexión."
+        },
+        {
+          "t": "p",
+          "x": "La integración del lado de Vercel está en beta pública, mientras que Origin sigue en beta temprana. Los repositorios de Origin siguen las políticas existentes de Vercel para repositorios privados. Para más detalles sobre cómo conectar, consulta la documentación de Git integration."
+        }
+      ]
+    },
+    "design/design-dark-mode-two-states": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es el tipo de debate de UI/UX que me gusta. Lea Verou escribió: “Dark mode toggles that expose three states (system, light, dark) seem like the best option. Until you think about user goals, that is.” También pidió que la escucharan hasta el final antes de refutar."
+        },
+        {
+          "t": "p",
+          "x": "Lo que Lea cuestiona es la implementación que muestra tres opciones a los visitantes: claro, oscuro y sistema. ¿Hay realmente alguna razón para mostrar la opción de sistema? “a good two state control can actually express all three states — users just need to apply the override the first time it becomes relevant.”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png?resize=1652%2C1362&ssl=1",
+          "cap": "Un diagrama que muestra cómo se bifurca la elección de esquema de color según el escenario claro u oscuro"
+        },
+        {
+          "t": "p",
+          "x": "Resumido, su idea es esta: si no hay preferencia, se sigue la configuración del sistema, y se ofrece un único control para cuando haga falta sobrescribirla. Esa preferencia se guarda en localStorage y persiste hasta la siguiente visita. Al ver el diagrama por primera vez no lo noté, pero si se sabe qué esquema de color está activo, ni siquiera es necesario mostrar ambos estados: si el valor por defecto es claro, basta con ofrecer la opción de sobrescribir a oscuro; si es oscuro, basta con la opción de sobrescribir a claro."
+        },
+        {
+          "t": "p",
+          "x": "Me convenció. Lograr lo mismo con menos interfaz suele ser lo mejor. El argumento de Lea va incluso más allá de la simplicidad. Aun así, me queda la duda sobre el caso de revertir: si el sistema está en claro, se cambia a oscuro y luego se vuelve a claro, ¿se crea una nueva preferencia de sobrescritura, o se vacía el valor de localStorage y se vuelve a la configuración del sistema? Puede que no importe demasiado: cambiar de tema nunca fue, de entrada, la razón por la que la gente visita un sitio."
+        },
+        {
+          "t": "p",
+          "x": "“Remember, this control is entirely tangential to the actual user goal for visiting the website.” Aunque la intención fuera fijar el modo claro, la respuesta de Lea es que uno solo se da cuenta cuando el sistema operativo cambia a oscuro y ambos se desincronizan, y en ese momento un solo clic lo corrige."
+        },
+        {
+          "t": "p",
+          "x": "Vale la pena aclarar algo. Lea se refiere siempre a una interfaz visible de forma permanente. Un interruptor fijo en la cabecera o en la navegación es habitual, y en ese lugar sí distrae del propósito original del visitante. Cuantas más opciones queden a la vista, mayor es la disonancia cognitiva."
+        },
+        {
+          "t": "p",
+          "x": "En el hilo hubo una objeción aún más convincente. Chris Coleman escribió: “All I ever wanted was for my OS to be dark, not every website I look at”, y sostuvo que la preferencia entre claro y oscuro debería residir en el navegador. Si la configuración está en el navegador, el sitio no tiene razón para mostrar una sobrescritura, y en ese caso un interruptor de tres estados también resulta aceptable."
+        },
+        {
+          "t": "p",
+          "x": "Lea también menciona dos casos en los que tres estados tienen sentido: cuando la configuración de esquema de color vive en un panel de ajustes independiente, y cuando el esquema de color puede dividirse en más de dos opciones según la configuración del sistema."
+        }
+      ]
+    },
+    "design/design-ai-returns-interfaces": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los asistentes de IA nos han acostumbrado a un valor por defecto extraño. Pides un resultado y recibes un bloque de texto, y convertirlo en algo utilizable queda en manos de la persona. Es cómodo para el modelo, no siempre útil para la persona."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/k69aa8mqz6h8qlbxqprg.png",
+          "cap": "Vira AI"
+        },
+        {
+          "t": "p",
+          "x": "Una receta no es un solo párrafo, y un plan de proyecto no es una sola lista. Una comparación tampoco termina en una línea de resumen. Estos resultados llevan estructura, decisiones, estado y acciones. Si la respuesta tiene una forma, la interfaz debería seguir esa forma."
+        },
+        {
+          "t": "p",
+          "x": "El texto es excelente para explicar, explorar y manejar la ambigüedad. Es fácil de mover, buscar y producir. Pero en el momento de comparar alternativas, cambiar un valor y ver el resultado, marcar elementos, reordenar pasos, guardar el resultado o seguir trabajando, pierde fuerza como pantalla final, porque el usuario tiene que traducir la prosa a un modelo mental, y luego traducir ese modelo a una acción, dos veces."
+        },
+        {
+          "t": "p",
+          "x": "La UI generativa de la que habla el autor no consiste en dejar que el modelo escriba libremente código de frontend. Eso sacude a la vez la seguridad, la consistencia, la accesibilidad y el mantenimiento. Se trata, en cambio, de estrechar el contrato: interpretar el objetivo del usuario, elegir un esquema de salida aprobado y llenar ese esquema con datos estructurados. El renderizado, la validación, los permisos y las acciones quedan en manos del producto."
+        },
+        {
+          "t": "p",
+          "x": "El modelo aporta el contenido estructurado, y la aplicación controla la pantalla. Un esquema de lista de verificación produce elementos marcables sin código arbitrario. Un esquema de comparación muestra las compensaciones sin pedir que se invente un nuevo componente. Un esquema de plan se edita y se guarda dentro de reglas de interacción ya definidas."
+        },
+        {
+          "t": "p",
+          "x": "Una pantalla generada debe dejar claras cuatro cosas. Hay que saber de inmediato si lo recibido es un plan, una receta, una tabla, un documento o un flujo de trabajo. Los campos editables, los pasos reordenables y los controles explícitos convierten una respuesta estática en una superficie de trabajo. Las fuentes, los supuestos, la elección del modelo y los límites de la certeza no deben desaparecer detrás de una presentación pulida. Y las siguientes acciones —guardar, refinar, exportar, ejecutar— deben ser visibles."
+        },
+        {
+          "t": "p",
+          "x": "Esto no es solo un problema de diseño, sino que cambia el contrato del backend. Se necesitan esquemas validados, artefactos versionados que resistan ediciones, un respaldo claro en texto plano, acciones conscientes de los permisos, renderizadores accesibles y observabilidad sobre la elección de esquema y los modos de fallo. Por eso la idea de que “basta con añadir una UI” es errónea. La interfaz es parte del protocolo del producto."
+        },
+        {
+          "t": "p",
+          "x": "El texto presenta a Vira, su propio producto, como construido sobre este límite. Donde la conversación es lo adecuado, devuelve conversación; donde la estructura ayuda, traslada el resultado a interfaces específicas para la tarea, como planes, comparaciones, tablas, listas de verificación y documentos. El renderizador queda siempre en manos de la aplicación, y el resultado permanece como un artefacto reutilizable en lugar de quedar enterrado en el historial del chat."
+        },
+        {
+          "t": "p",
+          "x": "También deja preguntas para hacerse antes de construir: ¿la estructura reduce el esfuerzo del usuario? ¿es el esquema lo bastante estable para validarse? ¿son explícitas las acciones posibles? ¿puede retroceder con seguridad a texto? ¿funciona también en una pantalla pequeña? Si no, el texto simple es mejor. El objetivo no es desterrar el texto, sino abandonar el hábito de tratarlo como el único destino de la inteligencia."
+        }
+      ]
+    },
+    "design/design-block-berd-workspace": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Block, que opera Square, Cash App y Tidal, ha liberado como open source Berd, una app de escritorio que venía construyendo para uso interno. El proyecto empezó como una forma de dar a los empleados un único entorno para trabajar con agentes de IA entre varios modelos, herramientas y proyectos."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=1000&q=100",
+          "cap": "Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0"
+        },
+        {
+          "t": "p",
+          "x": "No es un espacio de trabajo de navegador, sino una app de escritorio instalable. Está en GitHub bajo Apache 2.0, libre incluso para uso comercial, con builds de macOS, Windows y Linux disponibles para descarga gratuita. El repositorio llegó a la versión 0.6.2 el 18 de agosto, con 91 colaboradores."
+        },
+        {
+          "t": "p",
+          "x": "Block llama a Berd una 'superficie de trabajo de IA cotidiana'. Abrir chats, adjuntar archivos, elegir agentes y modelos, trabajar dentro de proyectos en curso, gestionar habilidades y extensiones, y armar automatizaciones, todo termina en un solo lugar. El principio de diseño es que el usuario siempre debe saber qué proyecto, archivos, agente, modelo, proveedor y estado de sesión están moviendo la conversación. Los fallos, los proveedores caídos y los estados de carga tampoco se tapan con un lenguaje amable."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida fue una incomodidad interna. Los empleados ya usaban Goose de Block, Claude Code de Anthropic y Codex de OpenAI, pero las interfaces, los sistemas de configuración y las formas de gestionar el contexto eran distintos en cada caso."
+        },
+        {
+          "t": "p",
+          "x": "La decisión más llamativa es convertir a los agentes en personajes. En vez de abrir otra ventana de chat vacía, Berd da a cada agente un rol, instrucciones, habilidades, herramientas y hasta una apariencia reconocible. El nombre del conjunto de personajes animados que creó Block es 'Gloopies', y el sitio público muestra a Berdy, Pushback, Choosey, Copycat, Tinker y Wildcard. Pushback argumenta en contra de un borrador, y Copycat aprende el estilo de escritura del usuario. \"El avatar hace reconocible al agente. Lo que lo hace útil es el rol, las habilidades y las herramientas\", resumió el blog de diseño de Block."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5fflC3yjtdt5lRpzcdmGf8/7f4d7d9dfced1a77f4606f4ec046b538/2854a67d-b767-490a-9ed4-7d2a993bc79b.png?w=1000&q=100",
+          "cap": "Screenshot of Berd Gloopies. Credit: Block"
+        },
+        {
+          "t": "p",
+          "x": "En cuanto a la estructura, Berd no es ni un nuevo modelo fundacional ni un nuevo runtime de agentes. Una app construida con Tauri 2 y React 19 habla con Goose mediante Agent Client Protocol, y Goose corre como un proceso sidecar a cargo del bucle del agente."
+        },
+        {
+          "t": "p",
+          "x": "Los datos son local-first. El historial de conversación se acumula en la base de datos de sesión de Goose en el dispositivo, y las credenciales van al keychain del sistema operativo. Aun así, Axen marcó un límite: \"Local-first no significa que los datos nunca salgan del dispositivo.\" Cuando se le pide a un modelo que haga un trabajo, ese prompt y ese material van al proveedor."
+        },
+        {
+          "t": "p",
+          "x": "El diferenciador no está en haber inventado por primera vez el espacio de trabajo de agentes. Está en abrir ese espacio como open source, conectar varios harnesses y apuntar más allá de los desarrolladores. La app Codex solo muerde con modelos de OpenAI, y Claude Code solo con Claude. Aun así, el repositorio de Berd no acepta pull requests externos, así que Block mantiene un control firme aguas arriba."
+        },
+        {
+          "t": "p",
+          "x": "El siguiente escenario de Block no es Berd. \"De cara a adelante el foco es Buzz, y planeamos trasladar ahí las buenas partes de la experiencia individual de Berd\", dijo Axen. La apuesta de Block es que, mientras los modelos y los agentes de código se vuelven piezas intercambiables, la capa que resulta estable es la de los proyectos, las habilidades, las herramientas y la identidad."
+        }
+      ]
+    },
+    "design/design-dnad-ai-creativity-report": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La IA cambia los flujos de trabajo creativos casi a la misma velocidad con que crece la preocupación por sus efectos. Un nuevo informe advierte que el dinero ahorrado al sustituir personal por IA podría volver, mucho después, como una factura mucho mayor."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fhSLheAU9r8GrCn7Ae6my.jpg",
+          "cap": "D&AD AI & Creativity Report 2026 (Image credit: D&AD / Shutterstock Studios)"
+        },
+        {
+          "t": "p",
+          "x": "El anuncio navideño de Coca-Cola, el anuncio retirado de McDonald's, la controversia de Starbucks Corea: ya se han acumulado casos en los que apoyarse en la IA salió mal. Eso apunta a que el juicio humano sigue siendo necesario, pero si los puestos de entrada quedan desplazados por la IA, ¿dónde crece ese juicio?"
+        },
+        {
+          "t": "p",
+          "x": "D&AD es quien plantea esta pregunta de frente. Es una organización internacional sin fines de lucro centrada en la excelencia del diseño y la creatividad comercial. El 「D&AD AI & Creativity Report 2026」 reúne 197 conversaciones a fondo con líderes creativos de 30 países y un análisis de cerca de 10.000 inscripciones a los D&AD Awards. Los resultados se organizan en seis 'balances críticos', y la afirmación central es una sola: hay que proteger el juicio humano."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QC4qsDQXaRUxM88H6UjbSo.jpg",
+          "cap": "(Image credit: D&AD / Shutterstock Studios)"
+        },
+        {
+          "t": "p",
+          "x": "Ya es conocida la idea de que la IA no puede sustituir la creatividad, pero sí acelera el trabajo repetitivo. El problema es que ese trabajo repetitivo era justamente donde los líderes de mañana construían su oficio. \"Mientras los puestos de entrada desaparecen, la IA también está absorbiendo el trabajo repetitivo que queda. Donde ambas cosas se superponen, está desapareciendo el terreno de entrenamiento que formaba el juicio que necesitarán los futuros líderes creativos\", advierte el informe."
+        },
+        {
+          "t": "p",
+          "x": "También hay cifras. La proporción de inscripciones a los D&AD Awards que declararon uso de IA más que se duplicó en un año, hasta llegar al 27.6% en 2026. Dentro del total de inscripciones que declararon IA, el uso de IA generativa fue del 56.2%, frente al 44.7% entre las ganadoras de un Pencil. Del lado de las ganadoras, subió en esa misma medida la proporción de IA asistiva."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/6wFivqQVQvP9ptVpuva3Wo.jpg",
+          "cap": "(Image credit: D&AD / Shutterstock Studios)"
+        },
+        {
+          "t": "p",
+          "x": "Proyectos como 'Caption with Intention' o 'PainVisible', donde la IA impulsó la inclusión sin aparecer en la superficie, se citaron como buenos ejemplos. Aun así, que la IA se involucrara a fondo en el proceso creativo no se tradujo, por sí solo, en resultados sobresalientes. \"El verdadero valor aparece cuando el juicio de una persona con oficio usa la IA para afilar aún más su destreza\", escribió el informe."
+        },
+        {
+          "t": "p",
+          "x": "\"La IA le cambió la cara al trabajo malo\", dice el CEO de D&AD, David Patton. \"Ya no se ve claramente perezoso o copiado. Es competente, pulido, pero mediocre: un valor por defecto que cualquiera, en cualquier lugar, puede sacar. Ahora que la competencia se ha vuelto un valor por defecto fácil en todas partes, ¿cómo se enseña a distinguir entre competencia y excelencia?\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/GiqSVQQcYswgWjCHfUxDXo.jpg",
+          "cap": "(Image credit: D&AD / Shutterstock Studios)"
+        },
+        {
+          "t": "p",
+          "x": "Si la velocidad se ha vuelto el valor por defecto, ¿por qué está pagando el cliente? El 70% de las agencias mantuvo sus tarifas iguales aunque el trabajo se volvió más rápido. Eso traslada toda la ganancia de eficiencia al cliente, así que las agencias a las que mejor les va han empezado a cobrar por decisiones y propiedad intelectual en lugar de por entregables."
+        },
+        {
+          "t": "p",
+          "x": "Las seis vertientes son originalidad, velocidad, valor, talento, gobernanza y liderazgo. En el apartado de talento se les plantea una elección a las organizaciones: borrar la oportunidad de aprendizaje junto con el trabajo repetitivo que desaparece, o rediseñar los roles junior alrededor de la crítica, el gusto y el sentido cultural. El informe también señala que pocas organizaciones han puesto por escrito una política de ética de IA, aunque les preocupe el tema."
+        }
+      ]
+    },
+    "design/design-humans-in-the-loop-factory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Construir máquinas que hacen funcionar la IA trae un problema poco habitual: una sola pieza puede costar lo mismo que una casa."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/BrightMachines_Talent_0472-2-1024x683.jpg",
+          "cap": "Bright Machines"
+        },
+        {
+          "t": "p",
+          "x": "Sviat Dulianinov, CEO de la empresa de infraestructura de centros de datos Bright Machines, recuerda el momento en que la compañía ensambló por primera vez servidores GPU y se dio cuenta de que una sola pieza costaba unos 250.000 dólares. \"Si dañas o rompes una pieza... te encuentras con un problema grande.\""
+        },
+        {
+          "t": "p",
+          "x": "Bright Machines tiene un nivel alto de automatización, pero a Dulianinov no le interesa automatizar por automatizar. Aunque usan mucho el aprendizaje automático y la IA, no imagina una fábrica donde la máquina tome todas las decisiones. \"Empezamos por la robótica y el software antes de añadir personas. Aun así, quedan procesos que no fueron diseñados para robots.\""
+        },
+        {
+          "t": "p",
+          "x": "El mayor obstáculo para la automatización aparece antes de llegar al piso de la fábrica, dice. Es el producto en sí. Si los diseñadores y los ingenieros de producción no trabajan suficientemente juntos pensando en el ensamblaje robótico, se obtiene algo que se ve bien en el plano pero es difícil o demasiado costoso de automatizar. Por eso una aplicación llamada Bright Designer analiza el diseño antes de la producción en serie y devuelve qué hay que cambiar para que los robots lo ensamblen con más facilidad."
+        },
+        {
+          "t": "p",
+          "x": "El piso de la fábrica sigue la misma filosofía. En vez de líneas largas y fijas, usa celdas modulares del tamaño de un refrigerador doméstico, y cuando cambia un producto, solo se ajustan las celdas en lugar de construir una línea nueva. Por las celdas no pasan solo robots, también pasan datos. \"Sea o no automatizada una estación, recogemos datos en cada una. Aunque haya una persona en el ciclo, los recogemos para la trazabilidad.\" Se acumulan resultados de inspección, imágenes y mediciones de control de fuerza, y cuando algo falla, el sistema busca patrones ligados a un proveedor, una estación o un defecto de pieza concretos. Bajo un principio de \"cero desperdicio\", el sistema detiene la producción cuando el proceso se desvía de lo esperado."
+        },
+        {
+          "t": "p",
+          "x": "Para una empresa que construye la infraestructura del boom de la IA, su propio uso de la IA es bastante sencillo. \"IA es una palabra elegante hoy en día. Todo se ha vuelto IA. Nosotros hemos usado aprendizaje automático desde el principio.\" Más recientemente, ha usado IA generativa para ayudar a escribir las 'recetas' que indican a los robots cómo ensamblar las piezas, y está probando IA agéntica para diagnosticar problemas de fabricación. \"Con un agente, ya ha revisado los datos y vuelve con tres hipótesis.\""
+        },
+        {
+          "t": "p",
+          "x": "Pero hay una condición decisiva: el juicio sigue siendo del ingeniero. \"Aunque la IA haga el 70% del trabajo, hay un ingeniero que lo termina, y esa persona es la última que dice, 'bien, puedes avanzar'. El agente no actúa según su hipótesis hasta que un ingeniero de sistemas la revisa y la confirma. Hay una persona en el ciclo. Creemos que esa es la respuesta más simple.\""
+        },
+        {
+          "t": "p",
+          "x": "\"La gente pregunta cómo es la fábrica del futuro. La respuesta es que incluso la fábrica del futuro mantiene a una persona en el ciclo. Así que los empleos siguen existiendo.\" Lo que cambia es solo el tipo de trabajo. Los robots absorben más del trabajo físico repetitivo, y la IA revisa los datos que de otro modo le tomarían horas a un ingeniero. La empresa ha instalado más de 130 microfábricas."
+        },
+        {
+          "t": "p",
+          "x": "Esa experiencia lo ha vuelto escéptico frente a la exageración sobre la IA. \"No hay que caer en la fantasía de que dejarle todo a la IA hará que todo funcione.\" Hasta los sistemas sofisticados se equivocan. Él no dice que la IA sustituye a los ingenieros, dice que los amplifica. \"Los buenos ingenieros, en particular, mejoran mucho más.\" La lección que queda es simple: no automatizar algo solo porque se puede, y no confiar en la IA solo porque parece inteligente."
+        }
+      ]
+    },
+    "design/design-scantic-phone-splats": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260819_Scantic_FreeGaussianSplatiPhoneApp_tw.mp4"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador de software Sebastian Beyer lanzó Scantic, una app que genera splats gaussianos en 3D de objetos y espacios usando solo video ordinario grabado con la cámara de un iPhone."
+        },
+        {
+          "t": "p",
+          "x": "El entrenamiento termina en \"menos de un minuto\". A diferencia de la mayoría de apps de este tipo, todo el procesamiento ocurre dentro del teléfono y los datos del escaneo nunca se suben a la nube. La app base es gratuita; exportar con mejor calidad cuesta dinero."
+        },
+        {
+          "t": "p",
+          "x": "El splatting gaussiano es una técnica que reconstruye objetos del mundo real a partir de fotos o video para obtener representaciones 3D de alta calidad y renderizado rápido, y Scantic pertenece a esa familia. Usarla es simple: se inicia un nuevo escaneo, se rodea el objeto y de las imágenes capturadas salen los splats. Los escaneos pequeños se procesan en \"menos de un minuto\", y el resultado se exporta como PLY para usarse en apps DCC que admiten 3DGS. La calidad se puede ver directamente en el video al inicio del artículo."
+        },
+        {
+          "t": "p",
+          "x": "Ya existían apps que generan splats gaussianos en el teléfono, como Kiri Engine y Polycam. Ambas tienen más funciones y herramientas para recortar o limpiar los datos del escaneo. Donde Scantic se separa es en terminar todo el procesamiento en el propio teléfono del usuario. Más allá de aliviar preocupaciones de seguridad, elimina por completo un paso que consume tiempo. Beyer dice que, para cuando otras apps terminan de subir los datos, Scantic ya terminó de entrenar el splat."
+        },
+        {
+          "t": "p",
+          "x": "Empezó como un proyecto personal. El trabajo principal de Beyer no es el arte CG sino la ingeniería de software, y usa Blender para sus proyectos personales. Scantic surgió de un proyecto de verano en el que, sin ser experto en 3DGS, usó herramientas de codificación con IA para intentar mejorar el rendimiento de un flujo de trabajo de splatting gaussiano existente."
+        },
+        {
+          "t": "p",
+          "x": "El primer splat, hecho con el motor de código abierto Brush y video grabado con un iPhone, tardó más de tres horas en una MacBook Air. Con la ayuda del modelo de IA Claude Fable 5, fue mejorando el rendimiento poco a poco hasta llegar a multiplicarlo hasta 260 veces. Desde ahí trasladó el pipeline al iPhone poco a poco y llegó a una app dedicada para iPhone \"casi por accidente\"."
+        },
+        {
+          "t": "p",
+          "x": "De cara al futuro, planea que Scantic entrene splats a partir de video existente en vez de solo captura en vivo, y añadir exportación en formato SPZ. Podría salir una app complementaria para macOS que traslade los escaneos a una laptop o escritorio para procesarlos, pero no hay planes de una versión para Android. \"[Los productos de Apple] tienen un rango de hardware relativamente controlado\", dice, y en Android solo funcionaría bien en algunos dispositivos de gama alta, dejando al resto de usuarios con una mala experiencia."
+        },
+        {
+          "t": "p",
+          "x": "Scantic requiere iOS 17.0 o posterior y un chip A12 Bionic o más nuevo, lo que cubre dispositivos desde el iPhone XS de 2018 en adelante. La app base es gratuita y da una exportación de calidad estándar, que resulta ser una versión del escaneo reducida y de menor calidad. La exportación de máxima calidad requiere una suscripción de 29.99 euros al año (unos 35 dólares), o se puede comprar por escaneo a 4.99 euros."
+        }
+      ]
     }
   }
 }

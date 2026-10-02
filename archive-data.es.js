@@ -20224,9 +20224,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "안드로이드 XR 첫 안경 아우라,\n예약 1만 대를 넘어섰다",
-  "body": "안드로이드 XR을 얹은 첫 AR 안경 엑스리얼 아우라가 사전 예약 1만 대를 넘겼다. 가격은 아직 미정, 출시는 올가을이다.",
-  "lang": "ko",
+  "headline": "Android XR's first glasses,\nAura, top 10,000 pre-orders",
+  "body": "Xreal Aura, the first AR glasses on Android XR, passed 10,000 pre-orders; price unset, launch this fall.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20240,10 +20240,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "손목에 찬 에어백,\n픽셀 워치 5가 호흡 위급을 먼저 잡는다",
-  "body": "픽셀 워치 5는 호흡 위급 상황을 손목에서 감지해 사용자가 손대지 않아도 스스로 도움을 부른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Un airbag para la muñeca:\nel Pixel Watch 5 actúa primero",
+  "body": "El Pixel Watch 5 detecta emergencias respiratorias en la muñeca y pide ayuda sin que el usuario intervenga.",
+  "lang": "es"
  },
  {
   "id": "gadgets-photo-body-composition",
@@ -20256,10 +20255,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "체지방 측정, 구글 실험에선\n손목 센서보다 카메라가 정확했다",
-  "body": "구글 리서치는 사진으로 체성분을 추정하는 모델이 웨어러블 센서보다 정확했다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Según un test de Google,\nla cámara superó al sensor",
+  "body": "Google Research dijo que un modelo que calcula la composición corporal con fotos superó a los sensores portátiles.",
+  "lang": "es"
  },
  {
   "id": "gadgets-homepad-faces",
@@ -20464,9 +20462,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 스스로 발전한다는 전제\n실제 평가에서 창의성에 막혔다",
-  "body": "AI 에이전트는 연구에 필요한 공학 작업은 해냈지만 최상위 학회 수준의 독창성에는 이르지 못했다.",
-  "lang": "ko",
+  "headline": "The premise that AI improves\nitself hit a creativity wall",
+  "body": "AI agents managed the engineering research requires but lacked the originality of top-tier conferences.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20480,10 +20478,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 광자 칩 부품 세 가지를\n최대 500배 작게 설계했다",
-  "body": "막스플랑크 광과학연구소가 역설계 AI로 만든 광자 칩 부품 세 종이 최대 500배 작아졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La IA diseñó tres piezas\nfotónicas, 500 veces menores",
+  "body": "Instituto Max Planck de Ciencia de la Luz usó IA de diseño inverso para achicar tres piezas fotónicas hasta 500 veces.",
+  "lang": "es"
  },
  {
   "id": "science-machine-culture",
@@ -20496,10 +20493,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 찾은 전략이 세대를 건너\n인간 집단에 자리 잡았다",
-  "body": "사람으로만 채운 집단 600명 중 한 명만 찾아낸 전략이 AI가 낀 집단에서는 세대를 넘어 살아남았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Una estrategia de IA cruzó\ngeneraciones en grupos humanos",
+  "body": "En grupos solo humanos, apenas 1 de 600 personas halló la estrategia, pero en grupos con IA sobrevivió generaciones.",
+  "lang": "es"
  },
  {
   "id": "science-fda-ai-device-evidence",
@@ -20704,9 +20700,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "Vapor World 감독이 AI 컷신을\n전부 걷어내고 원본으로 되돌린다",
-  "body": "Steam 긍정 평가 25%에 그친 감독이 AI 컷신을 전부 지우겠다고 밝혔다.",
-  "lang": "ko",
+  "headline": "Vapor World director pulls all\nAI cutscenes, restores originals",
+  "body": "The director, whose game got only 25% positive Steam reviews, said all AI cutscenes will be removed.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20720,10 +20716,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "언리얼 엔진 안으로 들어온 월드 모델\n프롬프트로 시뮬레이션을 고쳐 쓴다",
-  "body": "Duality AI가 언리얼 엔진에서 프롬프트만으로 시뮬레이션 시나리오를 바꾼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El modelo de mundo reescribe\nsimulaciones con prompts",
+  "body": "Duality AI permite reescribir escenarios de simulación en Unreal Engine usando solo prompts.",
+  "lang": "es"
  },
  {
   "id": "games-sony-ceo-human-made-art",
@@ -20736,10 +20731,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "AI 시대일수록 사람이 만든 것을\n찾게 된다는 Sony CEO의 판단",
-  "body": "Sony CEO Totoki는 AI가 창의성을 키울 뿐 대신하진 못한다고 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El CEO de Sony: cuanta más IA,\nmás se busca lo hecho a mano",
+  "body": "El CEO de Sony, Totoki, dijo que la IA puede potenciar la creatividad pero no sustituirla.",
+  "lang": "es"
  },
  {
   "id": "games-james-pond-ai-suspicion",
@@ -20752,10 +20746,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "AI 의혹에 댓글 닫힌 트레일러\n개발사는 픽셀에서 다시 그렸다고 한다",
-  "body": "System 3는 James Pond 트레일러에 AI를 쓰지 않았다고 반박했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Cerraron comentarios por\ndudas de IA; redibujado a mano",
+  "body": "System 3 respondió y aseguró que no usó IA en el tráiler de James Pond.",
+  "lang": "es"
  },
  {
   "id": "games-gunz-steam-return",
@@ -20768,10 +20761,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "Steam으로 돌아온 20년 된 Gunz\nAI 아트 의혹과 접속 문제가 겹쳤다",
-  "body": "20년 만에 Steam에 돌아온 Gunz가 AI 아트 의혹과 접속 난조로 흔들렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gunz, de 20 años, vuelve\na Steam con dudas de IA",
+  "body": "Gunz volvió a Steam tras 20 años y se vio sacudido por dudas sobre arte con IA y problemas de conexión.",
+  "lang": "es"
  },
  {
   "id": "gadgets-macos-27-siri-app",
@@ -20784,10 +20776,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "맥 독에 처음 올라온 독립 Siri 앱\n지난 대화가 통째로 남는다",
-  "body": "macOS 27이 이전 대화를 저장하고 iCloud로 동기화하는 맥 전용 Siri 앱을 처음 담는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La primera app Siri\nindependiente llega al Dock",
+  "body": "macOS 27 trae la primera app Siri solo para Mac, que guarda chats pasados y los sincroniza por iCloud.",
+  "lang": "es"
  },
  {
   "id": "gadgets-ice-smart-glasses-ban",
@@ -20800,10 +20791,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "감시 기관 ICE조차 스마트 안경을\n직원 사생활 위험으로 규정했다",
-  "body": "ICE가 메타 글래스 같은 기기가 민감 정보를 의도치 않게 담을 수 있다며 직원 착용을 금지했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Hasta ICE ve riesgo en las\ngafas inteligentes del personal",
+  "body": "ICE prohibió al personal usar gafas como las Meta Glasses, por riesgo de captar información sensible sin querer.",
+  "lang": "es"
  },
  {
   "id": "gadgets-comu-action-pro-recorder",
@@ -20816,10 +20806,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "200달러짜리 AI 녹음기가\n스마트폰의 가장 큰 일을 가져갔다",
-  "body": "마이크 여섯 개와 70시간 배터리를 갖춘 200달러 코무 액션 프로가 회의 녹음을 폰에서 떼어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Una grabadora de IA de $200\nquitó al teléfono su gran tarea",
+  "body": "La Comu Action Pro de $200, con seis micrófonos y 70 horas de batería, le quitó al teléfono la grabación de reuniones.",
+  "lang": "es"
  },
  {
   "id": "gadgets-comcast-wifi-motion-sensing",
@@ -20832,9 +20821,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "카메라 없이 수백만 대 컴캐스트 공유기가\n집 안 움직임을 감지하기 시작했다",
-  "body": "컴캐스트가 와이파이 신호 변화로 집 안 움직임을 잡아내는 와이파이 모션을 전국에 무료로 푼다.",
-  "lang": "ko",
+  "headline": "Without cameras, millions of\nComcast routers now sense motion",
+  "body": "Comcast is rolling out WiFi Motion nationwide for free, detecting movement in homes from changes in WiFi signals.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20848,10 +20837,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "월 20달러였던 Alexa+가\n파이어 TV에서 공짜가 됐다",
-  "body": "아마존이 월 20달러 구독료를 없애고 미국 파이어 TV 사용자 전원에게 Alexa+를 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Alexa+, antes $20 al mes,\nya es gratis en Fire TV",
+  "body": "Amazon eliminó la tarifa mensual de $20 y abrió Alexa+ a todos los usuarios de Fire TV en EE. UU.",
+  "lang": "es"
  },
  {
   "id": "design-scantic-phone-splats",
@@ -20864,10 +20852,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "클라우드 없이 아이폰에서\n가우시안 스플랫을 학습한다",
-  "body": "Scantic은 아이폰에서 클라우드 없이 1분 안에 가우시안 스플랫을 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Entrenar splats gaussianos\nen un iPhone, sin la nube",
+  "body": "Scantic genera splats gaussianos en un iPhone en menos de un minuto, sin usar la nube.",
+  "lang": "es"
  },
  {
   "id": "design-humans-in-the-loop-factory",
@@ -20880,10 +20867,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 70%를 처리해도\n마지막 승인은 사람이 한다",
-  "body": "AI가 70%를 처리해도 최종 판단은 엔지니어가 내리도록 공정을 짰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Aunque la IA haga el 70%,\nla aprobación final es humana",
+  "body": "El proceso está diseñado para que el ingeniero tome la decisión final aunque la IA haga el 70% del trabajo.",
+  "lang": "es"
  },
  {
   "id": "design-dnad-ai-creativity-report",
@@ -20896,10 +20882,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 주니어 업무를 걷어가면\n판단력을 배울 곳이 사라진다",
-  "body": "AI 사용을 밝힌 D&AD 출품작이 1년 만에 27.6%로 두 배 넘게 늘었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Si la IA absorbe el trabajo\njunior, no hay dónde aprender",
+  "body": "Las inscripciones del D&AD que declaran uso de IA más que se duplicaron, hasta 27.6% en un año.",
+  "lang": "es"
  },
  {
   "id": "design-block-berd-workspace",
@@ -20912,10 +20897,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "Block이 오픈소스로 푼\n에이전트 작업 공간 Berd",
-  "body": "Block은 Berd를 Apache 2.0으로 풀고 대화 기록을 기기에 남긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Block libera como open source\nsu espacio de agentes: Berd",
+  "body": "Block libera Berd bajo Apache 2.0 y mantiene el historial de conversación en el dispositivo.",
+  "lang": "es"
  },
  {
   "id": "design-ai-returns-interfaces",
@@ -20928,10 +20912,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "긴 글 대신 인터페이스를\nAI가 돌려줘야 한다",
-  "body": "AI가 산문 대신 승인된 스키마를 채워 컴포넌트로 답해야 한다는 주장이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "En vez de texto largo,\nla IA debe devolver interfaces",
+  "body": "La idea es que la IA responda con componentes llenando un esquema aprobado en vez de prosa.",
+  "lang": "es"
  },
  {
   "id": "books-story-hacker-os",
@@ -20944,10 +20927,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 소설을 대신 쓰지 않고\n작가를 더 낫게 만든다는 도구",
-  "body": "장르 템플릿과 트로프 라이브러리로 구조를 짜되 최종 판단은 작가에게 남긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Una herramienta que no escribe\nnovelas, sino mejora al autor",
+  "body": "Estructura con plantillas de género y una biblioteca de tropos, pero deja la decisión final al escritor.",
+  "lang": "es"
  },
  {
   "id": "books-mcgraw-hill-ai-results",
@@ -20959,10 +20941,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습 도구 8종에 사용자 750만 명\n맥그로힐 1분기 매출이 올랐다",
-  "body": "AI Reader가 학생 260만 명에게서 상호작용 6300만 건을 기록했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "8 herramientas de IA,\n7.5M usuarios, más ingresos",
+  "body": "AI Reader registró 63 millones de interacciones de 2.6 millones de estudiantes.",
+  "lang": "es"
  },
  {
   "id": "books-automated-author-stack",
@@ -20975,10 +20956,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "마법 같은 프롬프트 하나가 아니라\n집필부터 출간까지 AI 스택 전체",
-  "body": "집필·편집·마케팅·출간을 잇는 모델 비종속 저자 시스템이 올가을 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "No un prompt mágico,\nsino IA de escribir a publicar",
+  "body": "Un sistema de autor independiente del modelo que une escritura, edición, marketing y publicación llega este otoño.",
+  "lang": "es"
  },
  {
   "id": "books-ai-book-discoverability",
@@ -21151,10 +21131,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "Alibaba가 프롬프트 한 줄로\n노래 한 곡을 만드는 모델을 냈다",
-  "body": "HappyShrimp 1.0은 멜로디와 편곡, 가사를 쓰고 직접 부르기까지 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Alibaba lanza un modelo que\ncrea una canción con un prompt",
+  "body": "HappyShrimp 1.0 escribe melodía, arreglos y letra, y hasta interpreta las voces.",
+  "lang": "es"
  },
  {
   "id": "music-ethical-plugins",
@@ -21167,10 +21146,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "학습 데이터를 제값 주고 사는\nAI 음악 도구 여섯 개를 모았다",
-  "body": "여섯 도구 모두 학습에 쓴 음악을 라이선스하고 수익을 아티스트와 나눈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Seis herramientas de IA\nmusical que pagan por los datos",
+  "body": "Las seis herramientas licencian la música con la que entrenan y comparten los ingresos con los artistas.",
+  "lang": "es"
  },
  {
   "id": "movies-viewscreen-moana",
@@ -21199,10 +21177,9 @@
   "date": "2026-08-19",
   "section": "movies",
   "has_full": true,
-  "headline": "로빈 윌리엄스의 세 자녀가 AI 남용에\n맞서 아버지의 인스타그램을 열었다",
-  "body": "젤다 윌리엄스는 진짜 클립과 사진을 모으는 일이 아버지의 목소리와 초상 남용에 맞서는 최선이라고 적었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Los 3 hijos de Robin Williams\nreabren Instagram contra la IA",
+  "body": "Zelda Williams dijo que reunir videos y fotos reales es la mejor defensa contra el abuso de la voz e imagen de su padre.",
+  "lang": "es"
  },
  {
   "id": "movies-mpa-bytedance-mou",
@@ -21215,10 +21192,9 @@
   "date": "2026-08-19",
   "section": "movies",
   "has_full": true,
-  "headline": "MPA가 바이트댄스와 양해각서를 맺고\n시드댄스에 IP 가드레일을 박았다",
-  "body": "MPA와 바이트댄스가 시드댄스와 시드림에 할리우드 저작권을 지키는 가드레일을 두기로 합의했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La MPA y ByteDance firman\nun memorando sobre Seedance",
+  "body": "La MPA y ByteDance acordaron incorporar salvaguardas que protegen el copyright de Hollywood en Seedance y Seedream.",
+  "lang": "es"
  },
  {
   "id": "movies-ghibli-next-film-ai",
@@ -21247,10 +21223,9 @@
   "date": "2026-08-19",
   "section": "movies",
   "has_full": true,
-  "headline": "디스크립트 더빙은 로토스코핑이 아니라\n화자의 얼굴 아랫부분을 새로 만든다",
-  "body": "원본 얼굴을 잠재 공간에 넣고 조명과 치아, 인물 정체성은 그대로 둔 채 입 모양만 새 언어에 맞춘다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El doblaje de Descript no\nusa rotoscopia: rehace la cara",
+  "body": "Codifica la cara en un espacio latente y solo cambia la boca para el nuevo idioma, sin tocar luz, dientes ni identidad.",
+  "lang": "es"
  },
  {
   "id": "games-wolf-haus-no-genai",
@@ -21263,10 +21238,9 @@
   "date": "2026-08-19",
   "section": "games",
   "has_full": true,
-  "headline": "생성형 AI 없이 13명이 만드는\n오픈월드 컬트 시뮬레이터",
-  "body": "13명뿐인 Wolf Haus는 생성형 AI를 빼고 자체 툴로 오픈월드를 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "13 personas, sin IA generativa,\nun simulador de culto abierto",
+  "body": "Con solo 13 personas, Wolf Haus evita la IA generativa y construye su mundo abierto con herramientas propias.",
+  "lang": "es"
  },
  {
   "id": "games-witcher3-fear-cut",
@@ -21279,10 +21253,9 @@
   "date": "2026-08-19",
   "section": "games",
   "has_full": true,
-  "headline": "The Witcher 3의 NPC 공포 반응은\n몇 주 만에 통째로 잘렸다",
-  "body": "겁먹은 NPC가 안고 있던 아기까지 떨어뜨려 공포 반응 시스템이 통째로 빠졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El miedo de los NPC en The\nWitcher 3 se cortó en semanas",
+  "body": "Los NPC asustados llegaban a dejar caer a los bebés que llevaban, así que el sistema de miedo se eliminó por completo.",
+  "lang": "es"
  },
  {
   "id": "games-nte-doubao-watermark",
@@ -21295,10 +21268,9 @@
   "date": "2026-08-19",
   "section": "games",
   "has_full": true,
-  "headline": "해마 그림에 붙은 Doubao 워터마크\nNTE가 세 번째로 걸렸다",
-  "body": "NTE 1.3 업데이트에 들어간 해마 그림에 Doubao 워터마크가 그대로 남았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Una marca de agua de Doubao\natrapa a NTE por tercera vez",
+  "body": "La marca de agua de Doubao permaneció en el arte del caballito de mar añadido en la actualización 1.3 de NTE.",
+  "lang": "es"
  },
  {
   "id": "games-immens-engine",
@@ -21311,10 +21283,9 @@
   "date": "2026-08-19",
   "section": "games",
   "has_full": true,
-  "headline": "Epic 출신 셋이 새 엔진 Immens를\nAI가 읽고 고칠 구조로 짓는다",
-  "body": "Unity와 Unreal에 맞서 Epic 출신 셋이 AI가 확장할 엔진을 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Tres ex Epic construyen\nImmens para que la IA la edite",
+  "body": "Frente a Unity y Unreal, tres ex empleados de Epic construyen un motor que la IA pueda ampliar.",
+  "lang": "es"
  },
  {
   "id": "gadgets-pixel-watch-face-prompt",
@@ -21327,10 +21298,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "시계 화면을 프롬프트로 만든다\nPixel Watch 5에서 직접 해봤다",
-  "body": "Pixel Watch 5는 프롬프트를 받아 정지 시계 화면 여섯 개를 만들어 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Convertí prompts en caras\nde reloj en el Pixel Watch 5",
+  "body": "El Pixel Watch 5 toma un prompt y genera seis caras de reloj estáticas para elegir.",
+  "lang": "es"
  },
  {
   "id": "gadgets-meta-face-recognition-patent",
@@ -21343,10 +21313,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Meta의 얼굴 인식 안경 구상이\n새 특허 출원서에서 다시 나왔다",
-  "body": "Meta 특허는 스마트 글라스가 얼굴로 사람을 알아보는 방식을 담았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La idea de Meta de unas gafas\nde reconocimiento facial vuelve",
+  "body": "La patente de Meta describe cómo unas gafas inteligentes reconocerían a las personas por su rostro.",
+  "lang": "es"
  },
  {
   "id": "gadgets-humanoid-firefighting-drill",
@@ -21359,9 +21328,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "소방 훈련에 나선 휴머노이드 23팀\n끝까지 해낸 건 세 팀뿐이었다",
-  "body": "야외 소방 종목에 나선 휴머노이드 23팀 중 세 팀만 전 단계를 끝냈다.",
-  "lang": "ko",
+  "headline": "23 humanoid teams took on a\nfirefighting drill; 3 finished",
+  "body": "Of the 23 humanoid teams that entered the outdoor firefighting event, only three completed every stage.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21375,10 +21344,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Pet Memory를 2주 써봤다\n고양이 셋이 모두 Smokey가 됐다",
-  "body": "Pet Memory는 2주 내내 고양이 셋을 Smokey 하나로 불렀다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Probé Pet Memory dos semanas\ny los tres gatos fueron Smokey",
+  "body": "Durante dos semanas completas, Pet Memory llamó Smokey a los tres gatos por igual.",
+  "lang": "es"
  },
  {
   "id": "gadgets-airpods-camera-demo-video",
@@ -21391,9 +21359,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "카메라 달린 AirPods가\nmacOS 베타 영상에 먼저 나타났다",
-  "body": "MacRumors가 macOS 베타에서 카메라 AirPods 시연 영상을 찾아냈다.",
-  "lang": "ko",
+  "headline": "AirPods with a camera surface\nfirst in a macOS beta video",
+  "body": "MacRumors found a demo video of camera-equipped AirPods hidden inside a macOS beta.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21439,10 +21407,9 @@
   "date": "2026-08-19",
   "section": "design",
   "has_full": true,
-  "headline": "다크 모드 토글의 시스템 옵션,\n두 상태면 이미 다 표현된다",
-  "body": "Lea Verou는 기본값을 시스템에 두고 토글 하나만 주면 충분하다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La opción de sistema del\nselector ya cabe en dos estados",
+  "body": "Lea Verou cree que basta con dejar el valor por defecto en el sistema y ofrecer un único interruptor.",
+  "lang": "es"
  },
  {
   "id": "design-cursor-origin-vercel",
@@ -21455,10 +21422,9 @@
   "date": "2026-08-19",
   "section": "design",
   "has_full": true,
-  "headline": "Cursor Origin 저장소가\nVercel 프리뷰로 바로 뜬다",
-  "body": "Origin에서 PR을 열면 프리뷰가, 머지하면 프로덕션 배포가 자동으로 붙는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Los repositorios de Cursor\nOrigin se conectan a Vercel",
+  "body": "Al abrir un PR en Origin se genera una vista previa, y al fusionarlo se despliega automáticamente en producción.",
+  "lang": "es"
  },
  {
   "id": "design-adobe-stock-ai-studio",
@@ -21471,10 +21437,9 @@
   "date": "2026-08-19",
   "section": "design",
   "has_full": true,
-  "headline": "이미지 한 장에서 브랜드에\n맞는 자산 한 세트를 뽑는다",
-  "body": "AI Studio에서 색과 타이포, 배경을 바꾸고 움직임까지 붙인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Una imagen da un juego\ncompleto de activos de marca",
+  "body": "En AI Studio se cambian el color, la tipografía y el fondo, y hasta se añade movimiento.",
+  "lang": "es"
  },
  {
   "id": "books-synthetic-consensus",
@@ -21487,9 +21452,9 @@
   "date": "2026-08-19",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 오류를 되풀이하는 사이\n과학의 자기 교정이 뒤처진다",
-  "body": "생성형 AI의 반복 재생산이 검증 없는 주장에 신뢰를 입히는 '합성 합의'를 만든다고 저자는 짚는다.",
-  "lang": "ko",
+  "headline": "While AI keeps repeating errors\nscience's self-correction lags",
+  "body": "The author argues generative AI's repeated reproduction creates a 'synthetic consensus' around unverified claims.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21503,10 +21468,9 @@
   "date": "2026-08-19",
   "section": "books",
   "has_full": true,
-  "headline": "He hands all his code to AI\nbut not one period in fiction",
-  "body": "Kevin Hincker writes that programmers hate surprises, but for novelists surprise is a structural requirement.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "Deja todo el código a la IA\npero no cede ni un punto",
+  "body": "Kevin Hincker escribe que los programadores odian las sorpresas, pero en la novela son un requisito estructural.",
+  "lang": "es"
  },
  {
   "id": "books-claude-watermark-word-choice",
@@ -21928,10 +21892,9 @@
   "date": "2026-08-15",
   "section": "gadgets",
   "has_full": true,
-  "headline": "에이전트 둘에게 같은 문서를 맡겼다\n내 원본을 끝까지 지킨 쪽은 하나였다",
-  "body": "같은 문서 작업을 맡기자 쓰기 전에 구조를 읽은 쪽은 Antigravity뿐이었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Encargué el mismo documento\na dos agentes: solo uno fue fiel",
+  "body": "Al asignar la misma tarea de documento, solo Antigravity leyó la estructura antes de escribir.",
+  "lang": "es"
  },
  {
   "id": "design-google-watermark-toggle",
@@ -21944,10 +21907,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "구글이 AI 결과물에서\n반짝임 워터마크를 뗀다",
-  "body": "보이는 반짝임 표식은 꺼도 SynthID와 C2PA 메타데이터는 그대로 남는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Google quita la marca de\ndestello de los resultados IA",
+  "body": "Aunque se desactive la marca visible de destello, SynthID y los metadatos C2PA siguen intactos.",
+  "lang": "es"
  },
  {
   "id": "design-figma-move-fast",
@@ -21960,10 +21922,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "AI는 실행 속도만 올릴 뿐\n무엇을 만들지는 알려주지 않는다",
-  "body": "컨텍스트를 먼저 깔지 않으면 빠른 AI 작업이 그대로 기술 부채가 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La IA solo acelera la\nejecución, no dice qué construir",
+  "body": "Sin establecer primero el contexto, el trabajo rápido con IA se convierte directamente en deuda técnica.",
+  "lang": "es"
  },
  {
   "id": "design-dsds-w3c",
@@ -21976,10 +21937,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "디자인 시스템 문서 표준이\nW3C 커뮤니티 그룹으로 들어갔다",
-  "body": "형식이 없던 디자인 시스템 문서의 표준 DSDS가 W3C 그룹으로 승인됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Un estándar de documentación\nde sistemas de diseño en W3C",
+  "body": "DSDS, el estándar para una documentación de sistemas de diseño que no tenía forma, fue aprobado como grupo del W3C.",
+  "lang": "es"
  },
  {
   "id": "design-ai-ui-placement",
@@ -21992,10 +21952,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "AI 기능을 어디에 두느냐가\n모델 성능보다 중요하다",
-  "body": "위젯과 툴바, 사이드바, 전용 허브 중 어디에 두느냐가 AI 기능의 쓰임을 가른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Dónde se coloca una función\nde IA importa más que el modelo",
+  "body": "Estar en un widget, una barra de herramientas, lateral o un centro dedicado decide el uso de una función de IA.",
+  "lang": "es"
  },
  {
   "id": "design-ai-sdk-harness-acp",
@@ -22008,10 +21967,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "AI SDK 하네스 어댑터가\n런타임 대신 프로토콜을 감싼다",
-  "body": "런타임마다 어댑터를 새로 만드는 대신 프로토콜 하나를 감싸 어떤 하네스든 붙인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El adaptador de harness de\nAI SDK envuelve el protocolo",
+  "body": "En vez de crear un adaptador nuevo para cada runtime, envuelve un solo protocolo para conectar cualquier harness.",
+  "lang": "es"
  },
  {
   "id": "books-training-data-petition",
@@ -22024,10 +21982,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습 데이터를 밝히라는 청원이\n서명 1만 명 문턱을 넘어섰다",
-  "body": "학습 데이터를 밝히라는 영국 청원이 서명 1만 명을 넘겨 정부 답변 요건을 채웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Una petición para revelar\ndatos de IA supera 10.000",
+  "body": "Una petición británica para revelar datos de entrenamiento superó 10.000 firmas, el umbral para respuesta oficial.",
+  "lang": "es"
  },
  {
   "id": "books-false-name-book-scraping",
@@ -22040,10 +21997,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "내 책이 모르는 이름을 달고\n구글 플레이 북스에 올라와 있다",
-  "body": "책을 긁어다 가짜 필명으로 되파는 일이 늘자 ALLi가 계정째 신고하라고 안내한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Mi libro aparece en Google\nPlay Books bajo un nombre ajeno",
+  "body": "A medida que aumentan los libros copiados y revendidos con seudónimos falsos, ALLi recomienda denunciar toda la cuenta.",
+  "lang": "es"
  },
  {
   "id": "books-commonwealth-prize-delay",
@@ -22056,10 +22012,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "커먼웰스 단편상이 AI 논란 끝에\n2027년 접수 개시를 미뤘다",
-  "body": "커먼웰스 재단이 AI 의혹 검토 끝에 2027년 단편상 접수를 1월로 미뤘다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El Premio Commonwealth de\nrelato retrasa inscripción 2027",
+  "body": "La Commonwealth Foundation, tras revisar las acusaciones de IA, aplazó a enero las inscripciones del premio de 2027.",
+  "lang": "es"
  },
  {
   "id": "books-author-ai-policy",
@@ -22072,10 +22027,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "AI를 어디까지 쓰는지\n작가가 먼저 적어 두는 편이 낫다",
-  "body": "소설가 제이미 퓨어리는 무엇을 쓰고 무엇을 안 쓰는지 작가가 먼저 밝히라고 권한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Hasta dónde usar la IA: mejor\nque el autor lo diga primero",
+  "body": "La novelista Jamie Fewery recomienda que los autores declaren antes qué escriben con IA y qué no.",
+  "lang": "es"
  },
  {
   "id": "books-agent-ethics-ai-gap",
@@ -22088,10 +22042,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "에이전트 윤리강령을 손봤는데\n정작 AI 조항은 빠졌다",
-  "body": "미국 문학 에이전트 협회가 윤리강령을 고치면서 AI 조항은 끝내 넣지 않았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Revisaron el código ético de\nagentes, pero sin cláusula IA",
+  "body": "La Asociación de Agentes Literarios de Estados Unidos revisó su código de ética, pero no incluyó una cláusula de IA.",
+  "lang": "es"
  },
  {
   "id": "science-vlash-robot-lookahead",
@@ -22104,10 +22057,9 @@
   "date": "2026-08-14",
   "section": "science",
   "has_full": true,
-  "headline": "다음 동작을 미리 계산하는 로봇이\n작업 속도를 두 배로 끌어올렸다",
-  "body": "VLASH는 로봇이 움직이는 동안 다음 동작을 짜서 반응 지연을 11.8배 줄였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Un robot que calcula antes\nsu próximo paso, dobla velocidad",
+  "body": "VLASH planifica el próximo movimiento mientras el robot se mueve, lo que reduce 11.8 veces la latencia.",
+  "lang": "es"
  },
  {
   "id": "science-vivodyne-human-datacenter",
@@ -22120,10 +22072,9 @@
   "date": "2026-08-14",
   "section": "science",
   "has_full": true,
-  "headline": "연 310만 건 인체 조직 시험으로\nAI 학습 데이터를 찍어낸다",
-  "body": "비보다인이 로봇 실험실 12곳에서 인체 조직 시험 310만 건을 해마다 돌린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "3,1 millones de pruebas\nde tejido al año: datos IA",
+  "body": "Vivodyne ejecuta 3,1 millones de ensayos de tejido humano al año en 12 laboratorios robóticos.",
+  "lang": "es"
  },
  {
   "id": "science-sign-language-sl2t",
@@ -22136,10 +22087,9 @@
   "date": "2026-08-14",
   "section": "science",
   "has_full": true,
-  "headline": "구글 딥마인드의 수어 번역 모델이\n픽셀 11 키보드 안으로 들어왔다",
-  "body": "10만 시간으로 학습한 SL2T가 픽셀 11 키보드에서 수어를 영어로 옮긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El traductor de señas de\nGoogle DeepMind llega a Pixel 11",
+  "body": "SL2T, entrenado con más de 100.000 horas de datos, traduce lengua de señas al inglés en el teclado del Pixel 11.",
+  "lang": "es"
  },
  {
   "id": "science-recall-bottleneck",
@@ -22152,10 +22102,9 @@
   "date": "2026-08-14",
   "section": "science",
   "has_full": true,
-  "headline": "구글 리서치가 짚은 환각의 원인은\n지식 부족이 아니라 인출 실패다",
-  "body": "프런티어 LLM은 사실의 95~98%를 저장하고도 26~34%를 꺼내지 못했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La alucinación: no es falta\nde saber, sino de recuperar",
+  "body": "Los LLM de frontera almacenan el 95-98% de los hechos, pero no logran recuperar el 26-34%.",
+  "lang": "es"
  },
  {
   "id": "science-antibody-cdr-model",

@@ -1634,6 +1634,263 @@
           "x": "So the task has shifted from detection to propagation: making corrections flow downstream as fast as claims do. It's unglamorous work, but without it, the system keeps feeding what it can't fix on its own. At the end of the piece, Hu discloses that he used Claude Opus 4.6 and ChatGPT-5.4 mini to polish the prose."
         }
       ]
+    },
+    "books/books-agent-ethics-ai-gap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Association of American Literary Agents has revised its Canon of Ethics. The group cites changes in the nature of writing itself, and the revision opens the door to working more closely with authors in self-publishing and hybrid publishing."
+        },
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_News.jpg",
+          "cap": "The ALLi Self-Publishing News podcast, August 7."
+        },
+        {
+          "t": "p",
+          "x": "Agents can now do more. The most notable addition lets them offer or sell marketing services or other non-editorial services, something the old code didn't address at all. With that addition came transparency rules for recommending or providing such services: referrals must be clearly disclosed, and using the submissions pile as a channel to sell marketing services is explicitly banned."
+        },
+        {
+          "t": "p",
+          "x": "One thing is conspicuously absent: how agents and editors should use AI when reviewing or editing a client's manuscript. Host Dan Holloway noted that, given the recent controversy that culminated in the “Shy Girl” incident, this is the industry's biggest unresolved question, yet the revision left it untouched."
+        },
+        {
+          "t": "p",
+          "x": "News from the same week made that gap stand out even more. Jerri Foley's 『Call Me, I'll Hide the Body』 reached a seven-figure deal after a fierce bidding war, but the publisher walked away just six hours after allegations of AI use surfaced. The publisher's explanation was that it could no longer trust the story it had been told about how the book was made."
+        },
+        {
+          "t": "p",
+          "x": "Holloway also relayed writers' pushback. Critics point out that AI-detection software is imperfect at best, and since AI was trained on human writing, many of the traits flagged as “AI tells” are simply traits of well-written prose to begin with. Some said it was starting to look like a witch hunt. What's at stake is writers' livelihoods."
+        }
+      ]
+    },
+    "books/books-author-ai-policy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Novelist Jamie Fewery's piece in 「The Bookseller」 makes a short point: authors should write down their AI-use principles and publish them."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/673/asd17.jpg",
+          "cap": "The 「Bookseller」 column arguing that authors should disclose their AI-use principles."
+        },
+        {
+          "t": "p",
+          "x": "The idea is to spell out in advance where you use AI and where you never will. It's less a manifesto than a practical document that sets out your working methods and how much you disclose."
+        },
+        {
+          "t": "p",
+          "x": "The reasoning is self-defense, not idealism. The market right now leans toward suspicion first. Wait for someone else to explain on your behalf, and the chance to explain yourself disappears."
+        },
+        {
+          "t": "p",
+          "x": "In the end, the piece turns weeks of AI-plagiarism-suspicion headlines into one thing an author can finish tomorrow: writing down your own principles before someone else writes them for you."
+        },
+        {
+          "t": "p",
+          "x": "The author, Jamie Fewery, is a writer, journalist, and creative director. He published the novels Our Life in a Day and The Way Back with Orion, and The Brink with Legend, and his writing has appeared in the Daily Telegraph, Five Dials, The Fence, Wired, and more."
+        }
+      ]
+    },
+    "books/books-commonwealth-prize-delay": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Commonwealth Foundation is pushing the opening of entries for the 2027 Commonwealth Short Story Prize to January next year. The decision follows a month-long review that began with allegations that this year's winning entry was written with AI."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/578/Book-shop-pile-of-books-1.jpg",
+          "cap": "The Commonwealth Short Story Prize delayed entries after an AI controversy."
+        },
+        {
+          "t": "p",
+          "x": "After finishing its review, the foundation decided to let the 2026 judging panel's original decision stand. It said the episode did show, however, that safeguards against AI misuse need to be reworked for future competitions."
+        },
+        {
+          "t": "p",
+          "x": "The entry window would normally have opened this fall. In the meantime, the foundation said it would conduct \"a thorough review of competition procedures, entry rules, and submission guidelines.\" The goal is to prepare staff, entrants, leaders, and judges to identify and respond to AI-written entries."
+        },
+        {
+          "t": "p",
+          "x": "The foundation added that its direction, supporting new writers and amplifying voices from across the Commonwealth, remains unchanged. It also said that \"fair and robust procedures are essential to sustaining trust in the prize.\" It asked for the understanding of writers who had been preparing to enter this fall, and said it would accept manuscripts when entries reopen in January 2027."
+        },
+        {
+          "t": "p",
+          "x": "The article was written by Maia Snow for 「The Bookseller」 on August 12. Since the full text is available only to registered readers, the section on the foundation's statement was filled in using 「The Lagos Review」's coverage from the same day."
+        }
+      ]
+    },
+    "books/books-false-name-book-scraping": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The third installment of ALLi's “Spammers and Scammers” series turns away from email scams to tackle a different problem: scraping someone else's book wholesale and reselling it under a fake author name, something that happens mainly on Google Play Books."
+        },
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/06/spammers-and-scammers.jpg",
+          "cap": "ALLi's scam-watch series on books being sold under fake names."
+        },
+        {
+          "t": "p",
+          "x": "Reports to ALLi's Watchdog Desk are rising from authors whose books were duplicated and reposted under someone else's name. It is plagiarism on a large scale, and even when ALLi and the affected authors notify Google, a response takes weeks to months. Because these operators post hundreds to thousands of books at once under a single fake pen name, the damage multiplies quickly."
+        },
+        {
+          "t": "p",
+          "x": "The gap lies in Google Play Books' partner program. Anyone can register as a publisher, and there is still no process to verify whether the registrant actually holds the rights. Even authors who filed takedown requests through the formal process weren't given a processing timeline, and some got no reply at all. ALLi found that the Google Books team only reaches out when there's a problem with a request, meaning silence doesn't necessarily mean inaction."
+        },
+        {
+          "t": "p",
+          "x": "There is still no complete prevention. Here is what ALLi recommends: set up Google Alerts for your name and book titles, but check manually and regularly too, since alerts aren't perfect. Even if you have no plan to sell there, listing your book in the Google Play Books Partner Center helps when you need to prove authorship. Linking your author profiles across Google Books, your website, and your social accounts is another option. Watermarks won't stop theft, but they can help trace how a copy leaked. ALLi doesn't recommend DRM for this problem, since it mainly inconveniences readers who actually paid for the book."
+        },
+        {
+          "t": "p",
+          "x": "If it has already happened to you, there is a process. On the copyright removal form at support.google.com/legal, select Google Play or Google Books and file a formal DMCA notice. List each infringing listing's URL individually, and submit your own genuine edition, ISBN, and publication date as evidence. If even one of these is missing, the request gets delayed or ignored. The notice must be sent by you or a properly authorized representative; notices from third parties are generally ignored."
+        },
+        {
+          "t": "p",
+          "x": "Report the account, not the book. Reporting a single title only gets that single title handled. Reporting the account for impersonation and systematic infringement gives Google grounds to take down the entire listing at once. If there is no response after six weeks, check for missing items and resend, keeping a record of the dates sent and referencing the prior notice in every follow-up."
+        },
+        {
+          "t": "p",
+          "x": "ALLi asked anyone who has gone through something similar, whether the takedown succeeded or failed, to report it to the Watchdog Desk. The more patterns accumulate, the stronger the case becomes for everyone affected."
+        }
+      ]
+    },
+    "books/books-training-data-petition": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A petition calling for a legal requirement that AI companies disclose their training data has topped 10,000 signatures. On the UK Parliament petitions site, 10,000 is the threshold at which the government must respond. Past 100,000, a petition is considered for parliamentary debate."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+          "cap": "Anna Ganley, chief executive of the Society of Authors."
+        },
+        {
+          "t": "p",
+          "x": "The petition is titled “Protect creators' rights: demand AI companies disclose training data.” Its demand is fairly specific: it asks for enough detail about the works used to train generative AI that creators can check whether their own work was used, assert their rights, negotiate licenses, and receive fair payment."
+        },
+        {
+          "t": "p",
+          "x": "The petition states that what creators need are rules that guarantee consent, formal licensing, and fair compensation. It does not stand against technological progress; it stands for moving forward within a balanced regulatory framework."
+        },
+        {
+          "t": "p",
+          "x": "Months of calls from the UK publishing industry for transparency-first regulation have gained a number attached to them for the first time. The deadline is October 29, 2026. How many more signatures come in before then will decide whether this demand ends with a single written response or makes it to the parliamentary debate table."
+        },
+        {
+          "t": "p",
+          "x": "The article was written by Maia Snow for 「The Bookseller」 on August 13, and ran alongside a photo of Anna Ganley, chief executive of the Society of Authors."
+        }
+      ]
+    },
+    "books/books-automated-author-stack": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "9c16h-k_wxc"
+        },
+        {
+          "t": "p",
+          "x": "This is not a regular episode. Elizabeth Ann West and Stacey Anderson spent an hour mapping out The Ultimate Automated Author Experience, which Future Fiction Academy will release this fall."
+        },
+        {
+          "t": "p",
+          "x": "The core idea is a way of working that isn't tied to any one model. Models change, tools disappear, and prices shift. Debate over watermarking and detection keeps moving too. The proposal is to build an author process that holds up no matter what OpenAI, Anthropic, Google or Amazon does next."
+        },
+        {
+          "t": "p",
+          "x": "There are three standalone courses: Build Your Own AI Writing Studio, for building your own AI writing studio; Your Author Voice Print, which measures your style to capture your voice like a fingerprint; and Professional Manuscript Analysis with AI, for deep manuscript review."
+        },
+        {
+          "t": "p",
+          "x": "There are five fall intensives: designing a repeatable AI workflow, building a living writing environment, an editing system where humans and AI work together, automating the marketing function, and final packaging through to publication."
+        },
+        {
+          "t": "p",
+          "x": "West and Anderson are clear on one point: this isn't a curriculum that hands you a single prompt. It teaches you how to build your own studio, understand your style, analyze manuscripts, make workflows repeatable, and run editing, marketing and publishing with safeguards in place."
+        },
+        {
+          "t": "p",
+          "x": "Later in the video, the two say their goal is for students to no longer need them. Enrollment is limited."
+        },
+        {
+          "t": "p",
+          "x": "Mega members should not buy it separately — it's already included in the membership. Everyone else can pre-order individual courses, intensives, or the full bundle."
+        },
+        {
+          "t": "p",
+          "x": "Their definition of the stack is clear: my computer, my files, my knowledge base, my scripts, my AI, my publishing system."
+        }
+      ]
+    },
+    "books/books-mcgraw-hill-ai-results": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Educational and professional publishers are embracing AI far more deeply than trade publishers. McGraw Hill CEO Philip Moyer put numbers to that gap when he released first-quarter results for the period ended June 30."
+        },
+        {
+          "t": "p",
+          "x": "Revenue rose 2.6% to $549.9 million. EBITDA climbed to $207 million from $191.4 million in the same period last year."
+        },
+        {
+          "t": "p",
+          "x": "Moyer said AI has played a part in revenue growth, margin improvement, price realization and expanding market share."
+        },
+        {
+          "t": "p",
+          "x": "He added that applying the technology strengthens existing solutions and builds precision-education capabilities that deliver content matched to the right moment across more than 100 million active curriculum licenses."
+        },
+        {
+          "t": "p",
+          "x": "Eight AI learning tools are now live, with active users topping 7.5 million. Three more are coming this fiscal year. The company is also piloting AI projects outside education."
+        },
+        {
+          "t": "p",
+          "x": "The standout is AI Reader, a tool that lets students highlight passages and quiz themselves inside e-books. Since its launch in fall 2024, it has logged 63 million learning interactions from about 2.6 million students through July 2026."
+        },
+        {
+          "t": "p",
+          "x": "The business mix has also shifted. McGraw Hill said 64% of first-quarter revenue came from digital. Last year, print — hardcover and paperback combined — accounted for 73.1% of trade publishing revenue."
+        }
+      ]
+    },
+    "books/books-story-hacker-os": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "bNGvBXntDSI"
+        },
+        {
+          "t": "p",
+          "x": "The Nerdy Novelist opened up Story Hacker OS for the first time in a 12-minute video. The title is itself a question: can AI really make a better novelist?"
+        },
+        {
+          "t": "p",
+          "x": "Story Hacker OS is a writing environment built on genre templates, story tropes and a book builder that assembles a full book. It places AI not where sentences get written for you, but where a story gets structured more solidly, leaving creative control in the writer's hands."
+        },
+        {
+          "t": "p",
+          "x": "The video shows an actual project in progress. It opens a crime-thriller research bundle and several AI-generated story pitches to show exactly how far the tool gets involved."
+        },
+        {
+          "t": "p",
+          "x": "He lays out five uses: targeting precisely what readers of your genre want, mining a pile of AI-generated pitches for usable seeds, learning craft itself, confidently entering a genre you haven't written in, and catching structural mistakes before a story falls apart."
+        },
+        {
+          "t": "p",
+          "x": "Models connect directly through OpenRouter. The writer also sets the dial on how much AI to use. The video is brief but firm on this point: the story is still yours."
+        },
+        {
+          "t": "p",
+          "x": "The Story Hacker community is offering a 7-day free trial. Amid a crowd of tools that generate whole prose, this one bets on propping up structure and tropes from below while leaving the final judgment to a human."
+        }
+      ]
     }
   }
 }

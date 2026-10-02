@@ -1733,6 +1733,264 @@
           "x": "Aún así, no está lista para pronósticos en tiempo real. Como se entrenó con eventos de aparición conocidos, todavía produce falsas alarmas y en ocasiones predice tarde. Una alerta de que una región activa está emergiendo tampoco predice una erupción solar o una eyección de masa coronal. Tirona dijo: 'Sería realmente genial si estos modelos algún día ayudaran a predecir el clima espacial. Aún no llegamos ahí, pero es un paso emocionante.'"
         }
       ]
+    },
+    "science/science-recall-bottleneck": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando un LLM se equivoca en un hecho, ¿es porque nunca lo aprendió, o porque lo aprendió pero no puede recuperarlo? El marco de perfilado de conocimiento que los científicos investigadores de Google Research Nitay Calderon y Gal Yona presentaron el 12 de agosto apunta a lo segundo. Una sola métrica de precisión mezcla ambos casos, pero el remedio es completamente distinto. Si el fallo es de almacenamiento, hay que ampliar el modelo y los datos; si el fallo es de recuperación, la respuesta está en el posentrenamiento y en técnicas aplicadas en el momento de la inferencia."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling1_Overview.width-1250.png",
+          "cap": "Los cinco perfiles de conocimiento que distinguen el estado de un hecho."
+        },
+        {
+          "t": "p",
+          "x": "El equipo distinguió entre codificación, que es guardar un hecho en los parámetros; recuerdo (recall), que es extraerlo sin pistas externas; y reconocimiento, que es elegir la respuesta correcta entre opciones. También trasladaron la unidad de análisis de las preguntas a los hechos mismos. Cada hecho se clasifica como fallo de codificación, fallo de recuerdo, recuperación directa, recuperación mediante razonamiento, o inferencia sin codificación."
+        },
+        {
+          "t": "p",
+          "x": "Para medirlo, construyeron el benchmark WikiProfile con 2.150 hechos extraídos de Wikipedia. Cada hecho lleva diez tareas: dos de codificación, cuatro de evaluación de conocimiento y cuatro de opción múltiple. La construcción corrió a cargo de Gemini-2.5-Pro con el razonamiento activado, seguida de un filtrado basado en motores de búsqueda y una verificación manual final. Evaluaron 13 LLM con el razonamiento activado y desactivado, recopilando alrededor de 4,5 millones de respuestas."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling4_Results1.width-1250.png",
+          "cap": "Distribución de los cinco perfiles en 13 LLM. Los fallos de codificación caen en picado con la escala, pero los fallos de recuerdo persisten."
+        },
+        {
+          "t": "p",
+          "x": "En Gemini-2.5-Pro, Gemini-3-Pro/Flash y GPT-5, la codificación está casi saturada. Gemini-3-Pro y GPT-5 codificaron el 95-98% de los hechos, pero no lograron recuperar directamente el 26-34%, y aun con el razonamiento activado, el 11-12% seguía siendo incorrecto. El cuello de botella pasó de acumular conocimiento a usar el conocimiento ya acumulado. En la familia Gemma 3 también ocurre que, al ampliar el modelo, los fallos de codificación caen mucho, pero los fallos de recuerdo pasan a ser una parte aún mayor de los errores que quedan."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling5_Results2.width-1250.png",
+          "cap": "Comparación de las tasas de codificación y recuperación directa entre el 20% de hechos menos populares y el 20% más populares. La brecha es estrecha en codificación y amplia en recuperación."
+        },
+        {
+          "t": "p",
+          "x": "La recuperación está ligada a las condiciones en que se aprendió ese hecho. Cuanto más se aleja la pregunta del contexto, la redacción o el orden del momento del aprendizaje, más difícil es extraerlo. Los hechos raros se almacenan en proporciones similares a los populares, pero la brecha se abre mucho solo en la recuperación. El problema de la cola larga resultó ser de acceso, no de capacidad. Las preguntas inversas siguen el mismo patrón: formuladas como opción múltiple, la dirección inversa resulta más fácil, pero formuladas como generación directa, se vuelve más difícil. La maldición de la inversión es un problema de recuperación."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling8_Results5.width-1250.png",
+          "cap": "Proporción de hechos recién conocidos al activar el razonamiento. El 40-65% de los hechos codificados se recupera, frente a solo el 5-15% de los no codificados."
+        },
+        {
+          "t": "p",
+          "x": "El razonamiento ayuda más justo donde la recuperación directa es más débil. En los modelos optimizados para razonar, se recuperó el 40-65% de los hechos que estaban codificados pero no se conocían de inmediato, frente a solo el 5-15% en los hechos nunca codificados. Esto sugiere que el razonamiento abre un camino hacia hechos ya almacenados, en lugar de construir respuestas mediante razonamiento en varios pasos. Pero el razonamiento tiene un costo computacional, y aún no hay respuesta sobre cuándo activarlo."
+        }
+      ]
+    },
+    "science/science-sign-language-sl2t": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google DeepMind presentó el 12 de agosto SL2T, un modelo de traducción que convierte la lengua de señas en texto. Es el primer caso en que una IA de lenguas de señas sale del laboratorio para llegar a un producto de consumo. La función que traduce la lengua de señas americana (ASL) al inglés se activa primero en Gboard y Live Transcribe del Pixel 11, y los dispositivos e idiomas compatibles se ampliarán gradualmente."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/RDh3NiE22dtisgmsRxzthq0CCSjdL9k_fo7bOVbv7kKrIyacgNFTHfe9p3zGznT96bzPH8PX1UNkKu2Fasx-VbuLo0Dn47mDntjsbVYyJqMLCVTNQTk=w1440-h810-n-nu",
+          "cap": "El dictado en lengua de señas de Gboard, usado para escribir con señas mientras se sostiene el teléfono con una mano."
+        },
+        {
+          "t": "p",
+          "x": "Así como una persona oyente usa el dictado por voz, un usuario sordo puede ahora escribir con señas justo donde antes escribía con el teclado. Esto sirve para buscar en la web, redactar mensajes y documentos, e incluso pedirle tareas a Gemini. En Live Transcribe basta con responder en señas en lugar de intercambiar texto. Los evaluadores dijeron que signar en ASL resultaba más rápido, más natural y más agradable que escribir en inglés."
+        },
+        {
+          "t": "p",
+          "x": "La lengua de señas no es inglés puesto sobre las manos. Las más de 200 lenguas de señas del mundo son lenguas naturales independientes, cada una con su propia gramática y vocabulario, por lo que necesitan una traducción automática genuina y no una simple sustitución palabra por palabra. El significado se construye con las manos, los brazos, el torso, la cabeza y el rostro moviéndose a la vez, lo que impone además una gran carga de visión por computador para seguir todo eso con una alta tasa de fotogramas. Por eso los primeros intentos, como los guantes de lenguaje de señas, chocaron con un muro."
+        },
+        {
+          "t": "p",
+          "x": "SL2T se entrenó con más de 100.000 horas de datos recogidos de más de 50 lenguas de señas, de las cuales aproximadamente una cuarta parte es ASL. Entrenar juntos varios idiomas, dialectos y niveles de destreza permitió al modelo aprender una estructura común y superar a los modelos de un solo idioma. La privacidad se protege por diseño: solo las coordenadas de postura extraídas en el dispositivo por MediaPipe Holistic se envían al servidor, y el video original se descarta de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "SL2T también se salta la notación intermedia de glosas que usaba la investigación anterior, porque las glosas no capturan matices de la lengua de señas como las señales no manuales o la organización espacial. Al convertir la secuencia de coordenadas directamente en texto, desaparecen los límites de vocabulario y la calidad de la traducción avanza con la cantidad de datos. En FLEURS-ASL (sd-test), que mide la traducción ASL-inglés, SL2T logró 70 BLEURT en modo zero-shot. El equipo también abordó retos del uso real, como reducir la latencia en streaming, bloquear alucinaciones ante entradas que no son señas, y dar soporte al 10% de signantes zurdos y a la señalización con una sola mano."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto se guió por el principio de construir junto con la comunidad sorda, no solo para ella. Partió de una idea de Sam Sepah, un empleado sordo de Google, y la perspectiva de la comunidad se incorporó en cada etapa, desde la recopilación de datos hasta la investigación con usuarios y la evaluación de impacto. Para un despliegue responsable, se formó además el Consejo Asesor de IA para Lenguas de Señas (AISLAC), que reúne a organizaciones y expertos sordos de todo el mundo, y junto con el lanzamiento de SL2T 1.0 se publicó un informe conjunto de impacto que detalla sus funciones y límites."
+        },
+        {
+          "t": "p",
+          "x": "El equipo planea sumar más lenguas de señas y ampliar hacia la generación de señas y funciones de IA de frontera. SL2T está disponible sin costo adicional en Gboard y Live Transcribe del Pixel 11."
+        }
+      ]
+    },
+    "science/science-vivodyne-human-datacenter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vivodyne anunció que ha abierto lo que llama el “mayor centro de datos de biología humana del mundo”. En 12 laboratorios robóticos llamados HIVE, ejecuta cada año ensayos controlados sobre 3,1 millones de tejidos humanos de gran tamaño. La empresa calcula que esta escala equivale aproximadamente al doble de todos los ensayos clínicos que se realizan en Estados Unidos combinados."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/08/A-row-of-automated-human-tissue-testing-machines-in-Vivodynes-Human-Datacenter-1024x683.jpg",
+          "cap": "Filas de equipos automatizados para ensayos de tejido humano en el Human Datacenter de Vivodyne. [Vivodyne]"
+        },
+        {
+          "t": "p",
+          "x": "Presentado junto con el anuncio, el Series 2 TissueDisk es un chip biológico del tamaño de una oblea. Cultiva simultáneamente cientos de tejidos humanos funcionales de gran tamaño y se fabrica de principio a fin en la propia línea de producción robótica de Vivodyne. Ocho de las mayores farmacéuticas del mundo ya han pagado por un acceso temprano a la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "El cofundador y director ejecutivo Andrei Georgescu dice que, juntos, TissueDisk y los laboratorios HIVE crean un entorno experimental que ni la investigación farmacéutica ni la IA habían tenido antes. La escala, dice, es lo bastante grande para aplicar a la fisiología humana misma las técnicas de aprendizaje por refuerzo que hicieron crecer a los modelos de lenguaje. Para las farmacéuticas, significa ver cómo responde el tejido humano real mientras aún se pueden cambiar el objetivo, la estructura química, la dosis y la seguridad. Se aplican millones de intervenciones terapéuticas a tejido humano vivo, y los resultados causales se miden directamente mediante escaneo 3D, secuenciación transcriptómica y proteómica profunda."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/08/6a5156e97215b1f019eebbae_65c1501946fecb29765d655f_Dan-Huh-and-Andrei-Georgescu_sm-696x464.jpeg",
+          "cap": "Vivodyne nació de una idea de Andrei Georgescu (izquierda, hoy CEO) mientras hacía su doctorado en el laboratorio de bioingeniería del profesor de la UPenn Dan Huh (derecha, hoy CSO). [Penn Engineering]"
+        },
+        {
+          "t": "p",
+          "x": "“La superinteligencia en biología se necesita hoy más que nunca, porque se están acabando las enfermedades que los fármacos simples de un solo objetivo pueden curar”, dijo Georgescu. “No se puede arreglar un coche girando un solo tornillo. La idea de que las averías complejas detrás del cáncer, la fibrosis, las enfermedades autoinmunes y las enfermedades neurológicas pueden resolverse con un fármaco convencional de un solo objetivo es una negación llena de ilusión.” Como no se puede poner en riesgo a las personas para obtener los datos, el enfoque consiste en cultivar millones de tejidos humanos de gran tamaño que generan sus propios vasos sanguíneos y células inmunitarias. Ese tejido crece, enferma, sangra y deja cicatrices."
+        },
+        {
+          "t": "p",
+          "x": "Vivodyne cultiva más de 20 tipos de tejido de órganos humanos, entre ellos hígado, pulmón, intestino, médula ósea, páncreas, riñón, ojo y ganglio linfático, tanto en estado sano como en estados de enfermedad derivados de pacientes. También tiene versiones específicas para enfermedades como la fibrosis, tumores sólidos según el sitio, inflamación, enfermedad metabólica y enfermedad vascular. Los experimentos acumulados por cada órgano entrenan modelos multimodales causales, y la idea es que, al conectar esos modelos entre sistemas de órganos, se obtenga un modelo del mundo del cuerpo humano."
+        },
+        {
+          "t": "p",
+          "x": "Ese modelo responde qué ocurre cuando un fármaco actúa sobre un par determinado de receptores, qué sucede al cortar una vía biológica y por qué surge un efecto secundario inesperado. Sus predicciones se refinan después validándolas a gran escala de nuevo en tejido humano."
+        }
+      ]
+    },
+    "science/science-vlash-robot-lookahead": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ha aparecido un sistema de IA que reduce la latencia de respuesta de los robots más de 10 veces sin necesidad de cómputo adicional. Los robots que se mueven con modelos de visión-lenguaje-acción (VLA) suelen avanzar a tirones: extienden, se detienen, ajustan y vuelven a detenerse. Esto se debe a su forma de ejecución, que termina un lote de instrucciones y luego espera a que se calcule el siguiente. Esta latencia de respuesta ha hecho que los robots VLA sean difíciles de usar en tareas que exigen una interacción continua en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "VLASH elimina esa espera planificando el siguiente movimiento mientras todavía se ejecuta el actual. En los experimentos, los robots que usaron VLASH terminaron algunas tareas de 1,5 a 2 veces más rápido manteniendo la mayor parte o la totalidad de su precisión. La latencia de respuesta máxima se redujo hasta 11.8 veces, según el hardware utilizado."
+        },
+        {
+          "t": "video",
+          "yt": "IgN7CNicJS8"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del MIT, NVIDIA, Caltech, UC Berkeley, UC San Diego y la Universidad Tsinghua de China publicaron el artículo en arXiv y lo presentarán este otoño en la conferencia Intelligent Robots and Systems. Una versión anterior del artículo indicaba una mejora de velocidad de más de 30 veces, pero los investigadores dijeron a Live Science que esos experimentos usaron secuencias de movimiento más largas y hardware más lento. Según explicaron, “la cifra de 11.8 veces puede reflejar mejor las condiciones reales recientes”."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo VLA combina imágenes de cámara, instrucciones humanas y el estado actual del robot, y los convierte en movimiento real. Mientras el robot termina un lote de movimiento, VLASH estima el punto final a partir de su posición actual y el movimiento previsto, y planifica el siguiente lote desde ese estado previsto. En lugar de esperar a que el pie toque el suelo para decidir el siguiente paso, lo decide de antemano, antes de que toque. A diferencia de un modelo del mundo que representa todo el entorno circundante, VLASH predice únicamente al propio robot. Como extrae los estados futuros de un movimiento ya planificado, no necesita un modelo de predicción aparte ni un paso de inferencia adicional en el momento de la ejecución."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores probaron dos modelos VLA y dos plataformas robóticas en un portátil equipado con una GPU NVIDIA RTX 5090. Ejecutaron 20 veces cada método en tareas de recoger y colocar, apilar y clasificar, y añadieron tareas de reacción rápida como ping-pong y el juego de golpear al topo. En esas dos tareas, el objetivo se mueve mientras el robot todavía está calculando. En lugar de predecir ese movimiento, VLASH procesa de 15 a 30 observaciones nuevas por segundo, lo que le permite captar rápidamente cambios como el desplazamiento de un objeto."
+        },
+        {
+          "t": "p",
+          "x": "La velocidad no equivale a seguridad. Roshni Lulla, cofundadora y directora de investigación del Human-Centered Robotics Lab, que no participó en el estudio, dijo: “Responder más rápido es claramente una ventaja, pero no estoy segura de que haya pruebas de que la seguridad haya mejorado”. Según ella, hay que probarlo en una sala con personas presentes, en situaciones donde otro agente cambia el entorno. Lulla resumió los resultados de forma acotada: se eliminó un cuello de botella en el tiempo de procesamiento mientras se mantenía el rendimiento existente."
+        }
+      ]
+    },
+    "science/science-machine-culture": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La IA produce soluciones que una persona rara vez imaginaría. ¿Qué pasaría si, más allá de resolver problemas individuales, las máquinas descubrieran estrategias completamente nuevas? ¿Podrían esos descubrimientos pasar a formar parte del conocimiento humano?"
+        },
+        {
+          "t": "p",
+          "x": "El Centro para Humanos y Máquinas del Instituto Max Planck para el Desarrollo Humano, junto con investigadores de la Escuela de Economía de Toulouse y la Universidad Humboldt de Berlín, puso esta pregunta a prueba por primera vez. Según los resultados publicados en Nature Communications, bajo ciertas condiciones las personas aceptaron estrategias descubiertas por máquinas y las transmitieron y preservaron durante varias generaciones."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-contribute.jpg",
+          "cap": "La estrategia de la IA se convierte en cultura humana. Crédito: MPI for Human Development"
+        },
+        {
+          "t": "p",
+          "x": "El estudio partió de la observación de que la IA produce cada vez más estrategias que sorprenden a los expertos, como ocurrió al encontrar jugadas inusuales pero poderosas en el go y el ajedrez. Sin embargo, no estaba claro bajo qué condiciones esos descubrimientos permanecerían en el pensamiento y el comportamiento humanos."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores identificaron tres condiciones: la estrategia debe ser difícil de descubrir al principio, pero aun así debe poder aprenderse, y su ventaja debe ser claramente visible. Solo así se difunde por la comunidad y se mantiene con el tiempo."
+        },
+        {
+          "t": "p",
+          "x": "El primer autor, Levin Brinkmann, investigador del Centro para Humanos y Máquinas, afirmó: “La evolución cultural humana depende de que el conocimiento se transmita a través de muchos individuos y generaciones. Ahora que las máquinas descubren nuevas estrategias, la pregunta es si esas estrategias también pueden formar parte del conocimiento que las personas heredan”, y añadió: “eso es exactamente lo que examinamos”."
+        },
+        {
+          "t": "p",
+          "x": "En el experimento participaron 1.155 personas. El objetivo era acumular la mayor cantidad de puntos posible en una tarea con una estructura de recompensas especialmente diseñada. La estrategia óptima exigía aceptar una pequeña pérdida al principio para obtener una ganancia mucho mayor después, lo que chocaba directamente con la tendencencia humana a evitar las pérdidas a corto plazo a toda costa."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes se organizaron en cadenas que aprendían unas de otras a lo largo de varias generaciones. Algunos grupos estaban formados solo por personas, mientras que otros incluían agentes de IA desde el principio. Estos agentes ya habían resuelto la tarea con un algoritmo de aprendizaje y encontrado la estrategia óptima. Los participantes podían ver y consultar las soluciones exitosas de la generación anterior."
+        },
+        {
+          "t": "p",
+          "x": "El resultado fue claro. En los grupos sin IA, la estrategia óptima casi nunca surgió: de 600 personas, solo una la encontró por sí misma. En cambio, en los grupos con IA, la estrategia descubierta por la máquina se difundió con frecuencia y sobrevivió a través de las generaciones. En nueve de los 15 grupos mixtos de humanos y máquinas, la estrategia se usó durante todo el experimento."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes mostraron una clara tendencia a seguir los ejemplos más exitosos. La mayoría tomó como modelo a la persona o al agente con mejor desempeño, y así la estrategia de la máquina se difundió y se mantuvo."
+        },
+        {
+          "t": "p",
+          "x": "El coautor principal Thomas Eisenmann, también investigador del centro, dijo: “Se debate mucho sobre si la IA hace a las personas más dependientes. Nuestros resultados apuntan a otra posibilidad: si las personas pueden entender el descubrimiento de una máquina, aprenden nuevas capacidades, las retienen durante mucho tiempo y amplían su repertorio cultural”."
+        },
+        {
+          "t": "p",
+          "x": "Este estudio aporta evidencia empírica al concepto de “cultura de las máquinas” (machine culture). Gran parte de la capacidad actual de la IA proviene de que las máquinas aprendieron el conocimiento y la cultura humanos, como ocurre con los grandes modelos de lenguaje entrenados con enormes cantidades de texto humano. Este resultado muestra que ese flujo no es de una sola dirección: las personas también elevan sus capacidades apoyándose en los descubrimientos de las máquinas. Es la era de la cultura de las máquinas, en la que humanos y máquinas quedan unidos en un mismo proceso de evolución cultural y se convierten mutuamente en fuentes de innovación."
+        }
+      ]
+    },
+    "science/science-photonic-inverse-design": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SMkTm2nQsCXdJGJyMJkCLG.jpg",
+          "cap": "Un microchip fotónico tiene aproximadamente el tamaño de una moneda. Se ven nanoestructuras diseñadas por computadora, junto con un separador de longitudes de onda, un clasificador de modos y un espejo."
+        },
+        {
+          "t": "p",
+          "x": "Tres componentes usados en microchips fotónicos se han reducido hasta 500 veces. El protagonista de esa reducción no fue una persona, sino un algoritmo de IA que resuelve el diseño de forma inversa, y el equipo describió el resultado como algo que “va más allá de la intuición humana”. El espacio liberado permite añadir más funciones al chip."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de los chips comunes, que usan electrones, los chips fotónicos transportan información mediante partículas de luz. Como las señales viajan a la velocidad de la luz, el procesamiento y la transmisión son rápidos, y cada longitud de onda puede llevar datos distintos, lo que da un ancho de banda amplio. También se pierde menos energía en forma de calor. Por eso se usan donde se necesita transmisión rápida y de gran volumen, como en comunicaciones por fibra óptica, centros de datos, IA, lidar para conducción autónoma y computación cuántica."
+        },
+        {
+          "t": "p",
+          "x": "Dentro del chip, en lugar de cableado metálico, guías de onda de apenas unos pocos micrómetros de ancho transportan la luz. El separador de longitudes de onda, el clasificador de modos espaciales y el espejo separan longitudes de onda y patrones de luz, y orientan su dirección, en un área que es solo una fracción del grosor de un cabello humano. El equipo fabricó estos tres componentes en tamaño ultrapequeño, y los resultados se publicaron el 28 de mayo en Nature Communications."
+        },
+        {
+          "t": "p",
+          "x": "El método funciona así: primero se le indica al algoritmo cómo debe comportarse la luz, junto con restricciones de fabricación, como cuán brusca puede ser la curvatura de una nanoestructura. El algoritmo trabaja entonces hacia atrás, probando y ajustando diseños hasta encontrar una nanoestructura delicada que produce el resultado deseado."
+        },
+        {
+          "t": "p",
+          "x": "Toby Bi, primer autor del artículo e investigador del Instituto Max Planck de Ciencia de la Luz, dijo: “En el diseño inverso, nosotros definimos qué queremos que haga la luz, y la optimización encuentra la estructura que lo logra. Muchas veces es una estructura que un humano nunca habría dibujado”. También destaca que el mismo esquema cumple tres funciones en un solo chip: separa la luz por longitud de onda, la clasifica por modo espacial y actúa como el pequeño espejo que forma un resonador óptico sobre el chip."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DoA8fio9BGt4TnCPpvrvUZ.gif",
+          "cap": "Forma del componente refinada por el algoritmo de IA mediante optimización iterativa."
+        },
+        {
+          "t": "p",
+          "x": "Los componentes de chips fotónicos suelen diseñarse a mano, partiendo de un esquema probado y ajustándolo minuciosamente para cumplir nuevos requisitos de rendimiento. Ese método es lento, y el abanico de formas que se pueden probar es limitado."
+        },
+        {
+          "t": "p",
+          "x": "El equipo eligió nitruro de silicio relativamente grueso como material para los componentes. Con un grosor de 400 a 800 nanómetros, frente a los 150 a 400 nanómetros del silicio estándar, pierde menos luz y confina las longitudes de onda con más firmeza. Un espejo de poco más de 11 μm de largo reflejó hasta el 98,5 % de la luz entrante, y al colocarlo en pares en los lados de una guía de onda, la luz rebotó más de 100 veces antes de escapar. El separador de longitudes de onda mide unos 5 μm, del tamaño de una sola bacteria, y el clasificador de modos espaciales es algo más grande."
+        },
+        {
+          "t": "p",
+          "x": "Los tres componentes aún no se han integrado en un único circuito fotónico integrado. Hay que superar esa etapa para obtener un chip fotónico completo que aproveche la mayor densidad. El equipo escribió en el artículo: “Estos resultados muestran que es posible lograr componentes ópticos pequeños, tolerantes a errores de fabricación y de diseño personalizable”."
+        },
+        {
+          "t": "p",
+          "x": "Los intentos de incorporar IA al diseño y la fabricación de semiconductores se han multiplicado en los últimos años. Hay casos que han reducido los ciclos de diseño de semanas a horas y han bajado mucho los costos de fabricación, y existen sistemas que generan diseños de chip utilizables a partir de un simple mensaje de 200 palabras. AlphaChip, de Google, produjo distribuciones calificadas de “sobrehumanas” y se usó realmente en la producción en serie de los chips de IA de la empresa."
+        }
+      ]
     }
   }
 }

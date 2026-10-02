@@ -1928,6 +1928,107 @@
           "x": "Hypebot's conclusion is this: there's no need to fear AI, nor to hand over one's entire creative identity to it. Use the tools to strip away backend friction and buy back time, then spend that time on raw, direct connection, through songs, shows and the merch table. In an age of endless synthetic noise, a personal story is a competitive edge that goes beyond branding."
         }
       ]
+    },
+    "music/music-ethical-plugins": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI should be an exciting technology. In a short time, it has produced a flood of new tools, techniques, sounds and ways of working. Yet a handful of the biggest AI companies have turned that promise sour: algorithms that swallowed human-made music whole are regurgitating it."
+        },
+        {
+          "t": "p",
+          "x": "Fortunately, some companies put music and musicians first. The ethical AI described here means brands that build their tools together with musicians, producers and artists. Instead of “make my record sound like XYZ artist,” they license material directly from collaborators. Above all, they don't use your music to improve their products."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/01/landr-layers-blueprint-hero@2000x1500.jpg",
+          "cap": "In front, LANDR Layers; behind, LANDR Blueprint. Image: LANDR"
+        },
+        {
+          "t": "p",
+          "x": "LANDR. Mastering was AI's canary in the coal mine. It has sold algorithmic mastering since 2014, refining its algorithms by learning directly from engineers who agreed to it. Even with competition tightening, it still offers the best balance of price, flexibility and quality. Its one flaw is that online mastering comes bundled with distribution services, so anyone who doesn't want that has to buy the standalone plugin separately."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
+          "cap": "Project LYDIA, made together by Roland and Neutone. Image: Press"
+        },
+        {
+          "t": "p",
+          "x": "Neutone. It staked out ethical AI from the start, using only self-recorded data or datasets pulled from the public domain. Morpho, built on that data, transforms the timbre of a real-time input according to the character of the AI model. That means you can pull drums out of a voice or drive a Gregorian chant with a guitar riff. It splits 50% of model revenue with artists. One model was trained using only a human heartbeat. Each model's training method and sources can be checked directly inside the plugin. Project LYDIA, built with Roland to put AI into a physical stompbox, is also underway."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2024/09/Voice-Swap-VST-plugin@2000x1500.jpg",
+          "cap": "The Voice-Swap VST plugin. Image: Voice-Swap"
+        },
+        {
+          "t": "p",
+          "x": "Voice-Swap. AI voice cloning had a bad reputation early on, and for good reason. From the start, Voice-Swap partnered directly with singers to build artist-approved voice models that can be used legally in commercial music. Fifty percent of subscription fees go straight to the participating artists. Setting ethics aside, its cloning technology ranks among the best in the industry, and it also offers VST plugins and custom voice model creation."
+        },
+        {
+          "t": "p",
+          "x": "ACE Studio. It bets everything on a workstation that's AI from head to toe. Its AI features range from generating accompaniment to producing an entire song from a single sketch. The review found text-to-music wasn't quite there yet, but the AI vocal models were different. Because participating musicians were paid, it was possible to dig through 140 vocal models with a clear conscience. They were surprisingly realistic, and you could blend and layer them to build your own timbre."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/08/moises-ai-daw-screen@2000x1500.jpg",
+          "cap": "Moises AI's Stem Generator. Image: Moises AI"
+        },
+        {
+          "t": "p",
+          "x": "Moises AI. Stem separation draws almost the only complaint-free reception in the AI debate. Splitting finished recordings into pieces changed the game for DJs, remixers and audio restoration workers. Moises AI partners with musicians, labels and platforms and licenses all of its training data. This year, Charlie Puth joined as chief music officer, standing alongside Jordan Rudess and Cory Henry."
+        },
+        {
+          "t": "p",
+          "x": "Safari Audio Meaw Chain. It's the most interesting AI music plugin released this year. Play audio in your DAW for Meaw Chain to analyze, write a direction in text, and a plugin chain comes out in seconds. Safari has said it will never train on customer audio. Its list of supported third-party plugins keeps growing, and it even catches individual parameters inside them. Being a first release, it has plenty of rough edges, but ethics isn't one of them."
+        }
+      ]
+    },
+    "music/music-happyshrimp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/image1-e1787028035370.png",
+          "cap": "Alibaba's AI songwriting model HappyShrimp 1.0, now in beta"
+        },
+        {
+          "t": "p",
+          "x": "Alibaba has released an AI model that turns a single written prompt into a finished song. The Hangzhou-based company said HappyShrimp 1.0 entered beta on Monday, August 17."
+        },
+        {
+          "t": "p",
+          "x": "HappyShrimp works with the Chinese label group Taihe Music Group on co-creation with artists and content development. Taihe Rye Music and Ocean Butterflies belong to the group."
+        },
+        {
+          "t": "p",
+          "x": "When a user writes a mood, a story or a music style, HappyShrimp writes the melody, arrangement and lyrics and performs the vocals itself. Users can also supply their own lyrics for the model to set to music, or ask for an instrumental track alone. The company says no musical training is required."
+        },
+        {
+          "t": "p",
+          "x": "The genres it covers include Chinese-style music, pop, R&B/soul, hip-hop, rock, funk, electronic, classical and jazz. Prompts can specify instrumentation, vocal style and how the energy shifts as a song unfolds. Before generating sound, it first lays out the song's structure, rhythmic development and chord progression, alongside emotional tone, energy and lyrical intent."
+        },
+        {
+          "t": "p",
+          "x": "The model comes from Alibaba Token Hub, the AI organization Alibaba set up in March 2026 under group CEO Eddie Wu. It follows the multimodal model HappyHorse and the world model HappyOyster, both released earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "One of the world's largest tech companies has entered a market where Suno and Udio hold the name recognition. Suno raised more than $400 million in June at a $5.4 billion valuation and says it has surpassed 100 million users. Both companies came to the negotiating table after the RIAA sued on behalf of the three major labels in 2024 over “mass infringement.”"
+        },
+        {
+          "t": "p",
+          "x": "Inside China, the field is already crowded. Kunlun Tech runs the Mureka generator and Melodio streaming service, and ByteDance has its own mobile music-creation tool. Tencent Music Entertainment's Tianqin Lab built a music model with Tencent AI Lab and added DeepSeek to its creation tool, letting songs publish straight to QQ Music."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba owns every layer beneath the model itself, from chips to cloud to frontier-grade AI systems. Its largest model, Qwen3.8-Max, released August 3, has 2.4 trillion parameters. The company has positioned it as a frontier system just behind Anthropic's Claude Fable 5."
+        },
+        {
+          "t": "p",
+          "x": "This isn't Alibaba's first move into music. It bought the streaming service Xiami Music in 2013 and shut it down in February 2021. Last July, Damai International, the overseas arm of its entertainment division, launched the artist-development label ORCA and held auditions worldwide. According to the IFPI, China grew 20.1% in 2025, overtaking Germany to become the world's fourth-largest recorded music market."
+        }
+      ]
     }
   }
 }

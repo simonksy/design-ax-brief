@@ -2079,6 +2079,481 @@
           "x": "Adobe positions this workflow for situations with tight deadlines and budgets, aimed at people who need to produce eye-catching content quickly even under those constraints."
         }
       ]
+    },
+    "design/design-ai-sdk-harness-acp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vercel has added the @ai-sdk/harness-acp package to the AI SDK harness layer. Any harness that follows the Agent Client Protocol (ACP) can now be run as a HarnessAgent."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3UHwfbngr1cY9BcpRkJbjI/dc86b1b9db0bcf0b0273659423f19494/acp-harness-support-og.png",
+          "cap": "A cover image on a black background with the Vercel triangle logo and the text “Use any ACP-compatible harness with AI SDK.”"
+        },
+        {
+          "t": "p",
+          "x": "Until now, harness adapters wrapped runtimes one at a time, with separate adapters for Claude Code, Codex, Pi, Deep Agents, and OpenCode. @ai-sdk/harness-acp wraps a protocol instead of a runtime. Rather than being an adapter built for one harness, it is a meta-adapter that lets you build an adapter for any harness that ships an ACP-compatible package."
+        },
+        {
+          "t": "p",
+          "x": "Using it doesn't take much code either. Pass the package to createACP and set up the basic harness mapping, and you have a harness. From there, it's handed to HarnessAgent just like any other harness."
+        },
+        {
+          "t": "p",
+          "x": "ACP adds a layer of abstraction over coding harnesses, but the AI SDK harness layer chose not to be locked into it. Some harnesses don't support ACP, and for some, going through ACP narrows or changes how much of their internal behavior gets exposed. In those cases, a dedicated adapter fits more tightly."
+        },
+        {
+          "t": "p",
+          "x": "That's why, for Claude Code and Codex, it's recommended to use @ai-sdk/harness-claude-code and @ai-sdk/harness-codex first. @ai-sdk/harness-acp is for when a harness without a dedicated adapter ships an ACP-compatible package."
+        }
+      ]
+    },
+    "design/design-ai-ui-placement": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI features are now a basic part of products. There's no shortage of advice on how to design the AI experience, but little talk about where on the screen that feature should actually sit. Whether it's a chatbot, a writing assistant, or image generation, placement decides how users perceive and adopt it."
+        },
+        {
+          "t": "p",
+          "x": "AI fatigue is real. A feature should feel like a suggestion, not an ad. Nobody welcomes a box asking if they need help anymore."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/web-hosting-site-showing-list-of-domains.png",
+          "cap": "A hosting provider's screen with a Spin AI site button attached to every line of the domain list."
+        },
+        {
+          "t": "p",
+          "x": "On one hosting provider's screen, a Spin AI site button is attached to every single line of the domain list. One instance would be a feature; repeated down the whole list, it's noise. Users aren't being helped so much as repeatedly reminded that AI exists. It would have worked better as a single global action at the top of the list, or appearing contextually while managing a domain."
+        },
+        {
+          "t": "p",
+          "x": "Placement patterns come from product type and UX convention. The bottom right is the convention for floating widgets. Since most languages read left to right, it sits where you land after scanning the content. Grammarly is a good example: with nothing to flag, it's a small G icon; once suggestions pile up, it turns into a colored circle with a number. It doesn't intrude until you touch it."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/Canva-AI-highlighted-in-Affinitys-Studio-Manager.png",
+          "cap": "Canva AI, situated inside Affinity's Studio Manager."
+        },
+        {
+          "t": "p",
+          "x": "Putting AI in the toolbar puts it on the same level as the product's other tools. It's also a signal that it affects the whole file or document. Canva AI inside Affinity's Studio Manager is an example of this. An action bar, by contrast, is tied to what you're doing right now. A toolbar says it's always available; an action bar says it fits this particular task."
+        },
+        {
+          "t": "p",
+          "x": "A sidebar has room for a long conversation. Placed on the right, it reads as an assistant; on the left, as an active collaborator. Opera AI sits on the right, the Firefox chatbot on the left, and GitHub Copilot in VS Code falls into this category too. It doesn't pull users out of the main workspace. But a collapsible sidebar is easy to forget if you weren't already looking for AI."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/Figmas-dedicated-AI-hub.png",
+          "cap": "Figma's dedicated AI hub screen, which feels like a different product."
+        },
+        {
+          "t": "p",
+          "x": "Once you go as far as a dedicated page or hub, AI is no longer a side feature. Figma AI is an example that's both good and bad. Opening it feels like entering a different product, and the way back to the canvas is blocked by a paywall screen; it only opens on the Professional plan. It's useful as a starting point for a first draft or for sketching ideas, but the real work has to happen on the canvas. The moment you hand over a whole screen, it stops being a feature and becomes a new destination."
+        },
+        {
+          "t": "p",
+          "x": "Inline has the least friction. Sitting right next to what you're working on, it preserves your sense of control and keeps the flow unbroken. If people have to move to another spot to find AI, they'll just skip it."
+        },
+        {
+          "t": "img",
+          "src": "https://blog.logrocket.com/wp-content/uploads/2026/08/UX-checklist-for-AI-feature-placement.png",
+          "cap": "A UX checklist laying out five questions for judging AI feature placement."
+        },
+        {
+          "t": "p",
+          "x": "It's a negotiation between discoverability and disruption, and a feature only needs to stand out as much as it's worth. The call comes down to five questions: Is AI central to the flow? Does the product type already have an established convention? How often is it used? Does it act on a selection or on the whole document? And is it fine to put it in a menu? If the answer to that last question is yes, put it in the menu."
+        },
+        {
+          "t": "p",
+          "x": "WhatsApp gave Meta AI a pinned button, and Windows laptops replaced the right Ctrl key, used for decades, with a Copilot key. The new Samsung phone's side button opens Gemini instead of power. When muscle memory gets thrown off, it's disorienting. Users don't dislike AI; they just don't want to be constantly reminded it's there. Put it where it's useful, and keep it out of sight everywhere else."
+        }
+      ]
+    },
+    "design/design-dsds-w3c": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Design system documentation just took a big step forward. The Design System Documentation Community Group has been approved at W3C. If you care about design systems, and especially about how they survive in design and development now that AI is part of the mix, this isn't news to let slide."
+        },
+        {
+          "t": "img",
+          "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-spec-1024x585.png",
+          "cap": "The Design system doc spec 0.15.2 documentation page, posted on designsystemdocspec.org."
+        },
+        {
+          "t": "p",
+          "x": "The author has been watching since PJ Onori began writing the Design System Documentation Spec (DSDS). What caught their attention is that it names, precisely, a problem the industry has only ever worked around since documentation existed: design system documentation has no agreed-upon shape."
+        },
+        {
+          "t": "p",
+          "x": "Tokens have a format, components have code, but documentation alone lives inside whatever structure each team happens to invent. It has always been a quality problem, one teams got through by copying each other and patching things bit by bit. Now that AI agents have started reading design systems, the problems of quality, access, and usability are all surfacing at once."
+        },
+        {
+          "t": "p",
+          "x": "DSDS defines design system documentation as a machine-readable format. It splits documentation into seven entity types, components, tokens, themes, foundations, patterns, guides, and chunks, and builds each one out of standard documentation blocks like guidelines, API details, states, and accessibility. Its usefulness runs two ways. It leaves the documentation written for people alone and simply adds a structure for machines to navigate. And because every team inherits a structure that was fought over by people who've done this many times before, the baseline quality across the whole industry goes up."
+        },
+        {
+          "t": "img",
+          "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-mvoe-1024x585.png",
+          "cap": "An illustration of several hands fitting eyes, teeth, and an antenna onto a red square robot face."
+        },
+        {
+          "t": "p",
+          "x": "zeroheight already uses this spec. The company adopted it as the model for how documentation should be written, and its internal test system, Baseline, was built entirely around DSDS. When customers ask how to structure their documentation better and make it readable by AI, the spec is laid alongside it to check conformance. zeroheight also built a Claude plugin that audits documentation and returns improvements, and an audit feature in the works draws its criteria from DSDS too."
+        },
+        {
+          "t": "img",
+          "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-approach-1024x585.png",
+          "cap": "An illustration of a robot and hands fitting together image and text blocks above a browser window."
+        },
+        {
+          "t": "p",
+          "x": "On July 30, PJ proposed the community group to W3C. The goal was to \"lower the burden of design system management by developing an open format for structuring design system documentation,\" and it has now been approved. Once neutral ground exists, even competitors can stand on the same footing. The Design Tokens Community Group already proved this path works: tokens that used to differ from tool to tool became a shared industry spec. It takes W3C's standing to get documentation platforms, design tools, and AI companies to sit at the same table. Once governance and IP policy are attached, the spec outlasts any single maintainer or company."
+        },
+        {
+          "t": "p",
+          "x": "Tokens, in hindsight, were the easy case, structured data with values and types. Documentation is prose, opinion, and context. Much of what makes design system documentation valuable was never going to take a standard's shape to begin with. Standardizing the container without flattening the opinions inside it, that's the challenge that will shape this group's early days."
+        },
+        {
+          "t": "img",
+          "src": "https://zeroheight.com/wp-content/uploads/2026/08/blogpost-w3c-path-1024x585.png",
+          "cap": "An illustration of colorful blocks and toggles lined up in a row, with a hand picking up a single token."
+        },
+        {
+          "t": "p",
+          "x": "There are two things you can do today: join the community group, and hold your own documentation up against the spec. No major decisions have been made yet, and what's needed is the voice of people who actually maintain documentation, not just the people building tools."
+        }
+      ]
+    },
+    "design/design-figma-move-fast": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI makes speed easy to get. It makes technical debt easy to get too. The best teams don't stop at shipping fast. They think it through, build it efficiently, and make it distinctive."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/72d55d007b0b6306b30d3555868e28f88a9f2f2d-3600x2025.png?w=3600&h=2025&q=75&fit=crop&crop=focalpoint&auto=format",
+          "cap": "An abstract image with soft pink, yellow, green, orange, and purple blotches scattered like flowers."
+        },
+        {
+          "t": "p",
+          "x": "For a long time, code was the gate to building a product, and developers held the key. AI has removed that gate. People who have never opened an IDE now ship working software. But now that anyone can build anything, building the right thing has gotten harder. Teams are under constant pressure to keep executing and go faster, and that speed clouds judgment. It becomes easy to mistake a polished output for a good one."
+        },
+        {
+          "t": "p",
+          "x": "An output that looks finished on the surface can come from a few lines of a prompt. Before AI, that polish meant an expert had worked through judgment calls and trade-offs. Now you get to a prototype fast, but the LLM fills in the blanks on its own. The surface is excellent and the inside is falling apart."
+        },
+        {
+          "t": "p",
+          "x": "Steven D. Shaw and Gideon Nave coined the term cognitive surrender in their paper \"Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender.\" It describes a state of accepting AI output without verification, burying your own intuition and deliberation in the process. The author writes that they do this all the time themselves. The starting point has to be intent: sitting with a problem and getting clear on what's worth building in the first place, something he calls the duty to consider."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/18583a5d64a25c83cf1188991b3582b8be9d8b10-3264x1836.jpg?rect=0,1,3264,1835&w=804&h=452&q=75&fit=max&auto=format",
+          "cap": "A purple-and-blue abstract collage mixing loop-shaped lines, dot patterns, and overlapping shapes."
+        },
+        {
+          "t": "p",
+          "x": "Google's Addy Osmani, Shubham Saboo, and Dr. Sokratis Kartakis lay out agentic engineering in their white paper \"The New SDLC With Vibe Coding.\" It shifts a developer's job from writing code to expressing intent, which AI then translates into software. The paper argues that sloppy vibe coding comes back as technical debt. So you need deterministic layers like tests, type checks, and verification that catch where the model is wrong, high-signal context made of specs and documented components, and clear interfaces that show how the pieces connect."
+        },
+        {
+          "t": "p",
+          "x": "When moving from design to code, an agent doesn't know the context of the production components. Code Connect in Figma MCP skips having to trace a component back from pixels, and instead hands over the actual code, down to props and variants. The same goes for design. When time and effort go into a design system, decisions harden into code, and the agent gets precise vocabulary and guardrails. The output becomes that much more consistent, and the code that much lighter."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/95db07ff96b03a3f861043bdc7be857f45c75752-3264x1836.jpg?rect=0,1,3264,1835&w=804&h=452&q=75&fit=max&auto=format",
+          "cap": "A vivid abstract collage combining glowing hand outlines, dots, and geometric shapes."
+        },
+        {
+          "t": "p",
+          "x": "Here, AI works in the opposite direction. The model learned from enormous amounts of data, so it knows every trend, style, and pattern there is. That pulls it toward the average of what already exists. Ask for a logo and you get a simple geometric mark with a gradient; ask for a pitch deck and you get the sans-serif everyone uses; ask for a React component and you get a card with rounded corners. Nothing is wrong, and it's mostly fine. That's the problem. Instead of asking what this should be, you end up asking which of these is less wrong."
+        },
+        {
+          "t": "video",
+          "yt": "D5WUW9X_-L0"
+        },
+        {
+          "t": "p",
+          "x": "The work now is to hold speed and judgment at the same time. Secure clarity up front to set the direction, and don't trust polish at face value. Invest in context layers like design systems so agents can move efficiently. In the end, the point of view has to be yours."
+        }
+      ]
+    },
+    "design/design-google-watermark-toggle": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Vice President Josh Woodward said users will be able to remove the visible watermark from AI-generated images and video. A toggle is coming soon to the Nano Banana, Omni, and Lyria models. All three use the sparkle icon familiar as an AI marker. It will later come to Gemini and the video editor Flow as well."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/intro-1786734224.jpg",
+          "cap": "The exterior wall of a Google office building."
+        },
+        {
+          "t": "p",
+          "x": "The visible watermark exists so people can quickly spot AI output circulating out in the world. Turning it off blurs that purpose. The way to check doesn't disappear entirely, but it gets a bit more cumbersome. The invisible SynthID watermark and C2PA metadata stay in place, with no switch to turn them off. Instead, verification takes the extra step of asking a chatbot or uploading it to a portal."
+        },
+        {
+          "t": "p",
+          "x": "Woodward said the watermark toggle will be available nearly everywhere, \"except in countries where it's required by law to keep them.\" The European Union is one such place. It recently issued AI transparency rules requiring visible watermarks on \"authentic-looking\" deepfakes. South Korea took similar action earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "This change shows the industry is still weighing how to label AI output. A visible watermark helps ordinary people quickly spot deepfakes, keeping us all standing on the same shared reality. For people using AI to create, though, it's an obstacle. Woodward added, \"We're striking a balance here between creative control and safety.\""
+        },
+        {
+          "t": "p",
+          "x": "More watermark news keeps coming. Suno announced \"transparency tools\" that include a labeling system showing whether a track is AI-generated when it appears on other platforms. Anthropic also announced it is attaching invisible, C2PA-based watermarks to text and files made by Claude, a move aimed at complying with the EU rules mentioned above."
+        }
+      ]
+    },
+    "design/design-cursor-origin-vercel": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pro customers can now connect their Origin repository to Vercel. Once connected, pull requests opened on Origin create preview deployments on Vercel, and merging triggers a production deployment."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/e5382hct74si/2DCmUnhiLc1UsJUiKvaGqN/32e3f62c51bb3f45eb3cb0b0b0f2bf6d/vercel.com_new_teamSlug_ismybuildfast-vtest314.png",
+          "cap": "The Vercel team settings screen for connecting an Origin repository"
+        },
+        {
+          "t": "p",
+          "x": "There is more than one place to set this up. You can do it from Team settings or Project settings, or click “Continue with Origin” when creating a new project. The reverse direction works too — adding Vercel from the Apps tab in your Origin repository creates the same connection."
+        },
+        {
+          "t": "p",
+          "x": "The Vercel side of the integration is in public beta, and Origin is still in early beta. Origin repositories follow Vercel's existing private-repository policies. For more on how to connect, see the Git integration documentation."
+        }
+      ]
+    },
+    "design/design-dark-mode-two-states": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This is the kind of UI/UX debate I enjoy. Lea Verou put it this way: “Dark mode toggles that expose three states (system, light, dark) seem like the best option. Until you think about user goals, that is.” She added: hear her out before pushing back."
+        },
+        {
+          "t": "p",
+          "x": "What Lea objects to is laying out three options — light, dark, and system — for visitors. Is there any reason to show the system option at all? “a good two state control can actually express all three states — users just need to apply the override the first time it becomes relevant.”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png?resize=1652%2C1362&ssl=1",
+          "cap": "A diagram laying out how the color-scheme choice branches across light and dark situations"
+        },
+        {
+          "t": "p",
+          "x": "Shortened, her point is this: follow the system setting when there's no preference, and give one control to use when an override is needed. That preference lives in localStorage and persists until the next visit. I missed this at first glance, but once you know which color scheme is currently active, you don't even need to show both states — if the default is light, offer only the option to override to dark; if the default is dark, offer only the option to override to light."
+        },
+        {
+          "t": "p",
+          "x": "I'm convinced. Doing the same job with less UI is usually the better outcome. Lea's argument goes beyond simplicity, though. What I still wonder about is reverting: if the system is light, you switch to dark, then switch back to light — does that create a new override preference, or does the localStorage value clear and fall back to the system setting? It may not matter much. Switching themes was never why people came to the site in the first place."
+        },
+        {
+          "t": "p",
+          "x": "“Remember, this control is entirely tangential to the actual user goal for visiting the website.” Even if you meant to lock in light mode, Lea's answer is that you'd only notice once the OS switches to dark and the two diverge — and at that point, one click fixes it."
+        },
+        {
+          "t": "p",
+          "x": "One thing worth flagging: Lea is talking about UI that's always present. A toggle that sits permanently in the header or navigation is common, and in that spot it does distract from a visitor's original purpose. The more choices visible at once, the more cognitive dissonance builds."
+        },
+        {
+          "t": "p",
+          "x": "There was a more relatable counterargument in the thread. Chris Coleman wrote, “All I ever wanted was for my OS to be dark, not every website I look at,” arguing that light/dark preference should live at the browser level. If the setting lives in the browser, there's no reason for a site to show an override — and at that point, a three-state toggle becomes acceptable too."
+        },
+        {
+          "t": "p",
+          "x": "Lea herself names two cases where three states make sense: when the color-scheme setting lives in a separate settings panel, and when the color scheme can branch into more than two options depending on the system setting."
+        }
+      ]
+    },
+    "design/design-ai-returns-interfaces": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI assistants have trained us into a strange default. Ask for a result and you get a block of text, and turning it into something usable is left to you. It's convenient for the model, not always useful for the person."
+        },
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/k69aa8mqz6h8qlbxqprg.png",
+          "cap": "Vira AI"
+        },
+        {
+          "t": "p",
+          "x": "A recipe isn't a single paragraph, and a project plan isn't a single list. A comparison doesn't end with a one-line summary either. These outputs carry structure, decisions, state and actions. If the answer has a shape, the interface should follow that shape."
+        },
+        {
+          "t": "p",
+          "x": "Text excels at explanation, exploration and handling ambiguity. It's easy to move, search and produce. But at the moment you need to weigh alternatives, change a value and see the result, check off items, reorder steps, save output, or keep working, it loses power as a final screen — because the user has to translate prose into a mental model, then translate that model into action, twice."
+        },
+        {
+          "t": "p",
+          "x": "The generative UI the author describes isn't letting a model freely write frontend code. That shakes security, consistency, accessibility and maintainability all at once. It's about narrowing the contract instead: interpret the user's goal, pick an approved output schema, and fill that schema with structured data. Rendering, validation, permissions and actions stay with the product."
+        },
+        {
+          "t": "p",
+          "x": "The model supplies structured content, and the application controls the screen. A checklist schema produces checkable items without arbitrary code. A comparison schema shows trade-offs without asking the model to invent new components. A plan schema gets edited and saved while staying inside interaction rules that are already set."
+        },
+        {
+          "t": "p",
+          "x": "A generated screen needs to make four things clear. You should know instantly whether you got a plan, a recipe, a table, a document or a workflow. Editable fields, reorderable steps and explicit controls turn a static answer into a working surface. Sources, assumptions, model choice and the edges of confidence shouldn't vanish behind a smooth presentation. And next actions — like save, refine, export, run — should be visible."
+        },
+        {
+          "t": "p",
+          "x": "This isn't only a design problem; it changes the backend contract. It needs validated schemas, version-controlled artifacts that survive edits, a clear plain-text fallback, permission-aware actions, accessible renderers, and observability into schema choice and failure modes. That's why the idea that you can “just add a UI” is wrong. The interface is part of the product's protocol."
+        },
+        {
+          "t": "p",
+          "x": "The piece introduces Vira, the author's own product, as built on this boundary. Where conversation is the right fit, it returns conversation; where structure helps, it moves the result into task-specific interfaces — plans, comparisons, tables, checklists, documents. The application keeps hold of the renderer, and the result stays as a reusable artifact instead of getting buried in chat history."
+        },
+        {
+          "t": "p",
+          "x": "It also leaves questions to ask before building: Does structure reduce the user's effort? Is the schema stable enough to validate? Are the possible actions explicit? Can it fall back safely to text? Does it work on a small screen? If not, plain text is better. The goal isn't to push out text, but to drop the habit of treating text as intelligence's only destination."
+        }
+      ]
+    },
+    "design/design-block-berd-workspace": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Block, which runs Square, Cash App and Tidal, has open-sourced Berd, a desktop app it had been building for internal use. The project started as a way to give employees one environment for working with AI agents across multiple models, tools and projects."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5snXmmN8j5fhxpsVoMmT27/02e45a6299b8eb4f58ae6f178d4dbd55/ChatGPT_Image_Aug_18__2026__07_16_56_PM.png?w=1000&q=100",
+          "cap": "Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0"
+        },
+        {
+          "t": "p",
+          "x": "It's not a browser workspace but an installable desktop app. It's on GitHub under Apache 2.0, free even for commercial use, with macOS, Windows and Linux builds available for free download. The repository reached 0.6.2 on August 18, with 91 contributors."
+        },
+        {
+          "t": "p",
+          "x": "Block calls Berd an 'everyday AI work surface.' Opening chats, attaching files, picking agents and models, working inside ongoing projects, managing skills and extensions, and building automations all happen in one place. The design principle is that users should always know which project, files, agent, model, provider and session state are driving a conversation. Failures, dropped providers and loading states aren't papered over with friendly language either."
+        },
+        {
+          "t": "p",
+          "x": "The starting point was an internal pain point. Employees were already using Block's Goose, Anthropic's Claude Code and OpenAI's Codex, but the interfaces, settings systems and ways of managing context all differed."
+        },
+        {
+          "t": "p",
+          "x": "The most notable choice is turning agents into characters. Instead of opening another empty chat window, Berd gives each agent a role, instructions, skills, tools and a recognizable look. The banner name for Block's set of animated characters is 'Gloopies,' and the public site features Berdy, Pushback, Choosey, Copycat, Tinker and Wildcard. Pushback argues against a draft, and Copycat learns the user's writing style. \"The avatar makes the agent recognizable. What makes it useful is the role, the skills, and the tools,\" Block's design blog summed up."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/5fflC3yjtdt5lRpzcdmGf8/7f4d7d9dfced1a77f4606f4ec046b538/2854a67d-b767-490a-9ed4-7d2a993bc79b.png?w=1000&q=100",
+          "cap": "Screenshot of Berd Gloopies. Credit: Block"
+        },
+        {
+          "t": "p",
+          "x": "Structurally, Berd is neither a new foundation model nor a new agent runtime. An app built with Tauri 2 and React 19 talks to Goose over the Agent Client Protocol, and Goose runs as a sidecar process handling the agent loop."
+        },
+        {
+          "t": "p",
+          "x": "Data is local-first. Conversation history piles up in the device's Goose session database, and credentials go into the OS keychain. Still, Axen drew a line: \"Local-first doesn't mean data never leaves the device.\" Once you ask a model to do work, that prompt and material go to the provider."
+        },
+        {
+          "t": "p",
+          "x": "The differentiator isn't inventing the agent workspace for the first time. It's opening that space as open source, hooking up multiple harnesses, and targeting people beyond developers. The Codex app only bites on OpenAI models, and Claude Code only bites on Claude. Still, the Berd repository doesn't accept outside pull requests, so Block keeps a tight grip upstream."
+        },
+        {
+          "t": "p",
+          "x": "Block's next stage isn't Berd. \"Going forward the focus is Buzz, and we plan to carry over the good parts of Berd's single-player experience there,\" Axen said. Block's bet is that while models and coding agents become interchangeable parts, the stable layer turns out to be projects, skills, tools and identity."
+        }
+      ]
+    },
+    "design/design-humans-in-the-loop-factory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Building machines that run AI comes with an unfamiliar problem: a single part can cost as much as a house."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/BrightMachines_Talent_0472-2-1024x683.jpg",
+          "cap": "Bright Machines"
+        },
+        {
+          "t": "p",
+          "x": "Sviat Dulianinov, CEO of data-center infrastructure company Bright Machines, remembers the moment the company first assembled GPU servers and realized a single part ran about $250,000. \"If you damage or break one part... you hit a big problem.\""
+        },
+        {
+          "t": "p",
+          "x": "Bright Machines runs at a high level of automation, but Dulianinov has no interest in automation for automation's sake. Even with heavy use of machine learning and AI, he doesn't picture a factory where machines make every decision. \"We start with robotics and software before we add people. Still, there are processes left that weren't designed for robots.\""
+        },
+        {
+          "t": "p",
+          "x": "The biggest obstacle to automation shows up before it even reaches the factory floor, he says. It's the product itself. If designers and production engineers don't work closely enough with robotic assembly in mind, you end up with something that looks fine on the drawing but is hard or too costly to automate. That's why an app called Bright Designer analyzes a design before mass production and feeds back what needs to change for robots to assemble it more easily."
+        },
+        {
+          "t": "p",
+          "x": "The factory floor follows the same philosophy. Instead of long, fixed lines, it uses modular cells about the size of a home refrigerator, and when a product changes, only the cells get reworked instead of building a new line. It's not just robots that move through the cells — data does too. \"Whether a station is automated or not, we collect data at each station. Even with a human in the loop, we collect it for traceability.\" Inspection results, images and force-control measurements pile up, and when something fails, the system looks for patterns tied to a specific supplier, station or part defect. Under a \"zero scrap\" principle, the system halts production whenever the process drifts from expectations."
+        },
+        {
+          "t": "p",
+          "x": "For a company building the infrastructure behind the AI boom, its own use of AI is fairly plain. \"AI is a fancy word these days. Everything's become AI. We've been using machine learning from the start.\" More recently, it has used generative AI to help write the 'recipes' that tell robots how to assemble things, and it's experimenting with agentic AI to diagnose manufacturing problems. \"With an agent, it's already gone through the data and comes back with three hypotheses.\""
+        },
+        {
+          "t": "p",
+          "x": "There's a decisive catch, though: judgment still belongs to the engineer. \"Even if AI does 70% of the work, there's an engineer who finishes it, and that engineer is the last person who says, 'okay, you can go.' The agent doesn't act on its hypothesis until a systems engineer looks it over and confirms it. A human stays in the loop. We think that's the simplest answer.\""
+        },
+        {
+          "t": "p",
+          "x": "\"People ask what the factory of the future looks like. The answer is that even the factory of the future keeps a human in the loop. So jobs still exist.\" What changes is just the nature of the work. Robots take on more of the repetitive physical labor, and AI scans through the data that would otherwise take an engineer hours to review. The company has deployed more than 130 microfactories."
+        },
+        {
+          "t": "p",
+          "x": "That experience has made him skeptical of AI hype. \"You shouldn't fall for the fantasy that handing everything to AI will make it all work.\" Even sophisticated systems get things wrong. He doesn't say AI replaces engineers — he says it amplifies them. \"Good engineers in particular get a lot better.\" The lesson left standing is simple: don't automate something just because you can, and don't trust AI just because it looks smart."
+        }
+      ]
+    },
+    "design/design-scantic-phone-splats": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260819_Scantic_FreeGaussianSplatiPhoneApp_tw.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Software developer Sebastian Beyer has released Scantic, an app that builds 3D Gaussian splats of objects and spaces using nothing more than ordinary video shot on an iPhone camera."
+        },
+        {
+          "t": "p",
+          "x": "Training finishes in \"under a minute.\" Unusually for this kind of app, all the processing runs entirely on the phone, and scan data never gets uploaded to the cloud. The base app is free; exporting at better quality costs money."
+        },
+        {
+          "t": "p",
+          "x": "Gaussian splatting is a technique that reconstructs real-world objects from photos or video to get fast-rendering, high-quality 3D representations, and Scantic belongs to that family. Using it is simple: start a new scan, circle around the subject, and splats come out of the captured images. Small scans process in \"under a minute,\" and the output exports as PLY for use in DCC apps that support 3DGS. You can check the quality directly in the video at the top of the article."
+        },
+        {
+          "t": "p",
+          "x": "Apps that build Gaussian splats on a phone already existed, like Kiri Engine and Polycam. Both have more features and tools for trimming or cleaning up scan data. Where Scantic splits off is finishing all the processing on the user's own phone. Beyond easing security concerns, it drops an entire time-consuming step. Beyer says that by the time other apps finish uploading data, Scantic has already finished training the splat."
+        },
+        {
+          "t": "p",
+          "x": "It started as a personal project. Beyer's main job isn't CG art but software engineering, and he uses Blender for his own work. Scantic grew out of a summer project where, without being a 3DGS expert, he used AI coding tools to try to boost the performance of an existing Gaussian splatting workflow."
+        },
+        {
+          "t": "p",
+          "x": "The first splat, made with the open-source Brush engine and video shot on an iPhone, took more than three hours on a MacBook Air. With help from the Claude Fable 5 AI model, he gradually pushed performance up, eventually reaching as much as 260x. From there he moved the pipeline onto the iPhone bit by bit and arrived at a dedicated iPhone app \"almost by accident.\""
+        },
+        {
+          "t": "p",
+          "x": "Going forward, he plans to let Scantic train splats from existing video instead of just live capture, and to add SPZ format export. A macOS companion app that hands scans off to a laptop or desktop for processing might come out, but there's no plan for an Android version. \"[Apple's products] have a relatively controlled hardware range,\" he says, and on Android it would only run well on some high-end devices, leaving the rest of users with a bad experience."
+        },
+        {
+          "t": "p",
+          "x": "Scantic requires iOS 17.0 or later and an A12 Bionic chip or newer, which covers devices from the 2018 iPhone XS onward. The base app is free and gives a standard-quality export, which comes out as a thinned-down, lower-quality version of the scan. The top-quality export requires a subscription of €29.99 a year (about $35), or you can buy it per scan for €4.99."
+        }
+      ]
     }
   }
 }

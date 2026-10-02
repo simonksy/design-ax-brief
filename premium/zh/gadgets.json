@@ -1949,6 +1949,518 @@
           "x": "想要获得免费的Ray-Ban Meta眼镜,可以通过Vision Ireland官网或专线电话+353 1 882 1910申请。遴选对象、面对面培训以及后续支持均由Vision Ireland负责。"
         }
       ]
+    },
+    "gadgets/gadgets-antigravity-local-llm-files": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "能动手操作的AI工具，比预想中更快地进入了普通人的工作流程。能直接触碰和处理文件的工具，用处越大，出错时付出的代价也越大。胡说八道的聊天机器人顶多让人烦心，而一个负责处理文件的代理一旦出岔子，出岔子的地方就是你真实的文件和文件夹。"
+        },
+        {
+          "t": "p",
+          "x": "所以这次我关注的不是生成能力，而是工具如何处理已经存在的东西。我把自己最常用的两个工具——Antigravity和一个本地LLM——交给它们同样的办公任务，看它们是否遵守我的规则。"
+        },
+        {
+          "t": "p",
+          "x": "大多数对比看的是产出质量，但这对一个握有文件访问权限、即将触碰重要文档的工具来说，并不是合适的标尺。和基准测试同样重要的是，工具是否理解自己进入的结构，还是把一切都当成一块可以随意涂抹的空白画布。我的Obsidian库是一个很好的试验场。那些指向虚无的wiki链接、未核对既有schema就凭空捏造出的frontmatter字段，这类小错误会在不太引人注意的情况下不断累积。文件夹表面上不会崩塌，工具也会报告“成功”，但从长远看，文件夹会变成一个谁都碰不得的垃圾场。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/antigravity-restructuring-messy-meeting-note-with-preview.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "Antigravity正在重新整理一份混乱会议笔记的画面。"
+        },
+        {
+          "t": "p",
+          "x": "基础任务是重新整理一个文件。我让它给一份混乱的会议笔记加上标题，在最上面加一段摘要，在最下面整理出行动项。Antigravity按话题把内容划分开，这种划分是粗看一眼容易忽略的。本地模型也给出了结构，但显得更机械一些（顺带一提，temperature设为0.6）。frontmatter两边都处理得没问题。"
+        },
+        {
+          "t": "p",
+          "x": "接下来是一个多步骤任务。我给了它同样的五篇笔记，让它提炼出共同的脉络，做一篇用wiki链接连回各个出处的综合笔记。Antigravity找出了贯穿五篇笔记的四个主题，并把每篇笔记的立场摆在了同一条轴线上。本地模型也找出了四个，wiki链接也准确，但更像是一句话摘要，而不是真正的主题。两者都完成了任务，只是Antigravity读出的是五篇笔记合在一起想说的话，而Qwen是一篇一篇地读、一篇一篇地汇报。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-pkm-synthesis-done-with-four-major-themes-in-lm-studio.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "Qwen在LM Studio中完成了含四个主题的综合笔记。"
+        },
+        {
+          "t": "p",
+          "x": "差异出现在新笔记该放在哪里这件事上。Antigravity先查看了一组文件夹，判断出这是一篇关于概念性原则的文章，于是选择了'notes/ux'文件夹。文件名沿用了我一直使用的句式命名法，frontmatter的schema也原样照搬，还用wiki链接把新笔记和同一文件夹里已有的笔记连接起来，把新文章嵌进了“邻居”之间。本地模型也读取了配置文件，最终也找到了正确的文件夹，但中途跳过了好几步推理。它一开始把这些笔记归类为“孤儿文档”，后来又自行纠正，而且一旦没有把握，就会倾向于把内容写到库的最顶层。"
+        },
+        {
+          "t": "p",
+          "x": "两者都完成了被要求的任务，这是对代理的最低期待。真正拉开差距的是注意力。Antigravity在每一项任务里都做到了“先读后写”。Qwen也在某些瞬间——比如意识到某个改动根本没必要动手——展现出同样的直觉，只是程度更小。但如果要把装着重要文件的文件夹交出去，我会选Antigravity。这不是说本地LLM会把文件夹搞坏，而是说Antigravity更加谨慎一些。"
+        }
+      ]
+    },
+    "gadgets/gadgets-airpods-camera-demo-video": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MacRumors在macOS Tahoe 26.7的候选发行版中发现了一段短视频，这是外界只闻传言的摄像头AirPods第一次以动态画面出现。视频中一名男子戴着新款AirPods举起一本书的封面，这个动作是为了让Visual Intelligence读取书名。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "在macOS测试版中发现的摄像头AirPods演示视频画面。"
+        },
+        {
+          "t": "p",
+          "x": "片段中叠加着Siri的声音：“with Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.”意思是把看到的东西先保存下来，以后再用。"
+        },
+        {
+          "t": "p",
+          "x": "Bloomberg的Mark Gurman此前曾报道，这款AirPods的设计是接收“visual information in low resolution”（低分辨率视觉信息），充当Apple AI功能的“眼睛”——比如让Siri逐步播报路线，或回答关于周围环境的问题。"
+        },
+        {
+          "t": "p",
+          "x": "视频中的AirPods看起来就像把AirPods Pro 3做得稍厚一些，与Gurman此前的预测一致。此前也有消息称，为了塞入摄像头，耳机柄会变长，还会增加一个在数据上传云端时提示的LED灯。不过视频只从背面拍摄，那个角度看不到灯光。"
+        },
+        {
+          "t": "p",
+          "x": "加上Visual Intelligence之后，它的对手就变成了像Meta的Ray-Ban智能眼镜那样带摄像头的AI设备。据称Apple也在另外筹备自己的智能眼镜。尽管官方表示这颗摄像头并非用来拍照或拍视频，但这种看不出来的外形反而让人更担心——Meta曾因此被人称作“pervert glasses”而遭受的反弹，就是摆在眼前的先例。"
+        },
+        {
+          "t": "p",
+          "x": "目前能了解到的信息就这些。如果演示视频已经出现在测试版里，那么这款AirPods可能会和预计9月与下一代iPhone一起发布的新版Siri同步亮相。"
+        }
+      ]
+    },
+    "gadgets/gadgets-google-pet-memory-cats": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "对The Verge的智能家居评测人来说，安防摄像头最有用的地方，就是能看住屋里屋外的动物。问题在于通知太多，真正重要的反而被淹没。这正是Google在Gemini for Home里加入Pet Memory时让人抱有期待的原因。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0001_IMG_8622.jpg?quality=90&strip=all",
+          "cap": "Boone凑近Google Nest Cam。图片 Jennifer Pattison Tuohy / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Pet Memory是一个让Google Home学会认出自家宠物的功能。Nest摄像头从“看到了动物”升级为“看到了哪只动物”，家里也会据此做出反应。笔者的计划是分辨三只猫，再自动触发喂食器。两周过去，Gemini依然分不清这三只猫。"
+        },
+        {
+          "t": "p",
+          "x": "摄像头从只给动作提醒，变成会说出看到了什么，是最近才出现的变化。Nest早在2017年就用Nest Cam IQ区分人和动物，之后又加入了动物检测和AI描述。Ring、Wyze和Apple Home也都加上了AI描述。而尝试直接叫出每只宠物名字的，是Google Home头一个。"
+        },
+        {
+          "t": "p",
+          "x": "工作原理很简单：把用户在Gemini里写下的描述，和Gemini从摄像头画面生成的描述做比对。Google Home产品经理Rudra Bhatt这样解释：“If these are the same, we will replace the pets with the name in the caption。”"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0006_IMG_8456.jpg?quality=90&strip=all",
+          "cap": "Smokey，是Google Home记住的唯一一只猫。出现在Nest Cam里的猫，全都变成了Smokey。"
+        },
+        {
+          "t": "p",
+          "x": "使用条件和费用都不轻松。需要每月20美元的Google Home Advanced Plan，测试中也只能在Nest摄像头上运行。因为只支持室内摄像头，进出前门的猫没法用上。最重要的是，它和Familiar Faces不同，不会给每个个体建立视觉档案：没有训练过程，没法上传照片，也没法纠正错误。只要填上名字和品种，剩下的全靠系统自己判断。"
+        },
+        {
+          "t": "p",
+          "x": "白爪子的燕尾服猫Boone、虎斑小猫Osa，还有灰白相间的大猫Smokey。描述写得更细之后，系统回复说处理不了额外信息，然后把所有猫都叫成了Smokey。Bhatt也承认，只有一只宠物时表现不错，分辨猫和狗也没问题，但同一物种有多只时就很吃力。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_7979.jpeg?quality=90&strip=all",
+          "cap": "不是Smokey。不过这张图能看出Gemini for Home的描述已经变得多细。"
+        },
+        {
+          "t": "p",
+          "x": "喂食自动化也出了岔子。设置是Nest Cam看到特定的猫才启动Aqara喂食器，但因为分不清Boone和Smokey，不管哪只靠近都会出粮。Google Home应用里也没有限制自动化触发次数的设置。到一天结束时，食盆已经溢出来了。"
+        },
+        {
+          "t": "p",
+          "x": "最麻烦的是误认。有一天，Home Brief提醒说Smokey在车库里吃东西。猫在车库里吃东西不是什么好信号。打开片段一看，其实是Boone在洗衣房吃自己的饭，把车库摄像头往回倒了一整天也没见到猫。到这个地步，还不如什么都不做。"
+        },
+        {
+          "t": "p",
+          "x": "认出具体是哪只动物，比认出有动物出现要难得多。能看出AI摄像头的方向在哪，但这还不是今天就能放心依赖的功能。同样每月20美元附带的连续录像，目前反而更有用。"
+        }
+      ]
+    },
+    "gadgets/gadgets-humanoid-firefighting-drill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "机器人会跳舞、会后空翻，跑得比人还快。可一旦任务变成在不让人陷入危险的前提下灭火，这些花活就没什么用了。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humanoid-robot-firefighting-games.jpg",
+          "cap": "在真实消防站内进行的人形机器人消防救援项目。"
+        },
+        {
+          "t": "p",
+          "x": "第二届World Humanoid Robot Games举办了首个面向人形机器人的户外消防救援项目，比去年受控的室内环境又往前走了一步。2026年的任务在真实的消防站内进行，机器人要面对更接近实际现场的条件。"
+        },
+        {
+          "t": "p",
+          "x": "每台机器人获得的时间是30分钟：用图像识别找到并上报随机放置的危险物品，找到并关闭随机指定的三个阀门，再找到灭火器，灭掉真实的火焰。火是否点燃、灭火器是否用得正确，由现职消防员负责评判。"
+        },
+        {
+          "t": "p",
+          "x": "结果暴露出机器人的感知和运动控制仍然十分脆弱。一旦脱离沙盘演示或远程VR辅助操作，难题就开始了。雨水、不断变化的室外光线，以及消防站里散落的杂物，都扰乱了视觉系统和机械精度。报名参赛的队伍有23支，8月16日实际参赛12支，完成全部环节的只有3支。"
+        },
+        {
+          "t": "p",
+          "x": "表现突出的是UniX AI的机器人，在限定时间内按要求的精度完成了任务。不过整体速度仍远不及人类消防员，而且对准灭火器把手的动作还重做了两次。"
+        },
+        {
+          "t": "p",
+          "x": "人类消防员明显更强这一结论没有改变。但这类比赛的价值，恰恰在于能产生失败数据。各队正利用8月16日户外消防项目中获得的学习数据，改进感知、动作规划和平衡控制，目标是在下一次比赛中真正握稳灭火器和阀门。"
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-face-recognition-patent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta这一年一直在试图平息外界对智能眼镜将加入人脸识别功能的担忧。但从新曝光的专利申请来看，这个构想从未被放弃。"
+        },
+        {
+          "t": "p",
+          "x": "这份申请最早由Patentlyze披露，是Meta在2月提交的。文件描述了将AI人脸识别与智能眼镜结合使用，用来识别出某个人，并在制作媒体内容时调用与这个人相关的信息。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Meta-smart-glasses-facial-recognition-patent.jpg?resize=1528%2C917",
+          "cap": "已公开的Meta专利申请图纸。图片US Patent and Trademark Office"
+        },
+        {
+          "t": "p",
+          "x": "申请专利并不等于做成产品。但这份文件的出现，是在数月来不断有报道称Meta反复研究可穿戴设备人脸识别之后才浮出水面的。"
+        },
+        {
+          "t": "p",
+          "x": "2月，一个名为Name Tag的内部功能被曝光，用于让智能眼镜实时识别出一个人。6月，事情变得更加离奇：研究人员在Meta AI应用内部发现了处于休眠状态的人脸识别组件，其中甚至包含一个能检测人脸并将其转换为生物识别数据的系统。Meta删除了相关代码，并表示从未推出过人脸识别功能。"
+        },
+        {
+          "t": "p",
+          "x": "差不多同一时期，外界还发现Meta从Rank One Computing获得了人脸识别技术的授权——这家公司的客户包括美国军方和执法机构。这套软件同样是在Meta AI应用内部以休眠状态被发现的。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/03/meta-smart-glasses-1.jpg?resize=2000%2C1200",
+          "cap": "Meta Ray-Ban Gen 2智能眼镜。图片Meta"
+        },
+        {
+          "t": "p",
+          "x": "Meta在眼镜用人脸识别上下过功夫，这一点已经没有疑问。剩下的问题是，这项研究最终会不会进入真正能买到的产品。"
+        },
+        {
+          "t": "p",
+          "x": "这项专利已经招致批评。在CNET报道的一份声明中，Center for Democracy and Technology警告称，包括跟踪骚扰和家庭暴力幸存者在内的脆弱群体可能会暴露在这项技术面前。"
+        },
+        {
+          "t": "p",
+          "x": "这与围绕Name Tag的担忧是同一个问题。藏在照片库内部的人脸识别，和架在别人脸上、在公共场所四处走动的摄像头是两件不同的事。Meta的眼镜本来就已经很难和普通眼镜区分开来。一旦加上人脸识别，站在旁边的人就没有办法知道，自己只是被看到了，还是正在被悄悄识别。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-watch-face-prompt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pixel Watch 5多了一个谁都没特别要求过的功能：靠语音或文字提示生成表盘的生成式AI，背后由Gemini支撑。好不好用，只能说取决于当天的创作兴致和个人喜好。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ii3sSenhj5LRLh9Se38wGh.jpg",
+          "cap": "Pixel Watch 5上的Create Watch Face应用。图片Dan Bracaglia / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "操作流程出乎意料地简单：打开Create Watch Face应用，点击自己创建，再用文字或语音输入即可。必须连接蜂窝网络或Wi-Fi。输入提示词后大约要等10到30秒。大概五次里有一次会被应用拒绝，通常是提示词难以理解、过于复杂，或网络信号不好的时候。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sXzHccxdRDnCrFUiE9LeVh.jpg",
+          "cap": "输入提示词后的等待画面。图片Dan Bracaglia / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "第一个提示词是“Teddy bears and laser beams”。出来的画面与其说对应这句话，更像是Pink Floyd风格的麦片包装画。还能看出一个习惯：过度偏重排在前面的词来决定画面质感。"
+        },
+        {
+          "t": "p",
+          "x": "生成完成后会出现六个候选。可以用同一个提示词继续生成，也可以从头再来。目前看，这六个之间差别不大。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HbkSNAW4CUz5LDFLpYXc6h.jpg",
+          "cap": "“A raging river with jumping orange salmon”提示词生成的结果。图片Dan Bracaglia / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "第二个提示词是“A raging river with jumping orange salmon”。效果稍好一些，但与其说是鲑鱼，更像是剪贴画风格的鲤鱼。第三个输入的“Deli meats”，就是文章开头那幅图。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/UCoj7XvaeHGMzTXNN3Ga4j.jpg",
+          "cap": "不管输入什么提示词，生成出来的表盘都是静止画面。图片John Velasco / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "如果期待的是鱼儿缓缓游动之类的动态效果，最好别抱希望。无论输入哪个提示词，结果都是完全静止的画面。"
+        },
+        {
+          "t": "p",
+          "x": "Google本来就免费附送的表盘，功能都比这个应用生成的任何作品丰富。如果是特别的日子，倒是可以图个乐子试一试，只是最好避开“teddy bears and laser beams”这个提示词。"
+        }
+      ]
+    },
+    "gadgets/gadgets-photo-body-composition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2020/11/garmin-index-s2-smart-scale-review-weight.jpg"
+        },
+        {
+          "t": "p",
+          "x": "美国国立卫生研究院(NIH)统计显示,73.1%的美国成年人超重或肥胖。但要真正了解体成分,光靠站上体重计远远不够,要精确测出脂肪分布的部位和多少,通常得依赖繁琐的X光分析。谷歌的研究人员正在探索仅用手机摄像头获取类似信息的方法。"
+        },
+        {
+          "t": "p",
+          "x": "PhotoScan是谷歌研究院开发的系统,通过AI分析多张身体2D照片来估算体成分。训练数据采用双能X线吸收测量法(DXA)扫描数据,除了测量总体脂肪量外,还同时测量躯干与腰腿脂肪的比例(A/G)以及内脏脂肪与皮下脂肪的比例(V/S)。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-photoscan-body-fat.jpg",
+          "cap": "google photoscan body fat"
+        },
+        {
+          "t": "p",
+          "x": "此外还加入了MRI扫描的身体数据,并用实际用手机摄像头拍摄的照片重新进行了微调。由此得到的模型在体脂肪测量上比可穿戴设备中的生物电阻抗分析(BIA)传感器更准确,在BIA根本无法尝试的A/G、V/S比例估算上准确度也更高。"
+        },
+        {
+          "t": "p",
+          "x": "谷歌研究院还研究了PhotoScan的结果能否预测胰岛素抵抗等状况。正如即将加入Pixel Watch Health Guardian的胰岛素抵抗趋势功能所显示的那样,这是谷歌近来明显加大投入的方向。"
+        },
+        {
+          "t": "p",
+          "x": "研究本身看起来扎实,但仍留有问题。说服用户提供多张自己未必满意的身体照片并不容易,再严密的隐私政策也无法完全解决这一点。更大的难关在于展示数据之后:真正让人改变饮食和生活习惯。谷歌尚未公布将PhotoScan做成产品的计划,但未来某天从Google Health中冒出来也不会令人意外。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelwatch5-breathing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YDLZGqu9SNDPu5dcuS532F-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "谷歌在手腕上的安全功能并不止步于跌倒和碰撞检测。Pixel Watch 5新增了呼吸危急检测和血压趋势,而2024年推出的脉搏消失检测至今仍无其他品牌能够跟上。Tom's Guide采访了共同开发呼吸危急检测的谷歌产品经理普拉莫德·鲁德拉帕特纳(Pramod Rudrapatna)和研究员杰克·桑夏恩(Jake Sunshine)。"
+        },
+        {
+          "t": "p",
+          "x": "桑夏恩表示,他想要改变人们对这类设备能做到什么的固有认知——不止于健身和保健,还要加入挽救生命的能力。他对Pixel Watch的描述是“从概念上说,这是戴在手腕上的安全气囊”。就像汽车的安全气囊一样,最好永远都用不上。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MkoE7r8TgqeYpS3yJmEN4j.jpg"
+        },
+        {
+          "t": "p",
+          "x": "鲁德拉帕特纳称呼吸危急是一个人群层面的问题。数十万人因药物过量、重症肺炎或气道阻塞等原因经历过这种情况。这类紧急状况毫无预兆,而且往往发生在身边没有人的时候。"
+        },
+        {
+          "t": "p",
+          "x": "检测算法寻找的是健康人身上不该出现的组合:原本正常的血氧突然骤降,同时伴随一动不动、没有反应。测试在专门实验室进行,那里能在受控环境下迅速降低氧气浓度。设计中也加入了减少误报的机制。一旦检测到,就会出现30秒倒计时,若在这段时间内未取消,手表会自动联系紧急服务。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rQG3feqtkjfwtCjVMiW9x7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "他们也明确说明了局限。无法保证每次都能捕捉到心脏骤停或呼吸危急,血压和胰岛素抵抗趋势同样不能替代血压计或血糖检测。鲁德拉帕特纳划出界线:这项功能不是用来筛查、诊断高血压或糖尿病,也不是用来指导调整用药,而是针对本人自己都未察觉的隐性问题。"
+        },
+        {
+          "t": "p",
+          "x": "被问及推广计划时,鲁德拉帕特纳表示目标是尽可能覆盖更多设备,但目前专注于高端Pixel Watch系列。该功能也会加入Pixel Watch 4。目前尚不清楚Fitbit Ace是否会支持呼吸危急检测,但血压和胰岛素抵抗趋势会加入到这款99美元、无屏幕的追踪器中。截至本文撰写时,呼吸危急检测仍在等待美国FDA的批准。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5u7ooJhHNXRpKNeCQpUVzi.jpg"
+        }
+      ]
+    },
+    "gadgets/gadgets-alexa-plus-fire-tv-free": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/intro-1787134924.jpg",
+          "cap": "亚马逊 Alexa+"
+        },
+        {
+          "t": "p",
+          "x": "亚马逊让美国境内所有使用Fire TV设备的人都能免费使用Alexa+。单独使用这款AI助手原本每月要花20美元。对Prime会员来说一直是免费的,但现在任何人都不需要再付费。"
+        },
+        {
+          "t": "p",
+          "x": "适用设备包括现行代的Amazon Fire TV Stick、Fire TV Cube,以及Amazon Ember Smart TV。像Hisense或Panasonic这类内置Alexa+的其他厂商智能电视也在范围内。"
+        },
+        {
+          "t": "p",
+          "x": "经过多年开发,亚马逊在今年2月发布了全新的Alexa体验。以前的Alexa需要记住唤醒词或特定短语才能响应语音指令。Alexa+能听懂自然语言。"
+        },
+        {
+          "t": "p",
+          "x": "你不必指定具体某部剧来播放,也可以直接请求推荐。先说“给我看一部女主角很强的时代剧”,再用“推荐更新一点的”来缩小范围。就连针对当前屏幕内容的上下文提问,比如让它说说某个演员的其他作品,也能得到回答。"
+        },
+        {
+          "t": "p",
+          "x": "如果家里有智能家居设备,就可以对Alexa+说话来控制它们。让它显示门口画面,门前摄像头的影像就会接到连接的电视上;如果装了智能门锁,也可以让它把门锁上。"
+        },
+        {
+          "t": "p",
+          "x": "据亚马逊介绍,用户与Alexa+之间的对话量几乎是以前Alexa的两倍,因为它能理解口语化的提问和请求。"
+        },
+        {
+          "t": "p",
+          "x": "公司表示,今后可以把免费的Alexa+扩展到更多设备和地区。目前免费使用仅限美国用户,但Alexa+本身在英国、加拿大、墨西哥、意大利、西班牙、德国、奥地利、巴西和法国也能使用。亚马逊计划今年内扩展到更多国家,2027年再新增10个地区。"
+        }
+      ]
+    },
+    "gadgets/gadgets-comcast-wifi-motion-sensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2023/06/2bae73dacdfc4714ab26c351267aa385.jpg",
+          "cap": "图片:Jonathan Weiss (Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "Comcast旗下的Xfinity正把Wi-Fi路由器推向家庭安防设备的方向。数百万用户现在可以选择开启扩展的监控功能。公司推出了面向全美客户、无需额外付费的网络与家庭防护平台Xfinity Shield。在安全功能和家长控制功能之上,又加上了能把现有Wi-Fi设备变成动作感应装置的WiFi Motion。"
+        },
+        {
+          "t": "p",
+          "x": "按照Comcast的说明,WiFi Motion是选择加入的功能。它利用Xfinity网关发出的Wi-Fi信号来捕捉室内动静,不使用摄像头,也不使用录像设备。它的原理是读取路由器与已连接的Wi-Fi设备之间无线信号的变化。"
+        },
+        {
+          "t": "p",
+          "x": "WiFi Motion本身在2025年首次推出。这次Comcast扩大了提供范围,把它定位为Xfinity Shield生态系统的核心支柱。连接与平台业务首席增长官Jon Giesselman表示,网络需要超越单纯的连接,延伸到保护住户和他们的信息。"
+        },
+        {
+          "t": "p",
+          "x": "当TV或打印机等已连接设备附近检测到动静时,会收到提醒。在家、睡觉、外出等不同场景下,设置会分别调整。Xfinity应用中可以同时查看实时动静和历史记录。"
+        },
+        {
+          "t": "p",
+          "x": "Comcast承认,性能会因房屋大小、结构、建筑材料、路由器位置和设备摆放而有所不同,并未对性能做出一致的保证。隐私团体和用户已经开始指出这项技术的监控可能性以及由此带来的不安。"
+        },
+        {
+          "t": "p",
+          "x": "德国最近的一项研究显示,Wi-Fi信号的用途不止于动作检测。研究人员利用波束成形数据和人工智能,以99.5%的准确率识别出个人身份,并警告说普通路由器也可能变成监控工具。"
+        },
+        {
+          "t": "p",
+          "x": "最沉重的一点出现在Comcast自己的支持文档中。文档写明,WiFi Motion产生的信息可以提供给第三方。公司保留根据调查中的执法机构要求、涉及Comcast的纠纷,或法院命令、传票来共享这些数据的权利。"
+        },
+        {
+          "t": "p",
+          "x": "Comcast没有回应就此疑虑提出的置评请求。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ice-smart-glasses-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-1-09.jpg",
+          "cap": "Ray-Ban Meta 第一代智能眼镜"
+        },
+        {
+          "t": "p",
+          "x": "美国移民与海关执法局(ICE)也正式加入了禁止智能眼镜的机构名单。"
+        },
+        {
+          "t": "p",
+          "x": "据《纽约时报》报道,ICE周二发布了一份备忘录,禁止员工使用智能眼镜。对象不仅包括一线执法人员,也包括办公室员工。理由是存在侵犯隐私的可能。"
+        },
+        {
+          "t": "p",
+          "x": "《纽约时报》援引代理局长David Venturella备忘录中的文字如下:“……使用Meta Glasses或类似设备,可能会无意中捕捉、记录或传输敏感信息,从而有可能损害隐私和法律保护。”"
+        },
+        {
+          "t": "p",
+          "x": "“无意中捕捉”这一点很尖锐。它瞄准的不是员工或探员刻意拍摄的视频和照片,而是智能眼镜顺带吸收进去的信息。这种担忧是有根据的。"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候,曾作为Meta外包合同工工作过的举报人,就公司AI训练项目中使用的视频提出了质疑。他们说自己被要求审查涉及性行为、裸体、使用卫生间等私密场景的视频。他们表示,其中部分看起来是意外拍下的。考虑到Meta的服务条款,用Meta智能眼镜拍下的视频和照片,并不像表面那样安全。"
+        },
+        {
+          "t": "p",
+          "x": "顺带一提,国土安全部(DHS)的探员使用智能眼镜、尤其是Meta产品的情形此前已经被人目击过。也就是说,这次禁令并不是什么先发之举。还有报道称,DHS正在开发用于美国边境监控的自有智能眼镜。甚至有人提到,有意把面部识别与智能眼镜结合起来,自动将人脸与数据库进行比对。"
+        },
+        {
+          "t": "p",
+          "x": "ICE这次禁令不是出于理念问题。监控本就是这个机构的日常工作。只是另有一层担忧,而这层担忧的对象,与其说是智能眼镜本身,不如说是围绕在它周围、那些令人生疑的用户数据政策。"
+        }
+      ]
+    },
+    "gadgets/gadgets-macos-27-siri-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-app-macOS-27.jpg",
+          "cap": "macOS 27中的Siri应用"
+        },
+        {
+          "t": "p",
+          "x": "随着beta测试进入尾声,苹果预计将在下个月左右正式发布macOS 27 Golden Gate。今年这次更新里最大的变化,是为Mac全新打造的Siri应用。"
+        },
+        {
+          "t": "p",
+          "x": "升级到macOS 27后,Mac的Dock栏会出现一个全新的Siri应用图标。这是苹果首次为Mac推出专属的Siri应用。"
+        },
+        {
+          "t": "p",
+          "x": "今年macOS 27 Golden Gate的招牌功能是Siri AI。苹果把Siri从底层重新打造了一遍。理解个人语境、掌握世界知识、感知屏幕内容、在应用内执行操作等能力,都建立在这套新架构之上。"
+        },
+        {
+          "t": "p",
+          "x": "Siri应用是这套体系的核心。你可以在应用里翻看所有过去的对话,也可以开始一段新对话。对话还会通过iCloud在苹果设备之间同步。也就是说,你在iPhone上开始的Siri对话,坐到Mac前也能接着看。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri_app__b8roe5v68ywi_large_2x-1.jpg",
+          "cap": "列表视图与卡片式网格视图"
+        },
+        {
+          "t": "p",
+          "x": "Mac上的Siri应用提供两种界面可选:一种是类似信息应用的列表视图,另一种是把每段对话都变成一张悬浮卡片的网格视图。"
+        },
+        {
+          "t": "p",
+          "x": "系统设置里可以决定Siri应用保留对话的时长,从永久保存、30天、1年中选择;如果选择后两者,超过期限的对话会被永久删除。"
+        },
+        {
+          "t": "p",
+          "x": "系统设置还能指定打开Siri应用时是跳到最近的对话还是直接开始新对话,对话预览显示的行数也可以在0行到5行之间调整。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Screenshot-2026-08-19-at-2.18.18-PM.png",
+          "cap": "系统设置中的Siri应用选项"
+        },
+        {
+          "t": "p",
+          "x": "Siri应用可在MacBook Neo(A18 Pro)以及M1及更新机型的Mac上运行。"
+        },
+        {
+          "t": "p",
+          "x": "9to5Mac的评价是:应用本身相当基础,但苹果决定在macOS 27中加入聊天机器人形式的Siri应用这件事值得欢迎。去年接受采访时,苹果高管曾把公司的AI战略描述为打造“不是附加上去的聊天机器人,而是融入你所做一切事情的体验”。当时这被解读为苹果无意推出Siri聊天机器人应用的信号,但在今年的WWDC上,苹果解释说,他们认为想要回顾过去的对话,专属应用才是最好的方式。"
+        },
+        {
+          "t": "p",
+          "x": "真正的问题是,Mac用户会不会放着Claude或ChatGPT不用,改用Siri应用。归根结底还是看产出质量。在询问世界知识或个人语境的问题上,Siri应用表现不错,但面对更复杂的提问,人们依然会用Claude。如果苹果持续打磨Siri AI和Apple Intelligence,这个取舍也可能改变。"
+        }
+      ]
     }
   }
 }

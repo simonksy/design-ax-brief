@@ -1813,6 +1813,107 @@
           "x": "Hypebot的结论是：不必害怕AI，也不必把创作身份整个交出去。用工具清除后台的摩擦、买回时间，再把这些时间花在歌曲、舞台和周边摆摊前那种原始、直接的连接上。在合成噪音无穷无尽的时代，个人故事是超越品牌本身的竞争力。"
         }
       ]
+    },
+    "music/music-ethical-plugins": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI本应是一项令人兴奋的技术。短时间内,新的工具、技法、音色和工作方式层出不穷。然而,几家最大的AI公司却把这种可能性带向了令人不快的方向:把人类创作的音乐整段吞下的算法,又把它原样吐了出来。"
+        },
+        {
+          "t": "p",
+          "x": "幸运的是,也有把音乐和音乐人放在第一位的公司。这里所说的“伦理AI”,指的是与音乐人、制作人、艺人共同打造工具的品牌。它们不走“make my record sound like XYZ artist”那条路,而是从合作者那里取得素材授权。最重要的是,它们不会把你的音源拿去改进自家产品。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/01/landr-layers-blueprint-hero@2000x1500.jpg",
+          "cap": "前方为LANDR Layers,后方为LANDR Blueprint。图片:LANDR"
+        },
+        {
+          "t": "p",
+          "x": "LANDR。母带处理是AI领域的“矿井金丝雀”。该公司自2014年起就在销售算法母带处理服务,并通过向同意合作的工程师直接学习来打磨算法。即便如今竞争激烈,它在价格、灵活性与品质之间的平衡仍是最好的。缺点是在线母带处理与发行服务绑定销售,不想要发行服务的用户得另外购买独立插件。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
+          "cap": "Roland与Neutone共同打造的Project LYDIA。图片:Press"
+        },
+        {
+          "t": "p",
+          "x": "Neutone。从一开始就举起伦理AI的旗号,只使用自行录制或取自公共领域的数据集。用这些数据训练出的Morpho,能按AI模型的特性改变实时输入的音色——也就是说,可以用人声拉出鼓点,也可以用吉他即兴段驱动格里高利圣咏。公司与艺人五五分成模型收益。还有一款模型仅用人类心跳训练而成。每个模型的训练方式和数据来源都可以直接在插件内查看。公司与Roland合作、把AI装进实体效果踏板的Project LYDIA项目也在进行中。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2024/09/Voice-Swap-VST-plugin@2000x1500.jpg",
+          "cap": "Voice-Swap VST插件。图片:Voice-Swap"
+        },
+        {
+          "t": "p",
+          "x": "Voice-Swap。AI声音克隆早早就名声不佳,而且不是没有道理。Voice-Swap从一开始就直接与歌手合作,打造可合法用于商业音乐的、经艺人授权的声音模型。订阅费的50%直接分给参与的艺人。抛开伦理因素不谈,其克隆技术也位居行业前列,还能提供VST插件和定制声音模型制作服务。"
+        },
+        {
+          "t": "p",
+          "x": "ACE Studio。把全部筹码押在一个从头到脚都是AI的工作站上。从生成伴奏到仅凭一张草图生成整首歌曲,AI功能可谓琳琅满目。评测认为其文本生成音乐功能还不够成熟,但AI人声模型则不同。因为给参与的音乐人支付了报酬,评测人员得以放心地试遍140个人声模型,结果出乎意料地逼真,还可以混合叠加,打造出属于自己的音色。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/08/moises-ai-daw-screen@2000x1500.jpg",
+          "cap": "Moises AI的Stem Generator。图片:Moises AI"
+        },
+        {
+          "t": "p",
+          "x": "Moises AI。人声伴奏分离几乎是AI争议中唯一少有怨言的领域。把完成的录音拆分成音轨,改变了DJ、混音师和音频修复人员的工作方式。Moises AI与音乐人、厂牌和平台合作,所有训练数据都经过授权。今年,Charlie Puth加入公司担任首席音乐官,与Jordan Rudess、Cory Henry并列。"
+        },
+        {
+          "t": "p",
+          "x": "Safari Audio Meaw Chain。是今年推出的AI音乐插件中最有意思的一款。在DAW里播放音频让Meaw Chain分析,再用文字写下方向,几秒钟内就能生成一条插件链。Safari表示绝不会用客户的音频进行训练。其支持的第三方插件列表仍在增加,甚至能识别其中的单个参数。作为首个版本,它还有不少欠缺之处,但伦理不在其中。"
+        }
+      ]
+    },
+    "music/music-happyshrimp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/image1-e1787028035370.png",
+          "cap": "进入测试阶段的Alibaba AI作曲模型HappyShrimp 1.0"
+        },
+        {
+          "t": "p",
+          "x": "Alibaba发布了一款能把一段文字提示变成完整歌曲的AI模型。这家总部位于杭州的公司表示,HappyShrimp 1.0已于8月17日星期一进入测试阶段。"
+        },
+        {
+          "t": "p",
+          "x": "HappyShrimp与中国厂牌集团Taihe Music Group在艺人共同创作和内容开发方面展开合作。Taihe Rye Music和Ocean Butterflies均属于该集团。"
+        },
+        {
+          "t": "p",
+          "x": "用户只需写下情绪、故事或音乐风格,HappyShrimp就能写出旋律、编曲和歌词并亲自演唱。用户也可以自己填词让模型配曲,或者只要伴奏。公司表示,即使没有学过音乐也可以使用。"
+        },
+        {
+          "t": "p",
+          "x": "它覆盖的曲风包括中国风音乐、流行、R&B/灵魂乐、嘻哈、摇滚、放克、电子、古典和爵士。提示词可以指定乐器编制、人声风格,以及歌曲推进过程中能量的变化方式。在生成声音之前,它会先确定歌曲结构、节奏发展和和声进行,同时设定情感色调、能量和歌词意图。"
+        },
+        {
+          "t": "p",
+          "x": "打造这款模型的是Alibaba Token Hub,这是Alibaba于2026年3月成立、隶属于集团CEO Eddie Wu之下的AI组织。它延续了今年早些时候推出的多模态模型HappyHorse和世界模型HappyOyster。"
+        },
+        {
+          "t": "p",
+          "x": "这意味着全球最大的科技公司之一,进入了一个由Suno和Udio占据知名度的市场。Suno在6月以54亿美元估值融资超过4亿美元,并称用户已突破1亿。两家公司都是在2024年RIAA代表三大唱片公司以“大规模侵权”(mass infringement)为由提起诉讼后,才坐到谈判桌前的。"
+        },
+        {
+          "t": "p",
+          "x": "中国国内市场本已拥挤。Kunlun Tech运营着Mureka生成器和Melodio流媒体服务,ByteDance也拥有自己的移动端音乐创作工具。Tencent Music Entertainment旗下的Tianqin Lab与Tencent AI Lab共同打造了音乐模型,并在创作工具中接入DeepSeek,让作品可以直接发布到QQ Music。"
+        },
+        {
+          "t": "p",
+          "x": "从芯片、云计算到前沿级AI系统,Alibaba掌握着支撑该模型的每一层技术。公司8月3日发布的最大模型Qwen3.8-Max拥有2.4万亿参数。公司将其定位为仅次于Anthropic的Claude Fable 5的前沿系统。"
+        },
+        {
+          "t": "p",
+          "x": "这并不是Alibaba第一次涉足音乐业务。公司于2013年收购了流媒体服务Xiami Music,后于2021年2月将其关闭。去年7月,其娱乐板块的海外机构Damai International成立了艺人培养厂牌ORCA,并在全球举办了试镜活动。据IFPI数据,中国市场2025年增长20.1%,超过德国成为全球第四大录音音乐市场。"
+        }
+      ]
     }
   }
 }

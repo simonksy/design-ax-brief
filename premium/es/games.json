@@ -1926,6 +1926,369 @@
           "x": "No del todo ajeno a que la plataforma haya salido de manos de Epic, ArtStation publicó, tras su comunicado oficial, otro mensaje en X diciendo que está \"con ganas de ver cómo será el próximo capítulo\" y que está \"escuchando\" los comentarios de los usuarios. \"Hay confianza que ganar, mucho que aprender, y trabajo importante por delante. Los comentarios que recibimos de los artistas importan.\""
         }
       ]
+    },
+    "games/games-immens-engine": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Unity y Unreal han dominado el desarrollo durante mucho tiempo. Alrededor del 70% de los juegos lanzados en Steam en 2025 se hicieron con estos dos motores. Godot ha crecido mucho en los últimos años, y algunos estudios usan motores propios, como el RE Engine de Capcom, pero el mercado de motores está dividido en la práctica entre estos dos nombres."
+        },
+        {
+          "t": "p",
+          "x": "Arjan Brussee, Sjoerd De Jong y Michal Valient, fundadores de Immens, creen que hay espacio para un nuevo motor en ese medio. Los currículos de los tres pasan por Epic Games, creadora de Unreal, además de Guerrilla Games, Boss Key y Apple."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Arjan_Brussee.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Arjan Brussee | Imagen cortesía de Immens"
+        },
+        {
+          "t": "p",
+          "x": "Brussee le dijo a GamesIndustry.biz que “hay una oportunidad ahora que no existía hace unos años”. “Con la ayuda de la programación asistida por IA, probablemente se pueda volver a empezar desde cero. Con suficiente guía y control, se puede construir algo con funcionalidad completa muy rápido.”"
+        },
+        {
+          "t": "p",
+          "x": "El director de tecnología, Valient, insiste en que esto es distinto del discurso habitual sobre IA: no es un motor del que se invoca algo con un prompt. “La IA de Immens sirve para construir el motor de forma realmente extensible. Lo bueno es que la IA razona muy bien sobre grandes cantidades de datos y bases de código. Si se diseña la base de código con eso en mente, equipos pequeños o incluso una sola persona pueden entrar a extender el motor.”"
+        },
+        {
+          "t": "p",
+          "x": "La mitad de la razón para construir un nuevo motor es el mercado actual. Brussee describe la situación como “brutal”. “Es realmente difícil tener éxito con un juego. Los costos de producción no dejan de subir. Hay que hacer algo para salir de ese círculo. ¿Existe una forma de construir con menos gente, en menos tiempo y con un presupuesto más pequeño?”"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Sjoerd_De_Jong.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Sjoerd De Jong | Imagen cortesía de Immens"
+        },
+        {
+          "t": "p",
+          "x": "El director de producto, De Jong, admite que la estandarización y la consolidación del mercado de motores sí crearon una base sólida. Pero lo que se necesita ahora es distinto. “La industria enfrenta varios problemas, y seguir como hasta ahora no funciona. Lo que falta no es estandarización, sino innovación.” También señala como problema que los motores existentes están congelados en bloques monolíticos, lo que obliga a los desarrolladores a adaptarse al software."
+        },
+        {
+          "t": "p",
+          "x": "Valient también conoce el punto débil de la IA: es poderosa, pero “si no se tiene cuidado, puede salirse de control muy rápido”. Por eso dice que Immens está construido para que los usuarios sepan qué hace el motor, cómo llegó a ese punto, y puedan reproducir ese mismo resultado."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Michal_Valient.jpeg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Michal Valient | Imagen cortesía de Immens"
+        },
+        {
+          "t": "p",
+          "x": "Immens se apoya en estándares abiertos. “Si un archivo está basado en texto, podemos leerlo”, dijo Brussee. El objetivo es que Blender, Maya, herramientas generativas o sus propias herramientas se puedan conectar sin fricción."
+        },
+        {
+          "t": "p",
+          "x": "La financiación aún no se ha anunciado, y la empresa solo ha conseguido “primeros compromisos”. La compañía es pequeña a propósito: los tres fundadores más un puñado de colaboradores. “Demasiado dinero también es un riesgo para una startup”, bromeó Brussee. La prueba de concepto que muestra un flujo para editar algo con IA generativa tiene como meta publicarse este mes; el plan empezó en abril apuntando a fin de año, así que va al doble de la velocidad prevista."
+        }
+      ]
+    },
+    "games/games-sony-ceo-human-made-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4524100-astro-bot.jpg",
+          "cap": "Astro Bot"
+        },
+        {
+          "t": "p",
+          "x": "El uso de IA en los ámbitos creativos ha seguido siendo incómodo. Los analistas creen que, a medida que aumenta el contenido hecho por IA, la gente buscará cada vez más lo que parece auténtico y hecho a mano. El CEO de Sony y fan declarado de Oasis, Hiroki Totoki, comparte esa visión. La IA puede «elevar» la creatividad, dice, pero lo que atrae a la gente al cine, la música y los videojuegos es, en última instancia, el elemento humano."
+        },
+        {
+          "t": "p",
+          "x": "«La IA no puede sustituirla. La IA puede elevar la creatividad humana.» Así lo dijo Totoki al Wall Street Journal. «De verdad depende de nosotros. O bien aprovechamos la IA, o nos vemos amenazados por ella.»"
+        },
+        {
+          "t": "p",
+          "x": "Totoki ve la IA como una herramienta. Otros creadores de la industria de los videojuegos rechazan incluso eso. Nobuo Uematsu, el compositor conocido por la música de Final Fantasy, dijo que la IA podría ayudar con las transiciones entre sonidos en la música de videojuegos, pero que no le interesa usar IA generativa para crear piezas nuevas. «Sigo pensando que pasar por el esfuerzo de crear algo uno mismo resulta más gratificante.»"
+        },
+        {
+          "t": "p",
+          "x": "Troy Baker, activo actor de voz en videojuegos, también opinó sobre el tema. Dijo que la IA puede producir contenido, pero no arte, porque no tiene experiencia humana de la que valerse."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, juegos como Mecha Chameleon se citan como el polo opuesto del slop de IA, gracias a obras que destacan y abrazan las imperfecciones del trabajo hecho a mano."
+        },
+        {
+          "t": "p",
+          "x": "En Asia, la adopción de IA generativa está en aumento real. Según una encuesta de la organización que organiza el Tokyo Game Show, más del 50% de los desarrolladores de videojuegos japoneses ya incorporan IA en la producción. En cambio, el 50% de los desarrolladores encuestados en la GDC dijo que la IA generativa está dañando la industria de los videojuegos."
+        },
+        {
+          "t": "p",
+          "x": "Cuando los estudios revelan su uso de IA, la reacción ha sido mayormente fría. Crystal Dynamics, desarrollador de Tomb Raider: Legacy of Atlantis, dijo que el diseño de personajes, incluida Lara Croft, está hecho 100% a mano, y que la IA solo se usa en arte conceptual temprano y activos de marcador de posición. Sony también dijo que usó algoritmos de aprendizaje automático en Marvel's Spider-Man 2 como un experimento para acelerar el desarrollo."
+        }
+      ]
+    },
+    "games/games-unreal-vibe-simulation": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "v6QujSBg4Xw"
+        },
+        {
+          "t": "p",
+          "x": "Es una sesión grabada en Unreal Fest Chicago 2026. Duality AI presentó una “simulación vibe” que corre sobre Unreal Engine. La pregunta es simple: ¿qué pasaría si datos sintéticos útiles y precisos estuvieran a solo un prompt de distancia?"
+        },
+        {
+          "t": "p",
+          "x": "Al construir sistemas de IA física, la simulación es una herramienta difícil de evitar. Acelera el entrenamiento, permite probar sin riesgo y detecta casos límite de forma sistemática. La simulación ya ocupa un lugar amplio en el terreno."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que exige mucho esfuerzo. El trabajo de simulación solo puede empezar si se sabe manejar herramientas 3D, y hasta un ajuste pequeño pasa por procedimientos lentos y engorrosos. Cambiar una sola escena puede llevar días."
+        },
+        {
+          "t": "p",
+          "x": "En el otro extremo está el modelo de mundo generativo. Es intuitivo y flexible, pero carece de base física. No garantiza que las mismas condiciones produzcan los mismos resultados, ni ofrece medios para controlarlo como se quiere. Y eso es justo lo que requieren el entrenamiento y la validación."
+        },
+        {
+          "t": "p",
+          "x": "La simulación vibe intenta sentar a los dos en la misma mesa: toma la intuición y flexibilidad del modelo de mundo generativo sin soltar la precisión, el determinismo y la base física que la simulación ha mantenido."
+        },
+        {
+          "t": "p",
+          "x": "El usuario ajusta los escenarios mediante prompts en lenguaje natural y una interfaz de agente. Aun así, conserva el control preciso necesario para inspeccionar, validar y repetir ejecuciones de la IA dentro de un entorno de gemelo digital."
+        },
+        {
+          "t": "p",
+          "x": "El presentador es Apurva Shah, CEO de Duality AI, quien muestra detalles de implementación junto con una demostración real, señalando el punto en que la simulación estática se convierte en una herramienta de decisión y de datos que cualquiera en una organización puede usar."
+        },
+        {
+          "t": "p",
+          "x": "El video se publicó en el canal de Unreal Engine el 18 de agosto de 2026 y dura 48 minutos. Más sobre usos de simulación está disponible en unrealengine.com/uses/simulation."
+        }
+      ]
+    },
+    "games/games-nte-doubao-watermark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Neverness to Everness, el juego gacha lanzado en 2026, fue arrastrado sin piedad en internet el pasado abril por la cantidad excesiva de assets con aire a IA. Este es ya el tercer caso de este año en que este juego de la desarrolladora Hotta Games se ve envuelto en una polémica por IA generativa, menos de cuatro meses después de que el equipo de desarrollo dijera que el juego estaba “construido sobre la creatividad humana” y que entregaría “la calidad que los jugadores merecen”."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/Neverness-To-Everness-new-1.3-update-artwork-Hotta-Games.jpg",
+          "cap": "© Hotta Games"
+        },
+        {
+          "t": "p",
+          "x": "Así es esa “calidad”: una sola pieza de arte de un caballito de mar hecha con IA, incluida en la actualización 1.3 lanzada en China el 12 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "Queda una parte peor. Usuarios de Bilibili, la plataforma china de streaming en vivo y redes sociales, señalaron que esa imagen parecía hecha con la versión gratuita de Doubao, el chatbot de IA de ByteDance. ¿Cómo lo averiguaron? ¿Acaso corrieron algún software de detección de IA?"
+        },
+        {
+          "t": "p",
+          "x": "No. La respuesta es mucho más trivial. La marca de agua de Doubao AI seguía ahí, intacta, en el asset del caballito de mar de la actualización 1.3. Alguien en Hotta Games olvidó borrarla."
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento global de la actualización 1.3 es el 19 de agosto, y la razón por la que los jugadores chinos se dieron cuenta primero es simple: las actualizaciones de NTE llegan a China una semana antes."
+        },
+        {
+          "t": "p",
+          "x": "Para ser justos, Hotta Games nunca dijo, ni la primera ni la segunda vez que lo pillaron, que dejaría de usar assets generados por IA. Solo dijo que “las herramientas asistidas por IA se usaron únicamente en un número reducido de assets de fondo y de entorno”, y no en “los personajes o la historia que definen este juego”."
+        },
+        {
+          "t": "p",
+          "x": "Es difícil sostener que un asset de un caballito de mar define el juego, así que no vamos a insistir en ese punto. Aun así, cuesta no preguntarse si esto merecía manejarse con tanto descuido: un juego que ganó más de 200 millones de dólares a los dos meses de su lanzamiento, y que al parecer ni siquiera pagó la versión de pago de Doubao AI."
+        }
+      ]
+    },
+    "games/games-witcher3-fear-cut": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Witcher 3 tiene mucho que ver, y tanto que quedó fuera del viaje de Geralt antes de salir. Uno de ellos era un sistema pensado para mostrar que los NPC le tenían miedo a algo, y terminó en el piso de la sala de edición porque la gente, bueno, se puso a tirar bebés."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Z6t76LEBAiCVQWA3uCVwtB.jpg",
+          "cap": "Imagen cortesía de CD Projekt Red"
+        },
+        {
+          "t": "p",
+          "x": "El diseñador de misiones de The Witcher 3, Philipp Weber, contó lo que pasó a la revista Edge. \"Como centramos el juego en el campo, a los jugadores les resultaba más fácil sentir curiosidad.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Si un pueblo solo tiene ocho casas, la gente quiere comprobar si los habitantes de dentro son reales o falsos. Hoy mucha gente se fija en ese tipo de detalles, y eso de verdad nos dio problemas.\""
+        },
+        {
+          "t": "video",
+          "yt": "c0i88t0Kacs"
+        },
+        {
+          "t": "p",
+          "x": "En 2026 no sería difícil escribir los guiones y recorridos de un pequeño pueblo rural, pero en 2012 era todo un reto. \"Nos concentramos más en imitar bien el ciclo de día y noche de los habitantes. La parte que reaccionaba de verdad al jugador no estaba tan pulida.\""
+        },
+        {
+          "t": "p",
+          "x": "En lugar de darle a cada uno un ciclo propio, hicieron que los NPC rotaran entre actividades fijas: cortar leña, entrar a la casa a comer, o caminar a otro lugar. Eso hacía que el pueblo se viera animado y evitaba que los NPC se amontonaran en un solo punto. \"Por ejemplo, creamos 200 puestos para los 50 marineros del puerto de Novigrado, para que quedara adonde ir aunque los 50 se movieran a la vez\", dijo Weber."
+        },
+        {
+          "t": "p",
+          "x": "El problema surgió al hacer que estos NPC le tuvieran miedo a algo. \"Los NPC debían tener una reacción de miedo: soltar lo que estaban haciendo, dejar caer lo que llevaban en las manos y huir asustados. El problema fue que una de las 'actividades' que podían hacer las madres era sostener y arrullar a un bebé. Durante semanas, las mujeres dejaban caer bebés por todas partes.\""
+        },
+        {
+          "t": "p",
+          "x": "Era graciosísimo de una forma rara, pero no era el tono que buscaba CD Projekt Red. Así que lo quitaron por completo. Solo queda imaginar cómo habrá sido para el equipo de desarrollo ver esa escena jugando ellos mismos. En lo personal, creo que habría estado bien dejarlo tal cual y ver qué notaban los jugadores y los críticos. El Continente podría usar un poco más de risa."
+        }
+      ]
+    },
+    "games/games-wolf-haus-no-genai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Puede que alguien recuerde el tráiler de Join Us que se mostró en el Xbox Showcase de junio: un simulador de culto cooperativo, oscuro y divertido, con seguidores en túnicas que montan cerdos mientras disparan ametralladoras, hasta terminar con tentáculos del tamaño de Cthulhu. Sin embargo, el arma de serpientes no apareció en el tráiler, dice Joe Dietsch, CEO y director creativo de la desarrolladora Wolf Haus Games."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Joe-Dietsch.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Joe Dietsch | Imagen cortesía de Wolf Haus Games"
+        },
+        {
+          "t": "p",
+          "x": "\"Fue una idea del hijo de uno de los miembros del equipo. Dijo: '¿No podemos tener un arma que dispare serpientes?' Resulta que tenemos una herramienta que escala armas muy rápido, así que entramos e hicimos un arma que dispara serpientes en unos 30 minutos. Para el niño fue algo enorme. Todavía está en el juego.\""
+        },
+        {
+          "t": "p",
+          "x": "El COO Michael Abbott dijo: \"Queríamos sacudir las cosas.\" \"Dijimos: 'no se necesitan cien personas, con doce basta', y nadie nos creyó: pensaban que era imposible.\" El equipo viene del cine independiente, donde ya habían hecho cosas grandes con poco dinero. Tras 80 presentaciones, consiguieron inversión de capital de Krafton y Lifelike Capital."
+        },
+        {
+          "t": "video",
+          "yt": "eUobFfG2pHM"
+        },
+        {
+          "t": "p",
+          "x": "Lo que destaca de Join Us es cómo se está haciendo. Solo hay 13 empleados a tiempo completo. Dietsch dijo que pasaron mucho tiempo construyendo herramientas primero, al inicio del desarrollo. \"Si un juego tiene un sistema, ese sistema tiene que ser algo que una sola persona pueda extender y depurar. Hay que invertir tiempo en el conjunto de herramientas para que, cuando una función se extienda por todo el mapa de mundo abierto, el proyecto no se derrumbe bajo su propio peso.\""
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/JoinUs_Screenshot_Ritual.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Apuntan a lanzar este juego de supervivencia cooperativa el próximo año"
+        },
+        {
+          "t": "p",
+          "x": "Cualquier mención a un equipo pequeño suele disparar las alarmas de la IA generativa. La respuesta de Dietsch es breve. \"La respuesta corta es que no usamos IA generativa en absoluto. Creemos que los juegos necesitan el toque humano. Nos encanta hacer juegos, y si le entregáramos el desarrollo a agentes, desaparecería la razón para levantarse por la mañana y hacer esto.\""
+        },
+        {
+          "t": "p",
+          "x": "La directora financiera y de narrativa, Dooma Wendschuh, añadió: \"La respuesta un poco más larga es que sí tenemos algunas suscripciones de IA generativa. Las usamos para gestionar calendarios y escribir respuestas de correo. No la usamos en absoluto en el lado creativo de hacer el juego.\""
+        },
+        {
+          "t": "p",
+          "x": "La parte interesante es Krafton. Es una empresa que el año pasado se redefinió como \"compañía IA-first\", y sin embargo se opuso a que la IA generativa entrara en el proceso creativo de Wolf Haus. \"Como inversor de nuestro estudio, querían dejar claro que no estaban invirtiendo en un estudio que hace juegos con IA generativa\", dijo Wendschuh."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/JoinUs_Screenshot_TownChatting.jpg?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "Solo con la escala del mundo del juego no se adivina el tamaño del equipo"
+        },
+        {
+          "t": "p",
+          "x": "\"Todos somos creadores y respetamos el trabajo de quienes crean. Realmente nos disgusta la idea de que la IA generativa pueda quitarle el trabajo a actores de doblaje o artistas.\" Dietsch dice que el mapa de 6 kilómetros de Join Us se hizo íntegramente a mano, y que las 15.000 líneas de diálogo hablado del juego fueron grabadas por actores humanos. \"Incluso para un juego indie muy pequeño, eso nos importaba muchísimo.\""
+        },
+        {
+          "t": "p",
+          "x": "Dietsch, que viene del cine, dice que lo que más le gusta de los videojuegos es la inmediatez. En el cine se escribe una idea en papel y hay que esperar dos, tres, cinco años a que alguien dé luz verde a la filmación. En los videojuegos, se puede tomar lo que se te ocurrió esa mañana y meterlo directo en el motor para probarlo con las manos."
+        }
+      ]
+    },
+    "games/games-gunz-steam-return": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/gunz-header.jpg",
+          "cap": "Crédito de imagen: Eurogamer"
+        },
+        {
+          "t": "p",
+          "x": "Gunz the Duel, el juego de acción en tercera persona de culto que se lanzó por primera vez en 2006, ha vuelto a Steam. Es el regreso largamente esperado de un juego que definió un género, pero problemas técnicos y acusaciones de uso de IA han proyectado una sombra sobre él."
+        },
+        {
+          "t": "p",
+          "x": "Gunz the Duel fue creado originalmente por MAIET Entertainment. El trabajo de llevarlo a plataformas modernas quedó en manos de Masangsoft. Este proyecto de resurrección se preparó durante varios años, y la expectativa se acumuló de forma natural entre los jugadores veteranos de PC que recuerdan Gunz."
+        },
+        {
+          "t": "p",
+          "x": "Esa expectativa se topó con la realidad cuando el juego se lanzó en Steam durante el fin de semana. Las críticas llegaron de golpe. Primero, siguen llegando reportes de que el juego sufre problemas técnicos considerables."
+        },
+        {
+          "t": "p",
+          "x": "\"Masangsoft es un colectivo de gente con talento. No solo lograron romper un juego de 20 años, sino que siguen encontrando nuevas formas de hacerlo peor.\" Eso es de una publicación del usuario Fizzion, quien también dijo que los eventos y regalos dentro del juego no funcionan bien y que la sensación de juego que tanto se quería ya no coincide con la original. \"Al cortar a un enemigo que bloquea, incluso contando el ángulo, casi no hay aturdimiento, y la consistencia ha bajado mucho.\""
+        },
+        {
+          "t": "video",
+          "yt": "5TTyE7cjDJ8"
+        },
+        {
+          "t": "p",
+          "x": "También hay acusaciones de que se usó IA generativa en todo el juego. La página de Steam de Gunz the Duel no incluye ningún aviso de IA generativa. Otro jugador, EclipseRT, escribió: \"Desde el uso descarado de IA por todo este juego, hasta un desarrollador que ni siquiera sigue las propias normas de Steam sobre divulgar el uso de IA, pasando por problemas de conexión NAT sin resolver que llevan el ping en las partidas por encima de 2000, la reaparición de bugs de la beta, y un equipo de desarrollo que guarda silencio total ignorando todos los comentarios de los jugadores. En el último año nadie ha dicho una palabra en Discord. La gente ya ha empezado a llamar IA a los propios desarrolladores. Sinceramente, ni se les puede culpar.\""
+        },
+        {
+          "t": "p",
+          "x": "Fuera de Steam la situación es parecida. El subreddit de Gunz the Duel, un punto de encuentro para los fans desde hace más de una década, está lleno de quejas. En el juego se ven usuarios con hacks, de pie sin recibir daño. También siguen apareciendo publicaciones que señalan una interfaz sosa, problemas de red y \"basura de IA\"."
+        },
+        {
+          "t": "p",
+          "x": "Claro que no todos la están pasando mal. Algunos jugadores aceptan las asperezas sin problema, contentos solo con reencontrarse con un viejo amigo. El juego también pasó por un periodo de mantenimiento de servidores para mejorar los problemas de red mencionados antes. Algunos de los peores problemas podrían resolverse con el tiempo."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, es un comienzo difícil para Gunz. Solo queda esperar que Masangsoft logre enderezar el barco al menos un poco, o que al menos haga que vuelva a funcionar el air dash en la pared."
+        }
+      ]
+    },
+    "games/games-james-pond-ai-suspicion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.gamespot.com/wp-content/uploads/2026/08/James-Pond.jpg",
+          "cap": "James Pond Legacy: The Pond is Not Enough"
+        },
+        {
+          "t": "p",
+          "x": "Hoy en día es un buen momento para los fans de los juegos retro. No dejan de salir recopilaciones, y por fin le llegó el turno a los fans de James Pond. El estudio System 3 anunció la colección James Pond Legacy: The Pond is Not Enough. Pero el tráiler de presentación se vio arrastrado por señalamientos de que usaba arte y assets de IA generativa. Cuando los comentarios que señalaban rasgos típicos de imágenes de IA se acumularon rápido, System 3 cerró temporalmente los comentarios públicos en YouTube. Aun así, no cambió su postura de que no se usó IA en el tráiler."
+        },
+        {
+          "t": "p",
+          "x": "A primera vista, es razonable sospechar que se usó IA generativa en el key art y en los renders de los personajes. Cada personaje de James Pond tiene ese aspecto suave y de ojos grandes típico de la generación de imágenes con IA, con un color que parece varias capas de filtro amarillo superpuestas. Eso suele ser resultado de un ajuste de preferencias. Modelos como ChatGPT o DALL-E tienden a usar por defecto un tono de 'hora dorada', porque se entrenaron con enormes cantidades de pinturas antiguas, fotos viejas e ilustraciones estilizadas con ese tinte amarillento."
+        },
+        {
+          "t": "p",
+          "x": "GameSpot le pidió su postura a System 3. La respuesta negó de frente la acusación de que se usó IA generativa en los personajes."
+        },
+        {
+          "t": "p",
+          "x": "\"System 3 ha confirmado [con el equipo de relaciones públicas] que no se usó ninguna IA generativa en la creación del arte de los personajes señalado en el tráiler. Los personajes de Pondverse se hicieron mediante un proceso liderado por personas que partió de los gráficos de píxeles originales de James Pond.\""
+        },
+        {
+          "t": "p",
+          "x": "Junto con eso llegaron documentos e imágenes que exponen el proceso de producción. La secuencia parte del arte de píxeles original, se redibuja en Illustrator y Photoshop, pasa por un render 3D y luego se retoca una vez más en Photoshop. Los comentarios del tráiler se reabrieron después, y el estudio publicó una entrada de blog explicando el proceso."
+        },
+        {
+          "t": "video",
+          "yt": "CFggndxGZk0"
+        },
+        {
+          "t": "p",
+          "x": "No es la primera vez que James Pond roza la IA generativa. La secuela legacy James Pond: Rogue AI fue duramente criticada por el creador original, Chris Sorrell, por usar esa tecnología. \"Odio casi todo lo que están haciendo con pasión.\" Eso fue lo que Sorrell dijo a Time Extension en una entrevista el año pasado."
+        },
+        {
+          "t": "p",
+          "x": "La colección reúne James Pond: Underwater Agent, James Pond 2: Robocod, James Pond 3: Operation Starfish y The Aquatic Games Starring James Pond and the Aquabats. Sale en octubre de 2026 como exclusivo de Switch 2. También incluye un archivo histórico interactivo con el arte dibujado a mano del original. Ese arte es mucho mejor."
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa sigue siendo un tema candente en el desarrollo de juegos, especialmente cuando se usa en assets de arte. Las empresas repiten la explicación de que eran assets provisionales antes de cambiarlos por arte hecho a mano. Pearl Abyss y Sandfall Interactive lo han dicho."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Larian, Swen Vincke, ha dicho antes que el estudio usó herramientas de IA generativa para explorar ideas de juegos nuevos, arte conceptual y texto de relleno. Casi de inmediato siguieron una retractación y una aclaración. Otros han marcado la línea contraria. Mega Crit, el estudio de Slay the Spire 2, dijo que prefiere elegir un dibujo \"más desordenado\" en lugar de uno que saque una máquina al concebir un juego."
+        }
+      ]
     }
   }
 }

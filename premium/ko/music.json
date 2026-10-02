@@ -5805,6 +5805,107 @@
           "x": "Hypebot의 결론은 이렇다. AI를 두려워할 일도, 창작 정체성을 통째로 넘길 일도 아니다. 도구로 뒤단의 마찰을 걷어내 시간을 되사고, 그 시간을 노래와 무대와 머치 테이블 앞의 날것 그대로의 연결에 쓴다. 합성된 소음이 무한한 시대에 개인의 이야기는 브랜드를 넘어선 경쟁력이다."
         }
       ]
+    },
+    "music/music-ethical-plugins": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI는 신나는 기술이어야 한다. 짧은 시간에 새 도구와 기법, 소리, 작업 방식이 쏟아졌다. 그런데 가장 큰 AI 회사 몇 곳은 그 가능성을 께름칙한 쪽으로 돌려놨다. 사람이 만든 음악을 통째로 삼킨 알고리즘이 다시 게워낸다."
+        },
+        {
+          "t": "p",
+          "x": "다행히 음악과 뮤지션을 먼저 놓는 회사도 있다. 여기서 말하는 윤리적 AI는 뮤지션·프로듀서·아티스트와 함께 도구를 만드는 브랜드다. “make my record sound like XYZ artist” 같은 쪽이 아니라 협업자에게서 소재를 라이선스해 쓴다. 무엇보다 당신의 음원을 제품 개선에 갖다 쓰지 않는다."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/01/landr-layers-blueprint-hero@2000x1500.jpg",
+          "cap": "앞은 LANDR Layers, 뒤는 LANDR Blueprint. 이미지 LANDR"
+        },
+        {
+          "t": "p",
+          "x": "LANDR. 마스터링은 AI 탄광의 카나리아였다. 2014년부터 알고리즘 마스터링을 팔았고, 동의한 엔지니어에게 직접 배우며 알고리즘을 다듬어왔다. 경쟁이 빡빡해진 지금도 가격과 유연성, 품질의 균형은 가장 낫다. 온라인 마스터링이 유통 서비스와 묶여 나오는 게 흠이라, 그게 싫으면 단독 플러그인을 따로 사야 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
+          "cap": "Roland와 Neutone이 함께 만드는 Project LYDIA. 이미지 Press"
+        },
+        {
+          "t": "p",
+          "x": "Neutone. 처음부터 윤리적 AI를 걸고 자체 녹음하거나 퍼블릭 도메인에서 가져온 데이터셋만 썼다. 그 데이터로 만든 Morpho는 실시간 입력의 음색을 AI 모델의 성질대로 바꾼다. 목소리로 드럼을 뽑고 기타 리프로 그레고리오 성가를 몰 수 있다는 뜻이다. 아티스트와는 모델 수익의 50%를 나눈다. 사람 심장 박동만으로 학습한 모델도 있다. 각 모델의 학습 방식과 출처는 플러그인 안에서 바로 확인된다. Roland와 함께 AI를 물리적 스톰프박스에 넣는 Project LYDIA도 진행 중이다."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2024/09/Voice-Swap-VST-plugin@2000x1500.jpg",
+          "cap": "Voice-Swap VST 플러그인. 이미지 Voice-Swap"
+        },
+        {
+          "t": "p",
+          "x": "Voice-Swap. AI 음성 복제는 일찍부터 평판이 나빴고 그럴 만했다. Voice-Swap은 처음부터 가수와 직접 손잡고 상업 음악에 합법으로 쓸 수 있는 아티스트 승인 음성 모델을 만들었다. 구독료의 50%는 참여 아티스트에게 그대로 간다. 윤리를 빼고 봐도 복제 기술이 업계 상위권이고, VST 플러그인과 커스텀 음성 모델 제작까지 된다."
+        },
+        {
+          "t": "p",
+          "x": "ACE Studio. 머리끝부터 발끝까지 AI인 워크스테이션에 전부를 걸었다. 반주 생성부터 스케치 한 장으로 곡 전체를 뽑는 것까지 AI 기능이 넘친다. 리뷰에서 텍스트-투-뮤직은 아직 아니라고 봤지만 AI 보컬 모델은 달랐다. 참여 뮤지션에게 대가를 지불한 덕에 마음 놓고 140개 보컬 모델을 뒤졌다. 놀랄 만큼 사실적이었고 섞고 겹쳐 자기 음색도 만들 수 있었다."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/08/moises-ai-daw-screen@2000x1500.jpg",
+          "cap": "Moises AI의 Stem Generator. 이미지 Moises AI"
+        },
+        {
+          "t": "p",
+          "x": "Moises AI. 스템 분리는 AI 논쟁에서 거의 유일하게 불평이 적다. 완성된 녹음을 조각으로 쪼개는 일은 DJ와 리믹서, 오디오 복원 작업자에게 판을 바꿨다. Moises AI는 뮤지션과 레이블, 플랫폼과 손잡고 학습 데이터를 전부 라이선스한다. 올해는 Charlie Puth가 최고 음악 책임자로 합류해 Jordan Rudess, Cory Henry와 나란히 섰다."
+        },
+        {
+          "t": "p",
+          "x": "Safari Audio Meaw Chain. 올해 나온 AI 음악 플러그인 중 가장 흥미롭다. DAW에서 오디오를 재생해 Meaw Chain에 분석시킨 뒤 텍스트로 방향을 적으면 몇 초 만에 플러그인 체인이 나온다. Safari는 고객 오디오로는 절대 학습하지 않겠다고 밝혔다. 서드파티 플러그인 목록이 늘고 있고 그 안의 개별 파라미터까지 잡아준다. 초판이라 아쉬운 점은 여럿이지만 윤리는 거기 끼지 않았다."
+        }
+      ]
+    },
+    "music/music-happyshrimp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/image1-e1787028035370.png",
+          "cap": "베타에 들어간 Alibaba의 AI 작곡 모델 HappyShrimp 1.0"
+        },
+        {
+          "t": "p",
+          "x": "Alibaba가 글로 쓴 프롬프트 하나를 완성된 노래로 바꾸는 AI 모델을 내놨다. HappyShrimp 1.0은 8월 17일 월요일 베타에 들어갔다고 항저우에 본사를 둔 이 회사가 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "HappyShrimp은 중국 레이블 그룹 Taihe Music Group과 아티스트 공동 창작, 콘텐츠 개발에서 함께한다. Taihe Rye Music과 Ocean Butterflies가 이 그룹 소속이다."
+        },
+        {
+          "t": "p",
+          "x": "사용자가 분위기나 이야기, 음악 스타일을 적으면 HappyShrimp이 멜로디와 편곡, 가사를 쓰고 직접 부른다. 가사를 직접 넣어 곡을 붙여달라 하거나 반주만 달라고 할 수도 있다. 음악을 배운 적이 없어도 된다는 게 회사 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "다루는 장르는 중국풍 음악과 팝, R&B/소울, 힙합, 록, 펑크, 일렉트로닉, 클래식, 재즈다. 프롬프트로 악기 편성과 보컬 스타일, 곡이 흐르는 동안 에너지가 어떻게 변하는지까지 지정한다. 소리를 뽑기 전에 곡의 구조와 리듬 전개, 화성 진행을 먼저 잡고 감정 톤과 에너지, 가사 의도를 함께 놓는다."
+        },
+        {
+          "t": "p",
+          "x": "모델을 만든 곳은 Alibaba가 2026년 3월에 세워 그룹 CEO Eddie Wu 아래 둔 AI 조직 Alibaba Token Hub다. 올해 앞서 나온 멀티모달 모델 HappyHorse와 월드 모델 HappyOyster를 잇는다."
+        },
+        {
+          "t": "p",
+          "x": "세계 최대 기술 기업 하나가 Suno와 Udio가 이름값을 쥔 시장에 뛰어든 셈이다. Suno는 6월에 54억 달러 기업가치로 4억 달러 넘게 모았고 이용자가 1억 명을 넘겼다고 말한다. 두 회사 모두 2024년 RIAA가 메이저 3사를 대리해 “mass infringement”, 대규모 침해를 이유로 소송을 걸면서 협상 테이블에 앉았다."
+        },
+        {
+          "t": "p",
+          "x": "중국 안쪽도 이미 붐빈다. Kunlun Tech는 Mureka 생성기와 Melodio 스트리밍을 굴리고, ByteDance는 모바일 음악 창작 도구를 갖고 있다. Tencent Music Entertainment의 Tianqin Lab은 Tencent AI Lab과 음악 모델을 만들었고, 창작 도구에 DeepSeek을 붙여 QQ Music으로 곧장 발행하게 했다."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba는 칩부터 클라우드, 프런티어급 AI 시스템까지 모델 아래 모든 층을 직접 갖고 있다. 8월 3일 내놓은 최대 모델 Qwen3.8-Max는 2조 4천억 파라미터다. 회사는 이를 Anthropic의 Claude Fable 5 다음가는 프런티어 시스템으로 놓았다."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba가 음악 사업에 손댄 건 처음이 아니다. 2013년 스트리밍 서비스 Xiami Music을 샀다가 2021년 2월 접었다. 지난 7월에는 엔터테인먼트 부문 해외 조직 Damai International이 아티스트 육성 레이블 ORCA를 세우고 전 세계 오디션을 열었다. IFPI에 따르면 중국은 2025년 20.1% 성장하며 독일을 제치고 세계 4위 음반 시장이 됐다."
+        }
+      ]
     }
   }
 }

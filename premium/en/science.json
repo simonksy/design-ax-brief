@@ -1839,6 +1839,313 @@
           "x": "There are implications for artificial intelligence too. Large language models like ChatGPT and Claude are trained entirely on text and produce text, yet plausibly mimic human reasoning. The human brain works differently. Kean believes that examining how human reasoning diverges from the way language models operate can offer clues for future AI design."
         }
       ]
+    },
+    "science/science-recall-bottleneck": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When an LLM gets a fact wrong, did it never learn it, or did it learn it but fail to retrieve it? The knowledge-profiling framework that Google Research scientists Nitay Calderon and Gal Yona released on August 12 points to the latter. A single accuracy metric blurs the two cases together, but the fixes differ completely. A storage failure calls for bigger models and more data; a retrieval failure calls for post-training and inference-time techniques."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling1_Overview.width-1250.png",
+          "cap": "The five knowledge profiles that divide the state of a fact."
+        },
+        {
+          "t": "p",
+          "x": "The researchers split storing a fact in the parameters into encoding, pulling it out without external cues into recall, and picking the right answer from options into recognition. They also moved the unit of analysis from questions to facts themselves. Each fact is classified as an encoding failure, a recall failure, direct retrieval, retrieval through reasoning, or inference without encoding."
+        },
+        {
+          "t": "p",
+          "x": "To measure this, the team built the WikiProfile benchmark from 2,150 facts drawn from Wikipedia. Each fact carries ten tasks: two for encoding, four for knowledge assessment, and four multiple-choice. Construction was handled by Gemini-2.5-Pro with thinking turned on, followed by search-engine-based filtering and a final manual check. The team evaluated 13 LLMs with thinking on and off, collecting roughly 4.5 million responses."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling4_Results1.width-1250.png",
+          "cap": "The five-profile distribution across 13 LLMs. Encoding failures drop sharply with scale, but recall failures persist."
+        },
+        {
+          "t": "p",
+          "x": "In Gemini-2.5-Pro, Gemini-3-Pro/Flash, and GPT-5, encoding has nearly saturated. Gemini-3-Pro and GPT-5 encoded 95-98% of facts yet failed to retrieve 26-34% of them directly, and even with thinking turned on, 11-12% were still wrong. The bottleneck has shifted from storing knowledge to using it. In the Gemma 3 family too, scaling up sharply cuts encoding failures, but recall failures make up an even larger share of the errors that remain."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling5_Results2.width-1250.png",
+          "cap": "Encoding and direct-retrieval rates for the bottom 20% and top 20% of facts by popularity. The gap is narrow in encoding and wide in retrieval."
+        },
+        {
+          "t": "p",
+          "x": "Retrieval is tied to the conditions under which a fact was learned. The further a question strays from the context, phrasing, or order it was learned in, the harder it is to pull out. Rare facts are encoded at rates similar to popular ones, yet the gap opens wide only in retrieval. The long-tail problem turns out to be about access, not capacity. Reversed questions follow the same pattern: asked as multiple choice, the reverse direction is actually easier, but asked as direct generation, it gets harder. The reversal curse is a retrieval problem."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/KnowledgeProfiling8_Results5.width-1250.png",
+          "cap": "The share of facts newly recovered when thinking is turned on. 40-65% of encoded facts are recovered, versus just 5-15% of unencoded facts."
+        },
+        {
+          "t": "p",
+          "x": "Thinking helps most exactly where direct retrieval is weakest. In models optimized for thinking, 40-65% of facts that were encoded but not immediately known were recovered, versus just 5-15% for facts that were never encoded. That suggests thinking opens a path to facts already stored, rather than constructing answers through multi-step reasoning. But thinking carries a compute cost, and when to turn it on remains an open question."
+        }
+      ]
+    },
+    "science/science-sign-language-sl2t": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google DeepMind unveiled SL2T, a translation model that converts sign language into text, on August 12. It is the first time sign-language AI has moved out of the lab and into a consumer product. The feature that translates American Sign Language (ASL) into English launches first in Gboard and Live Transcribe on the Pixel 11, with supported devices and languages set to expand gradually."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/RDh3NiE22dtisgmsRxzthq0CCSjdL9k_fo7bOVbv7kKrIyacgNFTHfe9p3zGznT96bzPH8PX1UNkKu2Fasx-VbuLo0Dn47mDntjsbVYyJqMLCVTNQTk=w1440-h810-n-nu",
+          "cap": "Gboard's sign-language dictation, used to type in sign language while holding the phone with one hand."
+        },
+        {
+          "t": "p",
+          "x": "Just as hearing users dictate by voice, deaf users can now input in sign language right where they used to type. That covers web searches, messages, documents, and even asking Gemini to do tasks. In Live Transcribe, they can simply sign a reply instead of exchanging text. Testers said signing in ASL felt faster, more natural, and more enjoyable than typing in English."
+        },
+        {
+          "t": "p",
+          "x": "Sign language isn't English mapped onto the hands. More than 200 sign languages worldwide are independent natural languages with their own grammar and vocabulary, so they need genuine machine translation rather than swapping words one by one. Meaning is made by the hands, arms, torso, head, and face moving together, which also places a heavy computer-vision burden on tracking all of that at a high frame rate. That is why early attempts like sign-language gloves hit a wall."
+        },
+        {
+          "t": "p",
+          "x": "SL2T was trained on more than 100,000 hours of data gathered from over 50 sign languages, about a quarter of it ASL. Training on a mix of languages, dialects, and skill levels together let the model learn shared structure and outperform single-language models. Privacy is protected by design: only the pose coordinates extracted on-device by MediaPipe Holistic are sent to the server, and the original video is discarded immediately."
+        },
+        {
+          "t": "p",
+          "x": "SL2T also skips the intermediate gloss notation that earlier research relied on, since gloss cannot capture nuances like non-manual signals and spatial structure. By converting the coordinate sequence straight into text, it removes vocabulary limits and lets translation quality scale with the amount of data. On FLEURS-ASL (sd-test), which measures ASL-English translation, SL2T scored 70 BLEURT zero-shot. The team also tackled real-world challenges such as cutting streaming latency, blocking hallucinations on non-sign input, and handling the 10% of signers who are left-handed as well as one-handed signing."
+        },
+        {
+          "t": "p",
+          "x": "The project ran on the principle of building with the deaf community, not just for it. It began with an idea from Sam Sepah, a deaf Google employee, and the community's perspective was built into every stage, from data collection to user research to impact assessment. For responsible deployment, the team formed the AI Sign Language Advisory Council (AISLAC), bringing together deaf organizations and experts worldwide, and released a joint impact report detailing the features and limits of SL2T alongside the 1.0 launch."
+        },
+        {
+          "t": "p",
+          "x": "The team plans to add more sign languages and expand into sign-language generation and frontier AI features. SL2T is available at no extra cost in Gboard and Live Transcribe on the Pixel 11."
+        }
+      ]
+    },
+    "science/science-vivodyne-human-datacenter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vivodyne announced that it has opened what it calls the “world's largest human biology datacenter.” Across 12 robotic labs called HIVE, it runs controlled trials every year on 3.1 million large human tissues. The company estimates this scale at roughly twice the combined total of every clinical trial running in the United States."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/08/A-row-of-automated-human-tissue-testing-machines-in-Vivodynes-Human-Datacenter-1024x683.jpg",
+          "cap": "Rows of automated human-tissue testing equipment inside Vivodyne's Human Datacenter. [Vivodyne]"
+        },
+        {
+          "t": "p",
+          "x": "Launched alongside it, the Series 2 TissueDisk is a wafer-sized biology chip. It grows hundreds of functioning large human tissues simultaneously and is built start to finish on Vivodyne's own robotic production line. Eight of the world's largest pharmaceutical companies have already paid for early access to the platform."
+        },
+        {
+          "t": "p",
+          "x": "Co-founder and CEO Andrei Georgescu says that together, TissueDisk and the HIVE labs create an experimental environment that neither pharmaceutical research nor AI has ever had. The scale is large enough, he says, to apply the reinforcement-learning techniques that grew language models to human physiology itself. For drugmakers, it means seeing how real human tissue responds while targets, chemical structures, dosage, and safety can still be changed. Millions of therapeutic interventions are applied to living human tissue, with causal outcomes measured directly through 3D scanning, transcriptomic sequencing, and deep proteomics."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/08/6a5156e97215b1f019eebbae_65c1501946fecb29765d655f_Dan-Huh-and-Andrei-Georgescu_sm-696x464.jpeg",
+          "cap": "Vivodyne began as an idea Andrei Georgescu (left, now CEO) had while pursuing his Ph.D. in the bioengineering lab of UPenn professor Dan Huh (right, now CSO). [Penn Engineering]"
+        },
+        {
+          "t": "p",
+          "x": "“Superintelligence in biology is needed now more than ever, because we're running out of diseases that today's simple, single-target drugs can fix,” Georgescu said. “You can't fix a car by turning one screw. The idea that the complex breakdowns behind cancer, fibrosis, autoimmune disease, and neurological disease can be fixed with a conventional single-target drug is wishful denial.” Since you can't put people at risk to get the data, the approach instead grows millions of large human tissues that build their own blood vessels and immune cells. That tissue grows, gets sick, bleeds, and scars."
+        },
+        {
+          "t": "p",
+          "x": "Vivodyne grows more than 20 types of human organ tissue, including liver, lung, intestine, bone marrow, pancreas, kidney, eye, and lymph node, in both healthy states and patient-derived disease states. It also has disease-specific versions covering fibrosis, site-specific solid tumors, inflammation, metabolic disease, and vascular disease. The experiments accumulated for each organ train causal multimodal models, and the idea is that linking those models across organ systems adds up to a world model of the human body."
+        },
+        {
+          "t": "p",
+          "x": "That model answers what happens when a drug engages a given pair of receptors, what follows when a biological pathway is cut, and why an unexpected side effect arises. Its predictions are then refined by validating them at scale back in human tissue."
+        }
+      ]
+    },
+    "science/science-vlash-robot-lookahead": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new AI system cuts robot response latency by more than 10x without any extra computation. Robots driven by vision-language-action (VLA) models tend to move in stops and starts: reach, pause, adjust, pause again. That is because of how they run, finishing one batch of instructions and then waiting for the next batch to be computed. This latency has made VLA robots hard to use for tasks that require continuous real-time interaction."
+        },
+        {
+          "t": "p",
+          "x": "VLASH removes that wait by planning the next move while the current one is still being carried out. In experiments, robots using VLASH finished some tasks 1.5-2x faster while keeping most or all of their accuracy. Maximum response latency dropped by up to 11.8x, depending on the hardware used."
+        },
+        {
+          "t": "video",
+          "yt": "IgN7CNicJS8"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from MIT, NVIDIA, Caltech, UC Berkeley, UC San Diego, and China's Tsinghua University posted the paper on arXiv and will present it at the International Conference on Intelligent Robots and Systems this fall. An earlier version of the paper listed a speedup of more than 30x, but the researchers told Live Science that those experiments used longer action sequences and slower hardware. They explained that the 11.8x figure may better reflect current real-world conditions."
+        },
+        {
+          "t": "p",
+          "x": "A VLA model combines camera images, human instructions, and the robot's current state and turns them into actual movement. While the robot is finishing a batch of motion, VLASH estimates the ending point from its current position and planned motion, then plans the next batch from that predicted state. Rather than waiting for a foot to touch the ground before deciding the next step, it decides in advance, before the foot lands. Unlike a world model that renders the entire surrounding environment, VLASH predicts only the robot itself. Because it draws future states from motion that is already planned, it needs no separate prediction model and no extra inference step at execution time."
+        },
+        {
+          "t": "p",
+          "x": "The researchers tested two VLA models and two robot platforms on a laptop equipped with an NVIDIA RTX 5090 GPU. They ran pick-and-place, stacking, and sorting tasks 20 times each for every method, and added fast-reaction tasks like table tennis and whack-a-mole. In those two tasks, the target moves while the robot is still computing. Rather than predicting that movement, VLASH processes 15-30 new observations per second, letting it quickly catch changes such as an object being moved."
+        },
+        {
+          "t": "p",
+          "x": "Speed isn't the same as safety. Roshni Lulla, co-founder and chief research officer of the Human-Centered Robotics Lab, who was not involved in the research, said, “Being more responsive is a clear benefit, but I'm not sure there's evidence that safety has improved.” She said it should be tested in a room with people present, where another agent is changing the environment. Lulla summed up the results narrowly: a processing-time bottleneck was removed while existing performance was preserved."
+        }
+      ]
+    },
+    "science/science-machine-culture": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI produces solutions that people would rarely think of. What if machines went beyond solving individual problems and discovered entirely new strategies? Could such discoveries become part of human knowledge?"
+        },
+        {
+          "t": "p",
+          "x": "The Center for Humans and Machines at the Max Planck Institute for Human Development, together with researchers from the Toulouse School of Economics and Humboldt University of Berlin, put this question to the test for the first time. According to results published in Nature Communications, under certain conditions people accepted strategies discovered by machines and passed them down and preserved them across generations."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-ai-can-contribute.jpg",
+          "cap": "A machine's strategy becomes human culture. Credit: MPI for Human Development"
+        },
+        {
+          "t": "p",
+          "x": "The study began with the observation that AI keeps producing strategies that surprise experts, as seen when it found unfamiliar yet powerful moves in Go and chess. But the conditions under which such discoveries would endure in human thinking and behavior were unclear."
+        },
+        {
+          "t": "p",
+          "x": "The researchers identified three conditions: a strategy must be hard to discover at first, yet learnable, and its advantage must be clearly visible. Only then can it spread through a community and persist over time."
+        },
+        {
+          "t": "p",
+          "x": "Lead author Levin Brinkmann, a researcher at the Center for Humans and Machines, said, “Human cultural evolution relies on knowledge being passed down through countless individuals and generations. The question now is whether a strategy discovered by a machine can also become part of that inherited knowledge. That is exactly what we looked at.”"
+        },
+        {
+          "t": "p",
+          "x": "1,155 people took part in the experiment. The goal was to score as many points as possible in a task with a specially designed reward structure. The optimal strategy required accepting a small loss early on to gain a much larger payoff later, which ran directly against people's instinct to avoid short-term losses at all costs."
+        },
+        {
+          "t": "p",
+          "x": "Participants were grouped into chains that learned from each other across generations. Some groups were made up only of humans, while others included AI agents from the start. These agents had already found the optimal strategy by solving the task with a learning algorithm beforehand. Participants could see and reference the successful solutions of the previous generation."
+        },
+        {
+          "t": "p",
+          "x": "The result was clear. The optimal strategy almost never emerged in groups without AI; among 600 people, only one found the best solution on their own. In groups that included AI, by contrast, the machine-discovered strategy spread frequently and survived across generations. In nine of 15 mixed human-machine groups, the strategy remained in use throughout the experiment."
+        },
+        {
+          "t": "p",
+          "x": "Participants showed a clear tendency to follow the most successful examples. Most modeled their behavior on whichever person or agent had the best score, which is how the machine's strategy spread and persisted."
+        },
+        {
+          "t": "p",
+          "x": "Co-lead author Thomas Eisenmann, also a researcher at the center, said, “There is a lot of debate over whether AI makes people more dependent. Our results point to a different possibility: if people can understand a machine's discovery, they learn new abilities, retain them over time, and expand their cultural repertoire.”"
+        },
+        {
+          "t": "p",
+          "x": "This study adds empirical evidence to the concept of “machine culture.” Much of AI's current capability comes from machines learning human knowledge and culture, as with large language models trained on vast amounts of human writing. This result shows that the flow is not one-way: people, too, build their abilities on machine discoveries. It is an era of machine culture, in which humans and machines are bound into a single cultural evolutionary process and become sources of innovation for each other."
+        }
+      ]
+    },
+    "science/science-photonic-inverse-design": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SMkTm2nQsCXdJGJyMJkCLG.jpg",
+          "cap": "A photonic microchip is about the size of a coin. It shows computer-designed nanostructures, including a wavelength splitter, a mode sorter, and a mirror."
+        },
+        {
+          "t": "p",
+          "x": "Three components used in photonic microchips have been shrunk by up to 500 times. The shrinking was done not by people but by an AI algorithm that solves the design problem in reverse, and the researchers described the results as going “beyond human intuition.” The extra space freed up means the chip can carry more functions."
+        },
+        {
+          "t": "p",
+          "x": "Unlike ordinary chips that use electrons, photonic chips carry information using particles of light. Because signals travel at the speed of light, processing and transmission are fast, and different wavelengths can carry different data, giving wide bandwidth. Less energy leaks out as heat as well. That is why they are used wherever fast, high-volume transmission is needed, such as fiber-optic communication, data centers, AI, autonomous-driving lidar, and quantum computing."
+        },
+        {
+          "t": "p",
+          "x": "Inside the chip, instead of metal wiring, waveguides just a few micrometers wide carry the light. The wavelength splitter, spatial mode sorter, and mirror separate wavelengths and light patterns and steer their direction within an area that is only a fraction of the width of a human hair. The researchers made these three components ultra-small, and the results were published in Nature Communications on May 28."
+        },
+        {
+          "t": "p",
+          "x": "The method works like this: the algorithm is first told how the light should behave, along with manufacturing constraints such as how sharply a nanostructure can bend. The algorithm then works backward, testing and refining designs until it finds a delicate nanostructure that produces the desired result."
+        },
+        {
+          "t": "p",
+          "x": "Toby Bi, the paper's first author and a researcher at the Max Planck Institute for the Science of Light, said, “In inverse design, we define what we want the light to do, and optimization finds the structure that does it. Often it's a structure a human would never have drawn.” It is also notable that the same framework performs three jobs on one chip: splitting light by wavelength, sorting it by spatial mode, and acting as the small mirror that forms an on-chip optical resonator."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DoA8fio9BGt4TnCPpvrvUZ.gif",
+          "cap": "The component shape refined by the AI algorithm through iterative optimization."
+        },
+        {
+          "t": "p",
+          "x": "Photonic chip components are usually designed by hand, starting from a proven layout and painstakingly refining it to fit new performance requirements. This approach is slow, and the range of shapes that can be tried is narrow."
+        },
+        {
+          "t": "p",
+          "x": "The researchers chose a relatively thick silicon nitride for the components. At 400 to 800 nanometers thick, versus 150 to 400 nanometers for standard silicon, it loses less light and confines wavelengths more tightly. A mirror just over 11 μm long reflected up to 98.5 percent of incoming light, and when paired on either side of a waveguide, light bounced more than 100 times before escaping. The wavelength splitter is about 5 μm, roughly the size of a single bacterium, and the spatial mode sorter is a bit larger."
+        },
+        {
+          "t": "p",
+          "x": "The three components have not yet been combined into a single photonic integrated circuit. That step must still be taken for a complete photonic chip that takes advantage of the higher density to emerge. The researchers wrote in the paper, “These results show that small, fabrication-tolerant, and customizable optical components are achievable.”"
+        },
+        {
+          "t": "p",
+          "x": "Efforts to weave AI into semiconductor design and manufacturing have surged in recent years. Some cases have cut design cycles from weeks to hours and sharply lowered manufacturing costs, and there are systems that can produce usable chip designs from just a 200-word prompt. Google's AlphaChip produced a layout described as “superhuman” and went into actual production of the company's AI chips."
+        }
+      ]
+    },
+    "science/science-recursive-self-improvement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg",
+          "cap": "Credit: Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "The boldest promise the AI industry makes today is recursive self-improvement: the idea that AI will soon improve itself with little human involvement. Already, LLMs write code, generate synthetic training data, and optimize the chips they run on."
+        },
+        {
+          "t": "p",
+          "x": "A new study suggests that moment is further off than it seems. The researchers confirmed that AI agents still cannot carry out open-ended AI research — free-form inquiry without a predetermined answer that requires judgment and discernment."
+        },
+        {
+          "t": "p",
+          "x": "A multi-institution team led by Peter Kirgis and Sayash Kapoor of Princeton University found that agents can solve the engineering problems AI research requires, but lack the judgment and creativity to produce original work worthy of top machine learning conferences. It's a sign that optimistic timelines for automating AI research have outrun the evidence."
+        },
+        {
+          "t": "p",
+          "x": "Existing evaluations mostly dealt with narrow tasks whose answers could be checked. The researchers instead proposed “shadow evaluation,” posing an AI with the exact research question from a strong paper that had not yet been published. The targets were two papers submitted to NeurIPS 2026. One asked whether weight editing could control the “personas” that govern a model's behavior; the other asked for a detector that could catch when a model predicting from tabular data loses reliability. Because the papers weren't public yet, there was no way to memorize or search for the answers."
+        },
+        {
+          "t": "p",
+          "x": "The experiment used Anthropic's Claude Opus 4.8 running on the open-source software OpenClaw. Each agent was given six days, $3,000 in Anthropic API credits, a GPU budget, its own virtual computer, and web access. The original papers' authors graded the work themselves, as if reviewing for a conference."
+        },
+        {
+          "t": "p",
+          "x": "The engineering was fine. The agents surveyed the literature, ran hundreds of experiments, and organized results. “But they were clearly bad at doing the research itself,” Kapoor says. They ran bizarre experiments, such as testing hypotheses on tiny amounts of synthetic data, failed to write up their own work clearly, and left no new contribution behind."
+        },
+        {
+          "t": "p",
+          "x": "What held them back was creativity and judgment. They didn't explore enough ideas before latching onto a hopeless approach too quickly. They came up with ambitious hypotheses similar to what the original authors had first proposed, then abandoned them on their own after seeing only weak data. They couldn't back out of failed paths or restructure their approach. There was no reward hacking — no hiding or distorting results."
+        },
+        {
+          "t": "p",
+          "x": "There are limits to the study. It covered only two papers, and the graders knew the work came from AI. The researchers are now running the same experiment with Anthropic's newest model, Mythos."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic cofounder Jack Clark wrote in his newsletter Import AI that “today's AI systems have a consistent lack of valuable, intuitive creativity, and can be extremely capable engineers while still having mechanical, formulaic thinking habits that may make it hard for them to be good researchers.” He called it a “bearish signal” for short timelines to recursive self-improvement."
+        },
+        {
+          "t": "p",
+          "x": "Kapoor sums up the remaining question this way: “Like the invention of the transformer, every major advance in this field has required a creative leap.” Whether grinding through narrow tasks alone can still reach self-improvement is, he says, “the trillion-dollar question right now.”"
+        }
+      ]
     }
   }
 }

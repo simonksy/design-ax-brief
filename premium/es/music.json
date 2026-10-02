@@ -1874,6 +1874,107 @@
           "x": "La conclusión de Hypebot es esta: no hay que temer a la IA ni entregarle por completo la identidad creativa. Hay que usar las herramientas para eliminar la fricción de fondo y recuperar tiempo, y dedicar ese tiempo a la conexión cruda y directa de las canciones, los conciertos y la mesa de merchandising. En una era de ruido sintético infinito, la historia personal es una ventaja competitiva que va más allá de la marca."
         }
       ]
+    },
+    "music/music-ethical-plugins": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La IA debería ser una tecnología emocionante. En poco tiempo, ha hecho brotar nuevas herramientas, técnicas, sonidos y formas de trabajar. Sin embargo, algunas de las mayores empresas de IA han torcido ese potencial hacia algo incómodo: algoritmos que se tragaron entera la música hecha por humanos la están regurgitando."
+        },
+        {
+          "t": "p",
+          "x": "Por suerte, hay empresas que ponen primero a la música y a los músicos. La IA ética de la que hablamos aquí designa a marcas que construyen sus herramientas junto con músicos, productores y artistas. En lugar de “make my record sound like XYZ artist”, licencian el material directamente de sus colaboradores. Sobre todo, no usan tu música para mejorar sus productos."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/01/landr-layers-blueprint-hero@2000x1500.jpg",
+          "cap": "Delante, LANDR Layers; detrás, LANDR Blueprint. Imagen: LANDR"
+        },
+        {
+          "t": "p",
+          "x": "LANDR. El mastering fue el canario en la mina de la IA. Vende mastering algorítmico desde 2014 y ha refinado sus algoritmos aprendiendo directamente de ingenieros que lo consintieron. Incluso con la competencia más apretada, sigue ofreciendo el mejor equilibrio entre precio, flexibilidad y calidad. Su defecto es que el mastering en línea viene empaquetado con servicios de distribución, así que quien no quiera eso debe comprar el plugin independiente por separado."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/07/Roland-Neutone-Project-LYDIA-hero-credit-press@2000x1500.jpg",
+          "cap": "Project LYDIA, creado junto por Roland y Neutone. Imagen: Press"
+        },
+        {
+          "t": "p",
+          "x": "Neutone. Desde el inicio apostó por la IA ética, usando solo grabaciones propias o conjuntos de datos tomados del dominio público. Morpho, construido con esos datos, transforma el timbre de una entrada en tiempo real según el carácter del modelo de IA. Esto significa que se puede sacar una batería de una voz o impulsar un canto gregoriano con un riff de guitarra. Reparte el 50% de los ingresos del modelo con los artistas. Un modelo se entrenó usando solo un latido humano. El método de entrenamiento y las fuentes de cada modelo pueden revisarse directamente dentro del plugin. También está en marcha Project LYDIA, creado con Roland para meter la IA en una pedalera física."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2024/09/Voice-Swap-VST-plugin@2000x1500.jpg",
+          "cap": "El plugin VST de Voice-Swap. Imagen: Voice-Swap"
+        },
+        {
+          "t": "p",
+          "x": "Voice-Swap. La clonación de voz con IA tuvo mala reputación desde temprano, y con razón. Desde el inicio, Voice-Swap se asoció directamente con cantantes para crear modelos de voz aprobados por artistas que pueden usarse legalmente en música comercial. El 50% de las tarifas de suscripción va directo a los artistas participantes. Dejando la ética de lado, su tecnología de clonación está entre las mejores del sector, y también ofrece plugins VST y creación de modelos de voz personalizados."
+        },
+        {
+          "t": "p",
+          "x": "ACE Studio. Lo apuesta todo a una estación de trabajo que es IA de principio a fin. Sus funciones de IA van desde generar acompañamientos hasta producir una canción completa a partir de un solo boceto. La reseña encontró que el texto a música todavía no estaba a la altura, pero los modelos vocales de IA fueron distintos. Como se pagó a los músicos participantes, fue posible explorar sin reparos 140 modelos vocales. Resultaron sorprendentemente realistas, y se podían mezclar y superponer para construir un timbre propio."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/08/moises-ai-daw-screen@2000x1500.jpg",
+          "cap": "El Stem Generator de Moises AI. Imagen: Moises AI"
+        },
+        {
+          "t": "p",
+          "x": "Moises AI. La separación de stems recibe casi las únicas quejas mínimas en el debate sobre IA. Dividir grabaciones terminadas en piezas cambió las reglas del juego para DJs, remixadores y restauradores de audio. Moises AI se asocia con músicos, sellos y plataformas, y licencia todos sus datos de entrenamiento. Este año, Charlie Puth se incorporó como director de música, junto a Jordan Rudess y Cory Henry."
+        },
+        {
+          "t": "p",
+          "x": "Safari Audio Meaw Chain. Es el plugin de música con IA más interesante lanzado este año. Se reproduce audio en el DAW para que Meaw Chain lo analice, se escribe una dirección en texto, y en segundos sale una cadena de plugins. Safari ha dicho que nunca entrenará con audio de sus clientes. Su lista de plugins de terceros compatibles sigue creciendo, y hasta detecta los parámetros individuales dentro de ellos. Al ser su primera versión, tiene varios puntos flojos, pero la ética no es uno de ellos."
+        }
+      ]
+    },
+    "music/music-happyshrimp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/image1-e1787028035370.png",
+          "cap": "El modelo de composición con IA de Alibaba, HappyShrimp 1.0, ya en beta"
+        },
+        {
+          "t": "p",
+          "x": "Alibaba lanzó un modelo de IA que convierte un único prompt escrito en una canción terminada. La compañía, con sede en Hangzhou, dijo que HappyShrimp 1.0 entró en beta el lunes 17 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "HappyShrimp colabora con el grupo discográfico chino Taihe Music Group en cocreación con artistas y desarrollo de contenido. Taihe Rye Music y Ocean Butterflies pertenecen a ese grupo."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el usuario escribe un ambiente, una historia o un estilo musical, HappyShrimp escribe la melodía, el arreglo y la letra, e interpreta las voces. También se pueden aportar letras propias para que el modelo las musicalice, o pedir solo el acompañamiento instrumental. La compañía dice que no se necesita formación musical."
+        },
+        {
+          "t": "p",
+          "x": "Los géneros que cubre incluyen música de estilo chino, pop, R&B/soul, hip-hop, rock, funk, electrónica, clásica y jazz. Los prompts pueden especificar la instrumentación, el estilo vocal y cómo cambia la energía a medida que avanza la canción. Antes de generar el sonido, primero define la estructura de la canción, el desarrollo rítmico y la progresión de acordes, junto con el tono emocional, la energía y la intención de la letra."
+        },
+        {
+          "t": "p",
+          "x": "El modelo proviene de Alibaba Token Hub, la organización de IA que Alibaba creó en marzo de 2026 bajo el CEO del grupo, Eddie Wu. Sigue al modelo multimodal HappyHorse y al modelo de mundo HappyOyster, ambos lanzados antes este año."
+        },
+        {
+          "t": "p",
+          "x": "Una de las mayores empresas tecnológicas del mundo ha entrado en un mercado donde Suno y Udio tienen el reconocimiento de marca. Suno recaudó más de 400 millones de dólares en junio con una valoración de 5.400 millones de dólares y dice haber superado los 100 millones de usuarios. Ambas empresas se sentaron a negociar después de que la RIAA demandara en 2024, en representación de las tres grandes discográficas, por “infracción masiva” (mass infringement)."
+        },
+        {
+          "t": "p",
+          "x": "Dentro de China, el terreno ya está saturado. Kunlun Tech opera el generador Mureka y el servicio de streaming Melodio, y ByteDance tiene su propia herramienta móvil de creación musical. Tianqin Lab, de Tencent Music Entertainment, construyó un modelo musical con Tencent AI Lab e incorporó DeepSeek a su herramienta de creación, permitiendo publicar directamente en QQ Music."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba controla cada capa debajo del modelo mismo, desde los chips hasta la nube y los sistemas de IA de frontera. Su modelo más grande, Qwen3.8-Max, lanzado el 3 de agosto, tiene 2,4 billones de parámetros. La compañía lo posiciona como un sistema de frontera justo por detrás de Claude Fable 5 de Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "No es la primera incursión de Alibaba en la música. Compró el servicio de streaming Xiami Music en 2013 y lo cerró en febrero de 2021. El pasado julio, Damai International, el brazo internacional de su división de entretenimiento, lanzó el sello de desarrollo de artistas ORCA y realizó audiciones en todo el mundo. Según la IFPI, China creció un 20.1% en 2025, superando a Alemania para convertirse en el cuarto mercado discográfico más grande del mundo."
+        }
+      ]
     }
   }
 }

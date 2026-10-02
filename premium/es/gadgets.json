@@ -2104,6 +2104,463 @@
           "x": "Quien quiera recibir unas gafas Ray-Ban Meta gratuitas puede solicitarlas en el sitio web de Vision Ireland o llamando a la línea dedicada, +353 1 882 1910. Vision Ireland se encarga de seleccionar a los beneficiarios, de la capacitación presencial y del apoyo posterior."
         }
       ]
+    },
+    "gadgets/gadgets-antigravity-local-llm-files": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las herramientas de IA agéntica se han metido en el flujo de trabajo de la gente común más rápido de lo esperado. Una herramienta que toca y manipula archivos directamente es tan útil como costosa cuando se equivoca. Un chatbot que inventa cosas es solo molesto; un agente que maneja archivos y se descarrila lo hace dentro de tus archivos y carpetas reales."
+        },
+        {
+          "t": "p",
+          "x": "Así que esta vez, en lugar de mirar la capacidad generativa, miré cómo una herramienta maneja lo que ya existe. Le di a las dos herramientas que más uso, Antigravity y un LLM local, la misma tarea de oficina, y observé si seguían mis reglas."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de las comparaciones juzgan la calidad del resultado. Ese es el criterio equivocado para una herramienta que tiene acceso a archivos y está a punto de tocar documentos importantes. Tan importante como los benchmarks es si una herramienta entiende la estructura en la que entra, o si ve todo como un lienzo en blanco para pintar a su gusto. Mi bóveda de Obsidian fue un buen banco de pruebas. Errores pequeños, como wikilinks que no apuntan a nada, o campos de frontmatter inventados sin comprobar el esquema existente, se acumulan sin ser muy visibles. La carpeta no colapsa a simple vista y la herramienta reporta éxito, pero con el tiempo la carpeta se convierte en un basurero que nadie puede tocar."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/antigravity-restructuring-messy-meeting-note-with-preview.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "Una pantalla que muestra a Antigravity reestructurando una nota de reunión desordenada."
+        },
+        {
+          "t": "p",
+          "x": "La tarea básica era reestructurar un solo archivo. Le pedí que le pusiera un título a una nota de reunión desordenada, añadiera un resumen arriba y organizara los puntos de acción abajo. Antigravity dividió el contenido por temas de una forma que se pasaría por alto de un vistazo. El modelo local también impuso una estructura, pero de forma algo más mecánica (para referencia, la temperatura era 0,6). Ambos acertaron con el frontmatter."
+        },
+        {
+          "t": "p",
+          "x": "Lo siguiente fue una tarea de varios pasos. Le di las mismas cinco notas y le pedí que extrajera un hilo común y construyera una nota de síntesis que enlazara con wikilinks a cada fuente. Antigravity encontró cuatro temas que atravesaban las cinco notas y ubicó la postura de cada nota sobre un mismo eje. El modelo local también encontró cuatro, y sus wikilinks también fueron correctos, pero se leían más como resúmenes de una línea que como temas. Ambos terminaron. Pero Antigravity leyó lo que las cinco piezas decían juntas, mientras que Qwen las leyó una por una y las reportó una por una."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-pkm-synthesis-done-with-four-major-themes-in-lm-studio.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "Qwen terminando una nota de síntesis con cuatro temas en LM Studio."
+        },
+        {
+          "t": "p",
+          "x": "La diferencia se abrió en torno a dónde colocar la nueva nota. Antigravity revisó el conjunto de carpetas, reconoció que se trataba de un texto sobre principios conceptuales y eligió la carpeta 'notes/ux'. El nombre del archivo siguió la convención de mayúsculas tipo oración que uso, copió exactamente el esquema de frontmatter, y enlazó con wikilinks a notas existentes en la misma carpeta, insertando la nueva pieza entre sus vecinas. El modelo local también leyó el archivo de configuración y al final encontró la carpeta correcta, pero se saltó varios pasos de razonamiento en el camino. Primero clasificó esas notas como 'documentos huérfanos' antes de corregirse a sí mismo, y tenía la costumbre de querer escribir en el nivel superior de la bóveda cuando no estaba seguro."
+        },
+        {
+          "t": "p",
+          "x": "Ambos terminaron lo que se les pidió. Eso es lo mínimo que se espera de un agente. Lo que marcó la diferencia fue la atención. Antigravity leyó antes de escribir en cada tarea. Qwen también mostró destellos de ese mismo instinto, en los momentos en que reconocía un cambio que no hacía falta hacer. Aun así, si tuviera que entregar una carpeta llena de archivos importantes, se la daría a Antigravity. No es que el LLM local destroce carpetas, sino que Antigravity es un poco más cuidadoso."
+        }
+      ]
+    },
+    "gadgets/gadgets-google-pet-memory-cats": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Para la persona que reseña hogar inteligente en The Verge, lo más útil de una cámara de seguridad es poder vigilar a los animales que entran y salen de casa. El problema es que la avalancha de alertas acaba enterrando lo que realmente importa. Por eso había motivos para esperar algo de Pet Memory cuando Google lo añadió a Gemini for Home."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0001_IMG_8622.jpg?quality=90&strip=all",
+          "cap": "Boone se acerca mucho a la Google Nest Cam. Foto de Jennifer Pattison Tuohy / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Pet Memory es una función pensada para enseñarle a Google Home quiénes son las mascotas de la casa. Una cámara Nest pasa de decir “se vio un animal” a “se vio qué animal”, y la casa responde según esa información. El plan era distinguir a tres gatos para que un comedero se activara automáticamente. Después de dos semanas, Gemini seguía sin poder diferenciarlos."
+        },
+        {
+          "t": "p",
+          "x": "Que las cámaras pasen de solo avisar de movimiento a describir lo que vieron es algo reciente. Nest separó personas de animales en 2017 con la Nest Cam IQ, y más tarde añadió detección de animales y descripciones por IA. Ring, Wyze y Apple Home también añadieron descripciones por IA. Google Home es el primero en intentar llamar a cada individuo por su nombre."
+        },
+        {
+          "t": "p",
+          "x": "El mecanismo es simple. Compara la descripción que el usuario escribe en Gemini con la que Gemini genera a partir del video de la cámara. El gerente de producto de Google Home, Rudra Bhatt, lo explicó así: “If these are the same, we will replace the pets with the name in the caption”."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0006_IMG_8456.jpg?quality=90&strip=all",
+          "cap": "Smokey, el único gato que Google Home recordó. Todo gato que capta la Nest Cam se convierte en Smokey."
+        },
+        {
+          "t": "p",
+          "x": "Las condiciones y el costo tampoco son livianos. Se necesita el Google Home Advanced Plan de 20 dólares al mes, y en las pruebas solo funcionó con cámaras Nest. Al ser exclusivo de cámaras de interior, no se pudo usar con el gato que entra y sale por la puerta principal. Y, sobre todo, a diferencia de Familiar Faces, no crea un perfil visual para cada individuo. No hay proceso de entrenamiento, ni forma de subir fotos, ni manera de corregir un error. Se ingresan el nombre y la raza, y se supone que el resto se resuelve solo."
+        },
+        {
+          "t": "p",
+          "x": "Boone, un gato tipo esmoquin de patas blancas; Osa, una gatita atigrada; y Smokey, un gato grande gris y blanco. Al escribir descripciones más detalladas, el sistema respondió que no podía procesar la información adicional, y acto seguido llamó Smokey a todos los gatos. Bhatt mismo admitió que funciona bien con una sola mascota y puede distinguir un perro de un gato, pero le cuesta con varios animales de la misma especie."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_7979.jpeg?quality=90&strip=all",
+          "cap": "No es Smokey. Pero muestra cuánto más detalladas se han vuelto las descripciones de Gemini for Home."
+        },
+        {
+          "t": "p",
+          "x": "La automatización del comedero también falló. Estaba configurada para que el comedero Aqara se activara solo cuando la Nest Cam viera a un gato específico, pero como no podía distinguir entre Boone y Smokey, la comida salía sin importar cuál de los dos se acercara. La app de Google Home no tiene ninguna opción para limitar cuántas veces se ejecuta una automatización. Al final del día, el plato estaba desbordado."
+        },
+        {
+          "t": "p",
+          "x": "Lo más problemático fue la identificación errónea. Un día, Home Brief avisó que Smokey estaba comiendo algo en el garaje. Que un gato coma en el garaje no es buena señal. Al abrir el clip, resultó ser Boone comiendo su propia comida en el cuarto de lavado, y al rebobinar un día entero de la cámara del garaje no apareció ningún gato. A estas alturas, es peor que no hacer nada."
+        },
+        {
+          "t": "p",
+          "x": "Reconocer individuos es un problema mucho más difícil que reconocer que hay un animal presente. Se puede ver hacia dónde van las cámaras con IA, pero no es una función en la que apoyarse hoy. La grabación continua, que viene con los mismos 20 dólares al mes, sigue siendo más útil por ahora."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-face-recognition-patent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta ha pasado todo el año intentando calmar la preocupación de que el reconocimiento facial llegue a sus gafas inteligentes. Pero una solicitud de patente recién revelada muestra que nunca abandonó la idea."
+        },
+        {
+          "t": "p",
+          "x": "La solicitud, reportada primero por Patentlyze, fue presentada por Meta en febrero. Describe el uso de reconocimiento facial con IA junto con gafas inteligentes para identificar a una persona y usar información asociada a ella al crear contenido multimedia."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Meta-smart-glasses-facial-recognition-patent.jpg?resize=1528%2C917",
+          "cap": "Un diagrama de la solicitud de patente de Meta hecha pública. Imagen: US Patent and Trademark Office"
+        },
+        {
+          "t": "p",
+          "x": "Presentar una patente no convierte algo en un producto. Aun así, este documento llega tras meses de informes que se acumulaban sobre cómo Meta seguía examinando el reconocimiento facial para dispositivos vestibles."
+        },
+        {
+          "t": "p",
+          "x": "En febrero salió a la luz una función interna llamada Name Tag, pensada para que las gafas inteligentes reconocieran a las personas en tiempo real. En junio, la historia se volvió aún más extraña: investigadores encontraron un componente de reconocimiento facial inactivo dentro de la app de Meta AI, que incluía incluso un sistema para detectar rostros y convertirlos en datos biométricos. Meta borró el código y dijo que nunca había lanzado una función de reconocimiento facial."
+        },
+        {
+          "t": "p",
+          "x": "Por esas mismas fechas también se supo que Meta había licenciado tecnología de reconocimiento facial de Rank One Computing, una empresa cuyos clientes incluyen al ejército de Estados Unidos y a agencias de aplicación de la ley. Ese software también se encontró inactivo dentro de la app de Meta AI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/03/meta-smart-glasses-1.jpg?resize=2000%2C1200",
+          "cap": "Gafas inteligentes Meta Ray-Ban Gen 2. Imagen: Meta"
+        },
+        {
+          "t": "p",
+          "x": "Ya no hay ninguna duda de que Meta ha estado explorando el reconocimiento facial para gafas. La pregunta que queda es si ese trabajo termina en algo que realmente se pueda comprar."
+        },
+        {
+          "t": "p",
+          "x": "La patente ya está recibiendo críticas. En una declaración reportada por CNET, el Center for Democracy and Technology advirtió que personas vulnerables, incluidas sobrevivientes de acoso y violencia doméstica, podrían quedar expuestas a esta tecnología."
+        },
+        {
+          "t": "p",
+          "x": "Es la misma preocupación que acompañó a Name Tag. El reconocimiento facial guardado dentro de una biblioteca de fotos es distinto de una cámara que se lleva puesta en la cara y que circula por espacios públicos. Las gafas de Meta ya apenas se distinguen de unas gafas normales. Si se le suma el reconocimiento facial, la persona que está al lado no tiene manera de saber si simplemente está siendo vista o está siendo identificada en silencio."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-watch-face-prompt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Pixel Watch 5 llegó con una función que nadie había pedido exactamente: IA generativa que crea caras de reloj a partir de un prompt de voz o texto. Por debajo funciona con Gemini. Si vale la pena usarla depende básicamente de las ganas de crear y el gusto de cada día."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ii3sSenhj5LRLh9Se38wGh.jpg",
+          "cap": "La app Create Watch Face en el Pixel Watch 5. Foto de Dan Bracaglia / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "El proceso es sorprendentemente simple. Se abre la app Create Watch Face, se toca para crear la propia, y se escribe o dicta un prompt. Se necesita conexión celular o Wi-Fi. Después de enviar el prompt, tarda entre 10 y 30 segundos. Más o menos una de cada cinco veces, la app rechazó el intento: cuando el prompt era difícil de entender, demasiado complejo, o la conexión estaba débil."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sXzHccxdRDnCrFUiE9LeVh.jpg",
+          "cap": "La pantalla de espera mientras se procesa el prompt. Foto de Dan Bracaglia / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "El primer prompt fue “Teddy bears and laser beams”. Lo que salió se parecía menos a la frase y más a una caja de cereal al estilo Pink Floyd. También se notó una tendencia a darle demasiado peso a las primeras palabras al definir la textura."
+        },
+        {
+          "t": "p",
+          "x": "Cuando termina la generación, aparecen seis opciones. Se puede generar más con el mismo prompt o empezar de cero. Por ahora, no hay mucha diferencia entre las seis."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HbkSNAW4CUz5LDFLpYXc6h.jpg",
+          "cap": "El resultado del prompt “A raging river with jumping orange salmon”. Foto de Dan Bracaglia / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "El segundo prompt fue “A raging river with jumping orange salmon”. Mejoró un poco, aunque se parece más a una carpa de clip art que a un salmón. El tercer prompt, “Deli meats”, produjo la pieza que encabezó el artículo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/UCoj7XvaeHGMzTXNN3Ga4j.jpg",
+          "cap": "Sin importar qué prompt se use, la cara de reloj generada sale como una imagen fija. Foto de John Velasco / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "Quien esperara movimiento, como un pez nadando despacio, mejor que lo descarte. Sea cual sea el prompt, el resultado es una cara completamente estática."
+        },
+        {
+          "t": "p",
+          "x": "Las caras de reloj que Google ya regala de forma gratuita tienen más funciones que cualquier cosa que produzca esta app. Vale la pena probarla por diversión en una ocasión especial. Eso sí, mejor evitar “teddy bears and laser beams”."
+        }
+      ]
+    },
+    "gadgets/gadgets-photo-body-composition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2020/11/garmin-index-s2-smart-scale-review-weight.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los NIH calculan que el 73,1% de los adultos estadounidenses tiene sobrepeso u obesidad. Pero para ver bien la composición corporal no basta con subirse a una báscula, y medir con precisión dónde y cuánta grasa hay suele depender de un análisis de rayos X complicado. Los investigadores de Google están explorando una forma de obtener información similar con solo la cámara del teléfono."
+        },
+        {
+          "t": "p",
+          "x": "PhotoScan es un sistema de Google Research que analiza con IA varias imágenes 2D del cuerpo para estimar la composición corporal. Para entrenarlo se usaron datos de absorciometría de rayos X de doble energía, es decir, escáneres DXA. Midió la grasa corporal total, además de la proporción entre grasa del tronco y de cintura-piernas (A/G) y la proporción entre grasa visceral y subcutánea (V/S)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-photoscan-body-fat.jpg",
+          "cap": "google photoscan body fat"
+        },
+        {
+          "t": "p",
+          "x": "A esto se sumaron datos corporales de resonancias magnéticas (MRI), y el modelo se ajustó con fotos reales tomadas con cámaras de teléfono. El modelo resultante midió la grasa corporal con más precisión que los sensores de análisis de impedancia bioeléctrica (BIA) de los dispositivos portátiles, y también fue más preciso en las proporciones A/G y V/S, algo que el BIA ni siquiera puede intentar."
+        },
+        {
+          "t": "p",
+          "x": "Google Research también analizó si los resultados de PhotoScan podían predecir afecciones como la resistencia a la insulina, un área en la que Google ha puesto un énfasis notable últimamente, como se ve en las tendencias de resistencia a la insulina que llegarán pronto a Health Guardian del Pixel Watch."
+        },
+        {
+          "t": "p",
+          "x": "La investigación en sí parece sólida, pero queda otro problema. Convencer a los usuarios de subir varias fotos de su cuerpo que quizá no les gusten no es fácil, sin importar cuán estricta sea la política de privacidad. El obstáculo mayor llega después de mostrar los datos: lograr que la gente cambie realmente su dieta y su estilo de vida. Google no ha anunciado planes de convertir PhotoScan en un producto, pero no sorprendería que surgiera algún día desde Google Health."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelwatch5-breathing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YDLZGqu9SNDPu5dcuS532F-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las funciones de seguridad de Google para la muñeca no se limitan a detectar caídas y choques. El Pixel Watch 5 añade la detección de emergencias respiratorias y las tendencias de presión arterial, mientras que la detección de pérdida de pulso lanzada en 2024 aún no ha sido igualada por ninguna otra marca. Tom's Guide habló con el gerente de producto de Google Pramod Rudrapatna y el investigador Jake Sunshine, quienes ayudaron a crear la detección de emergencias respiratorias."
+        },
+        {
+          "t": "p",
+          "x": "Sunshine dijo que quiere cambiar la idea de hasta dónde pueden llegar estos dispositivos: ir más allá del fitness y el bienestar para incluir la capacidad de salvar vidas. La frase que usó para el Pixel Watch fue «conceptualmente, un airbag para la muñeca». Como con el airbag de un coche, lo mejor es nunca llegar a necesitarlo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MkoE7r8TgqeYpS3yJmEN4j.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rudrapatna llamó a las emergencias respiratorias un problema a escala poblacional. Cientos de miles de personas las sufren por sobredosis de drogas, neumonía grave u obstrucción de las vías respiratorias, entre otras causas. Estas emergencias llegan sin aviso, casi siempre cuando no hay nadie cerca."
+        },
+        {
+          "t": "p",
+          "x": "El algoritmo de detección busca una combinación que no debería darse en una persona sana: el oxígeno en sangre, normal hasta hace poco, cae de golpe, junto con ausencia de movimiento y de respuesta. Las pruebas se hacen en laboratorios especializados capaces de bajar rápidamente los niveles de oxígeno en un entorno controlado. El diseño también busca reducir las falsas alarmas. Al detectarse, aparece una cuenta atrás de 30 segundos, y si no se cancela en ese tiempo, el reloj contacta por sí solo a los servicios de emergencia."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rQG3feqtkjfwtCjVMiW9x7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "También dejaron claros los límites. No hay garantía de que la función detecte siempre un paro cardíaco o una emergencia respiratoria, y las tendencias de presión arterial y resistencia a la insulina tampoco sustituyen a un tensiómetro o una prueba de glucosa. Rudrapatna fue claro: la función no está pensada para detectar o diagnosticar hipertensión o diabetes, ni para cambiar la medicación, sino para captar problemas invisibles que ocurren sin que la persona lo sepa."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle por el plan de expansión, Rudrapatna dijo que el objetivo es llevarlo al mayor número posible de dispositivos, aunque por ahora se centran en la línea premium de Pixel Watch. También llegará al Pixel Watch 4. Todavía no se sabe si el Fitbit Ace admitirá la detección de emergencias respiratorias, pero las tendencias de presión arterial y resistencia a la insulina sí llegarán incluso a ese rastreador sin pantalla de 99 dólares. Al momento de escribir esto, la detección de emergencias respiratorias sigue esperando la aprobación de la FDA de EE. UU."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5u7ooJhHNXRpKNeCQpUVzi.jpg"
+        }
+      ]
+    },
+    "gadgets/gadgets-alexa-plus-fire-tv-free": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/intro-1787134924.jpg",
+          "cap": "Amazon Alexa+"
+        },
+        {
+          "t": "p",
+          "x": "Amazon hizo que Alexa+ sea gratis para cualquiera que use un dispositivo Fire TV en Estados Unidos. Usar este asistente de IA por sí solo costaba antes $20 al mes. Siempre fue gratis para los suscriptores de Prime, pero ahora nadie tiene que pagar."
+        },
+        {
+          "t": "p",
+          "x": "Los dispositivos elegibles son el Amazon Fire TV Stick y el Fire TV Cube de la generación actual, y el Amazon Ember Smart TV. También incluye televisores inteligentes de otros fabricantes con Alexa+ integrado, como Hisense o Panasonic."
+        },
+        {
+          "t": "p",
+          "x": "Tras años de desarrollo, Amazon presentó la nueva experiencia de Alexa en febrero de este año. La Alexa antigua solo respondía si se memorizaban palabras de activación o frases específicas para los comandos de voz. Alexa+ entiende lenguaje natural."
+        },
+        {
+          "t": "p",
+          "x": "En vez de señalar una serie concreta para reproducirla, también se puede pedir una recomendación. Decir \"muéstrame un drama de época con una protagonista femenina fuerte\" y luego acotar con \"recomiéndame algo más reciente\". También responde a preguntas de contexto sobre lo que está en pantalla, como pedirle que explique otros papeles de un actor."
+        },
+        {
+          "t": "p",
+          "x": "Si se tienen dispositivos de hogar inteligente, se le habla a Alexa+ para controlarlos. Pedirle que muestre la puerta principal conecta el video de la cámara de enfrente al televisor, y si hay una cerradura inteligente, se le puede decir que cierre la puerta."
+        },
+        {
+          "t": "p",
+          "x": "Según Amazon, la cantidad de intercambios que los usuarios tienen con Alexa+ es casi el doble que con la Alexa anterior, porque entiende preguntas y solicitudes en tono conversacional."
+        },
+        {
+          "t": "p",
+          "x": "La compañía dijo que podría ampliar Alexa+ gratis a más dispositivos y regiones en el futuro. El acceso gratuito está limitado por ahora a clientes de EE. UU., pero Alexa+ en sí también está disponible en el Reino Unido, Canadá, México, Italia, España, Alemania, Austria, Brasil y Francia. Amazon planea expandirse a más países este año y añadir 10 regiones más en 2027."
+        }
+      ]
+    },
+    "gadgets/gadgets-comu-action-pro-recorder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/comu-android-hero.jpg",
+          "cap": "Comu Action Pro"
+        },
+        {
+          "t": "p",
+          "x": "Hablo con varias personas todos los días. Algunas conversaciones son por video, otras cara a cara. Busqué sin parar un método de grabación que funcionara en ambas situaciones, y cada opción que probé sacó a la luz un problema distinto. Empecé con herramientas de notas de reunión como Otter y Fireflies.ai, pero políticas poco claras y problemas de privacidad de datos me hicieron dudar de seguir usándolas. A los clientes tampoco les resultaban muy cómodas estas herramientas."
+        },
+        {
+          "t": "p",
+          "x": "Para las videollamadas me quedé con Notion. Es bueno transcribiendo conversaciones y sacando tareas pendientes. Para las reuniones presenciales grababa con el teléfono y subía el audio a Whisper de OpenAI para transcribirlo. El resultado era aceptable, pero mover y procesar archivos cada vez resultaba molesto. Hace poco sustituí el teléfono por una grabadora de voz con IA dedicada."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/img_20260816_164013.jpg",
+          "cap": "El teléfono ya tiene mucho que hacer"
+        },
+        {
+          "t": "p",
+          "x": "Grabar una reunión con el teléfono es, de hecho, muy cómodo. El problema es que el teléfono ya está ocupado con otras cosas. Grabar dos o tres horas al día, a veces cuatro, le pasa factura a la batería. No quiero tener el teléfono siempre enchufado, ni preocuparme de si otra app, una notificación o una llamada va a interrumpir la grabación. La app de Notas de Voz de Apple detiene la grabación si otra app reproduce sonido. Hay que dejar el teléfono sobre la mesa cerca de quien habla, y justo entonces a veces se necesita ese mismo teléfono para otra cosa."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/comu-1.jpg",
+          "cap": "Una tarjeta de grabación con una sola misión"
+        },
+        {
+          "t": "p",
+          "x": "Por eso empecé a usar la Comu Action Pro. Es un dispositivo de grabación que capta la conversación sin el ritual de sacar el teléfono, abrir la app y comprobar si la grabación realmente empezó. Esta categoría se popularizó porque dispositivos como Plaud manejan llamadas telefónicas, reuniones en línea y conversaciones presenciales con una sola pieza de hardware. Grabar llamadas con el teléfono siempre fue irregular en Estados Unidos, porque la ley varía según el estado. Algunos estados permiten el consentimiento de una sola parte, pero unos 11 estados exigen el consentimiento de todos los participantes. Apple ahora admite grabar llamadas en el iPhone, pero reproduce un aviso a todos en la llamada, y sigue siendo limitado en algunas regiones e idiomas. Una grabadora dedicada es una opción más consistente, pero obtener el consentimiento sigue siendo responsabilidad del usuario."
+        },
+        {
+          "t": "p",
+          "x": "La Comu Action Pro trae un soporte magnético, así que si la pegas en la parte de atrás del teléfono, no tienes que preocuparte de dónde la dejaste. Con seis micrófonos adaptativos y un alcance de captación de unos 7 metros, funciona sin problema sin importar dónde te sientes en la sala. La batería dura unas dos semanas con una sola carga. La empresa anuncia hasta 70 horas de grabación, así que si no grabas con frecuencia aguanta casi un mes. También tiene dos botones físicos: uno para grabar, y otro para pedirle al dispositivo tareas que normalmente haría la app, como transcribir o resumir. Una pequeña pantalla OLED muestra el estado de la grabación."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/img_20260816_182244.jpg",
+          "cap": "Al final, el software es lo que separa esta categoría"
+        },
+        {
+          "t": "p",
+          "x": "Como otras grabadoras de voz con IA, este dispositivo viene con una app que transfiere y transcribe las grabaciones automáticamente. Desapareció el paso más tedioso: grabar una reunión presencial con el teléfono, buscar el archivo, subirlo a Whisper y esperar la transcripción. Aunque no le encontré mucho uso en videollamadas; ahí Notion sigue siendo mejor. La transcripción en inglés fue excelente incluso con varios hablantes, pero la precisión baja al mezclar dos idiomas. Comu anuncia soporte para 113 idiomas. Mantiene el audio original junto a la transcripción, así que si el texto se ve raro, puedes volver a ese punto."
+        },
+        {
+          "t": "p",
+          "x": "Una grabadora con IA solo sobrevive si su software es muy bueno. El hardware por sí solo no es motivo para comprar otro dispositivo más. El teléfono ya tiene un micrófono decente y todo lo necesario para grabar reuniones, llamadas y notas de voz. La fuerza de una grabadora dedicada viene de cuán estrechamente encajan su hardware y su software. Al presionar un botón se graba la conversación, y a partir de ahí el audio debería moverse, transcribirse, resumirse y organizarse sin que tengas que trasladar archivos entre apps."
+        }
+      ]
+    },
+    "gadgets/gadgets-ice-smart-glasses-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-1-09.jpg",
+          "cap": "Gafas inteligentes Ray-Ban Meta de primera generación"
+        },
+        {
+          "t": "p",
+          "x": "El Servicio de Inmigración y Control de Aduanas (ICE) se ha sumado oficialmente a la lista de organizaciones que prohíben las gafas inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "Según el New York Times, ICE envió el martes un memo que prohíbe a los empleados usar gafas inteligentes. La medida afecta tanto a los agentes de campo como al personal de oficina. El motivo es el riesgo de violar la privacidad."
+        },
+        {
+          "t": "p",
+          "x": "El New York Times citó el texto del memo del director interino David Venturella: \"...el uso de Meta Glasses o dispositivos similares puede captar, grabar o transmitir información sensible sin querer, y como resultado comprometer la privacidad y las protecciones legales.\""
+        },
+        {
+          "t": "p",
+          "x": "La frase 'sin querer' es el punto afilado. No apunta a los videos y fotos que un empleado o agente toma a propósito, sino a la información que las gafas inteligentes absorben de paso. Esa preocupación tiene fundamento."
+        },
+        {
+          "t": "p",
+          "x": "A comienzos de este año, denunciantes que trabajaron como contratistas subcontratados de Meta plantearon problemas sobre material usado en el programa de entrenamiento de IA de la empresa. Dijeron que se les indicó revisar videos privados que incluían escenas sexuales, desnudez y uso del baño. Algunos de esos videos, según dijeron, parecían haber sido grabados por accidente. Dados los términos de servicio de Meta, los videos y fotos tomados con las gafas inteligentes de Meta no son tan seguros como parecen."
+        },
+        {
+          "t": "p",
+          "x": "Cabe mencionar que ya se ha visto a agentes del Departamento de Seguridad Nacional (DHS) usando gafas inteligentes, en particular productos de Meta, así que esta prohibición no es exactamente preventiva. También se ha informado que el DHS está desarrollando sus propias gafas inteligentes para vigilancia en la frontera de EE. UU., junto con un interés en combinar reconocimiento facial con gafas inteligentes para comparar automáticamente rostros de personas con una base de datos."
+        },
+        {
+          "t": "p",
+          "x": "La prohibición de ICE no es una cuestión filosófica. La vigilancia es el trabajo cotidiano de esta agencia. Pero hay otra preocupación distinta, y tiene más que ver con las políticas de datos de usuario poco claras que rodean a las gafas inteligentes que con los dispositivos en sí."
+        }
+      ]
+    },
+    "gadgets/gadgets-macos-27-siri-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-app-macOS-27.jpg",
+          "cap": "La app Siri en macOS 27"
+        },
+        {
+          "t": "p",
+          "x": "Con las pruebas beta entrando en su última etapa, se espera que Apple lance oficialmente macOS 27 Golden Gate el mes que viene. El mayor cambio de la actualización de este año es una app Siri creada desde cero para Mac."
+        },
+        {
+          "t": "p",
+          "x": "Al actualizar a macOS 27 aparece un nuevo icono de la app Siri en el Dock del Mac. Es la primera vez que Apple lanza una app Siri dedicada para Mac."
+        },
+        {
+          "t": "p",
+          "x": "La característica principal de macOS 27 Golden Gate este año es Siri AI. Apple reconstruyó Siri desde cero. Funciones como entender el contexto personal, el conocimiento del mundo, la percepción de la pantalla y ejecutar acciones dentro de las apps están construidas sobre la nueva arquitectura."
+        },
+        {
+          "t": "p",
+          "x": "La app Siri es el núcleo de este sistema. Dentro de la app se puede repasar todo el historial de conversaciones o empezar una nueva. Las conversaciones también se sincronizan entre dispositivos Apple mediante iCloud. Eso significa que puedes empezar una conversación con Siri en el iPhone y continuarla sentado frente al Mac."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri_app__b8roe5v68ywi_large_2x-1.jpg",
+          "cap": "Vista de lista y vista de cuadrícula tipo tarjetas"
+        },
+        {
+          "t": "p",
+          "x": "La app Siri del Mac ofrece dos interfaces a elegir. Una es una vista de lista parecida a la app Mensajes; la otra es una vista de cuadrícula donde cada conversación se convierte en una tarjeta flotante."
+        },
+        {
+          "t": "p",
+          "x": "En Configuración del Sistema se decide cuánto tiempo conserva las conversaciones la app Siri. Se puede elegir entre para siempre, 30 días o un año, y si se eligen las dos últimas opciones, las conversaciones que superen ese plazo se eliminan de forma permanente."
+        },
+        {
+          "t": "p",
+          "x": "En Configuración del Sistema también se indica si al abrir la app Siri se va a la conversación más reciente o se empieza una nueva. También se puede ajustar cuántas líneas aparecen en la vista previa de las conversaciones, de 0 a 5 líneas."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Screenshot-2026-08-19-at-2.18.18-PM.png",
+          "cap": "Opciones de la app Siri en Configuración del Sistema"
+        },
+        {
+          "t": "p",
+          "x": "La app Siri funciona en el MacBook Neo (A18 Pro) y en Macs con M1 o posterior."
+        },
+        {
+          "t": "p",
+          "x": "La valoración de 9to5Mac es esta: la app en sí es bastante básica, pero es bienvenido que Apple haya decidido incluir una app Siri tipo chatbot en macOS 27. En una entrevista del año pasado, ejecutivos de Apple describieron la estrategia de IA de la compañía como construir \"no un chatbot añadido aparte, sino una experiencia integrada en todo lo que haces\". En ese momento eso se leyó como una señal de que Apple no tenía intención de lanzar una app de chatbot Siri, pero en la WWDC de este año, Apple explicó que había decidido que una app dedicada era la mejor forma de revisar conversaciones pasadas."
+        },
+        {
+          "t": "p",
+          "x": "La pregunta real es si los usuarios de Mac elegirán la app Siri en lugar de Claude o ChatGPT. Al final depende de la calidad del resultado. La app Siri funcionó bien para preguntas sobre conocimiento del mundo o contexto personal, pero para consultas más complejas, Claude sigue siendo la opción. Si Apple sigue refinando Siri AI y Apple Intelligence, ese cálculo podría cambiar."
+        }
+      ]
     }
   }
 }

@@ -2082,6 +2082,604 @@
           "x": "Anyone who wants a free pair of Ray-Ban Meta glasses can apply through the Vision Ireland website or by calling the dedicated line, +353 1 882 1910. Vision Ireland handles selecting recipients, in-person training, and follow-up support."
         }
       ]
+    },
+    "gadgets/gadgets-antigravity-local-llm-files": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Agentic AI tools have moved into ordinary people's workflows faster than expected. A tool that directly touches and handles files is as useful as it is costly when it gets something wrong. A chatbot that makes things up is merely annoying; an agent that handles files and goes off the rails does so inside your actual files and folders."
+        },
+        {
+          "t": "p",
+          "x": "So this time, instead of looking at generative ability, I looked at how a tool handles what already exists. I gave the two tools I reach for most, Antigravity and a local LLM, the same office task and watched whether they followed my rules."
+        },
+        {
+          "t": "p",
+          "x": "Most comparisons judge output quality. That's the wrong yardstick for a tool that holds file access and is about to touch important documents. Just as important as benchmarks is whether a tool understands the structure it's walking into, or sees everything as a blank canvas to paint however it likes. My Obsidian vault made a good test bed. Small mistakes, like wikilinks that point nowhere, or frontmatter fields invented from scratch without checking the existing schema, pile up without being very visible. The folder doesn't visibly collapse, and the tool reports success, but over time the folder turns into a junk heap nobody can touch."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/antigravity-restructuring-messy-meeting-note-with-preview.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "A screen showing Antigravity restructuring a messy meeting note."
+        },
+        {
+          "t": "p",
+          "x": "The basic task was to restructure a single file. I asked it to give a messy meeting note a title, add a summary at the top, and organize action items at the bottom. Antigravity split the content by topic in a way you'd miss at a glance. The local model also imposed structure, but a bit more mechanically (for reference, the temperature was 0.6). Both got the frontmatter right."
+        },
+        {
+          "t": "p",
+          "x": "Next was a multi-step task. I gave it the same five notes and asked it to pull out a common thread and build a synthesis note linking back to each source with wikilinks. Antigravity found four themes running across the five notes and placed each note's position along a single axis. The local model also found four, and its wikilinks were accurate too, but they read more like one-line summaries than themes. Both finished. But Antigravity read what the five pieces were saying together, while Qwen read them one by one and reported them one by one."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/qwen-pkm-synthesis-done-with-four-major-themes-in-lm-studio.png?q=49&fit=contain&w=1920&h=1080&dpr=2",
+          "cap": "Qwen finishing a synthesis note with four themes in LM Studio."
+        },
+        {
+          "t": "p",
+          "x": "The gap opened up over where to put the new note. Antigravity scanned the folder set, recognized this was a piece about conceptual principles, and chose the 'notes/ux' folder. The filename followed the sentence-case convention I use, it copied the frontmatter schema exactly, and it wikilinked to existing notes in the same folder, slotting the new piece in among its neighbors. The local model also read the config file and eventually found the right folder, but it skipped several reasoning steps along the way. It first classified the notes as 'orphan documents' before correcting itself, and it had a habit of wanting to write to the vault's top level whenever it wasn't sure."
+        },
+        {
+          "t": "p",
+          "x": "Both finished what was asked. That's the bare minimum you expect from an agent. What differed was attentiveness. Antigravity read before writing on every single task. Qwen also showed flashes of that same instinct, in the moments it recognized a change that didn't need to be made. Still, if I were handing over a folder full of files that matter, I'd hand it to Antigravity. That's not to say the local LLM wrecks folders, only that Antigravity is a bit more careful."
+        }
+      ]
+    },
+    "gadgets/gadgets-airpods-camera-demo-video": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MacRumors found a short clip in a macOS Tahoe 26.7 release candidate — the first moving footage of the long-rumored camera-equipped AirPods. In the video, a man wearing the new AirPods lifts up a book cover, a gesture meant to let Visual Intelligence read the title."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "A frame from the camera AirPods demo video found in a macOS beta."
+        },
+        {
+          "t": "p",
+          "x": "Siri's voice plays over the clip: “with Visual Intelligence, your world becomes savable. See something you like? Just ask me to save it for later.” The idea is to save what catches your eye for later."
+        },
+        {
+          "t": "p",
+          "x": "Bloomberg's Mark Gurman previously reported that these AirPods are designed to take in “visual information in low resolution” and serve as the eyes for Apple's AI features — the picture being Siri reading turn-by-turn directions or answering questions about your surroundings."
+        },
+        {
+          "t": "p",
+          "x": "The AirPods in the video look like a slightly thicker AirPods Pro 3, matching what Gurman had predicted. There have also been reports that the stems are longer to fit the camera, with an LED that lights up while data uploads to the cloud. The video only shows them from behind, though, so the light isn't visible at that angle."
+        },
+        {
+          "t": "p",
+          "x": "Add Visual Intelligence, and the competition becomes camera-equipped AI devices like Meta's Ray-Ban smart glasses. Apple is also reported to be working on its own smart glasses separately. The camera isn't meant for taking photos or videos, but a design that doesn't look like a camera only raises more concern — the backlash Meta faced over being called “pervert glasses” is the precedent sitting right there."
+        },
+        {
+          "t": "p",
+          "x": "That's all the information there is for now. If a demo video has already made it into a beta, these AirPods could surface alongside the new Siri expected to arrive in September with the next-generation iPhone."
+        }
+      ]
+    },
+    "gadgets/gadgets-google-pet-memory-cats": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "For The Verge's smart-home reviewer, the most useful thing a security camera can do is watch the animals in and out of the house. The trouble is that the flood of alerts buries the ones that actually matter. That's why there was reason to hope when Google added Pet Memory to Gemini for Home."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0001_IMG_8622.jpg?quality=90&strip=all",
+          "cap": "Boone leans in close to the Google Nest Cam. Photo by Jennifer Pattison Tuohy / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "Pet Memory is a feature meant to teach Google Home who the pets in your house are. A Nest camera moves from “an animal was seen” to “which animal was seen,” and the house responds accordingly. The plan was to tell three cats apart so a feeder would run automatically. After two weeks, Gemini still couldn't tell the three apart."
+        },
+        {
+          "t": "p",
+          "x": "Cameras moving from motion alerts to describing what they saw is a recent development. Nest separated people from animals back in 2017 with the Nest Cam IQ, then later added animal detection and AI descriptions. Ring, Wyze, and Apple Home have added AI descriptions too. Google Home is the first to try calling individuals by name."
+        },
+        {
+          "t": "p",
+          "x": "The mechanism is simple. It matches the description a user writes into Gemini against the description Gemini generates from camera footage. Google Home product manager Rudra Bhatt explained it this way: “If these are the same, we will replace the pets with the name in the caption.”"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268695_Pet_security_camera_photos_JTUOHY__0006_IMG_8456.jpg?quality=90&strip=all",
+          "cap": "Smokey, the only cat Google Home remembered. Every cat caught by the Nest Cam becomes Smokey."
+        },
+        {
+          "t": "p",
+          "x": "The conditions and the cost aren't light either. It requires the $20-a-month Google Home Advanced Plan, and in testing it only worked with Nest cameras. Since it's indoor-camera only, it couldn't be used on the cat that comes and goes through the front door. Above all, unlike Familiar Faces, it doesn't build a visual profile for each individual. There's no training process, no way to upload photos, no way to correct a mistake. You enter a name and breed, and it's supposed to figure out the rest on its own."
+        },
+        {
+          "t": "p",
+          "x": "There's Boone, a white-pawed tuxedo cat; Osa, a tabby kitten; and Smokey, a large gray-and-white cat. Writing more detailed descriptions only got a response that the system couldn't process the extra information — and then it called every cat Smokey. Bhatt admitted it does fine with one pet and can tell a dog from a cat, but struggles with multiple animals of the same species."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_7979.jpeg?quality=90&strip=all",
+          "cap": "Not Smokey. But it does show how much more detailed Gemini for Home's descriptions have gotten."
+        },
+        {
+          "t": "p",
+          "x": "Feeder automation went wrong too. The setup was for the Aqara feeder to run only when the Nest Cam saw a specific cat, but since it couldn't tell Boone and Smokey apart, food came out whenever either one walked up. The Google Home app has no setting to cap how many times an automation can run. By the end of the day, the bowl was overflowing."
+        },
+        {
+          "t": "p",
+          "x": "The most troubling part was misidentification. One day, Home Brief reported that Smokey was eating something in the garage. A cat eating in the garage isn't a good sign. Pulling up the clip showed it was actually Boone eating his own food in the laundry room, and rewinding a full day of the garage camera showed no cat at all. At that point, it's worse than doing nothing."
+        },
+        {
+          "t": "p",
+          "x": "Recognizing individuals is a much harder problem than recognizing that an animal is present at all. It's possible to see where AI cameras are headed, but this isn't a feature to lean on today. Continuous recording, which comes with the same $20 a month, is still more useful for now."
+        }
+      ]
+    },
+    "gadgets/gadgets-humanoid-firefighting-drill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Robots can dance, do backflips, and run faster than people. None of that counts for much when the task is putting out a fire without putting a person in danger."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Humanoid-robot-firefighting-games.jpg",
+          "cap": "A humanoid firefighting and rescue event staged inside an actual fire station."
+        },
+        {
+          "t": "p",
+          "x": "The second World Humanoid Robot Games held the first outdoor firefighting and rescue event for humanoids — a step beyond last year's controlled indoor setting. The 2026 task took place inside an actual fire station, putting the robots in conditions close to a real scene."
+        },
+        {
+          "t": "p",
+          "x": "Each robot had 30 minutes. It had to find and report randomly placed hazardous materials using image recognition, locate and shut three randomly assigned valves, then find a fire extinguisher and put out an actual fire. Active firefighters judged whether the fire was lit and the extinguisher used correctly."
+        },
+        {
+          "t": "p",
+          "x": "The results showed just how fragile robot perception and motor control still are. The moment teams stepped outside sandbox demos or remote VR-assisted operation was where things got hard. Rain, constantly shifting outdoor lighting, and clutter scattered around the fire station all threw off vision systems and mechanical precision. Of the 23 teams registered for the event, 12 competed on August 16, and three completed every stage."
+        },
+        {
+          "t": "p",
+          "x": "UniX AI's robot stood out, finishing the task within the time limit at the required precision. Still, its overall speed fell well short of a human firefighter, and it had to retry aligning its hand with the extinguisher handle twice."
+        },
+        {
+          "t": "p",
+          "x": "The conclusion that human firefighters are far better still stands. Even so, competitions like this earn their keep by generating failure data. Using what they learned from the August 16 outdoor firefighting event, each team is working to refine perception, motion planning, and balance control, aiming to properly grip the extinguisher and valves at the next competition."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-face-recognition-patent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta has spent all year trying to ease worries that facial recognition is coming to its smart glasses. A newly surfaced patent application shows the idea was never shelved."
+        },
+        {
+          "t": "p",
+          "x": "The application, first reported by Patentlyze, was filed by Meta in February. It describes using AI facial recognition alongside smart glasses to identify people and pull in information tied to that person when creating media."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Meta-smart-glasses-facial-recognition-patent.jpg?resize=1528%2C917",
+          "cap": "A diagram from the published Meta patent application. Image: US Patent and Trademark Office"
+        },
+        {
+          "t": "p",
+          "x": "Filing a patent doesn't make something a product. Still, this document arrives after months of reports piling up that Meta kept examining facial recognition for wearables."
+        },
+        {
+          "t": "p",
+          "x": "In February, an internal feature called Name Tag came to light — one meant to let smart glasses recognize people in real time. In June, things got stranger. Researchers found a dormant facial-recognition component inside the Meta AI app, including a system that detected faces and converted them into biometric data. Meta deleted the code and said it had never shipped a facial-recognition feature."
+        },
+        {
+          "t": "p",
+          "x": "Around the same time, it emerged that Meta had licensed facial-recognition technology from Rank One Computing, a company whose clients include the US military and law enforcement agencies. That software was also found dormant inside the Meta AI app."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/03/meta-smart-glasses-1.jpg?resize=2000%2C1200",
+          "cap": "Meta Ray-Ban Gen 2 smart glasses. Image: Meta"
+        },
+        {
+          "t": "p",
+          "x": "There's no longer any doubt that Meta has been digging into facial recognition for glasses. The question left is whether that work ends up in something you can actually buy."
+        },
+        {
+          "t": "p",
+          "x": "The patent is already drawing criticism. In a statement reported by CNET, the Center for Democracy and Technology warned that vulnerable people, including stalking and domestic-violence survivors, could be exposed to this technology."
+        },
+        {
+          "t": "p",
+          "x": "It's the same worry that trailed Name Tag. Facial recognition tucked inside a photo library is different from a camera worn on someone's face moving through public spaces. Meta's glasses already don't look much different from regular glasses. Add facial recognition, and the person standing nearby has no way of knowing whether they're simply being seen or quietly being identified."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-watch-face-prompt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pixel Watch 5 shipped with a feature nobody really asked for: generative AI that creates watch faces from a voice or text prompt. Gemini powers it under the hood. Whether it's worth using mostly comes down to how creative you're feeling and what you like that day."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ii3sSenhj5LRLh9Se38wGh.jpg",
+          "cap": "The Create Watch Face app on the Pixel Watch 5. Photo by Dan Bracaglia / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "The process is surprisingly simple. Open the Create Watch Face app, tap to create your own, then enter a text or voice prompt. A cellular or Wi-Fi connection is required. After submitting a prompt, it takes about 10 to 30 seconds. About one in five times, the app refused — usually when the prompt was hard to parse, overly complex, or the connection was weak."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sXzHccxdRDnCrFUiE9LeVh.jpg",
+          "cap": "The screen that appears while a prompt is processing. Photo by Dan Bracaglia / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "The first prompt was “Teddy bears and laser beams.” What came out looked less like the phrase itself and more like Pink Floyd-style cereal art. There was also a noticeable habit of over-weighting the first word or two when setting the texture."
+        },
+        {
+          "t": "p",
+          "x": "Once generation finishes, six options show up. You can generate more with the same prompt or start over from scratch. Right now, there's not much difference among the six."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HbkSNAW4CUz5LDFLpYXc6h.jpg",
+          "cap": "The result of the “A raging river with jumping orange salmon” prompt. Photo by Dan Bracaglia / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "The second prompt was “A raging river with jumping orange salmon.” It came out a bit better, though it reads more like clip-art carp than salmon. The third prompt, “Deli meats,” produced the piece that led the article."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/UCoj7XvaeHGMzTXNN3Ga4j.jpg",
+          "cap": "No matter what prompt goes in, the generated watch face comes out as a still image. Photo by John Velasco / Tom's Guide"
+        },
+        {
+          "t": "p",
+          "x": "Anyone hoping for motion — fish slowly swimming, say — should set that expectation aside. Whatever the prompt, the result is a completely static face."
+        },
+        {
+          "t": "p",
+          "x": "The watch faces Google already gives away for free are more feature-rich than anything this app produces. It's worth trying for fun on a special occasion. Just maybe skip “teddy bears and laser beams.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-photo-body-composition": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2020/11/garmin-index-s2-smart-scale-review-weight.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The NIH counts 73.1% of US adults as overweight or obese. But getting a real picture of body composition takes more than stepping on a scale — accurately measuring where fat sits and how much of it there is usually requires a demanding X-ray analysis. Google researchers are exploring a way to get similar information with nothing but a phone camera."
+        },
+        {
+          "t": "p",
+          "x": "PhotoScan is a Google Research system that analyzes several 2D photos of a person's body with AI to estimate body composition. It trained on dual-energy X-ray absorptiometry (DXA) scan data, measuring not just total body fat but also the android-to-gynoid (A/G) fat ratio and the visceral-to-subcutaneous (V/S) fat ratio."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/google-photoscan-body-fat.jpg",
+          "cap": "google photoscan body fat"
+        },
+        {
+          "t": "p",
+          "x": "The researchers also added MRI scan data, and fine-tuned the model with real photos taken on smartphone cameras. The resulting model estimated body fat more accurately than bioelectrical impedance analysis (BIA) sensors found in wearables, and it was also more accurate on A/G and V/S ratio estimates — something BIA can't even attempt."
+        },
+        {
+          "t": "p",
+          "x": "Google Research also looked at whether PhotoScan results could predict conditions like insulin resistance, an area where the company has visibly leaned in recently, as seen in the insulin resistance trends feature coming to Pixel Watch's Health Guardian."
+        },
+        {
+          "t": "p",
+          "x": "The research itself looks solid, but another problem remains. Convincing users to upload several photos of their body that they may not love looking at is not easy, no matter how airtight the privacy policy is. The bigger hurdle comes after showing the data: actually getting people to change their diet and habits. Google hasn't announced any plan to turn PhotoScan into a product, but it wouldn't be surprising if it eventually surfaces from Google Health."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelwatch5-breathing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YDLZGqu9SNDPu5dcuS532F-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google's wrist-based safety features don't stop at fall and crash detection. Pixel Watch 5 adds breathing emergency detection and blood pressure trends, while the pulse loss detection introduced in 2024 still hasn't been matched by any other brand. Tom's Guide spoke with Google product manager Pramod Rudrapatna and researcher Jake Sunshine, who helped build breathing emergency detection."
+        },
+        {
+          "t": "p",
+          "x": "Sunshine said he wants to shift the assumptions about what these devices can do — moving beyond fitness and wellness to include the ability to save lives. The phrase he used for the Pixel Watch was “conceptually, an airbag for the wrist.” As with a car airbag, it's best if you never actually need it."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MkoE7r8TgqeYpS3yJmEN4j.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rudrapatna called breathing emergencies a population-level problem. Hundreds of thousands of people experience them from causes like drug overdoses, severe pneumonia, or airway obstruction. These emergencies arrive without warning, usually when no one else is around."
+        },
+        {
+          "t": "p",
+          "x": "The detection algorithm looks for a combination that shouldn't occur in a healthy person: blood oxygen that was normal until recently suddenly dropping, paired with no movement and no responsiveness. Testing is done in specialized labs that can rapidly lower oxygen levels in a controlled setting. The design also works to reduce false alarms. Once detected, a 30-second countdown appears, and if it isn't canceled in that window, the watch contacts emergency services on its own."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rQG3feqtkjfwtCjVMiW9x7.jpg"
+        },
+        {
+          "t": "p",
+          "x": "They were clear about the limits. There's no guarantee the feature will catch every cardiac arrest or breathing emergency, and the blood pressure and insulin resistance trends don't replace a blood pressure cuff or a blood sugar test either. Rudrapatna drew a clear line: the feature isn't meant to screen or diagnose hypertension or diabetes, or to guide medication changes — it's aimed at invisible problems that happen without the person even knowing."
+        },
+        {
+          "t": "p",
+          "x": "Asked about the rollout plan, Rudrapatna said the goal is to put it on as many devices as possible, but for now the focus is on the premium Pixel Watch line. It's also coming to Pixel Watch 4. There's no word yet on whether Fitbit Ace will support breathing emergency detection, but blood pressure and insulin resistance trends are coming even to the $99 screenless tracker. As of this writing, breathing emergency detection is still awaiting approval from the US FDA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5u7ooJhHNXRpKNeCQpUVzi.jpg"
+        }
+      ]
+    },
+    "gadgets/gadgets-xreal-aura": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg",
+          "cap": "XREAL AURA | Courtesy XREAL"
+        },
+        {
+          "t": "p",
+          "x": "Xreal said on August 20 that global pre-orders for Aura passed 10,000 units. It's the first AR glasses to launch running Google's Android XR."
+        },
+        {
+          "t": "p",
+          "x": "The company read the number as a sign of strong early demand across consumers, developers, and enterprise customers. The $99 reservation, which converts into a $199 credit at launch, has already sold out, while the refundable $199 deposit is still open."
+        },
+        {
+          "t": "p",
+          "x": "There's still no final price. Some of the roughly 10,000 refundable reservations could drop out once the price is set. The only line Xreal has drawn is that it won't exceed $1,500 before tax."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/06/xreal-aura-android-xr-2-edited.jpg",
+          "cap": "XREAL AURA | Courtesy XREAL"
+        },
+        {
+          "t": "p",
+          "x": "The optics use the same birdbath design as Xreal's previous products. The field of view is 70 degrees, and the weight on the head is under 95 grams. That weight is offset by a pocket-sized compute unit connected by cable. Aura splits computing in two: Qualcomm's Snapdragon Reality Elite handles XR processing and AI tasks, while an in-house X1S spatial co-processor handles the display and sensor processing."
+        },
+        {
+          "t": "p",
+          "x": "Unlike other birdbath glasses that just project existing content onto a virtual screen, 6DoF tracking, hand tracking, and multimodal AI experiences all run on top of Android XR. It uses Android apps from the Play Store and a growing list of XR apps as-is. Launch is set for fall 2026, with more on pricing and sales timing to come in the next few weeks."
+        }
+      ]
+    },
+    "gadgets/gadgets-alexa-plus-fire-tv-free": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/intro-1787134924.jpg",
+          "cap": "Amazon Alexa+"
+        },
+        {
+          "t": "p",
+          "x": "Amazon has made Alexa+ free for anyone using a Fire TV device in the US. Using this AI assistant on its own used to cost $20 a month. It had always been free for Prime subscribers, but now nobody has to pay."
+        },
+        {
+          "t": "p",
+          "x": "The eligible devices are the current-generation Amazon Fire TV Stick, Fire TV Cube, and the Amazon Ember Smart TV. It also covers smart TVs from other makers with Alexa+ built in, like Hisense or Panasonic."
+        },
+        {
+          "t": "p",
+          "x": "After years of development, Amazon unveiled the new Alexa experience this past February. The old Alexa only responded to memorized wake words or specific phrases for voice commands. Alexa+ understands natural language."
+        },
+        {
+          "t": "p",
+          "x": "Instead of naming a specific show to play, you can also ask for recommendations. Say \"show me a period drama with a strong female lead,\" then narrow it down with \"recommend something more recent.\" You can even ask contextual questions about what's on screen right now, like asking it to explain an actor's other roles."
+        },
+        {
+          "t": "p",
+          "x": "If you have smart home devices, you talk to Alexa+ to control them. Ask it to show the front door, and footage from the camera outside connects to the TV; if you have a smart lock, you can tell it to lock the door."
+        },
+        {
+          "t": "p",
+          "x": "According to Amazon, the volume of back-and-forth users have with Alexa+ is nearly double what it was with the old Alexa, because it understands conversational questions and requests."
+        },
+        {
+          "t": "p",
+          "x": "The company said it could expand free Alexa+ to more devices and regions going forward. Free access is currently limited to US customers, but Alexa+ itself is also available in the UK, Canada, Mexico, Italy, Spain, Germany, Austria, Brazil and France. Amazon plans to expand to more countries this year, and add 10 more regions in 2027."
+        }
+      ]
+    },
+    "gadgets/gadgets-comcast-wifi-motion-sensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2023/06/2bae73dacdfc4714ab26c351267aa385.jpg",
+          "cap": "Photo: Jonathan Weiss (Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "Comcast's Xfinity is pushing its WiFi routers toward becoming home security devices. Millions of subscribers can now opt into expanded monitoring features. The company has rolled out Xfinity Shield, a cyber and home protection platform offered to customers nationwide at no extra cost. On top of security features and parental controls, it adds WiFi Motion, which turns existing WiFi equipment into a motion-sensing device."
+        },
+        {
+          "t": "p",
+          "x": "According to Comcast, WiFi Motion is opt-in. It detects movement in the home using the WiFi signal the Xfinity gateway puts out, without using a camera or recording device. It works by reading changes in the wireless signal traveling between the router and connected WiFi devices."
+        },
+        {
+          "t": "p",
+          "x": "WiFi Motion itself first launched in 2025. With this expansion, Comcast is positioning it as a core pillar of the Xfinity Shield ecosystem. Jon Giesselman, Chief Growth Officer for Connectivity and Platforms, said the network needs to go beyond simple connectivity to protect residents and their information."
+        },
+        {
+          "t": "p",
+          "x": "You get an alert when movement is detected near a connected device like a TV or printer. Settings adjust separately for when you're home, asleep, or away. The Xfinity app shows live motion alongside past history."
+        },
+        {
+          "t": "p",
+          "x": "Comcast has acknowledged that performance varies with home size, layout, building materials, router placement and device arrangement, and it hasn't guaranteed consistent performance. Privacy groups and users have already raised concerns about the surveillance potential of this technology and its unsettling nature."
+        },
+        {
+          "t": "p",
+          "x": "A recent study out of Germany showed that WiFi signals can be used for more than motion detection. Researchers used beamforming data and AI to identify individuals with 99.5% accuracy, warning that an ordinary router could turn into a surveillance tool."
+        },
+        {
+          "t": "p",
+          "x": "The heaviest point sits in Comcast's own support documentation. It states that information generated by WiFi Motion can be shared with third parties. The company retains the right to share this data with law enforcement during investigations, in disputes involving Comcast, or under court orders or subpoenas."
+        },
+        {
+          "t": "p",
+          "x": "Comcast did not respond to a request for comment on these concerns."
+        }
+      ]
+    },
+    "gadgets/gadgets-comu-action-pro-recorder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/comu-android-hero.jpg",
+          "cap": "Comu Action Pro"
+        },
+        {
+          "t": "p",
+          "x": "I talk to several people every day. Some conversations happen over video, some face to face. I kept hunting for a recording method that worked in both situations, and every option I tried turned up a different problem. I started with meeting-note tools like Otter and Fireflies, but vague policies and data privacy issues made me hesitant to keep using them. Clients weren't especially comfortable with these tools either."
+        },
+        {
+          "t": "p",
+          "x": "For video calls, I settled on Notion. It's good at transcribing conversations and pulling out action items. For in-person meetings, I recorded on my phone and uploaded the audio to OpenAI's Whisper to transcribe. The results were fine, but moving and processing files every time got annoying. Recently I replaced the phone with a dedicated AI voice recorder."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/img_20260816_164013.jpg",
+          "cap": "The phone already has a lot to do"
+        },
+        {
+          "t": "p",
+          "x": "Recording a meeting on your phone is actually quite convenient. The problem is that the phone is already busy with other things. Recording for two or three hours a day, sometimes four, puts a strain on the battery. I don't want to keep the phone plugged in all the time, and I don't want to worry about other apps, notifications, or calls interrupting the recording. Apple's Voice Memos app stops recording if another app plays sound. You have to set the phone on the table near whoever's talking, and sometimes that's exactly when you need the phone for something else."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/comu-1.jpg",
+          "cap": "A recording device with just one job"
+        },
+        {
+          "t": "p",
+          "x": "So I started using the Comu Action Pro. It's a recording device that captures conversations without the ritual of pulling out your phone, opening an app, and checking whether recording actually started. This category gained popularity because devices like Plaud handle phone calls, online meetings, and in-person conversations with a single piece of hardware. Recording phone calls on a phone has always been inconsistent, since laws vary by state in the US. Some states allow one-party consent, but about 11 states require consent from everyone involved. Apple now supports call recording on iPhone, but it plays an announcement to everyone on the call, and it's still restricted in some regions and languages. A dedicated recorder is a more consistent option, but getting consent is still the user's responsibility."
+        },
+        {
+          "t": "p",
+          "x": "The Comu Action Pro comes with a magnetic mount, so if you stick it on the back of your phone, you never have to wonder where it is. With six adaptive microphones and a pickup range of about 7 meters, it holds up no matter where you sit in a room. The battery lasts about two weeks on a single charge. The company advertises up to 70 hours of recording, so if you don't record often, it lasts close to a month. There are also two physical buttons: one for recording, and another for handing the device tasks the app would normally do, like transcribing or summarizing. A small OLED screen shows recording status."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/img_20260816_182244.jpg",
+          "cap": "In the end, software is what separates this category"
+        },
+        {
+          "t": "p",
+          "x": "Like other AI voice recorders, this device comes with an app that automatically transfers and transcribes recordings. The most tedious step — recording an in-person meeting on your phone, hunting down the file, uploading it to Whisper, and waiting for a transcript — is gone. I didn't find much use for it in video calls, though; Notion is still better for that. English transcription was excellent even with multiple speakers, but accuracy drops when you mix two languages. Comu advertises support for 113 languages. It keeps the original audio next to the transcript, so if the text looks off, you can go back to that spot."
+        },
+        {
+          "t": "p",
+          "x": "An AI recorder only survives if its software is very good. Hardware alone isn't a reason to buy another device. The phone already has a decent microphone and everything needed to record meetings, calls, and voice memos. A dedicated recorder's strength comes from how tightly its hardware and software fit together. Press one button, the conversation gets recorded, and from there the audio should move, get transcribed, summarized, and organized without you ever having to shuttle files between apps."
+        }
+      ]
+    },
+    "gadgets/gadgets-ice-smart-glasses-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-1-09.jpg",
+          "cap": "Ray-Ban Meta first-generation smart glasses"
+        },
+        {
+          "t": "p",
+          "x": "Immigration and Customs Enforcement (ICE) has officially joined the list of organizations banning smart glasses."
+        },
+        {
+          "t": "p",
+          "x": "According to the New York Times, ICE circulated a memo on Tuesday banning employees from using smart glasses. The ban covers field agents as well as office staff. The reason given is the potential for privacy violations."
+        },
+        {
+          "t": "p",
+          "x": "The New York Times quoted a memo from Acting Director David Venturella that read: \"...the use of Meta Glasses or similar devices may unintentionally capture, record, or transmit sensitive information, potentially compromising privacy and legal protections.\""
+        },
+        {
+          "t": "p",
+          "x": "The phrase 'unintentionally capture' is the sharp part. It's not aimed at video and photos that an employee or agent deliberately shoots, but at information that smart glasses pick up on the side. That worry has grounds."
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, whistleblowers who worked as Meta subcontractors raised concerns about footage used in the company's AI training program. They said they were instructed to review private footage involving sex scenes, nudity, and bathroom use. They said some of it appeared to have been recorded by accident. Given Meta's terms of service, video and photos shot with Meta's smart glasses aren't as safe as they look."
+        },
+        {
+          "t": "p",
+          "x": "For reference, Department of Homeland Security (DHS) agents have already been seen using smart glasses, particularly Meta's products, so this ban isn't exactly preemptive. There have also been reports that DHS is developing its own smart glasses for use in US border surveillance, along with talk of interest in combining facial recognition with smart glasses to automatically match people's faces against a database."
+        },
+        {
+          "t": "p",
+          "x": "ICE's ban isn't a matter of philosophy. Surveillance is this agency's everyday business. There's a different concern here, though, and it has more to do with the murky user data policies surrounding smart glasses than with the devices themselves."
+        }
+      ]
+    },
+    "gadgets/gadgets-macos-27-siri-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-app-macOS-27.jpg",
+          "cap": "The Siri app in macOS 27"
+        },
+        {
+          "t": "p",
+          "x": "With beta testing entering its final stretch, Apple is expected to officially release macOS 27 Golden Gate sometime next month. The biggest change in this year's update is a newly built Siri app for the Mac."
+        },
+        {
+          "t": "p",
+          "x": "Upgrading to macOS 27 adds a new Siri app icon to the Mac Dock. This is the first time Apple has shipped a dedicated Siri app for Mac."
+        },
+        {
+          "t": "p",
+          "x": "The headline feature of macOS 27 Golden Gate this year is Siri AI. Apple rebuilt Siri from the ground up. Capabilities like understanding personal context, world knowledge, screen awareness, and taking actions inside apps are all built on top of the new architecture."
+        },
+        {
+          "t": "p",
+          "x": "The Siri app is the core of this system. Inside the app, you can browse through all past conversations or start a new one. Conversations also sync between Apple devices through iCloud. That means you can start a Siri conversation on your iPhone and pick it up again sitting in front of your Mac."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri_app__b8roe5v68ywi_large_2x-1.jpg",
+          "cap": "List view and card-style grid view"
+        },
+        {
+          "t": "p",
+          "x": "The Mac's Siri app offers two interface options. One is a list view similar to the Messages app; the other is a grid view where each conversation becomes a floating card."
+        },
+        {
+          "t": "p",
+          "x": "System Settings controls how long the Siri app keeps conversations. You can choose forever, 30 days, or one year, and if you pick either of the latter two, conversations past that limit get permanently deleted."
+        },
+        {
+          "t": "p",
+          "x": "System Settings also lets you set whether opening the Siri app goes to your most recent conversation or starts a new one. You can also adjust how many lines appear in conversation previews, from 0 to 5 lines."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Screenshot-2026-08-19-at-2.18.18-PM.png",
+          "cap": "Siri app options in System Settings"
+        },
+        {
+          "t": "p",
+          "x": "The Siri app runs on the MacBook Neo (A18 Pro) and Macs with M1 or later."
+        },
+        {
+          "t": "p",
+          "x": "9to5Mac's take is this: the app itself is fairly basic, but it's welcome that Apple decided to include a chatbot-style Siri app in macOS 27. In an interview last year, Apple executives described the company's AI strategy as building \"not a bolted-on chatbot, but an experience integrated into everything you do.\" At the time, that read as a signal Apple had no intention of shipping a Siri chatbot app, but at WWDC this year, Apple explained that it had decided a dedicated app was the best way to revisit past conversations."
+        },
+        {
+          "t": "p",
+          "x": "The real question is whether Mac users will reach for the Siri app instead of Claude or ChatGPT. In the end, it comes down to the quality of the output. The Siri app was good for questions about world knowledge or personal context, but for more complex queries, Claude still gets the call. If Apple keeps refining Siri AI and Apple Intelligence, that calculation could change."
+        }
+      ]
     }
   }
 }
