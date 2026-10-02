@@ -653,6 +653,9 @@ function firstChargeLabel(plan) {
 /* 구독 모달 — 플랜 2종. 결제창은 Paddle 오버레이로 사이트 위에 뜬다. */
 function SubscribeModal({ onClose, t, initialPhase }) {
   const [phase, setPhase] = useState(initialPhase || 'choose');   // choose | confirming | slow | error | login | sent
+  // 로그인 화면에 어떻게 왔는지 — 'signin'은 헤더의 Login 버튼(이미 구독한 사람),
+  // 'subscribe'는 결제를 누르려다 로그인이 필요해서. 같은 화면이지만 할 말이 다르다.
+  const [loginFor, setLoginFor] = useState(initialPhase === 'login' ? 'signin' : 'subscribe');
   const [note, setNote] = useState('');
   const [email, setEmail] = useState('');
   const [sendingLink, setSendingLink] = useState(false);
@@ -692,7 +695,7 @@ function SubscribeModal({ onClose, t, initialPhase }) {
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({ plan }),
       });
-      if (res.status === 401) { setPhase('login'); return; }
+      if (res.status === 401) { setLoginFor('subscribe'); setPhase('login'); return; }
       // 409 = 이미 Paddle 구독 행이 있다. 두 번째 구독을 열면 첫 구독이 고아가 되므로
       // 서버가 막는다 — 사용자는 '구독 관리'로 가야 한다.
       if (res.status === 409) { setPhase('error'); setNote(tx('paywall.already_subscribed')); return; }
@@ -749,9 +752,13 @@ function SubscribeModal({ onClose, t, initialPhase }) {
       zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
         padding: 26, width: 580, maxWidth: '94vw', fontFamily: 'Pretendard, system-ui' }}>
-        <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>{tx('paywall.modal_title')}</p>
+        <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>
+          {phase === 'login' && loginFor === 'signin' ? tx('auth.login_title') : tx('paywall.modal_title')}
+        </p>
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
-          {tx('paywall.modal_body')}
+          {phase === 'login'
+            ? tx(loginFor === 'signin' ? 'auth.login_body' : 'paywall.login_first')
+            : tx('paywall.modal_body')}
         </p>
         {phase === 'choose' && (
           <React.Fragment>
@@ -775,7 +782,6 @@ function SubscribeModal({ onClose, t, initialPhase }) {
         )}
         {phase === 'login' && (
           <React.Fragment>
-            <p style={{ margin: '0 0 10px', fontSize: 13, color: '#5a5450' }}>{tx('paywall.login_first')}</p>
             <input type="email" value={email} onChange={(e) => setEmail(e.target.value)}
               placeholder={tx('paywall.email_label')} autoComplete="email"
               style={{ width: '100%', boxSizing: 'border-box', padding: '10px 12px', fontSize: 16,
