@@ -138,9 +138,13 @@ if (!document.getElementById('ax-styles')) {
   .ax-pro-badge{display:inline-block;padding:3px 11px;border-radius:999px;font-size:11.5px;
      font-weight:700;color:#fff;letter-spacing:.02em;
      background:linear-gradient(135deg,#7928ca,#0070f3);background-size:180% 180%;}
-  .ax-check{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;
-     border-radius:50%;font-size:11px;line-height:1;color:#fff;
+  .ax-check{display:inline-flex;align-items:center;justify-content:center;width:23px;height:23px;
+     border-radius:50%;font-size:14px;font-weight:700;line-height:1;color:#fff;
      background:linear-gradient(135deg,#7928ca,#0070f3);}
+  /* 아직 만들지 않은 Pro 혜택 — 체크가 아니라 예고 배지로 표시한다. */
+  .ax-soon{display:inline-block;padding:3px 7px;border-radius:999px;font-size:10.5px;font-weight:700;
+     line-height:1.2;white-space:nowrap;color:#7928ca;border:1px solid rgba(121,40,202,.4);
+     background:rgba(121,40,202,.08);}
   .ax-plan-btn{position:relative;display:block;width:100%;box-sizing:border-box;text-align:left;
      cursor:pointer;border:none;border-radius:12px;font-family:Pretendard,system-ui;
      transition:transform .15s ease;}
@@ -455,7 +459,17 @@ function loadPaddle(clientToken, environment) {
     s.onload = () => {
       try {
         if (environment === 'sandbox') window.Paddle.Environment.set('sandbox');
-        window.Paddle.Initialize({ token: clientToken });
+        // Initialize의 eventCallback은 모든 Paddle.js 이벤트를 받는다. 결제창이
+        // 아예 열리지 못한 경우(checkout.error)는 Checkout.open의 콜백까지 가지
+        // 않으므로, 진단 로그는 여기 걸어야 한다. 오버레이는 실패를 "Something
+        // went wrong" 한 줄로 덮어버린다 — code/detail은 이 경로로만 보인다.
+        window.Paddle.Initialize({
+          token: clientToken,
+          eventCallback: (e) => {
+            if (e && (e.name === 'checkout.error' || e.name === 'checkout.warning'))
+              console.error('[ax] paddle ' + e.name, e.detail || '', e);
+          },
+        });
         resolve(window.Paddle);
       } catch (e) { reject(e); }
     };
@@ -478,27 +492,66 @@ async function pollEntitlement(tries = 5, gapMs = 2000) {
   return false;
 }
 
-/* Pro 혜택 비교표 행. 나중에 메일 리포트·키워드 알림·MCP가 붙으면 여기에 줄을 추가한다. */
+/* Pro 혜택 비교표 행. 키워드 알림이 붙으면 여기에 줄을 추가한다.
+   pro: 'soon'은 아직 만들지 않은 혜택 — 체크 대신 "준비 중" 배지가 뜬다.
+   없는 기능에 체크를 주면 돈을 받고 약속을 어기는 셈이라, 배지로만 예고한다. */
 const PRO_ROWS = [
-  { key: 'cards',   free: '1',    pro: '40' },
+  { key: 'cards',   free: '8',    pro: '40', note: true },
   { key: 'deep',    free: false,  pro: true },
   { key: 'archive', free: false,  pro: true },
   { key: 'graph',   free: false,  pro: true },
-  { key: 'langs',   free: true,   pro: true },
+  { key: 'report',  free: false,  pro: 'soon' },
+  { key: 'mcp',     free: false,  pro: 'soon' },
 ];
 
 /* 비교표 한 셀 — true면 체크(Pro 열은 강조색 원 안의 흰 체크), false면 흐린 가로줄,
-   문자열이면 그 문자열(Pro 열은 더 크고 굵게 — 숫자 대비가 가장 직관적이다). */
+   'soon'이면 준비 중 배지, 그 밖의 문자열이면 그 문자열(Pro 열은 더 크고 굵게 —
+   숫자 대비가 가장 직관적이다). */
 function ProCell({ v, t, strong }) {
   if (v === true) {
     return strong
       ? <span className="ax-check" aria-hidden>✓</span>
-      : <span style={{ color: t.body }}>✓</span>;
+      : <span style={{ color: t.mute, fontSize: 15 }}>✓</span>;
   }
-  if (v === false) return <span style={{ color: t.faint }}>—</span>;
+  if (v === 'soon') return <span className="ax-soon">{tx('pro.soon')}</span>;
+  if (v === false) return <span style={{ color: t.faint, fontSize: 15 }}>—</span>;
   return (
     <span style={{ color: strong ? t.hl : t.body, fontWeight: strong ? 700 : 400,
-      fontSize: strong ? 15 : 12.5 }}>{v}</span>
+      fontSize: strong ? 19 : 15 }}>{v}</span>
+  );
+}
+
+/* 사이트 푸터. 링크 네 개(약관·개인정보·환불·문의)는 Paddle 도메인 심사가
+   "navigation으로 분명히 접근 가능해야 한다"고 요구하는 항목이다. 그 아래 두 줄은
+   사실 고지 — 카드 글이 AI 산출물이라는 점과, 결제의 판매자가 Paddle이라는 점.
+   없는 정보(사업자번호 등)는 적지 않는다. */
+const FOOTER_LINKS = [
+  { key: 'terms',    href: '/terms' },
+  { key: 'privacy',  href: '/privacy' },
+  { key: 'refunds',  href: '/refunds' },
+  { key: 'support',  href: 'mailto:support@axitnow.com' },
+  { key: 'report',   href: 'mailto:support@axitnow.com?subject=Issue%20report' },
+];
+
+function SiteFooter({ t }) {
+  const link = { color: t.mute, textDecoration: 'none', borderBottom: '1px solid ' + t.rule };
+  return (
+    <footer style={{ padding: '56px 20px 44px', borderTop: '1px solid ' + t.rule, marginTop: 48 }}>
+      <nav style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '10px 18px',
+        marginBottom: 18 }}>
+        {FOOTER_LINKS.map((l) => (
+          <a key={l.key} href={l.href} className="ax-body" style={{ ...link, fontSize: 12.5 }}>
+            {tx('footer.' + l.key)}
+          </a>
+        ))}
+      </nav>
+      <p className="ax-body" style={{ fontSize: 11.5, lineHeight: 1.7, color: t.faint,
+        margin: '0 auto', maxWidth: 520, textAlign: 'center' }}>
+        {tx('footer.ai_notice')}<br />
+        {tx('footer.mor')}<br />
+        {tx('footer.operator')}
+      </p>
+    </footer>
   );
 }
 
@@ -507,13 +560,13 @@ function ProCell({ v, t, strong }) {
 function ProCompareTable({ t }) {
   const proBorder = '1px solid rgba(121,40,202,.38)';
   return (
-    <div style={{ marginBottom: 14, borderRadius: 10, overflow: 'hidden', border: '1px solid ' + t.rule,
-      display: 'grid', gridTemplateColumns: '1fr 52px 58px', fontFamily: 'Pretendard, system-ui' }}>
+    <div style={{ marginBottom: 16, borderRadius: 12, overflow: 'hidden', border: '1px solid ' + t.rule,
+      display: 'grid', gridTemplateColumns: '1fr 56px 74px', fontFamily: 'Pretendard, system-ui' }}>
       <div />
-      <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 11.5, fontWeight: 600, color: t.mute }}>
+      <div style={{ padding: '10px 4px', textAlign: 'center', fontSize: 13, fontWeight: 700, color: t.mute }}>
         {tx('pro.col_free')}
       </div>
-      <div className="ax-pro-col" style={{ padding: '7px 4px 6px', textAlign: 'center',
+      <div className="ax-pro-col" style={{ padding: '10px 4px 9px', textAlign: 'center',
         border: proBorder, borderBottom: 'none', borderRadius: '9px 9px 0 0' }}>
         <span className="ax-pro-badge">{tx('pro.col_pro')}</span>
       </div>
@@ -521,14 +574,19 @@ function ProCompareTable({ t }) {
         const last = i === PRO_ROWS.length - 1;
         return (
           <React.Fragment key={row.key}>
-            <div style={{ padding: '7px 10px 7px 0', fontSize: 13, fontWeight: 500, color: t.body,
-              borderTop: '1px solid ' + t.rule }}>
+            <div style={{ padding: '11px 10px 11px 14px', fontSize: 14, fontWeight: 600, color: t.hl,
+              lineHeight: 1.35, wordBreak: 'keep-all', borderTop: '1px solid ' + t.rule }}>
               {tx('pro.row_' + row.key)}
+              {row.note && (
+                <div style={{ marginTop: 2, fontSize: 11.5, fontWeight: 500, color: t.mute }}>
+                  {tx('pro.row_' + row.key + '_note')}
+                </div>
+              )}
             </div>
-            <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 12.5, borderTop: '1px solid ' + t.rule }}>
+            <div style={{ padding: '11px 4px', textAlign: 'center', fontSize: 14.5, borderTop: '1px solid ' + t.rule }}>
               <ProCell v={row.free} t={t} />
             </div>
-            <div className="ax-pro-col" style={{ padding: '7px 4px', textAlign: 'center',
+            <div className="ax-pro-col" style={{ padding: '11px 4px', textAlign: 'center',
               borderLeft: proBorder, borderRight: proBorder,
               borderBottom: last ? proBorder : 'none', borderRadius: last ? '0 0 9px 9px' : 0 }}>
               <ProCell v={row.pro} t={t} strong />
@@ -622,6 +680,13 @@ function SubscribeModal({ onClose, t }) {
         customData: { email: cfg.email },      // 웹훅이 이 이메일로 권한을 연다
         settings: { displayMode: 'overlay', theme: 'light' },
         eventCallback: async (e) => {
+          // Paddle 오버레이는 실패를 "Something went wrong" 한 줄로만 덮는다. 실제
+          // 원인은 이 이벤트에만 들어 있으므로 콘솔에 그대로 남긴다 — 운영자가
+          // 결제 문제를 진단할 유일한 통로다.
+          if (e.name === 'checkout.error' || e.name === 'checkout.warning') {
+            console.error('[ax] paddle ' + e.name, e);
+            return;
+          }
           if (e.name !== 'checkout.completed') return;
           setPhase('confirming');
           if (await pollEntitlement()) window.location.reload();
@@ -657,7 +722,7 @@ function SubscribeModal({ onClose, t }) {
       style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
       display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
-        padding: 24, width: 320, maxWidth: '88vw', fontFamily: 'Pretendard, system-ui' }}>
+        padding: 26, width: 440, maxWidth: '92vw', fontFamily: 'Pretendard, system-ui' }}>
         <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>{tx('paywall.modal_title')}</p>
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
           {tx('paywall.modal_body')}
@@ -1852,6 +1917,7 @@ function InsightsView({ t, mobile, entitled }) {
         if (prevId === nextId) return;
         hoverRef.current = next;
         el.style.cursor = next ? 'pointer' : 'default';
+        pauseSpin(!!next);   // 노드 위에서는 자전을 멈춘다
         restyle();
       })
       .onNodeDrag((n) => {
@@ -1938,7 +2004,20 @@ function InsightsView({ t, mobile, entitled }) {
     };
     g.__orientLinks = orientLinks;
     controls.enablePan = false;
-    controls.autoRotateSpeed = 0.55;
+    // 자전 속도 — 노드에 커서가 닿으면 즉시 멈추고, 커서가 떠나면 원래 속도까지
+    // 서서히 올린다. 멈춤이 즉각적이어야 겨냥한 노드가 커서 밑에서 미끄러지지
+    // 않고, 재가동이 점진적이어야 화면이 덜컥 튀지 않는다. 실제 속도 적용은
+    // 프레임 루프(fxLoop)가 맡는다.
+    const SPIN_SPEED = 0.55;
+    const SPIN_RAMP_MS = 1200;
+    let spinRamp = 1;          // 0 = 정지, 1 = 원래 속도
+    let spinPaused = false;    // 호버로 인한 일시정지
+    controls.autoRotateSpeed = SPIN_SPEED;
+    const pauseSpin = (on) => {
+      if (spinPaused === on) return;
+      spinPaused = on;
+      if (on) { spinRamp = 0; controls.autoRotateSpeed = 0; }   // 멈춤은 즉시
+    };
     const setRotate = (on) => { controls.autoRotate = on && !selRef.current; };
     setRotate(true);
     g.__setRotate = setRotate; g.__restyle = restyle;   // 카루셀 핸들러에서 사용
@@ -2092,9 +2171,18 @@ function InsightsView({ t, mobile, entitled }) {
     };
     let fxRaf = 0;
     const fxT0 = performance.now();
+    let fxPrev = 0;
     const fxLoop = (now) => {
       const f = selRef.current, pid = pulseRef.current;
       const ph = (now - fxT0) / 1000;
+      // 자전 램프 — 호버가 풀린 뒤 1.2초에 걸쳐 0에서 원래 속도까지 올린다.
+      // smoothstep이라 출발도 도착도 완만하다. 첫 프레임의 dt는 버린다.
+      const dt = fxPrev ? Math.min(100, now - fxPrev) : 0;
+      fxPrev = now;
+      if (!spinPaused && spinRamp < 1) {
+        spinRamp = Math.min(1, spinRamp + dt / SPIN_RAMP_MS);
+        controls.autoRotateSpeed = SPIN_SPEED * (spinRamp * spinRamp * (3 - 2 * spinRamp));
+      }
       const blink = 0.5 + 0.5 * Math.sin(ph * 4.5);
       g.graphData().nodes.forEach((n) => {
         const o = n.__threeObj; if (!o) return;
@@ -2130,7 +2218,7 @@ function InsightsView({ t, mobile, entitled }) {
     const onResize = () => { g.width(el.clientWidth).height(el.clientHeight); };
     // 포인터가 창을 벗어날 때 호버가 남아 있으면 그 클러스터 외 전부가 회색으로
     // 굳는다 — 확실하게 해제한다.
-    const onLeave = () => { if (hoverRef.current) { hoverRef.current = null; restyle(); } };
+    const onLeave = () => { pauseSpin(false); if (hoverRef.current) { hoverRef.current = null; restyle(); } };
     el.addEventListener('pointerleave', onLeave);
     const ro = new ResizeObserver(onResize);
     ro.observe(el);
@@ -2635,12 +2723,9 @@ function ThemedPage({ themeKey }) {
               {tx('section.empty')}</p>
           </div>
         )}
-        {/* site footer — minimal: copyright + privacy policy (required by AdSense) */}
-        <footer style={{ textAlign: 'center', padding: '48px 20px 40px' }}>
-          <p className="ax-body" style={{ fontSize: 12.5, color: t.faint, margin: 0 }}>
-            © AX-it NOW · <a href="/privacy" style={{ color: t.faint, textDecoration: 'underline' }}>{tx('footer.privacy')}</a>
-          </p>
-        </footer>
+        {/* 사이트 푸터 — 약관·개인정보·환불 링크는 Paddle 도메인 심사의 요구사항이고,
+            AI 생성 고지와 운영자 표기는 사실 그대로 적는다. */}
+        <SiteFooter t={t} />
       </div>
       {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     </div>
