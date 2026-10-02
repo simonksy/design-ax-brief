@@ -2569,6 +2569,372 @@
           "x": "There's also eval. It runs C# directly inside a live Unity instance — the editor or a running build — to handle one-off tasks. That's how the video wraps up: until now, the Unity editor was the only way in, but now it's open to whatever tool fits the moment."
         }
       ]
+    },
+    "games/games-miris-spatial": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Video has run on adaptive streaming for a long time. One source file reaches any screen, any connection, and playback starts with almost no wait. Miris moved that approach to 3D. 80 Level asked Miris CTO Sean Looper what spatial streaming changes for developers."
+        },
+        {
+          "t": "video",
+          "yt": "nma846ogvkw"
+        },
+        {
+          "t": "p",
+          "x": "Looper started in animation and visual effects. He led real-time streaming graphics and HPC teams at DreamWorks Animation and also passed through Sony Pictures Imageworks, working on more than 60 films along the way. He later built HPC products for real-time graphics processing at thousands-of-CPU scale at AWS, and started working with Miris about three years ago."
+        },
+        {
+          "t": "p",
+          "x": "3D delivery has always been a tradeoff. Pre-rendering like a film gives the best image quality but locks the viewpoint; game engines move freely but cut image quality. Pixel streaming, which rents cloud GPUs, loads on new burdens of GPU supply, cost, and latency. Looper says the industry has treated this tradeoff like a law of physics. That premise broke once AI pushed the computation burden to the front end."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/43/images/6a7e4e1d59cb0/widen_1840x0.jpg",
+          "cap": "Miris brand image — 3D streaming without limits"
+        },
+        {
+          "t": "p",
+          "x": "When a customer hands over the highest-quality original asset, AI optimization runs for anywhere from minutes to hours depending on the asset and settings. The result is, in effect, a single spatial database. From there, a smart client reads device performance, network conditions, the viewing point of the content, and the nature of the asset, and pulls in only exactly what's needed."
+        },
+        {
+          "t": "p",
+          "x": "The use case getting the biggest response right now is asset review. Distributed teams check the original, with lighting, materials, and dense geometry left intact, on a tablet, an iPhone, or a low-spec laptop. Medical visualization, media and entertainment, e-commerce, and industrial digital twins face the same problem. The SDK is up on GitHub, and it drops in with a few lines of TypeScript or plain HTML."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/9a/images/6a7e4a19dffba/widen_1840x0.png",
+          "cap": "Miris CTO Sean Looper"
+        },
+        {
+          "t": "p",
+          "x": "Looper sees 3D following the same path the internet took from image-centric to video-centric, with generative AI pulling that speed forward sharply. Just as smartphone cameras opened up video production, people who couldn't handle professional software are now making 3D."
+        }
+      ]
+    },
+    "games/games-nexxus-ai-labs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Neksseosseu (CEO Jang Hyun-guk) announced on the 19th that it had opened 'Neksseosseu AI Labs,' a portal gathering 11 AI solutions it developed in-house. The portal was built to take AI research results beyond demos and prove them out as commercial products ready for immediate use in real work."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/08/19/6863fe42f79eab5c64bd64fcb166bda0.png",
+          "cap": "Neksseosseu unveils 'AI Labs' portal gathering 11 AI solutions"
+        },
+        {
+          "t": "p",
+          "x": "The released solutions were built with the autonomous development platform 'Neksseosseu AI Framework.' Enter a goal, and 33 AI agents and 39 specialized functions collaborate to automatically carry out the entire process from planning through design, development, and verification. It's a structure that produces polished products without a person writing code directly."
+        },
+        {
+          "t": "p",
+          "x": "The solutions registered on the portal are split into three areas: content creation, work automation, and blockchain integration. The content area includes the 3D model creation tool 'Text to 3D,' the ad trailer creation solution 'Eibeu,' and the pixel-art generator 'Perfect Pixel.' The work automation area is made up of the marketing platform 'Kiroro,' the automatic meeting-minutes solution 'Bap,' and 'ImageToApp,' which turns plans into apps."
+        },
+        {
+          "t": "p",
+          "x": "In the blockchain integration area, it unveiled 'OneChain Skill,' built on natural-language commands. This solution had its safety proven last June when it passed every item of the AI skill security inspection run by CertiK, the global Web3 security firm. Along with these, the text-based game creation tool 'wasd,' the AI video solution 'Red Studio,' and 'StoryMaker' round out the 11 solutions on offer."
+        },
+        {
+          "t": "p",
+          "x": "Neksseosseu CEO Jang Hyun-guk said, \"One of the keys to the era of AI transition is how fast you can prove technology research as a product that can be demonstrated in reality,\" adding, \"We're already implementing products at the speed of thought through AI, and we plan to expand that capability across our blockchain platform business as a whole.\""
+        }
+      ]
+    },
+    "games/games-roblox-roost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Roblox is open-sourcing three of its AI safety models through ROOST (Robust Open Online Safety Tools Model Community). ROOST is an independent nonprofit that builds and maintains open-source infrastructure for online safety, founded by Roblox together with Google, OpenAI, and Discord in 2025."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/roblox-phone.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Image source: Roblox"
+        },
+        {
+          "t": "p",
+          "x": "The models being released are the PII classifier, Roblox Sentinel, and the newest voice safety classifier. All three are already running on the Roblox platform."
+        },
+        {
+          "t": "p",
+          "x": "The PII classifier catches attempts to share or request personally identifiable information, filtering even cases where spelling is twisted, slang is used, or another platform is referenced indirectly. Roblox is also releasing an evaluation dataset for this tool: \"synthetic samples of English-language multi-user chat\" modeled on common tricks used to dodge PII filters."
+        },
+        {
+          "t": "p",
+          "x": "Roblox Sentinel detects early signs that a child is at risk. The newest voice safety classifier moderates voice chat in real time and incorporates feedback from the ROOST community. Roblox is also releasing a new evaluation dataset so other companies can benchmark their own safety tools. The latest version covers 30 languages and eight violation types."
+        },
+        {
+          "t": "p",
+          "x": "Naren Koneru, vice president of trust and safety engineering, said, \"Sharing these models gives other platforms a solid starting point to train and refine their own moderation tools,\" adding, \"We hope that when they share their results, we get something back too, from that learning and feedback.\" He added that safety is a shared responsibility that no single company can solve alone."
+        },
+        {
+          "t": "p",
+          "x": "Earlier this week, the U.S. Senate Judiciary Committee's crime and counterterrorism subcommittee said it had opened an investigation, saying Roblox appears to prioritize revenue and engagement metrics over child safety. Roblox must turn over materials on child safety, sexual and physical abuse, bullying, and financial exploitation by August 31, 2026. In recent years, Roblox has rolled out a string of measures, including restricting direct messages for users under 13, facial-recognition age verification worldwide, 'sensitive topics' content tags, and tightened moderation policies."
+        }
+      ]
+    },
+    "games/games-spider-walker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49837/images/6a8847cb10346/contain_1200x630.jpg",
+          "cap": "The free Blender addon Spider Walker"
+        },
+        {
+          "t": "p",
+          "x": "Roman 'Iltaen' Gibadulin, an artist known for low-poly 3D work, released a free addon for Blender 5.2 LTS. It moves the legs of a multi-legged rig, spider-style, procedurally and in real time."
+        },
+        {
+          "t": "p",
+          "x": "Here's how it works: each leg raycasts toward the floor and plants its foot one after another as the character moves. It even reads the direction of travel ahead of time, so legs land out in front instead of trailing behind the body. If the motion looks good, the built-in bake feature can turn the real-time simulation into a regular keyframed action for further tweaking."
+        },
+        {
+          "t": "p",
+          "x": "To use it, you need an armature with a body (root) bone and independent leg controller bones that aren't parented to the body bone. You also need a collection of mesh objects for the feet to walk on. Since Spider Walker ultimately just calculates each foot's next footstep position, there's room for it to work on bipedal or quadrupedal rigs too."
+        },
+        {
+          "t": "p",
+          "x": "The creator describes what happens every frame like this: it reads the center bone's current world coordinates to estimate the body's velocity, then checks each leg's current planted position against a predicted target. The target is the body-relative rest position pushed forward in the direction of travel, scaled to velocity. Once a leg strays far enough from that target, it raycasts downward from the predicted point to find a landing spot and starts a step. The foot lifts, arcs, and comes down on the new target. Legs move one at a time in list order, so you won't get all legs stepping at once."
+        },
+        {
+          "t": "p",
+          "x": "The creator said part of the code was built and refined with AI's help. 80 Level also recommends Lincoln Magisson's tutorial for anyone who wants to dig deeper into procedural animation for multi-legged creatures."
+        },
+        {
+          "t": "video",
+          "yt": "L0Z5_KLN7fE"
+        }
+      ]
+    },
+    "games/games-1666-amsterdam": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Luke Plunkett first covered 1666: Amsterdam because the game's reveal trailer had AI-generated images mixed into it. The subject of this piece, which he hopes will be the second and last, is that studio co-founder Patrice Désilets seems to have learned nothing from that controversy."
+        },
+        {
+          "t": "p",
+          "x": "In an interview published in Eurogamer, Désilets tried to explain the AI elements in the reveal trailer. \"We live in a world full of AI. Let's be honest with each other. But there were things in the pipeline that we didn't polish enough, and since then we made sure not to use AI anywhere in the game.\""
+        },
+        {
+          "t": "p",
+          "x": "Plunkett thinks this answer completely misread the room. Désilets is, he writes, \"so steeped in tech, up to his eyeballs in it, that he's trying to wave off a serious, insulting PR disaster with a 'sorry we got caught doing what everyone does' routine.\""
+        },
+        {
+          "t": "p",
+          "x": "Désilets' explanation continues like this. \"You can ask AI for 75 variations of one subject. But you can't get 75 different illustrators to produce variations in three seconds. That's the world we live in, and we were making the game with a small team, so we put that in.\""
+        },
+        {
+          "t": "p",
+          "x": "Plunkett writes that this particular line sticks with him. The game has more than a dozen professional artists attached to it, and gamers' attitudes toward AI use in game development, especially in artwork, are already well documented."
+        },
+        {
+          "t": "p",
+          "x": "When the Eurogamer interview, conducted in Amsterdam, pressed further on the subject, Désilets was reluctant to say more. The on-the-scene account adds this: \"At the time, another outlet's reporter and a creator present said this is just a tool you use, so this kind of discussion isn't necessary.\""
+        },
+        {
+          "t": "p",
+          "x": "Plunkett's conclusion is simple. Developers may want to steer interviews toward other topics, but public concern over AI use remains a legitimate question for reporters to pursue. This brief back-and-forth captures, as of 2026, the tension between developers and the games press."
+        },
+        {
+          "t": "video",
+          "yt": "i6uIMLgVxRE"
+        }
+      ]
+    },
+    "games/games-ai-podcast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf3fc88a2734c2ee4/6a88636db244e43b9a248c59/AIrezluke.png?width=1400&auto=webp&quality=80&disable=upscale",
+          "cap": "Luke Dicken and David 'Rez' Graham on the Game Developer podcast"
+        },
+        {
+          "t": "p",
+          "x": "The episode the Game Developer podcast released on August 21, 2026 is titled \"We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken.\" It means exactly what it says: they're finally talking about AI."
+        },
+        {
+          "t": "p",
+          "x": "Three people sat down for it. Senior editor Bryant Francis hosts, with David 'Rez' Graham, a former senior engineer at Maxis, and Dr. Luke Dicken, who headed AI at Take-Two, as guests. Both are longtime fixtures in game development."
+        },
+        {
+          "t": "p",
+          "x": "The conversation starts from how each of them has personally weathered the recent AI frenzy that has swept Silicon Valley. The intro sums it up this way: what they still love about game AI, and how to judge what's actually valuable about artificial intelligence without getting swept up in empty hype, whether you're an AI enthusiast or standing on the other side."
+        },
+        {
+          "t": "p",
+          "x": "It isn't just technical talk, though. The episode sets technical AI concepts alongside broader questions of what work is and where value comes from in game development. It's also an attempt to draw a line between long-standing game AI design and today's generative tools."
+        },
+        {
+          "t": "p",
+          "x": "The Game Developer podcast is a biweekly record of game development, hosted by Bryant Francis, edited by Pierre Landriau, with music by Mike Meehan. Recent episodes have covered Godot engine adoption and game localization."
+        }
+      ]
+    },
+    "games/games-deepmind-eve": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/3-fa8dN6qE5zOqabv7DWbya-NaanaBbogE0CR7nURBOCYbUReRvXpk-wXVVWc-rH54_I9h0dAy_j1p_eglh-ozRny_GqvCN4nfG06HbEqq96dBhRoA=w1440-h810-n-nu",
+          "cap": "A banner spanning 15 years of game AI, from retro arcade screens to Go boards, strategy game interfaces and starships"
+        },
+        {
+          "t": "p",
+          "x": "From Atari to Go and then to StarCraft, games have produced several of AI's biggest breakthroughs. Google DeepMind now pairs directly with game developers to prototype new play experiences."
+        },
+        {
+          "t": "p",
+          "x": "Since it opened its doors in 2010, games have been DeepMind's window into intelligence. Founder Demis Hassabis himself came from a game development background."
+        },
+        {
+          "t": "p",
+          "x": "It started with a small team training a deep neural network to learn Atari 2600 games from screen pixels alone. The model, called DQN, learned 49 games without game-specific design, and a 2015 Nature paper opened the era of deep reinforcement learning."
+        },
+        {
+          "t": "p",
+          "x": "Next came more complex games. AlphaGo beat world champion Lee Sae Dol in 2016, and AlphaGo Zero surpassed the earlier version through self-play alone. AlphaZero learned chess, shogi and Go with a single algorithm. In 2019, AlphaStar reached grandmaster level in StarCraft II."
+        },
+        {
+          "t": "p",
+          "x": "AlphaGo's move 37 was so unfamiliar that commentators mistook it for an error, and it overturned centuries of accumulated Go wisdom. AlphaFold solved the 50-year problem of protein structure prediction, leading to the 2024 Nobel Prize in Chemistry."
+        },
+        {
+          "t": "p",
+          "x": "Given enough goals and training, AI conquered any game. But the real world has no scoreboard and no rulebook. Can it understand and handle game worlds the way a person does? That question produced SIMA, the Scalable Instructable Multiworld Agent, which watches the screen, understands natural-language instructions, and acts through keyboard and mouse."
+        },
+        {
+          "t": "p",
+          "x": "SIMA 2, built on Gemini, is closer to a companion that reasons and converses in real time. It shows human-level play in 3D environments like No Man's Sky, Valheim and Hydroneer. The key point is that it can be attached without touching the game's code. That's what makes possible NPC responses that scripting couldn't produce, and QA for builds that change with every commit."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/acoFLxTvy-DIhcRG0Kedf8ZDpwBzIo5Hcxf_Pxj9PeWxaCMHUkiCPjKPcTDX4dgQavjV6o6x9kX79Jhor6CBX3XNY7S4xnzga4Ft73lLw0Zj0zwq0AY=w1440-h810-n-nu",
+          "cap": "A workshop where the Google DeepMind and Fenris Creations teams exchanged playable prototypes and feedback"
+        },
+        {
+          "t": "p",
+          "x": "This time's partner is Fenris Creations, the independent studio behind the EVE Universe. Launched in 2003, EVE Online is a space simulation where thousands of people have shared a single universe for more than 20 years. Real, moving supply and demand, and a trade network linking thousands of star systems, were all built by human hands."
+        },
+        {
+          "t": "p",
+          "x": "From a research standpoint, the conditions are about as good as it gets. It requires, all at once, the ability to keep learning without forgetting, memory that exceeds a model's context window, planning over years, and multi-agent dynamics tangled up with negotiation and economics."
+        },
+        {
+          "t": "p",
+          "x": "Hilmar Pétursson, CEO of Fenris Creations, said, \"EVE Online was conceived from day one as a player-driven sandbox where consequences last,\" adding, \"with Google DeepMind, we're stepping into uncharted territory where AI has to learn, adapt, and remember.\""
+        },
+        {
+          "t": "p",
+          "x": "EVE Vanguard handles fast tactical decisions on the ground in first-person view, and EVE Frontier, with its programmable Smart Assemblies, is an environment where the rules themselves can change."
+        },
+        {
+          "t": "p",
+          "x": "Some results are already felt by players. Aura Guidance uses Gemini to pass real Rookie Help questions and answers to new pilots. The goal, now as before, is to be a catalyst, not a replacement."
+        }
+      ]
+    },
+    "games/games-r6-toxmod": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rainbow Six Siege sharply cut voice chat abuse after adding ToxMod, Modulate's AI voice intelligence platform. Having seen player behavior improve over a year, Ubisoft extended its partnership with Modulate to keep pushing for healthier voice conversations."
+        },
+        {
+          "t": "p",
+          "x": "The results showed up together across several metrics. After in-game sanctions were introduced, severe voice abuse fell 50%, and overall voice toxicity dropped 30% as well. Within two weeks of turning sanctions on, toxicity per session fell from about 37% to 8%. The platform now analyzes roughly 800,000 hours of voice per month."
+        },
+        {
+          "t": "p",
+          "x": "Voice moderation is among the trickiest game safety problems there is. Fast-moving tactical play, open-mic team chat, and expressions specific to this one game all pile on top of each other, overwhelming older approaches. Even before ToxMod, the team received reports of harmful voice chat, but had no way to verify incidents or back up sanction decisions consistently."
+        },
+        {
+          "t": "p",
+          "x": "Lancelot Satge, who leads game protection for Rainbow Six Siege at Ubisoft, said, \"ToxMod was a solution we could drop in right away, yet powerful enough to learn our game's language and reality and adapt to it.\""
+        },
+        {
+          "t": "p",
+          "x": "The rollout started with a four-week pilot run. During that period, ToxMod analyzed voice in real time but took no action visible to players. In the meantime, the team learned the character of the environment, tuned detection thresholds, and figured out how to tell harmful behavior apart from legitimate tactical callouts. Live operation began in September 2025."
+        },
+        {
+          "t": "p",
+          "x": "What the analysis revealed is that harmful behavior clusters. In a 34-day assessment, about 35% of users flagged on a given day generated two or more high-severity detections, and that group accounted for about 66% of that day's incidents. That made narrowly targeted intervention possible instead of broad discipline."
+        },
+        {
+          "t": "p",
+          "x": "The next task is refining operations around player reports and sanction history. The two teams also plan to look at recognizing good behavior, identifying people who give useful callouts and welcome new players. Satge asked, \"When someone makes a good callout, helps a teammate, and sets an example, how can we recognize and reward that?\""
+        },
+        {
+          "t": "p",
+          "x": "Modulate CEO Mike Pappas emphasized the ability to read context. \"A transcript alone can't reliably tell a tactical callout apart from friendly banter or targeted hate speech.\" Rainbow Six Siege has more than 100 million registered players, and voice chat is an inseparable part of competitive play."
+        }
+      ]
+    },
+    "games/games-skillprint-signal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/Skillprint-Signal-AI-Benchmark.jpg",
+          "cap": "The Signal AI benchmark released by Skillprint"
+        },
+        {
+          "t": "p",
+          "x": "Skillprint has opened a beta for the Skillprint Signal Benchmark, the first public benchmark to score how much an AI model actually improves a real person's performance."
+        },
+        {
+          "t": "p",
+          "x": "Existing benchmarks look at what a model knows, how accurately it answers questions, and how well it completes set tasks. Signal looks at something different. The company explained that it measures how well a model adjusts a live game in real time to move an actual person toward a target mental state, such as deeper focus, relaxation, or improvement in a specific cognitive ability."
+        },
+        {
+          "t": "p",
+          "x": "Signal places an AI model inside a game that real participants play. While a person plays, the model adjusts the game's parameters in real time toward a set outcome, such as focus or relaxation. It then measures how much the player's state actually changed, and ranks models based on that outcome."
+        },
+        {
+          "t": "p",
+          "x": "It's built on six years of research, drawing on more than 500,000 players and more than 1,000 games, quizzes and simulations to examine the relationship between play, cognition, mood and player state."
+        },
+        {
+          "t": "p",
+          "x": "With this release, Skillprint has entered its next stage. Over six years of building a play-based intelligence platform, it has held onto one belief: AI should augment people's abilities instead of replacing them."
+        },
+        {
+          "t": "p",
+          "x": "Skillprint CEO Chethan Ramachandran said, \"Most AI benchmarks tell you how smart a model is on its own. Drawing on years of decoding human cognition at scale, we built a benchmark that tells you whether that model can actually help a person boost their performance and intelligence. As AI becomes part of everyday life, we think that will be one of the most important measures there is.\""
+        }
+      ]
+    },
+    "games/games-ace-aniimo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
+          "cap": "Nvidia ACE coming to Aniimo. Image credit: Pawprint Studio"
+        },
+        {
+          "t": "p",
+          "x": "Alongside the launch of Ray Reconstruction for DLSS 4.5, Nvidia announced it's bringing ACE technology to other games too. That's the same tech that powers PUBG: Battlegrounds' generative AI teammate. This time the stage is Aniimo, an open-world monster-collecting RPG from Chinese developer Pawprint Studio. It follows the \"legally distinct\" Pokémon formula that games like Palworld have settled into, but with Nvidia's technology layered on, players will actually be able to talk with their monsters."
+        },
+        {
+          "t": "p",
+          "x": "“In early 2027, Nvidia ACE will run on RTX GPUs, and players will be able to talk naturally with their own Aniimo.” That's what Nvidia senior product marketing manager Ike Nnoli said at a Gamescom pre-briefing that RPS also attended. “You'll have conversations, teach them new skills like crafting or mining, and get to know each one's distinct personality.”"
+        },
+        {
+          "t": "p",
+          "x": "The PUBG AI teammate project is built so NPCs use an AI brain to react to combat situations and pull their weight in tactical maneuvers. Aniimo's version is closer to the more familiar AI chatbot."
+        },
+        {
+          "t": "p",
+          "x": "During the Q&A, someone asked how they prevent generative AI NPCs from being talked into handing out quest rewards early, something that happened last year in the Chinese RPG Where Winds Meet. Nnoli's answer: “With our technology, developers have full control over how far a character will go in responding to a player — behavior and response guardrails, right down to the model instructions.” Aniimo keeps its scope tied to Homeland, the base where Pawprint has players craft, mine, and gather resources, and the monsters only do set activities there. Reactions are set to come as “specific actions and emojis” rather than voiced dialogue."
+        },
+        {
+          "t": "p",
+          "x": "Seen that way, Aniimo's use case is closer to an AI version of Nintendogs. That's not surprising as this kind of technology spreads. Still, there's a catch attached: unlike PUBG's AI soldiers, kids are far more likely to be the ones interacting with this AI monster. Here's hoping it's less prone than Fortnite's AI Darth Vader to having its mask slip mid-conversation or getting goaded into mischievous responses."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia has signaled that ACE technology is coming to Aniimo in early 2027. The Steam page still just says \"coming soon,\" but the game's launch is probably around the same time."
+        }
+      ]
     }
   }
 }

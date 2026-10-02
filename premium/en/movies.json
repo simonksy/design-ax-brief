@@ -2452,6 +2452,146 @@
           "yt": "G0L8wTLaS8U"
         }
       ]
+    },
+    "movies/movies-accuface-2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/AccuFACE-2_1280x720.jpg",
+          "cap": "AccuFACE 2"
+        },
+        {
+          "t": "p",
+          "x": "Reallusion has released AccuFACE 2, a markerless facial motion capture system. It's a production-grade tool that transfers facial performance shot with an ordinary webcam or iPhone camera directly onto CC5 HD characters, with no separate mocap studio required."
+        },
+        {
+          "t": "p",
+          "x": "Since it extracts character expressions from footage alone, with no markers or helmet rigs, it's aimed squarely at small animation teams that don't have a mocap stage."
+        },
+        {
+          "t": "p",
+          "x": "The core of the tool is that, instead of expensive equipment, a webcam or smartphone already sitting on the desk is enough to capture facial performance the very next day."
+        }
+      ]
+    },
+    "movies/movies-ltx-2-5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "LTX has released LTX-2.5, an open-weight video world model. Just as a large language model predicts the next word, a world model predicts the next moment in a video. Studios can run this model on their own servers, keeping footage and IP in-house, and even fine-tune it further on their own material."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/ltx1-1280.jpg?itok=1swlnJRm",
+          "cap": "LTX-2.5"
+        },
+        {
+          "t": "p",
+          "x": "There are three key points. It renders multi-shot sequences at once while keeping characters, backgrounds and voices consistent across cuts. It fully supports reading and writing ACES HDR, preserving tonal range through the entire production pipeline. And it carries its own Gemma 4 language backbone plus a dedicated prompt enhancer, letting it handle complex prompts with multiple subjects tangled together."
+        },
+        {
+          "t": "p",
+          "x": "Technically, it uses a method called Diffusion Fidelity Rendering. It builds motion and structure in a latent space compressed 8x, and sets up high-quality keyframes by adjusting the number of key frames to match scene complexity and available compute. A new decoder keeps the same compression efficiency while reducing artifacts in high-motion scenes."
+        },
+        {
+          "t": "p",
+          "x": "It's available immediately through Hugging Face, the LTX API and ComfyUI. LTX co-founder and CEO Zeev Farbman said, \"A world model grapples with a problem large language models have never faced: keeping motion, space and sound consistent over time.\" Cumulative downloads have passed 33 million, and it's already being used in film production, robotics and real-time rendering, with partners including Asteria, ComfyUI, Markov Robotics and Reactor."
+        }
+      ]
+    },
+    "movies/movies-runway-ruby": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4IliQGaQwJ8"
+        },
+        {
+          "t": "p",
+          "x": "Runway Ruby is a new model that creates 16-bit HDR ProRes and EXR sequences. It can also convert clips you've already shot, or earlier generated output, into that format."
+        },
+        {
+          "t": "p",
+          "x": "It works alongside other video models, including Gen-4.5, Seedance 2.5, and MiniMax H3."
+        },
+        {
+          "t": "p",
+          "x": "You can try Runway Ruby today at app.runwayml.com."
+        }
+      ]
+    },
+    "movies/movies-subtitlenext-asr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ProFuzz Digital has expanded the speech-to-text features in SubtitleNext, its subtitle and audio-description management platform. It now connects four AI transcription engines — AssemblyAI, Deepgram, ElevenLabs, and Whisper — so users can choose based on language coverage, accuracy, processing speed, and deployment method."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/SubtitleNEXTScreenshot4-copy-624x416.jpg",
+          "cap": "SubtitleNext"
+        },
+        {
+          "t": "p",
+          "x": "On the localization side, it added import and export support for the IMSCR script format, along with more integrations tied to production and localization pipelines. The display now supports HiDPI for high-resolution screens, and users can customize workspace columns per project."
+        },
+        {
+          "t": "p",
+          "x": "Batch processing also expanded. Burn-in jobs, duplicate/delete functions, and timecode conversion with offset adjustment can all run together, and a new Movie File Burn Expert plugin converts video across multiple formats and resolutions. On the broadcast side, Teletext validation coverage was expanded, and a speaker-role assignment feature for accessibility work was added."
+        },
+        {
+          "t": "p",
+          "x": "ProFuzz Digital CEO Ivanka Vasileva said, “We understand how important the role of subtitle creators is across sports content, film, and TV programming.” The update is set to be demonstrated at IBC 2026."
+        }
+      ]
+    },
+    "movies/movies-apple-headsup": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "gnp86XUSzgg"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge's weekly AI movie news show, 'Apple Can Now Clone You and it's CRAZY Realistic.' Released August 21, 2026, running about 33 minutes. It opens with Seedance 2.5's 1080p update alongside Runway, Artlist and Dreamina, then covers a memorandum of understanding between the Motion Picture Association (MPA) and ByteDance on IP protection, Apple's face and emotion cloning research 'Heads Up', the open-source voice cloning tool Index TTS 2.5, Move AI's motion capture system 'M3', Lottielab, CADxstudio, and this week's AI short film."
+        },
+        {
+          "t": "p",
+          "x": "The video centers on a new white paper from Apple's research team. The tool, called Heads Up, is still internal to Apple and not a publicly released product. The team gathered 10,000 subjects and photographed their faces in high resolution. From those photos they built 3D Gaussian splats, essentially high-resolution 3D scans that let you rotate the camera freely around them. That's where it starts."
+        },
+        {
+          "t": "p",
+          "x": "The real part comes next. By blending the images of the 10,000 subjects, the system synthesizes new faces from a simple prompt. It then projects emotion onto that 3D face, whether the face is real or synthesized. In the video, a man's exaggerated expression is lifted and placed onto a neutral scan of a woman below. It also works the other way: a single neutral scan takes on an entirely different person's expression. When a real actor performs on the left side of the screen, five people on the right mirror that same performance."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't stop there. Apple also built a UI that lets users fine-tune a character's expression. A person grabs sliders directly and pushes and pulls emotions. Tools like this have existed before, but Curious Refuge judges this level of detail and control to be the best available right now."
+        },
+        {
+          "t": "p",
+          "x": "In day-to-day work, there isn't much need to fiddle with sliders to this degree. But inside Photoshop, it's a different story. When an ad shot with a model needs just a tiny tweak to its expression, or when a movie poster needs an emotion that wasn't captured on set, it's easy to picture this kind of technology settling into professional tools. This round of subjects was called into Apple's headquarters for scanning, but given the sensors already built into the iPhone, it looks like this could reach everyday users before long."
+        }
+      ]
+    },
+    "movies/movies-glass-matte": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brandon Tonner-Connolly, production designer on 'Teenage Sex and Death at Camp Miasma,' broke down a glass matte painting shot in an entertaining Instagram post. Article by Ian Failes, August 24, 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/matte.jpg",
+          "cap": "A glass matte painting shot from 'Teenage Sex and Death at Camp Miasma.' Image source: befores & afters"
+        },
+        {
+          "t": "p",
+          "x": "Tonner-Connolly's post begins with the idea that, since Camp Miasma is officially opening today, he wanted to take a closer look at that glass matte shot. It started as an idea to build a portal for Chris to walk into, and it turned into a project where a group of talented people made something no one had done before."
+        },
+        {
+          "t": "p",
+          "x": "Credits: director @janedoesnotknow, cinematography @eric_k_yue, production design BTC & MH, art director @jumpintomyfantasywagon, matte painter Erkin Aycan, scenic charge Sean Lavoie, VFX @f_e_n_n_e_r · @niche.vfx, B-camera operator @rasmussteinfoss, executive producer @caddypantida, producers Jeremy Kleiner · Dede Gardner. Many more craftspeople and artists whose names couldn't all be listed here also took part."
+        }
+      ]
     }
   }
 }

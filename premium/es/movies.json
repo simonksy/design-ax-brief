@@ -2349,6 +2349,146 @@
           "x": "El nivel gratuito cubre conexiones ilimitadas de dispositivos y almacenamiento, además de la revisión de archivos. Basic añade edición remota y transferencias ilimitadas por 8 dólares al mes, y Pro cuesta 24 dólares al mes."
         }
       ]
+    },
+    "movies/movies-accuface-2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/AccuFACE-2_1280x720.jpg",
+          "cap": "AccuFACE 2"
+        },
+        {
+          "t": "p",
+          "x": "Reallusion ha lanzado AccuFACE 2, un sistema de captura de movimiento facial sin marcadores. Es una herramienta de nivel de producción que traslada directamente a personajes CC5 HD la interpretación facial grabada con una webcam común o la cámara de un iPhone, sin necesidad de un estudio de mocap aparte."
+        },
+        {
+          "t": "p",
+          "x": "Como extrae las expresiones del personaje solo a partir del material grabado, sin marcadores ni rigs tipo casco, apunta directamente a los equipos de animación pequeños que no cuentan con un escenario de mocap."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de equipos costosos, lo esencial de esta herramienta es que una webcam o un smartphone que ya están sobre el escritorio bastan para captar la actuación facial al día siguiente."
+        }
+      ]
+    },
+    "movies/movies-ltx-2-5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "LTX ha presentado LTX-2.5, un modelo de mundo de video con pesos abiertos. Igual que un modelo de lenguaje grande predice la siguiente palabra, un modelo de mundo predice el siguiente instante dentro de un video. Los estudios pueden ejecutar este modelo en sus propios servidores, sin sacar el material ni la propiedad intelectual fuera, e incluso seguir entrenándolo con su propio material."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/ltx1-1280.jpg?itok=1swlnJRm",
+          "cap": "LTX-2.5"
+        },
+        {
+          "t": "p",
+          "x": "Hay tres puntos clave. Renderiza secuencias de varios planos a la vez manteniendo coherentes a los personajes, los fondos y las voces incluso entre cortes. Admite por completo la lectura y escritura de ACES HDR, preservando el rango tonal en todo el proceso de producción. Y lleva su propio backbone de lenguaje Gemma 4 junto con un potenciador de prompts dedicado, lo que le permite manejar prompts complejos con varios sujetos entrelazados."
+        },
+        {
+          "t": "p",
+          "x": "A nivel técnico usa un método llamado Diffusion Fidelity Rendering. Construye el movimiento y la estructura en un espacio latente comprimido 8 veces, y fija keyframes de alta calidad ajustando el número de fotogramas clave según la complejidad de la escena y la potencia de cómputo disponible. Un nuevo decodificador mantiene la misma eficiencia de compresión mientras reduce los artefactos en escenas de mucho movimiento."
+        },
+        {
+          "t": "p",
+          "x": "Está disponible de inmediato a través de Hugging Face, la API de LTX y ComfyUI. Zeev Farbman, cofundador y CEO de LTX, dijo que \"un modelo de mundo lidia con un problema que los modelos de lenguaje grandes nunca han enfrentado: mantener el movimiento, el espacio y el sonido coherentes a lo largo del tiempo\". Las descargas acumuladas superan los 33 millones, y ya se usa en producción cinematográfica, robótica y renderizado en tiempo real, con socios como Asteria, ComfyUI, Markov Robotics y Reactor."
+        }
+      ]
+    },
+    "movies/movies-runway-ruby": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4IliQGaQwJ8"
+        },
+        {
+          "t": "p",
+          "x": "Runway Ruby es un nuevo modelo que genera secuencias ProRes y EXR en HDR de 16 bits. También puede convertir a ese formato clips ya grabados o resultados generados previamente."
+        },
+        {
+          "t": "p",
+          "x": "Se usa junto con otros modelos de video, como Gen-4.5, Seedance 2.5 y MiniMax H3."
+        },
+        {
+          "t": "p",
+          "x": "Desde hoy se puede probar Runway Ruby en app.runwayml.com."
+        }
+      ]
+    },
+    "movies/movies-subtitlenext-asr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ProFuzz Digital amplió las funciones de voz a texto de SubtitleNext, su plataforma de gestión de subtítulos y audiodescripción. Incorporó cuatro motores de transcripción con IA —AssemblyAI, Deepgram, ElevenLabs y Whisper— para elegir según cobertura de idiomas, precisión, velocidad de procesamiento y modo de implementación."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/SubtitleNEXTScreenshot4-copy-624x416.jpg",
+          "cap": "SubtitleNext"
+        },
+        {
+          "t": "p",
+          "x": "En localización, añadió importación y exportación del formato de guion IMSCR, además de más integraciones con los flujos de producción y localización. La pantalla ahora admite HiDPI para monitores de alta resolución, y las columnas del espacio de trabajo se pueden personalizar por proyecto."
+        },
+        {
+          "t": "p",
+          "x": "El procesamiento por lotes también se amplió. Las tareas de incrustación, las funciones de duplicar y eliminar, y la conversión de código de tiempo con ajuste de desplazamiento pueden ejecutarse juntas, y se añadió el nuevo plugin Movie File Burn Expert, que convierte video entre varios formatos y resoluciones. En difusión, se amplió la cobertura de validación de Teletexto y se añadió una función de asignación de rol de hablante para trabajos de accesibilidad."
+        },
+        {
+          "t": "p",
+          "x": "La directora general de ProFuzz Digital, Ivanka Vasileva, dijo: “Sabemos cuán importante es el papel de los creadores de subtítulos en el contenido deportivo, el cine y los programas de TV.” La actualización se presentará en el IBC 2026."
+        }
+      ]
+    },
+    "movies/movies-apple-headsup": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "gnp86XUSzgg"
+        },
+        {
+          "t": "p",
+          "x": "El noticiero semanal de cine con IA de Curious Refuge, 'Apple Can Now Clone You and it's CRAZY Realistic'. Publicado el 21 de agosto de 2026, con una duración de unos 33 minutos. Abre con la noticia del 1080p de Seedance 2.5 junto con Runway, Artlist y Dreamina, y continúa con el memorando de entendimiento entre la Motion Picture Association (MPA) y ByteDance sobre protección de propiedad intelectual, la investigación de Apple sobre clonación de rostro y emoción 'Heads Up', el clonador de voz de código abierto Index TTS 2.5, el sistema de captura de movimiento 'M3' de Move AI, Lottielab, CADxstudio, y el cortometraje de IA de esta semana."
+        },
+        {
+          "t": "p",
+          "x": "El video se centra en un nuevo informe técnico presentado por el equipo de investigación de Apple. La herramienta, llamada Heads Up, sigue siendo de uso interno de Apple y no es un producto disponible al público. El equipo reunió a 10.000 sujetos y fotografió sus rostros en alta resolución. Con esas fotos crearon splats gaussianos 3D, es decir, escaneos 3D de alta resolución que permiten girar la cámara libremente alrededor de ellos. Ahí termina el comienzo."
+        },
+        {
+          "t": "p",
+          "x": "Lo real viene después. Mezclando las imágenes de los 10.000 sujetos, el sistema sintetiza rostros nuevos a partir de una simple instrucción. Luego proyecta emociones sobre ese rostro 3D, sea real o sintetizado. En el video, la expresión exagerada de un hombre se extrae tal cual y se coloca sobre el escaneo neutro de una mujer debajo. También funciona al revés: un único escaneo neutro adopta la expresión de una persona totalmente distinta. Cuando un actor real actúa en la pantalla de la izquierda, cinco personas a la derecha reproducen esa misma actuación de forma idéntica."
+        },
+        {
+          "t": "p",
+          "x": "Y no termina ahí. Apple también creó una interfaz que permite ajustar con precisión la expresión de un personaje. La persona toma los deslizadores directamente y empuja o tira de las emociones. Herramientas de este tipo ya existían, pero Curious Refuge considera que este nivel de detalle y control es el mejor disponible en este momento."
+        },
+        {
+          "t": "p",
+          "x": "En el trabajo diario no hace falta mover los deslizadores hasta ese extremo. Pero dentro de Photoshop la historia cambia. Cuando un anuncio con un modelo necesita solo un pequeño ajuste de expresión, o cuando un póster de película necesita una emoción que no se capturó en el set, es fácil imaginar esta tecnología instalada dentro de herramientas profesionales. Estos sujetos fueron convocados en la sede de Apple para el escaneo, pero, pensando en los sensores que ya trae el iPhone, parece que llegar a los usuarios no tardará mucho."
+        }
+      ]
+    },
+    "movies/movies-glass-matte": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Brandon Tonner-Connolly, diseñador de producción de 'Teenage Sex and Death at Camp Miasma', desglosó de forma amena un plano de matte painting sobre vidrio en una publicación de Instagram. Artículo de Ian Failes, 24 de agosto de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/matte.jpg",
+          "cap": "Un plano de matte painting sobre vidrio de 'Teenage Sex and Death at Camp Miasma'. Fuente de la imagen: befores & afters"
+        },
+        {
+          "t": "p",
+          "x": "La publicación de Tonner-Connolly comienza así: como Camp Miasma se estrena oficialmente hoy, quiso mirar más de cerca ese plano de matte sobre vidrio. La idea partió de crear un portal por el que Chris pudiera entrar caminando, y terminó siendo un proyecto en el que varias personas talentosas hicieron juntas algo que nadie había hecho antes."
+        },
+        {
+          "t": "p",
+          "x": "El equipo fue el siguiente: dirección @janedoesnotknow, fotografía @eric_k_yue, diseño de producción BTC & MH, dirección de arte @jumpintomyfantasywagon, pintor de mattes Erkin Aycan, encargado de decorados Sean Lavoie, VFX @f_e_n_n_e_r · @niche.vfx, operador de cámara B @rasmussteinfoss, productor ejecutivo @caddypantida, productores Jeremy Kleiner · Dede Gardner. Participaron además muchos otros artesanos y artistas cuyos nombres no se pudieron incluir aquí."
+        }
+      ]
     }
   }
 }

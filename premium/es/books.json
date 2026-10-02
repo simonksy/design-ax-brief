@@ -2167,6 +2167,299 @@
           "x": "Llama la atención que alguien que ha trabajado en política científica a nivel nacional se haya sumado directamente a un debate que hasta ahora llevaban sobre todo asociaciones de autores y editoriales. Proudly Human, la organización que fundó, alza la voz en nombre de los creadores frente a los cambios que la IA ha traído a las artes."
         }
       ]
+    },
+    "books/books-ai-training-law": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los modelos de IA que impulsan ChatGPT, Gemini y Claude entrenan con cientos de millones de libros, artículos en línea, trabajos académicos y prácticamente todo lo que se puede encontrar en internet. La mayoría de los autores consagrados han contribuido, sin saberlo y sin haber dado nunca su consentimiento, a construir la misma herramienta que ahora amenaza su sustento. Parece ilegal, pero la realidad no es tan simple."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+          "cap": "Fuente de la imagen: NanoStockk / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Cathy Gellis, abogada que trabaja en propiedad intelectual, derechos de autor y tecnología, dijo a TechCrunch: “Parte del problema es que está pasando demasiado en toda esta área del derecho y en toda esta área de la tecnología”, y añadió: “Es muy complicado, y los ánimos están a flor de piel en ambos lados.”"
+        },
+        {
+          "t": "p",
+          "x": "El año pasado, el juez William Alsup ordenó a Anthropic pagar 1.500 millones de dólares a los autores. A primera vista parece una victoria para los autores, pero Alsup dictaminó que el entrenamiento de IA de Anthropic en sí era legal. Lo que cuestionó fue el haber robado libros de bibliotecas clandestinas ilegales. El juez escribió que “los LLM de Anthropic entrenaron sobre las obras no para adelantarse y replicarlas o sustituirlas, sino para dar un giro brusco y crear algo distinto”, tal como haría un lector que aspira a ser escritor. Gellis considera que el fallo favorece más a las empresas de IA: ¿qué peso tiene una multa de 1.500 millones de dólares para una empresa que prevé 200.000 millones de dólares en ingresos anuales para 2028?"
+        },
+        {
+          "t": "p",
+          "x": "La ley de derechos de autor no se ha tocado desde 1976. Los jueces tienen que responder, con una guía de hace 50 años, preguntas que marcarán el futuro de la industria de la IA. Jason Henderson, fundador y abogado principal de la práctica de PI y medios de JWL International, dijo: “La ley está dispersa por todas partes, así que ahora mismo todos están muy preocupados”, y añadió: “Sabemos que los modelos de IA entrenaron con todo ese material, pero la ley aún no ha alcanzado esa pregunta.”"
+        },
+        {
+          "t": "p",
+          "x": "El debate gira sobre todo en torno al uso justo, en particular si el uso de la obra protegida es suficientemente “transformativo”. Henderson explicó que “los derechos de autor siempre han tratado de proteger y hacer crecer mercados”: si se usa la propiedad de otro para entrenar con la intención directa de competir, los tribunales no lo ven con buenos ojos, pero hay margen para considerarlo aceptable si no hay competencia. La demanda de Thomson Reuters contra Ross Intelligence, que copió el contenido de Thomson Reuters para crear una plataforma legal competidora, es un ejemplo de eso. El juez Stephanos Bibas escribió que “el uso de Ross no fue transformativo, porque no tenía un propósito ulterior ni un carácter distinto” del propio uso de Thomson Reuters. El argumento de que un chatbot compite con un autor al generar nuevos libros sintéticos a partir de sus escritos todavía no ha tenido éxito en los tribunales."
+        },
+        {
+          "t": "p",
+          "x": "Los derechos de autor sobre los resultados generados por IA son otro asunto distinto. En Thaler v. Perlmutter, el tribunal determinó que una obra creada 100% por IA no puede obtener protección de derechos de autor. Eso abre un nuevo quebradero de cabeza: ¿cómo se demuestra si una obra fue hecha por IA y, de ser así, qué porcentaje lo fue? Como la mayoría de las empresas de IA siguen enredadas en litigios, no habrá una respuesta definitiva por ahora."
+        }
+      ]
+    },
+    "books/books-play-insights": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Book Insights es un asistente de lectura impulsado por Gemini, integrado en Google Play Books. Resume capítulos, aclara frases confusas, sigue a los personajes y responde preguntas sin spoilers sobre una selección de libros electrónicos en inglés, todo sin salir de la página que estás leyendo. Acaba de lanzarse en todo el mundo en la app Google Books and Audiobooks para Android."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/08/24004325/sweepstakes-header-1160x653.png",
+          "cap": "Book Insights en Google Play Books. Fuente de la imagen: Good e-Reader"
+        },
+        {
+          "t": "p",
+          "x": "Cuando vuelves a un libro que dejaste a medias, no necesitas hojear los capítulos anteriores. Con “Catch me up”, de Book Insights, obtienes un resumen de lo que has leído hasta el momento. En un libro con Book Insights activado, toca el icono de la bombilla arriba a la derecha y luego el botón “Catch me up” para ver el resumen."
+        },
+        {
+          "t": "p",
+          "x": "Al leer suelen surgir dudas, y ahora puedes buscarlas sin cerrar el libro. Si te encuentras con un pasaje confuso mientras lees una obra de Shakespeare, puedes resaltarlo y recibir algunas preguntas que aclaran su significado. Las preguntas sugeridas que siguen conectan con más detalle las pistas del libro."
+        },
+        {
+          "t": "p",
+          "x": "Si ninguna de las preguntas sugeridas te sirve, puedes escribir la tuya en el cuadro “Ask Play Books”. En una novela con muchos personajes, puedes preguntar algo como “¿Este personaje ya había aparecido antes?” para repasar el contexto. Las respuestas están diseñadas para referirse solo al texto hasta el punto en el que te encuentras, para evitar spoilers. Aun así, la IA generativa sigue siendo experimental y no siempre es precisa."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, Book Insights solo funciona con una selección de libros electrónicos en inglés. Puedes comprobar qué libros califican mediante la insignia “Tools” en la página de detalles del libro. La insignia muestra qué herramientas de IA están disponibles, incluida Book Insights. Para usarla, abre el libro y toca el icono de la bombilla en la parte superior de la app Play Books para Android o del lector web, o simplemente resalta cualquier frase."
+        }
+      ]
+    },
+    "books/books-spotify-audiobook-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En los últimos meses, Spotify presentó tres nuevas funciones para audiolibros, una tras otra."
+        },
+        {
+          "t": "p",
+          "x": "Ya sea una gran saga de fantasía o las memorias de una celebridad, el tiempo que se pasa absorto en un buen libro nunca se pierde. Spotify busca llevar esa experiencia más allá con tres funciones: una que crea listas de reproducción según tus gustos, otra que te permite explorar tus intereses mediante una conversación, y otra que te permite seguir con la serie que te gusta."
+        },
+        {
+          "t": "p",
+          "x": "James Jacoby, director sénior de Ingeniería e Insights para audiolibros, dijo: “Los libros se han convertido en una de las formas en que los usuarios se conectan más profundamente con Spotify”, y que “estas funciones se centran en reducir la barrera entre los oyentes y los libros que les van a gustar”."
+        },
+        {
+          "t": "p",
+          "x": "Primero, “Prompted Playlists” solo necesita que describas con palabras el tipo de libro que quieres, y crea una lista de reproducción personalizada que refleja tu gusto y las tendencias literarias actuales. Por ejemplo, puedes pedir “una lista de libros adaptados al cine o la TV en los últimos tres años que hayan recibido buenas críticas de la crítica o del público”, o “créame un calendario de audiolibros, un libro al mes a partir de este mes, de menos de 15 horas cada uno, acorde al ambiente de ese mes y a mi gusto”. Actualmente está en beta para algunos usuarios Premium en Estados Unidos, Canadá, el Reino Unido, Irlanda, Australia, Nueva Zelanda y Suecia."
+        },
+        {
+          "t": "p",
+          "x": "La segunda función, “Just Ask Spotify”, te permite hablar directamente con Spotify por texto o por voz. Si preguntas algo como “recomiéndame novela negra escandinava para leer antes de mi viaje a Suecia”, responderá también a preguntas de seguimiento, moviéndose entre música, podcasts y audiolibros. Actualmente se ofrece en inglés para usuarios Premium de 18 años o más en Estados Unidos, Irlanda y Suecia."
+        },
+        {
+          "t": "p",
+          "x": "En tercer lugar, al terminar un libro de una serie, Spotify recomienda de inmediato la siguiente entrega, y las series de varios libros ahora llevan una etiqueta para no perder el orden. También se pueden ver de un vistazo todas las series de un autor en su página de perfil. Esta función está disponible en Estados Unidos, Canadá, el Reino Unido, Irlanda, Australia, Nueva Zelanda y Suecia."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/08/24003221/Series-Visual-8856-scaled-1.png",
+          "cap": "Una pantalla de la app de Spotify que muestra la serie “Fourth Wing” de Rebecca Yarros y una lista de reproducción de audiolibros."
+        }
+      ]
+    },
+    "books/books-warhammer-ai-warning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es sabido que Games Workshop mantiene una postura firme contra la IA. Aun así, un periodista de IGN se sorprendió al oír a un narrador leer en voz alta, en uno de sus audiolibros favoritos de Warhammer 40,000, una advertencia contra entrenar IA con esa novela."
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/08/24/trazyn-1787566439248.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "cap": "Fuente de la imagen: Games Workshop"
+        },
+        {
+          "t": "p",
+          "x": "Entrenar IA con libros sin permiso ya es un gran tema en la industria. La semana pasada, 404 Media informó que Amazon había estado “comprando enormes cantidades de libros, escaneándolos como datos de entrenamiento para IA y desechándolos en el proceso”. El verano pasado salió a la luz que Anthropic había triturado millones de libros físicos para entrenar a Claude. Ese proyecto secreto, llamado 'Project Panama', se destapó en una demanda presentada por autores, y Anthropic llegó a un acuerdo de 1.500 millones de dólares aun habiendo ganado en gran medida en la cuestión del uso justo."
+        },
+        {
+          "t": "p",
+          "x": "Hay avisos de IA repartidos por todo el sitio de Games Workshop. El sitio de Black Library, que gestiona el negocio de los libros, indica que “prohíbe expresamente el uso del contenido del sitio web para entrenar tecnología de inteligencia artificial (IA) generativa”. La sección de avisos legales también incluye una advertencia de IA detallada."
+        },
+        {
+          "t": "p",
+          "x": "Esta vez, al final del audiolibro de The Wicked and The Warped, una novela de necrones de Robert Rath, el narrador Richard Reed leyó lo siguiente: “Esta grabación tiene copyright de Games Workshop 2026. Todos los derechos reservados. No puede usarse ni reproducirse de ninguna manera para actividades de minería de texto y datos, ni para el desarrollo o entrenamiento de modelos o sistemas de inteligencia artificial.” Era la primera vez que el periodista oía a un narrador de Black Library leer en voz alta un aviso de IA. No hay un aviso así al final del audiolibro Hive, de Dan Abnett, publicado en mayo."
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/08/24/60040181452-blthewickedandthewarped2026-1787566501006.jpg",
+          "cap": "The Wicked and the Warped. Fuente de la imagen: Games Workshop"
+        },
+        {
+          "t": "p",
+          "x": "Games Workshop prohibió el uso de IA en la creación de contenido y el diseño en enero, y en julio reafirmó su postura contraria a la IA mientras decía haber investigado un error de marketing que había levantado sospechas de IA. El director ejecutivo Kevin Rountree dijo: “No usamos IA en Games Workshop para el diseño de productos ni para la creación de propiedad intelectual, y esto protegerá la integridad y la propiedad de nuestra IP.”"
+        },
+        {
+          "t": "p",
+          "x": "La cuestión es la eficacia real. La industria tecnológica invoca el uso justo para recopilar obras creativas, incluidos los libros, y esa lógica sigue funcionando incluso con grandes demandas y reportajes de investigación acumulándose. En marzo de 2025, The Atlantic informó que Meta había pirateado millones de libros para entrenar IA, y novelas de autores de Black Library también se encontraron dentro de LibGen, la base de datos de libros pirateados que usó Meta. Rountree reconoció recientemente que la IA ahora viene incluida automáticamente en software de terceros “nos guste o no”, y añadió que esto es “simplemente algo que hay que aceptar y vigilar”."
+        }
+      ]
+    },
+    "books/books-eu-ai-transparency-indie": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "I7hskWGurDU"
+        },
+        {
+          "t": "p",
+          "x": "Este es el episodio del 13 de agosto de 2026 de ALLi Self-Publishing News, presentado por Dale L. Roberts. El titular lo deja claro desde el principio: las nuevas normas de IA de Europa están llegando a escritores de todo el mundo."
+        },
+        {
+          "t": "p",
+          "x": "Según la descripción del video, la transparencia en IA se vuelve cada vez más complicada para los escritores. Las 「Directrices sobre las obligaciones de transparencia para proveedores e implementadores de determinados sistemas de IA」 de la Comisión Europea se tratan en el minuto 4:09, y cómo Claude etiqueta el contenido generado por IA continúa desde el minuto 4:38. La idea es que una norma creada en Europa ha comenzado a afectar también a los usuarios de Claude fuera de Europa."
+        },
+        {
+          "t": "p",
+          "x": "A partir del minuto 6:34 aparece la otra cara del asunto. Citando el artículo de Sean Goedecke 「Las marcas de agua de texto con IA siempre son fáciles de borrar」, se señala lo técnicamente frágil que es esta obligación de etiquetado."
+        },
+        {
+          "t": "p",
+          "x": "En el minuto 8:01 aparece un estudio reportado por la BBC: a la gente le gustaron más las historias escritas por IA que las escritas por humanos. En el minuto 9:06 sigue un artículo de Nieman Lab: este año, ocho ganadores del Pulitzer revelaron haber usado IA, la cifra más alta hasta ahora."
+        },
+        {
+          "t": "p",
+          "x": "El resto cubre cifras del sector y asuntos prácticos: los 33.400 millones de dólares en ingresos de la industria editorial en 2025 según Publishers Weekly, la historia de una autora que vendió 1.000 copias de unas memorias autopublicadas en cinco meses, la nueva función de libros de Instagram y los requisitos de monetización del Programa de Socios de YouTube, que se endurecen a partir de 2027."
+        }
+      ]
+    },
+    "books/books-nigel-george-creative-agency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/pictures.jpg",
+          "cap": "Artículo de opinión de Nigel George — Creación y publicación en la era de la IA"
+        },
+        {
+          "t": "p",
+          "x": "Este es un artículo de opinión de Nigel George, autor independiente, miembro de ALLi y fundador de GNW Independent Publishing. La primera frase dice: “'No' es una oración completa en sí misma.”"
+        },
+        {
+          "t": "p",
+          "x": "Estos son tiempos aterradores para los escritores. Los algoritmos exigen una producción sin fin, y a medida que se extiende el AI slop, el alcance en redes sociales, ya escaso de por sí, se reduce aún más. Las grandes empresas de IA dicen que su IA es la siguiente etapa de la evolución humana y que no subirse a bordo significa no sobrevivir. Para George, eso se parece más a una carrera hacia el fondo."
+        },
+        {
+          "t": "p",
+          "x": "Dice que tiene a la vez un cerebro técnico y un cerebro creativo. El cerebro técnico sabe una sola cosa: para que la IA avance más, nos necesita a nosotros."
+        },
+        {
+          "t": "p",
+          "x": "Sugiere recordar las palabras que suelen usarse sobre la IA: alucina, miente, piensa, entiende, aprende, recuerda, quiere, decide, crea. Lo que realmente ocurre dentro de la caja es, en orden, error de muestreo y predicciones estadísticas erróneas, cálculo de probabilidades y pesos, almacenamiento en caché de contexto y RAG, minimización de funciones y ejecución de algoritmos, interpolación y difusión. En el momento en que prestamos cualidades humanas a una máquina, devaluamos la inteligencia humana real que la creó."
+        },
+        {
+          "t": "p",
+          "x": "Señala que cuando John McCarthy acuñó el término 'Artificial Intelligence' en 1955, aquello fue también una cuestión de marca, no una propuesta científica. La inteligencia real requiere experiencia vivida, un sentido del tiempo, comprensión de la causalidad e intención. La IA puede imitar a Shakespeare, pero no puede convertirse en Shakespeare."
+        },
+        {
+          "t": "p",
+          "x": "George nombra tres pilares de la autonomía creativa. Primero, conocer tu propio 'no.' Su línea es clara: en la escritura creativa, la IA no figura en la página. Trabaja a tiempo completo asesorando a otros escritores, escribiendo ficción y no ficción, y publicando su propio trabajo, y admite que sin las herramientas de IA que él mismo ha construido no podría producir ni la mitad de ese volumen. Aun así, no toca el resultado creativo en sí."
+        },
+        {
+          "t": "p",
+          "x": "Segundo, los derechos de autor pertenecen a los humanos. Mientras el AI slop inunda internet, los modelos de frontera corren el riesgo de que la calidad de su producción retroceda si dejan de obtener datos humanos limpios. Él cree que esa es la razón por la que la industria tecnológica sigue intentando diluir la ley de derechos de autor. La respuesta es crear y hacer cumplir leyes que impidan que las obras generadas por IA obtengan derechos de autor, y apoyar el etiquetado de 'contenido hecho por humanos.'"
+        },
+        {
+          "t": "p",
+          "x": "Tercero, es solo una máquina. Por muy inquietante que parezca su resultado, la IA es una calculadora estadística extremadamente sofisticada. No tiene sentido moral, ni intuición, ni experiencia, ni comprensión. Cualquier capacidad que muestre es simplemente un reflejo de los humanos que la construyeron. George dice que esta es una oportunidad para que los escritores demuestren que la IA puede potenciar la creación humana en lugar de sustituirla, y vuelve a su primera frase: “'No' es una oración completa en sí misma.”"
+        }
+      ]
+    },
+    "books/books-publishing-technology-radar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/EbUoNp9bCAVj.jpg",
+          "cap": "La encuesta del Radar de Tecnología Editorial cierra el 30 de agosto"
+        },
+        {
+          "t": "p",
+          "x": "Digital Publishing Report se ha asociado con Publishing Signal, una iniciativa internacional de knk, para crear el Radar de Tecnología Editorial (The Publishing Technology Radar). El primer informe saldrá antes de que termine el año."
+        },
+        {
+          "t": "p",
+          "x": "Publicado una vez al año, el informe divide las tecnologías en cuatro etapas: vigilar, explorar, probar y cultivar en serio. La idea es que las editoriales puedan calibrar dónde invertir, dónde esperar y dónde corren el riesgo de quedarse atrás si no hacen nada."
+        },
+        {
+          "t": "p",
+          "x": "Para dibujar un panorama lo más amplio posible, Digital Publishing Report está recogiendo las perspectivas de profesionales de la edición de todo el mundo. La encuesta dura entre 20 y 25 minutos, es totalmente anónima y no requiere ninguna preparación previa. Los participantes reciben los resultados antes de la publicación pública, lo que pone la perspectiva colectiva del sector en su escritorio antes que en el de los demás."
+        },
+        {
+          "t": "p",
+          "x": "La encuesta cierra el 30 de agosto. El artículo lo escribió Erin L. Cox, editora de Publishing Perspectives."
+        }
+      ]
+    },
+    "books/books-royalty-transparency-aperture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/aperture-793x284.png",
+          "cap": "Ingenta Aperture: un portal de autoservicio que abre los datos de derechos y regalías"
+        },
+        {
+          "t": "p",
+          "x": "Los informes de regalías varían de formato según la editorial. Son difíciles de interpretar y suelen publicarse solo dos o tres veces al año. En el lado que procesa cientos o miles de casos a la vez, pequeños errores que un autor notaría al instante pasan desapercibidos."
+        },
+        {
+          "t": "p",
+          "x": "Por eso la mayoría de los autores no profundiza si la cifra de regalías parece aproximadamente correcta. Incluso un autor decidido a revisar línea por línea trabaja con ciclos de informes tan espaciados que, cuando detecta un problema, ya han pasado meses o años. Para entonces, reunir las pruebas que respalden su reclamo no es fácil."
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas y flujos de trabajo editoriales siguen mejorando gracias a la tecnología, pero las regalías siguen siendo opacas. Es un punto de fricción que durante mucho tiempo ha existido entre editoriales y creadores. Incluso cuando un informe es exacto, la falta de información en tiempo real genera sospechas y tensiones innecesarias."
+        },
+        {
+          "t": "p",
+          "x": "Erin L. Cox escribe que arreglar los sistemas que gestionan contratos, derechos y regalías es más urgente fuera de la editorial que dentro de ella, al tratar con autores, titulares de licencias, agentes y socios editoriales. Lo que está en juego no es solo la venta de derechos inmediata, sino la confianza que conduce al siguiente acuerdo."
+        },
+        {
+          "t": "p",
+          "x": "Ingenta, fundada en 1977, ha construido herramientas de gestión de derechos junto con sus socios editoriales, y el resultado es Ingenta Aperture. Es un portal de autoservicio que abre los datos de derechos y regalías de forma segura, en el momento en que se solicitan. Funciona en web, tableta y móvil, se configura según el flujo de trabajo de la editorial y se conecta a los sistemas internos existentes. La información que la editorial decide mostrar, como ventas por formato, regalías por región e historial de pagos, se actualiza al mismo tiempo que el sistema interno, de modo que el autor no tiene que esperar ningún desfase."
+        },
+        {
+          "t": "p",
+          "x": "En los últimos dos años, las editoriales han probado en nombre de los autores acuerdos nuevos y complejos, como licencias de entrenamiento de LLM, microacuerdos y derechos multirregionales y multiformato. Cuantas más oportunidades de este tipo se abran, más necesitan los titulares de derechos confiar en su editorial. Una editorial que no ha generado confianza pierde acuerdos de plazo limitado y también su ventaja en el mercado. Los autores esperan que las editoriales guíen el camino por el mundo desconocido de las licencias de IA, y cuanta más información reciben, más dispuestos están a participar."
+        },
+        {
+          "t": "p",
+          "x": "Los titulares de derechos ahora esperan de sus propios ingresos la misma visibilidad que obtienen de la banca en línea o de las aplicaciones de gestión de activos. Abrir por completo los ingresos por derechos es, en definitiva, abordar el lado humano de la gestión de derechos y regalías, resume Cox. Este artículo fue patrocinado por Ingenta."
+        }
+      ]
+    },
+    "books/books-carlsen-openai-neinhorn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+          "cap": "El resumen semanal de noticias editoriales internacionales de Carlo Carrenho, cada lunes"
+        },
+        {
+          "t": "p",
+          "x": "Según Börsenblatt, la editorial alemana de libros infantiles Carlsen, junto con el autor Marc-Uwe Kling y la ilustradora Astrid Henn, presentó una demanda contra OpenAI. Alegan infracción de los derechos asociados al libro ilustrado más vendido 'Das NEINHORN'."
+        },
+        {
+          "t": "p",
+          "x": "Carlsen, con sede en Hamburgo, cuenta con el respaldo de su matriz Bonnier. Según Carlsen, ChatGPT no solo genera historias e ilustraciones muy parecidas a las originales, sino que también produce archivos listos para imprimir que añaden ISBN inventados y el logo de la editorial a los personajes del libro. Carlsen considera que estos resultados son prueba de que el material original de NEINHORN se usó sin permiso para entrenar modelos de lenguaje e imagen."
+        },
+        {
+          "t": "p",
+          "x": "Carrenho interpreta esto como una señal de que las acciones legales contra OpenAI o Anthropic ya no se limitan al mundo editorial en lengua inglesa de Estados Unidos. En Alemania también están empezando a surgir casos similares, y como Carlsen pertenece al grupo sueco Bonnier, el escenario de la disputa legal se ha ampliado en consecuencia."
+        },
+        {
+          "t": "p",
+          "x": "El mismo resumen también recogió un caso de la IA entrando en el negocio editorial. Publitik, del que informó PublishNews de Brasil, es una plataforma de inteligencia de mercado por suscripción que rastrea en tiempo real noticias, estudios, listas de más vendidos y tendencias en redes sociales de la industria del libro a nivel mundial. Agentes de IA recopilan información de medios especializados y generales de decenas de países, y los profesionales de la edición configuran sus propias alertas por tema, mercado, autor o libro."
+        },
+        {
+          "t": "p",
+          "x": "Actualmente tiene alrededor de 100 suscriptores, y la app móvil tiene como meta su lanzamiento dentro del año. Se ofrece en inglés y portugués, y busca reunir en un solo lugar las listas de más vendidos de varios países. Es un intento de obtener una visión amplia de qué se vende en cada mercado y qué libros están surgiendo como éxitos de ventas a nivel mundial."
+        }
+      ]
     }
   }
 }

@@ -2262,6 +2262,146 @@
           "yt": "G0L8wTLaS8U"
         }
       ]
+    },
+    "movies/movies-accuface-2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/AccuFACE-2_1280x720.jpg",
+          "cap": "AccuFACE 2"
+        },
+        {
+          "t": "p",
+          "x": "Reallusion发布了无标记面部动作捕捉系统AccuFACE 2。这是一款无需额外动捕工作室、仅凭普通网络摄像头或iPhone摄像头拍摄的面部表演,就能直接套用到CC5 HD角色上的生产级工具。"
+        },
+        {
+          "t": "p",
+          "x": "由于无需标记点或头盔式设备,仅靠拍摄素材就能提取角色表情,它瞄准的正是那些没有配备动捕舞台的小型动画团队。"
+        },
+        {
+          "t": "p",
+          "x": "这款工具的核心在于:不需要昂贵设备,光靠桌上现成的网络摄像头或智能手机,第二天就能直接录下表情演出。"
+        }
+      ]
+    },
+    "movies/movies-runway-ruby": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4IliQGaQwJ8"
+        },
+        {
+          "t": "p",
+          "x": "Runway Ruby是一款可生成16-bit HDR ProRes和EXR序列的新模型。它也能把已拍摄的素材或此前生成的内容转换成这种格式。"
+        },
+        {
+          "t": "p",
+          "x": "它可以和Gen-4.5、Seedance 2.5、MiniMax H3等其他视频模型一起使用。"
+        },
+        {
+          "t": "p",
+          "x": "从今天起，可以在app.runwayml.com上试用Runway Ruby。"
+        }
+      ]
+    },
+    "movies/movies-apple-headsup": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "gnp86XUSzgg"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge的AI电影周刊新闻《Apple Can Now Clone You and it's CRAZY Realistic》,于2026年8月21日发布,时长约33分钟。节目以Seedance 2.5的1080p消息以及Runway、Artlist、Dreamina开场,接着讲到美国电影协会(MPA)与ByteDance就IP保护签署的谅解备忘录、苹果的人脸与情绪克隆研究《Heads Up》、开源语音克隆Index TTS 2.5、Move AI的动作捕捉系统《M3》、Lottielab、CADxstudio,最后以本周的AI短片收尾。"
+        },
+        {
+          "t": "p",
+          "x": "视频的核心是苹果研究团队发布的新白皮书。这款名为Heads Up的工具目前仍为苹果内部使用,并非对外发布的产品。研究团队召集了一万名受试者,以高分辨率拍摄他们的面部。再用这些照片生成3D高斯溅射,也就是可以自由旋转查看的高分辨率3D扫描。这只是开始。"
+        },
+        {
+          "t": "p",
+          "x": "真正的重点在后面。将一万人的图像混合后,仅凭简单的提示词就能合成出新的面孔。随后无论是真实人物还是合成的面孔,都可以在这张3D脸上投射表情。视频中,一名男性夸张的表情被原样提取,叠加到下方一名女性毫无表情的扫描上。反方向也同样可行:同一张无表情扫描,可以套上完全不同的人的表情。当左侧画面中真实演员进行表演时,右侧的五个人会一模一样地复刻这段表演。"
+        },
+        {
+          "t": "p",
+          "x": "事情还没有结束。苹果同时打造了一套可以精细调节角色表情的界面。使用者可以直接拖动滑块,把情绪推上去或拉回来。这类工具本身并不新鲜,但Curious Refuge认为,目前能看到的产品里,这种细腻程度和控制力堪称最佳。"
+        },
+        {
+          "t": "p",
+          "x": "在实际工作中,很少需要把滑块调整到这种程度。但如果放进Photoshop里,情况就不一样了。比如广告里模特的表情只需要微调一点,或者电影海报需要补上现场没拍到的情绪,这项技术很容易想象会被嵌入专业工具之中。这批受试者是被叫到苹果总部接受扫描的,但考虑到iPhone本身搭载的传感器,这项技术走向普通用户似乎也不会太远。"
+        }
+      ]
+    },
+    "movies/movies-glass-matte": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "《Teenage Sex and Death at Camp Miasma》的制作设计师Brandon Tonner-Connolly(布兰登·托纳-康诺利)在Instagram帖子里有趣地拆解了一个玻璃遮罩画镜头。2026年8月24日,Ian Failes撰文。"
+        },
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/matte.jpg",
+          "cap": "《Teenage Sex and Death at Camp Miasma》的玻璃遮罩画镜头。图片来源:befores & afters"
+        },
+        {
+          "t": "p",
+          "x": "托纳-康诺利的帖子这样开头:趁着Camp Miasma今天正式上映,他想更近距离地回顾那个玻璃遮罩镜头。最初的想法只是为克里斯做一扇可以走进去的传送门,结果变成了一群才华出众的人一起完成从未有人做过的事情。"
+        },
+        {
+          "t": "p",
+          "x": "参与人员如下:导演@janedoesnotknow,摄影@eric_k_yue,制作设计BTC & MH,美术指导@jumpintomyfantasywagon,遮罩画师Erkin Aycan,置景负责人Sean Lavoie,视效@f_e_n_n_e_r·@niche.vfx,B机位摄影师@rasmussteinfoss,执行制片人@caddypantida,制片人Jeremy Kleiner·Dede Gardner。还有许多未能在此一一列出名字的工匠与艺术家共同参与。"
+        }
+      ]
+    },
+    "movies/movies-seedance-25": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI视频工具一直在不断变化。MZed课程《Directing the Future: Ethical AI Video for Filmmakers》也紧跟这一步伐。在新上线的模块中,摄影指导兼摄影师德鲁·杰拉西(Drew Geraci)再次使用生成式AI平台Higgsfield AI。这一次,他测试的是最新模型之一,Seedance 2.5。"
+        },
+        {
+          "t": "p",
+          "x": "在之前的更新中,他介绍了Higgsfield界面的整体情况。这一次,他专注于其中一个模型,由ByteDance打造的Seedance 2.5。他已经使用了四到五个月。据他的评价,这是他用过的AI视频生成器中最逼真的一个。"
+        },
+        {
+          "t": "p",
+          "x": "Seedance 2.5是ByteDance目前的主力视频生成模型。它直接接入Higgsfield界面,可生成最长30秒的4K片段。画面比例从竖版9:16到21:9可选。演示中有两点格外突出。一个是声音:环境声、音效和音乐不是后期添加,而是与画面同步生成。另一个是基于参考素材的一致性:最多输入50张人物、产品或场景的图片或片段,就能在整段序列中保持相同的样子。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/testing_higgsfield_new_lesson-interface.jpg",
+          "cap": "Higgsfield界面中的Seedance 2.5所在位置。图片来源:Drew Geraci / MZed"
+        },
+        {
+          "t": "p",
+          "x": "课程通过两个演示展开。第一个用他自己的照片和几张摄影器材照片生成一段短视频。第二个则创建一个可重复使用的角色,也就是他自己的数字分身。"
+        },
+        {
+          "t": "p",
+          "x": "课程涉及的内容包括:过去一年里提示词写法发生了怎样的变化,长而详细的提示词需要怎样的结构才能得到最准确的结果。混合实拍素材以提升真实感的技巧。在生成结果中指挥摄像机和镜头运动的方法。输入参考图像以建立反复出现角色的流程。在同一流程中加入声音设计的方法。最后是前期制作:用这种方式为摄影指导制作拍摄前的场景预览。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/testing_higgsfield_new_lesson-generated_result_out_of_photos.jpg",
+          "cap": "从生成的演示视频中截取的静帧。图片来源:Drew Geraci / MZed"
+        },
+        {
+          "t": "p",
+          "x": "杰拉西并不把这项工作说成简单或便宜。一条详细的提示词需要20到30分钟,一次Seedance 2.5生成需要5到20分钟,具体取决于复杂程度和当时的服务器状况。样本渲染的成本估计为每条片段25到30美元。"
+        },
+        {
+          "t": "p",
+          "x": "“AI在变得更好,但价格也在上涨,要记住这一点。”这是课程中的一句话。"
+        },
+        {
+          "t": "p",
+          "x": "既然课程涉及生成视频的伦理问题,杰拉西也明确说明了自己这段演示的位置。他直言这段视频并不是课程所说的完整意义上的“伦理AI”。但他仍遵循了部分原则:所有参考素材都是他自己的影像和资料,成果也不用于商业用途。"
+        },
+        {
+          "t": "p",
+          "x": "包含完整提示词结构的整段演练可以在MZed上观看。新模块已经对MZed Pro订阅者开放。MZed由CineD所有。"
+        }
+      ]
     }
   }
 }

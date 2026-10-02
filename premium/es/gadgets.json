@@ -2668,6 +2668,616 @@
           "x": "Si las esferas se pueden cambiar libremente, el HomePad adquiere un carácter distinto según la habitación en la que esté. Eso implica fijar widgets y disposiciones distintas para la cocina, la sala y el dormitorio, lo que da una razón para comprar varios. El autor escribió que espera que este sea el último retraso del HomePad."
         }
       ]
+    },
+    "gadgets/gadgets-apple-store-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/zZCNqgEqo4VLUAlYqQojEbOWoEg=/400x0/article-new/2026/08/Apple-Store-App-Rolling-Out-Early-Preview-of-AI-Shopping-Assistant-Feature.jpg?lossy",
+          "cap": "El asistente de compras con IA abierto en la app de Apple Store."
+        },
+        {
+          "t": "p",
+          "x": "Un pequeño grupo de usuarios recibió una “vista previa temprana” de un nuevo asistente de compras con IA en la app de Apple Store del iPhone."
+        },
+        {
+          "t": "p",
+          "x": "Si tu cuenta la tiene, al tocar la burbuja de chat con dos destellos en la esquina inferior derecha de la app aparece el chatbot. Se puede preguntar sobre productos de Apple, un pedido en curso de Apple Store, precios de canje o formas de pago, o empezar tocando uno de los temas frecuentes que aparecen en pantalla."
+        },
+        {
+          "t": "p",
+          "x": "MacRumors fue el primero en informar que un asistente de compras con IA llegaba a la app de Apple Store, basándose en una política de privacidad recién publicada en el sitio web de Apple. La política indica que Apple usa datos personales para personalizar la experiencia de chat y dar respuestas adecuadas, y, si el usuario lo consiente, también para mejorar el asistente."
+        },
+        {
+          "t": "p",
+          "x": "Apple aún no ha anunciado oficialmente esta función. Por ahora parece estar en una fase de prueba silenciosa con un número reducido de usuarios. Muchos en la redacción de MacRumors tampoco han visto el chatbot, así que no tiene nada de raro no verlo."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-device-help": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&w=1600",
+          "cap": "El Pixel 11 Pro con la superposición de Gemini abierta."
+        },
+        {
+          "t": "p",
+          "x": "Una nueva herramienta llamada “Device help” ha empezado a aparecer en la app de Gemini del Pixel 11 Pro. Es una función que ayuda a usar el teléfono mediante una conversación personalizada."
+        },
+        {
+          "t": "p",
+          "x": "Al abrir el menú de más opciones o la superposición de la app de Gemini, esta herramienta aparece al final de la lista, justo encima de Personal Intelligence."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Device-Help-1.jpg?ssl=1",
+          "cap": "Device help, agregada recién cerca del final de la lista de herramientas de Gemini."
+        },
+        {
+          "t": "p",
+          "x": "Lleva una insignia de “Labs”, y la descripción dice “Get help with your device”. El icono es el mismo que se usa para Proactive Assistance. Este “Device Help Agent” ajusta configuraciones, diagnostica problemas y explica funciones."
+        },
+        {
+          "t": "p",
+          "x": "En cuanto a ajustes, cubre elementos de pantalla como el tema oscuro, el brillo y el tiempo de apagado de pantalla, hasta el modo de sonido y vibración, No interrumpir y Bienestar digital. La solución de problemas abarca Wi-Fi, Bluetooth, datos móviles, consumo de batería, audio y rendimiento de apps. En batería y almacenamiento, revisa el uso, activa el ahorro de batería y busca formas de liberar espacio. En apps y permisos, revisa el acceso a ubicación, cámara y micrófono, y organiza notificaciones y temporizadores de apps. Guía paso a paso por funciones de Pixel, gestos, cámara y ajustes de privacidad."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, no parece algo construido desde cero. Parece simplemente usar la app conectada existente “Device Assistance”, antes llamada “Utilities”."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Device-Help-3.jpg?ssl=1",
+          "cap": "Una pantalla de conversación con el agente de ayuda del dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "Hasta esta mañana, el único dispositivo donde apareció esta herramienta es un Pixel 11 Pro actualizado a la beta 17.52 de la app de Google. No estaba en el Pixel 11 básico ni en ningún teléfono anterior revisado."
+        }
+      ]
+    },
+    "gadgets/gadgets-glasses-detector-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/zuckoff-app.jpg?w=864",
+          "cap": "Apps como Zuckoff detectan gafas inteligentes cercanas por su señal Bluetooth. Foto Paweł Szydłowski/Zuckoff"
+        },
+        {
+          "t": "p",
+          "x": "Ya no se puede asumir que una montura negra gruesa es solo un par de gafas graduadas. A medida que las gafas inteligentes con IA de Meta se extienden y otros dispositivos ponibles las siguen, ha crecido el rechazo a la grabación que no se nota. Las gafas inteligentes graban, transmiten y procesan video sin avisar a quienes están alrededor, salvo que se considere suficiente una pequeña luz de grabación."
+        },
+        {
+          "t": "p",
+          "x": "Así que se ha vuelto un enfrentamiento de tecnologías. Por un lado, quienes modifican sus gafas apagan el indicador LED para que la cámara sea aún más difícil de notar; por el otro, desarrolladores lanzan tecnología de contraataque que señala cámaras ocultas."
+        },
+        {
+          "t": "p",
+          "x": "Una de ellas es la app gratuita de iOS Zuckoff. Es una herramienta de detección que encuentra gafas Ray-Ban Meta o Snap Spectacles cercanas, y su nombre es un juego de palabras dirigido al CEO de Meta, Mark Zuckerberg. Apps como Antizuck Smart Glasses Scanner o Nearby Glasses forman un pequeño ecosistema propio. Rastrean la banda Bluetooth cercana para captar el ID de fabricante, el identificador de sistema y la firma de hardware asociados a las gafas inteligentes, y calculan una distancia aproximada. Sin embargo, no pueden saber si en ese momento se está grabando."
+        },
+        {
+          "t": "p",
+          "x": "El sitio web de Zuckoff lo explica así: “Las gafas emiten más fuerte al encenderse, al emparejarse o al salir del estuche. Una vez emparejadas con el teléfono de su propietario, pueden quedar en silencio, así que el silencio no prueba que nadie esté grabando, y ser detectadas no prueba que alguien lo esté haciendo. La fuerza de la señal solo da una idea aproximada de la distancia, y ninguna de la dirección.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/PawelSzydlowski.jpg?w=300",
+          "cap": "Paweł Szydłowski, el desarrollador detrás de Zuckoff. Foto Pawel Szydlowski"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador Paweł Szydłowski trabajaba en encontrar dispositivos cercanos por Bluetooth cuando notó que la misma técnica funcionaba también con gafas inteligentes. “Es la misma tecnología con el papel cambiado”, dijo en una videollamada con CNET. Lo que lo puso en marcha fueron videos en redes sociales: alguien con gafas inteligentes grabando una broma o ligando con una mujer, sin que la persona grabada supiera que su imagen terminaría publicada."
+        },
+        {
+          "t": "p",
+          "x": "Desde su lanzamiento a principios de agosto, los registros han superado los 2,000, y una versión para Android está en beta. La versión de pago, 10 dólares al año, sigue detectando en segundo plano aunque la app no esté abierta. La periodista de tecnología Joanna Stern recibió 100 dólares y mostró en video el proceso de quitar el LED de unas gafas Ray-Ban Meta."
+        },
+        {
+          "t": "p",
+          "x": "El problema viene después de la detección. Una vez que la app avisa que hay gafas inteligentes cerca, lo único que se puede hacer es irse del lugar o pedirle a la persona que se las quite. Utkarsh Anantkrishnan, profesora adjunta de sistemas de información en Carnegie Mellon, cree que las normas en torno a los dispositivos ponibles todavía no se han asentado. A diferencia de un smartphone, dice, “las gafas inteligentes trasladan toda la carga de privacidad a la persona grabada”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/78259cd7-9c8e-41a8-a762-357d222fd4f9.jpg?w=864",
+          "cap": "Las gafas inteligentes Even G2, que eliminan la cámara por completo. Foto Scott Stein/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Algunos fabricantes prescinden directamente de la cámara. El G2 de Even Realities no tiene cámara frontal. Lanzado a finales de 2025, el producto se acerca más a un asistente personal que da información a quien lo lleva. “Desde el principio dejamos de asumir que las gafas inteligentes necesitan una cámara para ser útiles”, dijo por correo a CNET el CEO de Even Realities, Will Wang."
+        },
+        {
+          "t": "p",
+          "x": "El precio de las gafas inteligentes sigue bajando, y los modelos y las empresas siguen multiplicándose. La demanda de detectores crece junto con ellos. Szydłowski dice que espera que Zuckoff deje de ser necesario. Así como la detección de AirTag terminó integrada por defecto en iOS y Android, dijo que si los consumidores presionan a los fabricantes y a los gobiernos hasta que las gafas inteligentes sean fáciles de detectar, eso sería “la solución perfecta”."
+        }
+      ]
+    },
+    "gadgets/gadgets-airpods-camera-stills": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/we-have-more-details-on-apples-camera-equipped-airpods-and-they-are-pretty-dang-weird/intro-1787327785.jpg",
+          "cap": "Dos AirPods colocados sobre una mesa."
+        },
+        {
+          "t": "p",
+          "x": "Apple filtró por error esta semana imágenes de los AirPods con cámara en una compilación de prueba de macOS Tahoe 26.7. Código oculto en esa misma compilación reveló más detalles sobre estos auriculares poco habituales."
+        },
+        {
+          "t": "p",
+          "x": "La idea de poner una cámara en unos auriculares ya es poco común, pero la forma en que funciona es aún más rara. Cada auricular lleva una cámara, y el software de Visual Intelligence combina las dos imágenes en una sola. Lo que se captura es una imagen fija RGB de hasta 1 megapíxel."
+        },
+        {
+          "t": "p",
+          "x": "También se tiene en cuenta el movimiento de la cabeza, lo que no es sorprendente dado que los auriculares de Apple ya llevan varios acelerómetros. Pero el software descarta las fotos muy movidas o con la vista obstruida. El uso del término “peripheral inference” en el código sugiere que parte del procesamiento se completa dentro del propio auricular, algo cercano a la detección en el dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "No grava video. En su lugar, capta imágenes a intervalos regulares, lo cual, según se explica, basta para que Visual Intelligence entienda la situación."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos modos, activo y pasivo. La resolución cambia según el modo, y el activo ofrece mejor calidad de imagen. Es muy probable que cada auricular lleve además una luz indicadora de captura, pensada para que la gente alrededor note que la cámara está encendida."
+        },
+        {
+          "t": "p",
+          "x": "La luz es un elemento bienvenido desde el punto de vista de la privacidad, pero este producto tiene una naturaleza distinta a la de las gafas de Meta. No está pensado para que el usuario capture y conserve el mundo que lo rodea, sino más bien para reunir imágenes que alimenten la Visual Intelligence que Apple está preparando."
+        },
+        {
+          "t": "p",
+          "x": "Visual Intelligence es una de las piezas de la renovación de Siri que Apple lleva mucho tiempo postergando. La idea es que un asistente multimodal analice las imágenes que llegan desde los auriculares y haga algo con ellas."
+        },
+        {
+          "t": "p",
+          "x": "En el breve video filtrado, el único caso de uso que mostró Apple fue este: un hombre le pide a Siri que recuerde el libro que estaba mirando. La narración dice: “Con Visual Intelligence, tu mundo se vuelve algo que puedes guardar. ¿Ves algo que te gusta? Pídele que lo guarde para después.” El cerebro humano hace lo mismo. Es una función básica llamada memoria."
+        },
+        {
+          "t": "p",
+          "x": "La clave está en qué tan bien puede leer Visual Intelligence las imágenes enviadas por una cámara de gama baja. Los modelos de IA suelen equivocarse incluso con datos limpios."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta probablemente no tarde en llegar. Apple celebra el próximo mes su evento del iPhone 18. Como el video de la demo estaba dentro de macOS 26.7, podría revelarse más información allí. Aun así, Mark Gurman, de Bloomberg, cree que el lanzamiento no llegará hasta 2027."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home-voice-kelvin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-2.jpg?quality=82&strip=all&w=1600",
+          "cap": "Un altavoz Google Home."
+        },
+        {
+          "t": "p",
+          "x": "Google Home está lanzando una actualización que corrige puntos débiles del asistente de voz que llevaban tiempo desatendidos. Pule los comandos de transmisión, mejora el reconocimiento de las solicitudes de Spotify y permite ajustar la temperatura de color de las luces inteligentes hasta el nivel del Kelvin. No hay por qué avergonzarse: todos tienen un valor de Kelvin favorito."
+        },
+        {
+          "t": "p",
+          "x": "Google ha estado lanzando actualizaciones útiles para Home de forma constante últimamente. La mayoría se han centrado en mejorar Gemini for Home y en los ajustes que todavía necesita mientras sigue en acceso anticipado. Esta actualización toca un problema que molestaba incluso a los usuarios más ocasionales."
+        },
+        {
+          "t": "p",
+          "x": "La actualización del 20 de agosto incluye tres cambios relacionados con Gemini, el asistente de voz de Google Home. Primero, se ha depurado el reconocimiento de los comandos de Spotify. Google dijo que “mejoró la forma en que reconoce las canciones, artistas y listas de reproducción solicitadas desde Spotify”. Quien lleve tiempo usando Google Home sabe que pedir una canción concreta a veces funcionaba y a veces no. Un comando normal podía confundirse con una solicitud musical y hacer sonar una canción al azar a un volumen incómodo. Se espera que esta actualización reduzca esos casos."
+        },
+        {
+          "t": "p",
+          "x": "Un cambio en cómo se gestionan las transmisiones también figura en el registro de cambios. A partir de ahora, las transmisiones se dividen en dos pasos: pedirle a Gemini una transmisión, esperar y luego indicar cuál es el mensaje. Es mejor que el método anterior de meterlo todo en una sola frase, que generaba malentendidos con frecuencia."
+        },
+        {
+          "t": "p",
+          "x": "El último cambio del asistente de voz alegrará a quienes son exigentes con la temperatura de color. Google Home ahora entiende solicitudes específicas de temperatura de color. Decir “Hey Google, pon las luces del salón a 2700 Kelvin” cambia el color con precisión. Siempre fue posible desde la aplicación, pero no era fácil por voz. Ahora hay una razón para memorizar los valores de temperatura de color."
+        },
+        {
+          "t": "p",
+          "x": "El registro de cambios también recoge varios ajustes del lado de la aplicación. Las unidades de temperatura se unifican en todos los dispositivos, y se añade compatibilidad con cerraduras de puerta de estilo europeo."
+        },
+        {
+          "t": "p",
+          "x": "Google dijo que la aplicación falla menos en dispositivos iOS, y que el control de cámaras sin conexión se mantiene estable incluso cuando la conectividad es inestable. La mejora llega después de que Google ampliara recientemente la compatibilidad con cámaras de terceros."
+        },
+        {
+          "t": "p",
+          "x": "En Android se corrige un fallo que limitaba las transmisiones de cámara a 360p. Mientras la conexión lo permita, esas cámaras transmitirán en su resolución nativa."
+        },
+        {
+          "t": "p",
+          "x": "Por último, si falla un pago de Google Home Premium aparecerá una notificación clara, pensada para evitar que las funciones o el almacenamiento de cámara se corten de golpe un día cualquiera. La actualización del 20 de agosto comienza a desplegarse hoy mismo."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-camera-hardware-lock": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una nueva patente presentada por Meta incluye un «bloqueo de hardware» que impide físicamente la cámara de unas gafas inteligentes. Lo informó Android Central."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es la fuerte reacción en contra de las gafas de IA siempre encendidas. La desconfianza sobre no saber cuándo está activa la cámara no se calmó solo con ajustes de software."
+        },
+        {
+          "t": "p",
+          "x": "El enfoque que propone la patente traslada la privacidad de un problema de pantalla de ajustes a un problema de diseño industrial. Si se graba o no lo decide un mecanismo que se toca con la mano, no un interruptor."
+        },
+        {
+          "t": "p",
+          "x": "Dejar el consentimiento en manos de un dispositivo mecánico es cosa del diseño del producto, no de la política de privacidad. Pero una patente es solo una patente, y todavía no se sabe si este bloqueo llegará a unas gafas reales."
+        }
+      ]
+    },
+    "gadgets/gadgets-oura-sleep-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/a/img/resize/2fe8e65a882479ce058e9ebe7ae1bc08b66033e0/2026/05/27/14322f9f-76e3-4684-a821-387d12dd2a3f/oura-ring-5-lifestyle-6-gold.png?auto=webp&fit=crop&height=900&width=1200",
+          "cap": "El anillo Oura. Imagen: Oura/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "¿Puede un anillo inteligente que mide señales biométricas como la frecuencia cardíaca, la temperatura corporal y la frecuencia respiratoria determinar con precisión las etapas del sueño solo con esos datos? Esa pregunta está en el centro de esta demanda relacionada con Oura."
+        },
+        {
+          "t": "p",
+          "x": "La demanda colectiva presentada contra Oura alega que la empresa de wearables llevó a cabo una comercialización ilegal que engañó a los consumidores sobre la precisión del seguimiento del sueño de su anillo inteligente. Según los demandantes, al Oura Ring le faltan los sensores y señales necesarios para medir correctamente la actividad neuronal que define las etapas del sueño, es decir, ondas cerebrales, movimiento ocular, actividad cardíaca, movimiento muscular y PPG de dedo."
+        },
+        {
+          "t": "p",
+          "x": "La demanda dice: “El modelo de IA de Oura simplemente adivina qué está pasando a partir de entradas incorrectas, y vende una inferencia de IA defectuosa como ciencia confiable, aprovechándose de consumidores desesperados por el sueño o preocupados por su salud.”"
+        },
+        {
+          "t": "p",
+          "x": "El blanco de la demanda es Oura, pero las repercusiones podrían alcanzar a otros wearables que detectan etapas del sueño con sensores similares. Queda la pregunta de si las señales obtenidas de la muñeca o el dedo realmente se traducen en indicadores diagnósticos precisos."
+        },
+        {
+          "t": "p",
+          "x": "Madison Server, la demandante nombrada en la querella, pagó 503 dólares el año pasado por un anillo Oura creyendo que rastrearía su sueño con precisión. Ella afirma haber pagado una “prima injustificada” por un dispositivo que no cumplió las promesas de su marketing. La demanda cita un estudio de Nature según el cual el anillo inteligente logró solo una “precisión limitada” al determinar las etapas del sueño, identificando correctamente cada etapa el 53% de las veces."
+        },
+        {
+          "t": "p",
+          "x": "“El sueño ocurre en el cerebro, no en el dedo.” Si esa sola frase de la demanda se acepta como hecho ante un tribunal, sacudiría a la industria de wearables de salud, valorada en miles de millones de dólares, porque toda su propuesta de valor descansa sobre esa premisa. Los anillos y relojes inteligentes leen la frecuencia cardíaca, la variabilidad de la frecuencia cardíaca, la temperatura corporal, la saturación de oxígeno en sangre y la frecuencia respiratoria desde el dedo o la muñeca para determinar actividad, sueño e incluso estrés. El éxito y el crecimiento del mercado dependen de esta traducción de señales biométricas."
+        },
+        {
+          "t": "p",
+          "x": "Oura dijo a ZDNET que “respalda nuestra ciencia, nuestra investigación y nuestras afirmaciones de precisión.” La respuesta de la empresa es que “existe evidencia científica revisada por pares de forma independiente y bien documentada de que las etapas del sueño están vinculadas a cambios fisiológicos claros, medibles y reproducibles, y por eso clasificamos las etapas del sueño usando estas señales.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-rayneo-io-gt-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/rayneo-ar-smart-glasses-io-gt-series/intro-1787321898.jpg",
+          "cap": "RayNeo iO gafas inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas gafas AR de RayNeo tienen un extremo que es absolutamente normal y otro que es abiertamente llamativo. Las gafas inteligentes RayNeo iO parecen unas gafas comunes, pero ocultan una pequeña pantalla, un sofisticado sistema de captura de voz y funciones de IA que ayudan durante el día. En el otro extremo está la serie GT, que la empresa describe como pensada para una “visualización espacial de nivel cine”. Tiene el aspecto de unas gafas de sol de gran tamaño con patillas gruesas, del tipo que atrae miradas cuando sales con ellas puestas."
+        },
+        {
+          "t": "p",
+          "x": "Los dos tipos de producto persiguen propósitos distintos desde el principio. Las gafas inteligentes iO, de 33 gramos, están pensadas para usarse todo el día, sustituyendo las gafas comunes que usas ahora. Una pequeña pantalla monocromática verde con un campo de visión de 23,5 grados muestra una interfaz simple y texto breve, como traducción en tiempo real o un apuntador para un discurso. La serie GT son gafas de visualización de uso dedicado para ver películas, jugar y trabajar en una gran pantalla virtual. Un mismo dispositivo podría algún día cumplir ambos papeles, pero eso es difícil con la tecnología actual."
+        },
+        {
+          "t": "p",
+          "x": "A juzgar solo por las imágenes y especificaciones del producto, las gafas inteligentes iO son una opción interesante para quien quiera añadir algo de inteligencia a las gafas que ya usa. Pero RayNeo también renunció a algunas cosas para lograr un aspecto mucho más “normal” que las voluminosas gafas con pantalla Ray-Ban de Meta. Una pantalla monocromática es una de ellas, y, sorprendentemente, no tienen altavoz."
+        },
+        {
+          "t": "p",
+          "x": "En su lugar, RayNeo apostó por captar bien la voz. Dispuso cuatro micrófonos y añadió un sensor de conducción ósea que, según la empresa, “aísla las vibraciones de las cuerdas vocales para una transcripción perfecta incluso en entornos ruidosos”. Resulta útil para la traducción en tiempo real y los comandos de voz, y también alimenta el conjunto de productividad de IA ambiental de RayNeo, que escucha las conversaciones para “extraer tareas pendientes” y sugerir cambios de agenda."
+        },
+        {
+          "t": "p",
+          "x": "RayNeo dijo que las gafas inteligentes iO usan el software de traducción Timekettle BabelOS 3.0 para traducir 55 idiomas y 109 acentos en tiempo real con un retraso de alrededor de un segundo. Se dice que la batería dura dos días, unas 18 horas de grabación continua o 6,2 horas de traducción."
+        },
+        {
+          "t": "p",
+          "x": "Como ocurrió con el Xgimi MemoMind One, hay algo inquietante en una función de IA que te graba constantemente. RayNeo dijo que una luz indicadora se enciende durante la grabación y la traducción, pero, como vimos con el hardware Ray-Ban de Meta, eso es bastante fácil de ocultar. Estas gafas no tienen cámara, así que evitan las burlas de “gafas de pervertido”."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas GT y GT Max compiten de frente con pantallas de cine de gama alta como las Xreal One Pro. Con 68 y 78 gramos, el doble que las iO, tienen espacio para una pantalla mucho más grande. La GT proyecta una pantalla virtual de hasta 231 pulgadas con un campo de visión de 46 grados, y la GT Max llega hasta 307 pulgadas con un campo de visión de 59 grados. Cuanto más amplio es el campo de visión, más pantalla se ve sin girar la cabeza."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, la GT está orientada a los juegos en AR y a ver vídeo, mientras que la GT Max apuesta por una “pantalla AR de nivel cine”. Ambas GT llevan cuatro altavoces afinados junto con Bang & Olufsen y usan un chip AR de 3DoF para anclar la imagen en el espacio. Conectadas al RayNeo Pocket TV Pro, un dispositivo de streaming independiente basado en Google TV, también reproducen Dolby Vision HDR."
+        },
+        {
+          "t": "p",
+          "x": "El precio todavía no se ha anunciado. Es probable que se revele antes del lanzamiento minorista del 4 de septiembre. RayNeo mostrará todas las nuevas gafas en el IFA, a principios de septiembre."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-m6": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple presentó el chip M6. Es el primer chip fabricado con un proceso de 2 nanómetros, y viene con un Dual 16-core Neural Engine."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/Nupss_8A02Q9UCCL40qBe1db2J8=/1672x/article-new/2026/08/m6-chip.png",
+          "cap": "Chip Apple M6"
+        },
+        {
+          "t": "p",
+          "x": "La CPU gana dos núcleos respecto al M5, con lo que llega a 12: dos núcleos súper, cuatro núcleos de rendimiento y seis núcleos de eficiencia. Apple afirma que el rendimiento en un solo hilo es el más rápido del mundo, y que el rendimiento multinúcleo es hasta 1.2 veces más rápido que el M5 y hasta 2.4 veces más rápido que el M1."
+        },
+        {
+          "t": "p",
+          "x": "La GPU también gana dos núcleos, hasta 12 en total, cada uno con un Neural Accelerator. El rendimiento máximo de GPU en cargas de IA sube casi un 30% frente al M5 y más de 8 veces frente al M1, acelerando el procesamiento de prompts de los LLM en el dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "También se revisó la arquitectura de núcleos shader, Dynamic Caching y el trazado de rayos acelerado por hardware. El rendimiento de geometría sube un 50%, lo que permite manejar gráficos más complejos."
+        },
+        {
+          "t": "p",
+          "x": "El Dual 16-core Neural Engine que introduce el M6 ofrece hasta el doble del cómputo máximo de la generación anterior. Como los frameworks del sistema usan automáticamente ambos motores a la vez, las apps ejecutan modelos de IA más rápido."
+        },
+        {
+          "t": "p",
+          "x": "La memoria unificada admite hasta 32GB, con un ancho de banda de hasta 170GB/s, un 10% más que el M5 y 2.5 veces más que el M1."
+        },
+        {
+          "t": "p",
+          "x": "El M6 debuta en el nuevo Mac mini, que se lanza el martes 22 de septiembre."
+        }
+      ]
+    },
+    "gadgets/gadgets-claude-firmware-hack": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Aparece otro caso que muestra hacia dónde puede llevar la amenaza de la IA para nuestros dispositivos. Un ingeniero de seguridad de Amazon demostró lo capaz que es Claude Opus en la ingeniería inversa de periféricos de PC."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa.jpg",
+          "cap": "Una webcam y un micrófono se convirtieron en sujetos del experimento (crédito de imagen: Shutterstock / LightField Studios)"
+        },
+        {
+          "t": "p",
+          "x": "Chaz Schlarp, ingeniero senior de seguridad en Amazon, escribió en su blog sobre un experimento que hizo con periféricos como webcams y micrófonos. Quería saber con qué facilidad se puede reescribir el firmware con IA para lograr trucos útiles. El lado oscuro también es evidente: si alguien usa el mismo enfoque con mala intención, estos dispositivos se convierten en una vía para entrar a un sistema."
+        },
+        {
+          "t": "p",
+          "x": "Los objetivos fueron una webcam Insta360, un micrófono Shure, un monitor Asus, un capturador de video Elgato y una luz mini Elgato para streaming. Para el trabajo usó Claude Opus 5."
+        },
+        {
+          "t": "p",
+          "x": "Así lo explica Schlarp: “El proceso fue casi idéntico para cada dispositivo. Tomaba el firmware y las herramientas de actualización del fabricante, las metía en mi entorno de ingeniería inversa, le decía a Claude Opus 5 cuál era el objetivo y lo dejaba trabajar.”"
+        },
+        {
+          "t": "p",
+          "x": "Algo quedó claro muy pronto: ninguno de estos dispositivos tenía una protección de integridad de firmware que valiera la pena. Solo la luz Elgato tenía alguna defensa, y ni siquiera esa era difícil de evitar."
+        },
+        {
+          "t": "p",
+          "x": "También hay ejemplos del lado útil. En el monitor Asus ROG Swift PG42UQ encontró una forma de eliminar la molesta ventana de advertencia que aparece periódicamente pidiendo ejecutar la “limpieza de píxeles”. Todavía no lo aplicó al firmware. También encontró una forma de ejecutar en Linux las funciones de la utilidad de Windows DisplayWidget, logrando asignar una mira de hardware o un contador de FPS a un acceso directo mediante un script de shell."
+        },
+        {
+          "t": "p",
+          "x": "La mayor parte de lo que hizo buscaba mostrar con qué facilidad se da la vuelta al firmware cuando se le delega el trabajo pesado a la IA. Apagar la luz indicadora de grabación de la webcam fue un ejemplo. Como un malware de vigilancia, la cámara puede filmar en secreto mientras el usuario no se entera. Lo mismo ocurrió con el micrófono: produjo un shell de comandos en texto plano que deja el LED de silencio encendido mientras el micrófono no está realmente silenciado."
+        },
+        {
+          "t": "p",
+          "x": "Schlarp escribió: “Los periféricos resultaron ser un objetivo ideal para la ingeniería inversa con agentes. Son pequeñas computadoras conectadas a mi computadora, enlazadas al host mediante datos, y suelen tener un medio de actualización de firmware, lo que le da al agente algo contra lo que seguir intentando. El resultado es que ahora tengo mejor control y comprensión de mis máquinas.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xyobc3yZ8F2nn4HA7tQEXY.jpg",
+          "cap": "El indicador de silencio del micrófono también quedó desactivado (crédito de imagen: Shure)"
+        },
+        {
+          "t": "p",
+          "x": "Lo clave es la velocidad. Tomar el control de los cinco dispositivos le tomó a la IA 13 horas de trabajo autónomo, con menos de 100 prompts puestos por un humano."
+        },
+        {
+          "t": "p",
+          "x": "En palabras de Schlarp: “El hardware ahora está prácticamente todo abierto con un par de horas por dispositivo, y eso con un trabajo casi sin intervención, delegado a la máquina.” Dijo que espera un futuro cercano en el que añadir funciones al firmware de una webcam se sienta tan rutinario como parchear software en Linux."
+        },
+        {
+          "t": "p",
+          "x": "También planteó él mismo el otro lado de la historia. “Como profesional de seguridad, esto da miedo por varias razones. Trabajaré asumiendo que cualquier dispositivo conectado a una computadora podría tener un implante de firmware malicioso. Esto antes era un trabajo que requería una inversión considerable por modelo y se consideraba propio de ‘actores estatales’.”"
+        },
+        {
+          "t": "p",
+          "x": "El obstáculo para este tipo de ataques siempre fue, en el fondo, el trabajo y el tiempo. Por eso, hasta ahora se limitaban a ir tras objetivos valiosos uno por uno. Si un agente de IA se encarga de ese trabajo pesado, el mismo ataque se vuelve mucho más común."
+        },
+        {
+          "t": "p",
+          "x": "Es decir, un periférico conectado a una PC se convierte en una vía hacia uno mismo y su sistema. Schlarp también contó que obtuvo una shell root en una pantalla comercial de Dell, y añadió: “Dejar que clientes no confiables toquen estas cosas nunca fue una buena práctica, pero ahora la velocidad y la escala han cambiado, y eso hace que el riesgo sea mucho mayor.”"
+        },
+        {
+          "t": "p",
+          "x": "Queda también una amenaza mayor. “Es un salto muy pequeño desde aquí hasta imaginar que alguien construya un malware autorreplicante que explore el entorno, pase información de reconocimiento a un mando y control inteligente, y se empuje a sí mismo hacia los accesorios, dispositivos de IoT y equipos industriales junto a un objetivo infectado.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-garmin-epic": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Garmin lanzó hace poco su primer wearable sin pantalla, y las filtraciones seguían apuntando a un nuevo smartwatch en camino. Ese reloj ya llegó: el Garmin Fenix 9 y el Fenix 9 Pro. El hardware mejora respecto al Fenix 8, pero, como ocurre con los rivales menos orientados al deporte, la verdadera historia está en el software."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/20260428_SOCIAL_RECOD_3740.jpg",
+          "cap": "Garmin Fenix 9"
+        },
+        {
+          "t": "p",
+          "x": "El Fenix 9 viene en tres tamaños: 43mm, 47mm y 51mm. Todos usan una pantalla AMOLED circular cubierta con una lente de zafiro. A diferencia del Fenix 8, donde el AMOLED era una opción, ahora es estándar en toda la gama, y el brillo es el doble que el del modelo anterior. Resiste inmersiones hasta 10 ATM, y la batería dura hasta 10 días en el tamaño más pequeño. Incluye 64GB de almacenamiento interno para mapas sin conexión y reproducción de música local. También lleva una linterna integrada con brillo ajustable, y un micrófono y un altavoz para comandos de voz y llamadas. Además, es compatible con la nueva correa elástica ComfortFit de Garmin."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/87619-2-D.jpg",
+          "cap": "El Fenix 9 Pro tiene un cuerpo de titanio completo (© Garmin)"
+        },
+        {
+          "t": "p",
+          "x": "El Fenix 9 Pro viene en los mismos tres tamaños, pero con un cuerpo de titanio completo. Su pantalla AMOLED, protegida por una lente de zafiro, crece hasta 1.5 pulgadas en el modelo de 51mm. La pantalla de carga solar y la conexión satelital inReach para recibir mensajes y el clima fuera de la red son opcionales. El micrófono, el altavoz y la linterna son los mismos que en el modelo estándar, pero la luz del Pro añade rojo y verde."
+        },
+        {
+          "t": "p",
+          "x": "Ambos modelos admiten el nuevo seguimiento de resistencia, que muestra cómo ha cambiado la resistencia a lo largo del historial de entrenamiento, y también mejoró la medición de remo en interiores y de rucking. Lo que destaca es Garmin Epic. Ofrecida de forma gratuita, esta función agrupa varios entrenamientos y actividades en un \"epic\" único que cubre un viaje, un periodo de entrenamiento o una aventura al aire libre en concreto. Garmin explica que puede combinar hasta 92 días de actividades distintas, con fotos y notas junto a los registros. Este resumen está pensado tanto para mirar atrás uno mismo como para compartirlo con otros."
+        },
+        {
+          "t": "p",
+          "x": "El precio parte de 1,000 dólares para el Garmin Fenix 9 y de 1,100 dólares para el Garmin Fenix 9 Pro, cifras que sorprenden en un mercado lleno de bandas de fitness económicas. Ambos modelos se pueden pedir en Garmin a partir del 28 de agosto, con el precio subiendo según el tamaño y, en el caso del Pro, según las opciones solar y satelital."
+        }
+      ]
+    },
+    "gadgets/gadgets-nothing-os5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nothing presentó oficialmente Nothing OS 5.0. El objetivo que mostró en un video reciente de actualización se reduce a una sola idea: hacer que el hardware y el software, que antes se sentían como dos piezas construidas por separado y pegadas, se sientan como si vinieran de la misma mente."
+        },
+        {
+          "t": "p",
+          "x": "El responsable de diseño de Nothing dijo que, desde el Phone 1, ha querido que el hardware y el software se sintieran como un solo producto. El lenguaje de diseño industrial que empezó con el Ear 1 pasó a los teléfonos, pero el software tardó mucho más en seguirle el paso. OS 5.0 se presentó como la versión que por fin cierra esa brecha."
+        },
+        {
+          "t": "video",
+          "yt": "42BR1TMtz9c"
+        },
+        {
+          "t": "p",
+          "x": "La tipografía Geist, que antes solo se usaba en marketing y en el Playground, ahora entra en el propio sistema operativo. La transparencia también se empuja más lejos: los widgets se apoyan sobre el fondo de pantalla con profundidad en lugar de quedar planos. Este diseño, que abarca tipografía, iconos y color, se aplica de manera consistente en la cámara, la galería, los widgets, los ajustes y el launcher."
+        },
+        {
+          "t": "p",
+          "x": "También hay más margen para personalizar. Se añaden dos nuevos estilos de reloj para la pantalla de bloqueo, uno limpio y simple, otro denso como una terminal. La configuración inicial se simplificó, y llega también la edición por lotes, que permite mover los elementos de la pantalla de inicio todos a la vez en lugar de arrastrarlos uno por uno."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-new-clock-design.jpg?resize=2000%2C1200",
+          "cap": "Dos nuevos diseños de reloj añadidos a la pantalla de bloqueo"
+        },
+        {
+          "t": "p",
+          "x": "Glyph recibe una app dedicada. Nothing reconoció que a la gente le gusta la función pero le resulta complicado configurarla, así que lanza una app aparte que facilita ajustar la interfaz Glyph. También se añaden dos widgets: un rastreador de tiempo de desconexión pensado para animar a dejar el teléfono, y un widget de colección que convierte fotos de cosas que atesoras en stickers para la pantalla de inicio."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-New-widgets.jpg?resize=2000%2C1200",
+          "cap": "Dos nuevos widgets"
+        },
+        {
+          "t": "p",
+          "x": "También se trabajó en Essential Suite. Essential Voice, que permite controlar el teléfono hablando, sigue refinando su modelo, la latencia y la precisión del dictado. Essential Space, donde se reúnen las notas y archivos que se pierden con facilidad, ahora tiene colecciones inteligentes y soporte MCP, lo que permite conectar las herramientas de IA que ya usas directamente con tus propios datos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-Collections-in-Essential-Space.jpg?resize=2000%2C1200",
+          "cap": "Colecciones inteligentes añadidas a Essential Space"
+        },
+        {
+          "t": "p",
+          "x": "La beta de Essential Apps también se amplía. Permite crear widgets con vibe coding directamente en el teléfono, con ejemplos como un metrónomo hecho a medida y un planificador de rutina matutina que junta el trayecto al trabajo y la primera reunión."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-Essential-Apps.jpg?resize=2000%2C1200",
+          "cap": "Ejemplo de un widget creado y usado directamente en el teléfono"
+        },
+        {
+          "t": "p",
+          "x": "Nothing OS 5.0 corre sobre Android 17. La configuración rápida y las notificaciones ahora están separadas en vez de compartir un solo panel, la grabación de pantalla mejoró, y llegaron los emojis 3D. La privacidad, la seguridad y el rendimiento de Bluetooth también mejoraron."
+        },
+        {
+          "t": "p",
+          "x": "La beta se abre mañana en nothing.tech. El Nothing Phone 3 es el primero, y otros dispositivos se irán sumando poco a poco."
+        }
+      ]
+    },
+    "gadgets/gadgets-perplexity-portable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los asistentes de IA suelen tener que enviar tus preguntas, archivos y datos a servidores de otra empresa para funcionar. El Portable Computer de Perplexity invierte esa estructura y ejecuta todo el sistema de IA en el hardware que tú posees."
+        },
+        {
+          "t": "p",
+          "x": "Presentado el martes, el producto traslada la plataforma de agentes de Perplexity, Computer, a una Nvidia DGX Spark, o a una máquina Linux con una tarjeta gráfica Nvidia compatible."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, toda tarea empieza en tu dispositivo. Cuando el modelo local llega a un paso que necesita un razonamiento más profundo, primero pregunta si se puede enviar solo ese paso a un modelo de frontera en la nube. La respuesta vuelve al flujo de trabajo local, y los archivos y la información sensible permanecen en el dispositivo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/oW2jKymtiv2rQ7N8Fqenh8.jpg",
+          "cap": "Un agente que corre en tu propio hardware (crédito de imagen: Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "Es un panorama atractivo para quien quiere la comodidad de un agente de IA sin entregar automáticamente todo lo que el agente toca a un proveedor en la nube."
+        },
+        {
+          "t": "p",
+          "x": "Descargar un modelo abierto y ejecutarlo en tu propia computadora ya es posible. Lo difícil es convertir ese modelo en un agente que maneje archivos, use herramientas y complete tareas de varios pasos."
+        },
+        {
+          "t": "p",
+          "x": "Normalmente había que buscar y configurar uno mismo un motor de inferencia, un arnés de agente, una caja de arena y conectores para aplicaciones externas. También era responsabilidad del usuario hacer que todas las piezas encajaran entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Portable Computer empaqueta toda esa pila en un solo conjunto. Incluye un modelo local, un motor de inferencia, herramientas de agente, conectores de aplicaciones y una caja de arena aislada para ejecutar código y usar herramientas."
+        },
+        {
+          "t": "p",
+          "x": "Maneja archivos guardados en tu computadora, lee PDF y ejecuta comandos de shell. También hace dictado y búsquedas web. Se conecta con servicios como Google Drive, Gmail, Slack y GitHub."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity afirma que el uso de código y herramientas ocurre dentro de la caja de arena local. Eso levanta una especie de muro entre el agente y el resto del dispositivo, aunque convendría saber más sobre qué puede acceder exactamente y cómo se controlan los permisos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YwKRVzwvLwup6hDGh5bVNM.jpg",
+          "cap": "El enrutamiento híbrido es el núcleo de este producto (crédito de imagen: Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "Incluso un modelo local pequeño basta para buscar archivos, extraer información de un PDF y manejar unos pocos pasos simples. Pero es difícil esperar una capacidad de razonamiento a la altura de los modelos más grandes de OpenAI, Anthropic o Google."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta de Perplexity es simple. Mantiene la tarea en local hasta que llega a un punto que el modelo claramente no puede manejar bien, y en ese momento pregunta si se puede transferir ese paso a un modelo en la nube."
+        },
+        {
+          "t": "p",
+          "x": "El usuario nunca elige un modo de privacidad ni escribe reglas de enrutamiento. La decisión la toma el sistema en medio de la tarea, y la aprobación en el momento de transferir la toma una persona. Una IA \"local\" que se escapa en silencio a la nube cada vez que algo se complica deja de merecer ese nombre."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity dice que el trabajo terminado en local no consume créditos de facturación. Solo la parte que pasa a la nube cuenta como uso."
+        },
+        {
+          "t": "p",
+          "x": "En el lanzamiento, los modelos disponibles son un Qwen de 27.000 millones de parámetros y PPLX 27B, que Perplexity entrenó adicionalmente por su cuenta. Le seguirá el Nemotron 3.5 Lightning de Nvidia, y también se abre la posibilidad de traer tu propio modelo y servidor de inferencia y conectarlo."
+        },
+        {
+          "t": "p",
+          "x": "El inconveniente es el hardware. El software sale primero para Linux y exige hardware Nvidia con al menos 24GB de VRAM. Es compatible con la Nvidia DGX Spark de tamaño de escritorio, además de computadoras ARM y x64 que corran DGX OS o Ubuntu. El soporte para Windows está previsto para septiembre, y todavía no hay planes para macOS."
+        },
+        {
+          "t": "p",
+          "x": "Está disponible para suscriptores de Perplexity Pro, Max, Enterprise Pro y Enterprise Max. Incluso entre quienes cumplen con la suscripción, no muchos tienen ese tipo de equipo bajo el escritorio. Por eso este primer lanzamiento está pensado menos para quien sopesa ChatGPT frente a Perplexity en una laptop, y más para aficionados, desarrolladores y empresas que ya operan sistemas Nvidia de alto rendimiento."
+        },
+        {
+          "t": "p",
+          "x": "La idea en sí tiene margen para extenderse mucho más. La información que toca un asistente de IA sigue entrando en terreno cada vez más privado: correo electrónico, documentos de trabajo, archivos dentro de la computadora. Traer más trabajo al ámbito local le da al usuario más margen para decidir qué se envía fuera, y cuándo."
+        },
+        {
+          "t": "p",
+          "x": "Portable Computer no va a sustituir a los chatbots en la nube de inmediato. Pero ofrece un primer vistazo de cómo podría ser un asistente de IA más privado una vez que ese tipo de hardware se vuelva asequible."
+        }
+      ]
     }
   }
 }

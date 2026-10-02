@@ -2645,6 +2645,305 @@
           "x": "In the end, there are six things to check: whether there's a trial, whether it uses a trustworthy license verification system, whether support channels are open, whether it handles your work without strain, whether the design is distinctive, and whether there's evidence it's been used in real professional settings. You don't need a technical background to judge this. Just ask yourself whether this plugin feels like a person was actually steering it. Vibe coding has raised the ceiling on what a developer can do, and the risk and the promise come from the same shift. In the end, it all depends on how developers use this technology."
         }
       ]
+    },
+    "music/music-ml-plugin-week": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500.jpg",
+          "cap": "A producer working on a laptop in the studio"
+        },
+        {
+          "t": "p",
+          "x": "MusicTech rounded up this week's new plugins. Several lean on machine learning for stem separation and synthesis, without billing themselves as AI."
+        },
+        {
+          "t": "p",
+          "x": "WaveMachine Labs' ReStem 2 splits a mixed drum recording into kick, snare, hi-hat, toms, ride, crash, and the rest. Each separated element gets its own level, gating, and dynamics control. It can run in real time or as offline rendering. The kick and snare channels use Drumagog technology for sample replacement. Core costs $99, Pro costs $199."
+        },
+        {
+          "t": "p",
+          "x": "Minimal Audio's Lucid is a granular synthesizer. It retunes each grain to a scale in real time and stacks grains into chords and arpeggios. It comes with per-grain filtering and imaging, a multi-tap grain delay with scale-locked pitch shifting, animatable-macro modulation, and eight effects. Introductory price is $79, regular price is $129."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/08/MA-Lucid-hero@2000x1500.jpg",
+          "cap": "Lucid, Minimal Audio's granular synthesizer"
+        },
+        {
+          "t": "p",
+          "x": "Orph's Monochord is a “dream machine and harmony workstation” that pairs vintage hardware samples with chord programming. It holds 425 sounds drawn from the Fairlight CMI, Memorymoog, Oberheim OB-X, Casio VL-1, Bontempi B3, and Suzuki Omnichord. It adds fifteen effects modeled on gear like the Space Echo and Eventide H3000, more than 600 chord voicings, and an arpeggiator and strum mode. It costs 139 euros."
+        },
+        {
+          "t": "p",
+          "x": "Gulf Coast Synthesis' Spectral is an additive synthesis instrument for drawing harmonics directly. Dragging audio or an image onto the Spectral Canvas converts it into harmonics, and you can also draw sound by hand with a brush. Pattern and Sacred Geometry generators create spectra, with All, Even, Odd, and Inharmonic modes for selecting overtones. Pitch drift, tape wobble, and dropouts mimic analog texture. Introductory price is $39, regular price is $69."
+        }
+      ]
+    },
+    "music/music-phosphor-1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/phosphor-1-728x364.jpg",
+          "cap": "OA-Phosphor-1, the free Mac synthesizer from OA-Labs"
+        },
+        {
+          "t": "p",
+          "x": "OA-Labs released OA-Phosphor-1, a free virtual analog synthesizer plugin for Mac."
+        },
+        {
+          "t": "p",
+          "x": "The developer describes it as a synth for “controllable instability,” and that fits well. Phosphor-1 can produce plain subtractive-synthesis sounds too. But for me, at least, the fun starts when you shake, stretch, wobble, and collapse the sound."
+        },
+        {
+          "t": "p",
+          "x": "I've said several times that vibe-coded plugins are flooding in these days. Rather than cover everything that lands in the inbox, BPB News tries to focus on the decent free plugins."
+        },
+        {
+          "t": "p",
+          "x": "Phosphor-1 also got AI help with its coding. That doesn't mean it's a plugin pulled out with a single prompt, though. The developer is a designer and musician, and says refining the interface and dialing in the sound took about two months."
+        },
+        {
+          "t": "p",
+          "x": "Having used it myself, it's fun to tinker with. If you like sounds that feel like they're coming off a stretched cassette, or the detuned textures in the Boards of Canada vein, it's worth a look."
+        },
+        {
+          "t": "p",
+          "x": "The core control is Age. It applies across the whole instrument at once. Turning it up makes the pitch, filter, level, and shape all start to wobble together. The motion layered on by the chaos engine never repeats exactly the same way, so you can push it from subtle analog-style flaws all the way to much more unstable states."
+        },
+        {
+          "t": "p",
+          "x": "That design suits me well. I built BPB Dirty VHS for VHS-style wobble and degradation, and BPB Dirty LA for compression with added grit. Phosphor-1 sits in a similar space, but it's an instrument rather than an effect."
+        },
+        {
+          "t": "p",
+          "x": "There are two oscillators plus a dedicated sub-oscillator, mixed with cross, ring, and hard sync. A morphing multimode filter moves from low-pass to notch, band-pass, and high-pass, and a waveshaper handles warp, curve, fold, and bias."
+        },
+        {
+          "t": "p",
+          "x": "A generative arpeggiator also stands out. It goes beyond a simple up-down pattern, adding groove, glitch, and per-step probability. On top of that come dual LFOs, amp/filter/pitch envelopes, poly and mono modes, a legato mode, unison with spread and phase, glide, up to 4x oversampling, a preset browser, and 68 presets."
+        },
+        {
+          "t": "p",
+          "x": "OA-Labs said it's testing Windows support and taking a waitlist. Reverb and delay, MIDI sync, arp steps that follow a pattern, more presets, and bug fixes could be added down the line."
+        },
+        {
+          "t": "p",
+          "x": "OA-Phosphor-1 comes as AU and VST3 for Mac. The download is 18MB, and entering an email address gets it for free."
+        }
+      ]
+    },
+    "music/music-suno-model-retire": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno is taking down all the AI models it currently runs. It said it will soon introduce a new generation of models developed together with the music industry, and once that model arrives, every previous model will be retired."
+        },
+        {
+          "t": "p",
+          "x": "The starting point is a licensing deal with BMG. The agreement, announced on Wednesday, August 12, includes BMG's recordings and publishing repertoire together. It's the first major deal since the Warner settlement in November 2025, though BMG was never a plaintiff in the RIAA lawsuit to begin with. It's framed as settling past use rather than resolving litigation. Suno CEO Mikey Shulman said that building a responsible future means working directly with the people who make music, while BMG's Celine Joshua said choice is the guiding principle."
+        },
+        {
+          "t": "p",
+          "x": "Starting September 3, downloads become the gateway to commercial release. Free users get seven downloads for life, and even those carry no commercial rights. Pro gets 20 a month, Premier gets 60 a month. Extra downloads can be purchased separately. To put a track on a streaming service, users must first spend one of these downloads. Suno said the move is meant to make it harder for bad-faith users to mass-extract music as the platform grows."
+        },
+        {
+          "t": "p",
+          "x": "Files carry a watermark that's hard to remove. Audible Magic and Musixmatch have joined as partners, and Suno is the first customer for Sentinel, Musixmatch's new copyright-detection system. The idea is to filter out Suno-made tracks at the point of entry into distribution. Spotify charges 10 euros a month for each track flagged as artificial streaming, and removed more than 75 million spam tracks over the 12 months through September 2025. In mid-September, Suno will also launch an AI Persona badge for AI-made profiles."
+        },
+        {
+          "t": "p",
+          "x": "Studio 2.0, which opened on August 13, includes MIDI import, recording, editing, stem separation, audio effects and automation, and wavetable synth design. Premier users can export unlimited 32-bit/48kHz multitrack and stems — opening up a pro-tier path outside the download cap. It's built on WavTool, which Suno acquired in September 2025."
+        },
+        {
+          "t": "p",
+          "x": "On August 6, the Suno Vinyl waitlist opened. It presses up to 46 minutes onto a 12-inch black PETG disc, priced at around $45 before shipping. The company says these aren't novelty-cut discs but properly pressed records — a way to make money that bypasses streaming distribution."
+        }
+      ]
+    },
+    "music/music-ai-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/AI-Search-For-Artists---Venues.jpg",
+          "cap": "How to capture AI search results with Preferred Sources — a guide for artists and venues"
+        },
+        {
+          "t": "p",
+          "x": "As Google expands Preferred Sources, artists and venues have gained a new form of leverage. It's a way to claim top placement in AI search, AI Overviews, and AI Mode, and push back against the website traffic that AI has been eroding."
+        },
+        {
+          "t": "p",
+          "x": "Any site can now embed Google's official Preferred Source button directly. Once a fan clicks that button, Google will prioritize the official domain and prominently attach a 'Preferred' badge whenever that fan later asks an AI search tool about music, show times, or venue rules."
+        },
+        {
+          "t": "p",
+          "x": "Ticket-information hallucinations drop first. AI answer engines often get show times wrong or send fans toward reseller ticket scams, but once the priority badge is in place, the official domain gets cited as the primary source. Click-through rates change too. Google's own data shows that Preferred Source links in AI search results get clicked roughly twice as often. Generative engine optimization (GEO) usually demands complex technical setup, but this feature converts fan loyalty that's already been built up directly into search authority."
+        },
+        {
+          "t": "p",
+          "x": "There are three places to use it. Place Google's lightweight JavaScript button on the official site's root domain, near tour or event pages. In presale emails, attach a one-click link asking fans to “save us as a Preferred Source in Google so AI search shows our official ticket links and show times first.” Also put the button at the top of the FAQ page that lists venue rules, entry times, and box-office hours. When a fan asks AI “what's [venue name]'s bag policy,” your site becomes the one that gets cited."
+        },
+        {
+          "t": "p",
+          "x": "Installation splits two ways. On sites that allow custom HTML/JS, like WordPress or Squarespace, embed Google's interactive button so fans can register in one step without leaving the site. Place a div with the google-add-preferred-source-btn attribute where the button should appear, and add the news.google.com/swg/js/v1/swg-basic.js script tag to the head. Choose data-theme as dark or light to match the site's tone."
+        },
+        {
+          "t": "p",
+          "x": "If a site builder blocks scripts, or if you'd rather route fans through email, social media, or a link-in-bio, use Google's direct link instead. Just swap in your own root domain at the end of https://www.google.com/preferences/source?q=yourdomain.com. When a fan clicks it, they land straight on Google's source settings screen with the domain pre-filled, and one more click finishes it."
+        },
+        {
+          "t": "p",
+          "x": "The fight for AI visibility no longer comes down to keywords, but to how much of your fan base you've locked in. Adding the button and putting the link in an email takes just a few minutes, but when your most devoted fans ask an AI search tool a question, it's your link that comes back as the answer."
+        }
+      ]
+    },
+    "music/music-aria-charts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/ai-generated-music-to-be-banned-from-aria-charts-in-australia-1024x576.png",
+          "cap": "AI-generated music will be excluded from Australia's ARIA charts. Photo: Johnny Bhalla"
+        },
+        {
+          "t": "p",
+          "x": "Under new rules set by the Australian Recording Industry Association (ARIA), songs made entirely or mostly by artificial intelligence will be excluded from Australia's official charts starting this Friday. Recordings that used AI assistance can still chart if they are “substantially human-made,” meaning a person made a substantial part of the song."
+        },
+        {
+          "t": "p",
+          "x": "ARIA, which runs the charts of Australia's most-listened-to music, revised its chart code of practice to align with principles set by the global recording industry. The new code excludes music made with generative AI in principle, with an exception only for cases that are “substantially human-made” and “raise no stream or chart manipulation concerns.”"
+        },
+        {
+          "t": "p",
+          "x": "ARIA can remove ineligible releases from the charts, change their rankings, and revoke chart awards already given. Artists or their representatives can appeal if they believe a decision is wrong. The rules take effect starting with the chart announced on Friday, August 28."
+        },
+        {
+          "t": "p",
+          "x": "ARIA chief executive Annabelle Herd drew a line between artists already using AI-assisted tools and music generated wholesale by an AI service trained on an artist's recordings, calling the two entirely different issues. Herd said, “this gives everyone releasing music in Australia a clear set of rules to follow.”"
+        },
+        {
+          "t": "p",
+          "x": "Behind the decision is a controversy over a cover of Madonna's 'Like a Prayer' made by Queensland DJ and producer Josh Fawaz. It became the most-played song on Australian radio last month and climbed as high as No. 4 on two ARIA charts, but the industry raised concerns that it used generative AI. Fawaz admitted he used AI “as a tool,” and later updated the track's Spotify credits to say the vocals and drums were AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "Most of ARIA's changes follow standards the International Federation of the Phonographic Industry (IFPI) released in July. At the time, IFPI said more than 20 official chart programs were adopting rules to distinguish human-made recordings from recordings generated wholesale by AI. An ARIA representative explained that, under IFPI's standards, music with AI-generated lead vocals or core instruments would likely be disqualified. Fawaz's track also looks unlikely to chart going forward."
+        },
+        {
+          "t": "p",
+          "x": "The move comes amid disputes between creators and AI companies playing out around the world. Several AI companies have used copyrighted material for training without permission, claiming fair use. The Australian government has also said it is developing AI and data center regulations that include “strong copyright protections” for domestic creators."
+        }
+      ]
+    },
+    "music/music-cyanite-tagging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T125447.316.png?fit=780%2C585&ssl=1",
+          "cap": "An illustration of Cyanite's AI music tagging technology"
+        },
+        {
+          "t": "p",
+          "x": "German startup Cyanite was an early mover in generating music metadata with AI. Music Ally first covered the company in July 2019, when its automated tagging technology spun out of an existing company called Groovecat."
+        },
+        {
+          "t": "p",
+          "x": "A little more than seven years later, the platform is getting a major overhaul, an upgrade Cyanite calls 'Tagging 2.0.' The core idea, analyzing a music catalog to generate metadata, stays the same."
+        },
+        {
+          "t": "p",
+          "x": "What's changed is who reads that metadata. It's no longer just humans. The company sees the parties that “explore, organize and actually put catalogs to use” increasingly shifting toward AI systems, a range that spans conversational search and personalized recommendations to catalog automation and intelligent assistants."
+        },
+        {
+          "t": "p",
+          "x": "Many of the newly reworked features are aimed at this shift. The upgraded system is already in use by clients including BeatStars, The Source, Rambling Records and Human Worldwide."
+        },
+        {
+          "t": "p",
+          "x": "CEO Markus Schwarzer said, “AI is changing how the music industry works with catalogs. But these new workflows are only as good as the musical understanding underneath them.”"
+        }
+      ]
+    },
+    "music/music-minimax-3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!v-WJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4827eb79-f9c5-4f8d-b0aa-a449a4b440fb_1920x1080.png",
+          "cap": "MiniMax Music 3 — an open-weight model that generates songs up to five minutes long from lyrics and a music description"
+        },
+        {
+          "t": "p",
+          "x": "It's another big day for open source. A top-tier open-weight music generation model has arrived in ComfyUI: MiniMax Music 3, from MiniMax. Give it lyrics and a description of the sound you want, and it returns a complete, structurally coherent song up to five minutes long in 32kHz stereo."
+        },
+        {
+          "t": "p",
+          "x": "The model is built for generating a whole song, not loops or short clips. Conditioned on lyrics and a music description, it holds onto theme, rhythm, vocal identity, and arrangement progression across the entire track. Output is 32kHz 16-bit stereo audio."
+        },
+        {
+          "t": "p",
+          "x": "The architecture is a hybrid combining two language models with a continuous synthesis stage. An 8B Global LLM, starting from Qwen3-8B, handles the song's long-range flow and structural progression, while a 0.6B Local LLM restores fine acoustic detail within each frame. Rather than decoding audio from discrete tokens alone, it combines the hidden states of both LLMs and passes them to a 2.4B Flow Matching stage and a 123M Flow-VAE decoder. This continuous representation, which carries acoustic information tokens can't hold, is what makes the difference in vocal pronunciation, instrument texture, and temporal continuity."
+        },
+        {
+          "t": "p",
+          "x": "Song length up to five minutes is supported by default. It maintains the progression through intro, verse, pre-chorus, chorus, bridge, instrumental, and outro while holding onto melody, rhythm, and vocal identity. In the lyrics input, you set the structure by writing section tags directly, such as [Intro], [Verse], [Pre-Chorus], [Chorus], [Post-Chorus], [Bridge], [Instrumental], [Solo], and [Outro]."
+        },
+        {
+          "t": "p",
+          "x": "Using a Structured Caption instead of a plain description widens the range of control. It splits into Global Metadata, covering genre, BPM, key and scale, emotional progression, and production character; Vocal Details, covering gender, timbre, singing style, harmony, backing vocals, and effects; and Arrangement, covering instrumentation and section-by-section changes in groove, bass, percussion, texture, and spatial feel. Vocals can be tuned down to timbre, harmony, and effects, and thanks to the hidden-state synthesis pathway, pronunciation stays stable even over long stretches. Output is 16-bit stereo WAV, and the Flow-VAE decoder was retrained to match music's dynamic range and spectral characteristics."
+        },
+        {
+          "t": "p",
+          "x": "MiniMax also released an official skill that converts a short music description and tagged lyrics into a detailed structured caption for Music 3.0. It keeps any stated musical constraints as they are and leaves the lyric text in the lyrics input, while generating a caption that runs through Global Metadata, Vocal Details, and arrangement description section by section. The install command is npx skills add MiniMax-AI/MiniMax-Music3 --skill music-caption-rewriter."
+        },
+        {
+          "t": "p",
+          "x": "To try it yourself, update ComfyUI to 0.33.0 or use Comfy Cloud instead. Download the workflow or find it in the template library, then follow the workflow's instructions to get the model weights and place them in the designated model folder. Fill in the lyrics and music description and run it, and that's it. The weights are up on Hugging Face at MiniMaxAI/MiniMax-Music3."
+        }
+      ]
+    },
+    "music/music-trama": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trama, made by Ohlhorst Digital, is a free standalone AI stem separator that runs on Windows, macOS, and Linux."
+        },
+        {
+          "t": "p",
+          "x": "StemDeck, which we covered recently, was a free, open-source local separator that split tracks into up to six stems. Trama takes a similar offline approach, but focuses on four stems and packs what's needed into a single desktop app."
+        },
+        {
+          "t": "p",
+          "x": "Drag in a mixed track and it splits into vocals, drums, bass, and everything else. You can choose and export just the combination you want from the four, and whatever you don't pick gets merged back into a single file. There's no reason to export stems you won't use."
+        },
+        {
+          "t": "p",
+          "x": "The interface is lean, and installation is simple. There's no account, no cloud upload, and no separate model download. On Windows, you unzip it and run it directly; macOS gets it as a disk image; and on Linux, you just extract the binary and grant it execute permission."
+        },
+        {
+          "t": "p",
+          "x": "What runs under the hood is htdemucs_ft, a Hybrid Transformer Demucs model fine-tuned by Meta. All four separation models are bundled into the app and loaded into memory at runtime, so the entire process finishes locally with no internet connection needed."
+        },
+        {
+          "t": "p",
+          "x": "Quality is chosen among Normal, High, and Ultra. Raising the setting runs more separation passes and averages the results, so stems come out cleaner but take longer. Ohlhorst Digital recommends High as a safe default."
+        },
+        {
+          "t": "p",
+          "x": "For a three-minute song run at High, the developer's figures are 1 to 2 minutes on a compatible NVIDIA GPU and 10 to 15 minutes on CPU. Windows and Linux use CUDA automatically if it's available, but there's no AMD GPU acceleration yet. On Apple silicon, the MPS backend is disabled, so it runs on CPU."
+        },
+        {
+          "t": "p",
+          "x": "You can also queue up multiple songs to process at once. Progress and estimated completion time are shown per file and for the whole queue. Stem selection, the quality preset, and the output folder are all remembered for next time."
+        },
+        {
+          "t": "p",
+          "x": "Input accepts WAV, AIFF, MP3, and FLAC. All stems come out as 44.1kHz 32-bit floating-point WAV, and other sample rates get resampled during separation. It also preserves WAV metadata such as BWF data, cue points, labels, playlists, instrument info, ID3 tags, and Reaper markers."
+        },
+        {
+          "t": "p",
+          "x": "Trama v1.0.7 supports 64-bit Windows 10/11 and x86_64 Linux. On macOS, it requires 12 or later and Apple silicon only, leaving out Intel Macs. Because the models and libraries are bundled in whole, the download sizes are large: about 3.1GB for Windows, 500MB for macOS, and 3.9GB for Linux."
+        }
+      ]
     }
   }
 }

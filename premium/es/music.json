@@ -2535,6 +2535,305 @@
           "x": "Al final, hay seis cosas que revisar: si existe una versión de prueba, si usa un sistema de verificación de licencias confiable, si los canales de soporte están abiertos, si soporta tu trabajo sin esfuerzo, si el diseño es distintivo, y si hay evidencia de que se ha usado en entornos profesionales reales. No se necesita formación técnica para juzgar esto. Basta con preguntarse si este plugin da la sensación de que una persona realmente lo estaba guiando. El vibe coding elevó el techo de lo que puede hacer un desarrollador, y el riesgo y la promesa nacen del mismo cambio. Al final, todo depende de cómo los desarrolladores usen esta tecnología."
         }
       ]
+    },
+    "music/music-ml-plugin-week": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500.jpg",
+          "cap": "Un productor trabajando en un portátil en el estudio"
+        },
+        {
+          "t": "p",
+          "x": "MusicTech reunió los plugins lanzados esta semana. En separación de stems y síntesis, varios se apoyan en aprendizaje automático sin presentarse como IA."
+        },
+        {
+          "t": "p",
+          "x": "ReStem 2, de WaveMachine Labs, separa una grabación de batería mezclada en bombo, caja, hi-hat, toms, ride, crash y el resto. Cada elemento separado tiene su propio nivel, gating y dinámica. Puede procesarse en tiempo real o mediante renderizado fuera de línea. Los canales de bombo y caja usan la tecnología Drumagog para reemplazo de muestras. Core cuesta 99 dólares, Pro cuesta 199 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Lucid, de Minimal Audio, es un sintetizador granular. Reajusta cada grano a una escala en tiempo real y apila granos para formar acordes y arpegios. Incluye filtrado e imaging por grano, un delay de grano multi-tap con pitch shifting ligado a la escala, modulación con macros animables y ocho efectos. El precio de lanzamiento es de 79 dólares, el precio regular es de 129 dólares."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/08/MA-Lucid-hero@2000x1500.jpg",
+          "cap": "Lucid, el sintetizador granular de Minimal Audio"
+        },
+        {
+          "t": "p",
+          "x": "Monochord, de Orph, es una “máquina de sueños y estación de armonía” que combina muestras de hardware vintage con programación de acordes. Incluye 425 sonidos tomados del Fairlight CMI, Memorymoog, Oberheim OB-X, Casio VL-1, Bontempi B3 y Suzuki Omnichord. Suma quince efectos que imitan equipos como el Space Echo y el Eventide H3000, más de 600 voicings de acordes, y un arpegiador con modo de rasgueo. Cuesta 139 euros."
+        },
+        {
+          "t": "p",
+          "x": "Spectral, de Gulf Coast Synthesis, es un instrumento de síntesis aditiva para dibujar armónicos directamente. Arrastrar audio o una imagen al Spectral Canvas los convierte en armónicos, y también se puede dibujar el sonido a mano con un pincel. Los generadores Pattern y Sacred Geometry crean los espectros, con modos All, Even, Odd e Inharmonic para elegir los armónicos. El pitch drift, el wobble de cinta y los dropouts imitan además la textura analógica. El precio de lanzamiento es de 39 dólares, el precio regular es de 69 dólares."
+        }
+      ]
+    },
+    "music/music-phosphor-1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/phosphor-1-728x364.jpg",
+          "cap": "OA-Phosphor-1, el sintetizador gratuito para Mac de OA-Labs"
+        },
+        {
+          "t": "p",
+          "x": "OA-Labs lanzó OA-Phosphor-1, un plugin de sintetizador virtual analógico gratuito para Mac."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador lo presenta como un sintetizador para la “inestabilidad controlable”, y la descripción le queda bien. Con Phosphor-1 también se pueden lograr sonidos de síntesis sustractiva comunes. Pero, al menos para mí, la diversión empieza al sacudir, estirar, hacer vibrar y desbaratar el sonido."
+        },
+        {
+          "t": "p",
+          "x": "He comentado varias veces que últimamente aparecen muchos plugins hechos con vibe coding. En vez de cubrir todo lo que llega a la bandeja de entrada, BPB News prefiere centrarse en los buenos plugins gratuitos."
+        },
+        {
+          "t": "p",
+          "x": "Phosphor-1 también recibió ayuda de IA en su programación. Eso no significa que sea un plugin sacado con un solo prompt. El desarrollador es diseñador y músico, y dice que pulir la interfaz y afinar el sonido le tomó unos dos meses."
+        },
+        {
+          "t": "p",
+          "x": "Al probarlo, resulta divertido manipularlo. Si te gustan los sonidos que parecen salir de un casete estirado, o las texturas desafinadas al estilo de Boards of Canada, vale la pena revisarlo."
+        },
+        {
+          "t": "p",
+          "x": "El control central es Age. Actúa sobre todo el instrumento a la vez. Al subir el valor, el pitch, el filtro, el nivel y la forma de onda empiezan a vibrar juntos. El movimiento que añade el motor de caos nunca se repite igual, así que se puede llevar desde un ligero toque analógico hasta estados mucho más inestables."
+        },
+        {
+          "t": "p",
+          "x": "Ese diseño me resulta muy afín. Hice BPB Dirty VHS para el wobble y la degradación tipo VHS, y BPB Dirty LA para una compresión con textura más áspera. Phosphor-1 ocupa un lugar similar, pero es un instrumento, no un efecto."
+        },
+        {
+          "t": "p",
+          "x": "Tiene dos osciladores más un sub-oscilador dedicado, que se mezclan con cross, ring y hard sync. Incluye un filtro multimodo morfeable que va de low-pass a notch, band-pass y high-pass, además de un waveshaper que maneja warp, curve, fold y bias."
+        },
+        {
+          "t": "p",
+          "x": "El arpegiador generativo también destaca. No se limita a un simple patrón ascendente-descendente, sino que añade groove, glitch y probabilidad por paso. A esto se suman dos LFO, envolventes de amplificador, filtro y pitch, modos poly y mono, modo legato, unísono con spread y phase, glide, sobremuestreo de hasta 4x, un navegador de presets y 68 presets."
+        },
+        {
+          "t": "p",
+          "x": "OA-Labs dijo que está probando el soporte para Windows y que está abriendo una lista de espera. Más adelante podrían añadirse reverb y delay, sincronización MIDI, pasos de arpegio que siguen un patrón, más presets y correcciones de errores."
+        },
+        {
+          "t": "p",
+          "x": "OA-Phosphor-1 se ofrece como AU y VST3 para Mac. La descarga pesa 18MB, y se puede obtener gratis dejando una dirección de correo."
+        }
+      ]
+    },
+    "music/music-suno-model-retire": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Suno va a retirar todos los modelos de IA que ofrece actualmente. Dijo que pronto presentará una nueva generación de modelos desarrollados junto con la industria musical, y que, cuando llegue ese modelo, todos los anteriores quedarán retirados."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida es un acuerdo de licencia con BMG. El acuerdo, anunciado el miércoles 12 de agosto, incluye las grabaciones y el catálogo editorial de BMG. Es el primer gran acuerdo desde el pacto con Warner en noviembre de 2025, aunque BMG nunca fue demandante en el pleito de la RIAA; se trata de liquidar usos pasados y no de resolver un litigio. El CEO de Suno, Mikey Shulman, dijo que construir un futuro responsable exige trabajar directamente con quienes hacen música, mientras que Celine Joshua, de BMG, dijo que la elección es el principio rector."
+        },
+        {
+          "t": "p",
+          "x": "Desde el 3 de septiembre, las descargas se convierten en la puerta de entrada al lanzamiento comercial. Los usuarios gratuitos tienen siete descargas de por vida, y ni siquiera esas tienen derechos comerciales. Pro tiene 20 al mes, Premier tiene 60 al mes. Se pueden comprar descargas adicionales por separado. Para subir un tema a un servicio de streaming, antes hay que gastar una de estas descargas. Suno explicó que la medida busca dificultar que usuarios malintencionados extraigan música en masa a medida que la plataforma crece."
+        },
+        {
+          "t": "p",
+          "x": "Los archivos llevan una marca de agua difícil de eliminar. Audible Magic y Musixmatch se han unido como socios, y Suno es el primer cliente de Sentinel, el nuevo sistema de detección de derechos de autor de Musixmatch. La idea es filtrar las pistas hechas por Suno en el punto de entrada a la distribución. Spotify cobra 10 euros al mes por cada pista marcada como streaming artificial, y eliminó más de 75 millones de pistas de spam en los 12 meses hasta septiembre de 2025. A mediados de septiembre también llegará la insignia AI Persona para los perfiles hechos con IA."
+        },
+        {
+          "t": "p",
+          "x": "Studio 2.0, que abrió el 13 de agosto, incluye importación MIDI, grabación, edición, separación de stems, efectos de audio y automatización, y diseño de sintetizadores wavetable. Los usuarios Premier pueden exportar sin límite multipistas y stems en 32 bits/48kHz, lo que abre una vía profesional fuera del límite de descargas. Se basa en WavTool, adquirida por Suno en septiembre de 2025."
+        },
+        {
+          "t": "p",
+          "x": "El 6 de agosto se abrió la lista de espera de Suno Vinyl. Prensa hasta 46 minutos en un disco de 12 pulgadas de PETG negro, con un precio de unos 45 dólares sin envío. La empresa dice que no son discos cortados como broma, sino discos prensados de forma adecuada: una vía para generar ingresos que evita la distribución por streaming."
+        }
+      ]
+    },
+    "music/music-ai-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/AI-Search-For-Artists---Venues.jpg",
+          "cap": "Cómo captar resultados de búsqueda con IA mediante Preferred Sources: una guía para artistas y recintos"
+        },
+        {
+          "t": "p",
+          "x": "A medida que Google amplía Preferred Sources, artistas y recintos ganan una nueva palanca. Es una forma de ocupar el primer lugar en la búsqueda con IA, en AI Overviews y en AI Mode, y de hacer frente a la caída de tráfico del sitio web provocada por la IA."
+        },
+        {
+          "t": "p",
+          "x": "Ahora cualquier sitio puede incorporar directamente el botón oficial de Preferred Source de Google. Cuando un fan hace clic en ese botón, a partir de ese momento, cada vez que ese fan le pregunte a una herramienta de búsqueda con IA sobre música, horarios de shows o normas del recinto, Google dará prioridad al dominio oficial y le colocará de forma visible una insignia de 'Preferred'."
+        },
+        {
+          "t": "p",
+          "x": "Lo primero que disminuye son las alucinaciones sobre información de entradas. Los motores de respuesta con IA a menudo dan mal los horarios de los shows o dirigen a los fans hacia estafas de reventa de entradas, pero con la insignia prioritaria, el dominio oficial se cita como fuente principal. La tasa de clics también cambia. Según datos de Google, la probabilidad de que se haga clic en un enlace de Preferred Source dentro de resultados de búsqueda con IA es aproximadamente el doble. La optimización para motores generativos (GEO) suele exigir un diseño técnico complejo, pero esta función convierte directamente el cariño de los fans ya acumulado en autoridad de búsqueda."
+        },
+        {
+          "t": "p",
+          "x": "Hay tres lugares donde usarlo. Coloca el botón ligero de JavaScript de Google en el dominio raíz del sitio oficial, cerca de las páginas de gira o de eventos. En los correos de preventa, incluye un enlace de un solo clic pidiendo a los fans que “nos guarden como Preferred Source en Google para que la búsqueda con IA muestre primero los enlaces oficiales de entradas y los horarios de los shows”. Coloca también el botón en la parte superior de la página de preguntas frecuentes que recoge las normas del recinto, los horarios de entrada y el horario de taquilla. Cuando un fan le pregunte a la IA “cuál es la política de bolsos de [nombre del recinto]”, el sitio citado será el tuyo."
+        },
+        {
+          "t": "p",
+          "x": "La instalación se divide en dos caminos. En sitios que permiten HTML/JS personalizado, como WordPress o Squarespace, incorpora el botón interactivo de Google para que los fans se registren en un solo paso sin salir del sitio. Coloca un div con el atributo google-add-preferred-source-btn donde quieras que aparezca el botón, y añade la etiqueta de script news.google.com/swg/js/v1/swg-basic.js en el head. Elige data-theme entre dark y light según el tono del sitio."
+        },
+        {
+          "t": "p",
+          "x": "Si el constructor del sitio bloquea los scripts, o si prefieres dirigir a los fans por correo, redes sociales o un link-in-bio, usa el enlace directo de Google. Solo hay que cambiar el dominio raíz al final de https://www.google.com/preferences/source?q=yourdomain.com. Cuando un fan hace clic, pasa directamente a la pantalla de configuración de fuentes de Google con el dominio ya completado, y un clic más lo termina."
+        },
+        {
+          "t": "p",
+          "x": "La lucha por la visibilidad en la IA ya no se decide por palabras clave, sino por cuántos fans tienes asegurados. Añadir el botón y poner el enlace en un correo toma solo unos minutos, pero cuando tus fans más fieles le hacen una pregunta a la búsqueda con IA, la respuesta que aparece es tu enlace."
+        }
+      ]
+    },
+    "music/music-aria-charts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/ai-generated-music-to-be-banned-from-aria-charts-in-australia-1024x576.png",
+          "cap": "La música generada por IA será excluida de las listas ARIA de Australia. Foto: Johnny Bhalla"
+        },
+        {
+          "t": "p",
+          "x": "Según las nuevas normas establecidas por la Asociación Australiana de la Industria Discográfica (ARIA), las canciones hechas total o mayormente por inteligencia artificial quedarán excluidas de las listas oficiales de Australia a partir de este viernes. Las grabaciones que usaron asistencia de IA aún pueden entrar en la lista si son “substantially human-made”, es decir, si una persona hizo una parte sustancial de la canción."
+        },
+        {
+          "t": "p",
+          "x": "ARIA, que gestiona las listas de la música más escuchada de Australia, revisó su código de prácticas de listas para alinearlo con los principios fijados por la industria discográfica mundial. El nuevo código excluye en principio la música hecha con IA generativa, con una excepción solo para los casos que son “substantially human-made” y “raise no stream or chart manipulation concerns”."
+        },
+        {
+          "t": "p",
+          "x": "ARIA puede retirar de las listas los lanzamientos que no cumplan los requisitos, cambiar su posición y revocar premios de lista ya otorgados. Se deja abierta la posibilidad de que artistas o sus representantes apelen si consideran que una decisión es incorrecta. Las normas entran en vigor a partir de la lista anunciada el viernes 28 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "La directora ejecutiva de ARIA, Annabelle Herd, marcó una línea entre los artistas que ya usan herramientas asistidas por IA y la música generada por completo por un servicio de IA entrenado con las grabaciones de un artista, calificando ambos casos como problemas totalmente distintos. Herd dijo: “esto le da a todos los que publican música en Australia un conjunto claro de reglas que seguir”."
+        },
+        {
+          "t": "p",
+          "x": "Detrás de esta decisión hay una controversia por una versión de 'Like a Prayer' de Madonna hecha por el DJ y productor de Queensland Josh Fawaz. El mes pasado se convirtió en la canción más sonada en la radio australiana y llegó hasta el puesto 4 en dos listas de ARIA, pero la industria señaló que había usado IA generativa. Fawaz admitió haber usado la IA “como herramienta” y más tarde actualizó los créditos de la pista en Spotify para indicar que la voz y la batería fueron generadas por IA."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los cambios de ARIA sigue los estándares que la Federación Internacional de la Industria Fonográfica (IFPI) publicó en julio. En ese momento, IFPI dijo que más de 20 programas de listas oficiales estaban adoptando normas para distinguir las grabaciones hechas por humanos de las generadas por completo por IA. Un representante de ARIA explicó que, según los estándares de IFPI, es probable que la música con voz principal o instrumentos centrales generados por IA quede descalificada. La canción de Fawaz también parece tener pocas probabilidades de volver a entrar en las listas."
+        },
+        {
+          "t": "p",
+          "x": "La medida llega en medio de disputas entre creadores y empresas de IA que se dan en todo el mundo. Varias empresas de IA han usado material protegido por derechos de autor para entrenamiento sin permiso, alegando uso justo. El gobierno australiano también dijo que está elaborando normas de IA y centros de datos que incluyen “strong copyright protections” para los creadores del país."
+        }
+      ]
+    },
+    "music/music-cyanite-tagging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T125447.316.png?fit=780%2C585&ssl=1",
+          "cap": "Una ilustración de la tecnología de etiquetado musical con IA de Cyanite"
+        },
+        {
+          "t": "p",
+          "x": "La startup alemana Cyanite fue una de las primeras en generar metadatos musicales con IA. Music Ally cubrió la empresa por primera vez en julio de 2019, cuando su tecnología de etiquetado automático se separó de una empresa existente llamada Groovecat."
+        },
+        {
+          "t": "p",
+          "x": "Poco más de siete años después, la plataforma recibe una renovación importante, una mejora que Cyanite llama 'Tagging 2.0'. La idea central, analizar un catálogo musical para generar metadatos, se mantiene igual."
+        },
+        {
+          "t": "p",
+          "x": "Lo que ha cambiado es quién lee esos metadatos. Ya no se trata solo de personas. La empresa considera que quienes “exploran, organizan y realmente utilizan” los catálogos se están desplazando cada vez más hacia sistemas de IA, un rango que va desde la búsqueda conversacional y las recomendaciones personalizadas hasta la automatización de catálogos y los asistentes inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "Muchas de las funciones rediseñadas apuntan a este cambio. El sistema actualizado ya lo usan clientes como BeatStars, The Source, Rambling Records y Human Worldwide."
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo Markus Schwarzer dijo: “la IA está cambiando la forma en que la industria musical trabaja con los catálogos. Pero estos nuevos flujos de trabajo solo son tan buenos como la comprensión musical que hay detrás.”"
+        }
+      ]
+    },
+    "music/music-minimax-3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!v-WJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4827eb79-f9c5-4f8d-b0aa-a449a4b440fb_1920x1080.png",
+          "cap": "MiniMax Music 3 — un modelo de pesos abiertos que genera canciones de hasta cinco minutos a partir de letra y una descripción musical"
+        },
+        {
+          "t": "p",
+          "x": "Es otro gran día para el código abierto. Un modelo de generación musical de pesos abiertos de primer nivel ha llegado a ComfyUI: MiniMax Music 3, de MiniMax. Dale la letra y una descripción del sonido que quieres, y te devuelve una canción completa y estructuralmente coherente de hasta cinco minutos en estéreo de 32kHz."
+        },
+        {
+          "t": "p",
+          "x": "El modelo está diseñado para generar una canción completa, no loops ni clips cortos. Condicionado por la letra y una descripción musical, mantiene el tema, el ritmo, la identidad vocal y la progresión del arreglo a lo largo de toda la pista. La salida es audio estéreo de 32kHz y 16 bits."
+        },
+        {
+          "t": "p",
+          "x": "La arquitectura es un híbrido que combina dos modelos de lenguaje con una etapa de síntesis continua. Un LLM Global de 8B, que parte de Qwen3-8B, se encarga del flujo largo de la canción y de la progresión estructural, mientras que un LLM Local de 0.6B restaura el detalle acústico fino dentro de cada fotograma. En lugar de decodificar el audio solo a partir de tokens discretos, combina los estados ocultos de ambos LLM y los pasa a una etapa de Flow Matching de 2.4B y a un decodificador Flow-VAE de 123M. Esta representación continua, que transporta información acústica que los tokens no pueden contener, es lo que marca la diferencia en la pronunciación vocal, la textura de los instrumentos y la continuidad temporal."
+        },
+        {
+          "t": "p",
+          "x": "La duración de hasta cinco minutos se admite por defecto. Mantiene la progresión de intro, verso, pre-coro, coro, puente, instrumental y outro sin perder la melodía, el ritmo ni la identidad vocal. En la entrada de la letra, se define la estructura escribiendo directamente etiquetas de sección como [Intro], [Verse], [Pre-Chorus], [Chorus], [Post-Chorus], [Bridge], [Instrumental], [Solo] y [Outro]."
+        },
+        {
+          "t": "p",
+          "x": "Usar un Structured Caption en lugar de una descripción simple amplía el margen de control. Se divide en Global Metadata, que recoge género, BPM, tonalidad y escala, progresión emocional y carácter de producción; Vocal Details, que recoge género vocal, timbre, estilo de canto, armonía, coros y efectos; y Arrangement, que recoge la instrumentación y los cambios por sección en groove, bajo, percusión, textura y sensación espacial. La voz se puede ajustar hasta el nivel de timbre, armonía y efectos, y gracias a la vía de síntesis por estados ocultos, la pronunciación se mantiene estable incluso en tramos largos. La salida es WAV estéreo de 16 bits, y el decodificador Flow-VAE se reentrenó para ajustarse al rango dinámico y las características espectrales de la música."
+        },
+        {
+          "t": "p",
+          "x": "MiniMax también publicó una skill oficial que convierte una descripción musical breve y una letra etiquetada en un caption estructurado detallado para Music 3.0. Mantiene las restricciones musicales indicadas tal cual y deja el texto de la letra en la entrada de la letra, mientras genera un caption que recorre Global Metadata, Vocal Details y la descripción del arreglo sección por sección. El comando de instalación es npx skills add MiniMax-AI/MiniMax-Music3 --skill music-caption-rewriter."
+        },
+        {
+          "t": "p",
+          "x": "Para probarlo tú mismo, actualiza ComfyUI a la versión 0.33.0 o usa Comfy Cloud. Descarga el flujo de trabajo o búscalo en la biblioteca de plantillas, y luego sigue las instrucciones del flujo de trabajo para obtener los pesos del modelo y colocarlos en la carpeta de modelos indicada. Rellena la letra y la descripción musical y ejecútalo, y listo. Los pesos están en Hugging Face, en MiniMaxAI/MiniMax-Music3."
+        }
+      ]
+    },
+    "music/music-trama": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Trama, hecho por Ohlhorst Digital, es un separador de stems con IA gratuito e independiente que funciona en Windows, macOS y Linux."
+        },
+        {
+          "t": "p",
+          "x": "StemDeck, que cubrimos hace poco, era un separador local gratuito y de código abierto que dividía las pistas en hasta seis stems. Trama adopta un enfoque offline similar, pero se concentra en cuatro stems y reúne lo necesario en una sola aplicación de escritorio."
+        },
+        {
+          "t": "p",
+          "x": "Al arrastrar una pista mezclada, se divide en voz, batería, bajo y el resto. Puedes elegir y exportar solo la combinación que quieras de los cuatro, y lo que no selecciones se fusiona en un único archivo. No hay motivo para exportar stems que no vas a usar."
+        },
+        {
+          "t": "p",
+          "x": "La interfaz es sencilla y la instalación es simple. No hay cuenta, ni subida a la nube, ni descarga aparte de modelos. En Windows se descomprime y se ejecuta directamente; macOS lo recibe como imagen de disco; y en Linux basta con extraer el binario y darle permiso de ejecución."
+        },
+        {
+          "t": "p",
+          "x": "Lo que corre por dentro es htdemucs_ft, un modelo Hybrid Transformer Demucs afinado por Meta. Los cuatro modelos de separación vienen incluidos en la aplicación y se cargan en memoria al ejecutarse, de modo que todo el proceso termina de forma local sin necesidad de conexión a internet."
+        },
+        {
+          "t": "p",
+          "x": "La calidad se elige entre Normal, High y Ultra. Subir el ajuste ejecuta más pasadas de separación y promedia los resultados, por lo que los stems salen más limpios pero tardan más. Ohlhorst Digital recomienda High como valor por defecto seguro."
+        },
+        {
+          "t": "p",
+          "x": "Para una canción de tres minutos procesada en High, las cifras del desarrollador son de 1 a 2 minutos en una GPU NVIDIA compatible y de 10 a 15 minutos en CPU. Windows y Linux usan CUDA automáticamente si está disponible, pero todavía no hay aceleración por GPU de AMD. En Apple silicon, el backend MPS está desactivado, así que corre en CPU."
+        },
+        {
+          "t": "p",
+          "x": "También se pueden poner varias canciones en cola para procesarlas de una vez. El progreso y el tiempo estimado de finalización se muestran por archivo y para toda la cola. La selección de stems, el preset de calidad y la carpeta de salida se recuerdan para la próxima vez."
+        },
+        {
+          "t": "p",
+          "x": "La entrada acepta WAV, AIFF, MP3 y FLAC. Todos los stems salen como WAV de punto flotante de 32 bits a 44.1kHz, y otras frecuencias de muestreo se remuestrean durante la separación. También conserva metadatos WAV como datos BWF, puntos de cue, etiquetas, listas de reproducción, información de instrumentos, etiquetas ID3 y marcadores de Reaper."
+        },
+        {
+          "t": "p",
+          "x": "Trama v1.0.7 es compatible con Windows 10/11 de 64 bits y Linux x86_64. En macOS requiere la versión 12 o posterior y solo funciona en Apple silicon, dejando fuera a los Mac Intel. Como incluye los modelos y las librerías completos, las descargas son grandes: unos 3.1GB en Windows, 500MB en macOS y 3.9GB en Linux."
+        }
+      ]
     }
   }
 }

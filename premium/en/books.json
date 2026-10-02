@@ -2253,6 +2253,328 @@
           "x": "What stands out is that someone who has worked on national science policy has stepped directly into a debate that had mostly been carried by authors' organizations and publishers. Proudly Human, the group he founded, speaks up for creators against the changes AI has brought to the arts."
         }
       ]
+    },
+    "books/books-ai-editor-limits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In this episode of the ALLi Member Q&A podcast, hosts Michael La Ronn and Sacha Black discussed whether a $2,000 line edit could be replaced with AI, and where to draw the line between supplementing a human editor and replacing one."
+        },
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/BANNER_QA.jpg",
+          "cap": "The ALLi Member Q&A podcast. Image source: ALLi Self-Publishing Advice Center"
+        },
+        {
+          "t": "p",
+          "x": "Listener Roco asked, “Is it acceptable and safe to use AI instead of spending $2,000 on a line edit?” Sacha Black said it's a question each person has to judge by their own morals, values, and ethics, so there's no black-and-white answer. She added that if you're wary of AI, there are several ways to get close to a copy-edit result without spending $2,000 — books on sentence craft, beta reading, authors reading for each other, or a one-month ProWritingAid subscription. Of course, ProWritingAid itself has AI built in, so avoiding it entirely is hard."
+        },
+        {
+          "t": "p",
+          "x": "Michael La Ronn's answer was more blunt. He said AI can't replace an editor, and might never be able to. What he recommends isn't replacement but supplementation — using it to hand editors a cleaner manuscript, or as a last line of defense right before publication, after editing is done. He considers edit assistance at the level of catching typos to be among the more harmless uses of AI, but said it's a different matter once you move into having AI write the novel itself. Both hosts urged checking ALLi's AI policy first and disclosing AI use transparently."
+        },
+        {
+          "t": "p",
+          "x": "A question about series covers also came up. Michael La Ronn said to keep color, typography, and overall structure consistent so readers recognize, within microseconds, “ah, that's book two of the XYZ series.” The worst case is handing book one and book two to different designers. Sacha Black said she's run into that on nearly all of her series, and in that case she gets written permission by email from the original designer to keep using the design. You have to check, item by item, whether the same information appears on the spine in the same orientation, down to matching font effects — because the design copyright belongs to the original designer."
+        },
+        {
+          "t": "p",
+          "x": "For the IngramSpark returns question, Sacha Black answered by opening her dashboard directly. Last month she sold 1,316 copies with 22 returns, or 1.6%. Her conclusion: you just need to check once or twice a week that sales are outpacing returns."
+        }
+      ]
+    },
+    "books/books-ai-training-law": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The AI models that power ChatGPT, Gemini, and Claude train on hundreds of millions of books, online articles, academic papers, and nearly everything else findable on the internet. Most established authors have, without knowing it and without ever consenting, helped build the very tool now threatening their livelihood. It looks illegal, but reality isn't that simple."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+          "cap": "Image source: NanoStockk / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Cathy Gellis, an attorney who works across intellectual property, copyright, and technology, told TechCrunch, “Part of the problem is there's just so much happening across this whole area of law and this whole area of technology,” adding, “It's very complicated, and feelings are raw on both sides.”"
+        },
+        {
+          "t": "p",
+          "x": "Last year, Judge William Alsup ordered Anthropic to pay authors $1.5 billion. It looks like a win for authors on the surface, but Alsup ruled that Anthropic's AI training itself was lawful. What he took issue with was stealing books from illegal shadow libraries. The judge wrote that “Anthropic's LLMs trained upon works not to race ahead and replicate or supplant them — but to turn a hard corner and create something different,” much as an aspiring writer who is a reader might do. Gellis sees the ruling as more favorable to AI companies — what weight does a $1.5 billion fine carry for a company projected to post $200 billion in annual revenue by 2028?"
+        },
+        {
+          "t": "p",
+          "x": "Copyright law hasn't been touched since 1976. Judges now have to answer questions that will shape the future of the AI industry using 50-year-old guidance. Jason Henderson, founding and senior attorney of the IP and media practice at JWL International, said, “The law is all over the place, so everyone is quite worried right now,” adding, “We know AI models trained on all that material, but the law hasn't caught up to that question yet.”"
+        },
+        {
+          "t": "p",
+          "x": "The disputes mostly turn on fair use, and specifically on whether using the copyrighted work is sufficiently “transformative.” Henderson explained that “copyright has always been about protecting and growing markets” — if you use someone else's property for training with the direct intent to compete, courts tend to take a dim view, but there's room to find it acceptable if you don't compete. Thomson Reuters' lawsuit against Ross Intelligence, which copied Thomson Reuters' content to build a competing legal platform, is one such case. Judge Stephanos Bibas wrote that “Ross's use wasn't transformative, because it didn't have a further purpose or different character” from Thomson Reuters' own use. The argument that a chatbot competes with an author by generating new synthetic books from that author's writing hasn't held up in court yet."
+        },
+        {
+          "t": "p",
+          "x": "Copyright over AI-generated output is a separate issue. In Thaler v. Perlmutter, the court found that work created 100% by AI cannot receive copyright protection. That opens a new headache: how do you prove whether a work was made by AI, and if so, what percentage of it? With most AI companies still tied up in litigation, a definitive answer won't arrive anytime soon."
+        }
+      ]
+    },
+    "books/books-play-insights": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Book Insights is a Gemini-powered reading assistant built into Google Play Books. It summarizes chapters, untangles confusing sentences, tracks characters, and answers spoiler-free questions about select English ebooks — all without leaving the page you're reading. It just launched worldwide in the Google Books and Audiobooks app for Android."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/08/24004325/sweepstakes-header-1160x653.png",
+          "cap": "Book Insights in Google Play Books. Image source: Good e-Reader"
+        },
+        {
+          "t": "p",
+          "x": "When you come back to a book you left off reading, you don't need to flip back through earlier chapters. Book Insights' “Catch me up” summarizes what you've read so far. On a book with Book Insights enabled, tap the lightbulb icon in the upper right, then tap the “Catch me up” button to get the summary."
+        },
+        {
+          "t": "p",
+          "x": "Questions tend to come up as you read, and now you can look them up without closing the book. If you hit a puzzling passage while reading a Shakespeare play, you can highlight it and get a few questions that unpack its meaning. The follow-up suggested questions tie the clues in the book together more tightly."
+        },
+        {
+          "t": "p",
+          "x": "If none of the suggested questions fit, you can type your own into the “Ask Play Books” box. In a novel with a large cast, you might ask something like “Has this character appeared before?” to retrace the context. Answers are designed to reference only the text up to where you currently are, to avoid spoilers. That said, generative AI is still experimental and isn't always accurate."
+        },
+        {
+          "t": "p",
+          "x": "Book Insights currently works only with select English ebooks. You can check which books qualify via the “Tools” badge on the book's detail page. The badge shows which AI tools are available, including Book Insights. To use it, open the book and tap the lightbulb icon at the top of the Android Play Books app or the web reader, or just highlight any sentence."
+        }
+      ]
+    },
+    "books/books-spotify-audiobook-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Spotify has rolled out three new audiobook features in quick succession over the past few months."
+        },
+        {
+          "t": "p",
+          "x": "Whether it's an epic fantasy or a celebrity memoir, time spent lost in a good book is never wasted. Spotify is trying to push that experience further with three features: one that builds playlists matched to your taste, one that lets you explore your interests through conversation, and one that lets you keep going on a series you love."
+        },
+        {
+          "t": "p",
+          "x": "James Jacoby, Senior Director of Engineering & Insights for audiobooks, said, “Books have become one of the ways users connect most deeply with Spotify,” and that “these features are focused on lowering the barrier between listeners and books they'll love.”"
+        },
+        {
+          "t": "p",
+          "x": "First, “Prompted Playlists” lets you simply describe, in words, the kind of book you want, and it builds a custom playlist that reflects your taste and current literary trends. For example, you could ask for “a list of books adapted into film or TV in the last three years that got praise from critics or audiences,” or “build me an audiobook calendar, one book a month starting this month, each under 15 hours, matched to that month's mood and my taste.” It's currently in beta for some Premium users in the US, Canada, the UK, Ireland, Australia, New Zealand, and Sweden."
+        },
+        {
+          "t": "p",
+          "x": "The second feature, “Just Ask Spotify,” lets you talk directly to Spotify by text or voice. Ask something like “recommend some Scandinavian noir to read before my trip to Sweden,” and it will answer follow-up questions too, moving fluidly across music, podcasts, and audiobooks. It's currently offered in English to Premium users 18 and older in the US, Ireland, and Sweden."
+        },
+        {
+          "t": "p",
+          "x": "Third, once you finish one book in a series, Spotify immediately recommends the next installment, and multi-book series are now tagged so you don't lose track of the order. You can also see all of an author's series at a glance on their author profile page. This feature is available in the US, Canada, the UK, Ireland, Australia, New Zealand, and Sweden."
+        },
+        {
+          "t": "img",
+          "src": "https://media.goodereader.com/blog/uploads/images/2026/08/24003221/Series-Visual-8856-scaled-1.png",
+          "cap": "A Spotify app screen showing Rebecca Yarros' “Fourth Wing” series and an audiobook playlist."
+        }
+      ]
+    },
+    "books/books-warhammer-ai-warning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "It's well known that Games Workshop takes a hard line on AI. Even so, an IGN reporter was surprised to hear a narrator read, out loud, a warning against training AI on the novel in one of their current favorite Warhammer 40,000 audiobooks."
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/08/24/trazyn-1787566439248.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "cap": "Image source: Games Workshop"
+        },
+        {
+          "t": "p",
+          "x": "Training AI on books without permission is already a major topic in the industry. Last week, 404 Media reported that Amazon had been “buying up enormous quantities of books, scanning them for AI training data, and discarding them in the process.” Last summer, it came out that Anthropic had shredded millions of physical books to train Claude. That secret project, called 'Project Panama,' surfaced through a lawsuit filed by authors, and Anthropic settled for $1.5 billion even after largely winning on the fair use question."
+        },
+        {
+          "t": "p",
+          "x": "AI warnings are posted all over the Games Workshop site. The Black Library website, which handles the book business, states that it “expressly prohibits the use of website content to train generative artificial intelligence (AI) technology.” The legal notices section also carries a detailed AI warning."
+        },
+        {
+          "t": "p",
+          "x": "This time, at the end of the audiobook for The Wicked and The Warped, a Necron novel by Robert Rath, narrator Richard Reed read the following: “This recording is copyright Games Workshop 2026. All rights reserved. It may not be used or reproduced in any way for text and data mining activities, or for the development or training of artificial intelligence models or systems.” It was the first time the reporter had heard a Black Library narrator read an AI warning out loud. There's no such warning at the end of Dan Abnett's Hive audiobook, released in May."
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/08/24/60040181452-blthewickedandthewarped2026-1787566501006.jpg",
+          "cap": "The Wicked and the Warped. Image source: Games Workshop"
+        },
+        {
+          "t": "p",
+          "x": "Games Workshop banned AI use in content creation and design in January, and in July reaffirmed its anti-AI stance while saying it had investigated a marketing mistake that raised AI suspicions. CEO Kevin Rountree said, “We don't use AI at Games Workshop for product design or IP creation, and this will protect the integrity and ownership of our IP.”"
+        },
+        {
+          "t": "p",
+          "x": "The question is how effective this actually is. The tech industry invokes fair use to scrape creative works, including books, and that logic is still holding up even as major lawsuits and investigative reporting pile up. In March 2025, The Atlantic reported that Meta had pirated millions of books to train AI, and novels by Black Library authors were also found inside LibGen, the pirated-book database Meta used. Rountree recently acknowledged that AI now comes bundled automatically into third-party software “whether we like it or not,” adding that it's “just something we have to live with and keep an eye on.”"
+        }
+      ]
+    },
+    "books/books-eu-ai-transparency-indie": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "I7hskWGurDU"
+        },
+        {
+          "t": "p",
+          "x": "This is the August 13, 2026 edition of ALLi's Self-Publishing News, hosted by Dale L. Roberts. The headline makes the point plainly: Europe's new AI rules are reaching writers worldwide."
+        },
+        {
+          "t": "p",
+          "x": "According to the video description, AI transparency is becoming a thornier issue for writers. The European Commission's 「Guidelines on transparency obligations for providers and deployers of certain AI systems」 comes up at the 4:09 mark, followed by how Claude labels AI-generated content starting at 4:38. The point is that a rule made in Europe is starting to affect Claude users outside Europe too."
+        },
+        {
+          "t": "p",
+          "x": "Starting at 6:34, the other side of the story comes in. Citing Sean Goedecke's piece 「Text AI watermarks are always easy to remove」, it points out how technically flimsy the labeling requirement is."
+        },
+        {
+          "t": "p",
+          "x": "At 8:01, a study reported by the BBC comes up, finding that people preferred AI-written stories over human-written ones. At 9:06, a Nieman Lab article follows, noting that eight Pulitzer winners disclosed using AI this year, the most ever."
+        },
+        {
+          "t": "p",
+          "x": "The rest covers industry numbers and practical matters: $33.4 billion in 2025 publishing revenue tallied by Publishers Weekly, an author who sold 1,000 copies of a self-published memoir in five months, Instagram's new book feature, and tightening YouTube Partner Program monetization requirements starting in 2027, one after another."
+        }
+      ]
+    },
+    "books/books-nigel-george-creative-agency": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/08/pictures.jpg",
+          "cap": "An op-ed by Nigel George — Creation and publishing in the age of AI"
+        },
+        {
+          "t": "p",
+          "x": "This is an op-ed by Nigel George, an indie author, ALLi member, and founder of GNW Independent Publishing. The opening line is: “'No' is a complete sentence in itself.”"
+        },
+        {
+          "t": "p",
+          "x": "These are frightening times for writers. Algorithms demand endless output, and as AI slop spreads, the social media reach that was already narrow has shrunk further. The big AI companies say their AI is the next stage of human evolution and that you cannot survive without getting on board. To George, that looks more like a race to the bottom."
+        },
+        {
+          "t": "p",
+          "x": "He says he has both a technical brain and a creative brain. The technical brain knows one fact: for AI to advance further, it needs us."
+        },
+        {
+          "t": "p",
+          "x": "He suggests recalling the words commonly used about AI: it hallucinates, lies, thinks, understands, learns, remembers, wants, decides, creates. What actually happens inside the box is, in order, sampling error and statistical mispredictions, probability and weight calculations, context caching and RAG, function minimization and algorithm execution, interpolation and diffusion. The moment we lend human qualities to a machine, we cheapen the real human intelligence that built it."
+        },
+        {
+          "t": "p",
+          "x": "He points out that when John McCarthy coined the term 'Artificial Intelligence' in 1955, it was branding, not a scientific proposition. Real intelligence requires lived experience, a sense of time, an understanding of causation, and intent. AI can imitate Shakespeare, but it cannot become Shakespeare."
+        },
+        {
+          "t": "p",
+          "x": "George names three pillars of creative agency. First, know your own 'no.' His line is clear: AI does not get on the page in creative writing. He works full time coaching other writers, writing fiction and nonfiction, and publishing his own work, and he admits he couldn't produce even half that output without the AI tools he's built himself. Still, he doesn't touch the creative output itself."
+        },
+        {
+          "t": "p",
+          "x": "Second, copyright belongs to humans. As AI slop floods the internet, frontier models risk a decline in output quality if they can't keep getting clean human data. That, he believes, is why the tech industry keeps trying to water down copyright law. The response is to make and enforce laws that keep copyright off AI-generated works, and to support labeling content as 'human-made.'"
+        },
+        {
+          "t": "p",
+          "x": "Third, it's just a machine. However uncanny the output, AI is an extremely sophisticated statistical calculator. It has no moral sense, no intuition, no experience, no understanding. Whatever ability it appears to show is simply a reflection of the humans who built it. George says this is a chance for writers to prove AI can grow human creativity rather than replace it, and returns to his opening line: “'No' is a complete sentence in itself.”"
+        }
+      ]
+    },
+    "books/books-publishing-technology-radar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/EbUoNp9bCAVj.jpg",
+          "cap": "The Publishing Technology Radar survey closes on August 30"
+        },
+        {
+          "t": "p",
+          "x": "The Digital Publishing Report has teamed up with Publishing Signal, an international initiative by knk, to create The Publishing Technology Radar. The first report comes out later this year."
+        },
+        {
+          "t": "p",
+          "x": "Published once a year, the report splits technologies into four stages: watch, explore, pilot, and grow in earnest. The idea is for publishers to gauge where to invest, where to wait, and where they risk falling behind if they do nothing."
+        },
+        {
+          "t": "p",
+          "x": "To draw as broad a picture as possible, the Digital Publishing Report is gathering perspectives from publishing professionals around the world. The survey takes 20 to 25 minutes, is completely anonymous, and requires no preparation. Participants receive the results ahead of the public release, putting the industry's collective outlook on their desks before anyone else's."
+        },
+        {
+          "t": "p",
+          "x": "The survey closes on August 30. The article was written by Erin L. Cox, publisher of Publishing Perspectives."
+        }
+      ]
+    },
+    "books/books-royalty-transparency-aperture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/aperture-793x284.png",
+          "cap": "Ingenta Aperture — a self-service portal that opens up rights and royalty data"
+        },
+        {
+          "t": "p",
+          "x": "Royalty statements vary in format from one publisher to another. They're hard to decode and usually come out only two or three times a year. On the side processing hundreds or thousands at once, small errors that any writer would spot instantly go unnoticed."
+        },
+        {
+          "t": "p",
+          "x": "So most writers don't dig further if the royalty amount looks roughly right. Even a writer determined to check line by line is working with reporting cycles so infrequent that months or years can pass before a problem surfaces. By then, gathering the evidence to back up a claim isn't easy."
+        },
+        {
+          "t": "p",
+          "x": "Publishing systems and workflows keep improving through technology, but royalties alone remain opaque. It's a point of friction that has long existed between publishers and creators. Even when a report is accurate, the absence of real-time information breeds needless suspicion and tension."
+        },
+        {
+          "t": "p",
+          "x": "Erin L. Cox writes that fixing the systems handling contracts, rights, and royalties matters more outside the publishing house than inside it, when dealing with writers, license holders, agents, and publishing partners. What's at stake isn't just the immediate rights sale, but the trust that leads to the next deal."
+        },
+        {
+          "t": "p",
+          "x": "Ingenta, founded in 1977, has built rights management tools with publishing partners, and the result is Ingenta Aperture. It's a self-service portal that opens up rights and royalty data securely, the moment it's requested. It runs on web, tablet, and mobile, is configured to a publisher's workflow, and connects to existing in-house systems. Information publishers choose to show, like sales by format, royalties by region, and payment history, updates the instant the in-house system updates, so writers never have to wait for a lag."
+        },
+        {
+          "t": "p",
+          "x": "Over the past two years, publishers have been trying new and complex deals on writers' behalf, like LLM training licenses, microdeals, and multi-region, multi-format rights. The more such opportunities open up, the more rights holders need to trust their publisher. A publisher that hasn't built up trust misses time-limited deals and loses its edge in the market. Writers expect publishers to lead the way through the unfamiliar world of AI licensing, and the more information they get, the more willing they are to take part."
+        },
+        {
+          "t": "p",
+          "x": "Rights holders now expect the same visibility into their own income that they get from online banking or asset management apps. Fully opening up rights income ultimately means addressing the human side of rights and royalty management, Cox concludes. This article was sponsored by Ingenta."
+        }
+      ]
+    },
+    "books/books-carlsen-openai-neinhorn": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-793x430.png",
+          "cap": "Carlo Carrenho's Monday roundup of international publishing news"
+        },
+        {
+          "t": "p",
+          "x": "According to Börsenblatt, German children's book publisher Carlsen, along with author Marc-Uwe Kling and illustrator Astrid Henn, has filed suit against OpenAI. They allege infringement of the rights attached to the bestselling picture book 'Das NEINHORN.'"
+        },
+        {
+          "t": "p",
+          "x": "Carlsen, based in Hamburg, is backed by its parent company Bonnier. Carlsen says ChatGPT not only generates stories and illustrations that closely resemble the original, but also produces print-ready files that attach invented ISBNs and the publisher's logo to characters from the book. Carlsen views these outputs as evidence that the original NEINHORN material was used without permission to train language and image models."
+        },
+        {
+          "t": "p",
+          "x": "Carrenho reads this as a sign that legal action targeting OpenAI or Anthropic is no longer confined to the English-language publishing world in the U.S. Similar cases are starting to emerge in Germany too, and because Carlsen belongs to Sweden's Bonnier Group, the stage for the legal fight has widened accordingly."
+        },
+        {
+          "t": "p",
+          "x": "The same briefing also covered a case of AI entering the publishing business. Publitik, reported by Brazil's PublishNews, is a subscription-based market intelligence platform that scans news, research, bestseller lists, and social media trends across the global book industry in real time. AI agents gather information from trade and general media in dozens of countries, and publishing professionals set up their own custom alerts by topic, market, author, or book."
+        },
+        {
+          "t": "p",
+          "x": "Subscribers currently number around 100, and a mobile app is targeted for launch within the year. It's offered in both English and Portuguese, and aims to gather bestseller lists from multiple countries in one place. It's an attempt to get a broad view of what's selling in which markets and which books are emerging as global bestsellers."
+        }
+      ]
     }
   }
 }

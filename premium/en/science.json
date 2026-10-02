@@ -2499,6 +2499,337 @@
           "x": "GenBio AI, led by researchers including Nobel laureate Baker, is pitching a holistic approach. The article was written by STAT's Meghana Keshavan on August 18, 2026, and the rest of the text is available only to STAT+ subscribers."
         }
       ]
+    },
+    "science/science-ai-observatory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic and OpenAI regularly publish reports on how people use Claude and ChatGPT. But researchers say what gets released is only the data the companies want to show. “There's no independent source to verify this,” says Anka Reuel, a PhD researcher at Stanford's STAIR Lab."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg",
+          "cap": "A person walking alongside an unseen presence, surrounded by chat prompts. Credit: Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "A new project Reuel co-leads, the AI Observatory, fills that gap. It pulls real conversations with models like Claude and Gemini from seven existing datasets collected with user consent, and bundles them into a public platform, aiming to let researchers and policymakers check for themselves how generative AI is actually used."
+        },
+        {
+          "t": "p",
+          "x": "The most widely cited Anthropic Economic Index focuses, as its name suggests, on work and productivity, filtering out other conversations. When the research team applied the same filter to their own data, 48% of conversations disappeared. The cut material skewed toward health and relationships (44.2% vs. 31.2%), adult or illegal topics (7.9% vs. 2.1%), harassment and hate (27.5% vs. 5.66%), and sexual content (16.7% vs. 2.4%). OpenAI's 2025 report similarly found that only 30% of consumer use was work-related."
+        },
+        {
+          "t": "p",
+          "x": "Looking at the 2023–2025 conversations in the dataset, chats grew longer and more sophisticated over time. Small talk increased, while the AI disclosing on its own that it's a chatbot became less common. Sensitive conversations like sexual harassment or hate speech, on the other hand, became rarer — a pattern read as a sign of improved safeguards."
+        },
+        {
+          "t": "p",
+          "x": "Usage also varied by model. Grok and Gemini were heavily used for information search, with Grok especially popular for news and political information while also attracting a lot of misinformation. Coding skewed toward Anthropic, social conversation and roleplay toward Gemini, and homework help toward ChatGPT. Differences showed up even between versions of the same model: conversations with ChatGPT in the GPT-3.5 era were short, while GPT-4o, known for emotional dependence, saw long, repetitive conversations."
+        },
+        {
+          "t": "p",
+          "x": "The scale is still small. The team collected 24,521 conversations and 85,633 conversation turns from 5,000 users across 52 models. The Anthropic Economic Index analyzed 1 million Claude conversations, and OpenAI's report analyzed 1.5 million. The team added that, because the data was voluntarily contributed, sensitive use is likely underrepresented rather than overrepresented."
+        },
+        {
+          "t": "p",
+          "x": "“No single company's report tells the whole story,” said Shayne Longpre, co-lead researcher and a recent MIT Media Lab graduate. Reuel warns against making major decisions without knowing what's happening beyond the narrative companies put out. The AI Observatory's data is open to researchers, and the team plans to keep growing the dataset."
+        }
+      ]
+    },
+    "science/science-bonsai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Modern biology is generating data at an unprecedented scale. But there hasn't been a good way to read meaning out of that high-dimensional data. A research team at the University of Basel in Switzerland has built a tool that reveals the structure hidden in complex data without distorting it."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/seeing-the-unseen-a-ne.jpg",
+          "cap": "In simulated single-cell RNA sequencing data, the cell relationships Bonsai reconstructed (right) closely match the ground-truth tree (left). Credit: Daan de Groot, Biozentrum, University of Basel"
+        },
+        {
+          "t": "p",
+          "x": "Over the past decade, biology has entered the age of big data. Single-cell RNA sequencing can measure the activity of tens of thousands of genes across hundreds of thousands, even millions, of cells at once. Genetics, cancer research, and neuroscience are accumulating data at a similar scale."
+        },
+        {
+          "t": "p",
+          "x": "That data holds answers about how cells grow, communicate, and get sick. The problem is interpretation. Professor Erik van Nimwegen says “people are good at recognizing patterns in two or three dimensions,” but data with 10,000 dimensions can't be drawn as a picture, and we don't even have intuition for what structures could exist in such a space."
+        },
+        {
+          "t": "p",
+          "x": "The team published software called “Bonsai” in Nature Biotechnology that displays high-dimensional data as a tree. The picture captures how cells are connected and which progenitor cells they branched from."
+        },
+        {
+          "t": "p",
+          "x": "Most widely used tools force data with thousands of dimensions onto a flat 2D map. Nearly every study uses this approach, but the data gets distorted in the process. There was no way to tell whether the relationships between cells shown on screen were real, or an illusion created by flattening."
+        },
+        {
+          "t": "p",
+          "x": "First author Dr. Daan de Groot explained, “Instead of a flat map, we build a branching tree and place individual cells on its leaves.” Distances measured along the branches directly reflect actual relatedness in high-dimensional space. Tested on both simulated data and real single-cell RNA sequencing data, Bonsai reconstructed developmental trajectories far more accurately than existing methods and grouped similar cells more reliably."
+        },
+        {
+          "t": "p",
+          "x": "Analyzing human blood cells automatically recovered known blood cell lineages, and on top of that produced a new subtype of natural killer (NK) cells. Its molecular signature showed this subtype branched off from the myeloid lineage rather than the lymphoid lineage long thought to be the origin of all NK cells."
+        },
+        {
+          "t": "p",
+          "x": "Professor van Nimwegen said, “This is a case that shows why it matters to depict complex data as it really is — when you can trust the picture, the chances of new discoveries grow much larger.”"
+        },
+        {
+          "t": "p",
+          "x": "Bonsai can handle anything high-dimensional, not just gene expression and chromatin state but also medical data, microbial community composition, and neural firing patterns. The software has been released free to the research community."
+        }
+      ]
+    },
+    "science/science-intrabodies": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at the University of Essex created ultra-small therapeutic molecules targeting neurodegenerative diseases such as Alzheimer's, Parkinson's, and motor neurone disease (MND)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
+          "cap": "AI-designed intrabodies target the proteins that cause brain disease directly inside cells. Credit: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Designed with AI alongside an international team of collaborators, these antibody fragments are produced directly inside human cells and bind to disease proteins right there. Antibodies normally work outside cells. These fragments, called intrabodies, were redesigned to hold their shape inside cells too, targeting proteins involved in neurodegenerative disease."
+        },
+        {
+          "t": "p",
+          "x": "The research, supported by the MND Association, was led by Dr. Caitlin O'Shea and Dr. Gareth Wright of the School of Life Sciences. The team discovered that charge is the key factor determining whether an antibody fragment stays stable inside a cell. Combining this finding with AI protein redesign, they converted 672 antibodies into intrabodies targeting disease-related proteins."
+        },
+        {
+          "t": "p",
+          "x": "That means researchers can now directly reach inside the cell, where many pathological processes begin. The paper appeared in Nature Communications, and the redesigned molecules are being made freely available to other researchers."
+        },
+        {
+          "t": "p",
+          "x": "First author Dr. O'Shea, who has studied MND and Parkinson's, explained it this way: “We compared the properties of millions of antibodies against human proteins inside cells. We found that antibodies generally don't have the right charge to exist inside cells without clumping together. Using software developed by Nobel laureate David Baker's team, we corrected the charge of the antibody fragments and redesigned them to be extremely stable.”"
+        },
+        {
+          "t": "p",
+          "x": "The team believes this opens a path to repurpose the millions of antibodies accumulated over decades of biomedical research. Rather than building new ones from scratch, existing antibodies can be reworked into powerful experimental tools and, further, into therapeutic candidates targeting disease proteins."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Wright, who led the research, said, “We've created intracellular antibodies that bind to the proteins that cause Alzheimer's, Parkinson's, Huntington's, and motor neurone disease.” These diseases progress through cognitive impairment, memory loss, and loss of muscle control, leading to death. More than a million people in the UK alone have these conditions, and there is still no cure. Finding molecules that interact with the causative proteins in their native environment has long been ranked among the biggest challenges in drug development."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Brian Dickie, chief scientist at the MND Association, said, “Dr. Wright's team has overcome one of the key obstacles that has held back developing antibodies into treatments for neurodegenerative diseases like MND.” He said combining this new intrabody science with recent gene therapy techniques could lead to treatment strategies that hit specific molecular targets inside nerve cells."
+        }
+      ]
+    },
+    "science/science-qec-decoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Quantum X Labs (NASDAQ: QXL) released new results from its AI-based quantum error correction program. The company says it marks a step closer to reliable error correction usable for fault-tolerant quantum computing."
+        },
+        {
+          "t": "p",
+          "x": "Quantum computers are highly vulnerable to noise. There's no disagreement that quantum error correction is needed to scale beyond lab-level demonstrations into real computation. The problem QXL is tackling is an AI decoder that reads syndrome data quickly and accurately while improving alongside the hardware itself."
+        },
+        {
+          "t": "p",
+          "x": "This result used Google's published surface code dataset — data drawn from real quantum hardware experiments. QXL evaluated its updated decoder on the public surface code configuration using the same cross-validation method Google used to benchmark its own decoder."
+        },
+        {
+          "t": "p",
+          "x": "Performance beat matching-family benchmarks on the same configuration, including the correlated matching and PyMatching results Google published. What stands out is the training data: the model was trained purely on synthetic samples, without using any real hardware shots from Google's dataset."
+        },
+        {
+          "t": "p",
+          "x": "The premise behind QXL's roadmap is that a decoder that works well in simulation should also generalize to real experimental syndrome data. This synthetic-to-real transition sits on the path toward a practical error-correction workflow that can support low-latency, real-time decoding."
+        },
+        {
+          "t": "p",
+          "x": "QXL Chief Quantum Technology Scientist Professor Nir Sharon said, “What makes this result matter is that it brings us closer to evaluating AI-based quantum error correction against the behavior of real hardware, rather than simulation.”"
+        },
+        {
+          "t": "p",
+          "x": "The new decoder combines quantum code structure, syndrome information, and AI-based error weighting. The AI component supports GPU acceleration and plugs into broader error-correction workflows. The roadmap includes evaluation on real hardware data, workflows using NVIDIA accelerated computing and NVIDIA CUDA-Q, and upcoming IQCC syndrome experiments."
+        }
+      ]
+    },
+    "science/science-shadow-care": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Every few weeks, a headline claims AI has caught up with or surpassed doctors. Recently, a string of studies found AI outperforming doctors on clinical reasoning tasks. The implicit framing: doctors are slow, expensive, and human, while AI is fast and maybe better."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_159757760-645x645.jpeg",
+          "cap": "As AI consultations spread outside hospitals, an unsupervised medical system has taken root. Credit: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Those headlines have grown another medical system outside hospital walls. More than 40 million Americans ask ChatGPT health questions every day. Most of this happens outside clinic hours, and the people reading the answers are the same ones who were never taught what to ask or how. Studies this year show the medical disclaimers that used to accompany chatbot answers have largely disappeared. Today's models ask follow-up questions and even attempt diagnoses."
+        },
+        {
+          "t": "p",
+          "x": "Patients act on those answers without ever seeing a doctor. Oura sells a 50-biomarker blood test for $99 through Quest Diagnostics. Function Health, valued at $2.5 billion in November, offers 160 tests a year plus a full-body MRI and lets ChatGPT read the results. Ro and Hims issue weight-loss or anxiety prescriptions from remote questionnaires alone. Doctronic, which calls itself the “world's number one AI doctor,” has handled 24 million consultations, and in Utah it issues AI-generated prescription refills."
+        },
+        {
+          "t": "p",
+          "x": "Why is this happening so fast in medicine rather than law or finance? Money. Healthcare is close to a fifth of the US economy. There's enormous reward riding on taking over part of a doctor's work, or persuading hospitals, insurers, and patients that it can save them money."
+        },
+        {
+          "t": "p",
+          "x": "The authors point out that clinical reasoning and model reasoning aren't the same thing. The fleeting thoughts while reading an initial chart, the hypotheses discarded, the small judgment calls at every fork — none of that survives in books or on the internet. That means there's no material for AI to learn from in the first place. And even the engineers who built these models can't fully explain what happens inside them."
+        },
+        {
+          "t": "p",
+          "x": "In a study the authors' research team published this year in JAMA Network Open, they tested 21 frontier models. Given a completed case, the models diagnosed correctly more than 90% of the time. But given only the information a clinician has at the start of a visit, they failed to produce an adequate differential diagnosis more than 80% of the time. The home setting is worse still — there's no physical exam, and no one to separate signal from noise."
+        },
+        {
+          "t": "p",
+          "x": "What remains is accountability. “Not inferior to a doctor” isn't a standard for deciding whether to hand over a clinical role. A doctor's job doesn't end at diagnosis — it extends to being accountable when a wrong call harms a patient. AI carries no such obligation, and responsibility ultimately scatters back onto the clinician."
+        },
+        {
+          "t": "p",
+          "x": "The authors don't deny AI's potential. In helping patients understand their own conditions, bridging the gaps between visits, and organizing longitudinal data that a 15-minute appointment can't cover, AI makes medicine more human. But, they write, patients shouldn't be pushed into a shadow system that borrows medicine's authority without taking on its responsibility. The piece closes with a line from a 1979 IBM internal training document: “A computer can never be held accountable. Therefore a computer must never make a management decision.”"
+        }
+      ]
+    },
+    "science/science-dna-initiator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
+          "cap": "AI has decoded a hidden piece of DNA's 'on switch.' Source: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Healthy growth and development depend on tens of thousands of genes turning on at the right time and place. Specific regions of DNA coordinate this process, guiding the production of the enzymes, hormones, and proteins a cell needs. When gene activation goes wrong, cells malfunction, leading to diseases including cancer."
+        },
+        {
+          "t": "p",
+          "x": "To dig into the DNA sequences governing this process, the lab of Professor James T. Kadonaga at the University of California, San Diego (UC San Diego) focused on a DNA element called the 'initiator.' The initiator marks the spot where the information in a gene starts being expressed into a functional product."
+        },
+        {
+          "t": "p",
+          "x": "In the study, led by graduate researcher Tory Laine-Carrig, the team used high-throughput, large-scale DNA sequencing to measure the gene expression activity of about 500,000 initiator variants."
+        },
+        {
+          "t": "p",
+          "x": "They used the results to train a machine learning system, which pinpointed the DNA pattern characteristic of initiators. After the model decoded that sequence signal and scanned human genes, about 60% turned out to contain an initiator."
+        },
+        {
+          "t": "p",
+          "x": "Professor Kadonaga said, “this AI model gave the first strong prediction of whether a human gene has an initiator or not, and that let us decode the DNA base sequence pattern of the initiator.”"
+        },
+        {
+          "t": "p",
+          "x": "This finding can be used to anticipate how mutations affecting the initiator alter gene activity and which diseases they might lead to. The data and AI model from the study also support designing synthetic promoters that turn genes on and off for specific purposes."
+        },
+        {
+          "t": "p",
+          "x": "Kadonaga added, “more broadly, this study is a step toward using experiments and AI together to decode the information written into the human DNA sequence.” He continued, “ultimately, within the 6 billion bases in one of our cells, there is a gene expression code that determines when, where, and how much each gene turns on and off. An AI model that captured that entire code could predict the activity of gene variants that differ from person to person.” The initiator model is a small but important piece of that code."
+        },
+        {
+          "t": "p",
+          "x": "The paper was published in the journal Genes. DOI 10.1101/gad.353623.125."
+        }
+      ]
+    },
+    "science/science-grcop42-print": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-use-ai-to-6.jpg",
+          "cap": "Structures that failed to print. Source: Proceedings of the AAAI Conference on Artificial Intelligence (2026)"
+        },
+        {
+          "t": "p",
+          "x": "A research team at Washington State University (WSU) used AI to find a cheaper, more efficient way to 3D print a high-performance metal alloy, sparing the trouble of testing more than 100 million options one by one. The alloy is commonly used in the aerospace industry but has far broader potential uses, and based on these results, could one day be printed on widely available commercial equipment. The AI technique used here could also transfer to other fields, such as drug discovery."
+        },
+        {
+          "t": "p",
+          "x": "The team received the Innovative Deployed Application Award at the AAAI conference. Professor Jana Doppa, who led the research, said, “90% of commercial printers can't print this metal alloy. Since we found feasible process parameters, those commercial printers can be used, which ultimately democratizes printing this alloy.”"
+        },
+        {
+          "t": "p",
+          "x": "The alloy, called GRCop-42, is made of three metals: copper, chromium, and niobium. Developed by NASA, it has high thermal conductivity and doesn't lose strength under extreme heat, which is why it's used in places like liquid rocket engine combustion chambers. However, printing it requires high laser power, making it expensive and energy-intensive."
+        },
+        {
+          "t": "p",
+          "x": "Researchers tried printing the alloy at the lower wattage and laser power used by more common commercial printers, but failed again and again. Testing different settings requires expensive materials, dedicated equipment, and considerable labor. A single print costs hundreds of dollars, and detailed quality analysis after printing takes days."
+        },
+        {
+          "t": "p",
+          "x": "Aja Fadel, the paper's first author and a computer science PhD student, said, “some settings would just melt the product.” She added, “even with time and money, you can't try all 100 million options. So we brought in AI to efficiently pick candidates from this huge search space.”"
+        },
+        {
+          "t": "p",
+          "x": "The team started from 37 settings that the School of Mechanical and Materials Engineering had previously tested and failed. Using those results as a foundation, they built a method to estimate the probability that an untested setting would succeed. The model weighed two goals, testing promising candidates versus probing uncertain regions to improve the AI, and picked new settings in small batches. They printed GRCop-42 with the chosen settings and evaluated the samples."
+        },
+        {
+          "t": "p",
+          "x": "Lowering laser power reduces energy use, equipment wear, and post-processing costs, and lets universities, small labs, and companies without dedicated high-power equipment work with GRCop-42 too."
+        },
+        {
+          "t": "p",
+          "x": "Doppa explained, “this is a very tricky case for AI,” noting that “every attempt returns only a binary signal, success or failure, and you have to hit that needle of success in as few tries as possible.” Within a budget of 40 experiments over three months, the team found six successful settings across different laser power ranges, and printed the alloy at 500 watts for the first time."
+        },
+        {
+          "t": "p",
+          "x": "The team believes the same AI-guided approach can find process conditions for other metal alloys and additive manufacturing equipment. In other words, it applies anywhere success is rare and experiments are expensive enough that exhaustive testing isn't possible in a scientific problem. The paper appeared in the Proceedings of the AAAI 2026 Conference. DOI 10.1609/aaai.v40i47.41428."
+        }
+      ]
+    },
+    "science/science-skala-cp2k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/Low-Res_20260821_b-1.png",
+          "cap": "An image visualizing electron density around a molecule. Source: The Quantum Insider"
+        },
+        {
+          "t": "p",
+          "x": "The Skala model, built by Microsoft Research AI for Science, is now usable in CP2K. That means larger molecular systems can be quantum-simulated more accurately with AI's help."
+        },
+        {
+          "t": "p",
+          "x": "Researchers from CASUS and Microsoft reported that in their test cases, Skala raised accuracy while keeping efficiency on par with conventional DFT methods, which carry a far heavier computational load. The two teams plan to extend Skala to periodic solid and liquid simulations going forward, and to use CP2K as a channel to broaden validation across chemistry, physics, materials science, and engineering."
+        },
+        {
+          "t": "p",
+          "x": "Press release — The Skala AI model, developed by Microsoft Research AI for Science, has entered the CP2K software ecosystem. In early 2026, Microsoft's research division and the CP2K team at CASUS, part of Helmholtz-Zentrum Dresden-Rossendorf, began the integration work together."
+        },
+        {
+          "t": "p",
+          "x": "Density functional theory (DFT), which won the Nobel Prize in 1998, is the backbone of countless simulations. “DFT's Achilles' heel is the so-called exchange-correlation functional,” says Professor Thomas D. Kühne, director of CASUS. Recent exchange-correlation functionals have grown increasingly sophisticated, but the most accurate ones take so long to compute that they could only be used on systems with few particles."
+        },
+        {
+          "t": "p",
+          "x": "Rather than adding another layer of equations, Skala took a different path. A neural network directly learned how electron densities in different regions influence each other. It's among the first AI-based exchange-correlation functionals."
+        },
+        {
+          "t": "p",
+          "x": "Kühne said, “the results Microsoft Research presented in 2025 were impressive. In particular, they captured both accuracy and computational efficiency together in certain DFT calculations.” In mid-August, researchers from the two institutions released the first results of their collaboration, and Franz Pöschel, first author at CASUS's Scientific Computing core, said, “in our test cases, Skala delivered a noticeable leap in simulation accuracy.”"
+        },
+        {
+          "t": "p",
+          "x": "Sebastian Ehlert, senior researcher at Microsoft Research AI for Science, explains why they chose CP2K this way: “for it to spread, Skala needs to be where the community is already working. CP2K has long been a cornerstone of computational chemistry research.”"
+        },
+        {
+          "t": "p",
+          "x": "CP2K is especially strong at DFT calculations that handle large systems over long timescales. On its open-source platform, it simulates molecules, liquids, solids, and biological systems using both quantum mechanical methods and classical molecular dynamics, and parallel computing lets it handle systems of thousands to tens of thousands of atoms. That's why it suits research on battery materials, catalysts, semiconductors, and proteins."
+        },
+        {
+          "t": "p",
+          "x": "Before release, the two teams tested the integration extensively. Ehlert said, “Skala needs to deliver consistent accuracy and speed even as programs and settings change,” adding that they built the integration test set together with the CASUS team, which has deep experience in numerical validation."
+        },
+        {
+          "t": "p",
+          "x": "Skala isn't a fixed approximation. The model keeps being refined, and features keep being added. Periodic solids like metals and semiconductors, as well as liquid simulations, will be supported soon. CP2K serves as a channel for quickly delivering the latest Skala."
+        }
+      ]
     }
   }
 }

@@ -2757,6 +2757,523 @@
           "x": "Hay cuatro trucos. Muestra el resultado que quieres con una captura de pantalla. Nombra por su nombre la función de Figma que quieres que use. Pide una vista previa en vivo para ver los controles moverse en tiempo real. Empieza con unos pocos controles y ve sumando las sugerencias del agente."
         }
       ]
+    },
+    "design/design-design-diff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy2rggbl6o20y12uj2y3.webp",
+          "cap": "Design Diff: un bucle de retroalimentación visual para agentes de código"
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de código escriben el marcado, añaden los estilos y levantan una página en segundos. También saben mirarla. Lo que no pueden hacer es medirla contra el diseño, píxel por píxel. Con solo repasar una captura no se detecta que un título bajó unos píxeles, que un color se enfrió un tono, o que una fuente no se cargó en silencio."
+        },
+        {
+          "t": "p",
+          "x": "Design Diff les da esa regla. Superpone el diseño sobre una captura real de la página al mismo tamaño en píxeles y devuelve un único número de coincidencia y una caja que rodea dónde difieren. Se llama, se lee la puntuación, se corrige lo que señala la caja y se llama de nuevo. El bucle se repite hasta que la página coincide con el diseño, sin que nadie tenga que vigilarlo."
+        },
+        {
+          "t": "p",
+          "x": "Se construyó pensando primero en los agentes. La línea de comandos y la biblioteca hablan en JSON sencillo, así que cualquier agente o script puede manejarlo. Corre sobre Bun sin instalación global; bunx lo descarga y lo ejecuta de inmediato, y descarga Chromium una vez en la primera ejecución."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta llega en tres formas: un informe breve en la terminal, una página de navegador que superpone las dos imágenes, y una carpeta de resultados, .design-diff por defecto, que se acumula por ejecución. Los agentes se saltan el navegador y solo leen el JSON."
+        },
+        {
+          "t": "p",
+          "x": "Hay tres métricas. Visual match indica cuántos píxeles coincidieron, diff bounds da la caja que encierra todos los píxeles cambiados en píxeles CSS, y page coverage indica qué parte de la página ocupa esa caja. Con 92.4%, x=0..1440, y=812..980 y una cobertura del 17.1%, el problema se concentra en la parte baja de la pantalla. Una caja pequeña sobre un botón señala un color equivocado; una caja que cruza toda la página indica una fuente que no cargó o un viewport desajustado."
+        },
+        {
+          "t": "p",
+          "x": "Para confiar en los números, la captura no debe apresurarse. Espera a que lleguen las fuentes y las imágenes y a que la red se calme, y apaga las animaciones y los cursores parpadeantes. Si una fuente nunca termina de prepararse, lo indica en la salida en lugar de entregar en silencio una mala puntuación."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo real es más desordenado que una maqueta limpia. Si el diseño original está en Figma, basta con dar la clave del archivo y el id del marco para obtener el tamaño del marco y el PNG a través de la API. Cosas destinadas a cambiar, como avatares o marcas de tiempo, se pueden ocultar por coordenadas o selector CSS y excluirlas de la puntuación. Una página que tarda en despertar se espera con --wait-for, y una página tras un inicio de sesión se abre pasando una sesión guardada con Playwright."
+        },
+        {
+          "t": "p",
+          "x": "--json envía solo el objeto de métricas a la salida estándar, y --fail-under fija una línea base. Si la tasa de coincidencia cae por debajo, el proceso termina con 1 y la compilación se marca en rojo. --annotate dibuja la caja de diferencias sobre la captura, dejando una imagen para subir a un comentario de PR."
+        },
+        {
+          "t": "p",
+          "x": "Compara píxeles, no percepción. El antialiasing y el renderizado de fuentes varían según el equipo, así que incluso una página que se ve bien queda un poco por debajo de 100. Conviene fijar una línea base antes que perseguir el último punto. Una puntuación alta puede esconder dentro un componente desalineado, así que la caja de diferencias y el ojo humano siguen siendo la última comprobación."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de regresión visual comparan la app con su propio pasado para detectar cambios no intencionados. Design Diff compara la app con el diseño. Es la que detecta lo que realmente importa en el traspaso: la brecha entre lo que se dibujó y lo que se construyó."
+        }
+      ]
+    },
+    "design/design-figma-eraser": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "hOw_XiB9l_0"
+        },
+        {
+          "t": "p",
+          "x": "Figma presentó una nueva herramienta de borrador para usar directamente en el lienzo. Se elige un relleno o una línea, se entra en el modo de edición vectorial y se pulsa Shift + E para activar el borrador."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta de relleno también se actualizó. Ahora las formas se rellenan según se arrastra."
+        }
+      ]
+    },
+    "design/design-flow-studio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autodesk Flow Studio ha avanzado un paso más allá de sacar video de un prompt. Es un flujo de trabajo que le da a la IA generativa algo que siempre le ha faltado: control que se puede dirigir."
+        },
+        {
+          "t": "p",
+          "x": "En este episodio de fxpodcast, Nikola Todorovic, cofundador de Wonder Dynamics y hoy en Autodesk, habló sobre el nuevo 3D Editor + Canvas de Flow Studio, un sistema que une la construcción interactiva de escenas 3D con modelos de video generativo en 2D en un solo lugar."
+        },
+        {
+          "t": "p",
+          "x": "No es una herramienta que convierte una sola frase en una película. Está más cerca de insertar la IA dentro de un flujo de producción, dirigido tanto a creadores en solitario con equipos de tres a cinco personas como a estudios mucho más grandes."
+        },
+        {
+          "t": "video",
+          "yt": "Kn93P0LREcU"
+        },
+        {
+          "t": "p",
+          "x": "La premisa es sencilla. Un director pone en escena las cosas en un espacio tridimensional: coloca cámaras, ubica actores, afina la interpretación y decide dónde cae cada toma. Intentar transmitir todo esto solo con prompts de texto o marcas sobre una imagen plana resultaba, por fuerza, limitante."
+        },
+        {
+          "t": "p",
+          "x": "En el 3D Editor, una toma se construye combinando personajes y animación, datos de captura de movimiento, trayectorias de cámara y entornos generados. Una interpretación puede tomarse de un clip de referencia y un movimiento de cámara de otro, o la cámara puede animarse directamente con keyframes. Los mundos de gaussian splats creados con Marble de World Labs también se usan para el blocking, el layout y el diseño de cámara."
+        },
+        {
+          "t": "p",
+          "x": "Luego viene Canvas, un entorno 2D basado en nodos. Ahí se añaden la integración de iluminación, el ambiente, los efectos de simulación y el acabado cinematográfico, cosas en las que los modelos de video de IA actuales son especialmente buenos. La escena 3D no produce los píxeles finales; solo fija la interpretación, la puesta en escena, la composición y el movimiento de cámara para guiar lo que se genera."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/flowA-830x356.jpg",
+          "cap": "Una toma construida en el 3D Editor guía lo que genera Canvas"
+        },
+        {
+          "t": "p",
+          "x": "Todorovic habla de una regla 80/20 para la IA generativa. El primer 80% llega sorprendentemente rápido. El problema aparece cuando el director pide un ajuste preciso: mover un objeto, cambiar una interpretación, afinar una trayectoria de cámara, todo sin perder lo que ya funcionaba. En un trabajo que depende solo de prompts, ese último 20% se desvía de lo previsto de forma frustrante."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/flowC-830x346.jpg",
+          "cap": "La interpretación parte del material filmado del actor"
+        },
+        {
+          "t": "p",
+          "x": "Por eso también se da prioridad a la interpretación por encima de los prompts. Él no cree que una interpretación con carácter surja de forma fiable solo del audio, o de una frase que describa la interpretación. La animación guiada por audio funciona, pero los gestos y las expresiones tienden a volverse toscos. Su orden preferido empieza por el actor."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/flowB-830x346.jpg",
+          "cap": "Un flujo de trabajo centrado en hacia dónde mira la cámara"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma anterior de Wonder Dynamics combinaba unos 25 sistemas de aprendizaje automático, visión por computadora y sistemas generativos para colocar personajes CG en metraje real. El 3D Editor de Flow Studio es el siguiente paso, que reúne esas salidas dispersas en un único entorno de dirección."
+        },
+        {
+          "t": "p",
+          "x": "Flow Studio corre en la nube, y el 3D Editor se diseñó para que las respuestas no se interrumpan. El tiempo de generación de Canvas varía según el modelo elegido, la duración de la toma y la resolución, y la generación de mundos toma hoy unos minutos."
+        }
+      ]
+    },
+    "design/design-marvelous-2026": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "hM6viQZeHPI"
+        },
+        {
+          "t": "p",
+          "x": "La actualización 2026.1, lanzada hoy, incorpora la largamente solicitada Seamline Ripping Tool. Junto con Brush Pinching y Pinching Simulation Override, da una mano mucho más firme para dar forma a la ropa directamente en 3D."
+        },
+        {
+          "t": "p",
+          "x": "La ropa digital convincente siempre ha caminado sobre una cuerda floja entre dos cosas. La ropa debe reaccionar como tela, pero la producción real a menudo necesita decidir exactamente dónde cae un solo pliegue. 2026.1 amplía ambos lados a la vez, y quien tenga interés puede probarlo antes a través del acceso anticipado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/70/6a84f2987f7a3.png",
+          "cap": "[Beta] Seamline Ripping Tool: las costuras se rompen según la fuerza aplicada"
+        },
+        {
+          "t": "p",
+          "x": "El mayor cambio es que la tela se rompe realmente a lo largo de la costura. La [Beta] Seamline Ripping Tool hace que las costuras se rompan según la cantidad de fuerza aplicada a la prenda. En lugar de construir una versión dañada por separado, el desgarro queda integrado directamente en la simulación de tela."
+        },
+        {
+          "t": "p",
+          "x": "Un personaje atado a su ropa se agita y una costura cede; un traje ajustado al cuerpo se rasga en un movimiento violento; un vestuario se va rompiendo poco a poco en secuencias de combate o transformación. Quien esté creando un personaje postapocalíptico puede experimentar aplicando fuerza en lugar de fijar cada borde deshilachado uno por uno."
+        },
+        {
+          "t": "p",
+          "x": "Al ser beta, hay asperezas. El deshilachado está desactivado por ahora en Mac, y tampoco se puede exportar como geometría de malla. Marvelous Designer dijo que añadirá la exportación de malla y la función que falta en Mac."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/70/6a84c35e86afb.jpg",
+          "cap": "Brush Pinching empuja y tira de la tela siguiendo el trazo del pincel"
+        },
+        {
+          "t": "p",
+          "x": "Brush Pinching empuja y tira de la tela siguiendo el trazo de un pincel. En lugar de dejar la silueta deseada por completo a una simulación amplia, da forma a la prenda a mano. Combinarlo con Pinching Simulation Override cambia las cosas. La tela puede llevarse a la forma deseada dentro de la ventana 3D y quedarse ahí fija."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/c8/6a84c34be0d04.png",
+          "cap": "Una silueta lograda sin pasar a otro programa"
+        },
+        {
+          "t": "p",
+          "x": "Tomando como ejemplo un personaje de lucha con tela roja ondeante, estas dos funciones solas construyen la silueta deseada sin saltar a otro programa para esculpir. La simulación responde bien a cómo se moverá la tela. El arte de personajes pregunta algo un poco distinto: cómo quiere el artista que se mueva la tela."
+        }
+      ]
+    },
+    "design/design-walmart-3dp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Walmart alardeaba de las garantías de precio bajo y de cómo su escala protegía la cartera de los clientes. Ahora imprime en 3D sus tiendas para recortar sus propios costos."
+        },
+        {
+          "t": "p",
+          "x": "En los últimos dos años, contratistas de Walmart han usado construcción impresa en 3D en varios sitios de EE. UU. Las paredes de ampliación de cinco tiendas existentes en Tennessee, Missouri, Alabama y Arkansas se levantaron así. Es la mayor construcción impresa en 3D del sector comercial estadounidense. La escala de Walmart está arrastrando el crecimiento y la adopción de una tecnología que promete construir más rápido y más barato."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/i-3-91593315-Design-Walmart-3d-printing.jpg",
+          "cap": "[Photo: FMGI]"
+        },
+        {
+          "t": "p",
+          "x": "La impresión 3D en construcción se ha quedado sobre todo en vivienda, porque la escala es pequeña y la tecnología aún es incipiente. Ampliarla al sector comercial hace crecer a la industria misma. Terminar estructuras grandes con presupuestos altos muestra tanto la utilidad del proceso como si puede doblar la curva de costos."
+        },
+        {
+          "t": "p",
+          "x": "Walmart se asoció con Alquist, que fabrica la impresora robótica 3D A1X, y con FMGI, que lleva mucho tiempo trabajando con el gigante minorista con sede en Arkansas. Walmart declinó comentar para este artículo."
+        },
+        {
+          "t": "video",
+          "yt": "PRM9hqElIlY"
+        },
+        {
+          "t": "p",
+          "x": "Darin Ross, presidente y director ejecutivo de FMGI, con sede en Woodstock, Georgia, dice que este tipo de cosas lo mantienen entusiasmado. Mientras construía la empresa desde un sótano hasta una escala nacional, seguía esperando más cambios. Dice que ha visto a la construcción repetir los mismos métodos durante 30 años, y que la industria va muy atrás en adoptar nuevas tecnologías y nuevos métodos."
+        },
+        {
+          "t": "p",
+          "x": "FMGI opera impresoras Alquist que apilan capas de un compuesto de concreto como si se exprimiera pasta de dientes de un tubo. Recientemente amplió su contrato existente con Walmart para imprimir edificios completos, con más de 30 proyectos en fila hasta 2027."
+        },
+        {
+          "t": "p",
+          "x": "Empezó con un piloto en una tienda de Athens, Tennessee, en septiembre de 2024. Una impresora Alquist levantó las paredes de una ampliación de 8,000 pies cuadrados y 20 pies de altura. El espacio estaba pensado para absorber el creciente volumen de recogida y entrega, y era entonces la estructura comercial impresa en 3D más grande de Estados Unidos."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/i-1-91593315-Design-Walmart-3d-printing.jpg",
+          "cap": "[Photo: FMGI]"
+        },
+        {
+          "t": "p",
+          "x": "La curva de aprendizaje fue empinada. La impresora robótica, montada en un riel, extruye un concreto especial reforzado con fibra a una pulgada de espesor para que no se agriete mientras cura. Aprender a imprimir una pared de 20 pies tomó 40 días, y hubo que volver a presentar planos a la ciudad para usar el nuevo método. El siguiente sitio, en Huntsville, Alabama, terminó a finales de febrero de 2025 y tomó solo una semana."
+        },
+        {
+          "t": "p",
+          "x": "Ross dice que ver la velocidad y la precisión con que el robot sacaba las paredes fue lo que lo encendió. FMGI tiene ahora cuatro unidades robóticas Alquist, con un precio promedio de poco menos de 300,000 dólares cada una. La empresa dice que estos proyectos han recortado el tiempo de fabricación en un tercio y los costos de construcción en un 15%."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/i-2-91593315-Design-Walmart-3d-printing.jpg",
+          "cap": "[Photo: FMGI]"
+        },
+        {
+          "t": "p",
+          "x": "El clima sigue siendo una variable. El agua y la mezcla de concreto que fluyen por el brazo robótico y la boquilla deben mantenerse por debajo de 91°F y por encima del punto de congelación para que no se atasquen ni se derritan. En el sitio de Athens, la temperatura llegó a 110°F y reventó una manguera; más tarde, el equipo añadió hielo a la máquina e imprimió por la noche."
+        },
+        {
+          "t": "p",
+          "x": "El próximo trabajo es, en su mayoría, gasolineras independientes y ampliaciones para sostener la recogida y entrega en línea. Ross dijo que las negociaciones están en etapa final para construir con esta tecnología una tienda de abarrotes de 50,000 pies cuadrados. Si se concreta, sería el edificio impreso en 3D más grande del mundo."
+        }
+      ]
+    },
+    "design/design-nuke-17-1-splat-relight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Foundry presenta Nuke 17.1, una actualización de su línea de composición. Nuke, NukeX y Nuke Studio reciben los cambios."
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260820_Nuke17_AnimatedSplats.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Los cambios en Nuke se concentran en el 3D Gaussian splatting y el trabajo con USD. Ahora admite splats animados, permite reiluminar splats y el visor 3D incorpora Hydra 2.0. Nuke Studio mejora sus herramientas de anotación, las hojas de contacto y la comparación A/B."
+        },
+        {
+          "t": "p",
+          "x": "Nuke 17.1 amplía el conjunto de herramientas de 3D Gaussian splatting presentado por primera vez en 17.0. El nuevo nodo GeoSequencer toma secuencias de archivos USD, PLY y SPLAT y las exporta como archivos USDC con muestreo temporal que encajan con las herramientas existentes de Nuke. El nodo SplatRender ahora renderiza en 2D usando luces Direct, Point y Spot, lo que permite una “reiluminación básica” de los splats. Los formatos de exportación incluyen SPLAT, SPZ, PLY y USD."
+        },
+        {
+          "t": "p",
+          "x": "En el lado de USD, hay un flujo de trabajo no destructivo que admite definiciones de sublayer y exportación de sparse override. El nodo GeoExport exporta los fotogramas de uno en uno y luego los une por defecto, lo que reduce el uso de memoria. El visor 3D basado en Hydra pasa a Hydra 2.0, con vista previa de AOVs por separado y compatibilidad con delegados de render como RenderMan y Moonray."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260820_Nuke171_Hydra2-1-960x480.jpg",
+          "cap": "Soporte de Hydra 2.0 en el visor 3D y el nuevo nodo GeoRender"
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de anotación de Nuke Studio incorporan una herramienta de formas para marcar rectángulos y flechas. Las hojas de contacto ahora funcionan por secuencia, con opción de vista de cuadrícula o de fotograma único. La nueva función Compare Versions realiza comparaciones A/B dentro de la línea de tiempo y añade metadatos personalizados y quemados de expresión como efectos suaves."
+        },
+        {
+          "t": "p",
+          "x": "Las plataformas compatibles son Windows 11, Rocky Linux 9.0 y macOS 15.0 o posterior. Los precios de suscripción anual son $3,839 para Nuke, $5,219 para NukeX, $6,379 para Nuke Studio, $462 para Nuke Render y $499 para Nuke Indie. Solo Nuke Render subió, $22 en el año."
+        }
+      ]
+    },
+    "design/design-slack-code-multiplayer-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/64GVvPFWGaLTPjNLaZ9mdN/740b7f4f14646dcfca71b13822379524/Nuneybits_Vector_art_of_terminal_dissolving_into_colorful_team__390a5221-7b54-4a07-a6a1-b48a95bb2f5c.webp",
+          "cap": "Arte vectorial de una terminal disolviéndose en los colores del equipo"
+        },
+        {
+          "t": "p",
+          "x": "Slack, la aplicación de mensajería propiedad de Salesforce, ha lanzado Slack Code. Pone a Claude Code de Anthropic, Devin de Cognition, GitHub Copilot y el agente de Vercel en canales de Slack dedicados, donde todo el equipo puede observar, orientar, revisar e implementar en conjunto. Funciona en todos los planes de Slack desde el lanzamiento, aunque cada agente asociado requiere su propia licencia."
+        },
+        {
+          "t": "p",
+          "x": "Hoy, el trabajo con agentes de codificación suele ocurrir de forma invisible, entre una persona y un agente. Slack Code convierte eso en una actividad de varios jugadores. Llamar a un agente desde cualquier conversación abre un canal de código dedicado al proyecto, donde los diffs de código, las vistas previas en vivo y el plan en curso aparecen directamente en las pestañas. Una vez terminado el trabajo, el canal queda como un registro que se puede buscar."
+        },
+        {
+          "t": "p",
+          "x": "El CEO interino de Slack, Rob Seaman, dijo en una sesión previa que el código ya no es el cuello de botella. “Las ideas, el gusto, el juicio, el oficio. Esos son el cuello de botella ahora, y el número de personas que pueden aportarlos se ha ampliado a todos los que están en Slack.”"
+        },
+        {
+          "t": "p",
+          "x": "Jeff Wang, el nuevo presidente de la división empresarial de Cognition, hizo una demostración. Cuando llega a un canal de ingeniería un reporte de que una función está rota, Devin lo confirma con un emoji, responde en el hilo, investiga la causa y abre una pull request, etiquetando incluso al propietario del código. Devin tiene su propio ordenador, así que usa Chrome y las herramientas de desarrollador para comprobar por sí mismo que la función funciona."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo se traslada a un canal de código dedicado, donde participan ingenieros, gestores de producto y diseñadores por igual. En la demostración, un diseñador soltó un archivo de Figma en el canal a mitad del trabajo, y el agente lo incorporó sin romper el flujo. Todo terminó con los cambios de código, capturas de pantalla y una demo grabada que mostraba la función funcionando."
+        },
+        {
+          "t": "p",
+          "x": "Las afirmaciones sobre velocidad vinieron con cifras internas. Las pull requests fusionadas se han multiplicado por diez en los últimos meses, mientras que la plantilla solo creció un 40 por ciento, dijo Wang. Añadió que buena parte de los reportes de errores llega ahora desde el equipo de ventas."
+        },
+        {
+          "t": "p",
+          "x": "A la objeción de que dejar que cualquiera llame a un agente acumularía el llamado “AI slop,” Slack responde que la visibilidad misma es la solución. Katie Steigman, vicepresidenta de producto, dijo que la propia estructura de varios jugadores es una salvaguarda: los demás pueden ver tu intención, cambiar la forma del trabajo o señalar que es slop y darte un toque de atención. Los permisos simplemente se heredan de quien llamó al agente. Seaman fue tajante: “No existen permisos de modo dios ni permisos a nivel de bot.”"
+        },
+        {
+          "t": "p",
+          "x": "Slack Code llega mientras su empresa matriz pasa por un momento inestable. En el año transcurrido hasta enero, las acciones de Salesforce cayeron alrededor de un 18 por ciento, y en diciembre OpenAI contrató a la CEO de Slack, Denise Dresser, como directora de ingresos, lo que dejó a Seaman, antes responsable de producto, como CEO interino. Eso no significa que la terminal haya terminado. La mayor parte del trabajo pasará a un entorno de varios jugadores, dijo Seaman, pero el trabajo solitario y profundo seguirá viviendo en la terminal."
+        }
+      ]
+    },
+    "design/design-v0-connect-100-services": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las aplicaciones y agentes creados en v0 ahora se conectan de forma segura, a través de Vercel Connect, a “más de 100 servicios externos”, entre ellos Slack, Google, Notion, GitHub y Salesforce. Decirle a v0 que se conecte con un servicio concreto hace que guíe paso a paso cómo configurar el conector."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/e5382hct74si/5CGDV3suBMLpD4EfFd5Qy9/027ff5cb3e562044ca94db186909bb52/image__4_.png",
+          "cap": "Pantalla para configurar un conector de Slack para un panel de trabajo personal"
+        },
+        {
+          "t": "p",
+          "x": "Los conectores pertenecen al equipo. Una vez creados, se reutilizan tal cual en varias aplicaciones. En conectores como los de Slack o GitHub, donde Vercel se encarga incluso del registro de la aplicación, no hace falta tocar nada del lado del proveedor; para el resto de servicios basta con introducir credenciales emitidas por el propio usuario. En cualquier caso, cada conexión emite un token de vida corta, así que no queda ningún secreto que guardar y rotar periódicamente."
+        },
+        {
+          "t": "p",
+          "x": "Danny, del equipo KERNEL, usó v0 y Vercel Connect para crear un agente de navegador controlado por voz que maneja un navegador real con código Playwright generado al momento. El mismo equipo también creó un panel personal que reúne mensajes de Slack, la bandeja de Gmail y los issues de Linear en una sola pantalla y muestra solo lo que necesita atención ahora."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/e5382hct74si/1YeOwNvHMYbSQXrtWjq5oC/8017e9195f3ac505ca69f326c965a09e/0866abf5-d8a7-45d6-a63d-f6e604f72fe1.png",
+          "cap": "Un panel de trabajo personal creado con v0"
+        }
+      ]
+    },
+    "design/design-autonomous-website": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un sitio web está en su mejor momento el día de su lanzamiento. En el instante en que se fusiona la última rama y el sitio aparece exactamente como se diseñó, es perfecto por un momento. Nunca vuelve a estar tan bien."
+        },
+        {
+          "t": "p",
+          "x": "No es porque se rompa. El sitio funciona bien. Pero mientras el mercado se mueve, el mensaje cambia y la competencia lanza algo nuevo, lo que construiste con tanto cuidado se va desalineando poco a poco de la empresa. Un año después, es una pieza de época. No está roto, está rezagado. Los equipos conocen este deterioro y aun así lo aceptan como si fuera una ley de la naturaleza."
+        },
+        {
+          "t": "p",
+          "x": "Pierre Burgy, cofundador de Strapi y creador de Fimo, dice que no hay razón para que sea así. Mientras duermes, un agente detecta y corrige un cambio del sistema de diseño de la semana pasada que nunca llegó a la página de precios. Otro optimiza una imagen sin comprimir que se coló en un lanzamiento apresurado. Un tercero señala una regresión de accesibilidad causada por un nuevo componente, y la corrige directamente o la deja para que la revise una persona. Por la mañana, hay un sitio mejor que el de ayer y una lista corta que pide que lo revises con tus propios ojos."
+        },
+        {
+          "t": "p",
+          "x": "Pero en el momento en que tomas esa promesa en serio, te encuentras con un problema que no tiene nada que ver con la tecnología. Casi nadie quiere realmente un sitio que cambie todo por sí solo."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/why-website-should-never-stop-changing/fimo-agents.png",
+          "cap": "En Fimo, tú configuras directamente qué puede tocar cada agente"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de Fimo aprendió esto construyendo primero la versión contraria. Apuntaron a la autonomía total, observaron cómo la usaba la gente en la práctica, y todos dudaron. No era que no confiaran en los agentes. Un sitio web no tiene un único propietario. Cada área tiene un propietario distinto, y cada uno quiere una cantidad diferente de autonomía. La pregunta no era si confiar en los agentes, sino dónde trazar la línea, y para quién."
+        },
+        {
+          "t": "p",
+          "x": "Visto así, el trabajo se divide en tres grupos. El primer montón es trabajo repetitivo que se rige por reglas: mantener la accesibilidad cuando cambian las páginas, propagar actualizaciones del sistema de diseño cuando se mueven los tokens, detectar etiquetas meta rotas, imágenes sin optimizar y enlaces que lleva tres sprints muertos. A nadie lo contrataron por ser bueno encontrando atributos alt faltantes. Es el tedioso 80 por ciento."
+        },
+        {
+          "t": "p",
+          "x": "En el extremo opuesto hay trabajo que no se delega sin importar el valor en juego. Los agentes pueden comprobar por reglas si el contraste pasa, si el orden de los encabezados es correcto, si los tokens son exactos. No pueden juzgar cómo debería sentirse una página, o si lo que está por publicarse es realmente bueno. Es un montón pequeño, pero ahí está la razón de que exista."
+        },
+        {
+          "t": "p",
+          "x": "En medio hay un territorio donde la línea cambia según la persona. Un cambio que muestra el modo oscuro por defecto a los visitantes nuevos lo hace un agente en segundos. Para la diseñadora que es dueña de la identidad del sitio, el tema por defecto no es una configuración, sino una declaración sobre cómo se presenta primero la marca, y esa decisión quiere tomarla ella misma. El mismo cambio, para un desarrollador, es un valor por defecto de una línea con una justificación clara. Lo que es una decisión para un lado es una tarea rutinaria para el otro."
+        },
+        {
+          "t": "p",
+          "x": "Por eso Fimo, en lugar de elegir un nivel de autonomía con un interruptor, te hace ensamblar los propios agentes. Decides qué puede tocar cada agente, dejas que el agente de accesibilidad funcione sin supervisión y mantienes al agente de contenido cerca de la marca. Como puedes revisar cada ejecución, cada registro, cada antes y después, la confianza crece por verificación, no por costumbre."
+        },
+        {
+          "t": "p",
+          "x": "Este es el punto que Burgy invierte. Lo que la gente teme primero es que un agente cambie algo a escondidas, pero el verdadero riesgo es un sitio que no cambia nada. Un sitio congelado no se mantiene a salvo. Se queda atrás a una velocidad que nadie nota, hasta que termina representando a una empresa que ya no existe."
+        }
+      ]
+    },
+    "design/design-instagram-first-draft": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta añadió a Instagram una función de edición llamada First Draft. Recorta automáticamente los puntos donde el habla se interrumpe o hay titubeos en un clip. El tiempo que se dedicaba a pulir el video disminuye, y más tiempo se dedica a decidir qué conservar."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/instagram-adds-feature-that-automatically-trims-your-clips/l-intro-1787694097.jpg",
+          "cap": "Instagram First Draft"
+        },
+        {
+          "t": "p",
+          "x": "El uso es sencillo. Se elige un clip en la galería de Reels y se pulsa First Draft. Instagram revisa el clip, lo recorta a una duración razonable y lo coloca en la línea de tiempo. Ahí mismo se puede reproducir. Se puede seguir editando o subirlo directamente al feed o a las historias. También se adjunta al instante a un video recién grabado en Instagram."
+        },
+        {
+          "t": "p",
+          "x": "Meta lanzó en abril de 2025 su aplicación de edición independiente, Edits. Venía cargada de funciones de edición con IA pensadas para facilitar la producción de Reels. Pero en el comunicado de First Draft no aparece ni una sola vez la palabra IA. Según The Verge, es porque en realidad no usa esa tecnología. En la propia clasificación de Meta, First Draft es aprendizaje automático, no IA. Aun así, para Instagram es un cambio que se nota."
+        },
+        {
+          "t": "p",
+          "x": "Últimamente esta aplicación ha sido el escenario de toda clase de experimentos con IA. Meta AI se metió en la ventana de mensajes. Llegó una función que reescribe las historias por uno con solo escribir una instrucción. Nada de eso parecía esencial para la experiencia básica de publicar algo. Por eso resalta la utilidad de First Draft."
+        },
+        {
+          "t": "p",
+          "x": "First Draft llega primero a iOS. Meta aún no ha dicho cuándo llegará a Android."
+        }
+      ]
+    },
+    "design/design-millwork-drafting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MillworkSuite ha lanzado una plataforma de presupuestos con IA y dibujo técnico directo para fabricantes de carpintería de obra y gabinetería. Lee un conjunto de planos arquitectónicos en PDF y devuelve un alcance de trabajo con precios, y envía las mismas partidas a HOMAG iX, Microvellum y CabinetVision para generar diseños de gabinetes ya colocados contra las paredes. SMI Cabinetry usó la plataforma para reducir a la mitad su tiempo de dibujo técnico. Se hará una demostración del 25 al 28 de agosto en el stand #C1662, Edificio C, Nivel 1, de la Feria Internacional de Carpintería de Atlanta. La línea de productos se desarrolló con el socio tecnológico CLOUDSUFI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/ms-1.jpg",
+          "cap": "La plataforma de presupuestos con IA y dibujo técnico de MillworkSuite"
+        },
+        {
+          "t": "p",
+          "x": "El cuello de botella es el dibujo técnico. Hay trabajo, pero la cola de dibujo se atrasa semanas enteras. No se puede contratar delineantes expertos a ese ritmo. Si un taller presupuesta diez trabajos, solo uno llega a dibujarse de verdad, y al final, el dibujo técnico determina qué tan rápido avanza el trabajo dentro del edificio."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo mismo alimenta ese cuello de botella. Empezar en HOMAG iX, Microvellum o CabinetVision significa volver a levantar las mismas paredes que ya se levantaron la semana pasada. Cada caja se coloca a mano, y cada unidad necesita unos veinte parámetros rellenados. Después viene copiar y pegar, y empujar piezas hasta que las separaciones se cierran. El criterio que un delineante acumula durante años no se usa en ninguna parte de ese proceso."
+        },
+        {
+          "t": "p",
+          "x": "MillworkSuite exporta un alzado completo de una sola vez. Los gabinetes quedan exactamente donde los dibujó el arquitecto. Como las mismas partidas alimentan a la vez el presupuesto y la exportación a CAD, un proyecto se mide una sola vez en lugar de tres. El trabajo que aún necesita mano humana, como rótulos y etiquetado, desgloses de materiales y listas de corte, y partidas personalizadas, se queda con el delineante. Solo se retira del escritorio la parte repetitiva que se apila una y otra vez."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de las herramientas de cómputo de materiales cubren la construcción en general, pero MillworkSuite se enfoca en un solo oficio. Cubre gabinetes altos y bajos, encimeras, lavabos, zócalos, sofitos, y la lógica de dibujo técnico detrás de todo eso. Las dimensiones ajustadas en la etapa de presupuesto se mantienen hasta el CAD y llegan como ancho, alto y profundidad ya definidos. Una tabla de mapeo conecta los tipos de carpintería detectados con los tipos de producto que usa el taller. Si se reduce el ancho de un gabinete bajo, la unidad vecina se ajusta automáticamente para cerrar el hueco. Los datos del proyecto están cifrados, y ni siquiera MillworkSuite puede abrirlos."
+        },
+        {
+          "t": "p",
+          "x": "El presupuesto alimenta la exportación. Al subir los planos, renombra todas las hojas y las agrupa por conjunto de planos, revisa los nombres de las habitaciones, la escala y los tipos de carpintería, y enlaza los marcadores de alzado con la hoja correspondiente. Las dimensiones y las áreas se calculan a partir de la escala de la página y se suman en todo el conjunto de hojas. Los costos de materiales, la mano de obra y las tasas de gastos generales los fija el taller, y los descuentos se pueden aplicar por partida, por categoría o en bloque. Un presupuesto con precios se convierte directamente en un alcance de trabajo listo para presentar, de modo que el mismo valor nunca se introduce dos veces. Los conjuntos de cambios se vinculan al original por número de hoja, así que lo que cambió se ve antes de que empiece el dibujo técnico."
+        },
+        {
+          "t": "p",
+          "x": "Ya está en lanzamiento completo, y el precio de la suscripción se divide por función. Takeoff solo cubre presupuestos y cómputo de cantidades, y se vende únicamente a través de socios certificados. Starter y Premium añaden exportación de dibujo técnico directo a CAD y se venden tanto por venta directa como por canales de socios. Los talleres con mucho volumen de presupuestos y dibujo técnico obtienen una configuración Enterprise. El pago anual por adelantado tiene descuento, y los nuevos clientes pasan por un proceso de incorporación que incluye la configuración del catálogo de precios, el mapeo de la biblioteca CAD y la capacitación del equipo."
+        }
+      ]
+    },
+    "design/design-photoshop-selection": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "XypxOjfur2c"
+        },
+        {
+          "t": "p",
+          "x": "Adobe mostró la nueva herramienta de selección de Photoshop en un video de 29 segundos. El planteamiento: alguien que siempre se atascaba al intentar seleccionar un objeto ligeramente borroso visita a un experto en Photoshop porque necesita una herramienta de selección automática mejorada."
+        },
+        {
+          "t": "p",
+          "x": "La explicación del experto es breve. Es mucho más precisa, y un solo clic elige exactamente lo que se quiere, cada vez. Las selecciones finas también tienen un control más estricto que antes. La selección de sujetos y la eliminación de fondos son los ejemplos destacados, y con ellos se reduce ese trabajo tedioso."
+        },
+        {
+          "t": "p",
+          "x": "En la descripción del video, Adobe escribe que la base de una edición precisa es una herramienta de selección sólida, y que por eso rediseñó la función. Se publicó el 25 de agosto en el canal de Adobe Creative Cloud."
+        }
+      ]
+    },
+    "design/design-vercel-run-sdk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cada vez más agentes escriben sus propios programas en TypeScript para encadenar herramientas y procesar resultados. En el momento en que ese código toca una aplicación real, surgen pasos que requieren autenticación y pasos que requieren aprobación humana. Ejecutarlo con un simple eval equivale a entregarle los mismos permisos que la aplicación que lo rodea, incluidos secretos y servicios internos. Tampoco hay forma de detenerse un momento en ese límite."
+        },
+        {
+          "t": "p",
+          "x": "Vercel ha publicado Run SDK, un paquete que ejecuta JavaScript y TypeScript no confiables sin dejarlos tocar directamente la aplicación o el sistema. La aplicación expone solo un conjunto reducido de funciones host, y la ejecución se detiene cuando se necesita autenticación o aprobación humana. Cuando llega la decisión, el programa continúa desde ese punto sin repetir el trabajo que ya había terminado."
+        },
+        {
+          "t": "p",
+          "x": "Run SDK evalúa JavaScript, o TypeScript sin sus tipos, dentro de un contexto QuickJS recién creado dentro de un hilo de trabajo (worker thread). No hay un camino directo ni a Node.js ni a la red. La aplicación expone solo las funciones que elige mediante hostFunctions, y esas funciones se llaman como globales dentro de la caja de arena. Los clientes de base de datos y las credenciales permanecen del lado de la aplicación. Las llamadas cruzan el límite mediante serialización, y como las funciones host pueden devolver promesas, los clientes de servicio existentes pueden quedarse detrás sin cambios."
+        },
+        {
+          "t": "p",
+          "x": "Run SDK es el módulo interno que sostiene la ejecución de herramientas en modo código de AI SDK. Delegarle a un agente el programa completo cambia la unidad de trabajo. Una sola respuesta del modelo puede describir varias llamadas y la lógica entre ellas de una vez. Puede consultar a la vez una cuenta de CRM y una lista de facturas, filtrar solo las vencidas, y devolver a la aplicación únicamente el resultado útil. Un agente de soporte puede revisar una cuenta sin tener que volver a cargar toda la respuesta de facturación en el contexto."
+        },
+        {
+          "t": "p",
+          "x": "Leer una factura y ejecutar un reembolso son cosas distintas. Cuando el código generado llega a un punto sensible, una función host detiene la ejecución. En ese momento, el resultado incluye un token firmado. La aplicación guarda el token junto con la solicitud de aprobación y reanuda la ejecución cuando llega la decisión. Al reanudar, el programa se recorre de nuevo, pero las llamadas a funciones host que ya terminaron usan el resultado ya registrado. El mismo patrón se aplica a los flujos que esperan autenticación, y el worker no necesita permanecer activo mientras espera."
+        },
+        {
+          "t": "p",
+          "x": "También hay que frenar los bucles infinitos y los resultados demasiado grandes. createRunner() fija límites comunes de tiempo de espera y memoria, y cada ejecución también puede ajustarse de forma individual. En cada llamada se crea un contexto QuickJS nuevo, la evaluación dinámica está desactivada y los prototipos incorporados quedan congelados. Las funciones host, al ser código de aplicación de confianza, deben seguir haciendo sus comprobaciones de permisos habituales. El trabajo que necesita acceso al sistema operativo, instalación de paquetes o aislamiento a nivel de proceso le corresponde a Vercel Sandbox."
+        },
+        {
+          "t": "p",
+          "x": "La primera versión de este runtime vivía dentro de just-bash con el nombre js-exec. Era la capa que instalaba QuickJS y dejaba que los agentes escribieran TypeScript contra el sistema de archivos virtual y los comandos del shell. Vercel separó esa capa y sustituyó el entorno con forma de Node por funciones host que define la aplicación, y verificó en eve el TypeScript escrito por agentes contra herramientas reales. Run SDK funciona en Node.js 22.13 o superior y en Bun."
+        }
+      ]
     }
   }
 }

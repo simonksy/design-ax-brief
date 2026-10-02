@@ -2817,6 +2817,523 @@
           "x": "There are four tricks: show the result you want with a screenshot; name the exact Figma feature you want it to use; ask for a live preview to see the controls work in real time; and start with a few controls and build up by adding the agent's suggestions."
         }
       ]
+    },
+    "design/design-design-diff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foy2rggbl6o20y12uj2y3.webp",
+          "cap": "Design Diff — a visual feedback loop for coding agents"
+        },
+        {
+          "t": "p",
+          "x": "Coding agents write markup, attach styles, and get a page up in seconds. They can look at that page, too. What they cannot do is measure it against the design, pixel by pixel. Skimming a screenshot won't catch a heading sitting a few pixels low, a color that has cooled by one shade, or a font that quietly failed to load."
+        },
+        {
+          "t": "p",
+          "x": "Design Diff hands them that ruler. It overlays the design on a screenshot of the actual page at the same pixel size, then returns a single match number and a box around where they diverge. Call it, read the score, fix what the box points to, and call it again. The loop runs until the page matches the design, and no one has to watch it."
+        },
+        {
+          "t": "p",
+          "x": "It was built with agents in mind first. The command line and library speak in plain JSON, so any agent or script can drive it. It runs on Bun with no global install; bunx pulls it down and runs it right away, downloading Chromium once on the first run."
+        },
+        {
+          "t": "p",
+          "x": "The answer comes back three ways: a short report in the terminal, a browser page that overlays the two images, and an output folder, .design-diff by default, that accumulates by run. Agents skip the browser and just read the JSON."
+        },
+        {
+          "t": "p",
+          "x": "There are three metrics. Visual match shows how many pixels matched, diff bounds gives the box enclosing every changed pixel in CSS pixels, and page coverage tells how much of the page that box takes up. A 92.4% score with x=0..1440, y=812..980 and 17.1% coverage means the problem sits near the bottom of the screen. A small box over a button points to a wrong color; a box spanning the width of the page signals a missing font or a mismatched viewport."
+        },
+        {
+          "t": "p",
+          "x": "Trusting the numbers means not rushing the capture. It waits for fonts and images to load and the network to settle, and turns off animations and blinking cursors. If a font never finishes loading, it says so in the output instead of quietly handing back a bad score."
+        },
+        {
+          "t": "p",
+          "x": "Real work is messier than a clean mockup. If the original design lives in Figma, giving it the file key and frame ID is enough to pull the frame size and PNG through the API. Things meant to change, like avatars or timestamps, can be masked out by coordinates or CSS selector and excluded from the score. A page that wakes up late gets held with --wait-for, and a page behind a login opens with a session saved through Playwright."
+        },
+        {
+          "t": "p",
+          "x": "--json sends just the metrics object to standard output, and --fail-under sets a baseline. If the match rate falls below it, the process exits with 1 and the build turns red. --annotate draws the diff box over the screenshot, leaving an image to post in a PR comment."
+        },
+        {
+          "t": "p",
+          "x": "It compares pixels, not perception. Anti-aliasing and font rendering differ by machine, so even a page that looks right settles just short of 100. Setting a baseline works better than chasing the last point. A high score can still hide a misplaced component inside it, so the diff box and a human eye remain the final check."
+        },
+        {
+          "t": "p",
+          "x": "Visual regression tools compare an app against its own past self to catch unintended changes. Design Diff compares the app against the design. It catches what actually matters at handoff: the gap between what was drawn and what was built."
+        }
+      ]
+    },
+    "design/design-figma-eraser": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "hOw_XiB9l_0"
+        },
+        {
+          "t": "p",
+          "x": "Figma unveiled a new eraser tool for working right on the canvas. Pick a fill or line, enter vector edit mode, and press Shift + E to turn the eraser on."
+        },
+        {
+          "t": "p",
+          "x": "The fill tool got an update too. Shapes now fill in as you drag."
+        }
+      ]
+    },
+    "design/design-flow-studio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autodesk Flow Studio has moved a step beyond pulling video out of a prompt. It's a workflow that gives generative AI something it has always lacked: control you can direct."
+        },
+        {
+          "t": "p",
+          "x": "On this episode of fxpodcast, Wonder Dynamics co-founder and now Autodesk's Nikola Todorovic talked about Flow Studio's new 3D Editor + Canvas, a system that joins interactive 3D scene building with generative 2D video models in one place."
+        },
+        {
+          "t": "p",
+          "x": "It isn't a tool that turns a single sentence into a film. It's closer to slotting AI into a production workflow, aimed at everyone from solo creators running teams of three to five up to much larger studios."
+        },
+        {
+          "t": "video",
+          "yt": "Kn93P0LREcU"
+        },
+        {
+          "t": "p",
+          "x": "The premise is simple. A director stages things in three-dimensional space: placing cameras, positioning actors, refining performance, and deciding where each shot lands. Trying to convey all of that through text prompts or markers on a flat image was bound to feel limiting."
+        },
+        {
+          "t": "p",
+          "x": "In the 3D Editor, a shot comes together from characters and animation, motion-capture data, camera tracks, and generated environments. A performance can be pulled from one reference clip and a camera move from another, or the camera can be keyframed directly. Gaussian-splat worlds built with World Labs' Marble are also used for blocking, layout, and camera design."
+        },
+        {
+          "t": "p",
+          "x": "Next comes Canvas, a node-based 2D environment. This is where lighting integration, mood, simulation effects, and a cinematic finish, things today's AI video models are especially good at, get added. The 3D scene doesn't produce the final pixels; it only sets performance, staging, composition, and camera movement to steer what gets generated."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/flowA-830x356.jpg",
+          "cap": "A shot built in the 3D Editor drives what Canvas generates"
+        },
+        {
+          "t": "p",
+          "x": "Todorovic talks about an 80/20 rule for generative AI. The first 80% comes together surprisingly fast. The trouble starts when a director asks for a precise fix: moving an object, changing a performance, refining a camera path, all without losing the parts that already worked. In prompt-only work, that last 20% drifts from prediction in frustrating ways."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/flowC-830x346.jpg",
+          "cap": "Performance starts from footage of the actor"
+        },
+        {
+          "t": "p",
+          "x": "That's also why performance is prioritized over prompts. He doesn't believe distinctive performance comes reliably from audio alone, or from a sentence describing the performance. Audio-driven animation works, but gestures and expressions tend to blunt. His preferred order starts with the actor."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/flowB-830x346.jpg",
+          "cap": "A workflow built around where the camera looks"
+        },
+        {
+          "t": "p",
+          "x": "The earlier Wonder Dynamics platform wove together roughly 25 machine learning, computer vision, and generative systems to seat CG characters into live-action footage. Flow Studio's 3D Editor is the next step, gathering those scattered outputs into a single directing environment."
+        },
+        {
+          "t": "p",
+          "x": "Flow Studio runs in the cloud, and the 3D Editor was designed to keep responses uninterrupted. Canvas's generation time varies with the chosen model, shot length, and resolution, and world generation currently takes a few minutes."
+        }
+      ]
+    },
+    "design/design-marvelous-2026": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "hM6viQZeHPI"
+        },
+        {
+          "t": "p",
+          "x": "Today's 2026.1 update brings in the long-requested Seamline Ripping Tool. Paired with Brush Pinching and Pinching Simulation Override, it gives a much stronger hand for shaping clothes directly in 3D."
+        },
+        {
+          "t": "p",
+          "x": "Convincing digital clothing has always balanced two things. Clothes need to react like fabric, but real production often needs to dictate exactly where a single fold sits. 2026.1 widens both sides at once, and anyone interested can try it early through early access."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/70/6a84f2987f7a3.png",
+          "cap": "[Beta] Seamline Ripping Tool: seams burst based on the force applied"
+        },
+        {
+          "t": "p",
+          "x": "The biggest change is that fabric actually tears along the seamline. The [Beta] Seamline Ripping Tool lets seams burst based on how much force is applied to the garment. Instead of building a separate damaged version, the tearing is folded directly into the fabric simulation."
+        },
+        {
+          "t": "p",
+          "x": "A character tied into clothing struggles and a seam gives way; form-fitting costumes rip during violent movement; outfits break down progressively through combat or transformation sequences. Anyone building a post-apocalyptic character can experiment by applying force instead of dictating every frayed edge individually."
+        },
+        {
+          "t": "p",
+          "x": "Being beta, there are rough edges. Fraying is currently disabled on Mac, and it can't be exported as mesh geometry. Marvelous Designer says mesh export and the missing Mac functionality are coming."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/70/6a84c35e86afb.jpg",
+          "cap": "Brush Pinching pushes and pulls fabric along a brush stroke"
+        },
+        {
+          "t": "p",
+          "x": "Brush Pinching pushes and pulls fabric along a brush stroke. Instead of leaving the desired silhouette entirely to a broad simulation, it shapes the garment by hand. Pairing it with Pinching Simulation Override changes things. Fabric can be driven into a desired form inside the 3D window and held there."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/c8/6a84c34be0d04.png",
+          "cap": "A silhouette captured without switching to another program"
+        },
+        {
+          "t": "p",
+          "x": "Take a fighting character with flowing red fabric as an example: these two features alone build the wanted silhouette without jumping to another program for sculpting. Simulation is good at answering how fabric will move. Character art asks a slightly different question: how does the artist want the fabric to move."
+        }
+      ]
+    },
+    "design/design-walmart-3dp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Walmart once bragged about low-price guarantees and how scale protected customers' wallets. Now it 3D prints stores to cut its own costs."
+        },
+        {
+          "t": "p",
+          "x": "Over the past two years, Walmart contractors have used 3D-printed construction at several U.S. sites. Addition walls at five existing stores in Tennessee, Missouri, Alabama, and Arkansas went up this way. It's the largest 3D-printed construction in the U.S. commercial sector. Walmart's scale is pulling along the growth and adoption of a technology that promises to build faster and cheaper."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/i-3-91593315-Design-Walmart-3d-printing.jpg",
+          "cap": "[Photo: FMGI]"
+        },
+        {
+          "t": "p",
+          "x": "Construction 3D printing has mostly stayed in housing so far, because the scale is small and the technology is still early. Expanding into the commercial sector grows the industry itself. Finishing big-budget, large structures reveals both the usefulness of the process and whether it can bend the cost curve."
+        },
+        {
+          "t": "p",
+          "x": "Walmart partnered with Alquist, which makes the robotic 3D printer A1X, and with FMGI, which has long worked with the Arkansas-based retail giant. Walmart declined to comment for this article."
+        },
+        {
+          "t": "video",
+          "yt": "PRM9hqElIlY"
+        },
+        {
+          "t": "p",
+          "x": "Darin Ross, chairman and CEO of FMGI, based in Woodstock, Georgia, says this kind of thing keeps him excited. While building the company up from a basement to national scale, he kept waiting for more change. He's watched construction repeat the same methods for 30 years, he said, and the industry is way behind in adopting new technology and new methods."
+        },
+        {
+          "t": "p",
+          "x": "FMGI operates Alquist printers that stack layers of a concrete composite the way toothpaste gets squeezed from a tube. It recently expanded its existing contract with Walmart to print entire buildings, with more than 30 projects lined up through 2027."
+        },
+        {
+          "t": "p",
+          "x": "It started with a pilot at a store in Athens, Tennessee in September 2024. An Alquist printer raised the walls of an 8,000-square-foot, 20-foot-tall addition. The space was meant to handle growing pickup and delivery volume, and it was the largest 3D-printed commercial structure in the U.S. at the time."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/i-1-91593315-Design-Walmart-3d-printing.jpg",
+          "cap": "[Photo: FMGI]"
+        },
+        {
+          "t": "p",
+          "x": "The learning curve was steep. The rail-mounted robotic printer extrudes a special fiber-reinforced concrete at one-inch thickness so it won't crack while curing. Learning how to print a 20-foot wall took 40 days, and new drawings had to be resubmitted to the city to use the new method. The next site, in Huntsville, Alabama, finished in late February 2025 and took just a week."
+        },
+        {
+          "t": "p",
+          "x": "Ross says watching the speed and accuracy with which the robot stamped out walls was what sparked it. FMGI now has four Alquist robotic units, averaging just under $300,000 each. The company says these projects have cut build time by a third and construction costs by 15%."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/i-2-91593315-Design-Walmart-3d-printing.jpg",
+          "cap": "[Photo: FMGI]"
+        },
+        {
+          "t": "p",
+          "x": "Weather is still a variable. The water and concrete mix flowing through the robotic arm and nozzle has to stay below 91°F and above freezing so it doesn't clog or melt. At the Athens site, temperatures hit 110°F and burst a hose; later, the crew added ice to the machine and printed at night."
+        },
+        {
+          "t": "p",
+          "x": "Upcoming work is mostly standalone gas stations and additions to support online pickup and delivery. Ross said negotiations are in the final stages for building a 50,000-square-foot grocery store with the technology. If it happens, it would be the largest 3D-printed building in the world."
+        }
+      ]
+    },
+    "design/design-nuke-17-1-splat-relight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Foundry has released Nuke 17.1, an update to its compositing lineup. Nuke, NukeX and Nuke Studio all received the overhaul."
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260820_Nuke17_AnimatedSplats.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Most of the Nuke changes center on 3D Gaussian splatting and USD work. It now supports animated splats, relights splats, and brings Hydra 2.0 to the 3D viewer. Nuke Studio gets better annotation tools, contact sheets and A/B comparison."
+        },
+        {
+          "t": "p",
+          "x": "Nuke 17.1 expands the 3D Gaussian splatting toolset first introduced in 17.0. The new GeoSequencer node takes in USD, PLY and SPLAT file sequences and exports them as time-sampled USDC files that work with existing Nuke tools. The SplatRender node now renders to 2D using Direct, Point and Spot lights, enabling what Foundry calls “basic relighting” of splats. Export formats include SPLAT, SPZ, PLY and USD."
+        },
+        {
+          "t": "p",
+          "x": "On the USD side, a non-destructive workflow now supports sublayer definitions and sparse override exports. The GeoExport node defaults to exporting frames one at a time and stitching them together, which uses less memory. The Hydra-based 3D viewer moves to Hydra 2.0, letting users preview AOVs separately and work with render delegates such as RenderMan and Moonray."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260820_Nuke171_Hydra2-1-960x480.jpg",
+          "cap": "Hydra 2.0 support in the 3D viewer, and the new GeoRender node"
+        },
+        {
+          "t": "p",
+          "x": "Nuke Studio's annotation tools gained a shape tool for marking rectangles and arrows. Contact sheets now run per sequence, with a choice of grid view or single-frame view. The new Compare Versions feature runs A/B comparisons inside the timeline and adds custom metadata and expression burn-ins as soft effects."
+        },
+        {
+          "t": "p",
+          "x": "Supported platforms are Windows 11, Rocky Linux 9.0 and macOS 15.0 or later. Annual subscription prices are $3,839 for Nuke, $5,219 for NukeX, $6,379 for Nuke Studio, $462 for Nuke Render and $499 for Nuke Indie. Only Nuke Render rose, by $22 for the year."
+        }
+      ]
+    },
+    "design/design-slack-code-multiplayer-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/jdtwqhzvc2n1/64GVvPFWGaLTPjNLaZ9mdN/740b7f4f14646dcfca71b13822379524/Nuneybits_Vector_art_of_terminal_dissolving_into_colorful_team__390a5221-7b54-4a07-a6a1-b48a95bb2f5c.webp",
+          "cap": "Vector art of a terminal dissolving into a team's colors"
+        },
+        {
+          "t": "p",
+          "x": "Slack, the messaging app owned by Salesforce, has released Slack Code. It puts Anthropic's Claude Code, Cognition's Devin, GitHub Copilot and Vercel's agent into dedicated Slack channels where the whole team can watch, steer, review and ship together. It works across every Slack plan from launch, though a separate license for each partner agent is required."
+        },
+        {
+          "t": "p",
+          "x": "Today, work with coding agents mostly happens unseen, between one person and one agent. Slack Code turns that into a multiplayer activity. Calling an agent from any conversation opens a dedicated project code channel, where code diffs, live previews and the plan in progress show up right in the tabs. Once the work is done, the channel remains as a searchable record."
+        },
+        {
+          "t": "p",
+          "x": "Slack's interim CEO Rob Seaman said in a pre-briefing that code is no longer the bottleneck. “Ideas, taste, judgment, craft. Those are the bottleneck now, and the range of people who can contribute them has widened to everyone on Slack.”"
+        },
+        {
+          "t": "p",
+          "x": "Jeff Wang, Cognition's new president of enterprise, gave a demo. When a report that a feature is broken lands in an engineering channel, Devin acknowledges it with an emoji, replies in the thread, digs into the cause and opens a pull request, tagging the code owner automatically. Devin has its own computer, so it uses Chrome and developer tools to check directly that the feature actually works."
+        },
+        {
+          "t": "p",
+          "x": "The work moves into a dedicated code channel, where engineers, product managers and designers all jump in. In the demo, a designer dropped a Figma file into the channel mid-task, and the agent incorporated it without breaking the flow. The work wrapped up with the code changes, screenshots and a recorded demo showing the feature working."
+        },
+        {
+          "t": "p",
+          "x": "The speed claims came with internal numbers. Merged PRs have grown tenfold in recent months while headcount grew only 40 percent, Wang said. He added that a large share of bug reports now come from the sales team."
+        },
+        {
+          "t": "p",
+          "x": "To the objection that letting anyone call an agent would pile up so-called “AI slop,” Slack's answer is that visibility itself is the fix. Katie Steigman, VP of product, said the multiplayer structure is its own safeguard: others can see your intent, reshape the work, or call out slop and slap your wrist for it. Permissions simply inherit from whoever called the agent. Seaman was emphatic: “There's no god-mode permissions, no bot-level permissions.”"
+        },
+        {
+          "t": "p",
+          "x": "Slack Code arrives while its parent company is unsteady. Salesforce's stock fell about 18 percent over the year through January, and in December OpenAI hired Slack's CEO Denise Dresser as chief revenue officer, leaving Seaman, previously head of product, to take over as interim CEO. That doesn't mean the terminal is finished. Most work will move into a multiplayer setting, Seaman said, but deep, solitary work will keep living in the terminal."
+        }
+      ]
+    },
+    "design/design-v0-connect-100-services": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apps and agents built in v0 can now connect securely, through Vercel Connect, to “more than 100 external services,” including Slack, Google, Notion, GitHub and Salesforce. Telling v0 to connect to a specific service walks through how to set up the connector step by step."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/e5382hct74si/5CGDV3suBMLpD4EfFd5Qy9/027ff5cb3e562044ca94db186909bb52/image__4_.png",
+          "cap": "Setting up a Slack connector for a personal work dashboard"
+        },
+        {
+          "t": "p",
+          "x": "Connectors belong to the team. Once built, they get reused as-is across multiple apps. For connectors like Slack or GitHub, where Vercel handles the app registration itself, the provider side needs no extra setup; for the rest, users enter credentials they've issued themselves. Either way, every connection issues a short-lived token, so there's no secret sitting around that needs to be stored and rotated."
+        },
+        {
+          "t": "p",
+          "x": "Danny of the KERNEL team used v0 and Vercel Connect to build a voice-controlled browser agent that drives a real browser with Playwright code generated on the fly. The same team also built a personal dashboard that pulls together Slack messages, a Gmail inbox and Linear issues on one screen and surfaces only what needs attention right now."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/e5382hct74si/1YeOwNvHMYbSQXrtWjq5oC/8017e9195f3ac505ca69f326c965a09e/0866abf5-d8a7-45d6-a63d-f6e604f72fe1.png",
+          "cap": "A personal work dashboard built with v0"
+        }
+      ]
+    },
+    "design/design-autonomous-website": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A website is at its best the day it goes out. The moment the last branch merges and the site goes live exactly as designed, it's perfect for an instant. It never gets that good again."
+        },
+        {
+          "t": "p",
+          "x": "Not because it breaks. The site keeps running fine. But while the market moves, the messaging shifts, and competitors ship something new, the thing you built carefully drifts a little further from the company. A year later, it's a period piece. It's not broken, it's behind. Teams know this decay is happening and still accept it like a law of nature."
+        },
+        {
+          "t": "p",
+          "x": "Pierre Burgy, Strapi co-founder and the builder of Fimo, says there's no reason it has to be this way. While you sleep, one agent catches and fixes last week's design-system change that never made it to the pricing page. Another optimizes an unoptimized image that slipped into a rushed release. A third flags an accessibility regression a new component introduced, fixing it directly or leaving it for a human to review. By morning, there's a site that's better than yesterday's and a short list asking you to take a look."
+        },
+        {
+          "t": "p",
+          "x": "But the moment you take that promise seriously, you run into a problem that has nothing to do with technology. Almost nobody actually wants a site that changes entirely on its own."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/why-website-should-never-stop-changing/fimo-agents.png",
+          "cap": "In Fimo, you configure directly what each agent is allowed to touch"
+        },
+        {
+          "t": "p",
+          "x": "The Fimo team learned this by building the opposite version first. They aimed for full autonomy, watched how people actually used it, and everyone hesitated. It wasn't that they didn't trust the agents. A website has no single owner. Different areas have different owners, and each wants a different amount of autonomy. The question wasn't whether to trust agents, but where to draw the line, and for whom."
+        },
+        {
+          "t": "p",
+          "x": "Seen that way, the work splits into three groups. The first pile is repetitive labor governed by rules: keeping accessibility intact as pages change, propagating design-system updates when tokens move, catching broken meta tags, unoptimized images, and links that rotted three sprints ago. Nobody was hired for being good at spotting missing alt attributes. It's the tedious 80 percent."
+        },
+        {
+          "t": "p",
+          "x": "At the opposite end is work that shouldn't be handed off no matter the value at stake. Agents can check by rule whether contrast passes, whether heading order is correct, whether tokens are accurate. They can't judge how a page should feel, or whether what's about to ship is actually good. It's a small pile, but that's exactly why it exists."
+        },
+        {
+          "t": "p",
+          "x": "In between is territory where the line differs from person to person. A change that shows dark mode by default to first-time visitors takes an agent seconds to make. For the designer who owns the site's identity, the default theme isn't a setting but a statement about how the brand appears first, and that's a decision they want to make themselves. The same change, to a developer, is a one-line default with a clear rationale. What's a decision for one side is a chore for the other."
+        },
+        {
+          "t": "p",
+          "x": "So instead of picking an autonomy level with a switch, Fimo has you assemble the agents themselves. You decide what each agent is allowed to touch, running the accessibility agent unattended while keeping the content agent close to the brand. Because you can review every run, every log, every before-and-after, trust grows from verification, not familiarity."
+        },
+        {
+          "t": "p",
+          "x": "This is the point Burgy flips around. What people worry about first is an agent secretly changing something, but the real risk is a site that changes nothing at all. A frozen site doesn't stay safe. It falls behind at a speed nobody notices, until it's speaking for a company that no longer exists."
+        }
+      ]
+    },
+    "design/design-instagram-first-draft": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta has added an editing feature to Instagram called First Draft. It automatically trims out the spots where speech breaks or hesitation lingers in a clip. The time once spent polishing footage shrinks, and more of it shifts to deciding what to keep."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/instagram-adds-feature-that-automatically-trims-your-clips/l-intro-1787694097.jpg",
+          "cap": "Instagram First Draft"
+        },
+        {
+          "t": "p",
+          "x": "Using it is simple. Pick a clip from the Reels gallery and tap First Draft. Instagram scans the clip, trims it to a reasonable length, and lays it out on the timeline. You can play it back right there. You can polish it further or post it straight to the feed or Stories. It also attaches on the spot to video you just shot in Instagram."
+        },
+        {
+          "t": "p",
+          "x": "Meta released its standalone editing app, Edits, in April 2025. It was packed with AI editing features meant to make Reels production easier. But the First Draft announcement never uses the word AI once. According to The Verge, that's because it doesn't actually use that technology. In Meta's own classification, First Draft is machine learning, not AI. Still, for Instagram, it's a noticeable change."
+        },
+        {
+          "t": "p",
+          "x": "Lately the app has been a stage for all kinds of AI experiments. Meta AI got pushed into the message window. A feature arrived that rewrites your Stories for you if you type a prompt. None of it seemed essential to the core experience of actually posting something. That's exactly why First Draft's usefulness stands out."
+        },
+        {
+          "t": "p",
+          "x": "First Draft is rolling out to iOS first. Meta hasn't said when it's coming to Android."
+        }
+      ]
+    },
+    "design/design-millwork-drafting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MillworkSuite has launched an AI estimating and direct drafting platform for millwork and casework manufacturers. It reads a set of PDF architectural drawings and returns a priced scope of work, then sends the same line items to HOMAG iX, Microvellum, and CabinetVision to produce cabinet layouts already positioned against the walls. SMI Cabinetry used the platform to cut its drafting time in half. It will be demonstrated August 25 through 28 at booth #C1662, Building C, Level 1, at the International Woodworking Fair in Atlanta. The product line was developed with technology partner CLOUDSUFI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/ms-1.jpg",
+          "cap": "MillworkSuite's AI estimating and drafting platform"
+        },
+        {
+          "t": "p",
+          "x": "The bottleneck is drafting. The work exists, but the drafting queue backs up for weeks at a time. Skilled drafters can't be hired fast enough to match that pace. If a shop estimates ten jobs, only one actually gets drawn, and in the end, drafting determines how fast work moves through the building."
+        },
+        {
+          "t": "p",
+          "x": "The work itself feeds the bottleneck. Starting in HOMAG iX, Microvellum, or CabinetVision means building the same walls you already built last week. Every box gets placed by hand, and each unit needs roughly twenty parameters filled in. After that comes copying, pasting, and nudging pieces until the gaps close. None of the judgment a drafter has built up over years gets used anywhere in that process."
+        },
+        {
+          "t": "p",
+          "x": "MillworkSuite exports a whole elevation at once. The cabinets land exactly where the architect drew them. Because the same line items drive both the estimate and the CAD export, a project gets measured once instead of three times. Work that still needs a human touch, like banners and labeling, material breakdowns and cut lists, and custom items, stays with the drafter. Only the repetitive, stacking work gets taken off their desk."
+        },
+        {
+          "t": "p",
+          "x": "Most takeoff tools cover construction broadly, but MillworkSuite looks at just one trade. It covers uppers and lowers, countertops, vanities, base boards, soffits, and the drafting logic behind them. Dimensions adjusted at the estimating stage carry through to CAD and arrive as finalized width, height, and depth. A mapping table connects detected millwork types to the product types a shop uses. Narrow a lower cabinet's width, and the neighboring unit automatically attaches to close the gap. Project data is encrypted, and even MillworkSuite can't open it."
+        },
+        {
+          "t": "p",
+          "x": "The estimate feeds the export. Upload drawings, and it renames every sheet and groups them by drawing set, scans room names, scale, and millwork types, and links elevation markers to the right sheets. Dimensions and areas are calculated from the page scale and summed across the sheet set. Material costs, labor, and overhead rates are set by the shop, and discounts can apply by line item, by category, or in bulk. A priced estimate becomes a submittable scope of work as is, so the same values never get entered twice. Change sets are tied to the original by sheet number, so what's changed shows up before drafting even starts."
+        },
+        {
+          "t": "p",
+          "x": "It's fully launched now, and subscription pricing is split by feature. Takeoff covers only estimating and quantity takeoff and sells only through certified partners. Starter and Premium add direct-to-CAD drafting exports and go out through both direct sales and partner channels. Shops with high estimating and drafting volume get an Enterprise configuration. Annual prepayment carries a discount, and new customers go through onboarding that covers price catalog setup, CAD library mapping, and team training."
+        }
+      ]
+    },
+    "design/design-photoshop-selection": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "XypxOjfur2c"
+        },
+        {
+          "t": "p",
+          "x": "Adobe showed off Photoshop's new selection tool in a 29-second video. The setup: someone who's always gotten stuck trying to select a slightly blurry subject visits a Photoshop expert because they need a better automatic selection tool."
+        },
+        {
+          "t": "p",
+          "x": "The expert's explanation is short. It's far more precise, and one click picks exactly what you want, every time. Fine-grained selections also get tighter control than before. Subject selection and background removal are the headline examples, cutting out that much tedious work."
+        },
+        {
+          "t": "p",
+          "x": "In the video description, Adobe writes that strong selection tools are the foundation of precise editing, which is why it reworked the feature. It was posted to the Adobe Creative Cloud channel on August 25."
+        }
+      ]
+    },
+    "design/design-vercel-run-sdk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Agents increasingly write their own TypeScript programs to chain tools together and process results. The moment that code touches a real application, you need steps requiring authentication and steps requiring human approval. Running it with a plain eval hands over the same permissions as the surrounding application, including secrets and internal services. There's no way to pause briefly at that boundary either."
+        },
+        {
+          "t": "p",
+          "x": "Vercel has released Run SDK, a package that runs untrusted JavaScript and TypeScript while blocking it from touching the application or system directly. The application exposes only a narrow set of host functions, and execution halts whenever authentication or human approval is needed. Once a decision comes back, the program continues from that point without repeating work it already finished."
+        },
+        {
+          "t": "p",
+          "x": "Run SDK evaluates JavaScript, or TypeScript with its types stripped, inside a fresh QuickJS context spun up within a worker thread. There's no direct path to Node.js or to the network. The application exposes only the functions it chooses through hostFunctions, and those functions get called as globals inside the sandbox. Database clients and credentials stay on the application side. Calls cross the boundary through serialization, and because host functions are allowed to return promises, existing service clients can sit behind them unchanged."
+        },
+        {
+          "t": "p",
+          "x": "Run SDK is the internal module underpinning code-mode tool execution in AI SDK. Handing an agent a whole program changes the unit of work. A single model response can describe multiple calls and the logic between them at once. It can call up a CRM account lookup and an invoice list at the same time, filter out only the overdue ones, and return just the useful result to the application. A support agent can look into an account without ever having to reload an entire billing response back into context."
+        },
+        {
+          "t": "p",
+          "x": "Reading an invoice and issuing a refund are different things. When generated code reaches a sensitive point, a host function halts execution. At that moment, the result carries a signed token. The application holds onto the token along with the approval request and resumes execution once a decision comes in. On resume, the program gets re-scanned from the top, but any host function calls that already finished use their recorded results. The same pattern applies to flows waiting on authentication, and the worker doesn't need to stay alive while it waits."
+        },
+        {
+          "t": "p",
+          "x": "Infinite loops and oversized results have to be stopped too. createRunner() sets shared timeout and memory limits, and each execution can also be tightened individually. A fresh QuickJS context is created for every call, dynamic evaluation is turned off, and built-in prototypes are frozen. Host functions, being trusted application code, still need to run their usual permission checks. Work that needs OS-level access, package installation, or process-level isolation belongs to Vercel Sandbox instead."
+        },
+        {
+          "t": "p",
+          "x": "The first version of this runtime lived inside just-bash under the name js-exec. It was the layer that installed QuickJS and let agents write TypeScript against the shell's virtual filesystem and commands. Vercel split that layer out and swapped the Node-shaped environment for host functions the application defines, then verified agent-written TypeScript against real tools inside eve. Run SDK runs on Node.js 22.13 or later and on Bun."
+        }
+      ]
     }
   }
 }

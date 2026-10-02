@@ -2489,6 +2489,240 @@
           "x": "最终要确认的共有六件事:有没有试用版,是否使用了可信的许可证验证体系,支持渠道是否开放,能否顺畅地承受你的工作,设计是否具有独特性,以及是否有证据表明它曾用于真实的专业场景。不需要技术背景也能做出判断。只需问自己,这款插件是否给人一种确实有人在亲手操控的感觉。vibe coding提高了开发者能力的天花板,风险和期待来自同一场变化。最终,一切都取决于开发者如何使用这项技术。"
         }
       ]
+    },
+    "music/music-ml-plugin-week": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500.jpg",
+          "cap": "在工作室中创作的制作人"
+        },
+        {
+          "t": "p",
+          "x": "MusicTech汇总了本周发布的插件。它们在人声分离和合成上依赖机器学习，但并不以AI自我标榜。"
+        },
+        {
+          "t": "p",
+          "x": "WaveMachine Labs的ReStem 2能把混合的鼓录音拆分成底鼓、军鼓、踩镲、通鼓、骑镲、吊镲以及其余部分。每个分离出的音轨都能单独调节音量、门限和动态。既可实时运行，也可离线渲染处理。底鼓和军鼓通道采用了用于采样替换的Drumagog技术。Core版售价99美元，Pro版199美元。"
+        },
+        {
+          "t": "p",
+          "x": "Minimal Audio的Lucid是一款颗粒合成器。它能实时按音阶重新调音每一个颗粒，并把颗粒叠加成和弦与琶音。配备逐颗粒滤波与成像、带音阶锁定音高移位的多抽头颗粒延迟、支持动画宏的调制，以及八种效果。推出价79美元，正式售价129美元。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/08/MA-Lucid-hero@2000x1500.jpg",
+          "cap": "Minimal Audio的颗粒合成器Lucid"
+        },
+        {
+          "t": "p",
+          "x": "Orph的Monochord是一款将复古硬件采样与和弦编程结合的「梦境机器兼和声工作站」。内置取自Fairlight CMI、Memorymoog、Oberheim OB-X、Casio VL-1、Bontempi B3、Suzuki Omnichord的425种音色。还配有模仿Space Echo和Eventide H3000等设备的15种效果、600多种和弦voicing，以及琶音器和扫弦模式。售价139欧元。"
+        },
+        {
+          "t": "p",
+          "x": "Gulf Coast Synthesis的Spectral是一款可直接绘制谐波的加法合成乐器。将音频或图像拖到Spectral Canvas上即可转换成谐波，也可以用画笔手绘声音。Pattern和Sacred Geometry生成器负责生成频谱，并可用All、Even、Odd、Inharmonic模式挑选泛音。音高漂移、磁带抖动和断音效果还能模拟模拟质感。推出价39美元，正式售价69美元。"
+        }
+      ]
+    },
+    "music/music-phosphor-1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/phosphor-1-728x364.jpg",
+          "cap": "OA-Labs推出的免费Mac合成器OA-Phosphor-1"
+        },
+        {
+          "t": "p",
+          "x": "OA-Labs推出了Mac平台的免费虚拟模拟合成器插件OA-Phosphor-1。"
+        },
+        {
+          "t": "p",
+          "x": "开发者将其介绍为专为「可控的不稳定」而生的合成器，这个说法很贴切。用Phosphor-1也能做出普通的减法合成音色。不过，至少对我来说，乐趣是从让声音摇摆、拉伸、颤动、崩塌开始的。"
+        },
+        {
+          "t": "p",
+          "x": "最近经常提到，靠vibe coding做出来的插件越来越多。BPB News不打算把收件箱里的东西全都写一遍，而是想把重点放在不错的免费插件上。"
+        },
+        {
+          "t": "p",
+          "x": "Phosphor-1的编程也借助了AI。但这并不是靠一次提示就生成的插件。开发者本身是设计师兼音乐人，打磨界面和调整声音大约花了两个月。"
+        },
+        {
+          "t": "p",
+          "x": "自己上手试过之后，觉得很有把玩的乐趣。如果喜欢那种像从拉伸变形的卡带里放出来的声音，或者Boards of Canada那类走音质感，值得看一看。"
+        },
+        {
+          "t": "p",
+          "x": "核心控制旋钮是Age，一次性作用于整个乐器。调高数值后，音高、滤波器、音量和波形会一起开始摇摆。混沌引擎带来的变化从不完全重复，可以从轻微的模拟味瑕疵一直推到更不稳定的状态。"
+        },
+        {
+          "t": "p",
+          "x": "这种设计思路正合我意。我做BPB Dirty VHS是为了实现VHS式的抖动和劣化，做BPB Dirty LA是为了加入粗糙质感的压缩。Phosphor-1处在类似的位置，但它是乐器，而不是效果器。"
+        },
+        {
+          "t": "p",
+          "x": "它有两个振荡器和一个专用副振荡器，可用cross、ring、hard sync混合。还配有从低通经notch、带通到高通变化的变形多模滤波器，以及可操控warp、curve、fold、bias的波形整形器。"
+        },
+        {
+          "t": "p",
+          "x": "生成式琶音器也很突出，不止是简单的上下模式，还带有groove、glitch和逐步概率。此外还有双LFO、音量/滤波器/音高包络、复音与单音模式、连音模式、带spread和phase的齐奏、滑音、最高4倍的超采样、预设浏览器，以及68个预设。"
+        },
+        {
+          "t": "p",
+          "x": "OA-Labs表示正在测试Windows支持，并开放了候补名单登记。未来可能加入混响与延迟、MIDI同步、跟随模式的arp步进、更多预设以及错误修复。"
+        },
+        {
+          "t": "p",
+          "x": "OA-Phosphor-1提供Mac版AU和VST3格式。下载包大小为18MB，填写邮箱即可免费获取。"
+        }
+      ]
+    },
+    "music/music-ai-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/08/AI-Search-For-Artists---Venues.jpg",
+          "cap": "通过Preferred Sources获取AI搜索结果的方法——写给艺人和场馆的指南"
+        },
+        {
+          "t": "p",
+          "x": "随着Google扩大Preferred Sources功能,艺人和场馆多了一个筹码。它可以在AI搜索、AI Overviews和AI Mode中占据优先位置,对抗AI带来的网站流量下滑。"
+        },
+        {
+          "t": "p",
+          "x": "现在,任何网站都可以直接嵌入Google官方的Preferred Source按钮。粉丝点击该按钮后,之后当这位粉丝向AI搜索工具询问音乐、演出时间或场馆规定时,Google会优先展示官方域名,并醒目地加上“Preferred”标志。"
+        },
+        {
+          "t": "p",
+          "x": "首先减少的是票务信息的幻觉问题。AI问答引擎经常把演出时间说错,或把粉丝引向二级票贩诈骗链接,而一旦加上优先标志,官方域名就会被引用为首要来源。点击率也会随之改变。根据Google的数据,在AI搜索结果中,Preferred Source链接被点击的概率大约是原来的两倍。生成式引擎优化(GEO)通常需要复杂的技术设计,而这项功能能把已经积累的粉丝好感直接转化为搜索权威。"
+        },
+        {
+          "t": "p",
+          "x": "可以使用的位置有三处。把Google这个轻量级JavaScript按钮放在官方网站的根域名、巡演或活动页面附近。预售邮件中附上一键链接,请粉丝“在Google把我们保存为Preferred Source,这样AI搜索才会优先显示官方购票链接和演出时间”。在列有场馆规定、入场时间和售票处营业时间的FAQ页面顶部也放一个按钮。当粉丝问AI“[场馆名]的背包规定是什么”时,被引用的就会是你的网站。"
+        },
+        {
+          "t": "p",
+          "x": "安装方式分两种。如果是WordPress或Squarespace这类允许自定义HTML/JS的网站,可以嵌入Google的交互式按钮,让粉丝不离开网站就能一次性完成注册。只需在想显示按钮的位置放一个带google-add-preferred-source-btn属性的div,并在head中加入news.google.com/swg/js/v1/swg-basic.js的脚本标签即可。data-theme可以在dark和light之间选择,配合网站的风格。"
+        },
+        {
+          "t": "p",
+          "x": "如果网站建站工具屏蔽脚本,或者你更想通过邮件、社交媒体、链接聚合页引导粉丝,可以使用Google的直接链接。只需把https://www.google.com/preferences/source?q=yourdomain.com末尾换成自己的根域名即可。粉丝点击后会直接跳转到已预填域名的Google来源设置页面,再点一次即可完成。"
+        },
+        {
+          "t": "p",
+          "x": "AI可见度的争夺,已经不再取决于关键词,而是取决于你掌握了多少粉丝。添加按钮、在邮件里放上链接只需要几分钟,但当最忠实的粉丝向AI搜索提问时,得到的答案就会是你的链接。"
+        }
+      ]
+    },
+    "music/music-aria-charts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/ai-generated-music-to-be-banned-from-aria-charts-in-australia-1024x576.png",
+          "cap": "澳洲ARIA排行榜将剔除AI生成音乐。图片:Johnny Bhalla"
+        },
+        {
+          "t": "p",
+          "x": "根据澳洲唱片业协会(ARIA)新制定的规定,从本周五起,全部或大部分由人工智能制作的歌曲将被剔除出澳洲官方排行榜。即便是借助AI完成的录音,只要是“substantially human-made”,也就是由人类完成了相当一部分创作,仍可以上榜。"
+        },
+        {
+          "t": "p",
+          "x": "ARIA运营着澳洲收听量最高的音乐排行榜,此次它修改了排行榜操作规范,以与全球唱片业确立的原则保持一致。新规范原则上排除使用生成式AI制作的音乐,只有在“substantially human-made”且“raises no stream or chart manipulation concerns”的情况下才作为例外。"
+        },
+        {
+          "t": "p",
+          "x": "不符合资格的曲目,ARIA可以将其从排行榜上撤下、调整排名,甚至收回已经颁发的排行榜奖项。如果艺人或其代表认为判定有误,也可以提出申诉。新规定从8月28日星期五公布的排行榜开始适用。"
+        },
+        {
+          "t": "p",
+          "x": "ARIA首席执行官安娜贝尔·赫德(Annabelle Herd)划清了界限:即便艺人已经在使用AI辅助工具,这与由学习了该艺人录音的AI服务整段生成的音乐,完全是两个不同的问题。赫德说:“这样一来,所有在澳洲发布音乐的人都有了一套清晰的规则可以遵循。”"
+        },
+        {
+          "t": "p",
+          "x": "这项决定的背后,是围绕昆士兰DJ兼制作人乔什·法瓦兹(Josh Fawaz)翻唱的麦当娜(Madonna)《Like a Prayer》所引发的争议。这首歌上个月成为澳洲电台播放最多的歌曲,并在两个ARIA排行榜上冲到第4位,但业内有人指出该曲使用了生成式AI。法瓦兹承认自己把AI“当作工具”使用,后来还将Spotify上的曲目信息修改为人声和鼓由AI制作。"
+        },
+        {
+          "t": "p",
+          "x": "ARIA此次修改的内容大部分遵循国际唱片业协会(IFPI)7月发布的标准。当时IFPI表示,超过20个官方排行榜项目将引入规定,以区分人类制作的录音与AI整段生成的录音。ARIA相关人士解释称,按照IFPI的标准,主唱或核心乐器由AI制作的音乐很可能会被取消资格。法瓦兹的这首歌,似乎也很难再登上排行榜了。"
+        },
+        {
+          "t": "p",
+          "x": "这项举措出现在创作者与AI公司在全球各地爆发争端的背景之下。多家AI公司一直未经许可使用受版权保护的素材进行训练,并以合理使用为由进行辩护。澳洲政府也表示,正在制定包含“strong copyright protections”的AI与数据中心法规,以保护本国创作者。"
+        }
+      ]
+    },
+    "music/music-cyanite-tagging": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-19T125447.316.png?fit=780%2C585&ssl=1",
+          "cap": "描绘Cyanite AI音乐标签技术的插图"
+        },
+        {
+          "t": "p",
+          "x": "德国初创公司Cyanite很早就投身于用AI生成音乐元数据的领域。Music Ally最早在2019年7月报道这家公司,当时其自动标签技术刚从一家名为Groovecat的老公司中拆分出来。"
+        },
+        {
+          "t": "p",
+          "x": "七年多之后,这一平台迎来了一次大改造,也就是Cyanite所称的“Tagging 2.0”升级。分析音乐目录并生成元数据这一核心思路保持不变。"
+        },
+        {
+          "t": "p",
+          "x": "变化的是谁来读取这些元数据。如今不再只是人在看。该公司认为,“探索、整理并真正使用”目录的一方,正越来越多地转向AI系统,范围从对话式搜索、个性化推荐,到目录自动化和智能助手。"
+        },
+        {
+          "t": "p",
+          "x": "许多新调整的功能都是针对这一趋势而设计的。升级后的系统已经被BeatStars、The Source、Rambling Records、Human Worldwide等客户使用。"
+        },
+        {
+          "t": "p",
+          "x": "首席执行官马库斯·施瓦泽(Markus Schwarzer)表示:“AI正在改变音乐行业处理目录的方式。不过这些新工作流程的好坏,终究取决于背后对音乐的理解程度。”"
+        }
+      ]
+    },
+    "music/music-trama": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ohlhorst Digital打造的Trama,是一款可在Windows、macOS和Linux上运行的免费独立AI音轨分离工具。"
+        },
+        {
+          "t": "p",
+          "x": "不久前介绍过的StemDeck,是一款可将曲目最多拆成六轨的免费开源本地分离工具。Trama同样采用离线方案,但专注于四条音轨,并把所需功能全部塞进了一个桌面应用里。"
+        },
+        {
+          "t": "p",
+          "x": "把混音曲目拖进去,就会被拆分成人声、鼓、贝斯和其余部分。四条音轨中,你只需选择想要的组合导出,未选中的部分会合并成一个文件。用不到的音轨,没有必要也一并导出。"
+        },
+        {
+          "t": "p",
+          "x": "界面干净利落,安装也很简单。不需要账号,不用上传到云端,也无需单独下载模型。Windows上解压后即可直接运行,macOS以磁盘映像形式提供,Linux只需解压二进制文件并赋予执行权限即可。"
+        },
+        {
+          "t": "p",
+          "x": "在后台运行的是Meta微调过的Hybrid Transformer Demucs模型htdemucs_ft。四个分离模型都内置在应用中,运行时加载进内存,整个过程无需联网即可在本地完成。"
+        },
+        {
+          "t": "p",
+          "x": "音质可在Normal、High、Ultra中选择。提高设置会让分离过程多跑几轮再取平均,音轨会更干净,但耗时也更长。Ohlhorst Digital建议把High作为稳妥的默认选项。"
+        },
+        {
+          "t": "p",
+          "x": "以High处理一首3分钟的曲目时,开发者给出的时间是:兼容的NVIDIA GPU需1到2分钟,CPU则需10到15分钟。Windows和Linux在有CUDA的情况下会自动调用,但目前还没有AMD GPU加速。在Apple芯片上,MPS后端被关闭,因此会用CPU运行。"
+        },
+        {
+          "t": "p",
+          "x": "也可以把多首曲目加入队列一次性处理。无论是单个文件还是整个队列,都会显示进度和预计完成时间。音轨选择、音质预设和输出文件夹,下次打开时会自动记住。"
+        },
+        {
+          "t": "p",
+          "x": "输入支持WAV、AIFF、MP3、FLAC格式。所有音轨都会以44.1kHz 32位浮点WAV格式输出,其他采样率会在分离过程中被重新采样。BWF数据、Cue点、标签、播放列表、乐器信息、ID3标签、Reaper标记等WAV元数据也会保留。"
+        },
+        {
+          "t": "p",
+          "x": "Trama v1.0.7支持64位的Windows 10/11和x86_64架构的Linux。macOS则需要12及以上版本,且仅支持Apple芯片,不支持Intel Mac。由于模型和库都整体打包在内,下载体积偏大:Windows约3.1GB,macOS为500MB,Linux为3.9GB。"
+        }
+      ]
     }
   }
 }

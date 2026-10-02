@@ -2753,6 +2753,655 @@
           "x": "If faces can be freely changed, the HomePad takes on a different character depending on the room it's in. That means setting different widgets and layouts for the kitchen, the living room, and the bedroom, which gives people a reason to buy more than one. The author wrote that they hope this is the last HomePad delay."
         }
       ]
+    },
+    "gadgets/gadgets-apple-store-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/zZCNqgEqo4VLUAlYqQojEbOWoEg=/400x0/article-new/2026/08/Apple-Store-App-Rolling-Out-Early-Preview-of-AI-Shopping-Assistant-Feature.jpg?lossy",
+          "cap": "The AI shopping assistant open in the Apple Store app."
+        },
+        {
+          "t": "p",
+          "x": "A small group of users has gotten an “early preview” of a new AI shopping assistant in the iPhone's Apple Store app."
+        },
+        {
+          "t": "p",
+          "x": "If your account has it, tapping the speech bubble with two sparkles in the lower right corner of the app brings up the chatbot. You can ask about Apple products, an in-progress Apple Store order, trade-in prices, or payment methods, or start by tapping one of the frequently asked topics shown on screen."
+        },
+        {
+          "t": "p",
+          "x": "MacRumors was first to report that an AI shopping assistant was coming to the Apple Store app, based on a newly posted privacy policy on Apple's website. The policy states that Apple uses personal data to personalize the chat experience and give relevant answers, and, with user consent, to improve the assistant as well."
+        },
+        {
+          "t": "p",
+          "x": "Apple hasn't officially announced this feature yet. It appears to be in a quiet testing phase with a small number of users for now. Many on the MacRumors staff haven't seen the chatbot either, so there's nothing odd about not seeing it."
+        }
+      ]
+    },
+    "gadgets/gadgets-budget-ar-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fooTyD6WY4GY6qYr9ZNZfR.jpg",
+          "cap": "Two budget AR glasses side by side."
+        },
+        {
+          "t": "p",
+          "x": "For years, RayNeo owned the virtual-screen glasses segment starting at $299. This year's Air 4 Pro shows that position well. But in recent months, Xreal and Viture have both released products aimed at thinner wallets: X by Xreal a01+ and Viture Pro 2, both starting at $299."
+        },
+        {
+          "t": "p",
+          "x": "Both companies make the best stuff at the high end of smart glasses. The trouble comes once the price gets cut, where the specs are nearly indistinguishable. Both screens are 1080p micro-OLED with up to 1,600 nits and 120Hz. The field of view is also the same at 50 degrees. Weight is 2.2 ounces for the Pro 2 and 2.1 ounces for the a01+."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/j3i7xtJwvd5ka9oHEL23wX.jpg",
+          "cap": "X by Xreal a01+ with its yellow USB-C cable and blue lenses."
+        },
+        {
+          "t": "p",
+          "x": "The reason to pick the a01+ is looks. Most AR glasses settle for a thick black wayfarer, but this one dresses up with a yellow USB-C cable, blue lenses, a large logo set inside, and swappable faceplates. Xreal doesn't sell faceplates separately, but it recommends 3D printing them. It's also lighter and more comfortable than RayNeo's product. It's one of the few glasses that support HDR through AI SDR-to-HDR conversion, so Apple TV+ watching works too. The flaw is cheap-feeling plastic finishing and no IPD adjustment. The interpupillary distance is fixed from 54.5mm to 74.5mm."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CoCC2WLkrtvyiwn9LV8YDC.jpg",
+          "cap": "Viture Pro 2 finely adjusting its nose pads and arms."
+        },
+        {
+          "t": "p",
+          "x": "Straight out of the box, the Xreal side is lighter and more comfortable, even though the difference is just 0.1 ounces. But the Pro 2 has a lot more room to tweak. Nose pad sizes come in three options, same as Xreal, but can move to seven positions. The temple arms also slide up and down independently on each side, and each lens has its own diopter wheel, a feature neither the a01+ nor RayNeo has. Brightness, refresh rate, and resolution numbers are the same, but the screen looked sharper on the Pro 2. There are up to nine adjustment steps, plus four filters: true color, blue light, cinematic, and warm."
+        },
+        {
+          "t": "p",
+          "x": "The conclusion leans toward the Viture Pro 2. The combination of the diopter wheel, nose pad, and arm adjustments makes it comfortable for long use, and the screen is brighter with more room to fine-tune. If you want style and fun, it's the a01+. For gaming or binge-watching, either choice works out fine. Viture fits well, Xreal does HDR. RayNeo still packs a lot into $299, but there's real competition now."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-device-help": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&w=1600",
+          "cap": "The Pixel 11 Pro with the Gemini overlay open."
+        },
+        {
+          "t": "p",
+          "x": "A new tool called “Device help” has started showing up in the Gemini app on the Pixel 11 Pro. It's a feature that helps with using your phone through a personalized conversation."
+        },
+        {
+          "t": "p",
+          "x": "Opening the Gemini app's plus menu or overlay puts this tool at the bottom of the list, right above Personal Intelligence."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Device-Help-1.jpg?ssl=1",
+          "cap": "Device help, newly added near the bottom of the Gemini tools list."
+        },
+        {
+          "t": "p",
+          "x": "It carries a “Labs” badge, and the description reads “Get help with your device.” The icon is the same one used for Proactive Assistance. This “Device Help Agent” adjusts settings, diagnoses problems, and explains features."
+        },
+        {
+          "t": "p",
+          "x": "On the settings side, it covers display items like dark theme, brightness, and screen timeout, through to sound and vibration mode, Do Not Disturb, and Digital Wellbeing. Troubleshooting touches Wi-Fi, Bluetooth, mobile data, battery drain, audio, and app performance. Under battery and storage, it checks usage, turns on battery saver, and finds ways to free up space. Under apps and permissions, it reviews location, camera, and microphone access, and cleans up notifications and app timers. It walks through Pixel features, gestures, camera, and privacy settings step by step."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't look like something built from scratch, though. It appears to simply use the existing “Device Assistance” connected app, formerly called “Utilities.”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Device-Help-3.jpg?ssl=1",
+          "cap": "A conversation screen with the device help agent."
+        },
+        {
+          "t": "p",
+          "x": "As of this morning, the only device where this tool has shown up is a Pixel 11 Pro updated to Google app beta 17.52. It wasn't on the base Pixel 11 or any older phones checked."
+        }
+      ]
+    },
+    "gadgets/gadgets-glasses-detector-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/zuckoff-app.jpg?w=864",
+          "cap": "Apps like Zuckoff pick up nearby smart glasses through their Bluetooth signal. Photo Paweł Szydłowski/Zuckoff"
+        },
+        {
+          "t": "p",
+          "x": "A pair of black rims can no longer just be assumed to be regular glasses. As Meta's AI smart glasses have spread and other wearables followed, pushback has grown over filming that isn't visible. Smart glasses record, stream, and process video without announcing it to the people around them, unless a small recording light is considered enough."
+        },
+        {
+          "t": "p",
+          "x": "So it's turned into a technology standoff. On one side, modders disable the LED indicator to make the camera even harder to notice; on the other, developers release counter-technology that flags hidden cameras."
+        },
+        {
+          "t": "p",
+          "x": "One of them is the free iOS app Zuckoff. It's a detection tool that finds nearby Ray-Ban Meta glasses or Snap Spectacles, and its name is a pun aimed at Meta CEO Mark Zuckerberg. Apps like Antizuck Smart Glasses Scanner or Nearby Glasses form a small ecosystem of their own. They scan the surrounding Bluetooth band to catch the vendor ID, system identifier, and hardware signature tied to smart glasses, and estimate a rough distance. They can't tell, though, whether recording is happening right now."
+        },
+        {
+          "t": "p",
+          "x": "The Zuckoff website explains it this way: “Glasses broadcast loudest when they power on, pair, or come out of the case. Once paired to the owner's phone, they can go quiet, so quiet doesn't prove no one is recording, and being detected doesn't prove someone is recording either. Signal strength only gives a rough sense of distance, and no sense of direction at all.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/PawelSzydlowski.jpg?w=300",
+          "cap": "Paweł Szydłowski, the developer behind Zuckoff. Photo Pawel Szydlowski"
+        },
+        {
+          "t": "p",
+          "x": "Developer Paweł Szydłowski was working on finding nearby devices via Bluetooth when he realized the same technique worked on smart glasses too. “It's the same technology with the paper just swapped,” he said on a video call with CNET. What pushed him to act were social media videos: clips of someone wearing smart glasses filming a prank or hitting on a woman, where the person filmed had no idea their likeness would end up posted."
+        },
+        {
+          "t": "p",
+          "x": "Since launching in early August, signups have topped 2,000, and an Android version is in beta. The paid tier, $10 a year, keeps detecting in the background even without the app open. Tech reporter Joanna Stern was paid $100 and showed, on video, the process of removing the LED from a pair of Ray-Ban Meta glasses."
+        },
+        {
+          "t": "p",
+          "x": "The trouble comes after detection. Once the app tells you smart glasses are nearby, about all you can do is leave the area or ask someone to take theirs off. Utkarsh Anantkrishnan, an assistant professor of information systems at Carnegie Mellon, believes the norms around wearables still haven't settled. Unlike a smartphone, she says, “smart glasses shift the entire privacy burden onto the person being filmed.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/78259cd7-9c8e-41a8-a762-357d222fd4f9.jpg?w=864",
+          "cap": "The Even G2 smart glasses, which drop the camera entirely. Photo Scott Stein/CNET"
+        },
+        {
+          "t": "p",
+          "x": "Some makers skip the camera altogether. Even Realities' G2 has no front-facing camera. Released in late 2025, the product leans more toward a personal assistant that feeds the wearer information. “We dropped the assumption from the start that smart glasses need a camera to be useful,” Even Realities CEO Will Wang told CNET by email."
+        },
+        {
+          "t": "p",
+          "x": "Smart glasses keep getting cheaper, and models and companies keep multiplying. Demand for detectors is growing right along with it. Szydłowski says he hopes Zuckoff eventually becomes unnecessary. Just as AirTag detection ended up built into iOS and Android by default, he said that if consumers push manufacturers and governments until smart glasses are easy to detect, that would be “the perfect solution.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-airpods-camera-stills": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/we-have-more-details-on-apples-camera-equipped-airpods-and-they-are-pretty-dang-weird/intro-1787327785.jpg",
+          "cap": "Two AirPods resting on a table."
+        },
+        {
+          "t": "p",
+          "x": "Apple accidentally leaked footage of camera-equipped AirPods this week in a macOS Tahoe 26.7 test build. Code buried in the same build revealed more details about these unusual earbuds."
+        },
+        {
+          "t": "p",
+          "x": "Putting a camera on earbuds is strange enough on its own, but how it works is even stranger. Each bud has one camera, and Visual Intelligence software merges the two images into one. What gets captured is an RGB still image of up to 1 megapixel."
+        },
+        {
+          "t": "p",
+          "x": "Head movement is factored in too, which isn't surprising given that Apple's earbuds already carry several accelerometers. Shots that are too shaky or have an obstructed view get filtered out by the software. The code's use of the phrase “peripheral inference” suggests some of the processing happens on the earbud itself, closer to on-device sensing."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't shoot video. Instead, it captures images at set intervals, which is apparently enough for Visual Intelligence to understand the situation."
+        },
+        {
+          "t": "p",
+          "x": "There are two modes, active and passive, with resolution that changes between them, so active mode produces better image quality. Each bud will likely carry a capture indicator light too, a cue meant to let people nearby know the camera is on."
+        },
+        {
+          "t": "p",
+          "x": "The light is a welcome move for privacy, but this product has a different character from Meta's glasses. It isn't built for users to capture and keep the world around them; it's closer to a way of gathering images to feed the Visual Intelligence that Apple is building."
+        },
+        {
+          "t": "p",
+          "x": "Visual Intelligence is one part of the Siri overhaul Apple has long put off. The idea is for a multimodal assistant to analyze images coming from the earbuds and act on them."
+        },
+        {
+          "t": "p",
+          "x": "In the leaked short video, the only use case Apple showed was this: a man asks Siri to remember the book he was looking at. The narration says, “With Visual Intelligence, your world becomes something you can save. See something you like? Just ask it to be saved for later.” Human brains do that too. It's a basic function called memory."
+        },
+        {
+          "t": "p",
+          "x": "The question is how accurately Visual Intelligence can read images sent from a low-end camera. AI models get things wrong often enough even when fed clean data."
+        },
+        {
+          "t": "p",
+          "x": "An answer may not be far off. Apple holds its iPhone 18 event next month. Since the demo footage was sitting in macOS 26.7, more could be revealed there. Still, Bloomberg's Mark Gurman thinks the launch won't come until 2027."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-home-voice-kelvin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-2.jpg?quality=82&strip=all&w=1600",
+          "cap": "A Google Home speaker."
+        },
+        {
+          "t": "p",
+          "x": "Google Home is rolling out an update that fixes long-neglected pain points in its voice assistant. It refines broadcast commands, improves recognition of Spotify requests, and lets smart light color temperature be tuned down to the Kelvin. No need to be embarrassed about it; everyone has a favorite Kelvin value."
+        },
+        {
+          "t": "p",
+          "x": "Google has been steadily shipping worthwhile Home updates lately. Most of them have focused on improving Gemini for Home and on the polish it still needs while in early access. This update touches problems that bothered even the most casual users."
+        },
+        {
+          "t": "p",
+          "x": "The August 20 update includes three changes related to Gemini, Google Home's voice assistant. First, Spotify command recognition has been cleaned up. Google said it “improved how it recognizes songs, artists and playlists requested from Spotify.” Anyone who has used Google Home for a while knows a specific song request would sometimes work and sometimes wouldn't. A general command could get misread as a music request, blasting a random song at an uncomfortable volume. The hope is that this update cuts down on that."
+        },
+        {
+          "t": "p",
+          "x": "A change to how broadcasts are handled is also in the changelog. Broadcasts will now split into two steps: ask Gemini for a broadcast, wait, then tell it what the message is. That beats the old way of cramming it all into one sentence, which often led to misunderstandings."
+        },
+        {
+          "t": "p",
+          "x": "The last voice assistant change will please anyone particular about color temperature. Google Home now understands specific color temperature requests. Say “Hey Google, set the living room lights to 2700 Kelvin” and the color changes precisely. It was always possible in the app, but not easy by voice. Now there's a reason to memorize your color temperature values."
+        },
+        {
+          "t": "p",
+          "x": "The changelog also lists several app-side fixes. Temperature units are now unified across every device, and support for European-style door locks is being added."
+        },
+        {
+          "t": "p",
+          "x": "Google said the app crashes less on iOS devices, and offline camera controls stay consistent even when connectivity is unstable. The improvement comes after Google recently expanded support for third-party cameras."
+        },
+        {
+          "t": "p",
+          "x": "On Android, a bug that locked camera streams at 360p is fixed. As long as the connection can handle it, those cameras will stream at their native resolution."
+        },
+        {
+          "t": "p",
+          "x": "Finally, a clear notification will appear if a Google Home Premium payment fails, meant to prevent features or camera storage from suddenly cutting off one day. The August 20 update starts rolling out today."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-camera-hardware-lock": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new patent filed by Meta includes a ‘hardware lock’ that physically blocks the camera on smart glasses, according to Android Central."
+        },
+        {
+          "t": "p",
+          "x": "The target is the fierce backlash against always-on AI glasses. The distrust over not knowing when a camera is active hasn't been settled by software settings alone."
+        },
+        {
+          "t": "p",
+          "x": "The approach the patent proposes moves privacy from a settings-screen problem to an industrial design problem. Whether recording happens is decided by a physical mechanism you touch, not a toggle switch."
+        },
+        {
+          "t": "p",
+          "x": "Putting consent in the hands of a mechanical device is a matter of product design, not privacy policy. A patent is just a patent, though, and it isn't yet known whether this lock will make it into an actual pair of glasses."
+        }
+      ]
+    },
+    "gadgets/gadgets-oura-sleep-lawsuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.zdnet.com/a/img/resize/2fe8e65a882479ce058e9ebe7ae1bc08b66033e0/2026/05/27/14322f9f-76e3-4684-a821-387d12dd2a3f/oura-ring-5-lifestyle-6-gold.png?auto=webp&fit=crop&height=900&width=1200",
+          "cap": "The Oura Ring. Image credit: Oura/ZDNET"
+        },
+        {
+          "t": "p",
+          "x": "Can a smart ring that measures biometric signals like heart rate, body temperature and respiratory rate pinpoint sleep stages from that data alone? That question sits at the center of this lawsuit involving Oura."
+        },
+        {
+          "t": "p",
+          "x": "The class action filed against Oura claims the wearable company engaged in unlawful marketing that misled consumers about the sleep-tracking accuracy of its smart ring. In the plaintiffs' view, the Oura Ring lacks the sensors and signals needed to properly measure the neural activity that defines sleep stages, namely brain waves, eye movement, cardiac activity, muscle movement and finger PPG."
+        },
+        {
+          "t": "p",
+          "x": "The complaint states, “Oura's AI model merely guesses at what is happening based on the wrong inputs, and sells flawed AI inference as credible science, exploiting consumers who are desperate about sleep or worried about their health.”"
+        },
+        {
+          "t": "p",
+          "x": "The lawsuit targets Oura, but the fallout could spread to other wearables that detect sleep stages with similar sensors. The question remains whether signals taken from the wrist or finger really translate into accurate diagnostic measures."
+        },
+        {
+          "t": "p",
+          "x": "Madison Server, the plaintiff named in the complaint, paid $503 for an Oura ring last year, believing it would track her sleep accurately. She claims she paid an “unjustified premium” for a device that fell short of its marketing promises. The complaint cites a Nature study finding the smart ring achieved only “limited accuracy” in determining sleep stages, correctly identifying each stage 53% of the time."
+        },
+        {
+          "t": "p",
+          "x": "“Sleep happens in the brain, not in the finger.” If that single line from the complaint is accepted as fact in court, it would shake the multi-billion-dollar health wearable industry, because its entire value proposition rests on that premise. Smart rings and smartwatches read heart rate, heart rate variability, body temperature, blood oxygen saturation and respiratory rate from the finger or wrist to judge activity, sleep and even stress. The market's success and growth hinge on this translation of biometric signals."
+        },
+        {
+          "t": "p",
+          "x": "Oura told ZDNET that it “stands behind our science, research and accuracy claims.” The company's response is that “there is well-documented, independently peer-reviewed scientific evidence that sleep stages are linked to distinct, measurable and reproducible physiological changes, which is why we classify sleep stages using these signals.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-rayneo-io-gt-split": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/rayneo-ar-smart-glasses-io-gt-series/intro-1787321898.jpg",
+          "cap": "RayNeo iO smart glasses."
+        },
+        {
+          "t": "p",
+          "x": "RayNeo's new AR glasses span one extreme that's utterly ordinary and another that's openly loud. The RayNeo iO smart glasses look like regular glasses but hide a small display, a sophisticated voice-capture setup and AI features that assist through the day. On the other end sits the GT series, which the company describes as built for “cinema-grade spatial viewing.” It looks like oversized sunglasses with thick arms, the kind that draws stares when you wear them out."
+        },
+        {
+          "t": "p",
+          "x": "The two product lines serve different purposes from the start. The 33-gram iO smart glasses are meant to be worn all day, replacing the ordinary glasses you wear now. A small green monochrome display with a 23.5-degree field of view shows a simple interface and short text, things like real-time translation or a prompter for a speech. The GT series is dedicated-use display glasses for watching movies, gaming and working on a large virtual screen. One device might someday do both jobs, but that's a stretch with today's technology."
+        },
+        {
+          "t": "p",
+          "x": "Going by the released product images and specs alone, the iO smart glasses are an interesting option for anyone who wants to add a bit of intelligence to the glasses they already wear. But RayNeo gave up some things to get a look far more “normal” than Meta's bulky Ray-Ban display glasses. A monochrome display is one of them, and, surprisingly, there's no speaker."
+        },
+        {
+          "t": "p",
+          "x": "RayNeo instead put its weight behind capturing voice well. It arranged four microphones and added a bone conduction sensor that, per the company, “isolates vocal cord vibrations for perfect transcription even in noisy environments.” That's useful for real-time translation and voice commands, and it also feeds RayNeo's ambient AI productivity suite, which listens to conversations to “extract action items” and suggest schedule changes."
+        },
+        {
+          "t": "p",
+          "x": "RayNeo said the iO smart glasses use Timekettle BabelOS 3.0 translation software to translate 55 languages and 109 accents in real time with roughly a one-second delay. The battery is said to last two days, about 18 hours of continuous recording, or 6.2 hours of translation."
+        },
+        {
+          "t": "p",
+          "x": "As with the Xgimi MemoMind One, there's something unsettling about an AI feature that's constantly recording you. RayNeo said an indicator light turns on during recording and translation, but as we saw with Meta's Ray-Ban hardware, that's easy enough to cover up. These glasses have no camera, though, so they dodge the “creep glasses” mockery."
+        },
+        {
+          "t": "p",
+          "x": "The new GT and GT Max go head to head with premium cinema displays like the Xreal One Pro. At 68 grams and 78 grams, roughly double the iO, they have room for a much larger display. The GT projects a virtual screen up to 231 inches with a 46-degree field of view, and the GT Max goes up to 307 inches with a 59-degree field of view. The wider the field of view, the more screen you see without turning your head."
+        },
+        {
+          "t": "p",
+          "x": "Per the company, the GT is weighted toward AR gaming and video viewing, while the GT Max leans into a “cinema-grade AR display.” Both GT models carry four speakers tuned with Bang & Olufsen and use a 3DoF AR chip to anchor the screen in space. Connected to the separate RayNeo Pocket TV Pro, a Google TV-based streaming device, they also play back Dolby Vision HDR."
+        },
+        {
+          "t": "p",
+          "x": "Pricing hasn't been announced yet. It will likely be revealed before the September 4 retail launch. RayNeo will show off all the new glasses at IFA in early September."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-m6": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple unveiled the M6 chip. It's the first chip built on a 2-nanometer process, and it comes with a Dual 16-core Neural Engine."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/Nupss_8A02Q9UCCL40qBe1db2J8=/1672x/article-new/2026/08/m6-chip.png",
+          "cap": "Apple M6 chip"
+        },
+        {
+          "t": "p",
+          "x": "The CPU gains two cores over M5, bringing the total to 12: two super cores, four performance cores, and six efficiency cores. Apple says single-thread performance is the fastest in the world, and multithreaded performance is up to 1.2 times faster than M5 and up to 2.4 times faster than M1."
+        },
+        {
+          "t": "p",
+          "x": "The GPU also gains two cores, for 12 total, each with a Neural Accelerator. Peak GPU performance on AI workloads rises nearly 30% over M5 and more than 8 times over M1, speeding up prompt processing for on-device LLMs."
+        },
+        {
+          "t": "p",
+          "x": "Apple also reworked the shader core architecture, Dynamic Caching, and hardware-accelerated ray tracing. Geometry throughput is up 50%, handling more complex graphics."
+        },
+        {
+          "t": "p",
+          "x": "The Dual 16-core Neural Engine that M6 introduces delivers up to twice the peak compute of the previous generation. Because the system frameworks automatically use both engines at once, apps run AI models faster."
+        },
+        {
+          "t": "p",
+          "x": "Unified memory tops out at 32GB, with bandwidth up to 170GB/s, 10% wider than M5 and 2.5 times wider than M1."
+        },
+        {
+          "t": "p",
+          "x": "M6 debuts in the new Mac mini, launching Tuesday, September 22."
+        }
+      ]
+    },
+    "gadgets/gadgets-claude-firmware-hack": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Here's another case showing how AI can turn into a threat to our devices. An Amazon security engineer demonstrated just how capable Claude Opus is at reverse-engineering PC peripherals."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gYocvkPAnx8FcKQz6eTGsa.jpg",
+          "cap": "Webcams and microphones became the test subjects (Image credit: Shutterstock / LightField Studios)"
+        },
+        {
+          "t": "p",
+          "x": "Chaz Schlarp, a senior security engineer at Amazon, wrote up an experiment he ran on peripherals like webcams and microphones. He wanted to find out how easily AI could rewrite firmware to pull off useful tricks. The dark side is just as clear: the same approach, used maliciously, turns these devices into a way into a system."
+        },
+        {
+          "t": "p",
+          "x": "The targets were an Insta360 webcam, a Shure microphone, an Asus monitor, an Elgato video capture stick, and an Elgato mini light for streaming. He used Claude Opus 5 for the work."
+        },
+        {
+          "t": "p",
+          "x": "Here's how Schlarp describes it: “The process was nearly identical for each device. I'd pull the firmware and update tools from the manufacturer, drop them into my reverse-engineering setup, tell Claude Opus 5 the goal, and let it run.”"
+        },
+        {
+          "t": "p",
+          "x": "One thing became clear quickly: none of these devices had any meaningful firmware integrity protection. Only the Elgato light had any defenses at all, and even those weren't hard to bypass."
+        },
+        {
+          "t": "p",
+          "x": "There were useful examples too. On the Asus ROG Swift PG42UQ monitor, he found a way to get rid of the annoying pop-up that periodically nags you to run “pixel cleaning.” He hasn't applied it to the firmware yet. He also found a way to run the Windows utility DisplayWidget's features on Linux, binding a hardware crosshair or an FPS counter to a shortcut via a shell script."
+        },
+        {
+          "t": "p",
+          "x": "Most of what he did, though, was meant to show how easily firmware flips once you hand the hard work to AI. Turning off a webcam's recording indicator light was one example. Like surveillance malware, the camera can film secretly while the user has no idea. The same goes for the microphone: he produced a plain-text command shell that leaves the mute LED lit while the mic isn't actually muted."
+        },
+        {
+          "t": "p",
+          "x": "Schlarp wrote: “Peripherals turned out to be an ideal target for agentic reverse engineering. They're small computers attached to my computer, connected to the host via data, and usually have a firmware update path, which gives an agent something to keep trying against. The result is that I now have better control over, and understanding of, my machines.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xyobc3yZ8F2nn4HA7tQEXY.jpg",
+          "cap": "The microphone's mute indicator was also disabled (Image credit: Shure)"
+        },
+        {
+          "t": "p",
+          "x": "The key point is speed. Taking over all five devices took the AI 13 hours of self-directed work, with fewer than 100 prompts from a human."
+        },
+        {
+          "t": "p",
+          "x": "In Schlarp's words: “Hardware is now essentially wide open with a couple of hours per device, and that's mostly hands-off labor handed to the machine.” He said he's looking forward to a near future where adding features to webcam firmware feels as routine as patching software on Linux."
+        },
+        {
+          "t": "p",
+          "x": "He raised the flip side of the story himself, too. “As a security professional, this is scary for several reasons. I'll be operating under the assumption that any device plugged into a computer could have a malicious firmware implant. This used to be work that required real investment per model and was considered the domain of ‘nation-state actors.’”"
+        },
+        {
+          "t": "p",
+          "x": "The thing that's held back these kinds of attacks has always been labor and time, which kept them limited to going after valuable targets one at a time. If an AI agent takes over that grunt work, the same attack becomes far more common."
+        },
+        {
+          "t": "p",
+          "x": "In other words, a peripheral plugged into a PC becomes a way into you and your system. Schlarp also said he got a root shell on a Dell commercial display, adding: “Letting untrusted clients touch these things was never great practice to begin with, but now the speed and scale have changed, and that makes the risk much bigger.”"
+        },
+        {
+          "t": "p",
+          "x": "A bigger threat remains, too. “It's a very small leap from here to imagining someone building self-replicating malware that scouts the environment, feeds reconnaissance data to a smart command-and-control system, and pushes itself into the accessories, IoT devices, and industrial equipment sitting next to an infected target.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-garmin-epic": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Garmin recently launched its first screen-free wearable, and leaks kept pointing to a new smartwatch waiting in the wings. That watch is here: the Garmin Fenix 9 and Fenix 9 Pro. The hardware is better than the Fenix 8, but as with rivals that lean less into sport, the real story is in the software."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/20260428_SOCIAL_RECOD_3740.jpg",
+          "cap": "Garmin Fenix 9"
+        },
+        {
+          "t": "p",
+          "x": "The Fenix 9 comes in three sizes: 43mm, 47mm, and 51mm. All of them use a round AMOLED covered with a sapphire lens. Unlike the Fenix 8, where AMOLED was an optional upgrade, it's now standard across the lineup, and brightness is double the previous model's. It withstands diving down to 10 ATM, and the battery lasts up to 10 days on the smallest size. It packs 64GB of internal storage for offline maps and local music playback. It also includes a built-in flashlight with adjustable brightness, plus a mic and speaker for voice commands and calls. It works with Garmin's new stretch ComfortFit band as well."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/08/87619-2-D.jpg",
+          "cap": "The Fenix 9 Pro has a full titanium body (© Garmin)"
+        },
+        {
+          "t": "p",
+          "x": "The Fenix 9 Pro comes in the same three sizes but with a full titanium body. Its AMOLED, protected by a sapphire lens, grows up to 1.5 inches on the 51mm model. A solar-charging display and an inReach satellite connection for receiving messages and weather off-grid are optional. The mic, speaker, and flashlight are the same as on the standard model, but the Pro's light adds red and green."
+        },
+        {
+          "t": "p",
+          "x": "Both models support new stamina tracking, which shows how endurance has changed across your training history, and measurement for indoor rowing and rucking workouts has also improved. What stands out is Garmin Epic. Offered for free, this feature bundles multiple workouts and activities into one \"epic\" covering a specific trip, training period, or outdoor adventure. Garmin says it can combine up to 92 days of different activities, with photos and notes attached alongside the records. The summary is built as much for looking back on your own experience as for sharing it with others."
+        },
+        {
+          "t": "p",
+          "x": "Pricing starts at $1,000 for the Garmin Fenix 9 and $1,100 for the Garmin Fenix 9 Pro — eye-widening numbers in a market now full of cheap fitness bands. Both models can be ordered from Garmin starting August 28, with pricing rising depending on size and, for the Pro, the solar and satellite options."
+        }
+      ]
+    },
+    "gadgets/gadgets-nothing-os5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nothing has officially unveiled Nothing OS 5.0. The goal it showed in a recent company update video comes down to one thing: making hardware and software, which had felt like two separately built pieces stuck together, feel like they came from the same mind."
+        },
+        {
+          "t": "p",
+          "x": "Nothing's design lead said he's wanted hardware and software to feel like a single product since the Phone 1. The industrial design language that started with the Ear 1 carried over to the phones, but the software took much longer to catch up. OS 5.0 was introduced as the version that finally closes that gap."
+        },
+        {
+          "t": "video",
+          "yt": "42BR1TMtz9c"
+        },
+        {
+          "t": "p",
+          "x": "The Geist font, previously used only in marketing and the Playground, now moves into the OS itself. Transparency gets pushed further too: widgets sit on the wallpaper with depth instead of lying flat. This design, spanning typography, icons, and color, is applied consistently across the camera, gallery, widgets, settings, and launcher."
+        },
+        {
+          "t": "p",
+          "x": "There's also more room to customize. Two new lock screen clock styles are added, one sleek and simple, the other dense like a terminal. Initial setup has been simplified, and batch editing arrives too, letting you move home screen elements all at once instead of dragging them one by one."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-new-clock-design.jpg?resize=2000%2C1200",
+          "cap": "Two new clock designs added to the lock screen"
+        },
+        {
+          "t": "p",
+          "x": "Glyph gets a dedicated app. Nothing acknowledged that people like the feature but find it fiddly to configure, so it's shipping a separate app that makes the Glyph interface easier to adjust. Two widgets are added as well: a downtime tracker meant to encourage putting the phone down, and a collection widget that turns photos of things you treasure into home screen stickers."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-New-widgets.jpg?resize=2000%2C1200",
+          "cap": "Two new widgets"
+        },
+        {
+          "t": "p",
+          "x": "The Essential Suite got attention too. Essential Voice, which lets you control the phone by speaking, keeps refining its model, latency, and dictation accuracy. Essential Space, where easily lost notes and files get collected, now has smart collections and MCP support, letting you connect the AI tools you already use directly to your own data."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-Collections-in-Essential-Space.jpg?resize=2000%2C1200",
+          "cap": "Smart collections added to Essential Space"
+        },
+        {
+          "t": "p",
+          "x": "The Essential Apps beta is also expanding. It lets you vibe-code widgets right on the phone, with examples shown including a custom-built metronome and a morning routine planner that pulls together your commute and first meeting."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/Nothing-OS-5.0-Essential-Apps.jpg?resize=2000%2C1200",
+          "cap": "Example of a widget built and used directly on the phone"
+        },
+        {
+          "t": "p",
+          "x": "Nothing OS 5.0 runs on top of Android 17. Quick settings and notifications are now split instead of sharing one panel, screen recording has improved, and 3D emoji have arrived. Privacy, security, and Bluetooth performance have also improved."
+        },
+        {
+          "t": "p",
+          "x": "The beta opens tomorrow at nothing.tech. The Nothing Phone 3 comes first, with other devices added gradually."
+        }
+      ]
+    },
+    "gadgets/gadgets-perplexity-portable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI assistants usually have to send your questions, files, and data to someone else's servers to work. Perplexity's new Portable Computer flips that structure, running the entire AI system on hardware you own."
+        },
+        {
+          "t": "p",
+          "x": "Unveiled on Tuesday, the product moves Perplexity's agent platform, Computer, onto an Nvidia DGX Spark, or onto a Linux machine with a compatible Nvidia graphics card."
+        },
+        {
+          "t": "p",
+          "x": "According to the company, every task starts on your device. When the local model hits a step that needs deeper reasoning, it first asks whether that one step can be sent to a frontier model in the cloud. The answer comes back into the local workflow, and files and sensitive information stay on the device."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/oW2jKymtiv2rQ7N8Fqenh8.jpg",
+          "cap": "An agent running on your own hardware (Image credit: Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "It's an appealing picture for anyone who wants the convenience of an AI agent without automatically handing everything the agent touches to a cloud provider."
+        },
+        {
+          "t": "p",
+          "x": "Downloading an open model and running it on your own computer is already possible. The hard part is turning that model into an agent that can handle files, use tools, and complete multi-step tasks."
+        },
+        {
+          "t": "p",
+          "x": "Normally, you'd have to find and set up an inference engine, an agent harness, a sandbox, and connectors for outside apps yourself. Making all the pieces fit together was also on you."
+        },
+        {
+          "t": "p",
+          "x": "Portable Computer bundles that whole stack together. A local model, an inference engine, agent tools, app connectors, and an isolated sandbox for running code and using tools all come packaged in."
+        },
+        {
+          "t": "p",
+          "x": "It handles files stored on your computer, reads PDFs, and runs shell commands. It also does dictation and web search. It connects to services like Google Drive, Gmail, Slack, and GitHub."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity says code and tool use happen inside the local sandbox. That puts some kind of wall between the agent and the rest of the device, though exactly what it can access and how permissions are controlled is something worth learning more about."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YwKRVzwvLwup6hDGh5bVNM.jpg",
+          "cap": "Hybrid routing is the core of this product (Image credit: Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "Even a small local model is enough to find files, pull information out of a PDF, and handle a few simple steps. But it's hard to expect reasoning power on par with the largest models from OpenAI, Anthropic, or Google."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity's answer is simple. It keeps a task local until it hits a point the model clearly can't handle well, and at that moment, asks whether that step can be handed off to a cloud model."
+        },
+        {
+          "t": "p",
+          "x": "Users never pick a privacy mode or write routing rules. The system makes the call mid-task, and a human approves the moment it hands something off. A \"local\" AI that quietly slips to the cloud every time things get hard wouldn't deserve the name."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity says work finished locally doesn't use billing credits. Only the portion that goes to the cloud counts as usage."
+        },
+        {
+          "t": "p",
+          "x": "At launch, the models you can choose are a 27-billion-parameter Qwen and PPLX 27B, which Perplexity post-trained itself. Nvidia's Nemotron 3.5 Lightning is set to follow, and there's also a path to bring your own model and inference server and plug it in."
+        },
+        {
+          "t": "p",
+          "x": "The catch is hardware. The software ships for Linux first and requires Nvidia hardware with at least 24GB of VRAM. It supports the desktop-sized Nvidia DGX Spark, as well as ARM and x64 computers running DGX OS or Ubuntu. Windows support is slated for September, and there's no macOS plan yet."
+        },
+        {
+          "t": "p",
+          "x": "It's available to Perplexity Pro, Max, Enterprise Pro, and Enterprise Max subscribers. Even among people whose subscription qualifies, not many have that kind of equipment under their desk. So this first rollout is less about people weighing ChatGPT against Perplexity on a laptop, and more about enthusiasts, developers, and companies already running high-performance Nvidia systems."
+        },
+        {
+          "t": "p",
+          "x": "The idea itself has room to spread much further. The information an AI assistant touches keeps moving into increasingly private territory: email, work documents, files on your computer. Pulling more of that work onto a local device gives users more say over what gets sent out, and when."
+        },
+        {
+          "t": "p",
+          "x": "Portable Computer won't replace cloud chatbots anytime soon. But it offers an early look at what a more private AI assistant could look like once that kind of hardware becomes affordable."
+        }
+      ]
     }
   }
 }

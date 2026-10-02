@@ -2508,6 +2508,310 @@
           "x": "Siguió una confesión sorprendente. Kim dijo que «cada escena de este juego se hizo originalmente por completo como escenas dentro del propio juego», y que el equipo «solo recientemente empezó a sustituirlas por escenas de IA». «Lo que están viendo ahora está en medio de esa sustitución. Así que si parece que no se le puso esfuerzo, es razonable leerlo así a partir de lo que aparece en pantalla. Mirando atrás, esa sustitución fue una decisión equivocada. Al mismo tiempo, por eso mismo se puede corregir rápido: la versión dentro del juego ya existe.» El cierre de Kim: la sustitución empieza de inmediato y estará terminada antes del fin de semana."
         }
       ]
+    },
+    "games/games-miris-spatial": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El video funciona desde hace mucho con streaming adaptativo. Un solo archivo original llega a cualquier pantalla y cualquier conexión, y la reproducción empieza casi sin espera. Miris trasladó ese enfoque al 3D. 80 Level le preguntó al CTO de Miris, Sean Looper, qué cambia el streaming espacial para los desarrolladores."
+        },
+        {
+          "t": "video",
+          "yt": "nma846ogvkw"
+        },
+        {
+          "t": "p",
+          "x": "Looper empezó en animación y efectos visuales. Dirigió equipos de gráficos de streaming en tiempo real y HPC en DreamWorks Animation, y también pasó por Sony Pictures Imageworks, trabajando en más de 60 películas en el camino. Más tarde construyó productos de HPC para procesamiento gráfico en tiempo real a escala de miles de CPU en AWS, y empezó a trabajar con Miris hace unos tres años."
+        },
+        {
+          "t": "p",
+          "x": "La entrega de 3D siempre ha sido un compromiso. Prerrenderizar como una película da la mejor calidad de imagen pero fija el punto de vista; los motores de juego se mueven con libertad pero recortan calidad de imagen. El pixel streaming, que alquila GPU en la nube, suma nuevas cargas de suministro de GPU, costo y latencia. Looper dice que la industria ha tratado este compromiso como una ley física. Esa premisa se rompió cuando la IA empujó la carga de cómputo hacia el frente."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/43/images/6a7e4e1d59cb0/widen_1840x0.jpg",
+          "cap": "Imagen de marca de Miris — 3D streaming without limits"
+        },
+        {
+          "t": "p",
+          "x": "Cuando un cliente entrega el activo original de mayor calidad, la optimización con IA corre entre minutos y horas según el activo y la configuración. El resultado es, en efecto, una única base de datos espacial. A partir de ahí, un cliente inteligente lee el rendimiento del dispositivo, el estado de la red, el punto de vista desde el que se mira el contenido y la naturaleza del activo, y trae solo lo justo y necesario."
+        },
+        {
+          "t": "p",
+          "x": "El caso de uso con mayor respuesta ahora mismo es la revisión de activos. Equipos distribuidos revisan el original, con la iluminación, los materiales y la geometría densa intactos, en una tablet, un iPhone o una laptop de gama baja. La visualización médica, los medios y el entretenimiento, el comercio electrónico y los gemelos digitales industriales enfrentan el mismo problema. El SDK está en GitHub, y se integra con unas pocas líneas de TypeScript o HTML puro."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/9a/images/6a7e4a19dffba/widen_1840x0.png",
+          "cap": "Sean Looper, CTO de Miris"
+        },
+        {
+          "t": "p",
+          "x": "Looper cree que el 3D sigue el mismo camino que recorrió internet al pasar de centrarse en imágenes a centrarse en video, y que la IA generativa acelera mucho ese ritmo. Así como las cámaras de los smartphones abrieron la producción de video, personas que no podían manejar software profesional ahora hacen 3D."
+        }
+      ]
+    },
+    "games/games-nexxus-ai-labs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Neksseosseu (CEO Jang Hyun-guk) anunció el día 19 que había abierto 'Neksseosseu AI Labs,' un portal que reúne 11 soluciones de IA desarrolladas internamente. El portal se creó para llevar los resultados de la investigación en IA más allá de las demostraciones y demostrarlos como productos comerciales listos para usarse de inmediato en el trabajo real."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/08/19/6863fe42f79eab5c64bd64fcb166bda0.png",
+          "cap": "Neksseosseu presenta el portal 'AI Labs' que reúne 11 soluciones de IA"
+        },
+        {
+          "t": "p",
+          "x": "Las soluciones presentadas se construyeron con la plataforma de desarrollo autónomo 'Neksseosseu AI Framework.' Al ingresar un objetivo, 33 agentes de IA y 39 funciones especializadas colaboran para llevar a cabo automáticamente todo el proceso, desde la planificación hasta el diseño, el desarrollo y la verificación. Es una estructura que produce productos pulidos sin que una persona escriba código directamente."
+        },
+        {
+          "t": "p",
+          "x": "Las soluciones registradas en el portal se dividen en tres áreas: creación de contenido, automatización de trabajo e integración con blockchain. El área de contenido incluye la herramienta de creación de modelos 3D 'Text to 3D,' la solución de creación de trailers publicitarios 'Eibeu' y el generador de pixel art 'Perfect Pixel.' El área de automatización de trabajo está compuesta por la plataforma de marketing 'Kiroro,' la solución de organización automática de actas de reuniones 'Bap' y 'ImageToApp,' que convierte planes en apps."
+        },
+        {
+          "t": "p",
+          "x": "En el área de integración con blockchain, presentó 'OneChain Skill,' basada en comandos en lenguaje natural. Esta solución demostró su seguridad en junio pasado al pasar todos los puntos de la inspección de seguridad de habilidades de IA de CertiK, la empresa global de seguridad Web3. Además de estas, la herramienta de creación de juegos basada en texto 'wasd,' la solución de video con IA 'Red Studio' y 'StoryMaker' completan las 11 soluciones ofrecidas."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Neksseosseu, Jang Hyun-guk, dijo: “Una de las claves de la era de la transición a la IA está en qué tan rápido se puede demostrar la investigación tecnológica como un producto verificable en la práctica”, y añadió: “Estamos implementando productos a la velocidad del pensamiento mediante IA, y planeamos expandir esa capacidad a todo nuestro negocio de plataformas blockchain.”"
+        }
+      ]
+    },
+    "games/games-roblox-roost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Roblox va a liberar como código abierto tres de sus modelos de seguridad con IA a través de ROOST (Robust Open Online Safety Tools Model Community). ROOST es una organización independiente sin fines de lucro que construye y mantiene infraestructura de código abierto para la seguridad en línea, fundada por Roblox junto con Google, OpenAI y Discord en 2025."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/roblox-phone.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Fuente de la imagen: Roblox"
+        },
+        {
+          "t": "p",
+          "x": "Los modelos que se publican son el clasificador de PII, Roblox Sentinel y el clasificador de seguridad de voz más reciente. Los tres ya están funcionando en la plataforma de Roblox."
+        },
+        {
+          "t": "p",
+          "x": "El clasificador de PII detecta intentos de compartir o solicitar información de identificación personal, filtrando incluso los casos en que se distorsiona la ortografía, se usa jerga o se señala otra plataforma de forma indirecta. Roblox también libera el conjunto de datos de evaluación de esta herramienta: \"muestras sintéticas de chat multiusuario en inglés\" modeladas sobre trucos comunes usados para evadir los filtros de PII."
+        },
+        {
+          "t": "p",
+          "x": "Roblox Sentinel detecta señales tempranas de que un menor está en riesgo. El clasificador de seguridad de voz más reciente modera el chat de voz en tiempo real e incorpora comentarios de la comunidad de ROOST. Roblox también publica un nuevo conjunto de datos de evaluación para que otras empresas puedan medir el rendimiento de sus propias herramientas de seguridad. La versión más reciente cubre 30 idiomas y ocho tipos de infracción."
+        },
+        {
+          "t": "p",
+          "x": "Naren Koneru, vicepresidente de ingeniería de confianza y seguridad, dijo: \"Compartir estos modelos le da a otras plataformas un punto de partida sólido para entrenar y refinar sus propias herramientas de moderación\", y añadió: \"Esperamos que, cuando ellos compartan sus resultados, nosotros también obtengamos algo de ese aprendizaje y esa retroalimentación\". Agregó que la seguridad es una responsabilidad compartida que ninguna empresa puede resolver sola."
+        },
+        {
+          "t": "p",
+          "x": "A principios de esta semana, el subcomité de crimen y antiterrorismo del Comité Judicial del Senado de EE. UU. dijo que había abierto una investigación, señalando que Roblox parece priorizar los ingresos y las métricas de engagement por encima de la seguridad infantil. Roblox debe entregar materiales sobre seguridad infantil, abuso sexual y físico, acoso y explotación financiera antes del 31 de agosto de 2026. En los últimos años, Roblox ha implementado una serie de medidas, entre ellas restringir los mensajes directos para usuarios menores de 13 años, la verificación de edad por reconocimiento facial en todo el mundo, etiquetas de contenido de 'temas sensibles' y políticas de moderación más estrictas."
+        }
+      ]
+    },
+    "games/games-spider-walker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49837/images/6a8847cb10346/contain_1200x630.jpg",
+          "cap": "El addon gratuito para Blender Spider Walker"
+        },
+        {
+          "t": "p",
+          "x": "Roman 'Iltaen' Gibadulin, un artista conocido por su trabajo en 3D de bajo poligonaje, lanzó un addon gratuito para Blender 5.2 LTS. Mueve en tiempo real y de forma procedural las patas de un rig con muchas patas, al estilo de una araña."
+        },
+        {
+          "t": "p",
+          "x": "Funciona así: cada pata lanza un rayo hacia el suelo y planta el pie uno tras otro mientras el personaje se mueve. Incluso lee por adelantado la dirección de avance, así que las patas aterrizan por delante del cuerpo en vez de quedar arrastradas detrás. Si el movimiento gusta, la función de bake integrada puede convertir la simulación en tiempo real en una acción normal con keyframes para seguir ajustándola."
+        },
+        {
+          "t": "p",
+          "x": "Para usarlo, se necesita un armature con un hueso de cuerpo (raíz) y huesos controladores de pata independientes que no estén emparentados al hueso del cuerpo. También se necesita una colección de objetos de malla sobre la que puedan caminar los pies. Como Spider Walker, al final, solo calcula la siguiente posición de cada pisada, hay margen para que funcione también en rigs bípedos o cuadrúpedos."
+        },
+        {
+          "t": "p",
+          "x": "El creador describe lo que pasa en cada fotograma así: lee las coordenadas de mundo actuales del hueso central para estimar la velocidad del cuerpo, y luego compara la posición actual de cada pata con un objetivo previsto. El objetivo es la posición de reposo relativa al cuerpo, desplazada en la dirección de avance según la velocidad. Cuando una pata se aleja lo suficiente de ese objetivo, lanza un rayo hacia abajo desde el punto previsto para encontrar un lugar de aterrizaje y empieza un paso. El pie se levanta, traza un arco y baja sobre el nuevo objetivo. Las patas se mueven una a la vez en el orden de la lista, así que no se obtiene un paso en el que todas las patas se muevan a la vez."
+        },
+        {
+          "t": "p",
+          "x": "El creador dijo que parte del código se construyó y se afinó con ayuda de IA. 80 Level también recomienda el tutorial de Lincoln Magisson para quien quiera profundizar más en la animación procedural de criaturas con muchas patas."
+        },
+        {
+          "t": "video",
+          "yt": "L0Z5_KLN7fE"
+        }
+      ]
+    },
+    "games/games-1666-amsterdam": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Luke Plunkett cubrió 1666: Amsterdam por primera vez porque el tráiler de presentación del juego tenía imágenes generadas por IA mezcladas en él. El tema de este texto, que espera sea el segundo y último, es que el cofundador del estudio, Patrice Désilets, parece no haber aprendido nada de aquella polémica."
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista publicada en Eurogamer, Désilets intentó explicar los elementos de IA del tráiler de presentación. \"Vivimos en un mundo lleno de IA. Seamos sinceros entre nosotros. Pero hubo cosas en la cadena de producción que no pulimos lo suficiente, y desde entonces nos aseguramos de no usar IA en ninguna parte del juego.\""
+        },
+        {
+          "t": "p",
+          "x": "Plunkett considera que esta respuesta no leyó el ambiente en absoluto. Désilets, escribe, está \"tan empapado de tecnología, hundido hasta los ojos en ella, que intenta despachar un desastre de relaciones públicas grave e insultante con un numerito de 'perdón por que nos pillaran haciendo lo que todo el mundo hace'.\""
+        },
+        {
+          "t": "p",
+          "x": "La explicación de Désilets continúa así. \"A la IA se le puede pedir 75 variaciones de un mismo objeto. Pero no se puede conseguir que 75 ilustradores distintos produzcan variaciones en tres segundos. Así es el mundo en el que vivimos, y estábamos haciendo el juego con un equipo pequeño, así que lo incluimos.\""
+        },
+        {
+          "t": "p",
+          "x": "Plunkett escribe que esta frase en particular se le queda grabada. El juego tiene más de una docena de artistas profesionales trabajando en él, y la actitud de los jugadores hacia el uso de IA en el desarrollo de juegos, sobre todo en las ilustraciones, ya está bien documentada."
+        },
+        {
+          "t": "p",
+          "x": "Cuando la entrevista de Eurogamer, realizada en Ámsterdam, profundizó en el tema, Désilets se mostró reacio a seguir hablando. El relato de la escena añade esto: \"En ese momento, el periodista de otro medio y un creador presentes dijeron que esto es solo una herramienta que se usa y que este tipo de debate no es necesario.\""
+        },
+        {
+          "t": "p",
+          "x": "La conclusión de Plunkett es simple. Los desarrolladores querrán desviar las entrevistas hacia otros temas, pero la preocupación pública por el uso de IA sigue siendo una pregunta legítima para que la prensa la plantee. Este breve rifirrafe refleja, a partir de 2026, la tensión entre los desarrolladores y la prensa de videojuegos."
+        },
+        {
+          "t": "video",
+          "yt": "i6uIMLgVxRE"
+        }
+      ]
+    },
+    "games/games-ai-podcast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf3fc88a2734c2ee4/6a88636db244e43b9a248c59/AIrezluke.png?width=1400&auto=webp&quality=80&disable=upscale",
+          "cap": "Luke Dicken y David 'Rez' Graham en el podcast de Game Developer"
+        },
+        {
+          "t": "p",
+          "x": "El episodio que el podcast de Game Developer publicó el 21 de agosto de 2026 se titula \"We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken\". Significa, literalmente, que por fin hablan de IA."
+        },
+        {
+          "t": "p",
+          "x": "Son tres las personas sentadas en la mesa. La editora senior Bryant Francis conduce, con David 'Rez' Graham, antiguo ingeniero senior en Maxis, y el Dr. Luke Dicken, que dirigió el área de IA en Take-Two, como invitados. Ambos llevan mucho tiempo en el desarrollo de videojuegos."
+        },
+        {
+          "t": "p",
+          "x": "La conversación parte de cómo cada uno ha atravesado personalmente la reciente fiebre de la IA que arrasó Silicon Valley. La introducción lo resume así: qué es lo que todavía aman del AI de los juegos, y cómo juzgar qué tiene valor real en la inteligencia artificial sin dejarse llevar por la exageración vacía, ya sea desde el entusiasmo o desde la oposición."
+        },
+        {
+          "t": "p",
+          "x": "No es solo charla técnica. El episodio pone los conceptos técnicos de IA junto a preguntas más amplias sobre qué es el trabajo y de dónde viene el valor en el desarrollo de videojuegos. También es un intento de separar el diseño clásico de IA de juegos de las herramientas generativas actuales."
+        },
+        {
+          "t": "p",
+          "x": "El podcast de Game Developer es un registro quincenal del desarrollo de videojuegos. Lo conduce Bryant Francis, lo edita Pierre Landriau y la música es de Mike Meehan. Episodios recientes han tratado la adopción del motor Godot y la localización de videojuegos."
+        }
+      ]
+    },
+    "games/games-r6-toxmod": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rainbow Six Siege redujo notablemente el abuso en el chat de voz tras incorporar ToxMod, la plataforma de inteligencia de voz con IA de Modulate. Tras comprobar que el comportamiento de los jugadores mejoraba durante un año, Ubisoft extendió su colaboración con Modulate para seguir impulsando conversaciones de voz más sanas."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados aparecieron juntos en varios indicadores. Tras introducir las sanciones dentro del juego, el abuso verbal grave por voz cayó un 50%, y la toxicidad general de la voz también bajó un 30%. A las dos semanas de activar las sanciones, la toxicidad por sesión pasó de alrededor del 37% al 8%. Hoy la plataforma analiza unas 800.000 horas de voz al mes."
+        },
+        {
+          "t": "p",
+          "x": "La moderación de voz está entre los problemas de seguridad más difíciles en los videojuegos. El juego táctico de ritmo rápido, las conversaciones de equipo con el micrófono siempre abierto y expresiones que solo tienen sentido en este juego se combinaban de un modo que los métodos antiguos no podían manejar. Incluso antes de ToxMod, el equipo recibía denuncias de voz dañina, pero no tenía forma de verificar los incidentes ni de respaldar las decisiones de sanción de manera consistente."
+        },
+        {
+          "t": "p",
+          "x": "Lancelot Satge, responsable de la protección del juego en Rainbow Six Siege en Ubisoft, dijo: \"ToxMod era una solución que podíamos implementar de inmediato, pero lo bastante potente para aprender el lenguaje y la realidad de nuestro juego y adaptarse a ellos\"."
+        },
+        {
+          "t": "p",
+          "x": "La implementación comenzó con una prueba piloto de cuatro semanas. Durante ese período, ToxMod analizaba la voz en tiempo real, pero no tomaba ninguna medida visible para los jugadores. Mientras tanto, el equipo aprendió el carácter del entorno, ajustó los umbrales de detección y aprendió a distinguir el comportamiento dañino de los avisos tácticos legítimos. La operación real comenzó en septiembre de 2025."
+        },
+        {
+          "t": "p",
+          "x": "El análisis reveló que el comportamiento dañino se concentra en un grupo reducido. En una evaluación de 34 días, alrededor del 35% de los usuarios marcados en un día dado generaron dos o más detecciones de alta gravedad, y ese grupo representó alrededor del 66% de los incidentes de ese día. Eso permitió intervenciones muy dirigidas en lugar de sanciones generalizadas."
+        },
+        {
+          "t": "p",
+          "x": "La siguiente tarea es refinar la operación en torno a los reportes de jugadores y el historial de sanciones. Ambos equipos también piensan analizar cómo reconocer el buen comportamiento, identificando a quienes dan avisos útiles y dan la bienvenida a los jugadores nuevos. Satge preguntó: \"Cuando alguien hace un buen aviso táctico, ayuda a un compañero de equipo y da el ejemplo, ¿cómo podemos reconocerlo y recompensarlo?\"."
+        },
+        {
+          "t": "p",
+          "x": "Mike Pappas, CEO de Modulate, subrayó la capacidad de leer el contexto. \"Una transcripción por sí sola no puede distinguir de forma confiable entre un aviso táctico, una broma amistosa y un discurso de odio dirigido\". Rainbow Six Siege tiene más de 100 millones de jugadores registrados, y la conversación por voz es un elemento inseparable del juego competitivo."
+        }
+      ]
+    },
+    "games/games-skillprint-signal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/Skillprint-Signal-AI-Benchmark.jpg",
+          "cap": "El benchmark de IA Signal presentado por Skillprint"
+        },
+        {
+          "t": "p",
+          "x": "Skillprint ha abierto la beta del Skillprint Signal Benchmark, el primer benchmark público que puntúa cuánto mejora realmente un modelo de IA el desempeño de una persona real."
+        },
+        {
+          "t": "p",
+          "x": "Los benchmarks existentes se fijan en lo que sabe un modelo, con cuánta precisión responde preguntas y qué tan bien completa tareas fijas. Signal se fija en algo distinto. La empresa explicó que mide qué tan bien un modelo ajusta un juego en vivo, en tiempo real, para llevar a una persona real hacia un estado mental objetivo, como una concentración más profunda, relajación, o la mejora de una capacidad cognitiva concreta."
+        },
+        {
+          "t": "p",
+          "x": "Signal coloca un modelo de IA dentro de un juego que juegan participantes reales. Mientras la persona juega, el modelo ajusta en tiempo real los parámetros del juego hacia un resultado fijado, como concentración o relajación. Después mide cuánto cambió realmente el estado del jugador, y clasifica los modelos según ese resultado."
+        },
+        {
+          "t": "p",
+          "x": "Se basa en seis años de investigación, con más de 500.000 jugadores y más de 1.000 juegos, cuestionarios y simulaciones, para examinar la relación entre el juego, la cognición, el estado de ánimo y el estado del jugador."
+        },
+        {
+          "t": "p",
+          "x": "Con este lanzamiento, Skillprint entra en su siguiente etapa. A lo largo de seis años construyendo una plataforma de inteligencia basada en el juego, ha mantenido una sola convicción: la IA debe potenciar las capacidades de las personas en lugar de sustituirlas."
+        },
+        {
+          "t": "p",
+          "x": "Chethan Ramachandran, CEO de Skillprint, dijo: \"La mayoría de los benchmarks de IA te dicen qué tan inteligente es un modelo por sí solo. Basándonos en años de descifrar la cognición humana a gran escala, construimos un benchmark que te dice si ese modelo puede realmente ayudar a una persona a mejorar su desempeño y su inteligencia. A medida que la IA se vuelve parte de la vida diaria, creemos que esa será una de las medidas más importantes que existan.\""
+        }
+      ]
+    },
+    "games/games-ace-aniimo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Nvidia-ace-ai-teammate-tech-aniimo-01.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp",
+          "cap": "Nvidia ACE llega a Aniimo. Crédito de imagen: Pawprint Studio"
+        },
+        {
+          "t": "p",
+          "x": "Junto con el lanzamiento de Ray Reconstruction para DLSS 4.5, Nvidia anunció que lleva su tecnología ACE a otros juegos. Es la misma tecnología que hace funcionar al compañero de IA generativa de PUBG: Battlegrounds. El escenario esta vez es Aniimo, un RPG de mundo abierto para coleccionar monstruos del desarrollador chino Pawprint Studio. Sigue la fórmula \"legalmente distinta\" de Pokémon que juegos como Palworld ya han asentado, pero con la tecnología de Nvidia encima, los jugadores podrán incluso hablar con sus propios monstruos."
+        },
+        {
+          "t": "p",
+          "x": "“A comienzos de 2027, Nvidia ACE funcionará en GPU RTX, y los jugadores podrán hablar de forma natural con su propio Aniimo.” Eso dijo Ike Nnoli, gerente senior de marketing de producto de Nvidia, en una sesión previa de Gamescom a la que también asistió RPS. “Mantendrán conversaciones, les enseñarán nuevas habilidades como crear objetos o minar, e irán conociendo la personalidad distinta de cada uno.”"
+        },
+        {
+          "t": "p",
+          "x": "El proyecto del compañero de IA de PUBG está construido para que los NPC usen un cerebro de IA que reacciona a las situaciones de combate y cumple su parte en las maniobras tácticas. La versión de Aniimo se acerca más al chatbot de IA, algo ya conocido."
+        },
+        {
+          "t": "p",
+          "x": "En la sesión de preguntas, alguien quiso saber cómo evitan que los NPC de IA generativa sean persuadidos por los jugadores para entregar recompensas de misión antes de tiempo, algo que ocurrió el año pasado en el RPG chino Where Winds Meet. La respuesta de Nnoli fue: “Con nuestra tecnología, los desarrolladores controlan por completo hasta dónde llega un personaje al responder a un jugador, desde el comportamiento y las barreras de respuesta hasta las instrucciones del propio modelo.” Aniimo limita su alcance a Homeland, la base donde Pawprint hace que los jugadores fabriquen objetos, minen y recolecten recursos, y los monstruos solo realizan actividades predefinidas ahí. Las reacciones, según parece, llegarán como “acciones específicas y emojis” en lugar de diálogo hablado."
+        },
+        {
+          "t": "p",
+          "x": "Visto así, el uso que le da Aniimo se parece más a una versión con IA de Nintendogs. No es sorprendente, dado que este tipo de tecnología se está extendiendo. Aun así, hay una salvedad: a diferencia de los soldados de IA de PUBG, es mucho más probable que sean niños quienes interactúen con este monstruo de IA. Esperemos que sea menos propenso que el Darth Vader con IA de Fortnite a que se le caiga la máscara a mitad de una conversación o a que lo induzcan a respuestas traviesas."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia ha anunciado que la tecnología ACE llega a Aniimo a comienzos de 2027. La página de Steam todavía solo dice \"coming soon\", pero el lanzamiento del juego probablemente sea por esas fechas."
+        }
+      ]
     }
   }
 }

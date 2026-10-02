@@ -2400,6 +2400,342 @@
           "x": "Walsh advirtió contra el exceso de entusiasmo. Recordando la expectación que rodeó al cribado de alto rendimiento y a la química combinatoria, dijo: “Cada una de ellas dejó algo real, pero en su punto máximo todas estuvieron sobrevaloradas.” Señaló además que predecir propiedades es ahora “la parte fácil”. “La limitación se ha desplazado hacia la síntesis, la estabilidad en condiciones reales de operación y la viabilidad de fabricación. El valor se acumulará en el lado de quien realmente obtenga resultados en el mundo real.”"
         }
       ]
+    },
+    "science/science-ai-observatory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic y OpenAI publican informes periódicos sobre cómo usa la gente Claude y ChatGPT. Pero los investigadores dicen que solo se publican los datos que las empresas quieren mostrar. “No hay una fuente independiente que lo verifique”, señala Anka Reuel, investigadora doctoral del STAIR Lab de Stanford."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg",
+          "cap": "Una persona camina junto a una presencia invisible, rodeada de prompts de chat. Credit: Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo proyecto codirigido por Reuel, el AI Observatory, llena ese vacío. Toma conversaciones reales con modelos como Claude y Gemini de siete conjuntos de datos existentes, recopilados con el consentimiento de los usuarios, y los reúne en una plataforma pública, con la idea de que investigadores y responsables de políticas puedan comprobar por sí mismos cómo se usa realmente la IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "El Anthropic Economic Index, el más citado, se centra, como su nombre indica, en el trabajo y la productividad, y filtra el resto de las conversaciones. Cuando el equipo de investigación aplicó el mismo criterio a sus propios datos, desapareció el 48% de las conversaciones. Lo descartado se concentraba en salud y relaciones (44.2% frente a 31.2%), temas adultos o ilegales (7.9% frente a 2.1%), acoso y odio (27.5% frente a 5.66%) y contenido sexual (16.7% frente a 2.4%). El informe de 2025 de OpenAI también estimó que solo el 30% del uso de consumidores estaba relacionado con el trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Al observar las conversaciones de 2023 a 2025 incluidas en el conjunto de datos, se ve que fueron volviéndose más largas y sofisticadas con el tiempo. Aumentó la charla informal y disminuyeron los casos en que la IA reconocía por sí misma ser un chatbot. En cambio, las conversaciones sensibles, como el acoso sexual o el discurso de odio, se volvieron menos frecuentes, algo que se interpreta como resultado de mejores salvaguardas."
+        },
+        {
+          "t": "p",
+          "x": "El uso también varió según el modelo. Grok y Gemini se usaron mucho para buscar información; Grok, en particular, era popular para noticias e información política, pero también concentraba desinformación. La programación se inclinó hacia Anthropic, la conversación social y el roleplay hacia Gemini, y la ayuda con tareas hacia ChatGPT. También hubo diferencias entre versiones del mismo modelo: las conversaciones con ChatGPT en la época de GPT-3.5 eran cortas, mientras que en GPT-4o, conocido por generar dependencia emocional, se dieron conversaciones largas y repetitivas."
+        },
+        {
+          "t": "p",
+          "x": "La escala todavía es pequeña. El equipo recopiló 24.521 conversaciones y 85.633 turnos de conversación de 5.000 usuarios con 52 modelos. El Anthropic Economic Index analizó 1 millón de conversaciones de Claude, y el informe de OpenAI, 1,5 millones. El equipo añadió que, al tratarse de datos aportados voluntariamente, es probable que el uso sensible esté subrrepresentado en vez de sobrerrepresentado."
+        },
+        {
+          "t": "p",
+          "x": "“Ningún informe de una sola empresa cuenta toda la historia”, dijo Shayne Longpre, codirector de la investigación y recién graduado del MIT Media Lab. Reuel advierte contra tomar decisiones importantes sin saber qué ocurre más allá del relato que presentan las empresas. Los datos del AI Observatory están abiertos a los investigadores, y el equipo planea seguir ampliando el conjunto de datos."
+        }
+      ]
+    },
+    "science/science-bonsai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La biología moderna genera datos a una escala sin precedentes. Pero no había una buena manera de extraer significado de esos datos de alta dimensión. Un equipo de la Universidad de Basilea, en Suiza, presentó una herramienta que muestra la estructura oculta en datos complejos sin distorsionarla."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/seeing-the-unseen-a-ne.jpg",
+          "cap": "En datos simulados de secuenciación de ARN de célula única, las relaciones celulares reconstruidas por Bonsai (derecha) coinciden casi por completo con el árbol de referencia (izquierda). Credit: Daan de Groot, Biozentrum, University of Basel"
+        },
+        {
+          "t": "p",
+          "x": "En la última década, la biología entró en la era de los grandes datos. La secuenciación de ARN de célula única permite medir a la vez la actividad de decenas de miles de genes en cientos de miles, incluso millones, de células. La genética, la investigación del cáncer y la neurociencia acumulan datos a una escala similar."
+        },
+        {
+          "t": "p",
+          "x": "Esos datos contienen respuestas sobre cómo crecen, se comunican y enferman las células. El problema es la interpretación. El profesor Erik van Nimwegen dice que “las personas reconocen bien los patrones en dos o tres dimensiones”, pero unos datos de 10.000 dimensiones no se pueden dibujar, y ni siquiera tenemos intuición de qué estructuras podrían existir en un espacio así."
+        },
+        {
+          "t": "p",
+          "x": "El equipo publicó en Nature Biotechnology un software llamado “Bonsai” que muestra datos de alta dimensión en forma de árbol. La imagen recoge cómo se conectan las células y de qué célula progenitora se ramificaron."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de las herramientas de uso extendido fuerzan datos de miles de dimensiones dentro de un mapa plano en 2D. Casi todos los estudios usan este método, pero en el proceso los datos se distorsionan. No había manera de saber si las relaciones entre células que se veían en pantalla eran reales o una ilusión creada por el aplanamiento."
+        },
+        {
+          "t": "p",
+          "x": "El primer autor, el Dr. Daan de Groot, explicó: “En lugar de un mapa plano, construimos un árbol con ramas y colocamos cada célula en sus hojas”. Las distancias medidas a lo largo de las ramas reflejan directamente el parentesco real en el espacio de alta dimensión. Probado con datos simulados y con datos reales de secuenciación de ARN de célula única, Bonsai reconstruyó las trayectorias de desarrollo con mucha más precisión que los métodos existentes, y agrupó células similares de forma más estable."
+        },
+        {
+          "t": "p",
+          "x": "Al analizar células sanguíneas humanas, el sistema recuperó automáticamente los linajes de células sanguíneas conocidos y, además, produjo un nuevo subtipo de células asesinas naturales (NK). Su firma molecular mostró que ese subtipo se ramificó del linaje mieloide y no del linaje linfoide, que se consideraba el origen de todas las células NK."
+        },
+        {
+          "t": "p",
+          "x": "El profesor van Nimwegen dijo: “Este es un caso que muestra por qué importa representar los datos complejos tal como son: cuando se puede confiar en la imagen, las posibilidades de nuevos descubrimientos también crecen mucho”."
+        },
+        {
+          "t": "p",
+          "x": "Bonsai puede manejar cualquier dato de alta dimensión, no solo expresión génica y estado de la cromatina, sino también datos médicos, composición de comunidades microbianas y patrones de disparo neuronal. El software se publicó de forma gratuita para la comunidad investigadora."
+        }
+      ]
+    },
+    "science/science-intrabodies": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de la Universidad de Essex creó moléculas terapéuticas ultrapequeñas dirigidas a enfermedades neurodegenerativas como el alzhéimer, el párkinson y la enfermedad de las neuronas motoras (MND)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/neuron-damage-brain-cell-inflammation.webp",
+          "cap": "Los intracuerpos diseñados con IA atacan directamente, dentro de las células, las proteínas que causan enfermedades cerebrales. Credit: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Diseñados con IA junto con un equipo internacional de colaboradores, estos fragmentos de anticuerpo se producen directamente dentro de las células humanas y se unen ahí mismo a las proteínas de la enfermedad. Normalmente los anticuerpos actúan fuera de la célula. Estos fragmentos, llamados intracuerpos, fueron rediseñados para mantener su forma también dentro de la célula, dirigidos a proteínas implicadas en enfermedades neurodegenerativas."
+        },
+        {
+          "t": "p",
+          "x": "La investigación, con el apoyo de la MND Association, fue dirigida por la Dra. Caitlin O'Shea y el Dr. Gareth Wright, de la Facultad de Ciencias de la Vida. El equipo descubrió que la carga es el factor clave que determina si un fragmento de anticuerpo se mantiene estable dentro de una célula. Combinando este hallazgo con el rediseño de proteínas mediante IA, convirtieron 672 anticuerpos en intracuerpos dirigidos a proteínas relacionadas con enfermedades."
+        },
+        {
+          "t": "p",
+          "x": "Eso significa que ahora se puede llegar directamente al interior de la célula, donde comienzan muchos procesos patológicos. El artículo se publicó en Nature Communications, y las moléculas rediseñadas se pondrán a disposición gratuita de otros investigadores."
+        },
+        {
+          "t": "p",
+          "x": "La Dra. O'Shea, primera autora y dedicada a investigar la MND y el párkinson, lo explicó así: “Comparamos las propiedades de millones de anticuerpos con las de proteínas humanas dentro de las células. Encontramos que, en general, los anticuerpos no tienen la carga adecuada para existir dentro de las células sin agruparse entre sí. Usando un software desarrollado por el equipo del premio nobel David Baker, corregimos la carga de los fragmentos de anticuerpo y los rediseñamos para que fueran extremadamente estables.”"
+        },
+        {
+          "t": "p",
+          "x": "El equipo cree que esto abre la vía para reutilizar los millones de anticuerpos acumulados a lo largo de décadas de investigación biomédica. En vez de crear otros desde cero, los anticuerpos ya existentes pueden adaptarse como herramientas experimentales potentes y, más adelante, como candidatos terapéuticos dirigidos a proteínas de la enfermedad."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Wright, que dirigió la investigación, dijo: “Hemos creado anticuerpos intracelulares que se unen a las proteínas que causan el alzhéimer, el párkinson, la enfermedad de Huntington y la enfermedad de las neuronas motoras.” Estas enfermedades avanzan a través de deterioro cognitivo, pérdida de memoria y pérdida de control muscular, hasta llegar a la muerte. Solo en el Reino Unido hay más de un millón de personas afectadas, y todavía no existe cura. Encontrar moléculas que interactúen con las proteínas causantes en su entorno natural se ha considerado durante mucho tiempo uno de los mayores retos del desarrollo de fármacos."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Brian Dickie, científico jefe de la MND Association, dijo: “El equipo del Dr. Wright ha superado uno de los obstáculos clave que frenaban el desarrollo de anticuerpos como tratamiento para enfermedades neurodegenerativas como la MND.” Según él, combinar esta nueva ciencia de los intracuerpos con las técnicas recientes de terapia génica podría dar lugar a estrategias de tratamiento que alcancen objetivos moleculares específicos dentro de las células nerviosas."
+        }
+      ]
+    },
+    "science/science-qec-decoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Quantum X Labs (NASDAQ: QXL) presentó nuevos resultados de su programa de corrección de errores cuánticos basado en IA. Según la empresa, esto supone un paso más hacia una corrección de errores fiable, utilizable en computación cuántica tolerante a fallos."
+        },
+        {
+          "t": "p",
+          "x": "Los ordenadores cuánticos son muy sensibles al ruido. No hay discusión sobre que la corrección de errores cuánticos es necesaria para escalar más allá de demostraciones de laboratorio hacia cálculos reales. El problema que aborda QXL es un decodificador de IA que interpreta los datos de síndrome con rapidez y precisión, y que mejora a la vez que mejora el hardware."
+        },
+        {
+          "t": "p",
+          "x": "Este resultado usó el conjunto de datos de código de superficie publicado por Google, es decir, datos obtenidos de experimentos reales con hardware cuántico. QXL evaluó su decodificador actualizado en la configuración pública de código de superficie con el mismo método de validación cruzada que Google usó para comparar su propio decodificador."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento superó a los puntos de referencia de la familia de emparejamiento en la misma configuración, incluidos los resultados de correlated matching y PyMatching que publicó Google. Lo destacable es el dato de entrenamiento: el modelo se entrenó únicamente con muestras sintéticas, sin usar ninguna toma real de hardware del conjunto de datos de Google."
+        },
+        {
+          "t": "p",
+          "x": "La premisa de la hoja de ruta de QXL es que un decodificador que funciona bien en simulación también debe generalizar a datos de síndrome de experimentos reales. Esta transición de lo sintético a lo real se encuentra en el camino hacia un flujo de trabajo de corrección de errores práctico que respalde la decodificación en tiempo real y de baja latencia."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Nir Sharon, científico jefe de tecnología cuántica de QXL, dijo: “Lo que hace importante este resultado es que nos acerca al punto en que se puede evaluar la corrección de errores cuánticos basada en IA frente al comportamiento del hardware real, y no de una simulación.”"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo decodificador combina la estructura del código cuántico, la información de síndrome y una ponderación de errores basada en IA. El componente de IA admite aceleración por GPU y se integra en flujos de trabajo de corrección de errores más amplios. La hoja de ruta incluye evaluación con datos de hardware real, flujos de trabajo que usan computación acelerada de NVIDIA y NVIDIA CUDA-Q, y próximos experimentos de síndrome de IQCC."
+        }
+      ]
+    },
+    "science/science-dna-initiator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/biological-dna-structure-with-gene-mutation.webp",
+          "cap": "Una IA descifró un fragmento oculto del 'interruptor de encendido' del ADN. Fuente: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "El crecimiento y el desarrollo saludables dependen de que decenas de miles de genes se activen en el momento y el lugar correctos. Regiones específicas del ADN coordinan este proceso, guiando la producción de las enzimas, hormonas y proteínas que necesita una célula. Cuando la activación génica falla, las células funcionan mal, lo que lleva a enfermedades, incluido el cáncer."
+        },
+        {
+          "t": "p",
+          "x": "Para profundizar en las secuencias de ADN que gobiernan este proceso, el laboratorio del profesor James T. Kadonaga, de la Universidad de California en San Diego (UC San Diego), se centró en un elemento de ADN llamado 'iniciador'. El iniciador marca el punto donde la información contenida en un gen comienza a expresarse como un producto funcional."
+        },
+        {
+          "t": "p",
+          "x": "En el estudio, dirigido por la investigadora de posgrado Tory Laine-Carrig, el equipo usó secuenciación de ADN masiva y de alto rendimiento para medir la actividad de expresión génica de unas 500.000 variantes del iniciador."
+        },
+        {
+          "t": "p",
+          "x": "Con esos resultados entrenaron un sistema de aprendizaje automático que identificó el patrón de ADN característico de los iniciadores. Después de que el modelo descifrara esa señal de secuencia y examinara genes humanos, alrededor del 60% resultó contener un iniciador."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Kadonaga dijo: “este modelo de IA ofreció la primera predicción sólida de si un gen humano tiene o no un iniciador, y eso nos permitió descifrar el patrón de secuencia de bases de ADN del iniciador”."
+        },
+        {
+          "t": "p",
+          "x": "Este hallazgo sirve para anticipar cómo las mutaciones que afectan al iniciador alteran la actividad génica y a qué enfermedades pueden derivar. Los datos y el modelo de IA generados por el estudio también respaldan el diseño de promotores sintéticos que encienden y apagan genes con un propósito determinado."
+        },
+        {
+          "t": "p",
+          "x": "Kadonaga añadió: “en un sentido más amplio, este estudio es un paso hacia el uso conjunto de experimentos e IA para descifrar la información grabada en la secuencia de ADN humano”. Y continuó: “al final, dentro de los 6.000 millones de bases que hay en una de nuestras células existe un código de expresión génica que determina cuándo, dónde y cuánto se enciende y apaga cada gen. Un modelo de IA que capturara todo ese código podría predecir la actividad de las variantes génicas que difieren de una persona a otra”. El modelo del iniciador es una pieza pequeña pero importante de ese código."
+        },
+        {
+          "t": "p",
+          "x": "El artículo se publicó en la revista Genes. DOI 10.1101/gad.353623.125."
+        }
+      ]
+    },
+    "science/science-grcop42-print": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-use-ai-to-6.jpg",
+          "cap": "Estructuras que fallaron al imprimirse. Fuente: Proceedings of the AAAI Conference on Artificial Intelligence (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de investigación de la Universidad Estatal de Washington (WSU) usó IA para encontrar una forma más barata y eficiente de imprimir en 3D una aleación metálica de alto rendimiento, ahorrándose la molestia de probar una por una más de 100 millones de opciones. La aleación se usa comúnmente en la industria aeroespacial, pero tiene usos potenciales mucho más amplios, y según estos resultados, algún día podría imprimirse con equipos comerciales de uso extendido. La técnica de IA empleada aquí también podría trasladarse a otros campos, como el descubrimiento de fármacos."
+        },
+        {
+          "t": "p",
+          "x": "El equipo recibió el Innovative Deployed Application Award en la conferencia AAAI. La profesora Jana Doppa, quien dirigió la investigación, dijo: “el 90% de las impresoras comerciales no pueden imprimir esta aleación metálica. Como encontramos parámetros de proceso viables, esas impresoras comerciales pueden usarse, lo que en definitiva democratiza la impresión de esta aleación”."
+        },
+        {
+          "t": "p",
+          "x": "La aleación, llamada GRCop-42, está compuesta de tres metales: cobre, cromo y niobio. Desarrollada por la NASA, tiene una alta conductividad térmica y no pierde resistencia bajo calor extremo, por lo que se usa en lugares como las cámaras de combustión de motores de cohetes líquidos. Sin embargo, imprimirla requiere mucha potencia láser, lo que la hace cara y consume mucha energía."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores intentaron imprimir la aleación con la menor potencia en vatios y láser que usan las impresoras comerciales más comunes, pero fallaron una y otra vez. Probar distintas configuraciones requiere materiales caros, equipo dedicado y bastante mano de obra. Una sola impresión cuesta cientos de dólares, y el análisis de calidad detallado después de imprimir tarda días."
+        },
+        {
+          "t": "p",
+          "x": "Aja Fadel, primera autora del artículo y estudiante de doctorado en ciencias de la computación, dijo: “algunas configuraciones simplemente derretían el producto”. Añadió: “ni con tiempo ni con dinero se pueden probar los 100 millones de opciones. Por eso incorporamos IA para elegir candidatos de forma eficiente en este enorme espacio de búsqueda”."
+        },
+        {
+          "t": "p",
+          "x": "El equipo partió de 37 configuraciones que la Facultad de Ingeniería Mecánica y de Materiales ya había probado sin éxito. Usando esos resultados como base, construyeron un método para estimar la probabilidad de que una configuración no probada tuviera éxito. El modelo sopesaba dos objetivos, probar candidatos prometedores y explorar regiones de incertidumbre para mejorar la IA, y elegía nuevas configuraciones en pequeños lotes. Con las configuraciones elegidas imprimieron GRCop-42 y evaluaron las muestras."
+        },
+        {
+          "t": "p",
+          "x": "Reducir la potencia láser disminuye el consumo de energía, el desgaste del equipo y los costos de posprocesamiento, y permite que universidades, laboratorios pequeños y empresas sin equipo dedicado de alta potencia también puedan trabajar con GRCop-42."
+        },
+        {
+          "t": "p",
+          "x": "Doppa explicó: “este es un caso muy difícil para la IA”, señalando que “cada intento solo devuelve una señal binaria, éxito o fracaso, y hay que dar con esa aguja del éxito en el menor número de intentos posible”. Dentro de un presupuesto de 40 experimentos en tres meses, el equipo encontró seis configuraciones exitosas en distintos rangos de potencia láser, e imprimió la aleación por primera vez a 500 vatios."
+        },
+        {
+          "t": "p",
+          "x": "El equipo cree que el mismo enfoque guiado por IA puede encontrar condiciones de proceso para otras aleaciones metálicas y equipos de fabricación aditiva. Es decir, funciona en cualquier problema científico donde el éxito es raro y los experimentos son demasiado costosos para probarlo todo. El artículo se publicó en las Actas de la conferencia AAAI 2026. DOI 10.1609/aaai.v40i47.41428."
+        }
+      ]
+    },
+    "science/science-skala-cp2k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/Low-Res_20260821_b-1.png",
+          "cap": "Una imagen que visualiza la densidad electrónica alrededor de una molécula. Fuente: The Quantum Insider"
+        },
+        {
+          "t": "p",
+          "x": "El modelo Skala, creado por Microsoft Research AI for Science, ya se puede usar en CP2K. Eso significa que sistemas moleculares más grandes pueden simularse cuánticamente con más precisión, con la ayuda de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de CASUS y Microsoft informaron que, en sus casos de prueba, Skala elevó la precisión mientras mantenía una eficiencia equiparable a la de los métodos DFT convencionales, que conllevan una carga computacional mucho mayor. Los dos equipos planean extender Skala a simulaciones de sólidos periódicos y líquidos más adelante, y usar CP2K como canal para ampliar la validación en química, física, ciencia de materiales e ingeniería."
+        },
+        {
+          "t": "p",
+          "x": "Comunicado de prensa — El modelo de IA Skala, desarrollado por Microsoft Research AI for Science, ha entrado en el ecosistema de software CP2K. A principios de 2026, la división de investigación de Microsoft y el equipo de CP2K de CASUS, parte de Helmholtz-Zentrum Dresden-Rossendorf, comenzaron juntos el trabajo de integración."
+        },
+        {
+          "t": "p",
+          "x": "La teoría del funcional de la densidad (DFT), que ganó el Premio Nobel en 1998, es la base de innumerables simulaciones. “El talón de Aquiles del DFT es el llamado funcional de intercambio y correlación”, dice el profesor Thomas D. Kühne, director de CASUS. Los funcionales de intercambio y correlación recientes se han vuelto cada vez más sofisticados, pero los más precisos tardan tanto en calcularse que solo podían usarse en sistemas con pocas partículas."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de añadir otra capa de ecuaciones, Skala tomó un camino distinto. Una red neuronal aprendió directamente cómo se influyen entre sí las densidades electrónicas de distintas regiones. Está entre los primeros funcionales de intercambio y correlación basados en IA."
+        },
+        {
+          "t": "p",
+          "x": "Kühne dijo: “los resultados que presentó Microsoft Research en 2025 fueron impresionantes. En particular, lograron a la vez precisión y eficiencia computacional en ciertos cálculos de DFT”. A mediados de agosto, investigadores de ambas instituciones publicaron los primeros resultados de su colaboración, y Franz Pöschel, primer autor del núcleo de Computación Científica de CASUS, afirmó: “en nuestros casos de prueba, Skala produjo un salto notable en la precisión de las simulaciones”."
+        },
+        {
+          "t": "p",
+          "x": "Sebastian Ehlert, investigador senior de Microsoft Research AI for Science, explica así por qué eligieron CP2K: “para que se difunda, Skala tiene que estar donde la comunidad ya está trabajando. CP2K ha sido durante mucho tiempo una piedra angular de la investigación en química computacional”."
+        },
+        {
+          "t": "p",
+          "x": "CP2K es especialmente fuerte en cálculos de DFT que manejan sistemas grandes durante periodos largos. En su plataforma de código abierto, simula moléculas, líquidos, sólidos y sistemas biológicos usando tanto métodos de mecánica cuántica como dinámica molecular clásica, y la computación paralela le permite manejar sistemas de miles a decenas de miles de átomos. Por eso es adecuado para la investigación de materiales de baterías, catalizadores, semiconductores y proteínas."
+        },
+        {
+          "t": "p",
+          "x": "Antes del lanzamiento, los dos equipos probaron la integración de forma extensa. Ehlert dijo: “Skala necesita ofrecer precisión y velocidad consistentes incluso cuando cambian los programas y las configuraciones”, y añadió que construyeron el conjunto de pruebas de integración junto con el equipo de CASUS, que tiene una amplia experiencia en validación numérica."
+        },
+        {
+          "t": "p",
+          "x": "Skala no es una aproximación fija. El modelo se sigue refinando y se le siguen añadiendo funciones. Pronto se admitirán sólidos periódicos como metales y semiconductores, así como simulaciones de líquidos. CP2K sirve como canal para llevar rápidamente las versiones más recientes de Skala."
+        }
+      ]
+    },
+    "science/science-slac-compress": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/slac-researchers-devel.jpg",
+          "cap": "Un método de compresión de datos con IA desarrollado por investigadores de SLAC. Fuente: Yuan Ni and Greg Stewart/SLAC"
+        },
+        {
+          "t": "p",
+          "x": "Los experimentos científicos de próxima generación están produciendo más datos que nunca, más de lo que pueden manejar los métodos actuales de almacenamiento y análisis. Investigadores del Laboratorio Nacional del Acelerador SLAC, dependiente del Departamento de Energía de EE. UU., presentaron un método de IA que comprime grandes volúmenes de datos crudos sin perder los detalles finos que son decisivos para los descubrimientos. El artículo se publicó en Nature Machine Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "Joshua Turner, científico principal del Instituto Stanford de Ciencias de Materiales y Energía, fundado conjuntamente por SLAC y Stanford, y responsable de este estudio, dijo: “los datos van a llegar como una inundación, y no hay forma de manejarlo con los métodos antiguos”. Añadió: “hoy en la ciencia hay muchas aplicaciones donde la velocidad de almacenamiento y análisis de datos realmente importa, y este método es una solución ingeniosa para eso”."
+        },
+        {
+          "t": "p",
+          "x": "Este método es útil para los datos que salen de la Fuente de Luz Coherente del Acelerador Lineal (LCLS) de SLAC. LCLS, un láser de electrones libres de rayos X ultrarrápido, eventualmente tomará 'instantáneas' de átomos y moléculas con hasta un millón de pulsos de rayos X por segundo. Manejar datos del orden de terabytes por segundo requiere un nuevo enfoque para instrumentos que usan toda la capacidad de LCLS, como el equipo de Espectroscopía de Fluctuación de Fotones de Rayos X (XPFS), que observa el movimiento de partículas dentro de materiales cuánticos."
+        },
+        {
+          "t": "p",
+          "x": "Los métodos de compresión existentes a veces borran los detalles finos que corresponden a información científica valiosa. Los pequeños patrones de speckle captados en las imágenes de rayos X moleculares contienen información sobre cómo está cambiando un material. Yuan Ni, investigadora de SLAC y primera autora del artículo, dijo: “ese speckle refleja el arreglo, el desorden y la dinámica de un material”. Añadió: “si se pierde, también se pierden conocimientos únicos, como la estructura del material y cómo está cambiando”."
+        },
+        {
+          "t": "p",
+          "x": "El método basado en IA comprime los datos con una red neuronal, reduciendo el tamaño del archivo y facilitando su almacenamiento, transporte y gestión. El usuario decide qué información conservar, por ejemplo si preservar los detalles finos. Ni dijo: “según los datos y la calidad y fidelidad que se busquen, por lo general reduce el tamaño del archivo entre 10 y 100 veces”. El equipo lo probó con una amplia variedad de datos, desde mediciones moleculares y de materiales obtenidas con distintas técnicas experimentales hasta mediciones del campo magnético solar y fotografías, y la red neuronal se adaptó a los distintos tipos de datos, aprendiendo por sí misma qué era importante."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/slac-researchers-devel-2.jpg",
+          "cap": "La red neuronal divide las características por escala para comprimirlas, y al decodificar, solo descomprime las regiones de interés. Fuente: Yuan Ni and Greg Stewart/SLAC"
+        },
+        {
+          "t": "p",
+          "x": "Este método no comprime todo el conjunto de datos de la misma manera. Primero usa un análisis de ondículas (wavelets) para dividir las características de los datos por escala. Luego, una red neuronal comprime por separado las características de distintas escalas, para que los detalles finos no queden enterrados en una compresión uniforme."
+        },
+        {
+          "t": "p",
+          "x": "Además de reducir los costos de almacenamiento, también se vuelve más fácil recuperar los datos. Los investigadores a veces quieren volver a ver solo un fragmento muy pequeño de datos comprimidos. Zhantao Chen, profesor asistente en la Universidad de Texas en Austin que participó en el trabajo mientras estaba en SLAC, dijo: “con los compresores existentes, hay que descomprimir el archivo entero, lo que toma desde minutos hasta horas o días”. Añadió: “este método es mucho más eficiente porque solo descomprime la región de interés”."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores añadieron que esta compresión funciona junto con técnicas más amplias de reducción de datos que seleccionan solo los eventos y características de interés. Ni dijo: “más que reemplazar los métodos de compresión existentes, esto añade una opción más basada en IA”. DOI del artículo 10.1038/s42256-026-01287-9."
+        }
+      ]
     }
   }
 }
