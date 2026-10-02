@@ -421,12 +421,87 @@ function AxPill({ label, onClick, t, style }) {
   );
 }
 
+/* Paddle.js를 한 번만 불러온다. 결제창을 열 때까지 로드하지 않아 첫 화면이 가벼워진다. */
+let axPaddleReady = null;
+function loadPaddle(clientToken, environment) {
+  if (axPaddleReady) return axPaddleReady;
+  axPaddleReady = new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.src = 'https://cdn.paddle.com/paddle/v2/paddle.js';
+    s.onload = () => {
+      try {
+        if (environment === 'sandbox') window.Paddle.Environment.set('sandbox');
+        window.Paddle.Initialize({ token: clientToken });
+        resolve(window.Paddle);
+      } catch (e) { reject(e); }
+    };
+    s.onerror = () => reject(new Error('paddle_script_failed'));
+    document.head.appendChild(s);
+  });
+  return axPaddleReady;
+}
+
+/* 결제 직후 권한을 다시 읽는다. 권한은 Paddle 웹훅이 열어주므로 브라우저가 결제
+   성공을 본 시점에는 아직 안 열려 있을 수 있다. 2초 간격 5회까지 기다린다. */
+async function pollEntitlement(tries = 5, gapMs = 2000) {
+  for (let i = 0; i < tries; i++) {
+    await new Promise((r) => setTimeout(r, gapMs));
+    try {
+      const me = await fetch('/api/me', { credentials: 'same-origin' }).then((r) => r.json());
+      if (me.entitled) return true;
+    } catch { /* 네트워크 일시 오류는 다음 회차에서 다시 본다 */ }
+  }
+  return false;
+}
+
 /* NOTE: rendered via createPortal to document.body — the carousel slides are CSS-
    transformed, and position:fixed inside a transformed ancestor anchors to that
    ancestor instead of the viewport (the modal appeared on the NEIGHBORING slide).
    The portal escapes the transform so the popup opens over the card you tapped,
    with the blurred locked card still visible behind the translucent backdrop. */
+/* 구독 모달 — 플랜 2종. 결제창은 Paddle 오버레이로 사이트 위에 뜬다. */
 function SubscribeModal({ onClose, t }) {
+  const [phase, setPhase] = useState('choose');   // choose | confirming | slow | error
+  const [note, setNote] = useState('');
+
+  const start = async (plan) => {
+    try {
+      const res = await fetch('/api/billing/checkout', {
+        method: 'POST', credentials: 'same-origin',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ plan }),
+      });
+      if (res.status === 401) { setPhase('error'); setNote(tx('paywall.login_first')); return; }
+      if (!res.ok) { setPhase('error'); setNote(tx('paywall.checkout_failed')); return; }
+      const cfg = await res.json();
+      const Paddle = await loadPaddle(cfg.clientToken, cfg.environment);
+      Paddle.Checkout.open({
+        items: [{ priceId: cfg.priceId, quantity: 1 }],
+        customer: { email: cfg.email },
+        customData: { email: cfg.email },      // 웹훅이 이 이메일로 권한을 연다
+        settings: { displayMode: 'overlay', theme: 'light' },
+        eventCallback: async (e) => {
+          if (e.name !== 'checkout.completed') return;
+          setPhase('confirming');
+          if (await pollEntitlement()) window.location.reload();
+          else setPhase('slow');
+        },
+      });
+    } catch {
+      setPhase('error'); setNote(tx('paywall.checkout_failed'));
+    }
+  };
+
+  const Plan = ({ plan, price, badge }) => (
+    <button onClick={() => start(plan)} style={{ display: 'block', width: '100%', textAlign: 'left',
+      padding: '13px 15px', marginBottom: 8, borderRadius: 12, cursor: 'pointer',
+      border: '1px solid ' + t.rule, background: 'transparent', fontFamily: 'Pretendard, system-ui' }}>
+      <span style={{ fontSize: 15, fontWeight: 600, color: t.hl }}>{price}</span>
+      {badge && <span style={{ marginLeft: 8, fontSize: 12, color: t.hl }}>{badge}</span>}
+      <span style={{ display: 'block', marginTop: 3, fontSize: 12, color: t.mute }}>{tx('paywall.trial')}</span>
+    </button>
+  );
+
   return ReactDOM.createPortal(
     <div onClick={(e) => { e.stopPropagation(); onClose(); }}
       style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
@@ -437,11 +512,21 @@ function SubscribeModal({ onClose, t }) {
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
           {tx('paywall.modal_body')}
         </p>
-        <AxPill label={tx('paywall.subscribe')} t={t}
-          onClick={onClose} />
-        <p style={{ margin: '10px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center' }}>
-          {tx('paywall.new_tab')}
-        </p>
+        {phase === 'choose' && (
+          <React.Fragment>
+            <Plan plan="monthly" price={tx('paywall.plan_monthly')} />
+            <Plan plan="yearly" price={tx('paywall.plan_yearly')} badge={tx('paywall.plan_yearly_note')} />
+          </React.Fragment>
+        )}
+        {phase === 'confirming' && (
+          <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.confirming')}</p>
+        )}
+        {phase === 'slow' && (
+          <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.confirm_slow')}</p>
+        )}
+        {phase === 'error' && (
+          <p style={{ margin: 0, fontSize: 14, color: '#b4453c' }}>{note}</p>
+        )}
       </div>
     </div>,
     document.body
@@ -2127,7 +2212,7 @@ function ThemedPage({ themeKey }) {
   // behind it) renders identically to before — the /api/me fetch 404s there, the
   // r.ok guard keeps it from throwing, and the catch keeps it silent (no console
   // spam beyond the one failed request). Once the Worker is live, a signed-in
-  // subscriber's /api/me returns {loggedIn:true, entitled:true} and every
+  // subscriber's /api/me returns loggedIn and entitled both set and every
   // locked card (below) renders unblurred with a lazy-fetched deep-dive instead
   // of the LockedCard subscribe overlay.
   const [auth, setAuth] = useState({ loggedIn: false, entitled: false });
