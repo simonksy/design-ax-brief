@@ -465,6 +465,17 @@ function SubscribeModal({ onClose, t }) {
   const [note, setNote] = useState('');
   const [email, setEmail] = useState('');
   const [sendingLink, setSendingLink] = useState(false);
+  // 표시 가격은 서버(env)가 확정해 준다. i18n 문자열은 그 응답이 없을 때의 폴백일
+  // 뿐이다 — 버튼이 결제창과 다른 금액을 말하는 일이 없어야 한다.
+  const [labels, setLabels] = useState(null);
+  useEffect(() => {
+    let live = true;
+    fetch('/api/billing/checkout', { credentials: 'same-origin' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (live && d && d.labels) setLabels(d.labels); })
+      .catch(() => {});
+    return () => { live = false; };
+  }, []);
 
   const start = async (plan) => {
     try {
@@ -519,8 +530,9 @@ function SubscribeModal({ onClose, t }) {
         </p>
         {phase === 'choose' && (
           <React.Fragment>
-            <Plan plan="monthly" price={tx('paywall.plan_monthly')} />
-            <Plan plan="yearly" price={tx('paywall.plan_yearly')} badge={tx('paywall.plan_yearly_note')} />
+            <Plan plan="monthly" price={(labels && labels.monthly) || tx('paywall.plan_monthly')} />
+            <Plan plan="yearly" price={(labels && labels.yearly) || tx('paywall.plan_yearly')}
+              badge={tx('paywall.plan_yearly_note')} />
           </React.Fragment>
         )}
         {phase === 'login' && (

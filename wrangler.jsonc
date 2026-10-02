@@ -24,7 +24,10 @@
     "PADDLE_ENV": "sandbox",
     "PADDLE_CLIENT_TOKEN": "",
     "PADDLE_PRICE_MONTHLY": "",
-    "PADDLE_PRICE_YEARLY": ""
+    "PADDLE_PRICE_YEARLY": "",
+    // 버튼에 표시할 금액. Paddle에서 가격이 바뀌면 배포 없이 여기만 고친다.
+    "PADDLE_PRICE_MONTHLY_LABEL": "$5.99 / month",
+    "PADDLE_PRICE_YEARLY_LABEL": "$59.99 / year"
   },
   "d1_databases": [
     { "binding": "DB", "database_name": "axbrief-subscribers", "database_id": "a82e6d9c-8393-4a6e-9d7b-4cfcbe08ea44" }

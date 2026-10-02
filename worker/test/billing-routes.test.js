@@ -254,6 +254,25 @@ describe("POST /api/billing/checkout", () => {
     }
   });
 
+  // 금액이 i18n 문자열에 박혀 있으면 Paddle에서 가격이 바뀐 순간 버튼과 결제창의
+  // 금액이 갈린다 — 차지백 사유다. 표시 금액은 서버(env)가 확정한다.
+  it("표시 가격 문구를 env에서 내려준다 (로그인 전에도 읽을 수 있다)", async () => {
+    const res = await call("/api/billing/checkout");
+    expect(res.status).toBe(200);
+    expect((await res.json()).labels).toEqual({
+      monthly: env.PADDLE_PRICE_MONTHLY_LABEL, yearly: env.PADDLE_PRICE_YEARLY_LABEL });
+  });
+
+  it("결제 시작 응답에도 선택한 플랜의 표시 문구가 실린다", async () => {
+    const cookie = await cookieFor("labels@x.com");
+    for (const [plan, want] of [["monthly", env.PADDLE_PRICE_MONTHLY_LABEL],
+                                ["yearly", env.PADDLE_PRICE_YEARLY_LABEL]]) {
+      const res = await call("/api/billing/checkout", { method: "POST", headers: { cookie },
+        body: JSON.stringify({ plan }) });
+      expect((await res.json()).label).toBe(want);
+    }
+  });
+
   it("모르는 플랜은 400", async () => {
     const cookie = await cookieFor("buyer@x.com");
     for (const body of ['{"plan":"lifetime"}', "{}", "garbage"]) {
