@@ -27,12 +27,13 @@ async function warnEmailMismatch(env, delta) {
   }
 }
 
-// 버튼에 표시할 가격 문구. 금액을 i18n 파일 10개에 문자열로 박아두면 Paddle에서
-// 가격이 바뀐 순간 버튼은 $5.99라고 하고 결제창은 다른 금액을 받는다 — 차지백 사유다.
-// 명세 §2대로 배포 없이 바꿀 수 있게 env에 둔다.
-const planLabels = (env) => ({
-  monthly: env.PADDLE_PRICE_MONTHLY_LABEL || null,
-  yearly: env.PADDLE_PRICE_YEARLY_LABEL || null,
+// 버튼에 표시할 금액. 금액을 i18n 파일 10개에 문자열로 박아두면 Paddle에서 가격이
+// 바뀐 순간 버튼은 $5.99라고 하고 결제창은 다른 금액을 받는다 — 차지백 사유다.
+// 명세 §2대로 배포 없이 바꿀 수 있게 env에 둔다. 금액만 내려보내고 '월/연' 같은
+// 주변 문구는 클라이언트의 i18n 틀이 갖는다 — 금액은 서버가 확정하고 말은 번역된다.
+const planAmounts = (env) => ({
+  monthly: env.PADDLE_PRICE_MONTHLY_AMOUNT || null,
+  yearly: env.PADDLE_PRICE_YEARLY_AMOUNT || null,
 });
 
 async function currentEmail(request, env) {
@@ -181,10 +182,10 @@ export default {
       return json({ ok: true, result });
     }
 
-    // 가격 문구만 읽어가는 공개 조회 — 플랜 목록은 로그인 전에도 보이므로 인증을
+    // 가격만 읽어가는 공개 조회 — 플랜 목록은 로그인 전에도 보이므로 인증을
     // 요구하지 않는다. 금액 외에 아무것도 노출하지 않는다.
     if (p === "/api/billing/checkout" && request.method === "GET")
-      return json({ labels: planLabels(env) });
+      return json({ amounts: planAmounts(env) });
 
     // 결제 시작 — price id를 번들에 박지 않고 여기서 내려준다. 로그인을 요구하는
     // 이유: 결제 이메일과 로그인 이메일이 갈리면 돈을 내고도 아무것도 안 열린다.
@@ -201,7 +202,7 @@ export default {
                     : plan === "yearly" ? env.PADDLE_PRICE_YEARLY : null;
       if (!priceId) return json({ reason: "unknown_plan" }, 400);
       return json({ priceId, email, clientToken: env.PADDLE_CLIENT_TOKEN,
-                    label: planLabels(env)[plan], labels: planLabels(env),
+                    amount: planAmounts(env)[plan], amounts: planAmounts(env),
                     environment: env.PADDLE_ENV === "sandbox" ? "sandbox" : "production" });
     }
 

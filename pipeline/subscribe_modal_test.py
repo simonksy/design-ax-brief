@@ -25,6 +25,7 @@ for key in ("monthly", "yearly"):
 
 # 6) 새 문구 키가 5개 언어에 모두 있다
 need = ["paywall.plan_monthly", "paywall.plan_yearly", "paywall.plan_yearly_note",
+        "paywall.plan_monthly_fmt", "paywall.plan_yearly_fmt",
         "paywall.trial", "paywall.login_first", "paywall.confirming",
         "paywall.confirm_slow", "paywall.checkout_failed"]
 for lang in ("ko", "en", "ja", "zh", "es"):
@@ -40,6 +41,15 @@ assert "/api/auth/request" in src, "no login path inside the subscribe modal"
 
 # 8) 구독자에게 관리 링크를 제공한다
 assert "/api/billing/portal" in src, "no manage-subscription link"
+
+# 8b) 금액은 서버가 확정한 값을 i18n 틀에 끼워 보여준다 — 금액을 번들·i18n에 박아두면
+#     Paddle에서 가격이 바뀐 순간 버튼과 결제창의 금액이 갈린다
+assert "plan_${plan}_fmt" in src, "plan price is not composed from the server-provided amount"
+for lang in ("ko", "en", "ja", "zh", "es"):
+    d = json.load(open(os.path.join(ROOT, "i18n", f"{lang}.json"), encoding="utf-8"))
+    for key in ("paywall.plan_monthly_fmt", "paywall.plan_yearly_fmt"):
+        assert "{amount}" in d[key], f"{lang}.json {key} has no {{amount}} placeholder"
+        assert "$" not in d[key], f"{lang}.json {key} hardcodes an amount"
 
 # 9) 새 문구 키도 5개 언어에 모두 있다
 need2 = ["paywall.email_label", "paywall.send_link", "paywall.link_sent", "paywall.manage",

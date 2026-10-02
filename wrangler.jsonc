@@ -26,8 +26,9 @@
     "PADDLE_PRICE_MONTHLY": "",
     "PADDLE_PRICE_YEARLY": "",
     // 버튼에 표시할 금액. Paddle에서 가격이 바뀌면 배포 없이 여기만 고친다.
-    "PADDLE_PRICE_MONTHLY_LABEL": "$5.99 / month",
-    "PADDLE_PRICE_YEARLY_LABEL": "$59.99 / year"
+    // 금액만 둔다 — '월/연' 같은 주변 문구는 i18n의 틀(paywall.plan_*_fmt)이 갖는다.
+    "PADDLE_PRICE_MONTHLY_AMOUNT": "$5.99",
+    "PADDLE_PRICE_YEARLY_AMOUNT": "$59.99"
   },
   "d1_databases": [
     { "binding": "DB", "database_name": "axbrief-subscribers", "database_id": "a82e6d9c-8393-4a6e-9d7b-4cfcbe08ea44" }
