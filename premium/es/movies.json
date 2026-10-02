@@ -3535,6 +3535,396 @@
           "x": "Cuando se entrena con una sola canción, se arrastra de golpe la parte del productor, el compositor, el ingeniero, el mezclador y los músicos. En el cine es peor: guionistas, directores de fotografía, diseñadores de producción, editores, editores de sonido, artistas de Foley, hasta artistas de VFX. El texto termina con una frase dirigida al Congreso: “¿Quién de ustedes se convertirá en el campeón de la creatividad humana?”"
         }
       ]
+    },
+    "movies/movies-ae-portal-aug-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/ba2-1024x576.jpg",
+          "cap": "After Effects Portal August 2026 · ProVideo Coalition"
+        },
+        {
+          "t": "p",
+          "x": "Este es el resumen mensual de After Effects que escribe Rich Young. La primera mitad de este año ha sido un torrente de grandes funciones, competencia entre IA y versiones premium, y noticias de terceros. La versión estable actual es la 26.3, de la versión de junio de 2026."
+        },
+        {
+          "t": "p",
+          "x": "La 26.3 añadió profundidad de campo para el Advanced 3D Renderer, copiar y pegar contenido de Illustrator y SVG, un rastreador de máscaras mejorado, copia de fotogramas al portapapeles, un efecto Curl Noise que envuelve patrones 2D, búsqueda de fuentes variables por eje, y el panel de Frame.io V4."
+        },
+        {
+          "t": "p",
+          "x": "Con IBC y Adobe MAX a la vuelta de la esquina, el lado beta está muy activo. After Effects AI Assistant, texto editable importado desde archivos de Illustrator, una nueva función de guías, el caché en disco de Object Matte, Contour Paint, la duplicación de capas arrastrando con Alt/Option, cambios de punto de anclaje, una modernización del panel de controles de efectos, y etiquetas de color para efectos están en la lista de la beta."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/aeicon_b-417x400.jpg",
+          "cap": "After Effects · ProVideo Coalition"
+        },
+        {
+          "t": "p",
+          "x": "A largo plazo, el AI Assistant es lo más importante. En vez de seguir menús, describes con palabras lo que quieres hacer, y el asistente hace preguntas de seguimiento para ir afinándolo. El asistente convierte esa solicitud en acciones dentro del proyecto y la composición. Por ahora puede organizar proyectos, trabajar con expresiones, y generar imágenes y vídeo. SternFX y flomotion publicaron cada uno un vídeo de presentación."
+        },
+        {
+          "t": "video",
+          "yt": "SBRxqTsuiE8"
+        },
+        {
+          "t": "p",
+          "x": "Los intentos de meter IA en AE no se limitan a Adobe. Atom y la extensión de Claude/Higgsfield son los ejemplos más destacados, y Davey Design dice que creó el primer agente de IA para After Effects. Jake Bartlett habla bien de Atom, pero todavía no hay comparación con la versión de Adobe."
+        },
+        {
+          "t": "p",
+          "x": "También hay noticias del lado gratuito. El panel gratuito de Jake In Motion, Code Runner 2, agrupa scripts, expresiones, presets, comandos de menú y suavizado de keyframes en un solo botón. Caddis 1.0.5 es compatible con Linux y MCP y ofrece una prueba de 7 días. Maxon está impulsando que la gente empiece gratis con Autograph, y Cavalry, que compró Canva, también se volvió gratuito."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/forensics-1024x800.jpg",
+          "cap": "Digital Image Forensics · ProVideo Coalition"
+        },
+        {
+          "t": "p",
+          "x": "404 Media habló con Hany Farid sobre el futuro de los deepfakes. Farid es cofundador de GetReal, la empresa de detección de imágenes con IA, y la persona que creó PhotoDNA, el algoritmo de hash perceptual que hoy usan todas las grandes plataformas."
+        },
+        {
+          "t": "p",
+          "x": "La generación en tiempo real ya está a la vuelta de la esquina. Pero, ¿de verdad se generará cada píxel, como dice Jensen Huang? Los que están en medio quieren llevarse cada uno su tajada, pero la contrapregunta de Rich Young es que no hay razón para que la mayoría del trabajo no se pueda hacer en local. Si quieres ser una utilidad, también tienes que estar preparado para la regulación."
+        }
+      ]
+    },
+    "movies/movies-ibc-2026-preview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://api.definitionmagazine.com/wp-content/uploads/2026/08/IBC-13-09-24_HR_Melanie-Lemahieu-18-scaled.jpeg",
+          "cap": "IBC Show · Melanie Lemahieu"
+        },
+        {
+          "t": "p",
+          "x": "45.000 profesionales de los medios y el entretenimiento se dirigen a Ámsterdam. IBC, que originalmente era un evento centrado en la radiodifusión, ahora llega a casi todos los rincones de la industria. Los grandes anuncios de productos se concentran en esta época, y la calidad y cantidad de charlas es difícil de comparar con otras conferencias."
+        },
+        {
+          "t": "p",
+          "x": "Este año la sede vuelve a ser el RAI de Ámsterdam, del 11 al 14 de septiembre. Se reúnen unas 1.300 empresas y 45.000 personas, repartidas en 14 pabellones que cubren 43.000 pies cuadrados. Como dice el texto del programa, “hay contenido por todas partes”."
+        },
+        {
+          "t": "p",
+          "x": "La conferencia principal se centra en dónde y cómo incorporar la IA en la industria de los medios, los nuevos modelos de ingresos, los hábitos de visualización y los cambios en las retransmisiones deportivas. Netflix, Meta, Google, BBC Studios, Warner Bros. Discovery, FIFA y Adobe figuran entre los ponentes. Uno de los ejes de este espacio, que requiere un pase aparte, es la presentación de artículos técnicos revisados por pares. La pregunta de este año es: “¿Hacia dónde debe ir la tecnología para nuestro negocio?”."
+        },
+        {
+          "t": "p",
+          "x": "Más de 600 ponentes suben a los escenarios repartidos por los pabellones. Future Tech, en el Hall 14 y creado el año pasado, conecta startups con nuevas tecnologías, con un programa de cuatro días en la Startup Zone y el Ignite Stage."
+        },
+        {
+          "t": "img",
+          "src": "https://api.definitionmagazine.com/wp-content/uploads/2026/08/475A0518-scaled.jpeg",
+          "cap": "IBC 2026 · Definition"
+        },
+        {
+          "t": "p",
+          "x": "En lentes, Irix, Angénieux, SIGMA, DZOFILM, Fujinon y SAMYANG presentan productos nuevos. En cámaras, Sony, Canon, Blackmagic Design, RED, Panasonic, Fujifilm y Nikon muestran nuevos modelos de cine y producción y soluciones de flujo de trabajo. En iluminación, Aputure, Godox y Nanlite traen luminarias LED y control inalámbrico."
+        },
+        {
+          "t": "p",
+          "x": "El espacio dedicado al software y al flujo de trabajo crece cada año. Desarrolladores como Adobe, Louper, Mnemonica y Avid presentan avances en edición, gráficos, colaboración y producción en la nube. El almacenamiento que sostiene los flujos de trabajo con datos cada vez más pesados corre a cargo de OWC, Synology, Quantum y SNS."
+        },
+        {
+          "t": "p",
+          "x": "El estand de Blackmagic Design es el 7.C49. Coloca la URSA Cine 17K 65 y la URSA Cine 12K LF una junto a la otra para que se vea directamente la diferencia entre el digital 65 y el formato grande. También está presente la compacta PYXIS 12K, que usa el mismo sensor RGBW. La URSA Cine 12K LF 100G, presentada en el NAB, combina un sensor de formato grande con transferencia de alta velocidad de fotogramas vía SMPTE ST 2110 sobre Ethernet de 100G, y la URSA Cine Immersive muestra producción de Apple Immersive Video. En posproducción, DaVinci Resolve Studio 21 y Blackmagic Cloud muestran herramientas asistidas por IA que atraviesan edición, VFX, color y acabado, junto con proyectos compartidos y colaboración remota."
+        },
+        {
+          "t": "p",
+          "x": "Sony trae la línea de cine FX5, el bloque de sensor RIALTO 65 que amplía la VENICE 2 a 65mm, y la cámara PTZ de autoencuadre SRG-AS10. Definition también destacó otros estands como amaran, Aputure, Astera, Atomos, BirdDog, Clear-Com, EIZO, Flanders Scientific, Mnemonica y Strada. Este artículo se publicó en el número de agosto/septiembre de 2026 de Definition."
+        }
+      ]
+    },
+    "movies/movies-resolve-21-webinars": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/davinci%20resolve%20ai.jpg",
+          "cap": "Webinar de DaVinci Resolve 21 · RedShark News"
+        },
+        {
+          "t": "p",
+          "x": "Blackmagic Design abrió las inscripciones para seis webinars gratuitos de DaVinci Resolve 21, de 90 minutos, entre septiembre y noviembre de 2026. Repasan desde lo básico para principiantes hasta las herramientas de IA."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta ha sido buena en los últimos años, así que este año se mantiene el mismo formato. Están dirigidos a cineastas, editores, coloristas y artistas de VFX, sin importar el nivel. Cada sesión dura 90 minutos por Zoom, con un enlace de inscripción distinto para cada fecha."
+        },
+        {
+          "t": "p",
+          "x": "El 18 de septiembre a las 13:00 UTC, “DaVinci Resolve for New Users” recorre todas las páginas de DaVinci Resolve Studio 21 para quienes recién empiezan. El 25 de septiembre a las 13:00 UTC, “Creativity from Photo to Video” está dirigido a fotógrafos y cineastas, y trata el uso de herramientas de color en fotos fijas, la organización y edición de imágenes, y cómo mezclar fotos en trabajos de video con corrección de color basada en IA y efectos cinematográficos."
+        },
+        {
+          "t": "p",
+          "x": "El 23 de octubre a las 13:00 UTC, “Color Fundamentals for Editors” trata cómo igualar imágenes grabadas con cámaras distintas y luego gradar con capas y nodos. El 30 de octubre a las 14:00 UTC, “Switching to DaVinci Resolve” es para editores que vienen de otras plataformas, y cubre el diseño y la organización de medios, la preparación de la línea de tiempo, y la configuración de proyectos colaborativos para compartir en equipo."
+        },
+        {
+          "t": "p",
+          "x": "El 20 de noviembre a las 14:00 UTC, “Workflows from Camera to Delivery” recorre todo el proceso de posproducción, desde la gestión de medios hasta la edición y gradación de originales en Blackmagic RAW, la mezcla de audio y la entrega. El último, el 27 de noviembre a las 14:00 UTC, “Work Smarter with AI Tools”, se centra en reducir el trabajo manual repetitivo con Object Removal, IntelliScript, IntelliSearch, Magic Mask, Voice Isolation y efectos cinematográficos."
+        },
+        {
+          "t": "p",
+          "x": "Como el año pasado, la organización corre a cargo de Blackmagic EMEA, por lo que las zonas horarias resultan incómodas para quienes están fuera de Europa. También como el año pasado, al parecer no hay bloqueo regional, así que en la costa oeste de EE.UU. habrá que madrugar antes del amanecer, pero no hay razón para dejar pasar material gratuito."
+        }
+      ]
+    },
+    "movies/movies-tiff-future-in-focus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/08/Future-in-Focus-Utopai-Studios-EA.jpg?w=1000&h=666&crop=1",
+          "cap": "Variety Future in Focus · Courtesy Images; Wilson: Darcy Hemley"
+        },
+        {
+          "t": "p",
+          "x": "Variety Future in Focus, patrocinado por Utopai Studios, reúne a directores y creadores en el Festival Internacional de Cine de Toronto (TIFF). Se celebra solo por invitación el 12 de septiembre, y analiza cómo la innovación está cambiando la técnica y el arte de hacer cine."
+        },
+        {
+          "t": "p",
+          "x": "James McAvoy se sienta con Variety para hablar de su trabajo y del arte cambiante de contar historias. También sale el tema de “California Schemin',” que dirigió y produjo. “Face”, en la que actúa, tendrá su primera proyección en el TIFF."
+        },
+        {
+          "t": "p",
+          "x": "También hay una conversación con Rachel Morrison, directora de fotografía nominada al Oscar y directora de “Love of Your Life”. Esa película también se estrena en el TIFF. La modera Angelique Jackson, reportera sénior de entretenimiento de Variety, siguiendo la forma de trabajar de Morrison."
+        },
+        {
+          "t": "p",
+          "x": "En el panel están Stephanie Ahn, guionista y directora de “Bedford Park”; Karsten Kurpanek, jefe de producción de Utopai Studios y editor de “Coyote vs. Acme”; Liz Garbus, directora de “Give Me the Ball!” y cofundadora de Story Syndicate; Rebel Wilson, directora, guionista y actriz de “Girl Group”; y Basil Iwanyk, fundador y CEO de Thunder Road Films. Moderado por Matt Donnelly, coeditor de cine de Variety, repasa tendencias recientes como la IA y la narrativa inmersiva, y cada uno expone su manera de construir mundos y personajes hoy."
+        },
+        {
+          "t": "p",
+          "x": "“En Utopai Studios estamos construyendo un nuevo modelo de producción cinematográfica. Damos a los creadores más formas de llevar ideas ambiciosas a la pantalla, mientras mantenemos su visión en el centro de cada producción”, dijo Kevin Jung, director de operaciones de Utopai Studios. “El futuro del cine se construye donde se encuentran el arte, la tecnología y nuevas formas de producción. Por eso nos alegra unirnos a Variety en el TIFF. Queremos ver hasta dónde las nuevas herramientas, técnicas y enfoques creativos amplían lo que los directores pueden lograr, y cómo esas historias llegan al público.”"
+        }
+      ]
+    },
+    "movies/movies-boyle-venice-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/3/7/1/1486371_114769press_conference__ink__director_danny_boyle__credits_ph_jacopo_salvi__courtesy_archivio_storico_la_biennale_di_venezia__312458.jpg",
+          "cap": "Danny Boyle · Jacopo Salvi/La Biennale di Venezia"
+        },
+        {
+          "t": "p",
+          "x": "Danny Boyle expresó una profunda preocupación por el impacto que la inteligencia artificial podría tener en el periodismo y otros campos. 「It's insane what we're doing.」"
+        },
+        {
+          "t": "p",
+          "x": "「El periodismo es uno de los grandes pilares que sostienen cualquier civilización,」 dijo Boyle en la conferencia de prensa de su película 'Ink', que esta noche abre la sección competitiva del Festival de Venecia. 「Hay personas que se levantan y le dicen la verdad al poder. Que una sociedad tenga gente así importa muchísimo.」"
+        },
+        {
+          "t": "p",
+          "x": "「El peligro es que las grandes empresas tecnológicas y su IA puedan sustituir al periodismo,」 dijo Boyle. 「Se podrá contar con un periodista de IA mucho más eficiente y barato. ¿Ese periodista de IA le dirá la verdad al poder que lo creó? Va a ser una cuestión muy difícil e interesante.」"
+        },
+        {
+          "t": "p",
+          "x": "Boyle consideró que otras profesiones, incluida la docencia, están igualmente en riesgo. 「Los profesores también son uno de los pilares que sostienen nuestra sociedad, y los profesores también pueden ser sustituidos por la IA. Lo que estamos haciendo es una locura. ¿Dónde está ese pueblo que todos necesitamos? Y dentro de ese pueblo hay personas que dicen verdades que, por lo que dicen, a veces resultan incómodas e impopulares.」"
+        },
+        {
+          "t": "p",
+          "x": "「Quiero que 'Ink' plantee esas preguntas sobre el futuro, y sobre el lugar hacia el que nos estamos abriendo paso.」"
+        },
+        {
+          "t": "p",
+          "x": "Adaptada de la obra de teatro de James Graham, la película comienza en 1969. Cuenta la historia de un magnate mediático en ascenso, Rupert Murdoch, que compra 'The Sun' y, junto con el editor Larry Lamb, lo convierte en el tabloide más influyente de Gran Bretaña."
+        },
+        {
+          "t": "p",
+          "x": "「Encontrar el equilibrio es realmente complicado,」 respondió Graham cuando le preguntaron cómo creía que Murdoch vería la película. 「Para informar hay que conseguir acceso, pero al mismo tiempo hay que mantener la independencia, la integridad y la distancia.」"
+        },
+        {
+          "t": "p",
+          "x": "「Era muy bueno para no filtrar nada, y probablemente ese sea uno de los secretos de su éxito,」 continuó Graham. 「Hay algo que recuerdo. A Murdoch le encantaron de verdad las escenas de impresión tipográfica que recreamos en la película. El polvo, el vapor y la suciedad que quedaban de hacer un periódico cada día. Es un hombre de noticias. Se le ve solo como empresario, pero tiene un romance con las noticias.」"
+        },
+        {
+          "t": "p",
+          "x": "Guy Pearce, que como Murdoch nació en Australia, dijo que se había puesto en contacto con la hija de Murdoch y productora, Elisabeth Murdoch, por el reparto. 「Me dijo: 'a mi padre le encanta que lo interpretes.' En ese momento yo todavía no había visto la película, así que habrá que verlo.」"
+        },
+        {
+          "t": "p",
+          "x": "Boyle reconoció que 「a mucha gente le encanta 'The Sun' y a mucha gente le disgusta,」 y dijo que, igual que la obra de teatro, la película 「no convierte a Rupert Murdoch en un monstruo.」"
+        },
+        {
+          "t": "p",
+          "x": "「En aquella época él era como una bocanada de aire fresco en una sociedad británica muy rígida, y enfrentó no poco prejuicio por ser australiano. Él odiaba especialmente a la clase dirigente británica, y yo siento lo mismo.」"
+        },
+        {
+          "t": "p",
+          "x": "「Espero que la película sea muy divertida. Nos importaba que el público se sintiera, desde el principio, como un cómplice que ha metido un pie en este viaje junto con nosotros.」"
+        },
+        {
+          "t": "p",
+          "x": "Netflix compró en julio los derechos de 'Ink' para Estados Unidos y América Latina, y Studiocanal se encarga de las ventas mundiales."
+        },
+        {
+          "t": "p",
+          "x": "El Festival de Venecia se celebra del 2 al 12 de septiembre."
+        }
+      ]
+    },
+    "movies/movies-firefly-audio-tools": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las noticias de Adobe Firefly se habían centrado últimamente en actualizaciones de flujos de trabajo agénticos. Esta vez le toca al audio. Las funciones para generar música, voz y efectos de sonido han lanzado oficialmente y se abren a todos los usuarios. La promesa de un audio de IA seguro para uso comercial se mantiene igual."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/adobe-firefly-audio-tools.webp?id=67674816&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+          "cap": "Adobe Firefly Audio Tools / Credit: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas en sí no son nuevas. Lo que ocurre es que Generate Music, Generate Speech y Generate Sound Effects han pasado todas a estado activo y se han reunido en un solo lugar dentro de Firefly."
+        },
+        {
+          "t": "p",
+          "x": "Generate Music usa el modelo Firefly Music. Crea pistas originales ajustadas a la duración y el ambiente del video. La licencia está completamente asegurada, así que no hay que preocuparse por retiradas de contenido sin importar adónde vaya."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.webp?id=67674817&width=980",
+          "cap": "Credit: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Generate Speech se basa en el modelo Firefly Speech, y también se pueden elegir voces de ElevenLabs. Al introducir un guion se obtiene una narración clara, con control sobre la voz, el ritmo y la emoción. Generate Sound Effects usa el modelo Firefly Audio para crear sonidos acordes con la acción, el tiempo y la energía."
+        },
+        {
+          "t": "p",
+          "x": "Una versión de Generate Music se lanzó hace más de dos años. Desde entonces se ha consolidado como una opción para obtener pistas originales seguras para uso comercial."
+        },
+        {
+          "t": "p",
+          "x": "El Firefly AI Assistant, aún en beta, también se abrió de forma gratuita. Su alcance ahora incluye crear storyboards para proyectos de cine y video, y kits de marca para marketing. Gemini Omni Flash se ha añadido a la lista de modelos disponibles en Firefly. Google, ElevenLabs, Kling AI, Luma AI, OpenAI y Runway, entre otros, ya figuraban en la lista."
+        }
+      ]
+    },
+    "movies/movies-flying-bark-avatar-aang": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Es la historia del Avatar maestro aire que los fans ya conocen. La animación es distinta. Algunos han llegado a decir que supera las expectativas y al original, aunque quienes la hicieron no lo expresan así. “Nuestro equipo era casi en su totalidad fan de 'Avatar: la leyenda de Aang'.” Son palabras de Christian Bakel, de Flying Bark Productions, quien fue director de animación de este largometraje."
+        },
+        {
+          "t": "p",
+          "x": "'Avatar Aang: The Last Airbender' se sitúa 13 años después de la serie de Nickelodeon creada por Michael Dante DiMartino y Bryan Konietzko. La animación estuvo a cargo de Flying Bark y Studio Mir. Lauren Montgomery dirigió, con Steve Ahn y William Mata como codirectores. Está disponible en Paramount+."
+        },
+        {
+          "t": "video",
+          "yt": "7b20GRFZBFE"
+        },
+        {
+          "t": "p",
+          "x": "La serie original se basaba en dibujos a mano y fondos pintados. Por eso Flying Bark optó por un enfoque NPR (renderizado no fotorrealista). Trabajando como pintores dentro del espacio de pantalla, construyendo las imágenes capa por capa, trazo por trazo, mientras dejaban el movimiento de cámara, el tracking, la iluminación dinámica y la estabilidad temporal a cargo de la animación 3D."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081317-1081103-avataraangthelastairbender3840x21600026-1280-1280.jpg?itok=j67ZBN_u",
+          "cap": "'Avatar Aang: The Last Airbender'"
+        },
+        {
+          "t": "p",
+          "x": "“La acción es una gran parte de la película, y las escenas de pelea tienen mucha rotación de cámara.” Así lo explica la directora ejecutiva Barbara Stephen. “Queríamos crear ese espacio dinámico. Pero basta con que la ropa de un personaje se salga del modelo para que se note.” Bakel añadió: “Lidiar con una cámara en constante movimiento mientras se ajustaban cada gesto sutil de la mano, la postura y el apoyo de los pies suponía una gran carga. La visión de la película era tan específica que no había ningún programa ni software que pudiéramos simplemente tomar y usar. Nos tomó tres años crear nuevas herramientas y un nuevo proceso para lograr ese aspecto.”"
+        },
+        {
+          "t": "p",
+          "x": "El dibujo digital fotograma a fotograma se hizo en Toon Boom, y el coloreado en Photoshop. A eso se sumó software de CG como Katana, Arnold y Maya Blender, y la composición final se terminó en Nuke. “Usamos mucha tecnología, pero al final queríamos que todo pareciera hecho a mano.” Son palabras de Bakel. “Se sentía como si hubiéramos tomado las partes más difíciles y laboriosas de la animación 2D y de la producción en CG y las hubiéramos pegado juntas.”"
+        },
+        {
+          "t": "p",
+          "x": "El equipo casi no tenía expertos en artes marciales. Avatar Studios, que sí contaba con especialistas, envió metraje de captura de movimiento para que el movimiento de esos planos se ajustara a la realidad. En esta película no se usó ningún rig 2D. “A veces se puede reutilizar un dibujo,” dijo Bakel. “Pero la mayor parte, lo dibujamos todo.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081317-1081103-avataraangthelastairbender3840x21600008-1280-1280.jpg?itok=FLpENZq8",
+          "cap": "'Avatar Aang: The Last Airbender'"
+        },
+        {
+          "t": "p",
+          "x": "Los personajes se enfrentan al agua, el fuego, el aire y la tierra, elementos impredecibles. “Todo el mundo quería probar con el espíritu del agua en algún momento. Hay tanta física y actuación que resolver.” El doblegado (bending) fue especialmente difícil. A diferencia de la física de un chapoteo o un cubo que se vuelca, había que calcular fuerzas invisibles que debían encajar con precisión con el movimiento del personaje. Un solo plano podía pasar por más de 20 artistas y varios departamentos, y algunos planos tardaron entre seis y nueve meses en completarse."
+        },
+        {
+          "t": "p",
+          "x": "El aire a veces es visible y a veces no, así que decidieron mostrar el flujo de las emociones a través de la tela y el cabello. Como todo se dibujaba a mano, los animadores tuvieron que imaginar y diseñar por sí mismos la dirección y la fuerza del viento, su consistencia, qué se movía más y qué se asentaba antes por su longitud y peso. “Era conocer y entender la física, y después encontrar dónde romperla para que se vea mejor que la realidad y deje una huella emocional más grande.”"
+        }
+      ]
+    },
+    "movies/movies-tilly-norwood-disclosure": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Eline Van der Velden, la creadora de Tilly Norwood, ha pedido a las radiodifusoras de servicio público (PSB) que aumenten su inversión en IA. Lo dijo siendo muy consciente de la mala fama que arrastra la tecnología: decir que trabajas con IA es un poco como admitir que tienes una ETS."
+        },
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/480xAny/8/7/1/1485871_unknown1_314055_crop.jpg",
+          "cap": "Eline Van der Velden / Source: Particle6"
+        },
+        {
+          "t": "p",
+          "x": "Tilly Norwood, la actriz de IA que ella creó, se hizo conocida internacionalmente el año pasado. Actores de Hollywood y figuras importantes de la industria reaccionaron en contra, preocupados por este software en rápido crecimiento y su posible impacto en los sectores creativos."
+        },
+        {
+          "t": "p",
+          "x": "Van der Velden, CEO de origen neerlandés de Particle6, con sede en Londres, planteó otro punto en la sesión de apertura del Festival de Televisión de Edimburgo. Dijo que ha firmado “cientos de NDA” con empresas, desde estudios estadounidenses hasta productoras independientes locales, que buscan incorporar la IA a su proceso de trabajo. “No hay muchas salas de juntas a las que no nos hayan invitado.” Lo que insinuaba era que sabe cuánta IA usan estas empresas entre bastidores."
+        },
+        {
+          "t": "p",
+          "x": "El problema viene después, señaló, medio en broma. “Decir que trabajas con IA es como decir que tienes una ETS. Nadie quiere admitirlo.”"
+        },
+        {
+          "t": "p",
+          "x": "Van der Velden instó a las televisoras públicas del Reino Unido a dejar atrás el estigma e invertir en formar a su personal en IA, argumentando que es necesario para proteger la capacidad creativa del país. “Aquí se está dando una carrera armamentista enorme. El Reino Unido fue una potencia creativa porque podía hacer lo que quisiera como quisiera.” Añadió que la tecnología no debería verse como una forma de recortar costos, sino como “un medio completamente nuevo”."
+        },
+        {
+          "t": "p",
+          "x": "Joshua Barnett, CEO de After Party Studios, adquirida recientemente por Sister Group, dijo que usó IA para el paquete creativo de 'The Ultimate Football Challenge', presentado por Jürgen Klopp. James Duncan, cofundador de ShxtsNGigs, dijo que no le preocupa que el contenido hecho con IA le robe audiencia en YouTube, y lo ve más bien como un complemento a la creatividad humana. El nicho más útil ahora mismo, dijo, son “cosas que no se pueden hacer físicamente”, y predijo que un video de IA de “alguien haciendo cuatro flips hacia atrás en una montaña” no tendría éxito con el público."
+        }
+      ]
+    },
+    "movies/movies-tippett-studio-closing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una gran parte de la historia de la animación y los efectos visuales se vende este fin de semana en Berkeley, California. El animador ganador del Óscar y pionero de los efectos Phil Tippett está cerrando el estudio que ha mantenido durante décadas, liquidando años de utilería, modelos, obras de arte, equipo y recuerdos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Tippett-Auction.jpg",
+          "cap": "Liquidación del estudio Tippett"
+        },
+        {
+          "t": "p",
+          "x": "Las instalaciones de Tippett Studio, de 6,200 pies cuadrados, se vacían en una liquidación de tres días que termina el domingo. Según el listado de venta, Tippett usó este espacio de Berkeley durante 35 años, y “todo sale”, desde equipo de stop-motion y captura de movimiento hasta cámaras, herramientas de modelado y documentos de producción. Hay cientos, quizá miles, de piezas surgidas del trabajo del estudio."
+        },
+        {
+          "t": "p",
+          "x": "A la venta hay modelos y bocetos de 'Mad God', un modelo de prueba de artista del AT-AT de 'El Imperio contraataca', miniaturas de 'Starship Troopers', pósteres firmados, storyboards, vestuario y prototipos. También hay tres modelos vinculados a la escena del ajedrez Dejarik de la 'Star Wars' original. Se incluye también toda la infraestructura del taller en funcionamiento: computadoras, impresoras 3D, equipo de iluminación, equipo de soldadura, una prensa de taladro, equipos para hacer moldes y cajas de herramientas."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos objetos que no se venden: los Óscar. Sobre los trofeos que recibió por 'El regreso del Jedi' y 'Jurassic Park', el director, de 74 años, le dijo a CBS San Francisco: “Son lo más valioso, y fueron los momentos más significativos de mi trayectoria.” Sobre dejar ir el resto, confesó: “De vez en cuando me pasa un poco de arrepentimiento.”"
+        },
+        {
+          "t": "p",
+          "x": "El cierre marca el final de un período difícil para uno de los nombres más destacados de los efectos visuales estadounidenses. Tippett Studio acordó en 2024 ceder una participación mayoritaria a la empresa india de VFX PhantomFX y se declaró en quiebra bajo el Capítulo 11 en mayo de ese año. Un plan de reorganización fue aprobado en abril de 2025, y PhantomFX dijo que completó la adquisición en julio de ese mismo año."
+        },
+        {
+          "t": "p",
+          "x": "Tippett y su esposa y socia productora, Jules Roman, fundaron el estudio en 1984. Tras trabajar en la 'Star Wars' original, Tippett ayudó a desarrollar el go-motion, una evolución del stop-motion con desenfoque de movimiento incorporado. El momento que definió su carrera llegó con 'Jurassic Park'. Entró para construir marionetas de dinosaurios en stop-motion, pero cuando la producción giró hacia el CG, se adaptó junto con su equipo. Se convirtió en un puente que llevó el conocimiento del stop-motion y su sensibilidad física a la entonces incipiente animación por computadora, y las técnicas que estableció entonces marcaron décadas de animación de personajes y efectos visuales."
+        },
+        {
+          "t": "p",
+          "x": "Después, el estudio trabajó en 'Starship Troopers', la saga de 'Matrix', 'Hellboy' y 'Twilight'. Mientras tanto, Tippett fue haciendo, cuando podía, el largometraje en stop-motion 'Mad God', que se estrenó en Locarno en 2021."
+        },
+        {
+          "t": "p",
+          "x": "Cerrar Berkeley no hace desaparecer el nombre de Tippett Studio. PhantomFX completó la adquisición el año pasado, y el nuevo propietario sigue usando el nombre. Lo que termina es el taller que forjó décadas de historia del cine. “Duró casi 40 años. Fue un buen recorrido.” No parece tener intención de retirarse todavía: “Voy a morir con un cuchillo en la mano.”"
+        }
+      ]
     }
   }
 }

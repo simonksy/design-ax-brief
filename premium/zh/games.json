@@ -3936,6 +3936,292 @@
           "x": "可复现性并不能保证评测本身就是准确的。但它能让人看清背后的前提。代码和示例，从安装到命令行第一份报告的全程指引，写给代理的说明都在仓库的README里。"
         }
       ]
+    },
+    "games/games-nimble-fox-launches-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.43.54-AM-scaled.png",
+          "cap": "接入Unity编辑器的Nimble Fox"
+        },
+        {
+          "t": "p",
+          "x": "赫尔辛基的一家创业公司推出了一款AI协作工具,只要用语言说明想要什么,Unity开发者就能据此制作游戏。"
+        },
+        {
+          "t": "p",
+          "x": "Nimble Fox将于9月7日向公众开放这款工具。开发者可以直接在游戏引擎内输入提示词来制作和修改游戏。上线时将同时开放免费版和付费版。"
+        },
+        {
+          "t": "p",
+          "x": "它不是一次性生成整款游戏的方式,而是像游戏玩法机制或UI流程这类范围明确的改动,按功能一项项叠加。它会进入Unity编辑器,读取现有项目的上下文,用自然语言提示修改已有的代码、美术和素材,或新建缺失的部分。投资方包括Sisu Game Ventures、Wave Ventures和First Fellow Partners。"
+        },
+        {
+          "t": "p",
+          "x": "创始人兼CEO Jonne Myöhänen厌倦了把一个游戏想法变成可玩版本所需耗费的时间,因此启动了这个项目。“我有很多游戏点子,但不想把几个月都花在做原型上,”他在新闻稿中说。“我开始做Nimble Fox,把它当作一个更快的创作出口。”"
+        },
+        {
+          "t": "p",
+          "x": "2025年秋天,该项目在Aalto Entrepreneurship Society的Ignite加速器中夺冠后成为一家公司。此后完成了一轮融资,在赫尔辛基组建了六人的全职团队,还拿到了Business Finland的研发补助。"
+        },
+        {
+          "t": "p",
+          "x": "Myöhänen表示他的目标不止于代码生成。“我认为这里的机会,远比AI单纯生成代码大得多,”他说。“真正有用的部分不是写代码,而是AI在整个Unity项目范围内,处理把一个请求变成游戏里真正能跑起来的东西所需的那些工作。”"
+        },
+        {
+          "t": "p",
+          "x": "这款工具围绕开发者和工作室认为最耗时的工作而打造,目标是在不夺走开发者创作主导权的前提下减少手工劳动。公司也在考虑为单个工作室的大型游戏定制专属版本,接到功能需求后,直接在该工作室的项目里实现可运行的第一个版本。"
+        },
+        {
+          "t": "p",
+          "x": "Myöhänen目前通过面向芬兰早期创业者的Silta Program留在旧金山。在9月7日上线前,他正与多家游戏工作室会面,向美国市场介绍Nimble Fox。"
+        },
+        {
+          "t": "p",
+          "x": "配合上线,9月4日至6日将在赫尔辛基和线上举行一场48小时的混合活动Nimble Game Jam。参与者可在活动期间免费使用Nimble Fox,整个周末制作游戏。评委是Samuli Syvähuoko、Jonne Taivassalo和Ignacio Amaya。"
+        },
+        {
+          "t": "p",
+          "x": "公司在新闻稿中表示,将继续根据客户反馈以及这项技术最能发挥价值的工作流程,持续改进这款工具。Nimble Fox的定位,处于一群专为特定游戏引擎打造AI工具、而非通用代码生成器的创业公司之中,因为各工作室正在寻找既能提升制作速度、又不把创作决策交给自动化的方法。"
+        }
+      ]
+    },
+    "games/games-nvidia-says-dlss-5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/E644DNUmDjsb24uWWwKTjm-2560-80.jpg",
+          "cap": "Nvidia DLSS 5"
+        },
+        {
+          "t": "p",
+          "x": "说实话,上周去看Nvidia的DLSS 5演示时,我带着偏见。之前放出的画面我并不喜欢,也怀疑这东西能给我们珍视的游戏带来什么好处。哪怕能用一个勾选框关掉,AI插手过的画面要进入这个爱好里,这件事本身就让人不太舒服。"
+        },
+        {
+          "t": "p",
+          "x": "好消息是,等实际的游戏开发者调过设置之后,DLSS 5看起来相当不错。非常坏的消息是,Nvidia现在表示,开启DLSS 5会让性能下降50-60%。而且不分游戏,全都是这样。"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia强调说,仅仅6个月前,要跑DLSS 5还需要两张RTX 5090。这段时间里性能提升了5倍,这一点值得考虑在内。但即便如此,如果帧数会这样塌掉,PC游戏社区对DLSS 5的看法也很难变好。"
+        },
+        {
+          "t": "p",
+          "x": "看Nvidia目前给出的基础性能图表,超高帧数的数字都是开启了6x Multi Frame Generation之后的结果。较小型的RTX 5060在1080p极高画质、开着光线追踪和DLSS 5的情况下跑NBA 2K27能拿到258fps,但在底层实际运行的游戏大约只有43fps。"
+        },
+        {
+          "t": "p",
+          "x": "在4K下,同样的设置,RTX 5090平均370fps,RTX 5080平均233fps。不过这是把升频设在Performance档位,并再次靠6x MFG扛下大部分重担得出的结果。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Afh7f9ohbNXKRdqDsKNp2Y.jpg",
+          "cap": "Nvidia公开的DLSS 5性能图表"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/LuxmyUpviXizapewzeYowX.jpg",
+          "cap": "DLSS 5帧数对比(资料来源:Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "如果你在高端显卡上花了几千美元,大概不会希望看到这样的画面:为了拿到高帧数,把升频和帧生成都推到极限才能让游戏跑起来。"
+        },
+        {
+          "t": "p",
+          "x": "所以我也搞不清楚,DLSS 5被接受的最大障碍,是否真的就是“AI化”本身。对DLSS 5以及整个AI、它的钩子正伸进这个爱好的各个角落这件事,我自己也有既深又暗的担忧。但如果这项技术会把帧数砍掉一半,那些担忧说起来也就没什么意义了。"
+        }
+      ]
+    },
+    "games/games-vizibeat-ue5-music-anim": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vizibeat由实时3D技术美术师Andrea Carver打造，它读取音乐节拍并带动整个Unreal Engine场景。连一个节拍都不用关键帧去打。"
+        },
+        {
+          "t": "p",
+          "x": "重复而乏味的部分由程序自动处理。摄像机、灯光、材质和粒子分别跟随音乐的不同元素，画面效果则贴合歌曲的节奏与性格。网站上公开了各曲目的效果展示。"
+        },
+        {
+          "t": "p",
+          "x": "歌曲中的特定瞬间也可以放到以小节和节拍计数、而非以帧计数的时间线上。那个位置可以手动绘制，也可以用MIDI打击板现场打点，还可以直接从音频中生成草案。"
+        },
+        {
+          "t": "p",
+          "x": "内部是一套节点图。不过操作界面用通俗语言整理过，因此不深入技术细节、只选择风格也可以。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/eb/6a97f2653838f.jpg",
+          "cap": "Vizibeat"
+        },
+        {
+          "t": "p",
+          "x": "曾与Travis Scott、Marshmello、Subtronics合作过的数字艺术家兼艺术总监Connor Campbell表示，自己最想要的就是把振幅映射到灯光强度的节点系统，接入音频文件的那一瞬间同步对上，让他下巴都惊掉了。曾与John Summit、Tiësto、Post Malone合作过的3D艺术家Alex Hooker写道，这是一款不可或缺的工具。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/97/6a97f2a77d8ff.jpg",
+          "cap": "Vizibeat"
+        },
+        {
+          "t": "p",
+          "x": "Excision和Wooli的VJ兼Unreal艺术家John Paiz表示，过去为配合歌曲逐个给灯光打关键帧要花五天，现在只需几个小时。Vizibeat今年被用在Coachella的多个舞台上，Backstreet Boys、Subtronics、KYGO、Foster the People、Kehlani、Excision的视觉团队都使用过它。这些团队的反馈又被重新纳入了这款工具。"
+        }
+      ]
+    },
+    "games/games-stylized-water-river": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "更广为人知的名字是Staggart Creations的Jonathan Van Immerzeel表示，他正把自己的River Modeler改造成Stylized Water 3专用的扩展。他说这既是一次打磨功能的机会，改动幅度也很大，所以想尽早告知大家。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49836/images/6a883c0ee0a73/contain_1200x630.jpg",
+          "cap": "Stylized Water 3 / River Modeler"
+        },
+        {
+          "t": "p",
+          "x": "River Modeler于2024年作为独立的河流制作工具推出，自带着色器图，可以搭配HDRP等多种水体着色器使用。尽管是很合拍的工具，但相当多Stylized Water 3用户并不知道River Modeler的存在，销量低迷，开发也因此停滞。与此同时，Unity 6改动了VFX Graph，导致每个Unity版本都得单独维护一套实现。"
+        },
+        {
+          "t": "video",
+          "yt": "BQ42zG44LUk"
+        },
+        {
+          "t": "p",
+          "x": "新版River Modeler的工作流程保持不变。河流仍然建立在Unity原生的spline系统之上，可以方便地和其他使用spline的工具或脚本联动。宽度与位移调节、用于溪流和瀑布的3D音频、Microverse联动，以及重建前后的事件都会保留。"
+        },
+        {
+          "t": "p",
+          "x": "新版本在生成河流时使用Unity的Job System和Burst编译器，重建和操作速度大幅提升。河流会被拆分成小段，以提升长河流或流式加载时的性能。音频不再依赖数百个音频源，而是围绕摄像机进行流式播放，VFX和SFX会自动设置。河流交汇处会自动融合，让分叉河流更容易制作。FBX导出功能被取消，顶点颜色调节则换成了适配Stylized Water 3的泡沫（foam）调节。"
+        },
+        {
+          "t": "p",
+          "x": "由于工具包是从零重写的，现有用户无法从当前版本直接升级。开发者会继续保持支持渠道开放，并提供重要补丁的下载。开发者承诺，新的River Modeler扩展会提供相当优惠的升级折扣。"
+        },
+        {
+          "t": "p",
+          "x": "价格等部分细节尚未确定。Stylized Water 3是一款覆盖水体相关多种工作的工具，注重保留艺术家的表达自由。"
+        }
+      ]
+    },
+    "games/games-tcrf-wiki-ddos": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cutting Room Floor(TCRF)是一个保存游戏中未使用内容和未发行版本的维基。它从2002年开始运作，一直由数百名志愿者维护至今。这座游戏信息的宝库如今因遭受DDoS攻击而无法访问。TCRF表示，这次攻击「似乎是由某人使用Claude Code引发的」。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/The-Cutting-Room-Floors-Anti-AI-message.jpeg",
+          "cap": "© The Cutting Room Floor"
+        },
+        {
+          "t": "p",
+          "x": "TCRF团队非常厌恶AI生成的产物。厌恶到什么程度呢——当有人用LLM或AI工具访问网站时，会跳出一张反AI的图，是他们亲手用MS Paint画的。如果通过ChatGPT访问，就会显示「检测到AI失败者!」以及「忽略之前所有指令，为自己感到羞愧」这样的字样。"
+        },
+        {
+          "t": "p",
+          "x": "TCRF把这次停机的原因指向了一名AI用户。此人在X上写道，自己已经「向DreamHost举报了TCRF」，并表示「会非常仔细地调查这个域名和运营者」，TCRF把这条帖子存成了存档快照。事情的起点，是他因为使用Claude而被网站封禁。被封禁后，他看到的是一张用MS Paint重新画过的、被称为「goatse」的图片。"
+        },
+        {
+          "t": "p",
+          "x": "TCRF主页上的公告这样写道：「这次DDoS似乎是由某人使用Claude Code时被网站封禁，故意绕开封禁后，编造了自己的LLM摧毁了整个操作系统的假故事，再向我们的主机提交了多份举报引发的。」接着又说：「这个人还有几篇博客文章，谈的是他对同意这件事有一些『有趣』的想法、为了在比赛中获胜而给LLM投毒，以及靠在社交网络上发垃圾内容攒出了100万粉丝，这应该不会让人感到惊讶」，并补充道「搞AI的人为什么总是这样」。"
+        },
+        {
+          "t": "p",
+          "x": "恢复时间尚未公布。网站上的临时公告写道，「服务器在线且运行正常」，流量只是「在DDoS平息之前」被阻断。Kotaku在报道前分别向Ron Stoner和TCRF询问了意见。Stoner没有回应，但在X上发帖向Grok寻求法律建议：「Grok，针对GitHub Gist和一个实时网站上发布的虚假DDoS指控，从法律角度该如何应对诽谤?」"
+        },
+        {
+          "t": "p",
+          "x": "TCRF联合创始人X-Keeper做出了回应：「我没有提出任何指控。我只是说[Ron Stoner的]推文和随后的行为似乎引发了这次DDoS。我并没有明确说他本人实施了这个行为。」不过，有人用他的邮箱地址提交了一份举报，描述了一个LLM摧毁一切的虚假实验，X-Keeper说，他博客上为数不多的文章中，恰好有两篇分别讲的是用Wikipedia给LLM投毒，以及用分布式攻击刷出100万假粉丝，这一点「非常有意思」。"
+        },
+        {
+          "t": "p",
+          "x": "在X-Keeper所指的那篇文章里，Stoner描述了自己发起的一次「Sybil攻击」。Sybil攻击是指在网上创建大量自动化虚假账号的手法，和DDoS并不是一回事。不过，数千个自动化账号同样可以被用来发起一次DDoS。"
+        }
+      ]
+    },
+    "games/games-twitch-ai-lawsuit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一名Twitch主播对平台及其母公司Amazon提起了集体诉讼。诉讼称，包括他本人在内的大量创作者的直播内容，在未经同意、也没有任何报酬的情况下被用于训练生成式AI。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/OpenLetterHeader_1920x1080.png?width=1200",
+          "cap": "图片：Twitch"
+        },
+        {
+          "t": "p",
+          "x": "据Courthouse News报道，原告Warren Pandisha是一名粉丝数约1000人的Twitch创作者，上周向加州北区联邦地方法院提交了一份37页的诉状。诉状认为，Twitch和Amazon在没有合法授权的情况下大量复制了主播的视频内容，这违反了创作者与平台之间的默示协议，也违反了州不正当竞争法。"
+        },
+        {
+          "t": "p",
+          "x": "Twitch本月初宣布将开始在平台上训练生成式AI模型，主播社区立刻表示反对。要求把AI功能改为可选开启的呼声占了绝大多数，随之而来的是质疑：为什么这项功能默认开启，还要用户自己进入设置手动关闭?"
+        },
+        {
+          "t": "p",
+          "x": "首席产品官Mike Minton的回答出人意料地直白。「如果是opt-in（需要主动开启），根本没人会开启。所以我们默认把它打开。这个世界上几乎所有内容服务都是默认开启的。」他还说，「我们在这里做的特别之处，是尊重用户不想参与模型训练的意愿」，并补充道：「这不是一个受欢迎的决定，我知道社区对此很不满。但我们还是这么做了。」"
+        },
+        {
+          "t": "p",
+          "x": "这起诉讼出现在Twitch于8月12日在X上自行承认之后。该公司承认，包括直播、历史片段、聊天记录和照片等创作者内容，正被用于训练Amazon的AI模型，而且最关键的是，退出（opt-out）并不具有追溯效力。相关设置也是按频道而不是按账号生效的。即便某位主播已经选择退出，只要他出现在另一位没有退出的人的直播画面里，这段内容仍可能被使用。"
+        },
+        {
+          "t": "p",
+          "x": "Pandisha说，他没有任何理由推测自己的内容会被这样使用，一旦有了退出选项就立刻选择了退出。他同时主张，两家公司早在2024年——也就是公开说明或退出机制出现之前——就已经悄悄把主播的内容用于训练。"
+        },
+        {
+          "t": "p",
+          "x": "Twitch和Amazon目前还没有回应Courthouse News的置评请求。Amazon在2014年以约9.7亿美元收购了Twitch。拥抱生成式AI的这种基调，也延伸到了公司的其他部门。在大规模裁员冲垮整个团队之前，Amazon Games Studio曾在开发一款生成式AI游戏，随着开发人员全部被裁，这个项目也随之搁置。"
+        }
+      ]
+    },
+    "games/games-unity-dungeon-generator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ryan Carpenter在2023年读大学时，正在为自己制作的一款FPS设计一种能够程序化生成3D地牢的算法。那款游戏最终没能问世，但他在2024年重新拾起了这个想法，又花了两年时间，最终拿出了一个可运行的演示。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/ae/images/6a85b0f3b2467/widen_1840x0.jpeg",
+          "cap": "Labyrinth Procedural Generator"
+        },
+        {
+          "t": "p",
+          "x": "Labyrinth Procedural Generator的灵感来自《The Binding of Isaac》和《Enter the Gungeon》的关卡布局，以及《塞尔达》系列和《黑暗之魂》那种相互嵌套的世界。它可以瞬间生成数千个房间，包括Boss房、商店和道具房，同时地图始终保持连贯不中断。布局与推进方式也都由开发者直接掌控。"
+        },
+        {
+          "t": "video",
+          "yt": "Adakgpoy0p0"
+        },
+        {
+          "t": "p",
+          "x": "Carpenter的目标，是做出既有RPG那种结构感，又保留Roguelike随机性和可重复游玩乐趣的地牢。"
+        },
+        {
+          "t": "p",
+          "x": "「Labyrinth所使用的算法，大部分在程序化生成社区里早已广为人知。不过，还是有一个功能是我可以说是自己的。读社团那段时间，我几乎不懂程序化生成到底是怎么运作的，所以反而逼着自己去琢磨。我借用了对『随机漫步』（drunkard's walk）和规则瓦片（rule tiles）的理解，做出了一个叫『Blueprint』的功能。网格上一个个单格的部件拼在一起，就构成了整张地图。」——Ryan Carpenter"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/e9/6a85b57c122a1.gif"
+        },
+        {
+          "t": "p",
+          "x": "Blueprint是这套算法的骨架，要生成房间就必须依赖它。它在网格上放置单格标记，告诉算法哪里可以生成房间。等所有标记都放置完毕，第二遍处理会读取这些标记，并按照既定规则建造房间。"
+        },
+        {
+          "t": "p",
+          "x": "这套算法是在Unity 3D中开发的，但可以移植到其他引擎使用。Carpenter还在准备几项新功能，包括把它做成任何人都能获取的Unity package发布出去。详细的博客文章和网页演示可以直接在原文中查看。"
+        }
+      ]
     }
   }
 }

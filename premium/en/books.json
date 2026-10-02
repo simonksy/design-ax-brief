@@ -3539,6 +3539,378 @@
           "x": "Strauss added a list of warning signs: awkward salutations (Dear Victoria Strauss or Dear Author, or no salutation at all); gushing praise that precisely cites plot and themes; emojis; email exchanges that drag on before getting to money; follow-ups that come back within hours; fee requests in roles that normally don't charge; hard-to-reverse payment methods like wire transfers, Upwork or Fiverr invoices, PayPal friends-and-family, Zelle, or Cash App; and invoices missing a name, address, or phone number."
         }
       ]
+    },
+    "books/books-zlibrary-my-beloved-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
+          "cap": "Credit: Steven Errico | Photographer’s Choice RF"
+        },
+        {
+          "t": "p",
+          "x": "Sony, EMI, Warner Chappell and other major global music publishers sued Anthropic last Friday. The company that makes Claude had admitted to illegally copying more than 7 million books to train its AI and paid authors $1.5 billion, but the music publishers saw that settlement as far too light. They argue that $1.5 billion is nowhere near enough to deter a company that turned mass infringement into a $2 trillion valuation. They claimed that “thousands upon thousands” of musical works to which they hold copyright were mixed into Anthropic's illegal torrents."
+        },
+        {
+          "t": "p",
+          "x": "According to the complaint, Anthropic's “mass campaign of illegal torrenting” began in July 2021. Co-founder Benjamin Mann personally used BitTorrent to download and re-upload millions of books from the pirate library Library Genesis (LibGen), with co-founder and CEO Dario Amodei approving it, the complaint says. Both men are named as individual defendants. The FBI shut down LibGen in late 2021, but before that, a copy had already resurfaced as “Z-Library,” and Anthropic obtained a copy of that copy through “Pirate Library Mirror” (PiLiMi)."
+        },
+        {
+          "t": "p",
+          "x": "When PiLiMi went up, Mann immediately told employees to start torrenting, saying the mirror had appeared “just in time!” One employee replied, “zlibrary my beloved.” The music publishers presented this internal exchange as evidence that Anthropic celebrated piracy while rapidly securing new training data. They said a review of LibGen's and PiLiMi's public listings, using only bibliographic details like title, author and ISBN, showed signs that hundreds of books containing sheet music and lyrics had been downloaded via torrent."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic denies using books obtained from either source to train the commercial Claude model. The publishers countered that this depends on how “training” is defined, arguing that a non-commercial model was trained on text from LibGen and PiLiMi, and that synthetic data and feedback produced by that model flowed into the commercial Claude model. An Anthropic spokesperson told Ars, “This is the third lawsuit from the same lawyers, recycling allegations from cases already before the courts,” and added, “Training generative AI models is a transformative fair use—as the court held in Bartz—and we will defend ourselves robustly.”"
+        },
+        {
+          "t": "p",
+          "x": "In the book copyright case, the point on which the fair-use ruling turned was that the authors could not prove market harm. The publishers believe the music side is different. AI-made songs are reaching the top of the charts and competing directly with the songwriters whose work was used to train the models, and the U.S. Copyright Office has noted that even if a generated work is not substantially similar to a specific copyrighted work, competing in the same market dilutes the royalty pool. Amodei testified in an earlier lawsuit that Anthropic could have bought the books legally, but chose torrenting to avoid a “legal/practice/business slog.”"
+        }
+      ]
+    },
+    "books/books-african-audiobook-market": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The audiobook market grows every year, with revenue and listeners both rising. But some markets are already established while others are just beginning. Africa's audiobook market is growing, yet still leans closer to the latter. Publishing Perspectives spoke with Ama Dadson, founder and CEO of Ghana's AkooBooks Audio and this year's Frankfurter Buchmesse audio ambassador."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/Ama-Dadson-speaking.png",
+          "cap": "Ama Dadson speaking at Kampala Writes"
+        },
+        {
+          "t": "p",
+          "x": "The starting point was personal. Dadson's mother, a children's author, lost her sight, and Dadson watched firsthand how not being able to read a printed page meant losing books and stories altogether. That was also when she realized how few African books existed in audio form, and how rare it was for African stories to be heard in authentic African voices. She started AkooBooks in Ghana in 2017, and it now covers e-books as well."
+        },
+        {
+          "t": "p",
+          "x": "The response in Ghana has been encouraging. But rather than entering an existing market, Dadson is building one. Audiobook listening is still unfamiliar there, so discoverability, pricing, mobile access, and awareness are all critical. African markets don't grow by simply copying earlier markets. Mobile-first access, local payments, pricing, data costs, and institutional channels like schools and libraries are all variables."
+        },
+        {
+          "t": "p",
+          "x": "There's no single, uniform 'African market' either. Demand splits across fiction, thrillers, and romance, through biography, history, and business, to children's and young-adult titles and books written in African languages. What always works is relevance and authenticity. At the Mashariki Creative Economy Expo 2026 in Dar es Salaam, discussions covered how African books move into audio and digital formats, and into other languages and other markets. A novel written in Swahili can lead to a Swahili audiobook, an English translation, and an English audiobook."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Mashariki-Creative-Economy-photo-278x300.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Production happens locally. They work with professional narrators, actors, writers, studios, and sound engineers, because voice, pronunciation, and cultural context matter enormously. But instead of narrowing 'local' to Ghana, they've broadened it to pan-African. A Swahili audiobook has to draw on Swahili-speaking talent and production capacity."
+        },
+        {
+          "t": "p",
+          "x": "Technology is paired with human creation. They use digital production and quality-review tools, and work with technology partners to refine workflow, distribution, and discoverability. AI is increasingly useful for things like script preparation, quality review, metadata, discoverability, and marketing. Dadson draws a clear line: AI that replaces creation is different from AI that removes friction from the creative process. In African audio, where production economics are tight, that difference matters especially."
+        },
+        {
+          "t": "p",
+          "x": "The global audiobook market keeps growing. Smartphone adoption, streaming, digital payments, and improved distribution are lowering barriers to entry, and production technology, including AI, is cutting costs and time. Still, technology alone doesn't unlock a book. Production only works when rights are secured, the book is discoverable, and it's priced fairly. The next wave of growth will come not just from new books, but from giving existing stories new life through audio, new languages, and new markets."
+        },
+        {
+          "t": "p",
+          "x": "The questions Dadson leaves us with are these: Who gets to listen? Whose stories are ready? Which languages are represented? How does a story travel? And who gets to share in that growth?"
+        }
+      ]
+    },
+    "books/books-ai-custom-written-novels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ember Novels creates an entire custom-ordered novel to spec. A report by Nicole Klungle, published on the Jane Friedman site on September 2, 2026, reads the result firsthand and assesses it."
+        },
+        {
+          "t": "p",
+          "x": "The gist: AI's ability to build and carry a plot across 300 pages has steadily improved, with fewer continuity errors than many AI-generated or AI-assisted books currently on the market."
+        },
+        {
+          "t": "p",
+          "x": "The full piece is available only to paid subscribers of the Jane Friedman newsletter."
+        }
+      ]
+    },
+    "books/books-1653-cipher": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic's Claude Fable 5.1 solved a centuries-old numeric puzzle that researchers had left unsolved. Sir Thomas Urquhart's “Cyphral Distich,” published in 1653, consists of two lines, each made up of 32 numbers. According to Vals AI, Fable 5.1 produced the answer in 44 minutes without human help."
+        },
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/09/cyphral_distich.png",
+          "cap": "Urquhart's Cyphral Distich, 1653"
+        },
+        {
+          "t": "p",
+          "x": "For months, the author had given the unsolved puzzle to other frontier models. None produced a verifiable answer. Fable 5.1 was instead tasked with finding a solvable puzzle on its own, and after scanning through several problems, it flagged the Cyphral Distich as promising."
+        },
+        {
+          "t": "p",
+          "x": "The key was inside the book itself. Each number points to a word in one of the 32 passages of Urquhart's book. Stringing together the first letters of those words produces this sentence: “O God uphold King Charls the Second and make him the supreme ruler of this land.” Once known, it is simple, and a human could have solved it too. Vals AI views Fable 5.1 as having won not through superior cryptanalysis but through systematic trial and error and persistence."
+        }
+      ]
+    },
+    "books/books-calibre-ai-covers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new version of the open-source e-book management tool Calibre is out. It lets you generate book covers using generative AI."
+        },
+        {
+          "t": "p",
+          "x": "Calibre 9.14, released on August 28, adds an “AI Generate” button to the book editor. It generates a new cover and applies it directly to a book you already have. Style presets like romance, sci-fi, and pulp fiction are included, and you can also type in your own."
+        },
+        {
+          "t": "p",
+          "x": "To use it, you first need to register an AI provider that supports image generation along with an API key. The first time you click it, a settings screen walks you through the steps. You choose among Google AI (which has a free tier), Grok, OpenAI, and OpenRouter."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/calibre-AI-cover-1.webp?resize=750%2C394&ssl=1",
+          "cap": "Calibre says a Google AI Studio API key works, but it didn't for me"
+        },
+        {
+          "t": "p",
+          "x": "Is this a bit of an odd feature? Maybe."
+        },
+        {
+          "t": "p",
+          "x": "The e-books I have mostly already have covers. Seeing a nonfiction title like Anna McKane's News Writing redrawn as a romance novel might get a brief laugh, good for one “huh” and then forgotten. I have no intention of keeping it. It isn't the real cover."
+        },
+        {
+          "t": "p",
+          "x": "I can guess why this feature was added. It's aimed at people without the skill or eye for design, letting them replace covers they dislike in their library — missing covers, or bad ones — with “unique” covers (as unique as anything AI-made can be)."
+        },
+        {
+          "t": "p",
+          "x": "The idea itself isn't new, since Calibre has long had a “generate cover” feature. The old method used simple, formulaic templates. AI at least widens that range. Still, using it on already-published work feels awkward — like putting your own jacket on a well-known album, tampering with something canonical."
+        },
+        {
+          "t": "p",
+          "x": "“Don't judge a book by its cover. But it's fine to ask AI to make a better one.” That one doesn't seem likely to become a proverb."
+        },
+        {
+          "t": "p",
+          "x": "There are other AI-related changes in 9.14. Anthropic and Grok backends were added, making Claude and Grok models available. The GitHub backend was removed, following the shutdown of GitHub Models in late July 2026."
+        },
+        {
+          "t": "p",
+          "x": "A long-standing Linux bug was also fixed. In earlier versions, links in some dialog boxes didn't open when clicked — this affected the AI provider settings page and update notifications too. It's resolved in v9.14."
+        },
+        {
+          "t": "p",
+          "x": "Other improvements include: the tag editor filter can now search accented characters like é, the cover preview in the metadata editor fills the remaining space, and hovering over an image in the file browser now shows a preview."
+        },
+        {
+          "t": "p",
+          "x": "The bug fixes are also worth noting. Kindle lock-screen covers with empty EXIF data now display correctly, and a progress bar now appears when undoing the deletion of more than five books. A Google AI search checkbox that was invisible in the settings dialog was also fixed. Security fixes closed off arbitrary file writes on the content server, remote code execution by authenticated users, and cross-site scripting on the old book details page."
+        },
+        {
+          "t": "p",
+          "x": "Calibre is free, open-source software for Windows, macOS, and Linux. The latest version is available from the official website. On Linux, you install and update it via a command-line script. It's also on Flathub, but as an unverified build, so finding it through the Software Manager on Linux Mint requires turning on unverified sources first."
+        }
+      ]
+    },
+    "books/books-elsevier-nora-ebook-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131207-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Google announced its Expert Intelligence concept for e-books purchased on Google Play. A few days earlier, Elsevier had already rolled out Nora AI."
+        },
+        {
+          "t": "p",
+          "x": "Nora AI is an AI assistant that works inside Elsevier e-books through VitalSource's Bookshelf platform."
+        },
+        {
+          "t": "p",
+          "x": "According to the announcement, users ask questions and receive personalized, evidence-based answers drawn directly from Elsevier content."
+        },
+        {
+          "t": "p",
+          "x": "It was built by Elsevier, and it's aimed at medical education."
+        },
+        {
+          "t": "p",
+          "x": "Students and instructors ask about the text and get answers without ever leaving the e-book. There's no need to switch screens."
+        },
+        {
+          "t": "p",
+          "x": "“Medical education is at an inflection point, as AI opens new ways to support student learning and instructor teaching,” said Brent Gordon, president of Global Healthcare Education at Elsevier, in a statement."
+        },
+        {
+          "t": "p",
+          "x": "“Nora AI delivers timely help to students within their flow of learning, and gives instructors a reliable resource to complement their teaching.”"
+        },
+        {
+          "t": "p",
+          "x": "The article was written by Jim Milliot, dated August 31, 2026. The Publishers Weekly text is locked behind subscriber login from this point on. What's rendered here is all that's publicly available."
+        }
+      ]
+    },
+    "books/books-getabstract-human-longlist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-7.37.00-AM.png",
+          "cap": "Winners will be announced on October 8 at the 2026 Frankfurt Book Fair."
+        },
+        {
+          "t": "p",
+          "x": "Switzerland's getAbstract has long partnered with participating publishers to provide book summaries. It has released the longlist for the International Book Award's “Business Impact” category."
+        },
+        {
+          "t": "p",
+          "x": "This marks the 26th edition. Every year it selects “outstanding books” separately in a German category and an international category. Winners will be announced on October 8 at the Frankfurt Book Fair."
+        },
+        {
+          "t": "p",
+          "x": "“At a time when knowledge is increasingly processed through AI systems, making visible where that knowledge comes from matters more than ever,” said Laura Lesum, director of rights at getAbstract, in the longlist announcement."
+        },
+        {
+          "t": "p",
+          "x": "“That's what this award means to us: publishers who invest in ideas and carefully shape them before handing them to readers, and authors who put their name behind arguments worth wrestling with. This year's longlist recognizes that human contribution — including the knowledge we shouldn't take for granted.”"
+        },
+        {
+          "t": "p",
+          "x": "Eligible books were published between June 2025 and May 2026. The shortlist comes out on September 15."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-8.20.03-AM-300x167.png",
+          "cap": "International category nominees"
+        },
+        {
+          "t": "p",
+          "x": "The international category nominees are: Creative Machines by Maya Ackerman (John Wiley & Sons), Creativity in the Age of AI by Deborah Yao, Jerry Wind, and Mukul Pandya (De Gruyter Brill), Flash Teams by Melissa Valentine and Michael Bernstein (MIT Press), Four Days a Week by Juliet B. Schor (HarperCollins Publishers), and Stop Letting Everything Affect You by Daniel Chidiac."
+        },
+        {
+          "t": "p",
+          "x": "Also nominated: The Emotional Intelligence Advantage by Amy Jacobson (John Wiley & Sons), The First Meeting Differentiator by Lee B. Salz (HarperCollins Leadership), The Shortest History of Innovation by Andrew Leigh (Black Inc.), Trend Leader by Joanna Feeley (Rethink Press), and What Is Intelligence? by Blaise Agüera y Arcas (MIT Press)."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-8.20.13-AM-300x171.png",
+          "cap": "German-language category nominees"
+        },
+        {
+          "t": "p",
+          "x": "Ten books were also nominated in the German-language category, including Die Multipolarisierung der Welt by Volker Perthes (Suhrkamp), Die Stunde der Nashörner by Ansgar Baums and Thomas Ramge (Murmann), Führung im Zeitalter von KI by Richard Butler, Manfred Becking, and Jörg Nitschmann (Carl Hanser Verlag), and KI für kluge Kommunikation by Anita Hermann-Ruess (GABAL). Several titles address AI head-on."
+        },
+        {
+          "t": "p",
+          "x": "The award has run since 2001, honoring authors who put forward “ideas that broaden our understanding of society, business, leadership, and the world of work.” It's a direction consistent with the organization's long-standing emphasis on verified expertise and measurable impact."
+        }
+      ]
+    },
+    "books/books-loc-ai-sandbox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.infodocket.com/wp-content/uploads/2026/08/2026-08-31_11-36-47.png"
+        },
+        {
+          "t": "p",
+          "x": "InfoDocket relayed a blog post from the Library of Congress. It was compiled by Gary Price, dated August 31."
+        },
+        {
+          "t": "p",
+          "x": "In 2025, the Library launched an AI sandbox program for staff."
+        },
+        {
+          "t": "p",
+          "x": "The “sandbox” environment has been used since the early 1970s. The idea is to set up a protected space for development and experimentation without putting the system at risk."
+        },
+        {
+          "t": "p",
+          "x": "The potential for AI technology to expand and enrich the Library's collections and services keeps growing. But the Library emphasizes that experimentation and security remain central."
+        },
+        {
+          "t": "p",
+          "x": "To see how these methods actually perform across different materials and conditions, the most recent cohort of the AI sandbox supported more than a dozen small-scale experiments."
+        },
+        {
+          "t": "p",
+          "x": "Teams combined technical expertise with subject-matter expertise. The experiments were designed around the real needs and possibilities of the Library's workflows."
+        },
+        {
+          "t": "p",
+          "x": "The materials covered span the Library's collections broadly. They included legal records and briefs, circulars and regulations, images, talking books, audiovisual materials, and classified ads from old newspapers."
+        },
+        {
+          "t": "p",
+          "x": "Added to this were government PDFs collected through web archives, and manuscript materials in Arabic, Persian, Ge'ez, Turkish, Armenian, Georgian, Japanese, Chinese, and Hebrew."
+        },
+        {
+          "t": "p",
+          "x": "Children's and young adult books, sound recordings, web archive metadata, record annotations, oral history recordings, non-Latin-script monographs, catalog records, and educational materials and resources were also included. More material remains reachable through the Library of Congress Collections API."
+        },
+        {
+          "t": "p",
+          "x": "The full text is on the Library of Congress blog. What InfoDocket ran is an excerpt with the middle trimmed out, and what's rendered here goes only as far as that excerpt."
+        }
+      ]
+    },
+    "books/books-ssrs-audiobook-narration-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ssrs.com/wp-content/uploads/AI-vs.-Human-Audiobook-Narration-A-Blinded-Survey-of-1000-Listeners-600x338.png",
+          "cap": "AI vs. Human Audiobook Narration: A Blinded Survey of 1,000 Listeners"
+        },
+        {
+          "t": "p",
+          "x": "Edison Research at SSRS will unveil recent findings on AI versus human audiobook narration in a webinar. It's Thursday, September 10, at 2 p.m. Eastern Time."
+        },
+        {
+          "t": "p",
+          "x": "Here's how the study was designed: more than 1,000 U.S. fiction audiobook listeners were randomly split into two groups."
+        },
+        {
+          "t": "p",
+          "x": "Both groups listened to a passage drawn from the same sci-fi thriller audiobook. One version was recorded by a single human narrator, the other was a multicast narration from Spoken AI. Listeners rated it first without knowing how it was made."
+        },
+        {
+          "t": "p",
+          "x": "The presentation will be led by Megan Lazovick, vice president at Edison Research at SSRS. She'll be joined by Philip Marshall, founder and CEO of Spoken, The AI Audiobook Company™, which commissioned the research."
+        },
+        {
+          "t": "p",
+          "x": "Here's what the webinar will cover: how each narration style performed in the blind test, and where human narration scored highest and where AI narration scored highest."
+        },
+        {
+          "t": "p",
+          "x": "It also covers what listeners said they want most from audiobook narration, and what that signals for publishers."
+        },
+        {
+          "t": "p",
+          "x": "It continues into how listeners' willingness to listen changed once they were told it was AI narration, and how willing they'd be to buy an AI-narrated audiobook."
+        },
+        {
+          "t": "p",
+          "x": "After the presentation, Michele Cobb, a partner at Forté Business Consulting, will lead the Q&A."
+        },
+        {
+          "t": "p",
+          "x": "SSRS describes it as timely material for publishers, authors, narrators, audio producers, and marketers — anyone tracking where consumer expectations for audiobook narration are heading."
+        },
+        {
+          "t": "p",
+          "x": "Spoken helps authors and publishers produce multi-voice audiobooks for far less cost and time than traditional production. Spoken Multi-Cast™ layers agentic AI with emotionally nuanced voice synthesis to deliver character-driven performances."
+        },
+        {
+          "t": "p",
+          "x": "Authors can choose an AI voice created solely for their character, or use an AI voice cloned from a professional narrator. Each time a cloned voice is used, that narrator is compensated."
+        },
+        {
+          "t": "p",
+          "x": "Edison Research at SSRS conducts market research on audio, media, and trends. Its flagship studies include Share of Ear®, which measures all audio consumption in the U.S. in a single dataset; Edison Podcast Metrics™, which surveys U.S. podcast listening; and The Infinite Dial®, running since 1998. It covers more than 66 countries and territories, including the United States."
+        }
+      ]
     }
   }
 }

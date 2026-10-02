@@ -3314,6 +3314,285 @@
           "x": "该媒体给出的建议很务实。出版从业者应该立即着手调整合规体系,AI标注问题尤其如此。版权负责人应为严格的AI标注审查做好准备,数字战略负责人则可以借助简化后的进口流程和电子缴送制度加快上市速度。越南正在转型为受监管的现代出版枢纽,而在这一过程中,也带入了一些不那么受欢迎的因素。这则消息由Carlo Carrenho发现,Mark Williams整理报道。"
         }
       ]
+    },
+    "books/books-kr-publishing-knowledge-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.tsisalaw.com/data/photos/20260835/art_1787731063793_536622.jpg",
+          "cap": "AI正在扩大内容制作与流通的范围。Deo Sisa Beopryul"
+        },
+        {
+          "t": "p",
+          "x": "随着生成式人工智能(AI)被用于出版流程,原本局限于制作和销售图书的出版业,也开始探索向「知识平台」转型。据出版界26日消息,青瓦台前AI未来企划首席秘书Ha Jung-woo前一天在韩国出版文化协会的特别讲座上,以《AI时代,不可替代的韩国AI战略与出版业变化方向》为主题,提出了出版业角色转变的建议。"
+        },
+        {
+          "t": "p",
+          "x": "Ha前首席表示,需要建立一种合作结构,即出版社向AI企业提供自有内容,并获得国内外产生收益的分成。他还提出了新的商业模式:将小说改编为网络漫画、游戏、电影、电视剧等,并共同拥有和管理相关知识产权(IP)。他指出,随着AI技术发展,仅凭创意就能生成一定水准的内容,出版业应摆脱「现有出版方式在AI时代依然适用」的固有认知。"
+        },
+        {
+          "t": "p",
+          "x": "Ha前首席以Wiley与Anthropic的合作为例,说明AI时代出版业的变化。全球学术出版商Wiley去年宣布与AI企业Anthropic展开战略合作,启动试点项目,将自身研究内容用于AI平台。通过Anthropic开发的模型上下文协议(MCP),研究者和学生可以在AI服务Claude中访问Wiley的科学期刊内容。"
+        },
+        {
+          "t": "p",
+          "x": "此后,Wiley又建立了连接学术内容与AI服务的「Wiley AI Gateway」。该平台将多家出版社的学术内容加工成AI可用的形式,供Claude、Mistral AI、Perplexity等使用。提供内容的出版社在保留许可和访问权限的同时,获得AI企业使用内容所产生的收益分成。"
+        },
+        {
+          "t": "p",
+          "x": "韩国国内也出现了将AI用于图书制作的案例。出版社Luminary Books去年利用自有AI技术,在经济、人文、时尚等多个领域出版了约9000本图书。该公司表示:「在初稿策划、结构设计、内容审核、校对等出版环节,我们同时运用人工和AI技术。」由于短期内制作了大量图书,部分书籍的错误与完成度引发了所谓「一键出版」的争议。Ha前首席提到,AI自动生成的低质量图书可能泛滥成灾,强调出版社与创作者团体应共同应对。"
+        },
+        {
+          "t": "p",
+          "x": "随着AI与出版内容的结合不断扩大,现有著作在多大范围内可用于模型训练和服务,也成为一大争议焦点。Anthropic因在未经版权所有者许可的情况下获取图书、用于训练其AI模型Claude,自2024年起与作家们陷入大规模版权诉讼。美国旧金山联邦法院认定,将合法获取的图书用于训练AI模型属于合理使用,但将非法复制的图书副本保存在另一数字图书馆的行为不属于合理使用。此后,法院于2026年7月最终批准了Anthropic与版权所有者达成的15亿美元和解方案。"
+        },
+        {
+          "t": "p",
+          "x": "韩国出版文化协会会长Kim Tae-heon表示:「回顾过去的数字化转型,出版业在流通平台变化、电子书、有声书等新趋势面前,多少显得有些被动,这让人感到遗憾。」他还说:「这一次面对AI带来的变化,出版业必须及时、积极地准备并付诸行动。」"
+        }
+      ]
+    },
+    "books/books-zlibrary-my-beloved-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
+          "cap": "图片来源:Steven Errico | Photographer’s Choice RF"
+        },
+        {
+          "t": "p",
+          "x": "索尼、EMI、华纳查普尔等全球主要音乐出版商上周五对Anthropic提起诉讼。这家开发Claude的公司此前承认非法复制逾700万册图书用于训练AI,并向作家支付了15亿美元,但在音乐出版商看来,这一和解金额过于轻微。他们认为,15亿美元远不足以遏制一家靠大规模侵权换来2万亿美元估值的公司的行为。原告方指控,Anthropic的非法种子(torrent)文件中混杂着「thousands upon thousands(成千上万)」首他们拥有版权的音乐作品。"
+        },
+        {
+          "t": "p",
+          "x": "根据起诉书,Anthropic的「mass campaign of illegal torrenting(大规模非法种子行动)」始于2021年7月。联合创始人Benjamin Mann亲自通过BitTorrent从盗版图书馆Library Genesis(LibGen)下载数百万册图书并重新上传,联合创始人兼CEO Dario Amodei对此予以批准。两人均被列为个人被告。2021年底,FBI查封了LibGen,但在此之前,其复制版已以「Z-Library」的形式重新出现,Anthropic又通过「Pirate Library Mirror」(PiLiMi)获得了这份复制品的复制品。"
+        },
+        {
+          "t": "p",
+          "x": "PiLiMi上线后,Mann立即指示员工开始做种,并告知该镜像来得「just in time!(来得正是时候!)」一名员工回复道:「zlibrary my beloved(我心爱的zlibrary)」。音乐出版商将这段内部对话作为证据,指控Anthropic一边称颂盗版行为,一边借此迅速获取新的训练数据。他们表示,查看LibGen和PiLiMi的非私密列表后发现,仅凭书名、作者、ISBN等书目信息,就能看出数百本含有乐谱与歌词的图书被通过种子下载的迹象。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic否认将从这两个渠道获取的图书用于训练商用版Claude模型。出版商则反驳称,这取决于「训练」一词如何定义:他们主张,一个非商用模型用LibGen和PiLiMi中的文本进行了训练,而该模型生成的合成数据与反馈又流入了商用版Claude模型。Anthropic发言人向Ars表示:「This is the third lawsuit from the same lawyers, recycling allegations from cases already before the courts(这是同一批律师提起的第三起诉讼,只是在重复已经提交法院的指控)」,并称「Training generative AI models is a transformative fair use—as the court held in Bartz—and we will defend ourselves robustly(训练生成式AI模型属于转化性合理使用——Bartz案中法院已如此认定——我们将积极为自己辩护)」。"
+        },
+        {
+          "t": "p",
+          "x": "在图书版权诉讼中,合理使用的认定之所以对作家不利,关键在于他们未能证明市场损害。出版商认为,音乐领域的情况有所不同。AI生成的歌曲登上排行榜前列,与被用于训练的原曲作曲者直接竞争;美国版权局也指出,即便生成内容与某一特定作品并不构成实质性相似,只要在同一市场中竞争,就会稀释版税池。Amodei在此前的诉讼中证实,Anthropic本可以合法购买这些图书,但为避免「legal/practice/business slog(法律、流程与业务上的繁琐周旋)」而选择了使用种子下载。"
+        }
+      ]
+    },
+    "books/books-african-audiobook-market": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "有声书市场每年都在增长，销售额和听众数量都在上升。不过有些市场已经成熟，有些才刚刚起步。非洲有声书市场正在成长，但目前更接近后者。Publishing Perspectives采访了加纳AkooBooks Audio的创始人兼CEO、今年Frankfurter Buchmesse有声书大使Ama Dadson。"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/Ama-Dadson-speaking.png",
+          "cap": "Ama Dadson在Kampala Writes上发言"
+        },
+        {
+          "t": "p",
+          "x": "一切始于个人经历。Dadson的母亲是一位儿童文学作家，后来失去了视力，Dadson亲眼目睹了无法阅读印刷页面如何等同于失去书籍和故事。她也由此意识到，以有声形式呈现的非洲图书少之又少，非洲故事以真正的非洲声音被讲述更是罕见。她于2017年在加纳创立了AkooBooks，如今业务也扩展到电子书。"
+        },
+        {
+          "t": "p",
+          "x": "加纳的反响令人鼓舞。不过她并非进入一个既有市场，而是在创造一个市场。当地听众对收听有声书还不熟悉，因此可发现性、价格、移动端访问和认知度都是关键。非洲市场并不是照搬此前市场的路径成长起来的。移动优先的访问方式、本地支付、价格、流量费用，以及学校和图书馆等机构渠道，都是需要考虑的变量。"
+        },
+        {
+          "t": "p",
+          "x": "也不存在单一的「非洲市场」。从小说、惊悚、爱情小说，到传记、历史、商业，再到童书青少年读物以及用非洲本土语言写成的书籍，需求各不相同。始终有效的是相关性和真实性。在达累斯萨拉姆举行的Mashariki Creative Economy Expo 2026上，与会者讨论了非洲图书如何走向有声、数字化，以及其他语言和市场的路径。一部斯瓦希里语小说可以延伸出斯瓦希里语有声书、英文译本和英文有声书。"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Mashariki-Creative-Economy-photo-278x300.jpg"
+        },
+        {
+          "t": "p",
+          "x": "制作在当地完成。团队与专业朗读者、演员、作家、录音棚和音响工程师合作，因为声音、发音和文化语境至关重要。不过他们并没有把「本地」局限在加纳，而是扩展到了泛非洲范围。如果要做斯瓦希里语有声书，就必须依靠斯瓦希里语地区的人才和制作能力。"
+        },
+        {
+          "t": "p",
+          "x": "技术与人的创作结合使用。团队使用数字制作和质量审核工具，并与技术合作伙伴一起完善工作流程、分发渠道和可发现性。AI在文稿准备、质量审核、元数据、可发现性和营销等方面正变得越来越有用。Dadson划出的界限很清楚：替代创作的AI，和消除创作过程中摩擦的AI，是两种不同的东西。在制作经济本就紧张的非洲有声书领域，这种区别尤其重要。"
+        },
+        {
+          "t": "p",
+          "x": "全球有声书市场仍在持续增长。智能手机普及、流媒体、数字支付和分发渠道的改善正在降低进入门槛，包括AI在内的制作技术也在削减成本和时间。但技术本身并不能让一本书「打开」。只有当版权得到保障、作品可被发现、定价合理，制作才能成立。下一波增长不仅来自新书，也来自让已有的故事通过有声形式、新语言和新市场获得新的生命。"
+        },
+        {
+          "t": "p",
+          "x": "Dadson留下的问题是：谁会去听？谁的故事准备好了？哪些语言得到了代表？故事如何流动？以及谁能分享这份增长？"
+        }
+      ]
+    },
+    "books/books-ai-custom-written-novels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ember Novels可以按需求完整制作一整部长篇小说。Jane Friedman网站于2026年9月2日刊登的Nicole Klungle报告，亲自阅读了这部成果并作出了评价。"
+        },
+        {
+          "t": "p",
+          "x": "要点如下：AI在300页篇幅内构建并推进情节的能力在不断提升，连续性错误也比目前市面上多款AI生成或AI辅助的图书更少。"
+        },
+        {
+          "t": "p",
+          "x": "全文仅向Jane Friedman付费订阅用户开放。"
+        }
+      ]
+    },
+    "books/books-elsevier-nora-ebook-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131207-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "谷歌公布了针对在Google Play购买的电子书的Expert Intelligence计划。就在几天前，Elsevier已先一步推出了Nora AI。"
+        },
+        {
+          "t": "p",
+          "x": "Nora AI是一款通过VitalSource的Bookshelf平台、在Elsevier电子书内运行的AI助手。"
+        },
+        {
+          "t": "p",
+          "x": "据官方公告，用户提出问题后，会得到直接取自Elsevier内容、基于证据且为个人定制的回答。"
+        },
+        {
+          "t": "p",
+          "x": "开发方是Elsevier，瞄准的场景是医学教育。"
+        },
+        {
+          "t": "p",
+          "x": "学生和教师无需离开电子书，就能针对正文提问并获得答案，不必切换屏幕。"
+        },
+        {
+          "t": "p",
+          "x": "“医学教育正处于转折点，因为AI正在开辟新的方式，支撑学生的学习与教师的教学。”Elsevier全球医疗保健教育部门总裁Brent Gordon在声明中如此表示。"
+        },
+        {
+          "t": "p",
+          "x": "“Nora AI能在学习过程中及时为学生提供帮助，也为教师提供了一份可靠的教学辅助资料。”"
+        },
+        {
+          "t": "p",
+          "x": "文章作者是Jim Milliot，日期为2026年8月31日。《Publishers Weekly》正文从这一处开始，需订阅者登录才能查看。这里译出的内容，就是公开可见的全部。"
+        }
+      ]
+    },
+    "books/books-getabstract-human-longlist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-7.37.00-AM.png",
+          "cap": "获奖结果将于10月8日在2026年法兰克福书展公布。"
+        },
+        {
+          "t": "p",
+          "x": "瑞士的getAbstract长期与多家出版社合作，提供图书摘要服务。该公司公布了International Book Award「Business Impact」类别的入围名单。"
+        },
+        {
+          "t": "p",
+          "x": "这是第26届评选。德语类别和国际类别每年各自评选出“优秀图书”。获奖结果将于10月8日在法兰克福书展公布。"
+        },
+        {
+          "t": "p",
+          "x": "“在知识越来越多地经由AI系统加工处理的时代，让人们看清这些知识从何而来，比以往任何时候都更加重要。”getAbstract版权总监Laura Lesum在入围名单公布文中如此表示。"
+        },
+        {
+          "t": "p",
+          "x": "“对我们而言，这个奖项的意义正在于此：那些愿意投资于思想、用心打磨后再交给读者的出版社；那些把自己的名字押在值得反复思考的观点上的作者。今年的入围名单，正是对这种人的贡献的认可——包括我们不该视为理所当然的那些知识。”"
+        },
+        {
+          "t": "p",
+          "x": "参评图书须在2025年6月至2026年5月之间出版。入围短名单将于9月15日公布。"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-8.20.03-AM-300x167.png",
+          "cap": "国际类别入围作品"
+        },
+        {
+          "t": "p",
+          "x": "国际类别的入围作品如下：Maya Ackerman的《Creative Machines》（John Wiley & Sons）、Deborah Yao、Jerry Wind、Mukul Pandya的《Creativity in the Age of AI》（De Gruyter Brill）、Melissa Valentine、Michael Bernstein的《Flash Teams》（MIT Press）、Juliet B. Schor的《Four Days a Week》（HarperCollins Publishers）、Daniel Chidiac的《Stop Letting Everything Affect You》。"
+        },
+        {
+          "t": "p",
+          "x": "此外还有Amy Jacobson的《The Emotional Intelligence Advantage》（John Wiley & Sons）、Lee B. Salz的《The First Meeting Differentiator》（HarperCollins Leadership）、Andrew Leigh的《The Shortest History of Innovation》（Black Inc.）、Joanna Feeley的《Trend Leader》（Rethink Press）、Blaise Agüera y Arcas的《What Is Intelligence?》（MIT Press）入围。"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-8.20.13-AM-300x171.png",
+          "cap": "德语类别入围作品"
+        },
+        {
+          "t": "p",
+          "x": "德语类别也有十本书入围，包括Volker Perthes的《Die Multipolarisierung der Welt》（Suhrkamp）、Ansgar Baums、Thomas Ramge的《Die Stunde der Nashörner》（Murmann）、Richard Butler、Manfred Becking、Jörg Nitschmann的《Führung im Zeitalter von KI》（Carl Hanser Verlag）、Anita Hermann-Ruess的《KI für kluge Kommunikation》（GABAL）等。其中不少书名直接聚焦AI主题。"
+        },
+        {
+          "t": "p",
+          "x": "该奖项自2001年延续至今，旨在表彰那些提出“拓宽我们对社会、商业、领导力与工作世界理解”的思想的作者。这与该机构长期看重经过验证的专业知识和可衡量影响力的方向一脉相承。"
+        }
+      ]
+    },
+    "books/books-ssrs-audiobook-narration-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ssrs.com/wp-content/uploads/AI-vs.-Human-Audiobook-Narration-A-Blinded-Survey-of-1000-Listeners-600x338.png",
+          "cap": "AI朗读与真人朗读：1,000名听众的盲测调查"
+        },
+        {
+          "t": "p",
+          "x": "Edison Research at SSRS将通过网络研讨会公布关于AI朗读与真人朗读的最新研究结果。时间是9月10日星期四，美国东部时间下午2点。"
+        },
+        {
+          "t": "p",
+          "x": "调查的设计是这样的：将1000多名美国虚构类有声书听众随机分成两组。"
+        },
+        {
+          "t": "p",
+          "x": "两组听的都是取自同一部科幻惊悚有声书的片段。一组听的是由一位配音演员录制的版本，另一组听的是Spoken AI的多角色（multicast）朗读版本。听众在不知道哪个版本是如何制作的情况下先进行评价。"
+        },
+        {
+          "t": "p",
+          "x": "发布由Edison Research at SSRS副总裁Megan Lazovick主持，委托此项研究的Spoken, The AI Audiobook Company™创始人兼CEO Philip Marshall也将一同出席。"
+        },
+        {
+          "t": "p",
+          "x": "网络研讨会将揭晓以下内容：在盲测中两种朗读方式各自的表现如何，真人朗读得分最高的地方和AI朗读得分最高的地方分别在哪里。"
+        },
+        {
+          "t": "p",
+          "x": "还会谈到听众在有声书朗读中最看重的是什么，以及这对出版商意味着什么信号。"
+        },
+        {
+          "t": "p",
+          "x": "内容还延伸到：在被告知是AI朗读之后，听众的收听意愿发生了怎样的变化，以及他们购买AI朗读有声书的意愿有多高。"
+        },
+        {
+          "t": "p",
+          "x": "发布结束后，Forté Business Consulting合伙人Michele Cobb将主持问答环节。"
+        },
+        {
+          "t": "p",
+          "x": "据SSRS方面介绍，这是一份对出版商、作者、配音演员、音频制作人和营销人员都恰逢其时的资料，适合那些关注有声书朗读消费者期待走向的人。"
+        },
+        {
+          "t": "p",
+          "x": "Spoken帮助作者和出版商以远低于传统制作的成本和时间，制作由多个声音组成的有声书。Spoken Multi-Cast™将具备agentic能力的AI与情感细腻的语音合成叠加在一起，呈现以角色为中心的演绎。"
+        },
+        {
+          "t": "p",
+          "x": "作者可以选择专为自己角色打造的AI声音，也可以使用复制自专业配音演员声音的AI语音。复制声音每被使用一次，相应的配音演员都会获得报酬。"
+        },
+        {
+          "t": "p",
+          "x": "Edison Research at SSRS是一家从事音频、媒体与趋势市场调研的机构。其代表性调查包括用单一数据衡量美国全部音频消费的Share of Ear®、以问卷衡量美国播客收听情况的Edison Podcast Metrics™，以及自1998年延续至今的The Infinite Dial®。调查范围覆盖包括美国在内的66个以上国家和地区。"
+        }
+      ]
     }
   }
 }

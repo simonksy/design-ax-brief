@@ -4492,6 +4492,153 @@
           "x": "The picture it's drawing is this: small developers use these tools to make something fast, cheap, and still very good, filling the Horizon Store with exactly the kind of content Meta didn't want to fund directly. Meta Connect 2026, starting September 22, will be packed with sessions on AI-related game development, so expect to hear more there."
         }
       ]
+    },
+    "gadgets/gadgets-atlas-brain-wearable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "What most wearables do with heart rate or step counts, Atlas 1.0 wants to do with brain activity. The $499 device, made by a startup called Atlas, gathers data through a small EEG patch worn behind the ear and processes it in a smartphone app to tell you how you've been thinking and feeling throughout the day."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Atlas.jpg",
+          "cap": "Atlas 1.0, worn behind the ear"
+        },
+        {
+          "t": "p",
+          "x": "It looks like a small round black or white puck that sits on an adhesive pad, and it's rechargeable. Besides recording brain activity via EEG, it also tracks electrodermal activity, head movement, and what the company calls \"vocalization activity\" — voice patterns, not the content of speech. Unlike traditional EEG equipment, which requires the user to stay still for an accurate reading, the company says this device is designed to tolerate movement. The goal, it says, is to create \"a longitudinal record of how your brain responds to real life, far more meaningful than a single test or an isolated brain scan.\""
+        },
+        {
+          "t": "p",
+          "x": "Atlas turns this information into three real-time metrics you can follow in the app throughout the day: Presence, Stress and Energy Burn. Presence shows whether your attention is turned inward or outward — whether you were really present in a conversation with a friend, for instance. Stress is your current level of psychological stress, and Energy Burn shows where your \"mental resources\" are being spent."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Atlas-charging-case.jpg",
+          "cap": "Atlas 1.0's charging case"
+        },
+        {
+          "t": "p",
+          "x": "You get a notification when a metric swings sharply. But to get a sharper picture, you also have to pitch in: syncing your calendar and workout logs, or tagging the times when a metric changed. Atlas claims that combining this information reveals the habits and conditions under which you think and feel best. Software features and adhesive-pad refills come with a separate $30-a-month membership."
+        },
+        {
+          "t": "p",
+          "x": "How accurate those insights really are remains to be seen. Atlas is explicit that the $499 Atlas 1.0 Pioneer Edition is a \"limited first batch\" \"made for people ready to understand, at the source, what moves their own mind.\" At the very least, its way of measuring is different. Wearables that claim to read stress through heart-rate sensors already exist, but that's essentially an educated guess, and it mainly captures physical stress. Atlas 1.0 has its own limits, relying only on brain activity. Even so, it can give a clearer picture of how you're feeling right now."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-watch5-offline-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Google-Pixel-Watch5.jpg",
+          "cap": "Pixel Watch 5 gains several new features in the September update."
+        },
+        {
+          "t": "p",
+          "x": "Google has released the first major Wear OS 7 update for the Pixel Watch 5, a watch priced at $399 on Amazon. Google said it will take a few more weeks before all users can download it. A notification appears on the watch screen once the rollout reaches a device."
+        },
+        {
+          "t": "p",
+          "x": "The September update puts most of its weight on Google Gemini. After the update, the voice assistant works offline for tasks like turning on a timer or starting a workout. Google also fixed the assistant so it appears more reliably when the watch is raised near the mouth. Gemini now reaches deeper into personal data such as the calendar and email to make its answers more accurate. It can also suggest information proactively. If a message asks about a planned meal time, for example, Gemini finds it in the calendar and shows it right away."
+        },
+        {
+          "t": "p",
+          "x": "Google Health now shows GPS-recorded routes from runs or rides more precisely. The 「double pinch」 gesture, made by quickly touching the thumb and index finger together twice on the hand wearing the Pixel Watch 5, also gained more uses."
+        },
+        {
+          "t": "p",
+          "x": "Going forward, this gesture opens notifications, scrolls through Gemini answers, switches weather maps, scans workout results, and changes Google Maps screens. Rotating the wrist outward now works as 「back」 anywhere. One-handed operation becomes considerably simpler."
+        }
+      ]
+    },
+    "gadgets/gadgets-mac-ai-demand": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/R9ggKJO-4yQAA902orMi7ygKsYw=/1600x0/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+          "cap": "Mac mini and Mac Studio. Image courtesy of MacRumors"
+        },
+        {
+          "t": "p",
+          "x": "The Information reports that Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpected corporate demand for AI hardware."
+        },
+        {
+          "t": "p",
+          "x": "Apple usually releases new Macs in the fall, closer to October or November. That's why this week's announcement, coming just ahead of new iPhones, stands out as especially early. The Information attributes the early launch to an AI boom that has been driving Mac Studio and Mac mini sales."
+        },
+        {
+          "t": "p",
+          "x": "Apple prominently highlighted the ability to cluster multiple Mac Studios together to run large frontier AI models, a feature aimed more at companies and developers than everyday consumers."
+        },
+        {
+          "t": "p",
+          "x": "There were signs of this shift toward corporate buyers back in June too. At the “Business at the Park” event, attended by executives from Ford, Disney, and Anthropic, Apple put the Mac mini and Mac Studio front and center, and the Mac mini was reportedly the “darling” of the day."
+        },
+        {
+          "t": "p",
+          "x": "Even so, the corporate demand that poured in for high-performance desktop Macs caught Apple off guard. According to the report, Apple had no engineering team dedicated to enterprise customers, no staff handling developer relations, and no enterprise AI strategy."
+        },
+        {
+          "t": "p",
+          "x": "Companies that came looking to buy private cloud compute infrastructure were turned down. Apple instead relies on partners like WebAI and Mount Thor, which provide AI tools and runtime environments on top of its hardware."
+        },
+        {
+          "t": "p",
+          "x": "The surge in demand for Macs to run AI models has coincided with a global memory supply shortage. Several configurations of the Mac mini and Mac Studio have been out of stock for months. As Apple's high-end configurations become harder to find, some corporate customers are shifting to other hardware, such as Nvidia's DGX Spark, a small AI desktop similar in size to the Mac mini that debuted late last year."
+        }
+      ]
+    },
+    "gadgets/gadgets-relay-q-mic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a8effc5f304a7db06ecb9ee/master/w_1600,c_limit/118.jpg",
+          "cap": "Relay Q. Image courtesy of Relay"
+        },
+        {
+          "t": "p",
+          "x": "How much do you hate typing? With the rise of large language models, speech-to-text technology has advanced quickly. Whisper Flow, which joins meetings to summarize discussions, and Google's on-device dictation on the latest Pixel both go beyond simple transcription. They filter out filler words, clean up unstructured thoughts, and even mediate conversations that mix multiple languages."
+        },
+        {
+          "t": "p",
+          "x": "A new startup has jumped in. Unlike competitors focused on software, Relay builds a portable, dedicated microphone for high-quality voice input anywhere. Based in London, the company was founded by two Nothing alumni: Cookie Shi, former head of AI and services, and Raymond Zhu, former hardware product manager. The software launched today, and the hardware, called Relay Q, arrives in early 2027."
+        },
+        {
+          "t": "p",
+          "x": "Zhu says he “typed” most of his work messages using Whisper Flow during his time at Nothing. It helped him work through his thoughts, but speaking out loud in the office was a problem. “In the office, I could never find the right volume for input. Whisper too quietly and the Mac can't understand you; speak loudly and the person next to you hears everything.” During a video call, he added, holding an earbud up to his mouth: “This is a situation that needs dedicated hardware.”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a8effc46713a7bd29e57fbf/master/w_1600,c_limit/3_2.jpg",
+          "cap": "Image courtesy of Relay"
+        },
+        {
+          "t": "p",
+          "x": "Relay launches as macOS-only. Windows, iOS, and Android are planned, since the company sees desktop dictation as the most complex case. During setup, you pick a shortcut key, with Fn as the default. Hold that key down and speak in any text field with the cursor active, and Relay transcribes it. The speech recognition engine is a Google Gemini model."
+        },
+        {
+          "t": "p",
+          "x": "It also performs context-aware actions it calls skills. Tell it to send a Slack message to a colleague, and it opens the app, finds the recipient, and drafts the message. In the author's testing, the Slack skill often got stuck, while creating a Google Calendar event worked well. In exchange, it needs broad permissions. The microphone is a given, and the skills only work if you let Relay take a screenshot every time it turns on. Data is stored on the user's device, where it can be edited or deleted directly; during processing, it passes through Relay's servers to Google's servers, but Relay doesn't keep it. Giving an AI model eyes onto the operating system comes with privacy and security trade-offs, much like Microsoft Recall."
+        },
+        {
+          "t": "p",
+          "x": "Transcription quality isn't as impressive as the Rambler feature on the Pixel 11 series. It doesn't catch every word, and punctuation is sometimes off. If you misspeak and correct yourself, it does trim out the unnecessary part. It adds emoji too, but inconsistently: asking for a heart emoji works correctly, but asking it to add one at the end of a sentence made it spell out “heart emoji” in text instead."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a8effc4a84e455f12fd92e3/master/w_1600,c_limit/4_3.jpg",
+          "cap": "Image courtesy of Relay"
+        },
+        {
+          "t": "p",
+          "x": "Relay Q is a cylindrical device with a microphone on one end. Press and hold the top while speaking, and Relay activates on your computer or phone; you can also detach the button from the cylinder and clip it to your shirt. Seen from above, the microphone looks like the letter Q, which is where the name comes from. Double-tapping sends a message, and Zhu says it can pick up even a very quiet whisper. “Throughout building this product, one question stayed in my head: how much of a day can you get through without touching the keyboard?”"
+        },
+        {
+          "t": "p",
+          "x": "The idea of wearing a dedicated microphone for voice input isn't new on its own. Last year, Sandbar unveiled the Stream Ring, and a few months later, Pebble showed the Index 01. Both are whisper-into rings that are just now starting to ship to early buyers. Relay also considered a ring but dropped the idea, reasoning that there are already plenty of smart rings. It's priced at $150, which includes a year of software access; after that, it's $15 a month."
+        }
+      ]
     }
   }
 }

@@ -4423,6 +4423,153 @@
           "x": "El panorama que dibuja es este: estudios pequeños usan estas herramientas para hacer, rápido y barato, algo muy bueno que llene la Horizon Store, justo el tipo de contenido que Meta no quería financiar directamente. Meta Connect 2026, que empieza el 22 de septiembre, estará repleto de sesiones sobre desarrollo de juegos con IA, así que se podrá escuchar más ahí."
         }
       ]
+    },
+    "gadgets/gadgets-atlas-brain-wearable": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lo que la mayoría de los wearables hacen con el ritmo cardíaco o el número de pasos, Atlas 1.0 quiere hacerlo con la actividad cerebral. Este dispositivo de 499 dólares, hecho por una startup llamada Atlas, recoge datos mediante un pequeño EEG que se coloca detrás de la oreja y los procesa en una app del teléfono para indicar cómo ha pensado y sentido el usuario durante el día."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Atlas.jpg",
+          "cap": "El Atlas 1.0, colocado detrás de la oreja"
+        },
+        {
+          "t": "p",
+          "x": "Tiene el aspecto de un pequeño disco redondo, negro o blanco, que se coloca sobre un parche adhesivo, y se usa recargándolo. Además de registrar la actividad cerebral mediante electroencefalografía (EEG), también observa la actividad electrodérmica, el movimiento de la cabeza y lo que llaman “actividad de vocalización”, que se refiere a los patrones de voz, no al contenido del habla. A diferencia del equipo de EEG tradicional, que exige quedarse quieto para medir con precisión, la empresa explica que este dispositivo está diseñado para tolerar el movimiento. Según dicen, así se crea “un registro longitudinal de cómo responde el cerebro a la vida real, mucho más significativo que una sola prueba o un escaneo cerebral aislado”."
+        },
+        {
+          "t": "p",
+          "x": "Con esta información, Atlas genera tres métricas en tiempo real que se pueden seguir en la app durante todo el día: Presence, Stress y Energy Burn. Presence muestra si la atención está dirigida hacia dentro o hacia fuera, por ejemplo, si realmente estabas presente en una conversación con un amigo. Stress es el nivel actual de estrés psicológico, y Energy Burn indica en qué se están gastando los “recursos mentales”."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Atlas-charging-case.jpg",
+          "cap": "El estuche de carga del Atlas 1.0"
+        },
+        {
+          "t": "p",
+          "x": "Cuando una métrica cambia mucho, llega una notificación. Pero para dibujar un panorama más preciso, el usuario también debe colaborar: pasando los datos del calendario y los registros de ejercicio, o etiquetando los momentos en que cambió una métrica. Atlas afirma que, al combinar esa información, puede indicar los hábitos y condiciones en los que la persona piensa y siente mejor. Las funciones de software y la reposición de los parches adhesivos requieren una membresía aparte de 30 dólares al mes."
+        },
+        {
+          "t": "p",
+          "x": "Cuánto de precisas sean en realidad esas conclusiones está todavía por verse. Atlas deja claro que el Atlas 1.0 Pioneer Edition, de 499 dólares, es un “lote inicial limitado”, “hecho para quienes están listos para entender, desde la raíz, qué mueve su propia mente”. Al menos su forma de medir es distinta. Ya existen wearables que afirman leer el estrés con sensores de ritmo cardíaco, pero eso es, en esencia, una suposición fundamentada que capta sobre todo el estrés físico. Atlas 1.0 también tiene sus límites, al depender solo de la actividad cerebral. Aun así, puede mostrar con más claridad cómo te sientes en este momento."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-watch5-offline-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Google-Pixel-Watch5.jpg",
+          "cap": "El Pixel Watch 5 recibe varias funciones nuevas con la actualización de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "Google lanzó la primera actualización mayor de Wear OS 7 para el Pixel Watch 5, un reloj que cuesta 399 dólares en Amazon. Google indicó que todos los usuarios tardarán algunas semanas más en poder descargarla. Cuando la actualización llega, aparece una notificación en la pantalla del reloj."
+        },
+        {
+          "t": "p",
+          "x": "El peso de la actualización de septiembre recae en Google Gemini. Tras la actualización, el asistente de voz funciona sin conexión para acciones como activar un temporizador o iniciar un entrenamiento. También se ajustó para que el asistente aparezca de forma más estable al acercar el reloj a la boca. Gemini ahora accede con más profundidad a datos personales como el calendario o el correo para dar respuestas más precisas, y en ocasiones sugiere información antes de que se la pidan. Por ejemplo, si llega un mensaje preguntando por la hora de una comida planeada, Gemini la busca en el calendario y la muestra de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "Google Health ahora muestra con más precisión las rutas registradas por GPS tras correr o pedalear. El gesto de 「doble pellizco」, que consiste en juntar rápidamente dos veces el pulgar y el índice de la mano que lleva el Pixel Watch 5, también ganó más usos."
+        },
+        {
+          "t": "p",
+          "x": "De ahora en adelante, este gesto abre notificaciones, pasa las respuestas de Gemini, cambia los mapas del tiempo, revisa los resultados de entrenamiento y cambia la pantalla de Google Maps. Girar la muñeca hacia fuera funciona como 「atrás」 en cualquier lugar. El manejo con una sola mano se vuelve considerablemente más simple."
+        }
+      ]
+    },
+    "gadgets/gadgets-mac-ai-demand": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/R9ggKJO-4yQAA902orMi7ygKsYw=/1600x0/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg",
+          "cap": "Mac mini y Mac Studio. Imagen cortesía de MacRumors"
+        },
+        {
+          "t": "p",
+          "x": "The Information informa que el anuncio, con una cronología inusual, de los nuevos modelos de Mac mini y Mac Studio que hizo Apple esta semana respondió a una demanda corporativa de hardware de IA mayor de lo esperado."
+        },
+        {
+          "t": "p",
+          "x": "Apple suele presentar nuevos Mac en otoño, es decir, hacia octubre o noviembre. Por eso el anuncio de esta semana, justo antes de la llegada de los nuevos iPhone, resulta especialmente temprano. The Information atribuye el lanzamiento anticipado al auge de la IA que ha impulsado las ventas de Mac Studio y Mac mini."
+        },
+        {
+          "t": "p",
+          "x": "Apple destacó de forma notable la capacidad de conectar varios Mac Studio entre sí para ejecutar grandes modelos de IA de frontera, una función pensada más para empresas y desarrolladores que para el consumidor habitual."
+        },
+        {
+          "t": "p",
+          "x": "Ya en junio hubo señales de este giro hacia los compradores corporativos. En el evento “Business at the Park”, al que asistieron ejecutivos de Ford, Disney y Anthropic, Apple puso en primer plano al Mac mini y al Mac Studio, y se dijo que el Mac mini fue el “favorito” de la jornada."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, la demanda corporativa que se volcó hacia los Mac de escritorio de alto rendimiento sorprendió a Apple. Según la información, Apple no contaba con un equipo de ingeniería dedicado a clientes corporativos, ni con personal de relaciones con desarrolladores, ni con una estrategia de IA empresarial."
+        },
+        {
+          "t": "p",
+          "x": "A las empresas que se acercaron buscando comprar infraestructura de computación en la nube privada se les dijo que no. En su lugar, Apple se apoya en socios como WebAI y Mount Thor, que ofrecen herramientas de IA y entornos de ejecución sobre su hardware."
+        },
+        {
+          "t": "p",
+          "x": "El aumento de la demanda de Mac para ejecutar modelos de IA coincidió con una escasez global de memoria. Varias configuraciones del Mac mini y el Mac Studio llevan meses agotadas. Como las configuraciones de gama alta de Apple son cada vez más difíciles de encontrar, algunos clientes corporativos están pasándose a otro hardware, como el DGX Spark de Nvidia, un pequeño escritorio de IA de tamaño similar al Mac mini que debutó a finales del año pasado."
+        }
+      ]
+    },
+    "gadgets/gadgets-relay-q-mic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a8effc5f304a7db06ecb9ee/master/w_1600,c_limit/118.jpg",
+          "cap": "Relay Q. Imagen cortesía de Relay"
+        },
+        {
+          "t": "p",
+          "x": "¿Cuánto odias escribir? Con el auge de los grandes modelos de lenguaje, la tecnología para pasar la voz a texto ha avanzado rápido. Whisper Flow, que se une a reuniones para resumir discusiones, y la transcripción en el dispositivo de Google en los últimos Pixel van más allá de la simple transcripción. Filtran muletillas, pulen pensamientos desordenados e incluso arbitran conversaciones que mezclan varios idiomas."
+        },
+        {
+          "t": "p",
+          "x": "Aquí entra una nueva startup. A diferencia de competidores centrados en el software, Relay fabrica un micrófono portátil dedicado que capta entrada de voz de alta calidad en cualquier lugar. Con sede en Londres, la empresa fue fundada por dos exempleados de Nothing: Cookie Shi, antigua responsable de IA y servicios, y Raymond Zhu, antiguo gerente de producto de hardware. El software se presentó hoy, y el hardware, llamado Relay Q, llegará a principios de 2027."
+        },
+        {
+          "t": "p",
+          "x": "Zhu dice que durante su etapa en Nothing “escribía” la mayoría de sus mensajes de trabajo con Whisper Flow. Le ayudaba a ordenar sus ideas, pero hablar en voz alta en la oficina era un problema. “En la oficina nunca podía encontrar el volumen adecuado para dictar. Si susurraba muy bajo, el Mac no me entendía, y si hablaba fuerte, el compañero de al lado lo oía todo.” Añadió, sosteniendo un audífono frente a su boca durante una videollamada: “Esta es una situación que necesita hardware dedicado.”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a8effc46713a7bd29e57fbf/master/w_1600,c_limit/3_2.jpg",
+          "cap": "Imagen cortesía de Relay"
+        },
+        {
+          "t": "p",
+          "x": "Relay arranca solo para macOS. Windows, iOS y Android están en el plan, porque la empresa considera que el escritorio es el caso más complejo. Al configurarlo, se elige una tecla de acceso rápido, con Fn como valor predeterminado. Mantén pulsada esa tecla y habla en cualquier campo de texto con el cursor activo, y Relay lo transcribe. El motor de reconocimiento de voz es un modelo Gemini de Google."
+        },
+        {
+          "t": "p",
+          "x": "También realiza acciones sensibles al contexto que llama “skills”. Si le pides que envíe un mensaje de Slack a un compañero, abre la app, busca al destinatario y escribe un borrador. En las pruebas del autor, la skill de Slack se atascaba a menudo, mientras que crear eventos en Google Calendar funcionaba bien. A cambio, hay que concederle permisos amplios. El micrófono es obligatorio, y las skills solo funcionan si se permite que Relay tome una captura de pantalla cada vez que se activa. Los datos se guardan en el dispositivo del usuario, donde se pueden editar o borrar directamente; durante el procesamiento pasan por los servidores de Relay hacia los de Google, pero Relay no los conserva. Dar a un modelo de IA ojos sobre el sistema operativo trae consigo compromisos de privacidad y seguridad, como ocurre con Microsoft Recall."
+        },
+        {
+          "t": "p",
+          "x": "La calidad de la transcripción no impresiona tanto como la función Rambler de la serie Pixel 11. No capta todas las palabras, y a veces se equivoca con la puntuación. Si te corriges después de decir algo mal, sí recorta la parte innecesaria. También añade emojis, aunque de forma desigual: si le pides un emoji de corazón, lo añade correctamente, pero al pedirle que lo ponga al final de una frase, escribió “heart emoji” como texto."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6a8effc4a84e455f12fd92e3/master/w_1600,c_limit/4_3.jpg",
+          "cap": "Imagen cortesía de Relay"
+        },
+        {
+          "t": "p",
+          "x": "Relay Q es un dispositivo cilíndrico con un micrófono en un extremo. Mantén pulsada la parte superior y habla, y Relay se activa en tu ordenador o teléfono; también se puede separar el botón del cilindro y sujetarlo a la camisa. Visto desde arriba, el micrófono parece la letra Q, de ahí el nombre. Dos toques envían el mensaje, y Zhu dice que capta incluso un susurro muy bajo. “Durante todo el proceso de crear este producto tuve una pregunta en la cabeza: cuánto se puede aguantar el día sin tocar el teclado.”"
+        },
+        {
+          "t": "p",
+          "x": "La idea de llevar encima un micrófono dedicado para la entrada de voz no es nueva en sí misma. El año pasado, Sandbar presentó el Stream Ring, y meses después, Pebble mostró el Index 01. Ambos son anillos en los que se susurra y apenas están empezando a llegar a los primeros compradores. Relay también consideró un anillo, pero lo descartó porque ya hay muchos anillos inteligentes. Cuesta 150 dólares, e incluye un año de acceso al software; después, son 15 dólares al mes."
+        }
+      ]
     }
   }
 }

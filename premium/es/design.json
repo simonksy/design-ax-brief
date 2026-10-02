@@ -4325,6 +4325,184 @@
           "x": "Usar IA para el arte conceptual acelera el proceso. Pero, ¿quién dirá lo mismo dentro de 50 años sobre un dibujo de Spider-Man hecho con IA?"
         }
       ]
+    },
+    "design/design-blender-line-art": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si quieres obtener líneas de un modelo de Blender con facilidad, vale la pena probar el complemento FreePencil2. Lo creó Masamune Sakaki, productor y animador de anime japonés, y es gratuito. El uso es sencillo: abres el modelo y pulsas un botón, y aparece el contorno. Si quieres un acabado concreto, puedes afinar las líneas después."
+        },
+        {
+          "t": "p",
+          "x": "Sobre esta actualización, el creador escribió lo siguiente: “En esta actualización, también aparecen líneas en los bordes que antes desaparecían por no alcanzar el umbral de detección. La segunda mitad del video es la pantalla real, y 155 piezas se completan en 5,5 segundos. La cantidad de líneas se puede ajustar después con un control deslizante.” (traducción automática)"
+        },
+        {
+          "t": "p",
+          "x": "También explicó el principio de funcionamiento: “Después de colorear el modelo automáticamente por color de vértice, la detección de bordes del compositor capta los límites de color como líneas (un método llamado color coloring). El principio es simple, así que es rápido, y hasta un modelo de 1,28 millones de polígonos se procesa en menos de 30 segundos.”"
+        },
+        {
+          "t": "p",
+          "x": "En las técnicas de separación de color, lo difícil es el preprocesamiento de decidir qué área pintar y cómo. FreePencil2 automatiza este proceso: fija automáticamente el ángulo de división a partir de la distribución del ángulo diedro, colorea el grafo para que las áreas adyacentes caigan siempre en clases de color distintas, y fusiona por sí solo las áreas muy pequeñas. Distingue el tono entre piezas que se tocan y lee el rig para dividir el color por unidad de hueso."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/58/images/6a96b51592088/widen_1840x0.jpg",
+          "cap": "Imagen: Masamune Sakaki"
+        },
+        {
+          "t": "p",
+          "x": "FreePencil2 es compatible con Blender 4.2 a 5.2, y su código fuente está disponible en GitHub."
+        }
+      ]
+    },
+    "design/design-empire-at-sea-venice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Diez personas con auriculares Apple Vision Pro rodean una mesa. Más allá de la realidad mixta de paso directo, actores capturados volumétricamente aparecen en ese mismo lugar, y el público camina alrededor de la mesa, cambia de punto de vista e interviene directamente en una historia que se ramifica."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/08/empire_at_sea-1.jpg",
+          "cap": "Empire At Sea"
+        },
+        {
+          "t": "p",
+          "x": "El drama inmersivo de 22 minutos Empire At Sea, del director Peter Flaherty, se estrena esta semana en la sección competitiva de Venice Immersive. El equipo de producción lo llama un “drama AR solarpunk”, apoyándose en el género de ciencia ficción que imagina un futuro más sostenible. Venice Immersive es una sección del 83.º Festival Internacional de Cine de Venecia, que se celebra del 2 al 12 de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "La historia sigue a científicos climáticos que se trasladan a una plataforma petrolera remota para construir una comunidad sostenible en el mar. Un desastre que golpea el continente los deja aislados del mundo exterior, cambiando por completo el propósito del experimento. Cinco años después, una joven llamada Lani divisa un barco en el horizonte. Ante la primera señal de civilización desde el desastre, la comunidad debe decidir si acoge a los desconocidos o los rechaza por la fuerza."
+        },
+        {
+          "t": "p",
+          "x": "El escenario es una mesa de LED construida especialmente. Vision Pro superpone a los actores capturados volumétricamente sobre el espacio físico, y diez personas se mueven a la vez alrededor de la mesa, siguiendo la escena desde posiciones distintas cada una. La participación del público se refleja directamente en la narrativa ramificada."
+        },
+        {
+          "t": "p",
+          "x": "El reparto incluye a Orlando Jones (American Gods), Ayelet Zurer (Munich), Geoffrey Arend (Goliath), Beth Grant (No Country for Old Men), Imani Jade Powers y Mary Chieffo. La captura volumétrica de los actores usó tecnología de 4DV.ai. Flaherty creó The Dial, una obra de AR y mapeo por proyección presentada en Sundance en 2019, y fue director creativo del proyecto de AR Eternals de Marvel Studios y Disney en 2021."
+        },
+        {
+          "t": "p",
+          "x": "Empire At Sea fue encargada por Lincoln Center y ASU Gammage, y Venecia no es el final. Hay una función programada en Lincoln Center para enero de 2027, y según el comunicado de prensa, también se preparan versiones para visor de VR y móvil para el público que lo vea desde casa. Aún no se han anunciado las plataformas concretas ni la fecha de lanzamiento."
+        }
+      ]
+    },
+    "design/design-figma-generative-shaders": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A partir de hoy, los plugins generativos y shaders creados en Figma se pueden publicar en Figma Community. Con un plan Organization o Enterprise, también se puede publicar de forma privada solo dentro de la empresa. Los shaders incluyen movimiento e interacción, y el código resultante se puede abrir, descargar y modificar en otro agente. También se puede leer y cambiar plugins y shaders a través del servidor Figma MCP, o exportar un shader como código React."
+        },
+        {
+          "t": "p",
+          "x": "Quien planteó esta historia es el diseñador de producto Rogie King. Un shader es un programa de GPU que se adhiere como relleno o efecto de una capa en Figma Design y curva los píxeles en tiempo real. En 2022 llevó esa sensación al lienzo con el plugin Noise & Texture, pero no había manera de profundizar más."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2dcb38fa0a3fd5b22b72b531ebe5de2b109614fd-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "El primer efecto de shader hecho en el prototipo FigGPU"
+        },
+        {
+          "t": "p",
+          "x": "Lo que abrió el camino bloqueado fueron los LLM. King programó con vibe coding un entorno WebGPU que permite colocar un efecto de shader en cualquier capa del lienzo. Se centró en tres cosas: la composición, en la que el resultado de un shader alimenta al siguiente; controles dinámicos que dan un toque artesanal que el prompt por sí solo no logra; y una forma de que el LLM proponga de antemano qué controles puede tocar. Crear un desenfoque progresivo en Figma Draw solía llevar meses; el mismo efecto ahora se logra con una sola línea de prompt."
+        },
+        {
+          "t": "p",
+          "x": "Fue a ver al ingeniero de renderizado y animación Yassir Solomah para preguntarle si realmente funcionaría y si no perjudicaría el rendimiento. Solomah eliminó el sistema de shaders de fragmentos de WebGL 2 y lo sustituyó por una canalización WebGPU. Los shaders se convirtieron en pequeños programas que dibujan objetos 3D y responden a la posición del ratón y al tiempo, y los scripts de generación gráfica pasaron a ejecutarse cada uno en su propio sandbox. Se unió la gerente de producto Georgia Rust, que combinó el esfuerzo con el plugin adaptativo que estaba construyendo Jason Calleiro, y al conjunto le dieron el nombre de “herramientas generativas”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/27ed06910a01e869f2c51020118a4bf73be1750d-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "La visión general de los plugins generativos y shaders, dibujada juntos por Yassir, Georgia y Rogie"
+        },
+        {
+          "t": "p",
+          "x": "La presentación ante la dirección funcionó. La fecha de lanzamiento era Config, y quedaban dos meses. El equipo, que empezó con 15 personas, avanzó con prototipos y demos, sin PRD ni sesiones de crítica. King construyó PropsKit, un kit de interfaz de Figma basado en componentes web, para que lo usaran los agentes."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c82227b98c4ff2112456906b26003ac56d98068a-2084x1578.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Un logotipo de equipo de estilo años 80 que combina las herramientas generativas y los efectos con una llave inglesa y un rayo"
+        },
+        {
+          "t": "p",
+          "x": "El plan de empezar cada diseño como un prototipo funcional resultó tener solo la mitad de razón. Los prototipos hechos con vibe coding eran excelentes para que los diseñadores verificaran sus propias suposiciones, pero no servían como referencia para desarrolladores y PM. Así que primero generaron acuerdo con maquetas estáticas que desplegaban todos los estados posibles, y después pasaron a prototipos de código. King escribió código de producción directamente en la base de código de Figma y envió varios PR."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/1f132a2a5719d7cd574f9a17e4916d1420548f46-3252x2064.png?rect=0,1,3252,2063&w=1200&q=75&fit=max&auto=format",
+          "cap": "Se ajustó la dirección y se pulieron los detalles en el lienzo"
+        },
+        {
+          "t": "p",
+          "x": "Dos semanas antes de Config, el 90% estaba terminado, pero el 10% restante fue lo más difícil. Cuando el diseño del plugin no terminaba de encajar, crearon tres nuevos componentes de interfaz para ayudar al agente a decidir, y el control de paleta de color, que habría necesitado tres días más, lo redujeron a una lista de selección. King dijo: “Como diseñador de este proyecto y persona que lo empezó, recortar algo fue especialmente difícil, pero para llegar a la fecha límite tuve que aprender qué plegar y qué empujar”."
+        }
+      ]
+    },
+    "design/design-text-to-cad-format": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Visto desde fuera, el “CAD con IA” puede parecer fácilmente modelado 3D generativo con marketing encima: metes un prompt y sale una malla, la misma categoría que la generación de imágenes, solo que el objetivo son objetos. Si de verdad fabricas cosas o evalúas herramientas para eso, esa suposición es errónea."
+        },
+        {
+          "t": "p",
+          "x": "Una malla es un montón de triángulos. No existe el concepto de “este agujero es de 8 mm porque tiene que entrar un tornillo M8” o “esta pared es de 2 mm porque ese es el grosor mínimo de este material”. Solo hay vértices, aristas y caras congeladas en su posición actual. La mayoría de las herramientas de IA 3D entrenadas sobre el mismo pipeline que la generación de imágenes producen mallas. Son excelentes para videojuegos, VFX y visualización, pero no sirven para fabricar."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo paramétrico es distinto desde la propia estructura de datos. Es una secuencia de features —extrusiones, chaflanes, agujeros con diámetro y profundidad fijados— y cada feature se define por relaciones y dimensiones, no por coordenadas de triángulos fijas. Cambia el parámetro de un diámetro y toda la geometría de debajo cambia con él. Esta es también la estructura que manejan por dentro los CAD profesionales como SolidWorks, Fusion 360 y Onshape, y de la que dependen los archivos STEP, las pilas de tolerancias, el GD&T y las trayectorias de CAM. Nada de eso funciona sobre una malla."
+        },
+        {
+          "t": "p",
+          "x": "Por eso la pregunta real que hay que hacerle a una herramienta de “CAD con IA” no es si puede crear una forma 3D a partir de texto. Es qué estructura de datos hay al otro lado de esa generación. La respuesta decide si recibiste algo para mirar o algo para fabricar."
+        },
+        {
+          "t": "p",
+          "x": "Extraer una malla de un prompt es un problema de ML relativamente fácil, porque está cerca del paradigma de generación de imagen y video sobre el que se monta la mayor parte de la investigación en 3D generativo. Producir un árbol de features paramétrico válido es distinto y más difícil: tiene que ser una secuencia coherente de operaciones fabricables, no solo una superficie de aspecto plausible, y si un solo paso se desalinea geométricamente del anterior, todo el árbol se derrumba."
+        },
+        {
+          "t": "p",
+          "x": "Se dice que CadXStudio, el proyecto del propio autor, no evitó este problema sino que lo abordó de frente. La salida no es una malla disfrazada de CAD, sino un modelo B-Rep construido a partir de features paramétricas, exportado como STEP, con STL y OBJ también generados para impresión y visualización. Por eso se pueden corregir dimensiones o radios de chaflán sin reconstruir desde cero, y por eso los maquinistas y las herramientas de CAM pueden tomar el archivo STEP tal cual. De ahí viene también que las caras que se tocan y los agujeros alineados se referencien entre sí y se unan en un ensamblaje."
+        },
+        {
+          "t": "p",
+          "x": "La forma más rápida de juzgar una herramienta es comprobar qué pasa después de la generación. Al seleccionar una cara, ¿se ve una dimensión que se pueda editar? Al exportar a STEP y abrirlo en un CAD “de verdad”, ¿se convierte silenciosamente en un sólido ciego? ¿Cambiar un parámetro arrastra consigo la geometría dependiente, o “editar” termina siendo volver a escribir un prompt? Estas preguntas son las que separan un motor de renderizado de un motor de diseño. Uno te da algo para mirar; el otro, algo para fabricar."
+        }
+      ]
+    },
+    "design/design-to-code-benchmark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nadie compra una herramienta de diseño a código porque haga bonita la sección hero. Un diseñador sube un dashboard de SaaS desordenado a Figma, el equipo tiene que recibirlo en React y Next.js para el viernes, y simplemente no quieren pasar el fin de semana desenredando una sopa de divs."
+        },
+        {
+          "t": "p",
+          "x": "Por eso, el caso de prueba de este benchmark es una sola pantalla de un dashboard antiguo y de uso real: auto layouts anidados, nombres arbitrarios, una barra lateral y una navegación superior anticuadas, tablas densas, formularios con estados de error, y algunos modales y popovers. La misma exportación de Figma y las mismas reglas de componentes se aplicaron de forma idéntica a cinco herramientas."
+        },
+        {
+          "t": "p",
+          "x": "Los criterios de puntuación son accesibilidad (número de violaciones de axe-core y puntuación de Lighthouse), proporción de etiquetas semánticas, tamaño del bundle de producción y número de dependencias, coste de edición y, por último, fidelidad visual. El coste de edición se midió implementando de verdad tres peticiones: guardar el estado de colapso de la barra lateral, una columna de casillas con una barra de acciones masivas para la tabla, y mensajes de validación en línea en el formulario; y contando los archivos tocados y las líneas de código añadidas o eliminadas."
+        },
+        {
+          "t": "video",
+          "yt": "BOl05zmQjOg"
+        },
+        {
+          "t": "p",
+          "x": "Las puntuaciones van de 1 a 10. La línea base de Dev Mode obtuvo 9 en accesibilidad, semántica, bundle y facilidad de edición, con 8 en fidelidad: fue la más lenta para empezar y la más rápida de mantener. El exportador consciente de tokens obtuvo 7, 7, 8, 7, 7; la herramienta de IA con mapeo de componentes obtuvo 6, 6, 6, 6, 8. El generador basado en capturas obtuvo 9 en fidelidad, pero solo 3 en accesibilidad y semántica, y 2 en facilidad de edición. La plataforma full-stack obtuvo 5, 5, 4, 5, 7, con el bundle más pesado de todos."
+        },
+        {
+          "t": "p",
+          "x": "El fallo de la herramienta de capturas se hizo evidente con la petición de colapsar la barra lateral. Por fuera parecía correcta, pero no era un componente con un contrato de layout, sino simplemente un montón de contenedores apilados. En cambio, las herramientas que usaron entradas deterministas, como tokens y componentes, salieron mejor en facilidad de edición. El generador que construyó la tabla del dashboard como una grilla de divs en vez de una table con th scope perdió puntos de inmediato en accesibilidad."
+        },
+        {
+          "t": "p",
+          "x": "La recomendación depende del equipo. Para una startup que necesita lanzar la v1 rápido, el autor dice que conviene usar la herramienta de capturas solo para prototipar y estar preparados para reescribir la capa de interfaz más adelante. Para una empresa donde la accesibilidad y el cumplimiento están en juego, es mejor no convertir esta vía en la ruta principal. Los equipos con un sistema de diseño sólido deberían invertir en un pipeline de tokens; los equipos liderados por desarrollo que ya tienen una librería de componentes deberían invertir en una herramienta que se mapee a esa librería. Si no se puede reproducir el resultado, eso no es un benchmark: es marketing de contenidos."
+        }
+      ]
     }
   }
 }

@@ -4161,6 +4161,77 @@
           "x": "By automating the most annoying, time-consuming part, cutting dead air and assembling a basic montage, Instagram hands artists back their time. With the rough-cut grunt work out of the way, they can spend it polishing the narrative, talking with fans, and actually making music. If you have an iPhone, that's one less excuse not to post a tour vlog or a track breakdown."
         }
       ]
+    },
+    "music/music-stable-audio-daw": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static1.squarespace.com/static/6213c340453c3f502425776e/t/6a8339bc452f993158f20713/1786984892211/Stable_Audio_Beta_Launch_16x9.png?format=1500w",
+          "cap": "Stable Audio early beta. Image: Stability AI"
+        },
+        {
+          "t": "p",
+          "x": "Everyone takes a different path to the soundscape, score or song they're after. Working methods vary too, and at the start you never know where an idea will end up going."
+        },
+        {
+          "t": "p",
+          "x": "So there's no way you'd arrive there in one shot."
+        },
+        {
+          "t": "p",
+          "x": "Stability AI said it held onto that point while thinking through the next stage of Stable Audio. The goal is simple: hand people a tool for shaping sound, not just spitting it out."
+        },
+        {
+          "t": "p",
+          "x": "So it released two ways to work with Stable Audio 3.0 together: the Stable Audio plugin, which brings generation straight into the DAW, and an enhanced StableAudio.com web experience for refining what you've made. Both run on a commercially safe model, and the output belongs to the user and can be freely distributed."
+        },
+        {
+          "t": "p",
+          "x": "Both are in beta. The company says some features are experimental and that it will keep refining the experience in real time."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/20d660a3-a727-4bf7-b3bc-ed7bee479772/PluginGIF.gif",
+          "cap": "The Stable Audio plugin running directly on a DAW track. Image: Stability AI"
+        },
+        {
+          "t": "p",
+          "x": "The plugin generates audio directly on a DAW track. You can arrange, edit and process the sound right there, building it up alongside the rest of the session."
+        },
+        {
+          "t": "p",
+          "x": "It works like an instrument. In Ableton it sits under PlugIns on an Instrument track; in Logic it loads into an Instrument slot."
+        },
+        {
+          "t": "p",
+          "x": "It syncs to the session BPM, so it lands right in the tempo of whatever project you're working on. You also choose the length, from a short section to a full six-minute piece. Multiple takes can sit in a playlist for comparison before you decide what to keep."
+        },
+        {
+          "t": "p",
+          "x": "Supported formats are macOS AU and VST3. It works on both Apple Silicon and Intel Macs, and is compatible with major DAWs including Logic Pro and Ableton Live."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/cb9354f9-2ed6-42dc-bc0d-14ab6c4f8957/WebappGIF.gif",
+          "cap": "The new web app for continuing to refine a track in the browser. Image: Stability AI"
+        },
+        {
+          "t": "p",
+          "x": "The web app follows a musician's actual sequence: lay down an idea, listen to it, fix it, then run it again. The first take is generated from a prompt."
+        },
+        {
+          "t": "p",
+          "x": "From there, you give direction in words — ask it to cut the low end, push the build back further, or change the instrumentation. With audio-to-audio, you can also pull different genres, moods and variations out of a sound you already have."
+        },
+        {
+          "t": "p",
+          "x": "Working by part is also open now. You mix with level, pan, mute and solo, and apply per-track effects as well as master effects. Bounce just the parts you want and export the mix to keep working elsewhere."
+        },
+        {
+          "t": "p",
+          "x": "If a take falls just short, there's no need to start all over again. What this beta is ultimately pitching is a session you can keep living in. The team added that it wants to hear from musicians, producers, composers, sound designers and audio developers about what helps and what gets in the way."
+        }
+      ]
     }
   }
 }

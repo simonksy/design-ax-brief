@@ -3366,6 +3366,378 @@
           "x": "Strauss añadió una lista de señales de advertencia: saludos torpes (Dear Victoria Strauss o Dear Author, o ningún saludo en absoluto); elogios desbordantes que citan con precisión la trama y los temas; emojis; intercambios de correos que se alargan antes de llegar al tema del dinero; seguimientos que llegan de nuevo en cuestión de horas; solicitudes de pago en roles que normalmente no cobran; métodos de pago difíciles de revertir, como transferencias bancarias, facturas de Upwork o Fiverr, envíos de PayPal entre amigos y familiares, Zelle o Cash App; y facturas sin nombre, dirección ni número de teléfono."
         }
       ]
+    },
+    "books/books-kr-publishing-knowledge-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.tsisalaw.com/data/photos/20260835/art_1787731063793_536622.jpg",
+          "cap": "La IA está ampliando el ámbito de la producción y distribución de contenidos. Deo Sisa Beopryul"
+        },
+        {
+          "t": "p",
+          "x": "A medida que la inteligencia artificial (IA) generativa se usa en el proceso editorial, la industria editorial, antes limitada a hacer y vender libros, explora también una transformación hacia una “plataforma de conocimiento”. Según el sector editorial, el día 26, Ha Jung-woo, ex secretario principal de planificación del futuro de la IA de la presidencia, propuso el día anterior, en una conferencia especial de la Asociación Coreana de Cultura Editorial, un cambio en el papel de la industria editorial bajo el título “La era de la IA: la estrategia de IA irremplazable de Corea y la dirección de cambio de la industria editorial”."
+        },
+        {
+          "t": "p",
+          "x": "Ha dijo que se necesita una estructura de cooperación en la que las editoriales proporcionen su contenido a empresas de IA y reciban una parte de los ingresos generados, tanto en Corea como en el extranjero. También propuso, como nuevo modelo de negocio, expandir novelas a webtoons, videojuegos, películas y series, y poseer y gestionar conjuntamente la propiedad intelectual (PI) relacionada. Dijo que, dado que la tecnología de IA ha avanzado hasta el punto de poder crear contenido de cierto nivel a partir de una sola idea, la industria debe abandonar la idea de que los métodos editoriales existentes seguirán siendo válidos en la era de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Ha citó la colaboración entre Wiley y Anthropic como ejemplo de cómo está cambiando la industria editorial en la era de la IA. La editorial académica global Wiley anunció el año pasado un plan de colaboración estratégica con la empresa de IA Anthropic y lanzó un proyecto piloto para poner su contenido de investigación a disposición de una plataforma de IA. Mediante el Protocolo de Contexto de Modelo (MCP) desarrollado por Anthropic, investigadores y estudiantes pueden acceder al contenido de las revistas científicas de Wiley a través del servicio de IA Claude."
+        },
+        {
+          "t": "p",
+          "x": "Wiley construyó después el “Wiley AI Gateway” para conectar contenido académico con servicios de IA. Es una plataforma que procesa el contenido académico de varias editoriales en una forma que la IA puede usar, poniéndolo a disposición en Claude, Mistral AI y Perplexity, entre otros. Las editoriales que aportan contenido conservan sus licencias y derechos de acceso mientras reciben una parte de los ingresos generados por el uso que hacen de él las empresas de IA."
+        },
+        {
+          "t": "p",
+          "x": "También han surgido casos de uso de IA en la producción de libros dentro de Corea. La editorial Luminary Books usó su propia tecnología de IA para publicar el año pasado unos 9.000 libros en campos como economía, humanidades y moda. Luminary Books explicó que combina trabajo humano y tecnología de IA en todo el proceso editorial, incluida la planificación inicial, el diseño de la estructura, la revisión de contenido y la corrección de pruebas. Tras producirse tantos libros en tan poco tiempo, surgió una controversia, conocida como “edición con un clic”, por errores y calidad en algunos de los libros. Ha mencionó la posibilidad de que se inunde el mercado con libros de baja calidad generados automáticamente por IA, y subrayó la necesidad de una respuesta conjunta de editoriales y colectivos de creadores."
+        },
+        {
+          "t": "p",
+          "x": "A medida que se amplía la combinación de IA y contenido editorial, hasta dónde pueden usarse las obras existentes para el entrenamiento y los servicios también se ha convertido en un tema central. Anthropic ha mantenido desde 2024 un gran litigio por derechos de autor con escritores por usar libros obtenidos sin permiso de los titulares de derechos para entrenar su modelo de IA, Claude. El tribunal federal de Estados Unidos en San Francisco determinó que usar libros obtenidos legalmente para entrenar un modelo de IA constituye un uso legítimo, pero no reconoció como uso legítimo el almacenamiento de copias de libros obtenidas ilegalmente en una biblioteca digital separada. El tribunal dio después, en julio de 2026, su aprobación final a un acuerdo de 1.500 millones de dólares alcanzado entre Anthropic y los titulares de derechos."
+        },
+        {
+          "t": "p",
+          "x": "Kim Tae-heon, presidente de la Asociación Coreana de Cultura Editorial, dijo: “Queda el pesar de que la industria editorial respondiera de forma algo pasiva a las nuevas tendencias, como los cambios en las plataformas de distribución, los libros electrónicos y los audiolibros, durante la anterior transición digital”. Añadió: “Esta vez, con el cambio de la IA, debemos prepararnos y actuar de forma activa, sin quedarnos atrás”."
+        }
+      ]
+    },
+    "books/books-zlibrary-my-beloved-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-172575622-1152x648.jpg",
+          "cap": "Crédito: Steven Errico | Photographer’s Choice RF"
+        },
+        {
+          "t": "p",
+          "x": "Sony, EMI, Warner Chappell y otras importantes editoriales musicales a nivel mundial demandaron a Anthropic el viernes pasado. La empresa que creó Claude había admitido haber copiado ilegalmente más de 7 millones de libros para entrenar su IA y pagó 1.500 millones de dólares a los autores, pero las editoriales musicales consideraron ese acuerdo demasiado leve. Sostienen que 1.500 millones de dólares no bastan ni de lejos para disuadir a una empresa que convirtió una infracción masiva en una valoración de 2 billones de dólares. Afirman que en los torrents ilegales de Anthropic se mezclaban “thousands upon thousands” (miles y miles) de obras musicales sobre las que tienen derechos de autor."
+        },
+        {
+          "t": "p",
+          "x": "Según la demanda, la “mass campaign of illegal torrenting” (campaña masiva de torrents ilegales) de Anthropic comenzó en julio de 2021. El cofundador Benjamin Mann descargó personalmente mediante BitTorrent millones de libros de la biblioteca pirata Library Genesis (LibGen) y los volvió a subir, con la aprobación del cofundador y director ejecutivo Dario Amodei, según el escrito. Ambos figuran como acusados a título individual. A finales de 2021 el FBI cerró LibGen, pero antes de eso una copia ya había resurgido como “Z-Library”, y Anthropic obtuvo una copia de esa copia a través de “Pirate Library Mirror” (PiLiMi)."
+        },
+        {
+          "t": "p",
+          "x": "Cuando PiLiMi se hizo público, Mann ordenó de inmediato a los empleados que empezaran a usar torrents, avisando de que el espejo había aparecido “just in time!” (¡justo a tiempo!). Un empleado respondió: “zlibrary my beloved” (mi querido zlibrary). Las editoriales musicales presentaron esta conversación interna como prueba de que Anthropic celebraba la piratería mientras obtenía rápidamente nuevos datos de entrenamiento. Dijeron que, al revisar los listados no privados de LibGen y PiLiMi, datos bibliográficos como el título, el autor y el ISBN bastaban para mostrar indicios de que se habían descargado por torrent cientos de libros con partituras y letras."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic niega haber usado los libros obtenidos de ambas fuentes para entrenar el modelo comercial Claude. Las editoriales replicaron que eso depende de cómo se defina “entrenamiento”: alegan que un modelo no comercial se entrenó con texto procedente de LibGen y PiLiMi, y que los datos sintéticos y la retroalimentación generados por ese modelo pasaron al modelo comercial Claude. Un portavoz de Anthropic declaró a Ars: “This is the third lawsuit from the same lawyers, recycling allegations from cases already before the courts” (este es el tercer pleito de los mismos abogados, que reciclan alegaciones de casos ya presentados ante los tribunales), y añadió: “Training generative AI models is a transformative fair use—as the court held in Bartz—and we will defend ourselves robustly” (entrenar modelos de IA generativa es un uso legítimo transformador, como determinó el tribunal en el caso Bartz, y nos defenderemos con firmeza)."
+        },
+        {
+          "t": "p",
+          "x": "En los litigios por derechos de autor sobre libros, el punto que decidió el uso legítimo fue que los autores no pudieron demostrar un daño al mercado. Las editoriales creen que en la música la situación es distinta. Las canciones hechas con IA llegan a lo más alto de las listas y compiten directamente con los compositores de las canciones originales usadas para el entrenamiento, y la Oficina de Derechos de Autor de EE. UU. también ha señalado que, aunque lo generado no sea sustancialmente similar a una obra concreta, competir en el mismo mercado diluye el fondo de regalías. Amodei declaró en un litigio anterior que Anthropic podría haber comprado los libros legalmente, pero optó por los torrents para evitar un “legal/practice/business slog” (un atasco legal, práctico y empresarial)."
+        }
+      ]
+    },
+    "books/books-african-audiobook-market": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El mercado de audiolibros crece cada año, con ingresos y oyentes en aumento. Pero algunos mercados ya están establecidos y otros apenas están comenzando. El mercado africano de audiolibros está creciendo, aunque todavía se acerca más a lo segundo. Publishing Perspectives habló con Ama Dadson, fundadora y directora ejecutiva de AkooBooks Audio, de Ghana, y embajadora de audio de la Frankfurter Buchmesse este año."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/Ama-Dadson-speaking.png",
+          "cap": "Ama Dadson hablando en Kampala Writes"
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida fue personal. La madre de Dadson, escritora de literatura infantil, perdió la vista, y Dadson fue testigo de cómo no poder leer una página impresa equivalía a perder libros e historias. Fue entonces cuando también se dio cuenta de cuán pocos libros africanos existían en formato de audio, y de lo poco frecuente que era escuchar historias africanas narradas con voces africanas auténticas. Fundó AkooBooks en Ghana en 2017, y hoy la empresa también trabaja con libros electrónicos."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta en Ghana ha sido alentadora. Pero en lugar de entrar en un mercado ya existente, Dadson está construyendo uno. Escuchar audiolibros todavía resulta poco familiar allí, así que la visibilidad, el precio, el acceso móvil y el reconocimiento son fundamentales. Los mercados africanos no crecen copiando simplemente mercados anteriores. El acceso centrado en móviles, los pagos locales, el precio, el costo de los datos y los canales institucionales como escuelas y bibliotecas son todos variables."
+        },
+        {
+          "t": "p",
+          "x": "Tampoco existe un 'mercado africano' uniforme. La demanda se reparte entre novela, thriller y romance, biografía, historia, negocios, literatura infantil y juvenil, y libros escritos en idiomas africanos. Lo que siempre funciona es la relevancia y la autenticidad. En el Mashariki Creative Economy Expo 2026, celebrado en Dar es Salaam, se discutió cómo los libros africanos se trasladan al audio y lo digital, y a otros idiomas y mercados. Una novela escrita en swahili puede dar lugar a un audiolibro en swahili, una traducción al inglés y un audiolibro en inglés."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Mashariki-Creative-Economy-photo-278x300.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La producción se hace localmente. Trabajan con narradores profesionales, actores, escritores, estudios e ingenieros de sonido, porque la voz, la pronunciación y el contexto cultural importan enormemente. Pero en lugar de limitar lo 'local' a Ghana, lo han ampliado a todo el continente africano. Un audiolibro en swahili debe apoyarse en talento y capacidad de producción del ámbito swahili."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología se combina con la creación humana. Usan herramientas de producción digital y revisión de calidad, y trabajan con socios tecnológicos para mejorar el flujo de trabajo, la distribución y la visibilidad. La IA resulta cada vez más útil para tareas como la preparación de guiones, la revisión de calidad, los metadatos, la visibilidad y el marketing. La línea que traza Dadson es clara: la IA que sustituye la creación es distinta de la IA que elimina la fricción del proceso creativo. En el audio africano, donde la economía de producción es ajustada, esa diferencia importa especialmente."
+        },
+        {
+          "t": "p",
+          "x": "El mercado global de audiolibros sigue creciendo. La adopción de smartphones, el streaming, los pagos digitales y la mejora en la distribución están reduciendo las barreras de entrada, y la tecnología de producción, incluida la IA, también reduce costos y tiempo. Aun así, la tecnología sola no abre un libro. La producción solo funciona cuando los derechos están asegurados, el libro es visible y tiene un precio justo. El próximo crecimiento vendrá no solo de libros nuevos, sino de dar a historias ya existentes una nueva vida mediante el audio, nuevos idiomas y nuevos mercados."
+        },
+        {
+          "t": "p",
+          "x": "Las preguntas que deja Dadson son estas: ¿quién llega a escuchar?, ¿de quién son las historias que están listas?, ¿qué idiomas están representados?, ¿cómo viaja esa historia?, y ¿quién participa en esa parte del crecimiento?"
+        }
+      ]
+    },
+    "books/books-calibre-ai-covers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hay una nueva versión de Calibre, la herramienta de gestión de libros electrónicos de código abierto. Permite generar portadas de libros con IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "Calibre 9.14, publicada el 28 de agosto, añade un botón “AI Generate” al editor de libros. Genera una nueva portada y la aplica directamente a un libro que ya tienes. Incluye preajustes de estilo como romance, ciencia ficción y pulp fiction, y también puedes escribir el tuyo propio."
+        },
+        {
+          "t": "p",
+          "x": "Para usarlo, primero hay que registrar un proveedor de IA que admita generación de imágenes junto con una clave de API. La primera vez que se pulsa el botón, una pantalla de configuración guía el proceso. Se puede elegir entre Google AI (que tiene un nivel gratuito), Grok, OpenAI y OpenRouter."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2026/08/calibre-AI-cover-1.webp?resize=750%2C394&ssl=1",
+          "cap": "Calibre dice que funciona con una clave de API de Google AI Studio, pero a mí no me funcionó"
+        },
+        {
+          "t": "p",
+          "x": "¿Es una función un poco rara? Puede ser."
+        },
+        {
+          "t": "p",
+          "x": "Los libros electrónicos que tengo casi siempre ya tienen portada. Ver un título de no ficción como News Writing, de Anna McKane, rediseñado como si fuera una novela romántica puede dar una risa breve, suficiente para un “ja” y luego olvidarlo. No tengo intención de conservarlo. No es la portada real."
+        },
+        {
+          "t": "p",
+          "x": "Puedo imaginar por qué se añadió esta función. Está pensada para quien no tiene habilidad ni ojo para el diseño, para que sustituya en su biblioteca las portadas que no le gustan —inexistentes, o existentes pero malas— por portadas “únicas” (tan únicas como puede ser algo hecho por IA)."
+        },
+        {
+          "t": "p",
+          "x": "La idea en sí no es nueva, ya que Calibre tenía desde antes una función de “generar portada”. El método anterior usaba plantillas simples y formulaicas. La IA al menos amplía ese margen. Pero usarla en obras ya publicadas sigue resultando incómodo, como ponerle a un álbum conocido una funda hecha por uno mismo: da la sensación de estar tocando algo canónico."
+        },
+        {
+          "t": "p",
+          "x": "“No juzgues un libro por su portada. Pero está bien pedirle a la IA que haga una mejor.” No parece el tipo de frase que vaya a quedar como proverbio."
+        },
+        {
+          "t": "p",
+          "x": "La versión 9.14 trae otros cambios relacionados con la IA. Se añadieron backends de Anthropic y Grok, que permiten usar modelos de Claude y Grok. Se eliminó el backend de GitHub, tras el cierre de GitHub Models a finales de julio de 2026."
+        },
+        {
+          "t": "p",
+          "x": "También se corrigió un error de Linux que llevaba mucho tiempo presente. En versiones anteriores, los enlaces de algunos cuadros de diálogo no se abrían al hacer clic; esto afectaba también a la página de configuración de proveedores de IA y a las notificaciones de actualización. Se resolvió en la v9.14."
+        },
+        {
+          "t": "p",
+          "x": "El resto de mejoras son estas: el filtro del editor de etiquetas ya permite buscar caracteres acentuados como é, la vista previa de portada en el editor de metadatos llena el espacio restante, y pasar el cursor sobre una imagen en el explorador de archivos muestra una vista previa."
+        },
+        {
+          "t": "p",
+          "x": "También vale la pena señalar las correcciones de errores. Las portadas de pantalla de bloqueo de Kindle con datos EXIF vacíos ahora se muestran correctamente, y aparece una barra de progreso al deshacer la eliminación de más de cinco libros. También se corrigió una casilla de búsqueda de Google AI que no se veía en el cuadro de diálogo de configuración. Las correcciones de seguridad cerraron la escritura arbitraria de archivos en el servidor de contenido, la ejecución remota de código por usuarios autenticados y el cross-site scripting en la página antigua de detalles del libro."
+        },
+        {
+          "t": "p",
+          "x": "Calibre es software gratuito y de código abierto para Windows, macOS y Linux. La versión más reciente se descarga desde el sitio oficial. En Linux se instala y actualiza mediante un script de línea de comandos. También está en Flathub, pero como una compilación no verificada, por lo que para encontrarlo en el Gestor de software de Linux Mint primero hay que activar unverified sources."
+        }
+      ]
+    },
+    "books/books-elsevier-nora-ebook-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131207-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Google anunció su concepto Expert Intelligence para los libros electrónicos comprados en Google Play. Unos días antes, Elsevier ya había presentado Nora AI."
+        },
+        {
+          "t": "p",
+          "x": "Nora AI es un asistente de IA que funciona dentro de los libros electrónicos de Elsevier a través de la plataforma Bookshelf de VitalSource."
+        },
+        {
+          "t": "p",
+          "x": "Según el anuncio, los usuarios hacen preguntas y reciben respuestas personalizadas basadas en evidencia, extraídas directamente del contenido de Elsevier."
+        },
+        {
+          "t": "p",
+          "x": "Lo creó Elsevier, y está dirigido al ámbito de la educación médica."
+        },
+        {
+          "t": "p",
+          "x": "Estudiantes y profesores preguntan sobre el texto y obtienen respuestas sin salir nunca del libro electrónico. No hace falta cambiar de pantalla."
+        },
+        {
+          "t": "p",
+          "x": "“La educación médica está en un punto de inflexión, porque la IA abre nuevas formas de apoyar el aprendizaje de los estudiantes y la enseñanza de los profesores”, dijo Brent Gordon, presidente de Educación Global en Salud de Elsevier, en un comunicado."
+        },
+        {
+          "t": "p",
+          "x": "“Nora AI entrega ayuda oportuna a los estudiantes dentro de su flujo de aprendizaje, y para los profesores es un recurso confiable que complementa su enseñanza.”"
+        },
+        {
+          "t": "p",
+          "x": "El artículo lo escribió Jim Milliot, con fecha del 31 de agosto de 2026. El texto de Publishers Weekly queda bloqueado tras el inicio de sesión de suscriptores a partir de este punto. Lo traducido aquí es todo lo que está disponible públicamente."
+        }
+      ]
+    },
+    "books/books-getabstract-human-longlist": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-7.37.00-AM.png",
+          "cap": "Los ganadores se anunciarán el 8 de octubre en la Feria del Libro de Fráncfort 2026."
+        },
+        {
+          "t": "p",
+          "x": "getAbstract, con sede en Suiza, lleva tiempo colaborando con editoriales participantes para ofrecer resúmenes de libros. La empresa ha publicado la longlist de la categoría “Business Impact” del International Book Award."
+        },
+        {
+          "t": "p",
+          "x": "Esta es la 26.ª edición. Cada año selecciona “libros destacados” por separado en una categoría alemana y una categoría internacional. Los ganadores se anunciarán el 8 de octubre en la Feria del Libro de Fráncfort."
+        },
+        {
+          "t": "p",
+          "x": "“En una época en la que el conocimiento se procesa cada vez más a través de sistemas de IA, hacer visible de dónde proviene ese conocimiento importa más que nunca”, dijo Laura Lesum, directora de derechos de getAbstract, en el anuncio de la longlist."
+        },
+        {
+          "t": "p",
+          "x": "“Para nosotros, eso es lo que significa este premio: editoriales que invierten en ideas y las moldean con cuidado antes de entregarlas a los lectores, y autores que respaldan con su nombre argumentos que merecen ser examinados a fondo. La longlist de este año reconoce esa contribución humana, incluido el conocimiento que no deberíamos dar por sentado.”"
+        },
+        {
+          "t": "p",
+          "x": "Los libros elegibles se publicaron entre junio de 2025 y mayo de 2026. La shortlist se dará a conocer el 15 de septiembre."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-8.20.03-AM-300x167.png",
+          "cap": "Nominados en la categoría internacional"
+        },
+        {
+          "t": "p",
+          "x": "Los nominados en la categoría internacional son: Creative Machines, de Maya Ackerman (John Wiley & Sons); Creativity in the Age of AI, de Deborah Yao, Jerry Wind y Mukul Pandya (De Gruyter Brill); Flash Teams, de Melissa Valentine y Michael Bernstein (MIT Press); Four Days a Week, de Juliet B. Schor (HarperCollins Publishers); y Stop Letting Everything Affect You, de Daniel Chidiac."
+        },
+        {
+          "t": "p",
+          "x": "También fueron nominados: The Emotional Intelligence Advantage, de Amy Jacobson (John Wiley & Sons); The First Meeting Differentiator, de Lee B. Salz (HarperCollins Leadership); The Shortest History of Innovation, de Andrew Leigh (Black Inc.); Trend Leader, de Joanna Feeley (Rethink Press); y What Is Intelligence?, de Blaise Agüera y Arcas (MIT Press)."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-31-at-8.20.13-AM-300x171.png",
+          "cap": "Nominados en la categoría en alemán"
+        },
+        {
+          "t": "p",
+          "x": "También se nominaron diez libros en la categoría en alemán, entre ellos Die Multipolarisierung der Welt, de Volker Perthes (Suhrkamp); Die Stunde der Nashörner, de Ansgar Baums y Thomas Ramge (Murmann); Führung im Zeitalter von KI, de Richard Butler, Manfred Becking y Jörg Nitschmann (Carl Hanser Verlag); y KI für kluge Kommunikation, de Anita Hermann-Ruess (GABAL). Varios títulos abordan la IA de forma directa."
+        },
+        {
+          "t": "p",
+          "x": "El premio existe desde 2001, con el propósito de honrar a autores que presentan “ideas que amplían nuestra comprensión de la sociedad, los negocios, el liderazgo y el mundo del trabajo”. Es una dirección coherente con el énfasis que la organización ha puesto durante mucho tiempo en la experiencia verificada y el impacto medible."
+        }
+      ]
+    },
+    "books/books-loc-ai-sandbox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.infodocket.com/wp-content/uploads/2026/08/2026-08-31_11-36-47.png"
+        },
+        {
+          "t": "p",
+          "x": "InfoDocket reprodujo una entrada del blog de la Biblioteca del Congreso. La compiló Gary Price, con fecha del 31 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "En 2025, la Biblioteca lanzó un programa de sandbox de IA para el personal."
+        },
+        {
+          "t": "p",
+          "x": "El entorno de “sandbox” se ha usado desde principios de la década de 1970. La idea es disponer de un espacio protegido para desarrollar y experimentar sin poner en riesgo el sistema."
+        },
+        {
+          "t": "p",
+          "x": "El margen para que la tecnología de IA amplíe y enriquezca las colecciones y servicios de la Biblioteca sigue creciendo. Pero la Biblioteca insiste en que la experimentación y la seguridad son lo esencial."
+        },
+        {
+          "t": "p",
+          "x": "Para ver cómo funcionan realmente estos métodos con distintos materiales y condiciones, la cohorte más reciente del sandbox de IA respaldó más de una docena de experimentos a pequeña escala."
+        },
+        {
+          "t": "p",
+          "x": "Los equipos combinaron experiencia técnica con experiencia en la materia. Los experimentos se diseñaron en torno a las necesidades reales y las posibilidades de los flujos de trabajo de la Biblioteca."
+        },
+        {
+          "t": "p",
+          "x": "Los materiales abarcados cubren ampliamente las colecciones de la Biblioteca. Incluyeron registros legales y escritos judiciales, circulares y reglamentos, imágenes, libros hablados, materiales audiovisuales y anuncios clasificados de periódicos antiguos."
+        },
+        {
+          "t": "p",
+          "x": "A esto se sumaron PDF gubernamentales recopilados mediante archivos web, y materiales manuscritos en árabe, persa, geez, turco, armenio, georgiano, japonés, chino y hebreo."
+        },
+        {
+          "t": "p",
+          "x": "También se incluyeron libros infantiles y juveniles, grabaciones sonoras, metadatos de archivos web, anotaciones de discos, grabaciones de historia oral, monografías en escrituras no latinas, registros de catálogo, y materiales y recursos educativos. Queda más material accesible a través de la API de Colecciones de la Biblioteca del Congreso."
+        },
+        {
+          "t": "p",
+          "x": "El texto completo está en el blog de la Biblioteca del Congreso. Lo que publicó InfoDocket es un extracto con la parte central recortada, y lo traducido aquí llega solo hasta ese extracto."
+        }
+      ]
+    },
+    "books/books-ssrs-audiobook-narration-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ssrs.com/wp-content/uploads/AI-vs.-Human-Audiobook-Narration-A-Blinded-Survey-of-1000-Listeners-600x338.png",
+          "cap": "Narración con IA frente a narración humana: una encuesta a ciegas con 1000 oyentes"
+        },
+        {
+          "t": "p",
+          "x": "Edison Research at SSRS presentará los resultados recientes de su estudio sobre narración con IA y narración humana en un webinar. Será el jueves 10 de septiembre a las 2 p.m., hora del Este de EE. UU."
+        },
+        {
+          "t": "p",
+          "x": "Así se diseñó el estudio: más de 1000 oyentes de audiolibros de ficción en Estados Unidos se dividieron al azar en dos grupos."
+        },
+        {
+          "t": "p",
+          "x": "Ambos grupos escucharon un pasaje tomado del mismo audiolibro de suspenso de ciencia ficción. Una versión fue grabada por un solo narrador humano, la otra fue una narración multicast de Spoken AI. Los oyentes la calificaron primero sin saber cómo se había hecho."
+        },
+        {
+          "t": "p",
+          "x": "La presentación estará a cargo de Megan Lazovick, vicepresidenta de Edison Research at SSRS. La acompañará Philip Marshall, fundador y director ejecutivo de Spoken, The AI Audiobook Company™, que encargó el estudio."
+        },
+        {
+          "t": "p",
+          "x": "Esto es lo que abordará el webinar: cómo se desempeñó cada estilo de narración en la prueba a ciegas, y en qué puntos la narración humana obtuvo la puntuación más alta y en cuáles la narración con IA obtuvo la más alta."
+        },
+        {
+          "t": "p",
+          "x": "También se abordará qué es lo que los oyentes dijeron que más desean en la narración de audiolibros, y qué señal da eso a las editoriales."
+        },
+        {
+          "t": "p",
+          "x": "La charla continúa con cómo cambió la disposición a escuchar una vez que se les dijo que era narración con IA, y hasta qué punto estarían dispuestos a comprar un audiolibro narrado por IA."
+        },
+        {
+          "t": "p",
+          "x": "Tras la presentación, Michele Cobb, socia de Forté Business Consulting, dirigirá la ronda de preguntas y respuestas."
+        },
+        {
+          "t": "p",
+          "x": "SSRS describe esto como un material oportuno para editoriales, autores, narradores, productores de audio y especialistas en marketing, es decir, para quienes siguen hacia dónde se dirigen las expectativas de los consumidores sobre la narración de audiolibros."
+        },
+        {
+          "t": "p",
+          "x": "Spoken ayuda a autores y editoriales a producir audiolibros con varias voces por mucho menos costo y tiempo que la producción tradicional. Spoken Multi-Cast™ combina IA agéntica con síntesis de voz con matices emocionales para lograr interpretaciones centradas en el personaje."
+        },
+        {
+          "t": "p",
+          "x": "Los autores pueden elegir una voz de IA creada solo para su personaje, o usar una voz de IA clonada a partir de un narrador profesional. Cada vez que se usa una voz clonada, ese narrador recibe una compensación."
+        },
+        {
+          "t": "p",
+          "x": "Edison Research at SSRS realiza estudios de mercado sobre audio, medios y tendencias. Sus estudios insignia incluyen Share of Ear®, que mide todo el consumo de audio en Estados Unidos en un solo conjunto de datos; Edison Podcast Metrics™, que mide la escucha de pódcasts en Estados Unidos mediante encuestas; y The Infinite Dial®, que se realiza desde 1998. Abarca más de 66 países y territorios, incluido Estados Unidos."
+        }
+      ]
     }
   }
 }

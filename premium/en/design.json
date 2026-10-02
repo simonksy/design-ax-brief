@@ -4469,6 +4469,103 @@
           "x": "Using AI for concept art speeds things up. But will anyone say the same thing, 50 years from now, about an AI-generated Spider-Man drawing?"
         }
       ]
+    },
+    "design/design-empire-at-sea-venice": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ten people wearing Apple Vision Pro headsets surround a table. Beyond the pass-through mixed reality, volumetrically captured actors appear in the space, and the audience walks around the table, changing viewpoints and directly intervening in a branching story."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1024/format/webp/2026/08/empire_at_sea-1.jpg",
+          "cap": "Empire At Sea"
+        },
+        {
+          "t": "p",
+          "x": "Director Peter Flaherty's 22-minute immersive drama Empire At Sea premieres this week in the Venice Immersive competition section. The production team calls it a \"solarpunk AR drama,\" drawing on a science-fiction genre that imagines a more sustainable future. Venice Immersive is a section of the 83rd Venice International Film Festival, running from September 2 to 12."
+        },
+        {
+          "t": "p",
+          "x": "The story follows climate scientists who relocate to a remote oil rig to build a sustainable community on the sea. A disaster that strikes the mainland cuts them off from the outside world, completely changing the purpose of the experiment. Five years later, a young woman named Lani spots a ship on the horizon. Facing the first sign of civilization since the disaster, the community must decide whether to welcome the strangers or hold them off by force."
+        },
+        {
+          "t": "p",
+          "x": "The stage is a specially built LED table. Vision Pro overlays volumetrically captured actors onto the physical space, and ten people move around the table at the same time, following the scene from different positions. The audience's participation is directly reflected in the branching narrative."
+        },
+        {
+          "t": "p",
+          "x": "The cast includes Orlando Jones (American Gods), Ayelet Zurer (Munich), Geoffrey Arend (Goliath), Beth Grant (No Country for Old Men), Imani Jade Powers and Mary Chieffo. The actors' volumetric capture used technology from 4DV.ai. Flaherty created The Dial, an AR and projection-mapping work shown at Sundance in 2019, and served as creative director on Marvel Studios and Disney's Eternals AR project in 2021."
+        },
+        {
+          "t": "p",
+          "x": "Empire At Sea was commissioned by Lincoln Center and ASU Gammage, and Venice is not the end of the road. A performance at Lincoln Center is scheduled for January 2027, and according to the press release, VR headset and mobile versions for audiences watching at home are also in development. Specific platforms and release timing have not yet been announced."
+        }
+      ]
+    },
+    "design/design-text-to-cad-format": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Viewed from outside, 'AI CAD' can easily look like generative 3D modeling with marketing stacked on top: you enter a prompt and a mesh comes out, the same category as image generation, just with objects as the target. If you're actually making things to manufacture, or evaluating tools for that, this assumption is wrong."
+        },
+        {
+          "t": "p",
+          "x": "A mesh is a pile of triangles. There's no concept of \"this hole is 8mm because an M8 bolt has to go through it\" or \"this wall is 2mm because that's the minimum thickness for this material.\" There are only vertices, edges and faces frozen at their current positions. Most AI 3D tools trained on the same pipeline as image generation output meshes. That's great for games, VFX and visualization, but not for manufacturing."
+        },
+        {
+          "t": "p",
+          "x": "A parametric model is different starting from the data structure itself. It's a sequence of features—extrudes, fillets, holes with a set diameter and depth—and each feature is defined by relationships and dimensions rather than fixed triangle coordinates. Change a diameter parameter and the geometry beneath it changes all at once. This is also the structure that professional CAD tools like SolidWorks, Fusion 360 and Onshape work with internally, and STEP files, tolerance stacks, GD&T and CAM toolpaths all depend on it. None of that works on top of a mesh."
+        },
+        {
+          "t": "p",
+          "x": "So the real question to ask an 'AI CAD' tool isn't whether it can make a 3D shape from text. It's what data structure sits on the other side of that generation. The answer decides whether you got something to look at or something to make."
+        },
+        {
+          "t": "p",
+          "x": "Pulling a mesh out of a prompt is a relatively easy ML problem, because it's close to the image and video generation paradigm that most generative 3D research rides on. Producing a valid parametric feature tree is different and harder. It has to be a consistent sequence of manufacturable operations, not just a plausible-looking surface, and if even one step is geometrically out of line with the one before it, the whole tree collapses."
+        },
+        {
+          "t": "p",
+          "x": "The author's own project, CadXStudio, is said to have taken this problem on directly rather than working around it. The output isn't a mesh dressed up to look like CAD, but a B-Rep model built from parametric features, exported as STEP, with STL and OBJ also produced for printing and visualization. That's why dimensions or fillet radii can be fixed without rebuilding from scratch, and why machinists and CAM tools can take the STEP file as is. It's also why faces that meet and holes that align can reference each other and bind into an assembly."
+        },
+        {
+          "t": "p",
+          "x": "The fastest way to judge a tool is to check what happens after generation. When you select a face, can you see a dimension you can edit? When you export to STEP and open it in 'real' CAD, does it quietly turn into a dumb solid? Does changing one parameter bring the dependent geometry along with it, or does 'editing' ultimately mean writing another prompt? These questions are what separate a rendering engine from a design engine. One gives you something to look at; the other gives you something to make."
+        }
+      ]
+    },
+    "design/design-to-code-benchmark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "No one buys a design-to-code tool because it makes hero sections look pretty. A designer uploads a messy SaaS dashboard to Figma, the team has to receive it in React and Next.js by Friday, and they just don't want to spend the weekend untangling div soup."
+        },
+        {
+          "t": "p",
+          "x": "So the test case for this benchmark is a single screen from an old, practical dashboard: nested auto layouts, haphazard naming, a dated sidebar and top nav, dense tables, forms with error states, and a few modals and popovers. The same Figma export and the same component rules were fed identically into five tools."
+        },
+        {
+          "t": "p",
+          "x": "The scoring criteria are accessibility (number of axe-core violations and Lighthouse score), the ratio of semantic tags, the size of the production bundle and dependency count, the cost of making edits, and finally, visual fidelity. Edit cost was measured by actually implementing three requests—persisting sidebar collapse state, a checkbox column with a bulk-action bar for the table, and inline validation messages for the form—and counting the files touched and the lines of code added or removed."
+        },
+        {
+          "t": "video",
+          "yt": "BOl05zmQjOg"
+        },
+        {
+          "t": "p",
+          "x": "Scores run from 1 to 10. The Dev Mode baseline scored 9 on accessibility, semantics, bundle and editability, with 8 on fidelity—slowest to start, fastest to maintain. The token-aware exporter scored 7, 7, 8, 7, 7; the component-mapping AI tool scored 6, 6, 6, 6, 8. The screenshot-based generator scored 9 on fidelity but only 3 on accessibility and semantics, and 2 on editability. The full-stack platform scored 5, 5, 4, 5, 7, with the heaviest bundle of all."
+        },
+        {
+          "t": "p",
+          "x": "The screenshot tool's failure showed up clearly on the sidebar-collapse request. It looked fine on the surface, but it wasn't a component with a layout contract—just a pile of stacked containers. By contrast, the tools that used deterministic input, like tokens and components, came out ahead on ease of editing. The generator that built the dashboard table as a div grid instead of a table with th scope lost points on accessibility immediately."
+        },
+        {
+          "t": "p",
+          "x": "The recommendation depends on the team. For a startup that needs to ship v1 fast, the author says to use the screenshot tool only for prototyping and be prepared to rewrite the UI layer later. For a company where accessibility and compliance are on the line, this path is better not treated as the main route. Teams with a solid design system should invest in a token pipeline; development-led teams that already have a component library should invest in a tool that maps to that library. If you can't reproduce the output, that's not a benchmark—it's content marketing."
+        }
+      ]
     }
   }
 }

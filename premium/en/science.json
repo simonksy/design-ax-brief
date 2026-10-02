@@ -3794,6 +3794,471 @@
           "x": "The researchers drew a clear line. Both examples were small enough to be solved with classical software, and the graph model didn't capture protein motion or surrounding water molecules. In other words, this isn't a study demonstrating quantum advantage. The picture they're drawing is one of division of labor, not replacement: classical computers refine the molecular data to build the interaction graph, while quantum processors take on the job of finding compatible sets of contacts."
         }
       ]
+    },
+    "science/science-extreme-scenarios": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Will a city's seawalls hold up against a massive storm? Can the regional power grid withstand a record-breaking heat wave? Could a town's firefighting resources contain a major wildfire?"
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202608/MIT-ExtremeLearning-01-press.jpg",
+          "cap": "MIT research that generates extreme-event scenarios without extreme data. Credit: MIT News"
+        },
+        {
+          "t": "p",
+          "x": "Answering that requires first knowing how such an event would unfold — how far a wildfire would spread, how wide an area a storm would hit, how long a heat wave would last."
+        },
+        {
+          "t": "p",
+          "x": "The trouble is that extreme events are notoriously hard to predict. By nature they're outliers, so they show up only sparsely in the record. Yet most risk-assessment methods still lean on past extreme events to sketch even more extreme worst-case scenarios for the future."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at MIT have built a tool that generates plausible extreme events and worst-case scenarios, mapping a storm's expected duration, intensity and area of impact. The key point is that it doesn't need to know about past extreme events."
+        },
+        {
+          "t": "p",
+          "x": "The method, a form of machine-learning algorithm, learns from a region's daily weather records and maps, which may or may not include record-setting heat waves or downpours. It takes a statistical approach, filtering out implausible scenarios, then generates events expected to occur about once every 100 years, projecting their size, intensity and duration."
+        },
+        {
+          "t": "p",
+          "x": "\"We're trying to model extreme, unprecedented events that no one has seen, that aren't in the dataset,\" said Kai Chang, an MIT graduate student in mechanical engineering."
+        },
+        {
+          "t": "p",
+          "x": "\"An event like Hurricane Katrina happens once every 30 to 40 years,\" added Themis Sapsis, an MIT professor of mechanical and ocean engineering. \"So what would a once-in-100-years Katrina look like? How bad would it be? We're trying to put a number on exactly that, so planners can prepare for it.\""
+        },
+        {
+          "t": "p",
+          "x": "The team calls the approach Extreme Event Aware, or 'η-learning' for short, and says it could also be used for robot navigation or financial markets. \"A financial market crash is an extreme event tangled up across multiple sectors,\" Chang said. The paper was published August 20 in Nature Communications."
+        },
+        {
+          "t": "p",
+          "x": "Planners and insurers have asked about 100-year storms while using simulations trained on data that already contains such events. \"We're trying to see what an unprecedented extreme event looks like — one that's riskier than anything that has happened so far, yet still plausible,\" Chang said."
+        },
+        {
+          "t": "p",
+          "x": "If New York City's record maximum rainfall is 200 millimeters, what would a storm that produces 300 millimeters look like? It's not in the record, but it isn't impossible either. \"We're trying to forecast the map of that kind of worst-case scenario,\" Sapsis said."
+        },
+        {
+          "t": "p",
+          "x": "The algorithm learns the relationship between point statistics and spatial maps together. For the extreme precipitation case over the continental U.S., the team bundled 25 years of hourly precipitation maps into daily units and compiled point statistics on how often and at what levels maximum rainfall was reached. Training used only the first six months of low-resolution–high-resolution map pairs, which contained hardly any extreme cases."
+        },
+        {
+          "t": "p",
+          "x": "The algorithm learns how low-resolution patterns correspond to high-resolution precipitation maps, and uses point statistics to constrain the extremes of rainfall. That lets it generate events more extreme than anything in the training data — for instance, a once-in-100-years rainfall of up to 300 millimeters — and project where and how large and intense it would appear. The same goes for extreme floods or wildfires."
+        },
+        {
+          "t": "p",
+          "x": "\"Extreme events are no longer just an environmental problem — they're a strategic one. We've optimized the world's systems for efficiency, and the price of that is that there's no slack anywhere. A single extreme event can ripple through supply chains, energy markets and food systems within weeks,\" Sapsis said."
+        }
+      ]
+    },
+    "science/science-ionq-macbook-decoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A single MacBook Pro might one day handle error correction for a fault-tolerant quantum machine running millions of operations. That's the premise behind new research from an IonQ team."
+        },
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-7.35.29-AM.png",
+          "cap": "IonQ MegaQuOp. Credit: The Quantum Insider"
+        },
+        {
+          "t": "p",
+          "x": "The IonQ team, including Min Ye, Andrii Maksymov and Nicolas Delfosse, demonstrated an end-to-end decoding system for a trapped-ion quantum computer handling up to 408 logical qubits. They processed a workload containing more than a million quantum operations on a single Apple M4 Max."
+        },
+        {
+          "t": "p",
+          "x": "This scale is called MegaQuOp — a fault-tolerant machine that performs roughly a million logical operations on error-corrected qubits. The name refers to the scale and reliability of the computation, not to any specific hardware approach."
+        },
+        {
+          "t": "p",
+          "x": "No MegaQuOp machine exists yet. The researchers compiled representative quantum applications for their proposed architecture and simulated the stream of error information that real hardware would have produced. The paper is an arXiv preprint and hasn't undergone peer review."
+        },
+        {
+          "t": "p",
+          "x": "Still, the question matters. A fault-tolerant machine doesn't just need to protect quantum information — it has to interpret the flood of error signals fast enough that the computation doesn't stall."
+        },
+        {
+          "t": "p",
+          "x": "The latency wasn't large. At a two-qubit gate error rate of 0.01%, decoding lengthened the computation by less than 0.3%; at 0.05%, all three workloads stayed below 12%."
+        },
+        {
+          "t": "p",
+          "x": "When noise disturbs a qubit's state, the computation breaks. Error correction handles this by spreading information across multiple physical qubits, and that bundle of physical qubits forms a more reliable logical qubit. A decoder is the classical system that reads the measurements, infers what error occurred, and reports it back to the machine."
+        },
+        {
+          "t": "p",
+          "x": "The task gets harder as the machine scales up. If decoding falls behind, a backlog builds, and the quantum machine either runs extra idle cycles waiting on the classical side or stalls outright. In procedures where one logical measurement result determines the next operation, this delay snowballs into a chain reaction."
+        },
+        {
+          "t": "p",
+          "x": "Earlier decoding research mostly stuck to information storage or a handful of logical operations, with some attempts using FPGAs, GPUs and custom chips for speed. The IonQ team tested memory, logical operations and the auxiliary processes required for general-purpose fault-tolerant computation all together — and all of it ran on a single standard CPU."
+        },
+        {
+          "t": "p",
+          "x": "The target was IonQ's proposed 'walking cat' architecture. Logical qubits are encoded in a quantum LDPC code, and separate 'magic state factories' supply T-gate resources. The largest configuration had 68 memory blocks, 20 factories, 11,680 physical qubits and 408 logical qubits."
+        },
+        {
+          "t": "p",
+          "x": "There were three workloads. A measurement-induced phase transition circuit used 102 logical qubits with about 1.09 million T gates and 1.1 million logical measurements. The largest, a Heisenberg benchmark, used 408 logical qubits with more than 550,000 T gates."
+        },
+        {
+          "t": "p",
+          "x": "The run used a 2024 Apple M4 Max. Of its 16 cores, 12 were used — eight for continuous decoding and four for handling time-sensitive logical measurements. The detector error model kept the graph structure fixed and updated only the probabilities, cutting the cost of rebuilding it and lowering memory use by more than an order of magnitude."
+        },
+        {
+          "t": "p",
+          "x": "The limitations are clear too. The results are specific to the walking cat architecture and its operating model. The noise model is a circuit-level assumption, not a measurement from an actual large-scale trapped-ion processor. And on the rare occasions the decoder fails to converge, the computation has to be run from scratch."
+        }
+      ]
+    },
+    "science/science-npe-outbreak": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "One field has reshaped epidemiology over the past 25 years: phylodynamics, which uses genetic sequences to examine how pathogens evolve."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-method-can-supp.jpg",
+          "cap": "Comparison of NPE and MCMC inference results using time-series data. Credit: Proceedings B (2026). DOI: 10.1098/rspb.2026.1059"
+        },
+        {
+          "t": "p",
+          "x": "Thanks to mathematics, this data organizes neatly into a phylogenetic tree. Each branch is a chain of transmission, and each leaf is an individual infection."
+        },
+        {
+          "t": "p",
+          "x": "Branch length indicates the number of mutations, and branching points reveal the lineage relationships between pathogens. That lets you trace any strain back to its parent strain and compare genetic sequences."
+        },
+        {
+          "t": "p",
+          "x": "The tree is built with an algorithm that proposes the most plausible tree given the genetic data at hand. From it, researchers estimate values like how fast a pathogen spreads, how long infections last, and its geographic origin."
+        },
+        {
+          "t": "p",
+          "x": "Making those estimates reliable requires analyzing a great many genetic sequences and matching the estimated values against existing epidemiological data based on population-level observations."
+        },
+        {
+          "t": "p",
+          "x": "That means scaling up the mathematical models, and right now they're held back by data complexity and sheer volume, since genetic sequences get tangled up with dates, prevalence and geographic location."
+        },
+        {
+          "t": "p",
+          "x": "Scientists at INRAE turned to a deep-learning AI technique called neural posterior estimation (NPE), originally used in neuroscience and astrophysics. Using a dataset of 72 genomes from the 2014 Ebola outbreak in Sierra Leone, they showed the method holds up."
+        },
+        {
+          "t": "p",
+          "x": "The parameters estimated from the phylogenetic tree were similar to values obtained with traditional inference methods. This is the first time the method has been applied to phylodynamics using genetic data. The results were published in the journal Proceedings B."
+        },
+        {
+          "t": "p",
+          "x": "NPE makes calibrating mathematical models much faster and can accommodate large volumes of heterogeneous data, potentially up to thousands of sequences. An algorithm like this opens a path to managing outbreaks and livestock epidemics in real time, testing scenarios on the fly and adding new data at any point."
+        },
+        {
+          "t": "p",
+          "x": "The researchers have published a detailed online tutorial so others can reproduce the same analysis."
+        },
+        {
+          "t": "p",
+          "x": "Paper: Francesco Pinotti et al, Simulation-based inference of epidemiological and phylodynamic models via neural posterior estimation, Proceedings B (2026). DOI: 10.1098/rspb.2026.1059. Provided by: INRAE."
+        }
+      ]
+    },
+    "science/science-ibm-15min-quantum": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers from IBM and the University of Chicago announced a demonstration that meets the key conditions for quantum advantage. They performed a calculation beyond the practical reach of prior classical simulation methods, and also presented evidence that the quantum computer's results can be trusted."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
+          "cap": "IBM researchers say the 70-qubit experiment crosses a threshold for quantum computing (Credit: Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "Using a new error-correction strategy, they encoded 70 logical qubits and finished a problem considered classically intractable in about 15 minutes. Doing the same work with prior classical methods would take an unrealistic amount of time."
+        },
+        {
+          "t": "p",
+          "x": "The paper is titled 「Sampling hard circuits with verifiably high fidelity」. Their newly designed encoded quantum circuit achieved both goals at once, and the demonstration ranks among the largest logical quantum computing demonstrations reported so far. The circuits and experimental results were released via the Quantum Advantage Tracker."
+        },
+        {
+          "t": "p",
+          "x": "Why are quantum results hard to verify? Researchers have long used random circuit sampling (RCS) to gauge whether quantum computers outperform conventional machines. The method generates patterns too complex for classical computers to reproduce efficiently, making it useful for measuring the limits of classical simulation."
+        },
+        {
+          "t": "p",
+          "x": "This creates a trap. Once a calculation becomes too hard for classical computers to reproduce, confirming whether the quantum machine got the right answer becomes just as hard. Without strong assumptions about how the machine operates internally, checking the answer becomes impossible."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the two institutions tackled this problem by building a more structured alternative to RCS. They kept the same difficulty standard as RCS, so the calculation remains extremely hard for classical computers, while the added structure makes it possible to catch errors during the calculation."
+        },
+        {
+          "t": "p",
+          "x": "“Verification remains one of the biggest challenges in firmly establishing experimental quantum advantage,” said Bill Fefferman, associate professor at the University of Chicago. “This experiment creates a technique to better characterize the fidelity of hard quantum states under noise, building confidence that quantum computers are solving computationally hard problems.”"
+        },
+        {
+          "t": "p",
+          "x": "Soumik Ghosh, a PhD student in Fefferman's lab, added: “Beyond strengthening experimental verification, advances in verification could become a force that opens up practical applications for next-generation quantum computers.”"
+        },
+        {
+          "t": "p",
+          "x": "The experiment also ranks among the largest quantum error-correction demonstrations in the world. It operated 70 logical qubits, performing 2,415 logical two-qubit operations and 468 logical T gates — two metrics that show how complex the circuit is."
+        },
+        {
+          "t": "p",
+          "x": "The encoding design significantly boosted reliability. The effective logical error rate was ten times lower than the underlying physical error rate, letting the circuit maintain unusually high fidelity even as operations piled up."
+        },
+        {
+          "t": "p",
+          "x": "“We are now firmly in the era of quantum advantage,” said Jay Gambetta, IBM Research director and IBM Fellow. “We performed a quantum calculation beyond the practical capability of classical computers, and established a lower bound, with statistical confidence, on how faithfully it was executed. This milestone gives scientists, developers, and businesses a new foundation to trust quantum computers.”"
+        },
+        {
+          "t": "p",
+          "x": "Speed alone is not enough. Scaling up requires both a way to suppress errors and a way to build confidence that the results are valid. By combining large-scale logical quantum computation with reliability assessment in a single demonstration, this experiment advanced both fronts at once."
+        }
+      ]
+    },
+    "science/science-methane-deeplearning-maps": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Methane has about 30 times the warming potential of carbon dioxide over a 100-year horizon. Roughly 25% of human-caused warming since industrialization has come from methane. Because it stays in the atmosphere for a relatively short time, cutting it now opens a 'fast-action' path to slowing the rise in temperature."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+          "cap": "Global methane detection as seen from space (Google Research)"
+        },
+        {
+          "t": "p",
+          "x": "More than 125 countries have joined the Global Methane Pledge, committing to cut emissions by 30% by 2030. Meeting that target requires tracking localized point sources in waste, agriculture, and energy — emissions coming from areas as small as a few dozen meters wide. Targeting oil and gas facilities, livestock operations, and landfills is the cheapest way to get there."
+        },
+        {
+          "t": "p",
+          "x": "The eyes doing the tracking are in space. NASA's EMIT instrument, mounted on the International Space Station, was originally launched to map the mineral composition of arid regions, but NASA's Jet Propulsion Laboratory and academic researchers repurposed its hyperspectral capability for methane detection. By recording hundreds of light bands per pixel, it reveals the chemical fingerprint of an invisible gas."
+        },
+        {
+          "t": "p",
+          "x": "Google Research introduced MAPL-EMIT in a paper published in PNAS. It is a deep learning system that automates the detection of methane plumes, prediction of concentration enhancement, and estimation of emission sources. The global plume database was released on Earth Engine, the trained model and synthetic plumes on Kaggle, and the inference library on GitHub."
+        },
+        {
+          "t": "p",
+          "x": "Seeing methane from space forces a trade-off between field of view, spatial resolution, and spectral resolution. Global instruments like TROPOMI cover a swath of about 2,600km with 0.1nm spectral sampling but a coarse spatial resolution of 5.5km × 3.5km. EMIT, with an 80km field of view, 60m resolution, and 7.4nm spectral sampling, can pinpoint facility-level emissions."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/MAPL-EMIT-2.width-1250.png",
+          "cap": "Comparing standard imagery, NASA's L2B matched-filter output, and MAPL-EMIT's detections (Google Research)"
+        },
+        {
+          "t": "p",
+          "x": "Earth's surface is varied enough that certain surface materials can mimic methane. MAPL-EMIT is an end-to-end vision transformer using a Swin-S transformer, processing the full light spectrum together with surrounding spatial context instead of examining pixels one by one. By looking at how the gas spreads over terrain, it distinguishes real methane plumes from land with similar spectral characteristics."
+        },
+        {
+          "t": "p",
+          "x": "In dense industrial areas, emissions from neighboring facilities merge into a single cloud. The model does three things at once: measuring methane amounts per pixel, separating the boundaries of overlapping plumes, and tracing dispersed gas back to pinpoint source locations."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/MAPL-EMIT-3.width-1250.png",
+          "cap": "Separating overlapping methane plumes and pinpointing each source (X) (Google Research)"
+        },
+        {
+          "t": "p",
+          "x": "Transformers require massive amounts of data, but no globally labeled real-world emissions dataset exists. The researchers used physics-based simulations to generate 3.6 million synthetic methane plumes and embedded them in real EMIT scenes. A Lagrangian puff model, which recreates particle movement and dispersion, reproduced even the messiness of turbulence. This let the model learn from both large leaks and small, intermittent emissions."
+        },
+        {
+          "t": "p",
+          "x": "On real satellite data, it captured 84% of expert-labeled detections compared with NASA's benchmark L2B dataset, and found about 50% more plausible plumes across roughly 1,100 EMIT granules. It also mapped plumes at 24 of the world's 25 largest emitting landfills."
+        },
+        {
+          "t": "p",
+          "x": "As is common with sensitive models, false positives remain in complex terrain. The researchers also output a physics-based confidence score and label each plume as 'low' or 'high' confidence, letting users balance the risk of missing real plumes against the risk of false positives."
+        },
+        {
+          "t": "p",
+          "x": "As NASA prepares a next-generation imaging spectrometer with 30 to 50 times wider observation coverage, automated detection will play an even larger role."
+        }
+      ]
+    },
+    "science/science-pacman-plasma-20ms": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Particles inside a fusion device are hotter than the sun's core, and they scatter within a fraction of a millisecond. That is faster than any human can react."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Princeton Plasma Physics Laboratory (PPPL), part of the U.S. Department of Energy, and Princeton University handed that split-second judgment to AI. The software framework, named PACMAN, has completed five tests on an actual fusion device, and its design and first results were published in the journal Nuclear Fusion. Humans still control the machine's safety and set its goals."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pacman-ai-framework-fo.jpg",
+          "cap": "An illustration of the PACMAN artificial-intelligence framework for fusion systems. Credit: Kyle Palmer / PPPL Communications Department"
+        },
+        {
+          "t": "p",
+          "x": "A tokamak confines plasma with magnetic fields. Keeping it hot, dense, and stable requires constant adjustments to heaters, magnets, and gas injectors, but instabilities that grow on a millisecond scale throw off those responses."
+        },
+        {
+          "t": "p",
+          "x": "Plasma simulations take days to months, far too slow for an experiment that lasts only minutes. Co-first author Hiro Farre Kaga said, “That's great for preparing an experiment a year from now, but control needs a model that makes decisions in the moment.” For now, machine learning is the only way to handle plasma on a millisecond scale."
+        },
+        {
+          "t": "p",
+          "x": "PACMAN runs like a four-stage assembly line. It gathers temperature, density, and magnetic signals in real time, filters out errors, and bundles them together; AI models then read only the values they need to predict the plasma's next state. Controllers use that prediction to calculate commands such as heating-beam power, and in the final stage, conflicts between controllers are resolved and hardware safety limits are enforced before the commands are sent out."
+        },
+        {
+          "t": "p",
+          "x": "Co-first author Andy Rothstein said, “Even a highly focused human operator reacts on the scale of seconds. The full PACMAN cycle usually runs once every 20 milliseconds, and it doesn't stop at just one pass.” It keeps adjusting in response to small changes a human cannot see."
+        },
+        {
+          "t": "p",
+          "x": "Five experiments were run at the DIII-D National Fusion Facility in San Diego. A model trained with reinforcement learning took charge of the heating system, caught sudden energy bursts at the plasma edge and waves generated by fast particles, and matched density and rotation to targets set by the researchers. An instability called a tearing mode was predicted roughly 200 milliseconds in advance and stopped before it could form."
+        },
+        {
+          "t": "p",
+          "x": "Six gyrotrons also shifted their aim simultaneously and adjusted power output in real time. Farre Kaga said, “Before, there was no algorithm to find that optimal solution.”"
+        },
+        {
+          "t": "p",
+          "x": "Because of its modular structure, slotting in the first model took months, but the second took only days. Princeton University professor Egemen Kolemen said that modularity “turns AI plasma control from a one-off demonstration into infrastructure the whole fusion community can build on.”"
+        }
+      ]
+    },
+    "science/science-rapido-remote-implant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Could someone, sitting at a desk, reach into a brain experiment on the other side of the planet?"
+        },
+        {
+          "t": "p",
+          "x": "Researchers sent a command from Chicago to a wireless brain implant in Daejeon, 10,596 km away. The signal traveled over the internet to a computer in a Korean lab, which then relayed it wirelessly to the device. The response took an average of 109 milliseconds."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/09/BrainImplantChip.jpg",
+          "cap": "The brain implant. Credit: Jae-Woong Jeong/KAIST"
+        },
+        {
+          "t": "p",
+          "x": "This intercontinental test was an engineering demonstration that the device can be operated from another country. Remote operation is useful in brain research, because an animal's behavior can change simply when a researcher enters the experiment space or approaches it. A device switched on from afar reduces that interference and lets researchers in multiple locations take part in the same experiment."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/09/BrainImplantControlledFromChicagoToDaejeon-1-1080x675.jpg",
+          "cap": "A command sent from Chicago turned on the RAPIDO implant in Daejeon, 10,596 km away. Credit: C. Y. Kim/BioRender/Jeong et al., Sci. Adv., 2026"
+        },
+        {
+          "t": "p",
+          "x": "This system, called RAPIDO, was built by researchers at KAIST and Yonsei University and published in Science Advances. It is small enough for a freely moving rat to carry, delivers drugs through a thin tube, and emits light from a miniature LED. The two functions can be controlled separately and even scheduled in advance. The drug cartridge is replaceable."
+        },
+        {
+          "t": "p",
+          "x": "Jae-Woong Jeong, a KAIST electrical engineer who led the research, told ScienceAlert, “Our brain implant allows repeated, long-term, remote drug and light interventions in freely moving animals, without repeatedly handling the animal or replacing the device through additional surgery.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/09/RAPIDOBrainImplantDesignAndRemoteControl.jpg-1200x495.jpg",
+          "cap": "The structure and main functions of the brain implant. Credit: Jae-Woong Jeong/KAIST"
+        },
+        {
+          "t": "p",
+          "x": "The rat experiments had two parts. First, cocaine was delivered in different doses to the nucleus accumbens, a region involved in reward behavior, and movement changed depending on the dose. The same effect was reproduced two, three, and four weeks after implantation. This did not test addiction treatment."
+        },
+        {
+          "t": "p",
+          "x": "The second experiment examined whether light could change a learned preference. Cocaine was injected into the abdominal cavity so that only the light's effect remained. Rats that received cocaine without light later preferred the compartment associated with the drug. Rats whose implant light activated the RhoA signaling pathway during conditioning did not develop that preference."
+        },
+        {
+          "t": "p",
+          "x": "This does not mean addiction was cured. It is a proof of concept in rats, and reducing a learned preference is different from treating an established addiction. Jeong said, “The biggest challenge is demonstrating long-term safety and reliability in the human brain,” adding that it is better understood now as a research platform for developing and evaluating future treatment strategies rather than as a clinical device."
+        }
+      ]
+    },
+    "science/science-qml-heart-disease": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cardiovascular disease kills millions of people every year and places a heavy burden on healthcare costs. Earlier, more accurate diagnosis improves outcomes and allows intervention sooner. Classical machine learning has shown promise in predicting disease, but it has often stumbled when faced with complex, nonlinear clinical data."
+        },
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-27_21-32.png",
+          "cap": "Arslan Munir, Ph.D"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the College of Engineering and Computer Science at Florida Atlantic University have introduced a quantum machine learning framework that pushes heart disease prediction accuracy above 90%. The study was led by Dr. Arslan Munir, a professor in FAU's Department of Electrical Engineering and Computer Science and head of the Intelligent Systems, Computer Architecture, Analytics, and Security (ISCAAS) lab."
+        },
+        {
+          "t": "p",
+          "x": "The paper was published in the MDPI journal AI (impact factor 6.5). It broadly evaluated quantum feature mapping and quantum classification techniques used for heart disease prediction, and examined how far quantum machine learning can go in healthcare analytics and clinical decision support."
+        },
+        {
+          "t": "p",
+          "x": "Using clinical data from 918 patients, the team compared five quantum feature mapping techniques and four quantum machine learning classifiers against each other. The best-performing model was a quantum support vector machine using Angle Encoding, which achieved 90.26% accuracy, 92.16% sensitivity, 83.42% specificity, and an AUC of 0.93."
+        },
+        {
+          "t": "p",
+          "x": "“This shows that quantum machine learning can become a powerful new paradigm for healthcare analytics,” Munir said. “Using quantum feature representations and quantum-enhanced classifiers, we can better model the entangled relationships within clinical data and predict heart disease with very high accuracy. As quantum technology matures, it could change the very way we diagnose disease, personalize treatment, and support clinical decision-making.”"
+        },
+        {
+          "t": "p",
+          "x": "The researchers explain that well-designed quantum feature maps and shallow quantum circuits delivered high predictive accuracy while preserving computational efficiency. Stella Batalama, dean of the College of Engineering and Computer Science, said, “Florida Atlantic University has invested heavily in quantum computing infrastructure, and the college is building faculty and research capacity in this emerging field to support that investment.”"
+        },
+        {
+          "t": "p",
+          "x": "The work was carried out in Munir's ISCAAS lab. It sits within a broader push to put quantum technology to practical use, not just in healthcare but in cybersecurity, smart infrastructure, autonomous systems, and scientific computing. “Quantum computing is moving from theoretical promise to practical innovation, and healthcare is one of the highest-impact application areas where quantum machine learning can make a difference,” Munir added."
+        }
+      ]
+    },
+    "science/science-soec-ai-optimization": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A team of South Korean researchers has introduced an AI-based optimization framework that drastically cuts the computation needed to optimize operating conditions for solid oxide electrolysis cells (SOEC). By pairing high-fidelity computational fluid dynamics (CFD) simulations with AI active learning, they quickly identified conditions that boost hydrogen production efficiency while preserving the thermal stability needed for long-term operation. The study was published in Applied Thermal Engineering on August 1, 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-develop-ai-15.jpg",
+          "cap": "Credit: Assistant Professor Mingi Choi from Seoul National University of Science and Technology, Korea"
+        },
+        {
+          "t": "p",
+          "x": "The key lies in choosing where to compute. Instead of running every possible operating condition, the AI learns from each completed simulation and predicts which condition will yield the most new information. Computational resources get directed to promising regions, and trial-and-error scanning disappears."
+        },
+        {
+          "t": "p",
+          "x": "Unlike conventional methods that find a single optimal point, this framework produces a Pareto-optimal operating region: a balance between two competing goals, maximizing electrochemical performance while minimizing the temperature differences that accelerate material degradation and shorten lifespan. Engineers can then pick a condition based on their actual priorities, whether that's efficiency, durability, or a trade-off between the two."
+        },
+        {
+          "t": "p",
+          "x": "Compared with the baseline operating condition, the result was a 14% improvement in the electrochemical performance index (EPI) and an 80% reduction in in-plane temperature difference. Against conventional random sampling using the same computational budget, the final EPI was 2.5% higher and the final temperature difference was 90.5% lower."
+        },
+        {
+          "t": "p",
+          "x": "What stands out most is the number of runs. The team got these results with just 17 high-fidelity CFD simulations. An exhaustive search of the same operating space would have required 6,561 runs, roughly 22,963.5 compute hours. The AI-guided search reached comparable optimization performance in 60 hours. That opens room to shorten engineering design cycles and speed up the development and commercialization of green hydrogen technology."
+        },
+        {
+          "t": "p",
+          "x": "“Optimizing advanced hydrogen technologies has traditionally required enormous computational resources, since engineers have had to consider thousands of operating conditions,” said Mingi Choi, assistant professor in the Department of Future Energy Convergence at Seoul National University of Science and Technology. “By learning which simulations are most informative, our framework drastically reduces the computational effort needed to find promising operating conditions. We believe this approach will accelerate the development of green hydrogen technology and support faster innovation across a broad range of engineering fields.”"
+        },
+        {
+          "t": "p",
+          "x": "The researchers believe this framework could extend beyond electrolysis cells to the design of other computationally demanding energy technologies, such as fuel cells, batteries, and catalyst systems. The paper's first author is Hoseob Lee, and the DOI is 10.1016/j.applthermaleng.2026.132115."
+        }
+      ]
     }
   }
 }

@@ -3636,6 +3636,438 @@
           "x": "Los investigadores trazaron una línea clara. Ambos ejemplos tenían un tamaño que también puede resolverse con software clásico, y el modelo de grafo no incorporó el movimiento de la proteína ni las moléculas de agua circundantes. Es decir, no se trata de un estudio que demuestre ventaja cuántica. El panorama que dibujan no es de sustitución, sino de división del trabajo: las computadoras clásicas refinan los datos moleculares para construir el grafo de interacción, mientras que los procesadores cuánticos se encargan de encontrar conjuntos de contactos compatibles."
         }
       ]
+    },
+    "science/science-extreme-scenarios": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "¿Resistirán los rompeolas de una ciudad una tormenta masiva? ¿Soportará la red eléctrica regional una ola de calor récord? ¿Podrían los recursos de bomberos de un pueblo contener un gran incendio forestal?"
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202608/MIT-ExtremeLearning-01-press.jpg",
+          "cap": "Investigación del MIT que genera escenarios de eventos extremos sin datos extremos. Credit: MIT News"
+        },
+        {
+          "t": "p",
+          "x": "Para responder, primero hay que saber cómo se desarrollaría ese tipo de evento: hasta dónde se extendería un incendio forestal, qué área golpearía una tormenta, cuánto duraría una ola de calor."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que los eventos extremos son notoriamente difíciles de predecir. Por naturaleza son valores atípicos, así que aparecen solo de forma escasa en los registros. Aun así, la mayoría de los métodos de evaluación de riesgo siguen apoyándose en eventos extremos pasados para trazar escenarios futuros de peor caso aún más extremos."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del MIT crearon una herramienta que genera eventos extremos plausibles y escenarios de peor caso, trazando en un mapa la duración, intensidad y área de impacto esperadas de una tormenta. Lo clave es que no necesita conocer eventos extremos pasados."
+        },
+        {
+          "t": "p",
+          "x": "El método, una forma de algoritmo de aprendizaje automático, aprende de los registros meteorológicos diarios y los mapas de una región, que pueden incluir o no olas de calor o lluvias récord. Aplica un enfoque estadístico que filtra los escenarios poco plausibles, y luego genera eventos que se esperaría que ocurran una vez cada 100 años, proyectando su tamaño, intensidad y duración."
+        },
+        {
+          "t": "p",
+          "x": "\"Estamos tratando de modelar eventos extremos y sin precedentes que nadie ha visto, que no están en el conjunto de datos\", dijo Kai Chang, estudiante de posgrado de ingeniería mecánica del MIT."
+        },
+        {
+          "t": "p",
+          "x": "\"Un evento como el huracán Katrina ocurre una vez cada 30 o 40 años\", añadió Themis Sapsis, profesor de ingeniería mecánica y oceánica del MIT. \"Entonces, ¿cómo sería un Katrina que ocurre una vez cada 100 años? ¿Qué tan grave sería? Estamos tratando de poner exactamente eso en números, para que quienes planifican puedan prepararse\"."
+        },
+        {
+          "t": "p",
+          "x": "El equipo llama a este enfoque Extreme Event Aware, o 'η-learning' para abreviar, y dice que también podría usarse en navegación robótica o en los mercados financieros. \"Un colapso del mercado financiero es un evento extremo que enreda a múltiples sectores\", dijo Chang. El artículo se publicó el 20 de agosto en Nature Communications."
+        },
+        {
+          "t": "p",
+          "x": "Planificadores y aseguradoras han preguntado por tormentas de 100 años mientras usaban simulaciones entrenadas con datos que ya incluían ese tipo de eventos. \"Estamos tratando de ver cómo sería un evento extremo sin precedentes, más riesgoso que cualquier cosa ocurrida hasta ahora pero aun así plausible\", dijo Chang."
+        },
+        {
+          "t": "p",
+          "x": "Si el registro de lluvia máxima de la ciudad de Nueva York es de 200 milímetros, ¿cómo sería una tormenta que produce 300 milímetros? No está en el registro, pero tampoco es imposible. \"Estamos tratando de pronosticar el mapa de ese tipo de escenario de peor caso\", dijo Sapsis."
+        },
+        {
+          "t": "p",
+          "x": "El algoritmo aprende junto la relación entre las estadísticas puntuales y los mapas espaciales. Para el caso de precipitación extrema en el territorio continental de EE. UU., el equipo agrupó 25 años de mapas de precipitación horaria en unidades diarias y calculó estadísticas puntuales sobre con qué frecuencia y en qué niveles se alcanzaba la lluvia máxima. El entrenamiento usó solo los primeros seis meses de pares de mapas de baja y alta resolución, que apenas contenían casos extremos."
+        },
+        {
+          "t": "p",
+          "x": "El algoritmo aprende cómo corresponden los patrones de baja resolución con los mapas de precipitación de alta resolución, y usa las estadísticas puntuales para acotar los extremos de lluvia. Eso le permite generar eventos más extremos que cualquiera de los datos de entrenamiento, por ejemplo una lluvia de hasta 300 milímetros que ocurre una vez cada 100 años, y proyectar dónde y con qué magnitud e intensidad aparecería. Lo mismo aplica a inundaciones o incendios forestales extremos."
+        },
+        {
+          "t": "p",
+          "x": "\"Los eventos extremos ya no son solo un problema ambiental, sino un problema estratégico. Hemos optimizado los sistemas del mundo para la eficiencia, y el precio de eso es que no queda margen en ningún lado. Un solo evento extremo puede propagarse en semanas por las cadenas de suministro, los mercados de energía y los sistemas alimentarios\", dijo Sapsis."
+        }
+      ]
+    },
+    "science/science-grcop42-3dprint": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de Washington State University usaron IA para encontrar una forma más rápida y económica de imprimir en 3D una aleación metálica de alto rendimiento, sin probar manualmente los 100 millones de ajustes de impresión posibles."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/3d-printing-metal-parts-close.webp",
+          "cap": "La IA buscó entre más de 100 millones de posibilidades para encontrar una forma de imprimir en 3D una aleación de cohetes de la NASA de manera más económica y a menor potencia. Credit: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Eso abre un camino para imprimir esta aleación, ampliamente usada en el sector aeroespacial, con equipos comerciales más comunes. La estrategia de IA del equipo también puede trasladarse a otros problemas científicos con un número enorme de casos que probar, como el descubrimiento de fármacos."
+        },
+        {
+          "t": "p",
+          "x": "El artículo, de investigadores de la Escuela de Ingeniería Eléctrica y Ciencias de la Computación y la Escuela de Ingeniería Mecánica y de Materiales de WSU, se publicó en Proceedings of the AAAI Conference on Artificial Intelligence. También ganó el Innovative Deployed Application Award en el evento anual de ese mismo congreso."
+        },
+        {
+          "t": "p",
+          "x": "\"El 90% de las impresoras comerciales no pueden imprimir esta aleación. Encontrar parámetros de proceso viables significa que esas impresoras ya se pueden usar, lo que en la práctica democratiza la impresión de esta aleación\", dijo la profesora Jana Doppa, quien dirigió la investigación."
+        },
+        {
+          "t": "p",
+          "x": "GRCop-42 es una aleación hecha de cobre, cromo y niobio. La NASA la desarrolló para entornos exigentes que requieren tanto resistencia al calor como buena transferencia de calor. Mantiene su resistencia a temperaturas extremas mientras conduce bien el calor, por lo que se usa en lugares como las cámaras de combustión de motores de cohetes líquidos."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que imprimirla es difícil y costoso. El proceso exige mucha potencia láser y energía. Los intentos anteriores de imprimir GRCop-42 con la menor potencia de los equipos comerciales más comunes fracasaron una y otra vez."
+        },
+        {
+          "t": "p",
+          "x": "Probar los ajustes uno por uno tampoco es realista. Una sola impresión cuesta cientos de dólares, y analizar bien una muestra terminada toma varios días. \"Hemos tenido ajustes en los que la pieza impresa simplemente se derritió\", dijo Azza Fadhel, primera autora y estudiante de doctorado en ciencias de la computación. \"Aunque tuviéramos tiempo y dinero, no se pueden probar los 100 millones.\""
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida fueron 37 ajustes de impresión que ya habían fallado en experimentos anteriores. Los investigadores usaron esos resultados para crear un método que estima la probabilidad de que una combinación no probada tenga éxito. El modelo de IA recomendaba ajustes para probar en pequeños lotes, equilibrando opciones que parecían prometedoras con otras que eran incertas pero útiles para mejorar el modelo."
+        },
+        {
+          "t": "p",
+          "x": "Nathaniel Zuckschwerdt, Susmita Bose y Amit Bandyopadhyay, de la Escuela de Ingeniería Mecánica y de Materiales, se encargaron de la impresión y evaluación reales con los ajustes elegidos por la IA. Aryan Deshwal, de la Universidad de Minnesota, también participó. \"Cada vez que recibíamos resultados, nos alegrábamos incluso de los fracasos, porque cualquier resultado mejoraba nuestro modelo de IA\", dijo Fadhel."
+        },
+        {
+          "t": "p",
+          "x": "Imprimir con menor potencia láser también consume menos energía y reduce el desgaste del equipo y los costos de posprocesamiento. Sobre todo, permite que universidades, laboratorios pequeños y empresas sin equipos especializados de alta potencia puedan trabajar con esta aleación."
+        },
+        {
+          "t": "p",
+          "x": "\"Es un caso muy complicado para la IA\", dijo Doppa. \"Cada intento solo devuelve una señal binaria, éxito o fracaso. Hay que encontrar esa aguja con la menor cantidad de intentos posible.\" Bajo esas condiciones, el equipo se limitó a cuarenta experimentos en tres meses y encontró seis ajustes exitosos a distintas potencias láser. Esta es la primera vez que se imprime GRCop-42 a 500 vatios."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores creen que el mismo enfoque puede aplicarse a otras aleaciones metálicas y sistemas de fabricación aditiva, en cualquier problema donde el éxito sea raro, el número de posibilidades sea enorme y probarlas todas resulte prohibitivamente costoso."
+        }
+      ]
+    },
+    "science/science-ionq-macbook-decoder": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un solo MacBook Pro podría algún día encargarse de la corrección de errores de una máquina cuántica tolerante a fallos que ejecuta millones de operaciones. Esa es la premisa de una nueva investigación de un equipo de IonQ."
+        },
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-7.35.29-AM.png",
+          "cap": "IonQ MegaQuOp. Credit: The Quantum Insider"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de IonQ, que incluye a Min Ye, Andrii Maksymov y Nicolas Delfosse, demostró un sistema de decodificación de extremo a extremo para una computadora cuántica de iones atrapados que maneja hasta 408 qubits lógicos. Procesaron una carga de trabajo con más de un millón de operaciones cuánticas en un solo Apple M4 Max."
+        },
+        {
+          "t": "p",
+          "x": "Esta escala se llama MegaQuOp: una máquina tolerante a fallos que realiza alrededor de un millón de operaciones lógicas sobre qubits corregidos de errores. El nombre se refiere a la escala y la fiabilidad del cómputo, no a un enfoque de hardware específico."
+        },
+        {
+          "t": "p",
+          "x": "Todavía no existe ninguna máquina MegaQuOp. Los investigadores compilaron aplicaciones cuánticas representativas para su arquitectura propuesta y simularon el flujo de información de errores que habría producido el hardware real. El artículo es un preprint de arXiv y no ha pasado por revisión por pares."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, la pregunta importa. Una máquina tolerante a fallos no solo tiene que proteger la información cuántica: también debe interpretar el aluvión de señales de error con la suficiente rapidez para que el cómputo no se detenga."
+        },
+        {
+          "t": "p",
+          "x": "La latencia no fue grande. Con una tasa de error de puerta de dos qubits del 0,01%, la decodificación alargó el cómputo menos de un 0,3%; al 0,05%, las tres cargas de trabajo se mantuvieron por debajo del 12%."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el ruido altera el estado de un qubit, el cómputo se rompe. La corrección de errores aborda esto repartiendo la información entre varios qubits físicos, y ese conjunto de qubits físicos forma un qubit lógico más fiable. Un decodificador es el sistema clásico que lee las mediciones, infiere qué error ocurrió y se lo comunica a la máquina."
+        },
+        {
+          "t": "p",
+          "x": "La tarea se vuelve más pesada cuanto más crece la máquina. Si la decodificación se retrasa, se acumula una cola, y la máquina cuántica o bien corre ciclos adicionales de espera para el lado clásico, o se detiene por completo. En procedimientos donde el resultado de una medición lógica determina la siguiente operación, este retraso se convierte en una reacción en cadena."
+        },
+        {
+          "t": "p",
+          "x": "Las investigaciones previas sobre decodificación se limitaban en general al almacenamiento de información o a un puñado de operaciones lógicas, y algunos intentos usaban FPGA, GPU o chips a medida para ganar velocidad. El equipo de IonQ probó juntos la memoria, las operaciones lógicas y los procesos auxiliares necesarios para el cómputo tolerante a fallos de propósito general, todo ello corriendo en una sola CPU estándar."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo fue la arquitectura 'walking cat' propuesta por IonQ. Los qubits lógicos se codifican en un código LDPC cuántico, y 'fábricas de estados mágicos' separadas suministran los recursos de puertas T. La configuración más grande tenía 68 bloques de memoria, 20 fábricas, 11.680 qubits físicos y 408 qubits lógicos."
+        },
+        {
+          "t": "p",
+          "x": "Hubo tres cargas de trabajo. Un circuito de transición de fase inducida por medición usó 102 qubits lógicos con alrededor de 1,09 millones de puertas T y 1,1 millones de mediciones lógicas. El más grande, un benchmark de Heisenberg, usó 408 qubits lógicos con más de 550.000 puertas T."
+        },
+        {
+          "t": "p",
+          "x": "El entorno de ejecución fue un Apple M4 Max de 2024. De sus 16 núcleos se usaron 12: ocho dedicados a la decodificación continua y cuatro al procesamiento de mediciones lógicas sensibles al tiempo. El modelo de error del detector mantuvo fija la estructura del grafo y actualizó solo las probabilidades, reduciendo el costo de reconstruirlo y bajando también el uso de memoria en más de un orden de magnitud."
+        },
+        {
+          "t": "p",
+          "x": "Las limitaciones también son claras. Los resultados se limitan a la arquitectura walking cat y a su modelo de operación. El modelo de ruido es una suposición a nivel de circuito, no una medición de un procesador de iones atrapados a gran escala real. Y en las raras ocasiones en que el decodificador no converge, el cómputo tiene que ejecutarse de nuevo desde cero."
+        }
+      ]
+    },
+    "science/science-ibm-15min-quantum": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de IBM y la Universidad de Chicago anunciaron una demostración que cumple las condiciones clave de la ventaja cuántica. Realizaron un cálculo fuera del alcance práctico de los métodos de simulación clásica anteriores, y además presentaron evidencia de que la computadora cuántica produjo resultados confiables."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp",
+          "cap": "Los investigadores de IBM afirman que el experimento de 70 cúbits cruza un umbral para la computación cuántica (Credit: Shutterstock)"
+        },
+        {
+          "t": "p",
+          "x": "Con una nueva estrategia de corrección de errores, codificaron 70 cúbits lógicos y terminaron en unos 15 minutos un problema considerado inabordable para los métodos clásicos. Hacer lo mismo con métodos clásicos anteriores requeriría un tiempo poco realista."
+        },
+        {
+          "t": "p",
+          "x": "El artículo se titula «Sampling hard circuits with verifiably high fidelity». Su circuito cuántico codificado, de nuevo diseño, logró ambos objetivos a la vez, y la demostración se encuentra entre las más grandes de computación cuántica lógica reportadas hasta ahora. Los circuitos y los resultados experimentales se publicaron a través del Quantum Advantage Tracker."
+        },
+        {
+          "t": "p",
+          "x": "¿Por qué son difíciles de verificar los resultados cuánticos? Durante mucho tiempo los investigadores han usado el muestreo de circuitos aleatorios (RCS) para medir si las computadoras cuánticas superan a las máquinas convencionales. El método genera patrones demasiado complejos para que las computadoras clásicas los reproduzcan eficientemente, lo que resulta útil para medir los límites de la simulación clásica."
+        },
+        {
+          "t": "p",
+          "x": "Aquí surge una trampa. En el momento en que un cálculo se vuelve demasiado difícil para que lo reproduzca una computadora clásica, también se vuelve igual de difícil confirmar si la máquina cuántica dio la respuesta correcta. Sin suposiciones firmes sobre el funcionamiento interno de la máquina, verificar la respuesta se vuelve imposible."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores de ambas instituciones abordaron este problema creando una alternativa más estructurada que el RCS. Mantuvieron el mismo criterio de dificultad que el RCS, de modo que el cálculo sigue siendo extremadamente difícil para las computadoras clásicas, mientras que la estructura añadida permite detectar errores durante el cálculo."
+        },
+        {
+          "t": "p",
+          "x": "“La verificación sigue siendo uno de los mayores retos para establecer firmemente la ventaja cuántica experimental”, dijo Bill Fefferman, profesor asociado de la Universidad de Chicago. “Este experimento crea una técnica para caracterizar mejor la fidelidad de estados cuánticos difíciles bajo ruido, lo que refuerza la confianza en que las computadoras cuánticas están resolviendo problemas computacionalmente difíciles”."
+        },
+        {
+          "t": "p",
+          "x": "Soumik Ghosh, estudiante de doctorado en el laboratorio de Fefferman, añadió: “Más allá de reforzar la verificación experimental, los avances en verificación podrían convertirse en una fuerza que abra aplicaciones prácticas para las computadoras cuánticas de próxima generación”."
+        },
+        {
+          "t": "p",
+          "x": "El experimento también se encuentra entre las demostraciones de corrección de errores cuánticos más grandes del mundo. Operó 70 cúbits lógicos, realizando 2.415 operaciones lógicas de dos cúbits y 468 puertas T lógicas, dos métricas que muestran la complejidad del circuito."
+        },
+        {
+          "t": "p",
+          "x": "El diseño de codificación mejoró notablemente la fiabilidad. La tasa efectiva de error lógico fue diez veces menor que la tasa de error físico subyacente, lo que permitió que el circuito mantuviera una fidelidad excepcionalmente alta incluso al acumular más operaciones."
+        },
+        {
+          "t": "p",
+          "x": "“Ahora estamos firmemente en la era de la ventaja cuántica”, dijo Jay Gambetta, director de IBM Research e IBM Fellow. “Realizamos un cálculo cuántico más allá de la capacidad práctica de las computadoras clásicas, y establecimos, con confianza estadística, un límite inferior sobre cuán fielmente se ejecutó. Este hito da a científicos, desarrolladores y empresas una nueva base para confiar en las computadoras cuánticas”."
+        },
+        {
+          "t": "p",
+          "x": "La velocidad por sí sola no basta. Ampliar la escala requiere tanto una forma de suprimir errores como una forma de generar confianza en que los resultados son válidos. Al combinar en una sola demostración el cálculo cuántico lógico a gran escala con la evaluación de fiabilidad, este experimento avanzó en ambos frentes a la vez."
+        }
+      ]
+    },
+    "science/science-methane-deeplearning-maps": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El metano tiene un potencial de calentamiento unas 30 veces mayor que el del dióxido de carbono en un horizonte de 100 años. Aproximadamente el 25% del calentamiento causado por el ser humano desde la industrialización proviene del metano. Como permanece en la atmósfera durante un período relativamente corto, reducirlo ahora abre una vía de 'acción rápida' para frenar el aumento de la temperatura."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+          "cap": "Detección global de metano vista desde el espacio (Google Research)"
+        },
+        {
+          "t": "p",
+          "x": "Más de 125 países se han unido al Compromiso Global sobre el Metano, comprometiéndose a reducir las emisiones un 30% para 2030. Cumplir ese objetivo exige rastrear fuentes puntuales localizadas en los sectores de residuos, agricultura y energía, es decir, emisiones que provienen de áreas de apenas unas decenas de metros. Apuntar a instalaciones de petróleo y gas, operaciones ganaderas y vertederos es la forma más económica de lograrlo."
+        },
+        {
+          "t": "p",
+          "x": "Los ojos que rastrean están en el espacio. El instrumento EMIT de la NASA, instalado en la Estación Espacial Internacional, se lanzó originalmente para cartografiar la composición mineral de regiones áridas, pero el Laboratorio de Propulsión a Chorro de la NASA y investigadores académicos reutilizaron su capacidad hiperespectral para la detección de metano. Al registrar cientos de bandas de luz por píxel, revela la huella química de un gas invisible."
+        },
+        {
+          "t": "p",
+          "x": "Google Research presentó MAPL-EMIT en un artículo publicado en PNAS. Es un sistema de aprendizaje profundo que automatiza la detección de columnas de metano, la predicción del aumento de concentración y la estimación de las fuentes de emisión. La base de datos global de columnas se publicó en Earth Engine, el modelo entrenado y las columnas sintéticas en Kaggle, y la biblioteca de inferencia en GitHub."
+        },
+        {
+          "t": "p",
+          "x": "Observar el metano desde el espacio obliga a equilibrar campo de visión, resolución espacial y resolución espectral. Instrumentos globales como TROPOMI cubren una franja de unos 2.600km con un muestreo espectral de 0,1nm, pero con una resolución espacial basta de 5,5km × 3,5km. EMIT, con un campo de visión de 80km, una resolución de 60m y un muestreo espectral de 7,4nm, puede precisar emisiones a nivel de instalación."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/MAPL-EMIT-2.width-1250.png",
+          "cap": "Comparación entre imágenes estándar, el filtro adaptado L2B de la NASA y las detecciones de MAPL-EMIT (Google Research)"
+        },
+        {
+          "t": "p",
+          "x": "La superficie terrestre es tan variada que ciertos materiales pueden imitar al metano. MAPL-EMIT es un transformador de visión de extremo a extremo que usa un transformador Swin-S, y procesa el espectro completo de luz junto con el contexto espacial circundante en lugar de examinar los píxeles uno por uno. Al observar cómo se dispersa el gas sobre el terreno, distingue las columnas de metano reales de terrenos con características espectrales similares."
+        },
+        {
+          "t": "p",
+          "x": "En zonas industriales densas, las emisiones de instalaciones vecinas se fusionan en una sola nube. El modelo hace tres cosas a la vez: medir la cantidad de metano por píxel, separar los límites de columnas superpuestas y rastrear el gas disperso hasta ubicar las fuentes."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/MAPL-EMIT-3.width-1250.png",
+          "cap": "Separación de columnas de metano superpuestas y localización de cada fuente (X) (Google Research)"
+        },
+        {
+          "t": "p",
+          "x": "Los transformadores requieren grandes cantidades de datos, pero no existe un conjunto de datos de emisiones reales etiquetado a escala global. Los investigadores usaron simulaciones basadas en física para generar 3,6 millones de columnas de metano sintéticas y las incrustaron en escenas reales de EMIT. Un modelo de bocanadas lagrangiano, que recrea el movimiento y la dispersión de partículas, reprodujo incluso el desorden de la turbulencia. Esto permitió que el modelo aprendiera tanto de grandes fugas como de emisiones pequeñas e intermitentes."
+        },
+        {
+          "t": "p",
+          "x": "Con datos satelitales reales, capturó el 84% de las detecciones etiquetadas por expertos frente al conjunto de referencia L2B de la NASA, y encontró alrededor de un 50% más de columnas verosímiles en unos 1.100 gránulos de EMIT. También cartografió columnas en 24 de los 25 vertederos con mayores emisiones del mundo."
+        },
+        {
+          "t": "p",
+          "x": "Como suele ocurrir con los modelos sensibles, quedan falsos positivos en terrenos complejos. Los investigadores también generan una puntuación de confianza basada en física y etiquetan cada columna como de confianza 'baja' o 'alta', lo que permite a los usuarios equilibrar el riesgo de pasar por alto columnas reales frente al riesgo de falsos positivos."
+        },
+        {
+          "t": "p",
+          "x": "A medida que la NASA prepara un espectrómetro de imágenes de próxima generación con una cobertura de observación de 30 a 50 veces más amplia, la detección automatizada tendrá un papel aún mayor."
+        }
+      ]
+    },
+    "science/science-pacman-plasma-20ms": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las partículas dentro de un dispositivo de fusión están más calientes que el núcleo del Sol y se desordenan en una fracción de milisegundo. Esa no es una velocidad a la que un humano pueda reaccionar."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Laboratorio de Física del Plasma de Princeton (PPPL), dependiente del Departamento de Energía de Estados Unidos, y de la Universidad de Princeton, delegaron ese juicio instantáneo a la IA. Este marco de software, llamado PACMAN, ha completado cinco pruebas en un dispositivo de fusión real, y su diseño y primeros resultados se publicaron en la revista Nuclear Fusion. La seguridad de la máquina y la fijación de objetivos siguen en manos humanas."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pacman-ai-framework-fo.jpg",
+          "cap": "Ilustración conceptual del marco de inteligencia artificial PACMAN para sistemas de fusión. Crédito: Kyle Palmer / PPPL Communications Department"
+        },
+        {
+          "t": "p",
+          "x": "Un tokamak confina el plasma con campos magnéticos. Mantenerlo caliente, denso y estable exige ajustar constantemente calentadores, imanes e inyectores de gas, pero las inestabilidades que crecen en escalas de milisegundos arruinan esas respuestas."
+        },
+        {
+          "t": "p",
+          "x": "Las simulaciones de plasma tardan de días a meses, demasiado lento para un experimento que dura solo minutos. El coautor principal Hiro Farre Kaga dijo: “Eso es bueno para preparar un experimento de aquí a un año, pero el control necesita un modelo que tome decisiones en ese instante”. Por ahora, el aprendizaje automático es la única forma de manejar el plasma a escala de milisegundos."
+        },
+        {
+          "t": "p",
+          "x": "PACMAN funciona como una línea de montaje de cuatro etapas. Recoge en tiempo real señales de temperatura, densidad y campo magnético, filtra los errores y las agrupa; luego los modelos de IA leen solo los valores que necesitan para predecir el siguiente estado del plasma. Los controladores usan esa predicción para calcular órdenes, como la potencia del haz de calentamiento, y en la etapa final se resuelven los conflictos entre controladores y se imponen los límites de seguridad del hardware antes de enviar las órdenes."
+        },
+        {
+          "t": "p",
+          "x": "El coautor principal Andy Rothstein dijo: “Incluso un operador humano muy concentrado reacciona en escalas de segundos. El ciclo completo de PACMAN suele repetirse cada 20 milisegundos, y no se detiene en una sola pasada”. El sistema sigue ajustándose ante cambios pequeños que un humano no puede ver."
+        },
+        {
+          "t": "p",
+          "x": "Se realizaron cinco experimentos en la instalación nacional de fusión DIII-D, en San Diego. Un modelo entrenado con aprendizaje por refuerzo se encargó del sistema de calentamiento, contuvo liberaciones súbitas de energía en el borde del plasma y ondas generadas por partículas rápidas, y ajustó la densidad y la rotación a los objetivos fijados por los investigadores. Una inestabilidad llamada modo de ruptura (tearing mode) se predijo unos 200 milisegundos antes y se evitó antes de que se formara."
+        },
+        {
+          "t": "p",
+          "x": "Seis girotrones también cambiaron de puntería al mismo tiempo y ajustaron su potencia en tiempo real. Farre Kaga dijo: “Antes no existía un algoritmo para encontrar esa solución óptima”."
+        },
+        {
+          "t": "p",
+          "x": "Debido a su estructura modular, incorporar el primer modelo tardó meses, pero el segundo tardó solo días. El profesor de Princeton Egemen Kolemen dijo que esa modularidad “convierte el control de plasma con IA de una demostración puntual en una infraestructura que toda la comunidad de fusión puede seguir construyendo”."
+        }
+      ]
+    },
+    "science/science-rapido-remote-implant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "¿Podría alguien, sentado ante un escritorio, intervenir en un experimento cerebral al otro lado del planeta?"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de investigadores envió una orden desde Chicago a un implante cerebral inalámbrico en Daejeon, a 10,596 km de distancia. La señal viajó por internet hasta un ordenador de un laboratorio coreano, que la transmitió de forma inalámbrica al dispositivo. La respuesta tardó en promedio 109 milisegundos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/09/BrainImplantChip.jpg",
+          "cap": "El implante cerebral. Crédito: Jae-Woong Jeong/KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Esta prueba intercontinental fue una demostración de ingeniería de que el dispositivo puede operarse desde otro país. El control remoto es útil en la investigación cerebral, porque el comportamiento de un animal puede cambiar solo porque un investigador entra en el espacio del experimento o se acerca a él. Un dispositivo que se activa a distancia reduce esa interferencia y permite que investigadores de varios lugares participen en el mismo experimento."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/09/BrainImplantControlledFromChicagoToDaejeon-1-1080x675.jpg",
+          "cap": "Una orden enviada desde Chicago encendió el implante RAPIDO en Daejeon, a 10,596 km de distancia. Crédito: C. Y. Kim/BioRender/Jeong et al., Sci. Adv., 2026"
+        },
+        {
+          "t": "p",
+          "x": "Este sistema, llamado RAPIDO, fue creado por investigadores del KAIST y la Universidad Yonsei y se publicó en Science Advances. Es lo bastante pequeño para que lo lleve una rata que se mueve libremente, administra fármacos a través de un tubo fino y emite luz mediante un LED miniatura. Las dos funciones pueden controlarse por separado e incluso programarse con antelación. El cartucho de fármaco es reemplazable."
+        },
+        {
+          "t": "p",
+          "x": "Jae-Woong Jeong, el ingeniero eléctrico del KAIST que dirigió la investigación, dijo a ScienceAlert: “Nuestro implante cerebral permite intervenciones remotas repetidas, a largo plazo, de fármacos y luz en animales que se mueven libremente, sin manipular al animal repetidamente ni sustituir el dispositivo mediante cirugía adicional”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencealert.com/images/2026/09/RAPIDOBrainImplantDesignAndRemoteControl.jpg-1200x495.jpg",
+          "cap": "La estructura y las principales funciones del implante cerebral. Crédito: Jae-Woong Jeong/KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Los experimentos con ratas se dividieron en dos partes. Primero, se administró cocaína en distintas dosis al núcleo accumbens, una región implicada en la conducta de recompensa, y el movimiento cambió según la dosis. El mismo efecto se reprodujo dos, tres y cuatro semanas después del implante. No se probó el tratamiento de la adicción."
+        },
+        {
+          "t": "p",
+          "x": "El segundo experimento examinó si la luz podía cambiar una preferencia aprendida. La cocaína se inyectó en la cavidad abdominal, de modo que solo quedara el efecto de la luz. Las ratas que recibieron cocaína sin luz preferían más tarde el compartimento asociado con el fármaco. Las ratas cuya luz del implante activó la vía de señalización RhoA durante el condicionamiento no desarrollaron esa preferencia."
+        },
+        {
+          "t": "p",
+          "x": "Esto no significa que se haya curado la adicción. Es una prueba de concepto en ratas, y reducir una preferencia aprendida es distinto de tratar una adicción ya establecida. Jeong dijo: “El mayor desafío es demostrar seguridad y fiabilidad a largo plazo en el cerebro humano”, y añadió que, por ahora, es más apropiado verlo como una plataforma de investigación para desarrollar y evaluar futuras estrategias de tratamiento que como un dispositivo clínico."
+        }
+      ]
+    },
+    "science/science-qml-heart-disease": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las enfermedades cardiovasculares matan a millones de personas cada año y suponen una pesada carga para el gasto sanitario. Un diagnóstico más temprano y preciso mejora el pronóstico y adelanta el momento de intervenir. El aprendizaje automático clásico también ha mostrado potencial para predecir enfermedades, pero a menudo ha fallado ante datos clínicos complejos y no lineales."
+        },
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/2026-08-27_21-32.png",
+          "cap": "Arslan Munir, Ph.D"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Colegio de Ingeniería y Ciencias de la Computación de la Universidad Atlántica de Florida (Florida Atlantic University) presentaron un sistema de aprendizaje automático cuántico que eleva la precisión de la predicción de enfermedades cardíacas por encima del 90%. El estudio fue dirigido por el Dr. Arslan Munir, profesor del Departamento de Ingeniería Eléctrica y Ciencias de la Computación de la FAU y director del laboratorio de Sistemas Inteligentes, Arquitectura de Computadoras, Análisis y Seguridad (ISCAAS)."
+        },
+        {
+          "t": "p",
+          "x": "El artículo se publicó en la revista AI de MDPI (factor de impacto 6.5). Evaluó ampliamente técnicas de mapeo de características cuánticas y de clasificación cuántica usadas para predecir enfermedades cardíacas, y examinó hasta dónde puede llegar el aprendizaje automático cuántico en el análisis sanitario y el apoyo a la decisión clínica."
+        },
+        {
+          "t": "p",
+          "x": "Con datos clínicos de 918 pacientes, el equipo comparó cinco técnicas de mapeo de características cuánticas y cuatro clasificadores de aprendizaje automático cuántico entre sí. El modelo con mejor desempeño fue una máquina de vectores de soporte cuántica que usa codificación por ángulo (Angle Encoding), que logró una precisión del 90.26%, una sensibilidad del 92.16%, una especificidad del 83.42% y un AUC de 0.93."
+        },
+        {
+          "t": "p",
+          "x": "“Esto demuestra que el aprendizaje automático cuántico puede convertirse en un nuevo paradigma potente para el análisis sanitario”, dijo Munir. “Usando representaciones cuánticas de características y clasificadores potenciados cuánticamente, podemos modelar mejor las relaciones entrelazadas dentro de los datos clínicos y predecir enfermedades cardíacas con muy alta precisión. A medida que la tecnología cuántica madure, podría cambiar la propia forma en que diagnosticamos enfermedades, personalizamos tratamientos y respaldamos la toma de decisiones clínicas.”"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores explican que mapas de características cuánticas bien diseñados y circuitos cuánticos poco profundos permitieron una alta precisión predictiva sin sacrificar la eficiencia computacional. Stella Batalama, decana del Colegio de Ingeniería y Ciencias de la Computación, dijo: “La Universidad Atlántica de Florida ha invertido mucho en infraestructura de computación cuántica, y el colegio está desarrollando capacidad docente y de investigación en este campo emergente para respaldar esa inversión”."
+        },
+        {
+          "t": "p",
+          "x": "Este trabajo se realizó en el laboratorio ISCAAS de Munir. Se enmarca en un impulso más amplio por llevar la tecnología cuántica a usos prácticos, no solo en salud, sino también en ciberseguridad, infraestructura inteligente, sistemas autónomos y computación científica. “La computación cuántica está pasando de la promesa teórica a la innovación práctica, y la salud es una de las áreas de aplicación de mayor impacto donde el aprendizaje automático cuántico puede marcar la diferencia”, añadió Munir."
+        }
+      ]
     }
   }
 }

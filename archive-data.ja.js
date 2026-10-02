@@ -13994,10 +13994,9 @@
   "date": "2026-09-04",
   "section": "books",
   "has_full": true,
-  "headline": "1653년부터 눈앞에 있던 왕당파 암호\nClaude가 44분 만에 풀었다",
-  "body": "연구자 누구도 못 풀던 1653년 숫자 퍼즐을 앤스로픽 모델이 혼자 풀어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "1653年からの王党派暗号\nClaudeが44分で解いた",
+  "body": "どの研究者も解けなかった1653年の数字パズルを、アンスロピックのモデルが単独で解いた。",
+  "lang": "ja"
  },
  {
   "id": "science-rapido-remote-implant",
@@ -14010,10 +14009,9 @@
   "date": "2026-09-03",
   "section": "science",
   "has_full": true,
-  "headline": "시카고의 명령이 10,596km 밖\n대전의 뇌 이식장치를 움직였다",
-  "body": "RAPIDO는 시카고에서 온 명령에 평균 109밀리초 만에 응답했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "10,596km先の指令が\n大田で脳インプラント作動",
+  "body": "RAPIDOはシカゴからの指令に平均109ミリ秒で応答した。",
+  "lang": "ja"
  },
  {
   "id": "science-pacman-plasma-20ms",
@@ -14026,10 +14024,9 @@
   "date": "2026-09-03",
   "section": "science",
   "has_full": true,
-  "headline": "핵융합 플라스마를 20밀리초마다\n다시 판단하는 AI 제어 체계",
-  "body": "PACMAN은 DIII-D에서 20밀리초마다 플라스마를 다시 읽고 제어했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "核融合プラズマ20ミリ秒ごと\n再判断するAI制御系",
+  "body": "PACMANはDIII-Dで20ミリ秒ごとにプラズマを読み直し制御した。",
+  "lang": "ja"
  },
  {
   "id": "science-ornl-atom-assembly",
@@ -14202,10 +14199,9 @@
   "date": "2026-09-03",
   "section": "movies",
   "has_full": true,
-  "headline": "Danny Boyle이 베네치아 기자회견에서\nAI의 저널리즘 대체를 경고했다",
-  "body": "AI 기자가 자신을 만든 권력에 진실을 말하겠냐고 Boyle이 물었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Danny Boyleが\nAIの報道代替に警鐘",
+  "body": "AI記者は自らを生んだ権力に真実を語るのかとBoyleは問うた。",
+  "lang": "ja"
  },
  {
   "id": "games-witcher4-people-over-ai",
@@ -14234,10 +14230,9 @@
   "date": "2026-09-03",
   "section": "games",
   "has_full": true,
-  "headline": "음악을 넣으면 조명과 카메라가\n알아서 박자를 타는 UE5 플러그인",
-  "body": "키프레임 없이 오디오만 물리면 조명과 카메라, 파티클이 각자 다른 소리를 따라간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "音楽でライトと\nカメラが同期するUE5",
+  "body": "キーフレーム不要で音声を繋ぐと、照明やカメラ、パーティクルが別々の音に同期する。",
+  "lang": "ja"
  },
  {
   "id": "games-atelico-own-artists-model",
@@ -14266,10 +14261,9 @@
   "date": "2026-09-03",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Pixel Watch 5의 Gemini가\n네트워크 없이도 대답하게 됐다",
-  "body": "9월 업데이트로 타이머나 운동 시작 같은 명령을 오프라인에서도 처리한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Pixel Watch 5の\nGeminiがオフライン対応",
+  "body": "9月の更新で、タイマーや運動開始などの命令をオフラインでも処理する。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-norway-smart-glasses-rules",
@@ -14442,10 +14436,9 @@
   "date": "2026-09-03",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 맞춤 집필한 소설은\n300쪽 플롯을 어디까지 끌고 가나",
-  "body": "Ember Novels가 만든 주문형 장편은 시중의 여러 AI 책보다 연속성 오류가 적었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIの注文小説\n300頁をどこまで",
+  "body": "Ember Novelsの受注長編は市販のAI小説より連続性の誤りが少なかった。",
+  "lang": "ja"
  },
  {
   "id": "books-african-audiobook-market",
@@ -14458,10 +14451,9 @@
   "date": "2026-09-03",
   "section": "books",
   "has_full": true,
-  "headline": "아프리카 오디오북은 낭독만 사람이\n대본과 검수는 AI가 맡는다",
-  "body": "AkooBooks Audio는 대본 준비와 품질 검수에만 AI를 쓰고 낭독은 사람에게 맡긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "朗読だけ人が担う\n台本と検査はAI",
+  "body": "AkooBooks Audioは台本準備と品質検査だけにAIを使い、朗読は人に任せる。",
+  "lang": "ja"
  },
  {
   "id": "science-methane-deeplearning-maps",
@@ -14474,9 +14466,9 @@
   "date": "2026-09-02",
   "section": "science",
   "has_full": true,
-  "headline": "위성이 못 보던 메탄 기둥을\n딥러닝이 지구 전체에서 찾는다",
-  "body": "MAPL-EMIT이 초분광 위성 영상에서 메탄 기둥을 짚어 전문가 표기의 84%를 잡았다.",
-  "lang": "ko",
+  "headline": "Methane plumes satellites missed\nDeep learning spots it globally",
+  "body": "MAPL-EMIT scans hyperspectral satellite imagery for methane plumes, matching 84% of expert-labeled detections.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14506,10 +14498,9 @@
   "date": "2026-09-02",
   "section": "science",
   "has_full": true,
-  "headline": "고전 컴퓨터가 못 푸는 문제를\nIBM 양자 컴퓨터가 15분에 풀었다",
-  "body": "논리 큐비트 70개로 15분 만에 계산을 끝내고 결과의 신뢰도까지 통계로 증명했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "古典が解けぬ問題\nIBM量子が15分で解決",
+  "body": "論理量子ビット70個で15分で計算を終え、結果の信頼性も統計的に証明した。",
+  "lang": "ja"
  },
  {
   "id": "science-bitenet-ion-sites",
@@ -14618,10 +14609,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 제작 대담이 TIFF 안으로\n9월 12일 공식 일정에 들어간다",
-  "body": "9월 12일 TIFF에서 버라이어티와 유토파이가 AI 제작을 다루는 대담을 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI制作対談が\nTIFF公式日程に",
+  "body": "9月12日、TIFFでVarietyとUtopaiがAI制作を語る対談を開く。",
+  "lang": "ja"
  },
  {
   "id": "movies-resolve-21-webinars",
@@ -14634,10 +14624,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "리졸브 21 무료 웨비나 여섯 개가\n9월부터 11월까지 이어진다",
-  "body": "블랙매직이 9~11월에 90분짜리 리졸브 21 무료 웨비나를 여섯 번 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "リゾルブ21ウェビナー\n無料6本、9-11月",
+  "body": "Blackmagicが9~11月に90分の無料リゾルブ21ウェビナーを6回開く。",
+  "lang": "ja"
  },
  {
   "id": "movies-ibc-2026-preview",
@@ -14650,10 +14639,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "암스테르담에 모이는 4만 5천 명\nIBC 2026의 중심은 AI다",
-  "body": "9월 암스테르담 IBC 2026은 부스 1300개와 연사 600명을 AI로 몰았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "4万5千人集結\nIBC 2026はAI軸",
+  "body": "9月のアムステルダムIBC 2026は、ブース1300とスピーカー600人をAIに集めた。",
+  "lang": "ja"
  },
  {
   "id": "movies-gadot-bitcoin-ai-sets",
@@ -14666,10 +14654,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "세트와 조명을 AI로 채운 영화\n갤 가돗은 계약서에 6개월을 썼다",
-  "body": "세트와 조명을 AI로 지은 '비트코인'에서 가돗은 연기만은 AI에 내주지 않았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "セットと照明AI化\nガドット、契約に半年",
+  "body": "セットと照明をAIで作った『ビットコイン』で、ガドットは演技だけは譲らなかった。",
+  "lang": "ja"
  },
  {
   "id": "movies-ae-portal-aug-2026",
@@ -14682,10 +14669,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "애프터 이펙트에 AI 어시스턴트\n베타가 IBC를 앞두고 열렸다",
-  "body": "AE 베타에 말로 프로젝트를 정리하고 영상까지 만드는 AI 어시스턴트가 올라왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AEにAIアシスタント\nベータ、IBC前に公開",
+  "body": "AEベータに、話すだけでプロジェクトを整理し動画も作るAIアシスタントが加わった。",
+  "lang": "ja"
  },
  {
   "id": "games-nvidia-says-dlss-5",
@@ -14698,10 +14684,9 @@
   "date": "2026-09-02",
   "section": "games",
   "has_full": true,
-  "headline": "Nvidia가 밝힌 DLSS 5의 값은\n평균 프레임 50-60% 하락이다",
-  "body": "Nvidia는 DLSS 5가 모든 게임에서 프레임을 50-60% 깎는다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Nvidiaが明かした\nDLSS 5で50-60%減",
+  "body": "Nvidiaは、DLSS 5で全ゲームのフレームが50-60%落ちると説明した。",
+  "lang": "ja"
  },
  {
   "id": "games-nimble-fox-launches-ai",
@@ -14839,10 +14824,9 @@
   "date": "2026-09-02",
   "section": "gadgets",
   "has_full": true,
-  "headline": "귀 뒤에 붙여 집중 상태를 읽는\n499달러 뇌파 웨어러블",
-  "body": "심박 대신 뇌파로 몰입 상태를 읽는 499달러 Atlas 1.0이 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "耳裏に貼るだけ\n499ドル脳波機",
+  "body": "心拍でなく脳波で没入度を測る499ドルのAtlas 1.0が登場した。",
+  "lang": "ja"
  },
  {
   "id": "design-to-code-benchmark",
@@ -14855,10 +14839,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "같은 대시보드를 다섯 도구에 넣자\n픽셀만 맞고 구조가 무너졌다",
-  "body": "스크린샷 기반 도구는 시각 충실도 9점을 받고도 수정 용이성은 2점에 그쳤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "同じ画面を5つに\n画素は合い崩壊",
+  "body": "スクショ型ツールは見た目9点でも修正性は2点に留まった。",
+  "lang": "ja"
  },
  {
   "id": "design-text-to-cad-format",
@@ -14871,9 +14854,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "AI CAD의 진짜 질문은 출력이\n메시냐 파라메트릭이냐다",
-  "body": "AI가 낸 3D가 메시면 볼 수만 있고, B-Rep과 STEP이라야 실제로 만든다.",
-  "lang": "ko",
+  "headline": "The real question for AI CAD\nis mesh output or parametric",
+  "body": "If AI-made 3D is mesh, you can only view it; B-Rep and STEP are what you can actually manufacture.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14887,10 +14870,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "에이전트가 만든 셰이더를 커뮤니티에\n공유하고 코드까지 꺼내 쓴다",
-  "body": "피그마가 에이전트로 만든 셰이더를 커뮤니티에 공개하고 코드까지 내려받도록 풀었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "シェーダーを共有\nコードも持ち出せ",
+  "body": "FigmaがエージェントのシェーダーをコミュニティでコードごとDL可能にした。",
+  "lang": "ja"
  },
  {
   "id": "design-empire-at-sea-venice",
@@ -14903,10 +14885,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "비전 프로 열 대가 한 테이블에\n둘러앉아 같은 드라마를 본다",
-  "body": "열 명이 비전 프로를 쓰고 한 테이블에 둘러앉아 분기하는 이야기를 함께 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ビジョンプロ10台\n同じドラマを鑑賞",
+  "body": "10人がVision Proを着け、1台のテーブルで分岐する物語を見る。",
+  "lang": "ja"
  },
  {
   "id": "design-blender-line-art",
@@ -14919,10 +14900,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "블렌더 모델에서 선화를 버튼 하나로\n뽑아내는 애드온이 무료로 풀렸다",
-  "body": "FreePencil2는 128만 폴리곤 모델도 30초 안에 선화로 바꾼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "線画をワンクリック\n抽出アドオン無料化",
+  "body": "FreePencil2は128万ポリゴンも30秒で線画に変える。",
+  "lang": "ja"
  },
  {
   "id": "books-zlibrary-my-beloved-anthropic",
@@ -14935,10 +14915,9 @@
   "date": "2026-09-02",
   "section": "books",
   "has_full": true,
-  "headline": "“Zlibrary my beloved”\n소니 소송에 등장한 앤스로픽 사내 대화",
-  "body": "소니와 EMI 등 음악 출판사들이 앤스로픽 사내 대화를 증거로 소송을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ソニー訴訟に出た\nアンスロピック社内会話",
+  "body": "ソニーやEMIなど音楽出版社が、社内会話を証拠に訴訟を起こした。",
+  "lang": "ja"
  },
  {
   "id": "books-kr-publishing-knowledge-platform",
@@ -15029,10 +15008,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "에볼라 유전체 72개로\n전파 모델을 실시간에 맞춘다",
-  "body": "INRAE 연구진이 신경 사후추정으로 계통동역학 모델 보정 속도를 크게 끌어올렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "エボラゲノム72個で\n伝播モデルを即時調整",
+  "body": "INRAEが神経事後推定で系統動力学モデルの調整を大幅に高速化した。",
+  "lang": "ja"
  },
  {
   "id": "science-ionq-macbook-decoder",
@@ -15045,10 +15023,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "MegaQuOp 규모 오류 디코딩이\n맥북 프로 한 대에서 돌아갔다",
-  "body": "IonQ 연구진의 결과로 실시간 오류 디코딩에 전용 하드웨어가 필요하다는 전제가 흔들렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "MegaQuOp規模の\n誤り復号がMacBookで",
+  "body": "IonQの成果が、専用ハードウェア必須という前提を揺るがした。",
+  "lang": "ja"
  },
  {
   "id": "science-grcop42-3dprint",
@@ -15061,10 +15038,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 1억 가지 설정을 뒤져\nNASA 합금 인쇄 조건을 찾았다",
-  "body": "실험 40번 만에 작동하는 인쇄 조건 여섯 개를 찾았고, 그중 최저 출력은 500W였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIが1億通り探索\nNASA合金印刷条件発見",
+  "body": "40回の実験で動作する印刷条件6つを見つけ、最低出力は500Wだった。",
+  "lang": "ja"
  },
  {
   "id": "science-extreme-scenarios",
@@ -15077,10 +15053,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "극한 사례를 본 적 없는 모델이\n극한 시나리오를 만든다",
-  "body": "MIT 연구진이 극한 기록 없이도 폭풍의 지속시간과 강도, 범위를 그려내는 모델을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "極端事例なしで\n極端シナリオ生成",
+  "body": "MITが過去の極端な記録なしで嵐の継続時間や強度、範囲を描くモデルを発表した。",
+  "lang": "ja"
  },
  {
   "id": "music-stable-audio-daw",
@@ -15093,9 +15068,9 @@
   "date": "2026-09-01",
   "section": "music",
   "has_full": true,
-  "headline": "Stable Audio 3.0,\nDAW 세션 안으로",
-  "body": "Stability AI가 DAW 안에서 바로 생성하는 플러그인과 새 웹 환경을 얼리 베타로 열었다.",
-  "lang": "ko",
+  "headline": "Stable Audio 3.0,\nNow Inside Your DAW Session",
+  "body": "Stability AI opened an early beta of a plugin and new web experience that generate inside the DAW.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15230,10 +15205,9 @@
   "date": "2026-09-01",
   "section": "movies",
   "has_full": true,
-  "headline": "프롬프트로 뽑은 결과물에는\n저작권을 주지 말자는 입법 요구",
-  "body": "MPSE 회장이 프롬프트로 만든 영화·음악에 저작권을 주지 말자는 입법을 촉구했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "プロンプト産物に\n著作権付与反対",
+  "body": "MPSE会長がプロンプト製の映画・音楽への著作権付与に反対する立法を求めた。",
+  "lang": "ja"
  },
  {
   "id": "games-inworld-tts-evals",
@@ -15246,10 +15220,9 @@
   "date": "2026-09-01",
   "section": "games",
   "has_full": true,
-  "headline": "Inworld, TTS 평가 도구를\n오픈소스로 공개",
-  "body": "로컬 ASR과 명시적 정규화, 샘플 단위 측정으로 결과를 원본 오디오까지 되짚을 수 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "InworldがTTS評価\nツールを公開",
+  "body": "ローカルASRと正規化、サンプル単位の計測で元音声まで遡れる。",
+  "lang": "ja"
  },
  {
   "id": "games-gta6-crowd-tech-lead",
@@ -15723,10 +15696,9 @@
   "date": "2026-08-31",
   "section": "movies",
   "has_full": true,
-  "headline": "“AI로 일한다는 말이 성병 고백 같다”\n틸리 노우드 제작자의 공개 투자 요구",
-  "body": "판 데르 벨덴은 수백 건의 NDA를 근거로 공영방송의 공개 투자를 촉구했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "「AI利用=性病告白」\nTilly製作者が要求",
+  "body": "van der Veldenは数百件のNDAを根拠に、公共放送へ公開投資を求めた。",
+  "lang": "ja"
  },
  {
   "id": "movies-flying-bark-avatar-aang",
@@ -15739,10 +15711,9 @@
   "date": "2026-08-31",
   "section": "movies",
   "has_full": true,
-  "headline": "플라잉 바크가 3년 동안 도구를 만들어\n리그 없이 전부 손으로 그렸다",
-  "body": "3년간 만든 하이브리드 공정 위에서 2D 리그 없이 모든 움직임을 손으로 그렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Flying Bark3年\n全て手描きで制作",
+  "body": "3年かけたハイブリッド工程で、2Dリグなしに全ての動きを手描きした。",
+  "lang": "ja"
  },
  {
   "id": "movies-firefly-audio-tools",
@@ -15755,10 +15726,9 @@
   "date": "2026-08-31",
   "section": "movies",
   "has_full": true,
-  "headline": "어도비 파이어플라이가 음악과 음성,\n효과음 생성을 한자리에 모았다",
-  "body": "음악·음성·효과음을 만드는 세 도구가 모두 정식 출시돼 한 곳에서 쓰인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "音楽・音声・効果音\nFireflyに集結",
+  "body": "音楽・音声・効果音を作る3つのツールが、すべて正式リリースされ一か所で使える。",
+  "lang": "ja"
  },
  {
   "id": "games-unity-dungeon-generator",
@@ -15771,10 +15741,9 @@
   "date": "2026-08-31",
   "section": "games",
   "has_full": true,
-  "headline": "방 수천 개를 끊김 없이 잇는\n유니티 던전 생성 알고리즘",
-  "body": "라이언 카펜터가 2년을 매달린 유니티 던전 생성기가 웹 데모로 공개됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "数千の部屋を\n途切れず繋ぐ生成術",
+  "body": "Ryan Carpenter氏が2年かけたUnityダンジョン生成器がWebデモ公開。",
+  "lang": "ja"
  },
  {
   "id": "games-twitch-ai-lawsuit",
@@ -15787,10 +15756,9 @@
   "date": "2026-08-31",
   "section": "games",
   "has_full": true,
-  "headline": "트위치·아마존이 스트리머 방송을\nAI 학습에 썼다며 집단소송",
-  "body": "워런 판디샤는 동의도 대가도 없이 자기 방송이 AI 학습에 쓰였다고 주장한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Twitch提訴される\n配信をAI学習に利用",
+  "body": "PandishaはTwitchとAmazonが無断で配信をAI学習に使ったと訴える。",
+  "lang": "ja"
  },
  {
   "id": "games-tcrf-wiki-ddos",
@@ -15803,10 +15771,9 @@
   "date": "2026-08-31",
   "section": "games",
   "has_full": true,
-  "headline": "AI 이용자를 차단한 위키가\n디도스 공격에 멈춰 섰다",
-  "body": "미공개 게임 자료를 모아온 위키 TCRF가 디도스 공격으로 접속을 차단했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIユーザー遮断で\nWiki、DDoSで停止",
+  "body": "未公開ゲーム資料を集めたWiki TCRFが、DDoS攻撃でアクセスを遮断した。",
+  "lang": "ja"
  },
  {
   "id": "games-stylized-water-river",
@@ -15819,10 +15786,9 @@
   "date": "2026-08-31",
   "section": "games",
   "has_full": true,
-  "headline": "유니티 스타일라이즈드 워터 3에\n스플라인 강 모델러가 붙는다",
-  "body": "리버 모델러가 스타일라이즈드 워터 3 전용 확장으로 처음부터 다시 만들어진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "リバーモデラー刷新\n専用拡張として登場",
+  "body": "River Modelerが、Stylized Water 3の専用拡張として作り直される。",
+  "lang": "ja"
  },
  {
   "id": "games-ai-paradox-mobile-aaa",
@@ -15851,9 +15817,9 @@
   "date": "2026-08-31",
   "section": "gadgets",
   "has_full": true,
-  "headline": "키보드에서 손을 떼게 하겠다는\n음성 입력 전용 마이크 릴레이 Q",
-  "body": "Nothing 출신 두 사람이 세운 릴레이가 음성 입력 전용 마이크를 2027년 초에 내놓는다.",
-  "lang": "ko",
+  "headline": "Relay Q wants your hands off\nthe keyboard: a voice-only mic",
+  "body": "Relay, founded by two Nothing alumni, will launch a voice-only input microphone in early 2027.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15867,10 +15833,9 @@
   "date": "2026-08-31",
   "section": "gadgets",
   "has_full": true,
-  "headline": "AI 하드웨어 수요에 놀란 애플\n맥 미니·맥 스튜디오 조기 공개",
-  "body": "기업의 AI 하드웨어 수요가 예상보다 커서 애플이 맥 미니와 맥 스튜디오를 이례적으로 일찍 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI需要にApple驚く\nMac miniなど早期発表",
+  "body": "企業のAI需要が予想超えでAppleがMac miniとStudioを早期発表した。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-china-humanoid-games",

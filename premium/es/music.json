@@ -3786,6 +3786,122 @@
           "x": "Al automatizar la parte más molesta y lenta, recortar silencios y armar un montaje básico, Instagram le devuelve tiempo al artista. Con el trabajo pesado del corte basto fuera de en medio, pueden dedicarlo a pulir la narrativa, hablar con los fans y, de verdad, hacer música. Si tienes un iPhone, se acaba de esfumar la última excusa para no publicar un vlog de gira o la explicación de una canción."
         }
       ]
+    },
+    "music/music-musical-spirograph": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&w=1200",
+          "cap": "So pretty. Screenshot: Terrence O'Brien / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "El texto arranca con el recuerdo de estar obsesionado con el Spirograph de niño. Esos patrones geométricos eran hipnóticos y hermosos. A eso se suma el gusto por la composición musical generativa."
+        },
+        {
+          "t": "p",
+          "x": "Como las dos cosas se encuentran en una sola pestaña del navegador, no sorprende que el autor haya quedado atrapado."
+        },
+        {
+          "t": "p",
+          "x": "El concepto detrás de Musical Spirograph es bastante simple. Unos pocos puntos se mueven por la pantalla siguiendo ecuaciones matemáticas, trazando hipotrocoides y epitrocoides."
+        },
+        {
+          "t": "p",
+          "x": "Cada vez que esos puntos cruzan un anillo concéntrico, suena una nota específica. El dibujo se convierte en la partitura."
+        },
+        {
+          "t": "p",
+          "x": "Eso solo ya es suficientemente divertido, pero hay bastante con lo que jugar. Se puede elegir entre seis tipos de rotores virtuales, y se pueden mover hasta tres brazos de dibujo a la vez. También hay varios parámetros para moldear el patrón."
+        },
+        {
+          "t": "p",
+          "x": "Hay seis opciones de escala para elegir, o se puede fijar directamente las notas uno mismo. También hay seis presets de sintetizador."
+        },
+        {
+          "t": "p",
+          "x": "Se puede cambiar la cuantización y el BPM, o aumentar el número de anillos hasta dos octavas."
+        },
+        {
+          "t": "p",
+          "x": "Tiene puntos débiles. El motor de sonido no es excelente, y el clipping y los artefactos aparecen con facilidad. También es una pena que no haya salida MIDI para controlar otros instrumentos."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, es suficiente para perderse en él durante un buen rato. En palabras del propio autor, es algo tranquilo, hipnótico y divertido de manipular."
+        }
+      ]
+    },
+    "music/music-stable-audio-daw": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static1.squarespace.com/static/6213c340453c3f502425776e/t/6a8339bc452f993158f20713/1786984892211/Stable_Audio_Beta_Launch_16x9.png?format=1500w",
+          "cap": "Beta temprana de Stable Audio. Imagen: Stability AI"
+        },
+        {
+          "t": "p",
+          "x": "Cada persona llega por un camino distinto al paisaje sonoro, la partitura o la canción que busca. Las formas de trabajar también varían, y al empezar nunca se sabe hacia dónde fluirá esa idea."
+        },
+        {
+          "t": "p",
+          "x": "Así que tampoco va a llegar de una sola vez."
+        },
+        {
+          "t": "p",
+          "x": "Stability AI dijo que se aferró a esa idea al pensar la siguiente etapa de Stable Audio. El objetivo es simple: dar a la gente una herramienta para ir dando forma al sonido, no solo para producirlo de golpe."
+        },
+        {
+          "t": "p",
+          "x": "Por eso presentó juntas dos formas de trabajar con Stable Audio 3.0: el plugin de Stable Audio, que lleva la generación directamente dentro del DAW, y una experiencia web mejorada en StableAudio.com para seguir retocando lo ya creado. Ambas funcionan sobre un modelo comercialmente seguro, y el resultado pertenece al usuario, que puede distribuirlo libremente."
+        },
+        {
+          "t": "p",
+          "x": "Las dos están en beta. La empresa explica que algunas funciones son experimentales y que seguirá puliendo la experiencia en tiempo real."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/20d660a3-a727-4bf7-b3bc-ed7bee479772/PluginGIF.gif",
+          "cap": "El plugin de Stable Audio funcionando directamente sobre una pista del DAW. Imagen: Stability AI"
+        },
+        {
+          "t": "p",
+          "x": "El plugin genera audio directamente sobre una pista del DAW. El sonido creado se puede organizar, editar y procesar ahí mismo, apilándolo junto al resto de la sesión."
+        },
+        {
+          "t": "p",
+          "x": "Funciona como un instrumento. En Ableton se coloca bajo PlugIns en una pista de Instrument; en Logic se carga en una ranura de Instrument."
+        },
+        {
+          "t": "p",
+          "x": "Se sincroniza con el BPM de la sesión, así que se acopla directamente al tempo del proyecto en el que se esté trabajando. También se elige la duración, desde una sección corta hasta una pieza completa de seis minutos. Varias tomas pueden guardarse en una playlist para compararlas antes de decidir cuál conservar."
+        },
+        {
+          "t": "p",
+          "x": "Los formatos compatibles son AU y VST3 de macOS. Funciona tanto en Apple Silicon como en Mac Intel, y es compatible con los principales DAW, incluidos Logic Pro y Ableton Live."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/6213c340453c3f502425776e/cb9354f9-2ed6-42dc-bc0d-14ab6c4f8957/WebappGIF.gif",
+          "cap": "La nueva app web para seguir retocando una pista en el navegador. Imagen: Stability AI"
+        },
+        {
+          "t": "p",
+          "x": "La app web sigue el orden real de un músico: primero se coloca una idea, se escucha, se corrige y se vuelve a generar. La primera toma se obtiene con un prompt."
+        },
+        {
+          "t": "p",
+          "x": "A partir de ahí, se da dirección con palabras: pedir que se reduzcan los graves, que el build se retrase más, o que cambie la instrumentación. Con audio-to-audio también se pueden extraer de un sonido ya existente otros géneros, estados de ánimo y variaciones."
+        },
+        {
+          "t": "p",
+          "x": "También se abrió el trabajo por partes. Se mezcla con level, pan, mute y solo, y se aplican efectos por pista además de efectos máster. Se puede exportar solo las partes que se quieran y exportar la mezcla para seguir trabajando en otro lugar."
+        },
+        {
+          "t": "p",
+          "x": "Si una toma queda apenas desalineada, no hace falta volver a empezar desde cero. Lo que esta beta plantea, en el fondo, es una sesión en la que se pueda seguir viviendo. El equipo añadió que quiere escuchar a músicos, productores, compositores, diseñadores de sonido y desarrolladores de audio sobre qué ayuda y qué estorba."
+        }
+      ]
     }
   }
 }
