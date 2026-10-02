@@ -31,10 +31,10 @@
     if (!window.AX_I18N_ON || document.getElementById("ax-globe")) return;
     var css = document.createElement("style");
     css.textContent =
-      "#ax-globe{position:absolute;top:14px;right:14px;z-index:200;display:flex;align-items:center;gap:5px;" +
-      "height:34px;padding:0 11px 0 9px;border-radius:100px;border:1px solid rgba(23,23,23,.14);" +
+      "#ax-globe{position:absolute;top:14px;right:14px;z-index:200;display:flex;align-items:center;" +
+      "justify-content:center;width:34px;height:34px;border-radius:50%;border:1px solid rgba(23,23,23,.14);" +
       "background:rgba(255,255,255,.72);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);" +
-      "color:#4a4540;font:600 11px/1 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.06em;" +
+      "color:#4a4540;" +
       "box-shadow:0 4px 14px -8px rgba(40,30,20,.45);}" +
       "#ax-globe:hover{border-color:rgba(23,23,23,.35);}" +
       "#ax-globe:focus-within{outline:2px solid #0070f3;outline-offset:2px;}" +
@@ -48,9 +48,7 @@
     box.innerHTML =
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">' +
       '<circle cx="12" cy="12" r="9.2"/><path d="M2.8 12h18.4M12 2.8c2.6 2.6 3.9 5.6 3.9 9.2s-1.3 6.6-3.9 9.2' +
-      'M12 2.8C9.4 5.4 8.1 8.4 8.1 12s1.3 6.6 3.9 9.2"/></svg><span aria-hidden="true"></span>';
-    var ABBR = { en: "ENG", ko: "KOR", ja: "JPN", zh: "CHN", es: "ESP" };
-    box.querySelector("span").textContent = ABBR[LANG] || LANG.toUpperCase();
+      'M12 2.8C9.4 5.4 8.1 8.4 8.1 12s1.3 6.6 3.9 9.2"/></svg>';
     var sel = document.createElement("select");
     sel.setAttribute("aria-label", window.t("lang.menu"));
     sel.title = window.t("lang.menu");
