@@ -147,7 +147,8 @@ if (!document.getElementById('ax-styles')) {
      이미 불러와 둔 Pretendard로 통일한다: 한글·영문 모두 설계된 폰트라 두 OS에서
      같게 보이고 가독성도 낫다. */
   .ax-tab{font-family:'Pretendard',var(--font-sans);font-size:13px;letter-spacing:-0.005em;font-weight:700;
-     cursor:pointer;padding:7px 16px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
+     cursor:pointer;height:36px;padding:0 16px;display:inline-flex;align-items:center;justify-content:center;
+     box-sizing:border-box;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
   .ax-tab:active{transform:scale(.95);}
   @media (max-width:760px){
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}
@@ -1936,14 +1937,14 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
       background: t.cardSolid || '#fbf8f3', borderBottom: `1px solid ${t.rule}`,
       boxShadow: '0 6px 18px -12px rgba(60,40,30,.5)' }}>
       {/* row 1 — 로고(왼쪽) + 버튼 묶음(오른쪽) */}
-      <div ref={titleRef} style={{ padding: `8px ${g}px 8px`, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
+      <div ref={titleRef} style={{ padding: `11px ${g}px 9px`, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
         <div onClick={onTitle} style={{ cursor: onTitle ? 'pointer' : 'default', flex: '0 0 auto',
-          fontFamily: 'var(--font-sans)', fontWeight: 700, letterSpacing: '-0.03em', fontSize: 16,
+          fontFamily: 'var(--font-sans)', fontWeight: 700, letterSpacing: '-0.03em', fontSize: 19,
           color: t.hl, whiteSpace: 'nowrap', lineHeight: 1 }}>AX-it NOW</div>
         <div id="ax-actions-m" style={{ display: 'flex', alignItems: 'center', gap: 6, flex: '0 0 auto' }} />
       </div>
       {/* row 2 — section tabs, flush to the same left edge as the title and the card */}
-      <div ref={tabsRef} style={{ padding: `0 ${g}px 10px` }}>
+      <div ref={tabsRef} style={{ padding: `4px ${g}px 11px` }}>
         <SectionTabs sections={sections} order={order} active={active} onSelect={onSelect} t={t} flush
           showInsights={showInsights} insightsActive={insightsActive} onInsights={onInsights} />
       </div>

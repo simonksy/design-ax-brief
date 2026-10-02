@@ -158,9 +158,22 @@
     // 버튼은 한 벌뿐이라 자리를 옮겨 다닌다. 기본은 이 상단 바, 폰에서 스티키
     // 헤더가 내려와 있는 동안만 그 첫 줄(#ax-actions-m)로 간다 — React가
     // axPlaceActions로 알려 준다. 두 벌을 동시에 띄우지 않기 위해서다.
+    // 폰에서 #ax-actions-d는 CSS로 감춰져 있다 — 거기 담으면 버튼이 사라진다.
+    // 그리고 아래 interval이 place()를 계속 부르므로, React가 알려 준 마지막
+    // 상태(wantMobile)를 기억해 두지 않으면 폰에서 바로 되돌려 버린다.
+    var wantMobile = false;
+    // 데스크톱의 React 페이지에서는 버튼이 결국 카테고리 줄로 간다. 그때까지 상단
+    // 바에 담아 두면 새로고침마다 우상단에 잠깐 떴다가 사라진다 — 그 자리를 아예
+    // 거치지 않도록, 자리가 생길 때까지 바를 비워 둔다. React가 없는 페이지
+    // (archive 등)와 폰에서는 상단 바가 제자리이므로 바로 보여 준다.
+    var reactPage = !!document.getElementById("root");
     var place = function (useMobileSlot) {
-      var slot = useMobileSlot ? document.getElementById("ax-actions-m")
-                               : document.getElementById("ax-actions-d");
+      if (typeof useMobileSlot === "boolean") wantMobile = useMobileSlot;
+      var phone = window.innerWidth <= 720;
+      var slot = phone
+        ? (wantMobile ? document.getElementById("ax-actions-m") : null)
+        : document.getElementById("ax-actions-d");
+      if (!slot && reactPage && !phone) { bar.style.display = "none"; return; }
       var host = slot || bar;
       // 카테고리 줄(데스크톱)이나 스티키 바(폰)에 담겼으면 상단 바는 비워 둔다.
       // React가 없는 페이지(archive)에는 두 자리가 다 없어 상단 바가 폴백이 된다.
@@ -174,10 +187,10 @@
     };
     window.axPlaceActions = place;
     place(false);
-    window.addEventListener("resize", function () { place(false); });
+    window.addEventListener("resize", function () { place(); });
     // React가 자리를 그릴 때까지 잠깐 쫓는다.
     var tries = 0, tick = setInterval(function () {
-      place(false); if (++tries > 80) clearInterval(tick);
+      place(); if (++tries > 80) clearInterval(tick);
     }, 100);
 
   };
