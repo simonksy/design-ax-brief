@@ -84,6 +84,7 @@ window.AX_I18N = {
  "nav.prev": "이전",
  "nav.sections": "섹션",
  "paywall.already": "이미 구독 중이신가요?",
+ "paywall.already_subscribed": "이미 구독 중입니다. 구독 관리에서 카드 정보를 변경하거나 해지할 수 있습니다.",
  "paywall.become_pro": "Become a Pro",
  "paywall.checkout_failed": "결제창을 열지 못했습니다. 잠시 후 다시 시도해 주세요.",
  "paywall.confirm_slow": "결제가 확인되는 중입니다. 잠시 후 새로고침해 주세요.",

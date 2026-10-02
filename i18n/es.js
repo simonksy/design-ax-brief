@@ -84,6 +84,7 @@ window.AX_I18N = {
  "nav.prev": "Anterior",
  "nav.sections": "Secciones",
  "paywall.already": "¿Ya estás suscrito?",
+ "paywall.already_subscribed": "Ya tienes una suscripción. Usa Gestionar suscripción para cambiar la tarjeta o cancelar.",
  "paywall.become_pro": "Conviértete en Pro",
  "paywall.checkout_failed": "No se pudo abrir el pago. Inténtalo de nuevo.",
  "paywall.confirm_slow": "Tu pago sigue confirmándose. Actualiza en un momento.",

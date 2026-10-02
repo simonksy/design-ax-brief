@@ -21,7 +21,7 @@ async function call(path, init) {
 
 describe("auth + entitlement", () => {
   it("me is logged-out by default", async () => {
-    expect(await (await call("/api/me")).json()).toEqual({ loggedIn: false, email: null, entitled: false });
+    expect(await (await call("/api/me")).json()).toEqual({ loggedIn: false, email: null, entitled: false, hasSubscription: false });
   });
 
   it("magic-link login yields an entitled session for an allowlisted email", async () => {
@@ -37,7 +37,7 @@ describe("auth + entitlement", () => {
     expect(cookie).toMatch(/ax_session=/);
     const sess = cookie.split(";")[0].split("=")[1];
     const me = await (await call("/api/me", { headers: { cookie: "ax_session=" + sess } })).json();
-    expect(me).toEqual({ loggedIn: true, email: "paid@x.com", entitled: true });
+    expect(me).toEqual({ loggedIn: true, email: "paid@x.com", entitled: true, hasSubscription: false });
   });
 
   it("non-allowlisted email logs in but is not entitled", async () => {
@@ -49,7 +49,7 @@ describe("auth + entitlement", () => {
     const cookie = (await call("/api/auth/callback?token=" + token)).headers.get("set-cookie");
     const sess = cookie.split(";")[0].split("=")[1];
     const me = await (await call("/api/me", { headers: { cookie: "ax_session=" + sess } })).json();
-    expect(me).toEqual({ loggedIn: true, email: "free@x.com", entitled: false });
+    expect(me).toEqual({ loggedIn: true, email: "free@x.com", entitled: false, hasSubscription: false });
   });
 
   // 발송 실패를 200으로 숨기면 사용자는 오지 않는 메일을 영원히 기다린다.

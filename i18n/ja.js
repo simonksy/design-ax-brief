@@ -84,6 +84,7 @@ window.AX_I18N = {
  "nav.prev": "前へ",
  "nav.sections": "セクション",
  "paywall.already": "すでに登録済みですか？",
+ "paywall.already_subscribed": "すでにご購読中です。「購読管理」からカード情報の変更や解約ができます。",
  "paywall.become_pro": "Proになる",
  "paywall.checkout_failed": "決済画面を開けませんでした。もう一度お試しください。",
  "paywall.confirm_slow": "決済を確認中です。少し経ってから再読み込みしてください。",

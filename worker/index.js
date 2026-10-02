@@ -2,7 +2,7 @@ import { LANGS, pickLang, splitLangPath } from "./lib/lang.js";
 import { signSession, verifySession } from "./lib/crypto.js";
 import { issueMagicToken, consumeMagicToken, rateLimited } from "./lib/tokens.js";
 import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } from "./lib/cookies.js";
-import { getEntitlement } from "./lib/entitlement.js";
+import { getEntitlement, hasPaddleSubscription } from "./lib/entitlement.js";
 import { sendMagicLink } from "./lib/email.js";
 import { verifyPaddleSignature, toEntitlement, fetchCustomerEmail } from "./lib/paddle.js";
 import { applyEntitlement } from "./lib/billing.js";
@@ -178,6 +178,10 @@ export default {
     if (p === "/api/billing/checkout" && request.method === "POST") {
       const email = await currentEmail(request, env);
       if (!email) return json({ reason: "login_required" }, 401);
+      // 이미 구독 행이 있으면 두 번째 Paddle 구독을 열지 못하게 막는다. 그대로 두면
+      // 첫 구독이 고아가 되어 두 건이 동시에 청구된다.
+      if (await hasPaddleSubscription(env.DB, email))
+        return json({ reason: "already_subscribed" }, 409);
       let plan = null;
       try { plan = (await request.json()).plan; } catch {}
       const priceId = plan === "monthly" ? env.PADDLE_PRICE_MONTHLY
@@ -209,9 +213,12 @@ export default {
 
     if (p === "/api/me") {
       const email = await currentEmail(request, env);
-      if (!email) return json({ loggedIn: false, email: null, entitled: false });
+      if (!email) return json({ loggedIn: false, email: null, entitled: false, hasSubscription: false });
       const ent = await getEntitlement(env.DB, email);
-      return json({ loggedIn: true, email, entitled: ent.entitled });
+      // hasSubscription은 기간을 보지 않는다 — 갱신이 실패해 권한이 닫힌 구독자에게도
+      // "구독 관리"를 계속 보여줘야 한다. 그때가 카드를 고쳐야 하는 순간이다.
+      const hasSubscription = await hasPaddleSubscription(env.DB, email);
+      return json({ loggedIn: true, email, entitled: ent.entitled, hasSubscription });
     }
 
     if (p === "/api/premium/full") {

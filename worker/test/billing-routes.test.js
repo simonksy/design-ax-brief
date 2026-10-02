@@ -263,6 +263,50 @@ describe("POST /api/billing/checkout", () => {
   });
 });
 
+// 갱신이 실패해 기간이 끝난 구독자가 가장 곤란하다: 관리 링크(=카드 고치는 길)가
+// 사라지고, 남은 건 "구독하기"뿐이어서 두 번째 구독을 열어 첫 구독을 고아로 만든다.
+describe("만료된 구독자", () => {
+  const seed = async (email, status, end) => {
+    const now = Math.floor(Date.now() / 1000);
+    await env.DB.prepare(
+      `INSERT OR REPLACE INTO subscribers
+       (email,status,current_period_end,provider,provider_customer_id,created_at,updated_at)
+       VALUES (?,?,?,'paddle','ctm_1',?,?)`
+    ).bind(email, status, end, now, now).run();
+  };
+  const me = async (email) => (await call("/api/me",
+    { headers: { cookie: await cookieFor(email) } })).json();
+
+  it("권한은 닫혔어도 hasSubscription은 true다 — 관리 링크가 사라지면 안 된다", async () => {
+    await seed("lapsed@x.com", "past_due", Math.floor(Date.now() / 1000) - DAY);
+    expect(await me("lapsed@x.com")).toMatchObject({ entitled: false, hasSubscription: true });
+  });
+
+  it("그 상태에서 체크아웃은 409 — 두 번째 구독을 열지 않는다", async () => {
+    await seed("lapsed2@x.com", "past_due", Math.floor(Date.now() / 1000) - DAY);
+    const res = await call("/api/billing/checkout", { method: "POST",
+      headers: { cookie: await cookieFor("lapsed2@x.com") }, body: JSON.stringify({ plan: "monthly" }) });
+    expect(res.status).toBe(409);
+    expect((await res.json()).reason).toBe("already_subscribed");
+  });
+
+  it("해지(canceled) 이력은 다시 구독할 수 있다", async () => {
+    await seed("gone@x.com", "canceled", Math.floor(Date.now() / 1000) - DAY);
+    expect(await me("gone@x.com")).toMatchObject({ entitled: false, hasSubscription: false });
+    const res = await call("/api/billing/checkout", { method: "POST",
+      headers: { cookie: await cookieFor("gone@x.com") }, body: JSON.stringify({ plan: "monthly" }) });
+    expect(res.status).toBe(200);
+  });
+
+  it("수동 부여(provider='manual')는 Paddle 구독이 아니다", async () => {
+    const now = Math.floor(Date.now() / 1000);
+    await env.DB.prepare(
+      "INSERT OR REPLACE INTO subscribers (email,status,current_period_end,provider,created_at,updated_at) VALUES (?,?,NULL,'manual',?,?)"
+    ).bind("comp@x.com", "active", now, now).run();
+    expect(await me("comp@x.com")).toMatchObject({ entitled: true, hasSubscription: false });
+  });
+});
+
 describe("GET /api/billing/portal", () => {
   it("비로그인은 401", async () => {
     expect((await call("/api/billing/portal")).status).toBe(401);

@@ -474,6 +474,9 @@ function SubscribeModal({ onClose, t }) {
         body: JSON.stringify({ plan }),
       });
       if (res.status === 401) { setPhase('login'); return; }
+      // 409 = 이미 Paddle 구독 행이 있다. 두 번째 구독을 열면 첫 구독이 고아가 되므로
+      // 서버가 막는다 — 사용자는 '구독 관리'로 가야 한다.
+      if (res.status === 409) { setPhase('error'); setNote(tx('paywall.already_subscribed')); return; }
       if (!res.ok) { setPhase('error'); setNote(tx('paywall.checkout_failed')); return; }
       const cfg = await res.json();
       const Paddle = await loadPaddle(cfg.clientToken, cfg.environment);
@@ -1215,7 +1218,9 @@ function ProBadge({ onClick }) {
   );
 }
 
-/* 구독자에게만 보이는 관리 링크 — 카드 변경·해지·영수증은 Paddle 포털에서 한다. */
+/* 구독 행이 있는 사람에게 보이는 관리 링크 — 카드 변경·해지·영수증은 Paddle 포털에서
+   한다. entitled가 아니라 hasSubscription으로 띄운다: 갱신이 실패해 기간이 끝난 순간이
+   바로 카드를 고쳐야 하는 순간인데, 그때 링크가 사라지면 할 수 있는 게 없다. */
 function ManageLink({ t }) {
   const [busy, setBusy] = useState(false);
   const [msg, setMsg] = useState('');
@@ -1245,7 +1250,7 @@ function ManageLink({ t }) {
    a 🔒 badge (see DayDeck), a "Become a Pro" pill sits next to the heading, the
    helper copy hints at the paywall, and any click (deck or badge) opens
    SubscribeModal instead of the day. ---- */
-function WeeklyTimeline({ t, onOpen, days, entitled }) {
+function WeeklyTimeline({ t, onOpen, days, entitled, hasSubscription }) {
   days = days || [];
   const [hd, setHd] = useState(null);   // hovered day index
   const [hc, setHc] = useState(null);   // hovered card index within the day
@@ -1266,7 +1271,8 @@ function WeeklyTimeline({ t, onOpen, days, entitled }) {
             : tx('deck.locked')}
         </p>
         <div style={{ marginTop: 12 }}>
-          {entitled ? <ManageLink t={t} /> : <ProBadge onClick={() => setShowSubscribe(true)} />}
+          {hasSubscription ? <ManageLink t={t} />
+            : !entitled ? <ProBadge onClick={() => setShowSubscribe(true)} /> : null}
         </div>
       </div>
       <div style={{ position: 'relative', display: 'flex', alignItems: 'flex-start', padding: '178px 40px 0' }}>
@@ -1339,7 +1345,7 @@ function useIsMobile(maxW) {
    RIGHT so yesterday is shown first and swiping left travels into the past. Each
    day is a block with its date pinned above its cards. Tap a card → opens it large
    in the hero (same flow as the desktop deck). Replaces WeeklyTimeline on mobile. ---- */
-function MobileFilmstrip({ t, onOpen, days, entitled }) {
+function MobileFilmstrip({ t, onOpen, days, entitled, hasSubscription }) {
   days = days || [];
   const stripRef = useRef();
   const [showSubscribe, setShowSubscribe] = useState(false);
@@ -1364,7 +1370,8 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
             : tx('deck.locked')}
         </p>
         <div style={{ marginTop: 10 }}>
-          {entitled ? <ManageLink t={t} /> : <ProBadge onClick={() => setShowSubscribe(true)} />}
+          {hasSubscription ? <ManageLink t={t} />
+            : !entitled ? <ProBadge onClick={() => setShowSubscribe(true)} /> : null}
         </div>
       </div>
       <div className="ax-strip" ref={stripRef}>
@@ -2277,7 +2284,7 @@ function ThemedPage({ themeKey }) {
   // subscriber's /api/me returns loggedIn and entitled both set and every
   // locked card (below) renders unblurred with a lazy-fetched deep-dive instead
   // of the LockedCard subscribe overlay.
-  const [auth, setAuth] = useState({ loggedIn: false, entitled: false });
+  const [auth, setAuth] = useState({ loggedIn: false, entitled: false, hasSubscription: false });
   useEffect(() => {
     fetch('/api/me', { credentials: 'same-origin' })
       .then((r) => (r.ok ? r.json() : null))
@@ -2448,8 +2455,10 @@ function ThemedPage({ themeKey }) {
             </div>
             {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
             {(cur.days || []).length > 0 && (isMobile
-              ? <MobileFilmstrip t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled} />
-              : <WeeklyTimeline t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled} />)}
+              ? <MobileFilmstrip t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled}
+                  hasSubscription={auth.hasSubscription} />
+              : <WeeklyTimeline t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled}
+                  hasSubscription={auth.hasSubscription} />)}
           </React.Fragment>
         ) : (
           /* empty section (no news yet) */
