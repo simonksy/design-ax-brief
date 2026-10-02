@@ -133,8 +133,11 @@ if (!document.getElementById('ax-styles')) {
   /* navbar 안에서는 한 줄 유지 + 넘치면 가로 스크롤. 폭이 넉넉하면 가운데로 모인다.
      데스크톱에서도 창을 좁히면 그대로 스크롤로 넘어간다 — 폭 기준이 아니라
      내용이 넘치는지로 결정되므로 기기 구분이 필요 없다. */
+  /* justify-content:center로 두면 넘친 왼쪽이 잘리고 스크롤로도 닿지 않는다
+     (모달에서 겪은 것과 같은 함정). 왼쪽부터 채우고 넘치면 오른쪽으로 흐른다. */
   .ax-navbar .ax-tabs{flex:1 1 auto;min-width:0;flex-wrap:nowrap;overflow-x:auto;
-     margin:0;padding:2px 0;scrollbar-width:none;-webkit-overflow-scrolling:touch;}
+     justify-content:flex-start;margin:0;padding:2px 0;scrollbar-width:none;
+     -webkit-overflow-scrolling:touch;}
   .ax-navbar .ax-tabs::-webkit-scrollbar{display:none;}
   .ax-tabs{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin:0 auto 16px;padding:0 12px;}
   /* 탭 글자는 UI의 길잡이다 — 모노스페이스 12px/600은 윈도우에서 가늘고 희미했다.
@@ -154,17 +157,17 @@ if (!document.getElementById('ax-styles')) {
      480px 카드라 화면의 5분의 1만 쓰고 모든 게 작아 보였다. 폭과 카드를 함께 키운다.
      카드 안쪽은 고정 px라 비율이 어긋나지 않게 폭·높이를 같은 비(480:760)로 늘린다. */
   @media (min-width:1700px){
-    .ax-shell{max-width:1360px;padding:44px 48px 110px;}
-    .ax-navbar{max-width:1360px;}
-    .ax-hero-wrap{width:560px;height:887px;}
-    .ax-tab{font-size:15px;padding:10px 21px;}
+    .ax-shell{max-width:1280px;padding:40px 44px 100px;}
+    .ax-navbar{max-width:1280px;}
+    .ax-hero-wrap{width:520px;height:823px;}
+    .ax-tab{font-size:14.5px;padding:9px 19px;}
     .ax-tabs{gap:9px;margin-bottom:22px;}
   }
   @media (min-width:2200px){
-    .ax-shell{max-width:1560px;}
-    .ax-navbar{max-width:1560px;}
-    .ax-hero-wrap{width:640px;height:1013px;}
-    .ax-tab{font-size:16px;padding:11px 23px;}
+    .ax-shell{max-width:1440px;}
+    .ax-navbar{max-width:1440px;}
+    .ax-hero-wrap{width:560px;height:887px;}
+    .ax-tab{font-size:15px;padding:10px 21px;}
   }
   /* ---- Pro 비교표 + 요금제 버튼 (SubscribeModal). 색·모션은 Pro 열과 할인
      스티커에만 쓴다 — 나머지 모달은 사이트의 절제된 톤을 그대로 유지한다. */
@@ -997,11 +1000,11 @@ function LayoutEditorial({ item, index, total, active, t, mobile, onExpand, sect
       </div>
       <div style={{ flex: 1, minHeight: 0, display: 'flex', flexDirection: 'column', padding: mobile ? '16px 18px 18px' : '22px 26px 22px' }}>
         <Eyebrow item={it} index={index} total={total} t={t} />
-        <h2 className="ax-hl" style={{ fontSize: mobile ? 21 : wide ? 33 : 28, lineHeight: 1.18, marginTop: mobile ? 10 : 14, color: t.hl }}>{it.headline}</h2>
+        <h2 className="ax-hl" style={{ fontSize: mobile ? 21 : wide ? 31 : 28, lineHeight: 1.18, marginTop: mobile ? 10 : 14, color: t.hl }}>{it.headline}</h2>
         {/* wrapper is the flex item (blockified safely); the <p> stays a real
             -webkit-box so -webkit-line-clamp actually caps at 3 lines */}
         <div style={{ flex: '0 0 auto', marginTop: mobile ? 9 : 12 }}>
-          <p className="ax-body" style={{ fontSize: mobile ? 14 : wide ? 17.5 : 15, lineHeight: 1.55, margin: 0, color: t.body,
+          <p className="ax-body" style={{ fontSize: mobile ? 14 : wide ? 16.5 : 15, lineHeight: 1.55, margin: 0, color: t.body,
             display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden',
             maxHeight: 'calc(1.55em * 3)' }}>{it.body}</p>
         </div>
