@@ -459,6 +459,12 @@ function AxPill({ label, onClick, t, style }) {
   );
 }
 
+/* Paddle.js의 이벤트는 Initialize의 eventCallback 하나로만 들어온다 — Checkout.open에
+   콜백을 넘겨도 호출되지 않는다. 결제를 끝냈는데 비교표가 그대로 떠 있던 원인이
+   이것이었다. 현재 열려 있는 모달이 여기에 자기 핸들러를 걸어 두고, Paddle 이벤트를
+   그 핸들러로 넘긴다. */
+let axPaddleOnEvent = null;
+
 /* Paddle.js를 한 번만 불러온다. 결제창을 열 때까지 로드하지 않아 첫 화면이 가벼워진다. */
 let axPaddleReady = null;
 function loadPaddle(clientToken, environment) {
@@ -469,15 +475,15 @@ function loadPaddle(clientToken, environment) {
     s.onload = () => {
       try {
         if (environment === 'sandbox') window.Paddle.Environment.set('sandbox');
-        // Initialize의 eventCallback은 모든 Paddle.js 이벤트를 받는다. 결제창이
-        // 아예 열리지 못한 경우(checkout.error)는 Checkout.open의 콜백까지 가지
-        // 않으므로, 진단 로그는 여기 걸어야 한다. 오버레이는 실패를 "Something
-        // went wrong" 한 줄로 덮어버린다 — code/detail은 이 경로로만 보인다.
         window.Paddle.Initialize({
           token: clientToken,
           eventCallback: (e) => {
-            if (e && (e.name === 'checkout.error' || e.name === 'checkout.warning'))
+            if (!e) return;
+            // 오버레이는 실패를 "Something went wrong" 한 줄로 덮는다 — code/detail은
+            // 이 경로로만 보인다. 결제 문제를 진단할 유일한 통로다.
+            if (e.name === 'checkout.error' || e.name === 'checkout.warning')
               console.error('[ax] paddle ' + e.name, e.detail || '', e);
+            if (axPaddleOnEvent) { try { axPaddleOnEvent(e); } catch (err) {} }
           },
         });
         resolve(window.Paddle);
@@ -693,24 +699,19 @@ function SubscribeModal({ onClose, t }) {
       if (!res.ok) { setPhase('error'); setNote(tx('paywall.checkout_failed')); return; }
       const cfg = await res.json();
       const Paddle = await loadPaddle(cfg.clientToken, cfg.environment);
+      // 완료 이벤트는 Initialize의 콜백으로만 들어온다(위 axPaddleOnEvent 참고).
+      axPaddleOnEvent = async (e) => {
+        if (e.name !== 'checkout.completed') return;
+        axPaddleOnEvent = null;          // 한 번만 처리한다
+        setPhase('confirming');
+        if (await pollEntitlement()) window.location.reload();
+        else setPhase('slow');
+      };
       Paddle.Checkout.open({
         items: [{ priceId: cfg.priceId, quantity: 1 }],
         customer: { email: cfg.email },
         customData: { email: cfg.email },      // 웹훅이 이 이메일로 권한을 연다
         settings: { displayMode: 'overlay', theme: 'light' },
-        eventCallback: async (e) => {
-          // Paddle 오버레이는 실패를 "Something went wrong" 한 줄로만 덮는다. 실제
-          // 원인은 이 이벤트에만 들어 있으므로 콘솔에 그대로 남긴다 — 운영자가
-          // 결제 문제를 진단할 유일한 통로다.
-          if (e.name === 'checkout.error' || e.name === 'checkout.warning') {
-            console.error('[ax] paddle ' + e.name, e);
-            return;
-          }
-          if (e.name !== 'checkout.completed') return;
-          setPhase('confirming');
-          if (await pollEntitlement()) window.location.reload();
-          else setPhase('slow');
-        },
       });
     } catch {
       setPhase('error'); setNote(tx('paywall.checkout_failed'));
