@@ -18144,9 +18144,9 @@
   "date": "2026-08-27",
   "section": "design",
   "has_full": true,
-  "headline": "블렌더의 지겨운 리토폴로지를\nSmart Remesh가 대신한다",
-  "body": "Smart Remesh는 캐릭터든 하드서피스든 정점을 그대로 둔 채 쿼드로 바꾼다.",
-  "lang": "ko",
+  "headline": "Smart Remesh takes over the\ntedious job of retopology",
+  "body": "Smart Remesh turns vertices into quads, whether for characters or hard surfaces, while keeping them in place.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18160,10 +18160,9 @@
   "date": "2026-08-27",
   "section": "design",
   "has_full": true,
-  "headline": "AI 에이전트가 VR 앱을 만들고\n직접 써 보며 확인한다",
-  "body": "Meta XR Operator는 에이전트가 VR 앱을 만들고 스스로 검증하게 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Agentes de IA crean apps VR\ny las verifican usándolas",
+  "body": "Meta XR Operator permite que los agentes creen apps VR y las verifiquen por sí mismos.",
+  "lang": "es"
  },
  {
   "id": "design-figma-path-trim",
@@ -18176,10 +18175,9 @@
   "date": "2026-08-27",
   "section": "design",
   "has_full": true,
-  "headline": "생성된 UI가 레이아웃을 가져가도\n모션은 디자이너에게 남는다",
-  "body": "패스 트림은 선이 보이는 양을 시간에 따라 조절해 그려지는 선을 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La UI generada puede tomar el\nlayout; motion, del diseñador",
+  "body": "El recorte de trayecto crea líneas que se dibujan ajustando cuánto se ve la línea a lo largo del tiempo.",
+  "lang": "es"
  },
  {
   "id": "design-claude-code-design",
@@ -18192,10 +18190,9 @@
   "date": "2026-08-27",
   "section": "design",
   "has_full": true,
-  "headline": "터미널 에이전트가 UI를 그린다\n/design이 시작점을 옮긴다",
-  "body": "Claude Code의 /design은 터미널에서 UI를 직접 그리고 고쳐 나간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Un agente de terminal dibuja\nla UI; /design cambia el inicio",
+  "body": "El comando /design de Claude Code dibuja y corrige la UI directamente en la terminal.",
+  "lang": "es"
  },
  {
   "id": "books-uncanny-valley-detection",
@@ -18208,10 +18205,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "워터마크를 넣는 쪽과 탐지하는 쪽\n편집자가 서 있는 자리는 그 사이",
-  "body": "앤스로픽은 워터마크를 넣고 뉴욕타임스 기자는 탐지기 팬그램을 수십 번 돌려봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Entre poner marcas de agua\ny detectarlas: editor en medio",
+  "body": "Anthropic añade marcas de agua, mientras un periodista del New York Times probó el detector Pangram decenas de veces.",
+  "lang": "es"
  },
  {
   "id": "books-ukraine-monograph-oa",
@@ -18224,10 +18220,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "모노그래프 위기 앞의 우크라이나\n원조가 아니라 대등한 지적 파트너십",
-  "body": "원조를 받던 우크라이나 학술출판이 오픈액세스로 대등한 지적 파트너십을 제안한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Ucrania, en la crisis del libro\nno pide ayuda, alianza igual",
+  "body": "La edición académica ucraniana, antes dependiente de la ayuda, propone una alianza intelectual igual por acceso abierto.",
+  "lang": "es"
  },
  {
   "id": "books-library-news-august",
@@ -18240,10 +18235,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 쓴 이야기에 더 높은 별점\n사람 글보다 높았다는 연구 결과",
-  "body": "사람이 썼다고 믿은 AI 이야기가 실제 사람 글보다 더 높은 평점을 받았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Historias de IA, mejor puntuadas\nque las escritas por humanos",
+  "body": "Historias escritas por IA que se creían humanas recibieron mejores calificaciones que historias realmente humanas.",
+  "lang": "es"
  },
  {
   "id": "books-kaze-us-no-ai-translation",
@@ -18256,10 +18250,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "하퍼콜린스 새 만화 임프린트 카제 US\nAI 번역은 쓰지 않겠다고 못 박았다",
-  "body": "하퍼콜린스의 만화 임프린트 KAZÉ US가 AI 번역은 쓰지 않겠다고 못 박았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "HarperCollins lanza KAZÉ US\nno usará traducción con IA",
+  "body": "El sello de manga de HarperCollins, KAZÉ US, afirmó con firmeza que no usará traducción con IA.",
+  "lang": "es"
  },
  {
   "id": "books-indie-manga-alliance",
@@ -18272,10 +18265,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "인디 만화 연합이 미국에서 출범했다\nLibro.fm은 전자책으로 발을 넓힌다",
-  "body": "인디 만화 연합이 출범하고 Libro.fm이 전자책으로 발을 넓힌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La Alianza Indie Manga nació\nen EE. UU.; Libro.fm suma ebooks",
+  "body": "La Alianza Indie Manga se lanzó y Libro.fm se expande a los libros electrónicos.",
+  "lang": "es"
  },
  {
   "id": "science-shrinking-style",
@@ -18304,10 +18296,9 @@
   "date": "2026-08-26",
   "section": "science",
   "has_full": true,
-  "headline": "뇌는 세상을 받아 적지 않고\n몸이 필요한 것만 예측해 남긴다",
-  "body": "뇌가 감각을 받아 분류하는 게 아니라 몸의 에너지 사정에 맞춰 범주를 먼저 던진다는 이론이 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El cerebro no copia el mundo,\nprevé lo que el cuerpo necesita",
+  "body": "Una nueva teoría sostiene que el cerebro proyecta categorías según la energía del cuerpo, sin clasificar sensaciones.",
+  "lang": "es"
  },
  {
   "id": "science-llm-scholar-bench",
@@ -18320,10 +18311,9 @@
   "date": "2026-08-26",
   "section": "science",
   "has_full": true,
-  "headline": "전문가를 물으면 LLM은 불평등을\n비추는 게 아니라 키운다",
-  "body": "22개 모델을 잰 벤치마크에서 추천된 학자는 여성과 소수 배경 연구자가 실제 비율보다도 적었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Pregúntele por expertos:\nel LLM agranda la desigualdad",
+  "body": "Un benchmark con 22 modelos mostró menos mujeres y minorías entre los académicos recomendados que en la realidad.",
+  "lang": "es"
  },
  {
   "id": "science-green-ammonia",
@@ -18352,10 +18342,9 @@
   "date": "2026-08-26",
   "section": "science",
   "has_full": true,
-  "headline": "챗봇을 4주 쓰고 나니 가짜뉴스를\n혼자서는 15% 더 못 가려냈다",
-  "body": "MIT 미디어랩 실험에서 챗봇 없이 가짜뉴스를 가리는 정확도가 4주 만에 15% 떨어졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Detectar noticias falsas\nsolos empeoró 15% en 4 semanas",
+  "body": "En un experimento del MIT Media Lab, la precisión para detectar noticias falsas sin chatbot cayó 15% en 4 semanas.",
+  "lang": "es"
  },
  {
   "id": "music-spectralayers-13",
@@ -18368,10 +18357,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "스펙트럴 편집기 SpectraLayers Pro 13,\n이번엔 복원과 대사 손질을 파고든다",
-  "body": "v12가 음악 언믹싱에 기울었다면 13은 Reconstruct와 Ambience Heal로 복원에 무게를 실었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "SpectraLayers Pro 13, ahora\ncon restauración y diálogo",
+  "body": "Si v12 se inclinó por el unmixing musical, la 13 pone el peso en la restauración con Reconstruct y Ambience Heal.",
+  "lang": "es"
  },
  {
   "id": "music-luminate-ai-label",
@@ -18384,10 +18372,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "차트가 기대는 데이터 원천 Luminate,\n올해 안에 AI 곡에 라벨을 붙인다",
-  "body": "Luminate가 올해 안에 AI로 만든 곡과 아티스트 프로필에 AI Generated 라벨을 붙인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Luminate, la fuente de datos\nde las listas, etiquetará IA",
+  "body": "Luminate añadirá una etiqueta AI Generated a canciones hechas con IA y a perfiles de artistas dentro de este año.",
+  "lang": "es"
  },
  {
   "id": "music-jazz-fingerprint",
@@ -18400,10 +18387,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "녹음만 듣고 재즈 피아니스트를\n94.4%까지 가려낸 AI 모델",
-  "body": "피아니스트 20명의 녹음 84시간을 학습한 모델이 연주자를 94.4% 정확도로 가려냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Un modelo de IA identifica\npianistas de jazz al 94.4%",
+  "body": "Un modelo entrenado con 84 horas de grabaciones de 20 pianistas identificó a los intérpretes con un 94.4% de precisión.",
+  "lang": "es"
  },
  {
   "id": "music-hotone-pulze-jr",
@@ -18416,10 +18402,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "20W 미니 앰프 Hotone Pulze Jr.,\nAI가 톤 프리셋을 대신 짠다",
-  "body": "배터리로 8시간 도는 20W 스테레오 미니 앰프에 앰프 모델 52개와 AI 프리셋 생성이 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Hotone Pulze Jr., un ampli\nde 20W donde la IA crea tonos",
+  "body": "Es un mini amplificador estéreo de 20W con 8h de batería, 52 modelos de amplificador y generación de presets con IA.",
+  "lang": "es"
  },
  {
   "id": "music-chartmetric-flow",
@@ -18432,10 +18417,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "Chartmetric이 내놓은 Flow,\n음악 데이터를 대신 파고드는 에이전트",
-  "body": "Chartmetric이 데이터셋을 훑어 답까지 정리해 주는 AI 에이전트 Flow를 월 60달러에 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Flow, de Chartmetric, escarba\nlos datos de música por ti",
+  "body": "Chartmetric lanzó Flow, un agente de IA que revisa su conjunto de datos y da respuestas, por 60 dólares al mes.",
+  "lang": "es"
  },
  {
   "id": "movies-worldclaw-3d",
@@ -18448,10 +18432,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "텐센트 WorldClaw, 프롬프트에서\n편집 가능한 3D 월드가 나온다",
-  "body": "나무와 건물, 지형이 제각각 손댈 수 있는 3D 오브젝트로 떨어져 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El WorldClaw de Tencent crea\nun mundo 3D editable",
+  "body": "Árboles, edificios y el terreno salen por separado como objetos 3D editables.",
+  "lang": "es"
  },
  {
   "id": "movies-wildbrain-personality-ai",
@@ -18464,9 +18447,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "WildBrain, 실시간 대화 AI\n캐릭터 회사를 인수했다",
-  "body": "Personality AI를 현금 1,100만 달러와 자사주 100만 주에 샀다.",
-  "lang": "ko",
+  "headline": "WildBrain acquired a real-time\nconversational AI character firm",
+  "body": "It bought Personality AI for $11 million in cash plus 1 million shares of its own stock.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18480,10 +18463,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "AI가 VFX 일자리를 줄였다는\n증거는 데이터에 없다",
-  "body": "AI 전담 직군은 전체의 0.1%에 그쳤고, 로토·페인트 인력은 8.7% 늘었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "No hay evidencia en los datos\nde que la IA recortó empleos VFX",
+  "body": "Los puestos dedicados a IA fueron solo el 0.1% del total, y el personal de roto y pintura creció un 8.7%.",
+  "lang": "es"
  },
  {
   "id": "movies-mac-studio-m5",
@@ -18496,10 +18478,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "새 맥 스튜디오의 AI 자랑에서\n편집자에게 남는 것만 추렸다",
-  "body": "M5 Max는 Magic Mask를 M1 Max 대비 최대 5.3배 빠르게 돌린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Del alarde de IA del nuevo\nMac Studio, para el editor",
+  "body": "El M5 Max ejecuta Magic Mask hasta 5.3 veces más rápido que el M1 Max.",
+  "lang": "es"
  },
  {
   "id": "movies-editshare-flow-ai",
@@ -18512,10 +18493,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "EditShare가 AI 전사를\n스토리지 노드 안에 심는다",
-  "body": "EFS 노드에 GPU 기반 Flow AI가 얹혀 13개 언어를 온프렘에서 전사한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "EditShare integra IA de\ntranscripción en el nodo",
+  "body": "Flow AI, basado en GPU, corre en los nodos EFS y transcribe 13 idiomas de forma local.",
+  "lang": "es"
  },
  {
   "id": "games-tanioka-spotify",
@@ -18528,10 +18508,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "크리스탈 크로니클 작곡가 이름으로\nAI 앨범이 스포티파이에 올라왔다",
-  "body": "Kumi Tanioka가 만들지 않은 EP가 그의 이름을 달고 스포티파이에 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "A nombre del compositor de\nCrystal Chronicles: álbum de IA",
+  "body": "Un EP que Kumi Tanioka nunca hizo apareció publicado en Spotify bajo su nombre.",
+  "lang": "es"
  },
  {
   "id": "games-rtx-spark",
@@ -18544,10 +18523,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "EA·유비소프트가 RTX Spark로\n대작 게임과 치트 차단을 옮긴다",
-  "body": "EA와 Embark, 유비소프트가 가을 나올 RTX Spark에 대표작을 올린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "EA y Ubisoft trasladan\njuegos y anticheat a RTX Spark",
+  "body": "EA, Embark y Ubisoft llevarán sus títulos insignia a RTX Spark, que se lanza este otoño.",
+  "lang": "es"
  },
  {
   "id": "games-nordic-ai-studios",
@@ -18560,9 +18538,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "AI가 들어온 북유럽 스튜디오,\n한 사람이 맡는 범위가 넓어진다",
-  "body": "북유럽 관계자 다섯 명이 직군 통합과 섀도 AI 같은 현장의 위험을 함께 꺼냈다.",
-  "lang": "ko",
+  "headline": "At Nordic studios using AI,\none person's role keeps growing",
+  "body": "Five people from the Nordic game industry raised shared on-the-ground risks, from role consolidation to shadow AI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18576,10 +18554,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "AI 아니냐는 의심부터 받은\n휴먼카인드 2 공개 트레일러",
-  "body": "Amplitude Studios는 실사 장면을 배우와 세트에서 찍었다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El tráiler de Humankind 2\ngeneró dudas de IA de entrada",
+  "body": "Amplitude Studios afirmó que las escenas de acción real se filmaron con actores y decorados.",
+  "lang": "es"
  },
  {
   "id": "games-ace-aniimo",
@@ -18592,10 +18569,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "PUBG의 AI 팀원을 만든 기술이\n괴수와 대화하는 RPG에 온다",
-  "body": "엔비디아 ACE가 2027년 초 아니모에 들어가 플레이어가 괴수와 말을 나눈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La IA que creó al aliado de PUBG\nllega a un RPG con monstruos",
+  "body": "Nvidia ACE llegará a Aniimo a comienzos de 2027, y los jugadores podrán hablar con sus monstruos.",
+  "lang": "es"
  },
  {
   "id": "gadgets-perplexity-portable",
@@ -18608,10 +18584,9 @@
   "date": "2026-08-26",
   "section": "gadgets",
   "has_full": true,
-  "headline": "퍼플렉시티 AI가 내 PC 안에서 돌고\n클라우드는 물어본 뒤에만 쓴다",
-  "body": "작업은 내 기기에서 시작하고, 로컬 모델이 버거워하는 단계만 승인을 받아 클라우드로 넘긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La IA de Perplexity corre\nen tu PC; la nube, si se pide",
+  "body": "El trabajo empieza en tu equipo; solo los pasos que el modelo local no domina van a la nube con aprobación.",
+  "lang": "es"
  },
  {
   "id": "gadgets-nothing-os5",
@@ -18624,10 +18599,9 @@
   "date": "2026-08-26",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Nothing OS 5.0 realigns a\nphone's inside and outside",
-  "body": "On top of Android 17, Geist font and transparent widgets reach everything from camera to launcher.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "Nothing OS 5.0 alinea\nen tu PC; la nube, si se pide",
+  "body": "Sobre Android 17, la tipografía Geist y los widgets transparentes llegan de la cámara al launcher.",
+  "lang": "es"
  },
  {
   "id": "gadgets-garmin-epic",
@@ -18820,10 +18794,9 @@
   "date": "2026-08-26",
   "section": "books",
   "has_full": true,
-  "headline": "ChatGPT가 가짜 ISBN까지 붙였다\n독일 카를센, OpenAI 제소",
-  "body": "카를센이 ChatGPT의 『다스 나인호른』 모작을 걸어 OpenAI를 제소했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ChatGPT inventó un ISBN falso\nCarlsen demanda a OpenAI",
+  "body": "La editorial alemana Carlsen demandó a OpenAI por la imitación de su libro 'Das NEINHORN' en ChatGPT.",
+  "lang": "es"
  },
  {
   "id": "science-slac-compress",
@@ -18836,10 +18809,9 @@
   "date": "2026-08-25",
   "section": "science",
   "has_full": true,
-  "headline": "X선 이미지의 스페클은 살리고\n파일 크기는 100분의 1로",
-  "body": "SLAC은 규모별로 쪼개 압축해 스페클을 지키면서 용량을 10~100배 줄인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Conserva el speckle de rayos X\ny reduce el archivo 100 veces",
+  "body": "SLAC divide y comprime los datos por escala, reduciendo el tamaño del archivo de 10 a 100 veces sin perder el speckle.",
+  "lang": "es"
  },
  {
   "id": "science-skala-cp2k",
@@ -18852,10 +18824,9 @@
   "date": "2026-08-25",
   "section": "science",
   "has_full": true,
-  "headline": "마이크로소프트 Skala 범함수\nCP2K에서 바로 돌린다",
-  "body": "AI 교환상관 범함수 Skala가 CP2K에 실려 더 큰 분자계도 정확히 다룬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El funcional Skala de Microsoft\nya corre directo en CP2K",
+  "body": "Skala, un funcional de IA, ya corre en CP2K y trata sistemas moleculares grandes con precisión.",
+  "lang": "es"
  },
  {
   "id": "science-grcop42-print",
@@ -18868,10 +18839,9 @@
   "date": "2026-08-25",
   "section": "science",
   "has_full": true,
-  "headline": "1억 가지 조합 대신 40번 실험\nAI가 찾아낸 로켓 합금 출력법",
-  "body": "AI로 후보를 좁혀 실험 40회 만에 GRCop-42 출력 조건 6가지를 찾아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "100 millones de combinaciones,\n40 pruebas y la IA lo logra",
+  "body": "Al reducir candidatos con IA, los investigadores hallaron seis condiciones de impresión para el GRCop-42 en 40 intentos.",
+  "lang": "es"
  },
  {
   "id": "science-eta-learning",
@@ -18900,10 +18870,9 @@
   "date": "2026-08-25",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 읽어낸 유전자 켜짐 스위치\n사람 유전자 60%에 있었다",
-  "body": "DNA 서열 50만 개를 학습한 AI가 이니시에이터의 염기 패턴을 해독했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "El interruptor genético\nque la IA leyó, en 60% de genes",
+  "body": "Una IA entrenada con 500.000 secuencias de ADN descifró el patrón de bases del iniciador.",
+  "lang": "es"
  },
  {
   "id": "music-trama",
@@ -18916,10 +18885,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "무료 오프라인 스템 분리기 Trama,\n업로드 없이 네 갈래로 쪼갠다",
-  "body": "믹스 파일을 넣으면 보컬과 드럼, 베이스, 나머지 넷으로 인터넷 없이 갈라준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Trama, separador offline\ngratis divide en 4 sin subir",
+  "body": "Trama separa un archivo de mezcla en voz, batería, bajo y el resto sin conexión a internet.",
+  "lang": "es"
  },
  {
   "id": "music-minimax-3",
@@ -18932,10 +18900,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "오픈웨이트 MiniMax Music 3,\n5분짜리 완곡을 통째로 만든다",
-  "body": "가사와 사운드 설명만 주면 최대 5분 길이의 완성곡이 32kHz 스테레오로 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "MiniMax Music 3, de peso abierto\ngenera una canción de 5 min",
+  "body": "Con solo letra y una descripción de sonido, devuelve una canción completa de hasta cinco minutos en estéreo de 32kHz.",
+  "lang": "es"
  },
  {
   "id": "music-cyanite-tagging",
@@ -18948,10 +18915,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "Cyanite Tagging 2.0,\n메타데이터를 읽는 쪽이 AI로 바뀐다",
-  "body": "독일 Cyanite가 카탈로그 태깅 시스템을 Tagging 2.0으로 갈아 끼웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Cyanite Tagging 2.0,\nahora la IA lee los metadatos",
+  "body": "La alemana Cyanite reemplazó su sistema de etiquetado de catálogo por Tagging 2.0.",
+  "lang": "es"
  },
  {
   "id": "music-aria-charts",
@@ -18964,10 +18930,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "AI가 만든 곡은 호주 ARIA 차트에\n8월 28일부터 오르지 못한다",
-  "body": "AI가 전부 또는 대부분 만든 곡은 28일 차트부터 호주 공식 순위에서 빠진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Las canciones hechas con IA\nno entrarán al ARIA desde el 28",
+  "body": "Las canciones hechas total o mayormente por IA quedarán fuera del ranking oficial australiano desde el 28.",
+  "lang": "es"
  },
  {
   "id": "music-ai-search",
@@ -18980,10 +18945,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "AI 검색이 내 공식 사이트를\n먼저 인용하게 만드는 방법",
-  "body": "Preferred Source 버튼을 달면 AI 검색이 내 사이트를 먼저 인용한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Cómo lograr que la IA cite\nprimero tu sitio oficial",
+  "body": "Añadir un botón de Preferred Source hace que las búsquedas con IA citen primero tu sitio.",
+  "lang": "es"
  },
  {
   "id": "movies-sp-hydra",
@@ -19028,10 +18992,9 @@
   "date": "2026-08-25",
   "section": "movies",
   "has_full": true,
-  "headline": "유리에 그린 매트 페인팅으로\n카메라 안에서 끝낸 한 컷",
-  "body": "Camp Miasma 미술감독이 유리에 그린 매트 페인팅 한 컷을 직접 뜯어본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Una matte painting en vidrio\nresuelta por completo en cámara",
+  "body": "Un director de arte de Camp Miasma analiza en persona un plano de matte painting hecho sobre vidrio.",
+  "lang": "es"
  },
  {
   "id": "movies-apple-headsup",
@@ -19044,10 +19007,9 @@
   "date": "2026-08-25",
   "section": "movies",
   "has_full": true,
-  "headline": "애플이 1만 명의 얼굴을 스캔했다\n표정을 옮겨 붙이는 Heads Up",
-  "body": "애플이 한 사람의 표정을 다른 얼굴에 그대로 옮기는 Heads Up 백서를 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Apple escaneó 10.000 rostros\nHeads Up traslada expresiones",
+  "body": "Apple publicó un informe técnico de Heads Up que traslada la expresión de una persona a otro rostro.",
+  "lang": "es"
  },
  {
   "id": "games-spider-walker",

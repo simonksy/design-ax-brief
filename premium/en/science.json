@@ -2830,6 +2830,135 @@
           "x": "Skala isn't a fixed approximation. The model keeps being refined, and features keep being added. Periodic solids like metals and semiconductors, as well as liquid simulations, will be supported soon. CP2K serves as a channel for quickly delivering the latest Skala."
         }
       ]
+    },
+    "science/science-brain-on-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2171044401.jpg?resize=1200,600",
+          "cap": "A keyboard with a single 'AI' key against a blue background. Photo Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Use GPS long enough and your sense of direction fades. Chatbots work the same way: they erode your ability to tell real news from fake."
+        },
+        {
+          "t": "p",
+          "x": "A lot of people keep up with the news through chatbots. But research from a team led by Pattie Maes at the MIT Media Lab points to a serious flaw in that approach."
+        },
+        {
+          "t": "p",
+          "x": "Participants evaluated paired news headlines and images over four weeks. At first, with chatbot assistance, they told fake from real 21% more accurately. By week four, their accuracy at spotting fake news without AI had dropped 15% below where they started. Yet roughly one in four participants said their own skill had improved."
+        },
+        {
+          "t": "p",
+          "x": "The same 'AI dependence paradox' already observed in other fields, including medicine, showed up here too."
+        },
+        {
+          "t": "p",
+          "x": "Anku Rani, a media arts and sciences PhD student and co-first author of the study, put it this way: “People get excited about this 'magical' LLM, but forget that it's just a statistical model predicting the next 'token' in a sequence.” The other co-first author is Valdemar Danry, SM '23, from the same program."
+        },
+        {
+          "t": "p",
+          "x": "The researchers also found clues pointing the other way. Some AI approaches slowed people down in the moment but improved their ability to judge on their own later. Danry said, “AI that just 'tells' you the answer right away builds dependence, while AI that 'asks' Socratically teaches you to work out the truth yourself,” adding, “It's more of a trade-off between speed and effort.”"
+        },
+        {
+          "t": "p",
+          "x": "This article appeared in the September/October 2026 issue of MIT Technology Review."
+        }
+      ]
+    },
+    "science/science-llm-scholar-bench": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "LLM chatbots are widely used as recommendation systems. They speed up access to information, but factual errors and social bias come along with it."
+        },
+        {
+          "t": "p",
+          "x": "The problem grows when LLMs recommend expertise. Computer scientist Lisette Espín-Noboa, a researcher at the Complexity Science Hub, points to academia as an example. “Say a conference organizer uses an LLM to find a keynote speaker. If your name never comes up, you're invisible, and you lose the opportunity.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/complexity-science-hub-1.jpg",
+          "cap": "An overview of LLMScholarBench. It evaluated 22 LLMs on five tasks along two axes: technical quality and social representation. Source Complexity Science Hub"
+        },
+        {
+          "t": "p",
+          "x": "The team first looked for bias in recommendations of physics experts. When six LLMs were asked for scholars in a specific subfield, they mostly named real scientists, but on average 40 percent were in the wrong subfield. The models skewed toward senior, highly cited, male scientists based in the United States."
+        },
+        {
+          "t": "p",
+          "x": "The baseline data covers roughly 450,000 scientists who published in American Physical Society journals from 1893 to 2020. Women make up 14 to 32 percent of physicists depending on subfield and era, yet most models recommended even fewer women than that low baseline, and some included none at all. The same pattern showed up by race. Asian scientists are the largest group in the APS data, but the models overrepresented white scholars, while Black and Latino researchers were often left out entirely."
+        },
+        {
+          "t": "p",
+          "x": "Espín-Noboa's summary is blunt: “These patterns show that LLMs can do more than reflect existing inequality — they can amplify it. It reinforces a rich-get-richer dynamic, where those already visible become more visible, and those already marginalized stay invisible.”"
+        },
+        {
+          "t": "p",
+          "x": "Next, the team built LLMScholarBench, a benchmark that measures technical quality and social representation across nine metrics, and tested four user interventions on 22 LLMs. RAG, which pulls in evidence from the web, improved factual accuracy, and prompt adjustments shifted social representation in the requested direction. Combining both still could not raise every metric at once."
+        },
+        {
+          "t": "p",
+          "x": "The team also checked, across six academic fields, whether the language, region, and role embedded in a prompt changed the recommendations. Region changed them; language and role did not."
+        },
+        {
+          "t": "p",
+          "x": "Adding web search to recent commercial models like Gemini 2.5 Pro and Flash raised factual accuracy but lowered diversity and balance. “Grounding answers in the web doesn't close the representation gap. It imports it instead, because the web itself underrepresents the scholarly community as a whole.” The team sees this bias as structural, not a problem of any one model."
+        }
+      ]
+    },
+    "science/science-predictive-categorization": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Our bodies are flooded with sensory signals at every moment. Photons strike the retina, compressed air hits the eardrum. We navigate that torrent only because the brain compresses an enormous amount of data. This process, called categorization, turns a chaotic, information-dense world into objects, people, concepts, and emotions."
+        },
+        {
+          "t": "p",
+          "x": "Traditional neuroscience placed categorization at the very end of sensory processing — a picture in which the brain takes in details, decodes features, and matches them against prototypes stored in memory. But the same sound can be read completely differently depending on the situation. A rhythmic sound heard on a bright street might be pigeons taking flight, but the same sound in a dark alley at night becomes a stranger's footsteps."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Lisa-Feldman-Barrett-cr.Mark-Karlsberg-Studio-Eleven.webp",
+          "cap": "Lisa Feldman Barrett, who has shown that emotions are constructed by the nervous system to manage energy and action. Photo Mark Karlsberg Studio Eleven"
+        },
+        {
+          "t": "p",
+          "x": "Lisa Feldman Barrett of Northeastern University and Earl Miller of MIT have jointly proposed a new theory of categorization in Nature Reviews Neuroscience. They argue that the brain rebuilds categories moment to moment, drawing not just on sensation and memory but also on the physiological conditions the body currently demands."
+        },
+        {
+          "t": "p",
+          "x": "The key is a reversed order. We feel that categories mirror objective reality, but in fact the brain projects categories onto the world in whatever way survival requires. Before we even become aware of a sensory impression, the brain has already prepared actions to protect the body's energy resources."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/braincategories_spot_sheep-cr-Zara-Picken.webp",
+          "cap": "Illustration Zara Picken for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "The evidence is also in the wiring. Feedback connections that send internally generated predictions downward far outnumber the feedforward connections carrying sensory input upward. Even within the visual cortex, 90 percent of synaptic connections carry feedback."
+        },
+        {
+          "t": "p",
+          "x": "Sensory signals get compressed as they travel deeper into the brain. Physiological signals rising from the body are also compressed, carried along the vagus nerve. The narrowest point where these two funnels meet, like a bow tie, is the limbic core, where categories and the actions tied to them are produced together."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Earl-K-Miller-July-2023-cr.Courtesy-of-Earl-K-Miller.webp",
+          "cap": "Earl Miller, who studies cognition through the dynamics of brain waves at MIT. Photo Courtesy of Earl Miller"
+        },
+        {
+          "t": "p",
+          "x": "This is also why the same stimulus is read differently depending on the situation. When you're tired and hungry, a bruised apple is desperately needed food. When you're rested and full, it's just a disappointing piece of fruit you'd pass by."
+        },
+        {
+          "t": "p",
+          "x": "Barrett and Miller call for moving away from the model in which categories sit filed away like documents in a cabinet called the brain. Categorization, they argue, is not the job of any specific region but an organizing principle woven through the entire nervous system."
+        }
+      ]
     }
   }
 }

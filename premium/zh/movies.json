@@ -2402,6 +2402,223 @@
           "x": "包含完整提示词结构的整段演练可以在MZed上观看。新模块已经对MZed Pro订阅者开放。MZed由CineD所有。"
         }
       ]
+    },
+    "movies/movies-editshare-flow-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "协作式媒体存储与工作流厂商EditShare将在IBC 2026上展示覆盖EFS、Flow AI、MediaSilo和EditShare One的新功能。"
+        },
+        {
+          "t": "p",
+          "x": "核心是面向EFS 310和EFS 410的一体化Ultimate配置，把Flow媒体管理和基于GPU的Flow AI处理都放进了节点内部。此外还将带来多语言转录的扩展、Flow AI与EditShare One的改进，以及MediaSilo下一步形态的预览。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Corporate-for-IBC2026-Pug-with-callouts-1.png",
+          "cap": "IBC 2026上公布的EditShare产品线架构图。"
+        },
+        {
+          "t": "p",
+          "x": "“制作团队如今需要处理的存储平台、工作地点和协作工具比以往任何时候都多，”EditShare首席执行官Brad Turner表示。“我们专注于让这些工作流彼此靠得更近，而不是把客户锁进一个封闭的生态系统。我们在IBC上推出的这些产品，把高性能存储、智能媒体检索和安全协作连接在一起，帮助团队更快找到内容，用更少的人工操作推进项目。”"
+        },
+        {
+          "t": "p",
+          "x": "把共享存储、媒体管理和AI处理整合进同一个盒子，让即便不需要专用GPU系统的团队，也能轻松用上AI媒体检索。"
+        },
+        {
+          "t": "p",
+          "x": "Flow AI分析音频和视频，生成可搜索的结构化元数据。它能检索对白和转录文本，识别场景与人脸，检测标识，并读取画面中的文字。"
+        },
+        {
+          "t": "p",
+          "x": "处理全部在本地完成。由于内容无需发送到外部AI服务，公司可以掌控安全、隐私和数据治理。定价也是不按分钟、不按用量计费的无限制统一价格，系统能承受多少分析量，就可以分析多少。"
+        },
+        {
+          "t": "p",
+          "x": "支持转录的语言增加到13种：英语、加泰罗尼亚语、克罗地亚语、捷克语、丹麦语、荷兰语、法语、德语、希腊语、意大利语、葡萄牙语、西班牙语、土耳其语，希伯来语和阿拉伯语也即将加入。广播机构、制作公司和后期团队由此也能用AI检索来梳理国际内容。被标记的人物和标识，在媒体播放器时间线上也会显示得更清晰。"
+        },
+        {
+          "t": "p",
+          "x": "MediaSilo正从审阅与审批工具，扩展为制作媒体中心。借助新的连接存储功能Media Drives，获得授权的用户可以直接从MediaSilo访问已批准的S3兼容存储，其中包括以S3方式开放的本地EFS以及受支持的第三方平台。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Media-Drive-with-Thumbnails-1.png",
+          "cap": "MediaSilo新连接存储功能Media Drives的界面。"
+        },
+        {
+          "t": "p",
+          "x": "用户可以浏览文件夹，按文件名找到已挂载的媒体，并直接在其存储位置进行预览。由于只需挑选所需文件进行复制，不必在明确需要什么之前就把所有内容都搬过来。搬移之后，还可以用MediaSilo AI检索转录文本、画面文字、人物、标识和场景，同一个工作空间还能处理时间码反馈、版本管理、每日样片和审批跟踪。"
+        },
+        {
+          "t": "p",
+          "x": "外部协作者不必加入制作网络或使用VPN，就能通过浏览器查看内容。取证与可视水印、DRM、过期设置、权限、下载限制和多重认证，共同保护未完成剪辑和未公开素材。"
+        },
+        {
+          "t": "p",
+          "x": "EditShare One让跨EFS和Flow的内容访问与管理变得更快。整个媒体空间或文件夹都可以直接在这里归档和恢复。归档工作流除了Flow已经支持的第三方存储外，现在还加入了对Telestream Diva Archive和Spectra Logic Rio MediaEngine的集成。"
+        }
+      ]
+    },
+    "movies/movies-mac-studio-m5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "苹果推出了搭载M5 Max和M5 Ultra的新款Mac Studio。公司将其称为“向AI迈出的里程碑式一步”。鉴于苹果最近的发布一直如此，这并不算新鲜事。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/new-mac-studio-models.jpg?id=67674924&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+          "cap": "新款Mac Studio机型。图片提供：Apple。"
+        },
+        {
+          "t": "p",
+          "x": "把端侧AI摆在最前面，也是意料之中。不过在一堆AI措辞之间，这款Mac Studio到底能为普通的视频剪辑带来什么，同样值得挖一挖。"
+        },
+        {
+          "t": "p",
+          "x": "最抢眼的数字依然来自AI。苹果表示AI性能提升了4.3倍。旁边还有存储最高2倍、图形1.8倍、CPU 1.3倍的数字，以及提升的内存带宽。对剪辑师来说，这些数字才更令人高兴。"
+        },
+        {
+          "t": "p",
+          "x": "M5 Max机型配备18核CPU，搭配每核都内置神经加速器的最高40核GPU，以及最高128GB的统一内存。M5 Ultra则更进一步，最高配备36核CPU、80核GPU和512GB统一内存。"
+        },
+        {
+          "t": "p",
+          "x": "“Mac Studio是面向端侧AI和世界上最苛刻专业工作流的终极台式机。它安静小巧地摆在桌面上，却凭借强大性能和广泛的专业连接性深受喜爱。今天，我们把这些极限又往前推了一步。”这是苹果硬件技术负责人Johny Srouji所说的话。"
+        },
+        {
+          "t": "p",
+          "x": "在电影和剪辑领域引人注意的是，Wi-Fi 7和Bluetooth 6首次出现在Mac Studio上。Thunderbolt 5也一同加入。"
+        },
+        {
+          "t": "p",
+          "x": "在LM Studio的LLM提示词处理上，M5 Max比M1 Max最高快10.7倍，比M4 Max快3.9倍。文本转图像方面，比M1 Max快7.4倍，比M4 Max快3.5倍。Blackmagic Design DaVinci Resolve Studio中的Magic Mask，比M1 Max快5.3倍，比M4 Max快3倍。起售价为2,499美元。"
+        },
+        {
+          "t": "p",
+          "x": "在Foundry Nuke的CopyCat ML训练上，M5 Ultra比M1 Ultra最高快15.4倍，比M3 Ultra快3.3倍。LM Studio提示词处理比M1 Ultra快9.8倍，文本转图像快8.2倍，Maxon Redshift场景渲染快4.7倍。起售价为5,499美元。"
+        }
+      ]
+    },
+    "movies/movies-vfx-atlas-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Joseph Bell发布了《Visual Effects & Animation World Atlas》第三份年度报告，可在vfxatlas.com免费获取。2026年版涵盖了2,900家公司、超过14万名VFX与动画从业者，并统计出过去12个月的净雇佣增长率为2.7%，高于前一年的1%。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081291-visualeffectsanimationworldatlas2026cover-1280.jpg?itok=ZbpmH_hy",
+          "cap": "《Visual Effects & Animation World Atlas》封面。图片提供：Joseph Bell。"
+        },
+        {
+          "t": "p",
+          "x": "Bell在Industrial Light & Magic、The Mill、FuseFX担任VFX制片人和公司高管长达20年，随后于2024年发布了第一份图鉴。迄今收集的数据已达110万条，读者遍布100个国家，超过1万人。"
+        },
+        {
+          "t": "p",
+          "x": "“视觉特效在20年内从少数几家公司成长为价值数十亿美元的全球产业，”Bell说。“但这仍是一个被严重误解的行业。价值数千美元的市场调研报告把全球从业者数量写成100万人，专家研究则把主要市场的人力规模夸大了250%。这些不靠谱的数字被原样传递给知名媒体和行业决策者。图鉴的制作目的，正是用经过一线经验过滤的数据来纠正这一点。”"
+        },
+        {
+          "t": "p",
+          "x": "洛杉矶在12个月内萎缩1.5%，降幅小于前一年的1.8%，若把VFX和动画合并计算，它依然是最大的中心。温哥华反弹11.3%，蒙特利尔在2022至2025年间人力减少过半之后趋于稳定，多伦多则下滑3.3%。全球最大VFX中心的位置被增长4%的孟买夺得，钦奈和海得拉巴分别以10.8%和7.8%的速度增长最快。爱尔兰增长了13.8%。"
+        },
+        {
+          "t": "p",
+          "x": "大型工作室同样受到关注。“2025年2月Technicolor和MPC倒下之后，业内一度传言在局势稳定前还会有一家全球规模的VFX工作室倒闭，”Bell说。“目前最大的三家是DNEG、Industrial Light & Magic和Framestore，这三家合计雇用了全球12.3%的人力，高于2025年的11%。真正的威胁并非缺乏工作，而是始终紧绷的商业环境。拖垮Technicolor的也不是需求不足，而是无法承受的债务。”"
+        },
+        {
+          "t": "p",
+          "x": "2023年，梦工厂动画联合创始人Jeffrey Katzenberg曾说，制作一部世界级水准的动画电影所需的艺术家人数，到2026年会从500人降到50人以下。“这类言论助长了一种看法，即VFX和动画行业的就业已经被AI削减，”Bell说。“数据中看不到这种痕迹。AI专职岗位是我们数据集中占比最小的一类，2026年只占传统VFX和动画工作室职位的0.1%。它确实在增长——过去12个月增长了68%。”"
+        },
+        {
+          "t": "p",
+          "x": "“AI并没有在传统VFX和动画工作室中大规模取代岗位，也没有大规模创造新岗位。它的影响更为微妙：艺术家们是在自己现有的岗位上采用AI工具，”他补充道。"
+        },
+        {
+          "t": "p",
+          "x": "Roto/Paint岗位在12个月内增长了8.7%。报告将此解读为AI尚未接手这项工作的信号。环境与DMP岗位增长9.3%，FX与模拟增长6.1%，生物TD与CFX增长5.2%，业务开发增长12%，而摄像匹配与跟踪下降1.3%。远程办公比例从8.7%升至10%。"
+        },
+        {
+          "t": "p",
+          "x": "Bell现在通过自己的公司HDRI Intelligence来分析这个行业的数据。"
+        }
+      ]
+    },
+    "movies/movies-wildbrain-personality-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "WildBrain已完成对Personality AI的收购，后者是一家为儿童打造互动角色体验的生成式AI公司。此次交易以约1,100万美元现金加100万股WildBrain股票支付，一年后再支付200万美元。若在2027年至2029年间达成营收目标，最多还可再获得5,600万美元。"
+        },
+        {
+          "t": "p",
+          "x": "Personality AI成立于2025年，专注于为娱乐知识产权打造对话式AI模型。其代表作是与Hasbro共同开发的Amazon Kids+应用Hey Peppa Pig，孩子们可以在玩游戏和互动活动的同时与Peppa对话。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hey-Peppa-Pig.jpg",
+          "cap": "Hey Peppa Pig的宣传图片。"
+        },
+        {
+          "t": "p",
+          "x": "WildBrain计划把这项技术用到现有的制作、特许经营管理和授权业务中，打造以自身持有的知识产权和授权品牌为核心的互动体验。"
+        },
+        {
+          "t": "p",
+          "x": "在公告中，公司特别强调了儿童安全。该产品保持经FTC批准的PRIVO COPPA Safe Harbor Program认证，具备受监控的对话、使用限制和适龄内容过滤功能。WildBrain表示不会保留儿童的语音数据或可识别个人身份的信息。"
+        },
+        {
+          "t": "p",
+          "x": "WildBrain总裁兼首席执行官Josh Scherba表示：“借助Personality AI，粉丝与品牌之间的联系将变得更加紧密，我们也更有能力为合作伙伴提供端到端的特许经营解决方案。”"
+        },
+        {
+          "t": "p",
+          "x": "Personality AI创始人Jon Gosier将在WildBrain担任Personality AI部门高级副总裁。他表示：“我们会在坚持安全、信任与创新的高标准的同时，把我们的能力带给全球更多的品牌、平台和观众。”"
+        },
+        {
+          "t": "p",
+          "x": "在这笔收购之前，还有一次不那么成功的AI尝试。在MeTV Toons播出的《The Super Mario Bros. Super Show!》修复版剧集，画面明显模糊且参差不齐。"
+        },
+        {
+          "t": "p",
+          "x": "这笔投资发生在WildBrain将剩余的Peanuts股份出售给Sony大约11个月之后。那笔交易清偿了公司的债务，也为其腾出了5,000万至1亿美元用于增长投资。"
+        }
+      ]
+    },
+    "movies/movies-worldclaw-3d": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "ZY628bslSYY"
+        },
+        {
+          "t": "p",
+          "x": "Matt Wolfe提到了腾讯的WorldClaw，称其是他今年看到的最令人印象深刻的AI模型之一。"
+        },
+        {
+          "t": "p",
+          "x": "WorldClaw只需一个提示词，就能生成一整个3D世界。它不只是生成背景，场景中放置的每一个物体都会单独呈现出来。"
+        },
+        {
+          "t": "p",
+          "x": "树木、建筑、手推车、路灯，乃至地形，全部都会生成为独立的3D资产。也就是说，可以直接拿去放进项目里进行调整。"
+        },
+        {
+          "t": "p",
+          "x": "拆开来看，内部是图像生成、分割（segmentation），以及腾讯的Hunyuan 2D-to-3D技术相互配合的结果。其结构是把生成的一张场景，转换成一组3D对象。"
+        },
+        {
+          "t": "p",
+          "x": "用途也很有意思：几分钟内拉出一个游戏环境，搭建用于仿真的虚拟世界，或者为机器人在进入现实世界之前打造一个训练空间。"
+        },
+        {
+          "t": "p",
+          "x": "不过目前还无法亲自上手体验。由于尚未公开，Wolfe也表示自己正在观察中。"
+        }
+      ]
     }
   }
 }

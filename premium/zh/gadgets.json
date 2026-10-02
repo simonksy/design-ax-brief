@@ -3082,6 +3082,39 @@
           "x": "测试版明天在nothing.tech开放。Nothing Phone 3率先体验，其他设备会逐步扩展。"
         }
       ]
+    },
+    "gadgets/gadgets-android-xr-translate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "据悉，谷歌正在Android XR的Google Live Translate中测试一种名为「听取范围(Listening area)」的新模式。这很可能成为即将陆续推出的谷歌智能眼镜的招牌功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
+          "cap": "搭载Android XR的Warby Parker眼镜"
+        },
+        {
+          "t": "p",
+          "x": "谷歌一直表示要把实时翻译加入Android XR，所以这并不令人意外。其承诺是通过智能眼镜实现保留说话者语气和音调高低的翻译语音，以及菜单、标牌之类文字的翻译。"
+        },
+        {
+          "t": "p",
+          "x": "这次，拆解了Google Translate应用10.32.66版本的Android Authority发现了两种听取模式。一种是「Front only」，只翻译佩戴者正前方发出的话语，用于一对一对话。另一种是「Surrounding area」，会调动眼镜上的全部麦克风阵列，翻译佩戴者周围所有的说话声。"
+        },
+        {
+          "t": "p",
+          "x": "不过，这是从apk代码中发现的功能，并不保证会真正上线。尽管如此，这与谷歌在智能眼镜发布前不断拓展Android XR的趋势相符。目前已公开的是Gentle Monster和Warby Parker将在今秋推出的镜框，据悉，Gucci母公司开云（Kering）的镜框也在开发中。"
+        },
+        {
+          "t": "p",
+          "x": "实时翻译本来就是谷歌的强项领域。由于必须与Meta的智能眼镜正面竞争，谷歌很可能会把能加的功能统统塞进去。Meta的眼镜也内置了实时翻译。"
+        },
+        {
+          "t": "p",
+          "x": "Meta那边的方式更接近前面提到的「Front only」。翻译后的话语通过眼镜的开放式耳机扬声器播放，而对方则是通过用户手机上显示的翻译字幕来阅读。"
+        }
+      ]
     }
   }
 }

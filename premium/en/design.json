@@ -3334,6 +3334,170 @@
           "x": "The first version of this runtime lived inside just-bash under the name js-exec. It was the layer that installed QuickJS and let agents write TypeScript against the shell's virtual filesystem and commands. Vercel split that layer out and swapped the Node-shaped environment for host functions the application defines, then verified agent-written TypeScript against real tools inside eve. Run SDK runs on Node.js 22.13 or later and on Bun."
         }
       ]
+    },
+    "design/design-claude-code-design": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude Code has picked up five new UI/UX features. Writer Nokka argues that these five don't make Claude smarter, they make it easier to use — and that matters just as much, since no one uses a tool that's hard to use, however good it is."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1p5oqbggtbohl3za9yt.jpg",
+          "cap": "Claude Code's new UI/UX features"
+        },
+        {
+          "t": "p",
+          "x": "First up is /design. It shipped August 17-21 and brings Claude Design's artboard workflow into the CLI and desktop. Typing /design has Claude create an editable artboard for your UI. You pick a layout you like, tweak it, and then have Claude actually build it. Before this, you only wrote code, so you had to guess at the UI yourself or reach for a separate tool. It's still a research preview, so features may change."
+        },
+        {
+          "t": "p",
+          "x": "The Concise output style, released in the same window, leads with the result. It skips preambles and explanations, answering briefly by default, while doing just as thorough a job as the Default style. Error reports, security warnings, and confirmations for destructive actions still stay in place. You switch Output style to Concise in /config, and it requires v2.1.237 or later."
+        },
+        {
+          "t": "p",
+          "x": "July 6-10 brought a browser to the desktop. Claude can now open a web page directly, whether it's a document or a design, and interact with that screen. /doctor (aliased /checkup), which shipped in the same window, diagnoses setup and configuration problems and fixes them on its own. It finds unused skills, MCP servers, and plugins, overlapping CLAUDE.md files, slow hooks, and permission prompts that keep asking for re-approval. It only looks at setup, though, not performance."
+        },
+        {
+          "t": "p",
+          "x": "Screen reader mode arrived July 13-17. Instead of a visual terminal, it produces plain, linear text that VoiceOver or NVDA can read. The writer sums up the direction these five features point in with one line: from a tool for advanced developers to a tool for everyone."
+        }
+      ]
+    },
+    "design/design-figma-path-trim": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "PJgpUYAUzvc"
+        },
+        {
+          "t": "p",
+          "x": "Figma highlights path trim, a feature that controls how much of a path is visible at a given moment to create animations of moving lines."
+        },
+        {
+          "t": "p",
+          "x": "Drawing-on and erasing effects, handwriting animations, and continuously spinning loaders can all be made with path trim. It's one of the newly added Figma Motion primitives."
+        },
+        {
+          "t": "p",
+          "x": "This is a 2-minute 16-second video. It opens with an intro, then covers using path trim in Figma (0:09), applying a path trim animation style (0:38), and applying path trim keyframes (1:17), in that order. The basics of motion design are collected separately in Figma's Motion design fundamentals help collection."
+        }
+      ]
+    },
+    "design/design-meta-xr-operator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta has released Meta XR Operator, an experimental tool that lets AI coding agents build, test, debug, and visually verify VR apps on their own."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+          "cap": "Meta Quest 3 (Image: Meta)"
+        },
+        {
+          "t": "p",
+          "x": "AI agents have let developers read and write code faster, and running tests and catching bugs has sped up too. But the step of checking whether it actually works was missing. Meta released Meta XR Operator as an experimental component of the Meta XR SDK (v205). It's an OpenXR API layer."
+        },
+        {
+          "t": "p",
+          "x": "With XR Operator, any AI agent that supports MCP can see, move around in, and manipulate a VR app running in the Meta XR Simulator. According to Meta, the agent can create a Unity scene on its own, run it, take screenshots, find problems, fix them, and verify that the fix is correct. Natural-language testing is also included: a developer writes a test scenario in words, and the agent runs it as written and returns pass/fail evidence with screenshots attached."
+        },
+        {
+          "t": "p",
+          "x": "Meta ran early tests with a few teams building with the Meta XR SDK, including Beat Games, the maker of Beat Saber. One of those tests was building a tic-tac-toe app in VR. The agent wrote the game logic, pointed a virtual controller at a square, pressed A to place a mark, and played all the way through until the game was won or lost."
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/i879GCHk/tic-tac-toe-vr.mp4"
+        },
+        {
+          "t": "p",
+          "x": "It's not yet a complete verification tool. Operator XR can't hear sound, can't properly judge animation and motion, can't track individual fingers, and can't reliably catch subtle visual defects. It's also too slow for real-time control, which makes dynamic interactions difficult. Meta says it works best in “static, deterministic scenarios.”"
+        },
+        {
+          "t": "p",
+          "x": "It only runs on the Meta XR Core SDK for Unity. That said, Meta says that for other engines that use OpenXR, such as Godot or Unreal Engine, you can grab the standalone package and integrate it yourself."
+        }
+      ]
+    },
+    "design/design-smart-remesh": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4B64MeOynQY"
+        },
+        {
+          "t": "p",
+          "x": "3D artist Milad Kambari has released Smart Remesh, a Blender retopology add-on broadly usable by game artists, hard-surface modelers, and character artists alike."
+        },
+        {
+          "t": "p",
+          "x": "It has separate modes for organic models and hard-surface models. The tool's promise is that it reads a messy original mesh in context and turns it into clean, quad-based geometry. Kambari describes it as suited to headaches like “imported CAD, 3D scans, messy Boolean results, and purchased models with a mess of topology.”"
+        },
+        {
+          "t": "p",
+          "x": "Blender already has plenty of retopology options: native tools, other add-ons, and standalone retopology software, some of it free. Even so, Kambari, who runs the game outsourcing company 3DRedBox, has a track record as an asset creator and educator, and Smart Remesh itself has drawn a good early response."
+        },
+        {
+          "t": "p",
+          "x": "The difference is that it takes the shape of the retopology target into account. Hard-surface mode and organic mode are split apart, and organic mode draws on the older open-source retopology tool Instant Meshes."
+        },
+        {
+          "t": "p",
+          "x": "The more interesting side is hard-surface mode. “It finds the model's real edges, rebuilds each flat panel as a single n-gon, and strips out edge loops that don't hold shape.” “It doesn't move the surface. Every vertex in the result is a vertex the model already had, so silhouettes, fillets, and panel edges come out exactly where they already were.”"
+        },
+        {
+          "t": "p",
+          "x": "There are three presets: for general work, for when fine detail needs to be preserved, and for models with lots of flat panels. You can also adjust the target geometry density yourself. Examples of remeshed results are posted on Superhive's plugin page, including hard-surface assets brought down to very low polygon counts for games or AR."
+        },
+        {
+          "t": "p",
+          "x": "Development is moving fast, too. It first came out six days ago and is already up to version 2.02. Smart Remesh 2 improves UV layout preservation, so multi-tile UV layouts like UDIM stay in place after remeshing. Baking detail from the original high-resolution mesh in Organic mode is now possible too."
+        },
+        {
+          "t": "p",
+          "x": "It runs on Blender 4.2 and later, on Windows, Linux, and macOS. It costs $15."
+        }
+      ]
+    },
+    "design/design-theia-drawing-cad": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A reader named Hugo Manning, who read the previous installment “The agentic era for mechanical design,” wrote in with his experience using agentic AI. He works as the lead product manager for Theia, an AI-assisted tool at Spare Parts 3D (SP3D) that converts 2D drawings into 3D models."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/img_engpaper_thumb2026-aug25.png",
+          "cap": "Theia going from drawing to CAD"
+        },
+        {
+          "t": "p",
+          "x": "The idea itself isn't new. Earlier this year, Dassault Systèmes announced that Leo, one of its three virtual companions, converts PDF drawings into 3D models in xDesign. There's also Ortho2CAD, a vision-language model that generates CAD models from orthographic drawings, and gNucleus AI, which advertises extracting CAD from images. The list goes on."
+        },
+        {
+          "t": "p",
+          "x": "Even so, Manning believes Theia is different from its competitors. “What we deliver is a fully verified file... an engineer looks it over to confirm every dimension and feature is correct,” he said. “That's our value proposition. Most of what the market offers is feeding something into AI and watching what the AI gives back.”"
+        },
+        {
+          "t": "p",
+          "x": "So Theia isn't a standalone AI tool. It's closer to a service that uses AI. The website states that “AI handles geometry extraction and pattern recognition quickly, while engineers handle verification and edge cases.” As long as the 3D model is accurate, it matters little to the user whether AI or a person made it. You upload a drawing and, some time later, receive a 3D STEP file."
+        },
+        {
+          "t": "p",
+          "x": "Time and cost track the complexity of the drawing. They're set automatically based on things like the number of dimensions, the number of views, and the types of geometric features. The price is shown upfront, and runs between €9 and €200 ($10.50 to $233) per drawing. You pay with credits bought through a monthly subscription."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/08/img_theia_complexity.png",
+          "cap": "Each drawing gets a complexity tier and a credit price"
+        },
+        {
+          "t": "p",
+          "x": "Unlike most AI tools, Theia isn't instant, because everything is verified by a person. “We return about 75% of the parts we handle within a day,” Manning said. “Our view is this: it will take longer, but we'll deliver it at much higher quality, and maybe at a higher price.”"
+        }
+      ]
     }
   }
 }

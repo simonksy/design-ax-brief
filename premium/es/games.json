@@ -2812,6 +2812,126 @@
           "x": "Nvidia ha anunciado que la tecnología ACE llega a Aniimo a comienzos de 2027. La página de Steam todavía solo dice \"coming soon\", pero el lanzamiento del juego probablemente sea por esas fechas."
         }
       ]
+    },
+    "games/games-humankind2-ai-doubt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/an-image-of-a-cavewoman-from-the-humankind-2-reveal-trailer.jpg?fit=crop&w=1600&h=900",
+          "cap": "Una escena del tráiler de presentación de Humankind 2. Fuente de la imagen: Amplitude Studios"
+        },
+        {
+          "t": "p",
+          "x": "Gamescom 2026 comenzó, y la controversia estalló apenas terminó el preshow de Opening Night Live. El debut oficial de un juego fue acusado de usar IA. Humankind 2 se presentó junto con un tráiler, pero las escenas de acción real parecían sospechosamente generadas por IA, y no había ningún aviso ni en el canal oficial de YouTube ni en el propio video."
+        },
+        {
+          "t": "p",
+          "x": "Poco después de que se publicara el tráiler, la cuenta oficial de Twitter/X respondió: no se usó IA y pronto se mostrarían fotos de los actores."
+        },
+        {
+          "t": "p",
+          "x": "Actualización, 15:00 ET. La cuenta oficial de Humankind en Twitter/X emitió un comunicado diciendo que el tráiler se filmó en Mu Boyana Film Studios, en Sofía. Actores reales interpretaron las escenas con utilería hecha a medida y decorados físicos. También reafirmó la promesa de publicar fotos detrás de cámaras."
+        },
+        {
+          "t": "video",
+          "yt": "1LFHvSTt880"
+        },
+        {
+          "t": "p",
+          "x": "El Humankind original salió en 2021. Dado el ritmo actual del mercado, la secuela llegó bastante rápido. Pero el entusiasmo se convirtió rápidamente en confusión. El segmento de acción real del tráiler de presentación generó comentarios de “AI slop” (basura generada por IA), junto con palabras más duras."
+        },
+        {
+          "t": "p",
+          "x": "Los comentarios de YouTube se centraron en el tema de la IA. Algunos defendieron que era acción real genuina, pero predominó el tono sarcástico, y pocos comentarios ofrecieron pruebas de que el tráiler no tuviera IA."
+        },
+        {
+          "t": "p",
+          "x": "Los juegos de estrategia y civilización como Humankind suelen recordarse por algo más que los gráficos. Pero la primera conversación en torno a Humankind 2 no fue sobre el juego, sino sobre la sospecha de uso de IA en el tráiler, y esa sospecha se revirtió rápidamente. En respuesta a una publicación eliminada, la cuenta oficial de Humankind en Twitter/X confirmó que no se usó IA para hacer el tráiler, y dijo que también mostraría fotos de los actores."
+        },
+        {
+          "t": "p",
+          "x": "Al menos el debate sobre el uso de IA en el tráiler queda resuelto aquí. Sería aún mejor si esa claridad se extendiera al juego completo. La IA sigue siendo un tema candente, y el rechazo es especialmente fuerte en campos centrados en la creación, como los videojuegos, razón por la cual las páginas de Steam exigen divulgar el uso de IA. Una confirmación transparente como esta alivia las preocupaciones de los jugadores."
+        }
+      ]
+    },
+    "games/games-rtx-spark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Esta semana, en Gamescom, en Colonia, Alemania, NVIDIA presentó los próximos pasos para el gaming RTX: soporte para nuevos juegos, tecnología anti-trampas y mejor calidad de imagen."
+        },
+        {
+          "t": "p",
+          "x": "Electronic Arts, Embark y Ubisoft llevarán sus títulos insignia a NVIDIA RTX Spark, que se lanza este otoño. Esto sigue a KRAFTON, NetEase, Riot Games y XBOX, que anunciaron soporte para RTX Spark en COMPUTEX en mayo."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Body-1-1680x945.jpeg",
+          "cap": "NVIDIA RTX Spark, presentado en Gamescom. Fuente de la imagen: NVIDIA"
+        },
+        {
+          "t": "p",
+          "x": "EA SPORTS F1 25 y Apex Legends de EA, Anno 117: Pax Romana de Ubisoft, y ARC Raiders y THE FINALS de Embark Studios. NVIDIA trabajó de cerca con estos desarrolladores y socios del ecosistema para que estos juegos, entre los más jugados en PC en este momento, funcionen sin problemas en los dispositivos RTX Spark."
+        },
+        {
+          "t": "p",
+          "x": "“Nos entusiasma llevar Anno 117: Pax Romana a una nueva generación de PC basadas en RTX.” Son palabras de Stéphane Jankowski, productor ejecutivo de Ubisoft para Anno 117: Pax Romana. “Nuestro equipo hace que este juego se vea expansivo: distritos enteros, líneas de visión largas, miles de detalles llegando de golpe. Ver a RTX Spark sostener ese nivel de precisión en un solo chip es realmente impresionante.”"
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark reúne agentes de IA personales, creación de contenido avanzada y gaming de alto rendimiento en una sola plataforma. Es un dispositivo diseñado desde cero para la próxima generación de PC con Windows. Para los jugadores, significa un dispositivo Windows con tecnologías RTX como DLSS y Reflex integradas."
+        },
+        {
+          "t": "p",
+          "x": "Hoy, dar soporte al gaming en PC exige más que simplemente hacer que los juegos funcionen. Muchos juegos en línea de gran escala dependen de tecnología anti-trampas sofisticada para mantener el juego limpio en distintas plataformas. NVIDIA ha trabajado con EA para llevar soporte nativo de EA Javelin Anticheat a RTX Spark, cubriendo grandes títulos multijugador de EA como EA SPORTS F1 25. RTX Spark se lanza este otoño."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/08/RTX-Spark-EA-F1-Update-scaled.jpg",
+          "cap": "EA SPORTS F1 25 llega a RTX Spark. Fuente de la imagen: NVIDIA"
+        },
+        {
+          "t": "video",
+          "yt": "3VeAFFry80I"
+        },
+        {
+          "t": "p",
+          "x": "Los anuncios de Gamescom no se limitan a RTX Spark. DLSS 4.5 Ray Reconstruction se abrió hoy, usando un modelo transformer de segunda generación para mejorar aún más la calidad de imagen en escenas con ray tracing y path tracing. Una red de IA entrenada en supercomputadoras de NVIDIA ocupa el lugar de los denoisers tradicionales, reconstruyendo mejores píxeles incluso en áreas del fotograma que los rayos nunca alcanzaron. CONTROL Resonant y 007 First Light incorporarán path tracing. Gears of War: E-Day añade RTX Mega Geometry. RTX Remix lanzó una actualización importante para el mod Painkiller RTX y prepara The Elder Scrolls III: Morrowind RTX. GeForce NOW recibirá nuevos controles de DLSS 4.5 y mayor soporte para Steam Machine."
+        }
+      ]
+    },
+    "games/games-tanioka-spotify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/final-fantasy-crystal-chronicles_WngFDhT.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+          "cap": "Final Fantasy: Crystal Chronicles. Fuente de la imagen: Square Enix"
+        },
+        {
+          "t": "p",
+          "x": "Kumi Tanioka, compositor de Final Fantasy: Crystal Chronicles, habló sobre un álbum que apareció en Spotify con su nombre. El problema es simple: no tiene nada que ver con ese álbum."
+        },
+        {
+          "t": "p",
+          "x": "En una publicación en X, Tanioka dijo que la situación era confusa. Preguntó si el EP de Spotify titulado A Village Built on Wind, atribuido a su nombre, era obra de otra persona con el mismo nombre o algo hecho con IA generativa. “Este álbum definitivamente no es algo que yo haya hecho.”"
+        },
+        {
+          "t": "video",
+          "yt": "nC25vRjpkpU"
+        },
+        {
+          "t": "p",
+          "x": "Tanioka es un artista verificado de Spotify, lo que significa que el servicio lo reconoce como un creador “authentic”. Aun así, el EP se asignó a su nombre. No hay indicios de que él haya participado en el proceso de registro."
+        },
+        {
+          "t": "p",
+          "x": "No es el único confundido. Digital Sonic Design, la editora de parte de su música, también emitió un comunicado. En él señaló que estas pistas no infringen los derechos de autor de la obra de Tanioka, pero que el etiquetado incorrecto podría confundir al público. La empresa también señaló que las mismas pistas aparecen marcadas como generadas por IA en YouTube Music."
+        },
+        {
+          "t": "p",
+          "x": "El comunicado termina así: “Esto parece ser un caso que explota una debilidad estructural de las plataformas de streaming. Dado que ya hubo casos previos de pistas no oficiales e inéditas reproducidas de oído y distribuidas, estamos considerando alguna forma de respuesta.”"
+        }
+      ]
     }
   }
 }

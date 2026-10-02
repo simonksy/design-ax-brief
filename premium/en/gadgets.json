@@ -3402,6 +3402,39 @@
           "x": "Portable Computer won't replace cloud chatbots anytime soon. But it offers an early look at what a more private AI assistant could look like once that kind of hardware becomes affordable."
         }
       ]
+    },
+    "gadgets/gadgets-android-xr-translate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google is reportedly testing a new mode called “Listening area” in Google Live Translate on Android XR. It looks like the kind of thing that could become a signature feature of the Google smart glasses expected to arrive in a steady stream soon."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
+          "cap": "Warby Parker glasses running Android XR"
+        },
+        {
+          "t": "p",
+          "x": "None of this is new, since Google has always said it would build real-time translation into Android XR. The promise was to handle it all through smart glasses: translated speech that preserves the speaker's tone and pitch, and text translation for things like menus and signs."
+        },
+        {
+          "t": "p",
+          "x": "This time, Android Authority dug into version 10.32.66 of the Google Translate app and found two listening modes. One is “Front only,” which translates only speech coming from directly in front of the wearer, for one-on-one conversations. The other is “Surrounding area,” which uses the glasses' full microphone array to translate speech from everywhere around the wearer."
+        },
+        {
+          "t": "p",
+          "x": "That said, since this feature comes from the apk code, there's no guarantee it will actually ship. Still, it fits well with the push to expand Android XR ahead of upcoming smart glasses launches. The frames revealed so far are ones from Gentle Monster and Warby Parker launching this fall, and frames from Kering, Gucci's parent company, are also reportedly in development."
+        },
+        {
+          "t": "p",
+          "x": "Real-time translation has always been a strength of Google's. Since it has to go head-to-head with Meta's smart glasses, Google is likely to pack in every feature it can. Meta's glasses also include real-time translation."
+        },
+        {
+          "t": "p",
+          "x": "Meta's approach is closer to the “Front only” mode mentioned above. The translated speech plays through the glasses' open-ear speakers, while the other person reads translated subtitles that appear on the user's smartphone."
+        }
+      ]
     }
   }
 }

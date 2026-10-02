@@ -3278,6 +3278,39 @@
           "x": "Portable Computer no va a sustituir a los chatbots en la nube de inmediato. Pero ofrece un primer vistazo de cómo podría ser un asistente de IA más privado una vez que ese tipo de hardware se vuelva asequible."
         }
       ]
+    },
+    "gadgets/gadgets-android-xr-translate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según se informa, Google está probando un nuevo modo llamado «área de escucha» (Listening area) en Google Live Translate para Android XR. Parece el tipo de función que podría convertirse en una característica distintiva de las gafas inteligentes de Google que llegarán en serie próximamente."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/08/warby-parker-android-xr.jpg",
+          "cap": "Gafas de Warby Parker con Android XR"
+        },
+        {
+          "t": "p",
+          "x": "Nada de esto es nuevo, ya que Google siempre ha dicho que incorporaría traducción en tiempo real a Android XR. La promesa era lograrlo todo mediante gafas inteligentes: voz traducida que conserva el tono y la entonación del hablante, y traducción de texto para cosas como menús y letreros."
+        },
+        {
+          "t": "p",
+          "x": "Esta vez, Android Authority examinó la versión 10.32.66 de la app Google Translate y encontró dos modos de escucha. Uno es «Front only», que traduce solo el habla que proviene de justo delante de quien lleva las gafas, para conversaciones uno a uno. El otro es «Surrounding area», que usa todo el conjunto de micrófonos de las gafas para traducir el habla que llega de todo el entorno."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, como esta función proviene del código del apk, no hay garantía de que llegue a lanzarse de verdad. Con todo, encaja bien con la tendencia de ampliar Android XR antes del lanzamiento de las gafas inteligentes. Lo revelado hasta ahora son los armazones de Gentle Monster y Warby Parker que saldrán este otoño, y se sabe que también hay armazones de Kering, la empresa matriz de Gucci, en desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "La traducción en tiempo real siempre ha sido un punto fuerte de Google. Como tiene que competir directamente con las gafas inteligentes de Meta, es probable que Google meta todas las funciones que pueda. Las gafas de Meta también incluyen traducción en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "El método de Meta se acerca más al modo «Front only» mencionado antes. El habla traducida se reproduce por los altavoces de oído abierto de las gafas, y la otra persona lee los subtítulos traducidos que aparecen en el teléfono del usuario."
+        }
+      ]
     }
   }
 }

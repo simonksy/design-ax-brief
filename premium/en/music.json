@@ -2944,6 +2944,208 @@
           "x": "Trama v1.0.7 supports 64-bit Windows 10/11 and x86_64 Linux. On macOS, it requires 12 or later and Apple silicon only, leaving out Intel Macs. Because the models and libraries are bundled in whole, the download sizes are large: about 3.1GB for Windows, 500MB for macOS, and 3.9GB for Linux."
         }
       ]
+    },
+    "music/music-chartmetric-flow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/08/news-stories-images-4x3-2026-08-25T101936.088.png?fit=2000%2C1500&ssl=1",
+          "cap": "Chartmetric Flow AI screen"
+        },
+        {
+          "t": "p",
+          "x": "If there's one place in the music industry where AI is being put to real use, it's analytics. Streaming and social data pouring in right up to the minute is great, but reading it is another matter."
+        },
+        {
+          "t": "p",
+          "x": "So this morning Chartmetric unveiled a new tool, ‘Flow AI.’ The company describes it as “the most powerful vertical AI agent built for music professionals.”"
+        },
+        {
+          "t": "p",
+          "x": "It puts a more approachable prompt interface on top of all that data. CEO Sung Cho says it's “not just another AI chatbot.”"
+        },
+        {
+          "t": "p",
+          "x": "“Ask Flow anything — about your roster, your competitors, or the market. It searches Chartmetric's entire dataset, works through the data, and gives you a clear answer instead of raw numbers.” That's from the Flow website."
+        },
+        {
+          "t": "p",
+          "x": "Chartmetric isn't the only analytics company digging into what AI can do. We've covered competitor Viberate releasing an MCP server in June, and Soundcharts has one too. Openstage does the same thing on the artist-owned fan data side."
+        },
+        {
+          "t": "p",
+          "x": "For these companies, AI is both a necessary upgrade and a card that can push revenue higher. A Chartmetric Flow AI subscription starts at $60 a month."
+        },
+        {
+          "t": "p",
+          "x": "Still, the phrase “instead of raw numbers” leaves one question open, because it's a judgment aimed at how music analytics has worked until now — a setup where raw data flows in, and only becomes action once an expert interprets it and hands it off to colleagues like a marketing team."
+        },
+        {
+          "t": "p",
+          "x": "Will an AI-powered analytics era grow the work those experts do, reshape their roles into something more interesting, or cut them out of the loop entirely? It's a question a lot of people are facing these days, standing in front of new AI tools that can now do much of what used to be our job."
+        }
+      ]
+    },
+    "music/music-hotone-pulze-jr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Hotone-Pulze-Jr.-the-Mini-Amp-with-AI-770x425.jpg",
+          "cap": "Hotone Pulze Jr. — a mini amp with AI inside (Photo courtesy of Hotone)"
+        },
+        {
+          "t": "p",
+          "x": "Hotone's newly released Pulze Jr. is a battery-powered portable mini amp for guitarists. It has an AI feature built in that helps you find the tone you want."
+        },
+        {
+          "t": "p",
+          "x": "At its core is a CDCM HD & FIRE modeling system squeezed into mini-amp size. It uses 52 amp models, 48 cabinets, and multiple effects. It shares a retro look with the 5-watt Pulze-Mini, and comes in white and black."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/Hotone-Pulze-Jr.--1024x565.jpg",
+          "cap": "Hotone Pulze Jr., now with AI (Photo courtesy of Hotone)"
+        },
+        {
+          "t": "p",
+          "x": "It also has separate acoustic simulation with matching effects. It stores up to 200 presets. Digital signal processing runs at 24-bit/48kHz, and two 3-inch speakers put out 20 watts in stereo — a solid output given its size."
+        },
+        {
+          "t": "p",
+          "x": "If you want to widen the sound further, it adds up to 20 user IRs and up to 10 Sound Clone / NAM A1 and A2 files. It suits anyone building a virtual rig with their own cabinet simulations or amp profiles."
+        },
+        {
+          "t": "p",
+          "x": "There are several extras too: a 240-second looper, a drum machine and metronome combo with 100 rhythms, and a tuner."
+        },
+        {
+          "t": "video",
+          "yt": "upbERwySu3c"
+        },
+        {
+          "t": "p",
+          "x": "This mini amp uses its head, too. A preset-generation feature powered by Hotone AI pulls up the right sound setting at the press of a button. It also includes AI track separation for preparing backing tracks. Management happens through the Hotone Pulze Editor app, and Bluetooth support covers music streaming or wireless app connection as well."
+        },
+        {
+          "t": "p",
+          "x": "Hotone says the built-in 3000mAh lithium battery lasts about 8 hours playing music continuously at medium volume."
+        },
+        {
+          "t": "p",
+          "x": "Pricing is £260.00/€299.00. It's an amp that works fine sitting in the living room or carried outside. It'll be available soon at Thomann in black and white."
+        }
+      ]
+    },
+    "music/music-jazz-fingerprint": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KNYXM6gnr3xNaLqxeSdXEi.jpg",
+          "cap": "Oscar Peterson at a TV performance filmed in London in March 1984 (Photo: David Redfern/Redferns/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "If any genre seems hardest for AI to analyze, wouldn't it be jazz, with its improvisation and loose structure? A new paper in Nature Machine Intelligence says otherwise."
+        },
+        {
+          "t": "p",
+          "x": "The research was led by Huw Cheston at the University of Cambridge. A large language model identified jazz pianists and even revealed the “musical fingerprint” that set each player apart from the others."
+        },
+        {
+          "t": "p",
+          "x": "Cheston's team fed the machine 1,629 performances by 20 pianists, totaling 84 hours of recordings. The pianists included Bill Evans, Oscar Peterson, Thelonious Monk, Chick Corea, Keith Jarrett, McCoy Tyner, and Ahmad Jamal. The recordings were converted to MIDI and laid out on piano rolls, showing exactly which notes were played, when, and at what pitch."
+        },
+        {
+          "t": "video",
+          "yt": "NSudlBFrmzI"
+        },
+        {
+          "t": "p",
+          "x": "The results held up well. The best-performing model identified the player with 94.4% accuracy. Testing each element on its own, harmony was the most predictive, followed by rhythm and melody. Dynamics was the least accurate."
+        },
+        {
+          "t": "p",
+          "x": "So where does this apply in the real world? The researchers see several uses. One is narrowing down candidate authors for unattributed works, or telling genuine recordings from forgeries. It also exposes the web of influence between artists and offers a window into the creative process itself."
+        },
+        {
+          "t": "p",
+          "x": "The researchers added: “Finally, there's use in education too. It helps train artists to understand the distinctive voices held by major figures in their field.”"
+        },
+        {
+          "t": "p",
+          "x": "To dig deeper into the research, head to the Nature Machine Intelligence site. There's also a web app that lets you browse each pianist's playing style directly."
+        }
+      ]
+    },
+    "music/music-luminate-ai-label": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2025/07/luminate-logo-2025-billboard-1548.jpg?w=1024",
+          "cap": "Luminate, an entertainment data company (Photo courtesy of Luminate)"
+        },
+        {
+          "t": "p",
+          "x": "On Tuesday, August 25, entertainment data company Luminate rolled out a new framework for handling AI music. Starting in the second half of this year, it will begin labeling AI-generated content on its own platform, and that label will be shown directly to client and partner companies as well."
+        },
+        {
+          "t": "p",
+          "x": "This comes just weeks after Apple Music and Spotify each said they'd apply their own AI music labeling by the end of 2026. Luminate combines its own identification technology with collaboration from major streaming services and AI music companies to decide which songs get labeled. Songs or artist profiles the system flags carry an “AI Generated” mark, and if that's a false positive, artists and labels can go through a dedicated review process to have the label reconsidered."
+        },
+        {
+          "t": "p",
+          "x": "In the framework, Luminate CEO Rob Jonas wrote, “This is a starting point. No single organization can handle this issue alone,” and broke the labeling approach into three parts."
+        },
+        {
+          "t": "p",
+          "x": "The proprietary identification system constantly scans streaming data and metadata, adding audio identification tools to track AI-generated music within CONNECT. On the streaming-data side, it absorbs that data through existing partnerships as DSPs roll out their own AI music identification features. Source attribution targets the stage before a song or artist ever reaches a DSP, working directly with AI music companies to obtain attribution data from the moment content is created."
+        },
+        {
+          "t": "p",
+          "x": "The labeling debate goes back to early 2025. Last January, Deezer tagged tracks made 100% with AI, and several others followed this year. Spotify marks “AI Personas” instead of tracks, and Apple Music will apply AI labels later this year based on self-disclosure. The record industry that supplies songs to streaming services also said in July that it supports AI labeling measures."
+        },
+        {
+          "t": "p",
+          "x": "Some have taken a different path. Even as labeling AI music has become the dominant approach to the flood of AI content, Bandcamp and iHeartRadio have banned music that's mostly AI-made outright."
+        },
+        {
+          "t": "p",
+          "x": "Jonas said this about the new framework: “The industry's ability to identify and measure AI-generated music hasn't kept pace with how fast it's multiplying. Visibility needs to improve so we can read the bigger trends, gauge fraud risk, and make sound judgment calls. Luminate has always been the standard of truth for the entertainment industry. Tracking AI-generated music by the same yardstick we apply to every other category is at the core of our mission.”"
+        }
+      ]
+    },
+    "music/music-spectralayers-13": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/S/SteinbergSpectraLayersPro13_01-u5pC3OHIYb38WuLPSQoGGTlTcDNeEnVd.jpg",
+          "cap": "Steinberg SpectraLayers Pro 13 — a boost in modules for dialogue correction and audio restoration"
+        },
+        {
+          "t": "p",
+          "x": "With new and reworked modules arriving together, SpectraLayers Pro 13 stands out especially for people doing post-production work like dialogue correction, audio restoration, or sound design. Steinberg's spectral editor has opened up an even wider set of processing options."
+        },
+        {
+          "t": "p",
+          "x": "Spectral editing has come a long way over the past five years. Both the features themselves, like stem separation and unmixing, and the way users handle demanding audio-processing tools, have improved a great deal. Underneath it all is the rapid progress of machine learning and AI."
+        },
+        {
+          "t": "p",
+          "x": "That's also why Steinberg updates SpectraLayers Pro every year. SpectraLayers Pro 13 arrived right on the heels of v12, which SOS covered in its October 2025 issue. There are several new processing modules, but there's also no shortage of polish to the workflow and UI."
+        },
+        {
+          "t": "p",
+          "x": "If v12 put its weight on music-side unmixing, v13 shifts the focus to post-production work like voice and dialogue processing and audio restoration. The newly added Reconstruct module resynthesizes the spectral data within a file. Its predecessor, Heal, only brought back background noise, but Reconstruct looks at the material surrounding the area to be restored and rebuilds transients and tonal content as well. For small sections, like spots where noise has been removed, its skill at filling in both signal and noise together is quite impressive."
+        },
+        {
+          "t": "p",
+          "x": "The new Ambience Heal module is no less capable. It proves especially useful after running an unmixing pass that pulls dialogue away from the background, which leaves a hole in the background layer. Ambience Heal reads information from the foreground layer holding the extracted voice to point out exactly where the background layer needs fixing. After cleaning up or replacing vocals and laying them back over an evenly filled background, the result comes out noticeably smoother."
+        },
+        {
+          "t": "p",
+          "x": "From the following Speak To… section onward, access is limited to Sound On Sound subscribers."
+        }
+      ]
     }
   }
 }

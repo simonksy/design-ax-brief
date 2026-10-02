@@ -2592,6 +2592,223 @@
           "x": "Credits: director @janedoesnotknow, cinematography @eric_k_yue, production design BTC & MH, art director @jumpintomyfantasywagon, matte painter Erkin Aycan, scenic charge Sean Lavoie, VFX @f_e_n_n_e_r · @niche.vfx, B-camera operator @rasmussteinfoss, executive producer @caddypantida, producers Jeremy Kleiner · Dede Gardner. Many more craftspeople and artists whose names couldn't all be listed here also took part."
         }
       ]
+    },
+    "movies/movies-editshare-flow-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "EditShare, a collaborative media storage and workflow vendor, is showing off new features spanning EFS, Flow AI, MediaSilo, and EditShare One at IBC 2026."
+        },
+        {
+          "t": "p",
+          "x": "At the center is an all-in-one Ultimate configuration for the EFS 310 and EFS 410, which puts Flow media management and GPU-based Flow AI processing inside the node itself. That comes alongside expanded multilingual transcription, improvements to Flow AI and EditShare One, and a preview of what's next for MediaSilo."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Corporate-for-IBC2026-Pug-with-callouts-1.png",
+          "cap": "A diagram of the EditShare product lineup unveiled at IBC 2026."
+        },
+        {
+          "t": "p",
+          "x": "“Production teams now have more storage platforms, locations, and collaboration tools to deal with than ever before,” said EditShare CEO Brad Turner. “We're focused on bringing those workflows closer together without locking customers into a closed ecosystem. What we're introducing at IBC connects high-performance storage, smart media discovery, and secure collaboration. It helps teams find content faster and push projects forward with less manual effort.”"
+        },
+        {
+          "t": "p",
+          "x": "Packing shared storage, media management, and AI processing into one box means even teams that don't need a dedicated GPU system can easily get access to AI media discovery."
+        },
+        {
+          "t": "p",
+          "x": "Flow AI analyzes audio and video to generate searchable, structured metadata. It searches dialogue and transcripts, identifies scenes and faces, detects logos, and reads on-screen text."
+        },
+        {
+          "t": "p",
+          "x": "Processing finishes entirely on-premises. Since content never has to go to an outside AI service, the company keeps control of security, privacy, and data governance. Pricing is also an unlimited flat rate with no per-minute or usage-based charges, so teams can analyze as much as the system can handle."
+        },
+        {
+          "t": "p",
+          "x": "Supported transcription languages grow to 13: English, Catalan, Croatian, Czech, Danish, Dutch, French, German, Greek, Italian, Portuguese, Spanish, and Turkish, with Hebrew and Arabic coming soon. Broadcasters, production companies, and post teams can now sweep even international content with AI search. Tagged people and logos also show up more clearly on the media player timeline."
+        },
+        {
+          "t": "p",
+          "x": "MediaSilo is expanding beyond a review-and-approval tool into a production media hub. With the new connected-storage feature, Media Drives, authorized users can reach approved S3-compatible storage directly from MediaSilo. That includes on-premises EFS exposed via S3 and supported third-party platforms."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Media-Drive-with-Thumbnails-1.png",
+          "cap": "A screen from Media Drives, MediaSilo's new connected-storage feature."
+        },
+        {
+          "t": "p",
+          "x": "Users can browse folders, find mounted media by filename, and preview it right where it's stored. Since only the files you need get copied, there's no need to move everything before you even know what you need. After moving files, MediaSilo AI lets you search transcripts, on-screen text, people, logos, and scenes, while the same workspace handles timecode feedback, version control, dailies, and approval tracking."
+        },
+        {
+          "t": "p",
+          "x": "External collaborators can view content in a browser without joining the production network or using a VPN. Forensic and visual watermarking, DRM, expiration settings, permissions, download restrictions, and multi-factor authentication protect unfinished cuts and unreleased material."
+        },
+        {
+          "t": "p",
+          "x": "EditShare One speeds up content access and management across EFS and Flow. Entire media spaces or folders can be archived and restored directly from here. Archive workflows now also support Telestream Diva Archive and Spectra Logic Rio MediaEngine integration, in addition to the third-party storage Flow already supports."
+        }
+      ]
+    },
+    "movies/movies-mac-studio-m5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple introduced a new Mac Studio with the M5 Max and M5 Ultra on board. The company calls it “a monumental step forward for AI.” Given how Apple's recent announcements have gone, that's nothing new."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/new-mac-studio-models.jpg?id=67674924&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+          "cap": "The new Mac Studio models. Image courtesy of Apple."
+        },
+        {
+          "t": "p",
+          "x": "Putting on-device AI front and center is also expected. But amid all the AI language, it's worth digging out what this Mac Studio actually does for ordinary video editing."
+        },
+        {
+          "t": "p",
+          "x": "The headline numbers are still on the AI side. Apple says AI performance is 4.3 times faster. Alongside that are figures of up to 2 times for storage, 1.8 times for graphics, 1.3 times for CPU, and increased memory bandwidth. For editors, these are the more welcome numbers."
+        },
+        {
+          "t": "p",
+          "x": "The M5 Max model has an 18-core CPU, a GPU with up to 40 cores and a neural accelerator in every core, and up to 128GB of unified memory. The M5 Ultra goes further, with up to a 36-core CPU, up to an 80-core GPU, and 512GB of unified memory."
+        },
+        {
+          "t": "p",
+          "x": "“Mac Studio is the ultimate desktop for on-device AI and the world's most demanding pro workflows. It's been loved for sitting quietly on a desk in a small body while delivering tremendous performance and extensive pro connectivity. Today we've pushed those limits further.” That's from Apple's hardware engineering lead, Johny Srouji."
+        },
+        {
+          "t": "p",
+          "x": "What stands out for film and editing is Wi-Fi 7 and Bluetooth 6, both making their first appearance in a Mac Studio. Thunderbolt 5 comes along with them."
+        },
+        {
+          "t": "p",
+          "x": "The M5 Max is up to 10.7 times faster than the M1 Max, and 3.9 times faster than the M4 Max, on LLM prompt processing in LM Studio. For text-to-image, it's 7.4 times faster than the M1 Max and 3.5 times faster than the M4 Max. Magic Mask in Blackmagic Design DaVinci Resolve Studio is 5.3 times faster than the M1 Max and 3 times faster than the M4 Max. Pricing starts at $2,499."
+        },
+        {
+          "t": "p",
+          "x": "The M5 Ultra is up to 15.4 times faster than the M1 Ultra, and 3.3 times faster than the M3 Ultra, on CopyCat ML training in Foundry Nuke. LM Studio prompt processing is 9.8 times faster than the M1 Ultra, text-to-image is 8.2 times faster, and Maxon Redshift scene rendering is 4.7 times faster. Pricing starts at $5,499."
+        }
+      ]
+    },
+    "movies/movies-vfx-atlas-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Joseph Bell has released the third annual edition of the Visual Effects & Animation World Atlas, available free at vfxatlas.com. The 2026 edition covers more than 140,000 VFX and animation workers at 2,900 companies, and puts net employment growth at 2.7% over the past 12 months, up from 1% the year before."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081291-visualeffectsanimationworldatlas2026cover-1280.jpg?itok=ZbpmH_hy",
+          "cap": "Cover of the Visual Effects & Animation World Atlas. Image courtesy of Joseph Bell."
+        },
+        {
+          "t": "p",
+          "x": "Bell spent 20 years as a VFX producer and company executive at Industrial Light & Magic, The Mill, and FuseFX before releasing the first Atlas in 2024. The data gathered so far totals 1.1 million records, with more than 10,000 readers across 100 countries."
+        },
+        {
+          "t": "p",
+          "x": "“Visual effects grew from a handful of companies into a multi-billion-dollar global industry in just two decades,” Bell said. “And yet it's still a poorly understood business. Market research reports costing thousands of dollars put the global workforce at a million people, and expert studies inflate the major-market workforce by 250%. These bad numbers travel straight into reputable media and industry decision-makers. The Atlas was built to correct that with data filtered through real-world experience.”"
+        },
+        {
+          "t": "p",
+          "x": "Los Angeles shrank 1.5% over 12 months, a smaller drop than the 1.8% the year before, and remains the largest hub when VFX and animation are combined. Vancouver rebounded 11.3%, Montreal held steady after losing more than half its workforce between 2022 and 2025, and Toronto slipped 3.3%. The title of world's largest VFX hub went to Mumbai, which grew 4%, while Chennai and Hyderabad are growing fastest at 10.8% and 7.8% respectively. Ireland grew 13.8%."
+        },
+        {
+          "t": "p",
+          "x": "Major studios also came under scrutiny. “After Technicolor and MPC collapsed in February 2025, there was talk that one more global-scale VFX studio would fall before the industry stabilized,” Bell said. “The three biggest now are DNEG, Industrial Light & Magic, and Framestore, and together they employ 12.3% of the global workforce, up from 11% in 2025. The real threat isn't a shortage of work but the business environment, which is always tight. What brought down Technicolor wasn't a lack of demand but debt it couldn't handle.”"
+        },
+        {
+          "t": "p",
+          "x": "In 2023, DreamWorks Animation co-founder Jeffrey Katzenberg said the number of artists needed for a world-class animated film would drop from 500 to under 50 by 2026. “Comments like that spread the perception that VFX and animation industry employment has already been cut by AI,” Bell said. “The data shows no trace of that. AI-dedicated roles are the smallest slice in our dataset: 0.1% of traditional VFX and animation studio jobs in 2026. They are growing, though — up 68% over the past 12 months.”"
+        },
+        {
+          "t": "p",
+          "x": "“AI hasn't meaningfully replaced jobs at traditional VFX and animation studios, nor has it created them at any real scale. The effect is subtler: artists are adopting AI tools within the roles they already hold,” he added."
+        },
+        {
+          "t": "p",
+          "x": "Roto and paint roles grew 8.7% over 12 months. The report reads this as a sign that AI hasn't taken over that work yet. Environment and DMP grew 9.3%, FX and simulation 6.1%, creature TD and CFX 5.2%, and business development 12%, while match move and tracking fell 1.3%. Remote work rose from 8.7% to 10%."
+        },
+        {
+          "t": "p",
+          "x": "Bell now analyzes industry data through his own company, HDRI Intelligence."
+        }
+      ]
+    },
+    "movies/movies-wildbrain-personality-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "WildBrain has completed its acquisition of Personality AI, a generative AI company that builds interactive character experiences for children. It paid about $11 million in cash plus 1 million shares of WildBrain stock, with another $2 million due a year later. Up to an additional $56 million could follow if revenue targets between 2027 and 2029 are met."
+        },
+        {
+          "t": "p",
+          "x": "Founded in 2025, Personality AI builds conversational AI models for entertainment IP. Its flagship work is Hey Peppa Pig, an Amazon Kids+ app made with Hasbro, in which kids talk back and forth with Peppa while playing games and activities."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/08/Hey-Peppa-Pig.jpg",
+          "cap": "Hey Peppa Pig promotional image."
+        },
+        {
+          "t": "p",
+          "x": "WildBrain plans to apply this technology to its existing production, franchise management, and licensing business, building interactive experiences centered on its own IP and licensed brands."
+        },
+        {
+          "t": "p",
+          "x": "In its announcement, the company emphasized child safety. The product maintains certification under the FTC-approved PRIVO COPPA Safe Harbor Program, with monitored conversations, usage limits, and age-appropriate content filters. WildBrain said it retains no children's voice data or personally identifiable information."
+        },
+        {
+          "t": "p",
+          "x": "WildBrain President and CEO Josh Scherba said, “Personality AI lets fans connect with brands in a much more continuous way, and it strengthens our ability to offer partners end-to-end franchise solutions.”"
+        },
+        {
+          "t": "p",
+          "x": "Personality AI founder Jon Gosier will serve as Senior Vice President of the Personality AI division at WildBrain. He said, “We'll bring our capabilities to more brands, platforms, and audiences around the world while holding to a high standard of safety, trust, and innovation.”"
+        },
+        {
+          "t": "p",
+          "x": "This acquisition follows a less successful AI attempt. Restored episodes of The Super Mario Bros. Super Show! that aired on MeTV Toons showed noticeably blurred, uneven footage."
+        },
+        {
+          "t": "p",
+          "x": "The investment comes about 11 months after WildBrain sold its remaining stake in Peanuts to Sony. That sale erased the company's debt and freed up $50 million to $100 million for growth investment."
+        }
+      ]
+    },
+    "movies/movies-worldclaw-3d": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "ZY628bslSYY"
+        },
+        {
+          "t": "p",
+          "x": "Matt Wolfe called out Tencent's WorldClaw, saying it's among the most impressive AI models he's seen this year."
+        },
+        {
+          "t": "p",
+          "x": "WorldClaw builds an entire 3D world from a single prompt. It doesn't just produce a backdrop — every object placed within it comes out separately."
+        },
+        {
+          "t": "p",
+          "x": "Trees, buildings, carts, streetlights, even terrain are all generated as individual 3D assets. That means you can take them straight into your work and manipulate them."
+        },
+        {
+          "t": "p",
+          "x": "Under the hood, image generation, segmentation, and Tencent's Hunyuan 2D-to-3D technology work together. The structure turns a single generated scene into a bundle of 3D objects."
+        },
+        {
+          "t": "p",
+          "x": "The use cases are interesting too: pulling together a game environment in minutes, building a virtual world for simulation, or creating a space for a robot to train in before it heads into the real world."
+        },
+        {
+          "t": "p",
+          "x": "It's not hands-on yet, though. Since it hasn't been released, Wolfe said he's watching and waiting too."
+        }
+      ]
     }
   }
 }

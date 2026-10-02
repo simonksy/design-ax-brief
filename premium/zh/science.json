@@ -2702,6 +2702,94 @@
           "x": "Skala不是一个固定不变的近似方法。这个模型会持续打磨,功能也会不断增加。金属和半导体等周期性固体,以及液体模拟,也即将获得支持。CP2K将成为快速输送最新版Skala的通道。"
         }
       ]
+    },
+    "science/science-brain-on-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2171044401.jpg?resize=1200,600",
+          "cap": "蓝色背景上，键盘上只放着一个'AI'键。照片 Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "长期依赖GPS会让人方向感变差，聊天机器人也是如此——它会一点点侵蚀人辨别新闻真假的能力。"
+        },
+        {
+          "t": "p",
+          "x": "许多人靠聊天机器人追踪新闻。但MIT媒体实验室Pattie Maes团队发布的研究指出，这种方式存在一个很大的漏洞。"
+        },
+        {
+          "t": "p",
+          "x": "参与者在四周时间里评估成对出现的新闻标题和图片。一开始，借助聊天机器人的帮助，他们辨别真假的准确率提高了21%。到第四周，脱离AI独自辨别假新闻的准确率，比实验开始前还下降了15%。可偏偏大约四分之一的参与者认为自己的能力提高了。"
+        },
+        {
+          "t": "p",
+          "x": "医疗等其他领域此前已经观察到的“AI依赖悖论”，在这里又重演了一次。"
+        },
+        {
+          "t": "p",
+          "x": "这项研究的共同第一作者、媒体艺术与科学博士生Anku Rani这样说：“人们会为这种‘魔法般’的LLM感到兴奋，却忘了它不过是一个预测序列中下一个‘token’的统计模型。”另一位共同第一作者是同一项目的Valdemar Danry，SM '23。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队也发现了相反方向的线索：有些AI用法当下会拖慢人的判断速度，却在后来提升了独立判断的能力。Danry表示：“直接给出答案、替你‘说出来’的AI会加深依赖，而用苏格拉底式提问‘反问’你的AI，会让你学会自己辨别真相”，并称“这更像是速度和努力之间的权衡”。"
+        },
+        {
+          "t": "p",
+          "x": "这篇文章刊登在《MIT Technology Review》2026年9/10月号上。"
+        }
+      ]
+    },
+    "science/science-predictive-categorization": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "我们的身体每时每刻都被感觉信号淹没：光子撞击视网膜，压缩的空气敲击耳膜。能在这股洪流中前行，全靠大脑压缩海量数据。这一过程被称为范畴化，它把混乱、信息密集的世界转化为物体、人、概念和情感。"
+        },
+        {
+          "t": "p",
+          "x": "传统神经科学把范畴化放在感觉处理的最后一步：大脑接收细节、解码特征，再与记忆中的原型进行比对。但同一种声音在不同情境下的解读可能完全不同。明亮街道上听到的有节奏的声音，是鸽子起飞的声音；而在夜晚黑暗的巷子里，它会变成陌生人的脚步声。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Lisa-Feldman-Barrett-cr.Mark-Karlsberg-Studio-Eleven.webp",
+          "cap": "Lisa Feldman Barrett一直以来展示情绪是神经系统为管理能量和行为而构建出来的。图片 Mark Karlsberg Studio Eleven"
+        },
+        {
+          "t": "p",
+          "x": "Northeastern University的Lisa Feldman Barrett与MIT的Earl Miller在Nature Reviews Neuroscience上共同提出了一种新的范畴化理论。他们认为，大脑不仅依靠感觉和记忆，还会纳入身体此刻所需的生理条件，逐时重新构建范畴。"
+        },
+        {
+          "t": "p",
+          "x": "核心在于顺序被颠倒了。我们感觉范畴映照出客观实在，但实际上，大脑是按照生存所需把范畴投射到世界上的。在我们意识到感觉印象之前，大脑已经准备好了保护身体能量资源的行动。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/braincategories_spot_sheep-cr-Zara-Picken.webp",
+          "cap": "插图 Zara Picken for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "证据也体现在神经连接方式上。把内部生成的预测向下传递的反馈连接，远多于把感觉信息向上传递的前馈连接。即便在视觉皮层内部，90%的突触连接也承担着反馈功能。"
+        },
+        {
+          "t": "p",
+          "x": "感觉信号越往大脑内部传递就越被压缩。从身体传来的生理信号也会沿迷走神经被压缩。这两个漏斗像蝴蝶结一样相遇的最窄处，就是边缘核心(limbic core)，范畴与伴随其产生的行为在这里一同生成。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Earl-K-Miller-July-2023-cr.Courtesy-of-Earl-K-Miller.webp",
+          "cap": "Earl Miller，在MIT通过脑波动力学研究认知。图片 Courtesy of Earl Miller"
+        },
+        {
+          "t": "p",
+          "x": "同一刺激在不同情境下被解读不同的原因也在于此。疲惫又饥饿时，一个有瘀伤的苹果是急需的食物；休息充分又吃饱时，它只是一个会被忽略的、不怎么样的水果。"
+        },
+        {
+          "t": "p",
+          "x": "Barrett和Miller呼吁摆脱这样一种模型：范畴像文件一样被存放在大脑这个档案柜里。他们认为，范畴化不是某个特定脑区的职责，而是渗透在整个神经系统中的一种组织原理。"
+        }
+      ]
     }
   }
 }

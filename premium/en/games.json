@@ -2935,6 +2935,169 @@
           "x": "Nvidia has signaled that ACE technology is coming to Aniimo in early 2027. The Steam page still just says \"coming soon,\" but the game's launch is probably around the same time."
         }
       ]
+    },
+    "games/games-humankind2-ai-doubt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/08/an-image-of-a-cavewoman-from-the-humankind-2-reveal-trailer.jpg?fit=crop&w=1600&h=900",
+          "cap": "A scene from the Humankind 2 reveal trailer. Image source: Amplitude Studios"
+        },
+        {
+          "t": "p",
+          "x": "Gamescom 2026 had just begun, and controversy broke out before the Opening Night Live pre-show had even ended. A game's official debut was accused of using AI. Humankind 2 was unveiled with a trailer, but the live-action scenes looked suspiciously like AI, and there was no disclosure on the official YouTube channel or in the video itself."
+        },
+        {
+          "t": "p",
+          "x": "Right after the trailer dropped, the official Twitter/X account responded, saying no AI was used and that photos of the actors would be shared soon."
+        },
+        {
+          "t": "p",
+          "x": "Update, 15:00 ET. The official Humankind Twitter/X account issued a statement saying the trailer was shot at Mu Boyana Film Studios in Sofia. Real actors performed with custom-made props on physical sets. The account reaffirmed its promise to release behind-the-scenes photos."
+        },
+        {
+          "t": "video",
+          "yt": "1LFHvSTt880"
+        },
+        {
+          "t": "p",
+          "x": "The original Humankind came out in 2021. Given today's market pace, a sequel this soon counts as fast. But anticipation quickly turned into confusion. The reveal trailer's live-action segment drew comments calling it “AI slop,” along with harsher words."
+        },
+        {
+          "t": "p",
+          "x": "YouTube comments were dominated by talk of AI. Some defended it as genuine live-action, but most were sarcastic, and few comments offered evidence that the trailer had no AI."
+        },
+        {
+          "t": "p",
+          "x": "Strategy and civilization games like Humankind are remembered for things other than graphics. Yet the first conversation around Humankind 2 wasn't about the game but about alleged AI use in the trailer, and that allegation was quickly reversed. Responding to a deleted post, the official Humankind Twitter/X account confirmed that no AI was used in making the trailer, and said it would show photos of the actors too."
+        },
+        {
+          "t": "p",
+          "x": "At least the debate over AI use in the trailer settles here. It would be even better if that clarity carried through to the full game. AI remains a hot topic, and the backlash is especially strong in creativity-driven fields like games, which is why Steam game pages are required to disclose AI use. Transparent confirmation like this eases players' concerns."
+        }
+      ]
+    },
+    "games/games-nordic-ai-studios": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/140900/89606/ainordicsmainimage_l1200.jpg",
+          "cap": "Five people weighing in on AI adoption in the Nordic game industry. Image source: PocketGamer.biz"
+        },
+        {
+          "t": "p",
+          "x": "This is the first installment of a series on AI in the Nordic game industry. We spoke with five people close to that change: two studio founders, a co-founder of an AI-native studio, a lawyer specializing in games, and a business development manager who works across several studios."
+        },
+        {
+          "t": "p",
+          "x": "Mikael Gummerus, chairman and co-founder of Dodreams, whose Drive Ahead! has passed 300 million organic downloads, speaks candidly about how far AI has come into the company. “At Dodreams, the biggest thing AI has changed is data analysis, and turning that data into actionable suggestions. Manual work has dropped a lot, and we use fewer separate systems. We even get insights we didn't have the staff to find before.” Unity development and art haven't seen the same leap yet. Since those areas are hands-on, the gains are gradual."
+        },
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/140897/89606/mikaelandtatu_1200.jpg",
+          "cap": "From left: Mikael Gummerus of Dodreams, Tatu Petersen-Jessen of Odd Latent. Image source: PocketGamer.biz"
+        },
+        {
+          "t": "p",
+          "x": "Tatu Petersen-Jessen, who previously worked as senior art director at Rovio and art team manager at Remedy, built Odd Latent as an openly AI-native studio. The change he sees isn't a new title but how much scope one person handles. “We call that role a ‘game specialist.’ It's effectively a one-person game team moving between art, design, and code.” What has disappeared isn't individual craft but the narrow job of working in just one discipline and handing off to the next specialist. “I think it's closer to returning to how game development originally worked, before complexity and competition drove up team size and division of labor.”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/140899/89606/oliviaandtuomas_1200.jpg",
+          "cap": "From left: Olivia Tunkelo of Brimstone AI, Tuomas Pelkonen of Nordia Law. Image source: PocketGamer.biz"
+        },
+        {
+          "t": "p",
+          "x": "Olivia Tunkelo, COO and co-founder of Brimstone AI, says the company sits in a peculiar spot. “Brimstone is at a unique intersection where adoption and resistance overlap, because it's an AI product for people who are against AI.” Internally, AI-assisted development is used to quickly test expected features, with finishing touches done by hand. She said the goal of keeping human creativity at the center hasn't changed because of AI."
+        },
+        {
+          "t": "p",
+          "x": "The question itself that reaches Tuomas Pelkonen, a lawyer at Nordia Law, hasn't changed: do you see risk in using AI this way? What has changed is the density of explanation needed and the number of use cases. The question of what the AI Act actually requires of studios also keeps coming up. “Especially in triple-A, players may simply refuse to accept AI-generated content. The older the brand, the deeper the attachment fans have to their favorite games and characters, so they can't stand even the thought that it might have been made with AI.” Also up for discussion is ‘shadow AI,’ where developers secretly use tools the studio hasn't adopted. If someone, pressed by a deadline, touches it alone without disclosing it, the company only finds out after launch — and by then it's both a commercial and a legal problem."
+        },
+        {
+          "t": "p",
+          "x": "Hind Toufga, who handles business development across several studios, sees adoption maturing quickly. It covers coding assistance, automated testing, QA, localization, data analysis, concept development, and repetitive tasks. “The most interesting part is that AI isn't replacing creative staff — it's letting small teams work faster and freeing developers to spend more time where human creativity and judgment are truly needed.” She said the studios that gain the most aren't the ones using AI the most, but the ones that know where their pipeline actually improves."
+        }
+      ]
+    },
+    "games/games-rtx-spark": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This week, at Gamescom in Cologne, Germany, NVIDIA laid out the next steps for RTX gaming: support for new games, anti-cheat technology, and improved image quality."
+        },
+        {
+          "t": "p",
+          "x": "Electronic Arts, Embark and Ubisoft are bringing flagship titles to NVIDIA RTX Spark, which launches this fall. That follows KRAFTON, NetEase, Riot Games and XBOX, which announced RTX Spark support at COMPUTEX in May."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Body-1-1680x945.jpeg",
+          "cap": "NVIDIA RTX Spark, unveiled at Gamescom. Image source: NVIDIA"
+        },
+        {
+          "t": "p",
+          "x": "EA's EA SPORTS F1 25 and Apex Legends, Ubisoft's Anno 117: Pax Romana, and Embark Studios' ARC Raiders and THE FINALS. NVIDIA worked closely with these developers and ecosystem partners to ensure these games, among the most played on PC right now, run smoothly on RTX Spark devices."
+        },
+        {
+          "t": "p",
+          "x": "“We're excited to bring Anno 117: Pax Romana to a new generation of RTX-based PCs.” That's from Stéphane Jankowski, executive producer at Ubisoft for Anno 117: Pax Romana. “Our team makes this game look expansive — whole districts, long sightlines, thousands of details pouring in all at once. Seeing RTX Spark hold up that level of precision on a single chip is really impressive.”"
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark brings together personal AI agents, advanced content creation, and high-performance gaming on a single platform. It's a device designed from the ground up for the next generation of Windows PCs. For gamers, it means a Windows device with RTX technologies like DLSS and Reflex built in."
+        },
+        {
+          "t": "p",
+          "x": "Supporting PC gaming today takes more than just getting games running. Many large online games rely on sophisticated anti-cheat technology to keep play fair across platforms. NVIDIA has been working with EA to bring native support for EA Javelin Anticheat to RTX Spark, covering major EA multiplayer titles like EA SPORTS F1 25. RTX Spark launches this fall."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/08/RTX-Spark-EA-F1-Update-scaled.jpg",
+          "cap": "EA SPORTS F1 25 coming to RTX Spark. Image source: NVIDIA"
+        },
+        {
+          "t": "video",
+          "yt": "3VeAFFry80I"
+        },
+        {
+          "t": "p",
+          "x": "The Gamescom announcements aren't limited to RTX Spark. DLSS 4.5 Ray Reconstruction opened up starting today, using a second-generation transformer model to further boost image quality in ray- and path-traced scenes. An AI network trained on NVIDIA supercomputers takes the place of traditional denoisers, reconstructing better pixels even in frame areas rays never reached. CONTROL Resonant and 007 First Light are getting path tracing. Gears of War: E-Day adds RTX Mega Geometry. RTX Remix released a major update for the Painkiller RTX mod and is preparing The Elder Scrolls III: Morrowind RTX. GeForce NOW is getting new DLSS 4.5 controls and expanded Steam Machine support."
+        }
+      ]
+    },
+    "games/games-tanioka-spotify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/final-fantasy-crystal-chronicles_WngFDhT.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp",
+          "cap": "Final Fantasy: Crystal Chronicles. Image source: Square Enix"
+        },
+        {
+          "t": "p",
+          "x": "Kumi Tanioka, composer of Final Fantasy: Crystal Chronicles, has spoken out about an album that appeared on Spotify under his name. The issue is simple: he has nothing to do with it."
+        },
+        {
+          "t": "p",
+          "x": "In a post on X, Tanioka said the situation was confusing. He asked whether the Spotify EP credited to his name, titled A Village Built on Wind, was the work of someone else with the same name, or something made with generative AI. “This album is definitely not something I made.”"
+        },
+        {
+          "t": "video",
+          "yt": "nC25vRjpkpU"
+        },
+        {
+          "t": "p",
+          "x": "Tanioka is a verified Spotify artist, meaning the service has recognized him as an “authentic” creator. Even so, the EP was assigned to his name. There's no sign that he was involved in the registration process."
+        },
+        {
+          "t": "p",
+          "x": "He isn't the only one confused. Digital Sonic Design, the publisher behind some of his music, also issued a statement. It said the tracks don't infringe on the copyright of Tanioka's work, but the mislabeling could confuse the public. The company also noted that the same tracks are marked as AI-generated on YouTube Music."
+        },
+        {
+          "t": "p",
+          "x": "The statement closes this way: “This looks like a case that exploits a structural weakness in streaming service platforms. Given past instances where unreleased, unofficial tracks were reproduced by ear and distributed, we're considering some form of response.”"
+        }
+      ]
     }
   }
 }

@@ -3274,6 +3274,132 @@
           "x": "La primera versión de este runtime vivía dentro de just-bash con el nombre js-exec. Era la capa que instalaba QuickJS y dejaba que los agentes escribieran TypeScript contra el sistema de archivos virtual y los comandos del shell. Vercel separó esa capa y sustituyó el entorno con forma de Node por funciones host que define la aplicación, y verificó en eve el TypeScript escrito por agentes contra herramientas reales. Run SDK funciona en Node.js 22.13 o superior y en Bun."
         }
       ]
+    },
+    "design/design-claude-code-design": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude Code ha incorporado cinco nuevas funciones de UI/UX. El autor Nokka sostiene que estas cinco no hacen a Claude más inteligente, sino más fácil de usar, y eso importa igual de mucho, porque nadie usa una herramienta difícil de manejar, por buena que sea."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1p5oqbggtbohl3za9yt.jpg",
+          "cap": "Las nuevas funciones de UI/UX de Claude Code"
+        },
+        {
+          "t": "p",
+          "x": "El primero es /design. Salió del 17 al 21 de agosto y traslada el flujo de trabajo de tableros de Claude Design a la CLI y al escritorio. Al escribir /design, Claude crea un tablero editable para tu UI. Eliges el diseño que te gusta, lo ajustas y luego le pides a Claude que lo implemente de verdad. Antes solo se escribía código, así que había que imaginar la UI por cuenta propia o recurrir a otra herramienta. Todavía es una vista previa de investigación, así que las funciones pueden cambiar."
+        },
+        {
+          "t": "p",
+          "x": "El estilo de salida Concise, lanzado en el mismo periodo, da el resultado primero. Se salta los preámbulos y las explicaciones, respondiendo brevemente por defecto, pero trabaja con el mismo cuidado que el estilo Default. Los informes de error, las advertencias de seguridad y las confirmaciones de acciones destructivas siguen igual. Basta con cambiar Output style a Concise en /config, y se necesita la versión v2.1.237 o posterior."
+        },
+        {
+          "t": "p",
+          "x": "Del 6 al 10 de julio llegó un navegador al escritorio. Claude puede abrir directamente una página web, ya sea un documento o un diseño, e interactuar con esa pantalla. /doctor (con el alias /checkup), lanzado en el mismo periodo, diagnostica problemas de instalación y configuración y los corrige por sí mismo. Detecta skills, servidores MCP y plugins sin usar, archivos CLAUDE.md duplicados, hooks lentos y prompts de permisos que siguen pidiendo nueva aprobación. Solo revisa la configuración, no el rendimiento."
+        },
+        {
+          "t": "p",
+          "x": "Del 13 al 17 de julio se añadió el modo de lector de pantalla. En lugar de una terminal visual, genera texto lineal sencillo que VoiceOver o NVDA pueden leer. El autor resume en una línea hacia dónde apuntan estas cinco funciones: de ser una herramienta para desarrolladores avanzados a ser una herramienta para todos."
+        }
+      ]
+    },
+    "design/design-figma-path-trim": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "PJgpUYAUzvc"
+        },
+        {
+          "t": "p",
+          "x": "Figma destaca el recorte de trayecto (path trim), una función que controla cuánto se ve de un trayecto en un momento dado para crear animaciones de líneas en movimiento."
+        },
+        {
+          "t": "p",
+          "x": "Efectos de dibujado o borrado, animaciones de escritura a mano y loaders que giran sin parar pueden hacerse con el recorte de trayecto. Es una de las nuevas primitivas de Figma Motion."
+        },
+        {
+          "t": "p",
+          "x": "Es un video de 2 minutos 16 segundos. Empieza con una introducción y sigue con el uso del recorte de trayecto en Figma (0:09), la aplicación de un estilo de animación de recorte de trayecto (0:38) y la aplicación de keyframes de recorte de trayecto (1:17). Los fundamentos del diseño de movimiento están reunidos aparte en la colección Motion design fundamentals de la ayuda de Figma."
+        }
+      ]
+    },
+    "design/design-meta-xr-operator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta lanzó Meta XR Operator, una herramienta experimental que permite que los agentes de codificación de IA construyan, prueben, depuren y verifiquen visualmente apps VR por sí mismos."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+          "cap": "Meta Quest 3 (Imagen: Meta)"
+        },
+        {
+          "t": "p",
+          "x": "Gracias a los agentes de IA, los desarrolladores leen y escriben código más rápido, y ejecutar pruebas y atrapar errores también se ha agilizado. Pero faltaba el paso de comprobar si eso realmente funciona. Meta presentó Meta XR Operator como un componente experimental del Meta XR SDK (v205). Es una capa de la API OpenXR."
+        },
+        {
+          "t": "p",
+          "x": "Con XR Operator, cualquier agente de IA compatible con MCP puede ver, recorrer y manipular una app VR que se ejecuta en el Meta XR Simulator. Según Meta, el agente puede crear una escena de Unity por sí mismo, ejecutarla, tomar capturas de pantalla, encontrar problemas, corregirlos y verificar que la corrección es correcta. Esto incluye pruebas en lenguaje natural: el desarrollador escribe un escenario de prueba en palabras, y el agente lo ejecuta tal cual y devuelve evidencia de aprobado o fallido con capturas de pantalla adjuntas."
+        },
+        {
+          "t": "p",
+          "x": "Meta hizo pruebas iniciales con varios equipos que desarrollan con el Meta XR SDK, incluido Beat Games, creador de Beat Saber. Una de ellas consistió en crear una app de tres en raya en VR. El agente escribió la lógica del juego, apuntó un control virtual a una casilla, pulsó A para colocar una marca y jugó hasta el final, hasta que se decidió la victoria o la derrota."
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/i879GCHk/tic-tac-toe-vr.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Todavía no es un método de verificación completo. Operator XR no puede oír sonido, no evalúa bien las animaciones ni el movimiento, no puede rastrear los dedos por separado y no detecta de forma confiable defectos visuales sutiles. También es demasiado lento para el control en tiempo real, lo que dificulta las interacciones dinámicas. Meta dice que funciona mejor en “escenarios estáticos y deterministas”."
+        },
+        {
+          "t": "p",
+          "x": "Solo funciona en el Meta XR Core SDK para Unity. Aun así, Meta indica que para otros motores que usan OpenXR, como Godot o Unreal Engine, se puede obtener el paquete independiente e integrarlo uno mismo."
+        }
+      ]
+    },
+    "design/design-smart-remesh": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4B64MeOynQY"
+        },
+        {
+          "t": "p",
+          "x": "El artista 3D Milad Kambari presentó Smart Remesh, un complemento de retopología para Blender que pueden usar tanto artistas de videojuegos como modeladores de superficies duras y artistas de personajes."
+        },
+        {
+          "t": "p",
+          "x": "Tiene modos distintos para modelos orgánicos y modelos de superficie dura. La promesa de la herramienta es leer una malla original desordenada según su contexto y convertirla en geometría limpia basada en quads. Kambari dice que está pensada para dolores de cabeza como «CAD importado, escaneos 3D, resultados booleanos desordenados y modelos comprados con una topología hecha un desastre»."
+        },
+        {
+          "t": "p",
+          "x": "Blender ya tiene muchas opciones de retopología: herramientas nativas, otros complementos y software de retopología independiente, parte de él gratuito. Aun así, Kambari, que dirige la empresa de outsourcing de videojuegos 3DRedBox, tiene un historial como creador de assets y educador, y Smart Remesh en sí ha tenido una buena acogida inicial."
+        },
+        {
+          "t": "p",
+          "x": "La diferencia está en que tiene en cuenta la forma del objeto que se va a retopologizar. El modo de superficie dura y el modo orgánico están separados, y el modo orgánico recurre a la herramienta de retopología de código abierto más antigua, Instant Meshes."
+        },
+        {
+          "t": "p",
+          "x": "El lado más interesante es el modo de superficie dura. «Encuentra los bordes reales del modelo, reconstruye cada panel plano como un único n-gono y elimina los bucles de aristas que no definen forma». «No mueve la superficie. Cada vértice del resultado es un vértice que el modelo ya tenía, así que las siluetas, los filetes y los bordes de los paneles aparecen exactamente donde ya estaban»."
+        },
+        {
+          "t": "p",
+          "x": "Hay tres preajustes: para trabajo general, para cuando hay que conservar detalles finos y para modelos con muchos paneles planos. También se puede ajustar uno mismo la densidad de geometría objetivo. Hay ejemplos de resultados reprocesados publicados en la página del plugin en Superhive, incluidos assets de superficie dura con el número de polígonos reducido al mínimo para videojuegos o AR."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollo también avanza rápido. Salió por primera vez hace seis días y ya va en la versión 2.02. Smart Remesh 2 mejora la conservación del diseño UV, de modo que los diseños UV multi-tile como UDIM se mantienen en su lugar después de reprocesar. Ahora también es posible hornear el detalle de la malla de alta resolución original en el modo Organic."
+        },
+        {
+          "t": "p",
+          "x": "Funciona en Blender 4.2 y versiones posteriores, en Windows, Linux y macOS. Cuesta 15 dólares."
+        }
+      ]
     }
   }
 }

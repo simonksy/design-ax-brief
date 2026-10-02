@@ -2736,6 +2736,135 @@
           "x": "Los investigadores añadieron que esta compresión funciona junto con técnicas más amplias de reducción de datos que seleccionan solo los eventos y características de interés. Ni dijo: “más que reemplazar los métodos de compresión existentes, esto añade una opción más basada en IA”. DOI del artículo 10.1038/s42256-026-01287-9."
         }
       ]
+    },
+    "science/science-brain-on-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2171044401.jpg?resize=1200,600",
+          "cap": "Un teclado con una sola tecla 'AI' sobre un fondo azul. Foto Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Usar el GPS durante mucho tiempo hace que se pierda el sentido de la orientación. Los chatbots funcionan de forma parecida: desgastan la capacidad de distinguir las noticias verdaderas de las falsas."
+        },
+        {
+          "t": "p",
+          "x": "Mucha gente se mantiene al día con las noticias a través de chatbots. Pero una investigación del equipo de Pattie Maes, en el MIT Media Lab, señala un fallo importante en ese método."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes evaluaron durante cuatro semanas pares de titulares e imágenes de noticias. Al principio, con la ayuda del chatbot, distinguían lo falso de lo real con un 21% más de precisión. Para la cuarta semana, su precisión para detectar noticias falsas sin IA había caído un 15% por debajo de donde empezaron. Aun así, alrededor de uno de cada cuatro participantes dijo que su propia habilidad había mejorado."
+        },
+        {
+          "t": "p",
+          "x": "La misma 'paradoja de la dependencia de la IA' ya observada en otros campos, incluida la medicina, se repitió también aquí."
+        },
+        {
+          "t": "p",
+          "x": "Anku Rani, estudiante de doctorado en artes y ciencias de los medios y coautora principal del estudio, lo explica así: “La gente se entusiasma con este LLM 'mágico', pero olvida que no es más que un modelo estadístico que predice el siguiente 'token' de una secuencia.” El otro coautor principal es Valdemar Danry, SM '23, del mismo programa."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores también encontraron pistas en la dirección contraria. Algunos enfoques de IA ralentizaban a las personas en el momento, pero mejoraban después su capacidad de juzgar por sí solas. Danry dijo: “La IA que simplemente te 'dice' la respuesta de inmediato fomenta la dependencia, mientras que la IA que 'pregunta' al estilo socrático te enseña a discernir la verdad por ti mismo,” y añadió que “es más bien un intercambio entre velocidad y esfuerzo.”"
+        },
+        {
+          "t": "p",
+          "x": "Este artículo se publicó en la edición de septiembre/octubre de 2026 de MIT Technology Review."
+        }
+      ]
+    },
+    "science/science-llm-scholar-bench": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los chatbots basados en LLM se usan ampliamente como sistemas de recomendación. Aceleran el acceso a la información, pero junto con eso también llegan respuestas incorrectas y sesgos sociales."
+        },
+        {
+          "t": "p",
+          "x": "Este problema se agrava cuando se recomienda experiencia. La científica informática Lisette Espín-Noboa, investigadora del Complexity Science Hub, pone como ejemplo el mundo académico. «Supongamos que el organizador de una conferencia usa un LLM para buscar a un orador principal. Si tu nombre nunca aparece, eres invisible y pierdes la oportunidad.»"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/complexity-science-hub-1.jpg",
+          "cap": "Panorama de LLMScholarBench. Evaluó 22 LLM en cinco tareas, en dos ejes: calidad técnica y representación social. Fuente Complexity Science Hub"
+        },
+        {
+          "t": "p",
+          "x": "El equipo primero buscó sesgos en la recomendación de expertos en física. Al pedir a seis LLM académicos de una subárea específica, en general nombraron científicos reales, pero en promedio el 40 por ciento correspondía a una subárea equivocada. Los modelos se inclinaban hacia hombres estadounidenses, con más antigüedad y más citas."
+        },
+        {
+          "t": "p",
+          "x": "Los datos de referencia abarcan a unos 450.000 científicos que publicaron en revistas de la American Physical Society entre 1893 y 2020. Las mujeres representan entre el 14 y el 32 por ciento de la física según la subárea y la época, pero la mayoría de los modelos recomendó incluso menos mujeres que esa base ya baja, y algunos no incluyeron ninguna. Lo mismo ocurrió con la raza: en los datos de la APS, el grupo más numeroso es el asiático, pero los modelos sobrerrepresentaron a académicos blancos, mientras que los investigadores negros y latinos a menudo quedaban fuera por completo."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión de Espín-Noboa es clara: «Estos patrones muestran que los LLM pueden hacer algo más que reflejar la desigualdad existente: pueden amplificarla. Esto refuerza una dinámica en la que el rico se hace más rico: quien ya es visible se vuelve más visible, y quien ya está marginado sigue sin verse.»"
+        },
+        {
+          "t": "p",
+          "x": "A continuación, el equipo construyó LLMScholarBench, un referente que mide la calidad técnica y la representación social con nueve métricas, y probó cuatro intervenciones de usuario en 22 LLM. El RAG, que extrae evidencia de la web, mejoró la precisión factual, y los ajustes de la instrucción movieron la representación social en la dirección solicitada. Combinar ambos no logró mejorar todas las métricas a la vez."
+        },
+        {
+          "t": "p",
+          "x": "El equipo también comprobó, en seis disciplinas académicas, si el idioma, la región y el rol incluidos en la instrucción cambiaban las recomendaciones. La región las cambió; el idioma y el rol no."
+        },
+        {
+          "t": "p",
+          "x": "Añadir búsqueda web a modelos comerciales recientes como Gemini 2.5 Pro y Flash elevó la precisión factual, pero redujo la diversidad y el equilibrio. «Basar las respuestas en la web no cierra la brecha de representación. Más bien la importa tal cual, porque la propia web subrepresenta a toda la comunidad académica.» El equipo considera que este sesgo es estructural, no un problema de un modelo en particular."
+        }
+      ]
+    },
+    "science/science-predictive-categorization": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nuestro cuerpo está inundado de señales sensoriales en todo momento. Los fotones chocan contra la retina, el aire comprimido golpea el tímpano. Solo podemos abrirnos paso por ese torrente porque el cerebro comprime una cantidad enorme de datos. Este proceso, llamado categorización, convierte un mundo caótico y saturado de información en objetos, personas, conceptos y emociones."
+        },
+        {
+          "t": "p",
+          "x": "La neurociencia tradicional situaba la categorización al final del procesamiento sensorial: el cerebro recibe los detalles, decodifica rasgos y los compara con prototipos guardados en la memoria. Pero el mismo sonido se interpreta de forma completamente distinta según la situación. Un sonido rítmico escuchado en una calle iluminada puede ser palomas alzando el vuelo, pero el mismo sonido en un callejón oscuro de noche se convierte en los pasos de un desconocido."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Lisa-Feldman-Barrett-cr.Mark-Karlsberg-Studio-Eleven.webp",
+          "cap": "Lisa Feldman Barrett, quien ha demostrado que las emociones son construidas por el sistema nervioso para gestionar la energía y la acción. Foto Mark Karlsberg Studio Eleven"
+        },
+        {
+          "t": "p",
+          "x": "Lisa Feldman Barrett, de Northeastern University, y Earl Miller, del MIT, presentaron juntos una nueva teoría de la categorización en Nature Reviews Neuroscience. Sostienen que el cerebro reconstruye categorías momento a momento, basándose no solo en la sensación y la memoria, sino también en las condiciones fisiológicas que el cuerpo exige en ese instante."
+        },
+        {
+          "t": "p",
+          "x": "La clave es un orden invertido. Sentimos que las categorías reflejan una realidad objetiva, pero en realidad el cerebro proyecta categorías sobre el mundo de la manera que la supervivencia requiere. Antes incluso de que seamos conscientes de una impresión sensorial, el cerebro ya ha preparado acciones para proteger los recursos energéticos del cuerpo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/braincategories_spot_sheep-cr-Zara-Picken.webp",
+          "cap": "Ilustración Zara Picken for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "La evidencia también está en el cableado. Las conexiones de retroalimentación, que envían hacia abajo predicciones generadas internamente, son mucho más numerosas que las conexiones de avance que llevan la información sensorial hacia arriba. Incluso dentro de la corteza visual, el 90 por ciento de las conexiones sinápticas transportan retroalimentación."
+        },
+        {
+          "t": "p",
+          "x": "Las señales sensoriales se comprimen a medida que avanzan hacia el interior del cerebro. Las señales fisiológicas que suben desde el cuerpo también se comprimen, transportadas por el nervio vago. El punto más estrecho donde estos dos embudos se encuentran, como una pajarita, es el núcleo límbico (limbic core), donde se producen juntas las categorías y las acciones asociadas a ellas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Earl-K-Miller-July-2023-cr.Courtesy-of-Earl-K-Miller.webp",
+          "cap": "Earl Miller, que estudia la cognición a través de la dinámica de las ondas cerebrales en el MIT. Foto Courtesy of Earl Miller"
+        },
+        {
+          "t": "p",
+          "x": "De ahí también que el mismo estímulo se interprete de forma distinta según la situación. Cuando se está cansado y hambriento, una manzana golpeada es alimento desesperadamente necesario. Cuando se está descansado y saciado, es solo una fruta decepcionante que uno pasaría por alto."
+        },
+        {
+          "t": "p",
+          "x": "Barrett y Miller piden abandonar el modelo en el que las categorías se guardan como documentos archivados en un gabinete llamado cerebro. La categorización, sostienen, no es tarea de ninguna región específica, sino un principio organizador que recorre todo el sistema nervioso."
+        }
+      ]
     }
   }
 }

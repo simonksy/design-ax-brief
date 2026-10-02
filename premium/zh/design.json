@@ -3224,6 +3224,132 @@
           "x": "这个运行时的第一个版本，曾以js-exec的名字活在just-bash里面。那是安装QuickJS、让智能体能针对shell的虚拟文件系统和命令编写TypeScript的一层。Vercel把那一层剥离出来，把Node形态的环境换成了由应用定义的宿主函数，并在eve里把智能体写的TypeScript接到真实工具上做了验证。Run SDK可以在Node.js 22.13及以上版本和Bun上运行。"
         }
       ]
+    },
+    "design/design-claude-code-design": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Claude Code新增了五项UI/UX功能。作者Nokka认为，这五项功能并不会让Claude变得更聪明，而是让它更易用——而这一点同样重要，因为无论功能多强大，一个难用的工具都不会有人用。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fp1p5oqbggtbohl3za9yt.jpg",
+          "cap": "Claude Code的新UI/UX功能"
+        },
+        {
+          "t": "p",
+          "x": "排在最前面的是/design。它于8月17日至21日上线，把Claude Design的画板工作流程带进了CLI和桌面端。输入/design后，Claude会为你的UI生成一个可编辑的画板。你可以挑选喜欢的布局进行调整，再让Claude实际实现它。以前只能写代码，UI只能靠自己猜测或另外依赖其他工具。目前仍是研究预览阶段，功能可能发生变化。"
+        },
+        {
+          "t": "p",
+          "x": "同期推出的Concise输出风格会直接给出结果。它默认跳过开场白和解释，简短回答，但完成任务的细致程度与Default风格相当。错误报告、安全警告以及对破坏性操作的确认仍会保留。只需在/config中把Output style切换为Concise即可，需要v2.1.237及以上版本。"
+        },
+        {
+          "t": "p",
+          "x": "7月6日至10日，桌面端加入了浏览器功能。无论是文档还是设计稿，Claude都可以直接打开网页并与该界面交互。同期发布的/doctor（别名/checkup）会诊断并自行修复设置和配置问题，找出未使用的技能、MCP服务器、插件，重复的CLAUDE.md，运行缓慢的hook，以及每次都要重新批准的权限提示。不过它只检查设置，不涉及性能。"
+        },
+        {
+          "t": "p",
+          "x": "7月13日至17日加入了屏幕阅读器模式，不再依赖可视化终端，而是输出VoiceOver或NVDA可以读取的普通线性文本。作者用一句话概括了这五项功能所指向的方向：从高级开发者的工具，变成所有人的工具。"
+        }
+      ]
+    },
+    "design/design-figma-path-trim": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "PJgpUYAUzvc"
+        },
+        {
+          "t": "p",
+          "x": "Figma介绍了路径修剪功能，它通过控制某一时刻路径的可见程度，来制作线条移动的动画。"
+        },
+        {
+          "t": "p",
+          "x": "描边出现、描边消失、手写动画，以及持续旋转的加载动效，都可以用路径修剪制作。这是新加入的Figma Motion基础元件之一。"
+        },
+        {
+          "t": "p",
+          "x": "这是一段2分16秒的视频。开场之后依次讲解：在Figma中使用路径修剪(0:09)、应用路径修剪动画样式(0:38)、应用路径修剪关键帧(1:17)。动效设计的基础知识，单独收录在Figma帮助文档的Motion design fundamentals合集中。"
+        }
+      ]
+    },
+    "design/design-meta-xr-operator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta推出了Meta XR Operator，这是一款实验性工具，让AI编程智能体自己构建、测试、调试并用肉眼检查VR应用。"
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+          "cap": "Meta Quest 3（图片：Meta）"
+        },
+        {
+          "t": "p",
+          "x": "借助AI智能体，开发者读写代码的速度提升了，运行测试、捕捉bug的速度也加快了。但缺少了确认其是否真正能运行这一步。Meta将Meta XR Operator作为Meta XR SDK(v205)的实验性组件发布，它是一个OpenXR API层。"
+        },
+        {
+          "t": "p",
+          "x": "使用XR Operator后，任何支持MCP的AI智能体都可以查看、在其中移动、并操作运行在Meta XR Simulator中的VR应用。按照Meta的说法，智能体可以自行创建Unity场景、运行它、截取屏幕截图、发现问题、修复问题，并验证修复是否正确。这还包括自然语言测试：开发者用文字写出测试场景，智能体就会照原样执行，并返回附带截图的通过或失败依据。"
+        },
+        {
+          "t": "p",
+          "x": "Meta与几支使用Meta XR SDK开发的团队进行了早期测试，其中包括制作了Beat Saber的Beat Games。其中一项测试是在VR中制作一个井字棋应用。智能体编写了游戏逻辑，用虚拟控制器指向格子，按A落子，并一直玩到分出胜负。"
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/i879GCHk/tic-tac-toe-vr.mp4"
+        },
+        {
+          "t": "p",
+          "x": "它还不是一个完善的验证手段。Operator XR听不到声音，也无法恰当评估动画和动作，无法单独追踪手指，也难以稳定捕捉到细微的视觉缺陷。实时操作对它来说也太慢，因此动态交互仍有困难。Meta表示它最适合用于「静态且确定性的场景」。"
+        },
+        {
+          "t": "p",
+          "x": "它目前只能在面向Unity的Meta XR Core SDK上运行。不过Meta也说明，对于像Godot或Unreal Engine这类使用OpenXR的其他引擎，可以获取独立包自行集成。"
+        }
+      ]
+    },
+    "design/design-smart-remesh": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "4B64MeOynQY"
+        },
+        {
+          "t": "p",
+          "x": "3D艺术家Milad Kambari发布了Smart Remesh，这是一款Blender重新拓扑插件，从游戏艺术家到硬表面建模师、角色艺术家都能广泛使用。"
+        },
+        {
+          "t": "p",
+          "x": "它为有机模型和硬表面模型分别设置了不同模式。这款工具承诺的是：根据上下文读取杂乱的原始网格，并将其转换为干净的基于四边面的几何体。Kambari介绍说，它适合处理像「导入的CAD、3D扫描、杂乱的布尔运算结果、拓扑混乱的购买模型」这类头疼问题。"
+        },
+        {
+          "t": "p",
+          "x": "Blender本身已经有不少重新拓扑手段：有原生工具，也有其他插件，还有一些独立的重新拓扑软件，其中部分是免费的。即便如此，领导游戏外包公司3DRedBox的Kambari，作为素材制作者和教育者有着不错的履历，Smart Remesh本身的早期反响也不错。"
+        },
+        {
+          "t": "p",
+          "x": "区别在于它会考虑重新拓扑对象的形态。硬表面模式与有机模式被区分开来，有机模式借用了历史较久的开源重新拓扑工具Instant Meshes。"
+        },
+        {
+          "t": "p",
+          "x": "更有意思的是硬表面模式。「它会找出模型真正的边，把每个平面面板重建为一个n边形，并剔除那些不承载形状的边线环。」「表面不会被移动。结果中的每一个顶点都是模型本来就拥有的顶点，因此轮廓、圆角和面板边缘都会原样出现在原来的位置。」"
+        },
+        {
+          "t": "p",
+          "x": "预设共有三种：通用作业、需要保留细微细节时使用，以及平面面板较多的模型专用。目标几何密度也可以自行调整。重新拓扑后的示例发布在Superhive的插件页面上，其中也能看到把硬表面素材的多边形数大幅降低、用于游戏或AR的例子。"
+        },
+        {
+          "t": "p",
+          "x": "更新速度也很快。首次发布才过了六天，已经推进到了2.02版本。Smart Remesh 2改进了UV布局的保留能力，使得像UDIM这样的多贴图UV布局在重新拓扑之后依然保持原位。在Organic模式下，烘焙原始高分辨率网格细节的功能现在也可以使用了。"
+        },
+        {
+          "t": "p",
+          "x": "需要Blender 4.2及以上版本，在Windows、Linux和macOS上运行，价格为15美元。"
+        }
+      ]
     }
   }
 }

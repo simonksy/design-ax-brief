@@ -2489,6 +2489,182 @@
           "x": "El equipo fue el siguiente: dirección @janedoesnotknow, fotografía @eric_k_yue, diseño de producción BTC & MH, dirección de arte @jumpintomyfantasywagon, pintor de mattes Erkin Aycan, encargado de decorados Sean Lavoie, VFX @f_e_n_n_e_r · @niche.vfx, operador de cámara B @rasmussteinfoss, productor ejecutivo @caddypantida, productores Jeremy Kleiner · Dede Gardner. Participaron además muchos otros artesanos y artistas cuyos nombres no se pudieron incluir aquí."
         }
       ]
+    },
+    "movies/movies-editshare-flow-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "EditShare, proveedor de almacenamiento y flujos de trabajo colaborativos para medios, presenta en IBC 2026 nuevas funciones que abarcan EFS, Flow AI, MediaSilo y EditShare One."
+        },
+        {
+          "t": "p",
+          "x": "El centro es una configuración todo en uno Ultimate para EFS 310 y EFS 410, que integra la gestión de medios de Flow y el procesamiento de Flow AI basado en GPU dentro del propio nodo. A esto se suma una ampliación de la transcripción multilingüe, mejoras en Flow AI y EditShare One, y un adelanto de lo que viene para MediaSilo."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Corporate-for-IBC2026-Pug-with-callouts-1.png",
+          "cap": "Diagrama de la gama de productos de EditShare presentada en IBC 2026."
+        },
+        {
+          "t": "p",
+          "x": "“Los equipos de producción tienen hoy más plataformas de almacenamiento, ubicaciones y herramientas de colaboración que manejar que nunca”, dijo el CEO de EditShare, Brad Turner. “Nos enfocamos en acercar esos flujos de trabajo sin encerrar a los clientes en un ecosistema cerrado. Lo que presentamos en IBC conecta almacenamiento de alto rendimiento, descubrimiento inteligente de medios y colaboración segura. Ayuda a los equipos a encontrar contenido más rápido y avanzar en los proyectos con menos esfuerzo manual.”"
+        },
+        {
+          "t": "p",
+          "x": "Al reunir almacenamiento compartido, gestión de medios y procesamiento de IA en una sola caja, incluso los equipos que no necesitan un sistema de GPU dedicado pueden acceder fácilmente al descubrimiento de medios con IA."
+        },
+        {
+          "t": "p",
+          "x": "Flow AI analiza audio y video para generar metadatos estructurados y buscables. Busca en diálogos y transcripciones, identifica escenas y rostros, detecta logotipos y lee texto en pantalla."
+        },
+        {
+          "t": "p",
+          "x": "El procesamiento termina por completo dentro de las instalaciones. Como el contenido nunca tiene que salir hacia un servicio de IA externo, la empresa mantiene el control de la seguridad, la privacidad y la gobernanza de datos. El precio también es una tarifa plana e ilimitada, sin cargos por minuto ni por uso, de modo que se puede analizar todo lo que el sistema soporte."
+        },
+        {
+          "t": "p",
+          "x": "Los idiomas de transcripción admitidos suben a 13: inglés, catalán, croata, checo, danés, neerlandés, francés, alemán, griego, italiano, portugués, español y turco, con hebreo y árabe disponibles próximamente. Emisoras, productoras y equipos de posproducción pueden ahora recorrer con búsqueda de IA incluso el contenido internacional. Las personas y logotipos etiquetados también se ven con más claridad en la línea de tiempo del reproductor de medios."
+        },
+        {
+          "t": "p",
+          "x": "MediaSilo se amplía más allá de una herramienta de revisión y aprobación para convertirse en un centro de medios de producción. Con la nueva función de almacenamiento conectado, Media Drives, los usuarios autorizados acceden directamente desde MediaSilo a almacenamiento compatible con S3 que haya sido aprobado. Esto incluye EFS local expuesto mediante S3 y las plataformas de terceros compatibles."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Media-Drive-with-Thumbnails-1.png",
+          "cap": "Pantalla de Media Drives, la nueva función de almacenamiento conectado de MediaSilo."
+        },
+        {
+          "t": "p",
+          "x": "Se pueden explorar carpetas, encontrar medios montados por nombre de archivo y previsualizarlos justo donde están almacenados. Como solo se copian los archivos que se necesitan, ya no hace falta mover todo antes de saber qué se necesita. Después de mover los archivos, MediaSilo AI permite buscar transcripciones, texto en pantalla, personas, logotipos y escenas, y el mismo espacio de trabajo gestiona también los comentarios con código de tiempo, el control de versiones, los dailies y el seguimiento de aprobaciones."
+        },
+        {
+          "t": "p",
+          "x": "Los colaboradores externos pueden ver el contenido desde el navegador sin unirse a la red de producción ni usar una VPN. Marcas de agua forenses y visuales, DRM, configuraciones de caducidad, permisos, restricciones de descarga y autenticación multifactor protegen los cortes sin terminar y el material inédito."
+        },
+        {
+          "t": "p",
+          "x": "EditShare One agiliza el acceso y la gestión de contenido entre EFS y Flow. Espacios de medios o carpetas completas pueden archivarse y restaurarse directamente desde aquí. Los flujos de archivo ahora también admiten integración con Telestream Diva Archive y Spectra Logic Rio MediaEngine, además del almacenamiento de terceros que Flow ya soporta."
+        }
+      ]
+    },
+    "movies/movies-mac-studio-m5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple presentó un nuevo Mac Studio con el M5 Max y el M5 Ultra. La empresa lo llama “un paso monumental hacia la IA”. Dado cómo han sido los anuncios recientes de Apple, esto no es ninguna sorpresa."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/new-mac-studio-models.jpg?id=67674924&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+          "cap": "Los nuevos modelos de Mac Studio. Imagen cortesía de Apple."
+        },
+        {
+          "t": "p",
+          "x": "Poner la IA en el dispositivo en primer plano también era previsible. Pero entre tanto lenguaje de IA, vale la pena rescatar qué le ofrece este Mac Studio a la edición de video común."
+        },
+        {
+          "t": "p",
+          "x": "Las cifras más llamativas siguen siendo las de IA. Apple dice que el rendimiento de IA es 4.3 veces más rápido. Junto a eso vienen cifras de hasta 2 veces en almacenamiento, 1.8 veces en gráficos, 1.3 veces en CPU, y un mayor ancho de banda de memoria. Para los editores, estas son las cifras más bienvenidas."
+        },
+        {
+          "t": "p",
+          "x": "El modelo M5 Max tiene una CPU de 18 núcleos, una GPU de hasta 40 núcleos con un acelerador neuronal en cada núcleo, y hasta 128GB de memoria unificada. El M5 Ultra sube más, con una CPU de hasta 36 núcleos, una GPU de hasta 80 núcleos y 512GB de memoria unificada."
+        },
+        {
+          "t": "p",
+          "x": "“Mac Studio es el escritorio definitivo para la IA en el dispositivo y los flujos de trabajo profesionales más exigentes del mundo. Se ha ganado el cariño por sentarse en silencio, en un cuerpo pequeño sobre el escritorio, mientras entrega un rendimiento enorme y una amplia conectividad profesional. Hoy hemos empujado esos límites todavía más.” Son palabras de Johny Srouji, responsable de hardware de Apple."
+        },
+        {
+          "t": "p",
+          "x": "Lo que destaca para el cine y la edición es el Wi-Fi 7 y el Bluetooth 6, que aparecen por primera vez en un Mac Studio. El Thunderbolt 5 viene incluido también."
+        },
+        {
+          "t": "p",
+          "x": "El M5 Max es hasta 10.7 veces más rápido que el M1 Max, y 3.9 veces más rápido que el M4 Max, en el procesamiento de prompts de LLM en LM Studio. En texto a imagen, es 7.4 veces más rápido que el M1 Max y 3.5 veces más rápido que el M4 Max. Magic Mask en Blackmagic Design DaVinci Resolve Studio es 5.3 veces más rápido que el M1 Max y 3 veces más rápido que el M4 Max. Los precios comienzan en 2,499 dólares."
+        },
+        {
+          "t": "p",
+          "x": "El M5 Ultra es hasta 15.4 veces más rápido que el M1 Ultra, y 3.3 veces más rápido que el M3 Ultra, en el entrenamiento de CopyCat ML en Foundry Nuke. El procesamiento de prompts en LM Studio es 9.8 veces más rápido que el M1 Ultra, texto a imagen es 8.2 veces más rápido, y el renderizado de escenas de Maxon Redshift es 4.7 veces más rápido. Los precios comienzan en 5,499 dólares."
+        }
+      ]
+    },
+    "movies/movies-vfx-atlas-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Joseph Bell ha publicado la tercera edición anual del Visual Effects & Animation World Atlas, disponible gratis en vfxatlas.com. La edición de 2026 abarca a más de 140,000 trabajadores de VFX y animación en 2,900 empresas, y sitúa el crecimiento neto del empleo en el 2.7% en los últimos 12 meses, frente al 1% del año anterior."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081291-visualeffectsanimationworldatlas2026cover-1280.jpg?itok=ZbpmH_hy",
+          "cap": "Portada del Visual Effects & Animation World Atlas. Imagen cortesía de Joseph Bell."
+        },
+        {
+          "t": "p",
+          "x": "Bell pasó 20 años como productor de VFX y directivo de empresa en Industrial Light & Magic, The Mill y FuseFX antes de publicar el primer Atlas en 2024. Los datos reunidos hasta ahora suman 1.1 millones de registros, con más de 10,000 lectores en 100 países."
+        },
+        {
+          "t": "p",
+          "x": "“Los efectos visuales pasaron de un puñado de empresas a una industria global de miles de millones de dólares en solo dos décadas”, dijo Bell. “Y aun así sigue siendo un negocio mal entendido. Informes de investigación de mercado que cuestan miles de dólares sitúan a la fuerza laboral mundial en un millón de personas, y estudios de expertos inflan la fuerza laboral de los mercados principales en un 250%. Estas cifras erróneas pasan directamente a medios reconocidos y a quienes toman decisiones en la industria. El Atlas se construyó para corregir eso con datos filtrados por experiencia real.”"
+        },
+        {
+          "t": "p",
+          "x": "Los Ángeles se redujo un 1.5% en 12 meses, una caída menor que el 1.8% del año anterior, y sigue siendo el centro más grande al combinar VFX y animación. Vancouver repuntó un 11.3%, Montreal se mantuvo estable tras perder más de la mitad de su fuerza laboral entre 2022 y 2025, y Toronto retrocedió un 3.3%. El título de mayor centro de VFX del mundo pasó a Mumbai, que creció un 4%, mientras que Chennai y Hyderabad crecen más rápido, con un 10.8% y un 7.8% respectivamente. Irlanda creció un 13.8%."
+        },
+        {
+          "t": "p",
+          "x": "Los grandes estudios también quedaron bajo la lupa. “Después de que Technicolor y MPC colapsaran en febrero de 2025, se habló de que otro estudio de VFX de escala global caería antes de que la industria se estabilizara”, dijo Bell. “Los tres más grandes ahora son DNEG, Industrial Light & Magic y Framestore, y juntos emplean al 12.3% de la fuerza laboral mundial, frente al 11% en 2025. La verdadera amenaza no es la falta de trabajo, sino un entorno de negocio que siempre está ajustado. Lo que derribó a Technicolor tampoco fue la falta de demanda, sino una deuda que no pudo soportar.”"
+        },
+        {
+          "t": "p",
+          "x": "En 2023, el cofundador de DreamWorks Animation, Jeffrey Katzenberg, dijo que el número de artistas necesarios para una película de animación de nivel mundial caería de 500 a menos de 50 para 2026. “Comentarios como ese difundieron la percepción de que el empleo en la industria de VFX y animación ya había sido recortado por la IA”, dijo Bell. “Los datos no muestran rastro de eso. Los puestos dedicados a IA son la porción más pequeña de nuestro conjunto de datos: el 0.1% de los puestos en estudios tradicionales de VFX y animación en 2026. Sí están creciendo: un 68% en los últimos 12 meses.”"
+        },
+        {
+          "t": "p",
+          "x": "“La IA no ha reemplazado empleos a una escala significativa en los estudios tradicionales de VFX y animación, ni tampoco ha creado otros nuevos. El efecto es más sutil: los artistas están adoptando herramientas de IA dentro de los puestos que ya ocupan”, añadió."
+        },
+        {
+          "t": "p",
+          "x": "Los puestos de roto y pintura crecieron un 8.7% en 12 meses. El informe lo interpreta como una señal de que la IA todavía no se ha hecho cargo de ese trabajo. Entorno y DMP crecieron un 9.3%, FX y simulación un 6.1%, creature TD y CFX un 5.2%, y desarrollo de negocio un 12%, mientras que match move y tracking cayeron un 1.3%. El trabajo remoto subió del 8.7% al 10%."
+        },
+        {
+          "t": "p",
+          "x": "Bell ahora analiza los datos de esta industria a través de su propia empresa, HDRI Intelligence."
+        }
+      ]
+    },
+    "movies/movies-worldclaw-3d": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "ZY628bslSYY"
+        },
+        {
+          "t": "p",
+          "x": "Matt Wolfe mencionó el WorldClaw de Tencent, diciendo que está entre los modelos de IA más impresionantes que ha visto este año."
+        },
+        {
+          "t": "p",
+          "x": "WorldClaw construye un mundo 3D completo a partir de un solo prompt. No se limita a generar un fondo: cada objeto colocado dentro de él sale por separado."
+        },
+        {
+          "t": "p",
+          "x": "Árboles, edificios, carretas, farolas e incluso el terreno se generan como activos 3D individuales. Eso significa que se pueden llevar directamente al trabajo y manipularlos."
+        },
+        {
+          "t": "p",
+          "x": "Por dentro, la generación de imágenes, la segmentación y la tecnología Hunyuan 2D-to-3D de Tencent trabajan juntas. La estructura convierte una sola escena generada en un conjunto de objetos 3D."
+        },
+        {
+          "t": "p",
+          "x": "Los usos también son interesantes: armar un entorno de juego en minutos, construir un mundo virtual para simulaciones, o crear un espacio donde un robot pueda entrenar antes de salir al mundo real."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora no se puede probar directamente. Como todavía no se ha publicado, Wolfe dijo que también está esperando y observando."
+        }
+      ]
     }
   }
 }
