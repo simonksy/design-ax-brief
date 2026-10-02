@@ -37,7 +37,8 @@
       // 기준점을 잃고 페이지 전체에 앵커된다.
       "#ax-topbar{position:fixed;top:0;left:0;right:0;height:52px;z-index:300;display:flex;" +
       "align-items:center;justify-content:flex-end;gap:8px;padding:0 14px;box-sizing:border-box;" +
-      "background:#f4efe7;border-bottom:1px solid rgba(40,30,20,.10);}" +
+      // 별도 영역처럼 보이지 않게 — 페이지 맨 위 배경색 그대로에 가는 구분선만.
+      "background:#f4f0e9;border-bottom:1px solid rgba(40,30,20,.07);}" +
       "body{padding-top:52px;}" +
       "@media (max-width:720px){#ax-topbar{height:48px;padding:0 10px;gap:6px;}body{padding-top:48px;}}" +
       "#ax-globe{position:relative;z-index:200;flex:0 0 auto;display:flex;align-items:center;" +
