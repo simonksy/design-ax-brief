@@ -41,14 +41,29 @@
       "#ax-globe svg{width:17px;height:17px;flex:0 0 auto;}" +
       "#ax-globe select{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;" +
       "appearance:none;-webkit-appearance:none;border:0;font-size:16px;}" +
+      // Pro 버튼은 이 사이트에서 돈이 들어오는 유일한 입구다. 주변의 담백한 알약들과
+      // 같은 옷을 입고 있으면 아무도 누르지 않는다 — 그라데이션으로 칠하고, 천천히
+      // 흐르게 두고, 가끔 빛이 한 번 쓸고 지나가게 한다.
       "#ax-pro{position:absolute;top:14px;right:56px;z-index:200;display:flex;align-items:center;" +
-      "justify-content:center;height:34px;padding:0 13px;border-radius:17px;border:1px solid rgba(23,23,23,.14);" +
-      "background:rgba(255,255,255,.72);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);" +
-      "color:#4a4540;cursor:pointer;font-family:ui-monospace,Menlo,monospace;font-size:11px;font-weight:600;" +
-      "letter-spacing:.06em;white-space:nowrap;box-shadow:0 4px 14px -8px rgba(40,30,20,.45);}" +
-      "#ax-pro:hover{border-color:rgba(23,23,23,.35);}" +
+      "justify-content:center;height:34px;padding:0 15px;border-radius:17px;border:none;overflow:hidden;" +
+      "background:linear-gradient(110deg,#7928ca,#0070f3,#eb367f,#7928ca);background-size:300% 100%;" +
+      "animation:axprohue 9s linear infinite;" +
+      "color:#fff;cursor:pointer;font-family:ui-monospace,Menlo,monospace;font-size:11px;font-weight:700;" +
+      "letter-spacing:.06em;white-space:nowrap;box-shadow:0 5px 18px -6px rgba(121,40,202,.7);" +
+      "transition:transform .15s ease,box-shadow .15s ease;}" +
+      "@keyframes axprohue{0%{background-position:0% 50%}100%{background-position:300% 50%}}" +
+      // 빛 한 줄이 6초마다 버튼을 쓸고 지나간다 — 시선을 끌되 계속 번쩍이지는 않는다.
+      "#ax-pro::after{content:'';position:absolute;top:0;bottom:0;width:38%;left:-45%;" +
+      "background:linear-gradient(100deg,transparent,rgba(255,255,255,.55),transparent);" +
+      "animation:axproshine 6s ease-in-out infinite;}" +
+      "@keyframes axproshine{0%,72%{left:-45%}92%,100%{left:115%}}" +
+      "#ax-pro:hover{transform:translateY(-1px);box-shadow:0 8px 22px -6px rgba(121,40,202,.85);}" +
+      "#ax-pro:active{transform:scale(.97);}" +
+      "#ax-pro>span{position:relative;z-index:1;}" +
       "#ax-pro:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
       "#ax-pro .ax-pro-short{display:none;}" +
+      // 모션을 줄여 달라는 설정은 존중한다 — 색만 남기고 움직임은 멈춘다.
+      "@media (prefers-reduced-motion:reduce){#ax-pro{animation:none;}#ax-pro::after{display:none;}}" +
       "@media (max-width:720px){#ax-globe{top:10px;right:10px;}" +
       "#ax-pro{top:10px;right:52px;}#ax-pro .ax-pro-full{display:none;}#ax-pro .ax-pro-short{display:inline;}}";
     document.head.appendChild(css);
