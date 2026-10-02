@@ -1,7 +1,33 @@
-{"date":"2026-10-02","section":"design","media":[
-{"id":"figma-motion-sept","type":"video","src":"pipeline/media/figma-motion-sept.mp4","poster":"pipeline/media/figma-motion-sept.jpg"},
-{"id":"shopify-canvas-builder","type":"image","src":"pipeline/media/shopify-canvas-builder.jpg"},
-{"id":"ai-sites-wcag-audit","type":"image","src":"pipeline/media/ai-sites-wcag-audit.png"},
-{"id":"figma-weave-campaign","type":"image","src":"pipeline/media/figma-weave-campaign.jpg"},
-{"id":"headless-ai-platform","type":"image","src":"pipeline/media/headless-ai-platform.png"}
-]}
+{
+  "date": "2026-10-03",
+  "section": "design",
+  "media": [
+    {
+      "id": "bfl-flux3-image",
+      "type": "video",
+      "src": "pipeline/media/bfl-flux3-image.mp4",
+      "poster": "pipeline/media/bfl-flux3-image.jpg"
+    },
+    {
+      "id": "classcad-ai-mcp",
+      "type": "image",
+      "src": "pipeline/media/classcad-ai-mcp.jpg"
+    },
+    {
+      "id": "infoq-regeneratable-ui",
+      "type": "image",
+      "src": "pipeline/media/infoq-regeneratable-ui.jpg"
+    },
+    {
+      "id": "doherty-threshold-ai-ux",
+      "type": "image",
+      "src": "pipeline/media/doherty-threshold-ai-ux.png"
+    },
+    {
+      "id": "ideogram45-region-edit",
+      "type": "video",
+      "src": "pipeline/media/ideogram45-region-edit.mp4",
+      "poster": "pipeline/media/ideogram45-region-edit.jpg"
+    }
+  ]
+}

@@ -1,34 +1,30 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "games",
   "media": [
     {
-      "id": "qssr",
+      "id": "gibiz-hr-summit-genai-workload",
       "type": "image",
-      "src": "pipeline/media/qssr.jpg"
+      "src": "pipeline/media/gibiz-hr-summit-genai-workload.jpg"
     },
     {
-      "id": "unity-grok-build-plugin",
-      "type": "video",
-      "src": "pipeline/media/unity-grok-build-plugin.mp4",
-      "poster": "pipeline/media/unity-grok-build-plugin.jpg"
-    },
-    {
-      "id": "uefnclaudekit",
-      "type": "video",
-      "src": "pipeline/media/uefnclaudekit.mp4",
-      "poster": "pipeline/media/uefnclaudekit.jpg"
-    },
-    {
-      "id": "twitchadsai",
+      "id": "lochub-unreal-ai-localization",
       "type": "image",
-      "src": "pipeline/media/twitchadsai.jpg"
+      "src": "pipeline/media/lochub-unreal-ai-localization.png"
     },
     {
-      "id": "sinametahuman",
-      "type": "video",
-      "src": "pipeline/media/sinametahuman.mp4",
-      "poster": "pipeline/media/sinametahuman.jpg"
+      "id": "banjo-tooie-vibe-recomp",
+      "type": "image",
+      "src": "pipeline/media/banjo-tooie-vibe-recomp.jpg"
+    },
+    {
+      "id": "fallout-new-york-ai-cnd",
+      "type": "image",
+      "src": "pipeline/media/fallout-new-york-ai-cnd.jpg"
+    },
+    {
+      "id": "ue5-codex-gpt6-npc-tutorial",
+      "type": "svg"
     }
   ]
 }

@@ -1,107 +1,101 @@
 {
- "date": "2026-10-02",
- "section": "books",
- "_note": "User deferred (알아서); curator auto-picked. Pool 15, all checked against the 30-day history_digest. 5 picks, 4 distinct outlets (TechCrunch x2).",
- "picks": [
-  {
-   "rank": 1,
-   "tool": "Books",
-   "category": "books",
-   "accent": "#f5a623",
-   "motif": "swatch",
-   "title": "Audible's new features let you explore book worlds — and use AI to talk to characters",
-   "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-   "source": "TechCrunch",
-   "published_iso": "2026-10-01T13:00:00Z",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1179901012.jpg?resize=1200,800",
-   "excerpt": "Audible is rolling out features that track characters, surface places and imagery mentioned in books, and let listeners interact with characters via generative AI.",
-   "rationale": "A major platform launch: Audible ships character tracking, world exploration and generative-AI character chat for listeners. It changes how audiobooks are consumed and adds a new rights question for authors."
-  },
-  {
-   "rank": 2,
-   "tool": "Books",
-   "category": "books",
-   "accent": "#0070f3",
-   "motif": "swatch",
-   "title": "Innovation with AI Abounds: The International Digital Publishing Award Announces 12 Finalists",
-   "url": "https://publishingperspectives.com/2026/10/innovation-with-ai-abounds-the-international-digital-publishing-award-announces-12-finalists/",
-   "source": "Publishing Perspectives",
-   "published_iso": "2026-10-01T12:33:02Z",
-   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen.png",
-   "excerpt": "The International Digital Publishing Award names 12 finalists dominated by AI projects (AI translation, audiobooks, dyslexia tools); winners announced at Frankfurter Buchmesse next week.",
-   "rationale": "A new official announcement: a shortlist of real AI publishing products (translation, audio, accessibility) ahead of Frankfurt. It works as a map of what is shipping in the industry."
-  },
-  {
-   "rank": 3,
-   "tool": "Books",
-   "category": "books",
-   "accent": "#7928ca",
-   "motif": "swatch",
-   "title": "Opus 5.5 loves to tell you 'this matters' (and other AI writing tells)",
-   "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-   "source": "TechCrunch",
-   "published_iso": "2026-10-01T17:50:19Z",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200",
-   "excerpt": "An analysis of model-specific prose tells finds Opus 5.5's biggest giveaway is the word 'dependable', used 23x more often than in human writing samples.",
-   "rationale": "Practical for writers and editors: it quantifies the verbal tics of specific models. That ties into the running debates on AI disclosure and detection, but it is a new data-driven analysis."
-  },
-  {
-   "rank": 4,
-   "tool": "Books",
-   "category": "books",
-   "accent": "#2ec5c5",
-   "motif": "swatch",
-   "title": "Korean Manhwa Apocalypse: Hidden Risks Behind Chinese AI Comic Dramas' Global Expansion",
-   "url": "https://eu.36kr.com/en/p/4003039857055617",
-   "source": "36Kr Europe",
-   "published_iso": "2026-09-29T00:02:28Z",
-   "og_image": "https://img.36krcdn.com/hsossms/20260928/v2_577299a8d82a4bda9e6b8ae98e0f33d7@1743780481@ai_oswg792002oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-   "excerpt": "As Korean manhwa's overseas boom fades, Chinese AI-generated comic dramas are scaling globally, posing hidden risks to the webcomic business.",
-   "rationale": "A comics/webtoon angle with direct relevance to Korean readers: Chinese AI comic dramas are scaling against manhwa exports. This is a market shift, not a rehash of the Webtoon partnership or Novvel cards."
-  },
-  {
-   "rank": 5,
-   "tool": "Books",
-   "category": "books",
-   "accent": "#eb367f",
-   "motif": "swatch",
-   "title": "AI narration companies are the audiobook industry's Trojan horse",
-   "url": "https://www.thebookseller.com/comment/ai-narration-companies-audiobook-trojan-horse",
-   "source": "The Bookseller",
-   "published_iso": "2026-10-01T07:45:00Z",
-   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg",
-   "excerpt": "Audio specialist Jessica Barnfield argues AI voice firms like ElevenLabs aren't widening access to audiobooks so much as gathering publishers' data.",
-   "rationale": "A specific argument from an audio-industry practitioner: AI narration deals such as ElevenLabs' work as data-gathering for the vendors. This is a new angle, not a recap of the Spotify narration or De Marque deal news."
+  "date": "2026-10-03",
+  "section": "books",
+  "items": [
+    {
+      "title": "Claremont author faces criticism over AI art in new book",
+      "tool": "Books",
+      "category": "books",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "url": "https://vnews.com/2026/10/02/ai-book-controversy-claremont/",
+      "source": "Valley News",
+      "published_iso": "2026-10-02T18:37:00+00:00",
+      "og_image": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=2560%2C1583&ssl=1",
+      "excerpt": "Claremont Middle School hosted author Giulio Savo and his book \"Directive Detectives: The Freedom Trail Directive,\" sparking debate over the use of AI in children's literature.",
+      "rationale": "Fresh, concrete local case of AI illustration backlash in children's books; strong original photo."
+    },
+    {
+      "title": "OpenAI seeks to exclude book market study, citing funding ties to authors' law firm",
+      "tool": "Books",
+      "category": "books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "url": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/",
+      "source": "Jane Friedman",
+      "published_iso": "2026-09-30T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "The accuracy and funding of research claiming Gen AI causes market harm have become important questions in the consolidated lawsuits.",
+      "rationale": "New filing in the consolidated authors-v-OpenAI case targeting the market-harm evidence authors rely on."
+    },
+    {
+      "title": "Is AI coming for audiobooks?",
+      "tool": "Books",
+      "category": "books",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "url": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry",
+      "source": "Marketplace",
+      "published_iso": "2026-09-30T17:30:00-04:00",
+      "og_image": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+      "excerpt": "AI companies like ElevenLabs and Spoken are angling for the fast-growing audiobook market. It remains to be seen if consumers will buy in.",
+      "rationale": "Mainstream business reporting on ElevenLabs and Spoken pushing into audiobooks, with consumer-demand angle."
+    },
+    {
+      "title": "Faster Chat, Better Rewrite & Printing",
+      "tool": "Books",
+      "category": "books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "url": "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing",
+      "source": "Sudowrite",
+      "published_iso": "2026-09-22T02:49:17.794Z",
+      "og_image": "https://og.featurebase.app/?type=root&title=Faster+Chat%2C+Better+Rewrite+%26+Printing&description=We%E2%80%99ve+made+some+big+updates+to+Chat+very+recently%2C+improving+both+its+speed+and+performance.+Chat+responses+are+now+twice+as+fast+-+We+moved+Chat+to+f&companyLogo=https%3A%2F%2Ffb-usercontent.fra1.cdn.digitaloceanspaces.com%2F019224dc-a888-7f48-9ff1-ea2dd116543a.png&companyName=Sudowrite&companyThemeColor=%23b169ff&companyTLP=bottom",
+      "excerpt": "Sudowrite's Chat responses are now twice as fast, with an improved Rewrite tool and new printing support for manuscripts.",
+      "rationale": "Actionable writing-tool feature release (2x Chat, better Rewrite, printing), distinct from the 09-28 model-addition card."
+    },
+    {
+      "title": "AI might kill us, but is that so bad?",
+      "tool": "Books",
+      "category": "books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad",
+      "source": "The Bookseller",
+      "published_iso": "2026-10-01T13:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg",
+      "excerpt": "While the advent of AI has alarmed most writers, Bonnie Garmus argues it has also shone a light on the hubris of humankind.",
+      "rationale": "Bestselling novelist Bonnie Garmus (Lessons in Chemistry) weighs in on AI and writers; the strongest remaining fresh, on-topic books item after duplicates were excluded."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://vnews.com/2026/10/02/ai-book-controversy-claremont/": {
+        "verdict": "new",
+        "nearest": "https://www.techradar.com/ai-platforms-assistants/the-bizarre-rise-of-grandmaslop-grandparents-are-filling-family-albums-with-ai-images-and-their-kids-hate-it",
+        "new_action": ""
+      },
+      "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
+        "new_action": "New OpenAI filing (motion to exclude the authors' book-market-harm study, citing its funding ties to plaintiffs' law firm) in the consolidated case."
+      },
+      "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry": {
+        "verdict": "new",
+        "nearest": "https://www.thebookseller.com/comment/ai-narration-companies-audiobook-trojan-horse",
+        "new_action": ""
+      },
+      "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing": {
+        "verdict": "new",
+        "nearest": "https://feedback.sudowrite.com/changelog/new-ai-models-opus-55-gpt-6-sol-and-gpt",
+        "new_action": ""
+      },
+      "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad": {
+        "verdict": "new",
+        "nearest": "https://www.thebookseller.com/comment/pushing-authors-culture-ai-secrecy",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped: PW ROSS appeal (duplicates politics 10-02 Thomson Reuters v. ROSS card). Bookseller LibGen unsealed filings (same OpenAI/Microsoft unsealed-filings story as PW 'Unsealed Files...' published 09-22). Jane Friedman 'Publishing industry organizations release 2026 report on AI use' (likely the same industry AI-use survey as PW 'As Publishers Ramp Up AI Implementation' published 09-30). Sudowrite 'Even More New Models' (near-repeat of 09-28 model-additions card). Jane Friedman 'Another AI scandal...award' (unclear whether distinct from the Orelien/Goncourt story published 09-24/09-26; skipped as risk). Not picked on score: Bonnie Garmus comment (opinion essay), Dartmouth provost (higher-ed governance, weak books fit), Frankfurt program picks (event preview, thin AI angle). Picks are 5 distinct outlets; Marketplace is an editorial feature on the audiobook market, not the same event as the Bookseller 10-02 comment piece. news_data.json not fully scanned cross-section due to size; candidates are books-specific.\nSWAP (2026-10-03, orchestrator request): removed The Digital Reader 'Can Better Wording Fix the \"Made With AI\" Problem?' because the fetched article carries a paid/sponsored link insertion on a link-farm site and the research concerns advertising labels, not books. Replacement: Bookseller 'AI might kill us, but is that so bad?' (Bonnie Garmus comment, 10-01). It is opinion, but no concrete-news candidate survived: the remaining ones were either duplicates (ROSS, LibGen, AI-use report, Sudowrite models, possible Orelien repeat) or off-topic or thin (Dartmouth provost is higher-ed governance; the Frankfurt program preview overlaps PW's 09-25 Frankfurt preview and has little AI angle). The Garmus essay matches no published story: the nearest Bookseller comment pieces (09-17 emails, 09-29 secrecy, 10-02 narration) argue different points. It takes the freed accent #2ec5c5. The 5 picks still come from 5 distinct outlets."
   }
- ],
- "dedup": {
-  "checks": {
-   "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/": {
-    "verdict": "new",
-    "nearest": "https://feedback.sudowrite.com/changelog/introducing-character-portraits",
-    "new_action": ""
-   },
-   "https://publishingperspectives.com/2026/10/innovation-with-ai-abounds-the-international-digital-publishing-award-announces-12-finalists/": {
-    "verdict": "new",
-    "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101278-frankfurt-book-fair-2026-redrawing-the-map.html",
-    "new_action": ""
-   },
-   "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/": {
-    "verdict": "new",
-    "nearest": "https://feedback.sudowrite.com/changelog/new-ai-models-opus-55-gpt-6-sol-and-gpt",
-    "new_action": ""
-   },
-   "https://eu.36kr.com/en/p/4003039857055617": {
-    "verdict": "new",
-    "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101199-what-webtoon-s-ai-partnership-could-mean-for-translators.html",
-    "new_action": ""
-   },
-   "https://www.thebookseller.com/comment/ai-narration-companies-audiobook-trojan-horse": {
-    "verdict": "new",
-    "nearest": "https://janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors/",
-    "new_action": ""
-   }
-  },
-  "note": "DROPPED as same story: Vulture 'Publishers Hit the AI Jackpot' (Anthropic-settlement allocation commentary; same running story as 09-09 TechCrunch and 10-01 PW Authors Guild card, no new filing); PW 'Frankfurt Must-See Events' (09-18 pre-fair guide, same Frankfurt-preview story as 09-25 'Redrawing the Map'). DROPPED as advertorial/press release: Good e-Reader Lynote (product pitch), CharaLab 24-7 press release. DROPPED as filler op-eds: Bonnie Garmus Bookseller column, Daily Sabah storyteller op-ed. SET ASIDE (lower score): Marketplace 'Is AI coming for audiobooks?' (generic trend feature overlapping 09-08 PP audiobook card and the Bookseller pick; one audio-commentary slot only), Spectrum News Ohio authors (generic, already set aside 10-01), Fortune 0-5 disclosure scale (columnist proposal; disclosure theme covered 09-29/09-30), China Daily AI poem (thin video feature). No cluster ids present in the pool."
- }
 }

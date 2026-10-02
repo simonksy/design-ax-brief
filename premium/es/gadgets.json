@@ -6267,6 +6267,153 @@
           "x": "El 19 de agosto, en su debut en la bolsa de Shanghái, el precio de la acción subió más de cinco veces, y al cierre del lunes la empresa estaba valorada en 34.000 millones de dólares. SemiAnalysis compara a Unitree con DJI. Estados Unidos, por su parte, se inclina por cerrar la puerta: en junio, un proyecto de ley bipartidista de la Cámara nombró a Unitree específicamente al proponer restricciones a la importación de robots chinos, y en julio la FCC impuso normas sobre robots de fabricación extranjera. El cierre podría, en cambio, empujar a Estados Unidos a los márgenes de la robótica."
         }
       ]
+    },
+    "gadgets/meta-muse-home-link": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+          "cap": "Imagen: The Verge, Getty Images, Meta"
+        },
+        {
+          "t": "p",
+          "x": "Meta ahora permite fabricar tus propios gadgets de Muse, con el nuevo agente de AI de la compañía, gracias a código que la empresa liberó como open source. La compañía sugiere proyectos como cargar Muse en una pantalla E Ink a color para mostrar recordatorios, añadirlo a un stick HDMI para ver Muse en una pantalla grande o poner Muse en un pequeño dispositivo táctil para crear algo parecido a un DIY Muse Charm."
+        },
+        {
+          "t": "p",
+          "x": "“Los gadgets de Muse son dispositivos open source que construyes tú mismo”, dice Meta. “Programa una placa ESP32 comercial o configura una Raspberry Pi con nuestros SDKs y luego conecta Muse a tus pantallas, botones, sensores, actuadores y cualquier otra cosa que tengas en tu mesa de trabajo”. Sin embargo, Meta advierte: “¡Hazlo bajo tu propio riesgo!”"
+        },
+        {
+          "t": "p",
+          "x": "La compañía también regala un gadget Muse Home Link creado por ella misma. Con el Muse Home Link, puedes usar habilidades creadas por la comunidad para que el agente de AI “encienda una luz, controle tu TV, envíe un documento a una impresora y más, según tu configuración”, dice Meta. Según Nat Friedman, de Meta Superintelligence Labs, la empresa fabricó 5,000 unidades, y ya es posible reservar un lugar en la lista de espera del Muse Home Link antes de que comiencen los envíos en algún momento de este mes."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "El gadget Muse Home Link de Meta."
+        }
+      ]
+    },
+    "gadgets/dgx-spark-64gb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+          "cap": "Crédito de la imagen: Future"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia presenta una versión de 64GB de su DGX Spark, pensada para ser más asequible para usuarios de AI local que no necesitan 128GB de RAM."
+        },
+        {
+          "t": "p",
+          "x": "El campo de la AI avanza rápido: modelos densos como Qwen 3.8 27B ya caben en 32GB de RAM, y la subida disparada de los precios de la RAM hace que un chip unido de forma permanente a la costosa LPDDR5X sea más un obstáculo que una ventaja."
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas GB10 de 64GB de Acer, Asus, Dell, Gigabyte, HP y MSI empezarán en $4999 cuando salgan a la venta el 23 de octubre, aunque es posible que los precios de la memoria no permitan mantenerlos ahí. Los sistemas GB10 de 128GB, si se consigue alguno, cuestan aproximadamente entre $7000 y $9000."
+        },
+        {
+          "t": "p",
+          "x": "Por lo demás, los Sparks de 64GB no cambian: la misma ConnectX 7 RDMA NIC para clustering, la misma CPU Arm 20-core y el mismo ancho de banda de memoria compartida de 273 GB/s."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia también añade Sync Cluster Assistant para automatizar la conexión de varios Sparks, además de un Model Launcher que descarga e inicia modelos en uno o más sistemas y los vincula con el agente de programación OpenCode. El Spark de 128GB sigue disponible para modelos más grandes y ajuste fino."
+        }
+      ]
+    },
+    "gadgets/gemini-replaces-assistant-android": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A principios de septiembre comenzó la retirada de Google Assistant en dispositivos móviles. Ahora parece que se está implementando de forma generalizada."
+        },
+        {
+          "t": "p",
+          "x": "Google ha estado trasladando a los usuarios de Assistant a Gemini durante las últimas semanas. Esta retirada estaba prevista originalmente para 2025 y luego se aplazó a 2026. A principios de agosto, Google anunció el calendario definitivo."
+        },
+        {
+          "t": "p",
+          "x": "Según varios reportes de usuarios de hoy, esta migración parece estar plenamente en marcha. Google Assistant ha desaparecido en todos los dispositivos y cuentas que revisamos en Estados Unidos (US) y Europa."
+        },
+        {
+          "t": "p",
+          "x": "En particular, la app Gemini eliminó el ajuste “Switch to Google Assistant”. Este acceso directo ya no aparece en la parte inferior del menú de la cuenta con la app de Google 17.60 estable y 17.62 beta."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Por lo tanto, ya no es posible “usar Google Assistant ni volver a él en tu teléfono, tablet o dispositivos vinculados”. Este último grupo incluye Wear OS, auriculares y Android Auto."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora no hay cambios en Assistant en “los altavoces y pantallas inteligentes Google Nest y Google Home, ni en otros altavoces y pantallas Google Assistant-enabled”."
+        },
+        {
+          "t": "p",
+          "x": "Gemini es ahora la “experiencia de asistente de voz en Android” al mantener pulsado el botón de encendido o deslizar desde las esquinas."
+        }
+      ]
+    },
+    "gadgets/apple-no-record-home-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mark Gurman, fuente fiable sobre Apple, reveló que el esperado hub doméstico de Apple podría llegar más adelante en octubre, y en su nuevo podcast Power On predijo que después podría llegar una cámara de seguridad, una que en realidad no grabará video. También afirma que Apple lanzará versiones más potentes del HomePod mini y del Apple TV."
+        },
+        {
+          "t": "p",
+          "x": "Según Gurman, la cámara acompañará a la pantalla para el hogar inteligente aún no anunciada de Apple, llamada internamente J490. Las pequeñas cámaras cilíndricas, que se parecen a un bálsamo labial, tendrán una tasa de fotogramas muy baja y no ofrecerán grabación de video."
+        },
+        {
+          "t": "p",
+          "x": "Consciente de la preocupación por la vigilancia excesiva, Apple haría que el sensor use AI para analizar el movimiento en tu hogar. Podrá hacer reconocimiento facial: si identifica a alguien que entra en una habitación, puede decirte si conoces a esa persona, pero solo recibirás descripciones en texto."
+        },
+        {
+          "t": "p",
+          "x": "Gurman añadió que la cámara usará “una tecnología muy similar a la que van a usar en los AirPods con cámaras”, que, según se informa, toman imágenes fijas de resolución extremadamente baja que analiza Visual Intelligence."
+        }
+      ]
+    },
+    "gadgets/gadgets-samsung-glasses-fcc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Las esperadas gafas inteligentes de Samsung han superado las pruebas de la FCC, lo que sugiere que su lanzamiento está muy cerca. Dos modelos distintos, SM-O200P y SM-O200J, han aparecido en registros de la FCC, que suelen ser uno de los últimos pasos antes de la comercialización."
+        },
+        {
+          "t": "p",
+          "x": "Los dos códigos de producto corresponden, respectivamente, a monturas de Warby Parker y Gentle Monster, como se ha visto en modelos de preproducción. Varios estilos de montura usarán esos códigos: tres de Warby Parker y dos (por ahora) de Gentle Monster."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Desarrolladas por Samsung y Google, las gafas serán las primeras en ejecutar Android XR, con cámaras, micrófonos y altavoces fuera del oído para llamadas, pódcast e interacción con Google Gemini. Según se informa, usarán un chipset Snapdragon AR1 Gen 1, una única cámara de 12MP con LED indicador y hasta 9 horas de uso por carga. No se han anunciado precio ni fecha de lanzamiento más allá de la ventana de otoño de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Road to VR señala que Samsung tendrá que enfrentarse a la ventaja de varios años de Meta y al mismo escrutinio público sobre las gafas con cámara que ha recibido Meta."
+        }
+      ]
     }
   }
 }

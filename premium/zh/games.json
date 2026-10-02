@@ -5484,6 +5484,117 @@
           "x": "The Witcher 4预计2028年发售，由此开启一个新的三部曲。CD Projekt同时还在推进Cyberpunk 2和一款多人在线的猎魔人游戏。"
         }
       ]
+    },
+    "games/lochub-unreal-ai-localization": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+        },
+        {
+          "t": "p",
+          "x": "LocHub把AI翻译带进Unreal Editor，同时不夺走你的控制权。项目文本通过你自己的密钥发送给你选择的AI服务商；内置检查和第二个AI负责发现问题；你在一处审阅结果，再将其作为普通的Unreal本地化数据取回。"
+        },
+        {
+          "t": "p",
+          "x": "格式参数、复数形式和rich-text标签会经LocHub与Unreal自带的校验器在代码层面两次验证，因此损坏的文本无法通过审批。可选的AI评审会检查含义、术语和语气，并把有风险的文本排在审阅队列最前面。每条文本都结合上下文翻译，参考其源资产或C++文件、开发者备注、相邻文本、你的风格指南和术语表。"
+        },
+        {
+          "t": "p",
+          "x": "人工修改绝不会被AI覆盖，源文本一旦变动，相应译文会被标记为过时，每项任务都附有费用估算和硬性支出上限。你可以使用自己的Anthropic、OpenAI、xAI、DeepSeek或Google Gemini密钥，也可以通过订阅使用Claude Code。"
+        },
+        {
+          "t": "p",
+          "x": "它需要Unreal Engine 5.6、5.7或5.8，以及Node.js 22.11或更高版本。输出是普通的本地化归档和.locres文件，因此你随时可以停用LocHub。"
+        }
+      ]
+    },
+    "games/banjo-tooie-vibe-recomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+          "cap": "（图片来源：Nintendo/Rare）"
+        },
+        {
+          "t": "p",
+          "x": "随着经典游戏的粉丝重编译项目越来越多，借助vibe coding打造的AI-driven项目也在增加。Zelda 64: Recompiled和Banjo: Recompiled的开发者对一款新的Banjo-Tooie重编译感到不安，它建立在他们的N64: Recompiled成果之上，其作者称“这个项目的大部分代码由AI工具生成”。"
+        },
+        {
+          "t": "p",
+          "x": "开发者Dario在Bluesky上表示：“Banjo-Tooie Recompilation与我们毫无（NOT）关系。”“Zelda: Recompiled和Banjo: Recompiled都有非常明确的No AI立场。”团队此前已宣布Tooie移植计划：“拿我们在框架、渲染器和游戏本身上投入的大量人工研究，再把AI扔进去，这简直是不尊重。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+          "cap": "（图片来源：Nintendo/Zelda 64: Recompiled）"
+        },
+        {
+          "t": "p",
+          "x": "开发者Reonu_称其是团队原本计划的移植版被AI-rushed赶出来的“残破‘alpha’”。Donkey Kong 64: Recompiled的开发者在7月拒绝了vibe coding；而接受自己能理解的AI-assisted代码的RPCS3模拟器团队，也恳求贡献者别再提交“AI垃圾代码”。"
+        }
+      ]
+    },
+    "games/fallout-new-york-ai-cnd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "图片来源：Bethesda"
+        },
+        {
+          "t": "p",
+          "x": "一款名为Fallout: New York的AI-generated（AI生成）浏览器游戏的制作者声称，收到了Bethesda母公司ZeniMax发来的勒令停止通知。该游戏使用Anthropic的Claude Opus 5.5生成。"
+        },
+        {
+          "t": "p",
+          "x": "其制作者在Twitter上名为CHRIS FIRST，自称“AI Creative”，夸耀游戏拥有任务、同伴、对话树、V.A.T.S.和Pip-Boy，并且因为一切都由代码生成，做到了“零纹理文件”和“零音效文件”。Rock Paper Shotgun称NPC的脸极其丑陋。这位提示词作者写道：“全部免费，我一分钱都不赚。”"
+        },
+        {
+          "t": "p",
+          "x": "如果通知属实，ZeniMax为保护版权素材而揪住的似乎是“fallout.nyc”这个域名；RPS已向Bethesda寻求置评。制作者回应：“不如你们来做一款Fallout游戏，这样我就不用做了？”RPS则推荐由人类制作的大型模组Fallout: London。"
+        }
+      ]
+    },
+    "games/ue5-codex-gpt6-npc-tutorial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
+        },
+        {
+          "t": "p",
+          "x": "社区教程：借助Codex与GPT-6 Astra，在Unreal Engine 5中构建可对话的AI NPCs。"
+        },
+        {
+          "t": "p",
+          "x": "分步讲解如何用Codex、Unreal MCP、UnrealAI和OpenAI API实现带动画的NPCs、AI-generated（AI生成）对话以及对话历史。"
+        }
+      ]
+    },
+    "games/qssr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "PSSR为PS5 Pro带来了AI超分辨率，但基础版PS5因GPU性能较弱而无缘。Sony在一篇博客文章中详细介绍了一款可在基础版主机上运行的新模型：Quick Spectral Super Resolution，简称QSSR。与PSSR一样，它诞生于与AMD合作的Project Amethyst。"
+        },
+        {
+          "t": "p",
+          "x": "QSSR比PSSR轻量得多，因此在细节保留上不及PS5 Pro上的PSSR，但应比这台主机传统上使用的时间性超分辨率准确得多。"
+        },
+        {
+          "t": "p",
+          "x": "QSSR首发于Marvel's Wolverine和Ghost of Yotei。Insomniac的Mike Fitzgerald表示，它\"让PS5玩家充分领略到PS5 Pro的体验\"。Sony的对比片段显示，QSSR在远处建筑和植被上保留了多得多的细节，不过画面仍可能有些模糊或略带噪点。"
+        },
+        {
+          "t": "p",
+          "x": "Sony表示将向所有开发者开放QSSR，两款游戏的补丁今天上线。"
+        }
+      ]
     }
   }
 }

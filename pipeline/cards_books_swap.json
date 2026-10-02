@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-03",
+  "section": "books",
+  "cards": [
+    {
+      "id": "garmus-ai-hubris-essay",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Bonnie Garmus: AI exposes\nthe hubris of humankind",
+      "body": "Novelist Bonnie Garmus argues that while AI alarms most writers, it has also exposed the hubris of humankind.",
+      "mini_headline": "Garmus sees AI exposing\nhuman hubris",
+      "tool": "Books",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+          },
+          {
+            "t": "p",
+            "x": "In a comment piece for The Bookseller titled \"AI might kill us, but is that so bad?\", novelist Bonnie Garmus writes that while the advent of AI has alarmed most writers, it has also shone a light on the hubris of humankind."
+          },
+          {
+            "t": "p",
+            "x": "Garmus's author bio describes her as a coffee-dependent American novelist. Her debut novel, Lessons in Chemistry, was a number one global bestseller and was named by New York Times readers as one of the top 100 books of the 21st Century."
+          }
+        ]
+      }
+    }
+  ]
+}

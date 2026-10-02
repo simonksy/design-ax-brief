@@ -5818,6 +5818,153 @@
           "x": "8月19日の上海証券取引所デビュー初日、株価は5倍以上上昇し、月曜終値時点の企業価値は340億ドルだ。SemiAnalysisはUnitreeをDJIに例える。米国は門を閉ざす方向にある。6月には下院の超党派法案がUnitreeを名指しして中国製ロボットの輸入制限を提案し、7月にはFCCが外国製ロボットへの規制を課した。封じ込めが逆に米国をロボット分野の辺境に追いやる可能性もある。"
         }
       ]
+    },
+    "gadgets/meta-muse-home-link": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+          "cap": "画像：The Verge、Getty Images、Meta"
+        },
+        {
+          "t": "p",
+          "x": "Metaがオープンソース化したコードを使えば、同社の新しいAIエージェントを搭載したMuse機器を自作できるようになった。同社が提案するプロジェクトには、カラーE InkディスプレイにMuseを載せてリマインダーを表示する、HDMIスティックに組み込んで大画面にMuseを映す、小型タッチスクリーン機器にMuseを入れてDIY Muse Charmのようなものを作る、といったものがある。"
+        },
+        {
+          "t": "p",
+          "x": "Metaは「Muse機器は自分で組み立てるオープンソースのデバイスだ」とし、「市販のESP32ボードをプログラムするか、当社のSDKsでRaspberry Piをセットアップし、Museをディスプレイ、ボタン、センサー、アクチュエーター、そのほか作業台に転がっているあらゆるものにつなげてほしい」と説明する。ただしMetaは「自己責任で進めてほしい！」と注意を促している。"
+        },
+        {
+          "t": "p",
+          "x": "同社は自ら開発したMuse Home Link機器の無償配布も行う。Metaによると、Muse Home Linkを使えば、コミュニティが作ったスキルでAIエージェントに「設定に応じて照明をつけ、TVを操作し、文書をプリンターに送るなど」させられる。Meta Superintelligence LabsのNat Friedmanによれば、Metaはこの機器を5,000台製造しており、今月中の出荷を前に、いまからMuse Home Linkのウェイトリストに登録できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "MetaのMuse Home Link機器。"
+        }
+      ]
+    },
+    "gadgets/dgx-spark-64gb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+          "cap": "画像提供：Future"
+        },
+        {
+          "t": "p",
+          "x": "Nvidiaは、128GBのRAMを必要としないローカルAIユーザー向けに、より手頃な64GB版DGX Sparkを投入する。"
+        },
+        {
+          "t": "p",
+          "x": "AI分野の進歩は速い。Qwen 3.8 27B のような高密度モデルは今や32GBのRAMに収まり、RAM価格の高騰によって、高価なLPDDR5Xと恒久的に組み合わされたチップは利点というより障壁になりつつある。"
+        },
+        {
+          "t": "p",
+          "x": "Acer、Asus、Dell、Gigabyte、HP、MSIの64GB GB10システムは、10月23日の発売時に$4999からとなる予定だ。ただしメモリ価格次第でその水準を保てない可能性もある。128GB GB10システムは、入手できたとしてもおよそ$7000〜$9000だ。"
+        },
+        {
+          "t": "p",
+          "x": "それ以外は64GB版Sparkも変わらない。クラスタリング用の同じConnectX 7 RDMA NIC、同じ20コアのArm CPU、そして同じ273 GB/sの共有メモリ帯域幅を備える。"
+        },
+        {
+          "t": "p",
+          "x": "Nvidiaはさらに、Spark同士の連携を自動化するSync Cluster Assistantと、一台以上のシステムでモデルをダウンロード・起動し、OpenCodeコーディングエージェントと連携させるModel Launcherも追加する。128GB版Sparkは、より大きなモデルやファインチューニング向けに引き続き提供される。"
+        }
+      ]
+    },
+    "gadgets/gemini-replaces-assistant-android": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "9月初め、モバイル版Google Assistantの提供終了が始まった。現在は広範囲に展開されているようだ。"
+        },
+        {
+          "t": "p",
+          "x": "Googleはここ数週間、AssistantユーザーをGeminiへ移行させてきた。この提供終了は当初2025年に予定され、その後2026年に延期された。Googleは8月初めに最終的なスケジュールを発表していた。"
+        },
+        {
+          "t": "p",
+          "x": "本日寄せられた複数のユーザー報告から見て、移行は本格的に進んでいるようだ。米国（US）と欧州で確認したすべてのデバイスとアカウントで、Google Assistantは姿を消している。"
+        },
+        {
+          "t": "p",
+          "x": "注目すべきは、Geminiアプリから「Switch to Google Assistant」の設定が削除されたことだ。Googleアプリ17.60安定版と17.62ベータでは、このショートカットがアカウントメニューの下部に表示されなくなった。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "そのため、もはや「スマートフォン、タブレット、またはペアリングしたデバイスでGoogle Assistantを使用したり、Google Assistantに戻したりする」ことはできない。ペアリングしたデバイスにはWear OS、ヘッドフォン、Android Autoが含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "「Google NestおよびGoogle Homeのスマートスピーカーやディスプレイ、その他のGoogle Assistant-enabledのスピーカーやディスプレイ」のAssistantには、まだ変更はない。"
+        },
+        {
+          "t": "p",
+          "x": "現在は、電源ボタンを長押しするか画面の隅からスワイプすると、Geminiが「Androidの音声アシスタント体験」となる。"
+        }
+      ]
+    },
+    "gadgets/apple-no-record-home-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "信頼性の高いApple情報筋のMark Gurmanは、Appleが待望のホームハブを10月後半に投入する可能性があると明かした。さらに新しいポッドキャストPower Onでは、その後にセキュリティカメラが続く可能性があると予測した。ただし、実際には動画を録画しないカメラだという。同氏はまた、AppleがHomePod miniとApple TVの高性能版を発売するとも主張している。"
+        },
+        {
+          "t": "p",
+          "x": "Gurmanによると、このカメラは社内でJ490と呼ばれる未発表のスマートホームディスプレイと組み合わせて使う製品だ。リップクリームに似た小さな円筒形のカメラで、フレームレートは非常に低く、動画の録画機能は備えない。"
+        },
+        {
+          "t": "p",
+          "x": "過剰な監視への懸念を踏まえ、Appleは代わりにセンサーがAIで家の中の動きを分析する仕組みにするという。顔認識も可能で、部屋に入ってきた人物を識別すると、その人が知り合いかどうかを伝えられるが、ユーザーが受け取るのはテキストによる説明だけだ。"
+        },
+        {
+          "t": "p",
+          "x": "Gurmanは、このカメラが「カメラ付きAirPodsに使われる予定の技術と非常によく似たもの」を使うと付け加えた。そのAirPodsは、極めて低解像度の静止画を撮影し、Visual Intelligenceで分析するとされる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-samsung-glasses-fcc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg?resize=835%2C557&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "待望のSamsungスマートグラスがFCCの試験を通過し、発売が目前に迫っていることがうかがえる。FCCの書類にはSM-O200PとSM-O200Jという2つのモデルが登場した。これは通常、商用化前の最終段階の一つである。"
+        },
+        {
+          "t": "p",
+          "x": "2つの製品コードは、量産前モデルで確認されたとおり、それぞれWarby ParkerとGentle Monsterのフレームを示している。これらのコードは複数のフレームスタイルで使われ、Warby Parkerが3種類、Gentle Monsterが(現時点で)2種類となる。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/samsung-warby-parker-edited.jpg?resize=696%2C464&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "SamsungとGoogleが共同で開発したこのグラスは、Android XRを搭載する初の製品となる予定だ。カメラ、マイク、耳をふさがないスピーカーを備え、通話やポッドキャスト、Google Geminiとのやり取りに対応する。Snapdragon AR1 Gen 1チップセット、インジケーターLED付きの12MPカメラ1基を採用し、1回の充電で最大9時間使えるとされる。2026年秋という時期以外に、価格や発売日は発表されていない。"
+        },
+        {
+          "t": "p",
+          "x": "Road to VRは、Samsungが数年先行するMetaと競うことになり、カメラ付きグラスをめぐってMetaが受けてきたのと同じ世間の厳しい目にもさらされると指摘している。"
+        }
+      ]
     }
   }
 }

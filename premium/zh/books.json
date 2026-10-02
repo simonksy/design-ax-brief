@@ -4811,6 +4811,119 @@
           "x": "现在最耗时间的是文件格式。PDF依然很麻烦，因为它是一种静态显示格式，移动一个字符，其余内容不会跟着调整。希望这一点能有所改善。说实话，我们还处于早期阶段，至少我自己是这么感觉的。变化实在太快，等尘埃落定之后会是什么样子，现在很难说。"
         }
       ]
+    },
+    "books/openai-book-market-study-exclude": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI请求在作者合并诉讼中排除一项图书市场研究，理由是该研究与作者方律所存在资金关联。"
+        },
+        {
+          "t": "p",
+          "x": "声称Gen AI造成市场损害的研究，其准确性与资金来源已成为合并诉讼中的重要问题。"
+        }
+      ]
+    },
+    "books/elevenlabs-spoken-audiobooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+          "cap": "ElevenLabs开发了能模仿任何人声音的AI语音克隆。"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs和Spoken等AI公司正瞄准快速增长（fast-growing）的有声书市场。今年夏天，ElevenLabs凭借一部由重现的Michael Caine声音朗读的AI-voiced版《The Odyssey》引发关注。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+          "cap": "ElevenLabs的AI-voiced版《The Odyssey》评价不一。"
+        },
+        {
+          "t": "p",
+          "x": "有声书销售额去年增长9%，达到$2.43 billion。真人朗读（Human-narrated）的有声书制作约需六个月和数千美元；AI版本成本约$200或$300，只需数小时或数天。畅销书作家、Spoken业务发展总监Joseph Nassise表示，AI让他能掌控每一个声音和发音。"
+        },
+        {
+          "t": "p",
+          "x": "SAG-AFTRA的Jane Love表示，迄今的AI作品并不是其会员会受雇参与的作品，2025年AI有声书约占行业收入的.03%。用ElevenLabs克隆声音的表演者按使用时长每小时约赚$1.20；朗读者Will Damron警告，声音克隆会贬低这门手艺。Nassise表示，AI有声书应清楚标注。"
+        }
+      ]
+    },
+    "books/sudowrite-chat-rewrite-printing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "我们最近对Chat进行了重大更新，速度和性能都有提升。"
+        },
+        {
+          "t": "p",
+          "x": "Chat响应速度翻倍 - 本周我们将Chat迁移到更快的基础设施，响应时间因此减半。在较大的任务上你一定能感受到。"
+        },
+        {
+          "t": "p",
+          "x": "Chat出错更少 - 我们一直在努力提升Chat在最容易出错之处的表现。最近的修复让错误率降低了30%，这意味着它丢失上下文、放错编辑位置或中途放弃的可能性大大降低。不过我们还没完成，更多Chat改进即将到来。"
+        },
+        {
+          "t": "p",
+          "x": "Rewrite现在运行在我们的自研（in-house）模型上 - Rewrite此前一段时间使用的是Anthropic的Claude Sonnet。我们刚把它迁移到Ballad，结果不言自明：作者实际采用Rewrite结果的可能性提高了20%。如果你有一阵子没用Rewrite了，值得再试一次。"
+        },
+        {
+          "t": "p",
+          "x": "现在可以真正打印文档了 - 以前在Sudowrite编辑器中按Ctrl + P或Command + P，只会弹出一页空白页和一条需要更宽浏览器的提示。好消息是：现在它会打印出你正在查看的文档的干净版本。"
+        }
+      ]
+    },
+    "books/garmus-ai-hubris-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+        },
+        {
+          "t": "p",
+          "x": "小说家Bonnie Garmus在为The Bookseller撰写的评论文章《AI可能会杀死我们，但那有那么糟吗？》中写道，AI的出现虽令大多数作家感到不安，却也照见了人类的傲慢。"
+        },
+        {
+          "t": "p",
+          "x": "Garmus的作者简介称她是一位离不开咖啡（coffee-dependent）的美国小说家。她的处女作Lessons in Chemistry曾登上全球畅销书榜首，并被New York Times读者评为21世纪100本最佳图书之一。"
+        }
+      ]
+    },
+    "books/audible-worlds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "面对Spotify在有声书市场带来的新竞争，Audible正转向AI等技术。这家Amazon旗下公司推出了三项功能，让听众可以探索书中角色、参与互动故事，并查看书中提到的地标或地点的图像和额外信息。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
+          "cap": "图片来源：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "图像功能首先只在一部作品中推出，即Sheehan Quirke的“The Cultural Tutor”。角色指南将随Audible于10月1日发布的Audible Original“Dracula”首次亮相，可实时显示正在说话的角色，并提供无剧透的角色卡片；Audible Original版“1984”和即将推出的“Exoplanet”也将加入该功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
+          "cap": "图片来源：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "由生成式AI（generative-AI）驱动的互动故事让听众可以与Dracula的仆人Renfield互动：这个角色会给听众分配角色、目标和赌注，并对听众所说的话实时作出反应。Audible表示，创作者参与其中，以确保故事立足于原著。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
+          "cap": "图片来源：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "2025年美国（U.S.）有声书销售额达到24.3亿美元。这些功能目前处于测试阶段，Audible计划逐步扩展到更多作品。"
+        }
+      ]
     }
   }
 }

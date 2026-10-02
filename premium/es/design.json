@@ -6233,6 +6233,136 @@
           "x": "Junto a los resultados se anotan tres supuestos. Las cifras de 40.000 y 1.800 dólares mantienen fijo el rendimiento del año anterior, el 70% es un supuesto ilustrativo y no una medición, y el retorno de dos meses se estira a un trimestre si se mira como cifra neta tras descontar las bajas. También queda una parte que no se traduce en dinero: los usuarios en prueba que recibieron el nuevo onboarding tuvieron un NPS de 51, frente a 34 del flujo existente."
         }
       ]
+    },
+    "design/classcad-ai-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ClassCAD.ai se ha lanzado como un CAD integrable impulsado por AI (AI-driven): un MCP autónomo capaz de construir CAD en tu entorno de Claude o Codex, útil como capa de automatización colaborativa, como entorno de pruebas para prototipos rápidos mediante conversación o como herramienta interna personalizada."
+        },
+        {
+          "t": "p",
+          "x": "Lo desarrolla AWV Informatik, con sede en St. Gallen, Switzerland (Suiza). El CAD de base, ClassCAD, se presenta como un 'headless nurbs modeller' que funciona de forma nativa o totalmente integrado como WebAssembly (WASM), con la misma API en JS/TS, Python y C++. Puede impulsar cualquier producto o aplicación que necesite recálculos de modelos paramétricos, bocetos con restricciones y modelos STEP."
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores disponen de dos APIs: la Part API, que trabaja con operaciones y rastrea los sólidos que generan, para piezas paramétricas estructuradas; y la Solid API, que trabaja directamente sobre los sólidos, para piezas personalizadas creadas desde código sin historial."
+        },
+        {
+          "t": "p",
+          "x": "La capa de AI requiere poca experiencia en modelado CAD. El usuario muestra a su modelo de frontera el sitio de ClassCAD.ai, donde este instala el MCP y el agente se convierte en experto en CAD, con el contexto del modelo guardado localmente en el sistema del usuario. Desde escribir o dictar una petición hasta subir una lista de requisitos, puede construir un modelo exportable a un CAD tradicional; en un ejemplo, recibió una lista de compra de componentes electrónicos de AliExpress y se le pidió construir una carcasa."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora es gratuito para uso no comercial; la licencia comercial parte de 100 CHF."
+        }
+      ]
+    },
+    "design/infoq-regeneratable-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Durante una década, el consejo habitual fue crear una biblioteca de componentes para toda la empresa. Daniel Curtis, de Griffiths Waite, sostiene que cuando un agente de programación puede producir con rapidez un componente con estilos y más o menos accesible, una única biblioteca canónica aporta menos que antes. Lo que vale la pena centralizar es el sistema de diseño, los tokens, las guías y los tests, no el código de los componentes publicados."
+        },
+        {
+          "t": "p",
+          "x": "Una biblioteca compartida reunía cuatro promesas: reutilización, coherencia, conocimiento experto codificado y una única fuente de verdad. Solo la reutilización y el conocimiento experto codificado necesitaban código publicado, y son justo las partes en las que ahora puede ayudar la AI. El verdadero coste siempre fue el mantenimiento: versionado, migraciones, proliferación de variantes y una propiedad que se diluye."
+        },
+        {
+          "t": "p",
+          "x": "El modelo propuesto: los tokens como fuente de verdad; las guías legibles por máquina y los principios de ingeniería como la especificación a partir de la cual genera un agente; y la verificación mediante tests de regresión visual, accesibilidad y conformidad con los tokens. El versionado sube en la pila hasta esas reglas."
+        },
+        {
+          "t": "p",
+          "x": "Si se dejan con sus valores por defecto, los modelos convergen en una media insulsa, por lo que un sistema de diseño con criterio propio se convierte en un diferenciador. La accesibilidad y los widgets realmente difíciles, como las tablas de datos, los combobox y los selectores de fecha, siguen siendo motivos para conservar algo de código compartido y cuidado."
+        }
+      ]
+    },
+    "design/doherty-threshold-ai-ux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+          "cap": "Dos eras de la informática, sujetas al mismo estándar de 400 milisegundos."
+        },
+        {
+          "t": "p",
+          "x": "Los equipos culpan al modelo de la lentitud de las funciones de AI. Pero el umbral de Doherty de 1982 nunca trató de lo rápido que piensa un ordenador, sino de cuánto tiempo sostiene una persona un pensamiento. Por debajo de unos 400 milisegundos, los usuarios dejan de agrupar su pensamiento en torno a las pausas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+        },
+        {
+          "t": "p",
+          "x": "La AI generativa dividió un evento en dos, el acuse de recibo y la respuesta, y el umbral siguió al acuse de recibo. La interfaz puede reflejar una entrada en 50 milisegundos sin depender de la inferencia. El streaming no resuelve el silencio previo al primer token."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+          "cap": "Dos relojes, dos responsables, dos conjuntos de reglas."
+        },
+        {
+          "t": "p",
+          "x": "Toda interacción con AI corre con dos relojes. El reloj uno, desde que el usuario confirma hasta la prueba de que la interfaz lo ha oído, debería apuntar a 100 ms con 400 como techo, y es trabajo de front-end. El reloj dos, la respuesta, puede ser largo si es honesto sobre lo que compra la espera. En los agentes, los pasos silenciosos hacen que los usuarios se vayan y vuelvan solo para aceptar el resultado, lo que acaba con la revisión human-in-the-loop."
+        },
+        {
+          "t": "p",
+          "x": "El consejo del autor: dividir el presupuesto en la especificación, reflejar primero la entrada, mostrar el estado real, medir el primer toque en uso real y dar a cada espera una salida."
+        }
+      ]
+    },
+    "design/ideogram45-region-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "Ideogram afirma que su nuevo modelo, Ideogram 4.5, resuelve uno de los mayores quebraderos de cabeza de la edición de imágenes con AI. Al editar una parte de una imagen, el resto no debería cambiar. Si se cambia la ropa de una persona, su complexión y el fondo deberían permanecer intactos. Modelos líderes como GPT-Image 2.5 y Nano Banana han mejorado mucho en esto, pero todavía tienden a producir artefactos, sobre todo tras varias ediciones. Según la empresa, Ideogram 4.5 solo modifica lo que el usuario le indica. Entre los usos previstos están la fotografía de producto, el diseño de interiores, la restauración de fotos y la edición de texto dentro de la imagen. Los primeros probadores confirman una gran coherencia entre ediciones."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Ideogram 4.5 ofrece cuatro niveles de calidad, de 0.8 a 22 centavos por imagen, todos con resolución nativa 2K. El modelo ya está disponible en la plataforma de Ideogram y a través de la API. Entre sus socios figuran Picsart, Runway, Pika y Leonardo AI. Ideogram también afirma que pronto habrá una versión open-weight."
+        }
+      ]
+    },
+    "design/figma-motion-sept": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "1lnuBH7CbEY"
+        },
+        {
+          "t": "p",
+          "x": "Release Notes 2026: September Edition, de Figma, trae nuevas funciones de Figma Motion y actualizaciones del lienzo."
+        },
+        {
+          "t": "p",
+          "x": "Motion ahora admite estilos de animación personalizados, audio y animaciones de texto para tu sistema de diseño. Pueden aplicarse automáticamente con el agente de Figma y con agentes de programación vía MCP, y exportarse directamente a Lottie."
+        },
+        {
+          "t": "p",
+          "x": "Ya están disponibles los Community Riffs, que permiten compartir animaciones, prototipos y experimentos directamente en la página de Figma Community. Las actualizaciones del visor de código y de MCP permiten hacer cambios con tu agente y enviarlos de vuelta a Figma."
+        },
+        {
+          "t": "p",
+          "x": "La sesión también muestra animaciones de lanzamiento y escalonado de texto, suavizado de fotogramas clave, escalado automático de piezas de marketing, plugins y shaders generativos, habilidades de IA personalizadas en el lienzo, creación de imágenes en Weave, opacidad como variable y mejoras en la fidelidad del diseño al código."
+        }
+      ]
     }
   }
 }

@@ -1,101 +1,106 @@
 {
- "date": "2026-10-02",
- "section": "games",
- "picks": [
-  {
-   "url": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
-   "source": "IGN",
-   "title": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5",
-   "headline": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5",
-   "tool": "Games",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "rationale": "Platform-level news: Sony's new lightweight neural upscaler QSSR brings PS5 Pro-style AI upscaling to the whole base-PS5 install base (Wolverine, Ghost of Yotei first), so every PS5 render target can now count on it.",
-   "published_iso": "2026-10-01T16:48:27.491Z",
-   "og_image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-   "excerpt": "Sony's QSSR is a lighter neural upscaler that runs on the base PS5's weaker GPU, extending the PS5 Pro's PSSR pipeline to the whole install base."
-  },
-  {
-   "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
-   "source": "Unity (YouTube)",
-   "title": "Introducing the official Unity plugin for Grok Build",
-   "headline": "Introducing the official Unity plugin for Grok Build",
-   "tool": "Games",
-   "accent": "#f5a623",
-   "motif": "cube",
-   "rationale": "New official release: Unity now ships a first-party plugin for xAI's Grok Build coding agent, so Unity teams get engine-aware guidance from a third major agent, not only Claude Code and Codex.",
-   "published_iso": "2026-10-01T09:01:29-07:00",
-   "og_image": "https://i.ytimg.com/vi/Fx1orSJc8d4/maxresdefault.jpg",
-   "excerpt": "Unity introduces an official plugin for xAI's Grok Build coding agent, bringing Unity engineering guidance directly into the terminal for AI-assisted game development."
-  },
-  {
-   "url": "https://forums.unrealengine.com/t/release-uefn-claude-team-starter-kit-v1-84-an-ai-dev-team-for-your-map-that-you-can-actually-see-and-that-learns-from-every-map-you-ship/2835895",
-   "source": "Epic Developer Community",
-   "title": "UEFN Claude Team Starter Kit v1.84 — an AI dev team for your Fortnite map",
-   "headline": "UEFN Claude Team Starter Kit v1.84 — an AI dev team for your Fortnite map",
-   "tool": "Games",
-   "accent": "#2ec5c5",
-   "motif": "cube",
-   "rationale": "Downloadable release: Claude Code plus Unreal MCP set up as a visible multi-agent team for UEFN map building, with a dashboard and memory carried between maps. Creators can try it right away.",
-   "published_iso": "2026-10-01T00:26:54+00:00",
-   "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/c/2/b/c2bc03a97a71aae9baf73e98f646ab64c3a1fb03_2_1024x512.png",
-   "excerpt": "A community kit turns Claude Code plus Unreal MCP into a visible multi-agent 'AI dev team' for UEFN map building, with a live dashboard and memory that learns from each shipped map."
-  },
-  {
-   "url": "https://aftermath.site/twitch-ads-ai-streamers-money/",
-   "source": "Aftermath",
-   "title": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads",
-   "headline": "Twitch Is Using AI To Decide Which Streamers Can Make Money Off Ads",
-   "tool": "Games",
-   "accent": "#eb367f",
-   "motif": "cube",
-   "rationale": "Platform policy change: Twitch now uses AI to classify stream content and decide which creators can earn ad revenue, a direct hit to creators' income.",
-   "published_iso": "2026-09-29T23:12:41.000Z",
-   "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/09/shutterstock_2068868201.jpg",
-   "excerpt": "Twitch is now using AI classification of stream content to decide which creators are eligible for ad revenue, drawing pushback from streamers."
-  },
-  {
-   "url": "https://forums.unrealengine.com/t/sina-a-100-local-ai-digital-human-that-walks-the-level-and-operates-real-blueprint-equipment-metahuman-nvidia-ardy/2835494",
-   "source": "Epic Developer Community",
-   "title": "Sina — a 100% local AI digital human that walks the level and operates Blueprint equipment",
-   "headline": "Sina — a 100% local AI digital human that walks the level and operates Blueprint equipment",
-   "tool": "Games",
-   "accent": "#ff5a4d",
-   "motif": "cube",
-   "rationale": "UE5 plugin that connects a MetaHuman to a local AI brain so it can talk, walk the level and operate Blueprint equipment with no cloud. A hands-on AI-NPC building block.",
-   "published_iso": "2026-09-29T20:39:41+00:00",
-   "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/a/7/4/a746990bd20a9fdd43073fa2a00ed8cd8a6f442b_2_1024x508.jpeg",
-   "excerpt": "A UE5 plugin links any project to a local AI 'brain' so a MetaHuman can talk, move through the level and operate Blueprint-driven equipment with no cloud AI."
+  "date": "2026-10-03",
+  "section": "games",
+  "items": [
+    {
+      "rank": 1,
+      "title": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
+      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-10-02T14:29:12.160641+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "At the GamesIndustry.biz HR Summit, attendees explained how any efficiency gains from generative AI are countered by employee anxiety, potential data leaks, and",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "First-hand HR Summit reporting on genAI's hidden overhead (anxiety, data leaks, review work) — a practical reality check for studio teams adopting AI."
+    },
+    {
+      "rank": 2,
+      "title": "Dmitriy Vergasov - LocHub - AI Assisted Localization System",
+      "url": "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341",
+      "source": "Epic Developer Community",
+      "published_iso": "2026-09-29T10:51:54+00:00",
+      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png",
+      "excerpt": "LocHub brings AI translation into the Unreal Editor without taking the control away from you. Your project's strings go to the AI provider you choose, under your own key; built-in checks and a second AI catch the problems; you review the result in one place and pull it back as plain Unreal localizat",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "New Unreal Editor tool for BYO-key AI localization with second-model QA and in-editor review — directly usable tomorrow."
+    },
+    {
+      "rank": 3,
+      "title": "Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: \"throwing AI at it is just disrespectful\"",
+      "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-02T19:35:25Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+      "excerpt": "\"AI bros are definitely not beating the",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "New event: a vibe-coded Banjo-Tooie recomp and the established port devs' pushback — the single representative of today's AI recomp/decomp cluster."
+    },
+    {
+      "rank": 4,
+      "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
+      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-10-02T11:45:53.107075+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Bethesda have seemingly slapped an AI-generated Fallout: New York browser game with cease and desist order.",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "A rights holder reportedly sending a C&D to an AI-generated fan game — a concrete IP-enforcement signal for anyone prompting games on existing franchises."
+    },
+    {
+      "rank": 5,
+      "title": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra",
+      "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
+      "source": "Epic Developer Community",
+      "published_iso": "2026-09-28T03:03:13+00:00",
+      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
+      "excerpt": "A step-by-step guide to animated NPCs, AI-generated dialogue, and conversation history with Codex, Unreal MCP, UnrealAI, and the OpenAI API.  https://dev.epicgames.com/community/learning/tutorials/9mlkB/building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Step-by-step UE5 tutorial wiring Codex + Unreal MCP + OpenAI API into talking NPCs — hands-on and distinct from the earlier MCP getting-started video."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time": {
+        "verdict": "new",
+        "nearest": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
+        "new_action": ""
+      },
+      "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/": {
+        "verdict": "new",
+        "nearest": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
+        "new_action": ""
+      },
+      "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims": {
+        "verdict": "new",
+        "nearest": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
+        "new_action": ""
+      },
+      "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834": {
+        "verdict": "new",
+        "nearest": "https://www.youtube.com/watch?v=k0tgmrBuIJc",
+        "new_action": ""
+      }
+    },
+    "note": "Pre-dropped by annotate: Unity Grok plugin (same story as 10-02 Grok Build video and the Claude Code/Codex plugin cards) and Insomniac Wolverine no-AI (09-20). Dropped: Comtoos Hive Axil (likely-repeat of 09-30 inven launch); PC Gamer 'haystack slop' Steam review (same story as 09-27 'Robloxification of Steam' haystack rip-offs); MediEvil recomp and TheGamer non-AI decomp list (same cluster as Banjo-Tooie recomp, kept only Banjo-Tooie as the concrete new event); Witcher 3 DLSS 5 injection (incremental entry in heavily covered DLSS 5 mod run, latest wccftech 09-29/10-01); Polygon Halo browser port (AI angle unclear, related to Meta browser tools card); Kotaku Loish (illustration accusation, not games); Kotaku 'stop AI game mashup mods' (opinion column) and RPS Total War mod corruption (third anti-AI-modding item; held back for category spread and RPS outlet cap). Cross-section: none of the picks overlap PS5 QSSR or other recent cross-section stories. Diversity: 4 outlets (GI.biz, Epic Dev Community x2, GamesRadar+, RPS)."
   }
- ],
- "dedup": {
-  "checks": {
-   "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5": {
-    "verdict": "new",
-    "nearest": "https://wccftech.com/playstation-5-pros-pssr-victory-final-fantasy-vii-revelation-4k-60-fps/",
-    "new_action": ""
-   },
-   "https://www.youtube.com/watch?v=Fx1orSJc8d4": {
-    "verdict": "follow-up",
-    "nearest": "https://www.youtube.com/watch?v=gy4HlUNn1lE",
-    "new_action": "New release: Unity's official plugin for xAI Grok Build (Oct 1), a different agent and a separate product from the Claude Code (9/13) and Codex (9/18-19) plugins already published."
-   },
-   "https://forums.unrealengine.com/t/release-uefn-claude-team-starter-kit-v1-84-an-ai-dev-team-for-your-map-that-you-can-actually-see-and-that-learns-from-every-map-you-ship/2835895": {
-    "verdict": "new",
-    "nearest": "https://unity.com/blog/unity-plugin-for-claude-code",
-    "new_action": ""
-   },
-   "https://aftermath.site/twitch-ads-ai-streamers-money/": {
-    "verdict": "new",
-    "nearest": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
-    "new_action": ""
-   },
-   "https://forums.unrealengine.com/t/sina-a-100-local-ai-digital-human-that-walks-the-level-and-operates-real-blueprint-equipment-metahuman-nvidia-ardy/2835494": {
-    "verdict": "new",
-    "nearest": "https://forums.unrealengine.com/t/open-sourced-ue-box-an-ai-agent-that-operates-the-unreal-editor-levels-blueprints-materials-c/2835066",
-    "new_action": ""
-   }
-  },
-  "note": "Re-curation: removed the PocketGamer.biz 'Layer launches AI Playable ad generator' pick because it is a SPONSORED paid guest post (advertorial). Replacement is the Unity Grok Build plugin (Unity official YouTube), marked follow-up to the Unity agent-plugin series: it is a new official release for a different agent (xAI Grok Build), not a re-post of the Claude Code/Codex plugins. Other remaining candidates were rejected: the 80 Level, TheGamer and GamesRadar+ QSSR items are the same story as the IGN pick (cluster c1). The PC Gamer 'spot the DLSS 5' quiz is commentary with no new event. The Wccftech DLSS 4.5-on-Radeon mod continues the DLSS-on-AMD mod story (9/05, 9/29) and is low novelty. The Codex/GPT-6 NPC community tutorial overlaps the Unreal MCP getting-started card (9/19) and would be a third Epic Developer Community card, breaking the per-outlet cap of 2. Cluster c1 (Sony QSSR) kept IGN only. Twitch ad-eligibility AI is a different event from the Twitch stream-coach (9/24) and CEO disclosure-rules (9/29) cards. Sina is a different project from UE Box (10/01). Diversity: 4 outlets (IGN, Unity, Epic Developer Community x2, Aftermath)."
- }
 }

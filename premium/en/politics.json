@@ -854,19 +854,127 @@
       "blocks": [
         {
           "t": "p",
-          "x": "화요일 미국 제3순회 연방항소법원(3rd U.S. Circuit Court of Appeals)은 Thomson Reuters가 지금은 문을 닫은 법률 AI 스타트업 Ross Intelligence를 상대로 거둔 획기적인 저작권 승소 판결을 유지했다. 출판사 콘텐츠를 허락이나 보상 없이 상업용 AI 제품 학습에 쓴 행위를 두고 공정 이용 주장을 받아들이지 않은 첫 연방 항소심 판결이다."
+          "x": "On Tuesday, the 3rd U.S. Circuit Court of Appeals upheld Thomson Reuters' landmark copyright win against the now-defunct legal AI startup Ross Intelligence — the first federal appeals ruling to reject a fair use argument for using publisher content, without permission or compensation, to train a commercial AI product."
         },
         {
           "t": "p",
-          "x": "“다툼의 여지가 없는 증거는 Thomson Reuters의 자료에 창작적 불꽃이 있고, ROSS가 이를 매우 유사한 목적에 사용해 직접적인 경쟁자가 되려 했음을 보여준다”고 Tamika Montgomery-Reeves 판사는 썼다. 그는 이번 사건이 LLM이나 다른 생성형 AI 도구를 다룬 것이 아니라고 짚었다. Ross의 검색 엔진은 텍스트를 생성하지 않고 판결문에 있는 구절을 찾아 보여줬다. 판사는 이 점이 다른 AI 저작권 소송에 미칠 영향을 제한할 수 있다고 본다."
+          "x": "“The undisputed evidence reflects that Thomson Reuters's materials possess a creative spark, and ROSS aspired to be a direct competitor by using them for a highly similar purpose,” wrote Judge Tamika Montgomery-Reeves. She noted the case does not concern an LLM or other generative AI tool: Ross's search engine retrieved existing passages from judicial opinions rather than generating text, which she argues may limit its impact on other AI copyright litigation."
         },
         {
           "t": "p",
-          "x": "Thomson Reuters는 2020년 Ross가 경쟁 AI 법률 검색 엔진을 학습시키려고 Westlaw의 “헤드노트(headnotes)” 수천 건을 복제했다며 소송을 냈다. Stephanos Bibas 판사는 2025년 2월 Thomson Reuters의 손을 들어줬다."
+          "x": "Thomson Reuters sued in 2020, alleging Ross copied thousands of Westlaw “headnotes” to train a competing AI legal search engine. Judge Stephanos Bibas sided with Thomson Reuters in February 2025."
         },
         {
           "t": "p",
-          "x": "이번 판결은 저작물의 텍스트를 재현해 그 저작물과 직접 경쟁하는 AI 도구는 공정 이용 판단을 통과하기 어렵다는 신호로 읽힌다. 다만 생성형 AI가 더 변형적이라고 평가받을 여지는 남겼다. Montgomery-Reeves 판사는 이 사건을 Bartz v. Anthropic 사건과 구분했다. 한 판사가 책으로 Claude를 학습시킨 것을 공정 이용으로 본 사건이다."
+          "x": "The ruling suggests an AI tool that reproduces a work's text to compete directly with it will likely fail a fair use test, while leaving room for generative AI to be seen as more transformative. Montgomery-Reeves distinguished the case from Bartz v. Anthropic, where a judge found training Claude on books was fair use."
+        }
+      ]
+    },
+    "politics/eu-nudify-ai-ban": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "So-called ‘Nudify’ AI, which uses a single photo to create images that make a real person appear undressed, will be strictly banned in Europe. By directly banning AI that generates non-consensual sexual images by law, the EU elevates the misuse of generative AI from after-the-fact content removal to regulation of the AI systems themselves."
+        },
+        {
+          "t": "p",
+          "x": "According to the European Commission (EC), the AI Act provision banning such systems will apply from December 2. The announcement came after more than 100 members of the European Parliament called for immediate enforcement readiness."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
+          "cap": "The European Union will begin strict legal enforcement against Nudify AI from December. Photo_EC website"
+        },
+        {
+          "t": "p",
+          "x": "EC spokesperson Thomas Regnier said, “This is illegal and has absolutely no place in Europe,” adding, “We are ready to enforce the law from day one.”"
+        },
+        {
+          "t": "p",
+          "x": "The AI Act defines AI systems that generate non-consensual sexual content as a ‘prohibited AI practice,’ and AI systems that generate child sexual abuse material are banned as well. There was originally no explicit prohibition, but it was added during the AI Omnibus revision process, and the European Parliament and the EU Council reached a political agreement in May."
+        },
+        {
+          "t": "p",
+          "x": "The EU is also using the Digital Services Act (DSA) to investigate xAI's Grok over its generation of non-consensual sexual images. The approach runs on two tracks: the spread of illegal content on platforms is handled under the DSA, while the AI systems that create it are handled under the AI Act."
+        }
+      ]
+    },
+    "politics/vanorden-cooke-deepfake": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
+          "cap": "Derrick Van Orden (Alex Brandon/AP)"
+        },
+        {
+          "t": "p",
+          "x": "Republican Rep. Derrick Van Orden received a cease-and-desist letter Wednesday from attorneys for Rebecca Cooke, his Democratic challenger in Wisconsin's 3rd Congressional District, over AI deepfake videos."
+        },
+        {
+          "t": "p",
+          "x": "The letter cites a deepfake Van Orden posted to X on Aug. 4 purporting to show Cooke saying she intends \"to take advantage of as much corruption as possible.\" Ben Stafford of Elias Law Group wrote that the content aims \"to fool the voters of Wisconsin into believing she said something she did not.\""
+        },
+        {
+          "t": "p",
+          "x": "Wisconsin is one of 33 states regulating political deepfakes; it does not ban them but requires disclosure that a video is AI-generated. The letter says Cooke could pursue a defamation claim."
+        },
+        {
+          "t": "p",
+          "x": "Van Orden responded with another AI-generated video and a statement accusing Cooke of running ads with \"false claims\" about his record. Cooke said Van Orden is \"putting words in my mouth\" and tied the deepfakes to data centers he has supported."
+        }
+      ]
+    },
+    "politics/china-lgfv-nvidia-chips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
+          "cap": "Nvidia logo"
+        },
+        {
+          "t": "p",
+          "x": "Bloomberg reported on the 2nd, based on an analysis of documents submitted to Chinese authorities, that a financial company owned by Chinese local governments funded purchases of high-performance Nvidia AI chips subject to U.S. export controls."
+        },
+        {
+          "t": "p",
+          "x": "According to the documents, Semi-Tech Leasing Group lent more than 3 billion yuan (about 600 billion won) over the past year so that Gloryview Technology could buy more than 700 servers. One contract specified financing for 32 Asustek servers equipped with Nvidia B300 chips. The documents do not show which chips were actually installed in the hundreds of other servers."
+        },
+        {
+          "t": "p",
+          "x": "The B300 is an AI chip in the Blackwell line and cannot be sold to China without U.S. government approval. Most of the servers were found to be installed at a China Mobile data center complex in Zhongwei, Ningxia."
+        },
+        {
+          "t": "p",
+          "x": "Semi-Tech Leasing was founded in 2015 by the ‘Big Fund,’ and local governments including Shenzhen and Beijing now hold most of its shares."
+        },
+        {
+          "t": "p",
+          "x": "China's Ministry of Industry and Information Technology and the companies involved did not respond to requests for comment. Nvidia said it is “looking into the report and will work with OEM customers to investigate,” while Asustek said it strictly complies with relevant laws and regulations, including export controls."
+        }
+      ]
+    },
+    "politics/msit-sovereign-ai-merge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
+          "cap": "Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon tours an exhibition booth at ‘2026 Korea AI Innovation Talent Connect’ at COEX on July 29."
+        },
+        {
+          "t": "p",
+          "x": "The Ministry of Science and ICT is merging and reorganizing the sovereign AI foundation model project, next-generation AI programs and other projects into a data competitiveness support program worth 800 billion won next year."
+        },
+        {
+          "t": "p",
+          "x": "According to 2027 budget proposal project descriptions released by the office of Rep. Kim Sun-min of the Rebuilding Korea Party, the government allocated 800 billion won to the ‘Support for Strengthening Data Competitiveness for Frontier-Level AI Development’ program: 7천500억원 for frontier-level AI data support and 50 billion won for building a cybersecurity AI training base."
+        },
+        {
+          "t": "p",
+          "x": "The support method changes from grants to capital investment through the Korea Development Bank. The government will invest 7천500억원 in the Korea Development Bank, which will then invest in domestic AI companies. The 50 billion won security AI budget will be granted to the Korea Internet & Security Agency (KISA)."
+        },
+        {
+          "t": "p",
+          "x": "Kim demanded an explanation of the actual implementation plan, saying, “They told the press the projects would proceed separately, but submitted a plan to the National Assembly that combines them,” and argued, “We cannot simply write a 7천500억원 blank check with unclear uses and conditions.”"
         }
       ]
     }

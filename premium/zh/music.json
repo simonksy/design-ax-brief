@@ -5102,6 +5102,130 @@
           "x": "一整天都在聆听的手表会引发隐私问题，无论是对佩戴者本人还是周围的人，也涉及Apple如何存储和使用这些数据。Apple对此也很敏感，专门发布了一份『Privacy Overview』文件逐一说明。"
         }
       ]
+    },
+    "music/stability-ai-sean-parker-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Napster联合创始人Sean Parker重返音乐行业，他告诉The Information，这次他会按规矩行事。（他坦然承认，上一次先斩后奏、事后再求原谅的做法效果并不好。）"
+        },
+        {
+          "t": "p",
+          "x": "两年前，他参与了对Stability AI的$80 million救助。这家图像生成初创公司因过度支出和内部动荡导致创始人Emad Mostaque被罢免，一度濒临崩溃。如今，Parker与出任CEO的老友Prem Akkaraju正揭开他们一直在打造的成果。"
+        },
+        {
+          "t": "p",
+          "x": "Parker表示，宏大构想是把Stability打造成音乐专业人士首选的AI工具开发商。为此，公司在8月下旬宣布获得Sony、Warner、Universal等方面的$76 million融资，这几家公司还作为交易的一部分授权其曲库用于训练。此后，Stability发布了三款新音频模型和AI音乐编辑软件。该AI可根据文本提示生成完整器乐曲或短片段。Parker说，即将推出的更新将让用户通过哼唱旋律或用beatbox打出鼓点来引导生成。"
+        }
+      ]
+    },
+    "music/questlove-sampling-ai": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "T8TFsrsEx_o"
+        },
+        {
+          "t": "p",
+          "x": "在Billboard On the Record节目中，Questlove回顾了采样从Fairlight和Marley Marl，到Public Enemy的It Takes a Nation of Millions to Hold Us Back——他1988年的“Eureka moment”（顿悟时刻）——的发展历程，并探讨微切片、版权目录出售和生成式AI可能给这门艺术形式带来哪些新机遇或风险。"
+        },
+        {
+          "t": "p",
+          "x": "“1988年到1991年间，那就是Wild West（蛮荒西部）。没人管我们，”他说。直到Biz Markie诉讼案之后，获得许可才成为规则。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "“关于用AI还是亲手创作，争论从未停止——就像用微波炉加热和做一顿完整的饭。对我来说，不完美之中一直有种魔力。”"
+        },
+        {
+          "t": "p",
+          "x": "由于存在数字失真，他认为AI音乐在声音上“还没到那个程度”，不过模型或许会在十年内将其完善。“但我把AI看作与采样文化相平行的事物。”"
+        },
+        {
+          "t": "p",
+          "x": "“如果你在构建AI系统，就应该公开用于搭建平台的素材，并且应当为此支付报酬。”"
+        }
+      ]
+    },
+    "music/lyricfind-ai-lyrics-long-tail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LyricFind创始人兼CEO Darryl Ballantyne在一篇评论文章中指出，生成式AI需要授权、透明度和防护机制，但应用于歌词、版权数据和元数据的AI能帮助现有作品获得更多收入。"
+        },
+        {
+          "t": "p",
+          "x": "歌词版税按使用量计算，歌词缺失意味着展示次数减少，版权方收入也随之减少。人工转录、同步和翻译设定了盈亏平衡点，限制了业界深入挖掘曲库的程度。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
+        },
+        {
+          "t": "p",
+          "x": "据Luminate统计，2025年有9.6M 首歌曲的播放量在10,000至500,000次之间，占全球播放总量的13%以上。LyricFind先用AI完成初步转录，再进行逐词同步和翻译，全程由人工核验。"
+        },
+        {
+          "t": "p",
+          "x": "他表示，若员工效率提高三四倍，可行的内容量将增长约700%，因此将人工团队扩大一倍是合理的。即便是准确率99%的系统，处理1亿条歌词也会留下百万个错误。"
+        }
+      ]
+    },
+    "music/suno-v6-take-me-back-video": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "1OITvfAN6-g"
+        },
+        {
+          "t": "p",
+          "x": "跟随Braylon Browner与Emmy奖得主、编舞/导演Nina McNeely走进幕后，看看从舞蹈到歌曲，再到围绕动作构建的完整创作世界，需要付出什么。"
+        },
+        {
+          "t": "p",
+          "x": "“能够边做边编辑音乐，真是太棒了，”Browner说，这样舞蹈和音乐就能“真正交汇，完美和谐地配合”。McNeely补充说，Suno“正在把权力交还给编舞者，让我们能根据自己的编舞构想修改歌曲”。"
+        },
+        {
+          "t": "p",
+          "x": "完整音乐视频请见suno.com/braylon"
+        }
+      ]
+    },
+    "music/japanvoice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+        },
+        {
+          "t": "p",
+          "x": "东京一家法院支持了日本声优津田健次郎（Kenjiro Tsuda）的主张，在这起具有里程碑意义的案件中裁定人类声音受法律保护。津田称，一个TikTok账号用AI克隆了他“富有光泽”的男中音。"
+        },
+        {
+          "t": "p",
+          "x": "以在《Yu-Gi-Oh!》（游戏王）中为海马濑人（Seto Kaiba）配音而闻名的津田表示，一个匿名账号在2024年7月至去年下半年间发布的多段视频，其旁白克隆自他的声音。由于该账号已被删除，他要求法院责令TikTok删除视频的请求被驳回。"
+        },
+        {
+          "t": "p",
+          "x": "据AFP报道，法院认为未经许可使用演员的声音应被视为侵犯其形象权，这是日本首例此类案件。TikTok曾在庭上辩称，视频使用的是“普通男性声音”。"
+        },
+        {
+          "t": "p",
+          "x": "动漫声优日益担忧，作品或形象被AI吸收的创作者需要得到更多保护，这一裁决正是在此背景下作出的。"
+        }
+      ]
     }
   }
 }

@@ -1121,11 +1121,11 @@
         },
         {
           "t": "p",
-          "x": "오랫동안 기다려온 Samsung 스마트 안경이 FCC 테스트를 통과했다. 출시가 머지않았다는 신호다. FCC 서류에는 SM-O200P와 SM-O200J, 두 모델이 올라왔다. 보통 상용화 직전 마지막 단계 중 하나다."
+          "x": "Samsung's long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner. Two distinct models, SM-O200P and SM-O200J, have appeared in FCC filings, typically one of the last steps before commercialization."
         },
         {
           "t": "p",
-          "x": "양산 전 모델에서 확인된 대로 두 제품 코드는 각각 Warby Parker와 Gentle Monster 프레임을 가리킨다. 코드마다 여러 프레임 스타일이 붙을 예정인데, Warby Parker가 세 가지, Gentle Monster가 (현재까지) 두 가지다."
+          "x": "The two product codes indicate Warby Parker and Gentle Monster frames, respectively, as seen on pre-production models. Multiple frame styles will use those codes: three from Warby Parker and two (so far) from Gentle Monster."
         },
         {
           "t": "img",
@@ -1133,11 +1133,11 @@
         },
         {
           "t": "p",
-          "x": "Samsung과 Google이 함께 만든 이 안경은 Android XR을 처음 탑재하는 제품이 될 예정이다. 카메라와 마이크, 귀를 막지 않는 스피커를 갖춰 통화하고 팟캐스트를 듣고 Google Gemini와 대화할 수 있다. Snapdragon AR1 Gen 1 칩셋에 표시 LED가 달린 12MP 카메라 한 대를 쓰고, 한 번 충전하면 최대 9시간 쓴다고 알려졌다. 2026년 가을이라는 출시 시기 말고는 가격도 출시일도 나오지 않았다."
+          "x": "Built with Samsung and Google, the glasses are set to be the first to run Android XR, with onboard cameras, microphones and off-ear speakers for calls, podcasts and interacting with Google Gemini. They are said to use a Snapdragon AR1 Gen 1 chipset, a single 12MP camera with indicator LED, and up to 9 hours of use per charge. No pricing or launch date has been announced outside the Fall 2026 window."
         },
         {
           "t": "p",
-          "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하고, 카메라 달린 안경을 두고 Meta가 받아온 대중의 시선도 똑같이 감당해야 한다고 짚었다."
+          "x": "Road to VR notes Samsung will face Meta's multi-year lead, and the same public scrutiny over camera-clad glasses that Meta has drawn."
         }
       ]
     },
@@ -6249,6 +6249,125 @@
         {
           "t": "p",
           "x": "On its first day trading in Shanghai on August 19, the stock price rose more than fivefold, and the company's valuation stood at $34 billion as of Monday's close. SemiAnalysis compares Unitree to DJI. The US, meanwhile, is leaning toward shutting the door: a bipartisan House bill in June named Unitree specifically in proposing restrictions on importing Chinese robots, and in July the FCC imposed rules on foreign-made robots. The lockout could end up pushing the US to the margins of robotics instead."
+        }
+      ]
+    },
+    "gadgets/meta-muse-home-link": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+          "cap": "Image: The Verge, Getty Images, Meta"
+        },
+        {
+          "t": "p",
+          "x": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm."
+        },
+        {
+          "t": "p",
+          "x": "“Muse gadgets are open source devices you build yourself,” Meta says. “Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench.” However, Meta cautions that you should “Proceed at your own risk!”"
+        },
+        {
+          "t": "p",
+          "x": "The company is also giving away a Muse Home Link gadget that it created. With the Muse Home Link, you use community-built skills to have the AI agent “turn on a light, control your TV, send a document to a printer, and more, depending on your setup,” Meta says. It manufactured 5,000 of the gadgets, according to Meta Superintelligence Labs' Nat Friedman, and you can claim a waitlist spot for the Muse Home Link now ahead of shipping sometime this month."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-02-at-2.07.16-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "Meta's Muse Home Link gadget."
+        }
+      ]
+    },
+    "gadgets/dgx-spark-64gb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB.jpg",
+          "cap": "Image credit: Future"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia is introducing a 64GB version of its DGX Spark, meant to be more affordable for local AI users who don't need 128GB of RAM."
+        },
+        {
+          "t": "p",
+          "x": "The AI field moves fast: dense models like Qwen 3.8 27B can now fit within 32GB of RAM, and skyrocketing RAM prices make a chip permanently paired with costly LPDDR5X more of a barrier than an asset."
+        },
+        {
+          "t": "p",
+          "x": "64GB GB10 systems from Acer, Asus, Dell, Gigabyte, HP, and MSI are slated to start at $4999 when they launch on October 23 — though memory prices may not let them stay there. 128GB GB10 systems, if you can find one, run roughly $7000 to $9000."
+        },
+        {
+          "t": "p",
+          "x": "Otherwise the 64GB Sparks are unchanged: the same ConnectX 7 RDMA NIC for clustering, the same 20-core Arm CPU, and the same 273 GB/s of shared memory bandwidth."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia is also adding the Sync Cluster Assistant to automate joining Sparks together, plus a Model Launcher that downloads and starts models across one or more systems and links them to the OpenCode coding agent. The 128GB Spark remains available for larger models and fine-tuning."
+        }
+      ]
+    },
+    "gadgets/gemini-replaces-assistant-android": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At the start of September, the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out."
+        },
+        {
+          "t": "p",
+          "x": "Google has been moving Assistant users to Gemini over the past few weeks. This deprecation was originally set for 2025 and later extended to 2026. In early August, Google announced the final timeline."
+        },
+        {
+          "t": "p",
+          "x": "From various user reports today, this migration appears to be fully underway. Google Assistant is gone on all devices/accounts we checked in the US and Europe."
+        },
+        {
+          "t": "p",
+          "x": "Notably, the Gemini app has removed the “Switch to Google Assistant” setting. This shortcut no longer appears at the bottom of the account menu with Google app 17.60 stable and 17.62 beta."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Assistant-gone-Gemini-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "As such, you can no longer “use or switch back to Google Assistant on your phone, tablet, or paired devices.” The latter grouping includes Wear OS, headphones, and Android Auto."
+        },
+        {
+          "t": "p",
+          "x": "There are no changes to Assistant just yet on “Google Nest and Google Home smart speakers, displays, or other Google Assistant-enabled speakers and displays.”"
+        },
+        {
+          "t": "p",
+          "x": "Gemini is now the “voice assistant experience on Android” when you long-press the power button or swipe from the corners."
+        }
+      ]
+    },
+    "gadgets/apple-no-record-home-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/intro-1790948027.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reliable Apple insider Mark Gurman revealed that Apple's long-awaited home hub could arrive later in October, and on his new Power On podcast he predicted that a security camera may follow — one that won't actually record video. He also claims Apple will launch more powerful versions of the HomePod mini and Apple TV."
+        },
+        {
+          "t": "p",
+          "x": "According to Gurman, the camera is a companion to Apple's unannounced smart home display, internally called J490. The small cylindrical cameras, resembling chapstick, will have a very low frame rate and won't offer video recording."
+        },
+        {
+          "t": "p",
+          "x": "Mindful of concerns about over-surveillance, Apple will reportedly have the sensor use AI to analyze movement in your home instead. It will be able to do facial recognition: if it identifies someone walking into a room, it can tell you whether you know that person, but you'll only receive text descriptions."
+        },
+        {
+          "t": "p",
+          "x": "Gurman added that the camera will use “a very similar technology to what they're going to be using for the AirPods with cameras,” which reportedly take extremely low resolution still images analyzed by Visual Intelligence."
         }
       ]
     }

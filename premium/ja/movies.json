@@ -5502,6 +5502,115 @@
           "x": "Oxford Metrics CEOのImogen O'Connorは、「Viconは今、身体と顔をまとめた統合ワークフローを顧客に提供できます。人の演技を捉え、分析し、アニメーションに移す作業が、以前よりずっと効率的に回るようになります」と語った。"
         }
       ]
+    },
+    "movies/curious-refuge-ai-depth-map": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BFsVW1DrLng"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refugeは、深度マップ作成に愛用する無料AIツールの一つとしてDepth Anythingを紹介した。ダウンロード版アプリでMac上でローカルに動かすことも、Fal.ai経由でオンラインで使うこともできる。"
+        },
+        {
+          "t": "p",
+          "x": "深度マップとは、被写体がカメラからどれだけ近いか遠いかを濃淡で表したグレースケール映像だ。チュートリアルでは、映像をFalにアップロードしVDA Largeモデルを使うと、約60秒で深度マップがレンダリングされた。"
+        },
+        {
+          "t": "p",
+          "x": "この深度マップは、ルックを決める開始画像と元の映像とともに、AI動画ツールのモーションリファレンスとして使われる。これにより生成されたショットは、元の動きと空間構造に沿いながらスタイルや環境を変えられる。"
+        }
+      ]
+    },
+    "movies/bbc-brittin-ai-doctor-who": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "BBCのMatt Brittin会長によれば、AI-generatedのDoctor Whoのエピソードは「かなり良かった」という。元Google EMEA責任者の彼は、最近誰かからこの長寿フランチャイズの50分のエピソードが送られてきたが、それは完全にAI生成だったと語り、酷評はしなかった。「人間に取って代わるものではないが、その話はあとでしよう」と彼は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "RTS London Conventionで登壇したBrittinは、Amazonの国際部門トップKelly Dayと同様にAIの力を支持し、「誰もが[今や]ハリウッドのスタジオにほぼ匹敵する水準のコンテンツを作れるようになった」と語った。その数日前には、「ガードレールの範囲内で」AIが制作・司会する番組を認める考えを示していた。"
+        },
+        {
+          "t": "p",
+          "x": "この発言は、BBCが5億ポンド（6億6200万ドル）の経費削減を進め、数百人規模の人員削減に至るなかで出たものだ。BBC Threeを含む可能性のあるチャンネル閉鎖も近く見込まれている。"
+        }
+      ]
+    },
+    "movies/curious-refuge-ai-sound-design": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "0yv0r5UyzCY"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refugeは、AIエージェントがサウンドデザインをこなせるかを検証した。元のサウンドデザインを取り除いた映像でInVideoの新エージェントとChatGPT Astraを走らせ、2つのプロジェクトで人間が手がけたバージョンと結果を比べた。"
+        },
+        {
+          "t": "p",
+          "x": "InVideoは一部の効果音を正しく配置したものの、音量レベルがばらつき、シーンに合わない選択もあって仕上がりは粗かった。Adobe Premiere Pro内でサウンドデザインを組み立てたAstraのほうが実用的な結果を出したが、それでもプロの品質には届かなかった。InVideoは約2時間で4.56ドル、Astraは約1時間45分で5.20ドルかかった。"
+        },
+        {
+          "t": "p",
+          "x": "結論として、これらのツールは人間が仕上げる前提の粗い下書きには役立つが、タイミングや感情、創作上の意図には依然として人間が必要だ。"
+        }
+      ]
+    },
+    "movies/lightbox-expo-genai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2018年にJim DemonakosとBobby Chiuが創設したLightBox Expoが、10月23〜25日にパサデナ・コンベンション・センターで200以上のセッションとともに開催される。厳格なno-generative-AI（生成AI禁止）ポリシーは、パネルだけでなくArtist Alleyで販売される作品にも適用される。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+          "cap": "アニー賞でのBobby ChiuとJim Demonakos"
+        },
+        {
+          "t": "p",
+          "x": "Demonakosによれば、同エキスポは展示フロアとArtist Alleyで4年、ひょっとすると5年前からAIポリシーを設けている。「AI作品は誰かから盗んだものなので、基本的に海賊版と見なしている」。昨年からはこの方針を来場者向けにも打ち出した。「生成AIは盗みであり、本物の芸術ではないと考えている」"
+        },
+        {
+          "t": "p",
+          "x": "AI企業からの反発について問われると、彼はまったくないと答え、アーティストからはおおむね称賛されているという。Chiuは自身のLightBoxパネルで、AIを一切使わずに、より少ない時間、人数、予算で仕事をする方法を示すことでAIに対抗していると語った。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Disney、DreamWorks、Paramount、Illumination、Laikaなどの大手スタジオが、毎年のように人材採用に訪れている。"
+        }
+      ]
+    },
+    "movies/continuum": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "K7Q7FESRHJY"
+        },
+        {
+          "t": "p",
+          "x": "Runway Labsによる、リアルタイム映像インターフェースを軸に構築された新たなオペレーティングシステム研究アプリケーション、Project Continuumを紹介する。"
+        },
+        {
+          "t": "p",
+          "x": "本日、コンピューターとの新たな4つの関わり方であるPortals、Visual Thinking、Responsive Video Interfaces、Interactive Worldsの初期段階を公開する。SolarisのようなInterface World Modelsは、インターフェースのあり方そのものを描き直しつつある。"
+        }
+      ]
     }
   }
 }

@@ -5489,6 +5489,115 @@
           "x": "Imogen O'Connor, directora ejecutiva de Oxford Metrics, dijo que “Vicon ahora puede ofrecer a los clientes un flujo de trabajo unificado que abarca cuerpo y rostro. Capturar, analizar y transferir la actuación humana a la animación funciona ahora de forma mucho más eficiente que antes.”"
         }
       ]
+    },
+    "movies/curious-refuge-ai-depth-map": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BFsVW1DrLng"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge comparte una de sus herramientas de IA gratuitas favoritas para crear mapas de profundidad: Depth Anything, que puede ejecutarse localmente en un Mac mediante una app descargable o en línea a través de Fal.ai."
+        },
+        {
+          "t": "p",
+          "x": "Un mapa de profundidad es un video en escala de grises en el que los tonos indican lo cerca o lejos que están los objetos de la cámara. En el tutorial, el metraje subido a Fal con el modelo VDA Large generó un mapa de profundidad en unos 60 segundos."
+        },
+        {
+          "t": "p",
+          "x": "Después, el mapa de profundidad se usa como referencia de movimiento en una herramienta de video con IA, junto con una imagen inicial que define el estilo visual y el metraje original, de modo que la toma generada puede cambiar de estilo y de entorno sin dejar de seguir el movimiento y la estructura espacial originales."
+        }
+      ]
+    },
+    "movies/bbc-brittin-ai-doctor-who": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Un episodio de Doctor Who generado por IA (AI-generated) fue «bastante bueno», según el director general de la BBC, Matt Brittin. El exresponsable de Google para EMEA contó que alguien le había enviado hace poco un episodio de 50 minutos de la longeva franquicia, generado por completo con IA, y se negó a criticarlo. «Quiero decir, no va a reemplazar a los humanos, pero hablaremos de eso», afirmó."
+        },
+        {
+          "t": "p",
+          "x": "En la RTS London Convention, Brittin coincidió con Kelly Day, responsable internacional de Amazon, en respaldar el poder de la IA: «Todo el mundo tiene [ya] la capacidad de crear contenido casi al nivel de un estudio de Hollywood». Días antes había dicho que permitiría que un programa fuera realizado y presentado por IA «dentro de unos límites»."
+        },
+        {
+          "t": "p",
+          "x": "La charla se produjo en medio de un plan de ahorro de la BBC de 500 millones de libras (662 millones de dólares) que conlleva cientos de despidos, con cierres de canales, posiblemente incluido BBC Three, previstos en breve."
+        }
+      ]
+    },
+    "movies/curious-refuge-ai-sound-design": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "0yv0r5UyzCY"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge comprobó si los agentes de IA pueden encargarse del diseño sonoro: ejecutó el nuevo agente de InVideo y ChatGPT Astra sobre material al que se le había quitado el diseño sonoro original y comparó los resultados con las versiones hechas por personas en dos proyectos."
+        },
+        {
+          "t": "p",
+          "x": "InVideo colocó bien algunos efectos, pero la ejecución fue tosca, con niveles irregulares y decisiones que no encajaban con la escena. Astra, que construyó el diseño sonoro dentro de Adobe Premiere Pro, dio un resultado más útil, aunque todavía sin calidad profesional. InVideo tardó unas dos horas y costó $4.56; Astra, alrededor de 1 hora y 45 minutos y $5.20."
+        },
+        {
+          "t": "p",
+          "x": "El veredicto: las herramientas sirven para un primer borrador que una persona pueda pulir, pero el ritmo, la emoción y la intención creativa todavía requieren a un humano."
+        }
+      ]
+    },
+    "movies/lightbox-expo-genai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LightBox Expo, fundada en 2018 por Jim Demonakos y Bobby Chiu, vuelve al Pasadena Convention Center del 23 al 25 de octubre con más de 200 sesiones. Su estricta política no-generative-AI (sin IA generativa) se aplica no solo a los paneles, sino también a las obras que se venden en Artist Alley."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+          "cap": "Bobby Chiu y Jim Demonakos en los Annie Awards"
+        },
+        {
+          "t": "p",
+          "x": "Demonakos explicó que la exposición lleva cuatro, quizá cinco, años con una política sobre IA en su zona de exhibición y en Artist Alley: «En esencia, consideramos que la obra hecha con IA es pirata, porque se la has robado a alguien». El año pasado la política pasó a aplicarse también de cara a los asistentes. «Creemos que la IA generativa es un robo y que no es arte de verdad»."
+        },
+        {
+          "t": "p",
+          "x": "Preguntado por posibles reacciones en contra de empresas de IA, dijo que no ha habido ninguna y que los artistas, en general, han elogiado la postura. Chiu contó que su propio panel en LightBox planta cara a la IA al mostrar cómo trabajar con menos tiempo, menos personas y menos dinero sin usar IA en absoluto."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Grandes estudios como Disney, DreamWorks, Paramount, Illumination y Laika vuelven año tras año para reclutar talento."
+        }
+      ]
+    },
+    "movies/continuum": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "K7Q7FESRHJY"
+        },
+        {
+          "t": "p",
+          "x": "Presentamos Project Continuum de Runway Labs, una nueva aplicación de investigación de sistemas operativos construida en torno a interfaces de video en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Hoy compartimos un primer vistazo a cuatro nuevas formas de interactuar con el equipo: Portals, Visual Thinking, Responsive Video Interfaces e Interactive Worlds. Los Interface World Models, como Solaris, están replanteando lo que puede ser una interfaz."
+        }
+      ]
     }
   }
 }

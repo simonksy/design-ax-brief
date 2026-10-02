@@ -5044,6 +5044,119 @@
           "x": "Ahora mismo, lo que más tiempo consume son los formatos de archivo. El PDF sigue siendo complicado, porque es un formato de visualización estática en el que mover un carácter no arrastra el resto con él. Me gustaría que eso se resolviera. Siendo sincera, todavía estamos en una etapa inicial, al menos así lo siento yo. El cambio ha sido tan rápido que es difícil saber cómo se verán las cosas cuando se asienten."
         }
       ]
+    },
+    "books/openai-book-market-study-exclude": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI busca excluir un estudio sobre el mercado del libro de las demandas consolidadas de los autores, alegando los vínculos de financiación del estudio con el bufete de los autores."
+        },
+        {
+          "t": "p",
+          "x": "La exactitud y la financiación de las investigaciones que afirman que la Gen AI causa daños al mercado se han convertido en cuestiones importantes en las demandas consolidadas."
+        }
+      ]
+    },
+    "books/elevenlabs-spoken-audiobooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+          "cap": "ElevenLabs ha desarrollado clones de voz con AI capaces de imitar la voz de cualquier persona."
+        },
+        {
+          "t": "p",
+          "x": "Empresas de AI como ElevenLabs y Spoken apuntan al mercado de audiolibros, de crecimiento rápido (fast-growing). ElevenLabs llamó la atención este verano con una versión AI-voiced de \"The Odyssey\" narrada por una recreación de la voz de Michael Caine."
+        },
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+          "cap": "La versión AI-voiced de \"The Odyssey\" de ElevenLabs recibió críticas dispares."
+        },
+        {
+          "t": "p",
+          "x": "Las ventas de audiolibros crecieron un 9% el año pasado, hasta $2.43 billion. Los audiolibros narrados por personas (Human-narrated) requieren unos seis meses y miles de dólares; las versiones con AI cuestan más bien $200 o $300 y se hacen en horas o días. El autor superventas Joseph Nassise, director de desarrollo de negocio de Spoken, afirma que la AI le permite controlar cada voz y cada pronunciación."
+        },
+        {
+          "t": "p",
+          "x": "Jane Love, de SAG-AFTRA, dice que los títulos con AI hasta ahora no son de los que contratarían a sus miembros, y que los audiolibros con AI representaron alrededor del .03% de los ingresos del sector en 2025. Los intérpretes que clonan su voz con ElevenLabs ganan unos $1.20 por hora de uso; el narrador Will Damron advierte que los clones de voz devalúan el oficio. Nassise sostiene que los audiolibros con AI deberían etiquetarse con claridad."
+        }
+      ]
+    },
+    "books/sudowrite-chat-rewrite-printing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hemos hecho recientemente grandes actualizaciones en Chat que mejoran tanto su velocidad como su rendimiento."
+        },
+        {
+          "t": "p",
+          "x": "Las respuestas de Chat ahora son el doble de rápidas - Esta semana trasladamos Chat a una infraestructura más rápida, lo que redujo a la mitad el tiempo de respuesta. Se notará sin duda en las tareas más grandes."
+        },
+        {
+          "t": "p",
+          "x": "Chat comete menos errores - Hemos trabajado a fondo para mejorar el rendimiento de Chat donde es más probable que falle. Nuestras correcciones más recientes han reducido la tasa de errores en un 30%, de modo que ahora es mucho menos probable que pierda el contexto, coloque mal una edición o se rinda. Aún no hemos terminado y habrá más mejoras de Chat."
+        },
+        {
+          "t": "p",
+          "x": "Rewrite ahora funciona con nuestro modelo in-house - Rewrite usaba Claude Sonnet de Anthropic desde hacía un tiempo. Acabamos de pasarlo a Ballad y los resultados hablan por sí solos: ahora es un 20% más probable que los autores usen de verdad el resultado de Rewrite. Si hace tiempo que no prueba Rewrite, vale la pena volver a hacerlo."
+        },
+        {
+          "t": "p",
+          "x": "Imprima de verdad sus documentos - Al pulsar Ctrl + P o Command + P en el editor de Sudowrite antes aparecía una página en blanco y un mensaje que pedía un navegador más ancho. La buena noticia es que ahora se imprimirá una versión limpia del documento que esté viendo."
+        }
+      ]
+    },
+    "books/garmus-ai-hubris-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En un artículo de opinión para The Bookseller titulado \"La AI podría matarnos, pero ¿es tan malo?\", la novelista Bonnie Garmus escribe que, aunque la llegada de la AI ha alarmado a la mayoría de los escritores, también ha puesto de relieve la soberbia de la humanidad."
+        },
+        {
+          "t": "p",
+          "x": "La biografía de autora de Garmus la describe como una novelista estadounidense coffee-dependent, dependiente del café. Su primera novela, Lessons in Chemistry, fue número uno en ventas a nivel mundial y los lectores del New York Times la eligieron entre los 100 mejores libros del siglo 21."
+        }
+      ]
+    },
+    "books/audible-worlds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Ante la nueva competencia de Spotify en el mercado de audiolibros, Audible recurre a la IA y a otras tecnologías. La empresa, propiedad de Amazon, presentó tres funciones que permiten a los oyentes explorar los personajes de un libro, participar en historias interactivas y ver imágenes e información adicional sobre lugares emblemáticos o sitios mencionados en el libro."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
+          "cap": "Créditos de imagen: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "La función de imágenes llega primero a un solo título, “The Cultural Tutor”, de Sheehan Quirke. La guía de personajes debuta con el lanzamiento del Audible Original “Dracula” el 1 de octubre: muestra en tiempo real quién está hablando y ofrece fichas de personajes sin spoilers; los Audible Originals de “1984” y del próximo “Exoplanet” también la tendrán."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
+          "cap": "Créditos de imagen: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "Las historias interactivas, impulsadas por IA generativa (generative-AI), permiten a los oyentes interactuar con Renfield, el sirviente de Dracula: el personaje asigna al oyente un papel, un objetivo y lo que está en juego, y luego reacciona en tiempo real a lo que dice. Audible afirma que los creadores participan para que las historias se mantengan fieles al libro."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
+          "cap": "Créditos de imagen: Amazon"
+        },
+        {
+          "t": "p",
+          "x": "Las ventas de audiolibros en Estados Unidos (U.S.) alcanzaron 2430 millones de dólares en 2025. Las funciones están en beta y Audible planea ampliarlas a más títulos con el tiempo."
+        }
+      ]
     }
   }
 }

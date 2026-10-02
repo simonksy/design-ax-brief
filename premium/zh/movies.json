@@ -5094,6 +5094,115 @@
           "x": "Oxford Metrics首席执行官Imogen O'Connor表示，「Vicon现在可以为客户提供涵盖身体与面部的统一工作流程。捕捉、分析并将人的表演转化为动画，这一整套流程现在运行得比以往高效得多。」"
         }
       ]
+    },
+    "movies/curious-refuge-ai-depth-map": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BFsVW1DrLng"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge分享了其最喜欢的免费深度图AI工具之一：Depth Anything。它既可通过下载应用在Mac上本地运行，也可通过Fal.ai在线使用。"
+        },
+        {
+          "t": "p",
+          "x": "深度图是一段灰度视频，用明暗表示物体离摄像机的远近。在教程中，将素材上传到Fal并使用VDA Large模型，约60秒便渲染出深度图。"
+        },
+        {
+          "t": "p",
+          "x": "随后，深度图在AI视频工具中用作运动参考，与决定画面风格的起始图像和原始素材一起使用，使生成的镜头在沿用原有运动和空间结构的同时，改变风格与环境。"
+        }
+      ]
+    },
+    "movies/bbc-brittin-ai-doctor-who": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "BBC总干事Matt Brittin表示，一集AI-generated的《神秘博士》（Doctor Who）“相当不错”。这位前Google EMEA负责人说，最近有人给他发来这部长寿系列的一集50分钟剧集，完全由AI生成，而他并未加以抨击。“我的意思是，它不会取代人类，不过这个我们稍后再谈，”他说。"
+        },
+        {
+          "t": "p",
+          "x": "在RTS London Convention上，Brittin与Amazon国际业务负责人Kelly Day一样力挺AI的能力：“每个人[如今]都有能力制作几乎达到好莱坞制片厂水准的内容。”几天前，他曾表示会允许“在护栏之内”由AI制作并主持节目。"
+        },
+        {
+          "t": "p",
+          "x": "这番言论发表之际，BBC正推进5亿英镑（6.62亿美元）的节支计划，导致数百人被裁，预计很快还将关停部分频道，可能包括BBC Three。"
+        }
+      ]
+    },
+    "movies/curious-refuge-ai-sound-design": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "0yv0r5UyzCY"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge测试了AI智能体能否胜任声音设计：在去除原有声音设计的素材上运行InVideo的新智能体和ChatGPT Astra，再在两个项目中将结果与人工制作的版本进行对比。"
+        },
+        {
+          "t": "p",
+          "x": "InVideo有些音效放对了位置，但整体执行粗糙，音量电平不一致，有些选择与场景不符。Astra在Adobe Premiere Pro中完成声音设计，结果更有用，但仍未达到专业水准。InVideo耗时约两小时、花费4.56美元；Astra约1小时45分钟、5.20美元。"
+        },
+        {
+          "t": "p",
+          "x": "结论是：这些工具适合做出供人打磨的粗略初稿，但节奏、情绪和创作意图仍需要人来把握。"
+        }
+      ]
+    },
+    "movies/lightbox-expo-genai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LightBox Expo由Jim Demonakos和Bobby Chiu于2018年创办，将于10月23日至25日重返帕萨迪纳会议中心，带来200多场活动。其严格的no-generative-AI（禁止生成式AI）政策不仅适用于座谈，也适用于Artist Alley出售的作品。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+          "cap": "Bobby Chiu与Jim Demonakos在安妮奖现场"
+        },
+        {
+          "t": "p",
+          "x": "Demonakos表示，展会在展区和Artist Alley实行AI政策已有四年，也可能是五年：“我们基本上把AI作品视为盗版，因为那是从别人那里偷来的。”去年，这项政策开始面向观众。“我们认为生成式AI就是盗窃，它不是真正的艺术。”"
+        },
+        {
+          "t": "p",
+          "x": "被问及是否遭到AI公司反对时，他说一次也没有，艺术家们则普遍称赞这一立场。Chiu说，他自己的LightBox座谈通过展示如何在完全不用AI的情况下，以更少的时间、人手和资金完成工作，来对抗AI。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Disney、DreamWorks、Paramount、Illumination和Laika等大型工作室年年回到这里招揽人才。"
+        }
+      ]
+    },
+    "movies/continuum": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "K7Q7FESRHJY"
+        },
+        {
+          "t": "p",
+          "x": "Runway Labs推出Project Continuum，这是一款围绕实时视频界面打造的全新操作系统研究应用。"
+        },
+        {
+          "t": "p",
+          "x": "今天，我们抢先展示与电脑交互的四种新方式：Portals、Visual Thinking、Responsive Video Interfaces与Interactive Worlds。Solaris等Interface World Models正在重新构想界面的可能形态。"
+        }
+      ]
     }
   }
 }

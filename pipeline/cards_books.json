@@ -1,257 +1,257 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "books",
   "cards": [
     {
-      "id": "audible-worlds",
+      "id": "savo-directive-detectives-ai-art",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Audible에 AI 대화\n책 속 세계 탐험 추가",
-      "body": "Audible이 캐릭터 가이드, 장소 이미지, 생성형 AI 이야기를 시험한다.",
-      "mini_headline": "Audible, AI 캐릭터 대화 추가",
+      "headline": "Claremont 작가\n신간 AI 삽화 논란",
+      "body": "Giulio Savo AI-illustrated 책이 Claremont서 비판받다.",
+      "mini_headline": "AI 삽화 동화책에 비판",
       "tool": "Books",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+      "source": "Valley News",
+      "url": "https://vnews.com/2026/10/02/ai-book-controversy-claremont/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+            "cap": "Giulio Savo가 Claremont Middle School에서 \"Directive Detectives: The Freedom Trail Directive\"에 관해 이야기하고 있다. (Molly Hughes / Valley News)"
+          },
+          {
             "t": "p",
-            "x": "오디오북 시장에서 Spotify와 새로 경쟁하게 된 Audible이 AI를 비롯한 기술로 눈을 돌렸다. Amazon이 소유한 이 회사가 선보인 기능은 세 가지다. 책 속 등장인물을 살펴보고, 인터랙티브 이야기에 참여하고, 책에 나오는 명소나 장소의 이미지와 부가 정보를 보는 기능이다."
+            "x": "\"Directive Detectives: The Freedom Trail Directive\"는 한 소녀가 Boston Public Library의 \"입구를 지키는 돌사자\"를 지나 올라가는 장면으로 시작한다. 실제 입구에는 사자가 없는데 삽화에는 버젓이 그려져 있다. Claremont에 사는 작가 Giulio Savo는 삽화를 AI로 만들었다며 이렇게 말했다. \"이건 제 이야기이고 제 글이지만, 저는 삽화가가 아닙니다.\""
           },
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-            "cap": "이미지 출처: Amazon"
+            "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+            "cap": "\"Boston Public Library – 1895\"라는 설명이 붙은, 책 속 AI-generated 삽화."
           },
           {
             "t": "p",
-            "x": "이미지 기능은 우선 Sheehan Quirke의 “The Cultural Tutor” 한 작품에만 적용된다. 캐릭터 가이드는 Audible이 10월 1일 공개하는 Audible Original “Dracula”로 첫선을 보인다. 지금 누가 말하는지 실시간으로 보여 주고 스포일러 없는 캐릭터 카드도 띄운다. Audible Original “1984”와 공개 예정작 “Exoplanet”에도 들어간다."
+            "x": "Claremont Middle School은 첫 작가와의 밤 행사에서 모든 가정에 이 책을 한 권씩 나눠 줬다. 비용은 연방 가족 참여 기금에서 댔다. Savo는 삽화가를 쓸 형편이 안 됐고 자신도 디지털 마케팅 일자리를 AI에 빼앗겼다고 했다. 본문에도 오류가 몇 군데 있다. Amazon이 요구하는 AI 사용 고지는 판매 페이지에도, 책에도 없다."
+          },
+          {
+            "t": "p",
+            "x": "Dartmouth의 미술사학자 Mary Coffey는 아이들을 실제 명소로 안내하는 책이라면 어느 정도는 정확해야 한다고 했다. 그는 이 이미지들을 \"너무나 빈곤한 시각 언어\"라고 평하면서 AI를 쓴다면 솔직히 밝히라고 촉구했다."
           },
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-            "cap": "이미지 출처: Amazon"
+            "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+            "cap": "Jared Gagnon이 그린 \"Sunset Scares\" 포스터. (Courtesy Dustin Warburton)"
           },
           {
             "t": "p",
-            "x": "생성형 AI(generative-AI) 기반 인터랙티브 이야기에서는 Dracula의 하인 Renfield와 대화할 수 있다. 이 캐릭터는 청취자에게 역할과 목표, 걸린 것을 정해 준 뒤 그 말에 실시간으로 반응한다. Audible은 이야기가 원작에서 벗어나지 않도록 창작자들이 참여한다고 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-            "cap": "이미지 출처: Amazon"
-          },
-          {
-            "t": "p",
-            "x": "2025년 미국(U.S.) 오디오북 매출은 24억 3천만 달러에 이르렀다. 기능은 아직 베타다. Audible은 시간을 두고 적용 작품을 늘릴 계획이다."
+            "x": "삽화가 Jared Gagnon과 함께 작업하는 Vermont의 작가 Dustin Warburton은 \"켜기만 하면 책을 만들어 내는 전등 스위치\"와 겨뤄야 하는 현실이 답답하다며 학교가 자신에게는 한 번도 연락하지 않았다고 말했다. 두 사람은 AI를 썼다면 독자 눈에 띄는 곳에 밝혀야 한다는 입장이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Audible adds AI character chat\nand book-world exploration",
-          "body": "Audible is beta-testing a character guide, place imagery and generative-AI interactive stories with book characters.",
-          "mini_headline": "Audible adds AI character chat",
+          "headline": "Claremont author criticized\nover AI art in new book",
+          "body": "Giulio Savo's AI-illustrated book, given free to Claremont families, drew criticism over historical errors.",
+          "mini_headline": "AI art draws criticism\nin children's book",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+                "cap": "Giulio Savo talks about \"Directive Detectives: The Freedom Trail Directive\" at Claremont Middle School. (Molly Hughes / Valley News)"
+              },
+              {
                 "t": "p",
-                "x": "Facing new competition in the audiobook market from Spotify, Audible is turning to AI and other technology. The Amazon-owned company introduced three features that let listeners explore a book’s characters, engage in interactive stories, and view imagery and bonus information about landmarks or places mentioned in the book."
+                "x": "\"Directive Detectives: The Freedom Trail Directive\" opens with a girl climbing past \"the stone lions guarding the entrance\" of the Boston Public Library. No lions stand at that entrance, but the illustrations show them anyway. Author Giulio Savo of Claremont said the illustrations were generated by AI: \"These are my stories, these are my words, but I'm not an illustrator.\""
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-                "cap": "Image Credits: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+                "cap": "An AI-generated illustration labeled \"Boston Public Library – 1895\" from the book."
               },
               {
                 "t": "p",
-                "x": "The imagery feature arrives first in just one title, Sheehan Quirke’s “The Cultural Tutor.” A character guide debuts with Audible’s October 1 release of its Audible Original “Dracula,” showing who’s speaking in real time and offering spoiler-free character cards; the Audible Originals of “1984” and the forthcoming “Exoplanet” will get it too."
+                "x": "Claremont Middle School gave a copy to every family at its first author night, paid for with federal family engagement funds. Savo said he couldn't afford an illustrator and had lost his own digital marketing job to AI. Some errors also appear in the text, and Amazon's required AI disclosure is not shown on the listing or in the book."
+              },
+              {
+                "t": "p",
+                "x": "Dartmouth art historian Mary Coffey said a book walking children past real landmarks should be reasonably accurate, calling the images \"such an impoverished visual language\" and urging AI users to be forthcoming."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-                "cap": "Image Credits: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+                "cap": "A poster for \"Sunset Scares,\" illustrated by Jared Gagnon. (Courtesy Dustin Warburton)"
               },
               {
                 "t": "p",
-                "x": "Interactive stories, powered by generative AI, let listeners interact with Dracula’s servant, Renfield: the character gives the listener a role, goal and stakes, then reacts in real time to what they say. Audible says creators are involved so the stories stay grounded in the book."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-                "cap": "Image Credits: Amazon"
-              },
-              {
-                "t": "p",
-                "x": "U.S. audiobook sales reached $2.43 billion in 2025. The features are in beta, and Audible plans to expand them to more titles over time."
+                "x": "Vermont writer Dustin Warburton, who works with illustrator Jared Gagnon, said competing with \"a light switch that turns on and produces a book\" is frustrating, and that the school never called him. Both want AI use disclosed where readers can see it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Audible에 AI 대화\n책 속 세계 탐험 추가",
-          "body": "Audible이 캐릭터 가이드, 장소 이미지, 생성형 AI 이야기를 시험한다.",
-          "mini_headline": "Audible, AI 캐릭터 대화 추가",
+          "headline": "Claremont 작가\n신간 AI 삽화 논란",
+          "body": "Giulio Savo AI-illustrated 책이 Claremont서 비판받다.",
+          "mini_headline": "AI 삽화 동화책에 비판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+                "cap": "Giulio Savo가 Claremont Middle School에서 \"Directive Detectives: The Freedom Trail Directive\"에 관해 이야기하고 있다. (Molly Hughes / Valley News)"
+              },
+              {
                 "t": "p",
-                "x": "오디오북 시장에서 Spotify와 새로 경쟁하게 된 Audible이 AI를 비롯한 기술로 눈을 돌렸다. Amazon이 소유한 이 회사가 선보인 기능은 세 가지다. 책 속 등장인물을 살펴보고, 인터랙티브 이야기에 참여하고, 책에 나오는 명소나 장소의 이미지와 부가 정보를 보는 기능이다."
+                "x": "\"Directive Detectives: The Freedom Trail Directive\"는 한 소녀가 Boston Public Library의 \"입구를 지키는 돌사자\"를 지나 올라가는 장면으로 시작한다. 실제 입구에는 사자가 없는데 삽화에는 버젓이 그려져 있다. Claremont에 사는 작가 Giulio Savo는 삽화를 AI로 만들었다며 이렇게 말했다. \"이건 제 이야기이고 제 글이지만, 저는 삽화가가 아닙니다.\""
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-                "cap": "이미지 출처: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+                "cap": "\"Boston Public Library – 1895\"라는 설명이 붙은, 책 속 AI-generated 삽화."
               },
               {
                 "t": "p",
-                "x": "이미지 기능은 우선 Sheehan Quirke의 “The Cultural Tutor” 한 작품에만 적용된다. 캐릭터 가이드는 Audible이 10월 1일 공개하는 Audible Original “Dracula”로 첫선을 보인다. 지금 누가 말하는지 실시간으로 보여 주고 스포일러 없는 캐릭터 카드도 띄운다. Audible Original “1984”와 공개 예정작 “Exoplanet”에도 들어간다."
+                "x": "Claremont Middle School은 첫 작가와의 밤 행사에서 모든 가정에 이 책을 한 권씩 나눠 줬다. 비용은 연방 가족 참여 기금에서 댔다. Savo는 삽화가를 쓸 형편이 안 됐고 자신도 디지털 마케팅 일자리를 AI에 빼앗겼다고 했다. 본문에도 오류가 몇 군데 있다. Amazon이 요구하는 AI 사용 고지는 판매 페이지에도, 책에도 없다."
+              },
+              {
+                "t": "p",
+                "x": "Dartmouth의 미술사학자 Mary Coffey는 아이들을 실제 명소로 안내하는 책이라면 어느 정도는 정확해야 한다고 했다. 그는 이 이미지들을 \"너무나 빈곤한 시각 언어\"라고 평하면서 AI를 쓴다면 솔직히 밝히라고 촉구했다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-                "cap": "이미지 출처: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+                "cap": "Jared Gagnon이 그린 \"Sunset Scares\" 포스터. (Courtesy Dustin Warburton)"
               },
               {
                 "t": "p",
-                "x": "생성형 AI(generative-AI) 기반 인터랙티브 이야기에서는 Dracula의 하인 Renfield와 대화할 수 있다. 이 캐릭터는 청취자에게 역할과 목표, 걸린 것을 정해 준 뒤 그 말에 실시간으로 반응한다. Audible은 이야기가 원작에서 벗어나지 않도록 창작자들이 참여한다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-                "cap": "이미지 출처: Amazon"
-              },
-              {
-                "t": "p",
-                "x": "2025년 미국(U.S.) 오디오북 매출은 24억 3천만 달러에 이르렀다. 기능은 아직 베타다. Audible은 시간을 두고 적용 작품을 늘릴 계획이다."
+                "x": "삽화가 Jared Gagnon과 함께 작업하는 Vermont의 작가 Dustin Warburton은 \"켜기만 하면 책을 만들어 내는 전등 스위치\"와 겨뤄야 하는 현실이 답답하다며 학교가 자신에게는 한 번도 연락하지 않았다고 말했다. 두 사람은 AI를 썼다면 독자 눈에 띄는 곳에 밝혀야 한다는 입장이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AudibleにAI会話\n本の世界を探る機能",
-          "body": "Audibleが人物ガイド、場所の画像、生成AIの対話型物語をベータ版で試している。",
-          "mini_headline": "AudibleにAIキャラクター会話",
+          "headline": "Claremontの作家\n新刊のAI挿絵に批判",
+          "body": "Giulio SavoのAI-illustrated本がClaremontで批判を浴びた。",
+          "mini_headline": "児童書のAIアートに批判",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+                "cap": "Claremont Middle Schoolで「Directive Detectives: The Freedom Trail Directive」について語るGiulio Savo。(Molly Hughes / Valley News)"
+              },
+              {
                 "t": "p",
-                "x": "オーディオブック市場でSpotifyとの新たな競争に直面するAudibleは、AIなどの技術に目を向けている。Amazon傘下の同社は、本の登場人物を探り、インタラクティブな物語に参加し、作中に登場する名所や場所の画像と補足情報を見られる3つの機能を発表した。"
+                "x": "「Directive Detectives: The Freedom Trail Directive」は、少女がBoston Public Libraryの「入口を守る石のライオン」の脇を通り過ぎて上っていく場面から始まる。実際の入口にライオンはいないが、挿絵にはそれが描かれている。Claremontに住む著者Giulio Savoは、挿絵はAIで生成したと説明し、「これは私の物語で、私の言葉だが、私はイラストレーターではない」と語った。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-                "cap": "画像提供：Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+                "cap": "本に収められた、「Boston Public Library – 1895」と記されたAI-generatedの挿絵。"
               },
               {
                 "t": "p",
-                "x": "画像機能はまずSheehan Quirkeの“The Cultural Tutor”の1作品のみで提供される。キャラクターガイドは10月1日に配信されるAudible Original“Dracula”で初登場し、誰が話しているかをリアルタイムで表示し、ネタバレのないキャラクターカードを提供する。Audible Originalの“1984”と今後配信予定の“Exoplanet”にも導入される。"
+                "x": "Claremont Middle Schoolは初めての「作家の夜」で、連邦の家族参加支援資金を使い、全家庭に一冊ずつ配布した。Savoはイラストレーターを雇う余裕がなく、自身もデジタルマーケティングの仕事をAIに奪われたと話す。本文にも誤りが見られ、Amazonが義務づけるAI使用の開示は、販売ページにも本にも記載されていない。"
+              },
+              {
+                "t": "p",
+                "x": "Dartmouthの美術史家Mary Coffeyは、実在の名所へ子どもを案内する本であれば相応の正確さが必要だと指摘した。画像を「あまりに貧しい視覚言語」と評し、AIを使う人は率直に明かすべきだと訴えた。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-                "cap": "画像提供：Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+                "cap": "Jared Gagnonが描いた「Sunset Scares」のポスター。(Courtesy Dustin Warburton)"
               },
               {
                 "t": "p",
-                "x": "生成AI（generative-AI）を活用したインタラクティブな物語では、Draculaの召使いRenfieldと対話できる。キャラクターは聴き手に役割、目標、賭けられたものを与え、相手の発言にリアルタイムで反応する。Audibleによれば、物語が原作に根ざしたものになるようクリエイターが関わっているという。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-                "cap": "画像提供：Amazon"
-              },
-              {
-                "t": "p",
-                "x": "2025年の米国（U.S.）のオーディオブック売上は24億3000万ドルに達した。各機能はベータ版で、Audibleは今後対象タイトルを順次広げる計画だ。"
+                "x": "イラストレーターのJared Gagnonと組むVermontの作家Dustin Warburtonは、「入れれば本ができあがる照明スイッチ」と競うのはもどかしいと語り、学校からは一度も声がかからなかったという。二人とも、AIの使用を読者の目に触れる形で開示するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Audible上线AI对话\n可探索书中世界",
-          "body": "Audible正在测试角色指南、地点图像及生成式AI互动故事三项功能。",
-          "mini_headline": "Audible上线AI角色对话",
+          "headline": "Claremont作家\n新书AI插图遭批评",
+          "body": "Giulio Savo的AI-illustrated书在Claremont因史实错误受批评。",
+          "mini_headline": "儿童书AI插图引批评",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+                "cap": "Giulio Savo在Claremont Middle School介绍《Directive Detectives: The Freedom Trail Directive》。（Molly Hughes / Valley News）"
+              },
+              {
                 "t": "p",
-                "x": "面对Spotify在有声书市场带来的新竞争，Audible正转向AI等技术。这家Amazon旗下公司推出了三项功能，让听众可以探索书中角色、参与互动故事，并查看书中提到的地标或地点的图像和额外信息。"
+                "x": "《Directive Detectives: The Freedom Trail Directive》开篇写一个女孩经过Boston Public Library“守卫入口的石狮”向上攀爬。那处入口其实并没有石狮，插图却照样画了出来。来自Claremont的作者Giulio Savo表示，插图由AI生成：“这些是我的故事，是我的文字，但我不是插画师。”"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-                "cap": "图片来源：Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+                "cap": "书中一幅标注“Boston Public Library – 1895”的AI-generated插图。"
               },
               {
                 "t": "p",
-                "x": "图像功能首先只在一部作品中推出，即Sheehan Quirke的“The Cultural Tutor”。角色指南将随Audible于10月1日发布的Audible Original“Dracula”首次亮相，可实时显示正在说话的角色，并提供无剧透的角色卡片；Audible Original版“1984”和即将推出的“Exoplanet”也将加入该功能。"
+                "x": "Claremont Middle School在首届作家之夜向每个家庭赠送一本，费用来自联邦家庭参与资金。Savo说他请不起插画师，自己的数字营销工作也被AI取代。书中文字也有一些错误，而Amazon要求的AI披露既未出现在商品页面上，也未出现在书中。"
+              },
+              {
+                "t": "p",
+                "x": "Dartmouth艺术史学者Mary Coffey表示，一本带孩子走过真实地标的书理应相当准确。她称这些图像是“如此贫乏的视觉语言”，并敦促AI使用者坦诚说明。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-                "cap": "图片来源：Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+                "cap": "Jared Gagnon绘制的《Sunset Scares》海报。（Courtesy Dustin Warburton）"
               },
               {
                 "t": "p",
-                "x": "由生成式AI（generative-AI）驱动的互动故事让听众可以与Dracula的仆人Renfield互动：这个角色会给听众分配角色、目标和赌注，并对听众所说的话实时作出反应。Audible表示，创作者参与其中，以确保故事立足于原著。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-                "cap": "图片来源：Amazon"
-              },
-              {
-                "t": "p",
-                "x": "2025年美国（U.S.）有声书销售额达到24.3亿美元。这些功能目前处于测试阶段，Audible计划逐步扩展到更多作品。"
+                "x": "与插画师Jared Gagnon合作的Vermont作家Dustin Warburton表示，与“一打开就能产出一本书的电灯开关”竞争令人沮丧，而学校从未联系过他。两人都希望在读者看得到的地方披露AI的使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Audible añade chat con IA\ny exploración de los libros",
-          "body": "Audible prueba en beta una guía de personajes, imágenes de lugares e historias interactivas con IA generativa.",
-          "mini_headline": "Audible añade chat con IA",
+          "headline": "Autor de Claremont, criticado\npor el arte con AI de su libro",
+          "body": "El libro AI-illustrated de Giulio Savo, regalado a familias de Claremont, recibió críticas por errores históricos.",
+          "mini_headline": "Críticas al arte con AI en un libro infantil",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+                "cap": "Giulio Savo habla sobre \"Directive Detectives: The Freedom Trail Directive\" en Claremont Middle School. (Molly Hughes / Valley News)"
+              },
+              {
                 "t": "p",
-                "x": "Ante la nueva competencia de Spotify en el mercado de audiolibros, Audible recurre a la IA y a otras tecnologías. La empresa, propiedad de Amazon, presentó tres funciones que permiten a los oyentes explorar los personajes de un libro, participar en historias interactivas y ver imágenes e información adicional sobre lugares emblemáticos o sitios mencionados en el libro."
+                "x": "\"Directive Detectives: The Freedom Trail Directive\" comienza con una niña que sube y pasa junto a \"los leones de piedra que custodian la entrada\" de la Boston Public Library. En esa entrada no hay leones, pero las ilustraciones los muestran de todos modos. El autor Giulio Savo, de Claremont, explicó que las ilustraciones se generaron con AI: \"Estas son mis historias, estas son mis palabras, pero no soy ilustrador\"."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-                "cap": "Créditos de imagen: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+                "cap": "Una ilustración AI-generated del libro, rotulada \"Boston Public Library – 1895\"."
               },
               {
                 "t": "p",
-                "x": "La función de imágenes llega primero a un solo título, “The Cultural Tutor”, de Sheehan Quirke. La guía de personajes debuta con el lanzamiento del Audible Original “Dracula” el 1 de octubre: muestra en tiempo real quién está hablando y ofrece fichas de personajes sin spoilers; los Audible Originals de “1984” y del próximo “Exoplanet” también la tendrán."
+                "x": "Claremont Middle School entregó un ejemplar a cada familia en su primera noche de autores, con fondos federales de participación familiar. Savo dijo que no podía pagar a un ilustrador y que había perdido su propio empleo de marketing digital a causa de la AI. El texto también contiene algunos errores, y el aviso sobre AI que exige Amazon no aparece ni en la ficha del producto ni en el libro."
+              },
+              {
+                "t": "p",
+                "x": "La historiadora del arte de Dartmouth Mary Coffey afirmó que un libro que guía a los niños por lugares emblemáticos reales debería ser razonablemente preciso; calificó las imágenes de \"un lenguaje visual tan empobrecido\" e instó a quienes usan AI a ser transparentes."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-                "cap": "Créditos de imagen: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+                "cap": "Un póster de \"Sunset Scares\", ilustrado por Jared Gagnon. (Courtesy Dustin Warburton)"
               },
               {
                 "t": "p",
-                "x": "Las historias interactivas, impulsadas por IA generativa (generative-AI), permiten a los oyentes interactuar con Renfield, el sirviente de Dracula: el personaje asigna al oyente un papel, un objetivo y lo que está en juego, y luego reacciona en tiempo real a lo que dice. Audible afirma que los creadores participan para que las historias se mantengan fieles al libro."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-                "cap": "Créditos de imagen: Amazon"
-              },
-              {
-                "t": "p",
-                "x": "Las ventas de audiolibros en Estados Unidos (U.S.) alcanzaron 2430 millones de dólares en 2025. Las funciones están en beta y Audible planea ampliarlas a más títulos con el tiempo."
+                "x": "El escritor de Vermont Dustin Warburton, que trabaja con el ilustrador Jared Gagnon, dijo que competir con \"un interruptor que se enciende y produce un libro\" resulta frustrante, y que la escuela nunca lo llamó. Ambos quieren que el uso de AI se indique donde los lectores puedan verlo."
               }
             ]
           }
@@ -259,165 +259,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Audible에 AI 대화\n책 속 세계 탐험 추가",
-          "body": "Audible이 캐릭터 가이드, 장소 이미지, 생성형 AI 이야기를 시험한다.",
-          "mini_headline": "Audible, AI 캐릭터 대화 추가",
+          "headline": "Claremont 작가\n신간 AI 삽화 논란",
+          "body": "Giulio Savo AI-illustrated 책이 Claremont서 비판받다.",
+          "mini_headline": "AI 삽화 동화책에 비판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+                "cap": "Giulio Savo가 Claremont Middle School에서 \"Directive Detectives: The Freedom Trail Directive\"에 관해 이야기하고 있다. (Molly Hughes / Valley News)"
+              },
+              {
                 "t": "p",
-                "x": "오디오북 시장에서 Spotify와의 새로운 경쟁에 맞닥뜨린 Audible은 AI를 비롯한 기술로 눈을 돌렸다. Amazon 소유의 이 회사는 책 속 등장인물을 살펴보고, 인터랙티브 이야기에 참여하고, 책에 나오는 명소나 장소의 이미지와 부가 정보를 볼 수 있는 기능 세 가지를 선보였다."
+                "x": "\"Directive Detectives: The Freedom Trail Directive\"는 한 소녀가 Boston Public Library의 \"입구를 지키는 돌사자\"를 지나 올라가는 장면으로 시작한다. 실제 그 입구에는 사자가 없지만 삽화에는 사자가 그려져 있다. Claremont에 사는 작가 Giulio Savo는 삽화를 AI로 생성했다며 이렇게 말했다. \"이건 제 이야기이고 제 글이지만, 저는 삽화가가 아닙니다.\""
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-                "cap": "이미지 출처: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+                "cap": "책에 실린, \"Boston Public Library – 1895\"라는 설명이 붙은 AI-generated 삽화."
               },
               {
                 "t": "p",
-                "x": "이미지 기능은 우선 Sheehan Quirke의 “The Cultural Tutor” 한 작품에만 적용된다. 캐릭터 가이드는 Audible이 10월 1일 공개하는 Audible Original “Dracula”와 함께 첫선을 보이며, 지금 누가 말하는지 실시간으로 보여 주고 스포일러 없는 캐릭터 카드를 제공한다. Audible Original인 “1984”와 공개 예정작 “Exoplanet”에도 이 기능이 들어간다."
+                "x": "Claremont Middle School은 첫 작가와의 밤 행사에서 모든 가정에 이 책을 한 권씩 나눠 주었고, 비용은 연방 가족 참여 기금으로 충당했다. Savo는 삽화가를 고용할 여유가 없었고, 자신도 디지털 마케팅 일자리를 AI에 잃었다고 말했다. 본문에도 일부 오류가 있으며, Amazon이 요구하는 AI 사용 고지는 판매 페이지에도 책에도 나와 있지 않다."
+              },
+              {
+                "t": "p",
+                "x": "Dartmouth의 미술사학자 Mary Coffey는 아이들을 실제 명소로 안내하는 책이라면 어느 정도 정확해야 한다고 말했다. 그는 이 이미지들을 \"너무나 빈곤한 시각 언어\"라고 평하며 AI 사용자들에게 솔직하게 밝힐 것을 촉구했다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-                "cap": "이미지 출처: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+                "cap": "Jared Gagnon이 그린 \"Sunset Scares\" 포스터. (Courtesy Dustin Warburton)"
               },
               {
                 "t": "p",
-                "x": "생성형 AI(generative-AI) 기반 인터랙티브 이야기에서는 Dracula의 하인 Renfield와 대화할 수 있다. 이 캐릭터는 청취자에게 역할과 목표, 걸린 것을 정해 준 뒤 청취자의 말에 실시간으로 반응한다. Audible은 이야기가 원작에 뿌리를 두도록 창작자들이 참여한다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-                "cap": "이미지 출처: Amazon"
-              },
-              {
-                "t": "p",
-                "x": "2025년 미국(U.S.) 오디오북 매출은 24억 3천만 달러에 이르렀다. 기능들은 베타 단계이며, Audible은 시간을 두고 적용 작품을 늘릴 계획이다."
+                "x": "삽화가 Jared Gagnon과 함께 작업하는 Vermont의 작가 Dustin Warburton은 \"켜기만 하면 책을 만들어 내는 전등 스위치\"와 경쟁하는 일이 답답하다며, 학교가 자신에게는 한 번도 연락하지 않았다고 말했다. 두 사람 모두 독자가 볼 수 있는 곳에 AI 사용을 밝혀야 한다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AudibleにAI会話\n本の世界を探る機能",
-          "body": "Audibleが人物ガイド、場所の画像、生成AIの対話型物語をベータ版で試している。",
-          "mini_headline": "AudibleにAIキャラクター会話",
+          "headline": "Claremontの作家\n新刊のAI挿絵に批判",
+          "body": "Giulio SavoのAI-illustrated本がClaremontで批判を浴びた。",
+          "mini_headline": "児童書のAIアートに批判",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+                "cap": "Claremont Middle Schoolで「Directive Detectives: The Freedom Trail Directive」について語るGiulio Savo。(Molly Hughes / Valley News)"
+              },
+              {
                 "t": "p",
-                "x": "オーディオブック市場でSpotifyとの新たな競争に直面するAudibleは、AIなどの技術に目を向けている。Amazon傘下の同社は、本の登場人物を探り、インタラクティブな物語に参加し、作中に登場する名所や場所の画像と補足情報を見られる3つの機能を発表した。"
+                "x": "「Directive Detectives: The Freedom Trail Directive」は、少女がBoston Public Libraryの「入口を守る石のライオン」の脇を通り過ぎて上っていく場面から始まる。実際の入口にライオンはいないが、挿絵にはそれが描かれている。Claremontに住む著者Giulio Savoは、挿絵はAIで生成したと説明し、「これは私の物語で、私の言葉だが、私はイラストレーターではない」と語った。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-                "cap": "画像提供：Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+                "cap": "本に収められた、「Boston Public Library – 1895」と記されたAI-generatedの挿絵。"
               },
               {
                 "t": "p",
-                "x": "画像機能はまずSheehan Quirkeの“The Cultural Tutor”の1作品のみで提供される。キャラクターガイドは10月1日に配信されるAudible Original“Dracula”で初登場し、誰が話しているかをリアルタイムで表示し、ネタバレのないキャラクターカードを提供する。Audible Originalの“1984”と今後配信予定の“Exoplanet”にも導入される。"
+                "x": "Claremont Middle Schoolは初めての「作家の夜」で、連邦の家族参加支援資金を使い、全家庭に一冊ずつ配布した。Savoはイラストレーターを雇う余裕がなく、自身もデジタルマーケティングの仕事をAIに奪われたと話す。本文にも誤りが見られ、Amazonが義務づけるAI使用の開示は、販売ページにも本にも記載されていない。"
+              },
+              {
+                "t": "p",
+                "x": "Dartmouthの美術史家Mary Coffeyは、実在の名所へ子どもを案内する本であれば相応の正確さが必要だと指摘した。画像を「あまりに貧しい視覚言語」と評し、AIを使う人は率直に明かすべきだと訴えた。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-                "cap": "画像提供：Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+                "cap": "Jared Gagnonが描いた「Sunset Scares」のポスター。(Courtesy Dustin Warburton)"
               },
               {
                 "t": "p",
-                "x": "生成AI（generative-AI）を活用したインタラクティブな物語では、Draculaの召使いRenfieldと対話できる。キャラクターは聴き手に役割、目標、賭けられたものを与え、相手の発言にリアルタイムで反応する。Audibleによれば、物語が原作に根ざしたものになるようクリエイターが関わっているという。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-                "cap": "画像提供：Amazon"
-              },
-              {
-                "t": "p",
-                "x": "2025年の米国（U.S.）のオーディオブック売上は24億3000万ドルに達した。各機能はベータ版で、Audibleは今後対象タイトルを順次広げる計画だ。"
+                "x": "イラストレーターのJared Gagnonと組むVermontの作家Dustin Warburtonは、「入れれば本ができあがる照明スイッチ」と競うのはもどかしいと語り、学校からは一度も声がかからなかったという。二人とも、AIの使用を読者の目に触れる形で開示するよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Audible上线AI对话\n可探索书中世界",
-          "body": "Audible正在测试角色指南、地点图像及生成式AI互动故事三项功能。",
-          "mini_headline": "Audible上线AI角色对话",
+          "headline": "Claremont作家\n新书AI插图遭批评",
+          "body": "Giulio Savo的AI-illustrated书在Claremont因史实错误受批评。",
+          "mini_headline": "儿童书AI插图引批评",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+                "cap": "Giulio Savo在Claremont Middle School介绍《Directive Detectives: The Freedom Trail Directive》。（Molly Hughes / Valley News）"
+              },
+              {
                 "t": "p",
-                "x": "面对Spotify在有声书市场带来的新竞争，Audible正转向AI等技术。这家Amazon旗下公司推出了三项功能，让听众可以探索书中角色、参与互动故事，并查看书中提到的地标或地点的图像和额外信息。"
+                "x": "《Directive Detectives: The Freedom Trail Directive》开篇写一个女孩经过Boston Public Library“守卫入口的石狮”向上攀爬。那处入口其实并没有石狮，插图却照样画了出来。来自Claremont的作者Giulio Savo表示，插图由AI生成：“这些是我的故事，是我的文字，但我不是插画师。”"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-                "cap": "图片来源：Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+                "cap": "书中一幅标注“Boston Public Library – 1895”的AI-generated插图。"
               },
               {
                 "t": "p",
-                "x": "图像功能首先只在一部作品中推出，即Sheehan Quirke的“The Cultural Tutor”。角色指南将随Audible于10月1日发布的Audible Original“Dracula”首次亮相，可实时显示正在说话的角色，并提供无剧透的角色卡片；Audible Original版“1984”和即将推出的“Exoplanet”也将加入该功能。"
+                "x": "Claremont Middle School在首届作家之夜向每个家庭赠送一本，费用来自联邦家庭参与资金。Savo说他请不起插画师，自己的数字营销工作也被AI取代。书中文字也有一些错误，而Amazon要求的AI披露既未出现在商品页面上，也未出现在书中。"
+              },
+              {
+                "t": "p",
+                "x": "Dartmouth艺术史学者Mary Coffey表示，一本带孩子走过真实地标的书理应相当准确。她称这些图像是“如此贫乏的视觉语言”，并敦促AI使用者坦诚说明。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-                "cap": "图片来源：Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+                "cap": "Jared Gagnon绘制的《Sunset Scares》海报。（Courtesy Dustin Warburton）"
               },
               {
                 "t": "p",
-                "x": "由生成式AI（generative-AI）驱动的互动故事让听众可以与Dracula的仆人Renfield互动：这个角色会给听众分配角色、目标和赌注，并对听众所说的话实时作出反应。Audible表示，创作者参与其中，以确保故事立足于原著。"
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-                "cap": "图片来源：Amazon"
-              },
-              {
-                "t": "p",
-                "x": "2025年美国（U.S.）有声书销售额达到24.3亿美元。这些功能目前处于测试阶段，Audible计划逐步扩展到更多作品。"
+                "x": "与插画师Jared Gagnon合作的Vermont作家Dustin Warburton表示，与“一打开就能产出一本书的电灯开关”竞争令人沮丧，而学校从未联系过他。两人都希望在读者看得到的地方披露AI的使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Audible añade chat con IA\ny exploración de los libros",
-          "body": "Audible prueba en beta una guía de personajes, imágenes de lugares e historias interactivas con IA generativa.",
-          "mini_headline": "Audible añade chat con IA",
+          "headline": "Autor de Claremont, criticado\npor el arte con AI de su libro",
+          "body": "El libro AI-illustrated de Giulio Savo, regalado a familias de Claremont, recibió críticas por errores históricos.",
+          "mini_headline": "Críticas al arte con AI en un libro infantil",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+                "cap": "Giulio Savo habla sobre \"Directive Detectives: The Freedom Trail Directive\" en Claremont Middle School. (Molly Hughes / Valley News)"
+              },
+              {
                 "t": "p",
-                "x": "Ante la nueva competencia de Spotify en el mercado de audiolibros, Audible recurre a la IA y a otras tecnologías. La empresa, propiedad de Amazon, presentó tres funciones que permiten a los oyentes explorar los personajes de un libro, participar en historias interactivas y ver imágenes e información adicional sobre lugares emblemáticos o sitios mencionados en el libro."
+                "x": "\"Directive Detectives: The Freedom Trail Directive\" comienza con una niña que sube y pasa junto a \"los leones de piedra que custodian la entrada\" de la Boston Public Library. En esa entrada no hay leones, pero las ilustraciones los muestran de todos modos. El autor Giulio Savo, de Claremont, explicó que las ilustraciones se generaron con AI: \"Estas son mis historias, estas son mis palabras, pero no soy ilustrador\"."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
-                "cap": "Créditos de imagen: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+                "cap": "Una ilustración AI-generated del libro, rotulada \"Boston Public Library – 1895\"."
               },
               {
                 "t": "p",
-                "x": "La función de imágenes llega primero a un solo título, “The Cultural Tutor”, de Sheehan Quirke. La guía de personajes debuta con el lanzamiento del Audible Original “Dracula” el 1 de octubre: muestra en tiempo real quién está hablando y ofrece fichas de personajes sin spoilers; los Audible Originals de “1984” y del próximo “Exoplanet” también la tendrán."
+                "x": "Claremont Middle School entregó un ejemplar a cada familia en su primera noche de autores, con fondos federales de participación familiar. Savo dijo que no podía pagar a un ilustrador y que había perdido su propio empleo de marketing digital a causa de la AI. El texto también contiene algunos errores, y el aviso sobre AI que exige Amazon no aparece ni en la ficha del producto ni en el libro."
+              },
+              {
+                "t": "p",
+                "x": "La historiadora del arte de Dartmouth Mary Coffey afirmó que un libro que guía a los niños por lugares emblemáticos reales debería ser razonablemente preciso; calificó las imágenes de \"un lenguaje visual tan empobrecido\" e instó a quienes usan AI a ser transparentes."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
-                "cap": "Créditos de imagen: Amazon"
+                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+                "cap": "Un póster de \"Sunset Scares\", ilustrado por Jared Gagnon. (Courtesy Dustin Warburton)"
               },
               {
                 "t": "p",
-                "x": "Las historias interactivas, impulsadas por IA generativa (generative-AI), permiten a los oyentes interactuar con Renfield, el sirviente de Dracula: el personaje asigna al oyente un papel, un objetivo y lo que está en juego, y luego reacciona en tiempo real a lo que dice. Audible afirma que los creadores participan para que las historias se mantengan fieles al libro."
-              },
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
-                "cap": "Créditos de imagen: Amazon"
-              },
-              {
-                "t": "p",
-                "x": "Las ventas de audiolibros en Estados Unidos (U.S.) alcanzaron 2430 millones de dólares en 2025. Las funciones están en beta y Audible planea ampliarlas a más títulos con el tiempo."
+                "x": "El escritor de Vermont Dustin Warburton, que trabaja con el ilustrador Jared Gagnon, dijo que competir con \"un interruptor que se enciende y produce un libro\" resulta frustrante, y que la escuela nunca lo llamó. Ambos quieren que el uso de AI se indique donde los lectores puedan verlo."
               }
             ]
           }
@@ -425,246 +425,207 @@
       }
     },
     {
-      "id": "idpa-finalists",
+      "id": "openai-book-market-study-exclude",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI abounds among the finalists\nfor a digital publishing award",
-      "body": "Digital Publishing Report shortlisted 12 finalists from 42 entries, with AI behind much of the innovation.",
-      "mini_headline": "AI abounds in award shortlist",
+      "headline": "OpenAI가 배제 요청한\nmarket-harm 연구",
+      "body": "OpenAI가 로펌 자금과 얽혔다며 AI 도서 시장 피해 연구 배제를 요청했다.",
+      "mini_headline": "OpenAI, 도서 시장 연구에 이의",
       "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/10/innovation-with-ai-abounds-the-international-digital-publishing-award-announces-12-finalists/",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
-            "cap": "Virginie Clayssen receiving the Digital Leadership Award last year at the Frankfurter Buchmesse"
+            "t": "p",
+            "x": "OpenAI는 작가들이 낸 병합 소송에서 한 도서 시장 연구를 배제해 달라고 요청했다. 이 연구가 작가 측 로펌과 자금으로 얽혀 있다는 이유에서다."
           },
           {
             "t": "p",
-            "x": "Digital Publishing Report has announced the shortlist for its annual Digital Publishing Awards, which went international last year. Entries from AI-focused companies increased; DPR says AI has become the standard, and what sets the finalists apart is their drive to “make books accessible, to bring audiobooks to underserved languages, and to give authors and editors better tools with human expertise firmly in charge.”"
-          },
-          {
-            "t": "p",
-            "x": "The 12 finalists, from Egypt, Germany, India, the U.K. and the U.S., were selected from 42 submissions. Product/business model: Ailaysa, Nahdet Misr Group, Pocket FM and Storywise. Process/technology: Abjjad’s Project Genome, Ernst Klett Sprachen’s allango, MPS Limited and Pozotron Studio. Start-up: KitabooONE, Whisper by Stck, Pellerin Books and ReadBee."
-          },
-          {
-            "t": "p",
-            "x": "Highlights include Ailaysa’s adaptive AI translation, which preserves terminology, author voice and page layout, and Project Genome’s Arabic-first audiobook pipeline, which cuts production costs by around 90 percent. Winners will be announced on October 7 at the Frankfurter Buchmesse."
+            "x": "Gen AI가 시장에 피해를 준다고 주장하는 연구가 얼마나 정확한지, 자금은 어디서 나왔는지가 병합 소송의 중요한 쟁점으로 떠올랐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI abounds among the finalists\nfor a digital publishing award",
-          "body": "Digital Publishing Report shortlisted 12 finalists from 42 entries, with AI behind much of the innovation.",
-          "mini_headline": "AI abounds in award shortlist",
+          "headline": "OpenAI seeks to exclude\nbook market-harm study",
+          "body": "OpenAI seeks to exclude a study claiming AI harms the book market, citing its funding ties to the authors' law firm.",
+          "mini_headline": "OpenAI challenges\nbook market study",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
-                "cap": "Virginie Clayssen receiving the Digital Leadership Award last year at the Frankfurter Buchmesse"
+                "t": "p",
+                "x": "OpenAI seeks to exclude a book market study from the consolidated authors' lawsuits, citing the study's funding ties to the authors' law firm."
               },
               {
                 "t": "p",
-                "x": "Digital Publishing Report has announced the shortlist for its annual Digital Publishing Awards, which went international last year. Entries from AI-focused companies increased; DPR says AI has become the standard, and what sets the finalists apart is their drive to “make books accessible, to bring audiobooks to underserved languages, and to give authors and editors better tools with human expertise firmly in charge.”"
+                "x": "The accuracy and funding of research claiming Gen AI causes market harm have become important questions in the consolidated lawsuits."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "OpenAI가 배제 요청한\nmarket-harm 연구",
+          "body": "OpenAI가 로펌 자금과 얽혔다며 AI 도서 시장 피해 연구 배제를 요청했다.",
+          "mini_headline": "OpenAI, 도서 시장 연구에 이의",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAI는 작가들이 낸 병합 소송에서 한 도서 시장 연구를 배제해 달라고 요청했다. 이 연구가 작가 측 로펌과 자금으로 얽혀 있다는 이유에서다."
               },
               {
                 "t": "p",
-                "x": "The 12 finalists, from Egypt, Germany, India, the U.K. and the U.S., were selected from 42 submissions. Product/business model: Ailaysa, Nahdet Misr Group, Pocket FM and Storywise. Process/technology: Abjjad’s Project Genome, Ernst Klett Sprachen’s allango, MPS Limited and Pozotron Studio. Start-up: KitabooONE, Whisper by Stck, Pellerin Books and ReadBee."
-              },
-              {
-                "t": "p",
-                "x": "Highlights include Ailaysa’s adaptive AI translation, which preserves terminology, author voice and page layout, and Project Genome’s Arabic-first audiobook pipeline, which cuts production costs by around 90 percent. Winners will be announced on October 7 at the Frankfurter Buchmesse."
+                "x": "Gen AI가 시장에 피해를 준다고 주장하는 연구가 얼마나 정확한지, 자금은 어디서 나왔는지가 병합 소송의 중요한 쟁점으로 떠올랐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デジタル出版賞の\n最終候補にAI続々",
-          "body": "DPRは応募42件から最終候補12件を選び、その革新の多くをAIが支えている。",
-          "mini_headline": "出版賞候補にAIが続々",
+          "headline": "OpenAI、排除を要求\nmarket-harm研究",
+          "body": "OpenAIは作家側事務所との資金関係を理由に、AIの書籍市場被害研究の排除を求める。",
+          "mini_headline": "OpenAI、書籍市場研究に異議",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
-                "cap": "昨年のFrankfurter BuchmesseでDigital Leadership Awardを受け取るVirginie Clayssen"
+                "t": "p",
+                "x": "OpenAIは、作家らによる併合訴訟から書籍市場に関するある研究を除外するよう求めている。理由として、この研究と作家側の法律事務所との資金面のつながりを挙げている。"
               },
               {
                 "t": "p",
-                "x": "Digital Publishing Reportは、昨年国際化した年次のDigital Publishing Awardsの最終候補を発表した。AI特化型（AI-focused）企業からの応募が増えた。DPRによれば、AIはすでに標準となっており、最終候補を際立たせたのは「本をアクセシブルにし、十分にサービスが行き届いていない言語にオーディオブックを届け、人間の専門性がしっかりと主導権を握ったまま著者や編集者により良いツールを提供する」という意欲だという。"
-              },
-              {
-                "t": "p",
-                "x": "エジプト、ドイツ、インド、英国（U.K.）、米国（U.S.）からの最終候補12件は、42件の応募から選ばれた。プロダクト／ビジネスモデル部門：Ailaysa、Nahdet Misr Group、Pocket FM、Storywise。プロセス／テクノロジー部門：AbjjadのProject Genome、Ernst Klett Sprachenのallango、MPS Limited、Pozotron Studio。スタートアップ部門：KitabooONE、Whisper by Stck、Pellerin Books、ReadBee。"
-              },
-              {
-                "t": "p",
-                "x": "注目は、用語や著者の文体、ページレイアウトを保持するAilaysaの適応型AI翻訳と、制作コストを約90％削減するProject Genomeのアラビア語優先のオーディオブック制作パイプラインだ。受賞者は10月7日にFrankfurter Buchmesseで発表される。"
+                "x": "Gen AIが市場に損害を与えると主張する研究の正確性と資金源は、併合訴訟における重要な論点となっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "数字出版奖决选名单\nAI身影随处可见",
-          "body": "DPR从42份参赛作品中选出12个决选者，其中许多创新都由AI推动。",
-          "mini_headline": "出版奖决选名单AI扎堆",
+          "headline": "OpenAI请求排除\nmarket-harm研究",
+          "body": "OpenAI以与作者律所存在资金关联为由，请求排除一项称AI损害图书市场的研究。",
+          "mini_headline": "OpenAI质疑图书市场研究",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
-                "cap": "Virginie Clayssen去年在Frankfurter Buchmesse上领取Digital Leadership Award"
+                "t": "p",
+                "x": "OpenAI请求在作者合并诉讼中排除一项图书市场研究，理由是该研究与作者方律所存在资金关联。"
               },
               {
                 "t": "p",
-                "x": "Digital Publishing Report公布了其年度Digital Publishing Awards的决选名单，该奖项去年起走向国际。专注AI的企业（AI-focused）参赛作品有所增加；DPR表示，AI已成为标准，决选者的不同之处在于他们致力于“让书籍更易获取，把有声书带给服务不足的语言，并在人类专业能力牢牢主导的前提下为作者和编辑提供更好的工具”。"
-              },
-              {
-                "t": "p",
-                "x": "12个决选者来自埃及、德国、印度、英国（U.K.）和美国（U.S.），从42份参赛作品中选出。产品/商业模式类：Ailaysa、Nahdet Misr Group、Pocket FM和Storywise。流程/技术类：Abjjad的Project Genome、Ernst Klett Sprachen的allango、MPS Limited和Pozotron Studio。初创企业类：KitabooONE、Whisper by Stck、Pellerin Books和ReadBee。"
-              },
-              {
-                "t": "p",
-                "x": "亮点包括Ailaysa的自适应AI翻译，可保留术语、作者语气和页面版式；以及Project Genome以阿拉伯语为先的有声书制作流程，可将制作成本降低约90%。获奖者将于10月7日在Frankfurter Buchmesse上公布。"
+                "x": "声称Gen AI造成市场损害的研究，其准确性与资金来源已成为合并诉讼中的重要问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA abunda en los finalistas\nde un premio de edición digital",
-          "body": "Digital Publishing Report eligió 12 finalistas entre 42 candidaturas, con la IA detrás de buena parte de la innovación.",
-          "mini_headline": "La IA abunda entre los finalistas",
+          "headline": "OpenAI pide excluir un estudio\nsobre market-harm en libros",
+          "body": "OpenAI pide excluir un estudio sobre el daño de la AI al mercado del libro por vínculos con el bufete de los autores.",
+          "mini_headline": "OpenAI impugna un estudio sobre el mercado del libro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
-                "cap": "Virginie Clayssen recibe el Digital Leadership Award el año pasado en la Frankfurter Buchmesse"
+                "t": "p",
+                "x": "OpenAI busca excluir un estudio sobre el mercado del libro de las demandas consolidadas de los autores, alegando los vínculos de financiación del estudio con el bufete de los autores."
               },
               {
                 "t": "p",
-                "x": "Digital Publishing Report anunció la lista de finalistas de sus Digital Publishing Awards anuales, que el año pasado se internacionalizaron. Aumentaron las candidaturas de empresas centradas en IA (AI-focused); DPR afirma que la IA se ha convertido en el estándar y que lo que distingue a los finalistas es su empeño en “hacer los libros accesibles, llevar audiolibros a lenguas desatendidas y dar a autores y editores mejores herramientas con la experiencia humana firmemente al mando”."
-              },
-              {
-                "t": "p",
-                "x": "Los 12 finalistas, de Egipto, Alemania, India, Reino Unido (U.K.) y Estados Unidos (U.S.), se seleccionaron entre 42 candidaturas. Producto/modelo de negocio: Ailaysa, Nahdet Misr Group, Pocket FM y Storywise. Proceso/tecnología: Project Genome de Abjjad, allango de Ernst Klett Sprachen, MPS Limited y Pozotron Studio. Start-up: KitabooONE, Whisper by Stck, Pellerin Books y ReadBee."
-              },
-              {
-                "t": "p",
-                "x": "Destacan la traducción adaptativa con IA de Ailaysa, que conserva la terminología, la voz del autor y la maquetación, y el flujo de producción de audiolibros con prioridad al árabe de Project Genome, que reduce los costes de producción en torno a un 90 por ciento. Los ganadores se anunciarán el 7 de octubre en la Frankfurter Buchmesse."
+                "x": "La exactitud y la financiación de las investigaciones que afirman que la Gen AI causa daños al mercado se han convertido en cuestiones importantes en las demandas consolidadas."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "デジタル出版賞の\n最終候補にAI続々",
-          "body": "DPRは応募42件から最終候補12件を選び、その革新の多くをAIが支えている。",
-          "mini_headline": "出版賞候補にAIが続々",
+        "ko": {
+          "headline": "OpenAI가 배제 요청한\nmarket-harm 연구",
+          "body": "OpenAI는 로펌 자금 연관을 들어 AI 도서 시장 피해 연구를 배제하려 한다.",
+          "mini_headline": "OpenAI, 도서 시장 연구에 이의",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
-                "cap": "昨年のFrankfurter BuchmesseでDigital Leadership Awardを受け取るVirginie Clayssen"
+                "t": "p",
+                "x": "OpenAI는 작가들의 병합 소송에서 한 도서 시장 연구를 배제해 달라고 요청하며, 이 연구가 작가 측 로펌과 자금으로 얽혀 있다는 점을 근거로 들었다."
               },
               {
                 "t": "p",
-                "x": "Digital Publishing Reportは、昨年国際化した年次のDigital Publishing Awardsの最終候補を発表した。AI特化型（AI-focused）企業からの応募が増えた。DPRによれば、AIはすでに標準となっており、最終候補を際立たせたのは「本をアクセシブルにし、十分にサービスが行き届いていない言語にオーディオブックを届け、人間の専門性がしっかりと主導権を握ったまま著者や編集者により良いツールを提供する」という意欲だという。"
+                "x": "Gen AI가 시장 피해를 일으킨다고 주장하는 연구의 정확성과 자금 출처는 병합 소송에서 중요한 쟁점이 됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "OpenAI、排除を要求\nmarket-harm研究",
+          "body": "OpenAIは作家側事務所との資金関係を理由に、AIの書籍市場被害研究の排除を求める。",
+          "mini_headline": "OpenAI、書籍市場研究に異議",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAIは、作家らによる併合訴訟から書籍市場に関するある研究を除外するよう求めている。理由として、この研究と作家側の法律事務所との資金面のつながりを挙げている。"
               },
               {
                 "t": "p",
-                "x": "エジプト、ドイツ、インド、英国（U.K.）、米国（U.S.）からの最終候補12件は、42件の応募から選ばれた。プロダクト／ビジネスモデル部門：Ailaysa、Nahdet Misr Group、Pocket FM、Storywise。プロセス／テクノロジー部門：AbjjadのProject Genome、Ernst Klett Sprachenのallango、MPS Limited、Pozotron Studio。スタートアップ部門：KitabooONE、Whisper by Stck、Pellerin Books、ReadBee。"
-              },
-              {
-                "t": "p",
-                "x": "注目は、用語や著者の文体、ページレイアウトを保持するAilaysaの適応型AI翻訳と、制作コストを約90％削減するProject Genomeのアラビア語優先のオーディオブック制作パイプラインだ。受賞者は10月7日にFrankfurter Buchmesseで発表される。"
+                "x": "Gen AIが市場に損害を与えると主張する研究の正確性と資金源は、併合訴訟における重要な論点となっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "数字出版奖决选名单\nAI身影随处可见",
-          "body": "DPR从42份参赛作品中选出12个决选者，其中许多创新都由AI推动。",
-          "mini_headline": "出版奖决选名单AI扎堆",
+          "headline": "OpenAI请求排除\nmarket-harm研究",
+          "body": "OpenAI以与作者律所存在资金关联为由，请求排除一项称AI损害图书市场的研究。",
+          "mini_headline": "OpenAI质疑图书市场研究",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
-                "cap": "Virginie Clayssen去年在Frankfurter Buchmesse上领取Digital Leadership Award"
+                "t": "p",
+                "x": "OpenAI请求在作者合并诉讼中排除一项图书市场研究，理由是该研究与作者方律所存在资金关联。"
               },
               {
                 "t": "p",
-                "x": "Digital Publishing Report公布了其年度Digital Publishing Awards的决选名单，该奖项去年起走向国际。专注AI的企业（AI-focused）参赛作品有所增加；DPR表示，AI已成为标准，决选者的不同之处在于他们致力于“让书籍更易获取，把有声书带给服务不足的语言，并在人类专业能力牢牢主导的前提下为作者和编辑提供更好的工具”。"
-              },
-              {
-                "t": "p",
-                "x": "12个决选者来自埃及、德国、印度、英国（U.K.）和美国（U.S.），从42份参赛作品中选出。产品/商业模式类：Ailaysa、Nahdet Misr Group、Pocket FM和Storywise。流程/技术类：Abjjad的Project Genome、Ernst Klett Sprachen的allango、MPS Limited和Pozotron Studio。初创企业类：KitabooONE、Whisper by Stck、Pellerin Books和ReadBee。"
-              },
-              {
-                "t": "p",
-                "x": "亮点包括Ailaysa的自适应AI翻译，可保留术语、作者语气和页面版式；以及Project Genome以阿拉伯语为先的有声书制作流程，可将制作成本降低约90%。获奖者将于10月7日在Frankfurter Buchmesse上公布。"
+                "x": "声称Gen AI造成市场损害的研究，其准确性与资金来源已成为合并诉讼中的重要问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA abunda en los finalistas\nde un premio de edición digital",
-          "body": "Digital Publishing Report eligió 12 finalistas entre 42 candidaturas, con la IA detrás de buena parte de la innovación.",
-          "mini_headline": "La IA abunda entre los finalistas",
+          "headline": "OpenAI pide excluir un estudio\nsobre market-harm en libros",
+          "body": "OpenAI pide excluir un estudio sobre el daño de la AI al mercado del libro por vínculos con el bufete de los autores.",
+          "mini_headline": "OpenAI impugna un estudio sobre el mercado del libro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/DPR-2025-Ceremony-Virginie-Clayssen-710x442.png",
-                "cap": "Virginie Clayssen recibe el Digital Leadership Award el año pasado en la Frankfurter Buchmesse"
+                "t": "p",
+                "x": "OpenAI busca excluir un estudio sobre el mercado del libro de las demandas consolidadas de los autores, alegando los vínculos de financiación del estudio con el bufete de los autores."
               },
               {
                 "t": "p",
-                "x": "Digital Publishing Report anunció la lista de finalistas de sus Digital Publishing Awards anuales, que el año pasado se internacionalizaron. Aumentaron las candidaturas de empresas centradas en IA (AI-focused); DPR afirma que la IA se ha convertido en el estándar y que lo que distingue a los finalistas es su empeño en “hacer los libros accesibles, llevar audiolibros a lenguas desatendidas y dar a autores y editores mejores herramientas con la experiencia humana firmemente al mando”."
-              },
-              {
-                "t": "p",
-                "x": "Los 12 finalistas, de Egipto, Alemania, India, Reino Unido (U.K.) y Estados Unidos (U.S.), se seleccionaron entre 42 candidaturas. Producto/modelo de negocio: Ailaysa, Nahdet Misr Group, Pocket FM y Storywise. Proceso/tecnología: Project Genome de Abjjad, allango de Ernst Klett Sprachen, MPS Limited y Pozotron Studio. Start-up: KitabooONE, Whisper by Stck, Pellerin Books y ReadBee."
-              },
-              {
-                "t": "p",
-                "x": "Destacan la traducción adaptativa con IA de Ailaysa, que conserva la terminología, la voz del autor y la maquetación, y el flujo de producción de audiolibros con prioridad al árabe de Project Genome, que reduce los costes de producción en torno a un 90 por ciento. Los ganadores se anunciarán el 7 de octubre en la Frankfurter Buchmesse."
+                "x": "La exactitud y la financiación de las investigaciones que afirman que la Gen AI causa daños al mercado se han convertido en cuestiones importantes en las demandas consolidadas."
               }
             ]
           }
         }
-      },
-      "i18n_status": {
-        "ko": "fallback"
       }
     },
     {
-      "id": "opus-tells",
+      "id": "elevenlabs-spoken-audiobooks",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Opus 5.5 최대 버릇\n'dependable'",
-      "body": "Opus 5.5는 'dependable'을 사람보다 23배 더 많이 쓴다.",
-      "mini_headline": "Opus 5.5의 버릇 'dependable'",
+      "headline": "AI 기업들\n오디오북 시장 겨냥",
+      "body": "ElevenLabs와 Spoken이 fast-growing 오디오북 시장을 노린다.",
+      "mini_headline": "AI, 오디오북을 노리다",
       "tool": "Books",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "source": "Marketplace",
+      "url": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -672,155 +633,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-            "cap": "이미지 출처: nomadnes / Getty Images"
+            "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+            "cap": "ElevenLabs는 누구의 목소리든 흉내 낼 수 있는 AI 음성 복제 기술을 개발했다."
           },
           {
             "t": "p",
-            "x": "마케팅 기업 Graphite가 새 연구에서 프런티어 모델의 글쓰기 습관을 살폈다. 사람이 쓴 글보다 AI 글에 두 배 이상 자주 나오는 표현을 연구진은 ‘단서(tell)’라 부르는데, 이런 단서를 13,000개 찾아냈다. 연구진은 ChatGPT 이전(pre-ChatGPT) 기사 10,000건의 요약을 모델에게 주고 기사를 다시 쓰게 한 뒤 사람이 쓴 원문과 견줬다."
+            "x": "ElevenLabs와 Spoken 같은 AI 기업들이 빠르게 커지는(fast-growing) 오디오북 시장을 노린다. ElevenLabs는 올여름 Michael Caine의 목소리를 재현해 낭독한 AI-voiced \"The Odyssey\"로 화제가 됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+            "cap": "ElevenLabs의 AI-voiced \"The Odyssey\"는 엇갈린 평가를 받았다."
           },
           {
             "t": "p",
-            "x": "Graphite에 따르면 Claude Opus 5.5의 가장 큰 단서는 “dependable”이라는 단어다. 사람의 샘플보다 23배 더 자주 등장한다. Opus는 무엇보다 왜 중요한지 짚기를 좋아한다. “this matters”는 사람의 글보다 116배, “why X matters”는 92배 더 자주 나온다."
+            "x": "오디오북 매출은 지난해 9% 늘어 $2.43 billion을 기록했다. 사람이 낭독하는(Human-narrated) 오디오북은 만드는 데 여섯 달가량 걸리고 수천 달러가 든다. AI 버전은 $200이나 $300이면 충분하고 몇 시간에서 며칠이면 나온다. 베스트셀러 작가이자 Spoken의 사업개발 이사인 Joseph Nassise는 AI 덕에 모든 목소리와 발음을 직접 통제할 수 있다고 말한다."
           },
           {
             "t": "p",
-            "x": "OpenAI의 Astra는 “not simply X” 같은 ‘교정형 프레이밍’에 기댄다. 사람의 글보다 100배 넘게 많다. Opus 5.5의 엠대시는 Opus 5보다 99% 줄었다. Graphite의 최고 AI 책임자 Greg Druck은 “가장 잘 알려진 단서는 없애고 있지만, 다른 단서가 튀어나온다”고 말했다."
+            "x": "SAG-AFTRA의 Jane Love는 지금까지 나온 AI 작품 중 조합원이 고용될 만한 작품은 없었다고 말한다. 2025년 AI 오디오북이 업계 매출에서 차지한 몫은 약 .03%였다. ElevenLabs로 목소리를 복제한 성우는 사용 시간당 약 $1.20을 번다. 내레이터 Will Damron은 음성 복제가 이 직업의 가치를 떨어뜨린다고 경고한다. Nassise도 AI 오디오북에는 명확한 표시가 필요하다고 본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Opus 5.5's biggest writing tell\nis the word 'dependable'",
-          "body": "Graphite's study finds Opus 5.5's biggest tell is 'dependable', 23 times more common than in human samples.",
-          "mini_headline": "Opus 5.5's tell: 'dependable'",
+          "headline": "AI companies set sights\non the audiobook market",
+          "body": "ElevenLabs and Spoken are angling for the fast-growing audiobook market, though consumer demand remains unproven.",
+          "mini_headline": "AI eyes\naudiobooks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-                "cap": "Image Credits: nomadnes / Getty Images"
+                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+                "cap": "ElevenLabs has developed AI voice clones that can mimic anyone's voice."
               },
               {
                 "t": "p",
-                "x": "A new study from the marketing firm Graphite looked at the writing habits of frontier models. It found 13,000 phrases at least twice as common in AI content as in human content, its definition of a “tell.” Researchers had models rewrite a corpus of 10,000 pre-ChatGPT articles from summaries to compare against the human originals."
+                "x": "AI companies like ElevenLabs and Spoken are angling for the fast-growing audiobook market. ElevenLabs drew attention this summer with an AI-voiced \"The Odyssey\" narrated by a recreation of Michael Caine's voice."
+              },
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+                "cap": "ElevenLabs' AI-voiced \"The Odyssey\" received mixed reviews."
               },
               {
                 "t": "p",
-                "x": "According to Graphite, Claude Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples. Above all, Opus loves to tell you why things matter: “this matters” appears 116 times more often than in human writing, and “why X matters” 92 times more often."
+                "x": "Audiobook sales grew 9% last year to $2.43 billion. Human-narrated audiobooks take about six months and thousands of dollars; AI versions cost closer to $200 or $300 and take hours or days. Bestselling author Joseph Nassise, business development director at Spoken, says AI lets him control every voice and pronunciation."
               },
               {
                 "t": "p",
-                "x": "OpenAI’s Astra leans on “corrective framing” such as “not simply X,” more than 100 times more common than in human prose. Opus 5.5 used em-dashes 99% less often than Opus 5. “They are managing to remove the most well-known tells, but other ones pop up,” said Graphite’s chief AI officer Greg Druck."
+                "x": "SAG-AFTRA's Jane Love says AI titles so far aren't ones its members would be hired for, and AI audiobooks made up about .03% of industry revenue in 2025. Performers who clone voices with ElevenLabs earn roughly $1.20 per hour of use; narrator Will Damron warns voice clones devalue the craft. Nassise says AI audiobooks should be clearly labeled."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Opus 5.5 최대 버릇\n'dependable'",
-          "body": "Opus 5.5는 'dependable'을 사람보다 23배 더 많이 쓴다.",
-          "mini_headline": "Opus 5.5의 버릇 'dependable'",
+          "headline": "AI 기업들\n오디오북 시장 겨냥",
+          "body": "ElevenLabs와 Spoken이 fast-growing 오디오북 시장을 노린다.",
+          "mini_headline": "AI, 오디오북을 노리다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-                "cap": "이미지 출처: nomadnes / Getty Images"
+                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+                "cap": "ElevenLabs는 누구의 목소리든 흉내 낼 수 있는 AI 음성 복제 기술을 개발했다."
               },
               {
                 "t": "p",
-                "x": "마케팅 기업 Graphite가 새 연구에서 프런티어 모델의 글쓰기 습관을 살폈다. 사람이 쓴 글보다 AI 글에 두 배 이상 자주 나오는 표현을 연구진은 ‘단서(tell)’라 부르는데, 이런 단서를 13,000개 찾아냈다. 연구진은 ChatGPT 이전(pre-ChatGPT) 기사 10,000건의 요약을 모델에게 주고 기사를 다시 쓰게 한 뒤 사람이 쓴 원문과 견줬다."
+                "x": "ElevenLabs와 Spoken 같은 AI 기업들이 빠르게 커지는(fast-growing) 오디오북 시장을 노린다. ElevenLabs는 올여름 Michael Caine의 목소리를 재현해 낭독한 AI-voiced \"The Odyssey\"로 화제가 됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+                "cap": "ElevenLabs의 AI-voiced \"The Odyssey\"는 엇갈린 평가를 받았다."
               },
               {
                 "t": "p",
-                "x": "Graphite에 따르면 Claude Opus 5.5의 가장 큰 단서는 “dependable”이라는 단어다. 사람의 샘플보다 23배 더 자주 등장한다. Opus는 무엇보다 왜 중요한지 짚기를 좋아한다. “this matters”는 사람의 글보다 116배, “why X matters”는 92배 더 자주 나온다."
+                "x": "오디오북 매출은 지난해 9% 늘어 $2.43 billion을 기록했다. 사람이 낭독하는(Human-narrated) 오디오북은 만드는 데 여섯 달가량 걸리고 수천 달러가 든다. AI 버전은 $200이나 $300이면 충분하고 몇 시간에서 며칠이면 나온다. 베스트셀러 작가이자 Spoken의 사업개발 이사인 Joseph Nassise는 AI 덕에 모든 목소리와 발음을 직접 통제할 수 있다고 말한다."
               },
               {
                 "t": "p",
-                "x": "OpenAI의 Astra는 “not simply X” 같은 ‘교정형 프레이밍’에 기댄다. 사람의 글보다 100배 넘게 많다. Opus 5.5의 엠대시는 Opus 5보다 99% 줄었다. Graphite의 최고 AI 책임자 Greg Druck은 “가장 잘 알려진 단서는 없애고 있지만, 다른 단서가 튀어나온다”고 말했다."
+                "x": "SAG-AFTRA의 Jane Love는 지금까지 나온 AI 작품 중 조합원이 고용될 만한 작품은 없었다고 말한다. 2025년 AI 오디오북이 업계 매출에서 차지한 몫은 약 .03%였다. ElevenLabs로 목소리를 복제한 성우는 사용 시간당 약 $1.20을 번다. 내레이터 Will Damron은 음성 복제가 이 직업의 가치를 떨어뜨린다고 경고한다. Nassise도 AI 오디오북에는 명확한 표시가 필요하다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Opus 5.5の口癖は\n“dependable”",
-          "body": "Graphiteによると、Opus 5.5は“dependable”を人間の23倍使う。",
-          "mini_headline": "Opus 5.5の口癖“dependable”",
+          "headline": "AI企業が狙う\nオーディオブック市場",
+          "body": "ElevenLabsとSpokenがfast-growingなオーディオブック市場を狙う。",
+          "mini_headline": "AIがオーディオブックを狙う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-                "cap": "画像提供：nomadnes / Getty Images"
+                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+                "cap": "ElevenLabsは、誰の声でも模倣できるAI音声クローンを開発した。"
               },
               {
                 "t": "p",
-                "x": "マーケティング企業Graphiteの新たな研究は、フロンティアモデルの文章の癖を調べた。AIのコンテンツで人間のコンテンツより2倍以上多く現れるフレーズ、つまり同社が定義する「テル（tell）」を13,000個見つけた。研究者はChatGPT以前（pre-ChatGPT）の記事10,000本の要約からモデルに書き直させ、人間による原文と比較した。"
+                "x": "ElevenLabsやSpokenといったAI企業が、急成長する(fast-growing)オーディオブック市場を狙っている。ElevenLabsはこの夏、Michael Caineの声を再現して朗読したAI-voicedの「The Odyssey」で注目を集めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+                "cap": "ElevenLabsのAI-voicedによる「The Odyssey」は賛否が分かれた。"
               },
               {
                 "t": "p",
-                "x": "Graphiteによれば、Claude Opus 5.5の最大のテルは“dependable”という単語で、人間のサンプルより23倍多く現れる。何よりOpusは物事がなぜ重要かを語りたがる。“this matters”は人間の文章の116倍、“why X matters”は92倍の頻度で登場する。"
+                "x": "オーディオブックの売上は昨年9%伸び、$2.43 billionに達した。人間が朗読する(Human-narrated)オーディオブックは制作に約半年と数千ドルを要するが、AI版の費用は$200か$300程度で、数時間から数日で完成する。ベストセラー作家で、Spokenの事業開発ディレクターを務めるJoseph Nassiseは、AIならすべての声と発音を自分で管理できると話す。"
               },
               {
                 "t": "p",
-                "x": "OpenAIのAstraは“not simply X”のような「訂正型フレーミング」に頼り、その頻度は人間の文章の100倍を超える。Opus 5.5はOpus 5に比べてemダッシュの使用が99%少なかった。「最もよく知られたテルは取り除けているが、別のものが現れる」とGraphiteのチーフAIオフィサー、Greg Druckは述べた。"
+                "x": "SAG-AFTRAのJane Loveによれば、これまでのAI作品は組合員が起用されるような作品ではなく、2025年のAIオーディオブックは業界売上の約.03%だった。ElevenLabsで声をクローンした出演者の収入は、使用時間あたり約$1.20だ。ナレーターのWill Damronは、音声クローンが技能の価値を下げると警告する。Nassiseは、AIオーディオブックには明確な表示が必要だと述べている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Opus 5.5最大写作特征\n是“dependable”",
-          "body": "Graphite发现，Opus 5.5使用“dependable”的频率是人类的23倍。",
-          "mini_headline": "Opus 5.5的写作特征“dependable”",
+          "headline": "AI公司瞄准\n有声书市场",
+          "body": "ElevenLabs和Spoken瞄准fast-growing的有声书市场，但需求未获验证。",
+          "mini_headline": "AI瞄准有声书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-                "cap": "图片来源：nomadnes / Getty Images"
+                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+                "cap": "ElevenLabs开发了能模仿任何人声音的AI语音克隆。"
               },
               {
                 "t": "p",
-                "x": "营销公司Graphite的一项新研究考察了前沿模型的写作习惯。研究发现了13,000个在AI内容中出现频率至少是人类内容两倍的短语，即其定义的“特征”（tell）。研究人员让模型根据摘要重写10,000篇ChatGPT问世前（pre-ChatGPT）的文章，再与人类原文进行比较。"
+                "x": "ElevenLabs和Spoken等AI公司正瞄准快速增长（fast-growing）的有声书市场。今年夏天，ElevenLabs凭借一部由重现的Michael Caine声音朗读的AI-voiced版《The Odyssey》引发关注。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+                "cap": "ElevenLabs的AI-voiced版《The Odyssey》评价不一。"
               },
               {
                 "t": "p",
-                "x": "据Graphite称，Claude Opus 5.5最大的特征是“dependable”一词，其出现频率是人类样本的23倍。最突出的是，Opus喜欢告诉你事情为何重要：“this matters”的出现频率是人类写作的116倍，“why X matters”则是92倍。"
+                "x": "有声书销售额去年增长9%，达到$2.43 billion。真人朗读（Human-narrated）的有声书制作约需六个月和数千美元；AI版本成本约$200或$300，只需数小时或数天。畅销书作家、Spoken业务发展总监Joseph Nassise表示，AI让他能掌控每一个声音和发音。"
               },
               {
                 "t": "p",
-                "x": "OpenAI的Astra则偏爱“not simply X”之类的“纠正式表述”，频率是人类文章的100多倍。Opus 5.5使用破折号的频率比Opus 5低99%。Graphite首席AI官Greg Druck表示：“他们正设法去除最广为人知的特征，但其他特征又冒了出来。”"
+                "x": "SAG-AFTRA的Jane Love表示，迄今的AI作品并不是其会员会受雇参与的作品，2025年AI有声书约占行业收入的.03%。用ElevenLabs克隆声音的表演者按使用时长每小时约赚$1.20；朗读者Will Damron警告，声音克隆会贬低这门手艺。Nassise表示，AI有声书应清楚标注。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mayor tic de Opus 5.5\nes la palabra 'dependable'",
-          "body": "Un estudio de Graphite halla que el mayor tic de Opus 5.5 es 'dependable', 23 veces más común que en textos humanos.",
-          "mini_headline": "El tic de Opus 5.5: 'dependable'",
+          "headline": "Empresas de AI ponen la mira\nen el mercado de audiolibros",
+          "body": "ElevenLabs y Spoken apuntan al fast-growing mercado de audiolibros, aunque la demanda sigue sin demostrarse.",
+          "mini_headline": "La AI pone la mira en los audiolibros",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-                "cap": "Créditos de imagen: nomadnes / Getty Images"
+                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+                "cap": "ElevenLabs ha desarrollado clones de voz con AI capaces de imitar la voz de cualquier persona."
               },
               {
                 "t": "p",
-                "x": "Un nuevo estudio de la firma de marketing Graphite analizó los hábitos de escritura de los modelos de frontera. Encontró 13,000 frases al menos dos veces más comunes en el contenido de IA que en el humano, su definición de un “tic” (tell). Los investigadores pidieron a los modelos reescribir, a partir de resúmenes, un corpus de 10,000 artículos anteriores a ChatGPT (pre-ChatGPT) para compararlos con los originales humanos."
+                "x": "Empresas de AI como ElevenLabs y Spoken apuntan al mercado de audiolibros, de crecimiento rápido (fast-growing). ElevenLabs llamó la atención este verano con una versión AI-voiced de \"The Odyssey\" narrada por una recreación de la voz de Michael Caine."
+              },
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+                "cap": "La versión AI-voiced de \"The Odyssey\" de ElevenLabs recibió críticas dispares."
               },
               {
                 "t": "p",
-                "x": "Según Graphite, el mayor tic de Claude Opus 5.5 es la palabra “dependable”, que aparece 23 veces más que en las muestras humanas. Sobre todo, a Opus le encanta explicar por qué las cosas importan: “this matters” aparece 116 veces más que en la escritura humana, y “why X matters”, 92 veces más."
+                "x": "Las ventas de audiolibros crecieron un 9% el año pasado, hasta $2.43 billion. Los audiolibros narrados por personas (Human-narrated) requieren unos seis meses y miles de dólares; las versiones con AI cuestan más bien $200 o $300 y se hacen en horas o días. El autor superventas Joseph Nassise, director de desarrollo de negocio de Spoken, afirma que la AI le permite controlar cada voz y cada pronunciación."
               },
               {
                 "t": "p",
-                "x": "Astra, de OpenAI, se apoya en el “encuadre correctivo”, como “not simply X”, más de 100 veces más común que en la prosa humana. Opus 5.5 usó rayas un 99% menos que Opus 5. “Están logrando eliminar los tics más conocidos, pero aparecen otros”, dijo Greg Druck, director de IA de Graphite."
+                "x": "Jane Love, de SAG-AFTRA, dice que los títulos con AI hasta ahora no son de los que contratarían a sus miembros, y que los audiolibros con AI representaron alrededor del .03% de los ingresos del sector en 2025. Los intérpretes que clonan su voz con ElevenLabs ganan unos $1.20 por hora de uso; el narrador Will Damron advierte que los clones de voz devalúan el oficio. Nassise sostiene que los audiolibros con AI deberían etiquetarse con claridad."
               }
             ]
           }
@@ -828,109 +819,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Opus 5.5 최대 버릇\n'dependable'",
-          "body": "Opus 5.5는 'dependable'을 사람보다 23배 더 많이 쓴다.",
-          "mini_headline": "Opus 5.5의 버릇 'dependable'",
+          "headline": "AI 기업들\n오디오북 시장 겨냥",
+          "body": "ElevenLabs·Spoken이 fast-growing 오디오북 시장을 노린다.",
+          "mini_headline": "AI, 오디오북을 노리다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-                "cap": "이미지 출처: nomadnes / Getty Images"
+                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+                "cap": "ElevenLabs는 누구의 목소리든 흉내 낼 수 있는 AI 음성 복제 기술을 개발했다."
               },
               {
                 "t": "p",
-                "x": "마케팅 기업 Graphite가 새 연구에서 프런티어 모델의 글쓰기 습관을 살폈다. 연구진은 AI 콘텐츠에서 사람의 콘텐츠보다 두 배 이상 자주 나오는 표현, 즉 이들이 정의한 ‘단서(tell)’ 13,000개를 찾아냈다. 연구진은 ChatGPT 이전(pre-ChatGPT) 기사 10,000건의 요약을 바탕으로 모델에게 기사를 다시 쓰게 한 뒤 사람이 쓴 원문과 비교했다."
+                "x": "ElevenLabs와 Spoken 같은 AI 기업들이 빠르게 성장하는(fast-growing) 오디오북 시장을 노리고 있다. ElevenLabs는 올여름 Michael Caine의 목소리를 재현해 낭독한 AI-voiced \"The Odyssey\"로 주목받았다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+                "cap": "ElevenLabs의 AI-voiced \"The Odyssey\"는 엇갈린 평가를 받았다."
               },
               {
                 "t": "p",
-                "x": "Graphite에 따르면 Claude Opus 5.5의 가장 큰 단서는 “dependable”이라는 단어로, 사람의 샘플보다 23배 더 자주 등장한다. 무엇보다 Opus는 왜 중요한지 말하기를 좋아한다. “this matters”는 사람의 글보다 116배, “why X matters”는 92배 더 자주 나온다."
+                "x": "오디오북 매출은 지난해 9% 늘어 $2.43 billion에 달했다. 사람이 낭독하는(Human-narrated) 오디오북은 제작에 여섯 달가량과 수천 달러가 들지만, AI 버전은 비용이 $200이나 $300 수준이고 몇 시간에서 며칠이면 완성된다. 베스트셀러 작가이자 Spoken의 사업개발 이사인 Joseph Nassise는 AI 덕분에 모든 목소리와 발음을 직접 통제할 수 있다고 말한다."
               },
               {
                 "t": "p",
-                "x": "OpenAI의 Astra는 “not simply X” 같은 ‘교정형 프레이밍’에 기대는데, 사람의 글보다 100배 넘게 많다. Opus 5.5는 Opus 5보다 엠대시를 99% 덜 썼다. Graphite의 최고 AI 책임자 Greg Druck은 “가장 잘 알려진 단서는 없애고 있지만, 다른 단서가 튀어나온다”고 말했다."
+                "x": "SAG-AFTRA의 Jane Love는 지금까지 나온 AI 작품은 조합원이 고용될 만한 작품이 아니었다고 말하며, 2025년 AI 오디오북은 업계 매출의 약 .03%를 차지했다. ElevenLabs로 목소리를 복제한 성우는 사용 시간당 약 $1.20을 번다. 내레이터 Will Damron은 음성 복제가 이 직업의 가치를 떨어뜨린다고 경고한다. Nassise는 AI 오디오북에 명확한 표시가 필요하다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Opus 5.5の口癖は\n“dependable”",
-          "body": "Graphiteによると、Opus 5.5は“dependable”を人間の23倍使う。",
-          "mini_headline": "Opus 5.5の口癖“dependable”",
+          "headline": "AI企業が狙う\nオーディオブック市場",
+          "body": "ElevenLabsとSpokenがfast-growingなオーディオブック市場を狙う。",
+          "mini_headline": "AIがオーディオブックを狙う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-                "cap": "画像提供：nomadnes / Getty Images"
+                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+                "cap": "ElevenLabsは、誰の声でも模倣できるAI音声クローンを開発した。"
               },
               {
                 "t": "p",
-                "x": "マーケティング企業Graphiteの新たな研究は、フロンティアモデルの文章の癖を調べた。AIのコンテンツで人間のコンテンツより2倍以上多く現れるフレーズ、つまり同社が定義する「テル（tell）」を13,000個見つけた。研究者はChatGPT以前（pre-ChatGPT）の記事10,000本の要約からモデルに書き直させ、人間による原文と比較した。"
+                "x": "ElevenLabsやSpokenといったAI企業が、急成長する(fast-growing)オーディオブック市場を狙っている。ElevenLabsはこの夏、Michael Caineの声を再現して朗読したAI-voicedの「The Odyssey」で注目を集めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+                "cap": "ElevenLabsのAI-voicedによる「The Odyssey」は賛否が分かれた。"
               },
               {
                 "t": "p",
-                "x": "Graphiteによれば、Claude Opus 5.5の最大のテルは“dependable”という単語で、人間のサンプルより23倍多く現れる。何よりOpusは物事がなぜ重要かを語りたがる。“this matters”は人間の文章の116倍、“why X matters”は92倍の頻度で登場する。"
+                "x": "オーディオブックの売上は昨年9%伸び、$2.43 billionに達した。人間が朗読する(Human-narrated)オーディオブックは制作に約半年と数千ドルを要するが、AI版の費用は$200か$300程度で、数時間から数日で完成する。ベストセラー作家で、Spokenの事業開発ディレクターを務めるJoseph Nassiseは、AIならすべての声と発音を自分で管理できると話す。"
               },
               {
                 "t": "p",
-                "x": "OpenAIのAstraは“not simply X”のような「訂正型フレーミング」に頼り、その頻度は人間の文章の100倍を超える。Opus 5.5はOpus 5に比べてemダッシュの使用が99%少なかった。「最もよく知られたテルは取り除けているが、別のものが現れる」とGraphiteのチーフAIオフィサー、Greg Druckは述べた。"
+                "x": "SAG-AFTRAのJane Loveによれば、これまでのAI作品は組合員が起用されるような作品ではなく、2025年のAIオーディオブックは業界売上の約.03%だった。ElevenLabsで声をクローンした出演者の収入は、使用時間あたり約$1.20だ。ナレーターのWill Damronは、音声クローンが技能の価値を下げると警告する。Nassiseは、AIオーディオブックには明確な表示が必要だと述べている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Opus 5.5最大写作特征\n是“dependable”",
-          "body": "Graphite发现，Opus 5.5使用“dependable”的频率是人类的23倍。",
-          "mini_headline": "Opus 5.5的写作特征“dependable”",
+          "headline": "AI公司瞄准\n有声书市场",
+          "body": "ElevenLabs和Spoken瞄准fast-growing的有声书市场，但需求未获验证。",
+          "mini_headline": "AI瞄准有声书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-                "cap": "图片来源：nomadnes / Getty Images"
+                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+                "cap": "ElevenLabs开发了能模仿任何人声音的AI语音克隆。"
               },
               {
                 "t": "p",
-                "x": "营销公司Graphite的一项新研究考察了前沿模型的写作习惯。研究发现了13,000个在AI内容中出现频率至少是人类内容两倍的短语，即其定义的“特征”（tell）。研究人员让模型根据摘要重写10,000篇ChatGPT问世前（pre-ChatGPT）的文章，再与人类原文进行比较。"
+                "x": "ElevenLabs和Spoken等AI公司正瞄准快速增长（fast-growing）的有声书市场。今年夏天，ElevenLabs凭借一部由重现的Michael Caine声音朗读的AI-voiced版《The Odyssey》引发关注。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+                "cap": "ElevenLabs的AI-voiced版《The Odyssey》评价不一。"
               },
               {
                 "t": "p",
-                "x": "据Graphite称，Claude Opus 5.5最大的特征是“dependable”一词，其出现频率是人类样本的23倍。最突出的是，Opus喜欢告诉你事情为何重要：“this matters”的出现频率是人类写作的116倍，“why X matters”则是92倍。"
+                "x": "有声书销售额去年增长9%，达到$2.43 billion。真人朗读（Human-narrated）的有声书制作约需六个月和数千美元；AI版本成本约$200或$300，只需数小时或数天。畅销书作家、Spoken业务发展总监Joseph Nassise表示，AI让他能掌控每一个声音和发音。"
               },
               {
                 "t": "p",
-                "x": "OpenAI的Astra则偏爱“not simply X”之类的“纠正式表述”，频率是人类文章的100多倍。Opus 5.5使用破折号的频率比Opus 5低99%。Graphite首席AI官Greg Druck表示：“他们正设法去除最广为人知的特征，但其他特征又冒了出来。”"
+                "x": "SAG-AFTRA的Jane Love表示，迄今的AI作品并不是其会员会受雇参与的作品，2025年AI有声书约占行业收入的.03%。用ElevenLabs克隆声音的表演者按使用时长每小时约赚$1.20；朗读者Will Damron警告，声音克隆会贬低这门手艺。Nassise表示，AI有声书应清楚标注。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El mayor tic de Opus 5.5\nes la palabra 'dependable'",
-          "body": "Un estudio de Graphite halla que el mayor tic de Opus 5.5 es 'dependable', 23 veces más común que en textos humanos.",
-          "mini_headline": "El tic de Opus 5.5: 'dependable'",
+          "headline": "Empresas de AI ponen la mira\nen el mercado de audiolibros",
+          "body": "ElevenLabs y Spoken apuntan al fast-growing mercado de audiolibros, aunque la demanda sigue sin demostrarse.",
+          "mini_headline": "La AI pone la mira en los audiolibros",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1024",
-                "cap": "Créditos de imagen: nomadnes / Getty Images"
+                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+                "cap": "ElevenLabs ha desarrollado clones de voz con AI capaces de imitar la voz de cualquier persona."
               },
               {
                 "t": "p",
-                "x": "Un nuevo estudio de la firma de marketing Graphite analizó los hábitos de escritura de los modelos de frontera. Encontró 13,000 frases al menos dos veces más comunes en el contenido de IA que en el humano, su definición de un “tic” (tell). Los investigadores pidieron a los modelos reescribir, a partir de resúmenes, un corpus de 10,000 artículos anteriores a ChatGPT (pre-ChatGPT) para compararlos con los originales humanos."
+                "x": "Empresas de AI como ElevenLabs y Spoken apuntan al mercado de audiolibros, de crecimiento rápido (fast-growing). ElevenLabs llamó la atención este verano con una versión AI-voiced de \"The Odyssey\" narrada por una recreación de la voz de Michael Caine."
+              },
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+                "cap": "La versión AI-voiced de \"The Odyssey\" de ElevenLabs recibió críticas dispares."
               },
               {
                 "t": "p",
-                "x": "Según Graphite, el mayor tic de Claude Opus 5.5 es la palabra “dependable”, que aparece 23 veces más que en las muestras humanas. Sobre todo, a Opus le encanta explicar por qué las cosas importan: “this matters” aparece 116 veces más que en la escritura humana, y “why X matters”, 92 veces más."
+                "x": "Las ventas de audiolibros crecieron un 9% el año pasado, hasta $2.43 billion. Los audiolibros narrados por personas (Human-narrated) requieren unos seis meses y miles de dólares; las versiones con AI cuestan más bien $200 o $300 y se hacen en horas o días. El autor superventas Joseph Nassise, director de desarrollo de negocio de Spoken, afirma que la AI le permite controlar cada voz y cada pronunciación."
               },
               {
                 "t": "p",
-                "x": "Astra, de OpenAI, se apoya en el “encuadre correctivo”, como “not simply X”, más de 100 veces más común que en la prosa humana. Opus 5.5 usó rayas un 99% menos que Opus 5. “Están logrando eliminar los tics más conocidos, pero aparecen otros”, dijo Greg Druck, director de IA de Graphite."
+                "x": "Jane Love, de SAG-AFTRA, dice que los títulos con AI hasta ahora no son de los que contratarían a sus miembros, y que los audiolibros con AI representaron alrededor del .03% de los ingresos del sector en 2025. Los intérpretes que clonan su voz con ElevenLabs ganan unos $1.20 por hora de uso; el narrador Will Damron advierte que los clones de voz devalúan el oficio. Nassise sostiene que los audiolibros con AI deberían etiquetarse con claridad."
               }
             ]
           }
@@ -938,195 +949,453 @@
       }
     },
     {
-      "id": "ai-comic-dramas",
+      "id": "sudowrite-chat-rewrite-printing",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "한국 만화의 쇠퇴가\nAI 만화극에 주는 경고",
-      "body": "AI 만화극 90% 이상이 중국산인 지금, 한국 웹툰 부진은 현지화 경고다.",
-      "mini_headline": "AI 만화극에 주는 웹툰의 경고",
+      "headline": "Sudowrite Chat\n속도 두 배, 원고 인쇄도",
+      "body": "Sudowrite Chat이 두 배 빨라졌고 Rewrite 개선과 인쇄도 더해졌다.",
+      "mini_headline": "Sudowrite Chat, 2x 빨라지다",
       "tool": "Books",
-      "source": "36Kr Europe",
-      "url": "https://eu.36kr.com/en/p/4003039857055617",
+      "source": "Sudowrite",
+      "url": "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "최근 Chat을 크게 손봐 속도와 성능을 함께 끌어올렸다."
+          },
+          {
+            "t": "p",
+            "x": "Chat 응답 속도가 두 배로 빨라졌다 - 이번 주 Chat을 더 빠른 인프라로 옮기면서 응답 시간이 절반으로 줄었다. 큰 작업일수록 차이가 확실히 느껴진다."
+          },
+          {
+            "t": "p",
+            "x": "Chat의 실수가 줄었다 - Chat이 가장 자주 막히던 지점을 손보는 데 공을 들여 왔다. 최근 수정으로 오류율이 30% 낮아졌다. 맥락을 놓치거나 편집 위치를 잘못 잡거나 작업을 중간에 포기하는 일도 훨씬 드물어졌다. 아직 끝난 게 아니다. Chat 개선은 계속 이어진다."
+          },
+          {
+            "t": "p",
+            "x": "Rewrite가 이제 자체(in-house) 모델로 돌아간다 - Rewrite는 그동안 Anthropic의 Claude Sonnet을 써 왔다. 이번에 Ballad로 옮겼는데 결과가 모든 걸 말해 준다. 작가들이 Rewrite 결과물을 실제로 쓸 가능성이 20% 높아졌다. 한동안 Rewrite를 안 썼다면 다시 써 볼 만하다."
+          },
+          {
+            "t": "p",
+            "x": "이제 문서를 제대로 인쇄할 수 있다 - 예전에는 Sudowrite 편집기에서 Ctrl + P나 Command + P를 누르면 빈 페이지와 함께 더 넓은 브라우저가 필요하다는 메시지만 떴다. 다행히 이제는 보고 있는 문서를 깔끔하게 인쇄해 준다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Sudowrite doubles Chat speed\nand adds manuscript printing",
+          "body": "Sudowrite's Chat responds twice as fast, alongside an improved Rewrite tool and new printing support for manuscripts.",
+          "mini_headline": "Sudowrite Chat\ngets 2x faster",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "We've made some big updates to Chat very recently, improving both its speed and performance."
+              },
+              {
+                "t": "p",
+                "x": "Chat responses are now twice as fast - We moved Chat to faster infrastructure this week, cutting response time in half in the process. You should definitely notice it on bigger tasks."
+              },
+              {
+                "t": "p",
+                "x": "Chat makes fewer mistakes - We've been working hard to improve Chat's performance where it's most likely to stumble. Our most recent fixes have reduced error rates by 30%, meaning it's now far less likely to drop context, misplace an edit, or give up. We're not done yet, though, and there are more Chat improvements to come."
+              },
+              {
+                "t": "p",
+                "x": "Rewrite now runs on our in-house model - Rewrite had been using Anthropic's Claude Sonnet for a while. We just moved it to Ballad, and the results speak for themselves: authors are now 20% more likely to actually use the resulting Rewrite. If you haven't tried Rewrite in a while, it's worth another spin."
+              },
+              {
+                "t": "p",
+                "x": "Actually print your documents - Hitting Ctrl + P or Command + P while viewing the Sudowrite editor used to pop up a blank page and a message about needing a wider browser. Well, good news, folks: it will now print a clean version of whatever document you're viewing."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Sudowrite Chat\n속도 두 배, 원고 인쇄도",
+          "body": "Sudowrite Chat이 두 배 빨라졌고 Rewrite 개선과 인쇄도 더해졌다.",
+          "mini_headline": "Sudowrite Chat, 2x 빨라지다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "최근 Chat을 크게 손봐 속도와 성능을 함께 끌어올렸다."
+              },
+              {
+                "t": "p",
+                "x": "Chat 응답 속도가 두 배로 빨라졌다 - 이번 주 Chat을 더 빠른 인프라로 옮기면서 응답 시간이 절반으로 줄었다. 큰 작업일수록 차이가 확실히 느껴진다."
+              },
+              {
+                "t": "p",
+                "x": "Chat의 실수가 줄었다 - Chat이 가장 자주 막히던 지점을 손보는 데 공을 들여 왔다. 최근 수정으로 오류율이 30% 낮아졌다. 맥락을 놓치거나 편집 위치를 잘못 잡거나 작업을 중간에 포기하는 일도 훨씬 드물어졌다. 아직 끝난 게 아니다. Chat 개선은 계속 이어진다."
+              },
+              {
+                "t": "p",
+                "x": "Rewrite가 이제 자체(in-house) 모델로 돌아간다 - Rewrite는 그동안 Anthropic의 Claude Sonnet을 써 왔다. 이번에 Ballad로 옮겼는데 결과가 모든 걸 말해 준다. 작가들이 Rewrite 결과물을 실제로 쓸 가능성이 20% 높아졌다. 한동안 Rewrite를 안 썼다면 다시 써 볼 만하다."
+              },
+              {
+                "t": "p",
+                "x": "이제 문서를 제대로 인쇄할 수 있다 - 예전에는 Sudowrite 편집기에서 Ctrl + P나 Command + P를 누르면 빈 페이지와 함께 더 넓은 브라우저가 필요하다는 메시지만 떴다. 다행히 이제는 보고 있는 문서를 깔끔하게 인쇄해 준다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Sudowrite Chat\n速度倍増、原稿印刷も",
+          "body": "Sudowrite Chatが倍速になり、Rewriteも改善、原稿印刷にも対応した。",
+          "mini_headline": "Sudowrite Chatが2x高速に",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "最近、Chatに大きなアップデートを行い、速度と性能の両方を向上させた。"
+              },
+              {
+                "t": "p",
+                "x": "Chatの応答速度が倍になった - 今週Chatをより高速なインフラに移し、応答時間を半分に短縮した。大きな作業ではっきり実感できるはずだ。"
+              },
+              {
+                "t": "p",
+                "x": "Chatのミスが減った - Chatがつまずきやすい場面での性能改善に力を注いできた。直近の修正でエラー率を30%下げ、文脈を落としたり、編集箇所を誤ったり、途中で投げ出したりすることが大幅に減った。ただしまだ終わりではなく、Chatの改善はこれからも続く。"
+              },
+              {
+                "t": "p",
+                "x": "Rewriteが自社(in-house)モデルで動作 - RewriteはしばらくAnthropicのClaude Sonnetを使っていた。これをBalladに移したところ、結果は明らかだ。作家が生成されたRewriteを実際に採用する確率が20%高まった。しばらくRewriteを使っていないなら、改めて試す価値がある。"
+              },
+              {
+                "t": "p",
+                "x": "文書をきちんと印刷できるように - これまでSudowriteのエディタ表示中にCtrl + PやCommand + Pを押すと、白紙のページと、より幅の広いブラウザが必要だというメッセージが表示されていた。朗報だ。今後は表示中の文書をきれいな形で印刷できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Sudowrite Chat\n提速一倍并支持打印稿件",
+          "body": "Sudowrite的Chat响应速度翻倍，Rewrite工具获改进，并新增稿件打印功能。",
+          "mini_headline": "Sudowrite Chat提速至2x",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "我们最近对Chat进行了重大更新，速度和性能都有提升。"
+              },
+              {
+                "t": "p",
+                "x": "Chat响应速度翻倍 - 本周我们将Chat迁移到更快的基础设施，响应时间因此减半。在较大的任务上你一定能感受到。"
+              },
+              {
+                "t": "p",
+                "x": "Chat出错更少 - 我们一直在努力提升Chat在最容易出错之处的表现。最近的修复让错误率降低了30%，这意味着它丢失上下文、放错编辑位置或中途放弃的可能性大大降低。不过我们还没完成，更多Chat改进即将到来。"
+              },
+              {
+                "t": "p",
+                "x": "Rewrite现在运行在我们的自研（in-house）模型上 - Rewrite此前一段时间使用的是Anthropic的Claude Sonnet。我们刚把它迁移到Ballad，结果不言自明：作者实际采用Rewrite结果的可能性提高了20%。如果你有一阵子没用Rewrite了，值得再试一次。"
+              },
+              {
+                "t": "p",
+                "x": "现在可以真正打印文档了 - 以前在Sudowrite编辑器中按Ctrl + P或Command + P，只会弹出一页空白页和一条需要更宽浏览器的提示。好消息是：现在它会打印出你正在查看的文档的干净版本。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Sudowrite acelera Chat al doble\ny permite imprimir manuscritos",
+          "body": "El Chat de Sudowrite responde el doble de rápido, con un Rewrite mejorado y nueva opción de imprimir manuscritos.",
+          "mini_headline": "Sudowrite Chat, 2x más rápido",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Hemos hecho recientemente grandes actualizaciones en Chat que mejoran tanto su velocidad como su rendimiento."
+              },
+              {
+                "t": "p",
+                "x": "Las respuestas de Chat ahora son el doble de rápidas - Esta semana trasladamos Chat a una infraestructura más rápida, lo que redujo a la mitad el tiempo de respuesta. Se notará sin duda en las tareas más grandes."
+              },
+              {
+                "t": "p",
+                "x": "Chat comete menos errores - Hemos trabajado a fondo para mejorar el rendimiento de Chat donde es más probable que falle. Nuestras correcciones más recientes han reducido la tasa de errores en un 30%, de modo que ahora es mucho menos probable que pierda el contexto, coloque mal una edición o se rinda. Aún no hemos terminado y habrá más mejoras de Chat."
+              },
+              {
+                "t": "p",
+                "x": "Rewrite ahora funciona con nuestro modelo in-house - Rewrite usaba Claude Sonnet de Anthropic desde hacía un tiempo. Acabamos de pasarlo a Ballad y los resultados hablan por sí solos: ahora es un 20% más probable que los autores usen de verdad el resultado de Rewrite. Si hace tiempo que no prueba Rewrite, vale la pena volver a hacerlo."
+              },
+              {
+                "t": "p",
+                "x": "Imprima de verdad sus documentos - Al pulsar Ctrl + P o Command + P en el editor de Sudowrite antes aparecía una página en blanco y un mensaje que pedía un navegador más ancho. La buena noticia es que ahora se imprimirá una versión limpia del documento que esté viendo."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Sudowrite Chat\n속도 두 배, 원고 인쇄도",
+          "body": "Sudowrite Chat이 두 배 빨라졌고 Rewrite 개선과 인쇄도 더해졌다.",
+          "mini_headline": "Sudowrite Chat, 2x 빨라지다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "최근 Chat을 크게 업데이트해 속도와 성능을 모두 높였다."
+              },
+              {
+                "t": "p",
+                "x": "Chat 응답 속도가 두 배로 빨라졌다 - 이번 주 Chat을 더 빠른 인프라로 옮기면서 응답 시간을 절반으로 줄였다. 규모가 큰 작업에서는 확실히 체감할 수 있을 것이다."
+              },
+              {
+                "t": "p",
+                "x": "Chat의 실수가 줄었다 - Chat이 가장 막히기 쉬운 부분의 성능을 높이려고 공을 들여 왔다. 최근 수정으로 오류율을 30% 낮췄고, 맥락을 놓치거나 편집 위치를 잘못 잡거나 작업을 포기하는 일이 훨씬 줄었다. 아직 끝은 아니며, Chat 개선은 앞으로도 이어진다."
+              },
+              {
+                "t": "p",
+                "x": "Rewrite가 이제 자체(in-house) 모델로 돌아간다 - Rewrite는 한동안 Anthropic의 Claude Sonnet을 사용해 왔다. 이번에 이를 Ballad로 옮겼고, 결과가 모든 것을 말해 준다. 작가들이 Rewrite 결과물을 실제로 사용할 가능성이 20% 높아졌다. 한동안 Rewrite를 쓰지 않았다면 다시 써 볼 만하다."
+              },
+              {
+                "t": "p",
+                "x": "이제 문서를 제대로 인쇄할 수 있다 - 예전에는 Sudowrite 편집기에서 Ctrl + P나 Command + P를 누르면 빈 페이지와 함께 더 넓은 브라우저가 필요하다는 메시지가 떴다. 반가운 소식이다. 이제는 보고 있는 문서를 깔끔한 형태로 인쇄해 준다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Sudowrite Chat\n速度倍増、原稿印刷も",
+          "body": "Sudowrite Chatが倍速になり、Rewriteも改善、原稿印刷にも対応した。",
+          "mini_headline": "Sudowrite Chatが2x高速に",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "最近、Chatに大きなアップデートを行い、速度と性能の両方を向上させた。"
+              },
+              {
+                "t": "p",
+                "x": "Chatの応答速度が倍になった - 今週Chatをより高速なインフラに移し、応答時間を半分に短縮した。大きな作業ではっきり実感できるはずだ。"
+              },
+              {
+                "t": "p",
+                "x": "Chatのミスが減った - Chatがつまずきやすい場面での性能改善に力を注いできた。直近の修正でエラー率を30%下げ、文脈を落としたり、編集箇所を誤ったり、途中で投げ出したりすることが大幅に減った。ただしまだ終わりではなく、Chatの改善はこれからも続く。"
+              },
+              {
+                "t": "p",
+                "x": "Rewriteが自社(in-house)モデルで動作 - RewriteはしばらくAnthropicのClaude Sonnetを使っていた。これをBalladに移したところ、結果は明らかだ。作家が生成されたRewriteを実際に採用する確率が20%高まった。しばらくRewriteを使っていないなら、改めて試す価値がある。"
+              },
+              {
+                "t": "p",
+                "x": "文書をきちんと印刷できるように - これまでSudowriteのエディタ表示中にCtrl + PやCommand + Pを押すと、白紙のページと、より幅の広いブラウザが必要だというメッセージが表示されていた。朗報だ。今後は表示中の文書をきれいな形で印刷できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Sudowrite Chat\n提速一倍并支持打印稿件",
+          "body": "Sudowrite的Chat响应速度翻倍，Rewrite工具获改进，并新增稿件打印功能。",
+          "mini_headline": "Sudowrite Chat提速至2x",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "我们最近对Chat进行了重大更新，速度和性能都有提升。"
+              },
+              {
+                "t": "p",
+                "x": "Chat响应速度翻倍 - 本周我们将Chat迁移到更快的基础设施，响应时间因此减半。在较大的任务上你一定能感受到。"
+              },
+              {
+                "t": "p",
+                "x": "Chat出错更少 - 我们一直在努力提升Chat在最容易出错之处的表现。最近的修复让错误率降低了30%，这意味着它丢失上下文、放错编辑位置或中途放弃的可能性大大降低。不过我们还没完成，更多Chat改进即将到来。"
+              },
+              {
+                "t": "p",
+                "x": "Rewrite现在运行在我们的自研（in-house）模型上 - Rewrite此前一段时间使用的是Anthropic的Claude Sonnet。我们刚把它迁移到Ballad，结果不言自明：作者实际采用Rewrite结果的可能性提高了20%。如果你有一阵子没用Rewrite了，值得再试一次。"
+              },
+              {
+                "t": "p",
+                "x": "现在可以真正打印文档了 - 以前在Sudowrite编辑器中按Ctrl + P或Command + P，只会弹出一页空白页和一条需要更宽浏览器的提示。好消息是：现在它会打印出你正在查看的文档的干净版本。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Sudowrite acelera Chat al doble\ny permite imprimir manuscritos",
+          "body": "El Chat de Sudowrite responde el doble de rápido, con un Rewrite mejorado y nueva opción de imprimir manuscritos.",
+          "mini_headline": "Sudowrite Chat, 2x más rápido",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Hemos hecho recientemente grandes actualizaciones en Chat que mejoran tanto su velocidad como su rendimiento."
+              },
+              {
+                "t": "p",
+                "x": "Las respuestas de Chat ahora son el doble de rápidas - Esta semana trasladamos Chat a una infraestructura más rápida, lo que redujo a la mitad el tiempo de respuesta. Se notará sin duda en las tareas más grandes."
+              },
+              {
+                "t": "p",
+                "x": "Chat comete menos errores - Hemos trabajado a fondo para mejorar el rendimiento de Chat donde es más probable que falle. Nuestras correcciones más recientes han reducido la tasa de errores en un 30%, de modo que ahora es mucho menos probable que pierda el contexto, coloque mal una edición o se rinda. Aún no hemos terminado y habrá más mejoras de Chat."
+              },
+              {
+                "t": "p",
+                "x": "Rewrite ahora funciona con nuestro modelo in-house - Rewrite usaba Claude Sonnet de Anthropic desde hacía un tiempo. Acabamos de pasarlo a Ballad y los resultados hablan por sí solos: ahora es un 20% más probable que los autores usen de verdad el resultado de Rewrite. Si hace tiempo que no prueba Rewrite, vale la pena volver a hacerlo."
+              },
+              {
+                "t": "p",
+                "x": "Imprima de verdad sus documentos - Al pulsar Ctrl + P o Command + P en el editor de Sudowrite antes aparecía una página en blanco y un mensaje que pedía un navegador más ancho. La buena noticia es que ahora se imprimirá una versión limpia del documento que esté viendo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "garmus-ai-hubris-essay",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Bonnie Garmus:\nAI가 드러낸 인간의 오만",
+      "body": "소설가 Bonnie Garmus는 AI가 인간의 오만까지 드러냈다고 본다.",
+      "mini_headline": "Garmus, AI가 드러낸 인간의 오만",
+      "tool": "Books",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "중국 기업들이 해외 숏드라마 시장을 독점하고, AI 만화극은 이 흐름을 더 굳혔다. 2026년 8월 글로벌 해외 숏드라마 앱 상위 10개 중 9개가 중국 기업 소유였다. 이들 앱에서 스트리밍된 AI 만화극도 90% 이상이 중국산이었다."
-          },
-          {
             "t": "img",
-            "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-            "cap": "10개 중 9개를 차지한 중국 해외 숏드라마 플랫폼. 일러스트: Short Drama Study Room"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
           },
           {
             "t": "p",
-            "x": "필자는 지금 상황이 10년 전 한국 웹툰 플랫폼과 닮았다고 본다. 전성기의 한국 웹툰 플랫폼은 세계 디지털 만화 시장의 60% 이상을 차지했다. 그런데 같은 이야기를 그대로 세계에 수출하자 문화적 반발이 일었다. 2026년 9월 Kakao는 5억 1천만 달러에 인수한 Tapas와 Kakao Webtoon 국제판 서비스를 종료한다고 발표했다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+            "x": "소설가 Bonnie Garmus는 The Bookseller에 기고한 \"AI가 우리를 죽일지도 모르지만, 그게 그렇게 나쁜가?\"라는 제목의 칼럼에서 AI의 등장에 작가 대부분이 불안해졌지만 한편으로는 인류의 오만도 드러났다고 썼다."
           },
           {
             "t": "p",
-            "x": "예외는 Kakao의 일본 플랫폼 Piccoma다. 한국 만화와 일본 만화 비율이 약 6:4이고, 2025년 거래액은 약 1,400억 엔에 이르렀다. 필자가 보기에 중국 AI 만화극 기업들이 얻을 교훈은 현지화다. 현지 콘텐츠 비중은 40% 가까이 지켜야 한다고 덧붙인다."
+            "x": "Garmus의 작가 소개를 보면 그는 커피 없이는 못 사는(coffee-dependent) 미국 소설가다. 데뷔작 Lessons in Chemistry는 전 세계 베스트셀러 정상에 올랐고 New York Times 독자들이 뽑은 21세기 최고의 책 100권에도 이름을 올렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Korean manhwa's decline holds\na warning for AI comic dramas",
-          "body": "Chinese firms make over 90% of AI manhua dramas on top overseas apps; Korea's webtoon slump is a warning to localize.",
-          "mini_headline": "A webtoon warning for AI dramas",
+          "headline": "Bonnie Garmus: AI exposes\nthe hubris of humankind",
+          "body": "Novelist Bonnie Garmus argues that while AI alarms most writers, it has also exposed the hubris of humankind.",
+          "mini_headline": "Garmus sees AI exposing\nhuman hubris",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Chinese enterprises are monopolizing the overseas short drama market, and AI manhua dramas have reinforced this. In August 2026, 9 of the top 10 global overseas short drama apps belonged to Chinese companies, and more than 90% of the AI manhua dramas streamed on them were made in China."
-              },
-              {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-                "cap": "9 out of 10: the dominance of Chinese overseas short drama platforms. Illustration: Short Drama Study Room"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
               },
               {
                 "t": "p",
-                "x": "The author argues this mirrors Korean webtoon platforms a decade ago, which at their peak held over 60% of the global digital manhua market. Exporting one set of stories worldwide brought cultural backlash, and in September 2026 Kakao announced it would shut down Tapas, acquired for $510 million, and the international version of Kakao Webtoon."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "In a comment piece for The Bookseller titled \"AI might kill us, but is that so bad?\", novelist Bonnie Garmus writes that while the advent of AI has alarmed most writers, it has also shone a light on the hubris of humankind."
               },
               {
                 "t": "p",
-                "x": "The exception is Kakao’s Japanese platform Piccoma, where Korean and Japanese manhua run about 6:4 and 2025 transactions reached about 140 billion yen. The lesson for Chinese AI manhua drama firms, the author says, is to localize, keeping local content near 40%."
+                "x": "Garmus's author bio describes her as a coffee-dependent American novelist. Her debut novel, Lessons in Chemistry, was a number one global bestseller and was named by New York Times readers as one of the top 100 books of the 21st Century."
               }
             ]
           }
         },
         "ko": {
-          "headline": "한국 만화의 쇠퇴가\nAI 만화극에 주는 경고",
-          "body": "AI 만화극 90% 이상이 중국산인 지금, 한국 웹툰 부진은 현지화 경고다.",
-          "mini_headline": "AI 만화극에 주는 웹툰의 경고",
+          "headline": "Bonnie Garmus:\nAI가 드러낸 인간의 오만",
+          "body": "소설가 Bonnie Garmus는 AI가 인간의 오만까지 드러냈다고 본다.",
+          "mini_headline": "Garmus, AI가 드러낸 인간의 오만",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "중국 기업들이 해외 숏드라마 시장을 독점하고, AI 만화극은 이 흐름을 더 굳혔다. 2026년 8월 글로벌 해외 숏드라마 앱 상위 10개 중 9개가 중국 기업 소유였다. 이들 앱에서 스트리밍된 AI 만화극도 90% 이상이 중국산이었다."
-              },
-              {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-                "cap": "10개 중 9개를 차지한 중국 해외 숏드라마 플랫폼. 일러스트: Short Drama Study Room"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
               },
               {
                 "t": "p",
-                "x": "필자는 지금 상황이 10년 전 한국 웹툰 플랫폼과 닮았다고 본다. 전성기의 한국 웹툰 플랫폼은 세계 디지털 만화 시장의 60% 이상을 차지했다. 그런데 같은 이야기를 그대로 세계에 수출하자 문화적 반발이 일었다. 2026년 9월 Kakao는 5억 1천만 달러에 인수한 Tapas와 Kakao Webtoon 국제판 서비스를 종료한다고 발표했다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "소설가 Bonnie Garmus는 The Bookseller에 기고한 \"AI가 우리를 죽일지도 모르지만, 그게 그렇게 나쁜가?\"라는 제목의 칼럼에서 AI의 등장에 작가 대부분이 불안해졌지만 한편으로는 인류의 오만도 드러났다고 썼다."
               },
               {
                 "t": "p",
-                "x": "예외는 Kakao의 일본 플랫폼 Piccoma다. 한국 만화와 일본 만화 비율이 약 6:4이고, 2025년 거래액은 약 1,400억 엔에 이르렀다. 필자가 보기에 중국 AI 만화극 기업들이 얻을 교훈은 현지화다. 현지 콘텐츠 비중은 40% 가까이 지켜야 한다고 덧붙인다."
+                "x": "Garmus의 작가 소개를 보면 그는 커피 없이는 못 사는(coffee-dependent) 미국 소설가다. 데뷔작 Lessons in Chemistry는 전 세계 베스트셀러 정상에 올랐고 New York Times 독자들이 뽑은 21세기 최고의 책 100권에도 이름을 올렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国漫画の衰退は\nAI漫画ドラマへの警告",
-          "body": "海外アプリのAI漫画ドラマは90%超が中国製で、韓国ウェブトゥーンの不振は現地化への警告だ。",
-          "mini_headline": "AI漫画ドラマへの警告",
+          "headline": "Bonnie Garmus:\nAIが暴く人類の傲慢",
+          "body": "小説家Bonnie Garmusは、AIが人類の傲慢さも浮き彫りにしたと論じる。",
+          "mini_headline": "Garmus、AIが暴く人間の傲慢",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "中国企業が海外向けショートドラマ市場を独占しており、AI漫画ドラマがその傾向を強めている。2026年8月、世界の海外向けショートドラマアプリ上位10本のうち9本が中国企業のもので、そこで配信されたAI漫画ドラマの90%以上が中国製だった。"
-              },
-              {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-                "cap": "10本中9本：中国の海外向けショートドラマプラットフォームの優位。イラスト：Short Drama Study Room"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
               },
               {
                 "t": "p",
-                "x": "筆者は、これが10年前の韓国ウェブトゥーンプラットフォームに重なると論じる。韓国勢は最盛期に世界のデジタル漫画市場の60%超を握っていた。同じ物語群をそのまま世界に輸出したことで文化的な反発を招き、2026年9月、Kakaoは5億1000万ドルで買収したTapasと、Kakao Webtoonの国際版を閉鎖すると発表した。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "小説家Bonnie Garmusは、The Booksellerに寄せた「AIは私たちを滅ぼすかもしれない、でもそれはそんなに悪いことか?」と題するコラムで、AIの登場は多くの作家を不安にさせたが、人類の傲慢さにも光を当てたと書いている。"
               },
               {
                 "t": "p",
-                "x": "例外はKakaoの日本向けプラットフォームPiccomaで、韓国と日本の漫画の比率は約6:4、2025年の取引額は約1400億円に達した。筆者によれば、中国のAI漫画ドラマ企業が学ぶべき教訓は現地化であり、現地コンテンツを40%近くに保つことだという。"
+                "x": "Garmusの著者紹介には、コーヒーが手放せない(coffee-dependent)アメリカ人小説家とある。デビュー作Lessons in Chemistryは世界的ベストセラー首位となり、New York Timesの読者が選ぶ21世紀のベスト100冊の一冊に選ばれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国漫画式微\n给AI漫剧敲响警钟",
-          "body": "海外头部应用上的AI漫剧90%以上出自中国企业，韩国网漫的衰落提醒业界须本地化。",
-          "mini_headline": "网漫给AI漫剧的警示",
+          "headline": "Bonnie Garmus：\nAI暴露人类的傲慢",
+          "body": "小说家Bonnie Garmus认为，AI虽令多数作家不安，却也暴露了人类的傲慢。",
+          "mini_headline": "Garmus：AI暴露人类傲慢",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "中国企业正垄断海外短剧市场，AI漫剧进一步强化了这一格局。2026年8月，全球海外短剧应用前10名中有9个属于中国公司，在这些应用上播放的AI漫剧90%以上由中国制作。"
-              },
-              {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-                "cap": "10中占9：中国海外短剧平台的统治地位。插图：Short Drama Study Room"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
               },
               {
                 "t": "p",
-                "x": "作者认为，这与十年前的韩国网漫平台如出一辙，后者巅峰时期占据全球数字漫画市场60%以上的份额。将同一套故事输出到全球引发了文化反弹，2026年9月，Kakao宣布将关闭以5.1亿美元收购的Tapas以及Kakao Webtoon国际版。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "小说家Bonnie Garmus在为The Bookseller撰写的评论文章《AI可能会杀死我们，但那有那么糟吗？》中写道，AI的出现虽令大多数作家感到不安，却也照见了人类的傲慢。"
               },
               {
                 "t": "p",
-                "x": "例外是Kakao旗下的日本平台Piccoma，其韩国与日本漫画的比例约为6:4，2025年交易额约达1400亿日元。作者表示，中国AI漫剧企业应汲取的教训是本地化，将本地内容占比保持在40%左右。"
+                "x": "Garmus的作者简介称她是一位离不开咖啡（coffee-dependent）的美国小说家。她的处女作Lessons in Chemistry曾登上全球畅销书榜首，并被New York Times读者评为21世纪100本最佳图书之一。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El declive del manhwa coreano\nes una alerta para dramas con IA",
-          "body": "Firmas chinas hacen más del 90 % de los dramas manhua con IA; el declive del webtoon coreano invita a localizar.",
-          "mini_headline": "Una advertencia para los dramas con IA",
+          "headline": "Bonnie Garmus: la AI expone\nla soberbia de la humanidad",
+          "body": "Para la novelista Bonnie Garmus, la AI alarma a la mayoría de los escritores, pero también expone la soberbia humana.",
+          "mini_headline": "Garmus ve en la AI un reflejo de la soberbia humana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Las empresas chinas monopolizan el mercado internacional de microdramas, y los dramas de manhua con IA han reforzado esa posición. En agosto de 2026, 9 de las 10 principales apps globales de microdramas para el extranjero pertenecían a compañías chinas, y más del 90 % de los dramas de manhua con IA que se emitían en ellas se habían hecho en China."
-              },
-              {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-                "cap": "9 de cada 10: el dominio de las plataformas chinas de microdramas en el extranjero. Ilustración: Short Drama Study Room"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
               },
               {
                 "t": "p",
-                "x": "El autor sostiene que esto recuerda a las plataformas coreanas de webtoon de hace una década, que en su apogeo tenían más del 60 % del mercado mundial de manhua digital. Exportar un mismo conjunto de historias a todo el mundo provocó rechazo cultural, y en septiembre de 2026 Kakao anunció el cierre de Tapas, adquirida por 510 millones de dólares, y de la versión internacional de Kakao Webtoon."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "En un artículo de opinión para The Bookseller titulado \"La AI podría matarnos, pero ¿es tan malo?\", la novelista Bonnie Garmus escribe que, aunque la llegada de la AI ha alarmado a la mayoría de los escritores, también ha puesto de relieve la soberbia de la humanidad."
               },
               {
                 "t": "p",
-                "x": "La excepción es Piccoma, la plataforma japonesa de Kakao, donde el manhua coreano y el japonés guardan una proporción aproximada de 6:4 y las transacciones de 2025 alcanzaron unos 140.000 millones de yenes. La lección para las empresas chinas de dramas de manhua con IA, según el autor, es localizar y mantener el contenido local cerca del 40 %."
+                "x": "La biografía de autora de Garmus la describe como una novelista estadounidense coffee-dependent, dependiente del café. Su primera novela, Lessons in Chemistry, fue número uno en ventas a nivel mundial y los lectores del New York Times la eligieron entre los 100 mejores libros del siglo 21."
               }
             ]
           }
@@ -1134,317 +1403,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "한국 만화의 쇠퇴가\nAI 만화극에 주는 경고",
-          "body": "AI 만화극 90% 이상이 중국산인 지금, 한국 웹툰 부진은 현지화 경고다.",
-          "mini_headline": "AI 만화극에 주는 웹툰의 경고",
+          "headline": "Bonnie Garmus:\nAI가 드러낸 인간의 오만",
+          "body": "소설가 Bonnie Garmus는 AI가 인간의 오만도 드러냈다고 본다.",
+          "mini_headline": "Garmus, AI가 드러낸 인간의 오만",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "중국 기업들이 해외 숏드라마 시장을 독점하고 있으며, AI 만화극이 이 흐름을 더 굳혔다. 2026년 8월 글로벌 해외 숏드라마 앱 상위 10개 중 9개가 중국 기업 소유였고, 이들 앱에서 스트리밍된 AI 만화극의 90% 이상이 중국에서 만들어졌다."
-              },
-              {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-                "cap": "10개 중 9개: 중국 해외 숏드라마 플랫폼의 우위. 일러스트: Short Drama Study Room"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
               },
               {
                 "t": "p",
-                "x": "필자는 이것이 10년 전 한국 웹툰 플랫폼과 닮았다고 본다. 한국 웹툰 플랫폼은 전성기에 세계 디지털 만화 시장의 60% 이상을 차지했다. 같은 이야기들을 그대로 세계에 수출하자 문화적 반발이 일었고, 2026년 9월 Kakao는 5억 1천만 달러에 인수한 Tapas와 Kakao Webtoon 국제판의 서비스를 종료한다고 발표했다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "소설가 Bonnie Garmus는 The Bookseller에 기고한 \"AI가 우리를 죽일지도 모르지만, 그게 그렇게 나쁜가?\"라는 제목의 칼럼에서, AI의 등장이 대부분의 작가를 불안하게 했지만 인류의 오만을 비추기도 했다고 썼다."
               },
               {
                 "t": "p",
-                "x": "예외는 Kakao의 일본 플랫폼 Piccoma로, 이곳의 한국 만화와 일본 만화 비율은 약 6:4이며 2025년 거래액은 약 1,400억 엔에 이르렀다. 필자는 중국 AI 만화극 기업들이 얻을 교훈이 현지화이며, 현지 콘텐츠 비중을 40% 가까이 유지해야 한다고 말한다."
+                "x": "Garmus의 작가 소개에는 그가 커피 없이는 못 사는(coffee-dependent) 미국 소설가로 적혀 있다. 데뷔작 Lessons in Chemistry는 전 세계 베스트셀러 정상에 올랐고, New York Times 독자들이 뽑은 21세기 최고의 책 100권 중 하나로 선정됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国漫画の衰退は\nAI漫画ドラマへの警告",
-          "body": "海外アプリのAI漫画ドラマは90%超が中国製で、韓国ウェブトゥーンの不振は現地化への警告だ。",
-          "mini_headline": "AI漫画ドラマへの警告",
+          "headline": "Bonnie Garmus:\nAIが暴く人類の傲慢",
+          "body": "小説家Bonnie Garmusは、AIが人類の傲慢さも浮き彫りにしたと論じる。",
+          "mini_headline": "Garmus、AIが暴く人間の傲慢",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "中国企業が海外向けショートドラマ市場を独占しており、AI漫画ドラマがその傾向を強めている。2026年8月、世界の海外向けショートドラマアプリ上位10本のうち9本が中国企業のもので、そこで配信されたAI漫画ドラマの90%以上が中国製だった。"
-              },
-              {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-                "cap": "10本中9本：中国の海外向けショートドラマプラットフォームの優位。イラスト：Short Drama Study Room"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
               },
               {
                 "t": "p",
-                "x": "筆者は、これが10年前の韓国ウェブトゥーンプラットフォームに重なると論じる。韓国勢は最盛期に世界のデジタル漫画市場の60%超を握っていた。同じ物語群をそのまま世界に輸出したことで文化的な反発を招き、2026年9月、Kakaoは5億1000万ドルで買収したTapasと、Kakao Webtoonの国際版を閉鎖すると発表した。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "小説家Bonnie Garmusは、The Booksellerに寄せた「AIは私たちを滅ぼすかもしれない、でもそれはそんなに悪いことか?」と題するコラムで、AIの登場は多くの作家を不安にさせたが、人類の傲慢さにも光を当てたと書いている。"
               },
               {
                 "t": "p",
-                "x": "例外はKakaoの日本向けプラットフォームPiccomaで、韓国と日本の漫画の比率は約6:4、2025年の取引額は約1400億円に達した。筆者によれば、中国のAI漫画ドラマ企業が学ぶべき教訓は現地化であり、現地コンテンツを40%近くに保つことだという。"
+                "x": "Garmusの著者紹介には、コーヒーが手放せない(coffee-dependent)アメリカ人小説家とある。デビュー作Lessons in Chemistryは世界的ベストセラー首位となり、New York Timesの読者が選ぶ21世紀のベスト100冊の一冊に選ばれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国漫画式微\n给AI漫剧敲响警钟",
-          "body": "海外头部应用上的AI漫剧90%以上出自中国企业，韩国网漫的衰落提醒业界须本地化。",
-          "mini_headline": "网漫给AI漫剧的警示",
+          "headline": "Bonnie Garmus：\nAI暴露人类的傲慢",
+          "body": "小说家Bonnie Garmus认为，AI虽令多数作家不安，却也暴露了人类的傲慢。",
+          "mini_headline": "Garmus：AI暴露人类傲慢",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "中国企业正垄断海外短剧市场，AI漫剧进一步强化了这一格局。2026年8月，全球海外短剧应用前10名中有9个属于中国公司，在这些应用上播放的AI漫剧90%以上由中国制作。"
-              },
-              {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-                "cap": "10中占9：中国海外短剧平台的统治地位。插图：Short Drama Study Room"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
               },
               {
                 "t": "p",
-                "x": "作者认为，这与十年前的韩国网漫平台如出一辙，后者巅峰时期占据全球数字漫画市场60%以上的份额。将同一套故事输出到全球引发了文化反弹，2026年9月，Kakao宣布将关闭以5.1亿美元收购的Tapas以及Kakao Webtoon国际版。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "小说家Bonnie Garmus在为The Bookseller撰写的评论文章《AI可能会杀死我们，但那有那么糟吗？》中写道，AI的出现虽令大多数作家感到不安，却也照见了人类的傲慢。"
               },
               {
                 "t": "p",
-                "x": "例外是Kakao旗下的日本平台Piccoma，其韩国与日本漫画的比例约为6:4，2025年交易额约达1400亿日元。作者表示，中国AI漫剧企业应汲取的教训是本地化，将本地内容占比保持在40%左右。"
+                "x": "Garmus的作者简介称她是一位离不开咖啡（coffee-dependent）的美国小说家。她的处女作Lessons in Chemistry曾登上全球畅销书榜首，并被New York Times读者评为21世纪100本最佳图书之一。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El declive del manhwa coreano\nes una alerta para dramas con IA",
-          "body": "Firmas chinas hacen más del 90 % de los dramas manhua con IA; el declive del webtoon coreano invita a localizar.",
-          "mini_headline": "Una advertencia para los dramas con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Las empresas chinas monopolizan el mercado internacional de microdramas, y los dramas de manhua con IA han reforzado esa posición. En agosto de 2026, 9 de las 10 principales apps globales de microdramas para el extranjero pertenecían a compañías chinas, y más del 90 % de los dramas de manhua con IA que se emitían en ellas se habían hecho en China."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74839175f4c844b4b3cbd2f6357a6b50@371860621_oswg127761oswg1080oswg1302_img_000?x-oss-process=image/format,jpg/interlace,1",
-                "cap": "9 de cada 10: el dominio de las plataformas chinas de microdramas en el extranjero. Ilustración: Short Drama Study Room"
-              },
-              {
-                "t": "p",
-                "x": "El autor sostiene que esto recuerda a las plataformas coreanas de webtoon de hace una década, que en su apogeo tenían más del 60 % del mercado mundial de manhua digital. Exportar un mismo conjunto de historias a todo el mundo provocó rechazo cultural, y en septiembre de 2026 Kakao anunció el cierre de Tapas, adquirida por 510 millones de dólares, y de la versión internacional de Kakao Webtoon."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20260928/v2_74e5bdd121df4e16a897864c9619f97d@371860621_oswg53949oswg1080oswg540_img_000?x-oss-process=image/format,jpg/interlace,1"
-              },
-              {
-                "t": "p",
-                "x": "La excepción es Piccoma, la plataforma japonesa de Kakao, donde el manhua coreano y el japonés guardan una proporción aproximada de 6:4 y las transacciones de 2025 alcanzaron unos 140.000 millones de yenes. La lección para las empresas chinas de dramas de manhua con IA, según el autor, es localizar y mantener el contenido local cerca del 40 %."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ai-narration-trojan",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 내레이션은\n오디오북계의 트로이 목마",
-      "body": "Barnfield는 AI 음성 기업이 접근성 대신 데이터를 모은다고 본다.",
-      "mini_headline": "AI 내레이션이라는 트로이 목마",
-      "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/comment/ai-narration-companies-audiobook-trojan-horse",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
-          },
-          {
-            "t": "p",
-            "x": "오디오북 전문가 Jessica Barnfield는 The Bookseller 기고문에서 ElevenLabs 같은 AI 음성 기업이 오디오북 접근성을 넓히는 게 아니라 데이터를 모으는 중이라고 주장한다. Barnfield는 10년 넘게 영국과 미국, 해외 시장을 오가며 오디오북 제작과 유통, 사업 개발을 해 왔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI narration as the audiobook\nindustry's Trojan horse",
-          "body": "Audiobook specialist Jessica Barnfield argues AI voice firms like ElevenLabs aren't widening access but gathering data.",
-          "mini_headline": "AI narration's Trojan horse",
+          "headline": "Bonnie Garmus: la AI expone\nla soberbia de la humanidad",
+          "body": "Para la novelista Bonnie Garmus, la AI alarma a la mayoría de los escritores, pero también expone la soberbia humana.",
+          "mini_headline": "Garmus ve en la AI un reflejo de la soberbia humana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
               },
               {
                 "t": "p",
-                "x": "In a comment piece for The Bookseller, audiobook specialist Jessica Barnfield argues that AI voice firms like ElevenLabs aren’t widening access to audiobooks, they’re gathering data. Barnfield has spent over a decade in audiobook production, distribution and business development, working across the UK, US and international markets."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 내레이션은\n오디오북계의 트로이 목마",
-          "body": "Barnfield는 AI 음성 기업이 접근성 대신 데이터를 모은다고 본다.",
-          "mini_headline": "AI 내레이션이라는 트로이 목마",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
+                "x": "En un artículo de opinión para The Bookseller titulado \"La AI podría matarnos, pero ¿es tan malo?\", la novelista Bonnie Garmus escribe que, aunque la llegada de la AI ha alarmado a la mayoría de los escritores, también ha puesto de relieve la soberbia de la humanidad."
               },
               {
                 "t": "p",
-                "x": "오디오북 전문가 Jessica Barnfield는 The Bookseller 기고문에서 ElevenLabs 같은 AI 음성 기업이 오디오북 접근성을 넓히는 게 아니라 데이터를 모으는 중이라고 주장한다. Barnfield는 10년 넘게 영국과 미국, 해외 시장을 오가며 오디오북 제작과 유통, 사업 개발을 해 왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "オーディオブック界の\nトロイの木馬、AI朗読",
-          "body": "Barnfieldは、AI音声企業はアクセス拡大ではなくデータ収集が狙いだと論じる。",
-          "mini_headline": "AI朗読というトロイの木馬",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
-              },
-              {
-                "t": "p",
-                "x": "オーディオブックの専門家Jessica BarnfieldはThe Booksellerへの寄稿で、ElevenLabsのようなAI音声企業はオーディオブックへのアクセスを広げているのではなく、データを集めているのだと論じている。Barnfieldは10年以上にわたり、英国、米国、国際市場でオーディオブックの制作、流通、事業開発に携わってきた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI朗读：\n有声书行业的特洛伊木马",
-          "body": "Barnfield认为，ElevenLabs等AI语音公司并非推广有声书，而是在收集数据。",
-          "mini_headline": "AI朗读这匹特洛伊木马",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
-              },
-              {
-                "t": "p",
-                "x": "有声书专家Jessica Barnfield在为The Bookseller撰写的评论文章中指出，ElevenLabs等AI语音公司并不是在扩大有声书的可及性，而是在收集数据。Barnfield在有声书制作、发行和业务拓展领域工作了十多年，足迹遍及英国、美国和国际市场。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Narración con IA: el caballo\nde Troya de los audiolibros",
-          "body": "Jessica Barnfield sostiene que firmas de voz con IA como ElevenLabs no amplían el acceso, sino que recopilan datos.",
-          "mini_headline": "El caballo de Troya de la narración con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En un artículo de opinión para The Bookseller, la especialista en audiolibros Jessica Barnfield sostiene que empresas de voz con IA como ElevenLabs no están ampliando el acceso a los audiolibros, sino recopilando datos. Barnfield lleva más de una década en la producción, la distribución y el desarrollo de negocio de audiolibros, y ha trabajado en los mercados del Reino Unido, Estados Unidos e internacionales."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 내레이션은\n오디오북계의 트로이 목마",
-          "body": "Barnfield는 AI 음성 기업이 접근성 대신 데이터를 모은다고 본다.",
-          "mini_headline": "AI 내레이션이라는 트로이 목마",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
-              },
-              {
-                "t": "p",
-                "x": "오디오북 전문가 Jessica Barnfield는 The Bookseller 기고문에서 ElevenLabs 같은 AI 음성 기업이 오디오북 접근성을 넓히는 것이 아니라 데이터를 모으고 있다고 주장한다. Barnfield는 영국, 미국, 해외 시장을 오가며 10년 넘게 오디오북 제작, 유통, 사업 개발에 몸담아 왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "オーディオブック界の\nトロイの木馬、AI朗読",
-          "body": "Barnfieldは、AI音声企業はアクセス拡大ではなくデータ収集が狙いだと論じる。",
-          "mini_headline": "AI朗読というトロイの木馬",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
-              },
-              {
-                "t": "p",
-                "x": "オーディオブックの専門家Jessica BarnfieldはThe Booksellerへの寄稿で、ElevenLabsのようなAI音声企業はオーディオブックへのアクセスを広げているのではなく、データを集めているのだと論じている。Barnfieldは10年以上にわたり、英国、米国、国際市場でオーディオブックの制作、流通、事業開発に携わってきた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI朗读：\n有声书行业的特洛伊木马",
-          "body": "Barnfield认为，ElevenLabs等AI语音公司并非推广有声书，而是在收集数据。",
-          "mini_headline": "AI朗读这匹特洛伊木马",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
-              },
-              {
-                "t": "p",
-                "x": "有声书专家Jessica Barnfield在为The Bookseller撰写的评论文章中指出，ElevenLabs等AI语音公司并不是在扩大有声书的可及性，而是在收集数据。Barnfield在有声书制作、发行和业务拓展领域工作了十多年，足迹遍及英国、美国和国际市场。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Narración con IA: el caballo\nde Troya de los audiolibros",
-          "body": "Jessica Barnfield sostiene que firmas de voz con IA como ElevenLabs no amplían el acceso, sino que recopilan datos.",
-          "mini_headline": "El caballo de Troya de la narración con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/web-shutterstock_2743092737.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En un artículo de opinión para The Bookseller, la especialista en audiolibros Jessica Barnfield sostiene que empresas de voz con IA como ElevenLabs no están ampliando el acceso a los audiolibros, sino recopilando datos. Barnfield lleva más de una década en la producción, la distribución y el desarrollo de negocio de audiolibros, y ha trabajado en los mercados del Reino Unido, Estados Unidos e internacionales."
+                "x": "La biografía de autora de Garmus la describe como una novelista estadounidense coffee-dependent, dependiente del café. Su primera novela, Lessons in Chemistry, fue número uno en ventas a nivel mundial y los lectores del New York Times la eligieron entre los 100 mejores libros del siglo 21."
               }
             ]
           }

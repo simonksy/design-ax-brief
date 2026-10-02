@@ -5340,6 +5340,130 @@
           "x": "Un reloj que escucha todo el día plantea problemas de privacidad, tanto para quien lo lleva como para la gente a su alrededor, y también en cuanto a cómo Apple almacena y usa esos datos. Apple también es sensible a este punto, y publicó por separado un documento de 'Privacy Overview' que lo aborda punto por punto."
         }
       ]
+    },
+    "music/stability-ai-sean-parker-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Sean Parker, cofundador de Napster, ha vuelto a la industria musical y le dice a The Information que esta vez juega según las reglas. (Pedir perdón en lugar de permiso no le salió tan bien la última vez, admite sin reparos.)"
+        },
+        {
+          "t": "p",
+          "x": "Hace dos años se sumó a un rescate de 80 millones de dólares de Stability AI, la startup de generación de imágenes que estuvo a punto de hundirse después de que el gasto excesivo y las tensiones internas llevaran a la salida de su fundador, Emad Mostaque. Ahora Parker y su viejo amigo Prem Akkaraju, que asumió como CEO, presentan lo que han estado construyendo."
+        },
+        {
+          "t": "p",
+          "x": "La gran idea, según Parker, es convertir a Stability en el fabricante de herramientas de AI de referencia para los profesionales de la música. Con ese fin, a finales de agosto la empresa anunció una financiación de 76 millones de dólares procedente, entre otros, de Sony, Warner y Universal, que como parte del acuerdo también licenciaron sus catálogos para entrenamiento. Desde entonces, Stability ha lanzado tres nuevos modelos de audio y un software de edición musical con AI. La AI puede generar pistas instrumentales completas o fragmentos breves a partir de prompts de texto. Parker dice que una próxima actualización permitirá a los usuarios tararear una melodía o marcar con beatbox un patrón de batería para guiarla."
+        }
+      ]
+    },
+    "music/questlove-sampling-ai": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "T8TFsrsEx_o"
+        },
+        {
+          "t": "p",
+          "x": "En Billboard On the Record, Questlove repasa el sampleo desde el Fairlight y Marley Marl hasta It Takes a Nation of Millions to Hold Us Back, de Public Enemy, su \"momento Eureka\" de 1988, y se pregunta qué nuevas oportunidades o riesgos pueden suponer para esta forma de arte el microchopping, la venta de catálogos y la AI generativa."
+        },
+        {
+          "t": "p",
+          "x": "\"Entre 1988 y 1991 era el Wild West. Nadie nos vigilaba\", dice, hasta que la demanda contra Biz Markie convirtió el permiso en la norma."
+        },
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "\"Siempre hay un debate entre la AI y hacer algo uno mismo: calentar en el microondas o cocinar una comida completa. Para mí, siempre ha habido magia en la imperfección\"."
+        },
+        {
+          "t": "p",
+          "x": "En lo sonoro, considera que la música con AI \"todavía no está ahí\" por su distorsión digital, aunque los modelos podrían perfeccionarla en diez años. \"Pero veo la AI como un paralelo de la cultura del sampleo\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Si estás construyendo un sistema de AI, deberías ser transparente sobre el material usado para construir la plataforma, y debería haber una compensación por ello\"."
+        }
+      ]
+    },
+    "music/lyricfind-ai-lyrics-long-tail": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En un artículo de opinión, el fundador y CEO de LyricFind, Darryl Ballantyne, sostiene que, si bien la AI generativa necesita licencias, transparencia y salvaguardas, la AI aplicada a letras, datos de derechos y metadatos puede ayudar a que las obras existentes generen más ingresos."
+        },
+        {
+          "t": "p",
+          "x": "Las regalías por letras dependen del uso, así que los vacíos de disponibilidad implican menos visualizaciones y menos dinero para los titulares de derechos. La transcripción, la sincronización y la traducción manuales fijaban un punto de equilibrio que limitaba hasta dónde podía llegar la industria dentro del catálogo."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Según Luminate, 9.6M canciones se reprodujeron entre 10,000 y 500,000 veces en 2025, más del 13% del volumen mundial de streams. LyricFind usa AI para una primera transcripción y luego para la sincronización palabra por palabra y la traducción, con verificación humana en todo el proceso."
+        },
+        {
+          "t": "p",
+          "x": "Hacer al personal tres o cuatro veces más eficiente aumenta el contenido viable en torno a un 700%, afirma, por lo que tiene sentido duplicar el equipo humano. Incluso un sistema con un 99% de precisión sobre 100 millones de letras dejaría un millón de errores."
+        }
+      ]
+    },
+    "music/suno-v6-take-me-back-video": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "1OITvfAN6-g"
+        },
+        {
+          "t": "p",
+          "x": "Un vistazo entre bastidores con Braylon Browner y la coreógrafa/directora ganadora de un Emmy Nina McNeely para ver qué hace falta para pasar del baile a la canción y a un mundo creativo completo construido en torno al movimiento."
+        },
+        {
+          "t": "p",
+          "x": "\"Es increíble poder editar la música sobre la marcha\", dice Browner, para que el baile y la música \"de verdad se encuentren y funcionen en perfecta armonía\". McNeely añade que Suno \"está devolviendo a los coreógrafos el poder de cambiar la canción para que se ajuste a nuestras ideas coreográficas\"."
+        },
+        {
+          "t": "p",
+          "x": "El videoclip completo puede verse en suno.com/braylon"
+        }
+      ]
+    },
+    "music/japanvoice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/intro-1790866642.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un tribunal de Tokio ha dado la razón al actor de voz japonés Kenjiro Tsuda, que denunció que una cuenta de TikTok había usado IA para clonar su \"lustrosa\" interpretación de barítono, y ha dictaminado en un caso histórico que la voz humana está protegida por la ley."
+        },
+        {
+          "t": "p",
+          "x": "Tsuda, conocido sobre todo como Seto Kaiba en Yu-Gi-Oh!, afirmó que la narración de varios vídeos publicados por una cuenta anónima entre julio de 2024 y la segunda mitad del año pasado se clonó a partir de su voz. Su petición de ordenar a TikTok la retirada de los vídeos fue desestimada, ya que la cuenta ya había sido eliminada."
+        },
+        {
+          "t": "p",
+          "x": "El tribunal señaló que usar la voz de un actor sin permiso debe considerarse una vulneración de sus derechos de imagen, según informó AFP; es el primer caso de este tipo en Japón. TikTok había alegado ante el tribunal que se utilizó una \"voz masculina genérica\"."
+        },
+        {
+          "t": "p",
+          "x": "El fallo llega en medio de una creciente preocupación entre los actores de voz de anime, que consideran que hay que hacer más para proteger a los creadores cuya obra o imagen es absorbida por la IA."
+        }
+      ]
     }
   }
 }

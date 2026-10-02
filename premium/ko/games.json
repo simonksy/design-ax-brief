@@ -10304,6 +10304,117 @@
           "x": "The Witcher 4는 2028년 출시 예정이고, 여기서 새 3부작이 시작된다. CD Projekt는 Cyberpunk 2와 멀티플레이어 위쳐 게임도 함께 굴리고 있다."
         }
       ]
+    },
+    "games/lochub-unreal-ai-localization": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+        },
+        {
+          "t": "p",
+          "x": "LocHub은 통제권은 그대로 둔 채 AI 번역을 Unreal Editor 안으로 들여온다. 프로젝트 문자열은 사용자가 고른 AI 제공업체에 사용자 본인의 키로 보내진다. 내장 검사와 두 번째 AI가 문제를 걸러 내면 사용자는 결과를 한곳에서 검토한 뒤 일반 Unreal 현지화 데이터로 다시 가져온다."
+        },
+        {
+          "t": "p",
+          "x": "서식 인수, 복수형, rich-text 태그는 LocHub과 Unreal 자체 검증기가 코드로 두 번 확인하기 때문에 깨진 텍스트는 승인 단계를 넘지 못한다. 선택 사항인 AI 심사기는 의미, 용어, 어조를 살피고 위험한 문자열을 검토 대기열 맨 앞으로 올린다. 번역은 문자열마다 원본 에셋이나 C++ 파일, 개발자 메모, 인접 문자열, 스타일 가이드와 용어집을 참고해 맥락 속에서 이뤄진다."
+        },
+        {
+          "t": "p",
+          "x": "사람이 고친 내용은 AI가 절대 덮어쓰지 않는다. 원문이 바뀌면 해당 번역에 구버전 표시가 붙고, 모든 작업에는 비용 추정과 엄격한 지출 상한이 걸린다. Anthropic, OpenAI, xAI, DeepSeek, Google Gemini의 키를 직접 쓰거나 구독으로 Claude Code를 이용하면 된다."
+        },
+        {
+          "t": "p",
+          "x": "Unreal Engine 5.6, 5.7, 5.8과 Node.js 22.11 이상이 필요하다. 출력물이 일반 현지화 아카이브와 .locres 파일이라 LocHub은 언제든 그만 써도 된다."
+        }
+      ]
+    },
+    "games/banjo-tooie-vibe-recomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
+          "cap": "(이미지 출처: Nintendo/Rare)"
+        },
+        {
+          "t": "p",
+          "x": "팬들이 고전 게임을 리컴파일하는 프로젝트가 늘면서 vibe coding으로 만든 AI-driven 프로젝트도 덩달아 많아졌다. Zelda 64: Recompiled와 Banjo: Recompiled 개발진은 자기들의 N64: Recompiled 작업 위에 세운 새 Banjo-Tooie 리컴파일이 못마땅하다. 제작자는 \"AI 도구가 이 프로젝트 코드의 상당 부분을 생성했다\"고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "개발자 Dario는 Bluesky에서 \"Banjo-Tooie Recompilation은 우리와 전혀(NOT) 관련이 없다\"며 \"Zelda: Recompiled와 Banjo: Recompiled 모두 매우 분명한 No AI 입장을 갖고 있다\"고 말했다. 팀은 이미 Tooie 이식 계획을 발표해 둔 상태다. \"프레임워크와 렌더러, 게임 자체에 대해 우리가 사람의 손으로 쌓아 온 방대한 연구를 가져다 AI에 던져 넣는 건 그저 무례한 일이다.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
+          "cap": "(이미지 출처: Nintendo/Zelda 64: Recompiled)"
+        },
+        {
+          "t": "p",
+          "x": "개발자 Reonu_는 이 프로젝트를 두고 팀이 계획해 둔 이식작을 AI-rushed로 급조한 \"망가진 '알파'\"라고 불렀다. Donkey Kong 64: Recompiled 개발진은 7월에 vibe coding을 거부했다. 이해 가능한 AI-assisted 코드라면 받아 주는 RPCS3 에뮬레이터 팀도 기여자들에게 \"AI 슬롭 코드\"는 그만 보내 달라고 호소했다."
+        }
+      ]
+    },
+    "games/fallout-new-york-ai-cnd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "이미지 출처: Bethesda"
+        },
+        {
+          "t": "p",
+          "x": "AI-generated(AI 생성) 브라우저 게임 Fallout: New York의 제작자가 Bethesda 모회사 ZeniMax에서 중단 요구 메시지를 받았다고 주장했다. 게임은 Anthropic의 Claude Opus 5.5로 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "트위터에서 CHRIS FIRST라는 이름을 쓰는 자칭 \"AI Creative\" 제작자는 게임에 퀘스트, 동료, 대화 트리, V.A.T.S., Pip-Boy가 다 있고 전부 코드로 생성해 \"텍스처 파일은 영 개\", \"사운드 파일도 영 개\"라고 자랑했다. Rock Paper Shotgun은 NPC 얼굴을 두고 끔찍하게 흉측하다고 평했다. 프롬프터는 \"전부 무료이고 이걸로 한 푼도 벌지 않는다\"고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "통지가 진짜라면 ZeniMax가 저작물을 지키려고 문제 삼은 건 \"fallout.nyc\" 도메인 이름으로 보인다. RPS는 Bethesda에 입장을 물었다. 제작자는 \"내가 안 만들어도 되게 차라리 당신들이 Fallout 게임을 만드는 건 어때?\"라고 응수했다. RPS는 그 대신 사람이 만든 대형 모드 Fallout: London을 권한다."
+        }
+      ]
+    },
+    "games/ue5-codex-gpt6-npc-tutorial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
+        },
+        {
+          "t": "p",
+          "x": "Codex와 GPT-6 Astra로 Unreal Engine 5에서 대화형 AI NPCs를 만드는 커뮤니티 튜토리얼이다."
+        },
+        {
+          "t": "p",
+          "x": "Codex, Unreal MCP, UnrealAI, OpenAI API로 애니메이션 NPCs와 AI-generated 대사, 대화 기록을 구현하는 step-by-step 가이드다."
+        }
+      ]
+    },
+    "games/qssr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "PSSR은 PS5 Pro에 AI 업스케일링을 가져왔지만, GPU 성능이 낮은 기본 PS5는 그 혜택을 받지 못했다. Sony는 블로그 글에서 기본 콘솔에서 돌아가는 새 모델 Quick Spectral Super Resolution, 즉 QSSR을 자세히 소개했다. PSSR처럼 AMD와 함께한 Project Amethyst 협업에서 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "QSSR은 PSSR보다 훨씬 가벼워서 PS5 Pro의 PSSR만큼 디테일을 살리지는 못한다. 그래도 이 콘솔이 전통적으로 쓰던 템포럴 업스케일링보다는 훨씬 정확할 것으로 보인다."
+        },
+        {
+          "t": "p",
+          "x": "QSSR은 Marvel's Wolverine과 Ghost of Yotei에서 처음 적용된다. Insomniac의 Mike Fitzgerald는 QSSR이 \"PS5 플레이어에게 PS5 Pro 경험을 제대로 맛보게 해 준다\"고 말했다. Sony 비교 영상에서 QSSR은 먼 건물과 수풀의 세밀한 디테일을 훨씬 더 많이 살린다. 다만 화면이 여전히 흐릿하거나 노이즈가 조금 낄 때도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Sony는 QSSR을 모든 개발사에 제공한다고 밝혔다. 두 게임의 패치는 오늘 나온다."
+        }
+      ]
     }
   }
 }

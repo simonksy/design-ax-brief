@@ -1,234 +1,117 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "music",
   "window_hours": 336,
-  "notes": "RSS/sitemap-first (25 outlet feeds + paged WP feeds, news sitemaps for Billboard/MBW/MusicRadar/Verge/RS/Gearnews/MusicTech, SOS news listing, YouTube channel feeds Benn Jordan/Venus Theory/ElevenLabs), ~60 Google News RSS queries (when:14d) with batchexecute link decoding; 3 WebSearch calls (1 failed: theverge blocked). On-list fresh AI-music pool was almost entirely pre-mined by the ledger (Suno v6/UMG-Sony suit, Qobuz tagging, LANDR fraud, Spotify Muse, IMPF/IMPEL, Thomson Reuters fair use, Engram, VirtualDJ, Fred again, Todd Edwards, Michael Smith, ABYZOR, Lunacy Nova, MOTU DP12, Suno Studio 2.0) — dropped. Rejected noise: ElevenLabs $22B valuation, Modulate $25M, UMG Celma hire, GRAI/Hangout, Unit1 raise, BandLab CEO. Rejected non-AI: Antares AutoTune Advanced, BT/Spitfire Phoenix, SOS gear news, Benn Jordan (Flock video). Rejected stale: Billboard IFPI survey (2023, GN misdated), Mashable SoundCloud policy (2025), Mixmag UMG/Suno items (no date). Off-list used under exception (on-list exhausted): TheWrap, Variety, AWS, Cision, Theprp, T3, RouteNote, Pressian, RS AU/PH. Unresolved/blocked: Notebookcheck StemKit (403), Film Threat AI music-video generator test (timeout).",
+  "generated_at": "2026-10-02T22:00:00Z",
+  "notes": "RSS/sitemap-first: 25+ outlet feeds incl. paged WP feeds, news sitemaps (Billboard/MusicRadar/MusicTech/Gearnews/RS/Verge), Music Ally (musically.com) feed pages 1-7, MBW pages 1-9, YouTube channel feeds (Suno, ElevenLabs, Benn Jordan, Andrew Huang), suno.com/blog, ~14 Google News keyword queries + 25 site:-scoped GN sweeps (when:14d). 4 WebSearch calls (2 errored: theverge/pitchfork blocked). Expanded keywords: Suno Speech, Stability/Stable Audio, AI lyrics/LyricFind, voice-likeness scams, Moises/LANDR/iZotope/Splice/AudioShake, Zplane, Antares, Even, BeatStars, B.A.C.H. Most fresh on-list AI-music items already in published_urls.json (Engram, Resolume 7.28, Amorph, Qobuz tags, Voice-Swap DDEX, Sanremo, KOMCA, Japan voice ruling, Thomson Reuters fair use, IMPF/IMPEL, Kelly Clarkson, Fred again, Todd Edwards, VirtualDJ 2026, YouTube Music AI, Absolute Anthology, ClassicalBot, Pachet, Professional Sound Alliance, ARIAM, Suno YouTube-training admission, UMG/Sony v6 suit, Snapchat chat-to-song, Eleven v4) - dropped. Dropped as business noise: ElevenLabs $22B, Modulate $25M, Suno 2m subs/$300m revenue, UMG Celma hire, Kobalt VC, BandLab CEO, streaming-fraud sentencing. Dropped weak-AI: Spotify playlist decline, YouTube Shorts originality, BeatStars, Even Studio, AutoTune Advanced, MiniFreak v5, Phoenix synth. Stale: Mixmag UMG platform (Sep 11), Mixmag Suno YouTube (Sep 14), Output Co-Producer (2025), Splice (Apr). BPB Suno-lawsuit is Cloudflare-blocked, so the MBW version is used. Items 1-2 are the same Suno Speech story (Verge + official blog); curator should pick one.",
   "items": [
     {
-      "url": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/",
-      "source": "Engadget",
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "The Verge",
+      "published_iso": "2026-10-02T09:42:19+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Suno's new Speech beta generates synthetic voiceovers set to AI background music, pushing the music generator into ElevenLabs' spoken-audio territory.",
       "category": "music",
-      "published_iso": "2026-10-01T14:58:44Z",
-      "og_image": "https://www.engadget.com/img/gallery/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/l-intro-1790866642.jpg",
-      "title": "Japanese court rules human voices are protected in landmark AI case",
-      "excerpt": "A Japanese court partly sided with an anime voice actor against an anonymous TikTok user who posted AI clones of his voice, ruling that a person's voice is protected by publicity rights — a precedent for singers facing unauthorised AI voice models. (Follow-up ruling to the TikTok voice-clone suit covered 9/30.)",
-      "history_match": {
-        "score": 0.422,
-        "date": "2026-09-30",
-        "url": "https://www.digitalmusicnews.com/2026/09/27/japanese-voice-actor-sues-tiktok-ai-voice-cloning/",
-        "title": "Japanese voice actor sues TikTok over AI voice cloning",
-        "band": "likely-repeat"
-      },
-      "cluster": "c0"
+      "section": "music"
     },
     {
-      "url": "https://completemusicupdate.com/japanese-court-says-voice-is-protected-by-publicity-rights-us-appeals-court-says-ai-training-is-not-fair-use/",
-      "source": "CMU",
+      "title": "Introducing Speech (beta)",
+      "url": "https://suno.com/blog/introducing-speech-beta",
+      "source": "Suno",
+      "published_iso": "2026-10-01T20:35:00.000Z",
+      "og_image": "https://suno.com/blog/introducing-speech-beta/opengraph-image?4a0be6b3238f1ddc",
+      "excerpt": "Suno CPO Jack Brody announces Speech, which Suno calls the first audio model to generate voice and music together as one track: type a text or poem, describe the voice and musical style, and get spoken audio over original music.",
       "category": "music",
-      "published_iso": "2026-10-01T15:46:23Z",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/US-senators-propose-new-law-to-ban-unauthorised-AI-voice-clone.png",
-      "title": "Japanese court says voice is protected by publicity rights; US appeals court says AI training is not fair use",
-      "excerpt": "CMU reads two rulings this week through a music lens: a Japanese court lets performers stop unapproved AI voice clones via publicity rights, while a US appeals court rejected an AI company's fair-use defence for training data. Same Japan story as Engadget — pick one.",
+      "section": "music",
       "history_match": {
-        "score": 0.39,
-        "date": "2026-10-01",
-        "url": "https://www.musicbusinessworldwide.com/us-appeals-court-rejects-fair-use-defense-over-ai-training-as-thomson-reuters-wins-copyright-case-backed-by-riaa-and-nmpa/",
-        "title": "Appeals court rejects fair use defense over AI training",
+        "score": 0.173,
+        "date": "2026-09-24",
+        "url": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
+        "title": "Introducing voice, music, image, and video generation in the ElevenLabs MCP",
         "band": "related"
-      },
-      "cluster": "c0"
+      }
     },
     {
-      "url": "https://www.billboard.com/music/pop/kelly-clarkson-loves-ai-controversial-take-1236352403/",
-      "source": "Billboard",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch",
+      "published_iso": "2026-10-02T21:09:14+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+      "excerpt": "Napster co-founder Sean Parker says Stability AI (maker of Stable Audio) is being repositioned as the go-to AI toolmaker for music professionals, built on catalogs licensed from Sony, Warner and Universal.",
       "category": "music",
-      "published_iso": "2026-10-01T21:57:53Z",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/kelly-clarkson-las-culturistas-screenshot-billboard-1800.jpg?w=1024",
-      "title": "Kelly Clarkson Shares Her 'Controversial' Take on AI: 'I Think It's Welcome to the Table'",
-      "excerpt": "Kelly Clarkson says she 'loves AI' and uses it artistically, but argues AI-made music should sit on separate charts rather than compete with human creations — a working artist's line on where AI belongs in the craft."
+      "section": "music"
     },
     {
+      "title": "Questlove on the History of Sampling, From Public Enemy to Today: 'I See AI as a Parallel to Sampling Culture'",
       "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
       "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-09-30T21:33:07Z",
+      "published_iso": "2026-09-30T21:33:07+00:00",
       "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024",
-      "title": "Questlove on the History of Sampling, From Public Enemy to Today: 'I See AI as a Parallel to Sampling Culture'",
-      "excerpt": "On Billboard's On the Record podcast, Questlove traces sampling from Public Enemy to today and frames generative AI as the next chapter of sampling culture — with the same clearance and credit fights."
+      "excerpt": "On Billboard's On the Record, Questlove traces sampling from Public Enemy to microchopping and generative AI, arguing AI parallels sampling culture while the magic still lives in human imperfection.",
+      "category": "music",
+      "section": "music"
     },
     {
-      "url": "https://www.hypebot.com/what-it-actually-takes-to-read-music-without-sight-and-what-ai-can-help-solve/",
+      "title": "Lyrics Show How AI Can Grow Music Revenue Without Replacing People",
+      "url": "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/",
       "source": "Hypebot",
+      "published_iso": "2026-10-01T11:50:19.000Z",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg",
+      "excerpt": "AI-assisted lyric transcription, sync and translation can make long-tail songs (9.6M tracks, 13% of 2025 streams) addressable, expanding songwriter royalties while creating more work for human teams.",
       "category": "music",
-      "published_iso": "2026-09-24T15:00:11Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/foran-orgelet--glad-smilende.jpg",
-      "title": "What It Actually Takes to Read Music Without Sight (and What AI Can Help Solve)",
-      "excerpt": "How blind musicians prep scores via Braille conversion, where AI note recognition and score conversion could help with printed/PDF scores, and why MuseScore Studio's live Braille translation matters more today than AI promises."
+      "section": "music"
     },
     {
-      "url": "https://www.thewrap.com/industry-news/tech/stability-ai-ceo-in-one-year-our-ai-tools-will-be-essential-to-making-all-music/",
-      "source": "TheWrap",
+      "title": "Suno confirms V6 model was trained on 'creations' from users, as it blasts latest Sony and Universal lawsuit",
+      "url": "https://www.musicbusinessworldwide.com/suno-confirms-v6-model-was-trained-on-creations-from-users-as-it-blasts-latest-sony-and-universal-lawsuit/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-09-22T14:25:56+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+      "excerpt": "Responding to UMG and Sony's second lawsuit, Suno said its v6 models were trained on 'interactions including creations and preference signals' from its own users, which puts user-made tracks in the training data.",
       "category": "music",
-      "published_iso": "2026-09-29T20:00:36Z",
-      "og_image": "https://www.thewrap.com/wp-content/uploads/2026/09/RSR39849_a.jpg",
-      "title": "Stability AI CEO: In One Year, Our AI Tools Will Be Essential to Making All Music",
-      "excerpt": "At TheWrap's AI Creator Day, Stability AI CEO Prem Akkaraju predicts Stable Audio-style tools will be part of making essentially all music within a year, pitching the company's media background for working with creators.",
-      "off_list": true,
+      "section": "music",
       "history_match": {
-        "score": 0.162,
-        "date": "2026-09-06",
-        "url": "https://musically.com/2026/09/04/fl-studio-says-genai-can-help-people-get-into-music-making/",
-        "title": "FL Studio says GenAI can help people 'get into music-making'",
+        "score": 0.232,
+        "date": "2026-09-22",
+        "url": "https://www.musicbusinessworldwide.com/universal-and-sony-sue-suno-for-a-second-time-claiming-platforms-v6-models-are-the-fruit-of-the-same-poisoned-tree/",
+        "title": "Universal and Sony sue Suno for a second time, claiming platform’s v6 models are ‘the fruit of the same poisoned tree’",
         "band": "related"
       }
     },
     {
-      "url": "https://variety.com/2026/music/opinion/ai-companies-raising-millions-from-music-without-permission-1236878697/",
-      "source": "Variety",
+      "title": "Making \"Take Me Back\" | Braylon Browner x Nina McNeely",
+      "url": "https://www.youtube.com/watch?v=1OITvfAN6-g",
+      "source": "Suno (YouTube)",
+      "published_iso": "2026-10-02T10:24:02-07:00",
+      "og_image": "https://i.ytimg.com/vi/1OITvfAN6-g/maxresdefault.jpg",
+      "excerpt": "Suno's behind-the-scenes film with Braylon Browner and Emmy-winning choreographer/director Nina McNeely shows the path from a dance to a Suno v6 song to a full music video built around movement.",
       "category": "music",
-      "published_iso": "2026-09-30T14:00:00Z",
-      "og_image": "https://variety.com/wp-content/uploads/2024/08/Artificial-Intelligence-AI.jpg?w=1000&h=563&crop=1",
-      "title": "AI Companies Are Raising Millions From Music They Took Without Permission (Guest Post)",
-      "excerpt": "Former UK Music CEO Jamie Njoku-Goodwin lays out a plan for the music industry to fight AI firms training on music without permission — a licensing/training-data policy piece.",
-      "off_list": true
+      "section": "music"
     },
     {
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
-      "source": "AWS Machine Learning Blog",
+      "title": "AI scammers are trying to use me",
+      "url": "https://www.youtube.com/watch?v=W_7H4yThuto",
+      "source": "Andrew Huang (YouTube)",
+      "published_iso": "2026-09-26T08:30:15-07:00",
+      "og_image": "https://i.ytimg.com/vi/W_7H4yThuto/maxresdefault.jpg",
+      "excerpt": "Producer-educator Andrew Huang warns his audience about AI-driven scams that use his likeness. This is a short with no description, so only the title and channel were verified.",
       "category": "music",
-      "published_iso": "2026-09-30T15:21:57Z",
-      "og_image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21762-featured-image.png",
-      "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
-      "excerpt": "AWS walks through a three-agent music production pipeline (composition, generation, mixing hand-offs) sharing one GPU instance and filesystem — a reference workflow for agentic music creation.",
-      "off_list": true
-    },
-    {
-      "url": "https://news.cision.com/epidemic-sound/r/epidemic-sound-partners-with-mypart-to-bring-adaptive-music-to-pc-gamers-and-streamers-on-overwolf,c4403604",
-      "source": "Epidemic Sound (Cision)",
-      "category": "music",
-      "published_iso": "2026-10-01T07:29:00Z",
-      "og_image": "https://mb.cision.com/Public/21928/4403604/adfec38c8087b7c2_400x400ar.png",
-      "title": "Epidemic Sound partners with MyPart to bring adaptive music to PC gamers and streamers on Overwolf",
-      "excerpt": "Songhunt, an Overwolf in-game app, uses MyPart's multimodal AI to read gameplay in real time and pick matching tracks from Epidemic Sound's catalog across 1,500+ PC games, so streamers' soundtracks shift with the action.",
-      "off_list": true
-    },
-    {
-      "url": "https://www.theprp.com/2026/09/28/news/sleep-clubs-new-music-about-the-intrusion-of-ai-into-our-daily-lives-once-again-got-incorrectly-flagged-by-spotifys-ai-systems/",
-      "source": "Theprp",
-      "category": "music",
-      "published_iso": "2026-09-28T18:29:52Z",
-      "og_image": "https://www.theprp.com/app/uploads/2026/08/sleepclub2026-1200x675.webp",
-      "title": "SLEEP CLUB's New Music About The 'Intrusion' Of AI Got Incorrectly Flagged By Spotify's AI Systems",
-      "excerpt": "Band SLEEP CLUB's new single — about AI's intrusion into daily life — was again wrongly flagged by Spotify's AI-detection systems, after their whole catalog was previously mis-tagged: a false-positive problem for streaming AI labelling.",
-      "off_list": true,
-      "history_match": {
-        "score": 0.152,
-        "date": "2026-09-24",
-        "url": "https://www.hypebot.com/an-llm-flagged-1-632-videos-one-was-real/",
-        "title": "An LLM Flagged 1,632 Videos. One Was Real.",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://www.t3.com/tech/audio/technology-keeps-moving-forward-its-about-not-using-it-in-a-morally-bankrupt-way-superstar-dj-woody-cook-on-the-rise-of-algorithms-and-ai-in-music-and-how-we-can-tame-them",
-      "source": "T3",
-      "category": "music",
-      "published_iso": "2026-09-28T16:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/x9SEBwDN6pZVJRFRj7eiid-1920-80.jpg",
-      "title": "Superstar DJ Woody Cook on the rise of algorithms and AI in music",
-      "excerpt": "DJ Woody Cook talks about how he uses technology in his DJ workflow and where AI and algorithms should and shouldn't enter music-making: 'it's about not using it in a morally bankrupt way.'",
-      "off_list": true
-    },
-    {
-      "url": "https://routenote.com/radar/who-is-nick-hahn-the-man-behind-dust-harmonys-ai-country-music/",
-      "source": "RouteNote",
-      "category": "music",
-      "published_iso": "2026-09-28T22:55:00Z",
-      "og_image": "https://routenote.com/radar/wp-content/uploads/2026/09/Dust-Harmony.jpeg",
-      "title": "Who Is Nick Hahn? The Man Behind Dust & Harmony's AI Country Music",
-      "excerpt": "Credits metadata behind AI-generated country act Dust & Harmony repeatedly point to one human, Nick Hahn — a look at who actually writes and produces 'AI artists'.",
-      "off_list": true,
-      "history_match": {
-        "score": 0.167,
-        "date": "2026-09-19",
-        "url": "https://www.synthtopia.com/content/2026/09/15/new-mac-app-harmonykeen-writes-harmony-parts-to-your-midi-melodies-using-music-theory-not-ai/",
-        "title": "New Mac App, HarmonyKeen, Writes Harmony Parts To Your MIDI Melodies Using Music Theory, Not AI",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://www.pressian.com/pages/articles/2026100111343400563",
-      "source": "프레시안",
-      "category": "music",
-      "published_iso": "2026-10-01T05:31:52Z",
-      "og_image": "https://www.pressian.com/_resources/10/2026/10/01/2026100111342747037_l.jpg",
-      "title": "정선아리랑, AI 만나 수채화로 피어난다…음원·뮤직비디오 '이어부르는 마음' 공개",
-      "excerpt": "정선군이 정선아리랑의 대표 선율과 정서를 AI 기반 창작 기술과 결합한 음원·수채화풍 뮤직비디오 '이어부르는 마음'을 10월 1일 공개했다 — 전통 민요를 AI로 재해석한 지자체 프로젝트.",
-      "off_list": true
-    },
-    {
-      "url": "https://au.rollingstone.com/music/music-news/jason-derulo-praises-josh-fawaz-backs-his-use-of-ai-101202/",
-      "source": "Rolling Stone Australia",
-      "category": "music",
-      "published_iso": "2026-09-17T22:05:27Z",
-      "og_image": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=1200,height=628/https://images-r2-1.thebrag.com/rs/uploads/2025/09/jason-derulo-accuser-refiles.jpg",
-      "title": "Jason Derulo Praises Josh Fawaz, Backs His Use of AI",
-      "excerpt": "On tour in Australia, Jason Derulo praised opener Josh Fawaz and defended AI as a tool for artists and producers. (Edge of window — 2 minutes inside 336h.)"
-    },
-    {
-      "url": "https://rollingstonephilippines.com/music/pop/taylor-swift-patient-zero-sounds-like-ai-explainer-songs/",
-      "source": "Rolling Stone Philippines",
-      "category": "music",
-      "published_iso": "2026-09-30T06:10:47Z",
-      "og_image": "https://assets.rollingstonephilippines.com/wp-content/uploads/2026/09/taylor-w-2.webp",
-      "title": "This is Probably Why Taylor Swift's 'Patient Zero' Sounds a Lot Like an AI Explainer Song",
-      "excerpt": "Listeners compared Taylor Swift's bonus track 'Patient Zero' to viral AI-generated explainer songs about steel coils and solar panels, sparking debate over whether AI style is now shaping human pop — or vice versa.",
-      "off_list": true
+      "section": "music"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 15,
+    "kept": 8,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
-    "same_story_pairs": [
-      [
-        "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/",
-        "https://completemusicupdate.com/japanese-court-says-voice-is-protected-by-publicity-rights-us-appeals-court-says-ai-training-is-not-fair-use/",
-        0.348
-      ]
-    ]
+    "review": 2,
+    "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-02",
-      "title": "Your Next Fan May Never Search for You",
-      "url": "https://www.digitalmusicnews.com/2026/08/30/your-next-fan-may-never-search-for-you/"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "Denon DJ Prime 4 G2: multi-function pads and real-time stems",
-      "url": "https://www.gearnews.com/denon-dj-prime-4-g2/"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "Independent Artists Need an Operating System, Not Another 'Tool'",
-      "url": "https://www.hypebot.com/independent-artists-need-an-operating-system-not-another-tool/"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "Do watermarks spell the end of AI content proliferation?",
-      "url": "https://www.midiaresearch.com/blog/do-watermarks-spell-the-end-of-ai-content-proliferation"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "Vibe-Coded Plugins: A Developer's Take And The Risks Worth Knowing",
-      "url": "https://www.production-expert.com/production-expert-1/vibe-coded-plugins-a-developers-take-and-the-risks-worth-knowing"
-    },
     {
       "date": "2026-09-03",
       "title": "The new TONE3000 is FREE and provides access to countless NAM profiles",
@@ -838,6 +721,31 @@
       "date": "2026-10-01",
       "title": "Backgrounds creates soundscapes from keyword prompts",
       "url": "https://www.synthtopia.com/content/2026/09/29/backgrounds-creates-evolving-soundscapes-from-your-keyword-prompts/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Build a multi-agent music production pipeline on Amazon Bedrock AgentCore Runtime Instances",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Epidemic Sound partners with MyPart to bring adaptive music to PC gamers and streamers on Overwolf",
+      "url": "https://news.cision.com/epidemic-sound/r/epidemic-sound-partners-with-mypart-to-bring-adaptive-music-to-pc-gamers-and-streamers-on-overwolf,c4403604"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Kelly Clarkson Shares Her 'Controversial' Take on AI: 'I Think It's Welcome to the Table'",
+      "url": "https://www.billboard.com/music/pop/kelly-clarkson-loves-ai-controversial-take-1236352403/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Japanese court rules human voices are protected in landmark AI case",
+      "url": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "SLEEP CLUB's New Music About The 'Intrusion' Of AI Got Incorrectly Flagged By Spotify's AI Systems",
+      "url": "https://www.theprp.com/2026/09/28/news/sleep-clubs-new-music-about-the-intrusion-of-ai-into-our-daily-lives-once-again-got-incorrectly-flagged-by-spotifys-ai-systems/"
     }
   ]
 }

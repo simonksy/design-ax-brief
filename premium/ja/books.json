@@ -5285,6 +5285,119 @@
           "x": "今、一番時間を取られているのがファイル形式だ。PDFは今でも厄介だ。一文字動かしても残りが追従しない静的な表示形式だからだ。これは少し解決してほしい。正直に言えば、我々はまだ始まりの段階にいる。少なくとも私はそう感じている。変化があまりに速く、落ち着いた後どんな姿になるかは分かりにくい。"
         }
       ]
+    },
+    "books/openai-book-market-study-exclude": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAIは、作家らによる併合訴訟から書籍市場に関するある研究を除外するよう求めている。理由として、この研究と作家側の法律事務所との資金面のつながりを挙げている。"
+        },
+        {
+          "t": "p",
+          "x": "Gen AIが市場に損害を与えると主張する研究の正確性と資金源は、併合訴訟における重要な論点となっている。"
+        }
+      ]
+    },
+    "books/elevenlabs-spoken-audiobooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
+          "cap": "ElevenLabsは、誰の声でも模倣できるAI音声クローンを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabsやSpokenといったAI企業が、急成長する(fast-growing)オーディオブック市場を狙っている。ElevenLabsはこの夏、Michael Caineの声を再現して朗読したAI-voicedの「The Odyssey」で注目を集めた。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
+          "cap": "ElevenLabsのAI-voicedによる「The Odyssey」は賛否が分かれた。"
+        },
+        {
+          "t": "p",
+          "x": "オーディオブックの売上は昨年9%伸び、$2.43 billionに達した。人間が朗読する(Human-narrated)オーディオブックは制作に約半年と数千ドルを要するが、AI版の費用は$200か$300程度で、数時間から数日で完成する。ベストセラー作家で、Spokenの事業開発ディレクターを務めるJoseph Nassiseは、AIならすべての声と発音を自分で管理できると話す。"
+        },
+        {
+          "t": "p",
+          "x": "SAG-AFTRAのJane Loveによれば、これまでのAI作品は組合員が起用されるような作品ではなく、2025年のAIオーディオブックは業界売上の約.03%だった。ElevenLabsで声をクローンした出演者の収入は、使用時間あたり約$1.20だ。ナレーターのWill Damronは、音声クローンが技能の価値を下げると警告する。Nassiseは、AIオーディオブックには明確な表示が必要だと述べている。"
+        }
+      ]
+    },
+    "books/sudowrite-chat-rewrite-printing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "最近、Chatに大きなアップデートを行い、速度と性能の両方を向上させた。"
+        },
+        {
+          "t": "p",
+          "x": "Chatの応答速度が倍になった - 今週Chatをより高速なインフラに移し、応答時間を半分に短縮した。大きな作業ではっきり実感できるはずだ。"
+        },
+        {
+          "t": "p",
+          "x": "Chatのミスが減った - Chatがつまずきやすい場面での性能改善に力を注いできた。直近の修正でエラー率を30%下げ、文脈を落としたり、編集箇所を誤ったり、途中で投げ出したりすることが大幅に減った。ただしまだ終わりではなく、Chatの改善はこれからも続く。"
+        },
+        {
+          "t": "p",
+          "x": "Rewriteが自社(in-house)モデルで動作 - RewriteはしばらくAnthropicのClaude Sonnetを使っていた。これをBalladに移したところ、結果は明らかだ。作家が生成されたRewriteを実際に採用する確率が20%高まった。しばらくRewriteを使っていないなら、改めて試す価値がある。"
+        },
+        {
+          "t": "p",
+          "x": "文書をきちんと印刷できるように - これまでSudowriteのエディタ表示中にCtrl + PやCommand + Pを押すと、白紙のページと、より幅の広いブラウザが必要だというメッセージが表示されていた。朗報だ。今後は表示中の文書をきれいな形で印刷できる。"
+        }
+      ]
+    },
+    "books/garmus-ai-hubris-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+        },
+        {
+          "t": "p",
+          "x": "小説家Bonnie Garmusは、The Booksellerに寄せた「AIは私たちを滅ぼすかもしれない、でもそれはそんなに悪いことか?」と題するコラムで、AIの登場は多くの作家を不安にさせたが、人類の傲慢さにも光を当てたと書いている。"
+        },
+        {
+          "t": "p",
+          "x": "Garmusの著者紹介には、コーヒーが手放せない(coffee-dependent)アメリカ人小説家とある。デビュー作Lessons in Chemistryは世界的ベストセラー首位となり、New York Timesの読者が選ぶ21世紀のベスト100冊の一冊に選ばれた。"
+        }
+      ]
+    },
+    "books/audible-worlds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "オーディオブック市場でSpotifyとの新たな競争に直面するAudibleは、AIなどの技術に目を向けている。Amazon傘下の同社は、本の登場人物を探り、インタラクティブな物語に参加し、作中に登場する名所や場所の画像と補足情報を見られる3つの機能を発表した。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Visual-Explorer.png?w=680",
+          "cap": "画像提供：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "画像機能はまずSheehan Quirkeの“The Cultural Tutor”の1作品のみで提供される。キャラクターガイドは10月1日に配信されるAudible Original“Dracula”で初登場し、誰が話しているかをリアルタイムで表示し、ネタバレのないキャラクターカードを提供する。Audible Originalの“1984”と今後配信予定の“Exoplanet”にも導入される。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Character-Guide.png?w=680",
+          "cap": "画像提供：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "生成AI（generative-AI）を活用したインタラクティブな物語では、Draculaの召使いRenfieldと対話できる。キャラクターは聴き手に役割、目標、賭けられたものを与え、相手の発言にリアルタイムで反応する。Audibleによれば、物語が原作に根ざしたものになるようクリエイターが関わっているという。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/Audible-Interactive-Story.png?w=680",
+          "cap": "画像提供：Amazon"
+        },
+        {
+          "t": "p",
+          "x": "2025年の米国（U.S.）のオーディオブック売上は24億3000万ドルに達した。各機能はベータ版で、Audibleは今後対象タイトルを順次広げる計画だ。"
+        }
+      ]
     }
   }
 }

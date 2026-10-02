@@ -1,665 +1,273 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "design",
   "cards": [
     {
-      "id": "figma-motion-sept",
+      "id": "bfl-flux3-image",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma Motion에\n오디오·맞춤 스타일 추가",
-      "body": "Figma Motion에 오디오, 텍스트 애니메이션, 맞춤 스타일이 더해졌다.",
-      "mini_headline": "Figma Motion에 오디오",
-      "tool": "Social",
-      "source": "Figma (YouTube)",
-      "url": "https://www.youtube.com/watch?v=1lnuBH7CbEY",
-      "accent": "#ff2d55",
-      "motif": "frame",
+      "headline": "Flux 3 Image\n나머지는 두고 편집",
+      "body": "Flux 3 Image는 나머지를 그대로 두고 최대 4K 해상도로 단계별 편집한다.",
+      "mini_headline": "Flux 3 Image, 단계별 편집",
+      "tool": "KeyShot",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+      "accent": "#f5a623",
+      "motif": "sphere",
       "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "1lnuBH7CbEY"
-          },
-          {
-            "t": "p",
-            "x": "Figma가 'Release Notes 2026: September Edition'에서 Figma Motion의 새 기능과 캔버스 업데이트를 소개했다."
-          },
-          {
-            "t": "p",
-            "x": "Motion은 이제 디자인 시스템용 맞춤 애니메이션 스타일과 오디오, 텍스트 애니메이션을 지원한다. Figma 에이전트, 그리고 MCP로 연결한 코딩 에이전트가 이 기능을 자동으로 적용할 수 있고 Lottie로 곧장 내보낼 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "Community Riffs도 공개됐다. 애니메이션과 프로토타입, 실험작을 Figma Community 페이지에 바로 공유할 수 있다. 코드 뷰어와 MCP가 업데이트돼 에이전트와 함께 고친 내용을 다시 Figma로 보내는 것도 가능해졌다."
-          },
-          {
-            "t": "p",
-            "x": "세션에서는 런치 애니메이션과 텍스트 스태거, 키프레임 이징, 마케팅 에셋 자동 스케일링, 생성형 플러그인과 셰이더, 캔버스 안의 맞춤 AI 스킬, Weave의 이미지 생성, 변수로 쓰는 불투명도, 디자인-코드 충실도 개선까지 보여준다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Figma Motion adds audio\nand custom animation styles",
-          "body": "Figma's September Release Notes add custom animation styles, audio and text animations to Figma Motion.",
-          "mini_headline": "Figma Motion gets audio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1lnuBH7CbEY"
-              },
-              {
-                "t": "p",
-                "x": "Figma's Release Notes 2026: September Edition brings new Figma Motion features and updates to the canvas."
-              },
-              {
-                "t": "p",
-                "x": "Motion now supports custom animation styles, audio and text animations for your design system. They can be applied automatically with the Figma agent and coding agents via MCP, and exported directly to Lottie."
-              },
-              {
-                "t": "p",
-                "x": "Community Riffs are now live, letting people share animations, prototypes and experiments directly to the Figma Community page. Code viewer and MCP updates let you make changes with your agent and push them back to Figma."
-              },
-              {
-                "t": "p",
-                "x": "The session also demos launch animations and text staggers, keyframe easing, scaling marketing assets automatically, generative plugins and shaders, custom AI skills in the canvas, image creation in Weave, opacity as variables and design-to-code fidelity improvements."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Figma Motion에\n오디오·맞춤 스타일 추가",
-          "body": "Figma Motion에 오디오, 텍스트 애니메이션, 맞춤 스타일이 더해졌다.",
-          "mini_headline": "Figma Motion에 오디오",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1lnuBH7CbEY"
-              },
-              {
-                "t": "p",
-                "x": "Figma가 'Release Notes 2026: September Edition'에서 Figma Motion의 새 기능과 캔버스 업데이트를 소개했다."
-              },
-              {
-                "t": "p",
-                "x": "Motion은 이제 디자인 시스템용 맞춤 애니메이션 스타일과 오디오, 텍스트 애니메이션을 지원한다. Figma 에이전트, 그리고 MCP로 연결한 코딩 에이전트가 이 기능을 자동으로 적용할 수 있고 Lottie로 곧장 내보낼 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Community Riffs도 공개됐다. 애니메이션과 프로토타입, 실험작을 Figma Community 페이지에 바로 공유할 수 있다. 코드 뷰어와 MCP가 업데이트돼 에이전트와 함께 고친 내용을 다시 Figma로 보내는 것도 가능해졌다."
-              },
-              {
-                "t": "p",
-                "x": "세션에서는 런치 애니메이션과 텍스트 스태거, 키프레임 이징, 마케팅 에셋 자동 스케일링, 생성형 플러그인과 셰이더, 캔버스 안의 맞춤 AI 스킬, Weave의 이미지 생성, 변수로 쓰는 불투명도, 디자인-코드 충실도 개선까지 보여준다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figma Motionに\n音声とカスタムスタイルを追加",
-          "body": "Figma Motionに、カスタムスタイルや音声、テキストアニメーションが加わった。",
-          "mini_headline": "Figma Motionに音声",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1lnuBH7CbEY"
-              },
-              {
-                "t": "p",
-                "x": "Figmaの「Release Notes 2026: September Edition」は、Figma Motionの新機能とキャンバスのアップデートを紹介する。"
-              },
-              {
-                "t": "p",
-                "x": "Motionは、デザインシステム向けのカスタムアニメーションスタイル、音声、テキストアニメーションに対応した。これらはFigmaエージェントやMCP経由のコーディングエージェントで自動適用でき、Lottieへ直接書き出せる。"
-              },
-              {
-                "t": "p",
-                "x": "Community Riffsも公開され、アニメーションやプロトタイプ、実験をFigma Communityページに直接共有できるようになった。コードビューアとMCPのアップデートにより、エージェントで加えた変更をFigmaに戻せる。"
-              },
-              {
-                "t": "p",
-                "x": "セッションでは、ローンチアニメーションとテキストのスタッガー、キーフレームのイージング、マーケティング素材の自動スケーリング、生成系プラグインとシェーダー、キャンバス内のカスタムAIスキル、Weaveでの画像生成、変数としての不透明度、デザインからコードへの忠実度向上もデモされる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma Motion\n新增音频与自定义动画样式",
-          "body": "Figma九月版本说明为Figma Motion新增自定义动画样式、音频和文字动画。",
-          "mini_headline": "Figma Motion支持音频",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1lnuBH7CbEY"
-              },
-              {
-                "t": "p",
-                "x": "Figma的《Release Notes 2026: September Edition》介绍了Figma Motion的新功能和画布更新。"
-              },
-              {
-                "t": "p",
-                "x": "Motion现在支持为设计系统定制动画样式、音频和文字动画。这些效果可通过Figma智能体以及经由MCP的编程智能体自动应用，并可直接导出为Lottie。"
-              },
-              {
-                "t": "p",
-                "x": "Community Riffs现已上线，用户可将动画、原型和实验作品直接分享到Figma Community页面。代码查看器和MCP更新让用户借助智能体修改内容，再推送回Figma。"
-              },
-              {
-                "t": "p",
-                "x": "本场演示还涵盖启动动画与文字错位动画、关键帧缓动、营销素材自动缩放、生成式插件与着色器、画布内的自定义AI技能、在Weave中生成图像、将不透明度设为变量，以及设计到代码还原度的提升。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Figma Motion suma audio y\nestilos de animación propios",
-          "body": "Las notas de Figma de septiembre añaden a Figma Motion estilos de animación a medida, audio y animaciones de texto.",
-          "mini_headline": "Figma Motion incorpora audio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1lnuBH7CbEY"
-              },
-              {
-                "t": "p",
-                "x": "Release Notes 2026: September Edition, de Figma, trae nuevas funciones de Figma Motion y actualizaciones del lienzo."
-              },
-              {
-                "t": "p",
-                "x": "Motion ahora admite estilos de animación personalizados, audio y animaciones de texto para tu sistema de diseño. Pueden aplicarse automáticamente con el agente de Figma y con agentes de programación vía MCP, y exportarse directamente a Lottie."
-              },
-              {
-                "t": "p",
-                "x": "Ya están disponibles los Community Riffs, que permiten compartir animaciones, prototipos y experimentos directamente en la página de Figma Community. Las actualizaciones del visor de código y de MCP permiten hacer cambios con tu agente y enviarlos de vuelta a Figma."
-              },
-              {
-                "t": "p",
-                "x": "La sesión también muestra animaciones de lanzamiento y escalonado de texto, suavizado de fotogramas clave, escalado automático de piezas de marketing, plugins y shaders generativos, habilidades de IA personalizadas en el lienzo, creación de imágenes en Weave, opacidad como variable y mejoras en la fidelidad del diseño al código."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Figma Motion에\n오디오·맞춤 스타일 추가",
-          "body": "Figma Motion에 오디오, 텍스트 애니메이션, 맞춤 스타일이 더해졌다.",
-          "mini_headline": "Figma Motion에 오디오",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1lnuBH7CbEY"
-              },
-              {
-                "t": "p",
-                "x": "Figma의 'Release Notes 2026: September Edition'은 Figma Motion의 새 기능과 캔버스 업데이트를 소개한다."
-              },
-              {
-                "t": "p",
-                "x": "이제 Motion은 디자인 시스템용 맞춤 애니메이션 스타일, 오디오, 텍스트 애니메이션을 지원한다. 이 기능들은 Figma 에이전트와 MCP를 통한 코딩 에이전트로 자동 적용할 수 있고, Lottie로 바로 내보낼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Community Riffs도 공개돼 애니메이션, 프로토타입, 실험작을 Figma Community 페이지에 바로 공유할 수 있다. 코드 뷰어와 MCP 업데이트로 에이전트와 함께 수정한 내용을 다시 Figma로 보낼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "세션에서는 런치 애니메이션과 텍스트 스태거, 키프레임 이징, 마케팅 에셋 자동 스케일링, 생성형 플러그인과 셰이더, 캔버스 안의 맞춤 AI 스킬, Weave의 이미지 생성, 변수로 쓰는 불투명도, 디자인-코드 충실도 개선도 시연한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figma Motionに\n音声とカスタムスタイルを追加",
-          "body": "Figma Motionに、カスタムスタイルや音声、テキストアニメーションが加わった。",
-          "mini_headline": "Figma Motionに音声",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1lnuBH7CbEY"
-              },
-              {
-                "t": "p",
-                "x": "Figmaの「Release Notes 2026: September Edition」は、Figma Motionの新機能とキャンバスのアップデートを紹介する。"
-              },
-              {
-                "t": "p",
-                "x": "Motionは、デザインシステム向けのカスタムアニメーションスタイル、音声、テキストアニメーションに対応した。これらはFigmaエージェントやMCP経由のコーディングエージェントで自動適用でき、Lottieへ直接書き出せる。"
-              },
-              {
-                "t": "p",
-                "x": "Community Riffsも公開され、アニメーションやプロトタイプ、実験をFigma Communityページに直接共有できるようになった。コードビューアとMCPのアップデートにより、エージェントで加えた変更をFigmaに戻せる。"
-              },
-              {
-                "t": "p",
-                "x": "セッションでは、ローンチアニメーションとテキストのスタッガー、キーフレームのイージング、マーケティング素材の自動スケーリング、生成系プラグインとシェーダー、キャンバス内のカスタムAIスキル、Weaveでの画像生成、変数としての不透明度、デザインからコードへの忠実度向上もデモされる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma Motion\n新增音频与自定义动画样式",
-          "body": "Figma九月版本说明为Figma Motion新增自定义动画样式、音频和文字动画。",
-          "mini_headline": "Figma Motion支持音频",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1lnuBH7CbEY"
-              },
-              {
-                "t": "p",
-                "x": "Figma的《Release Notes 2026: September Edition》介绍了Figma Motion的新功能和画布更新。"
-              },
-              {
-                "t": "p",
-                "x": "Motion现在支持为设计系统定制动画样式、音频和文字动画。这些效果可通过Figma智能体以及经由MCP的编程智能体自动应用，并可直接导出为Lottie。"
-              },
-              {
-                "t": "p",
-                "x": "Community Riffs现已上线，用户可将动画、原型和实验作品直接分享到Figma Community页面。代码查看器和MCP更新让用户借助智能体修改内容，再推送回Figma。"
-              },
-              {
-                "t": "p",
-                "x": "本场演示还涵盖启动动画与文字错位动画、关键帧缓动、营销素材自动缩放、生成式插件与着色器、画布内的自定义AI技能、在Weave中生成图像、将不透明度设为变量，以及设计到代码还原度的提升。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Figma Motion suma audio y\nestilos de animación propios",
-          "body": "Las notas de Figma de septiembre añaden a Figma Motion estilos de animación a medida, audio y animaciones de texto.",
-          "mini_headline": "Figma Motion incorpora audio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "1lnuBH7CbEY"
-              },
-              {
-                "t": "p",
-                "x": "Release Notes 2026: September Edition, de Figma, trae nuevas funciones de Figma Motion y actualizaciones del lienzo."
-              },
-              {
-                "t": "p",
-                "x": "Motion ahora admite estilos de animación personalizados, audio y animaciones de texto para tu sistema de diseño. Pueden aplicarse automáticamente con el agente de Figma y con agentes de programación vía MCP, y exportarse directamente a Lottie."
-              },
-              {
-                "t": "p",
-                "x": "Ya están disponibles los Community Riffs, que permiten compartir animaciones, prototipos y experimentos directamente en la página de Figma Community. Las actualizaciones del visor de código y de MCP permiten hacer cambios con tu agente y enviarlos de vuelta a Figma."
-              },
-              {
-                "t": "p",
-                "x": "La sesión también muestra animaciones de lanzamiento y escalonado de texto, suavizado de fotogramas clave, escalado automático de piezas de marketing, plugins y shaders generativos, habilidades de IA personalizadas en el lienzo, creación de imágenes en Weave, opacidad como variable y mejoras en la fidelidad del diseño al código."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "shopify-canvas-builder",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Shopify Canvas\nAI 대화로 스토어 제작",
-      "body": "Canvas에서는 Sidekick과 대화해 스토어를 만들고 수정을 바로 본다.",
-      "mini_headline": "Shopify Canvas 대화형 빌더",
-      "tool": "AI Workflow",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+            "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
           },
           {
             "t": "p",
-            "x": "Shopify가 사이트 제작 도구 Canvas를 내놓았다. AI와 대화하면서 스토어를 꾸리는 방식이다. 기존 노코드 빌더는 테마의 섹션과 블록을 옮겨 배치하는 수준이었고 더 깊이 커스터마이즈하려면 코드를 쓰거나 개발자에게 맡겨야 했다."
-          },
-          {
-            "t": "p",
-            "x": "판매자는 Canvas에서 Shopify의 AI 에이전트 Sidekick과 대화하며 바뀐 내용을 실시간으로 확인한다. 정적인 미리보기가 아니라 스토어의 실제 코드를 렌더링하므로 화면 크기별로 인터랙션과 애니메이션을 테스트할 수 있다. Sidekick도 스크린샷을 찍어 판매자가 보는 화면을 파악한다."
+            "x": "Black Forest Labs가 Flux 3 모델 제품군에 속한 이미지 모델 Flux 3 Image를 공개했다. BFL에 따르면 이 모델은 이미지의 다른 부분을 건드리지 않고 여러 단계에 걸쳐 편집할 수 있고, 텍스트-이미지, 이미지-이미지, 텍스트 렌더링, 포토리얼리즘을 모두 다룬다. 바운딩 박스로 장면을 구성하고 참조 이미지를 최대 열 장까지 넣을 수 있으며, 결과물은 최대 4K 해상도로 뽑는다. 무료 데모도 있다."
           },
           {
             "t": "video",
-            "yt": "MYtJ_qk8WBo"
+            "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
           },
           {
             "t": "p",
-            "x": "요소를 클릭해 직접 편집하는 방식도 그대로 남았다. Shopify는 Sidekick이 테마 파일을 직접 다루게 했고 Sidekick이 이해하고 고치기 쉽도록 테마 구조도 단순하게 정리했다."
-          },
-          {
-            "t": "p",
-            "x": "초기 출시에는 서드파티 테마, 앱 블록과 확장 기능, 마켓, 번역, 롤아웃, 테마 업데이트가 빠졌다. Canvas는 데스크톱에서만 쓸 수 있으며, Shopify는 이 부분을 차차 지원하겠다고 밝혔다."
+            "x": "API 이용료는 10월 8일까지 50% 할인된다. 기업은 상업용 가중치 라이선스를 받아 자체 인프라에서 모델을 돌리고 파인튜닝할 수 있다. 오픈 웨이트 버전은 몇 주 안에 나올 예정이다. 출시 직전에는 Ideogram도 편집에 초점을 맞춘 자체 모델 4.5 버전을 내놨는데, 이 모델 역시 곧 오픈 웨이트로 공개될 예정이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Shopify Canvas builds stores\nby chatting with AI",
-          "body": "Shopify Canvas lets merchants build stores by chatting with its AI agent Sidekick and see edits live.",
-          "mini_headline": "Shopify Canvas chat builder",
+          "headline": "Flux 3 Image edits in steps\nand leaves the rest alone",
+          "body": "Black Forest Labs says Flux 3 Image makes multi-step edits without touching the rest of a picture, at up to 4K.",
+          "mini_headline": "Flux 3 Image edits in steps",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
               },
               {
                 "t": "p",
-                "x": "Shopify introduced Canvas, a site-building tool that lets merchants set up their store by chatting with AI. Its earlier no-code builder meant rearranging a theme's sections and blocks, and deeper customization required code or a developer."
-              },
-              {
-                "t": "p",
-                "x": "In Canvas, merchants chat with Shopify's AI agent, Sidekick, and see changes in real time. It isn't a static preview but the store's real code being rendered, so merchants can test interactivity and animation across screen sizes; Sidekick also takes screenshots to see what the merchant sees."
+                "x": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. The model supports multi-step edits without changing other parts of the image, BFL claims, and covers text-to-image, image-to-image, text rendering, and photorealism. Users can compose scenes with bounding boxes, include up to ten reference images, and output up to 4K. A free demo is available."
               },
               {
                 "t": "video",
-                "yt": "MYtJ_qk8WBo"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
               },
               {
                 "t": "p",
-                "x": "Merchants can still click elements to edit directly. Shopify gave Sidekick the ability to work directly with theme files and simplified the theme architecture so it can understand and change it."
-              },
-              {
-                "t": "p",
-                "x": "Third-party themes, app blocks and extensions, markets, translations, rollouts and theme updates aren't in the initial launch, and Canvas is desktop-only; Shopify says it plans to support these over time."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Shopify Canvas\nAI 대화로 스토어 제작",
-          "body": "Canvas에서는 Sidekick과 대화해 스토어를 만들고 수정을 바로 본다.",
-          "mini_headline": "Shopify Canvas 대화형 빌더",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
-              },
-              {
-                "t": "p",
-                "x": "Shopify가 사이트 제작 도구 Canvas를 내놓았다. AI와 대화하면서 스토어를 꾸리는 방식이다. 기존 노코드 빌더는 테마의 섹션과 블록을 옮겨 배치하는 수준이었고 더 깊이 커스터마이즈하려면 코드를 쓰거나 개발자에게 맡겨야 했다."
-              },
-              {
-                "t": "p",
-                "x": "판매자는 Canvas에서 Shopify의 AI 에이전트 Sidekick과 대화하며 바뀐 내용을 실시간으로 확인한다. 정적인 미리보기가 아니라 스토어의 실제 코드를 렌더링하므로 화면 크기별로 인터랙션과 애니메이션을 테스트할 수 있다. Sidekick도 스크린샷을 찍어 판매자가 보는 화면을 파악한다."
-              },
-              {
-                "t": "video",
-                "yt": "MYtJ_qk8WBo"
-              },
-              {
-                "t": "p",
-                "x": "요소를 클릭해 직접 편집하는 방식도 그대로 남았다. Shopify는 Sidekick이 테마 파일을 직접 다루게 했고 Sidekick이 이해하고 고치기 쉽도록 테마 구조도 단순하게 정리했다."
-              },
-              {
-                "t": "p",
-                "x": "초기 출시에는 서드파티 테마, 앱 블록과 확장 기능, 마켓, 번역, 롤아웃, 테마 업데이트가 빠졌다. Canvas는 데스크톱에서만 쓸 수 있으며, Shopify는 이 부분을 차차 지원하겠다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Shopify Canvas\nAIとの対話でストア構築",
-          "body": "Canvasでは、Sidekickとの対話でストアを作り、変更を即座に確認できる。",
-          "mini_headline": "Shopify Canvasの対話型ビルダー",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
-              },
-              {
-                "t": "p",
-                "x": "Shopifyは、AIと対話しながらストアを構築できるサイト制作ツールCanvasを発表した。従来のノーコードビルダーはテーマのセクションやブロックを並べ替える方式で、より深いカスタマイズにはコードや開発者が必要だった。"
-              },
-              {
-                "t": "p",
-                "x": "Canvasでは、マーチャントがShopifyのAIエージェントSidekickと対話し、変更をリアルタイムで確認できる。静的なプレビューではなくストアの実際のコードがレンダリングされるため、画面サイズごとにインタラクションやアニメーションを試せる。Sidekickもスクリーンショットを撮り、マーチャントが見ている画面を把握する。"
-              },
-              {
-                "t": "video",
-                "yt": "MYtJ_qk8WBo"
-              },
-              {
-                "t": "p",
-                "x": "要素をクリックして直接編集することも引き続き可能だ。ShopifyはSidekickがテーマファイルを直接扱えるようにし、理解して変更できるようテーマのアーキテクチャを簡素化した。"
-              },
-              {
-                "t": "p",
-                "x": "サードパーティ製テーマ、アプリブロックと拡張機能、マーケット、翻訳、ロールアウト、テーマの更新は初期リリースに含まれず、Canvasはデスクトップ専用だ。Shopifyは今後これらに順次対応する予定だとしている。"
+                "x": "API access is 50 percent off through October 8. Companies can license commercial weights to run and fine-tune the model on their own infrastructure. An open-weight version is expected in the coming weeks. Shortly before the launch, Ideogram announced its own editing-focused model with version 4.5, which is also set to ship as open weights soon."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Shopify Canvas\n与AI对话即可搭建店铺",
-          "body": "商家在Shopify Canvas中与AI智能体Sidekick对话建店，实时查看修改。",
-          "mini_headline": "Shopify Canvas对话式建站",
+          "headline": "Flux 3 Image\n分步编辑，其余不动",
+          "body": "Black Forest Labs称Flux 3 Image可分步局部编辑，最高4K。",
+          "mini_headline": "Flux 3 Image分步编辑",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
               },
               {
                 "t": "p",
-                "x": "Shopify推出了建站工具Canvas，商家可通过与AI对话来搭建店铺。此前的无代码编辑器需要重新排列主题的区块和模块，更深度的定制则需要写代码或找开发者。"
-              },
-              {
-                "t": "p",
-                "x": "在Canvas中，商家与Shopify的AI智能体Sidekick对话，并实时查看改动。它不是静态预览，而是渲染店铺的真实代码，因此商家可以在不同屏幕尺寸下测试交互和动画；Sidekick还会截图，以看到商家所看到的画面。"
+                "x": "Black Forest Labs发布了Flux 3 Image，即其Flux 3模型家族中的图像模型。BFL称，该模型支持多步编辑且不改变图像其他部分，覆盖文生图、图生图、文字渲染和照片级写实。用户可用边界框构图，最多加入10张参考图，并以最高4K输出。目前提供免费演示。"
               },
               {
                 "t": "video",
-                "yt": "MYtJ_qk8WBo"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
               },
               {
                 "t": "p",
-                "x": "商家仍可点击元素直接编辑。Shopify让Sidekick能够直接处理主题文件，并简化了主题架构，使其能够理解和修改。"
-              },
-              {
-                "t": "p",
-                "x": "第三方主题、应用区块和扩展、市场、翻译、分阶段发布和主题更新均未包含在首发版本中，且Canvas仅支持桌面端；Shopify表示计划逐步支持这些功能。"
+                "x": "API调用在10月8日前优惠50%。企业可获得商用权重授权，在自有基础设施上运行和微调模型。开放权重版本预计在未来几周推出。就在发布前不久，Ideogram推出了专注编辑的4.5版本模型，同样将很快以开放权重形式发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Shopify Canvas crea tiendas\nconversando con la IA",
-          "body": "Shopify Canvas permite crear tiendas conversando con su agente de IA, Sidekick, y ver los cambios en vivo.",
-          "mini_headline": "Shopify Canvas: constructor por chat",
+          "headline": "Flux 3 Image edita por pasos\ny deja intacto el resto",
+          "body": "Black Forest Labs afirma que Flux 3 Image hace ediciones en varios pasos sin tocar el resto de la imagen, hasta 4K.",
+          "mini_headline": "Flux 3 Image edita por pasos",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
               },
               {
                 "t": "p",
-                "x": "Shopify presentó Canvas, una herramienta para crear sitios que permite a los comerciantes montar su tienda conversando con IA. Su anterior constructor sin código obligaba a reordenar las secciones y bloques de un tema, y una personalización más profunda requería código o un desarrollador."
-              },
-              {
-                "t": "p",
-                "x": "En Canvas, los comerciantes conversan con Sidekick, el agente de IA de Shopify, y ven los cambios en tiempo real. No es una vista previa estática, sino el código real de la tienda renderizado, por lo que pueden probar la interactividad y la animación en distintos tamaños de pantalla; Sidekick también toma capturas para ver lo que ve el comerciante."
+                "x": "Black Forest Labs ha lanzado Flux 3 Image, la parte de imagen de su familia de modelos Flux 3. Según BFL, el modelo permite ediciones en varios pasos sin cambiar otras partes de la imagen y cubre text-to-image, image-to-image, renderizado de texto y fotorrealismo. Los usuarios pueden componer escenas con cuadros delimitadores, incluir hasta diez imágenes de referencia y generar salidas de hasta 4K. Hay una demo gratuita disponible."
               },
               {
                 "t": "video",
-                "yt": "MYtJ_qk8WBo"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
               },
               {
                 "t": "p",
-                "x": "Los comerciantes aún pueden hacer clic en los elementos para editarlos directamente. Shopify dio a Sidekick la capacidad de trabajar directamente con los archivos del tema y simplificó la arquitectura de temas para que pueda entenderla y modificarla."
+                "x": "El acceso a la API tiene un 50 por ciento de descuento hasta el 8 de octubre. Las empresas pueden licenciar pesos comerciales para ejecutar y ajustar el modelo en su propia infraestructura. Se espera una versión open-weight en las próximas semanas. Poco antes del lanzamiento, Ideogram anunció su propio modelo centrado en la edición con la versión 4.5, que también se publicará pronto con pesos abiertos."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Flux 3 Image\n나머지는 두고 편집",
+          "body": "Flux 3 Image는 나머지를 그대로 두고 최대 4K 해상도로 단계별 편집한다.",
+          "mini_headline": "Flux 3 Image, 단계별 편집",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
               },
               {
                 "t": "p",
-                "x": "Los temas de terceros, los bloques y extensiones de apps, los mercados, las traducciones, los despliegues y las actualizaciones de temas no forman parte del lanzamiento inicial, y Canvas solo funciona en escritorio; Shopify afirma que planea darles soporte con el tiempo."
+                "x": "Black Forest Labs가 Flux 3 모델 제품군에 속한 이미지 모델 Flux 3 Image를 공개했다. BFL에 따르면 이 모델은 이미지의 다른 부분을 건드리지 않고 여러 단계에 걸쳐 편집할 수 있고, 텍스트-이미지, 이미지-이미지, 텍스트 렌더링, 포토리얼리즘을 모두 다룬다. 바운딩 박스로 장면을 구성하고 참조 이미지를 최대 열 장까지 넣을 수 있으며, 결과물은 최대 4K 해상도로 뽑는다. 무료 데모도 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
+              },
+              {
+                "t": "p",
+                "x": "API 이용료는 10월 8일까지 50% 할인된다. 기업은 상업용 가중치 라이선스를 받아 자체 인프라에서 모델을 돌리고 파인튜닝할 수 있다. 오픈 웨이트 버전은 몇 주 안에 나올 예정이다. 출시 직전에는 Ideogram도 편집에 초점을 맞춘 자체 모델 4.5 버전을 내놨는데, 이 모델 역시 곧 오픈 웨이트로 공개될 예정이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Flux 3 Imageは\n他を変えず段階編集",
+          "body": "Flux 3 Imageは他の部分を変えずに段階的に編集でき、最大 4K で出力する。",
+          "mini_headline": "Flux 3 Image、段階的に編集",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
+              },
+              {
+                "t": "p",
+                "x": "Black Forest Labsは、Flux 3モデルファミリーの画像モデルであるFlux 3 Imageを公開した。BFLによると、このモデルは画像の他の部分を変えずに複数ステップの編集ができ、テキストからの画像生成、画像からの画像生成、テキスト描画、フォトリアリズムに対応する。ユーザーはバウンディングボックスでシーンを構成でき、参照画像は最大十枚まで使え、出力は最大 4K となる。無料デモも用意されている。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
+              },
+              {
+                "t": "p",
+                "x": "APIの利用料は10月8日まで50%引きだ。企業は商用ウェイトのライセンスを取得し、自社インフラ上でモデルを実行・ファインチューニングできる。オープンウェイト版は今後数週間のうちに公開される見込みだ。ローンチ直前には、Ideogramが編集に特化した自社モデルのバージョン4.5を発表しており、こちらも近くオープンウェイトで公開される予定である。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Shopify Canvas\nAI 대화로 스토어 제작",
-          "body": "Canvas에서는 Sidekick과 대화해 스토어를 만들고 수정을 바로 본다.",
-          "mini_headline": "Shopify Canvas 대화형 빌더",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
-              },
-              {
-                "t": "p",
-                "x": "Shopify가 AI와 대화하며 스토어를 꾸릴 수 있는 사이트 제작 도구 Canvas를 내놓았다. 기존 노코드 빌더는 테마의 섹션과 블록을 재배치하는 방식이었고, 더 깊이 커스터마이즈하려면 코드나 개발자가 필요했다."
-              },
-              {
-                "t": "p",
-                "x": "Canvas에서 판매자는 Shopify의 AI 에이전트 Sidekick과 대화하며 변경 사항을 실시간으로 확인한다. 정적인 미리보기가 아니라 스토어의 실제 코드를 렌더링하기 때문에 화면 크기별로 인터랙션과 애니메이션을 테스트할 수 있고, Sidekick도 스크린샷을 찍어 판매자가 보는 화면을 파악한다."
-              },
-              {
-                "t": "video",
-                "yt": "MYtJ_qk8WBo"
-              },
-              {
-                "t": "p",
-                "x": "판매자는 여전히 요소를 클릭해 직접 편집할 수 있다. Shopify는 Sidekick이 테마 파일을 직접 다룰 수 있게 했고, Sidekick이 이해하고 수정할 수 있도록 테마 구조를 단순화했다."
-              },
-              {
-                "t": "p",
-                "x": "서드파티 테마, 앱 블록과 확장 기능, 마켓, 번역, 롤아웃, 테마 업데이트는 초기 출시에 포함되지 않았고 Canvas는 데스크톱에서만 쓸 수 있다. Shopify는 이를 차차 지원할 계획이라고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Shopify Canvas\nAIとの対話でストア構築",
-          "body": "Canvasでは、Sidekickとの対話でストアを作り、変更を即座に確認できる。",
-          "mini_headline": "Shopify Canvasの対話型ビルダー",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
-              },
-              {
-                "t": "p",
-                "x": "Shopifyは、AIと対話しながらストアを構築できるサイト制作ツールCanvasを発表した。従来のノーコードビルダーはテーマのセクションやブロックを並べ替える方式で、より深いカスタマイズにはコードや開発者が必要だった。"
-              },
-              {
-                "t": "p",
-                "x": "Canvasでは、マーチャントがShopifyのAIエージェントSidekickと対話し、変更をリアルタイムで確認できる。静的なプレビューではなくストアの実際のコードがレンダリングされるため、画面サイズごとにインタラクションやアニメーションを試せる。Sidekickもスクリーンショットを撮り、マーチャントが見ている画面を把握する。"
-              },
-              {
-                "t": "video",
-                "yt": "MYtJ_qk8WBo"
-              },
-              {
-                "t": "p",
-                "x": "要素をクリックして直接編集することも引き続き可能だ。ShopifyはSidekickがテーマファイルを直接扱えるようにし、理解して変更できるようテーマのアーキテクチャを簡素化した。"
-              },
-              {
-                "t": "p",
-                "x": "サードパーティ製テーマ、アプリブロックと拡張機能、マーケット、翻訳、ロールアウト、テーマの更新は初期リリースに含まれず、Canvasはデスクトップ専用だ。Shopifyは今後これらに順次対応する予定だとしている。"
-              }
-            ]
-          }
-        },
         "zh": {
-          "headline": "Shopify Canvas\n与AI对话即可搭建店铺",
-          "body": "商家在Shopify Canvas中与AI智能体Sidekick对话建店，实时查看修改。",
-          "mini_headline": "Shopify Canvas对话式建站",
+          "headline": "Flux 3 Image\n分步编辑，其余不动",
+          "body": "Black Forest Labs称Flux 3 Image可分步局部编辑，最高4K。",
+          "mini_headline": "Flux 3 Image分步编辑",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
               },
               {
                 "t": "p",
-                "x": "Shopify推出了建站工具Canvas，商家可通过与AI对话来搭建店铺。此前的无代码编辑器需要重新排列主题的区块和模块，更深度的定制则需要写代码或找开发者。"
-              },
-              {
-                "t": "p",
-                "x": "在Canvas中，商家与Shopify的AI智能体Sidekick对话，并实时查看改动。它不是静态预览，而是渲染店铺的真实代码，因此商家可以在不同屏幕尺寸下测试交互和动画；Sidekick还会截图，以看到商家所看到的画面。"
+                "x": "Black Forest Labs发布了Flux 3 Image，即其Flux 3模型家族中的图像模型。BFL称，该模型支持多步编辑且不改变图像其他部分，覆盖文生图、图生图、文字渲染和照片级写实。用户可用边界框构图，最多加入10张参考图，并以最高4K输出。目前提供免费演示。"
               },
               {
                 "t": "video",
-                "yt": "MYtJ_qk8WBo"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
               },
               {
                 "t": "p",
-                "x": "商家仍可点击元素直接编辑。Shopify让Sidekick能够直接处理主题文件，并简化了主题架构，使其能够理解和修改。"
-              },
-              {
-                "t": "p",
-                "x": "第三方主题、应用区块和扩展、市场、翻译、分阶段发布和主题更新均未包含在首发版本中，且Canvas仅支持桌面端；Shopify表示计划逐步支持这些功能。"
+                "x": "API调用在10月8日前优惠50%。企业可获得商用权重授权，在自有基础设施上运行和微调模型。开放权重版本预计在未来几周推出。就在发布前不久，Ideogram推出了专注编辑的4.5版本模型，同样将很快以开放权重形式发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Shopify Canvas crea tiendas\nconversando con la IA",
-          "body": "Shopify Canvas permite crear tiendas conversando con su agente de IA, Sidekick, y ver los cambios en vivo.",
-          "mini_headline": "Shopify Canvas: constructor por chat",
+          "headline": "Flux 3 Image edita por pasos\ny deja intacto el resto",
+          "body": "Black Forest Labs afirma que Flux 3 Image hace ediciones en varios pasos sin tocar el resto de la imagen, hasta 4K.",
+          "mini_headline": "Flux 3 Image edita por pasos",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
               },
               {
                 "t": "p",
-                "x": "Shopify presentó Canvas, una herramienta para crear sitios que permite a los comerciantes montar su tienda conversando con IA. Su anterior constructor sin código obligaba a reordenar las secciones y bloques de un tema, y una personalización más profunda requería código o un desarrollador."
-              },
-              {
-                "t": "p",
-                "x": "En Canvas, los comerciantes conversan con Sidekick, el agente de IA de Shopify, y ven los cambios en tiempo real. No es una vista previa estática, sino el código real de la tienda renderizado, por lo que pueden probar la interactividad y la animación en distintos tamaños de pantalla; Sidekick también toma capturas para ver lo que ve el comerciante."
+                "x": "Black Forest Labs ha lanzado Flux 3 Image, la parte de imagen de su familia de modelos Flux 3. Según BFL, el modelo permite ediciones en varios pasos sin cambiar otras partes de la imagen y cubre text-to-image, image-to-image, renderizado de texto y fotorrealismo. Los usuarios pueden componer escenas con cuadros delimitadores, incluir hasta diez imágenes de referencia y generar salidas de hasta 4K. Hay una demo gratuita disponible."
               },
               {
                 "t": "video",
-                "yt": "MYtJ_qk8WBo"
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
               },
               {
                 "t": "p",
-                "x": "Los comerciantes aún pueden hacer clic en los elementos para editarlos directamente. Shopify dio a Sidekick la capacidad de trabajar directamente con los archivos del tema y simplificó la arquitectura de temas para que pueda entenderla y modificarla."
+                "x": "El acceso a la API tiene un 50 por ciento de descuento hasta el 8 de octubre. Las empresas pueden licenciar pesos comerciales para ejecutar y ajustar el modelo en su propia infraestructura. Se espera una versión open-weight en las próximas semanas. Poco antes del lanzamiento, Ideogram anunció su propio modelo centrado en la edición con la versión 4.5, que también se publicará pronto con pesos abiertos."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Flux 3 Image\n나머지는 두고 편집",
+          "body": "Flux 3 Image는 나머지는 두고 최대 4K 해상도로 단계별 편집한다.",
+          "mini_headline": "Flux 3 Image, 단계별 편집",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
               },
               {
                 "t": "p",
-                "x": "Los temas de terceros, los bloques y extensiones de apps, los mercados, las traducciones, los despliegues y las actualizaciones de temas no forman parte del lanzamiento inicial, y Canvas solo funciona en escritorio; Shopify afirma que planea darles soporte con el tiempo."
+                "x": "Black Forest Labs가 Flux 3 모델 제품군의 이미지 모델인 Flux 3 Image를 공개했다. BFL은 이 모델이 이미지의 다른 부분을 바꾸지 않고 여러 단계에 걸친 편집을 지원하며, 텍스트-이미지, 이미지-이미지, 텍스트 렌더링, 포토리얼리즘을 모두 다룬다고 밝혔다. 사용자는 바운딩 박스로 장면을 구성하고, 참조 이미지를 최대 열 장까지 넣을 수 있으며, 결과물은 최대 4K 해상도로 출력할 수 있다. 무료 데모도 제공된다."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
+              },
+              {
+                "t": "p",
+                "x": "API 이용료는 10월 8일까지 50% 할인된다. 기업은 상업용 가중치 라이선스를 받아 자체 인프라에서 모델을 실행하고 파인튜닝할 수 있다. 오픈 웨이트 버전은 앞으로 몇 주 안에 나올 예정이다. 출시 직전에는 Ideogram이 편집에 초점을 맞춘 자체 모델 4.5 버전을 발표했으며, 이 모델 역시 곧 오픈 웨이트로 공개될 예정이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Flux 3 Imageは\n他を変えず段階編集",
+          "body": "Flux 3 Imageは他の部分を変えずに段階的に編集でき、最大 4K で出力する。",
+          "mini_headline": "Flux 3 Image、段階的に編集",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
+              },
+              {
+                "t": "p",
+                "x": "Black Forest Labsは、Flux 3モデルファミリーの画像モデルであるFlux 3 Imageを公開した。BFLによると、このモデルは画像の他の部分を変えずに複数ステップの編集ができ、テキストからの画像生成、画像からの画像生成、テキスト描画、フォトリアリズムに対応する。ユーザーはバウンディングボックスでシーンを構成でき、参照画像は最大十枚まで使え、出力は最大 4K となる。無料デモも用意されている。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
+              },
+              {
+                "t": "p",
+                "x": "APIの利用料は10月8日まで50%引きだ。企業は商用ウェイトのライセンスを取得し、自社インフラ上でモデルを実行・ファインチューニングできる。オープンウェイト版は今後数週間のうちに公開される見込みだ。ローンチ直前には、Ideogramが編集に特化した自社モデルのバージョン4.5を発表しており、こちらも近くオープンウェイトで公開される予定である。"
               }
             ]
           }
@@ -667,189 +275,213 @@
       }
     },
     {
-      "id": "ai-sites-wcag-audit",
+      "id": "classcad-ai-mcp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-built 15곳\n모두 접근성 불합격",
-      "body": "AudioEye 조사에서 AI 사이트 15곳이 모두 WCAG A등급에 미달했다.",
-      "mini_headline": "AI-built 사이트, 접근성 낙제",
-      "tool": "AI Workflow",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/technology/we-asked-five-ai-tools-to-build-accessible-websites-all-15-sites-failed",
-      "accent": "#3b6bff",
-      "motif": "frame",
+      "headline": "ClassCAD.ai,\nAI 에이전트에 CAD",
+      "body": "ClassCAD.ai가 Claude·Codex용 CAD 모델링 MCP로 출시됐다.",
+      "mini_headline": "ClassCAD.ai, MCP로 CAD를 잇다",
+      "tool": "Text-to-CAD",
+      "source": "DEVELOP3D",
+      "url": "https://develop3d.com/ai/classcad-ai-cad-mcp/",
+      "accent": "#7928ca",
+      "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+            "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
           },
           {
             "t": "p",
-            "x": "JetBrains 조사를 보면 개발자 10명 중 9명이 업무에 AI 도구를 하나 이상 쓴다. 그런데 AI 코딩 도구가 학습한 웹은 대체로 접근성이 떨어진다. WebAIM 최신 보고서는 페이지당 평균 문제 수가 전년보다 10% 늘었다며 AI-assisted 코드를 유력한 원인으로 꼽았다."
+            "x": "ClassCAD.ai가 AI-driven(AI 주도) 임베드형 CAD로 출시됐다. Claude나 Codex 안에서 CAD를 만드는 독립형 MCP로, 협업 자동화 레이어나 대화형 프로토타이핑을 빠르게 시험하는 샌드박스, 맞춤형 내부 도구로 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "AudioEye는 AI 도구 5종(OpenAI, Anthropic, Google, xAI, Lovable)에 같은 과제를 줬다. WCAG AA 기준을 충족하는 웹사이트 3개를 만들라는 것이었다. 결과물 15개 사이트는 하나도 WCAG Level A를 넘지 못했다. 페이지당 문제는 평균 55건으로 일반 사이트의 62건에 가까웠고, 그중 91%가 중간 또는 높은 심각도였다."
+            "x": "개발사는 St. Gallen, Switzerland(스위스 장크트갈렌)의 AWV Informatik이다. 기반 CAD인 ClassCAD는 'headless nurbs modeller'를 내세운다. 네이티브로 돌리거나 WebAssembly(WASM)로 통째 임베드할 수 있고, JS/TS, Python, C++에서 같은 API를 쓴다. 파라메트릭 모델 재계산, 구속 조건 스케치, STEP 모델이 필요한 제품이나 앱이라면 무엇이든 구동한다."
           },
           {
             "t": "p",
-            "x": "그런데도 AI 도구를 쓰는 팀의 81%는 AI-generated 코드가 접근성 가이드라인을 충족한다고 확신했다. 정작 이들 가운데 50%는 AI 도입 뒤 문제와 불만이 늘었다고 느꼈다."
+            "x": "개발자가 쓸 수 있는 APIs(API)는 두 가지다. Part API는 피처 단위로 작동하며 피처가 만든 바디를 추적하므로 구조화된 파라메트릭 파트에 맞고, 바디를 직접 다루는 Solid API는 히스토리 없이 코드로 짜는 맞춤형 파트에 맞다."
           },
           {
             "t": "p",
-            "x": "조사 대상 가운데 AI를 쓰는 조직의 46%는 지난 24개월 사이 접근성 문제로 불만이나 요구서, 소송을 받았다. 글쓴이는 AudioEye CEO Kelly Georgevich다."
+            "x": "AI 레이어를 쓰는 데 CAD 모델링 경험은 거의 필요 없다. 프런티어 모델에 ClassCAD.ai 사이트를 보여 주면 모델이 MCP를 설치하고, 에이전트는 CAD 전문가가 된다. 모델 컨텍스트는 사용자 시스템에 로컬로 남는다. 요청은 입력하거나 말로 해도 되고 요구사항 목록을 올려도 되며, 완성한 모델은 기존 CAD로 내보낼 수 있다. 한 예시에서는 AliExpress 전자부품 쇼핑 목록을 건네고 하우징을 만들어 달라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "비상업적 용도는 현재 무료이고, 상업용 라이선스는 100 CHF부터다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "All 15 AI-built websites\nfailed accessibility tests",
-          "body": "In an AudioEye study, 15 sites built by five AI tools all failed WCAG Level A, averaging 55 issues per page.",
-          "mini_headline": "AI sites fail accessibility",
+          "headline": "ClassCAD.ai brings CAD\nmodeling to AI agents",
+          "body": "ClassCAD.ai launches as an embeddable AI CAD, a self-contained MCP that builds CAD models inside Claude or Codex.",
+          "mini_headline": "ClassCAD.ai brings CAD to MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
               },
               {
                 "t": "p",
-                "x": "Nine in 10 developers use at least one AI tool at work, per a JetBrains survey, but AI coding tools learned from a largely inaccessible web. WebAIM's latest report found average issues per page rose 10% year over year, naming AI-assisted code a likely contributor."
+                "x": "ClassCAD.ai has been launched as an AI-driven embeddable CAD: a self-contained MCP able to build CAD in your Claude or Codex setup, useful as a collaborative automation layer, a quick conversational prototyping sandbox, or a custom internal tool."
               },
               {
                 "t": "p",
-                "x": "AudioEye gave five AI tools (OpenAI, Anthropic, Google, xAI and Lovable) the same brief: build three websites meeting WCAG at the AA standard. All 15 sites failed WCAG Level A, averaging 55 issues per page, close to the typical site's 62. 91% of issues were medium or high severity."
+                "x": "It is developed by AWV Informatik in St. Gallen, Switzerland. The underlying CAD, ClassCAD, is billed as a 'headless nurbs modeller' that runs native or fully embedded as WebAssembly (WASM), with the same API in JS/TS, Python and C++. It can drive any product or app that needs parametric model recalculations, constrained sketching and STEP models."
               },
               {
                 "t": "p",
-                "x": "Yet 81% of teams using AI tools are confident their AI-generated code meets accessibility guidelines, while 50% of that group have noticed more issues and complaints since adopting AI."
+                "x": "Developers get two APIs: the Part API, which works with features and tracks the bodies they make, for structured parametric parts; and the Solid API, which works on the bodies themselves, for custom parts built from code without history."
               },
               {
                 "t": "p",
-                "x": "46% of surveyed organizations using AI received an accessibility complaint, demand letter or lawsuit in the last 24 months. The piece is written by AudioEye CEO Kelly Georgevich."
+                "x": "The AI layer requires little CAD modelling experience. The user shows their frontier model the ClassCAD.ai site, where it installs the MCP and the agent becomes a CAD expert, with the model context kept locally on the user's system. From typing or speaking a request to uploading a list of requirements, it can build a model that can be exported to traditional CAD; in one example, it was given a shopping list of electronics from AliExpress and asked to build a housing."
+              },
+              {
+                "t": "p",
+                "x": "It is currently free for non-commercial use; a commercial licence starts at 100 CHF."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-built 15곳\n모두 접근성 불합격",
-          "body": "AudioEye 조사에서 AI 사이트 15곳이 모두 WCAG A등급에 미달했다.",
-          "mini_headline": "AI-built 사이트, 접근성 낙제",
+          "headline": "ClassCAD.ai,\nAI 에이전트에 CAD",
+          "body": "ClassCAD.ai가 Claude·Codex용 CAD 모델링 MCP로 출시됐다.",
+          "mini_headline": "ClassCAD.ai, MCP로 CAD를 잇다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
               },
               {
                 "t": "p",
-                "x": "JetBrains 조사를 보면 개발자 10명 중 9명이 업무에 AI 도구를 하나 이상 쓴다. 그런데 AI 코딩 도구가 학습한 웹은 대체로 접근성이 떨어진다. WebAIM 최신 보고서는 페이지당 평균 문제 수가 전년보다 10% 늘었다며 AI-assisted 코드를 유력한 원인으로 꼽았다."
+                "x": "ClassCAD.ai가 AI-driven(AI 주도) 임베드형 CAD로 출시됐다. Claude나 Codex 안에서 CAD를 만드는 독립형 MCP로, 협업 자동화 레이어나 대화형 프로토타이핑을 빠르게 시험하는 샌드박스, 맞춤형 내부 도구로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "AudioEye는 AI 도구 5종(OpenAI, Anthropic, Google, xAI, Lovable)에 같은 과제를 줬다. WCAG AA 기준을 충족하는 웹사이트 3개를 만들라는 것이었다. 결과물 15개 사이트는 하나도 WCAG Level A를 넘지 못했다. 페이지당 문제는 평균 55건으로 일반 사이트의 62건에 가까웠고, 그중 91%가 중간 또는 높은 심각도였다."
+                "x": "개발사는 St. Gallen, Switzerland(스위스 장크트갈렌)의 AWV Informatik이다. 기반 CAD인 ClassCAD는 'headless nurbs modeller'를 내세운다. 네이티브로 돌리거나 WebAssembly(WASM)로 통째 임베드할 수 있고, JS/TS, Python, C++에서 같은 API를 쓴다. 파라메트릭 모델 재계산, 구속 조건 스케치, STEP 모델이 필요한 제품이나 앱이라면 무엇이든 구동한다."
               },
               {
                 "t": "p",
-                "x": "그런데도 AI 도구를 쓰는 팀의 81%는 AI-generated 코드가 접근성 가이드라인을 충족한다고 확신했다. 정작 이들 가운데 50%는 AI 도입 뒤 문제와 불만이 늘었다고 느꼈다."
+                "x": "개발자가 쓸 수 있는 APIs(API)는 두 가지다. Part API는 피처 단위로 작동하며 피처가 만든 바디를 추적하므로 구조화된 파라메트릭 파트에 맞고, 바디를 직접 다루는 Solid API는 히스토리 없이 코드로 짜는 맞춤형 파트에 맞다."
               },
               {
                 "t": "p",
-                "x": "조사 대상 가운데 AI를 쓰는 조직의 46%는 지난 24개월 사이 접근성 문제로 불만이나 요구서, 소송을 받았다. 글쓴이는 AudioEye CEO Kelly Georgevich다."
+                "x": "AI 레이어를 쓰는 데 CAD 모델링 경험은 거의 필요 없다. 프런티어 모델에 ClassCAD.ai 사이트를 보여 주면 모델이 MCP를 설치하고, 에이전트는 CAD 전문가가 된다. 모델 컨텍스트는 사용자 시스템에 로컬로 남는다. 요청은 입력하거나 말로 해도 되고 요구사항 목록을 올려도 되며, 완성한 모델은 기존 CAD로 내보낼 수 있다. 한 예시에서는 AliExpress 전자부품 쇼핑 목록을 건네고 하우징을 만들어 달라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "비상업적 용도는 현재 무료이고, 상업용 라이선스는 100 CHF부터다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-built 15件\nアクセシビリティ不合格",
-          "body": "AudioEyeの調査で、AI製の15サイトすべてがWCAGレベルAに不合格だった。",
-          "mini_headline": "AI-builtサイト、アクセシビリティで不合格",
+          "headline": "ClassCAD.ai、\nAIエージェントにCAD",
+          "body": "ClassCAD.aiはClaudeやCodexでCADモデルを作るMCPとして登場した。",
+          "mini_headline": "ClassCAD.ai、MCPでCADを提供",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
               },
               {
                 "t": "p",
-                "x": "JetBrainsの調査では開発者の10人中9人が仕事で少なくとも一つのAIツールを使うが、AIコーディングツールはアクセシビリティの低いウェブから大半を学んできた。WebAIMの最新報告では、ページあたりの平均問題数が前年比10%増え、AI-assistedコードが一因とみられるという。"
+                "x": "ClassCAD.aiが、AI-driven（AI主導）の組み込み型CADとして公開された。ClaudeやCodexの環境内でCADを構築できる自己完結型のMCPで、共同作業向けの自動化レイヤー、対話による素早いプロトタイピングのサンドボックス、あるいは独自の社内ツールとして使える。"
               },
               {
                 "t": "p",
-                "x": "AudioEyeは5つのAIツール(OpenAI、Anthropic、Google、xAI、Lovable)に、WCAGのAA基準を満たすウェブサイトを3つ作るという同じ課題を与えた。15サイトはすべてWCAGレベルAに不合格で、ページあたりの問題は平均55件と、一般的なサイトの62件に近かった。問題の91%は中程度か高い深刻度だった。"
+                "x": "開発したのはSt. Gallen, Switzerland（スイス・ザンクトガレン）のAWV Informatikだ。基盤となるCADであるClassCADは「headless nurbs modeller」をうたい、ネイティブで動くほか、WebAssembly（WASM）として完全に組み込むこともでき、JS/TS、Python、C++で同じAPIを使える。パラメトリックなモデル再計算、拘束付きスケッチ、STEPモデルを必要とするあらゆる製品やアプリを動かせる。"
               },
               {
                 "t": "p",
-                "x": "それでもAIツールを使うチームの81%は、AI-generatedコードがアクセシビリティ指針を満たしていると確信している。そのうち50%は、AI導入後に問題や苦情が増えたと感じている。"
+                "x": "開発者には二つのAPIs（API）が用意される。フィーチャー単位で動作し、そこから生まれるボディを追跡するPart APIは構造化されたパラメトリック部品向けで、ボディそのものを扱うSolid APIは履歴を持たずコードで作るカスタム部品向けである。"
               },
               {
                 "t": "p",
-                "x": "AIを使う調査対象組織の46%が、過去24カ月にアクセシビリティに関する苦情、要求書、訴訟のいずれかを受けた。筆者はAudioEye CEOのKelly Georgevichである。"
+                "x": "AIレイヤーの利用にCADモデリングの経験はほとんど要らない。ユーザーが自分のフロンティアモデルにClassCAD.aiのサイトを見せると、モデルがMCPをインストールし、エージェントはCADの専門家になる。モデルのコンテキストはユーザーのシステム上にローカルで保持される。要望を入力したり話したりする方法から要件リストをアップロードする方法まで対応し、作ったモデルは従来のCADへ書き出せる。ある例では、AliExpressで買う電子部品のリストを渡し、筐体を作るよう依頼した。"
+              },
+              {
+                "t": "p",
+                "x": "現在、非商用利用は無料で、商用ライセンスは100 CHFからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "15个AI-built网站\n无障碍测试全不合格",
-          "body": "AudioEye研究中，五款AI工具搭建的15个网站全部未达到WCAG A级标准。",
-          "mini_headline": "AI-built网站无障碍不合格",
+          "headline": "ClassCAD.ai：\n让AI智能体做CAD建模",
+          "body": "ClassCAD.ai作为独立MCP上线，可在Claude或Codex中构建CAD模型。",
+          "mini_headline": "ClassCAD.ai把CAD带入MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
               },
               {
                 "t": "p",
-                "x": "JetBrains调查显示，十分之九的开发者在工作中至少使用一种AI工具，但AI编程工具的学习素材大多来自缺乏无障碍设计的网页。WebAIM最新报告发现，每页平均问题数同比上升10%，并指出AI-assisted代码可能是原因之一。"
+                "x": "ClassCAD.ai正式推出，定位为AI-driven（AI驱动）的可嵌入式CAD：一个能在Claude或Codex环境中构建CAD的独立MCP，可用作协作自动化层、快速对话式原型沙盒，或定制的内部工具。"
               },
               {
                 "t": "p",
-                "x": "AudioEye给五款AI工具（OpenAI、Anthropic、Google、xAI和Lovable）布置了同样的任务：搭建三个符合WCAG AA标准的网站。15个网站全部未通过WCAG Level A，每页平均有55个问题，接近普通网站的62个。其中91%的问题属于中等或高严重度。"
+                "x": "它由位于St. Gallen, Switzerland（瑞士圣加仑）的AWV Informatik开发。底层CAD ClassCAD号称“headless nurbs modeller”，既可原生运行，也可作为WebAssembly（WASM）完全嵌入，并在JS/TS、Python和C++中提供相同的API。任何需要参数化模型重算、约束草图和STEP模型的产品或应用，都可以由它驱动。"
               },
               {
                 "t": "p",
-                "x": "然而，使用AI工具的团队中有81%确信其AI-generated代码符合无障碍指南，而这些团队中有50%注意到引入AI后问题和投诉增多。"
+                "x": "开发者可使用两套APIs（API）：Part API基于特征工作并追踪特征生成的实体，适用于结构化的参数化零件；Solid API直接作用于实体本身，适用于不带历史记录、由代码构建的定制零件。"
               },
               {
                 "t": "p",
-                "x": "受访的使用AI的组织中，46%在过去24个月里收到过无障碍相关的投诉、律师函或诉讼。本文作者为AudioEye CEO Kelly Georgevich。"
+                "x": "使用这一AI层几乎不需要CAD建模经验。用户向自己的前沿模型展示ClassCAD.ai网站，模型便会安装MCP，智能体随即成为CAD专家，模型上下文则保存在用户本地系统中。从输入或口述需求到上传需求清单，它都能构建可导出到传统CAD的模型；在一个示例中，它收到一份AliExpress电子元件购物清单，并被要求据此制作外壳。"
+              },
+              {
+                "t": "p",
+                "x": "目前非商业用途免费；商业许可起价为100 CHF。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los 15 sitios AI-built\nno superaron la accesibilidad",
-          "body": "En un estudio de AudioEye, los 15 sitios creados por cinco herramientas de IA no superaron el nivel A de WCAG.",
-          "mini_headline": "Sitios AI-built suspenden en accesibilidad",
+          "headline": "ClassCAD.ai lleva el CAD\na los agentes de AI",
+          "body": "ClassCAD.ai se lanza como un CAD con AI integrable, un MCP autónomo que crea modelos CAD dentro de Claude o Codex.",
+          "mini_headline": "ClassCAD.ai lleva el CAD a MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
               },
               {
                 "t": "p",
-                "x": "Nueve de cada 10 desarrolladores usan al menos una herramienta de IA en el trabajo, según una encuesta de JetBrains, pero las herramientas de programación con IA aprendieron de una web en gran parte inaccesible. El último informe de WebAIM halló que el promedio de problemas por página subió un 10% interanual y señaló el código AI-assisted como probable causa."
+                "x": "ClassCAD.ai se ha lanzado como un CAD integrable impulsado por AI (AI-driven): un MCP autónomo capaz de construir CAD en tu entorno de Claude o Codex, útil como capa de automatización colaborativa, como entorno de pruebas para prototipos rápidos mediante conversación o como herramienta interna personalizada."
               },
               {
                 "t": "p",
-                "x": "AudioEye dio a cinco herramientas de IA (OpenAI, Anthropic, Google, xAI y Lovable) el mismo encargo: crear tres sitios web que cumplieran WCAG en el nivel AA. Los 15 sitios fallaron el nivel A de WCAG, con un promedio de 55 problemas por página, cerca de los 62 de un sitio típico. El 91% de los problemas fue de gravedad media o alta."
+                "x": "Lo desarrolla AWV Informatik, con sede en St. Gallen, Switzerland (Suiza). El CAD de base, ClassCAD, se presenta como un 'headless nurbs modeller' que funciona de forma nativa o totalmente integrado como WebAssembly (WASM), con la misma API en JS/TS, Python y C++. Puede impulsar cualquier producto o aplicación que necesite recálculos de modelos paramétricos, bocetos con restricciones y modelos STEP."
               },
               {
                 "t": "p",
-                "x": "Aun así, el 81% de los equipos que usan herramientas de IA confía en que su código AI-generated cumple las pautas de accesibilidad, mientras que el 50% de ese grupo ha notado más problemas y quejas desde que adoptó la IA."
+                "x": "Los desarrolladores disponen de dos APIs: la Part API, que trabaja con operaciones y rastrea los sólidos que generan, para piezas paramétricas estructuradas; y la Solid API, que trabaja directamente sobre los sólidos, para piezas personalizadas creadas desde código sin historial."
               },
               {
                 "t": "p",
-                "x": "El 46% de las organizaciones encuestadas que usan IA recibió una queja, un requerimiento o una demanda por accesibilidad en los últimos 24 meses. El artículo lo firma la CEO de AudioEye, Kelly Georgevich."
+                "x": "La capa de AI requiere poca experiencia en modelado CAD. El usuario muestra a su modelo de frontera el sitio de ClassCAD.ai, donde este instala el MCP y el agente se convierte en experto en CAD, con el contexto del modelo guardado localmente en el sistema del usuario. Desde escribir o dictar una petición hasta subir una lista de requisitos, puede construir un modelo exportable a un CAD tradicional; en un ejemplo, recibió una lista de compra de componentes electrónicos de AliExpress y se le pidió construir una carcasa."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora es gratuito para uso no comercial; la licencia comercial parte de 100 CHF."
               }
             ]
           }
@@ -857,121 +489,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-built 15곳\n모두 접근성 불합격",
-          "body": "AudioEye 조사에서 AI 사이트 15곳이 모두 WCAG A등급에 미달했다.",
-          "mini_headline": "AI-built 사이트, 접근성 낙제",
+          "headline": "ClassCAD.ai,\nAI 에이전트에 CAD",
+          "body": "ClassCAD.ai가 Claude·Codex용 CAD 모델링 MCP로 나왔다.",
+          "mini_headline": "ClassCAD.ai, MCP로 CAD를 잇다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
               },
               {
                 "t": "p",
-                "x": "JetBrains 조사에 따르면 개발자 10명 중 9명이 업무에 AI 도구를 하나 이상 쓰지만, AI 코딩 도구는 대체로 접근성이 떨어지는 웹에서 학습했다. WebAIM의 최신 보고서는 페이지당 평균 문제 수가 전년 대비 10% 늘었다며 AI-assisted 코드를 유력한 원인으로 꼽았다."
+                "x": "ClassCAD.ai가 AI-driven(AI 주도) 임베드형 CAD로 출시됐다. Claude나 Codex 환경 안에서 CAD를 만들 수 있는 독립형 MCP로, 협업 자동화 레이어나 대화형 프로토타이핑을 빠르게 해 보는 샌드박스, 맞춤형 내부 도구로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "AudioEye는 AI 도구 5종(OpenAI, Anthropic, Google, xAI, Lovable)에 같은 과제를 줬다. WCAG AA 기준을 충족하는 웹사이트 3개를 만드는 것이다. 15개 사이트는 모두 WCAG Level A에 미달했고, 페이지당 문제는 평균 55건으로 일반 사이트의 62건에 가까웠다. 문제의 91%는 중간 또는 높은 심각도였다."
+                "x": "개발사는 St. Gallen, Switzerland(스위스 장크트갈렌)에 있는 AWV Informatik이다. 기반 CAD인 ClassCAD는 'headless nurbs modeller'를 표방하며, 네이티브로 실행하거나 WebAssembly(WASM)로 완전히 임베드해 쓸 수 있고 JS/TS, Python, C++에서 같은 API를 제공한다. 파라메트릭 모델 재계산, 구속 조건 스케치, STEP 모델이 필요한 어떤 제품이나 앱도 구동할 수 있다."
               },
               {
                 "t": "p",
-                "x": "그런데도 AI 도구를 쓰는 팀의 81%는 AI-generated 코드가 접근성 가이드라인을 충족한다고 확신했다. 이 가운데 50%는 AI 도입 뒤 문제와 불만이 늘었다고 느꼈다."
+                "x": "개발자에게는 두 가지 APIs(API)가 주어진다. 피처 단위로 작동하며 피처가 만든 바디를 추적하는 Part API는 구조화된 파라메트릭 파트에 쓰고, 바디 자체를 다루는 Solid API는 히스토리 없이 코드로 만드는 맞춤형 파트에 쓴다."
               },
               {
                 "t": "p",
-                "x": "AI를 쓰는 조사 대상 조직의 46%가 지난 24개월 동안 접근성 관련 불만이나 요구서, 소송을 받았다. 이 글은 AudioEye CEO Kelly Georgevich가 썼다."
+                "x": "AI 레이어를 쓰는 데 CAD 모델링 경험은 거의 필요 없다. 사용자가 프런티어 모델에 ClassCAD.ai 사이트를 보여 주면 모델이 MCP를 설치하고 에이전트는 CAD 전문가가 되며, 모델 컨텍스트는 사용자 시스템에 로컬로 보관된다. 요청을 입력하거나 말로 전하는 방식부터 요구사항 목록을 올리는 방식까지 쓸 수 있고, 만든 모델은 기존 CAD로 내보낼 수 있다. 한 예시에서는 AliExpress 전자부품 쇼핑 목록을 주고 하우징을 만들어 달라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "현재 비상업적 용도는 무료이며, 상업용 라이선스는 100 CHF부터다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-built 15件\nアクセシビリティ不合格",
-          "body": "AudioEyeの調査で、AI製の15サイトすべてがWCAGレベルAに不合格だった。",
-          "mini_headline": "AI-builtサイト、アクセシビリティで不合格",
+          "headline": "ClassCAD.ai、\nAIエージェントにCAD",
+          "body": "ClassCAD.aiはClaudeやCodexでCADモデルを作るMCPとして登場した。",
+          "mini_headline": "ClassCAD.ai、MCPでCADを提供",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
               },
               {
                 "t": "p",
-                "x": "JetBrainsの調査では開発者の10人中9人が仕事で少なくとも一つのAIツールを使うが、AIコーディングツールはアクセシビリティの低いウェブから大半を学んできた。WebAIMの最新報告では、ページあたりの平均問題数が前年比10%増え、AI-assistedコードが一因とみられるという。"
+                "x": "ClassCAD.aiが、AI-driven（AI主導）の組み込み型CADとして公開された。ClaudeやCodexの環境内でCADを構築できる自己完結型のMCPで、共同作業向けの自動化レイヤー、対話による素早いプロトタイピングのサンドボックス、あるいは独自の社内ツールとして使える。"
               },
               {
                 "t": "p",
-                "x": "AudioEyeは5つのAIツール(OpenAI、Anthropic、Google、xAI、Lovable)に、WCAGのAA基準を満たすウェブサイトを3つ作るという同じ課題を与えた。15サイトはすべてWCAGレベルAに不合格で、ページあたりの問題は平均55件と、一般的なサイトの62件に近かった。問題の91%は中程度か高い深刻度だった。"
+                "x": "開発したのはSt. Gallen, Switzerland（スイス・ザンクトガレン）のAWV Informatikだ。基盤となるCADであるClassCADは「headless nurbs modeller」をうたい、ネイティブで動くほか、WebAssembly（WASM）として完全に組み込むこともでき、JS/TS、Python、C++で同じAPIを使える。パラメトリックなモデル再計算、拘束付きスケッチ、STEPモデルを必要とするあらゆる製品やアプリを動かせる。"
               },
               {
                 "t": "p",
-                "x": "それでもAIツールを使うチームの81%は、AI-generatedコードがアクセシビリティ指針を満たしていると確信している。そのうち50%は、AI導入後に問題や苦情が増えたと感じている。"
+                "x": "開発者には二つのAPIs（API）が用意される。フィーチャー単位で動作し、そこから生まれるボディを追跡するPart APIは構造化されたパラメトリック部品向けで、ボディそのものを扱うSolid APIは履歴を持たずコードで作るカスタム部品向けである。"
               },
               {
                 "t": "p",
-                "x": "AIを使う調査対象組織の46%が、過去24カ月にアクセシビリティに関する苦情、要求書、訴訟のいずれかを受けた。筆者はAudioEye CEOのKelly Georgevichである。"
+                "x": "AIレイヤーの利用にCADモデリングの経験はほとんど要らない。ユーザーが自分のフロンティアモデルにClassCAD.aiのサイトを見せると、モデルがMCPをインストールし、エージェントはCADの専門家になる。モデルのコンテキストはユーザーのシステム上にローカルで保持される。要望を入力したり話したりする方法から要件リストをアップロードする方法まで対応し、作ったモデルは従来のCADへ書き出せる。ある例では、AliExpressで買う電子部品のリストを渡し、筐体を作るよう依頼した。"
+              },
+              {
+                "t": "p",
+                "x": "現在、非商用利用は無料で、商用ライセンスは100 CHFからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "15个AI-built网站\n无障碍测试全不合格",
-          "body": "AudioEye研究中，五款AI工具搭建的15个网站全部未达到WCAG A级标准。",
-          "mini_headline": "AI-built网站无障碍不合格",
+          "headline": "ClassCAD.ai：\n让AI智能体做CAD建模",
+          "body": "ClassCAD.ai作为独立MCP上线，可在Claude或Codex中构建CAD模型。",
+          "mini_headline": "ClassCAD.ai把CAD带入MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
               },
               {
                 "t": "p",
-                "x": "JetBrains调查显示，十分之九的开发者在工作中至少使用一种AI工具，但AI编程工具的学习素材大多来自缺乏无障碍设计的网页。WebAIM最新报告发现，每页平均问题数同比上升10%，并指出AI-assisted代码可能是原因之一。"
+                "x": "ClassCAD.ai正式推出，定位为AI-driven（AI驱动）的可嵌入式CAD：一个能在Claude或Codex环境中构建CAD的独立MCP，可用作协作自动化层、快速对话式原型沙盒，或定制的内部工具。"
               },
               {
                 "t": "p",
-                "x": "AudioEye给五款AI工具（OpenAI、Anthropic、Google、xAI和Lovable）布置了同样的任务：搭建三个符合WCAG AA标准的网站。15个网站全部未通过WCAG Level A，每页平均有55个问题，接近普通网站的62个。其中91%的问题属于中等或高严重度。"
+                "x": "它由位于St. Gallen, Switzerland（瑞士圣加仑）的AWV Informatik开发。底层CAD ClassCAD号称“headless nurbs modeller”，既可原生运行，也可作为WebAssembly（WASM）完全嵌入，并在JS/TS、Python和C++中提供相同的API。任何需要参数化模型重算、约束草图和STEP模型的产品或应用，都可以由它驱动。"
               },
               {
                 "t": "p",
-                "x": "然而，使用AI工具的团队中有81%确信其AI-generated代码符合无障碍指南，而这些团队中有50%注意到引入AI后问题和投诉增多。"
+                "x": "开发者可使用两套APIs（API）：Part API基于特征工作并追踪特征生成的实体，适用于结构化的参数化零件；Solid API直接作用于实体本身，适用于不带历史记录、由代码构建的定制零件。"
               },
               {
                 "t": "p",
-                "x": "受访的使用AI的组织中，46%在过去24个月里收到过无障碍相关的投诉、律师函或诉讼。本文作者为AudioEye CEO Kelly Georgevich。"
+                "x": "使用这一AI层几乎不需要CAD建模经验。用户向自己的前沿模型展示ClassCAD.ai网站，模型便会安装MCP，智能体随即成为CAD专家，模型上下文则保存在用户本地系统中。从输入或口述需求到上传需求清单，它都能构建可导出到传统CAD的模型；在一个示例中，它收到一份AliExpress电子元件购物清单，并被要求据此制作外壳。"
+              },
+              {
+                "t": "p",
+                "x": "目前非商业用途免费；商业许可起价为100 CHF。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los 15 sitios AI-built\nno superaron la accesibilidad",
-          "body": "En un estudio de AudioEye, los 15 sitios creados por cinco herramientas de IA no superaron el nivel A de WCAG.",
-          "mini_headline": "Sitios AI-built suspenden en accesibilidad",
+          "headline": "ClassCAD.ai lleva el CAD\na los agentes de AI",
+          "body": "ClassCAD.ai se lanza como un CAD con AI integrable, un MCP autónomo que crea modelos CAD dentro de Claude o Codex.",
+          "mini_headline": "ClassCAD.ai lleva el CAD a MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/jdtwqhzvc2n1/3x7ad77VOMyvtdZTz5fIEj/db9234e60ce5f0937eb69d9eac9cf087/Fail_Image.AudioEye.png"
+                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
               },
               {
                 "t": "p",
-                "x": "Nueve de cada 10 desarrolladores usan al menos una herramienta de IA en el trabajo, según una encuesta de JetBrains, pero las herramientas de programación con IA aprendieron de una web en gran parte inaccesible. El último informe de WebAIM halló que el promedio de problemas por página subió un 10% interanual y señaló el código AI-assisted como probable causa."
+                "x": "ClassCAD.ai se ha lanzado como un CAD integrable impulsado por AI (AI-driven): un MCP autónomo capaz de construir CAD en tu entorno de Claude o Codex, útil como capa de automatización colaborativa, como entorno de pruebas para prototipos rápidos mediante conversación o como herramienta interna personalizada."
               },
               {
                 "t": "p",
-                "x": "AudioEye dio a cinco herramientas de IA (OpenAI, Anthropic, Google, xAI y Lovable) el mismo encargo: crear tres sitios web que cumplieran WCAG en el nivel AA. Los 15 sitios fallaron el nivel A de WCAG, con un promedio de 55 problemas por página, cerca de los 62 de un sitio típico. El 91% de los problemas fue de gravedad media o alta."
+                "x": "Lo desarrolla AWV Informatik, con sede en St. Gallen, Switzerland (Suiza). El CAD de base, ClassCAD, se presenta como un 'headless nurbs modeller' que funciona de forma nativa o totalmente integrado como WebAssembly (WASM), con la misma API en JS/TS, Python y C++. Puede impulsar cualquier producto o aplicación que necesite recálculos de modelos paramétricos, bocetos con restricciones y modelos STEP."
               },
               {
                 "t": "p",
-                "x": "Aun así, el 81% de los equipos que usan herramientas de IA confía en que su código AI-generated cumple las pautas de accesibilidad, mientras que el 50% de ese grupo ha notado más problemas y quejas desde que adoptó la IA."
+                "x": "Los desarrolladores disponen de dos APIs: la Part API, que trabaja con operaciones y rastrea los sólidos que generan, para piezas paramétricas estructuradas; y la Solid API, que trabaja directamente sobre los sólidos, para piezas personalizadas creadas desde código sin historial."
               },
               {
                 "t": "p",
-                "x": "El 46% de las organizaciones encuestadas que usan IA recibió una queja, un requerimiento o una demanda por accesibilidad en los últimos 24 meses. El artículo lo firma la CEO de AudioEye, Kelly Georgevich."
+                "x": "La capa de AI requiere poca experiencia en modelado CAD. El usuario muestra a su modelo de frontera el sitio de ClassCAD.ai, donde este instala el MCP y el agente se convierte en experto en CAD, con el contexto del modelo guardado localmente en el sistema del usuario. Desde escribir o dictar una petición hasta subir una lista de requisitos, puede construir un modelo exportable a un CAD tradicional; en un ejemplo, recibió una lista de compra de componentes electrónicos de AliExpress y se le pidió construir una carcasa."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora es gratuito para uso no comercial; la licencia comercial parte de 100 CHF."
               }
             ]
           }
@@ -979,427 +627,15 @@
       }
     },
     {
-      "id": "figma-weave-campaign",
+      "id": "infoq-regeneratable-ui",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma Weave로\n디자인 시스템을 캠페인으로",
-      "body": "Figma가 Weave로 원자료를 캠페인 자료로 바꾸는 과정을 보여줬다.",
-      "mini_headline": "Weave로 캠페인 에셋 제작",
-      "tool": "Figma",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-          },
-          {
-            "t": "p",
-            "x": "브랜드 디자이너가 쓰는 구성 요소는 서체, 색, 레이아웃처럼 프로덕트 디자이너와 겹치는 것이 많다. 이번 Workflow Lab에서는 가상의 Museum of Speculative Futures(MOSF) 디자이너가 Figma Design의 디자인 시스템을 Figma Weave로 가져온다. 그리고 포스터와 빌보드, 소셜 게시물로 전시 캠페인을 꾸린다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-            "cap": "Weave에 넣은 브랜드 디자이너의 요소와 MOSF 디자인 시스템"
-          },
-          {
-            "t": "p",
-            "x": "레이아웃과 스와치 프레임은 Figma 노드로 Weave 캔버스에 붙여 넣은 뒤 Image Describer에 연결한다. 전시 설치물 사진도 같은 과정을 거친다. 여기에 Gen Effect 노드가 이미지를 한 단계 더 밀어붙여 돌릴 때마다 결과가 조금씩 달라진다."
-          },
-          {
-            "t": "p",
-            "x": "Figma 노드는 이미지마다 편집 가능한 텍스트를 붙여 Figma Design 프레임으로 돌려보낸다. 소셜 게시물은 프랑스어, 독일어, 일본어, 포르투갈어 시장에 맞춰 현지화한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-            "cap": "전시 포스터"
-          },
-          {
-            "t": "p",
-            "x": "Figma 노드는 계속 연결된 상태라 새 컬러 토큰이나 타입 스타일을 추가하면 Figma 프레임과 Weave 노드가 함께 갱신되고 베이스라인도 다시 실행된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "From design system to\ncampaign in Figma Weave",
-          "body": "Figma's Workflow Lab shows how to turn raw materials into campaign collateral with Weave's Gen Effect and Figma nodes.",
-          "mini_headline": "Weave builds campaign assets",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Brand designers use many of the same building blocks as product designers, such as type, color and layout. In this Workflow Lab, a designer at the fictional Museum of Speculative Futures (MOSF) brings the design system from Figma Design into Figma Weave to build an exhibition campaign: a poster, a billboard and social posts."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Elements from the brand designer and the MOSF design system used as input in Weave"
-              },
-              {
-                "t": "p",
-                "x": "Layout and swatch frames are pasted onto the Weave canvas as Figma nodes and connected to an Image Describer. Photos of the exhibition installations run through the same setup, and the Gen Effect node pushes the imagery further, returning something slightly different each run."
-              },
-              {
-                "t": "p",
-                "x": "The Figma node sends each image back into Figma Design frames with editable text, and social posts are localized for French, German, Japanese and Portuguese markets."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "The exhibition poster"
-              },
-              {
-                "t": "p",
-                "x": "Because the Figma nodes stay connected, a new color token or type style updates the frame in Figma, the node in Weave, and reruns the baseline."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Figma Weave로\n디자인 시스템을 캠페인으로",
-          "body": "Figma가 Weave로 원자료를 캠페인 자료로 바꾸는 과정을 보여줬다.",
-          "mini_headline": "Weave로 캠페인 에셋 제작",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "브랜드 디자이너가 쓰는 구성 요소는 서체, 색, 레이아웃처럼 프로덕트 디자이너와 겹치는 것이 많다. 이번 Workflow Lab에서는 가상의 Museum of Speculative Futures(MOSF) 디자이너가 Figma Design의 디자인 시스템을 Figma Weave로 가져온다. 그리고 포스터와 빌보드, 소셜 게시물로 전시 캠페인을 꾸린다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Weave에 넣은 브랜드 디자이너의 요소와 MOSF 디자인 시스템"
-              },
-              {
-                "t": "p",
-                "x": "레이아웃과 스와치 프레임은 Figma 노드로 Weave 캔버스에 붙여 넣은 뒤 Image Describer에 연결한다. 전시 설치물 사진도 같은 과정을 거친다. 여기에 Gen Effect 노드가 이미지를 한 단계 더 밀어붙여 돌릴 때마다 결과가 조금씩 달라진다."
-              },
-              {
-                "t": "p",
-                "x": "Figma 노드는 이미지마다 편집 가능한 텍스트를 붙여 Figma Design 프레임으로 돌려보낸다. 소셜 게시물은 프랑스어, 독일어, 일본어, 포르투갈어 시장에 맞춰 현지화한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "전시 포스터"
-              },
-              {
-                "t": "p",
-                "x": "Figma 노드는 계속 연결된 상태라 새 컬러 토큰이나 타입 스타일을 추가하면 Figma 프레임과 Weave 노드가 함께 갱신되고 베이스라인도 다시 실행된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "デザインシステムから\nWeaveでキャンペーンへ",
-          "body": "Figmaが、Weaveで素材をキャンペーン制作物に仕上げる手順を紹介した。",
-          "mini_headline": "Weaveでキャンペーン素材を制作",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "ブランドデザイナーは、書体や色、レイアウトなど、プロダクトデザイナーと同じ構成要素の多くを使う。今回のWorkflow Labでは、架空のMuseum of Speculative Futures（MOSF）のデザイナーが、Figma DesignのデザインシステムをFigma Weaveに持ち込み、ポスター、ビルボード、SNS投稿からなる展覧会キャンペーンを制作する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Weaveへの入力に使った、ブランドデザイナーの素材とMOSFデザインシステムの要素"
-              },
-              {
-                "t": "p",
-                "x": "レイアウトとスウォッチのフレームをFigmaノードとしてWeaveのキャンバスに貼り付け、Image Describerにつなぐ。展示インスタレーションの写真も同じ構成に通し、Gen Effectノードが画像をさらに押し広げ、実行のたびに少しずつ異なる結果を返す。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaノードは各画像を、編集可能なテキストを備えたFigma Designのフレームに戻し、SNS投稿はフランス語、ドイツ語、日本語、ポルトガル語の市場向けにローカライズされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "展覧会のポスター"
-              },
-              {
-                "t": "p",
-                "x": "Figmaノードは接続されたままなので、新しいカラートークンや文字スタイルを加えると、Figma上のフレームとWeave上のノードが更新され、ベースラインも再実行される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "从设计系统到营销活动\n尽在Figma Weave",
-          "body": "Figma演示如何在Weave中用Gen Effect把原始素材做成营销物料。",
-          "mini_headline": "Weave制作营销素材",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "品牌设计师与产品设计师使用的许多基本元素相同，比如字体、色彩和版式。在这期Workflow Lab中，虚构的Museum of Speculative Futures（MOSF）的一位设计师把Figma Design中的设计系统带入Figma Weave，制作一场展览的营销活动：一张海报、一块广告牌和若干社交媒体帖子。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "作为Weave输入的品牌设计师素材与MOSF设计系统元素"
-              },
-              {
-                "t": "p",
-                "x": "版式和色板框架以Figma节点的形式粘贴到Weave画布上，并连接到Image Describer。展览装置的照片也经过同样的流程，Gen Effect节点会进一步推进图像效果，每次运行的结果都略有不同。"
-              },
-              {
-                "t": "p",
-                "x": "Figma节点将每张图像送回带可编辑文字的Figma Design框架中，社交媒体帖子则针对法语、德语、日语和葡萄牙语市场进行本地化。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "展览海报"
-              },
-              {
-                "t": "p",
-                "x": "由于Figma节点保持连接，新增颜色令牌或字体样式会同时更新Figma中的框架和Weave中的节点，并重新运行基线。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Del sistema de diseño a la\ncampaña en Figma Weave",
-          "body": "El Workflow Lab de Figma enseña a convertir materiales en piezas de campaña con Gen Effect de Weave y nodos de Figma.",
-          "mini_headline": "Weave crea piezas de campaña",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Los diseñadores de marca usan muchos de los mismos elementos básicos que los diseñadores de producto, como la tipografía, el color y la maquetación. En este Workflow Lab, un diseñador del ficticio Museum of Speculative Futures (MOSF) lleva el sistema de diseño de Figma Design a Figma Weave para crear la campaña de una exposición: un cartel, una valla publicitaria y publicaciones para redes sociales."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Elementos del diseñador de marca y del sistema de diseño de MOSF usados como entrada en Weave"
-              },
-              {
-                "t": "p",
-                "x": "Los marcos de maquetación y de muestras de color se pegan en el lienzo de Weave como nodos de Figma y se conectan a un Image Describer. Las fotos de las instalaciones de la exposición pasan por la misma configuración, y el nodo Gen Effect lleva las imágenes más lejos y devuelve algo ligeramente distinto en cada ejecución."
-              },
-              {
-                "t": "p",
-                "x": "El nodo de Figma devuelve cada imagen a marcos de Figma Design con texto editable, y las publicaciones para redes se localizan para los mercados francés, alemán, japonés y portugués."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "El cartel de la exposición"
-              },
-              {
-                "t": "p",
-                "x": "Como los nodos de Figma siguen conectados, un nuevo token de color o estilo tipográfico actualiza el marco en Figma y el nodo en Weave, y vuelve a ejecutar la base."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Figma Weave로\n디자인 시스템을 캠페인으로",
-          "body": "Figma가 Weave로 원자료를 캠페인 자료로 바꾸는 과정을 보여줬다.",
-          "mini_headline": "Weave로 캠페인 에셋 제작",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "브랜드 디자이너는 서체, 색, 레이아웃처럼 프로덕트 디자이너와 같은 구성 요소를 상당수 쓴다. 이번 Workflow Lab에서는 가상의 Museum of Speculative Futures(MOSF) 디자이너가 Figma Design의 디자인 시스템을 Figma Weave로 가져와 포스터, 빌보드, 소셜 게시물로 이뤄진 전시 캠페인을 만든다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Weave에 입력으로 쓴 브랜드 디자이너의 요소와 MOSF 디자인 시스템"
-              },
-              {
-                "t": "p",
-                "x": "레이아웃과 스와치 프레임을 Figma 노드로 Weave 캔버스에 붙여 넣고 Image Describer에 연결한다. 전시 설치물 사진도 같은 구성을 거치고, Gen Effect 노드가 이미지를 한층 더 밀어붙여 실행할 때마다 조금씩 다른 결과를 낸다."
-              },
-              {
-                "t": "p",
-                "x": "Figma 노드는 각 이미지를 편집 가능한 텍스트와 함께 Figma Design 프레임으로 돌려보내고, 소셜 게시물은 프랑스어, 독일어, 일본어, 포르투갈어 시장에 맞게 현지화한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "전시 포스터"
-              },
-              {
-                "t": "p",
-                "x": "Figma 노드가 계속 연결돼 있어 새 컬러 토큰이나 타입 스타일을 추가하면 Figma의 프레임과 Weave의 노드가 갱신되고 베이스라인도 다시 실행된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "デザインシステムから\nWeaveでキャンペーンへ",
-          "body": "Figmaが、Weaveで素材をキャンペーン制作物に仕上げる手順を紹介した。",
-          "mini_headline": "Weaveでキャンペーン素材を制作",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "ブランドデザイナーは、書体や色、レイアウトなど、プロダクトデザイナーと同じ構成要素の多くを使う。今回のWorkflow Labでは、架空のMuseum of Speculative Futures（MOSF）のデザイナーが、Figma DesignのデザインシステムをFigma Weaveに持ち込み、ポスター、ビルボード、SNS投稿からなる展覧会キャンペーンを制作する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Weaveへの入力に使った、ブランドデザイナーの素材とMOSFデザインシステムの要素"
-              },
-              {
-                "t": "p",
-                "x": "レイアウトとスウォッチのフレームをFigmaノードとしてWeaveのキャンバスに貼り付け、Image Describerにつなぐ。展示インスタレーションの写真も同じ構成に通し、Gen Effectノードが画像をさらに押し広げ、実行のたびに少しずつ異なる結果を返す。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaノードは各画像を、編集可能なテキストを備えたFigma Designのフレームに戻し、SNS投稿はフランス語、ドイツ語、日本語、ポルトガル語の市場向けにローカライズされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "展覧会のポスター"
-              },
-              {
-                "t": "p",
-                "x": "Figmaノードは接続されたままなので、新しいカラートークンや文字スタイルを加えると、Figma上のフレームとWeave上のノードが更新され、ベースラインも再実行される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "从设计系统到营销活动\n尽在Figma Weave",
-          "body": "Figma演示如何在Weave中用Gen Effect把原始素材做成营销物料。",
-          "mini_headline": "Weave制作营销素材",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "品牌设计师与产品设计师使用的许多基本元素相同，比如字体、色彩和版式。在这期Workflow Lab中，虚构的Museum of Speculative Futures（MOSF）的一位设计师把Figma Design中的设计系统带入Figma Weave，制作一场展览的营销活动：一张海报、一块广告牌和若干社交媒体帖子。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "作为Weave输入的品牌设计师素材与MOSF设计系统元素"
-              },
-              {
-                "t": "p",
-                "x": "版式和色板框架以Figma节点的形式粘贴到Weave画布上，并连接到Image Describer。展览装置的照片也经过同样的流程，Gen Effect节点会进一步推进图像效果，每次运行的结果都略有不同。"
-              },
-              {
-                "t": "p",
-                "x": "Figma节点将每张图像送回带可编辑文字的Figma Design框架中，社交媒体帖子则针对法语、德语、日语和葡萄牙语市场进行本地化。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "展览海报"
-              },
-              {
-                "t": "p",
-                "x": "由于Figma节点保持连接，新增颜色令牌或字体样式会同时更新Figma中的框架和Weave中的节点，并重新运行基线。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Del sistema de diseño a la\ncampaña en Figma Weave",
-          "body": "El Workflow Lab de Figma enseña a convertir materiales en piezas de campaña con Gen Effect de Weave y nodos de Figma.",
-          "mini_headline": "Weave crea piezas de campaña",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/be37944153bf6c247bcbc5e778270b950f2a8d1f-1056x704.jpg?w=1200&q=70&fit=max&auto=format"
-              },
-              {
-                "t": "p",
-                "x": "Los diseñadores de marca usan muchos de los mismos elementos básicos que los diseñadores de producto, como la tipografía, el color y la maquetación. En este Workflow Lab, un diseñador del ficticio Museum of Speculative Futures (MOSF) lleva el sistema de diseño de Figma Design a Figma Weave para crear la campaña de una exposición: un cartel, una valla publicitaria y publicaciones para redes sociales."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ab7862cebefe505100f32cae3bfeb43fa0252e13-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Elementos del diseñador de marca y del sistema de diseño de MOSF usados como entrada en Weave"
-              },
-              {
-                "t": "p",
-                "x": "Los marcos de maquetación y de muestras de color se pegan en el lienzo de Weave como nodos de Figma y se conectan a un Image Describer. Las fotos de las instalaciones de la exposición pasan por la misma configuración, y el nodo Gen Effect lleva las imágenes más lejos y devuelve algo ligeramente distinto en cada ejecución."
-              },
-              {
-                "t": "p",
-                "x": "El nodo de Figma devuelve cada imagen a marcos de Figma Design con texto editable, y las publicaciones para redes se localizan para los mercados francés, alemán, japonés y portugués."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/71a7b00ed030c7804ed2599e4ed45b4ca0704e51-1056x594.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "El cartel de la exposición"
-              },
-              {
-                "t": "p",
-                "x": "Como los nodos de Figma siguen conectados, un nuevo token de color o estilo tipográfico actualiza el marco en Figma y el nodo en Weave, y vuelve a ejecutar la base."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "headless-ai-platform",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "헤드리스 AI가\n모든 제품을 플랫폼으로",
-      "body": "에이전트는 인터페이스 이상이라 디자인의 무게가 제품 밑 계약으로 옮겨간다.",
-      "mini_headline": "헤드리스 AI를 위한 디자인",
+      "headline": "공유 UI 라이브러리,\n재사용에서 재생성으로",
+      "body": "모델이 표준 UI를 즉석에서 다시 만들면 일관성은 토큰·가이드라인·테스트가 맡는다.",
+      "mini_headline": "UI 라이브러리, 재생성의 시대",
       "tool": "Design Tokens",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7",
+      "source": "InfoQ",
+      "url": "https://www.infoq.com/articles/regeneratable-ui-component-library/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1407,197 +643,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+            "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
           },
           {
             "t": "p",
-            "x": "채팅은 끝까지 인터페이스에 머문다. 에이전트는 다르다. 디자인 작업도 제품 아래의 계약으로 옮겨갔다. DataDome이 2026년 Q2에 집계한 AI 에이전트 요청은 177억 건으로 직전 분기보다 45% 늘었다."
+            "x": "지난 10년간 정석은 전사 공통 컴포넌트 라이브러리를 만드는 것이었다. Griffiths Waite의 Daniel Curtis는 이제 코딩 에이전트가 스타일과 어느 정도의 접근성을 갖춘 컴포넌트를 금세 만들어 내므로, 정본 라이브러리 하나가 주는 이득이 예전만 못하다고 본다. 중앙에서 관리할 가치는 배포된 컴포넌트 코드가 아니라 디자인 시스템, 토큰, 가이드라인, 테스트에 있다."
           },
           {
             "t": "p",
-            "x": "헤드리스 AI에서 UI는 제품이 아니라 여러 클라이언트 중 하나다. 필자는 30일치 요청을 분류하고 에이전트 호출을 여정 순서대로 엮어 보라고 권한다. 재시도 루프는 혼란의 신호다. 이탈 직전마다 나오는 호출은 막다른 길이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+            "x": "공유 라이브러리는 재사용, 일관성, 코드에 담긴 전문성, 단일 진실 공급원이라는 네 가지 약속을 한데 묶었다. 그중 배포된 코드가 있어야 하는 건 재사용과 코드에 담긴 전문성뿐인데, 바로 여기를 이제 AI가 거든다. 진짜 비용은 늘 유지보수였다. 버전 관리, 마이그레이션, 변형의 난립, 흐지부지되는 소유권 말이다."
           },
           {
             "t": "p",
-            "x": "APIs와 웹훅, MCP 서버까지 제품으로 들어오는 문을 모두 지도로 그려야 한다. 인터페이스에만 있던 제약은 애초에 제약이 아니었다. 지금 필요한 건 서비스 디자인에 API 이해력을 더한 역량이다. 필드 이름과 스코프, 모델이 읽는 도구 설명이 모두 여기에 든다."
+            "x": "그가 제안하는 모델은 이렇다. 토큰이 진실 공급원이 되고, 기계가 읽을 수 있는 가이드라인과 엔지니어링 원칙은 에이전트가 생성할 때 따르는 명세가 되며, 시각 회귀·접근성·토큰 준수 테스트가 결과를 검증한다. 버전 관리는 스택 위쪽, 곧 이 규칙들로 올라간다."
           },
           {
             "t": "p",
-            "x": "에이전트가 마주하는 복구 인터페이스는 오류 문자열이 전부다. 그러니 부분 성공과 멱등 쓰기, 명시적 확인을 염두에 두고 설계해야 한다. 성과도 페이지 조회수가 아니라 작업 완료율로 잰다."
+            "x": "기본값에 맡기면 모델은 밋밋한 평균으로 수렴한다. 그래서 관점이 뚜렷한 디자인 시스템이 차별화 요소가 된다. 다만 접근성, 그리고 데이터 그리드·콤보박스·날짜 선택기처럼 정말 까다로운 위젯만큼은 여전히 엄선한 공유 코드로 일부 유지할 만하다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Headless AI turns every\nproduct into a platform",
-          "body": "Because agents, unlike chat, are not just an interface, design work moves to the contract underneath the product.",
-          "mini_headline": "Designing for headless AI",
+          "headline": "Shared UI libraries move from\nreusable to regeneratable",
+          "body": "With models regenerating standard UI on demand, consistency now comes from central tokens, guidelines and tests.",
+          "mini_headline": "UI libraries, regenerated",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
               },
               {
                 "t": "p",
-                "x": "Chat will always be just an interface. Agents are not, and the design work has moved to the contract underneath your product. DataDome counted 17.7 billion AI agent requests in Q2 2026, up 45% from the quarter before."
+                "x": "For a decade the standard advice was to build a company-wide component library. Daniel Curtis of Griffiths Waite argues that when a coding agent can quickly produce a styled, more-or-less accessible component, one canonical library buys less than it once did. What is worth centralizing is the design system, the tokens, the guidelines and the tests, not the shipped component code."
               },
               {
                 "t": "p",
-                "x": "In headless AI, the UI becomes a client rather than the product. The author suggests sorting 30 days of requests and sequencing agent calls into journeys: a retry loop is confusion, a call that always precedes an abandon is a dead end."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+                "x": "A shared library bundled four promises: reuse, consistency, encoded expertise and a single source of truth. Only reuse and encoded expertise needed shipped code, and those are the parts AI can now help with. The real bill was always maintenance: versioning, migrations, variant sprawl and ownership that slips."
               },
               {
                 "t": "p",
-                "x": "Map every door into the product, including APIs, webhooks and MCP servers; constraints that lived only in the interface were never really constraints. The craft is service design plus API literacy: field names, scopes and the tool description a model reads."
+                "x": "The proposed model: tokens as the source of truth, machine-readable guidelines and engineering principles as the spec an agent generates from, and verification through visual-regression, accessibility and token-conformance tests. Versioning moves up the stack to those rules."
               },
               {
                 "t": "p",
-                "x": "Error strings become the only recovery interface an agent sees, so design for partial success, idempotent writes and explicit confirmation, and measure task completion rather than page views."
+                "x": "Left to defaults, models converge on a bland average, so an opinionated design system becomes a differentiator. Accessibility and genuinely hard widgets such as data grids, comboboxes and date pickers are still reasons to keep some curated, shared code."
               }
             ]
           }
         },
         "ko": {
-          "headline": "헤드리스 AI가\n모든 제품을 플랫폼으로",
-          "body": "에이전트는 인터페이스 이상이라 디자인의 무게가 제품 밑 계약으로 옮겨간다.",
-          "mini_headline": "헤드리스 AI를 위한 디자인",
+          "headline": "공유 UI 라이브러리,\n재사용에서 재생성으로",
+          "body": "모델이 표준 UI를 즉석에서 다시 만들면 일관성은 토큰·가이드라인·테스트가 맡는다.",
+          "mini_headline": "UI 라이브러리, 재생성의 시대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
               },
               {
                 "t": "p",
-                "x": "채팅은 끝까지 인터페이스에 머문다. 에이전트는 다르다. 디자인 작업도 제품 아래의 계약으로 옮겨갔다. DataDome이 2026년 Q2에 집계한 AI 에이전트 요청은 177억 건으로 직전 분기보다 45% 늘었다."
+                "x": "지난 10년간 정석은 전사 공통 컴포넌트 라이브러리를 만드는 것이었다. Griffiths Waite의 Daniel Curtis는 이제 코딩 에이전트가 스타일과 어느 정도의 접근성을 갖춘 컴포넌트를 금세 만들어 내므로, 정본 라이브러리 하나가 주는 이득이 예전만 못하다고 본다. 중앙에서 관리할 가치는 배포된 컴포넌트 코드가 아니라 디자인 시스템, 토큰, 가이드라인, 테스트에 있다."
               },
               {
                 "t": "p",
-                "x": "헤드리스 AI에서 UI는 제품이 아니라 여러 클라이언트 중 하나다. 필자는 30일치 요청을 분류하고 에이전트 호출을 여정 순서대로 엮어 보라고 권한다. 재시도 루프는 혼란의 신호다. 이탈 직전마다 나오는 호출은 막다른 길이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+                "x": "공유 라이브러리는 재사용, 일관성, 코드에 담긴 전문성, 단일 진실 공급원이라는 네 가지 약속을 한데 묶었다. 그중 배포된 코드가 있어야 하는 건 재사용과 코드에 담긴 전문성뿐인데, 바로 여기를 이제 AI가 거든다. 진짜 비용은 늘 유지보수였다. 버전 관리, 마이그레이션, 변형의 난립, 흐지부지되는 소유권 말이다."
               },
               {
                 "t": "p",
-                "x": "APIs와 웹훅, MCP 서버까지 제품으로 들어오는 문을 모두 지도로 그려야 한다. 인터페이스에만 있던 제약은 애초에 제약이 아니었다. 지금 필요한 건 서비스 디자인에 API 이해력을 더한 역량이다. 필드 이름과 스코프, 모델이 읽는 도구 설명이 모두 여기에 든다."
+                "x": "그가 제안하는 모델은 이렇다. 토큰이 진실 공급원이 되고, 기계가 읽을 수 있는 가이드라인과 엔지니어링 원칙은 에이전트가 생성할 때 따르는 명세가 되며, 시각 회귀·접근성·토큰 준수 테스트가 결과를 검증한다. 버전 관리는 스택 위쪽, 곧 이 규칙들로 올라간다."
               },
               {
                 "t": "p",
-                "x": "에이전트가 마주하는 복구 인터페이스는 오류 문자열이 전부다. 그러니 부분 성공과 멱등 쓰기, 명시적 확인을 염두에 두고 설계해야 한다. 성과도 페이지 조회수가 아니라 작업 완료율로 잰다."
+                "x": "기본값에 맡기면 모델은 밋밋한 평균으로 수렴한다. 그래서 관점이 뚜렷한 디자인 시스템이 차별화 요소가 된다. 다만 접근성, 그리고 데이터 그리드·콤보박스·날짜 선택기처럼 정말 까다로운 위젯만큼은 여전히 엄선한 공유 코드로 일부 유지할 만하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ヘッドレスAIで\n全製品がプラットフォームに",
-          "body": "エージェントは単なるインターフェースではないため、設計は製品の下の契約へ移る。",
-          "mini_headline": "ヘッドレスAIのための設計",
+          "headline": "共有UIライブラリは\n再利用から再生成へ",
+          "body": "モデルが標準UIを都度再生成する今、一貫性は中央のトークンや指針、テストが担う。",
+          "mini_headline": "UIライブラリは再生成の時代へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
               },
               {
                 "t": "p",
-                "x": "チャットはいつまでも単なるインターフェースだ。エージェントは違い、設計の仕事は製品の下にある契約へ移った。DataDomeは2026年Q2にAIエージェントのリクエストを177億件数え、前四半期から45%増えた。"
+                "x": "この10年、定番の助言は全社共通のコンポーネントライブラリを作ることだった。Griffiths WaiteのDaniel Curtisは、コーディングエージェントがスタイル付きでそこそこアクセシブルなコンポーネントを素早く作れる今、唯一の正統なライブラリから得られるものはかつてより少ないと論じる。中央で管理する価値があるのは、出荷されるコンポーネントのコードではなく、デザインシステム、トークン、ガイドライン、テストだという。"
               },
               {
                 "t": "p",
-                "x": "ヘッドレスAIでは、UIは製品ではなく一つのクライアントになる。筆者は30日分のリクエストを分類し、エージェントの呼び出しをジャーニーとして並べることを勧める。リトライのループは混乱を示し、常に離脱の直前に来る呼び出しは行き止まりだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+                "x": "共有ライブラリは、再利用、一貫性、コード化された専門知識、信頼できる唯一の情報源という4つの約束を束ねていた。出荷コードを必要としたのは再利用とコード化された専門知識だけで、まさにそこをいまAIが手助けできる。本当のコストは常に保守だった。バージョン管理、移行作業、バリアントの乱立、曖昧になっていく所有権である。"
               },
               {
                 "t": "p",
-                "x": "APIs、Webhook、MCPサーバーを含め、製品へのあらゆる入口を洗い出す。インターフェースの中にしかなかった制約は、もともと制約ではなかった。求められる技能は、サービスデザインにAPIリテラシーを加えたものだ。フィールド名、スコープ、そしてモデルが読むツール説明である。"
+                "x": "提案されるモデルはこうだ。トークンを信頼できる情報源とし、機械可読なガイドラインとエンジニアリング原則をエージェントが生成の拠り所とする仕様に据え、ビジュアルリグレッション、アクセシビリティ、トークン準拠のテストで検証する。バージョン管理はスタックの上位、つまりこうしたルールの側へ移る。"
               },
               {
                 "t": "p",
-                "x": "エラー文字列はエージェントにとって唯一の回復用インターフェースになる。だから部分的な成功、冪等な書き込み、明示的な確認を前提に設計し、ページビューではなくタスク完了を測るべきだ。"
+                "x": "デフォルトに任せればモデルは無難な平均に収束するため、明確な主張を持つデザインシステムが差別化要因になる。アクセシビリティと、データグリッド、コンボボックス、日付ピッカーのように本当に難しいウィジェットは、厳選した共有コードを一部残す理由であり続ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "无头AI让每个产品\n都成为平台",
-          "body": "智能体不同于聊天，不只是界面，设计工作因此转向产品底层的契约。",
-          "mini_headline": "为无头AI而设计",
+          "headline": "共享UI组件库\n从可复用到可重生成",
+          "body": "模型可按需重新生成标准UI，一致性如今来自集中的令牌、规范和测试。",
+          "mini_headline": "UI组件库走向再生成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
               },
               {
                 "t": "p",
-                "x": "聊天永远只是一种界面。智能体则不然，设计工作已经转移到产品底层的契约上。DataDome统计，2026年Q2共有177亿次AI智能体请求，比上一季度增长45%。"
+                "x": "十年来，标准建议一直是打造全公司通用的组件库。Griffiths Waite的Daniel Curtis认为，当编码代理能快速生成带样式、大致符合无障碍要求的组件时，一套权威组件库带来的收益已不如从前。真正值得集中管理的是设计系统、令牌、规范和测试，而不是交付出去的组件代码。"
               },
               {
                 "t": "p",
-                "x": "在无头AI中，UI不再是产品本身，而是一个客户端。作者建议把30天的请求分类，并将智能体调用按旅程排序：重试循环意味着困惑，总在放弃之前出现的调用就是死胡同。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+                "x": "共享组件库捆绑了四项承诺：复用、一致性、沉淀的专业经验，以及单一事实来源。其中只有复用和沉淀的专业经验需要交付代码，而这恰恰是AI如今能帮上忙的部分。真正的账单始终是维护：版本管理、迁移、变体泛滥，以及逐渐失守的归属权。"
               },
               {
                 "t": "p",
-                "x": "梳理进入产品的每一扇门，包括APIs、webhook和MCP服务器；只存在于界面里的约束，从来算不上真正的约束。这门手艺是服务设计加上API素养：字段名、权限范围，以及模型读取的工具描述。"
+                "x": "他提出的模式是：以令牌为事实来源，以机器可读的规范和工程原则作为代理生成所依据的规格，并通过视觉回归、无障碍和令牌一致性测试进行验证。版本管理随之上移到这些规则层面。"
               },
               {
                 "t": "p",
-                "x": "错误信息成为智能体能看到的唯一恢复界面，因此要为部分成功、幂等写入和明确确认而设计，并衡量任务完成情况而非页面浏览量。"
+                "x": "放任默认设置，模型会趋向平淡的平均水平，因此有鲜明主张的设计系统会成为差异化因素。无障碍，以及数据表格、组合框、日期选择器等真正棘手的组件，仍是保留部分精选共享代码的理由。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA headless convierte cada\nproducto en una plataforma",
-          "body": "Como los agentes, a diferencia del chat, no son solo una interfaz, el diseño pasa al contrato bajo el producto.",
-          "mini_headline": "Diseñar para la IA headless",
+          "headline": "Bibliotecas de UI compartidas:\nde reutilizables a regenerables",
+          "body": "Con modelos que regeneran la UI estándar a demanda, la coherencia viene ahora de tokens, guías y tests centrales.",
+          "mini_headline": "Bibliotecas de UI, regeneradas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
               },
               {
                 "t": "p",
-                "x": "El chat siempre será solo una interfaz. Los agentes no, y el trabajo de diseño se ha trasladado al contrato que hay bajo el producto. DataDome contabilizó 17.700 millones de solicitudes de agentes de IA en el Q2 de 2026, un 45% más que el trimestre anterior."
+                "x": "Durante una década, el consejo habitual fue crear una biblioteca de componentes para toda la empresa. Daniel Curtis, de Griffiths Waite, sostiene que cuando un agente de programación puede producir con rapidez un componente con estilos y más o menos accesible, una única biblioteca canónica aporta menos que antes. Lo que vale la pena centralizar es el sistema de diseño, los tokens, las guías y los tests, no el código de los componentes publicados."
               },
               {
                 "t": "p",
-                "x": "En la IA headless, la UI pasa a ser un cliente y no el producto. El autor propone clasificar 30 días de solicitudes y ordenar las llamadas de los agentes en recorridos: un bucle de reintentos indica confusión, y una llamada que siempre precede a un abandono es un callejón sin salida."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+                "x": "Una biblioteca compartida reunía cuatro promesas: reutilización, coherencia, conocimiento experto codificado y una única fuente de verdad. Solo la reutilización y el conocimiento experto codificado necesitaban código publicado, y son justo las partes en las que ahora puede ayudar la AI. El verdadero coste siempre fue el mantenimiento: versionado, migraciones, proliferación de variantes y una propiedad que se diluye."
               },
               {
                 "t": "p",
-                "x": "Hay que mapear cada puerta de entrada al producto, incluidas las APIs, los webhooks y los servidores MCP; las restricciones que solo existían en la interfaz nunca fueron restricciones reales. El oficio combina diseño de servicios y dominio de API: nombres de campos, permisos y la descripción de la herramienta que lee un modelo."
+                "x": "El modelo propuesto: los tokens como fuente de verdad; las guías legibles por máquina y los principios de ingeniería como la especificación a partir de la cual genera un agente; y la verificación mediante tests de regresión visual, accesibilidad y conformidad con los tokens. El versionado sube en la pila hasta esas reglas."
               },
               {
                 "t": "p",
-                "x": "Los mensajes de error se convierten en la única interfaz de recuperación que ve un agente, así que conviene diseñar para el éxito parcial, las escrituras idempotentes y la confirmación explícita, y medir la finalización de tareas en lugar de las páginas vistas."
+                "x": "Si se dejan con sus valores por defecto, los modelos convergen en una media insulsa, por lo que un sistema de diseño con criterio propio se convierte en un diferenciador. La accesibilidad y los widgets realmente difíciles, como las tablas de datos, los combobox y los selectores de fecha, siguen siendo motivos para conservar algo de código compartido y cuidado."
               }
             ]
           }
@@ -1605,137 +817,805 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "헤드리스 AI가\n모든 제품을 플랫폼으로",
-          "body": "에이전트는 인터페이스 이상이라 디자인의 무게가 제품 밑 계약으로 옮겨간다.",
-          "mini_headline": "헤드리스 AI를 위한 디자인",
+          "headline": "공유 UI 라이브러리,\n재사용에서 재생성으로",
+          "body": "모델이 표준 UI를 즉석 재생성하면서 일관성은 토큰·가이드라인·테스트에서 나온다.",
+          "mini_headline": "UI 라이브러리, 재생성의 시대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
               },
               {
                 "t": "p",
-                "x": "채팅은 언제까지나 인터페이스일 뿐이다. 에이전트는 다르다. 디자인 작업은 제품 아래의 계약으로 옮겨갔다. DataDome은 2026년 Q2에 AI 에이전트 요청 177억 건을 집계했는데, 직전 분기보다 45% 늘었다."
+                "x": "지난 10년간 표준적인 조언은 전사 공통 컴포넌트 라이브러리를 만들라는 것이었다. Griffiths Waite의 Daniel Curtis는 코딩 에이전트가 스타일을 입히고 어느 정도 접근성을 갖춘 컴포넌트를 빠르게 만들 수 있게 된 지금, 하나의 정본 라이브러리가 주는 이득은 예전보다 작다고 주장한다. 중앙에서 관리할 가치가 있는 것은 배포된 컴포넌트 코드가 아니라 디자인 시스템, 토큰, 가이드라인, 테스트다."
               },
               {
                 "t": "p",
-                "x": "헤드리스 AI에서 UI는 제품이 아니라 하나의 클라이언트가 된다. 필자는 30일치 요청을 분류하고 에이전트 호출을 여정 순서로 엮어 보라고 제안한다. 재시도 루프는 혼란의 신호이고, 늘 이탈 직전에 오는 호출은 막다른 길이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+                "x": "공유 라이브러리는 재사용, 일관성, 코드에 담긴 전문성, 단일 진실 공급원이라는 네 가지 약속을 묶어 제공했다. 이 중 배포된 코드가 필요한 것은 재사용과 코드에 담긴 전문성뿐이었고, 바로 이 부분을 이제 AI가 도울 수 있다. 진짜 비용은 늘 유지보수였다. 버전 관리, 마이그레이션, 변형의 난립, 흐지부지되는 소유권이 그렇다."
               },
               {
                 "t": "p",
-                "x": "APIs, 웹훅, MCP 서버를 포함해 제품으로 들어오는 모든 문을 지도로 그려야 한다. 인터페이스에만 있던 제약은 처음부터 제약이 아니었다. 이제 필요한 역량은 서비스 디자인에 API 이해력을 더한 것이다. 필드 이름, 스코프, 그리고 모델이 읽는 도구 설명이 그 대상이다."
+                "x": "제안하는 모델은 이렇다. 토큰을 진실 공급원으로 삼고, 기계가 읽을 수 있는 가이드라인과 엔지니어링 원칙을 에이전트가 생성의 근거로 삼는 명세로 두며, 시각 회귀·접근성·토큰 준수 테스트로 검증한다. 버전 관리는 스택 위쪽, 즉 이 규칙들로 옮겨간다."
               },
               {
                 "t": "p",
-                "x": "에이전트가 보는 복구 인터페이스는 오류 문자열뿐이다. 그러니 부분 성공, 멱등 쓰기, 명시적 확인을 고려해 설계하고, 페이지 조회수 대신 작업 완료율을 측정해야 한다."
+                "x": "기본값에 맡기면 모델은 밋밋한 평균으로 수렴하므로, 뚜렷한 관점을 가진 디자인 시스템이 차별화 요소가 된다. 접근성, 그리고 데이터 그리드·콤보박스·날짜 선택기처럼 정말 까다로운 위젯은 여전히 엄선한 공유 코드를 일부 유지할 이유가 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ヘッドレスAIで\n全製品がプラットフォームに",
-          "body": "エージェントは単なるインターフェースではないため、設計は製品の下の契約へ移る。",
-          "mini_headline": "ヘッドレスAIのための設計",
+          "headline": "共有UIライブラリは\n再利用から再生成へ",
+          "body": "モデルが標準UIを都度再生成する今、一貫性は中央のトークンや指針、テストが担う。",
+          "mini_headline": "UIライブラリは再生成の時代へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
               },
               {
                 "t": "p",
-                "x": "チャットはいつまでも単なるインターフェースだ。エージェントは違い、設計の仕事は製品の下にある契約へ移った。DataDomeは2026年Q2にAIエージェントのリクエストを177億件数え、前四半期から45%増えた。"
+                "x": "この10年、定番の助言は全社共通のコンポーネントライブラリを作ることだった。Griffiths WaiteのDaniel Curtisは、コーディングエージェントがスタイル付きでそこそこアクセシブルなコンポーネントを素早く作れる今、唯一の正統なライブラリから得られるものはかつてより少ないと論じる。中央で管理する価値があるのは、出荷されるコンポーネントのコードではなく、デザインシステム、トークン、ガイドライン、テストだという。"
               },
               {
                 "t": "p",
-                "x": "ヘッドレスAIでは、UIは製品ではなく一つのクライアントになる。筆者は30日分のリクエストを分類し、エージェントの呼び出しをジャーニーとして並べることを勧める。リトライのループは混乱を示し、常に離脱の直前に来る呼び出しは行き止まりだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+                "x": "共有ライブラリは、再利用、一貫性、コード化された専門知識、信頼できる唯一の情報源という4つの約束を束ねていた。出荷コードを必要としたのは再利用とコード化された専門知識だけで、まさにそこをいまAIが手助けできる。本当のコストは常に保守だった。バージョン管理、移行作業、バリアントの乱立、曖昧になっていく所有権である。"
               },
               {
                 "t": "p",
-                "x": "APIs、Webhook、MCPサーバーを含め、製品へのあらゆる入口を洗い出す。インターフェースの中にしかなかった制約は、もともと制約ではなかった。求められる技能は、サービスデザインにAPIリテラシーを加えたものだ。フィールド名、スコープ、そしてモデルが読むツール説明である。"
+                "x": "提案されるモデルはこうだ。トークンを信頼できる情報源とし、機械可読なガイドラインとエンジニアリング原則をエージェントが生成の拠り所とする仕様に据え、ビジュアルリグレッション、アクセシビリティ、トークン準拠のテストで検証する。バージョン管理はスタックの上位、つまりこうしたルールの側へ移る。"
               },
               {
                 "t": "p",
-                "x": "エラー文字列はエージェントにとって唯一の回復用インターフェースになる。だから部分的な成功、冪等な書き込み、明示的な確認を前提に設計し、ページビューではなくタスク完了を測るべきだ。"
+                "x": "デフォルトに任せればモデルは無難な平均に収束するため、明確な主張を持つデザインシステムが差別化要因になる。アクセシビリティと、データグリッド、コンボボックス、日付ピッカーのように本当に難しいウィジェットは、厳選した共有コードを一部残す理由であり続ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "无头AI让每个产品\n都成为平台",
-          "body": "智能体不同于聊天，不只是界面，设计工作因此转向产品底层的契约。",
-          "mini_headline": "为无头AI而设计",
+          "headline": "共享UI组件库\n从可复用到可重生成",
+          "body": "模型可按需重新生成标准UI，一致性如今来自集中的令牌、规范和测试。",
+          "mini_headline": "UI组件库走向再生成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
               },
               {
                 "t": "p",
-                "x": "聊天永远只是一种界面。智能体则不然，设计工作已经转移到产品底层的契约上。DataDome统计，2026年Q2共有177亿次AI智能体请求，比上一季度增长45%。"
+                "x": "十年来，标准建议一直是打造全公司通用的组件库。Griffiths Waite的Daniel Curtis认为，当编码代理能快速生成带样式、大致符合无障碍要求的组件时，一套权威组件库带来的收益已不如从前。真正值得集中管理的是设计系统、令牌、规范和测试，而不是交付出去的组件代码。"
               },
               {
                 "t": "p",
-                "x": "在无头AI中，UI不再是产品本身，而是一个客户端。作者建议把30天的请求分类，并将智能体调用按旅程排序：重试循环意味着困惑，总在放弃之前出现的调用就是死胡同。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+                "x": "共享组件库捆绑了四项承诺：复用、一致性、沉淀的专业经验，以及单一事实来源。其中只有复用和沉淀的专业经验需要交付代码，而这恰恰是AI如今能帮上忙的部分。真正的账单始终是维护：版本管理、迁移、变体泛滥，以及逐渐失守的归属权。"
               },
               {
                 "t": "p",
-                "x": "梳理进入产品的每一扇门，包括APIs、webhook和MCP服务器；只存在于界面里的约束，从来算不上真正的约束。这门手艺是服务设计加上API素养：字段名、权限范围，以及模型读取的工具描述。"
+                "x": "他提出的模式是：以令牌为事实来源，以机器可读的规范和工程原则作为代理生成所依据的规格，并通过视觉回归、无障碍和令牌一致性测试进行验证。版本管理随之上移到这些规则层面。"
               },
               {
                 "t": "p",
-                "x": "错误信息成为智能体能看到的唯一恢复界面，因此要为部分成功、幂等写入和明确确认而设计，并衡量任务完成情况而非页面浏览量。"
+                "x": "放任默认设置，模型会趋向平淡的平均水平，因此有鲜明主张的设计系统会成为差异化因素。无障碍，以及数据表格、组合框、日期选择器等真正棘手的组件，仍是保留部分精选共享代码的理由。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA headless convierte cada\nproducto en una plataforma",
-          "body": "Como los agentes, a diferencia del chat, no son solo una interfaz, el diseño pasa al contrato bajo el producto.",
-          "mini_headline": "Diseñar para la IA headless",
+          "headline": "Bibliotecas de UI compartidas:\nde reutilizables a regenerables",
+          "body": "Con modelos que regeneran la UI estándar a demanda, la coherencia viene ahora de tokens, guías y tests centrales.",
+          "mini_headline": "Bibliotecas de UI, regeneradas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6iRJB6ItsfYbPIy5nfFPsA.png"
+                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
               },
               {
                 "t": "p",
-                "x": "El chat siempre será solo una interfaz. Los agentes no, y el trabajo de diseño se ha trasladado al contrato que hay bajo el producto. DataDome contabilizó 17.700 millones de solicitudes de agentes de IA en el Q2 de 2026, un 45% más que el trimestre anterior."
+                "x": "Durante una década, el consejo habitual fue crear una biblioteca de componentes para toda la empresa. Daniel Curtis, de Griffiths Waite, sostiene que cuando un agente de programación puede producir con rapidez un componente con estilos y más o menos accesible, una única biblioteca canónica aporta menos que antes. Lo que vale la pena centralizar es el sistema de diseño, los tokens, las guías y los tests, no el código de los componentes publicados."
               },
               {
                 "t": "p",
-                "x": "En la IA headless, la UI pasa a ser un cliente y no el producto. El autor propone clasificar 30 días de solicitudes y ordenar las llamadas de los agentes en recorridos: un bucle de reintentos indica confusión, y una llamada que siempre precede a un abandono es un callejón sin salida."
+                "x": "Una biblioteca compartida reunía cuatro promesas: reutilización, coherencia, conocimiento experto codificado y una única fuente de verdad. Solo la reutilización y el conocimiento experto codificado necesitaban código publicado, y son justo las partes en las que ahora puede ayudar la AI. El verdadero coste siempre fue el mantenimiento: versionado, migraciones, proliferación de variantes y una propiedad que se diluye."
+              },
+              {
+                "t": "p",
+                "x": "El modelo propuesto: los tokens como fuente de verdad; las guías legibles por máquina y los principios de ingeniería como la especificación a partir de la cual genera un agente; y la verificación mediante tests de regresión visual, accesibilidad y conformidad con los tokens. El versionado sube en la pila hasta esas reglas."
+              },
+              {
+                "t": "p",
+                "x": "Si se dejan con sus valores por defecto, los modelos convergen en una media insulsa, por lo que un sistema de diseño con criterio propio se convierte en un diferenciador. La accesibilidad y los widgets realmente difíciles, como las tablas de datos, los combobox y los selectores de fecha, siguen siendo motivos para conservar algo de código compartido y cuidado."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "doherty-threshold-ai-ux",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "느린 AI의 해법은 디자인\n더 싼 추론이 아니다",
+      "body": "Doherty 임계값은 답변이 아닌 확인에 걸리니 체감 속도는 프런트엔드 몫이다.",
+      "mini_headline": "느린 AI, 디자인으로 푼다",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+            "cap": "같은 400밀리초 기준 아래 놓인 두 컴퓨팅 시대."
+          },
+          {
+            "t": "p",
+            "x": "느린 AI 기능을 두고 팀들은 모델 탓을 한다. 하지만 Doherty가 1982년에 제시한 임계값은 컴퓨터가 얼마나 빨리 생각하느냐가 아니라 사람이 생각을 얼마나 오래 붙들고 있느냐의 문제였다. 대략 400밀리초 아래면 사용자는 멈춤에 맞춰 생각을 덩어리로 끊지 않는다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+          },
+          {
+            "t": "p",
+            "x": "생성형 AI는 하나의 사건을 확인과 답변 둘로 쪼갰고, 임계값은 확인 쪽에 붙었다. 인터페이스는 추론과 상관없이 50밀리초 안에 입력을 되돌려 보여줄 수 있다. 첫 토큰이 나오기 전의 침묵은 스트리밍으로도 못 메운다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+            "cap": "두 개의 시계, 두 명의 담당자, 두 가지 규칙."
+          },
+          {
+            "t": "p",
+            "x": "AI 상호작용마다 시계 두 개가 돈다. 첫 번째 시계는 입력을 확정한 순간부터 인터페이스가 들었다는 증거를 내보일 때까지다. 목표는 100 ms, 상한은 400이고 프런트엔드가 책임진다. 두 번째 시계인 답변은 기다리는 대가로 무엇을 얻는지 솔직하게 알린다면 길어져도 괜찮다. 에이전트가 말 없이 단계를 이어 가면 사용자는 자리를 떴다가 돌아와 결과물을 그냥 받아들이고, 그렇게 human-in-the-loop 검토는 끝난다."
+          },
+          {
+            "t": "p",
+            "x": "저자의 조언은 이렇다. 명세 단계에서 예산을 나누고, 입력부터 되돌려 보여주고, 실제 상태를 드러내고, 현장에서 첫 탭을 측정하고, 모든 기다림에 빠져나갈 길을 두라."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Fix slow AI with design,\nnot cheaper inference",
+          "body": "Doherty's threshold now applies to the acknowledgment, not the answer, so perceived speed is front-end work.",
+          "mini_headline": "Fix slow AI with design",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+                "cap": "Two eras of computing, held to the same 400 millisecond standard."
+              },
+              {
+                "t": "p",
+                "x": "Teams blame slow AI features on the model. But Doherty's 1982 threshold was never about how fast a computer thinks; it was about how long a person will hold a thought. Below roughly 400 milliseconds, users stop batching their thinking around pauses."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/0*RjsLKtjq3cwtBdmT.png"
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
               },
               {
                 "t": "p",
-                "x": "Hay que mapear cada puerta de entrada al producto, incluidas las APIs, los webhooks y los servidores MCP; las restricciones que solo existían en la interfaz nunca fueron restricciones reales. El oficio combina diseño de servicios y dominio de API: nombres de campos, permisos y la descripción de la herramienta que lee un modelo."
+                "x": "Generative AI split one event into two, the acknowledgment and the answer, and the threshold followed the acknowledgment. The interface can echo an input in 50 milliseconds with no dependency on inference. Streaming does not fix the silent gap before the first token."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+                "cap": "Two clocks, two owners, two sets of rules."
               },
               {
                 "t": "p",
-                "x": "Los mensajes de error se convierten en la única interfaz de recuperación que ve un agente, así que conviene diseñar para el éxito parcial, las escrituras idempotentes y la confirmación explícita, y medir la finalización de tareas en lugar de las páginas vistas."
+                "x": "Every AI interaction runs two clocks. Clock one, from commit to proof the interface heard, should target 100 ms with 400 as the ceiling and is front-end work. Clock two, the answer, can be long if it is honest about what the wait buys. In agents, silent steps make users leave and come back only to accept output, which ends human-in-the-loop review."
+              },
+              {
+                "t": "p",
+                "x": "The author's advice: split the budget in the spec, echo input first, show real state, measure the first tap in the field, and give every wait an exit."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "느린 AI의 해법은 디자인\n더 싼 추론이 아니다",
+          "body": "Doherty 임계값은 답변이 아닌 확인에 걸리니 체감 속도는 프런트엔드 몫이다.",
+          "mini_headline": "느린 AI, 디자인으로 푼다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+                "cap": "같은 400밀리초 기준 아래 놓인 두 컴퓨팅 시대."
+              },
+              {
+                "t": "p",
+                "x": "느린 AI 기능을 두고 팀들은 모델 탓을 한다. 하지만 Doherty가 1982년에 제시한 임계값은 컴퓨터가 얼마나 빨리 생각하느냐가 아니라 사람이 생각을 얼마나 오래 붙들고 있느냐의 문제였다. 대략 400밀리초 아래면 사용자는 멈춤에 맞춰 생각을 덩어리로 끊지 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+              },
+              {
+                "t": "p",
+                "x": "생성형 AI는 하나의 사건을 확인과 답변 둘로 쪼갰고, 임계값은 확인 쪽에 붙었다. 인터페이스는 추론과 상관없이 50밀리초 안에 입력을 되돌려 보여줄 수 있다. 첫 토큰이 나오기 전의 침묵은 스트리밍으로도 못 메운다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+                "cap": "두 개의 시계, 두 명의 담당자, 두 가지 규칙."
+              },
+              {
+                "t": "p",
+                "x": "AI 상호작용마다 시계 두 개가 돈다. 첫 번째 시계는 입력을 확정한 순간부터 인터페이스가 들었다는 증거를 내보일 때까지다. 목표는 100 ms, 상한은 400이고 프런트엔드가 책임진다. 두 번째 시계인 답변은 기다리는 대가로 무엇을 얻는지 솔직하게 알린다면 길어져도 괜찮다. 에이전트가 말 없이 단계를 이어 가면 사용자는 자리를 떴다가 돌아와 결과물을 그냥 받아들이고, 그렇게 human-in-the-loop 검토는 끝난다."
+              },
+              {
+                "t": "p",
+                "x": "저자의 조언은 이렇다. 명세 단계에서 예산을 나누고, 입력부터 되돌려 보여주고, 실제 상태를 드러내고, 현장에서 첫 탭을 측정하고, 모든 기다림에 빠져나갈 길을 두라."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "遅いAIは設計で直す\n安い推論ではなく",
+          "body": "Doherty閾値は今や回答ではなく受信確認に適用され、体感速度はフロントエンドの仕事だ。",
+          "mini_headline": "遅いAIは設計で直す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+                "cap": "同じ400ミリ秒の基準が課された、コンピューティングの二つの時代。"
+              },
+              {
+                "t": "p",
+                "x": "チームは遅いAI機能をモデルのせいにする。だがDohertyが1982年に示した閾値は、コンピューターの思考速度の話ではなく、人がどれだけ考えを保持していられるかの話だった。およそ400ミリ秒を下回ると、ユーザーは待ち時間に合わせて思考をまとめることをやめる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+              },
+              {
+                "t": "p",
+                "x": "生成AIは一つの出来事を受信確認と回答の二つに分け、閾値は受信確認の側についた。インターフェースは推論に依存せず、50ミリ秒で入力をエコー表示できる。ストリーミングでは、最初のトークンが出るまでの無言の空白は解消しない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+                "cap": "二つの時計、二人の担い手、二組のルール。"
+              },
+              {
+                "t": "p",
+                "x": "あらゆるAIインタラクションでは二つの時計が動いている。一つ目の時計は、入力の確定からインターフェースが受け取った証拠が示されるまでで、目標は100 ms、上限は400とされ、フロントエンドの仕事だ。二つ目の時計である回答は、待つことで何が得られるのかを正直に示すなら長くてもよい。エージェントでは無言のステップがあるとユーザーは離れ、戻ってきて出力を受け入れるだけになり、human-in-the-loopのレビューが成り立たなくなる。"
+              },
+              {
+                "t": "p",
+                "x": "著者の助言は、仕様の段階で予算を分けること、まず入力をエコーすること、実際の状態を示すこと、現場で最初のタップを計測すること、そしてあらゆる待ち時間に出口を用意することだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "慢AI靠设计来解决\n而非更便宜的推理",
+          "body": "Doherty阈值如今作用于确认而非回答，感知速度因此是前端的工作。",
+          "mini_headline": "用设计解决AI慢",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+                "cap": "两个计算时代，遵循同一个400毫秒标准。"
+              },
+              {
+                "t": "p",
+                "x": "团队往往把AI功能的迟缓归咎于模型。但Doherty在1982年提出的阈值从来不是关于计算机思考有多快，而是关于人能把一个念头保持多久。低于大约400毫秒，用户就不再围绕停顿来成批组织思考。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+              },
+              {
+                "t": "p",
+                "x": "生成式AI把一个事件拆成了两个：确认和回答，而阈值落在了确认上。界面可以在50毫秒内回显输入，完全不依赖推理。流式输出解决不了第一个token出现前的静默空档。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+                "cap": "两个时钟，两个负责方，两套规则。"
+              },
+              {
+                "t": "p",
+                "x": "每次AI交互都有两个时钟在走。第一个时钟从用户提交到界面证明已收到，目标应是100 ms，上限为400，属于前端的工作。第二个时钟是回答，只要坦诚说明等待换来了什么，就可以很长。在代理场景中，静默的步骤会让用户离开，回来后只是接受输出，human-in-the-loop审核也就此终结。"
+              },
+              {
+                "t": "p",
+                "x": "作者的建议是：在规格中拆分时间预算，先回显输入，展示真实状态，在真实环境中测量首次点击，并为每一次等待提供退出方式。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI lenta se cura con diseño,\nno con inferencia más barata",
+          "body": "El umbral de Doherty ahora rige el acuse de recibo, no la respuesta: la velocidad percibida es tarea del front-end.",
+          "mini_headline": "La AI lenta se cura con diseño",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+                "cap": "Dos eras de la informática, sujetas al mismo estándar de 400 milisegundos."
+              },
+              {
+                "t": "p",
+                "x": "Los equipos culpan al modelo de la lentitud de las funciones de AI. Pero el umbral de Doherty de 1982 nunca trató de lo rápido que piensa un ordenador, sino de cuánto tiempo sostiene una persona un pensamiento. Por debajo de unos 400 milisegundos, los usuarios dejan de agrupar su pensamiento en torno a las pausas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+              },
+              {
+                "t": "p",
+                "x": "La AI generativa dividió un evento en dos, el acuse de recibo y la respuesta, y el umbral siguió al acuse de recibo. La interfaz puede reflejar una entrada en 50 milisegundos sin depender de la inferencia. El streaming no resuelve el silencio previo al primer token."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+                "cap": "Dos relojes, dos responsables, dos conjuntos de reglas."
+              },
+              {
+                "t": "p",
+                "x": "Toda interacción con AI corre con dos relojes. El reloj uno, desde que el usuario confirma hasta la prueba de que la interfaz lo ha oído, debería apuntar a 100 ms con 400 como techo, y es trabajo de front-end. El reloj dos, la respuesta, puede ser largo si es honesto sobre lo que compra la espera. En los agentes, los pasos silenciosos hacen que los usuarios se vayan y vuelvan solo para aceptar el resultado, lo que acaba con la revisión human-in-the-loop."
+              },
+              {
+                "t": "p",
+                "x": "El consejo del autor: dividir el presupuesto en la especificación, reflejar primero la entrada, mostrar el estado real, medir el primer toque en uso real y dar a cada espera una salida."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "느린 AI의 해법은 디자인\n더 싼 추론이 아니다",
+          "body": "Doherty 임계값은 답변 아닌 확인에 적용돼 체감 속도는 프런트엔드 몫이다.",
+          "mini_headline": "느린 AI, 디자인으로 푼다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+                "cap": "같은 400밀리초 기준을 적용받는 두 컴퓨팅 시대."
+              },
+              {
+                "t": "p",
+                "x": "팀들은 느린 AI 기능을 모델 탓으로 돌린다. 하지만 Doherty가 1982년에 제시한 임계값은 컴퓨터가 얼마나 빨리 생각하느냐가 아니라, 사람이 생각을 얼마나 오래 붙들고 있느냐에 관한 것이었다. 대략 400밀리초 아래로 내려가면 사용자는 멈춤에 맞춰 생각을 묶어 처리하지 않게 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+              },
+              {
+                "t": "p",
+                "x": "생성형 AI는 하나의 사건을 확인과 답변이라는 둘로 쪼갰고, 임계값은 확인 쪽을 따라갔다. 인터페이스는 추론과 무관하게 50밀리초 안에 입력을 되돌려 보여줄 수 있다. 스트리밍으로는 첫 토큰이 나오기 전의 침묵을 해결하지 못한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+                "cap": "두 개의 시계, 두 명의 담당자, 두 가지 규칙."
+              },
+              {
+                "t": "p",
+                "x": "모든 AI 상호작용에는 두 개의 시계가 돈다. 첫 번째 시계는 입력을 확정한 순간부터 인터페이스가 들었다는 증거가 나올 때까지로, 목표는 100 ms, 상한은 400이며 프런트엔드의 일이다. 두 번째 시계인 답변은 기다림으로 무엇을 얻는지 솔직하게 알린다면 길어도 된다. 에이전트에서 말 없이 진행되는 단계가 이어지면 사용자는 자리를 떴다가 돌아와 결과물을 그냥 받아들이기만 하고, 이로써 human-in-the-loop 검토는 끝난다."
+              },
+              {
+                "t": "p",
+                "x": "저자의 조언은 이렇다. 명세에서 예산을 나누고, 입력을 먼저 되돌려 보여주고, 실제 상태를 보여주고, 현장에서 첫 탭을 측정하고, 모든 기다림에 빠져나갈 길을 마련하라."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "遅いAIは設計で直す\n安い推論ではなく",
+          "body": "Doherty閾値は今や回答ではなく受信確認に適用され、体感速度はフロントエンドの仕事だ。",
+          "mini_headline": "遅いAIは設計で直す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+                "cap": "同じ400ミリ秒の基準が課された、コンピューティングの二つの時代。"
+              },
+              {
+                "t": "p",
+                "x": "チームは遅いAI機能をモデルのせいにする。だがDohertyが1982年に示した閾値は、コンピューターの思考速度の話ではなく、人がどれだけ考えを保持していられるかの話だった。およそ400ミリ秒を下回ると、ユーザーは待ち時間に合わせて思考をまとめることをやめる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+              },
+              {
+                "t": "p",
+                "x": "生成AIは一つの出来事を受信確認と回答の二つに分け、閾値は受信確認の側についた。インターフェースは推論に依存せず、50ミリ秒で入力をエコー表示できる。ストリーミングでは、最初のトークンが出るまでの無言の空白は解消しない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+                "cap": "二つの時計、二人の担い手、二組のルール。"
+              },
+              {
+                "t": "p",
+                "x": "あらゆるAIインタラクションでは二つの時計が動いている。一つ目の時計は、入力の確定からインターフェースが受け取った証拠が示されるまでで、目標は100 ms、上限は400とされ、フロントエンドの仕事だ。二つ目の時計である回答は、待つことで何が得られるのかを正直に示すなら長くてもよい。エージェントでは無言のステップがあるとユーザーは離れ、戻ってきて出力を受け入れるだけになり、human-in-the-loopのレビューが成り立たなくなる。"
+              },
+              {
+                "t": "p",
+                "x": "著者の助言は、仕様の段階で予算を分けること、まず入力をエコーすること、実際の状態を示すこと、現場で最初のタップを計測すること、そしてあらゆる待ち時間に出口を用意することだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "慢AI靠设计来解决\n而非更便宜的推理",
+          "body": "Doherty阈值如今作用于确认而非回答，感知速度因此是前端的工作。",
+          "mini_headline": "用设计解决AI慢",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+                "cap": "两个计算时代，遵循同一个400毫秒标准。"
+              },
+              {
+                "t": "p",
+                "x": "团队往往把AI功能的迟缓归咎于模型。但Doherty在1982年提出的阈值从来不是关于计算机思考有多快，而是关于人能把一个念头保持多久。低于大约400毫秒，用户就不再围绕停顿来成批组织思考。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+              },
+              {
+                "t": "p",
+                "x": "生成式AI把一个事件拆成了两个：确认和回答，而阈值落在了确认上。界面可以在50毫秒内回显输入，完全不依赖推理。流式输出解决不了第一个token出现前的静默空档。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+                "cap": "两个时钟，两个负责方，两套规则。"
+              },
+              {
+                "t": "p",
+                "x": "每次AI交互都有两个时钟在走。第一个时钟从用户提交到界面证明已收到，目标应是100 ms，上限为400，属于前端的工作。第二个时钟是回答，只要坦诚说明等待换来了什么，就可以很长。在代理场景中，静默的步骤会让用户离开，回来后只是接受输出，human-in-the-loop审核也就此终结。"
+              },
+              {
+                "t": "p",
+                "x": "作者的建议是：在规格中拆分时间预算，先回显输入，展示真实状态，在真实环境中测量首次点击，并为每一次等待提供退出方式。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI lenta se cura con diseño,\nno con inferencia más barata",
+          "body": "El umbral de Doherty ahora rige el acuse de recibo, no la respuesta: la velocidad percibida es tarea del front-end.",
+          "mini_headline": "La AI lenta se cura con diseño",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
+                "cap": "Dos eras de la informática, sujetas al mismo estándar de 400 milisegundos."
+              },
+              {
+                "t": "p",
+                "x": "Los equipos culpan al modelo de la lentitud de las funciones de AI. Pero el umbral de Doherty de 1982 nunca trató de lo rápido que piensa un ordenador, sino de cuánto tiempo sostiene una persona un pensamiento. Por debajo de unos 400 milisegundos, los usuarios dejan de agrupar su pensamiento en torno a las pausas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+              },
+              {
+                "t": "p",
+                "x": "La AI generativa dividió un evento en dos, el acuse de recibo y la respuesta, y el umbral siguió al acuse de recibo. La interfaz puede reflejar una entrada en 50 milisegundos sin depender de la inferencia. El streaming no resuelve el silencio previo al primer token."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
+                "cap": "Dos relojes, dos responsables, dos conjuntos de reglas."
+              },
+              {
+                "t": "p",
+                "x": "Toda interacción con AI corre con dos relojes. El reloj uno, desde que el usuario confirma hasta la prueba de que la interfaz lo ha oído, debería apuntar a 100 ms con 400 como techo, y es trabajo de front-end. El reloj dos, la respuesta, puede ser largo si es honesto sobre lo que compra la espera. En los agentes, los pasos silenciosos hacen que los usuarios se vayan y vuelvan solo para aceptar el resultado, lo que acaba con la revisión human-in-the-loop."
+              },
+              {
+                "t": "p",
+                "x": "El consejo del autor: dividir el presupuesto en la especificación, reflejar primero la entrada, mostrar el estado real, medir el primer toque en uso real y dar a cada espera una salida."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ideogram45-region-edit",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Ideogram 4.5,\n일부만 고치고 나머지 유지",
+      "body": "Ideogram 4.5는 고른 영역만 고치며 장당 0.8센트부터 2K로 출력한다.",
+      "mini_headline": "Ideogram 4.5, 영역 편집",
+      "tool": "KeyShot",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+          },
+          {
+            "t": "p",
+            "x": "Ideogram은 새 모델 Ideogram 4.5가 AI 이미지 편집의 가장 큰 골칫거리 중 하나를 해결한다고 밝혔다. 이미지 일부를 편집하면 나머지는 그대로여야 한다. 누군가의 옷을 바꿨다면 체형과 배경은 남아 있어야 한다는 얘기다. GPT-Image 2.5나 Nano Banana 같은 선두 모델도 이 부분이 크게 나아졌지만, 편집을 여러 번 거치면 아직 아티팩트가 생기기 쉽다. 회사는 Ideogram 4.5가 지시한 부분만 건드린다고 주장한다. 주요 용도로는 제품 사진, 인테리어 디자인, 사진 복원, 이미지 속 텍스트 편집을 꼽았다. 초기 테스터들은 편집을 거듭해도 일관성이 뛰어나다고 확인했다."
+          },
+          {
+            "t": "video",
+            "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+          },
+          {
+            "t": "p",
+            "x": "Ideogram 4.5의 품질 등급은 장당 0.8센트부터 22센트까지 네 가지이고, 모두 네이티브 2K 해상도다. 지금 Ideogram 플랫폼과 API에서 쓸 수 있으며, 파트너로는 Picsart, Runway, Pika, Leonardo AI가 있다. Ideogram은 오픈 웨이트 버전도 곧 내놓겠다고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Ideogram 4.5 edits one region\nand keeps the rest intact",
+          "body": "Ideogram says its 4.5 model edits only chosen areas, with native 2K output from 0.8 cents per image.",
+          "mini_headline": "Ideogram 4.5 edits by region",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram says its new model Ideogram 4.5 solves one of AI image editing's biggest headaches. When you edit part of an image, the rest shouldn't change. Swap someone's outfit, and their body shape and background should stay intact. Leading models like GPT-Image 2.5 and Nano Banana have gotten much better at this, but they still tend to produce artifacts, especially after multiple edits. Ideogram 4.5 only touches what the user tells it to, the company claims. Target use cases include product photography, interior design, photo restoration, and in-image text editing. Early testers confirm strong consistency across edits."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram 4.5 offers four quality tiers ranging from 0.8 to 22 cents per image, all at native 2K resolution. The model is available now on the Ideogram platform and through the API. Partners include Picsart, Runway, Pika, and Leonardo AI. Ideogram also says an open-weight release is coming soon."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Ideogram 4.5,\n일부만 고치고 나머지 유지",
+          "body": "Ideogram 4.5는 고른 영역만 고치며 장당 0.8센트부터 2K로 출력한다.",
+          "mini_headline": "Ideogram 4.5, 영역 편집",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram은 새 모델 Ideogram 4.5가 AI 이미지 편집의 가장 큰 골칫거리 중 하나를 해결한다고 밝혔다. 이미지 일부를 편집하면 나머지는 그대로여야 한다. 누군가의 옷을 바꿨다면 체형과 배경은 남아 있어야 한다는 얘기다. GPT-Image 2.5나 Nano Banana 같은 선두 모델도 이 부분이 크게 나아졌지만, 편집을 여러 번 거치면 아직 아티팩트가 생기기 쉽다. 회사는 Ideogram 4.5가 지시한 부분만 건드린다고 주장한다. 주요 용도로는 제품 사진, 인테리어 디자인, 사진 복원, 이미지 속 텍스트 편집을 꼽았다. 초기 테스터들은 편집을 거듭해도 일관성이 뛰어나다고 확인했다."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram 4.5의 품질 등급은 장당 0.8센트부터 22센트까지 네 가지이고, 모두 네이티브 2K 해상도다. 지금 Ideogram 플랫폼과 API에서 쓸 수 있으며, 파트너로는 Picsart, Runway, Pika, Leonardo AI가 있다. Ideogram은 오픈 웨이트 버전도 곧 내놓겠다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ideogram 4.5 edita una región\ny mantiene intacto el resto",
+          "body": "Ideogram dice que su modelo 4.5 edita solo zonas elegidas, con salida nativa en 2K desde 0.8 centavos por imagen.",
+          "mini_headline": "Ideogram 4.5 edita por regiones",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram afirma que su nuevo modelo, Ideogram 4.5, resuelve uno de los mayores quebraderos de cabeza de la edición de imágenes con AI. Al editar una parte de una imagen, el resto no debería cambiar. Si se cambia la ropa de una persona, su complexión y el fondo deberían permanecer intactos. Modelos líderes como GPT-Image 2.5 y Nano Banana han mejorado mucho en esto, pero todavía tienden a producir artefactos, sobre todo tras varias ediciones. Según la empresa, Ideogram 4.5 solo modifica lo que el usuario le indica. Entre los usos previstos están la fotografía de producto, el diseño de interiores, la restauración de fotos y la edición de texto dentro de la imagen. Los primeros probadores confirman una gran coherencia entre ediciones."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram 4.5 ofrece cuatro niveles de calidad, de 0.8 a 22 centavos por imagen, todos con resolución nativa 2K. El modelo ya está disponible en la plataforma de Ideogram y a través de la API. Entre sus socios figuran Picsart, Runway, Pika y Leonardo AI. Ideogram también afirma que pronto habrá una versión open-weight."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ideogram 4.5\n一部だけ編集し他は保持",
+          "body": "Ideogram 4.5は指定領域のみ編集し、1枚0.8セントから 2K で出力する。",
+          "mini_headline": "Ideogram 4.5、領域単位で編集",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+              },
+              {
+                "t": "p",
+                "x": "Ideogramは、新モデルIdeogram 4.5がAI画像編集の最大の悩みの一つを解決すると述べている。画像の一部を編集しても、残りは変わるべきではない。人物の服を替えても、体形や背景はそのまま保たれるべきだ。GPT-Image 2.5やNano Bananaといった主要モデルはこの点で大きく改善したが、特に複数回の編集後にはまだアーティファクトが生じやすい。同社によると、Ideogram 4.5はユーザーが指示した部分にしか手を加えない。想定用途は商品写真、インテリアデザイン、写真修復、画像内テキストの編集などだ。初期テスターも編集間の一貫性の高さを認めている。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram 4.5には1枚あたり0.8セントから22セントまでの四つの品質ティアがあり、いずれもネイティブ 2K 解像度で出力する。モデルはIdeogramのプラットフォームとAPIですでに利用できる。パートナーにはPicsart、Runway、Pika、Leonardo AIが名を連ねる。Ideogramはオープンウェイト版も近く公開するとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ideogram 4.5\n只改选区其余不动",
+          "body": "Ideogram称其4.5模型只编辑选定区域，原生 2K 输出，每张图低至0.8美分。",
+          "mini_headline": "Ideogram 4.5按区域编辑",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram表示，其新模型Ideogram 4.5解决了AI图像编辑中最令人头疼的问题之一：编辑图像的一部分时，其余部分不应发生变化。给人物换装时，体型和背景都应保持原样。GPT-Image 2.5和Nano Banana等主流模型在这方面已有明显进步，但仍容易产生伪影，尤其是在多次编辑之后。该公司称，Ideogram 4.5只会改动用户指定的部分。目标用途包括产品摄影、室内设计、照片修复以及图内文字编辑。早期测试者也证实其在多次编辑间保持了很强的一致性。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram 4.5提供四个质量档位，每张图价格从0.8美分到22美分不等，全部以原生 2K 分辨率输出。该模型现已在Ideogram平台和API上线。合作伙伴包括Picsart、Runway、Pika和Leonardo AI。Ideogram还表示，开放权重版本即将推出。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Ideogram 4.5,\n일부만 고치고 나머지 유지",
+          "body": "Ideogram 4.5는 고른 영역만 편집하며 장당 0.8센트부터 2K로 출력한다.",
+          "mini_headline": "Ideogram 4.5, 영역 편집",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram은 새 모델 Ideogram 4.5가 AI 이미지 편집의 가장 큰 골칫거리 중 하나를 해결한다고 밝혔다. 이미지 일부를 편집할 때 나머지는 바뀌지 않아야 한다. 누군가의 옷을 바꾸면 체형과 배경은 그대로 남아 있어야 한다. GPT-Image 2.5와 Nano Banana 같은 선두 모델도 이 부분에서 크게 나아졌지만, 특히 여러 번 편집하면 여전히 아티팩트가 생기기 쉽다. 회사는 Ideogram 4.5가 사용자가 지시한 부분만 건드린다고 주장한다. 주요 용도로는 제품 사진, 인테리어 디자인, 사진 복원, 이미지 속 텍스트 편집을 꼽는다. 초기 테스터들은 편집을 거듭해도 일관성이 뛰어나다고 확인했다."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram 4.5는 장당 0.8센트부터 22센트까지 네 가지 품질 등급을 제공하며, 모두 네이티브 2K 해상도다. 모델은 지금 Ideogram 플랫폼과 API로 이용할 수 있다. 파트너로는 Picsart, Runway, Pika, Leonardo AI가 있다. Ideogram은 오픈 웨이트 버전도 곧 공개할 예정이라고 밝혔다."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ideogram 4.5 edita una región\ny mantiene intacto el resto",
+          "body": "Ideogram dice que su modelo 4.5 edita solo zonas elegidas, con salida nativa en 2K desde 0.8 centavos por imagen.",
+          "mini_headline": "Ideogram 4.5 edita por regiones",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram afirma que su nuevo modelo, Ideogram 4.5, resuelve uno de los mayores quebraderos de cabeza de la edición de imágenes con AI. Al editar una parte de una imagen, el resto no debería cambiar. Si se cambia la ropa de una persona, su complexión y el fondo deberían permanecer intactos. Modelos líderes como GPT-Image 2.5 y Nano Banana han mejorado mucho en esto, pero todavía tienden a producir artefactos, sobre todo tras varias ediciones. Según la empresa, Ideogram 4.5 solo modifica lo que el usuario le indica. Entre los usos previstos están la fotografía de producto, el diseño de interiores, la restauración de fotos y la edición de texto dentro de la imagen. Los primeros probadores confirman una gran coherencia entre ediciones."
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram 4.5 ofrece cuatro niveles de calidad, de 0.8 a 22 centavos por imagen, todos con resolución nativa 2K. El modelo ya está disponible en la plataforma de Ideogram y a través de la API. Entre sus socios figuran Picsart, Runway, Pika y Leonardo AI. Ideogram también afirma que pronto habrá una versión open-weight."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ideogram 4.5\n一部だけ編集し他は保持",
+          "body": "Ideogram 4.5は指定領域のみ編集し、1枚0.8セントから 2K で出力する。",
+          "mini_headline": "Ideogram 4.5、領域単位で編集",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+              },
+              {
+                "t": "p",
+                "x": "Ideogramは、新モデルIdeogram 4.5がAI画像編集の最大の悩みの一つを解決すると述べている。画像の一部を編集しても、残りは変わるべきではない。人物の服を替えても、体形や背景はそのまま保たれるべきだ。GPT-Image 2.5やNano Bananaといった主要モデルはこの点で大きく改善したが、特に複数回の編集後にはまだアーティファクトが生じやすい。同社によると、Ideogram 4.5はユーザーが指示した部分にしか手を加えない。想定用途は商品写真、インテリアデザイン、写真修復、画像内テキストの編集などだ。初期テスターも編集間の一貫性の高さを認めている。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram 4.5には1枚あたり0.8セントから22セントまでの四つの品質ティアがあり、いずれもネイティブ 2K 解像度で出力する。モデルはIdeogramのプラットフォームとAPIですでに利用できる。パートナーにはPicsart、Runway、Pika、Leonardo AIが名を連ねる。Ideogramはオープンウェイト版も近く公開するとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ideogram 4.5\n只改选区其余不动",
+          "body": "Ideogram称其4.5模型只编辑选定区域，原生 2K 输出，每张图低至0.8美分。",
+          "mini_headline": "Ideogram 4.5按区域编辑",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram表示，其新模型Ideogram 4.5解决了AI图像编辑中最令人头疼的问题之一：编辑图像的一部分时，其余部分不应发生变化。给人物换装时，体型和背景都应保持原样。GPT-Image 2.5和Nano Banana等主流模型在这方面已有明显进步，但仍容易产生伪影，尤其是在多次编辑之后。该公司称，Ideogram 4.5只会改动用户指定的部分。目标用途包括产品摄影、室内设计、照片修复以及图内文字编辑。早期测试者也证实其在多次编辑间保持了很强的一致性。"
+              },
+              {
+                "t": "video",
+                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Ideogram 4.5提供四个质量档位，每张图价格从0.8美分到22美分不等，全部以原生 2K 分辨率输出。该模型现已在Ideogram平台和API上线。合作伙伴包括Picsart、Runway、Pika和Leonardo AI。Ideogram还表示，开放权重版本即将推出。"
               }
             ]
           }

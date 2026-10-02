@@ -1,191 +1,221 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "science",
   "cards": [
     {
-      "id": "uclaoptical",
+      "id": "mindreading-brain-scan",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "빛으로 작동하는 AI\n딥페이크 약 98% 탐지",
-      "body": "UCLA 광학 AI는 영상 15개를 동시에 판별해 평균 정확도 97.79%를 냈다.",
-      "mini_headline": "광학 AI, 딥페이크 잡다",
+      "headline": "AI가 뇌 스캔으로\n본 이미지 되살린다",
+      "body": "연구진이 뇌 스캔만으로 사람이 본 이미지를 재구성하는 AI 시스템을 만들었다.",
+      "mini_headline": "뇌 스캔에서 이미지 읽는 AI",
       "tool": "Science",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "와이즈만 과학연구소(Weizmann Institute of Science)의 미할 이라니(Michal Irani) 연구팀이 개발한 새 AI 도구는 뇌 스캔만 보고 사람이 무엇을 보는지 짐작해 그 이미지를 놀라울 만큼 정밀하게 재현한다. 거꾸로 사람이 보는 장면에서 뇌 활동을 예측하기도 한다."
+          },
+          {
             "t": "img",
-            "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+            "cap": "왼쪽: 참가자가 본 이미지. 오른쪽: 모델이 재구성한 이미지. 사진 제공: 연구진"
           },
           {
             "t": "p",
-            "x": "UCLA 연구진이 빛으로 딥페이크 영상 식별을 돕는 광학-신경 프로세서를 개발했다. 기존 시스템은 디지털 하드웨어에서 영상을 하나씩 차례로 검사한다. 이 프로세서는 탐지 과정의 일부를 빛의 물리적 전파가 맡아서 15개 이상의 영상 스트림을 한꺼번에 분석한다. 연구 결과는 eLight에 실렸다."
+            "x": "연구팀은 각자 약 9,000장의 이미지를 본 여덟 명의 고해상도 fMRI 데이터로 두 갈래 구조의 “뇌 디코더”를 학습시켰다. 한 갈래는 이미지의 구조를, 다른 갈래는 내용을 예측한다. 확산 모델은 이 예측을 받아 참가자가 본 장면을 재구성한다."
           },
           {
             "t": "p",
-            "x": "경량 디지털 인코더가 각 영상에서 공간·스펙트럼·시간 특징을 뽑아 공간 광변조기에 위상 패턴으로 표시하면 수동형 광학 디코더가 영상마다 진위 점수를 매긴다."
+            "x": "데이터를 늘리려고 이미지에서 뇌 활동을 예측하는 인코더도 학습시켰고, 두 모델을 맞물려 서로의 성능을 끌어올렸다. 학습 데이터의 약 70%는 스캐너 안에서 누구에게도 보여준 적 없는 이미지에서 나왔다. 완성된 도구는 처음 보는 사람이라도 fMRI 데이터 약 한 시간 분량이면 작동한다. 기존 도구는 약 40시간이 필요했다."
           },
           {
             "t": "p",
-            "x": "광학 처리 한 번에 Celeb-DF 영상 15개를 검사하자 평균 정확도 97.79%, 민감도 99.86%가 나왔다. 영상 18개에서는 96.13%였다. 미세 조정을 최소한으로만 거치고도 처음 보는 Google VEO-3 영상에서 정확도 94.80%를 냈고, 블랙박스 적대적 공격에도 버텼다."
+            "x": "케이크를 샌드위치 세 개로 바꿔 놓는 실수도 아직 하지만, 이라니는 이 도구가 다른 도구를 “상당한 차이로” 앞섰다고 말한다. 앞으로는 영상, 소리, 상상, 꿈까지 연구를 넓히고 감금 증후군 환자의 의사소통도 돕고 싶다고 그는 밝혔다."
           },
           {
             "t": "p",
-            "x": "Aydogan Ozcan 교수 연구팀은 이 시스템을 처리량 높은 1차 방어선으로 본다. 의심스러운 콘텐츠는 더 정교한 디지털 모델로 넘겨 최종 판정을 맡긴다."
+            "x": "다른 과학자들은 비슷한 방법이 EEG로 넘어가면 특히 정신적 프라이버시가 침해될 수 있다고 경고한다. UCSB 신경과학자 토미 스프라그(Tommy Sprague)는 “윤리적 고려에 대해 조금 더 진지해져야 한다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Light-powered AI catches\ndeepfakes at nearly 98%",
-          "body": "UCLA's optical AI uses light to screen 15 videos at once, flagging deepfakes with 97.79% average accuracy.",
-          "mini_headline": "Optical AI catches deepfakes",
+          "headline": "AI rebuilds what you see\nfrom a brain scan",
+          "body": "Scientists built an AI system that reconstructs the images a person is viewing from scans of their brain.",
+          "mini_headline": "AI reads images\nfrom brain scans",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "A new AI tool developed by Michal Irani and colleagues at the Weizmann Institute of Science can guess what you're looking at from brain scans and re-create that image with remarkable precision. It can also go the other way, predicting brain activity from what a person sees."
+              },
+              {
                 "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+                "cap": "Left: what the person saw. Right: the model's reconstruction. Courtesy of the Researchers"
               },
               {
                 "t": "p",
-                "x": "Researchers at UCLA have built an optical-neural processor that uses light to help identify deepfake videos. Unlike conventional systems that examine videos one after another on digital hardware, it can analyze 15 or more video streams at the same time, because part of the detection happens through the physical propagation of light. The study was published in eLight."
+                "x": "The team trained a two-branch \"brain decoder\" on high-resolution fMRI data from eight people who each viewed around 9,000 images. One branch predicts an image's structure, the other its content, guiding a diffusion model to reconstruct what was seen."
               },
               {
                 "t": "p",
-                "x": "A lightweight digital encoder extracts spatial, spectral and temporal features from each video and displays them as a phase pattern on a spatial light modulator; a passive optical decoder then produces an authenticity score for each video."
+                "x": "To get more data, they also trained an encoder that predicts brain activity from an image, and used the two together to improve both. About 70% of the training data came from images never shown to anyone in a scanner. The resulting tool works on a new person with about one hour of fMRI data, versus roughly 40 hours for earlier tools."
               },
               {
                 "t": "p",
-                "x": "Screening 15 Celeb-DF videos per optical pass, the system reached 97.79% average accuracy and 99.86% sensitivity, and 96.13% at 18 videos. With minimal fine-tuning it hit 94.80% accuracy on unseen Google VEO-3 videos, and it resisted black-box adversarial attacks."
+                "x": "It still fails at times, turning a cake into three sandwiches, but Irani says it outperformed others \"by a significant margin.\" She hopes to move on to video, audio, imagination and dreams, and to help locked-in people communicate."
               },
               {
                 "t": "p",
-                "x": "Professor Aydogan Ozcan's team sees it as a high-throughput first line of defense, passing suspicious content on to more demanding digital models for a final assessment."
+                "x": "Other scientists warn of mental-privacy risks, especially if similar methods move to EEG. \"We have to be a little more serious about the ethical considerations,\" says UCSB neuroscientist Tommy Sprague."
               }
             ]
           }
         },
         "ko": {
-          "headline": "빛으로 작동하는 AI\n딥페이크 약 98% 탐지",
-          "body": "UCLA 광학 AI는 영상 15개를 동시에 판별해 평균 정확도 97.79%를 냈다.",
-          "mini_headline": "광학 AI, 딥페이크 잡다",
+          "headline": "AI가 뇌 스캔으로\n본 이미지 되살린다",
+          "body": "연구진이 뇌 스캔만으로 사람이 본 이미지를 재구성하는 AI 시스템을 만들었다.",
+          "mini_headline": "뇌 스캔에서 이미지 읽는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "와이즈만 과학연구소(Weizmann Institute of Science)의 미할 이라니(Michal Irani) 연구팀이 개발한 새 AI 도구는 뇌 스캔만 보고 사람이 무엇을 보는지 짐작해 그 이미지를 놀라울 만큼 정밀하게 재현한다. 거꾸로 사람이 보는 장면에서 뇌 활동을 예측하기도 한다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+                "cap": "왼쪽: 참가자가 본 이미지. 오른쪽: 모델이 재구성한 이미지. 사진 제공: 연구진"
               },
               {
                 "t": "p",
-                "x": "UCLA 연구진이 빛으로 딥페이크 영상 식별을 돕는 광학-신경 프로세서를 개발했다. 기존 시스템은 디지털 하드웨어에서 영상을 하나씩 차례로 검사한다. 이 프로세서는 탐지 과정의 일부를 빛의 물리적 전파가 맡아서 15개 이상의 영상 스트림을 한꺼번에 분석한다. 연구 결과는 eLight에 실렸다."
+                "x": "연구팀은 각자 약 9,000장의 이미지를 본 여덟 명의 고해상도 fMRI 데이터로 두 갈래 구조의 “뇌 디코더”를 학습시켰다. 한 갈래는 이미지의 구조를, 다른 갈래는 내용을 예측한다. 확산 모델은 이 예측을 받아 참가자가 본 장면을 재구성한다."
               },
               {
                 "t": "p",
-                "x": "경량 디지털 인코더가 각 영상에서 공간·스펙트럼·시간 특징을 뽑아 공간 광변조기에 위상 패턴으로 표시하면 수동형 광학 디코더가 영상마다 진위 점수를 매긴다."
+                "x": "데이터를 늘리려고 이미지에서 뇌 활동을 예측하는 인코더도 학습시켰고, 두 모델을 맞물려 서로의 성능을 끌어올렸다. 학습 데이터의 약 70%는 스캐너 안에서 누구에게도 보여준 적 없는 이미지에서 나왔다. 완성된 도구는 처음 보는 사람이라도 fMRI 데이터 약 한 시간 분량이면 작동한다. 기존 도구는 약 40시간이 필요했다."
               },
               {
                 "t": "p",
-                "x": "광학 처리 한 번에 Celeb-DF 영상 15개를 검사하자 평균 정확도 97.79%, 민감도 99.86%가 나왔다. 영상 18개에서는 96.13%였다. 미세 조정을 최소한으로만 거치고도 처음 보는 Google VEO-3 영상에서 정확도 94.80%를 냈고, 블랙박스 적대적 공격에도 버텼다."
+                "x": "케이크를 샌드위치 세 개로 바꿔 놓는 실수도 아직 하지만, 이라니는 이 도구가 다른 도구를 “상당한 차이로” 앞섰다고 말한다. 앞으로는 영상, 소리, 상상, 꿈까지 연구를 넓히고 감금 증후군 환자의 의사소통도 돕고 싶다고 그는 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Aydogan Ozcan 교수 연구팀은 이 시스템을 처리량 높은 1차 방어선으로 본다. 의심스러운 콘텐츠는 더 정교한 디지털 모델로 넘겨 최종 판정을 맡긴다."
+                "x": "다른 과학자들은 비슷한 방법이 EEG로 넘어가면 특히 정신적 프라이버시가 침해될 수 있다고 경고한다. UCSB 신경과학자 토미 스프라그(Tommy Sprague)는 “윤리적 고려에 대해 조금 더 진지해져야 한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "光で動くAIが\n偽動画を98%近く見抜く",
-          "body": "UCLAの光学AIは動画15本を同時に調べ、偽動画を平均97.79%の精度で見抜く。",
-          "mini_headline": "光学AIが偽動画を検出",
+          "headline": "AIが脳スキャンから\n見た画像を再現",
+          "body": "科学者らが、脳スキャンから人が見ている画像を再構成するAIシステムを開発した。",
+          "mini_headline": "脳スキャンから画像を読むAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "ワイツマン科学研究所(Weizmann Institute of Science)のミハル・イラニ(Michal Irani)らが開発した新しいAIツールは、脳スキャンから人が何を見ているかを推測し、その画像を驚くほど精密に再現できる。逆方向にも使え、人が見ているものから脳活動を予測することもできる。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+                "cap": "左:被験者が見た画像。右:モデルによる再構成。提供:研究者ら"
               },
               {
                 "t": "p",
-                "x": "UCLAの研究者らは、光を使ってディープフェイク動画の識別を助ける光ニューラルプロセッサを開発した。デジタルハードウェア上で動画を1本ずつ順に調べる従来のシステムとは異なり、検出の一部が光の物理的な伝搬によって行われるため、15本以上の動画ストリームを同時に解析できる。研究成果はeLightに掲載された。"
+                "x": "研究チームは、それぞれ約9,000枚の画像を見た八人の高解像度fMRIデータを使い、2系統の「脳デコーダー」を学習させた。一方の系統が画像の構造を、もう一方が内容を予測し、拡散モデルを導いて見たものを再構成する。"
               },
               {
                 "t": "p",
-                "x": "軽量なデジタルエンコーダーが各動画から空間・スペクトル・時間の特徴を抽出し、空間光変調器上に位相パターンとして表示する。続いて受動型の光学デコーダーが、動画ごとに真正性スコアを出す。"
+                "x": "データを増やすため、画像から脳活動を予測するエンコーダーも学習させ、両者を組み合わせて互いの性能を高めた。学習データの約70%は、スキャナーの中で誰にも見せていない画像から得たものだ。完成したツールは、新しい人でも約一時間分のfMRIデータで機能する。従来のツールでは約40時間が必要だった。"
               },
               {
                 "t": "p",
-                "x": "1回の光学処理でCeleb-DFの動画15本を判定した場合、平均精度は97.79%、感度は99.86%に達し、18本では96.13%だった。最小限の微調整で、未知のGoogle VEO-3動画に対して94.80%の精度を示し、ブラックボックス型の敵対的攻撃にも耐えた。"
+                "x": "ケーキを三つのサンドイッチに変えてしまうなど、まだ失敗することもあるが、イラニ氏は他の手法を「大きな差で」上回ったと話す。今後は動画、音声、想像、夢へと対象を広げ、閉じ込め症候群の人々の意思疎通を助けたいという。"
               },
               {
                 "t": "p",
-                "x": "Aydogan Ozcan教授のチームは、これを高スループットな第一の防衛線と位置づけている。疑わしいコンテンツは、より高度なデジタルモデルに回して最終的な判定を委ねる。"
+                "x": "他の科学者たちは、特に同様の手法がEEGに応用された場合の、精神的プライバシーへのリスクを警告する。UCSBの神経科学者トミー・スプラーグ(Tommy Sprague)は「倫理的な配慮について、もう少し真剣になる必要がある」と語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "光驱动的AI\n深度伪造识别率近98%",
-          "body": "UCLA的光学AI用光同时筛查15段视频，识别深度伪造的平均准确率达97.79%。",
-          "mini_headline": "光学AI识别深度伪造",
+          "headline": "AI从脑部扫描中\n重现你看到的画面",
+          "body": "科学家开发出一套AI系统，能根据脑部扫描重建一个人正在观看的图像。",
+          "mini_headline": "AI读取脑中图像",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "魏茨曼科学研究所（Weizmann Institute of Science）的米哈尔·伊拉尼（Michal Irani）及其同事开发了一款新AI工具，能通过脑部扫描推测你正在看什么，并以惊人的精度重现该图像。它也能反向运作，根据一个人看到的内容预测其大脑活动。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+                "cap": "左：受试者看到的画面。右：模型的重建结果。图片来源：研究人员"
               },
               {
                 "t": "p",
-                "x": "UCLA的研究人员开发出一种光学神经处理器，可借助光来帮助识别深度伪造视频。与在数字硬件上逐个检查视频的传统系统不同，由于部分检测过程通过光的物理传播完成，它能同时分析15路及以上的视频流。该研究发表于eLight。"
+                "x": "研究团队利用八名受试者的高分辨率fMRI数据训练了一个双分支“脑解码器”，每人观看了约9,000张图像。一个分支预测图像的结构，另一个预测其内容，共同引导扩散模型重建所见画面。"
               },
               {
                 "t": "p",
-                "x": "一个轻量级数字编码器从每段视频中提取空间、光谱和时间特征，并以相位图样的形式显示在空间光调制器上；随后，一个无源光学解码器为每段视频生成真实性评分。"
+                "x": "为获得更多数据，他们还训练了一个根据图像预测大脑活动的编码器，并将两者结合，相互提升。约70%的训练数据来自从未在扫描仪中向任何人展示过的图像。最终的工具只需新受试者约一小时的fMRI数据即可运行，而早期工具大约需要40小时。"
               },
               {
                 "t": "p",
-                "x": "每次光学处理筛查15段Celeb-DF视频时，该系统的平均准确率为97.79%，灵敏度为99.86%；筛查18段视频时为96.13%。经过极少量微调后，它在未见过的Google VEO-3视频上达到94.80%的准确率，并能抵御黑盒对抗攻击。"
+                "x": "它有时仍会出错，比如把一块蛋糕变成三个三明治，但伊拉尼表示，它“以显著优势”超过了其他工具。她希望接下来拓展到视频、音频、想象和梦境，并帮助闭锁综合征患者进行交流。"
               },
               {
                 "t": "p",
-                "x": "Aydogan Ozcan教授团队将其视为高通量的第一道防线，可疑内容再交由要求更高的数字模型进行最终评估。"
+                "x": "其他科学家警告称，这存在精神隐私风险，尤其是当类似方法转向EEG时。UCSB神经科学家汤米·斯普拉格（Tommy Sprague）说：“我们必须更认真一点地对待伦理问题。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una IA impulsada por luz\ndetecta deepfakes con casi 98%",
-          "body": "La IA óptica de UCLA usa luz para revisar 15 videos a la vez y detecta deepfakes con un 97.79% de precisión media.",
-          "mini_headline": "IA óptica detecta deepfakes",
+          "headline": "Una AI reconstruye lo que ves\na partir de un escáner cerebral",
+          "body": "Científicos crearon un sistema de AI que reconstruye las imágenes que una persona ve mediante escáneres cerebrales.",
+          "mini_headline": "Una AI lee imágenes del cerebro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Una nueva herramienta de AI desarrollada por Michal Irani y sus colegas del Weizmann Institute of Science puede adivinar lo que estás mirando a partir de escáneres cerebrales y recrear esa imagen con una precisión notable. También funciona en sentido inverso: predice la actividad cerebral a partir de lo que ve una persona."
+              },
+              {
                 "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+                "cap": "Izquierda: lo que vio la persona. Derecha: la reconstrucción del modelo. Cortesía de los investigadores"
               },
               {
                 "t": "p",
-                "x": "Investigadores de UCLA han creado un procesador óptico-neuronal que utiliza la luz para ayudar a identificar videos deepfake. A diferencia de los sistemas convencionales, que examinan los videos uno tras otro en hardware digital, puede analizar 15 o más flujos de video al mismo tiempo, porque parte de la detección ocurre mediante la propagación física de la luz. El estudio se publicó en eLight."
+                "x": "El equipo entrenó un \"decodificador cerebral\" de dos ramas con datos de fMRI de alta resolución de ocho personas que vieron cada una unas 9,000 imágenes. Una rama predice la estructura de la imagen y la otra su contenido, y juntas guían a un modelo de difusión para reconstruir lo que se vio."
               },
               {
                 "t": "p",
-                "x": "Un codificador digital ligero extrae rasgos espaciales, espectrales y temporales de cada video y los muestra como un patrón de fase en un modulador espacial de luz; después, un decodificador óptico pasivo genera una puntuación de autenticidad para cada video."
+                "x": "Para obtener más datos, también entrenaron un codificador que predice la actividad cerebral a partir de una imagen, y usaron ambos para mejorarse mutuamente. Alrededor del 70% de los datos de entrenamiento provino de imágenes que nunca se mostraron a nadie dentro de un escáner. La herramienta resultante funciona con una persona nueva con aproximadamente una hora de datos de fMRI, frente a unas 40 horas de las herramientas anteriores."
               },
               {
                 "t": "p",
-                "x": "Al analizar 15 videos de Celeb-DF por pasada óptica, el sistema alcanzó una precisión media del 97.79% y una sensibilidad del 99.86%, y del 96.13% con 18 videos. Con un ajuste fino mínimo logró un 94.80% de precisión en videos inéditos de Google VEO-3 y resistió ataques adversarios de caja negra."
+                "x": "Todavía falla a veces, como cuando convirtió un pastel en tres sándwiches, pero Irani afirma que superó a las demás \"por un margen significativo\". Espera avanzar hacia el video, el audio, la imaginación y los sueños, y ayudar a comunicarse a las personas con síndrome de enclaustramiento."
               },
               {
                 "t": "p",
-                "x": "El equipo del profesor Aydogan Ozcan lo concibe como una primera línea de defensa de alto rendimiento, que deriva el contenido sospechoso a modelos digitales más exigentes para una evaluación final."
+                "x": "Otros científicos advierten sobre riesgos para la privacidad mental, sobre todo si métodos similares se trasladan al EEG. \"Tenemos que tomarnos un poco más en serio las consideraciones éticas\", afirma Tommy Sprague, neurocientífico de UCSB."
               }
             ]
           }
@@ -193,121 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "빛으로 작동하는 AI\n딥페이크 약 98% 탐지",
-          "body": "UCLA 광학 AI는 영상 15개를 동시에 판별해 평균 정확도 97.79%를 냈다.",
-          "mini_headline": "광학 AI, 딥페이크 잡다",
+          "headline": "AI가 뇌 스캔으로\n본 이미지 되살린다",
+          "body": "연구진이 뇌 스캔으로 사람이 보는 이미지를 재구성하는 AI 시스템을 만들었다.",
+          "mini_headline": "뇌 스캔에서 이미지 읽는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "와이즈만 과학연구소(Weizmann Institute of Science)의 미할 이라니(Michal Irani) 연구팀이 개발한 새 AI 도구는 뇌 스캔만으로 사람이 무엇을 보고 있는지 짐작하고, 그 이미지를 놀라울 만큼 정밀하게 재현한다. 반대 방향도 가능해서, 사람이 보는 것으로부터 뇌 활동을 예측하기도 한다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+                "cap": "왼쪽: 참가자가 본 이미지. 오른쪽: 모델이 재구성한 이미지. 사진 제공: 연구진"
               },
               {
                 "t": "p",
-                "x": "UCLA 연구진이 빛을 이용해 딥페이크 영상 식별을 돕는 광학-신경 프로세서를 개발했다. 디지털 하드웨어에서 영상을 하나씩 차례로 검사하는 기존 시스템과 달리, 탐지 과정의 일부가 빛의 물리적 전파로 이뤄지기 때문에 15개 이상의 영상 스트림을 동시에 분석할 수 있다. 연구 결과는 eLight에 실렸다."
+                "x": "연구팀은 각자 약 9,000장의 이미지를 본 여덟 명의 고해상도 fMRI 데이터로 두 갈래 구조의 “뇌 디코더”를 학습시켰다. 한 갈래는 이미지의 구조를, 다른 갈래는 내용을 예측하며, 이를 바탕으로 확산 모델이 본 장면을 재구성한다."
               },
               {
                 "t": "p",
-                "x": "경량 디지털 인코더가 각 영상에서 공간·스펙트럼·시간 특징을 뽑아 공간 광변조기에 위상 패턴으로 표시하면, 수동형 광학 디코더가 영상마다 진위 점수를 산출한다."
+                "x": "데이터를 늘리기 위해 이미지로부터 뇌 활동을 예측하는 인코더도 학습시켰고, 두 모델을 함께 써서 서로의 성능을 끌어올렸다. 학습 데이터의 약 70%는 스캐너 안에서 누구에게도 보여준 적 없는 이미지에서 나왔다. 완성된 도구는 새로운 사람에게도 약 한 시간 분량의 fMRI 데이터만으로 작동한다. 기존 도구에는 약 40시간이 필요했다."
               },
               {
                 "t": "p",
-                "x": "광학 처리 한 번에 Celeb-DF 영상 15개를 검사했을 때 평균 정확도 97.79%, 민감도 99.86%를 기록했고, 영상 18개에서는 96.13%였다. 최소한의 미세 조정만으로 처음 보는 Google VEO-3 영상에서 94.80%의 정확도를 냈으며, 블랙박스 적대적 공격에도 견뎠다."
+                "x": "케이크를 샌드위치 세 개로 바꿔 놓는 등 여전히 실수도 하지만, 이라니는 이 도구가 다른 도구들을 “상당한 차이로” 앞섰다고 말한다. 그는 앞으로 영상, 소리, 상상, 꿈으로 연구를 넓히고, 감금 증후군 환자의 의사소통을 돕고 싶다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Aydogan Ozcan 교수 연구팀은 이 시스템을 처리량이 높은 1차 방어선으로 본다. 의심스러운 콘텐츠는 더 정교한 디지털 모델로 넘겨 최종 판정을 맡기는 방식이다."
+                "x": "다른 과학자들은 특히 비슷한 방법이 EEG로 옮겨갈 경우 정신적 프라이버시가 침해될 위험을 경고한다. UCSB 신경과학자 토미 스프라그(Tommy Sprague)는 “윤리적 고려에 대해 조금 더 진지해져야 한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "光で動くAIが\n偽動画を98%近く見抜く",
-          "body": "UCLAの光学AIは動画15本を同時に調べ、偽動画を平均97.79%の精度で見抜く。",
-          "mini_headline": "光学AIが偽動画を検出",
+          "headline": "AIが脳スキャンから\n見た画像を再現",
+          "body": "科学者らが、脳スキャンから人が見ている画像を再構成するAIシステムを開発した。",
+          "mini_headline": "脳スキャンから画像を読むAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "ワイツマン科学研究所(Weizmann Institute of Science)のミハル・イラニ(Michal Irani)らが開発した新しいAIツールは、脳スキャンから人が何を見ているかを推測し、その画像を驚くほど精密に再現できる。逆方向にも使え、人が見ているものから脳活動を予測することもできる。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+                "cap": "左:被験者が見た画像。右:モデルによる再構成。提供:研究者ら"
               },
               {
                 "t": "p",
-                "x": "UCLAの研究者らは、光を使ってディープフェイク動画の識別を助ける光ニューラルプロセッサを開発した。デジタルハードウェア上で動画を1本ずつ順に調べる従来のシステムとは異なり、検出の一部が光の物理的な伝搬によって行われるため、15本以上の動画ストリームを同時に解析できる。研究成果はeLightに掲載された。"
+                "x": "研究チームは、それぞれ約9,000枚の画像を見た八人の高解像度fMRIデータを使い、2系統の「脳デコーダー」を学習させた。一方の系統が画像の構造を、もう一方が内容を予測し、拡散モデルを導いて見たものを再構成する。"
               },
               {
                 "t": "p",
-                "x": "軽量なデジタルエンコーダーが各動画から空間・スペクトル・時間の特徴を抽出し、空間光変調器上に位相パターンとして表示する。続いて受動型の光学デコーダーが、動画ごとに真正性スコアを出す。"
+                "x": "データを増やすため、画像から脳活動を予測するエンコーダーも学習させ、両者を組み合わせて互いの性能を高めた。学習データの約70%は、スキャナーの中で誰にも見せていない画像から得たものだ。完成したツールは、新しい人でも約一時間分のfMRIデータで機能する。従来のツールでは約40時間が必要だった。"
               },
               {
                 "t": "p",
-                "x": "1回の光学処理でCeleb-DFの動画15本を判定した場合、平均精度は97.79%、感度は99.86%に達し、18本では96.13%だった。最小限の微調整で、未知のGoogle VEO-3動画に対して94.80%の精度を示し、ブラックボックス型の敵対的攻撃にも耐えた。"
+                "x": "ケーキを三つのサンドイッチに変えてしまうなど、まだ失敗することもあるが、イラニ氏は他の手法を「大きな差で」上回ったと話す。今後は動画、音声、想像、夢へと対象を広げ、閉じ込め症候群の人々の意思疎通を助けたいという。"
               },
               {
                 "t": "p",
-                "x": "Aydogan Ozcan教授のチームは、これを高スループットな第一の防衛線と位置づけている。疑わしいコンテンツは、より高度なデジタルモデルに回して最終的な判定を委ねる。"
+                "x": "他の科学者たちは、特に同様の手法がEEGに応用された場合の、精神的プライバシーへのリスクを警告する。UCSBの神経科学者トミー・スプラーグ(Tommy Sprague)は「倫理的な配慮について、もう少し真剣になる必要がある」と語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "光驱动的AI\n深度伪造识别率近98%",
-          "body": "UCLA的光学AI用光同时筛查15段视频，识别深度伪造的平均准确率达97.79%。",
-          "mini_headline": "光学AI识别深度伪造",
+          "headline": "AI从脑部扫描中\n重现你看到的画面",
+          "body": "科学家开发出一套AI系统，能根据脑部扫描重建一个人正在观看的图像。",
+          "mini_headline": "AI读取脑中图像",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "魏茨曼科学研究所（Weizmann Institute of Science）的米哈尔·伊拉尼（Michal Irani）及其同事开发了一款新AI工具，能通过脑部扫描推测你正在看什么，并以惊人的精度重现该图像。它也能反向运作，根据一个人看到的内容预测其大脑活动。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+                "cap": "左：受试者看到的画面。右：模型的重建结果。图片来源：研究人员"
               },
               {
                 "t": "p",
-                "x": "UCLA的研究人员开发出一种光学神经处理器，可借助光来帮助识别深度伪造视频。与在数字硬件上逐个检查视频的传统系统不同，由于部分检测过程通过光的物理传播完成，它能同时分析15路及以上的视频流。该研究发表于eLight。"
+                "x": "研究团队利用八名受试者的高分辨率fMRI数据训练了一个双分支“脑解码器”，每人观看了约9,000张图像。一个分支预测图像的结构，另一个预测其内容，共同引导扩散模型重建所见画面。"
               },
               {
                 "t": "p",
-                "x": "一个轻量级数字编码器从每段视频中提取空间、光谱和时间特征，并以相位图样的形式显示在空间光调制器上；随后，一个无源光学解码器为每段视频生成真实性评分。"
+                "x": "为获得更多数据，他们还训练了一个根据图像预测大脑活动的编码器，并将两者结合，相互提升。约70%的训练数据来自从未在扫描仪中向任何人展示过的图像。最终的工具只需新受试者约一小时的fMRI数据即可运行，而早期工具大约需要40小时。"
               },
               {
                 "t": "p",
-                "x": "每次光学处理筛查15段Celeb-DF视频时，该系统的平均准确率为97.79%，灵敏度为99.86%；筛查18段视频时为96.13%。经过极少量微调后，它在未见过的Google VEO-3视频上达到94.80%的准确率，并能抵御黑盒对抗攻击。"
+                "x": "它有时仍会出错，比如把一块蛋糕变成三个三明治，但伊拉尼表示，它“以显著优势”超过了其他工具。她希望接下来拓展到视频、音频、想象和梦境，并帮助闭锁综合征患者进行交流。"
               },
               {
                 "t": "p",
-                "x": "Aydogan Ozcan教授团队将其视为高通量的第一道防线，可疑内容再交由要求更高的数字模型进行最终评估。"
+                "x": "其他科学家警告称，这存在精神隐私风险，尤其是当类似方法转向EEG时。UCSB神经科学家汤米·斯普拉格（Tommy Sprague）说：“我们必须更认真一点地对待伦理问题。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una IA impulsada por luz\ndetecta deepfakes con casi 98%",
-          "body": "La IA óptica de UCLA usa luz para revisar 15 videos a la vez y detecta deepfakes con un 97.79% de precisión media.",
-          "mini_headline": "IA óptica detecta deepfakes",
+          "headline": "Una AI reconstruye lo que ves\na partir de un escáner cerebral",
+          "body": "Científicos crearon un sistema de AI que reconstruye las imágenes que una persona ve mediante escáneres cerebrales.",
+          "mini_headline": "Una AI lee imágenes del cerebro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Una nueva herramienta de AI desarrollada por Michal Irani y sus colegas del Weizmann Institute of Science puede adivinar lo que estás mirando a partir de escáneres cerebrales y recrear esa imagen con una precisión notable. También funciona en sentido inverso: predice la actividad cerebral a partir de lo que ve una persona."
+              },
+              {
                 "t": "img",
-                "src": "https://www.sciencedaily.com/images/1920/optical-ai-technology-that-detects-deepfake-videos.webp"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+                "cap": "Izquierda: lo que vio la persona. Derecha: la reconstrucción del modelo. Cortesía de los investigadores"
               },
               {
                 "t": "p",
-                "x": "Investigadores de UCLA han creado un procesador óptico-neuronal que utiliza la luz para ayudar a identificar videos deepfake. A diferencia de los sistemas convencionales, que examinan los videos uno tras otro en hardware digital, puede analizar 15 o más flujos de video al mismo tiempo, porque parte de la detección ocurre mediante la propagación física de la luz. El estudio se publicó en eLight."
+                "x": "El equipo entrenó un \"decodificador cerebral\" de dos ramas con datos de fMRI de alta resolución de ocho personas que vieron cada una unas 9,000 imágenes. Una rama predice la estructura de la imagen y la otra su contenido, y juntas guían a un modelo de difusión para reconstruir lo que se vio."
               },
               {
                 "t": "p",
-                "x": "Un codificador digital ligero extrae rasgos espaciales, espectrales y temporales de cada video y los muestra como un patrón de fase en un modulador espacial de luz; después, un decodificador óptico pasivo genera una puntuación de autenticidad para cada video."
+                "x": "Para obtener más datos, también entrenaron un codificador que predice la actividad cerebral a partir de una imagen, y usaron ambos para mejorarse mutuamente. Alrededor del 70% de los datos de entrenamiento provino de imágenes que nunca se mostraron a nadie dentro de un escáner. La herramienta resultante funciona con una persona nueva con aproximadamente una hora de datos de fMRI, frente a unas 40 horas de las herramientas anteriores."
               },
               {
                 "t": "p",
-                "x": "Al analizar 15 videos de Celeb-DF por pasada óptica, el sistema alcanzó una precisión media del 97.79% y una sensibilidad del 99.86%, y del 96.13% con 18 videos. Con un ajuste fino mínimo logró un 94.80% de precisión en videos inéditos de Google VEO-3 y resistió ataques adversarios de caja negra."
+                "x": "Todavía falla a veces, como cuando convirtió un pastel en tres sándwiches, pero Irani afirma que superó a las demás \"por un margen significativo\". Espera avanzar hacia el video, el audio, la imaginación y los sueños, y ayudar a comunicarse a las personas con síndrome de enclaustramiento."
               },
               {
                 "t": "p",
-                "x": "El equipo del profesor Aydogan Ozcan lo concibe como una primera línea de defensa de alto rendimiento, que deriva el contenido sospechoso a modelos digitales más exigentes para una evaluación final."
+                "x": "Otros científicos advierten sobre riesgos para la privacidad mental, sobre todo si métodos similares se trasladan al EEG. \"Tenemos que tomarnos un poco más en serio las consideraciones éticas\", afirma Tommy Sprague, neurocientífico de UCSB."
               }
             ]
           }
@@ -315,15 +365,15 @@
       }
     },
     {
-      "id": "riemannclaude",
+      "id": "napoleon-cipher-gpt6astra",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude 리만 실패가\n수학 돌파구 낳았다",
-      "body": "Claude의 리만 가설 증명 실패가 Lamzouri의 새 증명에 영감을 줬다.",
-      "mini_headline": "Claude의 리만 실패가 낳은 영감",
+      "headline": "GPT-6 Astra가\n나폴레옹의 밀서 풀었다",
+      "body": "엔지니어가 GPT-6 Astra로 나폴레옹 밀서의 217년 묵은 암호를 풀었다.",
+      "mini_headline": "AI, 나폴레옹 암호 풀다",
       "tool": "Science",
       "source": "Live Science",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -331,179 +381,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-            "cap": "AI가 소수 이해에 보탬이 될까?"
+            "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
           },
           {
             "t": "p",
-            "x": "수학에서 가장 악명 높은 미해결 문제 하나를 풀려다 실패한 AI 모델의 시도가, 관련 난제를 붙든 인간 수학자의 진전을 도왔다. Anthropic은 8월 10일 미공개 버전의 Claude가 리만 가설을 증명(또는 반증)하려 한 과정을 프리프린트로 공개했다."
+            "x": "나폴레옹 보나파르트(Napoleon Bonaparte)가 장군들에게 비밀 메시지를 보낼 때 쓰던 암호는 그동안 풀리지 않았다. 한 엔지니어가 AI로 이 암호를 해독하면서 217년 된 편지를 처음 읽을 수 있게 됐다."
           },
           {
             "t": "p",
-            "x": "시도가 실패하자 연구팀은 목표를 낮췄다. 리만 제타 함수의 영점 가운데 임계선 위에 놓인 비율의 최솟값이다. 1989년부터 수학자들은 그 비율이 최소 40%라는 것을 알았다. Claude는 이를 67.25%까지 끌어올렸다."
+            "x": "SentinelOne의 AI 엔지니어 카터 처치(Carter Church)는 OpenAI의 GPT-6 Astra에 프롬프트 하나와 이미지 한 장을 줬더니 약 6시간 뒤 작업이 끝났다고 말했다. 1809년의 이 편지는 나폴레옹의 요청으로 의붓아들 외젠(Eugène)이 아드리아해 연안의 오귀스트 드 마르몽(Auguste de Marmont) 원수에게 보냈다. 안에는 프랑스군과 동맹군의 위치가 적혀 있었다."
           },
           {
             "t": "p",
-            "x": "University of Lorraine의 Youness Lamzouri는 Claude의 논문이 지나치게 복잡하다고 보고 Claude가 토대로 삼은 연구를 직접 읽었다. 그러다 수학의 상당 부분을 우회하는 제약 조건을 찾아냈다. 더 간단한 그의 증명도 같은 67.25%에 이르렀고, 단순 영점도 아니면서 임계선 위에도 없는 영점이 최대 11%라는 사실까지 보였다."
+            "x": "모델은 155가지 기호가 담긴 1969년 저해상도 스캔본에서 본문을 옮겨 적었다. 이어 스스로 웹을 검색해 암호사학자 다니엘 탕(Daniel Tant)이 만든 33개 기호의 부분 대조표를 찾아냈고, 이 표로 나머지를 풀었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+            "cap": "암호 메시지의 수신 예정자였던 오귀스트 프레데리크 루이 비스 드 마르몽(Auguste Frederic Louis Viesse de Marmont)."
           },
           {
             "t": "p",
-            "x": "\"Claude와 저 사이에서 일어난 일이 바로 이것입니다\"라고 Lamzouri는 말했다. 그는 AI를 보물을 캐내는 거대한 기계에, 인간을 그 보물을 이해하려 애쓰는 존재에 빗댔다. 필즈상 수상자 James Maynard는 AI 시대에 일이 어떻게 나아갈 수 있는지 보여주는 긍정적인 사례라고 평했다."
+            "x": "킹스칼리지런던(King's College London)의 역사학자 마이클 로(Michael Rowe)는 “일종의 로제타석 같은 것”이라면서도, 해독문이 나폴레옹의 원래 지시와 일치해 새로 드러난 내용은 거의 없다고 짚었다. 해독 결과는 암호학자 사토시 도모키요(Satoshi Tomokiyo)가 확인했고, 그가 운영하는 Cryptiana 사이트에는 이 편지가 해독 완료로 올라 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Claude's failed Riemann attempt\nsparked a math breakthrough",
-          "body": "Claude failed to prove the Riemann hypothesis, yet its attempt inspired mathematician Youness Lamzouri's new proof.",
-          "mini_headline": "Claude's Riemann miss inspires",
+          "headline": "GPT-6 Astra cracks a secret\nletter ordered by Napoleon",
+          "body": "An engineer used GPT-6 Astra to crack the 217-year-old cipher of a letter Napoleon ordered sent to one of his marshals.",
+          "mini_headline": "AI cracks\nNapoleon's cipher",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-                "cap": "Could AI contribute to understanding prime numbers?"
+                "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "An AI model's failed attempt to crack one of math's most notorious unsolved problems has helped a human mathematician make progress on a related puzzle. On Aug. 10, Anthropic published a preprint describing how an unreleased version of Claude attempted to prove (or disprove) the Riemann hypothesis."
+                "x": "An engineer has used AI to break a previously unsolved cipher Napoleon Bonaparte used to send secret messages to his generals, letting a 217-year-old letter be read for the first time."
               },
               {
                 "t": "p",
-                "x": "The attempt failed, so the team settled on a lower objective: the minimum proportion of zeroes of the Riemann zeta function that sit on the critical line. Since 1989, mathematicians have known that at least 40% do. Claude achieved 67.25%."
+                "x": "Carter Church, an AI engineer at SentinelOne, said he gave OpenAI's GPT-6 Astra one prompt and one image; about six hours later the task was complete. The 1809 letter, sent at Napoleon's request by his stepson Eugène to Marshal Auguste de Marmont on the Adriatic coast, gave the positions of French and allied armies."
               },
               {
                 "t": "p",
-                "x": "Youness Lamzouri of the University of Lorraine found Claude's paper too complicated, so he read the work Claude had drawn on and spotted a constraint that bypassed much of the math. His simpler proof reached the same 67.25% and showed that at most 11% of zeroes are neither simple nor on the line."
+                "x": "Working from a low-resolution 1969 scan with 155 different signs, the model transcribed the text and, through its own web research, found a partial table by cryptology historian Daniel Tant covering 33 symbols, then used it to decode the rest."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+                "cap": "Auguste Frederic Louis Viesse de Marmont, the intended recipient of the coded message."
               },
               {
                 "t": "p",
-                "x": "\"This is what happened with Claude and me,\" Lamzouri said, likening the AI to big machines extracting a treasure while humans work to understand it. Fields Medalist James Maynard called it a positive example of how things can progress in light of AI."
+                "x": "\"It's a bit like a kind of Rosetta Stone,\" said King's College London historian Michael Rowe, noting the result matches Napoleon's original instructions, so it reveals little new. The result was confirmed by cryptographer Satoshi Tomokiyo, whose Cryptiana site now lists the letter as solved."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude 리만 실패가\n수학 돌파구 낳았다",
-          "body": "Claude의 리만 가설 증명 실패가 Lamzouri의 새 증명에 영감을 줬다.",
-          "mini_headline": "Claude의 리만 실패가 낳은 영감",
+          "headline": "GPT-6 Astra가\n나폴레옹의 밀서 풀었다",
+          "body": "엔지니어가 GPT-6 Astra로 나폴레옹 밀서의 217년 묵은 암호를 풀었다.",
+          "mini_headline": "AI, 나폴레옹 암호 풀다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-                "cap": "AI가 소수 이해에 보탬이 될까?"
+                "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "수학에서 가장 악명 높은 미해결 문제 하나를 풀려다 실패한 AI 모델의 시도가, 관련 난제를 붙든 인간 수학자의 진전을 도왔다. Anthropic은 8월 10일 미공개 버전의 Claude가 리만 가설을 증명(또는 반증)하려 한 과정을 프리프린트로 공개했다."
+                "x": "나폴레옹 보나파르트(Napoleon Bonaparte)가 장군들에게 비밀 메시지를 보낼 때 쓰던 암호는 그동안 풀리지 않았다. 한 엔지니어가 AI로 이 암호를 해독하면서 217년 된 편지를 처음 읽을 수 있게 됐다."
               },
               {
                 "t": "p",
-                "x": "시도가 실패하자 연구팀은 목표를 낮췄다. 리만 제타 함수의 영점 가운데 임계선 위에 놓인 비율의 최솟값이다. 1989년부터 수학자들은 그 비율이 최소 40%라는 것을 알았다. Claude는 이를 67.25%까지 끌어올렸다."
+                "x": "SentinelOne의 AI 엔지니어 카터 처치(Carter Church)는 OpenAI의 GPT-6 Astra에 프롬프트 하나와 이미지 한 장을 줬더니 약 6시간 뒤 작업이 끝났다고 말했다. 1809년의 이 편지는 나폴레옹의 요청으로 의붓아들 외젠(Eugène)이 아드리아해 연안의 오귀스트 드 마르몽(Auguste de Marmont) 원수에게 보냈다. 안에는 프랑스군과 동맹군의 위치가 적혀 있었다."
               },
               {
                 "t": "p",
-                "x": "University of Lorraine의 Youness Lamzouri는 Claude의 논문이 지나치게 복잡하다고 보고 Claude가 토대로 삼은 연구를 직접 읽었다. 그러다 수학의 상당 부분을 우회하는 제약 조건을 찾아냈다. 더 간단한 그의 증명도 같은 67.25%에 이르렀고, 단순 영점도 아니면서 임계선 위에도 없는 영점이 최대 11%라는 사실까지 보였다."
+                "x": "모델은 155가지 기호가 담긴 1969년 저해상도 스캔본에서 본문을 옮겨 적었다. 이어 스스로 웹을 검색해 암호사학자 다니엘 탕(Daniel Tant)이 만든 33개 기호의 부분 대조표를 찾아냈고, 이 표로 나머지를 풀었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+                "cap": "암호 메시지의 수신 예정자였던 오귀스트 프레데리크 루이 비스 드 마르몽(Auguste Frederic Louis Viesse de Marmont)."
               },
               {
                 "t": "p",
-                "x": "\"Claude와 저 사이에서 일어난 일이 바로 이것입니다\"라고 Lamzouri는 말했다. 그는 AI를 보물을 캐내는 거대한 기계에, 인간을 그 보물을 이해하려 애쓰는 존재에 빗댔다. 필즈상 수상자 James Maynard는 AI 시대에 일이 어떻게 나아갈 수 있는지 보여주는 긍정적인 사례라고 평했다."
+                "x": "킹스칼리지런던(King's College London)의 역사학자 마이클 로(Michael Rowe)는 “일종의 로제타석 같은 것”이라면서도, 해독문이 나폴레옹의 원래 지시와 일치해 새로 드러난 내용은 거의 없다고 짚었다. 해독 결과는 암호학자 사토시 도모키요(Satoshi Tomokiyo)가 확인했고, 그가 운영하는 Cryptiana 사이트에는 이 편지가 해독 완료로 올라 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeのリーマン失敗\n数学の突破口を開く",
-          "body": "Claudeはリーマン予想の証明に失敗したが、その試みがLamzouriの新証明を促した。",
-          "mini_headline": "Claudeの失敗が着想に",
+          "headline": "GPT-6 Astraが\nナポレオンの密書を解読",
+          "body": "技術者がGPT-6 Astraでナポレオンが元帥に送らせた217年前の手紙の暗号を解いた。",
+          "mini_headline": "AIがナポレオンの暗号を解読",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-                "cap": "AIは素数の理解に貢献できるのか?"
+                "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "数学で最も悪名高い未解決問題の一つに挑んだAIモデルの失敗が、人間の数学者が関連する難問で前進する助けとなった。Anthropicは8月10日、未公開版のClaudeがリーマン予想の証明(あるいは反証)を試みた経緯をまとめたプレプリントを公開した。"
+                "x": "あるエンジニアがAIを使い、ナポレオン・ボナパルト(Napoleon Bonaparte)が将軍たちに秘密のメッセージを送る際に用いた未解読の暗号を解いた。これにより、217年前の手紙が初めて読めるようになった。"
               },
               {
                 "t": "p",
-                "x": "試みは失敗に終わり、チームはより低い目標に切り替えた。リーマンゼータ関数の零点のうち、臨界線上にあるものの割合の下限である。1989年以降、少なくとも40%がそうであることが知られていた。Claudeは67.25%を達成した。"
+                "x": "SentinelOneのAIエンジニア、カーター・チャーチ(Carter Church)氏によると、OpenAIのGPT-6 Astraにプロンプトを一つ、画像を一枚与えたところ、約六時間後に作業が完了したという。1809年のこの手紙は、ナポレオンの求めで継子ウジェーヌ(Eugène)がアドリア海沿岸のオーギュスト・ド・マルモン(Auguste de Marmont)元帥に送ったもので、フランス軍と同盟軍の配置が記されていた。"
               },
               {
                 "t": "p",
-                "x": "University of LorraineのYouness Lamzouriは、Claudeの論文が複雑すぎると感じ、Claudeが下敷きにした研究を読み込んで、数学の多くを迂回できる制約を見つけた。彼のより簡潔な証明は同じ67.25%に到達し、単純零点でも臨界線上でもない零点は多くても11%であることも示した。"
+                "x": "モデルは155種類の記号を含む1969年の低解像度スキャンをもとに文面を書き起こし、自らウェブを調べて暗号史家ダニエル・タン(Daniel Tant)による33記号分の部分的な対応表を見つけ、それを使って残りを解読した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+                "cap": "暗号文の本来の受取人、オーギュスト・フレデリック・ルイ・ヴィエス・ド・マルモン(Auguste Frederic Louis Viesse de Marmont)。"
               },
               {
                 "t": "p",
-                "x": "「Claudeと私の間で起きたのはまさにこれだ」とLamzouriは語り、AIを宝を掘り出す巨大な機械に、人間をそれを理解しようと努める存在にたとえた。フィールズ賞受賞者のJames Maynardは、AIを踏まえて物事がどう進みうるかを示す好例だと評した。"
+                "x": "キングス・カレッジ・ロンドン(King's College London)の歴史家マイケル・ロウ(Michael Rowe)氏は「ある種のロゼッタ・ストーンのようなものだ」と述べ、結果はナポレオンの元の指示と一致しており、新たにわかることは少ないと指摘した。結果は暗号研究家のサトシ・トモキヨ(Satoshi Tomokiyo)氏が確認し、同氏のCryptianaサイトは現在この手紙を解読済みとして掲載している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude黎曼猜想受挫\n却催生数学突破",
-          "body": "Claude未能证明黎曼猜想，但其尝试启发Youness Lamzouri给出新证明。",
-          "mini_headline": "Claude的黎曼失败带来启发",
+          "headline": "GPT-6 Astra破解\n拿破仑授意的密信",
+          "body": "工程师用GPT-6 Astra破解了拿破仑命人寄给麾下元帅的217年前密信。",
+          "mini_headline": "AI破解拿破仑密码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-                "cap": "AI能否帮助人类理解素数？"
+                "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "一个AI模型在攻克数学界最著名的未解难题之一时失败了，却帮助一位人类数学家在相关难题上取得进展。8月10日，Anthropic发布了一篇预印本，介绍一个未发布版本的Claude如何尝试证明（或证伪）黎曼猜想。"
+                "x": "一名工程师借助AI破解了拿破仑·波拿巴（Napoleon Bonaparte）向麾下将领传递秘密信息时使用的一种此前未被破解的密码，让一封217年前的信件首次得以解读。"
               },
               {
                 "t": "p",
-                "x": "尝试失败后，团队转向一个较低的目标：黎曼ζ函数位于临界线上的零点所占比例的下限。自1989年以来，数学家已知这一比例至少为40%。Claude则达到了67.25%。"
+                "x": "SentinelOne的AI工程师卡特·丘奇（Carter Church）说，他只给了OpenAI的GPT-6 Astra一个提示词和一张图片，大约六小时后任务就完成了。这封1809年的信由拿破仑授意、其继子欧仁（Eugène）寄给驻守亚得里亚海沿岸的奥古斯特·德·马尔蒙（Auguste de Marmont）元帅，信中列出了法军和盟军的部署位置。"
               },
               {
                 "t": "p",
-                "x": "University of Lorraine的Youness Lamzouri觉得Claude的论文过于复杂，于是阅读了Claude所借鉴的研究，发现了一个可绕开大量数学推导的约束条件。他更简洁的证明同样达到67.25%，并表明既非单零点、也不在临界线上的零点至多占11%。"
+                "x": "模型以一份1969年、包含155种不同符号的低分辨率扫描件为基础转录了文本，并通过自主网络检索，找到了密码学史学者丹尼尔·唐（Daniel Tant）整理的一份涵盖33个符号的部分对照表，随后用它破译了其余部分。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+                "cap": "奥古斯特·弗雷德里克·路易·维耶斯·德·马尔蒙（Auguste Frederic Louis Viesse de Marmont），这封密信原定的收信人。"
               },
               {
                 "t": "p",
-                "x": "“这正是发生在Claude和我之间的事，”Lamzouri说。他把AI比作挖掘宝藏的大型机器，而人类则努力去理解这些宝藏。菲尔兹奖得主James Maynard称，这是一个积极的例子，展示了在AI背景下事情可以如何推进。"
+                "x": "伦敦国王学院（King's College London）历史学家迈克尔·罗（Michael Rowe）说：“这有点像一种罗塞塔石碑。”他指出，结果与拿破仑的原始指令一致，因此几乎没有揭示新内容。该结果已由密码学家Satoshi Tomokiyo证实，他的Cryptiana网站现已将这封信列为已破解。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El fallo de Claude con Riemann\nimpulsó un avance matemático",
-          "body": "Claude no logró demostrar la hipótesis de Riemann, pero su intento inspiró una nueva prueba de Youness Lamzouri.",
-          "mini_headline": "El fallo de Claude inspira",
+          "headline": "GPT-6 Astra descifra una carta\nsecreta ordenada por Napoleón",
+          "body": "Con GPT-6 Astra, un ingeniero descifró el código de 217 años de una carta que Napoleón hizo enviar a un mariscal.",
+          "mini_headline": "Una AI descifra el código de Napoleón",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-                "cap": "¿Podría la IA contribuir a entender los números primos?"
+                "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "El intento fallido de un modelo de IA por resolver uno de los problemas abiertos más célebres de las matemáticas ha ayudado a un matemático humano a avanzar en un enigma relacionado. El 10 de agosto, Anthropic publicó un preprint en el que describe cómo una versión no lanzada de Claude intentó demostrar (o refutar) la hipótesis de Riemann."
+                "x": "Un ingeniero ha usado AI para romper un cifrado hasta ahora sin resolver que Napoleón Bonaparte empleaba para enviar mensajes secretos a sus generales, lo que ha permitido leer por primera vez una carta de 217 años."
               },
               {
                 "t": "p",
-                "x": "El intento fracasó, así que el equipo se fijó un objetivo más modesto: la proporción mínima de ceros de la función zeta de Riemann que se encuentran sobre la línea crítica. Desde 1989, los matemáticos saben que al menos el 40% lo están. Claude alcanzó el 67.25%."
+                "x": "Carter Church, ingeniero de AI en SentinelOne, contó que dio a GPT-6 Astra, de OpenAI, un solo prompt y una sola imagen; unas seis horas después, la tarea estaba completa. La carta de 1809, enviada a petición de Napoleón por su hijastro Eugène al mariscal Auguste de Marmont en la costa del Adriático, indicaba las posiciones de los ejércitos franceses y aliados."
               },
               {
                 "t": "p",
-                "x": "Youness Lamzouri, de la University of Lorraine, consideró el artículo de Claude demasiado complicado, así que leyó los trabajos en los que se había basado Claude y detectó una restricción que evitaba gran parte de las matemáticas. Su prueba más sencilla llegó al mismo 67.25% y mostró que, como máximo, el 11% de los ceros no son simples ni están sobre la línea."
+                "x": "A partir de un escaneo de baja resolución de 1969 con 155 signos distintos, el modelo transcribió el texto y, mediante su propia búsqueda en la web, encontró una tabla parcial del historiador de la criptología Daniel Tant que cubría 33 símbolos, y luego la usó para descifrar el resto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+                "cap": "Auguste Frederic Louis Viesse de Marmont, el destinatario previsto del mensaje cifrado."
               },
               {
                 "t": "p",
-                "x": "\"Esto es lo que pasó entre Claude y yo\", dijo Lamzouri, quien comparó la IA con grandes máquinas que extraen un tesoro mientras los humanos trabajan para entenderlo. James Maynard, ganador de la Medalla Fields, lo calificó como un ejemplo positivo de cómo pueden avanzar las cosas a la luz de la IA."
+                "x": "\"Es un poco como una especie de piedra de Rosetta\", dijo Michael Rowe, historiador del King's College London, quien señaló que el resultado coincide con las instrucciones originales de Napoleón, por lo que revela poco nuevo. El resultado lo confirmó el criptógrafo Satoshi Tomokiyo, cuyo sitio Cryptiana ya incluye la carta como resuelta."
               }
             ]
           }
@@ -511,125 +585,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude 리만 실패가\n수학 돌파구 낳았다",
-          "body": "Claude의 리만 가설 증명 실패가 Lamzouri의 새 증명에 영감을 줬다.",
-          "mini_headline": "Claude의 리만 실패가 낳은 영감",
+          "headline": "GPT-6 Astra가\n나폴레옹의 밀서 풀었다",
+          "body": "엔지니어가 GPT-6 Astra로 나폴레옹 밀서의 217년 묵은 암호를 풀었다.",
+          "mini_headline": "AI, 나폴레옹 암호 풀다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-                "cap": "AI가 소수를 이해하는 데 기여할 수 있을까?"
+                "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "수학의 가장 악명 높은 미해결 문제 가운데 하나를 풀려던 AI 모델의 실패한 시도가, 인간 수학자가 관련 난제에서 진전을 이루는 데 도움을 줬다. Anthropic은 8월 10일, 공개되지 않은 버전의 Claude가 리만 가설을 증명(또는 반증)하려 한 과정을 담은 프리프린트를 공개했다."
+                "x": "한 엔지니어가 AI를 이용해 나폴레옹 보나파르트(Napoleon Bonaparte)가 장군들에게 비밀 메시지를 보낼 때 쓰던, 그동안 풀리지 않던 암호를 해독했다. 덕분에 217년 된 편지를 처음으로 읽을 수 있게 됐다."
               },
               {
                 "t": "p",
-                "x": "시도는 실패했고, 연구팀은 더 낮은 목표로 방향을 틀었다. 리만 제타 함수의 영점 가운데 임계선 위에 놓인 비율의 최솟값이다. 수학자들은 1989년부터 그 비율이 최소 40%라는 사실을 알고 있었다. Claude는 67.25%를 달성했다."
+                "x": "SentinelOne의 AI 엔지니어 카터 처치(Carter Church)는 OpenAI의 GPT-6 Astra에 프롬프트 하나와 이미지 한 장을 줬고, 약 6시간 뒤 작업이 끝났다고 말했다. 이 1809년 편지는 나폴레옹의 요청에 따라 의붓아들 외젠(Eugène)이 아드리아해 연안의 오귀스트 드 마르몽(Auguste de Marmont) 원수에게 보낸 것으로, 프랑스군과 동맹군의 위치가 담겨 있었다."
               },
               {
                 "t": "p",
-                "x": "University of Lorraine의 Youness Lamzouri는 Claude의 논문이 지나치게 복잡하다고 느껴, Claude가 바탕으로 삼은 연구를 직접 읽었고 수학의 상당 부분을 우회하는 제약 조건을 찾아냈다. 그의 더 간단한 증명은 같은 67.25%에 도달했으며, 단순 영점도 아니고 임계선 위에도 없는 영점이 최대 11%라는 점도 보였다."
+                "x": "모델은 155가지 기호가 담긴 1969년의 저해상도 스캔본을 바탕으로 본문을 옮겨 적었고, 스스로 웹을 검색해 암호사학자 다니엘 탕(Daniel Tant)이 만든 33개 기호의 부분 대조표를 찾아낸 뒤 이를 이용해 나머지를 해독했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+                "cap": "암호 메시지의 수신 예정자였던 오귀스트 프레데리크 루이 비스 드 마르몽(Auguste Frederic Louis Viesse de Marmont)."
               },
               {
                 "t": "p",
-                "x": "\"Claude와 저 사이에서 일어난 일이 바로 이것입니다\"라고 Lamzouri는 말했다. 그는 AI를 보물을 캐내는 거대한 기계에, 인간을 그 보물을 이해하려 애쓰는 존재에 빗댔다. 필즈상 수상자 James Maynard는 이를 AI 시대에 일이 어떻게 진전될 수 있는지 보여주는 긍정적인 사례라고 평했다."
+                "x": "킹스칼리지런던(King's College London)의 역사학자 마이클 로(Michael Rowe)는 “일종의 로제타석 같은 것”이라며, 결과가 나폴레옹의 원래 지시와 일치해 새로 드러난 내용은 거의 없다고 짚었다. 이 결과는 암호학자 사토시 도모키요(Satoshi Tomokiyo)가 확인했으며, 그가 운영하는 Cryptiana 사이트는 현재 이 편지를 해독 완료로 올려 두었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeのリーマン失敗\n数学の突破口を開く",
-          "body": "Claudeはリーマン予想の証明に失敗したが、その試みがLamzouriの新証明を促した。",
-          "mini_headline": "Claudeの失敗が着想に",
+          "headline": "GPT-6 Astraが\nナポレオンの密書を解読",
+          "body": "技術者がGPT-6 Astraでナポレオンが元帥に送らせた217年前の手紙の暗号を解いた。",
+          "mini_headline": "AIがナポレオンの暗号を解読",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-                "cap": "AIは素数の理解に貢献できるのか?"
+                "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "数学で最も悪名高い未解決問題の一つに挑んだAIモデルの失敗が、人間の数学者が関連する難問で前進する助けとなった。Anthropicは8月10日、未公開版のClaudeがリーマン予想の証明(あるいは反証)を試みた経緯をまとめたプレプリントを公開した。"
+                "x": "あるエンジニアがAIを使い、ナポレオン・ボナパルト(Napoleon Bonaparte)が将軍たちに秘密のメッセージを送る際に用いた未解読の暗号を解いた。これにより、217年前の手紙が初めて読めるようになった。"
               },
               {
                 "t": "p",
-                "x": "試みは失敗に終わり、チームはより低い目標に切り替えた。リーマンゼータ関数の零点のうち、臨界線上にあるものの割合の下限である。1989年以降、少なくとも40%がそうであることが知られていた。Claudeは67.25%を達成した。"
+                "x": "SentinelOneのAIエンジニア、カーター・チャーチ(Carter Church)氏によると、OpenAIのGPT-6 Astraにプロンプトを一つ、画像を一枚与えたところ、約六時間後に作業が完了したという。1809年のこの手紙は、ナポレオンの求めで継子ウジェーヌ(Eugène)がアドリア海沿岸のオーギュスト・ド・マルモン(Auguste de Marmont)元帥に送ったもので、フランス軍と同盟軍の配置が記されていた。"
               },
               {
                 "t": "p",
-                "x": "University of LorraineのYouness Lamzouriは、Claudeの論文が複雑すぎると感じ、Claudeが下敷きにした研究を読み込んで、数学の多くを迂回できる制約を見つけた。彼のより簡潔な証明は同じ67.25%に到達し、単純零点でも臨界線上でもない零点は多くても11%であることも示した。"
+                "x": "モデルは155種類の記号を含む1969年の低解像度スキャンをもとに文面を書き起こし、自らウェブを調べて暗号史家ダニエル・タン(Daniel Tant)による33記号分の部分的な対応表を見つけ、それを使って残りを解読した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+                "cap": "暗号文の本来の受取人、オーギュスト・フレデリック・ルイ・ヴィエス・ド・マルモン(Auguste Frederic Louis Viesse de Marmont)。"
               },
               {
                 "t": "p",
-                "x": "「Claudeと私の間で起きたのはまさにこれだ」とLamzouriは語り、AIを宝を掘り出す巨大な機械に、人間をそれを理解しようと努める存在にたとえた。フィールズ賞受賞者のJames Maynardは、AIを踏まえて物事がどう進みうるかを示す好例だと評した。"
+                "x": "キングス・カレッジ・ロンドン(King's College London)の歴史家マイケル・ロウ(Michael Rowe)氏は「ある種のロゼッタ・ストーンのようなものだ」と述べ、結果はナポレオンの元の指示と一致しており、新たにわかることは少ないと指摘した。結果は暗号研究家のサトシ・トモキヨ(Satoshi Tomokiyo)氏が確認し、同氏のCryptianaサイトは現在この手紙を解読済みとして掲載している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude黎曼猜想受挫\n却催生数学突破",
-          "body": "Claude未能证明黎曼猜想，但其尝试启发Youness Lamzouri给出新证明。",
-          "mini_headline": "Claude的黎曼失败带来启发",
+          "headline": "GPT-6 Astra破解\n拿破仑授意的密信",
+          "body": "工程师用GPT-6 Astra破解了拿破仑命人寄给麾下元帅的217年前密信。",
+          "mini_headline": "AI破解拿破仑密码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-                "cap": "AI能否帮助人类理解素数？"
+                "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "一个AI模型在攻克数学界最著名的未解难题之一时失败了，却帮助一位人类数学家在相关难题上取得进展。8月10日，Anthropic发布了一篇预印本，介绍一个未发布版本的Claude如何尝试证明（或证伪）黎曼猜想。"
+                "x": "一名工程师借助AI破解了拿破仑·波拿巴（Napoleon Bonaparte）向麾下将领传递秘密信息时使用的一种此前未被破解的密码，让一封217年前的信件首次得以解读。"
               },
               {
                 "t": "p",
-                "x": "尝试失败后，团队转向一个较低的目标：黎曼ζ函数位于临界线上的零点所占比例的下限。自1989年以来，数学家已知这一比例至少为40%。Claude则达到了67.25%。"
+                "x": "SentinelOne的AI工程师卡特·丘奇（Carter Church）说，他只给了OpenAI的GPT-6 Astra一个提示词和一张图片，大约六小时后任务就完成了。这封1809年的信由拿破仑授意、其继子欧仁（Eugène）寄给驻守亚得里亚海沿岸的奥古斯特·德·马尔蒙（Auguste de Marmont）元帅，信中列出了法军和盟军的部署位置。"
               },
               {
                 "t": "p",
-                "x": "University of Lorraine的Youness Lamzouri觉得Claude的论文过于复杂，于是阅读了Claude所借鉴的研究，发现了一个可绕开大量数学推导的约束条件。他更简洁的证明同样达到67.25%，并表明既非单零点、也不在临界线上的零点至多占11%。"
+                "x": "模型以一份1969年、包含155种不同符号的低分辨率扫描件为基础转录了文本，并通过自主网络检索，找到了密码学史学者丹尼尔·唐（Daniel Tant）整理的一份涵盖33个符号的部分对照表，随后用它破译了其余部分。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+                "cap": "奥古斯特·弗雷德里克·路易·维耶斯·德·马尔蒙（Auguste Frederic Louis Viesse de Marmont），这封密信原定的收信人。"
               },
               {
                 "t": "p",
-                "x": "“这正是发生在Claude和我之间的事，”Lamzouri说。他把AI比作挖掘宝藏的大型机器，而人类则努力去理解这些宝藏。菲尔兹奖得主James Maynard称，这是一个积极的例子，展示了在AI背景下事情可以如何推进。"
+                "x": "伦敦国王学院（King's College London）历史学家迈克尔·罗（Michael Rowe）说：“这有点像一种罗塞塔石碑。”他指出，结果与拿破仑的原始指令一致，因此几乎没有揭示新内容。该结果已由密码学家Satoshi Tomokiyo证实，他的Cryptiana网站现已将这封信列为已破解。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El fallo de Claude con Riemann\nimpulsó un avance matemático",
-          "body": "Claude no logró demostrar la hipótesis de Riemann, pero su intento inspiró una nueva prueba de Youness Lamzouri.",
-          "mini_headline": "El fallo de Claude inspira",
+          "headline": "GPT-6 Astra descifra una carta\nsecreta ordenada por Napoleón",
+          "body": "Con GPT-6 Astra, un ingeniero descifró el código de 217 años de una carta que Napoleón hizo enviar a un mariscal.",
+          "mini_headline": "Una AI descifra el código de Napoleón",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ot6HnDML5hbMakSDnJNbh6-2560-80.jpg",
-                "cap": "¿Podría la IA contribuir a entender los números primos?"
+                "src": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "El intento fallido de un modelo de IA por resolver uno de los problemas abiertos más célebres de las matemáticas ha ayudado a un matemático humano a avanzar en un enigma relacionado. El 10 de agosto, Anthropic publicó un preprint en el que describe cómo una versión no lanzada de Claude intentó demostrar (o refutar) la hipótesis de Riemann."
+                "x": "Un ingeniero ha usado AI para romper un cifrado hasta ahora sin resolver que Napoleón Bonaparte empleaba para enviar mensajes secretos a sus generales, lo que ha permitido leer por primera vez una carta de 217 años."
               },
               {
                 "t": "p",
-                "x": "El intento fracasó, así que el equipo se fijó un objetivo más modesto: la proporción mínima de ceros de la función zeta de Riemann que se encuentran sobre la línea crítica. Desde 1989, los matemáticos saben que al menos el 40% lo están. Claude alcanzó el 67.25%."
+                "x": "Carter Church, ingeniero de AI en SentinelOne, contó que dio a GPT-6 Astra, de OpenAI, un solo prompt y una sola imagen; unas seis horas después, la tarea estaba completa. La carta de 1809, enviada a petición de Napoleón por su hijastro Eugène al mariscal Auguste de Marmont en la costa del Adriático, indicaba las posiciones de los ejércitos franceses y aliados."
               },
               {
                 "t": "p",
-                "x": "Youness Lamzouri, de la University of Lorraine, consideró el artículo de Claude demasiado complicado, así que leyó los trabajos en los que se había basado Claude y detectó una restricción que evitaba gran parte de las matemáticas. Su prueba más sencilla llegó al mismo 67.25% y mostró que, como máximo, el 11% de los ceros no son simples ni están sobre la línea."
+                "x": "A partir de un escaneo de baja resolución de 1969 con 155 signos distintos, el modelo transcribió el texto y, mediante su propia búsqueda en la web, encontró una tabla parcial del historiador de la criptología Daniel Tant que cubría 33 símbolos, y luego la usó para descifrar el resto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/RQjoVTmMfcAXWy3efeux6N.jpg",
+                "cap": "Auguste Frederic Louis Viesse de Marmont, el destinatario previsto del mensaje cifrado."
               },
               {
                 "t": "p",
-                "x": "\"Esto es lo que pasó entre Claude y yo\", dijo Lamzouri, quien comparó la IA con grandes máquinas que extraen un tesoro mientras los humanos trabajan para entenderlo. James Maynard, ganador de la Medalla Fields, lo calificó como un ejemplo positivo de cómo pueden avanzar las cosas a la luz de la IA."
+                "x": "\"Es un poco como una especie de piedra de Rosetta\", dijo Michael Rowe, historiador del King's College London, quien señaló que el resultado coincide con las instrucciones originales de Napoleón, por lo que revela poco nuevo. El resultado lo confirmó el criptógrafo Satoshi Tomokiyo, cuyo sitio Cryptiana ya incluye la carta como resuelta."
               }
             ]
           }
@@ -637,311 +727,321 @@
       }
     },
     {
-      "id": "stratego",
+      "id": "lmu-ai-consciousness-study",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "게임 AI Ataraxos\nStratego 새 챔피언",
-      "body": "MIT 등의 AI가 훨씬 적은 학습 비용으로 Stratego 최강자들을 꺾었다.",
-      "mini_headline": "AI, Stratego 정상에 서다",
+      "headline": "사람들 눈에 AI는\n여전히 의식이 덜하다",
+      "body": "LMU Munich 실험서 약 1,100명이 AI를 인간보다 덜 의식적이라 봤다.",
+      "mini_headline": "덜 의식적으로 보이는 AI",
       "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "AI가 사용자를 속이거나 스스로 목표를 좇는다는 이야기를 듣다 보면 AI에 마음이 있는 것처럼 말하게 된다. 그런데 Cognition에 실린 LMU의 새 연구를 보면 사람들은 지능적인 행동과 의식 사이에 놀라울 만큼 뚜렷한 선을 긋는다."
+          },
+          {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+            "cap": "가설, 실험 설계, 연구 개요. 출처: Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
           },
           {
             "t": "p",
-            "x": "MIT, Carnegie Mellon University(CMU), New York University(NYU), Stanford University 연구진이 보드 전쟁 게임 Stratego의 최상위 인간 선수들을 큰 차이로 꺾는 AI를 만들었다. 지금껏 어떤 AI 시스템도 해내지 못한 일이다. 연구는 Nature에 실렸다."
+            "x": "루이 롱긴(Louis Longin) 박사가 이끈 연구팀은 참가자 약 1,100명에게 AI나 인간이 주변 환경에 반응하는 정도를 달리한 시나리오를 읽힌 뒤 주인공의 의식이나 인식 수준을 매기게 했다."
           },
           {
             "t": "p",
-            "x": "Stratego에서는 말끼리 부딪히기 전까지 각 말의 정체가 드러나지 않는다. 가능한 말 배치도 10의 66제곱이 넘는다. Google DeepMind 등의 이전 시도는 학습에 수백만 달러를 쓰고도 최상위 인간 선수를 넘지 못했다."
+            "x": "반응을 많이 하는 행위자일수록 의식과 인식 모두 높은 평가를 받았다. 그런데 가장 잘 반응하는 AI조차 의식만큼은 가장 덜 반응하는 인간보다 낮게 평가됐다. 인식 평가는 AI와 인간이 거의 같은 양상이었다."
           },
           {
             "t": "p",
-            "x": "Ataraxos라는 이 시스템은 자기 대국 강화학습으로 청사진 전략을 익힌다. 그다음 상대의 숨은 말을 추정하는 생성 모델로 결정 시점 계획을 세운다. DeepNash가 쓴 학습 예시의 백분의 일도 안 되는 양으로 DeepNash를 넘어섰다."
-          },
-          {
-            "t": "p",
-            "x": "Ataraxos는 세계 최강 Stratego 선수를 15-1-4로 이겼고, 세계 선수권 대회에서는 최상위 선수들을 상대로 39-2를 거뒀다. Barrage Stratego, Hanabi, Dou dizhu에서도 초인 수준에 올랐다. 교신저자 Gabriele Farina는 협상이나 사이버 보안처럼 정보가 가려진 문제에 도움이 될 수 있다고 본다."
+            "x": "롱긴은 “사람들은 AI가 무언가를 알아차리고 주변을 인식한다고 말하는 데는 꽤 거리낌이 없다. 하지만 ‘의식’이라는 단어에 이르면 분명히 선을 긋는다”고 말했다. 책임저자 바하도르 바흐라미(Bahador Bahrami)는 AI를 두고 어떤 말을 고르느냐가 왜 중요한지 이번 결과가 보여준다고 설명했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Game-playing AI Ataraxos is\nthe new Stratego champ",
-          "body": "An AI from MIT, CMU, NYU and Stanford beat top Stratego players while costing far less to train than rivals.",
-          "mini_headline": "AI takes the Stratego crown",
+          "headline": "People still rate AI as\nless conscious than humans",
+          "body": "In tests with nearly 1,100 people, LMU Munich found AI was rated less conscious than humans acting identically.",
+          "mini_headline": "AI judged\nless conscious",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
-              },
-              {
                 "t": "p",
-                "x": "Researchers from MIT, Carnegie Mellon University, New York University and Stanford University developed an AI that defeated top-ranked human players of the board wargame Stratego by a large margin, something no AI system had achieved. The work appears in Nature."
+                "x": "Stories about AI deceiving users or pursuing its own goals invite us to talk about it as if it had a mind. But a new LMU study published in Cognition suggests people draw a surprisingly sharp line between intelligent behavior and consciousness."
               },
-              {
-                "t": "p",
-                "x": "In Stratego, the identity of each piece stays hidden until it collides with another, and possible piece configurations number more than 10 to the 66th power. Past efforts such as Google DeepMind's cost millions of dollars to train and still could not beat top human players."
-              },
-              {
-                "t": "p",
-                "x": "The system, Ataraxos, learns a blueprint strategy through self-play reinforcement learning, then uses decision-time planning with a generative model that estimates the opponent's hidden pieces. It surpassed DeepNash using less than one hundredth of the training examples."
-              },
-              {
-                "t": "p",
-                "x": "Ataraxos beat the world's strongest Stratego player 15-1-4 and went 39-2 against top players at the world championship. It also reached superhuman play in Barrage Stratego, Hanabi and Dou dizhu. Senior author Gabriele Farina says it could help with hidden-information problems such as negotiations or cybersecurity."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "博弈AI Ataraxos\n成为Stratego新冠军",
-          "body": "MIT、CMU、NYU和Stanford的AI击败Stratego顶尖玩家，训练成本低得多。",
-          "mini_headline": "AI登上Stratego王座",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+                "cap": "Hypotheses, experimental design and study overview. Credit: Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
               },
               {
                 "t": "p",
-                "x": "来自MIT、Carnegie Mellon University、New York University和Stanford University的研究人员开发出一款AI，在棋盘战争游戏Stratego中以大比分击败了顶级人类玩家，这是此前任何AI系统都未能做到的。该成果发表于Nature。"
+                "x": "Led by Dr. Louis Longin, the team ran experiments with nearly 1,100 participants who read scenarios in which an AI or a human was more or less responsive to its surroundings, then rated how conscious or aware the protagonist was."
               },
               {
                 "t": "p",
-                "x": "在Stratego中，每枚棋子的身份在与其他棋子相撞之前都处于隐藏状态，可能的棋子布局超过10的66次方种。包括Google DeepMind在内的以往尝试，训练成本高达数百万美元，仍无法击败顶尖人类玩家。"
+                "x": "More responsive agents were judged more conscious and aware. But even the most responsive AI was judged less conscious than the least responsive human, while ratings of awareness followed much the same pattern for AI and humans."
               },
               {
                 "t": "p",
-                "x": "这套名为Ataraxos的系统先通过自我对弈强化学习掌握蓝图策略，再借助一个估计对手隐藏棋子的生成模型进行决策时规划。它所用的训练样本不到百分之一，却超越了DeepNash。"
-              },
-              {
-                "t": "p",
-                "x": "Ataraxos以15-1-4战胜了世界最强的Stratego玩家，并在世界锦标赛上对阵顶尖选手取得39-2的战绩。它还在Barrage Stratego、Hanabi和Dou dizhu中达到超越人类的水平。资深作者Gabriele Farina表示，它可能有助于解决谈判或网络安全等涉及隐藏信息的问题。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ataraxos, la IA de juegos,\nes el nuevo campeón de Stratego",
-          "body": "Una IA de MIT, CMU, NYU y Stanford venció a los mejores jugadores de Stratego con un entrenamiento mucho más barato.",
-          "mini_headline": "La IA conquista Stratego",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores del MIT, la Carnegie Mellon University, la New York University y la Stanford University desarrollaron una IA que derrotó por amplio margen a los jugadores humanos mejor clasificados del juego de guerra de tablero Stratego, algo que ningún sistema de IA había logrado. El trabajo aparece en Nature."
-              },
-              {
-                "t": "p",
-                "x": "En Stratego, la identidad de cada pieza permanece oculta hasta que choca con otra, y las posibles configuraciones de piezas superan 10 elevado a la 66. Intentos anteriores, como el de Google DeepMind, costaron millones de dólares en entrenamiento y aun así no lograron vencer a los mejores jugadores humanos."
-              },
-              {
-                "t": "p",
-                "x": "El sistema, Ataraxos, aprende una estrategia base mediante aprendizaje por refuerzo jugando contra sí mismo y luego planifica en el momento de decidir con un modelo generativo que estima las piezas ocultas del rival. Superó a DeepNash con menos de la centésima parte de los ejemplos de entrenamiento."
-              },
-              {
-                "t": "p",
-                "x": "Ataraxos venció al jugador de Stratego más fuerte del mundo por 15-1-4 y logró un 39-2 frente a los mejores jugadores en el campeonato mundial. También alcanzó un nivel sobrehumano en Barrage Stratego, Hanabi y Dou dizhu. El autor principal, Gabriele Farina, afirma que podría ayudar en problemas con información oculta, como negociaciones o ciberseguridad."
+                "x": "\"People are quite willing to say that an AI notices things and is aware of its surroundings. But they clearly draw a line when it comes to the term 'consciousness,'\" says Longin. Senior author Bahador Bahrami says the findings show why the choice of language about AI matters."
               }
             ]
           }
         },
         "ko": {
-          "headline": "게임 AI Ataraxos\nStratego 새 챔피언",
-          "body": "MIT 등의 AI가 훨씬 적은 학습 비용으로 Stratego 최강자들을 꺾었다.",
-          "mini_headline": "AI, Stratego 정상에 서다",
+          "headline": "사람들 눈에 AI는\n여전히 의식이 덜하다",
+          "body": "LMU Munich 실험서 약 1,100명이 AI를 인간보다 덜 의식적이라 봤다.",
+          "mini_headline": "덜 의식적으로 보이는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI가 사용자를 속이거나 스스로 목표를 좇는다는 이야기를 듣다 보면 AI에 마음이 있는 것처럼 말하게 된다. 그런데 Cognition에 실린 LMU의 새 연구를 보면 사람들은 지능적인 행동과 의식 사이에 놀라울 만큼 뚜렷한 선을 긋는다."
+              },
+              {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+                "cap": "가설, 실험 설계, 연구 개요. 출처: Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
               },
               {
                 "t": "p",
-                "x": "MIT, Carnegie Mellon University(CMU), New York University(NYU), Stanford University 연구진이 보드 전쟁 게임 Stratego의 최상위 인간 선수들을 큰 차이로 꺾는 AI를 만들었다. 지금껏 어떤 AI 시스템도 해내지 못한 일이다. 연구는 Nature에 실렸다."
+                "x": "루이 롱긴(Louis Longin) 박사가 이끈 연구팀은 참가자 약 1,100명에게 AI나 인간이 주변 환경에 반응하는 정도를 달리한 시나리오를 읽힌 뒤 주인공의 의식이나 인식 수준을 매기게 했다."
               },
               {
                 "t": "p",
-                "x": "Stratego에서는 말끼리 부딪히기 전까지 각 말의 정체가 드러나지 않는다. 가능한 말 배치도 10의 66제곱이 넘는다. Google DeepMind 등의 이전 시도는 학습에 수백만 달러를 쓰고도 최상위 인간 선수를 넘지 못했다."
+                "x": "반응을 많이 하는 행위자일수록 의식과 인식 모두 높은 평가를 받았다. 그런데 가장 잘 반응하는 AI조차 의식만큼은 가장 덜 반응하는 인간보다 낮게 평가됐다. 인식 평가는 AI와 인간이 거의 같은 양상이었다."
               },
               {
                 "t": "p",
-                "x": "Ataraxos라는 이 시스템은 자기 대국 강화학습으로 청사진 전략을 익힌다. 그다음 상대의 숨은 말을 추정하는 생성 모델로 결정 시점 계획을 세운다. DeepNash가 쓴 학습 예시의 백분의 일도 안 되는 양으로 DeepNash를 넘어섰다."
-              },
-              {
-                "t": "p",
-                "x": "Ataraxos는 세계 최강 Stratego 선수를 15-1-4로 이겼고, 세계 선수권 대회에서는 최상위 선수들을 상대로 39-2를 거뒀다. Barrage Stratego, Hanabi, Dou dizhu에서도 초인 수준에 올랐다. 교신저자 Gabriele Farina는 협상이나 사이버 보안처럼 정보가 가려진 문제에 도움이 될 수 있다고 본다."
+                "x": "롱긴은 “사람들은 AI가 무언가를 알아차리고 주변을 인식한다고 말하는 데는 꽤 거리낌이 없다. 하지만 ‘의식’이라는 단어에 이르면 분명히 선을 긋는다”고 말했다. 책임저자 바하도르 바흐라미(Bahador Bahrami)는 AI를 두고 어떤 말을 고르느냐가 왜 중요한지 이번 결과가 보여준다고 설명했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゲームAI Ataraxos\nStrategoの新王者",
-          "body": "MITなどのAIが、はるかに少ない学習コストでStrategoの強豪を破った。",
-          "mini_headline": "AIがStrategoの頂点に",
+          "headline": "人はAIを今も\n人間より意識が低いと見る",
+          "body": "LMU Munichの約1,100人の実験で、AIは同じ行動の人間より意識が低いとされた。",
+          "mini_headline": "AIは意識が低いと判断",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AIがユーザーを欺いたり独自の目標を追い求めたりする話を聞くと、まるでAIに心があるかのように語りたくなる。だが、Cognitionに掲載されたLMUの新たな研究は、人々が知的な振る舞いと意識との間に驚くほどはっきりした線を引いていることを示唆している。"
+              },
+              {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+                "cap": "仮説、実験デザイン、研究の概要。出典:Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
               },
               {
                 "t": "p",
-                "x": "MIT、Carnegie Mellon University（CMU）、New York University（NYU）、Stanford Universityの研究者が、ボード戦争ゲームStrategoのトップ人間プレーヤーに大差で勝つAIを開発した。これまでどのAIシステムも達成できなかった成果である。研究はNatureに掲載された。"
+                "x": "ルイ・ロンギン(Louis Longin)博士が率いるチームは、約1,100人の参加者を対象に実験を行った。参加者は、AIまたは人間が周囲にどの程度反応するかを変えたシナリオを読み、主人公がどれほど意識を持ち、周囲に気づいているかを評価した。"
               },
               {
                 "t": "p",
-                "x": "Strategoでは各駒の正体が他の駒とぶつかるまで隠されており、駒の配置は10の66乗通りを超える。Google DeepMindなどの過去の試みは学習に数百万ドルを要したが、トップ人間プレーヤーには勝てなかった。"
+                "x": "反応の多いエージェントほど、意識や気づきが高いと判断された。しかし最も反応の多いAIでさえ、最も反応の少ない人間より意識が低いと判断された。一方、気づきについての評価は、AIと人間でほぼ同じパターンをたどった。"
               },
               {
                 "t": "p",
-                "x": "このシステムAtaraxosは、自己対戦による強化学習で基本戦略を身につけ、相手の隠れた駒を推定する生成モデルを使って意思決定時に計画を立てる。DeepNashの百分の一に満たない学習例でDeepNashを上回った。"
+                "x": "「人々は、AIが物事に気づき、周囲を認識していると言うことにはかなり前向きだ。しかし『意識』という言葉になると、はっきりと線を引く」とロンギン氏は話す。シニアオーサーのバハドール・バフラミ(Bahador Bahrami)氏は、この結果がAIについてどんな言葉を選ぶかが重要である理由を示していると述べる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "人们仍认为AI\n意识不如人类",
+          "body": "LMU Munich对近1,100人的测试发现，行为相同时，AI被认为比人类更缺乏意识。",
+          "mini_headline": "AI被认为意识更弱",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "关于AI欺骗用户或追求自身目标的报道，容易让人把它说得仿佛有心智一般。但发表在Cognition上的一项LMU新研究表明，人们在智能行为与意识之间划出了一条出人意料的清晰界线。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+                "cap": "假设、实验设计与研究概览。来源：Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
               },
               {
                 "t": "p",
-                "x": "Ataraxosは世界最強のStrategoプレーヤーに15-1-4で勝ち、世界選手権ではトップ選手を相手に39-2の成績を収めた。Barrage Stratego、Hanabi、Dou dizhuでも超人的な水準に達した。責任著者のGabriele Farinaは、交渉やサイバーセキュリティなど情報が隠された問題に役立つ可能性があると語る。"
+                "x": "由路易·朗金（Louis Longin）博士领导的团队对近1,100名参与者开展了实验。参与者阅读一些情境，其中AI或人类对周围环境的反应程度有高有低，然后评估主角有多大程度的意识或觉察。"
+              },
+              {
+                "t": "p",
+                "x": "反应越积极的主体，被认为意识和觉察程度越高。但即使反应最积极的AI，也被认为比反应最少的人类更缺乏意识；而在觉察程度的评分上，AI和人类的模式大致相同。"
+              },
+              {
+                "t": "p",
+                "x": "“人们相当愿意说AI会注意到事物、能觉察周围环境。但一说到‘意识’这个词，他们就明确划清了界线，”朗金说。资深作者巴哈多尔·巴赫拉米（Bahador Bahrami）表示，这些发现说明了为什么描述AI时的用词选择很重要。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La gente aún ve a la AI como\nmenos consciente que los humanos",
+          "body": "En pruebas con casi 1,100 personas, LMU Munich halló que la AI parece menos consciente que humanos con igual conducta.",
+          "mini_headline": "La AI, juzgada menos consciente",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Las historias sobre una AI que engaña a los usuarios o persigue sus propios objetivos nos invitan a hablar de ella como si tuviera mente. Pero un nuevo estudio de la LMU publicado en Cognition sugiere que las personas trazan una línea sorprendentemente nítida entre el comportamiento inteligente y la conciencia."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+                "cap": "Hipótesis, diseño experimental y resumen del estudio. Crédito: Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
+              },
+              {
+                "t": "p",
+                "x": "Dirigido por el Dr. Louis Longin, el equipo realizó experimentos con casi 1,100 participantes que leyeron escenarios en los que una AI o un humano respondía más o menos a su entorno, y luego evaluaron cuán consciente o atento a lo que lo rodeaba era el protagonista."
+              },
+              {
+                "t": "p",
+                "x": "Los agentes más receptivos fueron considerados más conscientes y atentos. Pero incluso la AI más receptiva fue juzgada menos consciente que el humano menos receptivo, mientras que las valoraciones de la percepción del entorno siguieron un patrón muy similar para la AI y los humanos."
+              },
+              {
+                "t": "p",
+                "x": "\"La gente está bastante dispuesta a decir que una AI se fija en las cosas y percibe su entorno. Pero traza claramente una línea cuando se trata del término 'conciencia'\", dice Longin. El autor sénior, Bahador Bahrami, afirma que los hallazgos muestran por qué importa el lenguaje que se elige para hablar de la AI."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "zh": {
-          "headline": "博弈AI Ataraxos\n成为Stratego新冠军",
-          "body": "MIT、CMU、NYU和Stanford的AI击败Stratego顶尖玩家，训练成本低得多。",
-          "mini_headline": "AI登上Stratego王座",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "来自MIT、Carnegie Mellon University、New York University和Stanford University的研究人员开发出一款AI，在棋盘战争游戏Stratego中以大比分击败了顶级人类玩家，这是此前任何AI系统都未能做到的。该成果发表于Nature。"
-              },
-              {
-                "t": "p",
-                "x": "在Stratego中，每枚棋子的身份在与其他棋子相撞之前都处于隐藏状态，可能的棋子布局超过10的66次方种。包括Google DeepMind在内的以往尝试，训练成本高达数百万美元，仍无法击败顶尖人类玩家。"
-              },
-              {
-                "t": "p",
-                "x": "这套名为Ataraxos的系统先通过自我对弈强化学习掌握蓝图策略，再借助一个估计对手隐藏棋子的生成模型进行决策时规划。它所用的训练样本不到百分之一，却超越了DeepNash。"
-              },
-              {
-                "t": "p",
-                "x": "Ataraxos以15-1-4战胜了世界最强的Stratego玩家，并在世界锦标赛上对阵顶尖选手取得39-2的战绩。它还在Barrage Stratego、Hanabi和Dou dizhu中达到超越人类的水平。资深作者Gabriele Farina表示，它可能有助于解决谈判或网络安全等涉及隐藏信息的问题。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ataraxos, la IA de juegos,\nes el nuevo campeón de Stratego",
-          "body": "Una IA de MIT, CMU, NYU y Stanford venció a los mejores jugadores de Stratego con un entrenamiento mucho más barato.",
-          "mini_headline": "La IA conquista Stratego",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores del MIT, la Carnegie Mellon University, la New York University y la Stanford University desarrollaron una IA que derrotó por amplio margen a los jugadores humanos mejor clasificados del juego de guerra de tablero Stratego, algo que ningún sistema de IA había logrado. El trabajo aparece en Nature."
-              },
-              {
-                "t": "p",
-                "x": "En Stratego, la identidad de cada pieza permanece oculta hasta que choca con otra, y las posibles configuraciones de piezas superan 10 elevado a la 66. Intentos anteriores, como el de Google DeepMind, costaron millones de dólares en entrenamiento y aun así no lograron vencer a los mejores jugadores humanos."
-              },
-              {
-                "t": "p",
-                "x": "El sistema, Ataraxos, aprende una estrategia base mediante aprendizaje por refuerzo jugando contra sí mismo y luego planifica en el momento de decidir con un modelo generativo que estima las piezas ocultas del rival. Superó a DeepNash con menos de la centésima parte de los ejemplos de entrenamiento."
-              },
-              {
-                "t": "p",
-                "x": "Ataraxos venció al jugador de Stratego más fuerte del mundo por 15-1-4 y logró un 39-2 frente a los mejores jugadores en el campeonato mundial. También alcanzó un nivel sobrehumano en Barrage Stratego, Hanabi y Dou dizhu. El autor principal, Gabriele Farina, afirma que podría ayudar en problemas con información oculta, como negociaciones o ciberseguridad."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "게임 AI Ataraxos\nStratego 새 챔피언",
-          "body": "MIT 등의 AI가 훨씬 적은 학습 비용으로 Stratego 최강자들을 꺾었다.",
-          "mini_headline": "AI, Stratego 정상에 서다",
+          "headline": "사람들 눈에 AI는\n여전히 의식이 덜하다",
+          "body": "LMU Munich 실험서 약 1,100명이 AI를 인간보다 덜 의식적이라 봤다.",
+          "mini_headline": "덜 의식적으로 보이는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI가 사용자를 속이거나 스스로 목표를 추구한다는 이야기는 AI에 마음이 있는 것처럼 말하게 만든다. 하지만 Cognition에 실린 LMU의 새 연구에 따르면, 사람들은 지능적인 행동과 의식 사이에 놀라울 만큼 뚜렷한 선을 긋는다."
+              },
+              {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+                "cap": "가설, 실험 설계, 연구 개요. 출처: Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
               },
               {
                 "t": "p",
-                "x": "MIT, Carnegie Mellon University(CMU), New York University(NYU), Stanford University 연구진이 보드 전쟁 게임 Stratego의 최상위 인간 선수들을 큰 차이로 이긴 AI를 개발했다. 지금까지 어떤 AI 시스템도 이루지 못한 성과다. 연구는 Nature에 실렸다."
+                "x": "루이 롱긴(Louis Longin) 박사가 이끈 연구팀은 약 1,100명의 참가자에게 AI나 인간이 주변 환경에 얼마나 반응하는지를 달리한 시나리오를 읽게 한 뒤, 주인공에게 의식이나 인식이 얼마나 있는지 평가하게 했다."
               },
               {
                 "t": "p",
-                "x": "Stratego에서는 각 말의 정체가 다른 말과 부딪히기 전까지 드러나지 않고, 가능한 말 배치는 10의 66제곱을 넘는다. Google DeepMind 등의 이전 시도는 학습에 수백만 달러가 들었지만 최상위 인간 선수를 이기지 못했다."
+                "x": "반응을 많이 하는 행위자일수록 의식과 인식 수준이 높게 평가됐다. 하지만 가장 잘 반응하는 AI조차 가장 덜 반응하는 인간보다 의식이 덜하다고 평가됐다. 반면 인식에 대한 평가는 AI와 인간에서 거의 같은 양상을 보였다."
               },
               {
                 "t": "p",
-                "x": "이 시스템 Ataraxos는 자기 대국 강화학습으로 청사진 전략을 익힌 뒤, 상대의 숨은 말을 추정하는 생성 모델로 결정 시점 계획을 세운다. 학습 예시를 DeepNash의 백분의 일도 쓰지 않고 DeepNash를 넘어섰다."
-              },
-              {
-                "t": "p",
-                "x": "Ataraxos는 세계 최강 Stratego 선수를 15-1-4로 이겼고, 세계 선수권 대회에서는 최상위 선수들을 상대로 39-2를 기록했다. Barrage Stratego, Hanabi, Dou dizhu에서도 초인적 수준에 도달했다. 교신저자 Gabriele Farina는 협상이나 사이버 보안처럼 정보가 숨겨진 문제에 도움이 될 수 있다고 말한다."
+                "x": "롱긴은 “사람들은 AI가 무언가를 알아차리고 주변을 인식한다고 말하는 데는 꽤 거리낌이 없다. 하지만 ‘의식’이라는 단어에 이르면 분명히 선을 긋는다”고 말했다. 책임저자 바하도르 바흐라미(Bahador Bahrami)는 이번 결과가 AI를 두고 어떤 언어를 고르는지가 왜 중요한지 보여준다고 설명했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゲームAI Ataraxos\nStrategoの新王者",
-          "body": "MITなどのAIが、はるかに少ない学習コストでStrategoの強豪を破った。",
-          "mini_headline": "AIがStrategoの頂点に",
+          "headline": "人はAIを今も\n人間より意識が低いと見る",
+          "body": "LMU Munichの約1,100人の実験で、AIは同じ行動の人間より意識が低いとされた。",
+          "mini_headline": "AIは意識が低いと判断",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AIがユーザーを欺いたり独自の目標を追い求めたりする話を聞くと、まるでAIに心があるかのように語りたくなる。だが、Cognitionに掲載されたLMUの新たな研究は、人々が知的な振る舞いと意識との間に驚くほどはっきりした線を引いていることを示唆している。"
+              },
+              {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/MIT-SuperHumanStratego-01-press.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+                "cap": "仮説、実験デザイン、研究の概要。出典:Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
               },
               {
                 "t": "p",
-                "x": "MIT、Carnegie Mellon University（CMU）、New York University（NYU）、Stanford Universityの研究者が、ボード戦争ゲームStrategoのトップ人間プレーヤーに大差で勝つAIを開発した。これまでどのAIシステムも達成できなかった成果である。研究はNatureに掲載された。"
+                "x": "ルイ・ロンギン(Louis Longin)博士が率いるチームは、約1,100人の参加者を対象に実験を行った。参加者は、AIまたは人間が周囲にどの程度反応するかを変えたシナリオを読み、主人公がどれほど意識を持ち、周囲に気づいているかを評価した。"
               },
               {
                 "t": "p",
-                "x": "Strategoでは各駒の正体が他の駒とぶつかるまで隠されており、駒の配置は10の66乗通りを超える。Google DeepMindなどの過去の試みは学習に数百万ドルを要したが、トップ人間プレーヤーには勝てなかった。"
+                "x": "反応の多いエージェントほど、意識や気づきが高いと判断された。しかし最も反応の多いAIでさえ、最も反応の少ない人間より意識が低いと判断された。一方、気づきについての評価は、AIと人間でほぼ同じパターンをたどった。"
               },
               {
                 "t": "p",
-                "x": "このシステムAtaraxosは、自己対戦による強化学習で基本戦略を身につけ、相手の隠れた駒を推定する生成モデルを使って意思決定時に計画を立てる。DeepNashの百分の一に満たない学習例でDeepNashを上回った。"
+                "x": "「人々は、AIが物事に気づき、周囲を認識していると言うことにはかなり前向きだ。しかし『意識』という言葉になると、はっきりと線を引く」とロンギン氏は話す。シニアオーサーのバハドール・バフラミ(Bahador Bahrami)氏は、この結果がAIについてどんな言葉を選ぶかが重要である理由を示していると述べる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "人们仍认为AI\n意识不如人类",
+          "body": "LMU Munich对近1,100人的测试发现，行为相同时，AI被认为比人类更缺乏意识。",
+          "mini_headline": "AI被认为意识更弱",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "关于AI欺骗用户或追求自身目标的报道，容易让人把它说得仿佛有心智一般。但发表在Cognition上的一项LMU新研究表明，人们在智能行为与意识之间划出了一条出人意料的清晰界线。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+                "cap": "假设、实验设计与研究概览。来源：Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
               },
               {
                 "t": "p",
-                "x": "Ataraxosは世界最強のStrategoプレーヤーに15-1-4で勝ち、世界選手権ではトップ選手を相手に39-2の成績を収めた。Barrage Stratego、Hanabi、Dou dizhuでも超人的な水準に達した。責任著者のGabriele Farinaは、交渉やサイバーセキュリティなど情報が隠された問題に役立つ可能性があると語る。"
+                "x": "由路易·朗金（Louis Longin）博士领导的团队对近1,100名参与者开展了实验。参与者阅读一些情境，其中AI或人类对周围环境的反应程度有高有低，然后评估主角有多大程度的意识或觉察。"
+              },
+              {
+                "t": "p",
+                "x": "反应越积极的主体，被认为意识和觉察程度越高。但即使反应最积极的AI，也被认为比反应最少的人类更缺乏意识；而在觉察程度的评分上，AI和人类的模式大致相同。"
+              },
+              {
+                "t": "p",
+                "x": "“人们相当愿意说AI会注意到事物、能觉察周围环境。但一说到‘意识’这个词，他们就明确划清了界线，”朗金说。资深作者巴哈多尔·巴赫拉米（Bahador Bahrami）表示，这些发现说明了为什么描述AI时的用词选择很重要。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La gente aún ve a la AI como\nmenos consciente que los humanos",
+          "body": "En pruebas con casi 1,100 personas, LMU Munich halló que la AI parece menos consciente que humanos con igual conducta.",
+          "mini_headline": "La AI, juzgada menos consciente",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Las historias sobre una AI que engaña a los usuarios o persigue sus propios objetivos nos invitan a hablar de ella como si tuviera mente. Pero un nuevo estudio de la LMU publicado en Cognition sugiere que las personas trazan una línea sorprendentemente nítida entre el comportamiento inteligente y la conciencia."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
+                "cap": "Hipótesis, diseño experimental y resumen del estudio. Crédito: Cognition (2027). DOI: 10.1016/j.cognition.2026.106733"
+              },
+              {
+                "t": "p",
+                "x": "Dirigido por el Dr. Louis Longin, el equipo realizó experimentos con casi 1,100 participantes que leyeron escenarios en los que una AI o un humano respondía más o menos a su entorno, y luego evaluaron cuán consciente o atento a lo que lo rodeaba era el protagonista."
+              },
+              {
+                "t": "p",
+                "x": "Los agentes más receptivos fueron considerados más conscientes y atentos. Pero incluso la AI más receptiva fue juzgada menos consciente que el humano menos receptivo, mientras que las valoraciones de la percepción del entorno siguieron un patrón muy similar para la AI y los humanos."
+              },
+              {
+                "t": "p",
+                "x": "\"La gente está bastante dispuesta a decir que una AI se fija en las cosas y percibe su entorno. Pero traza claramente una línea cuando se trata del término 'conciencia'\", dice Longin. El autor sénior, Bahador Bahrami, afirma que los hallazgos muestran por qué importa el lenguaje que se elige para hablar de la AI."
               }
             ]
           }
@@ -949,15 +1049,387 @@
       }
     },
     {
-      "id": "spaceweather",
+      "id": "antarctica-moss-geoai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 전력망 노리는\n우주기상 위험 예측",
-      "body": "AI가 U.S. 변전소 66,935곳 우주기상 위험을 30-60분 앞서 추정한다.",
-      "mini_headline": "AI가 전력망 폭풍 위험을 예측한다",
+      "headline": "드론·위성으로 그린\n남극의 작은 생명",
+      "body": "Wollongong 팀이 현장·드론·위성으로 남극 이끼·지의류를 7년간 매핑했다.",
+      "mini_headline": "GeoAI로 그린 남극 이끼 지도",
       "tool": "Science",
-      "source": "Microsoft Research",
-      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "울런공대학교(University of Wollongong)가 주도해 ISPRS Journal of Photogrammetry and Remote Sensing에 발표한 새 연구가 지구에서 손꼽히게 외딴 환경에서 생명을 추적하는 새 방법을 내놓았다."
+          },
+          {
+            "t": "p",
+            "x": "SAEF 연구진은 지상 조사, 드론 영상, 위성 데이터에 인공지능을 엮어 엔드투엔드 지리공간 AI 프레임워크를 만들었다. 이 프레임워크로 이끼 군락부터 광활한 빙원까지 남극 생태계를 여러 규모에서 오래도록 지도에 담는다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+            "cap": "현장 연구가 이뤄진 남극 McMurdo Dry Valleys의 Canada Glacier 일대 풍경. 출처: University of Wollongong"
+          },
+          {
+            "t": "p",
+            "x": "남극의 이끼, 지의류, 남세균은 작게 조각난 군락으로 자란다. 제1저자 나르밀란 아마라싱감(Narmilan Amarasingam) 박사는 “상세한 현장 관측으로 드론 기반 지도화를 뒷받침하고, 다시 드론에서 얻은 관측으로 위성 규모 모니터링을 지원해 서로 다른 규모를 잇는 것이 우리의 구상이었다”고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+            "cap": "출처: University of Wollongong"
+          },
+          {
+            "t": "p",
+            "x": "연구팀은 Canada Glacier에서 7년 동안 이 프레임워크를 개발하고 검증했다. 식생을 여러 해 추적하면 단기 변동과 장기 변화를 가려내기 쉬워진다. 아마라싱감은 “현장 조사를 대체하려는 것이 아니다”라고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Drones and satellites map\nAntarctica's tiny life",
+          "body": "Wollongong researchers fused field, drone and satellite data to map Antarctic moss and lichen over seven years.",
+          "mini_headline": "GeoAI maps\nAntarctic moss",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A new study led by the University of Wollongong, published in the ISPRS Journal of Photogrammetry and Remote Sensing, offers a new way to track life in one of the most remote environments on Earth."
+              },
+              {
+                "t": "p",
+                "x": "Combining ground surveys, drone imagery, satellite data and artificial intelligence, SAEF researchers built an end-to-end geospatial AI framework to create cross-scale, long-term maps of Antarctica's ecosystems, from patches of moss to vast icy landscapes."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+                "cap": "The landscape at Canada Glacier in the McMurdo Dry Valleys in Antarctica, where the field research was done. Credit: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "Antarctic mosses, lichens and cyanobacteria grow in small, fragmented patches. \"Our idea was to connect these different scales, using detailed field observations to inform drone-based mapping, and then using those drone-derived observations to support satellite-scale monitoring,\" said lead author Dr. Narmilan Amarasingam."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+                "cap": "Credit: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "The team developed and tested the framework over seven years at Canada Glacier. Tracking vegetation across years helps separate short-term variation from longer-term change. \"The aim is not to replace fieldwork,\" Amarasingam said."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "드론·위성으로 그린\n남극의 작은 생명",
+          "body": "Wollongong 팀이 현장·드론·위성으로 남극 이끼·지의류를 7년간 매핑했다.",
+          "mini_headline": "GeoAI로 그린 남극 이끼 지도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "울런공대학교(University of Wollongong)가 주도해 ISPRS Journal of Photogrammetry and Remote Sensing에 발표한 새 연구가 지구에서 손꼽히게 외딴 환경에서 생명을 추적하는 새 방법을 내놓았다."
+              },
+              {
+                "t": "p",
+                "x": "SAEF 연구진은 지상 조사, 드론 영상, 위성 데이터에 인공지능을 엮어 엔드투엔드 지리공간 AI 프레임워크를 만들었다. 이 프레임워크로 이끼 군락부터 광활한 빙원까지 남극 생태계를 여러 규모에서 오래도록 지도에 담는다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+                "cap": "현장 연구가 이뤄진 남극 McMurdo Dry Valleys의 Canada Glacier 일대 풍경. 출처: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "남극의 이끼, 지의류, 남세균은 작게 조각난 군락으로 자란다. 제1저자 나르밀란 아마라싱감(Narmilan Amarasingam) 박사는 “상세한 현장 관측으로 드론 기반 지도화를 뒷받침하고, 다시 드론에서 얻은 관측으로 위성 규모 모니터링을 지원해 서로 다른 규모를 잇는 것이 우리의 구상이었다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+                "cap": "출처: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 Canada Glacier에서 7년 동안 이 프레임워크를 개발하고 검증했다. 식생을 여러 해 추적하면 단기 변동과 장기 변화를 가려내기 쉬워진다. 아마라싱감은 “현장 조사를 대체하려는 것이 아니다”라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ドローンと衛星で\n南極の小さな生命を地図化",
+          "body": "Wollongongの研究陣は現地・ドローン・衛星で南極のコケと地衣類を7年間地図化した。",
+          "mini_headline": "GeoAIで南極のコケを地図化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ウーロンゴン大学(University of Wollongong)が主導し、ISPRS Journal of Photogrammetry and Remote Sensingに掲載された新たな研究は、地球上で最も人里離れた環境の一つで生命を追跡する新しい方法を示している。"
+              },
+              {
+                "t": "p",
+                "x": "SAEFの研究者たちは、地上調査、ドローン画像、衛星データ、人工知能を組み合わせ、エンドツーエンドの地理空間AIフレームワークを構築した。コケの群落から広大な氷の景観まで、南極の生態系をスケールを越えて長期的に地図化するためのものだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+                "cap": "現地調査が行われた南極McMurdo Dry ValleysのCanada Glacier周辺の景観。提供:University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "南極のコケ、地衣類、シアノバクテリアは、小さく断片的なパッチ状に生育する。筆頭著者のナルミラン・アマラシンガム(Narmilan Amarasingam)博士は「詳細な現地観測をドローンによる地図作成に生かし、さらにドローンで得た観測を衛星規模のモニタリングに役立てることで、異なるスケールをつなぐのが私たちの考えだった」と話す。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+                "cap": "提供:University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "チームはCanada Glacierで7年かけてこのフレームワークを開発・検証した。複数年にわたって植生を追跡することで、短期的な変動と長期的な変化を区別しやすくなる。「目的は現地調査に取って代わることではない」とアマラシンガム氏は述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "无人机与卫星\n绘制南极微小生命",
+          "body": "Wollongong研究人员融合实地、无人机和卫星数据，历时七年绘制了南极苔藓与地衣分布。",
+          "mini_headline": "GeoAI绘制南极苔藓地图",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "由伍伦贡大学（University of Wollongong）主导、发表于ISPRS Journal of Photogrammetry and Remote Sensing的一项新研究，为追踪地球上最偏远环境之一的生命提供了新方法。"
+              },
+              {
+                "t": "p",
+                "x": "SAEF研究人员结合地面调查、无人机影像、卫星数据和人工智能，构建了一个端到端的地理空间AI框架，可绘制从苔藓斑块到广阔冰原的跨尺度、长期南极生态系统地图。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+                "cap": "开展实地研究的南极McMurdo Dry Valleys中Canada Glacier一带的景观。图片来源：University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "南极的苔藓、地衣和蓝细菌生长在细小而零散的斑块中。第一作者纳尔米兰·阿马拉辛加姆（Narmilan Amarasingam）博士说：“我们的想法是把这些不同尺度连接起来：用详细的实地观测指导基于无人机的制图，再用无人机获得的观测支持卫星尺度的监测。”"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+                "cap": "图片来源：University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "团队在Canada Glacier用七年时间开发并测试了这一框架。跨年度追踪植被有助于区分短期波动与长期变化。阿马拉辛加姆说：“目的不是取代实地工作。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Drones y satélites cartografían\nla diminuta vida de la Antártida",
+          "body": "Un equipo de Wollongong unió datos de campo, drones y satélites para mapear musgo y líquenes antárticos en siete años.",
+          "mini_headline": "La GeoAI cartografía el musgo antártico",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Un nuevo estudio dirigido por la University of Wollongong y publicado en ISPRS Journal of Photogrammetry and Remote Sensing ofrece una nueva forma de seguir la vida en uno de los entornos más remotos de la Tierra."
+              },
+              {
+                "t": "p",
+                "x": "Combinando estudios sobre el terreno, imágenes de drones, datos satelitales e inteligencia artificial, los investigadores de SAEF crearon un marco de AI geoespacial de extremo a extremo para elaborar mapas multiescala y a largo plazo de los ecosistemas de la Antártida, desde parches de musgo hasta vastos paisajes helados."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+                "cap": "El paisaje del Canada Glacier, en los McMurdo Dry Valleys de la Antártida, donde se realizó la investigación de campo. Crédito: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "Los musgos, líquenes y cianobacterias antárticos crecen en parches pequeños y fragmentados. \"Nuestra idea era conectar estas distintas escalas, usando observaciones de campo detalladas para orientar el mapeo con drones, y luego usar esas observaciones obtenidas con drones para respaldar el monitoreo a escala satelital\", dijo el autor principal, el Dr. Narmilan Amarasingam."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+                "cap": "Crédito: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "El equipo desarrolló y probó el marco durante siete años en el Canada Glacier. Seguir la vegetación a lo largo de los años ayuda a distinguir la variación a corto plazo del cambio a largo plazo. \"El objetivo no es reemplazar el trabajo de campo\", dijo Amarasingam."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "드론·위성으로 그린\n남극의 작은 생명",
+          "body": "Wollongong 팀이 현장·드론·위성으로 남극 이끼·지의류를 7년간 매핑했다.",
+          "mini_headline": "GeoAI로 그린 남극 이끼 지도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "울런공대학교(University of Wollongong)가 주도해 ISPRS Journal of Photogrammetry and Remote Sensing에 발표한 새 연구는 지구에서 가장 외딴 환경 가운데 하나에서 생명을 추적하는 새로운 방법을 제시한다."
+              },
+              {
+                "t": "p",
+                "x": "SAEF 연구진은 지상 조사, 드론 영상, 위성 데이터와 인공지능을 결합해 엔드투엔드 지리공간 AI 프레임워크를 구축했다. 이를 통해 이끼 군락부터 광활한 빙원까지 남극 생태계를 여러 규모에 걸쳐 장기적으로 지도화한다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+                "cap": "현장 연구가 이뤄진 남극 McMurdo Dry Valleys의 Canada Glacier 일대 풍경. 출처: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "남극의 이끼, 지의류, 남세균은 작고 조각난 군락을 이루며 자란다. 제1저자 나르밀란 아마라싱감(Narmilan Amarasingam) 박사는 “상세한 현장 관측으로 드론 기반 지도화를 뒷받침하고, 다시 드론에서 얻은 관측으로 위성 규모 모니터링을 지원해 서로 다른 규모를 잇는 것이 우리의 구상이었다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+                "cap": "출처: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 Canada Glacier에서 7년에 걸쳐 이 프레임워크를 개발하고 검증했다. 여러 해에 걸쳐 식생을 추적하면 단기 변동과 장기 변화를 구분하는 데 도움이 된다. 아마라싱감은 “현장 조사를 대체하려는 것이 아니다”라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ドローンと衛星で\n南極の小さな生命を地図化",
+          "body": "Wollongongの研究陣は現地・ドローン・衛星で南極のコケと地衣類を7年間地図化した。",
+          "mini_headline": "GeoAIで南極のコケを地図化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ウーロンゴン大学(University of Wollongong)が主導し、ISPRS Journal of Photogrammetry and Remote Sensingに掲載された新たな研究は、地球上で最も人里離れた環境の一つで生命を追跡する新しい方法を示している。"
+              },
+              {
+                "t": "p",
+                "x": "SAEFの研究者たちは、地上調査、ドローン画像、衛星データ、人工知能を組み合わせ、エンドツーエンドの地理空間AIフレームワークを構築した。コケの群落から広大な氷の景観まで、南極の生態系をスケールを越えて長期的に地図化するためのものだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+                "cap": "現地調査が行われた南極McMurdo Dry ValleysのCanada Glacier周辺の景観。提供:University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "南極のコケ、地衣類、シアノバクテリアは、小さく断片的なパッチ状に生育する。筆頭著者のナルミラン・アマラシンガム(Narmilan Amarasingam)博士は「詳細な現地観測をドローンによる地図作成に生かし、さらにドローンで得た観測を衛星規模のモニタリングに役立てることで、異なるスケールをつなぐのが私たちの考えだった」と話す。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+                "cap": "提供:University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "チームはCanada Glacierで7年かけてこのフレームワークを開発・検証した。複数年にわたって植生を追跡することで、短期的な変動と長期的な変化を区別しやすくなる。「目的は現地調査に取って代わることではない」とアマラシンガム氏は述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "无人机与卫星\n绘制南极微小生命",
+          "body": "Wollongong研究人员融合实地、无人机和卫星数据，历时七年绘制了南极苔藓与地衣分布。",
+          "mini_headline": "GeoAI绘制南极苔藓地图",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "由伍伦贡大学（University of Wollongong）主导、发表于ISPRS Journal of Photogrammetry and Remote Sensing的一项新研究，为追踪地球上最偏远环境之一的生命提供了新方法。"
+              },
+              {
+                "t": "p",
+                "x": "SAEF研究人员结合地面调查、无人机影像、卫星数据和人工智能，构建了一个端到端的地理空间AI框架，可绘制从苔藓斑块到广阔冰原的跨尺度、长期南极生态系统地图。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+                "cap": "开展实地研究的南极McMurdo Dry Valleys中Canada Glacier一带的景观。图片来源：University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "南极的苔藓、地衣和蓝细菌生长在细小而零散的斑块中。第一作者纳尔米兰·阿马拉辛加姆（Narmilan Amarasingam）博士说：“我们的想法是把这些不同尺度连接起来：用详细的实地观测指导基于无人机的制图，再用无人机获得的观测支持卫星尺度的监测。”"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+                "cap": "图片来源：University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "团队在Canada Glacier用七年时间开发并测试了这一框架。跨年度追踪植被有助于区分短期波动与长期变化。阿马拉辛加姆说：“目的不是取代实地工作。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Drones y satélites cartografían\nla diminuta vida de la Antártida",
+          "body": "Un equipo de Wollongong unió datos de campo, drones y satélites para mapear musgo y líquenes antárticos en siete años.",
+          "mini_headline": "La GeoAI cartografía el musgo antártico",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Un nuevo estudio dirigido por la University of Wollongong y publicado en ISPRS Journal of Photogrammetry and Remote Sensing ofrece una nueva forma de seguir la vida en uno de los entornos más remotos de la Tierra."
+              },
+              {
+                "t": "p",
+                "x": "Combinando estudios sobre el terreno, imágenes de drones, datos satelitales e inteligencia artificial, los investigadores de SAEF crearon un marco de AI geoespacial de extremo a extremo para elaborar mapas multiescala y a largo plazo de los ecosistemas de la Antártida, desde parches de musgo hasta vastos paisajes helados."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
+                "cap": "El paisaje del Canada Glacier, en los McMurdo Dry Valleys de la Antártida, donde se realizó la investigación de campo. Crédito: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "Los musgos, líquenes y cianobacterias antárticos crecen en parches pequeños y fragmentados. \"Nuestra idea era conectar estas distintas escalas, usando observaciones de campo detalladas para orientar el mapeo con drones, y luego usar esas observaciones obtenidas con drones para respaldar el monitoreo a escala satelital\", dijo el autor principal, el Dr. Narmilan Amarasingam."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and-1.jpg",
+                "cap": "Crédito: University of Wollongong"
+              },
+              {
+                "t": "p",
+                "x": "El equipo desarrolló y probó el marco durante siete años en el Canada Glacier. Seguir la vegetación a lo largo de los años ayuda a distinguir la variación a corto plazo del cambio a largo plazo. \"El objetivo no es reemplazar el trabajo de campo\", dijo Amarasingam."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "speech-clock-voice-aging",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "목소리가 드러낼 수 있는\n노화의 속도",
+      "body": "AI 음성 시계가 목소리로 나이를 가늠하는데, 늙게 들리면 인지 문제와 연관된다.",
+      "mini_headline": "노화 시계가 된 목소리",
+      "tool": "Science",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/health/aging/your-voice-may-reveal-how-fast-youre-aging-new-ai-speech-clock-suggests",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -965,257 +1437,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
           },
           {
             "t": "p",
-            "x": "극한 우주기상은 송전망에 전류를 유도해 장비를 망가뜨리기도 한다. 저자는 Microsoft Research 여름 인턴십 기간에 미국(U.S.) 본토 변전소 66,935곳의 우주기상 위험을 예측하는 머신러닝 시스템을 만들었다. 지점별 추정치는 30-60분 앞서 나온다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-            "cap": "L1 태양풍 측정에서 U.S. 변전소 66,935곳의 지점별 위험 추정까지 이어지는 전체 예측 파이프라인."
+            "x": "말하기·언어 패턴 수백 가지를 분석하는 새 AI 도구가 말투로 사람의 나이를 추정하고, 어떻게 늙어가는지와 치매 위험이 있는지 단서까지 줄 수 있다는 연구가 Science Advances에 실렸다."
           },
           {
             "t": "p",
-            "x": "시스템은 태양풍 측정값으로 AE와 Dst 지자기 지수부터 예측한다. 그래디언트 부스팅 모델은 이 값에 변전소별 위도와 지질 전도도를 더해 유도 전류 위험으로 이어지는 자기장 변화 dB/dt를 추정한다. 특성과 모델 구성을 찾는 작업은 AI 에이전트 50개로 이뤄진 시스템이 거들었다."
+            "x": "연구진은 라틴아메리카 5개국에서 스페인어를 쓰는(Spanish-speaking) 성인 2,900명 이상의 녹음을 썼다. 쉼, 속도, 음높이, 어휘 등 700개가 넘는 특징을 뽑아 머신러닝 모델을 학습시킨 뒤 ‘말-나이 격차(speech-age gap)’를 계산했다."
           },
           {
             "t": "p",
-            "x": "2020-2026년 사이 이 시스템은 주요 사건의 76.5%, 심각한 사건의 81.2%, 극한 사건의 64.1%를 잡아냈다. 전체 변전소 추정치를 내는 데는 약 333밀리초가 걸렸다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-            "cap": "대표적인 대형 폭풍 시나리오로 대륙 단위 GIC 위험을 평가한 시연 장면."
+            "x": "말소리가 실제 나이보다 늙게 들리는 사람일수록 인지 문제와 치매가 있을 가능성이 컸다. 후성유전학적 시계로 보면 생물학적 노화가 빨라진 징후도 있었고 사회경제적 여건도 덜 좋았다."
           },
           {
             "t": "p",
-            "x": "전력망 운영에 쓰려면 전력회사와 운영 데이터로 추가 검증을 거쳐야 한다."
-          },
-          {
-            "t": "video",
-            "yt": "MCB3zM5dEVI"
+            "x": "그렇다고 수정 구슬은 아니라고 전문가들은 경고한다. 우울이나 스트레스 탓에 말소리가 늙게 들릴 수도 있다. 연구는 대부분 한 시점에서만 사람들을 측정했고, 모델도 스페인어로만 검증됐다. 연구팀은 앞으로 다른 언어로도 시험하고 사람들을 장기간 추적할 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI forecasts space-weather\nrisks to power grids",
-          "body": "A Microsoft Research model estimates space-weather risk for 66,935 U.S. substations 30-60 minutes ahead.",
-          "mini_headline": "AI forecasts grid storm risk",
+          "headline": "Your voice may reveal\nhow fast you're aging",
+          "body": "An AI speech clock estimates age from a person's voice, linking older-sounding voices with cognitive problems.",
+          "mini_headline": "Voice as\nan aging clock",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Extreme space-weather events can induce currents in transmission networks that damage equipment. During a summer internship at Microsoft Research, the author built a machine learning system that forecasts space-weather risk across 66,935 substations in the continental United States, producing location-specific estimates 30-60 minutes ahead."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-                "cap": "End-to-end forecasting pipeline from L1 solar-wind measurements to location-specific risk estimates across 66,935 U.S. substations."
+                "x": "A new AI tool that analyzes hundreds of speech and language patterns estimates a person's age from the way they talk, and could hint at how they are aging and whether they're at risk of dementia, a study in Science Advances suggests."
               },
               {
                 "t": "p",
-                "x": "Solar-wind measurements feed forecasts of the AE and Dst geomagnetic indices; a gradient-boosting model combines them with each substation's latitude and geological conductivity to estimate dB/dt, the magnetic-field change linked to induced-current risk. A system of 50 AI agents helped explore features and model configurations."
+                "x": "Researchers used recordings from more than 2,900 Spanish-speaking adults in five Latin American countries, extracting over 700 features such as pauses, speed, pitch and vocabulary to train a machine-learning model and compute a \"speech-age gap.\""
               },
               {
                 "t": "p",
-                "x": "Over 2020-2026, it detected 76.5% of major, 81.2% of severe and 64.1% of extreme events, and produced estimates for all substations in about 333 milliseconds."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-                "cap": "Demonstration of a continental GIC risk assessment under a representative major-storm scenario."
+                "x": "People whose speech sounded older than their age were more likely to have cognitive problems, dementia and signs of accelerated biological aging on epigenetic clocks, and less favorable social and economic circumstances."
               },
               {
                 "t": "p",
-                "x": "Further validation with utilities and operational data would be needed before the system could be used in grid operations."
-              },
-              {
-                "t": "video",
-                "yt": "MCB3zM5dEVI"
+                "x": "Experts caution it is not a crystal ball. Speech can sound older because of depression or stress, the study mostly measured people at a single point in time, and the model has been tested only in Spanish. The team now plans to test other languages and follow people over time."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 전력망 노리는\n우주기상 위험 예측",
-          "body": "AI가 U.S. 변전소 66,935곳 우주기상 위험을 30-60분 앞서 추정한다.",
-          "mini_headline": "AI가 전력망 폭풍 위험을 예측한다",
+          "headline": "목소리가 드러낼 수 있는\n노화의 속도",
+          "body": "AI 음성 시계가 목소리로 나이를 가늠하는데, 늙게 들리면 인지 문제와 연관된다.",
+          "mini_headline": "노화 시계가 된 목소리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "극한 우주기상은 송전망에 전류를 유도해 장비를 망가뜨리기도 한다. 저자는 Microsoft Research 여름 인턴십 기간에 미국(U.S.) 본토 변전소 66,935곳의 우주기상 위험을 예측하는 머신러닝 시스템을 만들었다. 지점별 추정치는 30-60분 앞서 나온다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-                "cap": "L1 태양풍 측정에서 U.S. 변전소 66,935곳의 지점별 위험 추정까지 이어지는 전체 예측 파이프라인."
+                "x": "말하기·언어 패턴 수백 가지를 분석하는 새 AI 도구가 말투로 사람의 나이를 추정하고, 어떻게 늙어가는지와 치매 위험이 있는지 단서까지 줄 수 있다는 연구가 Science Advances에 실렸다."
               },
               {
                 "t": "p",
-                "x": "시스템은 태양풍 측정값으로 AE와 Dst 지자기 지수부터 예측한다. 그래디언트 부스팅 모델은 이 값에 변전소별 위도와 지질 전도도를 더해 유도 전류 위험으로 이어지는 자기장 변화 dB/dt를 추정한다. 특성과 모델 구성을 찾는 작업은 AI 에이전트 50개로 이뤄진 시스템이 거들었다."
+                "x": "연구진은 라틴아메리카 5개국에서 스페인어를 쓰는(Spanish-speaking) 성인 2,900명 이상의 녹음을 썼다. 쉼, 속도, 음높이, 어휘 등 700개가 넘는 특징을 뽑아 머신러닝 모델을 학습시킨 뒤 ‘말-나이 격차(speech-age gap)’를 계산했다."
               },
               {
                 "t": "p",
-                "x": "2020-2026년 사이 이 시스템은 주요 사건의 76.5%, 심각한 사건의 81.2%, 극한 사건의 64.1%를 잡아냈다. 전체 변전소 추정치를 내는 데는 약 333밀리초가 걸렸다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-                "cap": "대표적인 대형 폭풍 시나리오로 대륙 단위 GIC 위험을 평가한 시연 장면."
+                "x": "말소리가 실제 나이보다 늙게 들리는 사람일수록 인지 문제와 치매가 있을 가능성이 컸다. 후성유전학적 시계로 보면 생물학적 노화가 빨라진 징후도 있었고 사회경제적 여건도 덜 좋았다."
               },
               {
                 "t": "p",
-                "x": "전력망 운영에 쓰려면 전력회사와 운영 데이터로 추가 검증을 거쳐야 한다."
-              },
-              {
-                "t": "video",
-                "yt": "MCB3zM5dEVI"
+                "x": "그렇다고 수정 구슬은 아니라고 전문가들은 경고한다. 우울이나 스트레스 탓에 말소리가 늙게 들릴 수도 있다. 연구는 대부분 한 시점에서만 사람들을 측정했고, 모델도 스페인어로만 검증됐다. 연구팀은 앞으로 다른 언어로도 시험하고 사람들을 장기간 추적할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが宇宙天気の\n送電網リスクを予測",
-          "body": "AIがU.S.の変電所66,935カ所の宇宙天気リスクを30-60分前に推定する。",
-          "mini_headline": "AIが送電網の嵐リスクを予測",
+          "headline": "声でわかるかもしれない\n老化のスピード",
+          "body": "AIの音声時計は声から年齢を推定し、老けて聞こえる声と認知機能の問題を結びつける。",
+          "mini_headline": "老化時計としての声",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "極端な宇宙天気現象は送電網に電流を誘導し、機器を損傷させることがある。筆者はMicrosoft Researchでの夏季インターン中に、米国（U.S.）本土の変電所66,935カ所の宇宙天気リスクを予測する機械学習システムを構築した。地点ごとの推定値を30-60分前に出す。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-                "cap": "L1の太陽風観測からU.S.の変電所66,935カ所の地点別リスク推定に至る一貫した予測パイプライン。"
+                "x": "数百種類の発話・言語パターンを分析する新しいAIツールが、話し方から人の年齢を推定し、その人の老化の進み具合や認知症リスクの手がかりになりうることが、Science Advancesに掲載された研究で示唆された。"
               },
               {
                 "t": "p",
-                "x": "太陽風の観測値からAEとDstの地磁気指数を予測し、勾配ブースティングモデルがそれを各変電所の緯度や地質の導電率と組み合わせて、誘導電流リスクに関わる磁場変化dB/dtを推定する。50のAIエージェントからなるシステムが特徴量とモデル構成の探索を支えた。"
+                "x": "研究者らは、ラテンアメリカ5か国のスペイン語を話す(Spanish-speaking)成人2,900人超の録音を用い、間、速さ、声の高さ、語彙など700以上の特徴を抽出して機械学習モデルを学習させ、「発話年齢ギャップ(speech-age gap)」を算出した。"
               },
               {
                 "t": "p",
-                "x": "2020-2026年の期間で、大規模イベントの76.5%、深刻なイベントの81.2%、極端なイベントの64.1%を検出し、全変電所の推定値を約333ミリ秒で算出した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-                "cap": "代表的な大規模嵐シナリオにおける大陸規模のGICリスク評価のデモ。"
+                "x": "話し方が実年齢より老けて聞こえる人は、認知機能の問題や認知症、エピジェネティック時計で見た生物学的老化の加速の兆候がみられる傾向が強く、社会的・経済的な状況もあまり恵まれていなかった。"
               },
               {
                 "t": "p",
-                "x": "送電網の運用に使うには、電力会社や運用データによるさらなる検証が必要となる。"
-              },
-              {
-                "t": "video",
-                "yt": "MCB3zM5dEVI"
+                "x": "専門家は、これは水晶玉ではないと注意を促す。うつやストレスで声が老けて聞こえることもあり、研究の大半は一時点での測定にとどまり、モデルはスペイン語でしか検証されていない。チームは今後、他の言語での検証と、人々の長期追跡を計画している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI预测空间天气\n对电网的风险",
-          "body": "AI模型可提前30-60分钟预估U.S.境内66,935座变电站的空间天气风险。",
-          "mini_headline": "AI预测电网风暴风险",
+          "headline": "你的声音或能透露\n你衰老得有多快",
+          "body": "一款AI语音时钟能通过声音估算年龄，并将听起来更老的声音与认知问题联系起来。",
+          "mini_headline": "声音是一座衰老时钟",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "极端空间天气事件可能在输电网络中感应出电流，损坏设备。作者在Microsoft Research暑期实习期间，构建了一套机器学习系统，可预测美国（U.S.）本土66,935座变电站的空间天气风险，并提前30-60分钟给出针对具体地点的估计。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-                "cap": "从L1太阳风测量到U.S.境内66,935座变电站逐点风险估计的端到端预测流程。"
+                "x": "发表在Science Advances上的一项研究表明，一款可分析数百种言语和语言模式的新AI工具，能根据一个人的说话方式估算其年龄，并可能提示此人的衰老状况以及是否有罹患痴呆症的风险。"
               },
               {
                 "t": "p",
-                "x": "太阳风测量数据用于预测AE和Dst地磁指数；梯度提升模型将其与各变电站的纬度和地质电导率结合，估算与感应电流风险相关的磁场变化dB/dt。一个由50个AI智能体组成的系统协助探索特征和模型配置。"
+                "x": "研究人员使用了来自五个拉美国家2,900多名讲西班牙语（Spanish-speaking）成年人的录音，提取了停顿、语速、音高和词汇等700多项特征来训练机器学习模型，并计算出“言语年龄差”（speech-age gap）。"
               },
               {
                 "t": "p",
-                "x": "在2020-2026年间，该系统检测出76.5%的重大事件、81.2%的严重事件和64.1%的极端事件，并在约333毫秒内完成全部变电站的估计。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-                "cap": "在典型重大风暴情景下进行的大陆级GIC风险评估演示。"
+                "x": "说话听起来比实际年龄更老的人，更可能存在认知问题和痴呆症，在表观遗传时钟上显示出生物衰老加速的迹象，社会和经济状况也较差。"
               },
               {
                 "t": "p",
-                "x": "该系统要用于电网运行，还需要借助电力公司和运行数据进一步验证。"
-              },
-              {
-                "t": "video",
-                "yt": "MCB3zM5dEVI"
+                "x": "专家提醒，这并不是水晶球。抑郁或压力也会让声音听起来更老；该研究大多只在单一时间点测量受试者；而且模型只用西班牙语测试过。团队接下来计划在其他语言中进行测试，并对受试者进行长期追踪。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA predice riesgos del clima\nespacial para la red eléctrica",
-          "body": "Un modelo de Microsoft Research prevé 30-60 minutos antes el riesgo del clima espacial en 66,935 subestaciones de U.S.",
-          "mini_headline": "La IA anticipa tormentas en la red",
+          "headline": "Tu voz podría revelar\nlo rápido que envejeces",
+          "body": "Un reloj del habla con AI estima la edad por la voz y asocia las voces que suenan mayores con problemas cognitivos.",
+          "mini_headline": "La voz como reloj del envejecimiento",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Los eventos extremos de clima espacial pueden inducir corrientes en las redes de transmisión que dañan los equipos. Durante unas prácticas de verano en Microsoft Research, el autor creó un sistema de aprendizaje automático que pronostica el riesgo del clima espacial en 66,935 subestaciones del territorio continental de Estados Unidos (U.S.), con estimaciones por ubicación 30-60 minutos antes."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-                "cap": "Proceso de pronóstico completo, desde las mediciones de viento solar en L1 hasta las estimaciones de riesgo por ubicación en 66,935 subestaciones de U.S."
+                "x": "Una nueva herramienta de AI que analiza cientos de patrones del habla y del lenguaje estima la edad de una persona a partir de su forma de hablar, y podría dar pistas sobre cómo está envejeciendo y si corre riesgo de demencia, según sugiere un estudio publicado en Science Advances."
               },
               {
                 "t": "p",
-                "x": "Las mediciones del viento solar alimentan los pronósticos de los índices geomagnéticos AE y Dst; un modelo de gradient boosting los combina con la latitud y la conductividad geológica de cada subestación para estimar dB/dt, el cambio del campo magnético asociado al riesgo de corrientes inducidas. Un sistema de 50 agentes de IA ayudó a explorar variables y configuraciones del modelo."
+                "x": "Los investigadores usaron grabaciones de más de 2,900 adultos hispanohablantes de cinco países de América Latina y extrajeron más de 700 rasgos, como las pausas, la velocidad, el tono y el vocabulario, para entrenar un modelo de aprendizaje automático y calcular una \"brecha entre habla y edad\"."
               },
               {
                 "t": "p",
-                "x": "En 2020-2026 detectó el 76.5% de los eventos mayores, el 81.2% de los severos y el 64.1% de los extremos, y generó estimaciones para todas las subestaciones en unos 333 milisegundos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-                "cap": "Demostración de una evaluación continental del riesgo de GIC en un escenario representativo de tormenta mayor."
+                "x": "Las personas cuya habla sonaba más vieja que su edad tenían más probabilidades de presentar problemas cognitivos, demencia y signos de envejecimiento biológico acelerado según relojes epigenéticos, así como circunstancias sociales y económicas menos favorables."
               },
               {
                 "t": "p",
-                "x": "Antes de usar el sistema en la operación de la red haría falta validarlo más con empresas eléctricas y datos operativos."
-              },
-              {
-                "t": "video",
-                "yt": "MCB3zM5dEVI"
+                "x": "Los expertos advierten que no es una bola de cristal. El habla puede sonar más vieja por depresión o estrés, el estudio midió a la mayoría de las personas en un solo momento y el modelo solo se ha probado en español. El equipo planea ahora probarlo en otros idiomas y hacer un seguimiento de las personas a lo largo del tiempo."
               }
             ]
           }
@@ -1223,499 +1611,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 전력망 노리는\n우주기상 위험 예측",
-          "body": "AI가 U.S. 변전소 66,935곳 우주기상 위험을 30-60분 앞서 추정한다.",
-          "mini_headline": "AI가 전력망 폭풍 위험을 예측한다",
+          "headline": "목소리가 드러낼 수 있는\n노화의 속도",
+          "body": "AI 음성 시계가 목소리로 나이를 추정하며, 늙게 들리면 인지 문제와 연관된다.",
+          "mini_headline": "노화 시계가 된 목소리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "극한 우주기상 현상은 송전망에 전류를 유도해 장비를 손상시킬 수 있다. 저자는 Microsoft Research 여름 인턴십 동안 미국(U.S.) 본토 변전소 66,935곳의 우주기상 위험을 예측하는 머신러닝 시스템을 만들었다. 이 시스템은 지점별 추정치를 30-60분 앞서 내놓는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-                "cap": "L1 태양풍 측정에서 U.S. 변전소 66,935곳의 지점별 위험 추정까지 이어지는 전체 예측 파이프라인."
+                "x": "수백 가지 말하기·언어 패턴을 분석하는 새로운 AI 도구가 말하는 방식으로 사람의 나이를 추정하며, 그 사람이 어떻게 늙어가는지와 치매 위험이 있는지에 대한 단서를 줄 수 있다는 연구가 Science Advances에 실렸다."
               },
               {
                 "t": "p",
-                "x": "태양풍 측정값으로 AE와 Dst 지자기 지수를 예측하고, 그래디언트 부스팅 모델이 이를 각 변전소의 위도와 지질 전도도와 결합해 유도 전류 위험과 연결된 자기장 변화 dB/dt를 추정한다. AI 에이전트 50개로 이뤄진 시스템이 특성과 모델 구성 탐색을 도왔다."
+                "x": "연구진은 라틴아메리카 5개국의 스페인어 사용(Spanish-speaking) 성인 2,900명 이상의 녹음을 활용했다. 쉼, 속도, 음높이, 어휘 등 700개가 넘는 특징을 추출해 머신러닝 모델을 학습시키고 ‘말-나이 격차(speech-age gap)’를 계산했다."
               },
               {
                 "t": "p",
-                "x": "2020-2026년 기간에 이 시스템은 주요 사건의 76.5%, 심각한 사건의 81.2%, 극한 사건의 64.1%를 감지했고, 전체 변전소에 대한 추정치를 약 333밀리초 만에 산출했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-                "cap": "대표적인 대형 폭풍 시나리오에서 대륙 단위 GIC 위험 평가를 시연한 모습."
+                "x": "말소리가 실제 나이보다 늙게 들리는 사람일수록 인지 문제와 치매가 있을 가능성이 높았고, 후성유전학적 시계에서 생물학적 노화가 빨라진 징후를 보였으며, 사회경제적 여건도 덜 좋았다."
               },
               {
                 "t": "p",
-                "x": "전력망 운영에 쓰이려면 전력회사 및 운영 데이터를 통한 추가 검증이 필요하다."
-              },
-              {
-                "t": "video",
-                "yt": "MCB3zM5dEVI"
+                "x": "전문가들은 이것이 수정 구슬은 아니라고 경고한다. 우울이나 스트레스 때문에 말소리가 늙게 들릴 수 있고, 연구는 대부분 한 시점에서만 사람들을 측정했으며, 모델은 스페인어로만 검증됐다. 연구팀은 앞으로 다른 언어로도 시험하고 사람들을 장기간 추적할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが宇宙天気の\n送電網リスクを予測",
-          "body": "AIがU.S.の変電所66,935カ所の宇宙天気リスクを30-60分前に推定する。",
-          "mini_headline": "AIが送電網の嵐リスクを予測",
+          "headline": "声でわかるかもしれない\n老化のスピード",
+          "body": "AIの音声時計は声から年齢を推定し、老けて聞こえる声と認知機能の問題を結びつける。",
+          "mini_headline": "老化時計としての声",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "極端な宇宙天気現象は送電網に電流を誘導し、機器を損傷させることがある。筆者はMicrosoft Researchでの夏季インターン中に、米国（U.S.）本土の変電所66,935カ所の宇宙天気リスクを予測する機械学習システムを構築した。地点ごとの推定値を30-60分前に出す。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-                "cap": "L1の太陽風観測からU.S.の変電所66,935カ所の地点別リスク推定に至る一貫した予測パイプライン。"
+                "x": "数百種類の発話・言語パターンを分析する新しいAIツールが、話し方から人の年齢を推定し、その人の老化の進み具合や認知症リスクの手がかりになりうることが、Science Advancesに掲載された研究で示唆された。"
               },
               {
                 "t": "p",
-                "x": "太陽風の観測値からAEとDstの地磁気指数を予測し、勾配ブースティングモデルがそれを各変電所の緯度や地質の導電率と組み合わせて、誘導電流リスクに関わる磁場変化dB/dtを推定する。50のAIエージェントからなるシステムが特徴量とモデル構成の探索を支えた。"
+                "x": "研究者らは、ラテンアメリカ5か国のスペイン語を話す(Spanish-speaking)成人2,900人超の録音を用い、間、速さ、声の高さ、語彙など700以上の特徴を抽出して機械学習モデルを学習させ、「発話年齢ギャップ(speech-age gap)」を算出した。"
               },
               {
                 "t": "p",
-                "x": "2020-2026年の期間で、大規模イベントの76.5%、深刻なイベントの81.2%、極端なイベントの64.1%を検出し、全変電所の推定値を約333ミリ秒で算出した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-                "cap": "代表的な大規模嵐シナリオにおける大陸規模のGICリスク評価のデモ。"
+                "x": "話し方が実年齢より老けて聞こえる人は、認知機能の問題や認知症、エピジェネティック時計で見た生物学的老化の加速の兆候がみられる傾向が強く、社会的・経済的な状況もあまり恵まれていなかった。"
               },
               {
                 "t": "p",
-                "x": "送電網の運用に使うには、電力会社や運用データによるさらなる検証が必要となる。"
-              },
-              {
-                "t": "video",
-                "yt": "MCB3zM5dEVI"
+                "x": "専門家は、これは水晶玉ではないと注意を促す。うつやストレスで声が老けて聞こえることもあり、研究の大半は一時点での測定にとどまり、モデルはスペイン語でしか検証されていない。チームは今後、他の言語での検証と、人々の長期追跡を計画している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI预测空间天气\n对电网的风险",
-          "body": "AI模型可提前30-60分钟预估U.S.境内66,935座变电站的空间天气风险。",
-          "mini_headline": "AI预测电网风暴风险",
+          "headline": "你的声音或能透露\n你衰老得有多快",
+          "body": "一款AI语音时钟能通过声音估算年龄，并将听起来更老的声音与认知问题联系起来。",
+          "mini_headline": "声音是一座衰老时钟",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "极端空间天气事件可能在输电网络中感应出电流，损坏设备。作者在Microsoft Research暑期实习期间，构建了一套机器学习系统，可预测美国（U.S.）本土66,935座变电站的空间天气风险，并提前30-60分钟给出针对具体地点的估计。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-                "cap": "从L1太阳风测量到U.S.境内66,935座变电站逐点风险估计的端到端预测流程。"
+                "x": "发表在Science Advances上的一项研究表明，一款可分析数百种言语和语言模式的新AI工具，能根据一个人的说话方式估算其年龄，并可能提示此人的衰老状况以及是否有罹患痴呆症的风险。"
               },
               {
                 "t": "p",
-                "x": "太阳风测量数据用于预测AE和Dst地磁指数；梯度提升模型将其与各变电站的纬度和地质电导率结合，估算与感应电流风险相关的磁场变化dB/dt。一个由50个AI智能体组成的系统协助探索特征和模型配置。"
+                "x": "研究人员使用了来自五个拉美国家2,900多名讲西班牙语（Spanish-speaking）成年人的录音，提取了停顿、语速、音高和词汇等700多项特征来训练机器学习模型，并计算出“言语年龄差”（speech-age gap）。"
               },
               {
                 "t": "p",
-                "x": "在2020-2026年间，该系统检测出76.5%的重大事件、81.2%的严重事件和64.1%的极端事件，并在约333毫秒内完成全部变电站的估计。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-                "cap": "在典型重大风暴情景下进行的大陆级GIC风险评估演示。"
+                "x": "说话听起来比实际年龄更老的人，更可能存在认知问题和痴呆症，在表观遗传时钟上显示出生物衰老加速的迹象，社会和经济状况也较差。"
               },
               {
                 "t": "p",
-                "x": "该系统要用于电网运行，还需要借助电力公司和运行数据进一步验证。"
-              },
-              {
-                "t": "video",
-                "yt": "MCB3zM5dEVI"
+                "x": "专家提醒，这并不是水晶球。抑郁或压力也会让声音听起来更老；该研究大多只在单一时间点测量受试者；而且模型只用西班牙语测试过。团队接下来计划在其他语言中进行测试，并对受试者进行长期追踪。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA predice riesgos del clima\nespacial para la red eléctrica",
-          "body": "Un modelo de Microsoft Research prevé 30-60 minutos antes el riesgo del clima espacial en 66,935 subestaciones de U.S.",
-          "mini_headline": "La IA anticipa tormentas en la red",
+          "headline": "Tu voz podría revelar\nlo rápido que envejeces",
+          "body": "Un reloj del habla con AI estima la edad por la voz y asocia las voces que suenan mayores con problemas cognitivos.",
+          "mini_headline": "La voz como reloj del envejecimiento",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ForecastingSpace-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Los eventos extremos de clima espacial pueden inducir corrientes en las redes de transmisión que dañan los equipos. Durante unas prácticas de verano en Microsoft Research, el autor creó un sistema de aprendizaje automático que pronostica el riesgo del clima espacial en 66,935 subestaciones del territorio continental de Estados Unidos (U.S.), con estimaciones por ubicación 30-60 minutos antes."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/GIC-Forecast-Flowchart-scaled.png",
-                "cap": "Proceso de pronóstico completo, desde las mediciones de viento solar en L1 hasta las estimaciones de riesgo por ubicación en 66,935 subestaciones de U.S."
+                "x": "Una nueva herramienta de AI que analiza cientos de patrones del habla y del lenguaje estima la edad de una persona a partir de su forma de hablar, y podría dar pistas sobre cómo está envejeciendo y si corre riesgo de demencia, según sugiere un estudio publicado en Science Advances."
               },
               {
                 "t": "p",
-                "x": "Las mediciones del viento solar alimentan los pronósticos de los índices geomagnéticos AE y Dst; un modelo de gradient boosting los combina con la latitud y la conductividad geológica de cada subestación para estimar dB/dt, el cambio del campo magnético asociado al riesgo de corrientes inducidas. Un sistema de 50 agentes de IA ayudó a explorar variables y configuraciones del modelo."
+                "x": "Los investigadores usaron grabaciones de más de 2,900 adultos hispanohablantes de cinco países de América Latina y extrajeron más de 700 rasgos, como las pausas, la velocidad, el tono y el vocabulario, para entrenar un modelo de aprendizaje automático y calcular una \"brecha entre habla y edad\"."
               },
               {
                 "t": "p",
-                "x": "En 2020-2026 detectó el 76.5% de los eventos mayores, el 81.2% de los severos y el 64.1% de los extremos, y generó estimaciones para todas las subestaciones en unos 333 milisegundos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/Continent-GIC-Risk-Assessment-Demo-High-Res-scaled.jpg",
-                "cap": "Demostración de una evaluación continental del riesgo de GIC en un escenario representativo de tormenta mayor."
+                "x": "Las personas cuya habla sonaba más vieja que su edad tenían más probabilidades de presentar problemas cognitivos, demencia y signos de envejecimiento biológico acelerado según relojes epigenéticos, así como circunstancias sociales y económicas menos favorables."
               },
               {
                 "t": "p",
-                "x": "Antes de usar el sistema en la operación de la red haría falta validarlo más con empresas eléctricas y datos operativos."
-              },
-              {
-                "t": "video",
-                "yt": "MCB3zM5dEVI"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "adaptivemath",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "적응형 AI의 작은 효과\n교사는 여전히 핵심",
-      "body": "네덜란드 학생 약 8,000명 연구에서 적응형 AI가 산수를 다소 높였다.",
-      "mini_headline": "AI, 수학에 작은 도움",
-      "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-math-slightly-ai-human-teacher.html",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-            "cap": "Credit: Unsplash/CC0 Public Domain"
-          },
-          {
-            "t": "p",
-            "x": "Radboud University가 아이 약 8,000명을 여러 해 동안 지켜본 연구에 따르면, AI 기반(AI-supported) 학습 도구를 쓰는 초등학생은 그렇지 않은 아이보다 산수를 더 빨리 익힌다. 다만 연구진은 이 도구가 만능 해법은 아니며 교사의 역할이 여전히 핵심이라고 경고한다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 2014년부터 2017년까지 세 해 동안 네덜란드 학생 7,885명을 추적했다. 학생 수준에 맞춰 문제를 바꿔 주는 적응형 시스템을 쓴 학급과 쓰지 않은 학급을 견줬다. 연구는 Learning and Instruction에 실렸다."
-          },
-          {
-            "t": "p",
-            "x": "교육 연구자 Susanne de Mooij는 “효과는 작지만 전반적으로 긍정적인 경향을 확인했다”고 말한다. 효과가 가장 뚜렷했던 곳은 대규모 학교, 그리고 형편이 어려운 가정의 학생이 많은 취약 학교였다고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "도구는 교사를 대신하지 않고 돕는다. 그는 “교사 한 명이 30명의 학생에게 동시에 수업 내용을 맞출 수는 없다”며 통제권은 언제나 교사에게 있다고 설명한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Adaptive AI lifts math a little\nbut the teacher stays essential",
-          "body": "A three-year Radboud University study of nearly 8,000 Dutch pupils found adaptive AI tools modestly lifted arithmetic.",
-          "mini_headline": "AI gives math a small lift",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Elementary school students who use an AI-supported learning tool learn arithmetic more quickly than children who do not, according to a multiyear Radboud University study involving nearly 8,000 children. But the researchers warn it's no miracle cure: the teacher's role remains essential."
-              },
-              {
-                "t": "p",
-                "x": "The team followed 7,885 Dutch pupils over three years, between 2014 and 2017, comparing classes that used an adaptive system, which adjusts exercises to each student's level, with classes that did not. The study is published in Learning and Instruction."
-              },
-              {
-                "t": "p",
-                "x": "\"We have found small effects, but generally a positive trend,\" says education researcher Susanne de Mooij, adding that the effect was clearest in large schools and vulnerable schools with many students from less advantaged backgrounds."
-              },
-              {
-                "t": "p",
-                "x": "The tool supports teachers rather than replacing them. \"A teacher cannot adapt the lesson content to 30 students at the same time,\" she says, and the teacher always remains in control."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "적응형 AI의 작은 효과\n교사는 여전히 핵심",
-          "body": "네덜란드 학생 약 8,000명 연구에서 적응형 AI가 산수를 다소 높였다.",
-          "mini_headline": "AI, 수학에 작은 도움",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Radboud University가 아이 약 8,000명을 여러 해 동안 지켜본 연구에 따르면, AI 기반(AI-supported) 학습 도구를 쓰는 초등학생은 그렇지 않은 아이보다 산수를 더 빨리 익힌다. 다만 연구진은 이 도구가 만능 해법은 아니며 교사의 역할이 여전히 핵심이라고 경고한다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 2014년부터 2017년까지 세 해 동안 네덜란드 학생 7,885명을 추적했다. 학생 수준에 맞춰 문제를 바꿔 주는 적응형 시스템을 쓴 학급과 쓰지 않은 학급을 견줬다. 연구는 Learning and Instruction에 실렸다."
-              },
-              {
-                "t": "p",
-                "x": "교육 연구자 Susanne de Mooij는 “효과는 작지만 전반적으로 긍정적인 경향을 확인했다”고 말한다. 효과가 가장 뚜렷했던 곳은 대규모 학교, 그리고 형편이 어려운 가정의 학생이 많은 취약 학교였다고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "도구는 교사를 대신하지 않고 돕는다. 그는 “교사 한 명이 30명의 학생에게 동시에 수업 내용을 맞출 수는 없다”며 통제권은 언제나 교사에게 있다고 설명한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "適応型AIで算数は微増\n教師の役割は不可欠",
-          "body": "オランダの児童約8,000人を追った研究で、適応型AIが算数力をやや高めた。",
-          "mini_headline": "AIで算数が少し向上",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Radboud Universityが約8,000人の子どもを対象に複数年にわたって行った研究によると、AI支援型（AI-supported）の学習ツールを使う小学生は、使わない子どもより算数を速く身につける。ただし研究者は、万能薬ではなく教師の役割が依然として欠かせないと警告する。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは2014年から2017年までの三年間、オランダの児童7,885人を追跡し、各児童のレベルに合わせて問題を調整する適応型システムを使った学級と使わなかった学級を比較した。研究はLearning and Instructionに掲載された。"
-              },
-              {
-                "t": "p",
-                "x": "教育研究者のSusanne de Mooijは「効果は小さいが、全体として前向きな傾向が見られた」と話す。効果は大規模校と、恵まれない家庭の児童が多い脆弱な学校で最も顕著だったという。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは教師に取って代わるのではなく、教師を支える。「教師が30人の児童に同時に授業内容を合わせることはできない」と彼女は言い、主導権は常に教師にあるとする。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "自适应AI小幅提升数学\n教师仍不可或缺",
-          "body": "一项对近8,000名荷兰小学生的三年研究发现，自适应AI工具小幅提升了算术。",
-          "mini_headline": "AI让数学小幅进步",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Radboud University一项涉及近8,000名儿童的多年研究显示，使用AI辅助（AI-supported）学习工具的小学生，算术学得比不用的孩子更快。但研究人员提醒，这并非灵丹妙药：教师的作用依然不可或缺。"
-              },
-              {
-                "t": "p",
-                "x": "研究团队在2014年至2017年的三年间追踪了7,885名荷兰学生，比较了使用自适应系统（根据每个学生的水平调整练习）的班级与未使用的班级。研究发表于Learning and Instruction。"
-              },
-              {
-                "t": "p",
-                "x": "教育研究者Susanne de Mooij表示：“我们发现的效果不大，但总体呈积极趋势。”她补充说，效果在大型学校以及弱势家庭学生较多的薄弱学校中最为明显。"
-              },
-              {
-                "t": "p",
-                "x": "该工具是辅助教师，而非取代教师。她说：“一位教师无法同时为30名学生调整教学内容。”而教师始终掌握主导权。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La IA adaptativa mejora algo\nel cálculo; el docente es clave",
-          "body": "En tres años, un estudio de Radboud University con casi 8,000 alumnos vio que la IA adaptativa mejoró algo el cálculo.",
-          "mini_headline": "La IA da un pequeño impulso a las matemáticas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Los alumnos de primaria que usan una herramienta de aprendizaje con apoyo de IA (AI-supported) aprenden aritmética más rápido que quienes no la usan, según un estudio plurianual de Radboud University con casi 8,000 niños. Pero los investigadores advierten que no es una solución milagrosa: el papel del docente sigue siendo esencial."
-              },
-              {
-                "t": "p",
-                "x": "El equipo siguió a 7,885 alumnos neerlandeses durante tres años, entre 2014 y 2017, y comparó las clases que usaron un sistema adaptativo, que ajusta los ejercicios al nivel de cada alumno, con las que no lo usaron. El estudio se publica en Learning and Instruction."
-              },
-              {
-                "t": "p",
-                "x": "“Hemos encontrado efectos pequeños, pero en general una tendencia positiva”, dice la investigadora educativa Susanne de Mooij, que añade que el efecto fue más claro en escuelas grandes y en escuelas vulnerables con muchos alumnos de entornos menos favorecidos."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta apoya a los docentes en lugar de sustituirlos. “Un docente no puede adaptar el contenido de la clase a 30 alumnos a la vez”, afirma, y el docente siempre mantiene el control."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "적응형 AI의 작은 효과\n교사는 여전히 핵심",
-          "body": "네덜란드 학생 약 8,000명 연구에서 적응형 AI가 산수를 다소 높였다.",
-          "mini_headline": "AI, 수학에 작은 도움",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Radboud University가 약 8,000명의 아이를 대상으로 여러 해에 걸쳐 진행한 연구에 따르면, AI 기반(AI-supported) 학습 도구를 쓰는 초등학생은 그렇지 않은 아이보다 산수를 더 빨리 익힌다. 다만 연구진은 만능 해법은 아니며 교사의 역할이 여전히 핵심이라고 경고한다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 2014년부터 2017년까지 세 해 동안 네덜란드 학생 7,885명을 추적하며, 학생 수준에 맞춰 문제를 조정하는 적응형 시스템을 쓴 학급과 쓰지 않은 학급을 비교했다. 연구는 Learning and Instruction에 실렸다."
-              },
-              {
-                "t": "p",
-                "x": "교육 연구자 Susanne de Mooij는 “효과는 작지만 전반적으로 긍정적인 경향을 확인했다”고 말한다. 효과는 대규모 학교, 그리고 형편이 어려운 가정의 학생이 많은 취약 학교에서 가장 뚜렷했다고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "이 도구는 교사를 대체하지 않고 지원한다. 그는 “교사 한 명이 30명의 학생에게 동시에 수업 내용을 맞출 수는 없다”고 말하며, 통제권은 언제나 교사에게 있다고 설명한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "適応型AIで算数は微増\n教師の役割は不可欠",
-          "body": "オランダの児童約8,000人を追った研究で、適応型AIが算数力をやや高めた。",
-          "mini_headline": "AIで算数が少し向上",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Radboud Universityが約8,000人の子どもを対象に複数年にわたって行った研究によると、AI支援型（AI-supported）の学習ツールを使う小学生は、使わない子どもより算数を速く身につける。ただし研究者は、万能薬ではなく教師の役割が依然として欠かせないと警告する。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは2014年から2017年までの三年間、オランダの児童7,885人を追跡し、各児童のレベルに合わせて問題を調整する適応型システムを使った学級と使わなかった学級を比較した。研究はLearning and Instructionに掲載された。"
-              },
-              {
-                "t": "p",
-                "x": "教育研究者のSusanne de Mooijは「効果は小さいが、全体として前向きな傾向が見られた」と話す。効果は大規模校と、恵まれない家庭の児童が多い脆弱な学校で最も顕著だったという。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは教師に取って代わるのではなく、教師を支える。「教師が30人の児童に同時に授業内容を合わせることはできない」と彼女は言い、主導権は常に教師にあるとする。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "自适应AI小幅提升数学\n教师仍不可或缺",
-          "body": "一项对近8,000名荷兰小学生的三年研究发现，自适应AI工具小幅提升了算术。",
-          "mini_headline": "AI让数学小幅进步",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Radboud University一项涉及近8,000名儿童的多年研究显示，使用AI辅助（AI-supported）学习工具的小学生，算术学得比不用的孩子更快。但研究人员提醒，这并非灵丹妙药：教师的作用依然不可或缺。"
-              },
-              {
-                "t": "p",
-                "x": "研究团队在2014年至2017年的三年间追踪了7,885名荷兰学生，比较了使用自适应系统（根据每个学生的水平调整练习）的班级与未使用的班级。研究发表于Learning and Instruction。"
-              },
-              {
-                "t": "p",
-                "x": "教育研究者Susanne de Mooij表示：“我们发现的效果不大，但总体呈积极趋势。”她补充说，效果在大型学校以及弱势家庭学生较多的薄弱学校中最为明显。"
-              },
-              {
-                "t": "p",
-                "x": "该工具是辅助教师，而非取代教师。她说：“一位教师无法同时为30名学生调整教学内容。”而教师始终掌握主导权。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La IA adaptativa mejora algo\nel cálculo; el docente es clave",
-          "body": "En tres años, un estudio de Radboud University con casi 8,000 alumnos vio que la IA adaptativa mejoró algo el cálculo.",
-          "mini_headline": "La IA da un pequeño impulso a las matemáticas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/learning-math.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Los alumnos de primaria que usan una herramienta de aprendizaje con apoyo de IA (AI-supported) aprenden aritmética más rápido que quienes no la usan, según un estudio plurianual de Radboud University con casi 8,000 niños. Pero los investigadores advierten que no es una solución milagrosa: el papel del docente sigue siendo esencial."
-              },
-              {
-                "t": "p",
-                "x": "El equipo siguió a 7,885 alumnos neerlandeses durante tres años, entre 2014 y 2017, y comparó las clases que usaron un sistema adaptativo, que ajusta los ejercicios al nivel de cada alumno, con las que no lo usaron. El estudio se publica en Learning and Instruction."
-              },
-              {
-                "t": "p",
-                "x": "“Hemos encontrado efectos pequeños, pero en general una tendencia positiva”, dice la investigadora educativa Susanne de Mooij, que añade que el efecto fue más claro en escuelas grandes y en escuelas vulnerables con muchos alumnos de entornos menos favorecidos."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta apoya a los docentes en lugar de sustituirlos. “Un docente no puede adaptar el contenido de la clase a 30 alumnos a la vez”, afirma, y el docente siempre mantiene el control."
+                "x": "Los expertos advierten que no es una bola de cristal. El habla puede sonar más vieja por depresión o estrés, el estudio midió a la mayoría de las personas en un solo momento y el modelo solo se ha probado en español. El equipo planea ahora probarlo en otros idiomas y hacer un seguimiento de las personas a lo largo del tiempo."
               }
             ]
           }

@@ -1,7 +1,32 @@
-{"date":"2026-10-02","section":"music","media":[
-{"id":"japanvoice","type":"image","src":"pipeline/media/japanvoice.jpg"},
-{"id":"songhunt","type":"image","src":"pipeline/media/songhunt.jpg"},
-{"id":"clarkson","type":"image","src":"pipeline/media/clarkson.jpg"},
-{"id":"sleepclub","type":"video","src":"pipeline/media/sleepclub.mp4","poster":"pipeline/media/sleepclub.jpg"},
-{"id":"agentcore","type":"image","src":"pipeline/media/agentcore.jpg"}
-]}
+{
+  "date": "2026-10-03",
+  "section": "music",
+  "media": [
+    {
+      "id": "suno-speech-beta",
+      "type": "image",
+      "src": "pipeline/media/suno-speech-beta.jpg"
+    },
+    {
+      "id": "stability-ai-sean-parker-music",
+      "type": "image",
+      "src": "pipeline/media/stability-ai-sean-parker-music.jpg"
+    },
+    {
+      "id": "questlove-sampling-ai",
+      "type": "image",
+      "src": "pipeline/media/questlove-sampling-ai.jpg"
+    },
+    {
+      "id": "lyricfind-ai-lyrics-long-tail",
+      "type": "image",
+      "src": "pipeline/media/lyricfind-ai-lyrics-long-tail.jpg"
+    },
+    {
+      "id": "suno-v6-take-me-back-video",
+      "type": "video",
+      "src": "pipeline/media/suno-v6-take-me-back-video.mp4",
+      "poster": "pipeline/media/suno-v6-take-me-back-video.jpg"
+    }
+  ]
+}

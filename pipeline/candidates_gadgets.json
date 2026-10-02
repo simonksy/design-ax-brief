@@ -1,142 +1,208 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "section": "gadgets",
+  "now_iso": "2026-10-02T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "source": "The Verge",
-      "category": "gadgets",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "published_iso": "2026-10-01T19:47:51Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Can you trust AI to see what’s going on around you?"
-    },
-    {
-      "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-      "source": "The Verge",
-      "category": "gadgets",
-      "title": "Sony brings AI graphics upscaling to the regular PS5",
-      "published_iso": "2026-10-01T16:53:39Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072873/110923_new_Playstation_5_Slim_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "It will be available today in two games."
-    },
-    {
-      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-      "source": "The Verge",
-      "category": "gadgets",
-      "title": "Inside Microsoft’s big Copilot rethink",
-      "published_iso": "2026-10-01T16:00:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Satya-Nadella-September-Copilot-Event.png?quality=90&strip=all&crop=0%2C10.889260556288%2C100%2C78.221478887424&w=1200",
-      "excerpt": "Copilot is now being positioned as the ‘OS for work.’"
-    },
-    {
-      "url": "https://www.cnet.com/tech/amazon-delivery-driver-ai-smart-glasses-privacy/",
-      "source": "CNET",
-      "category": "gadgets",
-      "title": "Amazon Delivery Driver Smart Glasses Will Snap Pictures of… Everything?",
-      "published_iso": "2026-10-01T00:50:17Z",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/amazon-driver-ai-smart-glasses.jpg",
-      "excerpt": "Amazon continues its rollout of AI smart glasses to help streamline the delivery process. Meanwhile, the privacy concerns are growing."
-    },
-    {
-      "url": "https://www.techradar.com/health-fitness/oura-rings-get-ai-powered-biomarker-upgrade-for-women-new-xella-health-integration-screens-for-over-130-conditions",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "title": "Oura partners with Xella Health to combine your smart ring data with AI-powered biomarker testing",
-      "published_iso": "2026-10-01T20:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/6uT5WoneFKRzdfHrtStkwP-2000-80.jpg",
-      "excerpt": "Oura spots the changes, Xella tries to explain why"
-    },
-    {
-      "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "title": "Gemini for Home is now better at hearing you in noisy rooms",
-      "published_iso": "2026-09-30T20:58:51Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Home-app-stock-photo-9.jpg",
-      "excerpt": "Google Home’s latest update makes Gemini faster and more reliable, while fixing lights, cameras, setup, and more."
-    },
-    {
-      "url": "https://9to5google.com/2026/10/01/samsung-android-xr-glasses-release-date-report/",
+      "title": "Google Home update rolling out with better 'Find My Phone' voice commands, smart home improvements",
+      "url": "https://9to5google.com/2026/09/30/google-home-update-find-my-phone-improvements/",
       "source": "9to5Google",
+      "published_iso": "2026-09-30T21:30:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-9.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "A new Google Home update has arrived with various improvements including better support for the “Find My Phone” voice command...",
       "category": "gadgets",
-      "title": "Samsung reportedly confirms November launch for first Android XR glasses",
-      "published_iso": "2026-10-01T14:20:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Samsung's first Android XR glasses reportedly have a release date confirmed for sometime in November 2026."
+      "section": "gadgets"
     },
     {
+      "title": "Gemini fully replaces Google Assistant on Android",
       "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
       "source": "9to5Google",
-      "category": "gadgets",
-      "title": "Gemini fully replaces Google Assistant on Android",
-      "published_iso": "2026-09-28T20:48:08Z",
+      "published_iso": "2026-09-28T20:48:08+00:00",
       "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2018/01/google_assistant_logo_11.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "At the start of September, the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out."
-    },
-    {
-      "url": "https://roadtovr.com/samsung-fcc-gentle-monster-warby-parker-smart-glasses/",
-      "source": "Road to VR",
+      "excerpt": "At the start of September, the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out.",
       "category": "gadgets",
-      "title": "Samsung FCC Approval Signals Gentle Monster & Warby Parker Smart Glasses Nearing Release",
-      "published_iso": "2026-10-01T09:00:17Z",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/05/samsung-google-smart-glasses-1.jpg",
-      "excerpt": "Samsung’s long-awaited smart glasses have cleared FCC testing, suggesting their release is right around the corner. The News Two distinct SM-O200P and SM-O200J have appeared in FCC filings, which is typically one of the last steps before commercialization. Those two product codes indicate Warby Park"
+      "section": "gadgets"
     },
     {
-      "url": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/",
+      "title": "Apple Watch Series 12, Ultra 4 adding two new features soon",
+      "url": "https://9to5mac.com/2026/09/30/apple-watch-series-12-ultra-4-adding-two-new-features-soon/",
+      "source": "9to5Mac",
+      "published_iso": "2026-09-30T16:13:02+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-fi-hero.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple Watch Series 12 and Apple Watch Ultra 4 have arrived, and later this year they’ll get even more powerful with two new features.",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "Apple’s new ‘homeOS’ will launch this month, here’s what’s coming",
+      "url": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/",
+      "source": "9to5Mac",
+      "published_iso": "2026-10-02T17:22:19+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-home-ios-26.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple reportedly plans to launch new Home products on October 13 alongside an all-new operating system rumored to be called ‘homeOS.’",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "Apple's HomePad smart home hub launching on Oct 13 with iMac G4 design – Bloomberg",
+      "url": "https://9to5mac.com/2026/09/30/apples-homepad-smart-home-hub-launching-on-oct-13-bloomberg/",
+      "source": "9to5Mac",
+      "published_iso": "2026-09-30T10:52:30+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apples-HomePad-smart-home-hub-reportedly-launching-on-Oct-13.webp?resize=1200,628",
+      "excerpt": "Apple’s long-awaited smart home hub, which we’ve been referring to as the HomePad, is set to launch on October 13,...",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "Samsung’s first Android XR smart glasses finally have a launch window",
+      "url": "https://www.androidauthority.com/samsung-smart-glasses-launch-date-3717873/",
+      "source": "Android Authority",
+      "published_iso": "2026-10-01T11:26:02+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/05/samsung-google-glasses-warby.jpg",
+      "excerpt": "Samsung is nearly ready to challenge Meta with its first Gemini-powered smart glasses, and we now have a clearer idea of when they're coming.",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "Gemini has lost interest in answering your questions on Android Auto (Update)",
+      "url": "https://www.androidauthority.com/android-auto-gemini-search-bug-3718572/",
+      "source": "Android Authority",
+      "published_iso": "2026-10-02T14:37:13+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/08/android-auto-gemini-ask-gemini-command-1.jpg",
+      "excerpt": "Gemini on Android Auto is experiencing a strange issue where its giving up on answering questions and performing searches.",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "I Tested the Three Big Voice Assistants to See Who’s Best at Predicting Weather",
+      "url": "https://www.cnet.com/home/smart-home/tested-ai-voice-assistants-best-weather-prediction/",
+      "source": "CNET",
+      "published_iso": "2026-10-01T06:00:08-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/image-18-4.png",
+      "excerpt": "Pitting Gemini, Alexa Plus and Siri AI against each other revealed how well these assistants can interpret local weather.",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "Your Next Mobile Games Will Get AI Graphics Boosts That PCs and Consoles Have Had for Years",
+      "url": "https://www.cnet.com/tech/mobile/qualcomm-mobile-games-ai-graphics-boost-adreno-neural-fusion/",
+      "source": "CNET",
+      "published_iso": "2026-10-02T11:36:25-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Adreno-Neural-Fusion-lede-large.jpg",
+      "excerpt": "AI upscaling and frame generation are coming in upcoming premium Android phones running the new highest-tier Snapdragon chips.",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "What to expect at Microsoft's Windows, Surface and AI event on October 7",
+      "url": "https://www.engadget.com/2275196/microsoft-surface-windows-event-october-7-preview/",
+      "source": "Engadget",
+      "published_iso": "2026-10-02T13:30:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/what-to-expect-at-microsofts-windows-surface-and-ai-event-on-october-7/l-intro-1790886689.jpg",
+      "excerpt": "We'll definitely hear about the NVIDIA RTX Spark-powered Surface Laptop Ultra, but what else?",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "Apple is reportedly building a smart home camera that won't record video footage of you or anyone else",
+      "url": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
+      "source": "Engadget",
+      "published_iso": "2026-10-02T13:44:31+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/l-intro-1790948027.jpg",
+      "excerpt": "The device will apparently use AI to analyze activity in your home without actually filming it.",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse — new GB10 config starts at $4999 for those who can work with less",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-10-02T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB-2560-80.jpg",
+      "excerpt": "Less memory, lower price, otherwise identical",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "Meta's Smart Glasses Are Getting Its 'Muse' AI Agent",
+      "url": "https://www.uploadvr.com/meta-smart-glasses-getting-muse-ai-agent/",
       "source": "UploadVR",
+      "published_iso": "2026-09-29T01:26:21.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Introducing-Muse_-Personal-AI-Agent_SocialShare-1.jpg",
+      "excerpt": "Meta's Muse AI agent is coming to its smart glasses \"soon\", letting it take actions at your request while your phone stays in your pocket.",
       "category": "gadgets",
-      "title": "Meta To Launch Smart Glasses Without Camera As Privacy Backlash Grows",
-      "published_iso": "2026-09-21T01:49:28Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-glasses-recording-LED.png",
-      "excerpt": "Meta will launch cheaper smart glasses without a camera at Connect, The Information reports, as the backlash to the form factor grows."
+      "section": "gadgets"
     },
     {
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "source": "TechCrunch",
+      "title": "Body Proxy Is A Unique Meta Smart Glasses Game From Tender Claws",
+      "url": "https://www.uploadvr.com/body-proxy-is-a-unique-ray-ban-meta-game-from-tender-claws/",
+      "source": "UploadVR",
+      "published_iso": "2026-09-28T21:38:41.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/IMG_9745-1.jpeg",
+      "excerpt": "Body Proxy is a unique location-based game that challenges players to impress AI while wearing Meta smart glasses.",
       "category": "gadgets",
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "published_iso": "2026-10-01T13:00:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
-      "excerpt": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids."
+      "section": "gadgets"
     },
     {
-      "url": "https://www.etnews.com/20261001000279",
-      "source": "전자신문",
+      "title": "Liminal Uses Meta Glasses To Deliver Meditation Based On What You See",
+      "url": "https://www.uploadvr.com/liminal-walking-meditation-uses-meta-ai-glasses-to-deliver-a-meditation-based-on-what-you-see/",
+      "source": "UploadVR",
+      "published_iso": "2026-09-28T21:36:27.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Walking-Meditation-Hero-Image.png",
+      "excerpt": "Liminal is taking its wellness approach outside the headset. Liminal: Walking Meditation uses Meta AI glasses to create a spoken meditation around what you actually see.",
       "category": "gadgets",
-      "title": "AI가전, 중소·생활가전까지 확산…싸고 가벼운 AI 칩 수요 커진다",
-      "published_iso": "2026-10-01T07:00:00Z",
-      "og_image": "https://img.etnews.com/news/article/2026/10/01/news-p.v1.20261001.b895ab04939443ddbc97cfdd1bfa73fb_P1.png",
-      "excerpt": "인공지능(AI) 가전 열풍이 대형가전을 넘어 인덕션과 환기가전 등 중소·생활가전으로 확산하고 있다. 별도 신경망처리장치(NPU) 없이도 마이크로컨트롤러유닛(MCU) 단위에서 저렴한 가격으로 필요한 AI 기능을 구현하는 온디바이스AI가 확산하고 있다. 1일 시장조사업체 ABI리서치에 따르면 스마트폰과 PC를 제외한 TinyML용 AI 반도체 출하량은 2026년부터 2031년까지 연평균 37% 증가해 2031년 41억개를 넘어설 전망이다. 관련 시"
+      "section": "gadgets"
     },
     {
-      "url": "https://9to5google.com/2026/10/01/android-auto-prepares-support-for-google-pixels-magic-cue-proactive-assistance/",
-      "source": "9to5Google",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "published_iso": "2026-10-02T21:08:37+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "excerpt": "“Proceed at your own risk!”",
       "category": "gadgets",
-      "title": "Android Auto prepares support for Google Pixel’s Magic Cue & Proactive Assistance",
-      "published_iso": "2026-10-01T14:55:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/android-auto-magic-cue-2.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Google is apparently preparing to bring Proactive Assistance – also known as “Magic Cue” – from its Pixel phones over..."
+      "section": "gadgets"
     },
     {
-      "url": "https://www.techradar.com/pro/no-internet-no-problem-tether-just-released-free-ai-translation-models-that-work-offline-on-your-phone-and-laptop",
+      "title": "Insta360 turns its action cameras into free 3D scanners — Spatial Capture tool uses Gaussian Splatting to build 3D models with 4 free renders a month",
+      "url": "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month",
       "source": "TechRadar",
+      "published_iso": "2026-10-02T16:34:13Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb-2000-80.jpg",
+      "excerpt": "Insta360 has launched Spatial Capture, a free feature that uses 3D Gaussian Splatting to turn short 360 videos into explorable 3D models of indoor spaces.",
       "category": "gadgets",
-      "title": "Your phone could soon translate African languages without internet access",
-      "published_iso": "2026-09-23T22:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/A5ZrYAQqb4wSUm4tLAHqdb-1920-80.png",
-      "excerpt": "Tether built tiny translation models for phones, and one African version takes on systems far larger than itself"
+      "section": "gadgets"
     },
     {
-      "url": "https://zdnet.co.kr/view/?no=20260928100211",
-      "source": "지디넷코리아",
+      "title": "Sony brings PS5 Pro-style AI upscaling to regular PS5 with new QSSR tech",
+      "url": "https://www.notebookcheck.net/Sony-brings-PS5-Pro-style-AI-upscaling-to-regular-PS5-with-new-QSSR-tech.1413736.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-10-01T19:36:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/New-PS5-Slim-48.png",
+      "excerpt": "Sony is bringing AI-powered upscaling to the standard PS5 with Quick Spectral Super Resolution, or QSSR, a lighter counterpart to the PSSR technology used on PS5 Pro. Marvel’s Wolverine and Ghost of Yōtei are the first games to support it, with Sony planning to make the technology broadly available to PlayStation developers.",
       "category": "gadgets",
-      "title": "모빌린트, LG·두산·대동과 '온디바이스 AI 칩' 공동 개발",
-      "published_iso": "2026-09-28T01:59:03Z",
-      "og_image": "https://image.zdnet.co.kr/2026/09/28/029655a537115e882f4f545f2f7fc761.jpg",
-      "excerpt": "국내 인공지능(AI) 반도체 스타트업 모빌린트가 LG전자, 두산로보틱스, 대동과 손잡고 로봇 및 가전에 탑재될 차세대 온디바이스 AI 반도체 기술 개발에 착수한다.모빌린트는 산업통상자원부가 추진하는 ‘K-온디바이스 AI 반도체 기술개발사업’의 총 4개 주요 과제에 참여한다고 28일..."
+      "section": "gadgets"
+    },
+    {
+      "title": "Xiaomi launches new heat pump washer-dryer with AI wash suggestions",
+      "url": "https://www.notebookcheck.net/Xiaomi-launches-new-heat-pump-washer-dryer-with-AI-wash-suggestions.1410800.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-09-29T09:12:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Mijia-Washing-machine-1.jpg",
+      "excerpt": "Xiaomi has launched its first heat pump washer-dryer in China, a 13kg-wash, 9kg-dry Mijia model with a recommended price of CNY 6,499 (about $970). Xiaomi claims the heat pump uses 73% less electricity than a condenser washer-dryer and dries 49% faster with twin fans, while a large language model recommends programmes from users' descriptions of their clothes.",
+      "category": "gadgets",
+      "section": "gadgets"
+    },
+    {
+      "title": "Apple's cheapest iPad is finally getting Apple Intelligence, leaked code shows",
+      "url": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-09-25T21:23:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
+      "excerpt": "Leaked code reveals that the upcoming iPad 12 will feature notable hardware upgrades designed specifically to support Apple Intelligence. The entry-level tablet is expected to include the A19 chip and 8GB of RAM to meet the strict memory requirements for advanced Siri capabilities.",
+      "category": "gadgets",
+      "section": "gadgets"
     }
   ]
 }

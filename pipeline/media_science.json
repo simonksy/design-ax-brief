@@ -1,7 +1,31 @@
-{"date":"2026-10-02","section":"science","media":[
-{"id":"uclaoptical","type":"image","src":"pipeline/media/uclaoptical.jpg"},
-{"id":"riemannclaude","type":"image","src":"pipeline/media/riemannclaude.jpg"},
-{"id":"stratego","type":"image","src":"pipeline/media/stratego.jpg"},
-{"id":"spaceweather","type":"image","src":"pipeline/media/spaceweather.jpg"},
-{"id":"adaptivemath","type":"image","src":"pipeline/media/adaptivemath.jpg"}
-]}
+{
+  "date": "2026-10-03",
+  "section": "science",
+  "media": [
+    {
+      "id": "mindreading-brain-scan",
+      "type": "image",
+      "src": "pipeline/media/mindreading-brain-scan.jpg"
+    },
+    {
+      "id": "napoleon-cipher-gpt6astra",
+      "type": "image",
+      "src": "pipeline/media/napoleon-cipher-gpt6astra.jpg"
+    },
+    {
+      "id": "lmu-ai-consciousness-study",
+      "type": "image",
+      "src": "pipeline/media/lmu-ai-consciousness-study.jpg"
+    },
+    {
+      "id": "antarctica-moss-geoai",
+      "type": "image",
+      "src": "pipeline/media/antarctica-moss-geoai.jpg"
+    },
+    {
+      "id": "speech-clock-voice-aging",
+      "type": "image",
+      "src": "pipeline/media/speech-clock-voice-aging.jpg"
+    }
+  ]
+}

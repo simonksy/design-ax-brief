@@ -1050,11 +1050,11 @@
         },
         {
           "t": "p",
-          "x": "Runway Labs가 Project Continuum을 소개한다. 실시간 영상 인터페이스를 중심에 둔 새 운영체제 연구 애플리케이션이다."
+          "x": "Introducing Project Continuum by Runway Labs, a new operating system research application built around real-time video interfaces."
         },
         {
           "t": "p",
-          "x": "오늘 컴퓨터와 상호작용하는 네 가지 새 방식인 Portals, Visual Thinking, Responsive Video Interfaces, Interactive Worlds의 초기 모습을 공개한다. Solaris 같은 Interface World Models는 인터페이스가 무엇이 될 수 있는지 새로 그린다."
+          "x": "Today, we're sharing an early look at four new ways of interacting with your computer: Portals, Visual Thinking, Responsive Video Interfaces and Interactive Worlds. Interface World Models, like Solaris, are reimagining what an interface can be."
         }
       ]
     },
@@ -5918,6 +5918,99 @@
         {
           "t": "p",
           "x": "Oxford Metrics CEO Imogen O'Connor said “Vicon can now give customers a unified workflow spanning both body and face. Capturing, analyzing, and animating human performance now runs far more efficiently than before.”"
+        }
+      ]
+    },
+    "movies/curious-refuge-ai-depth-map": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BFsVW1DrLng"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge shares one of its favorite free AI tools for creating depth maps: Depth Anything, which can run locally on a Mac via a downloadable app or online through Fal.ai."
+        },
+        {
+          "t": "p",
+          "x": "A depth map is a grayscale video in which shades represent how close or far objects are from the camera. In the tutorial, footage uploaded to Fal with the VDA Large model rendered a depth map in roughly 60 seconds."
+        },
+        {
+          "t": "p",
+          "x": "The depth map is then used as a motion reference in an AI video tool, alongside a starting image for the look and the original footage, so the generated shot can change style and environment while following the original movement and spatial structure."
+        }
+      ]
+    },
+    "movies/bbc-brittin-ai-doctor-who": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "An AI-generated episode of Doctor Who was “pretty good,” according to BBC Director General Matt Brittin. The former Google EMEA boss said somebody had recently sent him a 50-minute episode of the long-running franchise that was completely AI-generated, and he refused to slam it. “I mean it’s not going to replace humans but we’ll come on to that,” he said."
+        },
+        {
+          "t": "p",
+          "x": "Speaking at the RTS London Convention, Brittin echoed Amazon international boss Kelly Day in backing the power of AI: “Everyone’s [now] got the ability to create content almost at the standard of a Hollywood studio.” Days earlier he said he would allow a programme to be made and presented by AI “within guardrails.”"
+        },
+        {
+          "t": "p",
+          "x": "The talk came amid a £500M ($662M) BBC savings drive leading to hundreds of layoffs, with channel closures, possibly including BBC Three, expected soon."
+        }
+      ]
+    },
+    "movies/curious-refuge-ai-sound-design": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "0yv0r5UyzCY"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge tested whether AI agents can handle sound design, running InVideo's new agent and ChatGPT Astra on footage whose original sound design had been removed, then comparing the results with the human-made versions across two projects."
+        },
+        {
+          "t": "p",
+          "x": "InVideo placed some effects correctly but its execution was rough, with inconsistent leveling and choices that didn't fit the scene. Astra, which built the sound design inside Adobe Premiere Pro, produced the more useful result but still not professional quality. InVideo took about two hours and $4.56; Astra about 1 hour 45 minutes and $5.20."
+        },
+        {
+          "t": "p",
+          "x": "The verdict: the tools are useful for a rough first pass a human can refine, but timing, emotion and creative intent still need a human."
+        }
+      ]
+    },
+    "movies/lightbox-expo-genai-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LightBox Expo, founded in 2018 by Jim Demonakos and Bobby Chiu, returns to the Pasadena Convention Center October 23–25 with more than 200 sessions. Its strict no-generative-AI policy applies not only to panels but also to work sold in Artist Alley."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
+          "cap": "Bobby Chiu, Jim Demonakos at the Annie Awards"
+        },
+        {
+          "t": "p",
+          "x": "Demonakos said the expo has had an AI policy on its exhibit floor and in Artist Alley for four, possibly five, years: “We essentially consider AI work bootleg because you’ve stolen it from someone.” Last year it became attendee-facing. “We think generative AI is theft and it’s not real art.”"
+        },
+        {
+          "t": "p",
+          "x": "Asked about pushback from AI companies, he said there has been none, and artists have generally lauded the stance. Chiu said his own LightBox panel pushes back against AI by showing how to work with less time, fewer people and less money without using any AI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Major studios including Disney, DreamWorks, Paramount, Illumination and Laika return year after year to recruit."
         }
       ]
     }
