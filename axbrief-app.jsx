@@ -723,7 +723,7 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
   useEffect(() => () => clearTimeout(flipTimer.current), []);
   // locked card — a real card (front fields are public) rendered blurred behind a
   // subscribe overlay; it has no `full` in the payload, so it must never flip.
-  // EXCEPT for an entitled Patreon member: they get the normal flip card below,
+  // EXCEPT for an entitled subscriber: they get the normal flip card below,
   // whose back (PremiumFullArticle) lazy-fetches the deep-dive from the Worker.
   if (item.locked && !entitled) {
     return <LockedCard item={item} index={index} total={total} t={t} mobile={mobile} section={section} />;
@@ -1377,7 +1377,7 @@ function insightsLoadScript(src) {
 
 function InsightsView({ t, mobile, entitled }) {
   // 프리미엄 게이트: 비구독자는 노드 1개까지 자유롭게 탐색, 다른 노드를
-  // 선택하려는 순간 Patreon 구독 팝업. (그래프 자체는 모두에게 공개)
+  // 선택하려는 순간 구독 팝업. (그래프 자체는 모두에게 공개)
   const entitledRef = useRef(entitled); entitledRef.current = entitled;
   const freeSelRef = useRef(null);
   const [showSubscribe, setShowSubscribe] = useState(false);
@@ -2127,7 +2127,7 @@ function ThemedPage({ themeKey }) {
   // behind it) renders identically to before — the /api/me fetch 404s there, the
   // r.ok guard keeps it from throwing, and the catch keeps it silent (no console
   // spam beyond the one failed request). Once the Worker is live, a signed-in
-  // Patreon member's /api/me returns {loggedIn:true, entitled:true} and every
+  // subscriber's /api/me returns {loggedIn:true, entitled:true} and every
   // locked card (below) renders unblurred with a lazy-fetched deep-dive instead
   // of the LockedCard subscribe overlay.
   const [auth, setAuth] = useState({ loggedIn: false, entitled: false });
