@@ -141,6 +141,11 @@ if (!document.getElementById('ax-styles')) {
   .ax-check{display:inline-flex;align-items:center;justify-content:center;width:23px;height:23px;
      border-radius:50%;font-size:14px;font-weight:700;line-height:1;color:#fff;
      background:linear-gradient(135deg,#7928ca,#0070f3);}
+  /* 비교표 항목명은 한 줄로 읽혀야 한다. 윈도우에서 Pretendard가 떨어지면 더 넓은
+     시스템 폰트로 대체되면서 "인터랙티브 지식 네트워크로 인사이트 찾기"가 두 줄로
+     꺾였다. 모달을 넉넉히 넓히고 줄바꿈을 막되, 폰 화면에서는 다시 흐르게 둔다. */
+  .ax-pro-row{white-space:nowrap;}
+  @media (max-width:560px){ .ax-pro-row{white-space:normal;} }
   /* 아직 만들지 않은 Pro 혜택 — 체크가 아니라 예고 배지로 표시한다. */
   .ax-soon{display:inline-block;padding:3px 7px;border-radius:999px;font-size:10.5px;font-weight:700;
      line-height:1.2;white-space:nowrap;color:#7928ca;border:1px solid rgba(121,40,202,.4);
@@ -574,8 +579,9 @@ function ProCompareTable({ t }) {
         const last = i === PRO_ROWS.length - 1;
         return (
           <React.Fragment key={row.key}>
-            <div style={{ padding: '12px 18px 12px 16px', fontSize: 14, fontWeight: 600, color: t.hl,
-              lineHeight: 1.35, wordBreak: 'keep-all', borderTop: '1px solid ' + t.rule }}>
+            <div className="ax-pro-row" style={{ padding: '12px 18px 12px 16px', fontSize: 14,
+              fontWeight: 600, color: t.hl, lineHeight: 1.35, wordBreak: 'keep-all',
+              borderTop: '1px solid ' + t.rule }}>
               {tx('pro.row_' + row.key)}
               {row.note && (
                 <div style={{ marginTop: 2, fontSize: 11.5, fontWeight: 500, color: t.mute }}>
@@ -728,7 +734,7 @@ function SubscribeModal({ onClose, t }) {
       padding: '24px 16px', boxSizing: 'border-box', overflowY: 'auto',
       zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
-        padding: 26, width: 480, maxWidth: '92vw', fontFamily: 'Pretendard, system-ui' }}>
+        padding: 26, width: 580, maxWidth: '94vw', fontFamily: 'Pretendard, system-ui' }}>
         <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>{tx('paywall.modal_title')}</p>
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
           {tx('paywall.modal_body')}
