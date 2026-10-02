@@ -1,8 +1,8 @@
 export async function getEntitlement(db, email) {
   const row = await db.prepare(
-    "SELECT status, current_period_end FROM subscribers WHERE email = ?"
+    "SELECT status, current_period_end, created_at, provider FROM subscribers WHERE email = ?"
   ).bind(email).first();
-  if (!row) return { entitled: false, status: null, periodEnd: null };
+  if (!row) return { entitled: false, status: null, periodEnd: null, startedAt: null, provider: null };
   const now = Math.floor(Date.now() / 1000);
   const end = row.current_period_end ?? null;
   // 만료일이 있으면 그 날짜가 유일한 기준이다 — 해지(canceled)는 "갱신 안 함"이지
@@ -10,7 +10,8 @@ export async function getEntitlement(db, email) {
   // 열어둬야 억울한 차단이 없다. 만료일이 NULL인 무기한 권한은 수동 부여(comp)
   // 뿐이므로 active만 인정한다.
   const entitled = end == null ? row.status === "active" : end > now;
-  return { entitled, status: row.status, periodEnd: end };
+  return { entitled, status: row.status, periodEnd: end,
+           startedAt: row.created_at ?? null, provider: row.provider ?? null };
 }
 
 // 권한(entitled)과는 다른 질문: "Paddle 구독 행이 있는가" — 기간은 보지 않는다.

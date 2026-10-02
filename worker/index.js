@@ -253,7 +253,11 @@ export default {
       // hasSubscription은 기간을 보지 않는다 — 갱신이 실패해 권한이 닫힌 구독자에게도
       // "구독 관리"를 계속 보여줘야 한다. 그때가 카드를 고쳐야 하는 순간이다.
       const hasSubscription = await hasPaddleSubscription(env.DB, email);
-      return json({ loggedIn: true, email, entitled: ent.entitled, hasSubscription });
+      // 구독 상태 화면이 쓰는 값들 — 시작일, 유효기간 끝(=다음 결제일), 결제 수단.
+      // 권한 판정과 달리 이건 사람에게 보여주는 정보다.
+      return json({ loggedIn: true, email, entitled: ent.entitled, hasSubscription,
+                    status: ent.status, periodEnd: ent.periodEnd,
+                    startedAt: ent.startedAt, provider: ent.provider });
     }
 
     if (p === "/api/premium/full") {
