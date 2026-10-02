@@ -1006,8 +1006,55 @@ function renderFullBlocks(blocks) {
    for any card that reaches this component (free card or an archive card — locked
    cards never mount this, see FlipCard's `item.locked` gate), so it renders fully,
    with no cutoff, no fade, and no subscribe CTA. ---- */
+/* 전문 글자 크기 — 5단. 긴 글을 읽는 화면이라 사람마다 편한 크기가 다르고,
+   한 번 고르면 다음 카드에서도 그대로여야 한다. localStorage는 이 브라우저의
+   읽기 편의일 뿐이라 막혀 있어도 기본값으로 조용히 떨어진다. */
+const FULL_SIZES = [13, 14.5, 16, 17.5, 19];
+const FULL_SIZE_KEY = 'ax_full_size';
+
+function useFullFontSize() {
+  const [idx, setIdx] = useState(() => {
+    try {
+      const v = parseInt(localStorage.getItem(FULL_SIZE_KEY), 10);
+      if (v >= 0 && v < FULL_SIZES.length) return v;
+    } catch (e) {}
+    return 1;
+  });
+  const set = (next) => {
+    const v = Math.max(0, Math.min(FULL_SIZES.length - 1, next));
+    setIdx(v);
+    try { localStorage.setItem(FULL_SIZE_KEY, String(v)); } catch (e) {}
+  };
+  return [idx, set];
+}
+
+function FontSizeControl({ idx, set, t }) {
+  const btn = (on) => ({
+    width: 28, height: 28, borderRadius: 8, cursor: on ? 'pointer' : 'default',
+    border: '1px solid ' + t.rule, background: t.cardSolid || '#fbf8f3',
+    color: on ? t.hl : t.faint, fontWeight: 700, lineHeight: 1, padding: 0,
+    fontFamily: 'Pretendard, system-ui', display: 'flex', alignItems: 'center', justifyContent: 'center',
+  });
+  return (
+    <div style={{ display: 'flex', alignItems: 'center', gap: 6, flex: '0 0 auto' }}
+      aria-label={tx('reader.text_size')}>
+      <button type="button" onClick={() => set(idx - 1)} disabled={idx === 0}
+        aria-label={tx('reader.smaller')} style={{ ...btn(idx > 0), fontSize: 12 }}>A</button>
+      <div aria-hidden style={{ display: 'flex', gap: 3 }}>
+        {FULL_SIZES.map((_, i) => (
+          <span key={i} style={{ width: 5, height: 5, borderRadius: '50%',
+            background: i <= idx ? t.hl : t.rule }} />
+        ))}
+      </div>
+      <button type="button" onClick={() => set(idx + 1)} disabled={idx === FULL_SIZES.length - 1}
+        aria-label={tx('reader.larger')} style={{ ...btn(idx < FULL_SIZES.length - 1), fontSize: 17 }}>A</button>
+    </div>
+  );
+}
+
 function FullArticle({ item, t, section, onClose }) {
   const it = axEnrich(item);
+  const [sizeIdx, setSizeIdx] = useFullFontSize();
   const solid = t.cardSolid || '#fbf8f3';   // opaque base for the floating-close fade
 
   // Defensive: FlipCard only ever mounts FullArticle for hasFull cards (see its own
@@ -1020,16 +1067,20 @@ function FullArticle({ item, t, section, onClose }) {
   return (
     <React.Fragment>
       <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
-        <div style={{ minWidth: 0 }}>
+        <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12 }}>
+        <div style={{ minWidth: 0, flex: 1 }}>
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>
             {it.eyebrow} · {it.tool}<span style={{ color: t.faint }}> · {tx('card.preview_translated')}</span>
           </div>
           {it.untranslated && <UntranslatedNote t={t} style={{ marginBottom: 7 }} />}
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
         </div>
+        <FontSizeControl idx={sizeIdx} set={setSizeIdx} t={t} />
+        </div>
       </div>
       {/* extra bottom padding so the last line clears the floating close pill */}
-      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62, paddingBottom: 92, position: 'relative' }}>
+      <div className="ax-full ax-body" style={{ color: t.body, fontSize: FULL_SIZES[sizeIdx],
+        lineHeight: 1.62, paddingBottom: 92, position: 'relative' }}>
         {renderFullBlocks(blocks)}
         <div style={{ marginTop: 8, paddingTop: 12, borderTop: `1px solid ${t.rule}` }}>
           <SourceLine item={it} t={t} />
@@ -1059,6 +1110,7 @@ function FullArticle({ item, t, section, onClose }) {
 function PremiumFullArticle({ item, t, section, onClose }) {
   const it = axEnrich(item);
   const solid = t.cardSolid || '#fbf8f3';
+  const [sizeIdx, setSizeIdx] = useFullFontSize();
   const [state, setState] = useState({ status: 'loading', blocks: null, lang: null });
   const want = window.AX_LANG || 'ko';
   useEffect(() => {
@@ -1073,14 +1125,18 @@ function PremiumFullArticle({ item, t, section, onClose }) {
   return (
     <React.Fragment>
       <div style={{ flex: '0 0 auto', padding: '20px 26px 12px', borderBottom: `1px solid ${t.rule}` }}>
-        <div style={{ minWidth: 0 }}>
+        <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12 }}>
+        <div style={{ minWidth: 0, flex: 1 }}>
           <div className="ax-eyebrow" style={{ color: t.faint, marginBottom: 7 }}>{it.eyebrow} · {it.tool}</div>
           {(it.untranslated || (state.status === 'ready' && state.lang && state.lang !== want)) &&
             <UntranslatedNote t={t} style={{ marginBottom: 7 }} />}
           <h2 className="ax-hl" style={{ fontSize: 20, lineHeight: 1.22, color: t.hl, margin: 0 }}>{it.headline}</h2>
         </div>
+        <FontSizeControl idx={sizeIdx} set={setSizeIdx} t={t} />
+        </div>
       </div>
-      <div className="ax-full ax-body" style={{ color: t.body, fontSize: 14.5, lineHeight: 1.62, paddingBottom: 92, position: 'relative' }}>
+      <div className="ax-full ax-body" style={{ color: t.body, fontSize: FULL_SIZES[sizeIdx],
+        lineHeight: 1.62, paddingBottom: 92, position: 'relative' }}>
         {state.status === 'loading' && <p style={{ color: t.faint }}>{tx('common.loading')}</p>}
         {state.status === 'error' && <p style={{ color: t.faint }}>{tx('common.retry_later')}</p>}
         {state.status === 'ready' && (
@@ -1222,6 +1278,17 @@ function NavButton({ dir, disabled, onClick, t }) {
    ============================================================ */
 function Carousel({ items, t, initialIndex = 0, mobile, section, entitled }) {
   const [idx, setIdx] = useState(initialIndex);
+  // 잠긴 카드로 넘어오면 구독 창을 한 번 띄운다. 한 번인 게 중요하다 — 닫을 때마다
+  // 다시 뜨면 넘길 때마다 가로막는 꼴이라, 설득이 아니라 방해가 된다. 그래서
+  // 이 페이지를 연 동안 딱 한 번만 띄우고, 그 뒤로는 카드를 눌러야 열린다.
+  const autoShown = useRef(false);
+  useEffect(() => {
+    if (autoShown.current || entitled) return;
+    const it = items[idx];
+    if (!it || !it.locked) return;
+    autoShown.current = true;
+    window.dispatchEvent(new CustomEvent('ax:subscribe'));
+  }, [idx, items, entitled]);
   const idxRef = useRef(initialIndex);
   const trackRef = useRef(null);
   const startX = useRef(0); const startY = useRef(0); const dx = useRef(0);
