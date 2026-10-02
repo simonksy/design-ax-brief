@@ -53,11 +53,13 @@ for lang in ("ko", "en", "ja", "zh", "es"):
 
 # 9) 새 문구 키도 5개 언어에 모두 있다
 need2 = ["paywall.email_label", "paywall.send_link", "paywall.link_sent", "paywall.manage",
-         "paywall.manage_no_subscription", "paywall.manage_unavailable", "paywall.send_link_failed"]
+         "paywall.manage_no_subscription", "paywall.manage_unavailable", "paywall.send_link_failed",
+         "paywall.first_charge"]
 for lang in ("ko", "en", "ja", "zh", "es"):
     d = json.load(open(os.path.join(ROOT, "i18n", f"{lang}.json"), encoding="utf-8"))
     missing = [k for k in need2 if k not in d]
     assert not missing, f"{lang}.json missing {missing}"
+    assert "{date}" in d["paywall.first_charge"], f"{lang}.json paywall.first_charge has no {{date}} placeholder"
 
 # 10) 헤더 Pro 버튼 + 혜택 비교표 문구 키도 5개 언어에 모두 있다
 need3 = ["pro.cta", "pro.cta_short", "pro.col_free", "pro.col_pro",

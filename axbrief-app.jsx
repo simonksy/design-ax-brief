@@ -131,6 +131,30 @@ if (!document.getElementById('ax-styles')) {
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}
     .ax-tabs::-webkit-scrollbar{display:none;}
   }
+  /* ---- Pro 비교표 + 요금제 버튼 (SubscribeModal). 색·모션은 Pro 열과 할인
+     스티커에만 쓴다 — 나머지 모달은 사이트의 절제된 톤을 그대로 유지한다. */
+  .ax-pro-col{background:linear-gradient(135deg,rgba(121,40,202,.12),rgba(0,112,243,.12));
+     background-size:220% 220%;background-position:0% 50%;}
+  .ax-pro-badge{display:inline-block;padding:3px 11px;border-radius:999px;font-size:11.5px;
+     font-weight:700;color:#fff;letter-spacing:.02em;
+     background:linear-gradient(135deg,#7928ca,#0070f3);background-size:180% 180%;}
+  .ax-check{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;
+     border-radius:50%;font-size:11px;line-height:1;color:#fff;
+     background:linear-gradient(135deg,#7928ca,#0070f3);}
+  .ax-plan-btn{position:relative;display:block;width:100%;box-sizing:border-box;text-align:left;
+     cursor:pointer;border:none;border-radius:12px;font-family:Pretendard,system-ui;
+     transition:transform .15s ease;}
+  .ax-plan-btn:active{transform:scale(.98);}
+  .ax-sticker{position:absolute;top:-10px;right:-6px;display:inline-block;padding:3px 9px;
+     border-radius:999px;font-size:11px;font-weight:700;color:#fff;transform:rotate(-8deg);
+     background:linear-gradient(135deg,#ff5a4d,#7928ca);box-shadow:0 4px 12px -4px rgba(121,40,202,.6);}
+  @media (prefers-reduced-motion: no-preference){
+    .ax-pro-col{animation:axprodrift 9s ease-in-out infinite alternate;}
+    .ax-pro-badge{animation:axprodrift 9s ease-in-out infinite alternate;}
+    .ax-sticker{animation:axstickerpulse 2s ease-in-out infinite;}
+  }
+  @keyframes axprodrift{0%{background-position:0% 50%}100%{background-position:100% 50%}}
+  @keyframes axstickerpulse{0%,100%{transform:rotate(-8deg) scale(1)}50%{transform:rotate(-8deg) scale(1.06)}}
   /* ---- card flip: front summary <-> back full translated article ---- */
   /* perspective + preserve-3d are applied INLINE only while flipping/flipped (see
      FlipCard) so a resting card has no 3D compositing layer — a 3D layer is what was
@@ -463,42 +487,79 @@ const PRO_ROWS = [
   { key: 'langs',   free: true,   pro: true },
 ];
 
-/* 비교표 한 셀 — true면 체크, false면 흐린 가로줄, 문자열이면 그 문자열. */
+/* 비교표 한 셀 — true면 체크(Pro 열은 강조색 원 안의 흰 체크), false면 흐린 가로줄,
+   문자열이면 그 문자열(Pro 열은 더 크고 굵게 — 숫자 대비가 가장 직관적이다). */
 function ProCell({ v, t, strong }) {
-  if (v === true) return <span style={{ color: strong ? t.hl : t.body }}>✓</span>;
+  if (v === true) {
+    return strong
+      ? <span className="ax-check" aria-hidden>✓</span>
+      : <span style={{ color: t.body }}>✓</span>;
+  }
   if (v === false) return <span style={{ color: t.faint }}>—</span>;
-  return <span style={{ color: strong ? t.hl : t.body, fontWeight: strong ? 600 : 400 }}>{v}</span>;
+  return (
+    <span style={{ color: strong ? t.hl : t.body, fontWeight: strong ? 700 : 400,
+      fontSize: strong ? 15 : 12.5 }}>{v}</span>
+  );
 }
 
-/* 무료/Pro 혜택 비교표 — SubscribeModal의 choose 화면, 요금제 버튼 위에 뜬다. */
+/* 무료/Pro 혜택 비교표 — SubscribeModal의 choose 화면, 요금제 버튼 위에 뜬다.
+   Pro 열만 그라데이션 테두리로 띄워 담백한 무료 열과 대비시킨다. */
 function ProCompareTable({ t }) {
+  const proBorder = '1px solid rgba(121,40,202,.38)';
   return (
     <div style={{ marginBottom: 14, borderRadius: 10, overflow: 'hidden', border: '1px solid ' + t.rule,
-      display: 'grid', gridTemplateColumns: '1fr 52px 52px', fontFamily: 'Pretendard, system-ui' }}>
+      display: 'grid', gridTemplateColumns: '1fr 52px 58px', fontFamily: 'Pretendard, system-ui' }}>
       <div />
       <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 11.5, fontWeight: 600, color: t.mute }}>
         {tx('pro.col_free')}
       </div>
-      <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 11.5, fontWeight: 600, color: t.hl,
-        background: 'rgba(0,0,0,.035)' }}>
-        {tx('pro.col_pro')}
+      <div className="ax-pro-col" style={{ padding: '7px 4px 6px', textAlign: 'center',
+        border: proBorder, borderBottom: 'none', borderRadius: '9px 9px 0 0' }}>
+        <span className="ax-pro-badge">{tx('pro.col_pro')}</span>
       </div>
-      {PRO_ROWS.map((row) => (
-        <React.Fragment key={row.key}>
-          <div style={{ padding: '6px 10px 6px 0', fontSize: 12.5, color: t.body, borderTop: '1px solid ' + t.rule }}>
-            {tx('pro.row_' + row.key)}
-          </div>
-          <div style={{ padding: '6px 4px', textAlign: 'center', fontSize: 12.5, borderTop: '1px solid ' + t.rule }}>
-            <ProCell v={row.free} t={t} />
-          </div>
-          <div style={{ padding: '6px 4px', textAlign: 'center', fontSize: 12.5, borderTop: '1px solid ' + t.rule,
-            background: 'rgba(0,0,0,.035)' }}>
-            <ProCell v={row.pro} t={t} strong />
-          </div>
-        </React.Fragment>
-      ))}
+      {PRO_ROWS.map((row, i) => {
+        const last = i === PRO_ROWS.length - 1;
+        return (
+          <React.Fragment key={row.key}>
+            <div style={{ padding: '7px 10px 7px 0', fontSize: 13, fontWeight: 500, color: t.body,
+              borderTop: '1px solid ' + t.rule }}>
+              {tx('pro.row_' + row.key)}
+            </div>
+            <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 12.5, borderTop: '1px solid ' + t.rule }}>
+              <ProCell v={row.free} t={t} />
+            </div>
+            <div className="ax-pro-col" style={{ padding: '7px 4px', textAlign: 'center',
+              borderLeft: proBorder, borderRight: proBorder,
+              borderBottom: last ? proBorder : 'none', borderRadius: last ? '0 0 9px 9px' : 0 }}>
+              <ProCell v={row.pro} t={t} strong />
+            </div>
+          </React.Fragment>
+        );
+      })}
     </div>
   );
+}
+
+/* 첫 결제일 — 첫 달 무료이므로 오늘 + 1개월. setMonth는 말일을 넘기면(1/31 → 3/3)
+   엉뚱한 달로 넘어가므로, 목표 월의 마지막 날을 넘으면 그 달 말일로 고정한다.
+   주의: 이 날짜는 Paddle 가격에 "1개월 무료 체험"이 설정돼 있다는 전제에서만 맞다.
+   그 설정이 바뀌면 이 계산도 함께 바꿔야 한다 — 그러지 않으면 사용자에게 거짓
+   결제일을 보여주게 된다. */
+function firstChargeDate() {
+  const d = new Date();
+  const day = d.getDate();
+  d.setDate(1);
+  d.setMonth(d.getMonth() + 1);
+  const lastDay = new Date(d.getFullYear(), d.getMonth() + 1, 0).getDate();
+  d.setDate(Math.min(day, lastDay));
+  return d;
+}
+function firstChargeLabel() {
+  try {
+    const dateStr = new Intl.DateTimeFormat(window.AX_LANG_TAG,
+      { year: 'numeric', month: 'long', day: 'numeric' }).format(firstChargeDate());
+    return tx('paywall.first_charge', { date: dateStr });
+  } catch { return ''; }
 }
 
 /* NOTE: rendered via createPortal to document.body — the carousel slides are CSS-
@@ -572,13 +633,22 @@ function SubscribeModal({ onClose, t }) {
     }
   };
 
-  const Plan = ({ plan, price, badge }) => (
-    <button onClick={() => start(plan)} style={{ display: 'block', width: '100%', textAlign: 'left',
-      padding: '13px 15px', marginBottom: 8, borderRadius: 12, cursor: 'pointer',
-      border: '1px solid ' + t.rule, background: 'transparent', fontFamily: 'Pretendard, system-ui' }}>
-      <span style={{ fontSize: 15, fontWeight: 600, color: t.hl }}>{price}</span>
-      {badge && <span style={{ marginLeft: 8, fontSize: 12, color: t.hl }}>{badge}</span>}
-      <span style={{ display: 'block', marginTop: 3, fontSize: 12, color: t.mute }}>{tx('paywall.trial')}</span>
+  /* 두 버튼 모두 색이 채워진 형태. 연간이 기본 추천이라 그라데이션으로 더 강하게 띄우고,
+     우상단에 "-17%" 스티커(아리아 레이블은 현지화된 문구)를 얹는다. */
+  const Plan = ({ plan, price, discount, highlight }) => (
+    <button onClick={() => start(plan)} className="ax-plan-btn" style={{
+      padding: '14px 16px', marginBottom: 8,
+      background: highlight ? 'linear-gradient(135deg,#7928ca,#0070f3)' : t.hl,
+      boxShadow: highlight ? '0 10px 26px -10px rgba(121,40,202,.55)' : '0 6px 16px -8px rgba(40,30,20,.4)',
+    }}>
+      {discount && <span className="ax-sticker" aria-label={discount}>-17%</span>}
+      <span style={{ display: 'block', fontSize: 16, fontWeight: 700, color: '#fff' }}>{price}</span>
+      <span style={{ display: 'block', marginTop: 4, fontSize: 12, color: 'rgba(255,255,255,.85)' }}>
+        {tx('paywall.trial')}
+      </span>
+      <span style={{ display: 'block', marginTop: 2, fontSize: 11.5, color: 'rgba(255,255,255,.72)' }}>
+        {firstChargeLabel()}
+      </span>
     </button>
   );
 
@@ -606,7 +676,8 @@ function SubscribeModal({ onClose, t }) {
             ) : (
               <React.Fragment>
                 <Plan plan="monthly" price={planPrice('monthly')} />
-                <Plan plan="yearly" price={planPrice('yearly')} badge={tx('paywall.plan_yearly_note')} />
+                <Plan plan="yearly" price={planPrice('yearly')} highlight
+                  discount={tx('paywall.plan_yearly_note')} />
               </React.Fragment>
             )}
           </React.Fragment>
