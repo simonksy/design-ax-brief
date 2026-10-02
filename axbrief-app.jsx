@@ -124,8 +124,10 @@ if (!document.getElementById('ax-styles')) {
      max-width:none!important;box-shadow:none!important;}
   /* ---- section tabs (Design / Music / Movies / Games / Books) ---- */
   .ax-tabs{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin:0 auto 16px;padding:0 12px;}
-  .ax-tab{font-family:var(--font-mono);font-size:12px;letter-spacing:.04em;font-weight:600;cursor:pointer;
-     padding:7px 15px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
+  /* 탭 글자는 UI의 길잡이다 — 모노스페이스 12px/600은 윈도우에서 가늘고 희미했다.
+     13.5px/700으로 키우고 자간을 좁혀 덩어리로 읽히게 한다. */
+  .ax-tab{font-family:var(--font-mono);font-size:13.5px;letter-spacing:.02em;font-weight:700;cursor:pointer;
+     padding:8px 17px;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
   .ax-tab:active{transform:scale(.95);}
   @media (max-width:760px){
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}

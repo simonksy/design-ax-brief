@@ -32,8 +32,8 @@
     var css = document.createElement("style");
     css.textContent =
       "#ax-globe{position:absolute;top:14px;right:14px;z-index:200;display:flex;align-items:center;" +
-      "justify-content:center;width:34px;height:34px;border-radius:50%;border:1px solid rgba(23,23,23,.14);" +
-      "background:rgba(255,255,255,.72);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);" +
+      "justify-content:center;width:36px;height:36px;border-radius:50%;border:1px solid rgba(23,23,23,.22);" +
+      "background:#fdfbf7;" +
       "color:#4a4540;" +
       "box-shadow:0 4px 14px -8px rgba(40,30,20,.45);}" +
       "#ax-globe:hover{border-color:rgba(23,23,23,.35);}" +
@@ -45,11 +45,11 @@
       // 같은 옷을 입고 있으면 아무도 누르지 않는다 — 그라데이션으로 칠하고, 천천히
       // 흐르게 두고, 가끔 빛이 한 번 쓸고 지나가게 한다.
       "#ax-pro{position:absolute;top:14px;right:56px;z-index:200;display:flex;align-items:center;" +
-      "justify-content:center;height:34px;padding:0 15px;border-radius:17px;border:none;overflow:hidden;" +
+      "justify-content:center;height:36px;padding:0 16px;border-radius:18px;border:none;overflow:hidden;" +
       "background:linear-gradient(110deg,#7928ca,#0070f3,#eb367f,#7928ca);background-size:300% 100%;" +
       "animation:axprohue 9s linear infinite;" +
-      "color:#fff;cursor:pointer;font-family:ui-monospace,Menlo,monospace;font-size:11px;font-weight:700;" +
-      "letter-spacing:.06em;white-space:nowrap;box-shadow:0 5px 18px -6px rgba(121,40,202,.7);" +
+      "color:#fff;cursor:pointer;font-family:ui-monospace,Menlo,monospace;font-size:12.5px;font-weight:700;" +
+      "letter-spacing:.02em;white-space:nowrap;box-shadow:0 5px 18px -6px rgba(121,40,202,.7);" +
       "transition:transform .15s ease,box-shadow .15s ease;}" +
       "@keyframes axprohue{0%{background-position:0% 50%}100%{background-position:300% 50%}}" +
       // 빛 한 줄이 6초마다 버튼을 쓸고 지나간다 — 시선을 끌되 계속 번쩍이지는 않는다.
@@ -66,11 +66,11 @@
       // 로그인 상태를 알기 전/로그인한 뒤에는 감춘다 — right 값은 Pro 버튼의
       // 실제 너비를 재서 JS가 정한다(문구 길이가 언어마다 다르다).
       "#ax-login{position:absolute;top:14px;z-index:200;display:none;align-items:center;" +
-      "justify-content:center;height:34px;padding:0 13px;border-radius:17px;" +
-      "border:1px solid rgba(23,23,23,.14);background:rgba(255,255,255,.72);" +
-      "-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);color:#4a4540;" +
-      "cursor:pointer;font-family:ui-monospace,Menlo,monospace;font-size:11px;font-weight:600;" +
-      "letter-spacing:.06em;white-space:nowrap;box-shadow:0 4px 14px -8px rgba(40,30,20,.45);}" +
+      "justify-content:center;height:36px;padding:0 15px;border-radius:18px;" +
+      "border:1px solid rgba(23,23,23,.22);background:#fdfbf7;" +
+      "color:#3a352f;" +
+      "cursor:pointer;font-family:ui-monospace,Menlo,monospace;font-size:12.5px;font-weight:700;" +
+      "letter-spacing:.02em;white-space:nowrap;box-shadow:0 4px 14px -8px rgba(40,30,20,.45);}" +
       "#ax-login.on{display:flex;}" +
       "#ax-login:hover{border-color:rgba(23,23,23,.35);}" +
       "#ax-login:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
