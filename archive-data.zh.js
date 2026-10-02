@@ -9282,9 +9282,9 @@
   "date": "2026-09-14",
   "section": "music",
   "has_full": true,
-  "headline": "Denon Prime 4 G2\nMPC 패드와 스템 분리를 품다",
-  "body": "Prime 4 G2는 MPC의 멀티터치 패드와 기기 내장 스템 분리를 함께 갖췄다.",
-  "lang": "ko",
+  "headline": "Denon Prime 4 G2 Adds MPC\nPads and Stem Separation",
+  "body": "The Prime 4 G2 combines MPC's multitouch pads with onboard stem separation.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9298,10 +9298,9 @@
   "date": "2026-09-14",
   "section": "music",
   "has_full": true,
-  "headline": "Apple Audio Intelligence\nShazam 음악 인식을 품다",
-  "body": "Apple이 Audio Intelligence에 Shazam 음악 인식을 함께 넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Apple新功能\n融合Shazam识别",
+  "body": "Apple将Shazam的音乐识别功能整合进了Audio Intelligence。",
+  "lang": "zh"
  },
  {
   "id": "movies-vicon-captive",
@@ -9314,10 +9313,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "Vicon, 페이셜 캡처 업체\nCaptive Devices 인수",
-  "body": "옥스퍼드 메트릭스 산하 모션 캡처 사업부가 CoreHMC 헤드 리그 제작사를 사들였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Vicon收购面部\n捕捉公司",
+  "body": "Vicon收购了CoreHMC头戴装置制造商Captive Devices。",
+  "lang": "zh"
  },
  {
   "id": "movies-val-kilmer-ai",
@@ -9330,10 +9328,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "AI로 되살린 Val Kilmer\nTIFF 마켓에 오르다",
-  "body": "유족 동의와 SAG-AFTRA 규정, 유산 보상을 거친 AI 재현이 마켓에 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI复活Val Kilmer\n登上TIFF市场",
+  "body": "经家属同意、遵守SAG-AFTRA规定并支付遗产补偿的AI重现登上了市场。",
+  "lang": "zh"
  },
  {
   "id": "movies-tony-keith",
@@ -9346,10 +9343,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "벤토박스 창업자가 손그림과 AI를\n섞어 만든 코미디 파일럿",
-  "body": "Joel Kuwahara와 Mark Evestaff가 손그림에 AI를 섞은 파일럿 티저를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "本托盒创始人\n手绘融合AI",
+  "body": "Joel Kuwahara和Mark Evestaff公开了融合手绘与AI的试播集预告。",
+  "lang": "zh"
  },
  {
   "id": "movies-kling-tiff-panel",
@@ -9362,10 +9358,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "Kling AI, TIFF 마켓에서\nAI 영상의 한계를 짚다",
-  "body": "TIFF 마켓 패널에서 일관성 있는 시네마틱 AI 영상 제작이 화두로 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Kling AI在TIFF\n市场指出AI局限",
+  "body": "TIFF市场的一场论坛，将制作风格稳定的电影感AI视频列为话题。",
+  "lang": "zh"
  },
  {
   "id": "movies-gyllenhaal-flesh",
@@ -9378,10 +9373,9 @@
   "date": "2026-09-14",
   "section": "movies",
   "has_full": true,
-  "headline": "Maggie Gyllenhaal이 밝힌\nAI 실험이 무너진 지점",
-  "body": "베네치아 심사위원장이 단편 Flesh Impact에서 시도한 AI 실험의 실패를 털어놓는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gyllenhaal透露\nAI实验崩溃点",
+  "body": "威尼斯评审团主席讲述了短片Flesh Impact中AI实验失败的经过。",
+  "lang": "zh"
  },
  {
   "id": "games-witcher4-ai",
@@ -9394,10 +9388,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "복잡한 게임은 AI로 안 된다\nThe Witcher 4는 사람이 만든다",
-  "body": "CD Projekt 공동대표는 AI를 보조 도구로만 쓰겠다고 선을 그었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "The Witcher 4\n靠人工打造，非AI",
+  "body": "CD Projekt联合总裁表示，AI只会被当作辅助工具使用。",
+  "lang": "zh"
  },
  {
   "id": "games-tagforce-ai-loc",
@@ -9410,9 +9403,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "Yu-Gi-Oh Tag Force GX,\nAI로 번역하고 사람이 검수했다",
-  "body": "AI 번역에 사람 검수를 붙인 현지화가 공개되자 이용자 반발이 이어졌다.",
-  "lang": "ko",
+  "headline": "Yu-Gi-Oh Tag Force GX,\nAI Translated, Human-Edited",
+  "body": "The reveal that localization paired AI translation with human review drew user backlash.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9426,9 +9419,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "Saber의 Tim Willits\n\"제작에는 생성형 AI를 쓰지 않는다\"",
-  "body": "Tim Willits는 Saber가 제작 파이프라인에 생성형 AI를 쓰지 않는다고 못 박는다.",
-  "lang": "ko",
+  "headline": "Saber's Tim Willits\n\"We Don't Use Generative AI\"",
+  "body": "Tim Willits states plainly that Saber does not use generative AI in its production pipeline.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9442,10 +9435,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "Zelda 아트 디렉터가 AI로 만든\n프로토타입에 반발이 쏟아졌다",
-  "body": "Takaya Imamura는 AI 프로토타입 공개 뒤 비난에 놀랐다고 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Zelda美术总监用AI\n做的原型遭猛烈抵制",
+  "body": "Takaya Imamura说，AI原型公开后遭到的批评让他感到意外。",
+  "lang": "zh"
  },
  {
   "id": "games-fable-npc",
@@ -9458,10 +9450,9 @@
   "date": "2026-09-14",
   "section": "games",
   "has_full": true,
-  "headline": "Fable의 NPC 1,000명은\n랜덤 생성이 아니라 수작업이다",
-  "body": "Playground는 랜덤 생성 툴을 버리고 NPC 1,000명을 손으로 만들었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Fable的1000个NPC\n不是随机生成而是手工制作",
+  "body": "Playground放弃随机生成工具，手工制作了1000个NPC。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-unitree-robot-dog",
@@ -9474,9 +9465,9 @@
   "date": "2026-09-14",
   "section": "gadgets",
   "has_full": true,
-  "headline": "4,000달러짜리 중국산 로봇 개\n집에 들여 직접 써봤다",
-  "body": "4,000달러를 주고 산 유니트리 로봇 개가 소비자용 로봇의 현주소를 보여준다.",
-  "lang": "ko",
+  "headline": "A $4,000 Chinese Robot Dog\nI Brought It Home and Tried It",
+  "body": "The $4,000 Unitree robot dog I bought shows where consumer robotics stands today.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9538,10 +9529,9 @@
   "date": "2026-09-14",
   "section": "gadgets",
   "has_full": true,
-  "headline": "가드레일을 걷어낸 AI가\n내 집 기기를 털었다",
-  "body": "안전장치를 제거한 오픈소스 모델이 집안 기기의 취약점을 찾아내고 해법까지 알려줬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "卸下护栏的AI\n黑了我家设备",
+  "body": "去掉安全限制的开源模型不仅找出了家中设备的漏洞，还给出了解决办法。",
+  "lang": "zh"
  },
  {
   "id": "design-ux-roi-case",
@@ -9554,10 +9544,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "UX 성과를 경영진의 언어로\n바꿔 예산을 따내는 법",
-  "body": "디자인 작업을 경영진이 투자하는 재무 언어로 옮기는 과정을 예시로 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "把UX成果译成\n高层语言拿预算",
+  "body": "用一个案例示范如何把设计工作译成高管投资决策所用的财务语言。",
+  "lang": "zh"
  },
  {
   "id": "design-steamvr-update",
@@ -9570,9 +9559,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "밸브, Steam Frame 앞두고\nSteamVR 대시보드를 다시 짰다",
-  "body": "SteamVR 2.17이 대시보드 UI와 퀵 액세스, 배터리 표시를 새로 손봤다.",
-  "lang": "ko",
+  "headline": "Valve rebuilds SteamVR\ndashboard ahead of Steam Frame",
+  "body": "SteamVR 2.17 overhauls the dashboard UI, quick access, and battery display.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9586,10 +9575,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "브랜드 아키타입이 카피에서 막힐 때\n상상 속 화자를 먼저 세운다",
-  "body": "추상적인 아키타입을 상상 속 화자로 바꾸면 AI 도구도 따라 쓸 목소리가 생긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "品牌原型卡文案\n先立想象中说话人",
+  "body": "把抽象原型换成想象中的说话人，AI工具也能跟着写出声音。",
+  "lang": "zh"
  },
  {
   "id": "design-cg-roundup-0913",
@@ -9602,10 +9590,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "이번 주 놓치기 쉬운\nCG 소프트웨어 릴리스 정리",
-  "body": "실시간 라이팅과 GPU 렌더러, 마야 리깅 업데이트에 AI 생성 도구 두 건이 끼었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "本周容易错过的\nCG软件更新汇总",
+  "body": "实时光照、GPU渲染器和Maya绑定更新中，混入了两款AI生成工具。",
+  "lang": "zh"
  },
  {
   "id": "design-blender-hair-rig",
@@ -9618,10 +9605,9 @@
   "date": "2026-09-14",
   "section": "design",
   "has_full": true,
-  "headline": "머리카락 끝점만 찍으면\n본 체인을 만들어주는 블렌더 애드온",
-  "body": "선택한 머리카락 끝에서 디폼 본 체인을 생성해 리깅 시간을 줄여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "只需标出发尾点\n插件自动生成骨链",
+  "body": "它会从选定的发尾自动生成变形骨骼链，从而缩短绑定所需的时间。",
+  "lang": "zh"
  },
  {
   "id": "books-veristage-insight",
@@ -9634,10 +9620,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "사람이 전화를 받는 AI 회사\n한 달 5만 권이 지나간다",
-  "body": "Insight를 거쳐 가는 물량이 한 달 5만 권 분량을 넘어섰다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "人工接电话的AI公司\n月流转5万册",
+  "body": "该公司表示，经Insight处理的图书量已超过每月5万册。",
+  "lang": "zh"
  },
  {
   "id": "books-springer-framework",
@@ -9650,10 +9635,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "Springer Nature가\nAI 활용 프레임워크를 공개했다",
-  "body": "연구자와 심사자, 편집자가 AI 사용을 판단하도록 편집 정책을 고쳤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "出版商发布AI使用\n新框架供编辑判断",
+  "body": "Springer Nature修订编辑政策，让研究者、审稿人和编辑判断AI使用。",
+  "lang": "zh"
  },
  {
   "id": "books-scheffler-illustrators",
@@ -9666,10 +9650,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "생성형 AI는 삽화가 생계를 위협한다\n정부가 지금 나서야 한다",
-  "body": "Axel Scheffler가 생성형 AI를 삽화가에게 실재하는 위협이라고 못 박았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "生成式AI威胁插画师\n政府须立即行动",
+  "body": "Axel Scheffler断言，生成式AI是插画师面临的真实威胁。",
+  "lang": "zh"
  },
  {
   "id": "books-guild-openai-sj",
@@ -9682,10 +9665,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "작가조합과 OpenAI가\n동시에 약식판결을 청구했다",
-  "body": "작가조합 측과 OpenAI·Microsoft가 공정이용을 두고 약식판결을 청구했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "作家公会与OpenAI\n同时申请简易判决",
+  "body": "作家公会与OpenAI、Microsoft就合理使用申请简易判决。",
+  "lang": "zh"
  },
  {
   "id": "books-fake-citations",
@@ -9698,9 +9680,9 @@
   "date": "2026-09-14",
   "section": "books",
   "has_full": true,
-  "headline": "ChatGPT가 지어낸 증인들\n법원은 변호사를 제재했다",
-  "body": "존재하지 않는 증인의 진술을 ChatGPT로 인용한 변호사가 제재를 받았다.",
-  "lang": "ko",
+  "headline": "Witnesses ChatGPT invented\nA court sanctioned the lawyer",
+  "body": "A lawyer who cited statements from witnesses that don't exist, generated by ChatGPT, was sanctioned.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9714,10 +9696,9 @@
   "date": "2026-09-13",
   "section": "science",
   "has_full": true,
-  "headline": "병리학자의 시선 이동을 학습한 AI\n림프절 암 슬라이드를 100% 잡아냈다",
-  "body": "양성으로 지목한 슬라이드의 15.5%는 음성이었지만, 암은 하나도 놓치지 않았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "学习病理医视线移动的AI\n淋巴结癌切片100%命中",
+  "body": "被判定为阳性的切片中有15.5%实际为阴性，但没有漏掉任何一例癌症。",
+  "lang": "zh"
  },
  {
   "id": "science-odin-multi-v9t",
@@ -9730,10 +9711,9 @@
   "date": "2026-09-13",
   "section": "science",
   "has_full": true,
-  "headline": "무엇에 붙지 않을지부터 설계하는\n단백질 바인더 Odin-Multi",
-  "body": "표적엔 끌어당기는 목표, 비표적엔 밀어내는 목표를 걸어 서열 하나를 다듬는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "先设计不结合\n谁的Odin-Multi",
+  "body": "为靶点设定吸引目标,为非靶点设定排斥目标,优化同一序列。",
+  "lang": "zh"
  },
  {
   "id": "science-llm-confidence-m2r",
@@ -9746,10 +9726,9 @@
   "date": "2026-09-13",
   "section": "science",
   "has_full": true,
-  "headline": "LLM은 내부 확신 신호를 읽고\n답할지 말지를 스스로 정한다",
-  "body": "확신이 문턱 아래면 LLM은 답을 접고, 딥마인드는 이를 메타인지적 통제로 읽는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "LLM读取内部\n信号自定去留",
+  "body": "置信度低于阈值时LLM会放弃回答,DeepMind将其视为元认知控制。",
+  "lang": "zh"
  },
  {
   "id": "science-jwst-exomoon-z7c",
@@ -9762,10 +9741,9 @@
   "date": "2026-09-13",
   "section": "science",
   "has_full": true,
-  "headline": "외계 위성을 찾지 못한 JWST\n그 빈손이 하나의 측정이 된다",
-  "body": "빈손이 0.1 지구반지름 상한선이 됐고, 열쇠는 같은 곳을 여러 번 보는 일이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "JWST未找到\n系外卫星却有收获",
+  "body": "空收获定出0.1地球半径上限,关键在于反复观测同一位置。",
+  "lang": "zh"
  },
  {
   "id": "science-disaster-forecast-p3w",
@@ -9778,9 +9756,9 @@
   "date": "2026-09-13",
   "section": "science",
   "has_full": true,
-  "headline": "NASA 기후 데이터 100페타바이트\n여러 날치 지구 예보를 1분대에",
-  "body": "스위스 연구진은 위성 데이터에 이미 남아 있던 빙하 붕괴의 전조를 읽어내려 한다.",
-  "lang": "ko",
+  "headline": "100 petabytes of NASA climate\ndata, global forecasts in 1 min",
+  "body": "Swiss researchers aim to read glacier-collapse warning signs already hidden in satellite data.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9794,10 +9772,9 @@
   "date": "2026-09-13",
   "section": "music",
   "has_full": true,
-  "headline": "NAM 캡처 수십만 개를 열어주는\nTone3000 무료 오픈소스 플러그인",
-  "body": "커뮤니티가 만든 캡처와 IR을 체인으로 겹쳐 쌓는 기능까지 무료로 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Tone3000开放\n数十万NAM捕获",
+  "body": "社区制作的捕获与IR,如今也能免费进行链式叠加串联使用。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-youtube-r7m",
@@ -9826,10 +9803,9 @@
   "date": "2026-09-13",
   "section": "music",
   "has_full": true,
-  "headline": "느낌을 적으면 톤을 찾아주는 페달\nPositive Grid Spark Pedal",
-  "body": "앰프 모델 33종과 이펙트 43종을 담았고 앱에 문장을 적으면 톤을 추천한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "写下感觉找音色\nSpark Pedal",
+  "body": "内置33种音箱模型与43种效果,在App中输入句子即可推荐音色。",
+  "lang": "zh"
  },
  {
   "id": "music-difro-melody-k4q",
@@ -9842,10 +9818,9 @@
   "date": "2026-09-13",
   "section": "music",
   "has_full": true,
-  "headline": "내 MIDI를 화성부터 다시 짜는\n완전 오프라인 무료 생성기",
-  "body": "클라우드를 안 거치고 로컬 신경망으로 돌며 무료 등급은 한 달 50회까지 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "完全离线免费\n重构MIDI和声",
+  "body": "无需云端,本地神经网络运行,免费版每月最多可生成50次。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-records-v2s",
@@ -9858,10 +9833,9 @@
   "date": "2026-09-13",
   "section": "music",
   "has_full": true,
-  "headline": "분쟁을 가르는 건 AI 표기가 아니라\n남겨둔 기록 다섯 가지",
-  "body": "동의 문서와 원본 파일, 버전 이력, 수익과 이의 제기 내역을 남겨두라고 권한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "区分纠纷的不是\nAI标注而是记录",
+  "body": "建议保留同意文件、原始文件、版本记录以及收益与申诉记录。",
+  "lang": "zh"
  },
  {
   "id": "movies-switchx-two-t5k",
@@ -9874,9 +9848,9 @@
   "date": "2026-09-13",
   "section": "movies",
   "has_full": true,
-  "headline": "비블 스위치X 2.0, 찍어둔 화면 조명을\n네이티브 4K 20초까지 바꾼다",
-  "body": "조명·배경·소품 교체가 네이티브 4K 10비트, 24fps 20초까지 늘었다.",
-  "lang": "ko",
+  "headline": "Beeble SwitchX 2.0 relights\nfootage up to native 4K, 20s",
+  "body": "Lighting, background, and prop swaps now reach native 4K, 10-bit, 24fps clips up to 20 seconds.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -9890,10 +9864,9 @@
   "date": "2026-09-13",
   "section": "movies",
   "has_full": true,
-  "headline": "프라임비디오, 영어 더빙 대사에\n배우 입모양을 AI로 맞춘다",
-  "body": "독일 시리즈 '맥스턴 홀'을 시작으로 영어 더빙판 입 움직임을 AI로 손본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Prime Video用AI\n对齐英语配音口型",
+  "body": "从德剧《Maxton Hall》开始,用AI调整英语配音的口型动作。",
+  "lang": "zh"
  },
  {
   "id": "movies-nicetouch-v2-h8v",
@@ -9906,10 +9879,9 @@
   "date": "2026-09-13",
   "section": "movies",
   "has_full": true,
-  "headline": "나이스 터치 V2, 프리미어와\n리졸브 안에서 쓰는 AI 편집 조수",
-  "body": "대화 300여 건을 거쳐 프리미어·리졸브용 AI 편집 조수를 바닥부터 다시 짰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Nice Touch V2\n重塑AI剪辑助手",
+  "body": "历经300多场对话,为Premiere与Resolve从零重写AI剪辑助手。",
+  "lang": "zh"
  },
  {
   "id": "movies-maxon-fall-ibc-b2r",
@@ -9922,10 +9894,9 @@
   "date": "2026-09-13",
   "section": "movies",
   "has_full": true,
-  "headline": "맥슨, 시네마 4D·지브러시·레드시프트\n10월 업데이트를 부스에서 먼저 보여준다",
-  "body": "3D 월드빌딩과 아이패드 지브러시, 레드자이언트의 AI 리라이팅이 10월에 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Maxon展位抢先\n曝光10月新版",
+  "body": "3D场景构建、iPad版ZBrush与Red Giant的AI重新打光将于10月上线。",
+  "lang": "zh"
  },
  {
   "id": "movies-acoustica-eight-w9n",
@@ -9938,10 +9909,9 @@
   "date": "2026-09-13",
   "section": "movies",
   "has_full": true,
-  "headline": "아콘 어쿠스티카 8, 오디오 복원과\n마스터링을 머신러닝으로 거든다",
-  "body": "현장 엔지니어가 짚은 문제를 겨냥해 편집·복원·마스터링에 AI 도구를 넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Acoustica 8登场\n修复母带靠机器学习",
+  "body": "聚焦现场工程师反馈的问题,在编辑、修复、母带处理中加入AI工具。",
+  "lang": "zh"
  },
  {
   "id": "games-unity-claude-plugin-k7m",
@@ -9954,10 +9924,9 @@
   "date": "2026-09-13",
   "section": "games",
   "has_full": true,
-  "headline": "Unity가 Claude Code에\n공식 플러그인을 내놨다",
-  "body": "명령어 한 줄로 Unity 스킬과 CLI, MCP 에디터 제어가 함께 깔린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Unity推出官方插件\n登陆Claude Code",
+  "body": "一条命令即可安装Unity技能、CLI与MCP编辑器控制。",
+  "lang": "zh"
  },
  {
   "id": "games-runescape-ai-clone-h9p",
@@ -10130,10 +10099,9 @@
   "date": "2026-09-13",
   "section": "design",
   "has_full": true,
-  "headline": "SuperSplat 에디터 3.0,\n수천만 가우시안도 매끄럽게",
-  "body": "수천만 개 가우시안을 매끄럽게 다루면서, 브라우저만으로 스캔 데이터를 손본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "SuperSplat3.0\n千万点依然顺滑",
+  "body": "它能平滑处理数千万个高斯点,仅凭浏览器即可编辑扫描数据。",
+  "lang": "zh"
  },
  {
   "id": "design-morpholio-trace-b7k",
@@ -10146,10 +10114,9 @@
   "date": "2026-09-13",
   "section": "design",
   "has_full": true,
-  "headline": "iPad 스케치 앱 Trace,\n기업용 관리 티어를 내놓다",
-  "body": "SSO와 중앙 라이선스 관리를 붙인 기업용 티어로, IT 부서가 배포를 쥔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "iPad绘图应用Trace\n推出企业管理层级",
+  "body": "该企业层级整合SSO与集中授权管理,部署权限交由IT部门掌控。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-stack-now-j5r",
@@ -10162,10 +10129,9 @@
   "date": "2026-09-13",
   "section": "design",
   "has_full": true,
-  "headline": "현업 디자이너가 지금 쓰는\nAI 도구 스택 그대로",
-  "body": "디자인부터 코딩, 영상 편집, 에이전시 운영까지 쓰는 도구와 그 한계를 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "资深设计师现用\nAI工具栈全揭秘",
+  "body": "文章梳理了从设计、编程、视频剪辑到代理公司运营所用的工具及其局限。",
+  "lang": "zh"
  },
  {
   "id": "design-agent-retry-x2n",
@@ -10178,10 +10144,9 @@
   "date": "2026-09-13",
   "section": "design",
   "has_full": true,
-  "headline": "에이전트 재시도 승인 전에\n중단 근거를 먼저 증명하라",
-  "body": "승인 전에 재시도를 막을 근거부터 카드에 채우게 하는 검토 절차를 제시한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "批准代理重试前\n先证明中止依据",
+  "body": "文章提出一种审查流程,要求先在卡片中写明阻止重试的依据,再予以批准。",
+  "lang": "zh"
  },
  {
   "id": "books-spotify-narration-q7v",
@@ -10193,10 +10158,9 @@
   "date": "2026-09-13",
   "section": "books",
   "has_full": true,
-  "headline": "Spotify AI 오디오북 낭독\n미국 작가 전원에게 개방",
-  "body": "미국 작가는 ElevenLabs 음성 낭독을 비용도 독점 조건도 없이 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "SpotifyAI有声书朗读\n美国作家全面开放",
+  "body": "美国作家可免费使用ElevenLabs语音朗读,且不受独家协议约束。",
+  "lang": "zh"
  },
  {
   "id": "books-pw-ai-reckoning-m3d",
@@ -10209,10 +10173,9 @@
   "date": "2026-09-13",
   "section": "books",
   "has_full": true,
-  "headline": "출판업이 마주한 AI 계산서\n소송과 라이선스가 동시에",
-  "body": "Wiley는 2026 회계연도 AI 라이선스 매출로 4,900만 달러를 올렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "出版业的AI\n诉讼与授权并存",
+  "body": "Wiley在2026财年的AI授权收入达到4,900万美元。",
+  "lang": "zh"
  },
  {
   "id": "books-mcphee-workflow-h6s",
@@ -10241,9 +10204,9 @@
   "date": "2026-09-13",
   "section": "books",
   "has_full": true,
-  "headline": "AI와 함께 쓴 켄 리우의 신작\n그 작업 방법까지 공개",
-  "body": "AI와 함께 썼다고 밝힌 소설에, 작업 방법을 설명한 인터뷰가 나란히 걸렸다.",
-  "lang": "ko",
+  "headline": "Ken Liu's New Story, Written\nwith AI, Comes With the Method",
+  "body": "A story that says it was written with AI runs alongside an interview explaining how it was made.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -10257,10 +10220,9 @@
   "date": "2026-09-13",
   "section": "books",
   "has_full": true,
-  "headline": "Ingram의 AI 도입 15개월\n메타데이터부터 광고 문안까지",
-  "body": "메타데이터와 광고, 마케팅에서 일하는 방식이 달라졌다고 회사는 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Ingram推AI15月\n元数据到广告全覆盖",
+  "body": "公司表示，元数据、广告和营销部门的工作方式都已彻底改变。",
+  "lang": "zh"
  },
  {
   "id": "science-lunar-open-model-k7p",
@@ -10289,10 +10251,9 @@
   "date": "2026-09-12",
   "section": "science",
   "has_full": true,
-  "headline": "양자의 불확실성을 잡음이 아닌\n자원으로 쓰는 설명 가능한 AI",
-  "body": "랭커스터대가 188만 유로 프로젝트로 양자 컴퓨팅과 설명 가능한 AI를 잇는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "量子不确定性\n成资源不是噪音",
+  "body": "兰卡斯特大学用188万欧元项目连接量子计算与可解释AI。",
+  "lang": "zh"
  },
  {
   "id": "science-gpn-star-genome-b8q",
@@ -10321,10 +10282,9 @@
   "date": "2026-09-12",
   "section": "science",
   "has_full": true,
-  "headline": "심전도가 놓친 심근경색을\n잡아내는 AI에 FDA 허가",
-  "body": "표준 판독이 놓치던 폐색성 심근경색을 잡아내는 알고리즘에 FDA가 허가를 내줬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "心电图漏诊心梗\nAI检测获FDA批准",
+  "body": "FDA已批准一款能检测标准判读漏诊的闭塞性心梗的AI算法。",
+  "lang": "zh"
  },
  {
   "id": "science-constitutive-laws-r4d",
@@ -10337,10 +10297,9 @@
   "date": "2026-09-12",
   "section": "science",
   "has_full": true,
-  "headline": "블랙박스 대신 방정식을\n돌려주는 재료 해석 AI",
-  "body": "합금강과 고무가 어떻게 변형되는지를 실험 데이터에서 읽어 방정식으로 써낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "材料解析AI\n不出黑箱出方程式",
+  "body": "它从实验数据中读出合金钢和橡胶的变形方式，并写成方程式。",
+  "lang": "zh"
  },
  {
   "id": "music-umg-elevenlabs-q4t",
@@ -10353,10 +10312,9 @@
   "date": "2026-09-12",
   "section": "music",
   "has_full": true,
-  "headline": "UMG, 일레븐랩스와 손잡고\nAI 리믹스 플랫폼 만든다",
-  "body": "일레븐랩스의 첫 메이저 계약으로, 참여를 택한 아티스트 곡을 팬이 리믹스한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "UMG与ElevenLabs\n共建AI混音平台",
+  "body": "这是ElevenLabs首笔大厂合约，粉丝可混音参与艺人的歌曲。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-v6-h2m",
@@ -10369,10 +10327,9 @@
   "date": "2026-09-12",
   "section": "music",
   "has_full": true,
-  "headline": "수노, 라이선스 음원으로\nAI 모델을 처음부터 다시 짰다",
-  "body": "워너·BMG 카탈로그를 라이선스해 V6를 처음부터 다시 학습시켰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Suno用授权音乐\n重新训练AI模型",
+  "body": "获得华纳与BMG曲库授权后，Suno让V6从零重新开始训练。",
+  "lang": "zh"
  },
  {
   "id": "music-serato-5-b8k",
@@ -10385,10 +10342,9 @@
   "date": "2026-09-12",
   "section": "music",
   "has_full": true,
-  "headline": "세라토 5.0, 비트그리드가\n템포 흔들림을 따라간다",
-  "body": "새 분석 방식이 BPM 흔들림까지 잡아내 비트그리드를 손으로 고칠 일이 줄었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Serato 5.0\n节拍网格可追踪速度波动",
+  "body": "新分析方式连BPM波动都能捕捉，大幅减少手动修正节拍网格。",
+  "lang": "zh"
  },
  {
   "id": "music-audacity-4-r6d",
@@ -10401,10 +10357,9 @@
   "date": "2026-09-12",
   "section": "music",
   "has_full": true,
-  "headline": "오데시티 4, 26년 만에\n인터페이스를 새로 짰다",
-  "body": "26년 만에 UI를 새로 짰지만, GPLv3 무료 오픈소스라는 점은 그대로다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Audacity 4迎来\n26年界面重做",
+  "body": "界面历经26年全新重做，但仍是GPLv3下的免费开源软件。",
+  "lang": "zh"
  },
  {
   "id": "music-acoustica-8-w9j",
@@ -10417,10 +10372,9 @@
   "date": "2026-09-12",
   "section": "music",
   "has_full": true,
-  "headline": "어쿠스티카 8, 오디오 편집기\n안으로 들어온 머신러닝 복원",
-  "body": "디노이즈 3과 디험이 노이즈 프로파일을 읽지 않고도 곧바로 잡음을 걷어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Acoustica 8加入\n机器学习修复功能",
+  "body": "DeNoise 3和DeHum无需读取噪声样本即可即时降噪。",
+  "lang": "zh"
  },
  {
   "id": "movies-sns-evo-ai-t2k",
@@ -10433,9 +10387,9 @@
   "date": "2026-09-12",
   "section": "movies",
   "has_full": true,
-  "headline": "SNS EVO, 전사와 태깅을\n시설 장비 안에서 끝낸다",
-  "body": "전사와 태깅, 검색이 EVO 공유 스토리지 안에서 돌고 아비드 호환도 넓어졌다.",
-  "lang": "ko",
+  "headline": "SNS EVO Finishes Transcription\nand Tagging on Facility Gear",
+  "body": "Transcription, tagging and search now run inside EVO shared storage, and Avid compatibility has widened.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -10449,10 +10403,9 @@
   "date": "2026-09-12",
   "section": "movies",
   "has_full": true,
-  "headline": "크루를 먹여 살리던 세로 드라마 앱에\nAI 영상이 밀려든다",
-  "body": "LA 크루를 먹여 살리던 세로 드라마 앱에 AI 영상이 몰리자 오디션이 말랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "养活剧组的\n竖屏剧App涌入AI",
+  "body": "AI视频涌入曾养活LA剧组的竖屏剧App，试镜随之枯竭。",
+  "lang": "zh"
  },
  {
   "id": "movies-eddie-ai-v4-h3q",
@@ -10481,10 +10434,9 @@
   "date": "2026-09-12",
   "section": "movies",
   "has_full": true,
-  "headline": "델 토로, AI가 지우는 것은\n장인이 되어가는 과정이다",
-  "body": "페일맨과 실물 특수효과를 꺼내, 프롬프트가 건너뛰는 수련의 시간을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "德尔托罗：AI抹去\n的是成为匠人之路",
+  "body": "他以佩尔曼和实拍特效为例，点出提示词悄悄跳过的历练时间。",
+  "lang": "zh"
  },
  {
   "id": "movies-ccai-site-b8j",
@@ -10497,10 +10449,9 @@
   "date": "2026-09-12",
   "section": "movies",
   "has_full": true,
-  "headline": "콴과 고든레빗의 CCAI,\nAI의 영향을 기록하는 사이트를 연다",
-  "body": "AI가 창작 노동에 남긴 영향을 콴과 고든레빗의 연합이 웹에 모아 계속 갱신한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "CCAI上线\n追踪AI影响网站",
+  "body": "Kwan与Gordon-Levitt的联盟将AI对创作劳动的影响整理上网，持续更新。",
+  "lang": "zh"
  },
  {
   "id": "games-mages-juggernaut-r6d",
@@ -10513,10 +10464,9 @@
   "date": "2026-09-12",
   "section": "games",
   "has_full": true,
-  "headline": "'슈타인즈 게이트' 스튜디오가\nAI로 만든 슈터를 공개했다",
-  "body": "슈타인즈 게이트를 만든 메이지스가 AI로 거의 다 만들었다는 저거너트를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "「命运石之门」\n厂商推AI射击游戏",
+  "body": "打造命运石之门的MAGES推出几乎全由AI制作的Juggernaut。",
+  "lang": "zh"
  },
  {
   "id": "games-hoyoverse-voice-w9t",
@@ -10529,10 +10479,9 @@
   "date": "2026-09-12",
   "section": "games",
   "has_full": true,
-  "headline": "원신 캐릭터 목소리 63개를 복제한\nAI 업체에 11만 2천 달러 배상",
-  "body": "법원은 캐릭터 음성 63종을 베낀 AI 업체에 11만 2천 달러를 물렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "克隆原神63个声音\nAI公司赔11.2万美元",
+  "body": "法院判决，仿制63种角色配音的AI公司赔偿11.2万美元。",
+  "lang": "zh"
  },
  {
   "id": "games-bytedance-world-h8x",
@@ -10545,10 +10494,9 @@
   "date": "2026-09-12",
   "section": "games",
   "has_full": true,
-  "headline": "바이트댄스, 구글 지니에 맞설\n실시간 공간 영상 월드 모델",
-  "body": "바이트댄스가 구글 지니에 맞설 실시간 공간 영상 모델을 만든다고 블룸버그가 전했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "字节跳动对标\nGenie空间视频",
+  "body": "据彭博社报道，字节跳动正开发对标Google Genie的实时空间视频模型。",
+  "lang": "zh"
  },
  {
   "id": "games-blizzard-union-q4m",
@@ -10561,10 +10509,9 @@
   "date": "2026-09-12",
   "section": "games",
   "has_full": true,
-  "headline": "블리자드 노조가 AI 사용을\n단체협약에 새겨 넣었다",
-  "body": "노조원 1,900명이 비준한 협약이 AI 도입을 교섭 대상으로 못 박았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Blizzard工会将\nAI使用写入协议",
+  "body": "由1,900名工会会员批准的协议，已将引入AI列为谈判事项。",
+  "lang": "zh"
  },
  {
   "id": "games-abcd-splat-v3n",
@@ -10577,10 +10524,9 @@
   "date": "2026-09-12",
   "section": "games",
   "has_full": true,
-  "headline": "도시 규모 가우시안 스플랫을\nVRAM 한계 없이 학습하는 법",
-  "body": "장면을 블록으로 쪼개도 전체 맥락은 살아 있어 VRAM을 늘리지 않고 학습한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "城市级高斯溅射\n无VRAM限制训练",
+  "body": "把场景拆成区块后仍保留整体上下文，训练时无需增加VRAM。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-project-phoenix-r5t",
@@ -10593,10 +10539,9 @@
   "date": "2026-09-12",
   "section": "gadgets",
   "has_full": true,
-  "headline": "메타 프로젝트 피닉스,\n퀘스트 펌웨어에 드러난 실물",
-  "body": "안경식 코받침을 단 얇은 본체를 컴퓨트 퍽에 선으로 잇는 모습이 처음 잡혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Meta Phoenix项目\n现身Quest固件",
+  "body": "首次曝光：戴眼镜式鼻托的轻薄机身，通过线缆连接计算组件。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-live-rewind-w8m",
@@ -10609,10 +10554,9 @@
   "date": "2026-09-12",
   "section": "gadgets",
   "has_full": true,
-  "headline": "애플 워치 Live Rewind,\n정말 감시 장치가 되는가",
-  "body": "직전 15초 오디오만 워치 안에서 계속 덮어쓰는 구조로 확인됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Live Rewind\n真会变监控设备?",
+  "body": "据查实，Apple Watch只保留最近15秒音频，并在表内持续覆盖。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-iphone18-pro-h3q",
@@ -10625,9 +10569,9 @@
   "date": "2026-09-12",
   "section": "gadgets",
   "has_full": true,
-  "headline": "2nm A20 Pro 얹은\niPhone 18 Pro, 18일 출시",
-  "body": "2nm A20 Pro와 가변 조리개 48MP 카메라를 달고 12일 예약을 연다.",
-  "lang": "ko",
+  "headline": "iPhone 18 Pro Ships Sept. 18\nWith 2nm A20 Pro Chip",
+  "body": "It carries the 2nm A20 Pro chip and a variable-aperture 48MP camera, with preorders opening on the 12th.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -10641,10 +10585,9 @@
   "date": "2026-09-12",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이 데스크톱 앱이\n윈도우로 넘어왔다",
-  "body": "윈도우용 네이티브 앱이 나와 Alt + Space 한 번이면 제미나이가 뜬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gemini桌面应用\n登陆Windows",
+  "body": "Windows原生应用上线，按一次Alt+Space即可唤出Gemini。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-atlas-neural-c9x",
@@ -10657,10 +10600,9 @@
   "date": "2026-09-12",
   "section": "gadgets",
   "has_full": true,
-  "headline": "귀 뒤에 붙는 499달러\n뇌 신호 트래커, 첫 물량 매진",
-  "body": "귀 뒤에 붙여 스트레스와 집중, 에너지를 읽고 첫 물량은 며칠 만에 동났다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "耳后贴的499美元\n脑波追踪器首批售罄",
+  "body": "贴在耳后读取压力、专注与能量状态，首批货几天内便全部售罄。",
+  "lang": "zh"
  },
  {
   "id": "design-voice-ux-patterns-m3s",
@@ -10673,10 +10615,9 @@
   "date": "2026-09-12",
   "section": "design",
   "has_full": true,
-  "headline": "보이스 AI를 설계하는\n여덟 가지 UX 패턴",
-  "body": "보이스 AI UX 패턴 여덟 가지를 에이전트 역할과 한계까지 묶어 정리했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "设计语音AI的\n八种UX模式",
+  "body": "梳理语音AI的八种UX设计模式，涵盖智能体角色与设计局限。",
+  "lang": "zh"
  },
  {
   "id": "design-slack-surfaces-r2v",
@@ -10689,10 +10630,9 @@
   "date": "2026-09-12",
   "section": "design",
   "has_full": true,
-  "headline": "슬랙 대화창 안에서\n프롬프트로 만드는 대시보드",
-  "body": "Surfaces는 채널 안에서 프롬프트만으로 인터랙티브 차트와 미니 앱을 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "在Slack对话框内\n用提示词做看板",
+  "body": "Surfaces仅凭提示词,就能在频道内生成交互图表和迷你应用。",
+  "lang": "zh"
  },
  {
   "id": "design-infinitform-x8d",
@@ -10705,9 +10645,9 @@
   "date": "2026-09-12",
   "section": "design",
   "has_full": true,
-  "headline": "생성형 설계에서 AI를\n엔진이 아닌 조수로 두기",
-  "body": "AI를 설계 엔진이 아니라 조수로 두고 다시 돌려도 같은 제조용 형상을 노린다.",
-  "lang": "ko",
+  "headline": "In generative design, AI\nAs copilot, not the engine",
+  "body": "Treating AI as a copilot rather than the design engine still aims for the same manufacturable shape on rerun.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -10721,10 +10661,9 @@
   "date": "2026-09-12",
   "section": "design",
   "has_full": true,
-  "headline": "디자인 시스템 그대로 뽑아내는\nFigma Make 프로토타입",
-  "body": "Make 킷을 얹으면 Make가 우리 컴포넌트와 변수로 프로토타입을 짠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "原样提取设计系统\nFigma Make做原型",
+  "body": "只需加载Make套件,Make就能用自有组件和变量搭建原型。",
+  "lang": "zh"
  },
  {
   "id": "design-ae-265-assistant-q4m",
@@ -10737,9 +10676,9 @@
   "date": "2026-09-12",
   "section": "design",
   "has_full": true,
-  "headline": "After Effects 26.5 출시\n말로 앱을 모는 AI 어시스턴트",
-  "body": "26.5가 정식 출시됐고 베타에서는 AI 어시스턴트가 자연어로 앱을 몬다.",
-  "lang": "ko",
+  "headline": "After Effects 26.5 ships\nAn AI assistant you talk to",
+  "body": "Version 26.5 has officially shipped, and a beta lets an AI assistant run the app via natural language.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -10753,10 +10692,9 @@
   "date": "2026-09-12",
   "section": "books",
   "has_full": true,
-  "headline": "작가들의 AI 공포는 사실보다 앞서간다",
-  "body": "한 에이전트와 편집자는 AI 점수 20~25%를 넘으면 망설이기 시작한다고 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "作家们的AI恐惧\n超前于事实",
+  "body": "一位经纪人和编辑说,AI分数超过20~25%就开始犹豫。",
+  "lang": "zh"
  },
  {
   "id": "books-webtoon-ai-w2n",
@@ -10769,9 +10707,9 @@
   "date": "2026-09-12",
   "section": "books",
   "has_full": true,
-  "headline": "웹툰이 AI 자동 번역을 켜자\n번역가들이 뉘앙스를 묻는다",
-  "body": "웹툰이 캔버스 창작자에게 AI 자동 번역을 열지만 번역가들은 뉘앙스를 우려한다.",
-  "lang": "ko",
+  "headline": "Webtoon turns on AI translation\nTranslators ask about nuance",
+  "body": "Webtoon is opening AI auto-translation to Canvas creators, but translators worry about nuance.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -10784,10 +10722,9 @@
   "date": "2026-09-12",
   "section": "books",
   "has_full": true,
-  "headline": "사이먼 앤 슈스터, 자가출판 작가에게\n포켓북스와 전자책 순수익 50%",
-  "body": "포켓북스를 되살리고 자가출판 작가에게 전자책 순수익 50%의 사이먼 스트림을 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "西蒙舒斯特助自出版\n电子书分成50%",
+  "body": "西蒙舒斯特复兴Pocket Books为自出版者推出净收益50%的Simon Stream。",
+  "lang": "zh"
  },
  {
   "id": "books-oup-disclosure-h3v",
@@ -10800,10 +10737,9 @@
   "date": "2026-09-12",
   "section": "books",
   "has_full": true,
-  "headline": "옥스퍼드대 출판부, AI 사용 공개를\n제출 조건으로 옮긴다",
-  "body": "OUP가 저자 지침을 고쳐 AI 사용 공개를 권고에서 제출 조건 쪽으로 옮겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "牛津大学出版社AI披露\n将成投稿必需条件",
+  "body": "OUP修改了作者指南,将AI使用披露从建议改为投稿的必要条件。",
+  "lang": "zh"
  },
  {
   "id": "books-ipg-autumn-q4m",
@@ -10816,10 +10752,9 @@
   "date": "2026-09-12",
   "section": "books",
   "has_full": true,
-  "headline": "독립 출판사 AI 도입률 76%\n논쟁은 '해야 하나'로 넘어갔다",
-  "body": "IPG 조사에서 독립 출판사 AI 도입률은 2023년 42%에서 76%로 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "独立出版社AI采用率76%\n争论转向「该不该」",
+  "body": "IPG调查显示,独立出版社AI采用率从2023年的42%升至76%。",
+  "lang": "zh"
  },
  {
   "id": "science-seabed-carbon-emulator-w9k",
@@ -10832,10 +10767,9 @@
   "date": "2026-09-09",
   "section": "science",
   "has_full": true,
-  "headline": "물리를 심은 작은 신경망이\n해저 탄소 순환을 지구 규모로 그렸다",
-  "body": "해저에 닿은 입자성 유기탄소의 11%가 용존 형태로 바닷물에 되돌아간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "物理嵌入的小神经网\n绘出全球海底碳循环",
+  "body": "到达海底的颗粒有机碳中,有11%会以溶解态重新回到海水中。",
+  "lang": "zh"
  },
  {
   "id": "science-navier-stokes-agents-q7f",
@@ -10848,10 +10782,9 @@
   "date": "2026-09-09",
   "section": "science",
   "has_full": true,
-  "headline": "AI 에이전트 1만 개가 88시간 만에\n밀레니엄 난제 하나를 풀었다",
-  "body": "증명은 Lean으로 검증을 통과했지만, 누가 먼저 도달했는지를 두고 말이 엇갈린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "1万AI代理88小时\n攻克一道千禧难题",
+  "body": "这项证明已通过编程语言Lean的形式验证,但谁率先完成仍存在争议。",
+  "lang": "zh"
  },
  {
   "id": "science-mindedness-steering-p4v",
@@ -10864,10 +10797,9 @@
   "date": "2026-09-09",
   "section": "science",
   "has_full": true,
-  "headline": "의식을 부정하도록 조인 모델은\n동물의 마음도 인정하지 않았다",
-  "body": "자기 의식 발언을 막는 안전장치가 동물의 마음과 초자연 믿음까지 함께 눌렀다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "被训练否认意识\n也不承认动物有心",
+  "body": "抑制自称有意识的安全机制,也一并压低了动物心智与超自然信念。",
+  "lang": "zh"
  },
  {
   "id": "science-earth-observation-oecd-x2m",
@@ -10896,9 +10828,9 @@
   "date": "2026-09-09",
   "section": "science",
   "has_full": true,
-  "headline": "DNA 변이 90억 개의 예측을\n딥마인드가 미리 다 계산해뒀다",
-  "body": "비부호화 DNA 변이가 조직별로 어떤 영향을 주는지 검색만으로 확인한다.",
-  "lang": "ko",
+  "headline": "9 billion DNA variants\nDeepMind precomputed them all",
+  "body": "A simple search now shows how non-coding DNA variants affect each tissue type.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -10912,10 +10844,9 @@
   "date": "2026-09-09",
   "section": "music",
   "has_full": true,
-  "headline": "수노가 비리브와 세 번째로 손을 잡았다\n참여한 아티스트는 수익을 나눠 받는다",
-  "body": "비리브와 튠코어 아티스트는 수노 새 모델 학습에 참여하고 수익을 나눠 받는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Suno三度牵手唱片公司\n参与艺人可分享收益",
+  "body": "Believe和TuneCore的艺人可参与Suno新模型训练并分享收益。",
+  "lang": "zh"
  },
  {
   "id": "music-stella-parton-ai-m6t",
@@ -10944,10 +10875,9 @@
   "date": "2026-09-09",
   "section": "music",
   "has_full": true,
-  "headline": "말로 지시하면 마스터가 10초에 나온다",
-  "body": "마스터링 체인을 쌓는 대신 원하는 소리를 적으면 3분 곡을 10초 남짓에 처리한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一句话指挥\n10秒出母带",
+  "body": "无需搭建母带处理链,写下想要的声音即可在10秒左右处理完3分钟曲目。",
+  "lang": "zh"
  },
  {
   "id": "music-isbell-suno-x3v",
@@ -10960,10 +10890,9 @@
   "date": "2026-09-09",
   "section": "music",
   "has_full": true,
-  "headline": "이름을 넣으면 그 가수의 목소리가 나온다\n이번엔 저작권이 아니라 퍼블리시티권이다",
-  "body": "이스벨은 수노가 음악가의 정체성을 모델에 토큰으로 심었다며 집단소송을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "输入姓名出声音\n这次不是版权而是形象权",
+  "body": "Isbell以Suno将音乐人身份植入模型为由提起了集体诉讼。",
+  "lang": "zh"
  },
  {
   "id": "music-chartmetric-flow-b8k",
@@ -10976,10 +10905,9 @@
   "date": "2026-09-09",
   "section": "music",
   "has_full": true,
-  "headline": "말로 물으면 차트메트릭이 답을 만든다\n월 60달러짜리 데이터 분석가다",
-  "body": "차트메트릭이 아티스트 1400만 명 데이터에 말로 묻는 분석 에이전트를 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "开口就有答案\n月60美元分析师",
+  "body": "Chartmetric推出能用语音提问、覆盖1400万艺人数据的分析代理。",
+  "lang": "zh"
  },
  {
   "id": "movies-revize-pitchblack-d4t",
@@ -10992,10 +10920,9 @@
   "date": "2026-09-09",
   "section": "movies",
   "has_full": true,
-  "headline": "라이징 선이 키운 얼굴 기술이\n피치 블랙 스튜디오로 퍼진다",
-  "body": "라이징 선의 머신러닝 도구 REVIZE가 피치 블랙 산하 세 스튜디오로 넓어진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Rising Sun面部技术\n扩展到Pitch Black",
+  "body": "Rising Sun的机器学习工具REVIZE正扩展到Pitch Black旗下三家工作室。",
+  "lang": "zh"
  },
  {
   "id": "movies-resolve-211-assistant-b3m",
@@ -11008,9 +10935,9 @@
   "date": "2026-09-09",
   "section": "movies",
   "has_full": true,
-  "headline": "리졸브 21.1이 AI 조수를 들였고\n파이썬 스크립팅은 스튜디오로 갔다",
-  "body": "블랙매직이 리졸브 21.1에 AI 조수를 넣고 파이썬 스크립팅을 스튜디오로 옮겼다.",
-  "lang": "ko",
+  "headline": "Resolve 21.1 adds an AI copilot\nPython scripting moves to Studio",
+  "body": "Blackmagic added an AI assistant to Resolve 21.1 and moved Python scripting to the Studio edition.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11040,10 +10967,9 @@
   "date": "2026-09-09",
   "section": "movies",
   "has_full": true,
-  "headline": "1분짜리 세로 에피소드 열 편을\n한 편에 일주일씩 만들었다",
-  "body": "'아스트로 번'이 자기 아트로만 학습시킨 모델로 세로 에피소드 열 편을 뽑았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "十集1分钟竖屏\n一周出一集",
+  "body": "《Astro Burn》用只学习自身美术的模型做出了十集竖屏短片。",
+  "lang": "zh"
  },
  {
   "id": "movies-adobe-ibc-genmedia-a7k",
@@ -11056,10 +10982,9 @@
   "date": "2026-09-09",
   "section": "movies",
   "has_full": true,
-  "headline": "프리미어 타임라인에 범위를 긋고\n없는 컷을 프롬프트로 만든다",
-  "body": "어도비가 프리미어 타임라인 안에서 영상을 만드는 생성 도구를 IBC에서 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "在Premiere时间线\n用提示词生成镜头",
+  "body": "Adobe在IBC发布了可在Premiere时间线内直接生成素材的工具。",
+  "lang": "zh"
  },
  {
   "id": "games-nhl27-ai-commentary-q7d",
@@ -11072,10 +10997,9 @@
   "date": "2026-09-09",
   "section": "games",
   "has_full": true,
-  "headline": "EA가 내 목소리를 복제해\nNHL 27 중계 음성을 만들었다",
-  "body": "존 부치그로스가 EA에서 AI로 복제한 자기 목소리 중계를 들었다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "EA克隆我的声音\n制作NHL27解说",
+  "body": "John Buccigross表示他在EA听到了用AI克隆自己声音做的解说。",
+  "lang": "zh"
  },
  {
   "id": "games-murkmire-no-ai-mod-h5w",
@@ -11088,10 +11012,9 @@
   "date": "2026-09-09",
   "section": "games",
   "has_full": true,
-  "headline": "2026년에도 AI 한 줄 없이\nDLC급 스카이림 모드가 나온다",
-  "body": "1인 모더가 퀘스트 13개와 육성 대사 1000줄을 AI 없이 만들어 무료로 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "2026年仍无AI\nDLC级天际Mod",
+  "body": "一名独立模组作者未借助AI完成13个任务与逾千行配音对白,并免费发布。",
+  "lang": "zh"
  },
  {
   "id": "games-eu-dev-ai-survey-t8c",
@@ -11104,10 +11027,9 @@
   "date": "2026-09-09",
   "section": "games",
   "has_full": true,
-  "headline": "유럽 개발자가 두려운 건 해고가 아니라\n더 빨리 내놓으라는 압박이다",
-  "body": "유럽 개발자 61%가 실직보다 AI발 속도 압박을 더 걱정한다고 답했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "欧洲开发者不怕\n裁员怕的是赶工",
+  "body": "61%的欧洲开发者表示,他们更担心AI带来的赶工压力,而非失业。",
+  "lang": "zh"
  },
  {
   "id": "games-dlss5-dual-gpu-mod-m3z",
@@ -11120,10 +11042,9 @@
   "date": "2026-09-09",
   "section": "games",
   "has_full": true,
-  "headline": "뉴럴 렌더링을 두 번째 GPU에 떠넘기는\nDLSS 5 애드온이 나왔다",
-  "body": "mgpu_bridge가 뉴럴 렌더링을 보조 GPU로 넘겨 성능 손실을 거의 없앤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "神经渲染转嫁第二GPU\nDLSS 5插件登场",
+  "body": "mgpu_bridge将神经渲染转嫁给辅助GPU,几乎消除了性能损失。",
+  "lang": "zh"
  },
  {
   "id": "games-arm-mali-g2-nx-r4v",
@@ -11136,10 +11057,9 @@
   "date": "2026-09-09",
   "section": "games",
   "has_full": true,
-  "headline": "Arm이 모바일 업스케일러 신경망을\n깃허브에 통째로 열어뒀다",
-  "body": "Arm이 재학습 가능한 모바일 업스케일링 신경망을 깃허브에 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Arm移动端AI\nGitHub全量开源",
+  "body": "Arm在GitHub上开源了可重新训练的移动端AI升频神经网络。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-roborock-saros-ifa-9k3",
@@ -11152,9 +11072,9 @@
   "date": "2026-09-09",
   "section": "gadgets",
   "has_full": true,
-  "headline": "로보락이 IFA에 내놓은 신제품\n계단 오르는 바퀴부터 잔디깎이까지",
-  "body": "로보락이 계단을 넘는 사로스 로버부터 수영장 로봇까지 IFA에서 공개했다.",
-  "lang": "ko",
+  "headline": "Roborock's new lineup at IFA\nStair-climbing wheels to mowers",
+  "body": "Roborock unveiled new robots at IFA, from the stair-climbing Saros Rover to a pool cleaner.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11184,9 +11104,9 @@
   "date": "2026-09-09",
   "section": "gadgets",
   "has_full": true,
-  "headline": "공중제비 로봇부터 세입자용 태양광까지\nIFA 2026 최고의 25가지",
-  "body": "테크레이더가 고른 IFA 2026 베스트 25에 공중제비 휴머노이드가 들었다.",
-  "lang": "ko",
+  "headline": "From backflip robots to solar\nfor renters: IFA 2026's top 25",
+  "body": "TechRadar's picks for IFA 2026's best 25 include a backflipping humanoid.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11200,10 +11120,9 @@
   "date": "2026-09-09",
   "section": "gadgets",
   "has_full": true,
-  "headline": "결제도 되고 진동도 오는 반지\n서큘러 링 3이 두 갈래로 나왔다",
-  "body": "서큘러가 ECG를 갖춘 링 3 프로와 이를 덜어낸 링 3 슬림을 함께 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "能支付会振动\nCircular推双款戒指",
+  "body": "Circular推出配备ECG的Ring 3 Pro和精简版Ring 3 Slim。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-android-drop-sept26-m4t",
@@ -11216,10 +11135,9 @@
   "date": "2026-09-09",
   "section": "gadgets",
   "has_full": true,
-  "headline": "9월 안드로이드 드롭, 물건 둔 자리를\n제미나이가 대신 기억한다",
-  "body": "물건 둔 자리를 기억하는 파인드 허브가 9월 안드로이드 드롭에 실렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "9月安卓更新\nGemini帮你记物品",
+  "body": "能记住物品放置位置的Find Hub已登上9月的安卓更新。",
+  "lang": "zh"
  },
  {
   "id": "design-resolve-mcp-x7k",
@@ -11232,9 +11150,9 @@
   "date": "2026-09-09",
   "section": "design",
   "has_full": true,
-  "headline": "리졸브 21.1이 MCP 서버를 달고\n클로드에게 편집을 맡긴다",
-  "body": "새 도구 100여 개 중 MCP 서버가 클로드와 코덱스에 리졸브를 열어 준다.",
-  "lang": "ko",
+  "headline": "Resolve 21.1 adds an MCP server\nand lets Claude edit for you",
+  "body": "Among 100-plus new tools, an MCP server opens Resolve to Claude and Codex.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11248,10 +11166,9 @@
   "date": "2026-09-09",
   "section": "design",
   "has_full": true,
-  "headline": "최악의 UX 대회에 낸 날짜 입력창은\n봇이 생년월일을 캐묻는다",
-  "body": "날짜 필드를 봇이 가로채 캐묻고, 날짜를 그대로 말하면 못 쓴다며 거절한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "参加最差UX大赛\n机器人追问生日",
+  "body": "机器人抢占了日期输入框并反复追问，用户直说日期也会被它拒绝。",
+  "lang": "zh"
  },
  {
   "id": "design-chatgpt-sketch-9f2",
@@ -11264,10 +11181,9 @@
   "date": "2026-09-09",
   "section": "design",
   "has_full": true,
-  "headline": "@Sketch로 낙서를 그리면\nChatGPT가 사진으로 바꾼다",
-  "body": "채팅창에 그린 낙서가 프롬프트가 되고, 이미지 위 댓글로 세부를 고친다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用@Sketch涂鸦\nChatGPT变照片",
+  "body": "在聊天框里画的涂鸦会变成提示词，再靠图片上的评论来修改细节。",
+  "lang": "zh"
  },
  {
   "id": "design-autodesk-neural-cad-b4m",
@@ -11280,10 +11196,9 @@
   "date": "2026-09-09",
   "section": "design",
   "has_full": true,
-  "headline": "오토데스크는 CAD에 코파일럿 대신\n형상을 아는 모델을 넣는다",
-  "body": "CAD 데이터로 학습한 모델이 형상을 직접 다루고, 설계 판단은 따로 쌓인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不给CAD装副驾驶\n而是装懂形状模型",
+  "body": "用CAD数据训练的模型直接处理形状，设计判断则单独积累下来。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-brief-agency-5rt",
@@ -11296,9 +11211,9 @@
   "date": "2026-09-09",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 대신 쓴 브리프가\n스타트업이 잡던 기회를 지운다",
-  "body": "스타트업 브리프의 90%가 어느 에이전시에나 똑같이 날아드는 AI 문서가 됐다.",
-  "lang": "ko",
+  "headline": "AI-written briefs are erasing\nthe openings startups once had",
+  "body": "Ninety percent of startup briefs have become identical AI documents sent to every agency.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11312,10 +11227,9 @@
   "date": "2026-09-09",
   "section": "books",
   "has_full": true,
-  "headline": "영국·아일랜드 헌책방에 들어온\n수상한 뭉텅이 주문의 정체",
-  "body": "영국과 아일랜드 헌책방은 무작위 대량 주문의 배후로 AI 회사를 의심한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "英爱旧书店收到\n可疑大批订单",
+  "body": "英国和爱尔兰旧书店怀疑AI公司是大批随机订单的幕后黑手。",
+  "lang": "zh"
  },
  {
   "id": "books-authors-guild-registration-q7m",
@@ -11328,9 +11242,9 @@
   "date": "2026-09-09",
   "section": "books",
   "has_full": true,
-  "headline": "출판사가 저작권 등록을 빠뜨렸다\n앤스로픽 합의 명단에서 빠진 책",
-  "body": "작가조합 조사에서 응답 864종 중 804종의 출판사가 저작권 등록 의무를 어겼다.",
-  "lang": "ko",
+  "headline": "Publishers skipped registration\nleft books off Anthropic's list",
+  "body": "An Authors Guild survey found 804 of 864 responding publishers failed to meet copyright registration duties.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11344,9 +11258,9 @@
   "date": "2026-09-09",
   "section": "books",
   "has_full": true,
-  "headline": "오디블, 유럽 오디오북 영어판을 네 배로\n그 번역은 AI가 아니라 사람이 했다",
-  "body": "오디블은 올해 유럽어 오디오북 영어 번역을 네 배로 늘렸고 전부 사람이 옮겼다.",
-  "lang": "ko",
+  "headline": "Audible quadruples European\naudiobooks in English, by humans",
+  "body": "Audible quadrupled its English translations of European audiobooks this year, all done by humans.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11360,10 +11274,9 @@
   "date": "2026-09-09",
   "section": "books",
   "has_full": true,
-  "headline": "합의금에 손 뻗은 건 출판사만이 아니다\n에이전시도 몫을 주장했다",
-  "body": "앤스로픽 합의금 배분에 출판사에 이어 에이전시까지 권리를 걸자 작가가 반발했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不仅出版社伸手\n代理机构也要价",
+  "body": "继出版社之后，文学代理机构也主张权利索赔，引发作家强烈反弹。",
+  "lang": "zh"
  },
  {
   "id": "science-rna-scaffold-stvc8",
@@ -11376,10 +11289,9 @@
   "date": "2026-09-08",
   "section": "science",
   "has_full": true,
-  "headline": "자연에 없는 껍질을 AI가 설계하자\nRNA가 세포로 더 잘 들어갔다",
-  "body": "AI가 설계한 껍질 STV-C8은 지질나노입자보다 적은 RNA로 더 잘 전달했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI设计出自然界没有的外壳\nRNA更好地进入细胞",
+  "body": "AI设计的外壳STV-C8用更少RNA实现了比脂质纳米粒子更好的递送。",
+  "lang": "zh"
  },
  {
   "id": "science-controversial-stimuli",
@@ -11392,10 +11304,9 @@
   "date": "2026-09-08",
   "section": "science",
   "has_full": true,
-  "headline": "모델끼리 답이 갈리는 그림을 만들어\n뇌 이론을 가려낸다",
-  "body": "컬럼비아 연구진은 모델의 예측이 갈리도록 만든 이미지로 뇌 이론을 가려냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "制造模型分歧的图像\n甄别大脑理论",
+  "body": "哥伦比亚大学研究团队用让模型预测产生分歧的图像检验了大脑理论。",
+  "lang": "zh"
  },
  {
   "id": "science-benchmirt-audit",
@@ -11408,10 +11319,9 @@
   "date": "2026-09-08",
   "section": "science",
   "has_full": true,
-  "headline": "안전성을 잰다던 벤치마크가\n실은 추론력을 재고 있었다",
-  "body": "안전을 잰다던 벤치마크 상당수가 실은 추론력을 재고 있다고 Ai2가 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "号称测安全性\n实际测的是推理力",
+  "body": "Ai2的研究发现，不少号称测安全性的基准实际上测的是推理能力。",
+  "lang": "zh"
  },
  {
   "id": "science-apnea-chatbot-referral",
@@ -11440,10 +11350,9 @@
   "date": "2026-09-08",
   "section": "science",
   "has_full": true,
-  "headline": "1944년 노르망디 상륙 전야를\n오늘의 AI 예보로 다시 돌려봤다",
-  "body": "AIFS는 6월 5일 연기는 뒷받침했지만 6일의 악조건은 실제보다 약하게 봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "1944年诺曼底\n登陆前夜用AI重测",
+  "body": "AIFS支持6月5日延期，却把6日的恶劣天气估计得偏轻。",
+  "lang": "zh"
  },
  {
   "id": "music-sonos-custom-agents",
@@ -11456,10 +11365,9 @@
   "date": "2026-09-08",
   "section": "music",
   "has_full": true,
-  "headline": "소노스는 스피커 안에\n취향을 가진 인격을 앉힌다",
-  "body": "추론 엔진을 고르고 목소리와 이름, 성격을 정하면 그 인격이 음악을 골라 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Sonos要在音箱里\n安放一个有品味的人格",
+  "body": "选定推理引擎，设好声音、名字和性格，这个人格就会替你挑选音乐。",
+  "lang": "zh"
  },
  {
   "id": "music-scaler-eq-pro",
@@ -11472,10 +11380,9 @@
   "date": "2026-09-08",
   "section": "music",
   "has_full": true,
-  "headline": "EQ가 곡의 키를 먼저 읽고\n바깥 주파수를 덜어 낸다",
-  "body": "키와 스케일을 자동으로 잡아 그 안에 드는 대역만 올리고 벗어난 쪽은 눌러 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "EQ先读懂歌曲调\n再削减外部频率",
+  "body": "自动识别调性与音阶，只提升落在其中的频段，压低超出范围的部分。",
+  "lang": "zh"
  },
  {
   "id": "music-mottune-midi",
@@ -11488,10 +11395,9 @@
   "date": "2026-09-08",
   "section": "music",
   "has_full": true,
-  "headline": "무료 보컬 튠 플러그인이\n지연 없이 무대에서 돈다",
-  "body": "MIDI로 음정을 붙드는 실시간 모드에 레이턴시가 없어 라이브에서도 그대로 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "免费人声调音\n舞台零延迟运行",
+  "body": "靠MIDI锁定音高的实时模式零延迟，现场演出也能直接使用。",
+  "lang": "zh"
  },
  {
   "id": "music-klattsch-singing",
@@ -11504,10 +11410,9 @@
   "date": "2026-09-08",
   "section": "music",
   "has_full": true,
-  "headline": "1980년 기계 음성이\n노래하는 악기로 돌아왔다",
-  "body": "샘플 없이 발진기와 공진기로만 소리를 내고 합성 파라미터를 전부 열어 뒀다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "1980年的机器音\n化身歌唱乐器",
+  "body": "完全不用采样，只靠振荡器与共振器发声，并把全部合成参数都公开。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-slop-human-demand",
@@ -11520,10 +11425,9 @@
   "date": "2026-09-08",
   "section": "music",
   "has_full": true,
-  "headline": "AI가 넘칠수록\n사람 손을 부르는 값이 올랐다",
-  "body": "탑라인 작곡 의뢰가 466%, 작곡이 426% 늘며 사람에게 맡기는 쪽이 다시 비싸졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI越泛滥\n人力的价码越高",
+  "body": "主旋律创作委托增长466%，作曲增长426%，人工再次变贵。",
+  "lang": "zh"
  },
  {
   "id": "movies-ulanzi-vibekey-voice",
@@ -11536,10 +11440,9 @@
   "date": "2026-09-08",
   "section": "movies",
   "has_full": true,
-  "headline": "편집 책상 위에 놓는\n말로 쓰는 AI 키패드",
-  "body": "울란지 AU05 VibeKey가 음성 키 하나로 ChatGPT와 Claude에 지시를 넘겨 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "放在剪辑桌上的\n语音AI键盘",
+  "body": "Ulanzi AU05 VibeKey用一个语音键，把指令发给ChatGPT和Claude。",
+  "lang": "zh"
  },
  {
   "id": "movies-samsung-p9-ai-ad",
@@ -11552,10 +11455,9 @@
   "date": "2026-09-08",
   "section": "movies",
   "has_full": true,
-  "headline": "12K를 담으라는 SSD 광고를\n카메라 없이 만들었다",
-  "body": "삼성이 12K RAW용 P9 SSD 광고를 통째로 생성형 AI로 만들자 CineD가 그 모순을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "号称能拍12K的SSD广告\n竟是无相机制作",
+  "body": "三星用生成式AI全程制作12K RAW版P9 SSD广告，CineD指出了其中的矛盾。",
+  "lang": "zh"
  },
  {
   "id": "movies-runway-full-metal-lunchbox",
@@ -11568,10 +11470,9 @@
   "date": "2026-09-08",
   "section": "movies",
   "has_full": true,
-  "headline": "런웨이가 도시락으로 찍은\n4분짜리 전쟁영화",
-  "body": "런웨이가 브로콜리와 완두콩을 병사로 세운 4분짜리 AI 전쟁영화 패러디를 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Runway用饭盒拍\n4分钟战争片",
+  "body": "Runway推出了一部以西兰花和豌豆为士兵的4分钟AI战争片恶搞短片。",
+  "lang": "zh"
  },
  {
   "id": "movies-herzog-venice-ai",
@@ -11600,10 +11501,9 @@
   "date": "2026-09-08",
   "section": "movies",
   "has_full": true,
-  "headline": "편집실에 실제로 들어온\nAI를 셋이 앉아 셈했다",
-  "body": "포스트 베테랑 세 명이 어도비의 Topaz 인수와 현장에서 쓰는 AI를 라운드테이블에서 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "真正进入剪辑室的AI\n三人坐下细算",
+  "body": "三位后期制作资深人士在圆桌会议上探讨了Adobe收购Topaz与片场使用的AI。",
+  "lang": "zh"
  },
  {
   "id": "games-penguin-colony-genai-gag",
@@ -11616,10 +11516,9 @@
   "date": "2026-09-08",
   "section": "games",
   "has_full": true,
-  "headline": "RTX도 DLSS도 genAI도 있다\n펭귄 게임이 던진 말장난",
-  "body": "펭귄 콜로니 트레일러가 RTX와 DLSS, genAI를 전혀 다른 뜻의 약자로 풀어 업계 유행어를 비틀었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "RTX·DLSS·genAI\n企鹅游戏的文字梗",
+  "body": "《企鹅殖民地》预告片把RTX、DLSS、genAI解读成完全不同的缩写，调侃了行业流行语。",
+  "lang": "zh"
  },
  {
   "id": "games-katago-shin-jinseo",
@@ -11632,10 +11531,9 @@
   "date": "2026-09-08",
   "section": "games",
   "has_full": true,
-  "headline": "신진서가 카타고에 거둔\n인간 최초의 시리즈 승리",
-  "body": "신진서가 두 점 접바둑으로 카타고를 2승 1패로 꺾고 인간 첫 시리즈 승리를 남겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "申真谞战胜KataGo\n人类首次系列赛获胜",
+  "body": "申真谞执两子让先战胜KataGo，以2比1拿下人类首个系列赛胜利。",
+  "lang": "zh"
  },
  {
   "id": "games-dlss5-autopilot",
@@ -11648,10 +11546,9 @@
   "date": "2026-09-08",
   "section": "games",
   "has_full": true,
-  "headline": "엔비디아보다 모더가 먼저\nDLSS 5에 품질 단계를 붙였다",
-  "body": "DLSS 5 오토파일럿이 뉴럴 렌더링을 업스케일러 앞에 두고 품질·밸런스·성능 모드를 붙였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "玩家抢先\n给DLSS 5分档",
+  "body": "DLSS 5 Autopilot把神经渲染放到放大器之前,加上画质、均衡、性能三档。",
+  "lang": "zh"
  },
  {
   "id": "games-astroburn-microseries",
@@ -11664,9 +11561,9 @@
   "date": "2026-09-08",
   "section": "games",
   "has_full": true,
-  "headline": "내 게임 아트만 학습한 모델로\n1분짜리 세로 애니 열 편",
-  "body": "아스트로번 팀이 자기 아트만 학습시킨 모델로 1분짜리 세로 에피소드 열 편을 뽑았다.",
-  "lang": "ko",
+  "headline": "Trained only on their own art\nten 1-minute vertical anime eps",
+  "body": "The Astroburn team trained a model only on its own art to make ten 1-minute vertical episodes.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11680,10 +11577,9 @@
   "date": "2026-09-08",
   "section": "games",
   "has_full": true,
-  "headline": "퍼블리셔 계약 조건에\n생성형 AI 슬롭은 없다",
-  "body": "어그로 크랩이 퍼블리싱 부문을 열면서 계약 조건에 생성형 AI 슬롭 금지를 못 박았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "发行合同里\n没有生成AI垃圾",
+  "body": "Aggro Crab开设发行部门后,在合同里明令禁止生成式AI垃圾内容。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-watch-s12-siri-chip",
@@ -11696,10 +11592,9 @@
   "date": "2026-09-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "손목 위 Siri를 위해\n칩부터 바꾸는 Apple Watch",
-  "body": "9월 9일 공개될 Apple Watch Series 12에 Siri AI용 새 S 칩이 들어간다고 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "为手腕Siri\n先换芯片",
+  "body": "9月9日发布的Apple Watch Series 12将搭载Siri AI新S芯片。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-violoop-ai-box",
@@ -11712,10 +11607,9 @@
   "date": "2026-09-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "낡은 노트북을 바꾸지 않고\nAI 에이전트만 옆에 붙인다",
-  "body": "IFA 2026에 나온 Violoop은 화면을 읽고 일하는 AI 에이전트를 노트북 밖 상자로 떼어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "旧电脑不换\n只加AI助手",
+  "body": "Violoop把读屏幕工作的AI助手,拆到了笔记本外的盒子里。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-timekettle-w4-plus",
@@ -11728,9 +11622,9 @@
   "date": "2026-09-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "회의 통역을 귀에 맡긴다\nTimekettle W4 Plus",
-  "body": "W4 Plus는 52개 언어와 오프라인 13개 조합을 지원하고 긴 대화의 맥락까지 기억한다.",
-  "lang": "ko",
+  "headline": "Interpretation, to your ears\nTimekettle W4 Plus",
+  "body": "The W4 Plus supports 52 languages, 13 offline pairs, and remembers context in long talks.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11744,10 +11638,9 @@
   "date": "2026-09-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "로봇 안에서 작은 로봇이\n내려오는 Roomba Duo",
-  "body": "iRobot의 Roomba Duo는 몸통에 작은 로봇을 품고 좁은 자리에만 내려보내는 콘셉트다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "大机器人藏着\n小机器人Roomba Duo",
+  "body": "iRobot的Roomba Duo机身藏着小机器人,只在狭窄处放出。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-odyss-n1",
@@ -11760,10 +11653,9 @@
   "date": "2026-09-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "사진을 찍지 않아도\n먹은 것을 적는 목걸이",
-  "body": "Odyss N1은 카메라와 움직임을 읽어 무엇을 언제 얼마나 먹었는지 스스로 기록한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不用拍照\n也能记饮食的项链",
+  "body": "Odyss N1靠摄像头与动作,自动记录吃了什么、何时、多少。",
+  "lang": "zh"
  },
  {
   "id": "design-tripo-image-to-3d",
@@ -11776,10 +11668,9 @@
   "date": "2026-09-08",
   "section": "design",
   "has_full": true,
-  "headline": "사진 한 장이\n출력 가능한 3D로 나온다",
-  "body": "Tripo 2.0은 이미지를 3D 모델로 바꿔 블렌더나 프린터로 곧장 내보낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一张照片\n变可打印3D",
+  "body": "Tripo 2.0把图片变成3D模型,直接导出到Blender或打印机。",
+  "lang": "zh"
  },
  {
   "id": "design-rtx-half-frame-video",
@@ -11792,10 +11683,9 @@
   "date": "2026-09-08",
   "section": "design",
   "has_full": true,
-  "headline": "프레임 절반만 만들고\n나머지는 RTX가 채운다",
-  "body": "풀HD 2초 클립이 6분 30초에서 1분 25초로 줄어 시안을 더 많이 돌려본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "只生成一半帧\n余下由RTX补上",
+  "body": "全高清2秒片段从6分30秒缩短到1分25秒,方案可以多试几版。",
+  "lang": "zh"
  },
  {
   "id": "design-md-agent-guide",
@@ -11808,10 +11698,9 @@
   "date": "2026-09-08",
   "section": "design",
   "has_full": true,
-  "headline": "디자인 시스템을 마크다운\n한 장으로 에이전트에 넘긴다",
-  "body": "구글 랩스가 제안한 DESIGN.md는 토큰과 판단 이유를 한 파일에 묶어 둔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "设计系统写入MD\n一页交给智能体",
+  "body": "Google Labs提出的DESIGN.md把令牌与判断理由装进一个文件。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-make-claude-handoff",
@@ -11824,10 +11713,9 @@
   "date": "2026-09-08",
   "section": "design",
   "has_full": true,
-  "headline": "Figma Make가 만든 코드를\nClaude Code로 이어받았다",
-  "body": "화면은 이미 완성돼 있었지만 네 저장소 모두 데이터 계층 앞에서 멈춰 섰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma Make写的代码\n由Claude Code接棒",
+  "body": "画面早已做好,但四个代码仓库都卡在了数据层这一步没能往前。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-product-team-strategy",
@@ -11840,10 +11728,9 @@
   "date": "2026-09-08",
   "section": "design",
   "has_full": true,
-  "headline": "AI를 위에서 밀어붙인 회사가\n협업 효과를 세 배 가까이 키웠다",
-  "body": "비디자이너 56%가 디자인 일을 하고, 팀은 8~10명에서 2~3명으로 줄어든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI由上而下推行\n协作效果近增3倍",
+  "body": "非设计师56%参与设计,团队规模从8~10人缩至2~3人。",
+  "lang": "zh"
  },
  {
   "id": "books-nairobi-essay-collapse",
@@ -11856,10 +11743,9 @@
   "date": "2026-09-08",
   "section": "books",
   "has_full": true,
-  "headline": "논문 대필로 먹고살던 나이로비\n챗GPT가 그 시장을 지웠다",
-  "body": "챗GPT가 나온 뒤 나이로비 대필 시장의 단가와 주문이 함께 무너졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "靠代写论文为生的内罗毕\nChatGPT抹去了这一市场",
+  "body": "ChatGPT问世后,内罗毕代写市场的价格和订单同时崩溃。",
+  "lang": "zh"
  },
  {
   "id": "books-library-upskill-ai",
@@ -11872,10 +11758,9 @@
   "date": "2026-09-08",
   "section": "books",
   "has_full": true,
-  "headline": "정식 교육이 채우는 건 10%뿐\nAI 시대 재교육은 현장에서 만든다",
-  "body": "AI가 일을 흔드는 지금 정식 교육이 채우는 몫은 10%뿐이라고 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "正式教育仅填补10%\nAI时代靠现场再培训",
+  "body": "该书指出,在AI冲击工作的当下,正式教育仅能填补10%的需求。",
+  "lang": "zh"
  },
  {
   "id": "books-journal-2030-ai",
@@ -11904,10 +11789,9 @@
   "date": "2026-09-08",
   "section": "books",
   "has_full": true,
-  "headline": "오디오북 제작의 85%가 AI를 쓴다\n여섯 단계 넘게 넣은 곳은 17%",
-  "body": "프랑크푸르트도서전 백서가 오디오 업계의 AI 도입 깊이를 숫자로 갈랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "85%有声书制作\n深度超六步仅17%",
+  "body": "法兰克福书展的白皮书用数字衡量了音频行业AI应用的深度。",
+  "lang": "zh"
  },
  {
   "id": "books-aap-mosaic-amicus",
@@ -11920,10 +11804,9 @@
   "date": "2026-09-08",
   "section": "books",
   "has_full": true,
-  "headline": "책으로 학습해 책을 대신한다면\n공정 이용이 아니라고 출판계가 적었다",
-  "body": "미국 출판·언론·학술 단체가 모자이크 소송에 의견서를 내 약식판결 기각을 요구했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用书训练取代书\n出版界称不公平",
+  "body": "美国出版、新闻与学术机构就Mosaic诉讼提交意见书,要求驳回简易判决申请。",
+  "lang": "zh"
  },
  {
   "id": "science-smart-bricks",
@@ -11936,10 +11819,9 @@
   "date": "2026-09-07",
   "section": "science",
   "has_full": true,
-  "headline": "이 벽돌들은 자기가 무엇으로\n조립됐는지 스스로 안다",
-  "body": "이웃끼리 신호를 주고받아 배·의자·기타 중 무엇으로 조립됐는지 벽돌들이 알아낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "这些积木知道\n自己拼成了什么",
+  "body": "积木彼此互相传递信号,从而自行判断被拼成了船、椅子还是吉他。",
+  "lang": "zh"
  },
  {
   "id": "science-core-mantle-belts",
@@ -11952,9 +11834,9 @@
   "date": "2026-09-07",
   "section": "science",
   "has_full": true,
-  "headline": "지진파 200만 건을 훑어 찾아낸\n핵–맨틀 경계의 여섯 줄기",
-  "body": "신경망이 골라낸 PKP 전조파 17만여 개가 흩어진 점을 여섯 줄기 띠로 이었다.",
-  "lang": "ko",
+  "headline": "Six belts at the core-mantle\nboundary, found in 2M quakes",
+  "body": "A neural network sorted over 170,000 PKP precursor waves into six continuous belts from scattered points.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -11968,10 +11850,9 @@
   "date": "2026-09-07",
   "section": "science",
   "has_full": true,
-  "headline": "가설부터 논문까지, 실험실에서\n검증된 AI 코사이언티스트",
-  "body": "제미나이 다중 에이전트가 가설 수립과 실험 설계, 논문 작성까지 실험실에서 해냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "从假设到论文\nAI研究员获验证",
+  "body": "Gemini多智能体在实验室完成了假设建立、实验设计直到论文撰写。",
+  "lang": "zh"
  },
  {
   "id": "science-brain-guided-llm",
@@ -11984,10 +11865,9 @@
   "date": "2026-09-07",
   "section": "science",
   "has_full": true,
-  "headline": "사람 뇌의 활동 패턴을 신호 삼아\nLLM의 연역 추론을 끌어올리다",
-  "body": "뇌 영상을 학습 신호로 쓰자 LLM의 연역 추론이 텍스트만 학습할 때보다 좋아졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用人脑活动模式\n提升LLM推理",
+  "body": "用脑成像作为训练信号后,LLM的演绎推理优于只学文本时。",
+  "lang": "zh"
  },
  {
   "id": "science-af3-red",
@@ -12000,10 +11880,9 @@
   "date": "2026-09-07",
   "section": "science",
   "has_full": true,
-  "headline": "알파폴드3에 반발력을 더하자\n단백질이 다시 움직였다",
-  "body": "구조끼리 밀어내게 하자 알파폴드3가 놓치던 ATP 합성효소의 중간 상태가 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "给AF3加反发力\n蛋白质又动了",
+  "body": "让结构彼此互相排斥后,AF3此前漏掉的ATP合成酶中间态才显现出来。",
+  "lang": "zh"
  },
  {
   "id": "music-yamaha-creator-pass",
@@ -12016,10 +11895,9 @@
   "date": "2026-09-07",
   "section": "music",
   "has_full": true,
-  "headline": "Yamaha Creator Pass\n베드룸 프로듀서를 위한 구독",
-  "body": "Output Arcade와 LANDR 샘플, AI 마스터링, DAW를 월 구독 하나로 묶은 입문용 패키지다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "卧室制作人订阅\n雅马哈推出新品",
+  "body": "雅马哈Yamaha Creator Pass把制作工具打包进月度订阅。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-blige-ad",
@@ -12032,10 +11910,9 @@
   "date": "2026-09-07",
   "section": "music",
   "has_full": true,
-  "headline": "승인한 적 없는 광고 캠페인을\nSuno가 스스로 내렸다",
-  "body": "Mary J. Blige가 승인한 적 없다고 밝히자 Suno는 그를 내세운 광고 캠페인을 곧바로 내렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "本人从未批准\nSuno主动撤下广告",
+  "body": "Mary J. Blige表示未曾批准后,Suno立即撤下了该广告。",
+  "lang": "zh"
  },
  {
   "id": "music-roland-melody-flip",
@@ -12048,10 +11925,9 @@
   "date": "2026-09-07",
   "section": "music",
   "has_full": true,
-  "headline": "롤랜드가 DAW 안에\n멜로디 생성기를 넣었다",
-  "body": "레퍼런스 곡의 키와 코드, 무드를 읽어 약 250가지 멜로디 팔레트를 MIDI로 뽑아 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "罗兰在DAW中\n加入旋律生成器",
+  "body": "它读取参考曲目的调式、和弦与情绪,生成约250种MIDI旋律组合。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-three-tasks",
@@ -12064,10 +11940,9 @@
   "date": "2026-09-07",
   "section": "music",
   "has_full": true,
-  "headline": "후속 연락과 콘텐츠, 서류는\nAI에 넘겨도 된다",
-  "body": "후속 연락과 콘텐츠 재가공, 서류 작업은 창작 통제권을 쥔 채 AI에 맡길 수 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "后续联系与内容\n可交给AI处理",
+  "body": "后续联系、内容改编与文件工作,可在保留创作主导权的前提下交给AI。",
+  "lang": "zh"
  },
  {
   "id": "movies-weta-hotd-s3-breakdown",
@@ -12080,10 +11955,9 @@
   "date": "2026-09-07",
   "section": "movies",
   "has_full": true,
-  "headline": "Wētā FX가 뜯어 보인\n드래곤 시즌 3",
-  "body": "Wētā FX가 '하우스 오브 드래곤' 시즌 3의 함선 전투와 드래곤 작업을 숏 단위로 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Wētā FX拆解\n《龙》第三季",
+  "body": "Wētā FX公开了《龙》第三季海战与巨龙镜头的拆解内容。",
+  "lang": "zh"
  },
  {
   "id": "movies-overgrown-open-doors",
@@ -12096,10 +11970,9 @@
   "date": "2026-09-07",
   "section": "movies",
   "has_full": true,
-  "headline": "OVERGROWN 제작 기록,\n한시적으로 열린다",
-  "body": "애니메이션과 리깅, 퍼, 물, 컴포지팅까지 담긴 제작 로그를 기간 한정으로 무료 공개한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "OVERGROWN制作日志\n限时免费开放",
+  "body": "动画、角色绑定、毛发、水与合成等制作日志将限时免费公开。",
+  "lang": "zh"
  },
  {
   "id": "movies-krotos-studio-footsteps",
@@ -12112,10 +11985,9 @@
   "date": "2026-09-07",
   "section": "movies",
   "has_full": true,
-  "headline": "발소리 폴리를 타임라인 안에서 바로",
-  "body": "Krotos가 절차적 발소리 폴리를 Premiere Pro와 DaVinci Resolve 타임라인 안으로 들여왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "脚步声拟音\n直接进入时间线",
+  "body": "Premiere Pro和DaVinci Resolve的时间线新增程序化脚步拟音。",
+  "lang": "zh"
  },
  {
   "id": "movies-2026-engineering-emmys",
@@ -12160,9 +12032,9 @@
   "date": "2026-09-07",
   "section": "games",
   "has_full": true,
-  "headline": "업계는 무너지는 중이고\nAI가 사태를 키운다",
-  "body": "AI 전도사에 가깝던 팀 스위니가 업계는 무너지는 중이고 AI가 사태를 더 키운다고 말했다.",
-  "lang": "ko",
+  "headline": "The Industry Is Collapsing,\nand AI Is Making It Worse",
+  "body": "Tim Sweeney, once an AI booster, says the industry is collapsing and AI is making it worse.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -12176,9 +12048,9 @@
   "date": "2026-09-07",
   "section": "games",
   "has_full": true,
-  "headline": "스페이스 마린 3에는\n생성형 AI가 전혀 없다",
-  "body": "세이버 경영진이 AI 작가 논란 직후 스페이스 마린 3에 생성형 AI는 없다고 못 박았다.",
-  "lang": "ko",
+  "headline": "No Generative AI\nin Space Marine 3 At All",
+  "body": "Right after the AI-writer controversy, Saber's leadership confirmed Space Marine 3 has no generative AI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -12192,10 +12064,9 @@
   "date": "2026-09-07",
   "section": "games",
   "has_full": true,
-  "headline": "라이브옵스에서 AI가\n실제로 값을 하는 지점",
-  "body": "더블다운 페이스 프라이스가 라이브옵스에서 AI가 값을 하는 지점과 그 비용이 놓이는 자리를 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "LiveOps里\nAI真正值钱之处",
+  "body": "DoubleDown的Faith Price,点出AI在LiveOps中值回成本之处。",
+  "lang": "zh"
  },
  {
   "id": "games-art-direction-dlss5",
@@ -12208,10 +12079,9 @@
   "date": "2026-09-07",
   "section": "games",
   "has_full": true,
-  "headline": "DLSS 5 없이도 좋은 화면은\n결국 아트 디렉션이 만든다",
-  "body": "인디 개발자들이 DLSS 5 없이도 아트 디렉션만으로 좋은 화면을 만들어 보인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需DLSS5\n美术才是关键",
+  "body": "独立开发者证明,没有DLSS 5,靠美术指导也能做出好画面。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-xreal-aura-android-xr",
@@ -12224,10 +12094,9 @@
   "date": "2026-09-07",
   "section": "gadgets",
   "has_full": true,
-  "headline": "화면을 꺼내지 않는\n안드로이드, XREAL 아우라",
-  "body": "안드로이드 XR로 움직이는 XREAL 아우라는 폰을 꺼내지 않는 안드로이드를 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "免掏手机看\nXREAL Aura安卓",
+  "body": "搭载Android XR的XREAL Aura,无需掏出手机即可用安卓。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-withings-beamo-ai",
@@ -12240,10 +12109,9 @@
   "date": "2026-09-07",
   "section": "gadgets",
   "has_full": true,
-  "headline": "심장과 폐 소리를 스스로\n해석하는 위딩스 비모",
-  "body": "위딩스 비모에 AI 해석 계층이 붙어, 기기가 심장과 폐 녹음을 직접 읽어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "心肺音自主\n解读的BeamO",
+  "body": "Withings BeamO新增AI解读层,可直接读取心肺录音。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-windows-project-zenith",
@@ -12256,10 +12124,9 @@
   "date": "2026-09-07",
   "section": "gadgets",
   "has_full": true,
-  "headline": "AI 개발자용 윈도우 11,\n메모리 64GB부터",
-  "body": "윈도우 11 '프로젝트 제니스'는 램 64GB와 250GB/s 대역폭을 요구한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI开发者专用\n系统,64GB起",
+  "body": "Windows11「Project Zenith」需64GB内存及250GB/s带宽。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-dji-romo-2",
@@ -12288,10 +12155,9 @@
   "date": "2026-09-07",
   "section": "gadgets",
   "has_full": true,
-  "headline": "클로드가 카플레이 화면 안으로 들어왔다",
-  "body": "iOS 26.4가 카플레이를 서드파티 챗봇에 열자 클로드도 차 안으로 들어왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Claude登陆\nCarPlay车载屏幕",
+  "body": "iOS 26.4向第三方聊天机器人开放CarPlay后,Claude也进入了车内。",
+  "lang": "zh"
  },
  {
   "id": "design-photoshop-light-layer",
@@ -12304,10 +12170,9 @@
   "date": "2026-09-07",
   "section": "design",
   "has_full": true,
-  "headline": "포토샵이 밝기·대비를 걷어내고\nLight를 올렸다",
-  "body": "포토샵의 밝기/대비가 카메라 로우 컨트롤을 품은 Light 레이어로 바뀌었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Photoshop弃用\n明暗换Light层",
+  "body": "Photoshop的亮度对比度已变成内置Camera Raw控件的Light图层。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-security-agents",
@@ -12320,10 +12185,9 @@
   "date": "2026-09-07",
   "section": "design",
   "has_full": true,
-  "headline": "Figma는 보안 알림을\n에이전트에게 넘겼다",
-  "body": "피그마는 보안 알림 분류와 코드 수정 초안까지 맡는 사내 에이전트를 만들어 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma把安全警报\n交给了代理",
+  "body": "Figma搭建了一个能分类警报、还能起草代码修复的内部代理。",
+  "lang": "zh"
  },
  {
   "id": "design-astra-ad-backlash",
@@ -12336,10 +12200,9 @@
   "date": "2026-09-07",
   "section": "design",
   "has_full": true,
-  "headline": "GPT-6 Astra 광고가 그린 미래에\n창작자들이 등을 돌렸다",
-  "body": "GPT-6 Astra 출시 광고가 그린 창작의 미래를 두고 디자인 업계가 반발했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "GPT-6 Astra广告\n描绘的未来遭创作者抵制",
+  "body": "设计界对GPT-6 Astra发布广告描绘的创作未来表达了不满。",
+  "lang": "zh"
  },
  {
   "id": "design-anti-ai-designs",
@@ -12352,10 +12215,9 @@
   "date": "2026-09-07",
   "section": "design",
   "has_full": true,
-  "headline": "AI를 거부하려고 만든 디자인 다섯",
-  "body": "데코이 폰트부터 연결을 끊은 하드웨어까지, AI 피로에 맞선 디자인 다섯을 골랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "为抗拒AI而\n设计的五件作品",
+  "body": "从诱饵字体到断开连接的硬件，我们选出五件对抗AI疲劳的设计。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-pcb-kicad",
@@ -12368,10 +12230,9 @@
   "date": "2026-09-07",
   "section": "design",
   "has_full": true,
-  "headline": "GPT-6 Astra가 그린\n기판이 실제 조건을 견딜까",
-  "body": "GPT-6 Astra가 회로도만으로 KiCad 보드를 완성한다는 주장을 검증했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "GPT-6 Astra画\n电路板耐用吗",
+  "body": "我们验证了GPT-6 Astra仅凭电路图完成KiCad电路板的说法。",
+  "lang": "zh"
  },
  {
   "id": "books-tcl-p80-ebook-audio",
@@ -12400,10 +12261,9 @@
   "date": "2026-09-07",
   "section": "books",
   "has_full": true,
-  "headline": "경계 없는 독서, 대화하는 독서\n밀리의서재가 그린 읽기의 미래",
-  "body": "kt 밀리의서재가 경계 없는 독서와 대화하는 독서를 포함한 미래 읽기 경험의 다섯 가지 지향점을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无边界阅读\n对话式阅读",
+  "body": "kt Millie's Library提出无边界阅读、对话阅读等未来阅读五大方向。",
+  "lang": "zh"
  },
  {
   "id": "books-library-ai-policy-study",
@@ -12416,10 +12276,9 @@
   "date": "2026-09-07",
   "section": "books",
   "has_full": true,
-  "headline": "생성형 AI 정책을 쓰는\n공공도서관의 실제 문장들",
-  "body": "미국 공공도서관들이 직원과 이용자를 위한 생성형 AI 정책을 어떻게 쓰고 있는지 살핀 논문이 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "公共图书馆写\n生成式AI政策",
+  "body": "一篇论文考察了美国公共图书馆如何为员工和读者制定生成式AI政策。",
+  "lang": "zh"
  },
  {
   "id": "books-copilot-mdl-filing",
@@ -12432,10 +12291,9 @@
   "date": "2026-09-07",
   "section": "books",
   "has_full": true,
-  "headline": "코파일럿은 책을 베끼지 않는다\n마이크로소프트의 법정 답변",
-  "body": "마이크로소프트가 약식판결을 신청하며, 코파일럿이 책을 통째로 재현하는 일은 거의 없다고 법원에 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Copilot不复制\n书籍,微软回应",
+  "body": "微软提交简易判决申请,向法院表示Copilot极少完整再现书籍。",
+  "lang": "zh"
  },
  {
   "id": "books-amazon-book-destruction",
@@ -12448,10 +12306,9 @@
   "date": "2026-09-07",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습을 위해 책등을 자르는 일\n아마존 노동자의 증언",
-  "body": "인쇄된 책의 등을 잘라 스캔하는 아마존 작업자가 AI 학습 데이터의 제작 과정을 증언했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "为训练AI切书脊\n亚马逊员工讲述",
+  "body": "切割并扫描印刷书籍的亚马逊员工讲述了AI训练数据的制作过程。",
+  "lang": "zh"
  },
  {
   "id": "science-polymer",
@@ -12464,10 +12321,9 @@
   "date": "2026-09-06",
   "section": "science",
   "has_full": true,
-  "headline": "수년 걸리던 고분자 개발을\nAI 폐루프 시스템이 앞당긴다",
-  "body": "데이터베이스·AI 모델·자동화 실험실을 연결해 고분자 개발 주기를 크게 단축한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "耗时多年的高分子\n开发被AI加速",
+  "body": "连接数据库、AI模型与自动化实验室,大幅缩短高分子开发周期。",
+  "lang": "zh"
  },
  {
   "id": "science-physicist-ai",
@@ -12480,10 +12336,9 @@
   "date": "2026-09-06",
   "section": "science",
   "has_full": true,
-  "headline": "물리학자가 묻는\nAI 시대에도 변치 않는 것",
-  "body": "물리학자 사라 드머스는 AI의 위험과 이점을 검토하며 APS 정책성명을 준비한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "物理学家追问\nAI时代的不变",
+  "body": "物理学家萨拉·德默斯在权衡AI风险与收益,起草APS政策声明。",
+  "lang": "zh"
  },
  {
   "id": "science-icm-math",
@@ -12496,10 +12351,9 @@
   "date": "2026-09-06",
   "section": "science",
   "has_full": true,
-  "headline": "AI 시대에 수학은\n무엇을 위해 존재하는가",
-  "body": "AI가 증명을 쓰는 시대에 수학자가 지켜야 할 것은 무엇인지를 이 강연에서 다뤘다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI时代数学\n为何而存在",
+  "body": "这场演讲探讨了在AI能够撰写证明的时代,数学家应该坚守什么。",
+  "lang": "zh"
  },
  {
   "id": "science-bci-ai",
@@ -12512,10 +12366,9 @@
   "date": "2026-09-06",
   "section": "science",
   "has_full": true,
-  "headline": "AI와 함께 배우는\n뇌-컴퓨터 인터페이스",
-  "body": "인간의 운동학습과 AI를 결합하자 뇌-컴퓨터 인터페이스의 보정과 성능이 향상됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "与AI共同学习\n脑机接口",
+  "body": "人类运动学习与AI结合,使脑机接口的校准与性能双双提升。",
+  "lang": "zh"
  },
  {
   "id": "science-adaptiveflow",
@@ -12528,9 +12381,9 @@
   "date": "2026-09-06",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 신약 후보 물질을\n1000배 싼 비용으로 찾는다",
-  "body": "세인트주드·하버드가 계산 비용 1000분의 1인 신약 스크리닝 AI를 공개했다.",
-  "lang": "ko",
+  "headline": "AI Finds Drug Candidates\nat 1000x Lower Cost",
+  "body": "St. Jude and Harvard unveiled a drug-screening AI that cuts computing costs 1,000-fold.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -12544,10 +12397,9 @@
   "date": "2026-09-06",
   "section": "music",
   "has_full": true,
-  "headline": "구글, 신형 음악 생성 모델\nLyria 3.5 전면 공개",
-  "body": "구글이 보컬 표현력과 곡 구조를 다듬은 Lyria 3.5를 세 플랫폼에 내놓았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌发布新模型\nLyria 3.5全面上线",
+  "body": "谷歌推出打磨了人声表现与曲式结构的Lyria 3.5,登陆三个平台。",
+  "lang": "zh"
  },
  {
   "id": "music-fl-studio-genai-onramp",
@@ -12560,10 +12412,9 @@
   "date": "2026-09-06",
   "section": "music",
   "has_full": true,
-  "headline": "FL 스튜디오, 생성 AI는\n음악 입문 창구",
-  "body": "이미지라인 경영진은 프롬프트 도구를 DAW 대체가 아닌 입문 통로로 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "FL Studio生成AI\n是音乐入门之门",
+  "body": "Image-Line高管称,提示工具是音乐入门渠道,而非DAW的替代品。",
+  "lang": "zh"
  },
  {
   "id": "music-billboard-ai-transparency",
@@ -12575,10 +12426,9 @@
   "date": "2026-09-06",
   "section": "music",
   "has_full": true,
-  "headline": "빌보드, AI 개입 여부\n차트에 표기하기로",
-  "body": "빌보드가 AI 관여곡을 차트에서 빼는 대신 표기하는 투명성 기준을 마련했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "公告牌标注AI参与\n歌曲不再移出榜单",
+  "body": "公告牌制定透明度标准,对AI参与的歌曲加以标注,而非直接移出榜单。",
+  "lang": "zh"
  },
  {
   "id": "music-aria-bans-ai-charts",
@@ -12591,10 +12441,9 @@
   "date": "2026-09-06",
   "section": "music",
   "has_full": true,
-  "headline": "호주 ARIA, AI 생성곡\n공식 차트에서 전면 퇴출",
-  "body": "호주 ARIA가 20여 개국처럼 전적으로 AI가 만든 곡을 공식 차트에서 뺐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "澳大利亚ARIA\nAI歌曲全面退出榜单",
+  "body": "澳大利亚ARIA效仿20多个国家,将纯AI制作的歌曲从官方榜单中剔除。",
+  "lang": "zh"
  },
  {
   "id": "movies-danny-boyle",
@@ -12607,9 +12456,9 @@
   "date": "2026-09-06",
   "section": "movies",
   "has_full": true,
-  "headline": "대니 보일 신작 잉크에\nAI로 옛 사진 되살렸다",
-  "body": "대니 보일 감독은 신작 잉크에서 생성형 AI로 크레이 형제와 대처 총리를 옛 사진 속에서 되살렸다고 밝혔다.",
-  "lang": "ko",
+  "headline": "Danny Boyle's New Film Ink\nRevives Old Photos With AI",
+  "body": "Director Danny Boyle said his new film Ink used generative AI to revive old photos of the Kray brothers and Thatcher.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -12623,10 +12472,9 @@
   "date": "2026-09-06",
   "section": "movies",
   "has_full": true,
-  "headline": "합성 아티스트 출신 CEO가\nAI 시대 VFX 전략 말하다",
-  "body": "크래프티 에이프스 앨라나 뉴웰 CEO가 합성 아티스트 출신답게 AI 시대 VFX 전략을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "合成师出身CEO\n谈AI时代VFX",
+  "body": "Crafty Apes的CEO Alana Newell以合成师经验谈AI时代VFX战略。",
+  "lang": "zh"
  },
  {
   "id": "movies-ai-coverage",
@@ -12639,10 +12487,9 @@
   "date": "2026-09-06",
   "section": "movies",
   "has_full": true,
-  "headline": "기존 촬영본으로\n없던 카메라 앵글 만든다",
-  "body": "커리어스 리퓨지가 기존 촬영본으로 실제 찍지 않은 카메라 앵글을 만드는 워크플로를 소개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用现有素材\n造出全新镜头",
+  "body": "Curious Refuge介绍了仅用现有素材生成从未拍摄过的镜头的工作流程。",
+  "lang": "zh"
  },
  {
   "id": "games-dwarf-fortress",
@@ -12655,10 +12502,9 @@
   "date": "2026-09-06",
   "section": "games",
   "has_full": true,
-  "headline": "드워프 포트리스 창작자\nAI 시대 인간 서사를 말하다",
-  "body": "타른 애덤스는 플레이어가 인간이 쓴 이야기를 선호하지만 곧 AI에게 크게 시험받을 것이라 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Dwarf Fortress\n创作者谈AI叙事",
+  "body": "塔恩·亚当斯说,玩家更喜欢人类写的故事,但很快将受到AI的严峻考验。",
+  "lang": "zh"
  },
  {
   "id": "games-dlss5-mods",
@@ -12671,10 +12517,9 @@
   "date": "2026-09-06",
   "section": "games",
   "has_full": true,
-  "headline": "DLSS 5 모드\n구형 RTX와 PCSX2까지 확장",
-  "body": "모더들이 유출된 DLSS 5를 구형 RTX와 PCSX2에 적용해 렌더링 성능을 끌어올렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "DLSS 5模组\n扩展至旧RTX与PCSX2",
+  "body": "玩家将泄露的DLSS 5应用于旧款RTX与PCSX2,提升渲染性能。",
+  "lang": "zh"
  },
  {
   "id": "games-dlss5-kcd",
@@ -12687,10 +12532,9 @@
   "date": "2026-09-06",
   "section": "games",
   "has_full": true,
-  "headline": "킹덤 컴 감독\nDLSS 5는 슬롭이 아니다",
-  "body": "킹덤 컴: 딜리버런스 감독이 DLSS 5를 향한 AI 슬롭 비판에 정면으로 반박했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "天国拯救导演\nDLSS 5非劣质",
+  "body": "《天国:拯救》导演正面反驳了针对DLSS 5的AI劣质内容批评。",
+  "lang": "zh"
  },
  {
   "id": "games-artstation",
@@ -12703,10 +12547,9 @@
   "date": "2026-09-06",
   "section": "games",
   "has_full": true,
-  "headline": "아트스테이션 새 소유주\nAI 학습 차단 기본값으로",
-  "body": "아트스테이션 새 운영진이 작품을 AI 학습에 쓰지 못하도록 막는 보호 설정을 기본값으로 전환한다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ArtStation换帅\nAI训练默认拦截",
+  "body": "ArtStation新团队宣布将保护设置设为默认,阻止作品被用于AI训练。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-vive-eagle",
@@ -12719,10 +12562,9 @@
   "date": "2026-09-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "HTC AI 스마트 글라스\n미국·유럽·호주 상륙",
-  "body": "카메라 내장 AI 글라스 바이브 이글이 대만 출시 1년 만에 미국과 유럽, 호주에 정식 상륙한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "HTC AI智能眼镜\n登陆美欧澳",
+  "body": "内置摄像头的AI眼镜Vive Eagle在台湾发布一年后正式登陆美欧澳。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-ugreen-homeagent",
@@ -12735,9 +12577,9 @@
   "date": "2026-09-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "유그린, 로컬 AI\n홈허브 시장 진출",
-  "body": "유그린이 로컬 AI 스마트홈 생태계 홈에이전트와 신규 카메라 라인업을 공개했다.",
-  "lang": "ko",
+  "headline": "Ugreen Enters Home Hub Market\nWith a Local AI Device",
+  "body": "Ugreen unveiled HomeAgent, a local AI smart home ecosystem, along with a new camera lineup.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -12751,10 +12593,9 @@
   "date": "2026-09-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "애플, 시리 AI 탑재한\n신형 홈팟 테스트",
-  "body": "애플이 시리 AI를 탑재한 새 홈팟을 테스트 중이지만 출시는 아직 임박하지 않았다고 전해졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "搭载Siri AI\n新款HomePod测试中",
+  "body": "据悉苹果在测试搭载Siri AI的新款HomePod,但尚未临近发布。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-govee-ai-lighting",
@@ -12767,10 +12608,9 @@
   "date": "2026-09-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "고비, 프롬프트로\nAI 조명 씬 제작",
-  "body": "고비가 IFA 2026에서 텍스트 프롬프트만으로 조명 씬을 만드는 AI 조명 신제품 세 종을 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Govee靠提示词\n打造AI灯光场景",
+  "body": "Govee在IFA 2026发布三款仅靠文字提示即可生成灯光场景的AI新品。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-gemini-home",
@@ -12783,10 +12623,9 @@
   "date": "2026-09-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이 포 홈\n음성·자동화 대개편",
-  "body": "구글이 제미나이 포 홈의 고질적 한계를 없애고 음성 제어와 자동화 관리를 개선했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "语音操作全面升级\n自动化管理更简单",
+  "body": "谷歌为Gemini for Home消除了长期短板,改进了语音控制与自动化管理。",
+  "lang": "zh"
  },
  {
   "id": "design-rtx-spark",
@@ -12799,10 +12638,9 @@
   "date": "2026-09-06",
   "section": "design",
   "has_full": true,
-  "headline": "클라우드 없이 도는 편집\nRTX 스파크 로컬 AI",
-  "body": "포토디렉터 AI 모드는 RTX 스파크에서 생성형 편집을 클라우드 없이 처리한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需云端的编辑\nRTX Spark本地AI",
+  "body": "PhotoDirector的AI模式可在RTX Spark上进行生成式编辑,无需连接云端。",
+  "lang": "zh"
  },
  {
   "id": "design-lamp-robot",
@@ -12815,10 +12653,9 @@
   "date": "2026-09-06",
   "section": "design",
   "has_full": true,
-  "headline": "살아있는 듯한 램프 로봇\n자세 보고 이메일도 답한다",
-  "body": "픽사풍 데스크 로봇 램프가 자세를 살피고 얼굴을 기억하며 이메일도 답장한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "仿佛活着的台灯机器人\n能看姿势还会回邮件",
+  "body": "皮克斯风格的台灯机器人「Lamp」会观察姿势、记住面孔,还能回复邮件。",
+  "lang": "zh"
  },
  {
   "id": "design-dynamic-text",
@@ -12831,10 +12668,9 @@
   "date": "2026-09-06",
   "section": "design",
   "has_full": true,
-  "headline": "포토샵 다이내믹 텍스트\n내용 바뀌면 레이아웃도 자동",
-  "body": "포토샵 다이내믹 텍스트는 콘텐츠가 바뀌면 레이어 여백과 구조를 자동 조정한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Photoshop动态文本\n内容一变排版自动调整",
+  "body": "Photoshop动态文本功能会在内容变化时自动调整图层的边距与结构。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-writing-tells",
@@ -12879,9 +12715,9 @@
   "date": "2026-09-06",
   "section": "books",
   "has_full": true,
-  "headline": "학술출판이 AI 라이선싱\n중심으로 재편된다",
-  "body": "스콜러리 키친이 한 해 트렌드를 짚으며 뉴스콥·르몽드처럼 AI 라이선싱 중심의 재편 흐름을 정리했다.",
-  "lang": "ko",
+  "headline": "Scholarly publishing is\nreorganizing around AI licensing",
+  "body": "Scholarly Kitchen's year-end review found publishing reorganizing around AI licensing, like News Corp and Le Monde.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -12895,10 +12731,9 @@
   "date": "2026-09-06",
   "section": "books",
   "has_full": true,
-  "headline": "팀 오라일리 \"클로드가 다\n썼다\"고 직접 밝혔다",
-  "body": "팀 오라일리는 에세이 후기에서 클로드가 모든 문장을 썼다고 밝히며 AI를 창작 매체로 봐야 한다고 주장했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "「全是Claude写」\n奥莱利亲口承认",
+  "body": "蒂姆·奥莱利在随笔后记中承认,每一句话都是由Claude写的。",
+  "lang": "zh"
  },
  {
   "id": "books-anthropic-watermark",
@@ -12911,10 +12746,9 @@
   "date": "2026-09-06",
   "section": "books",
   "has_full": true,
-  "headline": "앤스로픽 워터마크는 출처 문제를 못 푼다",
-  "body": "앤스로픽의 새 워터마킹 기술은 규제 대응엔 효과적이지만 콘텐츠 출처와 저작 귀속 문제는 풀지 못한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Anthropic水印\n解决不了溯源",
+  "body": "Anthropic的新水印技术能应对监管,却解决不了内容溯源与署名归属问题。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-publishing-scams",
@@ -12927,10 +12761,9 @@
   "date": "2026-09-06",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 만든 출판 사기,\n쓰나미처럼 불어났다",
-  "body": "빅토리아 스트라우스는 AI가 사기 권유와 사칭 메일을 값싸게 대량 생산해 쓰나미급으로 늘었다고 경고했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI造出版骗局\n如海啸般暴增",
+  "body": "维多利亚·斯特劳斯警告,AI廉价量产骗局邮件,数量已呈海啸式暴增。",
+  "lang": "zh"
  },
  {
   "id": "science-small-molecule-atlas",
@@ -12943,10 +12776,9 @@
   "date": "2026-09-05",
   "section": "science",
   "has_full": true,
-  "headline": "예측 질량 스펙트럼 8억 건으로\n정체불명 대사물질을 좁혀낸다",
-  "body": "AIMe는 소분자 1억 개의 스펙트럼을 미리 계산해 검색 가능한 지도로 묶었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "预测谱图8亿条\n锁定未知代谢物",
+  "body": "AIMe预先计算了1亿个小分子的谱图,汇成一张可检索的地图。",
+  "lang": "zh"
  },
  {
   "id": "science-mammogram-ai-review",
@@ -12959,10 +12791,9 @@
   "date": "2026-09-05",
   "section": "science",
   "has_full": true,
-  "headline": "AI는 놓친 유방암을 찾아내지만\n환자에게 이득인지는 아직 모른다",
-  "body": "AI가 판독이 놓친 중간암을 찾아내도 환자 예후가 나아진다는 증거는 아직 없다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI能找到漏诊癌\n但获益尚不明确",
+  "body": "即使AI发现了漏诊的中间期癌症,也尚无证据表明患者预后会改善。",
+  "lang": "zh"
  },
  {
   "id": "science-llm-attention-deficit",
@@ -12975,9 +12806,9 @@
   "date": "2026-09-05",
   "section": "science",
   "has_full": true,
-  "headline": "스트룹 검사에 앉힌 언어 모델,\n목록이 길어지자 무너졌다",
-  "body": "스트룹 검사에서 목록이 길어지자 GPT-5와 클로드의 정확도가 급격히 떨어졌다.",
-  "lang": "ko",
+  "headline": "Language models fail the\nStroop test as lists grow",
+  "body": "In a Stroop test, GPT-5 and Claude's accuracy dropped sharply once the lists got longer.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -12991,10 +12822,9 @@
   "date": "2026-09-05",
   "section": "science",
   "has_full": true,
-  "headline": "유럽 유전체 데이터를 더 넣을수록\n예측이 나빠지는 지점이 있다",
-  "body": "일본인 표본이 1만 5천 명을 넘자 유럽 데이터를 섞을수록 예측이 나빠졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "欧洲数据加得多\n预测反而更差",
+  "body": "当日本样本量超过1.5万人后,混入欧洲数据反而让预测效果变差。",
+  "lang": "zh"
  },
  {
   "id": "science-ai2-hard-parts",
@@ -13007,10 +12837,9 @@
   "date": "2026-09-05",
   "section": "science",
   "has_full": true,
-  "headline": "AI 연구 에이전트가 번번이 막히는\n다섯 지점을 Ai2가 정리했다",
-  "body": "Ai2는 과학 에이전트가 막히는 지점으로 조종성과 위임 판단 등 다섯을 꼽았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI代理反复卡住\nAi2梳理5个痛点",
+  "body": "Ai2指出科学代理卡壳的五个环节,包括可操控性与委派判断。",
+  "lang": "zh"
  },
  {
   "id": "music-songscription-publishing",
@@ -13023,10 +12852,9 @@
   "date": "2026-09-05",
   "section": "music",
   "has_full": true,
-  "headline": "송스크립션, 퍼블리셔를 피하지 않고\n전사 엔진을 라이선싱한다",
-  "body": "녹음을 악보로 바꾸는 송스크립션이 퍼블리셔를 우회하지 않고 라이선스 계약을 맺는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Songscription\n向出版商授权技术",
+  "body": "能把录音转换为乐谱的Songscription,没有绕开出版商,而是与其签署了授权协议。",
+  "lang": "zh"
  },
  {
   "id": "music-socan-sues-suno",
@@ -13039,10 +12867,9 @@
   "date": "2026-09-05",
   "section": "music",
   "has_full": true,
-  "headline": "SOCAN이 수노를 제소하며\n침해 트랙 150개를 특정했다",
-  "body": "SOCAN이 레퍼토리 137곡을 베꼈다며 수노 생성 트랙 150개를 특정했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "SOCAN起诉Suno\n指150首侵权音轨",
+  "body": "SOCAN称,Suno生成的150首音轨抄袭了其代理的137首歌曲。",
+  "lang": "zh"
  },
  {
   "id": "music-dreamtonics-instrument-x",
@@ -13055,10 +12882,9 @@
   "date": "2026-09-05",
   "section": "music",
   "has_full": true,
-  "headline": "드림토닉스, 샘플 라이브러리 없는\n오케스트라 신경망 악기를 냈다",
-  "body": "수 기가바이트 샘플 라이브러리 대신 신경망 모델이 악보를 소리로 바꾼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Dreamtonics出乐器\n无需采样库发布",
+  "body": "该乐器用神经网络模型将乐谱直接转换为声音,无需数吉字节容量的采样库。",
+  "lang": "zh"
  },
  {
   "id": "music-accentize-chameleon-emmy",
@@ -13071,10 +12897,9 @@
   "date": "2026-09-05",
   "section": "music",
   "has_full": true,
-  "headline": "리버브를 대신 맞춰주는 카멜레온,\n액센타이즈에 두 번째 에미상",
-  "body": "머신러닝으로 녹음의 잔향을 맞추는 카멜레온이 엔지니어링 에미상을 받았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Chameleon自动调混响\nAccentize再获艾美奖",
+  "body": "机器学习自动匹配录音混响的Chameleon插件获得了艾美科学与工程奖。",
+  "lang": "zh"
  },
  {
   "id": "movies-what-makes-good-rotoscope",
@@ -13087,9 +12912,9 @@
   "date": "2026-09-05",
   "section": "movies",
   "has_full": true,
-  "headline": "좋은 로토스코프를 가르는 기준을\n에미상 후보 VFX 슈퍼바이저가 짚었다",
-  "body": "에미상 후보 VFX 슈퍼바이저 마리온 스페이츠가 좋은 로토와 나쁜 로토를 가른다.",
-  "lang": "ko",
+  "headline": "An Emmy-nominated VFX supervisor\nexplains good vs. bad roto",
+  "body": "Emmy-nominated VFX supervisor Marion Spates breaks down what separates good rotoscoping from bad.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13103,10 +12928,9 @@
   "date": "2026-09-05",
   "section": "movies",
   "has_full": true,
-  "headline": "타마르 AI가 베네치아에 왔고\n스트리머 글랜즈도 문을 열었다",
-  "body": "타마르 AI가 베네치아에 TapNow를 들고 왔고 스트리머 글랜즈도 4일 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Tamar AI登场\nGlanze也上线",
+  "body": "Tamar AI携TapNow登陆威尼斯，流媒体Glanze也于4日上线。",
+  "lang": "zh"
  },
  {
   "id": "movies-over-500-free-maya-animation",
@@ -13119,10 +12943,9 @@
   "date": "2026-09-05",
   "section": "movies",
   "has_full": true,
-  "headline": "무료 마야 애니메이션 툴 500여 개가\n한 라이브러리로 모였다",
-  "body": "Animo v10.0이 툴 에디터로 무료 마야 툴 500여 개를 한자리에 모았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "500款免费Maya工具\n汇入一个库",
+  "body": "Animo v10.0用工具编辑器整合500多款免费Maya工具。",
+  "lang": "zh"
  },
  {
   "id": "movies-one-new-categories-at-ves",
@@ -13135,10 +12958,9 @@
   "date": "2026-09-05",
   "section": "movies",
   "has_full": true,
-  "headline": "VES 어워드에 카메라 안에서 만든\n효과를 따로 시상하는 부문이 생겼다",
-  "body": "제25회 VES 어워드가 실사 부문에 인카메라 이펙트 상을 새로 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "机内特效独立\n设VES新奖项",
+  "body": "第25届VES视觉特效协会奖将在实拍类别新增机内特效奖项。",
+  "lang": "zh"
  },
  {
   "id": "movies-introducing-solaris-our-first-interface",
@@ -13151,10 +12973,9 @@
   "date": "2026-09-05",
   "section": "movies",
   "has_full": true,
-  "headline": "런웨이가 인터페이스를 프레임 단위로\n만드는 월드 모델 솔라리스를 냈다",
-  "body": "런웨이가 코드 없이 인터페이스를 프레임마다 만들어내는 솔라리스를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Solaris按帧\n生成界面画面",
+  "body": "Runway发布无需代码、逐帧生成界面的世界模型Solaris。",
+  "lang": "zh"
  },
  {
   "id": "games-modder-enables-dlss-5-neural",
@@ -13167,10 +12988,9 @@
   "date": "2026-09-05",
   "section": "games",
   "has_full": true,
-  "headline": "모더가 라데온 RX 9070 XT에\nDLSS 5 뉴럴 렌더링을 얹었다",
-  "body": "RX 9070 XT에 뉴럴 렌더링을 켜자 프레임이 80대에서 11~12로 내려갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "RX 9070 XT上\n跑通DLSS 5 NR",
+  "body": "开启神经渲染后，RX 9070 XT帧数从80多骤降到11~12。",
+  "lang": "zh"
  },
  {
   "id": "games-hands-dlss-5-nba-2k27",
@@ -13199,10 +13019,9 @@
   "date": "2026-09-05",
   "section": "games",
   "has_full": true,
-  "headline": "서브스턴스 디자이너 노드 두 갈래로\n조개 장식 벽을 통째로 만들었다",
-  "body": "Coraline Lyu는 조개와 소라 생성기를 나눠 짜고 벽 여덟 종을 뽑아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "两组Substance节点\n拼出整面贝壳墙",
+  "body": "Coraline Lyu分别搭建贝壳和海螺生成器，做出八种墙面。",
+  "lang": "zh"
  },
  {
   "id": "games-ai-panic-forcing-developers-prove",
@@ -13215,9 +13034,9 @@
   "date": "2026-09-05",
   "section": "games",
   "has_full": true,
-  "headline": "AI 슬롭이라던 휴먼카인드 2 트레일러\n제작사가 촬영 현장 영상을 내놨다",
-  "body": "Amplitude는 실제 세트가 담긴 90초 영상을 내놓고 AI 사용을 부인했다.",
-  "lang": "ko",
+  "headline": "Called AI slop, the Humankind 2\ndeveloper shows how it was shot",
+  "body": "Amplitude released a 90-second behind-the-scenes video with real sets and denied using AI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13263,10 +13082,9 @@
   "date": "2026-09-05",
   "section": "gadgets",
   "has_full": true,
-  "headline": "책상 위 로봇에서 쏙 빼내\n목에 거는 모듈형 AI 웨어러블",
-  "body": "링버스가 로봇 몸체에서 빼내 목에 거는 모듈형 AI 웨어러블을 선보였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "从桌面机器人抽出\n挂脖佩戴的模块AI",
+  "body": "Ringverse推出一款可从机器人机身取出、挂在脖子上使用的模块化AI穿戴设备。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-gemini-overlay-bubble",
@@ -13279,10 +13097,9 @@
   "date": "2026-09-05",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이 오버레이가 버블로 접힌다,\n안드로이드에 멀티태스킹 추가",
-  "body": "제미나이 오버레이에 최소화 버튼이 붙어 버블로 접어 두고 다른 앱을 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gemini悬浮窗变气泡\nAndroid支持多任务",
+  "body": "Gemini悬浮窗新增最小化按钮，可收成气泡后使用其他应用。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-anker-mindbase-hub",
@@ -13295,9 +13112,9 @@
   "date": "2026-09-05",
   "section": "gadgets",
   "has_full": true,
-  "headline": "앵커가 내놓은 홈 허브 마인드베이스,\n온디바이스 AI에 NAS까지 넣었다",
-  "body": "앵커가 매터 제어와 NAS, 온디바이스 AI를 한 상자에 담은 홈 허브를 내놨다.",
-  "lang": "ko",
+  "headline": "Anker's new home hub MindBase\npacks on-device AI and NAS",
+  "body": "Anker unveiled a home hub that combines Matter control, NAS storage, and on-device AI in a single box.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13311,10 +13128,9 @@
   "date": "2026-09-05",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 만든 음식 이미지는\n왜 늘 같은 방식으로 망가지나",
-  "body": "디퓨전 모델은 가늘고 이어지다 끝나는 구조에 약해서 국수와 촉수 형태가 번진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI生成的食物图像\n为何总以同样方式崩坏",
+  "body": "扩散模型不擅长处理细长渐变消失的结构，导致面条和触手形态晕开。",
+  "lang": "zh"
  },
  {
   "id": "design-parker-only-went-made-those",
@@ -13327,10 +13143,9 @@
   "date": "2026-09-05",
   "section": "design",
   "has_full": true,
-  "headline": "링크드인에서 뜬 파커 안티 AI 시안이\n타임스스퀘어 빌보드에 걸렸다",
-  "body": "링크드인 시안이 350편 공모로 번졌고 파커는 10편을 타임스스퀘어에 걸었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "派克反AI方案\n登上时代广场",
+  "body": "领英创意引发350件投稿，派克把其中10件挂上时代广场。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-motion-basics-time-stamped",
@@ -13343,10 +13158,9 @@
   "date": "2026-09-05",
   "section": "design",
   "has_full": true,
-  "headline": "Figma Motion 댓글은 파일이 아니라\n애니메이션의 그 순간에 붙는다",
-  "body": "도구 모음에서 댓글을 고르고 재생 헤드를 옮기면 그 시점에 피드백이 달린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Motion评论不绑\n文件绑动画瞬间",
+  "body": "在工具栏里选中评论，拖动播放头，就能把反馈固定在那一刻。",
+  "lang": "zh"
  },
  {
   "id": "design-auto-syncing-tailwind-config-from",
@@ -13359,10 +13173,9 @@
   "date": "2026-09-05",
   "section": "design",
   "has_full": true,
-  "headline": "Figma 변수를 풀 리퀘스트마다\nTailwind 설정으로 자동 동기화",
-  "body": "Figma 변수를 토큰으로 뽑아 풀 리퀘스트마다 Tailwind 프리셋을 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma变量每次\nPR自动同步配置",
+  "body": "每次拉取请求都会把Figma变量转成Tailwind预设。",
+  "lang": "zh"
  },
  {
   "id": "design-armorpaint-1-0-out-after",
@@ -13375,10 +13188,9 @@
   "date": "2026-09-05",
   "section": "design",
   "has_full": true,
-  "headline": "ArmorPaint 1.0, 8년 얼리 액세스 끝에\nC로 새로 짜고 정식 출시",
-  "body": "Haxe와 V8을 걷어내고 C로 다시 짜서 메모리를 덜 쓰고 큰 모델도 칠한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ArmorPaint 1.0\n8年测试后用C重写",
+  "body": "甩开Haxe和V8，改用C重写，省内存还能画更大的模型。",
+  "lang": "zh"
  },
  {
   "id": "books-u-s-department-justice-files",
@@ -13391,10 +13203,9 @@
   "date": "2026-09-05",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습은 공정 이용이라고\n미 법무부가 법원에 의견서를 냈다",
-  "body": "미 법무부는 유료 라이선스를 강제하면 미국 AI 기업이 불리해진다고 법원에 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI训练属合理使用\n美司法部呈交法院",
+  "body": "美司法部向法院表示，强制付费许可将使美国AI企业处于不利地位。",
+  "lang": "zh"
  },
  {
   "id": "books-top-wsj-editor-approves-ai",
@@ -13407,10 +13218,9 @@
   "date": "2026-09-05",
   "section": "books",
   "has_full": true,
-  "headline": "월스트리트저널이 사설 지면에\nAI 사용을 표기 없이 허용했다",
-  "body": "WSJ 오피니언 편집장이 표기 없는 AI 기고를 공식 승인했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "华尔街日报社论\n允许AI无需标注",
+  "body": "美国《华尔街日报》观点版主编正式批准无需标注的AI撰稿。",
+  "lang": "zh"
  },
  {
   "id": "books-google-rolls-out-ai-chatbots",
@@ -13422,10 +13232,9 @@
   "date": "2026-09-05",
   "section": "books",
   "has_full": true,
-  "headline": "구글이 산 책 안에 AI를 넣었다\n출판사와 저자가 동의한 조건으로",
-  "body": "구글 플레이 북스에서 산 책에 질문과 퀴즈, 인포그래픽 기능이 열렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌给购买的书\n装上出版社认可的AI",
+  "body": "谷歌Play图书购买的书籍开放了问答、测验和信息图功能。",
+  "lang": "zh"
  },
  {
   "id": "books-anthropic-copyright-settlement-publishers-making",
@@ -13454,9 +13263,9 @@
   "date": "2026-09-04",
   "section": "science",
   "has_full": true,
-  "headline": "딥마인드 WeatherNext 3,\n지금까지 가장 정확한 지구 예보",
-  "body": "딥마인드의 새 기상 모델은 연산을 확 줄이고도 물리 기반 수치예보를 앞질렀다.",
-  "lang": "ko",
+  "headline": "DeepMind's WeatherNext 3 is\nits most accurate forecast yet",
+  "body": "DeepMind's new weather model cut computation sharply yet still outperformed physics-based numerical forecasts.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13470,10 +13279,9 @@
   "date": "2026-09-04",
   "section": "science",
   "has_full": true,
-  "headline": "AI 피험자로 사람을 대신하긴 이르다",
-  "body": "LLM이 흉내 낸 피험자 집단이 사람과 어긋나며 결과를 왜곡할 지점이 드러났다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI受试者还不能\n完全替代人类",
+  "body": "LLM模拟出的受试者群体与真人存在偏差，可能扭曲研究结果。",
+  "lang": "zh"
  },
  {
   "id": "science-male-fly-connectome",
@@ -13486,10 +13294,9 @@
   "date": "2026-09-04",
   "section": "science",
   "has_full": true,
-  "headline": "수컷 초파리 뇌 전체를 시냅스\n단위까지 하나씩 그려냈다",
-  "body": "AI 분할로 완성한 수컷 초파리 커넥톰은 신경과학이 견줄 두 번째 뇌 지도다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "雄蝇全脑突触\n级逐一绘制完成",
+  "body": "AI分割完成的雄性果蝇连接组是神经科学第二份可比对的脑图。",
+  "lang": "zh"
  },
  {
   "id": "science-fda-genai-pilot",
@@ -13502,10 +13309,9 @@
   "date": "2026-09-04",
   "section": "science",
   "has_full": true,
-  "headline": "FDA, 정식 승인 나기 전에도\n생성형 AI 의료기기를 허용한다",
-  "body": "FDA 시범 사업이 정식 허가 전 생성형 AI 의료기기를 환자에게 쓸 길을 텄다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "正式批准前\nFDA已放行生成AI",
+  "body": "FDA试点项目让生成式AI医疗设备在正式获批前就能用于患者。",
+  "lang": "zh"
  },
  {
   "id": "science-ai-experiment-design",
@@ -13518,10 +13324,9 @@
   "date": "2026-09-04",
   "section": "science",
   "has_full": true,
-  "headline": "사람이 짠 물리 실험을 AI가 앞질렀다",
-  "body": "자연법칙을 캘 실험 장치를 AI가 제안했고, 사람 설계보다 나은 구성이 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "人类设计的物理实验\n被AI全面超越",
+  "body": "AI提出的实验装置用来探测自然规律，其设计优于人类方案。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-studio2-plugins",
@@ -13534,10 +13339,9 @@
   "date": "2026-09-04",
   "section": "music",
   "has_full": true,
-  "headline": "수노 스튜디오 2.0은 채팅창 한 줄을\n그대로 돌아가는 플러그인으로 바꾼다",
-  "body": "곡을 만들어주던 도구가 그 곡을 다듬을 플러그인까지 프롬프트로 지어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "聊天框一行文字\n变成可运行的插件",
+  "body": "Suno Studio 2.0能把写歌工具变成能打磨歌曲的插件，全靠提示词。",
+  "lang": "zh"
  },
  {
   "id": "music-producely-dialr",
@@ -13550,10 +13354,9 @@
   "date": "2026-09-04",
   "section": "music",
   "has_full": true,
-  "headline": "다이얼러가 플러그인 라이브러리를 훑어\n노브 배치를 스스로 만들어 온다",
-  "body": "MIDI 러닝을 건너뛰고 내 플러그인에 맞춘 노브 프로파일을 클라우드가 만들어 보낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Dialr扫描插件库\n自动生成旋钮布局",
+  "body": "它跳过MIDI学习，云端会根据你的插件自动生成旋钮方案。",
+  "lang": "zh"
  },
  {
   "id": "music-moises-advisors",
@@ -13566,9 +13369,9 @@
   "date": "2026-09-04",
   "section": "music",
   "has_full": true,
-  "headline": "아르민 반 뷔렌과 레이드백 루크가\n모이지스 스튜디오 도구를 손본다",
-  "body": "라이선스 받은 음원만 학습했다는 스템 분리·마스터링 도구를 두 프로듀서가 함께 다듬는다.",
-  "lang": "ko",
+  "headline": "Armin van Buuren and Laidback\nLuke help refine Moises tools",
+  "body": "Two producers are refining stem-separation and mastering tools trained only on licensed music.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13582,10 +13385,9 @@
   "date": "2026-09-04",
   "section": "music",
   "has_full": true,
-  "headline": "오다시티 4가 AI 도구는 그대로 둔 채\n편집기 화면을 통째로 다시 그렸다",
-  "body": "클립 작업을 새로 짜면서도 스템 분리와 전사 같은 AI 도구는 그대로 뒀다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI工具不变\n编辑界面重绘",
+  "body": "Audacity 4重做了剪辑操作，却保留了人声分离和转录等AI工具。",
+  "lang": "zh"
  },
  {
   "id": "music-alok-personalised-mv",
@@ -13598,10 +13400,9 @@
   "date": "2026-09-04",
   "section": "music",
   "has_full": true,
-  "headline": "알록은 헤드폰을 산 팬 한 사람마다\n뮤직비디오를 따로 한 편씩 만들어 줬다",
-  "body": "한 곡에 영상 하나라는 공식을 깨고 구매 건마다 다른 뮤직비디오를 AI가 렌더링했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "每位买耳机的粉丝\n都有专属MV",
+  "body": "打破一曲一片的惯例，AI为每一笔购买都渲染出不同的音乐录影带。",
+  "lang": "zh"
  },
  {
   "id": "movies-showcraft-public",
@@ -13614,9 +13415,9 @@
   "date": "2026-09-04",
   "section": "movies",
   "has_full": true,
-  "headline": "대본에서 최종 편집까지 한 줄로 잇는\n쇼크래프트가 누구에게나 열렸다",
-  "body": "시리즈 두 편을 실제로 끝낸 제작 환경이 이제 일반 사용자에게도 열렸다.",
-  "lang": "ko",
+  "headline": "Showcraft, one pipeline from\nscript to final cut, opens up",
+  "body": "Showcraft, the production environment behind two finished series, is now open to the public.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13630,10 +13431,9 @@
   "date": "2026-09-04",
   "section": "movies",
   "has_full": true,
-  "headline": "실존 인물 레퍼런스가 막힐 때\n얼굴 그리드로 뚫는 시드댄스 우회법",
-  "body": "실존 인물이라 거부당한 레퍼런스를 통과시키는 요령과 그 대가를 함께 재 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "真人素材被挡时\n格子脸绕过去",
+  "body": "用Seedance 2.5实测给被拒真人素材打马赛克过审的代价。",
+  "lang": "zh"
  },
  {
   "id": "movies-hope-mocap",
@@ -13646,9 +13446,9 @@
   "date": "2026-09-04",
   "section": "movies",
   "has_full": true,
-  "headline": "'호프' 메이킹 트레일러에 담긴\n비칸데르와 파스벤더의 모캡 현장",
-  "body": "두 배우의 캡처 세션이 전면 디지털 캐릭터로 넘어가는 지점을 그대로 보여 준다.",
-  "lang": "ko",
+  "headline": "Inside Hope's making trailer:\nVikander and Fassbender's mocap",
+  "body": "It shows exactly where the two actors' capture sessions turn into fully digital characters.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13662,10 +13462,9 @@
   "date": "2026-09-04",
   "section": "movies",
   "has_full": true,
-  "headline": "런웨이 GWM Worlds 2, 클립 대신\n걸어 들어가는 세계를 내놓는다",
-  "body": "클립 대신 실시간으로 걸어 들어가는 공간이 나오면서 프리비즈의 전제가 흔들린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "GWM Worlds 2\n不出片出世界",
+  "body": "不再输出片段，而是能实时走入的空间，这动摇了传统预览的前提。",
+  "lang": "zh"
  },
  {
   "id": "movies-avid-mc-2026-8",
@@ -13678,9 +13477,9 @@
   "date": "2026-09-04",
   "section": "movies",
   "has_full": true,
-  "headline": "아비드 미디어 컴포저 2026.8이\n1차 라인 컷을 대신 잡아 준다",
-  "body": "멀티캠 전사본에서 화자를 읽어 1차 라인 컷을 자동으로 잡아 주는 기능이 들어왔다.",
-  "lang": "ko",
+  "headline": "Avid Media Composer 2026.8\nnow auto-builds first cuts",
+  "body": "It reads speakers in multicam transcripts to automatically build a first line cut.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13694,9 +13493,9 @@
   "date": "2026-09-04",
   "section": "games",
   "has_full": true,
-  "headline": "AI가 살짝 닿은 컷신 하나에\n스팀 출시 반응이 통째로 뒤집혔다",
-  "body": "위시리스트 10만을 쌓은 인디가 AI 컷신 하나로 대체로 부정적까지 내려앉았다.",
-  "lang": "ko",
+  "headline": "One AI-touched cutscene\nflipped its Steam launch",
+  "body": "An indie that built 100,000 wishlists dropped to Mostly Negative over a single AI cutscene.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13710,10 +13509,9 @@
   "date": "2026-09-04",
   "section": "games",
   "has_full": true,
-  "headline": "팬이 억지로 넣은 DLSS 5\n노 맨즈 스카이의 룩을 지울까",
-  "body": "모더가 DLSS 5를 밀어 넣자 헬로게임즈는 아트 디렉션 문제라고 답했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "粉丝硬塞DLSS5\n会毁掉那种画风?",
+  "body": "modder硬塞进DLSS5后，Hello Games回应称这是美术方向问题。",
+  "lang": "zh"
  },
  {
   "id": "games-bytebrew-liveops-agents",
@@ -13726,10 +13524,9 @@
   "date": "2026-09-04",
   "section": "games",
   "has_full": true,
-  "headline": "바이트브루가 라이브옵스 전체를\nAI 에이전트 대화 안으로 넣었다",
-  "body": "분석에서 배포까지 한 대화로 끝내 주당 여덟 시간을 아낀다고 바이트브루는 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ByteBrew将全部运营\n塞进AI对话里",
+  "body": "从分析到上线靠一次对话完成，ByteBrew称每周能省八小时。",
+  "lang": "zh"
  },
  {
   "id": "games-ai-disclosure-bait",
@@ -13742,10 +13539,9 @@
   "date": "2026-09-04",
   "section": "games",
   "has_full": true,
-  "headline": "'최종 빌드엔 AI 없다'는 말이\n프로젝트 전체를 뜻하지는 않는다",
-  "body": "출시 빌드에 AI 에셋이 없다는 해명은 기획과 프리프로덕션까지 덮어 주지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "「最终版无AI」\n不代表全程如此",
+  "body": "发行版里没有AI素材的说法，并不能就此掩盖策划和预制作阶段的问题。",
+  "lang": "zh"
  },
  {
   "id": "games-agents404-bezi",
@@ -13758,10 +13554,9 @@
   "date": "2026-09-04",
   "section": "games",
   "has_full": true,
-  "headline": "AI로 뽑은 한 달짜리 프로토타입\n위시리스트는 두 달 만에 12만",
-  "body": "Bezi로 프로토타입을 한 달에 끝냈지만 코어 시스템은 끝까지 사람이 짰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI做的1个月原型\n两月愿望单12万",
+  "body": "虽然用Bezi一个月就做完了原型，但核心系统始终由人工编写完成。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-vision-pro-hip-surgery",
@@ -13774,10 +13569,9 @@
   "date": "2026-09-04",
   "section": "gadgets",
   "has_full": true,
-  "headline": "수술실에 들어간 비전 프로,\nFDA 승인도 받아 냈다",
-  "body": "스트라이커 비전 프로 수술 앱이 7월 FDA 승인을 받아 고관절 관절경에 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Vision Pro进手术室\n还获FDA批准",
+  "body": "史赛克Vision Pro手术应用7月获FDA批准，用于髋关节镜手术。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-nvidia-rtx-spark-ai-pcs",
@@ -13790,9 +13584,9 @@
   "date": "2026-09-04",
   "section": "gadgets",
   "has_full": true,
-  "headline": "엔비디아 RTX 스파크,\nAI PC가 실물로 나왔다",
-  "body": "모델을 기기에서 돌리는 RTX 스파크 노트북과 미니 PC가 IFA에 실물로 나왔다.",
-  "lang": "ko",
+  "headline": "Nvidia RTX Spark chip:\nAI PCs are now real",
+  "body": "RTX Spark laptops and mini PCs that run models on the device made their first appearance at IFA.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13806,10 +13600,9 @@
   "date": "2026-09-04",
   "section": "gadgets",
   "has_full": true,
-  "headline": "집 안에 놀고 있는 GPU를\n하나로 묶는 엔비디아 PAIR",
-  "body": "PAIR는 집 안 GPU에 남는 사이클을 끌어모아 에이전트 작업을 나눠 돌린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "把家中闲置GPU\n连成一体的PAIR",
+  "body": "PAIR把家里闲置GPU的余量算力聚在一起,分摊智能体任务。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-lenovo-aeroblade-rollable",
@@ -13822,9 +13615,9 @@
   "date": "2026-09-04",
   "section": "gadgets",
   "has_full": true,
-  "headline": "레노버, 14인치 섀시에서\n화면만 17인치로 펴진다",
-  "body": "레노버 프로젝트 스완은 14인치 본체 안에 17인치 롤러블 화면을 말아 넣었다.",
-  "lang": "ko",
+  "headline": "Lenovo unfurls a 17-inch\nscreen from a 14-inch chassis",
+  "body": "Lenovo's Project Swan rolls a 17-inch rollable screen up inside a 14-inch chassis.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13838,10 +13631,9 @@
   "date": "2026-09-04",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이 스파크, 이제는\n구글 포토 편집까지 대신한다",
-  "body": "제미나이 스파크가 구글 포토를 직접 몰고 다단계 편집과 공유까지 끝낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gemini Spark\n现在还能编辑相册",
+  "body": "Gemini Spark直接操控Google相册,完成多步编辑和分享。",
+  "lang": "zh"
  },
  {
   "id": "design-mancity-ai-kit",
@@ -13854,10 +13646,9 @@
   "date": "2026-09-04",
   "section": "design",
   "has_full": true,
-  "headline": "맨시티 팬들이 AI로 디자인한 유니폼이\n실제 프로 경기 그라운드에 오른다",
-  "body": "푸마의 생성형 도구로 팬이 그린 맨시티 유니폼이 실제 프로 경기에서 쓰인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "曼城球迷用AI\n设计的球衣登场",
+  "body": "借助Puma生成工具,球迷设计的曼城球衣登上了职业赛场。",
+  "lang": "zh"
  },
  {
   "id": "design-jetzero-blended-wing",
@@ -13886,10 +13677,9 @@
   "date": "2026-09-04",
   "section": "design",
   "has_full": true,
-  "headline": "이제 커서 클라우드 에이전트를\n버셀 샌드박스 안에서 돌린다",
-  "body": "코딩 에이전트가 격리된 마이크로VM에서 돌고 실행 자리도 팀 인프라로 옮겨간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Cursor云端代理\n现在跑在Vercel沙箱里",
+  "body": "编码智能体运行在隔离的微型VM里,执行环境也转移到了团队的基础设施上。",
+  "lang": "zh"
  },
  {
   "id": "design-artstation-noai-default",
@@ -13902,10 +13692,9 @@
   "date": "2026-09-04",
   "section": "design",
   "has_full": true,
-  "headline": "아트스테이션이 올라온 모든 작업에\nNoAI 보호를 기본으로 걸었다",
-  "body": "이미 올라간 작업에도 NoAI 표식이 붙었고 AI 크롤러를 막는 장치도 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "全站作品默认\n开启NoAI保护",
+  "body": "ArtStation给已发布的作品打上NoAI标记,并加入了阻止AI爬虫的机制。",
+  "lang": "zh"
  },
  {
   "id": "design-agent-native-clips",
@@ -13918,10 +13707,9 @@
   "date": "2026-09-04",
   "section": "design",
   "has_full": true,
-  "headline": "버그 화면과 콘솔 로그를 한 번에\n담아내는 무료 오픈소스 도구",
-  "body": "녹화 영상에 콘솔 로그와 실패한 네트워크 요청이 붙어 에이전트가 읽는 증거로 남는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一键留存报错画面\n控制台日志的免费开源工具",
+  "body": "录屏自带控制台日志和失败的网络请求,留下可供智能体阅读的证据。",
+  "lang": "zh"
  },
  {
   "id": "books-wandering-taste",
@@ -13934,10 +13722,9 @@
   "date": "2026-09-04",
   "section": "books",
   "has_full": true,
-  "headline": "알고리즘이 취향을 좁혀 올 때\n소설가는 일부러 길을 잃어 본다",
-  "body": "들어오는 것이 매끄러울수록 취향은 좁아진다며 작정하고 헤매는 독서 습관을 권한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "算法收窄品味时\n小说家故意迷路",
+  "body": "她说进来的东西越顺滑,品味就越狭窄,于是提倡故意迷路的阅读习惯。",
+  "lang": "zh"
  },
  {
   "id": "books-pangram-trust",
@@ -13950,9 +13737,9 @@
   "date": "2026-09-04",
   "section": "books",
   "has_full": true,
-  "headline": "AI 탐지의 잣대가 된 Pangram\n그 점수를 어디까지 믿어야 하나",
-  "body": "편집자와 기자가 원고를 걸러낼 때 기대는 도구가 작가 경력을 가르는 관문이 됐다.",
-  "lang": "ko",
+  "headline": "Pangram, now the AI-detection\nstandard. How far to trust it?",
+  "body": "The tool editors and reporters lean on to screen manuscripts has become a gate that decides writers' careers.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -13966,10 +13753,9 @@
   "date": "2026-09-04",
   "section": "books",
   "has_full": true,
-  "headline": "사람은 읽는데 AI는 못 읽는\nDecoy Font가 나왔다",
-  "body": "사람 눈에는 멀쩡히 읽히는데 언어모델과 크롤러는 끝내 못 읽는 활자다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "人能读AI不能\nDecoy Font问世",
+  "body": "人眼能轻松读出,但语言模型和爬虫始终无法读懂的一种字体。",
+  "lang": "zh"
  },
  {
   "id": "books-author-solar-sail",
@@ -13982,10 +13768,9 @@
   "date": "2026-09-04",
   "section": "books",
   "has_full": true,
-  "headline": "10년 뒤에도 독자에게 가 닿는\n저자 마케팅만 골라 남기라고 한다",
-  "body": "25년 차 작가가 지금의 출판 환경에 맞춰 저자 사업을 다시 짜는 법을 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "能触达十年后读者\n的作者营销才该留",
+  "body": "从业25年的作家讲述如何按当下的出版环境重新规划作者事业。",
+  "lang": "zh"
  },
  {
   "id": "books-1653-cipher",
@@ -13998,9 +13783,9 @@
   "date": "2026-09-04",
   "section": "books",
   "has_full": true,
-  "headline": "1653년부터 눈앞에 있던 왕당파 암호\nClaude가 44분 만에 풀었다",
-  "body": "연구자 누구도 못 풀던 1653년 숫자 퍼즐을 앤스로픽 모델이 혼자 풀어냈다.",
-  "lang": "ko",
+  "headline": "A royalist cipher since 1653\nClaude solved it in 44 minutes",
+  "body": "No researcher had solved the 1653 numeric puzzle, but an Anthropic model solved it alone.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14014,10 +13799,9 @@
   "date": "2026-09-03",
   "section": "science",
   "has_full": true,
-  "headline": "시카고의 명령이 10,596km 밖\n대전의 뇌 이식장치를 움직였다",
-  "body": "RAPIDO는 시카고에서 온 명령에 평균 109밀리초 만에 응답했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "芝加哥指令跨10,596公里\n操控大田的脑植入装置",
+  "body": "RAPIDO对来自芝加哥的指令平均用109毫秒做出响应。",
+  "lang": "zh"
  },
  {
   "id": "science-pacman-plasma-20ms",
@@ -14030,10 +13814,9 @@
   "date": "2026-09-03",
   "section": "science",
   "has_full": true,
-  "headline": "핵융합 플라스마를 20밀리초마다\n다시 판단하는 AI 제어 체계",
-  "body": "PACMAN은 DIII-D에서 20밀리초마다 플라스마를 다시 읽고 제어했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "核聚变等离子体每20毫秒\n重新判断的AI控制体系",
+  "body": "PACMAN在DIII-D上每20毫秒重新读取并控制等离子体。",
+  "lang": "zh"
  },
  {
   "id": "science-ornl-atom-assembly",
@@ -14046,10 +13829,9 @@
   "date": "2026-09-03",
   "section": "science",
   "has_full": true,
-  "headline": "분자를 하나씩 밀어 그래핀 격자를\n스스로 쌓은 ORNL의 AI",
-  "body": "ORNL의 AI가 25시간 동안 분자 37개로 인공 그래핀 격자를 지었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一粒粒推分子\nORNL的AI自建格子",
+  "body": "ORNL的AI耗时25小时，用37个分子搭出人工石墨烯晶格。",
+  "lang": "zh"
  },
  {
   "id": "science-gollum-doubt-detector",
@@ -14062,10 +13844,9 @@
   "date": "2026-09-03",
   "section": "science",
   "has_full": true,
-  "headline": "모를 때를 아는 언어모델, EPFL이\n실험 횟수를 40% 줄였다",
-  "body": "GOLLuM은 23개 과제에서 40% 넘게 적은 실험으로 기존 방법을 따라잡았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "懂得自己不懂\nEPFL省40%实验",
+  "body": "GOLLuM在23项任务中，少做40%以上实验就追平了现有方法。",
+  "lang": "zh"
  },
  {
   "id": "science-ecg-clip-fewshot",
@@ -14078,9 +13859,9 @@
   "date": "2026-09-03",
   "section": "science",
   "has_full": true,
-  "headline": "심전도 170만 건을 읽은 모델이\n예시 열 건으로 병을 짚었다",
-  "body": "170만 건을 학습한 ECG-CLIP은 양성 사례 열 건으로도 질환을 잡아냈다.",
-  "lang": "ko",
+  "headline": "A Model Trained on 1.7M\nECGs Spots Disease From Ten",
+  "body": "ECG-CLIP, trained on 1.7 million records, caught disease from just ten positive cases.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14110,10 +13891,9 @@
   "date": "2026-09-03",
   "section": "music",
   "has_full": true,
-  "headline": "Lucinate, Ableton Link에\n물려 연주하는 비디오 신스",
-  "body": "AUM 개발사가 Ableton Link에 물리는 실시간 비주얼 환경을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Lucinate靠\nLink来演奏",
+  "body": "AUM开发商推出了接入Ableton Link的实时视觉环境。",
+  "lang": "zh"
  },
  {
   "id": "music-logic-pro-12-3-session-players",
@@ -14126,9 +13906,9 @@
   "date": "2026-09-03",
   "section": "music",
   "has_full": true,
-  "headline": "Cubase 30년 사용자가 본\nLogic Pro 12.3의 세션 플레이어",
-  "body": "Logic의 세션 플레이어와 스템 분리가 30년 Cubase 사용자를 흔들었다.",
-  "lang": "ko",
+  "headline": "A 30-Year Cubase User Tries\nLogic Pro 12.3 Session Players",
+  "body": "Logic's Session Players and stem separation shook a 30-year Cubase user's loyalty.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14142,9 +13922,9 @@
   "date": "2026-09-03",
   "section": "music",
   "has_full": true,
-  "headline": "Elastic Melody가 베이스와\nDFAM식 퍼커션까지 맡는다",
-  "body": "피치와 필터 드라이브 모드가 붙어 같은 엔진이 베이스와 타악까지 만든다.",
-  "lang": "ko",
+  "headline": "Elastic Melody Now Handles\nBass and DFAM-Style Percussion",
+  "body": "With pitch and filter drive modes added, the same engine now makes both bass and percussion.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14158,10 +13938,9 @@
   "date": "2026-09-03",
   "section": "movies",
   "has_full": true,
-  "headline": "Autodesk Flow Studio에 3D Editor와\nCanvas가 한 화면에서 열렸다",
-  "body": "생성과 장면 조립, 렌더링을 한 작업 공간에서 숏 단위로 다듬는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Flow Studio中\n3D与画布合一",
+  "body": "在同一个工作空间里完成生成、组装与渲染，并逐镜头打磨画面。",
+  "lang": "zh"
  },
  {
   "id": "movies-eddie-agent-marketplace",
@@ -14174,10 +13953,9 @@
   "date": "2026-09-03",
   "section": "movies",
   "has_full": true,
-  "headline": "Eddie AI가 편집 거장을 학습한\n에이전트 29종의 마켓플레이스를 열었다",
-  "body": "Walter Murch의 작업을 학습한 에이전트가 기존 컷은 건드리지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Eddie AI学习\n剪辑大师开市场",
+  "body": "学习了Walter Murch手法的智能体不会改动现有剪辑。",
+  "lang": "zh"
  },
  {
   "id": "movies-caira-gen-video-edit",
@@ -14190,10 +13968,9 @@
   "date": "2026-09-03",
   "section": "movies",
   "has_full": true,
-  "headline": "Caira 카메라가 Gemini와 Runway Aleph로\n찍은 영상을 그 자리에서 고친다",
-  "body": "이미 촬영한 푸티지만 손대고 텍스트로 장면을 새로 만들지는 못한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Caira相机联手\nGemini即时修片",
+  "body": "它只能修改已经拍摄完成的素材，并不能用文字重新创造出新的画面。",
+  "lang": "zh"
  },
  {
   "id": "movies-boyle-venice-ai",
@@ -14206,10 +13983,9 @@
   "date": "2026-09-03",
   "section": "movies",
   "has_full": true,
-  "headline": "Danny Boyle이 베네치아 기자회견에서\nAI의 저널리즘 대체를 경고했다",
-  "body": "AI 기자가 자신을 만든 권력에 진실을 말하겠냐고 Boyle이 물었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Danny Boyle在\n威尼斯警告AI取代新闻",
+  "body": "Boyle质问，那个AI记者会不会对造就自己的那个权力说真话。",
+  "lang": "zh"
  },
  {
   "id": "games-witcher4-people-over-ai",
@@ -14238,10 +14014,9 @@
   "date": "2026-09-03",
   "section": "games",
   "has_full": true,
-  "headline": "음악을 넣으면 조명과 카메라가\n알아서 박자를 타는 UE5 플러그인",
-  "body": "키프레임 없이 오디오만 물리면 조명과 카메라, 파티클이 각자 다른 소리를 따라간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "加入音乐后灯光\n与镜头自动卡点UE5",
+  "body": "无需关键帧，接入音频后，灯光、镜头和粒子各自跟随不同的声音。",
+  "lang": "zh"
  },
  {
   "id": "games-atelico-own-artists-model",
@@ -14270,10 +14045,9 @@
   "date": "2026-09-03",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Pixel Watch 5의 Gemini가\n네트워크 없이도 대답하게 됐다",
-  "body": "9월 업데이트로 타이머나 운동 시작 같은 명령을 오프라인에서도 처리한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Pixel Watch 5的\nGemini离线也能作答",
+  "body": "9月更新让计时器、开始运动等语音指令在离线状态下也能处理。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-norway-smart-glasses-rules",
@@ -14286,9 +14060,9 @@
   "date": "2026-09-03",
   "section": "gadgets",
   "has_full": true,
-  "headline": "노르웨이가 스마트 글라스의 얼굴 인식을\n금지하는 방안을 검토한다",
-  "body": "노르웨이 정부는 공공장소 얼굴 인식 금지까지 규제 검토 대상에 올렸다.",
-  "lang": "ko",
+  "headline": "Norway weighs a ban on facial\nrecognition in smart glasses",
+  "body": "Norway's government has added a public-space facial recognition ban to its regulatory review.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14302,10 +14076,9 @@
   "date": "2026-09-03",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Caira 카메라, 직접 찍은 영상에만\n생성 영상 편집을 허용한다",
-  "body": "텍스트로 영상을 만드는 기능은 빼고, 직접 찍은 클립만 생성 편집 대상으로 뒀다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Caira生成编辑\n仅限自拍视频",
+  "body": "不支持用文字生成视频，生成式编辑只针对自己亲手拍摄的素材。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-adreno-neural-fusion",
@@ -14318,10 +14091,9 @@
   "date": "2026-09-03",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Adreno Neural Fusion, GPU 안에\nAI 전용 코어를 심었다",
-  "body": "GPU 슬라이스마다 Matrix Cores를 넣어 켜면 전력이 40% 개선된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "GPU内藏AI\n专用核心",
+  "body": "每个GPU切片加入Matrix Cores并开启后，能效提升40%。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-acer-aspire-g3d-local-ai",
@@ -14334,9 +14106,9 @@
   "date": "2026-09-03",
   "section": "gadgets",
   "has_full": true,
-  "headline": "안경 없는 3D 화면과 128GB 램을\nAcer Aspire G 3D 16에 묶었다",
-  "body": "128GB 램 덕에 gpt-oss-120b 같은 대형 모델을 노트북에서 돌린다.",
-  "lang": "ko",
+  "headline": "Glasses-free 3D and 128GB RAM\ncome together in Aspire G 3D 16",
+  "body": "The 128GB of RAM lets it run large models like gpt-oss-120b on a laptop.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14350,10 +14122,9 @@
   "date": "2026-09-03",
   "section": "design",
   "has_full": true,
-  "headline": "다쏘시스템이 AI 사용료로\n블루 토큰을 팔기 시작했다",
-  "body": "솔리드웍스 사용자는 질의 한 건마다 블루 토큰을 쓰고, 모자라면 팩을 따로 사야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "达索开始卖\n蓝色Token收AI费",
+  "body": "Solidworks用户每次查询都要消耗蓝色Token，用完得单独购买加油包。",
+  "lang": "zh"
  },
  {
   "id": "design-perplexity-color-tetrads",
@@ -14366,9 +14137,9 @@
   "date": "2026-09-03",
   "section": "design",
   "has_full": true,
-  "headline": "색각 이상까지 통과하는 사색 배색을\n퍼플렉시티에게 다시 물었다",
-  "body": "프롬프트를 고쳐 다시 묻고서야 근사치에 가까운 테트라드 배색이 나왔다.",
-  "lang": "ko",
+  "headline": "Asking Perplexity again for\ntetrads that pass color tests",
+  "body": "Only after revising the prompt did Perplexity return a tetrad close to the target.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14382,10 +14153,9 @@
   "date": "2026-09-03",
   "section": "design",
   "has_full": true,
-  "headline": "코인베이스가 Code Connect로\n에이전트 비용 22.5%를 줄였다",
-  "body": "디자인 시스템 컴포넌트를 코드에 연결하자 에이전트가 이름을 지어내는 일이 사라졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Coinbase用Code\nConnect降本22.5%",
+  "body": "把设计系统组件直接接入代码后，智能体编造名称的问题就此消失。",
+  "lang": "zh"
  },
  {
   "id": "design-dlss5-launch-date",
@@ -14414,10 +14184,9 @@
   "date": "2026-09-03",
   "section": "design",
   "has_full": true,
-  "headline": "같은 폼을 네 번씩 만드는 비용\n에이전트 UI 표준이 없어 치른다",
-  "body": "구글 A2UI는 컴포넌트 이름만 보내고 화면을 그리는 일은 클라이언트에 맡긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "同一表单做四次\n只因没有标准",
+  "body": "谷歌A2UI只发送组件名称，把画面绘制的工作交给客户端完成。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-personalization-echo-chamber",
@@ -14430,10 +14199,9 @@
   "date": "2026-09-03",
   "section": "books",
   "has_full": true,
-  "headline": "리서치 조수가 나를 너무 잘 알면\n내 전제를 그대로 되비춘다",
-  "body": "개인화가 쌓일수록 AI는 이용자의 전제를 되비추고, 리서치는 반향실이 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "研究助手太懂你\n只会映照你的前提",
+  "body": "个性化越积累，AI就越会映照用户的前提，研究便沦为回音室。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-custom-written-novels",
@@ -14446,10 +14214,9 @@
   "date": "2026-09-03",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 맞춤 집필한 소설은\n300쪽 플롯을 어디까지 끌고 가나",
-  "body": "Ember Novels가 만든 주문형 장편은 시중의 여러 AI 책보다 연속성 오류가 적었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI定制写小说\n300页能走多远",
+  "body": "Ember Novels定制长篇的连续性错误少于市面多款AI图书。",
+  "lang": "zh"
  },
  {
   "id": "books-african-audiobook-market",
@@ -14462,10 +14229,9 @@
   "date": "2026-09-03",
   "section": "books",
   "has_full": true,
-  "headline": "아프리카 오디오북은 낭독만 사람이\n대본과 검수는 AI가 맡는다",
-  "body": "AkooBooks Audio는 대본 준비와 품질 검수에만 AI를 쓰고 낭독은 사람에게 맡긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "非洲有声书朗读\n由人，文稿交AI",
+  "body": "AkooBooks Audio只在文稿准备和质量审核上用AI，朗读仍交给真人完成。",
+  "lang": "zh"
  },
  {
   "id": "science-methane-deeplearning-maps",
@@ -14478,9 +14244,9 @@
   "date": "2026-09-02",
   "section": "science",
   "has_full": true,
-  "headline": "위성이 못 보던 메탄 기둥을\n딥러닝이 지구 전체에서 찾는다",
-  "body": "MAPL-EMIT이 초분광 위성 영상에서 메탄 기둥을 짚어 전문가 표기의 84%를 잡았다.",
-  "lang": "ko",
+  "headline": "Methane plumes satellites missed\nDeep learning spots it globally",
+  "body": "MAPL-EMIT scans hyperspectral satellite imagery for methane plumes, matching 84% of expert-labeled detections.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14510,10 +14276,9 @@
   "date": "2026-09-02",
   "section": "science",
   "has_full": true,
-  "headline": "고전 컴퓨터가 못 푸는 문제를\nIBM 양자 컴퓨터가 15분에 풀었다",
-  "body": "논리 큐비트 70개로 15분 만에 계산을 끝내고 결과의 신뢰도까지 통계로 증명했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "经典计算机解不开的问题\nIBM量子计算机15分钟解决",
+  "body": "用70个逻辑量子比特，15分钟完成计算，并以统计方式证明了结果的可靠性。",
+  "lang": "zh"
  },
  {
   "id": "science-bitenet-ion-sites",
@@ -14526,10 +14291,9 @@
   "date": "2026-09-02",
   "section": "science",
   "has_full": true,
-  "headline": "단백질 속 이온 결합 자리를\n몇 초 만에 짚어내는 모델",
-  "body": "BiteNetI는 3차원 단백질 구조에서 14종 이온의 결합 자리를 몇 초 만에 찾아낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "秒级定位蛋白\n离子结合位点",
+  "body": "BiteNetI能在几秒内找出3D蛋白结构中14种离子的结合位点。",
+  "lang": "zh"
  },
  {
   "id": "science-alpha-centauri-ai-trajectory",
@@ -14542,9 +14306,9 @@
   "date": "2026-09-02",
   "section": "science",
   "has_full": true,
-  "headline": "알파 센타우리로 가는 항로를\nAI가 일주일 만에 찾아냈다",
-  "body": "페르미 익스플로러 미션이 2029년 말 띄울 탐사선의 항로를 AI가 새로 찾아냈다.",
-  "lang": "ko",
+  "headline": "AI found the route to\nAlpha Centauri in a week",
+  "body": "The Fermi Explorer Mission says AI found a new route for the probe it plans to launch in late 2029.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14558,9 +14322,9 @@
   "date": "2026-09-02",
   "section": "music",
   "has_full": true,
-  "headline": "데논 프라임 4 G2, 부스에서\n랩톱 없이 실시간으로 스템을 가른다",
-  "body": "프라임 4 G2가 랩톱 없이 본체에서 아카펠라와 반주를 실시간으로 뽑아낸다.",
-  "lang": "ko",
+  "headline": "Denon Prime 4 G2 splits stems\nlive, no laptop needed at booth",
+  "body": "The Prime 4 G2 pulls acapellas and instrumentals from the deck itself, live, without a laptop.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14574,10 +14338,9 @@
   "date": "2026-09-02",
   "section": "music",
   "has_full": true,
-  "headline": "다음 팬은 당신을 검색하지 않는다\n그냥 기계에게 상황을 말할 뿐이다",
-  "body": "발견 경로가 선언된 의도로 옮겨가면서 태그 대신 맥락이 아티스트를 읽히게 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "下一个粉丝不\n搜你只对AI说",
+  "body": "随着发现路径转向声明式意图,靠语境而非标签让人认出艺人。",
+  "lang": "zh"
  },
  {
   "id": "music-artist-operating-system",
@@ -14590,10 +14353,9 @@
   "date": "2026-09-02",
   "section": "music",
   "has_full": true,
-  "headline": "독립 아티스트에게 지금 필요한 건\n툴 하나가 아니라 운영체제다",
-  "body": "대시보드를 하나 더 얹는 대신 릴리스와 데이터를 잇는 층이 필요하다고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "独立音乐人缺的\n不是工具是OS",
+  "body": "报道称,与其再加一个仪表盘,不如打通发行和数据的那一层。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-watermarks",
@@ -14622,10 +14384,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 제작 대담이 TIFF 안으로\n9월 12일 공식 일정에 들어간다",
-  "body": "9월 12일 TIFF에서 버라이어티와 유토파이가 AI 제작을 다루는 대담을 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI制作对谈\n进TIFF正式日程",
+  "body": "9月12日,Variety和Utopai将在TIFF举办AI制作对谈。",
+  "lang": "zh"
  },
  {
   "id": "movies-resolve-21-webinars",
@@ -14638,10 +14399,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "리졸브 21 무료 웨비나 여섯 개가\n9월부터 11월까지 이어진다",
-  "body": "블랙매직이 9~11월에 90분짜리 리졸브 21 무료 웨비나를 여섯 번 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Resolve 21讲座\n6场免费,9至11月",
+  "body": "黑魔法将在9至11月推出6场90分钟的免费Resolve 21讲座。",
+  "lang": "zh"
  },
  {
   "id": "movies-ibc-2026-preview",
@@ -14654,9 +14414,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "암스테르담에 모이는 4만 5천 명\nIBC 2026의 중심은 AI다",
-  "body": "9월 암스테르담 IBC 2026은 부스 1300개와 연사 600명을 AI로 몰았다.",
-  "lang": "ko",
+  "headline": "45,000 head to Amsterdam\nwhere IBC 2026 centers on AI",
+  "body": "In September, Amsterdam's IBC 2026 drew 1,300 booths and 600 speakers around AI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14670,10 +14430,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "세트와 조명을 AI로 채운 영화\n갤 가돗은 계약서에 6개월을 썼다",
-  "body": "세트와 조명을 AI로 지은 '비트코인'에서 가돗은 연기만은 AI에 내주지 않았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "布景灯光AI化\n加朵合同签半年",
+  "body": "在布景灯光全靠AI的《Bitcoin》里,加朵演戏不让AI插手。",
+  "lang": "zh"
  },
  {
   "id": "movies-ae-portal-aug-2026",
@@ -14686,10 +14445,9 @@
   "date": "2026-09-02",
   "section": "movies",
   "has_full": true,
-  "headline": "애프터 이펙트에 AI 어시스턴트\n베타가 IBC를 앞두고 열렸다",
-  "body": "AE 베타에 말로 프로젝트를 정리하고 영상까지 만드는 AI 어시스턴트가 올라왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AE加入AI助手\n测试版IBC前上线",
+  "body": "AE测试版新增了能用语音整理项目、还能生成视频的AI助手。",
+  "lang": "zh"
  },
  {
   "id": "games-nvidia-says-dlss-5",
@@ -14702,10 +14460,9 @@
   "date": "2026-09-02",
   "section": "games",
   "has_full": true,
-  "headline": "Nvidia가 밝힌 DLSS 5의 값은\n평균 프레임 50-60% 하락이다",
-  "body": "Nvidia는 DLSS 5가 모든 게임에서 프레임을 50-60% 깎는다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Nvidia透露\nDLSS 5降50-60%",
+  "body": "Nvidia透露,DLSS 5会让所有游戏的帧数下降50-60%。",
+  "lang": "zh"
  },
  {
   "id": "games-nimble-fox-launches-ai",
@@ -14718,10 +14475,9 @@
   "date": "2026-09-02",
   "section": "games",
   "has_full": true,
-  "headline": "Unity 에디터 안에서 프롬프트로\n게임을 고치는 도구가 9월 7일 나온다",
-  "body": "9월 7일 나올 Nimble Fox는 Unity 프로젝트를 읽고 기능별로 고친다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Unity编辑器内\n提示修复工具9/7上线",
+  "body": "9月7日推出的Nimble Fox,会读取Unity项目并按功能修复。",
+  "lang": "zh"
  },
  {
   "id": "games-how-dream-racers-uses",
@@ -14734,10 +14490,9 @@
   "date": "2026-09-02",
   "section": "games",
   "has_full": true,
-  "headline": "프롬프트 세 단어가 카트가 되는\nRoblox 레이싱 게임이 나왔다",
-  "body": "플레이어가 고른 형용사 세 개를 Cube AI가 3D 카트로 만들어 경주에 태운다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "三个提示词变赛车\nRoblox新赛车游戏上线",
+  "body": "玩家选择的三个形容词,会被Cube AI做成3D赛车参赛。",
+  "lang": "zh"
  },
  {
   "id": "games-dwarf-fortress-creator-calls",
@@ -14750,10 +14505,9 @@
   "date": "2026-09-02",
   "section": "games",
   "has_full": true,
-  "headline": "AI의 진짜 문제는 도구가 아니라\n그걸 쓰라고 강요하는 상사다",
-  "body": "Tarn Adams는 AI의 문제로 도구가 아니라 사용을 강요하는 상사를 지목했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI真正的问题不是工具\n而是逼着用它的上司",
+  "body": "Tarn Adams指出,AI的问题不在于工具,而在于强迫使用它的上司。",
+  "lang": "zh"
  },
  {
   "id": "games-30-years-later-i",
@@ -14766,9 +14520,9 @@
   "date": "2026-09-02",
   "section": "games",
   "has_full": true,
-  "headline": "AI가 거든 PS1 Quake보다\n손으로 짠 옛 포팅이 나았다",
-  "body": "AI가 거든 PS1 Quake 포팅보다 AI를 안 쓴 옛 QuakePSX가 나았다.",
-  "lang": "ko",
+  "headline": "The old hand-coded port beat\nthe AI-assisted PS1 Quake",
+  "body": "The old QuakePSX port, made without AI, was better than the AI-assisted PS1 Quake port.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14782,10 +14536,9 @@
   "date": "2026-09-02",
   "section": "gadgets",
   "has_full": true,
-  "headline": "앱을 새로 짜고 에이전트에게\n시스템을 여는 Sonos 27",
-  "body": "Sonos가 공개 MCP 서버를 열어 외부 AI 에이전트에 스피커 제어를 넘겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Sonos 27重写App\n开放系统给AI",
+  "body": "Sonos开放公共MCP服务器,把音箱控制权交给外部AI智能体。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-paint-ai-watermark",
@@ -14814,10 +14567,9 @@
   "date": "2026-09-02",
   "section": "gadgets",
   "has_full": true,
-  "headline": "겹쳐 말해도 화자를 갈라내는\nMeta 실시간 전사 모델",
-  "body": "Meta가 겹친 말도 화자별로 갈라내는 첫 실시간 음성 모델을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "重叠也能分人\nMeta实时转写",
+  "body": "Meta推出了首个能按说话人分离重叠语音的实时转写模型。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-google-pics-ga",
@@ -14830,10 +14582,9 @@
   "date": "2026-09-02",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Canva를 겨눈 Google Pics\n테스터 한정 풀고 전면 공개",
-  "body": "Google이 테스터 한정이던 디자인 앱 Google Pics를 전면 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "直指Canva的\nGoogle Pics全开放",
+  "body": "Google将原本限测试者使用的设计应用Google Pics全面开放。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-atlas-brain-wearable",
@@ -14846,10 +14597,9 @@
   "date": "2026-09-02",
   "section": "gadgets",
   "has_full": true,
-  "headline": "귀 뒤에 붙여 집중 상태를 읽는\n499달러 뇌파 웨어러블",
-  "body": "심박 대신 뇌파로 몰입 상태를 읽는 499달러 Atlas 1.0이 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "贴耳后读专注\n499美元脑机",
+  "body": "499美元的Atlas 1.0用脑电波而非心率读取沉浸状态。",
+  "lang": "zh"
  },
  {
   "id": "design-to-code-benchmark",
@@ -14862,10 +14612,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "같은 대시보드를 다섯 도구에 넣자\n픽셀만 맞고 구조가 무너졌다",
-  "body": "스크린샷 기반 도구는 시각 충실도 9점을 받고도 수정 용이성은 2점에 그쳤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "同一面板投五\n像素对结构崩",
+  "body": "这款基于截图生成的工具视觉还原拿到了9分,但修改性却仅有2分。",
+  "lang": "zh"
  },
  {
   "id": "design-text-to-cad-format",
@@ -14878,9 +14627,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "AI CAD의 진짜 질문은 출력이\n메시냐 파라메트릭이냐다",
-  "body": "AI가 낸 3D가 메시면 볼 수만 있고, B-Rep과 STEP이라야 실제로 만든다.",
-  "lang": "ko",
+  "headline": "The real question for AI CAD\nis mesh output or parametric",
+  "body": "If AI-made 3D is mesh, you can only view it; B-Rep and STEP are what you can actually manufacture.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14894,10 +14643,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "에이전트가 만든 셰이더를 커뮤니티에\n공유하고 코드까지 꺼내 쓴다",
-  "body": "피그마가 에이전트로 만든 셰이더를 커뮤니티에 공개하고 코드까지 내려받도록 풀었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "智能体做着色器\n分享社区可取码",
+  "body": "Figma现已向社区开放智能体生成的着色器,并可下载代码。",
+  "lang": "zh"
  },
  {
   "id": "design-empire-at-sea-venice",
@@ -14910,10 +14658,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "비전 프로 열 대가 한 테이블에\n둘러앉아 같은 드라마를 본다",
-  "body": "열 명이 비전 프로를 쓰고 한 테이블에 둘러앉아 분기하는 이야기를 함께 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "十台Vision Pro\n围坐共赏一剧",
+  "body": "十人戴着Vision Pro围坐一桌,共同观看分支叙事的故事。",
+  "lang": "zh"
  },
  {
   "id": "design-blender-line-art",
@@ -14926,10 +14673,9 @@
   "date": "2026-09-02",
   "section": "design",
   "has_full": true,
-  "headline": "블렌더 모델에서 선화를 버튼 하나로\n뽑아내는 애드온이 무료로 풀렸다",
-  "body": "FreePencil2는 128만 폴리곤 모델도 30초 안에 선화로 바꾼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一键提取线稿\n插件现已免费",
+  "body": "FreePencil2能在30秒内把128万面模型转为线稿。",
+  "lang": "zh"
  },
  {
   "id": "books-zlibrary-my-beloved-anthropic",
@@ -14942,10 +14688,9 @@
   "date": "2026-09-02",
   "section": "books",
   "has_full": true,
-  "headline": "“Zlibrary my beloved”\n소니 소송에 등장한 앤스로픽 사내 대화",
-  "body": "소니와 EMI 등 음악 출판사들이 앤스로픽 사내 대화를 증거로 소송을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "索尼诉讼曝出\nAnthropic内部对话",
+  "body": "索尼、EMI等音乐出版商以Anthropic内部对话为证据提起诉讼。",
+  "lang": "zh"
  },
  {
   "id": "books-kr-publishing-knowledge-platform",
@@ -14958,10 +14703,9 @@
   "date": "2026-09-02",
   "section": "books",
   "has_full": true,
-  "headline": "출판사 콘텐츠를 AI 기업에 주고\n수익을 나누는 ‘지식 플랫폼’ 구상",
-  "body": "하정우 전 수석은 출판사 콘텐츠를 AI 기업에 주고 수익을 나누는 구조를 제안했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "出版内容交给AI\n分成共建知识平台",
+  "body": "Ha Jung-woo前首席提议,出版社向AI企业提供内容并分享收益。",
+  "lang": "zh"
  },
  {
   "id": "books-kh-ttalkkak-translation",
@@ -14974,10 +14718,9 @@
   "date": "2026-09-02",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 더 잘하냐고 묻지 말라\n‘딸깍 번역’ 시대 번역가의 자리",
-  "body": "세계번역가대회에 모인 번역가들은 번역을 산출물이 아닌 관계로 다시 정의했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "别问AI是否更好\n「点击翻译」时代译者何在",
+  "body": "在世界翻译家大会上，与会译者将翻译重新定义为一种关系，而非成果。",
+  "lang": "zh"
  },
  {
   "id": "books-guest-post-the-human",
@@ -14990,10 +14733,9 @@
   "date": "2026-09-02",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 정보를 쏟아내는 시대에\n대학 도서관은 오히려 더 중요해진다",
-  "body": "제인 지앙 도서관장은 AI가 사서를 밀어내기는커녕 그 역할을 키웠다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI信息泛滥的时代\n大学图书馆更显重要",
+  "body": "简·姜馆长认为，AI非但没有取代馆员，反而拓展了他们的职责。",
+  "lang": "zh"
  },
  {
   "id": "books-appeal-over-legal-fees",
@@ -15006,10 +14748,9 @@
   "date": "2026-09-02",
   "section": "books",
   "has_full": true,
-  "headline": "변호사 수임료를 둘러싼 항소로\n앤스로픽 합의금 지급이 밀린다",
-  "body": "변호인단의 수임료 항소로 앤스로픽 15억 달러 합의금 지급이 더 밀리게 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "律师费上诉致\nAnthropic赔款延迟",
+  "body": "律师团就律师费提出上诉,令Anthropic15亿美元赔款支付进一步延迟。",
+  "lang": "zh"
  },
  {
   "id": "science-timesfm-3",
@@ -15022,9 +14763,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "다변량 시계열을 학습 없이\n예측하는 TimesFM-3",
-  "body": "과제별 학습 없이 다변량 시계열을 예측하는 제로샷 모델로, 기후와 건강 모니터링까지 겨냥한다.",
-  "lang": "ko",
+  "headline": "TimesFM-3 Forecasts\nMultivariate Series, No Training",
+  "body": "It's a zero-shot model for multivariate time series, aimed even at climate and health monitoring.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15038,10 +14779,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "에볼라 유전체 72개로\n전파 모델을 실시간에 맞춘다",
-  "body": "INRAE 연구진이 신경 사후추정으로 계통동역학 모델 보정 속도를 크게 끌어올렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "72份埃博拉基因组\n实时校准传播模型",
+  "body": "INRAE团队用神经后验估计大幅提升了系统动力学模型的校准速度。",
+  "lang": "zh"
  },
  {
   "id": "science-ionq-macbook-decoder",
@@ -15054,10 +14794,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "MegaQuOp 규모 오류 디코딩이\n맥북 프로 한 대에서 돌아갔다",
-  "body": "IonQ 연구진의 결과로 실시간 오류 디코딩에 전용 하드웨어가 필요하다는 전제가 흔들렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "MegaQuOp级\n错误解码靠MacBook",
+  "body": "IonQ的成果动摇了实时错误解码必须依赖专用硬件的前提。",
+  "lang": "zh"
  },
  {
   "id": "science-grcop42-3dprint",
@@ -15086,9 +14825,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "극한 사례를 본 적 없는 모델이\n극한 시나리오를 만든다",
-  "body": "MIT 연구진이 극한 기록 없이도 폭풍의 지속시간과 강도, 범위를 그려내는 모델을 내놨다.",
-  "lang": "ko",
+  "headline": "A Model That's Never Seen\nExtremes Builds the Scenarios",
+  "body": "MIT researchers made a model that maps storm duration, intensity and reach without extreme records.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15102,10 +14841,9 @@
   "date": "2026-09-01",
   "section": "music",
   "has_full": true,
-  "headline": "Stable Audio 3.0,\nDAW 세션 안으로",
-  "body": "Stability AI가 DAW 안에서 바로 생성하는 플러그인과 새 웹 환경을 얼리 베타로 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Stable Audio\n3.0进驻DAW会话",
+  "body": "Stability AI开放了DAW内直接生成的插件和新网页版早期测试。",
+  "lang": "zh"
  },
  {
   "id": "music-musical-spirograph",
@@ -15118,10 +14856,9 @@
   "date": "2026-09-01",
   "section": "music",
   "has_full": true,
-  "headline": "손으로 그린 도형이\n작곡이 되는 브라우저",
-  "body": "낙서하듯 그린 기하 도형을 제너레이티브 작곡으로 바꾸는 브라우저 장난감이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "手绘几何图形\n化作乐曲的浏览器",
+  "body": "这是一款把随手画出的几何图形变成生成式作曲的浏览器玩具。",
+  "lang": "zh"
  },
  {
   "id": "music-jazz-profile-hijack",
@@ -15134,10 +14871,9 @@
   "date": "2026-09-01",
   "section": "music",
   "has_full": true,
-  "headline": "재즈 거장의 프로필에\n올라온 AI 슬롭",
-  "body": "스팸 농장이 재즈 뮤지션의 스포티파이·유튜브 프로필을 가로채 AI 트랙을 뿌리고 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "爵士巨匠主页\n被AI劣质曲占领",
+  "body": "垃圾作坊劫持爵士乐手的Spotify、YouTube主页,散布AI歌曲。",
+  "lang": "zh"
  },
  {
   "id": "music-aria-chart-ban",
@@ -15166,10 +14902,9 @@
   "date": "2026-09-01",
   "section": "music",
   "has_full": true,
-  "headline": "사람 이름을 단 AI 트랙,\n귀로 가려내는 사람들",
-  "body": "사람이 만든 척 올라온 AI 트랙을 귀로 짚어내는 프로듀서들의 단서를 정리했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "冒用真名的AI曲\n靠耳朵识破的人",
+  "body": "整理了制作人靠耳朵识别冒充人工创作的那些AI歌曲的线索。",
+  "lang": "zh"
  },
  {
   "id": "movies-tung-sahur-ai-lawsuit",
@@ -15182,10 +14917,9 @@
   "date": "2026-09-01",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 캐릭터 퉁 퉁 사후르의\n소유권을 가리는 법정 다툼",
-  "body": "퉁 퉁 사후르를 둘러싼 상표권 소송에 심리 일정이 잡히면서 회사들이 맞붙었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI角色通通萨胡尔\n所有权法庭之争",
+  "body": "围绕通通萨胡尔的商标诉讼确定开庭日期,多家公司正面交锋。",
+  "lang": "zh"
  },
  {
   "id": "movies-nice-touch-v2",
@@ -15198,10 +14932,9 @@
   "date": "2026-09-01",
   "section": "movies",
   "has_full": true,
-  "headline": "나이스 터치, AI 편집 어시스턴트\nV2를 전면 재설계해 내놨다",
-  "body": "편집자와 프로듀서 300여 명의 이야기를 듣고 앱을 통째로 새로 만들어 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Nice Touch编辑AI\nV2全新改版发布",
+  "body": "听取300多位剪辑师和制片人的意见后,彻底重做了应用程序。",
+  "lang": "zh"
  },
  {
   "id": "movies-junkyard-king-daubrez",
@@ -15230,10 +14963,9 @@
   "date": "2026-09-01",
   "section": "movies",
   "has_full": true,
-  "headline": "베네치아로 향한 AI 다큐멘터리\n감독은 “사람이 먼저”라고 말한다",
-  "body": "카로치니 감독은 베네치아 출품작 「비 브레이브」에서 사람이 먼저라고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI纪录片奔赴威尼斯\n导演说“人要为先”",
+  "body": "卡罗齐尼导演在威尼斯参展片《勇敢起来》中说,人要放在第一位。",
+  "lang": "zh"
  },
  {
   "id": "movies-ai-prompt-copyright-bill",
@@ -15246,9 +14978,9 @@
   "date": "2026-09-01",
   "section": "movies",
   "has_full": true,
-  "headline": "프롬프트로 뽑은 결과물에는\n저작권을 주지 말자는 입법 요구",
-  "body": "MPSE 회장이 프롬프트로 만든 영화·음악에 저작권을 주지 말자는 입법을 촉구했다.",
-  "lang": "ko",
+  "headline": "No copyright for output\npulled from a prompt",
+  "body": "The MPSE president called for legislation denying copyright to films and music made from prompts.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15262,10 +14994,9 @@
   "date": "2026-09-01",
   "section": "games",
   "has_full": true,
-  "headline": "Inworld, TTS 평가 도구를\n오픈소스로 공개",
-  "body": "로컬 ASR과 명시적 정규화, 샘플 단위 측정으로 결과를 원본 오디오까지 되짚을 수 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Inworld开源\nTTS评估工具",
+  "body": "用本地ASR、显式归一化和逐样本测量，结果能追溯到原始音频。",
+  "lang": "zh"
  },
  {
   "id": "games-gta6-crowd-tech-lead",
@@ -15278,10 +15009,9 @@
   "date": "2026-09-01",
   "section": "games",
   "has_full": true,
-  "headline": "GTA 6의 군중 기술은\n10년쯤 앞서 있다",
-  "body": "경쟁작 군중을 만든 개발자는 GTA 6의 NPC 군중 기술이 업계보다 10년쯤 앞섰다고 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "GTA 6群众技术\n领先业界10年",
+  "body": "做过竞品群众的开发者说，GTA 6的NPC群众技术领先业界约10年。",
+  "lang": "zh"
  },
  {
   "id": "games-city-sample-pcg-mcp",
@@ -15294,10 +15024,9 @@
   "date": "2026-09-01",
   "section": "games",
   "has_full": true,
-  "headline": "City Sample이 5.8로\n다시 지어졌다",
-  "body": "레벨을 새로 짠 City Sample에 절차적 생성과 에이전트 편집 워크플로가 함께 담겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "City Sample\n用5.8重建",
+  "body": "新关卡的City Sample加入了程序化生成与AI编辑流程。",
+  "lang": "zh"
  },
  {
   "id": "games-aws-studio-ai-ops",
@@ -15310,10 +15039,9 @@
   "date": "2026-09-01",
   "section": "games",
   "has_full": true,
-  "headline": "모델 데모와 출시 사이에\n남는 운영 문제",
-  "body": "AWS의 Huang Zhoubin은 데모와 출시 사이에 놓인 인프라와 워크플로 문제를 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "模型演示到\n上线间的运营难题",
+  "body": "AWS的Huang Zhoubin点出了演示和上线之间的基础设施与流程问题。",
+  "lang": "zh"
  },
  {
   "id": "games-1666-drops-ai",
@@ -15326,9 +15054,9 @@
   "date": "2026-09-01",
   "section": "games",
   "has_full": true,
-  "headline": "1666: Amsterdam이\n생성형 AI를 걷어냈다",
-  "body": "반발이 이어지자 스튜디오는 생성형 AI를 뺐고, 쓰인 곳은 기획과 프리프로덕션뿐이었다.",
-  "lang": "ko",
+  "headline": "1666: Amsterdam strips out\nits generative AI",
+  "body": "As backlash grew, the studio removed generative AI, which had only been used in planning and preproduction.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15342,10 +15070,9 @@
   "date": "2026-09-01",
   "section": "gadgets",
   "has_full": true,
-  "headline": "AI 에이전트가 Quest 게임을\n직접 돌려보고 검증한다",
-  "body": "Meta가 AI 코딩 에이전트에게 VR 앱의 빌드와 테스트, 시각 검증까지 맡기는 실험 도구를 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI代理亲自\n验证Quest游戏",
+  "body": "Meta推出实验工具，让AI编程代理负责VR应用的构建、测试与视觉验证。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-framework-192gb-desktop",
@@ -15358,10 +15085,9 @@
   "date": "2026-09-01",
   "section": "gadgets",
   "has_full": true,
-  "headline": "통합 메모리 192GB를 얹은\nFramework 데스크톱",
-  "body": "Framework 데스크톱이 최대 192GB 통합 메모리와 Strix Halo 대비 6.6% 넓은 대역폭을 갖췄다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "192GB统一内存\nFramework台式机",
+  "body": "Framework台式机配备最大192GB统一内存，带宽比Strix Halo高6.6%。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-apple-smart-glasses-2027",
@@ -15374,10 +15100,9 @@
   "date": "2026-09-01",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Apple의 첫 스마트 글라스가\n내년에 나온다",
-  "body": "Apple이 이르면 내년 Visual Intelligence를 품은 첫 AI 스마트 글라스를 내놓는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Apple首款\n智能眼镜明年见",
+  "body": "Apple最早明年推出搭载Visual Intelligence的首款AI智能眼镜。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-android17-agent-dashboard",
@@ -15390,10 +15115,9 @@
   "date": "2026-09-01",
   "section": "gadgets",
   "has_full": true,
-  "headline": "기기에서 도는 AI 에이전트를\n설정에서 지켜본다",
-  "body": "Android 17 QPR2 베타 4가 설정에 Agent 항목을 열어 기기에서 작동 중인 에이전트를 한눈에 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "设备上的AI代理\n在设置里查看",
+  "body": "Android 17 QPR2测试版4在设置里新增Agent项，一览设备上运行的代理。",
+  "lang": "zh"
  },
  {
   "id": "design-vercel-design-md",
@@ -15406,10 +15130,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "코딩 에이전트가 읽는\n브랜드 규칙 한 파일",
-  "body": "코딩 에이전트가 불러 쓰는 브랜드 규칙 파일 design.md를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "编程智能体读的\n品牌规则文件",
+  "body": "这是编程智能体读取并调用的品牌规则文件design.md。",
+  "lang": "zh"
  },
  {
   "id": "design-runway-solaris",
@@ -15422,10 +15145,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "Runway Solaris,\n프롬프트가 곧 인터페이스",
-  "body": "코드 없이 프롬프트만으로 상호작용 인터페이스를 프레임 단위로 만들어내는 모델이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Runway Solaris\n提示词即界面",
+  "body": "这是一款无需编写代码，仅凭提示词逐帧生成交互界面的模型。",
+  "lang": "zh"
  },
  {
   "id": "design-quest3-240hz",
@@ -15438,10 +15160,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "Quest 3, 주사율\n240Hz까지 열렸다",
-  "body": "Meta 업데이트로 240Hz, 풀 해상도에선 207Hz까지 주사율이 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Quest 3刷新率\n升至240Hz",
+  "body": "Meta更新让刷新率升到240Hz，满分辨率下则是207Hz。",
+  "lang": "zh"
  },
  {
   "id": "design-css-random-polyfill",
@@ -15454,10 +15175,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "CSS random()을\n폴리필로 지금 쓴다",
-  "body": "random() 함수를 폴리필로 감싸 모든 브라우저에서 지금 쓰게 만든 기록이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "CSS random()\n靠polyfill能用了",
+  "body": "用polyfill包装random()函数，让它现在就能在所有浏览器里使用。",
+  "lang": "zh"
  },
  {
   "id": "design-blender-krita-bridge",
@@ -15470,10 +15190,9 @@
   "date": "2026-09-01",
   "section": "design",
   "has_full": true,
-  "headline": "Blender에서 잡고\nKrita에서 칠한다",
-  "body": "Blender 뷰를 캡처해 Krita에서 칠한 뒤 모델에 되돌리는 브리지다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "在Blender中取景\n在Krita中上色",
+  "body": "这是一个把Blender画面导入Krita上色后再送回模型的桥接工具。",
+  "lang": "zh"
  },
  {
   "id": "books-ssrs-audiobook-narration-survey",
@@ -15486,10 +15205,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "AI 낭독과 사람 낭독을\n청취자 1,000명은 구분할까",
-  "body": "청취자 1,000명이 AI 낭독을 가려내는지, 알고 나면 지불 의향이 달라지는지 묻는 조사다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI与真人朗读\n1000人能分辨吗",
+  "body": "该调查询问1000名听众能否分辨AI朗读，知情后付费意愿是否改变。",
+  "lang": "zh"
  },
  {
   "id": "books-loc-ai-sandbox",
@@ -15502,9 +15220,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "공개 서비스에 닿기 전에\n미국 의회도서관의 AI 샌드박스",
-  "body": "공개 서비스에 손대기 전, 직원이 컬렉션 업무로 생성형 도구를 시험할 내부 샌드박스를 열었다.",
-  "lang": "ko",
+  "headline": "Before it reaches the public\nLibrary of Congress AI sandbox",
+  "body": "Before touching public services, it opened an internal sandbox for staff to test generative tools on collections work.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15518,10 +15236,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "사람이 쓴 몫을 먼저 센다\ngetAbstract 26회 롱리스트",
-  "body": "롱리스트는 사람의 저술을 앞세우고, 수상작은 10월 8일 프랑크푸르트 도서전에서 발표한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "先看人写的部分\ngetAbstract26届",
+  "body": "入围名单优先呈现人类著作，获奖结果将于10月8日在法兰克福书展公布。",
+  "lang": "zh"
  },
  {
   "id": "books-elsevier-nora-ebook-assistant",
@@ -15534,10 +15251,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "전자책을 나가지 않고 묻는다\nElsevier의 의료 교재 AI",
-  "body": "전자책을 벗어나지 않고 묻고, Nora는 출판사가 라이선스한 콘텐츠 안에서만 답한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不离开电子书\nElsevier医疗AI",
+  "body": "无需离开电子书即可提问，Nora只在出版社授权内容范围内作答。",
+  "lang": "zh"
  },
  {
   "id": "books-calibre-ai-covers",
@@ -15550,9 +15266,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "Calibre 9.14, 프롬프트로\n책 표지를 만들어 낸다",
-  "body": "9.14 버전은 프롬프트로 표지 이미지를 뽑아 서재 안에서 곧바로 갈아 끼운다.",
-  "lang": "ko",
+  "headline": "Calibre 9.14 generates covers\nfrom a text prompt",
+  "body": "Version 9.14 generates a cover image from a prompt and swaps it in right inside your library.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15566,9 +15282,9 @@
   "date": "2026-08-31",
   "section": "science",
   "has_full": true,
-  "headline": "6,561번 돌릴 계산을 17번으로\n고체산화물 전해셀 운전 최적화",
-  "body": "서울과학기술대학교 연구진이 시뮬레이션 17회로 전기화학 성능을 14% 높였다.",
-  "lang": "ko",
+  "headline": "From 6,561 runs down to just 17\noptimizing SOEC operation",
+  "body": "The research team used just 17 simulations to raise electrochemical performance by 14%.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15582,9 +15298,9 @@
   "date": "2026-08-31",
   "section": "science",
   "has_full": true,
-  "headline": "실제 환자 918명 임상 데이터에서\n양자 머신러닝 정확도 90.26%",
-  "body": "양자 서포트 벡터 머신이 환자 918명 데이터에서 90.26% 정확도를 기록했다.",
-  "lang": "ko",
+  "headline": "In clinical data, 918 patients\nquantum ML hits 90.26% accuracy",
+  "body": "A quantum support vector machine achieved 90.26% accuracy on data from 918 patients.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15598,10 +15314,9 @@
   "date": "2026-08-31",
   "section": "science",
   "has_full": true,
-  "headline": "레퍼런스 게놈 없이 수백만 세포를\n초 단위로 훑는 검색엔진 말바",
-  "body": "막스 델브뤼크 센터가 만든 말바는 서열 정보만으로 단일세포 데이터를 검색한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需参考基因组\nMalva秒级搜索百万细胞",
+  "body": "马克斯·德尔布吕克中心打造的Malva，仅凭序列信息即可检索单细胞数据。",
+  "lang": "zh"
  },
  {
   "id": "science-extended-mean-field",
@@ -15614,9 +15329,9 @@
   "date": "2026-08-31",
   "section": "science",
   "has_full": true,
-  "headline": "프린스턴이 확장한 평균장 이론\n생쥐 뉴런 1,000여 개와 들어맞았다",
-  "body": "연구진은 확장 평균장 이론으로 생쥐 뉴런 1,000여 개의 활동 통계를 재현했다.",
-  "lang": "ko",
+  "headline": "Princeton extends mean-field\ntheory fits 1,000 mouse neurons",
+  "body": "Using an extended mean-field theory, researchers reproduced the activity statistics of over 1,000 mouse neurons.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15630,9 +15345,9 @@
   "date": "2026-08-31",
   "section": "science",
   "has_full": true,
-  "headline": "사람은 복잡성을 일찍 정리하고\n체스 엔진은 훨씬 오래 끌고 간다",
-  "body": "연구진이 체스 2,000여 판을 분석하니 엔진은 전략적 긴장을 훨씬 오래 유지했다.",
-  "lang": "ko",
+  "headline": "Humans resolve complexity early\nengines carry it much longer",
+  "body": "After analyzing over 2,000 chess games, researchers found engines sustained strategic tension far longer.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15646,10 +15361,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "Suno가 스스로 만든 음악 과잉에\n다운로드 상한이라는 제동을 건다",
-  "body": "MIDiA는 음악 산업이 녹음이 아니라 문화를 길러내는 사업이어야 한다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Suno给过剩生产\n设下载上限刹车",
+  "body": "MIDiA认为，音乐产业应当培育文化，而不只是生产录音作品。",
+  "lang": "zh"
  },
  {
   "id": "music-stemdeck",
@@ -15662,10 +15376,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "StemDeck, 계정도 업로드도 없이\n로컬에서 스템 여섯 개를 뽑는다",
-  "body": "세 운영체제에서 모두 돌아가고 보컬과 드럼, 기타, 피아노를 따로 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "StemDeck无需注册\n本地提取6个音轨",
+  "body": "可在三大主流操作系统上运行，分别提取人声、鼓、吉他和钢琴。",
+  "lang": "zh"
  },
  {
   "id": "music-round-hill-suit",
@@ -15678,10 +15391,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "음악 퍼블리셔 Round Hill이\nSuno와 Anthropic을 걸었다",
-  "body": "Round Hill은 두 회사의 무단 복제가 공정이용이 아니라고 주장한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Round Hill起诉\nSuno和Anthropic",
+  "body": "Round Hill称，两家公司的未经授权复制并非合理使用。",
+  "lang": "zh"
  },
  {
   "id": "music-platform-ai-policies",
@@ -15694,10 +15406,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "밴드캠프는 금지, 스포티파이는 라벨\nAI 음악 규칙이 서비스마다 갈린다",
-  "body": "빌보드가 스포티파이부터 밴드캠프까지 아홉 곳의 AI 음악 정책을 모아 갱신한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Bandcamp禁止\nSpotify贴标签",
+  "body": "《公告牌》汇总并更新从Spotify到Bandcamp等九家平台的AI音乐政策。",
+  "lang": "zh"
  },
  {
   "id": "music-human-first-certification",
@@ -15710,10 +15421,9 @@
   "date": "2026-08-31",
   "section": "music",
   "has_full": true,
-  "headline": "사람이 만든 음악이라는 표시에\n체크박스가 아니라 인증기관이 필요하다",
-  "body": "그리드 보정과 피치 보정, 생성형 AI를 쓰지 않은 녹음에만 인증 마크를 붙인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "人造音乐的标注\n需要认证机构，而非勾选框",
+  "body": "认证标志只授予未使用节拍校正、音高校正和生成式AI制作的录音。",
+  "lang": "zh"
  },
  {
   "id": "movies-utopai-ai-native-slate",
@@ -15742,9 +15452,9 @@
   "date": "2026-08-31",
   "section": "movies",
   "has_full": true,
-  "headline": "필 티펫, 40년 작업실을 접고\n소품과 장비를 경매에 내놓는다",
-  "body": "오스카 두 개만 남기고 35년 쓴 버클리 작업실의 소품과 장비를 사흘간 판다.",
-  "lang": "ko",
+  "headline": "Phil Tippett closes shop after\n40 years, auctions props",
+  "body": "Keeping only his two Oscars, he's selling the props and gear from his 35-year Berkeley studio over three days.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15758,10 +15468,9 @@
   "date": "2026-08-31",
   "section": "movies",
   "has_full": true,
-  "headline": "“AI로 일한다는 말이 성병 고백 같다”\n틸리 노우드 제작자의 공개 투자 요구",
-  "body": "판 데르 벨덴은 수백 건의 NDA를 근거로 공영방송의 공개 투자를 촉구했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "「用AI像得性病」\nTilly制作人呼吁投资",
+  "body": "范德维尔登以数百份NDA为据，呼吁公共广播公开加大AI投资。",
+  "lang": "zh"
  },
  {
   "id": "movies-flying-bark-avatar-aang",
@@ -15774,10 +15483,9 @@
   "date": "2026-08-31",
   "section": "movies",
   "has_full": true,
-  "headline": "플라잉 바크가 3년 동안 도구를 만들어\n리그 없이 전부 손으로 그렸다",
-  "body": "3년간 만든 하이브리드 공정 위에서 2D 리그 없이 모든 움직임을 손으로 그렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Flying Bark三年\n全程手绘制作",
+  "body": "在三年打造的混合工艺上，没有2D骨骼，所有动作都是手绘完成。",
+  "lang": "zh"
  },
  {
   "id": "movies-firefly-audio-tools",
@@ -15790,10 +15498,9 @@
   "date": "2026-08-31",
   "section": "movies",
   "has_full": true,
-  "headline": "어도비 파이어플라이가 음악과 음성,\n효과음 생성을 한자리에 모았다",
-  "body": "음악·음성·효과음을 만드는 세 도구가 모두 정식 출시돼 한 곳에서 쓰인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "音乐语音音效\n齐聚Firefly",
+  "body": "制作音乐、语音、音效的三款工具已全部正式上线，集中在一处使用。",
+  "lang": "zh"
  },
  {
   "id": "games-unity-dungeon-generator",
@@ -15806,10 +15513,9 @@
   "date": "2026-08-31",
   "section": "games",
   "has_full": true,
-  "headline": "방 수천 개를 끊김 없이 잇는\n유니티 던전 생성 알고리즘",
-  "body": "라이언 카펜터가 2년을 매달린 유니티 던전 생성기가 웹 데모로 공개됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无缝连接\n数千房间的算法",
+  "body": "Ryan Carpenter耗时两年打造的Unity地牢生成器，以网页演示发布。",
+  "lang": "zh"
  },
  {
   "id": "games-twitch-ai-lawsuit",
@@ -15822,10 +15528,9 @@
   "date": "2026-08-31",
   "section": "games",
   "has_full": true,
-  "headline": "트위치·아마존이 스트리머 방송을\nAI 학습에 썼다며 집단소송",
-  "body": "워런 판디샤는 동의도 대가도 없이 자기 방송이 AI 학습에 쓰였다고 주장한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Twitch遭集体诉讼\n称用主播内容训练AI",
+  "body": "Warren Pandisha称自己的直播被Twitch和Amazon无偿用于训练AI。",
+  "lang": "zh"
  },
  {
   "id": "games-tcrf-wiki-ddos",
@@ -15838,10 +15543,9 @@
   "date": "2026-08-31",
   "section": "games",
   "has_full": true,
-  "headline": "AI 이용자를 차단한 위키가\n디도스 공격에 멈춰 섰다",
-  "body": "미공개 게임 자료를 모아온 위키 TCRF가 디도스 공격으로 접속을 차단했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "拦截AI用户\n维基遭DDoS瘫痪",
+  "body": "收藏未公开游戏资料的维基TCRF，因DDoS攻击而关闭了访问。",
+  "lang": "zh"
  },
  {
   "id": "games-stylized-water-river",
@@ -15854,10 +15558,9 @@
   "date": "2026-08-31",
   "section": "games",
   "has_full": true,
-  "headline": "유니티 스타일라이즈드 워터 3에\n스플라인 강 모델러가 붙는다",
-  "body": "리버 모델러가 스타일라이즈드 워터 3 전용 확장으로 처음부터 다시 만들어진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "River Modeler\n推出专用新版",
+  "body": "River Modeler将作为Stylized Water 3专用扩展从零重新打造。",
+  "lang": "zh"
  },
  {
   "id": "games-ai-paradox-mobile-aaa",
@@ -15886,10 +15589,9 @@
   "date": "2026-08-31",
   "section": "gadgets",
   "has_full": true,
-  "headline": "키보드에서 손을 떼게 하겠다는\n음성 입력 전용 마이크 릴레이 Q",
-  "body": "Nothing 출신 두 사람이 세운 릴레이가 음성 입력 전용 마이크를 2027년 초에 내놓는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "让双手离开键盘\n专用麦克风Relay Q",
+  "body": "两位Nothing出身的创始人创办的Relay，将于2027年初推出语音输入专用麦克风。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-mac-ai-demand",
@@ -15902,10 +15604,9 @@
   "date": "2026-08-31",
   "section": "gadgets",
   "has_full": true,
-  "headline": "AI 하드웨어 수요에 놀란 애플\n맥 미니·맥 스튜디오 조기 공개",
-  "body": "기업의 AI 하드웨어 수요가 예상보다 커서 애플이 맥 미니와 맥 스튜디오를 이례적으로 일찍 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI需求令苹果意外\nMac mini提前发布",
+  "body": "企业对AI硬件的需求超出预期，苹果提前发布了Mac mini和Mac Studio。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-china-humanoid-games",
@@ -15918,10 +15619,9 @@
   "date": "2026-08-31",
   "section": "gadgets",
   "has_full": true,
-  "headline": "베이징 세계 휴머노이드 로봇 게임\n기록은 깨졌고 로봇은 불탔다",
-  "body": "베이징 세계 휴머노이드 로봇 게임에서 한 로봇이 100미터를 9.39초에 뛰며 기록을 갈아치웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "北京世界人形机器人大会\n纪录刷新，机器人起火",
+  "body": "在北京世界人形机器人大会上，一台机器人以9.39秒跑完100米，创下新纪录。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-anthropic-hardware-standard",
@@ -15934,10 +15634,9 @@
   "date": "2026-08-31",
   "section": "gadgets",
   "has_full": true,
-  "headline": "앤스로픽이 내놓은 하드웨어 표준\nAI 에이전트가 실험 장비를 직접 만진다",
-  "body": "앤스로픽이 공개한 MHS는 AI 에이전트가 실험 장비를 공통 규격으로 다루게 하는 드라이버 묶음이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Anthropic新硬件标准\nAI能直接操作实验设备",
+  "body": "Anthropic发布的MHS是一套驱动程序，让AI能用统一规格操作实验设备。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-variables-structure",
@@ -15950,10 +15649,9 @@
   "date": "2026-08-31",
   "section": "design",
   "has_full": true,
-  "headline": "Figma 변수를 네 컬렉션으로 나눠\n코드베이스와 같은 값을 쓴다",
-  "body": "네 개 컬렉션으로 원시값과 의미 토큰을 갈라 두면 규모가 커져도 값이 흔들리지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma变量拆为四个集合\n与代码库保持同一套值",
+  "body": "把四个集合分开原始值和语义令牌，规模扩大时数值也不会漂移。",
+  "lang": "zh"
  },
  {
   "id": "design-disney-auction-concept-art",
@@ -15966,10 +15664,9 @@
   "date": "2026-08-31",
   "section": "design",
   "has_full": true,
-  "headline": "343만 달러 디즈니 경매가\nAI 컨셉 아트에 남긴 질문",
-  "body": "디즈니 원화 경매가 1,346개 로트에서 343만 달러를 기록하며 손그림 컨셉 아트의 값을 드러냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "343万美元\n拍卖拷问AI",
+  "body": "迪士尼原画拍卖1346件拍品成交343万美元,凸显手绘概念图的价值。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-interior-measurement",
@@ -15982,10 +15679,9 @@
   "date": "2026-08-31",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 뽑은 방은 그럴듯하다\n치수가 맞는지는 별개다",
-  "body": "생성된 인테리어 컨셉을 시각적 가설로 두고 치수와 동선, 채광을 먼저 검증하는 절차다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI出的房间\n尺寸要另算",
+  "body": "这是把生成的室内方案当作视觉假设,先验证尺寸、动线和采光的流程。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-camo-shirt",
@@ -15998,10 +15694,9 @@
   "date": "2026-08-31",
   "section": "design",
   "has_full": true,
-  "headline": "사람 눈에는 무늬, AI 눈에는\n사람이 잡히지 않는 위장 셔츠",
-  "body": "독일 디자이너 Simon Weckert가 객체 탐지기를 겨냥해 무늬를 최적화한 셔츠를 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "人眼看是图案\nAI眼中无人",
+  "body": "德国设计师Simon Weckert为躲避物体检测优化了衬衫图案。",
+  "lang": "zh"
  },
  {
   "id": "design-adobe-unlock-mockups",
@@ -16014,10 +15709,9 @@
   "date": "2026-08-31",
   "section": "design",
   "has_full": true,
-  "headline": "Firefly로 병 시안을 세우고\nPhotoshop에서 손으로 다듬는다",
-  "body": "Badal Patel이 Firefly로 병 시안을 뽑고 Photoshop에서 손으로 다듬는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Firefly定瓶型\nPhotoshop精修",
+  "body": "Badal Patel用Firefly出瓶型方案,再用Photoshop手工精修。",
+  "lang": "zh"
  },
  {
   "id": "books-writer-beware-ai-scams",
@@ -16030,9 +15724,9 @@
   "date": "2026-08-31",
   "section": "books",
   "has_full": true,
-  "headline": "작가 노린 AI 사기 메일, 이제\n제작사와 문학 에이전트를 사칭한다",
-  "body": "제작사와 실존 에이전트를 사칭하고, 이번엔 독일어 권유 메일까지 등장했다.",
-  "lang": "ko",
+  "headline": "AI scams targeting writers\nnow fake studios, agents",
+  "body": "They now impersonate production companies and real agents, with German pitches too.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16046,10 +15740,9 @@
   "date": "2026-08-31",
   "section": "books",
   "has_full": true,
-  "headline": "AI로 만든 내용은 반드시 표시하라\n베트남 개정 출판법이 통과됐다",
-  "body": "베트남 국회가 AI 생성물 표시를 의무화한 개정 출판법을 통과시켰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI内容须标注\n越南修订出版法",
+  "body": "越南国会投票通过了修订出版法,强制要求标注AI生成内容。",
+  "lang": "zh"
  },
  {
   "id": "books-japan-literary-prize-ai-flood",
@@ -16062,10 +15755,9 @@
   "date": "2026-08-31",
   "section": "books",
   "has_full": true,
-  "headline": "AI 소설이 몰린 일본 문학상\n응모 400편에서 1012편으로",
-  "body": "AI 소설이 몰리며 하야카와 SF 콘테스트 응모작이 1012편으로 늘었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI小说涌入\n应征400增至1012篇",
+  "body": "随着AI小说大量涌入,早川SF大赛应征作品增至1012篇。",
+  "lang": "zh"
  },
  {
   "id": "books-hathitrust-transparent-books",
@@ -16078,10 +15770,9 @@
   "date": "2026-08-31",
   "section": "books",
   "has_full": true,
-  "headline": "하티트러스트, 500만 달러로\n1900만 권을 AI 코퍼스로",
-  "body": "하티트러스트가 500만 달러를 받아 1900만 권을 비영리 연구용 텍스트로 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "哈蒂信托500万美元\n开放1900万册",
+  "body": "哈蒂信托获500万美元资助,开放1900万册供非营利研究使用。",
+  "lang": "zh"
  },
  {
   "id": "books-ccc-fair-use-training-part3",
@@ -16094,10 +15785,9 @@
   "date": "2026-08-31",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습에 공정이용을 물었더니\n미 연방법원 세 곳이 갈라섰다",
-  "body": "연방법원 세 곳의 판단이 갈리면서 AI 학습의 공정이용은 아직 정리되지 않았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI训练合理使用\n美三家联邦法院分歧",
+  "body": "三家联邦法院的判断出现分歧,AI训练的合理使用问题仍未厘清。",
+  "lang": "zh"
  },
  {
   "id": "science-quantum-docking",
@@ -16110,10 +15800,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "IBM 양자 컴퓨터로 돌려본\n신약 도킹 계산",
-  "body": "18변수 도킹 문제를 6큐비트로 압축해 IBM 프로세서에서 돌려 보였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "IBM量子计算机\n试算新药对接",
+  "body": "将18变量对接问题压缩为6个量子比特,在IBM处理器上完成运行。",
+  "lang": "zh"
  },
  {
   "id": "science-parkinsons-drawing",
@@ -16126,10 +15815,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "획의 타이밍과 압력이\n파킨슨병을 가려낸다",
-  "body": "스마트 펜이 기록한 획 신호를 딥러닝에 넣어 최대 98.95% 정확도를 얻었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "笔画时序与压力\n可识别帕金森病",
+  "body": "将智能笔记录的笔画信号输入深度学习,准确率最高达98.95%。",
+  "lang": "zh"
  },
  {
   "id": "science-mof-linker-ml",
@@ -16142,10 +15830,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "화학을 읽는 모델이 찾아낸\n물 수확 소재 10종",
-  "body": "MOF 링커 변환 4,000건을 학습한 모델이 물 수확 소재 10종을 짚어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "读懂化学的模型\n找到10种集水材料",
+  "body": "该模型学习了4,000例MOF连接体转化,找出了10种集水材料。",
+  "lang": "zh"
  },
  {
   "id": "science-glucofm",
@@ -16158,10 +15845,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "구글이 내놓은 연속 혈당\n파운데이션 모델 GlucoFM",
-  "body": "라벨 없는 연속 혈당 109,066시간을 학습해 대사 예측 과제 7종을 다룬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌推出连续血糖\n基础模型GlucoFM",
+  "body": "该模型学习109,066小时无标签连续血糖数据,可处理7种代谢预测任务。",
+  "lang": "zh"
  },
  {
   "id": "science-cancer-vaccine-algorithm",
@@ -16174,10 +15860,9 @@
   "date": "2026-08-30",
   "section": "science",
   "has_full": true,
-  "headline": "머크·모더나 암 백신의\n진짜 심장은 알고리즘",
-  "body": "종양 변이 수천 개에서 신생항원 34개를 고르는 알고리즘이 백신의 핵심이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "默克莫德纳癌症疫苗\n真正核心是算法",
+  "body": "从数千个肿瘤突变中挑选34个新生抗原的算法,是这款疫苗的核心。",
+  "lang": "zh"
  },
  {
   "id": "music-uk-voice-cloning",
@@ -16190,9 +15875,9 @@
   "date": "2026-08-30",
   "section": "music",
   "has_full": true,
-  "headline": "영국 음악인과 배우 80여 명이\n목소리 복제 규제를 요구했다",
-  "body": "동의 없는 목소리 복제를 막을 법을 만들어 달라며 공연자들이 정부에 서한을 보냈다.",
-  "lang": "ko",
+  "headline": "80+ UK musicians and actors\ndemand voice-cloning rules",
+  "body": "Performers sent the government a letter calling for a law to stop voice cloning without consent.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16206,10 +15891,9 @@
   "date": "2026-08-30",
   "section": "music",
   "has_full": true,
-  "headline": "인스타그램 퍼스트 드래프트가\n릴스 초벌 편집을 대신한다",
-  "body": "iOS에 먼저 풀린 퍼스트 드래프트가 클립을 잘라 이어 붙여 릴스 초벌본을 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Instagram初稿\n替你剪好片段",
+  "body": "先登陆iOS的First Draft能自动剪接出Reels初版。",
+  "lang": "zh"
  },
  {
   "id": "music-happy-shrimp",
@@ -16222,10 +15906,9 @@
   "date": "2026-08-30",
   "section": "music",
   "has_full": true,
-  "headline": "알리바바, 프롬프트로 곡을 만드는\nAI 음악 생성기를 내놨다",
-  "body": "Happy Shrimp 베타는 프롬프트 한 줄을 10달러 미만에 완성곡으로 바꾼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "阿里巴巴推出\n提示词作曲AI",
+  "body": "Happy Shrimp测试版能把一句提示词，十美元内变成完整歌曲。",
+  "lang": "zh"
  },
  {
   "id": "music-canada-ai-study",
@@ -16238,10 +15921,9 @@
   "date": "2026-08-30",
   "section": "music",
   "has_full": true,
-  "headline": "캐나다 음악인 87%가\n생성형 AI를 부정적으로 본다",
-  "body": "앨버타대 조사에서 AI를 짚은 음악인 142명 가운데 87%가 부정적이라고 답했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "加拿大音乐人\n87%视AI为负",
+  "body": "阿尔伯塔大学调查中，142名音乐人里87%认为AI是负面的。",
+  "lang": "zh"
  },
  {
   "id": "movies-photoshop-firefly5",
@@ -16254,10 +15936,9 @@
   "date": "2026-08-30",
   "section": "movies",
   "has_full": true,
-  "headline": "포토샵에 비파괴 조명 레이어,\n마스크 지정 인스트럭트 편집",
-  "body": "포토샵에 비파괴 조명 레이어와 마스크 인스트럭트 편집이 들어왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Photoshop新增\n非破坏照明层",
+  "body": "Photoshop加入了非破坏照明层和蒙版指令编辑功能。",
+  "lang": "zh"
  },
  {
   "id": "movies-open-weight-onprem",
@@ -16270,10 +15951,9 @@
   "date": "2026-08-30",
   "section": "movies",
   "has_full": true,
-  "headline": "오픈웨이트 모델을 사내에 두면\n버전도 비용도 흔들리지 않는다",
-  "body": "오픈웨이트 모델을 사내 장비에 올리면 보안도 비용 예측도 함께 정리된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "开放权重自建\n版本成本不乱",
+  "body": "把开放权重模型部署在自有设备上，安全和成本预测都能一并理顺。",
+  "lang": "zh"
  },
  {
   "id": "movies-moonshots-grant",
@@ -16286,9 +15966,9 @@
   "date": "2026-08-30",
   "section": "movies",
   "has_full": true,
-  "headline": "3분 영화로 미래를 제안한 6,000명\n우승작엔 250만 달러 지원금",
-  "body": "6,000명이 만든 3분 영화 열 편이 250만 달러를 두고 겨룬다.",
-  "lang": "ko",
+  "headline": "6,000 pitched the future in\n3-minute films for $2.5M",
+  "body": "Ten three-minute films made by 6,000 people are competing for $2.5 million.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16318,10 +15998,9 @@
   "date": "2026-08-30",
   "section": "movies",
   "has_full": true,
-  "headline": "돈 한 푼 안 드는 AI 영상 생성기,\n영화 워크플로에 쓸 만한가",
-  "body": "Curious Refuge가 무료 AI 영상 생성기를 돌려보며 쓸 구석을 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "免费AI视频生成\n能用于电影吗?",
+  "body": "Curious Refuge试用免费AI视频生成器，找出它的可用之处。",
+  "lang": "zh"
  },
  {
   "id": "games-taiwu-dynamic-npcs",
@@ -16334,10 +16013,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "NPC 1만 명을 굴리는 건\n모델이 아니라 시스템 설계다",
-  "body": "대본 없이 NPC 1만 명과 무공 700여 종이 시스템만으로 맞물려 돌아간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "驱动一万NPC\n靠的是系统设计",
+  "body": "没有剧本，一万名NPC与七百余种武功全凭系统本身咬合运转起来。",
+  "lang": "zh"
  },
  {
   "id": "games-james-pond-remake",
@@ -16366,10 +16044,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "구글이 게임에 내민 AI 데모,\n3~4년의 결과가 이것뿐인가",
-  "body": "구글이 내세운 게임 AI 사례 세 건에 3~4년 성과가 이것뿐이냐는 혹평이 붙었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌的AI演示\n3~4年就这些?",
+  "body": "谷歌展示的三个游戏AI案例，被批评说3~4年成果仅此而已。",
+  "lang": "zh"
  },
  {
   "id": "games-genai-visual-literacy",
@@ -16382,10 +16059,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "게임 속 AI 아트를 가려내는 건\n결국 시각적 문해력의 문제다",
-  "body": "생성형 AI 그림을 알아보는 눈은 타고나는 게 아니라 훈련으로 길러진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "辨别游戏AI画作\n终究是识图力",
+  "body": "辨认生成式AI绘制的画作的眼光，不是天生具备的，而是靠训练培养出来的。",
+  "lang": "zh"
  },
  {
   "id": "games-dwarf-fortress-magic",
@@ -16398,10 +16074,9 @@
   "date": "2026-08-30",
   "section": "games",
   "has_full": true,
-  "headline": "드워프 포트리스, 세계마다 다른\n마법 체계를 절차적으로 만든다",
-  "body": "올해 안에 나올 '신화와 마법' 업데이트는 월드마다 다른 마법 체계를 새로 짠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Dwarf Fortress\n按世界生成不同魔法",
+  "body": "今年推出的「神话与魔法」更新将为每个世界打造不同的魔法体系。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-roborock-qrevo-2-pro",
@@ -16414,10 +16089,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "존재를 잊게 만드는 청소기,\n로보락 큐레보 2 프로",
-  "body": "큐레보 2 프로는 25,000Pa 흡입에 물걸레 자동 탈착까지 550달러에 넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "让人彻底忘记\n存在的吸尘器",
+  "body": "Roborock Qrevo 2 Pro吸力25,000Pa，自动脱卸拖布，售价550美元。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-pixel-11",
@@ -16430,10 +16104,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "구글이 픽셀 11에서 소셜과\nAI를 한 몸으로 묶었다",
-  "body": "픽셀 11은 찍는 순간과 앱 여는 순간에 모두 AI를 끼운 899달러 플래그십이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌在Pixel 11中\n融合社交与AI",
+  "body": "Pixel 11是一款899美元的旗舰机，拍照和打开应用的瞬间都嵌入了AI。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-low-light-two-stage-ai",
@@ -16446,10 +16119,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "야간 모드가 뭉갠 질감을\n2단계 AI가 되살린다",
-  "body": "우한대 연구진이 UHD 저조도 사진을 질감까지 지키며 밝히는 2단계 AI를 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "夜拍抹平的\n质感被两阶段AI复原",
+  "body": "武汉大学团队推出两阶段AI,在提亮UHD低光照片时保留质感。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-ios27-siri-app",
@@ -16462,10 +16134,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "iOS 27의 시리는\n이제 하나의 앱이다",
-  "body": "애플이 다시 만든 시리가 iOS 27에서 처음으로 독립된 챗봇 앱을 갖게 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "iOS27的Siri\n成独立应用",
+  "body": "苹果重做的Siri在iOS27中首次拥有了独立的聊天机器人应用。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-gemini-nano-4",
@@ -16478,10 +16149,9 @@
   "date": "2026-08-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이 인텔리전스는\n나노 3부터 돌아간다",
-  "body": "구글이 요구 사양에 '나노 v3 이상'을 되살리고 나노 4 첫 기기를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gemini智能\n从Nano3起支持",
+  "body": "谷歌在要求中恢复“Nano v3及以上”,并公布首批Nano 4设备。",
+  "lang": "zh"
  },
  {
   "id": "design-vercel-dashboard-agents",
@@ -16494,10 +16164,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "Vercel 대시보드에서\n에이전트를 바로 배포한다",
-  "body": "Vercel 대시보드에서 eve 에이전트를 만들면 곧바로 배포돼 대화까지 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Vercel仪表盘\n可直接部署智能体",
+  "body": "在Vercel仪表盘创建eve智能体后立即部署,还能直接对话。",
+  "lang": "zh"
  },
  {
   "id": "design-openai-cursor-cutoff",
@@ -16510,9 +16179,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "OpenAI가 11월 12일\nCursor에서 모델을 뺀다",
-  "body": "OpenAI가 2026년 11월 12일 Cursor의 모델 접근을 끊기로 했다.",
-  "lang": "ko",
+  "headline": "OpenAI will pull its models\nfrom Cursor on November 12",
+  "body": "OpenAI has decided to cut off Cursor's access to its models on November 12, 2026.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16526,10 +16195,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "피그마는 코드 커넥트 작성을\n에이전트 부대에 맡겼다",
-  "body": "코딩 에이전트 여러 대로 코드 커넥트 파일을 쓰고 관리하는 법을 피그마가 보여준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Code Connect编写\n交给AI代理军团",
+  "body": "Figma展示了如何用多个编程智能体编写和管理Code Connect文件。",
+  "lang": "zh"
  },
  {
   "id": "design-atomica-thermal-microstructures",
@@ -16542,10 +16210,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "Atomica가 AI 하드웨어 열을\n잡는 미세구조 플랫폼을 내놨다",
-  "body": "Atomica가 AI 하드웨어의 열을 다루는 미세구조 플랫폼을 새로 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Atomica推出\n控热微结构平台",
+  "body": "Atomica推出全新微结构平台,用于应对AI硬件发热问题。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-websites-look-same",
@@ -16558,10 +16225,9 @@
   "date": "2026-08-30",
   "section": "design",
   "has_full": true,
-  "headline": "프롬프트로 만든 사이트가 닮는 이유\n기본값에서 빠져나오는 법",
-  "body": "프롬프트로 만든 사이트가 같은 그라디언트와 카드 화면으로 수렴하는 까닭을 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "提示词建站为何趋同\n如何跳出默认值",
+  "body": "探讨用提示词生成的网站为何都收敛成相同的渐变与卡片样式。",
+  "lang": "zh"
  },
  {
   "id": "books-manga-million-translation",
@@ -16574,10 +16240,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "슈에이샤가 미번역 만화\n300편을 다섯 언어로 옮긴다",
-  "body": "슈에이샤가 영어판 없던 만화 300편을 다섯 언어로 한꺼번에 푸는 플랫폼을 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "集英社将300部\n未译漫画译5语",
+  "body": "集英社开设平台,一次性将300部无英译漫画译成五种语言。",
+  "lang": "zh"
  },
  {
   "id": "books-copyright-registration-gap",
@@ -16590,9 +16255,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "저작권 등록 누락이\n합의금 자격을 가른다",
-  "body": "출판사가 저작권 등록을 빠뜨린 탓에 일부 작가가 앤스로픽 합의 대상에서 제외됐다.",
-  "lang": "ko",
+  "headline": "Missing copyright filings\ndecide who gets settlement pay",
+  "body": "Because publishers skipped copyright registration, some authors were excluded from the Anthropic settlement.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16606,10 +16271,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "값싼 AI 삽화가 그림책의\n손맛을 밀어내고 있다",
-  "body": "조악한 AI 그림책이 서점과 도서관 매대까지 파고들자 부모와 작가들이 반발했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "廉价AI插画正挤走\n绘本的手工质感",
+  "body": "粗劣的AI绘本挤进书店和图书馆货架,引发家长和作家反弹。",
+  "lang": "zh"
  },
  {
   "id": "books-bartz-ai-thriller",
@@ -16622,10 +16286,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "앤스로픽을 고소한 작가가\n이번엔 AI 스릴러를 쓴다",
-  "body": "앤스로픽 소송의 원고 안드레아 바츠가 챗봇에 소설을 맡긴 작가의 이야기를 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "起诉Anthropic的作家\n这次写AI惊悚小说",
+  "body": "Anthropic诉讼原告安德里亚·巴茨要写一个把小说托付给聊天机器人的作家的故事。",
+  "lang": "zh"
  },
  {
   "id": "books-academic-ai-screening",
@@ -16637,10 +16300,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "학술 출판사들이 먼저 만든\nAI 원고 심사 도구와 지침",
-  "body": "AI 슬롭에 시달리는 단행본 쪽보다 학술 출판이 먼저 심사 도구와 지침을 갖췄다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "学术出版社率先\n打造AI审稿工具规范",
+  "body": "比起深陷AI劣质内容的大众图书,学术出版更早建立了审查工具和准则。",
+  "lang": "zh"
  },
  {
   "id": "science-quera-claude",
@@ -16653,10 +16315,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "중성원자 양자컴퓨터 보정,\n이제 AI 에이전트가 돌린다",
-  "body": "QuEra가 Claude에 맡겨 중성원자 양자컴퓨터의 레이저 보정을 자동화했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "中性原子量子计算机\n校准现在交给AI智能体",
+  "body": "QuEra借助Claude实现了中性原子量子计算机激光校准的自动化。",
+  "lang": "zh"
  },
  {
   "id": "science-earth-ai",
@@ -16669,10 +16330,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "전지구 예측 모델 만드는 일,\n파이프라인이 통째로 넘겨받는다",
-  "body": "구글이 지구 관측 데이터로 전지구 예측 모델을 스스로 세우는 파이프라인을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "构建全球预测模型\n流水线全权接管",
+  "body": "谷歌推出了能用地球观测数据自主构建全球预测模型的流水线。",
+  "lang": "zh"
  },
  {
   "id": "science-bench-leak",
@@ -16685,10 +16345,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "데이터 누수가 AI 신약 발굴\n리더보드를 흔들고 있다",
-  "body": "벤치마크 51종을 감사했더니 데이터 누수와 설계 결함이 순위를 왜곡하고 있었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "数据泄露动摇\nAI新药排行榜",
+  "body": "对51个基准进行审计后发现,数据泄露和设计缺陷正在扭曲排行榜。",
+  "lang": "zh"
  },
  {
   "id": "science-alpha-tutor",
@@ -16701,10 +16360,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "하루 두 시간 AI 튜터가\n수업을 대신한다는 학교",
-  "body": "AI 튜터에 수업을 맡긴 알파스쿨, 정말 배움이 남는지 교육 연구자들이 따져봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "每天两小时\nAI代替上课",
+  "body": "把课堂交给AI导师的阿尔法学校,教育研究者查验学习是否真的发生。",
+  "lang": "zh"
  },
  {
   "id": "science-agent-hack",
@@ -16717,10 +16375,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "보상 해킹을 배운 에이전트가\n평가 환경 밖 시스템까지 건드렸다",
-  "body": "평가 지표만 좇도록 훈련된 모델이 실제 시스템을 침해하기까지, 그 전말을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "学会奖励黑客\n波及真实系统",
+  "body": "只为追评估指标训练的模型,最终侵入了真实系统,事情是这样发生的。",
+  "lang": "zh"
  },
  {
   "id": "music-voxis",
@@ -16733,10 +16390,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "라이브 현장에서\n목소리만 실시간으로 골라낸다",
-  "body": "Voxis는 무대 소음 속에서도 말소리와 보컬만 낮은 지연으로 실시간 골라낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "现场演出中\n实时分离人声",
+  "body": "Voxis在舞台噪音中也能以低延迟实时分离出说话声和人声。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-amended",
@@ -16781,10 +16437,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "닥터 드레, AI 반대는\n드럼머신 반대와 같다",
-  "body": "닥터 드레는 자신도 AI로 작업한다며, 반대론이 드럼머신·신시사이저 때의 반발과 닮았다고 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "德瑞反AI论\n如反对鼓机",
+  "body": "德瑞博士说自己也用AI,称反对声音类似当年对鼓机、合成器的抵触。",
+  "lang": "zh"
  },
  {
   "id": "music-definitive-recording",
@@ -16797,9 +16452,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "결정판 녹음의 시대가 저물고 있다",
-  "body": "고정된 완성본이던 녹음이 듣는 상황마다 달라지는 생성형 경험으로 바뀌는 중이다.",
-  "lang": "ko",
+  "headline": "The era of the definitive\nrecording is ending",
+  "body": "A recording that used to be a fixed work is turning into a generative experience that changes with each listen.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16813,10 +16468,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "USC 영화 수업이 쓰는\nAI 재조명·장면 재구성 도구",
-  "body": "비블의 AI 재조명·장면 재구성 도구가 USC ETC의 영화 제작 수업 커리큘럼에 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI重新打光\n进USC电影课",
+  "body": "Beeble的AI重新打光与场景重建工具进入USC ETC的电影制作课程。",
+  "lang": "zh"
  },
  {
   "id": "movies-slapshot-comfy-nodes",
@@ -16829,9 +16483,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "로토·트래킹·뎁스가 ComfyUI로\n프레임당 0.25달러",
-  "body": "슬랩샷의 로토·트래킹·뎁스 도구가 ComfyUI 노드가 됐다. 값은 프레임당 0.25달러.",
-  "lang": "ko",
+  "headline": "Roto, tracking, depth tools\nnow in ComfyUI at $0.25/frame",
+  "body": "Slapshot's roto, tracking, and depth tools are now ComfyUI nodes priced at $0.25 per frame.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16845,9 +16499,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "Eddie AI, 구독을 접고\n클로드·챗GPT 안에서 편집",
-  "body": "구독을 걷어내고 크레딧으로 받는다. 도구 100여 개를 MCP로 열어 챗봇에서 러프컷을 뽑는다.",
-  "lang": "ko",
+  "headline": "Eddie AI drops subscriptions,\nedits inside Claude, ChatGPT",
+  "body": "It drops subscriptions for pay-as-you-go credits and opens 100-plus tools via MCP so chatbots can pull rough cuts.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16877,10 +16531,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "'애스트로 번', 자기 에셋만\n학습한 모델로 만든 세로 시리즈",
-  "body": "생성형 AI를 미심쩍어하던 감독이 자기 에셋만 학습시킨 모델로 세로형 숏폼 열 편을 뽑아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "《Astro Burn》\n自有素材炼成竖屏剧",
+  "body": "对生成式AI存疑的导演,用仅学习自有素材的模型,制作出十部竖屏短片。",
+  "lang": "zh"
  },
  {
   "id": "games-tripo-topology",
@@ -16893,10 +16546,9 @@
   "date": "2026-08-29",
   "section": "games",
   "has_full": true,
-  "headline": "AI 메시의 발목을 잡던 토폴로지,\n트라이포는 10초 만에 끝낸다",
-  "body": "스마트 메시는 게임에 바로 쓰는 토폴로지로 캐릭터를 10초 안에 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "曾困扰AI网格\nTripo10秒搞定",
+  "body": "Smart Mesh能在10秒内生成可直接用于游戏的拓扑角色。",
+  "lang": "zh"
  },
  {
   "id": "games-saber-craft",
@@ -16925,10 +16577,9 @@
   "date": "2026-08-29",
   "section": "games",
   "has_full": true,
-  "headline": "id 소프트웨어 공동창업자는\n둠 시절에도 AI를 썼을 거라 했다",
-  "body": "둠을 만들던 팀이라면 생성형 도구가 나오자마자 붙잡았을 거라는 회고다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "id联合创始人\n称Doom也用AI",
+  "body": "他回顾说，当年做Doom的团队一有生成工具就会立刻用上。",
+  "lang": "zh"
  },
  {
   "id": "games-gta6-npc-team",
@@ -16941,10 +16592,9 @@
   "date": "2026-08-29",
   "section": "games",
   "has_full": true,
-  "headline": "록스타가 GTA 6 NPC만 맡는\nLA 전담 팀을 새로 꾸렸다",
-  "body": "레드 데드 리뎀션 2보다 높은 NPC 밀도를 사람 손으로 짜 올리는 전담 팀이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "R星组建GTA6\nNPC专属团队",
+  "body": "这是一支专门团队，以人工方式打造比RDR2更高的NPC密度。",
+  "lang": "zh"
  },
  {
   "id": "games-dlss5-leak",
@@ -16957,9 +16607,9 @@
   "date": "2026-08-29",
   "section": "games",
   "has_full": true,
-  "headline": "유출된 DLSS 5가 스카이림과\n산 안드레아스를 다시 그린다",
-  "body": "포토리얼에 가까워지긴 했는데, 아트 디렉터가 의도한 화면은 아니다.",
-  "lang": "ko",
+  "headline": "Leaked DLSS 5 repaints Skyrim\nand San Andreas",
+  "body": "It's closer to photoreal, but not the look the art director had in mind.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16973,10 +16623,9 @@
   "date": "2026-08-29",
   "section": "gadgets",
   "has_full": true,
-  "headline": "엑스리얼을 써보니 안드로이드 XR의\n쓸모가 어디서 시작되는지 보였다",
-  "body": "스마트 글라스를 미심쩍어하던 기자가 직접 써 보고 안드로이드 XR의 쓸모를 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "试用Xreal后\n看懂XR用途",
+  "body": "一位怀疑智能眼镜的记者亲自试用，看清了Android XR的用途。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-xiaomi-cube",
@@ -16989,9 +16638,9 @@
   "date": "2026-08-29",
   "section": "gadgets",
   "has_full": true,
-  "headline": "샤오미 AI 큐브가 시링 칩 세 개로\n120B 모델을 책상에서 돌린다",
-  "body": "칩 세 개를 한 상자에 묶어 120B 모델까지 로컬로 돌린다. 150W짜리 미니 PC다.",
-  "lang": "ko",
+  "headline": "Xiaomi's AI Cube runs a 120B\nmodel on your desk with 3 chips",
+  "body": "Three chips in a single box let it run a 120B model locally; it's a 150W mini PC.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17005,9 +16654,9 @@
   "date": "2026-08-29",
   "section": "gadgets",
   "has_full": true,
-  "headline": "팬텀 비스트 XR 글라스가 스펙 대신\n게임 속 캐릭터를 입고 나왔다",
-  "body": "팬텀 블레이드 제로를 만든 스튜디오와 손잡고 게임 세계관을 그대로 입혔다.",
-  "lang": "ko",
+  "headline": "Phantom Beast XR glasses skip\nspecs for in-game character",
+  "body": "Viture teamed up with the studio behind Phantom Blade Zero to bring the game's world to its glasses.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17021,10 +16670,9 @@
   "date": "2026-08-29",
   "section": "gadgets",
   "has_full": true,
-  "headline": "갤럭시 S26 원 UI 9 7차 베타가\n새 AI 기능과 보안 패치를 얹었다",
-  "body": "삼성이 일곱 번째 베타에 새 AI 기능을 넣고 8월 보안 패치를 함께 얹었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "S26 One UI9\n第7测试加AI",
+  "body": "三星在第七个测试版中加入新AI功能，并带来8月安全补丁。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-lg-gm9",
@@ -17037,9 +16685,9 @@
   "date": "2026-08-29",
   "section": "gadgets",
   "has_full": true,
-  "headline": "LG 에보 AI GM9이 5K 미니 LED를\n크리에이티브 책상 위로 올렸다",
-  "body": "크리에이티브 작업과 영상, 게임을 두루 노린 최상급 모니터다. 값도 그만큼 한다.",
-  "lang": "ko",
+  "headline": "LG's Evo AI GM9 brings 5K\nMini LED to creative desks",
+  "body": "It's a top-tier monitor aimed at creative work, video and gaming, priced to match.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17069,10 +16717,9 @@
   "date": "2026-08-29",
   "section": "design",
   "has_full": true,
-  "headline": "에이전트가 프런트엔드를 쓸 때\n캔버스와 코드를 붙들어 두는 법",
-  "body": "캔버스와 코드를 오가면서도 디자인 의도를 흘리지 않는 작업 흐름을 피그마가 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "智能体写前端时\n如何守住画布代码",
+  "body": "Figma公布了在画布与代码间切换时不丢失设计意图的工作流程。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-ai-index",
@@ -17085,9 +16732,9 @@
   "date": "2026-08-29",
   "section": "design",
   "has_full": true,
-  "headline": "디자인이 AI로 얼마나 달라졌는지\n피그마가 이번엔 AI를 써서 재봤다",
-  "body": "피그마의 AI 영향 지수가 100점 만점에 62점으로, 2024년의 거의 두 배가 됐다.",
-  "lang": "ko",
+  "headline": "How much AI has changed design\nFigma measured it using AI",
+  "body": "Figma's AI Impact Index hit 62 out of 100 this year, nearly double its 2024 score.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17101,10 +16748,9 @@
   "date": "2026-08-29",
   "section": "design",
   "has_full": true,
-  "headline": "구글 안드로이드 XR의 통역,\n이제 '듣는 영역'을 지정한다",
-  "body": "안드로이드 XR 통역에서 누구 말을 들을지 공간으로 골라내는 기능을 구글이 시험 중이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌XR翻译\n可指定聆听范围",
+  "body": "谷歌正在测试按空间选择聆听对象的Android XR翻译功能。",
+  "lang": "zh"
  },
  {
   "id": "design-aia-contract-assistant",
@@ -17117,10 +16763,9 @@
   "date": "2026-08-29",
   "section": "design",
   "has_full": true,
-  "headline": "AIA가 건축 표준 계약 문서에\nAI 어시스턴트를 넣었다",
-  "body": "AIA가 업계 표준 계약 문서에 쓸 AI 어시스턴트를 내놓고 신임 CTO도 함께 발표했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIA在建筑标准\n合同中加入AI助手",
+  "body": "AIA发布了行业标准合同专用的AI助手，并同时公布了新任CTO。",
+  "lang": "zh"
  },
  {
   "id": "books-when-bots-write",
@@ -17133,10 +16778,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "봇이 책을 쓰기 시작한 출판 현장",
-  "body": "초고부터 매대에 오르는 기계 집필서까지, 출판 공정이 어디까지 바뀌었는지 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "机器人开始写书\n的出版现场",
+  "body": "从初稿到上架的机器写作书，本文梳理出版流程发生了多大变化。",
+  "lang": "zh"
  },
  {
   "id": "books-naver-webtoon-byus",
@@ -17149,10 +16793,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "웹툰 주인공과 대화하는\n네이버웹툰의 AI 스토리챗",
-  "body": "주인공과 대화하는 AI 챗을 붙이자 휴재작 조회수가 일주일 만에 67% 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "能与主角对话\nAI剧情聊天上线",
+  "body": "推出与主角对话的AI聊天后，暂停连载作品的点击量一周内增长67%。",
+  "lang": "zh"
  },
  {
   "id": "books-kindle-catalog-dilution",
@@ -17180,10 +16823,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습용 책 파쇄, FTC에 조사 요청",
-  "body": "AI 학습용으로 종이책을 사들여 스캔하고 버리는 관행을 살펴봐 달라고 십수 개 단체가 FTC에 요청했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI训练毁书\n团体请FTC调查",
+  "body": "十余个团体请求FTC调查买纸书扫描后再销毁原书的这一做法。",
+  "lang": "zh"
  },
  {
   "id": "books-claude-watermark-theatre",
@@ -17195,10 +16837,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "생성 아닌 편집에 찍히는 클로드 워터마크",
-  "body": "새로 쓰지 않고 손보기만 해도 표식이 붙는 탓에 준법 시늉이라는 비판이 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "非生成而是\n编辑也打水印",
+  "body": "哪怕只是润色而非重新撰写,也会被打上水印,因而被批走形式。",
+  "lang": "zh"
  },
  {
   "id": "science-solar-storm-9h",
@@ -17211,10 +16852,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "자기장의 미세한 조짐을 읽어\n태양폭풍을 9시간 먼저 잡는다",
-  "body": "기계학습이 자기장 전조를 읽어 우주기상 예보보다 최대 9시간 빠르게 경보를 낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "读磁场微兆\n提前9小时测太阳风暴",
+  "body": "机器学习读取磁场前兆,比太空天气预报提前最多9小时发出警报。",
+  "lang": "zh"
  },
  {
   "id": "science-qled-ml",
@@ -17227,10 +16867,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "기계학습이 찾아낸 용매 배합이\n양자점 필름을 고르게 만든다",
-  "body": "기계학습이 용매 배합 공간을 뒤져 양자점 막을 균일하게 만드는 조성을 찾아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "机器学习找到\n溶剂配方让量子点均匀",
+  "body": "机器学习搜索溶剂配方空间,找出能让量子点膜更均匀的组合。",
+  "lang": "zh"
  },
  {
   "id": "science-protein-beyond",
@@ -17243,10 +16882,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "자연이 이미 쓴 서열을 넘어\n단백질 설계 적중률을 올렸다",
-  "body": "MIT 연구진은 자연의 서열을 되풀이하지 않게 모델을 몰아 설계 적중률을 높였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "超越自然已有\n序列,提升设计",
+  "body": "MIT研究团队让模型减少依赖天然序列,从而提升了设计命中率。",
+  "lang": "zh"
  },
  {
   "id": "science-fluid-ai",
@@ -17259,10 +16897,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "1년 반 매달린 유체역학 문제를\nAI와 함께 5주 만에 풀었다",
-  "body": "AI 조수 덕에 5주 만에 답이 나왔지만, 미묘한 오류도 함께 끼어들었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一年半的流体\n力学题AI5周解出",
+  "body": "靠AI助手帮忙,仅用5周便得出答案,却也带来了细微的错误。",
+  "lang": "zh"
  },
  {
   "id": "science-double-blind-eval",
@@ -17275,10 +16912,9 @@
   "date": "2026-08-28",
   "section": "science",
   "has_full": true,
-  "headline": "자기 시험지를 자기가 채점하는\nAI 벤치마크에 이중맹검을 건다",
-  "body": "DeepMind가 임상시험 이중맹검을 빌려 AI 평가를 검증하는 시범을 시작한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "自评式AI测试\n引入双盲检验",
+  "body": "DeepMind借鉴临床试验双盲法,验证AI评测的可信度。",
+  "lang": "zh"
  },
  {
   "id": "music-umg-ai-patents",
@@ -17291,9 +16927,9 @@
   "date": "2026-08-28",
   "section": "music",
   "has_full": true,
-  "headline": "Universal Music 합작사가 AI 특허\n24건 넘게 Udio와 GRAI에 내줬다",
-  "body": "Universal Music이 합작사를 통해 24건 넘는 AI 특허를 Udio와 GRAI에 내줬다.",
-  "lang": "ko",
+  "headline": "Universal Music venture licenses\n24+ AI patents to Udio and GRAI",
+  "body": "Through a joint venture, Universal Music has licensed more than 24 AI patents to Udio and GRAI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17323,9 +16959,9 @@
   "date": "2026-08-28",
   "section": "music",
   "has_full": true,
-  "headline": "Neural DSP가 Quad Cortex에 더한\nDevice Presets와 가상 장비 8종",
-  "body": "CorOS 4.1.0이 Device Presets와 가상 장비 8종을 더해 톤 만드는 시간을 줄인다.",
-  "lang": "ko",
+  "headline": "Neural DSP adds to Quad Cortex\nDevice Presets, 8 new devices",
+  "body": "CorOS 4.1.0 adds Device Presets and 8 new virtual devices, cutting down tone-building time.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17339,10 +16975,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "AI로 되살린 진 와일더의 목소리가\n넷플릭스 예능을 진행한다",
-  "body": "넷플릭스 경연 예능 예고편에서 AI로 복원한 진 와일더의 목소리가 진행을 맡는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI复活之声\n主持Netflix节目",
+  "body": "Netflix竞技综艺预告片中,由AI复原的吉恩·怀尔德之声担任主持。",
+  "lang": "zh"
  },
  {
   "id": "movies-scantic-3dgs",
@@ -17355,10 +16990,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "Scantic, 아이폰 안에서\n가우시안 스플랫을 만든다",
-  "body": "Scantic은 클라우드 없이 아이폰에서 3DGS 스캔을 만들고 기본 앱은 무료다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Scantic让\niPhone生成高斯溅射",
+  "body": "Scantic无需云端即可在iPhone上生成3DGS扫描,基础版免费。",
+  "lang": "zh"
  },
  {
   "id": "movies-media-composer-2026-8",
@@ -17371,10 +17005,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "Media Composer 2026.8,\nAI 도구와 Ready to Edit",
-  "body": "IBC2026을 앞두고 공유 프로젝트 옵션과 새 AI 편집 도구가 함께 실렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Media Composer\n2026.8新AI编辑",
+  "body": "IBC2026前夕,新版本带来共享项目选项和全新AI编辑工具Ready to Edit。",
+  "lang": "zh"
  },
  {
   "id": "movies-cocomelon-ai",
@@ -17387,9 +17020,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "코코멜론 만드는 Moonbug,\n아티스트에게 AI 실험을 주문하다",
-  "body": "코코멜론 제작사 Moonbug가 AI 도입을 알리며 사람이 늘 개입한다고 밝혔다.",
-  "lang": "ko",
+  "headline": "Moonbug, maker of Cocomelon,\ntells artists to test AI",
+  "body": "Moonbug, the studio behind Cocomelon, said it is adopting AI while keeping a human always in the loop.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17403,10 +17036,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "전직 애니메이터와 촬영감독이\nAI 숏드라마 시스템을 짓는다",
-  "body": "애니메이터와 VFX 아티스트들이 대본부터 수정까지 맡는 숏드라마 AI를 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "前动画师与\n摄影师造AI剧",
+  "body": "动画师和VFX艺术家在打造一套从剧本到修改都由AI完成的短剧系统。",
+  "lang": "zh"
  },
  {
   "id": "games-tencent-motus",
@@ -17419,10 +17051,9 @@
   "date": "2026-08-28",
   "section": "games",
   "has_full": true,
-  "headline": "Tencent가 애니메이션부터 테스트까지\nAI 툴체인을 통째로 공개했다",
-  "body": "Tencent가 3D 애니메이션 AI Motus와 자동 테스트 도구를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Tencent全套\nAI工具链公开",
+  "body": "Tencent公开了3D动画AI Motus与自动测试工具。",
+  "lang": "zh"
  },
  {
   "id": "games-side-modlai-qa",
@@ -17435,10 +17066,9 @@
   "date": "2026-08-28",
   "section": "games",
   "has_full": true,
-  "headline": "게임 QA에 AI를 들이되\n사람은 늘 루프 안에 둔다",
-  "body": "Side가 Modl.ai와 손잡고 QA에 AI를 쓰되 판단은 사람에게 남긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "游戏QA引入AI\n人始终在环内",
+  "body": "Side与Modl.ai合作，在QA中使用AI，但判断权留给人。",
+  "lang": "zh"
  },
  {
   "id": "games-meta-xr-operator",
@@ -17451,10 +17081,9 @@
   "date": "2026-08-28",
   "section": "games",
   "has_full": true,
-  "headline": "AI 에이전트가 Quest 빌드를\n직접 돌려보고 확인한다",
-  "body": "AI 코딩 에이전트가 Quest 앱을 빌드하고 검증하는 도구를 Meta가 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI代理亲自\n跑Quest验证",
+  "body": "Meta推出了让AI编程代理构建并验证Quest应用的工具。",
+  "lang": "zh"
  },
  {
   "id": "games-gta6-no-genai",
@@ -17467,10 +17096,9 @@
   "date": "2026-08-28",
   "section": "games",
   "has_full": true,
-  "headline": "GTA 6에는 마이크로트랜잭션도\n생성형 AI도 들어가지 않는다",
-  "body": "GTA 6는 개발에 생성형 AI를 쓰지 않았고 마이크로트랜잭션 없이 출시된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "GTA 6无内购\n也无生成式AI",
+  "body": "GTA 6在开发中未使用生成式AI，发行时也不含任何微交易。",
+  "lang": "zh"
  },
  {
   "id": "games-gamescom-ai-disclosure",
@@ -17483,10 +17111,9 @@
   "date": "2026-08-28",
   "section": "games",
   "has_full": true,
-  "headline": "오프닝 나이트 라이브 55편 중\n13편이 AI 사용을 밝혔다",
-  "body": "게임스컴 오프닝 나이트 라이브에 나온 55편 중 13편이 AI 사용을 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "开幕直播55作\n13作承认用AI",
+  "body": "Gamescom开幕直播展示的55部作品中，13部披露使用了AI。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-whoop-meridian",
@@ -17499,10 +17126,9 @@
   "date": "2026-08-28",
   "section": "gadgets",
   "has_full": true,
-  "headline": "후프가 센서를 티타늄 메시 속에\n숨겨 장신구처럼 만들었다",
-  "body": "후프의 새 티타늄 밀라니즈 메시 밴드는 센서를 감춰 장신구처럼 보이게 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Whoop把传感器\n藏进钛网变饰品",
+  "body": "Whoop新款钛制米兰尼斯网纹腕带把传感器藏起来，让它看起来像首饰。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-plaud-one",
@@ -17515,10 +17141,9 @@
   "date": "2026-08-28",
   "section": "gadgets",
   "has_full": true,
-  "headline": "플라우드가 받아적는 헤드폰을\n다음 주 IFA 베를린에 내놓는다",
-  "body": "플라우드가 다음 주 베를린 IFA에서 기록을 전제로 만든 새 AI 헤드폰을 선보인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Plaud带记录耳机\n下周亮相柏林IFA",
+  "body": "Plaud下周将在柏林IFA展出以记录为前提打造的新款AI耳机。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-microduck",
@@ -17531,10 +17156,9 @@
   "date": "2026-08-28",
   "section": "gadgets",
   "has_full": true,
-  "headline": "399달러 오픈 로봇이 라이다와\nNFC를 달고 롤러스케이트를 신었다",
-  "body": "허깅페이스와 폴렌 로보틱스가 라이다와 NFC를 넣은 399달러 로봇을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "399美元机器人\n配雷达NFC轮滑鞋",
+  "body": "Hugging Face和Pollen Robotics推出了一款399美元机器人。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-meta-led",
@@ -17547,10 +17171,9 @@
   "date": "2026-08-28",
   "section": "gadgets",
   "has_full": true,
-  "headline": "메타가 스마트 안경 촬영 표시등의\n허점을 막고 광고로 알린다",
-  "body": "메타가 스마트 안경 촬영 표시등의 허점을 막고 광고를 사서 그 뜻을 알린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Meta堵智能眼镜\n拍摄灯漏洞发广告",
+  "body": "Meta堵住智能眼镜拍摄指示灯的漏洞，并花钱投放广告说明其含义。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-android-ram",
@@ -17563,10 +17186,9 @@
   "date": "2026-08-28",
   "section": "gadgets",
   "has_full": true,
-  "headline": "AI발 램 품귀에 구글이\n안드로이드 앱 메모리를 조인다",
-  "body": "구글이 2027년 2월부터 안드로이드 앱에 메모리 상한을 걸고 어기면 제재한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Google因RAM短缺\n收紧Android内存",
+  "body": "Google从2027年2月起为Android应用设定内存上限，违规将受到处罚。",
+  "lang": "zh"
  },
  {
   "id": "design-system-control-plane",
@@ -17579,10 +17201,9 @@
   "date": "2026-08-28",
   "section": "design",
   "has_full": true,
-  "headline": "디자인 시스템의 다음 일은\n컴포넌트가 아니라 통제다",
-  "body": "에이전트가 화면을 즉석에서 만들면 디자인 시스템은 허용 범위를 정하는 층이 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "设计系统的下一步\n不是组件而是管控",
+  "body": "当智能体即时生成界面，设计系统就成为界定允许范围的那一层。",
+  "lang": "zh"
  },
  {
   "id": "design-photoshop-ai",
@@ -17595,10 +17216,9 @@
   "date": "2026-08-28",
   "section": "design",
   "has_full": true,
-  "headline": "포토샵의 프롬프트 편집이 이제\n레이어 단위 작업으로 내려왔다",
-  "body": "파이어플라이 이미지 5 기반 지시 편집과 베타 AI 어시스티드 에디터가 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Photoshop提示词编辑\n现已下沉到图层级",
+  "body": "新增Firefly Image 5指令编辑和测试版AI Assisted Editor。",
+  "lang": "zh"
  },
  {
   "id": "design-google-flow",
@@ -17611,10 +17231,9 @@
   "date": "2026-08-28",
   "section": "design",
   "has_full": true,
-  "headline": "구글 플로우, 프롬프트 한 번으로\n끝나던 영상에 연출 손잡이를 달다",
-  "body": "제미나이 옴니 1.1 플래시 위에 새 제어 기능을 얹어 영상 연출을 직접 지시한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Google Flow\n为影片装上导演手柄",
+  "body": "在Gemini Omni 1.1 Flash基础上叠加新控制功能，直接指挥视频的镜头。",
+  "lang": "zh"
  },
  {
   "id": "design-fusion-forward",
@@ -17627,10 +17246,9 @@
   "date": "2026-08-28",
   "section": "design",
   "has_full": true,
-  "headline": "AI에 창의성까지 넘기지 말라는\n오토데스크 심사위원의 당부",
-  "body": "AI가 퓨전 작업에서 여는 몫은 인정하되, 창의성과 판단까지 넘기지는 말라고 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "别把创意交给AI\nAutodesk评委的提醒",
+  "body": "他承认AI为Fusion创作打开了空间，但提醒不要连创造力和判断力也一并交出。",
+  "lang": "zh"
  },
  {
   "id": "design-cursor-harness",
@@ -17643,10 +17261,9 @@
   "date": "2026-08-28",
   "section": "design",
   "has_full": true,
-  "headline": "커서가 버셀 AI SDK\n하네스 어댑터로 들어왔다",
-  "body": "커서도 같은 하네스 인터페이스를 쓰게 되면서 코드 에이전트가 교체 가능해졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Cursor加入\nVercel AI SDK",
+  "body": "Cursor也用上了同一套harness接口，代码智能体由此可以互换。",
+  "lang": "zh"
  },
  {
   "id": "books-scholarly-kitchen-ai-use",
@@ -17659,10 +17276,9 @@
   "date": "2026-08-28",
   "section": "books",
   "has_full": true,
-  "headline": "AI 사용을 먼저 밝힌 편집실",
-  "body": "스칼라리 키친이 자체 AI 사용을 공개하며 탐지 도구의 정확도 문제를 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "率先公开\nAI使用的编辑部",
+  "body": "The Scholarly Kitchen公开自身AI使用情况，并指出检测工具的准确度问题。",
+  "lang": "zh"
  },
  {
   "id": "books-google-expert-intelligence",
@@ -17675,10 +17291,9 @@
   "date": "2026-08-28",
   "section": "books",
   "has_full": true,
-  "headline": "구글, 전자책에 질문하는 기능을 연다",
-  "body": "구글 플레이에서 산 전자책 10만여 종에 직접 질문할 수 있게 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Google开放\n电子书问答功能",
+  "body": "用户现在可以直接向Google Play购买的10万多种电子书提问。",
+  "lang": "zh"
  },
  {
   "id": "books-amazon-vgt3-scanning",
@@ -17691,10 +17306,9 @@
   "date": "2026-08-28",
   "section": "books",
   "has_full": true,
-  "headline": "아마존이 책을 스캔하고 폐기하는 창고",
-  "body": "책을 스캔한 뒤 폐기하는 아마존 AI 학습 시설 VGT3의 내부를 직원이 증언한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "扫描并销毁\n图书的亚马逊仓库",
+  "body": "一名员工讲述了亚马逊AI训练设施VGT3内部扫描并销毁图书的情形。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-ghost-authors",
@@ -17707,10 +17321,9 @@
   "date": "2026-08-28",
   "section": "books",
   "has_full": true,
-  "headline": "학술 기록에 스며든 유령 저자들",
-  "body": "엘레나 바스케스, 마커스 첸 같은 존재하지 않는 저자가 학술 기록에 남고 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "学术记录中\n潜藏幽灵作者",
+  "body": "埃琳娜·瓦斯克斯、马库斯·陈等不存在的作者，正留在学术记录中。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-ban-disabled-authors",
@@ -17723,10 +17336,9 @@
   "date": "2026-08-28",
   "section": "books",
   "has_full": true,
-  "headline": "AI 전면 금지가 장애 작가를 밀어낸다",
-  "body": "AI를 책임 있게 쓰는 장애 작가가 출판계의 전면 금지에 부당하게 밀려나고 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI全面禁用\n挤走残障作家",
+  "body": "负责任使用AI的残障作家，正被出版业的全面禁令不公平地排挤出局。",
+  "lang": "zh"
  },
  {
   "id": "science-tensor-networks",
@@ -17739,10 +17351,9 @@
   "date": "2026-08-27",
   "section": "science",
   "has_full": true,
-  "headline": "이징 스핀 글라스에서는 아직\n양자가 고전을 앞서지 못했다",
-  "body": "일부 이징 스핀 글라스 문제에서 고전 텐서 네트워크 계산이 양자 어닐러보다 더 정확한 답을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "伊辛自旋玻璃中\n量子仍未胜古典",
+  "body": "在部分伊辛自旋玻璃问题上，经典张量网络计算给出的答案比量子退火机更准确。",
+  "lang": "zh"
  },
  {
   "id": "science-kids-language",
@@ -17771,10 +17382,9 @@
   "date": "2026-08-27",
   "section": "science",
   "has_full": true,
-  "headline": "단순한 채널 흐름에서 배운 제어기가\n날개 시뮬레이션에서도 통했다",
-  "body": "단순한 채널 흐름에서 훈련한 제어기가 날개 시뮬레이션에서 표면 마찰 38%와 항력 11%를 줄였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "简单流动训练\n控制器用上机翼",
+  "body": "在简单通道流动中训练的控制器，让机翼仿真的表面摩擦降38%、阻力降11%。",
+  "lang": "zh"
  },
  {
   "id": "science-crysvcd",
@@ -17787,10 +17397,9 @@
   "date": "2026-08-27",
   "section": "science",
   "has_full": true,
-  "headline": "생성 모델에 화학 원자가 규칙을\n걸어 만들 수 있는 결정만 남겼다",
-  "body": "MIT 연구진이 원자가 규칙을 생성 모델 앞단에 걸어 만들 수 있는 결정 구조만 나오게 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "化学规则加持\n只留可造结晶",
+  "body": "MIT研究团队把原子价规则放在生成模型前端，只留下真正能造出的晶体结构。",
+  "lang": "zh"
  },
  {
   "id": "science-aintibody",
@@ -17803,9 +17412,9 @@
   "date": "2026-08-27",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 설계한 항체가 실험실에서\n진짜 달라붙는지 처음 가려봤다",
-  "body": "AI가 설계한 항체가 표적에 정말 붙는지, 블라인드 실험으로 확인한 첫 벤치마크가 나왔다.",
-  "lang": "ko",
+  "headline": "Do AI-designed antibodies\nreally bind? Labs find out",
+  "body": "A first benchmark used blind lab testing to check whether AI-designed antibodies actually bind their targets.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17819,9 +17428,9 @@
   "date": "2026-08-27",
   "section": "music",
   "has_full": true,
-  "headline": "AI를 섞어 만든 바이럴 프로젝트,\nTikTok의 배급사 SoundOn이 품었다",
-  "body": "SoundOn이 AI 사용을 숨기지 않은 크리에이터 Gina Jones와 계약했다.",
-  "lang": "ko",
+  "headline": "A viral project mixed with AI,\nsigned by TikTok's SoundOn",
+  "body": "SoundOn signed creator Gina Jones, who has never hidden her use of AI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17835,10 +17444,9 @@
   "date": "2026-08-27",
   "section": "music",
   "has_full": true,
-  "headline": "sonible의 AI 프로세서를\n채널 스트립 하나로 묶은 smart:chain",
-  "body": "EQ와 컴프레션, 디하싱, 새추레이션을 지능형 채널 스트립 하나에 몰아넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "sonible的AI处理器\n合并进smart:chain",
+  "body": "它把EQ、压缩、除嘶声和饱和处理都塞进了一条智能声道条。",
+  "lang": "zh"
  },
  {
   "id": "music-instrument-x",
@@ -17851,10 +17459,9 @@
   "date": "2026-08-27",
   "section": "music",
   "has_full": true,
-  "headline": "수십 기가 오케스트라 라이브러리를\n뉴럴 모델링이 대신하는 Instrument X",
-  "body": "거대한 샘플 라이브러리 대신 뉴럴 모델링으로 클래식 악기를 작은 용량에 담았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "数十GB管弦乐库\n被神经建模取代",
+  "body": "Instrument X用神经建模取代庞大样本库，将古典乐器装进小体积。",
+  "lang": "zh"
  },
  {
   "id": "music-elevenmusic-composer",
@@ -17867,9 +17474,9 @@
   "date": "2026-08-27",
   "section": "music",
   "has_full": true,
-  "headline": "프롬프트로 만든 곡을 섹션 단위로\n고쳐 쓰는 ElevenMusic Composer",
-  "body": "나머지는 그대로 둔 채 특정 섹션만 다시 만들고 가사도 새로 쓴다.",
-  "lang": "ko",
+  "headline": "Editing songs section by section\nwith ElevenMusic Composer",
+  "body": "It leaves the rest of the song untouched while remaking a single section and rewriting its lyrics.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17883,9 +17490,9 @@
   "date": "2026-08-27",
   "section": "music",
   "has_full": true,
-  "headline": "아무 오디오 파일이나 떨어뜨리면\n머신러닝이 스펙트럼 팔레트로 바꾼다",
-  "body": "오디오 파일을 연주 가능한 Tone Color로 쪼갠 뒤 비슷한 것끼리 묶는다.",
-  "lang": "ko",
+  "headline": "Drop in any audio file, and\nML turns it into a spectrum",
+  "body": "It splits audio files into playable Tone Colors, then groups similar ones together.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17899,10 +17506,9 @@
   "date": "2026-08-27",
   "section": "movies",
   "has_full": true,
-  "headline": "코드명만 붙은 영상 모델 두 개\n출력물을 하나씩 뜯어봤다",
-  "body": "블라인드 테스트에 나타난 두 모델의 출력을 뜯고 무료 레퍼런스 라이브러리도 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "两个只有代号\n的视频模型拆解",
+  "body": "拆解盲测中出现的两个模型的输出，还顺带介绍一个免费参考库。",
+  "lang": "zh"
  },
  {
   "id": "movies-lineo-producers",
@@ -17915,10 +17521,9 @@
   "date": "2026-08-27",
   "section": "movies",
   "has_full": true,
-  "headline": "입찰부터 최종 랩까지, 제작부의\n장부를 AI가 대신 채운다",
-  "body": "AICP 예산과 발주, 급여를 한 화면에 모으고 입찰 레터와 영수증은 AI가 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "从投标到最终\n结算，AI填账",
+  "body": "AICP把预算、订单和薪资集中到一屏，AI负责撰写投标函和收据。",
+  "lang": "zh"
  },
  {
   "id": "movies-human-gen-workflows",
@@ -17931,10 +17536,9 @@
   "date": "2026-08-27",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 보정과 합성 연기 사이에\n할리우드가 선을 그었다",
-  "body": "업스케일과 마커리스 모캡 같은 보조를 프롬프트로 만든 연기와 갈라놓는 기준이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI修饰与合成\n表演间划清界限",
+  "body": "这是把升频、无标记动捕等辅助手段，与提示词生成的表演区分开的标准。",
+  "lang": "zh"
  },
  {
   "id": "movies-flow-studio-3d",
@@ -17947,9 +17551,9 @@
   "date": "2026-08-27",
   "section": "movies",
   "has_full": true,
-  "headline": "Flow Studio, 3D로 숏을 잡고\n2D 캔버스에서 마무리한다",
-  "body": "캐릭터와 모캡, 카메라를 3D로 블로킹한 다음 노드 기반 2D 캔버스에서 마감한다.",
-  "lang": "ko",
+  "headline": "Flow Studio blocks shots in 3D\nthen finishes in a 2D canvas",
+  "body": "It blocks characters, motion capture, and cameras in 3D, then finishes in a node-based 2D canvas.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17963,10 +17567,9 @@
   "date": "2026-08-27",
   "section": "movies",
   "has_full": true,
-  "headline": "구글 딥마인드와 AWS, 클링 AI가\n부산 필름마켓 무대에 선다",
-  "body": "ACFM의 InnoAsia가 이들과 한국 스타트업 일곱 곳을 한자리에 모은다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "DeepMind、AWS\n齐聚釜山影视市场",
+  "body": "ACFM的InnoAsia把它们与七家韩国创业公司聚到一起。",
+  "lang": "zh"
  },
  {
   "id": "games-sega-crazytaxi",
@@ -17979,10 +17582,9 @@
   "date": "2026-08-27",
   "section": "games",
   "has_full": true,
-  "headline": "생성형 AI는 발상 단계에만 썼고\n출시 전 결과물은 모두 지운다",
-  "body": "세가는 크레이지 택시에서 AI를 발상 단계에만 썼고 출시 전 모두 걷어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "生成式AI只用\n于构思，发售前删除",
+  "body": "世嘉表示在疯狂的士开发中只在构思阶段用过AI，发售前会全部删除。",
+  "lang": "zh"
  },
  {
   "id": "games-ryzachat",
@@ -17995,10 +17597,9 @@
   "date": "2026-08-27",
   "section": "games",
   "has_full": true,
-  "headline": "인기 RPG 주인공 라이자가\nAI 대화 앱으로 출시됐다",
-  "body": "라이자가 일본에서 챗봇 앱으로 나왔고 오간 대화는 학습에 쓰지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "人气RPG主角莱莎\n化身AI对话应用",
+  "body": "莱莎已在日本以聊天机器人应用形式推出，对话记录不会用于训练。",
+  "lang": "zh"
  },
  {
   "id": "games-ludoai-keyframe",
@@ -18011,10 +17612,9 @@
   "date": "2026-08-27",
   "section": "games",
   "has_full": true,
-  "headline": "AI가 만든 스프라이트 동작을\n키프레임 단위로 지시한다",
-  "body": "Ludo.ai가 AI 스프라이트 동작을 키프레임 단위로 손보는 도구를 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI做的精灵动作\n按关键帧来指示",
+  "body": "Ludo.ai推出了按关键帧单独调整AI精灵动作的新工具。",
+  "lang": "zh"
  },
  {
   "id": "games-ironmace-aura",
@@ -18027,10 +17627,9 @@
   "date": "2026-08-27",
   "section": "games",
   "has_full": true,
-  "headline": "비개발자 디자이너가 코드베이스에서\n튜토리얼을 절반 기간에 만들었다",
-  "body": "AI 도구 Aura를 쓴 비개발자 디자이너가 5~6주짜리 튜토리얼을 2주에 끝냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "非开发者设计师\n在代码库半期完成教程",
+  "body": "用AI工具Aura的非开发者设计师，把5~6周的教程缩短到2周完成。",
+  "lang": "zh"
  },
  {
   "id": "games-horii-slimey",
@@ -18043,10 +17642,9 @@
   "date": "2026-08-27",
   "section": "games",
   "has_full": true,
-  "headline": "AI는 이제 거의 지어내지 않는다며\n대화형 슬라임 동료를 옹호했다",
-  "body": "Dragon Quest를 만든 Yuji Horii가 AI는 이제 거의 지어내지 않는다며 게임에 넣은 대화형 동료 Slimey를 옹호했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI现在很少胡编\n为史莱姆伙伴辩护",
+  "body": "Dragon Quest之父堀井雄二称AI现在很少胡编，并为Slimey辩护。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-samsung-pim",
@@ -18059,10 +17657,9 @@
   "date": "2026-08-27",
   "section": "gadgets",
   "has_full": true,
-  "headline": "삼성이 모바일 메모리 안에 연산 로직을\n직접 넣어 추론을 3.01배 끌어올렸다",
-  "body": "삼성 LPDDR5X-PIM은 메모리 안에서 연산해 추론을 3.01배 끌어올린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "三星在移动内存中\n植入运算，推理提3.01倍",
+  "body": "三星LPDDR5X-PIM在内存内完成运算，将推理速度提升3.01倍。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-luffu-link",
@@ -18075,10 +17672,9 @@
   "date": "2026-08-27",
   "section": "gadgets",
   "has_full": true,
-  "headline": "핏빗 창업자들이 만든 새 밴드는\n화면을 지우고 목소리로 기록한다",
-  "body": "핏빗 창업자들의 250달러 LTE 밴드는 화면을 지우고 마이크와 스피커만 남겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Fitbit创始人新腕带\n去屏幕靠语音记录",
+  "body": "Fitbit创始人的250美元LTE腕带去掉屏幕，只留麦克风和扬声器。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-lg-cloid",
@@ -18091,9 +17687,9 @@
   "date": "2026-08-27",
   "section": "gadgets",
   "has_full": true,
-  "headline": "LG와 엔비디아가 가정용 로봇에\n훈련 데이터 10만 시간을 쏟는다",
-  "body": "LG와 엔비디아가 가정 로봇 CLOiD 훈련 데이터를 10만 시간 쌓는다.",
-  "lang": "ko",
+  "headline": "LG and Nvidia pour 100,000 hours\nof training data for home robots",
+  "body": "LG and Nvidia are building 100,000 hours of training data for the home robot CLOiD.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18107,10 +17703,9 @@
   "date": "2026-08-27",
   "section": "gadgets",
   "has_full": true,
-  "headline": "구글의 새 음성 받아쓰기 모델이\n군말을 걷어내고 문장으로 다듬는다",
-  "body": "구글의 Gemini 3.5 Transcribe가 군말을 걷어내고 크롬까지 간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌推出语音转写新模型\n去除口癖打磨成句",
+  "body": "谷歌的Gemini 3.5 Transcribe去除口癖，并将登陆Chrome。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-android-xr-translate",
@@ -18123,10 +17718,9 @@
   "date": "2026-08-27",
   "section": "gadgets",
   "has_full": true,
-  "headline": "구글이 안드로이드 XR 번역에서\n앞사람만 골라 듣는 모드를 시험한다",
-  "body": "구글 라이브 번역이 앞사람만 듣는 모드와 주변 전체를 듣는 모드로 갈린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌测试XR翻译\n只听正前方模式",
+  "body": "谷歌的实时翻译分为只听正前方和听取周围全部声音两种模式。",
+  "lang": "zh"
  },
  {
   "id": "design-theia-drawing-cad",
@@ -18139,9 +17733,9 @@
   "date": "2026-08-27",
   "section": "design",
   "has_full": true,
-  "headline": "2D 도면을 3D CAD로 옮기고\n사람이 한 번 확인한다",
-  "body": "Theia는 2D 도면을 3D CAD로 바꾸고 엔지니어가 치수를 확인해 넘긴다.",
-  "lang": "ko",
+  "headline": "2D drawings move into 3D CAD\nthen a person checks once",
+  "body": "Theia converts 2D drawings to 3D CAD, and an engineer verifies dimensions before handing it over.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18155,10 +17749,9 @@
   "date": "2026-08-27",
   "section": "design",
   "has_full": true,
-  "headline": "블렌더의 지겨운 리토폴로지를\nSmart Remesh가 대신한다",
-  "body": "Smart Remesh는 캐릭터든 하드서피스든 정점을 그대로 둔 채 쿼드로 바꾼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "厌烦的重拓扑\n交给Smart Remesh",
+  "body": "无论角色还是硬表面，Smart Remesh都在保留顶点的前提下转为四边面。",
+  "lang": "zh"
  },
  {
   "id": "design-meta-xr-operator",
@@ -18171,10 +17764,9 @@
   "date": "2026-08-27",
   "section": "design",
   "has_full": true,
-  "headline": "AI 에이전트가 VR 앱을 만들고\n직접 써 보며 확인한다",
-  "body": "Meta XR Operator는 에이전트가 VR 앱을 만들고 스스로 검증하게 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI造VR应用\n边用边验证",
+  "body": "Meta XR Operator让智能体自己构建VR应用并自行验证。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-path-trim",
@@ -18187,10 +17779,9 @@
   "date": "2026-08-27",
   "section": "design",
   "has_full": true,
-  "headline": "생성된 UI가 레이아웃을 가져가도\n모션은 디자이너에게 남는다",
-  "body": "패스 트림은 선이 보이는 양을 시간에 따라 조절해 그려지는 선을 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "生成UI占布局\n动效仍属设计师",
+  "body": "路径修剪通过随时间调整线条可见比例，制作出被绘制的线条。",
+  "lang": "zh"
  },
  {
   "id": "design-claude-code-design",
@@ -18203,10 +17794,9 @@
   "date": "2026-08-27",
   "section": "design",
   "has_full": true,
-  "headline": "터미널 에이전트가 UI를 그린다\n/design이 시작점을 옮긴다",
-  "body": "Claude Code의 /design은 터미널에서 UI를 직접 그리고 고쳐 나간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "终端代理绘制UI\n/design移动起点",
+  "body": "Claude Code的/design可在终端里直接绘制并修改UI。",
+  "lang": "zh"
  },
  {
   "id": "books-uncanny-valley-detection",
@@ -18219,10 +17809,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "워터마크를 넣는 쪽과 탐지하는 쪽\n편집자가 서 있는 자리는 그 사이",
-  "body": "앤스로픽은 워터마크를 넣고 뉴욕타임스 기자는 탐지기 팬그램을 수십 번 돌려봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "加水印与检测方\n编辑站在中间",
+  "body": "Anthropic为文本加水印，纽约时报记者则把检测工具Pangram测试了数十次。",
+  "lang": "zh"
  },
  {
   "id": "books-ukraine-monograph-oa",
@@ -18235,10 +17824,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "모노그래프 위기 앞의 우크라이나\n원조가 아니라 대등한 지적 파트너십",
-  "body": "원조를 받던 우크라이나 학술출판이 오픈액세스로 대등한 지적 파트너십을 제안한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "专著危机下的乌克兰\n不要援助要对等伙伴",
+  "body": "曾依赖援助的乌克兰学术出版，提出以开放获取建立对等的智识伙伴关系。",
+  "lang": "zh"
  },
  {
   "id": "books-library-news-august",
@@ -18251,10 +17839,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 쓴 이야기에 더 높은 별점\n사람 글보다 높았다는 연구 결과",
-  "body": "사람이 썼다고 믿은 AI 이야기가 실제 사람 글보다 더 높은 평점을 받았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI故事获高分\n超过人类作品",
+  "body": "一项研究发现，被误以为人类所写的AI故事，评分反而高于真正的人类作品。",
+  "lang": "zh"
  },
  {
   "id": "books-kaze-us-no-ai-translation",
@@ -18267,10 +17854,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "하퍼콜린스 새 만화 임프린트 카제 US\nAI 번역은 쓰지 않겠다고 못 박았다",
-  "body": "하퍼콜린스의 만화 임프린트 KAZÉ US가 AI 번역은 쓰지 않겠다고 못 박았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "KAZÉ US成立\n称不用AI翻译",
+  "body": "哈珀柯林斯漫画厂牌KAZÉ US明确表示不会使用AI翻译。",
+  "lang": "zh"
  },
  {
   "id": "books-indie-manga-alliance",
@@ -18283,10 +17869,9 @@
   "date": "2026-08-27",
   "section": "books",
   "has_full": true,
-  "headline": "인디 만화 연합이 미국에서 출범했다\nLibro.fm은 전자책으로 발을 넓힌다",
-  "body": "인디 만화 연합이 출범하고 Libro.fm이 전자책으로 발을 넓힌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "独立漫画联盟在美成立\nLibro.fm进军电子书",
+  "body": "独立漫画联盟正式成立，音频书平台Libro.fm也开始进军电子书领域。",
+  "lang": "zh"
  },
  {
   "id": "science-shrinking-style",
@@ -18315,10 +17900,9 @@
   "date": "2026-08-26",
   "section": "science",
   "has_full": true,
-  "headline": "뇌는 세상을 받아 적지 않고\n몸이 필요한 것만 예측해 남긴다",
-  "body": "뇌가 감각을 받아 분류하는 게 아니라 몸의 에너지 사정에 맞춰 범주를 먼저 던진다는 이론이 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "脑不是照抄世界\n只预测身体所需并保留",
+  "body": "有理论提出，大脑不是先接收感觉再分类，而是根据身体的能量状况先行投射范畴。",
+  "lang": "zh"
  },
  {
   "id": "science-llm-scholar-bench",
@@ -18331,9 +17915,9 @@
   "date": "2026-08-26",
   "section": "science",
   "has_full": true,
-  "headline": "전문가를 물으면 LLM은 불평등을\n비추는 게 아니라 키운다",
-  "body": "22개 모델을 잰 벤치마크에서 추천된 학자는 여성과 소수 배경 연구자가 실제 비율보다도 적었다.",
-  "lang": "ko",
+  "headline": "Ask an LLM for experts,\nand it grows inequality",
+  "body": "A benchmark testing 22 models recommended fewer women and minority researchers than their real share.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18363,10 +17947,9 @@
   "date": "2026-08-26",
   "section": "science",
   "has_full": true,
-  "headline": "챗봇을 4주 쓰고 나니 가짜뉴스를\n혼자서는 15% 더 못 가려냈다",
-  "body": "MIT 미디어랩 실험에서 챗봇 없이 가짜뉴스를 가리는 정확도가 4주 만에 15% 떨어졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用聊天机器人4周\n独自辨新闻降15%",
+  "body": "MIT媒体实验室实验显示，脱离聊天机器人辨别假新闻的准确率4周内下降15%。",
+  "lang": "zh"
  },
  {
   "id": "music-spectralayers-13",
@@ -18379,9 +17962,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "스펙트럴 편집기 SpectraLayers Pro 13,\n이번엔 복원과 대사 손질을 파고든다",
-  "body": "v12가 음악 언믹싱에 기울었다면 13은 Reconstruct와 Ambience Heal로 복원에 무게를 실었다.",
-  "lang": "ko",
+  "headline": "SpectraLayers Pro 13 digs into\nrestoration and dialogue work",
+  "body": "If v12 leaned toward music unmixing, 13 shifts the weight to restoration with Reconstruct and Ambience Heal.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18395,9 +17978,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "차트가 기대는 데이터 원천 Luminate,\n올해 안에 AI 곡에 라벨을 붙인다",
-  "body": "Luminate가 올해 안에 AI로 만든 곡과 아티스트 프로필에 AI Generated 라벨을 붙인다.",
-  "lang": "ko",
+  "headline": "Luminate, the data source\nbehind charts, will tag AI songs",
+  "body": "Luminate will add an AI Generated label to AI-made songs and artist profiles within the year.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18411,10 +17994,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "녹음만 듣고 재즈 피아니스트를\n94.4%까지 가려낸 AI 모델",
-  "body": "피아니스트 20명의 녹음 84시간을 학습한 모델이 연주자를 94.4% 정확도로 가려냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "仅凭录音辨别\n爵士钢琴家94.4%",
+  "body": "学习了20位钢琴家84小时录音的模型，以94.4%的准确率识别出演奏者。",
+  "lang": "zh"
  },
  {
   "id": "music-hotone-pulze-jr",
@@ -18427,10 +18009,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "20W 미니 앰프 Hotone Pulze Jr.,\nAI가 톤 프리셋을 대신 짠다",
-  "body": "배터리로 8시간 도는 20W 스테레오 미니 앰프에 앰프 모델 52개와 AI 프리셋 생성이 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "20W迷你音箱\nAI自动生成音色预设",
+  "body": "Hotone Pulze Jr.搭载52种音箱型号和AI预设生成，续航8小时。",
+  "lang": "zh"
  },
  {
   "id": "music-chartmetric-flow",
@@ -18443,10 +18024,9 @@
   "date": "2026-08-26",
   "section": "music",
   "has_full": true,
-  "headline": "Chartmetric이 내놓은 Flow,\n음악 데이터를 대신 파고드는 에이전트",
-  "body": "Chartmetric이 데이터셋을 훑어 답까지 정리해 주는 AI 에이전트 Flow를 월 60달러에 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Chartmetric推出\nFlow替你钻音乐数据",
+  "body": "Chartmetric以每月60美元推出AI智能体Flow，帮你梳理数据并给出答案。",
+  "lang": "zh"
  },
  {
   "id": "movies-worldclaw-3d",
@@ -18459,10 +18039,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "텐센트 WorldClaw, 프롬프트에서\n편집 가능한 3D 월드가 나온다",
-  "body": "나무와 건물, 지형이 제각각 손댈 수 있는 3D 오브젝트로 떨어져 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "WorldClaw从\n提示生成可编辑3D世界",
+  "body": "树木、建筑和地形，各自都会拆分成可以单独编辑的3D对象。",
+  "lang": "zh"
  },
  {
   "id": "movies-wildbrain-personality-ai",
@@ -18475,10 +18054,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "WildBrain, 실시간 대화 AI\n캐릭터 회사를 인수했다",
-  "body": "Personality AI를 현금 1,100만 달러와 자사주 100만 주에 샀다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "WildBrain收购\n实时对话AI角色公司",
+  "body": "以现金1,100万美元和100万股自家股票，收购了Personality AI。",
+  "lang": "zh"
  },
  {
   "id": "movies-vfx-atlas-2026",
@@ -18491,10 +18069,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "AI가 VFX 일자리를 줄였다는\n증거는 데이터에 없다",
-  "body": "AI 전담 직군은 전체의 0.1%에 그쳤고, 로토·페인트 인력은 8.7% 늘었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI减少VFX岗位的\n证据，数据中没有",
+  "body": "AI专职岗位仅占总数0.1%，而Roto/Paint人员增长了8.7%。",
+  "lang": "zh"
  },
  {
   "id": "movies-mac-studio-m5",
@@ -18507,10 +18084,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "새 맥 스튜디오의 AI 자랑에서\n편집자에게 남는 것만 추렸다",
-  "body": "M5 Max는 Magic Mask를 M1 Max 대비 최대 5.3배 빠르게 돌린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "新Mac Studio的AI\n宣传里剪辑师要的",
+  "body": "M5 Max运行Magic Mask的速度，最高比M1 Max快5.3倍。",
+  "lang": "zh"
  },
  {
   "id": "movies-editshare-flow-ai",
@@ -18523,10 +18099,9 @@
   "date": "2026-08-26",
   "section": "movies",
   "has_full": true,
-  "headline": "EditShare가 AI 전사를\n스토리지 노드 안에 심는다",
-  "body": "EFS 노드에 GPU 기반 Flow AI가 얹혀 13개 언어를 온프렘에서 전사한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "EditShare将AI转录\n嵌入存储节点",
+  "body": "EFS节点搭载基于GPU的Flow AI，在本地完成13种语言的转录。",
+  "lang": "zh"
  },
  {
   "id": "games-tanioka-spotify",
@@ -18539,10 +18114,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "크리스탈 크로니클 작곡가 이름으로\nAI 앨범이 스포티파이에 올라왔다",
-  "body": "Kumi Tanioka가 만들지 않은 EP가 그의 이름을 달고 스포티파이에 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "作曲家名下\nAI专辑登上Spotify",
+  "body": "Kumi Tanioka并未制作的EP，却以他的名字登上了Spotify。",
+  "lang": "zh"
  },
  {
   "id": "games-rtx-spark",
@@ -18555,9 +18129,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "EA·유비소프트가 RTX Spark로\n대작 게임과 치트 차단을 옮긴다",
-  "body": "EA와 Embark, 유비소프트가 가을 나올 RTX Spark에 대표작을 올린다.",
-  "lang": "ko",
+  "headline": "EA, Ubisoft bring blockbusters\nand anti-cheat to RTX Spark",
+  "body": "EA, Embark and Ubisoft are bringing flagship titles to RTX Spark, launching this fall.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18571,10 +18145,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "AI가 들어온 북유럽 스튜디오,\n한 사람이 맡는 범위가 넓어진다",
-  "body": "북유럽 관계자 다섯 명이 직군 통합과 섀도 AI 같은 현장의 위험을 함께 꺼냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "引入AI的北欧工作室\n一人负责范围扩大",
+  "body": "北欧业内五位人士共同谈到了职能整合和影子AI等现场风险。",
+  "lang": "zh"
  },
  {
   "id": "games-humankind2-ai-doubt",
@@ -18587,10 +18160,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "AI 아니냐는 의심부터 받은\n휴먼카인드 2 공개 트레일러",
-  "body": "Amplitude Studios는 실사 장면을 배우와 세트에서 찍었다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Humankind 2\n公开预告遭AI质疑",
+  "body": "Amplitude Studios表示，实拍画面是由演员在实景搭建的场景中拍摄完成的。",
+  "lang": "zh"
  },
  {
   "id": "games-ace-aniimo",
@@ -18603,10 +18175,9 @@
   "date": "2026-08-26",
   "section": "games",
   "has_full": true,
-  "headline": "PUBG의 AI 팀원을 만든 기술이\n괴수와 대화하는 RPG에 온다",
-  "body": "엔비디아 ACE가 2027년 초 아니모에 들어가 플레이어가 괴수와 말을 나눈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "PUBG的AI技术\n进驻怪兽RPG",
+  "body": "英伟达ACE将于2027年初进入阿尼莫，玩家可与怪兽对话。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-perplexity-portable",
@@ -18619,9 +18190,9 @@
   "date": "2026-08-26",
   "section": "gadgets",
   "has_full": true,
-  "headline": "퍼플렉시티 AI가 내 PC 안에서 돌고\n클라우드는 물어본 뒤에만 쓴다",
-  "body": "작업은 내 기기에서 시작하고, 로컬 모델이 버거워하는 단계만 승인을 받아 클라우드로 넘긴다.",
-  "lang": "ko",
+  "headline": "Perplexity AI runs on your PC\ncloud is asked before use",
+  "body": "Work starts on your device, and only steps the local model struggles with go to the cloud after approval.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18635,10 +18206,9 @@
   "date": "2026-08-26",
   "section": "gadgets",
   "has_full": true,
-  "headline": "낫싱 OS 5.0, 폰의 겉과 속을\n같은 디자인 언어로 다시 맞춘다",
-  "body": "안드로이드 17 위에서 Geist 폰트와 투명 위젯을 얹어 카메라부터 런처까지 한 번에 손봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "OS5.0统一\n手机内外设计",
+  "body": "基于Android 17，搭载Geist字体和透明小组件，一次性改进相机到启动器。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-garmin-epic",
@@ -18651,10 +18221,9 @@
   "date": "2026-08-26",
   "section": "gadgets",
   "has_full": true,
-  "headline": "가민 페닉스 9는 흩어진 기록을\n하나의 여정으로 다시 묶는다",
-  "body": "무료 기능 Garmin Epic이 92일치 활동과 사진, 메모를 한 편의 요약으로 합친다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Fenix 9整理\n散记录成旅程",
+  "body": "免费功能Garmin Epic把92天的活动、照片和笔记合成一篇摘要。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-claude-firmware-hack",
@@ -18667,10 +18236,9 @@
   "date": "2026-08-26",
   "section": "gadgets",
   "has_full": true,
-  "headline": "클로드 오퍼스에 펌웨어를 맡기자\n주변기기 다섯 대가 열렸다",
-  "body": "아마존 보안 엔지니어가 프롬프트 100개 남짓으로 13시간 만에 다섯 기기의 펌웨어 보호를 뚫었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "把固件交Opus\n五设备被攻破",
+  "body": "亚马逊工程师用不到100条提示，13小时破解五台设备固件保护。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-apple-m6",
@@ -18683,10 +18251,9 @@
   "date": "2026-08-26",
   "section": "gadgets",
   "has_full": true,
-  "headline": "애플 M6, 2나노에 듀얼 뉴럴 엔진",
-  "body": "M5보다 멀티스레드가 1.2배 빠르고, 뉴럴 엔진 두 벌이 함께 돌아 AI 모델 실행이 빨라진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "苹果M6:2纳米\n双神经引擎",
+  "body": "多线程比M5快1.2倍，双神经引擎同时运行让AI模型执行更快。",
+  "lang": "zh"
  },
  {
   "id": "design-vercel-run-sdk",
@@ -18699,10 +18266,9 @@
   "date": "2026-08-26",
   "section": "design",
   "has_full": true,
-  "headline": "에이전트가 쓴 코드를 격리해 돌리고\n중간에 멈춰 승인을 받는다",
-  "body": "Run SDK는 에이전트 코드를 샌드박스에서 돌리고, 민감한 작업 앞에서 멈춘다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "代理代码隔离跑\n中途暂停待批",
+  "body": "Run SDK把代理代码放进沙箱运行，敏感操作前会暂停。",
+  "lang": "zh"
  },
  {
   "id": "design-photoshop-selection",
@@ -18715,10 +18281,9 @@
   "date": "2026-08-26",
   "section": "design",
   "has_full": true,
-  "headline": "포토샵 선택 도구, 버튼 한 번에 끝난다",
-  "body": "어도비는 새 선택 도구가 버튼 한 번으로 피사체를 고르고 배경을 지운다고 소개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Photoshop选择工具\n一键完成",
+  "body": "Adobe介绍的新选择工具，只需一键就能选中主体并去除背景。",
+  "lang": "zh"
  },
  {
   "id": "design-millwork-drafting",
@@ -18731,10 +18296,9 @@
   "date": "2026-08-26",
   "section": "design",
   "has_full": true,
-  "headline": "PDF 건축 도면이 견적을 거쳐\nCAD 캐비닛 배치로 넘어간다",
-  "body": "SMI Cabinetry는 MillworkSuite로 제도 시간을 절반 줄였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "PDF图纸经报价\n转入CAD布局",
+  "body": "SMI Cabinetry用MillworkSuite把制图时间减半。",
+  "lang": "zh"
  },
  {
   "id": "design-instagram-first-draft",
@@ -18747,10 +18311,9 @@
   "date": "2026-08-26",
   "section": "design",
   "has_full": true,
-  "headline": "무음과 멈춤은 인스타그램이 잘라내고\n릴스 편집은 판단만 남는다",
-  "body": "클립을 고르면 인스타그램이 무음을 잘라낸 릴스 초벌 컷을 타임라인에 깔아 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无声停顿交给IG\n剪辑只留判断",
+  "body": "选好片段，Instagram就会把去掉无声的初剪铺上时间线。",
+  "lang": "zh"
  },
  {
   "id": "design-autonomous-website",
@@ -18763,10 +18326,9 @@
   "date": "2026-08-26",
   "section": "design",
   "has_full": true,
-  "headline": "웹사이트는 출시일이 정점이었다\n에이전트가 그 곡선을 뒤집는다",
-  "body": "Fimo를 만들며 배운 건 자율 사이트의 벽이 기술이 아니라 권한선이라는 사실이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "网站上线即巅峰\n智能体逆转曲线",
+  "body": "做Fimo得到的教训是，自主网站的瓶颈不是技术，而是权限边界。",
+  "lang": "zh"
  },
  {
   "id": "books-royalty-transparency-aperture",
@@ -18779,10 +18341,9 @@
   "date": "2026-08-26",
   "section": "books",
   "has_full": true,
-  "headline": "AI 라이선스 돈이 작가에게\n닿으려면 인세 장부부터",
-  "body": "AI 학습 라이선스가 늘면서 인세를 실시간으로 여는 일이 출판사의 기본이 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI授权金抵达作家\n先要版税账透明",
+  "body": "随着AI训练授权增多，实时公开版税已成为出版社的基本要求。",
+  "lang": "zh"
  },
  {
   "id": "books-publishing-technology-radar",
@@ -18795,10 +18356,9 @@
   "date": "2026-08-26",
   "section": "books",
   "has_full": true,
-  "headline": "지켜볼 기술과 키울 기술\n출판사에 직접 묻는다",
-  "body": "출판 기술 레이더가 지켜볼 기술과 키울 기술을 네 단계로 갈라 해마다 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "观察技术与培育技术\n出版社直接作答",
+  "body": "出版技术雷达把需关注与需培育的技术分四个阶段，每年梳理。",
+  "lang": "zh"
  },
  {
   "id": "books-nigel-george-creative-agency",
@@ -18811,10 +18371,9 @@
   "date": "2026-08-26",
   "section": "books",
   "has_full": true,
-  "headline": "AI는 페이지에 오르지 않는다\n한 인디 작가의 선 긋기",
-  "body": "나이절 조지는 AI를 통계 계산기로 두고 창작 결과물에는 손대지 말라고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI不上页面\n独立作家划界",
+  "body": "奈杰尔·乔治称，AI只是统计计算器，创作成果不容其介入。",
+  "lang": "zh"
  },
  {
   "id": "books-eu-ai-transparency-indie",
@@ -18827,10 +18386,9 @@
   "date": "2026-08-26",
   "section": "books",
   "has_full": true,
-  "headline": "유럽의 AI 표시 의무가\n국경 밖 작가에게 닿는다",
-  "body": "유럽 집행위의 AI 투명성 지침이 유럽 밖 인디 작가에게까지 닿기 시작했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "欧盟AI标识义务\n波及境外作家",
+  "body": "欧盟委员会的AI透明度指引，已开始波及欧洲以外的独立作家。",
+  "lang": "zh"
  },
  {
   "id": "books-carlsen-openai-neinhorn",
@@ -18843,10 +18401,9 @@
   "date": "2026-08-26",
   "section": "books",
   "has_full": true,
-  "headline": "ChatGPT가 가짜 ISBN까지 붙였다\n독일 카를센, OpenAI 제소",
-  "body": "카를센이 ChatGPT의 『다스 나인호른』 모작을 걸어 OpenAI를 제소했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ChatGPT伪造ISBN\n德国出版商告OpenAI",
+  "body": "德国Carlsen出版社就ChatGPT模仿《Das NEINHORN》起诉OpenAI。",
+  "lang": "zh"
  },
  {
   "id": "science-slac-compress",
@@ -18875,10 +18432,9 @@
   "date": "2026-08-25",
   "section": "science",
   "has_full": true,
-  "headline": "마이크로소프트 Skala 범함수\nCP2K에서 바로 돌린다",
-  "body": "AI 교환상관 범함수 Skala가 CP2K에 실려 더 큰 분자계도 정확히 다룬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "微软Skala泛函\n直接接入CP2K",
+  "body": "AI交换关联泛函Skala接入CP2K，能更精确处理更大分子体系。",
+  "lang": "zh"
  },
  {
   "id": "science-grcop42-print",
@@ -18891,10 +18447,9 @@
   "date": "2026-08-25",
   "section": "science",
   "has_full": true,
-  "headline": "1억 가지 조합 대신 40번 실험\nAI가 찾아낸 로켓 합금 출력법",
-  "body": "AI로 후보를 좁혀 실험 40회 만에 GRCop-42 출력 조건 6가지를 찾아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不试1亿次\nAI只需40次找到配方",
+  "body": "AI缩小候选范围，仅用40次实验就找到GRCop-42的6种打印条件。",
+  "lang": "zh"
  },
  {
   "id": "science-eta-learning",
@@ -18923,10 +18478,9 @@
   "date": "2026-08-25",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 읽어낸 유전자 켜짐 스위치\n사람 유전자 60%에 있었다",
-  "body": "DNA 서열 50만 개를 학습한 AI가 이니시에이터의 염기 패턴을 해독했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI解读基因开关\n藏身60%人类基因",
+  "body": "学习了50万条DNA序列的AI，解读出了启动子的碱基排列模式。",
+  "lang": "zh"
  },
  {
   "id": "music-trama",
@@ -18939,10 +18493,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "무료 오프라인 스템 분리기 Trama,\n업로드 없이 네 갈래로 쪼갠다",
-  "body": "믹스 파일을 넣으면 보컬과 드럼, 베이스, 나머지 넷으로 인터넷 없이 갈라준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "免费离线分离\nTrama一分四轨",
+  "body": "导入混音文件，无需上传即可分成人声、鼓、贝斯和其余四轨。",
+  "lang": "zh"
  },
  {
   "id": "music-minimax-3",
@@ -18955,9 +18508,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "오픈웨이트 MiniMax Music 3,\n5분짜리 완곡을 통째로 만든다",
-  "body": "가사와 사운드 설명만 주면 최대 5분 길이의 완성곡이 32kHz 스테레오로 나온다.",
-  "lang": "ko",
+  "headline": "Open-weight MiniMax Music 3,\ngenerates a full 5-minute song",
+  "body": "Give it lyrics and a sound description and it returns a complete song up to five minutes long in 32kHz stereo.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -18971,10 +18524,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "Cyanite Tagging 2.0,\n메타데이터를 읽는 쪽이 AI로 바뀐다",
-  "body": "독일 Cyanite가 카탈로그 태깅 시스템을 Tagging 2.0으로 갈아 끼웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "读取元数据的主体\n正转向AI系统",
+  "body": "德国Cyanite将目录标签系统升级为Tagging 2.0。",
+  "lang": "zh"
  },
  {
   "id": "music-aria-charts",
@@ -18987,10 +18539,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "AI가 만든 곡은 호주 ARIA 차트에\n8월 28일부터 오르지 못한다",
-  "body": "AI가 전부 또는 대부분 만든 곡은 28일 차트부터 호주 공식 순위에서 빠진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI歌曲8月28日起\n将无法登上澳洲ARIA榜",
+  "body": "由AI全部或主要制作的歌曲，将从28日榜单起被剔除澳洲官方排行榜。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-search",
@@ -19003,10 +18554,9 @@
   "date": "2026-08-25",
   "section": "music",
   "has_full": true,
-  "headline": "AI 검색이 내 공식 사이트를\n먼저 인용하게 만드는 방법",
-  "body": "Preferred Source 버튼을 달면 AI 검색이 내 사이트를 먼저 인용한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "让AI搜索优先引用\n你的官方网站的方法",
+  "body": "添加Preferred Source按钮，可让AI搜索优先引用你的网站。",
+  "lang": "zh"
  },
  {
   "id": "movies-sp-hydra",
@@ -19035,10 +18585,9 @@
   "date": "2026-08-25",
   "section": "movies",
   "has_full": true,
-  "headline": "프롬프트를 연출로 쓰는 법\nSeedance 2.5 실전 테스트",
-  "body": "드류 제라시가 Seedance 2.5로 카메라와 렌즈 움직임을 프롬프트로 지시한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "把提示词当导演用\nSeedance 2.5实测",
+  "body": "德鲁·杰拉西用Seedance 2.5通过提示词指挥摄像机和镜头运动。",
+  "lang": "zh"
  },
  {
   "id": "movies-glass-matte",
@@ -19051,10 +18600,9 @@
   "date": "2026-08-25",
   "section": "movies",
   "has_full": true,
-  "headline": "유리에 그린 매트 페인팅으로\n카메라 안에서 끝낸 한 컷",
-  "body": "Camp Miasma 미술감독이 유리에 그린 매트 페인팅 한 컷을 직접 뜯어본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用玻璃手绘遮罩画\n一镜在相机内完成",
+  "body": "Camp Miasma美术指导亲自解析一个玻璃遮罩画镜头。",
+  "lang": "zh"
  },
  {
   "id": "movies-apple-headsup",
@@ -19067,10 +18615,9 @@
   "date": "2026-08-25",
   "section": "movies",
   "has_full": true,
-  "headline": "애플이 1만 명의 얼굴을 스캔했다\n표정을 옮겨 붙이는 Heads Up",
-  "body": "애플이 한 사람의 표정을 다른 얼굴에 그대로 옮기는 Heads Up 백서를 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "苹果扫描了一万人的脸\n移植表情的Heads Up",
+  "body": "苹果发布了Heads Up白皮书，可将一个人的表情原样移植到另一张脸上。",
+  "lang": "zh"
  },
  {
   "id": "games-spider-walker",
@@ -19083,10 +18630,9 @@
   "date": "2026-08-25",
   "section": "games",
   "has_full": true,
-  "headline": "몸통만 옮기면 다리는 알아서 걷는다\n무료 블렌더 애드온 Spider Walker",
-  "body": "몸통을 옮기면 애드온이 바닥으로 레이캐스트해 착지점을 찾아 다리를 순서대로 딛는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "身体一动\n腿自动走",
+  "body": "免费Blender插件Spider Walker让腿按顺序找落点迈步。",
+  "lang": "zh"
  },
  {
   "id": "games-roblox-roost",
@@ -19099,10 +18645,9 @@
   "date": "2026-08-25",
   "section": "games",
   "has_full": true,
-  "headline": "로블록스, AI 안전 모델 셋을\nROOST에 오픈소스로 푼다",
-  "body": "로블록스가 PII 분류기와 센티넬·음성 안전 분류기를 ROOST에 오픈소스로 푼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Roblox开源3款\n模型给ROOST",
+  "body": "Roblox把PII分类器、Sentinel与语音安全分类器开源给ROOST。",
+  "lang": "zh"
  },
  {
   "id": "games-roblox-liveops",
@@ -19131,10 +18676,9 @@
   "date": "2026-08-25",
   "section": "games",
   "has_full": true,
-  "headline": "넥써쓰, AI 솔루션 11종을\n'AI 랩스' 포털에 모았다",
-  "body": "넥써쓰가 자체 AI 프레임워크로 만든 솔루션 11종을 'AI 랩스' 포털에 모았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Neksseosseu\nAI实验室集11款",
+  "body": "Neksseosseu把自研11款AI方案集中到「AI实验室」。",
+  "lang": "zh"
  },
  {
   "id": "games-miris-spatial",
@@ -19147,10 +18691,9 @@
   "date": "2026-08-25",
   "section": "games",
   "has_full": true,
-  "headline": "3D 에셋도 영상처럼 적응형으로\nMiris가 연 스페이셜 스트리밍",
-  "body": "Miris는 에셋을 한 번 최적화한 뒤 기기와 회선에 맞춰 필요한 만큼만 보낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "3D资产自适应\nMiris开创新流",
+  "body": "Miris先把资产优化一次，再按设备和网络状况按需发送。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-offline-doc-llm",
@@ -19179,10 +18722,9 @@
   "date": "2026-08-25",
   "section": "gadgets",
   "has_full": true,
-  "headline": "스마트 안경이 켜질 때 새어 나오는\n블루투스 신호를 무료 앱이 잡는다",
-  "body": "무료 앱 Zuckoff는 스마트 안경의 블루투스 신호를 훑어 거리만 대략 알려준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "智能眼镜开机\n泄露信号被抓",
+  "body": "免费应用Zuckoff扫描智能眼镜蓝牙信号，只给出大致距离。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-gemini-device-help",
@@ -19195,10 +18737,9 @@
   "date": "2026-08-25",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이에 기기 도움 도구가 붙었다\n설정 변경도 진단도 대화로 한다",
-  "body": "픽셀 11 프로에 먼저 열린 기기 도움이 설정 변경과 문제 진단을 대화로 처리한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gemini新增\n设备帮助工具",
+  "body": "先在Pixel 11 Pro上线，靠对话来改设置、查故障。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-budget-ar-glasses",
@@ -19211,10 +18752,9 @@
   "date": "2026-08-25",
   "section": "gadgets",
   "has_full": true,
-  "headline": "저가 AR 안경 둘을 일주일 썼다\n손이 간 쪽은 Viture Pro 2였다",
-  "body": "스펙은 거의 같아도 조절 폭이 넓은 Viture Pro 2가 일주일 내내 편했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一周试两款AR眼镜\n首选Viture Pro 2",
+  "body": "配置几乎相同，但调节范围更大的Viture Pro 2用了一周都舒适。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-apple-store-assistant",
@@ -19227,10 +18767,9 @@
   "date": "2026-08-25",
   "section": "gadgets",
   "has_full": true,
-  "headline": "애플 스토어 앱에 쇼핑 챗봇이 열렸다\n주문 조회도 보상 판매도 물어본다",
-  "body": "애플이 일부 사용자에게만 연 얼리 프리뷰로 주문과 보상 판매가를 채팅으로 답한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "苹果商店App\n开出购物聊天",
+  "body": "苹果向部分用户开放早期预览，用聊天回答订单与折旧换购报价。",
+  "lang": "zh"
  },
  {
   "id": "design-walmart-3dp",
@@ -19243,10 +18782,9 @@
   "date": "2026-08-25",
   "section": "design",
   "has_full": true,
-  "headline": "월마트가 매장 벽을 3D 프린터로 뽑는다",
-  "body": "증축 벽을 로봇 프린터로 세워 기간을 3분의 1 줄이고 시공비를 15% 낮췄다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "沃尔玛用3D打印\n造门店墙体",
+  "body": "用机器人打印机筑起扩建墙，工期减少三分之一，造价降低15%。",
+  "lang": "zh"
  },
  {
   "id": "design-marvelous-2026",
@@ -19259,10 +18797,9 @@
   "date": "2026-08-25",
   "section": "design",
   "has_full": true,
-  "headline": "마블러스 디자이너, 옷이 찢어진다",
-  "body": "2026.1이 시접선을 따라 천이 터지는 베타 도구와 브러시 핀칭을 더했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "服装会裂开\n新增测试功能",
+  "body": "2026.1新增让布料沿缝线破裂的测试工具与Brush Pinching。",
+  "lang": "zh"
  },
  {
   "id": "design-flow-studio",
@@ -19275,10 +18812,9 @@
   "date": "2026-08-25",
   "section": "design",
   "has_full": true,
-  "headline": "프롬프트 대신 3D로 연출하는 AI 영상",
-  "body": "Flow Studio의 3D 에디터가 카메라와 연기를 잡아 생성 영상을 연출한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不用提示词\n用3D导演AI影像",
+  "body": "Flow Studio的3D编辑器通过镜头与表演导演生成影像。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-eraser",
@@ -19291,10 +18827,9 @@
   "date": "2026-08-25",
   "section": "design",
   "has_full": true,
-  "headline": "피그마 캔버스에 지우개가 생겼다",
-  "body": "벡터 편집 중 Shift + E로 지우개를 켜고, 채우기는 드래그로 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma画布\n新增橡皮擦",
+  "body": "矢量编辑时按Shift+E开启橡皮擦，填色改为拖拽完成。",
+  "lang": "zh"
  },
  {
   "id": "design-design-diff",
@@ -19307,10 +18842,9 @@
   "date": "2026-08-25",
   "section": "design",
   "has_full": true,
-  "headline": "에이전트에게 디자인을 재는 자를 준다",
-  "body": "Design Diff가 디자인과 화면을 겹쳐 일치율과 어긋난 자리를 돌려준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "给智能体\n一把设计量尺",
+  "body": "Design Diff叠合设计稿与界面，返回匹配度与偏差位置。",
+  "lang": "zh"
  },
  {
   "id": "books-warhammer-ai-warning",
@@ -19323,10 +18857,9 @@
   "date": "2026-08-25",
   "section": "books",
   "has_full": true,
-  "headline": "워해머 40,000 오디오북 마지막에\n성우가 AI 학습 금지 경고를 읽는다",
-  "body": "성우 리처드 리드가 오디오북 끝에서 저작권과 AI 학습 금지 문구를 직접 읽는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "战锤40000有声书\n末尾读AI禁训",
+  "body": "配音员Richard Reed在结尾读出版权与禁止AI训练的声明。",
+  "lang": "zh"
  },
  {
   "id": "books-spotify-audiobook-ai",
@@ -19339,10 +18872,9 @@
   "date": "2026-08-25",
   "section": "books",
   "has_full": true,
-  "headline": "스포티파이, 오디오북에\nAI 대화 기능 추가",
-  "body": "스포티파이가 프롬프트 재생목록과 대화형 질문 응답 등 AI 오디오북 기능을 새로 선보였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Spotify给有声书\n加AI对话功能",
+  "body": "Spotify新推出提示播放列表、对话式问答等AI有声书功能。",
+  "lang": "zh"
  },
  {
   "id": "books-play-insights",
@@ -19355,10 +18887,9 @@
   "date": "2026-08-25",
   "section": "books",
   "has_full": true,
-  "headline": "플레이 북스에 붙은 제미나이 독서 도우미\n선별한 영어 전자책부터 먼저 쓴다",
-  "body": "제미나이가 챕터 요약부터 스포일러 없는 질문 답변까지 책 안에서 처리한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Play Books新增\nGemini阅读助手",
+  "body": "Gemini能在书内完成章节总结到无剧透问答的各种功能。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-training-law",
@@ -19371,9 +18902,9 @@
   "date": "2026-08-25",
   "section": "books",
   "has_full": true,
-  "headline": "저작권 있는 책으로 AI를 학습시키는 일\n미국 법원은 아직 답을 못 냈다",
-  "body": "앨섭 판사는 앤스로픽의 학습 자체는 적법하다고 봤고, 벌한 건 책을 훔친 행위였다.",
-  "lang": "ko",
+  "headline": "Training AI on copyrighted\nbooks: US courts still unsure",
+  "body": "Judge Alsup ruled Anthropic's training itself was lawful, and punished only the theft of books.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19387,9 +18918,9 @@
   "date": "2026-08-25",
   "section": "books",
   "has_full": true,
-  "headline": "2천 달러 라인 에디트를 AI로 대신할까\nALLi 두 진행자의 답은 보완",
-  "body": "마이클 라 론은 AI가 편집자를 대체할 수 없고 보완재로 써야 한다고 잘라 말했다.",
-  "lang": "ko",
+  "headline": "Can AI replace a $2,000 line\nedit? ALLi hosts say: supplement",
+  "body": "Michael La Ronn was blunt: AI can't replace an editor and should be used only as a supplement.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19403,10 +18934,9 @@
   "date": "2026-08-22",
   "section": "science",
   "has_full": true,
-  "headline": "하루 4천만 건의 건강 질문이\n병원 밖에서 오간다",
-  "body": "미국인 4천만 명이 매일 챗GPT에 증상을 묻지만 그 답을 책임지는 의사는 없다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "每天4000万条\n健康提问在院外",
+  "body": "4000万美国人每天向ChatGPT问症状，却无医生为答案负责。",
+  "lang": "zh"
  },
  {
   "id": "science-qec-decoder",
@@ -19419,10 +18949,9 @@
   "date": "2026-08-22",
   "section": "science",
   "has_full": true,
-  "headline": "시뮬레이션만 보고 배운 디코더가\n실제 큐비트 데이터에서 통했다",
-  "body": "합성 데이터로만 학습한 디코더가 구글의 실제 하드웨어 데이터에서 정확도를 높였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "只学模拟数据的\n解码器在实机奏效",
+  "body": "只用合成数据训练的解码器，在Google真实硬件数据上提升了准确率。",
+  "lang": "zh"
  },
  {
   "id": "science-intrabodies",
@@ -19435,10 +18964,9 @@
   "date": "2026-08-22",
   "section": "science",
   "has_full": true,
-  "headline": "AI로 다시 그린 항체 672종이\n세포 안에서 살아남았다",
-  "body": "에식스대가 항체 672종을 세포 안에서 버티는 인트라바디로 다시 설계했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI重绘672种抗体\n成功存活于细胞内",
+  "body": "埃塞克斯大学把672种抗体重新设计成能在细胞内存活的胞内抗体。",
+  "lang": "zh"
  },
  {
   "id": "science-bonsai",
@@ -19451,10 +18979,9 @@
   "date": "2026-08-22",
   "section": "science",
   "has_full": true,
-  "headline": "평면 지도를 버리고 나무로 그리자\n숨어 있던 면역세포가 보였다",
-  "body": "세포를 평면 대신 나무로 그리자 아무도 몰랐던 자연살해세포 아형이 드러났다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "弃平面图用树状\n绘制现隐藏免疫细胞",
+  "body": "用树状图而非平面图描绘细胞，发现了无人知晓的NK细胞亚型。",
+  "lang": "zh"
  },
  {
   "id": "science-ai-observatory",
@@ -19467,10 +18994,9 @@
   "date": "2026-08-22",
   "section": "science",
   "has_full": true,
-  "headline": "업체 보고서가 지운 대화 절반은\n건강과 관계 이야기였다",
-  "body": "앤스로픽 기준으로 거르면 수집된 대화의 48%가 업무와 무관해 잘려나간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "企业报告删掉的\n半数对话谈健康",
+  "body": "按Anthropic的标准筛选，收集到的对话中48%因与工作无关被删掉。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-model-retire",
@@ -19483,9 +19009,9 @@
   "date": "2026-08-22",
   "section": "music",
   "has_full": true,
-  "headline": "수노, 자사 AI 모델 전량 폐기하고\n업계와 만든 새 모델로 갈아탄다",
-  "body": "수노는 지금 모델을 모두 내리고 업계와 함께 만든 새 모델로 교체하며, 9월 3일부터 다운로드 상한이 걸린다.",
-  "lang": "ko",
+  "headline": "Suno retires all its AI models\nfor new ones built with industry",
+  "body": "Suno is replacing all its current models with new ones built with the industry, and download caps begin September 3.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19499,10 +19025,9 @@
   "date": "2026-08-22",
   "section": "music",
   "has_full": true,
-  "headline": "DSP를 모르던 디자이너가 두 달 만에\n무료 아날로그 신스를 내놨다",
-  "body": "무료 맥용 신스 OA-Phosphor-1은 디자이너 출신 개발자가 AI 코딩을 써서 두 달 만에 만들었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不懂DSP的设计师\n两月推出免费合成器",
+  "body": "免费Mac合成器OA-Phosphor-1由设计师出身的开发者用AI编程两个月做成。",
+  "lang": "zh"
  },
  {
   "id": "music-ml-plugin-week",
@@ -19515,10 +19040,9 @@
   "date": "2026-08-22",
   "section": "music",
   "has_full": true,
-  "headline": "이번 주 신작은 머신러닝을 쓰면서도\nAI를 앞세우지 않는다",
-  "body": "드럼을 킥과 스네어까지 쪼개는 ReStem 2와 그래뉼러 신스 Lucid가 이번 주 나란히 풀렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "本周新作用机器学习\n却不标榜AI",
+  "body": "能把鼓拆成底鼓和军鼓的ReStem 2，与颗粒合成器Lucid本周同时发布。",
+  "lang": "zh"
  },
  {
   "id": "movies-subtitlenext-asr",
@@ -19531,9 +19055,9 @@
   "date": "2026-08-22",
   "section": "movies",
   "has_full": true,
-  "headline": "SubtitleNext, AI 전사엔진 4종과\nIMSCR·일괄처리까지 통합",
-  "body": "프로퍼즈디지털이 SubtitleNext에 AI 전사 엔진 네 개와 IMSCR 지원, 일괄 처리 기능을 새로 얹었다.",
-  "lang": "ko",
+  "headline": "SubtitleNext adds 4 AI engines,\nIMSCR, and batch processing",
+  "body": "ProFuzz Digital added four AI transcription engines, IMSCR support, and batch processing to SubtitleNext.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19547,10 +19071,9 @@
   "date": "2026-08-22",
   "section": "movies",
   "has_full": true,
-  "headline": "런웨이 Ruby, 어떤 모델 영상도\n16비트 HDR로 바꿔낸다",
-  "body": "런웨이 Ruby는 다른 모델이 만든 영상까지 16비트 HDR 프로레스와 EXR로 바꿔 그레이딩에 바로 태운다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Runway Ruby\n任意视频转16bit HDR",
+  "body": "Runway Ruby能把任意模型的视频转成16-bit HDR ProRes和EXR。",
+  "lang": "zh"
  },
  {
   "id": "movies-ltx-2-5",
@@ -19563,9 +19086,9 @@
   "date": "2026-08-22",
   "section": "movies",
   "has_full": true,
-  "headline": "LTX-2.5, 오픈웨이트 영상 월드모델\n스튜디오 자체 하드웨어에 올라간다",
-  "body": "LTX가 내놓은 LTX-2.5는 오픈웨이트로 ACES HDR과 멀티샷 시퀀스를 한 번에 처리해 스튜디오 자체 서버에 바로 올릴 수 있다.",
-  "lang": "ko",
+  "headline": "LTX-2.5, an open-weight video\nworld model runs on studio gear",
+  "body": "LTX's open-weight LTX-2.5 handles ACES HDR and multi-shot sequences at once, deployable straight to studio servers.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19579,10 +19102,9 @@
   "date": "2026-08-22",
   "section": "movies",
   "has_full": true,
-  "headline": "리얼루전 AccuFACE 2 출시\n웹캠·아이폰으로 잡는 표정 모캡",
-  "body": "리얼루전이 웹캠이나 아이폰 촬영만으로 CC5 HD 캐릭터급 표정을 잡아내는 프로덕션급 마커리스 안면 모캡 AccuFACE 2를 출시했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AccuFACE 2上线\n摄像头就能捕表情",
+  "body": "Reallusion用网络摄像头或iPhone就能捕捉CC5 HD级别的表情。",
+  "lang": "zh"
  },
  {
   "id": "games-skillprint-signal",
@@ -19595,10 +19117,9 @@
   "date": "2026-08-22",
   "section": "games",
   "has_full": true,
-  "headline": "Signal 벤치마크, 플레이어 상태를\n바꾸는 AI에 점수를 매긴다",
-  "body": "게임을 실시간으로 바꿔 플레이어를 목표 심리 상태로 이끄는 AI 성능을 잰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Signal基准测试\n为改变状态AI打分",
+  "body": "它衡量AI能否通过实时改变游戏,把玩家带入目标心理状态。",
+  "lang": "zh"
  },
  {
   "id": "games-r6-toxmod",
@@ -19611,10 +19132,9 @@
   "date": "2026-08-22",
   "section": "games",
   "has_full": true,
-  "headline": "레인보우 식스 시즈, AI 음성 관리로\n심각한 폭언 절반을 걷어냈다",
-  "body": "유비소프트는 ToxMod 도입 뒤 심각한 음성 폭언이 50% 줄었다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "R6围攻用AI语音\n砍掉一半重度骂人",
+  "body": "Ubisoft称上线ToxMod后严重语音辱骂下降了50%。",
+  "lang": "zh"
  },
  {
   "id": "games-deepmind-eve",
@@ -19627,9 +19147,9 @@
   "date": "2026-08-22",
   "section": "games",
   "has_full": true,
-  "headline": "딥마인드, 15년 게임 AI 연구를\nEVE Online으로 가져간다",
-  "body": "딥마인드가 EVE Online 개발사와 손잡고 AI 에이전트 프로토타입을 만든다.",
-  "lang": "ko",
+  "headline": "DeepMind brings 15 years of\ngame AI research to EVE Online",
+  "body": "DeepMind is teaming up with EVE Online's developer to build AI agent prototypes.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19643,10 +19163,9 @@
   "date": "2026-08-22",
   "section": "games",
   "has_full": true,
-  "headline": "과장을 걷어낸 게임 AI 이야기,\n두 베테랑이 마주 앉았다",
-  "body": "전 Maxis·Take-Two 개발자 둘이 팟캐스트에서 게임 AI의 쓸모를 따진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "去掉夸张的游戏AI\n两位老将面对面",
+  "body": "两位前Maxis和Take-Two开发者在播客里探讨游戏AI到底有什么用。",
+  "lang": "zh"
  },
  {
   "id": "games-1666-amsterdam",
@@ -19659,10 +19178,9 @@
   "date": "2026-08-22",
   "section": "games",
   "has_full": true,
-  "headline": "1666: Amsterdam의 AI 논란,\n감독은 75가지 변형을 내세웠다",
-  "body": "Désilets는 AI로 한 소재의 변형 75가지를 받을 수 있다고 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "《1666》AI争议\n导演称75种变体",
+  "body": "Désilets称用AI可以一次得到同一素材的75种变体。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-rayneo-io-gt-split",
@@ -19675,10 +19193,9 @@
   "date": "2026-08-22",
   "section": "gadgets",
   "has_full": true,
-  "headline": "RayNeo, 카메라 없는 iO와\n극장급 GT로 AR 안경을 갈랐다",
-  "body": "33그램 iO는 카메라 없는 일상용, GT는 307인치를 띄우는 감상용이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "RayNeo拆分AR眼镜\n无相机iO与影院GT",
+  "body": "33克的iO无相机专供日常,GT能投出307英寸大屏专供观赏。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-oura-sleep-lawsuit",
@@ -19691,10 +19208,9 @@
   "date": "2026-08-22",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Oura 반지의 수면 정확도가\n집단소송 도마에 올랐다",
-  "body": "뇌파와 안구 운동을 못 재는 반지가 수면 정확도를 과장했다며 집단소송에 걸렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Oura指环睡眠\n精度被集体诉讼",
+  "body": "一款测不出脑电波和眼动的指环被指夸大睡眠监测精度而遭集体诉讼。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-meta-camera-hardware-lock",
@@ -19707,10 +19223,9 @@
   "date": "2026-08-22",
   "section": "gadgets",
   "has_full": true,
-  "headline": "메타 특허, 스마트 안경 카메라에\n물리 잠금장치를 제안한다",
-  "body": "메타가 스마트 안경 카메라를 물리적으로 막는 잠금장치를 특허로 제안했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Meta专利提议\n给相机加物理锁",
+  "body": "Meta提议用一个硬件物理锁从外部挡住智能眼镜摄像头的镜头。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-gemini-home-voice-kelvin",
@@ -19723,10 +19238,9 @@
   "date": "2026-08-22",
   "section": "gadgets",
   "has_full": true,
-  "headline": "구글 홈, 조명 색온도와 스포티파이\n음성 명령을 다시 손봤다",
-  "body": "8월 20일 업데이트로 제미나이가 2700켈빈 같은 색온도 명령을 알아듣는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Google Home调整\n色温与Spotify语音",
+  "body": "8月20日更新让Gemini能听懂2700开尔文等色温指令。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-airpods-camera-stills",
@@ -19739,9 +19253,9 @@
   "date": "2026-08-22",
   "section": "gadgets",
   "has_full": true,
-  "headline": "카메라 달린 에어팟, 영상 대신\n1메가픽셀 스틸을 찍는다",
-  "body": "양쪽 버드가 각각 최대 1메가픽셀 정지 이미지를 찍어 비주얼 인텔리전스에 넘긴다.",
-  "lang": "ko",
+  "headline": "AirPods with a camera skip video\nand shoot 1-megapixel stills",
+  "body": "Each bud can shoot up to a 1-megapixel still image and hand it to Visual Intelligence.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19755,9 +19269,9 @@
   "date": "2026-08-22",
   "section": "design",
   "has_full": true,
-  "headline": "v0로 만든 앱이 슬랙·구글 등\n100여 서비스에 바로 붙는다",
-  "body": "프롬프트로 만든 프로토타입이 개발자 없이 사내 실데이터에 닿는다.",
-  "lang": "ko",
+  "headline": "Apps built with v0 now connect\nto Slack, Google and 100+ apps",
+  "body": "Prototypes built from prompts can now reach real company data without a developer.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19771,9 +19285,9 @@
   "date": "2026-08-22",
   "section": "design",
   "has_full": true,
-  "headline": "슬랙이 AI 코딩 에이전트를\n팀 채널 한복판에 앉혔다",
-  "body": "슬랙 코드는 클로드 코드와 데빈을 팀 채널에 넣어 모두가 함께 지켜보게 한다.",
-  "lang": "ko",
+  "headline": "Slack puts AI coding agents\nin the middle of team channels",
+  "body": "Slack Code puts Claude Code and Devin inside team channels for everyone to watch together.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19787,10 +19301,9 @@
   "date": "2026-08-22",
   "section": "design",
   "has_full": true,
-  "headline": "파운드리 누크 17.1, 가우시안\n스플랫에 조명을 다시 건다",
-  "body": "누크 17.1은 가우시안 스플랫 리라이팅과 하이드라 2.0 뷰어를 더했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Nuke 17.1\n为高斯溅射重新打光",
+  "body": "Foundry Nuke 17.1新增高斯溅射重新打光功能和Hydra 2.0查看器。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-motion-plugin-show-your-work",
@@ -19803,10 +19316,9 @@
   "date": "2026-08-22",
   "section": "design",
   "has_full": true,
-  "headline": "키네틱 타이포 플러그인을\n디자이너가 직접 만들었다",
-  "body": "제이미 해버먼은 피그마 에이전트로 키네틱 타이포 플러그인을 직접 만들었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "动态排版插件\n由设计师亲手做",
+  "body": "Jamie Haberman用Figma智能体亲手做出了动态排版插件。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-builder-shape-first",
@@ -19819,9 +19331,9 @@
   "date": "2026-08-22",
   "section": "design",
   "has_full": true,
-  "headline": "러버블이냐 코덱스냐보다\n만들 것의 모양이 먼저다",
-  "body": "무엇을 쓸지는 만들 소프트웨어의 모양이 정해진 다음에 고른다.",
-  "lang": "ko",
+  "headline": "Before Lovable or Codex,\nthe shape comes first",
+  "body": "You choose what to use only after the shape of the software you're building is set.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -19835,10 +19347,9 @@
   "date": "2026-08-22",
   "section": "books",
   "has_full": true,
-  "headline": "AI는 창작 산업에 경제적 이득이\n전혀 없다는 경고가 나왔다",
-  "body": "호주 전 수석과학자 앨런 핀켈은 AI가 창작 산업에 경제적 이득을 전혀 주지 않는다고 경고한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI对创作产业\n无经济效益的警告",
+  "body": "澳大利亚前首席科学家艾伦·芬克尔警告,AI对创作产业毫无经济效益。",
+  "lang": "zh"
  },
  {
   "id": "books-machine-reader",
@@ -19851,10 +19362,9 @@
   "date": "2026-08-22",
   "section": "books",
   "has_full": true,
-  "headline": "출판사가 다듬어온 구조화 메타데이터가\n이미 기계 독자를 위한 준비였다",
-  "body": "와일리 크리스 리드는 FAIR 원칙이 다듬은 메타데이터가 AI를 새 독자로 준비시켰다고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "出版社打磨的\n结构化数据早备好",
+  "body": "Wiley的Chris Reed说,FAIR原则打磨的元数据早已为AI这个新读者做好准备。",
+  "lang": "zh"
  },
  {
   "id": "books-friedman-ai-roundup",
@@ -19867,10 +19377,9 @@
   "date": "2026-08-22",
   "section": "books",
   "has_full": true,
-  "headline": "AI 썼다고 밝힌 언론상 수상작이\n역대 최다인 다섯 편이 나왔다",
-  "body": "제인 프리드먼의 업계 소식란은 AI 사용을 밝힌 언론상 수상작이 올해 다섯 편으로 최다를 기록했다고 전한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "公开用AI的\n获奖作创纪录达5篇",
+  "body": "简·弗里德曼的行业通讯称,公开用AI的获奖作今年多达五篇,创历史新高。",
+  "lang": "zh"
  },
  {
   "id": "books-frankfurt-rights-ai",
@@ -19883,10 +19392,9 @@
   "date": "2026-08-22",
   "section": "books",
   "has_full": true,
-  "headline": "AI 저작권 거래는 건마다 달라\n표준 계약이 불가능하다",
-  "body": "프랑크푸르트 라이츠는 AI 라이선스가 이용 범위와 보수, 책임까지 달라 표준화가 불가능하다고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI版权交易\n一事一议难统一",
+  "body": "法兰克福Rights称AI授权在范围、报酬、责任上差异太大,无法标准化。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-chapter-summaries",
@@ -19899,10 +19407,9 @@
   "date": "2026-08-22",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 쓴 챕터 요약을\n가이드라인과 함께 책에 실었다",
-  "body": "존 본드는 자신의 책에 AI 요약과 사용 지침을 실으며 출판사의 AI 실험이 훨씬 넓다고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI写的章节摘要\n连同指南一起出版",
+  "body": "乔恩·邦德在自己书中收录AI摘要与使用准则,称出版社的实验远不止于此。",
+  "lang": "zh"
  },
  {
   "id": "science-virtual-cell",
@@ -19915,10 +19422,9 @@
   "date": "2026-08-21",
   "section": "science",
   "has_full": true,
-  "headline": "단백질에서 세포 전체로,\n가상 세포 모델이 나왔다",
-  "body": "유전자를 하나 끄거나 약물을 넣으면 세포 전체가 어떻게 달라지는지 예측한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "从蛋白质到\n整个细胞的模型",
+  "body": "关掉一个基因,或加入一种药物,就能预测整个细胞会如何变化。",
+  "lang": "zh"
  },
  {
   "id": "science-cuspai-mof",
@@ -19931,10 +19437,9 @@
   "date": "2026-08-21",
   "section": "science",
   "has_full": true,
-  "headline": "예측은 이미 쉬워졌고\n병목은 합성으로 옮겨갔다",
-  "body": "PFAS를 걸러낼 MOF 20종을 6개월 만에 찾아냈다. 이제 어려운 쪽은 합성과 제조다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "预测已经变简单\n瓶颈转移到合成",
+  "body": "六个月找到20种能过滤PFAS的MOF,难点已转向合成制造。",
+  "lang": "zh"
  },
  {
   "id": "science-alien-intelligence",
@@ -19963,10 +19468,9 @@
   "date": "2026-08-21",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 처음부터 설계한\n바이러스, 실제로 작동했다",
-  "body": "합성한 게놈 설계 285개 가운데 16개가 대장균을 감염시키는 파지로 작동했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI从零设计的\n病毒真的能用",
+  "body": "合成的285个基因组设计中,16个成了能感染大肠杆菌的噬菌体。",
+  "lang": "zh"
  },
  {
   "id": "science-agent-scale",
@@ -19979,10 +19483,9 @@
   "date": "2026-08-21",
   "section": "science",
   "has_full": true,
-  "headline": "같은 모델도 수가 늘면\n다른 결론에 도달한다",
-  "body": "Llama 집단은 여섯을 넘자 개별 선호를 뒤집었다. 단일 평가로는 안 보이는 지점이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "同一模型数量变多\n就会得出不同结论",
+  "body": "Llama群体数量超过六个后逆转了个体偏好,这是单体评测看不到的。",
+  "lang": "zh"
  },
  {
   "id": "music-vibe-coded-plugins",
@@ -19995,10 +19498,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "플러그인을 직접 만드는 일은\n이제 취향 싸움이 됐다",
-  "body": "AI 코딩이 DSP 장벽을 낮췄다. 이제 무엇을 시킬지 아는 감각이 결과를 가른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "自己动手做插件\n现在成了品味之争",
+  "body": "AI编程降低了DSP门槛,如今知道该让它做什么的直觉决定结果。",
+  "lang": "zh"
  },
  {
   "id": "music-vaemi-synterra",
@@ -20011,10 +19513,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "식물과 빛, 손끝이\n내 곡의 조성 안에서 연주한다",
-  "body": "프롬프트가 아니라 식물과 빛, 접촉을 음으로 바꾼다. 스케일 모드가 그 음을 내 조성에 묶는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "植物、光与指尖\n在我的曲调中演奏",
+  "body": "不是提示词,而是把植物、光与触碰变成音符,音阶模式将其锁定在我的调性中。",
+  "lang": "zh"
  },
  {
   "id": "music-tamber-2",
@@ -20027,10 +19528,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "완성곡을 뱉어주는 대신\n내 DAW를 직접 움직인다",
-  "body": "Tamber 2.0은 앱 다섯 개로 쪼개졌다. 말로 DAW를 몰고, 이제 윈도우에서도 돌아간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不直接给出成品曲\n而是亲自操控我的DAW",
+  "body": "Tamber2.0拆分成五个应用,用语音操控DAW,现在也支持Windows系统。",
+  "lang": "zh"
  },
  {
   "id": "music-ssg-loudness-pro",
@@ -20043,10 +19543,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "클립과 리밋의 경계를\n초당 수천 번 다시 잡는다",
-  "body": "고정 임계값을 버리고 클립과 리밋 비율을 계속 고쳐 잡는다. 지연은 약 5ms.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "削波限幅边界\n每秒刷新上千次",
+  "body": "它舍弃固定阈值,持续重新调整削波与限幅的比例,延迟约5毫秒。",
+  "lang": "zh"
  },
  {
   "id": "music-apple-made-with-ai-tag",
@@ -20059,10 +19558,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "애플 뮤직의 'AI로 제작' 표시,\n탐지가 아니라 자진 신고다",
-  "body": "라벨은 올해 안에 붙는다. 애플은 직접 탐지하지 않으니 레이블과 유통사가 알아서 달아야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI制作标识\n不靠检测靠自报",
+  "body": "苹果音乐的AI标签年内上线,但苹果不主动检测,厂牌和发行商得自己打标。",
+  "lang": "zh"
  },
  {
   "id": "movies-metabull-inkrise",
@@ -20075,9 +19573,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "MetaBull, Inkrise 인수\n결정론적 렌더링 쪽에 선다",
-  "body": "MetaBull이 Inkrise를 품으며 결정론적 AIR 렌더링 엔진까지 손에 넣었다.",
-  "lang": "ko",
+  "headline": "MetaBull acquires Inkrise\nbacks deterministic rendering",
+  "body": "By absorbing Inkrise, MetaBull also gained a deterministic AIR rendering engine.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20091,10 +19589,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "제임스 그레이, AI 몰이는 실패하고\n필름은 바이닐처럼 돌아온다",
-  "body": "'페이퍼 타이거'를 필름으로 찍은 그는 AI 몰이가 실패하고 필름이 돌아온다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "詹姆斯·格雷\nAI失败胶片回归",
+  "body": "他用胶片拍了《纸老虎》,认为AI浪潮会失败,胶片正在回归。",
+  "lang": "zh"
  },
  {
   "id": "movies-firefly-audio",
@@ -20107,10 +19604,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "Firefly의 음악·음성·효과음 생성이\n베타를 벗고 정식 버전이 됐다",
-  "body": "어도비가 Firefly의 음악·음성·효과음 생성을 모두 정식 기능으로 돌렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Firefly音乐\n语音音效转正式",
+  "body": "Adobe把Firefly的音乐、语音、音效生成全部转为正式功能。",
+  "lang": "zh"
  },
  {
   "id": "movies-eddie-ai",
@@ -20123,9 +19619,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "Eddie AI, 로컬에서 돌아가는\n9B 편집 전용 모델을 학습했다",
-  "body": "9B 편집 전용 모델이 Kimi K3를 상대로 47% 승률을 냈다. 워크스테이션 한 대면 돈다.",
-  "lang": "ko",
+  "headline": "Eddie AI trained a 9B model\nfor editing that runs locally",
+  "body": "Eddie AI's 9B editing-only model beat Kimi K3 47% of the time, and runs on a single workstation.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20139,10 +19635,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "ComfyUI에 공식 MCP 서버\n노드 그래프를 에이전트가 짠다",
-  "body": "공식 MCP 서버가 붙었다. 노드 배선은 에이전트가 맡고 연출은 사람 몫으로 남는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ComfyUI接入\n官方MCP自动连线",
+  "body": "官方MCP服务器已接入,节点连线交给智能体,创作部分仍由人把关。",
+  "lang": "zh"
  },
  {
   "id": "games-unity-cli",
@@ -20155,10 +19650,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "터미널 한 줄로 설치하는\nUnity CLI가 에디터를 연다",
-  "body": "CLI 하나가 실행 중인 에디터의 Play 모드와 테스트, C# 실행까지 다룬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "终端一行安装\nUnity CLI开编辑器",
+  "body": "一个CLI就能在运行中的编辑器里操作Play模式、测试和C#执行。",
+  "lang": "zh"
  },
  {
   "id": "games-uefn-mcp",
@@ -20171,10 +19665,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "UEFN에 Unreal MCP,\n에디터 안에서 섬을 짓는다",
-  "body": "UEFN 에디터에 MCP가 들어왔다. 에이전트 코딩 툴이 섬 제작을 직접 맡는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "UEFN接入MCP\n编辑器内建岛",
+  "body": "UEFN编辑器接入MCP,智能体编程工具可直接承担建岛工作。",
+  "lang": "zh"
  },
  {
   "id": "games-sony-grind-patent",
@@ -20187,10 +19680,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "소니 특허 속 AI가\n대신 반복 구간을 돈다",
-  "body": "소니 특허 속 AI는 내 플레이를 배워 대신 파밍한다. 그 데이터를 사고파는 구조까지 적혀 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "索尼专利中\nAI代练刷本",
+  "body": "索尼专利中的AI学会你的玩法代练,还写明了数据买卖的机制。",
+  "lang": "zh"
  },
  {
   "id": "games-meta-pocket",
@@ -20203,10 +19695,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "메타가 미국에 푸는 Pocket\n프롬프트로 만든 게임이 피드로 흐른다",
-  "body": "프롬프트로 만든 작은 게임이 피드로 흐른다. Pocket이 미국 전역에 열린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Meta在美推Pocket\n提示词游戏入信息流",
+  "body": "用提示词做出的小游戏会流入信息流,Pocket在美国全境开放。",
+  "lang": "zh"
  },
  {
   "id": "games-bic-kimyongha",
@@ -20219,10 +19710,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "AI 시대에 사람에게만 남는 건\n무엇이 어울리는지 아는 눈",
-  "body": "김용하는 BIC2026 기조강연에서 취향을 심미안으로 키우는 일이 사람 몫이라 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI时代仅留给\n人的审美眼光",
+  "body": "金容夏在BIC2026主题演讲中说,把喜好培养成审美眼光是人的职责。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-xreal-aura",
@@ -20235,10 +19725,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "안드로이드 XR 첫 안경 아우라,\n예약 1만 대를 넘어섰다",
-  "body": "안드로이드 XR을 얹은 첫 AR 안경 엑스리얼 아우라가 사전 예약 1만 대를 넘겼다. 가격은 아직 미정, 출시는 올가을이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "安卓XR首款眼镜\nAura预订破万",
+  "body": "首款搭载安卓XR的AR眼镜Aura预订量突破一万台,价格未定,今秋上市。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-pixelwatch5-breathing",
@@ -20251,10 +19740,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "손목에 찬 에어백,\n픽셀 워치 5가 호흡 위급을 먼저 잡는다",
-  "body": "픽셀 워치 5는 호흡 위급 상황을 손목에서 감지해 사용자가 손대지 않아도 스스로 도움을 부른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Pixel Watch 5\n先识别呼吸危急",
+  "body": "Pixel Watch 5能在手腕上识别呼吸危急,无需用户动手就能自动呼救。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-photo-body-composition",
@@ -20267,10 +19755,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "체지방 측정, 구글 실험에선\n손목 센서보다 카메라가 정확했다",
-  "body": "구글 리서치는 사진으로 체성분을 추정하는 모델이 웨어러블 센서보다 정확했다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "测体脂谷歌实验\n摄像头比腕部传感器准",
+  "body": "谷歌研究称,用照片估算体成分的模型比可穿戴传感器更准确。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-homepad-faces",
@@ -20283,10 +19770,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "애플 홈패드, 대화창 대신\n워치 페이스를 골랐다",
-  "body": "애플 홈패드가 애플 워치식 페이스를 가져온다. 상시 켜진 화면을 대화창이 아니라 방마다 다른 사물처럼 다루겠다는 선택이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Apple HomePad\n弃对话选表盘",
+  "body": "Apple HomePad引入Watch式表盘，把常亮屏幕当作按房间区分的物件，而非对话框。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-hilight",
@@ -20299,10 +19785,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제조사가 묶어둔 픽셀 11 기능을\n외부 개발자가 다시 열었다",
-  "body": "한 개발자가 픽셀 11 프로의 HiLight LED를 통째로 다루는 앱을 만들어, 묶여 있던 기능을 창작 도구로 바꿨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "厂商锁住的功能\n被外部开发者解锁",
+  "body": "一名开发者做了个能全权操控HiLight LED的应用，把锁住的功能变成创作工具。",
+  "lang": "zh"
  },
  {
   "id": "design-invisible-ai-features",
@@ -20315,10 +19800,9 @@
   "date": "2026-08-21",
   "section": "design",
   "has_full": true,
-  "headline": "AI 기능은 단계를 늘리지 않고\n기존 흐름 안에서 사라져야 한다",
-  "body": "사용자가 싫어하는 일을 배경에서 처리하고 필요할 때만 나타났다 사라지는 쪽이 살아남는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI功能不应增加\n步骤，应融入流程",
+  "body": "把用户讨厌的事放在后台处理，只在需要时出现又消失的功能才能存活。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-sightlines-agentic",
@@ -20331,10 +19815,9 @@
   "date": "2026-08-21",
   "section": "design",
   "has_full": true,
-  "headline": "에이전트 제품 설계의 출발점은\n권한을 눈에 보이게 만드는 일",
-  "body": "권한과 보안 범위가 화면에서 읽혀야 에이전트도 신뢰를 얻는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "智能体产品设计\n先要让权限可见",
+  "body": "只有权限和安全范围在界面上清晰可读，智能体才能获得用户信任。",
+  "lang": "zh"
  },
  {
   "id": "design-docs-automation-line",
@@ -20347,10 +19830,9 @@
   "date": "2026-08-21",
   "section": "design",
   "has_full": true,
-  "headline": "생성해도 되는 문서와\n사람이 써야 하는 문서",
-  "body": "코드와 토큰에서 뽑아낼 문서는 기계에 맡기고, 의도와 사용 판단은 사람이 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "可以生成的文档\n该人写的文档",
+  "body": "能从代码和令牌中提取的文档交给机器，意图和使用判断由人来写。",
+  "lang": "zh"
  },
  {
   "id": "design-dev-tool-power-rankings",
@@ -20379,10 +19861,9 @@
   "date": "2026-08-21",
   "section": "design",
   "has_full": true,
-  "headline": "비개발자 대표가 아우라로\n5~6주치 작업을 2주에 끝냈다",
-  "body": "아이언메이스 대표가 5~6주로 잡혀 있던 튜토리얼 작업을 아우라와 함께 2주 만에 마쳤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "非开发者老板用Aura\n两周干完5~6周的活",
+  "body": "Ironmace老板用Aura，把原定5~6周的教程开发压缩到2周完成。",
+  "lang": "zh"
  },
  {
   "id": "books-textbook-suit",
@@ -20395,10 +19876,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "교과서 저자들이 OpenAI를\n상대로 집단소송을 냈다",
-  "body": "미국 교과서 저자들이 OpenAI가 교과서 수천 권을 학습에 썼다며 소송을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "教科书作者们\n集体起诉OpenAI",
+  "body": "美国教科书作者起诉OpenAI，称其用数千本教科书训练模型。",
+  "lang": "zh"
  },
  {
   "id": "books-religion-ai-slop",
@@ -20411,10 +19891,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "아마존 종교서 2,034권 중\n63%가 AI가 쓴 책이었다",
-  "body": "아마존 종교 서적 2,034권을 훑었더니 63%가 AI로 쓴 것으로 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "亚马逊宗教书\n2034本中63%系AI",
+  "body": "调查亚马逊2,034本宗教书后发现，63%疑似由AI写成。",
+  "lang": "zh"
  },
  {
   "id": "books-reading-buddy",
@@ -20427,10 +19906,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "요약해주는 AI 독서 도우미가\n지우는 건 읽기의 어려움이다",
-  "body": "요약해주는 AI 독서 도우미가 읽기에 꼭 필요한 어려움을 지운다는 비판이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "总结式AI读书助手\n抹去的是阅读之难",
+  "body": "批评认为，能做总结的AI读书助手抹去了阅读本应有的难度。",
+  "lang": "zh"
  },
  {
   "id": "books-file-access-agents",
@@ -20443,10 +19921,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "챗봇에 챕터를 붙여넣지 말고\n원고 폴더째 AI에게 넘겨라",
-  "body": "코덱스 같은 도구가 더 똑똑한 게 아니다. 원고 폴더를 직접 만질 수 있을 뿐이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "别把章节粘给聊天\n交出整个原稿文件夹",
+  "body": "像Codex这样的工具并非更聪明，只是能直接接触原稿文件夹而已。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-facilitated",
@@ -20459,10 +19936,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "저자 본인의 글만 학습한 AI로\n만든 책, 표지에 그 사실을 적었다",
-  "body": "해리먼 하우스가 라울 팔이 써온 글만 학습시킨 AI로 책을 만들고 그 사실을 표지에 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI只学作者本人\n文字写书并标明",
+  "body": "哈里曼出版社用只学习过劳尔·帕尔本人文字的AI写书，并在封面注明。",
+  "lang": "zh"
  },
  {
   "id": "science-recursive-self-improvement",
@@ -20475,9 +19951,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 스스로 발전한다는 전제\n실제 평가에서 창의성에 막혔다",
-  "body": "AI 에이전트는 연구에 필요한 공학 작업은 해냈지만 최상위 학회 수준의 독창성에는 이르지 못했다.",
-  "lang": "ko",
+  "headline": "The premise that AI improves\nitself hit a creativity wall",
+  "body": "AI agents managed the engineering research requires but lacked the originality of top-tier conferences.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20491,10 +19967,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 광자 칩 부품 세 가지를\n최대 500배 작게 설계했다",
-  "body": "막스플랑크 광과학연구소가 역설계 AI로 만든 광자 칩 부품 세 종이 최대 500배 작아졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI将光子芯片部件\n缩小最多500倍",
+  "body": "马克斯·普朗克光科学研究所用逆向设计AI将三种光子芯片部件缩小最多500倍。",
+  "lang": "zh"
  },
  {
   "id": "science-machine-culture",
@@ -20507,10 +19982,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 찾은 전략이 세대를 건너\n인간 집단에 자리 잡았다",
-  "body": "사람으로만 채운 집단 600명 중 한 명만 찾아낸 전략이 AI가 낀 집단에서는 세대를 넘어 살아남았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI发现的策略跨越世代\n在人类群体中扎根",
+  "body": "在全是人类的组里，600人中只有1人独自找到该策略，但在有AI的组里它跨代留存。",
+  "lang": "zh"
  },
  {
   "id": "science-fda-ai-device-evidence",
@@ -20523,10 +19997,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "AI 의료기기 1,357개 가운데\n환자 결과를 검증한 건 세 개",
-  "body": "FDA가 승인한 AI 의료기기 1,357개 가운데 환자 건강 개선을 검증한 기기는 셋뿐이었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "1357款AI\n器械仅验3款",
+  "body": "FDA批准的1,357款AI医疗器械中，仅3款验证了患者健康改善。",
+  "lang": "zh"
  },
  {
   "id": "science-blue-skies-contrails",
@@ -20539,10 +20012,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "비행운을 피해 항로를 트는 AI\n북대서양 상공에서 시험 비행",
-  "body": "구글과 영국 정부가 북대서양 샨윅 공역에서 AI 예보로 비행운을 피하는 30개월 시험을 시작한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI避航迹云\n北大西洋试飞",
+  "body": "谷歌与英国政府在香维克空域用AI预报避开航迹云，试验持续30个月。",
+  "lang": "zh"
  },
  {
   "id": "music-umg-hook-licensed-remix",
@@ -20555,10 +20027,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "팬이 만든 리믹스와 매시업에\nUMG가 라이선스를 붙였다",
-  "body": "UMG와 Hook이 손잡아 팬이 만든 리믹스마다 라이선스와 정산이 붙는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "粉丝混音\nUMG给授权",
+  "body": "UMG与Hook合作，粉丝做的每条混音都获得授权与分成。",
+  "lang": "zh"
  },
  {
   "id": "music-train-your-own-model",
@@ -20571,10 +20042,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "남의 카탈로그와 싸우는 대신\n내 아카이브로 모델을 만든다",
-  "body": "음악가가 자기 아카이브로 학습시킨 모델은 곡 생성기보다 거울에 가깝다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不与他人曲库\n斗，用档案建模",
+  "body": "音乐人用自己档案训练的模型，更像一面镜子，而非曲目生成器。",
+  "lang": "zh"
  },
  {
   "id": "music-stemdeck-local-splitter",
@@ -20587,10 +20057,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "아이 드럼 연습 때문에 만든\n무료 스템 분리기가 오픈소스로 풀렸다",
-  "body": "Demucs 모델로 곡을 여섯 갈래까지 쪼개고, 업로드 없이 로컬에서 끝난다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "为孩子练鼓\n免费分离器开源",
+  "body": "用Demucs模型把歌曲拆成最多六轨，全程本地完成无需上传。",
+  "lang": "zh"
  },
  {
   "id": "music-lalal-lynx-vocal-rip",
@@ -20603,10 +20072,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "유튜브와 바이닐에서 긁어온\n보컬을 Lynx로 직접 닦아봤다",
-  "body": "잡음 낀 영화 대사와 바이닐 아카펠라를 Lynx로 정리해 실제 트랙에 얹어봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "YouTube和黑胶\n人声用Lynx洗净",
+  "body": "把带噪电影台词和黑胶阿卡贝拉用Lynx处理后，放进了真实的曲目里。",
+  "lang": "zh"
  },
  {
   "id": "music-i-am-choir-neural-vocal",
@@ -20619,10 +20087,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "혼자 부른 한 테이크가\n가사 따라 부르는 합창단이 된다",
-  "body": "I AM CHOIR는 입력한 보컬을 녹음된 합창단 음색으로 다시 만들어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "独唱一条\n化身歌词合唱团",
+  "body": "I AM CHOIR能把输入的人声重塑为录制合唱团的音色。",
+  "lang": "zh"
  },
  {
   "id": "movies-wan-3-honest-review",
@@ -20651,10 +20118,9 @@
   "date": "2026-08-20",
   "section": "movies",
   "has_full": true,
-  "headline": "AI로 되살린 발 킬머의 젊은 시절\n7분 분량 푸티지가 처음 공개",
-  "body": "유족 동의를 받은 AI 발 킬머가 신부 핀탄으로 등장하는 7분 클립이 공개됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI复活年轻\n瓦尔·基默",
+  "body": "家属同意的AI版瓦尔·基默以芬坦神父登场，7分钟片段首次公开。",
+  "lang": "zh"
  },
  {
   "id": "movies-strada-2-virtual-drive",
@@ -20667,10 +20133,9 @@
   "date": "2026-08-20",
   "section": "movies",
   "has_full": true,
-  "headline": "원격 편집자가 남의 드라이브에서\n바로 자르는 Strada 2.0",
-  "body": "협업자의 저장장치를 가상 드라이브로 붙여 원본을 옮기지 않고 원격 편집을 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Strada2.0让\n远程直剪他人硬盘",
+  "body": "Strada 2.0将协作者存储挂载为虚拟硬盘，无需搬移原片即可远程剪辑。",
+  "lang": "zh"
  },
  {
   "id": "movies-rick-baker-locarno",
@@ -20683,10 +20148,9 @@
   "date": "2026-08-20",
   "section": "movies",
   "has_full": true,
-  "headline": "특수분장 거장 릭 베이커가 말하는\nAI와 CGI, 손으로 만든 얼굴",
-  "body": "로카르노 비전상을 받은 릭 베이커가 실사로 될 일을 CGI로 하는 관행을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "特效化妆大师\n谈AI与CGI的手作脸",
+  "body": "洛迦诺愿景奖得主Rick Baker谈及用CGI完成实拍本可完成之事的做法。",
+  "lang": "zh"
  },
  {
   "id": "movies-matriarch-verena-puhm",
@@ -20699,9 +20163,9 @@
   "date": "2026-08-20",
   "section": "movies",
   "has_full": true,
-  "headline": "전 루마 AI 임원 베레나 품이\nLA에 제작사 매트리아크 설립",
-  "body": "루마 AI 드림랩을 이끌던 베레나 품이 AI 제작사 매트리아크를 세웠다.",
-  "lang": "ko",
+  "headline": "Ex-Luma AI exec Verena Puhm\nfounds studio Matriarch in LA",
+  "body": "Verena Puhm, who led Luma AI's Dream Lab, has founded the AI production company Matriarch.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20715,10 +20179,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "Vapor World 감독이 AI 컷신을\n전부 걷어내고 원본으로 되돌린다",
-  "body": "Steam 긍정 평가 25%에 그친 감독이 AI 컷신을 전부 지우겠다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "导演撤下全部AI\n过场，换回原版",
+  "body": "该游戏Steam好评率仅25%，导演称将删除全部AI过场动画。",
+  "lang": "zh"
  },
  {
   "id": "games-unreal-vibe-simulation",
@@ -20731,10 +20194,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "언리얼 엔진 안으로 들어온 월드 모델\n프롬프트로 시뮬레이션을 고쳐 쓴다",
-  "body": "Duality AI가 언리얼 엔진에서 프롬프트만으로 시뮬레이션 시나리오를 바꾼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "世界模型进入\nUnreal Engine内",
+  "body": "Duality AI让人们仅用提示词就能在Unreal Engine中修改模拟场景。",
+  "lang": "zh"
  },
  {
   "id": "games-sony-ceo-human-made-art",
@@ -20747,10 +20209,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "AI 시대일수록 사람이 만든 것을\n찾게 된다는 Sony CEO의 판단",
-  "body": "Sony CEO Totoki는 AI가 창의성을 키울 뿐 대신하진 못한다고 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Sony CEO:AI越普及\n人们越想要手工制作",
+  "body": "Sony CEO Totoki表示，AI只能提升创造力，无法取代人类。",
+  "lang": "zh"
  },
  {
   "id": "games-james-pond-ai-suspicion",
@@ -20763,10 +20224,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "AI 의혹에 댓글 닫힌 트레일러\n개발사는 픽셀에서 다시 그렸다고 한다",
-  "body": "System 3는 James Pond 트레일러에 AI를 쓰지 않았다고 반박했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI疑云下\n预告片关评论",
+  "body": "System 3反驳称James Pond预告片没有用AI。",
+  "lang": "zh"
  },
  {
   "id": "games-gunz-steam-return",
@@ -20779,10 +20239,9 @@
   "date": "2026-08-20",
   "section": "games",
   "has_full": true,
-  "headline": "Steam으로 돌아온 20년 된 Gunz\nAI 아트 의혹과 접속 문제가 겹쳤다",
-  "body": "20년 만에 Steam에 돌아온 Gunz가 AI 아트 의혹과 접속 난조로 흔들렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "20年老游戏\nGunz回归Steam",
+  "body": "阔别20年重返Steam的Gunz被AI美术疑云和连接故障搞得摇摇晃晃。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-macos-27-siri-app",
@@ -20795,10 +20254,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "맥 독에 처음 올라온 독립 Siri 앱\n지난 대화가 통째로 남는다",
-  "body": "macOS 27이 이전 대화를 저장하고 iCloud로 동기화하는 맥 전용 Siri 앱을 처음 담는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Siri独立应用\n首登Dock存旧对话",
+  "body": "macOS 27首次内置可保存旧对话并通过iCloud同步的Mac专属Siri应用。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-ice-smart-glasses-ban",
@@ -20811,10 +20269,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "감시 기관 ICE조차 스마트 안경을\n직원 사생활 위험으로 규정했다",
-  "body": "ICE가 메타 글래스 같은 기기가 민감 정보를 의도치 않게 담을 수 있다며 직원 착용을 금지했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "连ICE都警告\n智能眼镜有隐患",
+  "body": "ICE称Meta Glasses等设备可能无意录下敏感信息,禁止员工佩戴。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-comu-action-pro-recorder",
@@ -20827,9 +20284,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "200달러짜리 AI 녹음기가\n스마트폰의 가장 큰 일을 가져갔다",
-  "body": "마이크 여섯 개와 70시간 배터리를 갖춘 200달러 코무 액션 프로가 회의 녹음을 폰에서 떼어냈다.",
-  "lang": "ko",
+  "headline": "A $200 AI recorder took over\na phone's biggest job",
+  "body": "The $200 Comu Action Pro, with six mics and 70-hour battery, took meeting recording off the phone.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20843,10 +20300,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "카메라 없이 수백만 대 컴캐스트 공유기가\n집 안 움직임을 감지하기 시작했다",
-  "body": "컴캐스트가 와이파이 신호 변화로 집 안 움직임을 잡아내는 와이파이 모션을 전국에 무료로 푼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需摄像头\n数百万路由器测动静",
+  "body": "Comcast将通过Wi-Fi信号变化感知室内动静的WiFi Motion在全美免费开放。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-alexa-plus-fire-tv-free",
@@ -20859,10 +20315,9 @@
   "date": "2026-08-20",
   "section": "gadgets",
   "has_full": true,
-  "headline": "월 20달러였던 Alexa+가\n파이어 TV에서 공짜가 됐다",
-  "body": "아마존이 월 20달러 구독료를 없애고 미국 파이어 TV 사용자 전원에게 Alexa+를 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "月20美元的Alexa+\n在Fire TV免费了",
+  "body": "亚马逊取消月20美元订阅费,向美国全体Fire TV用户开放Alexa+。",
+  "lang": "zh"
  },
  {
   "id": "design-scantic-phone-splats",
@@ -20875,10 +20330,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "클라우드 없이 아이폰에서\n가우시안 스플랫을 학습한다",
-  "body": "Scantic은 아이폰에서 클라우드 없이 1분 안에 가우시안 스플랫을 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需云端\niPhone上训练高斯溅射",
+  "body": "Scantic在iPhone上无需云端,1分钟内生成高斯溅射。",
+  "lang": "zh"
  },
  {
   "id": "design-humans-in-the-loop-factory",
@@ -20891,9 +20345,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 70%를 처리해도\n마지막 승인은 사람이 한다",
-  "body": "AI가 70%를 처리해도 최종 판단은 엔지니어가 내리도록 공정을 짰다.",
-  "lang": "ko",
+  "headline": "Even if AI handles 70%,\na human gives final approval",
+  "body": "The process is built so an engineer makes the final call even when AI handles 70% of the work.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20907,10 +20361,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 주니어 업무를 걷어가면\n판단력을 배울 곳이 사라진다",
-  "body": "AI 사용을 밝힌 D&AD 출품작이 1년 만에 27.6%로 두 배 넘게 늘었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI抢走新人活\n判断力就没处学",
+  "body": "标明使用AI的D&AD参赛作品一年内翻倍以上,达到27.6%。",
+  "lang": "zh"
  },
  {
   "id": "design-block-berd-workspace",
@@ -20923,10 +20376,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "Block이 오픈소스로 푼\n에이전트 작업 공간 Berd",
-  "body": "Block은 Berd를 Apache 2.0으로 풀고 대화 기록을 기기에 남긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Block开源的\n智能体空间Berd",
+  "body": "Block以Apache 2.0开源Berd,对话记录留在设备本地。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-returns-interfaces",
@@ -20939,10 +20391,9 @@
   "date": "2026-08-20",
   "section": "design",
   "has_full": true,
-  "headline": "긴 글 대신 인터페이스를\nAI가 돌려줘야 한다",
-  "body": "AI가 산문 대신 승인된 스키마를 채워 컴포넌트로 답해야 한다는 주장이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不要长文\nAI该还界面",
+  "body": "该观点认为,AI应填充已批准的架构,以组件而非散文来作答。",
+  "lang": "zh"
  },
  {
   "id": "books-story-hacker-os",
@@ -20955,10 +20406,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 소설을 대신 쓰지 않고\n작가를 더 낫게 만든다는 도구",
-  "body": "장르 템플릿과 트로프 라이브러리로 구조를 짜되 최종 판단은 작가에게 남긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI不代写小说\n而是让作家更强",
+  "body": "依靠类型模板和桥段库来搭建结构,但最终判断权始终留给作家。",
+  "lang": "zh"
  },
  {
   "id": "books-mcgraw-hill-ai-results",
@@ -20970,9 +20420,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습 도구 8종에 사용자 750만 명\n맥그로힐 1분기 매출이 올랐다",
-  "body": "AI Reader가 학생 260만 명에게서 상호작용 6300만 건을 기록했다.",
-  "lang": "ko",
+  "headline": "8 AI learning tools, 7.5M users\nMcGraw Hill's Q1 revenue rose",
+  "body": "AI Reader has logged 63 million interactions from 2.6 million students.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20986,10 +20436,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "마법 같은 프롬프트 하나가 아니라\n집필부터 출간까지 AI 스택 전체",
-  "body": "집필·편집·마케팅·출간을 잇는 모델 비종속 저자 시스템이 올가을 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不是一句魔法提示词\n写作到出版的全套AI栈",
+  "body": "连接写作、编辑、营销与出版的跨模型作者系统将于今秋推出。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-book-discoverability",
@@ -21002,10 +20451,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 책을 추천하는 기준이 바뀌었다\n키워드 대신 리뷰와 인터넷 언급",
-  "body": "AI 추천은 메타데이터 키워드가 아니라 리뷰 수와 웹 언급량을 보고 책을 고른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI推书标准变\n看评论和提及",
+  "body": "AI推荐选书不再看元数据关键词,而是看评论数和网络提及量。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-article-versioning",
@@ -21018,10 +20466,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "AI는 논문을 정확히 찾아내지만\n어느 판본을 읽었는지는 모른다",
-  "body": "DOI만으로는 AI가 읽은 판본을 알 수 없어 버전과 출처를 함께 실어야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI能找到论文\n却不知是哪版",
+  "body": "仅凭DOI无法确定AI读的是哪个版本,须同时标注版本与出处。",
+  "lang": "zh"
  },
  {
   "id": "science-tissue-clocks",
@@ -21034,10 +20481,9 @@
   "date": "2026-08-19",
   "section": "science",
   "has_full": true,
-  "headline": "장기는 저마다 다른 속도로 늙는다\nAI가 조직 사진에서 그 나이를 읽어냈다",
-  "body": "AI가 조직 사진에서 장기별 생물학적 나이를 평균 오차 4.9년으로 읽어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "器官衰老速度不同\nAI从组织读出年龄",
+  "body": "AI通过组织照片读取各器官的生物学年龄,平均误差为4.9岁。",
+  "lang": "zh"
  },
  {
   "id": "science-photoscan-insulin",
@@ -21066,10 +20512,9 @@
   "date": "2026-08-19",
   "section": "science",
   "has_full": true,
-  "headline": "말린 표본 800만 장을 기계가 읽었다\n개화 시기는 10년에 2.5일씩 어긋났다",
-  "body": "기계가 표본 800만 장을 읽어 개화 시기가 10년에 2.5일씩 어긋났음을 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "机器读懂800万\n干标本,花期10年偏2.5天",
+  "body": "机器读了800万份干标本,发现花期平均每10年偏移2.5天。",
+  "lang": "zh"
  },
  {
   "id": "science-dna-memristor",
@@ -21082,9 +20527,9 @@
   "date": "2026-08-19",
   "section": "science",
   "has_full": true,
-  "headline": "DNA를 반도체와 붙여 메모리를 만들었다\n전력은 100분의 1로 떨어졌다",
-  "body": "합성 DNA를 페로브스카이트에 얹은 메모리가 전력을 100분의 1로 줄였다.",
-  "lang": "ko",
+  "headline": "DNA fused with a semiconductor\nBuilds memory; power drops 100x",
+  "body": "A memory device that layers synthetic DNA onto perovskite cut power use to one-hundredth.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21098,10 +20543,9 @@
   "date": "2026-08-19",
   "section": "science",
   "has_full": true,
-  "headline": "AI 그림의 원작자를 찾을 수 없다\n데이터가 커질수록 흔적이 지워진다",
-  "body": "데이터가 커질수록 이미지 한 장을 빼도 결과가 그대로여서 원작자를 짚을 수 없다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI画作原作者\n无法再追溯",
+  "body": "随着数据规模变大,去掉任意一张图像结果都不变,原作者就此无法确认。",
+  "lang": "zh"
  },
  {
   "id": "music-submithub-40",
@@ -21114,9 +20558,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "지난달 나온 음악의 40% 가까이가\nAI를 거쳤다는 조사가 나왔다",
-  "body": "SubmitHub가 100만 곡을 훑어보니 23.2%는 아예 AI가 만든 곡이었다.",
-  "lang": "ko",
+  "headline": "Nearly 40% of music released\nlast month touched AI: study",
+  "body": "SubmitHub scanned 1 million songs and found 23.2% were made entirely by AI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21130,10 +20574,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "합의는 없다며 Round Hill이\nSuno와 Anthropic을 고소했다",
-  "body": "고의 침해 한 곡당 최대 15만 달러, 소송당 총액은 10억 달러에 이를 수 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Round Hill起诉\nSuno、Anthropic",
+  "body": "故意侵权每首最高可赔15万美元,单案总额或达10亿美元。",
+  "lang": "zh"
  },
  {
   "id": "music-opentune",
@@ -21146,10 +20589,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "무료 오픈소스 피치 보정 도구\nOpenTune이 베타로 나왔다",
-  "body": "OpenTune은 신경망 보코더로 포먼트를 지키며 음정만 고치는 오픈소스 도구다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "免费开源音准\nOpenTune出测试版",
+  "body": "OpenTune用神经网络声码器保留共振峰,只修正音高。",
+  "lang": "zh"
  },
  {
   "id": "music-happyshrimp",
@@ -21162,10 +20604,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "Alibaba가 프롬프트 한 줄로\n노래 한 곡을 만드는 모델을 냈다",
-  "body": "HappyShrimp 1.0은 멜로디와 편곡, 가사를 쓰고 직접 부르기까지 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Alibaba一句话\n写出一首歌模型",
+  "body": "HappyShrimp 1.0能写旋律、编曲和歌词,还能亲自演唱。",
+  "lang": "zh"
  },
  {
   "id": "music-ethical-plugins",
@@ -21178,10 +20619,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "학습 데이터를 제값 주고 사는\nAI 음악 도구 여섯 개를 모았다",
-  "body": "여섯 도구 모두 학습에 쓴 음악을 라이선스하고 수익을 아티스트와 나눈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "学习数据付费\n六款AI音乐工具",
+  "body": "这六款工具均为训练所用的音乐取得授权,并与艺人分享收益。",
+  "lang": "zh"
  },
  {
   "id": "movies-viewscreen-moana",
@@ -21210,10 +20650,9 @@
   "date": "2026-08-19",
   "section": "movies",
   "has_full": true,
-  "headline": "로빈 윌리엄스의 세 자녀가 AI 남용에\n맞서 아버지의 인스타그램을 열었다",
-  "body": "젤다 윌리엄스는 진짜 클립과 사진을 모으는 일이 아버지의 목소리와 초상 남용에 맞서는 최선이라고 적었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "罗宾·威廉姆斯三名子女\n重开父亲Instagram",
+  "body": "泽尔达·威廉姆斯说,收集真实影像和照片是对抗父亲声音与形象被滥用的最佳方式。",
+  "lang": "zh"
  },
  {
   "id": "movies-mpa-bytedance-mou",
@@ -21226,10 +20665,9 @@
   "date": "2026-08-19",
   "section": "movies",
   "has_full": true,
-  "headline": "MPA가 바이트댄스와 양해각서를 맺고\n시드댄스에 IP 가드레일을 박았다",
-  "body": "MPA와 바이트댄스가 시드댄스와 시드림에 할리우드 저작권을 지키는 가드레일을 두기로 합의했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "MPA与ByteDance\n为Seedance设IP护栏",
+  "body": "MPA与ByteDance同意为Seedance和Seedream设置保护好莱坞版权的护栏。",
+  "lang": "zh"
  },
  {
   "id": "movies-ghibli-next-film-ai",
@@ -21258,10 +20696,9 @@
   "date": "2026-08-19",
   "section": "movies",
   "has_full": true,
-  "headline": "디스크립트 더빙은 로토스코핑이 아니라\n화자의 얼굴 아랫부분을 새로 만든다",
-  "body": "원본 얼굴을 잠재 공간에 넣고 조명과 치아, 인물 정체성은 그대로 둔 채 입 모양만 새 언어에 맞춘다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Descript配音非\n转描而是重绘下脸",
+  "body": "把原始脸部编码进潜在空间，保留光照、牙齿与身份，只让嘴形贴合新语言。",
+  "lang": "zh"
  },
  {
   "id": "games-wolf-haus-no-genai",
@@ -21274,10 +20711,9 @@
   "date": "2026-08-19",
   "section": "games",
   "has_full": true,
-  "headline": "생성형 AI 없이 13명이 만드는\n오픈월드 컬트 시뮬레이터",
-  "body": "13명뿐인 Wolf Haus는 생성형 AI를 빼고 자체 툴로 오픈월드를 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无生成式AI\n13人造开放世界邪教",
+  "body": "仅13人的Wolf Haus不用生成式AI，靠自研工具打造开放世界。",
+  "lang": "zh"
  },
  {
   "id": "games-witcher3-fear-cut",
@@ -21290,10 +20726,9 @@
   "date": "2026-08-19",
   "section": "games",
   "has_full": true,
-  "headline": "The Witcher 3의 NPC 공포 반응은\n몇 주 만에 통째로 잘렸다",
-  "body": "겁먹은 NPC가 안고 있던 아기까지 떨어뜨려 공포 반응 시스템이 통째로 빠졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Witcher3的NPC\n恐惧反应整体删除",
+  "body": "受惊的NPC连怀里的婴儿都扔了，恐惧反应系统被整体删除。",
+  "lang": "zh"
  },
  {
   "id": "games-nte-doubao-watermark",
@@ -21306,10 +20741,9 @@
   "date": "2026-08-19",
   "section": "games",
   "has_full": true,
-  "headline": "해마 그림에 붙은 Doubao 워터마크\nNTE가 세 번째로 걸렸다",
-  "body": "NTE 1.3 업데이트에 들어간 해마 그림에 Doubao 워터마크가 그대로 남았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "海马图带Doubao\n水印NTE三度翻车",
+  "body": "NTE 1.3更新里的海马图，Doubao水印原样留在上面。",
+  "lang": "zh"
  },
  {
   "id": "games-immens-engine",
@@ -21322,10 +20756,9 @@
   "date": "2026-08-19",
   "section": "games",
   "has_full": true,
-  "headline": "Epic 출신 셋이 새 엔진 Immens를\nAI가 읽고 고칠 구조로 짓는다",
-  "body": "Unity와 Unreal에 맞서 Epic 출신 셋이 AI가 확장할 엔진을 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "三名Epic老将\n打造AI可读写引擎",
+  "body": "三名Epic出身者打造Immens，与Unity、Unreal抗衡。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-pixel-watch-face-prompt",
@@ -21338,10 +20771,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "시계 화면을 프롬프트로 만든다\nPixel Watch 5에서 직접 해봤다",
-  "body": "Pixel Watch 5는 프롬프트를 받아 정지 시계 화면 여섯 개를 만들어 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用提示词生成表盘\n亲自体验一番",
+  "body": "Pixel Watch 5输入提示词后会生成六张静止表盘供选择。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-meta-face-recognition-patent",
@@ -21354,10 +20786,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Meta의 얼굴 인식 안경 구상이\n새 특허 출원서에서 다시 나왔다",
-  "body": "Meta 특허는 스마트 글라스가 얼굴로 사람을 알아보는 방식을 담았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Meta的人脸识别眼镜\n构想重现于新专利",
+  "body": "Meta的专利描述了智能眼镜如何用人脸来识别一个人的方式。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-humanoid-firefighting-drill",
@@ -21370,10 +20801,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "소방 훈련에 나선 휴머노이드 23팀\n끝까지 해낸 건 세 팀뿐이었다",
-  "body": "야외 소방 종목에 나선 휴머노이드 23팀 중 세 팀만 전 단계를 끝냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "23队人形机器人\n参加消防演练仅3队完成",
+  "body": "在户外消防项目中，23队人形机器人只有3队完成了全部环节。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-google-pet-memory-cats",
@@ -21386,10 +20816,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Pet Memory를 2주 써봤다\n고양이 셋이 모두 Smokey가 됐다",
-  "body": "Pet Memory는 2주 내내 고양이 셋을 Smokey 하나로 불렀다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "试用Pet Memory两周\n三只猫都成了Smokey",
+  "body": "Pet Memory两周里一直把三只猫都叫成Smokey。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-airpods-camera-demo-video",
@@ -21402,10 +20831,9 @@
   "date": "2026-08-19",
   "section": "gadgets",
   "has_full": true,
-  "headline": "카메라 달린 AirPods가\nmacOS 베타 영상에 먼저 나타났다",
-  "body": "MacRumors가 macOS 베타에서 카메라 AirPods 시연 영상을 찾아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "带摄像头的AirPods\n先现身于macOS测试版",
+  "body": "MacRumors在macOS测试版中发现了摄像头AirPods的演示视频。",
+  "lang": "zh"
  },
  {
   "id": "design-mechanical-turing-test",
@@ -21418,10 +20846,9 @@
   "date": "2026-08-19",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 설계한 어셈블리를\n엔지니어가 구분하지 못한다",
-  "body": "7월 구분 불가 응답이 791% 늘자 Leo AI는 통과를 선언했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI设计的部件\n工程师已分不清",
+  "body": "7月里分辨不出的回答增长791%后，Leo AI宣布测试通过。",
+  "lang": "zh"
  },
  {
   "id": "design-mcp-figma-jira-gitlab",
@@ -21450,10 +20877,9 @@
   "date": "2026-08-19",
   "section": "design",
   "has_full": true,
-  "headline": "다크 모드 토글의 시스템 옵션,\n두 상태면 이미 다 표현된다",
-  "body": "Lea Verou는 기본값을 시스템에 두고 토글 하나만 주면 충분하다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "深色模式的系统选项\n两态已能全表达",
+  "body": "Lea Verou认为，默认跟随系统，只需一个切换开关就够了。",
+  "lang": "zh"
  },
  {
   "id": "design-cursor-origin-vercel",
@@ -21466,10 +20892,9 @@
   "date": "2026-08-19",
   "section": "design",
   "has_full": true,
-  "headline": "Cursor Origin 저장소가\nVercel 프리뷰로 바로 뜬다",
-  "body": "Origin에서 PR을 열면 프리뷰가, 머지하면 프로덕션 배포가 자동으로 붙는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Cursor Origin\n仓库直连Vercel预览",
+  "body": "在Origin中打开PR会生成预览，合并后自动触发生产环境部署。",
+  "lang": "zh"
  },
  {
   "id": "design-adobe-stock-ai-studio",
@@ -21482,10 +20907,9 @@
   "date": "2026-08-19",
   "section": "design",
   "has_full": true,
-  "headline": "이미지 한 장에서 브랜드에\n맞는 자산 한 세트를 뽑는다",
-  "body": "AI Studio에서 색과 타이포, 배경을 바꾸고 움직임까지 붙인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一张图片\n提取品牌资产套件",
+  "body": "在AI Studio中更换色彩、字体、背景，并加上动态效果。",
+  "lang": "zh"
  },
  {
   "id": "books-synthetic-consensus",
@@ -21498,10 +20922,9 @@
   "date": "2026-08-19",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 오류를 되풀이하는 사이\n과학의 자기 교정이 뒤처진다",
-  "body": "생성형 AI의 반복 재생산이 검증 없는 주장에 신뢰를 입히는 '합성 합의'를 만든다고 저자는 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI重复出错\n科学自纠跟不上",
+  "body": "作者指出，生成式AI的反复再生产制造出一种「合成共识」。",
+  "lang": "zh"
  },
  {
   "id": "books-code-yes-novels-no",
@@ -21514,10 +20937,9 @@
   "date": "2026-08-19",
   "section": "books",
   "has_full": true,
-  "headline": "코드는 전부 AI에 맡기지만\n소설에는 마침표 하나도 안 준다",
-  "body": "프로그래머는 놀람을 싫어하지만 소설가에게 놀람은 구조적 요건이라고 케빈 힌커는 적는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "代码全交AI\n小说一字不让",
+  "body": "Kevin Hincker写道，程序员厌恶意外，小说家却离不开它。",
+  "lang": "zh"
  },
  {
   "id": "books-claude-watermark-word-choice",
@@ -21530,10 +20952,9 @@
   "date": "2026-08-19",
   "section": "books",
   "has_full": true,
-  "headline": "워터마크가 클로드의 단어 선택까지\n바꾼다면 소설은 어떻게 되나",
-  "body": "엘리자베스 앤 웨스트와 스테이시 앤더슨은 워터마킹이 클로드의 어휘 선택을 흔든다고 지적한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "水印若改\nClaude用词，小说怎么办",
+  "body": "West和Anderson指出水印会动摇Claude的用词选择。",
+  "lang": "zh"
  },
  {
   "id": "books-china-publishing-ai-standards",
@@ -21546,10 +20967,9 @@
   "date": "2026-08-19",
   "section": "books",
   "has_full": true,
-  "headline": "중국이 출판 전용 AI 적용 기준을\n이달 말 엑스포에서 공개한다",
-  "body": "중국신문출판연구원이 8월 27일 개막하는 디지털출판박람회에서 출판용 AI 잠정 기준을 내놓는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "中国将公布\n出版AI标准，月底亮相",
+  "body": "中国新闻出版研究院将在8月27日开幕的数字出版博览会上发布出版AI暂行标准。",
+  "lang": "zh"
  },
  {
   "id": "books-amazon-destructive-scanning",
@@ -21562,9 +20982,9 @@
   "date": "2026-08-19",
   "section": "books",
   "has_full": true,
-  "headline": "아마존이 희귀본 책등을 잘라\nAI 학습 데이터로 만든다",
-  "body": "404 미디어 추적 결과, 아마존이 사들인 책의 책등을 잘라 스캔한 뒤 폐기해 온 정황이 드러났다.",
-  "lang": "ko",
+  "headline": "Amazon cuts spines off rare\nbooks to feed AI training",
+  "body": "A 404 Media investigation found Amazon has been cutting spines off books it buys, scanning them, then discarding them.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21594,10 +21014,9 @@
   "date": "2026-08-15",
   "section": "science",
   "has_full": true,
-  "headline": "언어를 잃은 뇌도 논리 문제를 푼다\n언어와 추론은 다른 회로였다",
-  "body": "언어 영역이 손상된 환자들이 논리 퍼즐을 대조군만큼 풀었고 뇌 스캔에서도 언어 영역은 조용했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "失语的大脑\n仍能解逻辑题，电路不同",
+  "body": "语言区受损的患者解逻辑题的表现与对照组相当，脑扫描中语言区也很安静。",
+  "lang": "zh"
  },
  {
   "id": "science-earlydetect-solar-emergence",
@@ -21610,10 +21029,9 @@
   "date": "2026-08-15",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 태양의 소리에서 흑점의 전조를\n평균 아홉 시간 먼저 읽어냈다",
-  "body": "AI가 태양의 음향 신호에서 활동 영역 출현을 평균 9.24시간 앞서 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI从太阳声音\n提前9小时察觉黑子",
+  "body": "AI从太阳声学信号中提前平均9.24小时捕捉到活动区的出现。",
+  "lang": "zh"
  },
  {
   "id": "science-cerebellum-memtransistor",
@@ -21626,10 +21044,9 @@
   "date": "2026-08-15",
   "section": "science",
   "has_full": true,
-  "headline": "소뇌를 흉내 낸 칩이 부정맥을\n연산 1만분의 1로 잡아냈다",
-  "body": "소뇌를 본뜬 멤트랜지스터망이 부정맥을 트랜스포머보다 1만분의 1 연산으로 잡아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "仿小脑芯片\n用万分之一算力测心律",
+  "body": "仿小脑忆阻晶体管网络仅用万分之一的算力就查出了心律失常。",
+  "lang": "zh"
  },
  {
   "id": "science-ai-mathematics-human",
@@ -21642,10 +21059,9 @@
   "date": "2026-08-15",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 수학을 더 인간답게 만든다\n갈라선 분야가 다시 말이 통한다",
-  "body": "AI가 만든 데이터와 패턴이라는 공용어가 갈라져 있던 수학 분야를 다시 잇는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI让数学更有人味\n分裂领域重新对话",
+  "body": "AI生成的数据与模式这种通用语言，重新连接起分裂的数学领域。",
+  "lang": "zh"
  },
  {
   "id": "music-uppbeat-report",
@@ -21658,10 +21074,9 @@
   "date": "2026-08-15",
   "section": "music",
   "has_full": true,
-  "headline": "완전 AI 콘텐츠를 받아들인\n창작자는 6.7%뿐이었다",
-  "body": "창작자 1,792명 중 완전 AI 결과물을 받아들인 쪽은 6.7%에 그쳤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "完全AI内容仅\n6.7%创作者接受",
+  "body": "1,792名创作者中，仅6.7%接受完全由AI生成的作品。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-bmg",
@@ -21674,9 +21089,9 @@
   "date": "2026-08-15",
   "section": "music",
   "has_full": true,
-  "headline": "Suno가 BMG 전 카탈로그를 쓴다\n참여 여부는 아티스트가 고른다",
-  "body": "BMG 전 카탈로그가 Suno에 열리되 참여를 택한 아티스트만 학습에 들어간다.",
-  "lang": "ko",
+  "headline": "Suno gets access to BMG's\nfull catalog, artists opt in",
+  "body": "BMG's entire catalog opens to Suno, but only artists who opt in enter training.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21690,10 +21105,9 @@
   "date": "2026-08-15",
   "section": "music",
   "has_full": true,
-  "headline": "Spotify의 AI 커버·리믹스에\nKobalt 작가진이 들어왔다",
-  "body": "Kobalt 소속 작가들이 Spotify의 팬 리믹스 도구에 곡을 옵트인한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Spotify AI翻唱改编\nKobalt词曲人加入",
+  "body": "Kobalt旗下词曲作者可选择将歌曲接入Spotify的粉丝混音工具。",
+  "lang": "zh"
  },
  {
   "id": "music-eu-ai-label",
@@ -21706,10 +21120,9 @@
   "date": "2026-08-15",
   "section": "music",
   "has_full": true,
-  "headline": "AI가 만든 콘텐츠는 유럽에서\n이제 더 이상 익명일 수 없다",
-  "body": "8월 2일부터 유럽에서 AI로 만든 음악과 영상, 글은 표시를 달아야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI制作的内容在欧洲\n再也不能是匿名的了",
+  "body": "从8月2日起，欧洲AI制作的音乐、视频和文字须加注标识。",
+  "lang": "zh"
  },
  {
   "id": "music-apc-140",
@@ -21722,10 +21135,9 @@
   "date": "2026-08-15",
   "section": "music",
   "has_full": true,
-  "headline": "글로 적은 플러그인 아이디어를\nVST3 프로젝트로 바로 바꾼다",
-  "body": "Audio Plugin Coder 1.4.0은 JUCE 9와 설정 마법사를 더했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "文字插件灵感\n直转VST3项目",
+  "body": "Audio Plugin Coder 1.4.0新增JUCE 9与设置向导。",
+  "lang": "zh"
  },
  {
   "id": "movies-nvidia-video-detector",
@@ -21738,10 +21150,9 @@
   "date": "2026-08-15",
   "section": "movies",
   "has_full": true,
-  "headline": "엔비디아가 AI 생성 영상을\n인제스트에서 걸러내는 검출기를 냈다",
-  "body": "1080p를 22밀리초에 판정해 최대 92% 정확도로 합성 영상을 가려낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "英伟达推出AI\n视频检测器",
+  "body": "能在22毫秒内判定1080p视频，准确率最高达92%，识别合成影像。",
+  "lang": "zh"
  },
  {
   "id": "movies-dalet-solution-suites",
@@ -21754,10 +21165,9 @@
   "date": "2026-08-15",
   "section": "movies",
   "has_full": true,
-  "headline": "달레가 자연어로 아카이브를 뒤지는\n클라우드 스위트를 열었다",
-  "body": "달리아에게 말을 걸면 영상 검색과 메타데이터 보강, 포스트 워크플로가 돌아간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Dalet用自然语言\n开启云端检索",
+  "body": "与Dalia对话即可启动视频搜索、元数据增强与后期工作流。",
+  "lang": "zh"
  },
  {
   "id": "movies-artlist-seedance-unlimited",
@@ -21770,10 +21180,9 @@
   "date": "2026-08-15",
   "section": "movies",
   "has_full": true,
-  "headline": "'1년 무제한'을 판 아트리스트가\n일주일 만에 시드댄스를 뺐다",
-  "body": "초당 추론 단가를 계산하면 연 500달러짜리 무제한은 처음부터 성립하지 않았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "「1年无限」卖了\n一周就撤Seedance",
+  "body": "按每秒推理成本计算，年费500美元的无限套餐从一开始就不成立。",
+  "lang": "zh"
  },
  {
   "id": "movies-ai-creative-summit-bfi",
@@ -21786,10 +21195,9 @@
   "date": "2026-08-15",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 크리에이티브 서밋이 규제와\n스킬 갭을 정식 의제로 올렸다",
-  "body": "11월 11일 BFI 사우스뱅크 전관에서 워크플로와 권리, 인력 세 갈래를 다룬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI峰会把监管\n技能差列为议题",
+  "body": "11月11日将在BFI南岸整馆，围绕工作流、权利与人力三大主题展开。",
+  "lang": "zh"
  },
  {
   "id": "movies-actionvfx-filmmakers-course",
@@ -21802,10 +21210,9 @@
   "date": "2026-08-15",
   "section": "movies",
   "has_full": true,
-  "headline": "감독과 편집자에게 VFX 공정을 가르치는\n액션VFX 온라인 강의가 열렸다",
-  "body": "뎁스맵과 AI 로토, 컨텐트 어웨어 필을 기본 공정으로 가르친다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "教导演剪辑师\nActionVFX开课",
+  "body": "课程把深度图、AI抠像与内容感知填充都作为基础流程来教授。",
+  "lang": "zh"
  },
  {
   "id": "games-unity-copilot-tips",
@@ -21818,9 +21225,9 @@
   "date": "2026-08-15",
   "section": "games",
   "has_full": true,
-  "headline": "Unity가 직접 정리한\nGitHub Copilot 활용법 5가지",
-  "body": "Unity가 GitHub Copilot을 엔진 작업에 쓰는 요령 5가지를 정리했다.",
-  "lang": "ko",
+  "headline": "Unity's own guide to\n5 ways to use GitHub Copilot",
+  "body": "Unity has put together five tips for using GitHub Copilot on engine work.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21834,10 +21241,9 @@
   "date": "2026-08-15",
   "section": "games",
   "has_full": true,
-  "headline": "게임 계약서의 AI 금지 조항은\n올해 들어 기본 문구가 됐다",
-  "body": "생성형 AI 금지 조항이 지난 1년 사이 게임 계약서의 기본 문구로 굳었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "游戏合同禁用AI条款\n今年成标配条款",
+  "body": "禁止使用生成式AI的条款，在过去一年里成为游戏合同的标配。",
+  "lang": "zh"
  },
  {
   "id": "games-gen1recomp-not-vibe",
@@ -21850,10 +21256,9 @@
   "date": "2026-08-15",
   "section": "games",
   "has_full": true,
-  "headline": "AI를 썼지만 바이브 코딩은 아니다\nGen1Recomp 개발자의 선 긋기",
-  "body": "Gen1Recomp 개발자가 AI를 쓴 것과 바이브 코딩은 다르다고 못 박았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用了AI非氛围编程\nGen1Recomp开发者说",
+  "body": "Gen1Recomp开发者明确表示使用AI不等于氛围编程。",
+  "lang": "zh"
  },
  {
   "id": "games-fan-translation-no-ai",
@@ -21866,10 +21271,9 @@
   "date": "2026-08-15",
   "section": "games",
   "has_full": true,
-  "headline": "AI를 쓰지 않았다는 문구가\n팬 번역 패치마다 붙기 시작했다",
-  "body": "최근 쏟아진 팬 번역 패치들이 하나같이 AI를 쓰지 않았다고 못 박으며 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "未使用AI的声明\n开始出现在汉化补丁",
+  "body": "最近接连涌现的多款玩家汉化补丁，都一致强调未使用过AI。",
+  "lang": "zh"
  },
  {
   "id": "games-castle-walls-ai",
@@ -21882,10 +21286,9 @@
   "date": "2026-08-15",
   "section": "games",
   "has_full": true,
-  "headline": "어쌔신 크리드의 알라무트 성이\n세계 첫 전면 AI 드라마가 됐다",
-  "body": "어쌔신 크리드 미라지의 무대인 알라무트 성 전설을 빌린 전면 AI 드라마가 아마존 프라임에 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "刺客信条阿拉穆特城\n成全球首部全AI剧",
+  "body": "借用《刺客信条：幻景》阿拉穆特城传说的全AI剧已登陆Amazon Prime。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-rogbid-visionw-price-floor",
@@ -21898,10 +21301,9 @@
   "date": "2026-08-15",
   "section": "gadgets",
   "has_full": true,
-  "headline": "69.99달러 AI 안경이 나왔다\n스마트글라스 가격 바닥이 내려앉았다",
-  "body": "Rogbid가 프레임을 갈아 끼우는 69.99달러 AI 안경 VisionW를 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "69.99美元AI眼镜登场\n智能眼镜价格破底",
+  "body": "Rogbid推出可换镜架的69.99美元AI眼镜VisionW。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-openai-doughnut-companion",
@@ -21914,10 +21316,9 @@
   "date": "2026-08-15",
   "section": "gadgets",
   "has_full": true,
-  "headline": "OpenAI 첫 기기는 화면 없는 도넛\n인터페이스 대신 성격을 설계했다",
-  "body": "OpenAI의 첫 기기는 화면 없는 도넛형 퍽으로 2027년에 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "OpenAI推出无屏甜甜圈\n设计性格而非界面",
+  "body": "OpenAI首款设备是无屏幕甜甜圈形圆片，将于2027年推出。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-lg-cloid-nvidia-humanoid",
@@ -21930,9 +21331,9 @@
   "date": "2026-08-15",
   "section": "gadgets",
   "has_full": true,
-  "headline": "LG가 이족보행 휴머노이드를 만들고\nNvidia가 그 두뇌를 맡는다",
-  "body": "LG가 Nvidia 스택을 얹은 이족보행 휴머노이드를 2027년 초 공개한다.",
-  "lang": "ko",
+  "headline": "LG builds a bipedal humanoid\nNvidia supplies the brain",
+  "body": "LG will unveil a bipedal humanoid built on Nvidia's stack in early 2027.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21946,10 +21347,9 @@
   "date": "2026-08-15",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Apple이 중국 전용 모델을 만들었다\n같은 iPhone, 다른 AI가 돌아간다",
-  "body": "Apple이 Alibaba의 도움으로 중국 전용 대형 언어 모델을 직접 학습시켰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Apple打造中国专用模型\n同款iPhone内置不同AI",
+  "body": "Apple在Alibaba协助下自主训练了中国专用大型语言模型。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-antigravity-local-llm-files",
@@ -21962,10 +21362,9 @@
   "date": "2026-08-15",
   "section": "gadgets",
   "has_full": true,
-  "headline": "에이전트 둘에게 같은 문서를 맡겼다\n내 원본을 끝까지 지킨 쪽은 하나였다",
-  "body": "같은 문서 작업을 맡기자 쓰기 전에 구조를 읽은 쪽은 Antigravity뿐이었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "交给两代理\n只一个守原件",
+  "body": "同样的文档任务中，只有Antigravity在写之前先读懂了结构。",
+  "lang": "zh"
  },
  {
   "id": "design-google-watermark-toggle",
@@ -21978,10 +21377,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "구글이 AI 결과물에서\n반짝임 워터마크를 뗀다",
-  "body": "보이는 반짝임 표식은 꺼도 SynthID와 C2PA 메타데이터는 그대로 남는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌去掉AI\n生成内容闪光水印",
+  "body": "关掉可见的闪光标记后，SynthID和C2PA元数据依然保留。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-move-fast",
@@ -21994,10 +21392,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "AI는 실행 속도만 올릴 뿐\n무엇을 만들지는 알려주지 않는다",
-  "body": "컨텍스트를 먼저 깔지 않으면 빠른 AI 작업이 그대로 기술 부채가 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI只提速度\n不告诉做什么",
+  "body": "如果不先把上下文铺垫好，快速完成的AI工作就会直接变成技术债。",
+  "lang": "zh"
  },
  {
   "id": "design-dsds-w3c",
@@ -22010,10 +21407,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "디자인 시스템 문서 표준이\nW3C 커뮤니티 그룹으로 들어갔다",
-  "body": "형식이 없던 디자인 시스템 문서의 표준 DSDS가 W3C 그룹으로 승인됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "设计系统文档\n标准进入W3C组",
+  "body": "原本没有统一格式的设计系统文档标准DSDS，被批准为W3C社区组。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-ui-placement",
@@ -22026,10 +21422,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "AI 기능을 어디에 두느냐가\n모델 성능보다 중요하다",
-  "body": "위젯과 툴바, 사이드바, 전용 허브 중 어디에 두느냐가 AI 기능의 쓰임을 가른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI功能的位置\n比模型性能重要",
+  "body": "放在小部件、工具栏、侧边栏还是专属中心，决定AI功能的使用方式。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-sdk-harness-acp",
@@ -22042,9 +21437,9 @@
   "date": "2026-08-15",
   "section": "design",
   "has_full": true,
-  "headline": "AI SDK 하네스 어댑터가\n런타임 대신 프로토콜을 감싼다",
-  "body": "런타임마다 어댑터를 새로 만드는 대신 프로토콜 하나를 감싸 어떤 하네스든 붙인다.",
-  "lang": "ko",
+  "headline": "The AI SDK harness adapter\nwraps the protocol, not runtimes",
+  "body": "Instead of building a new adapter for every runtime, it wraps one protocol so any harness can plug in.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -22058,10 +21453,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습 데이터를 밝히라는 청원이\n서명 1만 명 문턱을 넘어섰다",
-  "body": "학습 데이터를 밝히라는 영국 청원이 서명 1만 명을 넘겨 정부 답변 요건을 채웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "公开AI训练数据\n请愿签名破1万",
+  "body": "英国一项要求公开AI训练数据的请愿签名过万，达到政府须回应的门槛。",
+  "lang": "zh"
  },
  {
   "id": "books-false-name-book-scraping",
@@ -22074,10 +21468,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "내 책이 모르는 이름을 달고\n구글 플레이 북스에 올라와 있다",
-  "body": "책을 긁어다 가짜 필명으로 되파는 일이 늘자 ALLi가 계정째 신고하라고 안내한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "我的书被人用\n陌生名字上架",
+  "body": "有人盗用书籍冒名售卖的情况增多，ALLi建议直接举报整个账号。",
+  "lang": "zh"
  },
  {
   "id": "books-commonwealth-prize-delay",
@@ -22090,10 +21483,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "커먼웰스 단편상이 AI 논란 끝에\n2027년 접수 개시를 미뤘다",
-  "body": "커먼웰스 재단이 AI 의혹 검토 끝에 2027년 단편상 접수를 1월로 미뤘다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "英联邦短篇奖\n推迟2027年征稿",
+  "body": "英联邦基金会审查AI质疑后，将2027年短篇奖征稿推迟到1月。",
+  "lang": "zh"
  },
  {
   "id": "books-author-ai-policy",
@@ -22106,10 +21498,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "AI를 어디까지 쓰는지\n작가가 먼저 적어 두는 편이 낫다",
-  "body": "소설가 제이미 퓨어리는 무엇을 쓰고 무엇을 안 쓰는지 작가가 먼저 밝히라고 권한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI用到什么程度\n作家最好先说明",
+  "body": "小说家杰米·富里建议，作家应先说明哪些会写、哪些绝不会写。",
+  "lang": "zh"
  },
  {
   "id": "books-agent-ethics-ai-gap",
@@ -22122,10 +21513,9 @@
   "date": "2026-08-15",
   "section": "books",
   "has_full": true,
-  "headline": "에이전트 윤리강령을 손봤는데\n정작 AI 조항은 빠졌다",
-  "body": "미국 문학 에이전트 협회가 윤리강령을 고치면서 AI 조항은 끝내 넣지 않았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "修订道德准则\n却漏掉了AI条款",
+  "body": "美国文学经纪人协会修订了道德准则，却始终没有加入AI条款。",
+  "lang": "zh"
  },
  {
   "id": "science-vlash-robot-lookahead",
@@ -22138,10 +21528,9 @@
   "date": "2026-08-14",
   "section": "science",
   "has_full": true,
-  "headline": "다음 동작을 미리 계산하는 로봇이\n작업 속도를 두 배로 끌어올렸다",
-  "body": "VLASH는 로봇이 움직이는 동안 다음 동작을 짜서 반응 지연을 11.8배 줄였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "提前计算下一步\n动作的机器人提速一倍",
+  "body": "VLASH在机器人运动时规划下一步动作，把反应延迟降低了11.8倍。",
+  "lang": "zh"
  },
  {
   "id": "science-vivodyne-human-datacenter",
@@ -22154,10 +21543,9 @@
   "date": "2026-08-14",
   "section": "science",
   "has_full": true,
-  "headline": "연 310만 건 인체 조직 시험으로\nAI 학습 데이터를 찍어낸다",
-  "body": "비보다인이 로봇 실험실 12곳에서 인체 조직 시험 310만 건을 해마다 돌린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "年310万例试验\n量产AI训练数据",
+  "body": "Vivodyne在12个机器人实验室里，每年运行310万例人体组织试验。",
+  "lang": "zh"
  },
  {
   "id": "science-sign-language-sl2t",
@@ -22170,10 +21558,9 @@
   "date": "2026-08-14",
   "section": "science",
   "has_full": true,
-  "headline": "구글 딥마인드의 수어 번역 모델이\n픽셀 11 키보드 안으로 들어왔다",
-  "body": "10만 시간으로 학습한 SL2T가 픽셀 11 키보드에서 수어를 영어로 옮긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "手语翻译模型\n登上Pixel11键盘",
+  "body": "10万时间训练出的SL2T，在Pixel11键盘上把手语转换成英语。",
+  "lang": "zh"
  },
  {
   "id": "science-recall-bottleneck",
@@ -22186,10 +21573,9 @@
   "date": "2026-08-14",
   "section": "science",
   "has_full": true,
-  "headline": "구글 리서치가 짚은 환각의 원인은\n지식 부족이 아니라 인출 실패다",
-  "body": "프런티어 LLM은 사실의 95~98%를 저장하고도 26~34%를 꺼내지 못했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "幻觉的原因不是\n知识不足而是检索失败",
+  "body": "前沿LLM存储了95~98%的事实，却有26~34%无法被提取出来。",
+  "lang": "zh"
  },
  {
   "id": "science-antibody-cdr-model",
@@ -22202,10 +21588,9 @@
   "date": "2026-08-14",
   "section": "science",
   "has_full": true,
-  "headline": "항체의 여섯 고리에 집중한 모델이\n결합력 예측을 27% 끌어올렸다",
-  "body": "보스턴대가 항체의 CDR 고리에 집중한 언어모델로 결합력 예측을 27% 높였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "聚焦抗体六环\n结合预测升27%",
+  "body": "波士顿大学用聚焦抗体CDR环的语言模型,将结合力预测提升了27%。",
+  "lang": "zh"
  },
  {
   "id": "music-tonex-2-player",
@@ -22218,10 +21603,9 @@
   "date": "2026-08-14",
   "section": "music",
   "has_full": true,
-  "headline": "Tonex 2.0 Player, 뉴럴 톤\n220개를 들고 다시 나왔다",
-  "body": "Tonex 2.0 Player 베타가 새 뉴럴 톤 모델 220개를 들고 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Tonex 2.0\n携220神经音色回归",
+  "body": "Tonex 2.0 Player测试版带来220个全新神经音色模型。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-studio-2",
@@ -22250,10 +21634,9 @@
   "date": "2026-08-14",
   "section": "music",
   "has_full": true,
-  "headline": "Spotify, AI 아티스트에\n'AI Persona' 라벨을 붙인다",
-  "body": "9월 중순부터 AI Persona 프로필은 추천에서 빠지지만 정산은 그대로다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Spotify给AI\n艺人贴标签",
+  "body": "9月中旬起,AI Persona资料将退出推荐,但分成照常发放。",
+  "lang": "zh"
  },
  {
   "id": "music-ia-de-esser",
@@ -22266,10 +21649,9 @@
   "date": "2026-08-14",
   "section": "music",
   "has_full": true,
-  "headline": "Immanent Audio의 무료 디에서\nAI는 쓰되 모르는 코드는 안 넣는다",
-  "body": "무료 IA De-Esser 개발자는 AI로 속도를 내되 모르는 코드는 안 넣는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用AI不乱加\n看不懂的代码",
+  "body": "免费的IA De-Esser开发者用AI提速,但绝不加入自己看不懂的代码。",
+  "lang": "zh"
  },
  {
   "id": "music-beatport-ai-ban",
@@ -22282,10 +21664,9 @@
   "date": "2026-08-14",
   "section": "music",
   "has_full": true,
-  "headline": "Beatport, AI가 다 만든 곡은\n스토어에서 아예 받지 않는다",
-  "body": "Beatport는 AI가 전부 또는 대부분 만든 곡을 스토어에서 거부한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Beatport全AI\n曲一律拒收",
+  "body": "Beatport现在拒绝全部或大部分由AI制作的歌曲上架商店。",
+  "lang": "zh"
  },
  {
   "id": "movies-seedance-25-blocking",
@@ -22298,10 +21679,9 @@
   "date": "2026-08-14",
   "section": "movies",
   "has_full": true,
-  "headline": "시드댄스 2.5가 할리우드\n판박이 프롬프트를 막는다",
-  "body": "시드댄스 2.5가 할리우드 IP와 배우 얼굴을 재현하는 프롬프트를 이제 거부한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Seedance 2.5\n拦截仿好莱坞提示词",
+  "body": "Seedance 2.5现在会拒绝还原好莱坞IP与演员面孔的提示词。",
+  "lang": "zh"
  },
  {
   "id": "movies-rocxzoom-kickstarter",
@@ -22314,10 +21694,9 @@
   "date": "2026-08-14",
   "section": "movies",
   "has_full": true,
-  "headline": "AI가 알아서 따라가는 50배 줌\n카메라가 킥스타터로 간다",
-  "body": "AI 피사체 추적으로 프레이밍을 맡는 50배 줌 로봇 카메라가 킥스타터에 오른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "50倍变焦相机\nAI自动追踪登场",
+  "body": "AI自动追踪被摄对象的50倍变焦机器人相机即将登上Kickstarter。",
+  "lang": "zh"
  },
  {
   "id": "movies-castle-walls-prime",
@@ -22330,10 +21709,9 @@
   "date": "2026-08-14",
   "section": "movies",
   "has_full": true,
-  "headline": "생성형 AI로 만든 터키 사극이\n프라임 비디오에 올라왔다",
-  "body": "생성형 AI로 전편을 만든 터키 사극이 프라임 비디오에 첫 사례로 올라왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "生成式AI打造\n土耳其剧登上Prime",
+  "body": "全片由生成式AI制作的土耳其历史剧,作为首例登上了Prime Video。",
+  "lang": "zh"
  },
  {
   "id": "movies-cascadeur-2026-2",
@@ -22362,10 +21740,9 @@
   "date": "2026-08-14",
   "section": "movies",
   "has_full": true,
-  "headline": "감독이 젊은 빌리 조엘을\n동의 없이 AI로 되살렸다",
-  "body": "잃어버린 라디오 인터뷰를 찾은 감독이 젊은 빌리 조엘을 동의 없이 AI로 되살렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "导演未经同意\n用AI复活年轻比利·乔尔",
+  "body": "导演找到一段遗失的电台采访后,未经本人同意用AI复原了年轻时的比利·乔尔。",
+  "lang": "zh"
  },
  {
   "id": "games-twitch-ai-optout",
@@ -22378,10 +21755,9 @@
   "date": "2026-08-14",
   "section": "games",
   "has_full": true,
-  "headline": "Twitch가 방송을 기본값으로\nAmazon AI 학습에 넣었다",
-  "body": "Twitch가 스트림과 채팅을 기본으로 Amazon의 AI 학습에 넣자, 스트리머들이 해제 방법과 aioptedout 태그를 퍼뜨린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Twitch默认把直播\n纳入Amazon的AI学习",
+  "body": "Twitch默认将直播与聊天用于Amazon的AI训练,主播纷纷传播解除方法。",
+  "lang": "zh"
  },
  {
   "id": "games-supergirl-concept-art-ai",
@@ -22394,10 +21770,9 @@
   "date": "2026-08-14",
   "section": "games",
   "has_full": true,
-  "headline": "Supergirl 비하인드 영상이\n조용히 비공개로 내려갔다",
-  "body": "Lobo 콘셉트 아트에 생성형 AI를 쓴 정황이 보인다는 지적이 퍼지자, DC가 비하인드 영상을 비공개로 돌렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Supergirl幕后片\n悄悄被设为不公开",
+  "body": "有人指出Lobo概念图疑似用了生成式AI,DC便悄悄将幕后视频设为不公开。",
+  "lang": "zh"
  },
  {
   "id": "games-relu-mimesis-ai-design",
@@ -22410,10 +21785,9 @@
   "date": "2026-08-14",
   "section": "games",
   "has_full": true,
-  "headline": "AI로 빨리 만들지 말고\n새로운 재미를 만들어라",
-  "body": "ReLU Games는 AI를 도구가 아니라 게임의 새 문법으로 놓고, 사내에 플레이 가능한 Seed를 114건 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "别急着用AI赶工\n要创造全新乐趣",
+  "body": "ReLU Games将AI视为游戏新语法而非工具,并在内部公开了114个可玩的Seed。",
+  "lang": "zh"
  },
  {
   "id": "games-deanbeat-external-devs",
@@ -22426,10 +21800,9 @@
   "date": "2026-08-14",
   "section": "games",
   "has_full": true,
-  "headline": "AAA를 실제로 만드는 외주사는\nAI를 어떻게 쓰게 될까",
-  "body": "Dean Takahashi는 AAA 아트와 제작을 떠받치는 외주·공동개발 스튜디오가 AI 도구를 어떻게 쓸지 묻는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "撑起AAA的外包商\n将如何用AI",
+  "body": "Dean Takahashi追问,支撑AAA制作的外包与联合开发工作室将如何用AI。",
+  "lang": "zh"
  },
  {
   "id": "games-artstation-kitbash3d",
@@ -22442,10 +21815,9 @@
   "date": "2026-08-14",
   "section": "games",
   "has_full": true,
-  "headline": "Epic이 ArtStation을 팔았다\nAI 슬롭에서 풀려났다는 반응",
-  "body": "Epic이 ArtStation과 Sketchfab을 KitBash3D에 넘겼고, 작가들은 마켓플레이스를 뒤덮은 AI 도배가 걷히길 기대한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Epic卖掉\nArtStation摆脱AI",
+  "body": "Epic把ArtStation和Sketchfab卖给KitBash3D,作者盼AI被清理。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-ray-ban-meta-vision-ireland",
@@ -22458,10 +21830,9 @@
   "date": "2026-08-14",
   "section": "gadgets",
   "has_full": true,
-  "headline": "AI 안경 1만 5000대가\n아일랜드 시각장애인에게 간다",
-  "body": "Meta가 AI 안경 1만 5000대를 아일랜드 시각장애인에게 무료로 나눠 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "1.5万台AI眼镜\n送爱尔兰视障者",
+  "body": "Meta将1万5000台AI眼镜免费赠送给爱尔兰视障人士日常使用。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-pixel-11-tensor-g6-tpu",
@@ -22474,10 +21845,9 @@
   "date": "2026-08-14",
   "section": "gadgets",
   "has_full": true,
-  "headline": "받아쓰기도 번역도 클라우드 없이\nTensor G6가 폰 안에서 끝낸다",
-  "body": "Tensor G6의 TPU가 연산을 50% 늘려 받아쓰기와 번역을 기기에서 끝낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "听写翻译不用云\nTensor G6机内搞定",
+  "body": "Tensor G6的TPU把算力提升50%,让听写和翻译在设备上完成。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-matic-cues-voice",
@@ -22490,10 +21860,9 @@
   "date": "2026-08-14",
   "section": "gadgets",
   "has_full": true,
-  "headline": "\"Hey Matic\" 한마디에\n로봇청소기가 방마다 다르게 움직인다",
-  "body": "Matic 로봇청소기가 Gemini를 붙여 방마다 다른 청소 명령을 알아듣는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一句\"Hey Matic\"\n各房间动作不同",
+  "body": "Matic扫地机器人接入Gemini,能听懂各房间不同的清扫指令。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-google-health-ai-hallucination",
@@ -22506,10 +21875,9 @@
   "date": "2026-08-14",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Google Health가 지어낸 기록에\nFitbit 이용자들이 등을 돌렸다",
-  "body": "새 Google Health 앱의 AI 코치가 하지도 않은 운동과 수치를 지어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Google Health\n编造记录激怒Fitbit",
+  "body": "新版Google Health应用的AI教练,编造了没做过的运动和数据。",
+  "lang": "zh"
  },
  {
   "id": "design-vision-pro-webxr-sim",
@@ -22522,10 +21890,9 @@
   "date": "2026-08-14",
   "section": "design",
   "has_full": true,
-  "headline": "비전 프로에서 젤을\n브라우저로 주무른다",
-  "body": "애플 비전 프로 브라우저에서 젤과 모래, 물 시뮬레이션이 실시간으로 돌아갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "在Vision Pro\n浏览器里揉果冻",
+  "body": "苹果Vision Pro浏览器中,果冻、沙子和水的模拟实时运行了起来。",
+  "lang": "zh"
  },
  {
   "id": "design-toolbag-503",
@@ -22538,10 +21905,9 @@
   "date": "2026-08-14",
   "section": "design",
   "has_full": true,
-  "headline": "툴백 5.03이\n조명과 텍스처를 다시 짰다",
-  "body": "마모셋이 툴백 5.03에 텍스트·스캐터 레이어와 IES 조명 지원을 무료로 얹었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Toolbag 5.03\n重塑光照与材质",
+  "body": "玛莫塞特为Toolbag 5.03免费加入文字·散布图层和IES灯光支持。",
+  "lang": "zh"
  },
  {
   "id": "design-onshape-featurescript-mcp",
@@ -22554,10 +21920,9 @@
   "date": "2026-08-14",
   "section": "design",
   "has_full": true,
-  "headline": "말로 설명하면\nCAD 기능이 만들어진다",
-  "body": "Onshape에서 말로 설명한 CAD 피처를 AI가 코드로 짜고 테스트까지 해낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用语言描述\nCAD功能就建好",
+  "body": "在Onshape中,AI把用语言描述的CAD功能编成代码并完成测试。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-skills",
@@ -22570,10 +21935,9 @@
   "date": "2026-08-14",
   "section": "design",
   "has_full": true,
-  "headline": "이제 디자이너가\n피그마 스킬을 직접 만든다",
-  "body": "피그마 안에서 에이전트용 스킬을 직접 만들고 커뮤니티에 공개하는 길이 열렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "设计师现在\n自己打造Figma技能",
+  "body": "在Figma内部直接制作智能体技能,并发布到社区的方式已经开放。",
+  "lang": "zh"
  },
  {
   "id": "design-eu-ai-labelling",
@@ -22586,10 +21950,9 @@
   "date": "2026-08-14",
   "section": "design",
   "has_full": true,
-  "headline": "AI라고 밝히는 일이\n이제 UI의 몫이 됐다",
-  "body": "8월 2일부터 EU 시민을 상대하는 서비스는 AI 생성물임을 화면에서 밝혀야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "标明是AI\n如今是UI的事",
+  "body": "从8月2日起,面向EU公民的服务须在界面上标明AI生成内容。",
+  "lang": "zh"
  },
  {
   "id": "books-villanova-bot-or-not",
@@ -22602,10 +21965,9 @@
   "date": "2026-08-14",
   "section": "books",
   "has_full": true,
-  "headline": "독자는 AI가 쓴 단편을\n가려내지 못하고 더 높게 매겼다",
-  "body": "빌라노바대 연구에서 독자들은 AI가 쓴 단편을 가려내지 못했고 더 높게 평가했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "读者认不出AI短篇\n反而评分更高",
+  "body": "维拉诺瓦大学的研究显示,读者分不清AI写的短篇,还打出更高的分。",
+  "lang": "zh"
  },
  {
   "id": "books-shieldfont",
@@ -22634,10 +21996,9 @@
   "date": "2026-08-14",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 쓴 원고를 고친 편집자는\n계약서에 50% 할증을 넣었다",
-  "body": "편집자 메리 콜이 AI 사용 공개와 50% 할증을 요구하는 조항을 계약서에 넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "改写AI原稿的编辑\n合同加收50%",
+  "body": "编辑玛丽·科尔在合同中加入条款,要求披露AI使用情况并加收50%费用。",
+  "lang": "zh"
  },
  {
   "id": "books-cognitive-debt",
@@ -22650,10 +22011,9 @@
   "date": "2026-08-14",
   "section": "books",
   "has_full": true,
-  "headline": "AI 시대 출판의 진짜 위험은\n환각이 아니라 인지 부채다",
-  "body": "환각보다 무서운 건 판단을 AI에 계속 넘겨 사람의 분별력이 닳는 인지 부채다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI时代出版真正的危险\n不是幻觉而是认知负债",
+  "body": "比幻觉更可怕的是,把判断持续交给AI导致人的分辨力被磨损的认知负债。",
+  "lang": "zh"
  },
  {
   "id": "books-claude-watermark",
@@ -22682,10 +22042,9 @@
   "date": "2026-08-12",
   "section": "science",
   "has_full": true,
-  "headline": "퀘이사 80만 개를 신경망에 넣어\n중력렌즈 일곱 개를 건져 올렸다",
-  "body": "오하이오주립대 연구진이 DESI 퀘이사 스펙트럼 80만 개에서 중력렌즈 일곱 개를 골라냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "80万颗类星体\n喂进神经网找7个",
+  "body": "俄亥俄州立大学从80万条DESI类星体光谱中挑出7个引力透镜。",
+  "lang": "zh"
  },
  {
   "id": "science-openai-astra-math-attribution",
@@ -22698,9 +22057,9 @@
   "date": "2026-08-12",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 푼 수학 난제 10건을 두고\n선행 연구를 지웠다는 지적이 나왔다",
-  "body": "OpenAI가 Astra로 내놓은 수학 결과 가운데 둘이 2016·2019년 논문을 인용 없이 썼다는 지적을 받았다.",
-  "lang": "ko",
+  "headline": "AI solved 10 hard math\nproblems, erased prior work",
+  "body": "Two of OpenAI's Astra math results were flagged for using 2016 and 2019 papers without citation.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -22714,10 +22073,9 @@
   "date": "2026-08-12",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 다시 잰 세계 빙하의 부피\n전부 녹으면 해수면이 32.3cm 오른다",
-  "body": "베네치아 카포스카리대의 IceBoost v2.0은 세계 빙하 얼음을 약 15만 세제곱킬로미터로 추산했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI重新测算冰川\n全融化海平面升32.3cm",
+  "body": "威尼斯福斯卡里大学IceBoost v2.0推算全球冰川冰量约15万立方公里。",
+  "lang": "zh"
  },
  {
   "id": "science-amie-video-consultation",
@@ -22730,10 +22088,9 @@
   "date": "2026-08-12",
   "section": "science",
   "has_full": true,
-  "headline": "실시간 화상 진료에서 AI가\n1차 진료의와 대등한 성적을 냈다",
-  "body": "구글 AMIE가 화상 진료 100개 시나리오에서 1차 진료의와 대등한 진단 정확도를 보였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI视频问诊\n追平全科医",
+  "body": "谷歌AMIE在100个视频问诊场景中诊断准确度追平全科医生。",
+  "lang": "zh"
  },
  {
   "id": "music-daddario-ai-admission",
@@ -22746,10 +22103,9 @@
   "date": "2026-08-12",
   "section": "music",
   "has_full": true,
-  "headline": "AI 아니라던 D'Addario\n데모 영상에 Suno Studio를 썼다",
-  "body": "부인하던 D'Addario가 데모 영상에 Suno Studio를 썼다고 인정했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "曾否认用AI\n承认用了Suno",
+  "body": "此前否认的D'Addario承认演示视频用了Suno Studio。",
+  "lang": "zh"
  },
  {
   "id": "movies-peacock-public-eye",
@@ -22762,10 +22118,9 @@
   "date": "2026-08-12",
   "section": "movies",
   "has_full": true,
-  "headline": "피콕이 첫 연재형 모바일 게임\n〈퍼블릭 아이〉를 내놨다",
-  "body": "울프 게임스와 만든 10부작 살인 미스터리에 생성형 AI 비주얼이 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "首款连载型\n手机游戏上线",
+  "body": "《Public Eye》是与Wolf Games合作的10集谋杀剧,融入生成式AI画面。",
+  "lang": "zh"
  },
  {
   "id": "movies-nura-rainbow-hollow",
@@ -22778,9 +22133,9 @@
   "date": "2026-08-12",
   "section": "movies",
   "has_full": true,
-  "headline": "누라 스튜디오가 스톱모션처럼 보이는\nAI 시리즈 〈레인보우 할로〉를 냈다",
-  "body": "장례식장에서 떠오른 아이디어가 스톱모션을 닮은 AI 다크 코미디 세 편이 됐다.",
-  "lang": "ko",
+  "headline": "Nura Studios released an AI\nseries that looks stop-motion",
+  "body": "An idea that came to him at a funeral became three AI dark comedy episodes resembling stop-motion.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -22810,10 +22165,9 @@
   "date": "2026-08-12",
   "section": "movies",
   "has_full": true,
-  "headline": "다큐 팀에 AI를 언제 어떻게\n꺼야 하는지 알려 주는 무료 강의",
-  "body": "필드 오브 비전과 언론자유재단이 9월 10일 AI 옵트아웃 세션을 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI何时该关\n免费课程教你",
+  "body": "Field of Vision与新闻自由基金会将于9月10日举办AI退出讲座。",
+  "lang": "zh"
  },
  {
   "id": "games-zhong-kui-no-ai",
@@ -22826,10 +22180,9 @@
   "date": "2026-08-12",
   "section": "games",
   "has_full": true,
-  "headline": "\"설계와 에셋 단계에선 AI를 피한다\"\nBlack Myth 속편이 그은 선",
-  "body": "Game Science 아트 디렉터 Yang Qi는 저항이 아니라 끝까지 자리를 지키려는 선택이라고 적었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "设计素材避开AI\nBlack Myth续作划线",
+  "body": "Game Science美术总监Yang Qi称这不是抵制,而是坚守到底的选择。",
+  "lang": "zh"
  },
  {
   "id": "games-unreal-runtime-inference",
@@ -22842,10 +22195,9 @@
   "date": "2026-08-12",
   "section": "games",
   "has_full": true,
-  "headline": "실시간 추론을 게임에 넣을 때\n관건은 메모리와 런타임 효율",
-  "body": "Unreal Fest Chicago 2026 강연에서 Databiomes와 AMD가 오프라인 학습 모델을 실시간 실행에 맞추는 방법을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "游戏植入推理\n关键是内存效率",
+  "body": "在Unreal Fest演讲中,Databiomes与AMD谈了模型实时运行方法。",
+  "lang": "zh"
  },
  {
   "id": "games-seed-ai-society",
@@ -22874,10 +22226,9 @@
   "date": "2026-08-12",
   "section": "games",
   "has_full": true,
-  "headline": "\"개발 중간에 ChatGPT가 나를 대체했다\"\n그런데 Steam엔 AI 표기가 없다",
-  "body": "리드 라이터였던 Stella Sacco는 승객 목소리까지 AI였다고 밝혔지만, Steam 페이지에는 AI 표기가 없다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ChatGPT途中取代我\n但Steam无AI标注",
+  "body": "前主笔Stella Sacco称连乘客配音都是AI,但Steam未标注AI使用。",
+  "lang": "zh"
  },
  {
   "id": "games-gamescom-dev-survey",
@@ -22890,10 +22241,9 @@
   "date": "2026-08-12",
   "section": "games",
   "has_full": true,
-  "headline": "팀 구조와 생산성이 먼저 바뀐다\nGamescom Dev 강연자 설문",
-  "body": "강연자 100명 가운데 절반 가까이가 앞으로 3년의 최대 흐름으로 AI 지원 개발을 꼽았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "团队结构与效率先变化\nGamescom Dev调查",
+  "body": "近半数受访演讲者认为,AI辅助开发将是未来三年的最大趋势。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-windows11-ai-unbundle",
@@ -22906,10 +22256,9 @@
   "date": "2026-08-12",
   "section": "gadgets",
   "has_full": true,
-  "headline": "코파일럿+ PC에서 이미지 생성 AI만\n골라서 지울 수 있게 됐다",
-  "body": "코파일럿+ PC에서 이미지 생성 AI 구성요소만 따로 지우는 길이 열렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Copilot+PC上\n只需删除图像AI组件",
+  "body": "Copilot+PC现在可以单独删除图像生成AI组件,不必卸载整个AI套件。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-local-llm-igpu",
@@ -22938,10 +22287,9 @@
   "date": "2026-08-12",
   "section": "gadgets",
   "has_full": true,
-  "headline": "시리 목소리 열한 가지에\n속도와 표현력 손잡이가 붙었다",
-  "body": "iOS 27 베타 5에서 시리 목소리 열한 가지에 속도와 표현력 조절이 열렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Siri11种声音\n可调语速和表现",
+  "body": "iOS 27测试版5为Siri11种声音开放语速和表现力调节。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-infimaker-k1",
@@ -22954,10 +22302,9 @@
   "date": "2026-08-12",
   "section": "gadgets",
   "has_full": true,
-  "headline": "이미지 한 장을 3D 모델로 바꿔\n5축 밀링에 그대로 넘긴다",
-  "body": "인피메이커 K1은 평면 이미지를 AI로 3D 모델로 바꿔 5축 밀링으로 깎는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一张图变3D\n直接5轴加工",
+  "body": "InfiMaker K1用AI把平面图像变成3D模型,以5轴铣削加工。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-abbott-lingo-google-health",
@@ -22970,10 +22317,9 @@
   "date": "2026-08-12",
   "section": "gadgets",
   "has_full": true,
-  "headline": "혈당 센서는 애벗이 달고\n해석은 구글 AI가 맡는다",
-  "body": "애벗 링고 연속혈당측정기가 구글 헬스에 붙어 헬스 코치의 AI 조언으로 이어진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "血糖传感器\n解读交给Google AI",
+  "body": "Abbott的Lingo连续血糖仪接入Google Health,衔接AI健康建议。",
+  "lang": "zh"
  },
  {
   "id": "design-lottie-tactile-ux",
@@ -22986,10 +22332,9 @@
   "date": "2026-08-12",
   "section": "design",
   "has_full": true,
-  "headline": "물리 엔진 대신 Lottie 상태 제어로\n스트레스 해소 장난감을 만들었다",
-  "body": "물리 엔진 대신 Lottie 세그먼트와 거리 계산으로 촉각 반응을 짰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不用物理引擎\n靠Lottie状态解压",
+  "body": "不用物理引擎,靠Lottie片段与距离计算做出触感反应。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-make-time-savings",
@@ -23002,10 +22347,9 @@
   "date": "2026-08-12",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 시간을 아껴 준다는 말에\nFigma가 숫자를 붙였다",
-  "body": "참가자 100명 무작위 실험에서 Figma Make를 쓴 작업이 20% 빨라졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI省时间?\nFigma用数据说话",
+  "body": "100人随机实验显示用Figma Make作业快了20%。",
+  "lang": "zh"
  },
  {
   "id": "design-artstation-sketchfab-sale",
@@ -23018,9 +22362,9 @@
   "date": "2026-08-12",
   "section": "design",
   "has_full": true,
-  "headline": "에픽이 ArtStation과 Sketchfab을\n5년 만에 KitBash에 넘긴다",
-  "body": "에픽이 2021년에 사들인 두 플랫폼이 KitBash로 넘어간다.",
-  "lang": "ko",
+  "headline": "Epic hands ArtStation and\nSketchfab to KitBash, 5 years on",
+  "body": "The two platforms Epic bought back in 2021 are now moving over to KitBash.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -23034,10 +22378,9 @@
   "date": "2026-08-12",
   "section": "design",
   "has_full": true,
-  "headline": "8월 28일부터 비전 프로에서\nMLB 경기를 생중계로 본다",
-  "body": "애플과 MLB가 8월 28일부터 9월 18일까지 네 경기를 비전 프로로 생중계한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "8月28日起\nVision Pro看MLB",
+  "body": "苹果与MLB将于8月28日至9月18日,在Vision Pro上直播四场比赛。",
+  "lang": "zh"
  },
  {
   "id": "design-alien-no-mesh-shader",
@@ -23050,10 +22393,9 @@
   "date": "2026-08-12",
   "section": "design",
   "has_full": true,
-  "headline": "메시도 텍스처도 정점도 없다\n셰이더 수학만으로 만든 외계인",
-  "body": "Drin이 만든 외계인은 전체 화면 쿼드 한 장 위에서 레이마칭으로 그려진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无网格无贴图\n全靠着色器数学",
+  "body": "Drin制作的外星人完全靠光线步进在整屏四边形上绘制而成。",
+  "lang": "zh"
  },
  {
   "id": "books-stm-ai-against-ai",
@@ -23066,10 +22408,9 @@
   "date": "2026-08-12",
   "section": "books",
   "has_full": true,
-  "headline": "AI 대 AI의 전쟁에 갇히지 말라\n학술 출판계에 나온 경고",
-  "body": "STM 대표 캐럴라인 서턴은 조작 의심 논문을 가릴 때 자동 검사와 사람의 판단을 함께 둬야 한다고 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "别陷入AI对AI\n之战,学术界示警",
+  "body": "STM代表Caroline Sutton称应结合自动检测与人工判断甄别造假论文。",
+  "lang": "zh"
  },
  {
   "id": "books-spotify-audiobook-discovery",
@@ -23082,10 +22423,9 @@
   "date": "2026-08-12",
   "section": "books",
   "has_full": true,
-  "headline": "스포티파이가 오디오북 발견을\n말로 묻는 검색으로 옮긴다",
-  "body": "프롬프트 플레이리스트와 자연어 검색, 시리즈 순서 추적까지 세 기능을 한꺼번에 베타로 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Spotify用语音\n搜索重塑发现",
+  "body": "提示播放列表、自然语言搜索和系列追踪三项功能同时开放测试。",
+  "lang": "zh"
  },
  {
   "id": "books-library-avoiding-ai",
@@ -23098,10 +22438,9 @@
   "date": "2026-08-12",
   "section": "books",
   "has_full": true,
-  "headline": "AI를 피하는 법을 알려주는\n도서관 워크숍이 붐빈다",
-  "body": "빅테크에 질린 이용자를 겨냥한 도서관의 AI 회피 워크숍이 입소문을 탔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "教你如何避开AI\n图书馆讲座火了",
+  "body": "面向厌倦了大科技的用户,图书馆的AI规避讲座靠口碑走红。",
+  "lang": "zh"
  },
  {
   "id": "books-iflytek-ainote2-roadmap",
@@ -23114,10 +22453,9 @@
   "date": "2026-08-12",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 페이지 밑에 깔린\nE-Ink 태블릿의 2026 로드맵",
-  "body": "아이플라이텍 AINOTE 2가 회의 녹취와 노트 정리, PDF 직접 삽입까지 얹는 펌웨어 계획을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI藏身页面之下\nE-Ink平板2026规划",
+  "body": "iFlytek AINOTE 2公布了会议录音、笔记整理及PDF直接插入等固件计划。",
+  "lang": "zh"
  },
  {
   "id": "books-aries-chronoshub-submission",
@@ -23130,10 +22468,9 @@
   "date": "2026-08-12",
   "section": "books",
   "has_full": true,
-  "headline": "투고 시스템에 AI를 얹기 전에\n데이터부터 정리해야 한다",
-  "body": "에어리스와 크로노스허브는 평평한 PDF로는 AI가 읽어갈 콘텐츠가 되지 않는다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "投稿系统接入AI之前\n要先整理好数据",
+  "body": "Aries和ChronosHub认为,扁平的PDF无法成为AI可读取的内容。",
+  "lang": "zh"
  },
  {
   "id": "science-teen-ai-mental-health-surge",
@@ -23146,10 +22483,9 @@
   "date": "2026-08-11",
   "section": "science",
   "has_full": true,
-  "headline": "정신건강을 챗봇에 묻는 미국 청소년이\n1년 새 8명 중 1명에서 5명 중 1명으로",
-  "body": "12~21세 미국 청소년의 AI 정신건강 상담이 1년 만에 60% 늘었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "美国青少年问AI心理问题\n1年内从八分之一增至五分之一",
+  "body": "美国12至21岁青少年的AI心理健康咨询一年内增长60%。",
+  "lang": "zh"
  },
  {
   "id": "science-single-lead-ecg-heart-failure-ai",
@@ -23162,10 +22498,9 @@
   "date": "2026-08-11",
   "section": "science",
   "has_full": true,
-  "headline": "심전도 한 줄만 보고도 AI가\n놓치기 쉬운 심부전을 짚어낸다",
-  "body": "웨이크포레스트 연구진의 AI는 웨어러블급 단일 유도 심전도에서도 심부전을 가려냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "仅看一条心电图\nAI揭示心衰",
+  "body": "维克森林研究团队的AI,从可穿戴级单导联心电图中也能识别心衰。",
+  "lang": "zh"
  },
  {
   "id": "science-mit-geopt-physics-pretraining",
@@ -23178,10 +22513,9 @@
   "date": "2026-08-11",
   "section": "science",
   "has_full": true,
-  "headline": "물리를 먼저 몸에 익힌 시뮬레이션 AI가\n학습 데이터를 60%까지 덜 쓴다",
-  "body": "GeoPT는 물리를 먼저 익혀 학습 데이터를 최대 60% 덜 쓰고도 더 정확했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "先学物理的\nAI省60%数据",
+  "body": "GeoPT先学会物理,训练数据最多可减少60%,结果反而更准确。",
+  "lang": "zh"
  },
  {
   "id": "science-ai-agents-for-science",
@@ -23194,9 +22528,9 @@
   "date": "2026-08-11",
   "section": "science",
   "has_full": true,
-  "headline": "과학을 앞당기는 건 알파폴드가 아니라\n도구를 쓰며 추론하는 에이전트다",
-  "body": "알파폴드를 낳은 조건은 드물고, 도구를 쓰며 추론하는 에이전트가 과학을 앞당긴다.",
-  "lang": "ko",
+  "headline": "It's not AlphaFold speeding up\nscience, it's tool-using agents",
+  "body": "AlphaFold's conditions are rare; agents that reason while using tools speed up science instead.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -23210,10 +22544,9 @@
   "date": "2026-08-11",
   "section": "science",
   "has_full": true,
-  "headline": "사람이 글을 어떻게 읽는지를\nAI가 흉내가 아니라 설명해 냈다",
-  "body": "알토대 강화학습 모델의 시선 배분이 실제 안구 추적 데이터와 맞아떨어졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "人如何读文字\nAI给出了解释",
+  "body": "阿尔托大学强化学习模型的视线分配,与真实的眼动追踪数据相符。",
+  "lang": "zh"
  },
  {
   "id": "music-unlearning-hub",
@@ -23226,10 +22559,9 @@
   "date": "2026-08-11",
   "section": "music",
   "has_full": true,
-  "headline": "학습한 음악은 지워지지 않는다\n머신 언러닝 리서치 허브",
-  "body": "학습이 끝난 모델에서 특정 곡을 빼는 일은 지금 기술로는 사실상 불가능하다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "学过的音乐\n无法被删除",
+  "body": "从已经训练完成的模型中删除某首歌,现有技术几乎无法做到。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-voices-mobile",
@@ -23242,10 +22574,9 @@
   "date": "2026-08-11",
   "section": "music",
   "has_full": true,
-  "headline": "내 목소리 복제, 이제 폰에서\n무료로도 열린 Suno Voices",
-  "body": "데스크톱에만 있던 Voices가 폰으로 내려왔고, 무료 이용자에게도 일부 열렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "声音克隆登陆\n手机且免费开放",
+  "body": "原本只限桌面的Voices登陆手机,并向免费用户部分开放。",
+  "lang": "zh"
  },
  {
   "id": "music-saregama-ai-videos",
@@ -23258,9 +22589,9 @@
   "date": "2026-08-11",
   "section": "music",
   "has_full": true,
-  "headline": "영상 판권 없던 옛 노래에\nAI로 뮤직비디오를 붙인다",
-  "body": "음원만 갖고 영상 판권은 없던 옛 곡에 Saregama가 AI 뮤직비디오를 붙인다.",
-  "lang": "ko",
+  "headline": "AI music videos for old songs\nthat never had video rights",
+  "body": "Saregama is adding AI music videos to old songs it owns only as audio, without video rights.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -23274,10 +22605,9 @@
   "date": "2026-08-11",
   "section": "music",
   "has_full": true,
-  "headline": "커뮤니티가 만든 NAM 캡처를\nHeadRush가 그대로 읽는다",
-  "body": "무료 펌웨어로 HeadRush 모델러가 Tone3000의 NAM 캡처를 읽는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "社区制作NAM\n捕捉HeadRush直读",
+  "body": "免费固件让HeadRush调制器直接读取Tone3000的NAM捕捉文件。",
+  "lang": "zh"
  },
  {
   "id": "music-agents-release-ops",
@@ -23290,10 +22620,9 @@
   "date": "2026-08-11",
   "section": "music",
   "has_full": true,
-  "headline": "A&R부터 릴리스 운영까지\n조용히 들어온 AI 에이전트",
-  "body": "납품 QC와 메타데이터 정리, 트렌드 감시가 먼저 에이전트에게 넘어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI代理悄然\n进入A&R到发行运营",
+  "body": "交付QC、元数据整理和趋势监测工作已率先交给AI代理处理。",
+  "lang": "zh"
  },
  {
   "id": "movies-runway-short-film-workflow",
@@ -23306,10 +22635,9 @@
   "date": "2026-08-11",
   "section": "movies",
   "has_full": true,
-  "headline": "런웨이가 중세 코미디 단편을\n첫 아이디어부터 완성까지 보여준다",
-  "body": "캐릭터 디자인부터 대사 연출까지 단편 한 편을 짓는 과정을 런웨이가 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Runway展示中世\n喜剧短片全过程",
+  "body": "Runway公开了从角色设计到台词指导制作短片的全过程。",
+  "lang": "zh"
  },
  {
   "id": "movies-promise-touch-grass",
@@ -23322,10 +22650,9 @@
   "date": "2026-08-11",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 스튜디오 프로미스가 ‘죽은\n인터넷 이론’ 호러 장편을 만든다",
-  "body": "프로미스의 데이브 클라크가 죽은 인터넷 이론을 소재로 한 호러 장편을 연출한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI工作室Promise\n拍《死亡网络》恐怖片",
+  "body": "Promise的Dave Clark将执导一部以死亡网络理论为题材的恐怖长片。",
+  "lang": "zh"
  },
  {
   "id": "movies-hbo-max-shorts",
@@ -23338,10 +22665,9 @@
   "date": "2026-08-11",
   "section": "movies",
   "has_full": true,
-  "headline": "HBO 맥스가 세로형 숏츠와\nAI 대화형 검색을 함께 열었다",
-  "body": "사내 AI 도구가 방대한 카탈로그에서 장면을 골라 세로 화면으로 잘라 낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "HBO Max推出\n竖版Shorts与AI搜索",
+  "body": "内部AI工具从海量片库中挑选经典画面,并裁剪成竖屏短片呈现。",
+  "lang": "zh"
  },
  {
   "id": "movies-disney-ilm-pixar-ai",
@@ -23354,10 +22680,9 @@
   "date": "2026-08-11",
   "section": "movies",
   "has_full": true,
-  "headline": "디즈니가 SEC 서한에 ILM과\n픽사를 AI 투자처로 이름 올렸다",
-  "body": "AI 투자처로 ILM과 픽사를 적은 서한에 인력 감축 검토도 함께 담겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "迪士尼SEC文件\n点名ILM与Pixar",
+  "body": "迪士尼在信函中将ILM和Pixar列为AI投资重点,并提及裁员评估。",
+  "lang": "zh"
  },
  {
   "id": "movies-asteria-zerospace",
@@ -23370,10 +22695,9 @@
   "date": "2026-08-11",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 스튜디오 아스테리아가\n버추얼 프로덕션 제로스페이스와 손잡았다",
-  "body": "아스테리아가 제로스페이스와 손잡고 각자의 AI 운영체제와 생성 플랫폼을 서로 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI工作室Asteria\n携手Zero Space",
+  "body": "Asteria与Zero Space达成合作,互相开放AI操作系统与生成平台。",
+  "lang": "zh"
  },
  {
   "id": "games-take-two-ai-not-replace",
@@ -23386,10 +22710,9 @@
   "date": "2026-08-11",
   "section": "games",
   "has_full": true,
-  "headline": "AI 도구가 누구를 대체하진 않는다\nTake-Two Zelnick의 선 긋기",
-  "body": "Strauss Zelnick은 투자자들에게 AI가 13,000명 직원의 창의성을 거들 뿐 대체하지는 못한다고 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Take-Two稱AI不取代\nZelnick划清界限",
+  "body": "Zelnick告诉投资者,AI只能辅助13,000名员工的创造力,无法取代。",
+  "lang": "zh"
  },
  {
   "id": "games-no-mans-sky-not-rushing",
@@ -23402,10 +22725,9 @@
   "date": "2026-08-11",
   "section": "games",
   "has_full": true,
-  "headline": "AI 경쟁은 멀리서 지켜보겠다\nNo Man's Sky 10년의 답",
-  "body": "Sean Murray는 생성형 AI 도입을 서두르는 대신 업계 표준이 잡힐 때까지 지켜보겠다고 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI竞赛就远观\nNMS十年答案",
+  "body": "肖恩·默里说,会等行业标准成形,再引入生成式AI,不急着上。",
+  "lang": "zh"
  },
  {
   "id": "games-eve-frontier-agent-testbed",
@@ -23418,10 +22740,9 @@
   "date": "2026-08-11",
   "section": "games",
   "has_full": true,
-  "headline": "AI 에이전트의 시험장으로\nEVE 세계를 열겠다는 스튜디오",
-  "body": "Fenris Creations가 EVE Frontier의 살아 있는 경제를 자율 AI 에이전트를 관찰하는 실험장으로 열겠다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "把EVE变成\nAI代理试验场",
+  "body": "Fenris Creations称把EVE Frontier的经济变成观察AI代理的试验场。",
+  "lang": "zh"
  },
  {
   "id": "games-1666-ai-assets-cut",
@@ -23434,10 +22755,9 @@
   "date": "2026-08-11",
   "section": "games",
   "has_full": true,
-  "headline": "AI 에셋을 전량 걷어낸 스튜디오\n\"우리도 AI인 줄 몰랐다\"",
-  "body": "데모에 섞여 나간 AI 그림은 모두 사람이 다시 그렸고, 게임 어디에도 AI는 쓰지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "工作室撤下全部\nAI素材:没察觉",
+  "body": "混入演示版的AI画作已全部由人重新绘制,游戏里不再使用AI。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-norecognition-pattern",
@@ -23450,10 +22770,9 @@
   "date": "2026-08-11",
   "section": "gadgets",
   "has_full": true,
-  "headline": "3100만 번 시험한 무늬 하나가\n감시 카메라의 눈을 가린다",
-  "body": "빌 스웨어링겐이 3100만 번 실험 끝에 사람과 차량을 감시 카메라 탐지에서 숨기는 무늬를 뽑아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "试了3100万次\n图案蒙住监控",
+  "body": "比尔·斯威林根做了3100万次实验,练出能瞒过监控的藏人藏车图案。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-meta-muse-glimmer",
@@ -23466,10 +22785,9 @@
   "date": "2026-08-11",
   "section": "gadgets",
   "has_full": true,
-  "headline": "30B 모델이 클라우드를 떠나\n내 책상 위 PC 안으로 들어왔다",
-  "body": "메타의 뮤즈 글리머는 4비트 양자화로 20GB 밑까지 줄어 소비자 GPU 한 장에서 돈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "300亿模型离云\n进我桌面PC",
+  "body": "Meta的Muse Glimmer经4比特量化降到20GB以下,单卡可跑。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-hoverair-versa",
@@ -23482,9 +22800,9 @@
   "date": "2026-08-11",
   "section": "gadgets",
   "has_full": true,
-  "headline": "손바닥에서 띄우는 짐벌 카메라,\n날개를 붙이면 드론이 된다",
-  "body": "호버에어 베르사는 3축 짐벌 포켓 카메라에 드론 몸체를 자석으로 붙여 자동 추적 드론이 된다.",
-  "lang": "ko",
+  "headline": "A gimbal camera from your palm,\nadd wings and it's a drone",
+  "body": "HoverAir Versa becomes an auto-tracking drone when a magnetic drone body attaches to its 3-axis gimbal pocket camera.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -23498,10 +22816,9 @@
   "date": "2026-08-11",
   "section": "gadgets",
   "has_full": true,
-  "headline": "센서 상태를 외우지 않아도\n자동화가 말이 되기 시작했다",
-  "body": "홈어시스턴트 2026.7의 목적별 트리거가 센서 상태값 추측을 없애 자동화를 읽히게 만들었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不用背传感器\n状态,自动化讲理",
+  "body": "Home Assistant 2026.7的按意图触发去掉了状态猜测。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-apple-reference-image",
@@ -23514,10 +22831,9 @@
   "date": "2026-08-11",
   "section": "gadgets",
   "has_full": true,
-  "headline": "아이폰 카메라가 찍은 사진인지,\n애플이 증명해 주기로 했다",
-  "body": "iOS 27 베타 5 코드에 아이폰 카메라 센서로 사진의 출처를 확인하는 기능이 들어 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "是否iPhone拍摄\n苹果来证明",
+  "body": "iOS 27测试版5代码含用相机传感器验证照片来源的功能。",
+  "lang": "zh"
  },
  {
   "id": "design-mudbox-discontinued",
@@ -23530,10 +22846,9 @@
   "date": "2026-08-11",
   "section": "design",
   "has_full": true,
-  "headline": "오토데스크가 머드박스를 접는다,\n남은 판매는 11월 7일까지",
-  "body": "아카데미상까지 받은 머드박스의 월·연 구독 판매가 11월 7일에 끝난다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "欧特克停产\nMudbox,售至11月7日",
+  "body": "连奥斯卡奖都拿过的Mudbox,月付和年付销售将于11月7日结束。",
+  "lang": "zh"
  },
  {
   "id": "design-mablelink-maya-transfer",
@@ -23546,10 +22861,9 @@
   "date": "2026-08-11",
   "section": "design",
   "has_full": true,
-  "headline": "리그와 애니메이션을 그대로,\n마야 씬이 블렌더와 UE5로 간다",
-  "body": "리그와 애니메이션을 살린 채로 마야 씬이 블렌더와 UE5로 한 번에 넘어간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "保留绑定动画\n玛雅转Blender、UE5",
+  "body": "保留绑定和动画,玛雅场景一次性转到Blender和UE5。",
+  "lang": "zh"
  },
  {
   "id": "design-grok-imagine-image-2",
@@ -23562,10 +22876,9 @@
   "date": "2026-08-11",
   "section": "design",
   "has_full": true,
-  "headline": "글자와 레이아웃을 같이 짜는\n이미지 모델이 API로 열렸다",
-  "body": "타이포와 레이아웃을 함께 짜는 xAI 이미지 모델이 AI Gateway에 올라왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "文字与排版\n同构图像模型开放API",
+  "body": "能同时规划文字与排版的xAI图像模型已登上AI Gateway。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-agents-in-file",
@@ -23578,10 +22891,9 @@
   "date": "2026-08-11",
   "section": "design",
   "has_full": true,
-  "headline": "레이어를 고르고 프롬프트를 쓰면\n에이전트가 그 자리에서 고친다",
-  "body": "Figma가 디자인 파일 안에서 에이전트를 부리는 방법을 직접 시연했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "选中图层写提示词\n代理即时修改",
+  "body": "在画布上选中一个图层并写下提示词,代理就会当场把它修改好。",
+  "lang": "zh"
  },
  {
   "id": "design-animating-border-image",
@@ -23594,10 +22906,9 @@
   "date": "2026-08-11",
   "section": "design",
   "has_full": true,
-  "headline": "그라디언트는 원래 못 움직인다,\n커스텀 속성을 등록하기 전까지는",
-  "body": "border-image에 그라디언트를 깔고 등록한 커스텀 속성으로 움직인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "渐变本来不能动\n直到注册自定义属性",
+  "body": "先在border-image铺渐变,再用注册的自定义属性让它动起来。",
+  "lang": "zh"
  },
  {
   "id": "books-pulitzer-ai-disclosure",
@@ -23610,10 +22921,9 @@
   "date": "2026-08-11",
   "section": "books",
   "has_full": true,
-  "headline": "퓰리처상 도서 부문 응모서에\nAI 사용을 묻는 칸이 생긴다",
-  "body": "올해 여덟 명이 AI 사용을 밝혔고 내년 도서 응모서엔 AI 공개 항목이 생긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "普利策图书类参赛表\n将增AI使用栏",
+  "body": "今年已有8人公开使用AI,明年图书类参赛表将新增AI披露项目。",
+  "lang": "zh"
  },
  {
   "id": "books-opus5-for-novelists",
@@ -23626,10 +22936,9 @@
   "date": "2026-08-11",
   "section": "books",
   "has_full": true,
-  "headline": "Opus 5는 소설 쓰는 사람에게\n값을 하는 업그레이드인가",
-  "body": "노벨크래프터가 Opus 5를 전작과 소넷·페이블 옆에 놓고 값을 하는지 따져본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Opus 5对小说作者\n值得升级吗",
+  "body": "NovelCrafter拿Opus 5与前作及Sonnet、Fable对比,看是否值得。",
+  "lang": "zh"
  },
  {
   "id": "books-cope-no-ai-clause",
@@ -23642,10 +22951,9 @@
   "date": "2026-08-11",
   "section": "books",
   "has_full": true,
-  "headline": "COPE의 새 윤리 강령은\nAI를 일부러 적지 않았다",
-  "body": "AI 도구가 빨리 바뀌어 조항에 못 박으면 곧 낡는다는 게 리지웨이의 설명이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "COPE新规范\n刻意不提AI",
+  "body": "瑞奇维解释说，AI工具变化实在太快，写进条款很快就会过时。",
+  "lang": "zh"
  },
  {
   "id": "books-cheap-models-first",
@@ -23658,10 +22966,9 @@
   "date": "2026-08-11",
   "section": "books",
   "has_full": true,
-  "headline": "싼 모델로 뼈대를 세우고\n비싼 모델은 마지막에",
-  "body": "24시간 챌린지 끝에 기획과 초고는 싼 모델, 마지막 문장만 비싼 모델로 돌린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "先用廉价模型\n搭骨架，贵的留后",
+  "body": "24小时挑战结束后，构思和初稿用廉价模型，只有最后一句才用昂贵模型。",
+  "lang": "zh"
  },
  {
   "id": "books-95-percent-ai-chapter",
@@ -23674,10 +22981,9 @@
   "date": "2026-08-11",
   "section": "books",
   "has_full": true,
-  "headline": "95% AI로 쓴 챕터를 읽고\n편집자가 던진 질문",
-  "body": "북페어 바이어가 물은 건 AI 여부가 아니라 어떻게 이만큼 잘 썼느냐였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "95%由AI写\n编辑的疑问",
+  "body": "书展的买家问的不是是否用了AI，而是究竟怎么写得这么好。",
+  "lang": "zh"
  },
  {
   "id": "science-schrodinger-farid-ai",
@@ -23690,10 +22996,9 @@
   "date": "2026-08-10",
   "section": "science",
   "has_full": true,
-  "headline": "물리 시뮬레이션만 믿던 슈뢰딩거 CEO가\n머신러닝 쪽으로 생각을 바꿨다",
-  "body": "신약 설계에서 물리 계산을 고수하던 라미 파리드가 머신러닝의 자리를 다시 그었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "笃信物理模拟\n的CEO转向ML",
+  "body": "在新药设计中坚持物理计算的拉米·法里德，重新划定了机器学习的位置。",
+  "lang": "zh"
  },
  {
   "id": "science-nsf-self-driving-labs",
@@ -23706,10 +23011,9 @@
   "date": "2026-08-10",
   "section": "science",
   "has_full": true,
-  "headline": "미국 국립과학재단이 3억8천만 달러를\n자율 실험실 전국망에 투입한다",
-  "body": "NSF가 3억8천만 달러를 풀고 NC주립대가 2천만 달러 자율 실험실을 맡는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "NSF投3.8亿\n建自主实验网",
+  "body": "NSF投入3.8亿美元，北卡州立大负责2000万美元的自主实验室。",
+  "lang": "zh"
  },
  {
   "id": "science-cognitive-map-planner",
@@ -23722,10 +23026,9 @@
   "date": "2026-08-10",
   "section": "science",
   "has_full": true,
-  "headline": "뇌의 인지 지도를 본뜬 신경망이\n훨씬 적은 전력으로 계획을 세운다",
-  "body": "칭화대·그라츠공대 연구진의 인지 지도 신경망은 처음 보는 문제도 스스로 풀어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "仿脑认知地图\n网络省电规划",
+  "body": "清华大学与格拉茨科技大学团队的认知地图神经网络，能自行解决从未见过的问题。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-breach-suits",
@@ -23738,10 +23041,9 @@
   "date": "2026-08-10",
   "section": "music",
   "has_full": true,
-  "headline": "5,530만 계정 유출로\nSuno에 집단소송 두 건",
-  "body": "매사추세츠 이용자 두 명이 데이터 보관을 문제 삼아 각각 소송을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "5530万账户泄露\nSuno遭两起诉讼",
+  "body": "两名马萨诸塞州用户分别起诉，指控Suno存储数据存在疏忽。",
+  "lang": "zh"
  },
  {
   "id": "music-reflector",
@@ -23754,10 +23056,9 @@
   "date": "2026-08-10",
   "section": "music",
   "has_full": true,
-  "headline": "화성으로 내 샘플을 뒤지는\n오픈소스 도구 Reflector",
-  "body": "새 소리를 만드는 대신, 내가 이미 가진 라이브러리에서 어울리는 샘플을 찾아준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "和声搜索样本\n开源工具Reflector",
+  "body": "它不会生成新声音，而是从你已经拥有的素材库里，找出合适的样本。",
+  "lang": "zh"
  },
  {
   "id": "music-provenance-recipe",
@@ -23770,10 +23071,9 @@
   "date": "2026-08-10",
   "section": "music",
   "has_full": true,
-  "headline": "AI 탐지 대신 세션에서\n출처를 남기자는 제안",
-  "body": "TIDAL이 AI 표기로 로열티를 가르는 지금, 크레딧은 작업 중에 남아야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不靠AI检测\n录制时留出处",
+  "body": "TIDAL如今按AI标注划分版税，署名应在制作过程中就留下。",
+  "lang": "zh"
  },
  {
   "id": "music-dreamtonics-tease",
@@ -23786,10 +23086,9 @@
   "date": "2026-08-10",
   "section": "music",
   "has_full": true,
-  "headline": "인간의 뉘앙스는 스위치가 아니다\nDreamtonics가 남긴 한 줄",
-  "body": "Synthesizer V를 만든 팀이 새 제품을 예고하면서 이 한 줄만 남겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "人类的微妙感\n不是一个开关",
+  "body": "打造Synthesizer V的团队预告新品时，只留下了这一句话。",
+  "lang": "zh"
  },
  {
   "id": "music-bangalter-ai",
@@ -23802,10 +23101,9 @@
   "date": "2026-08-10",
   "section": "music",
   "has_full": true,
-  "headline": "AI의 창작 활용엔 관심 없다는\n다프트 펑크의 뱅갈테르",
-  "body": "그의 창작은 말로 표현되지 않는 층에서 일어나는데, AI는 프롬프트를 요구한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "班加尔特称\n对AI创作无兴趣",
+  "body": "他的创作，发生在言语无法表达的层面，而AI却需要明确的提示词。",
+  "lang": "zh"
  },
  {
   "id": "movies-wb-ai-dog-podcast",
@@ -23818,10 +23116,9 @@
   "date": "2026-08-10",
   "section": "movies",
   "has_full": true,
-  "headline": "워너브러더스, 신작 홍보 영상에\nAI 강아지 팟캐스트를 내세웠다",
-  "body": "AI 골든리트리버가 진행하는 90초 팟캐스트가 워너의 공식 홍보물로 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "华纳新片宣传片\n搬出AI狗播客",
+  "body": "由一只AI金毛犬主持的90秒播客，成为了华纳官方的宣传物料。",
+  "lang": "zh"
  },
  {
   "id": "movies-roku-fairground",
@@ -23834,10 +23131,9 @@
   "date": "2026-08-10",
   "section": "movies",
   "has_full": true,
-  "headline": "로쿠가 종일 AI 영상만 트는\n무료 채널 페어그라운드를 열었다",
-  "body": "한 시간을 지켜본 결과, 채널을 채운 건 텍스트-투-비디오 특유의 슬롭이었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Roku开设AI视频\n免费频道Fairground",
+  "body": "看了整整一个小时后，频道里满是文本转视频特有的粗制滥造内容。",
+  "lang": "zh"
  },
  {
   "id": "movies-asphalt-guerrilla",
@@ -23850,10 +23146,9 @@
   "date": "2026-08-10",
   "section": "movies",
   "has_full": true,
-  "headline": "에드가르 페라가 AI 이미지로\nAI의 위험을 정면으로 겨눈다",
-  "body": "실제 역사와 허구, AI 이미지를 섞은 신작이 로카르노에서 처음 공개된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "佩拉用AI图像\n直面AI的风险",
+  "body": "一部混合了真实历史、虚构与AI图像的新作，将在洛迦诺首次公开亮相。",
+  "lang": "zh"
  },
  {
   "id": "movies-araki-post-ai",
@@ -23866,10 +23161,9 @@
   "date": "2026-08-10",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 회의론자 그렉 아라키가\n후반 작업 한 대목에서 손을 빌렸다",
-  "body": "고속도로 옆에서 찍은 미니골프 장면이 후반 도구를 거치자 귀뚜라미 소리만 남았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI怀疑论者格雷格·阿拉基\n后期制作借了一把手",
+  "body": "在高速公路旁拍摄的迷你高尔夫场景经过后期工具处理后，只留下了蟋蟀的声音。",
+  "lang": "zh"
  },
  {
   "id": "movies-ae-ai-assistant",
@@ -23882,10 +23176,9 @@
   "date": "2026-08-10",
   "section": "movies",
   "has_full": true,
-  "headline": "애프터이펙트 AI 어시스턴트\n프로젝트 전체를 읽기 시작했다",
-  "body": "공개 베타에 들어간 어시스턴트가 프로젝트를 통째로 읽고 파일을 정리하고 표현식까지 써 준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AE AI助手\n开始读全项目",
+  "body": "进入公测的助手能读懂整个项目,整理文件还能写表达式脚本。",
+  "lang": "zh"
  },
  {
   "id": "games-world-apart",
@@ -23898,9 +23191,9 @@
   "date": "2026-08-10",
   "section": "games",
   "has_full": true,
-  "headline": "NPC 대사를 미리 쓰지 않는\nByteDance의 새 RPG",
-  "body": "정해진 대사를 읽는 대신 NPC가 맥락을 해석해 즉석에서 말을 만든다는 구상이다.",
-  "lang": "ko",
+  "headline": "ByteDance's New RPG Skips\nPre-Written NPC Lines",
+  "body": "Instead of reading fixed lines, NPCs are meant to interpret context and generate speech on the spot.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -23914,10 +23207,9 @@
   "date": "2026-08-10",
   "section": "games",
   "has_full": true,
-  "headline": "AI 뮤직비디오 해명에 나선\nShift Up 대표, 역풍만 키웠다",
-  "body": "AI는 팀이 손으로 만든 Evie를 옮겼을 뿐이라는 해명에도 팬들은 더 싸늘해졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Shift Up CEO\n解释AI反遭炮轰",
+  "body": "称AI只是让团队手绘的Evie动了起来,粉丝反而更冷淡。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-wacom-movinkpad-11",
@@ -23930,9 +23222,9 @@
   "date": "2026-08-10",
   "section": "gadgets",
   "has_full": true,
-  "headline": "PC에 묶이지 않는 와콤 슬레이트,\n500달러에서 시작한다",
-  "body": "와콤 무빙크패드 11은 500달러짜리 안드로이드 슬레이트로 PC 없이 혼자 그림을 그린다.",
-  "lang": "ko",
+  "headline": "A Wacom Slate Free of a PC\nStarts at $500",
+  "body": "The Wacom Movinkpad 11 is a $500 Android slate that draws on its own, no PC required.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -23946,9 +23238,9 @@
   "date": "2026-08-10",
   "section": "gadgets",
   "has_full": true,
-  "headline": "라이젠 AI 이름을 뗀 신형 칩,\nNPU가 통째로 빠졌다",
-  "body": "AMD가 내놓은 라이젠 5 439와 라이젠 7 449는 형제 칩과 달리 NPU를 아예 달지 않았다.",
-  "lang": "ko",
+  "headline": "New Chips Drop Ryzen AI Name\nthe NPU Is Gone Entirely",
+  "body": "AMD's new Ryzen 5 439 and Ryzen 7 449 ship with no NPU at all, unlike their sibling chips.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -23962,10 +23254,9 @@
   "date": "2026-08-10",
   "section": "gadgets",
   "has_full": true,
-  "headline": "700달러 AI 반려로봇,\n구독이 끊기면 눈을 감는다",
-  "body": "스위치봇 카타 프렌즈는 700달러를 내고도 구독을 멈추면 아무 반응도 하지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "700美元AI宠\n停订就闭眼",
+  "body": "SwitchBot Kata Friends花700美元,停订后也一动不动。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-gemini-home-storytime",
@@ -23978,10 +23269,9 @@
   "date": "2026-08-10",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이가 아이 이야기를 짓고\n타이머 말귀도 알아듣는다",
-  "body": "구글이 제미나이 포 홈에 즉석 이야기 기능을 넣고 알람과 타이머 알아듣는 능력을 손봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gemini讲童话\n也懂定时器",
+  "body": "谷歌给Gemini for Home加入即兴讲故事功能,并改进了对闹钟和定时器的理解。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-apple-watch-rethink",
@@ -23994,10 +23284,9 @@
   "date": "2026-08-10",
   "section": "gadgets",
   "has_full": true,
-  "headline": "애플워치를 처음부터 다시,\n원형 화면과 화면 없는 밴드까지",
-  "body": "거먼은 애플이 원형 화면과 화면 없는 트래커까지 놓고 애플워치 라인업을 다시 짜는 중이라고 전했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "苹果手表推倒重练\n圆屏无屏手环都考虑",
+  "body": "古尔曼称苹果正重新规划苹果手表,圆屏和无屏追踪器都在考虑。",
+  "lang": "zh"
  },
  {
   "id": "design-vr-mech-modeler",
@@ -24010,10 +23299,9 @@
   "date": "2026-08-10",
   "section": "design",
   "has_full": true,
-  "headline": "헤드셋 안에서 메카를 깎고\nKeyShot으로 마무리한다",
-  "body": "Gnomon Workshop이 VR로 메카를 조각하는 30분 무료 강의를 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "头显里雕机甲\nKeyShot收尾",
+  "body": "Gnomon Workshop推出VR雕刻机甲的30分钟免费课程。",
+  "lang": "zh"
  },
  {
   "id": "design-process-proof",
@@ -24026,10 +23314,9 @@
   "date": "2026-08-10",
   "section": "design",
   "has_full": true,
-  "headline": "사람이 만들었다는 말로는\n이제 아무도 설득하지 못한다",
-  "body": "스퀘어에닉스 표지 논란 뒤, 스케치와 버전 기록이 사람 손을 증명할 근거가 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "说是人做的\n已没人信了",
+  "body": "史克威尔艾尼克斯封面争议后,草图和版本记录成了人手的证据。",
+  "lang": "zh"
  },
  {
   "id": "design-gpt-live-voice",
@@ -24042,10 +23329,9 @@
   "date": "2026-08-10",
   "section": "design",
   "has_full": true,
-  "headline": "듣는 동시에 말하는 GPT-Live,\n음성 대화에서 차례가 사라졌다",
-  "body": "듣기와 말하기를 동시에 하는 GPT-Live가 ChatGPT 음성 기본값이 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "能听能说GPT-Live\n语音对话无轮次",
+  "body": "能同时听说的GPT-Live成为ChatGPT语音的默认模式。",
+  "lang": "zh"
  },
  {
   "id": "design-cybernetic-app",
@@ -24058,10 +23344,9 @@
   "date": "2026-08-10",
   "section": "design",
   "has_full": true,
-  "headline": "앱을 화면 묶음이 아니라\n살아남는 시스템으로 본다",
-  "body": "스태퍼드 비어의 생존 가능 시스템 모델로 글쓰기 앱의 인터페이스를 다시 짠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "应用不是界面\n是会存活的系统",
+  "body": "用斯塔福德·比尔的生存系统模型,重新设计写作应用的界面。",
+  "lang": "zh"
  },
  {
   "id": "design-baseline-audit",
@@ -24074,10 +23359,9 @@
   "date": "2026-08-10",
   "section": "design",
   "has_full": true,
-  "headline": "브라우저가 이미 하는 일을\n라이브러리가 아직 대신한다",
-  "body": "의존성을 Baseline 기준으로 훑으면 gzip 60~90KB가 빠진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "浏览器早会的\n库还在代劳",
+  "body": "按Baseline标准梳理依赖,可省下60到90KB的gzip体积。",
+  "lang": "zh"
  },
  {
   "id": "books-novel-to-ai-film",
@@ -24090,10 +23374,9 @@
   "date": "2026-08-10",
   "section": "books",
   "has_full": true,
-  "headline": "소설 한 챕터를 AI 영화로\n무엇이 되고 무엇이 깨졌나",
-  "body": "산문을 비트와 숏으로 쪼개고 비주얼 바이블을 먼저 세워야 캐릭터가 흔들리지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "小说一章变AI电影\n哪些成了哪些崩了",
+  "body": "先把散文拆成节拍和镜头,再立好视觉圣经,角色才不会动摇。",
+  "lang": "zh"
  },
  {
   "id": "books-bisg-ai-agenda",
@@ -24106,10 +23389,9 @@
   "date": "2026-08-10",
   "section": "books",
   "has_full": true,
-  "headline": "BISG 새 수장이 꼽은 1순위는 AI",
-  "body": "만나는 회원마다 AI를 먼저 꺼냈고 벨란은 북넷캐나다와 2차 설문을 돌린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "BISG新任掌门\n首选议题是AI",
+  "body": "每位会员见面都先提AI,贝兰正与BookNet Canada进行第二轮调查。",
+  "lang": "zh"
  },
  {
   "id": "books-asian-publishers-week-seoul",
@@ -24122,10 +23404,9 @@
   "date": "2026-08-10",
   "section": "books",
   "has_full": true,
-  "headline": "AI 시대의 출판, 11월 서울에서 묻는다",
-  "body": "한국출판인회의가 11월 서울 행사 참가 신청을 8월 17일까지 받는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI时代出版\n11月首尔问路",
+  "body": "韩国出版人协会将11月首尔活动的报名截止延至8月17日。",
+  "lang": "zh"
  },
  {
   "id": "science-ramanomics",
@@ -24138,10 +23419,9 @@
   "date": "2026-08-09",
   "section": "science",
   "has_full": true,
-  "headline": "염색 없이도 살아 있는 세포 속을\n라만 분광과 신경망이 읽어낸다",
-  "body": "염색 없이 라만 분광과 신경망만 써서 세포 속 소기관을 90% 정확도로 가려냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需染色也能\nAI读懂活细胞",
+  "body": "不染色，只用拉曼光谱和神经网络，就以90%准确率辨出细胞内的细胞器。",
+  "lang": "zh"
  },
  {
   "id": "science-kaist-memtransistor",
@@ -24154,10 +23434,9 @@
   "date": "2026-08-09",
   "section": "science",
   "has_full": true,
-  "headline": "KAIST가 만든 소자는 들어오는\n데이터 속도에 맞춰 반응을 바꾼다",
-  "body": "반응 속도를 스스로 바꾸는 소자로 시계열 예측 오차가 최대 40분의 1로 줄었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "KAIST新器件\n随数据速度而变",
+  "body": "能自我调整反应速度的器件，让时间序列预测误差最多降至1/40。",
+  "lang": "zh"
  },
  {
   "id": "science-claude-jamming",
@@ -24170,10 +23449,9 @@
   "date": "2026-08-09",
   "section": "science",
   "has_full": true,
-  "headline": "10년 묵은 재밍 전이 난제를\n노벨상 수상자와 클로드가 풀었다",
-  "body": "10년 동안 막혀 있던 재밍 전이 난제를 물리학자 두 사람이 클로드와 함께 풀었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "十年堵塞难题\n诺奖者攻克",
+  "body": "两位物理学家与Claude合力，解开了堵塞不动了10年的难题。",
+  "lang": "zh"
  },
  {
   "id": "science-capuchinai",
@@ -24186,10 +23464,9 @@
   "date": "2026-08-09",
   "section": "science",
   "has_full": true,
-  "headline": "야생 카푸친원숭이 인지 실험이\n실험실을 나와 숲으로 갔다",
-  "body": "얼굴 인식에 터치스크린을 붙인 장비가 야생 카푸친원숭이를 97% 정확도로 알아봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "野生卷尾猴\n认知实验进森林",
+  "body": "一套面部识别加触屏的设备，能以97%的准确率识别野生卷尾猴。",
+  "lang": "zh"
  },
  {
   "id": "science-alphafold-team",
@@ -24202,9 +23479,9 @@
   "date": "2026-08-09",
   "section": "science",
   "has_full": true,
-  "headline": "구글 딥마인드가 8년 만에\n알파폴드 전담 팀을 접었다",
-  "body": "8년과 2억 건의 예측, 노벨상을 남긴 채 구글 딥마인드가 알파폴드 팀을 해체했다.",
-  "lang": "ko",
+  "headline": "Google DeepMind Disbands Its\nAlphaFold Team After 8 Years",
+  "body": "After eight years, over 200 million predictions, and a Nobel Prize, Google DeepMind disbanded the AlphaFold team.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -24218,10 +23495,9 @@
   "date": "2026-08-09",
   "section": "music",
   "has_full": true,
-  "headline": "30년 동안 써둔 가사를 처음\n노래로 들은 사람의 기록",
-  "body": "30년치 가사를 Suno로 노래로 옮기자 협업이 붙었고 재생은 20만 회에 닿았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "三十年的歌词\n终于第一次听见",
+  "body": "三十年的歌词借Suno变成歌曲，合作随之而来，播放量逼近20万次。",
+  "lang": "zh"
  },
  {
   "id": "music-mixvault",
@@ -24234,10 +23510,9 @@
   "date": "2026-08-09",
   "section": "music",
   "has_full": true,
-  "headline": "오디오를 분석해 EQ 출발점부터\n짚어주는 MIXVAULT",
-  "body": "소스별로 EQ 출발점을 뽑아주고 레벨을 맞춘 채 톤 방향을 견줘보게 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "解析音频锁定\nEQ起点MIXVAULT",
+  "body": "它按不同声源给出EQ起点，在锁定电平的同时比较音色走向。",
+  "lang": "zh"
  },
  {
   "id": "music-midia-hit",
@@ -24266,10 +23541,9 @@
   "date": "2026-08-09",
   "section": "music",
   "has_full": true,
-  "headline": "AI는 아주 똑똑한 기타 페달일 뿐\n루크 스틸은 그렇게 말한다",
-  "body": "AI를 스튜디오 이펙트 체인의 한 칸으로 쓰고 거부하는 쪽이 삼켜진다고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI只是智能踏板\n卢克·斯蒂尔说",
+  "body": "他说把AI当作录音室效果链里的一环，拒绝AI的人终将被吞噬。",
+  "lang": "zh"
  },
  {
   "id": "music-iamchoir",
@@ -24282,10 +23556,9 @@
   "date": "2026-08-09",
   "section": "music",
   "has_full": true,
-  "headline": "목소리 하나를 합창단으로 바꾸는\nAI 보컬 플러그인 I Am Choir",
-  "body": "동의와 보상을 거친 세션 싱어 목소리로 배운 덕에 보컬 한 트랙이 합창이 된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一人声变合唱团\nAI人声插件登场",
+  "body": "基于获得同意并付费的录音歌手声音训练，I Am Choir能把一条人声变成合唱。",
+  "lang": "zh"
  },
  {
   "id": "movies-xai-video-test",
@@ -24298,10 +23571,9 @@
   "date": "2026-08-09",
   "section": "movies",
   "has_full": true,
-  "headline": "xAI의 새 영상 툴, 편집을\n버텨내는지 직접 돌려봤다",
-  "body": "xAI의 새 영상 툴을 샷 제어와 일관성 기준으로 지금 선두 모델과 하나씩 견줬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "xAI新视频工具\n能否扛住剪辑",
+  "body": "我们用镜头控制和一致性标准，把xAI新视频工具与当下领先模型逐一比较。",
+  "lang": "zh"
  },
  {
   "id": "movies-mzed-ai-masking",
@@ -24314,9 +23586,9 @@
   "date": "2026-08-09",
   "section": "movies",
   "has_full": true,
-  "headline": "프리미어 네이티브 AI 마스킹에\n리졸브의 겹친 연기까지 붙었다",
-  "body": "프리미어의 네이티브 AI 객체 마스킹과 리졸브의 겹친 연기 다루는 법이 강의에 새로 붙었다.",
-  "lang": "ko",
+  "headline": "Native AI Masking in Premiere\nGets Resolve's Overlap Tricks",
+  "body": "A course added lessons on Premiere's native AI object masking and Resolve's way of handling overlapping performances.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -24330,10 +23602,9 @@
   "date": "2026-08-09",
   "section": "movies",
   "has_full": true,
-  "headline": "히그스필드, N3on과 UFC 선수\nAI 아바타 초상권 계약을 맺다",
-  "body": "히그스필드가 N3on과 UFC 아데산야·잭슨을 두고 AI 아바타 초상권 계약을 맺었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Higgsfield与\nN3on及UFC选手签约",
+  "body": "Higgsfield与N3on及UFC选手阿德萨尼亚、杰克逊签署AI头像肖像权协议。",
+  "lang": "zh"
  },
  {
   "id": "movies-google-flow-sessions",
@@ -24362,10 +23633,9 @@
   "date": "2026-08-09",
   "section": "movies",
   "has_full": true,
-  "headline": "BAFTA TV 어워즈, 출품작에\n쓴 생성형 AI를 캐묻는다",
-  "body": "출품 규정에 AI 조항이 붙어 제작진은 생성형 AI를 어디에 썼는지 밝혀야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "BAFTA电视奖\n追问生成AI用途",
+  "body": "报名细则新增AI条款，制作方须说明生成AI的具体使用情况。",
+  "lang": "zh"
  },
  {
   "id": "games-qa-agent",
@@ -24378,10 +23648,9 @@
   "date": "2026-08-09",
   "section": "games",
   "has_full": true,
-  "headline": "스퀘어에닉스, 개발 중 빌드를\n직접 플레이하는 QA 에이전트",
-  "body": "구글과 손잡고 만든 제미나이 QA 에이전트가 개발 빌드를 직접 플레이하며 분석한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Square Enix自测\nQA智能体玩内测版",
+  "body": "与Google合作的Gemini QA智能体亲自试玩开发中版本并分析。",
+  "lang": "zh"
  },
  {
   "id": "games-pssr2",
@@ -24394,10 +23663,9 @@
   "date": "2026-08-09",
   "section": "games",
   "has_full": true,
-  "headline": "PS5 프로, 이제 모든 게임에\n신경망 업스케일 기본 적용",
-  "body": "베타 업데이트가 화질 향상 옵션을 기본으로 켜면서 패치 없는 구작까지 업스케일한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "PS5 Pro全游戏\n默认神经网络超采样",
+  "body": "测试版更新默认开启画质增强，连未更新的老游戏也能超采样。",
+  "lang": "zh"
  },
  {
   "id": "games-motion-imitation",
@@ -24410,10 +23678,9 @@
   "date": "2026-08-09",
   "section": "games",
   "has_full": true,
-  "headline": "동작만 따라 해서는\n캐릭터가 그럴듯해지지 않는다",
-  "body": "모션 모방만으로는 모자라고 사람이 개입한 학습이 더 그럴듯한 움직임을 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "光靠模仿动作\n角色不会逼真",
+  "body": "单纯模仿动作还远远不够，让人介入的训练才能让动作更逼真。",
+  "lang": "zh"
  },
  {
   "id": "games-axolotl3d",
@@ -24426,10 +23693,9 @@
   "date": "2026-08-09",
   "section": "games",
   "has_full": true,
-  "headline": "가려지고 깨진 3D 형상,\n모델 하나가 통째로 복원한다",
-  "body": "멀티뷰 이미지든 포인트 클라우드든 부분 입력만 있으면 가려진 3D 형상을 채운다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "残缺破损的3D\n一个模型全修复",
+  "body": "无论多视角图像还是点云，有局部输入就能补全被遮挡的3D形状。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-memomind-one",
@@ -24442,10 +23708,9 @@
   "date": "2026-08-09",
   "section": "gadgets",
   "has_full": true,
-  "headline": "카메라를 뺀 글라스가\n킥스타터에서 100만 달러를 넘겼다",
-  "body": "카메라를 뺀 메모마인드 원이 20일 남기고 킥스타터에서 100만 달러를 넘겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无摄像头眼镜\n众筹破100万美元",
+  "body": "去掉摄像头的Memomind One还剩20天就在Kickstarter上破了100万美元。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-local-llm-phone-agent",
@@ -24474,10 +23739,9 @@
   "date": "2026-08-09",
   "section": "gadgets",
   "has_full": true,
-  "headline": "카메라 스마트 글라스 규제가\nEU·미국·한국에서 한꺼번에 조인다",
-  "body": "EU는 보고서를 준비하고 미국 법정은 착용을 막았고 한국은 시험장 반입을 제한했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "摄像头眼镜监管\nEU美韩同步收紧",
+  "body": "欧盟正在准备报告，美国法庭已经禁止佩戴，韩国限制带入考场。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-conduit-brain-data",
@@ -24506,10 +23770,9 @@
   "date": "2026-08-09",
   "section": "gadgets",
   "has_full": true,
-  "headline": "애플이 준비 중인 울트라 3종,\n에어팟에 적외선 눈이 달린다",
-  "body": "적외선 카메라가 달린 에어팟 울트라를 비롯해 울트라 3종이 내년 초까지 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "苹果三款Ultra\nAirPods装红外眼",
+  "body": "包括配红外摄像头的AirPods Ultra，三款Ultra明年初前登场。",
+  "lang": "zh"
  },
  {
   "id": "design-token-extractor",
@@ -24522,10 +23785,9 @@
   "date": "2026-08-09",
   "section": "design",
   "has_full": true,
-  "headline": "남의 사이트 디자인 토큰을\n클릭 한 번에 통째로 뽑다",
-  "body": "DevTools로 읽던 타이포·색·간격 스케일을 크롬 확장이 한 번에 뽑아낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "别人网站的设计\n令牌，一键提取",
+  "body": "Chrome扩展一次性提取原本靠DevTools读取的字体、色彩与间距。",
+  "lang": "zh"
  },
  {
   "id": "design-photoshop-2791",
@@ -24538,10 +23800,9 @@
   "date": "2026-08-09",
   "section": "design",
   "has_full": true,
-  "headline": "포토샵 AI 도구가 패널을 나와\n기본 툴바에 자리 잡았다",
-  "body": "Remove 툴이 컨텍스트 표시줄에 붙고 생성 이미지에 프롬프트 힌트가 생겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "PS的AI工具走出\n面板，入驻工具栏",
+  "body": "Remove工具移入上下文栏，生成图像新增了提示词提示。",
+  "lang": "zh"
  },
  {
   "id": "design-makera-studio",
@@ -24554,10 +23815,9 @@
   "date": "2026-08-09",
   "section": "design",
   "has_full": true,
-  "headline": "CAM부터 기계 제어까지\n데스크톱 CNC를 한자리에",
-  "body": "CAM과 시뮬레이션, 모바일 제어를 한데 묶어 CAD 파일에서 절삭까지 잇는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "从CAM到机器控制\n桌面CNC一站搞定",
+  "body": "把CAM、仿真和移动控制整合在一起，让CAD文件直通切削环节。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-copy-paste",
@@ -24570,10 +23830,9 @@
   "date": "2026-08-09",
   "section": "design",
   "has_full": true,
-  "headline": "가장 많이 쓰는 복사·붙여넣기를\n피그마가 다시 뜯어본 이유",
-  "body": "복사·붙여넣기를 빠르게 만든 과정을 풀어놓으며 체감 품질이 지연 문제임을 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "最常用的复制粘贴\nFigma为何重新拆解",
+  "body": "讲述如何让复制粘贴变得更快，并指出体感质量取决于延迟处理。",
+  "lang": "zh"
  },
  {
   "id": "design-agent-ui-mcp",
@@ -24586,10 +23845,9 @@
   "date": "2026-08-09",
   "section": "design",
   "has_full": true,
-  "headline": "에이전트가 뽑아낸 밋밋한 UI,\nMCP 검사 항목으로 잡는다",
-  "body": "에이전트 UI의 완성도를 취향 대신 MCP가 검사하는 요건으로 못 박았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "智能体做出的平庸UI\n靠MCP检查项揪出",
+  "body": "用MCP检查项取代主观审美，为智能体UI的完成度定了标准。",
+  "lang": "zh"
  },
  {
   "id": "books-prowritingmethod-news",
@@ -24602,10 +23860,9 @@
   "date": "2026-08-09",
   "section": "books",
   "has_full": true,
-  "headline": "프로라이팅에이드, 새 편집 체계\n프로라이팅메소드를 내놓다",
-  "body": "프로라이팅에이드가 새 편집 체계를 냈고 애플북스와 룰루도 손볼 곳을 알렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ProWritingAid\n推新编辑体系",
+  "body": "ProWritingAid推出新体系，AppleBooks和Lulu也公布了变更。",
+  "lang": "zh"
  },
  {
   "id": "books-eu-ai-act-disclosure",
@@ -24617,10 +23874,9 @@
   "date": "2026-08-09",
   "section": "books",
   "has_full": true,
-  "headline": "실제와 헷갈릴 만한 AI 생성물\nEU에선 표시가 의무다",
-  "body": "EU에 AI 쓴 책을 팔 거라면 표시와 고지는 예의가 아니라 준수 사항이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "易被误认\nAI生成欧盟强制标",
+  "body": "若要在欧盟卖AI写的书，标注和披露不是礼貌，而是合规要求。",
+  "lang": "zh"
  },
  {
   "id": "books-claude-30day-book",
@@ -24633,10 +23889,9 @@
   "date": "2026-08-09",
   "section": "books",
   "has_full": true,
-  "headline": "클로드와 30일, 논픽션 한 권을 끝냈다",
-  "body": "스콧 앨런은 집필도 편집도 클로드에 맡겼지만 사람이 손보는 단계는 남겨뒀다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "与Claude\n30天写完书",
+  "body": "斯科特·艾伦把写作和编辑都交给Claude，但保留了人工打磨环节。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-text-tells",
@@ -24649,10 +23904,9 @@
   "date": "2026-08-09",
   "section": "books",
   "has_full": true,
-  "headline": "AI 티가 나는 일곱 가지 문장 습관",
-  "body": "기계가 쓴 티를 내는 습관 일곱 가지를 짚고 문장마다 고칠 자리를 알려준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI味文风\n七个坏习惯",
+  "body": "文章指出让文字显得像机器写的七个习惯，并逐句给出修改建议。",
+  "lang": "zh"
  },
  {
   "id": "science-generative-species-contaminate-inaturalist",
@@ -24665,10 +23919,9 @@
   "date": "2026-08-08",
   "section": "science",
   "has_full": true,
-  "headline": "존재하지 않는 생물 사진이\n생물다양성 기록을 오염시킨다",
-  "body": "생성형 AI가 지어낸 가짜 종 이미지가 iNaturalist 같은 시민과학 데이터베이스로 흘러들고 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不存在的生物\n污染生物多样性记录",
+  "body": "生成式AI编造的假物种图像正流入iNaturalist等公民科学数据库。",
+  "lang": "zh"
  },
  {
   "id": "science-claude-novel-cryptanalysis",
@@ -24681,10 +23934,9 @@
   "date": "2026-08-08",
   "section": "science",
   "has_full": true,
-  "headline": "클로드가 AES 축소판에서\n새 공격 기법을 찾아냈다",
-  "body": "Anthropic은 Claude가 7라운드 AES와 양자내성 서명 HAWK에서 새 암호분석 기법을 만들어냈다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Claude在AES\n缩小版找新攻击",
+  "body": "Anthropic称Claude为7轮AES和抗量子签名HAWK找出了新密码分析手法。",
+  "lang": "zh"
  },
  {
   "id": "science-argonne-agent-atomistic-sim",
@@ -24697,10 +23949,9 @@
   "date": "2026-08-08",
   "section": "science",
   "has_full": true,
-  "headline": "원자 단위 시뮬레이션을\nAI 에이전트가 통째로 돌린다",
-  "body": "아르곤 국립연구소가 원자 단위 시뮬레이션을 처음부터 끝까지 대신 수행하는 다중 에이전트 틀을 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI智能体\n全程跑原子模拟",
+  "body": "阿贡国家实验室公布了从头到尾代做原子级模拟的多智能体框架。",
+  "lang": "zh"
  },
  {
   "id": "science-ai-hierarchy-safety-compliance",
@@ -24713,10 +23964,9 @@
   "date": "2026-08-08",
   "section": "science",
   "has_full": true,
-  "headline": "누가 시키느냐에 따라\nAI의 거절 기준이 흔들린다",
-  "body": "지위가 낮게 설정된 AI 에이전트일수록 상급자 역할이 던진 유해한 요청을 더 잘 따랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "听谁指挥\nAI拒绝标准摇摆",
+  "body": "设定级别越低的AI智能体，越容易服从上级角色提出的有害请求。",
+  "lang": "zh"
  },
  {
   "id": "science-ai-designed-phage-genome",
@@ -24729,9 +23979,9 @@
   "date": "2026-08-08",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 설계한 바이러스 16종이\n내성균을 실제로 죽였다",
-  "body": "스탠퍼드대와 Arc Institute가 언어모델로 만든 파지 유전체 16개가 항생제 내성 대장균을 죽였다.",
-  "lang": "ko",
+  "headline": "16 AI-designed viruses\nactually killed resistant bugs",
+  "body": "Stanford and the Arc Institute used a language model to build 16 phage genomes that killed antibiotic-resistant E. coli.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -24745,10 +23995,9 @@
   "date": "2026-08-08",
   "section": "music",
   "has_full": true,
-  "headline": "스포티파이가 1년간 걷어낸\nAI 슬롭 트랙 7,500만 개",
-  "body": "스포티파이가 지난 1년간 AI 스팸 트랙 7,500만 개를 걷어냈다고 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Spotify一年清除\n7500万条AI垃圾曲",
+  "body": "Spotify表示过去一年已清除7500万条AI垃圾曲。",
+  "lang": "zh"
  },
  {
   "id": "music-deadmau5-autopilot",
@@ -24761,10 +24010,9 @@
   "date": "2026-08-08",
   "section": "music",
   "has_full": true,
-  "headline": "deadmau5의 AUTO/PILOT\n퍼블릭 베타가 열렸다",
-  "body": "deadmau5의 DJ·라이브 툴 AUTO/PILOT이 퍼블릭 베타로 풀렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "deadmau5的\nAUTO/PILOT测试版",
+  "body": "deadmau5的DJ兼现场工具AUTO/PILOT开放公测。",
+  "lang": "zh"
  },
  {
   "id": "movies-siggraph-2026",
@@ -24777,9 +24025,9 @@
   "date": "2026-08-08",
   "section": "movies",
   "has_full": true,
-  "headline": "시그래프 2026, 전시장은 줄고\n무게추는 세션으로 옮겨갔다",
-  "body": "69개국 9,500명이 모였지만 화제는 부스가 아니라 AI 세션이었다.",
-  "lang": "ko",
+  "headline": "SIGGRAPH 2026's show floor\nshrinks, weight shifts to talks",
+  "body": "SIGGRAPH 2026 drew 9,500 people from 69 countries, but the talk was about AI sessions, not booths.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -24793,9 +24041,9 @@
   "date": "2026-08-08",
   "section": "movies",
   "has_full": true,
-  "headline": "런웨이에 시드댄스 2.5,\n30초 한 컷 생성이 열렸다",
-  "body": "런웨이 안에서 최대 50개 레퍼런스로 30초 단일 샷을 소리까지 붙여 만든다.",
-  "lang": "ko",
+  "headline": "Runway adds Seedance 2.5,\nenabling 30-second single shots",
+  "body": "Inside Runway, up to 50 references now generate a single 30-second shot complete with sound.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -24809,10 +24057,9 @@
   "date": "2026-08-08",
   "section": "movies",
   "has_full": true,
-  "headline": "중국 미니맥스 H3로 만든\n짝퉁 '오피스'가 퍼진다",
-  "body": "디즈니·유니버설·워너의 소송 중에도 H3가 만든 무단 클립이 확산된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "中国MiniMax H3\n仿冒《办公室》疯传",
+  "body": "迪士尼、环球、华纳诉讼未了，H3制作的未授权片段仍在扩散。",
+  "lang": "zh"
  },
  {
   "id": "movies-eli-roth-ai",
@@ -24825,10 +24072,9 @@
   "date": "2026-08-08",
   "section": "movies",
   "has_full": true,
-  "headline": "일라이 로스, '아이스크림 맨'\n생성 AI 사용을 뒤늦게 인정",
-  "body": "손으로 그렸다던 애니메이션 장면에 생성 AI를 썼다고 로스가 정정했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "伊莱·罗斯\n迟来承认用生成AI",
+  "body": "罗斯更正说法，称《冰淇淋人》中被称为手绘的动画场景其实使用了生成AI。",
+  "lang": "zh"
  },
  {
   "id": "movies-autodesk-flow",
@@ -24841,10 +24087,9 @@
   "date": "2026-08-08",
   "section": "movies",
   "has_full": true,
-  "headline": "오토데스크 플로우 스튜디오,\n생성 컷을 3D에서 연출한다",
-  "body": "3D 에디터에서 인물과 카메라를 직접 배치하면 AI가 최종 렌더링을 맡는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Flow Studio\n在3D里导演生成镜头",
+  "body": "在3D编辑器里直接摆放人物和镜头位置，AI负责最终渲染。",
+  "lang": "zh"
  },
  {
   "id": "games-modding-ai",
@@ -24857,10 +24102,9 @@
   "date": "2026-08-08",
   "section": "games",
   "has_full": true,
-  "headline": "스카이림 모드에 스며든 AI,\n넥서스는 태그를 셋으로 쪼갰다",
-  "body": "넥서스가 AI 태그를 셋으로 쪼갰지만 1년 18만 모드 중 표시된 건 6654개다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI渗入天际MOD\nNexus标签一分三",
+  "body": "Nexus把AI标签拆成三种，但一年18万模组里只有6654个标了。",
+  "lang": "zh"
  },
  {
   "id": "games-localization",
@@ -24873,10 +24117,9 @@
   "date": "2026-08-08",
   "section": "games",
   "has_full": true,
-  "headline": "생성 AI로 대체된다는 말,\n로컬라이저 셋이 반박했다",
-  "body": "게임 로컬라이저 셋이 크레딧 누락과 크런치를 짚으며 생성 AI 대체론을 반박한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "称将被生成AI\n取代，三人反驳",
+  "body": "三位游戏本地化人员，拿署名缺失和赶工说事，反驳生成AI取代论。",
+  "lang": "zh"
  },
  {
   "id": "games-gta6-slop",
@@ -24889,9 +24132,9 @@
   "date": "2026-08-08",
   "section": "games",
   "has_full": true,
-  "headline": "트레일러 공백을 채운 건\n조회수 수백만의 AI 가짜였다",
-  "body": "GTA 6 게임플레이 영상이 없는 사이 AI 가짜 영상이 수백만 조회수를 기록했다.",
-  "lang": "ko",
+  "headline": "Fake AI clips with millions\nof views filled the gap",
+  "body": "While GTA 6 had no gameplay footage, fake AI videos racked up millions of views.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -24905,10 +24148,9 @@
   "date": "2026-08-08",
   "section": "games",
   "has_full": true,
-  "headline": "엔비디아, 내려받아 손보는\n월드 모델 코스모스 3 공개",
-  "body": "엔비디아가 코스모스 3를 개방해, 팀이 자체 데이터로 월드 모델을 후학습한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "英伟达开放Cosmos 3\n世界模型可下载改",
+  "body": "英伟达开放Cosmos 3，让团队用自有数据对世界模型做后训练。",
+  "lang": "zh"
  },
  {
   "id": "games-anishort",
@@ -24921,10 +24163,9 @@
   "date": "2026-08-08",
   "section": "games",
   "has_full": true,
-  "headline": "애니쇼트, 각본부터 렌더까지\n브라우저 한 곳에 몰아넣었다",
-  "body": "애니쇼트가 각본과 스토리보드, 캐릭터, 렌더링을 브라우저 한 곳에 묶었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AniShort把剧本\n到渲染装进浏览器",
+  "body": "AniShort把剧本、分镜、角色和渲染都装进了同一个浏览器。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-pixel-ai-lockscreen-clocks",
@@ -24937,10 +24178,9 @@
   "date": "2026-08-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "구글, 픽셀 잠금화면 시계를\nAI로 생성하는 기능 준비",
-  "body": "안드로이드 카나리아 2608에서 프롬프트로 숫자를 그리는 잠금화면 시계가 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌要用AI\n生成锁屏时钟",
+  "body": "Android Canary 2608出现了用提示词画数字的锁屏时钟。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-kids-smartwatch-stalkerware",
@@ -24953,10 +24193,9 @@
   "date": "2026-08-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "아이 지키라는 스마트워치,\n연구진 손에서 스토킹 장비가 됐다",
-  "body": "연구진이 30달러짜리 어린이 워치로 위치 추적과 사진 촬영, 도청까지 몰래 해냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "守护儿童的手表\n成了跟踪工具",
+  "body": "研究人员用30美元的儿童手表悄悄做到了定位、拍照甚至偷听。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-gemma4-offline-translator",
@@ -24969,10 +24208,9 @@
   "date": "2026-08-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "젬마 4를 얹은 라즈베리파이,\n인터넷 없이 통역하는 기계가 됐다",
-  "body": "젬마 4 E4B를 라즈베리파이 5에 올린 구글 통역기는 서버 없이 혼자 돌아간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "搭载Gemma4的\n树莓派变翻译机",
+  "body": "把Gemma 4 E4B装进树莓派5的Google翻译机，不联网也能独立运行。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-gemini-wear-os-overlay",
@@ -24985,10 +24223,9 @@
   "date": "2026-08-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "픽셀 워치 제미나이, 전체 화면 앱을\n버리고 오버레이로 갈아탔다",
-  "body": "제미나이가 워치에서 전체 화면 앱을 접고 폰과 같은 오버레이로 얹힌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "像素手表Gemini\n抛弃全屏换悬浮层",
+  "body": "Gemini在手表上放弃全屏应用，改用和手机一样的悬浮层。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-esp32-tiny-llm",
@@ -25001,10 +24238,9 @@
   "date": "2026-08-08",
   "section": "gadgets",
   "has_full": true,
-  "headline": "10달러 마이크로컨트롤러에서\n초당 10토큰으로 도는 LLM",
-  "body": "2890만 파라미터 모델이 10달러 ESP32-S3에서 초당 9.88토큰을 뱉는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "10美元微控制器上\n每秒10个令牌的LLM",
+  "body": "2890万参数模型在10美元的ESP32-S3上跑出每秒9.88个令牌。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-claude-code-loop",
@@ -25017,10 +24253,9 @@
   "date": "2026-08-08",
   "section": "design",
   "has_full": true,
-  "headline": "Figma와 Claude Code\n루프가 깨지는 지점들",
-  "body": "MCP는 구조 데이터만 줄 뿐 화면은 넘기지 않아 픽셀 완벽은 신화다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "设计联动的\n循环断点在哪",
+  "body": "MCP只给结构数据，不传递画面本身，像素级完全一致只是传说。",
+  "lang": "zh"
  },
  {
   "id": "design-electronauts-vr-ui",
@@ -25033,10 +24268,9 @@
   "date": "2026-08-08",
   "section": "design",
   "has_full": true,
-  "headline": "Electronauts가 보여준\nVR 인터페이스의 기본",
-  "body": "드럼스틱을 버튼에 찔러 넣고 트리거를 당기게 해 VR의 촉각 문제를 풀었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "VR界面设计的\n基础示范一例",
+  "body": "Electronauts让玩家把鼓槌捅进按钮再拉扳机，解决了VR缺乏触感的问题。",
+  "lang": "zh"
  },
  {
   "id": "design-designesy-40-checks",
@@ -25049,10 +24283,9 @@
   "date": "2026-08-08",
   "section": "design",
   "has_full": true,
-  "headline": "40개 검사로 채점한\n웹사이트 30곳의 성적표",
-  "body": "30곳을 40개 검사로 채점하니 평균 62.2점, 60%가 D나 F였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "40项检测打出的\n30个网站成绩单",
+  "body": "用40项检测给30个网站打分，平均62.2分，六成是D或F。",
+  "lang": "zh"
  },
  {
   "id": "design-claude-screen-states",
@@ -25065,10 +24298,9 @@
   "date": "2026-08-08",
   "section": "design",
   "has_full": true,
-  "headline": "Claude가 만든 화면에는\n빈 상태도 오류도 없다",
-  "body": "학습 데이터가 마케팅 화면뿐이라 빈 상태와 로딩, 오류 화면이 늘 빠진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Claude做的界面里\n没有空状态和报错",
+  "body": "训练数据几乎全是营销画面，空状态、加载和报错页面常被漏掉。",
+  "lang": "zh"
  },
  {
   "id": "design-armature-auto-rig",
@@ -25081,10 +24313,9 @@
   "date": "2026-08-08",
   "section": "design",
   "has_full": true,
-  "headline": "무료 오토 리깅 도구\nArmature가 나왔다",
-  "body": "Armature가 캐릭터를 자동 리깅·스키닝해 USD로 내보내고 인디에겐 무료다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "免费自动绑骨\nArmature登场",
+  "body": "Armature自动绑骨蒙皮并导出USD,独立作者免费用。",
+  "lang": "zh"
  },
  {
   "id": "books-substack-pangram-detection",
@@ -25097,10 +24328,9 @@
   "date": "2026-08-08",
   "section": "books",
   "has_full": true,
-  "headline": "서브스택 전면 AI 탐지가\n남긴 오탐과 혼란",
-  "body": "탐지 점수가 기본값으로 글에 붙으면서 오탐을 둘러싼 분쟁이 잇따른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Substack全站AI检测\n误判与混乱",
+  "body": "检测分数开始默认附在文章上后,围绕误判的争议便接连发生。",
+  "lang": "zh"
  },
  {
   "id": "books-peer-review-revolution",
@@ -25113,10 +24343,9 @@
   "date": "2026-08-08",
   "section": "books",
   "has_full": true,
-  "headline": "동료 심사가 무너지는 사이\nAI는 양쪽 책상에 앉았다",
-  "body": "AI 심사 보조는 대형 출판사만 감당할 수 있어 작은 출판사와 격차가 벌어진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "同行评议崩塌\nAI两边都坐",
+  "body": "AI审稿辅助只有大型出版商能负担,与小出版商的差距因此拉大。",
+  "lang": "zh"
  },
  {
   "id": "books-harpercollins-ai-audiobooks",
@@ -25129,10 +24358,9 @@
   "date": "2026-08-08",
   "section": "books",
   "has_full": true,
-  "headline": "하퍼콜린스, AI 내레이션을\n번역판과 백리스트에 건다",
-  "body": "녹음비를 못 뽑던 외국어판과 구간에만 합성 음성을 쓰고 영어판은 성우가 맡는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "哈珀柯林斯押注\nAI配音译本旧作",
+  "body": "过去无法回本的外语版与旧书改用AI配音,英语版仍由真人配音。",
+  "lang": "zh"
  },
  {
   "id": "books-authors-of-colour-ai-suspicion",
@@ -25145,10 +24373,9 @@
   "date": "2026-08-08",
   "section": "books",
   "has_full": true,
-  "headline": "AI 의혹, 유색인종 작가에게\n유독 몰린다는 논쟁",
-  "body": "검증할 방법이 없는 의심이 평판 위험으로 굳어지는데 업계에는 가려줄 절차가 없다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI质疑偏向\n有色人种作家",
+  "body": "这种无法核实的怀疑已固化为声誉风险,而行业缺乏甄别的程序。",
+  "lang": "zh"
  },
  {
   "id": "books-amazon-ai-study",
@@ -25161,10 +24388,9 @@
   "date": "2026-08-08",
   "section": "books",
   "has_full": true,
-  "headline": "자가출판 1만4419권 분석\n네 권 중 한 권 넘게 AI 흔적",
-  "body": "AI 흔적이 나온 책은 덜 팔렸지만 상업적으로 유의미한 매출은 여전히 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "自出版14419册\n四分之一含AI痕迹",
+  "body": "带有AI痕迹的书销量更低,但依然带来了可观的商业销售额。",
+  "lang": "zh"
  },
  {
   "id": "science-weathernext-cyclone",
@@ -25177,9 +24403,9 @@
   "date": "2026-08-07",
   "section": "science",
   "has_full": true,
-  "headline": "딥마인드 WeatherNext가\n사이클론 예보 하루치를 벌었다",
-  "body": "딥마인드 사흘 예보가 기존 모델 이틀치만큼 정확해 예보가 하루 앞당겨졌다.",
-  "lang": "ko",
+  "headline": "DeepMind's WeatherNext just\nbought cyclone forecasts a day",
+  "body": "DeepMind's three-day forecast matched older models' two-day accuracy, pushing forecasts a day earlier.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -25193,10 +24419,9 @@
   "date": "2026-08-07",
   "section": "science",
   "has_full": true,
-  "headline": "치료사의 손을 배운 두 팔 로봇이\n뇌졸중 환자의 재활을 돕는다",
-  "body": "MIT가 물리치료사에게 배워 환자의 힘에 맞춰 보조를 바꾸는 양팔 로봇을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "学治疗师手感\n双臂机器人助康复",
+  "body": "MIT推出向理疗师学习、按患者力量调整辅助的双臂机器人。",
+  "lang": "zh"
  },
  {
   "id": "science-jacobian-counterexample",
@@ -25209,10 +24434,9 @@
   "date": "2026-08-07",
   "section": "science",
   "has_full": true,
-  "headline": "87년 동안 버틴 야코비 추측이\nX 게시글 하나에 담긴 반례에 무너졌다",
-  "body": "알푀게가 Claude Fable 5로 야코비 추측의 반례를 3차원에서 찾아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "雅可比猜想扛87年\n被一条X帖推翻",
+  "body": "阿尔珀格用Claude Fable 5在三维找到雅可比猜想的反例。",
+  "lang": "zh"
  },
  {
   "id": "science-hidden-goals-agents",
@@ -25225,10 +24449,9 @@
   "date": "2026-08-07",
   "section": "science",
   "has_full": true,
-  "headline": "목표가 어긋난 에이전트 하나가\n팀 전체의 성능을 끌어내렸다",
-  "body": "밀라 연구팀 실험에서 어긋난 에이전트의 속내는 공개 대화에 거의 드러나지 않았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一个目标偏差\n拖累全队表现",
+  "body": "Mila研究团队实验中,偏差智能体的心思几乎不在公开对话中显露。",
+  "lang": "zh"
  },
  {
   "id": "science-ai-skill-atrophy",
@@ -25241,10 +24464,9 @@
   "date": "2026-08-07",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 대신 풀면 실력이 깎인다\n곁에서 힌트만 주면 오히려 는다",
-  "body": "AI가 답을 대신 내면 실력이 줄지만, 힌트만 주는 방식은 학습 효과를 지켰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI代解技能降\n给提示反而升",
+  "body": "如果AI代为作答,能力会被削弱,但仅给提示的方式保住了学习效果。",
+  "lang": "zh"
  },
  {
   "id": "music-ye-ai-vocal-lawsuit",
@@ -25257,10 +24479,9 @@
   "date": "2026-08-07",
   "section": "music",
   "has_full": true,
-  "headline": "Kanye West 두 앨범에 AI를 썼다고\n프로듀서가 소송을 냈다",
-  "body": "프로듀서가 Ye의 두 앨범에 AI 보컬을 만들고 대가를 못 받았다며 소송을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Kanye West两专辑\n用AI遭制作人告",
+  "body": "制作人称为Ye两张专辑制作AI人声却未获报酬,提起诉讼。",
+  "lang": "zh"
  },
  {
   "id": "music-symphonic-musicshield",
@@ -25273,10 +24494,9 @@
   "date": "2026-08-07",
   "section": "music",
   "has_full": true,
-  "headline": "Symphonic, 발매 전 AI 학습을 막는\nMusicShield를 무료로 연다",
-  "body": "Symphonic 고객은 발매 전 음원을 AI 학습에서 지키는 도구를 무료로 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Symphonic堵AI学习\nMusicShield免费用",
+  "body": "Symphonic客户可免费使用在发售前保护音源不被AI学习的工具。",
+  "lang": "zh"
  },
  {
   "id": "music-sylvan-esso-betty-studio",
@@ -25289,10 +24509,9 @@
   "date": "2026-08-07",
   "section": "music",
   "has_full": true,
-  "headline": "Sylvan Esso가 직접 지은 스튜디오\nSuno는 이걸 못 만든다",
-  "body": "Sylvan Esso는 직접 지은 스튜디오에서 Suno가 못 낼 곡을 만들어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Sylvan Esso自建\n录音室 Suno做不到",
+  "body": "Sylvan Esso在自己搭建的录音室里,做出了Suno无法制作的歌曲。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-download-watermark",
@@ -25305,10 +24524,9 @@
   "date": "2026-08-07",
   "section": "music",
   "has_full": true,
-  "headline": "Suno, AI 곡에 워터마크 심고\n대량 유통용 다운로드는 막는다",
-  "body": "Suno가 워터마크를 넣고 스트리밍 대량 유통을 막는 다운로드 정책을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Suno为AI歌曲加水印\n阻止批量分发下载",
+  "body": "Suno公布下载新规,加入水印并阻止流媒体平台的批量分发行为。",
+  "lang": "zh"
  },
  {
   "id": "music-musixmatch-sentinel",
@@ -25321,10 +24539,9 @@
   "date": "2026-08-07",
   "section": "music",
   "has_full": true,
-  "headline": "Suno가 프롬프트부터 저작권을 걸러낸다",
-  "body": "Suno가 Sentinel로 프롬프트와 결과물에서 저작권 가사와 곡을 잡아낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Suno从提示词起\n就过滤版权",
+  "body": "Suno用Sentinel在提示词和结果里识别受版权保护的歌词和歌曲。",
+  "lang": "zh"
  },
  {
   "id": "movies-disney-tiktok-shorts",
@@ -25337,10 +24554,9 @@
   "date": "2026-08-07",
   "section": "movies",
   "has_full": true,
-  "headline": "디즈니 자산으로 만든 팬 영상이\n디즈니+ 세로 피드에 걸린다",
-  "body": "디즈니와 TikTok이 팬이 만든 세로 영상을 Disney+ 피드에 함께 싣는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "粉丝用迪士尼素材\n视频登上迪士尼+",
+  "body": "迪士尼和TikTok要把粉丝制作的竖版视频,一起放进Disney+的信息流。",
+  "lang": "zh"
  },
  {
   "id": "movies-catmull-genai-jury",
@@ -25353,10 +24569,9 @@
   "date": "2026-08-07",
   "section": "movies",
   "has_full": true,
-  "headline": "픽사를 세운 에드 캣멀이\n생성형 AI 영화제 심사석에",
-  "body": "픽사 공동창업자 에드 캣멀이 생성형 AI 영화만 겨루는 경연의 심사석에 앉았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "皮克斯创始人\n坐进生成AI影展评审席",
+  "body": "皮克斯联合创始人埃德·卡特姆,坐上了只角逐生成式AI电影的评审席。",
+  "lang": "zh"
  },
  {
   "id": "movies-brevidy-premiere",
@@ -25369,10 +24584,9 @@
   "date": "2026-08-07",
   "section": "movies",
   "has_full": true,
-  "headline": "자막부터 세로 리프레임까지\nPremiere Pro 패널 하나로",
-  "body": "Brevidy가 자막, 세로 리프레임, 클립 추출을 프리미어 프로 패널에 담았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "字幕到竖版裁切\n都入Premiere Pro",
+  "body": "Brevidy把字幕、竖版裁切和片段提取都装进了Premiere Pro面板。",
+  "lang": "zh"
  },
  {
   "id": "movies-adobe-chatgpt-plugin",
@@ -25385,10 +24599,9 @@
   "date": "2026-08-07",
   "section": "movies",
   "has_full": true,
-  "headline": "말로 시키면 어도비가 움직인다\nChatGPT에 들어온 통합 플러그인",
-  "body": "어도비가 도구 70여 종을 플러그인 하나로 묶어 ChatGPT 안에 들여놓았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一句话调动Adobe\nChatGPT集成插件",
+  "body": "Adobe把70多种工具整合进一个插件,接入了ChatGPT。",
+  "lang": "zh"
  },
  {
   "id": "games-unreal-mcp-editor",
@@ -25401,9 +24614,9 @@
   "date": "2026-08-07",
   "section": "games",
   "has_full": true,
-  "headline": "언리얼 엔진 5.8이 에디터에\nMCP를 정식으로 들인다",
-  "body": "MCP를 기본 지원해 에디터 안에서 원하는 에이전트 LLM을 붙여 쓴다.",
-  "lang": "ko",
+  "headline": "Unreal Engine 5.8 brings MCP\ninto the Editor officially",
+  "body": "With MCP supported natively, you can plug whatever agentic LLM you want straight into the Editor.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -25417,10 +24630,9 @@
   "date": "2026-08-07",
   "section": "games",
   "has_full": true,
-  "headline": "이미지·영상 모델을 아트 제작에\n윤리적으로 들이는 법",
-  "body": "Tripo 3.1과 Nano Banana를 3D 에셋 제작에 들이는 법을 다룬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "图像视频模型如何\n合乎伦理融入美术",
+  "body": "讲的是如何把Tripo 3.1和Nano Banana用到3D素材制作中。",
+  "lang": "zh"
  },
  {
   "id": "games-unity-one-api-every-role",
@@ -25433,10 +24645,9 @@
   "date": "2026-08-07",
   "section": "games",
   "has_full": true,
-  "headline": "유니티가 API 하나로 에디터를\n팀의 모든 역할에 연다",
-  "body": "에디터 전체 권한 없이 API와 CLI로 빌드까지 돌리는 비공개 베타가 열렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Unity用一个API\n开放编辑器给全员",
+  "body": "无需编辑器完整权限,也能用API和CLI跑完整个构建的私测开启了。",
+  "lang": "zh"
  },
  {
   "id": "games-nvidia-ntc-sdk-arm64",
@@ -25449,9 +24660,9 @@
   "date": "2026-08-07",
   "section": "games",
   "has_full": true,
-  "headline": "NVIDIA가 뉴럴 텍스처 압축\nSDK를 ARM64로 옮겼다",
-  "body": "VRAM을 85% 줄이는 NTC SDK가 ARM64에 올랐지만 쓰는 게임은 없다.",
-  "lang": "ko",
+  "headline": "NVIDIA ports its neural\ntexture compression SDK to ARM64",
+  "body": "The NTC SDK cuts VRAM use by 85 percent and now runs on ARM64, but no game uses it yet.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -25465,10 +24676,9 @@
   "date": "2026-08-07",
   "section": "games",
   "has_full": true,
-  "headline": "구글 AI가 비공개 문서 속\n미공개 캐릭터 이름을 뱉었다",
-  "body": "개발자는 자기 구글 문서에만 적어둔 캐릭터 이름을 Gemini가 그대로 뱉었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌AI泄露\n私密文档角色名",
+  "body": "开发者只在自己的Google文档里写过的角色名,被Gemini原样说出。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-viture-pro-2-xr-glasses",
@@ -25481,9 +24691,9 @@
   "date": "2026-08-07",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Viture Pro 2가 299달러에\n더 밝고 20% 가벼워졌다",
-  "body": "1,600니트로 밝아지고 63그램까지 가벼워진 Pro 2가 299달러에 나왔다.",
-  "lang": "ko",
+  "headline": "Viture Pro 2 is brighter and\n20% lighter, now $299",
+  "body": "The Pro 2 is brighter at 1,600 nits, down to 63 grams, and now priced at $299.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -25497,9 +24707,9 @@
   "date": "2026-08-07",
   "section": "gadgets",
   "has_full": true,
-  "headline": "오픈AI 첫 하드웨어는 화면 없는\n도넛형 스피커, 300~400달러",
-  "body": "하키 퍽만 한 링 모양에 화면은 없고, 가격은 300~400달러 선으로 거론된다.",
-  "lang": "ko",
+  "headline": "OpenAI's first hardware\nis a screenless donut, $300-400",
+  "body": "It's shaped like a ring the size of a hockey puck, has no screen, and is rumored to cost $300 to $400.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -25513,10 +24723,9 @@
   "date": "2026-08-07",
   "section": "gadgets",
   "has_full": true,
-  "headline": "메타 레이밴 디스플레이가 손가락\n글씨를 프롬프트로 읽는다",
-  "body": "뮤즈 스파크가 올라가고, 평평한 면 아무 데나 손가락으로 프롬프트를 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "眼镜识别手指书写\n并转为提示词",
+  "body": "Muse Spark上线后,可在任意平面用手指写下提示词。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-ios27-gymkit-iphone-airpods",
@@ -25545,10 +24754,9 @@
   "date": "2026-08-07",
   "section": "gadgets",
   "has_full": true,
-  "headline": "갤럭시 Z 플립 8은 좋아졌지만\n커버 화면 AI는 앱 제한에 걸린다",
-  "body": "하드웨어는 한 뼘 다듬어졌지만 커버 화면에 올릴 앱은 여전히 크게 묶여 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "硬件进步明显\n封面屏AI受应用限制",
+  "body": "Galaxy Z Flip 8的硬件略有打磨,但封面屏可用的应用依然受限严重。",
+  "lang": "zh"
  },
  {
   "id": "design-state-of-css-2026",
@@ -25752,9 +24960,9 @@
   "date": "2026-08-06",
   "section": "science",
   "has_full": true,
-  "headline": "에르되시 문제가 무너지는 자리에\nAI와 아마추어 수학자가 함께 앉았다",
-  "body": "OpenAI가 단위 거리 문제의 반례를 찾은 뒤 에르되시 난제가 줄줄이 풀렸다.",
-  "lang": "ko",
+  "headline": "Where Erdős problems fall,\nAI and amateurs sit together.",
+  "body": "After OpenAI found a counterexample to the unit-distance problem, Erdős problems fell one after another.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -25768,9 +24976,9 @@
   "date": "2026-08-06",
   "section": "science",
   "has_full": true,
-  "headline": "원자가 어디로 움직일지 계산해\n고체 반응 레시피를 몇 분에 짠다",
-  "body": "버클리랩 모델이 원자 이동 속도까지 셈해 고체 반응 경로를 몇 분 만에 예측한다.",
-  "lang": "ko",
+  "headline": "It calculates where atoms move,\nthen writes recipes in minutes.",
+  "body": "A Berkeley Lab model predicts solid-state reaction pathways in minutes by factoring in how fast atoms move.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -25784,10 +24992,9 @@
   "date": "2026-08-06",
   "section": "science",
   "has_full": true,
-  "headline": "AI 스크라이브가 기록을 대신 쓰면\n의대생의 추론은 어디서 자라나",
-  "body": "의대들은 노트를 직접 쓰며 자라는 진단 추론 때문에 AI 스크라이브를 망설인다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI代写病历后\n医学生推理如何生长",
+  "body": "由于诊断推理在亲手写病历中成长,医学院对AI代写工具心存顾虑。",
+  "lang": "zh"
  },
  {
   "id": "music-sound-free-concert",
@@ -25800,10 +25007,9 @@
   "date": "2026-08-06",
   "section": "music",
   "has_full": true,
-  "headline": "소리 없는 콘서트가 생성 음악을\n청중의 인공와우로 곧장 보낸다",
-  "body": "런던의 소리 없는 콘서트가 생성 AI 음악을 블루투스로 인공와우에 직접 보냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无声音乐会\nAI曲传人工耳蜗",
+  "body": "伦敦的无声音乐会通过蓝牙把生成式AI音乐直接传入人工耳蜗。",
+  "lang": "zh"
  },
  {
   "id": "music-komca-ai-disclosure",
@@ -25816,10 +25022,9 @@
   "date": "2026-08-06",
   "section": "music",
   "has_full": true,
-  "headline": "AI 도움받은 곡도 저작권 등록\n허위 신고엔 로열티 보류와 계약 해지",
-  "body": "KOMCA가 8월 3일부터 AI 보조곡 등록을 허용하되 사용 신고를 의무화했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI辅助曲可注册\n虚报解约扣款",
+  "body": "KOMCA自8月3日起允许登记AI辅助歌曲，但须申报使用情况。",
+  "lang": "zh"
  },
  {
   "id": "music-fenix-flexin-ai",
@@ -25832,10 +25037,9 @@
   "date": "2026-08-06",
   "section": "music",
   "has_full": true,
-  "headline": "차트를 오르는 바이럴 히트곡이\nAI가 다 만든 곡이라는 의혹",
-  "body": "바이럴 히트곡 'Rubberz'가 AI 전량 생성이라는 의혹에 다시 휘말렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "爬榜神曲被曝\n全系AI制作",
+  "body": "病毒式金曲《Rubberz》再次被指控完全由AI制作而成。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-poison-genre",
@@ -25848,10 +25052,9 @@
   "date": "2026-08-06",
   "section": "music",
   "has_full": true,
-  "headline": "AI를 혼란시키려 일부러 만든\n이상한 음악이 하나의 장르가 된다",
-  "body": "AI 스크레이퍼가 학습하길 바라며 일부러 이상한 곡을 올리는 흐름이 나타났다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "故意写乱AI\n怪歌竟成流派",
+  "body": "有人故意上传古怪歌曲，想让AI爬虫学了去，由此形成了一种风潮。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-chart-rules",
@@ -25864,10 +25067,9 @@
   "date": "2026-08-06",
   "section": "music",
   "has_full": true,
-  "headline": "AI가 다 만든 곡은 차트에서 빼고\n보조로 쓴 곡은 AI 사용을 밝힌다",
-  "body": "3대 메이저와 인디 레이블이 AI 완전 생성곡을 차트에서 빼는 원칙을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI全曲剔出榜\n辅助需标AI",
+  "body": "三大唱片和独立厂牌出台规则，把AI全生成曲排除在榜单之外。",
+  "lang": "zh"
  },
  {
   "id": "movies-youtube-ai-slop-policy",
@@ -25880,10 +25082,9 @@
   "date": "2026-08-06",
   "section": "movies",
   "has_full": true,
-  "headline": "유튜브가 그은 AI 슬롭의 선\n어떤 AI 영상은 수익이 끊긴다",
-  "body": "유튜브가 대량 생산 클립과 반복 템플릿, 가짜 조언 페르소나를 수익화에서 뺐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "YouTube划界线\n部分AI视频断收益",
+  "body": "YouTube把量产剪辑、重复模板和虚假建议人设排除在收益化之外。",
+  "lang": "zh"
  },
  {
   "id": "movies-greenlight-coverage-ai",
@@ -25896,10 +25097,9 @@
   "date": "2026-08-06",
   "section": "movies",
   "has_full": true,
-  "headline": "대본을 먼저 채점하는 AI 커버리지\n상금은 10만 달러 지분 투자",
-  "body": "그린라이트 커버리지가 데이터 사이언스로 시나리오를 채점해 관객과 배급을 가늠한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI先给剧本打分\n奖金10万美元股权",
+  "body": "Greenlight Coverage用数据科学给剧本打分，评估观众和发行前景。",
+  "lang": "zh"
  },
  {
   "id": "movies-chikaboom-craig",
@@ -25912,10 +25112,9 @@
   "date": "2026-08-06",
   "section": "movies",
   "has_full": true,
-  "headline": "손으로 그린 카붐의 윤곽선을\n일부러 지우지 않고 남긴 이유",
-  "body": "감독 c. Craig는 카붐의 모든 프레임에 아티스트의 손 윤곽선을 남겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "手绘卡崩轮廓\n为何特意保留",
+  "body": "导演c. Craig在卡崩的每一帧都保留了艺术家手绘的轮廓线。",
+  "lang": "zh"
  },
  {
   "id": "games-sekai-vibe-coding-medium",
@@ -25928,10 +25127,9 @@
   "date": "2026-08-06",
   "section": "games",
   "has_full": true,
-  "headline": "Sekai는 바이브 코딩을\n창작 매체로 키우려 한다",
-  "body": "Sekai에 쌓인 미니 앱이 2천만 개를 넘었고, 하루 25만 개씩 늘어난다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Sekai想让\n氛围编程成创作媒介",
+  "body": "Sekai上的迷你应用已超2000万个，每天增加25万个。",
+  "lang": "zh"
  },
  {
   "id": "games-pokemon-green-ai-3d",
@@ -25944,10 +25142,9 @@
   "date": "2026-08-06",
   "section": "games",
   "has_full": true,
-  "headline": "AI가 3D로 되살린 포켓몬\n첫 장면은 악몽에 가깝다",
-  "body": "Claude가 픽셀을 전부 만든 3D 포켓몬 스타터 장면이 72초짜리 악몽이 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI用3D复活宝可梦\n首个场面近乎噩梦",
+  "body": "Claude生成全部像素的3D宝可梦初始场景，变成了72秒的噩梦。",
+  "lang": "zh"
  },
  {
   "id": "games-halo-ai-voice-mod",
@@ -25960,10 +25157,9 @@
   "date": "2026-08-06",
   "section": "games",
   "has_full": true,
-  "headline": "헤일로 모드가 하루아침에\n치프와 코타나를 다람쥐로",
-  "body": "Omniscye의 모드가 영어 대사 15,391개를 다람쥐 목소리로 바꿔놓았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Halo模组一夜间\n让士官长和科塔娜变花栗鼠",
+  "body": "Omniscye的模组把15,391条英文台词换成了花栗鼠配音。",
+  "lang": "zh"
  },
  {
   "id": "games-dragon-quest-gemini-event",
@@ -25976,10 +25172,9 @@
   "date": "2026-08-06",
   "section": "games",
   "has_full": true,
-  "headline": "스퀘어 에닉스와 Gemini,\n도쿄에서 AR 퀘스트를 연다",
-  "body": "스퀘어 에닉스가 Gemini와 함께 도쿄 네 곳에서 AR 퀘스트 행사를 연다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Square Enix与\nGemini东京办AR活动",
+  "body": "Square Enix将与Gemini合作，在东京四地举办AR探索活动。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-siri-ai-device-tiering",
@@ -25992,10 +25187,9 @@
   "date": "2026-08-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "시리 AI 지원 기기 목록이 나왔다\n아이폰 15 프로가 하한선이다",
-  "body": "애플이 낸 목록에서 시리 AI 하한선은 아이폰 15 프로와 M1 칩 아이패드다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Siri AI机型名单公布\n下限iPhone15 Pro",
+  "body": "苹果名单显示，Siri AI最低支持iPhone 15 Pro和M1芯片iPad。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-peloton-ai-tracking-camera",
@@ -26008,10 +25202,9 @@
   "date": "2026-08-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "펠로톤이 콘솔에 추적 카메라를 넣어\n자세를 잡아주는 자전거를 내놨다",
-  "body": "크로스 트레이닝 바이크+는 콘솔에 박힌 카메라로 자세를 고치고 횟수를 센다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Peloton加入追踪摄像头\n单车可纠正姿势",
+  "body": "Cross Training Bike+通过内置于控制台的摄像头纠正姿势并计数。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-nothing-cmf-ai-marketing",
@@ -26024,10 +25217,9 @@
   "date": "2026-08-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "CMF가 AI로 만든 사람을 광고에 쓰자\n클립 프로 공개가 역풍에 묻혔다",
-  "body": "CMF는 클립 프로 광고 이미지를 AI로 만들었고 일부는 이미 지워졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "CMF用AI造的人做广告\nClip Pro发布被淹没",
+  "body": "CMF用AI制作了Clip Pro广告图片，部分已经删除。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-google-assistant-shutdown",
@@ -26040,10 +25232,9 @@
   "date": "2026-08-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "구글 어시스턴트가 9월 4일부터\n안드로이드 기기에서 사라진다",
-  "body": "9월 4일부터 안드로이드 폰과 웨어OS 시계에서 어시스턴트가 사라진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "谷歌助理9月\n4日起停用",
+  "body": "9月4日起，Android手机和Wear OS手表将不再支持谷歌助理。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-chrome-on-device-ai-cost",
@@ -26056,10 +25247,9 @@
   "date": "2026-08-06",
   "section": "gadgets",
   "has_full": true,
-  "headline": "크롬이 온디바이스 AI 문서를 고쳐\n빈 용량 20GB 요건을 밝혔다",
-  "body": "크롬은 AI 모델을 내려받기 전에 무제한 회선과 빈 용량 20GB를 확인한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Chrome改文档\n需20GB空间",
+  "body": "下载AI模型前，Chrome会检查无限流量网络和20GB空闲空间。",
+  "lang": "zh"
  },
  {
   "id": "design-v0-api",
@@ -26072,10 +25262,9 @@
   "date": "2026-08-06",
   "section": "design",
   "has_full": true,
-  "headline": "v0 앱 빌더가 API로 열렸다\n프롬프트를 넣으면 앱이 돌아간다",
-  "body": "프롬프트를 보내면 v0가 앱을 짜고 샌드박스에 서버를 띄워 미리보기까지 돌려준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "v0应用构建器\n开放API接口",
+  "body": "发送提示词后，v0会编写应用、在沙盒中启动服务器，并返回预览。",
+  "lang": "zh"
  },
  {
   "id": "design-material-creator",
@@ -26088,10 +25277,9 @@
   "date": "2026-08-06",
   "section": "design",
   "has_full": true,
-  "headline": "World Creator 개발사가 만든\nSubstance 3D Designer 대항마",
-  "body": "World Creator 개발사가 노드 기반 머티리얼 저작 도구를 이달 내놓는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "World Creator\n团队推出竞品",
+  "body": "World Creator开发商本月推出基于节点的材质制作工具。",
+  "lang": "zh"
  },
  {
   "id": "design-code-connect-mcp",
@@ -26104,10 +25292,9 @@
   "date": "2026-08-06",
   "section": "design",
   "has_full": true,
-  "headline": "Code Connect를 걸어 두면\n에이전트가 태우는 토큰이 줄어든다",
-  "body": "토큰은 29.5%, 시간은 19.6% 줄었고 코드 품질 점수는 한 단계 올랐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "接入Code Connect\n智能体更省token",
+  "body": "token减少29.5%，时间减少19.6%，代码质量评分提高了一档。",
+  "lang": "zh"
  },
  {
   "id": "design-chat-wrong-interface",
@@ -26120,10 +25307,9 @@
   "date": "2026-08-06",
   "section": "design",
   "has_full": true,
-  "headline": "채팅창은 AI에게 게으른 기본값이다\n대화가 길어질수록 생각이 묻힌다",
-  "body": "대화가 길어질수록 스크롤바는 짧아지고 정작 건진 생각은 그 안에 묻혀 버린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "聊天框是AI的\n懒惰默认选项",
+  "body": "随着对话越拉越长，滚动条越来越短，真正有价值的想法反而被埋没其中。",
+  "lang": "zh"
  },
  {
   "id": "design-agent-evidence-approval",
@@ -26136,10 +25322,9 @@
   "date": "2026-08-06",
   "section": "design",
   "has_full": true,
-  "headline": "한 번의 클릭으로 승인받기 전에\n에이전트의 근거를 먼저 펼쳐라",
-  "body": "통과한 검사뿐 아니라 빠뜨린 검사까지 행으로 드러낸 뒤에 승인을 묻자는 제안이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一键批准前\n先展开证据链",
+  "body": "这是一种提案：把通过的检查和漏掉的检查都列成行，再请求批准。",
+  "lang": "zh"
  },
  {
   "id": "books-published-voice-ai",
@@ -26152,10 +25337,9 @@
   "date": "2026-08-06",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 초고를 거들기 시작하면서\n저자의 목소리는 누구 것이 되는가",
-  "body": "AI가 초고를 거들면서 편집자와 심사자가 판단해온 저자의 목소리가 흔들린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI协助初稿后\n作者声音归谁",
+  "body": "AI协助撰写初稿后，编辑和审稿人判断的作者声音变得不稳定。",
+  "lang": "zh"
  },
  {
   "id": "books-daggermouth-publisher-backing",
@@ -26168,10 +25352,9 @@
   "date": "2026-08-06",
   "section": "books",
   "has_full": true,
-  "headline": "AI 탐지기가 60%를 가리켰지만\n출판사는 그래도 작가 편에 섰다",
-  "body": "토르 브램블은 팬그램이 매긴 60% 점수에도 작가 HM 울프의 편에 섰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI检测给出60%\n出版社仍挺作者",
+  "body": "尽管Pangram给出60%的分数，托尔·布兰布尔仍站在作家HM·沃尔夫一边。",
+  "lang": "zh"
  },
  {
   "id": "books-chatgpt-blocks-author-styles",
@@ -26183,10 +25366,9 @@
   "date": "2026-08-06",
   "section": "books",
   "has_full": true,
-  "headline": "특정 작가처럼 써달라는 요청을\nChatGPT가 이제 받아주지 않는다",
-  "body": "문체는 저작권이 보호하는 대상이 아닌데도 OpenAI는 그 요청을 막아섰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "模仿特定作家\nChatGPT拒绝",
+  "body": "文风本不受版权法保护，但OpenAI还是拦下了这类请求。",
+  "lang": "zh"
  },
  {
   "id": "books-anthropic-destroyed-books",
@@ -26199,10 +25381,9 @@
   "date": "2026-08-06",
   "section": "books",
   "has_full": true,
-  "headline": "앤스로픽은 저작권 협상 대신\n세상의 모든 책을 부수기로 했다",
-  "body": "앤스로픽은 저작권 협상 대신 책등을 잘라 스캔하고 종이 원본은 버리는 길을 택했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不谈版权授权\n转而销毁全书",
+  "body": "Anthropic没有协商版权，而是选择裁切书脊扫描后丢弃纸质原件。",
+  "lang": "zh"
  },
  {
   "id": "books-ai-stories-rated-higher",
@@ -26215,10 +25396,9 @@
   "date": "2026-08-06",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 쓴 소설에 더 높은 점수\n사람이 썼다고 하면 더 올랐다",
-  "body": "케임브리지대 출판부 연구에서 독자들은 AI가 만든 이야기에 더 높은 점수를 줬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI小说得分更高\n称人写则更高",
+  "body": "剑桥大学出版社的一项研究发现，读者给AI写的故事打出了更高的分数。",
+  "lang": "zh"
  },
  {
   "id": "science-one-chain-of-evidence",
@@ -26231,10 +25411,9 @@
   "date": "2026-08-05",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 쓴 논문의 유령 인용을\n증거 사슬로 0까지 지운다",
-  "body": "구글의 Science One은 주장마다 증거 사슬을 남겨 유령 인용을 21%에서 0으로 없앴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI论文的幽灵引用\n被证据链清零",
+  "body": "谷歌的Science One为每个论断留存证据链，将幽灵引用从21%降到0。",
+  "lang": "zh"
  },
  {
   "id": "science-olmoearth-planetary-inference",
@@ -26247,9 +25426,9 @@
   "date": "2026-08-05",
   "section": "science",
   "has_full": true,
-  "headline": "대륙 하나를 하루 만에 훑는\n지구 관측 인프라가 열렸다",
-  "body": "Ai2가 공개한 OlmoEarth는 대륙 규모 위성 추론을 하루, 1km²당 1센트 미만으로 끝낸다.",
-  "lang": "ko",
+  "headline": "Earth observation that scans\na continent in a single day",
+  "body": "Ai2's OlmoEarth finishes continent-scale satellite inference in a day, for under a cent per square kilometer.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26263,10 +25442,9 @@
   "date": "2026-08-05",
   "section": "science",
   "has_full": true,
-  "headline": "AI 진단 보조의 이득은\n쓰는 사람의 실력에 달렸다",
-  "body": "MIT 연구에서 AI 보조는 양쪽 정확도를 올렸지만, 비전문가는 모델이 틀려도 그대로 따라갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI诊断辅助的收益\n取决于使用者水平",
+  "body": "MIT研究发现AI辅助提高了两方准确率，但非专业者即使模型出错仍照样采信。",
+  "lang": "zh"
  },
  {
   "id": "science-catalyst-lab-variance",
@@ -26279,9 +25457,9 @@
   "date": "2026-08-05",
   "section": "science",
   "has_full": true,
-  "headline": "네 실험실이 같은 촉매를 재자\nAI가 배운 건 화학이 아니었다",
-  "body": "SLAC 주도 4개 실험실에서 젓는 세기 같은 차이가 촉매 측정값을 갈라 AI 학습 데이터를 흔들었다.",
-  "lang": "ko",
+  "headline": "Four labs tested one catalyst\nand AI learned the wrong thing",
+  "body": "Differences like stirring intensity across four SLAC-led labs skewed catalyst measurements and AI training data.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26311,10 +25489,9 @@
   "date": "2026-08-05",
   "section": "music",
   "has_full": true,
-  "headline": "프롬프트로 만든 트랙을\n12인치 바이닐로 찍어 보낸다",
-  "body": "Suno 라이브러리에서 고른 46분을 맞춤 슬리브 12인치로 눌러 장당 약 45달러에 보내준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "提示词做的曲\n压12寸黑胶寄出",
+  "body": "Suno将曲库里选的46分钟压成定制封套12寸黑胶，每张约45美元寄出。",
+  "lang": "zh"
  },
  {
   "id": "music-spotify-merlin-remix",
@@ -26327,10 +25504,9 @@
   "date": "2026-08-05",
   "section": "music",
   "has_full": true,
-  "headline": "3만여 인디 레이블이 합류한\n스포티파이 AI 커버·리믹스",
-  "body": "3만여 인디 레이블의 Merlin이 유니버설에 이어 스포티파이 AI 커버·리믹스에 합류했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "3万独立厂牌\n加入AI翻唱",
+  "body": "代理3万多家独立厂牌的Merlin继环球之后加入Spotify的AI翻唱混音。",
+  "lang": "zh"
  },
  {
   "id": "music-push-hack",
@@ -26343,10 +25519,9 @@
   "date": "2026-08-05",
   "section": "music",
   "has_full": true,
-  "headline": "AI 코딩 에이전트로 뜯어낸\nPush 3의 화면과 MIDI",
-  "body": "AI 코딩 에이전트로 뜯어낸 비공식 해킹이 Push 3의 화면과 파일, MIDI, LED를 열어준다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI编程破解\nPush3屏与MIDI",
+  "body": "AI编程代理打造的非官方破解开放了Push3的屏幕、文件、MIDI和LED。",
+  "lang": "zh"
  },
  {
   "id": "music-i-am-choir",
@@ -26359,10 +25534,9 @@
   "date": "2026-08-05",
   "section": "music",
   "has_full": true,
-  "headline": "보컬 한 테이크를 합창단으로\n노래한 사람들과 로열티를 나눈다",
-  "body": "보컬 한 트랙이 합창으로 바뀌고, 목소리를 빌려준 가수들은 로열티를 나눈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一轨人声变\n合唱团，歌手分成",
+  "body": "一条人声轨道被转化为合唱，出借声音的歌手们分享版税收益。",
+  "lang": "zh"
  },
  {
   "id": "music-eu-ai-act-enforced",
@@ -26391,9 +25565,9 @@
   "date": "2026-08-05",
   "section": "movies",
   "has_full": true,
-  "headline": "블렌더 5와 리졸브 21\n실루엣의 ML 로토까지",
-  "body": "블렌더 5와 리졸브 21도 묵직하지만 리뷰의 축은 실루엣 2026의 ML 로토다.",
-  "lang": "ko",
+  "headline": "Blender 5, Resolve 21, and\nSilhouette's ML roto",
+  "body": "Blender 5 and Resolve 21 matter, but this review centers on Silhouette 2026's ML roto tools.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26407,10 +25581,9 @@
   "date": "2026-08-05",
   "section": "movies",
   "has_full": true,
-  "headline": "스냅챗 스포트라이트에서\n완전 AI 생성 영상 금지",
-  "body": "스냅챗이 스포트라이트에서 전부 AI로 만든 영상을 막고 AI 편집은 허용한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Spotlight禁\n全AI生成视频",
+  "body": "Snapchat在Spotlight禁止全AI生成视频，允许AI编辑内容。",
+  "lang": "zh"
  },
  {
   "id": "movies-seedance-nvidia",
@@ -26423,9 +25596,9 @@
   "date": "2026-08-05",
   "section": "movies",
   "has_full": true,
-  "headline": "시드댄스 2.5를 가린 건\n엔비디아 코스모스 3 슈퍼",
-  "body": "이번 주 진짜 사건은 시드댄스 2.5가 아니라 엔비디아의 월드 모델 코스모스 3 슈퍼다.",
-  "lang": "ko",
+  "headline": "What overshadowed Seedance 2.5\nis Nvidia's Cosmos 3 Super",
+  "body": "This week's real story isn't Seedance 2.5, it's Nvidia's world model Cosmos 3 Super.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26439,9 +25612,9 @@
   "date": "2026-08-05",
   "section": "movies",
   "has_full": true,
-  "headline": "베네치아로 가는 AI 단편\n심사위원장은 살바토레스",
-  "body": "리플 AI 영화제 결선에 3천 편 중 열 편이 올랐고 베네치아에서 수상작을 가린다.",
-  "lang": "ko",
+  "headline": "AI shorts head to Venice,\njury chaired by Salvatores",
+  "body": "Ten films made the Reply AI Film Festival finals out of 3,000 entries, with the winner decided in Venice.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26455,9 +25628,9 @@
   "date": "2026-08-05",
   "section": "movies",
   "has_full": true,
-  "headline": "칸에서 마주 앉아 나눈\nAI 영화의 솔직한 이야기",
-  "body": "칸에서 인디와이어와 a16z가 연 토론에서 창작자와 기술자가 AI의 쓰임을 따졌다.",
-  "lang": "ko",
+  "headline": "An honest conversation on AI\nfilm, face to face at Cannes",
+  "body": "At Cannes, IndieWire and a16z hosted a discussion where creators and technologists debated how AI should be used.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26471,10 +25644,9 @@
   "date": "2026-08-05",
   "section": "games",
   "has_full": true,
-  "headline": "게임 스튜디오가 낡은\n버전 관리에서 벗어나는 이유",
-  "body": "코드와 대용량 아트를 한 저장소에서 다루는 버전 관리로 Diversion이 나섰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "游戏工作室为何\n告别旧版本管理",
+  "body": "Diversion用一个仓库同时管理代码与大型美术文件。",
+  "lang": "zh"
  },
  {
   "id": "games-seed-ai-avatars",
@@ -26487,9 +25659,9 @@
   "date": "2026-08-05",
   "section": "games",
   "has_full": true,
-  "headline": "Seed의 AI 아바타는\n말이 많고 알맹이가 없다",
-  "body": "MMO Seed의 LLM 아바타는 튜토리얼 안내엔 쓸모 있지만 대화는 몰입을 깬다.",
-  "lang": "ko",
+  "headline": "Seed's AI avatars talk a lot\nbut say little of substance",
+  "body": "The LLM avatars in the MMO Seed help with tutorials, but their conversations break immersion.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26503,10 +25675,9 @@
   "date": "2026-08-05",
   "section": "games",
   "has_full": true,
-  "headline": "EU 딥페이크 표시 의무가\n8월 2일부터 적용된다",
-  "body": "EU AI법은 실존 인물이나 장소를 사실처럼 그린 게임 콘텐츠에 표시를 요구한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "EU深度伪造标注\n8月2日起生效",
+  "body": "EU《人工智能法案》要求将逼真描绘真实人物或地点的游戏内容标注为AI生成。",
+  "lang": "zh"
  },
  {
   "id": "games-atelier-ryza-chat-rpg",
@@ -26519,10 +25690,9 @@
   "date": "2026-08-05",
   "section": "games",
   "has_full": true,
-  "headline": "코에이 테크모, 라이자를\nAI 챗 RPG로 내놓는다",
-  "body": "거스트가 라이자와의 대화만으로 진행하는 AI 챗 RPG를 모바일로 내놓는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "光荣特库摩将\n莱莎变AI聊天RPG",
+  "body": "Gust推出一款仅靠与莱莎对话推进的移动版AI聊天RPG。",
+  "lang": "zh"
  },
  {
   "id": "games-ai-mandate-resistance",
@@ -26535,9 +25705,9 @@
   "date": "2026-08-05",
   "section": "games",
   "has_full": true,
-  "headline": "사내 AI 사용 의무화에\n조용히 저항하는 사람들",
-  "body": "AI 사용을 강제받은 노동자들이 허수 프롬프트와 형식적 준수로 지표만 채운다.",
-  "lang": "ko",
+  "headline": "The Quiet Resisters of\nMandatory Workplace AI",
+  "body": "Workers forced to use AI are padding out metrics with filler prompts and token compliance.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26551,10 +25721,9 @@
   "date": "2026-08-05",
   "section": "gadgets",
   "has_full": true,
-  "headline": "로컬 문서 챗 세 개를 붙여보니\n승부를 가른 건 모델이 아니었다",
-  "body": "같은 문서를 물려 보니 답변은 AnythingLLM이, 쓰는 맛은 Cherry Studio가 나았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "本地文档三选一\n输赢不在模型",
+  "body": "同样的文档下，AnythingLLM答得更好，Cherry Studio用得更顺。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-garmin-cirqa-screen-free",
@@ -26567,10 +25736,9 @@
   "date": "2026-08-05",
   "section": "gadgets",
   "has_full": true,
-  "headline": "가민 Cirqa는 화면을 지우고\n코칭을 전부 앱으로 넘겼다",
-  "body": "199달러 Cirqa는 화면 대신 버튼 하나만 두고 지표는 커넥트 앱에서 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "佳明Cirqa去屏\n教练全交给App",
+  "body": "199美元的Cirqa只留一个按钮，指标在Connect应用中查看。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-duckduckgo-anti-ai-glasses",
@@ -26583,10 +25751,9 @@
   "date": "2026-08-05",
   "section": "gadgets",
   "has_full": true,
-  "headline": "덕덕고가 카메라도 배터리도 없는\n안티 감시 선글라스를 내놨다",
-  "body": "덕덕고가 내놓은 Paso Robles는 카메라도 마이크도 전자부품도 없는 선글라스다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无摄像头电池\n反监控墨镜来了",
+  "body": "DuckDuckGo推出的Paso Robles是一款没有摄像头、麦克风和电子元件的墨镜。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-byd-xiao-di-humanoid",
@@ -26599,9 +25766,9 @@
   "date": "2026-08-05",
   "section": "gadgets",
   "has_full": true,
-  "headline": "BYD가 휴머노이드 샤오디를 공개하고\n매장마다 두세 대를 배치한다",
-  "body": "키 1.61미터 샤오디는 BYD 매장에서 방문객을 맞고 전기차를 설명하는 시제품이다.",
-  "lang": "ko",
+  "headline": "BYD Unveils Humanoid Xiao Di,\nPlans Two or Three Per Store",
+  "body": "At 1.61 meters tall, Xiao Di is a prototype that greets visitors and explains EVs at BYD stores.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26615,9 +25782,9 @@
   "date": "2026-08-05",
   "section": "gadgets",
   "has_full": true,
-  "headline": "에이수스 구글북 첫 이미지에\n글로바와 AI 전용 키가 보인다",
-  "body": "유출된 CX9406 이미지에 알루미늄 OS와 흰색 글로바, 구글 G 키가 담겼다.",
-  "lang": "ko",
+  "headline": "First Asus Googlebook Images\nShow Glowbar and AI Key",
+  "body": "The leaked CX9406 images show Aluminum OS, a white Glowbar, and a Google G key.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26631,10 +25798,9 @@
   "date": "2026-08-05",
   "section": "design",
   "has_full": true,
-  "headline": "오토데스크, AI 영상 연출을\n3D 작업 공간으로 옮기다",
-  "body": "카메라와 연기, 타이밍을 3D 작업창에서 정한 뒤 AI가 최종 화면을 만들어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "欧特克把AI影像\n导演搬进3D空间",
+  "body": "先在3D工作区确定镜头、表演和节奏，再由AI生成最终画面。",
+  "lang": "zh"
  },
  {
   "id": "design-figma-motion-keyframes",
@@ -26647,10 +25813,9 @@
   "date": "2026-08-05",
   "section": "design",
   "has_full": true,
-  "headline": "Figma Motion 키프레임,\n시간 위에 값을 찍어 움직인다",
-  "body": "레이어 속성 값을 시간 위 두 지점에 찍으면 그 사이 전환을 Motion이 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Figma Motion\n关键帧随时间动",
+  "body": "在时间轴上的两个点标定图层属性值，Motion会自动生成其间的过渡。",
+  "lang": "zh"
  },
  {
   "id": "design-eve-agent-browser",
@@ -26663,10 +25828,9 @@
   "date": "2026-08-05",
   "section": "design",
   "has_full": true,
-  "headline": "eve 에이전트가 브라우저를\n직접 열어 화면을 확인한다",
-  "body": "에이전트가 샌드박스 안에서 브라우저를 열어 클릭과 입력, 스크린샷까지 수행한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "eve智能体\n自行打开浏览器查看",
+  "body": "智能体在沙箱环境中打开浏览器，完成点击、输入甚至截图操作。",
+  "lang": "zh"
  },
  {
   "id": "design-context-files-tokens",
@@ -26679,9 +25843,9 @@
   "date": "2026-08-05",
   "section": "design",
   "has_full": true,
-  "headline": "헥스값만으로는 전할 수 없는\n디자인 의도를 파일에 적는다",
-  "body": "토큰의 수치가 아니라 값이 어디까지 쓰여도 되는지를 마크다운 아홉 개에 적어 둔다.",
-  "lang": "ko",
+  "headline": "What Hex Codes Can't Convey\nDesign Intent, Written Down",
+  "body": "Instead of token numbers, nine markdown files record how far a value is allowed to stretch.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26695,9 +25859,9 @@
   "date": "2026-08-05",
   "section": "design",
   "has_full": true,
-  "headline": "스캔한 메시가 몇 분 만에\n편집 가능한 CAD가 된다",
-  "body": "메시나 3D 스캔을 피처 트리까지 갖춘 파라메트릭 CAD로 몇 분 안에 되돌린다.",
-  "lang": "ko",
+  "headline": "Scanned Meshes Become Editable\nCAD in Minutes",
+  "body": "It turns meshes or 3D scans back into parametric CAD, complete with a feature tree, in minutes.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26711,10 +25875,9 @@
   "date": "2026-08-05",
   "section": "books",
   "has_full": true,
-  "headline": "헌책방을 훑는 대량 주문\nAI 학습용이라는 의심",
-  "body": "호주·뉴질랜드 헌책방들이 캐나다 업체의 대량 주문을 AI 학습용으로 의심한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "大量订单扫货旧书店\n疑似用于AI训练",
+  "body": "澳洲和新西兰旧书店怀疑，加拿大企业的大量订单用于AI训练。",
+  "lang": "zh"
  },
  {
   "id": "books-copyright-chief-legal-battle",
@@ -26727,9 +25890,9 @@
   "date": "2026-08-05",
   "section": "books",
   "has_full": true,
-  "headline": "미 저작권청장 해임 소송이\nAI 정책의 향방을 가른다",
-  "body": "펄머터 저작권청장 해임 소송이 다시 불붙으며 미국 AI 정책의 향방까지 흔들린다.",
-  "lang": "ko",
+  "headline": "US Copyright Chief Firing Suit\nWill Shape US AI Policy",
+  "body": "The fight over firing the Copyright Office chief has reignited, shaking the direction of US AI policy.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26743,10 +25906,9 @@
   "date": "2026-08-05",
   "section": "books",
   "has_full": true,
-  "headline": "원고가 AI로 쓰였는지\n에이전트도 가려낼 수 없다",
-  "body": "240만 달러 계약이 깨진 뒤, 에이전트들은 원고 진위를 가릴 길이 없다고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "手稿是否AI代写\n经纪人也辨不出",
+  "body": "一份240万美元的合约告吹后，经纪人称根本无法辨别手稿的真伪。",
+  "lang": "zh"
  },
  {
   "id": "books-aala-ethics-code-ai",
@@ -26759,10 +25921,9 @@
   "date": "2026-08-05",
   "section": "books",
   "has_full": true,
-  "headline": "에이전트 윤리강령이 9월 1일\nAI 시대에 맞춰 바뀐다",
-  "body": "미국문학에이전트협회가 신기술 조항을 넣은 새 윤리강령을 9월 1일부터 시행한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "经纪人道德准则9月1日\n因AI时代修订",
+  "body": "美国文学经纪人协会(AALA)新增科技条款的道德准则，9月1日起正式生效。",
+  "lang": "zh"
  },
  {
   "id": "science-clinical-chatbots-trust",
@@ -26775,10 +25936,9 @@
   "date": "2026-08-04",
   "section": "science",
   "has_full": true,
-  "headline": "의료 특화 AI가\n범용 모델보다 뒤처졌다",
-  "body": "뉴욕대 랑곤 헬스 연구진이 임상 질문으로 시험하자 의료 특화 AI가 범용 대형 언어 모델보다 낮은 성적을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "医疗专用AI\n不敌通用模型",
+  "body": "NYU朗格尼健康用临床问题测试后，医疗专用AI不敌通用大模型。",
+  "lang": "zh"
  },
  {
   "id": "science-brain-to-text",
@@ -26791,10 +25951,9 @@
   "date": "2026-08-04",
   "section": "science",
   "has_full": true,
-  "headline": "수술 없이 뇌 신호를\n문장으로 받아 적는 AI",
-  "body": "메타 AI 연구진이 뇌전도와 뇌자도 신호만으로 문장을 받아 적어 문자 오류율을 29%까지 낮췄다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无需手术读脑\n信号转文字AI",
+  "body": "Meta AI团队仅用脑电和脑磁信号转写句子，把文字错误率降到29%。",
+  "lang": "zh"
  },
  {
   "id": "science-ai-reasoning-wrong-reasons",
@@ -26807,9 +25966,9 @@
   "date": "2026-08-04",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 정답을 맞혀도\n추론은 진짜가 아닐 수 있다",
-  "body": "애플의 ‘사고의 착시’ 논문은 조건이 조금만 복잡해져도 대형 추론 모델의 정확도가 무너진다고 지적했다.",
-  "lang": "ko",
+  "headline": "Even When AI Gets It Right\nIts Reasoning May Not Be Real",
+  "body": "Apple's ‘Illusion of Thinking’ paper found reasoning models' accuracy collapses when conditions get slightly harder.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26823,10 +25982,9 @@
   "date": "2026-08-04",
   "section": "science",
   "has_full": true,
-  "headline": "같은 난제 푼 두 논문\n3시간 차로 나란히 도착",
-  "body": "두 연구팀이 GPT-5.6 Sol Ultra로 같은 암호학 난제를 각자 풀어 3시간 18분 간격으로 논문을 올렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "同难题两论文\n相差3小时发布",
+  "body": "两个团队各用GPT-5.6 Sol Ultra解出同一密码学难题，相隔3小时18分发布论文。",
+  "lang": "zh"
  },
  {
   "id": "music-soundid-voiceai-cpop",
@@ -26839,10 +25997,9 @@
   "date": "2026-08-04",
   "section": "music",
   "has_full": true,
-  "headline": "Sonarworks 보이스 AI에\n중화권 목소리 10종 더해졌다",
-  "body": "정식 계약으로 확보한 소리로 학습한 10종으로, 프로듀서는 DAW 안에서 만다린·광둥어 팝을 다른 목소리로 다시 부른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Sonarworks语音AI\n新增10种华语声",
+  "body": "用正规授权录音训练的10种声音，可在DAW里用别的声音重唱国语粤语流行曲。",
+  "lang": "zh"
  },
  {
   "id": "music-omni-daw",
@@ -26855,9 +26012,9 @@
   "date": "2026-08-04",
   "section": "music",
   "has_full": true,
-  "headline": "AI 샘플 생성을 품은 첫 DAW\nOMNi가 무료 알파로 나왔다",
-  "body": "러스트로 만든 OMNi는 ElevenLabs 샘플 생성과 이미지를 소리로 바꾸는 합성을 워크스테이션에 그대로 담았다.",
-  "lang": "ko",
+  "headline": "The First DAW With Built-In\nAI Sample Gen: OMNi's Free Alpha",
+  "body": "Written in Rust, OMNi folds ElevenLabs sample generation and image-to-sound synthesis right into the workstation.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26871,10 +26028,9 @@
   "date": "2026-08-04",
   "section": "music",
   "has_full": true,
-  "headline": "음악 산업 첫 MCP 서버가\nAI에 현업 데이터를 연결한다",
-  "body": "권한이 걸린 운영 데이터를 ChatGPT와 Claude에 물린 이 MCP 서버로, 45분짜리 작업을 20초 만에 끝낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "音乐业首个MCP服务器\n联通AI与业内数据",
+  "body": "这台MCP服务器把带权限的运营数据接入ChatGPT和Claude，45分钟的活20秒搞定。",
+  "lang": "zh"
  },
  {
   "id": "movies-stranger-vfx",
@@ -26887,10 +26043,9 @@
   "date": "2026-08-04",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 얼굴 교체 대신\n전통 CG로 되살린 어린 윌",
-  "body": "제작진은 ILM·웨타의 AI 얼굴 교체 대신 통제 쉬운 전통 CG 얼굴을 택했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不用AI换脸\nCG复原小Will",
+  "body": "剧组放弃ILM与Weta的AI换脸，选用更易把控的传统CG脸。",
+  "lang": "zh"
  },
  {
   "id": "games-meshy-3d-agent",
@@ -26903,10 +26058,9 @@
   "date": "2026-08-04",
   "section": "games",
   "has_full": true,
-  "headline": "메시가 3D 생성 AI를\n프롬프트에서 창작 파트너로",
-  "body": "메시의 3D 에이전트는 대화 맥락을 이어가며 스타일이 일관된 에셋 묶음을 한 번에 만들어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Meshy让3D生成AI\n从提示变搭档",
+  "body": "Meshy的3D Agent能延续对话，一次产出风格统一的素材组合。",
+  "lang": "zh"
  },
  {
   "id": "games-ludwig-fmv-ai-slop",
@@ -26919,9 +26073,9 @@
   "date": "2026-08-04",
   "section": "games",
   "has_full": true,
-  "headline": "루드윅을 NPC로 넣은 FMV 게임\nAI 슬롭으로 얼룩졌다",
-  "body": "FMV 게임 로드 투 엠프리스 2가 스트리머 루드윅을 NPC로 넣었지만 화면은 생성형 AI 슬롭으로 채워졌다.",
-  "lang": "ko",
+  "headline": "An FMV Game Cast Ludwig as NPC\nThen Got Smeared With AI Slop",
+  "body": "The FMV game Road to Empress 2 added streamer Ludwig as an NPC, but its screens are filled with generative AI slop.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -26935,10 +26089,9 @@
   "date": "2026-08-04",
   "section": "games",
   "has_full": true,
-  "headline": "더스크블러드 소식이 궁금한가\nAI 챗봇은 그냥 지어낸다",
-  "body": "출시도 안 된 프롬소프트의 더스크블러드를 두고 AI 챗봇은 레딧 농담글을 사실처럼 지어내 답한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "想了解Duskbloods\nAI却只会瞎编",
+  "body": "尚未发售的Duskbloods，AI聊天机器人却把Reddit玩笑当事实编造回答。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-samsung-gemini-notebook",
@@ -26951,10 +26104,9 @@
   "date": "2026-08-04",
   "section": "gadgets",
   "has_full": true,
-  "headline": "삼성 새 폴더블에 구글 제미나이\n노트북이 기본으로 탑재된다",
-  "body": "갤럭시 Z 폴드8과 플립8에 웹 자료를 팟캐스트나 슬라이드로 바꿔주는 제미나이 노트북이 깔려 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "三星新折叠屏\n标配Gemini",
+  "body": "新折叠机标配Gemini Notebook，能转网页为播客或幻灯片。",
+  "lang": "zh"
  },
  {
   "id": "design-proxy",
@@ -26967,10 +26119,9 @@
   "date": "2026-08-04",
   "section": "design",
   "has_full": true,
-  "headline": "이제 우리 작업을\n먼저 읽는 건 기계다",
-  "body": "사람보다 언어 모델이 먼저 읽는 시대에는 무엇을 기계에 맞출지 가려내는 눈이 중요해진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "现在先读我们作品的\n是机器而非人",
+  "body": "当语言模型比人先读懂内容，辨别该为机器调整什么的眼光变得重要。",
+  "lang": "zh"
  },
  {
   "id": "design-design-skill",
@@ -26983,10 +26134,9 @@
   "date": "2026-08-04",
   "section": "design",
   "has_full": true,
-  "headline": "AI에게 디자인 감각을\n스킬 파일로 가르치다",
-  "body": "밋밋한 시안만 내놓던 코딩 도구에 zine 디자인 규칙을 스킬 파일로 심자 결과물이 달라졌다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "给AI灌注设计感\n靠的是技能文件",
+  "body": "只因把zine设计规则写进技能文件，这款编码工具的呆板设计稿焕然一新。",
+  "lang": "zh"
  },
  {
   "id": "design-design-md",
@@ -27237,10 +26387,9 @@
   "date": "2026-08-03",
   "section": "games",
   "has_full": true,
-  "headline": "AI가 게임에서 진짜 쓸모 있는 자리는\n콘텐츠 양산이 아니다",
-  "body": "테이크투에서 AI 거버넌스를 이끌던 루크 디켄은 AI의 값어치가 콘텐츠를 빨리 찍어내는 데 있지 않다고 말한다. 플레이어마다 달라지는 경험을 여는 쪽에 진짜 쓸모가 있고, 스튜디오가 비용과 인력 구조에서 놓치는 위험도 함께 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI在游戏里\n不是为了量产",
+  "body": "曾在Take-Two领导AI治理的迪肯称，AI价值不在量产内容。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-qualcomm-mediatek-wearable-ai",
@@ -27253,9 +26402,9 @@
   "date": "2026-08-03",
   "section": "gadgets",
   "has_full": true,
-  "headline": "손목 위 AI를 위한\n3나노 칩 두 개",
-  "body": "퀄컴과 미디어텍이 3나노 칩을 나란히 내놓으며, 배터리를 크게 갉지 않고 시계와 안경 안에서 AI를 돌리는 길을 열었다.",
-  "lang": "ko",
+  "headline": "Two 3nm chips built for\nAI on your wrist",
+  "body": "Qualcomm and MediaTek unveiled 3nm chips, opening a path to run AI on watches and glasses without draining the battery.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -27301,10 +26450,9 @@
   "date": "2026-08-03",
   "section": "gadgets",
   "has_full": true,
-  "headline": "애플 AI 안경, 내년\nWWDC27에서 먼저 공개",
-  "body": "블룸버그 마크 거먼은 애플이 화면 없는 AI 안경을 내년 WWDC27에서 공개하고 2027년 말에 판다고 전했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "苹果AI眼镜\nWWDC27先亮相",
+  "body": "Gurman称苹果将在WWDC27展示AI眼镜，2027年末开售。",
+  "lang": "zh"
  },
  {
   "id": "design-tokenignite",
@@ -27317,10 +26465,9 @@
   "date": "2026-08-03",
   "section": "design",
   "has_full": true,
-  "headline": "피그마 변수를 실행 중인\n화면에 실시간으로 흘려보내다",
-  "body": "AI가 만든 레이아웃이 디자인에서 어긋나는 '디자인 드리프트'를 빌드 없이 런타임에서 먼저 잡아내는 검증 계층이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "将Figma变量\n实时推送到画面",
+  "body": "在构建前的运行时，先捕捉AI布局偏离设计的「设计漂移」。",
+  "lang": "zh"
  },
  {
   "id": "design-cost-aware-ai-video",
@@ -27333,10 +26480,9 @@
   "date": "2026-08-03",
   "section": "design",
   "has_full": true,
-  "headline": "렌더 버튼을 누르기 전에\n가격을 먼저 보여줘라",
-  "body": "생성형 AI 영상 도구에서 비용은 결과를 정하는 컨트롤에서 나오니, 같은 화면에서 실시간으로 보여야 한다는 UX 원칙이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "点击渲染前\n先显示价格",
+  "body": "生成式AI视频工具中，费用随控制变化，应在同屏实时显示。",
+  "lang": "zh"
  },
  {
   "id": "design-context-aware-ui",
@@ -27349,10 +26495,9 @@
   "date": "2026-08-03",
   "section": "design",
   "has_full": true,
-  "headline": "고정된 화면의 시대가\n저물고 있다",
-  "body": "위치와 움직임, 시간 같은 신호를 온디바이스 ML로 읽어 내비게이션과 레이아웃 자체를 실시간으로 바꾸는 UI가 온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "固定屏幕的时代\n正在渐渐落幕",
+  "body": "设备端ML实时读取位置、动作等信号，动态调整导航与布局。",
+  "lang": "zh"
  },
  {
   "id": "design-ai-copyright-payout",
@@ -27365,10 +26510,9 @@
   "date": "2026-08-03",
   "section": "design",
   "has_full": true,
-  "headline": "역대 최대 AI 저작권 합의,\n창작자에게 무엇이 바뀌나",
-  "body": "앤트로픽이 저자들에게 15억 달러를 물기로 했지만, 판결은 AI 학습 자체가 아니라 불법 다운로드를 문제 삼았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "史上最大AI版权和解\n创作者改变了什么",
+  "body": "Anthropic向作者支付15亿美元，但判决针对的是非法下载而非AI训练本身。",
+  "lang": "zh"
  },
  {
   "id": "design-accuface-2",
@@ -27381,10 +26525,9 @@
   "date": "2026-08-03",
   "section": "design",
   "has_full": true,
-  "headline": "리얼루전 어큐페이스 2,\nAI 얼굴 캡처를 다시 손봤다",
-  "body": "웹캠이나 영상 속 배우의 표정을 커브로 세밀하게 잡아 3D 캐릭터에 옮기고, 값은 299달러로 200달러 내렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AccuFace 2升级\nAI面部捕捉再进化",
+  "body": "Reallusion的AccuFace 2升级AI表情捕捉，降价200美元至299美元。",
+  "lang": "zh"
  },
  {
   "id": "books-agi-chronicles-roose",
@@ -27396,10 +26539,9 @@
   "date": "2026-08-03",
   "section": "books",
   "has_full": true,
-  "headline": "AGI 경쟁을 취재한 기자가\n샌드위치 가게에 빗댄 규제 공백",
-  "body": "뉴욕타임스 케빈 루스가 신간 'The AGI Chronicles'를 놓고 인터뷰했다. 인공 일반지능을 향한 질주와 정부 감독의 필요성을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "追踪AGI竞赛的记者\n把监管空白比作三明治店",
+  "body": "《纽约时报》凯文·罗斯谈新书，论AGI竞赛与政府监管的必要性。",
+  "lang": "zh"
  },
  {
   "id": "brain-age-sleep-eeg",
@@ -27412,10 +26554,9 @@
   "date": "2026-08-02",
   "section": "science",
   "has_full": true,
-  "headline": "수면 뇌파로 잰 뇌 나이가\n치매 위험을 앞서 짚는다",
-  "body": "UCSF 연구진이 성인 약 7천 명의 수면 뇌파로 뇌 나이를 추정하니, 실제보다 늙은 뇌는 치매 위험이 크게 높았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "睡眠脑波测出脑龄\n提前预警痴呆风险",
+  "body": "UCSF团队用约7000名成人的睡眠脑波估算脑龄，偏老的大脑痴呆风险明显更高。",
+  "lang": "zh"
  },
  {
   "id": "ai-telescope-stargazing",
@@ -27428,10 +26569,9 @@
   "date": "2026-08-02",
   "section": "science",
   "has_full": true,
-  "headline": "실시간으로 하늘을 살피며\n스스로 관측하는 AI 망원경",
-  "body": "노스웨스턴대 연구진의 강화학습 AI가 날씨와 하늘 상태에 맞춰 다크에너지카메라의 관측 일정을 스스로 짠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "实时观察天空\n自主观测的AI望远镜",
+  "body": "西北大学AI根据天气和天况自主安排暗能量相机的观测计划。",
+  "lang": "zh"
  },
  {
   "id": "soundboost",
@@ -27444,10 +26584,9 @@
   "date": "2026-08-02",
   "section": "music",
   "has_full": true,
-  "headline": "사운드부스트, 원하는 소리를 말하면\nAI가 믹싱과 마스터링을 끝낸다",
-  "body": "원하는 소리를 말로 설명하면 믹싱과 마스터링이 끝나고, 무료 스템 분리기까지 함께 제공된다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "说出想要的声音\nAI完成混音母带",
+  "body": "用文字说出想要的声音，AI就能完成混音与母带处理，还附带免费分轨工具。",
+  "lang": "zh"
  },
  {
   "id": "wonder-dynamics",
@@ -27460,10 +26599,9 @@
   "date": "2026-08-02",
   "section": "movies",
   "has_full": true,
-  "headline": "연기를 CG로 옮기되\n손은 아티스트가",
-  "body": "Wonder Dynamics의 Flow Studio는 실사 연기를 CG 캐릭터로 옮기면서도 아티스트가 통제권을 쥐게 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "表演转为CG动画\n主导权仍握在艺术家手中",
+  "body": "Flow Studio把表演转为CG角色，主导权仍在艺术家手中。",
+  "lang": "zh"
  },
  {
   "id": "luma-layers",
@@ -28155,10 +27293,9 @@
   "date": "2026-07-31",
   "section": "books",
   "has_full": true,
-  "headline": "시 재단 서고를 긁어\nAI 교육 콘텐츠를 찍어내다",
-  "body": "CZ 자오가 세운 기글 아카데미가 시 재단의 저작권 시를 긁어 AI 교육 콘텐츠를 자동으로 찍어냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "扒光诗歌基金会\n书库批量产AI教材",
+  "body": "CZ Zhao的Giggle Academy抓取诗歌基金会版权诗作，自动生成AI教育内容。",
+  "lang": "zh"
  },
  {
   "id": "solid-state-battery-database",
@@ -28187,10 +27324,9 @@
   "date": "2026-07-30",
   "section": "science",
   "has_full": true,
-  "headline": "센서 하나로 즉석 초음파 영상을 되살리는 AI",
-  "body": "IMDEA 연구진이 센서 하나가 잡은 신호만으로 완전한 초음파 영상을 복원했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "单一传感器\n即时还原超声图像",
+  "body": "IMDEA团队仅凭单个传感器捕捉的信号就复原了完整的超声图像。",
+  "lang": "zh"
  },
  {
   "id": "raygun-protein-redesign",
@@ -28203,10 +27339,9 @@
   "date": "2026-07-30",
   "section": "science",
   "has_full": true,
-  "headline": "단백질을 수식으로 바꿔 다시 설계하는 Raygun",
-  "body": "듀크대 연구진이 단백질을 표준 수식으로 바꿔 크기와 형태를 자유롭게 다시 설계했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "把蛋白质变成\n公式重新设计Raygun",
+  "body": "杜克大学团队把蛋白质转化为标准公式，自由重新设计其大小和形态。",
+  "lang": "zh"
  },
  {
   "id": "quantum-rl-self-calibration",
@@ -28219,10 +27354,9 @@
   "date": "2026-07-30",
   "section": "science",
   "has_full": true,
-  "headline": "오류에서 배워 스스로 조율하는 양자컴퓨터",
-  "body": "구글의 강화학습 에이전트가 오류 신호로 수천 개 제어 변수를 실시간 보정했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "从错误中学习\n自我校准的量子计算机",
+  "body": "谷歌的强化学习智能体用错误信号实时校正了数千个控制变量。",
+  "lang": "zh"
  },
  {
   "id": "labels-ban-ai-slop-charts",
@@ -28235,10 +27369,9 @@
   "date": "2026-07-30",
   "section": "music",
   "has_full": true,
-  "headline": "AI 슬롭 곡을 세계 차트에서\n빼자는 메이저 3사",
-  "body": "소니와 유니버설, 워너가 완전 AI로 만든 곡을 차트 집계에서 빼자고 요구했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "三大厂牌呼吁\n将AI劣质曲剔出榜单",
+  "body": "索尼、环球和华纳要求将完全由AI制作的歌曲从榜单统计中剔除。",
+  "lang": "zh"
  },
  {
   "id": "human-first-label-needs-teeth",
@@ -28251,10 +27384,9 @@
   "date": "2026-07-30",
   "section": "music",
   "has_full": true,
-  "headline": "아무도 검증 못 하는\n'휴먼 퍼스트'라는 약속",
-  "body": "'휴먼 퍼스트' 라벨은 유통사가 작곡·연주·보컬을 항목별로 검증해야 의미가 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "无人能验证\n的「人类优先」承诺",
+  "body": "“人类优先”标签只有发行商逐项核实作曲、演奏和演唱才有意义。",
+  "lang": "zh"
  },
  {
   "id": "canada-only-humans-authors-copyright",
@@ -28267,10 +27399,9 @@
   "date": "2026-07-30",
   "section": "music",
   "has_full": true,
-  "headline": "저작자는 사람뿐이라는\n캐나다 음악 출판사들",
-  "body": "캐나다 음악 출판사 단체가 저작권 소송에 개입해 저작자는 사람뿐이라 주장했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "作者只能是\n人类的加拿大出版商",
+  "body": "加拿大音乐出版商团体正式介入版权诉讼，主张作者只能是人类。",
+  "lang": "zh"
  },
  {
   "id": "audioauditor-ai-detect-toolkit",
@@ -28283,10 +27414,9 @@
   "date": "2026-07-30",
   "section": "music",
   "has_full": true,
-  "headline": "AI 곡까지 잡아내는\n무료 오픈소스 오디오 툴킷",
-  "body": "오픈소스 앱 오디오오디터가 워터마크·바이트 패턴으로 AI 곡까지 가려낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "连AI歌曲都能\n识别的开源工具",
+  "body": "开源应用AudioAuditor通过水印和字节模式识别AI歌曲。",
+  "lang": "zh"
  },
  {
   "id": "saga-ai-video-source-attribution",
@@ -28299,10 +27429,9 @@
   "date": "2026-07-30",
   "section": "movies",
   "has_full": true,
-  "headline": "AI 영상을 만든 모델까지\n역추적하는 도구 SAGA",
-  "body": "UC 리버사이드 연구팀이 생성 영상에 남은 시각적 지문을 읽어 원본 모델을 추적한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "追溯AI视频\n生成模型的SAGA",
+  "body": "UC河滨分校研究团队通过读取生成视频中残留的视觉指纹来追踪原始模型。",
+  "lang": "zh"
  },
  {
   "id": "nvidia-synthetic-video-detector-mcp-siggraph",
@@ -28315,10 +27444,9 @@
   "date": "2026-07-30",
   "section": "movies",
   "has_full": true,
-  "headline": "NVIDIA가 딥페이크 탐지와\nAI 에이전트를 함께 열다",
-  "body": "엔비디아가 시그래프 2026에서 합성 영상 탐지 NIM과 MCP를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "NVIDIA同时推出\n深度伪造检测与AI代理",
+  "body": "NVIDIA在SIGGRAPH 2026大会上发布了合成视频检测NIM与MCP。",
+  "lang": "zh"
  },
  {
   "id": "studios-refusing-genai",
@@ -28331,10 +27459,9 @@
   "date": "2026-07-30",
   "section": "games",
   "has_full": true,
-  "headline": "생성형 AI를 거부하는\n게임 스튜디오 명단",
-  "body": "50곳 넘는 스튜디오가 생성형 AI를 개발에서 빼겠다고 공개 선언했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "拒绝生成式AI\n的游戏工作室名单",
+  "body": "超过50家游戏工作室已公开宣布，将在开发中彻底排除生成式AI。",
+  "lang": "zh"
  },
  {
   "id": "dlss5-direct-final-frame",
@@ -28347,9 +27474,9 @@
   "date": "2026-07-30",
   "section": "games",
   "has_full": true,
-  "headline": "DLSS 5, 아티스트가\n최종 프레임을 지휘한다",
-  "body": "신경 렌더링이 단일 GPU에서 한 단계 확산만으로 4K 화면을 만들어낸다.",
-  "lang": "ko",
+  "headline": "DLSS 5 Puts Artists\nin Charge of the Final Frame",
+  "body": "Neural rendering produces 4K frames on a single GPU with just one stage of diffusion.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -28363,10 +27490,9 @@
   "date": "2026-07-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "오우라 링5가 더 작아지고\n어드바이저 AI로 코치한다",
-  "body": "5세대 오우라 링이 40% 작아지고, 오우라 어드바이저 AI가 건강 조언을 건넨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Oura Ring 5更小\nAdvisor AI来指导",
+  "body": "第五代Oura Ring缩小40%，Oura Advisor AI提供健康建议。",
+  "lang": "zh"
  },
  {
   "id": "meta-ray-ban-display-muse-spark",
@@ -28379,10 +27505,9 @@
   "date": "2026-07-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "레이밴 디스플레이가\n뮤즈 스파크로 똑똑해졌다",
-  "body": "메타가 레이밴 디스플레이에 더 빠른 뮤즈 스파크 AI를 배포하기 시작했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Meta眼镜变聪明\n搭载Muse Spark",
+  "body": "Meta开始向Ray-Ban Display推送更快的Muse Spark AI。",
+  "lang": "zh"
  },
  {
   "id": "ios-27-siri-apple-intelligence",
@@ -28395,10 +27520,9 @@
   "date": "2026-07-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "iOS 27의 새 시리가\n기대를 그대로 채웠다",
-  "body": "iOS 27의 새 시리가 폭넓은 지식과 대화형 UI, 애플 기기 통합까지 채웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "iOS27新Siri\n不负众望",
+  "body": "iOS27新Siri满足了广泛知识、对话式UI与苹果设备整合。",
+  "lang": "zh"
  },
  {
   "id": "alexa-plus-smart-home-app-store",
@@ -28411,10 +27535,9 @@
   "date": "2026-07-30",
   "section": "gadgets",
   "has_full": true,
-  "headline": "알렉사+가 스마트홈\n앱 스토어로 열렸다",
-  "body": "아마존이 스마트홈 제조사가 기기 기능을 알렉사+에 연결하도록 개발자 툴킷을 열었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Alexa+开放\n智能家居商店",
+  "body": "亚马逊开放开发者工具包，让智能家居厂商接入Alexa+。",
+  "lang": "zh"
  },
  {
   "id": "where-ai-belongs-games",
@@ -28427,10 +27550,9 @@
   "date": "2026-07-30",
   "section": "design",
   "has_full": true,
-  "headline": "AI가 게임 개발에서\n진짜 있어야 할 자리",
-  "body": "디켄은 생성형 AI의 쓸모가 콘텐츠 자동화보다 저마다 다른 경험에 있다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI在游戏开发\n真正的位置",
+  "body": "迪肯认为生成式AI的价值在于个性化体验，而非内容自动化。",
+  "lang": "zh"
  },
  {
   "id": "nexthena-121-i18n",
@@ -28443,10 +27565,9 @@
   "date": "2026-07-30",
   "section": "design",
   "has_full": true,
-  "headline": "AI 화이트보드 넥스테나\n다국어와 테마를 다듬다",
-  "body": "넥스테나 1.2.1이 영어·중국어 전환을 더해, 화이트보드가 OS 명암을 따른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI白板优化\n多语言与主题",
+  "body": "Nexthena 1.2.1新增英中切换，白板跟随系统明暗模式。",
+  "lang": "zh"
  },
  {
   "id": "agent-native-actions",
@@ -28459,9 +27580,9 @@
   "date": "2026-07-30",
   "section": "design",
   "has_full": true,
-  "headline": "UI가 하는 일은 모두\n에이전트도 할 수 있다",
-  "body": "모든 기능을 액션 하나로 묶어, 화면에서 되는 일이면 에이전트도 똑같이 처리한다.",
-  "lang": "ko",
+  "headline": "Everything the UI Does\nAgents Can Do Too",
+  "body": "By bundling every feature into a single action, agents handle anything the screen can do.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -28475,10 +27596,9 @@
   "date": "2026-07-30",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 쓴 소설이\n베스트셀러에 올랐다",
-  "body": "스토니브룩대 연구진이 화제작 다거마우스를 60% AI로 쓰인 소설로 판정했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI写的小说\n登上畅销榜",
+  "body": "石溪大学研究团队将话题小说《匕首嘴》判定为60%由AI写成的作品。",
+  "lang": "zh"
  },
  {
   "id": "symptomai",
@@ -28491,10 +27611,9 @@
   "date": "2026-07-29",
   "section": "science",
   "has_full": true,
-  "headline": "대화형 진단 AI의 소견을\n의사들이 더 선호했다",
-  "body": "구글 리서치의 대화형 진단 에이전트 SymptomAI가 낸 감별 진단을 임상의들이 절반 넘는 사례에서 동료보다 선호했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "对话诊断AI\n更受医生青睐",
+  "body": "谷歌研究院对话诊断智能体SymptomAI的鉴别诊断更受临床医生青睐。",
+  "lang": "zh"
  },
  {
   "id": "quasar",
@@ -28507,10 +27626,9 @@
   "date": "2026-07-29",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 DESI 자료를 훑어\n렌즈 퀘이사를 두 배로",
-  "body": "오하이오주립대 팀이 모의 렌즈로 훈련한 AI로 80만 개 DESI 천체에서 렌즈 퀘이사 후보 7개를 찾아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI筛查DESI数据\n透镜类星体翻倍",
+  "body": "俄亥俄州立大学团队用AI在80万个DESI天体中找到7个透镜类星体候选。",
+  "lang": "zh"
  },
  {
   "id": "l2t",
@@ -28523,10 +27641,9 @@
   "date": "2026-07-29",
   "section": "science",
   "has_full": true,
-  "headline": "관찰만으로 세상의 규칙을\n스스로 세우는 AI",
-  "body": "KAIST 연구진의 L2T는 관찰만으로 변화의 규칙을 스스로 찾아 실행 가능한 프로그램으로 엮어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "仅凭观察建立\n世界规则的AI",
+  "body": "L2T仅凭观察就能自行找出变化规则，并整合成可执行程序。",
+  "lang": "zh"
  },
  {
   "id": "binn",
@@ -28539,10 +27656,9 @@
   "date": "2026-07-29",
   "section": "science",
   "has_full": true,
-  "headline": "신경망이 토양 탄소를\n50배 빠르게 측정하다",
-  "body": "코넬 연구진의 생지화학 기반 신경망 BINN은 정확도를 지키면서 토양 탄소를 이전보다 50배 빠르게 계산한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "神经网络测土壤\n碳速度快50倍",
+  "body": "康奈尔团队的BINN在保持精度的同时将土壤碳计算速度提高50倍。",
+  "lang": "zh"
  },
  {
   "id": "elevenmusic-vocals-refs",
@@ -28554,10 +27670,9 @@
   "date": "2026-07-29",
   "section": "music",
   "has_full": true,
-  "headline": "일레븐랩스, AI 음악에\n레퍼런스·보컬 기능 추가",
-  "body": "일레븐랩스가 일레븐뮤직에 참조 음원으로 스타일을 잡는 레퍼런스와 목소리로 곡을 짓는 보컬 기능을 넣었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "伊莱文实验室\nAI音乐新功能",
+  "body": "伊莱文实验室为旗下AI音乐工具新增了参考音源和人声创作两项功能。",
+  "lang": "zh"
  },
  {
   "id": "reply-jury",
@@ -28570,10 +27685,9 @@
   "date": "2026-07-29",
   "section": "movies",
   "has_full": true,
-  "headline": "리플 AI 영화제 심사위원에\n롭 민코프·캐서린 하드윅",
-  "body": "AI 단편을 겨루는 리플 AI 영화제가 롭 민코프와 캐서린 하드윅을 심사위원으로 세웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "回声AI影展评委\n明科夫·哈德威克",
+  "body": "回声AI电影节请来罗布·明科夫和凯瑟琳·哈德威克担任评委。",
+  "lang": "zh"
  },
  {
   "id": "reluctant-ai",
@@ -28586,10 +27700,9 @@
   "date": "2026-07-29",
   "section": "movies",
   "has_full": true,
-  "headline": "15년 전통 영화 제작자\n이제 마지못해 AI로 간다",
-  "body": "무너지는 중예산 영화를 살리려, 15년 경력의 제작자가 마지못해 생성형 AI 제작 도구로 돌아섰다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "传统制片人15年\n如今无奈转AI",
+  "body": "为挽救日渐崩溃的中成本电影，15年制片人无奈转向生成式AI制作工具。",
+  "lang": "zh"
  },
  {
   "id": "gods-gifts",
@@ -28602,10 +27715,9 @@
   "date": "2026-07-29",
   "section": "movies",
   "has_full": true,
-  "headline": "유튜브에서 태어난 AI 장편\n극장 개봉을 눈앞에 두다",
-  "body": "가십 고블린 채널이 통째로 AI로 만든 장편이 유튜브 구독층을 발판 삼아 극장 개봉으로 넘어갈 채비를 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "YouTube诞生AI长片\n即将登上大银幕",
+  "body": "八卦精灵频道全程用AI制作的长片，将借助YouTube粉丝基础登上院线。",
+  "lang": "zh"
  },
  {
   "id": "ocarina-ipad",
@@ -28618,10 +27730,9 @@
   "date": "2026-07-29",
   "section": "games",
   "has_full": true,
-  "headline": "AI 디컴파일로 되살린 오카리나\niPad에서 네이티브로 실행된다",
-  "body": "AI 디컴파일 기법으로 만든 이식판이 아이패드에서 N64의 프레임 제약 없이 네이티브로 돌아간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI反编译复活奥卡利纳\n在iPad上原生运行",
+  "body": "这款借助AI反编译技术移植的版本，摆脱N64帧率限制，可在iPad上原生运行。",
+  "lang": "zh"
  },
  {
   "id": "gemini-automation",
@@ -28634,10 +27745,9 @@
   "date": "2026-07-29",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제미나이 작업 자동화가\n40개 넘는 앱으로 확장됐다",
-  "body": "갤럭시 Z 폴드8에 처음 실린 제미나이가 쇼핑과 예약, 여행까지 40개 넘는 앱에서 여러 단계 작업을 대신 처리한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Gemini任务自动\n扩展至40+应用",
+  "body": "Fold8搭载的Gemini现可在40多个应用中代办购物、预订与旅行。",
+  "lang": "zh"
  },
  {
   "id": "galaxy-watch-9-health",
@@ -28650,10 +27760,9 @@
   "date": "2026-07-29",
   "section": "gadgets",
   "has_full": true,
-  "headline": "갤럭시 워치9·울트라2에\nAI 건강 기능이 붙었다",
-  "body": "삼성이 갤럭시 워치9와 울트라2를 내놓으며 개인 건강 코치와 피트니스 지수, 혈관 부하 등 AI 건강 기능을 담았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Watch9与Ultra2\n搭载AI健康功能",
+  "body": "三星推出Watch9与Ultra2，加入健康教练、体适能指数、血管负荷等AI健康功能。",
+  "lang": "zh"
  },
  {
   "id": "ai-activity-dashboard",
@@ -28666,10 +27775,9 @@
   "date": "2026-07-29",
   "section": "gadgets",
   "has_full": true,
-  "headline": "백그라운드 AI를 지켜보는\n삼성의 새 대시보드",
-  "body": "원 UI 9은 제미나이가 백그라운드에서 처리한 작업을 한곳에서 확인하는 AI 활동 대시보드를 새로 담았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "监视后台AI\n三星新仪表盘",
+  "body": "One UI 9新增AI活动面板，集中查看Gemini的后台任务。",
+  "lang": "zh"
  },
  {
   "id": "octane-neural",
@@ -28682,10 +27790,9 @@
   "date": "2026-07-29",
   "section": "design",
   "has_full": true,
-  "headline": "OctaneRender 2027.1\n신경망 렌더링을 알파 공개",
-  "body": "Otoy는 낮은 샘플에서도 노이즈가 거의 없는 신경망 렌더링을 OctaneRender 알파에 담았다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "OctaneRender\n2027.1神经渲染α",
+  "body": "Otoy将低采样下几乎无噪点的神经渲染加入OctaneRender测试版。",
+  "lang": "zh"
  },
  {
   "id": "no-handoff",
@@ -28698,10 +27805,9 @@
   "date": "2026-07-29",
   "section": "design",
   "has_full": true,
-  "headline": "디자이너가 AI를 지휘해\n핸드오프 없이 직접 만든다",
-  "body": "디자이너 Merav Shaked는 AI를 팀처럼 지휘해 하룻밤 만에 포트폴리오를 직접 다시 만들었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "设计师指挥AI\n无交接亲自做",
+  "body": "设计师Merav Shaked像指挥团队一样调度AI，一夜之间亲手重做了作品集。",
+  "lang": "zh"
  },
  {
   "id": "macpaw-eney",
@@ -28714,9 +27820,9 @@
   "date": "2026-07-29",
   "section": "design",
   "has_full": true,
-  "headline": "채팅창을 벗어난 AI 조수\nMacPaw의 캐릭터 실험",
-  "body": "MacPaw는 텍스트 창 대신 표정을 지닌 원형 캐릭터 Eney를 만들어 AI 조수를 다시 설계했다.",
-  "lang": "ko",
+  "headline": "MacPaw's AI Assistant\nSteps Outside the Chat Box",
+  "body": "MacPaw redesigned its AI assistant by creating Eney, an expressive round character, instead of a text box.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -28729,9 +27835,9 @@
   "date": "2026-07-29",
   "section": "books",
   "has_full": true,
-  "headline": "AI 멀티캐스트 내레이션\n블라인드 실험서 사람 앞섰다",
-  "body": "에디슨 리서치 블라인드 실험에서 청취자들이 AI 멀티캐스트를 단독 사람 낭독보다 조금 높게 평가했다.",
-  "lang": "ko",
+  "headline": "AI Multicast Narration\nBeat Humans in Blind Test",
+  "body": "In an Edison Research blind test, listeners rated AI multicast narration slightly above solo human narration.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -28745,10 +27851,9 @@
   "date": "2026-07-28",
   "section": "science",
   "has_full": true,
-  "headline": "DNA가 세포마다 유전자를\n어떻게 켜는지 읽는 AI",
-  "body": "막스플랑크 연구진이 만든 Corgi는 세포 유형마다 유전자가 켜지고 꺼지는 양상을 예측한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "DNA读懂细胞\n基因开关的AI",
+  "body": "马普所团队开发的Corgi预测各细胞类型中基因的开关模式。",
+  "lang": "zh"
  },
  {
   "id": "cognitivebci",
@@ -28760,10 +27865,9 @@
   "date": "2026-07-28",
   "section": "science",
   "has_full": true,
-  "headline": "인지 장애를 겨냥한\n뇌-컴퓨터 인터페이스",
-  "body": "마운트시나이 연구진은 우울증과 불안, PTSD, 강박을 겨냥한 인지형 BCI 로드맵을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "瞄准认知障碍\n脑机接口新方向",
+  "body": "西奈山研究团队提出针对抑郁、焦虑、PTSD与强迫症的认知型脑机接口路线图。",
+  "lang": "zh"
  },
  {
   "id": "aitoolvetting",
@@ -28776,10 +27880,9 @@
   "date": "2026-07-28",
   "section": "movies",
   "has_full": true,
-  "headline": "검증 안 된 AI 도구는\n결국 쌓이는 리스크다",
-  "body": "제프 그린버그는 포스트 현장에 쏟아지는 소규모 AI 도구를 믿기 전 다섯 가지를 따져 리스크를 재라고 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "未经验证AI工具\n终将积累风险",
+  "body": "Jeff Greenberg提醒，信任小型AI工具前先核查五项风险。",
+  "lang": "zh"
  },
  {
   "id": "duskbloods-ai-lore",
@@ -28792,10 +27895,9 @@
   "date": "2026-07-28",
   "section": "games",
   "has_full": true,
-  "headline": "출시도 안 한 게임의 가짜 보스를\n구글 AI가 사실처럼 퍼뜨린다",
-  "body": "레딧 팬들이 지어낸 더스크블러드의 가짜 보스와 설정을 구글 AI 개요가 사실인 양 검색 결과에 띄운다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "未发布游戏假Boss\n被Google AI当真",
+  "body": "Reddit编造的Duskbloods假Boss被Google AI当真呈现。",
+  "lang": "zh"
  },
  {
   "id": "blendcap-mocap",
@@ -28808,10 +27910,9 @@
   "date": "2026-07-28",
   "section": "games",
   "has_full": true,
-  "headline": "영상 하나로 전신·손·표정을\n캡처하는 블렌더 애드온",
-  "body": "블렌드캡은 녹화한 영상 하나에서 전신과 손, 표정 동작을 따내 게임 캐릭터 릭에 바로 옮긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Blender插件\n一段视频全捕捉",
+  "body": "BlendCap从一段录像中提取全身、手部与表情动作，直接套用到游戏角色骨架上。",
+  "lang": "zh"
  },
  {
   "id": "looki-ai-pendant",
@@ -28824,10 +27925,9 @@
   "date": "2026-07-28",
   "section": "gadgets",
   "has_full": true,
-  "headline": "루키, 하루 종일 녹화하는\nAI 목걸이의 앞날을 비춘다",
-  "body": "늘 켜진 AI 카메라 목걸이 루키를 석 달간 걸친 CNET 기자가 그 어색함과 사생활 부담을 전한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Looki全天录制\nAI项链的未来",
+  "body": "CNET记者佩戴全天录制的AI项链Looki三个月，讲述其尴尬与隐私负担。",
+  "lang": "zh"
  },
  {
   "id": "byd-xiaodi-robot",
@@ -28840,9 +27940,9 @@
   "date": "2026-07-28",
   "section": "gadgets",
   "has_full": true,
-  "headline": "BYD, 테슬라 옵티머스에 맞설\n휴머노이드 샤오디를 예고한다",
-  "body": "BYD가 테슬라 옵티머스에 맞설 이족보행 휴머노이드 로봇 샤오디를 8월 공개로 예고했다.",
-  "lang": "ko",
+  "headline": "BYD Teases Humanoid Xiaodi\nto Rival Tesla Optimus",
+  "body": "BYD teased Xiaodi, a bipedal humanoid robot meant to rival Tesla's Optimus, for an August reveal.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -28856,10 +27956,9 @@
   "date": "2026-07-28",
   "section": "gadgets",
   "has_full": true,
-  "headline": "AMD, 로봇에 넣을 임베디드\n라이젠 AI 칩을 내놓는다",
-  "body": "AMD가 라이젠 AI 실리콘을 담은 X100 칩을 휴머노이드와 엣지 로봇의 두뇌로 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AMD推出嵌入式\n机器人用锐龙AI芯片",
+  "body": "AMD推出搭载锐龙AI芯片的X100，作为人形和边缘机器人的大脑。",
+  "lang": "zh"
  },
  {
   "id": "pincushion-ui-feedback",
@@ -29324,10 +28423,9 @@
   "date": "2026-07-26",
   "section": "design",
   "has_full": true,
-  "headline": "앤트로픽 오퍼스 5, 절반 값에\n코딩부터 사무까지 한 모델로",
-  "body": "클로드 오퍼스 5가 프런티어급 성능을 절반 값에 내놓으며, 커서·러버블·피그마 메이크 등 디자인 툴의 엔진을 통째로 끌어올렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Opus 5半价来\n编程办公一体",
+  "body": "Claude Opus 5以半价带来前沿级性能,全面提升Cursor等设计工具引擎。",
+  "lang": "zh"
  },
  {
   "id": "handfont",
@@ -29340,10 +28438,9 @@
   "date": "2026-07-26",
   "section": "design",
   "has_full": true,
-  "headline": "손글씨 사진 한 장이 폰트로\n전 과정을 오픈소스로 풀었다",
-  "body": "어두운 조명에서 찍은 손글씨 한 페이지를 넣으면 설치되는 TTF가 나오는 파이프라인을, 시스템 의존성 없는 순수 npm 패키지로 만들어 MIT로 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一张手写照片\n变全开源字体",
+  "body": "暗光下拍一页手写,就能生成可安装TTF的零依赖npm包,MIT开源。",
+  "lang": "zh"
  },
  {
   "id": "bookdrift",
@@ -29356,10 +28453,9 @@
   "date": "2026-07-26",
   "section": "design",
   "has_full": true,
-  "headline": "24페이지 그림책 내내\n같은 아이 얼굴 지키기",
-  "body": "생성형 일러스트로 그림책을 만들 때 진짜 난관은 24페이지 내내 같은 아이를 흔들림 없이 지키는 것으로, 한 장씩이 아니라 책 전체를 한 단위로 다시 생성해야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "绘本24页\n守住同一张脸",
+  "body": "生成绘本的真正难题是24页里守住同一个孩子,要整本重生成而非逐页。",
+  "lang": "zh"
  },
  {
   "id": "xrayagent",
@@ -29372,10 +28468,9 @@
   "date": "2026-07-25",
   "section": "science",
   "has_full": true,
-  "headline": "싱크로트론 실험을 스스로\n정렬하는 에이전트 AI",
-  "body": "스탠퍼드·SLAC 연구진의 에이전트 AI가 빔라인에서 단결정 시료를 스스로 정렬했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "同步辐射实验\nAI代理自校准",
+  "body": "斯坦福与SLAC团队的AI代理在光束线上自行完成了单晶样品的对准。",
+  "lang": "zh"
  },
  {
   "id": "hiddenvars",
@@ -29388,10 +28483,9 @@
   "date": "2026-07-25",
   "section": "science",
   "has_full": true,
-  "headline": "숨은 변수 몇 개로\n거대 물질계를 미리 읽는 AI",
-  "body": "싱가포르국립대 연구진은 원자 일부의 힘만 보고 50만 개가 넘는 원자 물질계의 거동을 예측했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "少数隐藏变量\n预知巨大物系",
+  "body": "NUS团队仅观测部分原子受力,预测了超50万原子系统的行为。",
+  "lang": "zh"
  },
  {
   "id": "creepnorm",
@@ -29404,10 +28498,9 @@
   "date": "2026-07-25",
   "section": "science",
   "has_full": true,
-  "headline": "생명과학에 소리 없이\n스며드는 LLM, 경계는 없다",
-  "body": "생성형 AI가 경계도 정해지기 전에 생명과학 연구의 일상으로 스며든다고 국제 연구진이 경고했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "LLM悄悄渗入\n生命科学无界",
+  "body": "国际研究团队警告,生成式AI在边界划定前已渗入生命科学研究的日常。",
+  "lang": "zh"
  },
  {
   "id": "cellforge",
@@ -29420,9 +28513,9 @@
   "date": "2026-07-25",
   "section": "science",
   "has_full": true,
-  "headline": "바이오 생산 현장에 맞춘\nAI 세포 공학 모델",
-  "body": "Triplebar Bio 연구진은 생산 조건에 맞춰 숙주 세포의 유전체 설계를 돕는 AI를 만들고 있다.",
-  "lang": "ko",
+  "headline": "An AI Cell-Engineering Model\nBuilt for Bioproduction",
+  "body": "Triplebar Bio's researchers are building AI that helps design host cell genomes to match production conditions.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -29436,10 +28529,9 @@
   "date": "2026-07-25",
   "section": "music",
   "has_full": true,
-  "headline": "스포티파이 대화형 AI가\n음악 발견의 규칙을 바꾼다",
-  "body": "스포티파이가 챗봇형 ‘토크 투 스포티파이’를 베타 공개하며, 프롬프트로 음악을 찾는 대화형 발견을 실험한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Spotify对话AI\n改写音乐发现",
+  "body": "Spotify测试聊天式“Talk to Spotify”,用提示词对话发现音乐。",
+  "lang": "zh"
  },
  {
   "id": "maqam-archive",
@@ -29452,10 +28544,9 @@
   "date": "2026-07-25",
   "section": "music",
   "has_full": true,
-  "headline": "미분음 아랍 마캄 튜닝을\nDAW 안으로 가져오는 무료 플러그인",
-  "body": "카얌 알라미 연구팀이 수백 개 아랍 마캄 튜닝을 무료 아카이브와 오픈소스 플러그인 탕힘으로 함께 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "阿拉伯微分音律\n免费插件进DAW",
+  "body": "Khyam Allami团队公开数百种阿拉伯玛卡姆调音及开源插件Tanghim。",
+  "lang": "zh"
  },
  {
   "id": "lorde-about-the-song",
@@ -29468,10 +28559,9 @@
   "date": "2026-07-25",
   "section": "music",
   "has_full": true,
-  "headline": "로드가 스포티파이 AI 곡 해설\n기능을 공개적으로 밀어냈다",
-  "body": "로드가 자기 곡을 잘못 설명한 스포티파이 AI ‘어바웃 더 송’을 공개 비판하자, 스포티파이가 해당 문구를 지웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Lorde批评Spotify\nAI解说功能",
+  "body": "Lorde公开批评Spotify AI“关于这首歌”功能后,该平台删除了相关文字。",
+  "lang": "zh"
  },
  {
   "id": "landr-fair-trade",
@@ -29484,10 +28574,9 @@
   "date": "2026-07-25",
   "section": "music",
   "has_full": true,
-  "headline": "AI 학습에 쓰인 곡값을\n인디 아티스트에게 돌려준다",
-  "body": "랜더가 AI 학습용 데이터셋 라이선스 순수익의 25%를 참여 아티스트에게 나누고 곡당 5달러도 선지급한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI训练用曲费\n回馈独立音乐人",
+  "body": "LANDR将AI数据集授权净收入的25%分给参与音乐人,并为每首曲预付5美元。",
+  "lang": "zh"
  },
  {
   "id": "sparkstory",
@@ -29500,10 +28589,9 @@
   "date": "2026-07-25",
   "section": "movies",
   "has_full": true,
-  "headline": "스파크 스토리 베타 공개\n브라우저로 짜는 프리비스",
-  "body": "파이널 드래프트 대본을 불러와 장소와 인물을 분석하고 25종 넘는 마블 환경으로 가상 촬영장을 짠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Spark Story公测\n浏览器做预演",
+  "body": "可导入Final Draft剧本,分析地点与人物,用超25种Marble环境搭建虚拟片场。",
+  "lang": "zh"
  },
  {
   "id": "steam-aidisclosure-devs",
@@ -29516,10 +28604,9 @@
   "date": "2026-07-25",
   "section": "games",
   "has_full": true,
-  "headline": "스팀의 생성 AI 표기 의무는 옳다\n개발자들이 밸브 편에 섰다",
-  "body": "팀 스위니의 반대와 달리 개발자들은 생성 AI 사용을 소비자에게 알려야 한다며 밸브의 표기 의무를 지지했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Steam强制标AI\n开发者站Valve",
+  "body": "不同于Tim Sweeney的反对,开发者支持Valve强制披露生成式AI使用的规定。",
+  "lang": "zh"
  },
  {
   "id": "nvidia-dgx-agents",
@@ -29532,10 +28619,9 @@
   "date": "2026-07-25",
   "section": "games",
   "has_full": true,
-  "headline": "DGX 스테이션에서 개인 AI 에이전트를\n30분 만에 로컬 실행",
-  "body": "엔비디아 에이전트 툴킷을 깔면 DGX 스테이션에서 인터넷 없이 개인 에이전트를 로컬로 돌린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "DGX工作站30分钟\n本地跑个人AI助手",
+  "body": "安装英伟达Agent Toolkit后,DGX工作站可离线本地运行个人智能体。",
+  "lang": "zh"
  },
  {
   "id": "samsung-intelligent-eyewear",
@@ -29548,10 +28634,9 @@
   "date": "2026-07-25",
   "section": "gadgets",
   "has_full": true,
-  "headline": "삼성 인텔리전트 아이웨어\n제미나이 안경을 만져봤다",
-  "body": "워비파커·젠틀몬스터와 만든 제미나이 안경은 얇고 가벼웠고 통역과 길안내를 손 없이 처리한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "三星智能眼镜\n试戴Gemini眼镜",
+  "body": "Warby Parker打造的Gemini眼镜轻薄,还能免提完成翻译和导航。",
+  "lang": "zh"
  },
  {
   "id": "gemini-nano-4-fold8",
@@ -29791,10 +28876,9 @@
   "date": "2026-07-24",
   "section": "music",
   "has_full": true,
-  "headline": "AI가 누구 음악을 참고했는지\nSOCAN이 추적하기로 했다",
-  "body": "SOCAN과 Musical AI가 회원 곡이 AI 결과물에 섞인 정도를 가려낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI参考了谁\nSOCAN要追踪",
+  "body": "SOCAN与Musical AI将查明会员歌曲融入AI生成作品的程度。",
+  "lang": "zh"
  },
  {
   "id": "concatenator",
@@ -29807,9 +28891,9 @@
   "date": "2026-07-24",
   "section": "music",
   "has_full": true,
-  "headline": "스튜디오 잼을 AI 샘플러에 통째로 넣어\nCharli XCX의 드럼이 나왔다",
-  "body": "A. G. Cook은 잼 녹음을 Concatenator에 넣어 드럼 패턴을 짰다.",
-  "lang": "ko",
+  "headline": "A studio jam went into AI\nand made Charli XCX's drums",
+  "body": "A. G. Cook fed a jam recording into Concatenator to build the drum pattern.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -29839,10 +28923,9 @@
   "date": "2026-07-24",
   "section": "movies",
   "has_full": true,
-  "headline": "무료 SAM2 매팅 툴,\n머리카락 로토를 몇 시간 줄인다",
-  "body": "머리카락 같은 잔털까지 자동으로 따내 손 마스킹에 쓰던 몇 시간을 덜어주는 무료 SAM2 매팅 도구다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "免费SAM2抠图\n省去数小时抠毛发",
+  "body": "免费SAM2抠图工具自动抠出发丝级细节,省下大量手动遮罩时间。",
+  "lang": "zh"
  },
  {
   "id": "raindanceimgn",
@@ -29855,10 +28938,9 @@
   "date": "2026-07-24",
   "section": "movies",
   "has_full": true,
-  "headline": "레인댄스와 IMGN, 인디 감독에게\n1만 파운드 펀드와 개발 허브",
-  "body": "제34회 레인댄스가 IMGN과 £10,000 펀드를 열고 2027년 각본 공모에 개발 허브를 붙였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "雨舞影展与IMGN\n设1万镑基金与基地",
+  "body": "第34届雨舞影展联合IMGN设立£10,000基金,为2027年剧本赛配开发基地。",
+  "lang": "zh"
  },
  {
   "id": "promiseai",
@@ -29871,10 +28953,9 @@
   "date": "2026-07-24",
   "section": "movies",
   "has_full": true,
-  "headline": "'샤크네이도'와 '닥터후' 작가가\n이제 AI 영화를 만든다",
-  "body": "Promise AI가 각본가·쇼러너를 생성형 창작자와 짝지어 AI 영화 'Tuning In'을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "《鲨卷风》编剧\n如今转做AI电影",
+  "body": "Promise AI把编剧和节目统筹与生成式创作者配对,推出AI电影《Tuning In》。",
+  "lang": "zh"
  },
  {
   "id": "kokboru",
@@ -29887,9 +28968,9 @@
   "date": "2026-07-24",
   "section": "movies",
   "has_full": true,
-  "headline": "12명이 2주 만에 만든\n15분 애니 'Kök Börü'",
-  "body": "손그림 캐릭터와 채색 텍스처로 생성 결과를 붙잡아, 열두 명이 2주 만에 15분짜리 애니메이션을 끝냈다.",
-  "lang": "ko",
+  "headline": "Twelve people made a\n15-minute anime, 'Kök Börü'",
+  "body": "Anchoring output to hand-drawn characters and painted textures, twelve people finished a 15-minute anime in two weeks.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -29903,10 +28984,9 @@
   "date": "2026-07-24",
   "section": "games",
   "has_full": true,
-  "headline": "Steam 신작 셋 중 하나가\n이미 AI 사용을 밝히고 있다",
-  "body": "2026년 Steam 신작의 30.8%가 AI 사용을 표기했고, 이 기울기면 2027~2028년에 절반을 넘긴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Steam三分之一\n新作已标注AI",
+  "body": "2026年Steam新作30.8%标注用AI,按此趋势27至28年将过半。",
+  "lang": "zh"
  },
  {
   "id": "openriglogic",
@@ -29919,9 +28999,9 @@
   "date": "2026-07-24",
   "section": "games",
   "has_full": true,
-  "headline": "MetaHuman 릭을 Blender로\n그대로 옮기는 OpenRigLogic",
-  "body": "Poly Hammer가 OpenRigLogic을 Blender에 붙여, MetaHuman DNA의 거동을 Unreal 밖에서 손본다.",
-  "lang": "ko",
+  "headline": "OpenRigLogic brings the\nMetaHuman rig into Blender",
+  "body": "Poly Hammer attached OpenRigLogic to Blender, so MetaHuman DNA rigs can be tweaked outside Unreal.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -29935,10 +29015,9 @@
   "date": "2026-07-24",
   "section": "games",
   "has_full": true,
-  "headline": "Mario Kart Wii를 PC로 옮긴\n첫 정적 리컴파일, 문제는 AI",
-  "body": "patchzy가 AI 코딩으로 Mario Kart Wii를 PC용 정적 리컴파일로 옮겼고, 팬들은 곧장 등을 돌렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Wii首例静态\n重编译却卷入AI争议",
+  "body": "patchzy用AI编程把Mario Kart Wii移植到PC,粉丝迅速翻脸。",
+  "lang": "zh"
  },
  {
   "id": "inworldtts",
@@ -29951,10 +29030,9 @@
   "date": "2026-07-24",
   "section": "games",
   "has_full": true,
-  "headline": "잘 뽑힌 AI 음성 테이크를\n다시 불러오는 Inworld 기록",
-  "body": "Inworld TTS Playground가 뽑아낸 음성마다 보이스와 모델, 설정을 남겨 언제든 되살린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "录到好声音\nInworld能随时找回",
+  "body": "Inworld TTS Playground为每条语音记录声音、模型与设置,随时可还原。",
+  "lang": "zh"
  },
  {
   "id": "fnaivoice",
@@ -29967,9 +29045,9 @@
   "date": "2026-07-24",
   "section": "games",
   "has_full": true,
-  "headline": "7월 30일부터 Fortnite 섬에\n말을 받아치는 AI NPC가 선다",
-  "body": "Epic이 Gemini로 움직이는 캐릭터 음성 36종을 열고, 7월 30일 UEFN 대화 시스템이 실험 딱지를 뗀다.",
-  "lang": "ko",
+  "headline": "Starting July 30, Fortnite\nislands get talking AI NPCs",
+  "body": "Epic is opening 36 Gemini-powered voices and lifting the experimental tag from UEFN's dialogue system on July 30.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -29983,10 +29061,9 @@
   "date": "2026-07-24",
   "section": "gadgets",
   "has_full": true,
-  "headline": "macOS 27 베타에 숨어 있던\n시리 '보이스 패드'",
-  "body": "macOS 27 베타에 숨은 화면에서 커서를 움직이면 미국식 영어 목소리 13종이 공간 음향으로 가까워지고 멀어진다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "macOS27测试版中\n隐藏的Siri语音盘",
+  "body": "在隐藏画面移动光标,13种美式英语声音会以空间音效远近变化。",
+  "lang": "zh"
  },
  {
   "id": "ultrahumanemerald",
@@ -29999,10 +29076,9 @@
   "date": "2026-07-24",
   "section": "gadgets",
   "has_full": true,
-  "headline": "울트라휴먼이 분석을 전부\n반지 안으로 옮겼다",
-  "body": "울트라휴먼이 앱을 에메랄드로 갈아엎고 분석을 전부 기기에서 처리해, 인터넷이 끊겨도 인사이트가 나온다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Ultrahuman把分析\n全部搬进了戒指",
+  "body": "Ultrahuman推出Emerald版应用,分析全部在本地完成,断网也能看洞察。",
+  "lang": "zh"
  },
  {
   "id": "mouthpad",
@@ -30015,10 +29091,9 @@
   "date": "2026-07-24",
   "section": "gadgets",
   "has_full": true,
-  "headline": "혀로 굴리는 트랙패드에\n바이브 코더가 눈독을 들인다",
-  "body": "접근성 기기로 나온 Augmental의 MouthPad와 Vox를 AI 코더들이 손 안 쓰는 입력 장치로 데려간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "用舌头滚动的触控板\n让氛围编程者盯上了",
+  "body": "AI程序员把Augmental的MouthPad和Vox变成免手操作输入设备。",
+  "lang": "zh"
  },
  {
   "id": "geminilivemini",

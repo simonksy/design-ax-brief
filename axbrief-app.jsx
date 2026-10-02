@@ -131,6 +131,30 @@ if (!document.getElementById('ax-styles')) {
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}
     .ax-tabs::-webkit-scrollbar{display:none;}
   }
+  /* ---- Pro 비교표 + 요금제 버튼 (SubscribeModal). 색·모션은 Pro 열과 할인
+     스티커에만 쓴다 — 나머지 모달은 사이트의 절제된 톤을 그대로 유지한다. */
+  .ax-pro-col{background:linear-gradient(135deg,rgba(121,40,202,.12),rgba(0,112,243,.12));
+     background-size:220% 220%;background-position:0% 50%;}
+  .ax-pro-badge{display:inline-block;padding:3px 11px;border-radius:999px;font-size:11.5px;
+     font-weight:700;color:#fff;letter-spacing:.02em;
+     background:linear-gradient(135deg,#7928ca,#0070f3);background-size:180% 180%;}
+  .ax-check{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;
+     border-radius:50%;font-size:11px;line-height:1;color:#fff;
+     background:linear-gradient(135deg,#7928ca,#0070f3);}
+  .ax-plan-btn{position:relative;display:block;width:100%;box-sizing:border-box;text-align:left;
+     cursor:pointer;border:none;border-radius:12px;font-family:Pretendard,system-ui;
+     transition:transform .15s ease;}
+  .ax-plan-btn:active{transform:scale(.98);}
+  .ax-sticker{position:absolute;top:-10px;right:-6px;display:inline-block;padding:3px 9px;
+     border-radius:999px;font-size:11px;font-weight:700;color:#fff;transform:rotate(-8deg);
+     background:linear-gradient(135deg,#ff5a4d,#7928ca);box-shadow:0 4px 12px -4px rgba(121,40,202,.6);}
+  @media (prefers-reduced-motion: no-preference){
+    .ax-pro-col{animation:axprodrift 9s ease-in-out infinite alternate;}
+    .ax-pro-badge{animation:axprodrift 9s ease-in-out infinite alternate;}
+    .ax-sticker{animation:axstickerpulse 2s ease-in-out infinite;}
+  }
+  @keyframes axprodrift{0%{background-position:0% 50%}100%{background-position:100% 50%}}
+  @keyframes axstickerpulse{0%,100%{transform:rotate(-8deg) scale(1)}50%{transform:rotate(-8deg) scale(1.06)}}
   /* ---- card flip: front summary <-> back full translated article ---- */
   /* perspective + preserve-3d are applied INLINE only while flipping/flipped (see
      FlipCard) so a resting card has no 3D compositing layer — a 3D layer is what was
@@ -421,17 +445,213 @@ function AxPill({ label, onClick, t, style }) {
   );
 }
 
-/* subscribe CTA modal — replaces the old magic-link LoginModal. There is no
-   in-site entitlement system in this teaser-paywall iteration: "구독하기" opens
-   the Patreon membership checkout in a new tab (no email, no /api call; unlock
-   comes later when payment webhooks are wired). */
-const SUBSCRIBE_URL = 'https://www.patreon.com/join/axitnow';  // 멤버십 선택 페이지 (Pro 설명 + 무료체험 버튼)
+/* Paddle.js를 한 번만 불러온다. 결제창을 열 때까지 로드하지 않아 첫 화면이 가벼워진다. */
+let axPaddleReady = null;
+function loadPaddle(clientToken, environment) {
+  if (axPaddleReady) return axPaddleReady;
+  axPaddleReady = new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.src = 'https://cdn.paddle.com/paddle/v2/paddle.js';
+    s.onload = () => {
+      try {
+        if (environment === 'sandbox') window.Paddle.Environment.set('sandbox');
+        window.Paddle.Initialize({ token: clientToken });
+        resolve(window.Paddle);
+      } catch (e) { reject(e); }
+    };
+    s.onerror = () => reject(new Error('paddle_script_failed'));
+    document.head.appendChild(s);
+  });
+  return axPaddleReady;
+}
+
+/* 결제 직후 권한을 다시 읽는다. 권한은 Paddle 웹훅이 열어주므로 브라우저가 결제
+   성공을 본 시점에는 아직 안 열려 있을 수 있다. 2초 간격 5회까지 기다린다. */
+async function pollEntitlement(tries = 5, gapMs = 2000) {
+  for (let i = 0; i < tries; i++) {
+    await new Promise((r) => setTimeout(r, gapMs));
+    try {
+      const me = await fetch('/api/me', { credentials: 'same-origin' }).then((r) => r.json());
+      if (me.entitled) return true;
+    } catch { /* 네트워크 일시 오류는 다음 회차에서 다시 본다 */ }
+  }
+  return false;
+}
+
+/* Pro 혜택 비교표 행. 나중에 메일 리포트·키워드 알림·MCP가 붙으면 여기에 줄을 추가한다. */
+const PRO_ROWS = [
+  { key: 'cards',   free: '1',    pro: '40' },
+  { key: 'deep',    free: false,  pro: true },
+  { key: 'archive', free: false,  pro: true },
+  { key: 'graph',   free: false,  pro: true },
+  { key: 'langs',   free: true,   pro: true },
+];
+
+/* 비교표 한 셀 — true면 체크(Pro 열은 강조색 원 안의 흰 체크), false면 흐린 가로줄,
+   문자열이면 그 문자열(Pro 열은 더 크고 굵게 — 숫자 대비가 가장 직관적이다). */
+function ProCell({ v, t, strong }) {
+  if (v === true) {
+    return strong
+      ? <span className="ax-check" aria-hidden>✓</span>
+      : <span style={{ color: t.body }}>✓</span>;
+  }
+  if (v === false) return <span style={{ color: t.faint }}>—</span>;
+  return (
+    <span style={{ color: strong ? t.hl : t.body, fontWeight: strong ? 700 : 400,
+      fontSize: strong ? 15 : 12.5 }}>{v}</span>
+  );
+}
+
+/* 무료/Pro 혜택 비교표 — SubscribeModal의 choose 화면, 요금제 버튼 위에 뜬다.
+   Pro 열만 그라데이션 테두리로 띄워 담백한 무료 열과 대비시킨다. */
+function ProCompareTable({ t }) {
+  const proBorder = '1px solid rgba(121,40,202,.38)';
+  return (
+    <div style={{ marginBottom: 14, borderRadius: 10, overflow: 'hidden', border: '1px solid ' + t.rule,
+      display: 'grid', gridTemplateColumns: '1fr 52px 58px', fontFamily: 'Pretendard, system-ui' }}>
+      <div />
+      <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 11.5, fontWeight: 600, color: t.mute }}>
+        {tx('pro.col_free')}
+      </div>
+      <div className="ax-pro-col" style={{ padding: '7px 4px 6px', textAlign: 'center',
+        border: proBorder, borderBottom: 'none', borderRadius: '9px 9px 0 0' }}>
+        <span className="ax-pro-badge">{tx('pro.col_pro')}</span>
+      </div>
+      {PRO_ROWS.map((row, i) => {
+        const last = i === PRO_ROWS.length - 1;
+        return (
+          <React.Fragment key={row.key}>
+            <div style={{ padding: '7px 10px 7px 0', fontSize: 13, fontWeight: 500, color: t.body,
+              borderTop: '1px solid ' + t.rule }}>
+              {tx('pro.row_' + row.key)}
+            </div>
+            <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 12.5, borderTop: '1px solid ' + t.rule }}>
+              <ProCell v={row.free} t={t} />
+            </div>
+            <div className="ax-pro-col" style={{ padding: '7px 4px', textAlign: 'center',
+              borderLeft: proBorder, borderRight: proBorder,
+              borderBottom: last ? proBorder : 'none', borderRadius: last ? '0 0 9px 9px' : 0 }}>
+              <ProCell v={row.pro} t={t} strong />
+            </div>
+          </React.Fragment>
+        );
+      })}
+    </div>
+  );
+}
+
+/* 첫 결제일 — 첫 달 무료이므로 오늘 + 1개월. setMonth는 말일을 넘기면(1/31 → 3/3)
+   엉뚱한 달로 넘어가므로, 목표 월의 마지막 날을 넘으면 그 달 말일로 고정한다.
+   주의: 이 날짜는 Paddle 가격에 "1개월 무료 체험"이 설정돼 있다는 전제에서만 맞다.
+   그 설정이 바뀌면 이 계산도 함께 바꿔야 한다 — 그러지 않으면 사용자에게 거짓
+   결제일을 보여주게 된다. */
+function firstChargeDate() {
+  const d = new Date();
+  const day = d.getDate();
+  d.setDate(1);
+  d.setMonth(d.getMonth() + 1);
+  const lastDay = new Date(d.getFullYear(), d.getMonth() + 1, 0).getDate();
+  d.setDate(Math.min(day, lastDay));
+  return d;
+}
+function firstChargeLabel() {
+  try {
+    const dateStr = new Intl.DateTimeFormat(window.AX_LANG_TAG,
+      { year: 'numeric', month: 'long', day: 'numeric' }).format(firstChargeDate());
+    return tx('paywall.first_charge', { date: dateStr });
+  } catch { return ''; }
+}
+
 /* NOTE: rendered via createPortal to document.body — the carousel slides are CSS-
    transformed, and position:fixed inside a transformed ancestor anchors to that
    ancestor instead of the viewport (the modal appeared on the NEIGHBORING slide).
    The portal escapes the transform so the popup opens over the card you tapped,
    with the blurred locked card still visible behind the translucent backdrop. */
+/* 구독 모달 — 플랜 2종. 결제창은 Paddle 오버레이로 사이트 위에 뜬다. */
 function SubscribeModal({ onClose, t }) {
+  const [phase, setPhase] = useState('choose');   // choose | confirming | slow | error | login | sent
+  const [note, setNote] = useState('');
+  const [email, setEmail] = useState('');
+  const [sendingLink, setSendingLink] = useState(false);
+  // 이미 구독 중인 사람에겐 요금제 대신 "이미 구독 중" 안내 + 관리 버튼을 보여준다.
+  // 읽기 전에는 요금제를 보여준다(기본값) — 정적 프리뷰(워커 없음)에서 /api/me가
+  // 404/네트워크 오류여도 조용히 묻힌다.
+  const [me, setMe] = useState(null);
+  useEffect(() => {
+    let live = true;
+    fetch('/api/me', { credentials: 'same-origin' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (live && d) setMe(d); })
+      .catch(() => {});
+    return () => { live = false; };
+  }, []);
+  // 금액은 서버(env)가 확정하고, 그 금액을 감싸는 말('월'/'연')은 i18n 틀이 갖는다.
+  // 버튼이 결제창과 다른 금액을 말하는 일도 없고, 한국어 페이지가 영어로 바뀌는 일도
+  // 없다. 응답이 없으면 기존 i18n 문자열(금액 포함)로 그대로 떨어진다.
+  const [amounts, setAmounts] = useState(null);
+  useEffect(() => {
+    let live = true;
+    fetch('/api/billing/checkout', { credentials: 'same-origin' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (live && d && d.amounts) setAmounts(d.amounts); })
+      .catch(() => {});
+    return () => { live = false; };
+  }, []);
+  const planPrice = (plan) => {
+    const amount = amounts && amounts[plan];
+    return amount ? tx(`paywall.plan_${plan}_fmt`, { amount }) : tx(`paywall.plan_${plan}`);
+  };
+
+  const start = async (plan) => {
+    try {
+      const res = await fetch('/api/billing/checkout', {
+        method: 'POST', credentials: 'same-origin',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ plan }),
+      });
+      if (res.status === 401) { setPhase('login'); return; }
+      // 409 = 이미 Paddle 구독 행이 있다. 두 번째 구독을 열면 첫 구독이 고아가 되므로
+      // 서버가 막는다 — 사용자는 '구독 관리'로 가야 한다.
+      if (res.status === 409) { setPhase('error'); setNote(tx('paywall.already_subscribed')); return; }
+      if (!res.ok) { setPhase('error'); setNote(tx('paywall.checkout_failed')); return; }
+      const cfg = await res.json();
+      const Paddle = await loadPaddle(cfg.clientToken, cfg.environment);
+      Paddle.Checkout.open({
+        items: [{ priceId: cfg.priceId, quantity: 1 }],
+        customer: { email: cfg.email },
+        customData: { email: cfg.email },      // 웹훅이 이 이메일로 권한을 연다
+        settings: { displayMode: 'overlay', theme: 'light' },
+        eventCallback: async (e) => {
+          if (e.name !== 'checkout.completed') return;
+          setPhase('confirming');
+          if (await pollEntitlement()) window.location.reload();
+          else setPhase('slow');
+        },
+      });
+    } catch {
+      setPhase('error'); setNote(tx('paywall.checkout_failed'));
+    }
+  };
+
+  /* 두 버튼 모두 색이 채워진 형태. 연간이 기본 추천이라 그라데이션으로 더 강하게 띄우고,
+     우상단에 "-17%" 스티커(아리아 레이블은 현지화된 문구)를 얹는다. */
+  const Plan = ({ plan, price, discount, highlight }) => (
+    <button onClick={() => start(plan)} className="ax-plan-btn" style={{
+      padding: '14px 16px', marginBottom: 8,
+      background: highlight ? 'linear-gradient(135deg,#7928ca,#0070f3)' : t.hl,
+      boxShadow: highlight ? '0 10px 26px -10px rgba(121,40,202,.55)' : '0 6px 16px -8px rgba(40,30,20,.4)',
+    }}>
+      {discount && <span className="ax-sticker" aria-label={discount}>-17%</span>}
+      <span style={{ display: 'block', fontSize: 16, fontWeight: 700, color: '#fff' }}>{price}</span>
+      <span style={{ display: 'block', marginTop: 4, fontSize: 12, color: 'rgba(255,255,255,.85)' }}>
+        {tx('paywall.trial')}
+      </span>
+      <span style={{ display: 'block', marginTop: 2, fontSize: 11.5, color: 'rgba(255,255,255,.72)' }}>
+        {firstChargeLabel()}
+      </span>
+    </button>
+  );
+
   return ReactDOM.createPortal(
     <div onClick={(e) => { e.stopPropagation(); onClose(); }}
       style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
@@ -442,18 +662,66 @@ function SubscribeModal({ onClose, t }) {
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
           {tx('paywall.modal_body')}
         </p>
-        <AxPill label={tx('paywall.subscribe')} t={t}
-          onClick={() => { window.open(SUBSCRIBE_URL, '_blank', 'noopener'); onClose(); }} />
-        <p style={{ margin: '10px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center' }}>
-          {tx('paywall.new_tab')}
-        </p>
-        <p style={{ margin: '12px 0 0', fontSize: 12, lineHeight: 1.5, color: '#a09890', textAlign: 'center',
-          fontFamily: 'Pretendard, system-ui' }}>
-          {tx('paywall.already')}{' '}
-          <a href="/api/auth/patreon" style={{ color: '#a09890', textDecoration: 'underline' }}>
-            {tx('paywall.login')}
-          </a>
-        </p>
+        {phase === 'choose' && (
+          <React.Fragment>
+            <ProCompareTable t={t} />
+            {me && me.hasSubscription ? (
+              <React.Fragment>
+                <div style={{ display: 'inline-flex', alignItems: 'center', gap: 6, fontSize: 12, fontWeight: 600,
+                  color: t.hl, background: 'rgba(0,0,0,.045)', padding: '5px 11px', borderRadius: 999, marginBottom: 10 }}>
+                  ✓ {tx('pro.active')}
+                </div>
+                <div style={{ marginTop: 2 }}><ManageLink t={t} /></div>
+              </React.Fragment>
+            ) : (
+              <React.Fragment>
+                <Plan plan="monthly" price={planPrice('monthly')} />
+                <Plan plan="yearly" price={planPrice('yearly')} highlight
+                  discount={tx('paywall.plan_yearly_note')} />
+              </React.Fragment>
+            )}
+          </React.Fragment>
+        )}
+        {phase === 'login' && (
+          <React.Fragment>
+            <p style={{ margin: '0 0 10px', fontSize: 13, color: '#5a5450' }}>{tx('paywall.login_first')}</p>
+            <input type="email" value={email} onChange={(e) => setEmail(e.target.value)}
+              placeholder={tx('paywall.email_label')} autoComplete="email"
+              style={{ width: '100%', boxSizing: 'border-box', padding: '10px 12px', fontSize: 16,
+                borderRadius: 10, border: '1px solid ' + t.rule, marginBottom: 8 }} />
+            <AxPill label={tx('paywall.send_link')} t={t}
+              style={sendingLink ? { opacity: .6, pointerEvents: 'none' } : undefined}
+              onClick={async () => {
+                if (sendingLink || !email.includes('@')) return;
+                setSendingLink(true);
+                try {
+                  // 상태 코드를 반드시 본다 — 발송 실패를 '보냈습니다'로 보여주면
+                  // 사용자는 오지 않는 메일을 기다리게 된다.
+                  const r = await fetch('/api/auth/request', { method: 'POST',
+                    headers: { 'content-type': 'application/json' },
+                    body: JSON.stringify({ email }) });
+                  if (!r.ok) { setPhase('error'); setNote(tx('paywall.send_link_failed')); return; }
+                  setPhase('sent');
+                } catch {
+                  setPhase('error'); setNote(tx('paywall.send_link_failed'));
+                } finally {
+                  setSendingLink(false);
+                }
+              }} />
+          </React.Fragment>
+        )}
+        {phase === 'sent' && (
+          <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.link_sent')}</p>
+        )}
+        {phase === 'confirming' && (
+          <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.confirming')}</p>
+        )}
+        {phase === 'slow' && (
+          <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.confirm_slow')}</p>
+        )}
+        {phase === 'error' && (
+          <p style={{ margin: 0, fontSize: 14, color: '#b4453c' }}>{note}</p>
+        )}
       </div>
     </div>,
     document.body
@@ -735,7 +1003,7 @@ function FlipCard({ item, index, total, active, t, mobile, onFlipChange, section
   useEffect(() => () => clearTimeout(flipTimer.current), []);
   // locked card — a real card (front fields are public) rendered blurred behind a
   // subscribe overlay; it has no `full` in the payload, so it must never flip.
-  // EXCEPT for an entitled Patreon member: they get the normal flip card below,
+  // EXCEPT for an entitled subscriber: they get the normal flip card below,
   // whose back (PremiumFullArticle) lazy-fetches the deep-dive from the Worker.
   if (item.locked && !entitled) {
     return <LockedCard item={item} index={index} total={total} t={t} mobile={mobile} section={section} />;
@@ -1109,12 +1377,39 @@ function ProBadge({ onClick }) {
   );
 }
 
+/* 구독 행이 있는 사람에게 보이는 관리 링크 — 카드 변경·해지·영수증은 Paddle 포털에서
+   한다. entitled가 아니라 hasSubscription으로 띄운다: 갱신이 실패해 기간이 끝난 순간이
+   바로 카드를 고쳐야 하는 순간인데, 그때 링크가 사라지면 할 수 있는 게 없다. */
+function ManageLink({ t }) {
+  const [busy, setBusy] = useState(false);
+  const [msg, setMsg] = useState('');
+  return (
+    <React.Fragment>
+      <button disabled={busy} onClick={async () => {
+        setBusy(true); setMsg('');
+        try {
+          const r = await fetch('/api/billing/portal', { credentials: 'same-origin' });
+          const b = await r.json();
+          if (b.url) { window.open(b.url, '_blank', 'noopener'); return; }
+          setMsg(r.status === 404 ? tx('paywall.manage_no_subscription') : tx('paywall.manage_unavailable'));
+        } catch {
+          setMsg(tx('paywall.manage_unavailable'));
+        } finally { setBusy(false); }
+      }} className="ax-eyebrow" style={{ cursor: 'pointer', border: 'none', background: 'none',
+        color: t.faint, textDecoration: 'underline', padding: 0 }}>
+        {tx('paywall.manage')}
+      </button>
+      {msg && <div className="ax-eyebrow" style={{ marginTop: 4, color: t.faint }}>{msg}</div>}
+    </React.Fragment>
+  );
+}
+
 /* ---- WeeklyTimeline: 5-day axis; hover fans a deck + pushes neighbors. When
    `!entitled`, the whole archive is Pro-gated: every deck renders blurred with
    a 🔒 badge (see DayDeck), a "Become a Pro" pill sits next to the heading, the
    helper copy hints at the paywall, and any click (deck or badge) opens
    SubscribeModal instead of the day. ---- */
-function WeeklyTimeline({ t, onOpen, days, entitled }) {
+function WeeklyTimeline({ t, onOpen, days, entitled, hasSubscription }) {
   days = days || [];
   const [hd, setHd] = useState(null);   // hovered day index
   const [hc, setHc] = useState(null);   // hovered card index within the day
@@ -1134,7 +1429,10 @@ function WeeklyTimeline({ t, onOpen, days, entitled }) {
             ? tx('deck.hint_desktop')
             : tx('deck.locked')}
         </p>
-        {!entitled && <div style={{ marginTop: 12 }}><ProBadge onClick={() => setShowSubscribe(true)} /></div>}
+        <div style={{ marginTop: 12 }}>
+          {hasSubscription ? <ManageLink t={t} />
+            : !entitled ? <ProBadge onClick={() => setShowSubscribe(true)} /> : null}
+        </div>
       </div>
       <div style={{ position: 'relative', display: 'flex', alignItems: 'flex-start', padding: '178px 40px 0' }}>
         <div style={{ position: 'absolute', left: 40, right: 40, top: 178 + 148, height: 1, background: t.rule, zIndex: 0 }} />
@@ -1206,7 +1504,7 @@ function useIsMobile(maxW) {
    RIGHT so yesterday is shown first and swiping left travels into the past. Each
    day is a block with its date pinned above its cards. Tap a card → opens it large
    in the hero (same flow as the desktop deck). Replaces WeeklyTimeline on mobile. ---- */
-function MobileFilmstrip({ t, onOpen, days, entitled }) {
+function MobileFilmstrip({ t, onOpen, days, entitled, hasSubscription }) {
   days = days || [];
   const stripRef = useRef();
   const [showSubscribe, setShowSubscribe] = useState(false);
@@ -1230,7 +1528,10 @@ function MobileFilmstrip({ t, onOpen, days, entitled }) {
           {entitled ? tx('deck.hint_mobile')
             : tx('deck.locked')}
         </p>
-        {!entitled && <div style={{ marginTop: 10 }}><ProBadge onClick={() => setShowSubscribe(true)} /></div>}
+        <div style={{ marginTop: 10 }}>
+          {hasSubscription ? <ManageLink t={t} />
+            : !entitled ? <ProBadge onClick={() => setShowSubscribe(true)} /> : null}
+        </div>
       </div>
       <div className="ax-strip" ref={stripRef}>
         {days.map((day) => {
@@ -1389,7 +1690,7 @@ function insightsLoadScript(src) {
 
 function InsightsView({ t, mobile, entitled }) {
   // 프리미엄 게이트: 비구독자는 노드 1개까지 자유롭게 탐색, 다른 노드를
-  // 선택하려는 순간 Patreon 구독 팝업. (그래프 자체는 모두에게 공개)
+  // 선택하려는 순간 구독 팝업. (그래프 자체는 모두에게 공개)
   const entitledRef = useRef(entitled); entitledRef.current = entitled;
   const freeSelRef = useRef(null);
   const [showSubscribe, setShowSubscribe] = useState(false);
@@ -2139,15 +2440,23 @@ function ThemedPage({ themeKey }) {
   // behind it) renders identically to before — the /api/me fetch 404s there, the
   // r.ok guard keeps it from throwing, and the catch keeps it silent (no console
   // spam beyond the one failed request). Once the Worker is live, a signed-in
-  // Patreon member's /api/me returns {loggedIn:true, entitled:true} and every
+  // subscriber's /api/me returns loggedIn and entitled both set and every
   // locked card (below) renders unblurred with a lazy-fetched deep-dive instead
   // of the LockedCard subscribe overlay.
-  const [auth, setAuth] = useState({ loggedIn: false, entitled: false });
+  const [auth, setAuth] = useState({ loggedIn: false, entitled: false, hasSubscription: false });
   useEffect(() => {
     fetch('/api/me', { credentials: 'same-origin' })
       .then((r) => (r.ok ? r.json() : null))
       .then((d) => { if (d) setAuth(d); })
       .catch(() => {});
+  }, []);
+  // 헤더 Pro 버튼(i18n.js, React를 모르므로 이벤트로만 알림)이 쏘는 'ax:subscribe'를
+  // 듣고 구독 모달을 연다. i18n.js의 axMountGlobe와 같은 역할의 짝.
+  const [showSubscribe, setShowSubscribe] = useState(false);
+  useEffect(() => {
+    const onProClick = () => setShowSubscribe(true);
+    window.addEventListener('ax:subscribe', onProClick);
+    return () => window.removeEventListener('ax:subscribe', onProClick);
   }, []);
   // Insights(Pro 전용 지식 네트워크) 뷰 — #insights 딥링크로도 진입. 엔타이틀이
   // 아니면 렌더 시점에 브리프로 폴백되므로 해시만으로는 열리지 않는다.
@@ -2313,8 +2622,10 @@ function ThemedPage({ themeKey }) {
             </div>
             {/* PAST DAYS — fan-out deck timeline (desktop) / horizontal filmstrip (mobile) */}
             {(cur.days || []).length > 0 && (isMobile
-              ? <MobileFilmstrip t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled} />
-              : <WeeklyTimeline t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled} />)}
+              ? <MobileFilmstrip t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled}
+                  hasSubscription={auth.hasSubscription} />
+              : <WeeklyTimeline t={t} onOpen={openDay} days={cur.days} entitled={auth.entitled}
+                  hasSubscription={auth.hasSubscription} />)}
           </React.Fragment>
         ) : (
           /* empty section (no news yet) */
@@ -2331,6 +2642,7 @@ function ThemedPage({ themeKey }) {
           </p>
         </footer>
       </div>
+      {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     </div>
   );
 }

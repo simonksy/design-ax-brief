@@ -1,13 +1,40 @@
 import { LANGS, pickLang, splitLangPath } from "./lib/lang.js";
 import { signSession, verifySession } from "./lib/crypto.js";
-import { issueMagicToken, consumeMagicToken } from "./lib/tokens.js";
+import { issueMagicToken, consumeMagicToken, rateLimited } from "./lib/tokens.js";
 import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } from "./lib/cookies.js";
-import { getEntitlement } from "./lib/entitlement.js";
+import { getEntitlement, hasPaddleSubscription } from "./lib/entitlement.js";
 import { sendMagicLink } from "./lib/email.js";
-import { patreonAuthorizeUrl, exchangeCode, fetchIdentity, membershipStatus } from "./lib/patreon.js";
+import { verifyPaddleSignature, toEntitlement, fetchCustomerEmail } from "./lib/paddle.js";
+import { applyEntitlement } from "./lib/billing.js";
 
 const json = (obj, status = 200, extra = {}) =>
   new Response(JSON.stringify(obj), { status, headers: { "content-type": "application/json", ...extra } });
+
+// custom_data.email(로그인한 계정)과 Paddle 고객 이메일(영수증이 가는 주소)이 갈리는
+// 경우를 로그로만 남긴다. 권한은 custom_data 쪽에 여는 게 맞다 — 세션이 있는 주소다.
+// 막지 않는 이유: 잘못된 행에 권한을 여는 것은 복구 가능하지만, 실제 결제를 거부하는
+// 것은 복구할 수 없다. 조회는 waitUntil로 돌려 웹훅 응답을 늦추지 않는다.
+async function warnEmailMismatch(env, delta) {
+  try {
+    const paddleEmail = await fetchCustomerEmail(env, delta.customerId);
+    if (paddleEmail && paddleEmail !== delta.email)
+      console.error("paddle webhook: email mismatch — event", delta.eventId,
+                    "custom_data:", delta.email, "paddle customer:", paddleEmail,
+                    "customer:", delta.customerId);
+  } catch (e) {
+    console.error("paddle webhook: customer lookup failed — event", delta.eventId,
+                  String((e && e.message) || e));
+  }
+}
+
+// 버튼에 표시할 금액. 금액을 i18n 파일 10개에 문자열로 박아두면 Paddle에서 가격이
+// 바뀐 순간 버튼은 $5.99라고 하고 결제창은 다른 금액을 받는다 — 차지백 사유다.
+// 명세 §2대로 배포 없이 바꿀 수 있게 env에 둔다. 금액만 내려보내고 '월/연' 같은
+// 주변 문구는 클라이언트의 i18n 틀이 갖는다 — 금액은 서버가 확정하고 말은 번역된다.
+const planAmounts = (env) => ({
+  monthly: env.PADDLE_PRICE_MONTHLY_AMOUNT || null,
+  yearly: env.PADDLE_PRICE_YEARLY_AMOUNT || null,
+});
 
 async function currentEmail(request, env) {
   const cookie = parseCookies(request.headers.get("cookie"))[SESSION_COOKIE];
@@ -15,10 +42,20 @@ async function currentEmail(request, env) {
   return sess ? sess.email : null;
 }
 
+// Sandbox 체크아웃 가드 — workers_dev/preview_urls가 꺼져 있어 SANDBOX 자격증명을
+// 검증할 별도 호스트가 없다. 운영 도메인 자체가 검증 환경이 되는 동안, 아무 방문자나
+// 플랜을 누르면 Paddle 공개 테스트 카드(4242...)로 결제가 "성공"하고, 올바르게 서명된
+// 샌드박스 웹훅이 진짜 subscribers 행을 공짜로 연다. ax_sandbox=1 쿠키(운영자만 /?sandbox=1
+// 로 심음)가 없으면 체크아웃 두 핸들러 모두 막는다. 웹훅 라우트는 이 가드 밖에 있다 —
+// 그게 검증 대상이다. PADDLE_ENV가 sandbox가 아니면(운영) 이 함수는 항상 false다.
+function sandboxCheckoutBlocked(env, cookies) {
+  return env.PADDLE_ENV === "sandbox" && cookies.ax_sandbox !== "1";
+}
+
 // Canonical asset paths (fetching "/index.html" etc. gets a 307 to these under html_handling).
 const PAGE_ASSET = { "/": "/", "/large": "/large", "/archive": "/archive" };
 
-async function serveHtml(env, page, lang, i18nOn, previewOn, langRoute) {
+async function serveHtml(env, page, lang, i18nOn, previewOn, langRoute, sandboxParam) {
   const res = await env.ASSETS.fetch(new Request(new URL(PAGE_ASSET[page] ?? "/", env.BASE_URL)));
   if (res.status !== 200) return res; // pass redirects/errors through untouched
   const isPublic = env.I18N_PUBLIC === "1";
@@ -39,6 +76,12 @@ async function serveHtml(env, page, lang, i18nOn, previewOn, langRoute) {
   // Language routes stay out of search indexes until the multilingual site is public.
   if (langRoute && !isPublic) headers.set("x-robots-tag", "noindex");
   if (previewOn) headers.append("set-cookie", "ax_i18n=1; Path=/; Max-Age=31536000; SameSite=Lax; Secure");
+  // 운영자가 ?sandbox=1을 달아 들어오면 체크아웃 가드를 우회하는 쿠키를 심는다(검증용).
+  // ?sandbox=0은 되돌리는 길 — 값은 로그로 남기지 않는다.
+  if (sandboxParam === "1")
+    headers.append("set-cookie", "ax_sandbox=1; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=86400");
+  else if (sandboxParam === "0")
+    headers.append("set-cookie", "ax_sandbox=; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=0");
   return new Response(out.body, { status: res.status, headers });
 }
 
@@ -49,6 +92,7 @@ export default {
 
     const cookies = parseCookies(request.headers.get("cookie"));
     const previewOn = url.searchParams.get("i18n") === "1";
+    const sandboxParam = url.searchParams.get("sandbox");
     // I18N_MENU shows the globe picker to everyone; I18N_PUBLIC also turns on the
     // Accept-Language redirect on / and search indexing of the /{lang}/ pages.
     const i18nOn = env.I18N_PUBLIC === "1" || env.I18N_MENU === "1" || previewOn || cookies.ax_i18n === "1";
@@ -58,12 +102,12 @@ export default {
           location: `/${pickLang(cookies.ax_lang, request.headers.get("accept-language"))}/${url.search}`,
           "cache-control": "no-store",
           vary: "Cookie, Accept-Language" } });
-      return serveHtml(env, "/", "ko", i18nOn, previewOn, false);
+      return serveHtml(env, "/", "ko", i18nOn, previewOn, false, sandboxParam);
     }
     if (LANGS.includes(p.slice(1)))
       return new Response(null, { status: 301, headers: { location: `${p}/${url.search}` } });
     const lp = splitLangPath(p);
-    if (lp && PAGE_ASSET[lp.rest]) return serveHtml(env, lp.rest, lp.lang, i18nOn, previewOn, true);
+    if (lp && PAGE_ASSET[lp.rest]) return serveHtml(env, lp.rest, lp.lang, i18nOn, previewOn, true, sandboxParam);
 
     if (p.startsWith("/premium/")) return new Response("Forbidden", { status: 403 });
 
@@ -72,9 +116,23 @@ export default {
       try { email = (await request.json()).email; } catch {}
       email = String(email || "").trim().toLowerCase();
       if (email) {
+        // 주소당 시간당 5통, IP당 시간당 15통. 넘으면 보내지 않고도 응답은 똑같다
+        // — 등록 여부도, 제한에 걸렸는지도 알려주지 않는다.
+        const ip = request.headers.get("cf-connecting-ip") || "unknown";
+        if (await rateLimited(env.AUTH_TOKENS, "em", email, 5) ||
+            await rateLimited(env.AUTH_TOKENS, "ip", ip, 15))
+          return json({ ok: true });
         const token = await issueMagicToken(env.AUTH_TOKENS, email);
         const link = `${env.BASE_URL}/api/auth/callback?token=${token}`;
-        await sendMagicLink(env, email, link);
+        try {
+          await sendMagicLink(env, email, link);
+        } catch (e) {
+          // 주소가 등록돼 있는지는 끝까지 숨기지만(= 모르는 주소도 ok:true), 메일
+          // 발송 자체가 실패한 것은 다른 사건이다. 성공으로 위장하면 사용자는 오지
+          // 않는 메일을 영원히 기다린다.
+          console.error("auth/request: magic link send failed", String(e && e.message || e));
+          return json({ ok: false, reason: "send_failed" }, 502);
+        }
       }
       return json({ ok: true }); // never reveal whether the email exists
     }
@@ -90,54 +148,112 @@ export default {
     if (p === "/api/auth/logout" && request.method === "POST")
       return json({ ok: true }, 200, { "set-cookie": sessionClearCookie() });
 
-    if (p === "/api/auth/patreon") {
-      const state = await issueMagicToken(env.AUTH_TOKENS, "patreon-oauth-state");
-      return new Response(null, { status: 302, headers: { location: patreonAuthorizeUrl(env, state) } });
+    // Paddle 웹훅 — 권한이 열리는 유일한 경로. 브라우저가 보고하는 결제 성공은
+    // 믿지 않는다. 서명 검증은 원문 바디로 하므로 파싱보다 먼저 한다.
+    if (p === "/api/billing/webhook" && request.method === "POST") {
+      const raw = await request.text();
+      const ok = await verifyPaddleSignature(raw, request.headers.get("paddle-signature"),
+                                             env.PADDLE_WEBHOOK_SECRET);
+      if (!ok) {
+        // 돈이 흐르는 경로의 조용한 거부는 전부 로그를 남긴다. PADDLE_WEBHOOK_SECRET이
+        // 틀리면 모든 이벤트가 401로 떨어지는데, 로그가 없으면 며칠을 흔적 없이 잃는다.
+        let id = null, parsed = true;
+        try { id = JSON.parse(raw)?.event_id ?? null; } catch { parsed = false; }
+        console.error("paddle webhook: signature rejected —",
+                      parsed ? `event ${id}` : "body did not parse",
+                      "secret configured:", !!env.PADDLE_WEBHOOK_SECRET);
+        return new Response(null, { status: 401 });
+      }
+
+      let event;
+      try { event = JSON.parse(raw); } catch { return new Response(null, { status: 400 }); }
+
+      const delta = toEntitlement(event);
+      // 관심 없는 이벤트는 200으로 받아준다 — 401/500을 주면 Paddle이 계속 재전송한다.
+      if (!delta) return json({ ok: true, ignored: true });
+
+      const fromCustomData = !!delta.email;
+      if (!delta.email) delta.email = await fetchCustomerEmail(env, delta.customerId);
+      if (!delta.email) {
+        // 이메일을 끝내 알 수 없으면 반영할 수 없다. 500을 줘서 Paddle이 재전송하게
+        // 두고(일시적 API 장애일 수 있다) 로그에 남긴다.
+        console.error("paddle webhook: no email", delta.eventId, delta.customerId);
+        return new Response(null, { status: 500 });
+      }
+      if (!fromCustomData)
+        // custom_data가 이 이벤트에 실려오지 않았다. 구매자가 오버레이에서 고친 주소일
+        // 수 있고, 그러면 결제는 세션이 없는 주소에 꽂힌다 — 가장 추적하기 어려운 실패다.
+        console.error("paddle webhook: custom_data.email absent — event", delta.eventId,
+                      "custom_data: (none)", "paddle customer:", delta.email,
+                      "customer:", delta.customerId);
+
+      const result = await applyEntitlement(env.DB, delta);
+      if (result === "stale")
+        // 늦게 온 이벤트이거나 수동 부여를 보호한 경우. 어느 쪽이든 이 이벤트는 반영되지
+        // 않았으므로, "결제했는데 안 열린다"는 문의가 오면 여기부터 봐야 한다.
+        console.error("paddle webhook: not applied (stale or manual-protected) — event",
+                      delta.eventId, delta.email, delta.status, "periodEnd:", delta.periodEnd);
+      if (result === "duplicate")
+        console.error("paddle webhook: duplicate event ignored —", delta.eventId, delta.email);
+      if (result === "applied" && fromCustomData) ctx.waitUntil(warnEmailMismatch(env, delta));
+      return json({ ok: true, result });
     }
 
-    if (p === "/api/auth/patreon/callback") {
-      const state = url.searchParams.get("state");
-      const code = url.searchParams.get("code");
-      const marker = await consumeMagicToken(env.AUTH_TOKENS, state);
-      if (marker !== "patreon-oauth-state")
-        return new Response("잘못된 요청입니다. 다시 시도해 주세요.", { status: 400 });
+    // 가격만 읽어가는 공개 조회 — 플랜 목록은 로그인 전에도 보이므로 인증을
+    // 요구하지 않는다. 금액 외에 아무것도 노출하지 않는다.
+    if (p === "/api/billing/checkout" && request.method === "GET") {
+      if (sandboxCheckoutBlocked(env, cookies)) return json({ reason: "sandbox_mode" }, 503);
+      return json({ amounts: planAmounts(env) });
+    }
 
-      let email, active;
-      try {
-        const token = await exchangeCode(env, code);
-        const identity = await fetchIdentity(env, token.access_token);
-        ({ email, active } = membershipStatus(identity));
-      } catch (e) {
-        return new Response("Patreon 인증에 실패했습니다. 잠시 후 다시 시도해 주세요.", { status: 502 });
-      }
-      if (!email)
-        return new Response("Patreon 계정에 이메일이 필요합니다.", { status: 400 });
+    // 결제 시작 — price id를 번들에 박지 않고 여기서 내려준다. 로그인을 요구하는
+    // 이유: 결제 이메일과 로그인 이메일이 갈리면 돈을 내고도 아무것도 안 열린다.
+    if (p === "/api/billing/checkout" && request.method === "POST") {
+      if (sandboxCheckoutBlocked(env, cookies)) return json({ reason: "sandbox_mode" }, 503);
+      const email = await currentEmail(request, env);
+      if (!email) return json({ reason: "login_required" }, 401);
+      // 이미 구독 행이 있으면 두 번째 Paddle 구독을 열지 못하게 막는다. 그대로 두면
+      // 첫 구독이 고아가 되어 두 건이 동시에 청구된다.
+      if (await hasPaddleSubscription(env.DB, email))
+        return json({ reason: "already_subscribed" }, 409);
+      let plan = null;
+      try { plan = (await request.json()).plan; } catch {}
+      const priceId = plan === "monthly" ? env.PADDLE_PRICE_MONTHLY
+                    : plan === "yearly" ? env.PADDLE_PRICE_YEARLY : null;
+      if (!priceId) return json({ reason: "unknown_plan" }, 400);
+      return json({ priceId, email, clientToken: env.PADDLE_CLIENT_TOKEN,
+                    amount: planAmounts(env)[plan], amounts: planAmounts(env),
+                    environment: env.PADDLE_ENV === "sandbox" ? "sandbox" : "production" });
+    }
 
-      const now = Math.floor(Date.now() / 1000);
-      const existing = await env.DB.prepare("SELECT created_at, provider, status FROM subscribers WHERE email = ?").bind(email).first();
-      const createdAt = existing ? existing.created_at : now;
-      // A manually-granted active row (provider='manual' — e.g. the creator, comps,
-      // support fixes) is an OVERRIDE: a Patreon login must never downgrade it just
-      // because this person isn't a paying patron of the campaign (the creator of a
-      // campaign is not its patron). Patreon results only apply to patreon-managed rows.
-      const manualActive = existing && existing.provider === "manual" && existing.status === "active";
-      if (!manualActive) {
-        await env.DB.prepare(
-          "INSERT OR REPLACE INTO subscribers (email,status,current_period_end,provider,created_at,updated_at) VALUES (?,?,NULL,'patreon',?,?)"
-        ).bind(email, active ? "active" : "canceled", createdAt, now).run();
-      }
-
-      const entitledNow = active || manualActive;
-      const session = await signSession(email, env.SESSION_SIGNING_KEY);
-      const location = entitledNow ? "/" : "/?patreon=inactive";
-      return new Response(null, { status: 302, headers: { location, "set-cookie": sessionSetCookie(session) } });
+    // 구독 관리 — 카드 변경·해지·영수증은 Paddle 고객 포털로 보낸다.
+    if (p === "/api/billing/portal") {
+      const email = await currentEmail(request, env);
+      if (!email) return json({ reason: "login_required" }, 401);
+      const row = await env.DB.prepare(
+        "SELECT provider_customer_id FROM subscribers WHERE email = ?"
+      ).bind(email).first();
+      if (!row || !row.provider_customer_id) return json({ reason: "no_subscription" }, 404);
+      const base = env.PADDLE_ENV === "sandbox"
+        ? "https://sandbox-api.paddle.com" : "https://api.paddle.com";
+      const res = await fetch(`${base}/customers/${encodeURIComponent(row.provider_customer_id)}/portal-sessions`,
+        { method: "POST", headers: { authorization: `Bearer ${env.PADDLE_API_KEY}`,
+                                     "content-type": "application/json" }, body: "{}" });
+      if (!res.ok) return json({ reason: "portal_unavailable" }, 502);
+      const body = await res.json().catch(() => null);
+      const link = body?.data?.urls?.general?.overview;
+      if (!link) return json({ reason: "portal_unavailable" }, 502);
+      return json({ url: link });
     }
 
     if (p === "/api/me") {
       const email = await currentEmail(request, env);
-      if (!email) return json({ loggedIn: false, email: null, entitled: false });
+      if (!email) return json({ loggedIn: false, email: null, entitled: false, hasSubscription: false });
       const ent = await getEntitlement(env.DB, email);
-      return json({ loggedIn: true, email, entitled: ent.entitled });
+      // hasSubscription은 기간을 보지 않는다 — 갱신이 실패해 권한이 닫힌 구독자에게도
+      // "구독 관리"를 계속 보여줘야 한다. 그때가 카드를 고쳐야 하는 순간이다.
+      const hasSubscription = await hasPaddleSubscription(env.DB, email);
+      return json({ loggedIn: true, email, entitled: ent.entitled, hasSubscription });
     }
 
     if (p === "/api/premium/full") {

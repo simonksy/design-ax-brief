@@ -31,26 +31,33 @@
     if (!window.AX_I18N_ON || document.getElementById("ax-globe")) return;
     var css = document.createElement("style");
     css.textContent =
-      "#ax-globe{position:absolute;top:14px;right:14px;z-index:200;display:flex;align-items:center;gap:5px;" +
-      "height:34px;padding:0 11px 0 9px;border-radius:100px;border:1px solid rgba(23,23,23,.14);" +
+      "#ax-globe{position:absolute;top:14px;right:14px;z-index:200;display:flex;align-items:center;" +
+      "justify-content:center;width:34px;height:34px;border-radius:50%;border:1px solid rgba(23,23,23,.14);" +
       "background:rgba(255,255,255,.72);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);" +
-      "color:#4a4540;font:600 11px/1 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.06em;" +
+      "color:#4a4540;" +
       "box-shadow:0 4px 14px -8px rgba(40,30,20,.45);}" +
       "#ax-globe:hover{border-color:rgba(23,23,23,.35);}" +
       "#ax-globe:focus-within{outline:2px solid #0070f3;outline-offset:2px;}" +
       "#ax-globe svg{width:17px;height:17px;flex:0 0 auto;}" +
       "#ax-globe select{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;" +
       "appearance:none;-webkit-appearance:none;border:0;font-size:16px;}" +
-      "@media (max-width:720px){#ax-globe{top:10px;right:10px;}}";
+      "#ax-pro{position:absolute;top:14px;right:56px;z-index:200;display:flex;align-items:center;" +
+      "justify-content:center;height:34px;padding:0 13px;border-radius:17px;border:1px solid rgba(23,23,23,.14);" +
+      "background:rgba(255,255,255,.72);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);" +
+      "color:#4a4540;cursor:pointer;font-family:ui-monospace,Menlo,monospace;font-size:11px;font-weight:600;" +
+      "letter-spacing:.06em;white-space:nowrap;box-shadow:0 4px 14px -8px rgba(40,30,20,.45);}" +
+      "#ax-pro:hover{border-color:rgba(23,23,23,.35);}" +
+      "#ax-pro:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
+      "#ax-pro .ax-pro-short{display:none;}" +
+      "@media (max-width:720px){#ax-globe{top:10px;right:10px;}" +
+      "#ax-pro{top:10px;right:52px;}#ax-pro .ax-pro-full{display:none;}#ax-pro .ax-pro-short{display:inline;}}";
     document.head.appendChild(css);
     var box = document.createElement("div");
     box.id = "ax-globe";
     box.innerHTML =
       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true">' +
       '<circle cx="12" cy="12" r="9.2"/><path d="M2.8 12h18.4M12 2.8c2.6 2.6 3.9 5.6 3.9 9.2s-1.3 6.6-3.9 9.2' +
-      'M12 2.8C9.4 5.4 8.1 8.4 8.1 12s1.3 6.6 3.9 9.2"/></svg><span aria-hidden="true"></span>';
-    var ABBR = { en: "ENG", ko: "KOR", ja: "JPN", zh: "CHN", es: "ESP" };
-    box.querySelector("span").textContent = ABBR[LANG] || LANG.toUpperCase();
+      'M12 2.8C9.4 5.4 8.1 8.4 8.1 12s1.3 6.6 3.9 9.2"/></svg>';
     var sel = document.createElement("select");
     sel.setAttribute("aria-label", window.t("lang.menu"));
     sel.title = window.t("lang.menu");
@@ -63,14 +70,29 @@
     sel.onchange = function () { window.axSetLang(sel.value); };
     box.appendChild(sel);
     document.body.appendChild(box);
-    // Mobile: centre the globe on the logo's horizontal midline (the logo is
-    // rendered by React after load, so re-measure on resize and for a few frames).
+    // Pro entry point, left of the globe — same pill/blur treatment, same gate.
+    // i18n.js has no React, so a click just announces intent; ThemedPage listens
+    // and opens SubscribeModal.
+    var proBtn = document.createElement("button");
+    proBtn.id = "ax-pro";
+    proBtn.type = "button";
+    proBtn.innerHTML =
+      '<span class="ax-pro-full"></span><span class="ax-pro-short"></span>';
+    proBtn.querySelector(".ax-pro-full").textContent = window.t("pro.cta");
+    proBtn.querySelector(".ax-pro-short").textContent = window.t("pro.cta_short");
+    proBtn.onclick = function () { window.dispatchEvent(new CustomEvent("ax:subscribe")); };
+    document.body.appendChild(proBtn);
+    // Mobile: centre the globe + Pro button on the logo's horizontal midline (the
+    // logo is rendered by React after load, so re-measure on resize and for a few
+    // frames). Both elements move together so they never drift apart.
     var align = function () {
       var logo = document.querySelector("[data-ax-logo]");
-      if (!logo || window.innerWidth > 720) { box.style.top = ""; return; }
+      if (!logo || window.innerWidth > 720) { box.style.top = ""; proBtn.style.top = ""; return; }
       var r = logo.getBoundingClientRect();
       if (!r.height) return;
-      box.style.top = Math.round(r.top + window.scrollY + r.height / 2 - box.offsetHeight / 2) + "px";
+      var mid = r.top + window.scrollY + r.height / 2;
+      box.style.top = Math.round(mid - box.offsetHeight / 2) + "px";
+      proBtn.style.top = Math.round(mid - proBtn.offsetHeight / 2) + "px";
     };
     window.addEventListener("resize", align);
     var tries = 0, tick = setInterval(function () { align(); if (++tries > 40) clearInterval(tick); }, 100);
