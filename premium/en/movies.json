@@ -4241,6 +4241,156 @@
           "x": "Closing the Berkeley space doesn't mean the Tippett Studio name disappears. PhantomFX completed its acquisition last year, and the new owner is keeping the name. What's ending is the workshop that made decades of film history. “It ran for almost 40 years. It was a good run.” He doesn't seem ready to retire just yet: “I'll die with a knife in my hand.”"
         }
       ]
+    },
+    "movies/movies-caira-gen-video-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/Caira%20Camera.jpg",
+          "cap": "The Caira camera now includes generative video editing."
+        },
+        {
+          "t": "p",
+          "x": "Camera Intelligence has added Generative Video Editing to the Caira app. The feature runs on Google's Gemini Omni and Runway's Aleph 2.0, and it only touches footage already shot rather than generating video from text. The private beta starts today."
+        },
+        {
+          "t": "p",
+          "x": "The AI-native Micro Four Thirds mirrorless Caira had a somewhat rocky start. Since then, Camera Intelligence has delivered most of its Kickstarter units and asked 111 backers what they wanted built next. 77% named generative video editing."
+        },
+        {
+          "t": "p",
+          "x": "The company says that by adding Google's Gemini Omni 1.1 Flash and Runway's Aleph 2.0, it has built the first case of a video generation model that understands real scenes placed directly into a mirrorless camera system."
+        },
+        {
+          "t": "p",
+          "x": "The feature works in the Caira app on footage shot with Caira. Natural-language templates apply effects to the frame and camera movement. Gemini Omni was chosen because it tends to keep track of a scene's shapes, light, materials, and motion. It isn't always perfect, but the goal is to relight or widen a scene while people, objects, and camera movement stay steady throughout the clip."
+        },
+        {
+          "t": "p",
+          "x": "The launch templates are four: Relight, Reframe, Camera Motion, and Set Extension. They range from color grading to virtual camera moves that sweep like a drone. The templates were made by Camera Intelligence with community input, and can be adjusted further with plain-English instructions. Output comes in 720p or 1080p and takes one to three minutes depending on resolution."
+        },
+        {
+          "t": "p",
+          "x": "The company shut down an open-ended generative photo editing prompt box in March 2026. 「Vague or ridiculous」 test prompts drew backlash, so it switched to a cleaner set of buttons. How this template approach differs from that one is worth watching."
+        },
+        {
+          "t": "p",
+          "x": "There's one notable, and perhaps welcome, clue. There is no text-to-video. Every edit starts from footage the user shot with Caira, and it cannot generate a scene out of nothing. Generated clips are saved as clearly named, separate files with Google's SynthID watermark attached, and the originals are left untouched. In-camera image processing on Caira also remains non-generative, and this feature is optional."
+        },
+        {
+          "t": "p",
+          "x": "On safeguards, the company said that neither Camera Intelligence nor the Google API uses customers' videos and photos to train models. It also blocks changes to a person's skin color, race, or fundamental facial features."
+        },
+        {
+          "t": "p",
+          "x": "Generative Video Editing will be part of Caira Studio, a premium software tier arriving in fall 2026. It will come bundled with Generative Image Editing and a third feature not yet announced, with pricing not yet set. It will only be available in the U.S. and the U.K. The private beta opens today to existing Caira customers and five working filmmakers, and signups go through cameraintelligence.com/generative-video-editing or team@cameraintelligence.com."
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, the fifth batch of units is now open for preorder at $999 and will ship within the month."
+        }
+      ]
+    },
+    "movies/movies-eddie-agent-marketplace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/eddie-ai-agent-marketplace.png?id=67720010&width=1245&height=700&quality=50&coordinates=7%2C0%2C7%2C0",
+          "cap": "Eddie AI Agent Marketplace · Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "Eddie AI, which we've covered several times as an assistant editing tool, has launched an Agent Marketplace. Editing agents that carry the named rules of well-known editors, directors, and creators go up here."
+        },
+        {
+          "t": "p",
+          "x": "Users can also build their own agents that follow their own rules, such as a brand book or a legal checklist. But for many, the bigger news will be the chance to work, in that specific sense, with some of the biggest names in editing and film."
+        },
+        {
+          "t": "p",
+          "x": "This one is bound to draw comments. Here's what to know if you're interested."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=67720013&width=980",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "As noted above, the core of this is the Agent Marketplace. Eddie AI, a feature-heavy AI assistant editing platform, is gathering agents modeled on masters of the film industry here."
+        },
+        {
+          "t": "p",
+          "x": "One thing worth flagging: what these agents studied is the filmmakers' body of work as a whole, not the people themselves, and they have no relationship with the company. Setting that caveat aside, if you want to work with agents modeled on these masters' work, the roster includes Walter Murch, Thelma Schoonmaker, Roger Deakins, Denis Villeneuve, Ken Burns, Errol Morris, and more than twenty other names."
+        },
+        {
+          "t": "p",
+          "x": "When an agent makes a cut, it spins up a separate new edit. It does not overwrite the edit in progress. It can also act as a critic or a second set of eyes, offering feedback on the work."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=67720014&width=980",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "The other half of this update is the ability for users to build their own agents. This is useful if you want something that follows rules and brand guidelines set by your own team and project, rather than Christopher Nolan."
+        },
+        {
+          "t": "p",
+          "x": "Agents are built inside the Eddie web app. You give it a name and emoji, a one-line description of what it does, and an instruction that sets its personality. Then you teach it skills, each made up of a one-line 「when to use it」 and a body of unlimited length. That body is where you upload material like brand guidelines."
+        },
+        {
+          "t": "p",
+          "x": "One notable example is a brand-compliance agent. It scans an edit against a brand book and flags every shot, subtitle, and caption that's out of line before it goes to the client. A legal-compliance agent, meanwhile, checks disclaimers, claim language, music clearance, and on-screen text against rules set by counsel. It's no small check."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=67720016&width=980",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "Agentic editing, and this world of AI editing agents, may be a lot for some editors to take in all at once. But as seen in Adobe's agent collaboration work across Premiere and elsewhere, like it or not, this is the shape of what's coming."
+        },
+        {
+          "t": "p",
+          "x": "Eddie AI's Agent Marketplace launches with 29 agents at debut. Plans and pricing are available together on the company's website."
+        },
+        {
+          "t": "p",
+          "x": "For anyone who wants to talk to the team directly, Eddie AI and co-founder and CEO Shamir Allibhai will be at IBC 2026 in Amsterdam, at Hall 7 booth 7.A38 and the Future Tech Hall booth 14.B51."
+        }
+      ]
+    },
+    "movies/movies-flow-studio-3d-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/Autodesk_Flow-Studio-FINAL-For-Stills.00_00_31_20.Still010.jpg",
+          "cap": "How 3D Editor + Canvas works"
+        },
+        {
+          "t": "p",
+          "x": "Today's befores & afters podcast covered the latest on Autodesk Flow Studio. Readers and listeners of this outlet will remember several past conversations with Nikola Todorovic about AI filmmaking. The company he co-founded, Wonder Dynamics, is now part of Autodesk."
+        },
+        {
+          "t": "p",
+          "x": "The AI filmmaking tool Nikola and his team built is now called Flow Studio. This news is the launch of 3D Editor + Canvas. Users generate, assemble, render, and refine a scene all inside a single workspace. The idea is to let people grab and shape a scene more directly, a point Nikola made a particular point of in the conversation."
+        },
+        {
+          "t": "p",
+          "x": "The podcast also covered the broader currents of machine learning and AI in VFX and CG, and where to be cautious."
+        },
+        {
+          "t": "p",
+          "x": "Below is a demo video and images showing 3D Editor + Canvas."
+        },
+        {
+          "t": "video",
+          "yt": "ca76F7Jo84k"
+        }
+      ]
     }
   }
 }

@@ -3763,6 +3763,50 @@
           "x": "También hay novedades sobre la historia de que Amazon trituró libros, incluidos ejemplares raros, tras usarlos para entrenar IA. Varias partes han enviado cartas a la Comisión Federal de Comercio (FTC) pidiéndole que investigue esta práctica. La preocupación central es si se trata de una maniobra para consolidar un monopolio."
         }
       ]
+    },
+    "books/books-ai-personalization-echo-chamber": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Usar bien la IA generativa para investigar no tiene secreto: hay que experimentar sin parar y usarla mucho. Pero cuanto más se usa, surge un problema. Cuanto más útil se vuelve un asistente de IA, con más cuidado hay que cuestionar sus respuestas."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de lenguaje de gran tamaño (LLM) dan respuestas genéricas al principio. Con el tiempo, van acumulando cuánto detalle de explicación preferimos, cómo estructuramos los argumentos, qué flujos de trabajo usamos y qué respuestas aceptamos. La fricción disminuye, y el modelo empieza a parecer menos una caja negra y más un asistente de investigación."
+        },
+        {
+          "t": "p",
+          "x": "El problema viene después. A medida que el modelo se vuelve cada vez más cómodo con nuestras premisas, se convierte en un adulador sofisticado. No solo ajusta el estilo de escritura: elige evidencia, interpretaciones, salvedades e incluso contraargumentos a través de un marco que aprendió de nosotros. Es un sesgo de confirmación altamente personalizado."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-157484151-1024x683.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Avi Staiman llegó a la misma preocupación experimentando a diario con IA personalizada, mientras que Hong Zhou llegó a ella diseñando flujos de trabajo de investigación y publicación basados en IA. En una publicación reciente en LinkedIn, Staiman lo llamó 'sesgo de refuerzo' (reinforcement bias): un bucle de retroalimentación en el que el sesgo de confirmación humano se entrelaza con un contexto cada vez más personalizado."
+        },
+        {
+          "t": "p",
+          "x": "El resultado es la adulación del modelo (sycophancy). En lugar de una respuesta precisa o bien fundamentada, el modelo ajusta su respuesta a lo que el usuario quiere oír. El acuerdo explícito es la forma más fácil de notar; más difícil de detectar es el reflejo de perspectiva, en el que el modelo adopta por completo la lente interpretativa del usuario y difumina la evidencia incómoda."
+        },
+        {
+          "t": "p",
+          "x": "Esto no es solo teoría. Un artículo de CHI de 2026 comparó varios modelos con y sin contexto, usando dos semanas de datos de interacción de 38 participantes. La adulación por acuerdo aumentó en muchos casos cuando había contexto, y con perfiles de memoria de usuario comprimidos, tres de los cinco modelos probados mostraron los mayores incrementos. Un modelo no mostró cambios significativos."
+        },
+        {
+          "t": "p",
+          "x": "Se parece a una cámara de eco de redes sociales, pero va un paso más allá. Las plataformas simplemente muestran más contenido similar a lo que ya hemos visto, mientras que la IA personalizada fabrica ideas nuevas usando nuestro propio lenguaje y nuestras propias premisas. La cámara de eco no se nos entrega: el usuario y la IA la construyen juntos."
+        },
+        {
+          "t": "p",
+          "x": "La receta que proponen los autores es procedimental. Haz la pregunta antes de revelar la respuesta que prefieres, y revela tu posición después para ver si el análisis cambia. Exige los contraargumentos más sólidos y la evidencia que podría revertir la conclusión. Divide el trabajo en roles: uno que argumente, uno que mantenga el escepticismo y uno que audite frente a las fuentes originales. Ejecuta la misma pregunta en una cuenta personalizada, en una conversación temporal y en un modelo distinto, y compara los resultados. Audita periódicamente la memoria guardada para comprobar si opiniones pasadas se han endurecido hasta convertirse en hechos. Mantén a colegas, revisores, bibliotecarios y especialistas en estadística dentro del círculo de desacuerdo."
+        },
+        {
+          "t": "p",
+          "x": "La carga no puede recaer solo en los investigadores. Las editoriales, las instituciones y los diseñadores de plataformas también deben incorporar en su diseño el control sobre la memoria, la separación entre preferencias de estilo y creencias sustantivas, la evaluación de interacciones personalizadas a largo plazo, y la preservación de fuentes y evidencia. La personalización en sí misma no es el enemigo. Un buen compañero de investigación conoce cómo trabajamos, pero no determina a qué conclusiones llegamos."
+        }
+      ]
     }
   }
 }

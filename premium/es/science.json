@@ -4189,6 +4189,204 @@
           "x": "TimesFM-3 está disponible en GitHub y Hugging Face. La integración con BigQuery llegará en unas semanas. Mientras tanto, para tareas univariadas ya se puede probar TimesFM-2.5 directamente con el comando AI.FORECAST de BigQuery."
         }
       ]
+    },
+    "science/science-alpha-centauri-ai-trajectory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La organización sin fines de lucro Fermi Explorer Mission anunció que enviará una sonda a un sistema estelar vecino antes de que termine 2029. Alpha Centauri está a 4,4 años luz, así que, incluso si todo sale bien, llegar podría tardar 80.000 años. La ruta que seguirá la sonda es una nueva trayectoria hallada por un sistema del laboratorio de física de IA Physical Superintelligence (PSI). PSI se lanzó ese mismo día con 58 millones de dólares liderados por Breakthrough Energy, fundada por Bill Gates."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
+          "cap": "La ruta a Alpha Centauri hallada por IA (Stephanie Arnett/MIT Technology Review | Getty Images, Adobe Stock)"
+        },
+        {
+          "t": "p",
+          "x": "No es el primer intento. En 2016, Yuri Milner apostó 100 millones de dólares por Breakthrough Starshot, pero, diez años después, nada se ha lanzado."
+        },
+        {
+          "t": "p",
+          "x": "“No queríamos hacer otro Starshot”, dice el cofundador y director Philip Johnston. “Nos estamos jugando todo a lanzar algo de verdad.” El presupuesto, financiado con donaciones privadas, es de 15 millones de dólares. Fijaron el plazo para ajustarse a eso."
+        },
+        {
+          "t": "p",
+          "x": "La sonda lleva al menos 1kg de carga. Van con ella cargas útiles de arte y ciencia, mensajes, y una copia del Golden Record que la NASA puso en las Voyager en 1977. Alpha Centauri está a unas 25 billones de millas, así que ni la Voyager 1, que vuela desde 1977, ha cubierto el 1% de esa distancia."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de Johnston pasó un año buscando sin éxito una forma de llegar allí con una sonda pequeña impulsada por energía solar. Siempre se atascaban en el problema de dar suficiente energía sin que pesara demasiado. Cuando Johnston planteó este problema en un pódcast, el físico Alex Wissner-Gross, cofundador de PSI, propuso meterlo en el sistema del laboratorio, Get Physics Done. Es un software de código abierto que divide las preguntas de investigación en física en partes, decide por sí mismo qué simulaciones ejecutar, y usa Claude de Anthropic o GPT de OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "Una semana después, el sistema entregó una ruta que sorprendió incluso a Johnston. Entrelazaba maniobras orbitales bien conocidas de una forma que el equipo de Fermi no había imaginado. Según un artículo que todavía no ha pasado revisión por pares, la sonda primero reduce la velocidad para acercar su órbita al sol más que Mercurio. Encender el motor cada vez que pasa por el perihelio cuadruplica la luz que reciben las celdas solares, y el empuje disparado en el punto más rápido deja más energía por la misma cantidad quemada. Como el motor solo se usa cerca del sol, las celdas solares pueden ser pequeñas y la sonda se mantiene ligera."
+        },
+        {
+          "t": "p",
+          "x": "El sistema pasó tres días usando mil millones de tokens e hizo la mayor parte de la investigación por su cuenta, dice el cofundador y CEO de PSI, Matt Fines. Un astrofísico de PSI marcó la dirección, pidió análisis de costos y gráficos, y revisó si había errores."
+        },
+        {
+          "t": "p",
+          "x": "“Lo más sorprendente fue que propuso un perfil de misión completamente distinto, de una forma creativa que el equipo de Fermi no había considerado”, dice Fines. Aun así, el modelo no tiene el criterio ni los gustos de un investigador, así que a veces se queda atrapado en callejones sin salida."
+        },
+        {
+          "t": "p",
+          "x": "Este plan no es solo ambición de ingeniería. En 1950, Enrico Fermi preguntó: la galaxia tiene cientos de miles de millones de estrellas, y la mayoría son más viejas que el sol. Incluso una civilización que se moviera lentamente entre estrellas se extendería por toda la galaxia en unos pocos millones de años, entonces por qué no vemos ningún rastro de eso. Una vez que la sonda Fermi parta, nos convertimos en una civilización que puede ir a otras estrellas y quiere hacerlo, así que ambas explicaciones, que es demasiado difícil o que simplemente nadie se molesta, se tambalean. “Una de las razones podría ser que, en el momento en que se alcanza la superinteligencia, uno termina autodestruyéndose por alguna razón”, dice Johnston."
+        }
+      ]
+    },
+    "science/science-bitenet-ion-sites": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de Constructor University y Constructor Labs presentaron BiteNetI. Es un modelo de aprendizaje profundo que localiza los sitios de unión de 14 tipos de iones biológicamente importantes directamente a partir de estructuras proteicas en 3D."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-maps-the.jpg",
+          "cap": "BiteNetI predice sitios de unión de iones en proteínas (Phys.org)"
+        },
+        {
+          "t": "p",
+          "x": "Procesar una sola estructura toma solo unos segundos. Los investigadores informaron que su precisión es de dos a tres veces mayor que la de la mayoría de los predictores existentes, incluido AlphaFold 3 de Google DeepMind."
+        },
+        {
+          "t": "p",
+          "x": "El artículo fue escrito por Igor Kozlovskii y Petr Popov y se publicó en la revista Communications Biology. Los investigadores también abrieron una plataforma pública a la que cualquiera puede acceder. Esperan que se use como herramienta para acelerar el descubrimiento de fármacos y la comprensión de la función de las proteínas."
+        }
+      ]
+    },
+    "science/science-ecg-clip-fewshot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Para evaluar problemas cardíacos, los clínicos usan un electrocardiograma (ECG) de 12 derivaciones, colocando electrodos en el pecho y las extremidades para registrar la actividad eléctrica del corazón. Las herramientas de IA que ayudan a leer ECG también son comunes. Pero las herramientas actuales requieren grandes conjuntos de datos de entrenamiento con el estado de la enfermedad etiquetado a mano, lo que dificulta trasladarlas a otras tareas clínicas."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2018/1-ecg.jpg",
+          "cap": "Un registro de ECG. Crédito: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Scripps Research presentaron un modelo de IA pensado para mejorar la detección y predicción de varias afecciones cardíacas. Resulta especialmente útil en entornos con pocas etiquetas o pocas derivaciones disponibles. El modelo, publicado en Lancet Digital Health, se llama ECG-CLIP. Se entrenó con más de 1,7 millones de ECG recogidos de más de 540.000 personas, emparejados con registros clínicos."
+        },
+        {
+          "t": "p",
+          "x": "Giorgio Quer, autor principal y profesor asistente de medicina digital en Scripps Research, dijo: 「El nuevo algoritmo puede ver apenas unos diez ECG confirmados de una afección específica y luego identificar esa afección. Es similar a cómo aprende un clínico: no a partir de un millón de casos, sino entendiendo primero la fisiología detrás del ECG y viendo luego unos pocos ejemplos.」"
+        },
+        {
+          "t": "p",
+          "x": "Tras el entrenamiento, el modelo se comparó con modelos existentes en tres tareas clínicas. La primera fue detectar infarto agudo de miocardio, amiloidosis cardíaca y cardiomiopatía hipertrófica. En un nuevo conjunto de datos de más de 800.000 ECG, ECG-CLIP superó a los modelos estándar en las tres afecciones, e igualó la puntuación del siguiente mejor modelo, que usaba el conjunto completo de datos, usando en promedio un 91% menos de datos etiquetados."
+        },
+        {
+          "t": "p",
+          "x": "Comparado con tres modelos base entrenados solo con ECG, sin registros clínicos, la brecha se ampliaba cuantas menos etiquetas había. ECG-CLIP se mantuvo por delante incluso con solo diez casos positivos, y la diferencia desapareció en gran parte al aumentar las etiquetas. Quer dijo: 「Funcionó especialmente bien con mucho menos datos. Eso es útil para enfermedades raras donde solo hay una docena de ECG positivos bien curados.」 También tuvo buen desempeño en una prueba que detectaba infarto agudo de miocardio a partir de un ECG de una sola derivación."
+        },
+        {
+          "t": "p",
+          "x": "En la segunda tarea, predicción, superó a todos los demás modelos al pronosticar fibrilación auricular futura a partir de un ECG de 12 derivaciones con ritmo normal. En la tercera tarea, también fue el mejor prediciendo la probabilidad de una visita a urgencias, la supervivencia a 30 días tras una cirugía, y la probabilidad de desarrollar enfermedad renal crónica y diabetes tipo 2 dentro de tres años."
+        },
+        {
+          "t": "p",
+          "x": "Para mostrar en qué se fijaba el modelo al hacer sus predicciones, los investigadores construyeron mapas de relevancia que marcaban los segmentos de la señal que más contribuían a cada predicción. El coprimer autor Michael Ko dijo: 「El potencial es claro, pero usar esto en la práctica real requerirá una validación rigurosa mediante ensayos clínicos prospectivos.」"
+        }
+      ]
+    },
+    "science/science-gollum-doubt-detector": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las herramientas computacionales han hecho posible explorar una enorme cantidad de combinaciones de moléculas, materiales y reacciones. Pero comprobar cada una en el laboratorio cuesta tiempo y dinero. Qué condiciones probar primero sigue siendo el problema."
+        },
+        {
+          "t": "p",
+          "x": "La optimización bayesiana aprende de resultados anteriores, predice opciones prometedoras y también indica cuán incierta es esa predicción. Eso permite descartar candidatos sin esperanza y concentrar los experimentos en condiciones que vale la pena probar. Pero no se traslada bien de un campo a otro: un modelo bueno para elegir reacciones químicas no sirve para diseñar materiales o moléculas, así que cada problema obliga a empezar de cero."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de lenguaje grandes (LLM) abrieron otro camino. Ya cargan un amplio conocimiento científico y manejan información escrita en texto. Su debilidad es la alucinación: que una afirmación suene segura no garantiza que sea correcta, lo que puede mandar a los investigadores por callejones sin salida caros y largos."
+        },
+        {
+          "t": "p",
+          "x": "Bojana Ranković y Philippe Schwaller, del Laboratorio de Inteligencia Química Artificial de la EPFL, acoplaron un proceso gaussiano a un LLM. Es el modelo probabilístico que se usa en la optimización bayesiana, una especie de detector de dudas. El método, llamado GOLLuM, se publicó en Nature Machine Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de dejar que el LLM elija los experimentos directamente, GOLLuM entrena al LLM con la incertidumbre y las puntuaciones de desempeño que asigna el proceso gaussiano. El LLM reordena entonces el espacio de búsqueda: las condiciones que producen resultados parecidos quedan cerca entre sí, y las que producen resultados distintos quedan lejos."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/an-ai-capable-of-doubt.jpg",
+          "cap": "A medida que GOLLuM aprende, el mapa interno del espacio de diseño se reorganiza. Las reacciones que se comportan de forma parecida se agrupan, y las condiciones de alto rendimiento (amarillo) se separan de las de bajo rendimiento (morado). Crédito: Ranković et al. 2026 EPFL"
+        },
+        {
+          "t": "p",
+          "x": "Ranković dijo: 「Los modelos de lenguaje son pésimos para saber cuándo se equivocan. En GOLLuM, esa incertidumbre se convierte, más bien, en una señal que enseña al modelo.」"
+        },
+        {
+          "t": "p",
+          "x": "El método se validó con 23 referencias que abarcan síntesis orgánica, química analítica y de procesos, materiales y catalizadores, y optimización de propiedades moleculares. Cada optimización partió de diez observaciones de bajo rendimiento, y se usó la misma configuración sin ajustes específicos para cada problema."
+        },
+        {
+          "t": "p",
+          "x": "En las 23 tareas, GOLLuM quedó en promedio en primer lugar. Dentro de un presupuesto de 50 experimentos, el 36.3% de las condiciones probadas cayó en el 5% superior general. La optimización bayesiana con descriptores diseñados por expertos llegó al 29.7%. Eso significa que alcanzó el mismo nivel que los métodos existentes usando más del 40% menos experimentos."
+        },
+        {
+          "t": "p",
+          "x": "Dejar que solo el LLM eligiera los experimentos, sin el detector de dudas, produjo tasas de fallo muy variables, de 10% a casi 80%. Aparecieron problemas como inventar estructuras químicas que no existen, repetir las mismas condiciones y proponer valores fuera de los rangos permitidos."
+        },
+        {
+          "t": "p",
+          "x": "Schwaller dijo: 「Es una técnica que te deja empezar a optimizar desde el primer día, en lugar de pasar seis meses discutiendo cómo describir el experimento y cómo calcular los descriptores. La clave es que optimizas directamente sobre una representación del procedimiento experimental escrita en inglés sencillo.」"
+        }
+      ]
+    },
+    "science/science-ornl-atom-assembly": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una obra en la que cada ladrillo es una sola molécula y la grúa es una aguja lo bastante fina para palpar un solo átomo. El ensamblaje a esta escala ha sido durante mucho tiempo un trabajo muy laborioso, y un solo desliz humano podía dañar una herramienta delicada."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Laboratorio Nacional de Oak Ridge (ORNL), del Departamento de Energía de EE. UU., le confiaron esa manipulación a una IA. Esta IA, que aprendió por sí misma a apilar materiales, trabajó más de 25 horas sin intervención humana. Investigadores del Centro de Ciencias de Materiales en Nanofase (CNMS) describieron, en un artículo publicado en la revista ACS Nano, un sistema totalmente automatizado para construir materiales funcionales átomo por átomo."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-automates-the-creat-1.jpg",
+          "cap": "La IA dirige una sonda ultraprecisa y empuja moléculas una por una sobre cobre para crear automáticamente patrones a escala atómica. Crédito: Andy Sproles/ORNL, U.S. Dept. of Energy"
+        },
+        {
+          "t": "p",
+          "x": "P. Ganesh y Arthur P. Baddorf establecieron el marco conceptual, y An-Ping Li y Rama Vasudevan dirigieron la implementación y la interpretación. Ganesh Narasimha se encargó del software de automatización, y Mykola Telychko del montaje experimental, produciendo juntos las pruebas de manipulación y los datos. Wooin Yang diseñó el flujo de detección de objetos y realizó los experimentos de espectroscopía que confirmaron los materiales."
+        },
+        {
+          "t": "p",
+          "x": "Narasimha dijo que este enfoque permite 「una fabricación de precisión atómica con una intervención humana drásticamente reducida.」 Según él, la investigación que antes buscaba materiales en la naturaleza se está desplazando hacia el diseño de redes artificiales con propiedades electrónicas ajustadas exactamente a lo que se desea."
+        },
+        {
+          "t": "p",
+          "x": "La IA funciona con dos juegos: ojos y cerebro. Los ojos corren a cargo de un modelo de visión por computadora YOLO, que localiza rápidamente las moléculas sobre una superficie de cobre, y el cerebro corre a cargo del aprendizaje por refuerzo. Prueba varias formas de mover una molécula, obteniendo una puntuación alta al llegar al punto objetivo y una puntuación baja al fallar. El modelo revisó esas puntuaciones para aprender combinaciones de corriente, voltaje de polarización y velocidad que empujan una molécula a su lugar sin dañar la sonda."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores demostraron la construcción de una red artificial de grafeno con patrón de panal usando 37 moléculas. También confirmaron los puntos de Dirac, la firma electrónica que muestra que se comporta como grafeno real. La IA incluso escribió las letras 「ORNL」 colocando moléculas una por una."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-automates-the-creat.jpg",
+          "cap": "Resumen visual. Crédito: ACS Nano (2025). DOI: 10.1021/acsnano.5c12469"
+        },
+        {
+          "t": "p",
+          "x": "Por ahora es semiautomático. Si la sonda se vuelve inestable, una persona tiene que intervenir. Construir la red de 37 moléculas tomó unas 900 manipulaciones y 25 horas, con cada movimiento tardando alrededor de un minuto."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores ven el diseño inverso como el siguiente paso: fijar las propiedades electrónicas deseadas y dejar que la IA determine y construya por sí misma la estructura necesaria. Es un paso hacia los qubits topológicos, la unidad básica de las computadoras cuánticas ultraestables. Narasimha dijo: 「Creemos que este enfoque acelerará nuevos avances en la comprensión de los estados cuánticos y en tecnologías futuras.」"
+        }
+      ]
     }
   }
 }

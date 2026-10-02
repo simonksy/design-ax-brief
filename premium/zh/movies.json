@@ -3670,6 +3670,156 @@
           "x": "最近被Sister Group收购的After Party Studios首席执行官Joshua Barnett表示，他在Jürgen Klopp主持的《The Ultimate Football Challenge》的创意提案中使用了AI。ShxtsNGigs联合创始人James Duncan说，他不担心AI生成的内容会抢走自己YouTube的观众，反而认为它是对人类创作的补充。他认为，目前AI最有用的位置是「人在物理上做不到的事情」，而像「在山上连续空翻四次的人」这样的AI视频不会真正走红。"
         }
       ]
+    },
+    "movies/movies-caira-gen-video-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/Caira%20Camera.jpg",
+          "cap": "Caira相机加入了生成式视频编辑功能"
+        },
+        {
+          "t": "p",
+          "x": "Camera Intelligence在Caira应用中加入了Generative Video Editing。这项功能由Google的Gemini Omni和Runway的Aleph 2.0驱动，不是用文字生成视频，而是只修改已经拍摄好的素材。私测今天开始。"
+        },
+        {
+          "t": "p",
+          "x": "AI原生的微型四三系统无反相机Caira起步多少有些波折。此后Camera Intelligence交付了大部分Kickstarter订单，并询问111名支持者接下来想要什么功能。77%选择了生成式视频编辑。"
+        },
+        {
+          "t": "p",
+          "x": "该公司表示，加入Google的Gemini Omni 1.1 Flash和Runway的Aleph 2.0后，这是首次把能够理解真实场景的视频生成模型直接嵌入无反相机系统的案例。"
+        },
+        {
+          "t": "p",
+          "x": "该功能在Caira应用中对用Caira拍摄的素材生效。通过自然语言模板为画面和镜头运动添加效果。Gemini Omni往往能持续记住场景的形状、光线、材质和运动，因此适合这项任务。效果并不总是完美，但目标是在整段素材中保持人物、物体和镜头运动不晃动的前提下，重新打光或扩展画面。"
+        },
+        {
+          "t": "p",
+          "x": "首发模板共四种：Relight、Reframe、Camera Motion、Set Extension，涵盖从调色到类似无人机扫掠的虚拟镜头运动。模板由Camera Intelligence结合社区意见制作，还可以用平实的英语指令进一步调整。输出为720p或1080p，根据分辨率耗时1到3分钟。"
+        },
+        {
+          "t": "p",
+          "x": "该公司在2026年3月关闭了开放式的生成式照片编辑提示框。因为「含糊或荒唐」的测试提示引发了反弹，公司改用整理好的按钮形式。这次的模板方式会与当时有何不同，值得关注。"
+        },
+        {
+          "t": "p",
+          "x": "有一个值得注意、或许也值得欢迎的细节：没有文字生成视频功能。所有编辑都从用户用Caira拍摄的素材开始，无法凭空创造出画面。生成的片段会保存为名称清晰的独立文件，并带有Google的SynthID水印，原始素材不会被改动。Caira机内的图像处理也保持非生成式，而且这项功能是可选的。"
+        },
+        {
+          "t": "p",
+          "x": "关于安全措施，公司表示Camera Intelligence和Google API都不会把客户的视频和照片用于模型训练，也会阻止更改人的肤色、种族以及面部的基本特征。"
+        },
+        {
+          "t": "p",
+          "x": "Generative Video Editing将纳入2026年秋季推出的高级软件版本Caira Studio，与Generative Image Editing以及尚未公开的第三项功能一起提供，价格尚未确定，仅限美国和英国使用。私测今天向现有Caira用户和五位在职电影人开放，申请方式为cameraintelligence.com/generative-video-editing或team@cameraintelligence.com。"
+        },
+        {
+          "t": "p",
+          "x": "另外，第五批产品现以999美元开放预订，将于本月内发货。"
+        }
+      ]
+    },
+    "movies/movies-eddie-agent-marketplace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/eddie-ai-agent-marketplace.png?id=67720010&width=1245&height=700&quality=50&coordinates=7%2C0%2C7%2C0",
+          "cap": "Eddie AI Agent Marketplace · Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "作为我们多次报道过的辅助剪辑工具，Eddie AI推出了Agent Marketplace。知名剪辑师、导演和创作者署名的剪辑智能体会上架这里。"
+        },
+        {
+          "t": "p",
+          "x": "用户也可以自己打造遵循品牌手册或法务检查清单等自定规则的智能体。不过对许多人来说，更大的新闻是能够以这种方式，与剪辑和电影行业中一些最大的名字共事。"
+        },
+        {
+          "t": "p",
+          "x": "这件事肯定会引来讨论。如果感兴趣，下面是需要了解的内容。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=67720013&width=980",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "如前所述，核心是Agent Marketplace。功能丰富的AI辅助剪辑平台Eddie AI，在这里汇集了仿照电影行业大师制作的智能体。"
+        },
+        {
+          "t": "p",
+          "x": "有一点需要说明。这些智能体学习的是那些电影人的全部作品，而不是本人，也与他们本人没有任何关系。抛开这一点，如果你想和仿照这些大师作品制作的智能体合作，名单中包括Walter Murch、Thelma Schoonmaker、Roger Deakins、Denis Villeneuve、Ken Burns、Errol Morris，以及二十多个其他名字。"
+        },
+        {
+          "t": "p",
+          "x": "智能体制作剪辑时，会单独生成一个新版本，不会覆盖正在进行的剪辑版本。它也可以充当评论者或第二双眼睛，为作品提供意见。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=67720014&width=980",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "这次更新的另一面，是用户可以自己制作智能体的功能。如果你想让它遵循的不是Christopher Nolan，而是自己团队和项目定好的规则与品牌指南，这项功能就很有用。"
+        },
+        {
+          "t": "p",
+          "x": "智能体在Eddie网页应用内制作。你需要给它起名字和表情符号，写一行说明它的作用，再给出一段设定性格的指令。接下来是教它技能，技能由一行「何时使用」说明和一段长度不限的正文组成。品牌指南之类的资料，就上传在这段正文里。"
+        },
+        {
+          "t": "p",
+          "x": "一个值得注意的例子是品牌合规智能体。它会把剪辑版本对照品牌手册检查，在交给客户之前把不符合要求的镜头、字幕和说明文字全部标出来。法务合规智能体则会按照法律顾问给出的规则，核查免责声明、宣传措辞、音乐授权和画面文字。这是相当重要的一道检查。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=67720016&width=980",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "智能体剪辑和AI剪辑智能体这个新世界，对一些剪辑师来说可能一下子难以消化。不过正如从Premiere等Adobe的智能体协作中看到的那样，不管喜不喜欢，这就是未来的样子。"
+        },
+        {
+          "t": "p",
+          "x": "Eddie AI的Agent Marketplace首次亮相就上架了29种智能体。套餐和价格可以在公司官网一并查看。"
+        },
+        {
+          "t": "p",
+          "x": "如果想直接和团队交流，Eddie AI与联合创始人兼CEO Shamir Allibhai将出席阿姆斯特丹的IBC 2026，展位分别是7号馆7.A38和Future Tech Hall的14.B51。"
+        }
+      ]
+    },
+    "movies/movies-flow-studio-3d-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/Autodesk_Flow-Studio-FINAL-For-Stills.00_00_31_20.Still010.jpg",
+          "cap": "3D Editor + Canvas的运作方式"
+        },
+        {
+          "t": "p",
+          "x": "今天的befores & afters播客谈到了Autodesk Flow Studio的最新消息。这家媒体的读者和听众应该还记得，我们曾多次与Nikola Todorovic谈论AI电影制作。他共同创立的Wonder Dynamics，现在已属于Autodesk。"
+        },
+        {
+          "t": "p",
+          "x": "Nikola和团队打造的AI电影制作工具，现在名叫Flow Studio。这次的消息是3D Editor + Canvas的发布。用户可以在同一个工作空间里完成场景的生成、组装、渲染和打磨。目的是让人能更直接地掌控、调整场景，Nikola在访谈中也特别强调了这一点。"
+        },
+        {
+          "t": "p",
+          "x": "播客还谈到了VFX和CG领域机器学习、AI更广泛的趋势，以及需要警惕的地方。"
+        },
+        {
+          "t": "p",
+          "x": "下面附上展示3D Editor + Canvas的演示视频和图片。"
+        },
+        {
+          "t": "video",
+          "yt": "ca76F7Jo84k"
+        }
+      ]
     }
   }
 }

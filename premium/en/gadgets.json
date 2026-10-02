@@ -4746,6 +4746,182 @@
           "x": "For Apple users, there's a virtual volume knob you control by twisting two fingers on the screen to adjust system volume. The iPad app has been rebuilt for the bigger screen, and it now works with the Shortcuts app, so you can trigger automations with Siri. Sonos 27 is rolling out to every piece of hardware currently running the S2 platform. The new app navigation, early-access MCP features and portable surround feature all go live on September 8."
         }
       ]
+    },
+    "gadgets/gadgets-acer-aspire-g3d-local-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Acer unveiled the Aspire G 3D 16 laptop at IFA 2026 in Berlin. It offers gamers, 3D artists, architects, and video editors glasses-free stereoscopic images and video."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-debuts-Aspire-G-3D-16-gaming-laptop-3D-display-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.jpg",
+          "cap": "The Acer Aspire G 3D 16 displays games, movies, and photos in true 3D on its 3,840 x 2,400 120Hz IPS screen."
+        },
+        {
+          "t": "p",
+          "x": "It pairs a 16-core, 32-thread AMD Ryzen AI Max+ 395 with up to 128GB of LPDDR5x-8000 memory and up to 2TB of M.2 PCIe Gen 4 SSD storage. The 3,840 x 2,400 120Hz IPS display reaches 450 nits of brightness and covers 100% of the DCI-P3 color space, driven by the integrated AMD Radeon 8060S GPU."
+        },
+        {
+          "t": "p",
+          "x": "When displaying 3D images and video in games and other compatible apps, the resolution switches to 1,920 x 2,400. The pre-installed SpatialLabs 3D Hub handles that switch."
+        },
+        {
+          "t": "p",
+          "x": "Running Windows 11 Home, this laptop can also run large local AI models like OpenAI's gpt-oss-120b or OpenClaw, thanks to its large maximum RAM capacity and a processor that delivers up to 126 TOPS of AI compute. The NPU alone provides 50 TOPS."
+        },
+        {
+          "t": "p",
+          "x": "It includes a 5MP IR eye-tracking webcam and two 2-watt speakers. Ports consist of two USB4 Type-C, one USB 3.2 Gen 2 Type-A, two USB 3.2 Gen 1 Type-A, one HDMI 2.1, plus an SD-4.0 card reader, an audio jack, and an RJ-45 jack. Wireless is handled by Wi-Fi 7 and Bluetooth 5.4."
+        },
+        {
+          "t": "p",
+          "x": "A 99.9Wh battery sits inside the 355 × 264.9 × 19.3mm chassis, which weighs 1.8kg."
+        },
+        {
+          "t": "p",
+          "x": "Pricing and release date for the Aspire G 3D 16 (AG3D16-81M) will be announced later."
+        }
+      ]
+    },
+    "gadgets/gadgets-adreno-neural-fusion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Adreno-Neural-Fusion-Snapdragon-1.jpg?quality=82&strip=all&w=1400"
+        },
+        {
+          "t": "p",
+          "x": "After first unveiling the Oryon CPU that will power its next flagship Snapdragon chip, Qualcomm has now revealed its next-generation Adreno Neural Fusion GPU."
+        },
+        {
+          "t": "p",
+          "x": "This SoC is the first chipset to place dedicated AI GPU cores inside the graphics pipeline. Blocks called 'Matrix Cores' each take up residence in one of the new Adreno GPU's three 1.45GHz slices. Qualcomm describes these cores as dedicated local hardware for “running advanced AI models directly within the graphics pipeline.”"
+        },
+        {
+          "t": "p",
+          "x": "The Adreno GPU also gets an 18MB HPM (High Performance Memory) cache. Modest in size alone, but Qualcomm says this memory “attaches large, low-latency memory directly to the GPU, keeping tile-based rendering, frame buffers, and compute workloads inside the graphics subsystem.”"
+        },
+        {
+          "t": "p",
+          "x": "The two components together make up the Adreno Neural Fusion GPU. For users, turning this technology on improves power efficiency by 40%. Keeping AI computation close to the GPU reduces latency and raises efficiency, according to the press release."
+        },
+        {
+          "t": "p",
+          "x": "The trick lies in keeping the work close to the silicon. Adreno Matrix Cores process AI models right where the graphics are happening, while the 18MB Adreno High Performance Memory holds heavy data like tiles, frame buffers, and compute workloads on-chip. Fewer round trips to system memory mean lower latency and better efficiency — and longer gaming sessions as a result."
+        },
+        {
+          "t": "p",
+          "x": "For now, Unity and Unreal Engine have already integrated Qualcomm's Neural Fusion stack."
+        },
+        {
+          "t": "p",
+          "x": "The result shows up in graphics quality. In Qualcomm's words, it's “AI rendering embedded directly in the Snapdragon graphics pipeline for upscaled imagery, stable frame rates, and improved efficiency.”"
+        },
+        {
+          "t": "p",
+          "x": "Snapdragon Summit runs from September 22 to 24. More details about the new chip's NPU are expected there."
+        }
+      ]
+    },
+    "gadgets/gadgets-caira-ai-video-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa.jpg",
+          "cap": "Image credit: Camera Intelligence"
+        },
+        {
+          "t": "p",
+          "x": "AI camera startup Camera Intelligence announced it is adding Generative Video Editing to its Micro Four Thirds mirrorless camera, Caira. It says it's the first company to put a video generation model into a mirrorless camera system."
+        },
+        {
+          "t": "p",
+          "x": "The feature runs in the Caira app and works only on video shot with Caira — it can't generate new AI video from scratch. A private beta opens first for existing customers, and it will later join the paid Caira Studio software package in fall 2026. Pricing hasn't been announced yet."
+        },
+        {
+          "t": "p",
+          "x": "“Last year we were the first mirrorless camera to edit photos with generative AI, and we learned a lot from the conversations that followed,” said Camera Intelligence CEO and co-founder Vishal Kumar. “After shipping Caira this year, the majority of backers who responded to our survey said generative video editing would be useful. That was a clear signal to actually build this idea.”"
+        },
+        {
+          "t": "p",
+          "x": "The feature is built on Google's Gemini Omni 1.1 Flash and Runway's Aleph 2.0. Camera Intelligence is the first company to embed a video generation model directly into a mirrorless camera system. In the Caira app, users apply templates to already-shot video and give natural-language instructions to add on-screen effects and camera movements on the spot."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZKtx7XJHQMeibHmrgmauxc.jpg"
+        },
+        {
+          "t": "p",
+          "x": "We reviewed Caira last year. It was an odd but impressive object that paired proper Micro Four Thirds hardware with a smartphone's simplicity. It attaches to an iPhone via MagSafe."
+        },
+        {
+          "t": "p",
+          "x": "Inside is a Micro Four Thirds sensor, driven by Qualcomm and Google silicon. Its real party trick is Google's 'Nano Banana,' an on-device editor sitting behind a $7-a-month paywall that also unlocks smart voice control. Editing is fast and the results are good enough that there's no need to open a laptop."
+        },
+        {
+          "t": "p",
+          "x": "Video editing runs on a curated template library. It can color-correct or mimic drone-like sweeps and complex camera paths. At launch, there are four templates: Relight, Reframe, Camera Motion, and Set Extension. Conversational editing refines things further. Output comes in 720p or 1080p, and generation takes 1 to 3 minutes depending on resolution."
+        },
+        {
+          "t": "p",
+          "x": "Since there's no text-to-video capability, every edit starts from video shot with Caira. The generated video is saved as a separate file from the original and carries Google's SynthID watermark, revealing it as AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "This Generative Video Editing feature is part of the Caira Studio app, arriving in fall 2026. The app will bundle it with existing image-editing features and one more feature that hasn't been revealed yet. The private beta opens today, and existing Caira customers can sign up to take part."
+        },
+        {
+          "t": "p",
+          "x": "Camera Intelligence seems to be reassuring filmmakers that while it's bringing generative AI right up next to the act of shooting, it has no intention of eliminating the shooting itself. That condition keeps Caira tethered to photography. Whatever AI layers on afterward, it still starts with a person behind the camera deciding what to shoot."
+        }
+      ]
+    },
+    "gadgets/gadgets-norway-smart-glasses-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2024/02/ray-ban-meta-wayfarer.jpg?resize=1200%2C720",
+          "cap": "Phil Nickinson / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Smart glasses started out a decade ago as an awkward picture of wearable computing that Google pushed out too hastily, but more recently they've rolled into becoming a public nuisance. Norway wants to rein that in. According to AFP, the country's Digitalization Minister Karianne Tung said the government is weighing stricter regulation of smart glasses from companies like Meta and Snap."
+        },
+        {
+          "t": "p",
+          "x": "Tung pointed to a clear trend of AI, cameras, and microphones being bundled into everyday objects, including glasses and headphones. The goal is to stop people from being filmed in public without consent using that gear. The rules under review could even include banning facial recognition features that identify people in public spaces. There's talk that some wearable makers are putting that capability into their next devices."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2025/05/ray-ban-meta-and-case.jpg?resize=3000%2C2250",
+          "cap": "Andy Boxall / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Civil society groups have raised similar concerns. Unlike smartphones, camera-equipped wearables blur the boundaries of consent, because the signal that recording is happening isn't easy to notice. It isn't a new worry. Google once told Glass Explorers not to become a 'Glasshole,' a term it coined itself to describe wearers who film others without asking. The recent popularity of Meta's Ray-Ban smart glasses has simply pushed the issue into the mainstream."
+        },
+        {
+          "t": "p",
+          "x": "Tung said she would assemble a panel of experts to advise on stronger privacy protections. No formal legislative timeline has been announced yet."
+        },
+        {
+          "t": "p",
+          "x": "Norway's crackdown isn't happening in a vacuum. Local bans aimed at filling the gaps manufacturers have left are already spreading. Meta built in a software safeguard that stops recording if the small LED indicator light is covered, but users bypass it with simple tricks like electrical tape or physical modifications."
+        },
+        {
+          "t": "p",
+          "x": "So private venues have moved first. Several nightclubs, performance venues, and fitness chains across Europe and the U.S. now ban camera-equipped wearables. Schools have also sounded the alarm after reports that students secretly filmed friends and teachers with smart glasses."
+        },
+        {
+          "t": "p",
+          "x": "The core of the problem lies beyond the hardware. It's a product of the industry tilting quickly toward always-on AI recording. The multimodal visual analysis that today's wearables tout only works by continuously processing real-time data about their surroundings. Add facial recognition on top, and these devices become tools for constant surveillance of public spaces."
+        },
+        {
+          "t": "p",
+          "x": "That's why I welcome Norway's approach. We left social media platforms unregulated for years before even attempting oversight, and we're still dealing with the fallout. Tech companies have treated public anonymity as acceptable collateral damage in their race for new hardware and features. If companies won't build proper safeguards themselves, regulators need to draw the line instead."
+        }
+      ]
     }
   }
 }

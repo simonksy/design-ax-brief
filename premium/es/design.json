@@ -4503,6 +4503,106 @@
           "x": "La recomendación depende del equipo. Para una startup que necesita lanzar la v1 rápido, el autor dice que conviene usar la herramienta de capturas solo para prototipar y estar preparados para reescribir la capa de interfaz más adelante. Para una empresa donde la accesibilidad y el cumplimiento están en juego, es mejor no convertir esta vía en la ruta principal. Los equipos con un sistema de diseño sólido deberían invertir en un pipeline de tokens; los equipos liderados por desarrollo que ya tienen una librería de componentes deberían invertir en una herramienta que se mapee a esa librería. Si no se puede reproducir el resultado, eso no es un benchmark: es marketing de contenidos."
         }
       ]
+    },
+    "design/design-figma-coinbase-code-connect": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El equipo del Sistema de Diseño de Coinbase (CDS) sostiene las aplicaciones móviles y web del mayor intercambio de criptomonedas de EE. UU., tanto para usuarios individuales como institucionales. El equipo ha desarrollado el sistema en torno a la calidad, la consistencia y la accesibilidad, pero ¿qué debería cambiar cuando el usuario principal pasa de ser un ingeniero a ser un agente? El líder técnico Erich Kuerschner encontró su respuesta en el servidor Figma MCP, Code Connect y las habilidades de agente de CDS. Al ejecutar su propia evaluación, descubrió que Code Connect redujo los costos en un promedio del 22.5% y el tiempo de trabajo en alrededor del 22%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/cbeec3426e9a9957f218d4969897d0e2e8c79fd7-1999x1125.png?rect=0,1,1999,1124&w=1632&h=918&q=75&fit=max&auto=format",
+          "cap": "Una visión general de los componentes del Sistema de Diseño de Coinbase"
+        },
+        {
+          "t": "p",
+          "x": "Dice que sus pruebas mostraron que Code Connect reduce la cantidad de tokens que los agentes necesitan al traducir diseños de Figma a código. La calidad del código también mejora notablemente gracias al contexto que aporta Code Connect, según él."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de CDS ya tenía varias habilidades que enseñaban a los agentes las mejores prácticas del sistema de diseño: elegir el componente correcto, evitar componentes y patrones obsoletos, y usar los tokens de diseño de CDS. Además de eso, habían construido un espacio interno de prototipado. Pero ambas herramientas estaban orientadas a escribir código desde cero, y quedaba un vacío en la tarea habitual de convertir diseños de Figma en código CDS de nivel de producto. Los ingenieros de producto decían que el proceso era lento, impreciso e impredecible, lo que dificultaba incorporarlo al trabajo diario."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e186e8339bb81378e7d5bbdc4814ecd95eb073d0-1304x1314.png?w=1080&h=1088&q=75&fit=max&auto=format",
+          "cap": "El formulario de información personal usado para las pruebas"
+        },
+        {
+          "t": "p",
+          "x": "Code Connect era la palanca, pero el mapeo se había detenido antes del lanzamiento del servidor Figma MCP. Lo que quedaba estaba desactualizado, y muchos componentes nuevos ni siquiera tenían plantillas. Cientos de componentes en móvil y web necesitaban atención. Erich Kuerschner construyó un flujo de trabajo agéntico en Claude Code para escanear en paralelo la lista de componentes de Figma, con la habilidad figma-code-connect escribiendo las plantillas. En cuatro horas, todo el sistema de diseño pasó al nuevo formato de Code Connect."
+        },
+        {
+          "t": "p",
+          "x": "La evaluación se ejecutó tres veces en una base de código vacía, usando el mismo diseño, el mismo prompt y el mismo modelo (Sonnet 4.6). Cada ejecución partió de cero, y se controló el efecto del almacenamiento en caché de prompts. El prompt era deliberadamente vago: una sola línea que decía \"Implement this design from Figma\". El encabezado incluía una trampa: un CDS Stepper con decenas de propiedades. El problema de que los agentes inventaran nombres para ilustraciones e iconos también era un dolor de cabeza antiguo, y desapareció de la noche a la mañana en cuanto Code Connect quedó completamente conectado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/82d5cf15ea9529ba883de8e8c4637945a85732b2-1380x1328.png?rect=1,0,1379,1328&w=804&h=774&q=75&fit=max&auto=format",
+          "cap": "Uso promedio de tokens reducido en 11.5%, tiempo de implementación en 22.3%, costo en 22.5%"
+        },
+        {
+          "t": "p",
+          "x": "Las tres ejecuciones terminaron el mismo trabajo de forma más barata y más rápida. La evaluación también mostró con claridad que las dos herramientas cumplen funciones distintas. Las habilidades de agente de CDS moldean la forma en que un agente implementa una solución, mientras que Code Connect entrega por adelantado el mejor contexto posible al partir de un diseño. Recibir primero el contexto del componente significó menos tokens gastados en buscar y adivinar."
+        },
+        {
+          "t": "p",
+          "x": "Con cada nueva generación de modelos, los agentes usan bien CDS incluso sin las habilidades. Erich Kuerschner ve la evaluación como una preparación para el momento en que las habilidades dejen de ser necesarias. La calidad del contexto seguirá importando entonces. Dijo que no quiere quedarse sin Code Connect en ese futuro, porque ya ha visto lo que ocurre cuando un agente interpreta un diseño a su antojo."
+        }
+      ]
+    },
+    "design/design-solidworks-blue-tokens": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dassault Systèmes introdujo una suscripción de Blue Tokens para cobrar por el uso de IA en toda la plataforma 3DExperience."
+        },
+        {
+          "t": "p",
+          "x": "Hace unas semanas informamos que los compañeros virtuales de Dassault Systèmes, Aura, Leo y Marie, ya estaban activos en 3DExperience. Después hablamos con el CEO de Solidworks, Manish Kumar, sobre el despliegue y lo que significa para los usuarios."
+        },
+        {
+          "t": "p",
+          "x": "Hay una actualización importante. El anuncio de lanzamiento del 23 de julio no mencionaba que, junto con los compañeros virtuales, también se estaba implementando un nuevo sistema de facturación. Kumar dijo que no sabe si la gente notó que los tokens empezaron a salir junto con todo lo demás."
+        },
+        {
+          "t": "p",
+          "x": "Era de esperar. En febrero pasado, Kumar dijo que introduciría una licencia basada en consumo que agrupara unidades de conocimiento, de know-how y de trabajo en “algo fácil de entender”. Ese algo es el Blue Token. Difícil encontrar un nombre más simple que un color primario."
+        },
+        {
+          "t": "p",
+          "x": "Cada consulta a Aura, Leo o Marie cuesta Blue Tokens: las solicitudes sencillas cuestan menos, las complejas cuestan más. Por ahora, un paquete de 25,000 se vende por 1,250 dólares al año, y los tokens caducan a fin de año. Kumar dijo que los usuarios de Solidworks reciben 2,000 gratis por licencia."
+        },
+        {
+          "t": "p",
+          "x": "Las preguntas frecuentes de Dassault Systèmes indican que un solo paquete de 25,000 Blue Tokens puede cubrir miles de perspectivas rápidas, decenas de construcciones generativas complejas, o una combinación de ambas."
+        },
+        {
+          "t": "p",
+          "x": "Profundicemos un poco más. Cada compañero tiene áreas que Dassault Systèmes llama competencias, y las competencias se componen de habilidades. El más cercano a los usuarios de Solidworks es Leo, un compañero de tipo ingeniero con competencia en diseño mecánico. Según Kumar, la habilidad más popular de Leo hasta ahora ha sido el análisis de rendimiento de ensamblajes, que optimiza los ensamblajes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/02/assembly_optimizer.png",
+          "cap": "Leo ayuda con el rendimiento de ensamblajes en Solidworks. (Imagen: Dassault Systèmes)"
+        },
+        {
+          "t": "p",
+          "x": "Luego está model insights, una función que permite hacer preguntas en lenguaje natural sobre el propio modelo: qué piezas de este ensamblaje son de aluminio, o cuál es el área de superficie de esta pieza. Internamente se llama ChatWorks, y Kumar dijo que es muy simple y a la vez muy potente. Al preguntarle cuánto cuesta contar piezas de aluminio, respondió que entre 5 y 10 centavos, uno o dos Blue Tokens."
+        },
+        {
+          "t": "p",
+          "x": "La tercera habilidad, generación de planos, se usa cada vez más. Produce automáticamente planos 2D a partir de modelos 3D. Kumar dijo que la están desarrollando para entrenarla con datos del usuario, de modo que los planos salgan con pesos ajustados específicamente para ese cliente."
+        },
+        {
+          "t": "p",
+          "x": "Kumar no ofreció una estimación del costo de los planos generados, diciendo que varía mucho. Solo señaló que el costo sube con la complejidad del modelo, y que la inferencia con entrenamiento personalizado es más cara que usar los pesos predeterminados."
+        },
+        {
+          "t": "p",
+          "x": "Ya sean Blue Tokens, Red Credits o Green Funbucks, las licencias basadas en consumo se han convertido en el estándar de las herramientas de IA. Es difícil culpar a Dassault Systèmes por seguir la tendencia. Aun así, no deja de ser incómodo. Habiendo cubierto durante mucho tiempo la transición de los asientos de CAD perpetuos a las suscripciones, es difícil no sentir que el agua se está calentando otra vez de la misma manera que entonces: una transición que funcionó para los proveedores y dejó resentimiento entre los usuarios."
+        }
+      ]
     }
   }
 }

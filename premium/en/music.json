@@ -4232,6 +4232,291 @@
           "x": "If a take falls just short, there's no need to start all over again. What this beta is ultimately pitching is a session you can keep living in. The team added that it wants to hear from musicians, producers, composers, sound designers and audio developers about what helps and what gets in the way."
         }
       ]
+    },
+    "music/music-artist-operating-system": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "It's release week. The music is done, but the artist's work is just getting started. Checking the distributor, looking over streaming dashboards, setting up ads, tracking payouts. Assets and campaign notes are scattered across five or six apps, and audience data lives somewhere else entirely."
+        },
+        {
+          "t": "p",
+          "x": "This isn't happening because the tools are bad. Most of them do their one job very well. That's exactly why the real problem is hard to see. Karan Dasgupta says what independent artists lack isn't a tool for planning release strategy, but a system that ties those tools together."
+        },
+        {
+          "t": "p",
+          "x": "For years, music tech has split an artist's career into pieces and bolted software onto each problem. Distribution, smart links, ad buying, there's a specialized service for each one. It's clearly worked to remove gatekeepers and lower costs. But every new solution added one more login, one more dashboard, one more subscription. Each individual problem got solved, but nobody knows how the pieces fit together."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/8-24-upncomer-mid.jpg",
+          "cap": "Source: Hypebot"
+        },
+        {
+          "t": "p",
+          "x": "These days an independent artist is effectively running a company. Marketing, financial management, release planning, distribution, and branding all at once. One person does what a startup would split across a team. The technology that made independence possible quietly turns into an operating burden. Independence should mean owning your career, not spending it running software."
+        },
+        {
+          "t": "p",
+          "x": "The real cost isn't the subscription fees, it's attention. To figure out why a release underperformed, streaming numbers, ad performance, social response, and revenue are scattered across different systems, and the artist has to stitch them together by hand. Switching between tasks and resetting your head each time creates more friction than the work itself. Weeks and months of that pile up into duplicated effort and missed opportunities."
+        },
+        {
+          "t": "p",
+          "x": "So the question needs to change. Not which tool is best for this job, but how that tool connects to everything else. A good system doesn't just execute actions, it links them. A release feeds into a distribution schedule, that schedule feeds into a marketing campaign, the campaign feeds into audience data, and the data feeds into the next release decision. A layer where features talk to each other without one company replacing every specialized service, that's the difference between a toolkit and an operating system."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/Screenshot-2026-08-21-at-10.41.13---AM.png",
+          "cap": "UpNComer dashboard screen. Source: Hypebot"
+        },
+        {
+          "t": "p",
+          "x": "AI makes this picture matter more. AI gets used to pull out ideas and read data, but intelligence without context has limits. An AI that only knows one task gives you an answer. A system that knows releases, audience, and finances together explains why that answer matters. Dasgupta says the best AI is the AI an artist is least aware of, AI that sits underneath the workflow instead of becoming one more place to visit."
+        },
+        {
+          "t": "p",
+          "x": "The first era of independent music tech was about access. The next is about connection. Past a certain point, more tools stop meaning freedom and start meaning another job. Over the next ten years, the companies that matter won't be the ones adding another dashboard, they'll be the ones taking dashboards away. What independent music lacked was never a tool. It was always a system."
+        }
+      ]
+    },
+    "music/music-declared-intent-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/Search-has-moved-from-inferred-intent-to-declared-intent-1024x768.png",
+          "cap": "Search has moved from inferred intent to declared intent. Source: Digital Music News"
+        },
+        {
+          "t": "p",
+          "x": "Late at night, someone says this: play something wide and beautiful I haven't heard before. No vocals, piano is fine, but not too sentimental. No artist name, no song title, no genre. They just described a situation, and the machine picks the answer."
+        },
+        {
+          "t": "p",
+          "x": "Michael Whelan reads this scene as the latest version of a gatekeeper swap. There were record store clerks, then radio programmers. MTV, magazines, and distributor buyers came next. The internet said it would remove gatekeepers, but it actually automated them. Search engines, social media, streaming, playlists, and recommendation systems each took that seat in turn."
+        },
+        {
+          "t": "p",
+          "x": "What's changing this time is how intent gets read. Streaming algorithms watched behavior to infer intent. Predicting what comes next from what you skipped and what you saved made it a system that was always looking backward. Now you can just say it. Whelan sums it up as inferred intent shifting to declared intent."
+        },
+        {
+          "t": "p",
+          "x": "Spotify has already gone deep into prompt playlists and conversational controls, and YouTube Music has been building natural-language discovery too. Amazon experimented with prompt-based playlist generation. People never thought in metadata fields to begin with. Nobody says give me mid-tempo neoclassical instrumental music between 70 and 82 BPM with low vocal probability. They just ask for something pretty to play while they eat."
+        },
+        {
+          "t": "p",
+          "x": "Discovery moving outside music apps is also a big shift. If a conversation about travel or making dinner turns to music, the first point of contact happens inside a general-purpose AI. The Spotify search bar disappears. The song gets heard first, and the artist's name comes later. For unknown musicians, that's both an opportunity and a disaster."
+        },
+        {
+          "t": "p",
+          "x": "Genre loses power too. A request for instrumental music to make an unfamiliar hotel room feel comfortable has no use for a genre name. Instead, the machine listens to the sound itself and pulls out tempo, instrumentation, texture, density, presence of vocals, harmony, and energy, then connects that to the person's words. Discovery depends less on whether tags were applied correctly. Old catalogs come back to life too. A song for running at a desert sunrise has no particular reason to have come out last Friday."
+        },
+        {
+          "t": "p",
+          "x": "There are two things Whelan watches out for. One is the habit of making music to fit a prompt. If arrangements start getting optimized for sleep, focus, or running, AI hasn't discovered art, it has quietly placed an order. The other is an invisible gatekeeper. Nobody explains why those twenty songs got picked out of tens of millions. A radio DJ at least had a name."
+        },
+        {
+          "t": "p",
+          "x": "So the practical task that remains isn't tag games. It's keeping descriptive information, mood, instrumentation, vocal presence, culture, tempo, credits, collaborators, accurate. It's also making sure your website and Spotify, Instagram, and Bandcamp don't say different things from each other. Discovery may get easier, but a song getting discovered doesn't mean you got discovered."
+        }
+      ]
+    },
+    "music/music-denon-prime-4-g2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "bSB4x9F-G-o"
+        },
+        {
+          "t": "p",
+          "x": "The Prime 4, released in 2019, is a 4-deck standalone DJ system that connects directly to TIDAL, SoundCloud Go+, Beatport, and Dropbox over Wi-Fi. It also has independent zone outputs and multiple storage and connectivity options. This G2 generation significantly boosts processing power and adds new performance features."
+        },
+        {
+          "t": "p",
+          "x": "Because Denon DJ and AKAI Professional sit under the same InMusic umbrella, technology from the MPC G2 carried over to the Denon DJ line. The first thing that stands out is the 16-pad MPCe multi-zone performance pad. It reads velocity and pressure and even does 3D sensing, so hot cues, effects, rolls, stems, and DMX lighting control all layer onto a single pad."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-02-1024x565.jpg",
+          "cap": "Prime 4 G2 top panel. Source: Denon DJ"
+        },
+        {
+          "t": "p",
+          "x": "Inside, it packs an 8-core ARM CPU and 4GB of RAM. Processing stems on the unit itself takes that much power. The 10.1-inch main touchscreen stays the same, but the jog wheel grew to 8 inches and now has an LED display attached."
+        },
+        {
+          "t": "p",
+          "x": "It pulls stems straight from a track while DJing. There are dedicated buttons for creating instrumentals and acapellas, and Stem FX and Stem EQ also open from there. A 3-pin SoundSwitch output connects DMX lighting, supporting Philips Hue and Nanoleaf standards."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2-05-1024x565.jpg",
+          "cap": "Main panel. Source: Denon DJ"
+        },
+        {
+          "t": "p",
+          "x": "OmniSource switches seamlessly between USB, streaming, Serato DJ Pro, and VirtualDJ even during playback. The effects section also got bigger, and Amazon Music Unlimited and Apple Music streaming were added. The Prime 4 G2 is already on sale, with a street price of 2,698 euros."
+        }
+      ]
+    },
+    "music/music-elastic-melody-bass-dfam": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Elastic Melody was already a favorite melody generator on Mac, iPad, and iPhone. It has a built-in synth engine inspired by the Dave Smith Evolver, and it can also send signal out to other apps or hardware. Now, with Pitch and Filter Drive modes added, it also works as a bassline maker and a percussion source."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/09/EM-Automation-1024x768.png"
+        },
+        {
+          "t": "p",
+          "x": "Oliver Greschke keeps riding a good streak on the Elastic line. (Full disclosure: I worked on an early version of WretchUp and on a preset collection for Elastic OSC.) The built-in engine is one thing, but the ability to hand melodies off to other apps, including Elastic OSC, is what makes me want to dig back in."
+        },
+        {
+          "t": "p",
+          "x": "Some of it unlocks via in-app purchase, but there's a lot you get just from the free update."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/09/EM-New-Features-1024x768.jpg",
+          "cap": "Screenshot"
+        },
+        {
+          "t": "p",
+          "x": "Four more oscillator waveforms were added, along with pitch modulation. FM and FM decayed are additional purchases. The mixing screen was reworked too, adding a master level and volume meter, making solo/mute placement easier, and letting you rename tracks with a long press."
+        },
+        {
+          "t": "p",
+          "x": "The Rnd shift knob is a clever idea. Every set number of repeats, the sequencer randomizes a note's pitch so the pattern keeps rolling, and tapping it twice brings back the original pattern. It's good both for adding variation and for pulling out acid lines."
+        },
+        {
+          "t": "p",
+          "x": "Automation recording has also arrived — that's the big waveform you see in the screen above. FX sends were added, and EQ was moved to the end of the FX and dry chain. The new Ping Pong Delay and Datorro Reverb are additional purchases. Preset management and favorites got easier, and timing, performance when switching to Bluetooth headphones, buffer size switching, and macOS behavior all improved."
+        },
+        {
+          "t": "p",
+          "x": "All of this lives inside a single app that also runs standalone and as an AUv3 plugin on both desktop and mobile. With fast randomization, Ableton Link support, and a song mode, it covers most of what you'd need."
+        },
+        {
+          "t": "p",
+          "x": "To mark this release, SOI and Another Machines each put out presets. The Another Machines set leans toward heavy techno."
+        },
+        {
+          "t": "p",
+          "x": "The shadow of the DFAM shows up again. Moog proved that modulating steps and layering on noise is enough to turn a sequencing synth into percussion. Here, pitch modulation, FM, and a new filter type carry that idea forward in Elastic's own way."
+        },
+        {
+          "t": "p",
+          "x": "Elastic Melody can be used as a sequencer for pretty much anything, including Elastic OSC. Oliver just wrote in to say, 「Elastic OSC is clean, precise, digital, and Elastic Melody is warm, messy, growly analog.」 That sounds about right. It's nice to get to use both together."
+        },
+        {
+          "t": "p",
+          "x": "Take a look at the walkthrough video below. Even if the early sounds seem flat, keep watching and listening — that's actually the point. Things can head in a very different direction."
+        },
+        {
+          "t": "video",
+          "yt": "6QkCBjgjkUM"
+        },
+        {
+          "t": "p",
+          "x": "This connects directly to something Mad Mike said in yesterday's archive interview. Pick up someone's old iPhone or iPad for two or three hundred dollars, or inherit one, make techno with this app, and someone will think it's a modular system. That's not a call to all get trapped together in a consumer-electronics upgrade cycle that chews up the planet. It's just worth seeing how much headroom is sitting dormant inside that silicon."
+        }
+      ]
+    },
+    "music/music-logic-pro-12-3-session-players": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adam Crute, who has used Cubase since its first version in 1989, picked up Logic Pro 12.3 again. The resentment built up from wrestling with Logic back in the Emagic days lingered for a long time, but today's product is different from that era. Opening it up, the first thing he noticed was how similar the two DAWs are. Track headers and content layout are alike, and so is the side-and-bottom panel structure for pulling out the inspector, browser, and mixer."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-hideous-legacy-plugins-credit-press@1400x1050.jpg",
+          "cap": "Legacy Logic plugins left over as a remnant of skeuomorphic design. Image: Press"
+        },
+        {
+          "t": "p",
+          "x": "There are complaints too. Logic lumps the separate concepts of folder tracks and group tracks into a single Stack Tracks, which is confusing. It demands a key signature every time you start a project, and aux tracks only appear once you add a send. Output levels on the bundled instrument plugins run too hot, and there are far too many legacy plugins that are hard on the eyes. The lack of a tool to match Cubase's drum editor, forcing drums to be entered on the piano roll, is a longstanding frustration too."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-Project-Key-Signature-credit-press@1400x1050.jpg",
+          "cap": "Project key signature settings in Logic Pro 12.3. Image: Press"
+        },
+        {
+          "t": "p",
+          "x": "Even so, there's quite a lot to like. Live Loops, with its non-linear pattern sequencing, meshes with the timeline far more smoothly than Cubase's Groove Agent SE. Session Players reads a project's chord progression and rhythm to generate convincing bass, drum, and keyboard parts, and Cubase's pattern players don't come close. Stem separation stood alongside, or above, the best he's experienced."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-Session-Players-credit-press@1400x1050.jpg",
+          "cap": "Session Players in Logic Pro 12.3. Image: Press"
+        },
+        {
+          "t": "p",
+          "x": "The changes in 12.3 itself don't take long to list. Beat Breaker can now apply filter, resonance, and pan per slice and randomize them, loop detection improved, and Flex was paired with Smart Tempo. Chord ID, which catches chords, got faster and more accurate. Alchemy and Sample Alchemy gained a Sync mode that adjusts grain formant and overlaps parallel grain streams."
+        },
+        {
+          "t": "p",
+          "x": "The rating is 8 out of 10. Even if the update looks thin, it's free for existing users, and the £199 price is less than half of Cubase Pro. Factor in more than 50GB of content, and the value is hard to argue with. The conclusion: Cubase remains the main tool, but Logic looks set to get pulled out often too."
+        }
+      ]
+    },
+    "music/music-lucinate-video-synth": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lucinate, from the team behind the much-loved iPad app AUM, is a real-time visual environment for macOS and iOS built on Apple's Metal technology. You can treat it as a ready-to-play video synth that supports Ableton Link and Link Audio. If you want to dig into shaders or build your own, you can move into live coding."
+        },
+        {
+          "t": "p",
+          "x": "This is a tool worth waiting for. Good visual synths already exist. If you're collecting iPad visual synths, Imaginando's VS and Chromatose are genuinely beautiful. The same goes for editing shaders live: Hexler's KodeLife, which crosses OpenGL, DirectX, and Metal, sits on the text-coding side, and the free node-based app MetalGraph has also newly arrived on iPad and Mac. The problem comes after you've been tinkering with a shader — you eventually have to move to a different environment."
+        },
+        {
+          "t": "video",
+          "yt": "ojX9tVoJiuQ"
+        },
+        {
+          "t": "p",
+          "x": "What makes Kymatica's Lucinate welcome is that it fits all of that into one environment. It's good for light play synced via Ableton Link, and now, with Link Audio, hooking sound to visuals is also quick. If the mood strikes, you can then dig into shader code live or build one from scratch and learn as you go. Since we're in the age of vibe coding, it's worth adding that poking around without fully knowing what you're doing is genuinely fun."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/08/lucinate-code-editor.png"
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/08/lucinate_shot2-beat-synced.png"
+        },
+        {
+          "t": "p",
+          "x": "Looking through the specs, each one makes sense. It's a universal app spanning Mac, iPad, and iPhone, and it sits on Apple Metal. Being layer-based, it allows free blending and modular composition, and it comes with parametric shaders such as image correction, effects, texture utilities, coordinate transforms, patterns and gradients, and shader art examples. A built-in editor and an extensive Metal Shading Language library let you inspect, edit, and write shaders yourself."
+        },
+        {
+          "t": "p",
+          "x": "For input, it uses a live camera plus imported images and video clips. Output can be recorded as video or pulled as stills. Any parameter can be modulated with MIDI, LFOs, or an audio analyzer, and synced to the beat via Ableton Link or MIDI Clock. Sound from other apps comes in through Ableton Link Audio, and external displays and projectors are also supported."
+        },
+        {
+          "t": "p",
+          "x": "Put alongside VS, Chromatose, and KodeLife, a decent iPad, or even an iPhone, becomes a solid piece of visual gear. Grab a single HDMI adapter and this rig is ready to go. Or just run it on the same Mac. These days, even a fairly modest Apple Silicon machine can handle this comfortably. The Apple platform has quietly become a video-synth lab."
+        },
+        {
+          "t": "p",
+          "x": "A camera, a few shaders, and synchronization alone already make this a pretty big tool."
+        },
+        {
+          "t": "p",
+          "x": "As you can see, they've even built a genuinely usable UI for iPhone."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/08/lucinate_shot4.png"
+        },
+        {
+          "t": "p",
+          "x": "$29.99 on the App Store. It may be the best money spent in live visuals right now, especially alongside fun things like Quantum VJ HD from the SunVox developer."
+        }
+      ]
     }
   }
 }

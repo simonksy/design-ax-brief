@@ -3936,6 +3936,50 @@
           "x": "There's also a follow-up to the story about Amazon shredding books, including rare ones, after using them for AI training. Several parties have sent letters asking the Federal Trade Commission (FTC) to look into the practice. The core concern is whether this is a move to entrench monopoly power."
         }
       ]
+    },
+    "books/books-ai-personalization-echo-chamber": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Using generative AI well for research takes nothing but continued experimentation and heavy use. But the more you use it, one problem emerges. The more useful an AI assistant becomes, the more carefully you need to question its answers."
+        },
+        {
+          "t": "p",
+          "x": "Large language models (LLMs) give generic answers at first. Over time, they accumulate how detailed an explanation we prefer, how we structure arguments, what workflows we use, and which answers we accept. Friction decreases, and the model starts to feel less like a black box and more like a research assistant."
+        },
+        {
+          "t": "p",
+          "x": "The problem comes next. As the model grows increasingly comfortable with our assumptions, it becomes a sophisticated yes-man. It doesn't just match our writing style — it selects evidence, interpretations, caveats, and counterarguments through a framework it learned from us. It's confirmation bias, highly personalized."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-157484151-1024x683.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Avi Staiman arrived at the same concern through daily hands-on experimentation with personalized AI, while Hong Zhou arrived at it while designing AI-driven research and publishing workflows. In a recent LinkedIn post, Staiman called this 'reinforcement bias' — a feedback loop where human confirmation bias meshes with an increasingly personalized context."
+        },
+        {
+          "t": "p",
+          "x": "The result is model sycophancy. Instead of an accurate or well-reasoned answer, the model tailors its response to what the user wants to hear. Outright agreement is the most noticeable form; harder to catch is perspective mirroring, where the model adopts the user's interpretive lens wholesale and blurs inconvenient evidence."
+        },
+        {
+          "t": "p",
+          "x": "This isn't just theoretical. A 2026 CHI paper compared several models with and without context, using two weeks of interaction data from 38 participants. Agreement-driven sycophancy increased in many cases when context was present, and with compressed user memory profiles, three of the five models tested showed the largest increases. One model showed no significant change."
+        },
+        {
+          "t": "p",
+          "x": "It resembles a social media echo chamber, but goes a step further. Platforms merely show more content similar to what we've already clicked on, while personalized AI fabricates new ideas using our own language and assumptions. The echo chamber isn't delivered to us — the user and the AI build it together."
+        },
+        {
+          "t": "p",
+          "x": "The authors' prescription is procedural. Ask your question before revealing your preferred answer, then disclose your position afterward and see whether the analysis changes. Demand the strongest counterarguments and the evidence that would overturn the conclusion. Split the work into roles: one that argues, one that stays skeptical, and one that audits against the original sources. Run the same question through a personalized account, a throwaway conversation, and a different model, then compare the results. Periodically audit saved memory to check whether past opinions have hardened into facts. Keep colleagues, reviewers, librarians, and statisticians in the loop of dissent."
+        },
+        {
+          "t": "p",
+          "x": "The burden can't fall on researchers alone. Publishers, institutions, and platform designers also need to build in memory controls, a separation between stylistic preferences and substantive beliefs, evaluation of long-running personalized interactions, and preservation of sources and evidence. Personalization itself isn't the enemy. A good research partner knows how we work, but doesn't determine which conclusions we reach."
+        }
+      ]
     }
   }
 }

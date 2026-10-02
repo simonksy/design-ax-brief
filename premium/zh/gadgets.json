@@ -4334,6 +4334,99 @@
           "x": "对Apple用户而言,新增了一个虚拟音量旋钮,用两指在屏幕上扭动即可调节系统音量。iPad应用针对大屏幕重新设计,并与「快捷指令」应用联动,可以用Siri触发自动化操作。Sonos 27将推送给目前运行S2平台的所有硬件。新的应用导航、抢先体验的MCP功能,以及便携环绕声功能,都将于9月8日全面开放。"
         }
       ]
+    },
+    "gadgets/gadgets-adreno-neural-fusion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Adreno-Neural-Fusion-Snapdragon-1.jpg?quality=82&strip=all&w=1400"
+        },
+        {
+          "t": "p",
+          "x": "在率先公开下一代旗舰Snapdragon芯片将搭载的Oryon CPU之后，Qualcomm又推出了新一代Adreno Neural Fusion GPU。"
+        },
+        {
+          "t": "p",
+          "x": "这款SoC是首款在图形管线内置专用AI GPU核心的芯片组。被称为「Matrix Cores」的模块，分别嵌入新款Adreno GPU三个1.45GHz切片之中。Qualcomm将这些核心描述为专用的本地硬件，能够「在图形管线内直接运行高级AI模型」。"
+        },
+        {
+          "t": "p",
+          "x": "Adreno GPU还配备了18MB的HPM(High Performance Memory)缓存。单看容量并不算大，但Qualcomm表示，这块内存「将大容量、低延迟的内存直接接到GPU上，让基于tile的渲染、帧缓冲和计算任务都留在图形子系统内」。"
+        },
+        {
+          "t": "p",
+          "x": "这两个部分共同构成了Adreno Neural Fusion GPU。对用户而言，开启这项技术后能效会提升40%。按照新闻稿的说法，把AI计算放在GPU附近，可以降低延迟并提高效率。"
+        },
+        {
+          "t": "p",
+          "x": "诀窍在于把工作留在硅片附近。Adreno Matrix Cores就在图形发生的地方处理AI模型，而18MB的Adreno High Performance Memory则把tile、帧缓冲和计算这类繁重数据留在芯片上。减少往返系统内存的次数，延迟就会降低，效率也会提高，游戏时长也因此相应变长。"
+        },
+        {
+          "t": "p",
+          "x": "目前，Unity和Unreal Engine已经接入了Qualcomm的Neural Fusion技术栈。"
+        },
+        {
+          "t": "p",
+          "x": "效果体现在画质上。用Qualcomm的话说，这是「直接嵌入Snapdragon图形管线的AI渲染，带来更清晰的升频画面、更稳定的帧率和更高的效率」。"
+        },
+        {
+          "t": "p",
+          "x": "Snapdragon Summit将于9月22日至24日举行，关于新芯片NPU的更多细节届时还会公布。"
+        }
+      ]
+    },
+    "gadgets/gadgets-caira-ai-video-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa.jpg",
+          "cap": "图片来源：Camera Intelligence"
+        },
+        {
+          "t": "p",
+          "x": "AI相机初创公司Camera Intelligence宣布，将为其微单无反相机Caira加入Generative Video Editing功能。该公司表示，这是业内首次把视频生成模型放进无反相机系统。"
+        },
+        {
+          "t": "p",
+          "x": "这项功能运行在Caira应用内，处理对象仅限用Caira拍摄的视频，无法凭空生成全新的AI视频。该功能会先对现有用户开放内测，随后在2026年秋季加入付费的Caira Studio软件套件。价格尚未公布。"
+        },
+        {
+          "t": "p",
+          "x": "「去年，我们是第一款用生成式AI编辑照片的无反相机，后续的那些交流也让我们学到了很多，」Camera Intelligence的CEO兼联合创始人Vishal Kumar说。「今年Caira出货之后，在回复调查的支持者中，大多数人表示视频生成编辑会很有用。这给了我们明确的信号，应该把这个想法真正做出来。」"
+        },
+        {
+          "t": "p",
+          "x": "这项功能基于Google的Gemini Omni 1.1 Flash和Runway的Aleph 2.0构建。Camera Intelligence是第一家把视频生成模型直接嵌入无反相机系统的公司。在Caira应用中，用户可以给已经拍好的视频套用模板，并用自然语言下达指令，当场加入画面特效和镜头运动。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZKtx7XJHQMeibHmrgmauxc.jpg"
+        },
+        {
+          "t": "p",
+          "x": "我们去年评测过Caira。它把正经的微单硬件和智能手机的易用性结合在一起，是个古怪却令人印象深刻的产品。它通过MagSafe吸附在iPhone上。"
+        },
+        {
+          "t": "p",
+          "x": "机身内置微单传感器，由Qualcomm和Google的芯片驱动。真正的看家本领是Google的「Nano Banana」——一款藏在每月7美元付费墙后面的机身内编辑器，同时还解锁了智能语音控制。编辑速度快、效果也好，用户完全不用打开笔记本电脑。"
+        },
+        {
+          "t": "p",
+          "x": "视频编辑依靠一个经过精选的模板库运行，可以做色彩校正，或模拟类似无人机的运镜和复杂的运镜路径。发布时提供四种模板：Relight、Reframe、Camera Motion和Set Extension，还可以通过对话式编辑进一步调整。输出为720p或1080p，根据分辨率不同，生成需要1到3分钟。"
+        },
+        {
+          "t": "p",
+          "x": "由于没有文字生成视频的功能，所有编辑都从用Caira拍摄的视频开始。生成的视频会作为独立文件保存，与原始素材分开，并带有Google的SynthID水印，以标明这是AI生成内容。"
+        },
+        {
+          "t": "p",
+          "x": "这项Generative Video Editing功能是2026年秋季推出的Caira Studio应用的一部分。该应用还会包含现有的图片编辑功能，以及一项尚未公开的新功能。内测今天开放，现有Caira用户可以登记参与。"
+        },
+        {
+          "t": "p",
+          "x": "Camera Intelligence似乎想让电影创作者们放心：尽管它把生成式AI带到了几乎紧贴拍摄行为的位置，但并不打算取消拍摄本身。正是这个前提，把Caira牢牢留在了摄影这一端。无论AI之后在上面叠加什么，起点始终是站在相机后面、决定拍什么的那个人。"
+        }
+      ]
     }
   }
 }

@@ -4566,6 +4566,182 @@
           "x": "The recommendation depends on the team. For a startup that needs to ship v1 fast, the author says to use the screenshot tool only for prototyping and be prepared to rewrite the UI layer later. For a company where accessibility and compliance are on the line, this path is better not treated as the main route. Teams with a solid design system should invest in a token pipeline; development-led teams that already have a component library should invest in a tool that maps to that library. If you can't reproduce the output, that's not a benchmark—it's content marketing."
         }
       ]
+    },
+    "design/design-agentic-ui-standard": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:4000/1*UqCs8JJOwBhWmepdUSg3-Q.png",
+          "cap": "One spec, four renderers. The whole argument is in this single image."
+        },
+        {
+          "t": "p",
+          "x": "Connection was the easy part. The plumbing for MCP servers is mostly settled, essentially HTTP dressed up for the AI era. What isn't settled is what the client does when an agent needs to put a date picker on screen: which components exist, who owns the rendering, and what it looks like once it's there."
+        },
+        {
+          "t": "p",
+          "x": "There are four approaches, and every product worth caring about falls into one of them. No one has published a comparison chart, so sorting out which client belongs where took four specs, one protocol proposal, and one Google engineering blog post. Even the names they use for things differ."
+        },
+        {
+          "t": "p",
+          "x": "Google is trying to build that standard with A2UI, short for agent-to-UI. Released in December 2025, the approach is declarative: an agent sends JSON naming components that already exist in the client's catalog, and the client renders it with its own code. Neither markup nor styling crosses the line. 1.0 is still a release candidate and resembles HTML constructs from 1999. Even so, it's the only proposal not owned by a single vendor."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:6208/1*nxwfSataYMuoTtCvVjxI6A.png",
+          "cap": "The approaches Claude and ChatGPT support look alike, but each is actually an IFRAME going into its own client."
+        },
+        {
+          "t": "p",
+          "x": "Google Gemini Enterprise, Opal, and OpenClaw Canvas render standard A2UI components without carrying a separate renderer. On the other side is sandboxed HTML. OpenAI's ChatGPT renders app UIs with the Apps SDK, and Anthropic's Claude does it with Artifacts and MCP Apps, which carries its own renderer. Expressiveness is large, control is hard, and wherever it lands, it remains a web object."
+        },
+        {
+          "t": "p",
+          "x": "There's also the non-A2UI camp. Microsoft Teams and Outlook render Adaptive Cards through seven renderer SDKs, and Slack renders Block Kit. Same approach, just a single owner. Consumer Gemini rebuilds its UI fresh with every prompt, and xAI's Grok has no surface at all."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:2000/1*dIuiTJJdPrRI1XMeKnSIWg.png",
+          "cap": "Surfaces × platforms. The same date picker gets specified and built over and over."
+        },
+        {
+          "t": "p",
+          "x": "The cost shows up as a tax, not a licensing fee. Every added surface increases what the design system has to support, and the platforms multiply it further. Add web, iOS, and Android to ChatGPT, Claude, Gemini, Copilot inside Teams and Outlook, and Slack. Ten surfaces across three platforms isn't a ten-item problem — it's building the same date picker once in Block Kit JSON, again as an Adaptive Card, and again in whatever format ChatGPT wants."
+        },
+        {
+          "t": "p",
+          "x": "The browser wars are the precedent. Netscape and Microsoft hurled tags at each other in the late 1990s, and caught between document.layers and document.all, most sites carried browser-detection code up top and two full sets of layout underneath. When Internet Explorer 6 won, the web stalled for five years. Agentic UI is the old browser war in new clothes, and this time the names are ChatGPT, Claude, Gemini, Copilot, and Slack."
+        },
+        {
+          "t": "p",
+          "x": "Author Patrick Neeman wrote that there are four things to do first. Draw a matrix with surfaces and platforms as axes and write an owner in every cell. Write a catalog, not screens. Specify, with versions, the roughly twelve components agents need to get work done — tables, forms, date pickers, confirmations, states, errors, empty states — including their states and constraints, so the work survives whichever format wins. Read the Adaptive Cards schema first. Test your first agent form not on a desktop but on a mid-range Android device with TalkBack turned on."
+        }
+      ]
+    },
+    "design/design-figma-coinbase-code-connect": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Coinbase Design System (CDS) team supports the mobile and web products of America's largest cryptocurrency exchange, for both individual and institutional users. The team has grown the system around quality, consistency, and accessibility — but what should change when the primary user shifts from engineers to agents? Tech lead Erich Kuerschner found his answer in the Figma MCP server, Code Connect, and CDS's agent skills. Running his own evaluation, he found Code Connect cut costs by an average of 22.5% and work time by about 22%."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/cbeec3426e9a9957f218d4969897d0e2e8c79fd7-1999x1125.png?rect=0,1,1999,1124&w=1632&h=918&q=75&fit=max&auto=format",
+          "cap": "An overview of the Coinbase Design System's components"
+        },
+        {
+          "t": "p",
+          "x": "He says his tests showed that Code Connect reduces the number of tokens agents need when translating Figma designs into code. The context Code Connect provides also makes code quality noticeably better, he says."
+        },
+        {
+          "t": "p",
+          "x": "The CDS team already had several skills that taught agents the design system's best practices: choosing the right component, avoiding deprecated components and patterns, and using CDS design tokens. On top of that, they built an internal prototyping playground. But both were geared toward writing code from scratch, leaving a gap in the common task of turning Figma designs into product-grade CDS code. Product engineers said the process was slow, inaccurate, and unpredictable, making it hard to fit into daily work."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e186e8339bb81378e7d5bbdc4814ecd95eb073d0-1304x1314.png?w=1080&h=1088&q=75&fit=max&auto=format",
+          "cap": "The personal information input form used for testing"
+        },
+        {
+          "t": "p",
+          "x": "Code Connect was the lever, but the mapping had stalled before the Figma MCP server launched. What remained was outdated, and many new components didn't even have templates. Hundreds of components across mobile and web needed attention. Erich Kuerschner built an agentic workflow in Claude Code to scan the Figma component list in parallel, with the figma-code-connect skill writing the templates. In four hours, the entire design system had moved over to the new Code Connect format."
+        },
+        {
+          "t": "p",
+          "x": "The evaluation ran three times on an empty codebase, using the same design, the same prompt, and the same model (Sonnet 4.6). Each run started fresh, and the effect of prompt caching was controlled for. The prompt was deliberately vague — a single line reading \"Implement this design from Figma.\" The header included a trap: a CDS Stepper with dozens of properties. Agents inventing names for illustrations and icons had also been a long-standing headache, and that problem disappeared overnight once Code Connect was fully attached."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/82d5cf15ea9529ba883de8e8c4637945a85732b2-1380x1328.png?rect=1,0,1379,1328&w=804&h=774&q=75&fit=max&auto=format",
+          "cap": "Average token use down 11.5%, implementation time down 22.3%, cost down 22.5%"
+        },
+        {
+          "t": "p",
+          "x": "All three runs finished the same work more cheaply and faster. The evaluation also drew a clear line between what the two tools do. The CDS agent skills shape how an agent implements a solution, while Code Connect hands over the best possible context upfront when starting from a design. Getting component context first meant fewer tokens spent searching and guessing."
+        },
+        {
+          "t": "p",
+          "x": "With each model generation, agents use CDS well even without the skills. Erich Kuerschner sees the evaluation as preparation for a time when skills become unnecessary. The quality of context still matters then. He said he doesn't want to be left without Code Connect in that future, because he's already seen what happens when an agent interprets a design however it likes."
+        }
+      ]
+    },
+    "design/design-perplexity-color-tetrads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*5CV86cN8pxilLTIbvBJy4A.png",
+          "cap": "The accessible tetrad color harmony Perplexity suggested, applied to a data visualization example."
+        },
+        {
+          "t": "p",
+          "x": "In this piece, author Theresa-Marie Rhyne examines how Perplexity suggests tetrad color harmonies that pass color-blindness tests. Perplexity is a text-based generative AI. She had previously looked at recommendations from DeepSeek, ChatGPT, Claude, Copilot, and Gemini in the same way."
+        },
+        {
+          "t": "p",
+          "x": "At first, Perplexity steered its answer narrowly toward color blindness and failed to produce a proper tetrad. Only after revising the prompt and asking again did it return a tetrad close to the target. The author points out the problems that surfaced along the way."
+        },
+        {
+          "t": "p",
+          "x": "The main discussion starts with an overview of tetrad color harmony, color blindness, and text-based generative AI. Color harmony is the practice of choosing colors from a color wheel that work well together when composing an image. Similar to a concept in music, combinations on a color wheel become a shared baseline for how colors relate to one another. The idea of the color wheel traces back to Isaac Newton, who closed a linear color spectrum into a circle in the early 1700s, and painters and color scientists later extended it into color harmony."
+        },
+        {
+          "t": "p",
+          "x": "The rest of the piece is available only to paid members, so this translation covers only the publicly available opening section."
+        }
+      ]
+    },
+    "design/design-solidworks-blue-tokens": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dassault Systèmes introduced a Blue Token subscription to charge for AI usage across the 3DExperience platform."
+        },
+        {
+          "t": "p",
+          "x": "A few weeks ago, we reported that Dassault Systèmes' virtual companions Aura, Leo, and Marie had all gone live on 3DExperience. We then spoke with Solidworks CEO Manish Kumar about the rollout and what it means for users."
+        },
+        {
+          "t": "p",
+          "x": "There's one important update. The July 23 launch announcement made no mention that a new billing system was rolling out alongside the virtual companions. Kumar said people may not have noticed that tokens started shipping with it too."
+        },
+        {
+          "t": "p",
+          "x": "It was expected. Back in February, Kumar said he would introduce a consumption-based license that bundled units of knowledge, know-how, and work into “something easy to understand.” That something is the Blue Token. It's hard to find a simpler name than a primary color."
+        },
+        {
+          "t": "p",
+          "x": "Every query to Aura, Leo, or Marie costs Blue Tokens — simple requests cost less, complex ones cost more. Right now, a pack of 25,000 sells for $1,250 a year, and tokens expire at year's end. Kumar said Solidworks users get 2,000 free per license."
+        },
+        {
+          "t": "p",
+          "x": "Dassault Systèmes' FAQ says a single pack of 25,000 Blue Tokens can cover thousands of quick insights, dozens of complex generative builds, or a mix of both."
+        },
+        {
+          "t": "p",
+          "x": "Let's go a bit deeper. Each companion has areas Dassault Systèmes calls competencies, and competencies are made up of skills. The one closest to Solidworks users is Leo, an engineer-type companion with mechanical design competency. According to Kumar, Leo's most popular skill so far has been assembly performance analysis, which optimizes assemblies."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/02/assembly_optimizer.png",
+          "cap": "Leo helps with assembly performance in Solidworks. (Image: Dassault Systèmes)"
+        },
+        {
+          "t": "p",
+          "x": "Next is model insights, a feature that lets users ask natural-language questions about their own models — things like which parts in this assembly are made of aluminum, or what the surface area of this part is. Internally it's called ChatWorks, and Kumar said it's very simple yet very powerful. Asked how much it costs to count aluminum parts, he said about 5 to 10 cents — one or two Blue Tokens."
+        },
+        {
+          "t": "p",
+          "x": "The third skill, drawing generation, is being used more and more. It automatically produces 2D drawings from 3D models. Kumar said they're developing it toward training on user data so drawings come out using weights customized for that specific customer."
+        },
+        {
+          "t": "p",
+          "x": "Kumar didn't offer an estimate for the cost of generated drawings, saying it varies widely. He noted only that costs rise with model complexity, and that custom-trained inference is more expensive than using default weights."
+        },
+        {
+          "t": "p",
+          "x": "Whether it's Blue Tokens, Red Credits, or Green Funbucks, consumption-based licensing has become the default for AI tools. It's hard to blame Dassault Systèmes for following the trend. Still, it doesn't sit easily. Having covered the shift from perpetual CAD seats to subscriptions for a long time, it's hard to shake the feeling that the water is heating up again the same way it did back then — a transition that worked for vendors and left a residue of resentment among users."
+        }
+      ]
     }
   }
 }

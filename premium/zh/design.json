@@ -4420,6 +4420,157 @@
           "x": "该怎么选,取决于团队本身。作者认为,如果是需要尽快发布v1的创业公司,可以把基于截图的工具仅用作原型,并做好日后重写UI层的准备。如果是无障碍性与合规性攸关的企业,最好不要把这条路线当作主路线。设计系统成熟的团队应该投入设计令牌流水线;已经有组件库、以开发为主导的团队,则应该投资能映射到该组件库的工具。如果输出结果无法复现,那就不是基准测试,而是内容营销。"
         }
       ]
+    },
+    "design/design-agentic-ui-standard": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:4000/1*UqCs8JJOwBhWmepdUSg3-Q.png",
+          "cap": "说明只有一份，渲染器却有四种。整篇论点都藏在这一张图里。"
+        },
+        {
+          "t": "p",
+          "x": "连接本来是容易的部分。MCP服务器的管道已基本理清，相当于把HTTP为AI时代重新包装了一番。没理清的是，当智能体需要在屏幕上弹出一个日期选择器时，客户端该怎么办：有哪些组件可用，渲染由谁掌控，呈现在屏幕上又是什么样子。"
+        },
+        {
+          "t": "p",
+          "x": "做法共有四种，所有值得关心的产品都落在其中之一。由于没有人给出对比表，要弄清哪个客户端属于哪一种，就得翻遍四份规范、一份协议提案和一篇谷歌工程博客。连叫法都各不相同。"
+        },
+        {
+          "t": "p",
+          "x": "谷歌想用A2UI建立这套标准，A2UI是agent-to-UI的缩写。这种于2025年12月发布的方式是声明式的：智能体发送包含客户端目录中已有组件名称的JSON，客户端用自己的代码来绘制。既不越过标记层，也不越过样式层。1.0版本目前仍是候选发布版，形态上更像1999年的HTML组件。尽管如此，它仍是唯一不被任何单一厂商拥有的提案。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:6208/1*nxwfSataYMuoTtCvVjxI6A.png",
+          "cap": "Claude和ChatGPT所支持的方式看起来相同，实际上都是各自客户端里的IFRAME。"
+        },
+        {
+          "t": "p",
+          "x": "Google Gemini Enterprise、Opal和OpenClaw Canvas不另外搭载渲染器，直接绘制标准的A2UI组件。另一端则是沙盒化的HTML。OpenAI的ChatGPT通过Apps SDK，Anthropic的Claude通过Artifacts和自带渲染器的MCP Apps来绘制应用UI。表现力很强，掌控却很难，无论落在哪里，最终都还是一个网页对象。"
+        },
+        {
+          "t": "p",
+          "x": "也存在不走A2UI路线的一方。Microsoft Teams和Outlook用七套渲染器SDK绘制Adaptive Cards，Slack则绘制Block Kit。方式相同，但只有一个所有者。消费者版Gemini每次提示都重新搭建UI，而xAI的Grok则完全没有这种界面。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:2000/1*dIuiTJJdPrRI1XMeKnSIWg.png",
+          "cap": "表面 × 平台。同一个日期选择器被反复定义、反复制作。"
+        },
+        {
+          "t": "p",
+          "x": "代价不是以许可费的形式出现，而是以税负的形式累积。每增加一个表面，设计系统要支撑的对象就增加一个，平台数量又会把它再乘一遍。把Web、iOS、Android，加上ChatGPT、Claude、Gemini、Teams和Outlook里的Copilot，以及Slack都算进去。十个表面乘三个平台，并不是一个十项的问题，而是要把同一个日期选择器用Block Kit JSON做一遍，再用Adaptive Card做一遍，然后再按ChatGPT想要的格式重做一遍。"
+        },
+        {
+          "t": "p",
+          "x": "浏览器大战是先例。网景和微软在1990年代末互相抛出各自的标签，夹在document.layers和document.all之间，大多数网站都是顶部放浏览器检测代码，底下挂着两套布局。等Internet Explorer 6获胜后，Web停滞了五年。智能体UI就是换了件新衣服的旧浏览器大战，这次的名字叫ChatGPT、Claude、Gemini、Copilot、Slack。"
+        },
+        {
+          "t": "p",
+          "x": "作者Patrick Neeman写道，应该先做四件事。以表面和平台为轴画一张矩阵，在每个格子里写上归属者。写目录，而不是写界面。把表格、表单、日期选择器、确认、状态、错误、空状态这类智能体完成工作所需的大约十二个组件，连同状态和约束一起带上版本号写清楚，这样无论哪种格式获胜，这份工作都能留存下来。先读Adaptive Cards的schema。第一个智能体表单不要在桌面上测试，而要在一台中端Android设备上打开TalkBack来测试。"
+        }
+      ]
+    },
+    "design/design-figma-coinbase-code-connect": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Coinbase设计系统(CDS)团队，同时支撑着美国最大加密货币交易所面向个人和机构用户的移动端与Web产品。团队一直以质量、一致性和可访问性为标准发展这套系统，但当主要使用者从工程师变成智能体时，又该如何调整？技术负责人Erich Kuerschner在Figma MCP服务器、Code Connect以及CDS的智能体技能中找到了答案。他亲自跑了一轮评测后发现，Code Connect平均能降低22.5%的成本和约22%的工作时间。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/cbeec3426e9a9957f218d4969897d0e2e8c79fd7-1999x1125.png?rect=0,1,1999,1124&w=1632&h=918&q=75&fit=max&auto=format",
+          "cap": "Coinbase设计系统的组件概览"
+        },
+        {
+          "t": "p",
+          "x": "他说，测试表明，在把Figma设计转换成代码时，Code Connect能减少智能体需要消耗的token数量。Code Connect提供的上下文，也让代码质量明显更好。"
+        },
+        {
+          "t": "p",
+          "x": "CDS团队此前已经有几项技能，用来教智能体设计系统的最佳实践：挑选合适的组件、避开已废弃的组件和模式、使用CDS的设计token。在此基础上，他们还搭建了内部的原型试验场。但这两者都是面向从零开始写代码的场景，而把Figma设计转换成产品级CDS代码这类常见工作，仍然是一块空白。产品工程师们表示，这个过程缓慢、不精确、难以预测，很难纳入日常工作。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e186e8339bb81378e7d5bbdc4814ecd95eb073d0-1304x1314.png?w=1080&h=1088&q=75&fit=max&auto=format",
+          "cap": "测试中使用的个人信息输入表单"
+        },
+        {
+          "t": "p",
+          "x": "Code Connect本应是撬动点，但其映射工作在Figma MCP服务器上线之前就已经停滞。留下来的部分已经过时，许多新组件甚至连模板都没有。移动端和Web端有数百个组件需要处理。Erich Kuerschner用Claude Code搭建了一套智能体工作流，让它并行扫描Figma的组件列表，由figma-code-connect技能来编写模板。短短四个小时，整个设计系统就迁移到了新的Code Connect格式。"
+        },
+        {
+          "t": "p",
+          "x": "评测使用相同的设计、相同的提示词、相同的模型(Sonnet 4.6)，在空代码库上跑了三次。每次都重新初始化，并控制了提示词缓存带来的影响。提示词特意设置得很模糊，只有一行：「Implement this design from Figma」。表头里放了一个属性多达数十个的CDS Stepper作为陷阱。智能体为插图和图标编造名称，这个老问题，在把Code Connect全部接好之后，一夜之间就消失了。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/82d5cf15ea9529ba883de8e8c4637945a85732b2-1380x1328.png?rect=1,0,1379,1328&w=804&h=774&q=75&fit=max&auto=format",
+          "cap": "平均token减少11.5%，实现时间减少22.3%，成本减少22.5%"
+        },
+        {
+          "t": "p",
+          "x": "三次运行都用更低的成本、更快的速度完成了同样的工作。评测还清楚地区分出两种工具各自的角色：CDS的智能体技能决定智能体实现方案的方式，而Code Connect则是在从设计出发时，预先提供最好的上下文。先拿到组件上下文，意味着用于搜索和猜测的token变少了。"
+        },
+        {
+          "t": "p",
+          "x": "随着模型一代代更新，即使没有技能，智能体也能把CDS用得很好。Erich Kuerschner认为，这次评测是在为技能不再被需要的那一天做准备。到那时，上下文的质量依然重要。他说，他不想在那样的未来里独自缺席Code Connect，因为他已经见过智能体随意解读设计时会发生什么。"
+        }
+      ]
+    },
+    "design/design-solidworks-blue-tokens": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "达索系统推出了蓝色Token订阅，用来向3DExperience平台上的AI使用收费。"
+        },
+        {
+          "t": "p",
+          "x": "几周前我们报道过，达索系统的虚拟伙伴Aura、Leo和Marie已经全部在3DExperience上线。随后我们采访了Solidworks CEO Manish Kumar，了解了部署情况以及这对用户意味着什么。"
+        },
+        {
+          "t": "p",
+          "x": "这里有一个重要更新。7月23日的发布公告并没有提到，随虚拟伙伴一起上线的还有一套新的计费体系。Kumar表示，他不确定大家是否注意到，Token也是跟着一起推出的。"
+        },
+        {
+          "t": "p",
+          "x": "这其实在预料之中。去年2月，Kumar曾表示他们会推出一种基于消耗量的授权方式，把知识单位、know-how单位和工作单位这三者打包成「一个容易理解的东西」。那个东西就是蓝色Token。恐怕没有比原色更简单的名字了。"
+        },
+        {
+          "t": "p",
+          "x": "向Aura、Leo、Marie发出的每一次查询都会消耗蓝色Token，简单的请求消耗少，复杂的请求消耗多。目前，一个25,000个的加油包每年售价1,250美元，Token在年末到期失效。Kumar表示，Solidworks用户每个授权可免费获得2,000个。"
+        },
+        {
+          "t": "p",
+          "x": "达索系统的FAQ写道，一个25,000个蓝色Token的加油包，足以应付数千次快速洞察、数十次复杂的生成式构建，或者两者的组合。"
+        },
+        {
+          "t": "p",
+          "x": "再深入一点看。每个虚拟伙伴都有达索系统所称的「能力(competency)」领域，能力又由技能(skill)构成。对Solidworks用户来说最相关的是Leo，一个具备机械设计能力的工程师型伙伴。据Kumar介绍，到目前为止Leo最受欢迎的技能是用于优化装配体的装配体性能分析。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/02/assembly_optimizer.png",
+          "cap": "Leo在Solidworks中帮助分析装配体性能。(图片：Dassault Systèmes)"
+        },
+        {
+          "t": "p",
+          "x": "接下来是模型洞察(model insights)，一项可以用自然语言向自己的模型提问的功能。诸如「这个装配体里哪些零件是铝制的」「这个零件的表面积是多少」这样的问题都可以问。Kumar说，内部把它称为ChatWorks，非常简单，却也非常强大。被问到统计铝制零件的费用时，他回答大约是5到10美分，相当于一两个蓝色Token。"
+        },
+        {
+          "t": "p",
+          "x": "第三项技能——图纸生成——正被越来越多地使用，它能从3D模型自动生成2D图纸。Kumar表示，他们正朝着用客户自身数据进行训练、用该客户专属的调整权重来生成图纸的方向发展这项功能。"
+        },
+        {
+          "t": "p",
+          "x": "Kumar没有给出生成图纸的成本估算，称其差异很大。他只指出，模型越复杂成本越高，而且相比默认权重，经过定制训练的推理成本更高。"
+        },
+        {
+          "t": "p",
+          "x": "不管叫蓝色Token、红色Credit，还是绿色Funbucks，基于消耗量的授权方式已经成了AI工具的标配。很难因此责怪跟随潮流的达索系统。但心里还是不太踏实。作为长期报道从永久CAD席位转向订阅制那段历史的人，很难不想起当年那次转型——对厂商有利、却给用户留下怨气——如今这种水温又在慢慢升高的感觉，挥之不去。"
+        }
+      ]
     }
   }
 }

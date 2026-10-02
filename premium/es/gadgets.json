@@ -4677,6 +4677,182 @@
           "x": "Para los usuarios de Apple, se añade una perilla de volumen virtual que se controla retorciendo dos dedos en la pantalla para ajustar el volumen del sistema. La app de iPad se rehizo para la pantalla grande, y ahora funciona con la app Atajos, de modo que se pueden lanzar automatizaciones con Siri. Sonos 27 se está desplegando en todo el hardware que actualmente funciona con la plataforma S2. La nueva navegación de la app, las funciones MCP de acceso anticipado y la función de sonido envolvente portátil se activan todas el 8 de septiembre."
         }
       ]
+    },
+    "gadgets/gadgets-acer-aspire-g3d-local-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Acer presentó el portátil Aspire G 3D 16 en el IFA 2026 de Berlín. Ofrece a jugadores, artistas 3D, arquitectos y editores de video imágenes y videos estereoscópicos sin necesidad de gafas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-debuts-Aspire-G-3D-16-gaming-laptop-3D-display-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.jpg",
+          "cap": "El Acer Aspire G 3D 16 muestra juegos, películas y fotos en 3D real en su pantalla IPS de 3,840 x 2,400 a 120Hz."
+        },
+        {
+          "t": "p",
+          "x": "Combina un AMD Ryzen AI Max+ 395 de 16 núcleos y 32 hilos con hasta 128GB de memoria LPDDR5x-8000 y hasta 2TB de almacenamiento SSD M.2 PCIe Gen 4. La pantalla IPS de 3,840 x 2,400 a 120Hz alcanza 450 nits de brillo y cubre el 100% del espacio de color DCI-P3, impulsada por la GPU integrada AMD Radeon 8060S."
+        },
+        {
+          "t": "p",
+          "x": "Al mostrar imágenes y video en 3D en juegos y otras apps compatibles, la resolución cambia a 1,920 x 2,400. El SpatialLabs 3D Hub preinstalado se encarga de ese cambio."
+        },
+        {
+          "t": "p",
+          "x": "Con Windows 11 Home, este portátil también puede ejecutar grandes modelos de IA locales como gpt-oss-120b de OpenAI u OpenClaw, gracias a su gran capacidad máxima de RAM y a un procesador capaz de entregar hasta 126 TOPS de cómputo de IA. La NPU por sí sola ofrece 50 TOPS."
+        },
+        {
+          "t": "p",
+          "x": "Incluye una cámara web de seguimiento ocular IR de 5MP y dos altavoces de 2 vatios. Los puertos son dos USB4 Type-C, un USB 3.2 Gen 2 Type-A, dos USB 3.2 Gen 1 Type-A, un HDMI 2.1, además de un lector de tarjetas SD-4.0, una toma de audio y un conector RJ-45. La conectividad inalámbrica usa Wi-Fi 7 y Bluetooth 5.4."
+        },
+        {
+          "t": "p",
+          "x": "Una batería de 99.9Wh se alberga dentro de un chasis de 355 × 264.9 × 19.3mm, con un peso de 1.8kg."
+        },
+        {
+          "t": "p",
+          "x": "El precio y la fecha de lanzamiento del Aspire G 3D 16 (AG3D16-81M) se anunciarán más adelante."
+        }
+      ]
+    },
+    "gadgets/gadgets-adreno-neural-fusion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Adreno-Neural-Fusion-Snapdragon-1.jpg?quality=82&strip=all&w=1400"
+        },
+        {
+          "t": "p",
+          "x": "Después de revelar primero la CPU Oryon que impulsará su próximo chip insignia Snapdragon, Qualcomm presentó ahora su GPU de nueva generación, Adreno Neural Fusion."
+        },
+        {
+          "t": "p",
+          "x": "Este SoC es el primer chipset en colocar núcleos de GPU dedicados a IA dentro de la canalización gráfica. Bloques llamados 'Matrix Cores' ocupan cada uno de los tres segmentos de 1.45GHz de la nueva GPU Adreno. Qualcomm describe estos núcleos como hardware local dedicado para “ejecutar modelos de IA avanzados directamente dentro de la canalización gráfica”."
+        },
+        {
+          "t": "p",
+          "x": "La GPU Adreno también incorpora una caché HPM (High Performance Memory) de 18MB. Modesta solo en tamaño, pero Qualcomm dice que esta memoria “conecta memoria grande y de baja latencia directamente a la GPU, manteniendo el renderizado basado en mosaicos, los búferes de fotogramas y las cargas de cómputo dentro del subsistema gráfico”."
+        },
+        {
+          "t": "p",
+          "x": "Los dos componentes juntos forman la GPU Adreno Neural Fusion. Para el usuario, activar esta tecnología mejora la eficiencia energética en un 40%. Mantener el cómputo de IA cerca de la GPU reduce la latencia y aumenta la eficiencia, según el comunicado de prensa."
+        },
+        {
+          "t": "p",
+          "x": "El truco está en mantener el trabajo cerca del silicio. Los Adreno Matrix Cores procesan los modelos de IA justo donde ocurren los gráficos, mientras que los 18MB de Adreno High Performance Memory retienen en el chip datos pesados como mosaicos, búferes de fotogramas y cargas de cómputo. Menos viajes de ida y vuelta a la memoria del sistema significan menor latencia y mejor eficiencia, y sesiones de juego más largas como resultado."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, Unity y Unreal Engine ya han integrado la pila Neural Fusion de Qualcomm."
+        },
+        {
+          "t": "p",
+          "x": "El resultado se nota en la calidad gráfica. En palabras de Qualcomm, es “renderizado de IA integrado directamente en la canalización gráfica de Snapdragon para imágenes escaladas, cuadros estables y eficiencia mejorada”."
+        },
+        {
+          "t": "p",
+          "x": "El Snapdragon Summit se celebra del 22 al 24 de septiembre. Allí se esperan más detalles sobre la NPU del nuevo chip."
+        }
+      ]
+    },
+    "gadgets/gadgets-caira-ai-video-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa.jpg",
+          "cap": "Crédito de imagen: Camera Intelligence"
+        },
+        {
+          "t": "p",
+          "x": "La startup de cámaras con IA Camera Intelligence anunció que añade Generative Video Editing a su cámara mirrorless Micro Four Thirds, Caira. Dice ser la primera empresa en incorporar un modelo de generación de video a un sistema de cámara mirrorless."
+        },
+        {
+          "t": "p",
+          "x": "La función funciona dentro de la app Caira y solo con video grabado con Caira; no puede generar video de IA desde cero. Primero se abre una beta privada para clientes existentes, y más adelante, en el otoño de 2026, se unirá al paquete de software de pago Caira Studio. Aún no se ha anunciado el precio."
+        },
+        {
+          "t": "p",
+          "x": "“El año pasado fuimos la primera cámara mirrorless en editar fotos con IA generativa, y aprendimos mucho de las conversaciones que siguieron”, dijo Vishal Kumar, CEO y cofundador de Camera Intelligence. “Después de enviar Caira este año, la mayoría de los patrocinadores que respondieron nuestra encuesta dijeron que la edición generativa de video sería útil. Fue una señal clara de que debíamos construir esta idea”."
+        },
+        {
+          "t": "p",
+          "x": "La función se basa en Gemini Omni 1.1 Flash de Google y Aleph 2.0 de Runway. Camera Intelligence es la primera empresa en incorporar un modelo de generación de video directamente en un sistema de cámara mirrorless. En la app Caira, los usuarios aplican plantillas a video ya grabado y dan instrucciones en lenguaje natural para añadir efectos en pantalla y movimientos de cámara al instante."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZKtx7XJHQMeibHmrgmauxc.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Revisamos Caira el año pasado. Era un objeto raro pero impresionante que combinaba hardware Micro Four Thirds serio con la sencillez de un smartphone. Se adhiere a un iPhone mediante MagSafe."
+        },
+        {
+          "t": "p",
+          "x": "Dentro lleva un sensor Micro Four Thirds, impulsado por silicio de Qualcomm y Google. Su verdadero truco es 'Nano Banana' de Google, un editor en el propio dispositivo que está detrás de un muro de pago de 7 dólares al mes y que también desbloquea un control de voz inteligente. La edición es rápida y los resultados son buenos, así que no hace falta abrir una laptop."
+        },
+        {
+          "t": "p",
+          "x": "La edición de video se apoya en una biblioteca curada de plantillas. Puede corregir el color o imitar barridos tipo drone y trayectorias de cámara complejas. Al lanzamiento hay cuatro plantillas: Relight, Reframe, Camera Motion y Set Extension. La edición conversacional permite refinar más. La salida es en 720p o 1080p, y la generación tarda entre 1 y 3 minutos según la resolución."
+        },
+        {
+          "t": "p",
+          "x": "Como no hay función de texto a video, toda edición parte de video grabado con Caira. El video generado se guarda como un archivo separado del original y lleva la marca de agua SynthID de Google, que revela que es contenido generado por IA."
+        },
+        {
+          "t": "p",
+          "x": "Esta función de Generative Video Editing es parte de la app Caira Studio, que llega en el otoño de 2026. La app la incluirá junto con las funciones de edición de imagen ya existentes y una función más que aún no se ha revelado. La beta privada se abre hoy, y los clientes actuales de Caira pueden inscribirse para participar."
+        },
+        {
+          "t": "p",
+          "x": "Camera Intelligence parece querer tranquilizar a los cineastas: aunque está acercando la IA generativa al propio acto de grabar, no tiene intención de eliminar la grabación en sí. Esa condición mantiene a Caira anclada a la fotografía. Sea lo que sea que la IA añada después, el punto de partida sigue siendo una persona detrás de la cámara decidiendo qué grabar."
+        }
+      ]
+    },
+    "gadgets/gadgets-norway-smart-glasses-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2024/02/ray-ban-meta-wayfarer.jpg?resize=1200%2C720",
+          "cap": "Phil Nickinson / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Las gafas inteligentes comenzaron hace una década como una imagen torpe de la computación portátil que Google lanzó demasiado pronto, pero más recientemente se han convertido en un problema en los espacios públicos. Noruega quiere poner freno a esto. Según AFP, la ministra de Digitalización del país, Karianne Tung, dijo que el gobierno está considerando una regulación más estricta de las gafas inteligentes de empresas como Meta y Snap."
+        },
+        {
+          "t": "p",
+          "x": "Tung señaló una tendencia clara: la IA, las cámaras y los micrófonos se están integrando en objetos cotidianos como gafas y auriculares. El objetivo es impedir que ese equipo se use para filmar a personas en público sin su consentimiento. Las normas en estudio podrían incluso prohibir las funciones de reconocimiento facial que identifican a personas en espacios públicos. Se dice que algunos fabricantes de dispositivos portátiles están incorporando esa función en sus próximos dispositivos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2025/05/ray-ban-meta-and-case.jpg?resize=3000%2C2250",
+          "cap": "Andy Boxall / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Las organizaciones civiles han planteado preocupaciones similares. A diferencia de los teléfonos inteligentes, los dispositivos portátiles con cámara difuminan los límites del consentimiento, porque la señal de que se está grabando no es fácil de notar. No es una preocupación nueva. Google alguna vez les dijo a los Glass Explorers que no se convirtieran en 'Glasshole', un término que la propia empresa acuñó para describir a quienes filman a otros sin pedir permiso. La reciente popularidad de las gafas inteligentes Ray-Ban de Meta simplemente llevó el problema a la corriente principal."
+        },
+        {
+          "t": "p",
+          "x": "Tung dijo que formará un panel de expertos para asesorar sobre protecciones de privacidad más estrictas. Todavía no se ha anunciado un cronograma legislativo formal."
+        },
+        {
+          "t": "p",
+          "x": "La ofensiva de Noruega no surge en el vacío. Ya se están extendiendo prohibiciones locales que buscan llenar los vacíos que dejan los fabricantes. Meta incorporó una salvaguarda de software que detiene la grabación si se cubre la pequeña luz LED indicadora, pero los usuarios la evaden con trucos simples como cinta aislante o modificaciones físicas."
+        },
+        {
+          "t": "p",
+          "x": "Por eso los espacios privados se adelantaron. Varios clubes nocturnos, recintos de espectáculos y cadenas de gimnasios en Europa y Estados Unidos ya prohíben los dispositivos portátiles con cámara. Las escuelas también han dado la alarma tras informes de estudiantes que filmaron en secreto a amigos y profesores con gafas inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo del problema está más allá del hardware. Es producto de que la industria se inclina rápidamente hacia la grabación con IA siempre activa. El análisis visual multimodal que hoy promocionan los dispositivos portátiles solo funciona procesando continuamente datos en tiempo real del entorno. Si a eso se le suma el reconocimiento facial, estos dispositivos se convierten en herramientas de vigilancia constante de los espacios públicos."
+        },
+        {
+          "t": "p",
+          "x": "Por eso celebro el enfoque de Noruega. Dejamos las plataformas de redes sociales sin regular durante años antes de intentar siquiera supervisarlas, y todavía estamos lidiando con las consecuencias. Las empresas tecnológicas han tratado el anonimato público como un daño colateral aceptable en su carrera por nuevo hardware y funciones. Si las empresas no van a construir salvaguardas adecuadas por sí mismas, los reguladores deben trazar la línea en su lugar."
+        }
+      ]
     }
   }
 }

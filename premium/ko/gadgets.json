@@ -9626,6 +9626,182 @@
           "x": "Apple 사용자용으로는 화면을 두 손가락으로 비틀어 시스템 볼륨을 조절하는 가상 볼륨 노브가 붙는다. iPad 앱은 큰 화면에 맞춰 새로 만들었고, 단축어 앱과도 연동돼 Siri로 자동화를 부를 수 있다. Sonos 27은 지금 S2 플랫폼에서 도는 하드웨어 전부에 배포된다. 새 앱 내비게이션과 얼리 액세스 MCP 기능, 휴대용 서라운드 기능은 모두 9월 8일에 열린다."
         }
       ]
+    },
+    "gadgets/gadgets-acer-aspire-g3d-local-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Acer가 베를린 IFA 2026에서 Aspire G 3D 16 노트북을 공개했다. 게이머와 3D 아티스트, 건축가, 영상 편집자에게 안경 없이 보는 입체 이미지와 영상을 내민다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Acer-debuts-Aspire-G-3D-16-gaming-laptop-3D-display-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.jpg",
+          "cap": "Acer Aspire G 3D 16은 3,840 x 2,400 120Hz IPS 화면에서 게임과 영화, 사진을 진짜 입체로 띄운다."
+        },
+        {
+          "t": "p",
+          "x": "16코어 32스레드 AMD Ryzen AI Max+ 395에 최대 128GB LPDDR5x-8000 메모리와 최대 2TB M.2 PCIe Gen 4 SSD가 붙는다. 3,840 x 2,400 120Hz IPS 화면은 밝기 450니트에 DCI-P3 색공간을 100% 덮고, 내장 AMD Radeon 8060S GPU가 이를 돌린다."
+        },
+        {
+          "t": "p",
+          "x": "게임을 비롯한 호환 앱에서 3D 이미지와 영상을 띄울 때는 해상도가 1,920 x 2,400으로 바뀐다. 미리 깔린 SpatialLabs 3D Hub가 그 전환을 맡는다."
+        },
+        {
+          "t": "p",
+          "x": "Windows 11 Home을 쓰는 이 노트북은 OpenAI의 gpt-oss-120b나 OpenClaw 같은 큰 로컬 AI 모델도 돌린다. 최대 램 용량이 크고 프로세서가 최대 126 TOPS의 AI 연산을 내는 덕이다. NPU만으로는 50 TOPS다."
+        },
+        {
+          "t": "p",
+          "x": "5MP IR 시선 추적 웹캠과 2와트 스피커 두 개가 들어간다. 포트는 USB4 Type-C 두 개, USB 3.2 Gen 2 Type-A 하나, USB 3.2 Gen 1 Type-A 두 개, HDMI 2.1 하나에 SD-4.0 카드 리더와 오디오 잭, RJ-45 잭이다. 무선은 Wi-Fi 7과 Bluetooth 5.4를 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "355 × 264.9 × 19.3mm 본체 안에 99.9Wh 배터리가 들어가고, 무게는 1.8kg이다."
+        },
+        {
+          "t": "p",
+          "x": "Aspire G 3D 16(AG3D16-81M)의 가격과 출시일은 나중에 공개된다."
+        }
+      ]
+    },
+    "gadgets/gadgets-adreno-neural-fusion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Adreno-Neural-Fusion-Snapdragon-1.jpg?quality=82&strip=all&w=1400"
+        },
+        {
+          "t": "p",
+          "x": "Qualcomm이 차기 플래그십 Snapdragon 칩에 들어갈 Oryon CPU를 먼저 풀어놓은 데 이어, 차세대 Adreno Neural Fusion GPU를 내놨다."
+        },
+        {
+          "t": "p",
+          "x": "이 SoC는 그래픽 파이프라인 안에 전용 AI GPU 코어를 넣은 첫 칩셋이다. 'Matrix Cores'라 부르는 블록이 새 Adreno GPU의 1.45GHz 슬라이스 세 개에 각각 자리를 잡는다. Qualcomm은 이 코어가 \"그래픽 파이프라인 안에서 고급 AI 모델을 직접 돌리는\" 전용 로컬 하드웨어라고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "Adreno GPU에는 18MB HPM(High Performance Memory) 캐시도 붙는다. 용량만 보면 소박하지만, Qualcomm은 이 메모리가 \"크고 지연이 낮은 메모리를 GPU에 바로 붙여 타일 기반 렌더링과 프레임 버퍼, 컴퓨트 작업을 그래픽 서브시스템 안에 머물게 한다\"고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "두 부품이 합쳐져 Adreno Neural Fusion GPU를 이룬다. 쓰는 사람 입장에서는 이 기술을 켰을 때 전력이 40% 개선된다. AI 연산을 GPU 가까이 두면 지연이 줄고 효율이 오른다는 게 보도자료의 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "요령은 작업을 실리콘 가까이 붙들어 두는 데 있다. Adreno Matrix Cores는 그래픽이 벌어지는 자리에서 AI 모델을 처리하고, 18MB Adreno High Performance Memory는 타일과 프레임 버퍼, 컴퓨트 같은 무거운 데이터를 칩 위에 잡아둔다. 시스템 메모리를 오가는 왕복이 줄면 지연이 낮아지고 효율이 좋아진다. 게임 세션도 그만큼 길어진다."
+        },
+        {
+          "t": "p",
+          "x": "당장은 Unity와 Unreal Engine이 Qualcomm의 Neural Fusion 스택을 이미 붙였다."
+        },
+        {
+          "t": "p",
+          "x": "결과는 그래픽 품질에서 드러난다. Qualcomm의 표현으로는 \"Snapdragon 그래픽 파이프라인에 직접 심은 AI 렌더링으로 업스케일된 이미지와 안정적인 프레임, 개선된 효율\"이다."
+        },
+        {
+          "t": "p",
+          "x": "Snapdragon Summit은 9월 22일부터 24일까지 열린다. 새 칩의 NPU 이야기는 그 자리에서 더 나온다."
+        }
+      ]
+    },
+    "gadgets/gadgets-caira-ai-video-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/b7SdxEFEuvGYUaQiyDfGBa.jpg",
+          "cap": "사진 제공: Camera Intelligence"
+        },
+        {
+          "t": "p",
+          "x": "AI 카메라 스타트업 Camera Intelligence가 마이크로 포서드 미러리스 카메라 Caira에 Generative Video Editing을 더한다고 발표했다. 미러리스 카메라 시스템에 영상 생성 모델을 넣은 건 자사가 처음이라는 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "이 기능은 Caira 앱에서 돌아가고 대상은 Caira로 찍은 영상뿐이다. AI 영상을 새로 만들어내지는 못한다. 기존 고객 대상 비공개 베타가 먼저 열리고, 2026년 가을 유료 Caira Studio 소프트웨어 패키지에 들어간다. 가격은 아직 나오지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "\"작년에 우리는 생성 AI로 사진을 편집한 첫 미러리스 카메라였고, 그 뒤 이어진 대화에서 많이 배웠다\"고 Camera Intelligence의 CEO 겸 공동창업자 Vishal Kumar가 말했다. \"올해 Caira를 출하한 뒤, 설문에 응한 후원자 대다수가 영상 생성 편집이 유용하겠다고 답했다. 이 생각을 실제로 만들라는 분명한 신호였다.\""
+        },
+        {
+          "t": "p",
+          "x": "바탕은 Google의 Gemini Omni 1.1 Flash와 Runway의 Aleph 2.0이다. 영상 생성 모델을 미러리스 카메라 시스템에 직접 심은 회사는 Camera Intelligence가 처음이다. Caira 앱에서 이미 찍어둔 영상에 템플릿을 얹고 자연어로 지시해 화면 효과와 카메라 움직임을 그 자리에서 입힌다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ZKtx7XJHQMeibHmrgmauxc.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Caira는 지난해 리뷰했다. 제대로 된 마이크로 포서드 하드웨어에 스마트폰의 간편함을 붙인, 이상하지만 인상적인 물건이었다. MagSafe로 iPhone에 붙는다."
+        },
+        {
+          "t": "p",
+          "x": "안에는 마이크로 포서드 센서가 들어가고 Qualcomm과 Google 실리콘이 돌린다. 진짜 장기는 Google의 'Nano Banana'다. 월 7달러 유료 벽 뒤에 놓인 온디바이스 편집기로, 똑똑한 음성 제어까지 열어준다. 편집이 빠르고 결과도 좋아서 노트북을 켤 일이 없다."
+        },
+        {
+          "t": "p",
+          "x": "영상 편집은 큐레이션된 템플릿 라이브러리로 돌아간다. 색 보정을 하거나 드론 같은 스윕과 복잡한 카메라 경로를 흉내 낸다. 출시 시점 템플릿은 Relight, Reframe, Camera Motion, Set Extension 네 가지다. 대화형 편집으로 더 다듬는다. 출력은 720p와 1080p, 해상도에 따라 생성에 1~3분이 걸린다."
+        },
+        {
+          "t": "p",
+          "x": "텍스트로 영상을 만드는 기능이 없으니 모든 편집은 Caira로 찍은 영상에서 시작한다. 생성된 영상은 원본과 별개 파일로 저장되고 Google의 SynthID 워터마크가 박혀 AI 생성물임이 드러난다."
+        },
+        {
+          "t": "p",
+          "x": "이 Generative Video Editing은 2026년 가을 나올 Caira Studio 앱의 일부다. 앱에는 기존 이미지 편집 기능과 아직 공개되지 않은 기능 하나가 함께 들어간다. 비공개 베타는 오늘 열리고, 기존 Caira 고객은 참여 의사를 등록하면 된다."
+        },
+        {
+          "t": "p",
+          "x": "Camera Intelligence는 생성 AI를 촬영 행위 바로 옆까지 붙이면서도 촬영 자체를 없앨 생각은 없다고 영화 만드는 이들을 안심시키려는 듯하다. 그 조건이 Caira를 사진 쪽에 묶어둔다. AI가 뒤에 무엇을 얹든, 시작은 카메라 뒤에서 무엇을 찍을지 고르는 사람이다."
+        }
+      ]
+    },
+    "gadgets/gadgets-norway-smart-glasses-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2024/02/ray-ban-meta-wayfarer.jpg?resize=1200%2C720",
+          "cap": "Phil Nickinson / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "스마트 글라스는 10년 전 Google이 성급하게 내민 웨어러블 컴퓨팅의 어색한 그림에서 출발했지만, 근래에는 공공장소의 골칫거리로 굴러떨어졌다. 노르웨이가 여기에 고삐를 죄려 한다. AFP 보도에 따르면 이 나라 디지털부 장관 Karianne Tung은 Meta와 Snap 같은 회사의 스마트 글라스를 더 강하게 규제하는 방안을 정부가 저울질하고 있다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Tung은 AI와 카메라, 마이크가 안경과 헤드폰을 비롯한 일상 물건에 함께 얹히는 흐름이 뚜렷하다고 짚었다. 목표는 그 장비로 공공장소에서 동의 없이 사람을 찍는 일을 막는 것이다. 검토 중인 규칙에는 공공장소에서 사람을 식별하는 얼굴 인식 기능을 금지하는 내용까지 들어갈 수 있다. 일부 웨어러블 제조사가 다음 기기에 그 기능을 넣고 있다는 이야기가 나온다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2025/05/ray-ban-meta-and-case.jpg?resize=3000%2C2250",
+          "cap": "Andy Boxall / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "시민단체도 비슷한 우려를 냈다. 카메라 달린 웨어러블은 스마트폰과 달리 동의의 경계를 흐린다. 녹화 중이라는 신호가 눈에 잘 띄지 않아서다. 새로운 걱정은 아니다. Google도 한때 Glass Explorers에게 'Glasshole'이 되지 말라고 했다. 묻지 않고 남을 찍는 착용자를 가리키려 스스로 만든 말이었다. Meta의 Ray-Ban 스마트 글라스가 최근 인기를 끌면서 문제가 주류로 올라왔을 뿐이다."
+        },
+        {
+          "t": "p",
+          "x": "Tung은 더 강한 프라이버시 보호를 조언할 전문가 모임을 꾸리겠다고 했다. 정식 입법 일정은 아직 나오지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "노르웨이의 단속 움직임은 진공에서 나온 게 아니다. 제조사가 남긴 구멍을 메우려는 국지적 금지가 이미 번지고 있다. Meta는 작은 LED 표시등을 가리면 녹화를 멈추게 하는 소프트웨어 안전장치를 넣었지만, 사용자들은 절연 테이프나 물리적 개조 같은 간단한 수로 이를 우회한다."
+        },
+        {
+          "t": "p",
+          "x": "그래서 민간 시설이 먼저 나섰다. 유럽과 미국의 여러 나이트클럽과 공연장, 피트니스 체인이 카메라 달린 웨어러블 반입을 금지한다. 학생이 스마트 글라스로 친구와 교사를 몰래 찍었다는 보도가 나온 뒤 학교도 경보를 울렸다."
+        },
+        {
+          "t": "p",
+          "x": "문제의 핵심은 하드웨어 너머에 있다. 업계가 상시 AI 녹화 쪽으로 빠르게 기울면서 생긴 일이다. 요즘 웨어러블이 내세우는 멀티모달 시각 분석은 주변의 실시간 데이터를 끊임없이 처리해야 돌아간다. 여기에 얼굴 인식이 붙으면 이 기기들은 공공장소를 계속 감시하는 도구가 된다."
+        },
+        {
+          "t": "p",
+          "x": "그래서 나는 노르웨이의 방식을 반긴다. 우리는 소셜미디어 플랫폼을 몇 년이나 방치한 뒤에야 규제를 시도했고, 그 뒷감당을 아직도 하고 있다. 기술 기업들은 새 하드웨어와 기능 경쟁에서 공공의 익명성을 부수적 피해쯤으로 다뤄왔다. 회사들이 제대로 된 안전장치를 만들지 않겠다면, 규제 당국이 대신 선을 그어야 한다."
+        }
+      ]
     }
   }
 }

@@ -14156,9 +14156,9 @@
   "date": "2026-09-03",
   "section": "movies",
   "has_full": true,
-  "headline": "Autodesk Flow Studio에 3D Editor와\nCanvas가 한 화면에서 열렸다",
-  "body": "생성과 장면 조립, 렌더링을 한 작업 공간에서 숏 단위로 다듬는다.",
-  "lang": "ko",
+  "headline": "Autodesk Flow Studio Opens\n3D Editor and Canvas Together",
+  "body": "It refines generation, scene assembly, and rendering shot by shot inside a single workspace.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14172,10 +14172,9 @@
   "date": "2026-09-03",
   "section": "movies",
   "has_full": true,
-  "headline": "Eddie AI가 편집 거장을 학습한\n에이전트 29종의 마켓플레이스를 열었다",
-  "body": "Walter Murch의 작업을 학습한 에이전트가 기존 컷은 건드리지 않는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Eddie AI学习\n剪辑大师开市场",
+  "body": "学习了Walter Murch手法的智能体不会改动现有剪辑。",
+  "lang": "zh"
  },
  {
   "id": "movies-caira-gen-video-edit",
@@ -14188,10 +14187,9 @@
   "date": "2026-09-03",
   "section": "movies",
   "has_full": true,
-  "headline": "Caira 카메라가 Gemini와 Runway Aleph로\n찍은 영상을 그 자리에서 고친다",
-  "body": "이미 촬영한 푸티지만 손대고 텍스트로 장면을 새로 만들지는 못한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Caira相机联手\nGemini即时修片",
+  "body": "它只能修改已经拍摄完成的素材，并不能用文字重新创造出新的画面。",
+  "lang": "zh"
  },
  {
   "id": "movies-boyle-venice-ai",
@@ -14518,10 +14516,9 @@
   "date": "2026-09-02",
   "section": "science",
   "has_full": true,
-  "headline": "단백질 속 이온 결합 자리를\n몇 초 만에 짚어내는 모델",
-  "body": "BiteNetI는 3차원 단백질 구조에서 14종 이온의 결합 자리를 몇 초 만에 찾아낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "秒级定位蛋白\n离子结合位点",
+  "body": "BiteNetI能在几秒内找出3D蛋白结构中14种离子的结合位点。",
+  "lang": "zh"
  },
  {
   "id": "science-alpha-centauri-ai-trajectory",
@@ -14534,9 +14531,9 @@
   "date": "2026-09-02",
   "section": "science",
   "has_full": true,
-  "headline": "알파 센타우리로 가는 항로를\nAI가 일주일 만에 찾아냈다",
-  "body": "페르미 익스플로러 미션이 2029년 말 띄울 탐사선의 항로를 AI가 새로 찾아냈다.",
-  "lang": "ko",
+  "headline": "AI found the route to\nAlpha Centauri in a week",
+  "body": "The Fermi Explorer Mission says AI found a new route for the probe it plans to launch in late 2029.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14550,9 +14547,9 @@
   "date": "2026-09-02",
   "section": "music",
   "has_full": true,
-  "headline": "데논 프라임 4 G2, 부스에서\n랩톱 없이 실시간으로 스템을 가른다",
-  "body": "프라임 4 G2가 랩톱 없이 본체에서 아카펠라와 반주를 실시간으로 뽑아낸다.",
-  "lang": "ko",
+  "headline": "Denon Prime 4 G2 splits stems\nlive, no laptop needed at booth",
+  "body": "The Prime 4 G2 pulls acapellas and instrumentals from the deck itself, live, without a laptop.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14566,10 +14563,9 @@
   "date": "2026-09-02",
   "section": "music",
   "has_full": true,
-  "headline": "다음 팬은 당신을 검색하지 않는다\n그냥 기계에게 상황을 말할 뿐이다",
-  "body": "발견 경로가 선언된 의도로 옮겨가면서 태그 대신 맥락이 아티스트를 읽히게 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "下一个粉丝不\n搜你只对AI说",
+  "body": "随着发现路径转向声明式意图,靠语境而非标签让人认出艺人。",
+  "lang": "zh"
  },
  {
   "id": "music-artist-operating-system",
@@ -14582,10 +14578,9 @@
   "date": "2026-09-02",
   "section": "music",
   "has_full": true,
-  "headline": "독립 아티스트에게 지금 필요한 건\n툴 하나가 아니라 운영체제다",
-  "body": "대시보드를 하나 더 얹는 대신 릴리스와 데이터를 잇는 층이 필요하다고 말한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "独立音乐人缺的\n不是工具是OS",
+  "body": "报道称,与其再加一个仪表盘,不如打通发行和数据的那一层。",
+  "lang": "zh"
  },
  {
   "id": "music-ai-watermarks",
@@ -14750,9 +14745,9 @@
   "date": "2026-09-02",
   "section": "games",
   "has_full": true,
-  "headline": "AI가 거든 PS1 Quake보다\n손으로 짠 옛 포팅이 나았다",
-  "body": "AI가 거든 PS1 Quake 포팅보다 AI를 안 쓴 옛 QuakePSX가 나았다.",
-  "lang": "ko",
+  "headline": "The old hand-coded port beat\nthe AI-assisted PS1 Quake",
+  "body": "The old QuakePSX port, made without AI, was better than the AI-assisted PS1 Quake port.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -14766,10 +14761,9 @@
   "date": "2026-09-02",
   "section": "gadgets",
   "has_full": true,
-  "headline": "앱을 새로 짜고 에이전트에게\n시스템을 여는 Sonos 27",
-  "body": "Sonos가 공개 MCP 서버를 열어 외부 AI 에이전트에 스피커 제어를 넘겼다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Sonos 27重写App\n开放系统给AI",
+  "body": "Sonos开放公共MCP服务器,把音箱控制权交给外部AI智能体。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-paint-ai-watermark",
@@ -14798,10 +14792,9 @@
   "date": "2026-09-02",
   "section": "gadgets",
   "has_full": true,
-  "headline": "겹쳐 말해도 화자를 갈라내는\nMeta 실시간 전사 모델",
-  "body": "Meta가 겹친 말도 화자별로 갈라내는 첫 실시간 음성 모델을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "重叠也能分人\nMeta实时转写",
+  "body": "Meta推出了首个能按说话人分离重叠语音的实时转写模型。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-google-pics-ga",
@@ -14814,10 +14807,9 @@
   "date": "2026-09-02",
   "section": "gadgets",
   "has_full": true,
-  "headline": "Canva를 겨눈 Google Pics\n테스터 한정 풀고 전면 공개",
-  "body": "Google이 테스터 한정이던 디자인 앱 Google Pics를 전면 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "直指Canva的\nGoogle Pics全开放",
+  "body": "Google将原本限测试者使用的设计应用Google Pics全面开放。",
+  "lang": "zh"
  },
  {
   "id": "gadgets-atlas-brain-wearable",
@@ -14981,10 +14973,9 @@
   "date": "2026-09-02",
   "section": "books",
   "has_full": true,
-  "headline": "변호사 수임료를 둘러싼 항소로\n앤스로픽 합의금 지급이 밀린다",
-  "body": "변호인단의 수임료 항소로 앤스로픽 15억 달러 합의금 지급이 더 밀리게 됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "律师费上诉致\nAnthropic赔款延迟",
+  "body": "律师团就律师费提出上诉,令Anthropic15亿美元赔款支付进一步延迟。",
+  "lang": "zh"
  },
  {
   "id": "science-timesfm-3",
@@ -14997,9 +14988,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "다변량 시계열을 학습 없이\n예측하는 TimesFM-3",
-  "body": "과제별 학습 없이 다변량 시계열을 예측하는 제로샷 모델로, 기후와 건강 모니터링까지 겨냥한다.",
-  "lang": "ko",
+  "headline": "TimesFM-3 Forecasts\nMultivariate Series, No Training",
+  "body": "It's a zero-shot model for multivariate time series, aimed even at climate and health monitoring.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15013,10 +15004,9 @@
   "date": "2026-09-01",
   "section": "science",
   "has_full": true,
-  "headline": "72 Ebola Genomes Help Tune\nTransmission Models in Real Time",
-  "body": "INRAE researchers used neural posterior estimation to sharply speed up phylodynamic model calibration.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "72份埃博拉基因组\n实时校准传播模型",
+  "body": "INRAE团队用神经后验估计大幅提升了系统动力学模型的校准速度。",
+  "lang": "zh"
  },
  {
   "id": "science-ionq-macbook-decoder",
@@ -15440,10 +15430,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "AI 낭독과 사람 낭독을\n청취자 1,000명은 구분할까",
-  "body": "청취자 1,000명이 AI 낭독을 가려내는지, 알고 나면 지불 의향이 달라지는지 묻는 조사다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI与真人朗读\n1000人能分辨吗",
+  "body": "该调查询问1000名听众能否分辨AI朗读，知情后付费意愿是否改变。",
+  "lang": "zh"
  },
  {
   "id": "books-loc-ai-sandbox",
@@ -15456,9 +15445,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "공개 서비스에 닿기 전에\n미국 의회도서관의 AI 샌드박스",
-  "body": "공개 서비스에 손대기 전, 직원이 컬렉션 업무로 생성형 도구를 시험할 내부 샌드박스를 열었다.",
-  "lang": "ko",
+  "headline": "Before it reaches the public\nLibrary of Congress AI sandbox",
+  "body": "Before touching public services, it opened an internal sandbox for staff to test generative tools on collections work.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15472,10 +15461,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "사람이 쓴 몫을 먼저 센다\ngetAbstract 26회 롱리스트",
-  "body": "롱리스트는 사람의 저술을 앞세우고, 수상작은 10월 8일 프랑크푸르트 도서전에서 발표한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "先看人写的部分\ngetAbstract26届",
+  "body": "入围名单优先呈现人类著作，获奖结果将于10月8日在法兰克福书展公布。",
+  "lang": "zh"
  },
  {
   "id": "books-elsevier-nora-ebook-assistant",
@@ -15488,10 +15476,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "전자책을 나가지 않고 묻는다\nElsevier의 의료 교재 AI",
-  "body": "전자책을 벗어나지 않고 묻고, Nora는 출판사가 라이선스한 콘텐츠 안에서만 답한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "不离开电子书\nElsevier医疗AI",
+  "body": "无需离开电子书即可提问，Nora只在出版社授权内容范围内作答。",
+  "lang": "zh"
  },
  {
   "id": "books-calibre-ai-covers",
@@ -15504,9 +15491,9 @@
   "date": "2026-09-01",
   "section": "books",
   "has_full": true,
-  "headline": "Calibre 9.14, 프롬프트로\n책 표지를 만들어 낸다",
-  "body": "9.14 버전은 프롬프트로 표지 이미지를 뽑아 서재 안에서 곧바로 갈아 끼운다.",
-  "lang": "ko",
+  "headline": "Calibre 9.14 generates covers\nfrom a text prompt",
+  "body": "Version 9.14 generates a cover image from a prompt and swaps it in right inside your library.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15520,9 +15507,9 @@
   "date": "2026-08-31",
   "section": "science",
   "has_full": true,
-  "headline": "6,561번 돌릴 계산을 17번으로\n고체산화물 전해셀 운전 최적화",
-  "body": "서울과학기술대학교 연구진이 시뮬레이션 17회로 전기화학 성능을 14% 높였다.",
-  "lang": "ko",
+  "headline": "From 6,561 runs down to just 17\noptimizing SOEC operation",
+  "body": "The research team used just 17 simulations to raise electrochemical performance by 14%.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15536,9 +15523,9 @@
   "date": "2026-08-31",
   "section": "science",
   "has_full": true,
-  "headline": "실제 환자 918명 임상 데이터에서\n양자 머신러닝 정확도 90.26%",
-  "body": "양자 서포트 벡터 머신이 환자 918명 데이터에서 90.26% 정확도를 기록했다.",
-  "lang": "ko",
+  "headline": "In clinical data, 918 patients\nquantum ML hits 90.26% accuracy",
+  "body": "A quantum support vector machine achieved 90.26% accuracy on data from 918 patients.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15552,10 +15539,9 @@
   "date": "2026-08-31",
   "section": "science",
   "has_full": true,
-  "headline": "Malva searches millions of cells\nin seconds, no reference genome",
-  "body": "Malva, built by the Max Delbrück Center, searches single-cell data using only sequence information.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "无需参考基因组\nMalva秒级搜索百万细胞",
+  "body": "马克斯·德尔布吕克中心打造的Malva，仅凭序列信息即可检索单细胞数据。",
+  "lang": "zh"
  },
  {
   "id": "science-extended-mean-field",
@@ -15691,9 +15677,9 @@
   "date": "2026-08-31",
   "section": "movies",
   "has_full": true,
-  "headline": "필 티펫, 40년 작업실을 접고\n소품과 장비를 경매에 내놓는다",
-  "body": "오스카 두 개만 남기고 35년 쓴 버클리 작업실의 소품과 장비를 사흘간 판다.",
-  "lang": "ko",
+  "headline": "Phil Tippett closes shop after\n40 years, auctions props",
+  "body": "Keeping only his two Oscars, he's selling the props and gear from his 35-year Berkeley studio over three days.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -15707,10 +15693,9 @@
   "date": "2026-08-31",
   "section": "movies",
   "has_full": true,
-  "headline": "“AI work feels like an STI”\nTilly Norwood creator's plea",
-  "body": "Van der Velden, citing hundreds of NDAs, urged public broadcasters to invest in AI openly.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "「用AI像得性病」\nTilly制作人呼吁投资",
+  "body": "范德维尔登以数百份NDA为据，呼吁公共广播公开加大AI投资。",
+  "lang": "zh"
  },
  {
   "id": "movies-flying-bark-avatar-aang",

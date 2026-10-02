@@ -4006,6 +4006,156 @@
           "x": "バスケットボール選手のCarmelo Anthony氏は、自身の制作会社Creative 7 Productionsを通じて投資し、戦略パートナーとなった。James Harden氏は自分のひげをきっかけにしたアニメーション短編を一緒に作った。AIが担う役割はプロジェクトごとに異なる。『Half Moon』では一部のビジュアルを、『Cortes』では規模を、『西遊記』では制作方式全体を担っている。"
         }
       ]
+    },
+    "movies/movies-caira-gen-video-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/Caira%20Camera.jpg",
+          "cap": "Cairaカメラが生成AIによる映像編集を搭載した"
+        },
+        {
+          "t": "p",
+          "x": "Camera IntelligenceがCairaアプリにGenerative Video Editingを追加した。GoogleのGemini OmniとRunwayのAleph 2.0が動く機能で、文章から映像を作るのではなく、すでに撮影した映像だけを編集する。プライベートベータは本日開始する。"
+        },
+        {
+          "t": "p",
+          "x": "AIネイティブなマイクロフォーサーズミラーレスCairaの出発はやや波乱気味だった。その後Camera Intelligenceはキックスターターの出荷をほぼ完了させ、支援者111人に次に何を作ってほしいか尋ねた。77%が生成AIによる映像編集を選んだ。"
+        },
+        {
+          "t": "p",
+          "x": "同社は、GoogleのGemini Omni 1.1 FlashとRunwayのAleph 2.0を組み込み、実際のシーンを理解する映像生成モデルをミラーレスカメラシステムに直接搭載した初の例だとしている。"
+        },
+        {
+          "t": "p",
+          "x": "この機能はCairaで撮影した映像に対し、Cairaアプリ内で動作する。自然言語のテンプレートで画面やカメラの動きに効果を加える。Gemini Omniはシーンの形状や光、質感、動きを継続して記憶する傾向があるため、この用途に適した選択だ。常に完璧とは限らないが、人物や物体、カメラの動きがクリップ全体でぶれないまま、シーンを再照明したり広げたりすることが目標だ。"
+        },
+        {
+          "t": "p",
+          "x": "発売時のテンプレートはRelight、Reframe、Camera Motion、Set Extensionの4種類だ。カラーグレーディングから、ドローンが流すような仮想カメラの動きまで幅広い。テンプレートはCamera Intelligenceがコミュニティの意見を取り入れて作り、平易な英語の指示でさらに調整できる。出力は720pまたは1080pで、解像度によって1〜3分かかる。"
+        },
+        {
+          "t": "p",
+          "x": "同社は2026年3月、自由形式の生成AI写真編集プロンプト欄を廃止した。「曖昧、または滑稽な」テストプロンプトが反発を招き、整理されたボタン方式に切り替えた経緯がある。今回のテンプレート方式がその時とどう違うかが注目点だ。"
+        },
+        {
+          "t": "p",
+          "x": "目立つ、そしておそらく歓迎される点が一つある。テキストからビデオを生成する機能はない。すべての編集はユーザーがCairaで撮影した映像から始まり、何もない状態からシーンを作り出すことはできない。生成したクリップは名前が明確な別ファイルとして保存され、GoogleのSynthIDウォーターマークが付き、元の映像には触れない。Caira本体のカメラ内画像処理も生成型のままではなく、この機能はオプションだ。"
+        },
+        {
+          "t": "p",
+          "x": "安全対策について同社は、顧客の映像と写真をCamera IntelligenceもGoogle APIもモデルの学習には使わないとしている。人の肌の色や人種、顔の基本的な特徴を変えることも防ぐ。"
+        },
+        {
+          "t": "p",
+          "x": "Generative Video Editingは、2026年秋に登場するプレミアムソフトウェア階層Caira Studioに含まれる。Generative Image Editingと、まだ公開されていない3つ目の機能がセットになり、価格は未定だ。利用できるのは米国と英国のみ。プライベートベータは本日、既存のCaira顧客と現役映画人5人を対象に始まり、cameraintelligence.com/generative-video-editingまたはteam@cameraintelligence.comから申し込む。"
+        },
+        {
+          "t": "p",
+          "x": "一方、5回目のロットは999ドルで予約受付中で、今月中に発送される。"
+        }
+      ]
+    },
+    "movies/movies-eddie-agent-marketplace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/eddie-ai-agent-marketplace.png?id=67720010&width=1245&height=700&quality=50&coordinates=7%2C0%2C7%2C0",
+          "cap": "Eddie AI Agent Marketplace・Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "アシスタント編集ツールとして何度も取り上げてきたEddie AIが、Agent Marketplaceを発表した。名の知れた編集者や監督、クリエイターのルールを名前付きで写した編集エージェントがここに並ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーがブランドブックや法務チェックリストのような自分のルールを守るエージェントを自作することもできる。ただ多くの人にとって大きな話題は、編集や映画業界の最大級の名前たちと、あくまでそうした形で、一緒に仕事ができるという点だろう。"
+        },
+        {
+          "t": "p",
+          "x": "この件にはコメントが待たれる。興味がある人向けに知っておくべき点はこうだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=67720013&width=980",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "先に書いた通り、核心はAgent Marketplaceだ。機能が充実したAIアシスタント編集プラットフォームEddie AIが、映画業界の巨匠たちを模したエージェントをここに集める。"
+        },
+        {
+          "t": "p",
+          "x": "一点、押さえておきたいことがある。これらのエージェントが学んだのはその映画人たちの作業全体であって本人そのものではなく、会社とも何の関係もない。その前提を踏まえてこれら巨匠の作業を模したエージェントと仕事をしてみたいなら、名簿にはWalter Murch、Thelma Schoonmaker、Roger Deakins、Denis Villeneuve、Ken Burns、Errol Morrisをはじめ20人を超える名前が並ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントがカットを作るときは、新しい編集版を別に生成する。作業中の編集版を上書きはしない。批評家や第二の目のような役割で、作業に意見を出すこともある。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=67720014&width=980",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "今回のアップデートのもう一つの側面は、ユーザーが自分でエージェントを作る機能だ。Christopher Nolanではなく、自分のチームと作業で決めたルールやブランドガイドラインに従わせたいなら、ここが役立つ。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントはEddieのWebアプリの中で作る。名前とエモジ、何をするかの一行説明、そして性格を決める指示文を与える。続いてスキルを教えるが、スキルは「いつ使うか」の一行と、長さ制限のない本文からなる。ブランドガイドラインのような資料を上げる場所が、まさにこの本文だ。"
+        },
+        {
+          "t": "p",
+          "x": "目立つ例としてブランド準拠エージェントがある。編集版をブランドブックに照らして確認し、ずれたショットや字幕、キャプションをクライアントに渡る前にすべて表示する。法務準拠エージェントであれば、注意書きや主張の文言、音楽のクリアランス、画面テキストを顧問が示したルールに合わせて確認する。決して軽くない点検だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=67720016&width=980",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "エージェント編集とAI編集エージェントというこの世界は、一部の編集者には一度に受け止めるのが重いかもしれない。ただ、Premiereをはじめとする Adobeのエージェント連携で見られた通り、好むと好まざるとに関わらず、これが今後の姿だ。"
+        },
+        {
+          "t": "p",
+          "x": "Eddie AIのAgent Marketplaceは、初公開で29種のエージェントを並べる。プランと価格は会社のウェブサイトで併せて確認できる。"
+        },
+        {
+          "t": "p",
+          "x": "チームと直接話したいなら、Eddie AIと共同創業者兼CEOのShamir AllibhaiがアムステルダムのIBC 2026に出展する。Hall 7のブース7.A38とFuture Tech Hallのブース14.B51だ。"
+        }
+      ]
+    },
+    "movies/movies-flow-studio-3d-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/08/Autodesk_Flow-Studio-FINAL-For-Stills.00_00_31_20.Still010.jpg",
+          "cap": "3D Editor + Canvasの動き方"
+        },
+        {
+          "t": "p",
+          "x": "本日のbefores & aftersポッドキャストでは、Autodesk Flow Studioの最新情報を取り上げた。このメディアの読者やリスナーなら、Nikola TodorovicとAI映像制作について何度か交わした話を覚えているだろう。彼が共同創業したWonder Dynamicsは現在Autodesk傘下にある。"
+        },
+        {
+          "t": "p",
+          "x": "Nikolaとチームが作ったAI映像制作ツールの名称は、今はFlow Studioになった。今回の発表は3D Editor + Canvasのローンチだ。ユーザーはシーンの生成、組み立て、レンダリング、仕上げを一つの作業空間で完結させる。シーンをもっと直接的に動かせるようにする狙いで、Nikolaも対話の中でこの点を特に強調した。"
+        },
+        {
+          "t": "p",
+          "x": "ポッドキャストでは、VFXとCG分野における機械学習・AIのより広い潮流、そして注意すべき点についても語り合った。"
+        },
+        {
+          "t": "p",
+          "x": "以下に3D Editor + Canvasを見せるデモ映像と画像を掲載する。"
+        },
+        {
+          "t": "video",
+          "yt": "ca76F7Jo84k"
+        }
+      ]
     }
   }
 }

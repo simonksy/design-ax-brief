@@ -50947,7 +50947,29 @@
    "image": null,
    "date": "2026-09-02",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "독립 아티스트에게 지금 필요한 건\n툴 하나가 아니라 운영체제다",
+     "body": "대시보드를 하나 더 얹는 대신 릴리스와 데이터를 잇는 층이 필요하다고 말한다."
+    },
+    "en": {
+     "headline": "What independent artists need\nnow isn't a tool, it's an OS",
+     "body": "Instead of adding another dashboard, artists need a layer that connects releases and data."
+    },
+    "ja": {
+     "headline": "インディーに今\n必要なのはOS",
+     "body": "ダッシュボードを増やす代わりに、リリースとデータをつなぐ層が必要だという。"
+    },
+    "zh": {
+     "headline": "独立音乐人缺的\n不是工具是OS",
+     "body": "报道称,与其再加一个仪表盘,不如打通发行和数据的那一层。"
+    },
+    "es": {
+     "headline": "Lo que necesita el artista\nindie no es una app, es un SO",
+     "body": "En lugar de añadir otro panel, dicen que se necesita una capa que conecte lanzamientos y datos."
+    }
+   }
   },
   {
    "id": "music-declared-intent-search",
@@ -50961,7 +50983,29 @@
    "image": null,
    "date": "2026-09-02",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "다음 팬은 당신을 검색하지 않는다\n그냥 기계에게 상황을 말할 뿐이다",
+     "body": "발견 경로가 선언된 의도로 옮겨가면서 태그 대신 맥락이 아티스트를 읽히게 만든다."
+    },
+    "en": {
+     "headline": "Your next fan won't search\nfor you, just tell a machine",
+     "body": "As discovery shifts to declared intent, context instead of tags is what gets artists noticed."
+    },
+    "ja": {
+     "headline": "次のファンは\n検索せず話す",
+     "body": "発見が宣言された意図に移り、タグより文脈でアーティストが伝わる。"
+    },
+    "zh": {
+     "headline": "下一个粉丝不\n搜你只对AI说",
+     "body": "随着发现路径转向声明式意图,靠语境而非标签让人认出艺人。"
+    },
+    "es": {
+     "headline": "Tu próximo fan no te busca\nsolo le describe a una máquina",
+     "body": "Al pasar el descubrimiento a la intención declarada, el contexto, no las etiquetas, da a conocer al artista."
+    }
+   }
   },
   {
    "id": "music-denon-prime-4-g2",
@@ -50975,7 +51019,25 @@
    "image": null,
    "date": "2026-09-02",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "데논 프라임 4 G2, 부스에서\n랩톱 없이 실시간으로 스템을 가른다",
+     "body": "프라임 4 G2가 랩톱 없이 본체에서 아카펠라와 반주를 실시간으로 뽑아낸다."
+    },
+    "en": {
+     "headline": "Denon Prime 4 G2 splits stems\nlive, no laptop needed at booth",
+     "body": "The Prime 4 G2 pulls acapellas and instrumentals from the deck itself, live, without a laptop."
+    },
+    "ja": {
+     "headline": "Prime 4 G2が\nブース生でステム分離",
+     "body": "Prime 4 G2は本体だけでアカペラと伴奏をリアルタイムで作り出す。"
+    },
+    "es": {
+     "headline": "Denon Prime 4 G2 separa stems\nen vivo, sin laptop en cabina",
+     "body": "El Prime 4 G2 extrae acapelas e instrumentales en tiempo real desde el propio equipo, sin laptop."
+    }
+   }
   },
   {
    "id": "science-alpha-centauri-ai-trajectory",
@@ -50989,7 +51051,25 @@
    "image": "pipeline/media/science-alpha-centauri-ai-trajectory.jpg",
    "date": "2026-09-02",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "알파 센타우리로 가는 항로를\nAI가 일주일 만에 찾아냈다",
+     "body": "페르미 익스플로러 미션이 2029년 말 띄울 탐사선의 항로를 AI가 새로 찾아냈다."
+    },
+    "en": {
+     "headline": "AI found the route to\nAlpha Centauri in a week",
+     "body": "The Fermi Explorer Mission says AI found a new route for the probe it plans to launch in late 2029."
+    },
+    "ja": {
+     "headline": "アルファ・ケンタウリへ\nAIが1週間で発見",
+     "body": "2029年末打ち上げのFermi探査機の航路を、AIが新たに見つけた。"
+    },
+    "es": {
+     "headline": "La IA halló la ruta a\nAlpha Centauri en una semana",
+     "body": "La Fermi Explorer Mission dice que una IA halló la ruta de la sonda que lanzará a finales de 2029."
+    }
+   }
   },
   {
    "id": "science-bitenet-ion-sites",
@@ -51003,7 +51083,29 @@
    "image": "pipeline/media/science-bitenet-ion-sites.jpg",
    "date": "2026-09-02",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "단백질 속 이온 결합 자리를\n몇 초 만에 짚어내는 모델",
+     "body": "BiteNetI는 3차원 단백질 구조에서 14종 이온의 결합 자리를 몇 초 만에 찾아낸다."
+    },
+    "en": {
+     "headline": "A model that finds ion\nbinding sites in seconds",
+     "body": "BiteNetI locates binding sites for 14 kinds of ions in 3D protein structures within seconds."
+    },
+    "ja": {
+     "headline": "イオン結合部位を\n数秒で特定",
+     "body": "BiteNetIは3次元の構造から14種のイオン結合部位を数秒で見つける。"
+    },
+    "zh": {
+     "headline": "秒级定位蛋白\n离子结合位点",
+     "body": "BiteNetI能在几秒内找出3D蛋白结构中14种离子的结合位点。"
+    },
+    "es": {
+     "headline": "Un modelo localiza sitios\nde unión a iones en segundos",
+     "body": "BiteNetI localiza sitios de unión de 14 tipos de iones en estructuras proteicas 3D en segundos."
+    }
+   }
   },
   {
    "id": "science-ibm-15min-quantum",
@@ -51169,7 +51271,29 @@
    "image": "pipeline/media/books-ai-personalization-echo-chamber.jpg",
    "date": "2026-09-03",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "리서치 조수가 나를 너무 잘 알면\n내 전제를 그대로 되비춘다",
+     "body": "개인화가 쌓일수록 AI는 이용자의 전제를 되비추고, 리서치는 반향실이 된다."
+    },
+    "en": {
+     "headline": "When a research aide knows you\ntoo well, it echoes your bias",
+     "body": "As personalization accumulates, AI mirrors users' assumptions back, and research becomes an echo chamber."
+    },
+    "ja": {
+     "headline": "助手が知りすぎ\n前提をそのまま映す",
+     "body": "個人化が進むほどAIは利用者の前提を映し、調査は反響室になる。"
+    },
+    "zh": {
+     "headline": "研究助手太懂你\n只会映照你的前提",
+     "body": "个性化越积累，AI就越会映照用户的前提，研究便沦为回音室。"
+    },
+    "es": {
+     "headline": "Cuando el asistente te conoce\ndemasiado, refleja tus sesgos",
+     "body": "Con más personalización, la IA refleja las premisas del usuario y la investigación se vuelve un eco."
+    }
+   }
   },
   {
    "id": "design-agentic-ui-standard",
@@ -51183,7 +51307,25 @@
    "image": "pipeline/media/design-agentic-ui-standard.png",
    "date": "2026-09-03",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "같은 폼을 네 번씩 만드는 비용\n에이전트 UI 표준이 없어 치른다",
+     "body": "구글 A2UI는 컴포넌트 이름만 보내고 화면을 그리는 일은 클라이언트에 맡긴다."
+    },
+    "en": {
+     "headline": "The cost of building one form\nfour times without a standard",
+     "body": "Google's A2UI sends only component names and leaves rendering to the client."
+    },
+    "ja": {
+     "headline": "同じフォームを\n標準なき四重苦",
+     "body": "GoogleのA2UIはコンポーネント名だけ送り、描画はクライアントに任せる。"
+    },
+    "zh": {
+     "headline": "同一表单做四次\n只因没有标准",
+     "body": "谷歌A2UI只发送组件名称，把画面绘制的工作交给客户端完成。"
+    }
+   }
   },
   {
    "id": "design-dlss5-launch-date",
@@ -51197,7 +51339,13 @@
    "image": "pipeline/media/design-dlss5-launch-date.jpg",
    "date": "2026-09-03",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "엔비디아가 논란의 DLSS 5를\n9월 3일 NBA 2K27에 먼저 넣는다",
+     "body": "DLSS 5는 아티스트가 만든 프레임 위에 조명과 재질을 덧입히는 마지막 단계다."
+    }
+   }
   },
   {
    "id": "design-figma-coinbase-code-connect",
@@ -51211,7 +51359,29 @@
    "image": "pipeline/media/design-figma-coinbase-code-connect.png",
    "date": "2026-09-03",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "코인베이스가 Code Connect로\n에이전트 비용 22.5%를 줄였다",
+     "body": "디자인 시스템 컴포넌트를 코드에 연결하자 에이전트가 이름을 지어내는 일이 사라졌다."
+    },
+    "en": {
+     "headline": "Coinbase used Code Connect to\ncut agent costs by 22.5%",
+     "body": "Linking design system components to code made agents stop inventing names."
+    },
+    "ja": {
+     "headline": "コインベースが\n費用22.5%削減",
+     "body": "デザインシステムをコードに接続し、エージェントの命名の誤りが消えた。"
+    },
+    "zh": {
+     "headline": "Coinbase用Code\nConnect降本22.5%",
+     "body": "把设计系统组件直接接入代码后，智能体编造名称的问题就此消失。"
+    },
+    "es": {
+     "headline": "Coinbase usó Code Connect\ny redujo el costo un 22,5%",
+     "body": "Al conectar los componentes del sistema de diseño al código, los agentes dejaron de inventar nombres."
+    }
+   }
   },
   {
    "id": "design-perplexity-color-tetrads",
@@ -51225,7 +51395,21 @@
    "image": "pipeline/media/design-perplexity-color-tetrads.png",
    "date": "2026-09-03",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "색각 이상까지 통과하는 사색 배색을\n퍼플렉시티에게 다시 물었다",
+     "body": "프롬프트를 고쳐 다시 묻고서야 근사치에 가까운 테트라드 배색이 나왔다."
+    },
+    "en": {
+     "headline": "Asking Perplexity again for\ntetrads that pass color tests",
+     "body": "Only after revising the prompt did Perplexity return a tetrad close to the target."
+    },
+    "ja": {
+     "headline": "色覚異常も通る\n四色配色を再質問",
+     "body": "プロンプトを修正して聞き直すと、近似のテトラッド配色が返ってきた。"
+    }
+   }
   },
   {
    "id": "design-solidworks-blue-tokens",
@@ -51239,7 +51423,29 @@
    "image": "pipeline/media/design-solidworks-blue-tokens.png",
    "date": "2026-09-03",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "다쏘시스템이 AI 사용료로\n블루 토큰을 팔기 시작했다",
+     "body": "솔리드웍스 사용자는 질의 한 건마다 블루 토큰을 쓰고, 모자라면 팩을 따로 사야 한다."
+    },
+    "en": {
+     "headline": "Dassault Systèmes now sells\nBlue Tokens for AI usage",
+     "body": "Solidworks users spend Blue Tokens on every query and must buy extra packs when they run out."
+    },
+    "ja": {
+     "headline": "ダッソーがAI\n青トークン販売",
+     "body": "Solidworksは質問ごとに青トークンを使い、不足すればパックを買う。"
+    },
+    "zh": {
+     "headline": "达索开始卖\n蓝色Token收AI费",
+     "body": "Solidworks用户每次查询都要消耗蓝色Token，用完得单独购买加油包。"
+    },
+    "es": {
+     "headline": "Dassault Systèmes ahora\nvende Blue Tokens por IA",
+     "body": "Los usuarios de Solidworks gastan Blue Tokens en cada consulta y deben comprar paquetes extra si se les acaban."
+    }
+   }
   },
   {
    "id": "gadgets-acer-aspire-g3d-local-ai",
@@ -51253,7 +51459,25 @@
    "image": null,
    "date": "2026-09-03",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "안경 없는 3D 화면과 128GB 램을\nAcer Aspire G 3D 16에 묶었다",
+     "body": "128GB 램 덕에 gpt-oss-120b 같은 대형 모델을 노트북에서 돌린다."
+    },
+    "en": {
+     "headline": "Glasses-free 3D and 128GB RAM\ncome together in Aspire G 3D 16",
+     "body": "The 128GB of RAM lets it run large models like gpt-oss-120b on a laptop."
+    },
+    "ja": {
+     "headline": "裸眼3Dと128GB搭載\nAspire G 3D 16",
+     "body": "128GBのRAMで、gpt-oss-120bのような大型モデルをノートPCで動かせる。"
+    },
+    "es": {
+     "headline": "Pantalla 3D sin gafas y 128GB\nde RAM, en el Aspire G 3D 16",
+     "body": "Los 128GB de RAM permiten ejecutar modelos grandes como gpt-oss-120b en el portátil."
+    }
+   }
   },
   {
    "id": "gadgets-adreno-neural-fusion",
@@ -51267,7 +51491,29 @@
    "image": null,
    "date": "2026-09-03",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Adreno Neural Fusion, GPU 안에\nAI 전용 코어를 심었다",
+     "body": "GPU 슬라이스마다 Matrix Cores를 넣어 켜면 전력이 40% 개선된다."
+    },
+    "en": {
+     "headline": "Adreno Neural Fusion puts AI\ncores inside the GPU itself",
+     "body": "Adding Matrix Cores to each GPU slice and turning them on improves power efficiency by 40%."
+    },
+    "ja": {
+     "headline": "GPU内にAI専\n用コアを搭載",
+     "body": "GPUスライスごとにMatrix Coresを搭載し有効化すると電力が40%改善する。"
+    },
+    "zh": {
+     "headline": "GPU内藏AI\n专用核心",
+     "body": "每个GPU切片加入Matrix Cores并开启后，能效提升40%。"
+    },
+    "es": {
+     "headline": "Adreno Neural Fusion mete\nnúcleos de IA en la GPU",
+     "body": "Añadir Matrix Cores a cada porción de la GPU y activarlos mejora la eficiencia energética un 40%."
+    }
+   }
   },
   {
    "id": "gadgets-caira-ai-video-edit",
@@ -51281,7 +51527,29 @@
    "image": null,
    "date": "2026-09-03",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Caira 카메라, 직접 찍은 영상에만\n생성 영상 편집을 허용한다",
+     "body": "텍스트로 영상을 만드는 기능은 빼고, 직접 찍은 클립만 생성 편집 대상으로 뒀다."
+    },
+    "en": {
+     "headline": "Caira camera allows generative\nediting only on your own clips",
+     "body": "It drops text-to-video and limits generative editing to clips you actually shot."
+    },
+    "ja": {
+     "headline": "Cairaは自分の\n映像だけ生成編集",
+     "body": "テキストからの生成はなく、自分で撮った映像だけが対象だ。"
+    },
+    "zh": {
+     "headline": "Caira生成编辑\n仅限自拍视频",
+     "body": "不支持用文字生成视频，生成式编辑只针对自己亲手拍摄的素材。"
+    },
+    "es": {
+     "headline": "Caira solo permite edición\ngenerativa en tu propio metraje",
+     "body": "Elimina el texto a video y limita la edición generativa a los clips que tú mismo grabaste."
+    }
+   }
   },
   {
    "id": "gadgets-norway-smart-glasses-rules",
@@ -51295,7 +51563,25 @@
    "image": null,
    "date": "2026-09-03",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "노르웨이가 스마트 글라스의 얼굴 인식을\n금지하는 방안을 검토한다",
+     "body": "노르웨이 정부는 공공장소 얼굴 인식 금지까지 규제 검토 대상에 올렸다."
+    },
+    "en": {
+     "headline": "Norway weighs a ban on facial\nrecognition in smart glasses",
+     "body": "Norway's government has added a public-space facial recognition ban to its regulatory review."
+    },
+    "ja": {
+     "headline": "ノルウェーが\n顔認識禁止検討",
+     "body": "ノルウェー政府は公共の場での顔認識禁止まで規制検討の対象に加えた。"
+    },
+    "es": {
+     "headline": "Noruega estudia prohibir el\nreconocimiento facial en gafas",
+     "body": "El gobierno noruego añadió una prohibición del reconocimiento facial en público a su revisión."
+    }
+   }
   },
   {
    "id": "gadgets-pixel-watch5-offline-gemini",
@@ -51457,7 +51743,29 @@
    "image": null,
    "date": "2026-09-03",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Caira 카메라가 Gemini와 Runway Aleph로\n찍은 영상을 그 자리에서 고친다",
+     "body": "이미 촬영한 푸티지만 손대고 텍스트로 장면을 새로 만들지는 못한다."
+    },
+    "en": {
+     "headline": "The Caira Camera Edits Footage\nwith Gemini and Runway Aleph",
+     "body": "It only touches footage already shot and cannot generate new scenes from text."
+    },
+    "ja": {
+     "headline": "CairaがGeminiと\nAlephで即編集",
+     "body": "撮影済みの映像だけを直し、文章で新しい場面を作ることはできない。"
+    },
+    "zh": {
+     "headline": "Caira相机联手\nGemini即时修片",
+     "body": "它只能修改已经拍摄完成的素材，并不能用文字重新创造出新的画面。"
+    },
+    "es": {
+     "headline": "La cámara Caira retoca lo\ngrabado con Gemini y Aleph",
+     "body": "Solo toca el metraje ya grabado y no puede generar escenas nuevas a partir de texto."
+    }
+   }
   },
   {
    "id": "movies-eddie-agent-marketplace",
@@ -51471,7 +51779,29 @@
    "image": null,
    "date": "2026-09-03",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Eddie AI가 편집 거장을 학습한\n에이전트 29종의 마켓플레이스를 열었다",
+     "body": "Walter Murch의 작업을 학습한 에이전트가 기존 컷은 건드리지 않는다."
+    },
+    "en": {
+     "headline": "Eddie AI Opens a Marketplace\nof 29 Agents Trained on Editors",
+     "body": "An agent trained on Walter Murch's work does not touch the existing cut."
+    },
+    "ja": {
+     "headline": "巨匠の編集学んだ\nEddie AI新市場",
+     "body": "Walter Murchの作風を学んだエージェントは既存のカットに触れない。"
+    },
+    "zh": {
+     "headline": "Eddie AI学习\n剪辑大师开市场",
+     "body": "学习了Walter Murch手法的智能体不会改动现有剪辑。"
+    },
+    "es": {
+     "headline": "Eddie AI abre un mercado\nde 29 agentes de edición",
+     "body": "Un agente entrenado con el trabajo de Walter Murch no toca el montaje existente."
+    }
+   }
   },
   {
    "id": "movies-flow-studio-3d-editor",
@@ -51485,7 +51815,29 @@
    "image": null,
    "date": "2026-09-03",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Autodesk Flow Studio에 3D Editor와\nCanvas가 한 화면에서 열렸다",
+     "body": "생성과 장면 조립, 렌더링을 한 작업 공간에서 숏 단위로 다듬는다."
+    },
+    "en": {
+     "headline": "Autodesk Flow Studio Opens\n3D Editor and Canvas Together",
+     "body": "It refines generation, scene assembly, and rendering shot by shot inside a single workspace."
+    },
+    "ja": {
+     "headline": "Flow Studioに\n3Dと画面統合",
+     "body": "生成から組立、レンダリングまで一画面でショット単位に仕上げる。"
+    },
+    "zh": {
+     "headline": "Flow Studio中\n3D与画布合一",
+     "body": "在同一个工作空间里完成生成、组装与渲染，并逐镜头打磨画面。"
+    },
+    "es": {
+     "headline": "Autodesk Flow Studio une\nel 3D Editor y Canvas",
+     "body": "Generación, montaje de escena y renderizado se afinan plano a plano en un solo espacio de trabajo."
+    }
+   }
   },
   {
    "id": "music-elastic-melody-bass-dfam",
@@ -51499,7 +51851,21 @@
    "image": null,
    "date": "2026-09-03",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Elastic Melody가 베이스와\nDFAM식 퍼커션까지 맡는다",
+     "body": "피치와 필터 드라이브 모드가 붙어 같은 엔진이 베이스와 타악까지 만든다."
+    },
+    "en": {
+     "headline": "Elastic Melody Now Handles\nBass and DFAM-Style Percussion",
+     "body": "With pitch and filter drive modes added, the same engine now makes both bass and percussion."
+    },
+    "es": {
+     "headline": "Elastic Melody ahora toca\nbajo y percusión tipo DFAM",
+     "body": "Con los modos pitch y filter drive, el mismo motor ya genera tanto bajo como percusión."
+    }
+   }
   },
   {
    "id": "music-logic-pro-12-3-session-players",
@@ -51513,7 +51879,21 @@
    "image": null,
    "date": "2026-09-03",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Cubase 30년 사용자가 본\nLogic Pro 12.3의 세션 플레이어",
+     "body": "Logic의 세션 플레이어와 스템 분리가 30년 Cubase 사용자를 흔들었다."
+    },
+    "en": {
+     "headline": "A 30-Year Cubase User Tries\nLogic Pro 12.3 Session Players",
+     "body": "Logic's Session Players and stem separation shook a 30-year Cubase user's loyalty."
+    },
+    "es": {
+     "headline": "Un usuario de Cubase de 30\naños prueba Logic Pro 12.3",
+     "body": "Los Session Players y la separación de stems de Logic sacudieron a un usuario de Cubase de 30 años."
+    }
+   }
   },
   {
    "id": "music-lucinate-video-synth",
@@ -51527,7 +51907,29 @@
    "image": null,
    "date": "2026-09-03",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Lucinate, Ableton Link에\n물려 연주하는 비디오 신스",
+     "body": "AUM 개발사가 Ableton Link에 물리는 실시간 비주얼 환경을 내놨다."
+    },
+    "en": {
+     "headline": "Lucinate Is a Video Synth\nYou Play via Ableton Link",
+     "body": "The team behind AUM has released a real-time visual environment that locks onto Ableton Link."
+    },
+    "ja": {
+     "headline": "Lucinateは\nLinkで奏でる映像",
+     "body": "AUM開発元がAbleton Linkと連動するリアルタイム映像環境を出した。"
+    },
+    "zh": {
+     "headline": "Lucinate靠\nLink来演奏",
+     "body": "AUM开发商推出了接入Ableton Link的实时视觉环境。"
+    },
+    "es": {
+     "headline": "Lucinate, un sintetizador\nde video que toca con Link",
+     "body": "El equipo detrás de AUM lanzó un entorno visual en tiempo real que se conecta a Ableton Link."
+    }
+   }
   },
   {
    "id": "music-tone3000-nam",
@@ -51541,7 +51943,13 @@
    "image": null,
    "date": "2026-09-03",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "TONE3000 무료 플러그인 공개\nNAM 캡처가 어떤 DAW에서든 열린다",
+     "body": "리눅스까지 지원하는 무료 플러그인 하나로 NAM 캡처 체인을 불러온다."
+    }
+   }
   },
   {
    "id": "science-ecg-clip-fewshot",
@@ -51555,7 +51963,21 @@
    "image": "pipeline/media/science-ecg-clip-fewshot.jpg",
    "date": "2026-09-03",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "심전도 170만 건을 읽은 모델이\n예시 열 건으로 병을 짚었다",
+     "body": "170만 건을 학습한 ECG-CLIP은 양성 사례 열 건으로도 질환을 잡아냈다."
+    },
+    "en": {
+     "headline": "A Model Trained on 1.7M\nECGs Spots Disease From Ten",
+     "body": "ECG-CLIP, trained on 1.7 million records, caught disease from just ten positive cases."
+    },
+    "es": {
+     "headline": "Un modelo entrenado con\n1,7M de ECG detecta con diez",
+     "body": "ECG-CLIP, entrenado con 1,7 millones de registros, detectó la enfermedad con solo diez casos positivos."
+    }
+   }
   },
   {
    "id": "science-gollum-doubt-detector",
@@ -51569,7 +51991,25 @@
    "image": "pipeline/media/science-gollum-doubt-detector.jpg",
    "date": "2026-09-03",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "모를 때를 아는 언어모델, EPFL이\n실험 횟수를 40% 줄였다",
+     "body": "GOLLuM은 23개 과제에서 40% 넘게 적은 실험으로 기존 방법을 따라잡았다."
+    },
+    "ja": {
+     "headline": "知らないと知る\nAIでEPFLが40%減",
+     "body": "GOLLuMは23課題で実験を40%超減らし既存法に並んだ。"
+    },
+    "zh": {
+     "headline": "懂得自己不懂\nEPFL省40%实验",
+     "body": "GOLLuM在23项任务中，少做40%以上实验就追平了现有方法。"
+    },
+    "es": {
+     "headline": "Un modelo de lenguaje que\nsabe lo que ignora: EPFL -40%",
+     "body": "GOLLuM igualó los métodos existentes en 23 tareas con más del 40% menos experimentos."
+    }
+   }
   },
   {
    "id": "science-ornl-atom-assembly",
@@ -51583,7 +52023,29 @@
    "image": "pipeline/media/science-ornl-atom-assembly.jpg",
    "date": "2026-09-03",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "분자를 하나씩 밀어 그래핀 격자를\n스스로 쌓은 ORNL의 AI",
+     "body": "ORNL의 AI가 25시간 동안 분자 37개로 인공 그래핀 격자를 지었다."
+    },
+    "en": {
+     "headline": "ORNL's AI Pushes Molecules\nOne by One to Build a Lattice",
+     "body": "Over 25 hours, ORNL's AI built an artificial graphene lattice from 37 molecules."
+    },
+    "ja": {
+     "headline": "分子押しで格子\n自律構築ORNLのAI",
+     "body": "ORNLのAIが25時間かけ分子37個で人工グラフェン格子を作った。"
+    },
+    "zh": {
+     "headline": "一粒粒推分子\nORNL的AI自建格子",
+     "body": "ORNL的AI耗时25小时，用37个分子搭出人工石墨烯晶格。"
+    },
+    "es": {
+     "headline": "La IA de ORNL empuja\nmoléculas para armar redes",
+     "body": "Durante 25 horas, la IA de ORNL construyó una red artificial de grafeno con 37 moléculas."
+    }
+   }
   },
   {
    "id": "science-pacman-plasma-20ms",

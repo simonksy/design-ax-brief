@@ -4327,6 +4327,155 @@
           "x": "TimesFM-3 is available on GitHub and Hugging Face. BigQuery integration is coming within a few weeks. In the meantime, for univariate tasks you can already try TimesFM-2.5 directly through BigQuery's AI.FORECAST command."
         }
       ]
+    },
+    "science/science-alpha-centauri-ai-trajectory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The nonprofit Fermi Explorer Mission announced it will send a probe to a neighboring star system by the end of 2029. Alpha Centauri is 4.4 light-years away, so even if everything goes well, arrival could take 80,000 years. The route the probe will follow is a new trajectory found by a system from the AI physics lab Physical Superintelligence (PSI). PSI launched that same day with $58 million led by Breakthrough Energy, founded by Bill Gates."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
+          "cap": "The Alpha Centauri route found by AI (Stephanie Arnett/MIT Technology Review | Getty Images, Adobe Stock)"
+        },
+        {
+          "t": "p",
+          "x": "This isn't the first attempt. In 2016, Yuri Milner put $100 million into Breakthrough Starshot, but even after ten years, nothing has launched."
+        },
+        {
+          "t": "p",
+          "x": "“We didn't want to do another Starshot,” says co-founder and CEO Philip Johnston. “We're staking everything on actually launching something.” The budget, run on private funding, is $15 million. They set the timeline to fit within that."
+        },
+        {
+          "t": "p",
+          "x": "The probe carries at least 1kg of cargo. Art and science payloads and messages go along, as does a copy of the Golden Record NASA attached to Voyager in 1977. Alpha Centauri is about 25 trillion miles away, so even Voyager 1, flying since 1977, hasn't covered 1% of that distance."
+        },
+        {
+          "t": "p",
+          "x": "Johnston's team spent a year trying and failing to find a way to get there with a small, solar-powered probe. They kept getting stuck on the problem of providing enough power without making it heavy. When Johnston brought up this struggle on a podcast, physicist Alex Wissner-Gross, a PSI co-founder, suggested feeding it into the lab's system, Get Physics Done. It's open-source software that breaks physics research questions into pieces, decides on its own which simulations to run, and uses Anthropic's Claude or OpenAI's GPT."
+        },
+        {
+          "t": "p",
+          "x": "A week later, the system produced a route that surprised even Johnston. It wove together well-known orbital maneuvers in a way the Fermi team hadn't thought of. According to a paper that hasn't yet gone through peer review, the probe first slows down to pull its orbit in closer to the sun than Mercury. Firing the engine every time it passes perihelion quadruples the light hitting the solar cells, and thrust fired at the fast point leaves more energy behind for the same amount burned. Because the engine only fires near the sun, the solar cells can stay small and the probe stays light."
+        },
+        {
+          "t": "p",
+          "x": "The system spent three days and a billion tokens doing most of the research on its own, says PSI co-founder and CEO Matt Fines. A PSI astrophysicist set the direction, asked for cost analyses and charts, and checked for errors."
+        },
+        {
+          "t": "p",
+          "x": "“What was more surprising was that it came up with a completely different mission profile, in a creative form the Fermi team hadn't considered,” Fines says. Still, the model has no researcher's judgment or taste, so it sometimes gets stuck on dead ends."
+        },
+        {
+          "t": "p",
+          "x": "This plan isn't just about engineering ambition. In 1950, Enrico Fermi asked: the galaxy has hundreds of billions of stars, most older than the sun. Even a civilization moving slowly between stars would spread across the whole galaxy within a few million years, so why don't we see any trace of it. Once the Fermi probe launches, we become a civilization that can go to other stars and wants to, so both explanations, that it's too hard or that nobody bothers, start to wobble. “One of the reasons might be that the moment you reach superintelligence, you end up destroying yourself for some reason or another,” Johnston says."
+        }
+      ]
+    },
+    "science/science-bitenet-ion-sites": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Constructor University and Constructor Labs have produced BiteNetI. It's a deep learning model that locates binding sites for 14 biologically important kinds of ions directly from 3D protein structures."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-ai-model-maps-the.jpg",
+          "cap": "BiteNetI predicts ion binding sites in proteins (Phys.org)"
+        },
+        {
+          "t": "p",
+          "x": "Processing a single structure takes just seconds. The researchers reported that its accuracy is two to three times higher than most existing predictors, including Google DeepMind's AlphaFold 3."
+        },
+        {
+          "t": "p",
+          "x": "The paper was written by Igor Kozlovskii and Petr Popov and published in the journal Communications Biology. The researchers also opened a public platform that anyone can access. They hope it will be used as a tool to speed up drug discovery and understanding of protein function."
+        }
+      ]
+    },
+    "science/science-ecg-clip-fewshot": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "To assess heart problems, clinicians use a 12-lead electrocardiogram (ECG), attaching electrodes to the chest and limbs to record the heart's electrical activity. AI tools that help read ECGs are common too. But today's tools require large training datasets with disease status labeled by hand, which makes them hard to move to other clinical tasks."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2018/1-ecg.jpg",
+          "cap": "An ECG recording. Credit: CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Scripps Research have introduced an AI model meant to improve the detection and prediction of several heart conditions. It's especially useful in settings with scarce labels or few available leads. The model, published in Lancet Digital Health, is called ECG-CLIP. It was trained on more than 1.7 million ECGs collected from over 540,000 people, paired with clinician records."
+        },
+        {
+          "t": "p",
+          "x": "Giorgio Quer, the senior author and an assistant professor of digital medicine at Scripps Research, said, 「The new algorithm can look at just ten or so confirmed ECGs of a specific condition and then go on to find that condition. It's similar to how a clinician learns — not from a million cases, but by first understanding the physiology behind the ECG and then seeing a few examples.」"
+        },
+        {
+          "t": "p",
+          "x": "After training, the model was measured against existing models on three clinical tasks. The first was detecting acute myocardial infarction, cardiac amyloidosis, and hypertrophic cardiomyopathy. On a new dataset of more than 800,000 ECGs, ECG-CLIP beat the standard models on all three conditions, and it matched the score of the next-best model, which used the full dataset, while using 91% less labeled data on average."
+        },
+        {
+          "t": "p",
+          "x": "Compared against three foundation models trained on ECGs alone without clinical records, the gap widened the fewer labels there were. ECG-CLIP stayed ahead even with only ten positive cases, and the difference largely disappeared as labels increased. Quer said, 「It did especially well with much less data. That's useful for rare diseases where there are only a dozen or so well-curated positive ECGs.」 It also performed well in a test detecting acute myocardial infarction from a single-lead ECG."
+        },
+        {
+          "t": "p",
+          "x": "In the second task, prediction, it outperformed every other model at forecasting future atrial fibrillation from a normal-rhythm 12-lead ECG. For the third task, it was also the best at predicting the likelihood of an ER visit, 30-day survival after surgery, and the likelihood of developing chronic kidney disease or type 2 diabetes within three years."
+        },
+        {
+          "t": "p",
+          "x": "To show what the model was looking at when it made its calls, the researchers built saliency maps marking the signal segments that contributed most to each prediction. Co-first author Michael Ko said, 「The potential is clear, but using this in actual practice will require rigorous validation through prospective clinical trials.」"
+        }
+      ]
+    },
+    "science/science-ornl-atom-assembly": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A construction site where a brick is a single molecule and the crane is a needle sharp enough to feel a single atom. Assembly at this scale has long been painstaking work, and a single human slip could damage a delicate tool."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the U.S. Department of Energy's Oak Ridge National Laboratory (ORNL) handed that manipulation over to an AI. This AI, which taught itself how to stack materials, worked for more than 25 hours without a human. Researchers at the Center for Nanophase Materials Sciences (CNMS) described a fully automated system for building functional materials atom by atom in a paper published in the journal ACS Nano."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-automates-the-creat-1.jpg",
+          "cap": "The AI drives an ultra-precise probe, pushing molecules one by one on copper to automatically build atomic-scale patterns. Credit: Andy Sproles/ORNL, U.S. Dept. of Energy"
+        },
+        {
+          "t": "p",
+          "x": "P. Ganesh and Arthur P. Baddorf set the conceptual framework, and An-Ping Li and Rama Vasudevan led the implementation and interpretation. Ganesh Narasimha handled the automation software, and Mykola Telychko handled the experimental setup, together producing the manipulation tests and data. Wooin Yang designed the object-detection pipeline and ran the spectroscopy experiments that confirmed the materials."
+        },
+        {
+          "t": "p",
+          "x": "Narasimha said this approach enables 「atomic-precision fabrication with dramatically reduced human intervention.」 He said research that once searched nature for materials is shifting toward designing artificial lattices with electronic properties tailored exactly as wanted."
+        },
+        {
+          "t": "p",
+          "x": "The AI operates with two sets of eyes and a brain. The eyes belong to a YOLO computer vision model that quickly locates molecules on a copper surface, and the brain is handled by reinforcement learning. It tries various ways of moving a molecule, earning a high score when it reaches the target spot and a low score when it misses. The model traced back through those scores to learn combinations of current, bias, and speed that push a molecule into place without damaging the probe."
+        },
+        {
+          "t": "p",
+          "x": "The researchers demonstrated building a honeycomb-patterned artificial graphene lattice from 37 molecules. They also confirmed Dirac points, the electronic signature showing it behaves like real graphene. The AI even spelled out the letters 「ORNL」 by placing molecules one at a time."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-automates-the-creat.jpg",
+          "cap": "Visual abstract. Credit: ACS Nano (2025). DOI: 10.1021/acsnano.5c12469"
+        },
+        {
+          "t": "p",
+          "x": "It's still semi-automatic. If the probe becomes unstable, a human has to step in. Building the 37-molecule lattice took about 900 manipulations and 25 hours, with each move taking roughly a minute."
+        },
+        {
+          "t": "p",
+          "x": "The researchers see inverse design as the next step: set the electronic properties you want, and the AI determines and builds the needed structure on its own. It's a stepping stone toward topological qubits, the basic unit of ultra-stable quantum computers. Narasimha said, 「We believe this approach will accelerate new breakthroughs in understanding quantum states and in future technologies.」"
+        }
+      ]
     }
   }
 }
