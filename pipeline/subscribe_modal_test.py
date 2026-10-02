@@ -64,7 +64,7 @@ for lang in ("ko", "en", "ja", "zh", "es"):
 # 10) 헤더 Pro 버튼 + 혜택 비교표 문구 키도 5개 언어에 모두 있다
 need3 = ["pro.cta", "pro.cta_short", "pro.col_free", "pro.col_pro",
          "pro.row_cards", "pro.row_deep", "pro.row_archive", "pro.row_graph",
-         "pro.row_langs", "pro.active"]
+         "pro.row_report", "pro.row_mcp", "pro.soon", "pro.active"]
 for lang in ("ko", "en", "ja", "zh", "es"):
     d = json.load(open(os.path.join(ROOT, "i18n", f"{lang}.json"), encoding="utf-8"))
     missing = [k for k in need3 if k not in d]

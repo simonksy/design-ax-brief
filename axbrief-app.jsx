@@ -138,9 +138,13 @@ if (!document.getElementById('ax-styles')) {
   .ax-pro-badge{display:inline-block;padding:3px 11px;border-radius:999px;font-size:11.5px;
      font-weight:700;color:#fff;letter-spacing:.02em;
      background:linear-gradient(135deg,#7928ca,#0070f3);background-size:180% 180%;}
-  .ax-check{display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;
-     border-radius:50%;font-size:11px;line-height:1;color:#fff;
+  .ax-check{display:inline-flex;align-items:center;justify-content:center;width:23px;height:23px;
+     border-radius:50%;font-size:14px;font-weight:700;line-height:1;color:#fff;
      background:linear-gradient(135deg,#7928ca,#0070f3);}
+  /* 아직 만들지 않은 Pro 혜택 — 체크가 아니라 예고 배지로 표시한다. */
+  .ax-soon{display:inline-block;padding:3px 7px;border-radius:999px;font-size:10.5px;font-weight:700;
+     line-height:1.2;white-space:nowrap;color:#7928ca;border:1px solid rgba(121,40,202,.4);
+     background:rgba(121,40,202,.08);}
   .ax-plan-btn{position:relative;display:block;width:100%;box-sizing:border-box;text-align:left;
      cursor:pointer;border:none;border-radius:12px;font-family:Pretendard,system-ui;
      transition:transform .15s ease;}
@@ -478,27 +482,32 @@ async function pollEntitlement(tries = 5, gapMs = 2000) {
   return false;
 }
 
-/* Pro 혜택 비교표 행. 나중에 메일 리포트·키워드 알림·MCP가 붙으면 여기에 줄을 추가한다. */
+/* Pro 혜택 비교표 행. 키워드 알림이 붙으면 여기에 줄을 추가한다.
+   pro: 'soon'은 아직 만들지 않은 혜택 — 체크 대신 "준비 중" 배지가 뜬다.
+   없는 기능에 체크를 주면 돈을 받고 약속을 어기는 셈이라, 배지로만 예고한다. */
 const PRO_ROWS = [
   { key: 'cards',   free: '1',    pro: '40' },
   { key: 'deep',    free: false,  pro: true },
   { key: 'archive', free: false,  pro: true },
   { key: 'graph',   free: false,  pro: true },
-  { key: 'langs',   free: true,   pro: true },
+  { key: 'report',  free: false,  pro: 'soon' },
+  { key: 'mcp',     free: false,  pro: 'soon' },
 ];
 
 /* 비교표 한 셀 — true면 체크(Pro 열은 강조색 원 안의 흰 체크), false면 흐린 가로줄,
-   문자열이면 그 문자열(Pro 열은 더 크고 굵게 — 숫자 대비가 가장 직관적이다). */
+   'soon'이면 준비 중 배지, 그 밖의 문자열이면 그 문자열(Pro 열은 더 크고 굵게 —
+   숫자 대비가 가장 직관적이다). */
 function ProCell({ v, t, strong }) {
   if (v === true) {
     return strong
       ? <span className="ax-check" aria-hidden>✓</span>
-      : <span style={{ color: t.body }}>✓</span>;
+      : <span style={{ color: t.mute, fontSize: 15 }}>✓</span>;
   }
-  if (v === false) return <span style={{ color: t.faint }}>—</span>;
+  if (v === 'soon') return <span className="ax-soon">{tx('pro.soon')}</span>;
+  if (v === false) return <span style={{ color: t.faint, fontSize: 15 }}>—</span>;
   return (
     <span style={{ color: strong ? t.hl : t.body, fontWeight: strong ? 700 : 400,
-      fontSize: strong ? 15 : 12.5 }}>{v}</span>
+      fontSize: strong ? 19 : 15 }}>{v}</span>
   );
 }
 
@@ -507,13 +516,13 @@ function ProCell({ v, t, strong }) {
 function ProCompareTable({ t }) {
   const proBorder = '1px solid rgba(121,40,202,.38)';
   return (
-    <div style={{ marginBottom: 14, borderRadius: 10, overflow: 'hidden', border: '1px solid ' + t.rule,
-      display: 'grid', gridTemplateColumns: '1fr 52px 58px', fontFamily: 'Pretendard, system-ui' }}>
+    <div style={{ marginBottom: 16, borderRadius: 12, overflow: 'hidden', border: '1px solid ' + t.rule,
+      display: 'grid', gridTemplateColumns: '1fr 56px 74px', fontFamily: 'Pretendard, system-ui' }}>
       <div />
-      <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 11.5, fontWeight: 600, color: t.mute }}>
+      <div style={{ padding: '10px 4px', textAlign: 'center', fontSize: 13, fontWeight: 700, color: t.mute }}>
         {tx('pro.col_free')}
       </div>
-      <div className="ax-pro-col" style={{ padding: '7px 4px 6px', textAlign: 'center',
+      <div className="ax-pro-col" style={{ padding: '10px 4px 9px', textAlign: 'center',
         border: proBorder, borderBottom: 'none', borderRadius: '9px 9px 0 0' }}>
         <span className="ax-pro-badge">{tx('pro.col_pro')}</span>
       </div>
@@ -521,14 +530,14 @@ function ProCompareTable({ t }) {
         const last = i === PRO_ROWS.length - 1;
         return (
           <React.Fragment key={row.key}>
-            <div style={{ padding: '7px 10px 7px 0', fontSize: 13, fontWeight: 500, color: t.body,
-              borderTop: '1px solid ' + t.rule }}>
+            <div style={{ padding: '11px 10px 11px 14px', fontSize: 14, fontWeight: 600, color: t.hl,
+              lineHeight: 1.35, wordBreak: 'keep-all', borderTop: '1px solid ' + t.rule }}>
               {tx('pro.row_' + row.key)}
             </div>
-            <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 12.5, borderTop: '1px solid ' + t.rule }}>
+            <div style={{ padding: '11px 4px', textAlign: 'center', fontSize: 14.5, borderTop: '1px solid ' + t.rule }}>
               <ProCell v={row.free} t={t} />
             </div>
-            <div className="ax-pro-col" style={{ padding: '7px 4px', textAlign: 'center',
+            <div className="ax-pro-col" style={{ padding: '11px 4px', textAlign: 'center',
               borderLeft: proBorder, borderRight: proBorder,
               borderBottom: last ? proBorder : 'none', borderRadius: last ? '0 0 9px 9px' : 0 }}>
               <ProCell v={row.pro} t={t} strong />
@@ -657,7 +666,7 @@ function SubscribeModal({ onClose, t }) {
       style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.4)',
       display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 2147483100 }}>
       <div onClick={(e) => e.stopPropagation()} style={{ background: '#fff', borderRadius: 16,
-        padding: 24, width: 320, maxWidth: '88vw', fontFamily: 'Pretendard, system-ui' }}>
+        padding: 26, width: 440, maxWidth: '92vw', fontFamily: 'Pretendard, system-ui' }}>
         <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>{tx('paywall.modal_title')}</p>
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
           {tx('paywall.modal_body')}
