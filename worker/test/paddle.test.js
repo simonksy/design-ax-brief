@@ -110,10 +110,69 @@ describe("toEntitlement", () => {
     expect(r.periodEnd).toBe(null);
   });
 
-  it("결제 성공 → active 복구, 만료일은 건드리지 않는다", () => {
+  it("결제 성공 → active 복구, 청구기간이 없으면 만료일은 건드리지 않는다", () => {
     const r = toEntitlement(ev("transaction.completed"));
     expect(r.status).toBe("active");
     expect(r.periodEnd).toBe(null);
+  });
+
+  // 명세의 표: transaction.completed는 current_period_end를 연장한다.
+  // subscription.updated 하나만 믿으면 그게 유실된 달에 카드는 계속 긁히면서
+  // 권한은 예정대로 만료된다.
+  it("갱신 결제가 청구기간을 실으면 만료일을 연장한다", () => {
+    const r = toEntitlement(ev("transaction.completed",
+      { billing_period: { starts_at: ISO, ends_at: END_ISO } }));
+    expect(r.status).toBe("active");
+    expect(r.periodEnd).toBe(END);
+  });
+
+  // STATUS_MAP의 `?? "canceled"` 폴백은 "안전한 방향"이 아니다 — 권한 판정이
+  // 만료일 기준으로 바뀐 뒤로, canceled + 미래 만료일은 여전히 열려 있다.
+  // 그래서 이 분기를 테스트로 못 박아 둔다.
+  it("updated의 status가 미지/누락이면 canceled로 떨어지고 기간은 그대로 반영된다", () => {
+    for (const data of [{ status: "some_new_paddle_status" }, {}]) {
+      const r = toEntitlement(ev("subscription.updated",
+        { ...data, current_billing_period: { starts_at: ISO, ends_at: END_ISO } }));
+      expect(r.status).toBe("canceled");
+      expect(r.periodEnd).toBe(END);   // 미래 만료일이면 getEntitlement는 아직 열어준다
+    }
+  });
+
+  describe("환불·차지백은 권한을 즉시 닫는다", () => {
+    it("transaction.refunded → canceled, 만료일은 이벤트 시각", () => {
+      const r = toEntitlement(ev("transaction.refunded"));
+      expect(r.status).toBe("canceled");
+      expect(r.periodEnd).toBe(EPOCH);
+    });
+
+    it("adjustment.created(refund) / adjustment.updated(chargeback)도 닫는다", () => {
+      for (const [type, action] of [["adjustment.created", "refund"],
+                                    ["adjustment.updated", "chargeback"]]) {
+        const r = toEntitlement(ev(type, { action, status: "approved",
+          items: [{ item_id: "txnitm_1", type: "full", amount: "5990" }] }));
+        expect(r.status).toBe("canceled");
+        expect(r.periodEnd).toBe(EPOCH);
+      }
+    });
+
+    it("환불이 아닌 조정(credit·chargeback_reverse)은 무시한다", () => {
+      for (const action of ["credit", "credit_reverse", "chargeback_reverse", "chargeback_warning"])
+        expect(toEntitlement(ev("adjustment.created", { action }))).toBe(null);
+    });
+
+    it("거절·되돌려진 조정은 무시한다", () => {
+      for (const status of ["rejected", "reversed"])
+        expect(toEntitlement(ev("adjustment.updated", { action: "refund", status }))).toBe(null);
+    });
+
+    it("부분·비례 환불만으로는 닫지 않는다 — 1년치를 소액 보상에 날리지 않는다", () => {
+      expect(toEntitlement(ev("adjustment.created", { action: "refund", status: "approved",
+        items: [{ item_id: "txnitm_1", type: "partial", amount: "500" }] }))).toBe(null);
+      // 전액 환불 항목이 섞여 있으면 닫는다
+      expect(toEntitlement(ev("adjustment.created", { action: "refund", status: "approved",
+        items: [{ type: "partial", amount: "500" }, { type: "full", amount: "5490" }] })).status)
+        .toBe("canceled");
+    });
   });
 
   it("관심 없는 이벤트는 null", () => {

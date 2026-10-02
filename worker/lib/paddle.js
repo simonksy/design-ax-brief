@@ -46,6 +46,22 @@ const epoch = (iso) => {
   return Number.isFinite(t) ? Math.floor(t / 1000) : null;
 };
 
+// 환불·차지백은 권한을 즉시 닫아야 한다. 이게 없으면 연간 플랜을 환불받고도 12개월을
+// 그대로 쓰고, 되돌릴 방법은 수동 SQL UPDATE뿐이다.
+const REVOKING_ACTIONS = new Set(["refund", "chargeback"]);
+// 부분·비례 환불(요금제 변경 정산, 소액 보상 크레딧)만으로 1년치 권한을 날리지는
+// 않는다 — 전액 환불 항목이 하나라도 있을 때만 닫는다.
+const whollyPartial = (data) => Array.isArray(data.items) && data.items.length > 0 &&
+  data.items.every((it) => it && (it.type === "partial" || it.type === "proportional"));
+
+function revokesAccess(type, data) {
+  if (type === "transaction.refunded") return true;
+  if (type !== "adjustment.created" && type !== "adjustment.updated") return false;
+  if (!REVOKING_ACTIONS.has(data.action)) return false;          // credit·chargeback_reverse 등
+  if (data.status === "rejected" || data.status === "reversed") return false;
+  return !whollyPartial(data);
+}
+
 export function toEntitlement(event) {
   if (!event || typeof event !== "object") return null;
   const { event_id: eventId, event_type: type, occurred_at, data } = event;
@@ -68,8 +84,15 @@ export function toEntitlement(event) {
     periodEnd = epoch(data.current_billing_period?.ends_at);
   } else if (type === "transaction.completed") {
     status = "active";
+    // 설계 명세의 표대로 갱신 결제가 만료일을 밀어준다. subscription.updated 하나만
+    // 믿으면 그게 유실된 달에 카드는 계속 긁히면서 권한은 예정대로 만료된다.
+    // 페이로드에 청구기간이 없으면(일회성 결제 등) 만료일은 건드리지 않는다.
+    periodEnd = epoch(data.billing_period?.ends_at);
   } else if (type === "transaction.payment_failed") {
     status = "past_due";
+  } else if (revokesAccess(type, data)) {
+    status = "canceled";
+    periodEnd = epoch(occurred_at) ?? Math.floor(Date.now() / 1000);  // 지금 닫는다
   } else {
     return null;
   }

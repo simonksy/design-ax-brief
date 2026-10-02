@@ -190,6 +190,51 @@ describe("웹훅 관측성", () => {
   });
 });
 
+describe("갱신과 환불이 만료일을 실제로 움직인다", () => {
+  const endOf = (email) => env.DB
+    .prepare("SELECT current_period_end e FROM subscribers WHERE email = ?").bind(email).first();
+
+  it("갱신 결제 1회가 current_period_end를 밀어준다", async () => {
+    const t0 = Date.now();
+    await post("/api/billing/webhook", webhookBody({ eventId: "evt_r1", email: "renew@x.com",
+      occurredAt: new Date(t0).toISOString() }));
+    const before = (await endOf("renew@x.com")).e;
+
+    const nextEnd = new Date(t0 + 60 * DAY * 1000).toISOString();
+    const res = await post("/api/billing/webhook", webhookBody({
+      eventId: "evt_r2", type: "transaction.completed", email: "renew@x.com",
+      occurredAt: new Date(t0 + 1000).toISOString(),
+      data: { billing_period: { starts_at: new Date(t0).toISOString(), ends_at: nextEnd } },
+    }));
+    expect((await res.json()).result).toBe("applied");
+
+    const after = (await endOf("renew@x.com")).e;
+    expect(after).toBe(Math.floor(Date.parse(nextEnd) / 1000));
+    expect(after).toBeGreaterThan(before);
+    const me = await call("/api/me", { headers: { cookie: await cookieFor("renew@x.com") } });
+    expect((await me.json()).entitled).toBe(true);
+  });
+
+  it("환불/차지백은 만료일을 지금으로 당겨 권한을 닫는다", async () => {
+    const t0 = Date.now();
+    await post("/api/billing/webhook", webhookBody({ eventId: "evt_f1", email: "refund@x.com",
+      occurredAt: new Date(t0 - 60000).toISOString() }));
+    const me1 = await call("/api/me", { headers: { cookie: await cookieFor("refund@x.com") } });
+    expect((await me1.json()).entitled).toBe(true);
+
+    const at = new Date(t0).toISOString();   // 환불 시각 = 지금. 이후는 열려 있지 않다.
+    const res = await post("/api/billing/webhook", webhookBody({
+      eventId: "evt_f2", type: "adjustment.created", email: "refund@x.com", occurredAt: at,
+      data: { action: "refund", status: "approved",
+              items: [{ item_id: "txnitm_1", type: "full", amount: "5990" }] },
+    }));
+    expect((await res.json()).result).toBe("applied");
+    expect((await endOf("refund@x.com")).e).toBe(Math.floor(Date.parse(at) / 1000));
+    const me2 = await call("/api/me", { headers: { cookie: await cookieFor("refund@x.com") } });
+    expect((await me2.json()).entitled).toBe(false);
+  });
+});
+
 describe("POST /api/billing/checkout", () => {
   it("비로그인은 401 — 결제 이메일과 로그인 이메일을 일치시키기 위함", async () => {
     const res = await call("/api/billing/checkout", { method: "POST", body: JSON.stringify({ plan: "monthly" }) });
