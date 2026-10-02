@@ -2531,6 +2531,232 @@
           "x": "Scantic requiere iOS 17.0 o posterior y un chip A12 Bionic o más nuevo, lo que cubre dispositivos desde el iPhone XS de 2018 en adelante. La app base es gratuita y da una exportación de calidad estándar, que resulta ser una versión del escaneo reducida y de menor calidad. La exportación de máxima calidad requiere una suscripción de 29.99 euros al año (unos 35 dólares), o se puede comprar por escaneo a 4.99 euros."
         }
       ]
+    },
+    "design/design-aura-dark-and-darker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/e6/images/6a863f9091f3e/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Usar IA en el desarrollo de videojuegos no se limita al arte generativo. Ironmace, el estudio detrás de Dark and Darker, conectó recientemente el asistente de codificación por IA Aura para que una diseñadora con poca experiencia en programación trabajara directamente en la implementación de una función nueva importante. El objetivo era un tutorial que había faltado durante mucho tiempo. El estudio había justificado esa ausencia con su identidad “hardcore”, pero el verdadero obstáculo eran los recursos de desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "Terence Park, CEO de Ironmace, dijo a 80.lv que, si bien la identidad de juego de extracción hardcore es real, no hay razón para ser hardcore hasta el punto de “cómo hago siquiera esta acción básica”. Ante recursos limitados, siempre surgía la misma pregunta: ¿apago incendios ahora o invierto tiempo y esfuerzo en el futuro? Gracias a Aura, según explica, logró ambas cosas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0e/images/6a863f98a8b01/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Su formación es en diseño de juegos y producción. Maneja algo de scripting y se siente cómodo con estructuras de datos, pero la programación no es su fuerte. Normalmente esto habría significado armar un equipo dedicado por rol, pasar por muchísimas reuniones y gestionar un flujo de trabajo complicado. Esta vez, la primera reunión solo fijó el esqueleto; él tomó las decisiones importantes y luego llenó el contexto detallado con Aura. Una vez fijada la dirección mediante puntos de control, construyó cada punto de control junto con Aura."
+        },
+        {
+          "t": "p",
+          "x": "Un ingeniero que veía la base de código por primera vez empezó a contribuir al proyecto en dos días usando Aura, y el trabajo principal terminó en dos semanas. Park comparó su enfoque con resolver un problema complejo junto a un socio muy inteligente. Empezaba con una tarea de diseño de la que estaba seguro, hacía preguntas predecibles para alinear la dirección, confirmaba que Aura había entendido la intención y luego pasaba a instrucciones más completas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0b/images/6a863f9f44200/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El trabajo avanzó por chat colaborativo en lugar de documentación tradicional. Cuando el ingeniero creaba una función nueva, subía activos de ejemplo al repositorio, y Park, en una zona horaria distinta, usaba Aura al día siguiente para entender lo que había llegado y crear contenido a partir de eso. Para unos pocos disparadores de tutorial complejos para los que finalmente no alcanzó el tiempo, hizo que Aura escribiera el código directamente. Así surgió el paso de recoger una venda de un esqueleto muerto."
+        },
+        {
+          "t": "p",
+          "x": "Aura explicaba los cambios de código en términos que él podía entender. Lo describió como algo parecido a una wiki en tiempo real exclusiva para su proyecto. Aun así, la verificación y las pruebas dentro del editor del juego seguían siendo tarea suya, y aunque Aura armaba bastante bien los widgets de interfaz y las conexiones de lógica, el acabado final quedaba en manos de un artista."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b9/images/6a863fa7ae362/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "También marcó una diferencia con el debate sobre el arte generativo. El código o los componentes estructurales están bajo el capó y se sienten lógicos, por lo que los ve como problemas que la IA puede resolver. El arte o la música, donde interviene la interpretación, cargan con mucho más peso en el propio proceso. Así, un trabajo que habría tomado 5-6 semanas se terminó en la mitad del tiempo."
+        }
+      ]
+    },
+    "design/design-docs-automation-line": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/How_To_Automate_Your_Design_System_Documentation_V1-2.png"
+        },
+        {
+          "t": "p",
+          "x": "La documentación es fácil de escribir y difícil de mantener. Los equipos de sistemas de diseño no suelen desmoronarse porque nadie escriba documentación. Se desmoronan porque, una vez que el código avanza, nadie mantiene la documentación fiel a la realidad."
+        },
+        {
+          "t": "p",
+          "x": "La solución no es “automatizarlo todo” ni “hacerlo todo a mano”. Se trata de separar qué partes de la documentación son hechos que se pueden extraer de una fuente de verdad y cuáles surgen del juicio humano. Zeroheight recomienda dividir la documentación en tres categorías."
+        },
+        {
+          "t": "p",
+          "x": "La primera es Mirrored (reflejada): contenido como props, valores de tokens, estados de componentes y números de versión, donde la fuente de verdad ya vive en otro lugar. Si la documentación y la fuente no coinciden, la documentación está equivocada por definición, así que no hay lugar para el juicio: simplemente se regenera por completo con cada cambio."
+        },
+        {
+          "t": "img",
+          "src": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/Illustration_1@2x-13.png"
+        },
+        {
+          "t": "p",
+          "x": "La segunda es Distilled (destilada): casos en los que existe la materia prima pero no el resultado final. Se acumulan commits pero no hay un changelog legible; hay discusiones en pull requests pero no notas de migración. Una máquina puede sacar un borrador, pero fijar el tono y decidir qué incluir o quitar, y luego dar el visto bueno, es trabajo de una persona."
+        },
+        {
+          "t": "p",
+          "x": "La tercera es Authored (redactada): contenido que solo existe en la cabeza de alguien, como por qué se eligió este patrón en lugar de otro, cuándo no usar este componente, o cuál era la intención de accesibilidad. No hay fuente de la que extraerlo, así que si se le encarga a una máquina, se lo inventa. El principio cabe en una línea: automatiza los hechos, escribe la historia."
+        },
+        {
+          "t": "p",
+          "x": "La estructura en sí es simple. Se conecta Zeroheight al repositorio para que el markdown se mantenga sincronizado directamente. Al hacer commit, un script genera el markdown; al abrir un pull request, la CI valida los archivos y construye un changelog a partir de los commits de ese PR. Al sincronizar, la herramienta de documentación toma la versión actualizada para que la documentación publicada coincida con el repositorio."
+        },
+        {
+          "t": "img",
+          "src": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/Illustration_3@2x-13.png"
+        },
+        {
+          "t": "p",
+          "x": "Hay cinco cosas que vale la pena automatizar: las tablas de props y API extraídas con el compilador de TypeScript; los changelogs que pasan el registro de git a un LLM para clasificarlo; las tablas de referencia de tokens que muestran los nombres de variables por plataforma junto con los valores reales; los informes de conformidad que vierten los resultados de pruebas de accesibilidad en markdown; y la información de colaboradores y propiedad gestionada mediante un archivo CODEOWNERS."
+        },
+        {
+          "t": "p",
+          "x": "Las guías de uso, los fundamentos, las notas de migración y lo que se puede o no se puede hacer siguen siendo trabajo humano, porque la verdad aquí no es un hecho que reposa en un archivo, sino una decisión que alguien tomó. El fallo viene de los dos lados: automatizar la narrativa produce ruido que suena plausible pero no tiene ninguna decisión detrás, y no automatizar los hechos hace que una tabla mantenida a mano se desalinee en silencio del código."
+        },
+        {
+          "t": "img",
+          "src": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/Illustration_4@2x-12.png"
+        },
+        {
+          "t": "p",
+          "x": "Hay tres rasgos que distinguen a la documentación automatizada confiable: determinismo, en el que la IA no interviene en nada tratado como hecho, de modo que la misma fuente siempre produce la misma salida; idempotencia, en la que el sistema decide por sí mismo si crear, actualizar u omitir un archivo, registrando un cambio solo cuando la realidad realmente cambia; y aplicación por CI, en la que una comprobación adjunta a cada script de generación hace que omitir el paso de documentación rompa la compilación."
+        }
+      ]
+    },
+    "design/design-figma-sightlines-agentic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a9356934cc1ec6efbbc4b737340f7d4143c3e9e2-480x480.png?w=1200&q=80&fit=max&auto=format",
+          "cap": "Sightlines, número 2"
+        },
+        {
+          "t": "p",
+          "x": "Sightlines es un boletín que Figma publica para líderes de diseño, producto e ingeniería. En cada número, líderes sénior de empresas como Cisco, OpenAI y Airbnb cuentan cómo están guiando el desarrollo de producto y el diseño en la era de la IA."
+        },
+        {
+          "t": "p",
+          "x": "El tema del número 2 son los productos agénticos: qué se necesita para construir herramientas lo bastante potentes y conocedoras como para contar como socios reales, manteniendo la confianza y la seguridad en el centro. Es la pregunta con la que los líderes han estado lidiando en eventos recientes, desde una charla del Chicago Leadership Collective hasta Config."
+        },
+        {
+          "t": "p",
+          "x": "La primera respuesta es que la confianza va primero. Los usuarios confían en un agente cuando este muestra su trabajo y cita sus fuentes. Los líderes deben exigir a sus equipos que integren ese nivel de transparencia y explicación en el producto desde el principio."
+        },
+        {
+          "t": "p",
+          "x": "También surgió el consejo de no dejar que “perfecto” bloquee un lanzamiento. Ver cómo se comporta realmente un producto agéntico una vez que sale al mundo también forma parte del aprendizaje. Una vez superado un umbral de confianza, basta con darle al equipo autoridad para lanzar e ir afinando según el uso real."
+        },
+        {
+          "t": "p",
+          "x": "Los puntos de control de gobernanza se fijan desde el principio. Todo el equipo debe acordar de antemano qué tareas rutinarias puede manejar un agente por sí solo y dónde tiene que quedarse sí o sí una persona. Manejar información de salud sensible es el ejemplo clásico de lo segundo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/30f2f73daae48e5afd10855e40c230b4a85b63fa-1920x1080.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Rachel Been, Charlie Sutton y Yuki Yamashita conversando en el escenario"
+        },
+        {
+          "t": "p",
+          "x": "También se recogieron comentarios hechos en el escenario. Thomas Vidal, VP de Diseño de Producto de Accor, dijo que el objetivo no es diseñar lo que la IA puede hacer, sino crear las condiciones y reglas que hacen que un sistema se comporte de forma consistente. Rachel Been, VP y responsable de Diseño de Expedia, dijo que no se puede sacar algo perfecto desde el primer día, que hay que aprender del uso y la ejecución reales, y que el rigor en las pruebas y el lanzamiento importa."
+        },
+        {
+          "t": "p",
+          "x": "Charlie Sutton, director de diseño de Atlassian, señaló que pronto se irá cediendo cada vez más control del flujo de trabajo a los agentes, pero que siempre tiene que quedar alguien responsable de lo que ese agente hace. Jake Alba, defensor de desarrolladores de Figma, añadió que el trabajo de un líder no es presionar más al equipo, sino redefinir qué significa “bueno” para que la gente vea vacíos que no habría visto por sí sola."
+        }
+      ]
+    },
+    "design/design-invisible-ai-features": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.adilaidev.com%2Fapi%2Fcover-brand%2F%3Fsrc%3Dhttps%253A%252F%252Fimages.pexels.com%252Fphotos%252F30530414%252Fpexels-photo-30530414.jpeg%253Fauto%253Dcompress%2526cs%253Dtinysrgb%2526h%253D650%2526w%253D940%26w%3D1200%26h%3D630"
+        },
+        {
+          "t": "p",
+          "x": "Las empresas siguen añadiendo funciones de IA asumiendo que los usuarios las recibirán bien. La realidad es otra. La mayoría no quiere una herramienta que complique más su trabajo. El problema no es la tecnología, sino cómo se incorpora."
+        },
+        {
+          "t": "p",
+          "x": "Las funciones de IA suelen llegar como un añadido. En lugar de integrarse en el flujo existente, hacen que el usuario se adapte a un sistema nuevo. Si a un empleado que ya hace malabares con varias herramientas se le suma una más, el flujo de trabajo se fragmenta. Lo que queda es baja adopción, frustración y recursos desperdiciados."
+        },
+        {
+          "t": "p",
+          "x": "Peor aún, la IA amplifica los problemas existentes. Si la calidad de los datos es mala o la toma de decisiones está desalineada, la IA no lo corrige, solo lo hace más visible. Los usuarios terminan dedicando tiempo a limpiar los errores que crea la IA, y el costo de verificar y corregir la salida suele superar el tiempo ahorrado."
+        },
+        {
+          "t": "p",
+          "x": "El autor Muhammad Adil resume en cinco motivos por qué la IA termina sintiéndose como una carga. Altera flujos de trabajo familiares y obliga a aprender un sistema nuevo. Introduce imprevisibilidad, haciendo que el trabajo se sienta menos confiable. Añade pasos para revisar alucinaciones o volver a generar resultados. Alimenta la inseguridad laboral en lugar de expectativas de eficiencia. Y llega sin invitación, sin una propuesta de valor clara."
+        },
+        {
+          "t": "p",
+          "x": "La gente no se resiste a la IA porque le disguste la tecnología, sino porque no resuelve su problema. Una función que no funciona de forma consistente se termina abandonando. La IA se juzga con el mismo criterio que cualquier otra herramienta."
+        },
+        {
+          "t": "p",
+          "x": "La IA que la gente realmente quiere no llama la atención sobre sí misma. Funciona en silencio en segundo plano, encargándose del trabajo que los usuarios no quieren hacer. Automatiza tareas repetitivas y tediosas; entra en un flujo existente en lugar de convertirse en una herramienta aparte; respeta cómo piensan y deciden los usuarios; es lo bastante confiable como para no tener que revisarla cada vez; y permanece invisible hasta que se necesita, y luego vuelve a desaparecer."
+        },
+        {
+          "t": "p",
+          "x": "De ahí también se deriva el orden de construcción: primero encontrar el trabajo que los usuarios no quieren hacer, luego diseñar la IA en torno al proceso ya existente de ese trabajo. No intentar cambiar al usuario. La confiabilidad no es negociable, así que hay que probarla rigurosamente, vigilar su rendimiento y seguir refinándola."
+        },
+        {
+          "t": "p",
+          "x": "La IA es una herramienta, no una bala de plata, y el valor de una herramienta depende de cómo se use. Adil sostiene que las empresas que triunfen con la IA no serán las que más funciones hayan añadido, sino las que resuelvan problemas reales sin crear otros nuevos."
+        }
+      ]
+    },
+    "design/design-figma-motion-plugin-show-your-work": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "AF4VD3dfUdc"
+        },
+        {
+          "t": "p",
+          "x": "Jamie Haberman, diseñadora de educación en Figma, muestra en este episodio de “Show Your Work” el proceso de construir un plugin de tipografía cinética con el agente de Figma. No hizo falta un tutorial de una hora."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida fue un pequeño placer. Quería añadir a un producto detalles como microinteracciones juguetonas o estados de carga, y se preguntó qué pasaría si el agente pudiera generar directamente dentro del archivo una secuencia de tipografía cinética. El objetivo era una herramienta reutilizable que diera vida a las letras."
+        },
+        {
+          "t": "p",
+          "x": "Al principio se quedó atascada tratando de poner en palabras el efecto que quería y los controles que necesitaba. De ahí sale el primer truco: no te limites a describirlo con palabras, muéstralo con una captura de pantalla. Funciona especialmente bien cuando el resultado ya está claro en tu cabeza pero cuesta transmitirlo. El agente también identificó rápido qué controles hacían falta para lograr los visuales, el movimiento y el estilo que quería."
+        },
+        {
+          "t": "p",
+          "x": "Hubo momentos en que el plugin solo producía fotogramas estáticos en el lienzo, uno tras otro, en lugar de keyframes de movimiento en la línea de tiempo. Al mirar atrás, nunca había dicho que fijara keyframes. Es mejor nombrar por su nombre la función o herramienta exacta que quieres que use. En el momento en que especificó usar Motion, aparecieron keyframes reales en la línea de tiempo, y muchos. Como los controles ya estaban hechos, no tuvo que tocar la línea de tiempo a mano: lo reconstruyó y lo ajustó todo desde el plugin."
+        },
+        {
+          "t": "p",
+          "x": "Hay algo más que aprendió por el camino: se puede pedir que se incluya una vista previa en vivo dentro del propio plugin. En cuanto la vista previa se incorporó a la interfaz, su forma de trabajar cambió por completo. En vez de generar, esperar, generar de nuevo y esperar, arrastrar un control deslizante cambiaba las cosas al instante. Reducir 12 líneas a 8, subir la frecuencia, aumentar la amplitud en X para que el movimiento fuera más audaz y rotar las letras: todo ocurrió dentro de la vista previa."
+        },
+        {
+          "t": "p",
+          "x": "Las indicaciones empezaron en pequeño, con un par de controles 2D. Funcionó bien ver cómo el agente manejaba cada paso antes de añadir el siguiente. Empezar en pequeño e ir sumando le muestra a uno qué está construyendo el agente y deja ver el proceso. Cuando las cosas van por mal camino o el resultado se desvía, conviene retroceder pronto en lugar de desenredar el ovillo más adelante."
+        },
+        {
+          "t": "p",
+          "x": "Después de ver lo rápido que surgían los preajustes 2D, preguntó si se podían envolver letras alrededor de un objeto 3D. Mientras seguía con las indicaciones, el agente empezó a proponer por su cuenta controles que ni siquiera había pedido, como fase de dispersión o inclinación 3D. En el preajuste de globo, el tipo envuelve una esfera 3D, y al inclinar la orientación, la vista previa en vivo la seguía en tiempo real. Entre los dos lo fueron construyendo mediante un intercambio de ida y vuelta, sin planear todo de antemano."
+        },
+        {
+          "t": "p",
+          "x": "Hay cuatro trucos. Muestra el resultado que quieres con una captura de pantalla. Nombra por su nombre la función de Figma que quieres que use. Pide una vista previa en vivo para ver los controles moverse en tiempo real. Empieza con unos pocos controles y ve sumando las sugerencias del agente."
+        }
+      ]
     }
   }
 }

@@ -2461,6 +2461,113 @@
           "x": "真正的问题是,Mac用户会不会放着Claude或ChatGPT不用,改用Siri应用。归根结底还是看产出质量。在询问世界知识或个人语境的问题上,Siri应用表现不错,但面对更复杂的提问,人们依然会用Claude。如果苹果持续打磨Siri AI和Apple Intelligence,这个取舍也可能改变。"
         }
       ]
+    },
+    "gadgets/gadgets-xreal-aura": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg",
+          "cap": "XREAL AURA | Courtesy XREAL"
+        },
+        {
+          "t": "p",
+          "x": "Xreal在8月20日宣布,Aura的全球预订量已突破一万台。这是首款搭载谷歌安卓XR系统的AR眼镜。"
+        },
+        {
+          "t": "p",
+          "x": "该公司将这一数字视为消费者、开发者和企业客户早期需求强劲的信号。发售时可兑换199美元积分的99美元预订已经售罄,而可退款的199美元预订金仍在接受中。"
+        },
+        {
+          "t": "p",
+          "x": "最终价格仍未公布。约一万笔可退款预订中,部分可能会在价格确定后退出。Xreal目前透露的唯一底线是,税前价格不会超过1500美元。"
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/06/xreal-aura-android-xr-2-edited.jpg",
+          "cap": "XREAL AURA | Courtesy XREAL"
+        },
+        {
+          "t": "p",
+          "x": "光学方案与Xreal此前产品相同,采用鸟浴式(birdbath)设计。视野角为70度,佩戴在头部的重量不到95克,其余重量由通过线缆连接的口袋大小运算装置分担。Aura将运算拆分为两部分:XR处理和AI任务由高通骁龙Reality Elite负责,显示和传感器处理则由自研的X1S空间辅助处理器负责。"
+        },
+        {
+          "t": "p",
+          "x": "与其他只能把现有内容投射到虚拟屏幕上的鸟浴式眼镜不同,6DoF追踪、手部追踪和多模态AI体验都运行在安卓XR之上。它可以直接使用Play商店里的安卓应用,以及不断增加的XR应用。发售定在2026年秋季,价格和销售时间安排将在未来几周内公布。"
+        }
+      ]
+    },
+    "gadgets/gadgets-hilight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 11 Pro新增的HiLight通知灯，开箱即用的状态下几乎没什么用处。默认设置下只有两种情况会亮：把手机正面朝下使用Gemini时，以及收藏联系人来电时。颜色也只能从五种里选。"
+        },
+        {
+          "t": "p",
+          "x": "这项曾在老款Android手机上备受喜爱的功能就这样被锁死推出，于是开发者先一步动手了。X用户Dhananjay_Tech做的HiLight Studio几乎可以随心操控这整排LED：收到含特定关键词的Slack通知时让它以彩虹色脉动，收到短信时让绿光像波浪一样滚动。连每个周期的时序、亮度、强度和饱和度都能调整。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-3.jpg?quality=90&strip=all&w=2400",
+          "cap": "默认界面"
+        },
+        {
+          "t": "p",
+          "x": "与谷歌官方功能不同，颜色可以从预设的八种里选，也可以用颜色滑块自己定。还有导出和导入预设的功能，可以和朋友互相传递。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "目前还没上架Play商店。得从GitHub下载，侧载几个应用，解锁开发者选项，再改几处手机设置才能跑起来。评测人David Imel的看法是：它不像普通应用那么简单，但如果你愿意折腾，这份麻烦是值得的。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-4.jpg?quality=90&strip=all&w=2400"
+        }
+      ]
+    },
+    "gadgets/gadgets-homepad-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "有迹象显示，预计今秋推出的苹果新智能家居中枢——通常被称为“HomePad”的产品——会加入Apple Watch风格的“表盘”。9to5Mac的反应是：这又多了一个想在家里每个房间都放一台的理由。"
+        },
+        {
+          "t": "p",
+          "x": "距离Mark Gurman详细报道这款产品已经快两年了。苹果原定2025年初发布，但因Siri AI延期而被推后，如今预计最快下个月就会亮相。"
+        },
+        {
+          "t": "p",
+          "x": "作者列出了四个值得期待的点：比以前的Siri好用得多的Siri AI、Apple Photos的幻灯片和“回忆”功能、安全摄像头功能，以及能在屏幕上显示歌词和封面图的Apple Music。只要价格合适，作者说几乎每个房间都想放一台。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-faces-variety.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "再加上本周从代码中发现的“表盘”和“表盘图库”。从目前来看，是挑选小组件放进去、还能叠加智能叠放的形式，看起来会按一天中的不同时段显示不同的小组件。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp"
+        },
+        {
+          "t": "p",
+          "x": "如果表盘可以自由更换，HomePad就会因所在房间而呈现不同的性格。这意味着厨房、客厅、卧室可以分别设置不同的小组件和布局，这就给人一个买好几台的理由。作者写道，希望HomePad这次的跳票到此为止。"
+        }
+      ]
     }
   }
 }

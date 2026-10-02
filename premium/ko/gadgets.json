@@ -7371,6 +7371,79 @@
           "x": "관건은 맥 사용자가 Claude나 ChatGPT 대신 Siri 앱을 집어 드느냐다. 결국 결과물의 질에 달렸다. 세상 지식이나 개인 맥락을 묻는 질문에는 Siri 앱이 좋았지만, 더 복잡한 질의에는 여전히 Claude를 쓴다. 애플이 Siri AI와 애플 인텔리전스를 계속 다듬으면 그 판단도 바뀔 수 있다."
         }
       ]
+    },
+    "gadgets/gadgets-hilight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "픽셀 11 프로에 새로 들어간 HiLight 알림 LED는 상자에서 꺼낸 상태로는 쓸 데가 거의 없다. 기본 설정에서 불이 들어오는 경우는 둘뿐이다. 폰을 엎어놓고 제미나이를 쓸 때, 그리고 즐겨찾기에 넣어둔 상대에게 전화가 올 때. 색도 다섯 가지 중에서만 고른다."
+        },
+        {
+          "t": "p",
+          "x": "예전 안드로이드 폰에서 사랑받던 기능이 이렇게 묶여 나오자 개발자 쪽이 먼저 움직였다. X 사용자 Dhananjay_Tech가 만든 HiLight Studio는 이 LED 배열을 사실상 원하는 대로 다룬다. 특정 단어가 든 슬랙 알림이 오면 무지개색으로 맥동시키고, 문자가 오면 초록빛이 물결처럼 돌게 하는 식이다. 주기당 타이밍과 밝기, 강도, 채도까지 손댄다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-3.jpg?quality=90&strip=all&w=2400",
+          "cap": "기본 화면"
+        },
+        {
+          "t": "p",
+          "x": "구글 공식 기능과 달리 색은 미리 잡아둔 여덟 가지에서 고르거나 색상 슬라이더로 직접 정한다. 프리셋을 내보내고 불러오는 기능도 있어서 친구와 주고받기도 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "아직 플레이 스토어에는 없다. 깃허브에서 받아 앱 몇 개를 사이드로드해야 하고, 개발자 설정을 풀고 폰 설정도 몇 군데 만져야 돌아간다. 보통 앱만큼 간단하진 않아도 감수할 생각이 있다면 그만한 값은 한다는 게 리뷰어 데이비드 이멜의 평이다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-4.jpg?quality=90&strip=all&w=2400"
+        }
+      ]
+    },
+    "gadgets/gadgets-homepad-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "올가을 나온다는 애플의 새 스마트홈 허브, 흔히 '홈패드'라 불리는 제품에 애플 워치식 '페이스'가 들어간다는 정황이 나왔다. 집 안 방마다 하나씩 두고 싶은 이유가 하나 더 늘었다는 게 9to5Mac의 반응이다."
+        },
+        {
+          "t": "p",
+          "x": "마크 거먼이 이 제품을 자세히 다룬 지 2년 가까이 지났다. 애플은 2025년 초 출시를 잡아뒀다가 시리 AI 지연에 밀렸고, 지금은 이르면 다음 달 데뷔가 점쳐진다."
+        },
+        {
+          "t": "p",
+          "x": "필자가 꼽은 기대 요소는 넷이다. 예전 시리보다 훨씬 쓸 만해진 시리 AI, 애플 사진의 슬라이드쇼와 추억, 보안 카메라 기능, 그리고 가사와 아트워크를 화면에 띄우는 애플 뮤직. 가격만 맞으면 거의 모든 방에 두겠다는 이야기다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-faces-variety.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "여기에 이번 주 코드에서 발견된 '페이스'와 '페이스 갤러리'가 더해졌다. 위젯을 골라 넣고 스마트 스택까지 얹는 형태로 보여서, 하루 중 시간에 따라 다른 위젯이 뜨는 식으로 굴러갈 듯하다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp"
+        },
+        {
+          "t": "p",
+          "x": "페이스를 자유롭게 바꾼다면 홈패드는 놓인 방에 맞춰 성격이 달라진다. 주방과 거실, 침실마다 위젯과 배치를 따로 잡는다는 뜻이라 여러 대를 살 이유가 생긴다. 필자는 홈패드 연기가 이번으로 끝나기를 바란다고 적었다."
+        }
+      ]
     }
   }
 }

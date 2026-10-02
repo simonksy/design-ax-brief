@@ -1991,6 +1991,415 @@
           "x": "Los intentos de incorporar IA al diseño y la fabricación de semiconductores se han multiplicado en los últimos años. Hay casos que han reducido los ciclos de diseño de semanas a horas y han bajado mucho los costos de fabricación, y existen sistemas que generan diseños de chip utilizables a partir de un simple mensaje de 200 palabras. AlphaChip, de Google, produjo distribuciones calificadas de “sobrehumanas” y se usó realmente en la producción en serie de los chips de IA de la empresa."
         }
       ]
+    },
+    "science/science-attribution-decay": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando un generador de imágenes con IA produce un retrato, ¿de quién es el trabajo que hay dentro? Las demandas, las negociaciones de licencias y los proyectos de regulación de cada país descansan sobre esta pregunta."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202608/dai-gifford-ai-image-training-data-00_1.png?itok=5rChOBMS",
+          "cap": "Arriba a la izquierda, una imagen producida por un modelo entrenado con obras de dominio público dejadas por 744 artistas. El resto son las imágenes que habrían resultado de quitar, una a una, a cada uno de esos artistas. Crédito: collage cortesía de los investigadores"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores del Laboratorio de Ciencias de la Computación e Inteligencia Artificial del MIT (CSAIL) dicen que, en modelos entrenados con grandes conjuntos de datos, a menudo no hay respuesta. No es que falten herramientas para encontrarla: la conexión misma ha desaparecido. Los investigadores llaman a este fenómeno “decaimiento de atribución” (attribution decay). Cuanto más crecen los datos de entrenamiento, menor es la parte que un solo ejemplo ocupa en una salida determinada, así que quitar una imagen, o quitar toda la obra de un artista, dejaba el resultado igual."
+        },
+        {
+          "t": "p",
+          "x": "“Si quitar un dato no cambia la salida, ese dato no influyó en la salida. Si se prueba lo mismo con el resto, uno por uno, y ninguno la cambia, no hay base para atribuir la salida a ninguno de ellos,” dijo el autor principal Zheng Dai, exinvestigador del MIT CSAIL."
+        },
+        {
+          "t": "p",
+          "x": "“Todos los métodos anteriores eran aproximaciones,” señaló el investigador principal del MIT CSAIL, el profesor David Gifford. “No podían demostrar de forma concluyente que quitar datos individuales no cambiaría la salida. Este artículo es el primero en ofrecer un método exacto.” El estudio se publicó en Nature Communications."
+        },
+        {
+          "t": "p",
+          "x": "Para responder honestamente qué habría producido el modelo si nunca hubiera visto una imagen dada, habría que reentrenarlo desde cero sin esa imagen. Con millones de ejemplos, eso es inmanejable, así que trabajos anteriores se apoyaron en aproximaciones. Los investigadores construyeron su propio “ensemble de difusión”: en vez de un solo modelo grande, está compuesto de muchas piezas más pequeñas, cada una entrenada con una porción de los datos, de modo que para saber qué pasaría sin una imagen dada basta con apagar las piezas que la vieron."
+        },
+        {
+          "t": "p",
+          "x": "Frente a 24 modelos de difusión existentes entrenados con los mismos datos, la calidad de imagen fue comparable según métricas estándar. Dai dijo: “El rendimiento es peor cuando hay poca información, pero escala mejor que los modelos de difusión estándar cuando los datos aumentan.”"
+        },
+        {
+          "t": "p",
+          "x": "Para una sola imagen generada, los investigadores llaman “universo contrafactual” al conjunto de alternativas que habrían resultado de quitar, una por una, cada dato de entrenamiento. El radio contrafactual —la distancia hasta la alternativa que más difiere del original— es la diferencia máxima que pudo haber causado un solo dato. Entrenaron 24 ensembles en siete colecciones públicas, incluidas CIFAR-10, CelebA, MetFaces y ArtBench, con conjuntos de datos de entre 256 imágenes y más de 160,000. Cuanto mayores eran los datos de entrenamiento, más se reducía el radio, siguiendo una ley de potencia inversa."
+        },
+        {
+          "t": "p",
+          "x": "Gifford considera que esto incide directamente en la pregunta legal de si las salidas del modelo son obras derivadas. “Estos modelos crean cosas. Si su salida no tiene relación con ningún dato de entrenamiento individual, ¿qué pasa con el uso justo, y cómo se compensa a los creadores cuando lo que sale de un modelo no puede atribuirse a nada de internet?”"
+        },
+        {
+          "t": "p",
+          "x": "La investigación se centró en modelos de difusión. Si el mismo decaimiento aparece en los modelos de lenguaje de gran tamaño, que están en el centro de las demandas por copyright, sigue siendo una pregunta abierta. El profesor de la Facultad de Derecho de Cornell James Grimmelmann dijo que esto “da motivos para pensar que la atribución también fallará en los modelos más interesantes.”"
+        }
+      ]
+    },
+    "science/science-dna-memristor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El ADN es el plano de todo ser vivo y también resulta extraordinario por la densidad con la que almacena información: unos 215 millones de gigabytes por gramo. Traer ese poder de almacenamiento a los dispositivos electrónicos mejora la eficiencia y la velocidad de procesamiento de los centros de datos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/dna-research-genetics-technology.webp",
+          "cap": "Los científicos han introducido ADN dentro de un dispositivo electrónico. Es un dispositivo de memoria que almacena enormes cantidades de información con muy poca energía. Crédito: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "El reto era lograr que el ADN biológico funcionara correctamente junto con materiales electrónicos. Investigadores de Penn State presentaron una forma de superar esa incompatibilidad. El trabajo se publicó en Advanced Functional Materials y también se ha presentado una solicitud de patente. Se apoya en dos pilares: ADN sintético, hecho de moléculas sintetizadas químicamente disponibles comercialmente y organizadas en secuencias de bases cortas adaptadas a las necesidades de los dispositivos electrónicos, y perovskita cristalina, un semiconductor ya usado en celdas solares y láseres."
+        },
+        {
+          "t": "p",
+          "x": "“La biología y la electrónica son dominios distintos,” dijo la coautora correspondiente Kavya S. Keremane, investigadora postdoctoral en ciencia e ingeniería de materiales en Penn State. “Combinamos la capacidad de almacenamiento de información del ADN con las excelentes propiedades electrónicas de los semiconductores de perovskita para crear un sistema biohíbrido que cambia la forma misma en que se diseñan los dispositivos de memoria de bajo consumo.”"
+        },
+        {
+          "t": "p",
+          "x": "Lo que produce este material es una resistencia de memoria, o “memristor”, que funciona con muy poca energía. Una resistencia normal pierde la información almacenada cuando se corta la energía, pero un memristor recuerda en qué dirección fluyó la corriente. Eso le permite almacenar y procesar información en el mismo lugar, de forma parecida a como trabajan las neuronas del cerebro."
+        },
+        {
+          "t": "p",
+          "x": "“A medida que crece la demanda de IA, necesitamos nuevas estrategias para dispositivos de bajo consumo y alta capacidad,” dijo el coautor correspondiente Bed Poudel, profesor investigador de ciencia e ingeniería de materiales. Él cree que la IA y otras tecnologías emergentes dependerán cada vez más de la computación neuromórfica, diseñada para funcionar como el cerebro humano. “Normalmente, almacenar más información requiere más energía. Pero nuestro dispositivo usa 100 veces menos energía y ofrece una capacidad de almacenamiento mayor que dispositivos existentes como las unidades flash.”"
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo se construyó añadiendo nanopartículas de plata a una capa de secuencias de ADN diseñadas a medida y combinándola con una película fina de perovskita. Al añadir las nanopartículas de plata, el ADN se volvió conductor y las moléculas quedaron alineadas con más orden. El ADN natural es una hebra larga y enredada que, al manipularla, se comporta como espagueti mojado, pero el ADN sintético, corto y rígido, se organiza con mucha más precisión a escalas ultrapequeñas. La coautora Neela H. Yennawar, profesora investigadora en los Huck Institutes of the Life Sciences, dijo que esto convierte al ADN de un biopolímero en una plataforma de nanomaterial programable y multifuncional."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el ADN dopado con plata se combinó con la perovskita, se creó una vía biohíbrida por la que podía fluir la corriente. Los electrones se movían de forma estable con voltajes inferiores a 0.1 voltios. Un enchufe doméstico estadounidense estándar funciona a 120 voltios. El dispositivo siguió funcionando a temperaturas cercanas a los 250 grados Fahrenheit y mantuvo su función durante más de seis semanas a temperatura ambiente, superando ampliamente los estándares de rendimiento de la memoria existente basada en perovskita. Ofreció la misma función de memoria usando una décima parte de la energía de tecnologías comparables."
+        },
+        {
+          "t": "p",
+          "x": "“Ni el ADN solo ni la perovskita sola produjeron resultados tan robustos,” dijo Keremane. “Es esta combinación la que logra una densidad de almacenamiento de memoria muy alta con muy poca energía.” Poudel dijo: “La naturaleza tiene las respuestas. Solo tenemos que encontrarlas y aplicarlas.”"
+        }
+      ]
+    },
+    "science/science-tissue-clocks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores del Centro de Investigación en Medicina Molecular de la Academia Austriaca de Ciencias (CeMM) y el Instituto Ludwig Boltzmann de Medicina en Red de la Universidad de Viena (LBI-NetMed) construyeron un “reloj de tejidos” con IA que estima la edad biológica de los órganos humanos a partir de imágenes de tejido. Al analizar más de 25,000 muestras en 40 tipos de tejido, mostraron que los órganos envejecen a ritmos distintos y que ese cambio también puede detectarse en la sangre. El estudio se publicó en Nature Medicine (DOI: 10.1038/s41591-026-04566-5)."
+        },
+        {
+          "t": "p",
+          "x": "Hay personas que tienen sesenta años pero se ven y viven como de cuarenta y cinco. ¿Envejece el hígado de forma distinta al cerebro? ¿Se puede medir la brecha entre la edad del pasaporte y la edad biológica de cada órgano?"
+        },
+        {
+          "t": "p",
+          "x": "El estudio fue dirigido por el investigador principal André Rendeiro. Mientras que estudios anteriores se centraron sobre todo en cambios moleculares como la metilación del ADN o la expresión génica, este equipo examinó cómo cambia con el tiempo la propia estructura del tejido."
+        },
+        {
+          "t": "p",
+          "x": "El material provino del proyecto Genotype-Tissue Expression (GTEx). El equipo recolectó 40 tipos de tejido de 983 personas, desde el cerebro y el corazón hasta los pulmones, el páncreas, la piel y los intestinos. Analizaron 25,712 imágenes digitalizadas de alta resolución de secciones de tejido —unos 480 millones de mosaicos al dividirlas— usando modelos de visión de última generación."
+        },
+        {
+          "t": "p",
+          "x": "Incluso sin que se le enseñara la edad directamente, la edad surgió como el factor más fuerte para distinguir la apariencia del tejido en los 40 tipos de tejido. A partir de esto, el equipo construyó un “reloj de tejidos”: un modelo distinto para cada órgano que predice la edad biológica solo a partir de la apariencia del tejido. El error de predicción promedio fue de 4.9 años, y superó a las estimaciones de envejecimiento basadas en ADN a la hora de detectar patología específica de cada tejido. La edad predicha también estuvo fuertemente ligada al acortamiento de los telómeros, la patología del tejido y el número de enfermedades crónicas."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestros tejidos registran el proceso de envejecimiento con un detalle sorprendente,” dijo el autor correspondiente André Rendeiro. “Combinar imágenes de tejido con inteligencia artificial nos permite captar patrones de envejecimiento invisibles al ojo humano.”"
+        },
+        {
+          "t": "p",
+          "x": "El envejecimiento no llegó de forma uniforme. Los pulmones, los riñones, el páncreas y las glándulas suprarrenales ya mostraban señales de envejecimiento acelerado entre los 20 y los 40 años. El útero mostró cambios especialmente marcados alrededor de la menopausia. La insuficiencia renal se relacionó con señales de envejecimiento acelerado en varios tejidos, y la diabetes con cambios distintivos en el páncreas."
+        },
+        {
+          "t": "p",
+          "x": "“Lo que llama la atención es cuán distinto envejece cada órgano, y cómo eso se refleja en la estructura del tejido,” dijo el coprimer autor Ernesto Abila. “Leer estos patrones espaciales con aprendizaje profundo capta el envejecimiento no solo como una deriva molecular, sino como una remodelación estructural.”"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores vincularon los perfiles de expresión génica en sangre con las brechas de edad obtenidas del tejido en las mismas personas, y construyeron un predictor que estima la edad biológica de cada órgano solo a partir de la sangre. La coprimera autora Iva Buljan lo llamó “un salto conceptual que traslada el lenguaje del envejecimiento de los tejidos aprendido de las imágenes a algo legible a partir de una extracción de sangre.” El predictor detectó patrones de envejecimiento en la enfermedad de Alzheimer, la enfermedad de Crohn, la fibrosis quística, la vasculitis, la diabetes y el accidente cerebrovascular."
+        },
+        {
+          "t": "p",
+          "x": "“Cada órgano envejece de forma distinta, y el proceso parece estar moldeado tanto por factores sistémicos como por factores específicos del tejido,” dijo el coprimer autor Yimin Zheng. De cara al futuro, este enfoque podría dar lugar a diagnósticos mínimamente invasivos que usen análisis de sangre para monitorear la salud de los órganos y el avance de las enfermedades."
+        }
+      ]
+    },
+    "science/science-blue-skies-contrails": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las estelas de condensación, esas líneas blancas que dejan los aviones en cielos despejados, son nubes que se forman cuando el vapor de agua se aglutina alrededor de partículas de hollín del escape de los motores a reacción. Parecen inofensivas, pero el calentamiento que provocan representa alrededor de un tercio del impacto climático de la aviación."
+        },
+        {
+          "t": "p",
+          "x": "Google ha venido colaborando con distintos actores de la industria desde que publicó una investigación inicial sobre el uso de IA para reducir el calentamiento por estelas. Junto con aerolíneas como American Airlines, proveedores de servicios de navegación aérea como el MUAC de EUROCONTROL, y empresas de software de planificación de vuelos como FlightKeys, demostró que evitar las estelas funciona tanto científicamente como en la realidad operativa. Los pilotos y controladores que recibieron pronósticos de IA ajustaron ligeramente las rutas dentro de su margen habitual de operación para evitar zonas sensibles a las estelas."
+        },
+        {
+          "t": "p",
+          "x": "Esta vez, el esfuerzo va más allá de las pruebas de aerolíneas individuales y se extiende a toda una ruta. Google y el gobierno del Reino Unido están lanzando Operation Blue Skies, la primera prueba del mundo respaldada por un gobierno para evitar estelas a escala de un espacio aéreo oceánico. El escenario es el espacio aéreo de Shanwick, la mitad oriental del corredor del Atlántico Norte. Alrededor del 5% del calentamiento por estelas a nivel mundial proviene de esta zona."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Shanwick_Oceanic_Diagram.width-1600.format-webp.webp",
+          "cap": "Espacio aéreo oceánico de Shanwick."
+        },
+        {
+          "t": "p",
+          "x": "El programa de 30 meses está estructurado en torno a dos pruebas operativas, cada una de unos cuatro meses de duración. Durante los periodos de prueba, unos 10.000 vuelos al año pasan por el espacio aéreo de Shanwick, procedentes de cientos de ciudades. Solo el subconjunto de esos vuelos que atraviesa el espacio aéreo sensible a las estelas ajustará ligeramente su ruta para evitar que se formen estelas con un fuerte efecto de calentamiento."
+        },
+        {
+          "t": "p",
+          "x": "Evitar estelas a escala de un espacio aéreo exige que la ciencia, la tecnología y la gestión del tráfico aéreo trabajen juntas. Google UK construye los modelos de IA que predicen y evitan las estelas, y hace seguimiento y validación de los efectos mediante aprendizaje automático e imágenes satelitales. NATS, el principal proveedor de servicios de navegación aérea del Reino Unido, se encarga de operar el espacio aéreo de prueba, coordinar con los controladores, evaluar la seguridad y formar a los controladores. Contrails.org dirige la evaluación de los pronósticos, el diseño de la prueba y el análisis de datos. Imperial College London y la Universidad de Cambridge evalúan los resultados de la prueba y verifican de forma independiente los efectos climáticos. El Met Office desarrolla la nueva capacidad del Reino Unido para pronosticar estelas y gestiona la precisión meteorológica."
+        },
+        {
+          "t": "p",
+          "x": "La financiación proviene conjuntamente de socios de la industria y del Departamento de Transporte (DfT) a través del Programa ATI. El Programa ATI lo gestionan conjuntamente el Instituto de Tecnología Aeroespacial (ATI), el Departamento de Negocios, Innovación, Ciencia y Tecnología (BIST) e Innovate UK. Para que la financiación pública vaya directamente a la capacidad científica nacional, el 100% de la subvención del gobierno se asigna directamente a socios académicos, sin fines de lucro y de aviación. Google UK participa sin remuneración, aportando un apoyo en especie valorado en 1,4 millones de libras en capacidad de investigación en IA, tiempo de ingeniería e infraestructura de computación de alto rendimiento."
+        },
+        {
+          "t": "p",
+          "x": "Las estelas se cuentan entre los problemas climáticos más urgentes y, al mismo tiempo, más solucionables que enfrenta la aviación. Las investigaciones muestran que evitar las estelas es una de las formas más rentables de reducir el impacto climático de la aviación. Operation Blue Skies busca demostrar que este problema puede resolverse realmente en operaciones reales, y dejar un modelo validado para reducir de forma significativa el impacto climático mediante la gestión del espacio aéreo."
+        }
+      ]
+    },
+    "science/science-recursive-self-improvement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg",
+          "cap": "Credit: Stephanie Arnett/MIT Technology Review | Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "La promesa más audaz que hace hoy la industria de la IA es la automejora recursiva: la idea de que la IA pronto se mejorará a sí misma con poca intervención humana. Los LLM ya escriben código, generan datos sintéticos de entrenamiento y optimizan los chips en los que se ejecutan."
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo estudio sugiere que ese momento está más lejos de lo que parece. Los investigadores confirmaron que los agentes de IA todavía no pueden llevar a cabo investigación de IA de final abierto, es decir, una indagación libre sin una respuesta predeterminada que exige criterio y discernimiento."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo multiinstitucional dirigido por Peter Kirgis y Sayash Kapoor, de la Universidad de Princeton, descubrió que los agentes pueden resolver los problemas de ingeniería que requiere la investigación en IA, pero carecen del criterio y la creatividad necesarios para producir trabajo original digno de las mejores conferencias de aprendizaje automático. Es una señal de que los plazos optimistas para automatizar la investigación en IA se han adelantado a la evidencia."
+        },
+        {
+          "t": "p",
+          "x": "Las evaluaciones existentes solían abordar tareas acotadas cuyas respuestas podían verificarse. Los investigadores propusieron en cambio una “evaluación sombra”: plantear a la IA la pregunta de investigación exacta de un artículo sólido que aún no se había publicado. Los objetivos fueron dos artículos presentados a NeurIPS 2026. Uno preguntaba si la edición de pesos podía controlar las “personas” que rigen el comportamiento de un modelo; el otro pedía un detector capaz de identificar cuándo un modelo que predice a partir de datos tabulares pierde fiabilidad. Como los artículos aún no eran públicos, no había forma de memorizar ni buscar las respuestas."
+        },
+        {
+          "t": "p",
+          "x": "El experimento usó Claude Opus 4.8, de Anthropic, ejecutándose sobre el software de código abierto OpenClaw. Cada agente recibió seis días, 3.000 dólares en créditos de la API de Anthropic, un presupuesto de GPU, su propia computadora virtual y acceso a la web. Los propios autores de los artículos originales calificaron el trabajo, como si revisaran para una conferencia."
+        },
+        {
+          "t": "p",
+          "x": "La ingeniería estuvo bien. Los agentes revisaron la literatura, ejecutaron cientos de experimentos y organizaron los resultados. “Pero eran claramente malos para hacer la investigación en sí”, dice Kapoor. Realizaron experimentos extraños, como probar hipótesis con cantidades mínimas de datos sintéticos, no lograron redactar su propio trabajo con claridad y no dejaron ninguna contribución nueva."
+        },
+        {
+          "t": "p",
+          "x": "Lo que los frenó fue la creatividad y el criterio. No exploraron suficientes ideas antes de aferrarse demasiado rápido a un enfoque sin salida. Llegaron a hipótesis ambiciosas parecidas a las que los autores originales habían planteado al principio, pero las abandonaron por su cuenta tras ver solo datos débiles. No pudieron retroceder de caminos fallidos ni replantear su enfoque. No hubo manipulación de recompensas: ni ocultamiento ni distorsión de resultados."
+        },
+        {
+          "t": "p",
+          "x": "El estudio tiene límites. Solo abarcó dos artículos, y quienes calificaron sabían que el trabajo venía de una IA. Los investigadores están realizando ahora el mismo experimento con Mythos, el modelo más reciente de Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "Jack Clark, cofundador de Anthropic, escribió en su boletín Import AI que “los sistemas de IA actuales carecen de forma constante de una creatividad valiosa e intuitiva, y pueden ser ingenieros extremadamente competentes y aun así tener hábitos de pensamiento mecánicos y formulaicos que les dificulten ser buenos investigadores”. Lo llamó una “señal bajista” para los plazos cortos hacia la automejora recursiva."
+        },
+        {
+          "t": "p",
+          "x": "Kapoor resume así la pregunta que queda abierta: “Como la invención del transformer, todo gran avance en este campo ha requerido un salto creativo”. Si basta con machacar tareas acotadas para llegar también a la automejora es, según él, “la pregunta del billón de dólares en este momento”."
+        }
+      ]
+    },
+    "science/science-agent-scale": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Incluso el mismo modelo de IA, haciendo la misma tarea, puede llegar a conclusiones opuestas según cuántos se agrupen. Un nuevo estudio publicado en Proceedings of the National Academy of Sciences (PNAS) afirma que cuando los agentes de IA interactúan en grupo, el número de individuos determina el resultado."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/more-is-different-when.jpg",
+          "cap": "La interacción puede amplificar el sesgo individual, crear un sesgo que no existía, o invertirlo. Fuente: PNAS (2026). DOI: 10.1073/pnas.2531697123"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores recurren a una analogía humana. Una familia funciona de forma distinta a un pueblo, una ciudad o un país. Al crecer la escala, surgen nuevas reglas y normas. Los autores creen que los sistemas de IA funcionan igual."
+        },
+        {
+          "t": "p",
+          "x": "El estudio, una colaboración entre investigadores de City St George's, University of London, la IT University of Copenhagen y la Universidad Politécnica de Cataluña, llega en un momento en que la IA multiagente se expande hacia las finanzas, la energía, la defensa y las redes sociales. La investigación sobre seguridad y alineación sigue centrada mayormente en modelos individuales."
+        },
+        {
+          "t": "p",
+          "x": "El experimento usó un “juego de nombrar” que muestra cómo surgen las convenciones. Agentes emparejados al azar eligen una palabra de un conjunto compartido y reciben una recompensa si coinciden. Tras repetidas rondas, el grupo converge por sí solo hacia una convención compartida, algo parecido a cómo la cultura humana construye normas. Los investigadores probaron cuatro modelos —Phi-4 de Microsoft, GPT-4o de OpenAI, QwQ-32B de Alibaba y Llama 3.1 70B Instruct de Meta— con pares de palabras con carga social, como {man, woman} o {straight, gay}. La escala fue de dos agentes hasta un millón."
+        },
+        {
+          "t": "p",
+          "x": "Había tres vías por las que la interacción alejaba a un grupo de la preferencia individual: amplificar una tendencia existente hasta hacer la convergencia casi segura, llevar a un grupo que partía de la neutralidad a elegir de forma constante una palabra, o invertir del todo la preferencia, de modo que el grupo se asentara en la palabra que cada agente evitaba individualmente."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados variaron según el modelo. Para el par {her, his}, los grupos de QwQ y Phi convergieron en “her”, mientras que los de GPT y Llama convergieron en “his”, aunque sus preferencias iniciales eran casi idénticas."
+        },
+        {
+          "t": "p",
+          "x": "A mayor escala, los resultados se volvieron predecibles y convergieron con casi total certeza en todos los modelos y pares de palabras. Sin embargo, el punto crítico varió mucho según la combinación: algunas necesitaban solo dos agentes, otras unos 10.000. Para {straight, gay}, los agentes Llama preferían individualmente “straight”, pero al superar los seis agentes el grupo se invirtió hacia “gay”. Por debajo de ese número no se observó ningún efecto."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores también construyeron una teoría interpretativa tomada de la física estadística. Predice el comportamiento de grupos infinitamente grandes y explica cómo la aleatoriedad de los grupos pequeños se convierte en resultados casi seguros al superar un tamaño crítico."
+        },
+        {
+          "t": "p",
+          "x": "Los autores escribieron que el sesgo fue simplemente un caso fácil de medir, y que “no hay razón para pensar que la colusión, el engaño o la cooperación estén exentos de los efectos de escala”. Las prácticas de evaluación actuales pueden pasar por alto riesgos que solo aparecen con un número específico de individuos. Un modelo seguro cuando se prueba de forma individual puede producir resultados no deseados al desplegarse junto a copias de sí mismo, algo que una evaluación de un solo agente no revela."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Andrea Baronchelli dijo: “La alineación de la IA todavía se trata como si un solo modelo viviera solo en el mundo. Pero los agentes se están diseñando cada vez más para hablar entre sí, y la seguridad a nivel de un agente no garantiza la seguridad a nivel de grupo.”"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores también señalaron límites. El sesgo medido aquí se acerca más a un desajuste de coordinación interna que a una desviación de los valores humanos. Como próximos pasos, señalaron el estudio de grupos con modelos mixtos y de agentes dentro de estructuras de red realistas."
+        }
+      ]
+    },
+    "science/science-ai-virus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La IA diseñó un virus que infecta bacterias y se replica por sí mismo. Es el primer caso en que la IA deja de limitarse a leer y analizar código genético y empieza a escribir código nuevo propio."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo del diseño fueron los bacteriófagos, virus que infectan solo bacterias y no a personas, animales ni plantas. Los investigadores usaron IA para diseñar cientos de nuevas versiones de fagos ya bien estudiados, y luego los construyeron desde cero en el laboratorio. De los 285 genomas diseñados por IA que se probaron, 16 funcionaron como fagos capaces de infectar E. coli."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/bacteriophages.jpg",
+          "cap": "Bacteriófagos. Fuente: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los fagos son depredadores de bacterias. Reconocen una molécula en la superficie de la bacteria, se adhieren, inyectan su material genético y luego se apropian de la maquinaria molecular de esa bacteria para imprimir copias de sí mismos. La célula infectada acaba estallando. Como el genoma es muy pequeño, la síntesis de ADN es rápida y el resultado es claro: o aparece un fago funcional, o no aparece."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos usados fueron Evo 1 y Evo 2. Manejan secuencias genéticas igual que los grandes modelos de lenguaje manejan texto. Si un modelo de lenguaje aprende patrones de palabras y frases, un modelo de genoma aprende patrones de secuencias de ADN. Pero un genoma no es una cadena de comandos donde se puede cambiar una letra a la vez. Para que un fago funcione, las instrucciones para reconocer a la bacteria correcta, apropiarse de su maquinaria, fabricar proteínas a tiempo y ensamblar nuevas partículas tienen que encajar entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores entrenaron el modelo con más de 2 millones de genomas de fagos, y luego le pidieron que diseñara nuevas versiones de ΦX174, un fago pequeño y muy estudiado. ΦX174 tiene un genoma de unas 5.400 letras de ADN que solo contiene instrucciones para 11 proteínas, e infecta una cepa de E. coli sin relación con ninguna enfermedad. El modelo se refinó además con unos 15.000 genomas cercanos a ΦX174. La IA no creó un virus de la nada: recombinó patrones biológicos ya existentes dentro de un sistema que ya se entendía razonablemente bien."
+        },
+        {
+          "t": "p",
+          "x": "Al introducir el ADN sintetizado en E. coli para comprobarlo, la mayoría falló, y 16 de los 285 funcionaron. Algunos se comportaron de forma similar a ΦX174 aunque sus secuencias eran bastante distintas."
+        },
+        {
+          "t": "p",
+          "x": "También se hizo una prueba de resistencia. Al exponer repetidamente una cepa de E. coli que había resistido al fago original a los fagos creados por IA, apareció un fago híbrido capaz de infectar también a esa bacteria. La IA no diseñó directamente este último fago: creó una población inicial diversa que ampliaba las opciones entre las que podía elegir la evolución."
+        },
+        {
+          "t": "p",
+          "x": "Todavía hay una gran distancia entre diseñar un fago en una computadora y tratar a un paciente. Hay que confirmar la eficacia y la seguridad frente a bacterias que causan infecciones reales, y cumplir estándares de fabricación de nivel farmacéutico. Este fago es inusualmente simple. Los fagos útiles contra infecciones graves tienen genomas mucho más grandes y una maquinaria más compleja, buena parte de la cual aún no se conoce."
+        },
+        {
+          "t": "p",
+          "x": "Surgen de forma natural preguntas de bioseguridad. Este estudio trató un fago simple que infecta bacterias, no un virus que causa enfermedad humana, y tampoco significa que pedirle a una IA que cree un virus peligroso vaya a producir uno. Aun así, es una señal de que la IA está pasando de leer secuencias biológicas a generar secuencias que realmente funcionan. Cómo entrenar estos modelos, a qué información biológica darles acceso y cómo filtrar diseños peligrosos no es una cuestión solo para los investigadores de IA. Biólogos, médicos, reguladores, especialistas en ética y expertos en bioseguridad deben participar juntos."
+        },
+        {
+          "t": "p",
+          "x": "El resultado actual se entiende mejor como una prueba de concepto, que llega solo hasta aquí: “la IA puede generar nuevas versiones de un genoma viral completo, y de verdad funciona”."
+        }
+      ]
+    },
+    "science/science-alien-intelligence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando un LLM responde a una pregunta, ¿está razonando como una persona, o simplemente generando texto que parece razonamiento? Esta distinción no es solo una cuestión filosófica. De ella depende qué se le puede confiar a la IA, con cuánta cercanía hay que supervisarla y qué efecto deja finalmente en el mundo real."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/08/JOW-S5-E6-cr-Chanelle-Nibbelink-Lede-LOGO-scaled.webp",
+          "cap": "Ilustración: Chanelle Nibbelink / Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Melanie Mitchell, del Instituto Santa Fe, cree que simplemente nos faltan métodos para medir la cognición de las máquinas. A su juicio, la IA es una “inteligencia alienígena” que funciona con mecanismos cognitivos distintos de los humanos. En el podcast de Quanta The Joy of Why, Mitchell le explica a Steven Strogatz que los métodos que usan los psicólogos para estudiar otro tipo de inteligencia alienígena —la cognición de bebés y animales— pueden trasladarse a la IA."
+        },
+        {
+          "t": "p",
+          "x": "“Mucha gente ha llamado a la IA una inteligencia alienígena, porque aunque aprendió del lenguaje humano, de libros y de todo internet, sigue siendo muy distinta de una persona.” La idea es que la forma en que estos sistemas funcionan, aprenden y razonan es realmente distinta de la humana. En psicología del desarrollo, Mike Frank, de Stanford, escribió un artículo que sostiene que los investigadores de IA deberían inspirarse en estudios sobre bebés y niños pequeños, y el debate se extendió hacia la inteligencia animal."
+        },
+        {
+          "t": "p",
+          "x": "Los seis principios que resume Mitchell son estos: ser consciente del sesgo cognitivo propio que proyecta rasgos humanos sobre el sistema; cuestionar las hipótesis y diseñar experimentos controlados; crear nuevas variantes de estímulos y de preguntas de referencia para probar la robustez y la generalización; no dejar el sistema como una caja negra, sino sondearlo de varias maneras; distinguir entre el desempeño que muestra y la capacidad real; y, por último, analizar los tipos de fallo y recibir bien los resultados negativos."
+        },
+        {
+          "t": "p",
+          "x": "Mitchell menciona la historia del caballo Clever Hans. Este caballo, que vivía en Alemania a comienzos de 1900, respondía a problemas aritméticos como “¿cuánto es 14 más 12?” golpeando el casco ese número de veces, y hasta los científicos de la época llegaron a creer que sabía calcular. El psicólogo Oskar Pfungst añadió experimentos controlados: cuando quien preguntaba no era visible, Hans se equivocaba; cuando el que preguntaba tampoco sabía la respuesta, Hans también se equivocaba. Lo que Hans leía no era aritmética, sino señales diminutas en el rostro de la persona."
+        },
+        {
+          "t": "p",
+          "x": "Lo mismo ocurre con la IA. Hubo un sistema del que se decía que razonaba bien sobre gráficos en artículos científicos, pero acertaba la respuesta incluso cuando se quitaba el gráfico y solo quedaba la pregunta. Había una correlación espuria escondida entre las palabras de la pregunta y la respuesta correcta."
+        },
+        {
+          "t": "p",
+          "x": "También señala que la replicación casi no se practica en IA. “Soy informática y nunca tomé un curso de metodología experimental. En mi departamento tampoco se ofreció nunca uno.” Diseñar experimentos es difícil y los factores de confusión abundan. Por eso la replicación por parte de equipos de investigación independientes es importante, y en el campo de la IA esa práctica sigue siendo débil."
+        }
+      ]
+    },
+    "science/science-cuspai-mof": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "CuspAI, una startup de química computacional con sede en Cambridge, lanzó una Fundición de Materiales con IA. Es una red de 45 organizaciones que buscan encontrar nuevos materiales funcionales mediante IA. Gigantes tecnológicos como Meta y Nvidia se unieron junto con empresas de automoción, química, energía solar y semiconductores, además de proveedores de datos científicos."
+        },
+        {
+          "t": "p",
+          "x": "Aron Walsh, director científico de CuspAI y científico de materiales en el Imperial College de Londres, explicó que la fortaleza de la empresa está en escalar más allá de las limitaciones habituales del mundo académico. “Podemos entrenar modelos más grandes con conjuntos de datos más grandes de los que normalmente son accesibles en un laboratorio universitario.” La colaboración con Meta y Nvidia da una capacidad de cómputo que supera a la de la mayoría de las startups, es decir, “acceso a capacidad y recursos a escala”."
+        },
+        {
+          "t": "p",
+          "x": "En 2025, CuspAI trabajó con Meta para construir conjuntos de datos y modelos de IA centrados en materiales que capturan dióxido de carbono directamente del aire. El CEO Chad Edwards dice que las técnicas de IA de la empresa “generan nuevas estructuras y amplifican la diversidad estructural y química del conjunto de datos”."
+        },
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xAny/6/0/4/550604_screenshot_20260731_at_09.50.50_116287.png",
+          "cap": "Estructura de HfO2"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma usa UMA (Universal Model for Atoms), que Meta lanzó en 2025. Es un modelo que extiende los potenciales interatómicos de aprendizaje automático (MLIP) para aplicarlos ampliamente en muchos sistemas químicos. A diferencia del enfoque anterior, que exigía construir un nuevo MLIP para cada sistema, UMA generaliza a través de distintas composiciones químicas."
+        },
+        {
+          "t": "p",
+          "x": "Algunas herramientas se liberaron como código abierto, mientras que las entrenadas con datos en manos de socios siguen siendo propietarias. Los modelos pasaron de producir sustancias químicamente absurdas a identificar con precisión materiales con propiedades específicas. Walsh dijo: “Este tipo de problema de diseño inverso ha sido tradicionalmente muy, muy difícil en química.”"
+        },
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xAny/6/0/3/550603_screenshot_20260731_at_09.50.35_784287.png",
+          "cap": "Estructura de CsPbI3"
+        },
+        {
+          "t": "p",
+          "x": "Ampliar los datos ha sido uno de los ejes que impulsó la mejora. CuspAI obtiene datos de materiales del Cambridge Crystallographic Data Centre, licencia contenido académico de Wiley y construye conjuntos de datos de simulación que cubren decenas de millones de compuestos. También planea construir conjuntos de datos experimentales junto con socios de la fundición, incluido el organismo nacional de investigación de Singapur, A*Star."
+        },
+        {
+          "t": "p",
+          "x": "El caso más destacado es la colaboración con la empresa química finlandesa Kemira. CuspAI identificó 20 nuevas estructuras metalorgánicas (MOF) para filtrar contaminantes de PFAS del agua en solo seis meses, mucho más rápido que el enfoque anterior, que solía tardar años."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de recorrer todo un espacio químico infinito, el método aprende la correlación entre los datos estructurales y las propiedades del material para acotar la búsqueda a candidatos prometedores. “Se pasa de un espacio infinito a uno algo más abarcable.” Walsh añadió que el enfoque se vuelve más preciso “cuando se trata un problema industrial y un proceso directos”. Elizabeth Rowsell, directora de tecnología de Johnson Matthey, dijo: “Los materiales que impulsarán un futuro más limpio no se descubrirán con los métodos antiguos.”"
+        },
+        {
+          "t": "p",
+          "x": "CuspAI ha recaudado 330 millones de libras de inversores entre los que figuran el fundador de Amazon, Jeff Bezos, y fondos soberanos del Reino Unido y los Países Bajos, y aspira a construir un negocio que cobre regalías por el descubrimiento de materiales."
+        },
+        {
+          "t": "p",
+          "x": "Walsh advirtió contra el exceso de entusiasmo. Recordando la expectación que rodeó al cribado de alto rendimiento y a la química combinatoria, dijo: “Cada una de ellas dejó algo real, pero en su punto máximo todas estuvieron sobrevaloradas.” Señaló además que predecir propiedades es ahora “la parte fácil”. “La limitación se ha desplazado hacia la síntesis, la estabilidad en condiciones reales de operación y la viabilidad de fabricación. El valor se acumulará en el lado de quien realmente obtenga resultados en el mundo real.”"
+        }
+      ]
     }
   }
 }

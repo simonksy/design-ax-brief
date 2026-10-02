@@ -2403,6 +2403,172 @@
           "x": "Larian CEO Swen Vincke has said before that his studio used generative AI tools to explore new game ideas, concept art, and placeholder text. A retraction and clarification followed almost immediately. Others have drawn the opposite line. Mega Crit, developer of Slay the Spire 2, said it would rather pick a \"messier\" drawing over one a machine churned out when conceiving a game."
         }
       ]
+    },
+    "games/games-bic-kimyongha": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Kim Yong-ha, head of the IO Division at NEXON Games, took the stage for the first session on day one of BIC2026, the keynote. The talk was titled 'How Does a Game Become a “World”?' The organizers had asked for a keynote connecting subculture, IP, and indie games, and after turning that over, the word he landed on was “world.” The talk itself unfolded in three parts, following those three words."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/915/G091533/20260819011/SS/001.jpg",
+          "cap": "This year's BIC lineup, with Kim Yong-ha's talk as the very first session on day one."
+        },
+        {
+          "t": "p",
+          "x": "Part one looked at how far the subculture market has come. Blue Archive now draws about 4,000 people to its offline running events, and Pixiv-related submissions have passed 270,000. Sales at AK PLAZA in Hongdae have grown to roughly three times their 2021 level. “Subculture may have been a small niche in the past,” he said. “But I think the subculture market as a whole may now be bigger than any single major game.”"
+        },
+        {
+          "t": "p",
+          "x": "Part two was about IP. Beyond logos, settings, characters, and story, he argued that in games, “gameplay itself” often forms the IP. The three pillars that stick in memory are repeated actions, memorable symbols, and relationships. Pokémon has capturing and battling, the Monster Ball, trainers and Pokémon; PUBG has dropping in and surviving, helmets, squads. Blue Archive started from “academy,” “youth,” and “military,” cast the player as a “teacher,” and pulled the tablet — its interaction device — down into the entire UI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/915/G091533/20260819011/SS/003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Part three was AI. When his division held an internal game jam, it produced 48 playable games in just two days from that one division alone. Most of the work happened within regular working hours, so the actual production time was around 10 hours each. Last year, roughly 20,000 games were released on Steam, and about half of them — around 10,000 — have fewer than 10 reviews."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/915/G091533/20260819011/SS/002.jpg",
+          "cap": "The number everyone in the industry keeps repeating these days: “around 20,000 games went up on Steam in the past year.”"
+        },
+        {
+          "t": "p",
+          "x": "Kim Yong-ha summed up AI's strengths as two things: the ability to find correct answers, and the ability to reproduce specific patterns when there's enough training data. But questions like “mul-naengmyeon or bibim-naengmyeon” or “older-sister type or younger-sister type” have no correct answer to begin with. An AI with no self to call its own, and no taste, can't answer these."
+        },
+        {
+          "t": "p",
+          "x": "That's why taste belongs to people, and so does the process of raising taste into an eye for aesthetics. He gave his own experience as an example: he loved characters with glasses so much that he filled a cast entirely with glasses-wearing characters, and got panned for it. Ask an AI why everyone hates glasses and you'll get a plausible-sounding answer. But only he himself can dig into “why do I, who love glasses, love glasses.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/915/G091533/20260819011/SS/006.jpg",
+          "cap": "The line Kim Yong-ha kept pushing throughout was “build your own taste.”"
+        },
+        {
+          "t": "p",
+          "x": "Make, compare, explain why, and choose again. That repetition is what builds an eye for aesthetics. “AI can explain things,” he said. “But AI is a being that ‘learned to cook from text alone,’ so it can't actually taste the food.” The same goes for indies. The creator of one recently hit indie game had already made 43 others before it."
+        }
+      ]
+    },
+    "games/games-meta-pocket": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta's experimental vibe-coding game app Pocket is rolling out across the US. It's the same app that quietly launched last month in Brazil, its test market. Make a small, interactive game with an AI prompt, and it lands in a scrollable feed."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?w=1024",
+          "cap": "Image credit: Meta, image modified with AI"
+        },
+        {
+          "t": "p",
+          "x": "Behind it is an acquisition from earlier this year, when Meta brought over the entire team behind the vibe-coding game platform Gizmo. These interactive experiences, which Meta calls “Gizmos,” respond to touch and phone tilt, play sound effects, and can include clips of your favorite songs."
+        },
+        {
+          "t": "p",
+          "x": "They can also use photos from the camera roll or access the camera itself. Once a game is finished, posting it to a profile lets others save it, remix it into something different, or repost it as-is."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/pocket.jpg?w=680",
+          "cap": "Pocket. Image credit: Meta"
+        },
+        {
+          "t": "p",
+          "x": "It's the latest move in a push to bring AI creation tools into the mainstream. Meta had already let people make AI images with the Meta AI app and AI videos with its experimental app Vibes. On the July earnings call, Mark Zuckerberg credited the faster pace of launches to building software with AI. “Earlier this year we shipped Instagram Instants. We also just shipped Forum, a groups-only app, and Seller, a marketplace app. I think it's going to get a lot easier to ship new apps.”"
+        },
+        {
+          "t": "p",
+          "x": "Beyond Instants, Forum, and Seller, Meta has also put out an experimental AI-generated bedtime stories feature, and this week shipped a Meta AI app for Mac. With Pocket launching, the original app it acquired from Atma Sciences, Gizmo, is shutting down."
+        }
+      ]
+    },
+    "games/games-sony-grind-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2024/09/9cf21c9511f2370f1f68183d8979a9f1.jpg",
+          "cap": "© Sony"
+        },
+        {
+          "t": "p",
+          "x": "A new Sony AI game patent application has surfaced online. It describes technology where an agent trained on player data plays a game in a person's place. If an authorized bot can grind it out for you, is there any reason to earn experience yourself? There's a more unsettling part, though. The patent even describes the possibility of players buying and selling their own training data with each other for real money."
+        },
+        {
+          "t": "p",
+          "x": "Sony's patent No. 19138338, found by Cheat Happens, was filed in 2022 and only became publicly available on July 23 of last month. It covers \"technology for creating an agent that plays a game on a user's behalf.\" Some may remember a similar Sony patent published this past January, the one describing an AI-controlled \"ghost\" that finishes a game for you — but this one goes much further into Black Mirror territory."
+        },
+        {
+          "t": "p",
+          "x": "While the earlier patent said the AI was trained on gameplay footage, the AI in patent 19138338 learns a user's actual playing habits. Patent drawing 11 shows that this AI can be instructed to carry out tasks like \"gathering money,\" \"advancing the story,\" or \"boss battles\" without any user input."
+        },
+        {
+          "t": "p",
+          "x": "The truly strange part comes next. The patent states that when another user's data is used to create User A's agent, game system 1 can be set up to charge User A for that use. For example, if User A creates an agent using a famous player's data, the system could allow them to purchase that data."
+        },
+        {
+          "t": "p",
+          "x": "If you buy a pro player's AI data and watch that AI finish the entire game, how is that different from watching gameplay footage on YouTube? Buying a game, then buying a \"famous player's\" AI version to finish it for you — that's not a video game, that's just a video."
+        },
+        {
+          "t": "p",
+          "x": "Game companies file patents on all sorts of technologies and design principles all the time; that doesn't mean they intend to actually build them. Still, even if Sony never makes an AI player agent official, there's no guarantee some other company won't try something similar and start selling it."
+        }
+      ]
+    },
+    "games/games-uefn-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "acGWIJ1hIlM"
+        },
+        {
+          "t": "p",
+          "x": "Unreal MCP now works in UEFN, the Unreal Editor for Fortnite. In the video, UEFN evangelist Magnus Enebakk walks through UEFN's Model Context Protocol (MCP) step by step."
+        },
+        {
+          "t": "p",
+          "x": "What it shows is how agentic coding tools like Claude Code or Cursor work together inside the editor. It goes as far as writing and compiling Verse, placing devices and setting them up, and running a play session to check the results."
+        },
+        {
+          "t": "p",
+          "x": "According to the Epic documentation linked in the video, UEFN MCP works by running an MCP server inside the editor and connecting over local HTTP. It exposes tools for reading, editing, and compiling Verse source, manipulating entities and components in the scene graph, placing creative devices and setting their properties, and starting, stopping, and checking the status of play sessions. The default address is http://127.0.0.1:8000/mcp."
+        },
+        {
+          "t": "p",
+          "x": "To use it, turn on Python Editor Scripting and UEFN MCP Toolsets in the project settings, place a .mcp.json in the project root, and run your agent from that folder. The clients named in the documentation are Claude Code, Cursor, and MCP Inspector."
+        }
+      ]
+    },
+    "games/games-unity-cli": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "htV8urYBcSo"
+        },
+        {
+          "t": "p",
+          "x": "The new Unity CLI package turns the editor into a local server. Once the editor exposes an API, a terminal, an agent, or a custom-built interface can all send commands into it to run."
+        },
+        {
+          "t": "p",
+          "x": "The CLI itself is a standalone executable you install separately. On the Unity CLI documentation page, copy the install command for your system, paste it into a terminal, and run it. Then add the Pipeline package to your project. That's the package that runs inside the editor and connects it to the CLI."
+        },
+        {
+          "t": "p",
+          "x": "Once the package is in, the CLI attaches to the running editor and pulls up the list of commands the project has. Play mode, status checks, recompiling, and running tests are all on that list, and it works with any agent with no extra setup."
+        },
+        {
+          "t": "p",
+          "x": "There's also eval. It runs C# directly inside a live Unity instance — the editor or a running build — to handle one-off tasks. That's how the video wraps up: until now, the Unity editor was the only way in, but now it's open to whatever tool fits the moment."
+        }
+      ]
     }
   }
 }

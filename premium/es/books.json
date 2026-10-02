@@ -1773,6 +1773,400 @@
           "x": "La comunidad de Story Hacker ofrece una prueba gratuita de 7 días. En medio de un grupo de herramientas que generan prosa entera, esta apuesta por sostener la estructura y los tropos desde abajo, dejando el juicio final a una persona."
         }
       ]
+    },
+    "books/books-ai-article-versioning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El nuevo documento de posición de Crossref plantea algo simple pero importante: los identificadores persistentes, o PID, son un medio, no un fin. Su valor no proviene de la cadena del identificador en sí, sino de los metadatos, las relaciones, los servicios y la gestión que lo rodean. La IA vuelve esta distinción mucho más urgente."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1071052286-1024x768.jpg",
+          "cap": "Un río que se divide en muchos brazos"
+        },
+        {
+          "t": "p",
+          "x": "La investigación ya no se encuentra solo en páginas de revistas e índices. El mismo artículo puede estar al mismo tiempo en servidores de preprints, plataformas de editoriales, repositorios institucionales, índices académicos y colecciones de IA con licencia. La IA puede tomar un párrafo de cualquiera de ellos, fragmentarlo y reutilizar la afirmación sin pasar por el contexto de la página original. La ambigüedad de versión se ha vuelto un problema de procedencia, no solo de descubrimiento."
+        },
+        {
+          "t": "p",
+          "x": "Bastan tres escenarios comunes para ilustrarlo. Los preprints se revisan varias veces antes de su publicación en una revista. Incluso después de que la versión final se corrige o se retracta, las copias en repositorios y los índices derivados pueden seguir conservando el texto antiguo. En la revisión por pares posterior a la publicación, un artículo puede pasar por —o nunca llegar a— varios estados de revisión y edición antes de alcanzar, o sin alcanzar nunca, una versión final."
+        },
+        {
+          "t": "p",
+          "x": "Los PID se asignan de formas distintas. Algunos mantienen un único DOI aunque el artículo cambie; otros emiten uno nuevo por cada versión. Ambos enfoques son útiles, pero el identificador en sí no dice qué cambió ni cuál es la versión vigente. Incluso mientras un DOI citado resuelve correctamente al registro que se mantiene, la IA puede estar leyendo una copia desactualizada."
+        },
+        {
+          "t": "p",
+          "x": "La recomendación revisada de NISO Journal Article Versions ha entrado en su etapa final de edición. Pronto pasará a los miembros votantes de NISO, y si se aprueba, se espera un anuncio oficial este otoño. La revisión traza una distinción más clara entre la etapa y el estado de un artículo, y le añade un versionado semántico, pensado para distinguir incluso varios cambios hechos dentro de la misma etapa."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Screenshot-2026-08-18-002015-1024x168.png",
+          "cap": "Tres capas de acceso de IA con conciencia de versión"
+        },
+        {
+          "t": "p",
+          "x": "Dividir la pregunta en tres partes facilita el orden. ¿Qué investigación es esta? Lo responden los PID como el DOI y sus metadatos asociados. ¿En qué estado está? Lo responden la etapa, el estado y la versión semántica del artículo. ¿Qué usó realmente la IA? Ahí es donde entra la información de procedencia."
+        },
+        {
+          "t": "p",
+          "x": "Quien lee una revisión de literatura, un resumen de políticas o un artículo de noticias generado por IA puede no llegar a ver nunca la página original. Una cita que solo incluye el DOI, aunque sea correcta, no basta para reconstruir el camino de la evidencia. La información de versión no es un adorno de pantalla: pasa a ser parte de la exactitud de la cita."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, la información de versión se trataba principalmente como algo para mostrar: bastaba con que apareciera en una página de destino, un PDF o un campo de historial de publicación. En los flujos de trabajo de IA, esa información necesita intervenir en las etapas de recolección y recuperación. Un sistema de recuperación necesita saber si lo que obtuvo es un preprint, un manuscrito aceptado o una versión final, y si esa versión fue corregida, retractada o sustituida después."
+        },
+        {
+          "t": "p",
+          "x": "Cuando se corrige una versión final en la página de un editor, ese hecho debe propagarse a los repositorios, los índices, las colecciones con licencia y los servicios de IA. De lo contrario, la IA sigue alimentándose de una versión que la comunidad académica ya dejó atrás. La recomendación CREC de NISO ya ha delineado cómo crear, transmitir y mostrar la información de retractaciones, eliminaciones y expresiones de preocupación."
+        },
+        {
+          "t": "p",
+          "x": "El mayor riesgo está en las colecciones estáticas. Una vez que se ingiere una colección, se fija como la instantánea de ese día a menos que se empujen actualizaciones. Mecanismos como el protocolo de notificación CUSAP de STM o el servicio de retractación y corrección de GetFTR deben llenar ese vacío. La IA ya puede encontrar un artículo. El siguiente paso es hacer que revele qué versión leyó."
+        }
+      ]
+    },
+    "books/books-ai-book-discoverability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thecreativepenn.com/wp-content/uploads/2026/08/book-marketing-and-resilience.jpg",
+          "cap": "Podcast The Creative Penn, episodio con Ricardo Fayet"
+        },
+        {
+          "t": "p",
+          "x": "Ricardo Fayet, cofundador y CMO de Reedsy, se sentó más de una hora en el podcast The Creative Penn. La pregunta siempre vuelve a lo mismo: cuando los lectores empiezan a preguntarle libros a la IA en lugar de escribir en un buscador, ¿cómo llega mi libro a estar dentro de esa respuesta?"
+        },
+        {
+          "t": "p",
+          "x": "El proceso de recomendación de la IA que describe Fayet se mueve en tres capas. Busca repetidamente en la web para armar una lista de candidatos, los clasifica según el número de reseñas, las calificaciones y las menciones repartidas por internet, y solo después de un paso de verificación que confirma si realmente cumplen los requisitos aparece el nombre del libro."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thecreativepenn.com/wp-content/uploads/2026/08/Ricardo-Fayet.jpg",
+          "cap": "Ricardo Fayet, cofundador y CMO de Reedsy"
+        },
+        {
+          "t": "p",
+          "x": "Los enfoques basados en palabras clave y volumen de búsqueda pierden fuerza aquí. Una petición como “un thriller de acción y aventuras escrito por una autora indie, con una protagonista femenina” no tiene, de entrada, ningún volumen de búsqueda que valga la pena. Fayet llama a este cambio el paso del SEO al GEO, o AIO."
+        },
+        {
+          "t": "p",
+          "x": "Cada IA confía en fuentes distintas. Claude se apoya mucho en Goodreads. ChatGPT y Gemini dependen en gran medida de Reddit. Google tiene una alianza pagada con Reddit, y Sam Altman tiene una participación en Reddit. LinkedIn resulta útil para no ficción, mientras que BookTok todavía no es bien leído por la IA."
+        },
+        {
+          "t": "p",
+          "x": "Por eso lo que recomienda Fayet es modesto: reseñas en Goodreads, listas de Listopia, sitios de reseñas de libros, cualquier página que mencione el título del libro. Hay que ir dejando rastro en internet, dice. Cuando hay varios candidatos, el libro con más menciones es el que sobrevive en la recomendación."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida del marketing sigue siendo encontrar libros comparables. Un concepto que nadie ha escrito tiene muchas más probabilidades de morir por falta de mercado que de abrir uno nuevo. En la misma conversación surgió también la idea de que tener un buen libro importa más que ser un buen vendedor."
+        },
+        {
+          "t": "p",
+          "x": "Por más que se multipliquen las plataformas, el único activo que un autor posee por completo es una lista de correo. Los algoritmos no pueden recortar su alcance, y la relación que se construye respondiendo directamente al correo de un lector no proviene de las redes sociales."
+        },
+        {
+          "t": "p",
+          "x": "Los autores que aguantan más de una década tienen tres cosas en común: una necesidad casi compulsiva de escribir, criterio para calcular pérdidas y ganancias, y resiliencia. El sentido de negocio es no meter en publicidad más dinero del que genera un libro de $3.99; la resiliencia es la fuerza para seguir empujando una estrategia durante unos seis meses incluso después de que se apague el entusiasmo de una conferencia."
+        },
+        {
+          "t": "p",
+          "x": "Las predicciones de que la IA borraría empleos todavía no se han cumplido. La tasa de desempleo en EE. UU. no se ha movido desde el lanzamiento público de ChatGPT. En cambio, lo que cambia es la forma del trabajo. Los traductores venden revisión de traducciones hechas por IA. Los editores pulen manuscritos redactados por IA. Los diseñadores de portadas producen propuestas más rápido. El consejo de Fayet para los autores tampoco es un curso, sino ponerse a hacer algo: elegir un problema que se ha venido postergando y lanzárselo a la IA. Si pegas los datos de un anuncio de Meta en Claude y le preguntas qué más necesitarías saber para entender ese anuncio, la conversación se convierte en análisis."
+        },
+        {
+          "t": "p",
+          "x": "También se habló brevemente de lo que hace Reedsy. Reedsy Studio, respaldado por entre 10 y 15 ingenieros, está sumando mapas de trama, seguimiento de relaciones entre personajes, estadísticas de metas de escritura, exportación gratuita y coescritura colaborativa al estilo Google Docs. Por ahora, dice, no hay señales de que la IA esté erosionando el mercado."
+        }
+      ]
+    },
+    "books/books-ai-facilitated": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Harriman House afirma que es la primera editorial comercial en hacer esto con el nuevo libro The Everything Code, del analista macro y fundador Raoul Pal. El libro se hizo con una herramienta de IA propia, entrenada únicamente con los textos que Pal ha escrito hasta ahora."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
+          "cap": "Raoul Pal"
+        },
+        {
+          "t": "p",
+          "x": "The Bookseller dio la noticia en un artículo de Melina Spanoudi del 20 de agosto de 2026, usando en el titular la expresión libro “facilitado por IA” (AI-facilitated). A diferencia de entregar un borrador a un gran modelo de lenguaje sin especificar, aquí se dejó claro que el material de entrenamiento era la obra de un único autor."
+        },
+        {
+          "t": "p",
+          "x": "El resto del artículo está detrás de un registro y una suscripción de pago. Una cuenta gratuita permite leer hasta tres artículos al mes, y las suscripciones empiezan en 3,65 libras a la semana."
+        }
+      ]
+    },
+    "books/books-file-access-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "RuuXUlociqA"
+        },
+        {
+          "t": "p",
+          "x": "En un breve video de consejos de Future Fiction Academy titulado “The Automated Author”, Stacey Anderson muestra a los escritores una forma sencilla de acercarse a interfaces de código como Codex y Claude Code. El punto de partida es que no es necesario convertirse en programador. No se necesita una app grande, ni un sistema grande, ni crear todo un software."
+        },
+        {
+          "t": "p",
+          "x": "Lo único que se necesita es una carpeta, unos pocos archivos markdown o de texto, y una IA que pueda trabajar realmente dentro de esos archivos. La propia Anderson admite que ella misma retrasó el cambio porque ya tenía habilidades y flujos de trabajo que funcionaban bien en Claude Projects."
+        },
+        {
+          "t": "p",
+          "x": "Con la pantalla encendida, plantea la misma pregunta a Codex y a Claude Code: es una autora que autopublica novela de género y que hasta ahora ha escrito con IA mediante chat e interfaces de proyecto, ¿vale la pena cambiar? La respuesta se convirtió en el título del video. Una interfaz de código no escribe mejor prosa. El Claude de la ventana de chat y el Claude de la terminal son el mismo cerebro. Lo que cambia es el alcance al que ese cerebro puede llegar."
+        },
+        {
+          "t": "p",
+          "x": "Por eso la organización de archivos resulta clave. Anderson mantiene un archivo YAML por cada libro, con el título, el seudónimo, la serie, la fecha prevista de publicación y un estado como redacción, edición, borrador o publicado. La IA puede repasar todo el proyecto sin leer los 800 manuscritos completos. Esta diferencia crece a medida que se acumulan manuscritos, biblias de serie, guías de estilo, material de marketing, metadatos y listas de verificación de publicación."
+        },
+        {
+          "t": "p",
+          "x": "El inicio se hace en una carpeta de pruebas segura: con copias, no con los manuscritos originales, en un espacio aparte dedicado solo a la IA, no en la carpeta habitual de documentos. Anderson creó en su computadora una unidad R, de “robot”, separada, y pone ahí todos los archivos relacionados con agentes. Por dentro la divide en libros, series, manuscritos, esquemas, edición, marketing y publicación."
+        },
+        {
+          "t": "p",
+          "x": "En un archivo agents.md o claude.md deja escritas las reglas. La primera regla que impuso es no borrar: mover cosas a una carpeta de archivo está bien, pero borrarlas no. También señala las desventajas: leer archivos, pensar y volver a intentarlo consume más tokens, así que con un plan de 20 dólares se llega antes al límite. El riesgo de sobrescribir también es real, por lo que hace copias de seguridad en la nube varias veces al día y usa Git además."
+        },
+        {
+          "t": "p",
+          "x": "Termina con una demostración. Le pide a la IA que escriba una breve entrada de blog con todo lo contado hasta ahora y la coloque en esta carpeta; poco después aparece un archivo markdown en la carpeta de pruebas. Su conclusión: una vez que se reescribe ese texto con la propia voz, la próxima vez no hace falta escribir reglas largas; basta con decir que las entradas anteriores de esta carpeta son mi voz."
+        }
+      ]
+    },
+    "books/books-reading-buddy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hace unos dos años, Maris Kreizman escribió sobre lo patética que era la moda de trocear libros en listas de viñetas. Su idea era que leemos y nos enfrentamos a un texto por razones distintas a tragar fragmentos de conocimiento."
+        },
+        {
+          "t": "p",
+          "x": "Desde entonces, a medida que el fascismo tecnológico gana fuerza, ella considera que tanto el arte como la experiencia de perderse ante el arte han perdido todo su valor. La semana pasada, el editor de Axios Nicholas Johnson publicó un texto en el que contaba que usaba la IA como “compañera de lectura” para desentrañar temas y recibir ayuda para “entender prosa antigua y enrevesada”. Para Kreizman, eso equivale a presumir de haber externalizado el propio esfuerzo de leer."
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/08/old-text.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Su argumento es que, cuanto más atrapado está un mundo por la conveniencia, más debería honrar la fricción literaria: textos que no se tragan de un bocado, que te hacen quedarte sentado en la incertidumbre o la incomodidad. Ahí está el camino para crecer como lector y como pensador. No está menospreciando la lectura ligera y rápida hecha por puro placer. Un libro que se lee fácil también está bien. Solo que es un tipo de lectura entre muchos."
+        },
+        {
+          "t": "p",
+          "x": "La lectura de la que ella habla es la que antes se enseñaba en la secundaria y la universidad. Las noches de la universidad en que reprimía las ganas de ir al “Jueves de Sed” del bar del campus para abrirse paso por las 880 páginas de Middlemarch. Todas aquellas noches en el bar se fundieron en una sola, pero el recuerdo de leer Middlemarch permaneció."
+        },
+        {
+          "t": "p",
+          "x": "Tampoco se trata solo de las grandes obras. Citando un artículo que Megan Greenwell escribió para Wired, señala que los niños de hoy leen las palabras perfectamente bien, pero no logran extraer significado de ellas. Una educadora lo dijo así: “Probablemente estén leyendo más que nunca. Pero todo son fragmentos”."
+        },
+        {
+          "t": "p",
+          "x": "La crítica tampoco está a salvo. A medida que los medios abandonan las reseñas tradicionales por formatos más “amigables para el usuario”, queda menos espacio para la ambigüedad. Un buen texto sobre libros no hace listas, sino que se enfrenta al libro, escribe ella. Añade que la mayoría de las ofertas de empleo que le llegan por LinkedIn últimamente le piden ceder su trayectoria como editora para entrenar IA."
+        },
+        {
+          "t": "p",
+          "x": "Leyendo la nueva novela de Missouri Williams, The Vivisectors, se perdió, y odia perderse. Aun así, subrayó muchísimo. Cuando dejó de intentar decodificarla y la dejó fluir como un poema, por fin empezó a disfrutarla. Ella cree que la incapacidad de sobrellevar la incomodidad alimenta las prohibiciones de libros y la censura actuales. Pensar, aprender y crecer no encajan en un mundo cada vez más inclinado hacia el fascismo, así que propone insistir aún más. Cuestionarlo todo es la forma en que cada uno de nosotros puede resistir esta corriente."
+        }
+      ]
+    },
+    "books/books-religion-ai-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En un nuevo estudio de la empresa de detección de IA Originality.AI, el 63% de los libros religiosos en rústica listados en Amazon se clasificaron como probablemente escritos por IA. El análisis se basó en 2.034 libros en rústica en inglés, con una calificación promedio de cuatro estrellas o más, repartidos en 14 categorías relacionadas con la fe y las creencias."
+        },
+        {
+          "t": "p",
+          "x": "A lo largo del primer semestre de 2026, la empresa examinó tres elementos de la ficha pública de cada libro en Amazon: la descripción, la biografía del autor y la vista previa del texto. De estos, la vista previa fue el criterio principal. Una puntuación de 50 o más se agrupaba como “sospecha de IA”. Los autores del informe añadieron que los resultados de detección solo indican la probabilidad de autoría por IA, no prueban quién escribió realmente el libro."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130971-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "Desglosado por subgénero, Magic encabezó la lista con 78%, seguido de Hinduism con 76% y Taoism con 74%. En el otro extremo quedaron Satanism con 22%, Atheism con 40% y Mormonism con 42%. El informe señala que las muestras de estas últimas tres categorías son más pequeñas que las de las primeras tres, y plantea una hipótesis sobre por qué las religiones orientales salieron especialmente altas: “Creemos que personas no nativas de habla inglesa están usando IA para entrar en el mercado angloparlante”."
+        },
+        {
+          "t": "p",
+          "x": "Hinduism tuvo la mayor cantidad de libros con rastros de IA en los tres elementos —descripción, biografía y vista previa— con 72 libros, el 25% de la muestra de Hinduism. Incluso contando los libros probablemente escritos por personas, la descripción fue el elemento con más probabilidad de haber sido generado por IA."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de Amazon remitió a las pautas de contenido de la empresa, que no prohíben las obras generadas por IA: “Estamos trabajando para construir una tienda que los lectores amen y en la que las editoriales y los autores confíen. Contamos con numerosas salvaguardas para proteger esa experiencia y seguimos reforzándolas. Nuestras pautas de contenido determinan qué libros se pueden vender, y prevenimos, detectamos y eliminamos de forma proactiva el contenido que las infringe, sea generado por IA o no”."
+        },
+        {
+          "t": "p",
+          "x": "Originality.AI ya había encontrado antes que los libros probablemente escritos por IA son casi siempre más baratos y más cortos que los escritos por personas. La religión no fue la excepción: los libros con sospecha de IA costaban en promedio 16,84 dólares y tenían 170 páginas, frente a 18,96 dólares y 208 páginas de los probablemente escritos por personas."
+        },
+        {
+          "t": "p",
+          "x": "Los autores del informe ven estos libros como un negocio que explota la fe: “El contenido digital religioso ha sido terreno fértil para el slop de IA desde los primeros días de los memes generados por IA. Toca el centro de la fe de los creyentes, confirmando lo que ya consideran correcto, y, en el caso de los libros vendidos en Amazon, además genera dinero con ello”."
+        }
+      ]
+    },
+    "books/books-textbook-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Autores de libros de texto en Estados Unidos presentaron otra demanda colectiva contra OpenAI, esta vez en Nueva York. Alegan que libros de texto protegidos por derechos de autor se usaron sin permiso para entrenar grandes modelos de lenguaje, algunos de ellos descargados de sitios piratas ilegales. El pasado julio, los mismos autores presentaron una demanda similar contra Meta en California."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.24.06-PM.png",
+          "cap": "La demanda argumenta que, si se permite que las empresas de IA sigan “absorbiendo libros de texto y actualizando continuamente su contenido con cada nueva edición”, los docentes y las escuelas podrían abandonar por completo la adopción de libros de texto a favor de “sustitutos” basados en LLM."
+        },
+        {
+          "t": "p",
+          "x": "En la demanda presentada el 14 de agosto, el demandante principal Michael Sullivan y los demás autores alegan que OpenAI, respaldada por Microsoft, codemandada en el caso, copió ilegalmente miles de libros de texto para entrenar su IA, eliminó los avisos de derechos de autor para “ocultar” esa conducta, y creó un servicio que corre el riesgo de “desplazar” el mercado de nuevos libros de texto y ediciones revisadas."
+        },
+        {
+          "t": "p",
+          "x": "La demanda sostiene que ya existía, o se podría haber creado, un mercado de licencias para usar el contenido de los libros de texto en el entrenamiento y pagar una “compensación justa” por ello, pero que los demandados lo “eludieron”. El razonamiento de los autores es que los libros de texto son “de un valor singular para entrenar LLM” porque abordan “campos académicos y subcampos de forma atractiva, eficaz y actualizada”."
+        },
+        {
+          "t": "p",
+          "x": "Lo que distingue este caso de otras demandas es la estructura del mercado. Los lectores de libros comerciales en general compran libros “por razones personales”, y los lectores que buscan un autor o un libro concreto no aceptan fácilmente sustitutos. Los libros de texto son distintos: “el comprador final no es quien elige el libro”. Son los docentes, las escuelas y las autoridades educativas quienes deciden mediante la adopción y se lo asignan a los estudiantes."
+        },
+        {
+          "t": "p",
+          "x": "La demanda dice textualmente: “En cualquier caso, el comprador tiene un fuerte incentivo para no pagar por el libro de texto si puede encontrar una versión 'gratuita' del mismo libro, o un sustituto 'suficientemente bueno', en un LLM”. También argumenta que, aunque el “contenido temático” de un libro de texto no sea protegible por derechos de autor, “la forma en que el autor seleccionó, organizó y ordenó el material” y “la voz del autor y su manera de enseñar” sí están protegidas."
+        },
+        {
+          "t": "p",
+          "x": "Los autores piden una sentencia de infracción de derechos de autor, daños y una orden judicial que impida “nuevas infracciones”. Según ChatGPT is Eating the World, actualmente hay 136 demandas en curso contra empresas de IA."
+        }
+      ]
+    },
+    "books/books-ai-chapter-summaries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Jon Bond participó en el podcast de Joanna Penn, The Creative Penn, donde hablaron sobre las dificultades de la edición independiente y el marketing de libros. Antes de cofundar Whitefox, pasó 35 años en la edición tradicional, incluidos periodos en Penguin y HarperCollins, y también es coautor, junto con James Silver, de “Going Indie: Publishing Your Book Your Way”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thecreativepenn.com/wp-content/uploads/2024/02/Author-Blueprint-2024-square.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Bond cree que lo que las grandes editoriales usan realmente la IA, y la experimentación que ocurre entre bastidores, va mucho más allá de lo que se dice en público. “Ya sea con el objetivo de ganar eficiencia o por la experimentación misma, tiene que estar ocurriendo bastante trabajo”, dice. Las editoriales suelen marcar una línea, diciendo que “se usa solo para marketing y gestión, no para la creación ni la edición”, pero él sospecha que hay un uso considerable sin declarar en áreas como la redacción de metadatos, las descripciones de libros, el texto de cubierta y el cálculo de regalías."
+        },
+        {
+          "t": "p",
+          "x": "Whitefox, la empresa en la que trabaja, adopta un enfoque distinto. “Going Indie” incluye tal cual los resúmenes de capítulos generados por IA, y Bond explica que junto a ellos incluyó “diez mandamientos que considero pautas útiles” para usar la IA de forma responsable. En otras palabras, optó por la transparencia en lugar de ocultarlo."
+        },
+        {
+          "t": "p",
+          "x": "Señala que las editoriales son “demasiado cautelosas a la hora de decir qué hacen y qué no hacen”. Es decir, las declaraciones públicas por sí solas hacen difícil medir cuánta IA ha adoptado realmente el sector."
+        }
+      ]
+    },
+    "books/books-frankfurt-rights-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Frankfurt Rights, la plataforma de comercio de derechos que gestiona la Feria del Libro de Frankfurt, explicó por qué las solicitudes de licencias de IA todavía requieren negociarse caso por caso. Jenny Kühne, directora de soluciones de derechos y licencias de Frankfurter Buchmesse, dice: “Cada acuerdo de IA individual sigue siendo demasiado complejo y distinto para tratarse con un proceso estandarizado.”"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/61902_LitAg-2016.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ella señala cinco variables. “Los detalles varían bastante, desde el uso previsto y el alcance de la licencia hasta la compensación, los informes y la responsabilidad.” Como Frankfurt Rights no es un organismo de gestión colectiva de licencias, los contratos reales no están automatizados, y los titulares de derechos y los posibles usuarios tienen que negociar directamente."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma también enfrenta otro problema: intentos de extraer contenido sin autorización. Kühne dijo: “Los ataques al sitio web han aumentado notablemente, y suponemos que se debe a bots de IA que buscan contenido.”"
+        },
+        {
+          "t": "p",
+          "x": "La respuesta ya está en marcha. “Ya teníamos medidas de seguridad, pero las reforzamos de inmediato y seguimos vigilando”, explica. Para ella, perfeccionar el propio proceso de uso legítimo es en sí mismo una forma de distinguir el acceso lícito del scraping no autorizado."
+        }
+      ]
+    },
+    "books/books-friedman-ai-roundup": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2024/08/cropped-JF-website-header-2024-v2.png"
+        },
+        {
+          "t": "p",
+          "x": "La edición del 12 de agosto de “Links of Interest”, el boletín semanal de Jane Friedman sobre el sector, reúne tres hilos de noticias de IA que atraviesan el mundo editorial. Junto a una nota sobre la práctica de no verificar los hechos en las memorias, coloca lado a lado las normas de transparencia de la UE, un premio periodístico y declaraciones del CEO de HarperCollins."
+        },
+        {
+          "t": "p",
+          "x": "El primero son las normas de la UE. Cubre la noticia de que se acercan reglas de transparencia que exigirán a los futuros modelos incorporar marcas de agua y adjuntar metadatos de procedencia firmados."
+        },
+        {
+          "t": "p",
+          "x": "El segundo es el premio periodístico. Informa que las obras que revelaron por sí mismas el uso de IA llegaron a cinco este año, un récord. Se lee como una señal de que los jurados se inclinan cada vez más a aceptar la divulgación del uso de IA."
+        },
+        {
+          "t": "p",
+          "x": "El tercero es HarperCollins. Cubre la noticia de que el CEO de esta gran editorial pidió una respuesta a la IA a escala de todo el sector, no solo de empresas individuales. Este punto apunta hacia dónde podrían dirigirse después las condiciones contractuales entre autores y editoriales."
+        }
+      ]
+    },
+    "books/books-machine-reader": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Chris Reed, quien dirige el desarrollo de la plataforma Atypon en Wiley, escribió en un artículo publicado en The Scholarly Kitchen que el próximo lector de la edición académica no será una persona, sino un agente de IA. Su punto de partida es que la humanidad genera unos 220 zettabytes de información al año, el equivalente a 100 millones de Bibliotecas del Congreso."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-2227463068-1024x683.jpg"
+        },
+        {
+          "t": "p",
+          "x": "También cita un pasaje del American Journal of Dental Science publicado en 1845. La queja de los médicos de la época, que decían que era difícil seguir el ritmo del avance de la medicina, no es tan distinta de la actual. Señala que el problema en sí no es nuevo; solo se ha acelerado el ritmo."
+        },
+        {
+          "t": "p",
+          "x": "Su argumento se apoya en los principios FAIR de 2016. Señala que el artículo publicado entonces en Scientific Data ya tenía en mente “agentes computacionales que actúan sobre objetos digitales”. Su frase es: “Si un agente de IA lee cien artículos en nombre de un investigador y devuelve una síntesis, eso es simplemente cumplir exactamente lo que FAIR exigía desde el principio al contenido de las editoriales”."
+        },
+        {
+          "t": "p",
+          "x": "Por eso cree que las editoriales deberían adoptar una gestión de contenido headless, ofreciendo sitios web para personas junto con APIs, flujos de datos y endpoints de Model Context Protocol. La navegación, los avisos de cookies y los carruseles no sirven de nada a un agente. Un contenido ordenado, con identificadores estables, licencias explícitas y un acceso predecible, funciona mejor para las máquinas que una página de artículo bien diseñada pero rodeada de ruido."
+        },
+        {
+          "t": "p",
+          "x": "Señala tres desafíos pendientes. Atribución: cómo pueden los investigadores notar cuando un agente sintetiza contenido sin revelar sus fuentes. Compensación: los estándares para contabilizar el uso mediado por IA todavía están en pañales. Gobernanza: decidir qué rastreadores permitir y en qué condiciones se ha vuelto un asunto de junta directiva, más allá de configurar el estándar robots.txt."
+        },
+        {
+          "t": "p",
+          "x": "También surgieron objeciones en los comentarios. Una persona del ámbito bibliotecario preguntó cómo cambiarían las métricas de uso y el cálculo de costos, y Todd Toler señaló que, sin una API adecuada, los agentes terminarán igualmente extrayendo el sitio web tal cual, e incluso haciendo clic sin querer en los carruseles de artículos relacionados. Reed indicó que le pidió a Claude que revisara la ortografía y la gramática de este texto."
+        }
+      ]
+    },
+    "books/books-proudly-human": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Alan Finkel, ex científico jefe de Australia y fundador de Proudly Human, lanzó una advertencia contundente sobre la IA en una entrevista con The Bookseller. Afirma sin rodeos que la IA “no aporta ningún beneficio económico al arte ni a las industrias creativas”."
+        },
+        {
+          "t": "p",
+          "x": "Finkel pide salvaguardas institucionales más fuertes para proteger a los creadores frente al contenido generado por IA. A su juicio, los marcos legales ya existentes, como el derecho de autor, simplemente no bastan."
+        },
+        {
+          "t": "p",
+          "x": "Llama la atención que alguien que ha trabajado en política científica a nivel nacional se haya sumado directamente a un debate que hasta ahora llevaban sobre todo asociaciones de autores y editoriales. Proudly Human, la organización que fundó, alza la voz en nombre de los creadores frente a los cambios que la IA ha traído a las artes."
+        }
+      ]
     }
   }
 }

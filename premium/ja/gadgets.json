@@ -2580,6 +2580,79 @@
           "x": "ICEの禁止は哲学の問題ではない。監視はこの組織が日常的に行っていることだ。ただ別の懸念があり、その対象はスマートグラス自体よりも、それを取り巻くあいまいなユーザーデータ方針のほうに近い。"
         }
       ]
+    },
+    "gadgets/gadgets-hilight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 11 Proに新しく搭載されたHiLight通知LEDは、箱から出した状態ではほとんど使い道がない。デフォルト設定で光るのは2つの場合だけだ。スマホをうつ伏せに置いてGeminiを使っているとき、そしてお気に入りに入れた相手から電話がかかってきたときだ。色も5種類の中からしか選べない。"
+        },
+        {
+          "t": "p",
+          "x": "かつてのAndroidスマホで愛されていた機能がこのように封じられて出てきたことで、開発者側が先に動いた。X利用者のDhananjay_Techが作ったHiLight Studioは、このLEDアレイを実質的に思い通りに操れる。特定の単語を含むSlack通知が来たらレインボーカラーで脈動させ、メッセージが来たら緑の光が波のように回るといった具合だ。サイクルごとのタイミング、明るさ、強度、彩度まで調整できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-3.jpg?quality=90&strip=all&w=2400",
+          "cap": "デフォルト画面"
+        },
+        {
+          "t": "p",
+          "x": "Google公式の機能とは異なり、色はあらかじめ用意された8種類から選ぶか、カラースライダーで直接決める。プリセットの書き出しと読み込み機能もあり、友人とやり取りすることもできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "まだPlayストアにはない。GitHubから取得してアプリを数個サイドロードし、開発者設定を解除してスマホの設定もいくつか触らないと動かない。普通のアプリほど簡単ではないが、それでも構わないなら十分その価値はあるというのがレビュアーDavid Imelの評価だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-4.jpg?quality=90&strip=all&w=2400"
+        }
+      ]
+    },
+    "gadgets/gadgets-homepad-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "この秋発売予定とされるAppleの新しいスマートホームハブ、通称「HomePad」に、Apple Watch風の「文字盤」が入るという兆しが出てきた。家の各部屋に一台ずつ置きたい理由がもう一つ増えた、というのが9to5Macの反応だ。"
+        },
+        {
+          "t": "p",
+          "x": "Mark Gurmanがこの製品を詳しく取り上げてから2年近くが経った。Appleは2025年初めの発売を予定していたがSiri AIの遅延で後ろ倒しになり、今では早ければ来月のデビューが見込まれている。"
+        },
+        {
+          "t": "p",
+          "x": "筆者が挙げる期待要素は4つだ。以前のSiriよりずっと使えるようになったSiri AI、Apple Photosのスライドショーと「メモリー」、セキュリティカメラ機能、そして歌詞とアートワークを画面に表示するApple Music。価格次第ではほぼすべての部屋に置きたい、という話だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-faces-variety.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "ここに今週コードから見つかった「文字盤」と「文字盤ギャラリー」が加わった。ウィジェットを選んで入れ、スマートスタックまで載せられる形のようで、一日のうちの時間帯によって異なるウィジェットが表示される仕組みになりそうだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp"
+        },
+        {
+          "t": "p",
+          "x": "文字盤を自由に変えられるなら、HomePadは置かれた部屋ごとに性格が変わる。キッチン、リビング、寝室ごとにウィジェットと配置を別々に組むことになるため、複数台を買う理由が生まれる。筆者は、HomePadの延期がこれで終わってほしいと書いている。"
+        }
+      ]
     }
   }
 }

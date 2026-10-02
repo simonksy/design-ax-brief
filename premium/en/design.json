@@ -2554,6 +2554,269 @@
           "x": "Scantic requires iOS 17.0 or later and an A12 Bionic chip or newer, which covers devices from the 2018 iPhone XS onward. The base app is free and gives a standard-quality export, which comes out as a thinned-down, lower-quality version of the scan. The top-quality export requires a subscription of €29.99 a year (about $35), or you can buy it per scan for €4.99."
         }
       ]
+    },
+    "design/design-aura-dark-and-darker": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/e6/images/6a863f9091f3e/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Using AI in game development isn't only about generative art. Ironmace, the studio behind Dark and Darker, recently hooked up the AI coding assistant Aura to let a designer with little programming experience work directly on implementing a major new feature. The target was a tutorial that had been missing for a long time. The studio had justified that absence with its “hardcore” identity, but the real obstacle was development resources."
+        },
+        {
+          "t": "p",
+          "x": "Terence Park, Ironmace's CEO, told 80.lv that while the hardcore extraction-game identity is real, there's no reason to be hardcore down to the level of “how do I even do this basic action.” Facing limited resources, the same question always came up: do I put out fires now, or invest time and effort in the future? Thanks to Aura, he says, he got to do both."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0e/images/6a863f98a8b01/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "His background is in game design and producing. He handles a bit of scripting and is comfortable with data structures, but programming isn't his strength. Normally, this would mean assembling a dedicated team by role, running through a pile of meetings, and managing a complicated pipeline. This time, the first meeting only set the skeleton; he made the big decisions, then filled in the detailed context with Aura. Once the direction was set as a series of checkpoints, he built out each checkpoint together with Aura."
+        },
+        {
+          "t": "p",
+          "x": "An engineer seeing the codebase for the first time started contributing to the project within two days using Aura, and the main work was done in two weeks. Park compared his approach to solving a complex problem together with a very smart partner. He'd start with a design task he was confident about, ask predictable questions to align direction, confirm Aura had understood the intent, and then move on to full-on instructions."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/0b/images/6a863f9f44200/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The work ran on collaborative chat instead of traditional documentation. When the engineer built a new feature, they'd upload example assets to the repository, and Park, working in a different time zone, would use Aura the next day to figure out what had come in and build content around it. For a few complex tutorial triggers that ultimately ran out of time, he had Aura write the code directly. That's how the step of picking up a bandage from a dead skeleton came about."
+        },
+        {
+          "t": "p",
+          "x": "Aura explained code changes in terms he could understand. He described it as feeling like a live wiki built just for their project. Still, verification and testing inside the game editor remained his job, and even though Aura put together UI widgets and logic connections reasonably well, final polish was left to an artist."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/b9/images/6a863fa7ae362/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "He also drew a distinction from the debate over generative art. Code or structural components sit under the hood and feel logical, so he sees them as problems AI can solve. Art or music, where interpretation comes into play, carries far more weight in the process itself. That's how work that would have taken 5-6 weeks got done in half the time."
+        }
+      ]
+    },
+    "design/design-docs-automation-line": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/How_To_Automate_Your_Design_System_Documentation_V1-2.png"
+        },
+        {
+          "t": "p",
+          "x": "Documentation is easy to write and hard to maintain. Design system teams don't usually fall apart because nobody writes docs. They fall apart because once the code moves ahead, nobody keeps the docs true to it."
+        },
+        {
+          "t": "p",
+          "x": "The fix isn't “automate everything” or “do everything by hand.” It's separating which parts of the documentation are facts you can pull from a source of truth and which parts come from human judgment. Zeroheight recommends splitting documentation into three categories."
+        },
+        {
+          "t": "p",
+          "x": "The first is Mirrored: content like props, token values, component states, and version numbers, where the source of truth already lives elsewhere. If the documentation and the source disagree, the documentation is wrong by definition, so there's no room for judgment—just regenerate it in full with every change."
+        },
+        {
+          "t": "img",
+          "src": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/Illustration_1@2x-13.png"
+        },
+        {
+          "t": "p",
+          "x": "The second is Distilled: cases where the raw material exists but the finished product doesn't. Commits pile up but there's no readable changelog; pull request discussions happen but no migration notes get written. A machine can pull a draft, but setting the tone and deciding what to include or cut, then signing off, is a person's job."
+        },
+        {
+          "t": "p",
+          "x": "The third is Authored: content that exists only in someone's head, like why this pattern was chosen over another, when not to use this component, or what the accessibility intent was. There's no source to pull from, so handing it to a machine just means it makes things up. The principle fits in one line: automate the facts, write the story."
+        },
+        {
+          "t": "p",
+          "x": "The structure itself is simple. Connect Zeroheight to the repository so markdown stays synced directly. On commit, a script generates the markdown; on pull request, CI validates the files and builds a changelog from that PR's commits. On sync, the documentation tool pulls the updated version so the published docs match the repository."
+        },
+        {
+          "t": "img",
+          "src": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/Illustration_3@2x-13.png"
+        },
+        {
+          "t": "p",
+          "x": "Five things are worth automating: props/API tables pulled from the TypeScript compiler; changelogs that feed the git log to an LLM for classification; token reference tables showing platform-specific variable names along with actual values; conformance reports that pipe accessibility test results into markdown; and contributor/ownership information managed through a CODEOWNERS file."
+        },
+        {
+          "t": "p",
+          "x": "Usage guides, rationale, migration notes, and what's allowed versus not allowed stay a human job, because the truth here isn't a fact sitting in a file—it's a decision someone made. Failure comes from both directions. Automate the narrative and you get noise that sounds plausible but has no decision behind it; don't automate the facts and the hand-maintained table quietly drifts out of sync with the code."
+        },
+        {
+          "t": "img",
+          "src": "https://cmszeroheight.wpenginepowered.com/wp-content/uploads/2026/08/Illustration_4@2x-12.png"
+        },
+        {
+          "t": "p",
+          "x": "Trustworthy automated documentation has three properties: determinism, where AI stays out of anything treated as fact so the same source always produces the same output; idempotence, where the system figures out on its own whether to create, update, or skip a file, catching a change only when reality actually changes; and CI enforcement, where a check attached to every generation script means skipping the documentation step breaks the build."
+        }
+      ]
+    },
+    "design/design-figma-sightlines-agentic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/a9356934cc1ec6efbbc4b737340f7d4143c3e9e2-480x480.png?w=1200&q=80&fit=max&auto=format",
+          "cap": "Sightlines Issue 2"
+        },
+        {
+          "t": "p",
+          "x": "Sightlines is a newsletter Figma publishes for design, product, and engineering leaders. Each issue features senior leaders from companies like Cisco, OpenAI, and Airbnb talking about how they're steering product development and design in the age of AI."
+        },
+        {
+          "t": "p",
+          "x": "Issue 2's theme is agentic products: what it takes to build tools powerful and knowledgeable enough to count as real partners while keeping trust and security at the center. It's the question leaders have been wrestling with at recent events, from a Chicago Leadership Collective talk to Config."
+        },
+        {
+          "t": "p",
+          "x": "The first answer is that trust comes first. Users trust an agent when it shows its work and cites its sources. Leaders need to ask their teams to build that level of transparency and explanation into the product from the start."
+        },
+        {
+          "t": "p",
+          "x": "Another piece of advice: don't let “perfect” block a launch. Seeing how an agentic product actually behaves once it's out in the world is part of the learning process. Once it clears a trust baseline, give the team the authority to ship and refine based on real usage."
+        },
+        {
+          "t": "p",
+          "x": "Set governance checkpoints early. The whole team needs to agree in advance on which routine tasks an agent can handle on its own and where a human absolutely has to stay in the loop. Handling sensitive health information is a go-to example of the latter."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/30f2f73daae48e5afd10855e40c230b4a85b63fa-1920x1080.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Rachel Been, Charlie Sutton, and Yuki Yamashita in conversation on stage"
+        },
+        {
+          "t": "p",
+          "x": "Comments from the stage made it in too. Accor VP of Product Design Thomas Vidal said the goal isn't to design what AI can do, but to create the conditions and rules that make a system behave consistently. Expedia Head of Design VP Rachel Been said you can't ship something perfect from day one, that you have to learn from real usage and execution, and that rigor in testing and launch matters."
+        },
+        {
+          "t": "p",
+          "x": "Atlassian Chief Design Officer Charlie Sutton noted that teams will soon be handing agents more and more control over workflows, but someone still has to remain accountable for what that agent does. Figma Developer Advocate Jake Alba added that a leader's job isn't to push the team harder, but to redefine what “good” means so people see gaps they wouldn't have spotted on their own."
+        }
+      ]
+    },
+    "design/design-invisible-ai-features": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.adilaidev.com%2Fapi%2Fcover-brand%2F%3Fsrc%3Dhttps%253A%252F%252Fimages.pexels.com%252Fphotos%252F30530414%252Fpexels-photo-30530414.jpeg%253Fauto%253Dcompress%2526cs%253Dtinysrgb%2526h%253D650%2526w%253D940%26w%3D1200%26h%3D630"
+        },
+        {
+          "t": "p",
+          "x": "Companies keep bolting on AI features, assuming users will welcome them. Reality is different. Most people don't want a tool that makes their work more complicated. The problem isn't the technology, it's how it's added."
+        },
+        {
+          "t": "p",
+          "x": "AI features often arrive bolted on. Instead of blending into an existing flow, they make the user adapt to a new system. Add one more tool to an employee already juggling several, and the workflow fragments. What's left is low adoption, frustration, and wasted resources."
+        },
+        {
+          "t": "p",
+          "x": "Worse, AI amplifies existing problems. If data quality is poor or decision-making is off, AI doesn't fix that—it just makes it more visible. Users end up spending time cleaning up errors AI creates, and the cost of verifying and correcting the output often exceeds the time saved."
+        },
+        {
+          "t": "p",
+          "x": "Author Muhammad Adil lays out five reasons AI ends up feeling like a burden. It disrupts familiar workflows and forces people to learn a new system. It introduces unpredictability, making work feel less reliable. It adds steps to check for hallucinations or regenerate results. It fuels job insecurity instead of expectations of efficiency. And it arrives uninvited, without a clear value proposition."
+        },
+        {
+          "t": "p",
+          "x": "People resist AI not because they dislike the technology, but because it doesn't solve their problem. A feature that doesn't work consistently gets abandoned. AI is judged by the same standard as any other tool."
+        },
+        {
+          "t": "p",
+          "x": "The AI people actually want doesn't call attention to itself. It runs quietly in the background, handling the work users dislike. It automates repetitive, tedious tasks; it enters an existing flow instead of becoming a separate tool; it respects how users think and decide; it's reliable enough that they don't need to double-check it every time; and it stays invisible until needed, then disappears again."
+        },
+        {
+          "t": "p",
+          "x": "That also dictates the build order: first find the work users dislike, then design the AI around that work's existing process. Don't try to change the user. Reliability isn't negotiable, so it has to be tested rigorously, monitored for performance, and continuously refined."
+        },
+        {
+          "t": "p",
+          "x": "AI is a tool, not a silver bullet, and a tool's worth depends on how it's used. Adil argues that the companies that succeed with AI won't be the ones that bolt on the most features, but the ones that solve real problems without creating new ones."
+        }
+      ]
+    },
+    "design/design-ai-builder-shape-first": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/generated-images/394b50b9-691f-414d-9f91-a3db378b80fd.png?fm=auto&w=1200&fit=cover",
+          "cap": "Comparing Lovable, Replit, Codex, and Claude Code"
+        },
+        {
+          "t": "p",
+          "x": "Which tool to use is decided not by whichever AI is trending right now, but by the shape of the software you're trying to build. For a simple web app for one household, a hosted builder like Lovable fits. If you need scripts, scheduled jobs, or a proper backend, Replit or Bolt is the direction. If you want to hold the code, database, and hosting yourself, you pair a coding agent like Codex or Claude Code with separate services. The most common mistake non-developers make is picking the tool before the shape."
+        },
+        {
+          "t": "p",
+          "x": "Software an individual builds usually falls into five branches. Local tools run on a single computer, working with files or a small local DB. Web apps open from a link, run in the browser, and can even sit on a phone's home screen, so they're worth treating as the default unless there's a specific reason not to. Native phone apps only earn their cost when you truly need deep features like app store distribution, push notifications, Bluetooth, background location, or NFC. Background services sometimes have no screen at all. Hardware projects connect to the physical world through a Raspberry Pi, an ESP32, or Home Assistant."
+        },
+        {
+          "t": "p",
+          "x": "Lovable, Replit, and Bolt are all hosted builders. Write a description, and they build the project, bring up a live preview, and even give you a way to deploy. Lovable has the shortest path from a written description to a working screen, which makes it an easy entry point. Replit suits projects that need a scripting language like Python, an always-on server, scheduled jobs, or mobile builds. Bolt occupies a role similar to Lovable's for fast full-stack web apps."
+        },
+        {
+          "t": "p",
+          "x": "You need to separate these layers to avoid confusion. The model is the engine handling reasoning and code generation. A coding agent like Codex or Claude Code hands that model a project folder, a terminal, and a preview. A hosted builder packages the agent together with a finished environment and a deploy button. There's no reason all three layers have to come from one company. Codex isn't locked to OpenAI models either; it can connect to open-source models like GLM through an API key."
+        },
+        {
+          "t": "p",
+          "x": "The real fork in the road is data portability. Choosing Superbase, which is built on the Postgres standard, over a builder's own DB, or connecting GitHub from day one, is what decides whether you can later move your app and data without rebuilding everything from scratch."
+        },
+        {
+          "t": "p",
+          "x": "Once you want to hold each piece yourself, you split the stack: Codex or Claude Code running locally, GitHub Desktop for rolling back versions, Superbase for the shared database plus login and file storage, and Vercel for preview links. It means more accounts and more parts than Lovable, but you can swap out any one piece while leaving the rest untouched."
+        },
+        {
+          "t": "p",
+          "x": "If this is your first project, it's fine to start with Lovable. There's nothing to install, and you don't need to know the command line. But if you plan to move your data later, or to layer another tool on the same data, it's better to choose Superbase over Lovable Cloud from the start, even if that means a bit more setup."
+        }
+      ]
+    },
+    "design/design-figma-motion-plugin-show-your-work": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "AF4VD3dfUdc"
+        },
+        {
+          "t": "p",
+          "x": "Jamie Haberman, an education designer at Figma, shows the process of building a kinetic typography plugin with the Figma agent in this episode of “Show Your Work.” No hour-long tutorial was needed."
+        },
+        {
+          "t": "p",
+          "x": "The starting point was a small delight. She wanted to add details to a product, like playful micro-interactions or loading states, and wondered what it would be like if the agent could pull a kinetic typography sequence directly inside the file. The goal was a reusable tool that brought letters to life."
+        },
+        {
+          "t": "p",
+          "x": "At first, she got stuck trying to put the desired effect and needed controls into words. The first trick comes from this: don't just describe it in words, show it with a screenshot. This works especially well when the result is already clear in your head but hard to convey. The agent also quickly worked out what controls were needed to produce the visuals, motion, and style she wanted."
+        },
+        {
+          "t": "p",
+          "x": "There were times when the plugin just kept producing static frames on the canvas instead of motion keyframes on the timeline. Looking back, she had never actually said to set keyframes. It's better to name the exact feature or tool you want it to use. The moment she specified using Motion, real keyframes landed on the timeline — a lot of them, too. Since the controls were already built, she didn't need to touch the timeline by hand; she rebuilt and refined it all from the plugin."
+        },
+        {
+          "t": "p",
+          "x": "There's one more thing she learned along the way: you can ask for a live preview inside the plugin itself. Once a preview was attached to the UI, the way she worked changed completely. Instead of generating and waiting, generating and waiting again, dragging a slider changed things right there on the spot. Cutting 12 lines down to 8, raising the frequency, boosting the X amplitude to make the motion bolder, and rotating letters all happened right inside the preview."
+        },
+        {
+          "t": "p",
+          "x": "The prompting started small, with just a couple of 2D controls. Watching how the agent handled each step before adding the next one worked well. Starting small and building up tells you what the agent is making and shows you the process. When things head in the wrong direction or the result goes off track, you roll it back early instead of untangling the thread later."
+        },
+        {
+          "t": "p",
+          "x": "After watching 2D presets come together quickly, she asked whether letters could be wrapped around a 3D object. As the prompting continued, the agent started suggesting controls she hadn't even asked for, like spread phase or 3D tilt. In the globe preset, the type wraps around a 3D sphere, and tilting the orientation made the live preview follow along in real time. The two of them built it up through back-and-forth exchange, without planning everything out in advance."
+        },
+        {
+          "t": "p",
+          "x": "There are four tricks: show the result you want with a screenshot; name the exact Figma feature you want it to use; ask for a live preview to see the controls work in real time; and start with a few controls and build up by adding the agent's suggestions."
+        }
+      ]
     }
   }
 }

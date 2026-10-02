@@ -1975,6 +1975,566 @@
           "x": "No es la primera incursión de Alibaba en la música. Compró el servicio de streaming Xiami Music en 2013 y lo cerró en febrero de 2021. El pasado julio, Damai International, el brazo internacional de su división de entretenimiento, lanzó el sello de desarrollo de artistas ORCA y realizó audiciones en todo el mundo. Según la IFPI, China creció un 20.1% en 2025, superando a Alemania para convertirse en el cuarto mercado discográfico más grande del mundo."
         }
       ]
+    },
+    "music/music-apple-made-with-ai-tag": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/06/shutterstock_2743228399-e1780399563445.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple Music avisó a sus socios. La música “generada de forma sustancial” en plataformas de IA como Suno recibirá una etiqueta 'Made With AI' antes de que termine el año."
+        },
+        {
+          "t": "p",
+          "x": "Pero solo si los sellos y distribuidores ya habían añadido los metadatos correspondientes antes de que el audio llegara a la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Esto se recoge en un mensaje que Apple envió a sus socios de la industria el jueves 20 de agosto, obtenido por MBW. Un sistema de etiquetado que Apple Music ha estado ejecutando en segundo plano desde marzo ahora también será visible para los oyentes. Apple llama a estas etiquetas AI Transparency Tags."
+        },
+        {
+          "t": "p",
+          "x": "Con estas etiquetas, los sellos y distribuidores han venido marcando si se usó IA en la pista, la composición, la portada y el video musical por separado. Hasta ahora, esto solo era visible dentro del feed de distribución de contenido de Apple."
+        },
+        {
+          "t": "p",
+          "x": "«Pedimos que los sellos y distribuidores etiqueten así el contenido cuando envíen contenido generado de forma sustancial por IA», escribió Apple en el memo de ese día. «Antes de que acabe el año, haremos visible esta etiqueta para los usuarios de Apple Music en forma de una etiqueta Made With AI»."
+        },
+        {
+          "t": "p",
+          "x": "Apple añadió que los proveedores de contenido «deben incluir AI Transparency Tags en todos los casos en que la IA se use para crear una parte sustancial del contenido, lo cual incluye pistas generadas por plataformas de IA». «El contenido generado por plataformas de IA se refiere a todo lo derivado principalmente de un servicio de IA generativa»."
+        },
+        {
+          "t": "p",
+          "x": "Aquí, la «obligación» recae en la cadena de suministro, no en la plataforma. Apple Music no detecta por sí mismo el contenido de IA para aplicar la etiqueta; depende de que los sellos y distribuidores lo reporten. Es el mismo enfoque que adoptó al introducir las etiquetas en marzo."
+        },
+        {
+          "t": "p",
+          "x": "Este enfoque de autodeclaración contrasta con lo que anunció Spotify a principios de este mes. El 11 de agosto, Spotify anunció que añadiría una insignia «AI Persona» a los perfiles de artistas que presenten una identidad generada por IA. Para esa insignia, dijo que «no dependerá solo de la autodeclaración», y que revisará y marcará directamente los perfiles cuya identidad pública «parezca ser una identidad generada por IA realista»."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, la insignia de Spotify señala al artista, no a la música. En el lado musical, depende de créditos autodeclarados, igual que la etiqueta de Apple. Deezer usa su propia tecnología para detectar y marcar claramente las pistas que sospecha fueron hechas con IA."
+        },
+        {
+          "t": "p",
+          "x": "También hay un contexto regulatorio. Las normas de transparencia de la Ley de IA de la UE, vigentes desde el 2 de agosto, exigen a los proveedores de sistemas de IA generativa incorporar marcas legibles por máquina en sus resultados. Los servicios que ya estaban en el mercado antes de esa fecha deben cumplir este requisito antes del 2 de diciembre, y Suno está entre ellos."
+        },
+        {
+          "t": "p",
+          "x": "Suno dijo el 6 de agosto que introduciría marcado de agua y huellas digitales de audio «en semanas», trabajando con las plataformas de distribución para «combatir el fraude y el mal uso». Si la marca queda incorporada en el momento de la generación, se vuelve más fácil identificar las pistas de IA más adelante en la cadena, y los sellos y distribuidores obtienen un medio técnico para verificar antes de etiquetar contenido en Apple Music u otros DSP."
+        },
+        {
+          "t": "p",
+          "x": "La RIAA y la IFPI anunciaron en julio pasado una iniciativa a nivel de toda la industria para que las pistas hechas con IA se etiqueten claramente en los principales servicios de streaming del mundo."
+        }
+      ]
+    },
+    "music/music-ssg-loudness-pro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.kvraudio.com/i/s/kvr-loudnesspro-banner-v5-large.jpg",
+          "cap": "SSG Audio Loudness Pro"
+        },
+        {
+          "t": "p",
+          "x": "SSG Audio lanzó Loudness Pro. En vez de usar un umbral fijo, es un limitador de mastering que recalcula los parámetros de clipping y limiting miles de veces por segundo. Hay un solo control, y un motor de IA gestiona el equilibrio entre el clipper y el limiter con resolución a nivel de muestra."
+        },
+        {
+          "t": "p",
+          "x": "Los limitadores habituales obligan al ingeniero a fijar a mano el umbral, el techo, el release y la cantidad de clipping. Loudness Pro reajusta continuamente la proporción entre clip y limit en tiempo real. Busca reducir el pumping y los transitorios aplastados que surgen cuando un valor fijo se desajusta de una fuente que cambia, manteniendo el volumen percibido constante."
+        },
+        {
+          "t": "p",
+          "x": "También incluye Auto Dither Control (ADC), que aplica dither automáticamente solo cuando se necesita para una exportación de 16 bits, sin tener que activarlo o desactivarlo a mano. La latencia a 48kHz es de unos 5 ms, así que no se limita al procesamiento offline: se puede dejar activo durante una sesión de mastering con monitoreo en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "SSG Audio presenta Loudness Pro como una herramienta para colocar al final de la cadena de mastering, después de terminar el trabajo de tono y dinámica. Ya existen muchos maximizadores de loudness de propósito único, pero este se diferencia en que una IA gestiona los parámetros detrás de una interfaz simple."
+        },
+        {
+          "t": "p",
+          "x": "La empresa es una colaboración entre los equipos de desarrollo de Nuro Audio y Exonic UK, y apunta a ingenieros de mastering y productores que buscan un volumen percibido competitivo sin tener que mantener una cadena de limitadores de varias etapas complicada."
+        },
+        {
+          "t": "p",
+          "x": "Funciona como AU, VST2, VST3 y AAX de 64 bits en macOS 10.13 o posterior y Windows 10/11. El precio de lista es de 150 dólares, y ya se puede comprar al precio de lanzamiento de 74 dólares."
+        }
+      ]
+    },
+    "music/music-opentune": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/opentune-728x364.jpg",
+          "cap": "OpenTune, una herramienta de IA gratuita y de código abierto para corrección de tono en voces"
+        },
+        {
+          "t": "p",
+          "x": "OpenTune es una herramienta de corrección de tono gratuita y de código abierto que funciona en Windows y macOS."
+        },
+        {
+          "t": "p",
+          "x": "Todavía está en beta, pero vale la pena si buscas una alternativa gratuita a Melodyne o Auto-Tune, y el enfoque basado en IA suma a su favor. Para un usuario potencial como yo, el mayor obstáculo es que la interfaz está en chino."
+        },
+        {
+          "t": "p",
+          "x": "Esto es más o menos lo que hacemos en BPB: probar en tu lugar plugins que parecen sospechosos. En esta ocasión hicimos lo posible, pero como ahora no tenemos una máquina con Windows, solo probamos la versión de macOS, en nuestra laptop principal."
+        },
+        {
+          "t": "p",
+          "x": "El instalador de macOS es bastante pesado para un plugin: unos 780MB, y no está firmado, así que hay que saltarse la advertencia de seguridad de macOS para instalarlo. Tras la instalación, Studio One no mostró el VST3; solo se abrió la versión independiente."
+        },
+        {
+          "t": "p",
+          "x": "Por eso esta prueba quedó a medias. Al menos confirmamos que la versión independiente funciona. Si evitar advertencias de seguridad o lidiar con una interfaz en otro idioma te desanima, te sugerimos pasar de esta."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, para quien tenga curiosidad, dejamos aquí qué es OpenTune."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de depender solo del desplazamiento de tono DSP tradicional, OpenTune ejecuta extracción de tono RMVPE y un vocoder neuronal PC-NSF HiFiGAN sobre ONNX Runtime. El desarrollador dice que el objetivo es reconstruir las voces con el tono corregido o desplazado mientras se preservan los formantes originales."
+        },
+        {
+          "t": "p",
+          "x": "En otras palabras, busca evitar el efecto “duck voice”, o el sonido de la voz de otra persona por completo, que puede aparecer cuando la corrección de tono se aplica con fuerza. Esa es, al menos, su afirmación."
+        },
+        {
+          "t": "p",
+          "x": "El flujo de trabajo se inspira abiertamente en software de corrección de tono manual como Melodyne. Incluye dibujo a mano, edición de notas, herramientas de anclaje, detección automática de tonalidad y autotuning. También admite escalas de corrección como Chromatic, Major, Minor, Pentatonic, Dorian, Mixolydian y Harmonic Minor."
+        },
+        {
+          "t": "p",
+          "x": "OpenTune V1.5 Beta añadió una extensión VST3 ARA2. En hosts compatibles como Studio One o Logic Pro, esto debería permitir usar el enlace de regiones y el renderizado, pero nunca llegó a cargar en mi Studio One."
+        },
+        {
+          "t": "p",
+          "x": "La última beta añade Undo/Redo de hasta 500 pasos, una insignia flotante de estado de renderizado, menor uso de memoria, generación de notas mejorada y soporte oficial para macOS. La aceleración por GPU se procesa mediante DirectML en Windows y CoreML en macOS."
+        },
+        {
+          "t": "p",
+          "x": "Puede importar WAV, FLAC, OGG y MP3, y la interfaz admite chino, inglés, japonés, ruso y español. La página de GitHub y la mayoría del material de demostración están en chino."
+        },
+        {
+          "t": "p",
+          "x": "La versión de macOS no está completamente notarizada, así que la decisión queda en manos de cada usuario: hay que confiar en el antivirus y en las herramientas de seguridad del sistema operativo."
+        },
+        {
+          "t": "p",
+          "x": "Tiene licencia AGPL v3.0. Está disponible como aplicación independiente y como plugin VST3, y también admite ARA2 en hosts compatibles."
+        }
+      ]
+    },
+    "music/music-roundhill-suits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/GettyImages-72922516.jpg",
+          "cap": "Entre las obras denunciadas está I Got You (I Feel Good), de James Brown. Foto: Hulton Archive/Getty"
+        },
+        {
+          "t": "p",
+          "x": "Round Hill Music presentó demandas por infracción de copyright contra Suno y Anthropic. Dejó claro que no tiene intención de llegar a un acuerdo en ninguno de los dos casos. Las demandas se presentaron el 17 de agosto ante el Tribunal Federal de Distrito del Distrito Norte de California."
+        },
+        {
+          "t": "p",
+          "x": "Cada demanda busca daños estatutarios de hasta $150,000 por cada obra infringida de forma deliberada. Round Hill estima que el total de cada demanda podría llegar a “hundreds of millions of dollars and potentially approach or conceivably exceed $1 billion”, es decir, cientos de millones de dólares que podrían acercarse o incluso superar los $1,000 millones."
+        },
+        {
+          "t": "p",
+          "x": "Los demandantes son Round Hill Music LP y cinco fondos y sociedades holding afiliadas. Entre todos poseen 14,364 canciones y 16,873 grabaciones. La demanda adjunta por ahora 500 canciones como ejemplos representativos, con planes de ampliarla a más de 10,000. Entre las canciones en cuestión están Iris, de Goo Goo Dolls; Total Eclipse of the Heart, de Jim Steinman y Bonnie Tyler; e I Got You (I Feel Good), de James Brown. Solo esas tres suman más de 6,000 millones de streams."
+        },
+        {
+          "t": "p",
+          "x": "La demanda contra Suno también incluye como demandadas a la empresa israelí de extracción de datos Bright Data Ltd. y a su filial estadounidense. Se les acusa de proporcionar redes proxy y herramientas de scraping que permitieron a Suno recolectar música de plataformas con licencia."
+        },
+        {
+          "t": "p",
+          "x": "El fundador y director ejecutivo de Round Hill, Josh Gruss, dijo: “We are not against artificial intelligence. We are against the idea that you can build a business worth billions on top of other people's creative work and pay the creators nothing.” Es decir, no se oponen a la inteligencia artificial, sino a la idea de construir un negocio de miles de millones sobre el trabajo creativo de otros sin pagarles nada a los creadores. También dijo que buscará responsabilidades hasta llegar a juicio."
+        },
+        {
+          "t": "p",
+          "x": "Round Hill contrató a Richard S. Busch, el abogado que ganó el caso “Blurred Lines” en representación de la herencia de Marvin Gaye. Ambas demandas exigen juicio con jurado."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic ya se defiende en el mismo tribunal de otras tres demandas por copyright musical. Concord Music Group, Universal Music Publishing Group y ABKCO presentaron una en octubre de 2023 por unas 500 canciones, y los mismos editores presentaron otra en enero de 2026 por más de 20,000 canciones, exigiendo más de $3,000 millones."
+        },
+        {
+          "t": "p",
+          "x": "La situación de Suno también es complicada. Las tres grandes discográficas, lideradas por la RIAA, demandaron en Boston en junio de 2024, y Universal y Sony siguen como demandantes. El 31 de julio, el Tribunal Regional de Múnich, en un caso presentado por GEMA, determinó que Suno no tenía derecho a usar el repertorio de la asociación y ordenó revelar ingresos y pagar daños."
+        },
+        {
+          "t": "p",
+          "x": "Fundada en 2010, Round Hill maneja un portafolio de $1,100 millones y 200,000 derechos de autor con un equipo de poco más de 50 personas. Todavía no ha anunciado ningún acuerdo de licencia de IA."
+        }
+      ]
+    },
+    "music/music-submithub-40": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/submithub-ai-credit-cottonbro-studio.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=IrJKaFoTJdzmlxYSdrQ9REz_LuFUmeIvtuH4jbSoE0U",
+          "cap": "Detección de música con IA de SubmitHub (Foto: cottonbro studio)"
+        },
+        {
+          "t": "p",
+          "x": "Casi el 40% de la música publicada en todo el mundo el mes pasado mostró señales de que la IA intervino en algún punto del proceso de producción, según un nuevo estudio de SubmitHub."
+        },
+        {
+          "t": "p",
+          "x": "El detector de música con IA de SubmitHub analizó más de 1 millón de pistas publicadas en julio, y el 23.2% de ellas era enteramente generado por IA."
+        },
+        {
+          "t": "p",
+          "x": "A eso se suma otro 15.3% de canciones que mostraron señales de audio generado por IA que había sido “editado o procesado” por una persona. Eso sitúa a casi el 40% de los lanzamientos de julio como hechos con cierta participación de la IA."
+        },
+        {
+          "t": "p",
+          "x": "SubmitHub es una plataforma que permite a los artistas enviar música a listas de reproducción y blogs. Al presentar su herramienta de detección de IA, SH Labs, en junio, dijo que quería abordar un “problema de transparencia cada vez mayor.”"
+        },
+        {
+          "t": "p",
+          "x": "“Creemos que el camino a seguir para la música con IA es la transparencia,” dijo el fundador de SubmitHub, Jason Grishkoff. “La gente debería poder decidir por sí misma si quiere involucrarse con música hecha por IA. Nuestro trabajo es darles suficiente información para tomar esa decisión.”"
+        },
+        {
+          "t": "p",
+          "x": "Entre los datos que ha reunido SubmitHub hay este dato: entre los artistas cuya música fue señalada como relacionada con IA al momento de su lanzamiento este año, el 31% dijo a la plataforma, cuando se le preguntó, que no había usado ninguna herramienta de IA."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta de detección la usan actualmente Bandcamp y Traxsource. También la usa GEMA, la organización de gestión de derechos que recientemente obtuvo un fallo histórico en una demanda contra la plataforma de generación de música con IA Suno."
+        },
+        {
+          "t": "p",
+          "x": "Ese fallo de julio determinó que Suno no tenía derecho a usar música gestionada por GEMA para entrenar sus modelos de IA, y que había violado tanto la ley de derechos de autor alemana como la estadounidense."
+        }
+      ]
+    },
+    "music/music-i-am-choir-neural-vocal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/iamchoir.jpg",
+          "cap": "I AM CHOIR"
+        },
+        {
+          "t": "p",
+          "x": "AM I AUDIO presentó I AM CHOIR, un instrumento de coro que toma una voz cantada y la convierte en una parte coral que sigue exactamente la letra, la melodía, el fraseo y el tiempo."
+        },
+        {
+          "t": "p",
+          "x": "No es un doblador de voces común, ni una librería de pads corales. Es una herramienta de transferencia de timbre que remodela una interpretación introducida en el sonido de un coro grabado."
+        },
+        {
+          "t": "p",
+          "x": "Funciona de forma local dentro de la DAW. No hay procesamiento en la nube, y el audio nunca sale del ordenador. La licencia también es perpetua, así que no hay que comprar por separado suscripciones, tokens ni créditos de generación."
+        },
+        {
+          "t": "p",
+          "x": "Hay tres modelos de coro. Gospel Choir es un coro mixto dirigido por Erica Howard, con un rango de E2 a G5. Kids Choir es un coro infantil luminoso grabado con el MUSYCA Children's Choir, con un rango de G#2 a G5. Shout es un modelo de voces masculinas de grupo para partes gritadas y no melódicas, con un rango de E2 a G5."
+        },
+        {
+          "t": "video",
+          "yt": "4kh2vCIToxE"
+        },
+        {
+          "t": "p",
+          "x": "AM I AUDIO afirma haber trabajado directamente con los cantantes detrás de los modelos. Los cantantes participaron sabiendo de qué se trataba el trabajo y dando su consentimiento, recibieron pago por las sesiones de grabación, y recibirán una parte de las regalías si el plugin tiene éxito."
+        },
+        {
+          "t": "p",
+          "x": "También hay varios modelos de micrófono. El U67 y el C12/C24 están presentes en todos los coros, el Schoeps va con Gospel y Shout, y el Telefunken va con Kids."
+        },
+        {
+          "t": "p",
+          "x": "En el arreglo hay un generador de octavas, además de un generador de armonía que crea terceras y quintas por encima y por debajo de la voz principal, con ajustes de tonalidad y escala incluidos. También hay un conmutador estéreo/mono."
+        },
+        {
+          "t": "p",
+          "x": "El posprocesamiento se limita a corte de graves, brillo y cantidad de reverberación. AM I AUDIO recomienda introducir voces secas y recortar los silencios largos antes de la conversión. También aconseja superponer capas una octava arriba y abajo para que el coro suene más grande."
+        },
+        {
+          "t": "p",
+          "x": "La ingeniería y el diseño se hicieron junto con Neutone, Inc."
+        },
+        {
+          "t": "p",
+          "x": "El precio es de 169 dólares de lanzamiento hasta el 1 de septiembre, y después sube a 199 dólares. Hay una prueba gratuita de 14 días sin tarjeta de crédito. Es compatible con VST3, AU y AAX en macOS 12 y versiones posteriores; Windows todavía no está listo, así que solo hay un programa beta abierto."
+        }
+      ]
+    },
+    "music/music-stemdeck-local-splitter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/08/stemdeck.jpg",
+          "cap": "StemDeck"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador independiente Thales Pereira presentó StemDeck, una herramienta gratuita y de código abierto para separar pistas que funciona en Windows, macOS y Linux."
+        },
+        {
+          "t": "p",
+          "x": "El motivo es modesto. Quería que su hijo practicara batería, y necesitaba una forma de extraer pistas sin pagar una suscripción ni subir música al servidor de otra persona."
+        },
+        {
+          "t": "p",
+          "x": "Ya había usado herramientas como Ultimate Vocal Remover o Go-Splitter, pero StemDeck resulta especialmente austero. Es gratuito, se ejecuta en local, es de código abierto, y no exige cuenta, cuota, subida de archivos ni suscripción."
+        },
+        {
+          "t": "p",
+          "x": "La separación corre a cargo del modelo htdemucs_6s de Demucs, de código abierto. Divide en hasta seis partes: voz, batería, bajo, guitarra, piano y el resto de los sonidos. El dispositivo se elige automáticamente: CUDA si hay NVIDIA, MPS si hay Apple Silicon, o CPU en cualquier otro caso."
+        },
+        {
+          "t": "p",
+          "x": "Puede importar formatos comunes como MP3, WAV, FLAC, OGG/Opus, MP4 y M4A, y se puede pegar un enlace de YouTube si se tienen los derechos para procesar ese contenido. Sin embargo, la página de GitHub deja claro que StemDeck no es un descargador, y que los derechos de autor y los términos de la plataforma son responsabilidad del usuario."
+        },
+        {
+          "t": "p",
+          "x": "Una vez termina la separación, se abre un mezclador multipista basado en el navegador. Se puede silenciar, poner en solo y equilibrar pistas, monitorear una sola pista, ampliar la forma de onda y repetir secciones en bucle. Las pistas se pueden exportar por separado o agrupadas en la mezcla que se prefiera."
+        },
+        {
+          "t": "p",
+          "x": "Si solo se eligen algunas pistas, el resto queda en una pista aparte llamada 'Original'. Resulta útil para comparaciones A/B o para practicar."
+        },
+        {
+          "t": "p",
+          "x": "También incluye análisis de la canción: detección de BPM, estimación de tonalidad y escala con nivel de confianza, LUFS integrado y pico de muestra. También se puede exportar a MP4, así que si se trabajó desde una fuente MP4 o de YouTube, se puede volver a aplicar la mezcla actual sobre el video original."
+        },
+        {
+          "t": "p",
+          "x": "La opción de red local resulta interesante. Según el desarrollador, al abrir StemDeck a la misma red en la configuración, el procesamiento lo hace el propio ordenador mientras la biblioteca y el mezclador se manejan desde otro dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "Todavía está en alfa. Es suficiente para practicar, preparar remezclas, transcribir, hacer trabajo previo de sampleo y experimentar, pero no está pensado para sustituir directamente a un servicio comercial pulido. En la primera ejecución descarga un runtime de Python, FFmpeg y el modelo Demucs, y después arranca mucho más rápido. Windows ofrece una versión solo para CPU y otra con NVIDIA CUDA, y macOS se divide en descargas para Apple Silicon e Intel."
+        },
+        {
+          "t": "p",
+          "x": "StemDeck está en GitHub y ya superó las 2.000 estrellas. El desarrollador dijo que las descargas pasaron de 13.000 en poco más de dos meses, casi todo por boca a boca."
+        }
+      ]
+    },
+    "music/music-train-your-own-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/train-ai-image.png",
+          "cap": "Train your own AI"
+        },
+        {
+          "t": "p",
+          "x": "En los últimos años, los músicos han estado haciéndole a la inteligencia artificial la pregunta equivocada. ¿Puede la IA escribir una canción? Por supuesto que puede. Puede componer, imitar voces, producir cues orquestales, y sacar techno, ambient, country, bandas sonoras y algo parecido al jazz. Dejemos de fingir sorpresa."
+        },
+        {
+          "t": "p",
+          "x": "La pregunta más interesante viene después. ¿Qué pasa cuando un músico deja de pedirle música genérica a una IA gigantesca y empieza a construir un sistema centrado en sí mismo? No una IA entrenada con toda la música, sino una IA entrenada con su propia música: grabaciones e interpretaciones, voz, MIDI, partituras, demos, stems, improvisaciones, ideas descartadas, errores, decisiones de producción, incluso notas."
+        },
+        {
+          "t": "p",
+          "x": "Ya hay quienes lo han hecho. YACHT pasó su propio catálogo por aprendizaje automático al hacer Chain Tripping y usó los resultados como material de composición. En lugar de que el álbum se volviera historia en el momento de terminarlo, se convirtió en un terreno al que se podía entrar desde otra dirección."
+        },
+        {
+          "t": "p",
+          "x": "Actress creó un alter ego computacional llamado Young Paint, y Holly Herndon trató a Spawn como un miembro más de su ensamble. Después publicó Holly+, una versión sintética de su propia voz cantada. Grimes abrió una versión de IA de su voz para que otros creadores la usaran. Ahí es donde el modelo mismo se convierte en un activo del artista."
+        },
+        {
+          "t": "p",
+          "x": "Mogen, de Imogen Heap, va más allá del sonido. Incorpora entrevistas, notas y decisiones de producción, e inclina la balanza hacia saber por qué se hizo algo, no solo qué se hizo. R², de Reinier Zonneveld, responde a su interpretación en vivo sobre el escenario y genera MIDI para controlar sintetizadores y cajas de ritmos directamente. Eso solo fue posible porque conservó miles de horas de archivo en lugar de descartarlas."
+        },
+        {
+          "t": "p",
+          "x": "Esta tecnología ahora se está volviendo una función. Suno añadió modelos personalizados que construyen un modelo propio a partir de relativamente poco material autograbado, y el ajuste fino de código abierto ya está al alcance de un ordenador común. La pregunta pasó de “cómo construyo un modelo” a “qué carpeta entrego”."
+        },
+        {
+          "t": "p",
+          "x": "El autor advierte contra dejar que la primera orden sea “escribe mi próximo álbum”. Según él, eso es una rendición disfrazada de eficiencia. En su lugar, sugiere pedir cosas como: muéstrame diez soluciones armónicas que normalmente no elegiría. Empuja en cinco direcciones distintas una canción que se quedó estancada en 2003. Encuentra el gesto que he estado repitiendo sin darme cuenta."
+        },
+        {
+          "t": "p",
+          "x": "También hay una trampa. Cuanto mejor te entiende el modelo, mejor predice lo que harías a continuación. Una máquina que, cada vez que te quedas atascado, ofrece variaciones infinitas y plausibles de lo que ya has hecho es dulce y peligrosa a la vez. En la práctica, has criado tú mismo al mayor experto del mundo en tus propios clichés."
+        },
+        {
+          "t": "p",
+          "x": "Por eso la receta del autor no es la generación. Es empezar por organizar el archivo, elegir qué te representa, comenzar en pequeño y anotar por qué hiciste las cosas de esa manera. Elegir el conjunto de datos es, en sí mismo, el primer acto artístico de construir una IA personal. El modelo conoce tu pasado, pero lo que llegue a ser sigue siendo cosa de la persona."
+        }
+      ]
+    },
+    "music/music-umg-hook-licensed-remix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/08/1-IMAGE-7-4.jpg",
+          "cap": "UMG × Hook"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group ha firmado una asociación de licencias con Hook. Hook es una app de remixes y mashups basada en IA que también incluye herramientas de edición de video para compartir en redes sociales, y ahora los fans pueden crear contenido con las grabaciones oficiales de UMG."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio se hizo el miércoles 19 de agosto. Cubre contenido generado por usuarios con licencia en las redes sociales en general, y las ganancias vuelven a los artistas y titulares de derechos de UMG."
+        },
+        {
+          "t": "p",
+          "x": "Hook recaudó 10 millones de dólares en febrero en una ronda Serie A liderada por Khosla Ventures. En ese momento, la empresa explicó que permite remezclar canciones con herramientas de IA y compartirlas en varias plataformas, protegiendo a la vez la propiedad y el control de los artistas junto con los titulares de derechos."
+        },
+        {
+          "t": "p",
+          "x": "Según ambas empresas, Hook es distinto de las plataformas de IA generativa. No genera canciones nuevas. Solo permite que los fans creen UGC con música licenciada. Cada creación lleva licencia, crédito y seguimiento, de modo que el dinero llega a los artistas y titulares de derechos de UMG tanto cuando un fan crea algo como cuando esa creación se difunde."
+        },
+        {
+          "t": "p",
+          "x": "El control del artista está en el centro del acuerdo. Los artistas y titulares de derechos de UMG deciden qué canciones se habilitan, qué funciones creativas pueden usar los fans y dónde se pueden publicar los resultados. Funciones como remezclar, efectos de sonido o recortes de video también se pueden activar o desactivar una por una."
+        },
+        {
+          "t": "p",
+          "x": "\"No creemos que el mayor uso del público para la creación musical sea hacer canciones originales que compitan con el artista. Es expresarse a través de los artistas y canciones que aman, y participar en la comunidad y la cultura que esos artistas han reunido.\" — Gaurav Sharma, fundador y director ejecutivo de Hook"
+        },
+        {
+          "t": "p",
+          "x": "El acuerdo llega tras dos años de trabajo con sellos de UMG como Republic Records, Capitol Records, Mavin y Virgin Music Group. En ese tiempo se crearon más de 30 campañas de artistas que abarcaron lanzamientos, remixes y actividad social de fans."
+        },
+        {
+          "t": "p",
+          "x": "\"El streaming cambió la forma en que los fans escuchan música. La creación de fans con licencia es un pilar importante del siguiente capítulo. Reúne el control del artista, la tecnología responsable y nuevas formas de generar valor. Es el tipo de innovación que queremos liderar.\" — Michael Nash, vicepresidente y director digital de UMG"
+        },
+        {
+          "t": "p",
+          "x": "UMG ha seguido avanzando en licencias. En octubre de 2025 resolvió una demanda por derechos de autor con la plataforma de IA musical Udio y acordó desarrollar juntos servicios de creación musical con IA basados en licencias, y en mayo renovó un acuerdo global de licencias de varios años con TikTok, ampliando las protecciones de IA para artistas y compositores."
+        },
+        {
+          "t": "p",
+          "x": "En diciembre de 2025, Hook alegó que una función 'Create Hook' lanzada por el generador de música con IA Suno se parecía demasiado a su propia marca y producto. En ese momento, Hook dijo que la función \"reflejaba nuestra identidad y funcionalidad lo bastante de cerca como para generar serias preocupaciones sobre la confusión del consumidor y la protección de las marcas de Hook\"."
+        },
+        {
+          "t": "p",
+          "x": "Entre los inversores de Hook están Khosla Ventures, Point72, Imaginary Ventures, y Waverley Capital, cofundada por el expresidente ejecutivo de Warner Music Group Edgar Bronfman Jr. En 2024 también firmó un acuerdo de licencias de pistas con Downtown Music."
+        }
+      ]
+    },
+    "music/music-tamber-2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/08/Tamber-2.0@2000x1500-1068x801.jpg",
+          "cap": "Tamber 2.0. Imagen: Tamber"
+        },
+        {
+          "t": "p",
+          "x": "Tamber lanzó la v2.0. La empresa llama a este lanzamiento una “expansión a gran escala” de su plataforma de creación musical. Renovó sus herramientas de creación, añadió nuevas funciones y ahora admite Windows de forma nativa."
+        },
+        {
+          "t": "p",
+          "x": "Tamber se lanzó por primera vez en mayo de este año, así que la actualización llegó bastante rápido. Es una suite de creación que funciona con una tecnología que la empresa llama “inteligencia sónica”, centrada en la asistencia más que en la generación. Convierte pensamientos e ideas vagas que flotan en la mente en sonido. Funciona de forma nativa en Mac y Windows, y se integra junto al DAW y las herramientas de producción que ya usas."
+        },
+        {
+          "t": "p",
+          "x": "Entonces, ¿qué cambió? Las cinco herramientas centrales de Tamber —Gestures, Tamby, Librarian, City Packs y Sonic Atlas— ahora funcionan cada una como una app dedicada dentro de una sola suite conectada. Abres directamente la herramienta que necesitas y te mueves entre ellas con una sola cuenta."
+        },
+        {
+          "t": "p",
+          "x": "Gestures lee tus manos a través de la webcam para controlar efectos vocales e instrumentos virtuales. En la v2.0 funciona también como instrumento independiente y se integra como plugin VST3 o AU. Incorporó nuevos motores de sintetizador y vocoder, y la latencia se redujo."
+        },
+        {
+          "t": "video",
+          "yt": "Myj_nExLPJE"
+        },
+        {
+          "t": "p",
+          "x": "Tamby, que se presenta como “coproductor en sesión”, se convirtió en una capa superpuesta discreta que invocas cuando la necesitas. El historial de chat se conserva, así que los prompts y el trabajo anteriores quedan guardados. También apareció una mini barra de búsqueda de Librarian flotando sobre el DAW, junto con herramientas de favoritos y crates."
+        },
+        {
+          "t": "p",
+          "x": "City Packs sigue creciendo. Son paquetes llenos de grabaciones de campo captadas en persona, con uno nuevo cada mes. Sonic Atlas, la app de exploración visual para recorrer la música popular por país, ciudad y época, también incorporó favoritos."
+        },
+        {
+          "t": "p",
+          "x": "Tamber no genera canciones terminadas, stems ni samples. En un comunicado enviado a MusicTech, la empresa dijo que nunca entrenó con audio de terceros. En cambio, ayuda a los músicos a manejar sus propias herramientas. Con la v2.0, los usuarios tienen mayor control sobre “qué partes de Tamber usar y cómo esas herramientas se integran en su propio proceso creativo”."
+        },
+        {
+          "t": "p",
+          "x": "La fundadora Zoe Wrenn dijo: “Casi todo esto viene de lo que los usuarios nos dijeron que necesitaban. Gestures ahora es un instrumento de verdad. Como tiene sus propios motores de sintetizador y vocoder, puedes tocarlo solo sin un DAW, o añadirlo directamente a una sesión como plugin”."
+        },
+        {
+          "t": "p",
+          "x": "“Librarian se reconstruyó desde cero, y Tamby recupera lo que estabas haciendo a mitad de una grabación sin perder nada. Lo he usado en mis propias sesiones durante semanas, y no se siente como una actualización. Se siente como un producto nuevo”."
+        }
+      ]
+    },
+    "music/music-vaemi-synterra": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/v/vaemi_synterra-2b6mNUyw0vImIshbKv7X8uMW621hsfYh.jpg",
+          "cap": "VAEMI Synterra"
+        },
+        {
+          "t": "p",
+          "x": "VAEMI anunció que pronto lanzará un nuevo sintetizador generativo independiente “bio-interactivo”. Synterra lee datos cambiantes de fuentes que van desde plantas, hongos y frutas hasta materia orgánica, superficies conductoras, luz y el tacto humano, y los convierte en estructuras musicales que siguen creciendo."
+        },
+        {
+          "t": "p",
+          "x": "Al encenderse, una bobina incorporada lee el campo electromagnético circundante para fijar un punto de referencia inicial. Como este valor determina la distribución inicial de notas y el comportamiento temporal, la música que resulta cambia constantemente y nunca se repite, aunque se conecte la misma fuente. Los cambios de resistencia detectados por las sondas y los cambios de luz recibidos por el LDR integrado se convierten en eventos que pasan por un cuantizador interno y un motor de probabilidad, generando notas, movimiento rítmico y estructuras en capas dentro de una de las ocho escalas elegidas por el usuario."
+        },
+        {
+          "t": "p",
+          "x": "La polifonía se ajusta de 1 a 5 voces, y el rango cubre 5 octavas. Amount y Sensitivity determinan con qué fuerza los datos entrantes agitan el sistema, lo que define la densidad de eventos y el nivel general de actividad del proceso generativo. Hay nueve patches de síntesis, que abarcan síntesis por wavetable y FM, estructuras resonantes, modelado físico Karplus–Strong, drones, síntesis percusiva, y sonidos basados en glitch y ruido."
+        },
+        {
+          "t": "p",
+          "x": "Funciona como instrumento independiente, pero no está atado solo a su motor interno. Los datos generados pueden enviarse por MIDI a otros equipos, y cuenta con puertos USB y DIN. En el MIDI Scale Mode, las notas enviadas por un teclado externo, un secuenciador o un DAW determinan el material de notas que usa Synterra. El instrumento sigue tocando por sí mismo, pero solo suena dentro de ese conjunto de notas recibido, así que sigue los acordes y la progresión armónica de una canción que ya estés tocando o de una interpretación en vivo. Al pasar al Full MIDI Mode se salta por completo el sistema generativo, y se tocan los patches internos directamente, como en cualquier otro sintetizador."
+        },
+        {
+          "t": "p",
+          "x": "Synterra ya se puede reservar por 99 dólares, un descuento sobre su precio habitual de 119 dólares. La campaña de reservas termina el 31 de agosto de 2026, y las primeras unidades se envían en septiembre de 2026."
+        }
+      ]
+    },
+    "music/music-vibe-coded-plugins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/95ce9bd8-d75d-4ac1-848c-4f19b3b93c1a/How+Vibecoding+Has+Shifted+the+Plugins+You+Own+and+Buy.jpg",
+          "cap": "Fuente: Production Expert"
+        },
+        {
+          "t": "p",
+          "x": "El vibe coding, es decir, el desarrollo guiado por IA, se ha convertido en una práctica estándar en la industria del software. Un comentario del año pasado del co-CEO de Spotify —“Most senior engineers haven't written a single line of code since December”— muestra que este enfoque ha dejado atrás su etapa inicial y ha llegado al desarrollo de más alto nivel. Entonces, ¿qué pasa del lado de la compra? ¿Se puede confiar en un plugin que la IA diseñó, construyó y concibió? Deivids, desarrollador de Acedia Audio, resumió cómo se ve el vibe coding tanto desde el lado del desarrollador como del cliente."
+        },
+        {
+          "t": "p",
+          "x": "La promesa de crear una app con un solo prompt sigue siendo, en su mayor parte, una falsa esperanza. Para construir cualquier app mediante vibe coding, el desarrollador necesita entender a fondo la estructura del proyecto. La IA aumentó la velocidad de desarrollo, pero también aumentó en la misma medida la cantidad de supervisión necesaria. Por eso, la programación con IA debe mantenerse enfocada en áreas acotadas. La mayoría de los problemas comienzan por calcular mal el alcance, y dejar que la IA adivine los pilares centrales de un plugin se convierte de inmediato en una gran deuda. La barrera de entrada bajó, pero un plugin utilizable sigue exigiendo un alto nivel de destreza."
+        },
+        {
+          "t": "p",
+          "x": "También hay un lado positivo. Antes, un solo plugin requería un equipo grande y un presupuesto enorme, así que las ideas marginales siempre quedaban relegadas. Ahora, alguien con una idea puede construir una demo para presentar, y a veces hasta un producto terminado. También se vuelve posible que diseñadores de sonido, intérpretes y artistas de foley construyan ellos mismos las herramientas que llevaban mucho tiempo deseando. Usar IA para reparar código antiguo sin soporte es otro buen uso. El reciente lanzamiento del driver de silicio de Eleven Rack es un ejemplo de ello."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/8eca0442-55f6-407a-aba7-36dd1e7689c2/Depositphotos_850233672_L.jpg",
+          "cap": "Fuente: Production Expert"
+        },
+        {
+          "t": "p",
+          "x": "Cada empresa adoptó esta tecnología en un momento y a un ritmo distintos, así que incluso los nombres más importantes de la industria recién están entrando en el desarrollo con IA y atravesando dolores de crecimiento. Lo primero que hay que revisar es la seguridad. Un plugin solo debería necesitar comunicarse con el exterior para verificar y comprobar la licencia. Si usa un proveedor externo verificado como PACE, Moonbase o MuseHub, en general se puede estar tranquilo. Si se trata de una empresa nueva que usa su propio método, es mejor preguntar directamente al equipo de soporte. Qué tan abiertos están los canales de soporte y comunicación también revela cuánto tiempo planea permanecer esa empresa."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento y la estabilidad también importan. La latencia o los bloqueos en el procesamiento de audio se convierten de inmediato en un problema, y el resultado producido por un modelo que no conoce bien este dominio tan específico lleva a fallos o a una optimización deficiente. No es necesario correr benchmarks. Basta con tomar una versión de prueba y ver si resiste tu flujo de trabajo y tu equipo. El diseño también es una señal. Si se deja la paleta de colores en manos de la IA, esta converge hacia el estilo que ese modelo usó con más frecuencia. Los modelos Claude Opus tenían la costumbre de elegir automáticamente una paleta azul violeta oscura, y el mismo esquema de color aparecía en proyectos distintos de personas distintas."
+        },
+        {
+          "t": "p",
+          "x": "Al final, hay seis cosas que revisar: si existe una versión de prueba, si usa un sistema de verificación de licencias confiable, si los canales de soporte están abiertos, si soporta tu trabajo sin esfuerzo, si el diseño es distintivo, y si hay evidencia de que se ha usado en entornos profesionales reales. No se necesita formación técnica para juzgar esto. Basta con preguntarse si este plugin da la sensación de que una persona realmente lo estaba guiando. El vibe coding elevó el techo de lo que puede hacer un desarrollador, y el riesgo y la promesa nacen del mismo cambio. Al final, todo depende de cómo los desarrolladores usen esta tecnología."
+        }
+      ]
     }
   }
 }

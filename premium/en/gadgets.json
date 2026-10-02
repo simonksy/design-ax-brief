@@ -2680,6 +2680,79 @@
           "x": "The real question is whether Mac users will reach for the Siri app instead of Claude or ChatGPT. In the end, it comes down to the quality of the output. The Siri app was good for questions about world knowledge or personal context, but for more complex queries, Claude still gets the call. If Apple keeps refining Siri AI and Apple Intelligence, that calculation could change."
         }
       ]
+    },
+    "gadgets/gadgets-hilight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "The new HiLight notification LED on the Pixel 11 Pro is nearly useless out of the box. By default, it lights up in only two situations: when you're using Gemini with the phone face down, and when someone on your favorites list calls. The color choices are limited to just five."
+        },
+        {
+          "t": "p",
+          "x": "With a feature that was beloved on older Android phones shipping this locked down, developers moved first. HiLight Studio, built by X user Dhananjay_Tech, lets you control this LED array pretty much however you want. You can set it so a Slack notification containing a specific word makes it pulse rainbow colors, or a text message makes green light ripple across it. You can even adjust the timing, brightness, intensity, and saturation per cycle."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-3.jpg?quality=90&strip=all&w=2400",
+          "cap": "Default screen"
+        },
+        {
+          "t": "p",
+          "x": "Unlike Google's official feature, colors come from eight preset options, or you can set them directly with a color slider. There's also an export/import function for presets, so you can share them with friends."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "It's not on the Play Store yet. You have to download it from GitHub and sideload a few apps, unlock developer settings, and tweak a handful of phone settings to get it running. Reviewer David Imel's take is that it's not as simple as a regular app, but it's worth it if you're willing to deal with that."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-4.jpg?quality=90&strip=all&w=2400"
+        }
+      ]
+    },
+    "gadgets/gadgets-homepad-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Signs have emerged that Apple Watch-style “faces” are coming to Apple's new smart home hub, commonly called the “HomePad,” expected this fall. 9to5Mac's reaction is that this is one more reason to want one in every room in the house."
+        },
+        {
+          "t": "p",
+          "x": "It's been nearly two years since Mark Gurman covered this product in detail. Apple had it slated for an early-2025 launch but pushed it back because of delays to Siri AI, and now a debut as early as next month is being predicted."
+        },
+        {
+          "t": "p",
+          "x": "The author lists four things to look forward to: Siri AI, now far more usable than the old Siri; Apple Photos slideshows and Memories; security camera features; and Apple Music showing lyrics and artwork on screen. If the price is right, the author says, they'd put one in nearly every room."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-faces-variety.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Now add the “faces” and “face gallery” found in code this week. It looks like you pick widgets to include and can even add a Smart Stack, so it seems set up to show different widgets depending on the time of day."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp"
+        },
+        {
+          "t": "p",
+          "x": "If faces can be freely changed, the HomePad takes on a different character depending on the room it's in. That means setting different widgets and layouts for the kitchen, the living room, and the bedroom, which gives people a reason to buy more than one. The author wrote that they hope this is the last HomePad delay."
+        }
+      ]
     }
   }
 }

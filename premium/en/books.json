@@ -1891,6 +1891,368 @@
           "x": "The Story Hacker community is offering a 7-day free trial. Amid a crowd of tools that generate whole prose, this one bets on propping up structure and tropes from below while leaving the final judgment to a human."
         }
       ]
+    },
+    "books/books-ai-article-versioning": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Crossref's new position paper makes a simple but important point: persistent identifiers, or PIDs, are a means, not an end. Their value doesn't come from the identifier string itself, but from the metadata, relationships, services and stewardship built around it. AI makes that distinction far more urgent."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/iStock-1071052286-1024x768.jpg",
+          "cap": "A river splitting into many branches"
+        },
+        {
+          "t": "p",
+          "x": "Research is no longer found only on journal pages and in indexes. The same paper can sit simultaneously on preprint servers, publisher platforms, institutional repositories, scholarly indexes and licensed AI collections. AI can pull a paragraph from any one of them, break it apart, and reuse the claim without passing through the context of the original page. Version ambiguity has become a provenance problem, not just a discovery problem."
+        },
+        {
+          "t": "p",
+          "x": "Three common scenarios make the point. Preprints get revised multiple times before journal publication. Even after a final version is corrected or retracted, repository copies and downstream indexes can keep holding the old text. In post-publication peer review, a paper can pass through — or never reach — several review and revision states before, or without, arriving at a final version."
+        },
+        {
+          "t": "p",
+          "x": "PIDs get attached in different ways. Some keep a single DOI even as the paper changes; others issue a new one for each version. Both approaches have their uses, but the identifier itself doesn't say what changed or which version is current. Even while a cited DOI resolves cleanly to the record being maintained, AI may still be reading an outdated copy."
+        },
+        {
+          "t": "p",
+          "x": "The revised NISO Journal Article Versions recommendation has entered its final editing stage. It will soon go to NISO's voting members, and if approved, official release is expected this fall. The revision draws a clearer line between an article's stage and its status, then layers semantic versioning on top — a mechanism meant to distinguish even multiple changes made within the same stage."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/08/Screenshot-2026-08-18-002015-1024x168.png",
+          "cap": "Three layers of version-aware AI access"
+        },
+        {
+          "t": "p",
+          "x": "Splitting the question into three makes it easier to sort out. What piece of research is this? PIDs like DOIs and their attached metadata answer that. What state is it in? Article stage, status and semantic version answer that. What did AI actually use? That's where provenance information comes in."
+        },
+        {
+          "t": "p",
+          "x": "Someone reading an AI-generated literature review, policy summary or news article may never see the original page. A citation with only a DOI, even if accurate, isn't enough to retrace the evidentiary path. Version information isn't screen decoration — it becomes part of citation accuracy."
+        },
+        {
+          "t": "p",
+          "x": "Until now, version information has been treated mainly as something to display — fine as long as it appeared on a landing page, a PDF, or a publication history field. In AI workflows, that information needs to intervene at the harvesting and retrieval stage. A retrieval system needs to know whether what it grabbed is a preprint, an accepted manuscript or a final version, and whether that version was later corrected, retracted or superseded."
+        },
+        {
+          "t": "p",
+          "x": "When a final version is corrected on a publisher's page, that fact needs to flow through to repositories, indexes, licensed collections and AI services. Otherwise, AI keeps feeding on a version the scholarly community has already moved past. NISO's CREC recommendation has already mapped out how to create, transmit and display retraction, removal and expression-of-concern information."
+        },
+        {
+          "t": "p",
+          "x": "The biggest risk sits with static collections. Once a collection is ingested, it hardens into that day's snapshot unless updates are pushed in. Mechanisms like STM's CUSAP notification protocol or GetFTR's retraction and correction service need to fill that gap. AI can already find a paper. The next step is making it disclose which version it read."
+        }
+      ]
+    },
+    "books/books-ai-book-discoverability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thecreativepenn.com/wp-content/uploads/2026/08/book-marketing-and-resilience.jpg",
+          "cap": "The Creative Penn podcast, episode with Ricardo Fayet"
+        },
+        {
+          "t": "p",
+          "x": "Reedsy co-founder and CMO Ricardo Fayet sat down for more than an hour on The Creative Penn podcast. The question keeps coming back to one thing: when readers start asking AI for books instead of typing into a search box, how does my book end up inside that answer?"
+        },
+        {
+          "t": "p",
+          "x": "The AI recommendation process Fayet describes moves in three layers. It searches the web repeatedly to build a candidate list, ranks those candidates using review counts, ratings and mentions scattered across the internet, then runs a verification step to confirm the books actually fit before a title ever gets named."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thecreativepenn.com/wp-content/uploads/2026/08/Ricardo-Fayet.jpg",
+          "cap": "Reedsy co-founder and CMO Ricardo Fayet"
+        },
+        {
+          "t": "p",
+          "x": "Approaches built around keywords and search volume lose their grip here. A request like “an action-adventure thriller by a female indie author, with a female protagonist” has no search volume to speak of in the first place. Fayet calls this shift the move from SEO to GEO, or AIO."
+        },
+        {
+          "t": "p",
+          "x": "Different AIs trust different sources. Claude leans heavily on Goodreads. ChatGPT and Gemini rely heavily on Reddit. Google has a paid partnership with Reddit, and Sam Altman holds a stake in Reddit. LinkedIn is useful for nonfiction, while BookTok still isn't well read by AI."
+        },
+        {
+          "t": "p",
+          "x": "So what Fayet recommends is modest: Goodreads reviews, Listopia lists, book review sites, any page at all that carries the book's title. Build up a trail across the internet, he says. When there are multiple candidates, the book with more mentions is the one that survives into the recommendation."
+        },
+        {
+          "t": "p",
+          "x": "Marketing still starts with finding comp titles. A concept nobody else has written is far more likely to die for lack of a market than to open a new one. The same conversation also produced the line that having a good book matters more than being a good marketer."
+        },
+        {
+          "t": "p",
+          "x": "No matter how many platforms multiply, the one asset an author fully owns is an email list. Algorithms can't cut its reach, and the relationship built by replying directly to a reader's email doesn't come from social media."
+        },
+        {
+          "t": "p",
+          "x": "Authors who last more than a decade share three things: a compulsion to write, a sense for weighing profit and loss, and resilience. Business sense is the judgment not to pour more ad money into a $3.99 book than the book itself earns; resilience is the strength to keep pushing a strategy for about six months even after the excitement from a conference has worn off."
+        },
+        {
+          "t": "p",
+          "x": "Predictions that AI would erase jobs have missed so far. The U.S. unemployment rate hasn't shifted since ChatGPT's public release. Instead, the shape of work is changing. Translators sell AI-translation review. Editors polish AI-drafted manuscripts. Cover designers turn around concepts faster. Fayet's advice to authors is also hands-on rather than a course: pick one problem you've been putting off and throw it at AI. Paste Meta ad data into Claude and ask what else you'd need to know to understand this ad, and the conversation turns into analysis."
+        },
+        {
+          "t": "p",
+          "x": "There was a short mention of Reedsy's own work too. Reedsy Studio, backed by 10 to 15 engineers, is adding plot maps, character relationship tracking, writing-goal statistics, free exports and Google Docs-style collaborative co-writing. So far, he says, there's no sign of AI eating into the marketplace."
+        }
+      ]
+    },
+    "books/books-ai-facilitated": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Harriman House claims it is the first in commercial publishing to do this with the new book The Everything Code, by macro analyst and founder Raoul Pal. The book was made using an in-house AI tool trained only on Pal's own writing to date."
+        },
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/674/Raoul-Pal.jpg",
+          "cap": "Raoul Pal"
+        },
+        {
+          "t": "p",
+          "x": "The Bookseller reported the news in an article by Melina Spanoudi on August 20, 2026, using the phrase “AI-facilitated” book in the headline. Unlike handing a draft to some unspecified large language model, the publisher pinned down the training material as the work of a single author."
+        },
+        {
+          "t": "p",
+          "x": "The rest of the article is behind registration and a paid subscription. A free account allows up to three articles a month, and subscriptions start at £3.65 a week."
+        }
+      ]
+    },
+    "books/books-file-access-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "RuuXUlociqA"
+        },
+        {
+          "t": "p",
+          "x": "In a short tip video called “The Automated Author” from Future Fiction Academy, Stacey Anderson shows writers a low-pressure way to step into coding interfaces like Codex and Claude Code. The starting point is that you don't need to become a programmer. No grand app, no big system, no building a whole piece of software is required."
+        },
+        {
+          "t": "p",
+          "x": "All you need is a folder, a handful of markdown or text files, and an AI that can actually work inside those files. Anderson admits she herself put off switching because she already had skills and workflows running well in Claude Projects."
+        },
+        {
+          "t": "p",
+          "x": "On screen, she poses the same question to both Codex and Claude Code: she's a self-publishing genre novelist who has been AI-writing through chat and project interfaces so far — is it worth switching? The answer became the video's title. A coding interface doesn't write prose any better. Claude in the chat window and Claude in the terminal are the same brain. What changes is the scope that brain can reach."
+        },
+        {
+          "t": "p",
+          "x": "That's why file organization becomes the key. Anderson keeps one YAML file per book, holding the title, pen name, series, planned release date, and a status such as drafting, editing, draft, or published. The AI can scan the whole project without reading all 800 manuscripts. The difference grows as manuscripts, series bibles, style guides, marketing material, metadata, and publishing checklists pile up."
+        },
+        {
+          "t": "p",
+          "x": "Start in a safe experimental folder — using copies, not the original manuscripts, in a space set aside just for AI, not your regular documents folder. Anderson made a separate R drive on her computer, for “robot,” and keeps all agent-related files there, broken down into books, series, manuscripts, outlines, editing, marketing, and publishing."
+        },
+        {
+          "t": "p",
+          "x": "She writes rules into an agents.md or claude.md file. Her first rule is no deletion: moving things to an archive folder is fine, deleting them is not. She also flags the downsides. Reading files, thinking, and retrying burns more tokens, so a $20 plan hits its limit faster. The risk of overwriting is real too, so she backs up to the cloud several times a day and uses Git alongside it."
+        },
+        {
+          "t": "p",
+          "x": "She ends with a demo. She asks the AI to write a short blog post about everything covered so far and drop it in the folder; a moment later, a markdown file appears in the experimental folder. Her closing point: once you've rewritten that post in your own voice, next time you don't need to spell out long rules — you can just say the older posts in this folder are my voice."
+        }
+      ]
+    },
+    "books/books-reading-buddy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "About two years ago, Maris Kreizman wrote about how pathetic the trend of chopping books into bullet points was. Her point was that we read and struggle with a text for reasons other than swallowing bite-sized pieces of knowledge."
+        },
+        {
+          "t": "p",
+          "x": "Since then, as tech fascism has gained power, she sees both art and the experience of struggling in front of art as having lost their value entirely. Last week, Axios publisher Nicholas Johnson wrote a post about using AI as a “reading buddy” to work through themes and get help “understanding dense old prose.” To Kreizman, that amounted to bragging about outsourcing the very act of struggling while reading."
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/08/old-text.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Her argument is that the more a world is captured by convenience, the more it should honor literary friction: writing that doesn't go down easy, that makes you sit with uncertainty or discomfort. That's where the path to growing as a reader and a thinker lies. She isn't knocking light, fast reading purely for pleasure. A book that goes down easy is fine too. It's just one kind of reading among many."
+        },
+        {
+          "t": "p",
+          "x": "The kind of reading she means is what high schools and colleges used to teach. The nights in college when she pushed down the urge to go to the campus bar's “Thirsty Thursday” and instead worked her way through 880 pages of Middlemarch. All those nights at the bar blurred into one, but the memory of reading Middlemarch stayed."
+        },
+        {
+          "t": "p",
+          "x": "Nor is this only about great works. Citing an article Megan Greenwell wrote for Wired, she notes that kids today can read the words just fine but can't make meaning out of them. One educator put it this way: “They're probably reading more than ever before. But it's all fragments.”"
+        },
+        {
+          "t": "p",
+          "x": "Criticism isn't safe either. As outlets fold up traditional book reviews in favor of more “user-friendly” formats, there's less room left for ambiguity. A good piece of book writing wrestles with a book rather than making lists out of it, she writes. She adds that most of the job postings coming her way on LinkedIn these days are asking her to let her editing career be used to train AI."
+        },
+        {
+          "t": "p",
+          "x": "Reading Missouri Williams's new book The Vivisectors, she got lost, and she hates getting lost. Still, she underlined constantly. Once she stopped trying to decode it and let it flow like a poem, it finally became enjoyable. She sees an inability to sit with discomfort as feeding today's book bans and censorship. Thinking, learning, and growing don't fit a world leaning increasingly toward fascism, so she argues for pushing harder still. Questioning everything is how each of us can push back against that drift."
+        }
+      ]
+    },
+    "books/books-religion-ai-slop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In a new survey from AI-detection company Originality.AI, 63% of religious paperbacks listed on Amazon were classified as likely written by AI. The analysis drew on 2,034 English-language paperbacks averaging four stars or higher across 14 faith- and belief-related categories."
+        },
+        {
+          "t": "p",
+          "x": "Over the first half of 2026, the company scanned three elements of each book's public Amazon listing: the description, the author bio, and the book preview. Of these, the preview was the main yardstick. A score of 50 or above was grouped as “suspected AI.” The report's authors added that detection results only point to the likelihood of AI authorship, not proof of who wrote a given book."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/130/130971-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "Broken down by subgenre, Magic was highest at 78%, followed by Hinduism at 76% and Taoism at 74%. At the other end were Satanism at 22%, Atheism at 40%, and Mormonism at 42%. The report notes that the sample sizes for the latter three categories are smaller than for the first three, and offers one hypothesis for why Eastern religions ran especially high: “We believe non-native English speakers are using AI to enter the English-language market.”"
+        },
+        {
+          "t": "p",
+          "x": "Hinduism had the most books showing AI traces across all three elements—description, bio, and preview—at 72 books, or 25% of the Hinduism books sampled. Even counting books likely written by humans, the description was the element most likely to have been AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "An Amazon spokesperson pointed to the company's content guidelines, which don't prohibit AI-generated works: “We're working to build a store that readers love and that publishers and authors trust. We have numerous safeguards in place to protect that experience, and we continue to strengthen them. Our content guidelines determine what books can be sold, and we proactively prevent, detect, and remove content that violates them, whether it's AI-generated or not.”"
+        },
+        {
+          "t": "p",
+          "x": "Originality.AI has previously found that books likely written by AI are almost always cheaper and shorter than human-written ones. Religion was no different: suspected-AI books averaged $16.84 and 170 pages, while likely human-written books averaged $18.96 and 208 pages."
+        },
+        {
+          "t": "p",
+          "x": "The report's authors view these books as a business built on exploiting faith: “Religious digital content has been fertile ground for AI slop since the earliest days of AI-generated memes. It touches the center of believers' faith, affirming what they already believe to be right, and in the case of books sold on Amazon, makes money doing it.”"
+        }
+      ]
+    },
+    "books/books-textbook-suit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "U.S. textbook authors have filed another class action lawsuit against OpenAI, this time in New York. They allege that copyrighted textbooks were used without permission to train large language models, some of them downloaded from illegal pirate sites. Last July, the same authors filed a similar lawsuit against Meta in California."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.24.06-PM.png",
+          "cap": "The lawsuit argues that if AI companies are allowed to keep “ingesting textbooks and continuously updating their contents with each new edition,” instructors and schools could abandon textbook adoption altogether in favor of LLM-based “substitutes.”"
+        },
+        {
+          "t": "p",
+          "x": "In the complaint filed on August 14, lead plaintiff Michael Sullivan and the other authors allege that OpenAI, backed by codefendant Microsoft, illegally copied thousands of textbooks to train its AI, stripped out copyright notices to “conceal” the conduct, and created a service that risks “displacing” the market for new textbooks and revised editions."
+        },
+        {
+          "t": "p",
+          "x": "The complaint argues that a licensing market for using textbook content in training and paying “fair compensation” for it either already existed or could have been created, but that the defendants “circumvented” it. The authors reason that textbooks are “uniquely valuable for LLM training” because they treat “academic fields and subfields in an engaging, effective, and up-to-date” way."
+        },
+        {
+          "t": "p",
+          "x": "What sets this case apart from other suits is market structure. General trade-book readers buy books “for personal reasons,” and readers seeking a specific author or specific book don't readily accept substitutes. Textbooks are different: “the end purchaser is not the person who chooses the book.” Instructors, schools, and education authorities decide through adoption and assign the book to students."
+        },
+        {
+          "t": "p",
+          "x": "The complaint states: “Either way, the purchaser has a strong incentive not to pay for the textbook if they can find a 'free' version of the same book, or a 'good enough' substitute, from an LLM.” It also argues that while a textbook's “subject matter” may not be copyrightable, “the way the author selected, arranged, and ordered the material” and “the author's voice and manner of teaching” are protected."
+        },
+        {
+          "t": "p",
+          "x": "The authors are seeking a ruling of copyright infringement, damages, and an injunction to prevent “further infringement.” According to ChatGPT is Eating the World, there are currently 136 lawsuits pending against AI companies."
+        }
+      ]
+    },
+    "books/books-ai-chapter-summaries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Jon Bond appeared on the podcast run by Joanna Penn of The Creative Penn, where they talked about the difficulties of indie publishing and book marketing. Before co-founding Whitefox, he spent 35 years in traditional publishing, including stints at Penguin and HarperCollins, and he is also a co-author of “Going Indie: Publishing Your Book Your Way,” written with James Silver."
+        },
+        {
+          "t": "img",
+          "src": "https://www.thecreativepenn.com/wp-content/uploads/2024/02/Author-Blueprint-2024-square.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Bond believes that how much large publishers actually use AI, and the experimentation happening behind the scenes, go far beyond what's said publicly. “Whether the goal is boosting efficiency or just experimenting itself, there has to be a significant amount of work going on,” he says. Publishers often draw a line, saying “we use it only for marketing and operations, not for creative work or editing,” but he suspects there's considerable unreported use in areas like writing metadata, book descriptions, cover copy, and royalty calculations."
+        },
+        {
+          "t": "p",
+          "x": "Whitefox, the company he's with, takes a different approach. “Going Indie” includes AI-generated chapter summaries as they are, and Bond explains that he included alongside them “ten commandments that I think are useful guidelines” for using AI responsibly. In other words, he chose disclosure over concealment."
+        },
+        {
+          "t": "p",
+          "x": "He points out that publishers are “too cautious about saying what they do and don't do.” In other words, public statements alone make it hard to gauge how much AI the industry has actually adopted."
+        }
+      ]
+    },
+    "books/books-frankfurt-rights-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Frankfurt Rights, the rights-trading platform run by the Frankfurt Book Fair, explained why AI licensing requests still require case-by-case negotiation. Jenny Kühne, director of rights and licensing solutions at Frankfurter Buchmesse, says, “Individual AI deals are still too complex and varied to be handled through a standardized process.”"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/08/61902_LitAg-2016.jpg"
+        },
+        {
+          "t": "p",
+          "x": "She names five variables. “The details vary considerably — from the intended use and scope of the license to compensation, reporting, and liability.” Because Frankfurt Rights isn't a collective licensing body, the actual contracts aren't automated, and rights holders and prospective users have to negotiate directly."
+        },
+        {
+          "t": "p",
+          "x": "The platform is also dealing with another problem: attempts to scrape content without authorization. Kühne said, “Attacks on the website have increased noticeably, and we suspect it's AI bots looking for content.”"
+        },
+        {
+          "t": "p",
+          "x": "A response is already underway. “We already had security measures in place, but we strengthened them right away and keep monitoring,” she explains. She sees refining the legitimate-use process itself as a way to distinguish lawful access from unauthorized scraping."
+        }
+      ]
+    },
+    "books/books-friedman-ai-roundup": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://janefriedman.com/wp-content/uploads/2024/08/cropped-JF-website-header-2024-v2.png"
+        },
+        {
+          "t": "p",
+          "x": "The August 12 edition of Jane Friedman's weekly industry roundup, “Links of Interest,” covers three strands of AI news running across publishing. Alongside a piece on the publishing practice of not fact-checking memoirs, it places EU transparency rules, a journalism award, and remarks from HarperCollins's CEO side by side."
+        },
+        {
+          "t": "p",
+          "x": "The first is the EU rules. It covers news that transparency rules requiring future models to embed watermarks and attach signed provenance metadata are on the way."
+        },
+        {
+          "t": "p",
+          "x": "The second is a journalism award. It reports that entries self-disclosing AI use reached five this year, a record high. This reads as a sign that judging panels are becoming more willing to accept disclosed AI use."
+        },
+        {
+          "t": "p",
+          "x": "The third is HarperCollins. It covers news that the major publisher's CEO called for an AI response that moves at the industry level, not just at individual companies. This points to where contract terms between authors and publishers may head next."
+        }
+      ]
+    },
+    "books/books-proudly-human": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/572/Artificial-Intelligence-SHUTTERSTOCK1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Alan Finkel, Australia's former chief scientist and founder of Proudly Human, issued a pointed warning about AI in an interview with The Bookseller. He states flatly that AI “provides no economic benefit whatsoever to the arts or creative industries.”"
+        },
+        {
+          "t": "p",
+          "x": "Finkel calls for stronger institutional safeguards to protect creators from AI-generated content. In his view, existing legal frameworks like copyright simply aren't enough."
+        },
+        {
+          "t": "p",
+          "x": "What stands out is that someone who has worked on national science policy has stepped directly into a debate that had mostly been carried by authors' organizations and publishers. Proudly Human, the group he founded, speaks up for creators against the changes AI has brought to the arts."
+        }
+      ]
     }
   }
 }

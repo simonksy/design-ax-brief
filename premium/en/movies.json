@@ -2040,6 +2040,418 @@
           "x": "Call it rotoscoping or call it generative AI, the lip-sync results Descript's translate-and-dub produces are impressive. As a certified translator, though, I don't sign off on machine translation that hasn't been edited by a native speaker. It's honestly frustrating that the Creator plan gives no way to edit the automatic translation before it runs. I'm not asking for a professional translator to be assigned. I just want the option to bring in my own translator to polish it. I hope that option comes to the Creator plan soon. For now, upgrading to the Business plan is the only way. Congratulations are due for the lip-sync results, though."
         }
       ]
+    },
+    "movies/movies-comfyui-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "ghCKziHvGXo"
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI has shipped an official MCP. Claude or Codex can now write, run, and fix ComfyUI workflows directly. The model handles the node wiring, and the person making things only has to hold onto the creative half."
+        },
+        {
+          "t": "p",
+          "x": "The team behind the video rates their own skill, generously, as \"Comfy caveman\" level at best. Even so, they call ComfyUI the single most important tool in the generative image and video space. It can make almost anything, but it takes time to learn. Their observation is that people who handle it well think half like an artist and half like an engineer. Now you can hand off that engineer half."
+        },
+        {
+          "t": "p",
+          "x": "What you need is minimal: Claude Desktop or a ChatGPT Desktop that can use Codex, plus the ComfyUI desktop app. In exchange, you have to accept an agent touching your computer. The machine can be almost any recent PC or Mac, but a PC with an Nvidia card somewhere between a 4090 and a 5090 causes less trouble. The demo in the video ran on a 5090. If you don't have the hardware, you can use Comfy Cloud or rent an H100 on RunPod for $3.29 an hour."
+        },
+        {
+          "t": "p",
+          "x": "The install instructions are almost absurdly short. Tell Claude to install ComfyUI MCP — both the community version and the official version — in a single line, and that's it. The official MCP is still in beta, so the advice is to keep the long-running community version around and switch to it when you hit a wall."
+        },
+        {
+          "t": "p",
+          "x": "Tokens need to be used carefully. He attaches cheap models as sub-agents and runs them like hands and feet, while reserving the expensive model for supervision. Things like tweaking a prompt or extending a video's length from 124 frames to 248 frames are better done by hand."
+        },
+        {
+          "t": "p",
+          "x": "When he actually told Claude to build an entire image-to-video workflow from scratch, a graph came out. Generation took 204 seconds, a bit over three minutes, and since it all ran locally, it cost nothing at all. Using API nodes, you can also mix in closed models like Seedance 2.5 or Topaz within the same graph; that side isn't local and costs credits. When he found a LoRA that looked promising, just dropping in the address was enough for it to install itself."
+        },
+        {
+          "t": "p",
+          "x": "His parting point is simple: open-source video models are quickly catching up to the latest commercial models, and the cost of closed platforms keeps rising. If something can be solved locally, it's better to do it locally. Of the two barriers to entry, this MCP has, for now, knocked down the learning curve."
+        }
+      ]
+    },
+    "movies/movies-eddie-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Eddie AI published research showing that even a 9-billion-parameter model can compete with much larger frontier models at video editing. The student model Qwen3.5-9B, trained through knowledge distillation, beat Kimi K3 47% of the time in head-to-head short-form social video editing matchups. Kimi K3 has 2.8 trillion parameters."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Eddie-AI_Processing.jpg",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "Moonshot AI's Kimi K3 served as the teacher model. The untouched 9B model was initially picked only about 10% of the time in comparisons. After LoRA training, that rose to 32%, and after refining the trajectories, it reached 47%."
+        },
+        {
+          "t": "p",
+          "x": "Instead of just piling on more training data, curating the trajectories was what worked. They extracted reasoning traces from the frontier model, filtered down to the better examples using best-of-N sampling, and repeatedly retrained on the student model's best outputs. In the process, reasoning length shortened by about 30%, which also cut inference costs."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/06/Eddie-AI-in-action-900x506.jpg",
+          "cap": "Eddie AI in action"
+        },
+        {
+          "t": "p",
+          "x": "The company is upfront about the limits, too. These are preliminary results confined to just over 100 real projects and one narrow task. The 47% figure comes from short-form social editing, not video editing as a whole. Only 10 pairs were evaluated by humans, and while that mostly matched the automated judging, it's a small validation sample."
+        },
+        {
+          "t": "p",
+          "x": "The usefulness comes from the size. The quantized 9B model runs on a single workstation GPU. Running it on-premises means footage never has to leave the building. For broadcasters, sports rights holders, and production environments bound by NDAs or cloud restrictions, that condition is decisive."
+        },
+        {
+          "t": "p",
+          "x": "CEO Shamir Allibhai put it this way: \"Our customers aren't against AI training. They're against losing control over the knowledge they created.\""
+        }
+      ]
+    },
+    "movies/movies-firefly-audio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe has made changes to Firefly. It expanded the audio features, added more external AI models, and opened up the Firefly AI Assistant so it can be used for free as well."
+        },
+        {
+          "t": "p",
+          "x": "Generate Music, Generate Speech, and Generate Sound Effects have all become official features. They were built with video and social content, ads, shorts, tutorials, and podcast clips in mind."
+        },
+        {
+          "t": "p",
+          "x": "Generate Music creates a new track to match a video's length and mood. Generate Speech turns a script into a voiceover, letting you choose between Adobe's own voice model and ElevenLabs. Generate Sound Effects creates sound effects matched to the action and timing on screen."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Adobe-Generate-Music-1.jpg",
+          "cap": "Adobe Generate Music"
+        },
+        {
+          "t": "p",
+          "x": "Adobe cited a recent survey it ran with Berklee College of Music. \"79.3% of respondents said they post video content daily or several times a week, and 100% said they use music in their videos.\" As obstacles, they named \"legal and copyright risk at 43.2%, and licensing costs at 38.9%.\""
+        },
+        {
+          "t": "p",
+          "x": "The Firefly AI Assistant, which debuted in beta earlier this year, also got an easier entry point. It includes features like Create Storyboard and Create Brand Kit, and a free trial with a set daily generation limit is now open."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Firefly-Creative-AI-Assistant-2x3-1.png",
+          "cap": "Firefly AI Assistant"
+        },
+        {
+          "t": "p",
+          "x": "The lineup of models available inside Firefly has also grown. Models from Adobe, Google, Kling AI, Luma AI, OpenAI, Runway, and others are on the list. The newest addition, Gemini Omni Flash, accepts not just text but video, audio, and images as input too. Adobe explained that with this model, you can set a video concept inside Firefly and refine it gradually."
+        },
+        {
+          "t": "p",
+          "x": "This follows the earlier addition of Runway Aleph 2.0 and Kling 3.0. Adobe's explanation is that gathering multiple AI models and creative tools in one place, Firefly, lets people pick a different model for each task without switching apps or subscriptions."
+        }
+      ]
+    },
+    "movies/movies-james-gray": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Director James Gray doesn't mince words when AI comes up. Calling the AI filmmaking the industry is now pushing “obscene,” he said in a recent IndieWire interview that he has become convinced this trend will ultimately fail."
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg",
+          "cap": "James Gray at the Cannes Film Festival press conference for “Paper Tiger.” Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "On the upcoming Filmmaker Toolkit podcast, he said this: “I'm weirdly optimistic. If you don't already know it, you'll know it soon. AI cannot touch the infinite layers of the soul. It would be great if it sped up medical trials for the people who need that. But who we really are, our souls, are the only truly infinite thing. What movies reach for, and really what all creation reaches for, is an unending mystery, endlessly layered. So what does that mean? It means imperfection is part of the equation.”"
+        },
+        {
+          "t": "p",
+          "x": "The same theme ran through the entire conversation about his new crime drama “Paper Tiger.” He sees beauty and humanity in “flawed” images. “Once you get technically excellent, you lose the imperfection of the medium, the imperfection that creates a kind of magic. What people actually mean when they say ‘movie magic’ are things you would never do if you isolated them: an actor slightly out of focus, rough grain, a frame where you can't see the whole face, concealing some aspect of the body.”"
+        },
+        {
+          "t": "p",
+          "x": "He put going to a museum to see Van Gogh's brushstrokes on the same footing as watching an image shot on celluloid. “It's magic. That's what we're reaching for with film grain, reaching for our humanity.”"
+        },
+        {
+          "t": "p",
+          "x": "He also reversed something he told IndieWire in 2022. He now regrets shooting his last film, “Armageddon Time,” digitally. Because the film leaned on performances from young actors, he felt he needed the freedom to repeat long takes, and the choice was his to make. He's still proud of the film itself and of Darius Khondji's cinematography, but he felt something was missing throughout the shoot. “I fought and fought to get imperfection out of digital, to get the grain, the elusiveness and irreversibility of the image.”"
+        },
+        {
+          "t": "p",
+          "x": "He also points to how “disposable” digital images have become. “More photos are being taken than ever. But people aren't looking at them. Have you ever watched a teenager scroll through an Instagram feed?” Photographs carry a moment you can never get back, he says, and film turns that irreversibility into beauty. “If a movie looks like a football broadcast, it'll bother your eyes. It's too vivid. It has none of the beauty of the past.”"
+        },
+        {
+          "t": "p",
+          "x": "On “Paper Tiger,” Gray and cinematographer Joaquín Baca-Asay went back to celluloid, using vintage lenses and gear, tungsten lighting in particular. He doesn't see this sensibility as his alone. He compares it to the return of the 12-inch record in music. “My kids know it, and young people know it. That's why vinyl came back. In the ‘80s and early ‘90s everything went digital, and then one day people listened to records and said, ‘wait, this is better.’ Because the signal stays continuous. When the needle sits in the groove, the signal never breaks, but digital splits it into zeros and ones. That imperfection, that warmth, reminds us of who we are.”"
+        },
+        {
+          "t": "p",
+          "x": "“Paper Tiger” was chosen as this year's New York Film Festival opening film, and NEON will put it in theaters on November 13, 2026."
+        }
+      ]
+    },
+    "movies/movies-metabull-inkrise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI-based animation software company MetaBull has acquired the studio Inkrise. Alongside the acquisition, an in-house production division called MetaBull Labs has been formed, and Aaron Simpson continues on as head of production."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/metabull1.jpg?itok=LEvhSb8E",
+          "cap": "(From left) Dr. Topher Taylor, Aaron Simpson, Lyle Holmes. Image courtesy of MetaBull"
+        },
+        {
+          "t": "p",
+          "x": "MetaBull's founding team includes CEO Lyle Holmes, who came through Amazon Prime Video and Disney streaming; Emmy-winning producer Dr. Topher Taylor, who worked at Nelvana and Cookie Jar Entertainment; and AI specialist Dr. Iyanu Odebode."
+        },
+        {
+          "t": "p",
+          "x": "The lineup and partnerships Inkrise was running move over to MetaBull Labs. This organization handles partner services, co-productions, and development of its own IP, and carries projects all the way from script breakdown to 4K delivery."
+        },
+        {
+          "t": "p",
+          "x": "Simpson previously served as VP of Disney TV Animation development and as a producer at Warner Bros. Animation. He developed 'Johnny Test' and received an Emmy nomination as producer of 'Coconut Fred's Fruit Salad Island.' He made a name for himself by creating the Flash animation news site 'Cold Hard Flash,' and served as executive producer on the Telly Gold Award–winning PBS Kids show 'Weather Hunters.'"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081252-metabull2-1280.jpg?itok=Yrlb2fao"
+        },
+        {
+          "t": "p",
+          "x": "The company highlights two tools. The Felix production pipeline is built around USD and handles scene assembly, layout, camera blocking, and previsualization inside standard DCC software. The AIR pipeline turns layout, storyboard, and animation data into finished footage. Because the rendering is deterministic, story continuity and characters don't drift."
+        },
+        {
+          "t": "p",
+          "x": "Both systems exchange data with major studios following the OpenUSD framework and the 2026 VFX reference standard. MetaBull emphasizes that it built its platform on ethically sourced datasets and studio-owned libraries with intact copyright provenance."
+        }
+      ]
+    },
+    "movies/movies-matriarch-verena-puhm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/Verena-Puhm.jpeg?w=1024",
+          "cap": "Verena Puhm — Courtesy photo"
+        },
+        {
+          "t": "p",
+          "x": "Filmmaker and former Luma AI executive Verena Puhm has opened production company Matriarch in Los Angeles."
+        },
+        {
+          "t": "p",
+          "x": "Puhm most recently led Dream Lab LA at Luma AI. She now develops and produces AI-native and hybrid productions directly, while also taking on third-party and brand work."
+        },
+        {
+          "t": "p",
+          "x": "Matriarch's development slate includes the hybrid drama series “Colors in the Dark,” the adult animated comedy series “All the Leading Men,” the horror feature “G-Pigs,” and the animated short-form series “Chomper Romp,” which is currently in financing discussions."
+        },
+        {
+          "t": "p",
+          "x": "Creative collaborators include director and AI creator-musician TEDRA (TT The Artist), whose credits include work with Diplo and Alicia Keys as well as Netflix, HBO's “Insecure,” “P-Valley,” and Lena Waithe's “Twenties”; music producer Joachim M. Weber, formerly a composer and audio designer at ProSiebenSat.1; and David Sulpizio, a creative technologist as well as director, producer, and VFX artist."
+        },
+        {
+          "t": "p",
+          "x": "Producer Morenike Dosu, who joins Puhm at the self-funded company, has worked at MPC, Framestore, and DreamWorks Animation. Consultants include James Stowe and Courtney Pimster."
+        },
+        {
+          "t": "p",
+          "x": "“We're building a studio shaped around where entertainment is heading,” Puhm said. “The core business is storytelling. We develop our own IP and produce projects for partners. But we build technology alongside that work, not by setting up a traditional studio structure and bolting on technology later.”"
+        },
+        {
+          "t": "p",
+          "x": "At the center of the new technology work is what the company calls “Affective Content Intelligence,” Matriarch's proprietary approach to understanding how audiences respond to media. According to the company, it is developing a system that combines biometric signals, self-reported emotional intent, and information about content watched to map the relationship between entertainment and emotional or physiological response. Rather than relying solely on clicks, completion rates, and traditional audience research, it is exploring using audience response as another input into creative development, content discovery, and greenlight decisions."
+        },
+        {
+          "t": "p",
+          "x": "“Most entertainment technology is built to predict what you'll watch next,” Puhm said. “We want to know what you want to feel, how a given work affects you, and what can be learned from that response. When that intelligence connects directly to a studio, it changes not just discovery but what gets made.”"
+        },
+        {
+          "t": "p",
+          "x": "Puhm was lead AI artist on the 2025 Sundance documentary “Free Leonard Peltier.” She worked as a writer at Leonine Studios' Wiedemann & Berg TV and Red Bull Media's Terra Mater Studios, and co-directed and co-produced the 2023 documentary “Disaster at Devil's Jaw.” She was also an early AI filmmaking instructor at Sundance Collab."
+        }
+      ]
+    },
+    "movies/movies-rick-baker-locarno": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Rick-Baker.jpg?w=2000&h=1126&crop=1",
+          "cap": "Rick Baker with his Locarno 2026 award — Courtesy of Locarno Film Festival/Ti-Press"
+        },
+        {
+          "t": "p",
+          "x": "Rick Baker, a seven-time Academy Award winner for makeup, has now added the Golden Leopard to his collection. It's one more item to place beside a lifetime of bizarre creatures. On Wednesday evening at the 79th Locarno Film Festival, the Vision Award presented by Ticinomoda went to him."
+        },
+        {
+          "t": "p",
+          "x": "“Rick Baker is a man who brought about a Copernican revolution in cinema. He opened a new path for an entire generation's imagination, and showed what it truly means to witness a physical transformation on the big screen.” Those were the words of Locarno artistic director Giona A. Nazzaro in announcing the award."
+        },
+        {
+          "t": "p",
+          "x": "Asked how he views the rise of AI, Baker brought up the era when computers and CGI first emerged. “People told us we'd suddenly become dinosaurs. But what was made on computers back then was pretty bad. My work clearly looked better than '90s computer graphics, and it still holds up today.”"
+        },
+        {
+          "t": "p",
+          "x": "Still, he believed the old and the new could coexist. “It was just a new toy, and I hoped people would move past the excitement and the two techniques would find a good combination. CGI clearly does things people can't. That's what I was looking forward to.”"
+        },
+        {
+          "t": "p",
+          "x": "He added that he'd always tried to keep up with new technology. “One of my first idols, Jack Pierce, created Frankenstein, the Wolf Man, and the Mummy, and got fired from Universal in the '40s. He couldn't keep up with modern techniques. While other studios were using foam appliances, he was still building up shapes on actors' faces with spirit gum and cotton. I burned that into my head and said, ‘That's not going to happen to me.’”"
+        },
+        {
+          "t": "p",
+          "x": "On CGI itself, he said this. “The work being done with CGI these days is amazing. What I dislike is when CGI is used for something that could actually be done, and more cheaply, practically. When an actor looks in the mirror and the face looking back is no longer their own, that's where the real magic is.”"
+        },
+        {
+          "t": "p",
+          "x": "His experience working with Eddie Murphy on “Coming to America” backs that up. “We had to turn Murphy into Saul, an old white Jewish man. I always test makeup before shooting. There were about 14 pieces. What won Eddie over right away was that even though the cheek pieces painted in white skin tone looked really strange, he looked in the mirror and moved his face around, played with it. That told me he wasn't the kind of actor who'd say ‘I can't move’ once something was glued on.”"
+        },
+        {
+          "t": "p",
+          "x": "Murphy looked into the mirror and said, “Rick, this is so much better than I imagined. It really looks like the guy. The old Jewish character I do is a total stereotype.” Murphy wanted to try improvising scenes while still in the test makeup. “From then on, that became how we worked. Every time we did makeup, I'd sit him in the chair, he'd play around, I'd shoot, and he'd discover the character. It's really different from walking into a green screen room with dots on your face.”"
+        },
+        {
+          "t": "p",
+          "x": "Baker also said Hollywood's “below-the-line” work still doesn't get the respect it deserves. “A hobby turned into a career, and it let me make things I never could have made alone. I gripe about the film industry sometimes, but it's been good to me. Unfortunately, the people who do this work because they love the craft are exactly the ones called below-the-line. The above-the-line people only care about how much money they can make.”"
+        },
+        {
+          "t": "p",
+          "x": "Baker's closing words: “The people who really care are the below-the-line people, and they're the ones who actually make the movie.”"
+        }
+      ]
+    },
+    "movies/movies-strada-2-virtual-drive": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Strada-2.0-900x506.jpeg",
+          "cap": "Image credit: Strada"
+        },
+        {
+          "t": "p",
+          "x": "Strada 2.0 mounts a collaborator's storage as a virtual drive inside macOS Finder or Windows Explorer. The remote editor cuts using media that never leaves the ingest disk."
+        },
+        {
+          "t": "p",
+          "x": "Strada is a company founded in 2023 by brothers Michael Cioni (formerly of Frame.io and Adobe) and Peter Cioni (formerly of Netflix). It started out as an AI media search tool, but customer feedback shifted the direction. The bottleneck wasn't searching footage — it was reaching all of it in the first place."
+        },
+        {
+          "t": "p",
+          "x": "When a collaborator invites a folder or an entire drive, that folder appears in Finder like a local volume. You browse it, preview it, and drag it straight into Premiere Pro, DaVinci Resolve, Photoshop, or Pro Tools. There's no uploading, no downloading, and no third-party bucket sitting between the two machines."
+        },
+        {
+          "t": "video",
+          "yt": "QXUQnrL5_dg"
+        },
+        {
+          "t": "p",
+          "x": "Underneath it all is Strada Agents, the P2P layer unveiled at NAB 2025. The agent runs on the computer holding the media and exposes connected storage to approved users. It works with internal drives, DAS, RAID, and NAS, as well as camera cards, with no dedicated hardware required. Opening a clip transfers only the bytes needed for playback and scrubbing, and a cache builds up locally as the session continues."
+        },
+        {
+          "t": "p",
+          "x": "An actual project is a better reference point than a booth demo. Ryan Connolly of Film Riot edited “Work in Progress,” a short made with Fujifilm, using Strada Connect. The source was roughly 7TB, and the team worked about 1,500 miles apart in Premiere Pro over home internet connections. Connolly says it played back like local footage and he couldn't tell the difference."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Strada-2.0-3-900x506.jpeg",
+          "cap": "Credit: Strada"
+        },
+        {
+          "t": "p",
+          "x": "2.0 bundles the features into four. Connect handles the virtual drive and remote editing; Transfer handles direct machine-to-machine transfers, with bandwidth limits and checksum reports attached. Upload Links closes the loop the other way: you create a folder link and send it, and the recipient uploads directly with no account needed. Permissions come in five roles at the folder level."
+        },
+        {
+          "t": "p",
+          "x": "The core claim in the security documentation is that media is never stored or cached on Strada's cloud at any point. The servers only handle authentication and connection brokering, and files stay on the customer's hardware. Peer connections authenticate with Ed25519 keys generated locally on the device. If an agent is offline, a remote session can't be established, and pulling the drive air-gaps the media on the spot. SOC 2 Type II and ISO 27001 are still in progress."
+        },
+        {
+          "t": "p",
+          "x": "Strada's position is that it sells a protocol, not storage, and pricing is per seat. The company's comparison table assumes 5 users and 20TB, putting itself at $150 a month or $1,800 a year, against cloud alternatives that meter storage at $595 to $1,500 a month. Since the company picked the scenario, it's better read as a directional comparison."
+        },
+        {
+          "t": "p",
+          "x": "There are two constraints. One is bandwidth: because it's P2P, the host machine's upload speed becomes the ceiling for everyone pulling that media. Feeding three editors over a single asymmetric home connection is a different matter from serving one proxy. The other is uptime: the source computer has to stay awake and logged in, so an editor's workstation quietly becomes infrastructure. Linux support exists only on the roadmap."
+        },
+        {
+          "t": "p",
+          "x": "The free tier covers unlimited device and storage connections plus asset browsing. Basic adds remote editing and unlimited transfers for $8 a month, and Pro is $24 a month."
+        }
+      ]
+    },
+    "movies/movies-val-kilmer-ai-footage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.08.47-AM.png?w=2782&h=1638&crop=1",
+          "cap": "‘As Deep as the Grave’ — FirstLine Films"
+        },
+        {
+          "t": "p",
+          "x": "The period drama “As Deep as the Grave,” which drew attention for casting an AI version of the late Val Kilmer, has released nearly seven minutes of footage showing what that technology produces."
+        },
+        {
+          "t": "p",
+          "x": "In the IndieWire-exclusive clip, Kilmer's AI-made character, Father Fintan, travels across a Navajo reservation searching for the source of an evil spirit sickening the land. His guide is Jonathan Nez, a former president of the Navajo Nation. Set in the early 20th century, Father Fintan is trying to raise money to build a new church by collecting relics."
+        },
+        {
+          "t": "p",
+          "x": "Kilmer, who died in 2025 from throat cancer, was originally cast in the film. He was reportedly drawn strongly to the fact that it's set in New Mexico and the American Southwest, where he made his home. Delays from Covid and then his declining health meant he never made it to set. Instead, his family, including his children Mercedes and Jack, agreed to let AI create a digital version of their father, and the production paid his estate under SAG guidelines."
+        },
+        {
+          "t": "p",
+          "x": "“I hope this helps lay the groundwork for how to do this properly,” said Coert Voorhees, who wrote and directed the film. “This work is about consent, collaboration, and compensation.”"
+        },
+        {
+          "t": "p",
+          "x": "On screen, Kilmer looks close to his prime in the 1990s. Voorhees said he shaped the performance by poring over “Heat,” “Batman Forever,” and “Tombstone.” “I tried to become the best student of Val there is. I watched ‘Heat’ literally ten times. Scrolling through footage, I saw a moment of him walking, and it was unmistakably Doc Holliday.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-19-at-7.06.08-AM.png?w=650",
+          "cap": "‘As Deep as the Grave’ — FirstLine Films"
+        },
+        {
+          "t": "p",
+          "x": "Producer and brother John Voorhees said the AI work results in “a performance as close as possible to what Val would have wanted for this character.” “My brother spends an enormous amount of time matching even a single mole on the left side of the jaw.”"
+        },
+        {
+          "t": "p",
+          "x": "These scenes were chosen because they reveal the young Father Fintan and because the dramatic arc is alive in them. “Once you get through the seven minutes, you can see him wrestling between two identities. He's a Catholic priest and he's of Cherokee descent.”"
+        },
+        {
+          "t": "p",
+          "x": "The AI-made Kilmer currently appears for “roughly” one hour and 17 minutes out of a runtime that now exceeds three hours. The production combines younger images the family provided from their personal archive with footage from his later years to depict the character across decades. The voice draws on late-life recordings that had been affected by a tracheostomy. Live-action footage of Abigail Lawrie, Tom Felton, Wes Studi, and Abigail Breslin is mixed with the AI elements."
+        },
+        {
+          "t": "p",
+          "x": "Since showing a trailer at CinemaCon last spring, the team has spent the whole summer working on Kilmer's scenes. “It's labor-intensive. Right up until a clip goes out, some shots made Val look a bit older and some made him look younger. You have to go through all of it and make it consistent. Every single beat matters.”"
+        },
+        {
+          "t": "p",
+          "x": "Given how central AI is, the budget is small. The technology cost, by John Voorhees' account, is “a few thousand dollars.” “It's shockingly cheap, and it helps us as people making an independent film.”"
+        },
+        {
+          "t": "p",
+          "x": "The brothers say buyer interest has been strong. “We've had meetings with streamers, and honestly they're the ones learning from us, since we're still the only film with an A-list star appearing as an AI character with their own consent.” They hope streamers eyeing the film as an example of combining well-made generative AI performance with in-camera footage is where this ends up."
+        },
+        {
+          "t": "p",
+          "x": "The brothers believe this kind of production could also help other celebrities' estates. “We love people from the past and want to stay connected to them. But there has to be consent and compensation.”"
+        },
+        {
+          "t": "video",
+          "yt": "G0L8wTLaS8U"
+        }
+      ]
     }
   }
 }

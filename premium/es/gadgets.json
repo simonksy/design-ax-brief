@@ -2561,6 +2561,113 @@
           "x": "La pregunta real es si los usuarios de Mac elegirán la app Siri en lugar de Claude o ChatGPT. Al final depende de la calidad del resultado. La app Siri funcionó bien para preguntas sobre conocimiento del mundo o contexto personal, pero para consultas más complejas, Claude sigue siendo la opción. Si Apple sigue refinando Siri AI y Apple Intelligence, ese cálculo podría cambiar."
         }
       ]
+    },
+    "gadgets/gadgets-xreal-aura": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg",
+          "cap": "XREAL AURA | Courtesy XREAL"
+        },
+        {
+          "t": "p",
+          "x": "Xreal anunció el 20 de agosto que las reservas globales de Aura superaron las 10.000 unidades. Son las primeras gafas de RA que llegan con Android XR de Google."
+        },
+        {
+          "t": "p",
+          "x": "La empresa interpreta esta cifra como una señal de fuerte demanda inicial entre consumidores, desarrolladores y clientes empresariales. La reserva de 99 dólares, que se convierte en un crédito de 199 dólares al lanzamiento, ya se agotó, mientras que el depósito reembolsable de 199 dólares sigue abierto."
+        },
+        {
+          "t": "p",
+          "x": "El precio final todavía no existe. Parte de las aproximadamente 10.000 reservas reembolsables podría retirarse una vez fijado el precio. La única línea que Xreal ha marcado es que no superará los 1.500 dólares antes de impuestos."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/06/xreal-aura-android-xr-2-edited.jpg",
+          "cap": "XREAL AURA | Courtesy XREAL"
+        },
+        {
+          "t": "p",
+          "x": "La óptica usa el mismo diseño birdbath que los productos anteriores de Xreal. El campo de visión es de 70 grados y el peso sobre la cabeza es inferior a 95 gramos. Ese peso se reparte con una unidad de cómputo del tamaño de un bolsillo, conectada por cable. Aura divide el cómputo en dos: el Snapdragon Reality Elite de Qualcomm se encarga del procesamiento de XR y las tareas de IA, mientras que un coprocesador espacial X1S desarrollado internamente se encarga de la pantalla y el procesamiento de sensores."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de otras gafas birdbath que solo proyectan contenido existente en una pantalla virtual, el seguimiento de 6 grados de libertad, el seguimiento de manos y las experiencias de IA multimodal funcionan sobre Android XR. Usa tal cual las apps de Android de la Play Store y una lista creciente de apps de XR. El lanzamiento está previsto para el otoño de 2026, y habrá más detalles sobre precio y calendario de ventas en las próximas semanas."
+        }
+      ]
+    },
+    "gadgets/gadgets-hilight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo LED de notificación HiLight del Pixel 11 Pro es casi inútil recién salido de la caja. Por defecto, se enciende solo en dos situaciones: cuando usas Gemini con el teléfono boca abajo, y cuando te llama alguien de tu lista de favoritos. Los colores también se limitan a solo cinco opciones."
+        },
+        {
+          "t": "p",
+          "x": "Al llegar así bloqueada una función que era muy querida en teléfonos Android más antiguos, los desarrolladores se adelantaron. HiLight Studio, creada por el usuario de X Dhananjay_Tech, controla este conjunto de LED prácticamente como quieras. Puedes hacer que una notificación de Slack con una palabra específica lo haga pulsar en colores de arcoíris, o que un mensaje de texto haga que una luz verde se mueva como una ola. Incluso ajusta la duración, el brillo, la intensidad y la saturación por ciclo."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-3.jpg?quality=90&strip=all&w=2400",
+          "cap": "Pantalla predeterminada"
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de la función oficial de Google, los colores se eligen entre ocho opciones preestablecidas o se fijan directamente con un deslizador de color. También hay una función para exportar e importar ajustes preestablecidos, así que se pueden compartir con amigos."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Todavía no está en la Play Store. Hay que descargarla de GitHub y cargar lateralmente varias apps, desbloquear las opciones de desarrollador y ajustar varios parámetros del teléfono para que funcione. Según el crítico David Imel, no es tan sencillo como una app normal, pero si estás dispuesto a lidiar con eso, vale la pena."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HiLight-Studio-4.jpg?quality=90&strip=all&w=2400"
+        }
+      ]
+    },
+    "gadgets/gadgets-homepad-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Han surgido indicios de que las “esferas” al estilo Apple Watch llegarán al nuevo centro de hogar inteligente de Apple, conocido comúnmente como “HomePad”, esperado para este otoño. La reacción de 9to5Mac es que esto es una razón más para querer uno en cada habitación de la casa."
+        },
+        {
+          "t": "p",
+          "x": "Han pasado casi dos años desde que Mark Gurman cubrió este producto en detalle. Apple lo tenía previsto para un lanzamiento a principios de 2025, pero lo retrasó por los retrasos de Siri AI, y ahora se predice un debut tan pronto como el próximo mes."
+        },
+        {
+          "t": "p",
+          "x": "El autor señala cuatro elementos que generan expectativa: Siri AI, ahora mucho más útil que el Siri anterior; los pases de diapositivas y Recuerdos de Apple Photos; las funciones de cámara de seguridad; y Apple Music mostrando letras y carátulas en pantalla. Si el precio es el adecuado, dice el autor, pondría uno en casi todas las habitaciones."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-faces-variety.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "A esto se suman las “esferas” y la “galería de esferas” halladas esta semana en el código. Parece que se eligen widgets para incluir e incluso se puede añadir un Smart Stack, así que parece pensado para mostrar widgets distintos según la hora del día."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp"
+        },
+        {
+          "t": "p",
+          "x": "Si las esferas se pueden cambiar libremente, el HomePad adquiere un carácter distinto según la habitación en la que esté. Eso implica fijar widgets y disposiciones distintas para la cocina, la sala y el dormitorio, lo que da una razón para comprar varios. El autor escribió que espera que este sea el último retraso del HomePad."
+        }
+      ]
     }
   }
 }

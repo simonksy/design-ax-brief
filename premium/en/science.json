@@ -2146,6 +2146,359 @@
           "x": "Kapoor sums up the remaining question this way: “Like the invention of the transformer, every major advance in this field has required a creative leap.” Whether grinding through narrow tasks alone can still reach self-improvement is, he says, “the trillion-dollar question right now.”"
         }
       ]
+    },
+    "science/science-attribution-decay": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When an AI image generator spits out a portrait, whose work is inside it? Lawsuits, licensing negotiations and regulations in every country all stand on this question."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202608/dai-gifford-ai-image-training-data-00_1.png?itok=5rChOBMS",
+          "cap": "Top left: an image produced by a model trained on public-domain work left behind by 744 artists. The rest are what would have come out if each of those artists, one at a time, had been removed. Credit: Collage courtesy of the researchers"
+        },
+        {
+          "t": "p",
+          "x": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) researchers say that for models trained on large datasets, there's often no answer at all. It's not that the tools to find one are lacking — the connection itself has vanished. The researchers call this phenomenon “attribution decay.” As training data grows, any single example's share of a given output shrinks, so removing one image, or removing an entire artist's body of work, left the result unchanged."
+        },
+        {
+          "t": "p",
+          "x": "“If removing a piece of data doesn't change the output, that piece of data didn't influence the output. If you try all the rest, one by one, and none of them change it either, there's no basis for attributing the output to any of them,” said lead author Zheng Dai, a former MIT CSAIL researcher."
+        },
+        {
+          "t": "p",
+          "x": "“Every previous method was an approximation,” said MIT CSAIL principal investigator David Gifford. “They couldn't show conclusively that removing individual data points wouldn't change the output. This paper is the first to offer an exact method.” The study was published in Nature Communications."
+        },
+        {
+          "t": "p",
+          "x": "To honestly answer what the model would have produced had it never seen a given image, you'd have to retrain it from scratch with that image removed. With millions of examples, that's unmanageable, so prior work has relied on approximations. The researchers built their own “diffusion ensemble” instead: rather than one large model, it's made of many smaller components, each trained on a slice of the data, so checking what would happen without a given image just means turning off the components that saw it."
+        },
+        {
+          "t": "p",
+          "x": "Pitted against 24 existing diffusion models trained on the same data, image quality was comparable on standard metrics. Dai said, “Performance is worse when data is scarce, but it scales better than standard diffusion models once data grows.”"
+        },
+        {
+          "t": "p",
+          "x": "For a single generated image, the researchers call the set of alternatives that would have resulted from removing each piece of training data, one at a time, the “counterfactual universe.” The counterfactual radius — the distance to the alternative that differs most from the original — is the maximum difference any single piece of data could have made. They trained 24 ensembles across seven public collections, including CIFAR-10, CelebA, MetFaces and ArtBench, on datasets ranging from 256 images to more than 160,000. The larger the training data, the smaller the radius grew, following an inverse power law."
+        },
+        {
+          "t": "p",
+          "x": "Gifford sees this bearing directly on the legal question of whether model outputs are derivative works. “These models create things. If their output has no relationship to any individual piece of training data, what happens to fair use, and how do you compensate creators when what comes out of a model can't be attributed to anything on the internet?”"
+        },
+        {
+          "t": "p",
+          "x": "The research covered diffusion models. Whether the same decay shows up in large language models, which sit at the center of copyright lawsuits, remains an open question. Cornell Law School professor James Grimmelmann said it “gives reason to think attribution will fail in the interesting models too.”"
+        }
+      ]
+    },
+    "science/science-dna-memristor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DNA is the blueprint for every living thing, and it's also extraordinary for how densely it packs information — about 215 million gigabytes per gram. Bring that storage power into electronic devices, and data center efficiency and processing speed go up."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sciencedaily.com/images/1920/dna-research-genetics-technology.webp",
+          "cap": "Scientists have brought DNA inside an electronic device. It's a memory device that packs vast amounts of information using very little power. Credit: Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "The challenge was getting biological DNA to work properly alongside electronic materials. Researchers at Penn State came up with a way around that mismatch. The work appeared in Advanced Functional Materials and has also been filed for patent. It rests on two pillars: synthetic DNA, made of commercially available chemically synthesized molecules arranged into short base sequences tailored to the needs of electronic devices, and crystalline perovskite, a semiconductor already used in solar cells and lasers."
+        },
+        {
+          "t": "p",
+          "x": "“Biology and electronics are different domains,” said co-corresponding author Kavya S. Keremane, a postdoctoral researcher in materials science and engineering at Penn State. “We combined DNA's information-storage capacity with perovskite semiconductors' outstanding electronic properties to create a biohybrid system that changes the way low-power memory devices are designed.”"
+        },
+        {
+          "t": "p",
+          "x": "What this material produces is a memory resistor — a “memristor” — that runs on very little power. A normal resistor loses its stored information once the power is cut, but a memristor remembers which direction current flowed through it. That lets it store and process information in the same place, resembling how neurons in the brain work."
+        },
+        {
+          "t": "p",
+          "x": "“As AI demand grows, we need new strategies for low-power, high-capacity devices,” said co-corresponding author Bed Poudel, a research professor of materials science and engineering. He sees AI and other emerging technologies increasingly relying on neuromorphic computing, designed to work the way the human brain does. “Usually, storing more information takes more power. But our device uses 100 times less power while offering storage capacity greater than existing storage like flash drives.”"
+        },
+        {
+          "t": "p",
+          "x": "The device was built by adding silver nanoparticles to a custom-designed layer of DNA sequences and bonding it with a thin perovskite film. Adding the silver nanoparticles made the DNA conductive and aligned the molecules more neatly. Natural DNA is long and tangled, behaving like wet spaghetti when handled, but short, stiff synthetic DNA arranges itself far more precisely at ultra-small scales. Co-author Neela H. Yennawar, a research professor at the Huck Institutes of the Life Sciences, said this turns DNA from a biopolymer into a programmable, multifunctional nanomaterial platform."
+        },
+        {
+          "t": "p",
+          "x": "When silver-doped DNA met perovskite, it created a biohybrid pathway through which current could flow. Electrons moved reliably at voltages under 0.1 volts. A standard U.S. household outlet runs at 120 volts. The device kept working at temperatures close to 250 degrees Fahrenheit and retained its function for more than six weeks at room temperature, far exceeding the performance benchmarks of existing perovskite-based memory. It delivered the same memory function while using one-tenth the power of comparable technology."
+        },
+        {
+          "t": "p",
+          "x": "“Neither DNA alone nor perovskite alone produced results this robust,” said Keremane. “It's this combination that delivers very high memory storage density on very little power.” Poudel said, “Nature has the answers. We just have to find them and apply them.”"
+        }
+      ]
+    },
+    "science/science-herbarium-flowering": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "There's a section in Kew's State of the World's Plants and Fungi report that AI optimists will appreciate. The report examines the role digitization and AI play in botany and nature management, drawing on 400 researchers from 40 countries, including scientists from the Norwegian University of Science and Technology (NTNU)."
+        },
+        {
+          "t": "p",
+          "x": "“For centuries, naturalists collected plants and fungi, pressed and dried them, and left them in herbaria around the world. In recent years, more and more specimens have been photographed and put online,” said James Speed, a professor of plant ecology at the NTNU University Museum in Trondheim. He added that more than 145 million specimens have been digitized across more than 170 institutions in 40 countries."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-artificial-intelli-1.jpg",
+          "cap": "People are still needed, but AI helps bring order to the vast specimen collections piled up in museums. Credit: Kew Madagascar, Jeff Eden"
+        },
+        {
+          "t": "p",
+          "x": "David Williamson, a postdoctoral researcher studying machine learning for natural history at the same museum, worked with Speed and botanists at the Trondheim herbarium to train a model that detects flowering in digital specimens, then ran it on 8 million specimens spanning 200,000 species. “It's exciting to take a collection that's centuries old and pair it with technology that's only five years old to answer big, important questions about nature,” he said. Machines can't replace biologists, he said, but they can help experts analyze data that would once have taken a lifetime. “The machine did in a week what would have taken a person around 40,000 hours,” he said — roughly 20 years of work."
+        },
+        {
+          "t": "p",
+          "x": "“When we analyzed it, flowering times shifted by an average of 2.5 days per decade worldwide over the past 100 years,” Speed explained. Flowering moved both earlier and later, and the differences were largest in the tropics. Warming has generally been steepest in the far north, yet flowering shifted the most in the tropics. “In the tropics, flowering is more closely tied to rainfall. As the climate changes, the rainy season can arrive earlier, later, or not at all,” he said. When flowering timing shifts, it throws flowers out of sync with their pollinating insects, with ripple effects reaching birds that eat those insects and even food production."
+        },
+        {
+          "t": "p",
+          "x": "The same method is being used to help prevent species extinction. Fungi underpin nearly all life on Earth, yet more than 90% of species remain unidentified. Meanwhile, extinction and climate change are accelerating, and some species vanish before they're ever recorded. Only 1,000 plant species have been officially declared extinct, but the real number is likely far higher. Making millions of specimens machine-readable brings under-studied regions onto the map."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-artificial-intelli-2.jpg",
+          "cap": "Once collections are digitized, there's a lot of work AI can help with. Credit: Jeff Eden"
+        },
+        {
+          "t": "p",
+          "x": "“I think the potential of AI is enormous. But it's still just potential,” said Martin Cheek, a taxonomist at the Royal Botanic Gardens, Kew, and a co-author of the report. “If we cut the time it takes to identify the common 90% of species, we can spend more time describing undescribed species and conserving threatened ones.”"
+        },
+        {
+          "t": "p",
+          "x": "Less than 16% of the world's herbarium specimens are digitally accessible, and the biggest gaps are in biodiversity-rich countries. Williamson, too, said “AI is a useful tool, but it doesn't think for us. A model is only as good as the data it's trained on,” adding that experts need to be involved at every step, from asking the right questions to interpreting the results."
+        }
+      ]
+    },
+    "science/science-tissue-clocks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at the Research Center for Molecular Medicine of the Austrian Academy of Sciences (CeMM) and the Ludwig Boltzmann Institute for Network Medicine at the University of Vienna (LBI-NetMed) built an AI “tissue clock” that estimates the biological age of human organs from tissue images. Analyzing more than 25,000 samples across 40 tissue types, they showed that organs age at different rates and that the shift can be picked up in blood as well. The study appeared in Nature Medicine (DOI: 10.1038/s41591-026-04566-5)."
+        },
+        {
+          "t": "p",
+          "x": "Some people are sixty but look and live like forty-five. Does the liver age differently than the brain? Can you measure the gap between the age on someone's passport and the biological age of each individual organ?"
+        },
+        {
+          "t": "p",
+          "x": "The study was led by principal investigator André Rendeiro. While earlier studies mostly looked at molecular changes such as DNA methylation or gene expression, this team examined how the structure of tissue itself changes over time."
+        },
+        {
+          "t": "p",
+          "x": "The material came from the Genotype-Tissue Expression project (GTEx). The team collected 40 tissue types from 983 people, from the brain and heart to the lungs, pancreas, skin and intestines. They analyzed 25,712 high-resolution digitized images of tissue sections — roughly 480 million tiles when split up — using state-of-the-art vision models."
+        },
+        {
+          "t": "p",
+          "x": "Even without being taught age directly, age emerged as the single strongest factor separating tissue appearance across all 40 tissue types. From this, the team built a “tissue clock”: a separate model for each organ that predicts biological age from tissue appearance alone. The average prediction error was 4.9 years, and it outperformed existing DNA-based aging estimates at catching tissue-specific pathology. Predicted age was also strongly linked to telomere shortening, tissue pathology and the number of chronic conditions."
+        },
+        {
+          "t": "p",
+          "x": "“Our tissues record the aging process in remarkable detail,” said corresponding author André Rendeiro. “Combining tissue imaging with artificial intelligence lets us capture patterns of aging that are invisible to the human eye.”"
+        },
+        {
+          "t": "p",
+          "x": "Aging didn't arrive evenly. The lungs, kidneys, pancreas and adrenal glands already showed signs of accelerated aging between the 20s and 40s. The uterus showed especially pronounced changes around menopause. Kidney failure was linked to accelerated aging signals across multiple tissues, and diabetes to distinct changes in the pancreas."
+        },
+        {
+          "t": "p",
+          "x": "“What stands out is how differently each organ ages, and how that shows up in tissue structure,” said co-first author Ernesto Abila. “Reading these spatial patterns with deep learning captures aging not just as molecular drift, but as structural remodeling.”"
+        },
+        {
+          "t": "p",
+          "x": "The researchers linked blood gene expression profiles with the age gaps derived from tissue in the same individuals, building a predictor that estimates organ-specific biological age from blood alone. Co-first author Iva Buljan called it “a conceptual leap that moves the language of tissue aging learned from images into something readable from a blood draw.” The predictor picked up aging patterns in Alzheimer's disease, Crohn's disease, cystic fibrosis, vasculitis, diabetes and stroke."
+        },
+        {
+          "t": "p",
+          "x": "“Each organ ages differently, and the process appears to be shaped by both systemic and tissue-specific factors together,” said co-first author Yimin Zheng. Going forward, this approach could lead to minimally invasive diagnostics that use blood tests to track organ health and disease progression."
+        }
+      ]
+    },
+    "science/science-agent-scale": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Even the same AI model working on the same task can reach opposite conclusions depending on how many are grouped together. A new study published in the Proceedings of the National Academy of Sciences (PNAS) says that when AI agents interact in groups, the number of agents determines the outcome."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/more-is-different-when.jpg",
+          "cap": "Interaction can amplify an individual's bias, create a bias that wasn't there, or reverse it. Source: PNAS (2026). DOI: 10.1073/pnas.2531697123"
+        },
+        {
+          "t": "p",
+          "x": "The researchers draw a human analogy. A family runs differently from a village, a city, or a nation. As scale grows, new rules and norms emerge. The authors see AI systems the same way."
+        },
+        {
+          "t": "p",
+          "x": "The study, a collaboration between researchers at City St George's, University of London, the IT University of Copenhagen, and the Polytechnic University of Catalonia, arrives as multi-agent AI spreads into finance, energy, defense, and social media. Safety and alignment research remains focused mostly on single models."
+        },
+        {
+          "t": "p",
+          "x": "The experiment used a “naming game” that shows how conventions emerge. Randomly paired agents pick a word from a shared word pool and get rewarded if they match. Over repeated rounds, the group converges on its own toward a shared convention, resembling how human culture builds norms. The researchers tested four models — Microsoft's Phi-4, OpenAI's GPT-4o, Alibaba's QwQ-32B, and Meta's Llama 3.1 70B Instruct — using socially loaded word pairs such as {man, woman} and {straight, gay}. The scale ranged from two agents up to one million."
+        },
+        {
+          "t": "p",
+          "x": "There were three ways interaction pulled a group away from individual preference: amplifying an existing tendency to make convergence nearly certain, pushing a group that started out neutral to consistently pick one word, or reversing preference outright so the group settled on the word each agent had individually avoided."
+        },
+        {
+          "t": "p",
+          "x": "Results differed by model. For the {her, his} pair, QwQ and Phi groups converged on “her,” while GPT and Llama groups converged on “his” — even though their starting preferences were nearly identical."
+        },
+        {
+          "t": "p",
+          "x": "As scale grew, outcomes became predictable and converged with near certainty across every model and word pair. But the threshold point varied widely by combination: some needed just two agents, others around 10,000. For {straight, gay}, Llama agents individually preferred “straight,” but once the group passed six, it flipped toward “gay.” Below that size, no such effect appeared."
+        },
+        {
+          "t": "p",
+          "x": "The researchers also built an interpretive theory borrowed from statistical physics. It predicts the behavior of infinitely large groups and explains how the randomness of small groups turns into near-certain outcomes once a critical size is crossed."
+        },
+        {
+          "t": "p",
+          "x": "The authors wrote that bias was simply an easy-to-measure case, and that “there is no reason to think collusion, deception, or cooperation are immune to scale effects.” Current testing practices may miss risks that only appear at specific population sizes. A model that is safe when tested individually can produce unintended outcomes once deployed alongside copies of itself, and single-agent evaluation would not reveal that."
+        },
+        {
+          "t": "p",
+          "x": "Professor Andrea Baronchelli said: “AI alignment is still treated as if a single model lives alone in the world. But agents are increasingly being built to talk to each other, and safety at the level of one agent doesn't guarantee safety at the level of a group.”"
+        },
+        {
+          "t": "p",
+          "x": "The researchers also noted limitations. The bias measured here is closer to an internal coordination mismatch than a deviation from human values. They named mixed-model groups and agents within realistic network structures as the next areas to study."
+        }
+      ]
+    },
+    "science/science-ai-virus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI has designed a virus that infects bacteria and replicates itself. It is the first case of AI moving beyond reading and analyzing genetic code to actually writing new code of its own."
+        },
+        {
+          "t": "p",
+          "x": "The target was bacteriophages, viruses that infect only bacteria rather than humans, animals, or plants. The researchers used AI to design hundreds of new versions of already well-studied phages, then built them from scratch in the lab. Of the 285 AI-designed genomes tested, 16 worked as phages that infect E. coli."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2025/bacteriophages.jpg",
+          "cap": "Bacteriophages. Source: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Phages are predators of bacteria. They recognize a molecule on the bacterium's surface, attach, and push in their genetic material, then hijack the bacterium's molecular machinery to print out copies of themselves. The infected cell eventually bursts. Because the genome is so small, DNA synthesis is fast and the result is clear-cut: either a working phage comes out, or it doesn't."
+        },
+        {
+          "t": "p",
+          "x": "The models used were Evo 1 and Evo 2. They handle genetic sequences the way large language models handle text. Where a language model learns patterns in words and sentences, a genome model learns patterns in DNA sequences. But a genome isn't a command string where you can swap letters one at a time. For a phage to work, the instructions to recognize the right bacterium, hijack its machinery, make proteins on time, and assemble new particles all have to interlock."
+        },
+        {
+          "t": "p",
+          "x": "The researchers trained the model on more than 2 million phage genomes, then had it design new versions of ΦX174, a small, long-studied phage. ΦX174 carries a genome of about 5,400 DNA letters that holds instructions for just 11 proteins, and it infects a strain of E. coli unrelated to disease. The model was further refined with about 15,000 genomes closely related to ΦX174. The AI did not conjure a virus out of nothing; it recombined existing biological patterns within an already reasonably well-understood system."
+        },
+        {
+          "t": "p",
+          "x": "When the synthesized DNA was put into E. coli to check it, most failed, and 16 of the 285 worked. Some behaved like ΦX174 even though their sequences differed considerably."
+        },
+        {
+          "t": "p",
+          "x": "The researchers also ran a resistance test. Repeatedly exposing an E. coli strain that had resisted the original phage to AI-made phages produced a hybrid phage that could infect that bacterium too. The AI did not design this final phage directly; it created a diverse starting population and widened the options for evolution to choose from."
+        },
+        {
+          "t": "p",
+          "x": "There is still a long distance between designing a phage on a computer and treating a patient. Efficacy and safety need to be confirmed against bacteria that cause real infections, and manufacturing has to meet pharmaceutical-grade standards. This phage is unusually simple. Phages useful against serious infections have much larger genomes and more complex machinery, much of which remains unmapped."
+        },
+        {
+          "t": "p",
+          "x": "Biosecurity questions follow naturally. This study dealt with a simple phage that infects bacteria, not a virus that causes human disease, and it doesn't mean asking an AI to make a dangerous virus would actually produce one. Still, it is a sign that AI is moving from reading biological sequences to generating sequences that actually work. How to train these models, what biological information to give them access to, and how to filter out dangerous designs isn't a question for AI researchers alone. Biologists, physicians, regulators, ethicists, and biosecurity experts all need to be involved."
+        },
+        {
+          "t": "p",
+          "x": "The current result is best understood as a proof of concept, going only as far as this: “AI can generate new versions of a complete viral genome, and it actually works.”"
+        }
+      ]
+    },
+    "science/science-cuspai-mof": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "CuspAI, a computational chemistry startup based in Cambridge, has launched an AI Materials Foundry. It's a network of 45 organizations aiming to find new functional materials using AI. Tech giants like Meta and Nvidia have joined alongside automotive, chemical, solar, and semiconductor companies, as well as scientific data providers."
+        },
+        {
+          "t": "p",
+          "x": "Aron Walsh, CuspAI's chief scientific officer and a materials scientist at Imperial College London, explained that the company's strength lies in scaling up beyond the usual constraints of academia. “We can train bigger models on bigger datasets than are normally accessible in a university lab.” The partnership with Meta and Nvidia provides computing power beyond what most startups can reach — what he calls “access to capability and resources at scale.”"
+        },
+        {
+          "t": "p",
+          "x": "In 2025, CuspAI worked with Meta to build datasets and AI models for materials that capture carbon dioxide directly from the air. CEO Chad Edwards says the company's AI techniques “generate new structures and amplify the structural and chemical diversity of the dataset.”"
+        },
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xAny/6/0/4/550604_screenshot_20260731_at_09.50.50_116287.png",
+          "cap": "HfO2 structure"
+        },
+        {
+          "t": "p",
+          "x": "The platform uses UMA (Universal Model for Atoms), which Meta released in 2025. It's a model that extends machine-learned interatomic potentials (MLIPs) to apply broadly across many chemical systems. Unlike the earlier approach, which required building a new MLIP for each system, UMA generalizes across chemical compositions."
+        },
+        {
+          "t": "p",
+          "x": "Some tools have been released as open source, while those trained on data held by partners remain proprietary. The models have gone from producing chemically nonsensical substances to reliably pinpointing materials with specific properties. Walsh said, “This kind of inverse design problem has traditionally been extremely, extremely hard in chemistry.”"
+        },
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xAny/6/0/3/550603_screenshot_20260731_at_09.50.35_784287.png",
+          "cap": "CsPbI3 structure"
+        },
+        {
+          "t": "p",
+          "x": "Expanding data has been one axis driving the improvement. CuspAI draws materials data from the Cambridge Crystallographic Data Centre, licenses academic content from Wiley, and builds simulation datasets covering tens of millions of compounds. It also plans to build experimental datasets together with foundry partners, including Singapore's national research agency A*Star."
+        },
+        {
+          "t": "p",
+          "x": "The most notable case is the collaboration with the Finnish chemical company Kemira. CuspAI identified 20 new metal-organic frameworks (MOFs) to filter PFAS contaminants out of water in just six months — far faster than the existing approach, which used to take years."
+        },
+        {
+          "t": "p",
+          "x": "Instead of searching the whole of an infinite chemical space, the approach learns the correlation between structural data and material properties to narrow things down to promising candidates. “You move from an infinite space to something a bit more tractable.” Walsh added that the focus sharpens further “when you're dealing with a direct industrial problem and process.” Elizabeth Rowsell, chief technology officer at Johnson Matthey, said, “The materials that will power a cleaner future won't be discovered the old way.”"
+        },
+        {
+          "t": "p",
+          "x": "CuspAI has raised £330 million from backers including Amazon founder Jeff Bezos and British and Dutch sovereign wealth funds, and aims to build a business that earns royalties from materials discovery."
+        },
+        {
+          "t": "p",
+          "x": "Walsh cautioned against overhype. Recalling the excitement that once surrounded high-throughput screening and combinatorial chemistry, he said, “Each of them actually left something behind, but at their peak, all of them were overhyped.” He noted that predicting material properties is now “the easy part.” “The constraint has shifted to synthesis, stability under real operating conditions, and manufacturability. Value will build up around actually delivering results in the real world.”"
+        }
+      ]
+    },
+    "science/science-virtual-cell": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Picture Google Earth, but the subject is a human cell. Zoom in enough, and instead of roads and buildings, you see proteins and strands of RNA and DNA. From there, the system predicts how the cellular landscape changes when a single gene is switched off or a drug is dropped in."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/08/AIDO-Cell-image-1-645x645.jpg",
+          "cap": "AIDO Cell, the virtual cell system unveiled by GenBio AI"
+        },
+        {
+          "t": "p",
+          "x": "AIDO Cell, the virtual cell system unveiled Tuesday by Palo Alto, California-based startup GenBio AI, is aiming at exactly that picture. Where Google DeepMind's AlphaFold tried to predict the structure of individual proteins, AIDO Cell aims far wider: it's trying to predict how the entire molecular machinery of a single cell moves."
+        },
+        {
+          "t": "p",
+          "x": "“With AlphaFold, it's like predicting the structure of a single house or figuring out one person living in that city. With AIDO Cell, it's closer to predicting how the entire city runs.” That's according to David Baker, a University of Washington scientist who co-founded GenBio AI. He shared the 2024 Nobel Prize in Chemistry with the creators of AlphaFold for his work on computational protein design."
+        },
+        {
+          "t": "p",
+          "x": "GenBio AI, led by researchers including Nobel laureate Baker, is pitching a holistic approach. The article was written by STAT's Meghana Keshavan on August 18, 2026, and the rest of the text is available only to STAT+ subscribers."
+        }
+      ]
     }
   }
 }

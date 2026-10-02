@@ -2003,6 +2003,352 @@
           "x": "Se llame rotoscopia o IA generativa, los resultados de sincronización de labios que produce la traducción y doblaje de Descript son impresionantes. Sin embargo, como traductor certificado, no estoy de acuerdo con una traducción automática que no ha sido revisada por un hablante nativo. Que el plan Creator no permita corregir la traducción automática antes de ejecutarla es, sinceramente, molesto. No estoy pidiendo que me asignen un traductor profesional. Solo pido que se habilite la opción de traer a mi propio traductor para pulirla. Ojalá esa opción llegue pronto también al plan Creator. Por ahora, la única salida es subir al plan Business. Eso sí, felicitaciones por el resultado de la sincronización de labios."
         }
       ]
+    },
+    "movies/movies-comfyui-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "ghCKziHvGXo"
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI lanzó un MCP oficial. Claude o Codex ahora pueden escribir, ejecutar y corregir flujos de trabajo de ComfyUI directamente. El modelo se encarga del cableado de nodos, y quien crea solo necesita quedarse con la mitad creativa."
+        },
+        {
+          "t": "p",
+          "x": "El equipo que hizo el video valora su propia habilidad, siendo generoso, como de nivel «cavernícola de Comfy» como mucho. Aun así, consideran que ComfyUI es la herramienta más importante en el terreno de imagen y video generativos. Puede hacer casi cualquier cosa, pero aprenderlo cuesta tiempo. Su observación es que quienes lo manejan bien piensan mitad como artistas, mitad como ingenieros. Ahora se puede delegar esa mitad de ingeniero."
+        },
+        {
+          "t": "p",
+          "x": "Lo que hace falta es poco: Claude Desktop o un ChatGPT Desktop que pueda usar Codex, más la app de escritorio de ComfyUI. A cambio, hay que aceptar que un agente toque tu computadora. La máquina funciona en casi cualquier PC o Mac reciente, pero una PC con una tarjeta Nvidia entre la 4090 y la 5090 da menos problemas. La demostración del video se hizo en una 5090. Si no tienes el equipo, también puedes usar Comfy Cloud o alquilar una H100 en RunPod a 3,29 dólares la hora."
+        },
+        {
+          "t": "p",
+          "x": "Las instrucciones de instalación son absurdamente cortas. Basta con pedirle a Claude que instale ComfyUI MCP, tanto la versión de la comunidad como la oficial, en una sola línea. El MCP oficial todavía está en beta, así que se recomienda mantener también la versión de la comunidad, que lleva más tiempo rodando, para cambiar a ella cuando algo se traba."
+        },
+        {
+          "t": "p",
+          "x": "Hay que ahorrar tokens. Él conecta modelos baratos como subagentes y los usa como manos y pies, mientras reserva el modelo caro solo para supervisar. Cosas como cambiar un prompt o alargar un video de 124 a 248 fotogramas es mejor hacerlas a mano."
+        },
+        {
+          "t": "p",
+          "x": "Cuando le pidió a Claude que armara de cero todo un flujo de trabajo de imagen a video, salió un grafo. La generación tardó 204 segundos, poco más de tres minutos, y como corrió todo en local, no costó nada. Usando nodos de API, también se pueden mezclar en el mismo grafo modelos cerrados como Seedance 2.5 o Topaz; eso ya no es local y consume créditos. Cuando encuentra un LoRA que parece bueno, basta con darle la dirección para que se instale solo."
+        },
+        {
+          "t": "p",
+          "x": "Su conclusión es simple: los modelos de video de código abierto están alcanzando rápido a los modelos comerciales más recientes, y el costo de las plataformas cerradas sigue subiendo. Si algo se puede resolver en local, es mejor hacerlo en local. De las dos barreras de entrada, este MCP ya tumbó, por ahora, la de la curva de aprendizaje."
+        }
+      ]
+    },
+    "movies/movies-eddie-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Eddie AI publicó una investigación que muestra que incluso un modelo de 9.000 millones de parámetros puede competir en edición de video con modelos frontera mucho más grandes. El modelo alumno Qwen3.5-9B, entrenado mediante destilación de conocimiento, le ganó a Kimi K3 el 47% de las veces en enfrentamientos directos de edición de video social de formato corto. Kimi K3 tiene 2,8 billones de parámetros."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Eddie-AI_Processing.jpg",
+          "cap": "Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "Como modelo maestro se usó Kimi K3, de Moonshot AI. El modelo de 9B sin modificar fue elegido al principio solo en un 10% de las comparaciones. Tras el entrenamiento con LoRA subió al 32%, y después de refinar las trayectorias llegó al 47%."
+        },
+        {
+          "t": "p",
+          "x": "En vez de simplemente aumentar los datos de entrenamiento sin más, lo que funcionó fue seleccionar las trayectorias. Extrajeron rastros de razonamiento del modelo frontera, filtraron solo los mejores ejemplos con muestreo best-of-N, y repitieron el reentrenamiento con las mejores salidas del modelo alumno. En el proceso, la longitud del razonamiento se redujo en torno a un 30%, lo que también bajó el costo de inferencia."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/06/Eddie-AI-in-action-900x506.jpg",
+          "cap": "Eddie AI in action"
+        },
+        {
+          "t": "p",
+          "x": "La empresa también deja claros los límites. Son resultados preliminares, limitados a poco más de 100 proyectos reales y a una tarea estrecha. La cifra del 47% viene de la edición social de formato corto, no del rendimiento general en edición de video. Solo 10 pares fueron evaluados por humanos, y aunque en general coincidieron con el juicio automático, es una muestra de validación pequeña."
+        },
+        {
+          "t": "p",
+          "x": "La utilidad viene del tamaño. El modelo de 9B cuantizado corre en una sola GPU de estación de trabajo. Ejecutarlo on-premise significa que el material nunca tiene que salir del edificio. Para cadenas de televisión, titulares de derechos deportivos y entornos de producción sujetos a NDA o restricciones de nube, esa condición es decisiva."
+        },
+        {
+          "t": "p",
+          "x": "El CEO Shamir Allibhai lo dijo así: «Nuestros clientes no están en contra de entrenar IA. Están en contra de perder el control sobre el conocimiento que crearon»."
+        }
+      ]
+    },
+    "movies/movies-firefly-audio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe hizo ajustes en Firefly. Amplió las funciones de audio, añadió más modelos de IA externos y abrió el asistente de IA de Firefly para que también se pueda usar gratis."
+        },
+        {
+          "t": "p",
+          "x": "Generate Music, Generate Speech y Generate Sound Effects pasaron a ser funciones oficiales. Se diseñaron pensando en video y contenido social, anuncios, cortos, tutoriales y clips de podcast."
+        },
+        {
+          "t": "p",
+          "x": "Generate Music crea una pieza nueva según la duración y el ambiente del video. Generate Speech convierte un guion en voz en off, y se puede elegir entre el modelo de voz propio de Adobe y ElevenLabs. Generate Sound Effects crea efectos de sonido ajustados a la acción y el tiempo en pantalla."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Adobe-Generate-Music-1.jpg",
+          "cap": "Adobe Generate Music"
+        },
+        {
+          "t": "p",
+          "x": "Adobe citó una encuesta reciente realizada junto con Berklee College of Music. «El 79,3% de los encuestados sube contenido de video a diario o varias veces por semana, y el 100% dijo que usa música en sus videos». Como obstáculos señalaron «riesgo legal y de derechos de autor en un 43,2%, y costos de licencia en un 38,9%»."
+        },
+        {
+          "t": "p",
+          "x": "El asistente de IA de Firefly, que debutó en beta a principios de este año, también bajó la barrera de entrada. Incluye funciones como Create Storyboard y Create Brand Kit, y se abrió una prueba gratuita con un límite diario de generación."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Firefly-Creative-AI-Assistant-2x3-1.png",
+          "cap": "Firefly AI Assistant"
+        },
+        {
+          "t": "p",
+          "x": "También creció la lista de modelos disponibles dentro de Firefly. Hay modelos de Adobe, Google, Kling AI, Luma AI, OpenAI, Runway y otros. El más reciente en incorporarse, Gemini Omni Flash, acepta como entrada no solo texto sino también video, audio e imágenes. Adobe explicó que con este modelo se puede fijar un concepto de video dentro de Firefly e irlo ajustando poco a poco."
+        },
+        {
+          "t": "p",
+          "x": "Esto llega después de haber incorporado antes Runway Aleph 2.0 y Kling 3.0. Según explica Adobe, reunir varios modelos de IA y herramientas creativas en un solo lugar, Firefly, permite elegir un modelo distinto para cada tarea sin cambiar de app ni de suscripción."
+        }
+      ]
+    },
+    "movies/movies-james-gray": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El director James Gray no mide sus palabras cuando sale el tema de la IA. Después de calificar de «obscena» la producción cinematográfica con IA que impulsa hoy la industria, dijo en una entrevista reciente con IndieWire que se ha convencido de que esta tendencia terminará fracasando."
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/08/GettyImages-2276688682.jpg",
+          "cap": "James Gray en la conferencia de prensa de «Paper Tiger» en el Festival de Cannes. Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "En el próximo podcast Filmmaker Toolkit dijo esto: «Soy extrañamente optimista. Si no lo sabes ya, pronto lo sabrás. La IA no puede tocar las capas infinitas del alma. Estaría bien que acelerara los ensayos clínicos para quienes los necesitan. Pero quiénes somos realmente, nuestra alma, es lo único verdaderamente infinito. Lo que busca el cine, y en realidad toda la creación, es un misterio que no termina, capas que no dejan de superponerse. ¿Y eso qué significa? Que la imperfección es parte de la ecuación»."
+        },
+        {
+          "t": "p",
+          "x": "El mismo tema recorrió toda la conversación sobre su nuevo drama criminal «Paper Tiger». Él ve belleza y humanidad en las imágenes «defectuosas». «Cuando te vuelves técnicamente excelente, pierdes la imperfección del medio, esa imperfección que crea una especie de magia. Lo que la gente realmente quiere decir con “la magia del cine” son cosas que nunca harías si las aislaras: un actor ligeramente desenfocado, grano áspero, un encuadre donde no se ve toda la cara, ocultar algún aspecto del cuerpo»."
+        },
+        {
+          "t": "p",
+          "x": "Puso en el mismo plano ir a un museo a ver las pinceladas de Van Gogh y ver una imagen filmada en celuloide. «Es magia. Eso es lo que buscamos con el grano de la película, alcanzar nuestra humanidad»."
+        },
+        {
+          "t": "p",
+          "x": "También se retractó de algo que dijo a IndieWire en 2022. Ahora se arrepiente de haber rodado en digital su última película, «Armageddon Time». Como era una película que dependía de las actuaciones de actores jóvenes, sintió que necesitaba libertad para repetir tomas largas, y esa elección era suya. Sigue orgulloso de la película en sí y de la fotografía de Darius Khondji, pero sintió que faltaba algo durante todo el rodaje. «Luché y luché por sacarle a lo digital la imperfección, el grano, lo inasible e irreversible de la imagen»."
+        },
+        {
+          "t": "p",
+          "x": "También señala cuán «desechables» se han vuelto las imágenes digitales. «Se toman más fotos que nunca. Pero no se las mira. ¿Has visto a un adolescente pasar fotos en el feed de Instagram?». Según él, las fotografías llevan consigo un momento que no se puede recuperar, y el cine convierte esa irreversibilidad en belleza. «Si una película se ve como una transmisión de fútbol americano, va a molestar a la vista. Es demasiado nítida. No tiene la belleza del pasado»."
+        },
+        {
+          "t": "p",
+          "x": "En «Paper Tiger», Gray y el director de fotografía Joaquín Baca-Asay volvieron al celuloide, usando lentes y equipo vintage, en particular luces de tungsteno. Él no ve esta sensibilidad como algo exclusivamente suyo. La compara con el regreso del disco de 12 pulgadas en la música. «Mis hijos lo saben, y los jóvenes también. Por eso volvió el vinilo. En los 80 y a principios de los 90 todo se volvió digital, y un día la gente escuchó discos y dijo: “espera, esto es mejor”. Porque la señal se mantiene continua. Cuando la aguja entra en el surco, la señal no se interrumpe, pero lo digital la divide en ceros y unos. Esa imperfección, ese calor, nos recuerda quiénes somos»."
+        },
+        {
+          "t": "p",
+          "x": "«Paper Tiger» fue elegida como película de apertura del Festival de Cine de Nueva York de este año, y NEON la estrenará en cines el 13 de noviembre de 2026."
+        }
+      ]
+    },
+    "movies/movies-metabull-inkrise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La empresa de software de animación basado en IA MetaBull adquirió el estudio Inkrise. Junto con la adquisición se creó una división de producción interna llamada MetaBull Labs, y Aaron Simpson continúa como responsable de producción."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/metabull1.jpg?itok=LEvhSb8E",
+          "cap": "(De izquierda a derecha) Dr. Topher Taylor, Aaron Simpson, Lyle Holmes. Imagen cortesía de MetaBull"
+        },
+        {
+          "t": "p",
+          "x": "El equipo fundador de MetaBull incluye al CEO Lyle Holmes, que pasó por Amazon Prime Video y el streaming de Disney; a la productora ganadora de un Emmy Dr. Topher Taylor, que trabajó en Nelvana y Cookie Jar Entertainment; y a la especialista en IA Dr. Iyanu Odebode."
+        },
+        {
+          "t": "p",
+          "x": "La cartera de proyectos y las asociaciones que manejaba Inkrise pasan a MetaBull Labs. Esta organización se encarga de servicios para socios, coproducciones y desarrollo de IP propia, y lleva los proyectos desde el desglose del guion hasta la entrega en 4K."
+        },
+        {
+          "t": "p",
+          "x": "Simpson fue vicepresidente de desarrollo de Disney TV Animation y productor en Warner Bros. Animation. Desarrolló 'Johnny Test' y recibió una nominación al Emmy como productor de 'Coconut Fred's Fruit Salad Island.' Se dio a conocer al crear el sitio de noticias de animación Flash 'Cold Hard Flash,' y fue productor ejecutivo de 'Weather Hunters,' de PBS Kids, ganador de un Telly Gold Award."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081252-metabull2-1280.jpg?itok=Yrlb2fao"
+        },
+        {
+          "t": "p",
+          "x": "La empresa destaca dos herramientas. El pipeline de producción Felix se basa en USD y maneja el montaje de escenas, el layout, el blocking de cámara y la previsualización dentro de un DCC estándar. El pipeline AIR convierte el layout, el storyboard y los datos de animación en imágenes terminadas. Como el renderizado es determinista, la continuidad de la historia y los personajes no varían."
+        },
+        {
+          "t": "p",
+          "x": "Ambos sistemas intercambian datos con los principales estudios siguiendo el marco OpenUSD y el estándar de referencia VFX 2026. MetaBull subraya que construyó su plataforma sobre conjuntos de datos obtenidos de forma ética y bibliotecas propiedad de estudios con procedencia de derechos de autor clara."
+        }
+      ]
+    },
+    "movies/movies-matriarch-verena-puhm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/Verena-Puhm.jpeg?w=1024",
+          "cap": "Verena Puhm — Courtesy photo"
+        },
+        {
+          "t": "p",
+          "x": "La cineasta y exdirectiva de Luma AI, Verena Puhm, ha abierto la productora Matriarch en Los Ángeles."
+        },
+        {
+          "t": "p",
+          "x": "Puhm dirigió hasta hace poco el Dream Lab LA en Luma AI. Ahora desarrolla y produce directamente contenidos nativos de IA e híbridos, además de encargarse de trabajos para terceros y para marcas."
+        },
+        {
+          "t": "p",
+          "x": "El catálogo de desarrollo de Matriarch incluye la serie dramática híbrida “Colors in the Dark”, la serie de comedia animada para adultos “All the Leading Men”, el largometraje de terror “G-Pigs” y la serie animada de formato corto “Chomper Romp”, actualmente en conversaciones de financiación."
+        },
+        {
+          "t": "p",
+          "x": "Entre los colaboradores creativos están el director y creador-músico de IA TEDRA (TT The Artist), cuyos créditos incluyen trabajo con Diplo y Alicia Keys además de Netflix, “Insecure” y “P-Valley” de HBO, y “Twenties” de Lena Waithe; el productor musical Joachim M. Weber, antes compositor y diseñador de audio en ProSiebenSat.1; y David Sulpizio, tecnólogo creativo además de director, productor y artista de VFX."
+        },
+        {
+          "t": "p",
+          "x": "La productora Morenike Dosu, que se une a Puhm en la empresa financiada con capital propio, ha trabajado en MPC, Framestore y DreamWorks Animation. Como consultores están James Stowe y Courtney Pimster."
+        },
+        {
+          "t": "p",
+          "x": "«Estamos construyendo un estudio acorde con hacia dónde se dirige el entretenimiento», dijo Puhm. «El negocio principal es contar historias. Desarrollamos nuestra propia propiedad intelectual y producimos proyectos para socios. Pero construimos la tecnología junto a ese trabajo, no levantando primero una estructura de estudio tradicional y añadiendo tecnología después.»"
+        },
+        {
+          "t": "p",
+          "x": "En el centro del nuevo trabajo tecnológico está lo que la empresa llama “Affective Content Intelligence”, el enfoque propio de Matriarch para entender cómo responde el público a los medios. Según la empresa, está desarrollando un sistema que combina señales biométricas, intención emocional autoinformada e información sobre el contenido visto para establecer la relación entre el entretenimiento y la respuesta emocional o fisiológica. En lugar de depender solo de clics, tasas de finalización e investigación tradicional de audiencias, explora usar la respuesta del público como otro insumo en el desarrollo creativo, el descubrimiento de contenido y las decisiones de luz verde."
+        },
+        {
+          "t": "p",
+          "x": "«La mayoría de la tecnología de entretenimiento se construye para predecir qué verás después», dijo Puhm. «Nosotros queremos saber qué quieres sentir, cómo te afecta una obra determinada y qué se puede aprender de esa respuesta. Cuando esa inteligencia se conecta directamente con un estudio, cambia no solo el descubrimiento, sino también qué se produce.»"
+        },
+        {
+          "t": "p",
+          "x": "Puhm fue artista principal de IA en el documental de Sundance de 2025 “Free Leonard Peltier”. Trabajó como escritora en Wiedemann & Berg TV, de Leonine Studios, y en Terra Mater Studios, de Red Bull Media, y codirigió y coprodujo el documental de 2023 “Disaster at Devil's Jaw”. También fue de las primeras instructoras de cine con IA en Sundance Collab."
+        }
+      ]
+    },
+    "movies/movies-rick-baker-locarno": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/Rick-Baker.jpg?w=2000&h=1126&crop=1",
+          "cap": "Rick Baker with his Locarno 2026 award — Courtesy of Locarno Film Festival/Ti-Press"
+        },
+        {
+          "t": "p",
+          "x": "Rick Baker, siete veces ganador del Óscar de maquillaje, ha sumado ahora el Leopardo de Oro. Es un objeto más para colocar junto a una colección de criaturas extrañas construida a lo largo de toda una vida. El miércoles por la noche, en la 79.ª edición del Festival de Locarno, el Vision Award que entrega Ticinomoda fue para él."
+        },
+        {
+          "t": "p",
+          "x": "«Rick Baker es un hombre que provocó una revolución copernicana en el cine. Abrió un nuevo camino para la imaginación de toda una generación y mostró lo que realmente significa ser testigo de una transformación física en la pantalla grande.» Son palabras del director artístico de Locarno, Giona A. Nazzaro, al anunciar el premio."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle cómo ve el auge de la IA, Baker recordó la época en que surgieron las computadoras y el CGI. «La gente nos decía que de pronto nos convertiríamos en dinosaurios. Pero lo que se hacía con computadoras en ese entonces era bastante malo. Mi trabajo claramente se veía mejor que los gráficos por computadora de los años 90, y hoy en día sigue viéndose bien.»"
+        },
+        {
+          "t": "p",
+          "x": "Aun así, creía que lo viejo y lo nuevo podían convivir. «Era solo un juguete nuevo, y esperaba que la gente dejara atrás esa fiebre y que las dos técnicas lograran una buena combinación. Con el CGI se logra, sin duda, lo que una persona no puede hacer. Eso era lo que me entusiasmaba.»"
+        },
+        {
+          "t": "p",
+          "x": "Añadió que siempre intentó mantenerse al día con la nueva tecnología. «Uno de mis primeros ídolos, Jack Pierce, creó a Frankenstein, al Hombre Lobo y a la Momia, y fue despedido de Universal en los años 40 porque no pudo seguir el ritmo de las técnicas modernas. Mientras otros estudios usaban apliques de espuma, él seguía construyendo formas en la cara de los actores con spirit gum y algodón. Grabé eso en mi mente y me dije: “eso no me va a pasar a mí”.»"
+        },
+        {
+          "t": "p",
+          "x": "Sobre el CGI en sí, opinó esto. «El trabajo que se hace hoy con CGI es asombroso. Lo que no me gusta es cuando se usa CGI para algo que en realidad se podría hacer, y más barato, de forma práctica. Cuando un actor se mira al espejo y el rostro que le devuelve la mirada ya no es el suyo, ahí está la verdadera magia.»"
+        },
+        {
+          "t": "p",
+          "x": "Su experiencia trabajando con Eddie Murphy en “Coming to America” respalda esa idea. «Tuvimos que convertir a Murphy en Saul, un hombre judío blanco y mayor. Siempre pruebo el maquillaje antes de rodar. Hubo unas 14 piezas. Lo que conquistó a Eddie de inmediato fue que, aunque las piezas de la mejilla pintadas en tono de piel blanca se veían muy raras, se miró al espejo y empezó a mover la cara, a jugar con ella. Eso me dijo que no era de los actores que, al pegarles algo, dicen “no puedo moverme”.»"
+        },
+        {
+          "t": "p",
+          "x": "Murphy se miró al espejo y dijo: «Rick, esto es mucho mejor de lo que imaginaba. De verdad parece ese hombre. El personaje de judío mayor que hago es un estereotipo total.» Murphy quiso improvisar escenas mientras llevaba el maquillaje de prueba puesto. «Desde entonces, así fue como trabajamos. Cada vez que hacíamos el maquillaje, lo sentaba en la silla, él jugaba, yo filmaba, y él descubría al personaje. Es muy distinto a entrar a una sala de pantalla verde con puntos pintados en la cara.»"
+        },
+        {
+          "t": "p",
+          "x": "Baker también dijo que el trabajo “below the line” de Hollywood todavía no recibe el reconocimiento que merece. «Un pasatiempo se convirtió en una carrera, y me permitió hacer cosas que no habría podido hacer solo. A veces me quejo de la industria del cine, pero la industria ha sido buena conmigo. Por desgracia, las personas que hacen este trabajo porque aman el oficio son precisamente las que se llaman below the line. Las personas above the line solo se preocupan por cuánto dinero pueden ganar.»"
+        },
+        {
+          "t": "p",
+          "x": "Las palabras finales de Baker fueron estas: «Los que de verdad se preocupan son las personas below the line, y son ellas quienes realmente hacen la película.»"
+        }
+      ]
+    },
+    "movies/movies-strada-2-virtual-drive": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Strada-2.0-900x506.jpeg",
+          "cap": "Image credit: Strada"
+        },
+        {
+          "t": "p",
+          "x": "Strada 2.0 monta el almacenamiento de un colaborador como unidad virtual dentro del Finder de macOS o el Explorador de Windows. El editor remoto corta usando medios que nunca salieron del disco de ingesta."
+        },
+        {
+          "t": "p",
+          "x": "Strada es una empresa fundada en 2023 por los hermanos Michael Cioni (antes en Frame.io y Adobe) y Peter Cioni (antes en Netflix). Partió como una herramienta de búsqueda de medios con IA, pero la retroalimentación de los clientes cambió el rumbo. El cuello de botella no era buscar el material, sino poder llegar a todo él."
+        },
+        {
+          "t": "p",
+          "x": "Cuando un colaborador invita una carpeta o una unidad entera, esa carpeta aparece en el Finder como un volumen local. Se puede explorar, previsualizar y arrastrar directamente a Premiere Pro, DaVinci Resolve, Photoshop o Pro Tools. No hay subida ni descarga, y no se interpone un tercer depósito entre los dos equipos."
+        },
+        {
+          "t": "video",
+          "yt": "QXUQnrL5_dg"
+        },
+        {
+          "t": "p",
+          "x": "Lo que sostiene todo esto es Strada Agents, la capa P2P presentada en el NAB de 2025. El agente corre en el equipo que tiene el material y expone el almacenamiento conectado a los usuarios autorizados. Funciona con unidades internas, DAS, RAID y NAS, además de tarjetas de cámara, sin necesidad de hardware dedicado. Al abrir un clip solo se transfieren los bytes necesarios para la reproducción y el desplazamiento, y se va acumulando una caché local mientras continúa la sesión."
+        },
+        {
+          "t": "p",
+          "x": "Un proyecto real es mejor referencia que una demo de estand. Ryan Connolly, de Film Riot, editó “Work in Progress”, un cortometraje hecho con Fujifilm, usando Strada Connect. La fuente ocupaba unos 7TB, y el equipo trabajó a unas 1.500 millas de distancia en Premiere Pro sobre conexiones de internet domésticas. Connolly dice que se reprodujo como material local y no notó la diferencia."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Strada-2.0-3-900x506.jpeg",
+          "cap": "Credit: Strada"
+        },
+        {
+          "t": "p",
+          "x": "La 2.0 agrupa las funciones en cuatro. Connect se encarga de la unidad virtual y la edición remota; Transfer se encarga de las transferencias directas entre equipos, con límites de ancho de banda e informes de suma de verificación incluidos. Upload Links cierra el sentido contrario: se crea un enlace de carpeta y se envía, y quien lo recibe sube archivos directamente sin necesidad de cuenta. Los permisos vienen en cinco roles a nivel de carpeta."
+        },
+        {
+          "t": "p",
+          "x": "El argumento central del documento de seguridad es que el material nunca se almacena ni se cachea en la nube de Strada, en ningún momento. Los servidores solo gestionan la autenticación y la intermediación de la conexión, y los archivos permanecen en el hardware del cliente. Las conexiones entre pares se autentican con claves Ed25519 generadas localmente en el dispositivo. Si un agente está fuera de línea, no se puede establecer una sesión remota, y al desconectar la unidad el material queda aislado al instante. SOC 2 Type II e ISO 27001 todavía están en proceso."
+        },
+        {
+          "t": "p",
+          "x": "La posición de Strada es que vende un protocolo, no almacenamiento, y el precio es por puesto. La tabla comparativa de la empresa asume 5 usuarios y 20TB, y sitúa su propio servicio en 150 dólares al mes o 1.800 dólares al año, frente a alternativas en la nube que facturan el almacenamiento por volumen entre 595 y 1.500 dólares al mes. Como el escenario lo eligió la propia empresa, conviene leerlo solo como una referencia de dirección."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos limitaciones. Una es el ancho de banda: al ser P2P, la velocidad de subida del equipo anfitrión se convierte en el techo para todos los que acceden a ese material. Alimentar a tres editores con una sola conexión doméstica asimétrica no es lo mismo que servir un solo proxy. La otra es el tiempo de actividad: el equipo de origen debe permanecer encendido y con la sesión iniciada, así que la estación de trabajo del editor se convierte silenciosamente en infraestructura. El soporte para Linux solo existe en la hoja de ruta."
+        },
+        {
+          "t": "p",
+          "x": "El nivel gratuito cubre conexiones ilimitadas de dispositivos y almacenamiento, además de la revisión de archivos. Basic añade edición remota y transferencias ilimitadas por 8 dólares al mes, y Pro cuesta 24 dólares al mes."
+        }
+      ]
     }
   }
 }

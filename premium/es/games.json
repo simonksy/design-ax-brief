@@ -2289,6 +2289,225 @@
           "x": "El CEO de Larian, Swen Vincke, ha dicho antes que el estudio usó herramientas de IA generativa para explorar ideas de juegos nuevos, arte conceptual y texto de relleno. Casi de inmediato siguieron una retractación y una aclaración. Otros han marcado la línea contraria. Mega Crit, el estudio de Slay the Spire 2, dijo que prefiere elegir un dibujo \"más desordenado\" en lugar de uno que saque una máquina al concebir un juego."
         }
       ]
+    },
+    "games/games-bic-kimyongha": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Kim Yong-ha, jefe de la División IO en NEXON Games, subió al escenario para la primera sesión del primer día de BIC2026, el discurso de apertura. La charla se tituló «¿Cómo se convierte un juego en un “mundo”?». Los organizadores le pidieron una charla que conectara subcultura, IP y juegos indie, y tras darle vueltas a esos tres conceptos llegó a la palabra «mundo». La propia charla se desarrolló en tres partes, siguiendo esas tres palabras."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/915/G091533/20260819011/SS/001.jpg",
+          "cap": "La programación de BIC de este año, con la charla de Kim Yong-ha como primera sesión del primer día"
+        },
+        {
+          "t": "p",
+          "x": "La primera parte repasó hasta dónde ha llegado el mercado de la subcultura. Blue Archive ya reúne a unas 4.000 personas en sus eventos de running presenciales, y las publicaciones relacionadas en Pixiv han superado las 270.000. Las ventas de AK PLAZA en Hongdae han crecido hasta ser unas tres veces las de 2021. «Puede que antes la subcultura fuera un terreno pequeño», dijo. «Pero hoy creo que el mercado de la subcultura en su conjunto podría ser mayor que el de un solo juego importante»."
+        },
+        {
+          "t": "p",
+          "x": "La segunda parte fue sobre IP. Más allá del logo, el escenario, los personajes o la historia, sostuvo que en los videojuegos es frecuente que «la propia jugabilidad» constituya la IP. Los tres ejes que quedan en la memoria son la acción repetida, el símbolo memorable y la relación. Pokémon tiene capturar y combatir, la Poké Ball, entrenadores y Pokémon; PUBG tiene aterrizar y sobrevivir, cascos, escuadras. Blue Archive partió de «academia», «juventud» y «militar», puso al jugador en el papel de «profesor» y llevó la tableta, su medio de interacción, a toda la interfaz."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/915/G091533/20260819011/SS/003.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La tercera parte fue sobre IA. Al organizar una game jam interna, solo su división produjo 48 juegos jugables en dos días. La mayor parte se hizo dentro del horario laboral, así que el tiempo real de desarrollo fue de unas 10 horas por juego. El año pasado se publicaron en Steam unos 20.000 juegos, y de ellos, cerca de la mitad, unos 10.000, tienen menos de 10 reseñas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/915/G091533/20260819011/SS/002.jpg",
+          "cap": "La cifra que todo el mundo en la industria repite últimamente: «el año pasado se publicaron en Steam unos 20.000 juegos»"
+        },
+        {
+          "t": "p",
+          "x": "Kim Yong-ha resumió las dos fortalezas de la IA: la capacidad de encontrar la respuesta correcta y la de reproducir un patrón concreto cuando hay suficientes datos de entrenamiento. En cambio, preguntas como «¿mul-naengmyeon o bibim-naengmyeon?» o «¿tipo hermana mayor o tipo hermana menor?» no tienen una respuesta correcta de partida. Una IA sin una identidad propia ni gustos no puede responder a esto."
+        },
+        {
+          "t": "p",
+          "x": "Por eso el gusto es terreno de las personas, y también lo es el proceso de elevar ese gusto a un buen ojo estético. Puso como ejemplo su propia experiencia: le gustaban tanto los personajes con gafas que llenó el reparto entero de personajes con gafas, y recibió críticas duras. Si le preguntas a una IA por qué a la gente no le gustan las gafas, te dará una respuesta plausible. Pero solo uno mismo puede ahondar en «por qué a mí, que me gustan las gafas, me gustan las gafas»."
+        },
+        {
+          "t": "img",
+          "src": "https://www.4gamer.net/games/915/G091533/20260819011/SS/006.jpg",
+          "cap": "La frase que Kim Yong-ha repitió todo el tiempo fue «crea tu propio gusto»"
+        },
+        {
+          "t": "p",
+          "x": "Hacer, comparar, explicar por qué y volver a elegir. Esa repetición es lo que forma el buen ojo estético. «La IA puede explicar las cosas», dijo. «Pero la IA es un ser que “apendió a cocinar solo con texto”, así que no puede sentir el sabor real». Con lo indie pasa lo mismo: el creador de un juego indie que fue un éxito reciente ya había hecho otros 43 antes."
+        }
+      ]
+    },
+    "games/games-meta-pocket": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pocket, la app experimental de juegos con vibe coding de Meta, se expande por todo EE. UU. Es la misma app que se lanzó discretamente el mes pasado en Brasil, su mercado de prueba. Si creas un juego pequeño e interactivo con un prompt de IA, aparece en un feed desplazable."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?w=1024",
+          "cap": "Crédito de imagen: Meta, imagen modificada con IA"
+        },
+        {
+          "t": "p",
+          "x": "Detrás está una adquisición de principios de este año, cuando Meta se llevó a todo el equipo de la plataforma de juegos con vibe coding Gizmo. Estas experiencias interactivas, que Meta llama «Gizmos», reaccionan al tacto y a la inclinación del teléfono, reproducen efectos de sonido e incluyen clips de canciones favoritas."
+        },
+        {
+          "t": "p",
+          "x": "También pueden usar fotos del carrete de la cámara o acceder a la cámara. Una vez terminado el juego, al publicarlo en el perfil otras personas pueden guardarlo, remezclarlo en algo distinto o volver a publicarlo tal cual."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/08/pocket.jpg?w=680",
+          "cap": "Pocket. Crédito de imagen: Meta"
+        },
+        {
+          "t": "p",
+          "x": "Es la última pieza de un esfuerzo por llevar las herramientas de creación con IA a la corriente principal. Antes, Meta ya dejaba crear imágenes con IA en la app Meta AI y videos con IA en su app experimental Vibes. En la presentación de resultados de julio, Mark Zuckerberg atribuyó el mayor ritmo de lanzamientos a desarrollar software con IA. «A principios de este año lanzamos Instagram Instants. También acabamos de lanzar Forum, una app solo de grupos, y Seller, una app de marketplace. Creo que lanzar nuevas apps se va a volver mucho más fácil»."
+        },
+        {
+          "t": "p",
+          "x": "Además de Instants, Forum y Seller, Meta también sacó un experimento de cuentos para dormir generados por IA, y esta semana lanzó la app Meta AI para Mac. Con el lanzamiento de Pocket, Gizmo, la app original adquirida de Atma Sciences, cierra."
+        }
+      ]
+    },
+    "games/games-sony-grind-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2024/09/9cf21c9511f2370f1f68183d8979a9f1.jpg",
+          "cap": "© Sony"
+        },
+        {
+          "t": "p",
+          "x": "Ha aparecido en línea una nueva solicitud de patente de Sony para videojuegos con IA. Describe una tecnología en la que un agente entrenado con datos del jugador juega en lugar de la persona. Si un bot autorizado puede hacer el grind por ti, ¿hay alguna razón para subir experiencia tú mismo? Hay una parte aún más inquietante. La patente incluso describe la posibilidad de que los jugadores se compren y vendan entre sí sus propios datos de entrenamiento por dinero real."
+        },
+        {
+          "t": "p",
+          "x": "La patente de Sony número 19138338, encontrada por Cheat Happens, se presentó en 2022 y no se hizo pública hasta el 23 de julio del mes pasado. Trata sobre «tecnología para crear un agente que juega en nombre del usuario». Algunos recordarán una patente similar de Sony publicada en enero pasado, la que describía un «fantasma» controlado por IA que termina el juego por ti; pero esta va mucho más lejos, hacia el terreno de Black Mirror."
+        },
+        {
+          "t": "p",
+          "x": "Si la patente anterior entrenaba la IA con grabaciones de partidas, la IA de la patente 19138338 aprende los hábitos reales de juego del usuario. La figura 11 de la patente muestra que se puede indicar a esta IA que realice tareas como «acumular dinero», «avanzar en la historia» o «peleas con jefes» sin ninguna entrada del usuario."
+        },
+        {
+          "t": "p",
+          "x": "La parte realmente extraña viene después. La patente establece que, cuando se usan los datos de otro usuario para crear el agente del Usuario A, el sistema de juego 1 puede cobrarle a ese Usuario A por ese uso. Por ejemplo, si el Usuario A crea un agente con los datos de un jugador famoso, el sistema podría permitirle comprar esos datos."
+        },
+        {
+          "t": "p",
+          "x": "Si compras los datos de IA de un jugador profesional y ves cómo esa IA termina el juego entero, ¿en qué se diferencia eso de ver un video de partidas en YouTube? Comprar un juego, y luego comprar la versión de IA de un «jugador famoso» para que lo termine por ti: eso no es un videojuego, es solo un video."
+        },
+        {
+          "t": "p",
+          "x": "Las compañías de videojuegos patentan todo tipo de tecnologías y principios de diseño de forma constante; eso no significa que tengan intención de construirlos de verdad. Aun así, incluso si Sony nunca hace oficial un agente jugador de IA, no hay garantía de que otra compañía no intente algo parecido y empiece a venderlo."
+        }
+      ]
+    },
+    "games/games-uefn-mcp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "acGWIJ1hIlM"
+        },
+        {
+          "t": "p",
+          "x": "Unreal MCP ya funciona en UEFN, el editor Unreal para Fortnite. En el video, el evangelista de UEFN Magnus Enebakk repasa paso a paso el Model Context Protocol (MCP) de UEFN."
+        },
+        {
+          "t": "p",
+          "x": "Lo que se muestra es cómo herramientas de código con agentes, como Claude Code o Cursor, trabajan junto al editor. Llega hasta escribir y compilar Verse, colocar dispositivos y configurarlos, y ejecutar una sesión de juego para comprobar los resultados."
+        },
+        {
+          "t": "p",
+          "x": "Según la documentación de Epic enlazada en el video, UEFN MCP funciona levantando un servidor MCP dentro del editor y conectándose por HTTP local. Deja abiertas herramientas para leer, editar y compilar el código fuente de Verse, manipular entidades y componentes del grafo de escena, colocar dispositivos creativos y configurar sus propiedades, y empezar, detener y comprobar el estado de las sesiones de juego. La dirección predeterminada es http://127.0.0.1:8000/mcp."
+        },
+        {
+          "t": "p",
+          "x": "Para usarlo, activa Python Editor Scripting y UEFN MCP Toolsets en la configuración del proyecto, coloca un .mcp.json en la raíz del proyecto y ejecuta tu agente desde esa carpeta. Los clientes que aparecen en la documentación son Claude Code, Cursor y MCP Inspector."
+        }
+      ]
+    },
+    "games/games-unity-cli": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "htV8urYBcSo"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo paquete Unity CLI convierte el editor en un servidor local. En cuanto el editor expone una API, una terminal, un agente o una interfaz propia pueden enviarle comandos para ejecutarlos."
+        },
+        {
+          "t": "p",
+          "x": "La CLI en sí es un ejecutable independiente que se instala por separado. En la página de documentación de Unity CLI, copia el comando de instalación para tu sistema, pégalo en una terminal y ejecútalo. Luego añade el paquete Pipeline al proyecto. Ese es el paquete que corre dentro del editor y lo conecta con la CLI."
+        },
+        {
+          "t": "p",
+          "x": "Una vez instalado el paquete, la CLI se conecta al editor en marcha y obtiene la lista de comandos del proyecto. El modo Play, la comprobación de estado, la recompilación y la ejecución de pruebas están en esa lista, y funciona con cualquier agente sin configuración adicional."
+        },
+        {
+          "t": "p",
+          "x": "También existe eval. Ejecuta C# directamente dentro de una instancia viva de Unity, es decir, el editor o un build en marcha, para resolver tareas puntuales. Así cierra el video: hasta ahora el editor de Unity era la única puerta de entrada, pero ahora está abierto a la herramienta que convenga en cada momento."
+        }
+      ]
+    },
+    "games/games-vapor-world-ai-cutscenes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zrYzoAoNwNZYgUdGyPg4zZ.jpg",
+          "cap": "Crédito de imagen: ALIVE Inc."
+        },
+        {
+          "t": "p",
+          "x": "Vapor World: Over the Mind es una nueva plataforma souls-like con un mundo distorsionado y combate al estilo Sekiro. Pero toda la atención se centra en sus escenas de IA de mala calidad, y entre quienes hablan de ello está el propio director."
+        },
+        {
+          "t": "p",
+          "x": "Generó expectativas al superar las 100.000 listas de deseos de Steam. Lo que esperaban los fans del género souls-like era, en la práctica, un Lies of P en 2D. Se lanzó en acceso anticipado el martes 18 de agosto, y las reseñas de usuarios se sitúan en 25% positivas. Muchas reseñas mencionan la IA generativa divulgada en la página de Steam. El desarrollador ALIVE Inc explicó que usó IA para voces y escenas, pero no para generación “en tiempo real” durante el juego."
+        },
+        {
+          "t": "p",
+          "x": "El aviso dice: «Todo el contenido que involucra IA fue producido y revisado por el equipo durante el desarrollo, y se publica en una forma fija y prerrenderizada.»"
+        },
+        {
+          "t": "p",
+          "x": "Esa revisión dejó cosas sin corregir aquí y allá. Un reseñador de Steam escribió: «Este juego es tan descaradamente IA que arruina la experiencia por completo. Voces de IA, escenas de IA, ni siquiera un intento de ocultarlo.»"
+        },
+        {
+          "t": "p",
+          "x": "En una nueva publicación en Steam, el director Young Kim reconoció haber dependido mucho de la IA y dijo que calculó mal el tamaño del rechazo. «Si alguien me pregunta qué pienso del uso de IA, sinceramente necesitaría pensarlo mucho antes de responder. Elegí la IA porque creía que podía alcanzar una expresión fuera del alcance de nuestros recursos actuales, y pensé que eso nos permitiría concentrarnos más en el juego en sí, más allá de la historia y las cinemáticas.»"
+        },
+        {
+          "t": "video",
+          "yt": "AxLikQwnHWw"
+        },
+        {
+          "t": "p",
+          "x": "Varios desarrolladores ya han rebatido la idea de que los equipos pequeños necesitan IA generativa para alcanzar cierta escala o pulido. Los juegos se han hecho bien sin ella durante todo este tiempo. Decenas de desarrolladores independientes que hablaron con GamesRadar+ también dijeron que evitan la IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "«Fue una decisión apresurada», continuó Kim. «Hasta que la IA avance un paso más, hasta un punto en que nadie note la diferencia, lo que yo creía estaba más cerca de un ideal que de la realidad. Esperaba que algunas personas se sintieran decepcionadas por nuestro uso de IA. No esperaba que creciera tanto.»"
+        },
+        {
+          "t": "p",
+          "x": "No está claro si un resultado de IA más convincente resolvería el problema, pero de todos modos ese no es el plan de Vapor World. «A partir de ahora no usaremos escenas hechas con IA. En ninguna escena», prometió Kim. «Segundo, retiraremos por completo todas las escenas de IA y las sustituiremos enteramente por originales hechos con nuestras propias manos.»"
+        },
+        {
+          "t": "p",
+          "x": "Según Kim, Vapor World usaba originalmente «escenas hechas enteramente con nuestras propias manos». Pero «los resultados eran desastrosos cada vez», dijo. Al concluir que el equipo no podía lograrlo por sí mismo, «recurrieron a la IA». «Si esa decisión perjudicó su experiencia, la culpa no es de la herramienta. Es de nuestras propias carencias.»"
+        },
+        {
+          "t": "p",
+          "x": "Siguió una confesión sorprendente. Kim dijo que «cada escena de este juego se hizo originalmente por completo como escenas dentro del propio juego», y que el equipo «solo recientemente empezó a sustituirlas por escenas de IA». «Lo que están viendo ahora está en medio de esa sustitución. Así que si parece que no se le puso esfuerzo, es razonable leerlo así a partir de lo que aparece en pantalla. Mirando atrás, esa sustitución fue una decisión equivocada. Al mismo tiempo, por eso mismo se puede corregir rápido: la versión dentro del juego ya existe.» El cierre de Kim: la sustitución empieza de inmediato y estará terminada antes del fin de semana."
+        }
+      ]
     }
   }
 }

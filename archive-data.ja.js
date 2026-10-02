@@ -19959,10 +19959,9 @@
   "date": "2026-08-21",
   "section": "science",
   "has_full": true,
-  "headline": "AI가 처음부터 설계한\n바이러스, 실제로 작동했다",
-  "body": "합성한 게놈 설계 285개 가운데 16개가 대장균을 감염시키는 파지로 작동했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIが最初から設計した\nウイルスが実際に機能した",
+  "body": "合成した285個のゲノム設計のうち16個が大腸菌感染ファージとして機能した。",
+  "lang": "ja"
  },
  {
   "id": "science-agent-scale",
@@ -19975,10 +19974,9 @@
   "date": "2026-08-21",
   "section": "science",
   "has_full": true,
-  "headline": "같은 모델도 수가 늘면\n다른 결론에 도달한다",
-  "body": "Llama 집단은 여섯을 넘자 개별 선호를 뒤집었다. 단일 평가로는 안 보이는 지점이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "同じモデルでも数が増えると\n違う結論に至る",
+  "body": "Llama集団は6を超えると個の好みを逆転させた。単体評価では見えない点だ。",
+  "lang": "ja"
  },
  {
   "id": "music-vibe-coded-plugins",
@@ -19991,10 +19989,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "플러그인을 직접 만드는 일은\n이제 취향 싸움이 됐다",
-  "body": "AI 코딩이 DSP 장벽을 낮췄다. 이제 무엇을 시킬지 아는 감각이 결과를 가른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "プラグイン作りは\n好みの勝負になった",
+  "body": "AIコーディングがDSPの壁を下げ、何を指示するかの感覚が結果を左右する。",
+  "lang": "ja"
  },
  {
   "id": "music-vaemi-synterra",
@@ -20007,10 +20004,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "식물과 빛, 손끝이\n내 곡의 조성 안에서 연주한다",
-  "body": "프롬프트가 아니라 식물과 빛, 접촉을 음으로 바꾼다. 스케일 모드가 그 음을 내 조성에 묶는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "植物と光、指先が\n曲の調の中で奏でる",
+  "body": "プロンプトではなく植物や光、接触を音に変え、スケールモードがその音を調に縛る。",
+  "lang": "ja"
  },
  {
   "id": "music-tamber-2",
@@ -20023,10 +20019,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "완성곡을 뱉어주는 대신\n내 DAW를 직접 움직인다",
-  "body": "Tamber 2.0은 앱 다섯 개로 쪼개졌다. 말로 DAW를 몰고, 이제 윈도우에서도 돌아간다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "完成曲を吐き出す代わりに\n自分のDAWを直接動かす",
+  "body": "Tamber2.0は5つのアプリに分かれ、声でDAWを操作し、Windowsにも対応する。",
+  "lang": "ja"
  },
  {
   "id": "music-ssg-loudness-pro",
@@ -20039,10 +20034,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "클립과 리밋의 경계를\n초당 수천 번 다시 잡는다",
-  "body": "고정 임계값을 버리고 클립과 리밋 비율을 계속 고쳐 잡는다. 지연은 약 5ms.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "クリップと\nリミットを毎秒千回調整",
+  "body": "固定閾値を捨て、クリップとリミットの比率を常時調整し直す。遅延は約5ms。",
+  "lang": "ja"
  },
  {
   "id": "music-apple-made-with-ai-tag",
@@ -20055,10 +20049,9 @@
   "date": "2026-08-21",
   "section": "music",
   "has_full": true,
-  "headline": "애플 뮤직의 'AI로 제작' 표시,\n탐지가 아니라 자진 신고다",
-  "body": "라벨은 올해 안에 붙는다. 애플은 직접 탐지하지 않으니 레이블과 유통사가 알아서 달아야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI制作表示は\n検知でなく自己申告",
+  "body": "ラベルは年内に付き、アップルは検知せずレーベルと流通社が自分で付ける。",
+  "lang": "ja"
  },
  {
   "id": "movies-metabull-inkrise",
@@ -20071,9 +20064,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "MetaBull, Inkrise 인수\n결정론적 렌더링 쪽에 선다",
-  "body": "MetaBull이 Inkrise를 품으며 결정론적 AIR 렌더링 엔진까지 손에 넣었다.",
-  "lang": "ko",
+  "headline": "MetaBull acquires Inkrise\nbacks deterministic rendering",
+  "body": "By absorbing Inkrise, MetaBull also gained a deterministic AIR rendering engine.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -20087,10 +20080,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "제임스 그레이, AI 몰이는 실패하고\n필름은 바이닐처럼 돌아온다",
-  "body": "'페이퍼 타이거'를 필름으로 찍은 그는 AI 몰이가 실패하고 필름이 돌아온다고 본다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ジェームズ・グレイ\nAI失敗、フィルム復権",
+  "body": "『ペーパー・タイガー』を撮った彼は、AI主導は失敗しフィルムが戻ると見る。",
+  "lang": "ja"
  },
  {
   "id": "movies-firefly-audio",
@@ -20103,10 +20095,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "Firefly의 음악·음성·효과음 생성이\n베타를 벗고 정식 버전이 됐다",
-  "body": "어도비가 Firefly의 음악·음성·효과음 생성을 모두 정식 기능으로 돌렸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Fireflyの音楽\n音声・効果音が正式化",
+  "body": "アドビがFireflyの音楽・音声・効果音生成をすべて正式機能にした。",
+  "lang": "ja"
  },
  {
   "id": "movies-eddie-ai",
@@ -20119,10 +20110,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "Eddie AI, 로컬에서 돌아가는\n9B 편집 전용 모델을 학습했다",
-  "body": "9B 편집 전용 모델이 Kimi K3를 상대로 47% 승률을 냈다. 워크스테이션 한 대면 돈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Eddie AIが9B\n編集専用モデル学習",
+  "body": "9B編集専用モデルがKimi K3に47%の勝率を収め、ワークステーション1台で動く。",
+  "lang": "ja"
  },
  {
   "id": "movies-comfyui-mcp",
@@ -20135,10 +20125,9 @@
   "date": "2026-08-21",
   "section": "movies",
   "has_full": true,
-  "headline": "ComfyUI에 공식 MCP 서버\n노드 그래프를 에이전트가 짠다",
-  "body": "공식 MCP 서버가 붙었다. 노드 배선은 에이전트가 맡고 연출은 사람 몫으로 남는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ComfyUIに公式\nMCPでノード自動配線",
+  "body": "公式MCPサーバーが導入され、ノード配線はエージェントが担い、演出は人の仕事として残る。",
+  "lang": "ja"
  },
  {
   "id": "games-unity-cli",
@@ -20151,10 +20140,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "터미널 한 줄로 설치하는\nUnity CLI가 에디터를 연다",
-  "body": "CLI 하나가 실행 중인 에디터의 Play 모드와 테스트, C# 실행까지 다룬다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "端末1行で導入\nUnity CLIが扉開く",
+  "body": "CLI一つで起動中のエディタのPlayモードとテスト、C#実行まで扱える。",
+  "lang": "ja"
  },
  {
   "id": "games-uefn-mcp",
@@ -20167,10 +20155,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "UEFN에 Unreal MCP,\n에디터 안에서 섬을 짓는다",
-  "body": "UEFN 에디터에 MCP가 들어왔다. 에이전트 코딩 툴이 섬 제작을 직접 맡는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "UEFNにMCP\nエディタで島を建設",
+  "body": "UEFNエディタにMCPが入り、エージェント型コーディングツールが島作りを担う。",
+  "lang": "ja"
  },
  {
   "id": "games-sony-grind-patent",
@@ -20183,10 +20170,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "소니 특허 속 AI가\n대신 반복 구간을 돈다",
-  "body": "소니 특허 속 AI는 내 플레이를 배워 대신 파밍한다. 그 데이터를 사고파는 구조까지 적혀 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ソニー特許の\nAIが代わりに狩る",
+  "body": "ソニー特許のAIは自分のプレイを学び代わりに狩り、そのデータ売買の仕組みまで記されている。",
+  "lang": "ja"
  },
  {
   "id": "games-meta-pocket",
@@ -20199,10 +20185,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "메타가 미국에 푸는 Pocket\n프롬프트로 만든 게임이 피드로 흐른다",
-  "body": "프롬프트로 만든 작은 게임이 피드로 흐른다. Pocket이 미국 전역에 열린다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "米で配信Pocket\nAI生成ゲームが流れる",
+  "body": "プロンプトで作った小さなゲームがフィードに流れ、Pocketが米国全土で開放される。",
+  "lang": "ja"
  },
  {
   "id": "games-bic-kimyongha",
@@ -20215,10 +20200,9 @@
   "date": "2026-08-21",
   "section": "games",
   "has_full": true,
-  "headline": "AI 시대에 사람에게만 남는 건\n무엇이 어울리는지 아는 눈",
-  "body": "김용하는 BIC2026 기조강연에서 취향을 심미안으로 키우는 일이 사람 몫이라 말했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI時代に残る\n何が合うか見る目",
+  "body": "キム・ヨンハはBIC2026基調講演で、趣味を美意識に育てるのは人の役目だと語った。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-xreal-aura",
@@ -20276,10 +20260,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "애플 홈패드, 대화창 대신\n워치 페이스를 골랐다",
-  "body": "애플 홈패드가 애플 워치식 페이스를 가져온다. 상시 켜진 화면을 대화창이 아니라 방마다 다른 사물처럼 다루겠다는 선택이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "HomePad、対話でなく\nウォッチ文字盤採用",
+  "body": "Apple HomePadはWatch式の文字盤を採用、画面を部屋ごとの物として扱う。",
+  "lang": "ja"
  },
  {
   "id": "gadgets-hilight",
@@ -20292,10 +20275,9 @@
   "date": "2026-08-21",
   "section": "gadgets",
   "has_full": true,
-  "headline": "제조사가 묶어둔 픽셀 11 기능을\n외부 개발자가 다시 열었다",
-  "body": "한 개발자가 픽셀 11 프로의 HiLight LED를 통째로 다루는 앱을 만들어, 묶여 있던 기능을 창작 도구로 바꿨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "メーカーが封印した\nPixel 11機能解放",
+  "body": "開発者がHiLight LEDを丸ごと操るアプリで、封印機能を創作ツールに変えた。",
+  "lang": "ja"
  },
  {
   "id": "design-invisible-ai-features",
@@ -20308,10 +20290,9 @@
   "date": "2026-08-21",
   "section": "design",
   "has_full": true,
-  "headline": "AI 기능은 단계를 늘리지 않고\n기존 흐름 안에서 사라져야 한다",
-  "body": "사용자가 싫어하는 일을 배경에서 처리하고 필요할 때만 나타났다 사라지는 쪽이 살아남는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI機能は手順増やさず\n既存の流れで消える",
+  "body": "ユーザーが嫌う作業を裏で処理し、必要なときだけ現れて消えるものが生き残る。",
+  "lang": "ja"
  },
  {
   "id": "design-figma-sightlines-agentic",
@@ -20324,10 +20305,9 @@
   "date": "2026-08-21",
   "section": "design",
   "has_full": true,
-  "headline": "에이전트 제품 설계의 출발점은\n권한을 눈에 보이게 만드는 일",
-  "body": "권한과 보안 범위가 화면에서 읽혀야 에이전트도 신뢰를 얻는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "エージェント製品の\n出発点は権限可視化",
+  "body": "権限とセキュリティ範囲が画面で読み取れてこそ、エージェントも信頼を得る。",
+  "lang": "ja"
  },
  {
   "id": "design-docs-automation-line",
@@ -20340,10 +20320,9 @@
   "date": "2026-08-21",
   "section": "design",
   "has_full": true,
-  "headline": "생성해도 되는 문서와\n사람이 써야 하는 문서",
-  "body": "코드와 토큰에서 뽑아낼 문서는 기계에 맡기고, 의도와 사용 판단은 사람이 쓴다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "生成してよい文書\n人が書く文書",
+  "body": "コードやトークンから抽出できる文書は機械に任せ、意図や使用判断は人が書く。",
+  "lang": "ja"
  },
  {
   "id": "design-dev-tool-power-rankings",
@@ -20372,10 +20351,9 @@
   "date": "2026-08-21",
   "section": "design",
   "has_full": true,
-  "headline": "비개발자 대표가 아우라로\n5~6주치 작업을 2주에 끝냈다",
-  "body": "아이언메이스 대표가 5~6주로 잡혀 있던 튜토리얼 작업을 아우라와 함께 2주 만에 마쳤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "非開発者代表\nAuraで5~6週を2週に",
+  "body": "アイアンメイス代表が、5~6週予定のチュートリアル作業をAuraと2週間で終えた。",
+  "lang": "ja"
  },
  {
   "id": "books-textbook-suit",
@@ -20388,10 +20366,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "교과서 저자들이 OpenAI를\n상대로 집단소송을 냈다",
-  "body": "미국 교과서 저자들이 OpenAI가 교과서 수천 권을 학습에 썼다며 소송을 냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "教科書著者ら\nOpenAIを集団提訴",
+  "body": "米教科書著者らが、OpenAIが教科書数千冊を学習に使ったとして提訴した。",
+  "lang": "ja"
  },
  {
   "id": "books-religion-ai-slop",
@@ -20404,10 +20381,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "아마존 종교서 2,034권 중\n63%가 AI가 쓴 책이었다",
-  "body": "아마존 종교 서적 2,034권을 훑었더니 63%가 AI로 쓴 것으로 나왔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "アマゾン宗教書\n2034冊の63%がAI作",
+  "body": "アマゾンの宗教書2,034冊を調べると、63%がAIで書かれたものだった。",
+  "lang": "ja"
  },
  {
   "id": "books-reading-buddy",
@@ -20420,10 +20396,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "요약해주는 AI 독서 도우미가\n지우는 건 읽기의 어려움이다",
-  "body": "요약해주는 AI 독서 도우미가 읽기에 꼭 필요한 어려움을 지운다는 비판이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "要約AI読書助手\n消すのは読む苦労",
+  "body": "要約するAI読書助手は、読書に必要な苦労を消し去ってしまうという批判だ。",
+  "lang": "ja"
  },
  {
   "id": "books-file-access-agents",
@@ -20436,10 +20411,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "챗봇에 챕터를 붙여넣지 말고\n원고 폴더째 AI에게 넘겨라",
-  "body": "코덱스 같은 도구가 더 똑똑한 게 아니다. 원고 폴더를 직접 만질 수 있을 뿐이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "チャットに貼らず\n原稿フォルダ渡せ",
+  "body": "コーデックスのようなツールは賢いのではなく、原稿フォルダを直接操作できるだけだ。",
+  "lang": "ja"
  },
  {
   "id": "books-ai-facilitated",
@@ -20452,10 +20426,9 @@
   "date": "2026-08-21",
   "section": "books",
   "has_full": true,
-  "headline": "저자 본인의 글만 학습한 AI로\n만든 책, 표지에 그 사실을 적었다",
-  "body": "해리먼 하우스가 라울 팔이 써온 글만 학습시킨 AI로 책을 만들고 그 사실을 표지에 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "著者の文だけ学習AI\nで本制作、表紙に明記",
+  "body": "ハリマン・ハウスが、ラウル・パルの文章だけを学習したAIで本を作り、その事実を表紙に記した。",
+  "lang": "ja"
  },
  {
   "id": "science-recursive-self-improvement",
@@ -20513,10 +20486,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "AI 의료기기 1,357개 가운데\n환자 결과를 검증한 건 세 개",
-  "body": "FDA가 승인한 AI 의료기기 1,357개 가운데 환자 건강 개선을 검증한 기기는 셋뿐이었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI医療機器\n1357件中3件",
+  "body": "FDA承認のAI医療機器1,357個のうち、患者の健康改善を検証したのは3個だけだった。",
+  "lang": "ja"
  },
  {
   "id": "science-blue-skies-contrails",
@@ -20529,10 +20501,9 @@
   "date": "2026-08-20",
   "section": "science",
   "has_full": true,
-  "headline": "비행운을 피해 항로를 트는 AI\n북대서양 상공에서 시험 비행",
-  "body": "구글과 영국 정부가 북대서양 샨윅 공역에서 AI 예보로 비행운을 피하는 30개월 시험을 시작한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "飛行機雲避け\n北大西洋で試験",
+  "body": "GoogleとUK政府がシャンウィック空域でAI予報による30か月試験を始める。",
+  "lang": "ja"
  },
  {
   "id": "music-umg-hook-licensed-remix",
@@ -20545,10 +20516,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "팬이 만든 리믹스와 매시업에\nUMG가 라이선스를 붙였다",
-  "body": "UMG와 Hook이 손잡아 팬이 만든 리믹스마다 라이선스와 정산이 붙는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "ファン制作に\nUMGがライセンス",
+  "body": "UMGとHookが提携し、ファン制作のリミックスに許諾と分配が付く。",
+  "lang": "ja"
  },
  {
   "id": "music-train-your-own-model",
@@ -20561,10 +20531,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "남의 카탈로그와 싸우는 대신\n내 아카이브로 모델을 만든다",
-  "body": "음악가가 자기 아카이브로 학습시킨 모델은 곡 생성기보다 거울에 가깝다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "他人の作品と\n争わず自分で学習",
+  "body": "自分のアーカイブで学習したモデルは曲生成機より鏡に近い。",
+  "lang": "ja"
  },
  {
   "id": "music-stemdeck-local-splitter",
@@ -20577,10 +20546,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "아이 드럼 연습 때문에 만든\n무료 스템 분리기가 오픈소스로 풀렸다",
-  "body": "Demucs 모델로 곡을 여섯 갈래까지 쪼개고, 업로드 없이 로컬에서 끝난다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "子のドラム練習に\n無料分離機OSS化",
+  "body": "Demucsで曲を最大6つに分け、アップロードなしでローカル処理する。",
+  "lang": "ja"
  },
  {
   "id": "music-lalal-lynx-vocal-rip",
@@ -20593,10 +20561,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "유튜브와 바이닐에서 긁어온\n보컬을 Lynx로 직접 닦아봤다",
-  "body": "잡음 낀 영화 대사와 바이닐 아카펠라를 Lynx로 정리해 실제 트랙에 얹어봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "YouTube·盤から\n声をLynxで磨く",
+  "body": "雑音混じりの映画セリフとバイナルアカペラをLynxで整え、実トラックに乗せてみた。",
+  "lang": "ja"
  },
  {
   "id": "music-i-am-choir-neural-vocal",
@@ -20609,10 +20576,9 @@
   "date": "2026-08-20",
   "section": "music",
   "has_full": true,
-  "headline": "혼자 부른 한 테이크가\n가사 따라 부르는 합창단이 된다",
-  "body": "I AM CHOIR는 입력한 보컬을 녹음된 합창단 음색으로 다시 만들어낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "一人の歌が\n歌詞通りの合唱に",
+  "body": "I AM CHOIRは入力したボーカルを録音済み合唱団の音色で作り直す。",
+  "lang": "ja"
  },
  {
   "id": "movies-wan-3-honest-review",
@@ -20641,10 +20607,9 @@
   "date": "2026-08-20",
   "section": "movies",
   "has_full": true,
-  "headline": "AI로 되살린 발 킬머의 젊은 시절\n7분 분량 푸티지가 처음 공개",
-  "body": "유족 동의를 받은 AI 발 킬머가 신부 핀탄으로 등장하는 7분 클립이 공개됐다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIで若き日の\nヴァル・キルマー",
+  "body": "遺族の同意を得たAI版ヴァル・キルマーが神父フィンタン役で登場する7分の映像が公開された。",
+  "lang": "ja"
  },
  {
   "id": "movies-strada-2-virtual-drive",
@@ -20657,10 +20622,9 @@
   "date": "2026-08-20",
   "section": "movies",
   "has_full": true,
-  "headline": "원격 편집자가 남의 드라이브에서\n바로 자르는 Strada 2.0",
-  "body": "협업자의 저장장치를 가상 드라이브로 붙여 원본을 옮기지 않고 원격 편집을 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "他人のドライブから\n即編集Strada2.0",
+  "body": "共同作業者のストレージを仮想ドライブ化し、原本を移さず遠隔編集する。",
+  "lang": "ja"
  },
  {
   "id": "movies-rick-baker-locarno",
@@ -20673,10 +20637,9 @@
   "date": "2026-08-20",
   "section": "movies",
   "has_full": true,
-  "headline": "특수분장 거장 릭 베이커가 말하는\nAI와 CGI, 손으로 만든 얼굴",
-  "body": "로카르노 비전상을 받은 릭 베이커가 실사로 될 일을 CGI로 하는 관행을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "リック・ベイカーが語る\nAIとCGI、手作りの顔",
+  "body": "ロカルノ・ビジョン賞受賞のリック・ベイカーが、実写で足りることをCGI化する慣行を指摘した。",
+  "lang": "ja"
  },
  {
   "id": "movies-matriarch-verena-puhm",
@@ -20689,10 +20652,9 @@
   "date": "2026-08-20",
   "section": "movies",
   "has_full": true,
-  "headline": "전 루마 AI 임원 베레나 품이\nLA에 제작사 매트리아크 설립",
-  "body": "루마 AI 드림랩을 이끌던 베레나 품이 AI 제작사 매트리아크를 세웠다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "元Luma AI幹部が\nLAにMatriarch設立",
+  "body": "元Luma AI幹部プームがAI制作会社Matriarchを設立した。",
+  "lang": "ja"
  },
  {
   "id": "games-vapor-world-ai-cutscenes",
@@ -20976,10 +20938,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "AI가 책을 추천하는 기준이 바뀌었다\n키워드 대신 리뷰와 인터넷 언급",
-  "body": "AI 추천은 메타데이터 키워드가 아니라 리뷰 수와 웹 언급량을 보고 책을 고른다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI推薦の基準\nキーワードから言及に",
+  "body": "AI推薦はメタデータでなくレビュー数とネット言及で本を選ぶ。",
+  "lang": "ja"
  },
  {
   "id": "books-ai-article-versioning",
@@ -20992,10 +20953,9 @@
   "date": "2026-08-20",
   "section": "books",
   "has_full": true,
-  "headline": "AI는 논문을 정확히 찾아내지만\n어느 판본을 읽었는지는 모른다",
-  "body": "DOI만으로는 AI가 읽은 판본을 알 수 없어 버전과 출처를 함께 실어야 한다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIは論文を\n探せても版不明",
+  "body": "DOIだけではAIが読んだ版が分からず、版と出典を併記すべきだ。",
+  "lang": "ja"
  },
  {
   "id": "science-tissue-clocks",
@@ -21008,9 +20968,9 @@
   "date": "2026-08-19",
   "section": "science",
   "has_full": true,
-  "headline": "장기는 저마다 다른 속도로 늙는다\nAI가 조직 사진에서 그 나이를 읽어냈다",
-  "body": "AI가 조직 사진에서 장기별 생물학적 나이를 평균 오차 4.9년으로 읽어냈다.",
-  "lang": "ko",
+  "headline": "Organs age at different rates;\nAI reads that age in tissue",
+  "body": "AI read the biological age of each organ from tissue photos with an average error of 4.9 years.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21040,10 +21000,9 @@
   "date": "2026-08-19",
   "section": "science",
   "has_full": true,
-  "headline": "말린 표본 800만 장을 기계가 읽었다\n개화 시기는 10년에 2.5일씩 어긋났다",
-  "body": "기계가 표본 800만 장을 읽어 개화 시기가 10년에 2.5일씩 어긋났음을 밝혔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "乾燥標本800万枚\n開花、10年に2.5日ずれ",
+  "body": "AIが標本800万枚を読み、開花が10年で2.5日ずれたと示した。",
+  "lang": "ja"
  },
  {
   "id": "science-dna-memristor",
@@ -21056,10 +21015,9 @@
   "date": "2026-08-19",
   "section": "science",
   "has_full": true,
-  "headline": "DNA를 반도체와 붙여 메모리를 만들었다\n전력은 100분의 1로 떨어졌다",
-  "body": "합성 DNA를 페로브스카이트에 얹은 메모리가 전력을 100분의 1로 줄였다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "DNAと半導体で\nメモリ、電力1/100",
+  "body": "合成DNAをペロブスカイトに載せたメモリが電力を100分の1に減らした。",
+  "lang": "ja"
  },
  {
   "id": "science-attribution-decay",
@@ -21072,10 +21030,9 @@
   "date": "2026-08-19",
   "section": "science",
   "has_full": true,
-  "headline": "AI 그림의 원작자를 찾을 수 없다\n데이터가 커질수록 흔적이 지워진다",
-  "body": "데이터가 커질수록 이미지 한 장을 빼도 결과가 그대로여서 원작자를 짚을 수 없다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI画の原作者\n特定不能に",
+  "body": "データが増えるほど1枚抜いても結果は変わらず原作者を特定できない。",
+  "lang": "ja"
  },
  {
   "id": "music-submithub-40",
@@ -21088,9 +21045,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "지난달 나온 음악의 40% 가까이가\nAI를 거쳤다는 조사가 나왔다",
-  "body": "SubmitHub가 100만 곡을 훑어보니 23.2%는 아예 AI가 만든 곡이었다.",
-  "lang": "ko",
+  "headline": "Nearly 40% of music released\nlast month touched AI: study",
+  "body": "SubmitHub scanned 1 million songs and found 23.2% were made entirely by AI.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -21104,10 +21061,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "합의는 없다며 Round Hill이\nSuno와 Anthropic을 고소했다",
-  "body": "고의 침해 한 곡당 최대 15만 달러, 소송당 총액은 10억 달러에 이를 수 있다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Round Hillが提訴\nSuno・Anthropic",
+  "body": "故意の侵害は1曲最大15万ドル、1訴訟あたり総額は10億ドルに達しうる。",
+  "lang": "ja"
  },
  {
   "id": "music-opentune",
@@ -21120,10 +21076,9 @@
   "date": "2026-08-19",
   "section": "music",
   "has_full": true,
-  "headline": "무료 오픈소스 피치 보정 도구\nOpenTune이 베타로 나왔다",
-  "body": "OpenTune은 신경망 보코더로 포먼트를 지키며 음정만 고치는 오픈소스 도구다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "無料OSSピッチ\n補正OpenTuneβ版",
+  "body": "OpenTuneはニューラルボコーダーでフォルマントを保ちつつ音程だけ直すOSSツールだ。",
+  "lang": "ja"
  },
  {
   "id": "music-happyshrimp",
