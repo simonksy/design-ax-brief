@@ -4826,6 +4826,485 @@
           "x": "The company is also looking beyond its first service. It recently released Anything Piano, a piano-learning app for Apple devices, built on the observation that many Songscription users are \"learning piano or looking for a more structured way to practice.\" \"Anything Piano, in its current form, turns any audio into a simplified piano tutorial with guided fingering, and listens to a user playing piano to give feedback on their performance.\" The company recently renamed itself Play Anything, reflecting a broader mission of helping people learn and play songs they love. Songscription will be grown as a platform for creators and songwriters, while Anything Piano will be grown as a platform for learners and those seeking performance feedback."
         }
       ]
+    },
+    "music/music-aria-bans-ai-charts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/08/KI-Musik-Charts-2026-T.jpg",
+          "cap": "Australia's ARIA joined the global trend by excluding AI-generated songs from its charts. Source: ARIA"
+        },
+        {
+          "t": "p",
+          "x": "The landscape of Australia's music charts changed this week. The Australian Recording Industry Association (ARIA) decided to exclude songs made entirely by AI from its official charts. The trigger was an AI cover of Madonna's 'Like a Prayer' that had stayed in the top 20 for months. Australia is not acting alone. Under common principles set by the IFPI, more than 20 official charts, including those in the US and Europe, have already adopted similar rules."
+        },
+        {
+          "t": "p",
+          "x": "The incident started with Australian DJ and producer Josh Fawaz. His AI-assisted Madonna cover got heavy radio rotation and climbed to No. 2 on the ARIA overall chart and No. 4 on the Top 20 Singles chart. Only after a strong industry backlash did Fawaz belatedly credit the vocals and drums as AI-made on Spotify, by which point streams had already passed 48 million."
+        },
+        {
+          "t": "p",
+          "x": "As of Friday, August 28, tracks made entirely by AI lose their eligibility for ARIA charts. ARIA CEO Annabelle Herd said, “Music made wholesale by a service trained on other artists' recordings is fundamentally different from an artist using AI as a creative tool.” Going forward, charting requires human involvement in songwriting, lead vocals and key instrumentation, while AI playing a supporting role is allowed as long as there is no streaming or chart manipulation."
+        },
+        {
+          "t": "p",
+          "x": "ARIA's new policy is built on common principles that the IFPI set last July together with several international music organizations. According to the IFPI, such AI chart policies are already in place at more than 20 official chart programs worldwide, making Australia's decision more an extension of an existing trend than an exception. GfK Entertainment, which runs the charts on behalf of Germany's BVMI, also quietly adopted similar principles in late July, weeks before Australia's announcement."
+        },
+        {
+          "t": "p",
+          "x": "Charting does not require avoiding tools like Suno or Udio altogether. Using AI for sound design, arrangement ideas or as a starting point for inspiration is not a problem anywhere. But it is a different matter if vocals or key instrumental parts were generated wholesale without a human performance. Because the standard for what counts as “substantially human-made” is still loose, enforcing this rule in practice is likely to produce no shortage of ambiguous cases and disputes."
+        }
+      ]
+    },
+    "music/music-billboard-ai-transparency": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Billboard reaffirmed its commitment to accurately reflect global music consumption. For nearly 100 years, the Billboard charts have continued to evolve alongside the new modes of expression and technological change that music fans embrace."
+        },
+        {
+          "t": "p",
+          "x": "Billboard said that classifying AI-made content requires both transparent disclosure from artists and creators and reliable tools to identify AI-generated music. It explained that this kind of collective effort to responsibly disclose AI use is needed for the charts to continue to capture music consumption accurately and responsibly."
+        },
+        {
+          "t": "p",
+          "x": "Silvio Pietroluongo, Executive Vice President of Charts and Data Partnerships, said, “Achieving transparency around AI-generated music requires collaboration across the entire industry, from artists and labels to streaming services, technology companies and trade organizations.” He added, “We are glad to see the identification tools that are emerging continue to develop, and we will keep testing and using solutions from across the ecosystem going forward.”"
+        },
+        {
+          "t": "p",
+          "x": "Leila Cobo, Co-Head of Content, said, “Billboard has always championed artists, celebrated music and maintained editorial transparency.” She added, “In a time of change like this, creators who use AI need to disclose that use so that we, too, can be transparent and accurate in our editorial coverage and charts.”"
+        },
+        {
+          "t": "p",
+          "x": "Jason Lipshutz, Co-Head of Content, added, “The way AI is involved in contemporary music is changing by the day, but we will keep working, now and going forward, with industry stakeholders to make clear, well-grounded judgments.”"
+        },
+        {
+          "t": "p",
+          "x": "Billboard said it views new tools and efforts to tag and identify AI-generated songs favorably, including the AI detection program Luminate recently announced, and plans to broadly cooperate with related efforts by trade organizations and streaming services."
+        }
+      ]
+    },
+    "music/music-fl-studio-genai-onramp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-04T120700.534.png?fit=2000%2C1500&ssl=1",
+          "cap": "Example screen of AI features built into FL Studio"
+        },
+        {
+          "t": "p",
+          "x": "Robert Linke, Chief Product and Technology Officer at Image-Line, said generative AI music tools can be a powerful onramp that draws even complete beginners into the world of making music themselves. The remarks came from the head of the company behind FL Studio, formerly known as FruityLoops."
+        },
+        {
+          "t": "p",
+          "x": "Linke said in an interview on the Musically Focus podcast, “AI lets a lot more people around the world engage with music in a more creative way.”"
+        },
+        {
+          "t": "p",
+          "x": "“These days you can just type an idea into a prompt. It might not be the most creative output you've ever made, but it could be the first time that person has ever made a song themselves... and that experience pulls a lot of people further in,” he explained."
+        },
+        {
+          "t": "p",
+          "x": "He added, “Once people realize, 'this is as far as I can go here, this is as far as I can interact with a generative platform,' they move on to the next step and download something like FL Studio to actually start making music.”"
+        },
+        {
+          "t": "p",
+          "x": "Linke called this “the net benefit of generative AI,” saying it means “a lot more people come to see their relationship with music as something they can creatively participate in.”"
+        },
+        {
+          "t": "p",
+          "x": "FL Studio has added AI features for several years, but Linke said there is a clear line in that process. “Any model we attach to FL Studio has to be ethically trained. We can't use a model trained on data where the rights holders weren't compensated. That's a really important principle,” he said."
+        },
+        {
+          "t": "p",
+          "x": "“It also has to be better than the traditional way of doing things. Using AI just because it's AI doesn't make sense, because it's costly and technically heavy. So it needs to actually help people accomplish and achieve something that was hard to do before,” he said."
+        },
+        {
+          "t": "p",
+          "x": "Linke and Image-Line CEO Constantin Köhncke also discussed, across the full podcast episode, the contradiction between how musicians talk about AI publicly and how they actually use it, and why text prompts are “not an ideal way to get into making music.”"
+        }
+      ]
+    },
+    "music/music-google-lyria-3-5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-1440x810.png",
+          "cap": "Lyria 3.5, Google's newly released music generation model"
+        },
+        {
+          "t": "p",
+          "x": "Google has released Lyria 3.5, which it calls its top-tier music generation model, in the Gemini app and the Gemini API. Refinements to vocal expression and arrangement allow for more polished tracks."
+        },
+        {
+          "t": "p",
+          "x": "In the Gemini app, users can pick a genre directly or specify one through a description, and can choose between vocal and instrumental tracks. New templates were added for quickly starting anything from background music to birthday songs, and track length can be adjusted shorter or longer."
+        },
+        {
+          "t": "p",
+          "x": "Whether it's background music for a video, a brand jingle or a personal ringtone, it has become much easier to bring an idea to life."
+        },
+        {
+          "t": "p",
+          "x": "Lyria 3.5 is open to all users worldwide through web and mobile apps. Artists and AI creators can use the model in Google Flow Music, while developers and engineers can also access it in Google AI Studio and Google Vids."
+        }
+      ]
+    },
+    "music/music-ai-three-tasks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/Screenshot-2026-09-03-at-2.35.44---PM.png"
+        },
+        {
+          "t": "p",
+          "x": "This is written by Brad Stewart, founder of Music Mogul AI and Mogul Talent Group. His premise: the future of the music industry is not humans versus machines, but building a career by automating the work that was never worth your time in the first place."
+        },
+        {
+          "t": "p",
+          "x": "Over more than 20 years of watching this industry, he says the people who built lasting careers were not the most talented. They were the most organized, or the ones who found a team that was. They answered emails and followed up. Meanwhile, the more talented artist next to them waited to be discovered and quietly disappeared."
+        },
+        {
+          "t": "p",
+          "x": "This is the hidden cruelty of the independent era. The internet handed everyone the label's tools, and loaded the label's workload on top. We called that freedom. In practice, it often meant doing three things poorly alone at one in the morning instead of doing one thing well."
+        },
+        {
+          "t": "p",
+          "x": "So the question is not whether AI should be allowed into music. It is already in, and it is not leaving. The remaining question is what to have it do. Aim it at the wrong things and you get soulless songs and empty marketing. Aim it right and you get back time, the resource this industry is always short on."
+        },
+        {
+          "t": "p",
+          "x": "First, follow-up. What separates artists who keep booking shows from those who don't is not talent, it is follow-up. Who you emailed, what you said back, what you promised, remembered and acted on every week. Done by hand, it is a part-time job, and the first thing to collapse the moment things get busy."
+        },
+        {
+          "t": "p",
+          "x": "This is where AI earns its place. It drafts messages, gathers venues, contacts and conversations in one spot, and surfaces the thread again before it goes cold. What it cannot do is close. Reading the room, naming a price, deciding whose car to drive, that stays human."
+        },
+        {
+          "t": "p",
+          "x": "Second, content. No one needs reminding that artists have to keep posting. What's missing is the time to do it well and consistently at once. Step off stage at one in the morning and the algorithm still wants three posts this week."
+        },
+        {
+          "t": "p",
+          "x": "In the repetitive middle stretch, AI is fairly capable. It turns one idea into a week's worth of captions, cuts one video into twelve clips, drafts the copy for a mailing list, and schedules it all to post overnight. What it should not do is stand in for voice, taste or narrative. No one has ever fallen for an artist who sounds like software."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1600/2026/09/data-src-image-1b0af7f9-4a95-4428-ba64-e3b1adddde78.png"
+        },
+        {
+          "t": "p",
+          "x": "Third, paperwork and pipeline. Contact lists, performance history, offer sheets, invoices, who still owes what. The least romantic use case, and in the writer's view the most valuable one. It keeps the data clean, drafts contracts and invoices, and flags deposits that never came in. Making the call and signing the deal still falls to a person."
+        },
+        {
+          "t": "p",
+          "x": "Some things clearly do not change. If AI carries the repetitive infrastructure, agents, managers and publicists go back to judgment, taste and relationships. A machine does not earn a promoter's trust, and it cannot hear what is missing from a song."
+        },
+        {
+          "t": "p",
+          "x": "So the advice is one thing: don't try to automate everything at once. Hand the machine the one task that drains you most first. Then spend the time you get back on the things only a person can do."
+        }
+      ]
+    },
+    "music/music-roland-melody-flip": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/09/roland-releases-melody-flip-ai-melody-generation-plug-in.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Roland released Melody Flip on September 4. It's an AI melody-generation tool for producers working in a DAW, which the company calls a “music creation partner.”"
+        },
+        {
+          "t": "p",
+          "x": "It was built together with Sony Computer Science Laboratories, the result of an ongoing research partnership between the two companies on music analysis technology."
+        },
+        {
+          "t": "p",
+          "x": "It is not a tool that automatically spits out finished songs. Roland calls it a starting point, meant to help you find ideas, pick what matches your sense of things, and grow that into your own work. The target is the hardest part of making music: finding the first spark."
+        },
+        {
+          "t": "p",
+          "x": "Output is grouped into units Roland calls Palettes. Each Palette contains four interlinked parts: melody, chords, bass and drums. The release version ships with about 250 palettes spanning various genres and styles."
+        },
+        {
+          "t": "p",
+          "x": "There are two ways to start. Load an audio file, whether a track, loop or beat, and it analyzes structure, tempo, beat position, key, chord progression, genre and mood to recommend a matching palette. Or browse the library yourself and pick something close to the style you want."
+        },
+        {
+          "t": "p",
+          "x": "Roland says it does not copy the melody of a loaded song outright. It uses its analysis methodology and reference points to propose a new direction instead. You listen to the result, try variations, tweak it, then export. Song analysis draws on Sony CSL's Music Information Retrieval research."
+        },
+        {
+          "t": "p",
+          "x": "Export works for both audio and MIDI. Melody comes out with chord, bass and drum backing included, so you can bring it straight into a major DAW to keep editing and arranging. The company says this supports a workflow from sketches and demos through to finished productions."
+        },
+        {
+          "t": "p",
+          "x": "It supports macOS and Windows. It runs as VST3 and AU on macOS 14, 15 and 26, and Windows 11, and is downloaded through Roland Cloud Manager 3.1.23 or later. It is included in every Roland Cloud membership, including the free tier."
+        },
+        {
+          "t": "p",
+          "x": "It was first announced on March 17. At the time, Roland said a free trial would open in May, and stated that AI tools should amplify artists rather than replace them, with human intention, taste and creativity staying at the center while technology stands as a partner or co-creator."
+        },
+        {
+          "t": "p",
+          "x": "Roland CEO Masahiro Minowa said Melody Flip marks a meaningful step forward for responsibly developed AI. Roland is also a founding supporter of The Principles for Music Creation with AI."
+        },
+        {
+          "t": "p",
+          "x": "A comment from artist Ginnojo Hoshi in the launch materials captures its character well: among the many AI tools that deliver a finished product, Melody Flip leaves the final expression to the user."
+        },
+        {
+          "t": "p",
+          "x": "Melody Flip is available now through Roland Cloud Manager."
+        }
+      ]
+    },
+    "music/music-suno-blige-ad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "You wake up in the morning and Mary J. Blige is in an ad for the AI music platform Suno. That alone would be surprising enough, but then you learn the campaign has already been pulled, and the reason is that she never approved it. Your eyes pop out, like an old Tex Avery cartoon character."
+        },
+        {
+          "t": "p",
+          "x": "Variety reported it. The video in question was originally posted on Suno's Facebook page."
+        },
+        {
+          "t": "p",
+          "x": "In the video, Blige watches a producer build a track with Suno in a recording studio. She offers a few suggestions and says the result is impressive."
+        },
+        {
+          "t": "p",
+          "x": "Once the clip spread, online backlash was the expected next step. What was actually unexpected came after that: Suno pulled the ad and stated exactly why."
+        },
+        {
+          "t": "p",
+          "x": "“Ms. Blige is an icon we all deeply admire. Since she emerged with works like ‘What's the 411,’ ‘No More Drama,’ ‘The Breakthrough,’ and ‘Growing Pains,’ she has never stopped innovating. That's why we wanted to work with her,” a Suno spokesperson told Variety."
+        },
+        {
+          "t": "p",
+          "x": "The key part is the explanation that follows. “We entered into a business agreement with someone who represented themselves as Ms. Blige's official representative. As soon as we learned that was not true, and that Ms. Blige was uncomfortable, we ended the ad campaign.”"
+        },
+        {
+          "t": "p",
+          "x": "Questions remain. Quite a lot of them."
+        },
+        {
+          "t": "p",
+          "x": "The clip itself is not fake. At some point, Blige really did sit in a studio and watch Suno, and gave her opinion on camera."
+        },
+        {
+          "t": "p",
+          "x": "How someone who was not her official representative managed to set that up is a detail that will likely come out later."
+        }
+      ]
+    },
+    "music/music-yamaha-creator-pass": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Attack-Gear-_-Software-Yamaha-Creator-Pass-3-2.png"
+        },
+        {
+          "t": "p",
+          "x": "Yamaha Creator Pass, unveiled in beta at SXSW in March, is effectively the company's first real software push. A company that has spent close to a century building the physical reality of instruments, from the DX7 and Montage to generations of pianos, PA systems and mixing consoles, has shipped a subscription platform."
+        },
+        {
+          "t": "p",
+          "x": "First, a caveat. There is nothing inside the box that Yamaha built itself. No in-house DAW, no in-house plugin engine. What Yamaha built is the front door: a single login, a single bill, a curated passage leading to almost every tool you'd need."
+        },
+        {
+          "t": "p",
+          "x": "Two years ago, the subscription services Attack covered were FL Cloud, Splice, Loopcloud, Tracklib and Beatport Studio. All five were essentially sample-and-plugin subscriptions at heart, and even Beatport Studio stops at ten plugins and sound packs."
+        },
+        {
+          "t": "p",
+          "x": "Creator Pass is a different animal. It tries to cover the entire pipeline, creation, mastering, recording, distribution, promotion and podcasting, with more than 20 partner services. It fits best for someone just starting out in music, maybe a songwriter."
+        },
+        {
+          "t": "img",
+          "src": "https://www.attackmagazine.com/wp-content/uploads/2026/08/Attack-Gear-_-Software-Yamaha-Creator-Pass-2.png"
+        },
+        {
+          "t": "p",
+          "x": "The pricing has been cleaned up once already. A structure that once ran seven tiers, from Beginner to Podcaster Complete, is now down to three: Starter ($9.99/month), Growth ($19.99/month) and Pro ($39.99/month). Podcaster Pass remains a standalone add-on at $29/month."
+        },
+        {
+          "t": "p",
+          "x": "Every tier is built on the same four partners: Output for samples and instruments, LANDR for AI mastering and royalty-free loops and one-shots, Riverside for podcast recording, and Groover for pushing finished tracks to curators and playlists."
+        },
+        {
+          "t": "p",
+          "x": "Starter is a songwriting-and-beat tool aimed at people who've never opened a DAW. Growth becomes genuinely useful once it adds Output Arcade, LANDR samples, a DAW bundle, AI mastering, more than 200 tutorial lessons, and four Groover pitch credits a month. Pro adds Output's deeper tools and ten credits."
+        },
+        {
+          "t": "p",
+          "x": "The heaviest recent addition is the DAW. Growth and Pro subscribers get Cubase 15 AI, and annual subscribers at either tier get Ableton Live 12 Lite as well. It's free if you don't already have a DAW. Since Yamaha owns Steinberg outright, this is the card closest to being entirely its own."
+        },
+        {
+          "t": "p",
+          "x": "Some things are discounts, not inclusions. Steinberg products beyond Cubase, Adobe, SoundCloud and DistroKid are all separate. You pay for them yourself, just at a lower rate."
+        },
+        {
+          "t": "p",
+          "x": "The math is worth running. Buy LANDR mastering, a Riverside recording plan, an Output sample subscription and Groover credits separately, and you'll clear Growth's $19.99 before you've even touched a DAW."
+        },
+        {
+          "t": "p",
+          "x": "For experienced producers, on the other hand, it mostly doesn't fit. It's a curated approach, not unlimited access to the top tier of each tool, and Groover credits are metered too. If you already have a mastering chain, a DAW and a distributor, this solves a problem you don't have."
+        },
+        {
+          "t": "p",
+          "x": "It's smart and reasonably priced, but it still shows signs of being assembled. For someone starting completely from zero, Growth makes the most sense, since you don't have to stack twenty subscriptions before finishing your first song."
+        }
+      ]
+    },
+    "music/music-ai-slop-human-demand": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w652/format/webp/2026/09/9-2-Tal-Gonen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Once it became known that Olivia Rodrigo filled her new album's lyric videos with human-drawn art and animation, the news spread across social media within days. A single production decision became news."
+        },
+        {
+          "t": "p",
+          "x": "It didn't stop there. She also launched a collection with Etsy bundling merchandise from independent women artists, adding a fan experience on top."
+        },
+        {
+          "t": "p",
+          "x": "The same pattern shows up across the industry. Venues have started refusing AI-made flyer art, and YouTube, Substack and LinkedIn have all said they want to cut down on AI slop."
+        },
+        {
+          "t": "p",
+          "x": "How many different roles this industry actually rests on usually isn't visible. Subtitlers who translate lyrics into other languages, animators who draw lyric videos frame by frame, session musicians who add strings remotely for artists they've never met face to face, and topliners who write melodies over someone else's beat."
+        },
+        {
+          "t": "p",
+          "x": "Tal Gonen of Fiverr, who wrote the piece, points to platform demand data. Topline composition requests rose 466% and strings rose 116%. Because people are being called in rather than handing creation over entirely, composing rose 426% as well."
+        },
+        {
+          "t": "p",
+          "x": "Behind the numbers are real jobs. Andrea Sacchi added Spanish subtitles to Ed Sheeran's YouTube channel and official videos. Grammy-nominated engineer Bo Vallis earned $1 million working with Pharrell and Lil Wayne through Fiverr."
+        },
+        {
+          "t": "p",
+          "x": "The pattern holds outside music too. Searches for “AI content humanize” — requests to rewrite chatbot scripts, marketing emails and web copy to sound human-written — rose 641% over the past six months."
+        },
+        {
+          "t": "p",
+          "x": "Gonen's advice is simple: budget for human collaborators the same way you would for a producer or a venue. Treat “handmade” itself as a marketing asset, not just an invisible production decision."
+        }
+      ]
+    },
+    "music/music-klattsch-singing": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "AaazFB0J-iE"
+        },
+        {
+          "t": "p",
+          "x": "Crash United has released klattsch. It's a retro vocal synthesizer for desktop and Android, built on the design lineage that produced DECtalk and the machine voices of that era."
+        },
+        {
+          "t": "p",
+          "x": "It isn't simply a clone of a familiar speech synthesizer. It reimplements the 1980 formant synthesizer prototype that had survived only in an MIT lab — the actual starting point of this lineage."
+        },
+        {
+          "t": "p",
+          "x": "The developer dug into the proof-of-concept design left behind by Dr. Dennis Klatt — the very root that later became Stephen Hawking's voice. Not stopping there, they added three more speech synthesis engines, following papers from decades ago."
+        },
+        {
+          "t": "p",
+          "x": "Not a single sample is used. It combines oscillators, noise and resonators within what was technically possible in 1980. The sound is crackly and unmistakably artificial, with every synthesis parameter exposed."
+        },
+        {
+          "t": "p",
+          "x": "You can type text or draw notes on a piano roll, attach phonemes in English or Japanese kana, and hand-draw pitch curves. Multiple voice layers can be stacked across different engines. It can also load a backing track and export both WAV audio and a visualizer video."
+        },
+        {
+          "t": "p",
+          "x": "A DAW plugin beta using the same speech synthesis engines has also been announced, with a crossgrade purchase option attached."
+        },
+        {
+          "t": "p",
+          "x": "A “classic” version, stripped of the piano roll, polyphony and extra voice engines, runs free in the browser. The Android version is free on Google Play with a one-time payment to unlock Pro, and a DRM-free bundle covering Windows, macOS, Linux and Android costs $9.99 on itch.io."
+        }
+      ]
+    },
+    "music/music-scaler-eq-pro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/ab02a384-f7b1-42b1-95ec-919e832f1223/Scaler+EQ+Pro+Announced+With+Note-Aware+EQ+And+MIDI-Controlled+Live+Mode.webp"
+        },
+        {
+          "t": "p",
+          "x": "Scaler Music has unveiled Scaler EQ Pro. It's a major expansion of the note-aware EQ, which boosts or cuts frequencies based on whether they belong to the song's key and scale."
+        },
+        {
+          "t": "p",
+          "x": "The core is technology covered by US patent 12,647,085. Key detection runs automatically, so changing the key or scale never means redrawing the EQ curve from scratch."
+        },
+        {
+          "t": "p",
+          "x": "Filter slopes move continuously instead of snapping between fixed steps. Musical bands now sit alongside traditional band types, and tilt, notch and magic shelf have been newly added."
+        },
+        {
+          "t": "p",
+          "x": "The most unfamiliar part of this release is Live Mode. You play which frequencies to boost or cut using a MIDI keyboard or MIDI recorded in a DAW. Velocity is recognized, and ADSR lets the response change over time. Performance Solo follows the playing directly, while Live Band Solo isolates just the band being touched right now."
+        },
+        {
+          "t": "p",
+          "x": "Dedicated bass and treble compressors have been added. Dynamic EQ with threshold, ratio, attack and release runs on every band, and sidechain input lets an external signal drive individual bands. Continuous gain match keeps correcting for level changes, so it's less likely you'll mistake something getting louder for something sounding better."
+        },
+        {
+          "t": "p",
+          "x": "Mid/side can be applied per band, with stereo width and low-end mono control included. Input and output meters show peak and RMS, and peak limiters sit at both ends of the signal. Processing is minimum phase with zero latency, so it works for mixing and tracking as well as on a live stage."
+        },
+        {
+          "t": "p",
+          "x": "It runs as 64-bit VST3, AU and AAX on macOS 12 and above, and as VST3 and AAX on Windows 10 and above. A standalone version is included as well. It's priced at $99 and launches September 23. Buying Scaler EQ now for $59 gets a free upgrade to Pro at launch."
+        }
+      ]
+    },
+    "music/music-sonos-custom-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/09/news-stories-images-4x3-2026-09-02T130717.620.png"
+        },
+        {
+          "t": "p",
+          "x": "Sonos CEO Tom Conrad explained how custom agents work. It's a feature that lets listeners build their own AI assistant within the Sonos ecosystem."
+        },
+        {
+          "t": "p",
+          "x": "Here's Conrad in his own words: “An Anthropic engine, an OpenAI engine, a Gemini engine, a Grok engine — you can pick whichever reasoning engine you want and summon it within Sonos.”"
+        },
+        {
+          "t": "p",
+          "x": "After picking one, you choose a voice, give it a name and build a personality. The example Conrad gave was the John Cusack character from the movie “High Fidelity.” It's a picture of a record-store obsessive with strong opinions living inside the speaker, recommending music and quietly coloring the listener's point of view."
+        },
+        {
+          "t": "p",
+          "x": "You can run several agents at once. Music recommendations might run on OpenAI, cooking advice on Anthropic, and finding nearby live shows on yet another one. Each has its own separate personality and purpose."
+        },
+        {
+          "t": "p",
+          "x": "This extends a trend in which Sonos has been opening its devices up to multiple AI assistants and third parties. Voice control is moving from a window that takes dictated commands toward something more like a companion with its own taste."
+        }
+      ]
     }
   }
 }

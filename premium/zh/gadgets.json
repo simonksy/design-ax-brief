@@ -4751,6 +4751,427 @@
           "x": "Vive Eagle提供方形和飞行员形两种镜框,配有黑色、咖啡色、浆果色三种半透明配色。镜片默认搭载蔡司镜片,可选透明、染色或变色镜片,也可安装近视镜片。美国定价从基础款499美元起,欧洲和英国则从9月21日起分别以469欧元和429英镑开售。"
         }
       ]
+    },
+    "gadgets/gadgets-claude-carplay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/sdomlpqyD0M4oSLlCjmWGvdxjrw=/1960x/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic为Claude的iOS应用加入了CarPlay连接功能。现在,Claude用户可以通过车辆信息娱乐屏幕与Claude对话。"
+        },
+        {
+          "t": "p",
+          "x": "打开这扇门的是苹果。iOS 26.4为CarPlay加入了第三方聊天机器人支持。"
+        },
+        {
+          "t": "p",
+          "x": "不过有附加条件。想要进入CarPlay的聊天机器人应用必须支持语音控制界面,使用苹果指定的CarPlay模板,并获得苹果授予的权限(entitlement)。"
+        },
+        {
+          "t": "p",
+          "x": "Claude会以免提方式回答语音提出的问题,但无法操作车辆或iPhone的功能。"
+        },
+        {
+          "t": "p",
+          "x": "也没有唤醒词。由于不支持第三方唤醒词,驾驶者必须在CarPlay界面中直接打开Claude应用。"
+        },
+        {
+          "t": "p",
+          "x": "CarPlay上的Claude应用会打开到「Start a hands-free conversation(开始免提对话)」界面。在这里可以开始新对话,也可以切换到最近的对话。"
+        },
+        {
+          "t": "p",
+          "x": "应用内有静音与取消静音、结束与恢复对话的控制项。还有视觉提示,显示Claude当前是在聆听还是在说话。"
+        },
+        {
+          "t": "p",
+          "x": "CarPlay早已接受第三方应用,但苹果一直严格控制允许的范围,以避免分散驾驶员的注意力。OpenAI在今年早些时候为ChatGPT应用加入了CarPlay支持。"
+        },
+        {
+          "t": "p",
+          "x": "这篇报道带有更新标记,说明已根据Claude的CarPlay连接功能确实已经上线这一事实进行了修改。"
+        }
+      ]
+    },
+    "gadgets/gadgets-windows-project-zenith": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-2560-80.jpg",
+          "cap": "Image credit: Tom's Hardware"
+        },
+        {
+          "t": "p",
+          "x": "微软又推出了一款面向开发者的Windows 11。名字是Project Zenith,号称开箱即可写代码的版本。"
+        },
+        {
+          "t": "p",
+          "x": "根据Windows官方博客,这款操作系统针对开发者工作流进行了打磨,最先搭载在AMD Ryzen AI Halo上,是红色阵营对英伟达DGX Spark的直接回应。"
+        },
+        {
+          "t": "p",
+          "x": "微软表示,很快会扩展到自家OEM以及其他芯片合作伙伴的设备上。"
+        },
+        {
+          "t": "p",
+          "x": "雷德蒙德这样描述Zenith:「在配备64GB以上统一内存、250GB/s以上内存带宽的开发者级设备上,提供可以毫无阻碍、直接开始编码的Windows体验」,开发者「可以立刻投入使用」。"
+        },
+        {
+          "t": "p",
+          "x": "工具都已预装好:Visual Studio Code、GitHub Copilot、PowerToys、WinAppCLI、Windows Dev Skills、Intelligent Terminal、PowerShell 7、Git、GitHub CLI、AzureCLI、Core Utils、Oh My Posh、Python 3.14+、uv、NVM、Node 24+、WSL 2+ Ubuntu、.NET 10。"
+        },
+        {
+          "t": "p",
+          "x": "设置也提前配置好了。微软的说法是,这样就不必在每个应用里翻找设置菜单来调整到适合自己的环境。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xi79WuWDZXzix4Fc7sXNMn-1200-80.png",
+          "cap": "Image credit: SK Hynix"
+        },
+        {
+          "t": "p",
+          "x": "瞄准的首先是AI开发者。搭载这款系统的设备本身就被设计用来在本地运行300亿参数以上的模型,且不计量使用量。打造和运行代理的环境也经过了调整,加入了系统强制的身份验证、通过Microsoft执行容器(MXC)实现的隔离,以及企业级的代理管理功能。"
+        },
+        {
+          "t": "p",
+          "x": "背景是AI的token危机。代理消耗的token是普通AI的1000倍,成本已经失控。思路是把前沿模型留在云端,其余部分放在这类设备上本地运行,对小型组织或在家里做实验的人来说,这种考量尤其迫切。"
+        },
+        {
+          "t": "p",
+          "x": "代价是价格。至少目前只能在昂贵的设备上使用。搭载Ryzen AI Max+ 395处理器、128GB LPDDR5x-8000、2TB SSD和Radeon 8060S集成显卡的AMD Ryzen AI Halo,在Micro Center的售价是3,999.99美元。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7cUTDmN2PHNRiNBVqbKf56-676-80.png"
+        },
+        {
+          "t": "p",
+          "x": "即便日后Zenith单独发售、可以装进其他迷你PC,64GB以上统一内存这一门槛仍是个大障碍,在AI热潮推高内存价格的当下更是如此。"
+        }
+      ]
+    },
+    "gadgets/gadgets-withings-beamo-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/beamo-stetho-sense.jpg",
+          "cap": "StethO Sense将BeamO的录音与AI心肺音分析结合在一起。Withings/CNET"
+        },
+        {
+          "t": "p",
+          "x": "自去年11月发布以来,我已经使用Withings BeamO数周。它是一款将听诊器、心电图和体温计合而为一的FDA批准设备。测体温、听心肺音方面表现出色,但要读懂这些数值最终还是离不开医生。这一点即将改变。"
+        },
+        {
+          "t": "p",
+          "x": "周五在IFA 2026上,Withings发布了StethO Sense。这项服务从10月1日起向Withings+用户开放,由第三方AI分析软件读取BeamO的心肺录音。据资料显示,异常心杂音的检测由eMurmur Heart AI负责,呼吸音的解读由StethoMe负责。"
+        },
+        {
+          "t": "p",
+          "x": "「StethO Sense让家人可以在家里几秒钟内、随心所欲地记录心音,并把这份记录带给医生。」BeamO产品经理Livia Robic如是说。「它并不会取代就诊,而是为就诊多提供一项健康数据。」"
+        },
+        {
+          "t": "p",
+          "x": "eMurmur是一家医疗AI公司,开发了用于心音分析的FDA批准算法eMurmur Heart AI。Withings的新闻稿表示,该算法已通过同行评审的临床研究,在儿童和成人两方面均得到验证。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/beamo.jpg?w=864",
+          "cap": "BeamO及其StethO Sense服务均可用于儿童和成人。Withings"
+        },
+        {
+          "t": "p",
+          "x": "它会在几秒钟内分析从四个测量点之一采集的心音录音,区分出无杂音、异常杂音和无害杂音。判定结果会附带一个置信度分数。"
+        },
+        {
+          "t": "p",
+          "x": "负责肺音的StethoMe会按年龄区分流程:儿童在六个测量点录音,成人在八个测量点录音。"
+        },
+        {
+          "t": "p",
+          "x": "结果以0到100的呼吸指数呈现,综合呼吸质量与声音、呼吸频率,以及呼吸节律和心率,帮助发现呼吸模式的变化。"
+        },
+        {
+          "t": "p",
+          "x": "不过StethoMe是用于一般性的肺音追踪。它并非为已确诊哮喘、慢性阻塞性肺病或支气管炎等呼吸系统疾病的人群设计。"
+        },
+        {
+          "t": "p",
+          "x": "StethO Sense内置在Withings应用里,但需要Withings+高级会员才能使用,价格为每月10美元或每年100美元。在应用的StethO Sense栏目中选择心脏或肺部录音并提交分析,几秒钟内就能得到结果。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/e2be0953-7c50-4bc2-9c53-d468fddfb18d.png?w=864",
+          "cap": "单按钮设计与解剖图示让BeamO使用起来很简单。Cole Kan/Anna Gragert/CNET/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "这一设计意在补充Withings+的Cardio Checkup服务——该服务会把测量心脏电信号的心电图记录发送给心脏专科医生,在24小时内得到审阅反馈,一年可使用四次。"
+        },
+        {
+          "t": "p",
+          "x": "StethO Sense本身没有使用次数限制,但其结果并非诊断。所有录音和分析都可以导出并与医生共享。"
+        },
+        {
+          "t": "p",
+          "x": "从10月1日起,Withings+订阅用户即可使用这项功能。此前购买BeamO的老用户将获得一个月的Withings+免费试用,10月1日之后购买250美元BeamO的用户同样享有这一待遇。"
+        }
+      ]
+    },
+    "gadgets/gadgets-xreal-aura-android-xr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "XREAL的Project Aura,这个名字我们已经听了很久。对Android来说这是一种全新的方式,而像所有早期阶段的技术一样,它到底成熟到什么程度,我原本是存疑的。亲自体验之后,现在我在倒数发布日期。"
+        },
+        {
+          "t": "p",
+          "x": "XREAL几个月来一直暗示秋季发布,但最近说法变得更明确了:在2026年结束之前,售价低于1,500美元。在IFA上见到的相关人士对这个数字相当谨慎,表示「低于1,500美元」不一定意味着1,499美元。"
+        },
+        {
+          "t": "p",
+          "x": "XR真正的难题从来不是展示技术本身。令人印象深刻的AR、VR已经出现好几年了。真正难的是让它自然到让人想每天使用,而从我短暂体验的感受来看,XREAL已经相当接近这一点。"
+        },
+        {
+          "t": "p",
+          "x": "如果你第一次接触Android XR,可以这样理解:不再低头看手中的那块长方形,而是让应用、屏幕和数字物体悬浮在你周围的空间里。你可以用巨大的虚拟显示屏看YouTube,或者用Google地图在城市里到处走动。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "演示从基本手势介绍开始:捏合、点击、拖动、滚动。一开始我还需要有意识地想着自己在做什么,但大约十分钟后,我就忘掉了操作本身,直接自然地用了起来。XREAL表示,针对真正第一次佩戴的用户,会准备更长的手势学习流程。"
+        },
+        {
+          "t": "p",
+          "x": "更重要的是软件给人的熟悉感。如果你用惯了Android手机,就不需要再学习一套新的操作系统。应用、导航的概念、基本的交互方式,全都建立在你已经熟悉的生态系统之上。"
+        },
+        {
+          "t": "p",
+          "x": "硬件比看起来更复杂。Aura是XREAL、Google和Qualcomm三方合作的成果。Google提供了Android XR平台与生态系统,Qualcomm提供了Snapdragon计算能力,XREAL贡献了光学和空间计算方面的经验。主平台是Snapdragon Reality Elite,XREAL还单独开发了自家的X1S空间协处理器。"
+        },
+        {
+          "t": "p",
+          "x": "显示屏是索尼的micro OLED,单眼分辨率1,920×1,200,最高120Hz刷新率,视野角70度。XREAL自研的X Prism光学系统把这一切压进了眼镜的形态里。对于需要矫正视力的人,也支持配装处方镜片插件。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "最令人印象深刻的是Google地图。放大缩小、旋转浏览城市和地标时的清晰度几乎像魔法一样。在支持沉浸式体验的地方,你甚至可以走进建筑内部——我在纽约的一家餐厅里,看到了桌位布局、平面图,甚至柔和的灯光,都呈现得如同真实场景。"
+        },
+        {
+          "t": "p",
+          "x": "Aura使用电致变色调光技术。专注于数字内容时镜片会变暗,但只要往下看,依然能看到现实世界。毕竟没有多少人真的想要一副把自己与周围环境完全隔绝开的眼镜。"
+        },
+        {
+          "t": "p",
+          "x": "我也看了YouTube。专用应用因为bug崩溃了,所以我用Chrome以老办法看,但只要把虚拟屏幕放大到你想要的尺寸,它给人的感觉更像投影仪,而不是手机或平板。据说电池是装在外接计算单元里的4,455mAh电池,按流媒体播放计算可以用四到五个小时。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-Apps.jpg"
+        },
+        {
+          "t": "p",
+          "x": "剩下的疑问是应用生态。由于可以使用Google Play商店,不需要从零开始搭建生态系统。但XR平台的成败最终取决于专门为这种形态设计的应用,XREAL只表示会在发布时进一步公开更多信息。"
+        }
+      ]
+    },
+    "gadgets/gadgets-odyss-n1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MkDAozpLwhETPYrqvqRseZ-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "睡眠、运动和压力,如今健身追踪器、智能手表、智能戒指不用碰手就能记录得相当准确。可饮食记录这件事,依然是个老大难问题。"
+        },
+        {
+          "t": "p",
+          "x": "像Garmin Connect或Oura这样的App,手动输入卡路里和营养的方法有很多。问题在于,没有比这更省事的办法。"
+        },
+        {
+          "t": "p",
+          "x": "Odyss N1这款AI项链,瞄准的正是这个位置。虽然还只是概念产品,但我在柏林IFA 2026上亲自试用过,对性能半信半疑,却还是被这台设备打开的可能性打动了。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/adp7NC6isGrgiKKNNbM8mZ-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Odyss N1是一枚内置摄像头和加速度计的小型三角形吊坠。吃什么、什么时候吃、吃多少,全靠这一枚搞定。项链的绳其实是一条线缆,连接吊坠和脖子后面的电池模块。这块电源模块里还装了用于提醒的触感马达。"
+        },
+        {
+          "t": "p",
+          "x": "吊坠是金属材质,有黑色、银色、金色三种。做工相当不错,更像一件首饰。上面有一个物理按钮,按下去会把饮食记录功能整体关掉。完全不保存原始图像数据,也是隐私设计的一部分。"
+        },
+        {
+          "t": "p",
+          "x": "记录是把视觉和动作数据输入AI算法完成的。它还会结合之前的上下文,推断你吃的是什么,甚至是怎么烹制的。记录随时可以由用户修改,Odyss N1会从这些修改中学习。因为戴得越久、修正记录越多就越准确,官方说至少要佩戴两周完成校准,才能发挥出真正的性能。"
+        },
+        {
+          "t": "p",
+          "x": "积累下来的饮食数据会交给配套App,整理出整体的营养走势,并给出饮食改善建议。除了营养,它还会生成以质量、能量、节律三个指标为核心的分析报告。"
+        },
+        {
+          "t": "p",
+          "x": "虽然还只是概念产品,但规划很明确:饮食记录数据会开放给其他广泛使用的健康追踪App查看,反过来,Odyss App也会导入其他可穿戴设备的健康数据,纳入营养建议。"
+        },
+        {
+          "t": "p",
+          "x": "缺点也很明显。要让饮食追踪真正起作用,基本上得一整天都戴着。电池续航看起来也只能撑一两天,得经常摘下来充电。"
+        }
+      ]
+    },
+    "gadgets/gadgets-roomba-duo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-reaching.jpg"
+        },
+        {
+          "t": "p",
+          "x": "iRobot在IFA 2026上发布的Roomba Duo,称得上是今年看到的扫地机器人创意里数得上名的一款。原因不只是它那副像星球大战机器人的样子。那个大圆筒状的主机一边用蒸汽拖地,一边把藏在上方空间里的小机器人放到狭窄的地方。"
+        },
+        {
+          "t": "p",
+          "x": "它还不是成品,甚至有可能根本不会上市。在展会现场遇到的iRobot产品经理说:“Roomba Duo是我们做出来看市场反应的概念机,也是我们心里地面清洁机器人的未来模样。”"
+        },
+        {
+          "t": "p",
+          "x": "他把大主机形容成一台要取代手持吸尘器或干湿两用吸尘器的重型设备。做成约2英尺高、约66磅重这么沉,是为了拉高吸力、把水箱做得更大。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-releasing.jpg"
+        },
+        {
+          "t": "p",
+          "x": "演示是从往地毯上倒意大利面开始的,看起来更像是裹着油和香草,而不是红酱。主机从上面经过,把它吸走,紧接着用蒸汽擦干净。收尾之后,地毯上只留下一点看起来像是油渍的痕迹。"
+        },
+        {
+          "t": "p",
+          "x": "接下来才是这台机器的重点。Roomba Duo抬起“头”放到地面上,里面藏着的圆盘形机器人像俄罗斯套娃一样钻了出来。产品经理说,这个随行机器人其实就是今年早些时候发布的小型吸尘加拖地机器人Roomba Plus 575。看着它钻进腿脚间距很窄的矮脚家具底下清扫,“机器人里藏机器人”这个点子的用处也就显而易见了。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-lifting.jpg"
+        },
+        {
+          "t": "p",
+          "x": "如果真的上市,外观大概会和这天看到的样子相差不少。因为还处在概念阶段,价格这块产品经理也没多说。不过对于“大概会比今年评测过的1700美元Dreame X60 Max Ultra Complete这类高价全能机型还贵”的猜测,他倒也没有特意反驳。"
+        },
+        {
+          "t": "p",
+          "x": "蒸汽清洁的实际表现还是个问号。能不能对付陈旧污渍或油污这类顽固脏污,还要再看看。不过,如果它能收拾那种让人根本不敢派扫地机器人上场的大事故——比如整盘食物被打翻在地——这钱就花得值。"
+        }
+      ]
+    },
+    "gadgets/gadgets-violoop-ai-box": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/B6hUjNrNcpYQiezaSjWsUi-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "能替你在电脑上干活的AI助手一下子多了起来。像OpenClaw这类工具就是代表,就算你不在,它也能自己运转。问题是,要在自己电脑上跑这类助手,得有相当的硬件余量才行。"
+        },
+        {
+          "t": "p",
+          "x": "写这篇文章的记者,到现在还在用2023年买的MacBook Air M3,打算再撑5到7年。可那台笔记本并没有宽裕到能扛住本地AI助手。但就为了一个AI助手把整台电脑换掉,这笔账怎么算都不划算。"
+        },
+        {
+          "t": "p",
+          "x": "Violoop在IFA 2026上给出的答案,是一台硬件AI助手。不同于那种占用笔记本资源、拖电池的软件助手,这是一台连到电脑上的独立设备,把大部分AI运算接过去自己扛。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yVJ3VTKvbAdvhcrzgS6TVi-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "它的工作方式是识别屏幕。它会读懂此刻显示屏上有什么,顺着这个语境来帮你干活。有人让你发个地址,它就找出信息填进去;来不及看的长PDF,它会帮你概括要点。"
+        },
+        {
+          "t": "p",
+          "x": "用得越多,它也越懂你。Violoop把这称为“连续记忆图”。它会把你的工作方式、偏好和反复出现的模式一点点学下来,作为理解下一条指令的底子。"
+        },
+        {
+          "t": "p",
+          "x": "一台一直盯着屏幕、不断积累记忆的设备,免不了让人问起隐私。Violoop主打本地优先:据介绍,屏幕数据在设备内部处理,不会发往云端。机器里塞了一个80亿参数的本地AI模型,以及26 TOPS的端上算力。即便真的需要用云,发出去的也只是“任务所需的那部分信息”,屏幕本身不会被实时传送出去。"
+        },
+        {
+          "t": "p",
+          "x": "敏感操作的确认,交给专用的STM32H563安全处理器负责。顶部的物理按钮就是硬件确认键。当助手要执行多步骤任务或敏感动作时,必须由用户亲自按下才能继续。可以挑选并连接ChatGPT、Claude、Gemini这类服务。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XGFFhczbzUjbCwk4qmUnZi-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "机身正面装了一块小屏幕,显示时间和助手当下在做什么,看起来就像放在笔记本旁边的一台老式显示器。供电不走笔记本的USB-C,而是用独立的电源适配器,背面留了USB-C、HDMI和电源输入口。它同时支持Windows和macOS,官方说安装基本插上就能用。"
+        },
+        {
+          "t": "p",
+          "x": "Violoop将于2026年9月15日在Kickstarter上线。众筹初期价399美元,预计10月中旬发货,之后的正式售价为799美元。"
+        }
+      ]
+    },
+    "gadgets/gadgets-watch-s12-siri-chip": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/s12-chip-mockup-apple-watch.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "苹果的S系列芯片,很少迎来真正有意义的换代。型号数字年年都会变,但实际的CPU提升并不常见,去年甚至直接跳过S11,沿用了S10。"
+        },
+        {
+          "t": "p",
+          "x": "今年据说不一样。传闻Apple Watch Series 12会换上升级版的S系列芯片,名字大概是S12或S11,速度更快,也将成为AI时代的第一代手表芯片。"
+        },
+        {
+          "t": "p",
+          "x": "watchOS 27的主打功能是Siri AI。据称它在新芯片上跑得最顺,其余的日常功能也会跟着受益。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/heart-health-apple-watch-7-features.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "健康功能增加的说法也不是新鲜事。FDA已经审查了高血压提醒的升级,据说下周就会公布。还有更具体的传闻称,心率传感器会加入全天候测量,这正是WHOOP之类的竞品已经在提供的方式。"
+        },
+        {
+          "t": "p",
+          "x": "据Mark Gurman透露,Series 12的新传感器能够“在一整天里持续收集数据,而不是只在检测到剧烈运动时,或按随意的间隔来采集”。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ceramic-s5.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "除了新的表带和表壳选项,还有分析认为,陶瓷表壳会在2019年Series 5之后首次回归,颜色是白色和深灰两种。彭博社报道称,“苹果为Series 12陶瓷表壳试验过白色和深灰两种配色”。陶瓷表壳会把价格拉高多少还不清楚。上一次推出时起价为1299美元,比现在的Apple Watch Ultra贵出不少。"
+        }
+      ]
     }
   }
 }

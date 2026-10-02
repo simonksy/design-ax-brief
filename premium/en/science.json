@@ -4917,6 +4917,575 @@
           "x": "The team also ran a repository-scale test. Running AIMe on more than 7 million spectral clusters in GNPS, a large public mass spectrometry repository, produced tentative annotations for 2.69 million of them at the same similarity threshold — compared with roughly 416,000 annotated by prior work."
         }
       ]
+    },
+    "science/science-adaptiveflow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A joint research team from St. Jude Children's Research Hospital, the University of Pavia, the Dana-Farber Cancer Institute and Harvard Medical School has unveiled an AI-based drug-screening platform called AdaptiveFlow. The key point is that it can virtually screen billions of candidate compounds while cutting computational cost to about 1/1000 of existing methods. The open-source research was published in Nature Biotechnology."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-informed-adaptivefl-1.jpg",
+          "cap": "Composition and preparation of the chemical library (Enamine REAL Space)."
+        },
+        {
+          "t": "p",
+          "x": "The platform demonstrated that performance remains linear even when scaled up to as many as 5.6 million virtual CPUs, setting a new benchmark for cloud-based drug discovery. The researchers identified strong inhibitor candidates for both a proven anticancer target and a newly emerging target. “AdaptiveFlow is a next-generation automated platform for repeated ultra-large virtual screening,” said co-corresponding author Dr. Christoph Gorgulla. “The platform can screen 69 billion molecules, the largest docking-ready library in the world.”"
+        },
+        {
+          "t": "p",
+          "x": "At the core of AdaptiveFlow is an 18-dimensional grid representing properties such as molecular weight one at a time. This grid makes it possible to prioritize chemically diverse molecules and select a promising subset of the library for deeper screening. A machine learning classification model trained on this data narrows down the most promising molecules, which are then re-screened virtually against protein targets supporting more than 1,500 docking protocols and ranked by predicted binding affinity."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-informed-adaptivefl.jpg",
+          "cap": "Structure of the AdaptiveFlow platform for ultra-large virtual screening (ULVS)."
+        },
+        {
+          "t": "p",
+          "x": "The researchers validated the platform's performance by applying it to PARP1, a well-known anticancer target, and FSP1, a newly emerging target involved in cell death and recently linked to cancer cell survival. In both cases, they found inhibitors with binding strength comparable to pharmaceutical industry benchmarks. “PARP1 already has approved drugs, so it served as a good benchmark, but FSP1 was a more challenging target because of an additional cofactor at the binding site,” Gorgulla said. “We were glad to confirm that it works even in a complex environment.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-informed-adaptivefl-2.jpg",
+          "cap": "Conceptual workflow of ATG-VS (adaptive tier-based virtual screening)."
+        },
+        {
+          "t": "p",
+          "x": "The researchers released the entire platform as open source, along with step-by-step guides and tutorials. “We wanted to make ultra-large virtual screening as accessible as possible, to find better molecules even for difficult target proteins and to actually raise clinical success rates,” Gorgulla said."
+        }
+      ]
+    },
+    "science/science-bci-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Carnegie Mellon University in the US have unveiled a non-invasive brain-computer interface (BCI) that combines human motor learning with adaptive AI machine learning. The achievement, which cuts training time while boosting performance, is seen as a new milestone for non-invasive BCIs. The findings were published in the international journal Nature Communications."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/pic15u15.jpg?itok=i20bSA0f",
+          "cap": "Geralt/Pixabay"
+        },
+        {
+          "t": "p",
+          "x": "Corresponding author Professor Bin He and Carnegie Mellon co-authors including Hanwon Wang, Isha Jang, Maxim Karenbach, and Idan Ding wrote in the paper, “Neuroscientifically, this kind of alignment mirrors a well-known mechanism of motor skill learning, in which consistent sensory feedback shapes synaptic plasticity along behavior-related neural pathways.”"
+        },
+        {
+          "t": "p",
+          "x": "A BCI is an assistive technology that helps users operate external electronic devices through thought alone, requiring the recording and decoding of brain activity to predict user intent. Some approaches are invasive, implanted directly into the cerebral cortex or using electrocorticography (ECoG), while others are non-invasive, using wearable caps with functional near-infrared spectroscopy (fNIRS), magnetoencephalography (MEG) or electroencephalography (EEG). Signal accuracy is typically higher for invasive BCIs than non-invasive ones, but recent advances in AI and machine learning are narrowing that gap."
+        },
+        {
+          "t": "p",
+          "x": "The way humans learn and the way machines learn are fundamentally different, and this is one of the key barriers BCIs must overcome. Neuroplasticity refers to the brain's ability to learn, adapt and change through experiential learning such as trial and error. AI machine learning, by contrast, is trained to find patterns in vast datasets to make predictions. Until now, BCI training using motor imagery has leaned toward either a user-centered or a decoder-centered approach, but the researchers say they have created the first unified learning framework in which the user and decoder adapt simultaneously within a single learning loop."
+        },
+        {
+          "t": "p",
+          "x": "At the core of this unified learning framework is a closed-loop system that combines a decoder with a sample-wise reweighting algorithm and sensory guidance for the user delivered through tactile stimulation. It adapts in both directions, reducing noise and improving accuracy. In an experiment involving 31 healthy adults (13 men, 18 women), the method achieved an average accuracy of 77.5% for two-dimensional cursor control and 86% for one-dimensional cursor control."
+        },
+        {
+          "t": "p",
+          "x": "The researchers concluded in the paper that “by combining reinforcement-learning-based neuroplasticity with adaptive algorithm optimization, this framework elevates BCI training from a passive calibration step to an active stage in which humans and machines learn together, enabling practical and scalable neural interfaces for communication and rehabilitation.” This proof of concept could offer new hope for people who have lost the ability to move or speak."
+        }
+      ]
+    },
+    "science/science-icm-math": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At the International Congress of Mathematicians (ICM) in Philadelphia on July 26, 2026, the podcast The Joy of Why recorded a special live episode. Hosts Janna Levin and Steven Strogatz spoke with three mathematicians about AI's impact on mathematics: Akshay Venkatesh of the Institute for Advanced Study, Ravi Vakil, a Stanford professor and president of the American Mathematical Society, and Alex Kontorovich of Rutgers University."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Lede-LOGO-scaled.jpg",
+          "cap": "Chanelle Nibbelink for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "The panelists agreed that recent AI achievements, such as International Mathematical Olympiad medals, should be seen as a 'proof of concept' rather than a superhuman feat. Vakil said that a model getting the same type of problem right for the seventh time is like a student solving the same problem seven times, which becomes less interesting each time."
+        },
+        {
+          "t": "p",
+          "x": "Venkatesh redefined mathematical research as the act of crafting a story rather than producing proofs. He explained that mathematicians search unknown territory for 'richness' and construct interesting stories for their peers. Citing Fermat's Last Theorem, Vakil added that major mathematical advances usually follow this kind of narrative structure, since centuries of accumulated insight built a 'dramatic bridge' between different ways of thinking."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Ravi-Vakil-2cr-Rod-Searcey.webp",
+          "cap": "Ravi Vakil"
+        },
+        {
+          "t": "p",
+          "x": "The panelists also shared concerns that a flood of AI-generated proofs could overwhelm journals' verification systems. Kontorovich noted that even if AI succeeds on just 1% of 1,000 problems, that could yield about 10 papers a year, an output comparable to a quite productive research career by traditional standards. Still, he made clear that quantity is fundamentally different from quality or insight."
+        },
+        {
+          "t": "p",
+          "x": "Vakil worried that if students finish assignments with AI instead of grappling with difficulty, exam score distributions could become 'polarized.' Kontorovich compared it to a gym, noting that using technology to build understanding is different from using technology to replace actual training, and stressed that frustration itself builds the mental endurance needed for difficult intellectual work."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Alex-Kontorovich.webp",
+          "cap": "Alex Kontorovich"
+        },
+        {
+          "t": "p",
+          "x": "Vakil said he was concerned about an anti-intellectual trend in which advances in AI are used as an excuse to cut graduate programs and science education budgets, noting that this erosion was already underway regardless of AI. Venkatesh and Vakil said they have reintroduced interviews into graduate and postdoctoral admissions to gauge actual understanding rather than AI-assisted output."
+        },
+        {
+          "t": "p",
+          "x": "Kontorovich predicted that AI companies could lose interest in math problems once the initial publicity payoff fades, leaving the math community with only the tools that are actually useful. Vakil said math majors often find jobs in fields that “don't even exist yet,” adding that mathematical training builds a way of thinking that prepares people for an unknowable future."
+        }
+      ]
+    },
+    "science/science-physicist-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sarah Demers, chair of the physics department at Yale University, believes large language models could either help or harm her field. In July 2026, the US Department of Energy decided to fund 278 projects as part of its Genesis Mission to embed AI into the scientific research process, including one project using AI to search for an extremely rare particle transformation, in which a muon converts into an electron, in the Mu2e experiment at Fermi National Accelerator Laboratory near Chicago."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Lede-scaled.webp",
+          "cap": "Sarah Demers, who is co-writing an AI-related policy statement, says she has never typed anything into Claude or ChatGPT. Karen Dias for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "“We have a lot of knobs we can turn to optimize an experiment,” said Demers, who is involved in the Mu2e research. “Things like how long to keep the magnetic field on, how strong to make it, where to place the target, which systems need to be running.” She said tuning these experimental settings can sometimes feel more like art than science, and that having AI fill that space feels “like a gift from the gods.”"
+        },
+        {
+          "t": "p",
+          "x": "But Demers, who is leading the drafting of the American Physical Society's (APS) AI policy statement, does not welcome AI in her own work or in other parts of her life. One of her concerns is that popular large language models are trained on datasets full of other people's intellectual property, including her own writing, without properly crediting sources. “The question of what physics is, and what remains unchanging in the practice of physics, doesn't change just because AI has arrived,” she said. “There's value in confronting that answer and putting it into words.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demers-chat-cr-Karen-Dias.webp",
+          "cap": "Demers (left) talks with colleagues and students at Yale. Karen Dias for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Demers says the theoretical side of particle physics is changing the fastest. That's because the latest large language models greatly speed up calculation, which is changing the very skills needed to solve problems or answer questions. Just as past physics PhD programs once required reading German-language literature, she said some skills may become unnecessary going forward, and she is watching with an open mind."
+        },
+        {
+          "t": "p",
+          "x": "On the experimental side, things are still at the stage of exploring possibilities. The ATLAS experiment has to reconstruct how particles interact with the detector from output across hundreds of millions of electronic channels, and the data format is notoriously difficult to work with. Coding assistance tools have the potential to speed up analysis by cleaning up data or drafting data access frameworks. She explained that it's now possible to revive old experimental data to answer new questions."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demers-chair-cr-Karen-Dias-1.webp",
+          "cap": "Demers in her lab at Yale. In 2019, she published a book about physics and dance with fellow professor and former New York City Ballet dancer Emily Coates. Karen Dias for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "While Demers shares concerns about intellectual property and sourcing, she said some people get excited by the sense that “the aura of every thinker surrounds you the moment you start typing,” calling it “both deeply wrong and deeply amazing.” She said the point of broadest agreement in academia is the principle that a physicist whose name appears on a paper must take responsibility for its content."
+        },
+        {
+          "t": "p",
+          "x": "Demers said she herself has never typed anything into Claude or ChatGPT. But as department chair and chair of the APS Panel on Public Affairs, she feels responsible for understanding the trend and so reads a lot of related content and papers. She added that her own research group, which receives Genesis Mission funding to embed AI agents in the Mu2e experiment, is actually among those pushing the latest trend forward in the field."
+        }
+      ]
+    },
+    "science/science-polymer": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at Tohoku University's Advanced Institute for Materials Research (WPI-AIMR) identified the key bottlenecks blocking AI-driven polymer development and proposed a system that links multiple tools, including polymer databases, prediction models, AI agents and automated labs, into one. The findings were published in the journal JACS Au."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/empowering-polymeric-m.jpg",
+          "cap": "A hierarchical, integrated workflow underpinning data-driven polymer innovation."
+        },
+        {
+          "t": "p",
+          "x": "The system features a self-running closed-loop workflow with the potential to cut time, cost and environmental burden. The research team had previously studied how to use closed-loop AI systems and large databases to improve the search for energy materials."
+        },
+        {
+          "t": "p",
+          "x": "Plastics, the most common polymers, are used not only in everyday items but also in biomedical fields such as implants and drug delivery. However, the interactions between polymers and constantly changing, complex biological systems are difficult to understand without a solid strategy. Distinguished Professor Hao Li said, “Conventional trial-and-error polymer development is slow, resource-intensive and produces a lot of waste, and it typically takes several years to bring an improved material to market.” He added, “If the proposed ecosystem is realized, it will be possible to rapidly develop high-performance, sustainable polymers while reducing costly experimental failures.”"
+        },
+        {
+          "t": "p",
+          "x": "This approach translates into practical benefits such as safer high-energy-density batteries for electric vehicles, improved biomedical materials, more eco-friendly degradable plastics and more efficient water-treatment membranes. It also reduces the lab resources and material waste generated by repeated, blind trial and error, aligning with global carbon-neutrality goals."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/empowering-polymeric-m-1.jpg",
+          "cap": "How three strands of polymer databases — experimental, computational and integrated platforms — underpin AI-driven materials discovery."
+        },
+        {
+          "t": "p",
+          "x": "The research team created a full blueprint for building an autonomous, closed-loop polymer discovery ecosystem. Most existing AI-driven polymer research has focused on individual prediction tasks in isolation, remaining at the level of open-ended proofs of concept that require constant upkeep rather than being connected to one another. This paper systematically identifies six structural flaws in current workflows — the lack of automatic feedback between databases, insufficient physical constraints in AI models, disconnected simulation modules, incomplete agent-based reasoning, automated labs that operate only in one direction, and poor interoperability between digital and experimental elements — and lays out a concrete roadmap to overcome them."
+        },
+        {
+          "t": "p",
+          "x": "The research team plans to keep developing this conceptual framework so that it can eventually support not only lab-scale experiments but also manufacturing processes in actual industrial settings."
+        }
+      ]
+    },
+    "science/science-af3-red": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-through-alpha.jpg",
+          "cap": "AlphaFold3 diffusion model. (A) Structure exploration by a conventional diffusion generative model. (B) This method, which widens exploration by adding a bias. Credit: Jun Ohnuki and Kei-ichi Okazaki, Institute for Molecular Science"
+        },
+        {
+          "t": "p",
+          "x": "A protein is a molecule in which amino acids link together like a chain and fold into a three-dimensional shape. When it receives a signal, such as a ligand binding, it changes shape to build or carry substances. This change of shape, the switch between conformational states, is the function itself."
+        },
+        {
+          "t": "p",
+          "x": "Figuring out a folded structure from the amino acid sequence alone was a long-standing hard problem. Google DeepMind's AlphaFold broke through that wall, and John Jumper and Demis Hassabis jointly received the 2024 Nobel Prize in Chemistry for it."
+        },
+        {
+          "t": "p",
+          "x": "The problem comes after that. Proteins work by moving between multiple shapes, but AlphaFold produces only a single structure for many proteins. This is where life-science applications, including drug design, hit a wall."
+        },
+        {
+          "t": "p",
+          "x": "A team led by Jun Ohnuki and Kei-ichi Okazaki at the Institute for Molecular Science (IMS), National Institutes of Natural Sciences, and SOKENDAI, the Graduate University for Advanced Studies, targeted this gap. The results were published in JACS Au."
+        },
+        {
+          "t": "p",
+          "x": "AlphaFold3 (AF3) predicts structure using a diffusion generative model, the same kind used for image generation. It first scatters atoms as noise, then removes that noise step by step, pushing atoms toward positions of high probability."
+        },
+        {
+          "t": "p",
+          "x": "In the language of physics, a position of high probability is one of low energy. That is also why AF3 always produces the same single structure: that structure's energy is lower than the alternatives."
+        },
+        {
+          "t": "p",
+          "x": "The team repeated AF3's predictions multiple times while embedding a bias term in the diffusion model that raises the energy whenever a new prediction gets close to the atomic coordinates of an earlier structure. This creates a force that pushes predictions apart from each other, and the model avoids places it has already visited."
+        },
+        {
+          "t": "p",
+          "x": "The method built this way is called AF3-ReD. It predicted conformational changes across several proteins, with the leading example being the F1β subunit of ATP synthase. F1β normally sits in an open shape at its ATP-binding site, then switches to a closed shape once ATP binds."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-through-alpha-1.jpg",
+          "cap": "F1β subunit structures predicted with AF3-ReD. Credit: Jun Ohnuki and Kei-ichi Okazaki, Institute for Molecular Science"
+        },
+        {
+          "t": "p",
+          "x": "Yet AF3 produces an open structure even for F1β with ATP bound. AF3-ReD surveyed a much wider range, covering the open and closed forms as well as the intermediate shapes in between."
+        },
+        {
+          "t": "p",
+          "x": "Its usefulness doesn't end at prediction. Using the resulting structures as starting points for molecular dynamics simulations also makes it possible to efficiently trace how a protein moves from one state to another."
+        },
+        {
+          "t": "p",
+          "x": "Diffusion generative models are used beyond AlphaFold to design new proteins and drug candidates. The team expects that adding this repulsion bias to those methods as well could enable a wider range of designs."
+        }
+      ]
+    },
+    "science/science-brain-guided-llm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/could-human-brain-acti.jpg",
+          "cap": "Neural activity flowing out of a human brain entering an artificial neural network and guiding its internal representations. Credits: Zhouchen Lin, Kai Du, Mingqing Xiao"
+        },
+        {
+          "t": "p",
+          "x": "Large language models (LLMs) that power conversational AI like ChatGPT and Gemini are now used worldwide. Some go beyond handling text to solve basic logic problems and answer questions with surprising accuracy."
+        },
+        {
+          "t": "p",
+          "x": "But it's not well understood how these models hold information when they produce a logical prediction, or how closely the activity patterns while processing a reasoning problem resemble the reasoning-related regions of the human brain."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Peking University and Tsinghua University compared brain activity while people reason with the numerical patterns in LLMs when they generate logical answers. The paper, published in Nature Machine Intelligence, concludes that the two represent deductive reasoning in similar but not identical ways. It also pointed to the possibility of steering an LLM's representations using brain imaging data."
+        },
+        {
+          "t": "p",
+          "x": "“This study grew out of two connected lines of thinking,” lead author Dr. Mingqing Xiao told Tech Xplore. “The first is on the neuroscience side. In the human brain, language and thought appear separable; the circuits that handle language processing and those involved in reasoning are largely distinct.”"
+        },
+        {
+          "t": "p",
+          "x": "“And yet large language models, which learn mainly from language, increasingly show cognitive abilities that resemble those of humans. That made us wonder whether these models might actually be picking up, through language as a medium, some aspect of human cognition that goes beyond language itself.”"
+        },
+        {
+          "t": "p",
+          "x": "The second line is NeuroAI, an interdisciplinary field that combines neuroscience concepts or data with AI models to better understand both the brain and AI."
+        },
+        {
+          "t": "p",
+          "x": "“Several recent studies have found correlational alignment between the internal representations of AI models and the brain,” Xiao said. “That gave us a way to study the similarity, which led to the next question: can we move from correlation to guidance? Instead of using human neural signals only to measure similarity, could we intervene in the model with them to boost its ability?”"
+        },
+        {
+          "t": "p",
+          "x": "The material was a public fMRI dataset, recordings taken while human participants solved deductive reasoning problems. The team extracted signals from the relevant brain regions to use as brain representations supporting higher cognition, then fed the same language stimuli into 10 open-source LLMs ranging from 1.5 billion to 72 billion parameters to extract the activation values of internal units. They looked not just at language regions but also at regions known to be linked to human reasoning."
+        },
+        {
+          "t": "p",
+          "x": "The yardstick is neural predictivity, the standard metric in NeuroAI. It asks how well a model's internal representation, after a linear mapping, predicts the brain's representation. A higher value means the two representation spaces are closer together."
+        },
+        {
+          "t": "p",
+          "x": "They then built a brain-guided framework that steers an LLM's internal representations using brain activity patterns. Applying it to the 10 LLMs raised performance on tasks requiring deductive reasoning."
+        },
+        {
+          "t": "p",
+          "x": "“The most notable result isn't just that LLMs and the human brain are partially aligned in deductive reasoning,” Xiao said. “We were able to guide the model's internal representations with brain signals to boost task performance. This improvement generalized to some extent, and most importantly, it was complementary to the gains from existing language-based supervised learning.”"
+        },
+        {
+          "t": "p",
+          "x": "The plan going forward is to extend this to other cognitive abilities and other methods of neural recording. “There are abilities that are hard to teach explicitly through language, and representation guidance may offer something language can't. fMRI, meanwhile, has excellent spatial information but a slow signal. A method with higher temporal resolution would let us look at this in finer detail.”"
+        }
+      ]
+    },
+    "science/science-co-scientist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The story of AI doing research for us has mostly stayed inside a computer. This paper, “Accelerating Scientific Research with Gemini in the Real-World,” posted to arXiv on August 27, 2026, crosses that line and reports what happened in actual laboratories. It has 35 authors."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2608.26701v1/CoScientist_Fig1.png",
+          "cap": "Figure 1: Overview of the expanded Co-Scientist architecture and its scientific contributions"
+        },
+        {
+          "t": "p",
+          "x": "The subject is Co-Scientist, a Gemini-based multi-agent system designed to connect the beginning and end of research, from generating hypotheses through experiments to writing the paper. This version moves beyond a stage that only produced hypotheses inside computation, toward a research partner with a foothold in execution."
+        },
+        {
+          "t": "p",
+          "x": "Validation took place across three fields: materials science, biology and computer science. In each field, the team ran a closed-loop research workflow that goes from hypothesis to experiment and back to hypothesis."
+        },
+        {
+          "t": "p",
+          "x": "In materials science, it designed a safe precursor route for making MXene, connected to a semi-automated chemical vapor deposition (CVD) reactor. Actually synthesizing it produced a layered two-dimensional material whose core structure resembled the Ti3C2Tx MXene lattice. Confirming the atomic structure will need further experiments."
+        },
+        {
+          "t": "p",
+          "x": "In the same field, using Gemini 3 Deep Think, it generated growth recipes tailored to a lab's constraints within minutes. That produced monolayer MoS2, MoSe2 and WS2 semiconductors grown in a single attempt."
+        },
+        {
+          "t": "p",
+          "x": "In biology, it predicted an emergent swarming phenotype that engineered E. coli show along an IPTG concentration gradient. Even with sparse image data, the prediction matched the magnitude of as-yet-unpublished wet-lab morphology measurements."
+        },
+        {
+          "t": "p",
+          "x": "In computer science, it discovered on its own a scaling architecture that increases computation at inference time. This architecture outperformed six frontier models on the Hard and Professional categories of HealthBench, and in blinded physician evaluations, the likelihood of clinical harm actually decreased."
+        },
+        {
+          "t": "p",
+          "x": "The degree of autonomy differed by field. In materials science, human experimenters carried out and adjusted the synthesis recipes the AI designed; in biology, expert feedback was layered repeatedly onto the computational pipeline the AI built."
+        },
+        {
+          "t": "p",
+          "x": "Inside, the system resembles a meeting of agents with divided roles. Even at the ideation stage alone, separate agents handle generation, ethical review, reflection, ranking and evolution, putting forward hypotheses, tearing each other down, and refining them through crossover and mutation."
+        },
+        {
+          "t": "p",
+          "x": "The final gate is the paper. For a manuscript Co-Scientist wrote start to finish, 30 domain experts scored 450 reviews under double-blind conditions. Turning on the reliability module reduced hallucination and plagiarism and raised research safety."
+        },
+        {
+          "t": "p",
+          "x": "The researchers frame these results as progress toward closed-loop, multi-agent scientific AI, a system they say could raise the actual pace of scientific discovery."
+        }
+      ]
+    },
+    "science/science-core-mantle-belts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/six-unusual-structures.jpg",
+          "cap": "Global distribution of PKIKP entry and exit points at the core-mantle boundary used in the PKP precursor wave analysis. Credit: Journal of Geophysical Research: Solid Earth (2026)"
+        },
+        {
+          "t": "p",
+          "x": "The boundary where Earth's core meets the deep mantle sits 2,900 km (1,800 miles) below the surface. With no way to drill down to it, the only option is to infer it from the seismic waves recorded during earthquakes."
+        },
+        {
+          "t": "p",
+          "x": "In a new study published in JGR Solid Earth, researchers used deep learning to analyze a specific seismic wave at scale. The irregular structure of the core-mantle boundary (CMB), previously visible only as scattered fragments, turned out to form six continuous belts."
+        },
+        {
+          "t": "p",
+          "x": "The signal they used is the PKP precursor wave, a faint wave that typically arrives a few seconds ahead of stronger seismic waves. Because the CMB governs heat flow, mantle circulation and the rise of volcanic plumes, looking at this region helps in understanding the dynamics and evolution of Earth's deep interior."
+        },
+        {
+          "t": "p",
+          "x": "The boundary holds large structures, but also many small, hidden masses that differ in temperature or chemical composition. PKP precursor waves are especially good at picking out that kind of detail."
+        },
+        {
+          "t": "p",
+          "x": "The problem is that the signal is weak and hard to pick out of seismic records by eye. Techniques exist to boost the signal-to-noise ratio, filter out weak signals and locate scattering points, but handling millions of records consistently required a way to scale up. Doing it by hand would take forever."
+        },
+        {
+          "t": "p",
+          "x": "Last year, another team used a neural network to find roughly 30,000 PKP precursor waves in seismic data, though the approach relied heavily on dense seismometer arrays, which kept its coverage narrow. Even so, it confirmed that deep learning could work."
+        },
+        {
+          "t": "p",
+          "x": "This team fed more than 2 million seismic records collected worldwide from 1990 to 2024 into a deep learning system. It filtered out low-quality records and classified whether a waveform contained a precursor wave. Accuracy was improved by having people repeatedly check and correct samples."
+        },
+        {
+          "t": "p",
+          "x": "The output is two probability maps. One shows how consistently precursor waves appear, and the other shows where strong scatterers are likely located."
+        },
+        {
+          "t": "p",
+          "x": "The system found 174,929 PKP precursor waves in total, roughly ten times the combined global precursor data available before. Observations that had stood apart on their own linked up into broad, continuous belts. Six regions emerged this way: the North Atlantic, northern Eurasia, the South Atlantic, southern Africa, the Pacific and the area around Antarctica."
+        },
+        {
+          "t": "p",
+          "x": "The researchers say it is the spatially densest and most complete CMB scattering map produced so far. Several of the high-probability scattering regions overlap with separately known ultra-low velocity zones, which supports the result. Their interpretation is that the lowermost mantle was shaped by a mix of long-sunken slabs, chemical separation and localized melting."
+        },
+        {
+          "t": "p",
+          "x": "They were also clear about the limits. The map shows regions where scattering is likely, not the precise outline of a hidden structure. A precursor wave from a single station cannot pin down a scatterer's location, and because seismometers and earthquakes are not evenly distributed, coverage is uneven as well. Combining this catalog with other types of seismic waves and using dense arrays could sharpen the picture further."
+        },
+        {
+          "t": "p",
+          "x": "The authors wrote: “As the catalog continues to grow, high-resolution spatiotemporal data will provide a solid foundation for characterizing the spatial and temporal variability of CMB heterogeneity, refine fine-scale structural models of the lowermost mantle, and offer increasingly rich constraints for understanding the geodynamic state of Earth's deep interior.”"
+        }
+      ]
+    },
+    "science/science-aifs-dday-forecast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/war-drama-pressure-dep.jpg",
+          "cap": "An experimental reconstruction of D-Day weather: surface pressure (left) and cloud cover (right). The two storms over the North Atlantic and North Sea that troubled the forecasters are clearly visible. Credit: ECMWF reconstruction"
+        },
+        {
+          "t": "p",
+          "x": "The film “Pressure” covers the forecast that meteorologist James Stagg had to present to Eisenhower in June 1944. Whether more than 150,000 troops would land hinged on that single call."
+        },
+        {
+          "t": "p",
+          "x": "Andrew Charlton-Perez and Ed Hawkins digitized the observational records from that time and fed them into today's forecasting systems. Would today's technology have gotten that day right?"
+        },
+        {
+          "t": "p",
+          "x": "The answer is half yes. A modern AI forecast would have supported the decision to delay the landing from June 5, but it underestimated how bad conditions actually were on the 6th."
+        },
+        {
+          "t": "p",
+          "x": "The starting point itself is unexpected. Today's researchers actually have less atmospheric observation data from that time than Stagg did. Much of the paper record still hasn't been digitized, and the work of transcribing and sharing it continues today."
+        },
+        {
+          "t": "p",
+          "x": "The research team combined data assimilation techniques with modern weather models to reconstruct the weather around the landing in full."
+        },
+        {
+          "t": "p",
+          "x": "If satellites and modern models had existed in 1944, the question Stagg's team would have focused on is clear: how a low-pressure system over the North Sea would develop, and whether the clouds that came with it would block the landing."
+        },
+        {
+          "t": "p",
+          "x": "The two camps in the film represent the two branches of forecasting directly. The team combining the methods of Sverre Petterssen and Geoffrey Wolfe tracked the physical development of weather systems, while Irving Krick's team relied on an analog approach that matched past patterns. Stagg had to merge the two conflicting forecasts into a single, simple directive."
+        },
+        {
+          "t": "p",
+          "x": "Today's forecasting grew out of the Petterssen side's physical models. Since the 1980s, forecast skill has gained about a day of accuracy every decade."
+        },
+        {
+          "t": "p",
+          "x": "After Ed Lorenz defined “the atmosphere is a chaotic system” in 1963, the nature of forecasting changed too. Ensemble forecasting, which gives the probabilities of several possibilities instead of a single answer, became standard."
+        },
+        {
+          "t": "p",
+          "x": "More than ten AI weather models are running today. In that they're neural networks trained on 40 years of observed weather maps, their underlying principle resembles Krick's analog approach."
+        },
+        {
+          "t": "p",
+          "x": "The model the research team tested was AIFS, built by the European Centre for Medium-Range Weather Forecasts. It caught the North Sea storm, but there was significant uncertainty about conditions on the Normandy beaches."
+        },
+        {
+          "t": "p",
+          "x": "AIFS pushed the earlier storm into the North Sea faster than it actually moved. The picture Stagg would have been handed as of June 5 was “a 30% chance of strong winds on the beaches and considerable cloud.” That means the call would still have been difficult even with modern tools in hand."
+        },
+        {
+          "t": "p",
+          "x": "Forecasting going forward is heading toward blending physical models with AI models. But questioning extreme-weather forecasts and adding context remains a human job. What Eisenhower needed was Stagg's experience and intuition."
+        }
+      ]
+    },
+    "science/science-benchmirt-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1787859394-benchmirt-blog-draft-latest-google-docs-image-1-1.png",
+          "cap": "BenchMIRT. Credit: Ai2"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 has released BenchMIRT, a method that breaks a benchmark down item by item to audit what the test is actually measuring."
+        },
+        {
+          "t": "p",
+          "x": "Even benchmarks built to measure a single thing, like safety or reasoning, actually rely on several abilities. BBQ is one example: tracking relationships and reasoning from evidence both come into play."
+        },
+        {
+          "t": "p",
+          "x": "In benchmarks like WildJailbreak, different clusters of items within the same benchmark can measure different abilities. That makes an aggregate score confusing to read."
+        },
+        {
+          "t": "p",
+          "x": "BenchMIRT looks at performance on individual items and “estimates which underlying ability is most closely tied to getting that item right.”"
+        },
+        {
+          "t": "p",
+          "x": "It's grounded in item response theory from psychometrics, starting from the premise that not every item reveals a test-taker's ability equally."
+        },
+        {
+          "t": "p",
+          "x": "Where prior research and Ai2's Fluid Benchmarking used one-dimensional item response theory, BenchMIRT expands it to multiple dimensions to separate out different abilities."
+        },
+        {
+          "t": "p",
+          "x": "The training data came from 100 LLMs answering roughly 34,000 items across 16 benchmarks, mixing six reasoning benchmarks (MMLU-Pro, GPQA, MATH, BBH) with 10 safety benchmarks."
+        },
+        {
+          "t": "p",
+          "x": "Without being told in advance, two axes emerged on their own: safety and general reasoning ability. They held steady across repeated analyses."
+        },
+        {
+          "t": "p",
+          "x": "BBQ, built to measure social bias and safety, “aligned far more strongly with general reasoning ability.” A low score reflects difficulty with reasoning, not a safety problem."
+        },
+        {
+          "t": "p",
+          "x": "WMDP, which tests dangerous dual-use knowledge, also tracked more closely with reasoning than with safety. The higher the reasoning ability, the lower the WMDP score — because declining to share dangerous knowledge is the correct answer."
+        },
+        {
+          "t": "p",
+          "x": "HarmBench shows the mixed signal directly. Standard and contextual items align with safety, while copyright items, like requests for song lyrics, align with general reasoning."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1787859904-benchmirt-blog-draft-latest-google-docs-image-3.png",
+          "cap": "Difficulty and discrimination for HarmBench items. Dimension 0 is safety, dimension 1 is general reasoning. Credit: Ai2"
+        },
+        {
+          "t": "p",
+          "x": "This is where the usefulness comes in. Keeping just 10% of the items still kept ability measurement at almost the same level as using the full set."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1787859966-benchmirt-blog-draft-latest-google-docs-image-4-1.png",
+          "cap": "What each benchmark was found to measure, according to BenchMIRT. Credit: Ai2"
+        },
+        {
+          "t": "p",
+          "x": "Accuracy at predicting performance on items never seen before was 79%, ahead of the simple baseline of 70%."
+        },
+        {
+          "t": "p",
+          "x": "There were limitations too. The analysis covers models released through March 2025, and the dimensions that emerge depend on which benchmarks are chosen. Different combinations reveal different abilities."
+        },
+        {
+          "t": "p",
+          "x": "There's also a risk that item-level information could be used to defeat a benchmark. Even so, the researchers wrote that “transparency about what benchmark items actually measure is worth that risk.”"
+        }
+      ]
     }
   }
 }

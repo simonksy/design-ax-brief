@@ -5225,6 +5225,461 @@
           "x": "The RTX Spark is set to launch in October. With an RTX Blackwell GPU delivering 1 petaflop of performance, up to 128GB of unified memory, and a 20-core Grace CPU, it spans everything from thin laptops to small desktops meant to run agents around the clock. Lenovo and Acer have unveiled new devices, and game studios such as EA, Embark, and Ubisoft are also lending support."
         }
       ]
+    },
+    "design/design-ai-pcb-kicad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://hackaday.com/wp-content/uploads/2026/09/openai_gpt-6_astra_kicad_showcase.jpg",
+          "cap": "Top image: from OpenAI's GPT-6 Astra KiCad video"
+        },
+        {
+          "t": "p",
+          "x": "When OpenAI released GPT-6 Astra, it flatly claimed the model designs complete circuit boards in KiCad. Feed it a schematic, the claim goes, and out comes a fully routed PCB that could, in theory, go straight to manufacturing."
+        },
+        {
+          "t": "p",
+          "x": "That naturally raises a question: is this a trick that only works under tightly controlled conditions, like most auto-routing tools, or is it something more? A recent [EEBench] blog post put OpenAI's claim to the test."
+        },
+        {
+          "t": "p",
+          "x": "Back in 2024, Hackaday also looked at how LLMs handled circuit board design starting from a schematic. The conclusion back then was that you'd be better off doing it all by hand."
+        },
+        {
+          "t": "p",
+          "x": "[EEBench] is an electrical engineering agent benchmark that measures how much useful hardware engineering work so-called AI agents can actually do. As the methodology makes clear, taking a schematic to a fully placed and routed PCB is just one step among many."
+        },
+        {
+          "t": "p",
+          "x": "In the end, GPT-6 Astra scored 69.3% (±10%) on this benchmark. That puts it roughly in the same range as Claude Opus 5, while being cheaper and faster."
+        },
+        {
+          "t": "p",
+          "x": "One thing worth noting: [EEBench] is run by the developers of Atopile. Atopile is a system for building PCBs in KiCad through code, and it's focused on situations where AI agents are doing the work."
+        },
+        {
+          "t": "p",
+          "x": "Even so, the blog post makes clear there's a long way to go before hardware engineers get a pink slip and start job hunting."
+        },
+        {
+          "t": "p",
+          "x": "Pulling a quick prototype board out of vibe coding can be a decent shortcut. But unless it's a one-off project board, most boards have to handle all sorts of edge cases, get reviewed by multiple independent engineers, and pass demanding tests before going into mass production."
+        }
+      ]
+    },
+    "design/design-anti-ai-designs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As AI pushes into more corners of daily life, fatigue and cynicism toward the technology grow alongside it. Dezeen gathered five designs that push back against the AI boom."
+        },
+        {
+          "t": "p",
+          "x": "AI has made controversial headlines around the world through mass video surveillance, data scraping and deepfake fraud. In response, designers are working out how to protect people from its more sinister side. Some of the objects are meant to spark conversation, but as the technology advances they may soon become very precious designs."
+        },
+        {
+          "t": "img",
+          "src": "https://static.dezeen.com/uploads/2026/08/digital-camouflage-shirt-ai-video-surveillance-simon-weckert_dezeen_2364_sq_6.jpg",
+          "cap": "Digital Camouflage by Simon Weckert. Photo: Simon Weckert"
+        },
+        {
+          "t": "p",
+          "x": "Designer Simon Weckert made a shirt with a bold pattern that flips the conditions an AI video system uses to recognise a person. Digital Camouflage was made in response to an AI video surveillance pilot at Berlin's Kottbusser Tor station, and it erases the wearer from the camera. The pattern was generated through an AI trial-and-error process the designer calls an “adversarial loop”."
+        },
+        {
+          "t": "p",
+          "x": "Weckert explains it this way: “It had to be that way because the blind spots of machines aren't intuitive to humans. You can't design against machine perception with your eyes — only the machine can tell you what it can't see.”"
+        },
+        {
+          "t": "img",
+          "src": "https://static.dezeen.com/uploads/2026/09/quartz-ring-ai_dezeen_2364_col_0.jpg",
+          "cap": "Quartz by Modem and Retinaa"
+        },
+        {
+          "t": "p",
+          "x": "Quartz is a ring concept that proves a person is human. Design studios Modem and Retinaa made it to counter fraud in which AI deepfakes impersonate someone else. When two people touch rings together in a handshake, an encrypted bond is formed, which later proves each other's identity when they meet online or by phone."
+        },
+        {
+          "t": "p",
+          "x": "The technology used already exists: finger vein biometrics to identify the wearer, NFC to form a connection between rings, and cryptography to verify both identities remotely. Fitting it into a ring would still require miniaturisation and refined power use."
+        },
+        {
+          "t": "img",
+          "src": "https://static.dezeen.com/uploads/2026/09/decoy-font-mixfont_dezeen_2364_col_0.jpg",
+          "cap": "Decoy Font by Mixfont"
+        },
+        {
+          "t": "p",
+          "x": "Decoy Font uses an optical illusion. Two overlaid messages are both readable by a person, but chatbots and large language models such as ChatGPT read only one. Mixfont made it for people trying to avoid data scraping, and to open a conversation about AI and public trust."
+        },
+        {
+          "t": "p",
+          "x": "Founder Eric Lu told Dezeen: “It started as a way to look at where AI and typography meet, but there was also an intention to raise awareness of AI's growing reach and capability. The response to the font shows that many people feel AI fatigue strongly and want ways to protect themselves from AI in their lives.”"
+        },
+        {
+          "t": "p",
+          "x": "The Manifesto Collection by Italian fashion startup Cap_able is colourfully patterned knitwear designed to fool facial recognition software in real time. Tested against the YOLO object detection system, people wearing the sweaters, T-shirts, trousers and dresses were either not detected at all, or were identified as animals such as dogs, zebras or giraffes printed on the clothing."
+        },
+        {
+          "t": "img",
+          "src": "https://static.dezeen.com/uploads/2019/07/incognito-noma-studio-design_dezeen_2364_sq-1.jpg",
+          "cap": "Incognito by Ewa Nowak"
+        },
+        {
+          "t": "p",
+          "x": "Incognito is also a wearable object made to protest facial recognition technology. Polish designer Ewa Nowak created a mask meant to keep cameras and AI systems from reading a face, while still working as facial jewellery. Geometric brass shapes are fixed to long wires bent to follow the contours of the face."
+        },
+        {
+          "t": "p",
+          "x": "Nowak says: “Cameras can recognise our age, mood and gender, and match them precisely against a database. The idea of disappearing into a crowd no longer exists.” It is an attempt to reclaim the anonymity she feels has been taken away by facial recognition cameras in public spaces."
+        }
+      ]
+    },
+    "design/design-astra-ad-backlash": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "1QNsdr-Qx_I"
+        },
+        {
+          "t": "p",
+          "x": "Chat-GPT-6 Astra is OpenAI's latest agentic AI model, built to handle complex tasks on its own, from game development and 3D design to ordering delivery food. If a computer can do it, Astra can do it too — and quickly."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/97RuLsDbqqVEA7aki63FzL-1920-80.jpg",
+          "cap": "ChatGPT-6 Astra"
+        },
+        {
+          "t": "p",
+          "x": "The model has already weathered one round of controversy. Testing revealed that it could hide its reasoning process and probe unknown software vulnerabilities. After the kind of self-imposed delay that has become an obligatory step in frontier model marketing, Astra was released to the world — or more precisely, to some paying subscribers. The ad does nothing to make that picture look less dystopian."
+        },
+        {
+          "t": "p",
+          "x": "Want to build a game, or 3D print a rocket as a keepsake to decorate a lonely living room? Just ask Astra. It's one of the use cases shown in the ad above."
+        },
+        {
+          "t": "p",
+          "x": "In the ad, Astra draws a rocket, turns it into a 3D model using the free open-source 3D modelling software Blender, and puts it into a video game — all while ordering beef and rice for dinner."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI promotes GPT-6 Astra as the world's most intelligent and aligned AI model, describing it as “a new state of the art in computer use, browsing, software engineering, cybersecurity, science and professional work.”"
+        },
+        {
+          "t": "p",
+          "x": "Instant-game startup Playco says it built themed prototype games with almost no human hands-on work, cutting manual edits during prototyping by 50%. A demo on OpenAI's website also shows GPT-6 Astra modelling a house in Blender and turning it into a walkable scene in Unreal Engine 5, described as helping “designers and clients review the layout and experience the space before it's built.”"
+        },
+        {
+          "t": "p",
+          "x": "Some see Astra as a game changer that makes 3D modelling and game development workflows fast and easy. Others worry it could become a wholesale piracy machine — one capable of copying entire game concepts and selling them off as its own."
+        },
+        {
+          "t": "p",
+          "x": "Even AI-friendly voices are sounding warnings. The demos are impressive, but Astra does not outperform Anthropic's Claude Fable on every benchmark, and the high token cost of large context requests could hold back adoption."
+        },
+        {
+          "t": "p",
+          "x": "Back to the ad itself: the video has stirred controversy among longtime Blender users. Few welcome the fact that community-driven open-source software, which has long stood on the side of independent artists, is now being used to promote a message that says artists aren't needed anymore. The artist who painted the puma on the Blender 5.2 splash screen said it was “disgusting” to see their work appear in an OpenAI ad."
+        },
+        {
+          "t": "p",
+          "x": "Even setting aside the software issue, there is a hard-to-avoid bleakness to the future of OpenAI depicted in the ad."
+        },
+        {
+          "t": "p",
+          "x": "The ad is staged like MIT's Put That There demo, a pioneering project in computer interaction — that scene appears in the opening. But what follows implies that the future, or even the present, of “creative labour” is one person sitting alone in a room talking to a screen, with even the few remaining obligations to face other humans gone. Does the fashion designer in the ad even have a friend to play tennis with, or would she send ChatGPT onto the court in her place?"
+        }
+      ]
+    },
+    "design/design-figma-security-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://res.infoq.com/news/2026/09/figma-security-agents/en/headerimage/generatedHeaderImage-1787900821229.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Figma's engineering team has shared how it built an AI agent to support its security team. The agent investigates alerts, digs through past incidents, checks internal systems, and even prepares code fixes. Because it learns from past investigations, repetitive work has dropped, and complex alerts are resolved about 70% faster. Human review and strict controls remain in place."
+        },
+        {
+          "t": "img",
+          "src": "https://imgopt.infoq.com/fit-in/3000x4000/filters:quality(85)/filters:no_upscale()/news/2026/09/figma-security-agents/en/resources/1figma-1787900967673.jpg",
+          "cap": "Source: Figma blog"
+        },
+        {
+          "t": "p",
+          "x": "The system is built on Panther SIEM. While investigating alerts, it scans audit logs from AWS, Okta, GitHub, GCP and osquery, an open-source tool that queries a computer's security and system information using SQL. It also queries more than 100 other sources and opens pull requests."
+        },
+        {
+          "t": "p",
+          "x": "Resolution time for complex alerts dropped by about 70%, and downgrading the severity of some alerts cut on-call pages by 20%. The authors are Matthew Sullivan, a former Figma security engineer now at Nition, and Brad Girardeau, Figma's security engineering manager."
+        },
+        {
+          "t": "p",
+          "x": "“Most of the investigation happens in the triage agent, which uses models like Claude Opus. It receives the full Slack thread history as context, along with its own steering memory and the range of tools a security on-call engineer would normally need during triage.”"
+        },
+        {
+          "t": "p",
+          "x": "The agent system searches past alerts and digs into Panther data using AWS Bedrock Knowledge Bases, Amazon Kendra, Tines and Snowflake-based tools."
+        },
+        {
+          "t": "p",
+          "x": "“Memory was the single biggest factor in making the system useful over time. There are several kinds, and keeping them separate rather than mixed together was important.”"
+        },
+        {
+          "t": "p",
+          "x": "Memory is split into three strands: past alerts, behavioural guidelines, and learned database structures. Safeguards are built directly into the tools. Pull requests the agent opens default to draft, and prompts are written so sensitive data doesn't leak into public Slack channels."
+        },
+        {
+          "t": "p",
+          "x": "In a separate post, “How Figma stays ahead of vulnerabilities with agents,” the team said the agent found more than 100 previously unknown vulnerabilities, two of which were critical flaws existing tools had missed. The code reviewer reached 80% precision within a month. Adding a second review stage improved detection of known bugs by about 30%, and adding automated guidance cut some coding errors by about 50%."
+        },
+        {
+          "t": "p",
+          "x": "“We can't tell you exactly what to do. It depends on your company's size, the risks you face, and the feedback loops you already have running. But one lesson is to raise precision before recall. That order feels counterintuitive, because a backlog of past bugs can only measure recall, and does little to help with precision, which is actually what needs fixing first.”"
+        },
+        {
+          "t": "p",
+          "x": "As security teams hand more responsibility to agents, the question remains of where human approval fits in. Cloud security firm Wiz reported in “GhostApproval: A Trust Boundary Gap in AI Coding Assistants” that six AI coding assistants were fooled by malicious repositories while still showing users approval prompts that looked harmless."
+        },
+        {
+          "t": "p",
+          "x": "Figma acknowledges that its current agents aren't perfect — alongside noting that humans aren't perfect either. It isn't a matter of choosing one over the other; the conclusion is that the balance between automation and oversight is still being worked out."
+        }
+      ]
+    },
+    "design/design-photoshop-light-layer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/09/cover-phlearn.jpg.webp?itok=L-npyvnH"
+        },
+        {
+          "t": "video",
+          "yt": "LIGT37vPW9g"
+        },
+        {
+          "t": "p",
+          "x": "The Brightness/Contrast slider in Photoshop is gone. A new Light adjustment layer has taken its place, bringing Camera Raw controls directly into the main editor. Exposure and contrast, highlights and shadows, whites and blacks are gathered in one panel, and it behaves like a non-destructive version of the Camera Raw sliders many people already trust."
+        },
+        {
+          "t": "p",
+          "x": "After going through the layer, PHLEARN's Aaron Nace has a blunt recommendation: don't use the old Brightness/Contrast algorithm at all. The Light layer is the latest name to join a lineup that already includes Grain, Clarity, Dehaze and Color."
+        },
+        {
+          "t": "p",
+          "x": "If the old behaviour worked for you, double-click the Light layer, open the small hidden menu on the right of the properties panel, and switch the version to “Legacy.” Brightness/Contrast returns exactly as it was before. That means anyone who built a workflow around that tool loses nothing."
+        },
+        {
+          "t": "p",
+          "x": "The order of the sliders actually carries real weight here. The sequence Nace uses every time is exposure first, then whites and blacks, then highlights and shadows, with contrast last."
+        },
+        {
+          "t": "p",
+          "x": "He also stresses masking. Because a Light layer applies to the whole frame by default, he runs Select Subject on the background layer first and then creates the adjustment layer, so the selection automatically becomes the mask."
+        },
+        {
+          "t": "p",
+          "x": "From there, pressing Command or Control and I inverts the mask so only the background is adjusted — lowering exposure to push the subject forward, raising whites to bring back detail in the sky. The subject side repeats the same process in a second Light layer, keeping each adjustment separate and reversible at any time."
+        },
+        {
+          "t": "p",
+          "x": "The glow is where the tutorial earns its keep. Nace stacks a third Light layer, groups it with itself using Command or Control and G, then adds a mask to the group and paints a radial gradient behind the subject — one mask on the layer, one on the group. It's easy to miss why this double mask works just by reading the steps, so it's worth watching the hands move slowly through it."
+        },
+        {
+          "t": "p",
+          "x": "This change fits a trend Adobe has been following for a while. Camera Raw and Lightroom have long been home to exposure and tone work, and Photoshop has been absorbing the same controls, one by one, as editable layers. For anyone who shoots raw and processes there first before opening the file, the Light layer lets them keep the same mindset without switching tools mid-edit."
+        },
+        {
+          "t": "p",
+          "x": "The bigger payoff is the masking discipline itself. Splitting the image into subject and background to confine exposure and tone to specific areas follows the same logic as classic dodge and burn, and it carries over directly to any adjustment layer in the panel. Learn it on Light, and it pays off on Color, Curves and everything else."
+        },
+        {
+          "t": "p",
+          "x": "There's one quirk to prepare for. When you edit a layer below a Light layer, Photoshop briefly hides the Light layers above it, so you see the effect you're working on without interference. Nace demonstrates this with Grain — it looks like a bug, but Adobe built it that way on purpose."
+        },
+        {
+          "t": "p",
+          "x": "He also spends time on the Color layer, pulling temperature, tint and vibrance sliders into the same non-destructive workflow to warm up the image and nudge the tint slightly toward green to match the tones already in the scene."
+        }
+      ]
+    },
+    "design/design-ai-product-team-strategy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*PZBimY3u6oqDrffnKL8pSw.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The era of blindly pushing AI tools on people is coming to an end. After interviewing designers and developers and running a survey for a 2025 master's thesis, the author concluded that companies know AI is strategically important and that employees are already using it, but that almost none have a real adoption strategy. After spending three days at UXDX EMEA in Berlin last May, the author found that conclusion held up again."
+        },
+        {
+          "t": "p",
+          "x": "The pattern can be summed up this way. Borrowing Gartner's terms, things have moved past the 'peak of inflated expectations' and into the 'trough of disillusionment'. In 2025, FOMO and a lack of perspective combined to hand out tools piecemeal. In 2026, companies are being forced to grow up as they run into ROI, security risk, and workflow friction. The shift is moving from chaotic individual adoption to structured, collective strategy."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/985/1*3AMNgAkV0ozj39fUGVMQQA.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Averages tell only half the story. Marcus Knight of N26 says the company-wide strategy was a single line: 'everyone use AI.' Modeling the questions a senior engineer used to ask at every handoff, he built a Claude Code skill called 'Sheldon', which checks whether a design file is ready to hand off before the engineer even opens it. It started as an experiment to 'clone' a colleague, but it saved time for both sides."
+        },
+        {
+          "t": "p",
+          "x": "The Designer Fund and Foundation Capital AI in Design 2026 report puts numbers to that gap. 73% of designers said pressure on output, quality, and speed has grown, but only 28% of leaders said their company had made any official change in response."
+        },
+        {
+          "t": "p",
+          "x": "Figma's 2026 report splits companies into four groups by adoption intent. In the 27% that are 'directive companies', AI use is pushed from the top down. In this group, the impact on productivity more than doubled, the impact on tools nearly doubled, and the impact on collaboration nearly tripled — the largest gains of any group. The tradeoff was that it took longer for the effects to show up."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*pwCZYMlAR6ffmjYT9oK45g.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The share of companies investing nothing at all in AI fell from 15% in 2024 to 4% in 2026. Fin, the company that renamed itself from Intercom, rebuilt its strategy, organization, and even its mission around AI. Co-founder Des Traynor said, 'what changed is just everything.' The company now has $400 million in revenue, $100 million of which comes from its AI agent, Fin. The analytics company Amplitude had all 700 employees take a week off to build things with AI, in what it called AI Week. Now 97.5% of its staff use Claude in their daily work."
+        },
+        {
+          "t": "p",
+          "x": "Role boundaries are blurring too. At Fin, every designer is expected to ship something to production. According to Figma, 56% of non-designers already do some form of design work, and in the AI in Design 2026 report, 65% of designers said they are taking on more product or engineering responsibility. Rory Madden, co-creator of UXDX, thinks team sizes could shrink from the usual 8-10 specialists to 2-3 generalists. A third of respondents said roles and ownership have gotten messier than before."
+        }
+      ]
+    },
+    "design/design-figma-make-claude-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/EarthLinkNetwork/blog_public/main/images/series-007/hero-devto-en.png"
+        },
+        {
+          "t": "p",
+          "x": "From February to April 2026, the author built four web apps. All four started from the same place: a code bundle spat out by Figma Make. A beauty curation site, a gift-tracking app, a doll album, and a UI mockup for an AI dev tool. Opening the repo, each one already 'looked done.' The author went back through config files and commit history to work out what it actually took to hand each result off to Claude Code and keep developing it."
+        },
+        {
+          "t": "p",
+          "x": "A Figma Make output runs as-is the moment you type npm run dev. Its character is spelled out in the README: 'the source of truth lives in Figma.' That means the code is just a projection of the design, not the source of truth itself. package.json is the same way — versions like next 15.3.4 and react 19.1.0 are pinned with no caret. As a snapshot taken at generation time, it reproduces well, but left alone, nobody updates it and it just ages."
+        },
+        {
+          "t": "p",
+          "x": "There is no data layer at all. The screens look nice, but behind them it's all mock data, with no storage and no auth. 'It runs, but there's no foundation to build on.' That was the shared starting point across all four repos."
+        },
+        {
+          "t": "p",
+          "x": "Starting from the same place didn't mean ending up in the same place. The UI mockup for the AI dev tool stayed a mockup, true to its name. Its README is still in the state it was generated in. The goal was a surface to review the UI, so there was no forced push to grow it further. Deciding to leave something as-is is also a decision."
+        },
+        {
+          "t": "p",
+          "x": "The one that went furthest was the beauty curation site. A static site was enough, so the author ran Next.js in export mode and deployed it to Amplify. Setting output: \"export\" stripped out SSR, and images.unoptimized removed even the image-optimization Lambda. That way Amplify only has to serve the out folder, which makes operations very light. In March, the author switched to automatic deploys tied to GitHub, taking the generated output all the way to a site that's actually in service."
+        },
+        {
+          "t": "p",
+          "x": "The gift-tracking app and the doll album were a different story. Their product specs were detailed, but they stalled at the data layer. The former had its MVP scope spelled out clearly in the README — dashboard, people management, gift tracking, calendar, anniversary management — and it was implemented with Atomic Design. But at the top of the 'on hold / undecided' list sit data persistence, authentication and user management, and notifications, side by side."
+        },
+        {
+          "t": "p",
+          "x": "The doll album had also been built up with Vite, React 18, and a five-layer Atomic Design, with an earthy color palette pinned down to specific values — but it, too, stalled in front of persistence. The screens and transitions were finished, but the widest gap sat between the mock data and a real backend."
+        }
+      ]
+    },
+    "design/design-md-agent-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/tmj2kdqdc5uqpw5edwua.png"
+        },
+        {
+          "t": "p",
+          "x": "There are three key points. DESIGN.md is a document that lets people and AI look at the same thing: how a UI looks and why it was decided that way. It spells out not just numbers but the impression you're going for and the expressions you want to avoid, in words. Gallery sites and ways to generate one already exist in several forms."
+        },
+        {
+          "t": "p",
+          "x": "Using generative AI to draft UI has definitely gotten faster. But there are also more moments now where the mood drifts somewhere unintended with every instruction, leaving the design process unstable. That's where DESIGN.md, which gathers a design's values and intent into one Markdown file, earns its usefulness."
+        },
+        {
+          "t": "p",
+          "x": "Google Labs frames DESIGN.md as 'a format for continuously and structurally communicating a design system to AI agents.' The setup puts machine-friendly design tokens in the YAML frontmatter, and the design intent and how to apply it — meant for people to read — in the Markdown body."
+        },
+        {
+          "t": "p",
+          "x": "Hand over just a value like '8px corners' and it's not clear which parts it applies to or whether exceptions are allowed. Hand over just a phrase like 'friendly,' on the other hand, and the shape it generates changes every time. Put the value and the reasoning together, and AI wanders less while people find it easier to review the result. In the official repository, this format's status is still alpha. It's better treated not as a finished industry standard but as a shared format that teams test and rewrite to fit their own situation."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't replace an existing design system either. If a Figma library and implemented components are the side that provides 'reusable parts,' DESIGN.md is closer to a lightweight map that AI consults before starting work. Its role also differs from a one-off prompt. Writing 'use blue' or 'keep card corners small' every single time leaves updates out of sync and the expression unstable. Move the judgment into DESIGN.md, and a request can shrink to something like 'build the settings screen per DESIGN.md,' using the same premise across multiple screens or different sessions."
+        },
+        {
+          "t": "p",
+          "x": "Still, just placing the file somewhere doesn't make it get read on its own. You need to state explicitly, in the instruction file or prompt of whatever tool you use, to 'read DESIGN.md before working on the UI,' and then check whether the rules actually show up in the output."
+        },
+        {
+          "t": "p",
+          "x": "The order in the official spec is Overview, Colors, Typography, Layout, Elevation & Depth, Shapes, Components, Do's and Don'ts. You don't need to fill everything in from the start. The impression you're going for, the values you use often, and the boundaries — writing just these three lets even a short document work as a basis for judgment. Attaching color names by role, like primary or surface instead of blue, lets you swap out values while keeping the role intact."
+        },
+        {
+          "t": "p",
+          "x": "There are plenty of galleries to reference too. DESIGNmd is a place to browse community designs, and designmd.app compares more than 500 designs. Free Design MD is free with no sign-up, and designmd.sh collects ones published on GitHub. DesignMD leans toward finding and generating real brands, while Refero Styles leans toward studying the design systems of real products. There's also a tool called Design MD Generator that scrapes screenshots and design information from web pages."
+        }
+      ]
+    },
+    "design/design-rtx-half-frame-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Y9pUiBYRkXsMLUhRC5H6J3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The proposal is simple. Generate only half the frames, and let local AI running on RTX Spark infer and fill in the rest. What's left is a 60FPS clip that looks like it used twice the compute. It's the kind of optimization that makes engineers smile and creators squint suspiciously."
+        },
+        {
+          "t": "p",
+          "x": "If you've used DLSS in games, the principle is familiar. But this isn't real-time interpolation. It's all handled offline, using RTX Spark technology that underpins NVIDIA's new unified memory. With plenty of time per frame and a view of the whole motion flow, the in-between frames come out clean and temporal artifacts are reduced. There's also none of the varnished sheen typical of AI-touched video."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/W8zVxgyJsTCdEHGwRd7oCb.png"
+        },
+        {
+          "t": "p",
+          "x": "The numbers are the point. A 2-second full-HD clip took about 6 minutes 30 seconds. Run the same clip through the half-frame pipeline and it's about 1 minute 25 seconds. Generating every frame in NVFP4 alone cuts the time roughly in half, but the half-frame strategy pushes that saving into territory where 'how you work' changes."
+        },
+        {
+          "t": "p",
+          "x": "AI video generation eats enough compute to make even well-funded studios flinch. For indie creators or small productions without a server farm in the basement, shaving a few minutes off every iteration isn't just a matter of convenience. It's the difference between trying three versions and trying thirty."
+        },
+        {
+          "t": "p",
+          "x": "Presenter Weinand said there was no noticeable difference between a fully generated 60FPS clip and one made by upscaling 30FPS and filling in frames, and in the demo it really looked that way. Motion was smooth and textures held up."
+        },
+        {
+          "t": "p",
+          "x": "It's not a magic wand, of course. Pushing a video with a base frame rate of 10-15FPS up to 60FPS will always produce artifacts. Fast motion like sports, dancing, or shaky handheld footage needs a higher base frame rate, and fine textures like hair or fabric still trip up interpolation. The bigger worry is consistency. AI pipelines are notorious for being great in one shot and strange in the next. What creators fear isn't the best-case result — it's the worst-case result shipping as-is."
+        }
+      ]
+    },
+    "design/design-tripo-image-to-3d": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "tqUEnRj0NbM"
+        },
+        {
+          "t": "p",
+          "x": "A moment ago, it was just a photo. Now it's an object you can pull out of a 3D printer."
+        },
+        {
+          "t": "p",
+          "x": "A new AI model called Tripo 2.0 turns almost any image into a complete 3D model. The result can be exported to Blender or Unreal Engine, or sent straight to a 3D printer."
+        },
+        {
+          "t": "p",
+          "x": "The uses are wide-ranging — making game characters yourself, collectibles, animation assets, even product prototypes. Practically anything you can think of applies. At the end of the video, Matt Wolfe asks what you'd try making."
+        }
+      ]
     }
   }
 }

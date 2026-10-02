@@ -4749,6 +4749,518 @@
           "x": "El equipo también realizó una prueba a escala de repositorio. Al ejecutar AIMe sobre más de 7 millones de clústeres espectrales en GNPS, un gran repositorio público de espectrometría de masas, se generaron anotaciones provisionales para 2.69 millones de ellos con el mismo umbral de similitud, frente a los aproximadamente 416,000 anotados por trabajos anteriores."
         }
       ]
+    },
+    "science/science-adaptiveflow": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo conjunto del Hospital de Investigación Infantil St. Jude, la Universidad de Pavía, el Instituto Oncológico Dana-Farber y la Facultad de Medicina de Harvard presentó AdaptiveFlow, una plataforma de cribado de fármacos basada en IA. El punto clave es que puede realizar cribados virtuales de miles de millones de compuestos candidatos mientras reduce el costo computacional a aproximadamente 1/1000 de los métodos existentes. La investigación, publicada en código abierto, apareció en Nature Biotechnology."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-informed-adaptivefl-1.jpg",
+          "cap": "Composición y preparación de la biblioteca química (Enamine REAL Space)."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma demostró que su rendimiento se mantiene lineal incluso al escalar hasta 5,6 millones de CPU virtuales, estableciendo un nuevo estándar para el descubrimiento de fármacos en la nube. Los investigadores identificaron candidatos a inhibidores potentes tanto para un objetivo anticanceroso ya probado como para uno emergente. “AdaptiveFlow es una plataforma automatizada de próxima generación para el cribado virtual ultra masivo repetido”, dijo el coautor correspondiente, el Dr. Christoph Gorgulla. “Con esta plataforma se pueden cribar 69.000 millones de moléculas, la biblioteca lista para acoplamiento más grande del mundo”."
+        },
+        {
+          "t": "p",
+          "x": "En el núcleo de AdaptiveFlow hay una cuadrícula de 18 dimensiones que representa propiedades como el peso molecular, una por una. Esta cuadrícula permite priorizar moléculas químicamente diversas y seleccionar un subconjunto prometedor de la biblioteca para un cribado más profundo. Un modelo de clasificación de aprendizaje automático entrenado con estos datos selecciona las moléculas más prometedoras, que luego se vuelven a cribar virtualmente contra objetivos proteicos compatibles con más de 1500 protocolos de acoplamiento y se clasifican según la afinidad de unión prevista."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-informed-adaptivefl.jpg",
+          "cap": "Estructura de la plataforma AdaptiveFlow para el cribado virtual ultra masivo (ULVS)."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores validaron el rendimiento de la plataforma aplicándola a PARP1, un objetivo anticanceroso bien conocido, y a FSP1, un objetivo emergente implicado en la muerte celular y recientemente vinculado a la supervivencia de células cancerosas. En ambos casos encontraron inhibidores con una fuerza de unión comparable a los estándares de la industria farmacéutica. “PARP1 ya tiene fármacos aprobados, así que sirvió como buen punto de comparación, pero FSP1 era un objetivo más difícil porque tiene un cofactor adicional en el sitio de unión”, dijo Gorgulla. “Nos alegró comprobar que funciona incluso en un entorno complejo”."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-informed-adaptivefl-2.jpg",
+          "cap": "Flujo conceptual de funcionamiento de ATG-VS (cribado virtual por niveles adaptativos)."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores publicaron toda la plataforma como código abierto, junto con guías paso a paso y tutoriales. Gorgulla dijo: “Queríamos hacer que el cribado virtual ultra masivo fuera lo más accesible posible, para encontrar mejores moléculas incluso en proteínas objetivo difíciles y aumentar de verdad las tasas de éxito clínico”."
+        }
+      ]
+    },
+    "science/science-bci-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad Carnegie Mellon, en Estados Unidos, presentaron una interfaz cerebro-máquina (BCI) no invasiva que combina el aprendizaje motor humano con aprendizaje automático de IA adaptativo. El logro, que reduce el tiempo de entrenamiento mientras mejora el rendimiento, se considera un nuevo hito para las BCI no invasivas. Los resultados se publicaron en la revista internacional Nature Communications."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-08/pic15u15.jpg?itok=i20bSA0f",
+          "cap": "Geralt/Pixabay"
+        },
+        {
+          "t": "p",
+          "x": "El autor correspondiente, el profesor Bin He, junto con los coautores de Carnegie Mellon Hanwon Wang, Isha Jang, Maxim Karenbach e Idan Ding, escribieron en el artículo: “Desde el punto de vista neurocientífico, esta alineación refleja un mecanismo bien conocido del aprendizaje de habilidades motoras, en el que una retroalimentación sensorial coherente da forma a la plasticidad sináptica a lo largo de las vías neuronales relacionadas con la conducta”."
+        },
+        {
+          "t": "p",
+          "x": "Una BCI es una tecnología de asistencia que ayuda al usuario a manejar dispositivos electrónicos externos solo con el pensamiento, y requiere registrar y decodificar la actividad cerebral para predecir la intención del usuario. Existen métodos invasivos, implantados directamente en la corteza cerebral o mediante electrocorticografía (ECoG), y métodos no invasivos, con gorros portátiles que usan espectroscopía funcional de infrarrojo cercano (fNIRS), magnetoencefalografía (MEG) o electroencefalografía (EEG). Por lo general, la precisión de la señal es mayor en las BCI invasivas que en las no invasivas, pero los avances recientes en IA y aprendizaje automático están reduciendo esa brecha."
+        },
+        {
+          "t": "p",
+          "x": "La forma en que aprenden los humanos y la forma en que aprenden las máquinas son fundamentalmente distintas, y esta es una de las barreras clave que las BCI deben superar. La neuroplasticidad es la capacidad del cerebro para aprender, adaptarse y cambiar mediante el aprendizaje experiencial, como el ensayo y error. El aprendizaje automático de IA, en cambio, se entrena para encontrar patrones en grandes conjuntos de datos y hacer predicciones. Hasta ahora, el entrenamiento de BCI mediante imaginería motora se había inclinado hacia un enfoque centrado en el usuario o en el decodificador, pero los investigadores afirman haber creado el primer marco de aprendizaje unificado en el que el usuario y el decodificador se adaptan simultáneamente dentro de un mismo ciclo de aprendizaje."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo de este marco de aprendizaje unificado es un sistema de circuito cerrado que combina un decodificador con un algoritmo de reponderación por muestra y una guía sensorial para el usuario proporcionada mediante estimulación táctil. Se adapta en ambas direcciones, reduciendo el ruido y mejorando la precisión. En un experimento con 31 adultos sanos (13 hombres y 18 mujeres), el método alcanzó una precisión promedio del 77,5% en el control de cursor bidimensional y del 86% en el control de cursor unidimensional."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores concluyeron en el artículo que, “al combinar la neuroplasticidad basada en aprendizaje por refuerzo con la optimización de algoritmos adaptativos, este marco eleva el entrenamiento de BCI de una etapa pasiva de calibración a una etapa activa en la que humanos y máquinas aprenden juntos, haciendo posibles interfaces neuronales prácticas y escalables para la comunicación y la rehabilitación”. Esta prueba de concepto podría ofrecer nueva esperanza a las personas que han perdido la capacidad de moverse o hablar."
+        }
+      ]
+    },
+    "science/science-icm-math": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En el Congreso Internacional de Matemáticos (ICM) celebrado en Filadelfia el 26 de julio de 2026, el podcast The Joy of Why grabó un episodio especial en vivo. Las presentadoras Janna Levin y Steven Strogatz conversaron sobre el impacto de la IA en las matemáticas con tres matemáticos: Akshay Venkatesh, del Instituto de Estudios Avanzados; Ravi Vakil, profesor de Stanford y presidente de la Sociedad Matemática Americana, y Alex Kontorovich, de la Universidad Rutgers."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/JOW-S5-E7-Live-cr-ChanelleNibbelink-Lede-LOGO-scaled.jpg",
+          "cap": "Chanelle Nibbelink for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Los panelistas coincidieron en que los logros recientes de la IA, como las medallas en la Olimpiada Internacional de Matemáticas, deben verse como una 'prueba de concepto' y no como una hazaña sobrehumana. Vakil dijo que cuando un modelo resuelve correctamente el mismo tipo de problema por séptima vez, es parecido a que un estudiante resuelva el mismo problema siete veces, lo cual resulta cada vez menos interesante."
+        },
+        {
+          "t": "p",
+          "x": "Venkatesh redefinió la investigación matemática no como la producción de demostraciones, sino como la construcción de historias. Explicó que los matemáticos exploran territorio desconocido en busca de 'riqueza' y construyen historias interesantes para sus colegas. Vakil, citando el último teorema de Fermat, añadió que los grandes avances matemáticos suelen seguir esta estructura narrativa, ya que siglos de conocimiento acumulado tendieron un 'puente dramático' entre distintas formas de pensar."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Ravi-Vakil-2cr-Rod-Searcey.webp",
+          "cap": "Ravi Vakil"
+        },
+        {
+          "t": "p",
+          "x": "Los panelistas también compartieron su preocupación por que una avalancha de demostraciones generadas por IA pueda desbordar los sistemas de verificación de las revistas científicas. Kontorovich señaló que, incluso si la IA tiene éxito en solo el 1% de 1000 problemas, eso podría producir unos 10 artículos al año, una producción comparable a una carrera de investigación bastante productiva según los estándares tradicionales. Sin embargo, dejó claro que la cantidad es fundamentalmente distinta de la calidad o la perspicacia."
+        },
+        {
+          "t": "p",
+          "x": "Vakil expresó su preocupación por que, si los estudiantes terminan sus tareas con IA en lugar de lidiar con la dificultad, la distribución de las calificaciones de los exámenes podría 'polarizarse'. Kontorovich lo comparó con un gimnasio, señalando que usar la tecnología para desarrollar la comprensión es distinto de usarla para sustituir el entrenamiento real, y subrayó que la frustración misma desarrolla la resistencia mental necesaria para el trabajo intelectual difícil."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Alex-Kontorovich.webp",
+          "cap": "Alex Kontorovich"
+        },
+        {
+          "t": "p",
+          "x": "Vakil dijo que le preocupa una corriente anti-intelectual en la que los avances de la IA se usan como excusa para recortar programas de posgrado y presupuestos de educación científica, y señaló que esta erosión ya estaba en marcha independientemente de la IA. Venkatesh y Vakil dijeron que han reintroducido entrevistas en los procesos de admisión de posgrado y posdoctorado para evaluar la comprensión real, en lugar de resultados generados con ayuda de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Kontorovich predijo que las empresas de IA podrían perder interés en los problemas matemáticos una vez agotado el efecto publicitario inicial, y que entonces a la comunidad matemática le quedarían solo las herramientas realmente útiles. Vakil dijo que quienes estudian matemáticas a menudo consiguen empleo en campos que “todavía no existen”, y añadió que la formación matemática cultiva una forma de pensar que prepara para un futuro desconocido."
+        }
+      ]
+    },
+    "science/science-physicist-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sarah Demers, directora del departamento de física de la Universidad de Yale, cree que los grandes modelos de lenguaje podrían ayudar o perjudicar a su campo. En julio de 2026, el Departamento de Energía de Estados Unidos decidió financiar 278 proyectos como parte de su 'Misión Génesis' para integrar la IA en el proceso de investigación científica, entre ellos un proyecto que usa IA para buscar una transformación de partículas extremadamente rara, en la que un muon se convierte en un electrón, en el experimento Mu2e del Laboratorio Nacional de Aceleradores Fermi, cerca de Chicago."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demer-cr-Karen-Dias-Lede-scaled.webp",
+          "cap": "Sarah Demers, quien coescribe una declaración de política relacionada con la IA, dice que nunca ha escrito nada en Claude ni en ChatGPT. Karen Dias for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "“Tenemos muchas perillas que podemos girar para optimizar un experimento”, dijo Demers, quien participa en la investigación de Mu2e. “Cosas como cuánto tiempo mantener encendido el campo magnético, con qué intensidad, dónde colocar el blanco, qué sistemas deben estar funcionando”. Dijo que ajustar estas configuraciones experimentales a veces se siente más como arte que como ciencia, y que tener a la IA llenando ese espacio se siente “como un regalo de los dioses”."
+        },
+        {
+          "t": "p",
+          "x": "Pero Demers, quien dirige la redacción de la declaración de política sobre IA de la Sociedad Estadounidense de Física (APS), no da la bienvenida a la IA en su propio trabajo ni en otras áreas de su vida. Una de sus preocupaciones es que los grandes modelos de lenguaje populares se entrenan con conjuntos de datos llenos de propiedad intelectual de otras personas, incluidos sus propios escritos, sin acreditar debidamente las fuentes. “La pregunta de qué es la física, y qué permanece inmutable en la práctica de la física, no cambia solo porque haya llegado la IA”, dijo. “Hay valor en enfrentar esa respuesta y expresarla con palabras”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demers-chat-cr-Karen-Dias.webp",
+          "cap": "Demers (izquierda) habla con colegas y estudiantes en Yale. Karen Dias for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Demers dice que, en la física de partículas, el lado teórico es el que cambia más rápido. Esto se debe a que los últimos grandes modelos de lenguaje aceleran enormemente el cálculo, lo que está cambiando las propias habilidades necesarias para resolver problemas o responder preguntas. Así como los antiguos programas de doctorado en física exigían leer literatura en alemán, dijo que algunas habilidades podrían volverse innecesarias en el futuro, y que ella lo observa con una mente abierta."
+        },
+        {
+          "t": "p",
+          "x": "En el lado experimental, las cosas todavía están en la etapa de explorar posibilidades. El experimento ATLAS tiene que reconstruir cómo interactúan las partículas con el detector a partir de la salida de cientos de millones de canales electrónicos, y el formato de los datos es notoriamente difícil de manejar. Las herramientas de asistencia de codificación tienen el potencial de acelerar el análisis al limpiar datos o redactar marcos de acceso a datos. Explicó que ahora es posible revivir datos experimentales antiguos para responder preguntas nuevas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Sarah-Demers-chair-cr-Karen-Dias-1.webp",
+          "cap": "Demers en su laboratorio de Yale. En 2019 publicó un libro sobre física y danza junto con su colega, la profesora y ex bailarina del New York City Ballet, Emily Coates. Karen Dias for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "Aunque Demers comparte las preocupaciones sobre la propiedad intelectual y la atribución de fuentes, dijo que algunas personas se entusiasman con la sensación de que “el aura de todos los pensadores te rodea en el momento en que empiezas a escribir”, y lo calificó de “a la vez profundamente equivocado y profundamente asombroso”. Dijo que el punto de mayor consenso en el mundo académico es el principio de que el físico cuyo nombre aparece en un artículo debe responsabilizarse de su contenido."
+        },
+        {
+          "t": "p",
+          "x": "Demers dijo que ella misma nunca ha escrito nada en Claude ni en ChatGPT. Pero como directora de departamento y presidenta del Panel de Asuntos Públicos de la APS, siente la responsabilidad de entender esta tendencia, por lo que lee mucho contenido y artículos relacionados. Añadió que su propio grupo de investigación, que recibe financiamiento de la Misión Génesis para integrar agentes de IA en el experimento Mu2e, en realidad está entre los que impulsan activamente la tendencia más reciente en el campo."
+        }
+      ]
+    },
+    "science/science-polymer": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de investigación del Instituto Avanzado de Investigación de Materiales de la Universidad de Tohoku (WPI-AIMR) identificó los principales obstáculos que frenan el desarrollo de polímeros impulsado por IA y propuso un sistema que une varias herramientas —bases de datos de polímeros, modelos predictivos, agentes de IA y laboratorios automatizados— en un solo marco. Los resultados se publicaron en la revista JACS Au."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/empowering-polymeric-m.jpg",
+          "cap": "Un flujo de trabajo jerárquico e integrado que respalda la innovación de polímeros basada en datos."
+        },
+        {
+          "t": "p",
+          "x": "El sistema cuenta con un flujo de trabajo de circuito cerrado autónomo, con el potencial de reducir el tiempo, el costo y la carga ambiental. El equipo de investigación ya había estudiado antes cómo usar sistemas de IA de circuito cerrado y grandes bases de datos para mejorar la búsqueda de materiales energéticos."
+        },
+        {
+          "t": "p",
+          "x": "Los plásticos, los polímeros más comunes, se usan no solo en artículos cotidianos, sino también en campos biomédicos como implantes y administración de fármacos. Sin embargo, las interacciones entre los polímeros y los sistemas biológicos complejos y en constante cambio son difíciles de entender sin una estrategia sólida. El profesor distinguido Hao Li dijo: “El desarrollo tradicional de polímeros por ensayo y error es lento, consume muchos recursos, genera mucho desperdicio y suele tardar varios años en producir un material mejorado”. Y añadió: “Si el ecosistema propuesto se hace realidad, será posible desarrollar rápidamente polímeros sostenibles de alto rendimiento mientras se reducen los costosos fracasos experimentales”."
+        },
+        {
+          "t": "p",
+          "x": "Este enfoque se traduce en beneficios prácticos, como baterías de alta densidad energética más seguras para vehículos eléctricos, biomateriales médicos mejorados, plásticos degradables más ecológicos y membranas de tratamiento de agua más eficientes. También reduce el consumo de recursos de laboratorio y los residuos de materiales que generan los ensayos repetidos a ciegas, lo que se alinea con los objetivos globales de neutralidad de carbono."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/empowering-polymeric-m-1.jpg",
+          "cap": "Cómo tres ramas de bases de datos de polímeros —plataformas experimentales, computacionales e integradas— respaldan el descubrimiento de materiales impulsado por IA."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de investigación elaboró un plano completo para construir un ecosistema autónomo de descubrimiento de polímeros de circuito cerrado. La mayoría de la investigación existente sobre polímeros basada en IA se ha centrado en tareas de predicción individuales y desconectadas entre sí, quedando en el nivel de pruebas de concepto abiertas que requieren mantenimiento constante. Este artículo identifica de forma sistemática seis fallos estructurales en los flujos de trabajo actuales —la falta de retroalimentación automática entre bases de datos, la insuficiencia de restricciones físicas en los modelos de IA, módulos de simulación desconectados, un razonamiento basado en agentes incompleto, laboratorios automatizados que solo funcionan en una dirección y una baja interoperabilidad entre los elementos digitales y experimentales— y plantea una hoja de ruta concreta para superarlos."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de investigación planea seguir desarrollando este marco conceptual para que, con el tiempo, pueda respaldar no solo experimentos a escala de laboratorio, sino también procesos de fabricación en entornos industriales reales."
+        }
+      ]
+    },
+    "science/science-af3-red": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-through-alpha.jpg",
+          "cap": "Modelo de difusión de AlphaFold3. (A) Exploración de estructuras mediante un modelo de difusión generativo convencional. (B) Este método, que amplía la exploración añadiendo un sesgo. Credit: Jun Ohnuki and Kei-ichi Okazaki, Institute for Molecular Science"
+        },
+        {
+          "t": "p",
+          "x": "Una proteína es una molécula en la que los aminoácidos se encadenan y se pliegan en una forma tridimensional. Al recibir una señal, como la unión de un ligando, cambia de forma para fabricar o transportar sustancias. Ese cambio de forma, el paso entre estados conformacionales, es la función misma."
+        },
+        {
+          "t": "p",
+          "x": "Deducir la estructura plegada a partir solo de la secuencia de aminoácidos fue durante mucho tiempo un problema difícil. AlphaFold, de Google DeepMind, superó esa barrera, y John Jumper y Demis Hassabis recibieron juntos el Premio Nobel de Química de 2024 por ello."
+        },
+        {
+          "t": "p",
+          "x": "El problema viene después. Las proteínas funcionan moviéndose entre varias formas, pero AlphaFold produce una sola estructura para buena parte de ellas. Ahí se atascan las aplicaciones en ciencias de la vida, incluido el diseño de fármacos."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo liderado por Jun Ohnuki y Kei-ichi Okazaki, del Institute for Molecular Science (IMS), National Institutes of Natural Sciences, y de SOKENDAI, the Graduate University for Advanced Studies, apuntó a este punto. Los resultados se publicaron en JACS Au."
+        },
+        {
+          "t": "p",
+          "x": "AlphaFold3 (AF3) predice la estructura usando un modelo de difusión generativo, el mismo tipo que se emplea para generar imágenes. Primero dispersa los átomos como ruido y luego retira ese ruido paso a paso, empujando los átomos hacia posiciones de alta probabilidad."
+        },
+        {
+          "t": "p",
+          "x": "En términos de física, una posición de alta probabilidad es una de baja energía. Por eso AF3 produce siempre la misma estructura única: la energía de esa estructura es menor que la de las alternativas."
+        },
+        {
+          "t": "p",
+          "x": "El equipo repitió las predicciones de AF3 varias veces mientras incorporaba al modelo de difusión un término de sesgo que eleva la energía cada vez que una nueva predicción se acerca a las coordenadas atómicas de una estructura anterior. Esto crea una fuerza que aleja las predicciones entre sí, y el modelo evita los lugares que ya visitó."
+        },
+        {
+          "t": "p",
+          "x": "El método construido así se llama AF3-ReD. Predijo cambios conformacionales en varias proteínas, con la subunidad F1β de la ATP sintasa como ejemplo principal. F1β suele tener el sitio de unión al ATP abierto, y cambia a una forma cerrada una vez que el ATP se une."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/breaking-through-alpha-1.jpg",
+          "cap": "Estructuras de la subunidad F1β predichas con AF3-ReD. Credit: Jun Ohnuki and Kei-ichi Okazaki, Institute for Molecular Science"
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, AF3 produce una estructura abierta incluso para F1β con ATP unido. AF3-ReD exploró un rango mucho más amplio, que cubre las formas abierta y cerrada además de las formas intermedias entre ambas."
+        },
+        {
+          "t": "p",
+          "x": "Su utilidad no termina en la predicción. Usar las estructuras resultantes como punto de partida para simulaciones de dinámica molecular también permite seguir de forma eficiente cómo una proteína pasa de un estado a otro."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de difusión generativos se usan, más allá de AlphaFold, para diseñar nuevas proteínas y candidatos a fármacos. El equipo espera que añadir este sesgo de repulsión a esos métodos también permita conseguir diseños más variados."
+        }
+      ]
+    },
+    "science/science-brain-guided-llm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/could-human-brain-acti.jpg",
+          "cap": "La actividad neuronal que fluye desde un cerebro humano entra en una red neuronal artificial y guía sus representaciones internas. Credits: Zhouchen Lin, Kai Du, Mingqing Xiao"
+        },
+        {
+          "t": "p",
+          "x": "Los grandes modelos de lenguaje (LLM) que sostienen a IA conversacionales como ChatGPT y Gemini ya se usan en todo el mundo. Algunos van más allá de manejar texto: resuelven problemas lógicos básicos y responden preguntas con una precisión sorprendente."
+        },
+        {
+          "t": "p",
+          "x": "Pero no se entiende bien cómo retienen la información estos modelos cuando producen una predicción lógica, ni cuánto se parecen los patrones de actividad mientras procesan un problema de razonamiento a las regiones del cerebro humano relacionadas con el razonamiento."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Pekín y la Universidad Tsinghua compararon la actividad cerebral de las personas al razonar con los patrones numéricos de los LLM al generar respuestas lógicas. El artículo, publicado en Nature Machine Intelligence, concluye que ambos representan el razonamiento deductivo de forma similar pero no idéntica. También apuntó a la posibilidad de dirigir las representaciones de un LLM usando datos de imágenes cerebrales."
+        },
+        {
+          "t": "p",
+          "x": "“Este estudio surgió de dos líneas de pensamiento conectadas entre sí”, dijo a Tech Xplore la primera autora, la Dra. Mingqing Xiao. “La primera viene de la neurociencia. En el cerebro humano, el lenguaje y el pensamiento parecen separables; los circuitos que procesan el lenguaje y los que intervienen en el razonamiento están, en general, diferenciados.”"
+        },
+        {
+          "t": "p",
+          "x": "“Y sin embargo, los grandes modelos de lenguaje, que aprenden sobre todo del lenguaje, muestran cada vez más capacidades cognitivas cercanas a las humanas. Eso nos hizo pensar si estos modelos, a través del lenguaje como medio, no habrían aprendido realmente algún aspecto de la cognición humana que va más allá del lenguaje mismo.”"
+        },
+        {
+          "t": "p",
+          "x": "La segunda línea es el NeuroAI, un campo interdisciplinario que combina conceptos o datos de la neurociencia con modelos de IA para entender mejor tanto el cerebro como la IA."
+        },
+        {
+          "t": "p",
+          "x": "“Varios estudios recientes han encontrado una alineación correlacional entre las representaciones internas de los modelos de IA y el cerebro”, dijo Xiao. “Eso nos dio una forma de estudiar la similitud, y de ahí vino la siguiente pregunta: ¿se puede pasar de la correlación a la guía? En lugar de usar las señales neuronales humanas solo para medir similitud, ¿podríamos intervenir en el modelo con ellas para mejorar su capacidad?”"
+        },
+        {
+          "t": "p",
+          "x": "El material fue un conjunto de datos de fMRI de acceso público, registros tomados mientras participantes humanos resolvían problemas de razonamiento deductivo. El equipo extrajo señales de las regiones cerebrales relevantes para usarlas como representaciones cerebrales que sostienen la cognición de alto nivel, y luego introdujo los mismos estímulos lingüísticos en 10 LLM de código abierto, de entre 1.500 millones y 72.000 millones de parámetros, para extraer los valores de activación de sus unidades internas. Observaron no solo las regiones del lenguaje, sino también regiones que se sabe están vinculadas al razonamiento humano."
+        },
+        {
+          "t": "p",
+          "x": "El criterio es la predictividad neuronal, la métrica estándar en NeuroAI. Mide cuán bien la representación interna de un modelo, tras un mapeo lineal, predice la representación del cerebro. Un valor más alto significa que los dos espacios de representación están más cerca."
+        },
+        {
+          "t": "p",
+          "x": "A continuación, construyeron un marco guiado por el cerebro que dirige las representaciones internas del LLM usando patrones de actividad cerebral. Al aplicarlo a los 10 LLM, el rendimiento mejoró en tareas que requerían razonamiento deductivo."
+        },
+        {
+          "t": "p",
+          "x": "“El resultado más notable no es solo que los LLM y el cerebro humano estén parcialmente alineados en el razonamiento deductivo”, dijo Xiao. “Pudimos guiar las representaciones internas del modelo con señales cerebrales para mejorar el rendimiento en la tarea. Esta mejora se generalizó hasta cierto punto y, sobre todo, fue complementaria a la que se obtiene con el aprendizaje supervisado basado en lenguaje ya existente.”"
+        },
+        {
+          "t": "p",
+          "x": "El plan a futuro es extender esto a otras capacidades cognitivas y otros métodos de registro neuronal. “Hay capacidades difíciles de enseñar explícitamente mediante el lenguaje, y la guía por representación podría ofrecer algo que el lenguaje no puede dar. Por otro lado, la fMRI tiene una información espacial excelente pero una señal lenta. Un método con mayor resolución temporal permitiría ver esto con más detalle.”"
+        }
+      ]
+    },
+    "science/science-co-scientist": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La idea de que la IA haga investigación en nuestro lugar se había quedado, en su mayoría, dentro de una computadora. Este artículo, “Accelerating Scientific Research with Gemini in the Real-World”, publicado en arXiv el 27 de agosto de 2026, cruza esa línea y reporta lo que ocurrió en laboratorios reales. Tiene 35 autores."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2608.26701v1/CoScientist_Fig1.png",
+          "cap": "Figura 1: Resumen de la arquitectura ampliada de Co-Scientist y sus aportes científicos"
+        },
+        {
+          "t": "p",
+          "x": "El tema es Co-Scientist, un sistema multiagente basado en Gemini diseñado para conectar el principio y el final de la investigación, desde la generación de hipótesis hasta los experimentos y la redacción del artículo. Esta versión va más allá de la etapa en la que solo producía hipótesis dentro del cálculo, hacia un socio de investigación con un pie en la ejecución."
+        },
+        {
+          "t": "p",
+          "x": "La validación se realizó en tres campos: ciencia de materiales, biología y ciencias de la computación. En cada campo se ejecutó un flujo de investigación en bucle cerrado que va de la hipótesis al experimento y de vuelta a la hipótesis."
+        },
+        {
+          "t": "p",
+          "x": "En ciencia de materiales, diseñó una ruta de precursores segura para fabricar MXene, conectada a un reactor de deposición química en fase vapor (CVD) semiautomático. Al sintetizarlo realmente, se obtuvo un material bidimensional en capas cuya estructura central se parecía a la red de MXene Ti3C2Tx. Confirmar la estructura atómica requerirá más experimentos."
+        },
+        {
+          "t": "p",
+          "x": "En el mismo campo, usando Gemini 3 Deep Think, generó en minutos recetas de crecimiento adaptadas a las limitaciones del laboratorio. El resultado fueron semiconductores monocapa de MoS2, MoSe2 y WS2 cultivados en un solo intento."
+        },
+        {
+          "t": "p",
+          "x": "En biología, predijo un fenotipo emergente de enjambre que muestra E. coli modificada a lo largo de un gradiente de concentración de IPTG. Aunque la predicción se hizo con datos de imagen escasos, coincidió incluso en magnitud con mediciones morfológicas de laboratorio húmedo todavía no publicadas."
+        },
+        {
+          "t": "p",
+          "x": "En ciencias de la computación, encontró por sí mismo una arquitectura de escalado que aumenta el cómputo en el momento de la inferencia. Esta arquitectura superó a seis modelos de frontera en las categorías Hard y Professional de HealthBench, y en evaluaciones médicas a ciegas, la probabilidad de daño clínico incluso disminuyó."
+        },
+        {
+          "t": "p",
+          "x": "El grado de autonomía varió según el campo. En ciencia de materiales, los experimentadores humanos ejecutaron y ajustaron las recetas de síntesis diseñadas por la IA; en biología, la retroalimentación de expertos se fue superponiendo repetidamente al flujo de cálculo que armó la IA."
+        },
+        {
+          "t": "p",
+          "x": "Por dentro, el sistema se parece más a una reunión de agentes con roles divididos. Solo en la etapa de ideación hay agentes separados encargados de generación, revisión ética, reflexión, clasificación y evolución, que proponen hipótesis, se critican entre sí y las refinan mediante cruce y mutación."
+        },
+        {
+          "t": "p",
+          "x": "El último filtro es el artículo. Para un manuscrito que Co-Scientist escribió de principio a fin, 30 expertos del dominio calificaron 450 revisiones en condiciones de doble ciego. Activar el módulo de confiabilidad redujo las alucinaciones y el plagio, y aumentó la seguridad de la investigación."
+        },
+        {
+          "t": "p",
+          "x": "El equipo describe estos resultados como un avance hacia una IA científica multiagente de bucle cerrado, un sistema que, según dicen, podría acelerar el ritmo real del descubrimiento científico."
+        }
+      ]
+    },
+    "science/science-aifs-dday-forecast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/war-drama-pressure-dep.jpg",
+          "cap": "Reconstrucción experimental del tiempo del Día D: presión en superficie (izquierda) y nubosidad (derecha). Se ven con claridad las dos tormentas, sobre el Atlántico Norte y el mar del Norte, que atormentaron a los meteorólogos. Crédito: reconstrucción del ECMWF"
+        },
+        {
+          "t": "p",
+          "x": "La película «Pressure» trata sobre el pronóstico que el meteorólogo James Stagg tuvo que presentarle a Eisenhower en junio de 1944. De esa única frase dependía si más de 150.000 soldados desembarcarían."
+        },
+        {
+          "t": "p",
+          "x": "Andrew Charlton-Perez y Ed Hawkins digitalizaron los registros de observación de la época y los introdujeron en los sistemas de pronóstico actuales. ¿Habría acertado la tecnología de hoy con aquel día?"
+        },
+        {
+          "t": "p",
+          "x": "La respuesta es a medias. Un pronóstico de IA moderno habría respaldado la decisión de retrasar el desembarco del 5 de junio, pero subestimó lo malas que fueron realmente las condiciones del día 6."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida ya es inesperado. Los investigadores de hoy cuentan con menos datos de observación atmosférica de esa época que los que tenía Stagg. Buena parte del registro en papel aún no se ha digitalizado, y el trabajo de transcribirlo y compartirlo continúa hoy."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de investigación combinó técnicas de asimilación de datos con modelos meteorológicos actuales para reconstruir por completo el tiempo en torno al desembarco."
+        },
+        {
+          "t": "p",
+          "x": "Si en 1944 hubiera habido satélites y modelos modernos, la pregunta que habría ocupado al equipo de Stagg es clara: cómo se desarrollaría la baja presión del mar del Norte y si las nubes asociadas impedirían el desembarco."
+        },
+        {
+          "t": "p",
+          "x": "Los dos bandos de la película representan directamente las dos ramas del pronóstico. El equipo que combinaba los métodos de Sverre Petterssen y Geoffrey Wolfe seguía el desarrollo físico de los sistemas meteorológicos, mientras que el equipo de Irving Krick se apoyaba en un enfoque analógico que comparaba patrones pasados. Stagg tuvo que fusionar dos pronósticos contradictorios en una sola directiva sencilla."
+        },
+        {
+          "t": "p",
+          "x": "El pronóstico de hoy surgió de los modelos físicos del lado de Petterssen. Desde la década de 1980, la habilidad de pronóstico ha ganado aproximadamente un día de precisión por década."
+        },
+        {
+          "t": "p",
+          "x": "Después de que Ed Lorenz definiera en 1963 que «la atmósfera es un sistema caótico», la naturaleza del pronóstico también cambió. Se estableció el pronóstico por conjuntos (ensemble), que da las probabilidades de varias posibilidades en vez de una sola respuesta."
+        },
+        {
+          "t": "p",
+          "x": "Hoy funcionan más de diez modelos meteorológicos de IA. En la medida en que son redes neuronales entrenadas con 40 años de mapas meteorológicos observados, su principio se parece al enfoque analógico de Krick."
+        },
+        {
+          "t": "p",
+          "x": "El modelo que probó el equipo de investigación fue AIFS, creado por el Centro Europeo de Previsiones Meteorológicas a Medio Plazo. Captó la tormenta del mar del Norte, pero hubo una gran incertidumbre sobre las condiciones en las playas de Normandía."
+        },
+        {
+          "t": "p",
+          "x": "AIFS hizo que la tormenta temprana avanzara hacia el mar del Norte más rápido de lo que realmente lo hizo. La imagen que Stagg habría recibido a fecha del 5 de junio era «un 30% de probabilidad de vientos fuertes en las playas y nubosidad considerable». Eso significa que la decisión habría seguido siendo difícil incluso con herramientas modernas en la mano."
+        },
+        {
+          "t": "p",
+          "x": "El pronóstico futuro avanza hacia combinar modelos físicos con modelos de IA. Pero cuestionar los pronósticos de clima extremo y añadirles contexto sigue siendo tarea humana. Lo que Eisenhower necesitaba era también la experiencia y la intuición de Stagg."
+        }
+      ]
+    },
+    "science/science-benchmirt-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1787859394-benchmirt-blog-draft-latest-google-docs-image-1-1.png",
+          "cap": "BenchMIRT. Crédito: Ai2"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 ha presentado BenchMIRT, un método que desmonta un benchmark item por item para auditar qué mide realmente esa prueba."
+        },
+        {
+          "t": "p",
+          "x": "Incluso los benchmarks creados para medir una sola cosa, como la seguridad o el razonamiento, en la práctica dependen de varias capacidades. BBQ es un ejemplo: hace falta tanto seguir relaciones como razonar a partir de evidencia."
+        },
+        {
+          "t": "p",
+          "x": "En benchmarks como WildJailbreak, distintos grupos de items dentro del mismo benchmark pueden medir capacidades diferentes. Eso hace que la puntuación agregada confunda a quien la lee."
+        },
+        {
+          "t": "p",
+          "x": "BenchMIRT observa el rendimiento en cada item por separado y «estima qué capacidad subyacente está más vinculada a responder correctamente ese item»."
+        },
+        {
+          "t": "p",
+          "x": "Se basa en la teoría de respuesta al item de la psicometría, que parte de la premisa de que no todos los items revelan por igual la capacidad de quien responde."
+        },
+        {
+          "t": "p",
+          "x": "Mientras que investigaciones previas y el Fluid Benchmarking de Ai2 usaban una teoría de respuesta al item de una sola dimensión, BenchMIRT la amplía a varias dimensiones para separar distintas capacidades."
+        },
+        {
+          "t": "p",
+          "x": "Los datos de entrenamiento vienen de 100 LLM respondiendo a unos 34.000 items repartidos en 16 benchmarks, combinando seis benchmarks de razonamiento (MMLU-Pro, GPQA, MATH, BBH) con diez de seguridad."
+        },
+        {
+          "t": "p",
+          "x": "Sin que se le indicara de antemano, surgieron dos ejes por sí solos: seguridad y razonamiento general. Se mantuvieron estables en análisis repetidos."
+        },
+        {
+          "t": "p",
+          "x": "BBQ, creado para medir sesgo social y seguridad, «se alineó mucho más fuertemente con el razonamiento general». Una puntuación baja refleja dificultad para razonar, no un problema de seguridad."
+        },
+        {
+          "t": "p",
+          "x": "WMDP, que evalúa conocimiento peligroso de doble uso, también se vinculó más con el razonamiento que con la seguridad. Cuanto mayor es la capacidad de razonamiento, más baja es la puntuación en WMDP, porque negarse a compartir conocimiento peligroso es la respuesta correcta."
+        },
+        {
+          "t": "p",
+          "x": "HarmBench muestra directamente esa mezcla de señales. Los items estándar y contextuales se alinean con la seguridad, mientras que los items de derechos de autor, como pedir la letra de una canción, se alinean con el razonamiento general."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1787859904-benchmirt-blog-draft-latest-google-docs-image-3.png",
+          "cap": "Dificultad y discriminación de los items de HarmBench. La dimensión 0 es seguridad, la dimensión 1 es razonamiento general. Crédito: Ai2"
+        },
+        {
+          "t": "p",
+          "x": "Ahí está la utilidad: conservando solo el 10% de los items, la medición de capacidad se mantuvo casi al mismo nivel que usando el conjunto completo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1787859966-benchmirt-blog-draft-latest-google-docs-image-4-1.png",
+          "cap": "Qué mide cada benchmark según BenchMIRT. Crédito: Ai2"
+        },
+        {
+          "t": "p",
+          "x": "La precisión al predecir el rendimiento en items nunca vistos fue del 79%, por delante de la línea base simple del 70%."
+        },
+        {
+          "t": "p",
+          "x": "También hubo límites. El análisis cubre modelos publicados hasta marzo de 2025, y las dimensiones que surgen dependen de qué combinación de benchmarks se elija. Otras combinaciones revelan otras capacidades."
+        },
+        {
+          "t": "p",
+          "x": "También existe el riesgo de que la información a nivel de item se use para anular un benchmark. Aun así, el equipo escribió que «la transparencia sobre qué miden realmente los items de un benchmark vale ese riesgo»."
+        }
+      ]
     }
   }
 }

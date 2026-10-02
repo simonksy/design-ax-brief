@@ -4348,6 +4348,357 @@
           "cap": "An image showing a single yellow arrow providing direction amid black arrows pointing every which way."
         }
       ]
+    },
+    "books/books-amazon-book-destruction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1000/2026/09/maxresdefault-4.jpg",
+          "cap": "Collage: 404 Media"
+        },
+        {
+          "t": "p",
+          "x": "This is the 404 Media weekly podcast episode Joseph Cox posted on September 2, 2026. It covers three segments: a follow-up on the Amazon story about shredding books for AI training, why AI-written papers keep featuring the same handful of names, and ICE's recent spending."
+        },
+        {
+          "t": "p",
+          "x": "The first segment is Emanuel's follow-up reporting on Amazon book scanning. He spoke directly with someone who worked in the warehouse where books are destroyed to train Amazon's AI products."
+        },
+        {
+          "t": "p",
+          "x": "After the ad break come Emanuel and Sam. They examine the phenomenon of a handful of identical names appearing repeatedly in LLM outputs."
+        },
+        {
+          "t": "p",
+          "x": "The paid-subscriber-only segment belongs to Joseph. He explains why ICE is buying up large amounts of data related to 'voter fraud.'"
+        },
+        {
+          "t": "video",
+          "yt": "PcNdLnLF7mo"
+        },
+        {
+          "t": "p",
+          "x": "The weekly podcast can be heard on Apple Podcasts, Spotify and YouTube. This episode's bonus content is available only to paid subscribers."
+        },
+        {
+          "t": "p",
+          "x": "Paid subscribers get an email from Transistor, the podcast's host. It contains a link to the subscriber-only version, and adding that feed to the app you use means you'll never miss an episode. The private YouTube link to the extended video version is included in the same email and in the show notes in the podcast app."
+        },
+        {
+          "t": "p",
+          "x": "The show notes contain five links: an invitation to 404 Media's third-anniversary live podcast and party, 'Inside the Amazon Warehouse That Scans and Shreds Books for AI Training,' 'The AI Ghosts Haunting Academic Publishing,' 'ICE Plans to Spend Millions on Boston Dynamics Robot Dogs,' and 'ICE Wants Voter Data From the Whole Country.'"
+        }
+      ]
+    },
+    "books/books-copilot-mdl-filing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/09/microsoft-tells-court-copilot-rarely-reproduces-books-ai-copyright-mdl.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft filed for summary judgment on September 4, 2026, in the Manhattan federal court case that consolidated the copyright lawsuits in which book authors and news publishers challenged the training of large language models."
+        },
+        {
+          "t": "p",
+          "x": "Here are the numbers it presented to the court: an expert reviewed 8.2 million Copilot conversations and found only 24 responses that overlapped by 30 or more words with works the authors had flagged."
+        },
+        {
+          "t": "p",
+          "x": "The case is part of a multidistrict litigation overseen by Judge Sidney H. Stein of the US District Court for the Southern District of New York. The Authors Guild and novelists and nonfiction writers filed suit roughly ten months after OpenAI released ChatGPT in November 2022, and Microsoft was added as a defendant later."
+        },
+        {
+          "t": "p",
+          "x": "The authors' expert, Dr. Sean Shan, ran about 5.3 million adversarial extraction tests, feeding hundred-word-plus book passages directly into GPT models. The rate of 30-word matches came in under 1%. Microsoft dismissed the test as one that repeated the same prompt until the desired sentence appeared."
+        },
+        {
+          "t": "p",
+          "x": "The real-world record is even lower. Of 8.2 million conversations, only 24, or about 0.00029%, showed matches. Of the 212 books at issue, 202 had no instances of reproduction in the logs at all. The brief wrote that “this does not undermine the transformative purpose of LLM training.”"
+        },
+        {
+          "t": "p",
+          "x": "Sales data was also enlisted in the defense. The argument is that the plaintiffs' book sales would be the same today even if ChatGPT and Copilot had never existed. Playwright David Henry Hwang said he doesn't believe the defendants' LLMs harm the market for his plays, and the brief quoted that statement."
+        },
+        {
+          "t": "p",
+          "x": "The legal argument centers on fair use: training models on copyrighted books is itself fair use under the law and “highly transformative.” The brief also drew on rulings in two other AI training lawsuits, against Meta and Anthropic, in which courts found the training highly transformative."
+        },
+        {
+          "t": "p",
+          "x": "Books are made to be read. By contrast, the argument goes, OpenAI's use of works such as John Grisham's The Street Lawyer or Stacy Schiff's Cleopatra served a technical purpose: building a model that answers prompts in natural language."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft drew a line on the issue of downloading from Library Genesis, known to host unauthorized copies. It said it neither downloaded from the site nor was involved in acquiring that dataset, adding that the source of training data doesn't change the fair-use analysis."
+        },
+        {
+          "t": "p",
+          "x": "It also addressed handing over part of the Bing search index at OpenAI's request. The plaintiffs' expert found 8 to 24 of the works at issue in the transferred index, but Microsoft maintains the evidence on actual inclusion is not conclusive."
+        },
+        {
+          "t": "p",
+          "x": "The market-harm claims run in two directions: that licensing fees for training data went unpaid, and that AI-assisted books dilute the market by competing with the original authors' books. A cited survey found that most consumers said they would not buy AI-written books even at steep discounts. Microsoft added that requiring a license for every piece of training data would mean tracking down millions of authors individually, which would block innovation."
+        },
+        {
+          "t": "p",
+          "x": "The same day, it filed a separate summary judgment motion in the news plaintiffs' case and sought judgment on the pleadings for the contributory infringement claims. The New York Times also filed its own summary judgment motion on September 4. The response deadline is October 5."
+        },
+        {
+          "t": "p",
+          "x": "A disclosure schedule was also set. Under a sealing stipulation order Judge Stein signed on September 3, requests to keep material confidential are due by September 14, refiling of briefs and Rule 56.1 statements with undisputed portions revealed is due by September 17, and the public refiling of opposition briefs is due October 15."
+        }
+      ]
+    },
+    "books/books-library-ai-policy-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-06_14-05-54.png"
+        },
+        {
+          "t": "p",
+          "x": "This is a paper Gary Price featured on infoDOCKET on September 6, 2026. It was published in Public Library Quarterly."
+        },
+        {
+          "t": "p",
+          "x": "The title is 'Accountability, Integrity: AI Policy in Public Libraries.'"
+        },
+        {
+          "t": "p",
+          "x": "There are two authors: Kathryn FitzGerald of the University of Washington, and Benjamin Lee, also of the University of Washington."
+        },
+        {
+          "t": "p",
+          "x": "The source is Public Library Quarterly, DOI 10.1080/01616846.2026.2725502."
+        },
+        {
+          "t": "p",
+          "x": "The abstract begins like this: as artificial intelligence simultaneously changes library work and the information environment, public libraries must decide for themselves whether to engage with AI, and if so, how, while preserving library values."
+        },
+        {
+          "t": "p",
+          "x": "As far as the authors know, no study has yet been published analyzing how AI policies at public libraries in the US and Canada connect library values with technology adoption."
+        },
+        {
+          "t": "p",
+          "x": "To fill that gap, the two conducted an environmental scan of public library websites, identifying and analyzing AI policy statements."
+        },
+        {
+          "t": "p",
+          "x": "They scanned more than 200 library websites and identified 32 AI policies. All 32 mentioned at least two values, with privacy and security, and accountability, appearing most often."
+        },
+        {
+          "t": "p",
+          "x": "The infoDOCKET post includes a link straight to the full paper. Categories: Libraries, News, Public Libraries."
+        }
+      ]
+    },
+    "books/books-millie-reading-future": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.epnc.co.kr/news/photo/202609/406515_407012_1526.jpg",
+          "cap": "Jeong Jae-wook, CEO of kt Millie's Library. [Photo=kt Millie's Library]"
+        },
+        {
+          "t": "p",
+          "x": "To mark its 10th anniversary, kt Millie's Library examined how the spread of AI is changing the reading experience and laid out the role and direction of reading in the AI era."
+        },
+        {
+          "t": "p",
+          "x": "On the 3rd, Millie's Library held its 10th-anniversary conference, 'The Future of Reading: A Blueprint for Reading at the Heart of the AI Era.' The event explored how the value of reading and thinking would change now that AI is transforming how people find and understand information."
+        },
+        {
+          "t": "p",
+          "x": "In his opening keynote, Millie's Library CEO Jeong Jae-wook summarized the past decade's changes along two lines: from ownership to access, and from search to discovery."
+        },
+        {
+          "t": "p",
+          "x": "The shift moved from buying and owning books to read, toward accessing content the moment it's needed. CEO Jeong's analysis is that as formats like e-books and audiobooks multiplied, reading expanded into an everyday experience of sharing thoughts with others."
+        },
+        {
+          "t": "p",
+          "x": "He framed the spread of AI as another turning point for that experience. As AI searches, summarizes and even answers questions, the process of reaching information itself has changed. Going forward, he explained, the process of asking and thinking for oneself, not just reading, becomes important."
+        },
+        {
+          "t": "p",
+          "x": "CEO Jeong stressed, “Reading in the AI era is an experience that goes beyond simply reading, to questioning, thinking and understanding others and the world for oneself,” adding, “We should see AI not as a technology that replaces reading but as a tool that helps expand discovery, understanding and thought.”"
+        },
+        {
+          "t": "p",
+          "x": "In line with this shift, Millie's Library presented five future reading experiences. 'Omni Reading' means continuing to read across devices and environments without being tied to a place or time. 'Reading Fit' is AI helping readers discover new books by picking up on their changing tastes and interests."
+        },
+        {
+          "t": "p",
+          "x": "The way AI and readers interact was named as another axis. 'Reading Talk' is the experience of asking AI about a book and broadening one's thinking by examining multiple perspectives, while 'Reading Mate' refers to readers with the same book or tastes reading together and sharing opinions."
+        },
+        {
+          "t": "p",
+          "x": "The last is 'Reading Alliance,' the idea of authors, publishers, platforms and readers connecting to build the content and reading ecosystem together. Millie's Library said the five are not separate categories but are created as the players that make up the ecosystem connect and cooperate."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.epnc.co.kr/news/photo/202609/406515_407013_1639.jpg",
+          "cap": "A view of the kt Millie's Library 10th-anniversary conference, 'The Future of Reading.' [Photo=kt Millie's Library]"
+        },
+        {
+          "t": "p",
+          "x": "Following the opening keynote, the conference continued with lectures and discussions by experts in fields including philosophy, data, cognitive psychology and literature. There were also book talks with writers who contributed to the 10th-anniversary special anthology 'Bookkeeper,' covering the value of reading and thinking in the AI era and the direction of future reading culture."
+        },
+        {
+          "t": "p",
+          "x": "One side of the venue featured an exhibition and experience space looking back on Millie's Library's past decade and ahead to future reading experiences. Attendees got a hands-on look at the vision of future reading that Millie's Library laid out, through related content and programs."
+        }
+      ]
+    },
+    "books/books-aap-mosaic-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishers.org/wp-content/uploads/2020/06/aap-default-news.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Association of American Publishers (AAP), the News/Media Alliance (N/MA) and the International Association of Scientific, Technical and Medical Publishers (STM) filed an amicus brief in In Re Mosaic LLM Litigation."
+        },
+        {
+          "t": "p",
+          "x": "The plaintiffs are authors. In the case, filed in March 2024, the authors allege that defendants Mosaic and Databricks downloaded datasets mixed with illegal copies of copyrighted text to train large language models. The case is before Judge Charles Breyer of the U.S. District Court for the Northern District of California."
+        },
+        {
+          "t": "p",
+          "x": "The brief makes two requests: that the court deny the defendants' motion for summary judgment, and that it decline to recognize using copyrighted works for AI training without permission as fair use."
+        },
+        {
+          "t": "p",
+          "x": "Its reasoning: fair use is an important exception carved into exclusive rights, but the brief argues that exception should not be extended to large language models that are fed expressive works and generate expressive works in return. The resulting output functions, in practice, as a substitute for the original."
+        },
+        {
+          "t": "p",
+          "x": "The brief also notes that unlicensed AI training effectively takes away markets that rightfully belong to copyright holders, pointing specifically to the markets for derivative works and AI licensing."
+        },
+        {
+          "t": "p",
+          "x": "STM, which joined the brief, summed it up in a separate statement: licensing is the sustainable path that supports innovation while also protecting copyright."
+        },
+        {
+          "t": "p",
+          "x": "AAP is an organization that speaks out on legal and policy matters on behalf of major U.S. book, journal and educational publishers."
+        }
+      ]
+    },
+    "books/books-dosdoce-audio-ai-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/Who-is-Narrating-the-Future-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A white paper commissioned by the Frankfurt Book Fair and produced by Dosdoce.com has come out. It's a report that puts numbers to how far the audio industry has brought AI in, and where it has stopped."
+        },
+        {
+          "t": "p",
+          "x": "The survey covered 85 industry professionals across Europe, Latin America, North America, Africa and the Middle East. Half worked at audio production studios, 36% at publishers, and 14% at streaming platforms and distributors."
+        },
+        {
+          "t": "p",
+          "x": "Dosdoce.com founder Javier Celaya said, “In less than a year, the industry's attitude has shifted from 'cautious progress' to 'actively testing and redesigning the production process.'” In fact, more than two-thirds of respondents are redesigning their workflows as they test AI tools."
+        },
+        {
+          "t": "p",
+          "x": "He immediately added a caveat: “85% use AI somewhere in audio production, but only 17% have embedded it across more than six stages. The headline number and the reality on the ground are two different stories.”"
+        },
+        {
+          "t": "p",
+          "x": "The uses are mostly four: optimizing workflows, mass-producing backlist titles, diversifying languages and accents, and building infrastructure for emerging markets where production costs are too heavy to bear. Respondents said AI isn't pushing people out but is used alongside them, both in production and in narration."
+        },
+        {
+          "t": "p",
+          "x": "Cost savings fell short of expectations. Technology vendors cite 85 to 95%, but the actual reported savings were 20% in the second year of adoption and 50% in the third. The white paper attributes this to AI being embedded in only one or two stages rather than across the whole process."
+        },
+        {
+          "t": "p",
+          "x": "When choosing a vendor, 86% said they weigh voice quality and rights transparency, and 79% weigh data privacy. The 15% committed to human-only production cited reasons such as a human-first principle, the limits of the technology, client demand, and insufficient language support."
+        },
+        {
+          "t": "p",
+          "x": "Half of the barriers to scaling come from restrictions set by rights agents, publishers and authors. Even so, 86% expect AI to drive disruptive or moderate growth over the next three years, aimed at backlist, academic, niche and non-English titles that haven't previously been financially viable."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/AIAudio_Whitepaper_Dosdoce-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Celaya closed with this: “The real question the industry faces isn't whether AI narration and human narration coexist. That's already clear. The question is whether transparency keeps pace with that growth. Trust, once lost, has to be won back at a cost far higher than making one book with AI.”"
+        }
+      ]
+    },
+    "books/books-library-upskill-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://americanlibrariesmagazine.org/wp-content/uploads/2026/08/0926w.FEAT3-editions.jpg"
+        },
+        {
+          "t": "p",
+          "x": "This is an excerpt from Upskilling for Library Workers: A Guide for Future-Ready Professionals by Ann Medaille (ALA Editions, 2026)."
+        },
+        {
+          "t": "p",
+          "x": "Compared with a decade ago, library work has already changed. Staff now advise patrons on complex research tools, run digital literacy classes, support virtual learning environments, troubleshoot devices, and co-design projects with community partners. Automation and AI are now reshaping many parts of that work."
+        },
+        {
+          "t": "p",
+          "x": "Over the long run, technological innovation raises productivity and creates more interesting work. The problem lies in the short run. The disruption in between is hard for workers to bear, which is why the author says support for building skills must never let up."
+        },
+        {
+          "t": "p",
+          "x": "Companies choose reskilling to stay competitive, but libraries must do it to stay relevant at all. An hour a month, or an occasional webinar, will not cut it. Reskilling is too big a task to let drift."
+        },
+        {
+          "t": "p",
+          "x": "The author cites the 70-20-10 figure. Of what people learn on the job, only 10% comes from formal education, 70% from actual work experience, and 20% from interaction with other people. The ratio is not scientifically proven, but it is clear that formal education is only a small piece of the strategy."
+        },
+        {
+          "t": "p",
+          "x": "The alternative is the four E's laid out by HR expert Danny Johnson: education, experiences, exposures, and environment. When all four work together, employees keep learning, sharpen their skills, and gain confidence and, eventually, expertise."
+        },
+        {
+          "t": "p",
+          "x": "Education covers fundamentals that are hard to pick up on the job, such as cataloging rules, data analysis, copyright law, digital preservation, and database management. In-person training creates connections across departments and branches, while online training is easy to access and can be revisited. The author also notes that many people grew tired of online learning after the pandemic."
+        },
+        {
+          "t": "p",
+          "x": "On the experience side, what the author pushes hardest is the stretch assignment. Wharton's Peter Cappelli says, “The best way to develop people is to give them stretch assignments and opportunities, and that costs nothing.” That might mean asking an electronic resources librarian to visualize collection data, or having a business librarian lead a user survey project."
+        }
+      ]
+    },
+    "books/books-nairobi-essay-collapse": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In Kenya, ChatGPT erased an entire business model: writing assignments and theses for international students at American and British universities. According to The New York Times, thousands of Kenyans wrote on medicine, computer science and engineering, sometimes logging into clients' school accounts directly."
+        },
+        {
+          "t": "p",
+          "x": "Researchers believe that at the peak in the early part of this decade, at least 40,000 people in Nairobi alone depended on this work. Teresios Bundi, 34, wrote more than 2,500 pieces over 12 years, eventually earning $40 to $70 per piece. After ChatGPT launched in 2022, both prices and orders collapsed."
+        },
+        {
+          "t": "p",
+          "x": "Ghostwriting is not the only thing that dried up. Work like transcription, data labeling, and content moderation for Meta disappeared along with it."
+        },
+        {
+          "t": "p",
+          "x": "Since 2016, Kenya's government has pushed online gig work as policy, and companies like Sama have labeled data for AI training. About 80% of jobs in the country are in the informal sector."
+        },
+        {
+          "t": "p",
+          "x": "The work that remains now, according to The New York Times, is being a ‘humanizer’ — reworking AI-generated text so it slips past plagiarism checks. Oxford's Professor Mark Graham expects the same upheaval to repeat around the world. As Bundi puts it: “AI is coming for bankers, for accountants, for engineers. It will come for architects too. It is coming for everyone.”"
+        }
+      ]
     }
   }
 }

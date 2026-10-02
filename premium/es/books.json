@@ -4097,6 +4097,297 @@
           "cap": "Una pieza expuesta en el Museo del Duomo de Milán que muestra cómo un estudio a pluma se convierte, a través de un molde de yeso, en una escultura de mármol terminada."
         }
       ]
+    },
+    "books/books-amazon-book-destruction": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1000/2026/09/maxresdefault-4.jpg",
+          "cap": "Collage: 404 Media"
+        },
+        {
+          "t": "p",
+          "x": "Este es el episodio del podcast semanal de 404 Media que Joseph Cox publicó el 2 de septiembre de 2026. Cubre tres segmentos: una continuación de la historia de Amazon sobre triturar libros para entrenar IA, por qué los artículos escritos por IA siguen mostrando los mismos nombres, y el gasto reciente de ICE."
+        },
+        {
+          "t": "p",
+          "x": "El primer segmento es el reportaje de seguimiento de Emanuel sobre el escaneo de libros de Amazon. Habló directamente con alguien que trabajó en el almacén donde se destruyen libros para entrenar los productos de IA de Amazon."
+        },
+        {
+          "t": "p",
+          "x": "Después de la pausa publicitaria aparecen Emanuel y Sam. Examinan el fenómeno de que un puñado de los mismos nombres aparezca repetidamente en las salidas de los LLM."
+        },
+        {
+          "t": "p",
+          "x": "El segmento exclusivo para suscriptores de pago es de Joseph. Explica por qué ICE está comprando grandes cantidades de datos relacionados con el 'fraude electoral'."
+        },
+        {
+          "t": "video",
+          "yt": "PcNdLnLF7mo"
+        },
+        {
+          "t": "p",
+          "x": "El podcast semanal se puede escuchar en Apple Podcasts, Spotify y YouTube. El contenido adicional de este episodio está disponible solo para suscriptores de pago."
+        },
+        {
+          "t": "p",
+          "x": "Al suscribirse de pago, llega un correo de Transistor, la plataforma que aloja el podcast. Incluye un enlace a la versión exclusiva para suscriptores, y si se añade ese feed a la app que se use, no se pierde ningún episodio. El enlace privado de YouTube a la versión de video extendida también se incluye en ese mismo correo y en las notas del episodio dentro de la app del podcast."
+        },
+        {
+          "t": "p",
+          "x": "Las notas del episodio incluyen cinco enlaces: una invitación al podcast en vivo y fiesta del tercer aniversario de 404 Media, 'Dentro del almacén de Amazon que escanea y tritura libros para entrenar IA', 'Los fantasmas de la IA que contaminan la publicación académica', 'ICE planea gastar millones en perros robot de Boston Dynamics' y 'ICE quiere datos de votantes de todo el país'."
+        }
+      ]
+    },
+    "books/books-library-ai-policy-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.infodocket.com/wp-content/uploads/2026/09/2026-09-06_14-05-54.png"
+        },
+        {
+          "t": "p",
+          "x": "Este es un estudio que Gary Price presentó en infoDOCKET el 6 de septiembre de 2026. Se publicó en Public Library Quarterly."
+        },
+        {
+          "t": "p",
+          "x": "El título es 'Accountability, Integrity: AI Policy in Public Libraries'."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos autores: Kathryn FitzGerald, de la Universidad de Washington, y Benjamin Lee, de la misma universidad."
+        },
+        {
+          "t": "p",
+          "x": "La fuente es Public Library Quarterly, con DOI 10.1080/01616846.2026.2725502."
+        },
+        {
+          "t": "p",
+          "x": "El resumen comienza así: a medida que la inteligencia artificial transforma a la vez el trabajo bibliotecario y el entorno de la información, las bibliotecas públicas deben decidir por sí mismas si participar con la IA y, de ser así, de qué manera, preservando los valores de la biblioteca."
+        },
+        {
+          "t": "p",
+          "x": "Hasta donde saben los autores, aún no se ha publicado ningún estudio que analice cómo las políticas de IA de las bibliotecas públicas de Estados Unidos y Canadá conectan los valores bibliotecarios con la adopción de tecnología."
+        },
+        {
+          "t": "p",
+          "x": "Para llenar ese vacío, los dos autores realizaron un rastreo del entorno en los sitios web de bibliotecas públicas, identificando y analizando declaraciones de política sobre IA."
+        },
+        {
+          "t": "p",
+          "x": "Revisaron más de 200 sitios web de bibliotecas e identificaron 32 políticas de IA. Las 32 mencionaban al menos dos valores, y los que aparecían con más frecuencia eran la privacidad y la seguridad, y la rendición de cuentas."
+        },
+        {
+          "t": "p",
+          "x": "La publicación de infoDOCKET incluye un enlace directo al artículo completo. Categorías: Bibliotecas, Noticias, Bibliotecas Públicas."
+        }
+      ]
+    },
+    "books/books-millie-reading-future": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.epnc.co.kr/news/photo/202609/406515_407012_1526.jpg",
+          "cap": "Jeong Jae-wook, director ejecutivo de kt Millie's Library. [Foto=kt Millie's Library]"
+        },
+        {
+          "t": "p",
+          "x": "Con motivo de su 10.º aniversario, kt Millie's Library examinó cómo la difusión de la IA está cambiando la experiencia de lectura y presentó el papel y la dirección de la lectura en la era de la IA."
+        },
+        {
+          "t": "p",
+          "x": "El día 3, Millie's Library celebró su conferencia del 10.º aniversario, 'El futuro de la lectura: un plano de la lectura iluminado en medio de la era de la IA'. El evento buscaba examinar cómo cambiaría el valor de la lectura y el pensamiento ahora que la IA transforma la manera en que se busca y se comprende la información."
+        },
+        {
+          "t": "p",
+          "x": "En su discurso de apertura, el director ejecutivo de Millie's Library, Jeong Jae-wook, resumió los cambios de la última década en dos líneas: de la propiedad al acceso, y de la búsqueda al descubrimiento."
+        },
+        {
+          "t": "p",
+          "x": "La forma de leer que consistía en comprar y poseer libros dio paso a acceder al contenido en el momento en que se necesita. Según el análisis del director Jeong, a medida que se multiplicaron formatos como los libros electrónicos y los audiolibros, la lectura se amplió hasta convertirse en una experiencia cotidiana de compartir ideas con otras personas."
+        },
+        {
+          "t": "p",
+          "x": "Vio la difusión de la IA como otro punto de inflexión para esa experiencia. A medida que la IA busca, resume información e incluso ofrece respuestas, el propio proceso de llegar a la información ha cambiado. De cara al futuro, explicó, lo importante será el proceso de preguntar y pensar por uno mismo, y no solo leer."
+        },
+        {
+          "t": "p",
+          "x": "El director Jeong subrayó: “La lectura en la era de la IA es una experiencia que va más allá del simple acto de leer, hacia preguntarse, pensar y comprender a los demás y al mundo por uno mismo”, y añadió: “Debemos ver la IA no como una tecnología que sustituye a la lectura, sino como una herramienta que ayuda a ampliar el descubrimiento, la comprensión y el pensamiento”."
+        },
+        {
+          "t": "p",
+          "x": "En línea con este cambio, Millie's Library presentó cinco experiencias de lectura futura. 'Omni Reading' consiste en seguir leyendo en varios dispositivos y entornos sin estar atado a un lugar o un momento. 'Reading Fit' es la IA ayudando a los lectores a descubrir nuevos libros al captar los cambios en sus gustos e intereses."
+        },
+        {
+          "t": "p",
+          "x": "La forma en que la IA y los lectores interactúan se señaló como otro eje. 'Reading Talk' es la experiencia de preguntarle a la IA sobre un libro y ampliar el pensamiento al examinar varias perspectivas, mientras que 'Reading Mate' se refiere a lectores con el mismo libro o los mismos gustos que leen juntos y comparten opiniones."
+        },
+        {
+          "t": "p",
+          "x": "El último es 'Reading Alliance', la idea de que autores, editoriales, plataformas y lectores se conecten para construir juntos el contenido y el ecosistema de la lectura. Millie's Library dijo que los cinco no son categorías separadas, sino que se crean a medida que los actores que forman el ecosistema se conectan y cooperan."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.epnc.co.kr/news/photo/202609/406515_407013_1639.jpg",
+          "cap": "Vista general de la conferencia del 10.º aniversario de kt Millie's Library, 'El futuro de la lectura'. [Foto=kt Millie's Library]"
+        },
+        {
+          "t": "p",
+          "x": "Tras el discurso de apertura, la conferencia continuó con charlas y diálogos de expertos en campos como la filosofía, los datos, la psicología cognitiva y la literatura. También hubo charlas con escritores que participaron en la antología especial del 10.º aniversario 'Bookkeeper', sobre el valor de la lectura y el pensamiento en la era de la IA y la dirección de la futura cultura lectora."
+        },
+        {
+          "t": "p",
+          "x": "A un lado del recinto se instaló un espacio de exhibición y experiencia que repasaba la última década de Millie's Library y las futuras experiencias de lectura. Los asistentes pudieron ver de cerca, a través de contenidos y programas relacionados, la visión de la lectura futura que presentó Millie's Library."
+        }
+      ]
+    },
+    "books/books-aap-mosaic-amicus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishers.org/wp-content/uploads/2020/06/aap-default-news.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La Association of American Publishers (AAP), la News/Media Alliance (N/MA) y la International Association of Scientific, Technical and Medical Publishers (STM) presentaron un escrito de amicus curiae en el caso In Re Mosaic LLM Litigation."
+        },
+        {
+          "t": "p",
+          "x": "Los demandantes son autores. En el caso, presentado en marzo de 2024, los autores alegan que los demandados Mosaic y Databricks descargaron conjuntos de datos mezclados con copias ilegales de textos protegidos por derechos de autor para entrenar grandes modelos de lenguaje. El caso está a cargo del juez Charles Breyer, del Tribunal de Distrito de EE. UU. para el Distrito Norte de California."
+        },
+        {
+          "t": "p",
+          "x": "El escrito hace dos peticiones: que el tribunal rechace la moción de juicio sumario presentada por los demandados, y que no reconozca como uso justo el empleo de obras protegidas por derechos de autor para el entrenamiento de IA sin permiso."
+        },
+        {
+          "t": "p",
+          "x": "Su razonamiento es el siguiente: el uso justo es una excepción importante abierta en los derechos exclusivos, pero el escrito argumenta que esa excepción no debería extenderse a los grandes modelos de lenguaje, que se alimentan de obras expresivas y generan a cambio obras expresivas. El resultado producido funciona, en la práctica, como sustituto del original."
+        },
+        {
+          "t": "p",
+          "x": "El escrito también señala que el entrenamiento de IA sin licencia le quita de forma efectiva a los titulares de derechos de autor los mercados que les corresponderían, señalando en particular los mercados de obras derivadas y de licencias para IA."
+        },
+        {
+          "t": "p",
+          "x": "STM, que se unió al escrito, lo resumió en un comunicado aparte: las licencias son el camino sostenible que respalda la innovación y, al mismo tiempo, protege los derechos de autor."
+        },
+        {
+          "t": "p",
+          "x": "AAP es una organización que se pronuncia en asuntos legales y de política en nombre de las principales editoriales de libros, revistas y materiales educativos de Estados Unidos."
+        }
+      ]
+    },
+    "books/books-dosdoce-audio-ai-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/Who-is-Narrating-the-Future-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Salió a la luz un libro blanco encargado por la Feria del Libro de Fráncfort y elaborado por Dosdoce.com. Es un informe que pone en cifras hasta dónde ha llegado la IA en la industria del audio, y dónde se ha detenido."
+        },
+        {
+          "t": "p",
+          "x": "La encuesta abarcó a 85 profesionales del sector en Europa, América Latina, América del Norte, África y Oriente Medio. La mitad trabajaba en estudios de producción de audio, el 36% en editoriales y el 14% en plataformas de streaming y distribuidoras."
+        },
+        {
+          "t": "p",
+          "x": "El fundador de Dosdoce.com, Javier Celaya, dijo: “En menos de un año, la actitud de la industria pasó de un ‘avance cauteloso’ a ‘probar activamente y rediseñar el proceso de producción’.” De hecho, más de dos tercios de los encuestados están rediseñando sus flujos de trabajo mientras prueban herramientas de IA."
+        },
+        {
+          "t": "p",
+          "x": "De inmediato añadió una advertencia: “El 85% usa IA en algún punto de la producción de audio, pero solo el 17% la ha incorporado en más de seis etapas. La cifra del titular y la realidad sobre el terreno son historias distintas.”"
+        },
+        {
+          "t": "p",
+          "x": "Los usos son, en general, cuatro: optimizar flujos de trabajo, producir en masa el catálogo de fondo, diversificar idiomas y acentos, y construir infraestructura para mercados emergentes donde los costos de producción resultan demasiado pesados. Los encuestados dijeron que la IA no desplaza a las personas, sino que se usa junto a ellas, tanto en la producción como en la narración."
+        },
+        {
+          "t": "p",
+          "x": "El ahorro de costos quedó por debajo de lo esperado. Los proveedores de tecnología hablan de un 85% a 95%, pero el ahorro realmente reportado fue del 20% en el segundo año de adopción y del 50% en el tercero. El libro blanco lo atribuye a que la IA se incorpora solo en una o dos etapas, no en todo el proceso."
+        },
+        {
+          "t": "p",
+          "x": "Al elegir proveedor, el 86% dijo que tiene en cuenta la calidad de voz y la transparencia de derechos, y el 79% la privacidad de los datos. El 15% que insiste en producir solo con manos humanas citó razones como el principio de dar prioridad a las personas, los límites de la tecnología, las exigencias de los clientes y la falta de soporte de idiomas."
+        },
+        {
+          "t": "p",
+          "x": "La mitad de las barreras que frenan la expansión provienen de restricciones impuestas por agentes de derechos, editoriales y autores. Aun así, el 86% espera que la IA impulse un crecimiento disruptivo o moderado en los próximos tres años, dirigido al catálogo de fondo, los libros académicos, los títulos de nicho y los libros no anglófonos que antes no resultaban rentables."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/09/AIAudio_Whitepaper_Dosdoce-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Celaya concluyó así: “La verdadera pregunta que enfrenta la industria no es si la narración por IA y la narración humana pueden coexistir. Eso ya está claro. La cuestión es si esa expansión viene acompañada de transparencia. Una confianza perdida hay que recuperarla a un costo mucho más alto que el de producir un solo libro con IA.”"
+        }
+      ]
+    },
+    "books/books-library-upskill-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://americanlibrariesmagazine.org/wp-content/uploads/2026/08/0926w.FEAT3-editions.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Este texto es un extracto de Upskilling for Library Workers: A Guide for Future-Ready Professionals, escrito por Ann Medaille (ALA Editions, 2026)."
+        },
+        {
+          "t": "p",
+          "x": "En comparación con una década atrás, el trabajo del personal de biblioteca ya ha cambiado. Asesoran a los usuarios sobre herramientas de investigación complejas, imparten clases de alfabetización digital, sostienen entornos de aprendizaje virtual, resuelven problemas con los equipos y diseñan proyectos junto con socios comunitarios. A esto se suman la automatización y la IA, que están transformando muchas facetas de ese trabajo."
+        },
+        {
+          "t": "p",
+          "x": "A largo plazo, la innovación tecnológica eleva la productividad y crea trabajos más interesantes. El problema está en el corto plazo. La confusión de ese período es difícil de sobrellevar para quienes trabajan, por lo que, según la autora, el apoyo para adquirir nuevas habilidades no debe interrumpirse."
+        },
+        {
+          "t": "p",
+          "x": "Las empresas optan por la recapacitación para mantener su competitividad, pero las bibliotecas deben hacerlo para preservar su razón de ser. Una hora al mes, o un webinar ocasional de vez en cuando, no basta. La recapacitación es una tarea demasiado grande para dejarla a la deriva."
+        },
+        {
+          "t": "p",
+          "x": "La cifra que cita la autora es 70-20-10. De lo que se aprende en el trabajo, solo el 10% proviene de la educación formal, el 70% de la experiencia laboral real y el 20% de la interacción con otras personas. No es una proporción comprobada científicamente, pero deja claro que la educación formal es solo una pequeña parte de la estrategia."
+        },
+        {
+          "t": "p",
+          "x": "La alternativa son las cuatro E que resume la experta en recursos humanos Danny Johnson: educación (education), experiencias (experiences), exposición (exposures) y entorno (environment). Cuando las cuatro funcionan juntas, el personal sigue aprendiendo, afianza sus habilidades y gana confianza y, con el tiempo, experiencia profesional."
+        },
+        {
+          "t": "p",
+          "x": "La parte de educación cubre fundamentos que son difíciles de recoger mientras se trabaja, como las reglas de catalogación, el análisis de datos, el derecho de autor, la preservación digital y la gestión de bases de datos. La formación presencial crea encuentros entre departamentos y sucursales, y la formación en línea es fácil de abrir y se puede volver a ver. Aun así, la autora señala que muchas personas quedaron agotadas del aprendizaje en línea tras la pandemia."
+        },
+        {
+          "t": "p",
+          "x": "En el terreno de la experiencia, lo que la autora recomienda especialmente son las tareas de estiramiento (stretch assignments). El profesor Peter Cappelli, de Wharton, dice: “La mejor manera de desarrollar a las personas es darles tareas de estiramiento y oportunidades, y eso no cuesta nada”. Por ejemplo, encargar a un responsable de recursos electrónicos que visualice los datos de la colección, o hacer que un bibliotecario de negocios lidere un proyecto de encuesta a los usuarios."
+        }
+      ]
+    },
+    "books/books-nairobi-essay-collapse": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En Kenia, ChatGPT borró por completo un modelo de negocio: escribir trabajos y tesis para estudiantes internacionales de universidades de Estados Unidos y el Reino Unido. Según The New York Times, miles de kenianos escribían sobre medicina, informática e ingeniería, y a veces iniciaban sesión directamente en las cuentas escolares de sus clientes."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores calculan que, en el pico de principios de esta década, al menos 40.000 personas solo en Nairobi dependían de este trabajo. Teresios Bundi, de 34 años, escribió más de 2.500 trabajos en 12 años y, más adelante, cobraba entre 40 y 70 dólares por pieza. Tras el lanzamiento de ChatGPT en 2022, tanto los precios como los pedidos se desplomaron."
+        },
+        {
+          "t": "p",
+          "x": "No es solo el ghostwriting lo que se secó. Trabajos como la transcripción, el etiquetado de datos y la moderación de contenido para Meta desaparecieron junto con él."
+        },
+        {
+          "t": "p",
+          "x": "Desde 2016, el gobierno de Kenia ha impulsado el trabajo freelance en línea como política, y empresas como Sama han etiquetado datos para entrenar IA. Alrededor del 80% de los empleos del país son informales."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo que queda ahora, según The New York Times, es el de ‘humanizador’: retocar textos generados por IA para que no los detecten los verificadores de plagio. El profesor Mark Graham, de Oxford, cree que la misma convulsión se repetirá en todo el mundo. Bundi lo dice así: “La IA llega a los banqueros, llega a los contadores, llega a los ingenieros. También llegará a los arquitectos. Llega a todos.”"
+        }
+      ]
     }
   }
 }

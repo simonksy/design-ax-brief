@@ -5336,6 +5336,467 @@
           "x": "Todo el ecosistema HomeAgent, incluidos los dos modelos de hub y las cámaras SinKare, comenzó a aceptar pedidos anticipados desde el mismo día de su presentación."
         }
       ]
+    },
+    "gadgets/gadgets-claude-carplay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/sdomlpqyD0M4oSLlCjmWGvdxjrw=/1960x/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic agregó integración con CarPlay a la app de Claude para iOS. Ahora los usuarios de Claude pueden hablar con Claude a través de la pantalla de infoentretenimiento del vehículo."
+        },
+        {
+          "t": "p",
+          "x": "Quien abrió la puerta fue Apple. iOS 26.4 añadió soporte para chatbots de terceros en CarPlay."
+        },
+        {
+          "t": "p",
+          "x": "Eso sí, hay condiciones. Cualquier app de chatbot que quiera entrar en CarPlay debe admitir una pantalla de control por voz, usar las plantillas de CarPlay que especifica Apple y recibir una autorización (entitlement) de Apple."
+        },
+        {
+          "t": "p",
+          "x": "Claude responde con manos libres a preguntas hechas por voz, pero no puede controlar funciones del vehículo ni del iPhone."
+        },
+        {
+          "t": "p",
+          "x": "Tampoco hay palabra de activación. Las palabras de activación de terceros no son compatibles, así que el conductor debe abrir la app de Claude directamente desde la interfaz de CarPlay."
+        },
+        {
+          "t": "p",
+          "x": "La app de Claude en CarPlay se abre en una pantalla de “Start a hands-free conversation” (iniciar una conversación con manos libres). Desde ahí se puede empezar una conversación nueva o retomar una reciente."
+        },
+        {
+          "t": "p",
+          "x": "Dentro de la app hay controles para silenciar y reactivar el audio, y para terminar o reanudar una conversación. También se añadió una señal visual que indica si Claude está escuchando o hablando en ese momento."
+        },
+        {
+          "t": "p",
+          "x": "CarPlay ha aceptado apps de terceros desde hace mucho tiempo, pero Apple ha mantenido un margen reducido de lo que permite para evitar distracciones al conducir. OpenAI añadió soporte de CarPlay a la app de ChatGPT a principios de este año."
+        },
+        {
+          "t": "p",
+          "x": "El artículo lleva una nota de actualización, revisada para reflejar que la integración de Claude con CarPlay ya está realmente activa."
+        }
+      ]
+    },
+    "gadgets/gadgets-windows-project-zenith": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-2560-80.jpg",
+          "cap": "Image credit: Tom's Hardware"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft ha lanzado otra versión de Windows 11 dirigida a desarrolladores. Se llama Project Zenith, una versión pensada para empezar a escribir código en el momento en que se abre la caja."
+        },
+        {
+          "t": "p",
+          "x": "Según el blog de Windows, este sistema operativo se ha ajustado para los flujos de trabajo de los desarrolladores y se lanza primero en el AMD Ryzen AI Halo. Es la respuesta directa del equipo rojo al DGX Spark de Nvidia."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft dijo que pronto lo ampliará a dispositivos de sus propios OEM y de otros socios de silicio."
+        },
+        {
+          "t": "p",
+          "x": "Redmond describe Zenith así: “una experiencia de Windows en la que se puede empezar a programar de inmediato y sin fricciones, en dispositivos de nivel desarrollador con 64GB o más de memoria unificada y 250GB/s o más de ancho de banda de memoria.” Los desarrolladores pueden “entrar de lleno.”"
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas vienen preinstaladas: Visual Studio Code, GitHub Copilot, PowerToys, WinAppCLI, Windows Dev Skills, Intelligent Terminal, PowerShell 7, Git, GitHub CLI, AzureCLI, Core Utils, Oh My Posh, Python 3.14+, uv, NVM, Node 24+, WSL 2+ Ubuntu y .NET 10."
+        },
+        {
+          "t": "p",
+          "x": "La configuración también viene lista de antemano. Según explica Microsoft, esto evita tener que rebuscar en el menú de configuración de cada aplicación para ajustarla a tu propio entorno."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xi79WuWDZXzix4Fc7sXNMn-1200-80.png",
+          "cap": "Image credit: SK Hynix"
+        },
+        {
+          "t": "p",
+          "x": "El público al que apunta es, sobre todo, a desarrolladores de IA. Los propios dispositivos en los que corre este sistema operativo están diseñados para ejecutar localmente modelos de más de 30.000 millones de parámetros sin medición de uso. También se ha retocado el entorno para crear y ejecutar agentes, con verificación de identidad impuesta por el sistema operativo, aislamiento mediante Microsoft Execution Containers (MXC) y funciones de gestión de agentes de nivel empresarial."
+        },
+        {
+          "t": "p",
+          "x": "Detrás de esto hay una crisis de tokens de IA. Los agentes consumen 1.000 veces más tokens que una IA normal, y los costos se han salido de control. El cálculo es mantener los modelos de frontera en la nube mientras todo lo demás se ejecuta localmente en dispositivos como este, un cálculo especialmente urgente para organizaciones pequeñas o para quienes experimentan desde casa."
+        },
+        {
+          "t": "p",
+          "x": "El precio es la contrapartida. Al menos por ahora, solo puede usarse en dispositivos caros. Un AMD Ryzen AI Halo con un procesador Ryzen AI Max+ 395, 128GB de LPDDR5x-8000, un SSD de 2TB y gráficos integrados Radeon 8060S cuesta 3.999,99 dólares en Micro Center."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7cUTDmN2PHNRiNBVqbKf56-676-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Aunque más adelante Zenith se venda por separado para instalarse en otras mini PC, el requisito de 64GB o más de memoria unificada sigue siendo un obstáculo importante, y más aún ahora que el auge de la IA ha disparado los precios de la RAM."
+        }
+      ]
+    },
+    "gadgets/gadgets-withings-beamo-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/beamo-stetho-sense.jpg",
+          "cap": "StethO Sense combina las grabaciones del BeamO con un análisis de sonidos cardíacos y pulmonares mediante IA. Withings/CNET"
+        },
+        {
+          "t": "p",
+          "x": "He pasado varias semanas probando el Withings BeamO desde su lanzamiento en noviembre del año pasado. Es un dispositivo autorizado por la FDA que combina un estetoscopio, un ECG y un termómetro en uno solo. Era excelente para tomar la temperatura y escuchar los sonidos del corazón y los pulmones, pero para interpretar esos valores siempre hacía falta un médico. Eso está a punto de cambiar."
+        },
+        {
+          "t": "p",
+          "x": "El viernes, en IFA 2026, Withings presentó StethO Sense. Es un servicio que se abre a los usuarios de Withings+ a partir del 1 de octubre, en el que un software de análisis de IA de terceros lee las grabaciones de corazón y pulmón del BeamO. Según el material, la detección de soplos cardíacos anormales corre a cargo de eMurmur Heart AI, y la interpretación de los sonidos respiratorios, de StethoMe."
+        },
+        {
+          "t": "p",
+          "x": "“StethO Sense permite a las familias grabar los sonidos del corazón en casa en segundos, tantas veces como quieran, y llevar ese registro al médico,” dijo Livia Robic, gerente de producto de BeamO. “No sustituye una visita médica. Aporta un dato de salud más para llevar a esa consulta.”"
+        },
+        {
+          "t": "p",
+          "x": "eMurmur es una empresa de IA médica que desarrolló eMurmur Heart AI, un algoritmo autorizado por la FDA para el análisis de sonidos cardíacos. El comunicado de Withings afirma que el algoritmo ha sido validado mediante estudios clínicos revisados por pares tanto en niños como en adultos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/beamo.jpg?w=864",
+          "cap": "Tanto el BeamO como su servicio StethO Sense pueden usarse en niños y en adultos. Withings"
+        },
+        {
+          "t": "p",
+          "x": "Analiza en segundos una grabación de sonido cardíaco tomada en uno de cuatro puntos, clasificando el resultado en sin soplo, soplo anormal o soplo inocente. Cada lectura viene con una puntuación de confianza."
+        },
+        {
+          "t": "p",
+          "x": "StethoMe, que se encarga de los sonidos pulmonares, divide su protocolo según la edad: graba sonidos pulmonares en seis puntos para niños y en ocho puntos para adultos."
+        },
+        {
+          "t": "p",
+          "x": "El resultado llega como un índice respiratorio de 0 a 100, que combina la calidad y el sonido de la respiración, la frecuencia respiratoria junto con el ritmo de la respiración y la frecuencia cardíaca, para ayudar a detectar cambios en los patrones respiratorios."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, StethoMe está pensado para un seguimiento general de los sonidos pulmonares. No está diseñado para personas ya diagnosticadas con afecciones respiratorias como asma, EPOC o bronquitis."
+        },
+        {
+          "t": "p",
+          "x": "StethO Sense vive dentro de la app de Withings, pero requiere una membresía premium Withings+, que cuesta 10 dólares al mes o 100 dólares al año. Al elegir una grabación de corazón o pulmón en la sección StethO Sense de la app y enviarla a análisis, el resultado llega en segundos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/e2be0953-7c50-4bc2-9c53-d468fddfb18d.png?w=864",
+          "cap": "Su diseño de un solo botón y sus diagramas anatómicos hacen que el BeamO sea sencillo de usar. Cole Kan/Anna Gragert/CNET/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La idea detrás del diseño es complementar el Cardio Checkup de Withings+, un servicio que envía una grabación de ECG de las señales eléctricas del corazón a un cardiólogo para su revisión en 24 horas, utilizable cuatro veces al año."
+        },
+        {
+          "t": "p",
+          "x": "StethO Sense en sí no tiene límite de usos. A cambio, los resultados no son un diagnóstico. Toda grabación y análisis puede exportarse y compartirse con un médico."
+        },
+        {
+          "t": "p",
+          "x": "A partir del 1 de octubre, los suscriptores de Withings+ podrán usar esta función. Los usuarios existentes que compraron el BeamO antes de esa fecha recibirán una prueba gratuita de un mes de Withings+, igual que quienes compren el BeamO de 250 dólares después del 1 de octubre."
+        }
+      ]
+    },
+    "gadgets/gadgets-xreal-aura-android-xr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "He escuchado hablar durante mucho tiempo del Project Aura de XREAL. Es un enfoque completamente nuevo para Android, y como ocurre con cualquier tecnología en etapa temprana, tenía dudas sobre cuán madura estaría en realidad. Ahora que lo he probado en persona, estoy contando los días para su lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "XREAL ha venido insinuando un lanzamiento en otoño durante meses, pero últimamente habla con más claridad: antes de que termine 2026, a un precio inferior a 1.500 dólares. Las personas con las que hablé en IFA se mostraron cautelosas con esa cifra: dijeron que “menos de 1.500 dólares” no significa necesariamente 1.499 dólares."
+        },
+        {
+          "t": "p",
+          "x": "El verdadero reto de la XR nunca fue mostrar la tecnología. Llevamos años viendo RA y RV impresionantes. Lo difícil es lograr que se sienta lo bastante natural como para querer usarla todos los días, y por lo que pude probar brevemente, XREAL se ha acercado bastante a eso."
+        },
+        {
+          "t": "p",
+          "x": "Si es la primera vez que te acercas a Android XR, piénsalo así: en lugar de mirar hacia abajo un rectángulo en la mano, las apps, las pantallas y los objetos digitales flotan en el espacio que te rodea. Ves YouTube en una pantalla virtual gigante, o te desplazas por una ciudad con Google Maps."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La demostración empezó con una introducción a los gestos básicos de la mano: pellizcar, tocar, arrastrar, desplazar. Al principio tenía que pensar conscientemente en lo que estaba haciendo, pero tras unos 10 minutos olvidé los controles y simplemente lo estaba usando. XREAL dijo que para quienes se lo pongan por primera vez de verdad hay previsto un proceso de aprendizaje de gestos más largo."
+        },
+        {
+          "t": "p",
+          "x": "Más importante aún es lo familiar que resulta el software. Si has usado un teléfono Android durante un tiempo, no hay un sistema operativo nuevo que aprender. Las apps, los conceptos de navegación y las interacciones básicas descansan sobre un ecosistema que ya conoces."
+        },
+        {
+          "t": "p",
+          "x": "El hardware es más complicado de lo que parece. Aura es una colaboración entre XREAL, Google y Qualcomm. Google aportó la plataforma y el ecosistema de Android XR, Qualcomm aportó la computación Snapdragon, y XREAL aportó su experiencia en óptica y computación espacial. La plataforma principal es Snapdragon Reality Elite, y XREAL construyó por separado su propio coprocesador espacial X1S."
+        },
+        {
+          "t": "p",
+          "x": "La pantalla es un micro-OLED de Sony con 1.920×1.200 por ojo, hasta 120Hz, y un campo de visión de 70 grados. La óptica X Prism propia de XREAL comprime todo esto en la forma de unas gafas. También admite insertos graduados para quienes necesiten lentes correctivas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Lo más impresionante fue Google Maps. La nitidez al acercar y alejar, y al girar alrededor de ciudades y puntos de referencia, resultaba casi mágica. Donde se admiten experiencias inmersivas, incluso puedes entrar en los edificios: vi la distribución de las mesas, el plano y la iluminación suave de un restaurante de Nueva York como si fueran reales."
+        },
+        {
+          "t": "p",
+          "x": "Aura usa atenuación electrocrómica. Las lentes se oscurecen cuando te concentras en contenido digital, pero si miras hacia abajo, sigues viendo la realidad. No son muchos los que quieren unas gafas que los aíslen por completo de su entorno."
+        },
+        {
+          "t": "p",
+          "x": "También vi YouTube. La app dedicada se cerró por un error, así que la vi a la manera tradicional a través de Chrome, pero al ampliar la pantalla virtual tanto como quieras se parece más a un proyector que a un teléfono o una tableta. Me dijeron que la batería es una celda de 4.455mAh en la unidad de cómputo externa, suficiente para cuatro o cinco horas de transmisión."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-Apps.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La incógnita que queda son las apps. Como se puede usar la Google Play Store, no es necesario construir un ecosistema desde cero. Aun así, el éxito de una plataforma XR depende de apps diseñadas específicamente para este formato, y XREAL solo dijo que revelaría más detalles en el lanzamiento."
+        }
+      ]
+    },
+    "gadgets/gadgets-odyss-n1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MkDAozpLwhETPYrqvqRseZ-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El sueño, el ejercicio y el estrés ya los registran con bastante precisión, sin tocar nada, los rastreadores de actividad, los relojes inteligentes y los anillos inteligentes. Pero registrar las comidas sigue siendo un problema persistente."
+        },
+        {
+          "t": "p",
+          "x": "Hay muchas formas de introducir calorías y nutrición a mano, como Garmin Connect o la app de Oura. El problema es que no existía un camino más fácil que ese."
+        },
+        {
+          "t": "p",
+          "x": "Ahí es donde apunta el collar de IA Odyss N1. Todavía es un concepto, pero lo probé yo mismo en IFA 2026 en Berlín, y aunque tengo dudas sobre su rendimiento, me atrajeron las posibilidades que abre este dispositivo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/adp7NC6isGrgiKKNNbM8mZ-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Odyss N1 es un pequeño colgante triangular con cámara y acelerómetro integrados. Con esta sola pieza rastrea qué comes, cuándo comes y cuánto comes. El cordón del collar es en realidad un cable que conecta el colgante con un módulo de batería en la parte de atrás del cuello. Ese módulo de alimentación también incluye háptica para las notificaciones."
+        },
+        {
+          "t": "p",
+          "x": "El colgante es metálico y viene en negro, plateado y dorado. El acabado es bastante bueno, más cercano a una joya. En la parte superior hay un botón físico; al presionarlo se apaga por completo la función de registro de comidas. No almacenar en absoluto los datos de imagen originales también forma parte del diseño de privacidad."
+        },
+        {
+          "t": "p",
+          "x": "El registro se hace introduciendo datos visuales y de movimiento en un algoritmo de IA. También pondera el contexto previo para estimar qué estás comiendo e incluso cómo se preparó la comida. El usuario puede corregir el registro en cualquier momento, y el Odyss N1 aprende de esas correcciones. Como el sistema se vuelve más preciso cuanto más tiempo lo usas y más corriges el registro, la empresa dice que hay que llevarlo puesto al menos dos semanas para terminar la calibración antes de que rinda al máximo."
+        },
+        {
+          "t": "p",
+          "x": "Los datos de comidas acumulados pasan a una app complementaria, que organiza el flujo nutricional general y sugiere mejoras en la dieta. Además de la nutrición, también genera informes de análisis centrados en tres indicadores: calidad, energía y ritmo."
+        },
+        {
+          "t": "p",
+          "x": "Todavía es un concepto, pero los planes son claros. Los datos de registro de comidas se abrirán para poder verse también en otras apps de seguimiento de salud muy usadas, y a la inversa, la app de Odyss importará datos de salud de otros wearables para incorporarlos a sus consejos de nutrición."
+        },
+        {
+          "t": "p",
+          "x": "Las debilidades también son claras. Para que el seguimiento de comidas funcione bien, prácticamente hay que llevarlo puesto todo el día. La batería también parece limitada a uno o dos días, así que hay que quitárselo y cargarlo con frecuencia."
+        }
+      ]
+    },
+    "gadgets/gadgets-roomba-duo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-reaching.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Roomba Duo, que iRobot presentó en IFA 2026, es una de las ideas de robot aspirador más destacadas que he visto este año. Y no solo por su aspecto, parecido a un droide de Star Wars. El cuerpo cilíndrico grande limpia el suelo al vapor y deposita en espacios estrechos un pequeño robot que viajaba en un compartimento superior."
+        },
+        {
+          "t": "p",
+          "x": "No es un producto terminado. Incluso es posible que nunca llegue al mercado. Un gerente de producto de iRobot con quien hablé en el recinto dijo: 'Roomba Duo es un concepto que creamos para ver cómo reacciona el mercado, y es el futuro de los robots de limpieza de suelos tal como lo imaginamos'."
+        },
+        {
+          "t": "p",
+          "x": "Describió el cuerpo grande como un equipo pesado pensado para sustituir a una aspiradora de palo o una aspiradora en seco y húmedo. Mide alrededor de 2 pies de alto y pesa unas 66 libras; lo hicieron pesado a propósito para aumentar la potencia y agrandar el depósito de agua."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-releasing.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La demostración empezó derramando espagueti sobre una alfombra, que parecía más cubierto de aceite y hierbas que de salsa roja. El cuerpo pasó por encima, lo aspiró y lo limpió al vapor de inmediato. Donde había estado quedó solo una leve mancha que parecía de aceite."
+        },
+        {
+          "t": "p",
+          "x": "Lo que viene después es el punto central de esta máquina. Cuando el Roomba Duo levantó la 'cabeza' y se posó en el suelo, un robot con forma de disco que llevaba dentro salió como una muñeca rusa. El gerente de producto dijo que este robot acompañante es, en la práctica, el mismo Roomba Plus 575, el pequeño robot de succión y trapeado que la empresa presentó a principios de este año. Verlo pasar por debajo de un mueble bajo con las patas muy juntas dejó clara la utilidad de la idea de un robot dentro de otro robot."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-lifting.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Si llega a salir al mercado, probablemente se verá bastante distinto de lo que vi ese día. Como todavía está en fase de concepto, el gerente de producto no quiso hablar mucho del precio. Pero no rebatió la idea de que costará más que un producto todo en uno de gama alta, como el Dreame X60 Max Ultra Complete de 1.700 dólares que se revisó este año."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento de la limpieza al vapor sigue siendo una incógnita. Falta ver si puede con manchas antiguas o suciedad persistente como la grasa. Aun así, si logra limpiar un accidente grande que uno nunca se atrevería a mandarle a un robot aspirador —como un plato entero de comida volcado—, habrá valido la pena."
+        }
+      ]
+    },
+    "gadgets/gadgets-timekettle-w4-plus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/W4-Plus-All-Colors-White-Background-Scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Hoy la traducción ocurre sobre todo en software, pero Timekettle ha estado haciendo interpretación en tiempo real con auriculares. El W4 Plus, lanzado para IFA 2026, continúa esa línea, con una condición."
+        },
+        {
+          "t": "p",
+          "x": "Igual que el W4 y el W4 Pro del año pasado, admite 52 idiomas, 106 acentos y 13 combinaciones de idiomas sin conexión. Lo que cambia es el software. Se dice que Babel OS 3.0 ofrece traducciones más rápidas y naturales."
+        },
+        {
+          "t": "p",
+          "x": "También hay nuevos perfiles por sector. Si eliges uno entre General, Tech & Internet, Manufacturing & Industry, New Energy & Green Tech y Biotech & Pharma, el sistema detecta la naturaleza de la conversación y ajusta la traducción. Según la empresa, los errores de traducción disminuyen al tratar detalles técnicos de un sector específico."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/W4-Plus-Black-1150x1500-px-01.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con más IA llegan más funciones. La memoria de conversación 'mantiene el contexto' en discusiones largas con muchos intercambios, y el resumen en vivo reduce la conversación anterior a 'solo lo esencial, de forma concisa'. Un entrenador de conversación con IA ayuda a practicar situaciones simuladas de la vida real, aunque por ahora solo funciona en inglés, chino y español. Registrar términos, expresiones o nombres en un glosario personal facilita su reconocimiento durante la conversación, y el tono y el estilo de la traducción también se adaptan a la situación."
+        },
+        {
+          "t": "p",
+          "x": "También se mejoró el manejo del ruido. Se dice que el nuevo algoritmo de reducción de ruido capta voces bajas entre un 32% y un 47% mejor que el W4 anterior. La tecnología de conducción ósea y los micrófonos duales trabajan juntos para preservar la voz del usuario y eliminar el sonido ambiente. La traducción en línea y sin conexión cambia al instante, así que funciona bien incluso con desplazamientos frecuentes. Un solo auricular pesa 5,7 g, y 116,5 g con el estuche."
+        },
+        {
+          "t": "p",
+          "x": "La batería, si acaso, se acortó. Es poco más de 3 horas de interpretación continua, 12 horas con el estuche, y hasta 18 horas de reproducción de música."
+        },
+        {
+          "t": "p",
+          "x": "Los colores son Space Black, Midnight Blue y Sandy Gold. El modelo base cuesta 299 dólares, y algunas funciones clave de IA se desbloquean con una suscripción de 14,99 dólares al mes. Incluso en el modelo base, la traducción 1:1 ilimitada, Listen & Play, AI Language Tutor y la traducción sin conexión funcionan igual. Para tener todas las funciones sin suscripción, existe una versión de 379 dólares. En Estados Unidos se vende desde el 6 de septiembre en el sitio web de Timekettle y en Amazon."
+        }
+      ]
+    },
+    "gadgets/gadgets-violoop-ai-box": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/B6hUjNrNcpYQiezaSjWsUi-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de IA que hacen trabajo por ti en la PC se han vuelto mucho más comunes. OpenClaw, que sigue funcionando incluso cuando no estás frente al equipo, es un ejemplo típico. El problema es que ejecutar estos agentes en tu propio ordenador exige bastante margen de hardware."
+        },
+        {
+          "t": "p",
+          "x": "El periodista que escribió esto todavía usa un MacBook Air M3 comprado en 2023 y piensa mantenerlo otros 5 a 7 años. Ese portátil no tiene la holgura suficiente para un agente de IA local, pero cambiar todo el ordenador solo por un agente tampoco tiene sentido."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta de Violoop, presentada en IFA 2026, es un agente de IA en hardware. A diferencia de un agente de software que consume recursos del portátil y agota la batería, un dispositivo separado que se conecta al ordenador se encarga de la mayor parte del cómputo de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yVJ3VTKvbAdvhcrzgS6TVi-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Funciona reconociendo la pantalla. Identifica qué hay en el display en ese momento y ayuda con el trabajo según ese contexto. Si alguien pide que le envíen una dirección, busca esa información y la rellena, y resume los PDF largos que no tienes tiempo de leer."
+        },
+        {
+          "t": "p",
+          "x": "También está construido para conocerte mejor a medida que lo usas. Violoop llama a esto un grafo de memoria continua: aprende con el tiempo tu forma de trabajar, tus preferencias y los patrones que se repiten, como base para entender la siguiente instrucción."
+        },
+        {
+          "t": "p",
+          "x": "Un dispositivo que mira la pantalla todo el tiempo y acumula memoria plantea, de forma natural, preguntas de privacidad. Violoop apuesta por un enfoque local primero. Los datos de pantalla se procesan dentro del dispositivo y, según la empresa, nunca se envían a la nube. Dentro lleva un modelo de IA local de 8.000 millones de parámetros y un rendimiento en el dispositivo de 26 TOPS. Incluso cuando la nube es realmente necesaria, solo envía 'la información que la tarea requiere' y nunca transmite la pantalla en sí."
+        },
+        {
+          "t": "p",
+          "x": "La aprobación de tareas sensibles pasa por un procesador de seguridad dedicado, el STM32H563. El botón físico de la parte superior es la llave de aprobación por hardware. Cuando el agente va a realizar una tarea de varios pasos o una acción sensible, el usuario tiene que pulsarlo directamente para que avance. Se pueden elegir y conectar servicios como ChatGPT, Claude y Gemini."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XGFFhczbzUjbCwk4qmUnZi-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En la parte frontal del cuerpo hay una pequeña pantalla que muestra la hora y lo que el agente está haciendo en ese momento; parece un monitor antiguo colocado junto al portátil. La alimentación llega por un adaptador aparte, no por el USB-C del portátil, y en la parte de atrás hay USB-C, HDMI y entrada de alimentación. Es compatible con Windows y macOS, y según la empresa, la instalación consiste en gran medida en enchufarlo y listo."
+        },
+        {
+          "t": "p",
+          "x": "Violoop se lanza en Kickstarter el 15 de septiembre de 2026. El precio inicial es de 399 dólares, el envío está previsto para mediados de octubre, y el precio regular después será de 799 dólares."
+        }
+      ]
+    },
+    "gadgets/gadgets-watch-s12-siri-chip": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/s12-chip-mockup-apple-watch.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Los chips de la serie S de Apple rara vez tienen un salto generacional significativo. El número suele cambiar cada año, pero las mejoras reales de CPU han sido poco frecuentes, y el año pasado la empresa se saltó el S11 y dejó el S10 tal cual."
+        },
+        {
+          "t": "p",
+          "x": "Se dice que este año es distinto. El Apple Watch Series 12 recibiría un chip de la serie S mejorado. El nombre probable es S12 o S11, y será más rápido además de convertirse en el primer chip de reloj de la era de la IA."
+        },
+        {
+          "t": "p",
+          "x": "La característica principal de watchOS 27 es Siri AI. Se espera que funcione mejor en el nuevo chip, y el resto de las funciones del día a día también se benefician."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/heart-health-apple-watch-7-features.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "También circulan desde hace tiempo rumores sobre más funciones de salud. La FDA revisó una actualización de las notificaciones de hipertensión, que según se informa se anunciaría la próxima semana. Hay también un rumor concreto de que el sensor de ritmo cardíaco tendrá medición permanente, un método que productos de la competencia como WHOOP ya ofrecen."
+        },
+        {
+          "t": "p",
+          "x": "Según Mark Gurman, el nuevo sensor del Series 12 puede 'recopilar datos de forma continua durante todo el día, en lugar de solo cuando detecta actividad intensa o a intervalos arbitrarios'."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ceramic-s5.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Además de nuevas correas y opciones de caja, se especula que la caja de cerámica vuelve por primera vez desde el Series 5 de 2019, en blanco y gris oscuro. Bloomberg informó que 'Apple probó tanto la configuración blanca como la gris oscura para la caja de cerámica del Series 12'. Todavía no se sabe cuánto subirá el precio la cerámica. La última vez que se ofreció, partía de 1.299 dólares, mucho más cara que el actual Apple Watch Ultra."
+        }
+      ]
     }
   }
 }

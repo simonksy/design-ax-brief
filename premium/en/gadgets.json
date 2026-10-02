@@ -5422,6 +5422,415 @@
           "x": "The entire HomeAgent ecosystem, including both hub models and the SinKare cameras, began taking pre-orders the same day it was unveiled."
         }
       ]
+    },
+    "gadgets/gadgets-claude-carplay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/sdomlpqyD0M4oSLlCjmWGvdxjrw=/1960x/article-new/2025/06/CarPlay-Liquid-Glass-Light.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic has added CarPlay integration to the Claude iOS app. Claude users can now talk to Claude through their car's infotainment screen."
+        },
+        {
+          "t": "p",
+          "x": "Apple opened the door for this. iOS 26.4 added third-party chatbot support to CarPlay."
+        },
+        {
+          "t": "p",
+          "x": "There are conditions, though. Any chatbot app that wants into CarPlay must support a voice-control screen, use the CarPlay templates Apple specifies, and receive an entitlement from Apple."
+        },
+        {
+          "t": "p",
+          "x": "Claude answers spoken questions hands-free, but it cannot control functions of the car or the iPhone."
+        },
+        {
+          "t": "p",
+          "x": "There's no wake word either. Third-party wake words aren't supported, so the driver has to open the Claude app directly from the CarPlay interface."
+        },
+        {
+          "t": "p",
+          "x": "The Claude app on CarPlay opens to a “Start a hands-free conversation” screen. From there, you can start a new conversation or jump into a recent one."
+        },
+        {
+          "t": "p",
+          "x": "Inside the app there are controls for muting and unmuting, and for ending or resuming a conversation. A visual indicator also shows whether Claude is currently listening or speaking."
+        },
+        {
+          "t": "p",
+          "x": "CarPlay has accepted third-party apps for a long time, but Apple has kept what it allows narrow to avoid distracting drivers. OpenAI added CarPlay support to the ChatGPT app earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "The article carries an update note, revised to reflect that Claude's CarPlay integration is indeed live."
+        }
+      ]
+    },
+    "gadgets/gadgets-windows-project-zenith": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gouCtmSHKJJLP8CP9BpbQ3-2560-80.jpg",
+          "cap": "Image credit: Tom's Hardware"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft has released another version of Windows 11 aimed at developers. It's called Project Zenith, a version meant to let you start writing code the moment you open the box."
+        },
+        {
+          "t": "p",
+          "x": "According to the Windows blog, the operating system has been tuned for developer workflows and is launching first on AMD Ryzen AI Halo. It's Team Red's direct answer to Nvidia's DGX Spark."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft said it will soon expand to devices from its own OEMs and other silicon partners."
+        },
+        {
+          "t": "p",
+          "x": "Redmond describes Zenith as “a Windows experience where you can start coding immediately without friction, on developer-class devices with 64GB or more of unified memory and 250GB/s or more of memory bandwidth.” Developers can “dive right in.”"
+        },
+        {
+          "t": "p",
+          "x": "The tools come preinstalled: Visual Studio Code, GitHub Copilot, PowerToys, WinAppCLI, Windows Dev Skills, Intelligent Terminal, PowerShell 7, Git, GitHub CLI, AzureCLI, Core Utils, Oh My Posh, Python 3.14+, uv, NVM, Node 24+, WSL 2+ Ubuntu and .NET 10."
+        },
+        {
+          "t": "p",
+          "x": "Settings are also preconfigured. Microsoft says this means you don't need to dig through each app's settings menu to tailor it to your own environment."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/xi79WuWDZXzix4Fc7sXNMn-1200-80.png",
+          "cap": "Image credit: SK Hynix"
+        },
+        {
+          "t": "p",
+          "x": "The target audience is, above all, AI developers. The devices this OS runs on are designed to run models with more than 30 billion parameters locally, without metered usage. The environment for building and running agents has also been reworked, with OS-enforced identity verification, isolation through Microsoft Execution Containers (MXC), and enterprise-grade agent management features."
+        },
+        {
+          "t": "p",
+          "x": "Behind this is an AI token crisis. Agents consume 1,000 times more tokens than typical AI, and costs have spiraled out of control. The calculation is to keep frontier models in the cloud while running everything else locally on devices like this — a calculation that's especially urgent for small organizations or people experimenting at home."
+        },
+        {
+          "t": "p",
+          "x": "The price is the trade-off. At least for now, it only runs on expensive devices. An AMD Ryzen AI Halo with a Ryzen AI Max+ 395 processor, 128GB of LPDDR5x-8000, a 2TB SSD and Radeon 8060S integrated graphics costs $3,999.99 at Micro Center."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7cUTDmN2PHNRiNBVqbKf56-676-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Even if Zenith is later sold separately so it can be installed on other mini PCs, the requirement of 64GB or more of unified memory remains a major obstacle — all the more so now that the AI boom has sent RAM prices soaring."
+        }
+      ]
+    },
+    "gadgets/gadgets-withings-beamo-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/beamo-stetho-sense.jpg",
+          "cap": "StethO Sense combines BeamO's recordings with AI heart and lung sound analysis. Withings/CNET"
+        },
+        {
+          "t": "p",
+          "x": "I've spent a few weeks with the Withings BeamO since it launched last November. It's an FDA-cleared device that combines a stethoscope, an ECG and a thermometer in one. It was great at taking a temperature and listening to heart and lung sounds, but reading those values still required a doctor in the end. That part is about to change."
+        },
+        {
+          "t": "p",
+          "x": "At IFA 2026 on Friday, Withings announced StethO Sense. The service opens up to Withings+ users starting October 1, with third-party AI analysis software reading BeamO's heart and lung recordings. According to the materials, detecting abnormal heart murmurs is handled by eMurmur Heart AI, and interpreting breath sounds is handled by StethoMe."
+        },
+        {
+          "t": "p",
+          "x": "“StethO Sense lets families record heart sounds at home in seconds, as often as they want, and bring that record to their doctor,” said Livia Robic, BeamO product manager. “It doesn't replace a medical visit. It gives you one more piece of health data to bring to that visit.”"
+        },
+        {
+          "t": "p",
+          "x": "eMurmur is a medical AI company that built eMurmur Heart AI, an FDA-cleared algorithm for heart sound analysis. Withings' press release states that the algorithm has been validated through peer-reviewed clinical studies in both children and adults."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/beamo.jpg?w=864",
+          "cap": "Both BeamO and its StethO Sense service can be used on children and adults. Withings"
+        },
+        {
+          "t": "p",
+          "x": "It analyzes a heart sound recording taken at one of four points within seconds, sorting results into no murmur, abnormal murmur or innocent murmur. A confidence score comes with each reading."
+        },
+        {
+          "t": "p",
+          "x": "StethoMe, which handles lung sounds, splits its protocol by age. It records lung sounds at six points for children and eight points for adults."
+        },
+        {
+          "t": "p",
+          "x": "The result comes as a respiratory index from 0 to 100, looking at breath quality and sound, respiratory rate along with breathing rhythm and heart rate, to help detect changes in breathing patterns."
+        },
+        {
+          "t": "p",
+          "x": "StethoMe, though, is meant for general lung sound tracking. It's not built for people already diagnosed with respiratory conditions such as asthma, COPD or bronchitis."
+        },
+        {
+          "t": "p",
+          "x": "StethO Sense lives inside the Withings app, but it requires a Withings+ premium membership, which costs $10 a month or $100 a year. Choosing a heart or lung recording under the StethO Sense section of the app and sending it for analysis returns a result within seconds."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/e2be0953-7c50-4bc2-9c53-d468fddfb18d.png?w=864",
+          "cap": "Its one-button design and anatomical diagrams make BeamO simple to use. Cole Kan/Anna Gragert/CNET/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The idea behind the design is to complement Withings+'s Cardio Checkup, a service that sends an ECG recording of the heart's electrical signals to a cardiologist for review within 24 hours, usable four times a year."
+        },
+        {
+          "t": "p",
+          "x": "StethO Sense itself has no limit on how many times it can be used. In exchange, the results aren't a diagnosis. Every recording and analysis can be exported and shared with a doctor."
+        },
+        {
+          "t": "p",
+          "x": "Starting October 1, Withings+ subscribers will be able to use this feature. Existing users who bought BeamO before that date get a one-month free trial of Withings+, as do those who buy the $250 BeamO after October 1."
+        }
+      ]
+    },
+    "gadgets/gadgets-xreal-aura-android-xr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "I've heard about XREAL's Project Aura for a long time. It's a completely new approach for Android, and like any early-stage technology, I was skeptical about how mature it would actually be. Now that I've tried it myself, I'm counting down to launch day."
+        },
+        {
+          "t": "p",
+          "x": "XREAL has been hinting at a fall launch for months, but these days it speaks more plainly: before 2026 ends, at a price under $1,500. The people I met at IFA were careful about that number — they said “under $1,500” doesn't necessarily mean $1,499."
+        },
+        {
+          "t": "p",
+          "x": "The real challenge in XR was never showing off the technology. Impressive AR and VR have been coming out for years. The hard part is making it feel natural enough that you'd want to use it every day, and from my brief hands-on, XREAL has come pretty close."
+        },
+        {
+          "t": "p",
+          "x": "If you're new to Android XR, think of it this way: instead of looking down at a rectangle in your hand, apps, screens and digital objects float in the space around you. You watch YouTube on a giant virtual display, or move around a city in Google Maps."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The demo started with an introduction to basic hand gestures: pinch, tap, drag, scroll. At first I had to think consciously about what I was doing, but after about 10 minutes I forgot about the controls and was just using it. XREAL said a longer gesture-learning process is planned for actual first-time wearers."
+        },
+        {
+          "t": "p",
+          "x": "More important is how familiar the software feels. If you've used an Android phone for a while, there's no new operating system to learn. The apps, the navigation concepts and the basic interactions all sit on an ecosystem you already know."
+        },
+        {
+          "t": "p",
+          "x": "The hardware is more complicated than it looks. Aura is a collaboration between XREAL, Google and Qualcomm. Google contributed the Android XR platform and ecosystem, Qualcomm contributed Snapdragon computing, and XREAL contributed optics and spatial computing experience. The main platform is Snapdragon Reality Elite, and XREAL separately built its own X1S spatial co-processor."
+        },
+        {
+          "t": "p",
+          "x": "The display is a Sony micro-OLED at 1,920×1,200 per eye, up to 120Hz, with a 70-degree field of view. XREAL's own X Prism optics squeeze this into a glasses form factor. It also supports prescription inserts for people who need corrective lenses."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The most impressive part was Google Maps. The clarity while zooming in and out and spinning around cities and landmarks felt almost magical. Where immersive experiences are supported, you can even go inside buildings — I saw a New York restaurant's table layout, floor plan and soft lighting rendered as if it were real."
+        },
+        {
+          "t": "p",
+          "x": "Aura uses electrochromic dimming. The lenses darken when you're focused on digital content, but look down and you can still see reality. Not many people want glasses that cut them off completely from their surroundings."
+        },
+        {
+          "t": "p",
+          "x": "I also watched YouTube. The dedicated app crashed from a bug, so I watched it the old-fashioned way through Chrome, but scaling the virtual screen up as much as you want feels closer to a projector than a phone or tablet. I heard the battery is a 4,455mAh cell in the external compute unit, good for four to five hours of streaming."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-Apps.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The remaining question mark is apps. Since the Google Play Store is available, there's no need to build an ecosystem from scratch. Still, the success of an XR platform depends on apps designed specifically for this form factor, and XREAL only said it would share more at launch."
+        }
+      ]
+    },
+    "gadgets/gadgets-odyss-n1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MkDAozpLwhETPYrqvqRseZ-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sleep, exercise, and stress are now tracked pretty accurately, hands-free, by fitness trackers, smartwatches, and smart rings. Logging meals, though, remains a persistent headache."
+        },
+        {
+          "t": "p",
+          "x": "There are plenty of ways to enter calories and nutrition by hand, like Garmin Connect or the Oura app. The problem has been that there's no easier path than that."
+        },
+        {
+          "t": "p",
+          "x": "That's the spot the Odyss N1 AI necklace is aiming for. It's still a concept, but I tried it myself at IFA 2026 in Berlin, and while I'm split on how well it performs, I was drawn to the possibilities this device opens up."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/adp7NC6isGrgiKKNNbM8mZ-1600-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Odyss N1 is a small triangular pendant with a camera and an accelerometer built in. It tracks what you eat, when you eat, and how much you eat, all with this one piece. The necklace cord is actually a cable, connecting the pendant to a battery module at the back of the neck. That power module also contains haptics for notifications."
+        },
+        {
+          "t": "p",
+          "x": "The pendant is metal and comes in black, silver, and gold. The finish is quite nice, closer to jewelry than a gadget. There's a single physical button on top; pressing it turns off meal-logging entirely. Not storing the original image data at all is also part of the privacy design."
+        },
+        {
+          "t": "p",
+          "x": "Logging works by feeding visual and motion data into an AI algorithm. It also weighs prior context to estimate what you're eating and even how the food was prepared. You can correct the log at any time, and the Odyss N1 learns from those corrections. Because it gets more accurate the longer you wear it and the more you refine the log, the company says you need to wear it for at least two weeks to finish calibration before it performs at its best."
+        },
+        {
+          "t": "p",
+          "x": "The accumulated meal data goes to a companion app, which organizes your overall nutrition flow and suggests diet improvements. Beyond nutrition, it also produces analysis reports centered on three metrics: quality, energy, and rhythm."
+        },
+        {
+          "t": "p",
+          "x": "It's still a concept, but the plans are clear. Meal-logging data will be opened up so it can be viewed in other widely used health-tracking apps, and conversely, the Odyss app will pull in health data from other wearables to feed into its nutrition advice."
+        },
+        {
+          "t": "p",
+          "x": "The weaknesses are clear too. For meal tracking to work properly, you essentially have to wear it all day. Battery life also appears capped at a day or two, meaning it has to come off and get charged often."
+        }
+      ]
+    },
+    "gadgets/gadgets-roomba-duo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-reaching.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Roomba Duo, which iRobot unveiled at IFA 2026, is one of the standout robot vacuum ideas I've seen this year. It's not just the Star Wars droid-like looks. The large cylindrical body steam-mops the floor and sets down a small robot, which had been riding in a compartment up top, into tight spots."
+        },
+        {
+          "t": "p",
+          "x": "It's not a finished product. There's a chance it never reaches the market at all. An iRobot product manager I met on the show floor said, 'Roomba Duo is a concept we built to see how the market reacts, and it's the future of floor-cleaning robots as we see it.'"
+        },
+        {
+          "t": "p",
+          "x": "He described the large body as heavy-duty equipment meant to replace a stick vacuum or a wet/dry vacuum. It's about 2 feet tall and roughly 66 pounds, made heavy on purpose to pack in more power and a bigger water tank."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-releasing.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The demo started by spilling spaghetti on a carpet — closer to one coated in oil and herbs than red sauce. The body passed over it, sucked it up, and steam-cleaned right behind, leaving only a faint oily-looking stain where it had been."
+        },
+        {
+          "t": "p",
+          "x": "What comes next is the whole point of this machine. When the Roomba Duo lifted its head and set itself down on the floor, a disc-shaped robot tucked inside popped out, Matryoshka-doll style. The product manager said this companion robot is essentially the same as the Roomba Plus 575, a small suction-and-mop robot the company showed earlier this year. Watching it sweep under a low stand with legs set close together made clear what the robot-inside-a-robot idea is actually for."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/09/Roomba-Duo-lifting.jpg"
+        },
+        {
+          "t": "p",
+          "x": "If it ships, it will likely look quite different from what I saw that day. Since it's still at the concept stage, the product manager wouldn't say much about price. But he didn't push back on the guess that it would cost more than a pricey all-in-one like the $1,700 Dreame X60 Max Ultra Complete reviewed this year."
+        },
+        {
+          "t": "p",
+          "x": "Steam-cleaning performance is still an open question. It remains to be seen whether it can handle stubborn messes like old stains or grease. Still, if it can clean up a big accident that you'd never dare send a robot vacuum after — a whole dropped plate of food, say — it will have earned its keep."
+        }
+      ]
+    },
+    "gadgets/gadgets-timekettle-w4-plus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/W4-Plus-All-Colors-White-Background-Scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Translation today mostly happens in software, but Timekettle has been doing real-time interpretation through earbuds. The W4 Plus, launched for IFA 2026, continues that line, with one condition attached."
+        },
+        {
+          "t": "p",
+          "x": "Like last year's W4 and W4 Pro, it supports 52 languages, 106 accents, and 13 offline language pairs. What's changed is the software. Babel OS 3.0 is said to deliver faster, more natural translation."
+        },
+        {
+          "t": "p",
+          "x": "There are also new field-specific profiles. Pick one of General, Tech & Internet, Manufacturing & Industry, New Energy & Green Tech, or Biotech & Pharma, and it reads the nature of the conversation to adjust the translation. The company says mistranslations drop when dealing with technical detail in a specific field."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/W4-Plus-Black-1150x1500-px-01.jpg"
+        },
+        {
+          "t": "p",
+          "x": "More AI means more features. Conversation Memory 'maintains context' across long discussions with many back-and-forths, and Live Summary distills past conversation down to 'just the essentials, concisely.' An AI speaking coach helps you practice against simulated real-life scenarios, though for now it only works in English, Chinese, and Spanish. Registering terms, phrases, or names in a personal glossary makes them easier to recognize mid-conversation, and the tone and style of translation also adapt to the situation."
+        },
+        {
+          "t": "p",
+          "x": "Noise handling got work too. The new noise-reduction algorithm is said to pick up quiet voices 32-47% better than the existing W4. Bone-conduction technology and dual microphones work together to preserve the user's voice while stripping out ambient sound. Online and offline translation switch instantly, so it holds up even with frequent movement. One earbud weighs 5.7g, and 116.5g with the case."
+        },
+        {
+          "t": "p",
+          "x": "Battery life, if anything, got shorter. It's just over 3 hours of continuous interpretation, 12 hours with the case, and up to 18 hours of music playback."
+        },
+        {
+          "t": "p",
+          "x": "Colors are Space Black, Midnight Blue, and Sandy Gold. The base model is $299, and some key AI features unlock with a $14.99-a-month subscription. Even on the base model, unlimited 1:1 translation, Listen & Play, AI Language Tutor, and offline translation work as-is. To get every feature without a subscription, there's a $379 version. In the US, it goes on sale September 6 on the Timekettle website and Amazon."
+        }
+      ]
+    },
+    "gadgets/gadgets-watch-s12-siri-chip": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/s12-chip-mockup-apple-watch.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Apple's S-series chips rarely see a meaningful generational leap. The number tends to change every year, but actual CPU improvements have been rare, and last year the company skipped the S11 and kept the S10 as-is."
+        },
+        {
+          "t": "p",
+          "x": "This year is said to be different. The Apple Watch Series 12 is expected to get an upgraded S-series chip. The name is likely S12 or S11, and it will be faster while becoming the first watch chip for the AI era."
+        },
+        {
+          "t": "p",
+          "x": "watchOS 27's headline feature is Siri AI. It's expected to run best on the new chip, and the rest of the everyday features benefit too."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/heart-health-apple-watch-7-features.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Talk of expanded health features has been around for a while too. The FDA reviewed an upgrade to hypertension notifications, reportedly set to be announced next week. There's also a specific rumor that the heart rate sensor will get always-on measurement, a method competing products like WHOOP already offer."
+        },
+        {
+          "t": "p",
+          "x": "According to Mark Gurman, the new sensor in the Series 12 can 'collect data continuously throughout the day rather than only when it detects intense activity or at arbitrary intervals.'"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ceramic-s5.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "On top of new bands and case options, there's speculation that a ceramic case is returning for the first time since the Series 5 in 2019, in white and dark gray. Bloomberg reported that 'Apple tested both white and dark gray configurations for the Series 12 ceramic case.' How much ceramic will raise the price is still unknown. The last time it was offered, it started at $1,299, far more expensive than today's Apple Watch Ultra."
+        }
+      ]
     }
   }
 }

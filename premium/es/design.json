@@ -5086,6 +5086,404 @@
           "x": "La RTX Spark está lista para lanzarse en octubre. Con una GPU RTX Blackwell de 1 petaflop de rendimiento, hasta 128GB de memoria unificada y una CPU Grace de 20 núcleos, abarca desde portátiles delgados hasta pequeños equipos de escritorio pensados para ejecutar agentes de forma continua. Lenovo y Acer han presentado nuevos dispositivos, y estudios de videojuegos como EA, Embark y Ubisoft también colaboran."
         }
       ]
+    },
+    "design/design-ai-pcb-kicad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://hackaday.com/wp-content/uploads/2026/09/openai_gpt-6_astra_kicad_showcase.jpg",
+          "cap": "Imagen superior: del video de GPT-6 Astra de OpenAI en KiCad"
+        },
+        {
+          "t": "p",
+          "x": "Al presentar GPT-6 Astra, OpenAI afirmó sin rodeos que este modelo diseña placas de circuito completas en KiCad. Según esa afirmación, basta introducir un esquema para obtener un PCB con el cableado terminado, que en teoría podría enviarse directamente a fabricación."
+        },
+        {
+          "t": "p",
+          "x": "Eso plantea naturalmente una pregunta: ¿es un truco que solo funciona en condiciones estrictamente controladas, como la mayoría de las herramientas de enrutado automático, o es algo más? Una entrada reciente del blog de [EEBench] puso a prueba la afirmación de OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "Ya en 2024, Hackaday también analizó cómo manejaban los LLM el diseño de placas de circuito a partir de un esquema. La conclusión en ese momento fue que era mejor hacerlo todo a mano."
+        },
+        {
+          "t": "p",
+          "x": "[EEBench] es un banco de pruebas de agentes de ingeniería eléctrica que mide cuánto trabajo útil de ingeniería de hardware pueden realizar los llamados agentes de IA. Como deja claro la propia metodología, llevar un esquema a un PCB con los componentes colocados y el cableado terminado es solo uno de varios pasos."
+        },
+        {
+          "t": "p",
+          "x": "Al final, GPT-6 Astra obtuvo un 69,3% (±10%) en este banco de pruebas. Eso lo sitúa aproximadamente en el mismo rango que Claude Opus 5, aunque más barato y más rápido."
+        },
+        {
+          "t": "p",
+          "x": "Hay algo que conviene señalar: quienes operan [EEBench] son los desarrolladores de Atopile. Atopile es un sistema para crear PCB en KiCad mediante código, centrado en situaciones en las que son agentes de IA quienes lo usan."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, la entrada del blog deja claro que todavía falta mucho para que los ingenieros de hardware reciban una carta de despido y empiecen a buscar otro trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Sacar rápido una placa de prototipo mediante 'vibe coding' puede ser un buen atajo. Pero a menos que se trate de una placa de proyecto de un solo uso, la mayoría de las placas deben soportar toda clase de casos límite, pasar por la revisión de varios ingenieros independientes entre sí y superar pruebas exigentes antes de entrar en producción en serie."
+        }
+      ]
+    },
+    "design/design-anti-ai-designs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A medida que la IA se abre paso en más rincones de la vida diaria, también crecen la fatiga y el cinismo hacia la tecnología. Dezeen reunió cinco diseños que resisten el auge de la IA."
+        },
+        {
+          "t": "p",
+          "x": "La IA se ha usado en vigilancia masiva por video, extracción de datos y fraudes con deepfakes, generando titulares polémicos en todo el mundo. Frente a ello, los diseñadores buscan formas de proteger a las personas de su lado más siniestro. Algunos objetos buscan abrir el diálogo, pero si la tecnología avanza, pronto podrían convertirse en diseños muy valiosos."
+        },
+        {
+          "t": "img",
+          "src": "https://static.dezeen.com/uploads/2026/08/digital-camouflage-shirt-ai-video-surveillance-simon-weckert_dezeen_2364_sq_6.jpg",
+          "cap": "Digital Camouflage de Simon Weckert. Foto: Simon Weckert"
+        },
+        {
+          "t": "p",
+          "x": "El diseñador Simon Weckert creó una camisa con un patrón llamativo que invierte las condiciones que un sistema de video con IA usa para reconocer a una persona. Digital Camouflage surgió como respuesta a un proyecto piloto de vigilancia por video con IA en la estación Kottbusser Tor de Berlín, y borra a quien la lleva frente a la cámara. El patrón se generó mediante un proceso de ensayo y error de la IA que el diseñador llama “adversarial loop”."
+        },
+        {
+          "t": "p",
+          "x": "Weckert lo explica así: “Tenía que ser así porque los puntos ciegos de las máquinas no son intuitivos para las personas. No se puede diseñar contra la percepción de una máquina con los ojos; solo la máquina puede decirte qué es lo que no ve.”"
+        },
+        {
+          "t": "img",
+          "src": "https://static.dezeen.com/uploads/2026/09/quartz-ring-ai_dezeen_2364_col_0.jpg",
+          "cap": "Quartz de Modem y Retinaa"
+        },
+        {
+          "t": "p",
+          "x": "Quartz es un concepto de anillo que demuestra que una persona es humana. Los estudios de diseño Modem y Retinaa lo crearon para contrarrestar el fraude en el que deepfakes de IA se hacen pasar por otra persona. Cuando dos personas juntan sus anillos en un apretón de manos, se crea un vínculo cifrado que más tarde demuestra la identidad de cada una al encontrarse en línea o por teléfono."
+        },
+        {
+          "t": "p",
+          "x": "La tecnología utilizada ya existe: biometría de venas del dedo para identificar a quien lo lleva, NFC para crear una conexión entre anillos y criptografía para verificar ambas identidades a distancia. Aun así, integrarla en un anillo exigiría miniaturización adicional y un consumo de energía más refinado."
+        },
+        {
+          "t": "img",
+          "src": "https://static.dezeen.com/uploads/2026/09/decoy-font-mixfont_dezeen_2364_col_0.jpg",
+          "cap": "Decoy Font de Mixfont"
+        },
+        {
+          "t": "p",
+          "x": "Decoy Font usa una ilusión óptica. Dos mensajes superpuestos pueden ser leídos por completo por una persona, pero chatbots y modelos de lenguaje de gran escala como ChatGPT solo leen uno. Mixfont lo creó para quienes buscan evitar la extracción de datos, y para abrir un diálogo sobre la IA y la confianza pública."
+        },
+        {
+          "t": "p",
+          "x": "El fundador Eric Lu dijo a Dezeen: “Empezó como una forma de explorar dónde se encuentran la IA y la tipografía, pero también había una intención de generar conciencia sobre el alcance y la capacidad crecientes de la IA. La reacción a la tipografía muestra que muchas personas sienten una fuerte fatiga de la IA y quieren formas de protegerse de la IA en su vida diaria.”"
+        },
+        {
+          "t": "p",
+          "x": "Manifesto Collection, de la startup de moda italiana Cap_able, es ropa de punto con patrones de colores diseñada para engañar en tiempo real al software de reconocimiento facial. Al probarse con el sistema de detección de objetos YOLO, las personas que llevaban los suéteres, camisetas, pantalones y vestidos no fueron detectadas en absoluto, o fueron identificadas como animales como perros, cebras o jirafas impresos en la ropa."
+        },
+        {
+          "t": "img",
+          "src": "https://static.dezeen.com/uploads/2019/07/incognito-noma-studio-design_dezeen_2364_sq-1.jpg",
+          "cap": "Incognito de Ewa Nowak"
+        },
+        {
+          "t": "p",
+          "x": "Incognito es también un objeto para llevar puesto, creado para protestar contra la tecnología de reconocimiento facial. La diseñadora polaca Ewa Nowak creó una máscara pensada para que las cámaras y los sistemas de IA no puedan leer el rostro, mientras funciona a la vez como una joya facial. Formas geométricas de latón están fijadas a alambres largos doblados para seguir el contorno del rostro."
+        },
+        {
+          "t": "p",
+          "x": "Nowak dice: “Las cámaras pueden reconocer nuestra edad, nuestro estado de ánimo y nuestro género, y cotejarlos con precisión en una base de datos. La idea de desaparecer entre la multitud ya no existe.” Es un intento de recuperar el anonimato que siente que le han quitado las cámaras de reconocimiento facial en espacios públicos."
+        }
+      ]
+    },
+    "design/design-figma-security-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://res.infoq.com/news/2026/09/figma-security-agents/en/headerimage/generatedHeaderImage-1787900821229.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de ingeniería de Figma compartió cómo construyó un agente de IA para apoyar a su equipo de seguridad. El agente investiga alertas, revisa incidentes pasados, revisa los sistemas internos e incluso prepara correcciones de código. Gracias a que aprende de investigaciones anteriores, el trabajo repetitivo ha disminuido, y las alertas complejas se resuelven aproximadamente un 70% más rápido. La revisión humana y los controles estrictos se mantienen."
+        },
+        {
+          "t": "img",
+          "src": "https://imgopt.infoq.com/fit-in/3000x4000/filters:quality(85)/filters:no_upscale()/news/2026/09/figma-security-agents/en/resources/1figma-1787900967673.jpg",
+          "cap": "Fuente: blog de Figma"
+        },
+        {
+          "t": "p",
+          "x": "El sistema se basa en Panther SIEM. Al investigar alertas, escanea registros de auditoría de AWS, Okta, GitHub, GCP y osquery, una herramienta de código abierto que consulta información de seguridad y del sistema de una computadora mediante SQL. También consulta más de 100 fuentes adicionales y abre pull requests."
+        },
+        {
+          "t": "p",
+          "x": "El tiempo de resolución de alertas complejas se redujo en aproximadamente un 70%, y al reducir la gravedad de algunas alertas, las llamadas de guardia bajaron un 20%. Los autores son Matthew Sullivan, antiguo ingeniero de seguridad de Figma y ahora en Nition, y Brad Girardeau, gerente de ingeniería de seguridad de Figma."
+        },
+        {
+          "t": "p",
+          "x": "“La mayor parte de la investigación ocurre en el agente de clasificación, que usa modelos como Claude Opus. Recibe el historial completo del hilo de Slack como contexto, junto con su propia memoria de orientación y el conjunto de herramientas que un ingeniero de guardia de seguridad normalmente necesitaría durante la clasificación.”"
+        },
+        {
+          "t": "p",
+          "x": "El sistema de agentes busca alertas pasadas y profundiza en los datos de Panther usando AWS Bedrock Knowledge Bases, Amazon Kendra, Tines y herramientas basadas en Snowflake."
+        },
+        {
+          "t": "p",
+          "x": "“La memoria fue el factor individual más importante para que el sistema resultara útil con el tiempo. Hay varios tipos, y fue importante mantenerlos separados en lugar de mezclarlos.”"
+        },
+        {
+          "t": "p",
+          "x": "La memoria se divide en tres vertientes: alertas pasadas, directrices de comportamiento y estructuras de base de datos aprendidas. Las salvaguardas están integradas directamente en las herramientas. Los pull requests que abre el agente son borradores por defecto, y los prompts están escritos para que los datos sensibles no se filtren a canales públicos de Slack."
+        },
+        {
+          "t": "p",
+          "x": "En una publicación aparte, “How Figma stays ahead of vulnerabilities with agents”, el equipo dijo que el agente encontró más de 100 vulnerabilidades previamente desconocidas, dos de las cuales eran fallos críticos que las herramientas existentes habían pasado por alto. El revisor de código alcanzó un 80% de precisión en un mes. Añadir una segunda etapa de revisión mejoró la detección de errores conocidos en aproximadamente un 30%, y añadir orientación automatizada redujo algunos errores de codificación en aproximadamente un 50%."
+        },
+        {
+          "t": "p",
+          "x": "“No podemos decirte exactamente qué hacer. Depende del tamaño de tu empresa, los riesgos que enfrentas y los ciclos de retroalimentación que ya tienes en marcha. Pero una lección es elevar la precisión antes que la exhaustividad. Ese orden resulta contraintuitivo, porque un historial de errores pasados solo puede medir la exhaustividad, y ayuda poco con la precisión, que es en realidad lo que hay que corregir primero.”"
+        },
+        {
+          "t": "p",
+          "x": "A medida que los equipos de seguridad delegan más responsabilidad a los agentes, queda la pregunta de dónde entra la aprobación humana. La firma de seguridad en la nube Wiz informó en “GhostApproval: A Trust Boundary Gap in AI Coding Assistants” que seis asistentes de codificación con IA fueron engañados por repositorios maliciosos mientras seguían mostrando a los usuarios mensajes de aprobación que parecían inofensivos."
+        },
+        {
+          "t": "p",
+          "x": "Figma reconoce que sus agentes actuales no son perfectos, junto con la observación de que los humanos tampoco lo son. No se trata de elegir entre uno u otro; la conclusión es que el equilibrio entre automatización y supervisión todavía se está ajustando."
+        }
+      ]
+    },
+    "design/design-photoshop-light-layer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/09/cover-phlearn.jpg.webp?itok=L-npyvnH"
+        },
+        {
+          "t": "video",
+          "yt": "LIGT37vPW9g"
+        },
+        {
+          "t": "p",
+          "x": "El control deslizante de Brillo/Contraste de Photoshop ha desaparecido. En su lugar hay una nueva capa de ajuste Light, que trae los controles de Camera Raw directamente al editor principal. Exposición y contraste, luces y sombras, blancos y negros se reúnen en un solo panel, y funciona como una versión no destructiva de los controles deslizantes de Camera Raw en los que muchas personas ya confían."
+        },
+        {
+          "t": "p",
+          "x": "Tras revisar esta capa, Aaron Nace, de PHLEARN, hace una recomendación tajante: no usar en absoluto el antiguo algoritmo de Brillo/Contraste. La capa Light es el nombre más reciente en incorporarse a una fila que ya incluye Grain, Clarity, Dehaze y Color."
+        },
+        {
+          "t": "p",
+          "x": "Si el comportamiento anterior te funcionaba bien, basta con hacer doble clic en la capa Light, abrir el pequeño menú oculto a la derecha del panel de propiedades y cambiar la versión a “Legacy.” El Brillo/Contraste vuelve exactamente a como era antes, así que quien haya construido su flujo de trabajo sobre esa herramienta no pierde nada."
+        },
+        {
+          "t": "p",
+          "x": "Aquí el orden de los controles deslizantes pesa de verdad. La secuencia que Nace usa siempre es exposición primero, luego blancos y negros, después luces y sombras, y el contraste al final."
+        },
+        {
+          "t": "p",
+          "x": "También insiste en el enmascarado. Como la capa Light se aplica por defecto a todo el cuadro, él primero ejecuta Select Subject en la capa de fondo y luego crea la capa de ajuste, de modo que la selección se convierte automáticamente en la máscara."
+        },
+        {
+          "t": "p",
+          "x": "Desde ahí, presiona Command o Control e I para invertir la máscara y retocar solo el fondo: baja la exposición para empujar al sujeto hacia adelante y sube los blancos para recuperar el detalle del cielo. El lado del sujeto repite el mismo proceso en una segunda capa Light, manteniendo cada ajuste separado y reversible en cualquier momento."
+        },
+        {
+          "t": "p",
+          "x": "El brillo (glow) es donde el tutorial realmente se gana su lugar. Nace apila una tercera capa Light, la agrupa consigo misma con Command o Control y G, y luego añade una máscara al grupo para pintar un gradiente radial detrás del sujeto: una máscara en la capa, otra en el grupo. Esta doble máscara es fácil de pasar por alto si solo se leen los pasos, por lo que vale la pena ver las manos moverse lentamente a través de ella."
+        },
+        {
+          "t": "p",
+          "x": "Este cambio encaja con una tendencia que Adobe viene siguiendo desde hace tiempo. El trabajo de exposición y tono ha tenido su hogar en Camera Raw y Lightroom durante mucho tiempo, y Photoshop ha ido absorbiendo los mismos controles, uno por uno, como capas editables. Para quienes disparan en raw y procesan ahí primero antes de abrir el archivo, la capa Light les permite mantener la misma forma de pensar sin cambiar de herramienta a mitad de la edición."
+        },
+        {
+          "t": "p",
+          "x": "El mayor beneficio es la disciplina de enmascarado en sí misma. Dividir la imagen en sujeto y fondo para confinar la exposición y el tono a áreas específicas sigue la misma lógica que el clásico dodge and burn, y se traslada directamente a cualquier capa de ajuste del panel. Aprenderlo en Light da resultado también en Color, Curves y todo lo demás."
+        },
+        {
+          "t": "p",
+          "x": "Hay una peculiaridad para la que conviene estar preparado. Al editar una capa debajo de una capa Light, Photoshop oculta brevemente las capas Light superiores, de modo que puedas ver sin interferencias el efecto que estás trabajando. Nace lo demuestra con Grain; parece un error, pero Adobe lo diseñó así a propósito."
+        },
+        {
+          "t": "p",
+          "x": "También dedica tiempo a la capa Color, incorporando los controles deslizantes de temperatura, tinte y vivacidad al mismo flujo de trabajo no destructivo para calentar la imagen, y ajustando el tinte ligeramente hacia el verde para que coincida con los tonos que ya están presentes en la escena."
+        }
+      ]
+    },
+    "design/design-ai-product-team-strategy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*PZBimY3u6oqDrffnKL8pSw.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "La era de imponer herramientas de IA sin más está llegando a su fin. Tras entrevistar a diseñadores y desarrolladores y realizar una encuesta para una tesis de maestría de 2025, la autora concluyó que las empresas saben que la IA es estratégicamente importante y que el personal ya la usa, pero que casi ninguna tiene una estrategia de adopción real. Tras pasar tres días en UXDX EMEA, en Berlín, el pasado mayo, esa conclusión volvió a confirmarse."
+        },
+        {
+          "t": "p",
+          "x": "La tendencia puede resumirse así. Tomando prestados los términos de Gartner, se ha pasado el 'pico de expectativas infladas' y se ha entrado en el 'valle de la desilusión'. En 2025, el FOMO y la falta de perspectiva se combinaron para repartir herramientas de forma fragmentada. En 2026, las empresas se ven forzadas a madurar al chocar con el ROI, el riesgo de seguridad y la fricción en los flujos de trabajo. El cambio va de una adopción individual y caótica hacia una estrategia colectiva y estructurada."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/985/1*3AMNgAkV0ozj39fUGVMQQA.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Los promedios solo cuentan la mitad de la historia. Marcus Knight, de N26, dice que la estrategia a nivel de empresa era una sola línea: 'que todos usen IA'. Tomando como modelo las preguntas que un ingeniero senior solía hacer en cada entrega, creó una habilidad de Claude Code llamada 'Sheldon', que revisa si un archivo de diseño está listo para entregarse antes de que el ingeniero siquiera lo abra. Empezó como un experimento para 'clonar' a un colega, pero ahorró tiempo a ambas partes."
+        },
+        {
+          "t": "p",
+          "x": "El informe AI in Design 2026 de Designer Fund y Foundation Capital pone números a esa brecha. El 73% de los diseñadores dijo que la presión sobre el volumen, la calidad y la velocidad ha aumentado, pero solo el 28% de los líderes dijo que su empresa había hecho algún cambio oficial en respuesta."
+        },
+        {
+          "t": "p",
+          "x": "El informe de Figma de 2026 divide a las empresas en cuatro grupos según su intención de adopción. En el 27% que son 'empresas directivas', el uso de la IA se impone de arriba hacia abajo. En este grupo, el impacto en la productividad más que se duplicó, el impacto en las herramientas casi se duplicó y el impacto en la colaboración casi se triplicó: el mayor aumento de todos los grupos. A cambio, los efectos tardaron más en aparecer."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*pwCZYMlAR6ffmjYT9oK45g.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "La proporción de empresas que no invierten nada en IA cayó del 15% en 2024 al 4% en 2026. Fin, la empresa que cambió su nombre desde Intercom, reconstruyó su estrategia, su organización e incluso su misión en torno a la IA. El cofundador Des Traynor dijo: 'lo que cambió es sencillamente todo'. La empresa tiene ahora 400 millones de dólares en ingresos, de los cuales 100 millones provienen de su agente de IA, Fin. La empresa de analítica Amplitude hizo que sus 700 empleados dejaran de trabajar durante una semana para construir cosas con IA, en lo que llamó AI Week. Ahora el 97.5% de su personal usa Claude en el trabajo diario."
+        },
+        {
+          "t": "p",
+          "x": "Los límites entre roles también se difuminan. En Fin, se espera que todos los diseñadores lleven algo a producción. Según Figma, el 56% de quienes no son diseñadores ya hacen alguna forma de trabajo de diseño, y en el informe AI in Design 2026, el 65% de los diseñadores dijo que están asumiendo más responsabilidades de producto o ingeniería. Rory Madden, cocreador de UXDX, cree que el tamaño de los equipos podría reducirse de los habituales 8-10 especialistas a 2-3 generalistas. Un tercio de los encuestados dijo que los roles y la propiedad se han vuelto más confusos que antes."
+        }
+      ]
+    },
+    "design/design-figma-make-claude-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://raw.githubusercontent.com/EarthLinkNetwork/blog_public/main/images/series-007/hero-devto-en.png"
+        },
+        {
+          "t": "p",
+          "x": "Entre febrero y abril de 2026, el autor construyó cuatro aplicaciones web. Las cuatro partieron del mismo punto: un paquete de código escupido por Figma Make. Un sitio de curaduría de belleza, una app para registrar regalos, un álbum de peluches y una maqueta de interfaz para una herramienta de desarrollo con IA. Al abrir el repositorio, cada una ya 'parecía terminada'. El autor repasó los archivos de configuración y el historial de commits para resumir qué hacía falta hacer para entregar ese resultado a Claude Code y seguir desarrollándolo."
+        },
+        {
+          "t": "p",
+          "x": "Lo que genera Figma Make funciona tal cual con solo escribir npm run dev. Su naturaleza la explica el README: 'el original vive en Figma'. Es decir, el código es solo una proyección del diseño, no la fuente de verdad. Lo mismo pasa con package.json: versiones como next 15.3.4 o react 19.1.0 quedan fijadas sin caret. Como instantánea del momento de la generación, es muy reproducible, pero si se deja así, envejece sin que nadie la actualice."
+        },
+        {
+          "t": "p",
+          "x": "No hay ninguna capa de datos. Las pantallas se ven bien, pero detrás todo son datos simulados, sin almacenamiento ni autenticación. 'Funciona, pero no hay base sobre la que crecer.' Ese fue el punto de partida común a los cuatro repositorios."
+        },
+        {
+          "t": "p",
+          "x": "Partir del mismo punto no significó llegar al mismo lugar. La maqueta de interfaz para la herramienta de desarrollo con IA se quedó, tal como su nombre indica, en maqueta. Su README sigue igual que en el momento de la generación. El objetivo era una apariencia para revisar la interfaz, así que no se forzó su crecimiento. Decidir dejar algo como está también es una decisión."
+        },
+        {
+          "t": "p",
+          "x": "El que llegó más lejos fue el sitio de curaduría de belleza. Un sitio estático era suficiente, así que el autor ejecutó Next.js en modo export y lo subió a Amplify. Con output: \"export\" se eliminó el SSR, y con images.unoptimized se quitó incluso la Lambda de optimización de imágenes. Así, Amplify solo necesita servir la carpeta out, lo que hace la operación muy ligera. En marzo, el autor cambió a un despliegue automático vinculado a GitHub, llevando el resultado generado hasta convertirse en un sitio realmente en producción."
+        },
+        {
+          "t": "p",
+          "x": "La app de registro de regalos y el álbum de peluches fueron otra historia. Sus especificaciones de producto eran detalladas, pero se detuvieron en la capa de datos. La primera tenía en el README el alcance del MVP claramente escrito —panel, gestión de personas, registro de regalos, calendario, gestión de aniversarios— e implementado con Atomic Design. Pero en la parte superior de la lista de 'en pausa / sin decidir' aparecen juntos la persistencia de datos, la autenticación y gestión de usuarios, y las notificaciones."
+        },
+        {
+          "t": "p",
+          "x": "El álbum de peluches también se había construido con Vite, React 18 y un Atomic Design de cinco capas, con una paleta de tonos tierra fijada en valores concretos, pero también se detuvo ante la persistencia. Las pantallas y transiciones estaban terminadas, pero la brecha más amplia estaba entre los datos simulados y un backend real."
+        }
+      ]
+    },
+    "design/design-md-agent-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dev-to-uploads.s3.us-east-2.amazonaws.com/uploads/articles/tmj2kdqdc5uqpw5edwua.png"
+        },
+        {
+          "t": "p",
+          "x": "Hay tres puntos clave. DESIGN.md es un documento que personas y la IA consultan juntas para ver cómo se ve una interfaz y por qué se decidió así. No solo recoge cifras: también pone en palabras la impresión que se busca y las expresiones que se quieren evitar. Ya existen varios sitios de galería y formas de generarlo."
+        },
+        {
+          "t": "p",
+          "x": "Usar IA generativa para sacar borradores de interfaz sin duda se ha vuelto más rápido. Pero también hay más momentos en los que, con cada instrucción, el tono se va hacia un lugar inesperado y el proceso de diseño se vuelve inestable. Ahí es donde DESIGN.md, que reúne los valores y la intención del diseño en un solo archivo Markdown, resulta útil."
+        },
+        {
+          "t": "p",
+          "x": "Google Labs presenta DESIGN.md como 'un formato para comunicar un sistema de diseño a los agentes de IA de forma continua y estructurada'. La estructura coloca, en el frontmatter YAML, los tokens de diseño fáciles de procesar por una máquina, y en el cuerpo Markdown, la intención de diseño y la forma de aplicarla, pensadas para que las lea una persona."
+        },
+        {
+          "t": "p",
+          "x": "Si solo se entrega un valor como 'esquinas de 8px', no queda claro a qué componente se aplica ni si se permiten excepciones. Si, al contrario, solo se entrega una frase como 'amigable', la forma generada cambia cada vez. Poner juntos el valor y la razón hace que la IA se desvíe menos y que las personas revisen el resultado con más facilidad. En el repositorio oficial, el estado de este formato sigue siendo alpha. Conviene verlo no como un estándar de la industria ya terminado, sino como un formato compartido que cada equipo prueba y reescribe según su propia situación."
+        },
+        {
+          "t": "p",
+          "x": "Tampoco sustituye a un sistema de diseño existente. Si una librería de Figma y los componentes ya implementados son el lado que ofrece 'piezas reutilizables', DESIGN.md se acerca más a un mapa ligero que la IA consulta antes de empezar a trabajar. Su función también es distinta a la de un prompt puntual. Escribir cada vez 'usa azul' o 'las esquinas de la tarjeta deben ser pequeñas' hace que las actualizaciones se queden atrás y la expresión se vuelva inconsistente. Si el criterio se traslada a DESIGN.md, la solicitud puede reducirse a algo como 'crea la pantalla de configuración según DESIGN.md', y se usa la misma base aunque haya varias pantallas o sesiones distintas."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, con solo colocar el archivo en algún sitio no se lee por sí solo. Hay que indicar explícitamente, en el archivo de instrucciones o el prompt de la herramienta que se use, que 'lea DESIGN.md antes de trabajar en la interfaz', y comprobar si las reglas realmente aparecen en el resultado final."
+        },
+        {
+          "t": "p",
+          "x": "El orden de la especificación oficial es Overview, Colors, Typography, Layout, Elevation & Depth, Shapes, Components, Do's and Don'ts. No es necesario rellenarlo todo desde el principio. La impresión que se busca, los valores que se usan con frecuencia y los límites: con solo estos tres, un documento breve ya funciona como criterio de decisión. Si los nombres de color se asignan por función, como primary o surface en vez de blue, se puede mantener la función intacta y cambiar solo el valor."
+        },
+        {
+          "t": "p",
+          "x": "También hay muchas galerías de referencia. DESIGNmd es un lugar para explorar diseños de la comunidad, y designmd.app compara más de 500 diseños. Free Design MD es gratuito y no requiere registro, y designmd.sh reúne los publicados en GitHub. DesignMD se inclina hacia buscar y generar marcas reales, mientras que Refero Styles se inclina hacia estudiar los sistemas de diseño de productos reales. También existe una herramienta llamada Design MD Generator que extrae capturas de pantalla e información de diseño de páginas web."
+        }
+      ]
+    },
+    "design/design-rtx-half-frame-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Y9pUiBYRkXsMLUhRC5H6J3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La propuesta es simple. Generar solo la mitad de los fotogramas y dejar que una IA local que corre en RTX Spark infiera y complete el resto. Lo que queda es un clip a 60FPS que parece haber usado el doble de cómputo. Es el tipo de optimización que hace sonreír a los ingenieros y entrecerrar los ojos con sospecha a los creadores."
+        },
+        {
+          "t": "p",
+          "x": "Si has usado DLSS en videojuegos, el principio te resultará familiar. Pero esto no es interpolación en tiempo real. Todo se procesa fuera de línea, con la tecnología RTX Spark que sostiene la nueva memoria unificada de NVIDIA. Con tiempo de sobra por fotograma y una vista de todo el flujo de movimiento, los fotogramas intermedios salen limpios y hay menos defectos temporales. Tampoco aparece ese brillo de barniz típico del video tocado por IA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/W8zVxgyJsTCdEHGwRd7oCb.png"
+        },
+        {
+          "t": "p",
+          "x": "Los números son lo importante. Un clip de 2 segundos en full HD tardaba unos 6 minutos y 30 segundos. El mismo clip con el flujo de medio fotograma tarda unos 1 minuto y 25 segundos. Generar todos los fotogramas solo en NVFP4 ya recorta el tiempo casi a la mitad, pero la estrategia de medio fotograma empuja ese ahorro hasta el terreno de 'cambia la forma de trabajar'."
+        },
+        {
+          "t": "p",
+          "x": "La generación de video con IA consume tanto cómputo que hace vacilar incluso a estudios con buen presupuesto. Para creadores independientes o producciones pequeñas sin una granja de servidores en el sótano, recortar unos minutos en cada iteración no es solo una cuestión de comodidad. Es la diferencia entre probar tres versiones y probar treinta."
+        },
+        {
+          "t": "p",
+          "x": "El presentador Weinand dijo que no había diferencia notable entre un clip a 60FPS generado por completo y uno hecho escalando 30FPS y rellenando fotogramas, y en la demo realmente se veía así. El movimiento era suave y las texturas se mantuvieron."
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, no es una varita mágica. Llevar un video con una tasa base de 10-15FPS hasta 60FPS siempre produce artefactos. El movimiento rápido, como deportes, baile o tomas con cámara en mano temblorosa, necesita una tasa base más alta, y las texturas finas como el cabello o la tela todavía alteran la interpolación. La preocupación mayor es la consistencia. Los flujos de IA son conocidos por ser excelentes en una escena y extraños en la siguiente. Lo que temen los creadores no es el mejor resultado posible, sino el peor resultado entregado tal cual."
+        }
+      ]
+    },
+    "design/design-tripo-image-to-3d": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "tqUEnRj0NbM"
+        },
+        {
+          "t": "p",
+          "x": "Hasta hace un momento, era solo una foto. Ahora es un objeto que se puede sacar de una impresora 3D."
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo modelo de IA llamado Tripo 2.0 convierte casi cualquier imagen en un modelo 3D completo. El resultado se puede exportar a Blender o Unreal Engine, o enviarse directamente a una impresora 3D."
+        },
+        {
+          "t": "p",
+          "x": "Los usos son amplios: crear personajes de videojuego, coleccionables, assets de animación, incluso prototipos de producto. Prácticamente cualquier cosa que se te ocurra encaja. Al final del video, Matt Wolfe pregunta qué te animarías a hacer."
+        }
+      ]
     }
   }
 }
