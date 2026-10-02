@@ -22,9 +22,13 @@ cd "$ROOT"
 
 git fetch origin --quiet
 
-# main must be fully pushed first, or the deploy branch would ship stale content.
-if [ -n "$(git rev-list origin/main..main 2>/dev/null || true)" ]; then
-  echo "ERROR: main has unpushed commits. Run 'git push origin main' first, then re-run." >&2
+# The deploy always ships origin/main, never the LOCAL main ref. In a worktree the
+# local main is usually stale (another worktree has it checked out and commits go to
+# a feature branch pushed with `git push origin HEAD:main`), and comparing against it
+# made this script report "already in sync" while real commits sat undeployed.
+if [ -n "$(git rev-list origin/main..HEAD 2>/dev/null || true)" ]; then
+  echo "ERROR: the current branch has commits that are not on origin/main." >&2
+  echo "       Run 'git push origin HEAD:main' first, then re-run." >&2
   exit 1
 fi
 
@@ -34,12 +38,12 @@ trap cleanup EXIT
 
 git checkout -B "$DEPLOY_BRANCH" "origin/$DEPLOY_BRANCH" --quiet
 
-if [ -z "$(git rev-list "$DEPLOY_BRANCH"..main 2>/dev/null || true)" ]; then
-  echo "Deploy branch '$DEPLOY_BRANCH' already in sync with main — nothing to deploy."
+if [ -z "$(git rev-list "$DEPLOY_BRANCH"..origin/main 2>/dev/null || true)" ]; then
+  echo "Deploy branch '$DEPLOY_BRANCH' already in sync with origin/main — nothing to deploy."
   exit 0
 fi
 
-git merge --no-edit main
+git merge --no-edit origin/main
 if [ ! -f wrangler.jsonc ]; then
   echo "ERROR: wrangler.jsonc missing after merge — aborting to avoid breaking the deploy config." >&2
   git merge --abort 2>/dev/null || true
@@ -47,7 +51,7 @@ if [ ! -f wrangler.jsonc ]; then
 fi
 
 git push origin "$DEPLOY_BRANCH"
-echo "OK: '$DEPLOY_BRANCH' synced with main and pushed → Cloudflare Workers build triggered."
+echo "OK: '$DEPLOY_BRANCH' synced with origin/main and pushed → Cloudflare Workers build triggered."
 
 # Direct deploy as well — the Workers Builds CI project was created against the
 # old worker name (axitdesign); after the rename to axitnow the CI outcome is
