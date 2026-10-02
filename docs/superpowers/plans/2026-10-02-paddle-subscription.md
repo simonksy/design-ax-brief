@@ -1518,6 +1518,14 @@ wrangler secret put PADDLE_WEBHOOK_SECRET
 `wrangler.jsonc`의 `PADDLE_CLIENT_TOKEN`, `PADDLE_PRICE_MONTHLY`, `PADDLE_PRICE_YEARLY`를 채우고
 `PADDLE_ENV`는 `"sandbox"`로 둔다.
 
+**배포 전 반드시 확인할 것 (최종 검토에서 나온 항목):**
+- `MAIL_FROM`을 **검증된 Resend 도메인 주소**로 설정한다. 설정하지 않으면 Resend 공용 발신
+  주소로 나가고, 그 주소는 **Resend 계정 주인에게만 배달된다** — 운영자 본인만 로그인에
+  성공하고 나머지 모든 구매자는 메일을 받지 못한다. `wrangler.jsonc`에 자리표시자가 없으니
+  잊기 쉽다.
+- `PADDLE_API_KEY`가 반드시 설정돼 있어야 한다. 환불 취소 처리(`adjustment.*`)는 페이로드에
+  `custom_data`가 없어서 고객 조회 API에 의존한다. 키가 없으면 환불해도 권한이 안 닫힌다.
+
 - [ ] **Step 2: DB 마이그레이션**
 
 ```bash
@@ -1533,10 +1541,24 @@ Paddle 대시보드 → Notifications → 대상 URL `https://axitnow.com/api/bi
 이벤트: `subscription.trialing`, `subscription.activated`, `subscription.updated`,
 `subscription.canceled`, `transaction.completed`, `transaction.payment_failed`.
 
+- [ ] **Step 3b: 샌드박스 중에는 일반 방문자의 결제를 막는다**
+
+`workers_dev`/`preview_urls`가 모두 꺼져 있어 샌드박스 검증도 프로덕션 호스트에서 해야 한다.
+그 창 동안 실제 방문자가 Paddle 공개 테스트 카드(4242…)로 결제하면 진짜 구독 행이 생긴다.
+`/api/billing/checkout`에 가드를 넣어 `PADDLE_ENV === "sandbox"`이면서 요청 호스트가
+프로덕션 도메인이면 503을 돌려주되, 쿠키 `ax_sandbox=1`을 가진 요청만 통과시킨다
+(운영자가 `?sandbox=1`로 한 번 설정). 프로덕션 전환 시 이 가드는 자동으로 무력화된다.
+
 - [ ] **Step 4: 실제 결제 1건 흘려보기**
 
 샌드박스 테스트 카드로 월간 플랜을 결제하고 다음을 확인한다:
 - 결제창이 사이트 위에 오버레이로 뜨는가
+- **결제창에서 이메일을 일부러 다른 주소로 바꿔서** 결제했을 때, 서버 로그에 불일치 경고가
+  남고 어느 주소로 권한이 열렸는지 추적 가능한가 (최종 검토 Critical 2)
+- `subscription.*` 이벤트 payload에 `custom_data.email`이 실제로 실려 오는가 — 안 실려 오면
+  모든 권한이 `fetchCustomerEmail` 폴백에 의존하게 된다
+- 갱신 1회가 `current_period_end`를 실제로 밀어주는가 (최종 검토 Important 5)
+- 환불 1건이 권한을 즉시 닫는가 (최종 검토 Important 6)
 - 결제 후 잠긴 카드가 열리는가 (웹훅 도착까지 최대 10초)
 - `wrangler d1 execute axbrief-subscribers --remote --command "SELECT * FROM subscribers WHERE provider='paddle'"` 에 행이 생겼는가
 - 고객 포털 링크가 열리는가
