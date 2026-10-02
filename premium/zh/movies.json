@@ -4676,6 +4676,159 @@
           "x": "据悉，在中国，2026年第一季度新上线的竖屏剧中有95%以上都是用AI制作的。AI竖屏作品在美国会不会只是昙花一现，最终要由观众来决定。拍过40部竖屏作品的演员Martina Monti这样说：“有些人对未来更乐观，他们就是希望这股AI泡沫自己破掉。另一些人，就不好说了。”她还补充说，目前情况并不理想。"
         }
       ]
+    },
+    "movies/movies-acoustica-eight-w9n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Acon Digital发布了其音频编辑、修复与母带处理套件的新版本Acoustica 8。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Acon.jpg",
+          "cap": "Acon Digital Acoustica 8"
+        },
+        {
+          "t": "p",
+          "x": "这一版本直接回应了一线工程师提出的技术难题。它集成了一整套辅助性AI与机器学习工具,能在不损失音质的前提下提升工作效率。Acon表示,Acoustica 8的设计目的不是取代经验丰富的音频专业人员,而是为他们赋能。从对白清理到频谱修复,复杂的修复工作都交给机器学习处理,而控制权完全掌握在工程师手中。"
+        },
+        {
+          "t": "p",
+          "x": "与订阅制软件日益普及的趋势相反,Acon Digital在编辑、修复、母带处理工具上继续提供永久授权许可,保留了不订阅也能购买使用的选项。"
+        },
+        {
+          "t": "p",
+          "x": "具体功能方面,DeNoise 3和DeHum 3现在依靠机器学习模型运行,因此不再需要事先采集噪声样本。DeClip 3和DeClick 3换上了全新界面。Extract:Dialogue 2为人声、噪声、混响分别加入了滑块和灵敏度调节。Audiophile能用生成内容填补更长的时间区间,让修复效果更加顺畅。"
+        },
+        {
+          "t": "p",
+          "x": "频谱编辑器新增了“相似选择”功能,可找到与所选区域特性相近的区间,并可调节时间与频率羽化,细化编辑边界处的过渡。立体声视图将立体声位置以颜色绘制在频谱图上,让工程师用眼睛而不是耳朵来发现平衡问题。"
+        },
+        {
+          "t": "p",
+          "x": "沉浸式音频方面,Ultimate版本支持包括杜比全景声在内的最高9.1.6声道。界面经过全面重新设计,新增了启动界面、可停靠的处理工具窗口,以及可自由调整的工具栏。ARA2集成覆盖所有版本,可在任意ARA2主机中使用完整的剪辑编辑器,专用的链接插件负责与Avid Pro Tools之间的AAX传输。产品分为标准版、高级版和旗舰版三个版本,均采用永久授权销售。"
+        }
+      ]
+    },
+    "movies/movies-maxon-fall-ibc-b2r": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Maxon将在IBC2026上,仅通过展位提前展示秋季Maxon One版本。时间为9月11日至14日,地点在阿姆斯特丹RAI会展中心7号馆7.B24展位。此次预告还将回顾过去一年里Cinema 4D、ZBrush、Redshift、Red Giant和Autograph获得的更新。10月版本的具体计划还要再过几周才会正式公布。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/maxon_at_ibc2026_beer_mug_filling_hor-1280.jpg?itok=h7lk9WBB",
+          "cap": "Maxon at IBC2026"
+        },
+        {
+          "t": "p",
+          "x": "“我们一直倾听艺术家的声音,持续打磨产品底层的技术,让每一次更新都带来更多创作可能。”Maxon首席执行官David McGavran表示。“在大版本之间,其实发生了很多事。我们在搭建一套能持续支撑创作的技术栈,让艺术家今天能做到一年前做不到的事。IBC是一个机会,可以看到我们已经完成的工作、体验最新更新,并在展位上率先看到接下来会推出的内容。”"
+        },
+        {
+          "t": "p",
+          "x": "具体到各产品,Cinema 4D将迈向新一代,新增构建、填充与模拟复杂3D场景的功能。ZBrush进一步打通连接桌面与iPad的雕刻工作流程,减少在应用间来回切换。Redshift在性能和交互性上大幅提升,并加入程序化毛发与更具电影感的色彩工作流程。AI重新打光的功能来自Red Giant:名为Scene Light的工具可以加快复杂灯光调整,同时将控制权留给艺术家。Autograph将继续推进性能与稳定性工作,并与Maxon的工具更深度整合。"
+        },
+        {
+          "t": "p",
+          "x": "今年已经发布的内容也在回顾范围内。Cinema 4D获得了一款新的UV编辑器,支持专业级展开与打包、接缝编辑、纹素密度工具,并支持UDIM;Cloner的分布选项新增了Edge、Rivet和UV Projection模式,配合模拟系统的Fabric笔刷,可以直接在视口中调整柔软材质。ZBrush获得了Windows on Arm原生支持、与Substance Painter的直接联动,以及ZModeler的改进。Redshift在调整灯光和材质时响应更快,并带来了新的内存架构,以及Cinema 4D中材质工作流程的整理。Red Giant以性能为重点,对Glow、Chromatic Aberration、RGB Separation等核心Universe效果进行了现代化改造,并把Cinema 4D的程序化噪点以Maxon Noise的形式带入了Universe。"
+        },
+        {
+          "t": "p",
+          "x": "今年重新发布、并从5月起开放商业使用的免费动态图形与合成应用Autograph,现在可以原生使用Red Giant的效果,并全面支持第三方插件的OpenFX。它还加入了竖排文字与CJK排版,以及基于USD的3D工作空间,把立体文字、图形、纹理和多通道合成统一到同一个环境中。"
+        },
+        {
+          "t": "p",
+          "x": "展位上的发布将有WWE、RTL、Imaginary Forces、Fall Off the Wall和BBC的制作团队参与,Maxon培训师Jonas Pilz、Elli Wade和Chad Perkins也会带来演示。Maxon与联想将在9月12日星期六展会结束后,在Aloha Amsterdam举办社区聚会。"
+        }
+      ]
+    },
+    "movies/movies-nicetouch-v2-h8v": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nice Touch发布了面向专业后期制作团队的AI剪辑助手新版本——Nice Touch V2。"
+        },
+        {
+          "t": "video",
+          "yt": "u1QT63Oeit8"
+        },
+        {
+          "t": "p",
+          "x": "与剪辑师、制片人、制作监督和工作室负责人进行的300多场对话确定了方向。V2是在Adobe Premiere Pro和DaVinci Resolve中运行、从零重写的版本。"
+        },
+        {
+          "t": "p",
+          "x": "Nice Touch是一家成立于2025年的英国公司。Circus Street的创始人Rich Townsend和Jonny Townsend投入了种子前轮资金,两人都在董事会任职。它让剪辑师无需离开自己惯用的工具,就能把剪辑前端那些机械性的工作交出去。"
+        },
+        {
+          "t": "p",
+          "x": "由两位拥有12年行业经验的剪辑师打造的V2,承担的是选片、串剪、粗剪组装、多机位走带、精简压缩等前端劳动,支持18种语言。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/nicetouchv2_001.jpg",
+          "cap": "Nice Touch V2"
+        },
+        {
+          "t": "p",
+          "x": "它会分析项目素材,做到逐字级准确度并区分说话人进行转录,之后用日常语言接受指令。剪辑师说出想要的剪法,它就会直接在时间线上用真实的素材、剪辑点和标记搭建出来,剪辑师接着往下做就行。"
+        },
+        {
+          "t": "p",
+          "x": "在300多场对话中,有两件事反复出现:现有的AI工具需要离开剪辑环境,在别处处理后再把结果导回来;以及剪辑师有一些不愿交出的边界。让一位完全回避AI工具长达30年的剪辑师改变态度的,是Nice Touch“不触碰创作判断”这一点。"
+        },
+        {
+          "t": "p",
+          "x": "创始人Matthew Cooksey和Paul Simon用12年时间,把Circus Street的视频制作团队发展到200人规模,为Coca-Cola、Nike、Nestlé和Pfizer制作过电视与VFX级别的内容。Cooksey搭建了一座耗资50万英镑的虚拟演播室,用20种语言向超过50万观众送达了60小时的内容。Circus Street以5000万英镑的价格卖给了QA。"
+        },
+        {
+          "t": "p",
+          "x": "“12年来,每当遇到工具做不到的事,我们就自己动手做出来。这一次是同样的本能,只是背后的技术更好了。”联合创始人兼首席产品官Paul Simon如此说道。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/nicetouchv2_002.jpg",
+          "cap": "Nice Touch V2"
+        },
+        {
+          "t": "p",
+          "x": "V2现已在nicetouch.app上线。五天免费试用附带2,000个可解锁全部功能的积分;付费版本中,Pro版每月50英镑可获得7,000积分,Ultra版每月250英镑可获得40,000积分。需要时还可以随时额外购买积分。定价以英镑、美元和欧元计算。Podimo以及乔治亚大学社会工作学院的剪辑团队已经在使用它。"
+        }
+      ]
+    },
+    "movies/movies-primevideo-dub-q3m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "亚马逊Prime Video正在让英语配音看起来更自然。做法是用AI匹配画面中演员嘴部的动作。"
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2025/06/maxtonhall2.webp?w=1000&h=667&crop=1",
+          "cap": "Stephan Rabhold, Prime Video"
+        },
+        {
+          "t": "p",
+          "x": "首个应用此功能的作品是德语爱情剧《Maxton Hall》,这是Prime Video迄今观看量最高的国际原创剧集。唇形同步配音从周三起为第1季和第2季加入全球英语版本,12月9日上线的最终季第3季也将包含该功能。第3季改编自Mona Kasten在2018年创作的小说《Save Me》。"
+        },
+        {
+          "t": "p",
+          "x": "Prime Video团队通过结合AI与VFX技术打造了这项功能,但并未透露具体使用了哪些AI工具。亚马逊表示未来计划将其拓展到其他剧集。"
+        },
+        {
+          "t": "p",
+          "x": "这项功能会把演员的嘴部动作与真人录制的配音表演对齐。亚马逊将其效果描述为“让观众完全沉浸在故事中的无缝观看体验”。"
+        },
+        {
+          "t": "p",
+          "x": "“Prime Video一直在打造能够提升用户观看体验的新工具,”Prime Video与Amazon MGM Studios技术部门副总裁Raf Soltanovich表示。“唇形同步让用户能更顺畅、更有沉浸感地欣赏来自世界各地的内容。对创作者而言,这让他们的故事更容易抵达更广泛的全球观众。整个过程都在创作者的监督下完成,以保持艺术意图的完整性。”"
+        },
+        {
+          "t": "p",
+          "x": "亚马逊补充说,Prime Video将继续在“以用户为中心、创作者掌握主导权”的前提下,寻找实用且有价值的AI应用方式。"
+        }
+      ]
     }
   }
 }

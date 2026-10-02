@@ -5734,6 +5734,303 @@
           "x": "En el último siglo, el problema que resolvieron las interfaces de voz fue ajustar la intención. Al resolverse, se abrió paso a tutores que responden en tiempo real, llamadas de soporte que podrían pasar por humanas y resúmenes de reuniones lo bastante fiables para actuar sobre ellos. Lo que queda es elegir: poner un rostro en pantalla o quedarse solo con la voz, qué personalidad darle, si interrumpe la conversación o escucha en silencio. Diseñar cómo se ve un agente importa tanto como diseñar qué puede hacer."
         }
       ]
+    },
+    "design/design-ae-265-assistant-q4m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe lanzó la versión 26.5, la más reciente de After Effects, su software de composición para motion graphics, posproducción y VFX. En lugar de agregar grandes funciones nuevas, esta actualización pule el flujo de trabajo y el rendimiento. La herramienta Object Matte ahora admite caché en disco, y el flujo de trabajo al usar guías en pantalla ha mejorado."
+        },
+        {
+          "t": "p",
+          "x": "Junto con la versión oficial, también se lanzó una compilación beta. Esta incluye una función completamente nueva: un asistente de IA agéntico que opera el programa mediante comandos en lenguaje natural. La beta también incluye actualmente la posibilidad de aplicar materiales de Substance a texto y formas 3D, y de usar capas de una composición como fuentes de material."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_ObjectMatte-960x480.jpg",
+          "cap": "After Effects 26.5: Object Matte ahora admite caché en disco."
+        },
+        {
+          "t": "p",
+          "x": "La 26.5 en sí no agrega grandes funciones, sino que mejora el rendimiento de las ya existentes. Object Matte, la herramienta de rotoscopia automática basada en IA introducida en After Effects 26.2, ahora admite caché en disco, de modo que los resultados persisten incluso al cerrar el proyecto. Ya no es necesario recalcular los mates desde cero en cada sesión, y como no es necesario mantener en memoria todos los fotogramas propagados, la RAM liberada también mejora la respuesta durante el cálculo inicial."
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_Guides.mp4"
+        },
+        {
+          "t": "p",
+          "x": "También se retocaron las guías. Los paneles Composition, Layer y Footage ahora admiten posicionamiento basado en porcentajes. Las guías pueden fijarse no solo arriba y a la izquierda, sino también en los bordes inferior y derecho, y cada guía puede tener su propio color. El panel Effect Controls se modernizó, y el cambio más destacado es la posibilidad de añadir etiquetas de color a cada instancia de efecto aplicada a una capa."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_Assistant-960x480.jpg",
+          "cap": "El asistente de IA agéntico incluido en la beta. Informa el progreso mediante un registro de texto."
+        },
+        {
+          "t": "p",
+          "x": "Adobe también lanzó una compilación beta separada que incluye el asistente de IA agéntico. El usuario escribe instrucciones detalladas en lenguaje natural, el asistente las ejecuta tal cual, y, como se ve en la imagen, informa el progreso mediante un registro de texto."
+        },
+        {
+          "t": "p",
+          "x": "Para los usuarios nuevos, esto allana la curva de aprendizaje. No es necesario saber dónde está una herramienta en la interfaz, ni siquiera si esa herramienta existe. El otro eje que destaca Adobe es la automatización de tareas tediosas o técnicas. Como ejemplo se presenta al asistente revisando una composición o un metraje entregado por un colaborador y devolviendo un resumen automático. También escribe código: Adobe presenta esta función como una vía para que artistas sin conocimientos técnicos escriban expresiones personalizadas de JavaScript para motion graphics."
+        },
+        {
+          "t": "p",
+          "x": "Con esto, After Effects se convierte en la aplicación de Adobe más reciente en recibir un asistente de IA. La misma función se lanzó en beta para Photoshop y Premiere Pro en junio."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_Materials-960x480.jpg",
+          "cap": "En la beta, los materiales de Substance se usan no solo en objetos 3D, sino también en texto y formas."
+        },
+        {
+          "t": "p",
+          "x": "La compilación beta actual también suma algunas funciones 3D. La aplicación de materiales de Substance, antes limitada a objetos 3D genéricos, ahora se extiende a texto y formas. En el renderizador Advanced 3D, las capas pueden usarse como fuentes de material, extrayendo texturas de toda una capa de video o un precomp."
+        },
+        {
+          "t": "p",
+          "x": "After Effects 26.5 funciona solo por suscripción en Windows 11 y macOS 14.0 o superior. La suscripción de una sola app cuesta $34.49 al mes o $263.88 al año. La documentación en línea también llama a esta actualización la versión de septiembre de 2026."
+        }
+      ]
+    },
+    "design/design-figma-make-kit-k7p": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "cUXna9ZAfSI"
+        },
+        {
+          "t": "p",
+          "x": "Figma Make es un lugar para prototipar ideas rápidamente, e incluso para crear aplicaciones u otras herramientas. Si llevas a él el sistema de diseño de tu equipo, las pantallas que genera la IA respetan la marca y se construyen con los componentes que realmente usas. El defensor de diseño de Figma Anthony DiSpezio muestra el proceso."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos formas de importarlo: traer una base de código, o llamar a una biblioteca de diseño de Figma para pasar estilos, layout y variables. El video cubre la vía de la base de código."
+        },
+        {
+          "t": "p",
+          "x": "Abre un archivo de Make nuevo y haz clic en el engranaje de ajustes en la esquina para encontrar “create a kit”. Elige paquete NPM en lugar de estilos de biblioteca. Figma Make lee un paquete que tu organización haya publicado en un registro público o en el registro privado interno de Figma —en esencia, un conjunto de código empaquetado para reutilizar componentes y estilos— y lo usa en el prototipo. Al terminar la instalación, pasas a la etapa de configuración personalizada."
+        },
+        {
+          "t": "p",
+          "x": "Luego vienen las guías: piénsalas como el manual de uso de los componentes y estilos que llegaron con el paquete. Hay cuatro consejos. Primero, explica la configuración, escribiendo como si guiaras a un desconocido por la instalación de demostración, asumiendo que el agente no sabe nada del código ni del sistema. También divide por categorías: demasiado contexto hace que la IA se pierda, así que separa las áreas para que solo tome las guías que necesita para cada tarea. Incluye ejemplos reales y señala los errores comunes."
+        },
+        {
+          "t": "p",
+          "x": "Puedes escribir las guías tú mismo o dejárselo a Make. Si todavía no tienes nada, se recomienda la generación automática. Haz clic en generar, y se crea un archivo basado en las definiciones ya incorporadas."
+        },
+        {
+          "t": "p",
+          "x": "El resultado son varios archivos. setup.md contiene el procedimiento básico para instalar el kit. components.md es a la vez una visión general de los componentes del kit y una guía hacia las instrucciones detalladas de cada componente. Las guías de estilos y tokens se adjuntan por separado."
+        },
+        {
+          "t": "p",
+          "x": "Prueba antes de publicar. Escribe algo como “build a basic login screen” y ejecútalo: obtendrás una pantalla de inicio de sesión construida con los colores, la tipografía y los componentes del paquete NPM, no con los componentes integrados por defecto en Make."
+        },
+        {
+          "t": "p",
+          "x": "Despliega el kit con “publish kit” en la parte superior derecha. Define un nombre y una miniatura, y asigna un alcance (scope) y una versión que marquen su lugar en el registro. Del lado del usuario, se agrega el kit haciendo clic en “select a make kit” en un archivo de Make nuevo, y de inmediato se envía el primer prompt."
+        },
+        {
+          "t": "p",
+          "x": "Si hay algo que corregir, vuelve al archivo original del kit. Cambia un componente o ajusta las guías, haz clic en “publish kit”, y aparece un botón “update”. A partir de ahí, quien use el kit en un archivo nuevo recibe la última versión, y los archivos que siguen con la versión anterior son notificados del cambio."
+        },
+        {
+          "t": "p",
+          "x": "Un paso más allá están las plantillas. Vienen con el kit integrado más un layout básico, así que no se empieza la generación desde una pantalla vacía cada vez. Los equipos usan plantillas para difundir buenos resultados sin romper las guías de marca y de producto."
+        },
+        {
+          "t": "p",
+          "x": "Las plantillas también tienen cuatro consejos propios. Primero, bloquea lo que no debe cambiar. Saca los logotipos, nombres y reglas de layout como constantes codificadas, para que el modelo no las invente ni traiga assets obsoletos. En lugar de instrucciones abiertas, da de antemano un prompt listo para copiar y pegar, así se reduce el alcance de edición. Divide las funciones complejas en módulos. Por último, ten en cuenta los sesgos de preentrenamiento del modelo probando cómo lee la interfaz y detectando alucinaciones."
+        }
+      ]
+    },
+    "design/design-slack-surfaces-r2v": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&w=1200",
+          "cap": "Basta con describirlo para que Slackbot construya la herramienta. (Imagen: Slack)"
+        },
+        {
+          "t": "p",
+          "x": "Una nueva función que llegará a Slack permite crear herramientas como reportes interactivos, encuestas, paneles, presentaciones y micrositios directamente dentro de la conversación. Describes con palabras lo que necesitas a Slackforce Surfaces, y Slackbot extrae información de la conversación relevante y de apps conectadas como Google Drive o Salesforce para generarlo con IA."
+        },
+        {
+          "t": "p",
+          "x": "Una vez que Slackbot crea un Surface, lo compartes con tus colegas y lo fijas en el canal. Otros lo abren, lo exploran y dejan comentarios."
+        },
+        {
+          "t": "p",
+          "x": "En un ejemplo que Slack publicó, un usuario pide visualizar el uso de tokens de IA con un estilo de videojuego arcade. El asistente construye un panel interactivo que muestra el uso de tokens por departamento, como ventas, diseño e ingeniería."
+        },
+        {
+          "t": "p",
+          "x": "“No se trata de exportar los datos a otra herramienta para interpretarlos. Le pides a Slackbot, justo donde ya está ocurriendo la conversación, que construya un panel, una presentación o un reporte. Y todo el equipo actúa ahí mismo.” Eso dijo por correo a The Verge Ryan Gavin, director de marketing de Slack."
+        },
+        {
+          "t": "p",
+          "x": "Esta actualización llega apenas meses después de que Slack transformara a Slackbot en algo más parecido a un asistente de IA. En aquel momento se añadió la capacidad de resumir información entre canales, filtrar mensajes y programar reuniones. El mes pasado también apareció un canal colaborativo de vibe coding."
+        },
+        {
+          "t": "p",
+          "x": "Parece haber muchos otros usos además de este. Por ejemplo, mostrar la cola de soporte al cliente como un panel en vivo para que otros colegas la supervisen, o extraer datos de apps conectadas para construir un pronóstico financiero con la apariencia de un reporte meteorológico. Slack dijo que solo trae la información a la que la herramienta de IA tiene acceso autorizado."
+        },
+        {
+          "t": "p",
+          "x": "Slackforce Surfaces está disponible para cualquier cliente que tenga Slackbot activado en su espacio de trabajo, incluidos los del plan gratuito. Su uso con datos en vivo comienza en octubre."
+        }
+      ]
+    },
+    "design/design-agent-retry-x2n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En la crítica del viernes, el botón de reintento no parecía plantear ningún problema. Durante la noche, el agente había reescrito el texto de consentimiento de incorporación, y la primera ejecución había pasado por alto la ruta de recuperación. Pero el agente dice que quiere ejecutarlo una vez más. Con el hueco todavía abierto, ¿quién es la persona que debe pulsar aprobar?"
+        },
+        {
+          "t": "p",
+          "x": "El autor, como diseñador encargado de la revisión, dice que ese clic es su responsabilidad. Un reintento puede sobrescribir una frase corregida por una persona, y en el momento en que entra en la cola, el margen para revertirlo desaparece. Por eso rechaza el reintento hasta que el motivo de la detención aparezca en la tarjeta. No se trata de confiar o no en el modelo, sino de un procedimiento que se puede aplicar hoy mismo."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida no es un playground, sino una carpeta de investigación con fecha. Bajo research/retry-2026-09-13 se crean solo tres archivos: decision-card.yaml, flow.md y recovery.md. La decisión humana va en la tarjeta, el momento de la elección en una nota, y la recuperación de fallos de tecnología asistiva en otra. Si se mezclan los tres, la evidencia que falta queda escondida dentro del chat."
+        },
+        {
+          "t": "p",
+          "x": "La tarjeta se escribe en YAML sencillo. Un diseñador debe poder leerla sin un decodificador, y un ingeniero debe poder revisarla sin una aplicación nueva. Los campos son owner (responsable), surface (pantalla afectada), reversible_until (momento hasta el cual se puede revertir) y user_consequence (consecuencia para el usuario). La evidencia y la hipótesis se escriben en claves distintas. Un hecho observado en pantalla no es lo mismo que una historia sobre por qué ocurrió, y un modelo elocuente puede disfrazar una suposición como si fuera un hecho. retry_allowed nunca se deja en true por defecto. Un campo vacío no significa que se llenará después, sino que hay una detención."
+        },
+        {
+          "t": "p",
+          "x": "Las condiciones de detención se escriben como estados visibles en pantalla, para que realmente se activen: frases como 「el texto de consentimiento cambió sin opción para rechazar」 o 「se sobrescribiría la última edición humana」. El control de recuperación observa solo tres cosas: si se anunció el cambio, si el control de rechazo tiene un nombre accesible, y si el foco vuelve al campo corregido. Si falta una sola, retry_allowed permanece en false."
+        },
+        {
+          "t": "p",
+          "x": "Se necesita un segundo lector, pero no un segundo actor. Un canal de crítica económico queda impedido de escribir la tarjeta o de invertir retry_allowed. El autor aclara que este texto se escribió como parte de una promoción del producto MonkeyCode, y que aquí MonkeyCode solo cumple el papel de ese canal de crítica de un solo uso. Por último, un pequeño validador en Python revisa la tarjeta y devuelve únicamente READY o BLOCK. La lista de BLOCK es la evidencia que falta, no el backlog del próximo sprint."
+        },
+        {
+          "t": "p",
+          "x": "La aprobación no es el único final honesto. El rechazo también es un evento de producto con un responsable, así que el registro del rechazo y el prompt descartado se guardan en la misma carpeta, porque el siguiente ciclo intentará la misma frase de nuevo. También se fijan los límites: esto es solo una puerta construida en la interfaz, no una herramienta de evaluación de modelos ni una investigación controlada. El autor dice que no debe usarse en pantallas médicas o legales, ni cuando no hay un diseñador que responda por el clic."
+        }
+      ]
+    },
+    "design/design-ai-stack-now-j5r": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "zwoyqvMtMSA"
+        },
+        {
+          "t": "p",
+          "x": "Jesse Showalter expone todo su stack de IA en una transmisión en vivo. Diseñador con 17 años de experiencia y propietario de una agencia, presenta solo las herramientas que usa realmente en septiembre de 2026, no predicciones. Aclara que no hay patrocinio de ningún lado."
+        },
+        {
+          "t": "p",
+          "x": "Empieza con la herramienta más aburrida. Paga entre 10 y 11 dólares al mes por la herramienta de dictado Whisper Flow. Dice que resulta casi absurdo pagar por una simple transcripción, pero que capta su voz incluso a distancia y entiende la intención cuando se corrige a media frase, lo que le ahorra mucho tiempo. No la usa en el teléfono porque exige cambiar de teclado y copiar y pegar."
+        },
+        {
+          "t": "p",
+          "x": "Sigue Little Bird. Lee continuamente lo que hace en pantalla para acumular contexto, así que no necesita integraciones separadas. También se conecta con conectores como Dropbox, Gmail, Google Calendar, GitHub, Slack y Asana. Con rutinas como un resumen matutino o una revisión mensual fijadas como instrucciones, llega a leer qué tarjeta de proyecto movió y organiza sus prioridades de la tarde. El seguimiento se puede desactivar, pausar o excluir para aplicaciones concretas, y los datos acumulados se pueden borrar."
+        },
+        {
+          "t": "p",
+          "x": "Framer es el centro de su trabajo web. Trasladó todo el trabajo de su agencia a Framer hace cuatro años, y ahora piensa que incluso puede construir sitios avanzados, ya que se han cubierto hasta las funciones más tediosas. En el nuevo agente de IA elige modelos como Opus o Sonnet, y apunta a una página, colección, componente o un estilo de texto completo dentro de un diseño para corregirlo todo de una vez."
+        },
+        {
+          "t": "p",
+          "x": "Construyó su app móvil en Replit. Le atrajo la idea de construir y lanzar dentro de un solo ecosistema, pero admite que le hubiera gustado no haberla hecho ahí, porque resultó menos eficiente en costes y algo tosca. Últimamente usa una herramienta multiagente junto a Cursor, convocando en un mismo hilo a agentes dedicados a seguimiento, código, escritura y Figma, y deja que solo un agente gestor hable con él. Para las notas de reuniones dice que tanto Granola como Fireflies son buenas, pero vuelve a Fathom por su integración con Asana."
+        },
+        {
+          "t": "p",
+          "x": "El diseño sigue siendo Figma. Lleva mucho tiempo usando Figma Draw, Figma Motion y el modo de desarrollador, así que le resulta cómodo. La función de diseño de Claude se ha acercado a Figma al añadir un panel de capas y propiedades, pero para él lo decisivo es que no está basada en lienzo. Un lienzo es un espacio de juego donde se puede improvisar libremente entre la versión 1, 2, 5, 15 y 25, y eso ahí resulta difícil."
+        },
+        {
+          "t": "p",
+          "x": "En cambio, dice que le gusta mucho Wonder.design. Tiene un lienzo abierto con capas y páginas e incluye chat de IA, y como se construyó desde el principio pensando en código, se conecta no solo a MCP sino también a repositorios de GitHub. Durante la transmisión, la conexión con GitHub falló y la demostración se desordenó a medias. El cierre es sobre el agotamiento. La IA sí aumenta la productividad, dice, pero cuanto más productivo se siente, más trabaja, menos descansa y peor duerme."
+        }
+      ]
+    },
+    "design/design-morpholio-trace-b7k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Morpholio, una filial de Vectorworks, ha lanzado Trace for Business, una opción de suscripción empresarial. Permite comprar y gestionar licencias de Morpholio Trace en un solo lugar a través del portal de clientes de Vectorworks. Tras adquirir Morpholio, Vectorworks ha extendido a esta app de boceto para iPad las herramientas de compra, licencia y gestión que usa para su propio software."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/09/Morpholio-launches-Trace-for-Business-for-enterprise-users-scaled.jpg",
+          "cap": "Morpholio Trace for Business"
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, una suscripción a Trace solo podía comprarse en la App Store de Apple. Es una app que arquitectos y diseñadores industriales usan para dibujar, marcar y desarrollar diseños. La suscripción de la App Store se mantiene igual, tanto para los clientes actuales como para los nuevos usuarios que prefieran ese método."
+        },
+        {
+          "t": "p",
+          "x": "Trace for Business añade otra opción a esto. Incorpora facturación basada en facturas, gestión centralizada de licencias y despliegue empresarial a través del portal de clientes. Los clientes actuales de Trace B2B mantienen las licencias que usan ahora y siguen recibiendo las actualizaciones de Trace Pro."
+        },
+        {
+          "t": "p",
+          "x": "La compra se realiza en el portal de clientes mediante un proceso de adquisición por factura. Los administradores asignan licencias a usuarios individuales y gestionan el acceso a través de cuentas de Vectorworks, lo que facilita ajustar las asignaciones cuando el personal crece o disminuye."
+        },
+        {
+          "t": "p",
+          "x": "También admite el inicio de sesión único (SSO) de Vectorworks. Los usuarios asignados acceden a Trace con la cuenta de Vectorworks que su organización ya utiliza. Los usuarios actuales de Trace pueden trasladar sus proyectos, plantillas y paletas de color personalizadas a una nueva cuenta de Vectorworks."
+        },
+        {
+          "t": "p",
+          "x": "Del lado de TI, admite gestión de dispositivos móviles (MDM). Controla el acceso a la app y ajusta la configuración según las necesidades de la organización, lo que incluye elementos relacionados con guardar, exportar y las funciones de IA. Comprar cinco licencias o más añade soporte premium, incluido soporte telefónico e incorporación individual."
+        },
+        {
+          "t": "p",
+          "x": "Trace for Business también incluye acceso anticipado a las funciones de Trace Ultra. Ultra es un nuevo nivel de producto cuyo lanzamiento completo está previsto para la segunda mitad de 2026, pensado para ampliar Trace a una app asistente de BIM/CAD basada en vectores. La primera función eleva el número máximo de capas por proyecto de 25 a 50, y el resto se irá publicando a lo largo de 2026. Los primeros en adoptarla obtienen un precio de lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "Este anuncio se apoya en la integración directa de Morpholio Trace añadida en Vectorworks 2026 Update 5, una función que conecta directamente los bocetos dibujados a mano en un iPad con los archivos de diseño y los planos de Vectorworks. Trace for Business está disponible en el portal de clientes de Vectorworks, mientras que los suscriptores individuales siguen usando Morpholio Trace a través de la App Store."
+        }
+      ]
+    },
+    "design/design-supersplat-30-q4m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PlayCanvas ha lanzado SuperSplat Editor 3.0, una herramienta gratuita y de código abierto para ver y editar gaussianas 3D en el navegador. El motor se ha reconstruido por completo sobre WebGPU, lo que permite cargar escenas mucho más grandes. A esto se suma un nuevo modo de renderizado Stochastic Alpha, que mantiene la pantalla estable incluso en escenas muy pesadas."
+        },
+        {
+          "t": "video",
+          "yt": "hayWiaOuddA"
+        },
+        {
+          "t": "p",
+          "x": "SuperSplat Editor se lanzó por primera vez en 2024. Su idea central es abrir y editar escaneos capturados como gaussianas 3D (3DGS) en un navegador web normal. Se pueden importar formatos estándar como PLY y ocultar, borrar o reorientar las gaussianas una a una, y una herramienta de selección de volumen permite recortar grandes bloques del escaneo."
+        },
+        {
+          "t": "p",
+          "x": "También permite gradación de color y recorridos de cámara. El resultado editado se renderiza como imagen fija o video, se sube a la galería en línea de PlayCanvas, o se exporta como SPZ o como SOG, su propio formato comprimido."
+        },
+        {
+          "t": "p",
+          "x": "Esta actualización ha reescrito todo el editor en WebGPU, continuando directamente el camino que PlayCanvas abrió a principios de este año con su renderizador WebGPU. El uso de memoria al cargar y editar escenas se ha reducido mucho, por lo que el editor sigue respondiendo incluso al abrir escenas mucho más grandes."
+        },
+        {
+          "t": "p",
+          "x": "La magnitud del ahorro depende de la tarea. Si las cifras que publicó el blog de PlayCanvas para una escena de 4,4 millones de gaussianas son representativas, el uso de memoria en espera o durante el renderizado es más de 10 veces menor. Al guardar, esa diferencia se reduce."
+        },
+        {
+          "t": "p",
+          "x": "Para escenas enormes con decenas de millones de gaussianas se ha añadido el nuevo modo de renderizado Stochastic Alpha. Funciona sin necesidad de ordenar las gaussianas antes de renderizar, por lo que puede configurarse para activarse automáticamente si el cálculo de los fotogramas tarda demasiado. La pantalla sigue respondiendo incluso al moverse dentro de la escena."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo pincel Sphere pinta directamente sobre una superficie 3D para seleccionar solo una parte de las gaussianas, lo que permite tomar únicamente el objeto deseado sin arrastrar las gaussianas que hay detrás. La gradación de color también puede aplicarse solo al área seleccionada en lugar de a toda la escena. Hay además muchos otros ajustes menores en la interfaz, el flujo de trabajo y el rendimiento, y la lista completa está en las notas de la versión en línea."
+        },
+        {
+          "t": "p",
+          "x": "SuperSplat 3.0 se usa gratis en el navegador. Funciona en Chrome, Edge, Safari 26 o posterior, y Firefox con WebGPU activado. El código fuente se ha publicado bajo la licencia de código abierto MIT."
+        }
+      ]
     }
   }
 }

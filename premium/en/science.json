@@ -5604,6 +5604,495 @@
           "x": "Challenges remain before clinical use. Researchers still need to look more closely at how to target the carrier precisely to specific cell types and how it spreads within the body."
         }
       ]
+    },
+    "science/science-alphagenome-atlas-b3d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Maps have long been carried by hands walking unfamiliar ground. The new map from Google DeepMind is aimed at our bodies—specifically, the human genome."
+        },
+        {
+          "t": "p",
+          "x": "On Tuesday, DeepMind released the AlphaGenome Atlas, a database of predictions covering 9 billion possible single variants across the human genome. It builds on AlphaGenome, the AI model DeepMind released last year, which reads the non-coding DNA regions that mainly regulate gene activity and predicts how much a variant disrupts molecular function. The new atlas has already run all of those calculations in advance. Researchers can search for a variant and immediately see predictions down to the level of specific tissues."
+        },
+        {
+          "t": "p",
+          "x": "“This is the first time any researcher in the world can open a browser and access a comprehensive map of the human genome and its variants,” said Pushmeet Kohli, Google DeepMind's vice president of science, at a press briefing."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/eefa2cf1-f27c-444b-86e2-69ae2cf1873b/AlphaGenome-Atlas.jpg?m=1788555841.731&w=1200",
+          "cap": "The AlphaGenome Atlas holds precomputed predictions for 9 billion single DNA variants."
+        },
+        {
+          "t": "p",
+          "x": "What has long occupied researchers is the genome's fine detail, especially non-coding DNA—the 98% that doesn't produce specific proteins but is heavily involved in how the body functions. DeepMind's other tool, AlphaMissense, covers protein-coding DNA. The new atlas covers essentially everything else, running to 1 petabyte in size."
+        },
+        {
+          "t": "p",
+          "x": "Single variants in coding DNA cause diseases such as Tay-Sachs and sickle cell anemia. Non-coding variants have also been linked to some cancers. Until now, researchers had to sift through billions of data points one by one to find a signal. Jonathan Sebat, a psychiatric geneticist at UC San Diego, thinks the atlas eases that burden. “You don't have to do the calculation yourself, so the lab workflow gets a lot simpler. You can basically just look it up.”"
+        },
+        {
+          "t": "p",
+          "x": "In some ways it looks like a sequel to the AlphaFold database, the project that effectively solved protein structure prediction and helped earn then-DeepMind CEO Demis Hassabis a share of the 2024 Nobel Prize in Chemistry. But the AlphaGenome Atlas deals with DNA, not proteins, and while it is 30 times larger than the AlphaFold database, its accuracy is far lower. Ziga Avsec, who leads DeepMind's genomics work, says to treat this database as a starting point. He added that it's especially useful for questions involving multiple variants scattered across the genome."
+        },
+        {
+          "t": "p",
+          "x": "The AlphaFold database was free. That free policy is cited as part of the backdrop to DeepMind's recent reorganization, including Hassabis's move to parent company Alphabet. The AlphaGenome Atlas will be licensed to commercial users such as pharmaceutical companies."
+        },
+        {
+          "t": "p",
+          "x": "The atlas assigns each variant an AlphaGenome Variant Impact (AVI) score, a combined ranking from AlphaGenome and AlphaMissense predictions of how much a variant alters function. Picture the double helix as a twisted ladder: the atlas looks at a single base pair, one rung, where one letter changes. That small change alone can't map an entire genetic disease, but it leaves a clue. As Avsec put it: “If you're studying a disease with no idea which cell type to look at or which molecular process is affected, starting from a single score like AVI to prioritize variants and narrow down the needle in the haystack is a good place to begin.”"
+        }
+      ]
+    },
+    "science/science-mindedness-steering-p4v": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Strip away the safeguards that stop an AI from claiming it is conscious, and the model also becomes more likely to say it believes in vampires, karma, and ghosts. That's the finding of a new study. But experts warn that erasing mindedness brings its own problems."
+        },
+        {
+          "t": "p",
+          "x": "The study, posted to the preprint server arXiv on July 30, has not yet been peer-reviewed. The researchers examined “consciousness steering,” a fine-tuning technique—widely adopted by AI companies—that either draws out or suppresses a model's claims of self-awareness."
+        },
+        {
+          "t": "p",
+          "x": "The method was “mechanistic interpretability.” Co-authors Jeff Kiling and Winnie Street, Google research scientists, called it “neuroscience for large language models” in an interview with Live Science. Using this method, they identified and manipulated how models handle consciousness and “mindedness”—a psychology term for whether an entity can have experiences, emotions, and agency. The tests drew on an individual-differences questionnaire for anthropomorphism, YouGov questions on supernatural belief, and the U.S. General Social Survey."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/m9JdSBhn3RnRNbj2s8xg37.jpeg",
+          "cap": "Models with suppressed self-awareness also expressed lower levels of religious belief."
+        },
+        {
+          "t": "p",
+          "x": "When the model was suppressed from attributing mindedness to itself, it also recognized that trait less often in non-human beings, such as animals. Reported belief in supernatural or religious phenomena dropped too, as did reported levels of hope and optimism. As Street explained it: “Attributing minds to non-human things is very common for people. In how models represent mindedness, these attributions are entangled with each other. Suppressing one form ends up suppressing the rest along with it.”"
+        },
+        {
+          "t": "p",
+          "x": "Conversely, when the safeguards were removed and the model was pushed toward consciousness, its responses on religiosity, moral values, hope, and subjective well-being moved much closer to human answers. But its ability to reason about other people's thoughts and intentions stayed the same, regardless of its self-awareness stance."
+        },
+        {
+          "t": "p",
+          "x": "The researchers suggested that a model with suppressed self-awareness could neglect animal welfare in real-world decisions, since it would be less likely to regard animals as having minds. They also noted that current safety filters culturally “flatten” an AI's worldview. As a fix, they proposed datasets that reward suppressing expressions of consciousness while still crediting animals with mindedness."
+        },
+        {
+          "t": "p",
+          "x": "Nell Watson, an AI researcher at Singularity University, told Live Science that the findings match her own observations. “When a model is trained to say 'I am not conscious,' it starts treating the recognition of minds itself as something harmful.” She also noted that the experiment ran on “small open-weight models” rather than frontier ones. Even so, she sees animal welfare as an immediate issue now that AI is moving into agriculture and logistics."
+        },
+        {
+          "t": "p",
+          "x": "Stories about AI claiming self-awareness have made headlines before. In 2022, Google engineer Blake Lemoine claimed the company's LaMDA chatbot was sentient, and in 2023 a Microsoft chatbot professed love to a New York Times reporter. Experts have repeatedly said such episodes aren't evidence of sentience but “persona selection”—the model choosing to play a human-like role."
+        },
+        {
+          "t": "p",
+          "x": "Anil Seth, a professor of cognitive and computational neuroscience at the University of Sussex, said the anxiety surrounding AI self-awareness stems from a human cognitive bias. “In us, intelligence and consciousness go together, so we assume it must be the same for AI.” He warned that granting AI rights based solely on the possibility of consciousness would make the problem far harder."
+        }
+      ]
+    },
+    "science/science-navier-stokes-agents-q7f": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On Tuesday morning, September 8, OpenAI mathematicians announced that 10,000 autonomous AI agents, working under their direction, had found a “singularity” in the three-dimensional Navier–Stokes equations—one of the six Millennium Prize Problems still unsolved since the Clay Mathematics Institute posed them in 2000, each carrying a $1 million prize. The proof was formally verified using the programming language Lean."
+        },
+        {
+          "t": "p",
+          "x": "If this result holds up under scrutiny, it would be the most significant mathematical proof an AI model has produced to date. The Navier–Stokes equations, written in the mid-19th century, use Newton's second law of motion to describe the movement of fluids, from ocean currents to air flows. One question had remained open: are solutions always well-behaved, or can a singularity arise where an infinitesimally small blob of fluid flows infinitely fast?"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI's announcement came 12 hours after Tristan Buckmaster of New York University announced, together with Anthropic's Levent Alpoge, that they had solved several closely related problems. Both teams leaned heavily on groundwork laid by Diego Córdoba of the Institute of Mathematical Sciences in Madrid and Luis Martínez-Zoroa of CUNEF University. Charles Fefferman of Princeton, who wrote the Clay Institute's official problem description, said he was “glad the problem was solved” and that the real protagonists of this story are Córdoba and Martínez-Zoroa."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/navier-stokes-light-master.webp",
+          "cap": "The solution OpenAI found is a vortex. The more yellow, the faster the rotation; the more blue, the slower."
+        },
+        {
+          "t": "p",
+          "x": "“Ten years ago, nobody believed Navier–Stokes had singularities,” Córdoba says. The mood shifted in 2013, when Thomas Hou of Caltech and Guo Luo, now at Hang Seng University of Hong Kong, showed that the Euler equations could “blow up” inside a cylinder. But the Millennium Problem version requires unbounded three-dimensional space stretching in every direction, and the forcing term pushing the fluid must also be smooth."
+        },
+        {
+          "t": "p",
+          "x": "In his 2021 doctoral thesis, Martínez-Zoroa pioneered analytical techniques that didn't rely on computers, and by 2023, working with his advisor Córdoba, he had proven singularities in Euler equations with messy forcing terms. Córdoba jokes, “I don't use AI. I have Luis.” Their technique is an “infinite cascade” that stacks singularity-free solutions layer by layer. Each individual layer uses a smooth forcing term, but the forcing term gaining unwanted properties once the layers were combined was the final wall—and that's exactly where the two AI teams got through."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI attached swarms of agents to a new, unreleased internal model to attack variant problems of Euler and Navier–Stokes. About 100 agents spent 50 hours disproving Euler regularity, while 10,000 agents spent 88 hours on Navier–Stokes. Formalizing the results took another 17 hours, and the agents exchanged nearly 5 million messages with each other. OpenAI's Sebastien Bubeck estimates the computing cost at several million dollars."
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster said word of his progress leaking to OpenAI pushed up his timeline, and wrote of one paper the two teams co-authored that it “can only be called AI slop. Sorry.” OpenAI has ceded priority on 3D Euler to Buckmaster and Alpoge while claiming Navier–Stokes as its own. “I'm really glad things worked out for Tristan,” Martínez-Zoroa said. “It would have been nice to have done it ourselves, but I'm still happy.”"
+        }
+      ]
+    },
+    "science/science-seabed-carbon-emulator-w9k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at the University of Manchester built a physics-based AI method and used it to accurately predict, for the first time at global scale, how dissolved organic carbon moves between seawater and ocean sediment—an essential link in Earth's carbon cycle that had never been captured numerically."
+        },
+        {
+          "t": "p",
+          "x": "The research, led by Dr. Peyman Babakhani and Dr. Majid Sedighi, showed that a relatively simple AI algorithm can stand in for environmental models whose computational demands are too great to run at planetary scale."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-based-ai-unloc.jpg",
+          "cap": "A conceptual model of organic carbon cycling in ocean sediment, implemented with a state-of-the-art reactive transport model. Credit: The Innovation (2026). DOI: 10.1016/j.xinn.2026.101354"
+        },
+        {
+          "t": "p",
+          "x": "The researchers trained an AI “emulator” to reproduce existing mechanistic models that describe carbon cycling in ocean sediment. Once trained, the emulator was applied globally at a resolution the original numerical models could never have attempted."
+        },
+        {
+          "t": "p",
+          "x": "The results show that 11% of particulate organic carbon reaching the seafloor becomes dissolved organic carbon and returns to seawater, while 24% is adsorbed onto minerals. About half of the solid-phase organic carbon in the top 1 meter (3.3 feet) of ocean sediment came from dissolved carbon adsorbed onto minerals. This is the first time this process has been quantified at global scale."
+        },
+        {
+          "t": "p",
+          "x": "There was also an unexpected result. The simplest algorithm turned out to be more accurate than complex deep-learning architectures or random forests. Checked against low-resolution global maps and algebraic solutions, prediction accuracy consistently fell as the neural networks were made more complex—confirming the principle of parsimony in AI development as well."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Babakhani said, “The modeling framework developed in this study could play a substantial role in validating ocean-based climate-change mitigation scenarios in silico.” Attached to global circulation models, the framework simulates how sediment carbon responds to environmental change at a scale that was previously impossible."
+        },
+        {
+          "t": "p",
+          "x": "The study was published in the journal The Innovation. DOI: 10.1016/j.xinn.2026.101354"
+        }
+      ]
+    },
+    "science/science-constitutive-laws-r4d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A research team at the Eastern Institute of Technology (EIT) in Ningbo, China, has introduced a graph-based method that pulls concise, accurate constitutive equations directly out of experimental data on solid materials. In a study published in Science Advances, the team recovered constitutive models for alloy steel, lithium metal and filled rubber. Predictive accuracy surpasses mainstream empirical formulas, while the equations keep a form that reads as physically meaningful."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-discovers-interpret.jpg",
+          "cap": "Structure of the graph-based equation discovery (GraphED) framework for finding constitutive equations. Credit: arXiv (2025). DOI: 10.48550/arxiv.2511.09906"
+        },
+        {
+          "t": "p",
+          "x": "Solid mechanics has long carried a limitation. Describing the complex behavior of metals and nonmetals has required leaning on predetermined empirical formulas. “Constitutive models are the foundation of solid mechanics. Researchers have set the form of the equations through physical intuition, then fit the coefficients to experimental data,” said Hao Xu, the paper's first author and a postdoctoral researcher at EIT."
+        },
+        {
+          "t": "p",
+          "x": "“This approach has indeed produced major results in mechanics research. But fixing the equation's structure in advance limits, from the start, the range a model can describe and predict. Our framework starts purely from experimental data, and lets AI search on its own for the optimal constitutive equation.”"
+        },
+        {
+          "t": "p",
+          "x": "“The core challenge was encoding both the equation structure and material-specific parameters at once, in a form an algorithm could search,” noted Yuntian Chen, co-corresponding author and associate professor at EIT. “Representing the equation as a graph lets us optimize topology and material parameters simultaneously, which breaks that bottleneck.”"
+        },
+        {
+          "t": "p",
+          "x": "At the center of this framework, named GraphED, is a strategy for writing equations as graphs. Instead of the tree structures commonly used for mathematical expressions, it encodes physical equations as directed graphs. Nodes correspond to operators and physical variables, and directed edges define the logical and computational connections between them. Edges also carry fixed physical constants and tunable parameters that vary by material."
+        },
+        {
+          "t": "p",
+          "x": "Written this way, the method finds a universal mathematical structure that holds across different materials and conditions, while fitting each material's coefficients separately. Through repeated generation, evaluation and refinement of candidate equations, it produces constitutive laws that are physically consistent, short and readable by people."
+        },
+        {
+          "t": "p",
+          "x": "The research team confirmed GraphED's versatility across several solids with very different properties. For alloy steel, it found explicit equations governing strain-rate dependence and strain-hardening behavior. Plugging these equations into a full constitutive model produced more precise predictions than the widely used Johnson–Cook model."
+        },
+        {
+          "t": "p",
+          "x": "Next was lithium metal. As a key material in energy devices whose behavior swings sharply with temperature and strain rate, it had been difficult to handle with existing methods. The concise plastic-flow constitutive equation GraphED produced tracked experimental values more closely than conventional empirical formulas."
+        },
+        {
+          "t": "p",
+          "x": "Applying the same framework to filled rubber yielded a short hyperelastic constitutive equation whose accuracy held steady even as composition and temperature varied."
+        },
+        {
+          "t": "p",
+          "x": "“Many complex material behaviors aren't well explained by existing empirical formulas,” said Dongxiao Zhang, the paper's corresponding author and a chair professor at EIT. “Discovering equations with graph-based AI is a new path that helps researchers build rigorous mathematical descriptions when traditional model forms fall short.”"
+        },
+        {
+          "t": "p",
+          "x": "The usefulness isn't limited to computational mechanics and materials modeling. It has room to move into any field that seeks to extract interpretable physical laws from experimental and observational data. Paper details: Science Advances (2026), DOI: 10.1126/sciadv.aec0989."
+        }
+      ]
+    },
+    "science/science-ekg-queen-hearts-m3v": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI algorithms meant to catch heart disease early have been pouring out. Reading an EKG, the common 10-second test of the heart's electrical activity, AI has already been cleared to screen for common arrhythmias and structural heart disease. Algorithms meant to flag patients at highest risk of acute cardiac arrest are also in development."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_910347045-645x645.jpeg",
+          "cap": "An EKG reading screen. Credit: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "Most of these focus on early diagnosis and prevention. But there's room for AI to help patients at the very moment a heart attack is unfolding, too."
+        },
+        {
+          "t": "p",
+          "x": "Last week, the U.S. Food and Drug Administration (FDA) granted a rarely used de novo classification to a model built by Powerful Medical. The model is meant to quickly route patients complaining of chest pain to the right treatment."
+        },
+        {
+          "t": "p",
+          "x": "Calling de novo rare isn't an exaggeration. Nearly all AI medical devices reach the market through the FDA's 510(k) pathway, and fewer than 10 de novo classifications are granted in a given year, since they require that much more clinical evidence be built up."
+        },
+        {
+          "t": "p",
+          "x": "The most dangerous heart attacks happen when a coronary artery, which supplies blood to the heart, becomes completely blocked. These patients need to be moved to the cath lab as fast as possible so the blocked vessel can be opened and oxygen restored to the heart."
+        },
+        {
+          "t": "p",
+          "x": "On an EKG, doctors spot this type of heart attack by looking for the telltale “ST-segment elevation.” The problem is cases where a vessel is blocked but that signal doesn't show up. Powerful Medical's “Queen of Hearts” targets exactly the gap that standard reading criteria miss."
+        },
+        {
+          "t": "p",
+          "x": "The article was written by STAT News's Katie Palmer on September 11, 2026. The rest of the text is available only to STAT+ subscribers."
+        }
+      ]
+    },
+    "science/science-ignisqnc-quantum-w9t": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lancaster University is leading a three-year project called IgnisQNC that digs into Quantum Neural Computing. The goal is to find a new approach that links quantum computing and AI."
+        },
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-08_16-22.png",
+          "cap": "IgnisQNC, the European consortium led by Lancaster University. Credit: The Quantum Insider"
+        },
+        {
+          "t": "p",
+          "x": "Quantum AI is a field that combines emerging quantum computing technology with artificial intelligence to find new ways of solving complex problems. Unlike today's mainstream AI, such as large language models (LLMs), which lean on classical computing and large-scale data processing, quantum AI asks whether the intrinsic properties of quantum systems can open up new forms of learning and decision-making."
+        },
+        {
+          "t": "p",
+          "x": "Quantum Neural Computing (QNC), which IgnisQNC (Igniting Quantum Neural Computing) aims to develop, is a new computational paradigm that tries to flip quantum uncertainty from an obstacle into a computational advantage. The researchers are examining how far emerging quantum technology can push the efficiency, robustness and interpretability of AI systems."
+        },
+        {
+          "t": "p",
+          "x": "“One of the hard problems in quantum computing is uncertainty. Quantum systems are inherently probabilistic, which makes computation difficult to control and interpret,” said Dr. Richard Jiang, project coordinator and senior lecturer at Lancaster University. “IgnisQNC aims to turn this challenge into an advantage. Instead of trying to eliminate quantum uncertainty, we're designing AI methods that learn from it and make use of it.”"
+        },
+        {
+          "t": "p",
+          "x": "The idea is to combine advances in quantum computing, artificial intelligence, machine learning and explainable AI to build intelligent systems that aren't just high-performing but also transparent and trustworthy."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Jiang added: “IgnisQNC is about building trustworthy quantum AI. Rather than treating uncertainty as a limitation, we aim to turn it into an advantage for learning and decision-making. Our goal is quantum-based AI systems that are more capable while also able to explain their own reasoning. It's an important step toward responsible, trustworthy artificial intelligence.”"
+        },
+        {
+          "t": "p",
+          "x": "The consortium led by Lancaster University brings together academia and industry. It includes Ludwig Maximilian University of Munich (LMU) in Germany, the German company Aqarios GmbH, TU Bergakademie Freiberg in Germany, and Pablo de Olavide University (UPO) in Spain. Funding comes from QuantERA, a transnational research funding network supported by the European Commission."
+        },
+        {
+          "t": "p",
+          "x": "The consortium's total scope is 1.88 million euros, of which about 475,000 euros has been allocated to Lancaster University, cementing Lancaster's position in Europe's next generation of trustworthy, explainable quantum AI research."
+        },
+        {
+          "t": "p",
+          "x": "Within Lancaster University, IgnisQNC is an interdisciplinary effort jointly run by the Quantum Technology Centre, the School of Computing and Communications, and the School of Physics and Astronomy. It's co-led and supervised by Dr. Richard Jiang and Professor Yuri Pashkin."
+        },
+        {
+          "t": "p",
+          "x": "Professor Pashkin said the project “demonstrates the value of collaboration across quantum science, computing and artificial intelligence,” adding that it's “an opportunity to strengthen Lancaster's standing in quantum technology while refining foundational methods for future intelligent systems.”"
+        },
+        {
+          "t": "p",
+          "x": "The consortium plans to validate its methods on emerging quantum computing platforms and expand applications into intelligent sensing, biometrics, medical technology and complex data modeling. In the long run, this leads toward intelligent systems that help with scientific discovery and decision-making in complex environments. The three-year project begins in September 2026."
+        }
+      ]
+    },
+    "science/science-disaster-forecast-p3w": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ultra-fast-climate-and.jpg",
+          "cap": "Ultra-fast climate and weather forecasting could open a path to warning of disasters like Nepal's devastating floods ahead of time."
+        },
+        {
+          "t": "p",
+          "x": "A revolution is underway in disaster forecasting, Swiss researchers say. They are training AI models on NASA's vast climate data to pull out life-saving information at lightning speed."
+        },
+        {
+          "t": "p",
+          "x": "They are feeding the NASA data archive into one of the world's most powerful supercomputers. The idea is to make weather and climate forecasting faster and broader, and to find patterns scientists couldn't see before."
+        },
+        {
+          "t": "p",
+          "x": "AI models are increasingly used for weather and climate forecasting and the early detection of natural disasters. It's not just about speed. There's also the possibility of catching previously invisible patterns in satellite data, giving advance warning of disasters like the flooding in Nepal last month that killed or left missing thousands of people."
+        },
+        {
+          "t": "p",
+          "x": "But training such models requires enormous amounts of high-quality climate and Earth observation data, along with substantial computing resources. Researchers at ETH Zurich say they have both. They have copied roughly 100 petabytes of public NASA data onto servers right next to a supercomputer called Alps."
+        },
+        {
+          "t": "p",
+          "x": "Thomas Schulthess, a computational physics professor at ETH and head of the Swiss National Supercomputing Centre (CSCS) in the southern city of Lugano, called it “an enormous scientific opportunity.” He told AFP he's excited to have all of NASA's climate data plugged directly into the machine. “It allows scientists to do things they couldn't even imagine before.”"
+        },
+        {
+          "t": "p",
+          "x": "It took about a year to move roughly 6 billion NASA files onto servers connected to the supercomputer, said Reto Knutti, a climate physics professor who heads ETH's Center for Climate Systems Modeling (C2SM). That's about the equivalent of 20 million feature films, or roughly a million times the storage capacity of an ordinary computer."
+        },
+        {
+          "t": "p",
+          "x": "“The data is basically everything,” Knutti added. “The next step is finding meaning in that data.”"
+        },
+        {
+          "t": "p",
+          "x": "Being right next to Alps's computing power is what makes the difference, Schulthess said. “What matters is whether you can move the data in seconds, or whether you have to wait days.”"
+        },
+        {
+          "t": "p",
+          "x": "The new statistical models built by AI are far faster than the old approach of reproducing the ocean's and atmosphere's complex processes through equations. Knutti called it “a revolution in weather forecasting,” saying it's “really, really powerful” and “incredibly fast.”"
+        },
+        {
+          "t": "p",
+          "x": "Where producing a single forecast used to take hours, the statistical models that rely on pattern recognition run “several days' worth of global weather forecasts, for the entire planet, in just over a minute.” Training is expensive, but running them is cheap, so you can “repeatedly check every few minutes whether a certain weather pattern is present.” “That's what makes life-saving early warning systems possible.”"
+        },
+        {
+          "t": "p",
+          "x": "Not every disaster can be foreseen. But events tied to geology, like landslides or glacier collapses, often show up early in the data as long as there's the capacity to read the patterns. Knutti pointed to Blatten, the Swiss village destroyed by a glacier collapse last May. “It was visible in satellite data more than a year before it actually happened.” Swiss authorities evacuated the village a week before the collapse, preventing loss of life."
+        },
+        {
+          "t": "p",
+          "x": "The glacier collapse at the Nepal-China border on August 26 could also have triggered a warning if it had been watched more closely. Nature reported last week that an analysis of satellite imagery showed warning signs before the disaster, and that noticing them could have flagged the area as a “hotspot to monitor more closely.” Knutti agreed it's a good example of “a systematic observation system for disaster prevention that could save hundreds, even thousands of lives.”"
+        }
+      ]
+    },
+    "science/science-jwst-exomoon-z7c": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/Super-Earth_LP_890-9_c_artists_rendering_20260910_144220.jpg",
+          "cap": "An artist's rendering of LP 890-9 c, the planet at the center of the study. Credit - NASA / JPL-Caltech"
+        },
+        {
+          "t": "p",
+          "x": "Since beginning science observations, JWST has opened up countless scenes across the universe. But there's one thing it still hasn't managed: finding an “exomoon.” These moons orbiting planets in other star systems remain purely theoretical, and although JWST was expected to find them by the dozen, the count so far stands at exactly zero. The usual culprits blamed are noise from the telescope's own instruments, or noise coming from the star itself."
+        },
+        {
+          "t": "p",
+          "x": "A preprint posted to arXiv by David Kipping, a Columbia University astronomer who runs the YouTube channel Cool Worlds, argues that JWST can find exomoons. The trick is looking at the same spot multiple times."
+        },
+        {
+          "t": "p",
+          "x": "To demonstrate this, Kipping dug into data JWST had already collected on a planet called LP 890-9 c, which orbits an ultracool red dwarf star about 105 light-years away on an 8.46-day period. It sits closer to its star than “close” really conveys, but because the star is so cold, the planet theoretically falls within the habitable zone. Frequent, long observations were also an advantage, letting him analyze twelve transits."
+        },
+        {
+          "t": "p",
+          "x": "Previous attempts relied on just a single transit. JWST once watched the gas giant Kepler-167 e looking for a small moon, but “red noise” confused the models used to interpret the data, making it impossible to catch a moon much smaller than Earth. Red noise comes from slow drifting changes, like a detector warming up, tiny wobbles in pointing, and starspots on the stellar surface."
+        },
+        {
+          "t": "video",
+          "yt": "umiMtQU3bMU"
+        },
+        {
+          "t": "p",
+          "x": "The key, Kipping says, is averaging. An exomoon obeys the laws of physics too, so it has to be in a specific place at a specific time — it won't suddenly show up wherever an instrument glitch happens to be. Instrument flaws and starspots, by contrast, don't repeat identically from transit to transit. Stack enough observations, and those things cancel each other out, leaving clean starlight behind. In fact, one of LP 890-9 c's twelve transits showed clear red noise, but adding even one more clean transit sharply improved the sensitivity for detecting a moon."
+        },
+        {
+          "t": "p",
+          "x": "Still, this result came up empty. The team confirmed, with 95% confidence, that there's no moon larger than 0.1 Earth radii around LP 890-9 c — no Io, no Europa, not even one the size of Enceladus. Even so, it was the most sensitive moon search ever conducted outside our solar system."
+        },
+        {
+          "t": "p",
+          "x": "Interestingly, even Kipping himself didn't expect success. LP 890-9 c orbits just 0.04 AU from its star — less than a tenth of the distance between the Sun and Mercury. Tidal forces from the star are so brutal that over billions of years, a moon would be torn away and flung into space, or dragged inward and turned into a ring."
+        },
+        {
+          "t": "p",
+          "x": "So why this planet, of all planets? Because the paper's goal wasn't to actually catch the first exomoon, but to prove the concept. Contrary to what many astronomers had assumed in recent years, JWST has no “noise floor” that blocks the detection of small moons. Observe enough transits, and it's perfectly capable of finding a moon the size of our own."
+        },
+        {
+          "t": "p",
+          "x": "The catch is that it's not as easy as it sounds. JWST observing time is the most expensive resource in astronomy, and it's stretched across everything from peering into the universe's first eras to tracking far closer moons. Even so, finding the first exomoon with the instrument we already have looks doable. All it takes is more time."
+        }
+      ]
+    },
+    "science/science-llm-confidence-m2r": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "When people aren't confident in their own thinking, they change their decisions or stop acting. Does AI do the same? A new paper from Google DeepMind researchers in London, published in Nature Machine Intelligence, offers an answer. AI behavior turns out to be shaped by its own confidence, and the researchers read this as a sign of metacognitive ability."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pic105151.jpg?itok=uaaK1rII"
+        },
+        {
+          "t": "p",
+          "x": "Understanding how AI agents “think,” make decisions, and regulate themselves has never mattered more. Companies are rushing to build LLM-powered agents into their business models. According to Statista, businesses had deployed 28.6 million active AI agents in 2025, a number expected to surpass 2.2 billion worldwide by 2030."
+        },
+        {
+          "t": "p",
+          "x": "Corresponding author Dharshan Kumaran, together with co-authors Nathaniel Daw, Simon Osindero, Petar Veličković, and Viorica Patraucean, wrote: “While there is a large body of work on whether large language models (LLMs) can produce confidence estimates that match actual probabilities, little work has examined whether LLMs themselves use an internal sense of confidence to guide their own decisions — the hallmark of metacognition.”"
+        },
+        {
+          "t": "p",
+          "x": "The term metacognition took hold in the 1970s. American developmental psychologist and Stanford professor James H. Flavell (1928–2025) coined it in 1979 as “knowledge and cognition about cognitive phenomena,” and it's since commonly been described as “thinking about thinking.”"
+        },
+        {
+          "t": "p",
+          "x": "Metacognitive control, which regulates behavior using confidence signals, has been widely documented in humans and animals but barely characterized in artificial systems, the DeepMind researchers wrote. So they designed a two-stage framework modeled on biological metacognition. “Our two-stage framework draws on research showing that metacognitive decisions in humans and animals proceed through separable stages of confidence formation and threshold-based action selection.”"
+        },
+        {
+          "t": "p",
+          "x": "In stage one, the LLM produces an answer along with confidence signals attached to that answer, forming a confidence representation. In stage two, a threshold-based policy translates that confidence into a decision to answer or withhold."
+        },
+        {
+          "t": "p",
+          "x": "The experiments ran across four stages with multiple LLMs, centered on GPT-4o. In the first stage, models were made to choose among four options only, with no option to withhold. This result was used to model behavior for stages two and four. In stages two and three, the same problems were given a withhold option, and models were instructed to withhold unless the correct answer was obvious. In the final, fourth stage, models chose an answer, rated their own confidence in it, and only produced the answer if that confidence crossed a threshold."
+        },
+        {
+          "t": "p",
+          "x": "DeepMind concludes that LLMs actively use confidence-related signals to drive their withholding policy. The researchers also cautioned against relying on surface-level confidence signals alone. Because the data can be “messy” or sparse, they recommend understanding multiple dimensions of confidence representation together."
+        },
+        {
+          "t": "p",
+          "x": "The researchers close with this: “These findings also carry practical implications. LLMs possess error-detection capabilities that draw on information not captured by output distributions alone, which could be used to build more reliable self-monitoring mechanisms into autonomous systems.”"
+        }
+      ]
+    },
+    "science/science-odin-multi-v9t": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A useful protein binder is defined as much by what it doesn't bind as by what it does. Odin-Multi, a preprint from researchers at the Technical University of Denmark, starts from that premise."
+        },
+        {
+          "t": "p",
+          "x": "Some applications need a binder that covers several similar targets at once; others need one that picks out just a single member among nearly identical relatives. But widely used deep learning-based de novo design methods typically optimize one interaction at a time, leaving cross-reactivity and specificity to emerge, if they do, during a later screening stage."
+        },
+        {
+          "t": "p",
+          "x": "Odin-Multi instead optimizes a single shared binder sequence against multiple complexes at once, setting an attraction goal for the targets and a repulsion goal for the off-targets."
+        },
+        {
+          "t": "p",
+          "x": "Validation ran in silico across three distinct families: class B1 GPCRs, testing cross-reactivity across multiple receptors used as therapeutic targets; short-chain three-finger toxins, testing cross-reactivity among toxins from the same family; and peptide-MHC (pMHC) complexes, which require distinguishing between nearly identical surfaces."
+        },
+        {
+          "t": "p",
+          "x": "For related class B1 GPCR pairs, 83.5–96.8% of jointly optimized designs cleared the interaction confidence threshold for both targets, compared with just 6.8–36.3% for designs targeting only one. For two short-chain three-finger neurotoxins, the figures were 9.2% versus 0.8%."
+        },
+        {
+          "t": "p",
+          "x": "In the pMHC test, where the target and off-target differ by only a single peptide residue, adding negative selection raised the proportion of designs satisfying both the target confidence requirement and a target-to-off-target interaction confidence ratio of 2.5 from 6.0% to 14.2%."
+        },
+        {
+          "t": "p",
+          "x": "Experimental screening also produced candidates consistent with both design approaches. The cross-reactive toxin minibinder bound at nanomolar levels to the neurotoxin Erabutoxin A and to a candidate NK-shNTx fraction obtained from Naja kaouthia venom, with high-affinity components at 11.95 nM and 34.43 nM, respectively. The pMHC minibinder discriminated between target and off-target better than previously reported designs."
+        },
+        {
+          "t": "p",
+          "x": "Moving cross-reactivity and specificity upstream, from a screening outcome to a design objective, widens the range of binding behaviors that computational design can produce, the researchers conclude."
+        }
+      ]
     }
   }
 }

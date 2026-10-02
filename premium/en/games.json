@@ -5751,6 +5751,56 @@
           "x": "Still, going so far as to make an entire game with AI and release it is rare. It's hard to find a reason to pick Juggernaut over the games it so obviously copies. For now, it can only be added to a wishlist, and there's no release date yet."
         }
       ]
+    },
+    "games/games-unity-claude-plugin-k7m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Unity has released an official plugin for Claude Code. It is first-party. Unity engineering skills, the Unity CLI, and a Unity MCP server that controls the editor live all install at once."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/27fbaaaad054e76728f21d5349c429349a817927-1920x1080.png",
+          "cap": "The official Unity plugin listed in the Claude Code plugin directory"
+        },
+        {
+          "t": "p",
+          "x": "The post was written by Rachel Zhao, Unity's head of AI product. This year, the way developers reach the Unity engine has changed faster than most expected. Instead of opening a browser and finding a download page, more people now start by describing the game they want to make to a coding agent. But agents tend to pick the engine they can install, run, and share within the same session."
+        },
+        {
+          "t": "p",
+          "x": "The Unity CLI, unveiled at Unite Seoul, was the first step, meant to point the coding agents developers already use toward the Unity engine. This plugin extends that effort. It installs both in the terminal and in Claude Code inside the Claude Desktop app, and it is listed among Claude's partner plugins. Claude Code is the first target, with other coding agents to follow within the year."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/c8717365349d0766bba55b0194ea964e9d87a696-1871x1058.png",
+          "cap": "The Unity and Claude logos side by side on a black background"
+        },
+        {
+          "t": "p",
+          "x": "Zhao compared a general-purpose agent simply attached to a Unity project to a contractor: experienced and fast, but one who has never seen your codebase, so everything they produce that day is an educated guess. They'll make a sprite atlas that works but not the way your team does it, and they'll reach for the UI framework they know instead of the one your team has standardized on."
+        },
+        {
+          "t": "p",
+          "x": "The plugin closes that gap. It teaches the agent where a Unity project keeps its assets, how an atlas should be built, and what a URP renderer feature must satisfy at minimum to run. Right now, 29 skills install with a single command — no config files, no per-project setup, nothing to copy when moving to a new machine. All of it is work Unity developers already do in a normal week; what changes is that the agent arrives with Unity's own answers instead of piecing one together from third-party material."
+        },
+        {
+          "t": "p",
+          "x": "The skill set spans new project creation and the CLI, branching across UI Toolkit, uGUI, and IMGUI, TextMeshPro optimization, pixel-perfect 2D and sprite atlases, AI navigation and 3D collision diagnostics, in-app purchases and live services, multiplayer, and WebGL optimization and localization."
+        },
+        {
+          "t": "p",
+          "x": "Community-made plugins already exist and are widely used. Unity stepped in itself because the teams that own each feature write the skills, the skills go through security review, and the documentation keeps pace with engine changes. The company says this produces fewer errors, uses fewer tokens, and finishes in fewer turns than handing an unfamiliar task over without skills."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.bfldr.com/S5BC9Y64/at/x695sv8bqq5mr3cqt7xccjcc/2026_Unity_PlugInClaude_VideoPromo_16-9_07.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Zhao suggested installing it today, opening a project, and finishing one tedious task — an atlas, a localization pass, an in-app purchase, that kind of thing."
+        }
+      ]
     }
   }
 }

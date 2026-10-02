@@ -5930,6 +5930,294 @@
           "x": "Over the past century, the problem voice interfaces solved was matching intent. Solving it opened the door to tutors that respond in real time, support calls that could pass for human, and meeting summaries reliable enough to act on. What remains is choice: whether to put a face on screen or stay voice-only, what personality to give it, whether it interrupts or listens quietly. Designing what an agent looks like matters as much as what it can do."
         }
       ]
+    },
+    "design/design-ae-265-assistant-q4m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe has released 26.5, the latest version of After Effects, its compositing software for motion graphics, post-production, and VFX. Rather than adding major new features, this update refines workflow and performance. The Object Matte tool now supports disk caching, and the workflow for using on-screen guides has improved."
+        },
+        {
+          "t": "p",
+          "x": "Alongside the official release, a beta build also shipped. It contains an entirely new feature: an agentic AI assistant that operates the program through natural-language commands. The beta also currently includes the ability to apply Substance materials to 3D text and shapes, and to use layers in a composition as material sources."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_ObjectMatte-960x480.jpg",
+          "cap": "After Effects 26.5: Object Matte now supports disk caching."
+        },
+        {
+          "t": "p",
+          "x": "26.5 itself doesn't add major features but improves the performance of existing ones. Object Matte, the AI-based automatic rotoscoping tool introduced in After Effects 26.2, now supports disk caching, so results persist even after you close the project. Mattes no longer need to be recalculated from scratch every session, and since propagated frames don't all have to be held in memory, freed-up RAM also improves responsiveness during the initial calculation."
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_Guides.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Guides also got attention. The Composition, Layer, and Footage panels now support percentage-based positioning. Guides can be pinned not just to the top and left but also to the bottom and right edges, and each guide can have its own color. The Effect Controls panel has been modernized, most notably with color labels for individual effect instances applied to a layer."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_Assistant-960x480.jpg",
+          "cap": "The agentic AI assistant included in the beta. It reports progress through a text log."
+        },
+        {
+          "t": "p",
+          "x": "Adobe also released a separate beta build containing the agentic AI assistant. Users type detailed instructions in natural language, the assistant carries them out, and it reports progress back the way a text log would, as shown in the image."
+        },
+        {
+          "t": "p",
+          "x": "For new users, this flattens the learning curve. You don't need to know where a tool lives in the interface, or even whether such a tool exists. The other pillar Adobe is pushing is automating tedious or technical work. One example given is the assistant reviewing a composition or footage handed off by a collaborator and returning an automatic summary. It also writes code: Adobe presents the feature as a way for artists without technical skills to write custom JavaScript expressions for motion graphics."
+        },
+        {
+          "t": "p",
+          "x": "With this, After Effects becomes the latest Adobe app to receive an AI assistant. The same feature rolled out in beta to Photoshop and Premiere Pro in June."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/09/260909_AfterEffects265_AIAssistantBeta_Materials-960x480.jpg",
+          "cap": "In the beta, Substance materials apply not just to 3D objects but also to text and shapes."
+        },
+        {
+          "t": "p",
+          "x": "The current beta build also adds a few 3D features. Substance material application, previously limited to generic 3D objects, now extends to text and shapes. In the Advanced 3D renderer, layers can serve as material sources, pulling textures from an entire video layer or precomp."
+        },
+        {
+          "t": "p",
+          "x": "After Effects 26.5 is subscription-only, running on Windows 11 and macOS 14.0 or later. The single-app subscription costs $34.49 a month or $263.88 a year. Online documentation also refers to this update as the September 2026 release."
+        }
+      ]
+    },
+    "design/design-figma-make-kit-k7p": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "cUXna9ZAfSI"
+        },
+        {
+          "t": "p",
+          "x": "Figma Make is a place to quickly prototype ideas and even build out applications or other tools. Bring your team's design system into it, and the screens AI generates stay on-brand and get built from the components you actually use. Figma design advocate Anthony DiSpezio walks through the process."
+        },
+        {
+          "t": "p",
+          "x": "There are two ways to bring it in: importing a codebase, or pulling in a Figma design library to pass along styles, layout, and variables. The video covers the codebase route."
+        },
+        {
+          "t": "p",
+          "x": "Open a new Make file and click the settings gear in the corner to find “create a kit.” Choose NPM package over library styles. Figma Make reads a package your organization has published to a public registry or to Figma's internal private registry—essentially a bundle of code packaged up for reusing components and styles—and uses it in the prototype. Once installation finishes, you move to the custom configuration step."
+        },
+        {
+          "t": "p",
+          "x": "Next come the guidelines—think of them as the instruction manual for the components and styles that came in with the package. There are four tips. First, explain the setup, writing it as if you were walking a stranger through the demo setup, assuming the agent knows nothing about the code or the system. Also split things into categories: too much context makes AI lose its way, so divide the areas so it only picks up the guidelines it needs for a given task. Include real examples, and flag common mistakes."
+        },
+        {
+          "t": "p",
+          "x": "You can write the guidelines yourself or leave it to Make. If you don't have anything yet, auto-generation is recommended. Click generate, and a file gets built based on the definitions already built in."
+        },
+        {
+          "t": "p",
+          "x": "The result is several files. setup.md holds the basic procedure for installing the kit. components.md is both an overview of the components in the kit and a signpost to the detailed guidelines for each one. Style and token guidelines come attached separately."
+        },
+        {
+          "t": "p",
+          "x": "Test before publishing. Enter something like “build a basic login screen” and run it, and you get a login screen built with colors, typography, and components from the NPM package—not the components built into Make by default."
+        },
+        {
+          "t": "p",
+          "x": "Deploy the kit using “publish kit” in the top right. Set a name and thumbnail, and give it a scope and version that mark where it sits in the registry. On the user side, people add the kit by clicking “select a make kit” in a new Make file, then fire off their first prompt right away."
+        },
+        {
+          "t": "p",
+          "x": "If something needs fixing, go back to the original kit file. Change a component or refine the guidelines, click “publish kit,” and an “update” button appears. After that, anyone using the kit in a new file gets the latest version, and files still on the old version are notified of the change."
+        },
+        {
+          "t": "p",
+          "x": "Take it a step further and you get templates. These come with the kit built in plus a base layout, so you're not starting generation from a blank screen every time. Teams use templates to spread good output without breaking brand and product guidelines."
+        },
+        {
+          "t": "p",
+          "x": "Templates have four tips of their own. Lock down what shouldn't change first. Pull logos, names, and layout rules out as hardcoded constants so the model can't invent them or drag in stale assets. Instead of open-ended instructions, give a copy-paste-ready prompt up front to narrow the editing scope. Break complex features into modules. Finally, account for the model's pretraining biases by testing how it reads the UI and catching hallucinations."
+        }
+      ]
+    },
+    "design/design-infinitform-x8d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Engineering Paper, which covers design and simulation software, is taking another look at an old technology this time. Even before the generative AI explosion, there was a technology that promised engineers productivity gains: generative design."
+        },
+        {
+          "t": "p",
+          "x": "These days, AI-based generative design gets all the attention, but the original is alive and well. Big vendors just aren't putting marketing muscle behind it—startups have picked up the torch instead. The author met with Michael Bogomolny, founder and CEO of InfinitForm, one of those startups, to ask what this technology does that AI can't."
+        },
+        {
+          "t": "p",
+          "x": "In a 2018 report, Engineering.com described generative design as a category of technology that lets \"computation assist the design process in ways that are difficult or impossible for a human designer.\" Back then, the term mainly referred to topology optimization, a 1990s technique that carves a shape into its most efficient form while respecting structural requirements."
+        },
+        {
+          "t": "p",
+          "x": "The decisive difference is determinism. The same input with the same constraints produces the same result. AI, which pours out endless variations from the same prompt, can't do that."
+        },
+        {
+          "t": "p",
+          "x": "So why doesn't everyone optimize topology? The resulting shapes are hard to make. The forms an algorithm produces are gnarled and lumpy, as if they grew like bone. \"It's effectively unmanufacturable. You can try to machine it. It's very hard and very expensive. You can't mass-produce it.\" So additive manufacturing was often the only path."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/09/img_InfinitForm_example.png",
+          "cap": "InfinitForm optimizes an input shape for both performance and manufacturability. In this case, it's CNC machining. (Image: InfinitForm)"
+        },
+        {
+          "t": "p",
+          "x": "That's why Bogomolny founded InfinitForm in late 2023. When a user picks a manufacturing method from options like CNC machining, die casting, or extrusion, the cloud-based platform only produces shapes that can actually be made that way."
+        },
+        {
+          "t": "p",
+          "x": "Existing software like Autodesk Fusion also lets you specify manufacturing constraints. Bogomolny dismisses this. \"You put a button in the GUI. What does it actually do? What's the output?\""
+        },
+        {
+          "t": "p",
+          "x": "While putting manufacturability first, it preserved determinism, topology optimization's biggest strength. \"Engineers want to run the same design problem X times and get exactly the same solution.\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/09/img_infinitform_ai_copilot-1024x838.png",
+          "cap": "A screen showing the InfinitForm AI copilot at work. (Image: InfinitForm)"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI can't make that promise, but it's useful elsewhere. An AI copilot helps set up design studies and write reports. \"You upload procurement documents, simulation documents, manufacturer specs, and the copilot understands all of it and helps set up the requirements. But once the parameters are set, the engine gives you exactly the same solution every time.\""
+        },
+        {
+          "t": "p",
+          "x": "On simulation too, InfinitForm sided with tradition. It verifies solutions with its own in-house FEA solver, which Bogomolny claims holds up against industry-standard solvers like Ansys, Nastran, and Abaqus. \"We built all the solvers ourselves and push the GPU as hard as possible. So it's very fast.\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/09/img_infinitform_nx.png",
+          "cap": "An InfinitForm design brought back natively in Siemens NX. Note the feature tree on the left. (Image: InfinitForm)"
+        },
+        {
+          "t": "p",
+          "x": "The output is a mesh or parametric model that carries over to whatever CAD, CAM, or CAE you already use. There are plugins for Solidworks, Catia, NX, and Fusion, with Onshape and Creo in the works. It comes back as a native shape, feature tree included."
+        },
+        {
+          "t": "p",
+          "x": "InfinitForm calls itself a \"physical AI platform.\" In reality, it's a step forward from the generative design tools that were trendy until recently, one that treats AI as an assistant rather than a cure-all."
+        }
+      ]
+    },
+    "design/design-slack-surfaces-r2v": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&w=1200",
+          "cap": "Just describe it, and Slackbot builds the tool for you. (Image: Slack)"
+        },
+        {
+          "t": "p",
+          "x": "A new feature coming to Slack lets you build tools like interactive reports, polls, dashboards, presentations, and microsites right inside the conversation. Describe what you need to Slackforce Surfaces in words, and Slackbot pulls information from the relevant conversation and connected apps like Google Drive or Salesforce to generate it with AI."
+        },
+        {
+          "t": "p",
+          "x": "Once Slackbot builds a Surface, you share it with colleagues and pin it to the channel. Others open it, interact with it, and leave comments."
+        },
+        {
+          "t": "p",
+          "x": "In an example Slack released, a user asks for AI token usage to be visualized with an arcade feel. The assistant builds an interactive dashboard showing token usage by department, such as sales, design, and engineering."
+        },
+        {
+          "t": "p",
+          "x": "“You're not exporting data to another tool to interpret it. You're asking Slackbot, right where the conversation is already happening, to build a dashboard, a deck, or a report. And the whole team moves on it right there.” That's what Slack's chief marketing officer, Ryan Gavin, told The Verge by email."
+        },
+        {
+          "t": "p",
+          "x": "This update comes just months after Slack overhauled Slackbot into something closer to an AI assistant. That update added the ability to summarize information across channels, filter messages, and schedule meetings. Last month, a collaborative vibe-coding channel also appeared."
+        },
+        {
+          "t": "p",
+          "x": "There seem to be plenty of other uses beyond this. You could put up a customer-support queue as a live dashboard for other colleagues to monitor, or pull data from connected apps to build a financial forecast that looks like a weather report. Slack said it only pulls information the AI tool has been granted access to."
+        },
+        {
+          "t": "p",
+          "x": "Slackforce Surfaces is available to any customer with Slackbot turned on in their workspace, including those on the free tier. Using it with live data starts in October."
+        }
+      ]
+    },
+    "design/design-agent-retry-x2n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At Friday's critique, the retry button looked unremarkable. Overnight, the agent had rewritten the onboarding consent copy, and the first run had missed the recovery path. Yet the agent wants to run it one more time. With the gap still wide open, who is the one to click approve?"
+        },
+        {
+          "t": "p",
+          "x": "As the designer responsible for the review, the author says that click is theirs to make. A retry can overwrite a human's corrected copy, and the moment it enters the queue, the room to reverse it dies. So the author refuses the retry until a halt rationale lands on the card. This isn't about whether to trust the model — it's a process you can run today."
+        },
+        {
+          "t": "p",
+          "x": "The starting point isn't a playground but a dated research folder. Under research/retry-2026-09-13, make only three files: decision-card.yaml, flow.md, and recovery.md. The human decision goes on the card, the moment of choice goes in one note, and assistive-technology failure recovery goes in another. Mix the three, and missing evidence hides inside the chat."
+        },
+        {
+          "t": "p",
+          "x": "The card is written in plain YAML. A designer should be able to read it without a decoder, and an engineer should be able to lint it without a new app. The fields are owner, surface, reversible_until, and user_consequence. Evidence and hypothesis are written under separate keys. What was observed on screen is not the same as a story about why it happened, and a fluent model can launder a guess as fact. retry_allowed is never left at a default of true. A blank field doesn't mean fill it in later — it means halt."
+        },
+        {
+          "t": "p",
+          "x": "Halt conditions are written as on-screen states so they actually trigger — things like 「the consent copy changed with no decline option」 or 「the last human edit would be overwritten」. The recovery gate checks only three things: was the change announced, does the decline control have an accessible name, and does focus return to the corrected field. If even one is missing, retry_allowed stays false."
+        },
+        {
+          "t": "p",
+          "x": "A second reader is needed, but not a second actor. A cheap critique lane is kept from writing the card or flipping retry_allowed. The author discloses that this piece was written as part of MonkeyCode product promotion, and here MonkeyCode serves only as that disposable critique lane. Finally, a small Python validator lints the card and returns only READY or BLOCK. The BLOCK list is the missing evidence itself, not the next sprint's backlog."
+        },
+        {
+          "t": "p",
+          "x": "Approval isn't the only honest outcome. A rejection is also a product event with an owner, so the rejection record and the discarded prompt stay in the same folder — because the next loop will try the same line again. The limits are also pinned down: this is only a gate built into the interface, not a model-evaluation tool or controlled research. The author says not to use it on medical or legal screens, and not to use it when there's no designer to own the click."
+        }
+      ]
+    },
+    "design/design-morpholio-trace-b7k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Morpholio, a Vectorworks affiliate, has launched Trace for Business, an enterprise subscription option. It lets customers buy and manage licenses for Morpholio Trace in one place through the Vectorworks customer portal. After acquiring Morpholio, Vectorworks has extended the purchasing, licensing, and management tools it uses for its own software to this iPad sketching app."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/09/Morpholio-launches-Trace-for-Business-for-enterprise-users-scaled.jpg",
+          "cap": "Morpholio Trace for Business"
+        },
+        {
+          "t": "p",
+          "x": "Until now, a Trace subscription could only be bought through the Apple App Store. It's an app architects and industrial designers use to draw, mark up, and develop designs. The App Store subscription remains as is, both for existing customers and for new users who prefer that method."
+        },
+        {
+          "t": "p",
+          "x": "Trace for Business adds another option on top of that. It brings invoice-based billing, central license management, and enterprise deployment through the customer portal. Existing Trace B2B customers keep the licenses they currently use and continue receiving Trace Pro updates."
+        },
+        {
+          "t": "p",
+          "x": "Purchasing goes through an invoice procurement process on the customer portal. Administrators assign licenses to individual users and manage access through Vectorworks accounts, making it easy to adjust assignments as headcount grows or shrinks."
+        },
+        {
+          "t": "p",
+          "x": "It also supports Vectorworks single sign-on (SSO). Assigned users log into Trace with the Vectorworks account their organization already uses. Existing Trace users can move their projects, stencils, and custom color palettes over to a new Vectorworks account."
+        },
+        {
+          "t": "p",
+          "x": "On the IT side, it supports mobile device management (MDM). It controls app access and adjusts settings to organizational needs, with items related to saving, exporting, and AI features included among those targets. Buying five or more licenses adds premium support, including phone support and individual onboarding."
+        },
+        {
+          "t": "p",
+          "x": "Trace for Business also comes with early access to Trace Ultra features. Ultra is a new product tier set for full release in the second half of 2026, aimed at expanding Trace into a vector-based BIM/CAD assistant app. The first feature raises the maximum number of layers per project from 25 to 50, with the rest rolling out gradually through 2026. Early adopters get introductory pricing."
+        },
+        {
+          "t": "p",
+          "x": "This announcement builds on the direct Morpholio Trace integration added in Vectorworks 2026 Update 5, a feature that links hand-drawn sketches on an iPad straight into Vectorworks design files and drawings. Trace for Business is available through the Vectorworks customer portal, while individual subscribers continue to use Morpholio Trace through the App Store."
+        }
+      ]
     }
   }
 }

@@ -5443,6 +5443,432 @@
           "x": "The Unlimited plan, at $16 a month or $48 a year, gives unlimited masters, WAV export, effects and 15 revisions per track. Unlimited Plus, at $24 a month or $72 a year, adds bulk mastering, unlimited revisions, extra stems and drum separation."
         }
       ]
+    },
+    "music/music-suno-believe-p4r": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/06/suno-2026-press-suno-billboard-1800.jpg",
+          "cap": "Courtesy of Suno"
+        },
+        {
+          "t": "p",
+          "x": "Suno has formed a strategic partnership with the French music company Believe, its third such deal with a music company. According to the press release, music from Believe and TuneCore artists and labels who choose to participate will go into a new model Suno is building “with the music industry.” Participation is strictly opt-in, meaning each artist decides for themselves."
+        },
+        {
+          "t": "p",
+          "x": "Believe and TuneCore also gain new distribution volume. AI songs that future Suno models generate after training on Believe's participating tracks can be distributed through Believe and TuneCore. In April, Believe introduced a policy blocking distribution of AI tracks made by “pirate studios,” and music from Suno's models was blocked under that policy at the time."
+        },
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/08/Suno-BMG-logos-billboard-1800.jpg",
+          "cap": "BMG, which licensed with Suno last month"
+        },
+        {
+          "t": "p",
+          "x": "Participating Believe and TuneCore artists “get paid for their music and have their rights protected,” the press release stated. A source familiar with the matter told Billboard that the payment takes the form of a revenue share."
+        },
+        {
+          "t": "p",
+          "x": "Believe becomes the latest company to work with Suno, following BMG and Warner Music Group. Suno is currently being sued by multiple music companies over alleged copyright infringement in its training process, most notably a joint lawsuit filed by Universal Music Group, Sony Music and Warner Music Group in June 2024. Warner dropped out of that lawsuit in late 2025 when it struck a partnership with Suno, while Universal and Sony are still fighting the case."
+        },
+        {
+          "t": "p",
+          "x": "More lawsuits have piled up over the past month. Country star Jason Isbell led a class action, and the Mexican label Herencia 360 Music also filed suit, alleging its catalog of regional Mexican hits was used to train Spanish-language songs. In August, Round Hill Music sued both Suno and Anthropic, claiming tens of thousands of songs were used for training and that damages could exceed $1 billion."
+        },
+        {
+          "t": "p",
+          "x": "Denis Ladegaillerie, founder and CEO of Believe, said, “For 20 years, we have helped artists and labels reach their full potential, and increasingly that work involves new technologies like AI.” He added, “This partnership with Suno opens a powerful tool to every artist and label. They can now choose how to participate, how to protect their rights, and how to share in the value created by responsible AI technology.”"
+        },
+        {
+          "t": "p",
+          "x": "Suno CEO Mikey Shulman said, “Believe and we have always shared the goal of supporting independent artists at every stage of their career.” He added, “This partnership gives independent artists creative tools, a new distribution path through TuneCore, and greater exposure.”"
+        }
+      ]
+    },
+    "music/music-acoustica-8-w9j": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Acon Digital has released Acoustica 8, a version that reworks the interface, adds support for immersive formats, and brings AI restoration features."
+        },
+        {
+          "t": "p",
+          "x": "Acoustica first launched in 2002. It began as a cheaper alternative to editors like Sound Forge or WaveLab, and over the years grew into a DAW that covers post-production, audio restoration, spectral editing and multichannel surround."
+        },
+        {
+          "t": "p",
+          "x": "The redrawn interface adds docking windows, letting users build their own workflow from the processing modules they use most. A new start screen also jumps straight into recent projects."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/acon-digital-acoustica-8-1024x565.jpg",
+          "cap": "Acoustica 8 · Source: Acon Digital"
+        },
+        {
+          "t": "p",
+          "x": "Restoration gets AI and machine learning. Extract:Dialogue 2 improves its AI processing to pull out speech even from material with dense background noise. Separate level and sensitivity controls for voice, noise and reverb widen the range of adjustment."
+        },
+        {
+          "t": "p",
+          "x": "DeNoise 3 and DeHum now run on machine learning algorithms, working instantly without requiring a noise profile to be learned first. AudioFill also reworked its interpolation and retouching algorithms to fill larger gaps more naturally."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/acon-digital-acoustica-8-ara-1024x565.jpg",
+          "cap": "ARA · Source: Acon Digital"
+        },
+        {
+          "t": "p",
+          "x": "Spectral editing also got refined. A new “select similar regions” command picks out matching patterns across an entire waveform at once."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/acon-digital-acoustica-8-spectogram-1024x565.jpg",
+          "cap": "Spectrogram · Source: Acon Digital"
+        },
+        {
+          "t": "p",
+          "x": "The Ultimate edition now supports up to 9.1.6 multichannel, bringing in work on immersive formats such as Dolby Atmos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2026/09/acon-digital-acoustica-8-multitrack-1024x565.jpg",
+          "cap": "Multitrack · Source: Acon Digital"
+        },
+        {
+          "t": "p",
+          "x": "Prices are cut by 25%. The discount applies to all full versions and upgrades through October 5."
+        }
+      ]
+    },
+    "music/music-audacity-4-r6d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "It's long-awaited news. Audacity, the open-source audio editor owned by MuseGroup, has reached version 4, with a redesigned interface and refined usability. There's also a fork worth watching."
+        },
+        {
+          "t": "p",
+          "x": "Audacity passed 100 million cumulative downloads in a bit over 25 years. It started as a community-driven project, but its owner today is MuseGroup, the company behind MuseScore notation software and publishing giant Hal Leonard. Even so, Audacity remains free and open source under the GPLv3."
+        },
+        {
+          "t": "p",
+          "x": "The core of this release is the new interface, the most noticeable set of changes in the software's 26-year history. An outdated UI and inconsistent editing behavior had long held the software back, which stung more given its role as a first stop for beginners looking for free audio tools on Mac, Windows and Linux."
+        },
+        {
+          "t": "p",
+          "x": "Among the additions: a split tool, free clip placement, multi-clip select/move/trim/stretch, clip groups, gain envelopes, trim/stretch handles, markers and regions, multiple workspaces, a completely redrawn effects UI, the MuseHub effects marketplace, LV2/VST3/AU support, and compatibility with Audacity 3's aup3 files. The price remains free forever under the GPLv3."
+        },
+        {
+          "t": "video",
+          "yt": "BTQymidLYIM"
+        },
+        {
+          "t": "p",
+          "x": "MuseGroup would probably like to push talk of ecosystems and cloud sharing, but plenty of people dislike that kind of extra baggage. This release makes all of it easy to skip. Right below the “recommended” MuseHub version on the download page sits a plain application bundle. It doesn't even need an internet connection to install, so it can be handed out on a USB drive at a workshop. No features are missing — things like effects can simply be added later."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/09/audacity-4-1024x696.png",
+          "cap": "Audacity 4's new interface"
+        },
+        {
+          "t": "p",
+          "x": "The Audacity 4 UI that results is minimal and very clean. It's also fast — it's built with Qt — and feels just as comfortable as other paid software."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/09/audacity-4-spectral-view-1024x695.jpg",
+          "cap": "The new spectral view"
+        },
+        {
+          "t": "p",
+          "x": "The spectral view is good too. Built-in effects that used to have thin UIs have been redrawn for a modern look. Some of what MuseGroup has added is worth a look too. The new plugin marketplace has quite a few decent free plugins for everything from music to podcasts, and since it's opt-in, nothing feels forced. From this point on, though, you're outside open source."
+        },
+        {
+          "t": "p",
+          "x": "Audacity isn't as deep as the free DAW Ardour — they're different tools. If Ardour is a true DAW, Audacity is a true wave editor. The toolset built up from 25 years of community work is still there, and thanks to the improved editing, switching over from Ardour doesn't feel unfamiliar. The plugin scanner repeatedly crashing on Mac is a snag. Dismissing the dialog let most plugins work normally."
+        },
+        {
+          "t": "img",
+          "src": "https://cdm.link/app/uploads/2026/09/tenacity-1024x576.png",
+          "cap": "The fork project Tenacity"
+        },
+        {
+          "t": "p",
+          "x": "There's also the fork story. Since the acquisition, there's been wariness toward MuseGroup from the community and the open-source camp. Being GPLv3 means it stays free forever, but free software isn't only about license and price. When a large company steps in, the center of gravity for responsibility and control shifts."
+        },
+        {
+          "t": "p",
+          "x": "That's what led to Tenacity. It's a project that several fork attempts merged into, with plenty of work put into usability and features too. Like Audacity, it's scriptable and accessible, but it's completely FLOSS with no proprietary bundling at all. It runs on Apple silicon, Intel and ARM, and Mac binaries are back. It's also on MacPorts."
+        },
+        {
+          "t": "p",
+          "x": "In the end, it's the same core. Whether Tenacity adopts Audacity 4's UI changes remains to be seen. Either way, there's excellent free software here."
+        }
+      ]
+    },
+    "music/music-serato-5-b8k": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Mijmpm6ykNNENNY9mocMv9.jpg",
+          "cap": "(Image credit: Serato)"
+        },
+        {
+          "t": "p",
+          "x": "Serato has unveiled Serato DJ 5.0, the latest major update to its DJ software. It's just gone live as a public beta."
+        },
+        {
+          "t": "p",
+          "x": "The headline feature for this version is Lucid Beatgrid, a major overhaul of beat-detection technology. Serato describes it as “the most accurate and intuitive beatgrid technology we've ever built.”"
+        },
+        {
+          "t": "p",
+          "x": "The new beat grid changes the analysis method itself, so it tracks songs with fluctuating BPM more closely. Playing back old funk, soul and disco records cut without a click track or DAW timeline now needs fewer manual fixes and plays back more steadily."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XCwxFY7dvFdmGABj7K38WK.jpg",
+          "cap": "Serato 5.0 also reworked its beat grid editing tools (Image credit: Serato)"
+        },
+        {
+          "t": "p",
+          "x": "According to Serato, analysis in both “Flexible” and “Fixed” modes is more accurate and stable in 5.0. Lucid Beatgrid also refined labeling, customization and editing controls, and marks BPM change points more clearly."
+        },
+        {
+          "t": "p",
+          "x": "Another major change is streaming service integration. As before, mixing tracks from Apple Music, Tidal, Beatport, SoundCloud and Spotify inside Serato DJ only requires the relevant subscription. What's new is mixing tracks from different platforms together with your own library in one place, without having to log in and out of accounts."
+        },
+        {
+          "t": "p",
+          "x": "In the library, each streaming service now shows up as its own crate. A new provider search dropdown makes it easier to find tracks across multiple services, and streaming tracks now show BPM and key before analysis, so you can pick and prep them on the spot."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/LtBXmUmhcRheKgNfrDWuzC.jpg",
+          "cap": "Cue loops are new to Serato DJ Pro (Image credit: Serato)"
+        },
+        {
+          "t": "p",
+          "x": "Both features come to Serato DJ Pro and the free Serato DJ Lite alike. Pro users also get one more addition: cue loops. These save a loop as a cue point, letting you jump straight to that spot and trigger it instantly whenever you need it."
+        },
+        {
+          "t": "p",
+          "x": "Serato 5.0 is in public beta now. More details are on Serato's blog, The Drop, which is also where you sign up to join the beta."
+        }
+      ]
+    },
+    "music/music-suno-v6-h2m": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pXKM5ozf85eSnb7G4C6858.png",
+          "cap": "(Image credit: Suno)"
+        },
+        {
+          "t": "p",
+          "x": "AI music platform Suno unveiled a new family of music generation models. It's the first one developed in partnership with major labels after signing licensing deals with Warner Music Group and BMG."
+        },
+        {
+          "t": "p",
+          "x": "The company calls V6 the best it has ever built. It describes it as “faster, more expressive and higher quality,” with new tools for precisely steering output. Having learned “more of the language and building blocks musicians use,” prompts can now include vocals and instrumentation, structure, mood or feel, and even references outside of music."
+        },
+        {
+          "t": "p",
+          "x": "V6 launches in three versions. The flagship V6, for Pro and Premium subscribers, reliably delivers “polished music across every genre and style.” V6-wild, available only to paid subscribers, is built for experimentation and aims for “unexpected textures and ambition.” The one model open to all users is the fast, lightweight V6-mini."
+        },
+        {
+          "t": "p",
+          "x": "Control is also finer-grained than in previous generations. Prompts can edit a specific part of an existing song, combine elements from multiple songs, or pull an element out of one track and build something new on top of it. Beyond text and audio, images and video can now also serve as a starting point for a track."
+        },
+        {
+          "t": "p",
+          "x": "With V6's launch, all of Suno's previous models are permanently retired. The company says the old models were trained on tens of millions of songs, including copyrighted ones, but V6 was trained from scratch. The training data doesn't overlap with before, either — it blends licensed data secured through industry partnerships with user data, including licensed recordings from the Warner Music Group and BMG catalogs."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NjYYssBf6dN3KhhuMiewYV.jpg",
+          "cap": "(Image credit: Suno)"
+        },
+        {
+          "t": "p",
+          "x": "Warner and BMG said artists and songwriters will be compensated under the partnership. Neither company disclosed how much individual creators receive or how the money is split."
+        },
+        {
+          "t": "p",
+          "x": "The same day, Suno also announced a partnership with Believe, a company that provides distribution, publishing and artist development to independent musicians and labels, and the owner of TuneCore. Tracks made with Suno will be distributed through Believe and TuneCore, and music from participating Believe and TuneCore artists and labels will be used to train V6. Believe said “artists who opt in will be compensated for their music and have their rights protected.”"
+        },
+        {
+          "t": "p",
+          "x": "A new product that lets individual artists co-create and remix their own music is also in development. Participating artists will be compensated, and Suno claims the product “opens revenue opportunities across the music ecosystem.”"
+        },
+        {
+          "t": "p",
+          "x": "The shift toward licensed data comes against a backdrop of legal disputes with the industry. Warner Music Group settled a copyright lawsuit last year and struck the partnership that led to V6's development, but Universal Music Group and Sony Music continue their lawsuits, alleging infringement on a “almost unimaginable scale.” Suno maintains its use is fair use. In July, a German court ruled in a lawsuit brought by the copyright group GEMA that Suno infringed copyright by training on protected works without permission."
+        },
+        {
+          "t": "p",
+          "x": "In a press release, CEO Shulman said the launch of V6 is “the start of a new chapter for music.”"
+        }
+      ]
+    },
+    "music/music-umg-elevenlabs-q4t": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/09/Eleven-Labs-UMG-logos-Billboard-1800.jpg?w=942&h=628&crop=1",
+          "cap": "ElevenLabs and UMG (Courtesy: UMG)"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group has signed a multi-year licensing agreement with AI audio company ElevenLabs. According to a press release, the two companies will build an AI music platform for fans “built on licensed music and artist participation,” and will also co-develop AI audio products for artists and songwriters."
+        },
+        {
+          "t": "p",
+          "x": "On the platform, fans will co-create, remix and mash up music from artists and songwriters who opt in. Layering on the AI voice replication ElevenLabs has been known for, it will also produce “personalized vocal experiences.” The release added that the companies will “develop additional products and fan experiences over the coming months and years.”"
+        },
+        {
+          "t": "p",
+          "x": "The weight of this deal falls on co-developing new products rather than on ElevenLabs' existing music services. Both ElevenMusic, its music generation and editing app, and Music EPI, its studio-grade music model offered via API, are outside the scope of the deal."
+        },
+        {
+          "t": "p",
+          "x": "The news comes exactly one day after Suno, the biggest name in generative AI music, released v6, its first family of models built “in partnership with the music industry.” In a Billboard On the Record interview, Suno CEO Mikey Shulman said v6 was trained on music provided by WMG, Believe and BMG — UMG's rivals — and on platform “user interactions.” Universal, together with Sony Music, continues its lawsuit against Suno, alleging widespread copyright infringement."
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs has already struck several deals with the music industry, including with Merlin, the digital licensing body representing 30,000 independent labels and distributors, and Kobalt, a major independent publisher. Its earliest known partnership was with the production music library SoundAudio, announced in 2025."
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group Chairman and CEO Lucian Grainge described the deal this way: “The most exciting possibilities in AI and music come from putting artists, songwriters and fans at the center. UMG and ElevenLabs share the view that responsible AI can spark discovery, deepen the relationship between artists and fans, and open new revenue opportunities for the creative community.”"
+        },
+        {
+          "t": "p",
+          "x": "ElevenLabs co-founder and CEO Mati Staniszewski also said, “AI opens up incredible possibilities for the music and artists we love,” adding, “By combining our models and products with UMG's global community and rights management capabilities, we'll help artists and songwriters build new experiences for fans and be fairly compensated.”"
+        }
+      ]
+    },
+    "music/music-ai-records-v2s": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/09/E6BFC2B3-0CFC-42A2-B5DC-1D0C7E2E4B15.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "The music industry's conversation around AI has focused on consent, disclosure, and labeling. For independent artists, that's only the starting line, writes Michael T. Neely, president of the Global Music Conference. When a dispute actually breaks out, what decides it isn't whether something felt unauthorized, but whether you can prove what was agreed, what was produced, what changed, who held the files, and where the money moved. Major labels have legal teams, rights management systems, and internal audit trails. Independent artists are left with a few texts, scattered emails, cloud folders, and verbal agreements."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/8-25-AI-oped.jpg"
+        },
+        {
+          "t": "p",
+          "x": "That's why there are five records worth keeping. The first is a document spelling out the scope of consent. The word “permission” alone is too vague. The document should state exactly how far someone was allowed to use vocals, likeness, compositions, stems, and datasets — for a single song or a whole campaign, for model training, exclusively or with the right to sublicense, and whether a synthetic voice can be made and used in advertising. Keep the signed copy, the platform terms in effect at the time, any later revisions, and records of any time permissions were changed or withdrawn."
+        },
+        {
+          "t": "p",
+          "x": "The second is provenance records. Keep original vocal takes, multitrack sessions, stems, project files, lyrics, and dated demos not as backups but as evidence of where the work came from and how it grew. C2PA's Content Credentials have already set a standard for this, but it's enough to follow the basic principle: don't overwrite originals, and preserve dated versions and metadata."
+        },
+        {
+          "t": "p",
+          "x": "The third is version history. AI can produce dozens or hundreds of outputs at once. Logging each step — whether lyrics were revised, backing vocals were synthesized, or instruments were swapped — separates what a person made from what AI added, and what was approved from what was never cleared for release. This connects directly to the Copyright Office's continued emphasis on human authorship."
+        },
+        {
+          "t": "p",
+          "x": "The fourth is a record of earnings and use: settlement statements, distributor reports, platform dashboards, licensing invoices, sync payments, neighboring-rights settlements, and distribution breakdowns. Dashboards change later, so download them periodically. The fifth is a record of disputes and corrections: the initial complaint, takedown requests, ticket numbers, communications with distributors and labels, screenshots of the disputed content, response dates, the outcome of any dispute, and any settlement or correction. The advice adds one more thing: don't let an important conversation end with just a phone call — follow up with a brief confirmation email."
+        }
+      ]
+    },
+    "music/music-difro-melody-k4q": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://bedroomproducersblog.com/wp-content/uploads/2026/09/InitialAudio-DifroMelodyAI-728x364.jpg",
+          "cap": "Initial Audio Difro Melody AI"
+        },
+        {
+          "t": "p",
+          "x": "Initial Audio has released Difro Melody AI, a standalone MIDI generator for macOS and Windows, and it's free. It runs inference locally on the CPU, or on the GPU if one is available, with no cloud involved."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't compose a song from a blank screen. Feed it a MIDI file you made, and it reads the rhythm, melodic contour, and chord progression to produce variations that keep the character of the original idea. The architecture pairs a Variational Autoencoder with a Transformer. You can drag in a MIDI file or play directly into the piano roll. Results can be dragged into a DAW or exported as WAV."
+        },
+        {
+          "t": "p",
+          "x": "The free tier includes 10 prompt models, around 80 SourceLab Light presets, and VST3/AU plugin hosting. Generation, though, is capped at 50 times a month. Removing that cap and being able to build your own prompt models requires Pro, at $49."
+        },
+        {
+          "t": "p",
+          "x": "Initial Audio describes Difro as a personal AI co-producer. The company says it isn't a tool that scatters notes at random, but one that analyzes the MIDI a user hands it, using that as its reference point."
+        },
+        {
+          "t": "p",
+          "x": "※ The body of the Bedroom Producers Blog article was blocked by bot protection and could not be opened. The content above was filled in using article excerpts and the Initial Audio product page."
+        }
+      ]
+    },
+    "music/music-spark-pedal-b6n": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/p/positive_grid_spark_pedal-DoSqQEC6WDbBVf5wAfj4ZEgEUPFfexYI.jpg",
+          "cap": "Positive Grid Spark Pedal"
+        },
+        {
+          "t": "p",
+          "x": "Positive Grid's Spark amp opened a path for carrying amp and effects modeling onto the stage, becoming the lineup's most popular line. The new Spark Pedal, which inherits that name, packs the same platform into a stompbox."
+        },
+        {
+          "t": "p",
+          "x": "It runs the same HD Tone Engine that powers the flagship Spark 2, and includes 33 amp models and 43 effects. You can browse more than 100,000 tones from the ToneCloud community, and it loads presets saved on other Spark-series products as is. Practice quietly through headphone output, or play along with your favorite songs over Bluetooth. It also runs on battery power, so placement isn't an issue."
+        },
+        {
+          "t": "p",
+          "x": "A multifunction knob on top controls both the amp and effects. In Amp mode, it adjusts Gain, Bass, Mid, and Treble; in FX mode, it adjusts Drive, modulation, delay, and reverb. Holding down the center knob turns on the built-in tuner. The footswitch handles recording, overdubbing, and undo for the 60-second looper, and the same switch saves six presets across two banks."
+        },
+        {
+          "t": "p",
+          "x": "The free companion app handles the rest. Type a phrase, a song, an artist, or a feeling into Text to Tone, and it recommends a matching tone, which you can then refine or save. Build Your Rig lets you build a signal chain from the amp, cabinet, and effects library and adjust the details. Auto Chords displays guitar chords in real time while a song plays through the app. The pedal's looper can also be controlled remotely from the app."
+        },
+        {
+          "t": "p",
+          "x": "The Spark Pedal is already on sale, priced at $199."
+        }
+      ]
+    },
+    "music/music-tone3000-nam-j8d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/a5suE56p3ZXSibAuSiJi24.jpg",
+          "cap": "The Tone3000 plugin handles NAM A2 captures both as a standalone app and inside a DAW. (Image credit: Tone3000)"
+        },
+        {
+          "t": "p",
+          "x": "Tone3000 has quietly changed how guitarists find their sound. Built on open-source Neural Amp Modeler technology, it's home to the world's largest collection of community-made NAM A2 captures and IRs. Capture your own analog gear — a tube amp, an overdrive pedal, a fuzz, whatever it is — upload it, and anyone can use it. Hardware like Blackstar and HeadRush has started supporting Tone3000 natively."
+        },
+        {
+          "t": "p",
+          "x": "Now that library opens directly inside a free, open-source plugin that runs both in a DAW and as a standalone app. Chains is the core feature: it links together user-made NAM A2 captures and IRs to build an entire signal path. You might put an EP-3 boost in front of a slightly pushed Marshall JCM800 capture, stack on a Keeley Mk3 Driver for extra grit if you feel like it, and finish with whichever IR you want."
+        },
+        {
+          "t": "p",
+          "x": "There's no limit to how many you stack. You can run two chains at once split left and right for stereo work, and Spread widens a mono signal without splitting it into stereo. There's a global EQ across the whole chain plus separate pre- and post-parametric EQ per block. Finer settings like oversampling, MIDI mapping, and per-block normalization are included too."
+        },
+        {
+          "t": "video",
+          "yt": "n1pjVTwa6LU"
+        },
+        {
+          "t": "p",
+          "x": "The ultimate goal is a simpler workflow. There's no need for a third-party NAM player, and anything uploaded to the library opens inside the plugin the moment it goes up. You manage and organize favorites and drop them into your existing in-the-box setup. Tone3000 co-founder and CEO Stanley Vergilis said that because it's open source, this is the worst it will ever be, and he's looking forward to seeing what the community builds."
+        }
+      ]
     }
   }
 }

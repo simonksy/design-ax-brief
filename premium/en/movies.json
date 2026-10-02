@@ -5394,6 +5394,267 @@
           "x": "In China, more than 95 percent of new vertical dramas in the first quarter of 2026 were reportedly made with AI. Whether AI vertical dramas end up as a passing spectacle in the U.S. is ultimately up to viewers. Martina Monti, an actor who has shot 40 vertical dramas, puts it this way: “Some people are more optimistic about the future — they just hope this AI bubble pops. Others, I don't know.” Right now, she added, it just isn't working well."
         }
       ]
+    },
+    "movies/movies-sns-evo-ai-t2k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Studio Network Solutions (SNS), which makes shared storage hardware and software, unveiled workflow updates at this year's IBC. They focus on performance, compatibility, convenience and flexibility."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/AI-Suite-dark-mode-laptop.png",
+          "cap": "The SNS AI Suite interface running on a laptop."
+        },
+        {
+          "t": "p",
+          "x": "The company said the latest EVO OS update boosts total throughput by up to 40% on some SSD-equipped EVO 8 Bay and 16 Bay systems. OS-level tuning and system memory optimization raise read and write performance while using less processing power."
+        },
+        {
+          "t": "p",
+          "x": "The freed-up capacity goes to background automation and 4K projects with multiple editors working at once. It already ships on new EVO systems, and eligible systems running EVO OS 7.1.0 get it for free."
+        },
+        {
+          "t": "p",
+          "x": "SNS also introduced AI Suite Advanced, a higher tier for on-premises media analysis. It adds natural-language chat and agent features, and its interface has been refined to match the rest of the SNS ecosystem."
+        },
+        {
+          "t": "p",
+          "x": "The existing AI Suite offers media analysis features such as transcription, translation, summarization and semantic search using multiple AI models. In Advanced, asking questions about material in the media library brings contextual answers. Users can describe tasks in plain language, such as asking it to find clips matching certain conditions or build an EDL from those clips."
+        },
+        {
+          "t": "p",
+          "x": "AI Suite and Advanced are sold outright as a perpetual license with no limit on AI processing time. Processing happens within the facility, so a company's media never leaves its own walls."
+        },
+        {
+          "t": "p",
+          "x": "Outpost has started accepting browser uploads. Participants such as producers, assistant editors and clients can upload media files from a compatible browser, including mobile, to run review and approval. Both existing and new Outpost users can use it without first logging into ShareBrowser MAM or Adobe Premiere."
+        },
+        {
+          "t": "p",
+          "x": "EVO has been validated for use with Avid Media Composer 2026.8 Enterprise, including shared projects and bin locking. SNS was among the vendors selected for beta testing ahead of the public release, and both SNS and Avid confirmed the workflow runs as intended."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/EVO-up-to-40-percent-faster.jpg",
+          "cap": "The EVO OS update raises total throughput by up to 40% on some systems."
+        },
+        {
+          "t": "p",
+          "x": "SNS also plans to release Media Composer training materials through Avid Learning Central and the SNS Training Academy. For facilities that need to upgrade their Avid license to use shared projects and bin locking in Media Composer 2026.8, SNS is offering a discount on new EVO systems to offset that cost."
+        },
+        {
+          "t": "p",
+          "x": "Transcode Accelerator, EVO's engine for coordinating proxy generation, now extends to Windows workstations in addition to Mac. It pools resources across multiple EVO servers and Mac and Windows workstations running Adobe Media Encoder. Instead of waiting for one machine to finish its queue in sequence, it spreads the proxy and transcoding load across multiple pieces of hardware."
+        },
+        {
+          "t": "p",
+          "x": "ShareBrowser Admin, which creates and manages custom metadata templates, now also comes as an EVO plugin. It opens right where administrators already open EVO, and even lets them adjust the field order within a template. A podcast library might use season, episode and date as fields; a college athletics department might use semester, sport, opponent, content type and venue status. The tighter the structure, the faster and more accurate the search."
+        }
+      ]
+    },
+    "movies/movies-acoustica-eight-w9n": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Acon Digital has released Acoustica 8, the new version of its audio editing, restoration, and mastering suite."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Acon.jpg",
+          "cap": "Acon Digital Acoustica 8"
+        },
+        {
+          "t": "p",
+          "x": "This release answers directly the technical problems working engineers have raised. It packs in a set of assistive AI and machine-learning tools that speed up work without cutting into sound quality. Acon says Acoustica 8 was designed not to replace experienced audio professionals but to empower them. Complex restoration tasks, from dialogue cleanup to spectral recovery, are handed to machine learning, while engineers keep full control."
+        },
+        {
+          "t": "p",
+          "x": "Unlike the broader shift toward subscription software, Acon Digital continues to offer perpetual licenses for its editing, restoration, and mastering tools, leaving buyers the option to purchase without a subscription."
+        },
+        {
+          "t": "p",
+          "x": "Among the features, DeNoise 3 and DeHum 3 now run on machine-learning models, so there is no need to capture a noise profile first. DeClip 3 and DeClick 3 have a redesigned interface. Extract:Dialogue 2 adds sliders and sensitivity controls for voice, noise, and reverb respectively. Audiophile fills much wider stretches of time with generated content, making recovery smoother."
+        },
+        {
+          "t": "p",
+          "x": "The spectral editor gains a “Similar Selection” tool that finds regions with properties close to the current selection, along with time and frequency feathering that refines the blend at edit boundaries. A stereo view plots stereo position as color on the spectrogram, letting engineers see balance problems instead of just hearing them."
+        },
+        {
+          "t": "p",
+          "x": "Immersive audio support, including Dolby Atmos, reaches up to 9.1.6 channels in the Ultimate edition. The UI has been redesigned throughout, adding a new startup screen, a dockable processing tool window, and a customizable toolbar. ARA2 integration comes to every edition, giving access to the full clip editor inside any ARA2 host, while a dedicated link plugin handles AAX transfer with Avid Pro Tools. The lineup has three editions — Standard, Premium, and Ultimate — all sold under perpetual licenses."
+        }
+      ]
+    },
+    "movies/movies-maxon-fall-ibc-b2r": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Maxon is previewing its fall Maxon One release exclusively at its booth at IBC2026, running September 11 through 14 at the RAI Amsterdam, Hall 7, booth 7.B24. The preview also rounds up the updates made to Cinema 4D, ZBrush, Redshift, Red Giant, and Autograph over the past year. The October release plans will not be officially announced for a few more weeks."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/maxon_at_ibc2026_beer_mug_filling_hor-1280.jpg?itok=h7lk9WBB",
+          "cap": "Maxon at IBC2026"
+        },
+        {
+          "t": "p",
+          "x": "“We keep listening to artists and building the technology underneath our products, so every release opens up more creative possibilities,” said Maxon CEO David McGavran. “A lot happens between the big releases. We're building a technology stack that keeps supporting creativity, so artists can do today what they couldn't do a year ago. IBC is a chance to see what we've built, experience the latest updates, and get an exclusive first look at the booth at what's coming next.”"
+        },
+        {
+          "t": "p",
+          "x": "By product, Cinema 4D moves into a next generation with features for building, populating, and simulating complex 3D worlds. ZBrush tightens the sculpting workflow that links desktop and iPad, cutting down on switching between apps. Redshift gets major performance and interactivity improvements, along with procedural fur and a more cinematic color workflow. AI relighting belongs to Red Giant: a tool called Scene Light speeds up complex lighting changes while leaving control with the artist. Autograph continues its performance and stability work and ties in more deeply with Maxon's tools."
+        },
+        {
+          "t": "p",
+          "x": "The recap also covers what's already shipped this year. Cinema 4D gained a new UV editor with professional unwrapping and packing, seam editing, texel density tools, and UDIM support, plus Edge, Rivet, and UV Projection modes for Cloner distribution and a fabric brush that lets artists shape soft materials directly in the viewport using the simulation system. ZBrush received native Windows on Arm support, direct Substance Painter integration, and ZModeler improvements. Redshift became more responsive when adjusting lighting and materials, with a new memory architecture and cleaned-up material workflows inside Cinema 4D following along. Red Giant modernized core Universe effects such as Glow, Chromatic Aberration, and RGB Separation with a focus on performance, and brought Cinema 4D's procedural noise into Universe as Maxon Noise."
+        },
+        {
+          "t": "p",
+          "x": "Autograph, the free motion graphics and compositing app relaunched this year and opened up for commercial use starting in May, now uses Red Giant effects natively and fully supports OpenFX for third-party plugins. It also gained vertical text and CJK typography along with a USD-based 3D workspace, bringing extruded text, shapes, textures, and multi-pass compositing into a single environment."
+        },
+        {
+          "t": "p",
+          "x": "Booth presentations will feature production teams from WWE, RTL, Imaginary Forces, Fall Off the Wall, and the BBC, along with demos from Maxon trainers Jonas Pilz, Elli Wade, and Chad Perkins. Maxon and Lenovo are hosting a community meetup at Aloha Amsterdam after the show floor closes on Saturday, September 12."
+        }
+      ]
+    },
+    "movies/movies-nicetouch-v2-h8v": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nice Touch has released Nice Touch V2, the new version of its AI editing assistant for professional post-production teams."
+        },
+        {
+          "t": "video",
+          "yt": "u1QT63Oeit8"
+        },
+        {
+          "t": "p",
+          "x": "More than 300 conversations with editors, producers, production supervisors, and studio heads set the direction. V2 runs inside Adobe Premiere Pro and DaVinci Resolve, rebuilt from scratch."
+        },
+        {
+          "t": "p",
+          "x": "Nice Touch is a UK company founded in 2025. Circus Street founders Rich Townsend and Jonny Townsend put in pre-seed funding and both sit on the board. It lets editors hand off the mechanical front-end work without leaving the tools they already use."
+        },
+        {
+          "t": "p",
+          "x": "Built by two editors with 12 years in the industry, V2 takes on front-end labor like selects, stringouts, assembly, multicam passes, and cutdowns. It supports 18 languages."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/nicetouchv2_001.jpg",
+          "cap": "Nice Touch V2"
+        },
+        {
+          "t": "p",
+          "x": "It analyzes a project's footage to transcribe it with word-level accuracy and speaker separation, then takes instructions in plain language. When an editor says the cut they want, it builds it straight onto the timeline with real clips, cuts, and markers. From there, the editor just keeps working."
+        },
+        {
+          "t": "p",
+          "x": "Two things kept coming up across the 300-plus conversations: existing AI tools made editors step outside the edit to process elsewhere and bring the results back in, and editors have lines they don't want to hand over. What turned around a 30-year editor who had avoided AI tools entirely was that Nice Touch “doesn't touch creative judgment.”"
+        },
+        {
+          "t": "p",
+          "x": "Founders Matthew Cooksey and Paul Simon spent 12 years growing Circus Street's video production organization to 200 people, making TV- and VFX-grade content for Coca-Cola, Nike, Nestlé, and Pfizer. Cooksey built a £500,000 virtual studio that sent 60 hours of content in 20 languages to more than 500,000 viewers. Circus Street was sold to QA for £50 million."
+        },
+        {
+          "t": "p",
+          "x": "“For 12 years, whenever we hit something the tools couldn't do, we built it ourselves. This is the same instinct, just with better technology behind it now,” said Paul Simon, CPO and co-founder."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/nicetouchv2_002.jpg",
+          "cap": "Nice Touch V2"
+        },
+        {
+          "t": "p",
+          "x": "V2 is available now at nicetouch.app. A five-day free trial comes with 2,000 credits unlocking every feature; paid tiers are Pro at £50 a month for 7,000 credits and Ultra at £250 a month for 40,000 credits. Extra credits can be purchased as needed. Pricing is set in pounds, dollars, and euros. Podimo and the University of Georgia's School of Social Work editing team are already using it."
+        }
+      ]
+    },
+    "movies/movies-primevideo-dub-q3m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Amazon Prime Video is making English dubbing look more natural. It uses AI to match the way actors' mouths move on screen."
+        },
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2025/06/maxtonhall2.webp?w=1000&h=667&crop=1",
+          "cap": "Stephan Rabhold, Prime Video"
+        },
+        {
+          "t": "p",
+          "x": "The first title to get it is the German romance “Maxton Hall,” Prime Video's most-watched international original series to date. The lip-sync dubbing rolls out worldwide in English starting Wednesday for seasons 1 and 2, and it will also be in the final season 3, premiering December 9. Season 3 is based on the 2018 novel “Save Me” by Mona Kasten."
+        },
+        {
+          "t": "p",
+          "x": "The Prime Video team built the feature by combining AI and VFX technology, though it did not say which AI tools it used. Amazon said it plans to expand the feature to other titles going forward."
+        },
+        {
+          "t": "p",
+          "x": "The feature matches an actor's lip movements to a human-recorded dub performance. Amazon described the result as “a seamless viewing experience that keeps audiences fully immersed in the story.”"
+        },
+        {
+          "t": "p",
+          "x": "“Prime Video is constantly building new tools that elevate the viewing experience for customers,” said Raf Soltanovich, Vice President of Technology at Prime Video and Amazon MGM Studios. “Lip-sync paves the way for customers to enjoy content from around the world more seamlessly and immersively. For creators, it makes it easier for their stories to reach a wider global audience. It's all done under the creator's direction, preserving the integrity of their artistic intent.”"
+        },
+        {
+          "t": "p",
+          "x": "Amazon added that Prime Video will keep looking for practical, useful applications of AI “with the customer at the center and creators in the driver's seat.”"
+        }
+      ]
+    },
+    "movies/movies-switchx-two-t5k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Beeble has unveiled a major update to its video-to-video model, SwitchX 2.0. The model's premise is to change what you want changed and keep what needs to stay."
+        },
+        {
+          "t": "video",
+          "yt": "eZ5wedB7pV4"
+        },
+        {
+          "t": "p",
+          "x": "This release adds native 4K output, clips up to 20 seconds at 24fps, and 10-bit color depth. Camera tracking has also improved, along with accuracy in handling fast motion and lip sync."
+        },
+        {
+          "t": "p",
+          "x": "SwitchX is Beeble's own model for changing elements like lighting, background, and props while keeping the original subject and performance untouched. The company calls this release “our biggest upgrade yet to our video-to-video model.”"
+        },
+        {
+          "t": "p",
+          "x": "“SwitchX's core idea has always been simple: change what you want to change while keeping what needs to stay,” said Beeble founder and CEO Hoon Kim. “With SwitchX 2.0, we've extended that ability to longer, higher-quality sequences, giving increasingly ambitious productions the confidence to use AI.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/beebleswitcvh001.jpg",
+          "cap": "Beeble SwitchX 2.0"
+        },
+        {
+          "t": "p",
+          "x": "Among the new additions, output moved from 1080p to native 4K, maximum length increased to 20 seconds at 24fps, and color depth rose from 8-bit to 10-bit. Camera tracking improved so generated results follow the original footage's camera movement more closely. A new finishing workflow called Upres was also added: run quick, credit-efficient passes at 720p, then return to the original source to produce a final result at up to 4K."
+        },
+        {
+          "t": "p",
+          "x": "Beeble also recently released a 3D scene generator built on World Labs technology. It builds Gaussian splat environments from text, images, video, or panoramas, lets users explore them in 3D, and extracts shots at up to 4K."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/beebleswitcvh003.jpg",
+          "cap": "Beeble SwitchX 2.0"
+        },
+        {
+          "t": "p",
+          "x": "Recent updates also added Seedance 2.5 integration and SwitchHDR, which converts SDR footage into 16-bit HDR EXR. These features tie into Canvas, Beeble's node-based compositing environment, bringing generation, VFX, and finishing into a single workflow."
+        },
+        {
+          "t": "p",
+          "x": "SwitchX 2.0 is available now on the Beeble platform. To mark the launch, generations made with the new model are 50% off through September 23, 2026."
+        }
+      ]
     }
   }
 }

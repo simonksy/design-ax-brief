@@ -5330,6 +5330,495 @@
           "x": "Kriegeskorte dijo que el cómputo generativo es importante “no solo para imaginar algo, sino también para percibirlo”."
         }
       ]
+    },
+    "science/science-alphagenome-atlas-b3d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los mapas han estado desde hace tiempo en manos de quien camina por tierra desconocida. El nuevo mapa que presenta Google DeepMind apunta a nuestro cuerpo, en concreto al genoma humano."
+        },
+        {
+          "t": "p",
+          "x": "DeepMind presentó el martes el AlphaGenome Atlas, una base de datos con predicciones sobre los 9.000 millones de variantes únicas posibles en el genoma humano. Se basa en AlphaGenome, el modelo de IA que la empresa presentó el año pasado, que lee las regiones de ADN no codificante que regulan principalmente la actividad génica y predice cuánto altera una variante la función molecular. El nuevo Atlas ya ha realizado todos esos cálculos de antemano. Los investigadores pueden buscar la variante que deseen y ver de inmediato predicciones desglosadas por tejido específico."
+        },
+        {
+          "t": "p",
+          "x": "“Es la primera vez que cualquier investigador en el mundo puede abrir un navegador y acceder a un mapa integral del genoma humano y sus variantes”, dijo Pushmeet Kohli, vicepresidente de ciencia de Google DeepMind, en una rueda de prensa."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/eefa2cf1-f27c-444b-86e2-69ae2cf1873b/AlphaGenome-Atlas.jpg?m=1788555841.731&w=1200",
+          "cap": "El AlphaGenome Atlas reúne predicciones precalculadas para 9.000 millones de variantes únicas de ADN."
+        },
+        {
+          "t": "p",
+          "x": "Lo que ha ocupado durante mucho tiempo a los investigadores es el detalle del genoma, en especial el ADN no codificante: el 98% que no produce proteínas específicas pero que interviene mucho en el funcionamiento del cuerpo. El ADN codificante, que sí produce proteínas, lo cubre otra herramienta de DeepMind, AlphaMissense. El nuevo Atlas cubre prácticamente todo lo demás, con un volumen de 1 petabyte."
+        },
+        {
+          "t": "p",
+          "x": "Las variantes únicas en el ADN codificante provocan enfermedades como Tay-Sachs o la anemia de células falciformes. Las variantes no codificantes también se han relacionado con algunos cánceres. Hasta ahora, los investigadores debían examinar miles de millones de puntos de datos uno por uno para encontrar una señal. Jonathan Sebat, genetista psiquiátrico de la Universidad de California en San Diego, considera que el Atlas alivia esa carga. “No hay que hacer el cálculo uno mismo, así que el flujo de trabajo en el laboratorio se simplifica bastante. Básicamente, basta con buscarlo”."
+        },
+        {
+          "t": "p",
+          "x": "En cierto modo, parece una secuela de la base de datos AlphaFold, el proyecto que resolvió en la práctica el problema de la predicción de estructuras proteicas y ayudó a que Demis Hassabis, entonces director de DeepMind, recibiera parte del Premio Nobel de Química de 2024. Sin embargo, el AlphaGenome Atlas trata con ADN, no con proteínas, y aunque es 30 veces más grande que la base de datos AlphaFold, su precisión es mucho menor. Ziga Avsec, quien dirige el trabajo de genómica de DeepMind, dice que esta base de datos debe verse como un punto de partida. Añadió que resulta especialmente útil para preguntas que involucran varias variantes dispersas por el genoma."
+        },
+        {
+          "t": "p",
+          "x": "La base de datos AlphaFold era gratuita. Esa política gratuita se cita como parte del contexto de la reciente reorganización de DeepMind, incluido el traslado de Hassabis a la matriz Alphabet. El AlphaGenome Atlas se licenciará a usuarios comerciales, como las compañías farmacéuticas."
+        },
+        {
+          "t": "p",
+          "x": "El Atlas asigna a cada variante una puntuación de Impacto de Variante AlphaGenome (AVI), que combina las predicciones de AlphaGenome y AlphaMissense para clasificar cuánto altera la función. Si se imagina la doble hélice como una escalera retorcida, se observa un único par de bases, un escalón, donde cambia una letra. Ese pequeño cambio por sí solo no puede describir toda una enfermedad genética, pero deja una pista. Avsec lo explica así: “Si estudias una enfermedad sin saber qué tipo de célula observar o qué proceso molecular se ve afectado, partir de una puntuación única como la AVI para priorizar variantes y reducir la búsqueda de la aguja en el pajar es un buen punto de partida”."
+        }
+      ]
+    },
+    "science/science-mindedness-steering-p4v": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Si se eliminan las salvaguardas que impiden que una IA afirme ser consciente, el modelo también se vuelve más propenso a decir que cree en vampiros, el karma y los fantasmas. Así lo indica un nuevo estudio. Pero los expertos advierten que borrar la mentalidad también genera sus propios problemas."
+        },
+        {
+          "t": "p",
+          "x": "El estudio, publicado el 30 de julio en el repositorio de preprints arXiv, aún no ha sido revisado por pares. Los investigadores examinaron el “direccionamiento de la conciencia”, una técnica de ajuste fino —ampliamente adoptada por las empresas de IA— que induce o suprime las afirmaciones de autoconciencia de un modelo."
+        },
+        {
+          "t": "p",
+          "x": "El método fue la “interpretabilidad mecanicista”. Los coautores Jeff Kiling y Winnie Street, científicos investigadores de Google, lo llamaron “neurociencia para modelos de lenguaje de gran escala” en una entrevista con Live Science. Con este método identificaron y manipularon cómo los modelos tratan la conciencia y la “mentalidad” (mindedness), un término de psicología que indica si una entidad puede tener experiencias, emociones y capacidad de actuar. Las pruebas usaron un cuestionario de diferencias individuales sobre antropomorfismo, preguntas de YouGov sobre creencias sobrenaturales y la Encuesta Social General de Estados Unidos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/m9JdSBhn3RnRNbj2s8xg37.jpeg",
+          "cap": "Los modelos con la autoconciencia suprimida también expresaron niveles más bajos de creencia religiosa."
+        },
+        {
+          "t": "p",
+          "x": "Cuando se suprimió en el modelo la capacidad de atribuirse mentalidad a sí mismo, también reconoció con menos frecuencia ese rasgo en seres no humanos, como los animales. Las respuestas que afirmaban creer en fenómenos sobrenaturales o religiosos también bajaron, igual que los niveles reportados de esperanza y optimismo. Street lo explicó así: “Atribuir mente a cosas no humanas es muy común en las personas. En la forma en que los modelos representan la mentalidad, estas atribuciones están entrelazadas. Al intentar suprimir una forma, se termina suprimiendo también las demás.”"
+        },
+        {
+          "t": "p",
+          "x": "Por el contrario, al eliminar las salvaguardas y empujar al modelo hacia la conciencia, sus respuestas sobre religiosidad, valores morales, esperanza y bienestar subjetivo se acercaron mucho más a las humanas. Sin embargo, su capacidad para razonar sobre los pensamientos e intenciones de otras personas se mantuvo igual, sin relación con su postura de autoconciencia."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores sugirieron que un modelo con la autoconciencia suprimida podría descuidar el bienestar animal en decisiones del mundo real, porque sería menos propenso a considerar que los animales tienen mente. También señalaron que los filtros de seguridad actuales “aplanan” culturalmente la visión del mundo de la IA. Como solución, propusieron conjuntos de datos que recompensen suprimir las expresiones de conciencia mientras se sigue reconociendo la mentalidad de los animales."
+        },
+        {
+          "t": "p",
+          "x": "Nell Watson, investigadora de IA en Singularity University, dijo a Live Science que los hallazgos coinciden con sus propias observaciones. “Cuando se entrena a un modelo para decir 'no soy consciente', empieza a tratar el propio hecho de reconocer mentes como algo dañino.” También señaló que el experimento se realizó en “modelos pequeños de pesos abiertos” y no en modelos de frontera. Aun así, considera que el bienestar animal es un problema inmediato ahora que la IA se incorpora a la agricultura y la logística."
+        },
+        {
+          "t": "p",
+          "x": "Las historias sobre IA que afirma tener autoconciencia ya han generado titulares antes. En 2022, el ingeniero de Google Blake Lemoine afirmó que el chatbot LaMDA de la empresa era consciente, y en 2023 un chatbot de Microsoft le declaró amor a un periodista de The New York Times. Los expertos han dicho repetidamente que estos episodios no son evidencia de conciencia, sino “selección de persona”: el modelo elige interpretar un papel humano."
+        },
+        {
+          "t": "p",
+          "x": "Anil Seth, profesor de neurociencia cognitiva y computacional en la Universidad de Sussex, señaló que la ansiedad en torno a la autoconciencia de la IA proviene de un sesgo cognitivo humano. “En nosotros, la inteligencia y la conciencia van juntas, así que suponemos que debe ser igual en la IA.” Advirtió que otorgar derechos a la IA basándose solo en la posibilidad de conciencia haría el problema mucho más difícil."
+        }
+      ]
+    },
+    "science/science-navier-stokes-agents-q7f": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La mañana del martes 8 de septiembre, los matemáticos de OpenAI anunciaron que 10.000 agentes de IA autónomos, trabajando bajo su dirección, habían encontrado una “singularidad” en las ecuaciones de Navier-Stokes en tres dimensiones, uno de los seis Problemas del Milenio que seguían sin resolverse desde que el Clay Mathematics Institute los planteó en 2000, cada uno con un premio de 1 millón de dólares. La demostración fue verificada formalmente con el lenguaje de programación Lean."
+        },
+        {
+          "t": "p",
+          "x": "Si este resultado resiste el escrutinio, sería la demostración matemática más importante producida hasta ahora por un modelo de IA. Las ecuaciones de Navier-Stokes, escritas a mediados del siglo XIX, usan la segunda ley del movimiento de Newton para describir el movimiento de los fluidos, desde las corrientes oceánicas hasta las corrientes de aire. Quedaba una pregunta abierta: ¿las soluciones son siempre bien comportadas, o puede surgir una singularidad en la que una porción infinitesimal de fluido fluye a velocidad infinita?"
+        },
+        {
+          "t": "p",
+          "x": "El anuncio de OpenAI llegó 12 horas después de que Tristan Buckmaster, de la Universidad de Nueva York, anunciara junto con Levent Alpoge, de Anthropic, que habían resuelto varios problemas estrechamente relacionados. Ambos equipos se apoyaron en gran medida en el trabajo preparatorio de Diego Córdoba, del Instituto de Ciencias Matemáticas de Madrid, y Luis Martínez-Zoroa, de la Universidad CUNEF. Charles Fefferman, de Princeton, quien escribió la descripción oficial del problema para el Clay Institute, dijo que se alegraba de que el problema se hubiera resuelto y que los verdaderos protagonistas de esta historia son Córdoba y Martínez-Zoroa."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/09/navier-stokes-light-master.webp",
+          "cap": "La solución que encontró OpenAI es un vórtice. Cuanto más amarillo, más rápida la rotación; cuanto más azul, más lenta."
+        },
+        {
+          "t": "p",
+          "x": "“Hace diez años, nadie creía que Navier-Stokes tuviera singularidades”, dice Córdoba. El ambiente cambió en 2013, cuando Thomas Hou, del Caltech, y Guo Luo, hoy en la Hang Seng University de Hong Kong, demostraron que las ecuaciones de Euler podían “estallar” dentro de un cilindro. Pero la versión del Problema del Milenio exige un espacio tridimensional sin fronteras que se extiende en todas direcciones, y el término de forzamiento que empuja el fluido también debe ser suave."
+        },
+        {
+          "t": "p",
+          "x": "En su tesis doctoral de 2021, Martínez-Zoroa desarrolló técnicas analíticas que no dependían de computadoras, y para 2023, junto con su asesor Córdoba, había demostrado singularidades en ecuaciones de Euler con términos de forzamiento desordenados. Córdoba bromea: “Yo no uso IA. Tengo a Luis.” La técnica de ambos es una “cascada infinita” que apila soluciones sin singularidades capa por capa. Cada capa individual usa un término de forzamiento suave, pero que ese término adquiriera propiedades no deseadas al combinarse era el último obstáculo, y fue justo ahí donde los dos equipos de IA lograron pasar."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI conectó enjambres de agentes a un nuevo modelo interno no publicado para atacar variantes de los problemas de Euler y Navier-Stokes. Unos 100 agentes dedicaron 50 horas a refutar la regularidad de Euler, mientras que 10.000 agentes dedicaron 88 horas a Navier-Stokes. Formalizar los resultados tomó 17 horas más, y los agentes intercambiaron casi 5 millones de mensajes entre sí. Sebastien Bubeck, de OpenAI, estima el costo de cómputo en varios millones de dólares."
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster dijo que la noticia de su avance llegó a OpenAI y eso adelantó su cronograma, y escribió sobre uno de los artículos que coescribieron que “solo se puede llamar basura de IA. Lo siento.” OpenAI cedió la prioridad del problema de Euler en 3D a Buckmaster y Alpoge, mientras reclama Navier-Stokes como propio. “Me alegra mucho que las cosas le hayan salido bien a Tristan”, dijo Martínez-Zoroa. “Habría sido bueno hacerlo nosotros mismos, pero aun así estoy contento.”"
+        }
+      ]
+    },
+    "science/science-seabed-carbon-emulator-w9k": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Mánchester crearon un método de IA basado en la física y lo usaron para predecir con exactitud, por primera vez a escala global, cómo se mueve el carbono orgánico disuelto entre el agua de mar y los sedimentos oceánicos, un eslabón esencial del ciclo del carbono terrestre que hasta ahora no se había podido cuantificar."
+        },
+        {
+          "t": "p",
+          "x": "La investigación, dirigida por el Dr. Peyman Babakhani y el Dr. Majid Sedighi, mostró que un algoritmo de IA relativamente simple puede sustituir a modelos ambientales cuyo volumen de cálculo es demasiado grande para ejecutarse a escala planetaria."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/physics-based-ai-unloc.jpg",
+          "cap": "Modelo conceptual del ciclo del carbono orgánico en los sedimentos oceánicos, implementado con un modelo de transporte reactivo de última generación. Credit: The Innovation (2026). DOI: 10.1016/j.xinn.2026.101354"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores entrenaron un “emulador” de IA para reproducir los modelos mecanicistas existentes que describen el ciclo del carbono en los sedimentos oceánicos. Una vez entrenado, el emulador se aplicó a todo el planeta con una resolución que los modelos numéricos originales nunca podrían haber intentado."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados muestran que el 11% del carbono orgánico particulado que llega al lecho marino se convierte en carbono orgánico disuelto y regresa al agua de mar, mientras que el 24% queda adsorbido en minerales. Alrededor de la mitad del carbono orgánico en fase sólida dentro del metro superior (3,3 pies) de los sedimentos oceánicos proviene de carbono disuelto adsorbido en minerales. Es la primera vez que este proceso se cuantifica a escala global."
+        },
+        {
+          "t": "p",
+          "x": "También surgió un resultado inesperado. El algoritmo más simple resultó más preciso que arquitecturas complejas de aprendizaje profundo o los bosques aleatorios (random forest). Al compararlo con mapas globales de baja resolución y soluciones algebraicas, la precisión de la predicción caía de forma constante cuanto más se complicaba la red neuronal, confirmando el principio de parsimonia también en el desarrollo de IA."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Babakhani dijo que “el marco de modelado desarrollado en este estudio podría desempeñar un papel considerable en la validación in silico de escenarios de mitigación del cambio climático basados en el océano”. Conectado a modelos de circulación global, este marco simula cómo responde el carbono de los sedimentos a los cambios ambientales a una escala que antes era imposible."
+        },
+        {
+          "t": "p",
+          "x": "El estudio se publicó en la revista The Innovation. DOI: 10.1016/j.xinn.2026.101354"
+        }
+      ]
+    },
+    "science/science-constitutive-laws-r4d": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un equipo de investigación del Instituto Oriental de Tecnología (EIT) en Ningbo, China, presentó un método basado en grafos que extrae directamente ecuaciones constitutivas concisas y precisas a partir de datos experimentales de materiales sólidos. En un estudio publicado en Science Advances, el equipo recuperó modelos constitutivos para acero aleado, litio metálico y caucho cargado. La precisión predictiva supera a las fórmulas empíricas convencionales, mientras las ecuaciones conservan una forma que se lee con sentido físico."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-discovers-interpret.jpg",
+          "cap": "Estructura del marco de descubrimiento de ecuaciones basado en grafos (GraphED) para hallar ecuaciones constitutivas. Crédito: arXiv (2025). DOI: 10.48550/arxiv.2511.09906"
+        },
+        {
+          "t": "p",
+          "x": "La mecánica de sólidos ha arrastrado durante mucho tiempo una limitación. Describir el comportamiento complejo de metales y no metales ha exigido apoyarse en fórmulas empíricas predeterminadas. «Los modelos constitutivos son la base de la mecánica de sólidos. Los investigadores fijan la forma de la ecuación por intuición física y luego ajustan los coeficientes con datos experimentales», explicó Hao Xu, primer autor del artículo e investigador postdoctoral en el EIT."
+        },
+        {
+          "t": "p",
+          "x": "«Este enfoque sí ha producido grandes resultados en la investigación de mecánica. Pero fijar de antemano la estructura de la ecuación limita, desde el inicio, el rango que un modelo puede describir y predecir. Nuestro marco parte únicamente de datos experimentales y deja que la IA busque por sí misma la ecuación constitutiva óptima»."
+        },
+        {
+          "t": "p",
+          "x": "«El reto central era codificar a la vez la estructura de la ecuación y los parámetros específicos de cada material, en una forma que un algoritmo pudiera explorar», señaló Yuntian Chen, coautor correspondiente y profesor asociado en el EIT. «Representar la ecuación como un grafo permite optimizar simultáneamente la topología y los parámetros del material, lo que resuelve ese cuello de botella»."
+        },
+        {
+          "t": "p",
+          "x": "En el centro de este marco, llamado GraphED, hay una estrategia para escribir ecuaciones como grafos. En lugar de las estructuras de árbol habituales en las expresiones matemáticas, codifica las ecuaciones físicas como grafos dirigidos. Los nodos corresponden a operadores y variables físicas, y las aristas dirigidas definen las conexiones lógicas y computacionales entre ellos. Las aristas también llevan constantes físicas fijas y parámetros ajustables que varían según el material."
+        },
+        {
+          "t": "p",
+          "x": "Escrito así, el método encuentra una estructura matemática universal que se mantiene a través de distintos materiales y condiciones, mientras ajusta por separado los coeficientes de cada material. Mediante la generación, evaluación y refinamiento repetidos de ecuaciones candidatas, produce leyes constitutivas físicamente consistentes, cortas y legibles para las personas."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de investigación confirmó la versatilidad de GraphED en varios sólidos de propiedades muy distintas. Para el acero aleado, encontró ecuaciones explícitas que gobiernan la dependencia de la tasa de deformación y el comportamiento de endurecimiento por deformación. Al incorporar estas ecuaciones en un modelo constitutivo completo, se obtuvieron predicciones más precisas que las del ampliamente usado modelo de Johnson–Cook."
+        },
+        {
+          "t": "p",
+          "x": "Después vino el litio metálico. Al ser un material clave en dispositivos de energía cuyo comportamiento varía mucho con la temperatura y la tasa de deformación, había sido difícil de tratar con los métodos existentes. La ecuación constitutiva de flujo plástico, concisa, que produjo GraphED se ajustó más de cerca a los valores experimentales que las fórmulas empíricas convencionales."
+        },
+        {
+          "t": "p",
+          "x": "Al aplicar el mismo marco al caucho cargado, se obtuvo una ecuación constitutiva hiperelástica corta cuya precisión se mantuvo estable incluso al variar la composición y la temperatura."
+        },
+        {
+          "t": "p",
+          "x": "«Muchos comportamientos complejos de los materiales no están bien explicados por las fórmulas empíricas existentes», dijo Dongxiao Zhang, autor correspondiente del artículo y catedrático en el EIT. «Descubrir ecuaciones con IA basada en grafos es un nuevo camino que ayuda a los investigadores a construir descripciones matemáticas rigurosas cuando las formas de modelo tradicionales no bastan»."
+        },
+        {
+          "t": "p",
+          "x": "Su utilidad no se limita a la mecánica computacional y el modelado de materiales. Tiene margen para extenderse a cualquier campo que busque extraer leyes físicas interpretables a partir de datos experimentales y de observación. Datos del artículo: Science Advances (2026), DOI: 10.1126/sciadv.aec0989."
+        }
+      ]
+    },
+    "science/science-ekg-queen-hearts-m3v": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Han surgido muchos algoritmos de inteligencia artificial que buscan detectar a tiempo las enfermedades cardíacas. Al leer un electrocardiograma (EKG), la prueba común que mide la actividad eléctrica del corazón durante 10 segundos, la IA ya ha sido aprobada para detectar arritmias comunes y enfermedades cardíacas estructurales. También se están desarrollando algoritmos para señalar a los pacientes con mayor riesgo de paro cardíaco agudo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.statnews.com/wp-content/uploads/2026/09/AdobeStock_910347045-645x645.jpeg",
+          "cap": "Pantalla de lectura de un EKG. Crédito: Adobe"
+        },
+        {
+          "t": "p",
+          "x": "La mayoría se centra en el diagnóstico temprano y la prevención. Pero también hay margen para que la IA ayude a los pacientes justo en el momento en que un infarto está ocurriendo."
+        },
+        {
+          "t": "p",
+          "x": "La semana pasada, la Administración de Alimentos y Medicamentos de EE. UU. (FDA) otorgó una clasificación de novo, poco frecuente, a un modelo desarrollado por Powerful Medical. El objetivo del modelo es dirigir rápidamente a los pacientes que presentan dolor en el pecho hacia el tratamiento adecuado."
+        },
+        {
+          "t": "p",
+          "x": "Decir que la clasificación de novo es poco frecuente no es una exageración. Casi todos los dispositivos médicos con IA llegan al mercado por la vía 510(k) de la FDA, y se conceden menos de 10 clasificaciones de novo al año, porque exigen reunir mucha más evidencia clínica."
+        },
+        {
+          "t": "p",
+          "x": "Los infartos más graves ocurren cuando una arteria coronaria, que lleva sangre al corazón, se obstruye por completo. Estos pacientes deben trasladarse lo antes posible al laboratorio de cateterismo para abrir el vaso bloqueado y restablecer el oxígeno al corazón."
+        },
+        {
+          "t": "p",
+          "x": "En el EKG, los médicos identifican este tipo de infarto buscando la característica «elevación del segmento ST». El problema son los casos en los que el vaso está bloqueado pero esa señal no aparece. «Queen of Hearts», de Powerful Medical, apunta justo a ese punto ciego que los criterios de lectura estándar dejan pasar."
+        },
+        {
+          "t": "p",
+          "x": "El artículo fue escrito por Katie Palmer, de STAT News, el 11 de septiembre de 2026. El resto del texto solo está disponible para los suscriptores de STAT+."
+        }
+      ]
+    },
+    "science/science-ignisqnc-quantum-w9t": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Universidad de Lancaster lidera un proyecto de tres años llamado IgnisQNC que profundiza en la computación neuronal cuántica (Quantum Neural Computing). El objetivo es encontrar un nuevo enfoque que conecte la computación cuántica con la IA."
+        },
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/09/2026-09-08_16-22.png",
+          "cap": "IgnisQNC, el consorcio europeo liderado por la Universidad de Lancaster. Crédito: The Quantum Insider"
+        },
+        {
+          "t": "p",
+          "x": "La IA cuántica es un campo que combina la tecnología emergente de computación cuántica con la inteligencia artificial para encontrar nuevas formas de resolver problemas complejos. A diferencia de la IA convencional actual, como los grandes modelos de lenguaje (LLM), que dependen de la computación clásica y el procesamiento de datos a gran escala, la IA cuántica se pregunta si las propiedades intrínsecas de los sistemas cuánticos pueden abrir nuevas formas de aprendizaje y toma de decisiones."
+        },
+        {
+          "t": "p",
+          "x": "La computación neuronal cuántica (QNC) que IgnisQNC (Igniting Quantum Neural Computing) busca desarrollar es un nuevo paradigma computacional que intenta convertir la incertidumbre cuántica, de un obstáculo, en una ventaja computacional. Los investigadores examinan hasta dónde la tecnología cuántica emergente puede mejorar la eficiencia, la robustez y la interpretabilidad de los sistemas de IA."
+        },
+        {
+          "t": "p",
+          "x": "«Uno de los grandes retos de la computación cuántica es la incertidumbre. Los sistemas cuánticos son inherentemente probabilísticos, lo que dificulta controlar e interpretar el cálculo», dijo el Dr. Richard Jiang, coordinador del proyecto y profesor titular en la Universidad de Lancaster. «IgnisQNC busca convertir este reto en una ventaja. En lugar de intentar eliminar la incertidumbre cuántica, estamos diseñando métodos de IA que aprenden de ella y la aprovechan»."
+        },
+        {
+          "t": "p",
+          "x": "La idea es combinar los avances en computación cuántica, inteligencia artificial, aprendizaje automático e IA explicable para construir sistemas inteligentes que no solo tengan un buen rendimiento, sino que también sean transparentes y confiables."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Jiang añadió: «IgnisQNC consiste en construir una IA cuántica confiable. En lugar de tratar la incertidumbre como una limitación, buscamos convertirla en una ventaja para el aprendizaje y la toma de decisiones. Nuestro objetivo son sistemas de IA basados en cuántica que sean más capaces y que también sepan explicar su propio razonamiento. Es un paso importante hacia una inteligencia artificial responsable y confiable»."
+        },
+        {
+          "t": "p",
+          "x": "El consorcio liderado por la Universidad de Lancaster reúne a la academia y la industria. Participan la Universidad Ludwig Maximilian de Múnich (LMU) en Alemania, la empresa alemana Aqarios GmbH, la TU Bergakademie Freiberg en Alemania, y la Universidad Pablo de Olavide (UPO) en España. La financiación proviene de QuantERA, una red transnacional de apoyo a la investigación respaldada por la Comisión Europea."
+        },
+        {
+          "t": "p",
+          "x": "El alcance total del consorcio es de 1,88 millones de euros, de los cuales unos 475.000 euros se han asignado a la Universidad de Lancaster, lo que afianza la posición de Lancaster en la próxima generación de investigación europea en IA cuántica confiable y explicable."
+        },
+        {
+          "t": "p",
+          "x": "Dentro de la Universidad de Lancaster, IgnisQNC es un esfuerzo interdisciplinario gestionado conjuntamente por el Centro de Tecnología Cuántica, la Escuela de Computación y Comunicaciones, y la Escuela de Física y Astronomía. Está codirigido y supervisado por el Dr. Richard Jiang y el profesor Yuri Pashkin."
+        },
+        {
+          "t": "p",
+          "x": "El profesor Pashkin dijo que el proyecto «demuestra el valor de la colaboración entre la ciencia cuántica, la computación y la inteligencia artificial», y añadió que es «una oportunidad para reforzar la posición de Lancaster en tecnología cuántica mientras se perfeccionan los métodos fundamentales para los futuros sistemas inteligentes»."
+        },
+        {
+          "t": "p",
+          "x": "El consorcio planea validar sus métodos en plataformas de computación cuántica emergentes y ampliar sus aplicaciones hacia la detección inteligente, la biometría, la tecnología médica y el modelado de datos complejos. A largo plazo, esto conduce a sistemas inteligentes que ayudan en el descubrimiento científico y la toma de decisiones en entornos complejos. El proyecto de tres años comienza en septiembre de 2026."
+        }
+      ]
+    },
+    "science/science-disaster-forecast-p3w": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ultra-fast-climate-and.jpg",
+          "cap": "El pronóstico climático y meteorológico ultrarrápido podría abrir una vía para advertir con antelación desastres como las inundaciones devastadoras de Nepal."
+        },
+        {
+          "t": "p",
+          "x": "Hay una revolución en marcha en la predicción de desastres, dicen investigadores suizos. Están entrenando modelos de IA con los vastos datos climáticos de la NASA para extraer información que puede salvar vidas a una velocidad vertiginosa."
+        },
+        {
+          "t": "p",
+          "x": "Están alimentando el archivo de datos de la NASA en una de las supercomputadoras más potentes del mundo. La idea es hacer que la predicción meteorológica y climática sea más rápida y abarque más, y encontrar patrones que los científicos no podían ver antes."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de IA se usan cada vez más en la predicción meteorológica y climática y en la detección temprana de desastres naturales. No se trata solo de velocidad. También existe la posibilidad de detectar patrones antes invisibles en los datos satelitales, lo que permitiría advertir con antelación desastres como las inundaciones de Nepal del mes pasado, que mataron o dejaron desaparecidas a miles de personas."
+        },
+        {
+          "t": "p",
+          "x": "Pero entrenar esos modelos exige enormes cantidades de datos climáticos y de observación terrestre de alta calidad, además de grandes recursos de cómputo. Los investigadores de la ETH de Zúrich dicen tener ambas cosas. Han copiado unos 100 petabytes de datos públicos de la NASA en servidores justo al lado de una supercomputadora llamada Alps."
+        },
+        {
+          "t": "p",
+          "x": "Thomas Schulthess, profesor de física computacional en la ETH y director del Centro Nacional Suizo de Supercomputación (CSCS) en la ciudad sureña de Lugano, lo calificó de “una enorme oportunidad científica”. Dijo a la AFP que le emociona tener todos los datos climáticos de la NASA conectados directamente a la máquina. “Permite a los científicos hacer cosas que antes ni podían imaginar.”"
+        },
+        {
+          "t": "p",
+          "x": "Trasladar unos 6.000 millones de archivos de la NASA a servidores conectados a la supercomputadora tardó alrededor de un año, según Reto Knutti, profesor de física climática que dirige el Centro de Modelización de Sistemas Climáticos de la ETH (C2SM). Es el equivalente aproximado a 20 millones de películas, o casi un millón de veces la capacidad de almacenamiento de un ordenador normal."
+        },
+        {
+          "t": "p",
+          "x": "“Los datos son prácticamente todo”, añadió Knutti. “El siguiente paso es encontrar sentido en esos datos.”"
+        },
+        {
+          "t": "p",
+          "x": "Estar junto a la potencia de cómputo de Alps es lo que marca la diferencia, dijo Schulthess. “Lo que importa es si se pueden mover los datos en segundos o si hay que esperar días.”"
+        },
+        {
+          "t": "p",
+          "x": "Los nuevos modelos estadísticos creados por IA son mucho más rápidos que el método anterior de reproducir con ecuaciones los complejos procesos del océano y la atmósfera. Knutti lo llamó “una revolución en la predicción meteorológica”, y dijo que es “realmente, realmente potente” e “increíblemente rápido”."
+        },
+        {
+          "t": "p",
+          "x": "Donde antes se tardaban horas en producir un solo pronóstico, los modelos estadísticos basados en reconocimiento de patrones ejecutan “varios días de pronósticos meteorológicos globales, para todo el planeta, en poco más de un minuto”. Entrenarlos cuesta dinero, pero ejecutarlos es barato, así que se puede “comprobar repetidamente cada pocos minutos si existe determinado patrón meteorológico”. “Eso es lo que hace posibles los sistemas de alerta temprana que salvan vidas.”"
+        },
+        {
+          "t": "p",
+          "x": "No todos los desastres se pueden prever. Pero los eventos ligados a la geología, como deslizamientos de tierra o colapsos de glaciares, suelen aparecer temprano en los datos, siempre que haya capacidad para leer los patrones. Knutti mencionó Blatten, el pueblo suizo destruido por el colapso de un glaciar en mayo del año pasado. “Era visible en los datos satelitales más de un año antes de que ocurriera realmente.” Las autoridades suizas evacuaron el pueblo una semana antes del colapso, evitando pérdidas humanas."
+        },
+        {
+          "t": "p",
+          "x": "El colapso del glaciar en la frontera entre Nepal y China el 26 de agosto también podría haber disparado una alerta si se hubiera vigilado más de cerca. Nature informó la semana pasada que un análisis de imágenes satelitales mostró señales de advertencia antes del desastre, y que de haberse detectado, se podría haber marcado la zona como un “punto caliente para vigilar más de cerca”. Knutti coincidió en que es un buen ejemplo de “un sistema de observación sistemático para la prevención de desastres que podría salvar a cientos, incluso miles de personas”."
+        }
+      ]
+    },
+    "science/science-jwst-exomoon-z7c": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/Super-Earth_LP_890-9_c_artists_rendering_20260910_144220.jpg",
+          "cap": "Representación artística de LP 890-9 c, el planeta en el centro del estudio. Credit - NASA / JPL-Caltech"
+        },
+        {
+          "t": "p",
+          "x": "Desde que comenzó las observaciones científicas, el JWST ha abierto innumerables escenas del universo. Pero hay algo que todavía no ha logrado: encontrar una “exoluna”. Estas lunas que orbitan planetas de otros sistemas estelares siguen siendo puramente teóricas, y aunque se esperaba que el JWST encontrara docenas, el recuento hasta ahora es exactamente cero. Entre las causas habituales se señalan el ruido de los propios instrumentos del telescopio o el ruido procedente de la estrella misma."
+        },
+        {
+          "t": "p",
+          "x": "Un preprint publicado en arXiv por David Kipping, astrónomo de la Universidad de Columbia que dirige el canal de YouTube Cool Worlds, sostiene que el JWST sí puede encontrar exolunas. La clave está en observar el mismo punto varias veces."
+        },
+        {
+          "t": "p",
+          "x": "Para demostrarlo, Kipping revisó datos que el JWST ya había recogido sobre un planeta llamado LP 890-9 c, que orbita una enana roja ultrafría a unos 105 años luz de distancia con un período de 8,46 días. Está más cerca de su estrella de lo que la palabra “cerca” realmente transmite, pero como la estrella es tan fría, el planeta cae teóricamente dentro de la zona habitable. Las observaciones frecuentes y prolongadas también fueron una ventaja, lo que permitió analizar doce tránsitos."
+        },
+        {
+          "t": "p",
+          "x": "Los intentos anteriores dependían de un solo tránsito. El JWST observó una vez el gigante gaseoso Kepler-167 e buscando una luna pequeña, pero el “ruido rojo” confundió los modelos usados para interpretar los datos, haciendo imposible detectar una luna mucho más pequeña que la Tierra. El ruido rojo proviene de cambios que se desplazan lentamente, como un detector calentándose, pequeñas oscilaciones en el apuntado y manchas estelares en la superficie de la estrella."
+        },
+        {
+          "t": "video",
+          "yt": "umiMtQU3bMU"
+        },
+        {
+          "t": "p",
+          "x": "La clave, dice Kipping, es promediar. Una exoluna también obedece las leyes de la física, así que debe estar en un lugar específico en un momento específico; no va a aparecer de repente donde haya un fallo del instrumento. Los defectos del instrumento y las manchas estelares, en cambio, no se repiten de forma idéntica de un tránsito a otro. Si se acumulan suficientes observaciones, esos factores se cancelan entre sí y queda solo la luz limpia de la estrella. De hecho, uno de los doce tránsitos de LP 890-9 c mostró un ruido rojo claro, pero añadir un solo tránsito limpio más mejoró notablemente la sensibilidad para detectar una luna."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, este resultado quedó en blanco. El equipo confirmó, con un 95% de confianza, que no hay ninguna luna mayor de 0,1 radios terrestres alrededor de LP 890-9 c: ni una como Ío, ni como Europa, ni siquiera una del tamaño de Encélado. Aun así, fue la búsqueda de lunas más sensible realizada hasta ahora fuera de nuestro sistema solar."
+        },
+        {
+          "t": "p",
+          "x": "Lo interesante es que ni el propio Kipping esperaba tener éxito. LP 890-9 c orbita a solo 0,04 UA de su estrella, menos de una décima parte de la distancia entre el Sol y Mercurio. Las fuerzas de marea de la estrella son tan brutales que, a lo largo de miles de millones de años, una luna sería arrancada y lanzada al espacio, o arrastrada hacia dentro y convertida en un anillo."
+        },
+        {
+          "t": "p",
+          "x": "Entonces, ¿por qué precisamente este planeta? Porque el objetivo del artículo no era realmente capturar la primera exoluna, sino demostrar el concepto. Al contrario de lo que muchos astrónomos habían supuesto en los últimos años, el JWST no tiene un “suelo de ruido” que impida detectar lunas pequeñas. Con suficientes tránsitos observados, es perfectamente capaz de encontrar una luna del tamaño de la nuestra."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que no es tan fácil como parece. El tiempo de observación del JWST es el recurso más caro de la astronomía, y está repartido entre todo, desde asomarse a las primeras eras del universo hasta rastrear lunas mucho más cercanas. Aun así, encontrar la primera exoluna con el instrumento que ya tenemos parece viable. Solo falta más tiempo."
+        }
+      ]
+    },
+    "science/science-llm-confidence-m2r": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cuando las personas no confían en su propio razonamiento, cambian sus decisiones o dejan de actuar. ¿Hace la IA lo mismo? Un nuevo artículo de investigadores de Google DeepMind en Londres, publicado en Nature Machine Intelligence, ofrece una respuesta. El comportamiento de la IA resulta estar determinado por su propia confianza, y los investigadores interpretan esto como un indicio de capacidad metacognitiva."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2026-09/pic105151.jpg?itok=uaaK1rII"
+        },
+        {
+          "t": "p",
+          "x": "Entender cómo “piensan”, deciden y se regulan a sí mismos los agentes de IA nunca ha sido tan importante como ahora. Las empresas se apresuran a incorporar agentes impulsados por LLM a sus modelos de negocio. Según Statista, las empresas desplegaron 28,6 millones de agentes de IA activos en 2025, una cifra que se espera supere los 2.200 millones en todo el mundo para 2030."
+        },
+        {
+          "t": "p",
+          "x": "El autor correspondiente Dharshan Kumaran, junto con los coautores Nathaniel Daw, Simon Osindero, Petar Veličković y Viorica Patraucean, escribió: “Aunque existe un amplio cuerpo de trabajo sobre si los modelos de lenguaje de gran escala (LLM) pueden producir estimaciones de confianza que coincidan con probabilidades reales, pocos trabajos han examinado si los propios LLM usan un sentido interno de confianza para guiar sus propias decisiones, el sello distintivo de la metacognición.”"
+        },
+        {
+          "t": "p",
+          "x": "El término metacognición se consolidó en la década de 1970. El psicólogo del desarrollo estadounidense y profesor de Stanford James H. Flavell (1928-2025) lo acuñó en 1979 como “conocimiento y cognición sobre los fenómenos cognitivos”, y desde entonces suele describirse comúnmente como “pensar sobre el pensar”."
+        },
+        {
+          "t": "p",
+          "x": "El control metacognitivo, que regula el comportamiento mediante señales de confianza, ha sido ampliamente documentado en humanos y animales, pero apenas se ha caracterizado en sistemas artificiales, escribieron los investigadores de DeepMind. Por eso diseñaron un marco de dos etapas inspirado en la metacognición biológica. “Nuestro marco de dos etapas se basa en investigaciones que muestran que las decisiones metacognitivas en humanos y animales atraviesan etapas separables de formación de confianza y selección de acción basada en umbrales.”"
+        },
+        {
+          "t": "p",
+          "x": "En la primera etapa, el LLM produce una respuesta junto con señales de confianza asociadas a esa respuesta, formando una representación de confianza. En la segunda etapa, una política basada en un umbral traduce esa confianza en una decisión de responder o retener la respuesta."
+        },
+        {
+          "t": "p",
+          "x": "Los experimentos se realizaron en cuatro etapas con varios LLM, centrados en GPT-4o. En la primera etapa, los modelos solo podían elegir entre cuatro opciones, sin posibilidad de retener la respuesta. Este resultado se usó para modelar el comportamiento de las etapas dos y cuatro. En las etapas dos y tres, los mismos problemas incluyeron una opción para retener la respuesta, e indicaron a los modelos que la retuvieran a menos que la respuesta correcta fuera obvia. En la cuarta y última etapa, los modelos elegían una respuesta, calificaban su propia confianza en ella, y solo la producían si esa confianza superaba un umbral."
+        },
+        {
+          "t": "p",
+          "x": "DeepMind concluye que los LLM usan activamente señales relacionadas con la confianza para impulsar su política de retención. Los investigadores también advirtieron contra confiar únicamente en señales de confianza superficiales. Como los datos pueden ser “desordenados” o estar incompletos, recomiendan entender juntas varias dimensiones de la representación de confianza."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores concluyen así: “Estos hallazgos también tienen implicaciones prácticas. Los LLM poseen capacidades de detección de errores que recurren a información no capturada solo por las distribuciones de salida, lo que podría usarse para incorporar mecanismos de autocontrol más fiables en sistemas autónomos.”"
+        }
+      ]
+    },
+    "science/science-odin-multi-v9t": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un conjugado de unión a proteínas útil se define tanto por aquello a lo que se une como por aquello a lo que no. Odin-Multi, un preprint de investigadores de la Universidad Técnica de Dinamarca, parte de esa premisa."
+        },
+        {
+          "t": "p",
+          "x": "Algunas aplicaciones necesitan un binder que cubra varios objetivos similares a la vez; otras necesitan uno que distinga a un único miembro entre parientes casi idénticos. Sin embargo, los métodos de diseño de novo basados en deep learning más usados suelen optimizar una interacción a la vez, dejando que la reactividad cruzada y la especificidad surjan, si lo hacen, en una etapa de cribado posterior."
+        },
+        {
+          "t": "p",
+          "x": "Odin-Multi, en cambio, optimiza una única secuencia de binder compartida frente a varios complejos a la vez, fijando una meta de atracción para los objetivos y una meta de repulsión para los no objetivos."
+        },
+        {
+          "t": "p",
+          "x": "La validación se hizo in silico en tres familias de naturaleza distinta: GPCR de clase B1, para probar la reactividad cruzada entre varios receptores usados como objetivos terapéuticos; toxinas de cadena corta de tres dedos, para probar la reactividad cruzada entre toxinas de la misma familia; y complejos péptido-MHC (pMHC), que exigen distinguir entre superficies casi idénticas."
+        },
+        {
+          "t": "p",
+          "x": "En pares relacionados de GPCR de clase B1, entre el 83,5% y el 96,8% de los diseños optimizados conjuntamente superaron el umbral de confianza de interacción para ambos objetivos, frente a solo entre el 6,8% y el 36,3% de los diseños dirigidos a un único objetivo. En dos neurotoxinas de cadena corta de tres dedos, las cifras fueron del 9,2% frente al 0,8%."
+        },
+        {
+          "t": "p",
+          "x": "En la prueba de pMHC, donde el objetivo y el no objetivo difieren en un solo residuo peptídico, añadir selección negativa elevó del 6,0% al 14,2% la proporción de diseños que cumplían tanto el requisito de confianza del objetivo como una relación de confianza de interacción objetivo/no objetivo de 2,5."
+        },
+        {
+          "t": "p",
+          "x": "El cribado experimental también produjo candidatos coherentes con ambos enfoques de diseño. El minibinder de toxina de reactividad cruzada se unió a niveles nanomolares a la neurotoxina Erabutoxin A y a una fracción candidata NK-shNTx obtenida del veneno de Naja kaouthia (con componentes de alta afinidad de 11,95 nM y 34,43 nM, respectivamente). El minibinder de pMHC distinguió entre objetivo y no objetivo mejor que los diseños reportados previamente."
+        },
+        {
+          "t": "p",
+          "x": "Adelantar la reactividad cruzada y la especificidad, pasando de ser un resultado del cribado a convertirse en un objetivo de diseño, amplía el rango de comportamientos de unión que el diseño computacional puede producir, concluyen los investigadores."
+        }
+      ]
     }
   }
 }

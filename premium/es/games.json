@@ -5328,6 +5328,56 @@
           "x": "Aun así, llegar a hacer un juego entero con IA y lanzarlo sigue siendo poco frecuente. Es difícil encontrar una razón para elegir Juggernaut por encima de los juegos que copia tan abiertamente. Por ahora solo se puede añadir a la lista de deseos, y todavía no tiene fecha de lanzamiento."
         }
       ]
+    },
+    "games/games-unity-claude-plugin-k7m": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Unity ha lanzado un plugin oficial para Claude Code. Es de primera parte. Las habilidades de ingeniería de Unity, la CLI de Unity y un servidor MCP de Unity que controla el editor en vivo se instalan todos a la vez."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/27fbaaaad054e76728f21d5349c429349a817927-1920x1080.png",
+          "cap": "El plugin oficial de Unity en el directorio de plugins de Claude Code"
+        },
+        {
+          "t": "p",
+          "x": "El texto lo escribió Rachel Zhao, responsable de producto de IA en Unity. Este año, la forma en que los desarrolladores llegan al motor Unity ha cambiado más rápido de lo que la mayoría esperaba. En lugar de abrir un navegador y buscar una página de descarga, cada vez más personas empiezan describiendo a un agente de codificación el juego que quieren hacer. Pero los agentes tienden a elegir el motor que pueden instalar, ejecutar y compartir dentro de la misma sesión."
+        },
+        {
+          "t": "p",
+          "x": "La CLI de Unity, presentada en Unite Seoul, fue el primer paso, pensado para orientar hacia el motor Unity los agentes de codificación que los desarrolladores ya usaban. Este plugin es una extensión de ese esfuerzo. Se instala tanto en la terminal como en Claude Code dentro de la aplicación Claude Desktop, y aparece en la lista de plugins asociados de Claude. Claude Code es el primer destino, y este año se ampliará a otros agentes de codificación."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/c8717365349d0766bba55b0194ea964e9d87a696-1871x1058.png",
+          "cap": "Los logotipos de Unity y Claude uno junto al otro sobre fondo negro"
+        },
+        {
+          "t": "p",
+          "x": "Zhao comparó el hecho de conectar sin más un agente genérico a un proyecto de Unity con contratar a un externo: con mucha experiencia y rápido, pero que nunca ha visto tu base de código, así que todo lo que produce ese día es una suposición plausible. Hará un atlas de sprites que funciona, pero no como lo hace tu equipo, y elegirá el framework de UI que conoce en lugar del que tu equipo ha fijado como estándar."
+        },
+        {
+          "t": "p",
+          "x": "El plugin reduce esa distancia. Le enseña al agente dónde guarda los assets un proyecto de Unity, cómo se debe construir un atlas correctamente y qué debe cumplir como mínimo una característica del renderizador URP para funcionar. Por ahora, 29 habilidades se instalan con un solo comando, sin archivos de configuración, sin preparación por proyecto y sin nada que copiar al pasar a una máquina nueva. Todo esto es trabajo que los desarrolladores de Unity ya hacen en una semana normal; lo que cambia es que el agente llega con las respuestas de Unity en lugar de armar una a partir de material de terceros."
+        },
+        {
+          "t": "p",
+          "x": "El conjunto de habilidades abarca desde la creación de proyectos nuevos y la CLI hasta la bifurcación entre UI Toolkit, uGUI e IMGUI, la optimización de TextMeshPro, el 2D a pixel perfecto y los atlas de sprites, la navegación por IA y el diagnóstico de colisiones 3D, las compras dentro de la app y los servicios en vivo, el multijugador, y la optimización de WebGL junto con la localización."
+        },
+        {
+          "t": "p",
+          "x": "Ya existen muchos plugins hechos por la comunidad y se usan ampliamente. Unity decidió involucrarse directamente porque son los equipos propietarios de cada función los que escriben las habilidades, estas pasan por revisión de seguridad y la documentación sigue el ritmo de los cambios del motor. Según la empresa, esto produce menos errores, usa menos tokens y termina en menos turnos que encargar una tarea desconocida sin habilidades."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.bfldr.com/S5BC9Y64/at/x695sv8bqq5mr3cqt7xccjcc/2026_Unity_PlugInClaude_VideoPromo_16-9_07.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Zhao sugirió instalarlo hoy mismo, abrir un proyecto y terminar una tarea tediosa: un atlas, un pase de localización, una compra dentro de la app, ese tipo de cosas."
+        }
+      ]
     }
   }
 }
