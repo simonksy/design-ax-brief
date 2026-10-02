@@ -3254,6 +3254,98 @@
           "x": "Si EarlyDetect ayudará a los pronósticos de clima espacial en las próximas décadas es una pregunta que solo el tiempo podrá responder."
         }
       ]
+    },
+    "science/science-earth-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/PlanetaryPredictionEngine_Hero.png",
+          "cap": "Las cuatro etapas del motor de predicción global, de la selección de datos a la generación del informe final"
+        },
+        {
+          "t": "p",
+          "x": "Google presentó el motor de predicción global (planetary prediction engine, PPE) como parte de Google Earth AI. Es una función de investigación experimental que ejecuta por sí sola todo el trabajo de modelado geoespacial, desde la exploración de datos hasta el entrenamiento del modelo, y mejora el rendimiento en salud pública, seguridad alimentaria, riesgo ambiental y predicción socioeconómica. Rama Pasumarthi y Shravya Shetty lo anunciaron el 27 de agosto."
+        },
+        {
+          "t": "p",
+          "x": "Prever la seguridad alimentaria local, calcular el riesgo de desastres y seguir brotes de enfermedades en tiempo real requiere modelos geoespaciales precisos. Pero el ecosistema de datos está fragmentado, lo que obliga a los especialistas a dedicar semanas a la limpieza de datos, la ingeniería de características y la validación espacial. El AutoML existente y los agentes basados en LLM dependen de datos tabulares ya ordenados, por lo que no pueden asumir solos el trabajo geoespacial."
+        },
+        {
+          "t": "p",
+          "x": "A partir de una sola consulta en lenguaje natural, PPE ejecuta todo el flujo de predicción, exploración, limpieza, entrenamiento y evaluación de datos, y hasta genera un informe. Según la explicación, el proceso que antes tomaba semanas de trabajo humano con los datos se redujo a minutos."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo se divide en tres etapas dirigidas por un LLM. La etapa 1, selección inteligente de datos, traduce la consulta en restricciones geográficas como resolución espacial, claves de unión y rango temporal, formula hipótesis y verifica señales directas y señales proxy causales contra la literatura. Obtiene covariables de Data Commons y Google Earth Engine, y cuando falta una señal, busca en portales gubernamentales y repositorios académicos en tiempo real durante la inferencia."
+        },
+        {
+          "t": "p",
+          "x": "En la etapa 2, curaduría multimodal, se combinan las covariables con PDFM, que captura estados latentes sociodemográficos, y con embeddings de AlphaEarth, que captura el significado de las imágenes satelitales. Una “puerta de características” aplica cuatro criterios contra fugas de datos a cada candidato, filtrando subcomponentes matemáticos, datos de encuestas compartidas, efectos causales posteriores y datos de fechas futuras. La etapa 3 es la construcción automática de modelos, que alterna entre modelos lineales regularizados, GBDT y perceptrones multicapa, detectando fallos de generalización con protocolos contra el sobreajuste y un bucle de autocorrección."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/PlanetaryPredictionEngine1_Workflow.gif",
+          "cap": "El flujo de trabajo completo de PPE. Un LLM dirige cada una de las tres etapas"
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento se confirmó en varias tareas. En 21 indicadores de salud de los CDC de Estados Unidos, el R² promedio de PPE fue de 76,8%, por delante del 60,0% de los pipelines construidos por expertos humanos. En el Índice Nacional de Riesgo de FEMA fue de 64,9% frente a 60,0%, y en el Índice de Vulnerabilidad Social, de 66,2% frente a 58,6%."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/PlanetaryPredictionEngine2_NigeriaFoodSecurit.width-1250.png",
+          "cap": "Reducción de escala de superresolución de la seguridad alimentaria en Nigeria (de nivel estatal ADM1 a nivel de gobierno local ADM2)"
+        },
+        {
+          "t": "p",
+          "x": "En las regiones con escasez de datos, las estadísticas regionales imprecisas ocultan la vulnerabilidad local. Al combinar por sí solo choques de mercado, anomalías en los precios de alimentos e indicadores microclimáticos, PPE duplicó la precisión al reducir la escala de la seguridad alimentaria de Nigeria del nivel estatal (ADM1) al de gobierno local (ADM2) (R² 66,1% frente a 31,5%). En el brote del virus del Ébola Bundibugyo de 2026 en la República Democrática del Congo, registró un Recall@10 de 83,3%, acertando en 15 de las 18 zonas sanitarias recién infectadas durante cinco semanas consecutivas de predicciones, 10,3 puntos porcentuales por encima del mejor modelo bayesiano existente (alrededor del 73%)."
+        },
+        {
+          "t": "p",
+          "x": "Un hallazgo que recorre todo el conjunto de experimentos es la sinergia que surge al usar juntas las covariables estadísticas y los embeddings de modelos fundacionales. Las covariables estadísticas aportan señales explícitas e interpretables, mientras que los embeddings de PDFM y AlphaEarth capturan patrones no lineales aprendidos en un preentrenamiento a gran escala. Google describe PPE como una investigación en etapa temprana, pero afirma que reduce la barrera para que investigadores y organizaciones de ayuda humanitaria construyan modelos sin un equipo de ingeniería dedicado."
+        }
+      ]
+    },
+    "science/science-quera-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/Quera.png",
+          "cap": "La computadora cuántica de átomos neutros de QuEra"
+        },
+        {
+          "t": "p",
+          "x": "QuEra Computing dijo que restauró el sistema láser de una computadora cuántica en segundos usando software escrito por un agente de IA. La empresa afirma que esto puede aliviar la carga de necesitar un experto junto a cada equipo instalado en la sede de un cliente."
+        },
+        {
+          "t": "p",
+          "x": "La empresa, con sede en Boston, explicó en un comunicado que Claude, de Anthropic, escribió y probó el programa de control por sí mismo. El sistema láser, sometido a cientos de perturbaciones en simulación y en el entorno real, se recuperó con ese programa. El trabajo se realizó dentro de una vista previa de investigación del Model Hardware Standard (MHS), un marco creado para que los agentes de IA manejen equipos de laboratorio y producción dentro de límites de seguridad definidos."
+        },
+        {
+          "t": "p",
+          "x": "La computadora de QuEra manipula átomos neutros con láseres controlados con precisión, y esos átomos actúan como qubits. Incluso una pequeña variación de frecuencia detiene el cálculo y exige restablecer lo que se llama el bloqueo del láser. Las fallas comunes ya se recuperan automáticamente, y el Aquila de 256 qubits, disponible en Amazon Braket, mantiene un tiempo de actividad superior al 99%. Lo que quedaba eran las fallas complejas que requerían juicio humano."
+        },
+        {
+          "t": "p",
+          "x": "Antes, cuatro expertos pasaban de dos a tres semanas escribiendo a mano los scripts de recuperación. Aun así, esos scripts solo podían manejar fallas que los ingenieros habían previsto y codificado de antemano. La empresa trasladó este problema a Claude a través de MHS. El agente experimentó en un banco de pruebas láser dedicado, evaluó los resultados y corrigió su enfoque, funcionando sin parar toda la noche a través de cientos de casos de falla."
+        },
+        {
+          "t": "p",
+          "x": "Los ingenieros fijaron los límites de operación del agente y revisaron sus resultados. Las personas también establecieron los criterios de éxito. Del lado del hardware, los ingenieros especificaron límites de seguridad, bloqueos de interconexión y procedimientos de parada de emergencia que el agente debía seguir. Una vez terminado el desarrollo, Claude dejó de intervenir en el láser. Lo que queda es un programa ordinario que los ingenieros pueden inspeccionar y verificar, y ahora la recuperación corre a cargo de ese programa sin el juicio de ningún modelo de IA."
+        },
+        {
+          "t": "p",
+          "x": "En 700 pruebas que cubrieron siete tipos de falla, el controlador devolvió el láser a su estado objetivo 695 veces. Nunca informó falsamente un éxito tras una recuperación fallida. La empresa explicó que los cinco fallos se debieron a problemas del aparato experimental, no a defectos del controlador. La mayoría se completó en 6 segundos, y hasta los casos más difíciles tomaron entre 10 y 14 segundos, una tarea que a una persona suele tomarle de 5 a 10 minutos."
+        },
+        {
+          "t": "p",
+          "x": "El banco de pruebas no estaba en una sala de ensayo aislada, sino dentro de un laboratorio real por el que circulaba gente, y toda perturbación que surgió naturalmente durante el período de prueba se recuperó sin intervención humana. La configuración que encontró el agente redujo el ruido restante a una quinta parte y también evitó que el bloqueo se perdiera durante la operación sin supervisión. Al aplicar el mismo método a láseres de otras longitudes de onda, el sistema ajustó su configuración mediante una ejecución nocturna sin supervisión, una tarea que de otro modo tomaría semanas."
+        },
+        {
+          "t": "p",
+          "x": "“Durante años, lo más difícil de escalar las computadoras cuánticas no fue la física, sino la persona que conducía a las 2 a.m. para arreglar un bloqueo de láser”, dijo Sergio H. Cantu, vicepresidente de sistemas cuánticos de QuEra. Aun así, esta prueba se limitó a un solo subsistema y no demuestra que toda una computadora cuántica pueda cuidarse sola. MHS fue lanzado conjuntamente por Anthropic y el Janelia Research Campus del Howard Hughes Medical Institute, y sigue siendo una vista previa de investigación limitada mientras se revisa su diseño de seguridad."
+        }
+      ]
     }
   }
 }

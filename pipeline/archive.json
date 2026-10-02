@@ -45566,6 +45566,14 @@
     "ja": {
      "headline": "生成でなく\n編集にも電子透かし",
      "body": "新規作成でなく編集だけでも印が付き、見せかけの順守と批判される。"
+    },
+    "zh": {
+     "headline": "非生成而是\n编辑也打水印",
+     "body": "哪怕只是润色而非重新撰写,也会被打上水印,因而被批走形式。"
+    },
+    "es": {
+     "headline": "La marca de agua de Claude\nse aplica también al editar",
+     "body": "Como hasta los simples retoques, y no solo los textos nuevos, quedan marcados, hay críticas de teatro de cumplimiento."
     }
    }
   },
@@ -45580,7 +45588,29 @@
    "motif": "swatch",
    "date": "2026-08-29",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "AI 학습용 책 파쇄, FTC에 조사 요청",
+     "body": "AI 학습용으로 종이책을 사들여 스캔하고 버리는 관행을 살펴봐 달라고 십수 개 단체가 FTC에 요청했다."
+    },
+    "en": {
+     "headline": "Groups ask FTC to probe\nbook shredding for AI training",
+     "body": "More than a dozen groups asked the FTC to examine buying and scanning print books, then discarding them, to train AI."
+    },
+    "ja": {
+     "headline": "AI学習用に\n書籍破棄をFTCに訴え",
+     "body": "AI学習で紙の本を買ってスキャンし捨てる慣行をFTCに調査要請。"
+    },
+    "zh": {
+     "headline": "AI训练毁书\n团体请FTC调查",
+     "body": "十余个团体请求FTC调查买纸书扫描后再销毁原书的这一做法。"
+    },
+    "es": {
+     "headline": "Piden a la FTC investigar\nla trituración de libros para IA",
+     "body": "Más de una docena de grupos pidió a la FTC revisar cómo las empresas escanean libros para IA y descartan los originales."
+    }
+   }
   },
   {
    "id": "books-kindle-catalog-dilution",
@@ -45594,7 +45624,17 @@
    "image": "pipeline/media/books-kindle-catalog-dilution.jpg",
    "date": "2026-08-29",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "카탈로그는 38배 늘고\n매출은 8.9배에 그쳤다",
+     "body": "AI 책이 쏟아지며 킨들 카탈로그가 38.3배 늘 때 매출은 8.9배에 머물렀다."
+    },
+    "ja": {
+     "headline": "カタログは38倍\n売上は8.9倍止まり",
+     "body": "AI本が増え、Kindleカタログは38.3倍、売上は8.9倍にとどまった。"
+    }
+   }
   },
   {
    "id": "books-naver-webtoon-byus",
@@ -45818,7 +45858,17 @@
    "image": "pipeline/media/games-saber-craft.jpg",
    "date": "2026-08-29",
    "section": "games",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "정말 좋은 AI 게임 한 편이면\n여론이 뒤집힌다는 세이버의 말",
+     "body": "세이버의 CCO는 잘 만든 AI 게임 한 편이면 여론이 하룻밤에 뒤집힌다고 봤다."
+    },
+    "ja": {
+     "headline": "AIゲーム1本で\n世論一変、セイバー",
+     "body": "セイバーのCCOは、出来の良いAIゲーム1本で世論は一晩で変わるとみる。"
+    }
+   }
   },
   {
    "id": "games-tripo-topology",
@@ -45832,7 +45882,29 @@
    "image": "pipeline/media/games-tripo-topology.jpg",
    "date": "2026-08-29",
    "section": "games",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "AI 메시의 발목을 잡던 토폴로지,\n트라이포는 10초 만에 끝낸다",
+     "body": "스마트 메시는 게임에 바로 쓰는 토폴로지로 캐릭터를 10초 안에 뽑는다."
+    },
+    "en": {
+     "headline": "Topology held back AI mesh,\nTripo finishes it in 10 seconds",
+     "body": "Smart Mesh produces game-ready characters with usable topology in under 10 seconds."
+    },
+    "ja": {
+     "headline": "AIメッシュの壁\nTripoは10秒で解決",
+     "body": "Smart Meshはゲームで使えるトポロジーのキャラクターを10秒で作る。"
+    },
+    "zh": {
+     "headline": "曾困扰AI网格\nTripo10秒搞定",
+     "body": "Smart Mesh能在10秒内生成可直接用于游戏的拓扑角色。"
+    },
+    "es": {
+     "headline": "La topología frenaba la IA,\nTripo la resuelve en 10 seg",
+     "body": "Smart Mesh genera personajes listos para usar en el juego con una topología utilizable en menos de 10 segundos."
+    }
+   }
   },
   {
    "id": "movies-astro-burn-microseries",
@@ -45846,7 +45918,21 @@
    "image": null,
    "date": "2026-08-29",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "'애스트로 번', 자기 에셋만\n학습한 모델로 만든 세로 시리즈",
+     "body": "생성형 AI를 미심쩍어하던 감독이 자기 에셋만 학습시킨 모델로 세로형 숏폼 열 편을 뽑아냈다."
+    },
+    "en": {
+     "headline": "'Astro Burn' used a model\ntrained only on its own assets",
+     "body": "A director wary of generative AI used a model trained only on his own assets to make ten vertical shorts."
+    },
+    "ja": {
+     "headline": "自前データのみで\n縦型シリーズ誕生",
+     "body": "生成AIに懐疑的な監督が、自分のアセットだけを学習したモデルで縦型ショート10本を作った。"
+    }
+   }
   },
   {
    "id": "movies-de-aging-uncanny",
@@ -46028,7 +46114,29 @@
    "image": "pipeline/media/science-earth-ai.png",
    "date": "2026-08-29",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "전지구 예측 모델 만드는 일,\n파이프라인이 통째로 넘겨받는다",
+     "body": "구글이 지구 관측 데이터로 전지구 예측 모델을 스스로 세우는 파이프라인을 내놨다."
+    },
+    "en": {
+     "headline": "Building global forecast models\nnow runs on one pipeline",
+     "body": "Google introduced a pipeline that builds global forecast models from Earth observation data on its own."
+    },
+    "ja": {
+     "headline": "全球予測モデル構築\nパイプラインが一括担当",
+     "body": "グーグルが地球観測データから全球予測モデルを自動構築するパイプラインを発表した。"
+    },
+    "zh": {
+     "headline": "构建全球预测模型\n流水线全权接管",
+     "body": "谷歌推出了能用地球观测数据自主构建全球预测模型的流水线。"
+    },
+    "es": {
+     "headline": "Construir predicción global\nahora lo asume el pipeline",
+     "body": "Google presentó un pipeline que construye modelos de predicción global a partir de datos terrestres."
+    }
+   }
   },
   {
    "id": "science-quera-claude",
@@ -46042,7 +46150,29 @@
    "image": "pipeline/media/science-quera-claude.jpg",
    "date": "2026-08-29",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "중성원자 양자컴퓨터 보정,\n이제 AI 에이전트가 돌린다",
+     "body": "QuEra가 Claude에 맡겨 중성원자 양자컴퓨터의 레이저 보정을 자동화했다."
+    },
+    "en": {
+     "headline": "Neutral-atom quantum computer\ncalibration now run by AI agents",
+     "body": "QuEra used Claude to automate laser calibration for its neutral-atom quantum computer."
+    },
+    "ja": {
+     "headline": "中性原子量子計算機\n補正、今はAIが担う",
+     "body": "QuEraはClaudeに任せ、中性原子量子計算機のレーザー補正を自動化した。"
+    },
+    "zh": {
+     "headline": "中性原子量子计算机\n校准现在交给AI智能体",
+     "body": "QuEra借助Claude实现了中性原子量子计算机激光校准的自动化。"
+    },
+    "es": {
+     "headline": "Calibrar computadoras cuánticas\nde átomos neutros, ahora por IA",
+     "body": "QuEra recurrió a Claude para automatizar la calibración láser de su computadora cuántica de átomos neutros."
+    }
+   }
   },
   {
    "id": "books-academic-ai-screening",
@@ -46055,7 +46185,21 @@
    "motif": "swatch",
    "date": "2026-08-30",
    "section": "books",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "학술 출판사들이 먼저 만든\nAI 원고 심사 도구와 지침",
+     "body": "AI 슬롭에 시달리는 단행본 쪽보다 학술 출판이 먼저 심사 도구와 지침을 갖췄다."
+    },
+    "en": {
+     "headline": "Academic publishing built\nAI screening tools and guides",
+     "body": "Academic publishing built AI screening tools and guidelines before trade publishing, which struggles with AI slop."
+    },
+    "ja": {
+     "headline": "学術出版が先行\nAI審査ツールと指針",
+     "body": "AIスロップに苦しむ単行本より、学術出版が先に審査ツールと指針を整えた。"
+    }
+   }
   },
   {
    "id": "books-bartz-ai-thriller",

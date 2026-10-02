@@ -16628,10 +16628,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "학술 출판사들이 먼저 만든\nAI 원고 심사 도구와 지침",
-  "body": "AI 슬롭에 시달리는 단행본 쪽보다 학술 출판이 먼저 심사 도구와 지침을 갖췄다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Academic publishing built\nAI screening tools and guides",
+  "body": "Academic publishing built AI screening tools and guidelines before trade publishing, which struggles with AI slop.",
+  "lang": "en"
  },
  {
   "id": "science-quera-claude",
@@ -16644,10 +16643,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "중성원자 양자컴퓨터 보정,\n이제 AI 에이전트가 돌린다",
-  "body": "QuEra가 Claude에 맡겨 중성원자 양자컴퓨터의 레이저 보정을 자동화했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Neutral-atom quantum computer\ncalibration now run by AI agents",
+  "body": "QuEra used Claude to automate laser calibration for its neutral-atom quantum computer.",
+  "lang": "en"
  },
  {
   "id": "science-earth-ai",
@@ -16660,10 +16658,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "전지구 예측 모델 만드는 일,\n파이프라인이 통째로 넘겨받는다",
-  "body": "구글이 지구 관측 데이터로 전지구 예측 모델을 스스로 세우는 파이프라인을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Building global forecast models\nnow runs on one pipeline",
+  "body": "Google introduced a pipeline that builds global forecast models from Earth observation data on its own.",
+  "lang": "en"
  },
  {
   "id": "science-bench-leak",
@@ -16868,10 +16865,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "'애스트로 번', 자기 에셋만\n학습한 모델로 만든 세로 시리즈",
-  "body": "생성형 AI를 미심쩍어하던 감독이 자기 에셋만 학습시킨 모델로 세로형 숏폼 열 편을 뽑아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "'Astro Burn' used a model\ntrained only on its own assets",
+  "body": "A director wary of generative AI used a model trained only on his own assets to make ten vertical shorts.",
+  "lang": "en"
  },
  {
   "id": "games-tripo-topology",
@@ -16884,10 +16880,9 @@
   "date": "2026-08-29",
   "section": "games",
   "has_full": true,
-  "headline": "AI 메시의 발목을 잡던 토폴로지,\n트라이포는 10초 만에 끝낸다",
-  "body": "스마트 메시는 게임에 바로 쓰는 토폴로지로 캐릭터를 10초 안에 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Topology held back AI mesh,\nTripo finishes it in 10 seconds",
+  "body": "Smart Mesh produces game-ready characters with usable topology in under 10 seconds.",
+  "lang": "en"
  },
  {
   "id": "games-saber-craft",
@@ -17171,10 +17166,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습용 책 파쇄, FTC에 조사 요청",
-  "body": "AI 학습용으로 종이책을 사들여 스캔하고 버리는 관행을 살펴봐 달라고 십수 개 단체가 FTC에 요청했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Groups ask FTC to probe\nbook shredding for AI training",
+  "body": "More than a dozen groups asked the FTC to examine buying and scanning print books, then discarding them, to train AI.",
+  "lang": "en"
  },
  {
   "id": "books-claude-watermark-theatre",
@@ -17384,10 +17378,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "전직 애니메이터와 촬영감독이\nAI 숏드라마 시스템을 짓는다",
-  "body": "애니메이터와 VFX 아티스트들이 대본부터 수정까지 맡는 숏드라마 AI를 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "A Former Animator and a\nCinematographer Build AI Drama",
+  "body": "Animators and VFX artists are building short-drama AI that handles everything from scripts to edits.",
+  "lang": "en"
  },
  {
   "id": "games-tencent-motus",
@@ -17400,10 +17393,9 @@
   "date": "2026-08-28",
   "section": "games",
   "has_full": true,
-  "headline": "Tencent가 애니메이션부터 테스트까지\nAI 툴체인을 통째로 공개했다",
-  "body": "Tencent가 3D 애니메이션 AI Motus와 자동 테스트 도구를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Tencent's AI Toolchain Spans\nFrom Animation to Testing",
+  "body": "Tencent unveiled Motus, its 3D animation AI, along with automated testing tools.",
+  "lang": "en"
  },
  {
   "id": "games-side-modlai-qa",
@@ -17838,10 +17830,9 @@
   "date": "2026-08-27",
   "section": "music",
   "has_full": true,
-  "headline": "아무 오디오 파일이나 떨어뜨리면\n머신러닝이 스펙트럼 팔레트로 바꾼다",
-  "body": "오디오 파일을 연주 가능한 Tone Color로 쪼갠 뒤 비슷한 것끼리 묶는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Drop in any audio file, and\nML turns it into a spectrum",
+  "body": "It splits audio files into playable Tone Colors, then groups similar ones together.",
+  "lang": "en"
  },
  {
   "id": "movies-unreleased-video-models",
@@ -17854,10 +17845,9 @@
   "date": "2026-08-27",
   "section": "movies",
   "has_full": true,
-  "headline": "코드명만 붙은 영상 모델 두 개\n출력물을 하나씩 뜯어봤다",
-  "body": "블라인드 테스트에 나타난 두 모델의 출력을 뜯고 무료 레퍼런스 라이브러리도 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Two video models with only\ncode names, picked apart",
+  "body": "It breaks down the outputs of two models from a blind test and covers a free reference library.",
+  "lang": "en"
  },
  {
   "id": "movies-lineo-producers",

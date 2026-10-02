@@ -2846,6 +2846,58 @@
           "x": "Crotty mismo no usa ninguna herramienta de IA. Para él, escribir es pensar. Externalizar la escritura, dice, equivale a externalizar el pensamiento. Lo que le preocupa es el aumento de textos comunes y que todos se parecen. Los modelos de lenguaje de gran tamaño son máquinas que predicen la siguiente palabra, así que todo lo arrastran hacia el centro. Como ocurre con la investigación, el valor de un texto está en los extremos, y si todo se concentra en medio de una curva de campana, lo único que queda es homogeneización y descubrimientos perdidos."
         }
       ]
+    },
+    "books/books-claude-watermark-theatre": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A partir del 2 de agosto, Anthropic añade una marca de agua invisible a todo texto y archivo que produce Claude. La medida busca cumplir con las disposiciones de transparencia de la Ley de IA de la UE, pero se aplica a nivel mundial, no solo en Europa. El método sigue a SynthID Text, que Google DeepMind publicó en 2024."
+        },
+        {
+          "t": "p",
+          "x": "La controversia empieza por el punto donde se aplica la marca. Incluso cuando a Claude solo se le pide editar —corregir, traducir o resumir— en lugar de escribir algo nuevo, el resultado conserva la marca de agua. Anthropic mismo ha insistido en que esta marca es solo una señal, no una prueba. Detectarla solo indica que el texto pasó por Claude en algún momento; no dice quién lo escribió."
+        },
+        {
+          "t": "p",
+          "x": "El artículo 50 de la Ley de IA de la UE establece, de hecho, que esta obligación no se aplica cuando la IA solo ayuda con una edición estándar o no altera sustancialmente la entrada. Marcar también la asistencia de edición va más allá de lo que exige la ley, y ahí es donde entra la crítica de 'teatro de cumplimiento'."
+        },
+        {
+          "t": "p",
+          "x": "La disposición en sí tiene un peso real. La obligación de transparencia del artículo 50 entró en vigor el 2 de agosto. Incumplirla conlleva una multa de hasta 15 millones de euros o el 3% de los ingresos anuales globales, lo que sea mayor."
+        },
+        {
+          "t": "p",
+          "x": "También queda un vacío en la dirección contraria. Si una frase se reescribe mucho, se traduce a otro idioma o es muy corta, incluso un texto genuinamente escrito por Claude no mostrará la marca. Lo mismo ocurre con la salida de modelos antiguos que nunca aplicaron marca de agua."
+        },
+        {
+          "t": "p",
+          "x": "Este artículo de Jane Friedman solo está disponible en su totalidad para suscriptores de pago."
+        }
+      ]
+    },
+    "books/books-ftc-book-destruction": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Se presentó una solicitud ante la Comisión Federal de Comercio de EE. UU. (FTC) para que examine la práctica de comprar libros impresos, escanearlos para entrenar modelos de IA y luego desechar los originales. La firmaron más de una docena de organizaciones."
+        },
+        {
+          "t": "p",
+          "x": "Entre los participantes están el Demand Progress Education Fund, la Consumer Federation of America y el Institute for Local Self-Reliance. Calificaron esta práctica como una táctica destructiva de adquisición de datos por parte de empresas de IA dominantes, y pidieron a la FTC determinar si constituye un método de competencia desleal. El argumento es que, cuando un libro escaneado desaparece del mercado, otros investigadores y las empresas que llegan después pierden por igual el acceso al mismo original."
+        },
+        {
+          "t": "p",
+          "x": "Ya existe un ejemplo conocido. Anthropic compró millones de copias impresas al por mayor, las digitalizó y desechó los libros físicos. El nombre interno de este trabajo era 'Project Panama'. Un memo interno de 2024 lo describía como “nuestro esfuerzo por escanear destructivamente todos los libros del mundo”."
+        },
+        {
+          "t": "p",
+          "x": "Lo que más preocupa a estos grupos son las ediciones raras. Si quedan muy pocas copias de un libro, el único ejemplar que compra una empresa de digitalización podría ser el último físico, y desaparece para siempre en el momento en que termina el escaneo."
+        },
+        {
+          "t": "p",
+          "x": "Este artículo de Jane Friedman solo está disponible en su totalidad para suscriptores de pago."
+        }
+      ]
     }
   }
 }

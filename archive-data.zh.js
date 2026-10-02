@@ -16637,9 +16637,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "학술 출판사들이 먼저 만든\nAI 원고 심사 도구와 지침",
-  "body": "AI 슬롭에 시달리는 단행본 쪽보다 학술 출판이 먼저 심사 도구와 지침을 갖췄다.",
-  "lang": "ko",
+  "headline": "Academic publishing built\nAI screening tools and guides",
+  "body": "Academic publishing built AI screening tools and guidelines before trade publishing, which struggles with AI slop.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16653,10 +16653,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "중성원자 양자컴퓨터 보정,\n이제 AI 에이전트가 돌린다",
-  "body": "QuEra가 Claude에 맡겨 중성원자 양자컴퓨터의 레이저 보정을 자동화했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "中性原子量子计算机\n校准现在交给AI智能体",
+  "body": "QuEra借助Claude实现了中性原子量子计算机激光校准的自动化。",
+  "lang": "zh"
  },
  {
   "id": "science-earth-ai",
@@ -16669,10 +16668,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "전지구 예측 모델 만드는 일,\n파이프라인이 통째로 넘겨받는다",
-  "body": "구글이 지구 관측 데이터로 전지구 예측 모델을 스스로 세우는 파이프라인을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "构建全球预测模型\n流水线全权接管",
+  "body": "谷歌推出了能用地球观测数据自主构建全球预测模型的流水线。",
+  "lang": "zh"
  },
  {
   "id": "science-bench-leak",
@@ -16877,9 +16875,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "'애스트로 번', 자기 에셋만\n학습한 모델로 만든 세로 시리즈",
-  "body": "생성형 AI를 미심쩍어하던 감독이 자기 에셋만 학습시킨 모델로 세로형 숏폼 열 편을 뽑아냈다.",
-  "lang": "ko",
+  "headline": "'Astro Burn' used a model\ntrained only on its own assets",
+  "body": "A director wary of generative AI used a model trained only on his own assets to make ten vertical shorts.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16893,10 +16891,9 @@
   "date": "2026-08-29",
   "section": "games",
   "has_full": true,
-  "headline": "AI 메시의 발목을 잡던 토폴로지,\n트라이포는 10초 만에 끝낸다",
-  "body": "스마트 메시는 게임에 바로 쓰는 토폴로지로 캐릭터를 10초 안에 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "曾困扰AI网格\nTripo10秒搞定",
+  "body": "Smart Mesh能在10秒内生成可直接用于游戏的拓扑角色。",
+  "lang": "zh"
  },
  {
   "id": "games-saber-craft",
@@ -17180,10 +17177,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습용 책 파쇄, FTC에 조사 요청",
-  "body": "AI 학습용으로 종이책을 사들여 스캔하고 버리는 관행을 살펴봐 달라고 십수 개 단체가 FTC에 요청했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI训练毁书\n团体请FTC调查",
+  "body": "十余个团体请求FTC调查买纸书扫描后再销毁原书的这一做法。",
+  "lang": "zh"
  },
  {
   "id": "books-claude-watermark-theatre",
@@ -17195,10 +17191,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "Claude's watermark lands even\non edits, not just new text",
-  "body": "Because even touch-ups, not just new writing, get flagged, critics call it compliance theater.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "非生成而是\n编辑也打水印",
+  "body": "哪怕只是润色而非重新撰写,也会被打上水印,因而被批走形式。",
+  "lang": "zh"
  },
  {
   "id": "science-solar-storm-9h",
@@ -17395,10 +17390,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "전직 애니메이터와 촬영감독이\nAI 숏드라마 시스템을 짓는다",
-  "body": "애니메이터와 VFX 아티스트들이 대본부터 수정까지 맡는 숏드라마 AI를 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "前动画师与\n摄影师造AI剧",
+  "body": "动画师和VFX艺术家在打造一套从剧本到修改都由AI完成的短剧系统。",
+  "lang": "zh"
  },
  {
   "id": "games-tencent-motus",
@@ -17411,10 +17405,9 @@
   "date": "2026-08-28",
   "section": "games",
   "has_full": true,
-  "headline": "Tencent가 애니메이션부터 테스트까지\nAI 툴체인을 통째로 공개했다",
-  "body": "Tencent가 3D 애니메이션 AI Motus와 자동 테스트 도구를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Tencent全套\nAI工具链公开",
+  "body": "Tencent公开了3D动画AI Motus与自动测试工具。",
+  "lang": "zh"
  },
  {
   "id": "games-side-modlai-qa",
@@ -17427,10 +17420,9 @@
   "date": "2026-08-28",
   "section": "games",
   "has_full": true,
-  "headline": "AI Joins Game QA, but Humans\nStay in the Loop",
-  "body": "Side teams up with Modl.ai to bring AI into QA while leaving final judgment to people.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "游戏QA引入AI\n人始终在环内",
+  "body": "Side与Modl.ai合作，在QA中使用AI，但判断权留给人。",
+  "lang": "zh"
  },
  {
   "id": "games-meta-xr-operator",
@@ -17852,9 +17844,9 @@
   "date": "2026-08-27",
   "section": "music",
   "has_full": true,
-  "headline": "아무 오디오 파일이나 떨어뜨리면\n머신러닝이 스펙트럼 팔레트로 바꾼다",
-  "body": "오디오 파일을 연주 가능한 Tone Color로 쪼갠 뒤 비슷한 것끼리 묶는다.",
-  "lang": "ko",
+  "headline": "Drop in any audio file, and\nML turns it into a spectrum",
+  "body": "It splits audio files into playable Tone Colors, then groups similar ones together.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -17868,10 +17860,9 @@
   "date": "2026-08-27",
   "section": "movies",
   "has_full": true,
-  "headline": "코드명만 붙은 영상 모델 두 개\n출력물을 하나씩 뜯어봤다",
-  "body": "블라인드 테스트에 나타난 두 모델의 출력을 뜯고 무료 레퍼런스 라이브러리도 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "两个只有代号\n的视频模型拆解",
+  "body": "拆解盲测中出现的两个模型的输出，还顺带介绍一个免费参考库。",
+  "lang": "zh"
  },
  {
   "id": "movies-lineo-producers",
@@ -17884,10 +17875,9 @@
   "date": "2026-08-27",
   "section": "movies",
   "has_full": true,
-  "headline": "From bidding to final wrap, AI\nfills the production ledgers",
-  "body": "It gathers AICP budgets, purchase orders, and payroll on one screen, and AI writes bid letters and receipts.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "从投标到最终\n结算，AI填账",
+  "body": "AICP把预算、订单和薪资集中到一屏，AI负责撰写投标函和收据。",
+  "lang": "zh"
  },
  {
   "id": "movies-human-gen-workflows",

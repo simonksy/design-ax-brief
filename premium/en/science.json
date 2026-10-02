@@ -3282,6 +3282,98 @@
           "x": "Whether EarlyDetect will help space weather forecasting over the coming decades is a question only time can answer."
         }
       ]
+    },
+    "science/science-earth-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/PlanetaryPredictionEngine_Hero.png",
+          "cap": "The four stages of the planetary prediction engine, from data selection to final report generation"
+        },
+        {
+          "t": "p",
+          "x": "Google has unveiled the planetary prediction engine (PPE) as part of Google Earth AI. It is an experimental research feature that runs an entire geospatial modeling workflow on its own, from data exploration to model training, and it has improved performance in public health, food security, environmental risk, and socioeconomic forecasting. Rama Pasumarthi and Shravya Shetty announced it on August 27."
+        },
+        {
+          "t": "p",
+          "x": "Forecasting local food security, gauging disaster risk, and tracking disease outbreaks in real time all require precise geospatial models. But the data ecosystem is fragmented, forcing specialists to spend weeks on data cleaning, feature engineering, and spatial validation. Existing AutoML systems and LLM-based agents rely on already-cleaned tabular data, so they cannot handle geospatial work on their own."
+        },
+        {
+          "t": "p",
+          "x": "Starting from a single natural-language query, PPE runs the entire forecasting workflow, data exploration, cleaning, training, and evaluation, and even produces a report. Google says the weeks-long process that once required people to handle the data has been reduced to minutes."
+        },
+        {
+          "t": "p",
+          "x": "The work is split into three stages, each directed by an LLM. Stage 1, intelligent data selection, translates the query into geographic constraints such as spatial resolution, join keys, and time range, then forms hypotheses and checks direct and causal proxy signals against the literature. It pulls covariates from Data Commons and Google Earth Engine, and when a signal is missing, it searches government portals and academic repositories in real time at inference."
+        },
+        {
+          "t": "p",
+          "x": "Stage 2, multimodal curation, combines the covariates with PDFM, which captures latent sociodemographic states, and AlphaEarth embeddings, which capture satellite imagery semantics. A “feature gate” applies four leakage-prevention checks to each candidate, filtering out mathematical sub-components, shared survey data, downstream causal effects, and future-dated data. Stage 3 is automated model building, which moves between regularized linear models, GBDTs, and multilayer perceptrons, catching generalization failures with overfitting-prevention protocols and a self-correction loop."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/PlanetaryPredictionEngine1_Workflow.gif",
+          "cap": "PPE's full workflow, with an LLM directing each of the three stages"
+        },
+        {
+          "t": "p",
+          "x": "Performance was confirmed across several tasks. Across 21 U.S. CDC health indicators, PPE's average R² reached 76.8%, ahead of the 60.0% from pipelines built by human experts. For the FEMA National Risk Index it was 64.9% versus 60.0%, and for the Social Vulnerability Index, 66.2% versus 58.6%."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/PlanetaryPredictionEngine2_NigeriaFoodSecurit.width-1250.png",
+          "cap": "Super-resolution downscaling of Nigeria's food security data (ADM1 state level to ADM2 local government level)"
+        },
+        {
+          "t": "p",
+          "x": "In data-poor regions, coarse regional statistics obscure local vulnerability. By combining market shocks, food price anomalies, and microclimate indicators on its own, PPE doubled the accuracy of downscaling Nigeria's food security data from the state (ADM1) to the local government (ADM2) level (R² 66.1% versus 31.5%). In the Democratic Republic of the Congo's 2026 Bundibugyo ebolavirus outbreak, it posted a Recall@10 of 83.3%, correctly identifying 15 of 18 newly infected health zones across five consecutive weeks of forecasts, 10.3 percentage points above the best existing Bayesian model (about 73%)."
+        },
+        {
+          "t": "p",
+          "x": "A finding that runs through all the experiments is the synergy that emerges when statistical covariates and foundation-model embeddings are used together. Statistical covariates provide interpretable, explicit signals, while PDFM and AlphaEarth embeddings capture nonlinear patterns learned through large-scale pretraining. Google frames PPE as early-stage research, but says it lowers the barrier for researchers and humanitarian organizations to build models without a dedicated engineering team."
+        }
+      ]
+    },
+    "science/science-quera-claude": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/Quera.png",
+          "cap": "QuEra's neutral-atom quantum computer"
+        },
+        {
+          "t": "p",
+          "x": "QuEra Computing said it restored a quantum computer's laser system in seconds using software written by an AI agent. The company says this could ease the burden of needing an expert at every machine installed at a customer site."
+        },
+        {
+          "t": "p",
+          "x": "The Boston-based company said in a press release that Anthropic's Claude wrote and tested the control program itself. The laser system, subjected to hundreds of disturbances in simulation and in the real environment, was recovered using that program. The work was done in a research preview of the Model Hardware Standard (MHS), a framework built for AI agents to operate lab and production equipment within defined safety limits."
+        },
+        {
+          "t": "p",
+          "x": "QuEra's computer manipulates neutral atoms using precisely controlled lasers, and these atoms serve as qubits. Even a small frequency drift halts computation and requires re-establishing what is called the laser lock. Common failures are already auto-recovered, and the 256-qubit Aquila, available on Amazon Braket, maintains over 99% uptime. What remained were the complex failures that required human judgment."
+        },
+        {
+          "t": "p",
+          "x": "Previously, four experts spent two to three weeks hand-writing recovery scripts. Even then, those scripts could only handle failures that engineers had anticipated and coded for in advance. The company handed this problem to Claude through MHS. The agent experimented on a dedicated laser testbed, evaluated the results, and revised its approach, running nonstop overnight through hundreds of failure cases."
+        },
+        {
+          "t": "p",
+          "x": "Engineers set the limits on the agent's operation and reviewed its output. People also set the success criteria. On the hardware side, engineers specified safety boundaries, interlocks, and emergency-stop procedures for the agent to follow. Once development finished, Claude let go of the laser. What remains is an ordinary program that engineers can inspect and verify, and recovery is now handled by that program without any AI model's judgment."
+        },
+        {
+          "t": "p",
+          "x": "Across 700 trials spanning seven failure types, the controller returned the laser to its target state 695 times. It never falsely reported success after a failed recovery. The company said the five failures stemmed from issues with the experimental apparatus, not controller defects. Most recoveries finished within 6 seconds, and even the hardest cases took 10 to 14 seconds, a task that typically takes a person 5 to 10 minutes."
+        },
+        {
+          "t": "p",
+          "x": "The testbed sat not in an isolated test chamber but inside an active lab where people came and went, and every disturbance that arose naturally during the trial period was recovered without human hands. The configuration the agent found cut remaining noise to a fifth and also prevented the lock from slipping during unattended operation. Applying the same approach to lasers of other wavelengths, the system tuned its configuration through an unattended overnight run, a task that would otherwise take weeks."
+        },
+        {
+          "t": "p",
+          "x": "“For years, the hardest part of scaling up quantum computers wasn't the physics, it was the person driving in at 2 a.m. to fix a laser lock,” said Sergio H. Cantu, QuEra's vice president of quantum systems. Still, this trial covered only a single subsystem, and it is not proof that an entire quantum computer can look after itself. MHS was launched jointly by Anthropic and the Janelia Research Campus of the Howard Hughes Medical Institute, and it remains a limited research preview while its safety design is under review."
+        }
+      ]
     }
   }
 }

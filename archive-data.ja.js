@@ -16633,10 +16633,9 @@
   "date": "2026-08-30",
   "section": "books",
   "has_full": true,
-  "headline": "학술 출판사들이 먼저 만든\nAI 원고 심사 도구와 지침",
-  "body": "AI 슬롭에 시달리는 단행본 쪽보다 학술 출판이 먼저 심사 도구와 지침을 갖췄다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "学術出版が先行\nAI審査ツールと指針",
+  "body": "AIスロップに苦しむ単行本より、学術出版が先に審査ツールと指針を整えた。",
+  "lang": "ja"
  },
  {
   "id": "science-quera-claude",
@@ -16649,10 +16648,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "중성원자 양자컴퓨터 보정,\n이제 AI 에이전트가 돌린다",
-  "body": "QuEra가 Claude에 맡겨 중성원자 양자컴퓨터의 레이저 보정을 자동화했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "中性原子量子計算機\n補正、今はAIが担う",
+  "body": "QuEraはClaudeに任せ、中性原子量子計算機のレーザー補正を自動化した。",
+  "lang": "ja"
  },
  {
   "id": "science-earth-ai",
@@ -16665,10 +16663,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "전지구 예측 모델 만드는 일,\n파이프라인이 통째로 넘겨받는다",
-  "body": "구글이 지구 관측 데이터로 전지구 예측 모델을 스스로 세우는 파이프라인을 내놨다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "全球予測モデル構築\nパイプラインが一括担当",
+  "body": "グーグルが地球観測データから全球予測モデルを自動構築するパイプラインを発表した。",
+  "lang": "ja"
  },
  {
   "id": "science-bench-leak",
@@ -16873,10 +16870,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "'애스트로 번', 자기 에셋만\n학습한 모델로 만든 세로 시리즈",
-  "body": "생성형 AI를 미심쩍어하던 감독이 자기 에셋만 학습시킨 모델로 세로형 숏폼 열 편을 뽑아냈다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "自前データのみで\n縦型シリーズ誕生",
+  "body": "生成AIに懐疑的な監督が、自分のアセットだけを学習したモデルで縦型ショート10本を作った。",
+  "lang": "ja"
  },
  {
   "id": "games-tripo-topology",
@@ -16889,10 +16885,9 @@
   "date": "2026-08-29",
   "section": "games",
   "has_full": true,
-  "headline": "AI 메시의 발목을 잡던 토폴로지,\n트라이포는 10초 만에 끝낸다",
-  "body": "스마트 메시는 게임에 바로 쓰는 토폴로지로 캐릭터를 10초 안에 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIメッシュの壁\nTripoは10秒で解決",
+  "body": "Smart Meshはゲームで使えるトポロジーのキャラクターを10秒で作る。",
+  "lang": "ja"
  },
  {
   "id": "games-saber-craft",
@@ -16905,10 +16900,9 @@
   "date": "2026-08-29",
   "section": "games",
   "has_full": true,
-  "headline": "정말 좋은 AI 게임 한 편이면\n여론이 뒤집힌다는 세이버의 말",
-  "body": "세이버의 CCO는 잘 만든 AI 게임 한 편이면 여론이 하룻밤에 뒤집힌다고 봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AIゲーム1本で\n世論一変、セイバー",
+  "body": "セイバーのCCOは、出来の良いAIゲーム1本で世論は一晩で変わるとみる。",
+  "lang": "ja"
  },
  {
   "id": "games-id-genai",
@@ -17161,10 +17155,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "카탈로그는 38배 늘고\n매출은 8.9배에 그쳤다",
-  "body": "AI 책이 쏟아지며 킨들 카탈로그가 38.3배 늘 때 매출은 8.9배에 머물렀다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "カタログは38倍\n売上は8.9倍止まり",
+  "body": "AI本が増え、Kindleカタログは38.3倍、売上は8.9倍にとどまった。",
+  "lang": "ja"
  },
  {
   "id": "books-ftc-book-destruction",
@@ -17176,10 +17169,9 @@
   "date": "2026-08-29",
   "section": "books",
   "has_full": true,
-  "headline": "AI 학습용 책 파쇄, FTC에 조사 요청",
-  "body": "AI 학습용으로 종이책을 사들여 스캔하고 버리는 관행을 살펴봐 달라고 십수 개 단체가 FTC에 요청했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI学習用に\n書籍破棄をFTCに訴え",
+  "body": "AI学習で紙の本を買ってスキャンし捨てる慣行をFTCに調査要請。",
+  "lang": "ja"
  },
  {
   "id": "books-claude-watermark-theatre",
@@ -17390,10 +17382,9 @@
   "date": "2026-08-28",
   "section": "movies",
   "has_full": true,
-  "headline": "전직 애니메이터와 촬영감독이\nAI 숏드라마 시스템을 짓는다",
-  "body": "애니메이터와 VFX 아티스트들이 대본부터 수정까지 맡는 숏드라마 AI를 만든다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "元アニメーター\nがAIドラマ製作",
+  "body": "アニメーターとVFXアーティストが脚本から修正まで担うショートドラマAIを作る。",
+  "lang": "ja"
  },
  {
   "id": "games-tencent-motus",
@@ -17406,10 +17397,9 @@
   "date": "2026-08-28",
   "section": "games",
   "has_full": true,
-  "headline": "Tencent가 애니메이션부터 테스트까지\nAI 툴체인을 통째로 공개했다",
-  "body": "Tencent가 3D 애니메이션 AI Motus와 자동 테스트 도구를 공개했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Tencentが一括\nAIツール群公開",
+  "body": "Tencentが3DアニメーションAI Motusと自動テストツールを公開した。",
+  "lang": "ja"
  },
  {
   "id": "games-side-modlai-qa",
@@ -17844,10 +17834,9 @@
   "date": "2026-08-27",
   "section": "music",
   "has_full": true,
-  "headline": "아무 오디오 파일이나 떨어뜨리면\n머신러닝이 스펙트럼 팔레트로 바꾼다",
-  "body": "오디오 파일을 연주 가능한 Tone Color로 쪼갠 뒤 비슷한 것끼리 묶는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "音声ファイルを\nMLがスペクトル化",
+  "body": "音声ファイルを演奏可能なTone Colorに分割し、似たもの同士でまとめる。",
+  "lang": "ja"
  },
  {
   "id": "movies-unreleased-video-models",
@@ -17860,10 +17849,9 @@
   "date": "2026-08-27",
   "section": "movies",
   "has_full": true,
-  "headline": "코드명만 붙은 영상 모델 두 개\n출력물을 하나씩 뜯어봤다",
-  "body": "블라인드 테스트에 나타난 두 모델의 출력을 뜯고 무료 레퍼런스 라이브러리도 짚는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "コード名だけの\n映像モデル2つ比較",
+  "body": "ブラインドテストに現れた2モデルの出力を分析し、無料参照ライブラリも紹介する。",
+  "lang": "ja"
  },
  {
   "id": "movies-lineo-producers",

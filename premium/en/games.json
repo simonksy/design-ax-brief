@@ -3540,6 +3540,54 @@
           "x": "The message Tencent put forward at Gamescom 2026 is that these technologies are moving past demo showcases to become reusable parts of real development pipelines. Research on world models and real-time interactive video continues as well. Tencent hasn't yet said which games will use the technology going forward."
         }
       ]
+    },
+    "games/games-tripo-topology": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dr. Yanpei Cao, co-founder and chief scientist of Tripo, talked about Smart Mesh, how to produce usable topology in seconds, Gaussian splats, and the shift from generating a single asset to a complete interactive world."
+        },
+        {
+          "t": "video",
+          "yt": "HqrBaTeY_98"
+        },
+        {
+          "t": "p",
+          "x": "Generating a 3D model from a single image has gotten much easier in the past few years. The problem is that the result isn't immediately usable. Messy topology, materials that are hard to touch up, and uneven geometry mean a lot of cleanup has to happen before it can go into a pipeline."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/f9/images/6a8ca8c5276d6/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Cao studied geometry processing and reconstruction at Tsinghua University and co-founded Owlii, which was later acquired by Kuaishou. He became convinced then that slow, fragmented 3D production was a bottleneck, and when generative AI appeared, he decided to build a platform that would lower the barrier to entry."
+        },
+        {
+          "t": "p",
+          "x": "Tripo Smart Mesh, released this year, draws on the SIGGRAPH research Nexus. From a single image, it produces game-ready assets with clean edge flow instead of polygon soup. Results come back end-to-end in under 5 seconds, so developers can throw out 20 or 50 prompts and pick a direction a few seconds later. The output goes straight into Blender, Maya, or Unity."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/83/images/6a8ca8bb8ce1f/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Input can be a single line of text, several reference images, or an entire character sheet. There's also a way to refine geometry and textures directly with a Magic Brush. TripoSplat, released under an MIT license, was supported by Comfy from day one."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/86/images/6a8ca8b22b42d/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Generating a finished character takes under a minute with the high-resolution H series, and under 10 seconds with Smart Mesh. Polygon counts come out around 20,000, and the edge flow is usable as is. Billing is token-based."
+        },
+        {
+          "t": "p",
+          "x": "Dr. Cao named three things as the next homework: moving from a single asset to environments and interaction, attaching the code and logic that build environments, and a world model that predicts the next few minutes. Once those three come together, artists will spend their time setting direction instead of making assets and writing scripts."
+        }
+      ]
     }
   }
 }

@@ -3374,6 +3374,54 @@
           "x": "El mensaje que Tencent transmitió en Gamescom 2026 es que estas tecnologías están dejando de ser demostraciones para convertirse en piezas reutilizables de pipelines de desarrollo reales. También continúa la investigación sobre modelos de mundo y video interactivo en tiempo real. Tencent todavía no ha dicho en qué juegos usará esta tecnología de aquí en adelante."
         }
       ]
+    },
+    "games/games-tripo-topology": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Dr. Yanpei Cao, cofundador y científico jefe de Tripo, habló sobre Smart Mesh, cómo generar una topología utilizable en segundos, los Gaussian splats y el paso de generar un solo activo a un mundo interactivo completo."
+        },
+        {
+          "t": "video",
+          "yt": "HqrBaTeY_98"
+        },
+        {
+          "t": "p",
+          "x": "Generar un modelo 3D a partir de una sola imagen se ha vuelto mucho más fácil en los últimos años. El problema es que el resultado no se puede usar de inmediato. Una topología desordenada, materiales difíciles de retocar y una geometría irregular obligan a hacer mucha limpieza antes de meterlo en el pipeline."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/f9/images/6a8ca8c5276d6/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Cao estudió procesamiento y reconstrucción de geometría en la Universidad de Tsinghua y cofundó Owlii, empresa adquirida después por Kuaishou. Entonces se convenció de que la producción 3D lenta y fragmentada era un cuello de botella, y cuando apareció la IA generativa, decidió crear una plataforma que redujera la barrera de entrada."
+        },
+        {
+          "t": "p",
+          "x": "Tripo Smart Mesh, lanzado este año, se apoya en la investigación de SIGGRAPH llamada Nexus. A partir de una sola imagen, genera activos listos para usar en juegos con un flujo de bordes limpio en lugar de una sopa de polígonos. El resultado llega de extremo a extremo en menos de 5 segundos, así que los desarrolladores pueden lanzar 20 o 50 prompts y elegir una dirección unos segundos después. El resultado pasa directo a Blender, Maya o Unity."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/83/images/6a8ca8bb8ce1f/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La entrada puede ser una sola línea de texto, varias imágenes de referencia o una hoja de personaje completa. También dejaron abierta la opción de retocar la geometría y las texturas directamente con un Magic Brush. TripoSplat, publicado con licencia MIT, tuvo el apoyo de Comfy desde el primer día."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/86/images/6a8ca8b22b42d/widen_1840x0.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Generar un personaje terminado toma menos de un minuto con la serie H de alta resolución, y menos de 10 segundos con Smart Mesh. Los polígonos rondan los 20.000 y el flujo de bordes se puede usar tal cual. El cobro es por tokens."
+        },
+        {
+          "t": "p",
+          "x": "El Dr. Cao señaló tres tareas pendientes: pasar de un solo activo a entornos e interacción, añadir el código y la lógica que construyen los entornos, y un modelo de mundo que prediga los próximos minutos. Cuando esas tres piezas se combinen, los artistas dedicarán su tiempo a definir la dirección en lugar de crear activos y escribir scripts."
+        }
+      ]
     }
   }
 }

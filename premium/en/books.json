@@ -3010,6 +3010,50 @@
           "x": "Crotty himself doesn't use AI tools at all. To him, writing is thinking. Outsourcing the writing, he said, amounts to outsourcing the thinking. What worries him is the rise of writing that's ordinary and all looks alike. Large language models are machines that predict the next word, so they pull everything toward the middle. As with research, value in writing sits at the extremes, and if everything gets pulled into the middle of a bell curve, all that's left is homogenization and missed discoveries."
         }
       ]
+    },
+    "books/books-ftc-book-destruction": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A request has been filed with the U.S. Federal Trade Commission (FTC), asking it to examine the practice of buying print books, scanning them to train AI models, and discarding the originals. A dozen or more organizations signed on."
+        },
+        {
+          "t": "p",
+          "x": "Participants include the Demand Progress Education Fund, Consumer Federation of America, and the Institute for Local Self-Reliance. They framed the practice as a destructive data-acquisition tactic by dominant AI companies, and asked the FTC to determine whether it amounts to an unfair method of competition. The logic is that once a scanned book disappears from the market, other researchers and later entrants alike lose access to the same original."
+        },
+        {
+          "t": "p",
+          "x": "There's already a known example. Anthropic bought millions of print copies in bulk, digitized them, and discarded the physical books. The internal name for the effort was 'Project Panama.' A 2024 internal memo described it as “our effort to destructively scan every book in the world.”"
+        },
+        {
+          "t": "p",
+          "x": "The groups particularly object to rare editions. If very few copies of a book remain, the single copy a digitizing company buys could be the last physical one, and it disappears forever the moment the scan is done."
+        },
+        {
+          "t": "p",
+          "x": "This article by Jane Friedman is available in full only to paid subscribers."
+        }
+      ]
+    },
+    "books/books-academic-ai-screening": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Bookstores are being buried in AI slop, and the publishing industry is questioning whether manuscripts really came from human hands. Academic publishing faces the same problem, but its response is a step ahead."
+        },
+        {
+          "t": "p",
+          "x": "Publishers Lunch notes that the verification tools and author guidelines built by the academic side could also serve as a reference for trade publishing."
+        },
+        {
+          "t": "p",
+          "x": "Journal submissions have grown sharply. There's no way to prove it, but many papers show signs of AI, medical journal editor Itamar Ashkenazi said at a Committee on Publication Ethics (COPE) presentation. Examples include papers with mixed-in errors or authors with an abnormally high number of papers over just a few years."
+        },
+        {
+          "t": "p",
+          "x": "The article moves behind a paywall at the sentence noting that generative AI has some useful applications, that's as far as the free portion goes. Katie Hershberger wrote it on August 21."
+        }
+      ]
     }
   }
 }

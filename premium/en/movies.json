@@ -3229,6 +3229,54 @@
           "x": "The feature the host singles out as something they haven't seen anywhere else is visual search: feed in your own AI-generated output, and it finds real film shots in the same visual family. It also shows a workflow of uploading screenshots to a Flora canvas and chaining them with prompts. The price really is free."
         }
       ]
+    },
+    "movies/movies-astro-burn-microseries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A game developer and director of RIFT, who has described himself as skeptical of generative AI, teamed up with Nura Studios to turn his retro game into ten vertical shorts releasing one per day. They were made on the Showcraft platform with a locked model trained only on his own assets. They can be watched on TikTok, YouTube Shorts, and Instagram."
+        },
+        {
+          "t": "p",
+          "x": "An AI-assisted animated microseries has been attached to Astro Burn, a retro pixel-art game made without any AI at all. The first of ten one-minute vertical episodes went live today, with one more posting each day for ten days on TikTok, YouTube Shorts, and Instagram."
+        },
+        {
+          "t": "p",
+          "x": "Game developer, director, and producer HaZ Dulull made the animated feature RIFT and Max Beyond, and has handled cinematics for games like Dune Awakening. This time, together with Nura Studios, he rebuilt the game's characters and world as vertical shorts. Production took place on Showcraft, an AI-assisted content creation platform Nura released this past April. It follows Rainbow Hollow, a stop-motion-style series the same platform released earlier this month."
+        },
+        {
+          "t": "p",
+          "x": "Dulull went into this project skeptical of generative AI. His condition was that the game's identity be preserved. “Showcraft is designed for producers and creators like me who care deeply about their own IP,” Dulull said. “I wanted full control over a locked model trained only on my own assets, so that ASTROBURN's visual identity would hold up to the very end.”"
+        },
+        {
+          "t": "p",
+          "x": "Dulull served as showrunner and producer, while Nura Studios writer and director Abe Scheuermann finished the script, animation, sound design, voice recording, music, cleanup, and final delivery for each episode in about a week of working days."
+        },
+        {
+          "t": "p",
+          "x": "Here's the teaser."
+        },
+        {
+          "t": "video",
+          "yt": "-T-WcVolzzE"
+        },
+        {
+          "t": "p",
+          "x": "Every spot calling for acting used a human. Graziela Larroca voiced Astro, Elvis Deane voiced AL, and Brian Ulrich played several supporting roles in rotation. The music was written by a human composer, licensed through Epidemic Sound, and edited to picture."
+        },
+        {
+          "t": "p",
+          "x": "“I much prefer human voice actors. They bring nuance to a performance that AI-generated voices rarely have,” Scheuermann said. “Same with music,” Dulull added. “AI won't tell your story for you. That's your job. This worked because the technology supported a clear creative vision, not because we threw random ideas or prompts at it and pulled out random shots.”"
+        },
+        {
+          "t": "p",
+          "x": "“Microseries are a powerful way for indie developers to promote their game where players already spend their time,” said Isabelle Riva, executive producer and VP of content at Nura Studios."
+        },
+        {
+          "t": "p",
+          "x": "Astro Burn is a 'cute 'em up' developed by Dulull's game studio Beyond the Pixels and published by Pixel Doors. It came out on PC and Mac via Steam and GOG this past July, with mobile and console ports in the works."
+        }
+      ]
     }
   }
 }
