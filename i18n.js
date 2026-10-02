@@ -39,7 +39,7 @@
       "align-items:center;justify-content:flex-end;gap:8px;padding:0 14px;box-sizing:border-box;" +
       // 별도 영역처럼 보이지 않게 — 페이지 맨 위 배경색 그대로에 가는 구분선만.
       "background:#f4f0e9;border-bottom:1px solid rgba(40,30,20,.07);}" +
-      "body{padding-top:52px;}" +
+      "body{padding-top:52px;}html.ax-nobar body{padding-top:0;}" +
       "@media (max-width:720px){#ax-topbar{height:48px;padding:0 10px;gap:6px;}body{padding-top:48px;}}" +
       "#ax-globe{position:relative;z-index:200;flex:0 0 auto;display:flex;align-items:center;" +
       "justify-content:center;width:36px;height:36px;border-radius:50%;border:1px solid rgba(23,23,23,.22);" +
@@ -75,14 +75,14 @@
       // 이미 구독한 사람이 새 기기에서 들어오면 로그인할 입구가 있어야 한다.
       // 로그인 상태를 알기 전/로그인한 뒤에는 감춘다 — right 값은 Pro 버튼의
       // 실제 너비를 재서 JS가 정한다(문구 길이가 언어마다 다르다).
-      "#ax-login{position:relative;z-index:200;flex:0 0 auto;display:none;align-items:center;" +
-      "justify-content:center;height:36px;padding:0 15px;border-radius:10px;" +
-      "border:1px solid rgba(23,23,23,.22);background:#fdfbf7;" +
+      "#ax-login{position:relative;z-index:200;flex:0 0 auto;display:flex;align-items:center;" +
+      "justify-content:center;height:36px;padding:0 16px;border-radius:10px;" +
+      "border:1px solid #1c1a18;background:#1c1a18;" +
       "color:#3a352f;" +
-      "cursor:pointer;font-family:Pretendard,system-ui,sans-serif;font-size:13px;font-weight:700;" +
+      "cursor:pointer;font-family:Pretendard,system-ui,sans-serif;font-size:13px;font-weight:700;color:#fff;" +
       "letter-spacing:-0.005em;white-space:nowrap;box-shadow:0 4px 14px -8px rgba(40,30,20,.45);}" +
-      "#ax-login.on{display:flex;}" +
-      "#ax-login:hover{border-color:rgba(23,23,23,.35);}" +
+      "#ax-login.signed-in{display:none;}" +
+      "#ax-login:hover{background:#2e2a26;border-color:#2e2a26;}" +
       "#ax-login:focus-visible{outline:2px solid #0070f3;outline-offset:2px;}" +
       "#ax-login .ax-login-short{display:none;}" +
       // 구독 중일 때 Pro 버튼 — 모션을 멈추고 차분한 완료 상태로 바꾼다.
@@ -148,15 +148,37 @@
         window.t(entitled ? "pro.cta_active" : "pro.cta");
       proBtn.querySelector(".ax-pro-short").textContent =
         window.t(entitled ? "pro.cta_active_short" : "pro.cta_short");
-      loginBtn.classList.toggle("on", !loggedIn);
+      loginBtn.classList.toggle("signed-in", loggedIn);
     };
 
     var bar = document.createElement("div");
     bar.id = "ax-topbar";
-    bar.appendChild(loginBtn);
-    bar.appendChild(proBtn);
-    bar.appendChild(box);
     document.body.appendChild(bar);
+
+    // 버튼은 한 벌뿐이라 자리를 옮겨 다닌다. 기본은 이 상단 바, 폰에서 스티키
+    // 헤더가 내려와 있는 동안만 그 첫 줄(#ax-actions-m)로 간다 — React가
+    // axPlaceActions로 알려 준다. 두 벌을 동시에 띄우지 않기 위해서다.
+    var place = function (useMobileSlot) {
+      var slot = useMobileSlot ? document.getElementById("ax-actions-m")
+                               : document.getElementById("ax-actions-d");
+      var host = slot || bar;
+      // 카테고리 줄(데스크톱)이나 스티키 바(폰)에 담겼으면 상단 바는 비워 둔다.
+      // React가 없는 페이지(archive)에는 두 자리가 다 없어 상단 바가 폴백이 된다.
+      bar.style.display = slot ? "none" : "";
+      // 바를 감추면 그 자리를 비워 두던 여백도 걷는다 — 안 그러면 위에 빈 띠가 남는다.
+      document.documentElement.classList.toggle("ax-nobar", !!slot);
+      if (loginBtn.parentNode === host) return;
+      host.appendChild(loginBtn);
+      host.appendChild(proBtn);
+      host.appendChild(box);
+    };
+    window.axPlaceActions = place;
+    place(false);
+    window.addEventListener("resize", function () { place(false); });
+    // React가 자리를 그릴 때까지 잠깐 쫓는다.
+    var tries = 0, tick = setInterval(function () {
+      place(false); if (++tries > 80) clearInterval(tick);
+    }, 100);
 
   };
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", window.axMountGlobe);
