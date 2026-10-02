@@ -1911,23 +1911,18 @@ function SectionTabs({ sections, order, active, onSelect, t, flush, showInsights
    Row 1: a STATIC "AX-it NOW" title (no goo morph) on the left + Daily Brief on
    the right. Row 2: the same section tabs. Mobile only. ---- */
 function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, order, active, onSelect, onTitle, showInsights, insightsActive, onInsights }) {
-  const titleRef = useRef(); const tabsRef = useRef();
-  const [titleH, setTitleH] = useState(50); const [tabsH, setTabsH] = useState(50);
-  // 바는 overflow:hidden에 높이를 실측값으로 잡는다. 그런데 Login·Pro·지구본은
-  // React 밖(i18n.js)에서 나중에 이 줄에 꽂히므로, 마운트 때 한 번만 재면 그 뒤로
-  // 줄이 높아져도 옛 높이에 잘린다 — 로고와 카테고리 줄 윗부분이 가려진 원인.
-  // ResizeObserver로 내용이 바뀔 때마다 다시 잰다.
+  const titleRef = useRef(); const barRef = useRef();
+  const [barH, setBarH] = useState(96);
+  // 아래 본문이 바에 깔리지 않도록 같은 높이의 자리를 만든다. Login·Pro·지구본은
+  // React 밖(i18n.js)에서 나중에 꽂히므로 높이가 도중에 바뀐다 — ResizeObserver로
+  // 바 전체를 지켜보며 다시 잰다.
   useEffect(() => {
-    const m = () => {
-      if (titleRef.current) setTitleH(titleRef.current.offsetHeight);
-      if (tabsRef.current) setTabsH(tabsRef.current.offsetHeight);
-    };
+    const m = () => { if (barRef.current) setBarH(barRef.current.offsetHeight); };
     m(); window.addEventListener('resize', m);
     let ro;
     if (typeof ResizeObserver !== 'undefined') {
       ro = new ResizeObserver(m);
-      if (titleRef.current) ro.observe(titleRef.current);
-      if (tabsRef.current) ro.observe(tabsRef.current);
+      if (barRef.current) ro.observe(barRef.current);
     }
     return () => { window.removeEventListener('resize', m); if (ro) ro.disconnect(); };
   }, []);
@@ -1937,15 +1932,11 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
      지구본(i18n.js가 #ax-actions-m에 넣는다), 2줄은 카테고리 가로 스크롤. */
   return (
     <React.Fragment>
-    <div aria-hidden={!stuckTitle} style={{
-      position: 'fixed', top: 0, left: 0, right: 0, zIndex: 120, overflow: 'hidden',
-      height: stuckTabs ? titleH + tabsH : titleH,
-      transform: stuckTitle ? 'translateY(0)' : 'translateY(-101%)',
-      transition: stuckTitle
-        ? 'transform .3s cubic-bezier(.2,.8,.25,1), height .3s cubic-bezier(.2,.8,.25,1)'
-        : 'transform .22s cubic-bezier(.4,0,1,1), height .22s cubic-bezier(.4,0,1,1)',
+    <div ref={barRef} style={{
+      position: 'fixed', top: 0, left: 0, right: 0, zIndex: 120,
       background: t.cardSolid || '#fbf8f3', borderBottom: `1px solid ${t.rule}`,
-      boxShadow: '0 6px 18px -12px rgba(60,40,30,.5)' }}>
+      boxShadow: stuckTitle ? '0 6px 18px -12px rgba(60,40,30,.5)' : 'none',
+      transition: 'box-shadow .25s ease' }}>
       {/* row 1 — 로고(왼쪽) + 버튼 묶음(오른쪽) */}
       <div ref={titleRef} style={{ padding: `11px ${g}px 9px`, display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 12 }}>
         <div onClick={onTitle} style={{ cursor: onTitle ? 'pointer' : 'default', flex: '0 0 auto',
@@ -1954,11 +1945,12 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
         <div id="ax-actions-m" style={{ display: 'flex', alignItems: 'center', gap: 6, flex: '0 0 auto' }} />
       </div>
       {/* row 2 — section tabs, flush to the same left edge as the title and the card */}
-      <div ref={tabsRef} style={{ padding: `4px ${g}px 11px` }}>
+      <div style={{ padding: `4px ${g}px 11px` }}>
         <SectionTabs sections={sections} order={order} active={active} onSelect={onSelect} t={t} flush
           showInsights={showInsights} insightsActive={insightsActive} onInsights={onInsights} />
       </div>
     </div>
+    <div aria-hidden style={{ height: barH }} />
     </React.Fragment>
   );
 }
@@ -2781,8 +2773,8 @@ function ThemedPage({ themeKey }) {
   // 폰에서 스티키 바가 내려와 있으면 버튼을 그 첫 줄로 옮긴다 — 두 벌을 동시에
   // 띄우지 않기 위해서다. 버튼을 그리는 쪽이 React 밖(i18n.js)이라 알려 줘야 한다.
   useEffect(() => {
-    if (window.axPlaceActions) window.axPlaceActions(isMobile && stuckTitle);
-  }, [isMobile, stuckTitle]);
+    if (window.axPlaceActions) window.axPlaceActions(isMobile);
+  }, [isMobile]);
   // 헤더 Pro 버튼(i18n.js, React를 모르므로 이벤트로만 알림)이 쏘는 'ax:subscribe'를
   // 듣고 구독 모달을 연다. i18n.js의 axMountGlobe와 같은 역할의 짝.
   const [showSubscribe, setShowSubscribe] = useState(false);
@@ -2933,10 +2925,13 @@ function ThemedPage({ themeKey }) {
         <div ref={mastheadRef} style={insightsOn ? { position: 'relative', zIndex: 3 } : undefined}>
           <Masthead t={t} mobile={isMobile} onHome={goHome} />
         </div>
-        <div style={insightsOn ? { position: 'relative', zIndex: 3 } : undefined}>
-          <SectionTabs sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection} t={t}
-            showInsights={true} insightsActive={insightsOn} onInsights={openInsights} actions />
-        </div>
+        {/* 폰에서는 같은 탭이 고정바에 이미 있다 — 두 벌을 띄우지 않는다. */}
+        {!isMobile && (
+          <div style={insightsOn ? { position: 'relative', zIndex: 3 } : undefined}>
+            <SectionTabs sections={sections} order={order} active={insightsOn ? '' : section} onSelect={switchSection} t={t}
+              showInsights={true} insightsActive={insightsOn} onInsights={openInsights} actions />
+          </div>
+        )}
         {/* back-to-today control — rendered only while viewing a past day. */}
         {!insightsOn && hero.day && (
           <div style={{ marginTop: 2, marginBottom: 2, textAlign: 'center' }}>
@@ -2956,7 +2951,7 @@ function ThemedPage({ themeKey }) {
                 When the 2-row sticky bar is showing, drop the card so the tabs row
                 doesn't cover its top. */}
             <div ref={heroRef} className="ax-hero-wrap"
-              style={isMobile && stuckTabs ? { marginTop: 104, transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' } : { transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' }}>
+              style={{ transition: 'margin-top .3s cubic-bezier(.2,.8,.25,1)' }}>
               <Carousel key={'hero' + section + hero.key} items={hero.items} initialIndex={hero.index} t={t} mobile={isMobile} section={section} entitled={auth.entitled} />
               {intro && <HeroDeckIntro key={'intro' + intro.k} day={intro.day} cardIdx={intro.cardIdx} t={t} mobile={isMobile} onDone={() => setIntro(null)} />}
             </div>
