@@ -140,6 +140,20 @@ if (!document.getElementById('ax-styles')) {
     .ax-tabs{flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;scrollbar-width:none;margin-bottom:22px;}
     .ax-tabs::-webkit-scrollbar{display:none;}
   }
+  /* 큰 화면 — 2560px 모니터나 윈도우 125% 배율(=2304 CSS px)에서는 1120px 본문에
+     480px 카드라 화면의 5분의 1만 쓰고 모든 게 작아 보였다. 폭과 카드를 함께 키운다.
+     카드 안쪽은 고정 px라 비율이 어긋나지 않게 폭·높이를 같은 비(480:760)로 늘린다. */
+  @media (min-width:1700px){
+    .ax-shell{max-width:1360px;padding:44px 48px 110px;}
+    .ax-hero-wrap{width:560px;height:887px;}
+    .ax-tab{font-size:15px;padding:10px 21px;}
+    .ax-tabs{gap:9px;margin-bottom:22px;}
+  }
+  @media (min-width:2200px){
+    .ax-shell{max-width:1560px;}
+    .ax-hero-wrap{width:640px;height:1013px;}
+    .ax-tab{font-size:16px;padding:11px 23px;}
+  }
   /* ---- Pro 비교표 + 요금제 버튼 (SubscribeModal). 색·모션은 Pro 열과 할인
      스티커에만 쓴다 — 나머지 모달은 사이트의 절제된 톤을 그대로 유지한다. */
   .ax-pro-col{background:linear-gradient(135deg,rgba(121,40,202,.12),rgba(0,112,243,.12));
@@ -1787,7 +1801,7 @@ function MobileFilmstrip({ t, onOpen, days, entitled, hasSubscription }) {
                     <div style={{ padding: '10px 11px 12px' }}>
                       <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5 }}>{c.tool}</div>
                       {/* reserve 3 lines so every card is the same height regardless of headline length */}
-                      <div className="ax-hl" style={{ fontSize: 12.5, lineHeight: 1.32, color: t.hl, height: 'calc(1.32em * 3)',
+                      <div className="ax-hl" style={{ fontSize: 14.5, lineHeight: 1.34, color: t.hl, height: 'calc(1.34em * 3)',
                         display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{c.headline}</div>
                     </div>
                   </button>
@@ -1902,7 +1916,24 @@ const INSIGHTS_COLORS = {
   books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#9aa8c7',
 };
 const insightsLabel = (sec) => tx('insights.legend_' + sec);   // legend label per section key
-const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비
+const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비 (기본)
+/* 넓은 화면에서는 열을 키운다. 카드는 컨테이너 폭에 맞춰 scale되므로(cardScale)
+   열이 넓어지면 카드 안의 글자도 같이 커진다. 2560px 모니터나 윈도우 125% 배율
+   (=2304 CSS px)에서 480px짜리 카드가 화면의 5분의 1만 쓰던 문제를 푼다. */
+const INSIGHTS_CARD_W_WIDE = 520;
+function insightsCardW() {
+  return (typeof window !== 'undefined' && window.innerWidth >= 1700)
+    ? INSIGHTS_CARD_W_WIDE : INSIGHTS_CARD_W;
+}
+function useInsightsCardW() {
+  const [w, setW] = useState(insightsCardW);
+  useEffect(() => {
+    const on = () => setW(insightsCardW());
+    window.addEventListener('resize', on);
+    return () => window.removeEventListener('resize', on);
+  }, []);
+  return w;
+}
 const INSIGHTS_GAP = 14;
 const INSIGHTS_H = Math.round(INSIGHTS_CARD_W * 760 / 480);   // 카드(480:760) 높이 = 두 칸 공통 높이
 const INSIGHTS_DIM = 'rgba(128,136,162,0.38)';   // 포커스 밖 노드·엣지 — 배경보다 살짝 밝게 + 반투명(시야 확보)
@@ -1942,6 +1973,7 @@ function InsightsView({ t, mobile, entitled }) {
   // 카드 칸은 히어로 원본(480×760)을 통째로 스케일해서 넣는다 — 타이포·줄바꿈이
   // 본 사이트와 동일해져 긴 제목에도 Read 버튼이 잘리지 않는다.
   const cardBoxRef = useRef();
+  const cardW = useInsightsCardW();
   const [cardScale, setCardScale] = useState(INSIGHTS_CARD_W / 480);
   useEffect(() => {
     const box = cardBoxRef.current; if (!box) return;
@@ -2508,7 +2540,7 @@ function InsightsView({ t, mobile, entitled }) {
           )}
         </div>
         <div style={{ padding: '10px 11px 12px' }}>
-          <div className="ax-eyebrow" style={{ fontSize: 8.5, color: t.faint, marginBottom: 5,
+          <div className="ax-eyebrow" style={{ fontSize: 10.5, color: t.mute, marginBottom: 6,
             display: 'flex', alignItems: 'center', gap: 5 }}>
             <span aria-hidden style={{ width: 8, height: 8, borderRadius: '50%', flex: '0 0 auto',
               background: INSIGHTS_COLORS[n.section] || '#8a8377' }} />
@@ -2534,12 +2566,13 @@ function InsightsView({ t, mobile, entitled }) {
     <div style={{ width: '100vw', position: 'relative', left: '50%', transform: 'translateX(-50%)' }}>
     {/* 상단 2분할: [3D 네트워크 창 | 클릭된 노드의 뉴스 카드] */}
     <div style={{ display: 'flex', flexDirection: mobile ? 'column' : 'row', gap: INSIGHTS_GAP,
-      alignItems: 'flex-start', maxWidth: 1320, margin: '8px auto 0', padding: '0 16px',
+      alignItems: 'flex-start', maxWidth: cardW > INSIGHTS_CARD_W ? 1720 : 1320,
+      margin: '8px auto 0', padding: '0 16px',
       boxSizing: 'border-box' }}>
       {/* 네트워크 창 — 히어로 프레임, 남는 폭 전부 사용 */}
       <div style={{ flex: mobile ? 'none' : '1 1 auto', minWidth: 0, position: 'relative',
         width: mobile ? '100%' : 'auto',
-        height: mobile ? 'max(52vh, 320px)' : INSIGHTS_H,
+        height: mobile ? 'max(52vh, 320px)' : Math.round(cardW * 760 / 480),
         borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
         background: 'radial-gradient(120% 95% at 50% 38%, #2b2f3d 0%, #20232f 46%, #171923 82%, #101219 100%)',
         overflow: 'hidden' }}>
@@ -2582,7 +2615,7 @@ function InsightsView({ t, mobile, entitled }) {
                   cursor: 'pointer', opacity: off ? 0.55 : 1, userSelect: 'none' }}>
                 <span style={{ width: 9, height: 9, borderRadius: '50%', flex: '0 0 auto',
                   background: INSIGHTS_COLORS[s] }} />
-                <span className="ax-eyebrow" style={{ color: '#57534a', fontSize: 10, flex: 1, minWidth: 52 }}>
+                <span className="ax-eyebrow" style={{ color: '#4a453e', fontSize: 12, flex: 1, minWidth: 60 }}>
                   {insightsLabel(s)}
                 </span>
                 {/* 눈 아이콘 — 뜬 눈 = 표시 중, 감은 눈 = 숨김 */}
@@ -2602,7 +2635,7 @@ function InsightsView({ t, mobile, entitled }) {
               </div>
             );
           })}
-          <div className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 9.5, marginTop: 6, borderTop: '1px solid #eee6d9', paddingTop: 5 }}>
+          <div className="ax-eyebrow" style={{ color: '#6d675f', fontSize: 11, marginTop: 7, borderTop: '1px solid #eee6d9', paddingTop: 6 }}>
             {tx('insights.size_legend')}
           </div>
         </div>
@@ -2615,13 +2648,13 @@ function InsightsView({ t, mobile, entitled }) {
             placeholder={mobile ? tx('insights.search_placeholder_mobile') : tx('insights.search_placeholder')}
             style={{ width: '100%', boxSizing: 'border-box', padding: mobile ? '10px 70px 10px 16px' : '11px 74px 11px 20px', borderRadius: 999,
               border: '1px solid #ddd5c7', background: 'rgba(255,255,255,.94)', color: '#171717',
-              fontSize: mobile ? 16 : 13, fontFamily: 'inherit', outline: 'none',
+              fontSize: mobile ? 16 : 14.5, fontFamily: 'inherit', outline: 'none',
               boxShadow: '0 6px 18px -8px rgba(80,50,40,.25)' }} />
           {query.trim() && (
             <div style={{ position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)',
               display: 'flex', alignItems: 'center', gap: 7 }}>
               {searchRef.current && (
-                <span className="ax-eyebrow" style={{ color: '#8a8377', fontSize: 10 }}>{tx('insights.match_count', { n: searchRef.current.size })}</span>
+                <span className="ax-eyebrow" style={{ color: '#6d675f', fontSize: 11.5 }}>{tx('insights.match_count', { n: searchRef.current.size })}</span>
               )}
               <button aria-label={tx('insights.clear_search')} onClick={() => onSearch('')}
                 style={{ width: 24, height: 24, borderRadius: '50%', border: '1px solid #ddd5c7',
@@ -2636,7 +2669,7 @@ function InsightsView({ t, mobile, entitled }) {
         </div>
       </div>
       {/* 클릭된 노드의 뉴스 카드 (히어로 프레임 — 불투명·라운드·플립) */}
-      <div style={{ width: mobile ? '100%' : INSIGHTS_CARD_W, flex: 'none' }}>
+      <div style={{ width: mobile ? '100%' : cardW, flex: 'none' }}>
         <div ref={cardBoxRef} style={{ aspectRatio: '480 / 760', position: 'relative',
           borderRadius: t.radius, border: t.cardBorder, boxShadow: t.cardShadow,
           background: solid, overflow: 'clip' }}>
@@ -2661,7 +2694,8 @@ function InsightsView({ t, mobile, entitled }) {
     </div>
     {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     {/* 하단: 연관 뉴스 카루셀 — 넘치면 좌우 화살표로 가로 스크롤 넛징 */}
-    <div style={{ maxWidth: 1320, margin: '18px auto 40px', padding: '0 2px', boxSizing: 'border-box', position: 'relative' }}>
+    <div style={{ maxWidth: cardW > INSIGHTS_CARD_W ? 1720 : 1320, margin: '18px auto 40px',
+      padding: '0 2px', boxSizing: 'border-box', position: 'relative' }}>
       <div className="ax-strip" ref={stripRef} onScroll={stripScrollCheck}>
         {stripIds.map((id) => <StripCard key={id} id={id} />)}
       </div>
