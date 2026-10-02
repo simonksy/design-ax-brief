@@ -92,6 +92,7 @@ window.AX_I18N = {
  "masthead.daily_brief": "Daily Brief",
  "nav.card": "Card {n}",
  "nav.home": "Home",
+ "nav.menu": "Menu",
  "nav.next": "Next",
  "nav.prev": "Previous",
  "nav.sections": "Sections",

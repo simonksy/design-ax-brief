@@ -92,6 +92,7 @@ window.AX_I18N = {
  "masthead.daily_brief": "Daily Brief",
  "nav.card": "卡片 {n}",
  "nav.home": "返回首页",
+ "nav.menu": "菜单",
  "nav.next": "下一个",
  "nav.prev": "上一个",
  "nav.sections": "分区",
