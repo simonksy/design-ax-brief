@@ -454,6 +454,53 @@ async function pollEntitlement(tries = 5, gapMs = 2000) {
   return false;
 }
 
+/* Pro 혜택 비교표 행. 나중에 메일 리포트·키워드 알림·MCP가 붙으면 여기에 줄을 추가한다. */
+const PRO_ROWS = [
+  { key: 'cards',   free: '1',    pro: '40' },
+  { key: 'deep',    free: false,  pro: true },
+  { key: 'archive', free: false,  pro: true },
+  { key: 'graph',   free: false,  pro: true },
+  { key: 'langs',   free: true,   pro: true },
+];
+
+/* 비교표 한 셀 — true면 체크, false면 흐린 가로줄, 문자열이면 그 문자열. */
+function ProCell({ v, t, strong }) {
+  if (v === true) return <span style={{ color: strong ? t.hl : t.body }}>✓</span>;
+  if (v === false) return <span style={{ color: t.faint }}>—</span>;
+  return <span style={{ color: strong ? t.hl : t.body, fontWeight: strong ? 600 : 400 }}>{v}</span>;
+}
+
+/* 무료/Pro 혜택 비교표 — SubscribeModal의 choose 화면, 요금제 버튼 위에 뜬다. */
+function ProCompareTable({ t }) {
+  return (
+    <div style={{ marginBottom: 14, borderRadius: 10, overflow: 'hidden', border: '1px solid ' + t.rule,
+      display: 'grid', gridTemplateColumns: '1fr 52px 52px', fontFamily: 'Pretendard, system-ui' }}>
+      <div />
+      <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 11.5, fontWeight: 600, color: t.mute }}>
+        {tx('pro.col_free')}
+      </div>
+      <div style={{ padding: '7px 4px', textAlign: 'center', fontSize: 11.5, fontWeight: 600, color: t.hl,
+        background: 'rgba(0,0,0,.035)' }}>
+        {tx('pro.col_pro')}
+      </div>
+      {PRO_ROWS.map((row) => (
+        <React.Fragment key={row.key}>
+          <div style={{ padding: '6px 10px 6px 0', fontSize: 12.5, color: t.body, borderTop: '1px solid ' + t.rule }}>
+            {tx('pro.row_' + row.key)}
+          </div>
+          <div style={{ padding: '6px 4px', textAlign: 'center', fontSize: 12.5, borderTop: '1px solid ' + t.rule }}>
+            <ProCell v={row.free} t={t} />
+          </div>
+          <div style={{ padding: '6px 4px', textAlign: 'center', fontSize: 12.5, borderTop: '1px solid ' + t.rule,
+            background: 'rgba(0,0,0,.035)' }}>
+            <ProCell v={row.pro} t={t} strong />
+          </div>
+        </React.Fragment>
+      ))}
+    </div>
+  );
+}
+
 /* NOTE: rendered via createPortal to document.body — the carousel slides are CSS-
    transformed, and position:fixed inside a transformed ancestor anchors to that
    ancestor instead of the viewport (the modal appeared on the NEIGHBORING slide).
@@ -465,6 +512,18 @@ function SubscribeModal({ onClose, t }) {
   const [note, setNote] = useState('');
   const [email, setEmail] = useState('');
   const [sendingLink, setSendingLink] = useState(false);
+  // 이미 구독 중인 사람에겐 요금제 대신 "이미 구독 중" 안내 + 관리 버튼을 보여준다.
+  // 읽기 전에는 요금제를 보여준다(기본값) — 정적 프리뷰(워커 없음)에서 /api/me가
+  // 404/네트워크 오류여도 조용히 묻힌다.
+  const [me, setMe] = useState(null);
+  useEffect(() => {
+    let live = true;
+    fetch('/api/me', { credentials: 'same-origin' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (live && d) setMe(d); })
+      .catch(() => {});
+    return () => { live = false; };
+  }, []);
   // 금액은 서버(env)가 확정하고, 그 금액을 감싸는 말('월'/'연')은 i18n 틀이 갖는다.
   // 버튼이 결제창과 다른 금액을 말하는 일도 없고, 한국어 페이지가 영어로 바뀌는 일도
   // 없다. 응답이 없으면 기존 i18n 문자열(금액 포함)로 그대로 떨어진다.
@@ -535,8 +594,21 @@ function SubscribeModal({ onClose, t }) {
         </p>
         {phase === 'choose' && (
           <React.Fragment>
-            <Plan plan="monthly" price={planPrice('monthly')} />
-            <Plan plan="yearly" price={planPrice('yearly')} badge={tx('paywall.plan_yearly_note')} />
+            <ProCompareTable t={t} />
+            {me && me.hasSubscription ? (
+              <React.Fragment>
+                <div style={{ display: 'inline-flex', alignItems: 'center', gap: 6, fontSize: 12, fontWeight: 600,
+                  color: t.hl, background: 'rgba(0,0,0,.045)', padding: '5px 11px', borderRadius: 999, marginBottom: 10 }}>
+                  ✓ {tx('pro.active')}
+                </div>
+                <div style={{ marginTop: 2 }}><ManageLink t={t} /></div>
+              </React.Fragment>
+            ) : (
+              <React.Fragment>
+                <Plan plan="monthly" price={planPrice('monthly')} />
+                <Plan plan="yearly" price={planPrice('yearly')} badge={tx('paywall.plan_yearly_note')} />
+              </React.Fragment>
+            )}
           </React.Fragment>
         )}
         {phase === 'login' && (
@@ -2307,6 +2379,14 @@ function ThemedPage({ themeKey }) {
       .then((d) => { if (d) setAuth(d); })
       .catch(() => {});
   }, []);
+  // 헤더 Pro 버튼(i18n.js, React를 모르므로 이벤트로만 알림)이 쏘는 'ax:subscribe'를
+  // 듣고 구독 모달을 연다. i18n.js의 axMountGlobe와 같은 역할의 짝.
+  const [showSubscribe, setShowSubscribe] = useState(false);
+  useEffect(() => {
+    const onProClick = () => setShowSubscribe(true);
+    window.addEventListener('ax:subscribe', onProClick);
+    return () => window.removeEventListener('ax:subscribe', onProClick);
+  }, []);
   // Insights(Pro 전용 지식 네트워크) 뷰 — #insights 딥링크로도 진입. 엔타이틀이
   // 아니면 렌더 시점에 브리프로 폴백되므로 해시만으로는 열리지 않는다.
   const [view, setView] = useState(() =>
@@ -2491,6 +2571,7 @@ function ThemedPage({ themeKey }) {
           </p>
         </footer>
       </div>
+      {showSubscribe && <SubscribeModal t={t} onClose={() => setShowSubscribe(false)} />}
     </div>
   );
 }
