@@ -15,12 +15,19 @@ async function sign(body, ts) {
   return [...new Uint8Array(sig)].map((b) => b.toString(16).padStart(2, "0")).join("");
 }
 
-async function call(path, init = {}) {
+async function call(path, init = {}, extraEnv = {}) {
   const ctx = createExecutionContext();
-  const res = await worker.fetch(new Request("http://localhost" + path, { redirect: "manual", ...init }), env, ctx);
+  const res = await worker.fetch(new Request("http://localhost" + path, { redirect: "manual", ...init }),
+                                 { ...env, ...extraEnv }, ctx);
   await waitOnExecutionContext(ctx);
   return res;
 }
+
+// vitest.config.js는 테스트 전역을 PADDLE_ENV=sandbox로 묶는다 — 체크아웃 가드가 보는
+// 바로 그 값이다. 기존 체크아웃 테스트들은 가드가 생긴 뒤에도 "정상 동작"을 검증하는
+// 것이므로, 실제 운영자가 샌드박스 검증 중에 하듯 ax_sandbox=1 쿠키를 들고 들어간다.
+const SANDBOX_BYPASS = "ax_sandbox=1";
+const withBypass = (cookie) => cookie ? `${SANDBOX_BYPASS}; ${cookie}` : SANDBOX_BYPASS;
 
 async function post(path, body, extraHeaders = {}) {
   const ts = Math.floor(Date.now() / 1000);
@@ -237,13 +244,14 @@ describe("갱신과 환불이 만료일을 실제로 움직인다", () => {
 
 describe("POST /api/billing/checkout", () => {
   it("비로그인은 401 — 결제 이메일과 로그인 이메일을 일치시키기 위함", async () => {
-    const res = await call("/api/billing/checkout", { method: "POST", body: JSON.stringify({ plan: "monthly" }) });
+    const res = await call("/api/billing/checkout",
+      { method: "POST", headers: { cookie: SANDBOX_BYPASS }, body: JSON.stringify({ plan: "monthly" }) });
     expect(res.status).toBe(401);
     expect((await res.json()).reason).toBe("login_required");
   });
 
   it("월간/연간 각각 올바른 price id를 돌려준다", async () => {
-    const cookie = await cookieFor("buyer@x.com");
+    const cookie = withBypass(await cookieFor("buyer@x.com"));
     for (const [plan, want] of [["monthly", env.PADDLE_PRICE_MONTHLY], ["yearly", env.PADDLE_PRICE_YEARLY]]) {
       const res = await call("/api/billing/checkout", { method: "POST", headers: { cookie }, body: JSON.stringify({ plan }) });
       expect(res.status).toBe(200);
@@ -258,19 +266,19 @@ describe("POST /api/billing/checkout", () => {
   // 금액이 갈린다 — 차지백 사유다. 금액은 서버(env)가 확정하고, 그 금액을 감싸는
   // 말('월'/'연')만 i18n 틀이 갖는다.
   it("표시 금액을 env에서 내려준다 (로그인 전에도 읽을 수 있다)", async () => {
-    const res = await call("/api/billing/checkout");
+    const res = await call("/api/billing/checkout", { headers: { cookie: SANDBOX_BYPASS } });
     expect(res.status).toBe(200);
     expect((await res.json()).amounts).toEqual({
       monthly: env.PADDLE_PRICE_MONTHLY_AMOUNT, yearly: env.PADDLE_PRICE_YEARLY_AMOUNT });
   });
 
   it("금액만 내려보낸다 — 기간을 가리키는 말은 섞지 않는다", async () => {
-    const { amounts } = await (await call("/api/billing/checkout")).json();
+    const { amounts } = await (await call("/api/billing/checkout", { headers: { cookie: SANDBOX_BYPASS } })).json();
     for (const v of Object.values(amounts)) expect(v).toMatch(/^[^A-Za-z]*$/);
   });
 
   it("결제 시작 응답에도 선택한 플랜의 금액이 실린다", async () => {
-    const cookie = await cookieFor("labels@x.com");
+    const cookie = withBypass(await cookieFor("labels@x.com"));
     for (const [plan, want] of [["monthly", env.PADDLE_PRICE_MONTHLY_AMOUNT],
                                 ["yearly", env.PADDLE_PRICE_YEARLY_AMOUNT]]) {
       const res = await call("/api/billing/checkout", { method: "POST", headers: { cookie },
@@ -280,11 +288,69 @@ describe("POST /api/billing/checkout", () => {
   });
 
   it("모르는 플랜은 400", async () => {
-    const cookie = await cookieFor("buyer@x.com");
+    const cookie = withBypass(await cookieFor("buyer@x.com"));
     for (const body of ['{"plan":"lifetime"}', "{}", "garbage"]) {
       const res = await call("/api/billing/checkout", { method: "POST", headers: { cookie }, body });
       expect(res.status).toBe(400);
     }
+  });
+});
+
+// Paddle이 SANDBOX 자격증명으로 운영 중일 때의 체크아웃 가드. workers_dev/preview_urls가
+// 꺼져 있어 별도 검증 호스트가 없다 — 운영 도메인 자체가 검증 환경이다. 가드가 없으면
+// 누구나 Paddle 공개 테스트 카드로 "결제"해 올바르게 서명된 샌드박스 웹훅으로 진짜
+// subscribers 행을 공짜로 얻는다.
+describe("샌드박스 체크아웃 가드", () => {
+  it("샌드박스 + 쿠키 없음 → POST/GET 체크아웃 모두 503 sandbox_mode", async () => {
+    const postRes = await call("/api/billing/checkout",
+      { method: "POST", body: JSON.stringify({ plan: "monthly" }) });
+    expect(postRes.status).toBe(503);
+    expect((await postRes.json()).reason).toBe("sandbox_mode");
+
+    const getRes = await call("/api/billing/checkout");
+    expect(getRes.status).toBe(503);
+    expect((await getRes.json()).reason).toBe("sandbox_mode");
+  });
+
+  it("샌드박스 + ax_sandbox=1 쿠키 → 평소처럼 동작한다", async () => {
+    const cookie = withBypass(await cookieFor("sandboxok@x.com"));
+    const res = await call("/api/billing/checkout",
+      { method: "POST", headers: { cookie }, body: JSON.stringify({ plan: "monthly" }) });
+    expect(res.status).toBe(200);
+    const b = await res.json();
+    expect(b.priceId).toBe(env.PADDLE_PRICE_MONTHLY);
+    expect(b.email).toBe("sandboxok@x.com");
+  });
+
+  it("운영 환경(PADDLE_ENV=production) + 쿠키 없음 → 가드는 비활성, 평소처럼 동작한다", async () => {
+    const prodEnv = { PADDLE_ENV: "production" };
+    const cookie = await cookieFor("prodbuyer@x.com");
+    const res = await call("/api/billing/checkout",
+      { method: "POST", headers: { cookie }, body: JSON.stringify({ plan: "monthly" }) }, prodEnv);
+    expect(res.status).toBe(200);
+    expect((await res.json()).priceId).toBe(env.PADDLE_PRICE_MONTHLY);
+
+    const getRes = await call("/api/billing/checkout", {}, prodEnv);
+    expect(getRes.status).toBe(200);
+  });
+
+  it("?sandbox=1은 쿠키를 심고, ?sandbox=0은 지운다", async () => {
+    const onRes = await call("/?sandbox=1");
+    const onCookies = onRes.headers.get("set-cookie") || "";
+    expect(onCookies).toContain("ax_sandbox=1");
+    expect(onCookies).toMatch(/Max-Age=86400/);
+
+    const offRes = await call("/?sandbox=0");
+    const offCookies = offRes.headers.get("set-cookie") || "";
+    expect(offCookies).toMatch(/ax_sandbox=;/);
+    expect(offCookies).toMatch(/Max-Age=0/);
+  });
+
+  it("웹훅 라우트는 가드 밖에 있다 — 샌드박스 + 쿠키 없이도 그대로 동작한다", async () => {
+    const res = await post("/api/billing/webhook", webhookBody({ email: "sandboxwh@x.com" }));
+    expect(res.status).toBe(200);
+    const me = await call("/api/me", { headers: { cookie: await cookieFor("sandboxwh@x.com") } });
+    expect((await me.json()).entitled).toBe(true);
   });
 });
 
@@ -310,7 +376,7 @@ describe("만료된 구독자", () => {
   it("그 상태에서 체크아웃은 409 — 두 번째 구독을 열지 않는다", async () => {
     await seed("lapsed2@x.com", "past_due", Math.floor(Date.now() / 1000) - DAY);
     const res = await call("/api/billing/checkout", { method: "POST",
-      headers: { cookie: await cookieFor("lapsed2@x.com") }, body: JSON.stringify({ plan: "monthly" }) });
+      headers: { cookie: withBypass(await cookieFor("lapsed2@x.com")) }, body: JSON.stringify({ plan: "monthly" }) });
     expect(res.status).toBe(409);
     expect((await res.json()).reason).toBe("already_subscribed");
   });
@@ -319,7 +385,7 @@ describe("만료된 구독자", () => {
     await seed("gone@x.com", "canceled", Math.floor(Date.now() / 1000) - DAY);
     expect(await me("gone@x.com")).toMatchObject({ entitled: false, hasSubscription: false });
     const res = await call("/api/billing/checkout", { method: "POST",
-      headers: { cookie: await cookieFor("gone@x.com") }, body: JSON.stringify({ plan: "monthly" }) });
+      headers: { cookie: withBypass(await cookieFor("gone@x.com")) }, body: JSON.stringify({ plan: "monthly" }) });
     expect(res.status).toBe(200);
   });
 

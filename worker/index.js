@@ -42,10 +42,20 @@ async function currentEmail(request, env) {
   return sess ? sess.email : null;
 }
 
+// Sandbox 체크아웃 가드 — workers_dev/preview_urls가 꺼져 있어 SANDBOX 자격증명을
+// 검증할 별도 호스트가 없다. 운영 도메인 자체가 검증 환경이 되는 동안, 아무 방문자나
+// 플랜을 누르면 Paddle 공개 테스트 카드(4242...)로 결제가 "성공"하고, 올바르게 서명된
+// 샌드박스 웹훅이 진짜 subscribers 행을 공짜로 연다. ax_sandbox=1 쿠키(운영자만 /?sandbox=1
+// 로 심음)가 없으면 체크아웃 두 핸들러 모두 막는다. 웹훅 라우트는 이 가드 밖에 있다 —
+// 그게 검증 대상이다. PADDLE_ENV가 sandbox가 아니면(운영) 이 함수는 항상 false다.
+function sandboxCheckoutBlocked(env, cookies) {
+  return env.PADDLE_ENV === "sandbox" && cookies.ax_sandbox !== "1";
+}
+
 // Canonical asset paths (fetching "/index.html" etc. gets a 307 to these under html_handling).
 const PAGE_ASSET = { "/": "/", "/large": "/large", "/archive": "/archive" };
 
-async function serveHtml(env, page, lang, i18nOn, previewOn, langRoute) {
+async function serveHtml(env, page, lang, i18nOn, previewOn, langRoute, sandboxParam) {
   const res = await env.ASSETS.fetch(new Request(new URL(PAGE_ASSET[page] ?? "/", env.BASE_URL)));
   if (res.status !== 200) return res; // pass redirects/errors through untouched
   const isPublic = env.I18N_PUBLIC === "1";
@@ -66,6 +76,12 @@ async function serveHtml(env, page, lang, i18nOn, previewOn, langRoute) {
   // Language routes stay out of search indexes until the multilingual site is public.
   if (langRoute && !isPublic) headers.set("x-robots-tag", "noindex");
   if (previewOn) headers.append("set-cookie", "ax_i18n=1; Path=/; Max-Age=31536000; SameSite=Lax; Secure");
+  // 운영자가 ?sandbox=1을 달아 들어오면 체크아웃 가드를 우회하는 쿠키를 심는다(검증용).
+  // ?sandbox=0은 되돌리는 길 — 값은 로그로 남기지 않는다.
+  if (sandboxParam === "1")
+    headers.append("set-cookie", "ax_sandbox=1; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=86400");
+  else if (sandboxParam === "0")
+    headers.append("set-cookie", "ax_sandbox=; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=0");
   return new Response(out.body, { status: res.status, headers });
 }
 
@@ -76,6 +92,7 @@ export default {
 
     const cookies = parseCookies(request.headers.get("cookie"));
     const previewOn = url.searchParams.get("i18n") === "1";
+    const sandboxParam = url.searchParams.get("sandbox");
     // I18N_MENU shows the globe picker to everyone; I18N_PUBLIC also turns on the
     // Accept-Language redirect on / and search indexing of the /{lang}/ pages.
     const i18nOn = env.I18N_PUBLIC === "1" || env.I18N_MENU === "1" || previewOn || cookies.ax_i18n === "1";
@@ -85,12 +102,12 @@ export default {
           location: `/${pickLang(cookies.ax_lang, request.headers.get("accept-language"))}/${url.search}`,
           "cache-control": "no-store",
           vary: "Cookie, Accept-Language" } });
-      return serveHtml(env, "/", "ko", i18nOn, previewOn, false);
+      return serveHtml(env, "/", "ko", i18nOn, previewOn, false, sandboxParam);
     }
     if (LANGS.includes(p.slice(1)))
       return new Response(null, { status: 301, headers: { location: `${p}/${url.search}` } });
     const lp = splitLangPath(p);
-    if (lp && PAGE_ASSET[lp.rest]) return serveHtml(env, lp.rest, lp.lang, i18nOn, previewOn, true);
+    if (lp && PAGE_ASSET[lp.rest]) return serveHtml(env, lp.rest, lp.lang, i18nOn, previewOn, true, sandboxParam);
 
     if (p.startsWith("/premium/")) return new Response("Forbidden", { status: 403 });
 
@@ -184,12 +201,15 @@ export default {
 
     // 가격만 읽어가는 공개 조회 — 플랜 목록은 로그인 전에도 보이므로 인증을
     // 요구하지 않는다. 금액 외에 아무것도 노출하지 않는다.
-    if (p === "/api/billing/checkout" && request.method === "GET")
+    if (p === "/api/billing/checkout" && request.method === "GET") {
+      if (sandboxCheckoutBlocked(env, cookies)) return json({ reason: "sandbox_mode" }, 503);
       return json({ amounts: planAmounts(env) });
+    }
 
     // 결제 시작 — price id를 번들에 박지 않고 여기서 내려준다. 로그인을 요구하는
     // 이유: 결제 이메일과 로그인 이메일이 갈리면 돈을 내고도 아무것도 안 열린다.
     if (p === "/api/billing/checkout" && request.method === "POST") {
+      if (sandboxCheckoutBlocked(env, cookies)) return json({ reason: "sandbox_mode" }, 503);
       const email = await currentEmail(request, env);
       if (!email) return json({ reason: "login_required" }, 401);
       // 이미 구독 행이 있으면 두 번째 Paddle 구독을 열지 못하게 막는다. 그대로 두면
