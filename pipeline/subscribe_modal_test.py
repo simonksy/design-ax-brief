@@ -35,4 +35,17 @@ for lang in ("ko", "en", "ja", "zh", "es"):
              if "atreon" in d.get(k, "")]
     assert not stale, f"{lang}.json still says Patreon in {stale}"
 
+# 7) 비로그인 사용자를 위한 로그인 경로가 모달 안에 있다
+assert "/api/auth/request" in src, "no login path inside the subscribe modal"
+
+# 8) 구독자에게 관리 링크를 제공한다
+assert "/api/billing/portal" in src, "no manage-subscription link"
+
+# 9) 새 문구 키도 5개 언어에 모두 있다
+need2 = ["paywall.email_label", "paywall.send_link", "paywall.link_sent", "paywall.manage"]
+for lang in ("ko", "en", "ja", "zh", "es"):
+    d = json.load(open(os.path.join(ROOT, "i18n", f"{lang}.json"), encoding="utf-8"))
+    missing = [k for k in need2 if k not in d]
+    assert not missing, f"{lang}.json missing {missing}"
+
 print("subscribe modal OK")

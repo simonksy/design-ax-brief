@@ -461,8 +461,9 @@ async function pollEntitlement(tries = 5, gapMs = 2000) {
    with the blurred locked card still visible behind the translucent backdrop. */
 /* 구독 모달 — 플랜 2종. 결제창은 Paddle 오버레이로 사이트 위에 뜬다. */
 function SubscribeModal({ onClose, t }) {
-  const [phase, setPhase] = useState('choose');   // choose | confirming | slow | error
+  const [phase, setPhase] = useState('choose');   // choose | confirming | slow | error | login | sent
   const [note, setNote] = useState('');
+  const [email, setEmail] = useState('');
 
   const start = async (plan) => {
     try {
@@ -471,7 +472,7 @@ function SubscribeModal({ onClose, t }) {
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({ plan }),
       });
-      if (res.status === 401) { setPhase('error'); setNote(tx('paywall.login_first')); return; }
+      if (res.status === 401) { setPhase('login'); return; }
       if (!res.ok) { setPhase('error'); setNote(tx('paywall.checkout_failed')); return; }
       const cfg = await res.json();
       const Paddle = await loadPaddle(cfg.clientToken, cfg.environment);
@@ -517,6 +518,25 @@ function SubscribeModal({ onClose, t }) {
             <Plan plan="monthly" price={tx('paywall.plan_monthly')} />
             <Plan plan="yearly" price={tx('paywall.plan_yearly')} badge={tx('paywall.plan_yearly_note')} />
           </React.Fragment>
+        )}
+        {phase === 'login' && (
+          <React.Fragment>
+            <p style={{ margin: '0 0 10px', fontSize: 13, color: '#5a5450' }}>{tx('paywall.login_first')}</p>
+            <input type="email" value={email} onChange={(e) => setEmail(e.target.value)}
+              placeholder={tx('paywall.email_label')} autoComplete="email"
+              style={{ width: '100%', boxSizing: 'border-box', padding: '10px 12px', fontSize: 16,
+                borderRadius: 10, border: '1px solid ' + t.rule, marginBottom: 8 }} />
+            <AxPill label={tx('paywall.send_link')} t={t} onClick={async () => {
+              if (!email.includes('@')) return;
+              await fetch('/api/auth/request', { method: 'POST',
+                headers: { 'content-type': 'application/json' },
+                body: JSON.stringify({ email }) });
+              setPhase('sent');
+            }} />
+          </React.Fragment>
+        )}
+        {phase === 'sent' && (
+          <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.link_sent')}</p>
         )}
         {phase === 'confirming' && (
           <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.confirming')}</p>
@@ -1182,6 +1202,24 @@ function ProBadge({ onClick }) {
   );
 }
 
+/* 구독자에게만 보이는 관리 링크 — 카드 변경·해지·영수증은 Paddle 포털에서 한다. */
+function ManageLink({ t }) {
+  const [busy, setBusy] = useState(false);
+  return (
+    <button disabled={busy} onClick={async () => {
+      setBusy(true);
+      try {
+        const r = await fetch('/api/billing/portal', { credentials: 'same-origin' });
+        const b = await r.json();
+        if (b.url) window.open(b.url, '_blank', 'noopener');
+      } finally { setBusy(false); }
+    }} className="ax-eyebrow" style={{ cursor: 'pointer', border: 'none', background: 'none',
+      color: t.faint, textDecoration: 'underline', padding: 0 }}>
+      {tx('paywall.manage')}
+    </button>
+  );
+}
+
 /* ---- WeeklyTimeline: 5-day axis; hover fans a deck + pushes neighbors. When
    `!entitled`, the whole archive is Pro-gated: every deck renders blurred with
    a 🔒 badge (see DayDeck), a "Become a Pro" pill sits next to the heading, the
@@ -1207,7 +1245,9 @@ function WeeklyTimeline({ t, onOpen, days, entitled }) {
             ? tx('deck.hint_desktop')
             : tx('deck.locked')}
         </p>
-        {!entitled && <div style={{ marginTop: 12 }}><ProBadge onClick={() => setShowSubscribe(true)} /></div>}
+        <div style={{ marginTop: 12 }}>
+          {entitled ? <ManageLink t={t} /> : <ProBadge onClick={() => setShowSubscribe(true)} />}
+        </div>
       </div>
       <div style={{ position: 'relative', display: 'flex', alignItems: 'flex-start', padding: '178px 40px 0' }}>
         <div style={{ position: 'absolute', left: 40, right: 40, top: 178 + 148, height: 1, background: t.rule, zIndex: 0 }} />
