@@ -3094,6 +3094,226 @@
           "x": "“ETC的角色是把教育者、电影人和行业聚在一起,去验证新兴技术,”Beeble CEO Hoon Kim说。“看到我们的工具在这样的环境中被使用,并帮助塑造未来的制作工作流程,真的很有成就感。”"
         }
       ]
+    },
+    "movies/movies-nice-touch-v2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nice Touch发布了同名应用的V2版本,这是一款面向专业视频后期团队的AI剪辑助手。这不是小修小补,而是彻底重做,与300多位剪辑师、制片人、制作监督和工作室负责人的对话构成了设计的骨架。现在就可以使用。"
+        },
+        {
+          "t": "p",
+          "x": "工作方式是这样的:先分析项目素材,以逐词级别的精度转录文字并区分说话人。接下来只需用平实的语言下指令。说出想要的剪法,应用就会在时间线上放上真实的片段、剪点和标记,处于可以直接继续编辑的状态。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Nice-Touch-app.jpg",
+          "cap": "Nice Touch"
+        },
+        {
+          "t": "p",
+          "x": "先说V2新增的内容。首先,运行的位置变了:现在可以在Adobe Premiere和DaVinci Resolve中直接运行。"
+        },
+        {
+          "t": "p",
+          "x": "剪辑引擎也重新搭建了。采访、播客、圆桌、对镜头讲话、多人交叠发言的场次,各自性质不同。V2会读取收到的素材属于哪一类、要求的剪辑属于哪一类,并据此处理。"
+        },
+        {
+          "t": "p",
+          "x": "多机位剪辑从原始多机位素材开始。无论版本和修改往来多少次,机位同步都会一直保持。分析和转录支持18种语言。"
+        },
+        {
+          "t": "p",
+          "x": "这不是黑箱,而是对话。剪辑师用语言下指令,能提前看到应用打算做什么,并可以在执行前按下刹车。"
+        },
+        {
+          "t": "p",
+          "x": "创始人是马修·库克西和保罗·西蒙。两人用12年时间把Circus Street的视频制作团队扩大到200人规模,为可口可乐、耐克、雀巢、辉瑞制作过电视级、VFX级的内容。库克西还搭建过一个50万英镑规模的虚拟影棚,用20种语言制作了60小时内容,触达了超过50万观众。"
+        },
+        {
+          "t": "p",
+          "x": "Media Composer、Final Cut、Premiere、Resolve——工具一代代改变了工作方式,但最痛的那一环始终没人动过。一块装满素材的硬盘送到时,数量总是比预期多,总得有人把它全部看完、挑出精选、同步多机位、搭好粗剪,创作判断只有在那之后才真正开始。通常这会耗掉整整一天。"
+        },
+        {
+          "t": "p",
+          "x": "在300次对话里,两件事反复出现。第一,现有的大多数AI工具都需要先跳出剪辑流程,到别处处理,再把结果带回来——这是剪辑师们不愿跨过的一条线。"
+        },
+        {
+          "t": "p",
+          "x": "第二,不存在所有人都想要的单一成片。需求因项目和行业角落而异:串联素材、精选、粗剪、混剪、精简版、声音片段、纸上剪辑,每一种都对应着精确的期望。V2的设计目标正是覆盖这整个范围,而不是单一固定的输出。"
+        },
+        {
+          "t": "p",
+          "x": "价格信息在nicetouch.app上。5天免费试用可用2,000点数解锁全部功能。付费档位是7,000点数的Pro,每月67.75美元;40,000点数的Ultra,每月338.67美元,也支持按量充值。Podimo和乔治亚大学社会工作学院的剪辑团队已经在使用。"
+        }
+      ]
+    },
+    "movies/movies-tung-sahur-ai-lawsuit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在圣何塞联邦法院这个极其“模拟时代”的场景里,一场围绕AI时代谁真正拥有什么的、也许最离奇却可能最重要的争斗正走向尾声。Slop内容、商标与版权主张、意大利烂梗(brainrot)表情包、授权纠纷全部纠缠在一起,通通萨胡尔正处在风暴中心。Roblox和Fortnite也以配角身份出现。"
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/Tung-Tung-Tung-Sahur-and-San-Jose-Federal-Courthouse.jpg?w=1024",
+          "cap": "Tung Tung Sahur / San Jose Federal Courthouse"
+        },
+        {
+          "t": "p",
+          "x": "9月23日,诺埃尔·怀斯法官将主持听证会。原告Spider Games和Speedy Simulator Gaming,以及被告、如今也提起反诉的Momentum Labs,双方都在要求法院驳回对方的诉求。"
+        },
+        {
+          "t": "p",
+          "x": "事情的起因是一封技术含量极低的邮件。2025年年中,总部位于法国的Momentum联系了Spider Games旗下的Two Big Studios,抱怨通通萨胡尔出现在Roblox的采集狩猎热门游戏《Steal a Brainrot》中。"
+        },
+        {
+          "t": "p",
+          "x": "Momentum从印尼创作者Noksa(真名Fernanda Vagas Indrastata)那里获得了通通萨胡尔的授权——那个长着木棍腿、面带呆滞笑容、手持球棒的角色。由于已经和Epic Games的Fortnite签约,Momentum也向Two Big Studios提出了同样的要求。"
+        },
+        {
+          "t": "p",
+          "x": "这看起来像一次普通的IP谈判:几封邮件、几轮协商、律师之间开一两次Zoom会议、打几笔款就结束。但这一次不是。"
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-28-at-6.51.10-AM.png",
+          "cap": "Deadline"
+        },
+        {
+          "t": "p",
+          "x": "一向不受家长和教师待见的Roblox一度下架了通通萨胡尔,让Momentum赢得了短暂的胜利。但谈判一陷入僵局,Spider就先发制人起诉了Momentum。美国版权局的立场是AI生成作品也可以受到保护,但要逐案判断,而Momentum在纠纷开始时并未在美国取得完整的版权。"
+        },
+        {
+          "t": "p",
+          "x": "Momentum的外部律师史蒂文·斯坦这样说:“这起案件只是一场触及更大问题的全球性争斗的一条战线——仅仅因为涉及了AI,公司就可以未经许可、不作任何补偿地将人类创作商业化吗?”他简短地补充道:“我们认为不行。”"
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-2.58.44-PM.png",
+          "cap": "Deadline"
+        },
+        {
+          "t": "p",
+          "x": "对方的逻辑更为简单。代表《Steal a Brainrot》制作方的Mitchell Silberberg & Knupp在7月30日的修订诉状中明确表示:“Momentum所主张的权利并不存在。根据既有法律,版权保护需要人类的创作行为,而AI生成物不符合这一条件。”Momentum在同一天提出了商标侵权反诉,并于8月19日以缺乏管辖权为由申请驳回。"
+        },
+        {
+          "t": "p",
+          "x": "MSK的艾伦·莫斯向Deadline表示:“这场纠纷始于Momentum向我的客户发出停止函。Momentum自称拥有数十个‘意大利烂梗’表情包,并自封为它们的‘商业把关人’。但烂梗内容不属于Momentum,也不属于任何人,因为它们全部都是AI生成的内容。”"
+        },
+        {
+          "t": "p",
+          "x": "庭审定于2027年11月29日举行。无论9月的听证会偏向哪一方,关于AI生成内容需要多少人类参与的问题,都已经掷出了部分骰子。工作室、主播、YouTube和创作者经济一直以来当作资产来信赖的东西,究竟是牢固还是漏洞百出,也将随之浮现。"
+        }
+      ]
+    },
+    "movies/movies-free-video-generator": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "qv0s1_coX50"
+        },
+        {
+          "t": "p",
+          "x": "专注电影制作的频道Curious Refuge在8月18日发布了一段27分钟的每周整理视频「I Can't Believe This AI Video Generator is Free」。标题指的是LTX 2.5。"
+        },
+        {
+          "t": "p",
+          "x": "视频从00:19打开LTX 2.5开始，04:35起把它和MiniMax H3放在一起对比。这段接近12分钟的对比是视频中最长的部分，12:08则谈到了MiniMax H3的许可变更。"
+        },
+        {
+          "t": "p",
+          "x": "后面接连是一连串消息:把图像转成3D模型的Meshy 7，进入ChatGPT内部的Adobe Creative Cloud，限制音乐下载的Suno，Magnific 3D Motion和Seedance 2.5，北京宣布的AI创新区，以及Dreamina开设的Story Unboxed征集活动。"
+        },
+        {
+          "t": "p",
+          "x": "结尾照旧按老规矩来:先讲最佳AI工具指南和免费合规指南，再带来社区消息，然后从26:00开始播放本周的AI电影——Adam Palmer的Primer AI概念广告、Danny Tseng的The Tower，以及Dave Clark的Plume。"
+        }
+      ]
+    },
+    "movies/movies-open-weight-onprem": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "包括Nvidia、Microsoft、Meta、IBM、Hugging Face在内的35家机构在「Open-Weights and American AI Leadership」公开信上署名，点燃了围绕开放权重模型的争论。他们的主张是，任何人都能下载、拆解、修改并在自己基础设施上运行的模型，是基础设施的一个支柱。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/1786609854089-neon-z-image-turbo-copy-830x467.jpg",
+          "cap": "fxguide用开放扩散变换器Z-Image-turbo在本地生成的图像。图片来源:Jack Higgins"
+        },
+        {
+          "t": "p",
+          "x": "fxguide指出，VFX一线的情况没那么简单。在内部运行最新的开源GenAI工作流本身就会成为一个安全漏洞。ComfyUI是一款出色的工具，但其代码和开放的插件生态留下了恶意代码混入的空间，公司内部IT团队要把全部代码审查一遍根本不现实。再加上GPU短缺和内存价格飙升，中等规模的公司仍然离不开云端。"
+        },
+        {
+          "t": "p",
+          "x": "fxguide还刊登了曾与迪士尼、Netflix合作过的GenAI工作流与色彩科学顾问JD Vandenberg的文章。他的结论是，引入开放权重模型，能带来工作流稳定性、安全性、成本可预测性和交付效率。"
+        },
+        {
+          "t": "p",
+          "x": "制作期间，若非必要绝不升级软件。相反，GenAI模型经常变动，既不提前通知也不公开变更记录。同样的输入、同样的种子也可能得到不同结果。工具还可能一夜之间消失。3月OpenAI关闭Sora应用和网页服务后，Critterz错过了原定的戛纳首映，联合制作方只能另寻新的AI合作方，把档期重新定到了2027年初。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/1786609818717-watercolour-z-image-turbo-copy-830x467.jpg",
+          "cap": "用同样方式在本地制作的水彩风格图像。图片来源:Jack Higgins"
+        },
+        {
+          "t": "p",
+          "x": "安全问题更加直接。制作网络在MPA和TPN内容安全要求下，把对外通道收得很窄，但只要把素材发给托管模型、再把结果取回来，这道防线上就会被打开一个口子。经由这个口子往来的，往往正是尚未公开的素材。本地部署的模型则可以在完全封闭的网络里运行。"
+        },
+        {
+          "t": "p",
+          "x": "成本更难预测。制作过2024年Sora短片Air Head的多伦多团体Shy Kids的后期监制Patrick Cederberg告诉fxguide，做出90秒的成片需要「数百次10到20秒的生成」，素材与成片的比例大约是300:1。有剧本的实拍通常在10:1到30:1之间。截至2026年8月，API费率是每秒输出0.05到0.75美元，因此完成1分钟的成本，等于这个单价乘上一个难以估算的倍数。6月，旧金山一家金融科技公司的一名员工在做游戏时，一周就烧掉了价值81,267美元的token。"
+        },
+        {
+          "t": "p",
+          "x": "设备其实已经在手。如今的视频模型经常同时推出能在单张工作站GPU上运行的蒸馏、量化版本。渲染农场和用于调色的GPU，在工作时间之外也闲着。不过开放权重和开源并不是一回事。能下载权重，和被允许微调、再分发、商用交付，是两件不同的事，许可证从Apache 2.0到仅限非商用各不相同。结果再好，如果许可证不允许商用，等到确认环节才发现就已经太晚了。"
+        }
+      ]
+    },
+    "movies/movies-photoshop-firefly5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe发布了Photoshop更新。这是一套把精细工具和提示词编辑并排摆放、任选其一的组合。打头阵的是全新的Light Adjustment Layer、由Firefly驱动的Instruct Edit with Masks，以及以测试版形式开放的AI Assisted Editor。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=_dBhwGrE",
+          "cap": "以测试版形式开放的AI Assisted Editor界面"
+        },
+        {
+          "t": "p",
+          "x": "面向创意专业人士的产品营销副总裁Deepa Subramaniam在公告中表示:「无论是用精细工具打磨细节，还是用提示词展开想法，这次更新的目的都是帮助大家更高效、更自信地工作，并从头到尾都专注于创作构想。」"
+        },
+        {
+          "t": "p",
+          "x": "Light Adjustment Layer把曝光、对比度、高光、阴影、白色和黑色，整合进了一张非破坏性调整图层。不需要离开图层工作流，就能得到Camera Raw级别的效果。"
+        },
+        {
+          "t": "p",
+          "x": "在Instruct Edit with Masks中，Firefly Image 5会读取图像的整体语境。不需要逐一指出要编辑的位置，只要用一句话说出来，比如让闭着的眼睛睁开，或者给某个人物的头上戴上帽子。蒙版之外的部分不会被动，所以人脸、标志、品牌素材都能保持原样。新增的Markup功能可以直接在图像上画出意图:把要换色的区域涂出来，用箭头标出位置，新元素则用粗略的形状刷出来。这样就减少了只靠文字描述时容易出现的歧义。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081305-instructeditmasks3-1280.jpg?itok=0wCgk1M_",
+          "cap": "指定了蒙版的Instruct Edit操作示例"
+        },
+        {
+          "t": "p",
+          "x": "Dynamic Text, Shapes and Paths把Photoshop的动态文本能力扩展到了自定义形状和路径上，文字可以沿着曲线或自由布局自动排列。Stock Panel Integration把超过9亿份的Adobe Stock素材，直接拉进了Photoshop内部的固定面板里。"
+        },
+        {
+          "t": "p",
+          "x": "测试版的AI Assisted Editor是一个带有自然语言提示栏的独立界面，用不用完全由你决定。里面集合了Prompt to Edit、Remove Background、Generative Expand、Remove Tool、Generative Fill、Generative Upscale和AI Markup。"
+        },
+        {
+          "t": "p",
+          "x": "对于留在Pro Editor里的用户，Prompt to Edit也以Contextual Task Bar的形式加入进来。不需要选区，一行提示词就能改变整张图像，每次生成的结果都会作为新的生成图层叠加进图层堆栈。这次更新现在就可以在Photoshop中使用。"
+        }
+      ]
     }
   }
 }

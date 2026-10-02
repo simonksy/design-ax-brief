@@ -3139,6 +3139,233 @@
           "x": "El artículo de The Bookseller está detrás de un muro de acceso, así que esto es todo lo que es público. Detalles como la lista de títulos, el método de traducción y los créditos solo están disponibles para suscriptores. El artículo lo escribió Lauren Brown el 25 de agosto."
         }
       ]
+    },
+    "books/books-guest-post-the-human": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/08/iStock-1206796363-1024x545.jpg",
+          "cap": "Imagen principal del artículo invitado de The Scholarly Kitchen"
+        },
+        {
+          "t": "p",
+          "x": "Jane Jiang, directora de biblioteca en una universidad comunitaria de Nueva Jersey, ha observado durante los últimos dos años cómo las conversaciones sobre IA en el campus pasan de la curiosidad a la urgencia. El profesorado pregunta cómo abordar la IA en la enseñanza y la evaluación, el estudiantado pregunta si puede confiar en la información generada por IA, y las editoriales se preguntan cómo se fijará el valor cuando los investigadores accedan al contenido académico a través de la IA en lugar de las plataformas existentes. Estas conversaciones pueden parecer independientes, pero convergen en una sola pregunta: cómo proteger la confianza, el juicio y la integridad académica en un entorno de información mediado por la IA."
+        },
+        {
+          "t": "p",
+          "x": "Jiang considera que el futuro de la biblioteca no se decidirá por lo bien que imite a la IA, sino por lo bien que ayude a los usuarios a orientarse en un mundo donde las máquinas generan, resumen y entregan información. De hecho, muchos estudiantes ya usan herramientas de IA como punto de partida de su investigación. Para el estudiantado de universidades comunitarias que combina trabajo y familia, la IA reduce el umbral para empezar. La cuestión no es si los estudiantes usan la IA, sino cómo ayudarlos a usarla de manera responsable."
+        },
+        {
+          "t": "p",
+          "x": "Una escena vivida por una bibliotecaria resume este cambio. Un estudiante que había usado ChatGPT para entender un tema y esbozar el esquema de una tarea se acercó al mostrador de referencia y preguntó: “How do I know if this is actually right?”. Jiang dijo que recibió con gusto esa pregunta, porque el estudiante entendía que la IA puede ayudar en el trabajo, pero no puede asumir en su lugar la responsabilidad de la exactitud, la integridad y la veracidad. La conversación pasó rápidamente de la IA a sopesar pruebas y verificar fuentes."
+        },
+        {
+          "t": "p",
+          "x": "Lo mismo ocurre con la alfabetización en citación. Herramientas de gestión bibliográfica como NoodleTools y Zotero reducían los errores de formato desde antes de ChatGPT, pero también dejaron una vieja lección: la automatización puede ocultar la comprensión. Hay estudiantes que producen citas MLA con formato perfecto sin saber por qué hay que citar las fuentes. La IA generativa ha ampliado aún más esa brecha al producir al instante citas, resúmenes, revisiones de literatura e incluso preguntas de investigación."
+        },
+        {
+          "t": "p",
+          "x": "En materia de integridad académica, Jiang marca distancia frente a la confianza en herramientas de detección. Productos como GPTZero y ZeroGPT han llegado al mercado, pero ninguna herramienta garantiza identificar con precisión un texto escrito por IA. Un estudio comparativo del equipo de investigación de Weber-Wulff también confirmó los límites de las herramientas de detección más usadas. Por eso, la pregunta de los educadores está pasando de “How do we catch students using AI?” a “How do we design learning experiences where students demonstrate their thinking?”."
+        },
+        {
+          "t": "p",
+          "x": "Las bibliotecas y las editoriales han compartido durante mucho tiempo la misma misión, solo que desde direcciones distintas. Las editoriales seleccionan, revisan, conservan y distribuyen la producción académica, mientras que las bibliotecas ayudan a las personas a encontrarla, evaluarla, interpretarla y usarla de forma responsable. De dónde viene esta información, si se puede confiar en ella y por qué, han sido siempre preguntas de la biblioteca, y ahora se están convirtiendo también en preguntas de las editoriales. La última frase de Jiang fue esta: “The opportunity presented by AI is not to remove the human layer of scholarship. It is to recognize why that layer has always mattered.”"
+        }
+      ]
+    },
+    "books/books-ccc-fair-use-training-part3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Parte 2 llegó hasta establecer que, según la ley estadounidense, el entrenamiento de IA constituye, en principio, una infracción de derechos de autor. La pregunta obvia que un director jurídico hace a continuación es si existe una defensa."
+        },
+        {
+          "t": "p",
+          "x": "En Estados Unidos, la principal defensa es el uso justo (fair use). Está codificado en el 17 U.S.C. § 107 de la ley de derechos de autor, pero no es un permiso general. Es una defensa que se evalúa caso por caso, después de los hechos, y ninguno de sus cuatro factores es por sí solo decisivo. Las empresas de IA han puesto un gran peso en el argumento de que el entrenamiento está exento por ser 'transformativo'. Este texto sostiene que esa posición es mucho más inestable de lo que sugieren los titulares."
+        },
+        {
+          "t": "p",
+          "x": "Tres tribunales federales han abordado el uso justo de frente, y el panorama es fragmentado. En Thomson Reuters contra Ross Intelligence (Tribunal de Distrito de Delaware, 2025), el juez Bibas rechazó el uso justo en los cuatro factores. El uso era comercial, las notas de cabecera (headnotes) copiadas eran obras creativas, se reprodujo una parte sustancial sin cambios, y el producto de IA competía directamente en el mercado de Thomson Reuters. No es un caso de IA generativa, pero es la primera sentencia federal que, tras examinar por completo los cuatro factores del uso justo para el entrenamiento de IA, lo rechazó."
+        },
+        {
+          "t": "p",
+          "x": "Pocos días después, llegaron dos casos más en el Tribunal de Distrito del Norte de California. En Bartz contra Anthropic (2025), el juez Alsup consideró que entrenar con libros comprados legalmente era “sumamente transformativo” y reconoció el uso justo. Sin embargo, trazó una línea en el origen de los datos: las copias no autorizadas descargadas de bibliotecas en la sombra como LibGen no quedaron exentas, y esa responsabilidad llevó a un acuerdo de demanda colectiva de 1.500 millones de dólares."
+        },
+        {
+          "t": "p",
+          "x": "En Kadrey contra Meta Platforms (2025), el juez Chhabria también consideró, a la luz de las pruebas presentadas, que el entrenamiento era transformativo, y aceptó la moción de juicio sumario de Meta. El matiz importa: los demandantes simplemente no presentaron pruebas suficientes de daño al mercado, y el propio juez señaló que un expediente más sólido podría haber cambiado el resultado."
+        },
+        {
+          "t": "p",
+          "x": "Vistas en conjunto, las tres sentencias muestran que el uso justo del entrenamiento de IA depende de los hechos concretos y sigue sin resolverse. Hasta agosto de 2026, los tribunales estadounidenses tienen pendientes más de 100 demandas de derechos de autor contra desarrolladores de IA, y la cifra sigue creciendo. La frase que dejó el juez Chhabria —“las empresas de IA generalmente tendrán que pagar a los titulares de derechos de autor por el derecho a usar sus obras”— es la señal más directa salida de los tribunales."
+        },
+        {
+          "t": "p",
+          "x": "Los cuatro factores juegan en contra del entrenamiento no autorizado. Las obras se incorporan al entrenamiento precisamente por su valor expresivo. La sentencia Andy Warhol Foundation contra Goldsmith reafirmó que un uso con el mismo propósito que la obra original es más difícil de calificar como uso justo. Las obras en disputa suelen tener una creatividad alta y se copian íntegras. El hecho de que ya exista un mercado de licencias para el uso de IA —que cubre entrenamiento, RAG, inferencia e indicaciones (prompts)— debilita el argumento de que el daño al mercado es mínimo."
+        },
+        {
+          "t": "p",
+          "x": "Este texto es un resumen de Roanie Levy de la Sección A de la Parte 3 del artículo 'Here's the Thing: Copyright, AI Training, and LLMs', escrito por Daniel Gervais (catedrático de Derecho, Universidad de Vanderbilt), Noam Shemtov (profesor de Propiedad Intelectual y Derecho Tecnológico, Queen Mary University of London), Haralambos Marmanis (vicepresidente ejecutivo y CTO de CCC) y Catherine Zaller Rowland (vicepresidenta y asesora jurídica general de CCC). La conclusión es la concesión de licencias. Apostar los cimientos de un programa corporativo de IA únicamente al uso justo significa aceptar años de incertidumbre jurídica sobre un expediente que la empresa no puede controlar por completo. La Parte 4 aborda esa alternativa."
+        }
+      ]
+    },
+    "books/books-hathitrust-transparent-books": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Fundación Mellon otorgará a HathiTrust 5 millones de dólares a lo largo de cinco años. El proyecto se llama 'Transparent Books: AI Infrastructure for Discovery and the Public Interest'. Se unen la Biblioteca de la Universidad de Northeastern, conocida por su trabajo en investigación académica digital, y Authors Alliance, una organización sin fines de lucro que ayuda a los autores que desean que sus obras se usen en beneficio del interés público."
+        },
+        {
+          "t": "img",
+          "src": "https://www.infodocket.com/wp-content/uploads/2026/08/2026-08-27_13-05-55.png",
+          "cap": "Anuncio de HathiTrust sobre el proyecto 'Transparent Books'"
+        },
+        {
+          "t": "p",
+          "x": "El alcance son los 19 millones de volúmenes que HathiTrust ha digitalizado. Con la condición de limitarse a usos legales y sin fines de lucro en favor del interés público, el objetivo es hacer que esta colección sea más fácil de usar para el mundo académico y los lectores en general. Investigadores, estudiantes y, de forma más amplia, el público en general, obtendrán nuevas vías de acceso a esta colección."
+        },
+        {
+          "t": "p",
+          "x": "'Transparent Books' responde a una necesidad creciente de una infraestructura de confianza compartida y dirigida por el ámbito académico que permita buscar e investigar materiales digitalizados con mayor sofisticación. El objetivo es conectar a los lectores con libros relevantes más rápido, ampliando el alcance y el impacto de esos libros, teniendo en cuenta los intereses de editoriales, autores, investigadores y lectores en general."
+        },
+        {
+          "t": "p",
+          "x": "Durante cinco años, el trabajo se dividirá en cuatro líneas. La primera es usar IA para refinar los metadatos bibliográficos —tema, idioma, resúmenes— y la calidad del texto, y construir una búsqueda conversacional que permita explorar tanto volúmenes individuales como colecciones completas. La segunda es el suministro de materiales verificados: ofrecer a gran escala textos e imágenes de libros con origen legal y procedencia confirmada para usos académicos y sin fines de lucro, como la minería de texto, el análisis computacional y la creación de modelos de lenguaje especializados. Las otras dos líneas consisten en establecer principios compartidos sobre marcos legales, integridad de la investigación, rendición de cuentas e impacto ambiental, y en construir un servicio financieramente sostenible."
+        },
+        {
+          "t": "p",
+          "x": "Mike Furlough, director ejecutivo de HathiTrust, dijo que “durante décadas, las bibliotecas han preservado su valor incluso ante cambios tecnológicos rápidos y poderosos”, y añadió que “las bibliotecas crearon HathiTrust para que los resultados de la digitalización masiva respondieran a las necesidades particulares de los investigadores y la comunidad académica”."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto continúa el trabajo del 'Public Interest Corpus' de 2024-2026, liderado por Authors Alliance y la Universidad de Northeastern. Ese proyecto encontró una forma de que las bibliotecas de investigación abrieran legalmente los datos de los libros a la investigación computacional, sin repetir el patrón de que las grandes colecciones digitales terminen monopolizadas por empresas. HathiTrust aplica ese mismo marco para poner su colección a disposición de la investigación y el desarrollo de IA sin fines de lucro."
+        },
+        {
+          "t": "p",
+          "x": "Dave Hansen, director ejecutivo de Authors Alliance, dijo que “queremos reducir la barrera para los investigadores sin fines de lucro y académicos, de modo que puedan realmente avanzar en la investigación y crear modelos y herramientas que beneficien al interés público”, y añadió que “al mismo tiempo, queremos que las obras e ideas de los autores sean descubiertas, atribuidas, y que se pueda construir sobre ellas”. Dan Cohen, decano de bibliotecas de la Universidad de Northeastern y profesor de historia, dijo que las bibliotecas han combinado con cuidado sus colecciones con herramientas de IA, pero que la falta de libros digitalizados era un vacío importante, y que este proyecto llena ese vacío."
+        }
+      ]
+    },
+    "books/books-japan-literary-prize-ai-flood": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A medida que se comenzó a escribir novelas con inteligencia artificial (IA), los premios literarios japoneses se enfrentan a un nuevo reto: decidir, entre miles de obras, qué cuenta como literatura."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.huffingtonpost.kr/news/photo/202608/202608189503.jpg?v=259630",
+          "cap": "Foto de archivo de libros. © Pixabay"
+        },
+        {
+          "t": "p",
+          "x": "Nihon Keizai Shimbun (Nikkei) informó el día 17 que la carga de seleccionar y juzgar obras ha crecido a medida que las novelas escritas con IA inundan los concursos literarios japoneses. El 14.º Concurso SF Hayakawa, organizado por la editorial japonesa Hayakawa Shobo y cuyo plazo de presentación cerró a finales de marzo, recibió 1.012 obras, más del doble de las aproximadamente 400 habituales. El concurso, que ha permitido el uso de IA generativa, está considerando exigir a partir de la próxima edición que los participantes indiquen dónde y cómo usaron la IA."
+        },
+        {
+          "t": "p",
+          "x": "Según Nikkei, una persona involucrada dijo que, entre las obras que leyó, entre 2 y 3 de cada 10 mostraban rastros que hacían sospechar el uso de IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "No es la primera vez que la IA se somete al juicio de un premio literario. En 2016, cuatro relatos cortos creados conjuntamente por IA y humanos se presentaron al Premio Hoshi Shinichi de Japón, y uno de ellos pasó la primera ronda de selección. Diez años después, la situación ha cambiado. En la categoría general de la 13.ª edición del Premio Hoshi Shinichi, se descubrió que 3 de las 4 obras ganadoras habían usado IA en el proceso creativo. De 2.107 obras presentadas en total, 491 reconocieron haber usado IA."
+        },
+        {
+          "t": "p",
+          "x": "También ha surgido investigación sobre el mercado editorial. Investigadores estadounidenses analizaron 14.419 novelas de género autopublicadas y vendidas en Amazon entre 2023 y 2026. Los libros detectados con más del 25% de texto generado por IA representaron una parte considerable del total, y con el tiempo sus ventas crecieron y entraron más a menudo en las listas de los más vendidos. Sin embargo, mientras el número de libros con ventas trimestrales confirmadas creció 19,2 veces, los ingresos totales solo crecieron 8,9 veces."
+        },
+        {
+          "t": "p",
+          "x": "No solo la cantidad es un problema; también lo es la diversidad. En un estudio publicado en 2024 en la revista científica internacional Science Advances, se pidió a 293 personas que escribieran relatos cortos, y se compararon las obras que usaron ideas generadas por IA con las que no. Las obras asistidas por IA obtuvieron calificaciones más altas en creatividad, acabado y entretenimiento. Pero las obras que usaron IA tendieron a parecerse más entre sí. Un estudio reciente sobre novelas en japonés encontró de forma similar que las obras creadas en colaboración entre humanos e IA recibieron las calificaciones de calidad más altas, aunque también mostraron una mayor probabilidad de perder personalidad u originalidad."
+        },
+        {
+          "t": "p",
+          "x": "Este cambio también impone una nueva carga a los premios literarios. La IA reduce el costo de producir una obra, pero no reduce el costo de leer y juzgar cuán original es realmente esa obra. A medida que aumentan las candidaturas, los jurados deben evaluar no solo el acabado, sino también hasta qué punto intervino la IA y dónde terminó la creación humana. Las críticas siguen señalando que los resultados de las herramientas de detección por sí solos no bastan para determinar la autoría de una obra, y algunos premios responden exigiendo que los propios participantes declaren si usaron IA."
+        },
+        {
+          "t": "p",
+          "x": "Cada premio tiene que fijar ahora sus propios criterios: si prohibir la IA, permitirla con divulgación, o reconocer el uso de la IA como un método creativo en sí mismo. Como resultado, la barrera para producir una novela con IA ha bajado, mientras que la barrera para encontrar una buena novela, si acaso, ha subido."
+        }
+      ]
+    },
+    "books/books-vietnam-ai-labelling-law": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Asamblea Nacional de Vietnam aprobó esta semana una ley de edición revisada por una mayoría abrumadora. Entrará en vigor el 1 de marzo de 2027. La ley redefine la edición no solo como una actividad cultural, sino como una industria tecnológica y económica central dentro de la infraestructura de conocimiento del país."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.thenewpublishingstandard.com/wp-content/uploads/2022/04/South-East-Asia.png",
+          "cap": "Serie sobre la edición en el Sudeste Asiático de The New Publishing Standard"
+        },
+        {
+          "t": "p",
+          "x": "Para los titulares de derechos extranjeros y las editoriales locales, lo más importante es el ámbito digital. A medida que el mercado de lectura en línea de Vietnam ha crecido con rapidez, la IA generativa y la piratería digital han crecido junto con él, y la nueva ley refuerza la protección de derechos de autor sobre la base establecida por la reforma de 2022 a la Ley de Propiedad Intelectual."
+        },
+        {
+          "t": "p",
+          "x": "Por ello, el contenido creado total o parcialmente por IA debe etiquetarse de forma clara. Sin embargo, el medio —aclarando que se trata de una lectura del original en vietnamita traducido por IA— escribió que esa definición parece demasiado vaga como para tener mucho peso práctico. También dejó claro que la responsabilidad legal por el contenido publicado sigue correspondiendo a la editorial."
+        },
+        {
+          "t": "p",
+          "x": "Las plataformas digitales e intermediarios extranjeros que operan en Vietnam deben nombrar un representante legal local y responder a las solicitudes de datos y retirada del país, en línea con la tendencia más amplia de soberanía digital en todo el Sudeste Asiático."
+        },
+        {
+          "t": "p",
+          "x": "Los trámites administrativos, en cambio, se están aligerando. El antiguo depósito de ejemplares físicos se sustituye por un depósito electrónico centralizado, que solo exige presentar un archivo digital diez días antes de la publicación. Se eliminan las tarifas de licencia de importación en favor de una autoevaluación basada en declaración. Al fomentar la formación de grupos mediáticos multiplataforma y priorizar la inversión estatal en bases de datos digitales, Hanói busca transformar un mercado antes limitado por la impresión tradicional y la distribución fragmentada en un ecosistema competitivo centrado en la tecnología."
+        },
+        {
+          "t": "p",
+          "x": "El consejo del medio es práctico. Los profesionales de la edición deberían revisar ya sus marcos de cumplimiento, especialmente en lo relativo al etiquetado de IA. Los responsables de derechos deberían prepararse para auditorías estrictas sobre el etiquetado de IA, mientras que los responsables de estrategia digital pueden aprovechar los trámites de importación simplificados y el depósito electrónico para acelerar los lanzamientos. Vietnam avanza hacia convertirse en un centro editorial moderno y regulado, y en el proceso trae consigo también elementos menos bienvenidos. Esta noticia fue detectada por Carlo Carrenho y redactada por Mark Williams."
+        }
+      ]
+    },
+    "books/books-writer-beware-ai-scams": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://writerbeware.blog/wp-content/uploads/2025/10/Blog-images-AI-3-1024x576.jpg",
+          "cap": "Imagen de cabecera de la serie sobre estafas con IA de Writer Beware (Crédito: Steve Johnson / Unsplash.com)"
+        },
+        {
+          "t": "p",
+          "x": "La estafa con IA que ha llenado las bandejas de entrada de los escritores durante más de un año ha vuelto a cambiar de forma. Cuando Victoria Strauss empezó a cubrir esta estafa, se trataba de un único mensaje de marketing que prometía aumentar la 'exposición' de un autor o un libro como lo haría un profesional."
+        },
+        {
+          "t": "p",
+          "x": "En poco más de un año, la estafa ha evolucionado junto con las reacciones de los escritores y el creciente número de denuncias y debates. Al mensaje de marketing se han sumado ahora estafas de clubes de lectura y reseñas, junto con todo tipo de suplantaciones. Entre los suplantados están autores famosos, agentes literarios, editores de editoriales, festivales literarios (con invitaciones falsas) y emisoras de radio y presentadores (con falsas solicitudes de entrevista). El objetivo del primer contacto es llevar, tras una o dos presentaciones, a un contrato de edición o marketing de pago."
+        },
+        {
+          "t": "p",
+          "x": "Lo que no ha cambiado son las señales reveladoras: una personalización excesiva, posible gracias a la IA generativa, que hace parecer que el remitente realmente leyó el libro, junto con elogios desbordantes; direcciones de Gmail casi sin excepción; información de cuentas que conduce a estafadores en el extranjero; y una insistencia tan persistente que resulta contraproducente. Es un negocio que funciona por volumen, así que basta con engañar a una fracción mínima de víctimas para generar ganancias."
+        },
+        {
+          "t": "img",
+          "src": "https://writerbeware.blog/wp-content/uploads/2026/08/Nigerian-Prince-prodco-impersonation-2.png",
+          "cap": "Ejemplo de un correo que suplanta a una productora de cine. La dirección era 'chris.winterlightpictures@gmail.com'"
+        },
+        {
+          "t": "p",
+          "x": "Mientras que una ola anterior de suplantación de productoras extraía grandes sumas con la excusa de guiones o servicios de 'adaptación a la pantalla', esta estafa con IA solo había apuntado, hasta ahora, a libros, edición y su entorno inmediato. En las últimas semanas, ese límite se ha roto. Han empezado a llegar denuncias de suplantación de productoras con los rasgos característicos de la estafa con IA: personalización excesiva, elogios y direcciones de Gmail. El formato de la dirección sigue el patrón 'nombredelremitente.nombredelaempresa@gmail.com', un sello clásico del fraude de suplantación. Strauss dejó claro que las productoras casi nunca contactan directamente a los autores, y que, si llega a ocurrir, el correo proviene del dominio propio de la empresa, no de Gmail."
+        },
+        {
+          "t": "img",
+          "src": "https://writerbeware.blog/wp-content/uploads/2026/08/Nigerian-Prince-agent-impersonation.png",
+          "cap": "Ejemplo de un correo que suplanta a un agente literario"
+        },
+        {
+          "t": "p",
+          "x": "La suplantación de agentes literarios es una variante de la suplantación de editores que hoy se ve en todas partes. En lugar de la versión de tres pasos —editor de editorial falso, luego agente falso, luego 'editor' de pago—, esta es una versión de dos pasos que va directamente de agente falso a 'editor', con un lenguaje menos florido. El correo llega bajo el nombre de un agente que resulta ser real al buscarlo, preguntando si el destinatario tiene actualmente un agente. Si se responde, piden una carta de presentación (query letter) y el manuscrito, y en cuestión de días presentan a un 'editor' que cobra una tarifa considerable. Ambas figuras son el mismo estafador. Strauss escribió que también había visto correos idénticos enviados bajo los nombres de Andrea Brown, y de Julia Churchill, de A.M. Heath."
+        },
+        {
+          "t": "p",
+          "x": "Desde las estafas de edición y marketing con origen en Filipinas, pasando por las estafas de escritura fantasma con origen en el sur de Asia, hasta esta estafa con IA rastreada repetidamente hasta Nigeria y nigerianos, los objetivos hasta ahora han sido escritores de habla inglesa en EE. UU., Reino Unido, Australia y Nueva Zelanda. Los correos de captación, los sitios web y los anuncios estaban todos en inglés. Pero en las últimas semanas han llegado varios mensajes de marketing en alemán. Las condiciones se mantienen: direcciones de Gmail, personalización y elogios, y comercializadores sin rastro alguno en línea."
+        },
+        {
+          "t": "p",
+          "x": "Strauss añadió una lista de señales de advertencia: saludos torpes (Dear Victoria Strauss o Dear Author, o ningún saludo en absoluto); elogios desbordantes que citan con precisión la trama y los temas; emojis; intercambios de correos que se alargan antes de llegar al tema del dinero; seguimientos que llegan de nuevo en cuestión de horas; solicitudes de pago en roles que normalmente no cobran; métodos de pago difíciles de revertir, como transferencias bancarias, facturas de Upwork o Fiverr, envíos de PayPal entre amigos y familiares, Zelle o Cash App; y facturas sin nombre, dirección ni número de teléfono."
+        }
+      ]
     }
   }
 }

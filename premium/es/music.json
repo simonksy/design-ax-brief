@@ -3549,6 +3549,243 @@
           "x": "Es compatible con PC con Windows 10 o posterior y Mac con macOS 10.13 o posterior. Hay versiones VST23, AU y AAX. Cuesta £238.80 con IVA incluido y ya está disponible."
         }
       ]
+    },
+    "music/music-ai-track-detectives": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&w=1200",
+          "cap": "Cath Virginia / The Verge, Max Harris, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "A medida que las herramientas de audio generativo se vuelven más sofisticadas, internet se llena de música que extrae algorítmicamente melodías y voces del trabajo de artistas humanos. Algunos admiten de inmediato haber usado IA; otros solo lo confiesan cuando la presión se vuelve intensa."
+        },
+        {
+          "t": "p",
+          "x": "En una escena tan ligada a la tecnología como la música electrónica de baile, qué cuenta como “real” es una pregunta urgente y personal. Que un oyente señale a un intérprete sospechoso no pesa lo mismo que un artista que denuncia a un colega."
+        },
+        {
+          "t": "p",
+          "x": "Max “H4RRIS” Harris, productor de EDM de 26 años, eligió lo segundo. Señala en video a quienes cree que presentan basura hecha con IA como arte humano."
+        },
+        {
+          "t": "p",
+          "x": "“No veo lo que produce la IA como arte, ni creo que esta tecnología haga avanzar el arte de forma significativa”, dice Harris. “Es solo un avance tecnológico que le da a la gente una forma de robar arte real y presentarlo como propio.”"
+        },
+        {
+          "t": "p",
+          "x": "Describió su propio proceso de forma parecida a cualquier otro medio creativo: partir de un concepto central y lanzar ideas hasta que algo funciona. Su montaje —Ableton Live, un Push 3, Serum, Kontakt— puede verse complicado, pero dice que todo se reduce a que “soy yo quien toma las decisiones creativas”."
+        },
+        {
+          "t": "p",
+          "x": "Las señales salen del oído. Más allá de voces que suenan todas parecidas, hay un siseo agudo que recorre toda la pista. Su hipótesis es que viene de que el modelo parte de una gran masa de ruido blanco y adivina la forma de onda mientras consulta datos de canciones reales."
+        },
+        {
+          "t": "p",
+          "x": "Lo que a menudo delata a las pistas al estilo Suno es un tartamudeo: la voz y otros elementos melódicos se cortan en el mismo instante exacto. Eso ocurre porque el modelo no separa bien las partes de la canción y las trata como un solo instrumento grande, una decisión que ningún productor tomaría."
+        },
+        {
+          "t": "p",
+          "x": "Citó como ejemplos “Midnight on My Mind”, de MANSA, y “Take Me (To The Moon)”, de Danny e Ian Asher. Sin embargo, ninguno de los tres ha revelado si usó una herramienta generativa, y no hay pruebas concluyentes. Harris podría estar equivocado."
+        },
+        {
+          "t": "p",
+          "x": "Lo que llevó a Harris a hacer su video fue una publicación en Threads sobre Suno del productor italiano Nihil Young, de 39 años. “Es como subir la canción original completa de una artista como Madonna y pedirle que la remezcle”, dijo."
+        },
+        {
+          "t": "p",
+          "x": "Hubo un costo. Young dice que sufrió intentos de hackeo y acoso en línea, e incluso le aparecieron seguidores falsos que inflaban sus cifras de Spotify. Las denuncias se han pausado por ahora. Tras hacer mezcla y masterización para Sony Music, Warner y Universal, perdió varios clientes en cuanto se difundió la IA."
+        },
+        {
+          "t": "p",
+          "x": "Las cifras apuntan en sentido contrario. Según estimaciones de Kapwing, los 10 principales creadores de música con IA en Spotify y YouTube ganaron más de 6 millones de dólares en 2025. Deezer dijo que más de la mitad de las subidas nuevas son canciones de IA, y Hallwood Media firmó un contrato de 3 millones de dólares con el avatar de IA Xania Monet."
+        },
+        {
+          "t": "p",
+          "x": "“Con unos buenos auriculares, queda claro que la música la hizo una IA”, dice Young. “Pero hoy la gente consume música como comida rápida. La escuchan en el altavoz del teléfono o la ponen de fondo, sin prestar atención a cómo suena realmente.”"
+        }
+      ]
+    },
+    "music/music-jazz-profile-hijack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/jazz-musician-streaming-profiles-hijacked-to-post-ai-slop.png",
+          "cap": "Photo Credit: Chris Bair"
+        },
+        {
+          "t": "p",
+          "x": "Granjas de spam han secuestrado los perfiles de YouTube y Spotify de músicos de jazz. Lo que sale de ellos son pistas de IA generativa, con personajes femeninos de estilo anime generados por IA pegados en las portadas."
+        },
+        {
+          "t": "p",
+          "x": "Los perfiles en Spotify, Amazon Music y YouTube de músicos de jazz, incluido William “Sonny” Criss, están cubiertos de spam de IA hasta un nivel preocupante. Los perfiles de la vocalista Jean Carne, el cornetista Red Nichols y el clarinetista Jimmie Noone están en la misma situación. Las “canciones nuevas” subidas este año llevan el nombre del editor “Ami bacuk”."
+        },
+        {
+          "t": "p",
+          "x": "En el perfil de Spotify de Criss aparecieron dos canciones nuevas. Como lo describió Futurism, “un logro impresionante para alguien que murió en 1977”. Ambas pistas tienen en la portada el típico personaje femenino de estilo anime, y el compositor figura como “Zainul Irpan”, que suena más a dos nombres comunes de origen árabe pegados entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Las canciones tienen aire de jazz, pero es casi imposible rastrear su origen. A diferencia de la basura de IA habitual, no son remixes de canciones de Criss ni de obras de otros artistas que el software de identificación musical pudiera detectar."
+        },
+        {
+          "t": "p",
+          "x": "Si no fuera porque de pronto inundaron el perfil de un artista ya fallecido pistas con personajes de anime modernos encima, a un oyente común le habría resultado difícil distinguir estas canciones del trabajo real del músico."
+        },
+        {
+          "t": "p",
+          "x": "El pasado abril, el mismo editor también publicó cuatro sencillos a nombre de Jimmie Noone. Noone fue un clarinetista y director de banda negro de dixieland que murió en 1944."
+        },
+        {
+          "t": "p",
+          "x": "Los títulos son “You Have Hurt Him”, “You Have Hurt Him 2”, “He's still there” y “He's still there 2”. Todas son baladas pop genéricas con lo que suena como una voz femenina cantada por IA. Incluso la surrealista imagen de cabecera al estilo corporate memphis de IA choca de frente con el sonido real de Noone y con sus portadas de álbum en fotografía en blanco y negro."
+        },
+        {
+          "t": "p",
+          "x": "El perfil de YouTube Music de la vocalista de R&B y jazz Jean Carne (también escrito Carn) también ha sido invadido por esta basura. Las señales son casi idénticas a las de la página de Criss, y la música es un jazz plano al que le falta la voz de cinco octavas que distingue a Carne. Hay una diferencia decisiva: Carne todavía está viva."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de Spotify dijo a Futurism que “los lanzamientos en cuestión han sido eliminados de los perfiles de los artistas”, y añadió que “proteger la identidad de los artistas es una prioridad máxima para nosotros, y seguimos invirtiendo mucho en detección y prevención”."
+        },
+        {
+          "t": "p",
+          "x": "Spotify también destacó Artist Profile Protection, que se está probando por etapas antes de su lanzamiento completo. Permite que los artistas revisen y aprueben o rechacen los lanzamientos entrantes antes de que se publiquen. Aun así, sigue abierta la pregunta de por qué esto tiene que ser opcional en lugar de la configuración predeterminada de los servicios de streaming, sobre todo cuando la función surgió precisamente a raíz de secuestros de perfiles en Spotify."
+        },
+        {
+          "t": "p",
+          "x": "En resumen, las plataformas están reaccionando después de los hechos en lugar de adelantarse a la avalancha de basura de IA. Cuando el público no puede notar que una pista fue hecha por IA, un servicio como Spotify tiene más que ganar que perder. Eso le da más peso a la decisión de Deezer de identificar activamente las pistas de IA y excluirlas de su fondo de regalías."
+        }
+      ]
+    },
+    "music/music-canada-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ca.billboard.com/media-library/image.jpg?id=67690117&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+          "cap": "La Universidad de Alberta encuestó a 263 músicos canadienses"
+        },
+        {
+          "t": "p",
+          "x": "La Universidad de Alberta preguntó a 263 “músicos canadienses en activo” qué están viviendo en una industria musical cambiante. El optimismo escaseaba cuando los encuestados hablaban de los rápidos cambios tecnológicos de la industria, en especial la IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "De los 142 que opinaron sobre la rápida expansión de la IA, el 87% la vio “de forma negativa”. Una parte considerable dijo que no usa estas herramientas en su propia música, citando cómo devalúan el trabajo hecho por humanos. Otros dijeron que atraer nuevos oyentes y ganar un ingreso con el que vivir se vuelve cada vez más difícil."
+        },
+        {
+          "t": "p",
+          "x": "Más allá del problema moral que el estudio resumió como “una pérdida de la artisticidad humana”, los músicos también señalaron el robo de derechos de autor, problemas ambientales y “el temor de que las pistas generadas por IA puedan amenazar su sustento al enterrar la música real”."
+        },
+        {
+          "t": "p",
+          "x": "Hasta las listas se vieron afectadas. El tema viral de EDM “I Run”, del dúo electrónico HAVEN, entró en el Billboard Canadian Hot 100. Después de salir a la luz que la voz femenina sin crédito se hizo con la herramienta de IA Suno, la sustituyeron por la cantante de TikTok Kaitlin Aragon, y es esa versión la que llegó a la lista."
+        },
+        {
+          "t": "p",
+          "x": "La mirada hacia el streaming está igual de retorcida. El estudio describe a los artistas como atrapados en una “relación ambivalente forzada” con estas plataformas. Tener éxito en la era digital las convierte en una “necesidad práctica”, pero eso convive con pagos bajos y la desconfianza hacia “algoritmos opacos que han sustituido el descubrimiento orgánico”. Muchos encuestados dijeron que querrían dejarlas pero no ven alternativa."
+        },
+        {
+          "t": "p",
+          "x": "“Los músicos vivieron en carne propia el cambio hacia el streaming hace cerca de una década, y todavía no se han recuperado ni han visto sus beneficios”, dijo el investigador principal Brian Fauteux. Añadió que los artistas ahora enfrentan “otra variable con la IA, que llega desde el mundo de las grandes tecnológicas, de gente que no parece ver la música como un arte o un oficio”."
+        },
+        {
+          "t": "p",
+          "x": "“Esto no es una ira que salió de la nada”, dijo Fauteux. “Estos problemas se remontan a años de sellos discográficos y explotación, llenos de historias de músicos a quienes no se les pagó correctamente o se les quitaron sus derechos.”"
+        }
+      ]
+    },
+    "music/music-happy-shrimp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/08/1091456116-e1787068208459.jpg?w=1024",
+          "cap": "El estand de Alibaba en el CES de Las Vegas, enero de 2019. Foto: David Becker/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El gigante tecnológico chino Alibaba lanzó esta semana su propio modelo de generación de música con IA. Según la empresa, convierte prompts como “pop mandarín millennial” o “la sensación del amanecer en el folk urbano” en canciones terminadas. Los precios empiezan por debajo de los 10 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Lo construyó Token Hub de Alibaba, una unidad de negocio de IA lanzada en marzo que supervisa personalmente el CEO Eddie Wu. Happy Shrimp 1.0 se asoció con TAIHE MUSIC GROUP, el mayor sello musical de China y una empresa de entretenimiento de audio. Todavía está en beta, pero dentro del sitio se puede crear música con IA, subirla, buscarla y escucharla, y dejar me gusta y comentarios. La membresía empieza en 14,90 dólares al mes, y los paquetes de créditos desde 9,90 dólares."
+        },
+        {
+          "t": "p",
+          "x": "Happy Shrimp se une a la familia de modelos de IA Happy de Alibaba, tras Happy Horse, un servicio de generación de video con IA, y Happy Oyster, que crea video interactivo 3D para desarrolladores de juegos. El comercio electrónico, con AliExpress y Taobao, sigue siendo el núcleo del negocio de Alibaba, pero los modelos Happy salen de Token Hub, la unidad central de investigación en IA que Wu creó para sacar más modelos de IA comerciales al mercado."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestro objetivo número uno es perseguir [la inteligencia artificial general]”, dijo Wu en una llamada con inversores en febrero de 2025, según Bloomberg. “Seguiremos desarrollando modelos que amplíen los límites de la inteligencia.”"
+        },
+        {
+          "t": "p",
+          "x": "El último año en la industria musical ha sido una maraña de tres hilos: plataformas de música con IA compitiendo por crecimiento y capital, compañías musicales tratando de sacar provecho de lo que venga y meterse en ello, y un bando que se opone a la unión misma de tecnología y música. Suno, la mayor plataforma de música con IA de EE. UU., anunció su segundo acuerdo con una gran compañía musical al firmar un contrato de licencia con BMG, tras uno anterior con Warner Music Group. Spotify dijo que etiquetará la música con IA a partir de septiembre y está lanzando una función de remix con IA creada junto a UMG, Merlin y Kobalt."
+        },
+        {
+          "t": "p",
+          "x": "El sitio web de Happy Shrimp describe el modelo así: “Trata la música como un lenguaje con su propia gramática, significado y contexto. En lugar de crear letra, melodía, arreglo y voces por separado y unirlos después, los diseña en conjunto, de modo que toda la pista sale como una canción coherente.”"
+        },
+        {
+          "t": "p",
+          "x": "Los prompts pueden ser largos o cortos. Se puede usar terminología musical profesional o escribir en jerga de internet. El sitio afirma que una pista terminada sale en segundos."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba y su socio estratégico TAIHE están explorando más oportunidades como “la co-creación con artistas y el desarrollo de contenido de alta calidad”, según Alizila, el sitio de noticias corporativas en inglés de Alibaba."
+        }
+      ]
+    },
+    "music/music-ig-first-draft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/instagram_first_draft-banner-2.jpg",
+          "cap": "Instagram First Draft"
+        },
+        {
+          "t": "p",
+          "x": "En el momento en que miran su montón de clips sin editar, muchos músicos y creadores simplemente deciden no publicarlos."
+        },
+        {
+          "t": "p",
+          "x": "Para que la gente supere ese obstáculo, Instagram lanzó First Draft. Es una función de edición con un solo toque que recorta y une los clips de video por su cuenta, convirtiéndolos en un Reel fluido en segundos."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora solo está disponible en iOS. Es como un asistente digital que se encarga de la parte más tediosa de la edición de video, la fase del “corte basto”. Es probable que la versión de Android llegue pronto."
+        },
+        {
+          "t": "p",
+          "x": "First Draft es una herramienta de edición nativa hecha solo para Reels de Instagram. Recorta los clips elegidos, elimina las pausas innecesarias y enlaza los mejores momentos en un primer corte."
+        },
+        {
+          "t": "p",
+          "x": "Detecta sobre todo el audio y el movimiento para identificar silencios y recortar esos huecos. No depende de la IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "Hay dos formas de usarla. Abre la galería de Reels desde el carrete de la cámara, elige uno o más clips y toca el botón “First Draft” en la parte inferior de la pantalla, o graba directamente con la cámara de Instagram y toca “First Draft” para armar el metraje al instante."
+        },
+        {
+          "t": "p",
+          "x": "No le importa el formato, desde vlogs cotidianos hasta montajes de gira hechos con varios clips o videos sencillos de alguien hablando a cámara."
+        },
+        {
+          "t": "p",
+          "x": "Cualquier edición que haga First Draft es 100% reversible. Si no te gusta el ritmo de la edición automática, puedes reordenar los clips, restaurarlos o descartarlos todos, y luego pasar al editor completo para añadir música, texto y efectos."
+        },
+        {
+          "t": "p",
+          "x": "El video corto es hoy un eje inseparable del marketing musical. Pero para los músicos independientes que llevan sus propias campañas, editar es un enorme cuello de botella."
+        },
+        {
+          "t": "p",
+          "x": "Al automatizar la parte más molesta y lenta, recortar silencios y armar un montaje básico, Instagram le devuelve tiempo al artista. Con el trabajo pesado del corte basto fuera de en medio, pueden dedicarlo a pulir la narrativa, hablar con los fans y, de verdad, hacer música. Si tienes un iPhone, se acaba de esfumar la última excusa para no publicar un vlog de gira o la explicación de una canción."
+        }
+      ]
     }
   }
 }

@@ -4209,6 +4209,220 @@
           "x": "Claramente hay lugar para la forma actual. Solo con tener una pantalla grande para ver películas o para un portátil mientras se viaja ya es bastante bueno. Pero el precio pesa. No gastaría 600 dólares en el Xreal One Pro solo por agrandar una pantalla, pero sí pagaría 299 dólares por el A01+. El Xreal 1S de 450 dólares que probé en el CES apenas se diferenciaba del One Pro para los usos descritos aquí. El Aura llega este año, y el One Pro, el 1S y el A01+ ya están a la venta."
         }
       ]
+    },
+    "gadgets/gadgets-android17-agent-dashboard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google está preparando un nuevo panel de privacidad que rastrea los agentes de IA instalados y en ejecución en el teléfono."
+        },
+        {
+          "t": "p",
+          "x": "Se espera que Android 17 permita comprobar no solo los agentes creados con Spark, sino también los que usan servicios de terceros."
+        },
+        {
+          "t": "p",
+          "x": "Parece ser parte del próximo panel de privacidad de Android dedicado a la actividad de IA."
+        },
+        {
+          "t": "p",
+          "x": "Los flujos de trabajo agénticos son la siguiente etapa de la IA. El usuario delega tareas complejas en asistentes como Gemini, ChatGPT o Claude, sin tener que intervenir en cada paso."
+        },
+        {
+          "t": "p",
+          "x": "Google lleva meses hablando de automatización. La idea es que todo, desde tareas simples como pedir comida en línea hasta ir más allá de planificar un viaje y completar también la reserva, se maneje desde el propio dispositivo Android."
+        },
+        {
+          "t": "p",
+          "x": "Gemini no puede ser la única app capaz de crear agentes y ejecutarlos en segundo plano. Por eso parece que Google está construyendo en Android 17 QPR2 Beta 4 un panel dedicado para vigilar qué hacen los agentes, sobre todo qué hacen por detrás."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Android-17-QPR2-beta-4-Privacy-controls-Agents-watermarked.jpg",
+          "cap": "La nueva entrada 'Agentes' en los controles de privacidad de Android 17 QPR2 Beta 4"
+        },
+        {
+          "t": "p",
+          "x": "En la última beta de Android 17 QPR2 ha aparecido una nueva entrada llamada 'Agentes' bajo Seguridad y privacidad > Controles de privacidad. Todavía no hay ningún agente en la lista, pero la descripción indica que esta página muestra “agentes que pueden acceder a información o realizar tareas dentro de las apps”. También aparece un aviso para instalar un agente y que se muestre aquí."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Android-17-QPR2-beta-4-Privacy-controls-Agents-2-watermarked.jpg",
+          "cap": "La lista de agentes vacía, sin ningún agente instalado"
+        },
+        {
+          "t": "p",
+          "x": "A juzgar por la descripción, esta sección no estará ligada únicamente a los agentes de IA creados con Gemini Spark. Hay margen para que se sumen otras apps dedicadas con funciones agénticas."
+        },
+        {
+          "t": "p",
+          "x": "Este cambio tiene todo el aspecto de preparar la llegada de Android Halo. Como los pilotos que ya acompañan a la cámara y el micrófono, es un indicador de estado que avisa cuando un agente está trabajando en segundo plano. Presentado en Google I/O 2026, el indicador tiene forma de rosa de los vientos (apodado el destello) y se prometió para “antes de que termine el año”."
+        },
+        {
+          "t": "p",
+          "x": "Junto con el indicador, Google también mostró brevemente un panel de privacidad renovado que rastrea la actividad de IA. Ese tampoco ha llegado todavía, pero ya dio su primer paso registrando los datos que salen del Private Compute Core, encargado del procesamiento de IA en el dispositivo."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-smart-glasses-2027": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Como pronto el año próximo, Apple lanzará sus primeras gafas inteligentes con IA. Es un dispositivo que incorpora Visual Intelligence y lleva a Siri al espacio físico. Esto es lo que se sabe hasta ahora."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&strip=all&w=1600",
+          "cap": "Imagen conceptual de las gafas inteligentes de Apple"
+        },
+        {
+          "t": "p",
+          "x": "Una aclaración primero: estas gafas no son gafas de RA, sino gafas de IA. Sin pantalla, la voz y la cámara pasan a ser el centro de la interacción."
+        },
+        {
+          "t": "p",
+          "x": "Gracias a la cámara, Siri ve la misma realidad que el usuario está mirando. Responde preguntas, aporta contexto y traduce letreros. También es probable que incluya la función revelada por primera vez en la filtración de macOS 26.7: guardar algo como foto y pedirle a Siri que lo recuerde más tarde."
+        },
+        {
+          "t": "p",
+          "x": "También lleva altavoz. Reproduce música y audio, así que no es exagerado pensarlas como auriculares de tipo abierto."
+        },
+        {
+          "t": "p",
+          "x": "En cambio, la función de tomar fotos y videos de forma normal podría quedar fuera. Así lo contó Mark Gurman de Bloomberg. Las gafas Ray-Ban de Meta se convirtieron recientemente en el centro de una polémica de privacidad, y Apple parece querer evitar ese camino."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de Meta, Apple no se asocia con un fabricante de gafas existente. Según Bloomberg, está haciendo el diseño internamente y probando varios estilos a la vez."
+        },
+        {
+          "t": "p",
+          "x": "Son cuatro líneas: un marco cuadrado grande parecido al Ray-Ban Wayfarer, un diseño cuadrado delgado similar al de las gafas que usa el director ejecutivo de Apple, Tim Cook, un marco ovalado o redondo más grande, y una opción ovalada o redonda pequeña y refinada."
+        },
+        {
+          "t": "p",
+          "x": "El material sería acetato, más resistente y de aspecto más cuidado que el plástico. Se prepararán varios acabados, entre ellos negro, azul océano y marrón claro."
+        },
+        {
+          "t": "p",
+          "x": "Se dice que, para la siguiente generación, Apple también está considerando posicionar este producto como un dispositivo de salud, añadiendo un sensor de ritmo cardíaco como el de los AirPods Pro 3, o incorporando funciones de software como el Workout Buddy del Apple Watch."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de eso, todavía no está claro qué más hará Apple en el terreno de la salud. Pero no hay que esperar nada de eso en la primera generación."
+        },
+        {
+          "t": "p",
+          "x": "Combinando los informes recientes, Apple presentaría las gafas en la WWDC 2027 para dar tiempo a los desarrolladores a prepararse, y las enviaría más adelante ese mismo año. En la práctica eso significa un debut en septiembre, compartiendo escenario con el iPhone todo de vidrio del 20º aniversario."
+        }
+      ]
+    },
+    "gadgets/gadgets-framework-192gb-desktop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Framework reveló más información sobre la versión de 192GB de su PC de escritorio pequeño. El modelo lleva el chip Ryzen AI 400 Gorgon Halo de AMD, y también se abrió una página de producto dedicada con las especificaciones."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Framework-Gorgon-Halo-Desktop-header.png",
+          "cap": "El Framework Desktop, que pronto cambiará a la nueva versión"
+        },
+        {
+          "t": "p",
+          "x": "El núcleo de la nueva configuración es el mayor ancho de banda de memoria. Esto abre la posibilidad de que una sola máquina maneje tareas de IA que normalmente requerirían varias GPU externas de alto rendimiento. Hasta 160GB del total de memoria se pueden asignar a la GPU integrada."
+        },
+        {
+          "t": "p",
+          "x": "El chip incluido es el AMD Ryzen AI Max+ 495 Pro. El ancho de banda de memoria es de 273GB/s, un 6.6% más alto que el Ryzen AI Max+ 395."
+        },
+        {
+          "t": "p",
+          "x": "La diferencia la marca la memoria LPDDR5X-8533, más rápida. El SKU basado en Strix Halo combinaba una interfaz de 256 bits con LPDDR5X-8000, para rendir unos 256GB/s. El nuevo Ryzen AI Max+ Pro 495 mantiene el ancho de interfaz en 256 bits, pero eleva el ancho de banda teórico con módulos LPDDR5X más rápidos."
+        },
+        {
+          "t": "p",
+          "x": "El chip en sí no cambió mucho respecto a la generación anterior. La configuración de 16 núcleos y 32 hilos Zen 5 se mantiene igual; solo subió el reloj turbo máximo, a 5.2GHz."
+        },
+        {
+          "t": "p",
+          "x": "La GPU integrada Radeon 8065S también conserva sus 40 unidades de cómputo RDNA 3.5, con el reloj máximo subiendo ligeramente de 2.9GHz a 3.0GHz. La NPU XDNA 2 se indica con hasta 55 TOPS."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Framework-Gorgon-Halo-teaser.png",
+          "cap": "Teaser del Framework Gorgon Halo"
+        },
+        {
+          "t": "p",
+          "x": "El momento del anuncio también llama la atención. GMKtec dejó entrever hace poco que mostrará un mini PC Evo X5 Pro con el Ryzen AI Max+ Pro 495 en el IFA 2026 de septiembre. También se mencionó que más detalles sobre el Gorgon Halo podrían llegar hacia el 5 de septiembre, en torno al IFA de Berlín."
+        },
+        {
+          "t": "p",
+          "x": "De ser así, no sería raro que Framework y varios otros fabricantes sacaran SKUs de Gorgon Halo por esas mismas fechas."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, Framework también tiene su escritorio de 192GB listado como “próximamente”. El precio aún no se conoce. Pero con esta cantidad de LPDDR5X soldada, la configuración tope de gama está obligada a ser cara."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-xr-operator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta lanzó Meta XR Operator, una herramienta experimental que permite a agentes de IA para programación compilar, probar, depurar y hasta verificar visualmente apps de RV por sí mismos."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+          "cap": "Meta Quest 3 (crédito de imagen: Meta)"
+        },
+        {
+          "t": "p",
+          "x": "Al incorporar agentes de IA, los desarrolladores aceleraron la lectura y escritura de código, y pudieron delegar también la ejecución de pruebas o la corrección de errores. Pero el paso de confirmar que eso realmente funciona siempre quedaba vacío."
+        },
+        {
+          "t": "p",
+          "x": "El XR Operator que anunció Meta es una capa de API de OpenXR dirigida justo a ese vacío. Se incluye como componente experimental en el Meta XR SDK (v205)."
+        },
+        {
+          "t": "p",
+          "x": "Con XR Operator, un agente de IA compatible con el Model Context Protocol (MCP) puede ver, moverse por y manipular una app de RV que corre en el Meta XR Simulator. Según Meta, puede crear directamente una escena de Unity, ejecutarla, tomar capturas de pantalla, detectar problemas, corregirlos y hasta verificar por sí mismo que la corrección sea correcta."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de la iteración rápida y la depuración, también se incluyen pruebas en lenguaje natural. El desarrollador describe un escenario de prueba con palabras, el agente lo ejecuta tal cual, y devuelve un resultado de aprobado o fallido con capturas de pantalla como evidencia."
+        },
+        {
+          "t": "p",
+          "x": "Meta dijo que hizo pruebas iniciales con equipos que desarrollan con el Meta XR SDK, incluido Beat Games, creador de Beat Saber. Uno de los primeros ejemplos fue construir una app de tres en raya interactiva en RV. El agente escribió la lógica del juego, apuntó un controlador virtual a una casilla, presionó “A” para colocar una ficha y completó una partida entera hasta que se decidió un ganador."
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/i879GCHk/tic-tac-toe-vr.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Por supuesto, todavía no es una herramienta de verificación 'terminada'. Quedan varias limitaciones importantes. Operator XR no puede oír sonido, no evalúa bien animaciones ni movimiento, no rastrea dedo por dedo ni detecta de forma fiable defectos visuales sutiles. La interacción dinámica también es difícil. Es demasiado lento para seguir el ritmo en tiempo real, así que Meta mismo dice que funciona mejor con “escenarios estáticos y deterministas”."
+        },
+        {
+          "t": "p",
+          "x": "Su alcance también sigue limitado al Meta XR Core SDK para Unity. Pero Meta añadió que, para otros motores que usan OpenXR, como Godot o Unreal Engine, se puede descargar un paquete independiente y conectarlo uno mismo."
+        },
+        {
+          "t": "p",
+          "x": "No me gusta la idea de que la IA tiña la mayor parte del terreno creativo con producción barata en masa, pero todavía no es la era de 'un prompt, un juego entero'. Cuando esa era llegue, vendrá acompañada de una avalancha de volumen que sepultará incluso los clones de Gorilla Tag que ya abarrotan la Horizon Store. Modelos de mundo como Genie 3 de Google, construido por DeepMind, ya generan escenas de juego, aunque de forma limitada."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, Meta se concentra en herramientas de IA que automatizan la parte mecánica del desarrollo: hacer una mejor pala en vez de excavar el oro directamente. La época de comprar estudios de RV y repartir presupuestos de desarrollo de millones de dólares en contenido exclusivo empezó con el Rift en 2016 y terminó con el Quest a principios de este año."
+        },
+        {
+          "t": "p",
+          "x": "El panorama que dibuja es este: estudios pequeños usan estas herramientas para hacer, rápido y barato, algo muy bueno que llene la Horizon Store, justo el tipo de contenido que Meta no quería financiar directamente. Meta Connect 2026, que empieza el 22 de septiembre, estará repleto de sesiones sobre desarrollo de juegos con IA, así que se podrá escuchar más ahí."
+        }
+      ]
     }
   }
 }

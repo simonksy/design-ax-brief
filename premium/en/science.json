@@ -3642,6 +3642,158 @@
           "x": "Schuh's team suggests that fellow researchers disclose what's in their test sets and audit benchmarks regularly. To help with that, they also released BenchAudit, an open-source tool that detects issues like train-test contamination and label conflicts. The goal isn't to eliminate every flaw, but to “flag the problems and be as honest as possible,” Schuh says. The paper is in Chem. Sci., 2026, DOI: 10.1039/d6sc01799a."
         }
       ]
+    },
+    "science/science-chess-complexity-tolerance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Chess has served as a laboratory for studying intelligence and decision-making for decades. That engines beat even the strongest grandmasters is well known. How their moves actually differ has been far less understood."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Complexity Science Hub and the University of Parma analyzed more than 2,000 human-versus-human and AI-versus-AI chess games move by move, and found a fundamental difference in how humans and AI handle “strategic tension.”"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chess.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "“Humans and AI don't just differ in how well they play,” says Vito D. P. Servedio, a paper author and senior researcher at CSH. “They differ in how they handle complexity. Humans reduce it quickly. AI knows how to sustain it.”"
+        },
+        {
+          "t": "p",
+          "x": "The researchers quantified this difference by counting how many possibilities remain after each move. The wider the range of open possibilities at a given point, the greater the strategic tension a player faces. Tension is low early in a game: pieces are still spread apart and each move's consequences are limited. As the game progresses, every move redraws the web of possible moves, and the position grows increasingly complex."
+        },
+        {
+          "t": "p",
+          "x": "Both humans and AI build up strategic tension together through the opening and early middlegame. Top human players even briefly reach a slightly higher peak than engines do. The divergence comes after that. The moment grandmasters step outside their prepared and memorized opening theory, they tend to simplify the position by trading pieces. Modern engines like Stockfish and Leela Chess Zero hold onto tightly tangled positions for far more moves."
+        },
+        {
+          "t": "p",
+          "x": "The study, published in APS Open Science, also shows that the ability to withstand tension rises with playing strength. Stronger players sustain complex positions longer, and classical games with longer thinking time show markedly higher cumulative tension than rapid or blitz games. The same pattern appears in AI. Increasing Stockfish's search depth increases the strategic tension it sustains. Persistent complexity, in other words, is tied to computational resources."
+        },
+        {
+          "t": "p",
+          "x": "“Maintaining complexity is itself a strategic resource,” Servedio says. “Powerful AI keeps countless possibilities alive at once, while humans, cognitively overwhelmed by managing all those interactions, tend to simplify the position.” The study also found that outcomes are often decided before tension even reaches its peak. Once one side establishes a lasting advantage, both humans and AI simplify the position, but even at that stage, AI carries far more complexity forward than humans do."
+        },
+        {
+          "t": "p",
+          "x": "“The hardest decisions in the world — in diplomacy, military planning, financial markets — share the need to navigate a vast, constantly shifting web of possibilities,” Servedio says. Eddie Lee, a former CSH postdoctoral researcher now an assistant professor in the Department of Physics and Astronomy at Seoul National University, said: “If AI amplifies complexity in chess, it raises the question of what happens in other strategic settings. We don't know what consequences the risk of introducing a player that embraces complexity could have for negotiation, economic competition, and conflict.” The authors added that reality is far more uncertain than chess, so direct comparisons should be made with caution. Having superior computation doesn't just mean making better decisions — it changes how complexity itself is handled."
+        }
+      ]
+    },
+    "science/science-extended-mean-field": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Physics works well on relatively simple systems, like a pendulum, two colliding electrons, or the structure of the solar system. Things change once particles multiply and become entangled with one another. In condensed-matter systems like gases and fluids, or in early-universe cosmology, a technique called classical mean-field theory, or its extended version, simplifies the problem."
+        },
+        {
+          "t": "p",
+          "x": "A Princeton University team led by first author Luca Di Carlo applied extended mean-field theory to biological neuron networks. The study was published in Physical Review Letters. The simplest version of mean-field theory failed to accurately describe this network's activity. The extended version succeeded."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/going-beyond-simple-mo.jpg",
+          "cap": "AI-generated image representing a neuron network. Credit: Brian Penny, Pixabay"
+        },
+        {
+          "t": "p",
+          "x": "In a two-dimensional Ising model, where particles with quantum spins sit at each vertex of a lattice, every particle interacts with every other particle in the lattice. Finding an exact solution is almost always too demanding. Instead, an approximate solution comes from assuming each spin interacts with the average spin of the whole lattice — that's classical mean-field theory. Extended mean-field theory takes in more information about the system's composition, such as the probability distribution of neuron activity patterns. Here, fluctuations matter, not just the average."
+        },
+        {
+          "t": "p",
+          "x": "Neurons have action potentials: fast electrical pulses that travel along the long, thin axon extending from the cell body. These signals let neurons communicate with muscles and glands. The signal is binary — within a short window, a neuron either sends a spike or doesn't. That makes a population of neurons at any given moment essentially an Ising model."
+        },
+        {
+          "t": "p",
+          "x": "The researchers wrote in the paper that “building a consistent mean-field theory describing the activity patterns of real neuronal networks turns out to be surprisingly difficult.” They added that they finally succeeded “with an extended model that simultaneously fits the average activity of individual neurons and the distribution of activity along one projected direction.”"
+        },
+        {
+          "t": "p",
+          "x": "A network state refers to a full record of which neurons spiked (spin up) and which didn't (spin down). The number of possible states is enormous, and each has a different probability. Infinitely many distributions can satisfy the experimentally observed average spin and the correlation between any two spins, but information theory says to pick the maximum-entropy distribution among them — the choice that is as random as possible while containing only the information needed to match the constraints, with no added assumptions."
+        },
+        {
+          "t": "p",
+          "x": "What results is the Boltzmann distribution: the probability of the network being in a given state is proportional to the exponential of the negative of that state's total energy. Once the distribution is fixed by observed values, no other parameters enter later predictions, which makes the model experimentally testable. The researchers tested the extended model using a statistical model built from activity recordings of over 1,000 interconnected mouse brain neurons. Where the simple mean-field model failed to explain the variation in collective neural activity, the new model derived from the Boltzmann distribution reproduced the observed statistics exactly."
+        },
+        {
+          "t": "p",
+          "x": "This approach does not rely on any specific interaction between neuron activities; it uses only the distribution of activity at a given moment. The researchers wrote that extending the work to dynamical networks matters. For now, the theory only captures time-averaged statistics. It could be extended to describe how activity patterns change while an animal is behaving."
+        }
+      ]
+    },
+    "science/science-malva-single-cell-search": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Knowing exactly which cells caused a patient's cancer, or whether a pathogen was involved in a disease, makes it possible to tailor a treatment plan to that patient. Doing so requires searching through thousands of experimental datasets locked away in databases around the world. The search alone can take days."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Berlin Institute for Medical Systems Biology of the Max Delbrück Center (MDC-BIMSB) have introduced a search engine, Malva, that greatly simplifies this work. First author Daniel León-Periñán explains it's the first platform to rapidly scan vast single-cell datasets using sequence information alone. He is a PhD student in the Systems Biology of Gene Regulatory Elements lab led by MDC-BIMSB director Nikolaus Rajewsky, and the study was published in Nature."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-google-like-search-e.jpg",
+          "cap": "Malva's indexing and query workflow. Credit: Nature (2026). DOI: 10.1038/s41586-026-10975-w"
+        },
+        {
+          "t": "p",
+          "x": "“Much like what Google did for the internet 30 years ago, Malva lets scientists and AI tools search millions of cells in seconds. There's no need to download huge files, or to have a reference genome or deep computational expertise,” said corresponding author Rajewsky. He added that Malva turns static transcriptome atlases into a dynamic resource, broadening our understanding of RNA biology. It's also useful for understanding how health slides into disease, and which cells respond to a given treatment."
+        },
+        {
+          "t": "p",
+          "x": "Single-cell RNA sequencing shows, in fine detail, what's happening inside individual cells at a given moment. Over the past decade, researchers around the world have accumulated terabytes of such data. Anyone wanting to mine that data has to download and reprocess petabyte-scale raw files and also find a way to standardize data from wildly different sources. No single lab can handle that alone."
+        },
+        {
+          "t": "p",
+          "x": "The way data has been indexed also severely limits information about RNA isoforms. Because multiple RNA variants produced by the same gene all get lumped together under a single reference gene, it's impossible to tell which cell type expresses a specific isoform. León-Periñán and co-first author Dr. Nikos Karaiskos reprocessed data from public repositories so it could be searched by nucleotide sequence. Malva also indexes spatial data, letting users find exactly where in a tissue section a given RNA is located."
+        },
+        {
+          "t": "p",
+          "x": "“The flexibility of searching by RNA sequence lets us answer questions that couldn't be answered before,” says Karaiskos. Because the reference genome is assembled from a small number of pooled human DNA samples, RNA arising from rare or unique genetic variants tends to slip past existing platforms. Malva also includes sequence information from multiple species, including bacteria, viruses, and fungi, making it possible to examine how these microbes act on human cells to cause disease."
+        },
+        {
+          "t": "p",
+          "x": "Malva is designed to keep growing. Every time new single-cell RNA data appears in a published paper, it's downloaded to Max Delbrück Center servers, processed, and appended to the existing data. It's currently open to scientists for free, and the three researchers are in the early stages of launching a startup to commercialize it. A patent on the technology is pending."
+        }
+      ]
+    },
+    "science/science-quantum-docking": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Molecular docking is the task of calculating where, and in what orientation, a candidate drug binds to a target protein. It's a basic tool in early drug discovery, but also a hard problem, since the number of possibilities grows unmanageably as molecules get larger and more flexible."
+        },
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-7.29.20-AM.png",
+          "cap": "Molecular docking. Credit: The Quantum Insider"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from Singapore's A*STAR, the National University of Singapore, and Nanyang Technological University put a piece of that search onto today's quantum hardware. The study, posted as a preprint on arXiv, used a mix of quantum and classical methods to calculate protein binding for two molecules, and in both cases found the same molecular contacts as classical computation."
+        },
+        {
+          "t": "p",
+          "x": "The method starts by turning docking into a graph. Chemical features from both molecules—sites capable of hydrogen bonding, charged regions, water-avoiding patches—are extracted, and each possible contact becomes a point on the graph. Contacts that can hold simultaneously in the same binding pose are connected by edges. What's left is finding the highest-value set of mutually compatible contacts, a calculation known in mathematics as the maximum-weight clique problem."
+        },
+        {
+          "t": "p",
+          "x": "What stands out is how sparingly the approach uses qubits. Normally, one qubit is assigned per option, so 18 contacts would require 18 qubits. The team instead used a full-basis encoding that assigns each of the three directions of the Bloch sphere to a different variable, packing up to three options onto a single qubit. The 18-variable problem shrank to 6 qubits, and the 14-variable problem to 5. They also provided a mathematical argument that entanglement isn't needed to represent the optimal solution, so the circuits could stay shallow."
+        },
+        {
+          "t": "p",
+          "x": "The test cases were two structures taken from the Protein Data Bank. The biotin-streptavidin pair became the 18-variable problem, and the benzamidine-trypsin pair became the 14-variable problem. Rather than searching randomly, the team used a warm start that began from promising points. After training the circuits, they ran them on ibm_kingston, one of IBM's Heron-series processors, and despite noise and measurement error, the same combination of contacts emerged as in the classical calculation. Out of 1,000 runs, the rate of reaching the optimal solution was about 74% for the 18-variable problem, ahead of the roughly 66% achieved by a conventional encoding that uses only two properties of a qubit. For the 14-variable problem, it was about 99% versus about 90%."
+        },
+        {
+          "t": "p",
+          "x": "The researchers drew a clear line. Both examples were small enough to be solved with classical software, and the graph model didn't capture protein motion or surrounding water molecules. In other words, this isn't a study demonstrating quantum advantage. The picture they're drawing is one of division of labor, not replacement: classical computers refine the molecular data to build the interaction graph, while quantum processors take on the job of finding compatible sets of contacts."
+        }
+      ]
     }
   }
 }

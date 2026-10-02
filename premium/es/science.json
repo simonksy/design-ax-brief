@@ -3562,6 +3562,80 @@
           "x": "El equipo de Schuh sugiere a otros investigadores que revelen qué contienen sus conjuntos de prueba y que auditen los benchmarks con regularidad. Para ayudar con eso, también lanzaron BenchAudit, una herramienta de código abierto que detecta problemas como la contaminación entre entrenamiento y prueba y los conflictos de etiquetas. El objetivo no es eliminar todos los fallos, sino “señalar los problemas y ser lo más honestos posible,” dice Schuh. El artículo está en Chem. Sci., 2026, DOI: 10.1039/d6sc01799a."
         }
       ]
+    },
+    "science/science-extended-mean-field": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La física funciona bien en sistemas relativamente simples, como un péndulo, dos electrones que chocan o la estructura del sistema solar. Las cosas cambian cuando las partículas se multiplican y se entrelazan entre sí. En sistemas de materia condensada como gases y fluidos, o en la cosmología del universo temprano, una técnica llamada teoría de campo medio clásica, o su versión extendida, simplifica el problema."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de la Universidad de Princeton liderado por el primer autor Luca Di Carlo aplicó la teoría de campo medio extendida a redes de neuronas biológicas. El estudio se publicó en Physical Review Letters. La versión más simple de la teoría de campo medio no logró describir con precisión la actividad de esta red. La versión extendida sí lo logró."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/going-beyond-simple-mo.jpg",
+          "cap": "Imagen generada por IA que representa una red de neuronas. Credit: Brian Penny, Pixabay"
+        },
+        {
+          "t": "p",
+          "x": "En un modelo de Ising bidimensional, donde partículas con espín cuántico ocupan cada vértice de una red, cada partícula interactúa con todas las demás partículas de la red. Hallar una solución exacta resulta casi siempre demasiado costoso. En su lugar, se obtiene una solución aproximada suponiendo que cada espín interactúa con el espín promedio de toda la red: esa es la teoría de campo medio clásica. La teoría de campo medio extendida incorpora más información sobre la composición del sistema, como la distribución de probabilidad de los patrones de actividad neuronal. Aquí importan las fluctuaciones, no solo el promedio."
+        },
+        {
+          "t": "p",
+          "x": "Las neuronas tienen potenciales de acción: pulsos eléctricos rápidos que viajan por el axón largo y delgado que se extiende desde el cuerpo celular. Estas señales permiten que las neuronas se comuniquen con músculos y glándulas. La señal es binaria: en una ventana corta de tiempo, una neurona envía un pico o no lo envía. Eso convierte a una población de neuronas, en un momento dado, en esencialmente un modelo de Ising."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores escribieron en el artículo que “resultó sorprendentemente difícil construir una teoría de campo medio consistente que describiera los patrones de actividad de redes neuronales reales”. Añadieron que finalmente lo lograron “con un modelo extendido que ajusta simultáneamente la actividad promedio de las neuronas individuales y la distribución de actividad a lo largo de una dirección proyectada”."
+        },
+        {
+          "t": "p",
+          "x": "Un estado de la red se refiere a un registro completo de qué neuronas emitieron un pico (espín arriba) y cuáles no (espín abajo). El número de estados posibles es enorme, y cada uno tiene una probabilidad distinta. Existen infinitas distribuciones que satisfacen el espín promedio observado experimentalmente y la correlación entre dos espines, pero la teoría de la información dice que hay que elegir entre ellas la distribución de máxima entropía: la opción más aleatoria posible que contiene solo la información necesaria para cumplir las restricciones, sin añadir otras suposiciones."
+        },
+        {
+          "t": "p",
+          "x": "De ahí resulta la distribución de Boltzmann: la probabilidad de que la red esté en un estado dado es proporcional a la exponencial del negativo de la energía total de ese estado. Una vez que la distribución se fija con los valores observados, ningún otro parámetro interviene en las predicciones posteriores, lo que la hace verificable experimentalmente. Los investigadores pusieron a prueba el modelo extendido usando un modelo estadístico construido a partir de los registros de actividad de más de 1000 neuronas interconectadas del cerebro de un ratón. Donde el modelo de campo medio simple no logró explicar la variación de la actividad neuronal colectiva, el nuevo modelo derivado de la distribución de Boltzmann reprodujo exactamente las estadísticas observadas."
+        },
+        {
+          "t": "p",
+          "x": "Este enfoque no depende de ninguna interacción específica entre las actividades neuronales; usa solo la distribución de actividad en un momento dado. Los investigadores escribieron que ampliar el trabajo a redes dinámicas es importante. Por ahora, la teoría solo recoge estadísticas promediadas en el tiempo. Podría extenderse para describir cómo cambian los patrones de actividad mientras el animal se comporta."
+        }
+      ]
+    },
+    "science/science-quantum-docking": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El acoplamiento molecular es la tarea de calcular dónde, y con qué orientación, se une un fármaco candidato a una proteína objetivo. Es una herramienta básica en el descubrimiento temprano de fármacos, pero también un problema difícil, ya que el número de posibilidades crece de forma inmanejable a medida que las moléculas se vuelven más grandes y flexibles."
+        },
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-7.29.20-AM.png",
+          "cap": "Acoplamiento molecular. Crédito: The Quantum Insider"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de A*STAR de Singapur, la National University of Singapore y la Nanyang Technological University pusieron una parte de esa búsqueda sobre el hardware cuántico actual. El estudio, publicado como preprint en arXiv, usó una combinación de métodos cuánticos y clásicos para calcular la unión a proteínas de dos moléculas, y en ambos casos encontró los mismos contactos moleculares que el cálculo clásico."
+        },
+        {
+          "t": "p",
+          "x": "El método parte de convertir el acoplamiento en un grafo. Se extraen características químicas de ambas moléculas —sitios capaces de formar enlaces de hidrógeno, regiones cargadas, zonas que evitan el agua— y cada contacto posible se convierte en un punto del grafo. Los contactos que pueden darse simultáneamente en la misma pose de unión se conectan con una línea. Lo que queda es encontrar el conjunto de mayor valor entre los contactos mutuamente compatibles, un cálculo que en matemáticas se llama el problema de la camarilla de peso máximo."
+        },
+        {
+          "t": "p",
+          "x": "Lo que destaca es la forma de ahorrar cúbits. Normalmente se asigna un cúbit por cada opción, de modo que 18 contactos requerirían 18 cúbits. El equipo usó en cambio una codificación de base completa (full-basis encoding) que asigna cada una de las tres direcciones de la esfera de Bloch a una variable distinta, cargando hasta tres opciones en un solo cúbit. El problema de 18 variables se redujo a 6 cúbits, y el de 14 variables a 5. También presentaron un argumento matemático de que no se necesita entrelazamiento para representar la solución óptima, por lo que bastaron circuitos poco profundos."
+        },
+        {
+          "t": "p",
+          "x": "Los casos de prueba fueron dos estructuras tomadas del Protein Data Bank. El par biotina-estreptavidina se convirtió en el problema de 18 variables, y el par bencamidina-tripsina, en el de 14 variables. En lugar de buscar al azar, el equipo usó un inicio en caliente que partía de puntos prometedores. Tras entrenar los circuitos, los ejecutaron en ibm_kingston, uno de los procesadores de la serie Heron de IBM, y a pesar del ruido y los errores de medición, surgió la misma combinación de contactos que en el cálculo clásico. De 1.000 ejecuciones, la tasa de alcanzar la solución óptima fue de aproximadamente 74% para el problema de 18 variables, por encima del aproximadamente 66% de una codificación convencional que usa solo dos propiedades de un cúbit. Para el de 14 variables, fue de aproximadamente 99% frente a aproximadamente 90%."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores trazaron una línea clara. Ambos ejemplos tenían un tamaño que también puede resolverse con software clásico, y el modelo de grafo no incorporó el movimiento de la proteína ni las moléculas de agua circundantes. Es decir, no se trata de un estudio que demuestre ventaja cuántica. El panorama que dibujan no es de sustitución, sino de división del trabajo: las computadoras clásicas refinan los datos moleculares para construir el grafo de interacción, mientras que los procesadores cuánticos se encargan de encontrar conjuntos de contactos compatibles."
+        }
+      ]
     }
   }
 }

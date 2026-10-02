@@ -3859,6 +3859,458 @@
           "x": "Willits agreed that, in the end, the games themselves will be the judge. “The game will speak for itself. When the Rideshare experiment comes out, go try it yourself. You might think, 'oh, this is pretty good.' If you don't like it, that's fine too. The game speaks for itself.”"
         }
       ]
+    },
+    "games/games-1666-drops-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HqR6PTgsYxFJXCUuYFhtR8-1920-80.jpg",
+          "cap": "1666: Amsterdam"
+        },
+        {
+          "t": "p",
+          "x": "When 1666: Amsterdam was revealed at Summer Game Fest, the reaction was surprise and delight — understandable, given it was a long-held project from Patrice Désilets, co-creator of Assassin's Creed."
+        },
+        {
+          "t": "p",
+          "x": "The mood shifted quickly. Players digging into the playable prologue released alongside the announcement picked up the distinctive scent of generative AI in the game's assets."
+        },
+        {
+          "t": "p",
+          "x": "Désilets's studio, Panache Digital Games, admitted to using AI for some asset creation and apologized, promising to strip out those elements before the Early Access launch."
+        },
+        {
+          "t": "video",
+          "yt": "SkmC_VmaZj8"
+        },
+        {
+          "t": "p",
+          "x": "That launch happened last week. Désilets now says Panache has completely removed AI from its pipeline and won't use it going forward."
+        },
+        {
+          "t": "p",
+          "x": "In an interview with GamesRadar+, he made clear that generative AI is done for the studio, adding that most of the AI used had been concentrated in the project's early stages."
+        },
+        {
+          "t": "p",
+          "x": "\"Yeah, we used a bit of AI in the process. Mostly early on,\" Désilets said. \"It was during ideation and preproduction. It's been completely removed, and we won't be using any AI going forward.\""
+        },
+        {
+          "t": "p",
+          "x": "As someone who prefers work made by artists, I'm glad Panache tried to scrub generative AI out of 1666: Amsterdam. Still, it's uncomfortable when developers say AI was only used at the concept stage — because that stage is exactly the most enjoyable and rewarding part of creating something."
+        },
+        {
+          "t": "p",
+          "x": "It's the period when most of the imagining happens, and the freest from the discipline and painful choices required to actually finish a thing. Handing that stretch over to a mediocrity machine feels like a betrayal of the creative process."
+        },
+        {
+          "t": "p",
+          "x": "An interesting philosophical question remains too: if technology helped imagine the game in the first place, can you really say the game has no generative AI in it?"
+        },
+        {
+          "t": "p",
+          "x": "Either way, 1666: Amsterdam is out in Early Access, and its Steam page carries no AI disclosure. With or without AI, player reviews are split. It currently sits at a 'Mixed' rating with 66% positive. The setting and exploration draw praise, while stiff combat and a general lack of polish are getting called out."
+        }
+      ]
+    },
+    "games/games-dwarf-fortress-creator-calls": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/09/dwarf-fortress.jpg",
+          "cap": "Dwarf Fortress screenshot. © Bay 12 Games"
+        },
+        {
+          "t": "p",
+          "x": "“Everyone I know has a boss slowly slipping into psychosis.” It's a line that could apply almost anywhere, but it fits the game industry especially well right now. That's what Dwarf Fortress creator Tarn Adams said to PC Gamer at Gamescom, on the tiresome topic of AI. “They want the CEO to press a button and make a game, and then somehow get everyone else, who no longer has a job, to buy it.”"
+        },
+        {
+          "t": "p",
+          "x": "Most of the gaming audience reacts loudest and hardest to generative AI that makes art, assets, voices, and sound. But the place it's actually most widely used is underneath, in the code. Steam disclosures and public protests barely capture how much coding across every field has been handed over to tools like Claude or Copilot. Usually it's because of direct pressure from the company hierarchy. In other words, the boss. Why spend weeks writing sturdy, properly running code when you can have an LLM slap something together and just run it? Setting aside, of course, every reason that immediately comes to mind."
+        },
+        {
+          "t": "p",
+          "x": "This is the situation Adams means when he talks about bosses. “It's just this: ‘So did you use AI on the commit?’ Then, ‘Hmm, I don't really like this one.’ ‘Maybe you can just get the machine to do it.’” Adams said this scene “reminds me of a Dead Kennedys song or something. It's always the same thing. My own father got laid off from a sewage treatment plant. He was the computer guy there, and people didn't know what that job was. That company doesn't exist anymore. So it's always the same thing.”"
+        },
+        {
+          "t": "p",
+          "x": "This isn't just happening in games, but across every coding profession. Leadership greedily laps up the time AI is supposed to save and all the promises this new magic tool is supposed to deliver, then pushes the realization onto employees as an impossible task. They don't care that debugging hallucinated code takes far longer than just writing it yourself from the start. The same goes for the problem of later being responsible for software built in a way nobody fully understands. It's just, ‘Claude will be faster, so hurry up,’ while also demanding you use a hundredth of the tokens you used last year."
+        },
+        {
+          "t": "p",
+          "x": "Tarn Adams said it “doesn't seem like it's heading in a sustainable direction,” adding, “it seems like it'll just blow up once, people will pay the price, and then it'll repeat unless people do something different.”"
+        }
+      ]
+    },
+    "games/games-how-dream-racers-uses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dream-racers.png",
+          "cap": "New Roblox game Dream Racers"
+        },
+        {
+          "t": "p",
+          "x": "Roblox is bringing generative AI directly into the core gameplay loop of experiences on its platform."
+        },
+        {
+          "t": "p",
+          "x": "Released September 1 by creator studio Studsy, Dream Racers is a kart racing game. It uses Roblox's generative AI tool Cube to generate a different vehicle for each player in real time. Typing a few words into the prompt box produces absurd vehicles like a “Trumpet Mouse Floral Kart” or a “Skeleton Parrot Mule Kart.” Studsy founder Kaya-kii “Delus” Ndlovu told GamesBeat the chance to put Roblox's 4D AI technology into a new experience came from a collaboration between his studio and the Roblox Innovation Studio."
+        },
+        {
+          "t": "p",
+          "x": "“We didn't use Cube AI in development. This approach was about figuring out how to put it into the gameplay itself,” Ndlovu explained. “Players pick three adjectives to describe their kart, and Cube AI, built into Roblox, builds a 3D kart model from those three words, which the player then races.”"
+        },
+        {
+          "t": "p",
+          "x": "Each vehicle's different properties come from combining three adjectives chosen from a curated word list called the “word shop.” The prompt doesn't just change the look. The kart's physics and gameplay stats change depending on the words chosen. Ndlovu said he plans to build generative AI even more deeply into gameplay going forward."
+        },
+        {
+          "t": "p",
+          "x": "“If one player makes a fire-themed kart and another player has an ice-themed kart, there's some kind of collision between the two,” he said."
+        },
+        {
+          "t": "p",
+          "x": "Roblox first announced its Cube AI 3D creation tool in March 2025, and expanded it into 4D generation in February 2026, letting AI-made objects be placed into game worlds in real time. Dream Racers is one of the first Roblox experiences to attach Cube AI directly to gameplay."
+        },
+        {
+          "t": "p",
+          "x": "Morgan Tucker, who leads the Roblox Innovation Studio, told GamesBeat in a written statement that “the most powerful feature we can build is removing the friction between an idea and bringing it to life.” “That's what natural language creation does in the hands of a creator. By putting 4D generation powered by the Cube Foundation Model into a game, Studsy added the crucial dimension of interactivity. Because the objects in the game move the way players expect, they can focus on the unexpected moments that make a good game.”"
+        },
+        {
+          "t": "p",
+          "x": "Studsy didn't use Cube AI to develop Dream Racers, but Ndlovu said he sees a future where all of the 3D art could eventually be made with the tool. He said he plans to keep experimenting with genres and formats that attach generative AI directly, including a battleground game where players build weapons from three-adjective prompts to fight with."
+        },
+        {
+          "t": "p",
+          "x": "“It's fun to imagine how other developers will use this on the platform once it's open to everyone.”"
+        }
+      ]
+    },
+    "games/games-nimble-fox-launches-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-8.43.54-AM-scaled.png",
+          "cap": "Nimble Fox attaches to the Unity editor"
+        },
+        {
+          "t": "p",
+          "x": "A startup in Helsinki has released an AI copilot that lets Unity developers build games just by describing what they want."
+        },
+        {
+          "t": "p",
+          "x": "Nimble Fox is opening the tool to the public on September 7. Developers enter prompts directly inside the game engine to build and fix games. A free tier and a paid tier launch together."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't pull out a whole game at once. It stacks scoped changes, like gameplay mechanics or UI flows, one feature at a time. It goes into the Unity editor, reads the context of the existing project, and uses natural-language prompts to touch up existing code, art, and assets, or to create what's missing. Its investors are Sisu Game Ventures, Wave Ventures, and First Fellow Partners."
+        },
+        {
+          "t": "p",
+          "x": "Founder and CEO Jonne Myöhänen started the project after growing tired of how long it takes to turn one game idea into something playable. “I had a lot of game ideas but didn't want to spend months just on prototyping,” he said in a press release. “I started building Nimble Fox to be a faster creative outlet.”"
+        },
+        {
+          "t": "p",
+          "x": "The project became a company after winning the Aalto Entrepreneurship Society's Ignite accelerator in the fall of 2025. It has since closed a funding round, built a six-person full-time team in Helsinki, and received an R&D grant from Business Finland."
+        },
+        {
+          "t": "p",
+          "x": "Myöhänen said he's aiming for more than code generation. “I think there's a much bigger opportunity than AI just generating code,” he said. “The useful part isn't writing code, it's AI handling the work needed to turn a single request into something that actually works inside the game, across the whole Unity project.”"
+        },
+        {
+          "t": "p",
+          "x": "The tool is built around the tasks that developers and studios say eat up the most time. The goal is to cut manual work without taking creative control away from developers. The company is also looking at dedicated versions tailored to individual studios' large games, taking a feature request and implementing the first working version directly inside that studio's project."
+        },
+        {
+          "t": "p",
+          "x": "Myöhänen is currently in San Francisco through the Silta Program for early-stage Finnish founders. Ahead of the September 7 launch, he's meeting with game studios to introduce Nimble Fox to the U.S. market."
+        },
+        {
+          "t": "p",
+          "x": "To mark the launch, a 48-hour hybrid event called Nimble Game Jam runs from September 4 to 6 in Helsinki and online. Participants use Nimble Fox for free during the jam and build games over the weekend. The judges are Samuli Syvähuoko, Jonne Taivassalo, and Ignacio Amaya."
+        },
+        {
+          "t": "p",
+          "x": "The company said in the press release it will keep refining the tool based on customer feedback and on which workflows the technology adds the most value to. Nimble Fox sits among a group of startups building AI tools tailored to specific game engines instead of general-purpose code generators, as studios look for ways to speed up production without handing creative decisions over to automation."
+        }
+      ]
+    },
+    "games/games-taiwu-dynamic-npcs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/meta/49868/images/6a8ccee3d8de1/contain_1200x630.jpg",
+          "cap": "The wuxia sandbox RPG The Scroll of Taiwu. Image credit: ConchShip Games"
+        },
+        {
+          "t": "p",
+          "x": "Chinese indie studio ConchShip Games laid out, in an interview with 80 Level, how it built The Scroll of Taiwu over eight years. It's a wuxia sandbox RPG where the protagonist doesn't have to be the center of the world. The studio describes the game as an open-world sandbox set in mythological ancient China, something close to Crusader Kings and Baldur's Gate meeting in the middle of Chinese folklore."
+        },
+        {
+          "t": "video",
+          "yt": "MfoswJekDSg"
+        },
+        {
+          "t": "p",
+          "x": "Each playthrough generates between 5,000 and 10,000 dynamic NPCs. Each one has its own personality, motivations, relationships, and history, pursuing its own goals, forming alliances, and building grudges. Over 700 martial arts styles branch combat and training into different paths. Players can hand off their fate to another character in the world at any time, so the story doesn't end with a single character's death."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/68/images/6a8ccd99bbefa/widen_1840x0.jpg",
+          "cap": "A jianghu rendered in a hand-painted art style. Image credit: ConchShip Games"
+        },
+        {
+          "t": "p",
+          "x": "The core isn't the model, it's the design. The studio believed the story should emerge on its own from systems colliding, rather than from a pre-written script. A roguelike structure draws different characters and events each playthrough, while life-sim elements like running a village, traditional crafts, and raising crickets fill out daily life in the jianghu. Generational succession sits on top of all that."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/32/images/6a8ccdfea3ae5/widen_1840x0.jpg",
+          "cap": "Characters and environments that follow the visual language of traditional painting. Image credit: ConchShip Games"
+        },
+        {
+          "t": "p",
+          "x": "Founder Zheng Jie, known as Qiezi, studied architecture. He picked up programming basics himself during a period when programmers were leaving the team, and the team uses CAD when exchanging designs. The engine is Unity 3D. A principle of making everything in-house, without outsourcing, held the art together. The team drew on more than 126 works of traditional Chinese craft and art classics, and the in-game text runs to 4.5 million Chinese characters, more than four times the length of Disco Elysium."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/1a/images/6a8cce16e7a29/widen_1840x0.jpg",
+          "cap": "15 open-world regions and 18 identities drawn from traditional culture. Image credit: ConchShip Games"
+        },
+        {
+          "t": "p",
+          "x": "The community is proof of what it achieved. More than 200,000 players have each put in over 3,000 hours, and no two of them have told the same story."
+        }
+      ]
+    },
+    "games/games-aws-studio-ai-ops": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141035/89679/screenshot-2026-08-24-at-120513_l1200.jpg",
+          "cap": "AI powering the global engine for game studios"
+        },
+        {
+          "t": "p",
+          "x": "Huang Zhoubin, a senior manager of gaming solutions architecture at Amazon Web Services, laid out the role AI now plays in game development. It's worth reading with the caveat that it's a contributed piece from AWS itself. Over the past three years, the center of gravity in AWS's work has also shifted toward helping studios run AI."
+        },
+        {
+          "t": "p",
+          "x": "In a recent Omdia analysis, 73% of Chinese game developers said AI is essential to staying commercially competitive. The feeling on the ground runs higher, according to Huang: 80-90% have already put AI into their production pipelines. The question has shifted from whether to adopt it to how to clear the barriers to actually running it."
+        },
+        {
+          "t": "p",
+          "x": "There are clear obstacles to moving foundation models into real development environments. General-purpose LLMs don't know a studio's IP, its algorithmic pacing, or the design sense that keeps players hooked. Context window limits also make it impossible to feed in an entire engine carrying millions of lines of legacy code."
+        },
+        {
+          "t": "p",
+          "x": "On the creative side, the weight has shifted from Stable Diffusion and ComfyUI toward higher-tier foundation models like Flux. On the development side, AI coding has become the single biggest consumer of the industry's AI processing capacity. The point is that real acceleration lies beyond code autocomplete."
+        },
+        {
+          "t": "p",
+          "x": "One piece is lowering the barrier to understanding a codebase. Game code changes faster than documentation can keep up. Giving an agent read access lets producers, live-ops, and community staff ask business logic directly to check real-time balance values. The other piece is pipeline integration, where AI handles documentation, regression testing, and build verification inside CI."
+        },
+        {
+          "t": "p",
+          "x": "Huang doesn't think a single massive AI bolted onto a studio's entire pipeline tends to work well. Instead, the work is split into clearly bounded domains: one model for material generation, another for debugging, another again for system testing. Because each model operates only within a narrow context, its reasoning doesn't get scattered."
+        },
+        {
+          "t": "p",
+          "x": "To run this at scale, AWS built a platform based on the Agent Communication Protocol (ACP). Attach a new agent through the standard protocol, and the platform hands off the matching tasks on its own, with no integration code required. The same structure runs entire marketing campaigns too, from creative generation to ad execution to budget allocation."
+        },
+        {
+          "t": "p",
+          "x": "Case studies were included. One studio built a central asset-management database on AWS and runs A/B tests on tens of thousands of ad videos every month. Early on, it failed to pass IP design standards, but after fine-tuning the model on its own asset library, the pipeline came to produce up to 100,000 IP-compliant assets a day."
+        },
+        {
+          "t": "p",
+          "x": "A casual game developer in Beijing solved its bottleneck in tuning the difficulty curve for match-3 levels with automated AI testing. Simulating player behavior on new levels in place of manual playtesting made level-testing 20 times more efficient."
+        },
+        {
+          "t": "p",
+          "x": "A UGC platform used by millions daily layered on a tool that builds scenes, 3D objects, and interactions from natural language, backed underneath by AWS's GPU clusters. In matchmaking that mixes players across Europe, the Middle East, and Southeast Asia, real-time voice translation and correction models smooth out voice chat."
+        },
+        {
+          "t": "p",
+          "x": "The conclusion comes down to infrastructure. Whether you're building a real-time procedural narrative engine or refining an internal workflow, what you ultimately need is cloud that scales. In Omdia's independent survey, AWS held onto its position as the leading cloud platform for the global games industry."
+        }
+      ]
+    },
+    "games/games-city-sample-pcg-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/cmsxqgcmqnsuj06lebm2w2306",
+          "cap": "Unreal Engine City Sample"
+        },
+        {
+          "t": "p",
+          "x": "The City Sample project has been updated to the Unreal Engine 5.8 baseline. This wasn't just a touch-up — the level was rebuilt from the ground up, and a bundle of procedural world-building toolsets, content, and examples came along with it. It's available starting today, free through Fab, the Unreal Editor home panel, or the Epic Games Launcher."
+        },
+        {
+          "t": "p",
+          "x": "It's the same city shown once at State of Unreal 2026. Winding roads and sidewalks run across rolling terrain, and even the lush vegetation and forests were placed procedurally. Unlike the original City Sample that shipped alongside UE5's launch, this city was built entirely inside Unreal Engine from start to finish."
+        },
+        {
+          "t": "video",
+          "yt": "9ikOoOzAhPE"
+        },
+        {
+          "t": "p",
+          "x": "Let's rewind for a moment. In December 2021, a massive, dense city appeared in The Matrix Awakens: An Unreal Engine 5 Experience, a tech demo that previewed next-gen console performance ahead of launch. That city was later released as the original City Sample project."
+        },
+        {
+          "t": "p",
+          "x": "Rendering was handled by Nanite and Lumen, but the city itself was built with procedural toolsets outside Unreal. Since then, the engine has changed. With the PCG framework overhauled and the Unreal MCP server arriving alongside UE 5.8, the same city can now be rebuilt directly inside Unreal."
+        },
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/quality=value:90/auto_image/cmsxqsq0unurv06lergchpyto",
+          "cap": "UE 5.8 City Sample and Unreal MCP workflow"
+        },
+        {
+          "t": "p",
+          "x": "The updated City Sample is both a showcase and a learning resource. It demonstrates how to use PCG, with or without LLM assistance, to build complex, dense worlds. The model Epic used this time was Claude, but it added the caveat that anyone can pick whatever fits their own situation."
+        },
+        {
+          "t": "p",
+          "x": "What matters is that the result stays fully editable all the way through. There's no black box and no single magic trick — it just grows creative intent and speeds up realizing it. World Partition, Nanite Foliage, and Quixel Megaplants were used alongside it too."
+        },
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/quality=value:90/auto_image/cmsxqulmnnuvi08odm45izae2",
+          "cap": "PCG and Megaplants in the UE 5.8 City Sample"
+        },
+        {
+          "t": "p",
+          "x": "An Unreal Fest Chicago 2026 session explains how an LLM treats PCG like a spatial language. It builds up a city using the newly released PCG Primitives plugin and its road, building, forest, and park examples, and notes that this framework can be extended to each team's own production cases."
+        },
+        {
+          "t": "p",
+          "x": "The project now keeps the original Houdini-built level intact and adds two new levels built with PCG with LLM assistance — one covering the full city, the other a simpler example level with fewer steps."
+        },
+        {
+          "t": "p",
+          "x": "There are additional pieces too. The PCG graph examples that procedurally recreate the city can also serve as a baseline reference for the Unreal MCP server. These include five Megaplants species for filling in vegetation, PCG Assembly data assets holding static mesh setups for rooftop plazas and docks, building and road shape grammar definition assets that quickly set up assets using profile presets, and the PCG Primitive subgraphs that construct City Sample's buildings."
+        },
+        {
+          "t": "p",
+          "x": "A CitySamplePCG_demo plugin ships alongside the project, holding all the graphs and assets needed to recreate City Sample with PCG. That said, the sample leans on several experimental and beta-stage systems, some of which aren't enabled by default — it's faster to just check the documentation for the details."
+        }
+      ]
+    },
+    "games/games-gta6-crowd-tech-lead": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7E43SERC2PDAcs2Nxm9Yxm-1920-80.jpg",
+          "cap": "Grand Theft Auto 6"
+        },
+        {
+          "t": "p",
+          "x": "There are still a few hours left before GTA 6: An Extended Look drops. But a developer who built the impressive crowds in 007: First Light says that even going by the major leaks so far, Rockstar Games's NPC tech is well ahead of its rivals."
+        },
+        {
+          "t": "p",
+          "x": "A hacker known online as Cyberleek has been leaking early footage of the open-world game for weeks. Some of those clips show GTA 6's bustling crowds spending time on beaches or at strip clubs."
+        },
+        {
+          "t": "p",
+          "x": "Still, reactions to the early clips have split, with some snark mixed in. Whether Rockstar actually delivered the crowd density shown in GTA 6's first trailer remains up for debate."
+        },
+        {
+          "t": "p",
+          "x": "Berkay Dursun, an AI programmer at IO Interactive, sees it differently. Having built the internal tech for the new James Bond game, he considers GTA 6's bustling crowds to be in an entirely different weight class from other games."
+        },
+        {
+          "t": "p",
+          "x": "It started with a tweet that downplayed GTA 6's crowd density by comparing it to Hitman's own impressive crowds. Dursun replied that in Rockstar's new game, \"every character is individually simulated\" — with the caveat that this holds true at least based on what's been shown so far."
+        },
+        {
+          "t": "p",
+          "x": "That's different from how Hitman or Assassin's Creed handle crowds. In those games, most NPCs have no AI programming, routines, or behavior running underneath them. They just loop animations to make the crowd look as packed as possible."
+        },
+        {
+          "t": "p",
+          "x": "\"And pulling off simulation at this scale means they're at least a decade ahead of the industry,\" Dursun continued, in a machine-translated tweet that GamesRadar+ fact-checked."
+        },
+        {
+          "t": "p",
+          "x": "\"The closest game doing simulation at this level would probably be Mount & Blade 2: Bannerlord,\" he added — a title Dursun himself happened to work on."
+        },
+        {
+          "t": "p",
+          "x": "The weight of that comment comes from being the diagnosis of an engineer at a rival studio who has actually built crowds himself. It also points to depth of simulation rather than a generative shortcut."
+        }
+      ]
+    },
+    "games/games-inworld-tts-evals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inworld.ai/public-website-2025/images/content/9b54d1f3fd481dd93314ffa470ff9008d2c9c589-1200x630.png",
+          "cap": "Inworld TTS Open Evaluation Toolkit"
+        },
+        {
+          "t": "p",
+          "x": "Inworld has open-sourced the TTS Open Evaluation Toolkit, a tool for drawing samples from TTS systems, evaluating audio offline, and producing reports that can be compared against each other. The piece was written by Aleksey Tikhonov, head of ML/AI research."
+        },
+        {
+          "t": "p",
+          "x": "Every run leaves its configuration sitting right next to the per-sample measurements. You can pick up a single score and trace it back to the original text and audio, and also open up the ASR transcript and the thresholds that were applied. The first release includes commonly used metrics along with a carefully built English conversational stress set."
+        },
+        {
+          "t": "p",
+          "x": "TTS evaluation is tricky. Run the same model on the same dataset, and two teams' WER can still diverge. Which ASR model you pick and how you normalize text both move the numbers. So do voice selection, synthesis settings, and whether failed samples are included or excluded. It gets worse once you move to subjective metrics like naturalness or expressiveness."
+        },
+        {
+          "t": "p",
+          "x": "Today's systems mostly handle easy prompts just fine. That means implementation details and failures on hard cases end up deciding the result. Without a protocol, a bare average is hard to trace back and verify."
+        },
+        {
+          "t": "p",
+          "x": "The toolkit packages a single run into one directory you can inspect. It pulls audio with the model and voice fixed, logging the synthesis settings, evaluates the clips with local ASR and explicit normalization, and then shows the aggregate figure alongside the samples behind it. Inworld, ElevenLabs, and Hume adapters come built in, and other systems just need to hand over audio through a manifest."
+        },
+        {
+          "t": "p",
+          "x": "The HTML report has no CDN and no hosted runtime. A report that bundles multiple runs splits metrics into meaningful groups — accuracy-family, subjective metrics, failure types — and attaches confidence intervals and a model health summary."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inworld.ai/public-website-2025/images/content/402c44a831088be48e5c84098fa497ad472068e4-2560x1806.png",
+          "cap": "A report screen that bundles run results together"
+        },
+        {
+          "t": "p",
+          "x": "When a sample breaks a threshold, the detailed report lines up the expected text next to the ASR transcript. If audio is available, the audio comes attached too."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inworld.ai/public-website-2025/images/content/1b8cd140f2e18e122c430bd875038cee5952c072-2560x604.png",
+          "cap": "A detailed report placing the expected text next to the ASR transcript"
+        },
+        {
+          "t": "p",
+          "x": "The measurement cache is content-addressed. If the decoded audio and source text still match the metric settings, ASR and audio measurements get reused. Thresholds and reports are regenerated fresh, so tweaking the judging rules ends up far cheaper than re-transcribing the same batch all over again."
+        },
+        {
+          "t": "p",
+          "x": "The initial metrics span word- and character-level error rates with insertion/deletion/substitution breakdowns, clipping and silence ratios, loudness and tail-click signals, duration and speaking rate, optionally applied NISQAv2 dimensions and ECAPA speaker similarity, and vowel-stretch detection. Inworld's instruction is not to collapse all of this into a single ranking. A low WER doesn't mean the voice sounds natural."
+        },
+        {
+          "t": "p",
+          "x": "The repo also includes a small English conversational dataset built to surface failures quickly. It's 100 prompts mixed with sentence fragments, interruptions, and emphasis markup. Repeated words, overlapping quotes, and drawn-out lines are more troublesome than ordinary benchmark sentences."
+        },
+        {
+          "t": "p",
+          "x": "It's a stress set in the literal sense, not a sample representative of all speech. Deciding on a rollout needs real production prompts in each relevant language and the actual voice the product will use. The bundled set is closer to filtering out the obvious problems before spending money on bigger experiments."
+        },
+        {
+          "t": "p",
+          "x": "Reproducibility doesn't guarantee the evaluation itself is accurate. But it does make the assumptions inspectable. Code, examples, and agent instructions walking through everything from install to your first command-line report are in the repo's README."
+        }
+      ]
     }
   }
 }

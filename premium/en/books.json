@@ -3275,6 +3275,270 @@
           "x": "The Bookseller article sits behind a login wall, so this is as far as the public portion goes. Details like the title list, translation method, and credit notation are open only to subscribers. The article was written by Lauren Brown on August 25."
         }
       ]
+    },
+    "books/books-guest-post-the-human": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2023/08/iStock-1206796363-1024x545.jpg",
+          "cap": "Featured image for The Scholarly Kitchen guest post"
+        },
+        {
+          "t": "p",
+          "x": "Jane Jiang, library director at a community college in New Jersey, has watched campus conversations about AI shift from curiosity to urgency over the past two years. Faculty ask how to handle AI in teaching and assessment, students ask whether they can trust AI-generated information, and publishers wonder how value will be set when researchers encounter scholarly content through AI instead of existing platforms. These conversations may look separate, but they converge on one question: how to protect trust, judgment and academic integrity in an information environment mediated by AI."
+        },
+        {
+          "t": "p",
+          "x": "Jiang believes the library's future will not be decided by how well it imitates AI. It depends instead on how well it helps users find their way in a world where machines generate, summarize and deliver information. Many students already start their research with AI tools, and for community college students juggling work and family, AI lowers the threshold to get started. The question is not whether students use AI, but how to help them use it responsibly."
+        },
+        {
+          "t": "p",
+          "x": "One scene a librarian experienced captures this shift. A student who had used ChatGPT to grasp a topic and draft an assignment outline came to the reference desk and asked, “How do I know if this is actually right?” Jiang said she welcomed the question, because the student understood that AI can assist the work but cannot take responsibility for accuracy, completeness and integrity. The conversation quickly moved away from AI toward weighing evidence and checking sources."
+        },
+        {
+          "t": "p",
+          "x": "The same thing happens with citation literacy. Bibliographic tools like NoodleTools and Zotero reduced formatting errors even before ChatGPT, but they also left an old lesson: automation can obscure understanding. Some students produce perfectly formatted MLA citations without knowing why sources must be credited. Generative AI has widened that gap further by instantly producing citations, summaries, literature reviews and even research questions."
+        },
+        {
+          "t": "p",
+          "x": "On academic integrity, Jiang draws a line against relying on detection tools. Products like GPTZero and ZeroGPT have reached the market, but no tool can guarantee it accurately flags AI-written text. A comparative study by the Weber-Wulff research team also confirmed the limits of widely used detection tools. So educators' questions are shifting from “How do we catch students using AI?” to “How do we design learning experiences where students demonstrate their thinking?”"
+        },
+        {
+          "t": "p",
+          "x": "Libraries and publishers have long shared the same mission, just from different directions. Publishers curate, review, preserve and distribute scholarly work, while libraries help people find, evaluate, interpret and use that work responsibly. Where this information came from, whether it can be trusted, and why it should be trusted have always been library questions, and they are becoming publishers' questions too. Jiang's closing line was this: “The opportunity presented by AI is not to remove the human layer of scholarship. It is to recognize why that layer has always mattered.”"
+        }
+      ]
+    },
+    "books/books-kr-publishing-knowledge-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.tsisalaw.com/data/photos/20260835/art_1787731063793_536622.jpg",
+          "cap": "AI is expanding the scope of content production and distribution. Deo Sisa Beopryul"
+        },
+        {
+          "t": "p",
+          "x": "As generative artificial intelligence (AI) is used in the publishing process, the publishing industry, once confined to making and selling books, is exploring a shift toward becoming a “knowledge platform.” According to the publishing industry on the 26th, Ha Jung-woo, a former senior secretary for AI future planning at the presidential office, proposed changes to the industry's role the previous day in a special lecture at the Korean Publishers Association, titled “The AI Era: Korea's Irreplaceable AI Strategy and the Direction of Change for the Publishing Industry.”"
+        },
+        {
+          "t": "p",
+          "x": "Ha said a cooperative structure is needed in which publishers provide their content to AI firms and receive a share of the resulting revenue, both domestic and overseas. He also proposed, as a new business model, expanding novels into webtoons, games, films and dramas, and jointly owning and managing the related intellectual property (IP). As AI technology advances to the point where a certain level of content can be created from an idea alone, he said, the industry must move beyond the assumption that existing publishing methods will remain valid in the AI era."
+        },
+        {
+          "t": "p",
+          "x": "Ha cited the partnership between Wiley and Anthropic as an example of how the publishing industry is changing in the AI era. Global academic publisher Wiley announced a strategic partnership plan with AI firm Anthropic last year and launched a pilot project to make its research content available on an AI platform. Through Anthropic's Model Context Protocol (MCP), researchers and students can access Wiley's scientific journal content through the AI service Claude."
+        },
+        {
+          "t": "p",
+          "x": "Wiley subsequently built the “Wiley AI Gateway” to connect academic content with AI services. The platform processes academic content from multiple publishers into a form AI can use, making it available through Claude, Mistral AI and Perplexity, among others. Publishers that supply content retain their licenses and access rights while receiving a share of the revenue generated by AI companies' use of it."
+        },
+        {
+          "t": "p",
+          "x": "Cases of using AI in book production have also emerged in Korea. Publisher Luminary Books used its own AI technology to publish about 9,000 books last year across fields such as economics, the humanities and fashion. Luminary Books explained that it combines human work with AI technology throughout the publishing process, including initial planning and structuring, content review and proofreading. After so many books were produced in such a short time, controversy arose, known as “click publishing,” over errors and quality in some of the books. Ha mentioned the possibility that low-quality, automatically generated books could flood the market, and stressed the need for a joint response by publishers and creators' groups."
+        },
+        {
+          "t": "p",
+          "x": "As the combination of AI and publishing content expands, how far existing works can be used for training and services has also become a major issue. Anthropic has been engaged in a large copyright lawsuit with authors since 2024 over using books it obtained without copyright holders' permission to train its AI model, Claude. The U.S. federal court in San Francisco found that using lawfully obtained books to train an AI model constituted fair use, but did not recognize fair use for storing illegally copied book files in a separate digital library. The court subsequently gave final approval in July 2026 to a $1.5 billion settlement reached between Anthropic and the copyright holders."
+        },
+        {
+          "t": "p",
+          "x": "Kim Tae-heon, chairman of the Korean Publishers Association, said, “I regret that the publishing industry responded somewhat passively to new trends such as changes in distribution platforms, e-books and audiobooks during the earlier digital transition.” He added, “This time, with the AI transformation, we must prepare and act proactively, without falling behind.”"
+        }
+      ]
+    },
+    "books/books-ccc-fair-use-training-part3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Part 2 got as far as establishing that, under U.S. law, AI training is a presumptive copyright infringement. The obvious next question for a general counsel is whether there's a defense."
+        },
+        {
+          "t": "p",
+          "x": "In the U.S., the main defense is fair use. It's codified in 17 U.S.C. § 107 of the Copyright Act, but it isn't a blanket permission. It's an after-the-fact, case-by-case defense, and no single one of its four factors is decisive. AI companies have leaned heavily on the argument that training is exempt because it is 'transformative.' This piece argues that this footing is far shakier than the headlines suggest."
+        },
+        {
+          "t": "p",
+          "x": "Three federal courts have addressed fair use head-on, and the picture is fragmented. In Thomson Reuters v. Ross Intelligence (U.S. District Court for Delaware, 2025), Judge Bibas rejected fair use on all four factors. The use was commercial, the copied headnotes were creative works, a substantial portion was reproduced verbatim, and the AI product competed directly in Thomson Reuters's market. It isn't a generative AI case, but it is the first federal ruling to fully weigh the four fair-use factors for AI training and come down against it."
+        },
+        {
+          "t": "p",
+          "x": "Within days, two more cases followed in the U.S. District Court for the Northern District of California. In Bartz v. Anthropic (2025), Judge Alsup found training on legally purchased books to be “exceedingly transformative” and recognized fair use. But he drew a line at sourcing: unauthorized copies downloaded from shadow libraries like LibGen were not exempt, and that liability led to a $1.5 billion class-action settlement."
+        },
+        {
+          "t": "p",
+          "x": "In Kadrey v. Meta Platforms (2025), Judge Chhabria likewise found the training transformative based on the evidence submitted, and granted Meta's motion for summary judgment. The caveat matters: the plaintiffs simply failed to present sufficient evidence of market harm, and the judge himself stated that a more robust record could have changed the outcome."
+        },
+        {
+          "t": "p",
+          "x": "Taken together, the three rulings show that fair use for AI training turns on the specific facts and remains unsettled. As of August 2026, U.S. courts have more than 100 pending copyright lawsuits against AI developers, and the number keeps growing. Judge Chhabria's line that “AI companies will generally need to pay copyright owners for the right to use their works” is the most direct signal to come out of the courts so far."
+        },
+        {
+          "t": "p",
+          "x": "All four factors work against unauthorized training. Works are fed into training precisely because of their expressive value. Andy Warhol Foundation v. Goldsmith reaffirmed that a use sharing the same purpose as the original work is harder to qualify as fair use. The works at issue are usually highly creative, and they're typically copied in full. The fact that a licensing market for AI use—covering training, RAG, inference, and prompts—is already operating undercuts the argument that market harm is minimal."
+        },
+        {
+          "t": "p",
+          "x": "This piece is Roanie Levy's digest of Section A of Part 3 of the paper 'Here's the Thing: Copyright, AI Training, and LLMs,' written by Daniel Gervais (Milton R. Underwood Chair in Law, Vanderbilt University), Noam Shemtov (Professor of Intellectual Property and Technology Law, Queen Mary University of London), Haralambos Marmanis (Executive Vice President and CTO, CCC), and Catherine Zaller Rowland (Vice President and General Counsel, CCC). The conclusion is licensing. Staking a corporate AI program's foundation on fair use alone means accepting years of legal uncertainty, built on a record the company can't fully control. Part 4 covers that alternative."
+        }
+      ]
+    },
+    "books/books-hathitrust-transparent-books": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Mellon Foundation is giving HathiTrust $5 million over five years. The initiative is called 'Transparent Books: AI Infrastructure for Discovery and the Public Interest.' Northeastern University Library, known for its digital scholarship work, and the Authors Alliance, a nonprofit that helps authors who want their work used for the public good, are joining the effort."
+        },
+        {
+          "t": "img",
+          "src": "https://www.infodocket.com/wp-content/uploads/2026/08/2026-08-27_13-05-55.png",
+          "cap": "HathiTrust's announcement of the 'Transparent Books' initiative"
+        },
+        {
+          "t": "p",
+          "x": "The scope is the 19 million volumes HathiTrust has digitized. Limited to legal, nonprofit uses in the public interest, the goal is to make this collection easier for academics and general readers to use. Researchers, students, and the broader public will get new ways into the collection."
+        },
+        {
+          "t": "p",
+          "x": "'Transparent Books' answers a growing need for shared, academically governed trusted infrastructure that allows for sophisticated discovery and research of digitized materials. The goal is to connect readers to relevant books faster, extending those books' reach and impact, while weighing the interests of publishers, authors, researchers, and general readers alike."
+        },
+        {
+          "t": "p",
+          "x": "Over five years, the work spans four tracks. First, using AI to refine bibliographic metadata—subject, language, summaries—and text quality, and building conversational search that lets users dig into both single volumes and whole collections. Second is a supply of verified materials: large-scale provision of legally sourced, provenance-confirmed book texts and images for scholarly and nonprofit uses such as text mining, computational analysis, and building specialized language models. The remaining two tracks are establishing shared principles on legal frameworks, research integrity, accountability, and environmental impact, and building a financially sustainable service."
+        },
+        {
+          "t": "p",
+          "x": "Mike Furlough, HathiTrust's Executive Director, said, “For decades, libraries have preserved their value even amid fast and powerful technological change,” adding, “Libraries created HathiTrust so that the results of mass digitization would meet the particular needs of researchers and the academic community.”"
+        },
+        {
+          "t": "p",
+          "x": "The initiative builds on the 2024–2026 'Public Interest Corpus' project led by the Authors Alliance and Northeastern University. That project worked out a way for research libraries to legally open book data to computational research without repeating the pattern of corporations monopolizing large-scale digital collections. HathiTrust is applying that same framework to make its collection available for nonprofit AI research and development."
+        },
+        {
+          "t": "p",
+          "x": "Dave Hansen, Executive Director of the Authors Alliance, said, “We want to lower the barrier for nonprofit and academic researchers so they can actually advance research and build models and tools that benefit the public,” adding, “At the same time, we want authors' works and ideas to be discovered, attributed, and built upon.” Dan Cohen, Dean of Libraries at Northeastern University and professor of history, said that libraries have carefully paired their collections with AI tools, but the absence of digitized books was a major gap, and that this initiative fills that gap."
+        }
+      ]
+    },
+    "books/books-japan-literary-prize-ai-flood": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As people have started writing novels with artificial intelligence (AI), Japanese literary prizes face a new challenge: figuring out, among thousands of entries, what counts as literature."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.huffingtonpost.kr/news/photo/202608/202608189503.jpg?v=259630",
+          "cap": "Stock photo of books. ⓒ Pixabay"
+        },
+        {
+          "t": "p",
+          "x": "Nihon Keizai Shimbun (Nikkei) reported on the 17th that the burden of screening and judging has grown as AI-written novels pour into Japanese literary prize competitions. The 14th Hayakawa SF Contest, run by Japanese publisher Hayakawa Shobo and closed to entries at the end of March, received 1,012 submissions—more than double the usual roughly 400. The contest, which has allowed the use of generative AI, is considering requiring entrants to disclose where and how they used AI starting with the next edition."
+        },
+        {
+          "t": "p",
+          "x": "According to Nikkei, one person involved said that among the entries they read, 2 to 3 out of every 10 showed traces suspected of involving generative AI."
+        },
+        {
+          "t": "p",
+          "x": "This isn't the first time AI has faced judgment at a literary prize. In 2016, four short stories co-created by AI and humans were submitted to Japan's Hoshi Shinichi Award, and one of them passed the first round of screening. A decade later, the picture has changed. In the 13th Hoshi Shinichi Award's general category, 3 of the 4 winning works were found to have used AI in the creative process. Of 2,107 total entries, 491 works acknowledged using AI."
+        },
+        {
+          "t": "p",
+          "x": "Research on the publishing market has also emerged. U.S. researchers analyzed 14,419 self-published genre novels sold on Amazon between 2023 and 2026. Books detected to contain more than 25% AI-generated text made up a substantial share of all titles, and over time their sales grew and more of them entered the top sales rankings. However, while the number of books with confirmed quarterly sales grew 19.2-fold, total revenue grew only 8.9-fold."
+        },
+        {
+          "t": "p",
+          "x": "It isn't just quantity; diversity has also become an issue. In a study published in the international journal Science Advances in 2024, 293 people wrote short stories, and works that used AI-generated ideas were compared with those that didn't. AI-assisted works scored higher on creativity, polish, and enjoyability. But works that used AI tended to become more similar to one another. A recent study of Japanese-language novels likewise found that works co-created by humans and AI received the highest quality ratings, while also showing a greater likelihood of reduced individuality or originality."
+        },
+        {
+          "t": "p",
+          "x": "This shift places a new burden on literary prizes too. AI lowers the cost of producing a work, but it doesn't lower the cost of reading and judging how original that work actually is. As entries grow, judges must assess not just polish but also how much AI was involved and where human creation ended. Critics continue to point out that detection tools alone can't reliably settle a work's authorship, and some prizes are responding by requiring entrants to disclose their own AI use."
+        },
+        {
+          "t": "p",
+          "x": "Each prize now has to set new standards for itself: whether to ban AI, allow it with disclosure, or recognize AI use itself as a form of creative method. As a result, the barrier to producing a novel with AI has fallen, while the barrier to finding a good one has, if anything, risen."
+        }
+      ]
+    },
+    "books/books-vietnam-ai-labelling-law": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Vietnam's National Assembly passed a revised publishing law this week by an overwhelming majority. It takes effect on March 1, 2027. The law redefines publishing not merely as a cultural activity but as a core technology and economic industry within the national knowledge infrastructure."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.thenewpublishingstandard.com/wp-content/uploads/2022/04/South-East-Asia.png",
+          "cap": "The New Publishing Standard's Southeast Asia publishing series"
+        },
+        {
+          "t": "p",
+          "x": "For foreign rights holders and local publishers, the most important part is the digital sphere. As Vietnam's online reading market has grown rapidly, generative AI and digital piracy have grown along with it, and the new law tightens copyright protection on top of the groundwork laid by the 2022 amendment to the Intellectual Property Law."
+        },
+        {
+          "t": "p",
+          "x": "As a result, content created in whole or in part by AI must be clearly labeled. However, the outlet—noting that this is a reading of the Vietnamese original translated by AI—wrote that the definition appears too vague to carry much practical weight. It also made clear that legal responsibility for published content still rests with the publisher."
+        },
+        {
+          "t": "p",
+          "x": "Foreign digital platforms and intermediaries operating in Vietnam must appoint a local legal representative and comply with domestic data and takedown requests—in line with the broader digital sovereignty trend across Southeast Asia."
+        },
+        {
+          "t": "p",
+          "x": "Administrative procedures, meanwhile, are actually getting lighter. The old physical deposit-copy requirement is being replaced by a centralized electronic deposit, requiring only a digital file submitted ten days before publication. Import licensing fees are being eliminated in favor of a declaration-based self-assessment. By encouraging the formation of multi-platform media groups and prioritizing state investment in digital databases, Hanoi is aiming to turn a market long weighed down by traditional printing and fragmented distribution into a competitive, technology-centered ecosystem."
+        },
+        {
+          "t": "p",
+          "x": "The outlet's advice is practical. Publishing professionals should revise their compliance frameworks now—AI labeling especially. Rights managers should prepare for strict audits of AI labeling, while digital strategy managers can use the simplified import procedures and electronic deposit to speed up launches. Vietnam is moving toward becoming a regulated, modern publishing hub, and bringing along some less welcome elements in the process. This story was spotted by Carlo Carrenho and written up by Mark Williams."
+        }
+      ]
+    },
+    "books/books-writer-beware-ai-scams": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://writerbeware.blog/wp-content/uploads/2025/10/Blog-images-AI-3-1024x576.jpg",
+          "cap": "Writer Beware's header image for its AI scam series (Credit: Steve Johnson / Unsplash.com)"
+        },
+        {
+          "t": "p",
+          "x": "The AI scam that has filled writers' inboxes for more than a year has changed shape again. When Victoria Strauss first started covering this scam, it was just a single marketing pitch promising to boost an author's or book's 'exposure' like a professional."
+        },
+        {
+          "t": "p",
+          "x": "Over a little more than a year, the scam has evolved alongside writers' reactions and the growing number of reports and discussions. The marketing pitch has now been joined by book-club and review scams, along with every kind of impersonation. Targets of impersonation include famous authors, literary agents, publishing-house editors, book festivals (with fake invitations), and radio stations and hosts (with fake interview requests). The point of the first contact is to lead, through one or two introductions, to a paid editing or marketing contract."
+        },
+        {
+          "t": "p",
+          "x": "What hasn't changed are the tells: excessive personalization, made possible by generative AI, that makes the sender look like they've actually read the book, along with gushing praise; Gmail addresses with almost no exceptions; account information leading to overseas scammers; and a persistence so relentless it becomes counterproductive. It's a volume business, so profiting only a tiny fraction of victims is enough."
+        },
+        {
+          "t": "img",
+          "src": "https://writerbeware.blog/wp-content/uploads/2026/08/Nigerian-Prince-prodco-impersonation-2.png",
+          "cap": "An example of an email impersonating a film production company. The address was 'chris.winterlightpictures@gmail.com'"
+        },
+        {
+          "t": "p",
+          "x": "A previous wave of production-company impersonation scams extracted large sums of money under the guise of screenplay or 'book-to-screen' services, while this AI scam had, until now, only targeted books, publishing, and their immediate periphery. In the past few weeks, that boundary has broken down. Reports have started coming in of production-company impersonation bearing the AI scam's signature tells: excessive personalization, praise, and Gmail addresses. The address format follows the pattern 'sender'sname.companyname@gmail.com,' a classic sign of impersonation fraud. Strauss made clear that production companies almost never contact authors directly, and that if it does happen, the email comes from the company's own domain, not Gmail."
+        },
+        {
+          "t": "img",
+          "src": "https://writerbeware.blog/wp-content/uploads/2026/08/Nigerian-Prince-agent-impersonation.png",
+          "cap": "An example of an email impersonating a literary agent"
+        },
+        {
+          "t": "p",
+          "x": "Literary agent impersonation is a variant of the editor impersonation now seen everywhere. Instead of the three-step version—fake publishing-house editor, then fake agent, then paid 'editor'—this one is a two-step version that goes straight from fake agent to 'editor,' with less flowery language. The email arrives under the name of an agent who checks out as real when searched, asking whether the recipient currently has an agent. Reply, and they ask for a query letter and manuscript, then within days introduce an 'editor' who charges a substantial fee. Both figures are the same scammer. Strauss wrote that she had also seen identical emails sent under the names Andrea Brown, and Julia Churchill of A.M. Heath."
+        },
+        {
+          "t": "p",
+          "x": "From the Philippines-based publishing and marketing scams to the South Asia-based ghostwriting scams, to this AI scam repeatedly traced to Nigeria and Nigerians—targets so far have been English-speaking writers in the US, UK, Australia, and New Zealand. The pitch emails, websites, and ads were all in English. But in the past few weeks, several German-language marketing pitches have come in. The conditions stay the same: Gmail addresses, personalization and praise, and marketers with no online trace."
+        },
+        {
+          "t": "p",
+          "x": "Strauss added a list of warning signs: awkward salutations (Dear Victoria Strauss or Dear Author, or no salutation at all); gushing praise that precisely cites plot and themes; emojis; email exchanges that drag on before getting to money; follow-ups that come back within hours; fee requests in roles that normally don't charge; hard-to-reverse payment methods like wire transfers, Upwork or Fiverr invoices, PayPal friends-and-family, Zelle, or Cash App; and invoices missing a name, address, or phone number."
+        }
+      ]
     }
   }
 }

@@ -3258,6 +3258,283 @@
           "x": "“El ETC cumple el papel de reunir a educadores, cineastas y a la industria para validar tecnologías emergentes,” dijo Hoon Kim, CEO de Beeble. “Es realmente gratificante ver que nuestras herramientas se usan en ese entorno y contribuyen a cómo tomarán forma los flujos de trabajo de producción del futuro.”"
         }
       ]
+    },
+    "movies/movies-nice-touch-v2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nice Touch ha lanzado la V2 de su aplicación homónima, un asistente de edición con IA para equipos profesionales de posproducción de video. No es un retoque: es una reconstrucción completa, y más de 300 conversaciones con editores, productores, supervisores de producción y directores de estudio dieron forma al diseño. Ya está disponible para usarse."
+        },
+        {
+          "t": "p",
+          "x": "Así funciona: analiza el material del proyecto, transcribe con precisión palabra por palabra y separa a los hablantes. A partir de ahí, basta con dar instrucciones en lenguaje sencillo. Dices qué corte quieres, y la aplicación coloca clips, cortes y marcadores reales en la línea de tiempo, en un estado que puedes seguir editando directamente."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/08/Nice-Touch-app.jpg",
+          "cap": "Nice Touch"
+        },
+        {
+          "t": "p",
+          "x": "Empezando por lo nuevo en V2: primero, cambió dónde vive. Ahora funciona dentro de Adobe Premiere y DaVinci Resolve."
+        },
+        {
+          "t": "p",
+          "x": "El motor de edición también se reconstruyó. Entrevistas, podcasts, paneles, intervenciones a cámara, sesiones con hablantes superpuestos: cada una tiene su propio carácter. V2 reconoce qué tipo de material recibió y qué tipo de edición se pidió, y lo trata en consecuencia."
+        },
+        {
+          "t": "p",
+          "x": "El multicámara parte del multicámara original. La sincronización de ángulos se mantiene sin importar cuántas versiones y revisiones se hagan. El análisis y la transcripción funcionan en 18 idiomas."
+        },
+        {
+          "t": "p",
+          "x": "Es una conversación, no una caja negra. Los editores dan instrucciones con palabras, ven una vista previa de lo que la aplicación va a hacer y pueden frenarla antes de que se ejecute."
+        },
+        {
+          "t": "p",
+          "x": "Los fundadores son Matthew Cooksey y Paul Simon. Durante 12 años, los dos hicieron crecer la productora de video Circus Street hasta 200 personas y crearon contenido de nivel televisivo y VFX para Coca-Cola, Nike, Nestlé y Pfizer. Cooksey construyó un estudio virtual de 500.000 libras que produjo 60 horas de contenido en 20 idiomas, llegando a más de 500.000 espectadores."
+        },
+        {
+          "t": "p",
+          "x": "Media Composer, Final Cut, Premiere, Resolve: las herramientas han cambiado cómo trabaja cada generación, pero nadie había tocado la parte más dolorosa. Cuando llega un disco lleno de material, siempre más de lo esperado, alguien todavía tiene que verlo todo, elegir selects, sincronizar el multicámara y armar un ensamblaje. El juicio creativo solo empieza después de eso. Normalmente se come un día entero."
+        },
+        {
+          "t": "p",
+          "x": "Dos cosas se repitieron en las 300 conversaciones. Una: la mayoría de las herramientas de IA existentes obligaban a salir de la edición para procesar algo en otro lugar y luego traer el resultado de vuelta, una línea que los editores no querían cruzar."
+        },
+        {
+          "t": "p",
+          "x": "Dos: no existía un único resultado que todos quisieran. Las necesidades variaban según el proyecto y el rincón de la industria: stringouts, selects, ensamblajes, supercuts, cutdowns, sound bites, paper edits, cada uno con expectativas precisas propias. V2 se construyó para cubrir ese rango, no para producir una única salida fija."
+        },
+        {
+          "t": "p",
+          "x": "Los precios están en nicetouch.app. La prueba gratuita de cinco días desbloquea todas las funciones con 2.000 créditos. Los planes de pago son el Pro de 7.000 créditos a 67,75 dólares al mes y el Ultra de 40.000 créditos a 338,67 dólares al mes, con recargas de pago por uso también disponibles. Podimo y el equipo de edición de la Facultad de Trabajo Social de la Universidad de Georgia ya lo están usando."
+        }
+      ]
+    },
+    "movies/movies-tung-sahur-ai-lawsuit": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En el escenario absolutamente analógico de un tribunal federal de San José, una de las batallas más extrañas —y potencialmente más importantes— sobre quién posee realmente qué en la era de la IA se acerca a su desenlace. Slop, reclamos de marca y derechos de autor, memes de 'brainrot' italiano y disputas de licencias se entrelazan, con Tung Tung Sahur en el centro. Roblox y Fortnite aparecen como actores secundarios."
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/Tung-Tung-Tung-Sahur-and-San-Jose-Federal-Courthouse.jpg?w=1024",
+          "cap": "Tung Tung Sahur / San Jose Federal Courthouse"
+        },
+        {
+          "t": "p",
+          "x": "La vista está fijada para el 23 de septiembre ante la jueza Noël Wise. Los demandantes, Spider Games y Speedy Simulator Gaming, y la demandada —ahora también contrademandante— Momentum Labs, piden cada uno que se desestimen las reclamaciones de la otra parte."
+        },
+        {
+          "t": "p",
+          "x": "Todo empezó con un correo de muy baja tecnología. A mediados de 2025, Momentum, con sede en Francia, contactó a Two Big Studios, propiedad de Spider Games, con una queja: Tung Tung Sahur aparecía en “Steal a Brainrot”, su exitoso juego de recolección y caza en Roblox."
+        },
+        {
+          "t": "p",
+          "x": "Momentum había licenciado Tung Tung Sahur del creador indonesio Noksa (nombre real Fernanda Vagas Indrastata): el personaje con piernas de palo de madera, sonrisa ausente y bate de béisbol. Como ya tenía un acuerdo con Fortnite, de Epic Games, Momentum pidió lo mismo a Two Big Studios."
+        },
+        {
+          "t": "p",
+          "x": "Parece una negociación de propiedad intelectual ordinaria: unos correos, algo de ida y vuelta, una o dos llamadas de Zoom entre abogados, unos pagos, y listo. Esta vez no."
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-28-at-6.51.10-AM.png",
+          "cap": "Deadline"
+        },
+        {
+          "t": "p",
+          "x": "Roblox, ya impopular entre padres y profesores, retiró brevemente a Tung Tung Sahur, dándole a Momentum una victoria de corta duración. Pero en cuanto las negociaciones se estancaron, Spider demandó preventivamente a Momentum. La Oficina de Derechos de Autor de EE. UU. ha dicho que las obras generadas por IA pueden protegerse, pero caso por caso, y Momentum no tenía asegurado un derecho de autor completo en EE. UU. cuando empezó la disputa."
+        },
+        {
+          "t": "p",
+          "x": "Steven Stein, abogado externo de Momentum, lo planteó así: “Este caso es un frente de una lucha global que toca una cuestión mayor: ¿puede una empresa comercializar una obra creativa hecha por humanos sin permiso ni compensación, solo porque hubo IA de por medio?” Y añade, brevemente: “Creemos que no.”"
+        },
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-2.58.44-PM.png",
+          "cap": "Deadline"
+        },
+        {
+          "t": "p",
+          "x": "La lógica del otro lado es más simple. Mitchell Silberberg & Knupp, que representa al equipo de “Steal a Brainrot”, afirmó sin rodeos en una demanda enmendada del 30 de julio: “Los derechos que reclama Momentum no existen. Según la legislación establecida, la protección de derechos de autor requiere autoría humana, y las obras generadas por IA no la cumplen.” Momentum presentó ese mismo día una contrademanda por infracción de marca y, el 19 de agosto, pidió la desestimación por falta de jurisdicción."
+        },
+        {
+          "t": "p",
+          "x": "Aaron Moss, de MSK, dijo a Deadline: “Esta disputa comenzó cuando Momentum envió cartas de cese y desistimiento a mis clientes. Momentum afirma ser propietaria de decenas de memes de ‘brainrot italiano’ y se presenta como su ‘guardián comercial’. Pero nadie —ni Momentum ni nadie más— posee el brainrot, porque todo es contenido generado por IA.”"
+        },
+        {
+          "t": "p",
+          "x": "El juicio está fijado para el 29 de noviembre de 2027. Hacia donde se incline la vista de septiembre, parte de la suerte ya quedará echada sobre cuánta intervención humana necesita el contenido generado por IA. También empezará a verse si lo que estudios, streamers, YouTube y la economía de los creadores han tratado como activos sólidos lo es realmente, o está lleno de agujeros."
+        }
+      ]
+    },
+    "movies/movies-free-video-generator": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "qv0s1_coX50"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge, un canal dedicado al cine, publicó el 18 de agosto un resumen semanal de 27 minutos titulado “I Can't Believe This AI Video Generator is Free”. El título se refiere a LTX 2.5."
+        },
+        {
+          "t": "p",
+          "x": "El video abre con LTX 2.5 en el minuto 00:19 y, a partir de 04:35, lo pone lado a lado con MiniMax H3. Esa comparación, que dura casi 12 minutos, es el segmento más largo del video, y en 12:08 trata un cambio de licencia de MiniMax H3."
+        },
+        {
+          "t": "p",
+          "x": "Después viene una serie de noticias: Meshy 7, que convierte imágenes en modelos 3D; Adobe Creative Cloud integrado dentro de ChatGPT; Suno restringiendo las descargas de música; Magnific 3D Motion y Seedance 2.5; una zona de innovación en IA anunciada por Pekín; y el concurso Story Unboxed abierto por Dreamina."
+        },
+        {
+          "t": "p",
+          "x": "El cierre sigue el orden habitual: una guía de las mejores herramientas de IA y una guía de cumplimiento gratuita, seguidas de noticias de la comunidad, y luego la película de IA de la semana a partir de 26:00: el anuncio spec de Primer AI de Adam Palmer, The Tower de Danny Tseng y Plume de Dave Clark."
+        }
+      ]
+    },
+    "movies/movies-open-weight-onprem": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El debate sobre los modelos de pesos abiertos se encendió cuando 35 organizaciones, entre ellas Nvidia, Microsoft, Meta, IBM y Hugging Face, firmaron la carta abierta “Open-Weights and American AI Leadership”. El argumento es que los modelos que cualquiera puede descargar, inspeccionar, modificar y ejecutar en su propia infraestructura son uno de los pilares de la base."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/1786609854089-neon-z-image-turbo-copy-830x467.jpg",
+          "cap": "Una imagen generada localmente con el transformador de difusión abierto Z-Image-turbo, vía fxguide. Crédito: Jack Higgins"
+        },
+        {
+          "t": "p",
+          "x": "fxguide señala que la situación real en VFX no es tan sencilla. Ejecutar internamente los flujos de trabajo GenAI de código abierto más recientes ya es en sí mismo un agujero de seguridad. ComfyUI es una herramienta excelente, pero su código y su ecosistema abierto de plugins dejan espacio para que se filtre malware, y hay demasiado código para que un equipo de TI interno lo auditúe todo. La escasez de GPU y la subida disparada del precio de la RAM siguen atando a las empresas medianas a la nube."
+        },
+        {
+          "t": "p",
+          "x": "fxguide también publicó un texto de JD Vandenberg, consultor de flujos de trabajo GenAI y ciencia del color que ha trabajado con Disney y Netflix. Su resumen es que adoptar modelos de pesos abiertos trae consigo estabilidad del flujo de trabajo, seguridad, previsibilidad de costos y eficiencia de entrega."
+        },
+        {
+          "t": "p",
+          "x": "Durante la producción, el software no se actualiza a menos que sea estrictamente necesario. Los modelos GenAI, en cambio, cambian con frecuencia, sin aviso previo ni registro de cambios publicado. La misma entrada con la misma semilla puede dar resultados distintos. Las herramientas pueden desaparecer de un día para otro. En marzo, cuando OpenAI cerró la app y el servicio web de Sora, Critterz perdió su presentación programada en Cannes, y sus coautores tuvieron que buscar un nuevo socio de IA y reprogramarla para principios de 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://www.fxguide.com/wp-content/uploads/2026/08/1786609818717-watercolour-z-image-turbo-copy-830x467.jpg",
+          "cap": "Una imagen de estilo acuarela hecha localmente de la misma manera. Crédito: Jack Higgins"
+        },
+        {
+          "t": "p",
+          "x": "La seguridad es más directa. Las redes de producción mantienen estrechas las vías de salida bajo los requisitos de seguridad de contenido de la MPA y la TPN, pero en el momento en que se envía material fuente a un modelo alojado y se reciben los resultados, se abre una brecha en ese perímetro. Lo que circula por esa brecha suele ser material aún no publicado. Los modelos locales pueden funcionar incluso en una red totalmente cerrada."
+        },
+        {
+          "t": "p",
+          "x": "Los costos son difíciles de predecir. Patrick Cederberg, supervisor de posproducción del colectivo de Toronto Shy Kids, que hizo el cortometraje de Sora de 2024 Air Head, le dijo a fxguide que lograr 90 segundos terminados exigió “cientos de generaciones de 10 a 20 segundos cada una”, con una proporción de material fuente a corte final de alrededor de 300:1. Los rodajes con guion suelen estar entre 10:1 y 30:1. A agosto de 2026, las tarifas de la API van de 0,05 a 0,75 dólares por segundo de salida, así que el costo de un minuto terminado multiplica ese precio por segundo por un factor difícil de precisar. En junio, un empleado de una fintech de San Francisco quemó 81.267 dólares en tokens en una semana mientras creaba un juego."
+        },
+        {
+          "t": "p",
+          "x": "El hardware ya está a mano. Los modelos de video actuales suelen publicar también versiones destiladas y cuantizadas que corren en una sola GPU de estación de trabajo. Las GPU de granjas de render y de corrección de color también están inactivas fuera del horario laboral. Pero pesos abiertos y código abierto no son lo mismo. Poder descargar los pesos es distinto de poder hacer ajuste fino, redistribuir o entregar comercialmente, y las licencias van desde Apache 2.0 hasta uso exclusivamente no comercial. Sin importar cuán bueno sea el resultado, descubrir en la fase de confirmación que la licencia prohíbe el uso comercial ya es demasiado tarde."
+        }
+      ]
+    },
+    "movies/movies-photoshop-firefly5": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe lanzó una actualización de Photoshop. Es un paquete que pone herramientas de precisión y edición con prompts lado a lado para elegir entre ambas. Al frente están la nueva Light Adjustment Layer, Instruct Edit with Masks impulsada por Firefly, y el AI Assisted Editor, abierto en beta."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/ai_assisted_editor_static-1280.jpg?itok=_dBhwGrE",
+          "cap": "Una pantalla del AI Assisted Editor, abierto en beta"
+        },
+        {
+          "t": "p",
+          "x": "Deepa Subramaniam, vicepresidenta de marketing de producto para profesionales creativos, dijo en el anuncio: “Ya sea refinando detalles con herramientas de precisión o explorando ideas con prompts, esta actualización está pensada para ayudarte a trabajar de forma más eficiente y segura, manteniendo el enfoque en tu visión creativa de principio a fin.”"
+        },
+        {
+          "t": "p",
+          "x": "Light Adjustment Layer reúne exposición, contraste, luces altas, sombras, blancos y negros en una sola capa de ajuste no destructiva, con resultados de nivel Camera Raw sin salir del flujo de trabajo de capas."
+        },
+        {
+          "t": "p",
+          "x": "Con Instruct Edit with Masks, Firefly Image 5 lee todo el contexto de la imagen. En lugar de señalar punto por punto dónde editar, basta decir en una frase que se abra un ojo cerrado o que se le ponga un sombrero a la cabeza de una persona concreta. Todo lo que queda fuera de la máscara no se toca, así que las caras, los logotipos y los activos de marca permanecen intactos. La nueva función Markup permite dibujar directamente sobre la imagen para mostrar la intención: pintar la zona que se va a recolorear, trazar una flecha para la ubicación y aplicar con pincel un boceto tosco para los elementos nuevos. Esto reduce la ambigüedad que surge al describir todo solo con palabras."
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081305-instructeditmasks3-1280.jpg?itok=0wCgk1M_",
+          "cap": "Un ejemplo de un trabajo de Instruct Edit con una máscara aplicada"
+        },
+        {
+          "t": "p",
+          "x": "Dynamic Text, Shapes and Paths extiende el texto dinámico de Photoshop a formas y trazados personalizados, de modo que las letras se acomodan solas a lo largo de una curva o un diseño libre. Stock Panel Integration trae más de 900 millones de activos de Adobe Stock a un panel acoplado dentro de Photoshop."
+        },
+        {
+          "t": "p",
+          "x": "El AI Assisted Editor, en beta, es una interfaz separada con una barra de prompts en lenguaje natural. Usarla es opcional. Reúne Prompt to Edit, Remove Background, Generative Expand, Remove Tool, Generative Fill, Generative Upscale y AI Markup."
+        },
+        {
+          "t": "p",
+          "x": "Para quienes se quedan en el Pro Editor, Prompt to Edit también llegó a la Contextual Task Bar. Sin hacer ninguna selección, una sola línea de prompt puede cambiar toda la imagen, y cada resultado se apila en el panel de capas como una nueva capa generativa. La actualización ya está disponible en Photoshop."
+        }
+      ]
+    },
+    "movies/movies-ai-prompt-copyright-bill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El lema de Silicon Valley “muévete rápido y rompe cosas” suena razonable para la innovación. No se puede aplicar al tejido mismo de la sociedad. En plena revolución tecnológica, es momento de que el poder legislativo reconozca ese riesgo."
+        },
+        {
+          "t": "p",
+          "x": "El arte es un proceso antes de ser un resultado. Mantener viva la chispa de la inspiración ocurre dentro de ese proceso. Puede partir del talento. Pero solo se convierte en una expresión que únicamente podría salir de la experiencia de ese autor cuando se le suman la honestidad, la disciplina, la paciencia y la perseverancia. “Reducir el arte a un 'prompt' es un insulto para todos los creadores, pasados, presentes y futuros.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/08/GettyImages-2157513800.jpg?w=1440&h=810&crop=1",
+          "cap": "The Hollywood Reporter"
+        },
+        {
+          "t": "p",
+          "x": "El autor es David Barber, presidente de la MPSE (Motion Picture Sound Editors). Afirma que hay que proteger a quienes han puesto su vida en este oficio, y que el medio para hacerlo es la legislación."
+        },
+        {
+          "t": "p",
+          "x": "Dejemos clara una distinción. El resultado generado por prompt es aquel en el que un motor de IA, no un autor humano, crea los detalles de la expresión: video, audio, música, guiones o imágenes producidos a partir de una entrada en lenguaje natural o de video a sonido. Es distinto de las herramientas que pulen material ya creado por una persona."
+        },
+        {
+          "t": "p",
+          "x": "La propuesta tiene dos disposiciones. Primero, no otorgar derechos de autor al resultado basado en prompts de la IA generativa, ni a ninguna obra completa que lo incorpore aunque sea en parte. Segundo, exigir que el resultado y sus derivados lleven una marca: visible para imágenes y video, audible para canciones, partituras y efectos de sonido, y rastreable mediante metadatos."
+        },
+        {
+          "t": "p",
+          "x": "El alcance no es estrecho. Incluye películas que usan una partitura, efectos de sonido, efectos visuales o voz en off hechos con prompts. Lo mismo vale para una canción si una sección de vientos o coros generados por prompt contribuyó a terminar el tema. También hay que impedir que las empresas se escuden en la ley de secretos comerciales."
+        },
+        {
+          "t": "p",
+          "x": "También aporta un fundamento legal. La ley federal estadounidense define una obra protegida como “una obra original de autoría fijada en un medio tangible de expresión”. La originalidad se reconoce cuando un autor humano la crea de forma independiente y con un mínimo de creatividad: la “chispa” y el “mínimo” que la Corte Suprema mencionó en Feist Publications contra Rural Telephone Service."
+        },
+        {
+          "t": "p",
+          "x": "El juicio de Barber es tajante. Una máquina que combina conjuntos de datos enormes a la velocidad más alta de la historia humana es una maravilla de la innovación, no un artista. El resultado de un prompt es, al final, matemática, y en eso no hay chispa creativa."
+        },
+        {
+          "t": "p",
+          "x": "A la pregunta de si la Oficina de Derechos de Autor ya sostiene esa misma postura, responde que no exactamente. Excepciones como “edición humana sustancial” o “selección y disposición creativas” dejan la puerta abierta. Basta tirar de un hilo para abrir un agujero que ya no se puede cerrar."
+        },
+        {
+          "t": "p",
+          "x": "De hecho, ya se coló un caso. La Oficina de Derechos de Autor, tras un proceso de reconsideración, otorgó derechos de autor a “A Single Piece of American Cheese”, obra del CEO de Invoke AI, Kent Keirsey. La descripción de la empresa es directa: “No intentábamos crear una obra maestra (obviamente). Queríamos ver dónde está el 'piso' en el que la Oficina de Derechos de Autor de EE. UU. otorga derechos de autor a obras asistidas por IA.”"
+        },
+        {
+          "t": "p",
+          "x": "En Spotify suben decenas de miles de “canciones” hechas con IA cada día, y algunas llegan a las listas. Como las regalías se dividen por número de reproducciones, eso reduce en esa misma medida la parte que le toca a los artistas humanos. Él llama al resultado que no revela sus datos de entrenamiento “fruto del árbol envenenado”. “¿Cuánto hay que modificar un auto robado para que se vuelva tuyo y puedas venderlo?”"
+        },
+        {
+          "t": "p",
+          "x": "Cuando se entrena con una sola canción, se arrastra de golpe la parte del productor, el compositor, el ingeniero, el mezclador y los músicos. En el cine es peor: guionistas, directores de fotografía, diseñadores de producción, editores, editores de sonido, artistas de Foley, hasta artistas de VFX. El texto termina con una frase dirigida al Congreso: “¿Quién de ustedes se convertirá en el campeón de la creatividad humana?”"
+        }
+      ]
     }
   }
 }

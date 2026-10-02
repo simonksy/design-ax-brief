@@ -4297,6 +4297,178 @@
           "x": "That left the toast. It was created during the build, existed only in code, and had no failure state. Using use_figma to bring the toast onto the canvas as an editable layer, the designer added a retry action, and after the design system lead shipped the new component, it was linked to the code with Code Connect. From there, it went like any other release: most of the pull request's diff was feature logic. The engineer reviewed the code, and the designer looked at the preview build. The time once spent reworking AI-generated code shifted into time spent polishing the user experience."
         }
       ]
+    },
+    "design/design-adobe-unlock-mockups": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IlbD1rRIZLI"
+        },
+        {
+          "t": "p",
+          "x": "This is an episode of The Unlock from the Adobe Creative Cloud channel. It captures a working graphic designer's approach to product mockups in 1 minute 34 seconds. Badal Patel, who founded the studio Super Spicy, uses Adobe Firefly together with Photoshop and Illustrator."
+        },
+        {
+          "t": "p",
+          "x": "The subject is the nail polish brand Static. In the video, Patel says she created the brand herself to tell the story of being a new mom. She opens by comparing her work to a single bite that delivers sweet, salty, and funky flavors all at once."
+        },
+        {
+          "t": "p",
+          "x": "The starting point was a single photo. She uploaded the photo to Adobe Firefly and started adjusting prompts, because she wanted to see quickly how the brand would come to life. Firefly builds the bottle that's in her head."
+        },
+        {
+          "t": "p",
+          "x": "The prompt included the idea that it might be more interesting if the bottle looked like it was about to topple over. Firefly produced exactly that composition, and made it look like it had actually been shot. Patel decided to carry that playfulness over into geometric shapes to create the nail polish bottle's packaging."
+        },
+        {
+          "t": "p",
+          "x": "Next comes Adobe Photoshop. She reworked everything by hand until she was satisfied. Then she added the logo made in Adobe Illustrator, plus grain and a subtle drop shadow, to finish it off so it looked like a real object."
+        },
+        {
+          "t": "p",
+          "x": "She says this let her deliver a strong visual punch when showing mockups to clients and pitching ideas. Adobe presents this video as an example of communicating with clients while conveying creative intent clearly and precisely."
+        }
+      ]
+    },
+    "design/design-ai-camo-shirt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "To human eyes, the Digital Camouflage shirt is an abstract pattern of green, pink, and orange shapes jumbled together. To a robot, it hides the person wearing it."
+        },
+        {
+          "t": "p",
+          "x": "German designer Simon Weckert made it. After surveillance cameras were installed in Berlin earlier this year, he built this button-up shirt to confuse AI surveillance systems. It sits within a broader movement of adversarial clothing design that uses complex patterns to disrupt facial and object recognition."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/01-91595636-digital-camo-shirt.jpg",
+          "cap": "The Digital Camouflage shirt (Image: Simon Weckert)"
+        },
+        {
+          "t": "p",
+          "x": "“Object detection systems don't 'see' the way we do,” Weckert told Fast Company. “They scan images for statistical patterns—combinations of contours, textures, and colors that have been trained to be bundled with the category 'person.'”"
+        },
+        {
+          "t": "p",
+          "x": "The pattern was mathematically optimized to send the wrong signal to that neural network. Selling for about $88, the shirt has to do double duty: throw off AI while still being wearable."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/09-91595636-digital-camo-shirt.jpg",
+          "cap": "The pattern sits between human taste and algorithmic demands (Image: Simon Weckert)"
+        },
+        {
+          "t": "p",
+          "x": "“An adversarial pattern straight out of optimization works, but it's visually chaotic. It's an image purely for machines.” The final pattern landed right in the middle of algorithmic demands and human taste, and Weckert says that ambiguity matters conceptually. “It's a garment that speaks to two kinds of viewers at once. Each sees something completely different.”"
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/03-91595636-digital-camo-shirt.jpg",
+          "cap": "The shirt sells for about $88 (Image: Simon Weckert)"
+        },
+        {
+          "t": "p",
+          "x": "The test target was YOLO (You Only Look Once), an open-source detection system from the same family that underlies many commercial surveillance products. Weckert added, however, that the shirt wasn't made to defeat any particular surveillance system. It's closer to raising the question of how trustworthy a technology can be if a single piece of fabric can unravel it."
+        }
+      ]
+    },
+    "design/design-ai-interior-measurement": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI image systems produce a plausible-looking room in seconds. But a concept image is neither a construction drawing nor a shopping list. The hard work begins after generation: translating pixels into a plan that respects dimensions, circulation, light, fixtures, budget, and the things already in the house. This workflow treats the AI concept as a visual hypothesis and tests its assumptions before any money goes out the door. With a measured sketch, a spreadsheet, and a consistent review sequence, most early decisions can be handled without full CAD."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8obez9gebnhzuvfg4pnz.png",
+          "cap": "A Measurement-First Workflow for Evaluating AI Interior Concepts"
+        },
+        {
+          "t": "p",
+          "x": "Start by setting the input brief. Note the room type, the main activities, how many people use it regularly, items that must stay, and the budget range. Add constraints a photo can't reveal: lease terms, pets, children, accessibility, and electrical fixtures to be installed. The key move is separating requirements from preferences. “Keep an 850mm clear path from the door to the window” is a requirement; “a warm neutral palette” is a preference. Violate a requirement and the concept is disqualified; a preference can simply be adjusted."
+        },
+        {
+          "t": "p",
+          "x": "Next comes a trustworthy measurement model. Measure wall lengths, ceiling height, doors, windows, radiators, outlets, switches, and built-in furniture. Wide-angle lenses distort distance and size, so photos alone won't give you a reliable scale. Set one corner as (0, 0) and record fixed elements as intervals along each wall—for example, a window on the north wall starting 920mm from the west corner with a width of 1,450mm. Measure critical dimensions twice."
+        },
+        {
+          "t": "p",
+          "x": "At the generation stage, produce alternatives rather than a single answer. Hold geometry and must-have items fixed, and change only one thing at a time—layout, lighting emphasis, material palette, or storage strategy. If every variable changes at once between images, there's no way to tell what actually improved the room. Attach a prompt version and a short hypothesis to each result, and keep rejected concepts as evidence of recurring failure patterns."
+        },
+        {
+          "t": "p",
+          "x": "A scale audit comes next. For each concept, find at least three reference objects whose rough size you already know—a standard door, a sofa you're keeping. Look for the common errors of image generation: an impossible chair depth, an oversized pendant light. Transfer candidate furniture to the measured sketch using manufacturer dimensions or a conservative estimate. If a must-have item only fits by cutting into minimum clearances or blocking a door swing, the concept is disqualified."
+        },
+        {
+          "t": "p",
+          "x": "Look at circulation as a graph: set entrances, seating, storage, work surfaces, and windows as nodes, and connect the paths between them. Measure the effective width at the narrowest point, not the average. A dining table that only works if every chair is pushed in isn't a solid plan. Audit lighting separately by time and task—generated images draw light that ignores orientation and time of day. A simple table with activities as rows and morning, afternoon, and evening as columns will catch most obvious conflicts."
+        },
+        {
+          "t": "p",
+          "x": "Tie storage to an inventory list, not to the image—include cables, chargers, cleaning tools, paperwork, and AV equipment. Habits matter as much as capacity: if the household drops keys and bags at the entryway, make space right there instead of in a distant cabinet. Then map out dependencies. Electrical work, wall repair, painting, flooring, built-ins, and movable furniture have a sequence. For each task, note who's responsible, the estimate, prerequisites, and the cost of reversing it."
+        },
+        {
+          "t": "p",
+          "x": "The last step is a physical check. Mark furniture placement and circulation on the floor with masking tape, and build cardboard mockups of large, tall items to live with for a few days. Screen colors can't be trusted for paint or wood, so view samples in the actual room. The final output isn't a picture—it's a bundle of decisions backed by evidence, dimensions, and a construction sequence."
+        }
+      ]
+    },
+    "design/design-disney-auction-concept-art": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "From the AI art controversy around Spider-Man: Brand New Day to Masters of the Universe, those who used AI have had one main line of defense: it was just concept art. The AI-generated images, they say, never made it into the final film."
+        },
+        {
+          "t": "p",
+          "x": "But concept art is still art. It ends up in art books and behind-the-scenes footage, where fans pore over it for years. If a film becomes iconic enough, that artwork becomes a historical artifact. A recent Disney art auction showed, once again, just how much artistic—and financial—value that kind of work can hold."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5XhzJC45mxXfPHqMhyEeYo.jpg",
+          "cap": "Original art for Snow White by Gustaf Tenggren (Image: Disney / Heritage Auctions)"
+        },
+        {
+          "t": "p",
+          "x": "Just days after marveling at the sheer number of characters Disney crammed into this year's D23 poster design, a batch of rare original art and posters went up for auction, a reminder of the animation studio's deep legacy. The Disney art auction Heritage Auctions held last weekend brought in $3.43 million across 1,346 lots, spanning everything from the Golden Age through the Disney Renaissance to films from the 2000s."
+        },
+        {
+          "t": "p",
+          "x": "The most notable pieces were original artworks Gustaf Tenggren drew for Snow White and the Seven Dwarfs. A scene of Snow White listening to the Prince sing “One Song” sold for $85,400. A panoramic drawing of six of the seven dwarfs returning home went for $41,480, and a drawing of the Prince on horseback sold for $36,600."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BtBAaqTeMsu6cYYxFnMFXo.jpg",
+          "cap": "A panoramic drawing of six dwarfs returning home, $41,480 (Image: Disney / Heritage Auctions)"
+        },
+        {
+          "t": "p",
+          "x": "The top sales also included two pieces by Mary Blair. A colorful concept painting of the Japan section of It's a Small World sold for $31,720, and an original concept-and-color-key piece depicting Alice, the Mad Hatter, and the White Rabbit at the tea party in Alice in Wonderland went for $29,280."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YebxhzconpD4gLvf24fKXo.jpg",
+          "cap": "Original concept-and-color-key artwork from Alice in Wonderland (Image: Disney / Heritage Auctions)"
+        },
+        {
+          "t": "p",
+          "x": "The Joe Ranft family archive yielded storyboards and concept art from Toy Story, A Bug's Life, Monsters, Inc, and Cars."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/FhuTBdWMkJz3X7FnGZE6M6.jpg",
+          "cap": "A Toy Story storyboard hand-colored by Joe Ranft (Image: Disney / Heritage Auctions)"
+        },
+        {
+          "t": "p",
+          "x": "“This response speaks to the global affection for Disney and to a growing recognition of animation art as a significant art form,” said Jim Lentz, Heritage's Vice President of Animation Art and Anime Art."
+        },
+        {
+          "t": "p",
+          "x": "Using AI for concept art speeds things up. But will anyone say the same thing, 50 years from now, about an AI-generated Spider-Man drawing?"
+        }
+      ]
     }
   }
 }

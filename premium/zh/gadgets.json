@@ -3825,6 +3825,220 @@
           "x": "现在这种形态显然也有自己的位置。只要能在看电影或出行途中用上一块大屏幕，就已经足够好了。但价格是个问题。我不会为了把屏幕变大就在Xreal One Pro上花600美元，但299美元的A01+我愿意出。在CES上体验过的450美元Xreal 1S，就本文列出的用途而言，和One Pro几乎没有差别。Aura将在今年内推出，One Pro、1S和A01+已经在售。"
         }
       ]
+    },
+    "gadgets/gadgets-android17-agent-dashboard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google正在准备一个新的隐私面板，用来追踪安装在手机上并正在运行的AI代理。"
+        },
+        {
+          "t": "p",
+          "x": "不只是用Spark做出来的代理，就连用第三方服务的代理，Android 17似乎都能让用户查看到。"
+        },
+        {
+          "t": "p",
+          "x": "这看起来是Android下一代、处理AI活动的隐私面板工作的一部分。"
+        },
+        {
+          "t": "p",
+          "x": "智能体工作流是AI的下一个阶段。用户把复杂的任务交给Gemini、ChatGPT、Claude这类助手，不必在每一步都插手。"
+        },
+        {
+          "t": "p",
+          "x": "Google已经谈了几个月的自动化。从在线点餐这种简单事务，到不只是规划旅行，连预订都代为完成，设想是全部放在Android设备上处理。"
+        },
+        {
+          "t": "p",
+          "x": "能创建代理并让它在后台运行的应用，不可能只有Gemini一个。于是Google看起来是在Android 17 QPR2测试版4里搭建一个专门的面板，用来查看代理在做什么，尤其是背后在做什么。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Android-17-QPR2-beta-4-Privacy-controls-Agents-watermarked.jpg",
+          "cap": "Android 17 QPR2测试版4隐私控制里新出现的『代理』项"
+        },
+        {
+          "t": "p",
+          "x": "最新的Android 17 QPR2测试版里，安全与隐私>隐私控制下面新出现了一个叫『代理(Agents)』的项目。目前列表里还没有任何代理，但说明写着这个页面是用来显示『能在应用内访问信息或执行任务的代理』的地方。还会有提示，让你安装代理才能在这里显示。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Android-17-QPR2-beta-4-Privacy-controls-Agents-2-watermarked.jpg",
+          "cap": "因为没有安装任何代理而处于空白状态的代理列表"
+        },
+        {
+          "t": "p",
+          "x": "从说明来看，这个区域似乎不会只绑定用Gemini Spark做的AI代理。具备智能体功能的其他专用应用，也有可能一起加入进来。"
+        },
+        {
+          "t": "p",
+          "x": "这项变化带着浓厚的为Android Halo铺路的意味。就像摄像头和麦克风上已经有的指示灯一样，这是一个状态指示器，用来告知代理正在后台工作。这个在Google I/O 2026上公布的指示器呈指南针玫瑰(也就是所谓的闪光)形状，并被承诺『今年内』推出。"
+        },
+        {
+          "t": "p",
+          "x": "Google还顺带展示了与指示器配套、经过改版用来追踪AI活动的隐私面板。那部分也还没有上线，但已经迈出第一步：记录从负责设备内AI处理的Private Compute Core流出的数据。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-smart-glasses-2027": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "最早明年，Apple将推出首款AI智能眼镜。它搭载Visual Intelligence，把Siri带进现实空间。以下是目前为止汇总的信息。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&strip=all&w=1600",
+          "cap": "Apple智能眼镜概念图"
+        },
+        {
+          "t": "p",
+          "x": "先说清楚一点：这款眼镜不是AR眼镜，而是AI眼镜。没有显示屏，语音和摄像头是操作的核心。"
+        },
+        {
+          "t": "p",
+          "x": "靠着摄像头，Siri能看到用户正在看的现实场景。它可以回答问题、补充背景信息、翻译标牌。macOS 26.7泄露中首次曝光的功能——把某样东西存成照片，之后再让Siri提醒——很可能也会加入进来。"
+        },
+        {
+          "t": "p",
+          "x": "扬声器也会配上。能播放音乐和音频，把它当成开放式耳机来理解也没问题。"
+        },
+        {
+          "t": "p",
+          "x": "反过来，普通拍照和录像的功能可能会被拿掉。这是Bloomberg的Mark Gurman透露的消息。Meta的Ray-Ban眼镜最近成了隐私争议的焦点，Apple看起来想避开这条路。"
+        },
+        {
+          "t": "p",
+          "x": "与Meta不同，Apple没有和现有眼镜厂商合作。据Bloomberg报道，设计由自己完成，而且同时在推进多种款式。"
+        },
+        {
+          "t": "p",
+          "x": "一共四个方向：接近Ray-Ban Wayfarer的大号方框、类似Apple首席执行官Tim Cook所戴眼镜的薄方框设计、更大的椭圆或圆形框，以及小巧精致的椭圆、圆形选项。"
+        },
+        {
+          "t": "p",
+          "x": "据称材质是醋酸纤维，比塑料更结实、更显高级。将准备黑色、海洋蓝、浅棕色等几种配色。"
+        },
+        {
+          "t": "p",
+          "x": "有消息称，下一代产品Apple还考虑把它推成一款健康设备，比如像AirPods Pro 3那样加入心率传感器，或者加入类似Apple Watch的Workout Buddy这样的软件功能。"
+        },
+        {
+          "t": "p",
+          "x": "再往后，健康方面还会做到什么程度目前还不清楚。不过第一代产品先不要指望这些功能。"
+        },
+        {
+          "t": "p",
+          "x": "综合最近的报道，Apple会在WWDC 2027公开这款眼镜，给开发者留出准备时间，再在同年晚些时候出货。这实际上意味着9月亮相，将和20周年全玻璃iPhone同台登场。"
+        }
+      ]
+    },
+    "gadgets/gadgets-framework-192gb-desktop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Framework公开了更多关于自家小型台式机192GB版本的信息。这款机型搭载AMD的Ryzen AI 400 Gorgon Halo芯片，同时上线了汇总规格的专属产品页面。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Framework-Gorgon-Halo-Desktop-header.png",
+          "cap": "即将换上新版本的Framework Desktop"
+        },
+        {
+          "t": "p",
+          "x": "新配置的核心是内存带宽的提升。原本需要多块高性能外接GPU才能应付的AI任务，现在这一台就有余力承担。全部内存中最多可以把160GB分配给内置GPU。"
+        },
+        {
+          "t": "p",
+          "x": "搭载的芯片是AMD Ryzen AI Max+ 495 Pro。内存带宽为273GB/s，比Ryzen AI Max+ 395高6.6%。"
+        },
+        {
+          "t": "p",
+          "x": "造成差异的是更快的LPDDR5X-8533内存。基于Strix Halo的SKU用256位接口搭配LPDDR5X-8000，带宽大约为256GB/s。新的Ryzen AI Max+ Pro 495保持256位接口宽度不变，靠更快的LPDDR5X模组把理论带宽拉高。"
+        },
+        {
+          "t": "p",
+          "x": "芯片本身相比上一代没有太大变化。Zen 5 CPU16核32线程的配置保持不变，只是最大加速频率提高到了5.2GHz。"
+        },
+        {
+          "t": "p",
+          "x": "内置的Radeon 8065S GPU同样保留了40个RDNA 3.5计算单元，最大频率从2.9GHz小幅提升到3.0GHz。XDNA 2 NPU标称最高55 TOPS。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Framework-Gorgon-Halo-teaser.png",
+          "cap": "Framework Gorgon Halo预告"
+        },
+        {
+          "t": "p",
+          "x": "公布的时间点也值得留意。GMKtec不久前透露，会在9月的IFA 2026上展示搭载Ryzen AI Max+ Pro 495的Evo X5 Pro迷你PC。还有人提到，关于Gorgon Halo的更多细节可能会在9月5日IFA柏林前后公布。"
+        },
+        {
+          "t": "p",
+          "x": "如果真是这样，那么包括Framework在内的多家厂商在差不多的时间推出Gorgon Halo SKU，也就不奇怪了。"
+        },
+        {
+          "t": "p",
+          "x": "目前Framework也把192GB台式机标记为『即将推出』。价格还没公布。不过焊接的LPDDR5X容量达到这个程度，顶配版本的价格注定不会便宜。"
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-xr-operator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta推出了Meta XR Operator。这是一款实验性工具，能让AI编程代理自己构建、测试、调试VR应用，甚至亲自用眼确认结果。"
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+          "cap": "Meta Quest 3(图片来源:Meta)"
+        },
+        {
+          "t": "p",
+          "x": "引入AI代理之后，开发者读写代码的速度提升了，也能把跑测试、修复漏洞这类工作交出去。但确认它是否真的能跑起来这一步，一直是空白。"
+        },
+        {
+          "t": "p",
+          "x": "Meta公布的XR Operator，就是盯着这块空白做的OpenXR API层。它作为实验性组件被加进了Meta XR SDK(v205)。"
+        },
+        {
+          "t": "p",
+          "x": "用上XR Operator后，支持Model Context Protocol(MCP)的AI代理就能查看、在里面移动、操作跑在Meta XR Simulator里的VR应用。按Meta的说法，它能自己搭建Unity场景、运行、截图、找出问题、修复，甚至自行确认那个修复是否正确。"
+        },
+        {
+          "t": "p",
+          "x": "除了快速迭代和调试，自然语言测试也包含在内。开发者用话说出测试场景，代理就照着执行，并附上截图作为证据，给出通过或失败的结果。"
+        },
+        {
+          "t": "p",
+          "x": "Meta表示已经和用Meta XR SDK开发的团队做过早期测试，其中包括做Beat Saber的Beat Games。早期案例之一是做了一个可以在VR里互动的井字棋应用。代理编写了游戏逻辑，把虚拟控制器对准格子，按下『A』落子，一路打完一局直到分出胜负。"
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/i879GCHk/tic-tac-toe-vr.mp4"
+        },
+        {
+          "t": "p",
+          "x": "当然，它还不是一个『完成版』的验证工具，留下了几个不小的局限。Operator XR听不到声音，也不能很好地评估动画或动作，既追踪不了每根手指，也没法稳定抓住细微的视觉瑕疵。有动态互动的场景也很吃力。实时跟上的速度不够快，因此Meta自己也说它最适合『静态、确定性的场景』。"
+        },
+        {
+          "t": "p",
+          "x": "能覆盖的范围目前还只限于Unity用的Meta XR Core SDK。不过Meta补充说，如果是像Godot或Unreal Engine那样用OpenXR的其他引擎，可以下载独立的包自己接上去。"
+        },
+        {
+          "t": "p",
+          "x": "我不喜欢AI把创作领域的大半染成廉价量产品的样子，但『一句提示词出一款游戏』的时代还没到来。等那个时代真的到来，随之而来的物量会把如今已经很混乱的Horizon Store里那些Gorilla Tag仿品统统淹没。DeepMind做的、Google的Genie 3这类世界模型，已经能有限地生成游戏画面了。"
+        },
+        {
+          "t": "p",
+          "x": "眼下Meta把重心放在能让开发中机械性部分自动化的AI工具上，与其自己去挖金子，不如去做一把更好的铁铲。那种收购VR工作室、给独占内容砸下数百万美元开发费的年代，从2016年的Rift开始，到今年初的Quest结束。"
+        },
+        {
+          "t": "p",
+          "x": "它描绘的图景是这样的：小型开发商靠这些工具，快速、便宜地做出非常好的东西，填满Horizon Store——恰恰是Meta自己不想直接出钱做的那类内容。9月22日开幕的Meta Connect 2026想必会排满AI相关的游戏开发场次，到时候应该能听到更多。"
+        }
+      ]
     }
   }
 }

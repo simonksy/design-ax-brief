@@ -3653,6 +3653,361 @@
           "x": "Willits coincidió en que, al final, el juicio lo da el propio juego. 'El juego hablará por sí mismo. Cuando salga el experimento de Rideshare, pruébenlo ustedes mismos. Puede que piensen: oh, esto está bastante bien. Si no les gusta, también está bien. El juego habla por sí mismo'."
         }
       ]
+    },
+    "games/games-1666-drops-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/HqR6PTgsYxFJXCUuYFhtR8-1920-80.jpg",
+          "cap": "1666: Amsterdam"
+        },
+        {
+          "t": "p",
+          "x": "Cuando 1666: Amsterdam se presentó en el Summer Game Fest, la reacción fue de sorpresa y alegría, algo comprensible tratándose de un proyecto que Patrice Désilets, cocreador de Assassin's Creed, llevaba mucho tiempo gestando."
+        },
+        {
+          "t": "p",
+          "x": "El ambiente cambió rápido. Los jugadores que exploraron el prólogo jugable publicado junto con el anuncio detectaron en los assets del juego el olor característico de la IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "El estudio de Désilets, Panache Digital Games, admitió haber usado IA para crear algunos assets y se disculpó, prometiendo eliminar esos elementos antes del lanzamiento en Acceso Anticipado."
+        },
+        {
+          "t": "video",
+          "yt": "SkmC_VmaZj8"
+        },
+        {
+          "t": "p",
+          "x": "Ese lanzamiento ocurrió la semana pasada. Y Désilets dice ahora que Panache eliminó por completo la IA de su proceso de trabajo y que no la usará en el futuro."
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista con GamesRadar+, dejó claro que terminó con la IA generativa, y añadió que la mayor parte de la IA usada se concentró en las primeras etapas del proyecto."
+        },
+        {
+          "t": "p",
+          "x": "“Sí, usamos algo de IA en el proceso. Sobre todo al principio”, dijo Désilets. “Fue en la etapa de concepción y preproducción. Se eliminó por completo, y no usaremos ninguna IA de aquí en adelante.”"
+        },
+        {
+          "t": "p",
+          "x": "Como alguien a quien le gusta que las obras las hagan artistas, me alegra que Panache se haya esforzado por raspar la IA generativa de 1666: Amsterdam. Sin embargo, no me siento cómodo cuando los desarrolladores dicen que la IA solo se usó en la etapa de concepto, porque esa etapa es justamente la parte más disfrutable y gratificante de la creación."
+        },
+        {
+          "t": "p",
+          "x": "Es el período en que ocurre la mayor parte de la imaginación, y el más libre de la disciplina y las decisiones dolorosas que exige terminar algo de verdad. Entregar ese tramo a una máquina de mediocridad se siente como una traición al proceso creativo."
+        },
+        {
+          "t": "p",
+          "x": "Queda también una pregunta filosófica interesante: si la tecnología ayudó a imaginar el juego desde el principio, ¿se puede decir realmente que ese juego no tiene IA generativa?"
+        },
+        {
+          "t": "p",
+          "x": "Sea como sea, 1666: Amsterdam ya está en Acceso Anticipado, y su página de Steam no lleva aviso de IA. Con o sin IA, las valoraciones de los jugadores están divididas. Ahora mismo tiene una calificación 'Variada' con un 66% de reseñas positivas. El ambiente y la exploración reciben elogios, mientras que el combate rígido y la falta general de acabado son blanco de críticas."
+        }
+      ]
+    },
+    "games/games-dwarf-fortress-creator-calls": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/09/dwarf-fortress.jpg",
+          "cap": "Captura de pantalla de Dwarf Fortress. © Bay 12 Games"
+        },
+        {
+          "t": "p",
+          "x": "“Todos los que conozco tienen un jefe que se está hundiendo poco a poco en la psicosis.” Es una frase que podría aplicarse a casi cualquier lugar, pero ahora mismo le queda especialmente bien a la industria de los videojuegos. Es lo que dijo Tarn Adams, creador de Dwarf Fortress, en una conversación con PC Gamer durante la Gamescom, sobre el tedioso tema de la IA. “Quieren que el CEO apriete un botón y haga un juego, y luego, de alguna manera, hacer que el resto de la gente, que ya no tiene trabajo, lo compre.”"
+        },
+        {
+          "t": "p",
+          "x": "La mayor parte del público de los videojuegos reacciona de forma más fuerte y airada ante la IA generativa que crea arte, assets, voces y sonido. Pero el lugar donde en realidad se usa más es por debajo, en el código. Los avisos de Steam o las protestas públicas apenas reflejan cuánta programación, en todos los campos, ha pasado a manos de herramientas como Claude o Copilot. En general, por la presión directa de la jerarquía de la empresa. Es decir, el jefe. ¿Por qué pasar semanas escribiendo código sólido y que funcione bien, cuando se le puede pedir a un LLM que lo junte de cualquier manera y simplemente ejecutarlo? Claro, dejando a un lado todas las razones que se nos ocurren de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "Esto es a lo que se refiere Adams cuando habla de los jefes. “Es simplemente esto: ‘¿Entonces usaste IA en el commit?’ Y luego: ‘Mmm, este no me gusta mucho.’ ‘Seguramente la máquina pueda hacerlo.’” Adams dijo que esta escena “recuerda a una canción de Dead Kennedys o algo así. Es siempre lo mismo. A mi propio padre también lo despidieron de una planta de tratamiento de aguas residuales. Él era el encargado de las computadoras allí, pero la gente no sabía qué era ese trabajo. Esa empresa ya no existe. Así que siempre es lo mismo.”"
+        },
+        {
+          "t": "p",
+          "x": "No es algo que pase solo en los videojuegos, sino un patrón que se repite en todas las profesiones de programación. Los directivos devoran con avidez el tiempo que supuestamente ahorra la IA y todas las promesas que trae esta nueva herramienta mágica, y luego trasladan a los empleados la tarea, imposible, de hacerlo realidad. No les importa que depurar código alucinado tarde mucho más que escribirlo uno mismo desde cero. Tampoco les importa el problema de tener que responder más adelante por un software construido de una forma que nadie entiende por completo. Es simplemente: ‘Claude será más rápido, así que dense prisa’, mientras exigen usar solo una centésima parte de los tokens del año pasado."
+        },
+        {
+          "t": "p",
+          "x": "Tarn Adams dijo que esto “no parece ir en una dirección sostenible” y añadió que “parece que todo va a estallar una vez, se va a pagar el precio, y luego se va a repetir, a menos que la gente haga otra cosa.”"
+        }
+      ]
+    },
+    "games/games-how-dream-racers-uses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/09/dream-racers.png",
+          "cap": "Nuevo juego de Roblox, Dream Racers"
+        },
+        {
+          "t": "p",
+          "x": "Roblox está metiendo la IA generativa directamente en el bucle central de juego de las experiencias de su plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Lanzado el 1 de septiembre por el estudio creador Studsy, Dream Racers es un juego de carreras de karts. Usa la herramienta de IA generativa de Roblox, Cube, para generar un vehículo distinto para cada jugador en tiempo real. Escribir unas pocas palabras en el cuadro de prompt produce vehículos absurdos como un “Trumpet Mouse Floral Kart” o un “Skeleton Parrot Mule Kart”. El fundador de Studsy, Kaya-kii “Delus” Ndlovu, dijo a GamesBeat en una entrevista que la oportunidad de meter la tecnología de IA 4D de Roblox en una nueva experiencia surgió de una colaboración entre su estudio y el Roblox Innovation Studio."
+        },
+        {
+          "t": "p",
+          "x": "“No usamos Cube AI en el desarrollo. Este enfoque consistió en averiguar cómo meterlo en el propio juego”, explicó Ndlovu. “El jugador elige tres adjetivos para describir su kart, y Cube AI, integrado en Roblox, construye un modelo de kart en 3D con esas tres palabras, y el jugador corre con ese kart.”"
+        },
+        {
+          "t": "p",
+          "x": "Las propiedades distintas de cada vehículo surgen de combinar tres adjetivos elegidos de una lista de palabras seleccionada llamada “word shop”. El prompt no solo cambia el aspecto. Según las palabras elegidas, cambian la física y las cifras de juego del kart. Ndlovu dijo que planea meter la IA generativa aún más a fondo en el juego en el futuro."
+        },
+        {
+          "t": "p",
+          "x": "“Si un jugador hace un kart con tema de fuego y otro jugador tiene un kart con tema de hielo, se produce algún tipo de choque entre los dos”, dijo."
+        },
+        {
+          "t": "p",
+          "x": "Roblox anunció por primera vez su herramienta de creación 3D Cube AI en marzo de 2025, y en febrero de 2026 la amplió a la generación 4D, permitiendo colocar objetos hechos por IA en los mundos de juego en tiempo real. Dream Racers es una de las primeras experiencias de Roblox en conectar Cube AI directamente al juego."
+        },
+        {
+          "t": "p",
+          "x": "Morgan Tucker, que dirige el Roblox Innovation Studio, dijo a GamesBeat en una declaración escrita que “la función más poderosa que podemos construir es eliminar la fricción entre una idea y hacerla realidad”. “Eso es lo que hace la creación en lenguaje natural en manos de un creador. Al meter en un juego la generación 4D impulsada por el Cube Foundation Model, Studsy añadió la dimensión crucial de la interactividad. Como los objetos del juego se mueven como esperan los jugadores, pueden concentrarse en los momentos inesperados que hacen bueno a un juego.”"
+        },
+        {
+          "t": "p",
+          "x": "Studsy no usó Cube AI para desarrollar Dream Racers, pero Ndlovu cree que algún día se podrá hacer todo el arte 3D con esta herramienta. Dijo que seguirá experimentando con géneros y formatos que conecten la IA generativa directamente, incluido un juego de batalla campal en el que los jugadores fabrican armas con prompts de tres adjetivos para luchar."
+        },
+        {
+          "t": "p",
+          "x": "“Es divertido imaginar cómo usarán esto otros desarrolladores en la plataforma cuando esté abierto a todos.”"
+        }
+      ]
+    },
+    "games/games-aws-studio-ai-ops": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141035/89679/screenshot-2026-08-24-at-120513_l1200.jpg",
+          "cap": "AI powering the global engine for game studios"
+        },
+        {
+          "t": "p",
+          "x": "Huang Zhoubin, gerente senior de arquitectura de soluciones de gaming en Amazon Web Services, resumió el lugar que ocupa la IA en el desarrollo de videojuegos. Vale la pena leerlo teniendo en cuenta que es un artículo publicado directamente por AWS. En los últimos tres años, el centro de gravedad del trabajo de AWS también se ha desplazado hacia ayudar a los estudios a operar IA."
+        },
+        {
+          "t": "p",
+          "x": "En un análisis reciente de Omdia, el 73% de los desarrolladores de videojuegos chinos dijo que la IA es esencial para mantener la competitividad comercial. Según Huang, la sensación sobre el terreno es aún mayor: entre el 80% y el 90% ya ha incorporado IA a sus pipelines de producción. El tema ya no es si adoptarla, sino cómo superar las barreras de la ejecución."
+        },
+        {
+          "t": "p",
+          "x": "Mover modelos fundacionales a un entorno de desarrollo real tiene obstáculos claros. Los LLM de propósito general no conocen la IP del estudio, el ritmo algorítmico ni el sentido de diseño que retiene a los jugadores. Las limitaciones de la ventana de contexto tampoco permiten meter de una sola vez un motor que carga millones de líneas de código heredado."
+        },
+        {
+          "t": "p",
+          "x": "En el lado creativo, el peso se ha desplazado de Stable Diffusion y ComfyUI hacia modelos fundacionales de nivel superior como Flux. En el lado del desarrollo, la programación con IA se convirtió en el mayor consumidor de capacidad de procesamiento de IA de la industria. La idea central es que la verdadera aceleración está más allá del autocompletado de código."
+        },
+        {
+          "t": "p",
+          "x": "Una pieza es bajar la barrera para entender la base de código. El código de un juego cambia más rápido de lo que la documentación puede seguir. Dar acceso de lectura a un agente permite que productores, equipos de live ops y de comunidad pregunten directamente por la lógica de negocio para verificar valores de balance en tiempo real. La otra pieza es la integración en el pipeline: la IA se encarga de documentación, pruebas de regresión y verificación de builds dentro de la CI."
+        },
+        {
+          "t": "p",
+          "x": "Huang no cree que poner una sola IA enorme sobre todo el pipeline de un estudio suela funcionar. En cambio, el trabajo se divide en dominios con límites claros: un modelo para generación de materiales, otro para depuración, otro más para pruebas de sistema. Como cada modelo opera solo dentro de un contexto acotado, el razonamiento no se dispersa."
+        },
+        {
+          "t": "p",
+          "x": "Para operar esto a escala, AWS construyó una plataforma basada en el Agent Communication Protocol (ACP). Conectar un nuevo agente mediante el protocolo estándar hace que la plataforma le asigne automáticamente las tareas que le corresponden, sin necesidad de código de integración. En marketing, la misma estructura mueve campañas completas, desde la generación creativa hasta la ejecución de anuncios y la asignación de presupuesto."
+        },
+        {
+          "t": "p",
+          "x": "Se incluyeron casos concretos. Un estudio montó una base de datos central de gestión de assets en AWS y corre pruebas A/B con decenas de miles de videos publicitarios cada mes. Al principio no pasaba los estándares de diseño de la IP, pero tras ajustar el modelo con su propia biblioteca de materiales, terminó siendo un pipeline capaz de producir hasta 100.000 assets conformes con la IP por día."
+        },
+        {
+          "t": "p",
+          "x": "Un desarrollador de juegos casuales en Beijing resolvió su cuello de botella para ajustar la curva de dificultad de un match-3 con pruebas automáticas de IA. Simular el comportamiento de los jugadores en niveles nuevos en lugar de hacer playtesting manual multiplicó por 20 la eficiencia de las pruebas de nivel."
+        },
+        {
+          "t": "p",
+          "x": "Una plataforma de UGC usada por millones de personas al día incorporó una herramienta que crea escenas, objetos 3D e interacciones a partir de lenguaje natural, respaldada por debajo por los clústeres de GPU de AWS. En el matchmaking que mezcla jugadores de Europa, Oriente Medio y el sudeste asiático, modelos de traducción y corrección de voz en tiempo real pulen el chat de voz."
+        },
+        {
+          "t": "p",
+          "x": "La conclusión es la infraestructura. Ya sea construir un motor narrativo procedural en tiempo real o pulir flujos de trabajo internos, lo que se necesita al final es una nube que escale. En la encuesta independiente de Omdia, AWS mantuvo su posición como la plataforma de nube líder de la industria global de videojuegos."
+        }
+      ]
+    },
+    "games/games-city-sample-pcg-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/cmsxqgcmqnsuj06lebm2w2306",
+          "cap": "Unreal Engine City Sample"
+        },
+        {
+          "t": "p",
+          "x": "El proyecto City Sample se actualizó con base en Unreal Engine 5.8. No fue un simple retoque: el nivel se reconstruyó por completo, y vino acompañado de un paquete de herramientas, contenido y ejemplos para la construcción procedural de mundos. Está disponible desde hoy, gratis a través de Fab, el panel de inicio del editor de Unreal o el Epic Games Launcher."
+        },
+        {
+          "t": "p",
+          "x": "Es la misma ciudad que se mostró una vez en el State of Unreal 2026. Caminos y aceras sinuosos recorren un terreno ondulado, y hasta la vegetación frondosa y los bosques se colocaron de forma procedural. A diferencia del City Sample original lanzado junto con UE5, esta ciudad se construyó de principio a fin dentro de Unreal Engine."
+        },
+        {
+          "t": "video",
+          "yt": "9ikOoOzAhPE"
+        },
+        {
+          "t": "p",
+          "x": "Volvamos un momento atrás. En diciembre de 2021, apareció una ciudad enorme y densa en The Matrix Awakens: An Unreal Engine 5 Experience, una demo técnica que mostró el rendimiento de las consolas de nueva generación antes de su lanzamiento. Esa ciudad se publicó después como el proyecto original City Sample."
+        },
+        {
+          "t": "p",
+          "x": "El renderizado estuvo a cargo de Nanite y Lumen, pero la ciudad en sí se construyó con herramientas procedurales fuera de Unreal. Desde entonces el motor ha cambiado. Con el framework de PCG renovado y la llegada del servidor Unreal MCP junto con UE 5.8, ahora se puede reconstruir la misma ciudad directamente dentro de Unreal."
+        },
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/quality=value:90/auto_image/cmsxqsq0unurv06lergchpyto",
+          "cap": "Flujo de trabajo de UE 5.8 City Sample y Unreal MCP"
+        },
+        {
+          "t": "p",
+          "x": "El City Sample actualizado es a la vez una muestra y un material de aprendizaje. Demuestra cómo usar PCG, con o sin ayuda de un LLM, para construir mundos complejos y densos. El modelo que usó Epic esta vez fue Claude, aunque aclaró que cada quien puede elegir el que mejor se ajuste a su propia situación."
+        },
+        {
+          "t": "p",
+          "x": "Lo importante es que el resultado queda completamente editable de principio a fin. No hay caja negra ni ningún truco mágico; solo amplía la intención creativa y adelanta su realización. También se usaron World Partition, Nanite Foliage y Quixel Megaplants."
+        },
+        {
+          "t": "img",
+          "src": "https://cms-assets.unrealengine.com/AiKUh5PQCTaOFnmJDZJBfz/resize=width:1200/quality=value:90/auto_image/cmsxqulmnnuvi08odm45izae2",
+          "cap": "PCG y Megaplants en el UE 5.8 City Sample"
+        },
+        {
+          "t": "p",
+          "x": "Una sesión del Unreal Fest Chicago 2026 explica cómo un LLM trata el PCG como un lenguaje espacial. Construye una ciudad usando el nuevo plugin PCG Primitives y sus ejemplos de carreteras, edificios, bosques y parques, y señala que este marco se puede extender a los propios casos de producción de cada equipo."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto ahora conserva intacto el nivel original hecho en Houdini y añade dos niveles nuevos construidos con PCG con ayuda de un LLM: uno con la ciudad completa y otro, un ejemplo más simple con menos pasos."
+        },
+        {
+          "t": "p",
+          "x": "También se incluyen otros elementos. Los ejemplos de grafos de PCG que recrean la ciudad de forma procedural también pueden servir como referencia base para el servidor Unreal MCP. Entre ellos están cinco especies de Megaplants para llenar la vegetación, data assets de PCG Assembly con configuraciones de malla estática para plazas en azoteas y muelles, assets de definición de gramática de formas para edificios y carreteras que levantan assets rápidamente con perfiles preestablecidos, y los subgrafos PCG Primitive que construyen los edificios de City Sample."
+        },
+        {
+          "t": "p",
+          "x": "Junto al proyecto viene el plugin CitySamplePCG_demo, que contiene todos los grafos y assets necesarios para recrear City Sample con PCG. Aun así, la muestra se apoya en varios sistemas experimentales y en etapa beta, algunos de los cuales no están activados por defecto; para los detalles, lo más rápido es revisar la documentación."
+        }
+      ]
+    },
+    "games/games-gta6-crowd-tech-lead": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7E43SERC2PDAcs2Nxm9Yxm-1920-80.jpg",
+          "cap": "Grand Theft Auto 6"
+        },
+        {
+          "t": "p",
+          "x": "Todavía faltan algunas horas para GTA 6: An Extended Look. Pero un desarrollador que creó las multitudes tan impresionantes de 007: First Light dice que, solo por las grandes filtraciones que han salido hasta ahora, la tecnología de NPC de Rockstar Games está muy por delante de la de sus rivales."
+        },
+        {
+          "t": "p",
+          "x": "Un hacker conocido en línea como Cyberleek lleva semanas filtrando material temprano de este juego de mundo abierto. Algunos de esos clips muestran a las bulliciosas multitudes de GTA 6 pasando el tiempo en playas o clubes de striptease."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, las reacciones a los primeros clips se han dividido, con algo de sorna incluida. Si Rockstar realmente logró la densidad de multitudes que mostró en el primer tráiler de GTA 6 sigue siendo motivo de debate."
+        },
+        {
+          "t": "p",
+          "x": "Berkay Dursun, programador de IA en IO Interactive, lo ve de otra manera. Habiendo construido la tecnología interna del nuevo juego de James Bond, considera que las multitudes bulliciosas de GTA 6 están en una categoría de peso completamente distinta a la de otros juegos."
+        },
+        {
+          "t": "p",
+          "x": "Todo empezó con un tuit que restaba importancia a la densidad de multitudes de GTA 6 comparándola con las también impresionantes multitudes de Hitman. Dursun respondió que en el nuevo juego de Rockstar \"cada personaje se simula individualmente\", con la salvedad de que eso es así, al menos, a juzgar por lo mostrado hasta ahora."
+        },
+        {
+          "t": "p",
+          "x": "Eso es distinto de cómo manejan las multitudes Hitman o Assassin's Creed. En esos juegos, la mayoría de los NPC no tienen programación de IA, rutinas ni comportamiento corriendo por debajo. Solo repiten animaciones para que la multitud se vea lo más abarrotada posible."
+        },
+        {
+          "t": "p",
+          "x": "\"Y lograr simular a esta escala significa que están al menos una década por delante de la industria\", continuó Dursun, en un tuit traducido automáticamente que GamesRadar+ verificó."
+        },
+        {
+          "t": "p",
+          "x": "\"El juego más cercano a hacer simulación a este nivel probablemente sería Mount & Blade 2: Bannerlord\", añadió, un título en el que, casualmente, el propio Dursun trabajó."
+        },
+        {
+          "t": "p",
+          "x": "El peso de ese comentario viene de ser el diagnóstico de un ingeniero de un estudio rival que él mismo ha construido multitudes. También apunta a la profundidad de la simulación, y no a un atajo generativo."
+        }
+      ]
+    },
+    "games/games-inworld-tts-evals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inworld.ai/public-website-2025/images/content/9b54d1f3fd481dd93314ffa470ff9008d2c9c589-1200x630.png",
+          "cap": "Inworld TTS Open Evaluation Toolkit"
+        },
+        {
+          "t": "p",
+          "x": "Inworld liberó en código abierto el TTS Open Evaluation Toolkit, una herramienta para extraer muestras de sistemas TTS, evaluar audio sin conexión y generar informes que se pueden comparar entre sí. El texto lo escribió Aleksey Tikhonov, jefe de investigación de ML/IA."
+        },
+        {
+          "t": "p",
+          "x": "Cada ejecución deja la configuración justo al lado de las mediciones por muestra. Se puede tomar una sola puntuación y rastrearla hasta el texto y el audio originales, además de abrir la transcripción de ASR y los umbrales aplicados. La primera versión incluye las métricas más usadas junto con un conjunto de estrés conversacional en inglés cuidadosamente elaborado."
+        },
+        {
+          "t": "p",
+          "x": "Evaluar TTS es complicado. Al correr el mismo modelo sobre el mismo dataset, el WER de dos equipos puede terminar siendo distinto. Qué modelo de ASR se elige y cómo se normaliza el texto mueven los números. Lo mismo pasa con la selección de voz, los ajustes de síntesis y si se incluyen o excluyen las muestras fallidas. La cosa empeora al pasar a métricas subjetivas como naturalidad o expresividad."
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas actuales suelen manejar bien los prompts fáciles. Por eso los detalles de implementación y los fallos en casos difíciles terminan decidiendo el resultado. Sin un protocolo, un promedio desnudo es difícil de rastrear y verificar."
+        },
+        {
+          "t": "p",
+          "x": "El toolkit empaqueta una sola ejecución en un directorio que se puede inspeccionar. Extrae audio con el modelo y la voz fijos mientras registra los ajustes de síntesis, evalúa los clips con ASR local y normalización explícita, y luego muestra la cifra agregada junto con las muestras que hay detrás. Los adaptadores de Inworld, ElevenLabs y Hume vienen integrados, y otros sistemas solo necesitan entregar el audio mediante un manifiesto."
+        },
+        {
+          "t": "p",
+          "x": "El informe HTML no tiene CDN ni runtime alojado. Un informe que agrupa varias ejecuciones separa las métricas en bloques con sentido — la familia de precisión, las métricas subjetivas, los tipos de fallo — y añade intervalos de confianza y un resumen de salud del modelo."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inworld.ai/public-website-2025/images/content/402c44a831088be48e5c84098fa497ad472068e4-2560x1806.png",
+          "cap": "Una pantalla de informe que agrupa los resultados de varias ejecuciones"
+        },
+        {
+          "t": "p",
+          "x": "Cuando una muestra rompe un umbral, el informe detallado coloca el texto esperado junto a la transcripción de ASR. Si hay audio disponible, el audio también se adjunta."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inworld.ai/public-website-2025/images/content/1b8cd140f2e18e122c430bd875038cee5952c072-2560x604.png",
+          "cap": "Un informe detallado con el texto esperado junto a la transcripción de ASR"
+        },
+        {
+          "t": "p",
+          "x": "La caché de mediciones funciona por direccionamiento de contenido. Si el audio decodificado y el texto fuente todavía coinciden con la configuración de métricas, se reutilizan las mediciones de ASR y audio. Los umbrales e informes se regeneran de nuevo, así que ajustar las reglas de evaluación termina siendo mucho más barato que volver a transcribir el mismo lote."
+        },
+        {
+          "t": "p",
+          "x": "Las métricas iniciales abarcan tasas de error a nivel de palabra y carácter con el desglose de inserciones, eliminaciones y sustituciones, proporciones de clipping y silencio, señales de sonoridad y de clics al final, duración y velocidad de habla, dimensiones de NISQAv2 aplicadas opcionalmente, similitud de hablante con ECAPA, y detección de alargamiento de vocales. La advertencia de Inworld es que no hay que fundir todo esto en un solo ranking. Un WER bajo no significa que la voz suene natural."
+        },
+        {
+          "t": "p",
+          "x": "El repositorio también incluye un pequeño dataset conversacional en inglés hecho para sacar a la luz fallos rápido. Son 100 prompts mezclados con fragmentos de frases, interrupciones y marcado de énfasis. Las palabras repetidas, las comillas anidadas y las líneas que se alargan resultan más problemáticas que las frases de benchmark comunes."
+        },
+        {
+          "t": "p",
+          "x": "Es literalmente un conjunto de estrés, no una muestra representativa de todo el habla. Decidir un despliegue requiere prompts de producción reales en cada idioma relevante y la voz que realmente se usará en el producto. El conjunto incluido se acerca más a filtrar los problemas obvios antes de gastar dinero en experimentos más grandes."
+        },
+        {
+          "t": "p",
+          "x": "La reproducibilidad no garantiza que la evaluación en sí sea correcta. Pero sí permite inspeccionar las premisas. El código, los ejemplos y las instrucciones para agentes que guían desde la instalación hasta el primer informe en la línea de comandos están en el README del repositorio."
+        }
+      ]
     }
   }
 }

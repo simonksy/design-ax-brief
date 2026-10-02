@@ -4278,6 +4278,220 @@
           "x": "There's clearly a place for the current form factor. Just having a big screen for watching movies or for a laptop on the move while traveling is good enough on its own. But the price matters. I wouldn't spend $600 on the Xreal One Pro just to get a bigger screen, but I would pay $299 for the A01+. The $450 Xreal 1S I tried at CES was barely different from the One Pro for the uses described here. Aura is coming later this year, while the One Pro, 1S and A01+ are already on sale."
         }
       ]
+    },
+    "gadgets/gadgets-android17-agent-dashboard": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google is working on a new privacy dashboard that tracks AI agents installed and running on the phone."
+        },
+        {
+          "t": "p",
+          "x": "It looks like Android 17 will let users check not just agents built with Spark but also agents that use third-party services."
+        },
+        {
+          "t": "p",
+          "x": "This appears to be part of Android's next privacy dashboard work, which covers AI activity."
+        },
+        {
+          "t": "p",
+          "x": "Agentic workflows are the next phase of AI. Users hand off complex tasks to assistants like Gemini, ChatGPT, and Claude, without having to step in at every stage."
+        },
+        {
+          "t": "p",
+          "x": "Google has been talking about automation for months. The picture is everything handled on the Android device itself, from simple tasks like ordering food online to going beyond trip planning and finishing the booking too."
+        },
+        {
+          "t": "p",
+          "x": "Gemini can hardly be the only app able to build agents and run them in the background. So it looks like Google is building a dedicated dashboard into Android 17 QPR2 Beta 4 to watch what agents are doing, especially what they're doing behind the scenes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Android-17-QPR2-beta-4-Privacy-controls-Agents-watermarked.jpg",
+          "cap": "The new 'Agents' entry in Android 17 QPR2 Beta 4's privacy controls"
+        },
+        {
+          "t": "p",
+          "x": "A new entry called 'Agents' has appeared under Security & Privacy > Privacy Controls in the latest Android 17 QPR2 beta. No agents show up in the list yet, but the description says this page is where you'll see “agents that can access information or perform tasks within apps.” It also prompts you to install an agent to have it show up here."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Android-17-QPR2-beta-4-Privacy-controls-Agents-2-watermarked.jpg",
+          "cap": "The empty agent list, with no agents installed"
+        },
+        {
+          "t": "p",
+          "x": "Judging by the description, this section won't be tied only to AI agents built with Gemini Spark. There's room for other dedicated apps with agentic features to show up here too."
+        },
+        {
+          "t": "p",
+          "x": "This change strongly looks like groundwork for Android Halo. Like the indicator lights already attached to the camera and microphone, it's a status indicator that signals when an agent is working in the background. Unveiled at Google I/O 2026, the indicator takes the shape of a compass rose (aka the sparkle), and was promised to arrive “later this year.”"
+        },
+        {
+          "t": "p",
+          "x": "Alongside the indicator, Google also briefly showed off a reworked privacy dashboard that tracks AI activity. That hasn't shipped either, but it has taken its first step by logging data that leaves the Private Compute Core, which handles on-device AI processing."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-smart-glasses-2027": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "As early as next year, Apple will launch its first AI smart glasses. It's a device that carries Visual Intelligence and pulls Siri out into physical space. Here's everything reported so far."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses-02.jpg?quality=82&strip=all&w=1600",
+          "cap": "Apple smart glasses concept image"
+        },
+        {
+          "t": "p",
+          "x": "One thing first: these glasses are AI glasses, not AR glasses. With no display, voice and the camera become the main way to interact with them."
+        },
+        {
+          "t": "p",
+          "x": "Thanks to the camera, Siri sees the same reality the user is looking at. It answers questions, fills in context, and translates signs. A feature first revealed in the macOS 26.7 leak — saving something as a photo and asking Siri to bring it up again later — is also likely to make it in."
+        },
+        {
+          "t": "p",
+          "x": "A speaker is included too. It plays music and audio, so it's fair to think of it as open-ear headphones."
+        },
+        {
+          "t": "p",
+          "x": "On the other hand, the ability to take ordinary photos and videos may be left out. That's according to Bloomberg's Mark Gurman. Meta's Ray-Ban glasses recently became a focal point of privacy controversy, and Apple appears to want to avoid that path."
+        },
+        {
+          "t": "p",
+          "x": "Unlike Meta, Apple isn't teaming up with an existing eyewear maker. According to Bloomberg, it's handling the design in-house and running several styles at once."
+        },
+        {
+          "t": "p",
+          "x": "There are four directions: a large square frame resembling the Ray-Ban Wayfarer, a thin square design similar to the glasses Apple CEO Tim Cook wears, a bigger oval or round frame, and a small, refined oval or round option."
+        },
+        {
+          "t": "p",
+          "x": "The material is reportedly acetate, sturdier and more premium than plastic. A few finishes are planned, including black, ocean blue, and light brown."
+        },
+        {
+          "t": "p",
+          "x": "There's word that for the next generation, Apple is also considering pushing this product as a health device — adding a heart-rate sensor like the AirPods Pro 3, or layering on software features like the Apple Watch's Workout Buddy."
+        },
+        {
+          "t": "p",
+          "x": "Beyond that, what more Apple might do on the health side is still fuzzy. Just don't expect any of that in the first generation."
+        },
+        {
+          "t": "p",
+          "x": "Putting recent reports together, Apple will unveil the glasses at WWDC 2027 to give developers time to prepare, then ship them later that same year. That effectively means a September debut, sharing the stage with the 20th-anniversary all-glass iPhone."
+        }
+      ]
+    },
+    "gadgets/gadgets-framework-192gb-desktop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Framework has released more information about the 192GB version of its small desktop PC. The model carries AMD's Ryzen AI 400 Gorgon Halo chip, and a dedicated product page laying out the specs has also gone live."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Framework-Gorgon-Halo-Desktop-header.png",
+          "cap": "The Framework Desktop, about to switch to a new version"
+        },
+        {
+          "t": "p",
+          "x": "The core of the new configuration is the increased memory bandwidth. It opens room for this single machine to handle AI workloads that would normally need several high-performance discrete GPUs. Up to 160GB of the total memory can be allocated to the integrated GPU."
+        },
+        {
+          "t": "p",
+          "x": "The chip onboard is the AMD Ryzen AI Max+ 495 Pro. Memory bandwidth is 273GB/s, 6.6% higher than the Ryzen AI Max+ 395."
+        },
+        {
+          "t": "p",
+          "x": "Faster LPDDR5X-8533 memory makes the difference. The Strix Halo-based SKU paired a 256-bit interface with LPDDR5X-8000, yielding roughly 256GB/s. The new Ryzen AI Max+ Pro 495 keeps the interface width at 256-bit but raises the theoretical bandwidth with faster LPDDR5X modules."
+        },
+        {
+          "t": "p",
+          "x": "The chip itself hasn't changed much from the previous generation. The 16-core, 32-thread Zen 5 CPU configuration stays the same, and only the max boost clock rose, to 5.2GHz."
+        },
+        {
+          "t": "p",
+          "x": "The integrated Radeon 8065S GPU also keeps its 40 RDNA 3.5 compute units, with the max clock rising slightly from 2.9GHz to 3.0GHz. The XDNA 2 NPU is listed at up to 55 TOPS."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Framework-Gorgon-Halo-teaser.png",
+          "cap": "Framework Gorgon Halo teaser"
+        },
+        {
+          "t": "p",
+          "x": "The timing of the announcement is worth noting too. GMKtec recently let slip that it will show an Evo X5 Pro mini PC using the Ryzen AI Max+ Pro 495 at IFA 2026 in September. There was also mention that more details on Gorgon Halo could come around September 5, timed to IFA Berlin."
+        },
+        {
+          "t": "p",
+          "x": "If so, it wouldn't be a stretch to expect Framework and several other makers to roll out Gorgon Halo SKUs around the same time."
+        },
+        {
+          "t": "p",
+          "x": "For now, Framework has also listed its 192GB desktop as “coming soon.” Pricing isn't out yet. But with this much soldered LPDDR5X capacity, the top-tier configuration is bound to be expensive."
+        }
+      ]
+    },
+    "gadgets/gadgets-meta-xr-operator": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta has released Meta XR Operator, an experimental tool that lets AI coding agents build, test, debug, and even visually verify VR apps on their own."
+        },
+        {
+          "t": "img",
+          "src": "https://roadtovr.com/wp-content/uploads/2026/04/quest-3-20.jpg",
+          "cap": "Meta Quest 3 (Image credit: Meta)"
+        },
+        {
+          "t": "p",
+          "x": "Bringing in AI agents has let developers read and write code faster, and hand off running tests or fixing bugs too. But the step of confirming that it actually works has always been missing."
+        },
+        {
+          "t": "p",
+          "x": "The XR Operator Meta announced is an OpenXR API layer aimed at that gap. It ships as an experimental component in the Meta XR SDK (v205)."
+        },
+        {
+          "t": "p",
+          "x": "With XR Operator, an AI agent that supports the Model Context Protocol (MCP) can see, move through, and manipulate a VR app running in the Meta XR Simulator. According to Meta, it can build a Unity scene directly, run it, take screenshots, spot problems, fix them, and even verify on its own that the fix is correct."
+        },
+        {
+          "t": "p",
+          "x": "Beyond quick iteration and debugging, natural-language testing is included too. A developer describes a test scenario in words, and the agent carries it out, attaching screenshots as evidence and reporting a pass or fail."
+        },
+        {
+          "t": "p",
+          "x": "Meta said it ran early tests with teams developing on the Meta XR SDK, including Beat Games, maker of Beat Saber. One early example was building an interactive tic-tac-toe app in VR. The agent wrote the game logic, aimed a virtual controller at a square, pressed “A” to place a piece, and finished a full round until a win or loss was decided."
+        },
+        {
+          "t": "video",
+          "src": "https://videos.files.wordpress.com/i879GCHk/tic-tac-toe-vr.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Of course, it's not a 'finished' verification tool yet. Several significant limitations remain. Operator XR can't hear sound, can't properly evaluate animation or movement, can't track individual fingers, and can't reliably catch subtle visual defects. Dynamic interaction is also hard. It's too slow to keep up in real time, so Meta itself says it works best with “static, deterministic scenarios.”"
+        },
+        {
+          "t": "p",
+          "x": "Its scope of operation is also still limited to the Meta XR Core SDK for Unity. But Meta added that for other engines using OpenXR, like Godot or Unreal Engine, you can download a standalone package and hook it up yourself."
+        },
+        {
+          "t": "p",
+          "x": "I dislike the idea of AI flooding most of the creative space with cheap mass-produced output, but this still isn't the era of 'one prompt, one full game.' When that era arrives, it will bring a flood of volume that buries even the Gorilla Tag clones already cluttering the Horizon Store. World models like Google's Genie 3, built by DeepMind, already generate game scenes, if only in a limited way."
+        },
+        {
+          "t": "p",
+          "x": "Right now, Meta is focused on AI tools that automate the mechanical parts of development — making a better shovel rather than digging for gold itself. The era of buying up VR studios and throwing multimillion-dollar budgets at exclusive content started with the Rift in 2016 and ended with the Quest earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "The picture it's drawing is this: small developers use these tools to make something fast, cheap, and still very good, filling the Horizon Store with exactly the kind of content Meta didn't want to fund directly. Meta Connect 2026, starting September 22, will be packed with sessions on AI-related game development, so expect to hear more there."
+        }
+      ]
     }
   }
 }

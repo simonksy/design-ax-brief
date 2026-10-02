@@ -3879,6 +3879,288 @@
           "x": "It supports PCs running Windows 10 or later and Macs running macOS 10.13 or later. VST23, AU, and AAX versions are available. It costs £238.80 including VAT and is available now."
         }
       ]
+    },
+    "music/music-ai-track-detectives": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&w=1200",
+          "cap": "Cath Virginia / The Verge, Max Harris, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "As generative audio tools grow more sophisticated, the internet is filling up with music that algorithmically pulls melodies and vocals from human artists' work. Some creators admit to using AI right away; others only come clean once the questioning gets intense."
+        },
+        {
+          "t": "p",
+          "x": "In a scene as closely tied to technology as electronic dance music, what counts as “real” is an urgent, personal question. A listener calling out a suspicious performer carries a different weight than an artist calling out a peer."
+        },
+        {
+          "t": "p",
+          "x": "26-year-old EDM producer Max “H4RRIS” Harris chose the latter. He calls out, on video, people he believes are passing off AI slop as human-made art."
+        },
+        {
+          "t": "p",
+          "x": "“I don't see what AI produces as art, and I don't think this technology meaningfully advances art,” Harris says. “It's just a technological advance that hands people a way to steal real art and pass it off as their own.”"
+        },
+        {
+          "t": "p",
+          "x": "He described his own process much like any other creative medium: start from a core concept and throw out ideas until something clicks. His setup — Ableton Live, a Push 3, Serum, Kontakt — may look complicated, but he says it comes down to “me making the creative decisions.”"
+        },
+        {
+          "t": "p",
+          "x": "The tells come from the ear. Beyond vocals that all sound alike, there's a sharp hiss running through the whole track. His guess is that it comes from the model starting with a big blob of white noise and guessing at the waveform while referencing real song data."
+        },
+        {
+          "t": "p",
+          "x": "What often gives away Suno-style tracks is a stutter: the vocal and other melodic elements cut off at the exact same instant. That happens because the model fails to properly separate the song's parts and treats them like one big instrument — a choice no producer would actually make."
+        },
+        {
+          "t": "p",
+          "x": "He pointed to MANSA's “Midnight on My Mind” and Danny and Ian Asher's “Take Me (To The Moon)” as examples. None of the three has ever disclosed using a generative tool, though, and there's no conclusive proof. Harris could be wrong."
+        },
+        {
+          "t": "p",
+          "x": "What pushed Harris to make his video was a Threads post about Suno from 39-year-old Italian producer Nihil Young. “It's like uploading an entire original track by an artist like Madonna and asking it to be remixed,” he said."
+        },
+        {
+          "t": "p",
+          "x": "There was a cost. Young says he faced hacking attempts and online harassment, and even picked up fake followers inflating his Spotify numbers. The callouts have paused for now. Having mixed and mastered for Sony Music, Warner and Universal, he lost several clients as soon as AI spread."
+        },
+        {
+          "t": "p",
+          "x": "The numbers point the other way. By Kapwing's estimate, the top 10 AI music creators on Spotify and YouTube made more than $6 million in 2025. Deezer has said more than half of new uploads are AI tracks, and Hallwood Media signed a $3 million deal with AI avatar Xania Monet."
+        },
+        {
+          "t": "p",
+          "x": "“Put on a good pair of headphones and it's obvious the music was made by AI,” Young says. “But these days people consume music like fast food. They listen on phone speakers or play it in the background and don't pay attention to what it actually sounds like.”"
+        }
+      ]
+    },
+    "music/music-jazz-profile-hijack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/jazz-musician-streaming-profiles-hijacked-to-post-ai-slop.png",
+          "cap": "Photo Credit: Chris Bair"
+        },
+        {
+          "t": "p",
+          "x": "Spam farms have hijacked jazz musicians' YouTube and Spotify profiles. What pours out of them is generative AI tracks, with AI-rendered, anime-style female characters plastered on the cover art."
+        },
+        {
+          "t": "p",
+          "x": "The Spotify, Amazon Music and YouTube profiles of jazz musicians, including William “Sonny” Criss, have been buried in AI spam to a worrying degree. Vocalist Jean Carne, cornetist Red Nichols and clarinetist Jimmie Noone have profiles in the same state. The “new songs” posted this year carry the publisher name “Ami bacuk.”"
+        },
+        {
+          "t": "p",
+          "x": "Two new songs appeared on Criss's Spotify profile — as Futurism put it, “an impressive feat for someone who died in 1977.” Both tracks have a generic anime-style female character on the cover, and the composer is listed as “Zainul Irpan,” which reads more like two common Arabic-origin names stuck together."
+        },
+        {
+          "t": "p",
+          "x": "The songs are jazz-styled but nearly impossible to trace back to a source. Unlike typical AI slop, they're not remixes of Criss's own songs or of other artists' work that music-identification software would catch."
+        },
+        {
+          "t": "p",
+          "x": "If tracks topped with modern anime characters hadn't suddenly flooded a deceased artist's profile, an ordinary listener would have had a hard time telling these songs apart from the musician's own work."
+        },
+        {
+          "t": "p",
+          "x": "Back in April, the same publisher released four singles under Jimmie Noone's name. Noone was a Black Dixieland clarinetist and bandleader who died in 1944."
+        },
+        {
+          "t": "p",
+          "x": "The titles are “You Have Hurt Him,” “You Have Hurt Him 2,” “He's still there” and “He's still there 2.” All are generic pop ballads with what sounds like an AI-sung female vocal. Even the surreal, AI corporate-Memphis-style header image clashes head-on with Noone's actual sound and his black-and-white photo album covers."
+        },
+        {
+          "t": "p",
+          "x": "R&B and jazz vocalist Jean Carne (also spelled Carn)'s YouTube Music profile has also been overrun by slop. The signs are nearly identical to Criss's page, and the music is flat jazz missing Carne's trademark five-octave voice. There's one decisive difference: Carne is still alive."
+        },
+        {
+          "t": "p",
+          "x": "A Spotify spokesperson told Futurism that “the releases in question have been removed from the artist profiles,” adding that “protecting artist identity is a top priority for us, and we continue to invest heavily in detection and prevention.”"
+        },
+        {
+          "t": "p",
+          "x": "Spotify also pointed to Artist Profile Protection, currently being tested in stages ahead of a full launch. It lets artists review and approve or reject incoming releases before they go live. Still, it remains an open question why this has to be opt-in rather than the default on streaming services — especially since the feature itself was prompted by profile hijackings on Spotify in the first place."
+        },
+        {
+          "t": "p",
+          "x": "The upshot is that platforms are reacting after the fact rather than getting ahead of the flood of AI slop. When the public can't tell a track was made by AI, a service like Spotify has more to gain than to lose. That makes Deezer's choice to actively identify AI tracks and pull them from its royalty pool carry that much more weight."
+        }
+      ]
+    },
+    "music/music-musical-spirograph": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&w=1200",
+          "cap": "So pretty. Screenshot: Terrence O'Brien / The Verge"
+        },
+        {
+          "t": "p",
+          "x": "The piece starts with a memory of being obsessed with Spirograph as a kid. Those geometric patterns were hypnotic and beautiful. On top of that is a taste for generative music composition."
+        },
+        {
+          "t": "p",
+          "x": "So when the two meet in a single browser tab, it's no surprise the writer got hooked."
+        },
+        {
+          "t": "p",
+          "x": "The concept behind Musical Spirograph is fairly simple. A few points move around the screen following mathematical equations, tracing hypotrochoids and epitrochoids."
+        },
+        {
+          "t": "p",
+          "x": "Every time those points cross a concentric ring, a specific note sounds. The drawing becomes the score."
+        },
+        {
+          "t": "p",
+          "x": "That alone is fun enough, but there's plenty to tinker with. You can choose from six virtual rotors, and run up to three drawing arms at once. There are several parameters for shaping the pattern as well."
+        },
+        {
+          "t": "p",
+          "x": "There are six scale options to pick from, or you can set the notes directly yourself. There are also six synth presets."
+        },
+        {
+          "t": "p",
+          "x": "You can change the quantize setting and the BPM, or increase the number of rings up to two octaves."
+        },
+        {
+          "t": "p",
+          "x": "There are weak points. The sound engine isn't great, and clipping and artifacts crop up easily. It's also a shame there's no MIDI output to control other instruments."
+        },
+        {
+          "t": "p",
+          "x": "Even so, it's enough to get lost in for a good while. In the writer's own words, it's calm, hypnotic, and fun to fiddle with."
+        }
+      ]
+    },
+    "music/music-canada-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ca.billboard.com/media-library/image.jpg?id=67690117&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
+          "cap": "The University of Alberta surveyed 263 Canadian musicians"
+        },
+        {
+          "t": "p",
+          "x": "The University of Alberta asked 263 “working Canadian musicians” what they're experiencing in a changing music industry. Optimism was rare when respondents talked about the industry's rapid technological shifts, especially generative AI."
+        },
+        {
+          "t": "p",
+          "x": "Of the 142 who weighed in on AI's rapid spread, 87% viewed it “negatively.” A significant share said they don't use these tools in their own music at all, citing the way it drives down the value of human-made work. Others said bringing in new listeners and earning a livable income keep getting harder."
+        },
+        {
+          "t": "p",
+          "x": "Beyond the moral issue the survey summed up as “a loss of human artistry,” musicians also pointed to copyright theft, environmental concerns, and “fears that AI-generated tracks could threaten their livelihoods by burying real music.”"
+        },
+        {
+          "t": "p",
+          "x": "The charts felt it too. The electronic duo HAVEN's viral EDM track “I Run” made the Billboard Canadian Hot 100. After it came out that the uncredited female vocal was made with the AI tool Suno, they replaced it with TikTok singer Kaitlin Aragon, and it's that version that charted."
+        },
+        {
+          "t": "p",
+          "x": "Views on streaming are similarly twisted. The study describes artists as having a “forced ambivalent relationship” with these platforms. Succeeding in the digital era makes them a “practical necessity,” but that sits alongside low payouts and distrust of “opaque algorithms that have replaced organic discovery.” Many respondents said they'd like to leave but see no alternative."
+        },
+        {
+          "t": "p",
+          "x": "“Musicians lived through the shift to streaming about a decade ago, and they still haven't recovered or seen the benefits of it,” said lead researcher Brian Fauteux. He added that artists now face “another variable in AI, coming out of the Big Tech world, from people who don't seem to see music as an art or a craft.”"
+        },
+        {
+          "t": "p",
+          "x": "“This isn't anger that came out of nowhere,” Fauteux said. “These issues go back to years of labels and exploitation, full of stories of musicians not getting paid properly or losing their rights.”"
+        }
+      ]
+    },
+    "music/music-happy-shrimp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/08/1091456116-e1787068208459.jpg?w=1024",
+          "cap": "Alibaba's booth at CES in Las Vegas, January 2019. Photo: David Becker/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Chinese tech giant Alibaba launched its own AI music generation model this week. The company says it turns prompts like “millennial Mandopop” or “the feeling of dawn in urban folk” into finished songs. Prices start under $10."
+        },
+        {
+          "t": "p",
+          "x": "It was built by Alibaba's Token Hub, an AI business unit launched in March that CEO Eddie Wu personally oversees. Happy Shrimp 1.0 partnered with TAIHE MUSIC GROUP, China's largest music label and an audio entertainment company. It's still in beta, but within the site you can make AI music, upload it, find and listen to it, and leave likes and comments. Membership starts at $14.90 a month, and credit packages start at $9.90."
+        },
+        {
+          "t": "p",
+          "x": "Happy Shrimp joins Alibaba's Happy family of AI models, following Happy Horse, an AI video generation service, and Happy Oyster, which makes 3D interactive video for game developers. E-commerce businesses like AliExpress and Taobao remain the core of Alibaba's business, but the Happy models come out of Token Hub, the central AI research unit Wu set up to push more commercial AI models into the market."
+        },
+        {
+          "t": "p",
+          "x": "“Our number one goal is to pursue [artificial general intelligence],” Wu said on an investor call in February 2025, according to Bloomberg. “We will continue to develop models that push the boundaries of intelligence.”"
+        },
+        {
+          "t": "p",
+          "x": "The past year in the music industry has been a tangle of three threads: AI music platforms competing for growth and capital, music companies trying to profit from and get inside whatever comes next, and a camp opposed to the pairing of technology and music itself. Suno, the largest AI music platform in the U.S., announced its second deal with a major music company, signing a licensing agreement with BMG after an earlier one with Warner Music Group. Spotify said it will label AI music starting in September and is rolling out an AI remix feature built with UMG, Merlin, and Kobalt."
+        },
+        {
+          "t": "p",
+          "x": "The Happy Shrimp website describes the model this way: “It treats music as a language with its own grammar, meaning, and context. Instead of creating lyrics, melody, arrangement, and vocals separately and stitching them together, it designs them together, so the whole track comes out as one coherent song.”"
+        },
+        {
+          "t": "p",
+          "x": "Prompts can be long or short. You can use professional music terminology or write in internet slang. The site claims a finished track pops out in seconds."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba and strategic partner TAIHE are exploring further opportunities like “artist co-creation and high-quality content development,” according to Alizila, Alibaba's English-language corporate news site."
+        }
+      ]
+    },
+    "music/music-ig-first-draft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/08/instagram_first_draft-banner-2.jpg",
+          "cap": "Instagram First Draft"
+        },
+        {
+          "t": "p",
+          "x": "The moment they look at a pile of raw footage, a lot of musicians and creators just decide not to post it at all."
+        },
+        {
+          "t": "p",
+          "x": "To push past that threshold, Instagram has launched First Draft. It's a one-tap editing feature that trims and stitches video clips together on its own, turning them into a single flowing Reel in seconds."
+        },
+        {
+          "t": "p",
+          "x": "It's currently rolling out on iOS only. Think of it as a digital assistant that takes over the most tedious part of video editing, the “rough cut” stage. An Android version looks likely to follow soon."
+        },
+        {
+          "t": "p",
+          "x": "First Draft is a native editing tool built just for Instagram Reels. It trims the clips you choose, strips out unnecessary pauses, and strings together the best moments into a first edit."
+        },
+        {
+          "t": "p",
+          "x": "It mainly detects audio and motion to spot dead air and cut out those gaps. It doesn't rely on generative AI."
+        },
+        {
+          "t": "p",
+          "x": "There are two ways to use it. Open the Reels gallery from your camera roll, pick one or more clips, and tap the “First Draft” button at the bottom of the screen, or shoot directly with the Instagram camera and tap “First Draft” to assemble the footage right away."
+        },
+        {
+          "t": "p",
+          "x": "It doesn't care about format, from everyday vlogs to tour montages stitched from multiple clips to plain talking-head videos."
+        },
+        {
+          "t": "p",
+          "x": "Any edit First Draft makes is 100% reversible. If you don't like the rhythm of the automatic edit, you can rearrange the clips, restore them, or discard everything, then move into the full editor to add music, text, and effects."
+        },
+        {
+          "t": "p",
+          "x": "Short-form video is an inseparable part of music marketing today. But for independent musicians running their own campaigns, editing is a massive bottleneck."
+        },
+        {
+          "t": "p",
+          "x": "By automating the most annoying, time-consuming part, cutting dead air and assembling a basic montage, Instagram hands artists back their time. With the rough-cut grunt work out of the way, they can spend it polishing the narrative, talking with fans, and actually making music. If you have an iPhone, that's one less excuse not to post a tour vlog or a track breakdown."
+        }
+      ]
     }
   }
 }

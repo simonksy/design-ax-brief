@@ -4153,6 +4153,178 @@
           "x": "Quedaba el toast. Se había creado durante la construcción, existía solo en el código y no tenía estado de fallo. Al usar use_figma para subir el toast al lienzo como una capa editable, el diseñador añadió una acción de reintento, y después de que el responsable del sistema de diseño publicara el nuevo componente, se vinculó al código con Code Connect. A partir de ahí, fue como cualquier otro lanzamiento: la mayor parte del diff del pull request era lógica de funcionalidad. El ingeniero revisó el código y el diseñador vio la compilación de vista previa. El tiempo que antes se dedicaba a corregir el código generado por IA pasó a dedicarse a pulir la experiencia del usuario."
         }
       ]
+    },
+    "design/design-adobe-unlock-mockups": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IlbD1rRIZLI"
+        },
+        {
+          "t": "p",
+          "x": "Este es un episodio de The Unlock del canal de Adobe Creative Cloud. En 1 minuto y 34 segundos, muestra el enfoque de una diseñadora gráfica profesional para los mockups de producto. Badal Patel, quien fundó el estudio Super Spicy, usa juntos Adobe Firefly, Photoshop e Illustrator."
+        },
+        {
+          "t": "p",
+          "x": "El tema es la marca de esmalte de uñas Static. En el video, Patel cuenta que creó la marca ella misma para contar su experiencia como madre primeriza. Empieza comparando su trabajo con un solo bocado que ofrece a la vez sabores dulces, salados y funky."
+        },
+        {
+          "t": "p",
+          "x": "El punto de partida fue una sola foto. Subió la foto a Adobe Firefly y empezó a ajustar los prompts, porque quería ver rápidamente cómo cobraba vida la marca. Firefly construye el frasco que tiene en la cabeza."
+        },
+        {
+          "t": "p",
+          "x": "En el prompt incluyó la idea de que podría resultar más interesante si el frasco parecía estar a punto de caerse. Firefly produjo exactamente esa composición y la hizo parecer una fotografía real. Patel decidió trasladar ese toque de juego a formas geométricas para crear el envase del frasco de esmalte de uñas."
+        },
+        {
+          "t": "p",
+          "x": "Lo siguiente es Adobe Photoshop. Retocó todo a mano hasta quedar satisfecha. Después añadió el logotipo creado en Adobe Illustrator, sumó grano y una sombra suave para terminar de hacerlo parecer un objeto real."
+        },
+        {
+          "t": "p",
+          "x": "Dice que esto le permitió lograr un gran impacto visual al mostrar mockups a los clientes y defender sus ideas. Adobe presenta este video como un ejemplo de cómo comunicarse con los clientes transmitiendo la intención creativa de forma clara y precisa."
+        }
+      ]
+    },
+    "design/design-ai-camo-shirt": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A los ojos humanos, la camisa Digital Camouflage es un patrón abstracto de formas verdes, rosas y naranjas mezcladas. Para un robot, oculta a la persona que la lleva puesta."
+        },
+        {
+          "t": "p",
+          "x": "La creó el diseñador alemán Simon Weckert. Después de que se instalaran cámaras de vigilancia en Berlín a principios de este año, construyó esta camisa de botones para confundir a los sistemas de vigilancia con IA. Se inscribe en un movimiento más amplio de diseño de ropa adversarial que usa patrones complejos para alterar el reconocimiento facial y de objetos."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/01-91595636-digital-camo-shirt.jpg",
+          "cap": "La camisa Digital Camouflage (Imagen: Simon Weckert)"
+        },
+        {
+          "t": "p",
+          "x": "“Los sistemas de detección de objetos no 'ven' como nosotros”, dijo Weckert a Fast Company. “Escanean las imágenes buscando patrones estadísticos: combinaciones de contornos, texturas y colores entrenadas para asociarse con la categoría 'persona'”."
+        },
+        {
+          "t": "p",
+          "x": "El patrón se optimizó matemáticamente para enviar la señal equivocada a esa red neuronal. La camisa, que se vende por unos 88 dólares, tiene que cumplir una doble función: confundir a la IA y, al mismo tiempo, poder llevarse puesta."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/09-91595636-digital-camo-shirt.jpg",
+          "cap": "El patrón se sitúa entre el gusto humano y las exigencias del algoritmo (Imagen: Simon Weckert)"
+        },
+        {
+          "t": "p",
+          "x": "“Un patrón adversarial que sale directamente de la optimización funciona, pero es visualmente caótico. Es una imagen puramente para máquinas”. El patrón final quedó justo en el punto medio entre las exigencias del algoritmo y el gusto humano, y Weckert dice que esa ambigüedad importa conceptualmente. “Es una prenda que le habla a dos tipos de espectadores a la vez. Cada uno ve algo completamente distinto”."
+        },
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/08/03-91595636-digital-camo-shirt.jpg",
+          "cap": "La camisa se vende por unos 88 dólares (Imagen: Simon Weckert)"
+        },
+        {
+          "t": "p",
+          "x": "El objetivo de las pruebas fue YOLO (You Only Look Once), un sistema de detección de código abierto de la misma familia que sustenta muchos productos de vigilancia comerciales. Weckert añadió, sin embargo, que la camisa no se hizo para vencer a ningún sistema de vigilancia en particular. Se acerca más a plantear la pregunta de cuán confiable puede ser una tecnología si una sola pieza de tela basta para desarmarla."
+        }
+      ]
+    },
+    "design/design-ai-interior-measurement": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los sistemas de imágenes con IA producen una habitación de aspecto plausible en segundos. Pero una imagen de concepto no es ni un plano de construcción ni una lista de compras. La parte difícil empieza después de la generación: traducir píxeles en un plan que respete las medidas, la circulación, la luz, las instalaciones, el presupuesto y lo que ya hay en la casa. Este flujo de trabajo trata el concepto de IA como una hipótesis visual y pone a prueba sus supuestos antes de gastar dinero. Con un boceto a escala, una hoja de cálculo y un orden de revisión constante, se pueden resolver muchas decisiones iniciales sin necesidad de un CAD completo."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8obez9gebnhzuvfg4pnz.png",
+          "cap": "A Measurement-First Workflow for Evaluating AI Interior Concepts"
+        },
+        {
+          "t": "p",
+          "x": "Primero se define el briefing de entrada. Se anota el tipo de habitación, las actividades principales, cuántas personas la usan habitualmente, los objetos que deben conservarse y el rango de presupuesto. Se añaden restricciones que una foto no puede revelar: condiciones del alquiler, mascotas, niños, accesibilidad e instalaciones eléctricas por incorporar. Lo esencial es separar requisitos de preferencias. “Mantener un paso libre de 850mm entre la puerta y la ventana” es un requisito; “una paleta neutra y cálida” es una preferencia. Si se incumple un requisito, el concepto queda descartado; una preferencia simplemente se ajusta."
+        },
+        {
+          "t": "p",
+          "x": "Lo siguiente es un modelo de medición confiable. Se miden la longitud de las paredes, la altura del techo, puertas, ventanas, radiadores, enchufes, interruptores y muebles fijos. Los objetivos gran angular distorsionan la distancia y el tamaño, así que las fotos solas no permiten fijar la escala. Se toma una esquina como (0, 0) y se registran los elementos fijos como intervalos a lo largo de cada pared; por ejemplo, una ventana en la pared norte que empieza a 920mm de la esquina oeste y mide 1.450mm de ancho. Las medidas críticas se toman dos veces."
+        },
+        {
+          "t": "p",
+          "x": "En la etapa de generación se producen alternativas, no una única respuesta correcta. Se mantienen fijos la geometría y los objetos imprescindibles, y se cambia solo una variable a la vez: la distribución, el énfasis de la iluminación, la paleta de materiales o la estrategia de almacenamiento. Si todas las variables cambian a la vez entre una imagen y otra, no hay forma de saber qué mejoró realmente la habitación. A cada resultado se le añade una versión del prompt y una breve hipótesis, y los conceptos descartados se conservan como evidencia de patrones de fallo recurrentes."
+        },
+        {
+          "t": "p",
+          "x": "Sigue una auditoría de escala. Para cada concepto, se buscan al menos tres objetos de referencia cuyo tamaño aproximado ya se conoce, como una puerta estándar o un sofá que se va a conservar. Se revisan los errores habituales de la generación de imágenes: una profundidad de silla imposible, una lámpara colgante desproporcionadamente grande. Los muebles candidatos se trasladan al boceto a escala usando las medidas del fabricante o una estimación conservadora. Si un objeto imprescindible solo cabe reduciendo las holguras mínimas o bloqueando el giro de una puerta, el concepto queda descartado."
+        },
+        {
+          "t": "p",
+          "x": "La circulación se analiza como un grafo: se colocan como nodos las entradas, los asientos, el almacenamiento, las superficies de trabajo y las ventanas, y se conectan los caminos entre ellos. Se mide el ancho efectivo en el punto más estrecho, no el promedio. Una mesa de comedor que solo funciona si todas las sillas están completamente empujadas no es un plan sólido. La iluminación se audita por separado según la hora y la tarea: las imágenes generadas dibujan una luz que ignora la orientación y el momento del día. Una simple tabla con las actividades en filas y la mañana, la tarde y la noche en columnas basta para detectar la mayoría de los conflictos evidentes."
+        },
+        {
+          "t": "p",
+          "x": "El almacenamiento se vincula a un inventario de objetos, no a la imagen: se incluyen cables, cargadores, útiles de limpieza, papeles y equipo audiovisual. Los hábitos importan tanto como la capacidad: si en la casa se suelen dejar las llaves y los bolsos en la entrada, conviene crear un lugar justo ahí, en vez de en un armario lejano. Luego se traza un mapa de dependencias. El trabajo eléctrico, la reparación de paredes, la pintura, el suelo, los elementos fijos y los muebles móviles siguen un orden. Para cada tarea se anota el responsable, el presupuesto, los requisitos previos y el costo de revertirla."
+        },
+        {
+          "t": "p",
+          "x": "El último paso es la verificación física. Se marcan en el suelo con cinta de enmascarar la posición de los muebles y la circulación, y se construyen maquetas de cartón de los objetos grandes y altos para convivir con ellas unos días. Los colores de pantalla no son confiables para pintura o madera, así que las muestras se ven en la propia habitación. El resultado final no es una imagen: es un conjunto de decisiones respaldadas por evidencia, medidas y una secuencia de construcción."
+        }
+      ]
+    },
+    "design/design-disney-auction-concept-art": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Desde la controversia del arte con IA en Spider-Man: Brand New Day hasta Masters of the Universe, quienes usaron IA han tenido una única línea de defensa principal: que era solo arte conceptual. Según ellos, las imágenes generadas por IA nunca llegaron a la película final."
+        },
+        {
+          "t": "p",
+          "x": "Pero el arte conceptual también es arte. Termina en libros de arte y en material detrás de cámaras, donde los fans lo observan durante años. Si una película se vuelve suficientemente icónica, esa obra se convierte en un artefacto histórico. Una reciente subasta de arte de Disney volvió a mostrar hasta qué punto ese tipo de trabajo tiene valor artístico, y también económico."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5XhzJC45mxXfPHqMhyEeYo.jpg",
+          "cap": "Arte original de Blancanieves de Gustaf Tenggren (Imagen: Disney / Heritage Auctions)"
+        },
+        {
+          "t": "p",
+          "x": "Solo unos días después de maravillarse con la cantidad de personajes que Disney metió en el diseño del póster de D23 de este año, un lote de arte original y pósteres poco comunes salió a subasta, recordando el profundo legado de este estudio de animación. La subasta de arte de Disney que Heritage Auctions celebró el fin de semana pasado recaudó $3,43 millones en 1.346 lotes, que abarcan desde la Edad de Oro hasta el Renacimiento Disney y películas de la década de 2000."
+        },
+        {
+          "t": "p",
+          "x": "Las piezas más destacadas fueron obras originales que Gustaf Tenggren dibujó para Snow White and the Seven Dwarfs. Una escena de Blancanieves escuchando al Príncipe cantar “One Song” se vendió por $85.400. Un dibujo panorámico de seis de los siete enanitos regresando a casa alcanzó $41.480, y un dibujo del Príncipe a caballo se vendió por $36.600."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/BtBAaqTeMsu6cYYxFnMFXo.jpg",
+          "cap": "Dibujo panorámico de seis enanitos regresando a casa, $41.480 (Imagen: Disney / Heritage Auctions)"
+        },
+        {
+          "t": "p",
+          "x": "Entre las ventas más altas también hubo dos piezas de Mary Blair. Una colorida pintura conceptual de la sección japonesa de It's a Small World se vendió por $31.720, y una obra original de concepto y color-key que muestra a Alicia, el Sombrerero Loco y el Conejo Blanco en la fiesta del té de Alice in Wonderland se vendió por $29.280."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/YebxhzconpD4gLvf24fKXo.jpg",
+          "cap": "Obra original de concepto y color-key de Alice in Wonderland (Imagen: Disney / Heritage Auctions)"
+        },
+        {
+          "t": "p",
+          "x": "El archivo familiar de Joe Ranft aportó storyboards y arte conceptual de Toy Story, A Bug's Life, Monsters, Inc y Cars."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/FhuTBdWMkJz3X7FnGZE6M6.jpg",
+          "cap": "Storyboard de Toy Story coloreado a mano por Joe Ranft (Imagen: Disney / Heritage Auctions)"
+        },
+        {
+          "t": "p",
+          "x": "“Esta respuesta refleja el afecto mundial por Disney, y también un reconocimiento cada vez mayor del arte de animación como una forma de arte significativa”, dijo Jim Lentz, vicepresidente de Arte de Animación y Anime de Heritage."
+        },
+        {
+          "t": "p",
+          "x": "Usar IA para el arte conceptual acelera el proceso. Pero, ¿quién dirá lo mismo dentro de 50 años sobre un dibujo de Spider-Man hecho con IA?"
+        }
+      ]
     }
   }
 }
