@@ -130,10 +130,15 @@ if (!document.getElementById('ax-styles')) {
   /* ---- section tabs (Design / Music / Movies / Games / Books) ---- */
   /* 카테고리 + 구분선 + 버튼 묶음이 한 줄. 다 들어가면 가운데로 모이고, 좁아지면
      카테고리만 줄며 가로로 스크롤된다 — 버튼은 늘 오른쪽에 남는다. */
+  /* 줄은 .ax-shell(최대 1120px) 안에 있어 그대로 두면 탭이 다 들어가지 않는다.
+     셸 밖으로 꺼내 뷰포트 기준으로 펼친다 — 셸이 가운데 정렬이라 left:50% +
+     translateX(-50%)로 화면 중앙에 맞는다. transform은 이 줄에만 걸리고 버튼의
+     ::after·select는 각자 position:relative 안에 앵커되므로 영향이 없다. */
   .ax-navrow{display:flex;align-items:center;justify-content:center;gap:10px;
-     max-width:1240px;margin:0 auto 16px;padding:0 12px;box-sizing:border-box;}
+     position:relative;left:50%;transform:translateX(-50%);
+     width:min(1460px, 100vw - 32px);margin:0 0 16px;padding:0;box-sizing:border-box;}
   .ax-navrow .ax-tabs{flex:0 1 auto;min-width:0;flex-wrap:nowrap;overflow-x:auto;
-     justify-content:flex-start;margin:0;padding:2px 0;scrollbar-width:none;
+     justify-content:flex-start;gap:6px;margin:0;padding:2px 0;scrollbar-width:none;
      -webkit-overflow-scrolling:touch;}
   .ax-navrow .ax-tabs::-webkit-scrollbar{display:none;}
   .ax-navdiv{flex:0 0 auto;width:1px;height:22px;}
@@ -147,7 +152,7 @@ if (!document.getElementById('ax-styles')) {
      이미 불러와 둔 Pretendard로 통일한다: 한글·영문 모두 설계된 폰트라 두 OS에서
      같게 보이고 가독성도 낫다. */
   .ax-tab{font-family:'Pretendard',var(--font-sans);font-size:13px;letter-spacing:-0.005em;font-weight:700;
-     cursor:pointer;height:36px;padding:0 16px;display:inline-flex;align-items:center;justify-content:center;
+     cursor:pointer;height:36px;padding:0 14px;display:inline-flex;align-items:center;justify-content:center;
      box-sizing:border-box;border-radius:100px;white-space:nowrap;transition:background .2s ease,color .2s ease,border-color .2s ease,transform .12s ease;}
   .ax-tab:active{transform:scale(.95);}
   @media (max-width:760px){
@@ -1540,15 +1545,17 @@ function Masthead({ t, mobile, onHome }) {
   const d = new Date();
   const ds = `${String(d.getFullYear()).slice(2)}.${String(d.getMonth() + 1).padStart(2, '0')}.${String(d.getDate()).padStart(2, '0')}`;
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 46 : 20 }}>
-      {/* logo → home */}
-      <div data-ax-logo role="button" tabIndex={0} aria-label={tx('nav.home')} onClick={onHome}
-        onKeyDown={(e) => { if (onHome && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); onHome(); } }}
-        style={{ cursor: onHome ? 'pointer' : 'default' }}>
-        <MorphingTitle texts={['AX-it', 'NOW']} color={t.hl}
-          fontSize={mobile ? 42 : 56} width={mobile ? 300 : 360} height={mobile ? 56 : 72} />
-      </div>
-      <div className="ax-eyebrow" style={{ color: t.mute, marginTop: mobile ? 5 : 8 }}>{tx('masthead.daily_brief')} · {ds}</div>
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: mobile ? 18 : 20 }}>
+      {/* 폰에서는 모프 로고를 빼고 날짜 줄만 둔다 — 고정바 1줄에 AX-it NOW가 이미
+          있어 같은 이름이 두 번 나온다. */}
+      {!mobile && (
+        <div data-ax-logo role="button" tabIndex={0} aria-label={tx('nav.home')} onClick={onHome}
+          onKeyDown={(e) => { if (onHome && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); onHome(); } }}
+          style={{ cursor: onHome ? 'pointer' : 'default' }}>
+          <MorphingTitle texts={['AX-it', 'NOW']} color={t.hl} fontSize={56} width={360} height={72} />
+        </div>
+      )}
+      <div className="ax-eyebrow" style={{ color: t.mute, marginTop: mobile ? 0 : 8 }}>{tx('masthead.daily_brief')} · {ds}</div>
     </div>
   );
 }
