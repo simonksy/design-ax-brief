@@ -3480,6 +3480,75 @@
           "x": "La IA ha convertido la producción musical en algo común. A cambio, crear cultura podría convertirse en la habilidad más valiosa de la industria musical."
         }
       ]
+    },
+    "music/music-definitive-recording": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/08/The-End-of-the-Definitive-Recording.png"
+        },
+        {
+          "t": "p",
+          "x": "Escribes, grabas, corriges, mezclas, dudas otra vez y por fin terminas el mastering, y un día alguien dice por fin: esto es el máster, está terminado, que nadie lo toque. En la mayor parte de la historia de la grabación, ese momento era sagrado. El máster era la autoridad final, la versión definitiva, lo mismo que pasaba a discos, cintas, CD y streaming."
+        },
+        {
+          "t": "p",
+          "x": "El autor cree que esa premisa se está volviendo opcional, porque se está asentando una tecnología que permite que una grabación siga cambiando después de publicarse. El arreglo, la duración, la mezcla y la instrumentación pueden cambiar. Algún día una grabación responderá a quién escucha, dónde, cuándo y qué está haciendo."
+        },
+        {
+          "t": "p",
+          "x": "Vale la pena recordar que la música era así originalmente. Una interpretación ocurría, desaparecía y volvía a ocurrir. La misma pieza era distinta de una noche a otra. La tecnología de grabación capturó ese suceso y lo hizo repetible de forma idéntica, y en algún momento confundimos esa capacidad con una definición. Brian Eno vio el límite hace mucho tiempo: la idea de que, en lugar de componer cada suceso, se podía componer un sistema que genera sucesos, lo que dio como resultado Generative Music 1 y Reflection."
+        },
+        {
+          "t": "p",
+          "x": "Bronze trataba una canción no como una sola línea que corre de principio a fin, sino como un conjunto de elementos que se mueven durante la reproducción. Tender Metal de Gwilym Gold y “Jasmine” de Jai Paul existían así. La app Fantom de Massive Attack respondía a información como el movimiento, la ubicación, la hora y el ritmo cardíaco. La instalación Kórsafn de Björk tomaba el clima exterior como entrada. Endel va más allá y hace música que fluye según tu estado."
+        },
+        {
+          "t": "p",
+          "x": "Eso no convierte al oyente en compositor. El artista sigue definiendo el lenguaje de la música, y el oyente solo entra como una variable más dentro del sistema. Lo que se complica es la industria. El negocio discográfico se construyó sobre sustantivos que cuentan objetos quietos —canción, grabación, álbum, máster— mientras la tecnología empieza a producir cosas que se comportan como verbos. No se puede poner un identificador a un millón de variaciones una por una."
+        },
+        {
+          "t": "p",
+          "x": "La preocupación también es real. La forma en que nos relacionamos con una grabación se apoya en la repetición. Escuchas un disco a los diecinueve, lo vuelves a escuchar a los treinta y cinco, y a los sesenta. El disco se queda igual; lo que cambia eres tú. Esa fijeza es lo que permite decir “esa era nuestra canción”. Una música remodelada sin fin según el gusto de cada uno puede derivar en un aislamiento cultural en el que nadie escucha lo mismo."
+        },
+        {
+          "t": "p",
+          "x": "Los bordes ya se están aflojando. Apple Music Sing permite ajustar el nivel de la voz en millones de canciones, y herramientas como AutoMix ya no tratan el principio y el final de una canción como algo intocable. Spotify avanza hacia herramientas con licencia de remix y covers generativos dirigidas a grabaciones comerciales. Los distribuidores están pasando de entregar un disco a entregar la capacidad de cambiarlo."
+        },
+        {
+          "t": "p",
+          "x": "Por eso el máster del futuro quizá no sea un único archivo WAV, sino un sistema que sabe en qué puede convertirse esa canción: el bajo se puede sustituir, pero no la voz principal; el tempo solo se mueve dentro de un 5 por ciento; la armonía queda fija. Escribir esas reglas se vuelve tan importante como escribir las notas. Eso no significa que la versión definitiva desaparezca. Algunas obras quedan talladas en piedra, y otras se mueven como el clima. Decidir cuál de las dos es tu obra se convierte en el criterio del artista."
+        }
+      ]
+    },
+    "music/music-voxis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/c/cedar_audio_voxis-4fpUncDjuZBEQWaOwGwFaKfGjymCQKlS.jpg",
+          "cap": "CEDAR Audio Voxis"
+        },
+        {
+          "t": "p",
+          "x": "La línea Icons que CEDAR Audio lanzó en 2025 partió de la idea de abrir las herramientas de restauración de la empresa a una base de usuarios más amplia. Incluye plugins para sonido en vivo y transmisión junto con otros para producción musical, y este nuevo lanzamiento pertenece al primer grupo."
+        },
+        {
+          "t": "p",
+          "x": "Voxis es un aislador de voz con menos de 10 ms de latencia. Está ajustado para situaciones como conferencias, conciertos y transmisiones deportivas, donde los ingenieros tienen que lidiar con ruido de fondo molesto. Se basa en una red neuronal profunda que CEDAR ha estado desarrollando hasta hace poco, que según la empresa separa el habla humana y las voces del ruido a un nivel que hace solo unos años habría sido imposible. La interfaz es simple: la reducción de ruido se divide en tres bandas, baja, media y alta, y un control Voice realza aún más la claridad de la voz aislada."
+        },
+        {
+          "t": "p",
+          "x": "Las características que destaca el fabricante son la eliminación de ruido mediante procesamiento neuronal, la eliminación de reverberación no deseada, una latencia inferior a 10 ms, una eficiencia de procesamiento que aguanta incluso con varias instancias abiertas, y un manejo sencillo. Está pensado para sonido en vivo, transmisión, podcasts, servicios religiosos, mezcla en salas y posproducción."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de CEDAR Audio, Andy Trott, dijo: “Voxis es el tercer plugin nuevo que lanzamos este año, mientras seguimos cumpliendo nuestra hoja de ruta de productos de 2026, que incluye tanto hardware nuevo como software creativo. Como la empresa que inventó la supresión digital de ruido en el diálogo, CEDAR ha acumulado una experiencia sin igual. Seguimos convirtiendo ese conocimiento profundo en soluciones profesionales que dan resultados excelentes y que son un placer de usar.”"
+        },
+        {
+          "t": "p",
+          "x": "Es compatible con PC con Windows 10 o posterior y Mac con macOS 10.13 o posterior. Hay versiones VST23, AU y AAX. Cuesta £238.80 con IVA incluido y ya está disponible."
+        }
+      ]
     }
   }
 }

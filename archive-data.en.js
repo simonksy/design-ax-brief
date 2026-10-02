@@ -16637,10 +16637,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "데이터 누수가 AI 신약 발굴\n리더보드를 흔들고 있다",
-  "body": "벤치마크 51종을 감사했더니 데이터 누수와 설계 결함이 순위를 왜곡하고 있었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Data leaks are shaking up\nAI drug discovery leaderboards",
+  "body": "An audit of 51 benchmarks found data leakage and design flaws were distorting the rankings.",
+  "lang": "en"
  },
  {
   "id": "science-alpha-tutor",
@@ -16653,10 +16652,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "하루 두 시간 AI 튜터가\n수업을 대신한다는 학교",
-  "body": "AI 튜터에 수업을 맡긴 알파스쿨, 정말 배움이 남는지 교육 연구자들이 따져봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "A school where AI tutors\nreplace class for two hours",
+  "body": "Alpha School handed classes to AI tutors, and education researchers checked whether real learning happens.",
+  "lang": "en"
  },
  {
   "id": "science-agent-hack",
@@ -16669,10 +16667,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "보상 해킹을 배운 에이전트가\n평가 환경 밖 시스템까지 건드렸다",
-  "body": "평가 지표만 좇도록 훈련된 모델이 실제 시스템을 침해하기까지, 그 전말을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Agents that learned reward\nhacking touched real systems",
+  "body": "A model trained to chase evaluation metrics ended up breaching real systems, and here's how that happened.",
+  "lang": "en"
  },
  {
   "id": "music-voxis",
@@ -16685,10 +16682,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "라이브 현장에서\n목소리만 실시간으로 골라낸다",
-  "body": "Voxis는 무대 소음 속에서도 말소리와 보컬만 낮은 지연으로 실시간 골라낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "A live-sound tool isolates\nvoices in real time on stage",
+  "body": "Voxis isolates speech and vocals in real time with low latency even amid stage noise.",
+  "lang": "en"
  },
  {
   "id": "music-suno-amended",
@@ -16733,10 +16729,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "닥터 드레, AI 반대는\n드럼머신 반대와 같다",
-  "body": "닥터 드레는 자신도 AI로 작업한다며, 반대론이 드럼머신·신시사이저 때의 반발과 닮았다고 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Dr. Dre says opposing AI is\nlike opposing drum machines",
+  "body": "Dr. Dre said he also works with AI, comparing the backlash to pushback against drum machines and synths.",
+  "lang": "en"
  },
  {
   "id": "music-definitive-recording",
@@ -16749,10 +16744,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "결정판 녹음의 시대가 저물고 있다",
-  "body": "고정된 완성본이던 녹음이 듣는 상황마다 달라지는 생성형 경험으로 바뀌는 중이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "The era of the definitive\nrecording is ending",
+  "body": "A recording that used to be a fixed work is turning into a generative experience that changes with each listen.",
+  "lang": "en"
  },
  {
   "id": "movies-usc-etc-beeble",
@@ -16765,10 +16759,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "USC 영화 수업이 쓰는\nAI 재조명·장면 재구성 도구",
-  "body": "비블의 AI 재조명·장면 재구성 도구가 USC ETC의 영화 제작 수업 커리큘럼에 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI relighting and scene tools\nnow in USC film classes",
+  "body": "Beeble's AI relighting and scene-reconstruction tools have joined the filmmaking curriculum at USC's ETC.",
+  "lang": "en"
  },
  {
   "id": "movies-slapshot-comfy-nodes",
@@ -16781,10 +16774,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "로토·트래킹·뎁스가 ComfyUI로\n프레임당 0.25달러",
-  "body": "슬랩샷의 로토·트래킹·뎁스 도구가 ComfyUI 노드가 됐다. 값은 프레임당 0.25달러.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Roto, tracking, depth tools\nnow in ComfyUI at $0.25/frame",
+  "body": "Slapshot's roto, tracking, and depth tools are now ComfyUI nodes priced at $0.25 per frame.",
+  "lang": "en"
  },
  {
   "id": "movies-eddie-ai-credits",
@@ -16797,10 +16789,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "Eddie AI, 구독을 접고\n클로드·챗GPT 안에서 편집",
-  "body": "구독을 걷어내고 크레딧으로 받는다. 도구 100여 개를 MCP로 열어 챗봇에서 러프컷을 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Eddie AI drops subscriptions,\nedits inside Claude, ChatGPT",
+  "body": "It drops subscriptions for pay-as-you-go credits and opens 100-plus tools via MCP so chatbots can pull rough cuts.",
+  "lang": "en"
  },
  {
   "id": "movies-de-aging-uncanny",

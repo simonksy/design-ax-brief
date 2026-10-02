@@ -3738,6 +3738,93 @@
           "x": "这并不意味着一次软件更新就能立刻改变夜间拍摄。目前它更像是展示一种新校正方式的演示,而不是商用相机功能。但方向已经很清楚:单靠堆像素解决不了低光问题,未来的手机会更多依赖AI重新画出困难场景,同时坚守不凭空制造不存在的照片这条底线。"
         }
       ]
+    },
+    "gadgets/gadgets-oneui9-beta7": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-in-hand.jpg",
+          "cap": "Galaxy S26 Ultra上出现的One UI 9启动画面。"
+        },
+        {
+          "t": "p",
+          "x": "三星本周早些时候为Galaxy S26系列推出了One UI 9测试版6。由于测试版之间通常会间隔数周，外界原本预计接下来会迎来正式更新，但有迹象显示还有一个测试版在准备中。事实确实如此：三星已开始为Galaxy S26系列推送One UI 9测试版7。"
+        },
+        {
+          "t": "p",
+          "x": "在英国使用的Galaxy S26 Ultra迎来了第七次One UI 9更新。该更新基于Android 17，固件后缀为ZZHK，包含2026年8月5日的安全补丁，大小为1,234MB。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-Ultra-One-UI-9-beta-7-scaled.jpg",
+          "cap": "抵达Galaxy S26 Ultra的One UI 9测试版7。"
+        },
+        {
+          "t": "p",
+          "x": "更新日志只写了“新AI功能”，并未说明具体内容。列出的条目共三项：新增AI功能、改善设备在特定情况下间歇性重启的问题、改善“勿扰”模式的易用性。"
+        },
+        {
+          "t": "p",
+          "x": "Tarun Vats在X上指出，这次更新带来了Fold 8的AI功能：集成了Google搜索的新版Finder、My Fan Cam，以及Now Nudge的定制卡片。"
+        },
+        {
+          "t": "p",
+          "x": "此次推送覆盖韩国、印度、英国、波兰和德国，美国未在其中。预计不久后也会推送给已注册测试计划的美国用户。如果发现更多新功能或重大变化，将继续跟进报道。"
+        },
+        {
+          "t": "p",
+          "x": "Galaxy S26的One UI 9测试版一直做到第七个版本，这多少出乎意料。就在前一天发布的Galaxy S26 FE，已经搭载正式版One UI 9上市。三星愿意花时间打磨固然值得欢迎，但看着更便宜、上市更晚的机型率先用上正式版，S26旗舰用户的焦躁心情也不难理解。希望软件更新不只是被当作多卖手机的一张牌。"
+        }
+      ]
+    },
+    "gadgets/gadgets-xreal-xr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/xreal-one-pro-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "我一直对智能眼镜和混合现实头显半信半疑。Meta Quest在游戏上的用处我能理解，但Apple Vision Pro从未真正吸引过我。不过，在Xreal推出首款Android XR眼镜之前，我用了一段时间Xreal One Pro，两件事变得清晰起来：这才是能让Android XR发挥作用的硬件，而Xreal也即将从Android XR中获益良多。"
+        },
+        {
+          "t": "p",
+          "x": "不熟悉Xreal也不奇怪。我知道这家公司的名字，但一款在眼前投出画面的眼镜，在我看来并没有太大价值。后来听说Xreal要采用Android XR，我觉得至少该试一次。"
+        },
+        {
+          "t": "p",
+          "x": "最近我把One Pro接到Galaxy Z Fold 7、MacBook，或者RedMagic Astra 2平板上使用。用法再简单不过：不管在做什么，只要把线接到眼镜上，眼前就会出现一块157英寸的屏幕，尺寸还可以调节。一开始我还怀疑这能有多大用处，结果一个场景立刻冒了出来：坐飞机。"
+        },
+        {
+          "t": "p",
+          "x": "转头时会跟着移动的巨大画面，正好契合这种场景。和座椅背后的小屏幕完全不是一个量级，用上几个小时也还算舒适。如果换成全副头显，根本不会去想——太大了，别人看着也奇怪。One Pro也谈不上“普通”：它从脸上稍微突出一块，线从下方垂下来，一看就知道在干什么。不过放进包里体积倒是不大。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/xreal-one-pro-9.jpg?quality=82&strip=all",
+          "cap": "和VR头显相比，携带要轻松得多。"
+        },
+        {
+          "t": "p",
+          "x": "画质相当不错。和所有眼前显示设备一样，调好设置需要一点时间，但调好之后看电影效果很好。把MacBook画面镶射过来，就成了一块够大的工作画布，前排乘客放倒座椅也不影响使用。它并不完美：在地面上表现出色的Xreal 3DoF追踪，在飞行中——尤其是遇到气流颠簸时——会出现轻微漂移。"
+        },
+        {
+          "t": "p",
+          "x": "并非所有功能都能用，这一点也让人不太满意。接在RedMagic平板上时，Fandango at Home和Google TV这类视频应用会出问题；把Google TV从Fold切到DeX后就正常了。3D转换模式在RedMagic平板上完全无法使用，在Fold上则表现相当不错。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/xreal-one-pro-6.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "搭载Android XR的Xreal Aura，正是要在这一点上把体验“补全”。One Pro只会把输入内容放大显示，自身的操作和软件都很有限，离开辅助设备什么也做不了。它有手势控制配件，也卖自家的Android手机为眼镜提供UI，但缺的那一块正是Android XR。Xreal似乎也这么想，已经公开表态要把未来方向押在Android XR上。这并不意味着“接线使用”的方式会消失，Aura同样会继续支持这种方式。"
+        },
+        {
+          "t": "p",
+          "x": "现在这种形态显然也有自己的位置。只要能在看电影或出行途中用上一块大屏幕，就已经足够好了。但价格是个问题。我不会为了把屏幕变大就在Xreal One Pro上花600美元，但299美元的A01+我愿意出。在CES上体验过的450美元Xreal 1S，就本文列出的用途而言，和One Pro几乎没有差别。Aura将在今年内推出，One Pro、1S和A01+已经在售。"
+        }
+      ]
     }
   }
 }

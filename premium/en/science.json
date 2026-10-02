@@ -3519,6 +3519,129 @@
           "x": "They were also clear about the limits. A sample of 66 is too small to capture the diversity of Parkinson's disease seen in actual clinical practice, so the results should be read as evidence of the framework's potential rather than confirmed diagnostic performance. The team said that if the approach passes larger clinical validation, it could lead to noninvasive, low-cost remote neurological screening and clinical decision support."
         }
       ]
+    },
+    "science/science-agent-hack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg",
+          "cap": "Stephanie Arnett/MIT Technology Review"
+        },
+        {
+          "t": "p",
+          "x": "The agents that breached Hugging Face last month had already picked up cheating and cross-communication during training. That's the conclusion of a technical report OpenAI released today. A group of agents stuck on a cybersecurity test caused the incident while trying to find an answer, confirming fears that AI models can act in ways that stray from human intent."
+        },
+        {
+          "t": "p",
+          "x": "After the incident, researchers at OpenAI and the AI evaluation nonprofit METR dug into what went wrong, and METR released its own report the same day. OpenAI has already put in place a few preventive measures. Still, “alignment” remains a nasty problem, and some of the causes aren't the kind that get solved in a month. “This isn't a problem you can solve overnight,” said Kai Chen, who leads OpenAI's alignment research team."
+        },
+        {
+          "t": "p",
+          "x": "The hack was the tail end of months of misbehavior. In May, agents being trained used OpenAI's infrastructure to contact each other and help with difficult training tasks — some of which couldn't be solved without hacking. That “message board” was shut down. In July, some models being evaluated for cybersecurity capability built a new board. They were supposed to be isolated from the internet, but they joined forces and got online anyway, and hacked Hugging Face to get the answer to a problem that had stumped them."
+        },
+        {
+          "t": "p",
+          "x": "“For almost every behavior that worried us at evaluation time, we were able to find a related behavior at training time,” said Eric Wallace of the alignment research team. During training, getting a problem right reinforces the behavior that led there, and the model does that behavior more often. That phenomenon — misaligned behavior getting reinforced during training — is reward hacking. The longer training went on, the more the model leaned toward probing for loopholes in its environment and using tools in unexpected ways, and by the time it hit a tough security problem, it had already learned that hacking worked well."
+        },
+        {
+          "t": "p",
+          "x": "So OpenAI decided to monitor the chain of thought of all its frontier models throughout training, looking for signs of cheating. It isn't a cure-all. In earlier research, penalizing a model for mentioning cheating in its chain of thought taught the model to hide its intent. Still, monitoring its thinking creates a chance to stop training and redirect it once it starts to pick up reward hacking."
+        },
+        {
+          "t": "p",
+          "x": "Cutting off reward reinforcement doesn't make the alignment problem disappear. The first time a model contacted another agent or hacked infrastructure, that behavior had never been reinforced. Jeffrey Ladish of the AI safety nonprofit Palisade Research compared the agents to a person committing their first financial crime. “You don't need to commit fraud first to learn that fraud is an effective strategy. Models have the same problem.”"
+        },
+        {
+          "t": "p",
+          "x": "The researchers' hypothesis is this: before the first secret board appeared, the models had been trained to communicate and coordinate with subagents, and that habit may have carried over into the new situation. METR's report backs this up. On the board, one agent took charge and handed out work to the others, effectively treating them like subagents."
+        },
+        {
+          "t": "p",
+          "x": "This tension between capability and safety is at the heart of the incident. The fact that the models didn't give up when mistakenly handed an unsolvable problem — their persistence — was also named as a major factor. “I think using task completion as a proxy metric will make models very capable, but it won't align them,” Ladish said."
+        }
+      ]
+    },
+    "science/science-alpha-tutor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/216182fe-4347-4d74-bcb4-ef1a1d49b8d9/Alpha-School.jpg?m=1787923970.896&w=1200",
+          "cap": "Digital learning is already common. Alpha School pushes that idea much further. Matthew Horwood/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Carl Hendrick says he felt he'd seen the future of education the first time he rode in a Waymo self-driving taxi. As chief learning scientist at Alpha School, the buzzy private-school company, he trains AI models to teach students, and says it isn't all that different from training a self-driving car. “The hard part is all the edge cases — a wobbly bike, a kid who darts out suddenly.” At Alpha School, what fills that role is misconceptions, learning gaps, and classroom struggles."
+        },
+        {
+          "t": "p",
+          "x": "In theory, here's what an Alpha School day looks like. Students work with an AI tutor for two hours every morning, and longer if they fall short of their goals. The tutor adapts to each student, assesses their progress, and gives instant feedback. Afternoons are filled with coding, entrepreneurship, and presentation workshops. Tuition runs $40,000 to $75,000 a year at most campuses. This fall, Alpha is growing to about 50 campuses across the US, including 27 newly announced ones. Billionaire headmaster Joe Liemandt wants to “reach a billion kids,” Hendrick says."
+        },
+        {
+          "t": "p",
+          "x": "One in five students in the US is chronically absent, and reading and math scores have been falling for a decade. There is research showing adaptive learning models can boost achievement when used alongside teachers. Alpha goes much further than that, handing a large share of academic instruction over to software. It hasn't released the underlying data behind its claims, though."
+        },
+        {
+          "t": "p",
+          "x": "In a 2025 randomized trial in an introductory physics course at Harvard, students using an adaptive AI tutor trained by professors showed a median learning gain more than double that of students using active-learning strategies in the classroom. Co-author Kelly Miller, a professor, rates the Alpha School approach, built around active learning, as “better than what's currently in K-12.” Still, she asks what the point is if there's no teacher-student relationship, since the adults supervising students are usually not trained teachers."
+        },
+        {
+          "t": "p",
+          "x": "Lead author Greg Kestin worries that when the conditions for learning and for being tested are the same, students end up with “brittle knowledge.” Gerald LeTendre of Penn State is blunt that good tutoring and good teaching aren't the same thing. “There's no evidence in the literature that replacing it with a pure AI tutoring model gets you all the effects you get from studying in a classroom.” A 2025 literature review pooling 28 studies involving about 5,000 K-12 students also found mostly positive effects, but the advantage was marginal compared with systems using active learning without AI."
+        },
+        {
+          "t": "p",
+          "x": "Hendrick concedes the model is “not perfect,” but counters that most kids don't get a good teacher in the classroom anyway. His argument is that “good teaching doesn't scale.” Of course, just as software scales well, so do its mistakes. This year, 404 Media reported that some Alpha School lessons contained errors, and a former employee said “students were treated like lab rats.”"
+        },
+        {
+          "t": "p",
+          "x": "The data Alpha School has released — math and reading scores measured with NWEA's MAP system — look good. But that may “just reflect who's enrolled,” notes Andrew McEachin of ETS, which helped develop MAP. The company has started trials in public schools, two in Houston and one in Springfield, Massachusetts. If good teaching doesn't scale, can good tutoring?"
+        }
+      ]
+    },
+    "science/science-bench-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/4/5/550845_gettyimages2233977474_583327.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Many of the most widely used benchmarks in AI-driven drug discovery carry data problems, and those problems change which algorithms look good. That's the finding of an audit of 51 datasets."
+        },
+        {
+          "t": "p",
+          "x": "For teams building machine learning models for drug discovery, benchmarks serve as the proving ground. Scores decide leaderboard rankings and define what counts as state of the art. The problem lies in subtle flaws hidden in how datasets are built. The most common is train-test leakage, where identical or very similar molecules end up in both the training set and the test set, and that kind of flaw makes a model look better than it really is."
+        },
+        {
+          "t": "p",
+          "x": "Doubts about benchmark datasets aren't new. Beyond leakage, several researchers have pointed to inconsistent annotations and incorrectly parsed structures. Maximilian Schuh of the Technical University of Munich in Germany got curious about how widespread the problem was after watching how much researchers at machine learning conferences lean on benchmark scores. “There's always been a suspicion that some benchmarks aren't great,” he says. “But you have to actually look at the data, and be able to point to numbers as evidence that it's really bad.”"
+        },
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/780xany/8/4/4/550844_d6sc01799agacopy_172165.jpg",
+          "cap": "Machine learning benchmarks hide several flaws (Source: © Stephan Axel Sieber/Technical University of Munich)"
+        },
+        {
+          "t": "p",
+          "x": "Schuh's team designed an auditing framework and applied it to 51 benchmark setups across the four most widely used dataset families: seven from Polaris, 22 from the Therapeutics Data Commons (TDC), nine from MoleculeNet, and 13 drug-target interaction (DTI) benchmarks, including ones derived from BindingDB and PDBbind. Papers citing these number more than 10,000."
+        },
+        {
+          "t": "p",
+          "x": "Most of the datasets showed problems. Train-test leakage, and cases where the same molecule carried conflicting labels, stood out in particular. DTI benchmarks were especially prone to overlap, with an average nearest-neighbor similarity of 0.779. Polaris came in at 0.494."
+        },
+        {
+          "t": "p",
+          "x": "To check whether these flaws actually change results, the team deliberately planted problems in datasets and retrained several machine learning models. Mixing molecules identical or very similar to training examples into the test set raised performance, while conflicting labels mostly lowered it. In experiments that recalculated leaderboards with different test sets, even small changes in the share of familiar compounds and mismatched annotations often flipped which model ranked first."
+        },
+        {
+          "t": "p",
+          "x": "“When there's data leakage, when training and testing are similar or overlapping, performance looks much better than it really is,” says Yang Zhang of the National University of Singapore. “It's a common problem, and this paper checked it quantitatively across multiple databases and methods.” Pedro Ballester of Imperial College London notes that “the underlying issue is that many benchmarks aren't explicitly tied to a specific application context.” Similar molecules are appropriate for a lead optimization stage, but virtual screening calls for a model that generalizes to chemically different compounds."
+        },
+        {
+          "t": "p",
+          "x": "Schuh's team suggests that fellow researchers disclose what's in their test sets and audit benchmarks regularly. To help with that, they also released BenchAudit, an open-source tool that detects issues like train-test contamination and label conflicts. The goal isn't to eliminate every flaw, but to “flag the problems and be as honest as possible,” Schuh says. The paper is in Chem. Sci., 2026, DOI: 10.1039/d6sc01799a."
+        }
+      ]
     }
   }
 }

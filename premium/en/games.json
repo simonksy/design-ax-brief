@@ -3735,6 +3735,130 @@
           "x": "Buser closes with a metaphor. “I think of AI as an exoskeleton — an Iron Man suit for developers. The armor does the heavy lifting, but it does nothing without the intent of the human pilot inside.” In other words, he sees AI as an Iron Man suit for developers, an exoskeleton. Aftermath's closing line: the Iron Man suit doesn't actually exist. It's a fantasy."
         }
       ]
+    },
+    "games/games-dlss5-leak": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DLSS 5, Nvidia's much-discussed upscaling technology for the RTX 50 series, still hasn't been officially announced. Once the real-time neural rendering model file was found in an early-access build of NBA 2K27, people started running it right away. Judging by the clips fans have posted, it's clearly an improvement over the previous version, which reshaped faces pixel by pixel into a conventionally pretty look."
+        },
+        {
+          "t": "p",
+          "x": "Even so, in some games, DLSS 5's particular uncanny valley doesn't go away."
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5 came under scrutiny earlier this year when Nvidia released footage applying the technology to popular titles like Resident Evil Requiem. Nvidia said it only improved lighting, but fans felt the character designs had been shifted toward a conventionally pretty look. Nvidia pushed back, saying game studios fully endorsed it and that DLSS 5 accurately preserved each work's artistic intent. That explanation backfired after several studios that had opposed using AI said they had never heard of any such plan. Things got worse after Nvidia's CEO said critics were “completely wrong.”"
+        },
+        {
+          "t": "p",
+          "x": "A few months later, DLSS 5 found itself back in the spotlight, this time without Nvidia able to pick the footage. The games players have tested so far are The Last of Us Part II, Final Fantasy VII Rebirth, The Elder Scrolls V: Skyrim, and Grand Theft Auto: San Andreas."
+        },
+        {
+          "t": "p",
+          "x": "There are spots where it fits well. TLOU 2's dense forests look sharper and more vivid with the filter on, as shown in a comparison video posted by DVESF."
+        },
+        {
+          "t": "p",
+          "x": "Faces and skin are still a struggle. At best, people look oily; at worst, it looks like a screen with TikTok beauty mode left on. Applied to Skyrim, characters look as if they were designed by beauty guru James Charles."
+        },
+        {
+          "t": "video",
+          "yt": "cJeqMwBYuyk"
+        },
+        {
+          "t": "p",
+          "x": "Applied to CJ in San Andreas, the result could arguably be called more “realistic.” Instead, the protagonist comes out looking almost like a different person."
+        },
+        {
+          "t": "p",
+          "x": "“It would have been less weird if it had trained on natural images instead of HDR-corrected pro photos. It's always high-contrast, always HDR-looking, overly bright with that fake blue sky light.” That's a YouTube comment on PureDark's Skyrim video. On Jessica Natalia's San Andreas video, a comment reads, “This looks like one of those Insta videos, except you can actually play it lol.”"
+        },
+        {
+          "t": "p",
+          "x": "There's also Nvidia's side of it. What people are tinkering with now is unfinished and not meant for public release. The final product could be refined further. By then, though, shaking off DLSS 5's reputation as AI slop won't be easy."
+        }
+      ]
+    },
+    "games/games-gta6-npc-team": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rockstar Games has put together a new team to make Grand Theft Auto 6's NPCs feel more real. The game builds on the “interactive fidelity” Red Dead Redemption 2 reached."
+        },
+        {
+          "t": "p",
+          "x": "The team, based in Los Angeles, is made up of writers, directors and producers. Rockstar North co-president Aaron Garbut told The New York Times the characters were designed by “art directing every single one.”"
+        },
+        {
+          "t": "p",
+          "x": "“Every room in the game is the product of someone's thinking: who's sitting where, what they're drinking, what marks are left on the table. Photos on the wall show the people in that room with tattoos on their arms and their family standing behind them. All of that gets made, built and shot, and placed in some random building, some random room, in a massive city,” Garbut explained."
+        },
+        {
+          "t": "p",
+          "x": "Rockstar North co-president Rob Nelson described GTA 6 as an “evolution” of Red Dead Redemption 2 in detail and scale."
+        },
+        {
+          "t": "p",
+          "x": "“Having done 100-years-ago America, and an even sparser version of it, at that level of interactive fidelity, we were already imagining what doing the same thing at the scale and density of a modern environment would look like.”"
+        },
+        {
+          "t": "p",
+          "x": "According to Rockstar, GTA 6 has more than 600,000 NPC animations. RDR2 had 300,000, and GTA 5 had 55,000. Vice City is twice the size of Los Santos, and the map is three times the size of RDR2's."
+        },
+        {
+          "t": "p",
+          "x": "Nelson made clear on the Kinda Funny Gamescast that GTA 6 will have neither generative AI nor microtransactions."
+        },
+        {
+          "t": "p",
+          "x": "An extended preview posted to Netflix yesterday showed off these qualities, featuring the story, combat and gameplay alongside the interactive depth Nelson and Garbut described."
+        },
+        {
+          "t": "p",
+          "x": "According to Sensor Tower data, Netflix's U.S. mobile viewership rose 35% while the preview was out, and Netflix and Twitch both went down at the same time."
+        }
+      ]
+    },
+    "games/games-id-genai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Generative AI is a hot-button issue in the industry, and understandably so. It has pushed up hardware prices and pushed people out of jobs, so calling it disruptive is fair. There are ordinary use cases that look worthwhile, but it's been hard to look past the mania and bad reputation built up around it."
+        },
+        {
+          "t": "p",
+          "x": "The subject came up naturally for Tim Willits too, sitting down with PC Gamer's Joshua Wolens at Gamescom 2026. Willits is CCO at Saber Interactive and was a co-owner of id Software from 1995 to 2019. “As everyone knows, we're experimenting with AI in upcoming games. It's not in anything right now, but we announced Rideshare Simulator and there's been some misunderstanding, so I want to clear it up.”"
+        },
+        {
+          "t": "p",
+          "x": "Here's the background. Saber ran into trouble with this game earlier this month. It appeared to have delayed its Steam AI disclosure for a while, and a former writer who claimed to have been pushed off the team over AI revealed the actual use. CEO Matthew Karch disparaged that writer and later apologized."
+        },
+        {
+          "t": "p",
+          "x": "Willits said Rideshare's main campaign and side missions were entirely written by people, and AI only appears in an optional Free Ride mode. “We're going to use AI for the passengers. That lets us keep giving you new stories. This is an experiment. Saber is trying this out at a small scale to figure out how to use this technology. We're trying to find the answer like everyone else. But there's no generative AI in our big titles. Not in Hellraiser, not in Turok, not in Stuntman.”"
+        },
+        {
+          "t": "p",
+          "x": "The phrase “only possible with AI” deserves an asterisk. Even granting that it generates endless dialogue for the optional mode, writers and voice actors could easily have put together enough conversation to avoid getting boring. It would eventually run dry, but no one is going to spend a lifetime glued to Rideshare Simulator."
+        },
+        {
+          "t": "p",
+          "x": "Still, Willits pressed on. “I want to experiment. I don't know who it'll be, but some game developer is going to make a game that uses AI in a genuinely amazing way, and everyone will say, 'that's it, that's how it should be done.'” He joked that “someone needs to deliver the 'Half-Life 2 of AI.'”"
+        },
+        {
+          "t": "p",
+          "x": "It's also clear why the skepticism hasn't lifted. Money is burning and data centers are going up, yet the technology doesn't look especially useful for anything beyond grunt work. Put it front and center, and you get flat voice acting, poor writing, and art with no direction or anything memorable. Only the technical polish improves."
+        },
+        {
+          "t": "p",
+          "x": "Even so, Willits said id Software would have used generative AI back then too, because it was a studio that always stood at the frontier. “Yes! Of course. Look at what id did. When we shipped Quake 3 in 1999, it needed a graphics card, and we got absolutely trashed for it. People said it would ruin the industry. They said no one would spend $100 on a video card, that it was obviously stupid. If that had existed back then, John Carmack would have been building something like Skynet.”"
+        },
+        {
+          "t": "p",
+          "x": "Willits agreed that, in the end, the games themselves will be the judge. “The game will speak for itself. When the Rideshare experiment comes out, go try it yourself. You might think, 'oh, this is pretty good.' If you don't like it, that's fine too. The game speaks for itself.”"
+        }
+      ]
     }
   }
 }

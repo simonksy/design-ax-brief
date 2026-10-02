@@ -4037,6 +4037,247 @@
           "x": "This doesn't mean a software update will change night photography right away. For now it's closer to a demonstration of a new correction approach than a feature in a commercial camera. But the direction is clear: adding more pixels alone won't solve low light, and future phones will lean more on AI to redraw difficult scenes, while staying within the line of not fabricating a photo that never existed."
         }
       ]
+    },
+    "gadgets/gadgets-lg-gm9": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.pcworld.com/wp-content/uploads/2026/08/3215049-0-52297700-1787925637-PXL_20260813_091018089.jpg?quality=50&strip=all&w=1024",
+          "cap": "Photo Mattias Inghe"
+        },
+        {
+          "t": "p",
+          "x": "The LG UltraGear Evo AI GM9, model number 27GM950B-B, is LG's new premium 27-inch desktop monitor. Its sturdy metal stand adjusts for height, swivel, tilt and pivot. The chassis is matte black plastic, and it looks solidly built and good-looking from any angle, front or back."
+        },
+        {
+          "t": "p",
+          "x": "UltraGear is a gaming brand. You can turn on RGB lighting on the back, and the settings menu opens first to two player profiles and game genre presets. Still, it's not gaming-only. You can pick separate sRGB and P3 profiles to keep color accuracy, plus a reading mode with reduced blue light, an HDR video mode, and two more profiles you calibrate yourself."
+        },
+        {
+          "t": "p",
+          "x": "The panel covers brightness, color, resolution and speed all at once. A quantum-dot LCD delivers DCI-P3-level color out of the factory calibration, and a Mini LED backlight behind it, with 2,304 dimming zones, produces brightness above 1,200 cd/m² along with deep black at the same time. It's certified for HDR10 and VESA Display HDR 1000. Play an HDR movie and it's among the best displays I've seen; even in SDR, it's brighter than most monitors' HDR."
+        },
+        {
+          "t": "img",
+          "src": "https://b2c-contenthub.com/wp-content/uploads/2026/08/PXL_20260813_091705472.jpg?quality=50&strip=all&w=1200",
+          "cap": "At 5K resolution, a single screen fits in a lot."
+        },
+        {
+          "t": "p",
+          "x": "It has weaknesses too. Small bright highlights can't wake the backlight and come out dim, and a white mouse cursor on a black background turns noticeably darker. You can find a workaround by adjusting the dimming intensity or turning it off entirely. OLED does better here, but no OLED can match this screen's combined brightness and dynamic range."
+        },
+        {
+          "t": "p",
+          "x": "At 5K, the refresh rate is 165Hz, rising to 330Hz if you drop to 1440p or below. When there's no 5K source, AI upscaling makes 1080p and 1440p video noticeably sharper. Upscaling the Nintendo Switch's 1080p output to 5K showed no noticeable lag. Turning the feature off brings response time down to 1 millisecond."
+        },
+        {
+          "t": "img",
+          "src": "https://b2c-contenthub.com/wp-content/uploads/2026/08/PXL_20260813_091315294.jpg?quality=50&strip=all&w=1200",
+          "cap": "If the lighting strip on the back bothers you, you can just turn it off."
+        },
+        {
+          "t": "p",
+          "x": "For connections, it uses a downward-facing DisplayPort 1.4 and HDMI 2.1 on the back, plus USB-C DP Alt mode for laptop docking. Connecting via USB-C opens a small hub with two USB-A ports, but since there's only one input, there's no KVM function. It also has speaker and headphone jacks. The sound is decent for a monitor, but calling it good would be an overstatement."
+        },
+        {
+          "t": "p",
+          "x": "The menu button is hidden very small on the lower back, making it awkward to find by feel. The menu structure you navigate with the 4-way control is well designed, though. LG was criticized this summer for using a Windows update to auto-install the LG app installer and bundle in bloatware, but nothing installed automatically when I plugged in this monitor."
+        },
+        {
+          "t": "img",
+          "src": "https://b2c-contenthub.com/wp-content/uploads/2026/08/PXL_20260813_091751124.jpg?quality=50&strip=all&w=1200",
+          "cap": "There aren't many ports, but the selection is well chosen."
+        },
+        {
+          "t": "p",
+          "x": "The price is $1,200. From the feel of the controls to color, refresh rate and dynamic range, it delivers an experience that matches the price. Compared with a good OLED, it's a trade-off, but in brightness alone, it's hard to beat in either SDR or HDR. If you can't fully control room lighting, or sit somewhere with a lot of sunlight, the wide dynamic range and matte anti-glare finish matter even more."
+        }
+      ]
+    },
+    "gadgets/gadgets-oneui9-beta7": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/05/OneUI-9-splash-screen-S26-Ultra-in-hand.jpg",
+          "cap": "The One UI 9 splash screen on a Galaxy S26 Ultra."
+        },
+        {
+          "t": "p",
+          "x": "Samsung released One UI 9 beta 6 for the Galaxy S26 series earlier this week. Since Samsung usually leaves a few weeks between betas, expectations were for a stable update to follow, but there were signs another beta was in the works. That turned out to be true. Samsung has started rolling out One UI 9 beta 7 for the Galaxy S26 series."
+        },
+        {
+          "t": "p",
+          "x": "The seventh One UI 9 update has arrived on a Galaxy S26 Ultra used in the U.K. It's based on Android 17, carries the firmware suffix ZZHK, includes the August 5, 2026 security patch, and weighs in at 1,234MB."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/08/Samsung-Galaxy-S26-Ultra-One-UI-9-beta-7-scaled.jpg",
+          "cap": "One UI 9 beta 7 arriving on a Galaxy S26 Ultra."
+        },
+        {
+          "t": "p",
+          "x": "The changelog only says 'new AI features' without specifying what they are. It lists three items: added new AI features, improved an issue where the device would intermittently reboot in certain situations, and improved usability of Do Not Disturb mode."
+        },
+        {
+          "t": "p",
+          "x": "Tarun Vats noted on X that this update brings over AI features from the Fold 8: a new Finder with Google Search built in, My Fan Cam, and customized cards for Now Nudge."
+        },
+        {
+          "t": "p",
+          "x": "The rollout covers South Korea, India, the U.K., Poland and Germany, with the U.S. left out. It's expected to reach U.S. users enrolled in the beta program soon. We'll follow up if more new features or major changes turn up."
+        },
+        {
+          "t": "p",
+          "x": "It's a surprise that the Galaxy S26's One UI 9 beta has gone as far as a seventh round. The Galaxy S26 FE, which launched just yesterday, already shipped with the stable version of One UI 9. It's good that Samsung is taking its time to polish things, but it's easy to understand the impatience of Galaxy S26 flagship users watching a cheaper, later device get the stable version first. Here's hoping software updates aren't being held back purely as a card to sell more phones."
+        }
+      ]
+    },
+    "gadgets/gadgets-viture-phantom": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cxxhYV9mTWyXsykiC3hwGm.jpg",
+          "cap": "Image credit Viture"
+        },
+        {
+          "t": "p",
+          "x": "Viture has teamed up with S-Game, the studio behind Phantom Blade Zero. The Phantom Beast XR glasses the two made together carry over the game's edgy mood intact."
+        },
+        {
+          "t": "p",
+          "x": "This is Viture's first collaboration with a Chinese game studio, and its second overall after Cyberpunk 2077 Lumacyber. The Viture x Phantom Blade Zero Phantom Beast XR glasses can be preordered for $599 at viture.com and the IGN store, with a release date of October 29. The red and black XR lenses carry colors that blend traditional wuxia with punk fantasy."
+        },
+        {
+          "t": "p",
+          "x": "According to Viture, the glasses carry 'dedicated artwork, engravings and iconography drawn from the game's sword-centered visual identity,' all applied on top of Viture's existing Beast product. The temples have a story too — they're modeled after Soul's sword, frozen mid-draw. The neck lanyard carries traditional wuxia patterns, paired with a pad drawn from martial arts."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2ivVwfxXBXEvZYndwAHoEm.jpg",
+          "cap": "Image credit Viture"
+        },
+        {
+          "t": "p",
+          "x": "The collector's package that comes with a preorder is also packed with content. The packaging itself is designed to double as a display stand, engraved with artwork and Soul, the game's character, reaching to draw a sword. Inside the box are a '12.5cm Mo Shengquan sword miniature, a game art card brick, a sticker sheet, and a lens cloth.' Preorder or buy before November 5 and you get a scroll-style collector's map."
+        },
+        {
+          "t": "p",
+          "x": "The case resembles a sword sheath. In the press release's own words, it's 'a triangular metal drawer wrapped in textured black leather that slides open rather than flipping, like a blade in the game.' The inside is crimson, with a texture meant to evoke a blade catching sunlight."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/w2fggGziwSRHxB59eB6uRm.jpg",
+          "cap": "Image credit Viture"
+        },
+        {
+          "t": "p",
+          "x": "I've never been this drawn to a pair of XR glasses. I'd had my eye on the game since before the PlayStation State of Play. I like the traditional design language S-Game brought, and red is already my favorite color. Add black and white on top of that, and there's no resisting it."
+        },
+        {
+          "t": "p",
+          "x": "As noted earlier, Phantom Beast is a special edition built on Viture's base Beast XR glasses. It uses a Sony micro-OLED panel to project a 174-inch virtual screen from 4m away, with a smooth 120Hz refresh rate. On top of that come VisionPair 3DoF spatial tracking and Harman AudioEFX spatial sound. There's one more difference: the OSD menu has been redesigned to match Phantom Blade Zero's in-game UI."
+        },
+        {
+          "t": "p",
+          "x": "Out of the box, you pick from five screen modes, including a 32:9 panoramic aspect ratio for PC gaming. Connect via USB-C and it works right away with Windows, macOS, iOS, Android and Steam Deck. To play Phantom Blade Zero on PlayStation, you'll need Viture's Pro Mobile Dock, which also supports PS5, PS4, Switch, Switch 2, Xbox Series X|S and Xbox One, plus other HDMI devices. The Mobile Dock Mini connects to Switch and Switch 2. Viture is the only XR glasses maker that supports Switch 2."
+        }
+      ]
+    },
+    "gadgets/gadgets-xiaomi-cube": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-ai-cube-mini-pc-three-xring-chips.png",
+          "cap": "Edited from a Weibo post by Lei Jun. Xiaomi's CEO checked out the AI Cube prototype with three Xring chips on board."
+        },
+        {
+          "t": "p",
+          "x": "Xiaomi has unveiled a prototype mini PC, AI Cube, that runs AI models locally. It showed the device at its Xring chip technology conference on August 24."
+        },
+        {
+          "t": "p",
+          "x": "AI Cube uses three chips together for local AI work: Xring O3, O100 and D100. Xiaomi says this three-chip setup delivers sustained performance of up to 150W. For comparison, the GMKtec EVO-X2 we reviewed, which uses the AMD Ryzen AI Max+ 395, hits 140W briefly and tops out at 120W under sustained load. Unlike the Ryzen AI Max+ 395 lineup, Xiaomi keeps compute chips and AI chips separate."
+        },
+        {
+          "t": "p",
+          "x": "Xring O3 is the main processor and first appears in the Xiaomi 18 Fold. It has a 10-core CPU, a 16-core G2-Ultra NX GPU, and a 200 TOPS NPU for AI tasks. Xiaomi says this chip supports its on-device model, MiMo."
+        },
+        {
+          "t": "p",
+          "x": "O100 handles AI work where bandwidth matters most. Xiaomi says it uses 6nm 3D wafer-level stacking packaging with 28,672 effective data lines and near-memory compute bandwidth of up to 1.22 TB/s. D100, built for high-performance AI and intelligent driving, uses a 3nm process with a 20-core CPU and a 16-core NPU. It supports up to 160GB of unified memory and can deploy models with around 200 billion parameters locally."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-AI-Cube-prototype-with-Xring-O3-O100-and-D100-chips.png",
+          "cap": "Lei Jun's Weibo. The Xiaomi AI Cube prototype with Xring O3, O100 and D100 on board (machine translation)."
+        },
+        {
+          "t": "p",
+          "x": "Small AI machines like the Nvidia DGX Spark or the Asus Ascent GX10 also support 200-billion-parameter models with 128GB of unified memory. Xiaomi chose a different path, packing three of its own Xring chips into a single box."
+        },
+        {
+          "t": "p",
+          "x": "The chassis is unusual too: an aerospace-grade aluminum unibody with 33,874 precision CNC-drilled holes. For local AI use, it's described as running both a 120B and a 3B large model, switching between a fast system and a slow one."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/xiaomi-ai-cube-prototype-weibo-post.jpeg",
+          "cap": "The Xiaomi AI Cube prototype, announced directly by Lei Jun (machine translation)."
+        },
+        {
+          "t": "p",
+          "x": "According to event materials, O100 and D100 are targeting commercial launch in 2027. Pricing and a launch timeline for AI Cube itself have not been announced."
+        }
+      ]
+    },
+    "gadgets/gadgets-xreal-xr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/xreal-one-pro-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "I've always been torn on smart glasses and mixed-reality headsets. I get what Meta Quest is good for in gaming, but Apple Vision Pro never pulled me in. Then, before Xreal released its first Android XR glasses, I used the Xreal One Pro for a while, and two things became clear. This is the hardware that will make Android XR work, and Xreal is about to benefit hugely from Android XR too."
+        },
+        {
+          "t": "p",
+          "x": "It wouldn't be strange if you don't know Xreal well. I knew the company's name, but glasses that float a screen in front of your face never seemed especially worth it. Then, once I heard Xreal was adopting Android XR, I figured I should try it at least once."
+        },
+        {
+          "t": "p",
+          "x": "These days I plug the One Pro into a Galaxy Z Fold 7, a MacBook, or a RedMagic Astra 2 tablet. The setup couldn't be simpler. Whatever I'm doing, plugging a cable into the glasses brings up a 157-inch screen in front of my eyes. The size is adjustable. At first I wondered how useful this could really be, and one use case showed up right away: flying."
+        },
+        {
+          "t": "p",
+          "x": "A huge screen that follows when you turn your head fits that situation perfectly. There's no comparison to a seatback screen, and it stays reasonably comfortable even after hours of use. That would have been unthinkable with a full headset — too big, and too strange-looking to others. The One Pro doesn't exactly look 'normal' either. It sticks out a bit from your face, and the cable hanging down makes it obvious what you're doing. Still, it takes up little space in a bag."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/xreal-one-pro-9.jpg?quality=82&strip=all",
+          "cap": "It's far easier to carry around than a VR headset."
+        },
+        {
+          "t": "p",
+          "x": "Image quality is pretty good. Like any screen in front of your eyes, it takes a moment to dial in the settings, but once you do, movies look great. Mirroring a MacBook screen turns it into a sizable work canvas that doesn't care if the person in front reclines their seat. It's not perfect. Xreal's 3DoF tracking, excellent on the ground, drifts a bit in flight, especially in turbulence."
+        },
+        {
+          "t": "p",
+          "x": "It's also a problem that not everything works. When plugged into the RedMagic tablet, video apps like Fandango at Home and Google TV had issues. Google TV worked fine when switched from the Fold to DeX. 3D conversion mode didn't work at all on the RedMagic tablet, but it was quite good on the Fold."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/xreal-one-pro-6.jpg?quality=82&strip=all&w=800"
+        },
+        {
+          "t": "p",
+          "x": "That's also where Xreal's Aura, which runs Android XR, is meant to 'complete' this experience. The One Pro only magnifies whatever it's fed; its own controls and software are limited, so it can't do anything without an accessory device. There's a gesture-control accessory, and Xreal also sells its own Android phone that puts a UI on the glasses, but the missing piece is Android XR. Xreal seems to agree, and it's been vocal about pointing its future direction at Android XR. That doesn't mean the plug-in approach is going away — Aura will keep supporting it too."
+        },
+        {
+          "t": "p",
+          "x": "There's clearly a place for the current form factor. Just having a big screen for watching movies or for a laptop on the move while traveling is good enough on its own. But the price matters. I wouldn't spend $600 on the Xreal One Pro just to get a bigger screen, but I would pay $299 for the A01+. The $450 Xreal 1S I tried at CES was barely different from the One Pro for the uses described here. Aura is coming later this year, while the One Pro, 1S and A01+ are already on sale."
+        }
+      ]
     }
   }
 }

@@ -16650,10 +16650,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "데이터 누수가 AI 신약 발굴\n리더보드를 흔들고 있다",
-  "body": "벤치마크 51종을 감사했더니 데이터 누수와 설계 결함이 순위를 왜곡하고 있었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "数据泄露动摇\nAI新药排行榜",
+  "body": "对51个基准进行审计后发现,数据泄露和设计缺陷正在扭曲排行榜。",
+  "lang": "zh"
  },
  {
   "id": "science-alpha-tutor",
@@ -16666,10 +16665,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "하루 두 시간 AI 튜터가\n수업을 대신한다는 학교",
-  "body": "AI 튜터에 수업을 맡긴 알파스쿨, 정말 배움이 남는지 교육 연구자들이 따져봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "每天两小时\nAI代替上课",
+  "body": "把课堂交给AI导师的阿尔法学校,教育研究者查验学习是否真的发生。",
+  "lang": "zh"
  },
  {
   "id": "science-agent-hack",
@@ -16682,10 +16680,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "보상 해킹을 배운 에이전트가\n평가 환경 밖 시스템까지 건드렸다",
-  "body": "평가 지표만 좇도록 훈련된 모델이 실제 시스템을 침해하기까지, 그 전말을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "学会奖励黑客\n波及真实系统",
+  "body": "只为追评估指标训练的模型,最终侵入了真实系统,事情是这样发生的。",
+  "lang": "zh"
  },
  {
   "id": "music-voxis",
@@ -16698,10 +16695,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "라이브 현장에서\n목소리만 실시간으로 골라낸다",
-  "body": "Voxis는 무대 소음 속에서도 말소리와 보컬만 낮은 지연으로 실시간 골라낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "现场演出中\n实时分离人声",
+  "body": "Voxis在舞台噪音中也能以低延迟实时分离出说话声和人声。",
+  "lang": "zh"
  },
  {
   "id": "music-suno-amended",
@@ -16746,10 +16742,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "닥터 드레, AI 반대는\n드럼머신 반대와 같다",
-  "body": "닥터 드레는 자신도 AI로 작업한다며, 반대론이 드럼머신·신시사이저 때의 반발과 닮았다고 했다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "德瑞反AI论\n如反对鼓机",
+  "body": "德瑞博士说自己也用AI,称反对声音类似当年对鼓机、合成器的抵触。",
+  "lang": "zh"
  },
  {
   "id": "music-definitive-recording",
@@ -16762,9 +16757,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "결정판 녹음의 시대가 저물고 있다",
-  "body": "고정된 완성본이던 녹음이 듣는 상황마다 달라지는 생성형 경험으로 바뀌는 중이다.",
-  "lang": "ko",
+  "headline": "The era of the definitive\nrecording is ending",
+  "body": "A recording that used to be a fixed work is turning into a generative experience that changes with each listen.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16778,10 +16773,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "USC 영화 수업이 쓰는\nAI 재조명·장면 재구성 도구",
-  "body": "비블의 AI 재조명·장면 재구성 도구가 USC ETC의 영화 제작 수업 커리큘럼에 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "AI重新打光\n进USC电影课",
+  "body": "Beeble的AI重新打光与场景重建工具进入USC ETC的电影制作课程。",
+  "lang": "zh"
  },
  {
   "id": "movies-slapshot-comfy-nodes",
@@ -16794,9 +16788,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "로토·트래킹·뎁스가 ComfyUI로\n프레임당 0.25달러",
-  "body": "슬랩샷의 로토·트래킹·뎁스 도구가 ComfyUI 노드가 됐다. 값은 프레임당 0.25달러.",
-  "lang": "ko",
+  "headline": "Roto, tracking, depth tools\nnow in ComfyUI at $0.25/frame",
+  "body": "Slapshot's roto, tracking, and depth tools are now ComfyUI nodes priced at $0.25 per frame.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16810,9 +16804,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "Eddie AI, 구독을 접고\n클로드·챗GPT 안에서 편집",
-  "body": "구독을 걷어내고 크레딧으로 받는다. 도구 100여 개를 MCP로 열어 챗봇에서 러프컷을 뽑는다.",
-  "lang": "ko",
+  "headline": "Eddie AI drops subscriptions,\nedits inside Claude, ChatGPT",
+  "body": "It drops subscriptions for pay-as-you-go credits and opens 100-plus tools via MCP so chatbots can pull rough cuts.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16842,10 +16836,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "'Astro Burn' used a model\ntrained only on its own assets",
-  "body": "A director wary of generative AI used a model trained only on his own assets to make ten vertical shorts.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "《Astro Burn》\n自有素材炼成竖屏剧",
+  "body": "对生成式AI存疑的导演,用仅学习自有素材的模型,制作出十部竖屏短片。",
+  "lang": "zh"
  },
  {
   "id": "games-tripo-topology",

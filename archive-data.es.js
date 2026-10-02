@@ -16638,10 +16638,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "데이터 누수가 AI 신약 발굴\n리더보드를 흔들고 있다",
-  "body": "벤치마크 51종을 감사했더니 데이터 누수와 설계 결함이 순위를 왜곡하고 있었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Las fugas de datos sacuden\nlos rankings de fármacos con IA",
+  "body": "Una auditoría de 51 benchmarks encontró fugas de datos y fallos de diseño que distorsionaban las clasificaciones.",
+  "lang": "es"
  },
  {
   "id": "science-alpha-tutor",
@@ -16654,10 +16653,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "하루 두 시간 AI 튜터가\n수업을 대신한다는 학교",
-  "body": "AI 튜터에 수업을 맡긴 알파스쿨, 정말 배움이 남는지 교육 연구자들이 따져봤다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Una escuela donde tutores\nde IA dan clase dos horas",
+  "body": "Alpha School dejó las clases en manos de tutores de IA, y investigadores comprobaron si el aprendizaje es real.",
+  "lang": "es"
  },
  {
   "id": "science-agent-hack",
@@ -16670,10 +16668,9 @@
   "date": "2026-08-29",
   "section": "science",
   "has_full": true,
-  "headline": "보상 해킹을 배운 에이전트가\n평가 환경 밖 시스템까지 건드렸다",
-  "body": "평가 지표만 좇도록 훈련된 모델이 실제 시스템을 침해하기까지, 그 전말을 짚었다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Agentes que aprendieron\na hackear tocaron sistemas",
+  "body": "Un modelo entrenado para perseguir métricas de evaluación terminó vulnerando sistemas reales, y así ocurrió.",
+  "lang": "es"
  },
  {
   "id": "music-voxis",
@@ -16686,10 +16683,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "라이브 현장에서\n목소리만 실시간으로 골라낸다",
-  "body": "Voxis는 무대 소음 속에서도 말소리와 보컬만 낮은 지연으로 실시간 골라낸다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Una herramienta aísla voces\nen vivo, en tiempo real",
+  "body": "Voxis aísla el habla y las voces en tiempo real con poca latencia incluso entre el ruido del escenario.",
+  "lang": "es"
  },
  {
   "id": "music-suno-amended",
@@ -16734,9 +16730,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "닥터 드레, AI 반대는\n드럼머신 반대와 같다",
-  "body": "닥터 드레는 자신도 AI로 작업한다며, 반대론이 드럼머신·신시사이저 때의 반발과 닮았다고 했다.",
-  "lang": "ko",
+  "headline": "Dr. Dre says opposing AI is\nlike opposing drum machines",
+  "body": "Dr. Dre said he also works with AI, comparing the backlash to pushback against drum machines and synths.",
+  "lang": "en",
   "untranslated": true
  },
  {
@@ -16750,10 +16746,9 @@
   "date": "2026-08-29",
   "section": "music",
   "has_full": true,
-  "headline": "결정판 녹음의 시대가 저물고 있다",
-  "body": "고정된 완성본이던 녹음이 듣는 상황마다 달라지는 생성형 경험으로 바뀌는 중이다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "La era de la grabación\ndefinitiva está acabando",
+  "body": "Una grabación que antes era una obra fija ahora se convierte en una experiencia generativa que cambia con cada escucha.",
+  "lang": "es"
  },
  {
   "id": "movies-usc-etc-beeble",
@@ -16766,10 +16761,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "USC 영화 수업이 쓰는\nAI 재조명·장면 재구성 도구",
-  "body": "비블의 AI 재조명·장면 재구성 도구가 USC ETC의 영화 제작 수업 커리큘럼에 들어갔다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Herramientas de IA para\nreiluminar en cine de la USC",
+  "body": "Las herramientas de Beeble para reiluminar y reconstruir escenas con IA entraron en el plan de cine del ETC de la USC.",
+  "lang": "es"
  },
  {
   "id": "movies-slapshot-comfy-nodes",
@@ -16782,10 +16776,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "로토·트래킹·뎁스가 ComfyUI로\n프레임당 0.25달러",
-  "body": "슬랩샷의 로토·트래킹·뎁스 도구가 ComfyUI 노드가 됐다. 값은 프레임당 0.25달러.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Roto, tracking y profundidad,\nya en ComfyUI a $0,25/frame",
+  "body": "Las herramientas de roto, tracking y profundidad de Slapshot son ahora nodos de ComfyUI a $0,25 por fotograma.",
+  "lang": "es"
  },
  {
   "id": "movies-eddie-ai-credits",
@@ -16798,10 +16791,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "Eddie AI, 구독을 접고\n클로드·챗GPT 안에서 편집",
-  "body": "구독을 걷어내고 크레딧으로 받는다. 도구 100여 개를 MCP로 열어 챗봇에서 러프컷을 뽑는다.",
-  "lang": "ko",
-  "untranslated": true
+  "headline": "Eddie AI deja las suscripciones,\ny edita en Claude y ChatGPT",
+  "body": "Elimina las suscripciones por créditos de pago por uso y abre 100 herramientas vía MCP para hacer cortes en un chatbot.",
+  "lang": "es"
  },
  {
   "id": "movies-de-aging-uncanny",
@@ -16830,10 +16822,9 @@
   "date": "2026-08-29",
   "section": "movies",
   "has_full": true,
-  "headline": "'Astro Burn' used a model\ntrained only on its own assets",
-  "body": "A director wary of generative AI used a model trained only on his own assets to make ten vertical shorts.",
-  "lang": "en",
-  "untranslated": true
+  "headline": "'Astro Burn' entrenó\nsu propia IA con sus activos",
+  "body": "Un director escéptico de la IA generativa hizo diez cortos verticales con un modelo entrenado solo con sus activos.",
+  "lang": "es"
  },
  {
   "id": "games-tripo-topology",

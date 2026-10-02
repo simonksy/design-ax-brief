@@ -4172,6 +4172,131 @@
           "x": "Keeping the file current comes down to real use. Calling @design-agent in Slack builds a page with the current design.md and returns a screenshot and a deployment URL. Recurring complaints get pulled out of the feedback that piles up each week, and people decide what to fix."
         }
       ]
+    },
+    "design/design-android-xr-listening-area": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A report says Google is testing a 'Listening area' mode for Google Live Translate on Android XR. It could become a flagship feature of the upcoming smart glasses lineup."
+        },
+        {
+          "t": "p",
+          "x": "Real-time translation is not a surprise, since Google has consistently said it would build the feature into Android XR. The company has also promised translated speech that keeps the speaker's tone and pitch, plus text translation for things like menus and signs, all on smart glasses."
+        },
+        {
+          "t": "p",
+          "x": "Android Authority dug into version 10.32.66 of the Google Translate app and found the listening mode split into two. 'Front only' translates only the person directly in front of the wearer, suited to one-on-one conversation, while 'Surrounding area' uses the glasses' full microphone array to translate speech from everyone nearby."
+        },
+        {
+          "t": "p",
+          "x": "Since this was found in the apk code, it is too early to guarantee an actual launch. Still, it fits Google's push to expand Android XR ahead of the smart glasses. Frames from Gentle Monster and Warby Parker are set to arrive first this fall, and frames from Kering, the parent company of Gucci, are reportedly also in the works."
+        },
+        {
+          "t": "p",
+          "x": "Meta's smart glasses also include real-time translation, but Meta's version is closer to 'Front only.' Translated speech plays to the wearer through open-ear speakers, while the other person reads translated captions on the wearer's smartphone screen. Google, which leads in real-time translation, is expected to pack in as much functionality as possible here."
+        }
+      ]
+    },
+    "design/design-figma-ai-index": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A few years ago, as AI tools began flooding in, Figma decided to track the fallout, from how people work to product strategy. The multi-year study, started in 2024, ran surveys each year, built an index, and gathered the stories behind the numbers through interviews. Thousands of data points and hundreds of transcripts were too much for people to handle by hand, so researcher Shane Johnston and his team built their own AI tools to run the research."
+        },
+        {
+          "t": "p",
+          "x": "The first thing they built was a sentiment index. Like the University of Michigan's Consumer Sentiment Index, it captures how people feel rather than measuring the actual economy. The survey asks about what happened in the past 12 months alongside what people expect to change in the next 12 months. Comparing the two shows whether AI is catching up to expectations, exceeding them, or falling short. Answers range from 0 (no impact) to 100 (complete transformation). Around 50 means AI has become part of the work, and closer to 100 means the day-to-day has changed fundamentally."
+        },
+        {
+          "t": "p",
+          "x": "The questions are organized around six axes — organizational goals, personal productivity, collaboration, projects, products and tools — and the same questions have been used for three years running. In 2026, all six axes came in more than 10 points above last year's projections. Collaboration nearly doubled, from 32 to 58, while personal productivity, projects and products climbed from the 40s into the high 60s and 70s."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8c6079f6fe98d78bc54a2593cbd51d28c67a4cd5-1785x1368.png?rect=1,0,1784,1368&w=1080&h=828&q=75&fit=max&auto=format",
+          "cap": "The Figma AI Impact Index shows respondents expect AI's influence to keep growing."
+        },
+        {
+          "t": "p",
+          "x": "The index only shows what changed and by how much. This year, the team decided to hear directly from the people who lived through that change and added an AI interview tool. An AI moderator asked real-time follow-up questions and steered the conversation based on context, running 639 sessions. That produced 639 transcripts, 2 million words, 40,701 codes, 11,846 themes, and 553 themes that recurred across participants."
+        },
+        {
+          "t": "p",
+          "x": "Off-the-shelf analysis tools do not show their inner workings. Without visibility into the interpretation process, there is no way to verify it. So the team rebuilt thematic analysis — reading every transcript, coding each statement, and grouping statements into larger themes — so each step could be inspected. Selecting the theme “AI sped up iteration but raised quality concerns” brings up the 47 participants who mentioned it, with a path to each person's statement and the original transcript."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/504af45c6607d8f8dccdcb551ca2c0d9e9ef2a81-2548x800.png?rect=0,1,2548,799&w=1632&h=512&q=75&fit=max&auto=format",
+          "cap": "The thematic analysis pipeline found and named themes from the interview transcripts."
+        },
+        {
+          "t": "p",
+          "x": "It was not just about speed. When people manually review hundreds of transcripts by hand, fatigue builds and interpretation drifts, making it easy to code the 50th interview differently from the first. The tool applied the same standard every time. Still, the team could not hand everything over wholesale, so they specified exactly which methods to use and how to handle conflicting themes. MIT economist David Autor called this re-intermediation of expertise: AI does not remove expert judgment, it makes that judgment repeatable."
+        },
+        {
+          "t": "p",
+          "x": "Once the tool solved one problem, another appeared. Tens of thousands of data points were scattered across laptops and text files, hard for anyone but the researchers to dig through, yet the report also had writers, marketers and analysts attached to it. So the team built an internal dashboard pulling together three years of survey results, interview analysis, and trends by role and region. They turned the raw-data analysis into a self-contained HTML document, went back and forth a few times with the Figma MCP server, and deployed it with Payload CMS, which also handled version control and access permissions."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/58b463599991d375be5510fe3300760ef109040d-2976x1691.png?rect=1,0,2974,1691&w=1080&h=614&q=75&fit=max&auto=format",
+          "cap": "This dashboard lets anyone on the team open the data directly."
+        },
+        {
+          "t": "p",
+          "x": "Instead of scattered emails and slides painting different pictures, everyone looked at the same material. This year's index came in at 62 out of 100, nearly double 2024's score. The change was already visible before the analysis was even finished; the index just put a number on it."
+        }
+      ]
+    },
+    "design/design-figma-workflow-lab": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Coding agents are changing how development works, but they still only perform as well as the context they're given. In its Workflow Lab series, Figma shared a sequence that moves between canvas and code while preserving design intent. The tools involved are Figma Design and FigJam, along with the Figma MCP server, Code Connect, use_figma, generate_diagram, search_design_system and get_variable_defs."
+        },
+        {
+          "t": "p",
+          "x": "The setting is Radicle, a fictional STEM learning app. Work that used to take weeks now takes days, sometimes hours, but the speed hasn't translated into results, because AI-generated code keeps drifting from the design spec. On this task, an inbox redesign, handing over just a screenshot and a dev ticket led to misaligned icons, uneven modal spacing, and a toast missing its failure state. It's a batch-processing flow spanning three screens: toolbar, modal and toast."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/62780457957c344884778b098d94ea00a9fe577d-4306x2632.png?rect=0,1,4306,2631&w=1080&h=660&q=75&fit=max&auto=format",
+          "cap": "Radicle's new inbox toolbar, supporting select all, mark as unread, and delete."
+        },
+        {
+          "t": "p",
+          "x": "The developer doesn't start with code. They write up the screens, states and transitions, then hand the agent the PRD along with the existing component code. Then they use generate_diagram to create an editable diagram in FigJam. Select all checks every message. Delete triggers a confirmation modal, and undo on the toast rolls the dashboard back to its previous state. The designer and the design system lead left comments directly on the diagram instead of in a Slack thread."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/40a7948603a0bf3d91bf3694f1c28046a2d7d42d-1608x1072.png?w=804&h=536&q=75&fit=max&auto=format",
+          "cap": "Passing along the FigJam diagram together with the library lets the agent find the components and variables to use."
+        },
+        {
+          "t": "p",
+          "x": "Once approval is done, the diagram is handed to the agent through the Figma MCP server. With only a screenshot, the developer would have had to go ask whether a 12 px gap matched a token, or whether that button was already a secondary one in the repo. Now the answer is in the file. Code Connect fills in how each component was built. Once the design system lead links the library to the GitHub repository and writes template files for the button and modal, the agent starts from an existing implementation instead of writing new code."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/75a410c0c97c35b54ee99a494113bb8ec688f930-1608x1072.png?w=1080&h=720&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Only the batch-select state was newly created, so Code Connect couldn't map it. The developer searched the team library with search_design_system and found a similar component from a feature shipped months earlier. The agent found it in the codebase and adapted it to fit this flow."
+        },
+        {
+          "t": "p",
+          "x": "While the modal was being built, the design changed. The brand color got darker and the button corner radius changed. Instead of fixing it by hand, the developer called get_variable_defs to pull the variables the modal used, and the agent cross-checked them against the code tokens and immediately caught two mismatches."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5077c6268db5f84188c91c9ed2a2a5bfeb992c3a-1608x1072.png?w=804&h=536&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "That left the toast. It was created during the build, existed only in code, and had no failure state. Using use_figma to bring the toast onto the canvas as an editable layer, the designer added a retry action, and after the design system lead shipped the new component, it was linked to the code with Code Connect. From there, it went like any other release: most of the pull request's diff was feature logic. The engineer reviewed the code, and the designer looked at the preview build. The time once spent reworking AI-generated code shifted into time spent polishing the user experience."
+        }
+      ]
     }
   }
 }

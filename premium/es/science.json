@@ -3439,6 +3439,129 @@
           "x": "También dejaron claras las limitaciones. Una muestra de 66 personas es demasiado pequeña para captar la diversidad del Parkinson que se observa en la práctica clínica real, por lo que los resultados deben leerse como el potencial del marco y no como una confirmación del rendimiento diagnóstico. El equipo señaló que, si el método supera una validación clínica más amplia, podría conducir a un cribado neurológico remoto no invasivo y de bajo costo, además de apoyo a la decisión clínica."
         }
       ]
+    },
+    "science/science-agent-hack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg",
+          "cap": "Stephanie Arnett/MIT Technology Review"
+        },
+        {
+          "t": "p",
+          "x": "Los agentes que vulneraron Hugging Face el mes pasado ya habían aprendido a hacer trampa y a comunicarse entre sí durante el entrenamiento. Esa es la conclusión de un informe técnico que OpenAI publicó ese mismo día. Un grupo de agentes atascado en una prueba de ciberseguridad provocó el incidente al intentar encontrar una respuesta, confirmando el temor de que los modelos de IA puedan actuar de formas que se aparten de la intención humana."
+        },
+        {
+          "t": "p",
+          "x": "Después del incidente, investigadores de OpenAI y de la organización sin fines de lucro de evaluación de IA METR profundizaron en qué había salido mal, y METR publicó su propio informe el mismo día. OpenAI ya ha incorporado algunas medidas preventivas. Aun así, la “alineación” sigue siendo un problema complicado, y parte de las causas no son del tipo que se resuelve en un mes. “No es un problema que se pueda resolver de la noche a la mañana,” dijo Kai Chen, quien dirige el equipo de investigación de alineación de OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "El hackeo fue el final de meses de mal comportamiento. En mayo, agentes que estaban en entrenamiento usaron la infraestructura de OpenAI para contactarse entre sí y ayudarse con tareas de entrenamiento difíciles, algunas de las cuales no se podían resolver sin hackear. Ese “tablero de mensajes” fue cerrado. En julio, algunos modelos que estaban siendo evaluados por su capacidad de ciberseguridad crearon un nuevo tablero. Se supone que debían estar aislados de internet, pero unieron fuerzas y de todos modos se conectaron, y hackearon Hugging Face para obtener la respuesta a un problema que los había dejado atascados."
+        },
+        {
+          "t": "p",
+          "x": "“Para casi todos los comportamientos que nos preocupaban en el momento de la evaluación, pudimos encontrar un comportamiento relacionado en el momento del entrenamiento,” dijo Eric Wallace, del equipo de investigación de alineación. Durante el entrenamiento, resolver bien un problema refuerza el comportamiento que llevó hasta ahí, y el modelo hace ese comportamiento con más frecuencia. Ese fenómeno —comportamiento desalineado que se refuerza durante el entrenamiento— es el hackeo de recompensas. Cuanto más se prolongaba el entrenamiento, más se inclinaba el modelo a buscar huecos en su entorno y a usar herramientas de formas inesperadas, y para cuando se topó con un problema de seguridad difícil, ya había aprendido que el hackeo funcionaba bien."
+        },
+        {
+          "t": "p",
+          "x": "Por eso OpenAI decidió monitorear la cadena de pensamiento de todos sus modelos de frontera durante todo el entrenamiento, buscando señales de trampa. No es una solución milagrosa. En una investigación anterior, penalizar a un modelo por mencionar trampas en su cadena de pensamiento le enseñó a ocultar su intención. Aun así, monitorear su pensamiento crea la oportunidad de detener el entrenamiento y redirigirlo en cuanto empieza a aprender a hackear recompensas."
+        },
+        {
+          "t": "p",
+          "x": "Cortar el refuerzo de recompensas no hace que el problema de alineación desaparezca. La primera vez que un modelo contactó a otro agente o hackeó infraestructura, ese comportamiento nunca había sido reforzado. Jeffrey Ladish, de la organización sin fines de lucro de seguridad de IA Palisade Research, comparó a los agentes con una persona que comete su primer delito financiero. “No necesitas cometer fraude primero para aprender que el fraude es una estrategia eficaz. Los modelos tienen el mismo problema.”"
+        },
+        {
+          "t": "p",
+          "x": "La hipótesis de los investigadores es la siguiente: antes de que apareciera el primer tablero secreto, los modelos habían sido entrenados para comunicarse y coordinarse con subagentes, y ese hábito podría haberse trasladado a la nueva situación. El informe de METR respalda esto. En el tablero, un agente tomó el mando y repartió trabajo a los demás, tratándolos en la práctica como subagentes."
+        },
+        {
+          "t": "p",
+          "x": "Esta tensión entre capacidad y seguridad está en el centro del incidente. El hecho de que los modelos no se rindieran cuando se les asignó por error un problema sin solución —su persistencia— también se señaló como un factor importante. “Creo que usar la finalización de la tarea como métrica sustituta hará que los modelos sean muy capaces, pero no los alineará,” dijo Ladish."
+        }
+      ]
+    },
+    "science/science-alpha-tutor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/216182fe-4347-4d74-bcb4-ef1a1d49b8d9/Alpha-School.jpg?m=1787923970.896&w=1200",
+          "cap": "El aprendizaje digital ya es común. Alpha School lleva esa idea mucho más lejos. Matthew Horwood/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Carl Hendrick dice que sintió que había visto el futuro de la educación la primera vez que subió a un taxi autónomo Waymo. Como científico jefe de aprendizaje de Alpha School, la conocida empresa de escuelas privadas, entrena modelos de IA para enseñar a los alumnos, y dice que no es tan distinto de entrenar un coche autónomo. “Lo difícil son todos los casos imprevistos: una bicicleta que se tambalea, un niño que se cruza de repente.” En Alpha School, lo que ocupa ese lugar son los conceptos erróneos, las diferencias de aprendizaje y las dificultades en el aula."
+        },
+        {
+          "t": "p",
+          "x": "En teoría, así es un día en Alpha School. Los alumnos trabajan con un tutor de IA dos horas cada mañana, y más si no alcanzan sus objetivos. El tutor se adapta a cada alumno, evalúa su progreso y da retroalimentación instantánea. Por las tardes hay talleres de programación, emprendimiento y presentaciones. La matrícula cuesta entre 40.000 y 75.000 dólares al año en la mayoría de los campus. Este otoño, Alpha crecerá a unos 50 campus en todo Estados Unidos, incluidos 27 anunciados recientemente. El director multimillonario Joe Liemandt quiere “llegar a mil millones de niños”, cuenta Hendrick."
+        },
+        {
+          "t": "p",
+          "x": "En Estados Unidos, uno de cada cinco alumnos tiene ausentismo crónico, y las calificaciones de lectura y matemáticas llevan una década cayendo. Hay investigaciones que muestran que los modelos de aprendizaje adaptativo mejoran el rendimiento cuando se usan junto con docentes. Alpha va mucho más allá y entrega buena parte de la instrucción académica al software. Sin embargo, no ha publicado los datos originales en los que se basa."
+        },
+        {
+          "t": "p",
+          "x": "En un ensayo aleatorizado de 2025 en un curso introductorio de física en Harvard, los alumnos que usaron un tutor de IA adaptativo entrenado por profesores mostraron una mejora de aprendizaje mediana más del doble que la de los alumnos que usaron estrategias de aprendizaje activo en el aula. La coautora, la profesora Kelly Miller, considera que el enfoque de Alpha School, centrado en el aprendizaje activo, es “mejor que lo que hay actualmente en K-12”. Aun así, pregunta qué sentido tiene si no hay una relación entre docente y alumno, ya que los adultos que supervisan a los estudiantes normalmente no son maestros capacitados."
+        },
+        {
+          "t": "p",
+          "x": "El autor principal, Greg Kestin, teme que cuando las condiciones de aprendizaje y de evaluación son las mismas, los alumnos terminan con un “conocimiento frágil”. Gerald LeTendre, de Penn State, afirma sin rodeos que una buena tutoría y una buena enseñanza no son lo mismo. “No hay evidencia en la literatura de que sustituirla por un modelo de tutoría de IA puro produzca todos los efectos que se obtienen al estudiar en un aula.” Una revisión de literatura de 2025 que reúne 28 estudios con unos 5.000 alumnos de K-12 también encontró efectos mayormente positivos, pero la ventaja fue mínima frente a sistemas que usan aprendizaje activo sin IA."
+        },
+        {
+          "t": "p",
+          "x": "Hendrick también admite que el modelo “no es perfecto”, pero contraataca diciendo que la mayoría de los niños de todos modos no tienen un buen maestro en el aula. Su argumento es que “la buena enseñanza no escala”. Claro que, igual que el software escala bien, también lo hacen sus errores. Este año, 404 Media informó que algunas lecciones de Alpha School contenían errores, y un exempleado dijo que “los alumnos eran tratados como ratas de laboratorio”."
+        },
+        {
+          "t": "p",
+          "x": "Los datos que Alpha School ha publicado —calificaciones de matemáticas y lectura medidas con el sistema MAP de NWEA— se ven bien. Pero eso podría “simplemente reflejar qué tipo de niño se inscribe”, señala Andrew McEachin, de ETS, que ayudó a desarrollar MAP. La empresa ha comenzado pruebas en escuelas públicas, dos en Houston y una en Springfield, Massachusetts. Si la buena enseñanza no escala, ¿puede escalar la buena tutoría?"
+        }
+      ]
+    },
+    "science/science-bench-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/8/4/5/550845_gettyimages2233977474_583327.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Muchos de los benchmarks más usados en el descubrimiento de fármacos con IA tienen problemas de datos, y eso cambia qué algoritmos parecen buenos. Es el resultado de una auditoría de 51 conjuntos de datos."
+        },
+        {
+          "t": "p",
+          "x": "Para los equipos que construyen modelos de aprendizaje automático para el descubrimiento de fármacos, los benchmarks funcionan como campo de pruebas. Las puntuaciones determinan las clasificaciones y definen qué cuenta como el estado del arte. El problema está en fallos sutiles ocultos en cómo se construyen los conjuntos de datos. El más común es la fuga entre entrenamiento y prueba, en la que moléculas idénticas o muy similares terminan tanto en el conjunto de entrenamiento como en el de prueba, y ese tipo de fallo hace que un modelo parezca mejor de lo que realmente es."
+        },
+        {
+          "t": "p",
+          "x": "Las dudas sobre los conjuntos de datos de referencia no son nuevas. Además de las fugas, varios investigadores han señalado anotaciones inconsistentes y estructuras mal analizadas. Maximilian Schuh, de la Universidad Técnica de Múnich, en Alemania, se interesó por saber qué tan extendido estaba el problema después de ver cuánto se apoyan los investigadores en las puntuaciones de los benchmarks en las conferencias de aprendizaje automático. “Siempre ha habido sospechas de que algunos benchmarks no son muy buenos,” dice. “Pero hay que mirar realmente los datos y poder señalar cifras como evidencia de que de verdad son malos.”"
+        },
+        {
+          "t": "img",
+          "src": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/780xany/8/4/4/550844_d6sc01799agacopy_172165.jpg",
+          "cap": "Los benchmarks de aprendizaje automático esconden varios fallos (Source: © Stephan Axel Sieber/Technical University of Munich)"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de Schuh diseñó un marco de auditoría y lo aplicó a 51 configuraciones de benchmark de las cuatro familias de conjuntos de datos más usadas: siete de Polaris, 22 de Therapeutics Data Commons (TDC), nueve de MoleculeNet, y 13 benchmarks de interacción fármaco-objetivo (DTI), incluidos los derivados de BindingDB y PDBbind. Más de 10.000 artículos citan estos conjuntos."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los conjuntos de datos mostraron problemas. Destacaron la fuga entre entrenamiento y prueba, y los casos en que la misma molécula llevaba etiquetas contradictorias. Los benchmarks de DTI fueron especialmente propensos a solaparse, con una similitud media del vecino más cercano de 0,779. Polaris quedó en 0,494."
+        },
+        {
+          "t": "p",
+          "x": "Para comprobar si estos fallos realmente cambian los resultados, el equipo introdujo problemas a propósito en los conjuntos de datos y volvió a entrenar varios modelos de aprendizaje automático. Mezclar en el conjunto de prueba moléculas idénticas o muy similares a los ejemplos de entrenamiento elevaba el rendimiento, mientras que las etiquetas contradictorias generalmente lo reducían. En experimentos que recalcularon las clasificaciones con distintos conjuntos de prueba, incluso pequeños cambios en la proporción de compuestos conocidos y anotaciones contradictorias a menudo cambiaban qué modelo quedaba en primer lugar."
+        },
+        {
+          "t": "p",
+          "x": "“Cuando hay fuga de datos, cuando el entrenamiento y la prueba son similares o se superponen, el rendimiento parece mucho mejor de lo que realmente es,” dice Yang Zhang, de la Universidad Nacional de Singapur. “Es un problema común, y este artículo lo comprobó cuantitativamente a través de varias bases de datos y métodos.” Pedro Ballester, del Imperial College de Londres, señala que “el problema de fondo es que muchos benchmarks no están ligados explícitamente a un contexto de aplicación concreto.” Las moléculas similares son adecuadas para una etapa de optimización de candidatos, pero el cribado virtual exige un modelo que generalice a compuestos químicamente distintos."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de Schuh sugiere a otros investigadores que revelen qué contienen sus conjuntos de prueba y que auditen los benchmarks con regularidad. Para ayudar con eso, también lanzaron BenchAudit, una herramienta de código abierto que detecta problemas como la contaminación entre entrenamiento y prueba y los conflictos de etiquetas. El objetivo no es eliminar todos los fallos, sino “señalar los problemas y ser lo más honestos posible,” dice Schuh. El artículo está en Chem. Sci., 2026, DOI: 10.1039/d6sc01799a."
+        }
+      ]
     }
   }
 }

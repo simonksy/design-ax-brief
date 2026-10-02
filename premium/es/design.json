@@ -4000,6 +4000,159 @@
           "x": "Mantener el archivo actualizado depende del uso real. Llamar a @design-agent en Slack genera una página con el design.md vigente y devuelve una captura de pantalla y una URL de despliegue. Cada semana se extraen las quejas recurrentes del feedback acumulado, y las personas deciden qué corregir."
         }
       ]
+    },
+    "design/design-aia-contract-assistant": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AIA Contract Documents (ACD) presentó un asistente de IA que ofrece orientación contractual dentro de la aplicación. También rediseñó su editor de documentos para agilizar el trabajo contractual."
+        },
+        {
+          "t": "p",
+          "x": "El mismo día anunció la contratación de Arijit “AJ” Saha como director de tecnología. Se encargará de la estrategia tecnológica y de IA de ACD, impulsando la innovación de producto y el valor para los clientes."
+        },
+        {
+          "t": "p",
+          "x": "Saha ha dirigido organizaciones de ingeniería, datos, IA y nube durante más de 23 años, desde startups hasta grandes empresas. Trabajó en Infosys, Goldman Sachs y Noodle AI (hoy Daybreak), y más recientemente fue director de tecnología en Redica Systems."
+        },
+        {
+          "t": "p",
+          "x": "En ACD se encargará de herramientas de nueva generación que agilizan tareas clave a lo largo de todo el ciclo de vida de la construcción, ayudando a las empresas de arquitectura, ingeniería y construcción (AEC) a coordinar equipos, gestionar riesgos y mantener los proyectos en marcha de principio a fin."
+        },
+        {
+          "t": "p",
+          "x": "ACD se basa en más de 300 documentos de contrato estándar, y la empresa está rediseñando la experiencia en torno a ellos, con el objetivo de reducir el esfuerzo necesario desde la plantilla hasta el contrato firmado. El nuevo editor simplifica el trabajo con documentos, y el asistente de IA responde a los usuarios cuando lo llaman en cualquier punto del proceso de contratación. También se están desarrollando funciones para evaluar el riesgo del proyecto y completar más rápido las tareas relacionadas con contratos."
+        },
+        {
+          "t": "p",
+          "x": "Más de 45.000 empresas usan ACD, que genera más de 1,2 millones de contratos cada año, lo que lo convierte en una pieza clave del funcionamiento de los proyectos de construcción en Estados Unidos. Hay más información disponible en aiacontracts.com."
+        }
+      ]
+    },
+    "design/design-android-xr-listening-area": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Según un informe, Google está probando un modo 'Listening area' (área de escucha) para Google Live Translate en Android XR. Podría convertirse en una función insignia de la próxima línea de gafas inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "La traducción en tiempo real no es una sorpresa, ya que Google ha dicho de forma constante que la incorporaría a Android XR. La compañía también ha prometido voz traducida que conserva el tono y la entonación del hablante, además de traducción de texto, como en menús o señales, en las gafas inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "Android Authority examinó la versión 10.32.66 de la app Google Translate y encontró el modo de escucha dividido en dos. 'Front only' traduce solo a la persona que está justo delante de quien lleva las gafas, apto para conversaciones de uno a uno, mientras que 'Surrounding area' usa todo el conjunto de micrófonos de las gafas para traducir el habla de todos los que están alrededor."
+        },
+        {
+          "t": "p",
+          "x": "Como se encontró en el código del apk, es pronto para garantizar un lanzamiento real. Aun así, coincide con el impulso de Google para ampliar Android XR antes de las gafas inteligentes. Este otoño llegarán primero monturas de Gentle Monster y Warby Parker, y se dice que también se preparan monturas de Kering, la empresa matriz de Gucci."
+        },
+        {
+          "t": "p",
+          "x": "Las gafas inteligentes de Meta también incluyen traducción en tiempo real, aunque la versión de Meta se acerca más a 'Front only'. El habla traducida llega a quien lleva las gafas a través de altavoces de oído abierto, mientras que la otra persona lee los subtítulos traducidos en la pantalla del teléfono de quien lleva las gafas. Se espera que Google, que va en cabeza en traducción en tiempo real, incorpore aquí tantas funciones como sea posible."
+        }
+      ]
+    },
+    "design/design-figma-ai-index": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hace unos años, cuando las herramientas de IA empezaron a llegar en masa, Figma decidió rastrear su impacto, desde la forma de trabajar hasta la estrategia de desarrollo de producto. El estudio plurianual, iniciado en 2024, se basó en encuestas anuales, la construcción de un índice y entrevistas para recoger las historias detrás de los números. Miles de datos y cientos de transcripciones eran demasiado para manejar a mano, así que el investigador Shane Johnston y su equipo crearon sus propias herramientas de IA para llevar a cabo la investigación."
+        },
+        {
+          "t": "p",
+          "x": "Lo primero que crearon fue un índice de sentimiento. Como el Índice de Confianza del Consumidor de la Universidad de Michigan, no mide la economía real sino la percepción de las personas. La encuesta pregunta tanto por lo vivido en los últimos 12 meses como por los cambios esperados en los próximos 12. Comparar ambos muestra si la IA está alcanzando las expectativas, superándolas o quedándose corta. Las respuestas van de 0 (sin impacto) a 100 (transformación completa). Alrededor de 50 significa que la IA ya forma parte del trabajo, y cerca de 100 implica que el día a día ha cambiado de forma fundamental."
+        },
+        {
+          "t": "p",
+          "x": "Las preguntas se organizan en seis ejes —objetivos de la organización, productividad individual, colaboración, proyectos, productos y herramientas— y se usan las mismas preguntas desde hace tres años. En 2026, los seis ejes superaron las proyecciones del año anterior por más de 10 puntos. La colaboración casi se duplicó, de 32 a 58, mientras que la productividad individual, los proyectos y los productos subieron de los 40 a los altos 60 y los 70."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8c6079f6fe98d78bc54a2593cbd51d28c67a4cd5-1785x1368.png?rect=1,0,1784,1368&w=1080&h=828&q=75&fit=max&auto=format",
+          "cap": "El Índice de Impacto de la IA de Figma muestra que los encuestados esperan que la influencia de la IA siga creciendo."
+        },
+        {
+          "t": "p",
+          "x": "El índice solo indica qué cambió y cuánto. Este año, el equipo decidió escuchar directamente a quienes vivieron ese cambio y añadió una herramienta de entrevistas con IA. Un moderador de IA hacía preguntas de seguimiento en tiempo real y guiaba la conversación según el contexto, en 639 sesiones. Eso produjo 639 transcripciones, 2 millones de palabras, 40.701 códigos, 11.846 temas y 553 temas que se repitieron entre los participantes."
+        },
+        {
+          "t": "p",
+          "x": "Las herramientas de análisis disponibles en el mercado no muestran su funcionamiento interno. Sin ver el proceso de interpretación, no hay forma de verificarlo. Por eso el equipo rehízo el análisis temático —leer cada transcripción, codificar cada declaración y agruparlas en temas más amplios— para poder revisar cada paso. Al seleccionar el tema “la IA aceleró la iteración pero generó dudas sobre la calidad” aparecen los 47 participantes que lo mencionaron, con acceso a cada declaración y a la transcripción original."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/504af45c6607d8f8dccdcb551ca2c0d9e9ef2a81-2548x800.png?rect=0,1,2548,799&w=1632&h=512&q=75&fit=max&auto=format",
+          "cap": "El proceso de análisis temático encontró y nombró los temas a partir de las transcripciones de las entrevistas."
+        },
+        {
+          "t": "p",
+          "x": "No se trataba solo de velocidad. Cuando una persona revisa a mano cientos de transcripciones, se acumula el cansancio y la interpretación se desvía, por lo que es fácil codificar la entrevista número 50 de forma distinta a la primera. La herramienta aplicaba el mismo criterio cada vez. Aun así, no podían delegarlo todo por completo, así que especificaron qué métodos usar y cómo tratar los temas en conflicto. El economista del MIT David Autor llamó a esto reintermediación de la experticia: la IA no elimina el juicio experto, sino que permite repetirlo."
+        },
+        {
+          "t": "p",
+          "x": "En cuanto la herramienta resolvió un problema, apareció otro. Decenas de miles de datos estaban repartidos en portátiles y archivos de texto, difíciles de revisar para cualquiera que no fuera investigador, mientras que el informe también llegaba a redactores, especialistas en marketing y analistas. Así que crearon un panel interno que reúne tres años de resultados de encuestas, análisis de entrevistas y tendencias por rol y región. Convirtieron el análisis de los datos sin procesar en un documento HTML autónomo, hicieron varias idas y vueltas con el servidor MCP de Figma, y lo desplegaron con Payload CMS, que también gestiona el control de versiones y los permisos de acceso."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/58b463599991d375be5510fe3300760ef109040d-2976x1691.png?rect=1,0,2974,1691&w=1080&h=614&q=75&fit=max&auto=format",
+          "cap": "Con este panel, cualquier persona del equipo puede abrir los datos directamente."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de correos y diapositivas dispersos que pintaban cuadros distintos, todos vieron el mismo material. El índice de este año llegó a 62 de 100, casi el doble que en 2024. El cambio ya era visible antes incluso de terminar el análisis; el índice solo le puso un número."
+        }
+      ]
+    },
+    "design/design-figma-workflow-lab": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los agentes de codificación están cambiando la forma de desarrollar, pero al final solo rinden según el contexto que reciben. En su serie Workflow Lab, Figma presentó una secuencia de trabajo que se mueve entre el lienzo y el código preservando la intención de diseño. Las herramientas que aparecen son Figma Design y FigJam, junto con Figma MCP server, Code Connect, use_figma, generate_diagram, search_design_system y get_variable_defs."
+        },
+        {
+          "t": "p",
+          "x": "El escenario es Radicle, una app ficticia de aprendizaje STEM. Tareas que antes tardaban semanas ahora toman días, a veces horas, pero la velocidad no se ha traducido en resultados, porque el código generado por IA se desvía constantemente de la especificación de diseño. En esta tarea, el rediseño de la bandeja de entrada, entregar solo una captura de pantalla y un ticket de desarrollo produjo iconos desalineados, espaciado irregular en los modales y un toast sin estado de fallo. Es un flujo de procesamiento por lotes de tres pantallas: barra de herramientas, modal y toast."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/62780457957c344884778b098d94ea00a9fe577d-4306x2632.png?rect=0,1,4306,2631&w=1080&h=660&q=75&fit=max&auto=format",
+          "cap": "La nueva barra de herramientas de la bandeja de entrada de Radicle, que admite seleccionar todo, marcar como no leído y eliminar."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador no empieza por el código. Primero redacta las pantallas, los estados y las transiciones, y luego entrega al agente el PRD junto con el código de los componentes existentes. Después usa generate_diagram para crear un diagrama editable en FigJam. Seleccionar todo marca todos los mensajes. Eliminar muestra un modal de confirmación, y deshacer en el toast devuelve el panel a su estado anterior. El diseñador y el responsable del sistema de diseño dejaron comentarios directamente sobre el diagrama en lugar de en un hilo de Slack."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/40a7948603a0bf3d91bf3694f1c28046a2d7d42d-1608x1072.png?w=804&h=536&q=75&fit=max&auto=format",
+          "cap": "Al entregar el diagrama de FigJam junto con la librería, el agente encuentra los componentes y variables que debe usar."
+        },
+        {
+          "t": "p",
+          "x": "Una vez aprobado, el diagrama se entrega al agente a través de Figma MCP server. Con solo una captura de pantalla, el desarrollador habría tenido que preguntar si un espacio de 12 px correspondía a un token correcto, o si ese botón ya existía como secundario en el repositorio. Ahora esa respuesta está en el archivo. Code Connect completa cómo se construyó cada componente. Una vez que el responsable del sistema de diseño conecta la librería al repositorio de GitHub y escribe los archivos de plantilla del botón y el modal, el agente parte de una implementación ya existente en lugar de escribir código nuevo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/75a410c0c97c35b54ee99a494113bb8ec688f930-1608x1072.png?w=1080&h=720&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Solo el estado de selección por lotes era nuevo, así que Code Connect no pudo mapearlo. El desarrollador buscó en la librería del equipo con search_design_system y encontró un componente similar de una función lanzada meses antes. El agente lo localizó en el código base y lo adaptó a este flujo."
+        },
+        {
+          "t": "p",
+          "x": "Mientras se construía el modal, el diseño cambió: el color de marca se oscureció y cambió el radio de las esquinas del botón. En lugar de corregirlo a mano, el desarrollador llamó a get_variable_defs para obtener las variables que usaba el modal, y el agente las comparó con los tokens del código y detectó de inmediato dos discrepancias."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5077c6268db5f84188c91c9ed2a2a5bfeb992c3a-1608x1072.png?w=804&h=536&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Quedaba el toast. Se había creado durante la construcción, existía solo en el código y no tenía estado de fallo. Al usar use_figma para subir el toast al lienzo como una capa editable, el diseñador añadió una acción de reintento, y después de que el responsable del sistema de diseño publicara el nuevo componente, se vinculó al código con Code Connect. A partir de ahí, fue como cualquier otro lanzamiento: la mayor parte del diff del pull request era lógica de funcionalidad. El ingeniero revisó el código y el diseñador vio la compilación de vista previa. El tiempo que antes se dedicaba a corregir el código generado por IA pasó a dedicarse a pulir la experiencia del usuario."
+        }
+      ]
     }
   }
 }

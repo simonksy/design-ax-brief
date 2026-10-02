@@ -3388,6 +3388,159 @@
           "x": "Pricing is on nicetouch.app. The five-day free trial unlocks every feature with 2,000 credits. Paid tiers are the 7,000-credit Pro at $67.75 a month and the 40,000-credit Ultra at $338.67 a month, with pay-as-you-go top-ups also available. Podimo and the University of Georgia's School of Social Work editing team are already using it."
         }
       ]
+    },
+    "movies/movies-eddie-ai-credits": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Eddie AI just made its broadest overhaul since v3. The biggest change isn't a feature. The subscription is gone. This assistant editor now runs on pay-as-you-go credits, opens its entire toolset to Claude and ChatGPT through an MCP server, and fits in your pocket with a native iPhone app."
+        },
+        {
+          "t": "p",
+          "x": "Pricing, access, and output all changed at once. The company says costs are roughly 50% lower under the new credit model. There are about 100 MCP tools, covering transcripts, soundbites, assembly, b-roll, captions, music, voiceover, multicam angles, and NLE export. A single chat window directs the edit. The company is showing all of this at IBC 2026 in Amsterdam."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Eddie-AI-2-900x506.jpeg",
+          "cap": "Source: Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "What changed the structure is pricing. Subscription tiers used to sit alongside credit options, but that structure is gone. The pricing page now has only credit packs: 1,000 credits for $10, 5,000 credits for $45, 15,000 credits for $120, 50,000 credits for $350, and custom pricing above that. Credits don't expire and unlock every feature regardless of pack size. Auto-reload is optional and off by default."
+        },
+        {
+          "t": "p",
+          "x": "Credits are charged for everything the system does. Importing footage costs around 500 credits per hour of source material, billed in 15-minute increments. Running an edit varies in cost by workload, and large jobs show an estimated cost before you run them. New accounts start with 1,000 free credits, enough to take one small project from import to export without spending anything."
+        },
+        {
+          "t": "p",
+          "x": "The second shift is distribution. With Eddie AI running as an MCP server, the Claude or ChatGPT window an editor already has open can drive the edit directly. Describe the cut you want in the chat, and it runs against footage already uploaded to the cloud."
+        },
+        {
+          "t": "p",
+          "x": "Inside ChatGPT, results come back as playback cards built from actual frames rather than links. The language model never touches the media. It plans and instructs, while Eddie AI holds the footage, timecodes, and timeline. The export path to editors finishing in Premiere Pro, DaVinci Resolve, or Final Cut Pro stays the same. You hand off the timeline, and a human does the finishing."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Eddie-AI-app-900x506.jpeg",
+          "cap": "The Eddie AI app. Source: Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "The iPhone app is a free download on the App Store, requiring iOS 15.1 or later. Its scope is deliberately narrow: you prompt an edit, review the finished cut, and either save the MP4 or share a link that opens without an account. The company is clear that this isn't a mobile editing tool. The heavy media stays in the cloud, and the app handles review and direction."
+        },
+        {
+          "t": "p",
+          "x": "The collaboration layer was also rebuilt. Projects sync in real time across web, desktop, and phone. Workspaces share team membership and a credit pool, and comments pin to an exact frame and go straight to the editor. Slack and Microsoft Teams integration and enterprise SSO are in now too."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/08/Eddie-AI-4-900x506.jpeg",
+          "cap": "Source: Eddie AI"
+        },
+        {
+          "t": "p",
+          "x": "It also generates material your shoot didn't capture. Audio covers original music, voiceover in a chosen voice, and dubbing tracks layered onto an existing edit, with automatic mixing. On the visual side, you can describe the shot you want in words to pull it from stock and drop it on the timeline, or generate b-roll outright. All of it is optional, and all of it is billed. Eddie AI repeats the same line here too: it doesn't invent your footage."
+        }
+      ]
+    },
+    "movies/movies-slapshot-comfy-nodes": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Core features of the AI-based VFX platform Slapshot — things like automatic rotoscoping and camera tracking — are now available as nodes inside Comfy, the environment for building AI pipelines."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_SlapshotComfyNodes_f-960x480.jpg",
+          "cap": "Slapshot Comfy nodes. Source: CG Channel"
+        },
+        {
+          "t": "p",
+          "x": "CG Channel tries to cover the big CG software updates that come out every week, but smaller updates and worthwhile plugins sometimes slip through. To avoid letting them go unnoticed, we've gathered game, VFX, and motion graphics tool news from last week that didn't get a standalone story. Below are the 3D Gaussian splatting app Postshot, the generative modeling tool Meshy, and AI VFX tools from Slapshot and Topaz Labs."
+        },
+        {
+          "t": "p",
+          "x": "Hyperion 2.5. Topaz Labs has updated its AI model for converting SDR to HDR, which moves 8-bit footage to 10-bit or 16-bit. Color processing, tonal separation, highlight detail, and overall sharpness have improved, and the color and luminance range is wider. Hyperion is used in the desktop app Topaz Video and the web app Astra, but 2.5 has so far only rolled out to Astra. Astra subscriptions start at $39 a month or $328 a year."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_Meshy7-960x480.jpg",
+          "cap": "Meshy 7. Source: CG Channel"
+        },
+        {
+          "t": "p",
+          "x": "Meshy 7. The generative AI model that creates 3D models from source images has moved to its seventh generation, improving the quality of models the web app produces. Overall proportions, the relative position of parts, and preservation of fine surface detail are all better. A commercial subscription is $20 a month, and studio is $70 a month. The free plan generates up to 10 models a month under a Creative Commons license."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_Postshot1169-960x480.jpg",
+          "cap": "Postshot 1.1.69. Source: CG Channel"
+        },
+        {
+          "t": "p",
+          "x": "Postshot 1.1.69. The scanning app that turns photographic stills or video into 3D Gaussian splats has refined its workflow a year after its commercial launch. New additions include an HTML export option, an SPZ export quality option, SPZ 4 support, an option to attach GPS location metadata to cameras and points, and point cloud import without color attributes. Non-commercial use is free, the indie subscription is €26 a month or €204 a year, and studio is €59 a month. It only supports Windows 10 or later."
+        },
+        {
+          "t": "p",
+          "x": "New Slapshot Comfy nodes. Slapshot's tools for pulling VFX assets from source footage — rotoscoping, camera tracking, motion vectors, and depth map generation — now run as nodes inside the Comfy interface for building generative AI workflows. The free Slapshot plan is limited to 2K sources, and commercial subscriptions start at $9 a month. The new Comfy nodes charge $0.25 per video frame processed. Comfy Desktop itself is a free download and runs on Windows, Linux, and macOS."
+        },
+        {
+          "t": "video",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/08/260823_CGSoftwareYouMayHaveMissed23August2026_SlapshotComfyUINodes.mp4"
+        }
+      ]
+    },
+    "movies/movies-usc-etc-beeble": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The University of Southern California's Entertainment Technology Center has brought Beeble's AI production tools into film education."
+        },
+        {
+          "t": "p",
+          "x": "Through the partnership, ETC students get hands-on experience with AI workflows in visual effects, virtual production, and cinematic storytelling."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/beebleetc001.jpg",
+          "cap": "Source: ProVideo Coalition"
+        },
+        {
+          "t": "p",
+          "x": "ETC is a think tank inside USC's School of Cinematic Arts. It has worked with major studios, technology companies, and filmmakers to validate new technologies and refine future production practices. It announced that it has now added Beeble to its film production research and practicum courses."
+        },
+        {
+          "t": "p",
+          "x": "Beeble has found a place across several programs. These include “Introduction to Practical Effects for Film,” led by Habib Zargarpour; “Directing with AI,” led by Fred Grinstein; and experimental film work in USC's Media Arts + Practice program, which includes Amazon-supported research and PhD work."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/beebleetc002.jpg",
+          "cap": "Source: ProVideo Coalition"
+        },
+        {
+          "t": "p",
+          "x": "“Visual effects workflows keep changing. It's important for students to understand both established production techniques and the emerging technologies that are shaking up the industry. Bringing tools like Beeble into the classroom becomes valuable hands-on experience,” said Erik Weaver, ETC's head of AI and emergent media."
+        },
+        {
+          "t": "p",
+          "x": "“One of the most rewarding outcomes is seeing students actually push ideas that would have once been beyond the scope of a class assignment,” said Tom Thudiyanplackal, producer and industry mentor at ETC. “They could dream about visual effects at this scale, but rarely got the chance to build them. Putting these kinds of tools in their hands opens up entirely new creative paths.”"
+        },
+        {
+          "t": "p",
+          "x": "The collaboration also extends into production research outside the classroom. One example is “Pathways,” written and directed by Felipe Vargas and shot by Roberto Schaefer, which explores new approaches to virtual production, cinematography, and AI-assisted world-building."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/beebleetc003.jpg",
+          "cap": "Source: ProVideo Coalition"
+        },
+        {
+          "t": "p",
+          "x": "“ETC plays the role of bringing educators, filmmakers, and industry together to validate emerging technologies,” said Beeble CEO Hoon Kim. “It's genuinely rewarding to see our tools used in that environment and contribute to how future production workflows will take shape.”"
+        }
+      ]
     }
   }
 }

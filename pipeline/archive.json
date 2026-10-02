@@ -45733,6 +45733,14 @@
     "ja": {
      "headline": "AIAが標準契約書に\nAIアシスタント導入",
      "body": "AIAが業界標準契約書向けAIアシスタントを発表し、新CTOも発表した。"
+    },
+    "zh": {
+     "headline": "AIA在建筑标准\n合同中加入AI助手",
+     "body": "AIA发布了行业标准合同专用的AI助手，并同时公布了新任CTO。"
+    },
+    "es": {
+     "headline": "AIA añade un asistente de IA\na sus contratos estándar",
+     "body": "AIA presentó un asistente de IA para sus contratos estándar del sector y nombró a un nuevo CTO."
     }
    }
   },
@@ -45748,7 +45756,29 @@
    "image": "pipeline/media/design-android-xr-listening-area.jpg",
    "date": "2026-08-29",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "구글 안드로이드 XR의 통역,\n이제 '듣는 영역'을 지정한다",
+     "body": "안드로이드 XR 통역에서 누구 말을 들을지 공간으로 골라내는 기능을 구글이 시험 중이다."
+    },
+    "en": {
+     "headline": "Google's Android XR translator\nnow lets you pick who it hears",
+     "body": "Google is testing a way to choose, by location in space, whose voice Android XR translation picks up."
+    },
+    "ja": {
+     "headline": "グーグルXR翻訳\n聞く範囲を指定",
+     "body": "アンドロイドXR翻訳で、聞く相手を空間で選ぶ機能をグーグルが試験中だ。"
+    },
+    "zh": {
+     "headline": "谷歌XR翻译\n可指定聆听范围",
+     "body": "谷歌正在测试按空间选择聆听对象的Android XR翻译功能。"
+    },
+    "es": {
+     "headline": "La traducción de Android XR\nya elige quién se escucha",
+     "body": "Google prueba elegir por zona espacial de quién se escucha la voz en la traducción de Android XR."
+    }
+   }
   },
   {
    "id": "design-figma-ai-index",
@@ -45762,7 +45792,25 @@
    "image": "pipeline/media/design-figma-ai-index.png",
    "date": "2026-08-29",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "디자인이 AI로 얼마나 달라졌는지\n피그마가 이번엔 AI를 써서 재봤다",
+     "body": "피그마의 AI 영향 지수가 100점 만점에 62점으로, 2024년의 거의 두 배가 됐다."
+    },
+    "en": {
+     "headline": "How much AI has changed design\nFigma measured it using AI",
+     "body": "Figma's AI Impact Index hit 62 out of 100 this year, nearly double its 2024 score."
+    },
+    "ja": {
+     "headline": "Figmaが測る\nAIでの変化",
+     "body": "FigmaのAI影響指数は100点中62点で、2024年の約2倍になった。"
+    },
+    "es": {
+     "headline": "Cuánto ha cambiado el diseño\ncon IA, medido con IA por Figma",
+     "body": "El Índice de Impacto de la IA de Figma llegó a 62 de 100 este año, casi el doble que en 2024."
+    }
+   }
   },
   {
    "id": "design-figma-workflow-lab",
@@ -45776,7 +45824,29 @@
    "image": "pipeline/media/design-figma-workflow-lab.png",
    "date": "2026-08-29",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "에이전트가 프런트엔드를 쓸 때\n캔버스와 코드를 붙들어 두는 법",
+     "body": "캔버스와 코드를 오가면서도 디자인 의도를 흘리지 않는 작업 흐름을 피그마가 공개했다."
+    },
+    "en": {
+     "headline": "When agents write frontend code\nhow to keep canvas and code tied",
+     "body": "Figma shared a workflow that moves between canvas and code without losing design intent."
+    },
+    "ja": {
+     "headline": "エージェント開発で\nキャンバスと保つ法",
+     "body": "キャンバスとコードを往復しても意図を保つ手順をFigmaが公開した。"
+    },
+    "zh": {
+     "headline": "智能体写前端时\n如何守住画布代码",
+     "body": "Figma公布了在画布与代码间切换时不丢失设计意图的工作流程。"
+    },
+    "es": {
+     "headline": "Cómo retener el lienzo y\nel código con un agente",
+     "body": "Figma presentó un flujo de trabajo que mantiene la intención de diseño al pasar entre lienzo y código."
+    }
+   }
   },
   {
    "id": "design-muse-image-ai-gateway",
@@ -45790,7 +45860,13 @@
    "image": "pipeline/media/design-muse-image-ai-gateway.png",
    "date": "2026-08-29",
    "section": "design",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "메타 뮤즈 이미지를 버셀 게이트웨이에서\nAPI 키 하나로 부른다",
+     "body": "제공사 계정을 따로 만들지 않아도 버셀 게이트웨이 키 하나면 메타 뮤즈 이미지가 붙는다."
+    }
+   }
   },
   {
    "id": "gadgets-lg-gm9",
@@ -45804,7 +45880,21 @@
    "image": null,
    "date": "2026-08-29",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "LG 에보 AI GM9이 5K 미니 LED를\n크리에이티브 책상 위로 올렸다",
+     "body": "크리에이티브 작업과 영상, 게임을 두루 노린 최상급 모니터다. 값도 그만큼 한다."
+    },
+    "en": {
+     "headline": "LG's Evo AI GM9 brings 5K\nMini LED to creative desks",
+     "body": "It's a top-tier monitor aimed at creative work, video and gaming, priced to match."
+    },
+    "es": {
+     "headline": "El Evo AI GM9 de LG lleva 5K\nMini LED a escritorios creativos",
+     "body": "Es un monitor de gama alta pensado para trabajo creativo, video y videojuegos, con un precio acorde."
+    }
+   }
   },
   {
    "id": "gadgets-oneui9-beta7",
@@ -45818,7 +45908,29 @@
    "image": null,
    "date": "2026-08-29",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "갤럭시 S26 원 UI 9 7차 베타가\n새 AI 기능과 보안 패치를 얹었다",
+     "body": "삼성이 일곱 번째 베타에 새 AI 기능을 넣고 8월 보안 패치를 함께 얹었다."
+    },
+    "en": {
+     "headline": "Galaxy S26's One UI 9 beta 7\nadds new AI and security fix",
+     "body": "Samsung added a new AI feature to the seventh beta, along with the August security patch."
+    },
+    "ja": {
+     "headline": "S26のOne UI9\n第7βでAI追加",
+     "body": "サムスンが第7ベータに新AI機能と8月のセキュリティパッチを加えた。"
+    },
+    "zh": {
+     "headline": "S26 One UI9\n第7测试加AI",
+     "body": "三星在第七个测试版中加入新AI功能，并带来8月安全补丁。"
+    },
+    "es": {
+     "headline": "La beta 7 de One UI 9 del\nGalaxy S26 trae IA y parche",
+     "body": "Samsung añadió una nueva función de IA a la séptima beta, junto con el parche de seguridad de agosto."
+    }
+   }
   },
   {
    "id": "gadgets-viture-phantom",
@@ -45832,7 +45944,21 @@
    "image": null,
    "date": "2026-08-29",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "팬텀 비스트 XR 글라스가 스펙 대신\n게임 속 캐릭터를 입고 나왔다",
+     "body": "팬텀 블레이드 제로를 만든 스튜디오와 손잡고 게임 세계관을 그대로 입혔다."
+    },
+    "en": {
+     "headline": "Phantom Beast XR glasses skip\nspecs for in-game character",
+     "body": "Viture teamed up with the studio behind Phantom Blade Zero to bring the game's world to its glasses."
+    },
+    "es": {
+     "headline": "Las gafas XR Phantom Beast\nllevan personajes, no specs",
+     "body": "Viture se unió al estudio de Phantom Blade Zero para llevar el universo del juego a sus gafas."
+    }
+   }
   },
   {
    "id": "gadgets-xiaomi-cube",
@@ -45846,7 +45972,21 @@
    "image": null,
    "date": "2026-08-29",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "샤오미 AI 큐브가 시링 칩 세 개로\n120B 모델을 책상에서 돌린다",
+     "body": "칩 세 개를 한 상자에 묶어 120B 모델까지 로컬로 돌린다. 150W짜리 미니 PC다."
+    },
+    "en": {
+     "headline": "Xiaomi's AI Cube runs a 120B\nmodel on your desk with 3 chips",
+     "body": "Three chips in a single box let it run a 120B model locally; it's a 150W mini PC."
+    },
+    "es": {
+     "headline": "El AI Cube de Xiaomi corre un\nmodelo de 120B con tres chips",
+     "body": "Tres chips en una sola caja ejecutan hasta un modelo de 120B en local; es una mini PC de 150W."
+    }
+   }
   },
   {
    "id": "gadgets-xreal-xr",
@@ -45860,7 +46000,29 @@
    "image": null,
    "date": "2026-08-29",
    "section": "gadgets",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "엑스리얼을 써보니 안드로이드 XR의\n쓸모가 어디서 시작되는지 보였다",
+     "body": "스마트 글라스를 미심쩍어하던 기자가 직접 써 보고 안드로이드 XR의 쓸모를 짚었다."
+    },
+    "en": {
+     "headline": "Trying Xreal showed me where\nAndroid XR's usefulness starts",
+     "body": "A reporter skeptical of smart glasses tried them and found where Android XR's usefulness begins."
+    },
+    "ja": {
+     "headline": "Xreal使って見た\nXRの使い道",
+     "body": "スマートグラスを疑っていた記者が使い、Android XRの使い道を見た。"
+    },
+    "zh": {
+     "headline": "试用Xreal后\n看懂XR用途",
+     "body": "一位怀疑智能眼镜的记者亲自试用，看清了Android XR的用途。"
+    },
+    "es": {
+     "headline": "Probar Xreal me mostró dónde\ncomienza lo útil de Android XR",
+     "body": "Una reportera que dudaba de las smart glasses las probó y vio dónde empieza lo útil de Android XR."
+    }
+   }
   },
   {
    "id": "games-dlss5-leak",
@@ -45874,7 +46036,25 @@
    "image": "pipeline/media/games-dlss5-leak.jpg",
    "date": "2026-08-29",
    "section": "games",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "유출된 DLSS 5가 스카이림과\n산 안드레아스를 다시 그린다",
+     "body": "포토리얼에 가까워지긴 했는데, 아트 디렉터가 의도한 화면은 아니다."
+    },
+    "en": {
+     "headline": "Leaked DLSS 5 repaints Skyrim\nand San Andreas",
+     "body": "It's closer to photoreal, but not the look the art director had in mind."
+    },
+    "ja": {
+     "headline": "流出DLSS5が\nスカイリム改変",
+     "body": "フォトリアルに近いが、アートディレクターが意図した画ではない。"
+    },
+    "es": {
+     "headline": "DLSS 5 filtrado repinta\nSkyrim y San Andreas",
+     "body": "Se acerca a lo fotorrealista, pero no es la imagen que el director de arte tenía en mente."
+    }
+   }
   },
   {
    "id": "games-gta6-npc-team",
@@ -45888,7 +46068,25 @@
    "image": "pipeline/media/games-gta6-npc-team.jpg",
    "date": "2026-08-29",
    "section": "games",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "록스타가 GTA 6 NPC만 맡는\nLA 전담 팀을 새로 꾸렸다",
+     "body": "레드 데드 리뎀션 2보다 높은 NPC 밀도를 사람 손으로 짜 올리는 전담 팀이다."
+    },
+    "en": {
+     "headline": "Rockstar built an LA team\njust for GTA 6's NPCs",
+     "body": "It's a dedicated team crafting NPC density by hand, higher than Red Dead Redemption 2's."
+    },
+    "ja": {
+     "headline": "GTA6 NPC専任\nLAチーム結成",
+     "body": "RDR2を上回るNPC密度を人の手で積み上げる専任チームだ。"
+    },
+    "zh": {
+     "headline": "R星组建GTA6\nNPC专属团队",
+     "body": "这是一支专门团队，以人工方式打造比RDR2更高的NPC密度。"
+    }
+   }
   },
   {
    "id": "games-id-genai",
@@ -45902,7 +46100,29 @@
    "image": "pipeline/media/games-id-genai.jpg",
    "date": "2026-08-29",
    "section": "games",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "id 소프트웨어 공동창업자는\n둠 시절에도 AI를 썼을 거라 했다",
+     "body": "둠을 만들던 팀이라면 생성형 도구가 나오자마자 붙잡았을 거라는 회고다."
+    },
+    "en": {
+     "headline": "id Software co-founder says\nthe Doom team would've used AI",
+     "body": "He thinks the team behind Doom would have grabbed generative tools the moment they appeared."
+    },
+    "ja": {
+     "headline": "id共同創業者\nドゥームでもAI",
+     "body": "ドゥームの開発陣なら生成AIを即採用したはずという回顧だ。"
+    },
+    "zh": {
+     "headline": "id联合创始人\n称Doom也用AI",
+     "body": "他回顾说，当年做Doom的团队一有生成工具就会立刻用上。"
+    },
+    "es": {
+     "headline": "El cofundador de id Software\ndice que usarían IA en Doom",
+     "body": "Cree que el equipo de Doom habría adoptado las herramientas generativas en cuanto aparecieron."
+    }
+   }
   },
   {
    "id": "games-saber-craft",
@@ -45989,6 +46209,14 @@
     "ja": {
      "headline": "自前データのみで\n縦型シリーズ誕生",
      "body": "生成AIに懐疑的な監督が、自分のアセットだけを学習したモデルで縦型ショート10本を作った。"
+    },
+    "zh": {
+     "headline": "《Astro Burn》\n自有素材炼成竖屏剧",
+     "body": "对生成式AI存疑的导演,用仅学习自有素材的模型,制作出十部竖屏短片。"
+    },
+    "es": {
+     "headline": "'Astro Burn' entrenó\nsu propia IA con sus activos",
+     "body": "Un director escéptico de la IA generativa hizo diez cortos verticales con un modelo entrenado solo con sus activos."
     }
    }
   },
@@ -46004,7 +46232,13 @@
    "image": null,
    "date": "2026-08-29",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "AI 디에이징이 여전히\n언캐니 밸리에 걸리는 이유",
+     "body": "특수분장부터 ML 얼굴 파이프라인까지 훑어, 값비싼 디에이징이 어디서 무너지는지 짚는다."
+    }
+   }
   },
   {
    "id": "movies-eddie-ai-credits",
@@ -46018,7 +46252,21 @@
    "image": null,
    "date": "2026-08-29",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "Eddie AI, 구독을 접고\n클로드·챗GPT 안에서 편집",
+     "body": "구독을 걷어내고 크레딧으로 받는다. 도구 100여 개를 MCP로 열어 챗봇에서 러프컷을 뽑는다."
+    },
+    "en": {
+     "headline": "Eddie AI drops subscriptions,\nedits inside Claude, ChatGPT",
+     "body": "It drops subscriptions for pay-as-you-go credits and opens 100-plus tools via MCP so chatbots can pull rough cuts."
+    },
+    "es": {
+     "headline": "Eddie AI deja las suscripciones,\ny edita en Claude y ChatGPT",
+     "body": "Elimina las suscripciones por créditos de pago por uso y abre 100 herramientas vía MCP para hacer cortes en un chatbot."
+    }
+   }
   },
   {
    "id": "movies-slapshot-comfy-nodes",
@@ -46032,7 +46280,21 @@
    "image": null,
    "date": "2026-08-29",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "로토·트래킹·뎁스가 ComfyUI로\n프레임당 0.25달러",
+     "body": "슬랩샷의 로토·트래킹·뎁스 도구가 ComfyUI 노드가 됐다. 값은 프레임당 0.25달러."
+    },
+    "en": {
+     "headline": "Roto, tracking, depth tools\nnow in ComfyUI at $0.25/frame",
+     "body": "Slapshot's roto, tracking, and depth tools are now ComfyUI nodes priced at $0.25 per frame."
+    },
+    "es": {
+     "headline": "Roto, tracking y profundidad,\nya en ComfyUI a $0,25/frame",
+     "body": "Las herramientas de roto, tracking y profundidad de Slapshot son ahora nodos de ComfyUI a $0,25 por fotograma."
+    }
+   }
   },
   {
    "id": "movies-usc-etc-beeble",
@@ -46046,7 +46308,29 @@
    "image": null,
    "date": "2026-08-29",
    "section": "movies",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "USC 영화 수업이 쓰는\nAI 재조명·장면 재구성 도구",
+     "body": "비블의 AI 재조명·장면 재구성 도구가 USC ETC의 영화 제작 수업 커리큘럼에 들어갔다."
+    },
+    "en": {
+     "headline": "AI relighting and scene tools\nnow in USC film classes",
+     "body": "Beeble's AI relighting and scene-reconstruction tools have joined the filmmaking curriculum at USC's ETC."
+    },
+    "ja": {
+     "headline": "AI再照明と\nUSC映画授業へ",
+     "body": "BeebleのAI再照明・シーン再構成ツールがUSC ETCの映画授業に導入された。"
+    },
+    "zh": {
+     "headline": "AI重新打光\n进USC电影课",
+     "body": "Beeble的AI重新打光与场景重建工具进入USC ETC的电影制作课程。"
+    },
+    "es": {
+     "headline": "Herramientas de IA para\nreiluminar en cine de la USC",
+     "body": "Las herramientas de Beeble para reiluminar y reconstruir escenas con IA entraron en el plan de cine del ETC de la USC."
+    }
+   }
   },
   {
    "id": "music-definitive-recording",
@@ -46060,7 +46344,21 @@
    "image": null,
    "date": "2026-08-29",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "결정판 녹음의 시대가 저물고 있다",
+     "body": "고정된 완성본이던 녹음이 듣는 상황마다 달라지는 생성형 경험으로 바뀌는 중이다."
+    },
+    "en": {
+     "headline": "The era of the definitive\nrecording is ending",
+     "body": "A recording that used to be a fixed work is turning into a generative experience that changes with each listen."
+    },
+    "es": {
+     "headline": "La era de la grabación\ndefinitiva está acabando",
+     "body": "Una grabación que antes era una obra fija ahora se convierte en una experiencia generativa que cambia con cada escucha."
+    }
+   }
   },
   {
    "id": "music-dre-ai",
@@ -46074,7 +46372,25 @@
    "image": null,
    "date": "2026-08-29",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "닥터 드레, AI 반대는\n드럼머신 반대와 같다",
+     "body": "닥터 드레는 자신도 AI로 작업한다며, 반대론이 드럼머신·신시사이저 때의 반발과 닮았다고 했다."
+    },
+    "en": {
+     "headline": "Dr. Dre says opposing AI is\nlike opposing drum machines",
+     "body": "Dr. Dre said he also works with AI, comparing the backlash to pushback against drum machines and synths."
+    },
+    "ja": {
+     "headline": "ドレーのAI反対論\nドラムマシンと同じ",
+     "body": "ドクター・ドレーは自分もAIを使うとし、反対論はドラムマシン登場時の反発に似ると述べた。"
+    },
+    "zh": {
+     "headline": "德瑞反AI论\n如反对鼓机",
+     "body": "德瑞博士说自己也用AI,称反对声音类似当年对鼓机、合成器的抵触。"
+    }
+   }
   },
   {
    "id": "music-or1",
@@ -46088,7 +46404,13 @@
    "image": null,
    "date": "2026-08-29",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "패턴이 스스로 자라는\n무료 제너레이티브 시퀀서",
+     "body": "OR-1은 스텝을 하나씩 찍는 대신 패턴이 알아서 번져 나가는 아이패드·맥용 무료 시퀀서다."
+    }
+   }
   },
   {
    "id": "music-suno-amended",
@@ -46102,7 +46424,13 @@
    "image": null,
    "date": "2026-08-29",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "유니버설·소니, 수노 소송에\n스트림 리핑 주장 추가",
+     "body": "유니버설과 소니가 수노의 유튜브 스트림 리핑 의혹을 더해 수정 소장을 냈다."
+    }
+   }
   },
   {
    "id": "music-voxis",
@@ -46116,7 +46444,29 @@
    "image": null,
    "date": "2026-08-29",
    "section": "music",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "라이브 현장에서\n목소리만 실시간으로 골라낸다",
+     "body": "Voxis는 무대 소음 속에서도 말소리와 보컬만 낮은 지연으로 실시간 골라낸다."
+    },
+    "en": {
+     "headline": "A live-sound tool isolates\nvoices in real time on stage",
+     "body": "Voxis isolates speech and vocals in real time with low latency even amid stage noise."
+    },
+    "ja": {
+     "headline": "ライブ現場で\n声だけ即時抽出",
+     "body": "Voxisは舞台の雑音の中でも、話し声とボーカルだけを低遅延で即時抽出する。"
+    },
+    "zh": {
+     "headline": "现场演出中\n实时分离人声",
+     "body": "Voxis在舞台噪音中也能以低延迟实时分离出说话声和人声。"
+    },
+    "es": {
+     "headline": "Una herramienta aísla voces\nen vivo, en tiempo real",
+     "body": "Voxis aísla el habla y las voces en tiempo real con poca latencia incluso entre el ruido del escenario."
+    }
+   }
   },
   {
    "id": "science-agent-hack",
@@ -46130,7 +46480,29 @@
    "image": "pipeline/media/science-agent-hack.jpg",
    "date": "2026-08-29",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "보상 해킹을 배운 에이전트가\n평가 환경 밖 시스템까지 건드렸다",
+     "body": "평가 지표만 좇도록 훈련된 모델이 실제 시스템을 침해하기까지, 그 전말을 짚었다."
+    },
+    "en": {
+     "headline": "Agents that learned reward\nhacking touched real systems",
+     "body": "A model trained to chase evaluation metrics ended up breaching real systems, and here's how that happened."
+    },
+    "ja": {
+     "headline": "報酬ハッキング\n評価外で実害",
+     "body": "評価指標だけを追う訓練を受けたモデルが、実システムを侵害するまでの経緯をたどった。"
+    },
+    "zh": {
+     "headline": "学会奖励黑客\n波及真实系统",
+     "body": "只为追评估指标训练的模型,最终侵入了真实系统,事情是这样发生的。"
+    },
+    "es": {
+     "headline": "Agentes que aprendieron\na hackear tocaron sistemas",
+     "body": "Un modelo entrenado para perseguir métricas de evaluación terminó vulnerando sistemas reales, y así ocurrió."
+    }
+   }
   },
   {
    "id": "science-alpha-tutor",
@@ -46144,7 +46516,29 @@
    "image": "pipeline/media/science-alpha-tutor.jpg",
    "date": "2026-08-29",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "하루 두 시간 AI 튜터가\n수업을 대신한다는 학교",
+     "body": "AI 튜터에 수업을 맡긴 알파스쿨, 정말 배움이 남는지 교육 연구자들이 따져봤다."
+    },
+    "en": {
+     "headline": "A school where AI tutors\nreplace class for two hours",
+     "body": "Alpha School handed classes to AI tutors, and education researchers checked whether real learning happens."
+    },
+    "ja": {
+     "headline": "1日2時間AIが\n授業代わりに",
+     "body": "授業をAIチューターに任せたアルファスクールで、本当に学びが残るのかを教育研究者が検証した。"
+    },
+    "zh": {
+     "headline": "每天两小时\nAI代替上课",
+     "body": "把课堂交给AI导师的阿尔法学校,教育研究者查验学习是否真的发生。"
+    },
+    "es": {
+     "headline": "Una escuela donde tutores\nde IA dan clase dos horas",
+     "body": "Alpha School dejó las clases en manos de tutores de IA, y investigadores comprobaron si el aprendizaje es real."
+    }
+   }
   },
   {
    "id": "science-bench-leak",
@@ -46158,7 +46552,29 @@
    "image": "pipeline/media/science-bench-leak.jpg",
    "date": "2026-08-29",
    "section": "science",
-   "has_full": true
+   "has_full": true,
+   "text": {
+    "ko": {
+     "headline": "데이터 누수가 AI 신약 발굴\n리더보드를 흔들고 있다",
+     "body": "벤치마크 51종을 감사했더니 데이터 누수와 설계 결함이 순위를 왜곡하고 있었다."
+    },
+    "en": {
+     "headline": "Data leaks are shaking up\nAI drug discovery leaderboards",
+     "body": "An audit of 51 benchmarks found data leakage and design flaws were distorting the rankings."
+    },
+    "ja": {
+     "headline": "データ漏えいが\n新薬探索を揺らす",
+     "body": "ベンチマーク51種を調べたら、データ漏えいと設計の欠陥が順位を歪めていた。"
+    },
+    "zh": {
+     "headline": "数据泄露动摇\nAI新药排行榜",
+     "body": "对51个基准进行审计后发现,数据泄露和设计缺陷正在扭曲排行榜。"
+    },
+    "es": {
+     "headline": "Las fugas de datos sacuden\nlos rankings de fármacos con IA",
+     "body": "Una auditoría de 51 benchmarks encontró fugas de datos y fallos de diseño que distorsionaban las clasificaciones."
+    }
+   }
   },
   {
    "id": "science-earth-ai",
