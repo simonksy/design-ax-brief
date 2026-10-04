@@ -2285,37 +2285,65 @@
   {
    "url": "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Sudowrite Chat 속도 두 배, 원고 인쇄도 Sudowrite Chat이 두 배 빨라졌고 Rewrite 개선과 인쇄도 더해졌다.",
    "title": "Faster Chat, Better Rewrite & Printing",
    "excerpt": "Sudowrite's Chat responses are now twice as fast, with an improved Rewrite tool and new printing support for manuscripts."
   },
   {
    "url": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "OpenAI가 배제 요청한 market-harm 연구 OpenAI가 로펌 자금과 얽혔다며 AI 도서 시장 피해 연구 배제를 요청했다.",
    "title": "OpenAI seeks to exclude book market study, citing funding ties to authors' law firm",
    "excerpt": "The accuracy and funding of research claiming Gen AI causes market harm have become important questions in the consolidated lawsuits."
   },
   {
    "url": "https://vnews.com/2026/10/02/ai-book-controversy-claremont/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Claremont 작가 신간 AI 삽화 논란 Giulio Savo AI-illustrated 책이 Claremont서 비판받다.",
    "title": "Claremont author faces criticism over AI art in new book",
    "excerpt": "Claremont Middle School hosted author Giulio Savo and his book \"Directive Detectives: The Freedom Trail Directive,\" sparking debate over the use of AI in children's literature."
   },
   {
    "url": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "AI 기업들 오디오북 시장 겨냥 ElevenLabs와 Spoken이 fast-growing 오디오북 시장을 노린다.",
    "title": "Is AI coming for audiobooks?",
    "excerpt": "AI companies like ElevenLabs and Spoken are angling for the fast-growing audiobook market. It remains to be seen if consumers will buy in."
   },
   {
    "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Bonnie Garmus: AI가 드러낸 인간의 오만 소설가 Bonnie Garmus는 AI가 인간의 오만까지 드러냈다고 본다.",
    "title": "AI might kill us, but is that so bad?",
    "excerpt": "While the advent of AI has alarmed most writers, Bonnie Garmus argues it has also shone a light on the hubris of humankind."
+  },
+  {
+   "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "EWC denounces AI Tech's practice of shredding books and calls on Europe's decision-makers to take a firm stand",
+   "excerpt": "The EWC condemns the AI tech practice of « destructively scanning » millions of old or rare European books and calls upon decision-makers and the whole of our European society to speak up loudly on behalf of authors, publishers, and readers on this predatory exploitation."
+  },
+  {
+   "url": "https://www.channelnewsasia.com/watch/hong-kong-comics-scene-creators-turning-ai-in-bid-recapture-industrys-heyday-6427021",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Hong Kong comics scene: Creators turning to AI in bid to recapture industry's heyday",
+   "excerpt": "Hong Kong was once a comic powerhouse, producing titles that sold millions of copies each year. But while creators still win awards, sales are a fraction of what they used to be. Jeraldine Yap reports."
+  },
+  {
+   "url": "https://www.hindustantimes.com/lifestyle/art-culture/booksmart-and-shelf-aware-how-ai-and-bots-are-changing-libraries-101790935951543.html",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Book-smart and shelf aware: How AI and bots are changing libraries",
+   "excerpt": "Around the world, shelf-reading bots and AI cataloguing are changing the way we borrow from libraries. What does this mean for a millennia-old institution?&nbsp;"
+  },
+  {
+   "url": "https://www.thecooldown.com/green-tech/library-bye-bye-ai-event-viral/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "In New York, a small library's 'Bye Bye AI' event to remove AI features goes viral",
+   "excerpt": "A public library in upstate New York has gone viral for offering an unusual kind of tech assistance: helping people switch off AI features on their phones and computers."
   }
  ],
  "design": [
@@ -5255,37 +5283,72 @@
   {
    "url": "https://develop3d.com/ai/classcad-ai-cad-mcp/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "ClassCAD.ai, AI 에이전트에 CAD ClassCAD.ai가 Claude·Codex용 CAD 모델링 MCP로 출시됐다.",
    "title": "ClassCAD.ai brings its CAD model-building MCP to your system",
    "excerpt": "ClassCAD.ai has been launched as an AI-driven embeddable CAD, that's a self contained MCP able to build CAD in your Claude/Codex"
   },
   {
    "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Flux 3 Image 나머지는 두고 편집 Flux 3 Image는 나머지를 그대로 두고 최대 4K 해상도로 단계별 편집한다.",
    "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
    "excerpt": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are coming in the next few weeks."
   },
   {
    "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Ideogram 4.5, 일부만 고치고 나머지 유지 Ideogram 4.5는 고른 영역만 고치며 장당 0.8센트부터 2K로 출력한다.",
    "title": "Ideogram says its new model can edit part of an image without messing up the rest",
    "excerpt": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, and Leonardo AI are already on board. An open-weight release is planned."
   },
   {
    "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "느린 AI의 해법은 디자인 더 싼 추론이 아니다 Doherty 임계값은 답변이 아닌 확인에 걸리니 체감 속도는 프런트엔드 몫이다.",
    "title": "Stop blaming the model for slow AI. Using Doherty's threshold as a guideline.",
    "excerpt": "Doherty's threshold has moved from the answer to the acknowledgment: designing AI products for perceived speed is a week of front-end work and a definition of done, not cheaper inference."
   },
   {
    "url": "https://www.infoq.com/articles/regeneratable-ui-component-library/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "공유 UI 라이브러리, 재사용에서 재생성으로 모델이 표준 UI를 즉석에서 다시 만들면 일관성은 토큰·가이드라인·테스트가 맡는다.",
    "title": "From Reusable to Regeneratable: Rethinking the Shared UI Component Library",
    "excerpt": "Regeneration has changed reuse economics. A model pointed at a solid design system can produce most standard UI on demand, so paying to keep a canonical component package alive is much harder to justify than it used to be. Keep the design system, tokens, guidelines and tests central. They are what actually buy you consistency."
+  },
+  {
+   "url": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Formas.AI unveils native agentic 3D modeller",
+   "excerpt": "Forma.AI unveils Cartesian, a native agentic 3D modeller for the physical world, where editable geometry meets spatial design reasoning"
+  },
+  {
+   "url": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Adobe's Prompt to Edit Lightroom: Restore Old Photos Fast",
+   "excerpt": "Adobe's new Prompt to Edit feature in Lightroom uses AI to restore old photographs, fix focus issues, colorize black-and-white images, and correct color casts. Hands-on results with Color Restoration and custom prompts."
+  },
+  {
+   "url": "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "ChatGPT Sites hosts your website in public beta, with no data residency at launch",
+   "excerpt": "ChatGPT will host a website, a web app or a game for subscribers on five of its plans, and OpenAI's documentation for the feature puts one limit in"
+  },
+  {
+   "url": "https://pandaily.com/manycore-aholo-lux3d-blender-agent-3d-ai-harness-workflow",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Manycore's Aholo Lux3D Turns Three Photos Into an Editable 3D Asset via Agent and Blender",
+   "excerpt": "A Leiphone test shows Manycore's Aholo Lux3D generating an editable bronze sculpture from three photos, with an AI agent orchestrating the job and Blender finishing it."
+  },
+  {
+   "url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
+   "excerpt": "Adobe's free Premiere for Android brings mobile video editing with AI features such as Enhance Audio, with Firefly-powered Generative Fill, Image-to-Video and Generate Sound Effects on generative credits."
   }
  ],
  "gadgets": [
@@ -7847,37 +7910,58 @@
   {
    "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Android 비서, Gemini로 완전 교체 Android Google Assistant 종료가 퍼지며 Gemini가 대신한다.",
    "title": "Gemini fully replaces Google Assistant on Android",
    "excerpt": "At the start of September, the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out."
   },
   {
    "url": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Apple, 녹화 안 하는 카메라 개발설 Apple이 녹화 없이 AI로 집 안 움직임을 읽는 홈캠을 만드는 중이라고 한다.",
    "title": "Apple is reportedly building a smart home camera that won't record video footage of you or anyone else",
    "excerpt": "The device will apparently use AI to analyze activity in your home without actually filming it."
   },
   {
    "url": "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Insta360 카메라가 무료 3D 공간 스캐너로 무료 Spatial Capture가 360 영상을 실내 3D 모델로 바꿔 준다.",
    "title": "Insta360 turns its action cameras into free 3D scanners — Spatial Capture tool uses Gaussian Splatting to build 3D models with 4 free renders a month",
    "excerpt": "Insta360 has launched Spatial Capture, a free feature that uses 3D Gaussian Splatting to turn short 360 videos into explorable 3D models of indoor spaces."
   },
   {
    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Meta, Muse AI 기기 제작 코드 공개 Meta가 Muse AI 기기 코드를 공개하며 위험은 각자 책임이라고 경고했다.",
    "title": "Meta open sources code to let you make Muse AI gadgets",
    "excerpt": "“Proceed at your own risk!”"
   },
   {
    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "64GB DGX Spark Nvidia $4,999~ Nvidia GB10 64GB DGX Spark는 $4,999로 메모리 외엔 같다.",
    "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse — new GB10 config starts at $4999 for those who can work with less",
    "excerpt": "Less memory, lower price, otherwise identical"
+  },
+  {
+   "url": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Apple's cheapest iPad is finally getting Apple Intelligence, leaked code shows",
+   "excerpt": "Leaked code indicates Apple's next entry-level iPad will support Apple Intelligence, bringing on-device AI features to its cheapest tablet."
+  },
+  {
+   "url": "https://www.notebookcheck.net/Boston-Dynamics-Atlas-robot-gets-new-hands.1413778.0.html",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Boston Dynamics' Atlas robot gets new hands",
+   "excerpt": "Boston Dynamics showed redesigned hands for its electric Atlas humanoid, aimed at more dexterous manipulation for real-world tasks."
+  },
+  {
+   "url": "https://www.uploadvr.com/ray-ban-meta-audio-glasses-no-camera/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Ray-Ban Meta Audio Drops The Camera For A Lighter, Socially Acceptable Design",
+   "excerpt": "Ray-Ban Meta Audio drops the camera for a lighter and sleeker design that's likely to be more socially acceptable amid the public privacy backlash."
   }
  ],
  "games": [
@@ -10257,37 +10341,72 @@
   {
    "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "UE5로 말하는 AI NPCs 만들기 Codex와 Unreal MCP, OpenAI API로 UE5 NPCs를 만든다.",
    "title": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra",
    "excerpt": "A step-by-step guide to animated NPCs, AI-generated dialogue, and conversation history with Codex, Unreal MCP, UnrealAI, and the OpenAI API.  https://dev.epicgames.com/community/learning/tutorials/9mlkB/building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra"
   },
   {
    "url": "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "LocHub이 AI 번역을 Unreal Editor에 LocHub은 내 AI 키로 Unreal 문자열을 번역하고 다른 AI로 검수한다.",
    "title": "Dmitriy Vergasov - LocHub - AI Assisted Localization System",
    "excerpt": "LocHub brings AI translation into the Unreal Editor without taking the control away from you. Your project's strings go to the AI provider you choose, under your own key; built-in checks and a second AI catch the problems; you review the result in one place and pull it back as plain Unreal localizat"
   },
   {
    "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "생성형 AI가 게임사 업무를 늘리나 GamesIndustry.biz HR 회의서 genAI 이득을 불안·유출이 깎았다.",
    "title": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
    "excerpt": "At the GamesIndustry.biz HR Summit, attendees explained how any efficiency gains from generative AI are countered by employee anxiety, potential data leaks, and"
   },
   {
    "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Banjo-Tooie의 vibe-coded판 뭇매 Zelda·Banjo 이식팀이 vibe-coded Banjo-Tooie를 비판했다.",
    "title": "Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: \"throwing AI at it is just disrespectful\"",
    "excerpt": "\"AI bros are definitely not beating the"
   },
   {
    "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "AI-made 폴아웃에 ZeniMax C&D 주장 Fallout: New York 제작자는 ZeniMax의 C&D를 받았다고 했다.",
    "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
    "excerpt": "Bethesda have seemingly slapped an AI-generated Fallout: New York browser game with cease and desist order."
+  },
+  {
+   "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs-and-more-exclusive/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Stardock unveils Clairvoyance AI productivity tools for game devs and more | exclusive",
+   "excerpt": "Brad Wardell's Stardock unveiled Clairvoyance, a set AI tools that is making game developers and other more productive."
+  },
+  {
+   "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects",
+   "excerpt": "Vibe coders are getting legal notices"
+  },
+  {
+   "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Vibe-coded mashup mods are flooding X/Twitter, and modders hate it",
+   "excerpt": "A wave of AI-decompiled mashup mods has taken over X/Twitter this week."
+  },
+  {
+   "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads",
+   "excerpt": "Total War: Warhammer 3 mod SFO: Grimhammer 3 has been \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads."
+  },
+  {
+   "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+   "excerpt": "During a presentation on the future of RE Engine, Capcom laid out its plans to embrace AI in ‘development workflows.’"
   }
  ],
  "movies": [
@@ -12695,37 +12814,72 @@
   {
    "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "BBC 수장 AI-Made 닥터 후 '꽤 좋다' BBC Matt Brittin은 전부 AI가 만든 닥터 후를 '꽤 좋다'고 했다.",
    "title": "BBC Boss Matt Brittin Says He Was Sent A 'Doctor Who' Episode Entirely Generated By AI",
    "excerpt": "BBC director-general Matt Brittin says he watched an unofficial, fully AI-generated 'Doctor Who' episode and found it 'pretty good', raising IP and craft questions for broadcasters."
   },
   {
    "url": "https://www.awn.com/animationworld/tripo-ais-yanpei-cao-talks-smartmesh-open-source-and-previs",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Tripo, 프리비즈용 SmartMesh 제안 Tripo AI는 생성형 3D 도구가 레퍼런스·블록아웃·프리비즈를 돕는다고 했다.",
    "title": "Tripo AI's Yanpei Cao Talks SmartMesh, Open Source and Previs",
    "excerpt": "Tripo AI's chief scientist, fresh off a SIGGRAPH Real-Time Live! Best in Show, explains how its generative 3D tools (SmartMesh) help artists with reference, blockouts and previs."
   },
   {
    "url": "https://www.cartoonbrew.com/festivals/lightbox-expo-bobby-chiu-jim-demonakos-267289.html",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "LightBox Expo 생성형 AI에 강경 노선 LightBox Expo 창립자들은 생성형 AI를 도둑질로 보고 금지한다고 했다.",
    "title": "LightBox Founders On Taking A Hard Line Against Generative AI: 'We Think Generative AI Is Theft And It's Not Real Art'",
    "excerpt": "LightBox Expo co-founders Bobby Chiu and Jim Demonakos explain why the animation/concept-art expo bans generative AI and how studios recruiting there responded."
   },
   {
    "url": "https://www.youtube.com/watch?v=0yv0r5UyzCY",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "AI 사운드 디자인 시험대에 오르다 Curious Refuge가 새 AI 사운드 도구의 후반 작업 활용도를 시험했다.",
    "title": "AI Sound Design Is Here... But Is It Any Good?",
    "excerpt": "Curious Refuge tests the latest AI sound-design tools across multiple workflows to see how they affect film and video post-production."
   },
   {
    "url": "https://www.youtube.com/watch?v=BFsVW1DrLng",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "무료 AI 도구로 영상에서 뎁스 맵 추출 Curious Refuge가 무료 AI 도구로 뎁스 맵 만드는 법을 소개했다.",
    "title": "How to Create a Depth Map Using AI + FREE Tool Download",
    "excerpt": "Tutorial on generating depth maps from footage with a free AI tool that runs locally on Mac or via Fal.ai, for compositing and relighting workflows."
+  },
+  {
+   "url": "https://deadline.com/2026/09/mformedia-arcana-labs-sign-ai-production-pact-1237143000/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "MForMedia & Arcana Labs Sign AI Production Pact For Middle East",
+   "excerpt": "Dubai's MForMedia will look to add AI workflows into its productions following a deal with Arcana Labs."
+  },
+  {
+   "url": "https://motionographer.com/2026/09/29/the-studio-that-refused-to-be-one-thing/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "STUDIO STORIES: Tonic DNA, The Studio That Refused to Be One Thing",
+   "excerpt": "Forty years in, Montreal’s Tonic DNA launches a refreshed identity, a new original holiday special, and a bet that AI can give hand-drawn animation a longer life. A conversation with partner …"
+  },
+  {
+   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=762264",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "부산국제영화제 ‘포럼 비프’ 10월 8일 개막…AI 시대 영화의 미래 논의",
+   "excerpt": "[더쎈뉴스 / The CEN News] 제31회 부산국제영화제(BIFF)에서 인공지능(AI)이 바꾸는 영화 제작 환경과 한국영화의 위기, 영화인의 권리 등을 놓고 국내외 영화인들이 머리를 맞댄다.부산국제영화제 지석영화연구소는 오는 10월 8일부터 11일까지 영상산업센터와 부산시청자미디"
+  },
+  {
+   "url": "https://www.screendaily.com/news/mubis-efe-cakarel-we-are-going-to-stay-as-far-away-from-ai-as-possible-when-it-comes-to-films/5220798.article",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Mubi’s Efe Cakarel: “We are going to stay as far away from AI as possible when it comes to films”",
+   "excerpt": "\"We want machines doing a great deal of work in our lives; we just don't want them making the movies.\""
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=JWEAmLHp7Sg",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "How Much of Filmmaking Can AI Agents Actually Do?",
+   "excerpt": "In this video, we let GPT Astra organize and edit a video including doing VFX, SFX, and producing marketing assets. Check out our tutorial for what worked an..."
   }
  ],
  "music": [
@@ -15126,37 +15280,65 @@
   {
    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Sean Parker의 새 Stability AI Sean Parker는 Stability AI를 전문 음악 도구 회사로 바꾼다.",
    "title": "Sean Parker is rebuilding Stability AI around music",
    "excerpt": "Napster co-founder Sean Parker says Stability AI (maker of Stable Audio) is being repositioned as the go-to AI toolmaker for music professionals, built on catalogs licensed from Sony, Warner and Universal."
   },
   {
    "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Questlove \"AI는 샘플링 문화와 닮았다\" Questlove는 Public Enemy부터 AI까지 샘플링을 되짚는다.",
    "title": "Questlove on the History of Sampling, From Public Enemy to Today: 'I See AI as a Parallel to Sampling Culture'",
    "excerpt": "On Billboard's On the Record, Questlove traces sampling from Public Enemy to microchopping and generative AI, arguing AI parallels sampling culture while the magic still lives in human imperfection."
   },
   {
    "url": "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "AI 가사 도구가 롱테일 저작권료 키운다 LyricFind는 AI 가사 작업이 9.6M 롱테일 곡의 로열티를 키운다고 본다.",
    "title": "Lyrics Show How AI Can Grow Music Revenue Without Replacing People",
    "excerpt": "AI-assisted lyric transcription, sync and translation can make long-tail songs (9.6M tracks, 13% of 2025 streams) addressable, expanding songwriter royalties while creating more work for human teams."
   },
   {
    "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "Suno Speech 베타 AI 음악에 목소리 입혀 Suno Speech가 AI 음악에 음성을 얹어 ElevenLabs 영역을 넘본다.",
    "title": "AI music maker Suno now generates spoken words",
    "excerpt": "Suno's new Speech beta generates synthetic voiceovers set to AI background music, pushing the music generator into ElevenLabs' spoken-audio territory."
   },
   {
    "url": "https://www.youtube.com/watch?v=1OITvfAN6-g",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "춤에서 Suno v6 노래와 뮤직비디오로 Browner·McNeely가 춤을 Suno v6 곡과 뮤직비디오로 만든다.",
    "title": "Making \"Take Me Back\" | Braylon Browner x Nina McNeely",
    "excerpt": "Suno's behind-the-scenes film with Braylon Browner and Emmy-winning choreographer/director Nina McNeely shows the path from a dance to a Suno v6 song to a full music video built around movement."
+  },
+  {
+   "url": "https://isplus.com/article/view/isp202610020003",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "AI 작곡·보컬 노래가 결국 음원차트 1위가 됐다 ①",
+   "excerpt": "창작자 머무르의 '꿈꾸던 어른이 되었나요?'는 수노(Suno)로 보컬을 생성하고 기획·작사·프로듀싱은 직접 맡은 곡으로, 멜론 등 음원차트 상위권에 오르며 AI 제작 음원 표기 의무 등 제도 논의를 다시 불러왔다."
+  },
+  {
+   "url": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Suno is 'far beyond' 2m subscribers and $300m in revenue, says Mikey Shulman – who argues it's 'good' that AI music has no 'firm rules of the road' yet",
+   "excerpt": "Suno CEO Mikey Shulman says the v6-era service has passed 2M subscribers, sets out what WMG and BMG get from their licensing deals, and argues about who should set AI music's rules."
+  },
+  {
+   "url": "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Feds Want Nearly 4 Years in Prison for AI Music Fraudster Who 'Stole Millions'",
+   "excerpt": "Prosecutors want convicted AI music fraudster Michael Smith, who used AI-generated songs and bot streams to collect about $8M in royalties, to get nearly four years in prison; he is asking for probation."
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=F0vEAbzFLzk",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "How Seoul Institute of the Arts Students Use Suno | In The Cut",
+   "excerpt": "Suno visits Seoul Institute of the Arts in South Korea to show how music students use Suno to sketch song ideas, experiment with vocals and harmonies, find chords, and separate stems in Suno Studio before continuing work in their existing DAW workflows."
   }
  ],
  "politics": [
@@ -15373,37 +15555,72 @@
   {
    "url": "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "뉴섬, 캘리포니아 직장 AI 제한 서명 뉴섬 캘리포니아 주지사가 노동자 해고·감시에 AI 사용을 제한하는 법에 서명했다.",
    "title": "On AI, Newsom gives labor most of what it demanded",
    "excerpt": "The governor signed AI regulations to limit how workers can be terminated, overridden, or surveilled by the technology."
   },
   {
    "url": "https://www.washingtonsun.com/campaigns/van-orden-hit-with-cease-and-desist-letter-over-ai-deepfake-videos",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "밴 오든 캠프에 AI 딥페이크 중지 서한 쿡 측 변호인은 밴 오든 캠프가 AI 딥페이크로 쿡의 발언을 지어냈다고 밝혔다.",
    "title": "Van Orden Hit With Cease-and-Desist Letter Over AI Deepfake Videos",
    "excerpt": "Attorneys for Democratic candidate Rebecca Cooke say the Wisconsin representative's campaign used the technology to \"falsely attribute\" statements to his opponent."
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261002109800017",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "과기정통부, 독자 AI 통합 8천억 사업 편성 예산안 자료상 과기정통부가 독자 AI 사업 등을 통합해 8천억원 사업을 편성했다.",
    "title": "과기부, 독파모·프론티어 AI 사업 통합·개편…8천억원 투입",
    "excerpt": "(서울=연합뉴스) 한상용 기자 = 과학기술정보통신부가 독자 인공지능(AI) 파운데이션 모델 프로젝트와 차세대 AI 관련 사업 등을 통합·개편해 ..."
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261002135800009",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "\"中 지방정부 금융사 엔비디아 칩 구매 지원\" 블룸버그는 中 지방정부 소유 금융사가 엔비디아 칩 구매에 자금을 댔다고 보도했다.",
    "title": "\"中국유자본, '美수출통제 대상' 엔비디아 AI칩 구매 지원\"",
    "excerpt": "(서울=연합뉴스) 권숙희 기자 = 중국 지방정부들이 소유한 금융회사가 미국 정부의 수출통제 대상인 엔비디아의 고성능 인공지능(AI) 칩 구매에 ..."
   },
   {
    "url": "https://zdnet.co.kr/view/?no=20261002190003",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "EU, 누디파이 AI 법으로 직접 금지 EU가 12월 2일부터 비동의 성적 이미지를 만드는 누디파이 AI를 금지한다.",
    "title": "AI로 옷 벗기면 불법…EU, ‘누디파이’ 12월부터 철퇴",
    "excerpt": "사진 한 장으로 실제 인물의 옷을 벗긴 것처럼 이미지를 만드는 이른바 '누디파이(Nudify)' AI가 유럽에서 엄격하게 금지된다. 유럽연합(EU)이 비동의 성적 이미지 생성 AI를 법으로 직접 금지하면서 생성형 AI의 악용을 사후 콘텐츠 삭제가 아닌 AI 시스템 자체의 규제 대상으로 끌어..."
+  },
+  {
+   "url": "https://globalnews.ca/news/12085589/arizona-court-tosses-sentence-road-rage-case-ai-victim-video/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Arizona court tosses sentence in road rage case over AI victim video",
+   "excerpt": "An Arizona appeals panel ruled that letting an AI-generated video of the deceased victim be shown at sentencing 'constituted fundamental error,' vacating the sentence. (Off-list AP wire.)"
+  },
+  {
+   "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
+   "excerpt": "Researchers found Alibaba's Qwen refuses or parrots state doctrine on politically sensitive topics, raising questions as Chinese open models spread globally. (Off-list.)"
+  },
+  {
+   "url": "https://www.mprnews.org/story/2026/10/02/us-appeals-court-blocks-minnesota-law-barring-nudified-photos-in-xai-lawsuit",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "U.S. appeals court blocks Minnesota law barring 'nudified' photos in xAI lawsuit",
+   "excerpt": "The 8th Circuit enjoined Minnesota's first-in-the-nation ban on AI 'nudification' tools while xAI's First Amendment challenge proceeds; AG Ellison vows to defend it. (Off-list: no on-list outlet covered the ruling.)"
+  },
+  {
+   "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+   "excerpt": "Trump said DNI Jay Clayton will lead the White House's new 'Super Intelligence Force,' which will coordinate government engagement with AI companies; follows last week's voluntary AI accord. (Off-list: on-list Axios is bot-walled.)"
+  },
+  {
+   "url": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science",
+   "excerpt": "Primary release: at the STS Forum in Kyoto, the U.S. and 16 countries endorsed a joint declaration led by OSTP's Michael Kratsios to harness 'super intelligence' for autonomous experimentation and new research funding models."
   }
  ],
  "science": [
@@ -17650,37 +17867,72 @@
   {
    "url": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "드론·위성으로 그린 남극의 작은 생명 Wollongong 팀이 현장·드론·위성으로 남극 이끼·지의류를 7년간 매핑했다.",
    "title": "Drones, satellites and AI help scientists watch over Antarctica's smallest lifeforms",
    "excerpt": "University of Wollongong researchers built a multi-sensor, multi-temporal GeoAI framework fusing field surveys, drone and satellite imagery to map Antarctica's moss and lichen ecosystems over seven years at Canada Glacier."
   },
   {
    "url": "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "사람들 눈에 AI는 여전히 의식이 덜하다 LMU Munich 실험서 약 1,100명이 AI를 인간보다 덜 의식적이라 봤다.",
    "title": "Even when AI behaves just like us, people still rate it as less conscious than humans",
    "excerpt": "In experiments with about 1,100 participants, LMU Munich researchers found people rate AI as significantly less conscious than humans showing identical behavior, though they judge both similarly 'aware' under neutral wording."
   },
   {
    "url": "https://www.livescience.com/health/aging/your-voice-may-reveal-how-fast-youre-aging-new-ai-speech-clock-suggests",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "목소리가 드러낼 수 있는 노화의 속도 AI 음성 시계가 목소리로 나이를 가늠하는데, 늙게 들리면 인지 문제와 연관된다.",
    "title": "Your voice may reveal how fast you're aging, new AI 'speech clock' suggests",
    "excerpt": "A machine-learning 'speech clock' estimates a person's age from their speech, linking older-sounding voices with cognitive decline."
   },
   {
    "url": "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "GPT-6 Astra가 나폴레옹의 밀서 풀었다 엔지니어가 GPT-6 Astra로 나폴레옹 밀서의 217년 묵은 암호를 풀었다.",
    "title": "'A kind of Rosetta Stone': AI decodes 217-year-old secret letter ordered by Napoleon",
    "excerpt": "GPT-6 Astra was used to crack a centuries-old cipher that carried strategic military information between Napoleon's troops."
   },
   {
    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
    "date": "2026-10-03",
-   "ko": "",
+   "ko": "AI가 뇌 스캔으로 본 이미지 되살린다 연구진이 뇌 스캔만으로 사람이 본 이미지를 재구성하는 AI 시스템을 만들었다.",
    "title": "An AI 'mind-reading' tool can reconstruct what you're looking at from a brain scan",
    "excerpt": "Scientists built an AI system that reconstructs images a person is viewing from brain scans, and hope it could one day recover mental imagery or even dreams."
+  },
+  {
+   "url": "https://medicalxpress.com/news/2026-09-ai-health-anxiety-depression-young.html",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Turning to AI for health answers may signal anxiety, depression among young adults",
+   "excerpt": "Young adults who use generative artificial intelligence to ask health-related questions are more likely to screen positive for clinically significant anxiety and depression than those who do not use AI for health issues, according to a new study led by University of Florida researcher Yusen Zhai."
+  },
+  {
+   "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+   "excerpt": "The InstructMesh generative AI tool helps users 3D print working, real-world items with ease by understanding how designs should look and which edits users truly want. You can prompt the system to produce a 3D model, then ask it to edit specific parts."
+  },
+  {
+   "url": "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Millions of years of evolution guide AI search for pollution-fighting enzymes",
+   "excerpt": "Databases around the world contain information on millions upon millions of enzymes that have the potential to degrade pollutants like plastic. Scientists at Murdoch University's Bioplastics Innovation Hub are combining machine learning technology and biochemistry to identify which of these enzymes have the potential to break down plastic and other"
+  },
+  {
+   "url": "https://techxplore.com/news/2026-10-visual-illusion-reveals-today-ai.html",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Visual illusion reveals what today's AI vision is missing",
+   "excerpt": "Our eyes do not always tell us exactly where things are—and that may be a feature of how biological vision works, rather than simply a flaw. A new study by York University researchers uses a common illusion to ask: If artificial intelligence is meant to see more like us, should it make some of the same systematic perceptual \"mistakes\"?"
+  },
+  {
+   "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+   "date": "2026-10-05",
+   "ko": "",
+   "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+   "excerpt": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger th"
   }
  ]
 }

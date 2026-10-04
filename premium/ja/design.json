@@ -6653,6 +6653,134 @@
           "x": "セッションでは、ローンチアニメーションとテキストのスタッガー、キーフレームのイージング、マーケティング素材の自動スケーリング、生成系プラグインとシェーダー、キャンバス内のカスタムAIスキル、Weaveでの画像生成、変数としての不透明度、デザインからコードへの忠実度向上もデモされる。"
         }
       ]
+    },
+    "design/lightroom-prompt-to-edit-restore": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AdobeはLightroomにPrompt to Editを導入する。Adobeが用意した例のプロンプトから選ぶか、自分でプロンプトを書くことで、古い写真を修復できる。ピンぼけ画像のシャープ化、白黒写真のカラー化、強い色かぶりのある写真の調整などだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+          "cap": "2001年頃にJohn Ricardが撮影した112。Lightroom内のAdobeのPrompt to Edit機能で修復した。"
+        },
+        {
+          "t": "p",
+          "x": "例のプロンプトにはFix Dust and Scratches、Color Restoration、Unblurなどがある。Lightroomは効果を適用した新しいDNGを作成し、元の画像には手を加えない。プリセットを選ぶと完全なプロンプトが表示され、調整もできる。限られたテストでは、Color Restorationは筆者の好みより彩度が高めに仕上がった。"
+        },
+        {
+          "t": "p",
+          "x": "編集はLightroom内で行われるため、マスク、部分補正、オブジェクト削除といった標準ツールはそのまま使える。画像はNano Banana 2により2K または4K で生成され、プレミアム機能として生成クレジットを消費する。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+          "cap": "LightroomのPrompt to Edit機能で作成したカラー版。"
+        },
+        {
+          "t": "p",
+          "x": "Prompt to EditはLightroomデスクトップ版にEarly Access機能として導入され、Adobeがフィードバックを検討するなかで今後も変わる可能性がある。"
+        }
+      ]
+    },
+    "design/chatgpt-sites-public-beta-hosting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPTは五つのプランの加入者向けに、ウェブサイト、ウェブアプリ、ゲームをホストする。OpenAIのドキュメントは一つの制約を明記している。「Sitesはローンチ時点でデータレジデンシーにも推論レジデンシーにも対応しない」。対象外となるのは、デプロイ済みのSites、Siteのコード、D1とR2のデータおよびファイルストレージ、生成された成果物、ログだ。"
+        },
+        {
+          "t": "p",
+          "x": "SitesはChatGPT Plus、Pro、Business、Enterprise、Eduの各プランで公開ベータとして提供され、プランごとに利用上限がある。各Siteには10 GB のD1データベースストレージとR2オブジェクトストレージが付く。HTTP、HTTPS、WebSocketsには対応するが、raw TCPには対応しない。"
+        },
+        {
+          "t": "p",
+          "x": "Siteの削除は取り消せない。Enterpriseワークスペースでは公開がデフォルトでオフになっており、ネットワークアクセスエディターは最大1,024件の宛先ルールに対応する。OpenAIは、健康情報や決済カードデータの処理、金融取引を可能にする用途などを禁じている。"
+        },
+        {
+          "t": "p",
+          "x": "9月29日のリリースノートにより、PlusとProのオーナーと編集者は公開済みのSiteをChatGPT上で引き続き編集できるようになった。7月9日のローンチ時に設けられた、EEA、スイス、UKを除外する地域制限については、変更の発表はない。"
+        }
+      ]
+    },
+    "design/premiere-android-free-firefly": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+          "cap": "Premiere mobileは、日常のVlogからチュートリアル、ポッドキャストのクリップ、ソーシャル向けコンテンツまで、あらゆるものを作成・編集できるアプリだ(Image credit: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "昨年iPhone向けに登場したPremiere mobileがAndroidにも登場し、しかも無料だ。Creative Cloudのサブスクリプションは不要で、基本的な編集ならAdobeアカウントすらいらない。透かし、広告、アップグレードの勧誘もない。"
+        },
+        {
+          "t": "p",
+          "x": "無料版には、マルチトラックのタイムライン、フレーム単位の正確な編集、アプリ内でのボイスオーバー録音、ワンタップで背景ノイズを除去するEnhance Audioが含まれる。クリエイター制作のテンプレートや無制限の4K 書き出しも使える。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+          "cap": "AI搭載(AI-powered)のEnhance Audioで、ノイズの多い録音を手軽に整え、セリフを聞き取りやすくできる(Image credit: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill、Image-to-Video、Generate Sound EffectsといったFirefly搭載(Firefly-powered)の機能は、別途購入が必要な生成クレジットで動く。アプリにはAndroid 13以降と5GB 以上のRAMが必要だ。キーフレーム、ビート検出、Adobe Fonts、強化されたキャプション、デスクトップでのプロジェクト継続は「近日公開」と表示されている。"
+        },
+        {
+          "t": "p",
+          "x": "無料のPremiereはまず信頼を得て、お金を求めるのは後回し、あるいは求めないかもしれない。筆者は、スマートフォンから始める世代のクリエイターにAdobeが取るべき姿勢はまさにこれだと主張する。"
+        }
+      ]
+    },
+    "design/aholo-lux3d-blender-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+        },
+        {
+          "t": "p",
+          "x": "Leiphoneが9月30日に公開した実機テストは、杭州を拠点とするManycore Techが開発した3D 生成モデルAholo Lux3Dが、エージェント主導のパイプラインの一部品としてどう機能するかを示している。Leiphoneはこれを3D AIハーネスと呼ぶ。汎用エージェントが作業を計画して振り分け、専門モデルがアセットを生成し、Blenderなどのソフトウェアが確認と仕上げを担う。"
+        },
+        {
+          "t": "p",
+          "x": "Lux3Dは単一の画像またはテキストプロンプトから、ジオメトリとPBRマテリアルを備えた3D モデルを生成する。TurboとStandardのティアがあり、API、エージェントスキル、MCPサーバー、Codexプラグインから利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "LeiphoneはCodex上で動くGPT-6 Astraに、円明園の十二支コレクションにあるブロンズの鼠首の写真三枚を渡した。エージェントはG1-Turboで下書きを作り、G1に移行したうえで結果をBlenderで開き、台座を加えて三つの角度からレンダリングした。処理には約92.9秒と559.7秒、21クレジット、およそ1.47元を要した。"
+        },
+        {
+          "t": "p",
+          "x": "Leiphoneによれば、モデルは主要な特徴や表面の細かなへこみを保っていたが、平らすぎる背面や一部のへこみにはAIによる推測の跡が見られたという。"
+        }
+      ]
+    },
+    "design/bfl-flux3-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
+        },
+        {
+          "t": "p",
+          "x": "Black Forest Labsは、Flux 3モデルファミリーの画像モデルであるFlux 3 Imageを公開した。BFLによると、このモデルは画像の他の部分を変えずに複数ステップの編集ができ、テキストからの画像生成、画像からの画像生成、テキスト描画、フォトリアリズムに対応する。ユーザーはバウンディングボックスでシーンを構成でき、参照画像は最大十枚まで使え、出力は最大 4K となる。無料デモも用意されている。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
+        },
+        {
+          "t": "p",
+          "x": "APIの利用料は10月8日まで50%引きだ。企業は商用ウェイトのライセンスを取得し、自社インフラ上でモデルを実行・ファインチューニングできる。オープンウェイト版は今後数週間のうちに公開される見込みだ。ローンチ直前には、Ideogramが編集に特化した自社モデルのバージョン4.5を発表しており、こちらも近くオープンウェイトで公開される予定である。"
+        }
+      ]
     }
   }
 }

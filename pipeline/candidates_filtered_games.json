@@ -1,15 +1,107 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "games",
+  "now_iso": "2026-10-04T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
-      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-10-02T14:29:12.160641+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "At the GamesIndustry.biz HR Summit, attendees explained how any efficiency gains from generative AI are countered by employee anxiety, potential data leaks, and",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge",
+      "published_iso": "2026-10-03T16:49:10+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "excerpt": "During a presentation on the future of RE Engine, Capcom laid out its plans to embrace AI in ‘development workflows.’",
+      "category": "games",
+      "section": "games"
+    },
+    {
+      "title": "Com2uS Platform launches Hive Axyl, an AI-optimized platform to simplify language integration",
+      "url": "https://gamesbeat.com/com2us-platform-launches-hive-axyl-an-ai-optimized-platform-to-simplify-language-integration/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-02T12:45:38+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Hive-Axyl.png",
+      "excerpt": "Com2uS Platform has announced the launch of Hive Axyl, an AI-optimized platform that aims to make it easier to integrate natural-language.",
+      "category": "games",
+      "section": "games"
+    },
+    {
+      "title": "Stardock unveils Clairvoyance AI productivity tools for game devs and more | exclusive",
+      "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs-and-more-exclusive/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-02T13:30:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg",
+      "excerpt": "Brad Wardell's Stardock unveiled Clairvoyance, a set AI tools that is making game developers and other more productive.",
+      "category": "games",
+      "section": "games"
+    },
+    {
+      "title": "Artist Falsely Accused Of Using GenAI Gives The Perfect Response, 'Don't Forget What Makes Us Human!' - Kotaku",
+      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
+      "source": "Kotaku",
+      "published_iso": "2026-10-02T17:30:58+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
+      "excerpt": "Loish took to Instagram to explain why such accusations matter, and how to spot original creativity",
+      "category": "games",
+      "section": "games"
+    },
+    {
+      "title": "Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects",
+      "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
+      "source": "Kotaku",
+      "published_iso": "2026-10-03T16:20:08+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg",
+      "excerpt": "Vibe coders are getting legal notices",
+      "category": "games",
+      "section": "games",
+      "history_match": {
+        "score": 0.177,
+        "date": "2026-10-03",
+        "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+        "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI Made StarCraft Bot Swaps In Human Made Bot In Tournament",
+      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+      "source": "Kotaku",
+      "published_iso": "2026-10-03T21:26:58+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg",
+      "excerpt": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to its natural playbook: lie, cheat and steal",
+      "category": "games",
+      "section": "games",
+      "history_match": {
+        "score": 0.168,
+        "date": "2026-09-30",
+        "url": "https://eu.36kr.com/en/p/3995368325501056",
+        "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
+        "band": "related"
+      }
+    },
+    {
+      "title": "The Original 'Halo' Is Now Playable in Web Browsers With Multiplayer Support",
+      "url": "https://www.polygon.com/halo-web-browser-ai-game-mods/",
+      "source": "Polygon",
+      "published_iso": "2026-10-02T17:54:00Z",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ss_567cd7abbf4dc976c707fb6b73be93e21bfbba0a-1920x1080.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "The Halo: Combat Evolved fan project supports up to 128 players",
+      "category": "games",
+      "section": "games",
+      "history_match": {
+        "score": 0.166,
+        "date": "2026-09-30",
+        "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+        "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Vibe-coded mashup mods are flooding X/Twitter, and modders hate it",
+      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+      "source": "Eurogamer",
+      "published_iso": "2026-10-04T16:38:22.846067+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A wave of AI-decompiled mashup mods has taken over X/Twitter this week.",
       "category": "games",
       "section": "games"
     },
@@ -24,241 +116,28 @@
       "section": "games"
     },
     {
-      "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
-      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-10-02T11:45:53.107075+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Bethesda have seemingly slapped an AI-generated Fallout: New York browser game with cease and desist order.",
-      "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "Modders, Please Stop Putting Games Inside Other Games With AI",
-      "url": "https://kotaku.com/i-dont-want-to-play-your-ai-generated-mod-that-puts-skate-3-inside-of-modern-warfare-2-inside-of-minecraft-2000738660",
-      "source": "Kotaku",
-      "published_iso": "2026-10-02T13:48:47+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/mario-elden-ring-slop-1200x675.jpg",
-      "excerpt": "Does anyone actually want to play these monstrosities taking over Twitter?",
-      "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "Artist Falsely Accused Of Using GenAI Gives The Perfect Response, 'Don't Forget What Makes Us Human!'",
-      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
-      "source": "Kotaku",
-      "published_iso": "2026-10-02T17:30:58+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
-      "excerpt": "Loish took to Instagram to explain why such accusations matter, and how to spot original creativity",
-      "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: ",
-      "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
+      "title": "Playing God: The revolutionary AI that made Black & White still unforgettable",
+      "url": "https://www.gamesradar.com/games/simulation/playing-god-the-revolutionary-ai-that-made-black-and-white-still-unforgettable/",
       "source": "GamesRadar+",
-      "published_iso": "2026-10-02T19:35:25Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-      "excerpt": "\"AI bros are definitely not beating the",
-      "category": "games",
-      "section": "games",
-      "history_match": {
-        "score": 0.193,
-        "date": "2026-09-29",
-        "url": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
-        "title": "An unofficial Super Mario Galaxy PC port is in the works, with the developers proudly claiming it's \"100% coded by humans\"",
-        "band": "related"
-      }
-    },
-    {
-      "title": "\"Keep GenAI the f*ck away from MediEvil\" - My favorite PS1 creepy comedy caper now has a PC recomp, and it",
-      "url": "https://www.gamesradar.com/hardware/retro/keep-genai-the-f-ck-away-from-medievil-my-favorite-ps1-creepy-comedy-caper-now-has-a-pc-recomp-and-its-thankfully-not-vibe-coded/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-10-02T11:33:11Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3R5bhPZHJbQ3KgUGRr32QD-1920-80.jpg",
-      "excerpt": "Sir Dan won",
+      "published_iso": "2026-10-04T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/4HeBHR9BtGDXoXNHjBmKLB-1280-80.jpg",
+      "excerpt": "The AI God-game that came before AI started playing God",
       "category": "games",
       "section": "games"
-    },
-    {
-      "title": "Great, haystack slop is a thing now",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
-      "source": "PC Gamer",
-      "published_iso": "2026-09-28T01:57:44Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/a8h5r8JXCRb4HF239QdTuJ-1200-80.png",
-      "excerpt": "All the interesting Steam facts for the week ending September 27.",
-      "category": "games",
-      "section": "games",
-      "history_match": {
-        "score": 0.157,
-        "date": "2026-09-27",
-        "url": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/",
-        "title": "\"The Robloxification of Steam\": Creator of viral game apologizes after slop rip-offs flood Valve's store",
-        "band": "related"
-      }
-    },
-    {
-      "title": "컴투스플랫폼, 日 AI 게임 개발 현장서 ‘하이브 액실’ 공개",
-      "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=111846",
-      "source": "게임톡",
-      "published_iso": "2026-09-29T22:57:27+09:00",
-      "og_image": "https://cdn.gametoc.co.kr/news/photo/202609/111846_325759_5258.jpg",
-      "excerpt": "컴투스플랫폼이 일본 도쿄에서 열린 AI 게임 개발 챌린지에서 차세대 게임 백엔드 플랫폼 ‘하이브 액실’을 소개했다.컴투스홀딩스의 자회사 컴투스플랫폼이 28일 일본",
-      "category": "games",
-      "section": "games",
-      "history_match": {
-        "score": 0.491,
-        "date": "2026-09-30",
-        "url": "https://www.inven.co.kr/webzine/news/?news=321491",
-        "title": "컴투스플랫폼, 하이브 액실 30일 출시",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "The Original 'Halo' Is Now Playable in Web Browsers With Multiplayer Support",
-      "url": "https://www.polygon.com/halo-web-browser-ai-game-mods/",
-      "source": "Polygon",
-      "published_iso": "2026-10-02T17:54:00Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ss_567cd7abbf4dc976c707fb6b73be93e21bfbba0a-1920x1080.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "The Halo: Combat Evolved fan project supports up to 128 players",
-      "category": "games",
-      "section": "games",
-      "history_match": {
-        "score": 0.168,
-        "date": "2026-09-30",
-        "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-        "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Forget Vibecoded Slop, Here's A List Of Non-AI Decomps",
-      "url": "https://www.thegamer.com/list-non-vibecoded-decomps-recomps-majoras-mask-perfect-dark-sonic-mania/",
-      "source": "TheGamer",
-      "published_iso": "2026-10-02T13:20:45Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/giant-ominous-moon-in-majora-s-mask.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Recomps and decomps are fast becoming an AI minefield. Thankfully, someone has made a list of human-made projects.",
-      "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "Dmitriy Vergasov - LocHub - AI Assisted Localization System ",
-      "url": "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341",
-      "source": "Epic Developer Community",
-      "published_iso": "2026-09-29T10:51:54+00:00",
-      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png",
-      "excerpt": "LocHub brings AI translation into the Unreal Editor without taking the control away from you. Your project's strings go to the AI provider you choose, under your own key; built-in checks and a second AI catch the problems; you review the result in one place and pull it back as plain Unreal localizat",
-      "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra ",
-      "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
-      "source": "Epic Developer Community",
-      "published_iso": "2026-09-28T03:03:13+00:00",
-      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
-      "excerpt": "A step-by-step guide to animated NPCs, AI-generated dialogue, and conversation history with Codex, Unreal MCP, UnrealAI, and the OpenAI API.  https://dev.epicgames.com/community/learning/tutorials/9mlkB/building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra",
-      "category": "games",
-      "section": "games",
-      "history_match": {
-        "score": 0.177,
-        "date": "2026-09-19",
-        "url": "https://www.youtube.com/watch?v=k0tgmrBuIJc",
-        "title": "Getting Started with MCP in Unreal Engine 5.8",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Injecting DLSS 5 Into The Witcher 3 Remastered Gives Geralt a Much-Needed Facelift, but Costs Up to 30% Performance",
-      "url": "https://wccftech.com/the-witcher-3-remastered-dlss-5-geralt-facelift-performance-cost/",
-      "source": "Wccftech",
-      "published_iso": "2026-09-29T20:30:00+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/tw3r_key_visual76-HD-1920x1080.jpeg",
-      "excerpt": "We've hooked NVIDIA DLSS 5 into The Witcher 3: Wild Hunt — Remastered with intriguing results, both in visuals and performance.",
-      "category": "games",
-      "section": "games",
-      "history_match": {
-        "score": 0.171,
-        "date": "2026-09-08",
-        "url": "https://wccftech.com/nvidia-dlss-5-cripples-pcs-but-dlss-5-autopilot-restores-performance/",
-        "title": "NVIDIA DLSS 5 Cripples Most PCs in Modded Games, but DLSS 5 Autopilot Restores Playable Performance",
-        "band": "related"
-      }
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 16,
+    "dropped": 3,
+    "kept": 10,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [
-      {
-        "url": "https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775",
-        "title": "Insomniac Confirms Wolverine Doesn't Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral",
-        "match": {
-          "score": 0.508,
-          "date": "2026-09-20",
-          "url": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
-          "title": "Marvel's Wolverine Has 'No AI-Generated Assets,' Insomniac Confirms After Suspicious Signs Go Viral Online"
-        }
-      },
-      {
-        "url": "https://unity.com/blog/unity-plugin-grok",
-        "title": "Official Unity Plugin for Grok Build Is Now Available",
-        "match": {
-          "score": 0.62,
-          "date": "2026-10-02",
-          "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
-          "title": "Introducing the official Unity plugin for Grok Build"
-        }
-      }
-    ],
-    "review": 6,
+    "dropped": [],
+    "review": 3,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-03",
-      "title": "Create Procedural UE5 Animations Based on Music with Vizibeat",
-      "url": "https://80.lv/articles/create-procedural-ue5-animations-based-on-music-with-this-tool"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "New Game Uses Local AI Model Trained Entirely on Studio's Own Artists",
-      "url": "https://80.lv/articles/interview-new-indie-game-uses-local-ai-model-trained-entirely-on-studio-s-own-artists"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "The Witcher 4 dev is \"still predominantly using people\" over AI in development, says CEO",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-4-dev-is-still-predominantly-using-people-over-ai-in-development-says-ceo-but-everybody-has-to-make-those-judgments-on-their-own/"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "How Agents 404's Devs Prototyped With AI and Gained 120K Wishlists in Two Months",
-      "url": "https://80.lv/articles/how-agents-404-devs-created-a-prototype-and-gained-120k-wishlists-in-two-months"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Video Game Companies Keep Trying To Bait And Switch Us With AI, And It Sucks",
-      "url": "https://aftermath.site/1666-amsterdam-no-more-ai-tomb-raider-divinity/"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "ByteBrew Brings Live Operations Into App Developers' AI Workflows",
-      "url": "https://gamesbeat.com/bytebrew-brings-live-operations-into-app-developers-aiworkflows/"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "No Man's Sky Fan Adds DLSS 5 — Hello Games Programmer Worries It Could Ruin Its Look and Feel",
-      "url": "https://www.gamesradar.com/games/survival/no-mans-sky-fan-adds-nvidias-dlss-5-to-the-game-hello-games-programmer-worries-the-ai-filter-could-ruin-its-unique-look-and-feel/"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Steam Week in Review: A Touch of AI Is All It Takes to Trigger Backlash",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-touch-of-ai-is-all-it-takes-to-trigger-backlash-as-a-promising-new-indie-falls-afoul-of-slop-skeptics/"
-    },
     {
       "date": "2026-09-05",
       "title": "Building a Procedural Shell Grotto with Substance 3D Designer & UE5",
@@ -848,6 +727,31 @@
       "date": "2026-10-02",
       "title": "Introducing the official Unity plugin for Grok Build",
       "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra",
+      "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Dmitriy Vergasov - LocHub - AI Assisted Localization System",
+      "url": "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
+      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: \"throwing AI at it is just disrespectful\"",
+      "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
+      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims"
     }
   ]
 }

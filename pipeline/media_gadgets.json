@@ -1,32 +1,22 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "gadgets",
   "media": [
     {
-      "id": "insta360-spatial-capture",
+      "id": "ray-ban-meta-audio-no-camera",
       "type": "video",
-      "src": "pipeline/media/insta360-spatial-capture.mp4",
-      "poster": "pipeline/media/insta360-spatial-capture.jpg"
+      "src": "pipeline/media/ray-ban-meta-audio-no-camera.mp4",
+      "poster": "pipeline/media/ray-ban-meta-audio-no-camera.jpg"
     },
     {
-      "id": "meta-muse-home-link",
+      "id": "ipad-entry-apple-intelligence-leak",
       "type": "image",
-      "src": "pipeline/media/meta-muse-home-link.jpg"
+      "src": "pipeline/media/ipad-entry-apple-intelligence-leak.jpg"
     },
     {
-      "id": "dgx-spark-64gb",
+      "id": "atlas-redesigned-hands-bd",
       "type": "image",
-      "src": "pipeline/media/dgx-spark-64gb.jpg"
-    },
-    {
-      "id": "gemini-replaces-assistant-android",
-      "type": "image",
-      "src": "pipeline/media/gemini-replaces-assistant-android.jpg"
-    },
-    {
-      "id": "apple-no-record-home-camera",
-      "type": "image",
-      "src": "pipeline/media/apple-no-record-home-camera.jpg"
+      "src": "pipeline/media/atlas-redesigned-hands-bd.png"
     }
   ]
 }

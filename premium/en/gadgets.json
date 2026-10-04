@@ -6370,6 +6370,102 @@
           "x": "Gurman added that the camera will use “a very similar technology to what they're going to be using for the AirPods with cameras,” which reportedly take extremely low resolution still images analyzed by Visual Intelligence."
         }
       ]
+    },
+    "gadgets/ipad-entry-apple-intelligence-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
+          "cap": "The iPad 11 (2025)"
+        },
+        {
+          "t": "p",
+          "x": "Leaked code reveals that the upcoming iPad 12 will feature notable hardware upgrades designed specifically to support Apple Intelligence. The entry-level tablet is expected to include the A19 chip and 8GB of RAM."
+        },
+        {
+          "t": "p",
+          "x": "References to the 12th-generation model, uncovered in Apple's code by MacRumors contributor Aaron Perris, also list the company's in-house C1X cellular modem and N1 wireless networking chip. The A19 replaces the A16 chip in the current iPad 11, which launched in March 2025."
+        },
+        {
+          "t": "p",
+          "x": "The chip change brings Apple Intelligence to the entry-level iPad for the first time. The A16 does not support the platform, leaving iPad 11 owners without Apple's generative AI tools and the Siri features built on them. Memory rises from 6GB to 8GB, the minimum Apple requires to run Apple Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "The C1X supports sub-6GHz 5G networks and is more power efficient, while the N1 adds Wi-Fi 7, Bluetooth 6, and Thread support. The iPad 11 now starts at $449 following a June 2026 price increase, and its successor is expected to launch at the same price. The findings do not include a release date, and the iPad 12 is not expected before spring 2027."
+        }
+      ]
+    },
+    "gadgets/atlas-redesigned-hands-bd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-10-01-at-22.36.04.png",
+          "cap": "A new hand for Atlas."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics' Atlas is getting new hands. The robotics company showed the new hand design, which should now be able to operate a drill or move two golf balls in one hand. According to Boston Dynamics, this increases the number of degrees of freedom to 13."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics has presented a new hand for its high-end robot, Atlas. A new video showcases its new abilities, including handling a drill. Although this demo was conducted with the help of a remote operator, it should demonstrate what will be possible in the near future. Currently, Boston Dynamics is also researching how it can get Atlas to actually learn by itself rather than be trained."
+        },
+        {
+          "t": "p",
+          "x": "Atlas can already use the new hands fully autonomously. Boston Dynamics demonstrates this with Atlas handling two golf balls in one hand. Atlas can do this without a pinky. According to the company, another finger is not worth the extra complexity it would add. It would also increase power consumption. It's just a thumb and three additional fingers."
+        },
+        {
+          "t": "p",
+          "x": "The complexity already reaches a level that is close to a separate mini-robot. Atlas' improved hands now offer 13 degrees of freedom, says Boston Dynamics' mechanical engineer Dylan Thrush. Previously, Atlas was limited to 7 degrees of freedom. As the company is planning to use Atlas in car assembly, these additional degrees of freedom will probably come in handy. The new hand is both a bit larger and stronger than a typical human hand."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics also hopes that the new hand is better at avoiding movements that could damage its mechanical parts because of the extra flexibility."
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        }
+      ]
+    },
+    "gadgets/insta360-spatial-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+          "cap": "Image credit: Insta360"
+        },
+        {
+          "t": "p",
+          "x": "Insta360 has launched Spatial Capture, a free feature that turns 360 video into a detailed 3D model of a real space that you can move around in. It's still in beta, available now for the Insta360 X6 and any of the company's 360 cameras that can shoot 5.7K video at 30fps or above, including the X4 Air and X5."
+        },
+        {
+          "t": "p",
+          "x": "Spatial Capture is built on 3D Gaussian Splatting (3DGS): software works out where the camera was at each moment, then rebuilds the scene from millions of tiny, semi-transparent blobs. The result is a photorealistic 3D scene viewable from angles the camera never occupied."
+        },
+        {
+          "t": "video",
+          "yt": "HOBZMKxbHKw"
+        },
+        {
+          "t": "p",
+          "x": "Cloud platform Splatica starts at $49.95 a month; Spatial Capture gives you four free generations a month. Insta360 says Splatica produces higher-quality results for professionals, while Spatial Capture is meant for casual users and renders a two-minute video in one to two hours versus around eight."
+        },
+        {
+          "t": "p",
+          "x": "You record a clip of two minutes or less, and processing happens in the cloud. Insta360 recommends well-lit indoor spaces up to 100 square meters, so it looks designed for rooms rather than landscapes. Scenes can be shared via a browser link, but can't yet be exported as files."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+          "cap": "Image credit: Insta360"
+        },
+        {
+          "t": "p",
+          "x": "The reviewer's own X6 test clip failed to upload twice — the kind of teething problem you'd expect from a beta — but it's a welcome freebie that adds value to a pricey camera."
+        }
+      ]
     }
   }
 }

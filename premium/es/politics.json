@@ -977,6 +977,120 @@
           "x": "El fallo sugiere que una herramienta de IA que reproduce el texto de una obra para competir directamente con ella probablemente no supere la prueba de uso justo, aunque deja margen para que la IA generativa se considere más transformadora. Montgomery-Reeves distinguió el caso de Bartz v. Anthropic, en el que un juez concluyó que entrenar a Claude con libros era uso justo."
         }
       ]
+    },
+    "politics/kyoto-vision-science-declaration-ostp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En la 23.ª Reunión Anual (23rd Annual Meeting) del Foro Ciencia y Tecnología en la Sociedad (STS) en Kyoto, Estados Unidos y 16 países respaldaron la Visión de Kyoto para una Edad de Oro de la Ciencia (Kyoto Vision for a Golden Age of Science), una declaración conjunta para renovar y fortalecer los ecosistemas científicos, según un comunicado de la Casa Blanca."
+        },
+        {
+          "t": "p",
+          "x": "Encabezada por el director de la Oficina de Política Científica y Tecnológica, Michael Kratsios, la declaración afirma que la superinteligencia aplicada a la ciencia permitirá la experimentación autónoma a gran escala. \"La superinteligencia aplicada a la ciencia será la mayor fuerza de la historia para democratizar la investigación\", dijo Kratsios."
+        },
+        {
+          "t": "p",
+          "x": "Pide mejorar las instituciones del descubrimiento mediante diversas herramientas de financiación y nuevos modelos institucionales; aprovechar la superinteligencia para la ciencia, con compromisos para ampliar el acceso de los investigadores a herramientas de SI, datos, computación e instalaciones experimentales; y cultivar el talento en todo el ámbito científico."
+        },
+        {
+          "t": "p",
+          "x": "Firmantes: Argentina, Bulgaria, Chile, Chipre, Alemania, Grecia, Indonesia, Italia, Japón, Kazajistán, República de Corea, Nueva Zelanda, Polonia, Singapur, Emiratos Árabes Unidos, Reino Unido y Estados Unidos."
+        }
+      ]
+    },
+    "politics/jay-clayton-ai-czar-super-intelligence-force": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+          "cap": "Jay Clayton en su audiencia de confirmación ante el Comité de Inteligencia del Senado, el 15 de julio de 2026. Mariam Zuhaib/AP"
+        },
+        {
+          "t": "p",
+          "x": "El director de Inteligencia Nacional, Jay Clayton, es el nuevo zar de AI de la Casa Blanca, dijo el presidente Trump el domingo. Trump escribió en Truth Social que Clayton dirigirá la nueva \"Super Intelligence Force\" de la Casa Blanca, que \"coordinará la relación del Gobierno federal con consumidores, grupos de interés público, organizaciones religiosas, proveedores de infraestructura crítica y empresas de superinteligencia\"."
+        },
+        {
+          "t": "p",
+          "x": "Trump dijo que el grupo también incluirá al presidente de la FTC, Andrew Ferguson; al director de la OPM, Scott Kupor, y al subsecretario de Defensa para Investigación e Ingeniería, Emil Michael. Clayton fue antes fiscal federal (U.S. Attorney) del Distrito Sur de Nueva York y presidente de la SEC."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio llega tras una reunión del martes en la Casa Blanca, después de la cual Trump dijo que varias empresas de AI habían firmado un acuerdo voluntario. El Congreso no ha aprobado una ley federal que regule la AI de forma amplia. El mes pasado, Clayton calificó la superinteligencia de \"asunto de seguridad nacional\" y rechazó los llamados a una \"pausa\"."
+        }
+      ]
+    },
+    "politics/qwen-censorship-research-cbs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Qwen, un modelo gratuito creado por Alibaba y descargado más de 3 mil millones de veces, incorpora narrativas favorables a China (China-friendly) y está programado para censurar, según una investigación de la startup israelí de ciberseguridad Hirundo. No reconoce la represión de las protestas de Hong Kong de 2019 ni lo ocurrido en la plaza de Tiananmen en 1989, y no habla de Winnie the Pooh."
+        },
+        {
+          "t": "p",
+          "x": "Cuando CBS News le preguntó por los campos de trabajo forzado para uigures, Qwen negó que existieran. Alibaba no respondió a una solicitud de comentarios."
+        },
+        {
+          "t": "p",
+          "x": "Empresas estadounidenses (U.S.) como Uber Eats y Airbnb usan Qwen. Los modelos chinos de pesos abiertos (open-weight) pasaron de menos del 2% del uso mundial a finales de 2024 a más del 45% en junio, según datos de OpenRouter. Booz Allen comprobó que Qwen generaba código con un 130% más de vulnerabilidades de seguridad cuando se le decía que el proyecto era para el gobierno de Estados Unidos (U.S.)."
+        },
+        {
+          "t": "p",
+          "x": "Hirundo afirma que probó Qwen con 500 instrucciones sobre 15 temas: \"el Qwen original produjo censura, encuadres alineados con la propaganda o sesgo político el 89.8% de las veces\", dijo su CEO, Ben Luria, frente al 2.8% de su versión editada y \"occidentalizada\" (Westernized)."
+        }
+      ]
+    },
+    "politics/arizona-ai-victim-video-sentence-vacated": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "La condena de 10 años por homicidio involuntario impuesta a un hombre de Arizona fue anulada en un caso en el que un video generado por AI (AI-generated) mostró a la víctima fallecida dirigiéndose a un juez antes de que se anunciara la sentencia. El Tribunal de Apelaciones de Arizona concluyó que Gabriel Paul Horcasitas debe recibir una nueva sentencia por la muerte a tiros de Christopher Pelkey en 2021."
+        },
+        {
+          "t": "p",
+          "x": "En lo que se cree que es un caso sin precedentes en los tribunales de Estados Unidos (U.S.), la familia de Pelkey usó AI en mayo de 2025 para crear un video con su imagen. \"En otra vida probablemente podríamos haber sido amigos\", dijo la AI. El juez de la sentencia dijo: \"Me encantó esa AI\"."
+        },
+        {
+          "t": "p",
+          "x": "La sala de tres jueces escribió que permitir el video con AI \"constituyó un error fundamental\" y añadió: \"Aunque el expediente no refleja con precisión cómo influyó el video con AI en el cálculo de la sentencia, no cabe duda de que tuvo un papel\". Confirmó la condena, pero anuló la pena y devolvió el caso para una nueva sentencia, que aún no tiene fecha."
+        }
+      ]
+    },
+    "politics/newsom-ai-workplace-law": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+          "cap": "Manifestantes protestan contra la sustitución de empleos por la AI frente a Dreamforce, en San Francisco, el 15 de septiembre de 2026. Foto de Manuel Orbegozo para CalMatters"
+        },
+        {
+          "t": "p",
+          "x": "En el último día para actuar sobre los proyectos de su última sesión legislativa programada, el gobernador Gavin Newsom firmó varias leyes para proteger a los trabajadores frente a la inteligencia artificial, entre ellas límites al uso de la AI en la atención a pacientes y en los despidos. Vetó dos proyectos relacionados con la AI (AI-related) impulsados por líderes sindicales que habrían protegido a los trabajadores sanitarios."
+        },
+        {
+          "t": "p",
+          "x": "Los líderes sindicales lo habían presionado para firmar un paquete de nueve proyectos de AI y advirtieron que ello influiría en su apoyo a cualquier candidatura presidencial. Los sindicatos lograron siete de los nueve."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas leyes limitan la AI en despidos o sanciones disciplinarias, mantienen a los profesionales sanitarios, y no a la AI, al frente de las decisiones de atención al paciente (patient-care), prohíben a los empleadores predecir el estado emocional de los trabajadores o recopilar datos cerebrales, prohíben la vigilancia con AI en los baños y exigen aviso cuando los despidos se deban total o parcialmente a la AI o la automatización."
+        },
+        {
+          "t": "p",
+          "x": "En sus mensajes de veto, Newsom calificó la medida de salud mental de \"excesivamente amplia\" y dijo que el Labor Commissioner carece de la experiencia médica necesaria para hacer cumplir las normas contra represalias (anti-retaliation) del otro proyecto. Sandy Reding, presidenta de la California Nurses Association, criticó ese veto, mientras que Liz Shuler, presidenta de la AFL-CIO, calificó las nuevas leyes como \"algunas de las legislaciones estatales más sólidas del país\"."
+        },
+        {
+          "t": "p",
+          "x": "CalMatters señala que la ley sobre despidos se debilitó durante el proceso legislativo: perdió un procedimiento de apelación para los trabajadores, el derecho a demandar para exigir su cumplimiento y la cobertura de los contratistas."
+        }
+      ]
     }
   }
 }

@@ -1,31 +1,33 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "science",
   "media": [
     {
-      "id": "mindreading-brain-scan",
+      "id": "york-illusion-ai-vision-errors",
       "type": "image",
-      "src": "pipeline/media/mindreading-brain-scan.jpg"
+      "src": "pipeline/media/york-illusion-ai-vision-errors.jpg"
     },
     {
-      "id": "napoleon-cipher-gpt6astra",
+      "id": "murdoch-enzyme-plastic-ml-screen",
       "type": "image",
-      "src": "pipeline/media/napoleon-cipher-gpt6astra.jpg"
+      "src": "pipeline/media/murdoch-enzyme-plastic-ml-screen.jpg"
     },
     {
-      "id": "lmu-ai-consciousness-study",
+      "id": "uf-ai-health-questions-anxiety",
       "type": "image",
-      "src": "pipeline/media/lmu-ai-consciousness-study.jpg"
+      "src": "pipeline/media/uf-ai-health-questions-anxiety.jpg"
     },
     {
-      "id": "antarctica-moss-geoai",
-      "type": "image",
-      "src": "pipeline/media/antarctica-moss-geoai.jpg"
+      "id": "instructmesh-mit-3d-repair",
+      "type": "video",
+      "src": "pipeline/media/instructmesh-mit-3d-repair.mp4",
+      "poster": "pipeline/media/instructmesh-mit-3d-repair.jpg"
     },
     {
-      "id": "speech-clock-voice-aging",
-      "type": "image",
-      "src": "pipeline/media/speech-clock-voice-aging.jpg"
+      "id": "microsoft-quine-biology-world-model",
+      "type": "video",
+      "src": "pipeline/media/microsoft-quine-biology-world-model.mp4",
+      "poster": "pipeline/media/microsoft-quine-biology-world-model.jpg"
     }
   ]
 }

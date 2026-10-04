@@ -6267,6 +6267,142 @@
           "x": "Experts caution it is not a crystal ball. Speech can sound older because of depression or stress, the study mostly measured people at a single point in time, and the model has been tested only in Spanish. The team now plans to test other languages and follow people over time."
         }
       ]
+    },
+    "science/murdoch-enzyme-plastic-ml-screen": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Databases around the world contain information on millions upon millions of enzymes that have the potential to degrade pollutants like plastic. Scientists at Murdoch University's Bioplastics Innovation Hub are combining machine learning technology and biochemistry to identify which of these enzymes have the potential to break down plastic and other harmful pollutants."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Ph.D. candidate Joseph Boctor explains in his latest review, published in Nature Reviews Earth & Environment, that the key to finding the right biological fit to combat each pollutant is likely hidden within existing data."
+        },
+        {
+          "t": "p",
+          "x": "\"I strongly advocate that overengineering enzymes is a bad starting point that overlooks millions of years of evolution that have already produced lots of potential solutions to these contaminants,\" Boctor said."
+        },
+        {
+          "t": "p",
+          "x": "These machine learning pipelines use knowledge from previously characterized enzymes to predict how enzyme structures might interact with target pollutants and break them down. The team is now channeling its energy into testing, validating and scaling the identified enzymes for bioremediation efforts."
+        }
+      ]
+    },
+    "science/uf-ai-health-questions-anxiety": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Young adults who use generative artificial intelligence to ask health-related questions are more likely to screen positive for clinically significant anxiety and depression than those who do not, according to a new study led by University of Florida researcher Yusen Zhai, published in the Journal of Counseling & Development."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "The study analyzed data from nearly 100,000 young adults. The odds of screening positive for anxiety and depression were 52% and 46% greater, respectively, for people who used generative AI tools like ChatGPT or Claude for health questions. The findings show an association; they do not establish that AI use causes anxiety or depression."
+        },
+        {
+          "t": "p",
+          "x": "One possible pattern: a person asks AI for reassurance, gets an answer, then develops more questions. \"That kind of repeated cycle could reinforce rumination, health anxiety or other distress,\" Zhai said."
+        },
+        {
+          "t": "p",
+          "x": "The data were collected from 2023 to 2024, making the findings an early indication. \"The problem is not generative AI itself,\" Zhai said. \"It's the 'how' question—how people use it.\""
+        }
+      ]
+    },
+    "science/instructmesh-mit-3d-repair": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
+          "cap": "The InstructMesh AI tool can be prompted to generate a 3D design for an object such as a mug, and then users can highlight specific parts of the blueprint they’d like refined before 3D printing."
+        },
+        {
+          "t": "p",
+          "x": "AI models understand how an object should look, but not how it works, leading to impractical designs — and the models are typically hard to edit, especially for users new to 3D design."
+        },
+        {
+          "t": "p",
+          "x": "InstructMesh, developed by researchers at MIT CSAIL, Google, and Northeastern University, can be prompted to generate a 3D design, and users can then highlight specific parts they’d like refined before 3D printing. It pairs Microsoft’s TRELLIS system, which creates 3D models from text and image prompts, with the LLM GPT-4."
+        },
+        {
+          "t": "p",
+          "x": "The team made a dragon-wrapped mug, a shell-like whistle, butterfly-winged glasses, a denim-look knee brace and a shrimp-like “bristle bot” with a hidden motor."
+        },
+        {
+          "t": "p",
+          "x": "When TRELLIS recreated popular Thingiverse models, nearly 80 percent were structurally flawed. Novices identified and fixed these issues in InstructMesh around 90 percent of the time, as reviewed by an expert."
+        },
+        {
+          "t": "p",
+          "x": "“What they saw is what they got, and the items worked as advertised, so to speak,” says lead author Faraz Faruqi, now at Google, who may bring InstructMesh to an AR platform. The work will be presented at the ACM Symposium on User Interface Software and Technology in November."
+        }
+      ]
+    },
+    "science/microsoft-quine-biology-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Research is introducing Quine, a research effort designed to work across the boundaries of biology. Quine brings together a world model of biology with a harness that connects scientific tools, literature, the wet lab, and the researchers using them."
+        },
+        {
+          "t": "video",
+          "yt": "ZMJHGeR6GPU"
+        },
+        {
+          "t": "p",
+          "x": "By world model, Microsoft means a system that can represent the state of a biological system, predict how that state will evolve in response to interventions, and reason over the consequences. It learns shared representations across sequence, structure, function, cellular state, and imaging data. Such a system would not replace experimentation."
+        },
+        {
+          "t": "p",
+          "x": "In pancreatic cancer work with the Broad Institute, Quine predicted and prioritized thousands of compounds for their potential to shift tumor cells between states; its highest-ranked compounds produced the largest intended shifts in wet-lab studies. The process took just one weekend."
+        },
+        {
+          "t": "p",
+          "x": "Initial access is limited to the Quine Fellows program and select research collaborations, with a phased approach and built-in safeguards."
+        }
+      ]
+    },
+    "science/mindreading-brain-scan": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new AI tool developed by Michal Irani and colleagues at the Weizmann Institute of Science can guess what you're looking at from brain scans and re-create that image with remarkable precision. It can also go the other way, predicting brain activity from what a person sees."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+          "cap": "Left: what the person saw. Right: the model's reconstruction. Courtesy of the Researchers"
+        },
+        {
+          "t": "p",
+          "x": "The team trained a two-branch \"brain decoder\" on high-resolution fMRI data from eight people who each viewed around 9,000 images. One branch predicts an image's structure, the other its content, guiding a diffusion model to reconstruct what was seen."
+        },
+        {
+          "t": "p",
+          "x": "To get more data, they also trained an encoder that predicts brain activity from an image, and used the two together to improve both. About 70% of the training data came from images never shown to anyone in a scanner. The resulting tool works on a new person with about one hour of fMRI data, versus roughly 40 hours for earlier tools."
+        },
+        {
+          "t": "p",
+          "x": "It still fails at times, turning a cake into three sandwiches, but Irani says it outperformed others \"by a significant margin.\" She hopes to move on to video, audio, imagination and dreams, and to help locked-in people communicate."
+        },
+        {
+          "t": "p",
+          "x": "Other scientists warn of mental-privacy risks, especially if similar methods move to EEG. \"We have to be a little more serious about the ethical considerations,\" says UCSB neuroscientist Tommy Sprague."
+        }
+      ]
     }
   }
 }

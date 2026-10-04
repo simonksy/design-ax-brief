@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-05",
+  "section": "gadgets",
+  "cards": [
+    {
+      "id": "meta-ray-ban-display-intl-launch",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Meta Ray-Ban Display goes\non sale in the UK and Canada",
+      "body": "Meta Ray-Ban Display is now available in the UK and Canada, with France, Italy and Germany following next month.",
+      "mini_headline": "Ray-Ban Display\nlands in UK, Canada",
+      "tool": "Gadgets",
+      "source": "UploadVR",
+      "url": "https://www.uploadvr.com/meta-ray-ban-display-gets-new-features-online-ordering-international-launch/",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "img", "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Ray-Ban-Display-Connect-2026-news.png"},
+          {"t": "p", "x": "Meta Ray-Ban Display is now available in the UK and Canada, and will be available in France, Italy and Germany next month."},
+          {"t": "p", "x": "Meta is also opening online ordering for the glasses, and they are getting new features and updates."}
+        ]
+      }
+    }
+  ]
+}

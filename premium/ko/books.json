@@ -8832,6 +8832,125 @@
           "x": "2025년 미국(U.S.) 오디오북 매출은 24억 3천만 달러에 이르렀다. 기능은 아직 베타다. Audible은 시간을 두고 적용 작품을 늘릴 계획이다."
         }
       ]
+    },
+    "books/ewc-destructive-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+          "cap": "홀로 선 t-rex 3d 렌더링 일러스트 © 3dMediSphere"
+        },
+        {
+          "t": "p",
+          "x": "EWC는 AI 기술 업계가 유럽의 오래되거나 희귀한 책 수백만 권을 « 파괴적으로 스캔 »하는 관행을 규탄했다. 의사결정자들에게는 작가와 출판사, 독자 편에 서서 목소리를 내 달라고 요구한다."
+        },
+        {
+          "t": "p",
+          "x": "유럽 밖(Non-European)의 거대 기술 기업들은 중고 서점과 고서점에서 적어도 이백만 권에 이르는 책을 사들였다. U.S.의 AI 스캔 공장은 책등을 잘라 낱장을 고속 스캐너에 넣고 남은 책은 버리거나 파쇄해 화장지로 재활용한다. 그렇게 얻은 파일은 대규모 언어 모델 개발에 쓰인다."
+        },
+        {
+          "t": "p",
+          "x": "“희귀한 책이 파괴되고 있다. 이런 책 상당수는 다시는 찾을 수 없고, AI 기술 기업의 디지털 자산으로만 남는다.” EWC 부회장(Vice President) Maïa Bensimon의 말이다. EWC 정책위원 Nina George는 ‘세상의 모든 책을 스캔’하려는 Anthropic의 비밀 프로젝트 ‘Project Panama’를 지목한다."
+        },
+        {
+          "t": "p",
+          "x": "Henna Virkkunen 집행부위원장(Executive Vice-President)은 2026년 9월 16일 답변에서 텍스트·데이터 마이닝 예외는 디지털 저작물에만 적용된다고 밝혔다. 저작권이 있는 책은 아날로그 형태로 적법하게 취득했더라도 디지털화하려면 권리자의 사전 허락을 받아야 한다는 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "EWC는 유럽연합 집행위원회(European Commission)와 유럽의회(European Parliament), 모든 유럽 국가에 이 관행에 반대한다고 분명히 밝히라고 요구한다."
+        }
+      ]
+    },
+    "books/bye-bye-ai-library-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+          "cap": "스마트폰을 쓰는 사람."
+        },
+        {
+          "t": "p",
+          "x": "뉴욕주(New York) 북부의 한 공공도서관이 색다른 기술 지원으로 화제다. 휴대폰과 컴퓨터의 AI 기능을 끄도록 도와준다. 카드 소지자가 약 800명인 North Chatham Free Library가 “Bye Bye AI” 전단을 올리자 작은 마을 바깥 먼 곳에서까지 반응이 쏟아졌다."
+        },
+        {
+          "t": "p",
+          "x": "도서관의 유일한 정규직 사서 Shea Wert에 따르면, 예약 없이 들르면 되는 이 프로그램은 이용자들이 거듭 불만을 털어놓으면서 시작됐다. “Gmail 자동 답장과 자동 완성 때문에 사람들이 정말 답답해한다.”"
+        },
+        {
+          "t": "p",
+          "x": "도서관은 4월에 “AI for seniors” 강좌도 열었다. Wert도 AI 자체를 크게 반대하지는 않는다고 말한다. 도움을 청하러 오는 사람은 대부분 노년층이다."
+        },
+        {
+          "t": "p",
+          "x": "이번 행사는 사서 Hannah Cyrus가 연 AI 도구 끄기 무료 강좌에서 영감을 받았다. Cyrus는 “도서관은 이용자의 기술 수용을 돕는 것만큼이나 기술 거부를 돕는 데에도 맡을 역할이 있다”고 썼다. 그는 “전 세계 수백 명의 사서에게서 발표 슬라이드를 보내 달라는 연락을 받았다”고 한다."
+        }
+      ]
+    },
+    "books/shelf-reading-bots-libraries-ht": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+          "cap": "싱가포르 National Library Board가 운영하는 도서관의 shelf-reading 로봇. (NLB Singapore)"
+        },
+        {
+          "t": "p",
+          "x": "세계 곳곳의 도서관에서 shelf-reading 봇과 AI 목록화가 책 빌리는 방식을 바꿔 놓는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "상하이 Changning District Library에서는 디지털 휴먼 아바타 Xin Ye가 대출 기록을 보고 책을 추천하고 좌석을 잡아 주며 로봇을 시켜 책을 배달한다. Beijing Library의 자동 검색 시스템은 8 million 권이 넘는 장서 가운데 고른 책을 15분 안에 가져다준다. 대만 NLPI는 2023년 생성형 AI(generative-AI) ‘사서’ Xiao-Shu를 도입했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+          "cap": "Beijing Library 내부에는 실내 기후와 조명, 음향을 조절하는 센서 기둥이 서 있다. (Snohetta)"
+        },
+        {
+          "t": "p",
+          "x": "싱가포르 National Library Board 도서관에서는 로봇이 매일 밤 RFID 태그(RFID-tagged)가 붙은 책을 스캔해 두었다가 아침에 잘못 꽂힌 책을 알려 준다. 이걸로 직원들이 해마다 아끼는 업무 시간이 최대 3,500시간이다."
+        },
+        {
+          "t": "p",
+          "x": "추천 알고리즘은 이미 좋아하는 것을 더 보여 줄 뿐이지만 도서관은 원하는 줄도 몰랐던 책을 소개하기도 한다. 핀란드 곳곳의 도서관이 여전히 AI를 두고 고민하는 큰 이유는 개인정보 보호다. 애널리스트 Kashyap Kompella는 “시스템이 더 많이 알수록… 다음에 원하는 것을 더 잘 예측할 수 있다”고 말한다."
+        }
+      ]
+    },
+    "books/savo-directive-detectives-ai-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+          "cap": "Giulio Savo가 Claremont Middle School에서 \"Directive Detectives: The Freedom Trail Directive\"에 관해 이야기하고 있다. (Molly Hughes / Valley News)"
+        },
+        {
+          "t": "p",
+          "x": "\"Directive Detectives: The Freedom Trail Directive\"는 한 소녀가 Boston Public Library의 \"입구를 지키는 돌사자\"를 지나 올라가는 장면으로 시작한다. 실제 입구에는 사자가 없는데 삽화에는 버젓이 그려져 있다. Claremont에 사는 작가 Giulio Savo는 삽화를 AI로 만들었다며 이렇게 말했다. \"이건 제 이야기이고 제 글이지만, 저는 삽화가가 아닙니다.\""
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+          "cap": "\"Boston Public Library – 1895\"라는 설명이 붙은, 책 속 AI-generated 삽화."
+        },
+        {
+          "t": "p",
+          "x": "Claremont Middle School은 첫 작가와의 밤 행사에서 모든 가정에 이 책을 한 권씩 나눠 줬다. 비용은 연방 가족 참여 기금에서 댔다. Savo는 삽화가를 쓸 형편이 안 됐고 자신도 디지털 마케팅 일자리를 AI에 빼앗겼다고 했다. 본문에도 오류가 몇 군데 있다. Amazon이 요구하는 AI 사용 고지는 판매 페이지에도, 책에도 없다."
+        },
+        {
+          "t": "p",
+          "x": "Dartmouth의 미술사학자 Mary Coffey는 아이들을 실제 명소로 안내하는 책이라면 어느 정도는 정확해야 한다고 했다. 그는 이 이미지들을 \"너무나 빈곤한 시각 언어\"라고 평하면서 AI를 쓴다면 솔직히 밝히라고 촉구했다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+          "cap": "Jared Gagnon이 그린 \"Sunset Scares\" 포스터. (Courtesy Dustin Warburton)"
+        },
+        {
+          "t": "p",
+          "x": "삽화가 Jared Gagnon과 함께 작업하는 Vermont의 작가 Dustin Warburton은 \"켜기만 하면 책을 만들어 내는 전등 스위치\"와 겨뤄야 하는 현실이 답답하다며 학교가 자신에게는 한 번도 연락하지 않았다고 말했다. 두 사람은 AI를 썼다면 독자 눈에 띄는 곳에 밝혀야 한다는 입장이다."
+        }
+      ]
     }
   }
 }

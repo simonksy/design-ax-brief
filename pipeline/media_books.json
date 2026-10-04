@@ -1,30 +1,27 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "books",
   "media": [
     {
-      "id": "savo-directive-detectives-ai-art",
-      "type": "image",
-      "src": "pipeline/media/savo-directive-detectives-ai-art.jpg"
+      "id": "hongkong-comics-ai-heyday",
+      "type": "video",
+      "src": "pipeline/media/hongkong-comics-ai-heyday.mp4",
+      "poster": "pipeline/media/hongkong-comics-ai-heyday.jpg"
     },
     {
-      "id": "openai-book-market-study-exclude",
-      "type": "svg"
+      "id": "ewc-destructive-book-scanning",
+      "type": "image",
+      "src": "pipeline/media/ewc-destructive-book-scanning.jpg"
     },
     {
-      "id": "elevenlabs-spoken-audiobooks",
+      "id": "bye-bye-ai-library-event",
       "type": "image",
-      "src": "pipeline/media/elevenlabs-spoken-audiobooks.jpg"
+      "src": "pipeline/media/bye-bye-ai-library-event.jpg"
     },
     {
-      "id": "sudowrite-chat-rewrite-printing",
+      "id": "shelf-reading-bots-libraries-ht",
       "type": "image",
-      "src": "pipeline/media/sudowrite-chat-rewrite-printing.png"
-    },
-    {
-      "id": "garmus-ai-hubris-essay",
-      "type": "image",
-      "src": "pipeline/media/garmus-ai-hubris-essay.jpg"
+      "src": "pipeline/media/shelf-reading-bots-libraries-ht.jpg"
     }
   ]
 }

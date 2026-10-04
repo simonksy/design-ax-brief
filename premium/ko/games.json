@@ -10415,6 +10415,144 @@
           "x": "Sony는 QSSR을 모든 개발사에 제공한다고 밝혔다. 두 게임의 패치는 오늘 나온다."
         }
       ]
+    },
+    "games/stardock-clairvoyance-ai-devtools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brad Wardell이 Stardock을 세운 건 1993년이다. 그의 팀이 이번에 게임 개발자 등을 위한 AI 생산성 도구 Clairvoyance를 만들었다. Wardell은 “지금 폭발적이다”라며 이 도구가 회사의 최고 매출 제품이 될 수도 있다고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Clairvoyance의 출발점은 반복적인 소프트웨어·게임 개발 작업을 자동화하던 사내 도구였다. Stardock은 두 해 동안 날마다 쓰며 다듬은 끝에 외부에 팔기로 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Clairvoyance는 사용자 컴퓨터에서 직접 돈다. 덕분에 AI 직원이 실제 프로젝트를 열고 빌드하고 실행한 다음 완성된 결과물을 넘겨준다. Windows, macOS, Linux에서 무료로 쓸 수 있고 Claude Code, Codex, Cursor, Grok, Copilot과 함께 돌아간다."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Wardell의 설명으로는 Clairvoyance가 노리는 건 창작의 대체가 아니라 작업 흐름의 마찰이다. 사람이 만든 아트를 자체 엔진으로 가져오기, Word 파일을 CSV 데이터로 바꾸기, 크래시 로그 분석, Jira 작업 생성 같은 일이다. 기본 앱은 무료, 프로 버전은 월 $20이다."
+        },
+        {
+          "t": "p",
+          "x": "생성형 아트를 두고 Wardell은 “지금의 생성형 AI는 결국 다 비슷해 보이는 저질 결과물을 만들어낸다고 생각한다”고 말했다."
+        }
+      ]
+    },
+    "games/vibe-coded-mashup-mods-backlash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "오래 모드를 만들어 온 이들이 인터넷 속 자기 영역을 차지한 최신 유행에 불만을 터뜨리고 있다. AI로 생성한(AI-generated), 이른바 “바이브 코딩(vibe-coded)” 모드라는 “빌어먹을 ‘트렌드’”다."
+        },
+        {
+          "t": "p",
+          "x": "“나는 게임 모드를 만들고, 그 작업에 AI를 쓴다는 사실을 숨기지 않는다. 그래도 이 빌어먹을 ‘트렌드’는 싫다. 순전한 쓰레기일 뿐, 창의적인 구석이라고는 전혀 없다.” 모더 kran27_가 올린 글이다."
+        },
+        {
+          "t": "p",
+          "x": "쏟아지는 모드들은 서로 무관한 게임을 뒤섞는다. World of Warcraft를 Call of Duty: World at War에, Escape From Tarkov를 Skyrim에 넣는 식이다. 유행은 단 일주일 만에 눈덩이처럼 커졌다. Claude Opus 5.5의 토큰 가격이 내려가고 코드 생성 능력이 좋아져, 모델에 게임 디컴파일을 맡기고 전혀 다른 요소를 덧붙이기가 그 어느 때보다 쉬워진 탓이다."
+        },
+        {
+          "t": "p",
+          "x": "이런 AI 디컴파일(AI-decompiled) 매시업은 아직 Nexus Mods 같은 모딩 플랫폼에 올라오지 않았다. IGN은 권리 문제 때문일 공산이 크다고 본다. 거의 전부가 제작자에게 아무 권리도 없는 디컴파일 코드와 에셋을 쓴다."
+        }
+      ]
+    },
+    "games/grimhammer3-mod-corrupted-ai-protest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Total War: Warhammer 3 오버홀 모드가 AI를 활용한(AI-infused) 방식으로 무단 재업로드되자, SFO: Grimhammer 3의 주 제작자가 화가 나 모드를 일부러 망가뜨리기로 했다. 최신 버전의 Grimhammer 3를 언제, 어디서 받을지 모더들이 더 확실히 쥐겠다는 취지다. 제작자 Venris는 상황이 나아지지 않으면 모드를 비공개로 돌리겠다고 경고했다."
+        },
+        {
+          "t": "p",
+          "x": "“SFO: Grimhammer III의 무단 재업로드가 늘고 있고, 더 중요하게는 그 과정에서 AI가 쓰이고 있어, 이런 무단 업로드에서는 작동하지 않도록 모드를 일부러 손상시켰습니다.” 제작자는 IGN이 찾아낸 Patreon 게시글에 이렇게 썼다."
+        },
+        {
+          "t": "p",
+          "x": "“SFO: Grimhammer는 이 커뮤니티와 판타지 세계를 향한 십 년 가까운 열정과 애정의 결과물입니다. 그러니 누구도 허락 없이 제 작업물을 가져가게 두지 않습니다. 특히 AI 관련(AI-related) 목적이라면 더더욱 그렇습니다. AI가 아니라 모더를 응원해 주세요.” Venris는 모드를 유료화할 생각은 없다고 못 박으며 글을 맺었다."
+        },
+        {
+          "t": "p",
+          "x": "SFO 팀의 모드는 주로 Steam Workshop으로 배포된다. 다만 Nexus Mods 같은 모딩 사이트들은 최근 생성형 AI로 만든 모드의 표기 기준을 강화하는 쪽으로 움직였다."
+        }
+      ]
+    },
+    "games/activision-mw2-genai-legal-notice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "기존 게임의 아류작과 디컴파일, 바이브 코딩으로 찍어 내는 저질 게임은 지금 사실상 무법지대다. 그런데 둘 다 Microsoft 소유인 Activision과 Bethesda가 최근 서로 다른 두 프로젝트를 상대로 조치에 나섰다."
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus 5.5로 코딩한 브라우저 재현작 Fallout: New York은 조회수 3.5백만 회를 넘겼다. 하지만 ChrisFirst는 Bethesda에서 중단 요구서를 받았다고 알려진 뒤 10월 1일 프로젝트를 접었다."
+        },
+        {
+          "t": "p",
+          "x": "Maurice Heumann은 9월 30일 X에 genAI로 PC판 원작 Modern Warfare 2의 소스 코드를 디컴파일하는 중이라고 올렸다. “현재 17개의 에이전트가 병렬로 작업하고 있어 놀라운 속도로 진척되고 있다”는 글이었다."
+        },
+        {
+          "t": "p",
+          "x": "Activision은 그가 공유한 영상을 지우는 것으로 대응했다. 그 자리에는 “저작권자의 신고에 따라 이 미디어는 비활성화되었습니다”라는 경고만 남았다. 코드를 호스팅하던 것으로 알려진 사이트 링크도 더는 열리지 않는다."
+        }
+      ]
+    },
+    "games/gibiz-hr-summit-genai-workload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "이미지 출처: GamesIndustry.biz"
+        },
+        {
+          "t": "p",
+          "x": "10월 1일 열린 GamesIndustry.biz HR Summit에서 생성형 AI는 몇 번이고 화제에 올랐다. 코딩이 빨라지고 단순 반복 업무가 자동화된다는 의견도 나왔지만, 만병통치약과는 거리가 멀고 오히려 직장에 문제를 만든다는 시각이 대체적이었다. 민감한 데이터 우려, 커지는 직원 불안, 늘어나는 HR 업무 같은 문제다."
+        },
+        {
+          "t": "p",
+          "x": "참석자 회사 대부분이 이제 AI 정책을 두고 있지만, 변화가 워낙 빨라 계속 고쳐 써야 한다. 직원이 NDA 자료를 개인 ChatGPT 계정에 붙여 넣어도 거의 막을 길이 없다고 리더들은 털어놨다. 한 참석자는 \"AI가 재미있는 걸 만드는 건 본 적이 없다\"고 했고, 다른 참석자는 \"쓰레기를 더 빨리 만들 수 있다\"고 꼬집었다."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "GamesIndustry.biz HR Summit은 London의 The Royal Institution에서 열렸다 | 이미지 출처: GamesIndustry.biz"
+        },
+        {
+          "t": "p",
+          "x": "규칙을 강제하지 않으면 혼란이 생긴다. Gemini-generated 셰이더 코드가 스튜디오 규칙을 어겨 빌드를 되돌린 일이 있었고, 손가락이 더 달린 외주 AI 아트는 커뮤니티의 반발을 샀다. 업무 과정이 암묵지에 기대다 보니 워크플로 시범 도입이 무산되는 일도 잦다."
+        },
+        {
+          "t": "p",
+          "x": "HR 팀은 부정확한 내용투성이인 긴 AI-written 고충 신고서까지 떠안는다. 한 참석자는 \"꽤 자주 오히려 할 일이 늘었다\"며 AI가 질문에 답할 수는 있어도 \"사람을 읽지는 못한다\"고 덧붙였다."
+        }
+      ]
     }
   }
 }

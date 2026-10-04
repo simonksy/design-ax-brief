@@ -1,101 +1,83 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "books",
   "items": [
     {
-      "title": "Claremont author faces criticism over AI art in new book",
-      "tool": "Books",
+      "title": "Hong Kong comics scene: Creators turning to AI in bid to recapture industry's heyday",
+      "url": "https://www.channelnewsasia.com/watch/hong-kong-comics-scene-creators-turning-ai-in-bid-recapture-industrys-heyday-6427021",
+      "source": "CNA",
+      "published_iso": "2026-10-02T21:09:48+08:00",
+      "og_image": "https://dam.mediacorp.sg/image/upload/s--92fFQUlw--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/img_20261002_210744_8896.jpg?itok=v63Dp94A",
+      "excerpt": "Hong Kong was once a comic powerhouse, producing titles that sold millions of copies each year. But while creators still win awards, sales are a fraction of what they used to be. Jeraldine Yap reports.",
       "category": "books",
+      "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "url": "https://vnews.com/2026/10/02/ai-book-controversy-claremont/",
-      "source": "Valley News",
-      "published_iso": "2026-10-02T18:37:00+00:00",
-      "og_image": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=2560%2C1583&ssl=1",
-      "excerpt": "Claremont Middle School hosted author Giulio Savo and his book \"Directive Detectives: The Freedom Trail Directive,\" sparking debate over the use of AI in children's literature.",
-      "rationale": "Fresh, concrete local case of AI illustration backlash in children's books; strong original photo."
+      "rationale": "Fresh on-the-ground report of Hong Kong comic creators adopting AI in production; new region and use case not covered in history."
     },
     {
-      "title": "OpenAI seeks to exclude book market study, citing funding ties to authors' law firm",
-      "tool": "Books",
+      "title": "EWC denounces AI Tech's practice of shredding books and calls on Europe's decision-makers to take a firm stand",
+      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
+      "source": "European Writers Council",
+      "published_iso": "2026-09-25T11:32:30+00:00",
+      "og_image": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+      "excerpt": "The EWC condemns the AI tech practice of « destructively scanning » millions of old or rare European books and calls upon decision-makers and the whole of our European society to speak up loudly on behalf of authors, publishers, and readers on this predatory exploitation.",
       "category": "books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "url": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-09-30T16:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "excerpt": "The accuracy and funding of research claiming Gen AI causes market harm have become important questions in the consolidated lawsuits.",
-      "rationale": "New filing in the consolidated authors-v-OpenAI case targeting the market-harm evidence authors rely on."
-    },
-    {
-      "title": "Is AI coming for audiobooks?",
       "tool": "Books",
-      "category": "books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "url": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry",
-      "source": "Marketplace",
-      "published_iso": "2026-09-30T17:30:00-04:00",
-      "og_image": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-      "excerpt": "AI companies like ElevenLabs and Spoken are angling for the fast-growing audiobook market. It remains to be seen if consumers will buy in.",
-      "rationale": "Mainstream business reporting on ElevenLabs and Spoken pushing into audiobooks, with consumer-demand angle."
+      "rationale": "Official position statement from Europe's writers' federation calling on EU policymakers to act on destructive book scanning for AI training; primary source, new institutional action."
     },
     {
-      "title": "Faster Chat, Better Rewrite & Printing",
-      "tool": "Books",
+      "title": "In New York, a small library's 'Bye Bye AI' event to remove AI features goes viral",
+      "url": "https://www.thecooldown.com/green-tech/library-bye-bye-ai-event-viral/",
+      "source": "The Cool Down",
+      "published_iso": "2026-09-30T01:41:00+00:00",
+      "og_image": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+      "excerpt": "A public library in upstate New York has gone viral for offering an unusual kind of tech assistance: helping people switch off AI features on their phones and computers.",
       "category": "books",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "url": "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing",
-      "source": "Sudowrite",
-      "published_iso": "2026-09-22T02:49:17.794Z",
-      "og_image": "https://og.featurebase.app/?type=root&title=Faster+Chat%2C+Better+Rewrite+%26+Printing&description=We%E2%80%99ve+made+some+big+updates+to+Chat+very+recently%2C+improving+both+its+speed+and+performance.+Chat+responses+are+now+twice+as+fast+-+We+moved+Chat+to+f&companyLogo=https%3A%2F%2Ffb-usercontent.fra1.cdn.digitaloceanspaces.com%2F019224dc-a888-7f48-9ff1-ea2dd116543a.png&companyName=Sudowrite&companyThemeColor=%23b169ff&companyTLP=bottom",
-      "excerpt": "Sudowrite's Chat responses are now twice as fast, with an improved Rewrite tool and new printing support for manuscripts.",
-      "rationale": "Actionable writing-tool feature release (2x Chat, better Rewrite, printing), distinct from the 09-28 model-addition card."
-    },
-    {
-      "title": "AI might kill us, but is that so bad?",
       "tool": "Books",
-      "category": "books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad",
-      "source": "The Bookseller",
-      "published_iso": "2026-10-01T13:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg",
-      "excerpt": "While the advent of AI has alarmed most writers, Bonnie Garmus argues it has also shone a light on the hubris of humankind.",
-      "rationale": "Bestselling novelist Bonnie Garmus (Lessons in Chemistry) weighs in on AI and writers; the strongest remaining fresh, on-topic books item after duplicates were excluded."
+      "rationale": "Concrete library program helping patrons switch off AI features; novel public-library response to AI not seen in history."
+    },
+    {
+      "title": "Book-smart and shelf aware: How AI and bots are changing libraries",
+      "url": "https://www.hindustantimes.com/lifestyle/art-culture/booksmart-and-shelf-aware-how-ai-and-bots-are-changing-libraries-101790935951543.html",
+      "source": "Hindustan Times",
+      "published_iso": "2026-10-02T15:42:31+05:30",
+      "og_image": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+      "excerpt": "Around the world, shelf-reading bots and AI cataloguing are changing the way we borrow from libraries. What does this mean for a millennia-old institution?&nbsp;",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#ff5a4d",
+      "motif": "swatch",
+      "rationale": "Survey of deployed shelf-reading robots and AI cataloguing in libraries (e.g. Singapore NLB); concrete tooling rather than policy debate."
     }
   ],
   "dedup": {
     "checks": {
-      "https://vnews.com/2026/10/02/ai-book-controversy-claremont/": {
+      "https://www.channelnewsasia.com/watch/hong-kong-comics-scene-creators-turning-ai-in-bid-recapture-industrys-heyday-6427021": {
         "verdict": "new",
-        "nearest": "https://www.techradar.com/ai-platforms-assistants/the-bizarre-rise-of-grandmaslop-grandparents-are-filling-family-albums-with-ai-images-and-their-kids-hate-it",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101260-novvel-co-pioneers-producing-graphic-novels-with-ai-assistance.html",
         "new_action": ""
       },
-      "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/": {
+      "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/": {
         "verdict": "follow-up",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
-        "new_action": "New OpenAI filing (motion to exclude the authors' book-market-harm study, citing its funding ties to plaintiffs' law firm) in the consolidated case."
+        "nearest": "https://aimatters.co.kr/news-report/53163/",
+        "new_action": "European Writers Council issued a formal statement condemning destructive book scanning for AI training and calling on European decision-makers to act (new institutional release, not further reporting on the scanning itself)."
       },
-      "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry": {
+      "https://www.thecooldown.com/green-tech/library-bye-bye-ai-event-viral/": {
         "verdict": "new",
-        "nearest": "https://www.thebookseller.com/comment/ai-narration-companies-audiobook-trojan-horse",
+        "nearest": "https://www.infodocket.com/2026/09/06/accountability-integrity-ai-policy-in-public-libraries-new-journal-article/",
         "new_action": ""
       },
-      "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing": {
+      "https://www.hindustantimes.com/lifestyle/art-culture/booksmart-and-shelf-aware-how-ai-and-bots-are-changing-libraries-101790935951543.html": {
         "verdict": "new",
-        "nearest": "https://feedback.sudowrite.com/changelog/new-ai-models-opus-55-gpt-6-sol-and-gpt",
-        "new_action": ""
-      },
-      "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad": {
-        "verdict": "new",
-        "nearest": "https://www.thebookseller.com/comment/pushing-authors-culture-ai-secrecy",
+        "nearest": "https://www.infodocket.com/2026/09/21/accelerating-generative-ai-integration-in-libraries-a-new-special-issue-of-information-technology-and-libraries-vol-45-no-3-2026/",
         "new_action": ""
       }
     },
-    "note": "Dropped: PW ROSS appeal (duplicates politics 10-02 Thomson Reuters v. ROSS card). Bookseller LibGen unsealed filings (same OpenAI/Microsoft unsealed-filings story as PW 'Unsealed Files...' published 09-22). Jane Friedman 'Publishing industry organizations release 2026 report on AI use' (likely the same industry AI-use survey as PW 'As Publishers Ramp Up AI Implementation' published 09-30). Sudowrite 'Even More New Models' (near-repeat of 09-28 model-additions card). Jane Friedman 'Another AI scandal...award' (unclear whether distinct from the Orelien/Goncourt story published 09-24/09-26; skipped as risk). Not picked on score: Bonnie Garmus comment (opinion essay), Dartmouth provost (higher-ed governance, weak books fit), Frankfurt program picks (event preview, thin AI angle). Picks are 5 distinct outlets; Marketplace is an editorial feature on the audiobook market, not the same event as the Bookseller 10-02 comment piece. news_data.json not fully scanned cross-section due to size; candidates are books-specific.\nSWAP (2026-10-03, orchestrator request): removed The Digital Reader 'Can Better Wording Fix the \"Made With AI\" Problem?' because the fetched article carries a paid/sponsored link insertion on a link-farm site and the research concerns advertising labels, not books. Replacement: Bookseller 'AI might kill us, but is that so bad?' (Bonnie Garmus comment, 10-01). It is opinion, but no concrete-news candidate survived: the remaining ones were either duplicates (ROSS, LibGen, AI-use report, Sudowrite models, possible Orelien repeat) or off-topic or thin (Dartmouth provost is higher-ed governance; the Frankfurt program preview overlaps PW's 09-25 Frankfurt preview and has little AI angle). The Garmus essay matches no published story: the nearest Bookseller comment pieces (09-17 emails, 09-29 secrecy, 10-02 narration) argue different points. It takes the freed accent #2ec5c5. The 5 picks still come from 5 distinct outlets."
+    "note": "SWAP 2026-10-05: removed The Digital Reader 'Can Better Wording Fix the Made With AI Problem?' after fact-check (research concerns AI labels in advertising, not books/publishing; page carries a paid-link insertion). No backfill: every remaining candidate fails. Already-ruled duplicates: Vulture 'Publishers Hit the AI Jackpot' (Anthropic settlement payout split, same running story as TechCrunch 9/9, Writer Beware 9/5, Authors Guild 9/18, PW 10/1; no new decision or filing); 한국경제 하루키 AI 번역본 (same event as Sixth Tone 9/15). Re-checked and dropped: ERR 'Publishers say using AI to translate classics is ethically wrong' (Estonian publisher commentary from the same outlet, on the same AI-vs-literary-translators theme as the ERR 9/30 card 'Publisher: AI will come for translators and illustrators first'; it is commentary with no new release or announcement, so it counts as the same running story); Kursiv translators-day feature (soft International Translation Day piece, no new event; theme already covered by PW 9/18 'Lost in Translation', mediatoday 9/29 and ERR 9/30); 한국경제 천자칼럼 (opinion column on the AI-translation theme); Spectrum News authors feature (generic reaction piece, overlaps the KDP/AI-flood coverage on 9/25 and 9/29); Brighter Side UK novelists survey (aggregator re-reporting a survey, which the swap rules exclude); Globe and Mail Manguel interview (AI is incidental); 이데일리 레진코믹스 founder interview (AI angle thin, startup profile). None of the 4 kept URLs appear twice, and none are claimed by another section. 4 picks from 4 distinct outlets, which is above the floor of 3."
   }
 }

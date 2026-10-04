@@ -1,33 +1,31 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "design",
   "media": [
     {
-      "id": "bfl-flux3-image",
-      "type": "video",
-      "src": "pipeline/media/bfl-flux3-image.mp4",
-      "poster": "pipeline/media/bfl-flux3-image.jpg"
-    },
-    {
-      "id": "classcad-ai-mcp",
+      "id": "formas-cartesian-agentic-modeller",
       "type": "image",
-      "src": "pipeline/media/classcad-ai-mcp.jpg"
+      "src": "pipeline/media/formas-cartesian-agentic-modeller.jpg"
     },
     {
-      "id": "infoq-regeneratable-ui",
+      "id": "lightroom-prompt-to-edit-restore",
       "type": "image",
-      "src": "pipeline/media/infoq-regeneratable-ui.jpg"
+      "src": "pipeline/media/lightroom-prompt-to-edit-restore.jpg"
     },
     {
-      "id": "doherty-threshold-ai-ux",
+      "id": "chatgpt-sites-public-beta-hosting",
       "type": "image",
-      "src": "pipeline/media/doherty-threshold-ai-ux.png"
+      "src": "pipeline/media/chatgpt-sites-public-beta-hosting.jpg"
     },
     {
-      "id": "ideogram45-region-edit",
-      "type": "video",
-      "src": "pipeline/media/ideogram45-region-edit.mp4",
-      "poster": "pipeline/media/ideogram45-region-edit.jpg"
+      "id": "premiere-android-free-firefly",
+      "type": "image",
+      "src": "pipeline/media/premiere-android-free-firefly.jpg"
+    },
+    {
+      "id": "aholo-lux3d-blender-agent",
+      "type": "image",
+      "src": "pipeline/media/aholo-lux3d-blender-agent.jpg"
     }
   ]
 }

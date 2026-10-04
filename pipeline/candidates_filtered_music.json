@@ -1,78 +1,50 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "music",
+  "now_iso": "2026-10-04T22:05:00Z",
   "window_hours": 336,
-  "generated_at": "2026-10-02T22:00:00Z",
-  "notes": "RSS/sitemap-first: 25+ outlet feeds incl. paged WP feeds, news sitemaps (Billboard/MusicRadar/MusicTech/Gearnews/RS/Verge), Music Ally (musically.com) feed pages 1-7, MBW pages 1-9, YouTube channel feeds (Suno, ElevenLabs, Benn Jordan, Andrew Huang), suno.com/blog, ~14 Google News keyword queries + 25 site:-scoped GN sweeps (when:14d). 4 WebSearch calls (2 errored: theverge/pitchfork blocked). Expanded keywords: Suno Speech, Stability/Stable Audio, AI lyrics/LyricFind, voice-likeness scams, Moises/LANDR/iZotope/Splice/AudioShake, Zplane, Antares, Even, BeatStars, B.A.C.H. Most fresh on-list AI-music items already in published_urls.json (Engram, Resolume 7.28, Amorph, Qobuz tags, Voice-Swap DDEX, Sanremo, KOMCA, Japan voice ruling, Thomson Reuters fair use, IMPF/IMPEL, Kelly Clarkson, Fred again, Todd Edwards, VirtualDJ 2026, YouTube Music AI, Absolute Anthology, ClassicalBot, Pachet, Professional Sound Alliance, ARIAM, Suno YouTube-training admission, UMG/Sony v6 suit, Snapchat chat-to-song, Eleven v4) - dropped. Dropped as business noise: ElevenLabs $22B, Modulate $25M, Suno 2m subs/$300m revenue, UMG Celma hire, Kobalt VC, BandLab CEO, streaming-fraud sentencing. Dropped weak-AI: Spotify playlist decline, YouTube Shorts originality, BeatStars, Even Studio, AutoTune Advanced, MiniFreak v5, Phoenix synth. Stale: Mixmag UMG platform (Sep 11), Mixmag Suno YouTube (Sep 14), Output Co-Producer (2025), Splice (Apr). BPB Suno-lawsuit is Cloudflare-blocked, so the MBW version is used. Items 1-2 are the same Suno Speech story (Verge + official blog); curator should pick one.",
   "items": [
     {
-      "title": "AI music maker Suno now generates spoken words",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "title": "How Seoul Institute of the Arts Students Use Suno | In The Cut",
+      "url": "https://www.youtube.com/watch?v=F0vEAbzFLzk",
+      "source": "Suno Music (YouTube)",
+      "published_iso": "2026-10-03T18:45:39+00:00",
+      "og_image": "https://i.ytimg.com/vi/F0vEAbzFLzk/maxresdefault.jpg",
+      "excerpt": "Suno visits Seoul Institute of the Arts in South Korea to show how music students use Suno to sketch song ideas, experiment with vocals and harmonies, find chords, and separate stems in Suno Studio before continuing work in their existing DAW workflows.",
+      "category": "music",
+      "section": "music"
+    },
+    {
+      "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
       "source": "The Verge",
-      "published_iso": "2026-10-02T09:42:19+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Suno's new Speech beta generates synthetic voiceovers set to AI background music, pushing the music generator into ElevenLabs' spoken-audio territory.",
+      "published_iso": "2026-10-03T15:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Interview with Splice CEO Kakul Srivastava on how the sample platform has tried to carefully thread the line on AI music tools for producers.",
       "category": "music",
       "section": "music"
     },
     {
-      "title": "Introducing Speech (beta)",
-      "url": "https://suno.com/blog/introducing-speech-beta",
-      "source": "Suno",
-      "published_iso": "2026-10-01T20:35:00.000Z",
-      "og_image": "https://suno.com/blog/introducing-speech-beta/opengraph-image?4a0be6b3238f1ddc",
-      "excerpt": "Suno CPO Jack Brody announces Speech, which Suno calls the first audio model to generate voice and music together as one track: type a text or poem, describe the voice and musical style, and get spoken audio over original music.",
+      "title": "AI 작곡·보컬 노래가 결국 음원차트 1위가 됐다 ①",
+      "url": "https://isplus.com/article/view/isp202610020003",
+      "source": "일간스포츠 (isplus)",
+      "published_iso": "2026-10-03T06:00:00+09:00",
+      "og_image": "https://isplus.com/data/isp/image/2026/10/01/isp20261001000306.800x.0.png",
+      "excerpt": "창작자 머무르의 '꿈꾸던 어른이 되었나요?'는 수노(Suno)로 보컬을 생성하고 기획·작사·프로듀싱은 직접 맡은 곡으로, 멜론 등 음원차트 상위권에 오르며 AI 제작 음원 표기 의무 등 제도 논의를 다시 불러왔다. (Off-list exception: Korean-market coverage; no allowed-domain outlet covered it.)",
+      "category": "music",
+      "section": "music"
+    },
+    {
+      "title": "“The death of Suno”: Reddit users have turned against Suno after v6 model update",
+      "url": "https://musictech.com/news/industry/suno-ai-update-v6/",
+      "source": "MusicTech",
+      "published_iso": "2026-09-21T15:44:36+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/06/Suno-new-hero-D@2000x1500-1068x801.jpg",
+      "excerpt": "Suno's own power users on Reddit are revolting against the v6 model update, while labels say it hasn't satisfied them either: 'V6 is not a fresh start; it is the fruit of the same poisoned tree.'",
       "category": "music",
       "section": "music",
       "history_match": {
-        "score": 0.173,
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
-        "title": "Introducing voice, music, image, and video generation in the ElevenLabs MCP",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch",
-      "published_iso": "2026-10-02T21:09:14+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-      "excerpt": "Napster co-founder Sean Parker says Stability AI (maker of Stable Audio) is being repositioned as the go-to AI toolmaker for music professionals, built on catalogs licensed from Sony, Warner and Universal.",
-      "category": "music",
-      "section": "music"
-    },
-    {
-      "title": "Questlove on the History of Sampling, From Public Enemy to Today: 'I See AI as a Parallel to Sampling Culture'",
-      "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
-      "source": "Billboard",
-      "published_iso": "2026-09-30T21:33:07+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024",
-      "excerpt": "On Billboard's On the Record, Questlove traces sampling from Public Enemy to microchopping and generative AI, arguing AI parallels sampling culture while the magic still lives in human imperfection.",
-      "category": "music",
-      "section": "music"
-    },
-    {
-      "title": "Lyrics Show How AI Can Grow Music Revenue Without Replacing People",
-      "url": "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/",
-      "source": "Hypebot",
-      "published_iso": "2026-10-01T11:50:19.000Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg",
-      "excerpt": "AI-assisted lyric transcription, sync and translation can make long-tail songs (9.6M tracks, 13% of 2025 streams) addressable, expanding songwriter royalties while creating more work for human teams.",
-      "category": "music",
-      "section": "music"
-    },
-    {
-      "title": "Suno confirms V6 model was trained on 'creations' from users, as it blasts latest Sony and Universal lawsuit",
-      "url": "https://www.musicbusinessworldwide.com/suno-confirms-v6-model-was-trained-on-creations-from-users-as-it-blasts-latest-sony-and-universal-lawsuit/",
-      "source": "Music Business Worldwide",
-      "published_iso": "2026-09-22T14:25:56+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-      "excerpt": "Responding to UMG and Sony's second lawsuit, Suno said its v6 models were trained on 'interactions including creations and preference signals' from its own users, which puts user-made tracks in the training data.",
-      "category": "music",
-      "section": "music",
-      "history_match": {
-        "score": 0.232,
+        "score": 0.309,
         "date": "2026-09-22",
         "url": "https://www.musicbusinessworldwide.com/universal-and-sony-sue-suno-for-a-second-time-claiming-platforms-v6-models-are-the-fruit-of-the-same-poisoned-tree/",
         "title": "Universal and Sony sue Suno for a second time, claiming platform’s v6 models are ‘the fruit of the same poisoned tree’",
@@ -80,83 +52,62 @@
       }
     },
     {
-      "title": "Making \"Take Me Back\" | Braylon Browner x Nina McNeely",
-      "url": "https://www.youtube.com/watch?v=1OITvfAN6-g",
-      "source": "Suno (YouTube)",
-      "published_iso": "2026-10-02T10:24:02-07:00",
-      "og_image": "https://i.ytimg.com/vi/1OITvfAN6-g/maxresdefault.jpg",
-      "excerpt": "Suno's behind-the-scenes film with Braylon Browner and Emmy-winning choreographer/director Nina McNeely shows the path from a dance to a Suno v6 song to a full music video built around movement.",
+      "title": "Feds Want Nearly 4 Years in Prison for AI Music Fraudster Who 'Stole Millions'",
+      "url": "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/",
+      "source": "Rolling Stone",
+      "published_iso": "2026-09-30T00:33:00+00:00",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1",
+      "excerpt": "Prosecutors want convicted AI music fraudster Michael Smith, who used AI-generated songs and bot streams to collect about $8M in royalties, to get nearly four years in prison; he is asking for probation.",
+      "category": "music",
+      "section": "music",
+      "history_match": {
+        "score": 0.3,
+        "date": "2026-09-29",
+        "url": "https://www.musicbusinessworldwide.com/man-who-pocketed-8m-using-ai-songs-and-bot-streams-asks-for-no-prison-time-arguing-no-artist-suffered-any-perceptible-harm/",
+        "title": "Man who made $8m from AI songs and bot streams asks for no prison time",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Suno is ‘far beyond’ 2m subscribers and $300m in revenue, says Mikey Shulman – who argues it’s ‘good’ that AI music has no ‘firm rules of the road’ yet",
+      "url": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-10-02T16:42:55+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg",
+      "excerpt": "Suno CEO Mikey Shulman says the v6-era service has passed 2M subscribers, sets out what WMG and BMG get from their licensing deals, and argues about who should set AI music's rules.",
       "category": "music",
       "section": "music"
     },
     {
-      "title": "AI scammers are trying to use me",
-      "url": "https://www.youtube.com/watch?v=W_7H4yThuto",
-      "source": "Andrew Huang (YouTube)",
-      "published_iso": "2026-09-26T08:30:15-07:00",
-      "og_image": "https://i.ytimg.com/vi/W_7H4yThuto/maxresdefault.jpg",
-      "excerpt": "Producer-educator Andrew Huang warns his audience about AI-driven scams that use his likeness. This is a short with no description, so only the title and channel were verified.",
+      "title": "Spotify Editorial Playlists' Followers & Listeners Slip Amid Fake Account and AI Slop Crackdowns, Report Finds",
+      "url": "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/",
+      "source": "Digital Music News",
+      "published_iso": "2026-10-01T20:45:36+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar.jpg",
+      "excerpt": "Listener counts on Spotify's biggest editorial playlists are slipping as the platform cracks down on fake accounts, streaming manipulation and AI-generated 'slop', according to a new report.",
       "category": "music",
-      "section": "music"
+      "section": "music",
+      "history_match": {
+        "score": 0.186,
+        "date": "2026-09-27",
+        "url": "https://www.musicbusinessworldwide.com/spotify-has-set-out-how-it-works-inside-muse-metas-personal-ai-agent/",
+        "title": "Spotify becomes the first streaming service inside Meta's Muse AI agent",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 8,
+    "kept": 7,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 2,
+    "review": 3,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-03",
-      "title": "The new TONE3000 is FREE and provides access to countless NAM profiles",
-      "url": "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Elastic Melody now does bass and DFAM-style percussion, too (Mac, iOS)",
-      "url": "https://cdm.link/elastic-melody-1-2/"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Lucinate video synth animates and live-codes visuals on Mac and iOS",
-      "url": "https://cdm.link/lucinate-visuals-on-mac-and-ios/"
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Logic Pro 12.3, as reviewed by a Cubase version 1 user",
-      "url": "https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Armin van Buuren and Laidback Luke join 'responsible' AI music company Moises as advisors",
-      "url": "https://djmag.com/news/armin-van-buuren-and-laidback-luke-join-responsible-ai-music-company-moises-advisors"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Alok fans get personalised music video with headphone purchases",
-      "url": "https://musically.com/2026/09/01/alok-fans-get-personalised-music-video-with-headphone-purchases/"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Audacity 4 Is Finally Here: The Biggest Update in the Editor's History",
-      "url": "https://www.gearnews.com/audacity-update-free/"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Producely Dialr: This Plugin Controller Maps with AI!",
-      "url": "https://www.gearnews.com/producely-dialr-studio/"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "Creating plugins in Suno Studio 2.0",
-      "url": "https://www.youtube.com/watch?v=lGvyrEkZ6ZU"
-    },
     {
       "date": "2026-09-05",
       "title": "Songscription talks AI and music publishing: 'We need to work alongside the industry'",
@@ -746,6 +697,31 @@
       "date": "2026-10-02",
       "title": "SLEEP CLUB's New Music About The 'Intrusion' Of AI Got Incorrectly Flagged By Spotify's AI Systems",
       "url": "https://www.theprp.com/2026/09/28/news/sleep-clubs-new-music-about-the-intrusion-of-ai-into-our-daily-lives-once-again-got-incorrectly-flagged-by-spotifys-ai-systems/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Questlove on the History of Sampling, From Public Enemy to Today: 'I See AI as a Parallel to Sampling Culture'",
+      "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Lyrics Show How AI Can Grow Music Revenue Without Replacing People",
+      "url": "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Making \"Take Me Back\" | Braylon Browner x Nina McNeely",
+      "url": "https://www.youtube.com/watch?v=1OITvfAN6-g"
     }
   ]
 }

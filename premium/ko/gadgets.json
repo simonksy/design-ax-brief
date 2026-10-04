@@ -11635,6 +11635,102 @@
           "x": "Road to VR은 Samsung이 수년 앞선 Meta와 맞서야 하고, 카메라 달린 안경을 두고 Meta가 받아온 대중의 시선도 똑같이 감당해야 한다고 짚었다."
         }
       ]
+    },
+    "gadgets/ipad-entry-apple-intelligence-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
+          "cap": "iPad 11 (2025)"
+        },
+        {
+          "t": "p",
+          "x": "유출된 코드를 보면 곧 나올 iPad 12는 Apple Intelligence를 염두에 두고 하드웨어를 눈에 띄게 끌어올린다. 이 보급형 태블릿에는 A19 칩과 8GB RAM이 들어갈 전망이다."
+        },
+        {
+          "t": "p",
+          "x": "MacRumors 기고자 Aaron Perris가 Apple 코드에서 12세대 모델 항목을 찾아냈는데, 여기에는 Apple이 직접 만든 C1X 셀룰러 모뎀과 N1 무선 네트워킹 칩도 올라 있다. A19는 2025년 3월에 나온 현행 iPad 11의 A16 칩 자리를 잇는다."
+        },
+        {
+          "t": "p",
+          "x": "칩이 바뀌면서 보급형 iPad에도 처음 Apple Intelligence가 들어온다. A16이 이 플랫폼을 지원하지 않아 iPad 11 사용자는 Apple의 생성형 AI 도구도, 이를 바탕으로 한 Siri 기능도 쓰지 못한다. 메모리는 6GB에서 8GB로 늘어나 Apple이 Apple Intelligence 구동에 요구하는 최소 용량을 채운다."
+        },
+        {
+          "t": "p",
+          "x": "C1X는 sub-6GHz 5G 네트워크를 지원하면서 전력 효율이 더 높고, N1은 Wi-Fi 7, Bluetooth 6, Thread 지원을 더한다. iPad 11은 2026년 6월 가격이 오른 뒤 지금 $449부터이고, 후속 모델도 같은 가격이 예상된다. 이번에 찾아낸 코드에 출시일은 없다. iPad 12는 2027년 봄은 지나야 나올 전망이다."
+        }
+      ]
+    },
+    "gadgets/atlas-redesigned-hands-bd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-10-01-at-22.36.04.png",
+          "cap": "Atlas의 새 손."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics의 Atlas가 새 손을 단다. 이 로봇 회사가 공개한 새 손은 드릴을 다루고 한 손으로 골프공 두 개를 움직인다. Boston Dynamics에 따르면 자유도도 13으로 늘어난다."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics가 고급 로봇 Atlas용 새 손을 선보였다. 새 영상에는 드릴 다루기를 비롯한 새 능력이 담겼다. 시연에는 원격 조작자가 거들었지만, 머지않아 가능해질 일을 엿보기에는 충분하다. Boston Dynamics는 Atlas가 훈련받는 대신 실제로 스스로 배우게 하는 방법도 연구 중이다."
+        },
+        {
+          "t": "p",
+          "x": "Atlas는 이미 새 손을 완전히 자율로 쓴다. Boston Dynamics는 Atlas가 한 손으로 골프공 두 개를 다루는 장면으로 이를 보여 준다. Atlas는 새끼손가락 없이 이 동작을 해낸다. 회사 설명으로는 손가락을 하나 더 달면 복잡해지는 만큼 얻는 게 없다. 전력 소비도 늘어난다. 엄지 하나에 손가락 세 개, 그게 전부다."
+        },
+        {
+          "t": "p",
+          "x": "복잡하기로는 이미 소형 로봇에 맞먹는다. Boston Dynamics의 기계 엔지니어 Dylan Thrush는 개선된 Atlas의 손이 이제 13자유도를 갖췄다고 말한다. 이전 Atlas는 7자유도에 그쳤다. 회사가 Atlas를 자동차 조립에 투입할 계획이라 늘어난 자유도는 쓸모가 있을 것이다. 새 손은 보통 사람 손보다 조금 더 크고 힘도 세다."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics는 유연성이 늘어난 새 손이 기계 부품을 망가뜨릴 만한 동작을 더 잘 피하리라 기대한다."
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        }
+      ]
+    },
+    "gadgets/insta360-spatial-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+          "cap": "이미지 출처: Insta360"
+        },
+        {
+          "t": "p",
+          "x": "Insta360이 무료 기능 Spatial Capture를 내놨다. 360 영상을 실제 공간의 정밀한 3D 모델로 바꿔, 그 안을 돌아다니며 볼 수 있게 해 준다. 아직 베타이고, 지금은 Insta360 X6와 X4 Air, X5를 비롯해 5.7K 영상을 30fps 이상으로 찍을 수 있는 이 회사 360 카메라라면 모두 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Spatial Capture의 바탕은 3D Gaussian Splatting(3DGS)이다. 소프트웨어가 매 순간 카메라 위치를 계산한 다음, 작고 반투명한 점 수백만 개로 장면을 다시 짜 맞춘다. 덕분에 카메라가 한 번도 놓인 적 없는 각도에서도 사실적인 3D 장면을 볼 수 있다."
+        },
+        {
+          "t": "video",
+          "yt": "HOBZMKxbHKw"
+        },
+        {
+          "t": "p",
+          "x": "클라우드 플랫폼 Splatica는 월 $49.95부터고, Spatial Capture는 매달 4회 무료 생성을 준다. Insta360 설명으로는 전문가용 Splatica가 더 높은 품질을 내는 반면, 일반 사용자용인 Spatial Capture는 2분짜리 영상을 약 8시간이 아니라 1~2시간 만에 렌더링한다."
+        },
+        {
+          "t": "p",
+          "x": "2분 이하 클립을 찍으면 처리는 클라우드에서 한다. Insta360이 권장하는 곳은 조명이 밝은 100제곱미터 이하의 실내다. 풍경보다는 방에 맞춘 기능으로 보인다. 장면은 브라우저 링크로 공유할 수 있지만, 파일로 내보내는 기능은 아직 없다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+          "cap": "이미지 출처: Insta360"
+        },
+        {
+          "t": "p",
+          "x": "리뷰어가 X6로 직접 찍은 테스트 클립은 업로드에 두 번이나 실패했다. 베타라면 겪을 법한 초기 문제다. 그래도 비싼 카메라의 가치를 높여 주는 반가운 무료 기능이다."
+        }
+      ]
     }
   }
 }

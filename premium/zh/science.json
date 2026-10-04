@@ -5578,6 +5578,142 @@
           "x": "Aydogan Ozcan教授团队将其视为高通量的第一道防线，可疑内容再交由要求更高的数字模型进行最终评估。"
         }
       ]
+    },
+    "science/murdoch-enzyme-plastic-ml-screen": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "世界各地的数据库收录了数以百万计的酶的信息，这些酶有潜力降解塑料等污染物。Murdoch University的Bioplastics Innovation Hub科学家正结合机器学习技术与生物化学，找出其中哪些酶有潜力分解塑料及其他有害污染物。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Ph.D.候选人Joseph Boctor在发表于Nature Reviews Earth & Environment的最新综述中解释说，为每种污染物找到合适生物学对策的关键，很可能就藏在现有数据之中。"
+        },
+        {
+          "t": "p",
+          "x": "“我强烈主张，过度改造酶是一个糟糕的起点，它忽视了数百万年的进化，而进化早已为这些污染物产生了大量潜在解决方案。”Boctor说。"
+        },
+        {
+          "t": "p",
+          "x": "这些机器学习流程利用已表征酶的知识，预测酶的结构可能如何与目标污染物相互作用并将其分解。团队目前正集中精力，对已识别的酶开展测试、验证和规模化，以用于生物修复。"
+        }
+      ]
+    },
+    "science/uf-ai-health-questions-anxiety": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "University of Florida研究人员Yusen Zhai领导的一项新研究发表于Journal of Counseling & Development。研究显示，使用生成式人工智能询问健康相关问题的年轻人，在具有临床意义的焦虑和抑郁筛查中呈阳性的可能性高于不这样做的人。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "该研究分析了近100,000名年轻人的数据。使用ChatGPT或Claude等生成式AI工具询问健康问题的人，焦虑和抑郁筛查呈阳性的几率分别高出52%和46%。这些发现显示的是关联，并不能证明使用AI会导致焦虑或抑郁。"
+        },
+        {
+          "t": "p",
+          "x": "一种可能的模式是：一个人向AI寻求安慰，得到回答，随后又冒出更多问题。“这种反复循环可能会加剧反刍思维、健康焦虑或其他困扰。”Zhai说。"
+        },
+        {
+          "t": "p",
+          "x": "数据收集于2023年至2024年，因此这些发现只是早期迹象。“问题不在于生成式AI本身，”Zhai说，“而在于‘如何’的问题——人们如何使用它。”"
+        }
+      ]
+    },
+    "science/instructmesh-mit-3d-repair": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
+          "cap": "可以提示InstructMesh AI工具为马克杯等物体生成3D设计，随后用户可在3D打印前高亮标出蓝图中希望改进的特定部分。"
+        },
+        {
+          "t": "p",
+          "x": "AI模型知道物体应该是什么样子，却不懂它如何运作，因而生成不实用的设计——而且这些模型通常难以编辑，对3D设计新手来说尤其如此。"
+        },
+        {
+          "t": "p",
+          "x": "InstructMesh由MIT CSAIL、Google和Northeastern University的研究人员开发，可根据提示生成3D设计，用户随后可在3D打印前高亮标出想要改进的特定部分。它将可根据文本和图像提示创建3D模型的Microsoft TRELLIS系统与LLM GPT-4结合在一起。"
+        },
+        {
+          "t": "p",
+          "x": "团队制作了龙身缠绕的马克杯、贝壳状口哨、蝴蝶翅膀眼镜、牛仔布外观的护膝，以及藏有电机的虾形“刷毛机器人”（bristle bot）。"
+        },
+        {
+          "t": "p",
+          "x": "TRELLIS重建热门Thingiverse模型时，近80%存在结构缺陷。经专家审核，新手在InstructMesh中约有90%的时候能发现并修复这些问题。"
+        },
+        {
+          "t": "p",
+          "x": "“所见即所得，可以说这些物品都像宣传的那样好用。”第一作者Faraz Faruqi说。他目前任职于Google，未来可能将InstructMesh带到AR平台。该研究将于11月在ACM Symposium on User Interface Software and Technology上发表。"
+        }
+      ]
+    },
+    "science/microsoft-quine-biology-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Research推出Quine，这是一项旨在跨越生物学边界开展工作的研究项目。Quine将一个生物学世界模型与一套框架结合在一起，后者连接科学工具、文献、湿实验室（wet lab）以及使用它们的研究人员。"
+        },
+        {
+          "t": "video",
+          "yt": "ZMJHGeR6GPU"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft所说的世界模型，是指能够表示生物系统状态、预测该状态在干预下如何演变，并对其后果进行推理的系统。它在序列、结构、功能、细胞状态和成像数据之间学习共享表征。这样的系统不会取代实验。"
+        },
+        {
+          "t": "p",
+          "x": "在与Broad Institute合作的胰腺癌研究中，Quine根据数千种化合物促使肿瘤细胞状态转变的潜力进行预测和排序；排名最高的化合物在wet-lab研究中产生了最大的预期转变。整个过程仅用了一个周末。"
+        },
+        {
+          "t": "p",
+          "x": "初期访问仅限于Quine Fellows项目和部分研究合作，将分阶段推进，并内置安全保障措施。"
+        }
+      ]
+    },
+    "science/mindreading-brain-scan": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "魏茨曼科学研究所（Weizmann Institute of Science）的米哈尔·伊拉尼（Michal Irani）及其同事开发了一款新AI工具，能通过脑部扫描推测你正在看什么，并以惊人的精度重现该图像。它也能反向运作，根据一个人看到的内容预测其大脑活动。"
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+          "cap": "左：受试者看到的画面。右：模型的重建结果。图片来源：研究人员"
+        },
+        {
+          "t": "p",
+          "x": "研究团队利用八名受试者的高分辨率fMRI数据训练了一个双分支“脑解码器”，每人观看了约9,000张图像。一个分支预测图像的结构，另一个预测其内容，共同引导扩散模型重建所见画面。"
+        },
+        {
+          "t": "p",
+          "x": "为获得更多数据，他们还训练了一个根据图像预测大脑活动的编码器，并将两者结合，相互提升。约70%的训练数据来自从未在扫描仪中向任何人展示过的图像。最终的工具只需新受试者约一小时的fMRI数据即可运行，而早期工具大约需要40小时。"
+        },
+        {
+          "t": "p",
+          "x": "它有时仍会出错，比如把一块蛋糕变成三个三明治，但伊拉尼表示，它“以显著优势”超过了其他工具。她希望接下来拓展到视频、音频、想象和梦境，并帮助闭锁综合征患者进行交流。"
+        },
+        {
+          "t": "p",
+          "x": "其他科学家警告称，这存在精神隐私风险，尤其是当类似方法转向EEG时。UCSB神经科学家汤米·斯普拉格（Tommy Sprague）说：“我们必须更认真一点地对待伦理问题。”"
+        }
+      ]
     }
   }
 }

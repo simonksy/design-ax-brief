@@ -6017,6 +6017,142 @@
           "x": "El equipo del profesor Aydogan Ozcan lo concibe como una primera línea de defensa de alto rendimiento, que deriva el contenido sospechoso a modelos digitales más exigentes para una evaluación final."
         }
       ]
+    },
+    "science/murdoch-enzyme-plastic-ml-screen": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las bases de datos de todo el mundo contienen información sobre millones y millones de enzimas con potencial para degradar contaminantes como el plástico. Científicos del Bioplastics Innovation Hub de Murdoch University combinan tecnología de aprendizaje automático y bioquímica para identificar cuáles de estas enzimas pueden descomponer el plástico y otros contaminantes nocivos."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "El candidato a Ph.D. Joseph Boctor explica en su última revisión, publicada en Nature Reviews Earth & Environment, que la clave para encontrar la respuesta biológica adecuada contra cada contaminante probablemente está oculta en los datos ya existentes."
+        },
+        {
+          "t": "p",
+          "x": "\"Defiendo con firmeza que sobrediseñar enzimas es un mal punto de partida que pasa por alto millones de años de evolución que ya han producido muchas soluciones potenciales para estos contaminantes\", dijo Boctor."
+        },
+        {
+          "t": "p",
+          "x": "Estos flujos de aprendizaje automático usan el conocimiento de enzimas ya caracterizadas para predecir cómo sus estructuras podrían interactuar con los contaminantes objetivo y descomponerlos. El equipo concentra ahora sus esfuerzos en probar, validar y escalar las enzimas identificadas para tareas de biorremediación."
+        }
+      ]
+    },
+    "science/uf-ai-health-questions-anxiety": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los adultos jóvenes que usan inteligencia artificial generativa para hacer preguntas relacionadas con la salud tienen más probabilidades de dar positivo en el cribado de ansiedad y depresión clínicamente significativas que quienes no lo hacen, según un nuevo estudio dirigido por el investigador de la University of Florida Yusen Zhai y publicado en el Journal of Counseling & Development."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "El estudio analizó datos de casi 100,000 adultos jóvenes. Las probabilidades de dar positivo en ansiedad y depresión fueron un 52% y un 46% mayores, respectivamente, entre quienes usaron herramientas de AI generativa como ChatGPT o Claude para consultas de salud. Los resultados muestran una asociación; no demuestran que el uso de la AI cause ansiedad o depresión."
+        },
+        {
+          "t": "p",
+          "x": "Un patrón posible: una persona pide a la AI que la tranquilice, obtiene una respuesta y luego le surgen más preguntas. \"Ese tipo de ciclo repetido podría reforzar la rumiación, la ansiedad por la salud u otros malestares\", dijo Zhai."
+        },
+        {
+          "t": "p",
+          "x": "Los datos se recogieron entre 2023 y 2024, por lo que los resultados son un indicio temprano. \"El problema no es la AI generativa en sí\", dijo Zhai. \"Es la cuestión del 'cómo': cómo la usan las personas\"."
+        }
+      ]
+    },
+    "science/instructmesh-mit-3d-repair": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
+          "cap": "A la herramienta de AI InstructMesh se le puede pedir que genere un diseño 3D de un objeto como una taza, y luego los usuarios pueden resaltar las partes concretas del plano que quieren refinar antes de la impresión 3D."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de AI entienden cómo debe verse un objeto, pero no cómo funciona, lo que da lugar a diseños poco prácticos; además, suelen ser difíciles de editar, sobre todo para usuarios nuevos en el diseño 3D."
+        },
+        {
+          "t": "p",
+          "x": "InstructMesh, desarrollado por investigadores de MIT CSAIL, Google y Northeastern University, puede generar un diseño 3D a partir de una instrucción, y los usuarios pueden después resaltar las partes concretas que desean refinar antes de la impresión 3D. Combina el sistema TRELLIS de Microsoft, que crea modelos 3D a partir de instrucciones de texto e imagen, con el LLM GPT-4."
+        },
+        {
+          "t": "p",
+          "x": "El equipo fabricó una taza envuelta por un dragón, un silbato en forma de concha, unas gafas con alas de mariposa, una rodillera con aspecto de tela vaquera y un \"bristle bot\" con forma de camarón y un motor oculto."
+        },
+        {
+          "t": "p",
+          "x": "Cuando TRELLIS recreó modelos populares de Thingiverse, casi el 80 por ciento tenía fallos estructurales. Los principiantes detectaron y corrigieron estos problemas en InstructMesh alrededor del 90 por ciento de las veces, según la revisión de un experto."
+        },
+        {
+          "t": "p",
+          "x": "\"Lo que vieron es lo que obtuvieron, y los objetos funcionaron según lo prometido, por así decirlo\", afirma el autor principal, Faraz Faruqi, ahora en Google, que podría llevar InstructMesh a una plataforma de AR. El trabajo se presentará en el ACM Symposium on User Interface Software and Technology en noviembre."
+        }
+      ]
+    },
+    "science/microsoft-quine-biology-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Research presenta Quine, un proyecto de investigación diseñado para trabajar más allá de las fronteras de la biología. Quine reúne un modelo del mundo de la biología con un entorno que conecta herramientas científicas, literatura, el laboratorio húmedo (wet lab) y a los investigadores que los utilizan."
+        },
+        {
+          "t": "video",
+          "yt": "ZMJHGeR6GPU"
+        },
+        {
+          "t": "p",
+          "x": "Por modelo del mundo, Microsoft entiende un sistema capaz de representar el estado de un sistema biológico, predecir cómo evolucionará ese estado ante intervenciones y razonar sobre las consecuencias. Aprende representaciones compartidas entre datos de secuencia, estructura, función, estado celular e imagen. Un sistema así no reemplazaría la experimentación."
+        },
+        {
+          "t": "p",
+          "x": "En un trabajo sobre cáncer de páncreas con el Broad Institute, Quine predijo y priorizó miles de compuestos según su potencial para hacer cambiar de estado a las células tumorales; sus compuestos mejor clasificados produjeron los mayores cambios buscados en estudios de wet-lab. El proceso llevó apenas un fin de semana."
+        },
+        {
+          "t": "p",
+          "x": "El acceso inicial se limita al programa Quine Fellows y a colaboraciones de investigación seleccionadas, con un enfoque por fases y salvaguardas integradas."
+        }
+      ]
+    },
+    "science/mindreading-brain-scan": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una nueva herramienta de AI desarrollada por Michal Irani y sus colegas del Weizmann Institute of Science puede adivinar lo que estás mirando a partir de escáneres cerebrales y recrear esa imagen con una precisión notable. También funciona en sentido inverso: predice la actividad cerebral a partir de lo que ve una persona."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+          "cap": "Izquierda: lo que vio la persona. Derecha: la reconstrucción del modelo. Cortesía de los investigadores"
+        },
+        {
+          "t": "p",
+          "x": "El equipo entrenó un \"decodificador cerebral\" de dos ramas con datos de fMRI de alta resolución de ocho personas que vieron cada una unas 9,000 imágenes. Una rama predice la estructura de la imagen y la otra su contenido, y juntas guían a un modelo de difusión para reconstruir lo que se vio."
+        },
+        {
+          "t": "p",
+          "x": "Para obtener más datos, también entrenaron un codificador que predice la actividad cerebral a partir de una imagen, y usaron ambos para mejorarse mutuamente. Alrededor del 70% de los datos de entrenamiento provino de imágenes que nunca se mostraron a nadie dentro de un escáner. La herramienta resultante funciona con una persona nueva con aproximadamente una hora de datos de fMRI, frente a unas 40 horas de las herramientas anteriores."
+        },
+        {
+          "t": "p",
+          "x": "Todavía falla a veces, como cuando convirtió un pastel en tres sándwiches, pero Irani afirma que superó a las demás \"por un margen significativo\". Espera avanzar hacia el video, el audio, la imaginación y los sueños, y ayudar a comunicarse a las personas con síndrome de enclaustramiento."
+        },
+        {
+          "t": "p",
+          "x": "Otros científicos advierten sobre riesgos para la privacidad mental, sobre todo si métodos similares se trasladan al EEG. \"Tenemos que tomarnos un poco más en serio las consideraciones éticas\", afirma Tommy Sprague, neurocientífico de UCSB."
+        }
+      ]
     }
   }
 }

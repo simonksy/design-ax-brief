@@ -1,106 +1,101 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "science",
   "items": [
     {
-      "rank": 1,
-      "title": "An AI 'mind-reading' tool can reconstruct what you're looking at from a brain scan",
-      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-10-01T10:32:24Z",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
-      "excerpt": "Scientists built an AI system that reconstructs images a person is viewing from brain scans, and hope it could one day recover mental imagery or even dreams.",
+      "title": "Visual illusion reveals what today's AI vision is missing",
+      "url": "https://techxplore.com/news/2026-10-visual-illusion-reveals-today-ai.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-10-02T12:20:16-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/vision-1.jpg",
+      "excerpt": "Our eyes do not always tell us exactly where things are—and that may be a feature of how biological vision works, rather than simply a flaw. A new study by York University researchers uses a common illusion to ask: If artificial intelligence is meant to see more like us, should it make some of the same systematic perceptual \"mistakes\"?",
       "category": "science",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Human brain-scan-to-image reconstruction from a top-tier outlet; strong visual and clear research advance."
+      "rationale": "Perception-psychology study (York U.) testing whether AI vision models reproduce human illusion errors; fresh research result, cognitive-science angle."
     },
     {
-      "rank": 2,
-      "title": "'A kind of Rosetta Stone': AI decodes 217-year-old secret letter ordered by Napoleon",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon",
-      "source": "Live Science",
-      "published_iso": "2026-10-02T10:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/wDNmeBi9bxsGMgTzs5ZYMV-2000-80.jpg",
-      "excerpt": "GPT-6 Astra was used to crack a centuries-old cipher that carried strategic military information between Napoleon's troops.",
-      "category": "science",
-      "tool": "Science",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "Fresh, concrete result of a frontier model cracking a historical cipher; broad appeal and a new domain (cryptanalysis/history) for the section."
-    },
-    {
-      "rank": 3,
-      "title": "Even when AI behaves just like us, people still rate it as less conscious than humans",
-      "url": "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-10-02T16:00:25Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-ai-behaves-like-u.jpg",
-      "excerpt": "In experiments with about 1,100 participants, LMU Munich researchers found people rate AI as significantly less conscious than humans showing identical behavior, though they judge both similarly 'aware' under neutral wording.",
-      "category": "science",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "New cognitive-psychology study (n~1,100) on how people attribute consciousness to AI; distinct from the 09-19 object-recognition item."
-    },
-    {
-      "rank": 4,
-      "title": "Drones, satellites and AI help scientists watch over Antarctica's smallest lifeforms",
-      "url": "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html",
+      "title": "Millions of years of evolution guide AI search for pollution-fighting enzymes",
+      "url": "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html",
       "source": "Phys.org",
-      "published_iso": "2026-09-30T15:20:13Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-satellites-and.jpg",
-      "excerpt": "University of Wollongong researchers built a multi-sensor, multi-temporal GeoAI framework fusing field surveys, drone and satellite imagery to map Antarctica's moss and lichen ecosystems over seven years at Canada Glacier.",
-      "category": "science",
-      "tool": "Science",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "rationale": "Ecology/remote-sensing application with a seven-year GeoAI dataset; adds an Earth-science angle and has a usable image."
-    },
-    {
-      "rank": 5,
-      "title": "Your voice may reveal how fast you're aging, new AI 'speech clock' suggests",
-      "url": "https://www.livescience.com/health/aging/your-voice-may-reveal-how-fast-youre-aging-new-ai-speech-clock-suggests",
-      "source": "Live Science",
-      "published_iso": "2026-10-01T18:15:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XNFQJUmC6wYdRySkVzBHoG-2000-80.jpg",
-      "excerpt": "A machine-learning 'speech clock' estimates a person's age from their speech, linking older-sounding voices with cognitive decline.",
+      "published_iso": "2026-10-02T13:00:18-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2020/3-plastic.jpg",
+      "excerpt": "Databases around the world contain information on millions upon millions of enzymes that have the potential to degrade pollutants like plastic. Scientists at Murdoch University's Bioplastics Innovation Hub are combining machine learning technology and biochemistry to identify which of these enzymes have the potential to break down plastic and other",
       "category": "science",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Novel aging biomarker from voice with a cognitive-decline link; distinct health topic from recent blood-stem-cell aging card."
+      "rationale": "Murdoch University ML + biochemistry screen for plastic-degrading enzymes; life-science/materials result with a clear environmental payoff."
+    },
+    {
+      "title": "Turning to AI for health answers may signal anxiety, depression among young adults",
+      "url": "https://medicalxpress.com/news/2026-09-ai-health-anxiety-depression-young.html",
+      "source": "Medical Xpress",
+      "published_iso": "2026-09-28T08:20:07-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2023/chatgpt-11.jpg",
+      "excerpt": "Young adults who use generative artificial intelligence to ask health-related questions are more likely to screen positive for clinically significant anxiety and depression than those who do not use AI for health issues, according to a new study led by University of Florida researcher Yusen Zhai.",
+      "category": "science",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "University of Florida clinical-psychology study linking generative-AI health queries to anxiety/depression screens; empirical data rather than opinion."
+    },
+    {
+      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+      "source": "MIT News",
+      "published_iso": "2026-10-01T22:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
+      "excerpt": "The InstructMesh generative AI tool helps users 3D print working, real-world items with ease by understanding how designs should look and which edits users truly want. You can prompt the system to produce a 3D model, then ask it to edit specific parts.",
+      "category": "science",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "MIT CSAIL research system (InstructMesh) where generative AI is the core result: part-level editing of AI-made 3D meshes into fabricable objects; adds an engineering/fabrication field and a fifth distinct outlet."
+    },
+    {
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "source": "Microsoft Research",
+      "published_iso": "2026-09-29T14:00:02+00:00",
+      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-2.jpg",
+      "excerpt": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger th",
+      "category": "science",
+      "tool": "Science",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "Microsoft Research announcement of Quine, a multimodal world model of biology; this is a new research-system release, not commentary."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/": {
-        "verdict": "new",
-        "nearest": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
-        "new_action": ""
-      },
-      "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html": {
+      "https://techxplore.com/news/2026-10-visual-illusion-reveals-today-ai.html": {
         "verdict": "new",
         "nearest": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-09-drones-satellites-ai-scientists-antarctica.html": {
+      "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.livescience.com/health/aging/your-voice-may-reveal-how-fast-youre-aging-new-ai-speech-clock-suggests": {
+      "https://medicalxpress.com/news/2026-09-ai-health-anxiety-depression-young.html": {
         "verdict": "new",
-        "nearest": "https://medicalxpress.com/news/2026-09-ai-aging-blood-stem-cells.html",
+        "nearest": "https://www.psychologytoday.com/ca/blog/the-future-brain/202609/ai-use-and-emotional-problems-in-children-and-teens",
+        "new_action": ""
+      },
+      "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001": {
+        "verdict": "new",
+        "nearest": "https://techxplore.com/news/2026-09-hardflow-algorithm-generative-ai-high.html",
+        "new_action": ""
+      },
+      "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/": {
+        "verdict": "new",
+        "nearest": "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
         "new_action": ""
       }
     },
-    "note": "Pool of 17, none dropped by story_dedup. Mind-reading (history_match: abdominal radiology 09-23) is a different study; closest real neighbour is the 09-17 UCL mouse visual-cortex video reconstruction, named as nearest; human fMRI image reconstruction is a separate study. LMU consciousness item (history_match 09-19 object recognition) is a different study. Skipped: Talus Bio Ptarmigan-1 (protein-targeting company launch, near biosecurity/protein exclusion and commercial); Sherry Turkle book and 'How AI Sees the City' book (book promotion/commentary, possible books-section overlap); Physics World drones-wildlife feature (evergreen overview, overlaps Antarctica drone pick); 'AI disagree with you' (close theme to 09-26 'When AI disagrees' and 09-08 disagreement items); AWARE psychiatry framework and chatbot-harm study (would make Phys.org/TechXplore/MedicalXpress publisher 3+; chatbot harm also close to 09-27 AI-and-teens item); retention-time, visual-illusion, quantum-math, MeLSI (lower novelty/no og_image); MIT algorithmic monoculture (hiring economics, weaker science fit). Diversity: Phys.org-family publisher 2 (Tech Xplore + Phys.org), Live Science 2, MIT Technology Review 1. Cross-section check was by judgment only; news_data.json is too large to scan in full, and none of these science items are known to have run elsewhere."
+    "note": "SWAP: removed ScienceDaily 'Scientists burned their own scrolls...' (Herculaneum). The fact-check found AI is only background there: the study tested lead in ink on burned replica scrolls and has no AI result. Backfilled with MIT News InstructMesh (CSAIL; generative AI is central to the result; the URL is not in /tmp/ax-claimed-urls.txt, and no design-section pick covers this story; no similar story in the 30-day history_digest). Earlier drop still stands: phys.org 'AI scans 4.6 million compounds ... hydrogen positions' duplicates the 09-24 GEN Tautomer card. Other candidates were rejected for these reasons: SciAm attachment-theory piece, Psychology Today 'Your AI Therapist' and MIT Tech Review 'LLMs don't reason' are opinion/essay; Talus Bio rests on vendor internal benchmarks and would be a second biology/drug item next to Quine; MIT algorithmic monoculture is economics, with AI only peripheral; in SciAm Etruscan tomb the AI angle is unclear; the Phys.org, Tech Xplore and Medical Xpress items would repeat outlets already used (spatial transcriptomics, stripe patterns, quantum-inspired uncertainty, SwRI GAMES, chatbot harm); RetroChimera would repeat Microsoft Research and is close to the 09-05 small-molecules card. The 5 picks come from 5 distinct outlets."
   }
 }

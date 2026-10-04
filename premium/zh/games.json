@@ -5595,6 +5595,144 @@
           "x": "Sony表示将向所有开发者开放QSSR，两款游戏的补丁今天上线。"
         }
       ]
+    },
+    "games/stardock-clairvoyance-ai-devtools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brad Wardell于1993年创立了Stardock。如今，他的团队打造了一款面向游戏开发者等用户的AI生产力工具Clairvoyance。Wardell表示，它可能成为公司最畅销的产品：“它正在爆发。”"
+        },
+        {
+          "t": "p",
+          "x": "Clairvoyance最初是一款内部工具，用于自动化重复性的软件与游戏开发操作。Stardock每天使用并打磨它整整两年，之后才决定对外销售。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+        },
+        {
+          "t": "p",
+          "x": "它直接在用户自己的电脑上运行，因此AI员工可以打开真实项目、构建、运行，并交回完成的成果。它在Windows、macOS和Linux上免费，可与Claude Code、Codex、Cursor、Grok和Copilot配合使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Wardell表示，Clairvoyance针对的是工作流程中的阻碍，而非取代创意工作：例如把人工创作的美术资源导入自定义引擎、将Word文件转换为CSV数据、分析崩溃日志，以及创建Jira任务。基础应用免费，专业版每月$20。"
+        },
+        {
+          "t": "p",
+          "x": "谈到生成式美术，Wardell说：“我认为目前的生成式AI最终只会产出千篇一律的劣质内容。”"
+        }
+      ]
+    },
+    "games/vibe-coded-mashup-mods-backlash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "资深模组作者们对最近席卷其网络圈子的新潮流很不满——那就是AI生成（AI-generated）或者说“vibe-coded”（氛围编程）模组这一“狗屁‘潮流’”。"
+        },
+        {
+          "t": "p",
+          "x": "“我做游戏模组，也从不讳言自己用AI来做。但我讨厌这种狗屁‘潮流’。纯粹是垃圾，毫无创意可言。”模组作者kran27_发帖写道。"
+        },
+        {
+          "t": "p",
+          "x": "这些激增的模组把互不相干的游戏拼在一起，从把World of Warcraft放进Call of Duty: World at War，到把Escape From Tarkov放进Skyrim。这股潮流在短短一周内像滚雪球一样迅速扩大，推动力来自Claude Opus 5.5更便宜的token和更强的代码生成能力——如今让模型对准一款游戏、反编译它、再加入完全不同的内容，比以往任何时候都容易。"
+        },
+        {
+          "t": "p",
+          "x": "这些AI反编译（AI-decompiled）的拼接模组目前尚未出现在Nexus Mods等模组平台上，IGN认为这很可能是权利问题所致。它们几乎全都依赖制作者无权使用的反编译代码和素材。"
+        }
+      ]
+    },
+    "games/grimhammer3-mod-corrupted-ai-protest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "由于不满自己为Total War: Warhammer 3制作的大修模组被人借助AI（AI-infused）未经授权转载，SFO: Grimhammer 3的主要作者决定故意损坏这款模组。此举旨在让模组作者更好地掌控Grimhammer 3最新版本的获取渠道与时间，作者Venris还警告称，如果情况没有改善，就会把模组设为私密。"
+        },
+        {
+          "t": "p",
+          "x": "“由于SFO: Grimhammer III的未授权转载越来越多，更重要的是转载过程中还使用了AI，我故意损坏了模组，使其无法在这些未授权上传的版本中运行。”作者在一篇被IGN发现的Patreon帖子中写道。"
+        },
+        {
+          "t": "p",
+          "x": "“SFO: Grimhammer是近十年来我对这个社区和这个奇幻世界的热情与热爱的结晶。因此，我不允许任何人未经许可拿走我的作品，尤其是用于与AI相关（AI-related）的用途。请支持模组作者，而不是AI。”Venris在帖子结尾明确表示，不会把模组设为付费。"
+        },
+        {
+          "t": "p",
+          "x": "虽然SFO团队的模组主要通过Steam Workshop发布，但Nexus Mods等模组网站最近已着手收紧对使用生成式AI制作的模组的标注要求。"
+        }
+      ]
+    },
+    "games/activision-mw2-genai-legal-notice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "如今，用氛围编程制作劣质游戏已成乱象，其中包括对现有游戏的山寨和反编译。同属Microsoft旗下的Activision和Bethesda最近分别对两个不同项目采取了行动。"
+        },
+        {
+          "t": "p",
+          "x": "用Claude Opus 5.5编写的浏览器复刻作品Fallout: New York浏览量超过3.5百万次，但ChrisFirst据称收到Bethesda的停止侵权函后，于10月1日放弃了该项目。"
+        },
+        {
+          "t": "p",
+          "x": "Maurice Heumann于9月30日在X上表示，他正在用genAI反编译PC版初代Modern Warfare 2的源代码。他写道：“目前有17个智能体并行工作，我们的进展速度惊人。”"
+        },
+        {
+          "t": "p",
+          "x": "Activision的回应是直接撤下他分享的视频，取而代之的是一条警告：“此媒体已因版权所有者的举报而被禁用。”据称托管该代码的网站链接也已无法访问。"
+        }
+      ]
+    },
+    "games/gibiz-hr-summit-genai-workload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "图片来源：GamesIndustry.biz"
+        },
+        {
+          "t": "p",
+          "x": "在10月1日举行的GamesIndustry.biz HR Summit上，生成式AI一再成为话题。有人指出AI能加快编程速度或自动处理繁琐工作，但普遍看法是它远非灵丹妙药，反而正在给职场带来问题：对敏感数据的担忧、员工焦虑加剧，以及HR工作量增加。"
+        },
+        {
+          "t": "p",
+          "x": "多数与会者所在的公司如今都有AI政策，但变化太快，政策不得不一改再改。管理者们表示，他们几乎无法阻止员工把NDA材料粘贴进个人ChatGPT账户。一位与会者说：“我还没见过AI创造出什么有趣的东西。”另一位则调侃：“你可以更快地做出垃圾。”"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "GamesIndustry.biz HR Summit在London的The Royal Institution举行 | 图片来源：GamesIndustry.biz"
+        },
+        {
+          "t": "p",
+          "x": "缺乏执行就会出乱子：违反工作室规定的Gemini-generated着色器代码导致构建被回滚，外包的AI美术图多出手指，引发社区反弹。由于流程依赖隐性知识，工作流试点也常常夭折。"
+        },
+        {
+          "t": "p",
+          "x": "HR团队还要应对冗长、充满不实细节的AI-written投诉信。一位与会者说：“很多时候它反而给我添了更多事。”并补充说，AI能回答问题，却“读不懂人”。"
+        }
+      ]
     }
   }
 }

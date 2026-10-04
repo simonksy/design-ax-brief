@@ -977,6 +977,120 @@
           "x": "Kim demanded an explanation of the actual implementation plan, saying, “They told the press the projects would proceed separately, but submitted a plan to the National Assembly that combines them,” and argued, “We cannot simply write a 7천500억원 blank check with unclear uses and conditions.”"
         }
       ]
+    },
+    "politics/kyoto-vision-science-declaration-ostp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At the 23rd Annual Meeting of the Science and Technology in Society (STS) Forum in Kyoto, the United States and 16 countries endorsed the Kyoto Vision for a Golden Age of Science, a joint declaration to renew and strengthen science ecosystems, according to a White House release."
+        },
+        {
+          "t": "p",
+          "x": "Led by Office of Science and Technology Policy Director Michael Kratsios, the declaration says super intelligence for science will enable autonomous experimentation at scale. \"Super intelligence applied to science will be the greatest force in history for democratizing research,\" Kratsios said."
+        },
+        {
+          "t": "p",
+          "x": "It calls for improving the institutions of discovery through varied funding tools and new institutional models; harnessing super intelligence for science, with pledges to expand researcher access to SI tools, data, computing and experimental facilities; and cultivating talent across the scientific enterprise."
+        },
+        {
+          "t": "p",
+          "x": "Endorsers: Argentina, Bulgaria, Chile, Cyprus, Germany, Greece, Indonesia, Italy, Japan, Kazakhstan, Republic of Korea, New Zealand, Poland, Singapore, United Arab Emirates, United Kingdom and the United States."
+        }
+      ]
+    },
+    "politics/jay-clayton-ai-czar-super-intelligence-force": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+          "cap": "Jay Clayton at his Senate Intelligence Committee confirmation hearing, July 15, 2026. Mariam Zuhaib/AP"
+        },
+        {
+          "t": "p",
+          "x": "Director of National Intelligence Jay Clayton is the new White House AI czar, President Trump said on Sunday. Trump wrote on Truth Social that Clayton will lead the White House's new \"Super Intelligence Force,\" which will \"coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies.\""
+        },
+        {
+          "t": "p",
+          "x": "Trump said the group will also include FTC Chairman Andrew Ferguson, OPM Director Scott Kupor and Under Secretary of Defense for Research and Engineering Emil Michael. Clayton was previously U.S. Attorney for the Southern District of New York and SEC chairman."
+        },
+        {
+          "t": "p",
+          "x": "The announcement follows a Tuesday White House meeting after which Trump said several AI companies had signed a voluntary accord. Congress has not passed federal law broadly regulating AI. Last month Clayton called super intelligence a \"national security issue\" and pushed back against calls for a \"pause.\""
+        }
+      ]
+    },
+    "politics/qwen-censorship-research-cbs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Qwen, a freely available model made by Alibaba and downloaded over 3 billion times, is embedded with China-friendly narratives and programmed for censorship, according to research by Israeli cybersecurity startup Hirundo. It doesn't acknowledge the 2019 Hong Kong protest crackdown or Tiananmen Square in 1989, and won't talk about Winnie the Pooh."
+        },
+        {
+          "t": "p",
+          "x": "Asked by CBS News about forced labor camps for Uyghurs, Qwen denied they exist. Alibaba did not respond to a request for comment."
+        },
+        {
+          "t": "p",
+          "x": "U.S. firms including Uber Eats and Airbnb use Qwen. Chinese open-weight models grew from under 2% of global usage in late 2024 to more than 45% by June, per OpenRouter data. Booz Allen found Qwen produced code with 130% more security vulnerabilities when told the project was for the U.S. government."
+        },
+        {
+          "t": "p",
+          "x": "Hirundo says it tested Qwen on 500 prompts across 15 topics: \"the original Qwen produced censorship, propaganda-aligned framing or political bias 89.8% of the time,\" CEO Ben Luria said, versus 2.8% for its edited \"Westernized\" version."
+        }
+      ]
+    },
+    "politics/arizona-ai-victim-video-sentence-vacated": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "An Arizona man's 10-year manslaughter sentence was thrown out in a case where an AI-generated video portrayed the deceased victim addressing a judge before the sentence was announced. The Arizona Court of Appeals concluded Gabriel Paul Horcasitas must be resentenced in the 2021 shooting death of Christopher Pelkey."
+        },
+        {
+          "t": "p",
+          "x": "In what's believed to be a first in U.S. courts, Pelkey's family used AI to create a video of his likeness in May 2025. \"In another life we probably could have been friends,\" the AI said. The sentencing judge said, \"I loved that AI.\""
+        },
+        {
+          "t": "p",
+          "x": "The three-judge panel wrote that allowing the AI video \"constituted fundamental error,\" adding: \"While the record does not reflect precisely how the AI video factored into sentencing calculus, there is no question it played a role.\" It affirmed the conviction but vacated the sentence and remanded for resentencing, which has yet to be scheduled."
+        }
+      ]
+    },
+    "politics/newsom-ai-workplace-law": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+          "cap": "Protesters rally against AI job takeover outside Dreamforce in San Francisco, Sept. 15, 2026. Photo by Manuel Orbegozo for CalMatters"
+        },
+        {
+          "t": "p",
+          "x": "On the final day to act on bills from his last scheduled legislative session, Gov. Gavin Newsom signed several bills to protect workers from artificial intelligence, including limits on AI in patient care and in firing people. He vetoed two AI-related bills labor leaders had pushed for that would have protected health care workers."
+        },
+        {
+          "t": "p",
+          "x": "Labor leaders had pressed him to sign a slate of nine AI bills, saying it would affect their support for any presidential run. Unions won seven of the nine."
+        },
+        {
+          "t": "p",
+          "x": "The new laws limit AI in terminating or disciplining workers, keep health care professionals rather than AI in charge of patient-care decisions, bar employers from predicting workers' emotional states or collecting brain data, ban AI surveillance in bathrooms, and require notice when layoffs are due in whole or in part to AI or automation."
+        },
+        {
+          "t": "p",
+          "x": "In veto messages, Newsom called the mental health measure \"overly broad\" and said the Labor Commissioner lacks the medical expertise to enforce the other bill's anti-retaliation rules. California Nurses Association President Sandy Reding criticized that veto, while AFL-CIO president Liz Shuler called the new laws \"some of the strongest state legislation in the country.\""
+        },
+        {
+          "t": "p",
+          "x": "CalMatters notes the firing law was weakened during the legislative process, losing an appeals process for workers, a right to sue to compel compliance, and coverage of contractors."
+        }
+      ]
     }
   }
 }

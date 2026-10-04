@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "movies",
   "cards": [
     {
-      "id": "tripo-smartmesh-previs",
+      "id": "mformedia-arcana-labs-ai-pact",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tripo, 프리비즈용\nSmartMesh 제안",
-      "body": "Tripo AI는 생성형 3D 도구가 레퍼런스·블록아웃·프리비즈를 돕는다고 했다.",
-      "mini_headline": "프리비즈용 Tripo SmartMesh",
+      "headline": "MForMedia, AI는\nArcana Labs와",
+      "body": "Dubai의 MForMedia가 Arcana Labs의 AI 워크플로를 들여온다.",
+      "mini_headline": "MForMedia, AI 협약 체결",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/animationworld/tripo-ais-yanpei-cao-talks-smartmesh-open-source-and-previs",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/09/mformedia-arcana-labs-sign-ai-production-pact-1237143000/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,295 +19,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
+            "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+            "cap": "MForMedia"
           },
           {
             "t": "p",
-            "x": "Tripo AI는 베이징에서 출발한 VAST의 제품 브랜드다. 이번 SIGGRAPH 2026에는 기술 논문 5편과 기조연설, Best in Show를 받은 Real-Time Live! 데모까지 들고 나왔다. 회사가 밝힌 사용자는 2000만 명이다. 올여름에는 기업가치 10억 달러에 약 3억 5000만 달러를 조달했다고 보도됐다."
+            "x": "EXCLUSIVE: Dubai의 MForMedia가 Arcana Labs와 계약을 맺고 자사 제작에 AI 워크플로를 들인다. 두 회사가 맺은 전략적 파트너십은 Arcana의 소프트웨어를 MForMedia의 제작 워크플로와 Arabic-language(아랍어) 공동 제작, 직원 교육에 접목하는 내용이다. 최종 목표는 중동·북아프리카(Middle East and North Africa, MENA) 전역에 AI-native 영화·TV 제작 역량을 갖추는 일이다."
           },
           {
             "t": "p",
-            "x": "수석 과학자 Yanpei Cao에 따르면 이 데모는 이미 제품에 들어간 SmartMesh에서 나왔다. SmartMesh는 쓸 만한 토폴로지와 텍스처를 갖춘 게임용 에셋을 하나당 2초 안에 뽑도록 최적화돼 있고, 실제 출시 제품에서도 “5초나 10초도 걸리지 않는다”고 한다. 모델링부터 리메시, 리깅, 애니메이션, 텍스처까지 오픈소스를 기본으로 삼는다는 게 회사 설명이다."
+            "x": "MForMedia와 Arcana Labs의 제작 부문 Arcana Studios는 MENA 관객용 오리지널 콘텐츠도 함께 만든다. 제목을 밝히지 않은 작품 여럿이 이미 개발 단계에 있다. MForMedia 직원들은 이달 AI-native 제작을 다루는 닷새(five-day) 교육 워크숍에도 참여한다."
           },
           {
             "t": "p",
-            "x": "Cao가 꼽은 분야는 게임, 소비자용 3D 프린팅, 영화·애니메이션·XR, 로보틱스 네 가지다. 대형 스튜디오는 이 에셋을 레퍼런스나 정적 소품, 환경 블록아웃에 쓴다. 소규모 인디 팀은 이제 훨씬 많은 방향을 시험해 볼 수 있다."
+            "x": "Arcana Labs CEO Jonathan Yunger는 “이 모델로 우리는 첫날부터 지역 스튜디오 안에 AI-native 파이프라인을 심고 있다”며 “이제 콘텐츠를 Dubai에서, Arabic(아랍어)으로, 그 어느 때보다 빠르고 비용 효율적으로 만들 수 있어 Arabic-language 제작이 지역 안에 머물게 된다”고 말했다."
           },
           {
             "t": "p",
-            "x": "영화 얘기에서 Cao는 솔직했다. “현재 출력 품질은... 영화 수준에 미치지 못한다. 그래도 사람들은 여전히 쓰고 있다”며 프리비즈가 “지금 우리에게 아주 큰 부분”이라고 덧붙였다. Tripo는 Maya, Houdini, Blender용 플러그인을 만드는 중이고, 번거로운 워크플로를 자동화하는 에이전트 시스템을 다음 목표로 잡았다. AI를 “아티스트와 함께... 그들을 건너뛰지 않고” 만들겠다는 얘기다."
+            "x": "MForMedia는 공동 창업자이자 Managing Partners인 Ralph Matar와 Khalil Homeissy가 이끌며, Carpool Karaoke와 The X Factor의 Arabic(아랍어)판을 만든다. 얼마 전에는 MENA TV 업계 베테랑 Ziad Kebbi를 Managing Director로 영입하고 AI 제작, 오리지널 콘텐츠, IP 소유 쪽으로 방향을 틀겠다고 밝혔다. 이번 소식은 그 직후에 나왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Tripo AI Pitches SmartMesh\nfor Blockouts and Previs",
-          "body": "Tripo AI's chief scientist Yanpei Cao says its generative 3D tools help artists with reference, blockouts and previs.",
-          "mini_headline": "Tripo SmartMesh\nfor Previs",
+          "headline": "MForMedia and Arcana Labs\nsign an AI production pact",
+          "body": "Dubai producer MForMedia will add Arcana Labs' AI workflows to its productions under a new deal.",
+          "mini_headline": "MForMedia signs AI pact",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+                "cap": "MForMedia"
               },
               {
                 "t": "p",
-                "x": "Tripo AI, the product brand of Beijing-founded VAST, came to SIGGRAPH 2026 with five technical papers, a keynote and a Real-Time Live! demo that won Best in Show. The company reports 20 million users and raised roughly $350 million this summer at a reported $1 billion valuation."
+                "x": "EXCLUSIVE: Dubai’s MForMedia will look to add AI workflows into its productions following a deal with Arcana Labs. The two companies have struck a strategic partnership to incorporate Arcana’s software into MForMedia’s production workflows, Arabic-language co-productions and staff training. The overarching goal is to build AI-native film and television production capabilities across the Middle East and North Africa (MENA) region."
               },
               {
                 "t": "p",
-                "x": "Chief scientist Yanpei Cao said the demo was built on SmartMesh, already in the product, optimized to generate game-ready assets with usable topology and texture in under two seconds per asset; in the shipping product it \"takes less than five or 10 seconds.\" The company says its default is open source, across modeling, remesh, rigging, animation and texture."
+                "x": "Arcana Studios, the production arm of Arcana Labs, and MForMedia will also co-produce original content for MENA audiences, with unnamed titles already in development. MForMedia staff are also provided with a five-day training workshop on AI-native production this month."
               },
               {
                 "t": "p",
-                "x": "Cao named four sectors: gaming, consumer 3D printing, film/animation/XR, and robotics. Major studios use the assets as reference, static props or environment blockouts, while small indie teams can now explore many more directions."
+                "x": "“With this model, we are embedding an AI-native pipeline inside a regional studio from day one,” said Arcana Labs CEO Jonathan Yunger. “Content can now be created in Dubai, in Arabic, faster and more cost-effectively than ever before, ensuring Arabic-language production stays in the region.”"
               },
               {
                 "t": "p",
-                "x": "On film, Cao was direct: \"the current quality of the output... is not to film-quality standards. But people are still using it,\" adding that previs \"is a huge thing for us now.\" Tripo builds plugins for Maya, Houdini and Blender and is working toward an agentic system that automates tedious workflows, building AI \"with the artists... not around them.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Tripo, 프리비즈용\nSmartMesh 제안",
-          "body": "Tripo AI는 생성형 3D 도구가 레퍼런스·블록아웃·프리비즈를 돕는다고 했다.",
-          "mini_headline": "프리비즈용 Tripo SmartMesh",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
-              },
-              {
-                "t": "p",
-                "x": "Tripo AI는 베이징에서 출발한 VAST의 제품 브랜드다. 이번 SIGGRAPH 2026에는 기술 논문 5편과 기조연설, Best in Show를 받은 Real-Time Live! 데모까지 들고 나왔다. 회사가 밝힌 사용자는 2000만 명이다. 올여름에는 기업가치 10억 달러에 약 3억 5000만 달러를 조달했다고 보도됐다."
-              },
-              {
-                "t": "p",
-                "x": "수석 과학자 Yanpei Cao에 따르면 이 데모는 이미 제품에 들어간 SmartMesh에서 나왔다. SmartMesh는 쓸 만한 토폴로지와 텍스처를 갖춘 게임용 에셋을 하나당 2초 안에 뽑도록 최적화돼 있고, 실제 출시 제품에서도 “5초나 10초도 걸리지 않는다”고 한다. 모델링부터 리메시, 리깅, 애니메이션, 텍스처까지 오픈소스를 기본으로 삼는다는 게 회사 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "Cao가 꼽은 분야는 게임, 소비자용 3D 프린팅, 영화·애니메이션·XR, 로보틱스 네 가지다. 대형 스튜디오는 이 에셋을 레퍼런스나 정적 소품, 환경 블록아웃에 쓴다. 소규모 인디 팀은 이제 훨씬 많은 방향을 시험해 볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "영화 얘기에서 Cao는 솔직했다. “현재 출력 품질은... 영화 수준에 미치지 못한다. 그래도 사람들은 여전히 쓰고 있다”며 프리비즈가 “지금 우리에게 아주 큰 부분”이라고 덧붙였다. Tripo는 Maya, Houdini, Blender용 플러그인을 만드는 중이고, 번거로운 워크플로를 자동화하는 에이전트 시스템을 다음 목표로 잡았다. AI를 “아티스트와 함께... 그들을 건너뛰지 않고” 만들겠다는 얘기다."
+                "x": "MForMedia, led by co-founders and Managing Partners Ralph Matar and Khalil Homeissy, produces Arabic versions of Carpool Karaoke and The X Factor. The news comes soon after MForMedia hired MENA television industry veteran Ziad Kebbi as Managing Director, when the company announced it was pivoting toward AI production, original content and IP ownership."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tripo、プリビズ向け\nSmartMeshを提案",
-          "body": "Tripo AIの生成3Dツールはリファレンスやブロックアウト、プリビズを支えるという。",
-          "mini_headline": "プリビズ向けTripo SmartMesh",
+          "headline": "MForMedia、AI制作\nArcana Labsと提携",
+          "body": "ドバイのMForMediaがArcana LabsのAIワークフローを導入する。",
+          "mini_headline": "MForMedia、AI提携を締結",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+                "cap": "MForMedia"
               },
               {
                 "t": "p",
-                "x": "Tripo AIは北京で創業したVASTのプロダクトブランドだ。SIGGRAPH 2026には技術論文5本、基調講演、そしてBest in Showを受賞したReal-Time Live!のデモを携えて参加した。同社のユーザー数は2000万人で、今夏、報道によれば評価額10億ドルで約3億5000万ドルを調達した。"
+                "x": "EXCLUSIVE: ドバイのMForMediaは、Arcana Labsとの契約を受けて自社の制作にAIワークフローを取り入れる。両社は戦略的パートナーシップを結び、Arcanaのソフトウェアを MForMediaの制作ワークフロー、アラビア語の共同制作、スタッフ研修に組み込む。最終的な目標は、中東・北アフリカ(MENA)地域全体でAI-nativeな映画・テレビ制作の体制を築くことだ。"
               },
               {
                 "t": "p",
-                "x": "首席科学者のYanpei Caoによると、デモはすでに製品に搭載されているSmartMeshを基盤にしている。SmartMeshは、使えるトポロジーとテクスチャを備えたゲーム用アセットを1アセットあたり2秒未満で生成できるよう最適化されており、出荷版の製品では「5秒か10秒もかからない」という。同社はモデリング、リメッシュ、リギング、アニメーション、テクスチャの全般でオープンソースを基本としている。"
+                "x": "Arcana Labsの制作部門Arcana StudiosとMForMediaは、MENAの観客に向けたオリジナル作品も共同制作する。タイトル未発表の作品がすでに開発中だ。MForMediaのスタッフは今月、AI-native制作に関する五日間の研修ワークショップも受ける。"
               },
               {
                 "t": "p",
-                "x": "Caoはゲーム、一般消費者向け3Dプリント、映画・アニメーション・XR、ロボティクスの4分野を挙げた。大手スタジオはアセットをリファレンスや静的な小道具、環境のブロックアウトに使い、小規模なインディーチームはより多くの方向性を探れるようになった。"
+                "x": "「このモデルで、私たちは地域のスタジオに初日からAI-nativeなパイプラインを組み込んでいる」とArcana LabsのCEO、ジョナサン・ユンガー(Jonathan Yunger)は語る。「コンテンツはいまやドバイで、アラビア語で、かつてないほど速く低コストで作れる。アラビア語の制作がこの地域にとどまることになる」"
               },
               {
                 "t": "p",
-                "x": "映画についてCaoは率直だった。「現状の出力品質は……映画の品質基準には達していない。それでも人々は使っている」と述べ、プリビズは「今の我々にとって非常に大きな領域だ」と付け加えた。TripoはMaya、Houdini、Blender向けのプラグインを開発しており、面倒なワークフローを自動化するエージェント型システムを目指している。AIを「アーティストと共に……彼らを迂回するのではなく」作るという姿勢だ。"
+                "x": "共同創業者でマネージング・パートナーのラルフ・マタール(Ralph Matar)とハリール・ホメイシー(Khalil Homeissy)が率いるMForMediaは、Carpool KaraokeとThe X Factorのアラビア語版を制作している。今回の発表は、MForMediaがMENAのテレビ業界のベテラン、ジアード・ケビ(Ziad Kebbi)をマネージング・ディレクターに迎えた直後のことだ。同社は当時、AI制作、オリジナルコンテンツ、IP保有へと舵を切ると発表していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tripo为白模与预演\n主推SmartMesh",
-          "body": "Tripo AI首席科学家Yanpei Cao称，其生成式3D工具可用于参考、白模和预演。",
-          "mini_headline": "Tripo SmartMesh助力预演",
+          "headline": "MForMedia签AI协议\n携手Arcana Labs",
+          "body": "迪拜制片公司MForMedia将依新协议引入Arcana Labs的AI工作流。",
+          "mini_headline": "MForMedia签署AI协议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+                "cap": "MForMedia"
               },
               {
                 "t": "p",
-                "x": "Tripo AI是北京创立的VAST旗下产品品牌，在SIGGRAPH 2026上带来了5篇技术论文、一场主题演讲，以及荣获Best in Show的Real-Time Live!演示。公司称拥有2000万用户，今年夏天据报道以10亿美元估值融资约3.5亿美元。"
+                "x": "EXCLUSIVE：迪拜的MForMedia与Arcana Labs达成协议，将在制作中引入AI工作流。两家公司已建立战略合作伙伴关系，把Arcana的软件融入MForMedia的制作流程、阿拉伯语合拍项目和员工培训。总体目标是在中东和北非（MENA）地区建立AI-native的影视制作能力。"
               },
               {
                 "t": "p",
-                "x": "首席科学家Yanpei Cao表示，这一演示基于已进入产品的SmartMesh。它经过优化，能以每个资产不到2秒的速度生成具备可用拓扑和纹理的游戏级资产；在正式产品中则“用时不到5秒或10秒”。公司称，其在建模、重拓扑、绑定、动画和纹理各环节默认开源。"
+                "x": "Arcana Labs旗下制作部门Arcana Studios还将与MForMedia为MENA观众联合制作原创内容，尚未公布片名的作品已在开发中。本月，MForMedia员工还将参加为期五天的AI-native制作培训工作坊。"
               },
               {
                 "t": "p",
-                "x": "Cao列举了四个领域：游戏、消费级3D打印、电影/动画/XR，以及机器人。大型工作室将这些资产用作参考、静态道具或场景白模，而小型独立团队如今可以探索更多方向。"
+                "x": "“通过这种模式，我们从第一天起就把AI-native流程嵌入一家地区工作室，”Arcana Labs CEO Jonathan Yunger表示。“如今可以在迪拜、用阿拉伯语，以前所未有的速度和成本效益制作内容，确保阿拉伯语制作留在本地区。”"
               },
               {
                 "t": "p",
-                "x": "谈到电影，Cao直言：“目前输出的质量……还达不到电影级标准。但人们仍在使用”，并补充说预演“现在对我们来说是一件大事”。Tripo正在为Maya、Houdini和Blender开发插件，并致力于打造能自动化繁琐工作流的智能体系统，以“与艺术家一起……而不是绕开他们”的方式构建AI。"
+                "x": "MForMedia由联合创始人兼管理合伙人Ralph Matar和Khalil Homeissy领导，制作Carpool Karaoke和The X Factor的阿拉伯语版本。此前不久，MForMedia聘请MENA电视业资深人士Ziad Kebbi担任董事总经理，并宣布公司将转向AI制作、原创内容和IP所有权。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tripo AI propone SmartMesh\npara bloqueos y previsualización",
-          "body": "Según Yanpei Cao, de Tripo AI, sus herramientas 3D generativas ayudan con referencias, bloqueos y previsualización.",
-          "mini_headline": "Tripo SmartMesh para previsualización",
+          "headline": "MForMedia y Arcana Labs firman\nun acuerdo de producción con AI",
+          "body": "La productora MForMedia, de Dubai, sumará a sus producciones los flujos de trabajo de AI de Arcana Labs.",
+          "mini_headline": "MForMedia firma un pacto de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+                "cap": "MForMedia"
               },
               {
                 "t": "p",
-                "x": "Tripo AI, la marca de producto de VAST, empresa fundada en Pekín, llegó a SIGGRAPH 2026 con cinco artículos técnicos, una conferencia magistral y una demo en Real-Time Live! que ganó Best in Show. La compañía afirma tener 20 millones de usuarios y este verano recaudó unos 350 millones de dólares con una valoración que, según se informó, alcanza los 1.000 millones de dólares."
+                "x": "EXCLUSIVE: MForMedia, de Dubai, buscará incorporar flujos de trabajo de AI en sus producciones tras un acuerdo con Arcana Labs. Las dos compañías han cerrado una alianza estratégica para integrar el software de Arcana en los flujos de producción de MForMedia, en coproducciones en árabe y en la formación del personal. El objetivo general es desarrollar capacidades de producción de cine y televisión AI-native en toda la región de Oriente Medio y el Norte de África (MENA)."
               },
               {
                 "t": "p",
-                "x": "El científico jefe Yanpei Cao explicó que la demo se basó en SmartMesh, ya integrado en el producto y optimizado para generar assets listos para juegos, con topología y texturas utilizables, en menos de dos segundos por asset; en el producto comercial «tarda menos de cinco o 10 segundos». La empresa asegura que su opción por defecto es el código abierto en modelado, remallado, rigging, animación y texturizado."
+                "x": "Arcana Studios, el brazo de producción de Arcana Labs, y MForMedia también coproducirán contenido original para el público de MENA, con títulos aún sin anunciar ya en desarrollo. Además, el personal de MForMedia recibirá este mes un taller de formación de cinco días sobre producción AI-native."
               },
               {
                 "t": "p",
-                "x": "Cao mencionó cuatro sectores: videojuegos, impresión 3D de consumo, cine/animación/XR y robótica. Los grandes estudios usan los assets como referencia, utilería estática o bloqueos de escenarios, mientras que los pequeños equipos independientes ahora pueden explorar muchas más direcciones."
+                "x": "“Con este modelo, estamos integrando un pipeline AI-native dentro de un estudio regional desde el primer día”, dijo Jonathan Yunger, CEO de Arcana Labs. “Ahora se puede crear contenido en Dubai, en árabe, más rápido y de forma más rentable que nunca, lo que garantiza que la producción en árabe se quede en la región.”"
               },
               {
                 "t": "p",
-                "x": "Sobre el cine, Cao fue directo: «la calidad actual de los resultados... no está a la altura de los estándares de cine. Pero la gente lo sigue usando», y añadió que la previsualización «es algo enorme para nosotros ahora». Tripo desarrolla plugins para Maya, Houdini y Blender y trabaja en un sistema agéntico que automatice los flujos de trabajo tediosos, construyendo IA «con los artistas... no a su alrededor»."
+                "x": "MForMedia, dirigida por sus cofundadores y Managing Partners Ralph Matar y Khalil Homeissy, produce las versiones en árabe de Carpool Karaoke y The X Factor. La noticia llega poco después de que MForMedia contratara como Managing Director a Ziad Kebbi, veterano de la televisión en MENA, cuando la compañía anunció su giro hacia la producción con AI, el contenido original y la propiedad de IP."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "MForMedia, AI는\nArcana Labs와",
+          "body": "Dubai의 MForMedia가 Arcana Labs의 AI 워크플로를 들여온다.",
+          "mini_headline": "MForMedia, AI 협약 체결",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+                "cap": "MForMedia"
+              },
+              {
+                "t": "p",
+                "x": "EXCLUSIVE: Dubai의 MForMedia가 Arcana Labs와 계약을 맺고 자사 제작에 AI 워크플로를 들인다. 두 회사가 맺은 전략적 파트너십은 Arcana의 소프트웨어를 MForMedia의 제작 워크플로와 Arabic-language(아랍어) 공동 제작, 직원 교육에 접목하는 내용이다. 최종 목표는 중동·북아프리카(Middle East and North Africa, MENA) 전역에 AI-native 영화·TV 제작 역량을 갖추는 일이다."
+              },
+              {
+                "t": "p",
+                "x": "MForMedia와 Arcana Labs의 제작 부문 Arcana Studios는 MENA 관객용 오리지널 콘텐츠도 함께 만든다. 제목을 밝히지 않은 작품 여럿이 이미 개발 단계에 있다. MForMedia 직원들은 이달 AI-native 제작을 다루는 닷새(five-day) 교육 워크숍에도 참여한다."
+              },
+              {
+                "t": "p",
+                "x": "Arcana Labs CEO Jonathan Yunger는 “이 모델로 우리는 첫날부터 지역 스튜디오 안에 AI-native 파이프라인을 심고 있다”며 “이제 콘텐츠를 Dubai에서, Arabic(아랍어)으로, 그 어느 때보다 빠르고 비용 효율적으로 만들 수 있어 Arabic-language 제작이 지역 안에 머물게 된다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "MForMedia는 공동 창업자이자 Managing Partners인 Ralph Matar와 Khalil Homeissy가 이끌며, Carpool Karaoke와 The X Factor의 Arabic(아랍어)판을 만든다. 얼마 전에는 MENA TV 업계 베테랑 Ziad Kebbi를 Managing Director로 영입하고 AI 제작, 오리지널 콘텐츠, IP 소유 쪽으로 방향을 틀겠다고 밝혔다. 이번 소식은 그 직후에 나왔다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Tripo, 프리비즈용\nSmartMesh 제안",
-          "body": "Tripo AI는 생성형 3D 도구가 레퍼런스·블록아웃·프리비즈를 돕는다고 했다.",
-          "mini_headline": "프리비즈용 Tripo SmartMesh",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
-              },
-              {
-                "t": "p",
-                "x": "Tripo AI는 베이징에서 설립된 VAST의 제품 브랜드다. SIGGRAPH 2026에 기술 논문 5편과 기조연설, 그리고 Best in Show를 받은 Real-Time Live! 데모를 들고 나왔다. 회사는 사용자가 2000만 명이라고 밝혔고, 올여름 보도된 기업가치 10억 달러에 약 3억 5000만 달러를 조달했다."
-              },
-              {
-                "t": "p",
-                "x": "수석 과학자 Yanpei Cao는 이 데모가 이미 제품에 들어간 SmartMesh를 바탕으로 만들어졌다고 설명했다. SmartMesh는 쓸 만한 토폴로지와 텍스처를 갖춘 게임용 에셋을 에셋당 2초 이내에 생성하도록 최적화됐고, 실제 출시 제품에서는 “5초나 10초도 걸리지 않는다”고 한다. 회사는 모델링, 리메시, 리깅, 애니메이션, 텍스처 전반에서 오픈소스를 기본으로 삼는다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Cao는 게임, 소비자용 3D 프린팅, 영화·애니메이션·XR, 로보틱스의 네 분야를 꼽았다. 대형 스튜디오는 이 에셋을 레퍼런스나 정적 소품, 환경 블록아웃으로 쓰고, 소규모 인디 팀은 이제 훨씬 많은 방향을 탐색할 수 있게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "영화에 대해 Cao는 솔직했다. “현재 출력 품질은... 영화 수준에 미치지 못한다. 그래도 사람들은 여전히 쓰고 있다”며 프리비즈가 “지금 우리에게 아주 큰 부분”이라고 덧붙였다. Tripo는 Maya, Houdini, Blender용 플러그인을 만들고 있으며, 번거로운 워크플로를 자동화하는 에이전트 시스템을 향해 나아가고 있다. AI를 “아티스트와 함께... 그들을 건너뛰지 않고” 만든다는 것이다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "Tripo、プリビズ向け\nSmartMeshを提案",
-          "body": "Tripo AIの生成3Dツールはリファレンスやブロックアウト、プリビズを支えるという。",
-          "mini_headline": "プリビズ向けTripo SmartMesh",
+          "headline": "MForMedia、AI制作\nArcana Labsと提携",
+          "body": "ドバイのMForMediaがArcana LabsのAIワークフローを導入する。",
+          "mini_headline": "MForMedia、AI提携を締結",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+                "cap": "MForMedia"
               },
               {
                 "t": "p",
-                "x": "Tripo AIは北京で創業したVASTのプロダクトブランドだ。SIGGRAPH 2026には技術論文5本、基調講演、そしてBest in Showを受賞したReal-Time Live!のデモを携えて参加した。同社のユーザー数は2000万人で、今夏、報道によれば評価額10億ドルで約3億5000万ドルを調達した。"
+                "x": "EXCLUSIVE: ドバイのMForMediaは、Arcana Labsとの契約を受けて自社の制作にAIワークフローを取り入れる。両社は戦略的パートナーシップを結び、Arcanaのソフトウェアを MForMediaの制作ワークフロー、アラビア語の共同制作、スタッフ研修に組み込む。最終的な目標は、中東・北アフリカ(MENA)地域全体でAI-nativeな映画・テレビ制作の体制を築くことだ。"
               },
               {
                 "t": "p",
-                "x": "首席科学者のYanpei Caoによると、デモはすでに製品に搭載されているSmartMeshを基盤にしている。SmartMeshは、使えるトポロジーとテクスチャを備えたゲーム用アセットを1アセットあたり2秒未満で生成できるよう最適化されており、出荷版の製品では「5秒か10秒もかからない」という。同社はモデリング、リメッシュ、リギング、アニメーション、テクスチャの全般でオープンソースを基本としている。"
+                "x": "Arcana Labsの制作部門Arcana StudiosとMForMediaは、MENAの観客に向けたオリジナル作品も共同制作する。タイトル未発表の作品がすでに開発中だ。MForMediaのスタッフは今月、AI-native制作に関する五日間の研修ワークショップも受ける。"
               },
               {
                 "t": "p",
-                "x": "Caoはゲーム、一般消費者向け3Dプリント、映画・アニメーション・XR、ロボティクスの4分野を挙げた。大手スタジオはアセットをリファレンスや静的な小道具、環境のブロックアウトに使い、小規模なインディーチームはより多くの方向性を探れるようになった。"
+                "x": "「このモデルで、私たちは地域のスタジオに初日からAI-nativeなパイプラインを組み込んでいる」とArcana LabsのCEO、ジョナサン・ユンガー(Jonathan Yunger)は語る。「コンテンツはいまやドバイで、アラビア語で、かつてないほど速く低コストで作れる。アラビア語の制作がこの地域にとどまることになる」"
               },
               {
                 "t": "p",
-                "x": "映画についてCaoは率直だった。「現状の出力品質は……映画の品質基準には達していない。それでも人々は使っている」と述べ、プリビズは「今の我々にとって非常に大きな領域だ」と付け加えた。TripoはMaya、Houdini、Blender向けのプラグインを開発しており、面倒なワークフローを自動化するエージェント型システムを目指している。AIを「アーティストと共に……彼らを迂回するのではなく」作るという姿勢だ。"
+                "x": "共同創業者でマネージング・パートナーのラルフ・マタール(Ralph Matar)とハリール・ホメイシー(Khalil Homeissy)が率いるMForMediaは、Carpool KaraokeとThe X Factorのアラビア語版を制作している。今回の発表は、MForMediaがMENAのテレビ業界のベテラン、ジアード・ケビ(Ziad Kebbi)をマネージング・ディレクターに迎えた直後のことだ。同社は当時、AI制作、オリジナルコンテンツ、IP保有へと舵を切ると発表していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tripo为白模与预演\n主推SmartMesh",
-          "body": "Tripo AI首席科学家Yanpei Cao称，其生成式3D工具可用于参考、白模和预演。",
-          "mini_headline": "Tripo SmartMesh助力预演",
+          "headline": "MForMedia签AI协议\n携手Arcana Labs",
+          "body": "迪拜制片公司MForMedia将依新协议引入Arcana Labs的AI工作流。",
+          "mini_headline": "MForMedia签署AI协议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+                "cap": "MForMedia"
               },
               {
                 "t": "p",
-                "x": "Tripo AI是北京创立的VAST旗下产品品牌，在SIGGRAPH 2026上带来了5篇技术论文、一场主题演讲，以及荣获Best in Show的Real-Time Live!演示。公司称拥有2000万用户，今年夏天据报道以10亿美元估值融资约3.5亿美元。"
+                "x": "EXCLUSIVE：迪拜的MForMedia与Arcana Labs达成协议，将在制作中引入AI工作流。两家公司已建立战略合作伙伴关系，把Arcana的软件融入MForMedia的制作流程、阿拉伯语合拍项目和员工培训。总体目标是在中东和北非（MENA）地区建立AI-native的影视制作能力。"
               },
               {
                 "t": "p",
-                "x": "首席科学家Yanpei Cao表示，这一演示基于已进入产品的SmartMesh。它经过优化，能以每个资产不到2秒的速度生成具备可用拓扑和纹理的游戏级资产；在正式产品中则“用时不到5秒或10秒”。公司称，其在建模、重拓扑、绑定、动画和纹理各环节默认开源。"
+                "x": "Arcana Labs旗下制作部门Arcana Studios还将与MForMedia为MENA观众联合制作原创内容，尚未公布片名的作品已在开发中。本月，MForMedia员工还将参加为期五天的AI-native制作培训工作坊。"
               },
               {
                 "t": "p",
-                "x": "Cao列举了四个领域：游戏、消费级3D打印、电影/动画/XR，以及机器人。大型工作室将这些资产用作参考、静态道具或场景白模，而小型独立团队如今可以探索更多方向。"
+                "x": "“通过这种模式，我们从第一天起就把AI-native流程嵌入一家地区工作室，”Arcana Labs CEO Jonathan Yunger表示。“如今可以在迪拜、用阿拉伯语，以前所未有的速度和成本效益制作内容，确保阿拉伯语制作留在本地区。”"
               },
               {
                 "t": "p",
-                "x": "谈到电影，Cao直言：“目前输出的质量……还达不到电影级标准。但人们仍在使用”，并补充说预演“现在对我们来说是一件大事”。Tripo正在为Maya、Houdini和Blender开发插件，并致力于打造能自动化繁琐工作流的智能体系统，以“与艺术家一起……而不是绕开他们”的方式构建AI。"
+                "x": "MForMedia由联合创始人兼管理合伙人Ralph Matar和Khalil Homeissy领导，制作Carpool Karaoke和The X Factor的阿拉伯语版本。此前不久，MForMedia聘请MENA电视业资深人士Ziad Kebbi担任董事总经理，并宣布公司将转向AI制作、原创内容和IP所有权。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tripo AI propone SmartMesh\npara bloqueos y previsualización",
-          "body": "Según Yanpei Cao, de Tripo AI, sus herramientas 3D generativas ayudan con referencias, bloqueos y previsualización.",
-          "mini_headline": "Tripo SmartMesh para previsualización",
+          "headline": "MForMedia y Arcana Labs firman\nun acuerdo de producción con AI",
+          "body": "La productora MForMedia, de Dubai, sumará a sus producciones los flujos de trabajo de AI de Arcana Labs.",
+          "mini_headline": "MForMedia firma un pacto de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
+                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+                "cap": "MForMedia"
               },
               {
                 "t": "p",
-                "x": "Tripo AI, la marca de producto de VAST, empresa fundada en Pekín, llegó a SIGGRAPH 2026 con cinco artículos técnicos, una conferencia magistral y una demo en Real-Time Live! que ganó Best in Show. La compañía afirma tener 20 millones de usuarios y este verano recaudó unos 350 millones de dólares con una valoración que, según se informó, alcanza los 1.000 millones de dólares."
+                "x": "EXCLUSIVE: MForMedia, de Dubai, buscará incorporar flujos de trabajo de AI en sus producciones tras un acuerdo con Arcana Labs. Las dos compañías han cerrado una alianza estratégica para integrar el software de Arcana en los flujos de producción de MForMedia, en coproducciones en árabe y en la formación del personal. El objetivo general es desarrollar capacidades de producción de cine y televisión AI-native en toda la región de Oriente Medio y el Norte de África (MENA)."
               },
               {
                 "t": "p",
-                "x": "El científico jefe Yanpei Cao explicó que la demo se basó en SmartMesh, ya integrado en el producto y optimizado para generar assets listos para juegos, con topología y texturas utilizables, en menos de dos segundos por asset; en el producto comercial «tarda menos de cinco o 10 segundos». La empresa asegura que su opción por defecto es el código abierto en modelado, remallado, rigging, animación y texturizado."
+                "x": "Arcana Studios, el brazo de producción de Arcana Labs, y MForMedia también coproducirán contenido original para el público de MENA, con títulos aún sin anunciar ya en desarrollo. Además, el personal de MForMedia recibirá este mes un taller de formación de cinco días sobre producción AI-native."
               },
               {
                 "t": "p",
-                "x": "Cao mencionó cuatro sectores: videojuegos, impresión 3D de consumo, cine/animación/XR y robótica. Los grandes estudios usan los assets como referencia, utilería estática o bloqueos de escenarios, mientras que los pequeños equipos independientes ahora pueden explorar muchas más direcciones."
+                "x": "“Con este modelo, estamos integrando un pipeline AI-native dentro de un estudio regional desde el primer día”, dijo Jonathan Yunger, CEO de Arcana Labs. “Ahora se puede crear contenido en Dubai, en árabe, más rápido y de forma más rentable que nunca, lo que garantiza que la producción en árabe se quede en la región.”"
               },
               {
                 "t": "p",
-                "x": "Sobre el cine, Cao fue directo: «la calidad actual de los resultados... no está a la altura de los estándares de cine. Pero la gente lo sigue usando», y añadió que la previsualización «es algo enorme para nosotros ahora». Tripo desarrolla plugins para Maya, Houdini y Blender y trabaja en un sistema agéntico que automatice los flujos de trabajo tediosos, construyendo IA «con los artistas... no a su alrededor»."
+                "x": "MForMedia, dirigida por sus cofundadores y Managing Partners Ralph Matar y Khalil Homeissy, produce las versiones en árabe de Carpool Karaoke y The X Factor. La noticia llega poco después de que MForMedia contratara como Managing Director a Ziad Kebbi, veterano de la televisión en MENA, cuando la compañía anunció su giro hacia la producción con AI, el contenido original y la propiedad de IP."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "MForMedia, AI는\nArcana Labs와",
+          "body": "Dubai의 MForMedia가 Arcana Labs의 AI 워크플로를 도입한다.",
+          "mini_headline": "MForMedia, AI 협약 체결",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+                "cap": "MForMedia"
+              },
+              {
+                "t": "p",
+                "x": "EXCLUSIVE: Dubai의 MForMedia가 Arcana Labs와의 계약에 따라 자사 제작에 AI 워크플로를 도입한다. 두 회사는 Arcana의 소프트웨어를 MForMedia의 제작 워크플로, Arabic-language(아랍어) 공동 제작, 직원 교육에 접목하는 전략적 파트너십을 맺었다. 궁극적인 목표는 중동·북아프리카(Middle East and North Africa, MENA) 지역 전반에 AI-native 영화·TV 제작 역량을 갖추는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "Arcana Labs의 제작 부문인 Arcana Studios와 MForMedia는 MENA 관객을 위한 오리지널 콘텐츠도 공동 제작하며, 제목이 공개되지 않은 작품들이 이미 개발 중이다. MForMedia 직원들은 이달 AI-native 제작에 관한 닷새(five-day) 교육 워크숍도 받는다."
+              },
+              {
+                "t": "p",
+                "x": "Arcana Labs CEO Jonathan Yunger는 “이 모델로 우리는 첫날부터 지역 스튜디오 안에 AI-native 파이프라인을 심고 있다”며 “이제 콘텐츠를 Dubai에서, Arabic(아랍어)으로, 그 어느 때보다 빠르고 비용 효율적으로 만들 수 있어 Arabic-language 제작이 지역 안에 머물게 된다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "공동 창업자이자 Managing Partners인 Ralph Matar와 Khalil Homeissy가 이끄는 MForMedia는 Carpool Karaoke와 The X Factor의 Arabic(아랍어)판을 제작한다. 이번 소식은 MForMedia가 MENA TV 업계 베테랑 Ziad Kebbi를 Managing Director로 영입하며 AI 제작, 오리지널 콘텐츠, IP 소유 쪽으로 방향을 튼다고 밝힌 직후에 나왔다."
               }
             ]
           }
@@ -315,15 +325,15 @@
       }
     },
     {
-      "id": "curious-refuge-ai-depth-map",
+      "id": "curious-refuge-gpt-astra-agent-edit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "무료 AI 도구로\n영상에서 뎁스 맵 추출",
-      "body": "Curious Refuge가 무료 AI 도구로 뎁스 맵 만드는 법을 소개했다.",
-      "mini_headline": "뎁스 맵용 무료 AI 도구",
+      "headline": "AI 에이전트는 영화를\n얼마나 만들 수 있나",
+      "body": "Curious Refuge가 GPT Astra에 VFX·SFX까지 편집을 맡겼다.",
+      "mini_headline": "AI 영화 에이전트 실험",
       "tool": "Movies",
       "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=BFsVW1DrLng",
+      "url": "https://www.youtube.com/watch?v=JWEAmLHp7Sg",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -331,149 +341,149 @@
         "blocks": [
           {
             "t": "video",
-            "yt": "BFsVW1DrLng"
+            "yt": "JWEAmLHp7Sg"
           },
           {
             "t": "p",
-            "x": "Curious Refuge가 뎁스 맵을 만들 때 즐겨 쓰는 무료 AI 도구를 하나 소개했다. 바로 Depth Anything이다. 앱을 내려받아 Mac에서 로컬로 돌려도 되고, Fal.ai에서 온라인으로 써도 된다."
+            "x": "AI 에이전트는 영화 제작을 실제로 얼마나 해낼 수 있을까?"
           },
           {
             "t": "p",
-            "x": "뎁스 맵은 물체가 카메라에서 얼마나 가깝고 먼지를 명암으로 보여주는 회색조 영상이다. 튜토리얼에서 Fal에 영상을 올려 VDA Large 모델을 돌리자 약 60초 만에 뎁스 맵이 나왔다."
+            "x": "이번 영상에서는 GPT Astra에 영상 정리와 편집을 맡겼다. VFX, SFX 작업에 마케팅 소재 제작까지 포함해서다. 무엇이 통했고 무엇이 안 통했는지는 튜토리얼에 담았다."
           },
           {
             "t": "p",
-            "x": "이렇게 뽑은 뎁스 맵은 AI 영상 도구에서 모션 레퍼런스 역할을 한다. 룩을 정하는 시작 이미지와 원본 영상을 함께 넣으면 생성된 숏은 원래 움직임과 공간 구조를 따르면서도 스타일과 환경은 달리할 수 있다."
+            "x": "전체 분석 글과 프롬프트는 여기 있다: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A Free AI Tool Pulls\nDepth Maps From Footage",
-          "body": "Curious Refuge shows how a free AI tool, run on a Mac or via Fal.ai, turns footage into depth maps that guide AI video.",
-          "mini_headline": "Free AI Tool\nfor Depth Maps",
+          "headline": "How much filmmaking can\nan AI agent actually do",
+          "body": "Curious Refuge let GPT Astra organize and edit a video, including VFX, SFX and marketing assets.",
+          "mini_headline": "Testing an AI film agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "BFsVW1DrLng"
+                "yt": "JWEAmLHp7Sg"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge shares one of its favorite free AI tools for creating depth maps: Depth Anything, which can run locally on a Mac via a downloadable app or online through Fal.ai."
+                "x": "How Much of Filmmaking Can AI Agents Actually Do?"
               },
               {
                 "t": "p",
-                "x": "A depth map is a grayscale video in which shades represent how close or far objects are from the camera. In the tutorial, footage uploaded to Fal with the VDA Large model rendered a depth map in roughly 60 seconds."
+                "x": "In this video, we let GPT Astra organize and edit a video including doing VFX, SFX, and producing marketing assets. Check out our tutorial for what worked and what didn’t."
               },
               {
                 "t": "p",
-                "x": "The depth map is then used as a motion reference in an AI video tool, alongside a starting image for the look and the original footage, so the generated shot can change style and environment while following the original movement and spatial structure."
+                "x": "Check out the full written breakdown and prompts here: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
               }
             ]
           }
         },
         "ko": {
-          "headline": "무료 AI 도구로\n영상에서 뎁스 맵 추출",
-          "body": "Curious Refuge가 무료 AI 도구로 뎁스 맵 만드는 법을 소개했다.",
-          "mini_headline": "뎁스 맵용 무료 AI 도구",
+          "headline": "AI 에이전트는 영화를\n얼마나 만들 수 있나",
+          "body": "Curious Refuge가 GPT Astra에 VFX·SFX까지 편집을 맡겼다.",
+          "mini_headline": "AI 영화 에이전트 실험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "BFsVW1DrLng"
+                "yt": "JWEAmLHp7Sg"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge가 뎁스 맵을 만들 때 즐겨 쓰는 무료 AI 도구를 하나 소개했다. 바로 Depth Anything이다. 앱을 내려받아 Mac에서 로컬로 돌려도 되고, Fal.ai에서 온라인으로 써도 된다."
+                "x": "AI 에이전트는 영화 제작을 실제로 얼마나 해낼 수 있을까?"
               },
               {
                 "t": "p",
-                "x": "뎁스 맵은 물체가 카메라에서 얼마나 가깝고 먼지를 명암으로 보여주는 회색조 영상이다. 튜토리얼에서 Fal에 영상을 올려 VDA Large 모델을 돌리자 약 60초 만에 뎁스 맵이 나왔다."
+                "x": "이번 영상에서는 GPT Astra에 영상 정리와 편집을 맡겼다. VFX, SFX 작업에 마케팅 소재 제작까지 포함해서다. 무엇이 통했고 무엇이 안 통했는지는 튜토리얼에 담았다."
               },
               {
                 "t": "p",
-                "x": "이렇게 뽑은 뎁스 맵은 AI 영상 도구에서 모션 레퍼런스 역할을 한다. 룩을 정하는 시작 이미지와 원본 영상을 함께 넣으면 생성된 숏은 원래 움직임과 공간 구조를 따르면서도 스타일과 환경은 달리할 수 있다."
+                "x": "전체 분석 글과 프롬프트는 여기 있다: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
               }
             ]
           }
         },
         "ja": {
-          "headline": "無料AIツールで\n映像から深度マップ",
-          "body": "Curious Refugeが無料AIツールで映像から深度マップを作る方法を紹介した。",
-          "mini_headline": "深度マップ用の無料AIツール",
+          "headline": "AIエージェントは\n映画をどこまで作れるか",
+          "body": "Curious RefugeがGPT AstraにVFXやSFXも含む動画編集を任せた。",
+          "mini_headline": "AI映画エージェントを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "BFsVW1DrLng"
+                "yt": "JWEAmLHp7Sg"
               },
               {
                 "t": "p",
-                "x": "Curious Refugeは、深度マップ作成に愛用する無料AIツールの一つとしてDepth Anythingを紹介した。ダウンロード版アプリでMac上でローカルに動かすことも、Fal.ai経由でオンラインで使うこともできる。"
+                "x": "AIエージェントは映画制作を実際どこまでこなせるのか?"
               },
               {
                 "t": "p",
-                "x": "深度マップとは、被写体がカメラからどれだけ近いか遠いかを濃淡で表したグレースケール映像だ。チュートリアルでは、映像をFalにアップロードしVDA Largeモデルを使うと、約60秒で深度マップがレンダリングされた。"
+                "x": "この動画では、GPT AstraにVFXやSFXの作業、マーケティング素材の制作も含めて動画の整理と編集を任せた。何がうまくいき、何がうまくいかなかったかはチュートリアルで確認できる。"
               },
               {
                 "t": "p",
-                "x": "この深度マップは、ルックを決める開始画像と元の映像とともに、AI動画ツールのモーションリファレンスとして使われる。これにより生成されたショットは、元の動きと空間構造に沿いながらスタイルや環境を変えられる。"
+                "x": "詳しい解説記事とプロンプトはこちら: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
               }
             ]
           }
         },
         "zh": {
-          "headline": "免费AI工具\n从素材中提取深度图",
-          "body": "Curious Refuge演示了如何用免费AI工具把素材转成深度图以引导AI视频。",
-          "mini_headline": "免费AI工具生成深度图",
+          "headline": "AI智能体究竟能\n完成多少电影制作",
+          "body": "Curious Refuge让GPT Astra剪辑视频，含VFX、SFX和营销素材。",
+          "mini_headline": "实测AI电影智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "BFsVW1DrLng"
+                "yt": "JWEAmLHp7Sg"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge分享了其最喜欢的免费深度图AI工具之一：Depth Anything。它既可通过下载应用在Mac上本地运行，也可通过Fal.ai在线使用。"
+                "x": "AI智能体究竟能完成多少电影制作工作？"
               },
               {
                 "t": "p",
-                "x": "深度图是一段灰度视频，用明暗表示物体离摄像机的远近。在教程中，将素材上传到Fal并使用VDA Large模型，约60秒便渲染出深度图。"
+                "x": "在这段视频中，我们让GPT Astra整理并剪辑一段视频，包括制作VFX、SFX和营销素材。来看看我们的教程，了解哪些做法奏效、哪些没有。"
               },
               {
                 "t": "p",
-                "x": "随后，深度图在AI视频工具中用作运动参考，与决定画面风格的起始图像和原始素材一起使用，使生成的镜头在沿用原有运动和空间结构的同时，改变风格与环境。"
+                "x": "完整的文字解析和提示词请见：https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una herramienta de IA gratuita\nextrae mapas de profundidad",
-          "body": "Curious Refuge muestra cómo una IA gratuita, en Mac o Fal.ai, convierte metraje en mapas de profundidad.",
-          "mini_headline": "IA gratuita para mapas de profundidad",
+          "headline": "¿Cuánto cine puede hacer\nde verdad un agente de AI?",
+          "body": "Curious Refuge dejó que GPT Astra organizara y editara un video, con VFX, SFX y piezas de marketing incluidas.",
+          "mini_headline": "Prueba de un agente de cine con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "BFsVW1DrLng"
+                "yt": "JWEAmLHp7Sg"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge comparte una de sus herramientas de IA gratuitas favoritas para crear mapas de profundidad: Depth Anything, que puede ejecutarse localmente en un Mac mediante una app descargable o en línea a través de Fal.ai."
+                "x": "¿Cuánto del trabajo cinematográfico pueden hacer realmente los agentes de AI?"
               },
               {
                 "t": "p",
-                "x": "Un mapa de profundidad es un video en escala de grises en el que los tonos indican lo cerca o lejos que están los objetos de la cámara. En el tutorial, el metraje subido a Fal con el modelo VDA Large generó un mapa de profundidad en unos 60 segundos."
+                "x": "En este video dejamos que GPT Astra organizara y editara un video, incluidos los VFX, los SFX y la producción de piezas de marketing. Consulta nuestro tutorial para ver qué funcionó y qué no."
               },
               {
                 "t": "p",
-                "x": "Después, el mapa de profundidad se usa como referencia de movimiento en una herramienta de video con IA, junto con una imagen inicial que define el estilo visual y el metraje original, de modo que la toma generada puede cambiar de estilo y de entorno sin dejar de seguir el movimiento y la estructura espacial originales."
+                "x": "Consulta el análisis completo por escrito y los prompts aquí: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
               }
             ]
           }
@@ -481,105 +491,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "무료 AI 도구로\n영상에서 뎁스 맵 추출",
-          "body": "Curious Refuge가 무료 AI 도구로 뎁스 맵 만드는 법을 소개했다.",
-          "mini_headline": "뎁스 맵용 무료 AI 도구",
+          "headline": "AI 에이전트는 영화를\n얼마나 만들 수 있나",
+          "body": "Curious Refuge가 GPT Astra에 VFX·SFX까지 편집을 맡겼다.",
+          "mini_headline": "AI 영화 에이전트 실험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "BFsVW1DrLng"
+                "yt": "JWEAmLHp7Sg"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge가 뎁스 맵 제작에 즐겨 쓰는 무료 AI 도구 하나를 소개했다. Depth Anything으로, 앱을 내려받아 Mac에서 로컬로 돌리거나 Fal.ai를 통해 온라인으로 쓸 수 있다."
+                "x": "AI 에이전트는 영화 제작을 실제로 얼마나 해낼 수 있을까?"
               },
               {
                 "t": "p",
-                "x": "뎁스 맵은 물체가 카메라에서 얼마나 가깝고 먼지를 명암으로 나타낸 회색조 영상이다. 튜토리얼에서는 Fal에 영상을 올리고 VDA Large 모델을 쓰자 약 60초 만에 뎁스 맵이 렌더링됐다."
+                "x": "이번 영상에서는 GPT Astra에 VFX, SFX 작업과 마케팅 소재 제작까지 포함해 영상의 정리와 편집을 맡겼다. 무엇이 통했고 무엇이 통하지 않았는지는 튜토리얼에서 확인할 수 있다."
               },
               {
                 "t": "p",
-                "x": "이렇게 만든 뎁스 맵은 AI 영상 도구에서 모션 레퍼런스로 쓰인다. 룩을 정하는 시작 이미지와 원본 영상을 함께 넣으면, 생성된 숏은 원래의 움직임과 공간 구조를 따르면서도 스타일과 환경을 바꿀 수 있다."
+                "x": "전체 분석 글과 프롬프트는 여기서 볼 수 있다: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
               }
             ]
           }
         },
         "ja": {
-          "headline": "無料AIツールで\n映像から深度マップ",
-          "body": "Curious Refugeが無料AIツールで映像から深度マップを作る方法を紹介した。",
-          "mini_headline": "深度マップ用の無料AIツール",
+          "headline": "AIエージェントは\n映画をどこまで作れるか",
+          "body": "Curious RefugeがGPT AstraにVFXやSFXも含む動画編集を任せた。",
+          "mini_headline": "AI映画エージェントを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "BFsVW1DrLng"
+                "yt": "JWEAmLHp7Sg"
               },
               {
                 "t": "p",
-                "x": "Curious Refugeは、深度マップ作成に愛用する無料AIツールの一つとしてDepth Anythingを紹介した。ダウンロード版アプリでMac上でローカルに動かすことも、Fal.ai経由でオンラインで使うこともできる。"
+                "x": "AIエージェントは映画制作を実際どこまでこなせるのか?"
               },
               {
                 "t": "p",
-                "x": "深度マップとは、被写体がカメラからどれだけ近いか遠いかを濃淡で表したグレースケール映像だ。チュートリアルでは、映像をFalにアップロードしVDA Largeモデルを使うと、約60秒で深度マップがレンダリングされた。"
+                "x": "この動画では、GPT AstraにVFXやSFXの作業、マーケティング素材の制作も含めて動画の整理と編集を任せた。何がうまくいき、何がうまくいかなかったかはチュートリアルで確認できる。"
               },
               {
                 "t": "p",
-                "x": "この深度マップは、ルックを決める開始画像と元の映像とともに、AI動画ツールのモーションリファレンスとして使われる。これにより生成されたショットは、元の動きと空間構造に沿いながらスタイルや環境を変えられる。"
+                "x": "詳しい解説記事とプロンプトはこちら: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
               }
             ]
           }
         },
         "zh": {
-          "headline": "免费AI工具\n从素材中提取深度图",
-          "body": "Curious Refuge演示了如何用免费AI工具把素材转成深度图以引导AI视频。",
-          "mini_headline": "免费AI工具生成深度图",
+          "headline": "AI智能体究竟能\n完成多少电影制作",
+          "body": "Curious Refuge让GPT Astra剪辑视频，含VFX、SFX和营销素材。",
+          "mini_headline": "实测AI电影智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "BFsVW1DrLng"
+                "yt": "JWEAmLHp7Sg"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge分享了其最喜欢的免费深度图AI工具之一：Depth Anything。它既可通过下载应用在Mac上本地运行，也可通过Fal.ai在线使用。"
+                "x": "AI智能体究竟能完成多少电影制作工作？"
               },
               {
                 "t": "p",
-                "x": "深度图是一段灰度视频，用明暗表示物体离摄像机的远近。在教程中，将素材上传到Fal并使用VDA Large模型，约60秒便渲染出深度图。"
+                "x": "在这段视频中，我们让GPT Astra整理并剪辑一段视频，包括制作VFX、SFX和营销素材。来看看我们的教程，了解哪些做法奏效、哪些没有。"
               },
               {
                 "t": "p",
-                "x": "随后，深度图在AI视频工具中用作运动参考，与决定画面风格的起始图像和原始素材一起使用，使生成的镜头在沿用原有运动和空间结构的同时，改变风格与环境。"
+                "x": "完整的文字解析和提示词请见：https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una herramienta de IA gratuita\nextrae mapas de profundidad",
-          "body": "Curious Refuge muestra cómo una IA gratuita, en Mac o Fal.ai, convierte metraje en mapas de profundidad.",
-          "mini_headline": "IA gratuita para mapas de profundidad",
+          "headline": "¿Cuánto cine puede hacer\nde verdad un agente de AI?",
+          "body": "Curious Refuge dejó que GPT Astra organizara y editara un video, con VFX, SFX y piezas de marketing incluidas.",
+          "mini_headline": "Prueba de un agente de cine con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "BFsVW1DrLng"
+                "yt": "JWEAmLHp7Sg"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge comparte una de sus herramientas de IA gratuitas favoritas para crear mapas de profundidad: Depth Anything, que puede ejecutarse localmente en un Mac mediante una app descargable o en línea a través de Fal.ai."
+                "x": "¿Cuánto del trabajo cinematográfico pueden hacer realmente los agentes de AI?"
               },
               {
                 "t": "p",
-                "x": "Un mapa de profundidad es un video en escala de grises en el que los tonos indican lo cerca o lejos que están los objetos de la cámara. En el tutorial, el metraje subido a Fal con el modelo VDA Large generó un mapa de profundidad en unos 60 segundos."
+                "x": "En este video dejamos que GPT Astra organizara y editara un video, incluidos los VFX, los SFX y la producción de piezas de marketing. Consulta nuestro tutorial para ver qué funcionó y qué no."
               },
               {
                 "t": "p",
-                "x": "Después, el mapa de profundidad se usa como referencia de movimiento en una herramienta de video con IA, junto con una imagen inicial que define el estilo visual y el metraje original, de modo que la toma generada puede cambiar de estilo y de entorno sin dejar de seguir el movimiento y la estructura espacial originales."
+                "x": "Consulta el análisis completo por escrito y los prompts aquí: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
               }
             ]
           }
@@ -587,15 +597,15 @@
       }
     },
     {
-      "id": "bbc-brittin-ai-doctor-who",
+      "id": "mubi-cakarel-no-ai-films-policy",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "BBC 수장 AI-Made\n닥터 후 '꽤 좋다'",
-      "body": "BBC Matt Brittin은 전부 AI가 만든 닥터 후를 '꽤 좋다'고 했다.",
-      "mini_headline": "BBC 수장, AI 닥터 후 평가",
+      "headline": "Mubi의 Cakarel\n영화에선 AI 멀리한다",
+      "body": "Mubi의 Efe Cakarel은 영화만큼은 AI를 최대한 멀리하겠다고 했다.",
+      "mini_headline": "Mubi, 영화에선 AI 배제",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
+      "source": "Screen Daily",
+      "url": "https://www.screendaily.com/news/mubis-efe-cakarel-we-are-going-to-stay-as-far-away-from-ai-as-possible-when-it-comes-to-films/5220798.article",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -603,149 +613,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+            "cap": "Efe Cakarel"
           },
           {
             "t": "p",
-            "x": "BBC 사무총장 Matt Brittin은 AI로 만든(AI-generated) Doctor Who 에피소드가 “꽤 좋았다”고 평했다. 전 Google EMEA 대표인 그는 최근 누군가 이 장수 프랜차이즈의 50분짜리 에피소드를 보내왔는데 전부 AI로 만든 것이었다며, 굳이 깎아내리지 않았다. “사람을 대체하지는 않겠지만, 그 얘기는 곧 하겠다”는 말도 덧붙였다."
+            "x": "Mubi 창업자 겸 CEO 에페 차카렐(Efe Cakarel)은 9월 26일 취리히영화제(Zurich Film Festival) Zurich Summit 기조연설에서 “영화에 관해서는 AI를 최대한 멀리할 것”이라고 회사 방침을 밝혔다."
           },
           {
             "t": "p",
-            "x": "RTS London Convention에서 Brittin은 Amazon 인터내셔널 대표 Kelly Day와 같은 목소리로 AI의 힘을 옹호했다. “[이제] 누구나 할리우드 스튜디오에 가까운 수준의 콘텐츠를 만들 수 있다.” 그는 며칠 전에도 “가드레일 안에서”라면 AI가 제작하고 진행하는 프로그램도 허용하겠다고 밝혔다."
+            "x": "“Mubi에서도 AI를 쓸 것이고, 이미 엔지니어링, 재무, 운영, 예측, 고객 서비스에 AI를 쓰고 있다”고 차카렐은 말했다. 그는 이 전략에 단서를 달았다. “AI가 좋은 것을 만들 수 없다고 믿어서가 아니다. 그건 안일하고 아마 틀린 주장이다. 오히려 AI-generated 콘텐츠가 곧 아주 좋아질 것이기에 인간의 창작이 더 가치 있어지는 것이다.”"
           },
           {
             "t": "p",
-            "x": "이 발언은 BBC가 5억 파운드(6억 6200만 달러) 규모의 비용 절감으로 수백 명을 감원하는 와중에 나왔다. 곧 채널 폐쇄도 이어질 전망인데, BBC Three가 들어갈 수도 있다."
+            "x": "이 CEO는 앞으로 가치가 “의도”에 있을 것이라고 했다. “취향, 주의, 문화적 정당성, 공동체, 출처, 무엇보다 신뢰”에도 있다고 덧붙였다. AI 때문에 같은 영화가 관객마다 다른 버전으로 만들어질 수 있다는 경고도 내놨다. “초개인화된 엔터테인먼트는 만족을 주지만, 영화는 이야깃거리를 준다.”"
+          },
+          {
+            "t": "p",
+            "x": "“그러니 맞다, 우리는 기계가 우리 삶에서 많은 일을 해주길 원한다. 다만 영화만큼은 기계가 만들지 않기를 바란다. 엔터테인먼트가 어디로 가는지에 대한 내 생각이 맞다면, 20년 뒤 영화사가 할 수 있는 가장 급진적인 말은 ‘이건 사람이 만들었다’일지도 모르기 때문이다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "BBC Chief Calls AI-Made\nDoctor Who 'Pretty Good'",
-          "body": "BBC boss Matt Brittin says a fully AI-generated Doctor Who episode someone sent him was 'pretty good.'",
-          "mini_headline": "BBC Boss Rates\nAI Doctor Who",
+          "headline": "Mubi's Efe Cakarel keeps\nAI away from its films",
+          "body": "Mubi's Efe Cakarel says the company will stay as far away from AI as possible when it comes to films.",
+          "mini_headline": "Mubi keeps AI out of films",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+                "cap": "Efe Cakarel"
               },
               {
                 "t": "p",
-                "x": "An AI-generated episode of Doctor Who was “pretty good,” according to BBC Director General Matt Brittin. The former Google EMEA boss said somebody had recently sent him a 50-minute episode of the long-running franchise that was completely AI-generated, and he refused to slam it. “I mean it’s not going to replace humans but we’ll come on to that,” he said."
+                "x": "Mubi founder and CEO Efe Cakarel says the company is “going to stay as far away from AI as possible when it comes to films”, in a keynote at the Zurich Summit at the Zurich Film Festival on September 26."
               },
               {
                 "t": "p",
-                "x": "Speaking at the RTS London Convention, Brittin echoed Amazon international boss Kelly Day in backing the power of AI: “Everyone’s [now] got the ability to create content almost at the standard of a Hollywood studio.” Days earlier he said he would allow a programme to be made and presented by AI “within guardrails.”"
+                "x": "“At Mubi, we’re going to use AI, and we are using AI in engineering, finance, operations, forecasting, customer service,” said Cakarel. He qualified the strategy: “Not because I believe AI cannot make something good. That argument is complacent and probably wrong. It is precisely because AI-generated content is about to become so good that human creation becomes more valuable.”"
               },
               {
                 "t": "p",
-                "x": "The talk came amid a £500M ($662M) BBC savings drive leading to hundreds of layoffs, with channel closures, possibly including BBC Three, expected soon."
+                "x": "In the future, the value will be in “intention”, said the CEO, and in “taste, attention, cultural legitimacy, community, provenance, and above all, trust.” He warned that AI could lead to different versions of the same film being made for different viewers: “Hyper-personalised entertainment gives you satisfaction, but cinema gives you something to talk about.”"
+              },
+              {
+                "t": "p",
+                "x": "“So yes, we want machines doing a great deal of work in our lives; we just don’t want them making the movies. Because if I’m right about where entertainment is going, 20 years from now, the most radical thing a film company may be able to say is ‘This was made by people’.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "BBC 수장 AI-Made\n닥터 후 '꽤 좋다'",
-          "body": "BBC Matt Brittin은 전부 AI가 만든 닥터 후를 '꽤 좋다'고 했다.",
-          "mini_headline": "BBC 수장, AI 닥터 후 평가",
+          "headline": "Mubi의 Cakarel\n영화에선 AI 멀리한다",
+          "body": "Mubi의 Efe Cakarel은 영화만큼은 AI를 최대한 멀리하겠다고 했다.",
+          "mini_headline": "Mubi, 영화에선 AI 배제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+                "cap": "Efe Cakarel"
               },
               {
                 "t": "p",
-                "x": "BBC 사무총장 Matt Brittin은 AI로 만든(AI-generated) Doctor Who 에피소드가 “꽤 좋았다”고 평했다. 전 Google EMEA 대표인 그는 최근 누군가 이 장수 프랜차이즈의 50분짜리 에피소드를 보내왔는데 전부 AI로 만든 것이었다며, 굳이 깎아내리지 않았다. “사람을 대체하지는 않겠지만, 그 얘기는 곧 하겠다”는 말도 덧붙였다."
+                "x": "Mubi 창업자 겸 CEO 에페 차카렐(Efe Cakarel)은 9월 26일 취리히영화제(Zurich Film Festival) Zurich Summit 기조연설에서 “영화에 관해서는 AI를 최대한 멀리할 것”이라고 회사 방침을 밝혔다."
               },
               {
                 "t": "p",
-                "x": "RTS London Convention에서 Brittin은 Amazon 인터내셔널 대표 Kelly Day와 같은 목소리로 AI의 힘을 옹호했다. “[이제] 누구나 할리우드 스튜디오에 가까운 수준의 콘텐츠를 만들 수 있다.” 그는 며칠 전에도 “가드레일 안에서”라면 AI가 제작하고 진행하는 프로그램도 허용하겠다고 밝혔다."
+                "x": "“Mubi에서도 AI를 쓸 것이고, 이미 엔지니어링, 재무, 운영, 예측, 고객 서비스에 AI를 쓰고 있다”고 차카렐은 말했다. 그는 이 전략에 단서를 달았다. “AI가 좋은 것을 만들 수 없다고 믿어서가 아니다. 그건 안일하고 아마 틀린 주장이다. 오히려 AI-generated 콘텐츠가 곧 아주 좋아질 것이기에 인간의 창작이 더 가치 있어지는 것이다.”"
               },
               {
                 "t": "p",
-                "x": "이 발언은 BBC가 5억 파운드(6억 6200만 달러) 규모의 비용 절감으로 수백 명을 감원하는 와중에 나왔다. 곧 채널 폐쇄도 이어질 전망인데, BBC Three가 들어갈 수도 있다."
+                "x": "이 CEO는 앞으로 가치가 “의도”에 있을 것이라고 했다. “취향, 주의, 문화적 정당성, 공동체, 출처, 무엇보다 신뢰”에도 있다고 덧붙였다. AI 때문에 같은 영화가 관객마다 다른 버전으로 만들어질 수 있다는 경고도 내놨다. “초개인화된 엔터테인먼트는 만족을 주지만, 영화는 이야깃거리를 준다.”"
+              },
+              {
+                "t": "p",
+                "x": "“그러니 맞다, 우리는 기계가 우리 삶에서 많은 일을 해주길 원한다. 다만 영화만큼은 기계가 만들지 않기를 바란다. 엔터테인먼트가 어디로 가는지에 대한 내 생각이 맞다면, 20년 뒤 영화사가 할 수 있는 가장 급진적인 말은 ‘이건 사람이 만들었다’일지도 모르기 때문이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "BBC会長、AI-Made\nドクター・フー「結構良い」",
-          "body": "BBCのMatt Brittinは全編AIで作ったドクター・フーを「かなり良い」と評した。",
-          "mini_headline": "BBC会長がAI版ドクター・フーを評価",
+          "headline": "MubiのCakarel\n映画からAIを遠ざける",
+          "body": "MubiのEfe Cakarelは、映画に関してはAIからできる限り距離を置くと語った。",
+          "mini_headline": "Mubi、映画にAIは使わず",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+                "cap": "Efe Cakarel"
               },
               {
                 "t": "p",
-                "x": "BBCのMatt Brittin会長によれば、AI-generatedのDoctor Whoのエピソードは「かなり良かった」という。元Google EMEA責任者の彼は、最近誰かからこの長寿フランチャイズの50分のエピソードが送られてきたが、それは完全にAI生成だったと語り、酷評はしなかった。「人間に取って代わるものではないが、その話はあとでしよう」と彼は述べた。"
+                "x": "Mubiの創業者兼CEO、エフェ・チャカレル(Efe Cakarel)は9月26日、Zurich Film FestivalのZurich Summitでの基調講演で、同社は「映画に関してはAIからできる限り距離を置く」と述べた。"
               },
               {
                 "t": "p",
-                "x": "RTS London Conventionで登壇したBrittinは、Amazonの国際部門トップKelly Dayと同様にAIの力を支持し、「誰もが[今や]ハリウッドのスタジオにほぼ匹敵する水準のコンテンツを作れるようになった」と語った。その数日前には、「ガードレールの範囲内で」AIが制作・司会する番組を認める考えを示していた。"
+                "x": "「Mubiでも AIは使うし、すでにエンジニアリング、財務、運営、予測、顧客サービスでAIを使っている」とチャカレルは語る。そのうえで戦略にこう但し書きを付けた。「AIが良いものを作れないと思っているからではない。その主張は慢心であり、おそらく間違っている。むしろAI-generatedコンテンツがまもなく非常に良くなるからこそ、人間の創作の価値が高まるのだ」"
               },
               {
                 "t": "p",
-                "x": "この発言は、BBCが5億ポンド（6億6200万ドル）の経費削減を進め、数百人規模の人員削減に至るなかで出たものだ。BBC Threeを含む可能性のあるチャンネル閉鎖も近く見込まれている。"
+                "x": "将来、価値は「意図」にあるとCEOは言う。そして「センス、注意、文化的正当性、コミュニティ、来歴、そして何よりも信頼」にあるという。AIによって同じ映画が観客ごとに異なるバージョンで作られる可能性があるとも警告した。「超パーソナライズされたエンタメは満足を与えるが、映画は語り合う何かを与えてくれる」"
+              },
+              {
+                "t": "p",
+                "x": "「だから確かに、私たちは生活の多くの仕事を機械にやってほしい。ただ映画だけは作ってほしくない。エンターテインメントの行方についての私の見立てが正しければ、20年後、映画会社が言える最もラディカルな言葉は『これは人間が作った』になるかもしれないからだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BBC总裁：AI-Made\n《神秘博士》“挺好”",
-          "body": "BBC总裁Matt Brittin称，有人发给他的全AI生成《神秘博士》“相当不错”。",
-          "mini_headline": "BBC总裁点评AI版《神秘博士》",
+          "headline": "Mubi的Cakarel\n让电影远离AI",
+          "body": "Mubi的Efe Cakarel表示，在电影方面，公司将尽可能远离AI。",
+          "mini_headline": "Mubi让电影远离AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+                "cap": "Efe Cakarel"
               },
               {
                 "t": "p",
-                "x": "BBC总干事Matt Brittin表示，一集AI-generated的《神秘博士》（Doctor Who）“相当不错”。这位前Google EMEA负责人说，最近有人给他发来这部长寿系列的一集50分钟剧集，完全由AI生成，而他并未加以抨击。“我的意思是，它不会取代人类，不过这个我们稍后再谈，”他说。"
+                "x": "Mubi创始人兼CEO Efe Cakarel于9月26日在Zurich Film Festival的Zurich Summit上发表主题演讲时表示，公司“在电影方面将尽可能远离AI”。"
               },
               {
                 "t": "p",
-                "x": "在RTS London Convention上，Brittin与Amazon国际业务负责人Kelly Day一样力挺AI的能力：“每个人[如今]都有能力制作几乎达到好莱坞制片厂水准的内容。”几天前，他曾表示会允许“在护栏之内”由AI制作并主持节目。"
+                "x": "“在Mubi，我们会使用AI，而且已经在工程、财务、运营、预测和客户服务中使用AI，”Cakarel说。他对这一策略作了限定：“这并不是因为我认为AI做不出好东西。那种论点自满，而且很可能是错的。恰恰是因为AI-generated内容即将变得非常出色，人类的创作才会变得更有价值。”"
               },
               {
                 "t": "p",
-                "x": "这番言论发表之际，BBC正推进5亿英镑（6.62亿美元）的节支计划，导致数百人被裁，预计很快还将关停部分频道，可能包括BBC Three。"
+                "x": "这位CEO表示，未来的价值将在于“意图”，以及“品味、注意力、文化正当性、社群、来源，最重要的是信任”。他警告说，AI可能导致同一部电影为不同观众制作出不同版本：“超个性化的娱乐给你满足感，而电影给你可以谈论的东西。”"
+              },
+              {
+                "t": "p",
+                "x": "“所以没错，我们希望机器在生活中承担大量工作；只是不希望它们来拍电影。因为如果我对娱乐业走向的判断没错，20年后，一家电影公司能说出的最激进的话，或许就是‘这是由人制作的’。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jefe de la BBC: el Doctor Who\nAI-Made es «bastante bueno»",
-          "body": "Matt Brittin, jefe de la BBC, dice que un episodio de Doctor Who generado por completo con IA era «bastante bueno».",
-          "mini_headline": "El jefe de la BBC valora un Doctor Who con IA",
+          "headline": "Efe Cakarel, de Mubi, mantiene\nla AI lejos de sus películas",
+          "body": "Efe Cakarel, de Mubi, afirma que la compañía se mantendrá lo más lejos posible de la AI en lo que respecta al cine.",
+          "mini_headline": "Mubi aleja la AI de sus películas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+                "cap": "Efe Cakarel"
               },
               {
                 "t": "p",
-                "x": "Un episodio de Doctor Who generado por IA (AI-generated) fue «bastante bueno», según el director general de la BBC, Matt Brittin. El exresponsable de Google para EMEA contó que alguien le había enviado hace poco un episodio de 50 minutos de la longeva franquicia, generado por completo con IA, y se negó a criticarlo. «Quiero decir, no va a reemplazar a los humanos, pero hablaremos de eso», afirmó."
+                "x": "El fundador y CEO de Mubi, Efe Cakarel, afirmó que la compañía “se mantendrá lo más lejos posible de la AI en lo que respecta a las películas”, durante una conferencia magistral en el Zurich Summit del Zurich Film Festival el 26 de septiembre."
               },
               {
                 "t": "p",
-                "x": "En la RTS London Convention, Brittin coincidió con Kelly Day, responsable internacional de Amazon, en respaldar el poder de la IA: «Todo el mundo tiene [ya] la capacidad de crear contenido casi al nivel de un estudio de Hollywood». Días antes había dicho que permitiría que un programa fuera realizado y presentado por IA «dentro de unos límites»."
+                "x": "“En Mubi vamos a usar AI, y ya la estamos usando en ingeniería, finanzas, operaciones, previsiones y atención al cliente”, dijo Cakarel. Y matizó la estrategia: “No es porque crea que la AI no puede hacer algo bueno. Ese argumento es complaciente y probablemente erróneo. Es precisamente porque el contenido generado por AI (AI-generated) está a punto de volverse tan bueno que la creación humana se vuelve más valiosa”."
               },
               {
                 "t": "p",
-                "x": "La charla se produjo en medio de un plan de ahorro de la BBC de 500 millones de libras (662 millones de dólares) que conlleva cientos de despidos, con cierres de canales, posiblemente incluido BBC Three, previstos en breve."
+                "x": "En el futuro, el valor estará en la “intención”, dijo el CEO, y en “el gusto, la atención, la legitimidad cultural, la comunidad, la procedencia y, sobre todo, la confianza”. Advirtió que la AI podría llevar a que se hicieran distintas versiones de una misma película para distintos espectadores: “El entretenimiento hiperpersonalizado te da satisfacción, pero el cine te da algo de qué hablar”."
+              },
+              {
+                "t": "p",
+                "x": "“Así que sí, queremos que las máquinas hagan gran parte del trabajo en nuestras vidas; solo que no queremos que hagan las películas. Porque si tengo razón sobre hacia dónde va el entretenimiento, dentro de 20 años lo más radical que podrá decir una productora será ‘Esto lo hicieron personas’”."
               }
             ]
           }
@@ -753,105 +793,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "BBC 수장 AI-Made\n닥터 후 '꽤 좋다'",
-          "body": "BBC Matt Brittin은 전부 AI가 만든 닥터 후를 '꽤 좋다'고 했다.",
-          "mini_headline": "BBC 수장, AI 닥터 후 평가",
+          "headline": "Mubi의 Cakarel\n영화에선 AI 멀리한다",
+          "body": "Mubi의 Efe Cakarel은 영화에서는 AI를 최대한 멀리하겠다고 밝혔다.",
+          "mini_headline": "Mubi, 영화에선 AI 배제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+                "cap": "Efe Cakarel"
               },
               {
                 "t": "p",
-                "x": "BBC 사무총장 Matt Brittin에 따르면, AI로 만든(AI-generated) Doctor Who 에피소드는 “꽤 좋았다”. 전 Google EMEA 대표인 그는 최근 누군가 이 장수 프랜차이즈의 50분짜리 에피소드를 보내왔는데 전부 AI로 생성된 것이었다고 전하며, 이를 깎아내리지 않았다. 그는 “사람을 대체하지는 않겠지만, 그 얘기는 곧 하겠다”고 말했다."
+                "x": "Mubi 창업자 겸 CEO 에페 차카렐(Efe Cakarel)은 9월 26일 취리히영화제(Zurich Film Festival)의 Zurich Summit 기조연설에서 회사가 “영화에 관해서는 AI를 최대한 멀리할 것”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "RTS London Convention에서 Brittin은 Amazon 인터내셔널 대표 Kelly Day와 같은 목소리로 AI의 힘을 지지했다. “[이제] 누구나 할리우드 스튜디오에 가까운 수준의 콘텐츠를 만들 수 있다.” 며칠 앞서 그는 “가드레일 안에서”라면 AI가 제작하고 진행하는 프로그램도 허용하겠다고 밝힌 바 있다."
+                "x": "“Mubi에서도 AI를 쓸 것이고, 이미 엔지니어링, 재무, 운영, 예측, 고객 서비스에 AI를 쓰고 있다”고 차카렐은 말했다. 그는 이 전략에 단서를 달았다. “AI가 좋은 것을 만들 수 없다고 믿어서가 아니다. 그건 안일하고 아마 틀린 주장이다. 오히려 AI-generated 콘텐츠가 곧 아주 좋아질 것이기에 인간의 창작이 더 가치 있어지는 것이다.”"
               },
               {
                 "t": "p",
-                "x": "이 발언은 BBC가 5억 파운드(6억 6200만 달러) 규모의 비용 절감에 나서 수백 명을 감원하는 가운데 나왔다. BBC Three를 포함할 수도 있는 채널 폐쇄도 곧 이어질 전망이다."
+                "x": "앞으로 가치는 “의도”에 있을 것이라고 이 CEO는 말했다. 또 “취향, 주의, 문화적 정당성, 공동체, 출처, 무엇보다 신뢰”에 있다고 했다. 그는 AI 때문에 같은 영화가 관객마다 다른 버전으로 만들어질 수 있다고 경고했다. “초개인화된 엔터테인먼트는 만족을 주지만, 영화는 이야깃거리를 준다.”"
+              },
+              {
+                "t": "p",
+                "x": "“그러니 맞다, 우리는 기계가 우리 삶에서 많은 일을 해주길 원한다. 다만 영화만큼은 기계가 만들지 않기를 바란다. 엔터테인먼트가 어디로 가는지에 대한 내 생각이 맞다면, 20년 뒤 영화사가 할 수 있는 가장 급진적인 말은 ‘이건 사람이 만들었다’일지도 모르기 때문이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "BBC会長、AI-Made\nドクター・フー「結構良い」",
-          "body": "BBCのMatt Brittinは全編AIで作ったドクター・フーを「かなり良い」と評した。",
-          "mini_headline": "BBC会長がAI版ドクター・フーを評価",
+          "headline": "MubiのCakarel\n映画からAIを遠ざける",
+          "body": "MubiのEfe Cakarelは、映画に関してはAIからできる限り距離を置くと語った。",
+          "mini_headline": "Mubi、映画にAIは使わず",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+                "cap": "Efe Cakarel"
               },
               {
                 "t": "p",
-                "x": "BBCのMatt Brittin会長によれば、AI-generatedのDoctor Whoのエピソードは「かなり良かった」という。元Google EMEA責任者の彼は、最近誰かからこの長寿フランチャイズの50分のエピソードが送られてきたが、それは完全にAI生成だったと語り、酷評はしなかった。「人間に取って代わるものではないが、その話はあとでしよう」と彼は述べた。"
+                "x": "Mubiの創業者兼CEO、エフェ・チャカレル(Efe Cakarel)は9月26日、Zurich Film FestivalのZurich Summitでの基調講演で、同社は「映画に関してはAIからできる限り距離を置く」と述べた。"
               },
               {
                 "t": "p",
-                "x": "RTS London Conventionで登壇したBrittinは、Amazonの国際部門トップKelly Dayと同様にAIの力を支持し、「誰もが[今や]ハリウッドのスタジオにほぼ匹敵する水準のコンテンツを作れるようになった」と語った。その数日前には、「ガードレールの範囲内で」AIが制作・司会する番組を認める考えを示していた。"
+                "x": "「Mubiでも AIは使うし、すでにエンジニアリング、財務、運営、予測、顧客サービスでAIを使っている」とチャカレルは語る。そのうえで戦略にこう但し書きを付けた。「AIが良いものを作れないと思っているからではない。その主張は慢心であり、おそらく間違っている。むしろAI-generatedコンテンツがまもなく非常に良くなるからこそ、人間の創作の価値が高まるのだ」"
               },
               {
                 "t": "p",
-                "x": "この発言は、BBCが5億ポンド（6億6200万ドル）の経費削減を進め、数百人規模の人員削減に至るなかで出たものだ。BBC Threeを含む可能性のあるチャンネル閉鎖も近く見込まれている。"
+                "x": "将来、価値は「意図」にあるとCEOは言う。そして「センス、注意、文化的正当性、コミュニティ、来歴、そして何よりも信頼」にあるという。AIによって同じ映画が観客ごとに異なるバージョンで作られる可能性があるとも警告した。「超パーソナライズされたエンタメは満足を与えるが、映画は語り合う何かを与えてくれる」"
+              },
+              {
+                "t": "p",
+                "x": "「だから確かに、私たちは生活の多くの仕事を機械にやってほしい。ただ映画だけは作ってほしくない。エンターテインメントの行方についての私の見立てが正しければ、20年後、映画会社が言える最もラディカルな言葉は『これは人間が作った』になるかもしれないからだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BBC总裁：AI-Made\n《神秘博士》“挺好”",
-          "body": "BBC总裁Matt Brittin称，有人发给他的全AI生成《神秘博士》“相当不错”。",
-          "mini_headline": "BBC总裁点评AI版《神秘博士》",
+          "headline": "Mubi的Cakarel\n让电影远离AI",
+          "body": "Mubi的Efe Cakarel表示，在电影方面，公司将尽可能远离AI。",
+          "mini_headline": "Mubi让电影远离AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+                "cap": "Efe Cakarel"
               },
               {
                 "t": "p",
-                "x": "BBC总干事Matt Brittin表示，一集AI-generated的《神秘博士》（Doctor Who）“相当不错”。这位前Google EMEA负责人说，最近有人给他发来这部长寿系列的一集50分钟剧集，完全由AI生成，而他并未加以抨击。“我的意思是，它不会取代人类，不过这个我们稍后再谈，”他说。"
+                "x": "Mubi创始人兼CEO Efe Cakarel于9月26日在Zurich Film Festival的Zurich Summit上发表主题演讲时表示，公司“在电影方面将尽可能远离AI”。"
               },
               {
                 "t": "p",
-                "x": "在RTS London Convention上，Brittin与Amazon国际业务负责人Kelly Day一样力挺AI的能力：“每个人[如今]都有能力制作几乎达到好莱坞制片厂水准的内容。”几天前，他曾表示会允许“在护栏之内”由AI制作并主持节目。"
+                "x": "“在Mubi，我们会使用AI，而且已经在工程、财务、运营、预测和客户服务中使用AI，”Cakarel说。他对这一策略作了限定：“这并不是因为我认为AI做不出好东西。那种论点自满，而且很可能是错的。恰恰是因为AI-generated内容即将变得非常出色，人类的创作才会变得更有价值。”"
               },
               {
                 "t": "p",
-                "x": "这番言论发表之际，BBC正推进5亿英镑（6.62亿美元）的节支计划，导致数百人被裁，预计很快还将关停部分频道，可能包括BBC Three。"
+                "x": "这位CEO表示，未来的价值将在于“意图”，以及“品味、注意力、文化正当性、社群、来源，最重要的是信任”。他警告说，AI可能导致同一部电影为不同观众制作出不同版本：“超个性化的娱乐给你满足感，而电影给你可以谈论的东西。”"
+              },
+              {
+                "t": "p",
+                "x": "“所以没错，我们希望机器在生活中承担大量工作；只是不希望它们来拍电影。因为如果我对娱乐业走向的判断没错，20年后，一家电影公司能说出的最激进的话，或许就是‘这是由人制作的’。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jefe de la BBC: el Doctor Who\nAI-Made es «bastante bueno»",
-          "body": "Matt Brittin, jefe de la BBC, dice que un episodio de Doctor Who generado por completo con IA era «bastante bueno».",
-          "mini_headline": "El jefe de la BBC valora un Doctor Who con IA",
+          "headline": "Efe Cakarel, de Mubi, mantiene\nla AI lejos de sus películas",
+          "body": "Efe Cakarel, de Mubi, afirma que la compañía se mantendrá lo más lejos posible de la AI en lo que respecta al cine.",
+          "mini_headline": "Mubi aleja la AI de sus películas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/478920-e1761733800534.jpg?w=1024"
+                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+                "cap": "Efe Cakarel"
               },
               {
                 "t": "p",
-                "x": "Un episodio de Doctor Who generado por IA (AI-generated) fue «bastante bueno», según el director general de la BBC, Matt Brittin. El exresponsable de Google para EMEA contó que alguien le había enviado hace poco un episodio de 50 minutos de la longeva franquicia, generado por completo con IA, y se negó a criticarlo. «Quiero decir, no va a reemplazar a los humanos, pero hablaremos de eso», afirmó."
+                "x": "El fundador y CEO de Mubi, Efe Cakarel, afirmó que la compañía “se mantendrá lo más lejos posible de la AI en lo que respecta a las películas”, durante una conferencia magistral en el Zurich Summit del Zurich Film Festival el 26 de septiembre."
               },
               {
                 "t": "p",
-                "x": "En la RTS London Convention, Brittin coincidió con Kelly Day, responsable internacional de Amazon, en respaldar el poder de la IA: «Todo el mundo tiene [ya] la capacidad de crear contenido casi al nivel de un estudio de Hollywood». Días antes había dicho que permitiría que un programa fuera realizado y presentado por IA «dentro de unos límites»."
+                "x": "“En Mubi vamos a usar AI, y ya la estamos usando en ingeniería, finanzas, operaciones, previsiones y atención al cliente”, dijo Cakarel. Y matizó la estrategia: “No es porque crea que la AI no puede hacer algo bueno. Ese argumento es complaciente y probablemente erróneo. Es precisamente porque el contenido generado por AI (AI-generated) está a punto de volverse tan bueno que la creación humana se vuelve más valiosa”."
               },
               {
                 "t": "p",
-                "x": "La charla se produjo en medio de un plan de ahorro de la BBC de 500 millones de libras (662 millones de dólares) que conlleva cientos de despidos, con cierres de canales, posiblemente incluido BBC Three, previstos en breve."
+                "x": "En el futuro, el valor estará en la “intención”, dijo el CEO, y en “el gusto, la atención, la legitimidad cultural, la comunidad, la procedencia y, sobre todo, la confianza”. Advirtió que la AI podría llevar a que se hicieran distintas versiones de una misma película para distintos espectadores: “El entretenimiento hiperpersonalizado te da satisfacción, pero el cine te da algo de qué hablar”."
+              },
+              {
+                "t": "p",
+                "x": "“Así que sí, queremos que las máquinas hagan gran parte del trabajo en nuestras vidas; solo que no queremos que hagan las películas. Porque si tengo razón sobre hacia dónde va el entretenimiento, dentro de 20 años lo más radical que podrá decir una productora será ‘Esto lo hicieron personas’”."
               }
             ]
           }
@@ -859,165 +919,231 @@
       }
     },
     {
-      "id": "curious-refuge-ai-sound-design",
+      "id": "tonic-dna-ai-hand-drawn-animation",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 사운드 디자인\n시험대에 오르다",
-      "body": "Curious Refuge가 새 AI 사운드 도구의 후반 작업 활용도를 시험했다.",
-      "mini_headline": "AI 사운드 디자인 테스트",
+      "headline": "Tonic DNA, AI로\n손그림 수명 연장에 건다",
+      "body": "사십 년 된 몬트리올 Tonic DNA가 AI로 손그림 애니 수명을 늘리려 한다.",
+      "mini_headline": "Tonic DNA의 AI 애니메이션 베팅",
       "tool": "Movies",
-      "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=0yv0r5UyzCY",
+      "source": "Motionographer",
+      "url": "https://motionographer.com/2026/09/29/the-studio-that-refused-to-be-one-thing/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "0yv0r5UyzCY"
+            "t": "img",
+            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+            "cap": "Tonic DNA Demo Reel 2026"
           },
           {
             "t": "p",
-            "x": "Curious Refuge가 AI 에이전트에게 사운드 디자인을 맡겨 봤다. 원래 사운드 디자인을 지운 영상에 InVideo의 새 에이전트와 ChatGPT Astra를 돌리고, 두 프로젝트에서 사람이 만든 버전과 결과를 나란히 비교했다."
+            "x": "Tonic DNA가 이번 달 새 웹사이트를 열었다. 파트너 스테파니 비턴(Stefanie Bitton)은 “리브랜딩이라기보다 리프레시라고 부른다”고 말한다. 뿌리가 약 사십 년 전까지 거슬러 올라가는 몬트리올 스튜디오다. 전통 애니메이션 하우스, IMAX 선구자, 3D·하이브리드 스튜디오, 감독 중심 크리에이티브 스튜디오를 차례로 거쳤고, 지금은 오리지널 작품을 만들며 소속 아티스트들이 직접 짠 AI 파이프라인까지 갖췄다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+            "cap": "몬트리올 도심에 있는 Tonic DNA 리셉션."
           },
           {
             "t": "p",
-            "x": "InVideo는 일부 효과를 제자리에 놓긴 했지만 레벨이 들쭉날쭉하고 장면과 어긋난 선택이 섞여 결과가 거칠었다. Adobe Premiere Pro 안에서 사운드 디자인을 짠 Astra 쪽이 더 쓸 만했다. 그래도 전문가 수준에는 못 미쳤다. 비용은 InVideo가 약 2시간에 4.56달러, Astra가 약 1시간 45분에 5.20달러였다."
+            "x": "“르네상스라는 말은 2D가 사라졌었다는 뜻이다. 2D는 사라진 적이 없다”고 비턴은 말한다. 스튜디오는 올해 The Anta Claus of the South Pole을 라인업에 더했다. 코델 바커(Cordell Barker)가 연출하고 캐나다 국립영화위원회(National Film Board of Canada)와 함께 만든 24분짜리 2D 홀리데이 스페셜이다."
           },
           {
             "t": "p",
-            "x": "사람이 다듬을 거친 초안까지는 이 도구들로 쓸 만하다. 다만 타이밍과 감정, 창작 의도는 여전히 사람의 몫이다."
+            "x": "Tonic이 자체 AI 도구를 만든 지 두 해가 됐다. 비턴은 이 방식을 ‘AI with intention(의도가 있는 AI)’이라 부른다. “아티스트를 대체하거나 공정을 건너뛰겠다는 뜻이 아니다. 과정의 마찰을 일부 덜어 아티스트가 더 많이 실험할 여지를 주겠다는 뜻이다.” 목표는 장편 2D다. “처음엔 반발이 많았다”고 그는 털어놓는다. 그래도 아티스트들은 개발에 참여했다. “기술이 저작자를 흐리거나 동의를 건너뛰기 시작하면, 완전히 다른 영역으로 넘어간 것이다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+            "cap": "Tonic DNA 라운지 벽을 채운 콘셉트 아트."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Curious Refuge Puts AI\nSound Design to the Test",
-          "body": "Curious Refuge runs new AI sound-design tools through multiple workflows to judge their value in post-production.",
-          "mini_headline": "AI Sound Design\nPut to the Test",
+          "headline": "Tonic DNA bets AI can extend\nhand-drawn animation's life",
+          "body": "Forty years in, Montreal's Tonic DNA is betting that AI can give hand-drawn animation a longer life.",
+          "mini_headline": "Tonic DNA's AI animation bet",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "0yv0r5UyzCY"
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+                "cap": "Tonic DNA Demo Reel 2026"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge tested whether AI agents can handle sound design, running InVideo's new agent and ChatGPT Astra on footage whose original sound design had been removed, then comparing the results with the human-made versions across two projects."
+                "x": "This month, Tonic DNA turned on a new website. “I call it a refresh more than a rebrand,” says partner Stefanie Bitton. Tonic DNA is a Montreal studio with roots reaching back about forty years: a traditional animation house, an IMAX pioneer, a 3D and hybrid shop, a director-led creative studio, and now a company with an original property in production and an AI pipeline built by its own artists."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+                "cap": "The reception at Tonic DNA in downtown Montreal."
               },
               {
                 "t": "p",
-                "x": "InVideo placed some effects correctly but its execution was rough, with inconsistent leveling and choices that didn't fit the scene. Astra, which built the sound design inside Adobe Premiere Pro, produced the more useful result but still not professional quality. InVideo took about two hours and $4.56; Astra about 1 hour 45 minutes and $5.20."
+                "x": "“A renaissance suggests 2D disappeared. It never did,” Bitton says. This year the studio added The Anta Claus of the South Pole, a 24-minute 2D holiday special directed by Cordell Barker, co-produced with the National Film Board of Canada."
               },
               {
                 "t": "p",
-                "x": "The verdict: the tools are useful for a rough first pass a human can refine, but timing, emotion and creative intent still need a human."
+                "x": "Tonic has spent two years building its own AI tools, and Bitton calls the approach AI with intention. “That doesn’t mean replacing the artist or skipping the craft. It means removing some of the friction around the process so the artists have more room to experiment.” The target is long-form 2D. “At first there was a lot of resistance,” she says, but the artists were involved in development. “Once the technology starts obscuring authorship or bypassing consent, you’ve crossed into a very different territory.”"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+                "cap": "Concept art lines the lounge at Tonic DNA."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 사운드 디자인\n시험대에 오르다",
-          "body": "Curious Refuge가 새 AI 사운드 도구의 후반 작업 활용도를 시험했다.",
-          "mini_headline": "AI 사운드 디자인 테스트",
+          "headline": "Tonic DNA, AI로\n손그림 수명 연장에 건다",
+          "body": "사십 년 된 몬트리올 Tonic DNA가 AI로 손그림 애니 수명을 늘리려 한다.",
+          "mini_headline": "Tonic DNA의 AI 애니메이션 베팅",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "0yv0r5UyzCY"
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+                "cap": "Tonic DNA Demo Reel 2026"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge가 AI 에이전트에게 사운드 디자인을 맡겨 봤다. 원래 사운드 디자인을 지운 영상에 InVideo의 새 에이전트와 ChatGPT Astra를 돌리고, 두 프로젝트에서 사람이 만든 버전과 결과를 나란히 비교했다."
+                "x": "Tonic DNA가 이번 달 새 웹사이트를 열었다. 파트너 스테파니 비턴(Stefanie Bitton)은 “리브랜딩이라기보다 리프레시라고 부른다”고 말한다. 뿌리가 약 사십 년 전까지 거슬러 올라가는 몬트리올 스튜디오다. 전통 애니메이션 하우스, IMAX 선구자, 3D·하이브리드 스튜디오, 감독 중심 크리에이티브 스튜디오를 차례로 거쳤고, 지금은 오리지널 작품을 만들며 소속 아티스트들이 직접 짠 AI 파이프라인까지 갖췄다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+                "cap": "몬트리올 도심에 있는 Tonic DNA 리셉션."
               },
               {
                 "t": "p",
-                "x": "InVideo는 일부 효과를 제자리에 놓긴 했지만 레벨이 들쭉날쭉하고 장면과 어긋난 선택이 섞여 결과가 거칠었다. Adobe Premiere Pro 안에서 사운드 디자인을 짠 Astra 쪽이 더 쓸 만했다. 그래도 전문가 수준에는 못 미쳤다. 비용은 InVideo가 약 2시간에 4.56달러, Astra가 약 1시간 45분에 5.20달러였다."
+                "x": "“르네상스라는 말은 2D가 사라졌었다는 뜻이다. 2D는 사라진 적이 없다”고 비턴은 말한다. 스튜디오는 올해 The Anta Claus of the South Pole을 라인업에 더했다. 코델 바커(Cordell Barker)가 연출하고 캐나다 국립영화위원회(National Film Board of Canada)와 함께 만든 24분짜리 2D 홀리데이 스페셜이다."
               },
               {
                 "t": "p",
-                "x": "사람이 다듬을 거친 초안까지는 이 도구들로 쓸 만하다. 다만 타이밍과 감정, 창작 의도는 여전히 사람의 몫이다."
+                "x": "Tonic이 자체 AI 도구를 만든 지 두 해가 됐다. 비턴은 이 방식을 ‘AI with intention(의도가 있는 AI)’이라 부른다. “아티스트를 대체하거나 공정을 건너뛰겠다는 뜻이 아니다. 과정의 마찰을 일부 덜어 아티스트가 더 많이 실험할 여지를 주겠다는 뜻이다.” 목표는 장편 2D다. “처음엔 반발이 많았다”고 그는 털어놓는다. 그래도 아티스트들은 개발에 참여했다. “기술이 저작자를 흐리거나 동의를 건너뛰기 시작하면, 완전히 다른 영역으로 넘어간 것이다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+                "cap": "Tonic DNA 라운지 벽을 채운 콘셉트 아트."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIサウンドデザイン\nその実力を検証",
-          "body": "Curious Refugeが新しいAI音響ツールを試し、ポスプロでの価値を見極めた。",
-          "mini_headline": "AIサウンドデザインを検証",
+          "headline": "Tonic DNA\n手描きの延命をAIに賭ける",
+          "body": "四十年の歴史を持つモントリオールのTonic DNAは、手描きアニメの延命をAIに賭ける。",
+          "mini_headline": "Tonic DNAのAIアニメ戦略",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "0yv0r5UyzCY"
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+                "cap": "Tonic DNA Demo Reel 2026"
               },
               {
                 "t": "p",
-                "x": "Curious Refugeは、AIエージェントがサウンドデザインをこなせるかを検証した。元のサウンドデザインを取り除いた映像でInVideoの新エージェントとChatGPT Astraを走らせ、2つのプロジェクトで人間が手がけたバージョンと結果を比べた。"
+                "x": "Tonic DNAは今月、新しいウェブサイトを公開した。「リブランドというよりリフレッシュだ」とパートナーのステファニー・ビットン(Stefanie Bitton)は言う。Tonic DNAは約四十年前にさかのぼるルーツを持つモントリオールのスタジオだ。伝統的なアニメーションハウス、IMAXの先駆者、3Dとハイブリッドの制作会社、監督主導のクリエイティブスタジオを経て、いまはオリジナル作品を制作中で、自社のアーティストが構築したAIパイプラインを持つ会社になった。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+                "cap": "モントリオール中心部にあるTonic DNAの受付。"
               },
               {
                 "t": "p",
-                "x": "InVideoは一部の効果音を正しく配置したものの、音量レベルがばらつき、シーンに合わない選択もあって仕上がりは粗かった。Adobe Premiere Pro内でサウンドデザインを組み立てたAstraのほうが実用的な結果を出したが、それでもプロの品質には届かなかった。InVideoは約2時間で4.56ドル、Astraは約1時間45分で5.20ドルかかった。"
+                "x": "「ルネサンスという言葉は、2Dが一度消えたことを意味する。でも消えたことはない」とビットンは言う。スタジオは今年、The Anta Claus of the South Poleを加えた。コーデル・バーカー(Cordell Barker)が監督し、カナダ国立映画制作庁(National Film Board of Canada)と共同制作した24分の2Dホリデースペシャルだ。"
               },
               {
                 "t": "p",
-                "x": "結論として、これらのツールは人間が仕上げる前提の粗い下書きには役立つが、タイミングや感情、創作上の意図には依然として人間が必要だ。"
+                "x": "Tonicは二年をかけて独自のAIツールを開発してきた。ビットンはこのアプローチを「AI with intention(意図あるAI)」と呼ぶ。「アーティストを置き換えたり、技を省いたりするという意味ではない。工程の摩擦を一部取り除き、アーティストが実験できる余地を広げるということだ」。狙いは長編の2Dだ。「最初は大きな抵抗があった」と彼女は言うが、アーティストたちは開発に関わった。「技術が作者性を曖昧にしたり、同意を素通りしたりし始めたら、まったく別の領域に踏み込んだことになる」"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+                "cap": "Tonic DNAのラウンジに並ぶコンセプトアート。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Curious Refuge\n实测AI声音设计",
-          "body": "Curious Refuge用多种工作流测试新款AI声音设计工具，评估其后期制作价值。",
-          "mini_headline": "AI声音设计实测",
+          "headline": "Tonic DNA押注AI\n延续手绘动画生命",
+          "body": "走过四十年的蒙特利尔Tonic DNA押注AI能延长手绘动画的生命。",
+          "mini_headline": "Tonic DNA的AI动画赌注",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "0yv0r5UyzCY"
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+                "cap": "Tonic DNA Demo Reel 2026"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge测试了AI智能体能否胜任声音设计：在去除原有声音设计的素材上运行InVideo的新智能体和ChatGPT Astra，再在两个项目中将结果与人工制作的版本进行对比。"
+                "x": "本月，Tonic DNA上线了新网站。“我更愿意称之为焕新，而不是品牌重塑，”合伙人Stefanie Bitton说。Tonic DNA是一家根源可追溯到约四十年前的蒙特利尔工作室：它曾是传统动画公司、IMAX先驱、3D与混合制作公司、导演主导的创意工作室，如今则有一部原创作品正在制作中，并拥有由自家艺术家打造的AI流程。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+                "cap": "位于蒙特利尔市中心的Tonic DNA前台。"
               },
               {
                 "t": "p",
-                "x": "InVideo有些音效放对了位置，但整体执行粗糙，音量电平不一致，有些选择与场景不符。Astra在Adobe Premiere Pro中完成声音设计，结果更有用，但仍未达到专业水准。InVideo耗时约两小时、花费4.56美元；Astra约1小时45分钟、5.20美元。"
+                "x": "“说复兴，就意味着2D曾经消失过。但它从未消失，”Bitton说。今年，工作室新增了The Anta Claus of the South Pole，这是一部由Cordell Barker执导、与National Film Board of Canada（加拿大国家电影局）联合制作的24分钟2D节日特别片。"
               },
               {
                 "t": "p",
-                "x": "结论是：这些工具适合做出供人打磨的粗略初稿，但节奏、情绪和创作意图仍需要人来把握。"
+                "x": "Tonic花了两年时间打造自有AI工具，Bitton称这种做法为“AI with intention”（有意图的AI）。“这并不意味着取代艺术家或跳过手艺，而是消除流程中的一些摩擦，让艺术家有更多实验空间。”目标是长篇2D。“起初阻力很大，”她说，但艺术家们参与了开发。“一旦技术开始模糊作者身份或绕过同意，就进入了完全不同的领域。”"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+                "cap": "Tonic DNA休息区墙上挂满概念艺术。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Curious Refuge pone a prueba\nel diseño sonoro con IA",
-          "body": "Curious Refuge prueba nuevas herramientas de diseño sonoro con IA para medir su valor en posproducción.",
-          "mini_headline": "Diseño sonoro con IA a prueba",
+          "headline": "Tonic DNA apuesta a que la AI\ndé más vida al dibujo a mano",
+          "body": "Tras cuarenta años, Tonic DNA de Montreal apuesta a que la AI puede dar más vida a la animación dibujada a mano.",
+          "mini_headline": "La apuesta de Tonic DNA por la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "0yv0r5UyzCY"
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+                "cap": "Tonic DNA Demo Reel 2026"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge comprobó si los agentes de IA pueden encargarse del diseño sonoro: ejecutó el nuevo agente de InVideo y ChatGPT Astra sobre material al que se le había quitado el diseño sonoro original y comparó los resultados con las versiones hechas por personas en dos proyectos."
+                "x": "Este mes, Tonic DNA estrenó un nuevo sitio web. “Lo llamo una renovación más que un cambio de marca”, dice la socia Stefanie Bitton. Tonic DNA es un estudio de Montreal con raíces que se remontan a unos cuarenta años: una casa de animación tradicional, pionera de IMAX, un taller de 3D e híbrido, un estudio creativo liderado por directores y, ahora, una compañía con una propiedad original en producción y un pipeline de AI construido por sus propios artistas."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+                "cap": "La recepción de Tonic DNA en el centro de Montreal."
               },
               {
                 "t": "p",
-                "x": "InVideo colocó bien algunos efectos, pero la ejecución fue tosca, con niveles irregulares y decisiones que no encajaban con la escena. Astra, que construyó el diseño sonoro dentro de Adobe Premiere Pro, dio un resultado más útil, aunque todavía sin calidad profesional. InVideo tardó unas dos horas y costó $4.56; Astra, alrededor de 1 hora y 45 minutos y $5.20."
+                "x": "“Hablar de renacimiento sugiere que el 2D desapareció. Nunca lo hizo”, dice Bitton. Este año el estudio sumó The Anta Claus of the South Pole, un especial festivo 2D de 24 minutos dirigido por Cordell Barker y coproducido con la National Film Board of Canada."
               },
               {
                 "t": "p",
-                "x": "El veredicto: las herramientas sirven para un primer borrador que una persona pueda pulir, pero el ritmo, la emoción y la intención creativa todavía requieren a un humano."
+                "x": "Tonic lleva dos años construyendo sus propias herramientas de AI, y Bitton llama a este enfoque AI with intention (AI con intención). “Eso no significa reemplazar al artista ni saltarse el oficio. Significa eliminar parte de la fricción del proceso para que los artistas tengan más margen para experimentar”. El objetivo es el 2D de formato largo. “Al principio hubo mucha resistencia”, dice, pero los artistas participaron en el desarrollo. “Cuando la tecnología empieza a ocultar la autoría o a saltarse el consentimiento, has entrado en un territorio muy distinto”."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+                "cap": "Arte conceptual en las paredes del salón de Tonic DNA."
               }
             ]
           }
@@ -1025,105 +1151,149 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 사운드 디자인\n시험대에 오르다",
-          "body": "Curious Refuge가 새 AI 사운드 도구의 후반 작업 활용도를 시험했다.",
-          "mini_headline": "AI 사운드 디자인 테스트",
+          "headline": "Tonic DNA, AI로\n손그림 수명 연장에 건다",
+          "body": "사십 년 된 몬트리올 Tonic DNA가 AI로 손그림 애니 수명 연장에 건다.",
+          "mini_headline": "Tonic DNA의 AI 애니메이션 베팅",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "0yv0r5UyzCY"
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+                "cap": "Tonic DNA Demo Reel 2026"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge는 AI 에이전트가 사운드 디자인을 해낼 수 있는지 시험했다. 원래 사운드 디자인을 지운 영상에 InVideo의 새 에이전트와 ChatGPT Astra를 돌린 뒤, 두 프로젝트에서 사람이 만든 버전과 결과를 비교했다."
+                "x": "Tonic DNA는 이번 달 새 웹사이트를 열었다. “리브랜딩이라기보다 리프레시라고 부른다”고 파트너 스테파니 비턴(Stefanie Bitton)은 말한다. Tonic DNA는 약 사십 년 전까지 뿌리가 닿는 몬트리올 스튜디오다. 전통 애니메이션 하우스, IMAX 선구자, 3D·하이브리드 스튜디오, 감독 중심의 크리에이티브 스튜디오를 거쳐, 지금은 오리지널 작품을 제작 중이며 소속 아티스트들이 직접 만든 AI 파이프라인을 갖춘 회사가 됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+                "cap": "몬트리올 도심에 있는 Tonic DNA 리셉션."
               },
               {
                 "t": "p",
-                "x": "InVideo는 일부 효과를 제대로 배치했지만 레벨이 들쭉날쭉하고 장면에 맞지 않는 선택이 섞여 완성도가 거칠었다. Adobe Premiere Pro 안에서 사운드 디자인을 구성한 Astra가 더 쓸모 있는 결과를 냈지만, 여전히 전문가 수준에는 못 미쳤다. InVideo는 약 2시간에 4.56달러, Astra는 약 1시간 45분에 5.20달러가 들었다."
+                "x": "“르네상스라는 말은 2D가 사라졌었다는 뜻이다. 2D는 사라진 적이 없다”고 비턴은 말한다. 스튜디오는 올해 The Anta Claus of the South Pole을 더했다. 코델 바커(Cordell Barker)가 연출하고 캐나다 국립영화위원회(National Film Board of Canada)와 공동 제작한 24분짜리 2D 홀리데이 스페셜이다."
               },
               {
                 "t": "p",
-                "x": "결론은 이렇다. 이 도구들은 사람이 다듬을 거친 초안 작업에는 유용하지만, 타이밍과 감정, 창작 의도는 여전히 사람의 몫이다."
+                "x": "Tonic은 두 해 동안 자체 AI 도구를 만들어 왔고, 비턴은 이 방식을 ‘AI with intention(의도가 있는 AI)’이라 부른다. “아티스트를 대체하거나 공정을 건너뛰겠다는 뜻이 아니다. 과정의 마찰을 일부 덜어 아티스트가 더 많이 실험할 여지를 주겠다는 뜻이다.” 목표는 장편 2D다. “처음엔 반발이 많았다”고 그는 말하지만, 아티스트들은 개발에 참여했다. “기술이 저작자를 흐리거나 동의를 건너뛰기 시작하면, 완전히 다른 영역으로 넘어간 것이다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+                "cap": "Tonic DNA 라운지 벽을 채운 콘셉트 아트."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIサウンドデザイン\nその実力を検証",
-          "body": "Curious Refugeが新しいAI音響ツールを試し、ポスプロでの価値を見極めた。",
-          "mini_headline": "AIサウンドデザインを検証",
+          "headline": "Tonic DNA\n手描きの延命をAIに賭ける",
+          "body": "四十年の歴史を持つモントリオールのTonic DNAは、手描きアニメの延命をAIに賭ける。",
+          "mini_headline": "Tonic DNAのAIアニメ戦略",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "0yv0r5UyzCY"
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+                "cap": "Tonic DNA Demo Reel 2026"
               },
               {
                 "t": "p",
-                "x": "Curious Refugeは、AIエージェントがサウンドデザインをこなせるかを検証した。元のサウンドデザインを取り除いた映像でInVideoの新エージェントとChatGPT Astraを走らせ、2つのプロジェクトで人間が手がけたバージョンと結果を比べた。"
+                "x": "Tonic DNAは今月、新しいウェブサイトを公開した。「リブランドというよりリフレッシュだ」とパートナーのステファニー・ビットン(Stefanie Bitton)は言う。Tonic DNAは約四十年前にさかのぼるルーツを持つモントリオールのスタジオだ。伝統的なアニメーションハウス、IMAXの先駆者、3Dとハイブリッドの制作会社、監督主導のクリエイティブスタジオを経て、いまはオリジナル作品を制作中で、自社のアーティストが構築したAIパイプラインを持つ会社になった。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+                "cap": "モントリオール中心部にあるTonic DNAの受付。"
               },
               {
                 "t": "p",
-                "x": "InVideoは一部の効果音を正しく配置したものの、音量レベルがばらつき、シーンに合わない選択もあって仕上がりは粗かった。Adobe Premiere Pro内でサウンドデザインを組み立てたAstraのほうが実用的な結果を出したが、それでもプロの品質には届かなかった。InVideoは約2時間で4.56ドル、Astraは約1時間45分で5.20ドルかかった。"
+                "x": "「ルネサンスという言葉は、2Dが一度消えたことを意味する。でも消えたことはない」とビットンは言う。スタジオは今年、The Anta Claus of the South Poleを加えた。コーデル・バーカー(Cordell Barker)が監督し、カナダ国立映画制作庁(National Film Board of Canada)と共同制作した24分の2Dホリデースペシャルだ。"
               },
               {
                 "t": "p",
-                "x": "結論として、これらのツールは人間が仕上げる前提の粗い下書きには役立つが、タイミングや感情、創作上の意図には依然として人間が必要だ。"
+                "x": "Tonicは二年をかけて独自のAIツールを開発してきた。ビットンはこのアプローチを「AI with intention(意図あるAI)」と呼ぶ。「アーティストを置き換えたり、技を省いたりするという意味ではない。工程の摩擦を一部取り除き、アーティストが実験できる余地を広げるということだ」。狙いは長編の2Dだ。「最初は大きな抵抗があった」と彼女は言うが、アーティストたちは開発に関わった。「技術が作者性を曖昧にしたり、同意を素通りしたりし始めたら、まったく別の領域に踏み込んだことになる」"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+                "cap": "Tonic DNAのラウンジに並ぶコンセプトアート。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Curious Refuge\n实测AI声音设计",
-          "body": "Curious Refuge用多种工作流测试新款AI声音设计工具，评估其后期制作价值。",
-          "mini_headline": "AI声音设计实测",
+          "headline": "Tonic DNA押注AI\n延续手绘动画生命",
+          "body": "走过四十年的蒙特利尔Tonic DNA押注AI能延长手绘动画的生命。",
+          "mini_headline": "Tonic DNA的AI动画赌注",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "0yv0r5UyzCY"
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+                "cap": "Tonic DNA Demo Reel 2026"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge测试了AI智能体能否胜任声音设计：在去除原有声音设计的素材上运行InVideo的新智能体和ChatGPT Astra，再在两个项目中将结果与人工制作的版本进行对比。"
+                "x": "本月，Tonic DNA上线了新网站。“我更愿意称之为焕新，而不是品牌重塑，”合伙人Stefanie Bitton说。Tonic DNA是一家根源可追溯到约四十年前的蒙特利尔工作室：它曾是传统动画公司、IMAX先驱、3D与混合制作公司、导演主导的创意工作室，如今则有一部原创作品正在制作中，并拥有由自家艺术家打造的AI流程。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+                "cap": "位于蒙特利尔市中心的Tonic DNA前台。"
               },
               {
                 "t": "p",
-                "x": "InVideo有些音效放对了位置，但整体执行粗糙，音量电平不一致，有些选择与场景不符。Astra在Adobe Premiere Pro中完成声音设计，结果更有用，但仍未达到专业水准。InVideo耗时约两小时、花费4.56美元；Astra约1小时45分钟、5.20美元。"
+                "x": "“说复兴，就意味着2D曾经消失过。但它从未消失，”Bitton说。今年，工作室新增了The Anta Claus of the South Pole，这是一部由Cordell Barker执导、与National Film Board of Canada（加拿大国家电影局）联合制作的24分钟2D节日特别片。"
               },
               {
                 "t": "p",
-                "x": "结论是：这些工具适合做出供人打磨的粗略初稿，但节奏、情绪和创作意图仍需要人来把握。"
+                "x": "Tonic花了两年时间打造自有AI工具，Bitton称这种做法为“AI with intention”（有意图的AI）。“这并不意味着取代艺术家或跳过手艺，而是消除流程中的一些摩擦，让艺术家有更多实验空间。”目标是长篇2D。“起初阻力很大，”她说，但艺术家们参与了开发。“一旦技术开始模糊作者身份或绕过同意，就进入了完全不同的领域。”"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+                "cap": "Tonic DNA休息区墙上挂满概念艺术。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Curious Refuge pone a prueba\nel diseño sonoro con IA",
-          "body": "Curious Refuge prueba nuevas herramientas de diseño sonoro con IA para medir su valor en posproducción.",
-          "mini_headline": "Diseño sonoro con IA a prueba",
+          "headline": "Tonic DNA apuesta a que la AI\ndé más vida al dibujo a mano",
+          "body": "Tras cuarenta años, Tonic DNA de Montreal apuesta a que la AI puede dar más vida a la animación dibujada a mano.",
+          "mini_headline": "La apuesta de Tonic DNA por la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "0yv0r5UyzCY"
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+                "cap": "Tonic DNA Demo Reel 2026"
               },
               {
                 "t": "p",
-                "x": "Curious Refuge comprobó si los agentes de IA pueden encargarse del diseño sonoro: ejecutó el nuevo agente de InVideo y ChatGPT Astra sobre material al que se le había quitado el diseño sonoro original y comparó los resultados con las versiones hechas por personas en dos proyectos."
+                "x": "Este mes, Tonic DNA estrenó un nuevo sitio web. “Lo llamo una renovación más que un cambio de marca”, dice la socia Stefanie Bitton. Tonic DNA es un estudio de Montreal con raíces que se remontan a unos cuarenta años: una casa de animación tradicional, pionera de IMAX, un taller de 3D e híbrido, un estudio creativo liderado por directores y, ahora, una compañía con una propiedad original en producción y un pipeline de AI construido por sus propios artistas."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+                "cap": "La recepción de Tonic DNA en el centro de Montreal."
               },
               {
                 "t": "p",
-                "x": "InVideo colocó bien algunos efectos, pero la ejecución fue tosca, con niveles irregulares y decisiones que no encajaban con la escena. Astra, que construyó el diseño sonoro dentro de Adobe Premiere Pro, dio un resultado más útil, aunque todavía sin calidad profesional. InVideo tardó unas dos horas y costó $4.56; Astra, alrededor de 1 hora y 45 minutos y $5.20."
+                "x": "“Hablar de renacimiento sugiere que el 2D desapareció. Nunca lo hizo”, dice Bitton. Este año el estudio sumó The Anta Claus of the South Pole, un especial festivo 2D de 24 minutos dirigido por Cordell Barker y coproducido con la National Film Board of Canada."
               },
               {
                 "t": "p",
-                "x": "El veredicto: las herramientas sirven para un primer borrador que una persona pueda pulir, pero el ritmo, la emoción y la intención creativa todavía requieren a un humano."
+                "x": "Tonic lleva dos años construyendo sus propias herramientas de AI, y Bitton llama a este enfoque AI with intention (AI con intención). “Eso no significa reemplazar al artista ni saltarse el oficio. Significa eliminar parte de la fricción del proceso para que los artistas tengan más margen para experimentar”. El objetivo es el 2D de formato largo. “Al principio hubo mucha resistencia”, dice, pero los artistas participaron en el desarrollo. “Cuando la tecnología empieza a ocultar la autoría o a saltarse el consentimiento, has entrado en un territorio muy distinto”."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+                "cap": "Arte conceptual en las paredes del salón de Tonic DNA."
               }
             ]
           }
@@ -1131,401 +1301,561 @@
       }
     },
     {
-      "id": "lightbox-expo-genai-ban",
-      "source_lang": "en",
+      "id": "biff-forum-biff-ai-film-future",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "LightBox Expo\n생성형 AI에 강경 노선",
-      "body": "LightBox Expo 창립자들은 생성형 AI를 도둑질로 보고 금지한다고 했다.",
-      "mini_headline": "LightBox Expo, 생성형 AI 금지",
+      "headline": "부산영화제 포럼 비프\nAI 시대 영화 논의",
+      "body": "부산국제영화제 포럼 비프가 10월 8일부터 AI 시대 영화 제작을 논의한다.",
+      "mini_headline": "포럼 비프 AI 영화 논의",
       "tool": "Movies",
-      "source": "Cartoon Brew",
-      "url": "https://www.cartoonbrew.com/festivals/lightbox-expo-bobby-chiu-jim-demonakos-267289.html",
+      "source": "더쎈뉴스",
+      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=762264",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+            "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+            "cap": "제31회 부산국제영화제 ‘2026 포럼 비프(Forum BIFF)’ 공식 포스터. / 사진=부산국제영화제 제공"
           },
           {
             "t": "p",
-            "x": "2018년 Jim Demonakos와 Bobby Chiu가 세운 LightBox Expo가 10월 23~25일 패서디나 컨벤션 센터로 돌아온다. 세션은 200개가 넘는다. 생성형 AI를 허용하지 않는 no-generative-AI 정책은 엄격해서, 패널은 물론 Artist Alley에서 파는 작품에도 적용된다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-            "cap": "애니 어워즈에 참석한 Bobby Chiu와 Jim Demonakos"
+            "x": "제31회 부산국제영화제(BIFF)에서 인공지능(AI)이 바꾸는 영화 제작 환경과 한국영화의 위기, 영화인의 권리 등을 놓고 국내외 영화인들이 머리를 맞댄다."
           },
           {
             "t": "p",
-            "x": "Demonakos에 따르면 엑스포는 전시장과 Artist Alley에서 4년, 어쩌면 5년째 AI 정책을 운영해 왔다. “AI 작품은 누군가에게서 훔친 것이니, 우리는 사실상 해적판으로 본다.” 지난해에는 이 정책을 관람객에게도 내걸었다. “우리는 생성형 AI가 도둑질이며 진짜 예술이 아니라고 생각한다.”"
+            "x": "부산국제영화제 지석영화연구소는 오는 10월 8일부터 11일까지 영상산업센터와 부산시청자미디어센터에서 ‘2026 포럼 비프(Forum BIFF)’를 연다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "AI 기업들이 반발하지 않았느냐는 질문에는 전혀 없었다고 답했다. 아티스트들은 대체로 이 입장을 반겼다고 한다. Chiu는 자신의 LightBox 패널에서 AI 없이도 시간과 인력, 비용을 덜 들이고 작업하는 법을 보여주는 식으로 AI에 맞선다고 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+            "x": "올해 주제는 ‘동시대 영화의 가능성을 말하다’다. 영화산업, AI·창작, 제도·정책, 지역·환경 등 4개 분야에서 8개 세션이 진행된다."
           },
           {
             "t": "p",
-            "x": "Disney, DreamWorks, Paramount, Illumination, Laika 같은 주요 스튜디오도 해마다 인재를 찾으러 다시 온다."
+            "x": "영화제 개막작 ‘낮과 밤은 서로에게’의 김종관 감독과 중국의 지아장커 감독이 기조발제자로 나선다."
+          },
+          {
+            "t": "p",
+            "x": "영화산업 분야에서는 중예산 한국영화가 줄어드는 원인을 짚고 해외 공동제작 가능성을 논의한다. 아시아 애니메이션의 성장과 앞으로의 과제도 다룬다."
+          },
+          {
+            "t": "p",
+            "x": "AI 분야에서는 생성형 AI가 영화 제작에 미치는 영향과 창작자의 역할을 살펴본다. 지아장커 감독이 AI로 만든 단편 ‘지아장커의 댄스’ 등 관련 작품도 상영된다. 민규동 감독 등 국내외 영화인들이 참여한다."
+          },
+          {
+            "t": "p",
+            "x": "영화인의 권리 문제도 논의한다. 공정한 계약과 보상, 저작권 문제를 비롯해 영화제 지원제도의 개선 방향을 짚을 예정이다."
+          },
+          {
+            "t": "p",
+            "x": "지역 분야에서는 부산 영화산업의 지속 방안을 다룬다. 영화계와 행정기관의 협력, 영화 제작 과정에서 탄소 배출을 줄이는 방안 등이 주요 의제다."
+          },
+          {
+            "t": "p",
+            "x": "포럼은 사전 신청 없이 누구나 무료로 참여할 수 있다. 온라인 중계 없이 현장에서만 열린다."
+          },
+          {
+            "t": "p",
+            "x": "제31회 부산국제영화제는 10월 6일부터 15일까지 영화의전당 일대에서 개최된다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "LightBox Expo Holds a Hard\nLine Against Generative AI",
-          "body": "LightBox Expo's founders explain why the concept-art show bans generative AI, which they call theft and not real art.",
-          "mini_headline": "LightBox Expo\nBans Gen AI",
+        "ko": {
+          "headline": "부산영화제 포럼 비프\nAI 시대 영화 논의",
+          "body": "부산국제영화제 포럼 비프가 10월 8일부터 AI 시대 영화 제작을 논의한다.",
+          "mini_headline": "포럼 비프 AI 영화 논의",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+                "cap": "제31회 부산국제영화제 ‘2026 포럼 비프(Forum BIFF)’ 공식 포스터. / 사진=부산국제영화제 제공"
               },
               {
                 "t": "p",
-                "x": "LightBox Expo, founded in 2018 by Jim Demonakos and Bobby Chiu, returns to the Pasadena Convention Center October 23–25 with more than 200 sessions. Its strict no-generative-AI policy applies not only to panels but also to work sold in Artist Alley."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-                "cap": "Bobby Chiu, Jim Demonakos at the Annie Awards"
+                "x": "제31회 부산국제영화제(BIFF)에서 인공지능(AI)이 바꾸는 영화 제작 환경과 한국영화의 위기, 영화인의 권리 등을 놓고 국내외 영화인들이 머리를 맞댄다."
               },
               {
                 "t": "p",
-                "x": "Demonakos said the expo has had an AI policy on its exhibit floor and in Artist Alley for four, possibly five, years: “We essentially consider AI work bootleg because you’ve stolen it from someone.” Last year it became attendee-facing. “We think generative AI is theft and it’s not real art.”"
+                "x": "부산국제영화제 지석영화연구소는 오는 10월 8일부터 11일까지 영상산업센터와 부산시청자미디어센터에서 ‘2026 포럼 비프(Forum BIFF)’를 연다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Asked about pushback from AI companies, he said there has been none, and artists have generally lauded the stance. Chiu said his own LightBox panel pushes back against AI by showing how to work with less time, fewer people and less money without using any AI."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+                "x": "올해 주제는 ‘동시대 영화의 가능성을 말하다’다. 영화산업, AI·창작, 제도·정책, 지역·환경 등 4개 분야에서 8개 세션이 진행된다."
               },
               {
                 "t": "p",
-                "x": "Major studios including Disney, DreamWorks, Paramount, Illumination and Laika return year after year to recruit."
+                "x": "영화제 개막작 ‘낮과 밤은 서로에게’의 김종관 감독과 중국의 지아장커 감독이 기조발제자로 나선다."
+              },
+              {
+                "t": "p",
+                "x": "영화산업 분야에서는 중예산 한국영화가 줄어드는 원인을 짚고 해외 공동제작 가능성을 논의한다. 아시아 애니메이션의 성장과 앞으로의 과제도 다룬다."
+              },
+              {
+                "t": "p",
+                "x": "AI 분야에서는 생성형 AI가 영화 제작에 미치는 영향과 창작자의 역할을 살펴본다. 지아장커 감독이 AI로 만든 단편 ‘지아장커의 댄스’ 등 관련 작품도 상영된다. 민규동 감독 등 국내외 영화인들이 참여한다."
+              },
+              {
+                "t": "p",
+                "x": "영화인의 권리 문제도 논의한다. 공정한 계약과 보상, 저작권 문제를 비롯해 영화제 지원제도의 개선 방향을 짚을 예정이다."
+              },
+              {
+                "t": "p",
+                "x": "지역 분야에서는 부산 영화산업의 지속 방안을 다룬다. 영화계와 행정기관의 협력, 영화 제작 과정에서 탄소 배출을 줄이는 방안 등이 주요 의제다."
+              },
+              {
+                "t": "p",
+                "x": "포럼은 사전 신청 없이 누구나 무료로 참여할 수 있다. 온라인 중계 없이 현장에서만 열린다."
+              },
+              {
+                "t": "p",
+                "x": "제31회 부산국제영화제는 10월 6일부터 15일까지 영화의전당 일대에서 개최된다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "LightBox Expo\n생성형 AI에 강경 노선",
-          "body": "LightBox Expo 창립자들은 생성형 AI를 도둑질로 보고 금지한다고 했다.",
-          "mini_headline": "LightBox Expo, 생성형 AI 금지",
+        "en": {
+          "headline": "Busan festival's Forum BIFF\ntakes on film in the AI era",
+          "body": "Busan International Film Festival's Forum BIFF will discuss filmmaking in the AI era from October 8.",
+          "mini_headline": "Forum BIFF to discuss AI and film",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+                "cap": "Official poster for ‘2026 Forum BIFF’ at the 31st Busan International Film Festival. / Photo courtesy of Busan International Film Festival"
               },
               {
                 "t": "p",
-                "x": "2018년 Jim Demonakos와 Bobby Chiu가 세운 LightBox Expo가 10월 23~25일 패서디나 컨벤션 센터로 돌아온다. 세션은 200개가 넘는다. 생성형 AI를 허용하지 않는 no-generative-AI 정책은 엄격해서, 패널은 물론 Artist Alley에서 파는 작품에도 적용된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-                "cap": "애니 어워즈에 참석한 Bobby Chiu와 Jim Demonakos"
+                "x": "At the 31st Busan International Film Festival (BIFF), filmmakers from Korea and abroad will come together to discuss how artificial intelligence (AI) is changing the filmmaking environment, the crisis in Korean cinema, and the rights of film workers."
               },
               {
                 "t": "p",
-                "x": "Demonakos에 따르면 엑스포는 전시장과 Artist Alley에서 4년, 어쩌면 5년째 AI 정책을 운영해 왔다. “AI 작품은 누군가에게서 훔친 것이니, 우리는 사실상 해적판으로 본다.” 지난해에는 이 정책을 관람객에게도 내걸었다. “우리는 생성형 AI가 도둑질이며 진짜 예술이 아니라고 생각한다.”"
+                "x": "The festival's Jiseok Film Institute said it will hold ‘2026 Forum BIFF’ from October 8 to 11 at the Film and Video Industry Center and the Busan Viewers Media Center."
               },
               {
                 "t": "p",
-                "x": "AI 기업들이 반발하지 않았느냐는 질문에는 전혀 없었다고 답했다. 아티스트들은 대체로 이 입장을 반겼다고 한다. Chiu는 자신의 LightBox 패널에서 AI 없이도 시간과 인력, 비용을 덜 들이고 작업하는 법을 보여주는 식으로 AI에 맞선다고 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+                "x": "This year's theme is ‘Talking About the Possibilities of Contemporary Cinema.’ A total of 8 sessions will run across 4 areas: the film industry, AI and creation, systems and policy, and regions and environment."
               },
               {
                 "t": "p",
-                "x": "Disney, DreamWorks, Paramount, Illumination, Laika 같은 주요 스튜디오도 해마다 인재를 찾으러 다시 온다."
+                "x": "Director Kim Jong-kwan, whose ‘Days and Nights to Each Other’ opens the festival, and Chinese director Jia Zhangke will give the keynote presentations."
+              },
+              {
+                "t": "p",
+                "x": "The film industry sessions will look at why mid-budget Korean films are declining and discuss the potential for international co-productions. They will also cover the growth of Asian animation and the challenges ahead."
+              },
+              {
+                "t": "p",
+                "x": "The AI sessions will examine the impact of generative AI on filmmaking and the role of creators. Related works will also be screened, including ‘Jia Zhangke's Dance,’ a short Jia Zhangke made with AI. Filmmakers from Korea and abroad, including director Min Kyu-dong, will take part."
+              },
+              {
+                "t": "p",
+                "x": "The rights of film workers will also be on the table. Sessions will cover fair contracts, compensation and copyright, as well as ways to improve festival support programs."
+              },
+              {
+                "t": "p",
+                "x": "The regional sessions will address how to sustain Busan's film industry. Key agenda items include cooperation between the film community and government bodies, and ways to cut carbon emissions during film production."
+              },
+              {
+                "t": "p",
+                "x": "The forum is free and open to all, with no advance registration. It will be held in person only, with no online streaming."
+              },
+              {
+                "t": "p",
+                "x": "The 31st Busan International Film Festival runs from October 6 to 15 around the Busan Cinema Center."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LightBox Expo\n生成AIに強硬姿勢",
-          "body": "LightBox Expoの創設者が生成AIを盗みとみなし禁止する理由を語った。",
-          "mini_headline": "LightBox Expoが生成AIを禁止",
+          "headline": "釜山のForum BIFF\nAI時代の映画を議論",
+          "body": "釜山国際映画祭のForum BIFFが10月8日から、AI時代の映画制作を議論する。",
+          "mini_headline": "Forum BIFF、AIと映画を議論",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+                "cap": "第31回釜山国際映画祭「2026 Forum BIFF(フォーラム・ビフ)」公式ポスター。/ 写真=釜山国際映画祭提供"
               },
               {
                 "t": "p",
-                "x": "2018年にJim DemonakosとBobby Chiuが創設したLightBox Expoが、10月23〜25日にパサデナ・コンベンション・センターで200以上のセッションとともに開催される。厳格なno-generative-AI（生成AI禁止）ポリシーは、パネルだけでなくArtist Alleyで販売される作品にも適用される。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-                "cap": "アニー賞でのBobby ChiuとJim Demonakos"
+                "x": "第31回釜山国際映画祭(BIFF)で、人工知能(AI)が変える映画制作の環境や韓国映画の危機、映画人の権利などをめぐり、国内外の映画人が議論を交わす。"
               },
               {
                 "t": "p",
-                "x": "Demonakosによれば、同エキスポは展示フロアとArtist Alleyで4年、ひょっとすると5年前からAIポリシーを設けている。「AI作品は誰かから盗んだものなので、基本的に海賊版と見なしている」。昨年からはこの方針を来場者向けにも打ち出した。「生成AIは盗みであり、本物の芸術ではないと考えている」"
+                "x": "釜山国際映画祭のジソク映画研究所は、10月8日から11日まで映像産業センターと釜山市視聴者メディアセンターで「2026 Forum BIFF」を開催すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "AI企業からの反発について問われると、彼はまったくないと答え、アーティストからはおおむね称賛されているという。Chiuは自身のLightBoxパネルで、AIを一切使わずに、より少ない時間、人数、予算で仕事をする方法を示すことでAIに対抗していると語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+                "x": "今年のテーマは「同時代映画の可能性を語る」だ。映画産業、AI・創作、制度・政策、地域・環境の4分野で8つのセッションが行われる。"
               },
               {
                 "t": "p",
-                "x": "Disney、DreamWorks、Paramount、Illumination、Laikaなどの大手スタジオが、毎年のように人材採用に訪れている。"
+                "x": "映画祭の開幕作『昼と夜は互いに』のキム・ジョングァン監督と、中国のジャ・ジャンクー監督が基調発表を務める。"
+              },
+              {
+                "t": "p",
+                "x": "映画産業分野では、中予算の韓国映画が減っている原因を探り、海外との共同制作の可能性を議論する。アジアのアニメーションの成長と今後の課題も取り上げる。"
+              },
+              {
+                "t": "p",
+                "x": "AI分野では、生成AIが映画制作に与える影響とクリエイターの役割を考える。ジャ・ジャンクー監督がAIで制作した短編『ジャ・ジャンクーのダンス』など関連作品も上映される。ミン・ギュドン監督ら国内外の映画人が参加する。"
+              },
+              {
+                "t": "p",
+                "x": "映画人の権利の問題も議論する。公正な契約と報酬、著作権の問題をはじめ、映画祭の支援制度の改善の方向性を探る予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "地域分野では、釜山の映画産業を持続させる方策を扱う。映画界と行政機関の協力、映画制作の過程で炭素排出を減らす方策などが主な議題だ。"
+              },
+              {
+                "t": "p",
+                "x": "フォーラムは事前申し込み不要で、誰でも無料で参加できる。オンライン中継はなく、会場のみで開かれる。"
+              },
+              {
+                "t": "p",
+                "x": "第31回釜山国際映画祭は10月6日から15日まで、映画の殿堂一帯で開催される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LightBox Expo\n对生成式AI立场强硬",
-          "body": "LightBox Expo创办人解释为何禁用生成式AI：他们认为那是盗窃，并非真正的艺术。",
-          "mini_headline": "LightBox Expo禁用生成式AI",
+          "headline": "釜山Forum BIFF\n探讨AI时代电影",
+          "body": "釜山国际电影节Forum BIFF将于10月8日起探讨AI时代的电影制作。",
+          "mini_headline": "Forum BIFF探讨AI与电影",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+                "cap": "第31届釜山国际电影节“2026 Forum BIFF”官方海报。/ 图片由釜山国际电影节提供"
               },
               {
                 "t": "p",
-                "x": "LightBox Expo由Jim Demonakos和Bobby Chiu于2018年创办，将于10月23日至25日重返帕萨迪纳会议中心，带来200多场活动。其严格的no-generative-AI（禁止生成式AI）政策不仅适用于座谈，也适用于Artist Alley出售的作品。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-                "cap": "Bobby Chiu与Jim Demonakos在安妮奖现场"
+                "x": "第31届釜山国际电影节（BIFF）上，国内外电影人将围绕人工智能（AI）带来的电影制作环境变化、韩国电影的危机以及电影人权益等议题展开讨论。"
               },
               {
                 "t": "p",
-                "x": "Demonakos表示，展会在展区和Artist Alley实行AI政策已有四年，也可能是五年：“我们基本上把AI作品视为盗版，因为那是从别人那里偷来的。”去年，这项政策开始面向观众。“我们认为生成式AI就是盗窃，它不是真正的艺术。”"
+                "x": "釜山国际电影节智硕电影研究所宣布，将于10月8日至11日在影像产业中心和釜山市观众媒体中心举办“2026 Forum BIFF”。"
               },
               {
                 "t": "p",
-                "x": "被问及是否遭到AI公司反对时，他说一次也没有，艺术家们则普遍称赞这一立场。Chiu说，他自己的LightBox座谈通过展示如何在完全不用AI的情况下，以更少的时间、人手和资金完成工作，来对抗AI。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+                "x": "今年的主题是“谈论当代电影的可能性”。论坛将在电影产业、AI·创作、制度·政策、地区·环境4个领域举行8场会议。"
               },
               {
                 "t": "p",
-                "x": "Disney、DreamWorks、Paramount、Illumination和Laika等大型工作室年年回到这里招揽人才。"
+                "x": "本届电影节开幕片《昼与夜互为彼此》的导演金宗宽和中国导演贾樟柯将担任主旨发言人。"
+              },
+              {
+                "t": "p",
+                "x": "电影产业领域将剖析韩国中等预算电影减少的原因，探讨海外合拍的可能性，并讨论亚洲动画的发展与未来课题。"
+              },
+              {
+                "t": "p",
+                "x": "AI领域将探讨生成式AI对电影制作的影响以及创作者的角色。贾樟柯用AI制作的短片《贾樟柯的舞蹈》等相关作品也将放映。闵奎东导演等国内外电影人将参与其中。"
+              },
+              {
+                "t": "p",
+                "x": "论坛还将讨论电影人的权益问题，包括公平的合同与报酬、版权问题，以及电影节资助制度的改进方向。"
+              },
+              {
+                "t": "p",
+                "x": "地区领域将探讨釜山电影产业的可持续发展方案。电影界与行政机关的合作、在电影制作过程中减少碳排放的方法等是主要议题。"
+              },
+              {
+                "t": "p",
+                "x": "论坛无需提前报名，任何人均可免费参加。不设线上直播，仅在现场举行。"
+              },
+              {
+                "t": "p",
+                "x": "第31届釜山国际电影节将于10月6日至15日在电影殿堂一带举行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "LightBox Expo mantiene una\nlínea dura ante la IA generativa",
-          "body": "Los fundadores de LightBox Expo explican por qué vetan la IA generativa: la consideran robo, no arte real.",
-          "mini_headline": "LightBox Expo veta la IA generativa",
+          "headline": "El Forum BIFF de Busan debate\nel cine en la era de la AI",
+          "body": "El Forum BIFF del Festival Internacional de Cine de Busan debatirá desde el 8 de octubre el cine en la era de la AI.",
+          "mini_headline": "Forum BIFF debate la AI y el cine",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+                "cap": "Póster oficial del ‘2026 Forum BIFF’ del 31.º Festival Internacional de Cine de Busan. / Foto: cortesía del Festival Internacional de Cine de Busan"
               },
               {
                 "t": "p",
-                "x": "LightBox Expo, fundada en 2018 por Jim Demonakos y Bobby Chiu, vuelve al Pasadena Convention Center del 23 al 25 de octubre con más de 200 sesiones. Su estricta política no-generative-AI (sin IA generativa) se aplica no solo a los paneles, sino también a las obras que se venden en Artist Alley."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-                "cap": "Bobby Chiu y Jim Demonakos en los Annie Awards"
+                "x": "En el 31.º Festival Internacional de Cine de Busan (BIFF), cineastas de Corea y del extranjero debatirán sobre cómo la inteligencia artificial (AI) está cambiando el entorno de la producción cinematográfica, la crisis del cine coreano y los derechos de los profesionales del cine."
               },
               {
                 "t": "p",
-                "x": "Demonakos explicó que la exposición lleva cuatro, quizá cinco, años con una política sobre IA en su zona de exhibición y en Artist Alley: «En esencia, consideramos que la obra hecha con IA es pirata, porque se la has robado a alguien». El año pasado la política pasó a aplicarse también de cara a los asistentes. «Creemos que la IA generativa es un robo y que no es arte de verdad»."
+                "x": "El Instituto de Cine Jiseok del festival anunció que celebrará el ‘2026 Forum BIFF’ del 8 al 11 de octubre en el Centro de la Industria Audiovisual y en el Centro de Medios para Espectadores de Busan."
               },
               {
                 "t": "p",
-                "x": "Preguntado por posibles reacciones en contra de empresas de IA, dijo que no ha habido ninguna y que los artistas, en general, han elogiado la postura. Chiu contó que su propio panel en LightBox planta cara a la IA al mostrar cómo trabajar con menos tiempo, menos personas y menos dinero sin usar IA en absoluto."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+                "x": "El tema de este año es ‘Hablar de las posibilidades del cine contemporáneo’. Habrá 8 sesiones en 4 áreas: industria cinematográfica, AI y creación, instituciones y políticas, y región y medio ambiente."
               },
               {
                 "t": "p",
-                "x": "Grandes estudios como Disney, DreamWorks, Paramount, Illumination y Laika vuelven año tras año para reclutar talento."
+                "x": "Kim Jong-kwan, director de la película inaugural del festival, ‘El día y la noche, el uno para el otro’, y el director chino Jia Zhangke darán las ponencias principales."
+              },
+              {
+                "t": "p",
+                "x": "En el área de industria se analizarán las causas de la disminución de las películas coreanas de presupuesto medio y se debatirán las posibilidades de coproducción internacional. También se abordarán el crecimiento de la animación asiática y sus retos futuros."
+              },
+              {
+                "t": "p",
+                "x": "El área de AI examinará el impacto de la AI generativa en la producción cinematográfica y el papel de los creadores. También se proyectarán obras relacionadas, como el cortometraje ‘La danza de Jia Zhangke’, que Jia Zhangke hizo con AI. Participarán cineastas de Corea y del extranjero, entre ellos el director Min Kyu-dong."
+              },
+              {
+                "t": "p",
+                "x": "También se debatirán los derechos de los profesionales del cine: contratos y remuneraciones justas, derechos de autor y la mejora de los sistemas de apoyo a los festivales."
+              },
+              {
+                "t": "p",
+                "x": "El área regional tratará cómo sostener la industria cinematográfica de Busan. Entre los temas principales figuran la cooperación entre el sector del cine y las administraciones, y las formas de reducir las emisiones de carbono durante la producción de películas."
+              },
+              {
+                "t": "p",
+                "x": "El foro es gratuito y abierto a todo el público, sin inscripción previa. Se celebrará solo de forma presencial, sin retransmisión en línea."
+              },
+              {
+                "t": "p",
+                "x": "El 31.º Festival Internacional de Cine de Busan se celebra del 6 al 15 de octubre en los alrededores del Busan Cinema Center."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "LightBox Expo\n생성형 AI에 강경 노선",
-          "body": "LightBox Expo 창립자들은 생성형 AI를 도둑질로 보고 금지한다고 했다.",
-          "mini_headline": "LightBox Expo, 생성형 AI 금지",
+        "en": {
+          "headline": "Busan festival's Forum BIFF\ntakes on film in the AI era",
+          "body": "Busan International Film Festival's Forum BIFF will discuss filmmaking in the AI era from October 8.",
+          "mini_headline": "Forum BIFF to discuss AI and film",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+                "cap": "Official poster for ‘2026 Forum BIFF’ at the 31st Busan International Film Festival. / Photo courtesy of Busan International Film Festival"
               },
               {
                 "t": "p",
-                "x": "2018년 Jim Demonakos와 Bobby Chiu가 세운 LightBox Expo가 10월 23~25일 패서디나 컨벤션 센터에서 200개가 넘는 세션과 함께 돌아온다. 생성형 AI를 허용하지 않는 엄격한 no-generative-AI 정책은 패널뿐 아니라 Artist Alley에서 판매되는 작품에도 적용된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-                "cap": "애니 어워즈에 참석한 Bobby Chiu와 Jim Demonakos"
+                "x": "At the 31st Busan International Film Festival (BIFF), filmmakers from Korea and abroad will come together to discuss how artificial intelligence (AI) is changing the filmmaking environment, the crisis in Korean cinema, and the rights of film workers."
               },
               {
                 "t": "p",
-                "x": "Demonakos는 엑스포가 전시장과 Artist Alley에서 4년, 어쩌면 5년째 AI 정책을 운영해 왔다고 말했다. “AI 작품은 누군가에게서 훔친 것이니, 우리는 사실상 해적판으로 본다.” 지난해에는 이 정책을 관람객에게도 내걸었다. “우리는 생성형 AI가 도둑질이며 진짜 예술이 아니라고 생각한다.”"
+                "x": "The festival's Jiseok Film Institute said it will hold ‘2026 Forum BIFF’ from October 8 to 11 at the Film and Video Industry Center and the Busan Viewers Media Center."
               },
               {
                 "t": "p",
-                "x": "AI 기업들의 반발이 있었느냐는 질문에 그는 전혀 없었다고 답했고, 아티스트들은 대체로 이 입장을 높이 평가했다고 전했다. Chiu는 자신의 LightBox 패널에서 AI를 전혀 쓰지 않고도 더 적은 시간과 인력, 비용으로 작업하는 법을 보여주며 AI에 맞선다고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+                "x": "This year's theme is ‘Talking About the Possibilities of Contemporary Cinema.’ A total of 8 sessions will run across 4 areas: the film industry, AI and creation, systems and policy, and regions and environment."
               },
               {
                 "t": "p",
-                "x": "Disney, DreamWorks, Paramount, Illumination, Laika 등 주요 스튜디오가 해마다 인재를 찾으러 다시 참가한다."
+                "x": "Director Kim Jong-kwan, whose ‘Days and Nights to Each Other’ opens the festival, and Chinese director Jia Zhangke will give the keynote presentations."
+              },
+              {
+                "t": "p",
+                "x": "The film industry sessions will look at why mid-budget Korean films are declining and discuss the potential for international co-productions. They will also cover the growth of Asian animation and the challenges ahead."
+              },
+              {
+                "t": "p",
+                "x": "The AI sessions will examine the impact of generative AI on filmmaking and the role of creators. Related works will also be screened, including ‘Jia Zhangke's Dance,’ a short Jia Zhangke made with AI. Filmmakers from Korea and abroad, including director Min Kyu-dong, will take part."
+              },
+              {
+                "t": "p",
+                "x": "The rights of film workers will also be on the table. Sessions will cover fair contracts, compensation and copyright, as well as ways to improve festival support programs."
+              },
+              {
+                "t": "p",
+                "x": "The regional sessions will address how to sustain Busan's film industry. Key agenda items include cooperation between the film community and government bodies, and ways to cut carbon emissions during film production."
+              },
+              {
+                "t": "p",
+                "x": "The forum is free and open to all, with no advance registration. It will be held in person only, with no online streaming."
+              },
+              {
+                "t": "p",
+                "x": "The 31st Busan International Film Festival runs from October 6 to 15 around the Busan Cinema Center."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LightBox Expo\n生成AIに強硬姿勢",
-          "body": "LightBox Expoの創設者が生成AIを盗みとみなし禁止する理由を語った。",
-          "mini_headline": "LightBox Expoが生成AIを禁止",
+          "headline": "釜山のForum BIFF\nAI時代の映画を議論",
+          "body": "釜山国際映画祭のForum BIFFが10月8日から、AI時代の映画制作を議論する。",
+          "mini_headline": "Forum BIFF、AIと映画を議論",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+                "cap": "第31回釜山国際映画祭「2026 Forum BIFF(フォーラム・ビフ)」公式ポスター。/ 写真=釜山国際映画祭提供"
               },
               {
                 "t": "p",
-                "x": "2018年にJim DemonakosとBobby Chiuが創設したLightBox Expoが、10月23〜25日にパサデナ・コンベンション・センターで200以上のセッションとともに開催される。厳格なno-generative-AI（生成AI禁止）ポリシーは、パネルだけでなくArtist Alleyで販売される作品にも適用される。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-                "cap": "アニー賞でのBobby ChiuとJim Demonakos"
+                "x": "第31回釜山国際映画祭(BIFF)で、人工知能(AI)が変える映画制作の環境や韓国映画の危機、映画人の権利などをめぐり、国内外の映画人が議論を交わす。"
               },
               {
                 "t": "p",
-                "x": "Demonakosによれば、同エキスポは展示フロアとArtist Alleyで4年、ひょっとすると5年前からAIポリシーを設けている。「AI作品は誰かから盗んだものなので、基本的に海賊版と見なしている」。昨年からはこの方針を来場者向けにも打ち出した。「生成AIは盗みであり、本物の芸術ではないと考えている」"
+                "x": "釜山国際映画祭のジソク映画研究所は、10月8日から11日まで映像産業センターと釜山市視聴者メディアセンターで「2026 Forum BIFF」を開催すると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "AI企業からの反発について問われると、彼はまったくないと答え、アーティストからはおおむね称賛されているという。Chiuは自身のLightBoxパネルで、AIを一切使わずに、より少ない時間、人数、予算で仕事をする方法を示すことでAIに対抗していると語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+                "x": "今年のテーマは「同時代映画の可能性を語る」だ。映画産業、AI・創作、制度・政策、地域・環境の4分野で8つのセッションが行われる。"
               },
               {
                 "t": "p",
-                "x": "Disney、DreamWorks、Paramount、Illumination、Laikaなどの大手スタジオが、毎年のように人材採用に訪れている。"
+                "x": "映画祭の開幕作『昼と夜は互いに』のキム・ジョングァン監督と、中国のジャ・ジャンクー監督が基調発表を務める。"
+              },
+              {
+                "t": "p",
+                "x": "映画産業分野では、中予算の韓国映画が減っている原因を探り、海外との共同制作の可能性を議論する。アジアのアニメーションの成長と今後の課題も取り上げる。"
+              },
+              {
+                "t": "p",
+                "x": "AI分野では、生成AIが映画制作に与える影響とクリエイターの役割を考える。ジャ・ジャンクー監督がAIで制作した短編『ジャ・ジャンクーのダンス』など関連作品も上映される。ミン・ギュドン監督ら国内外の映画人が参加する。"
+              },
+              {
+                "t": "p",
+                "x": "映画人の権利の問題も議論する。公正な契約と報酬、著作権の問題をはじめ、映画祭の支援制度の改善の方向性を探る予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "地域分野では、釜山の映画産業を持続させる方策を扱う。映画界と行政機関の協力、映画制作の過程で炭素排出を減らす方策などが主な議題だ。"
+              },
+              {
+                "t": "p",
+                "x": "フォーラムは事前申し込み不要で、誰でも無料で参加できる。オンライン中継はなく、会場のみで開かれる。"
+              },
+              {
+                "t": "p",
+                "x": "第31回釜山国際映画祭は10月6日から15日まで、映画の殿堂一帯で開催される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LightBox Expo\n对生成式AI立场强硬",
-          "body": "LightBox Expo创办人解释为何禁用生成式AI：他们认为那是盗窃，并非真正的艺术。",
-          "mini_headline": "LightBox Expo禁用生成式AI",
+          "headline": "釜山Forum BIFF\n探讨AI时代电影",
+          "body": "釜山国际电影节Forum BIFF将于10月8日起探讨AI时代的电影制作。",
+          "mini_headline": "Forum BIFF探讨AI与电影",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+                "cap": "第31届釜山国际电影节“2026 Forum BIFF”官方海报。/ 图片由釜山国际电影节提供"
               },
               {
                 "t": "p",
-                "x": "LightBox Expo由Jim Demonakos和Bobby Chiu于2018年创办，将于10月23日至25日重返帕萨迪纳会议中心，带来200多场活动。其严格的no-generative-AI（禁止生成式AI）政策不仅适用于座谈，也适用于Artist Alley出售的作品。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-                "cap": "Bobby Chiu与Jim Demonakos在安妮奖现场"
+                "x": "第31届釜山国际电影节（BIFF）上，国内外电影人将围绕人工智能（AI）带来的电影制作环境变化、韩国电影的危机以及电影人权益等议题展开讨论。"
               },
               {
                 "t": "p",
-                "x": "Demonakos表示，展会在展区和Artist Alley实行AI政策已有四年，也可能是五年：“我们基本上把AI作品视为盗版，因为那是从别人那里偷来的。”去年，这项政策开始面向观众。“我们认为生成式AI就是盗窃，它不是真正的艺术。”"
+                "x": "釜山国际电影节智硕电影研究所宣布，将于10月8日至11日在影像产业中心和釜山市观众媒体中心举办“2026 Forum BIFF”。"
               },
               {
                 "t": "p",
-                "x": "被问及是否遭到AI公司反对时，他说一次也没有，艺术家们则普遍称赞这一立场。Chiu说，他自己的LightBox座谈通过展示如何在完全不用AI的情况下，以更少的时间、人手和资金完成工作，来对抗AI。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+                "x": "今年的主题是“谈论当代电影的可能性”。论坛将在电影产业、AI·创作、制度·政策、地区·环境4个领域举行8场会议。"
               },
               {
                 "t": "p",
-                "x": "Disney、DreamWorks、Paramount、Illumination和Laika等大型工作室年年回到这里招揽人才。"
+                "x": "本届电影节开幕片《昼与夜互为彼此》的导演金宗宽和中国导演贾樟柯将担任主旨发言人。"
+              },
+              {
+                "t": "p",
+                "x": "电影产业领域将剖析韩国中等预算电影减少的原因，探讨海外合拍的可能性，并讨论亚洲动画的发展与未来课题。"
+              },
+              {
+                "t": "p",
+                "x": "AI领域将探讨生成式AI对电影制作的影响以及创作者的角色。贾樟柯用AI制作的短片《贾樟柯的舞蹈》等相关作品也将放映。闵奎东导演等国内外电影人将参与其中。"
+              },
+              {
+                "t": "p",
+                "x": "论坛还将讨论电影人的权益问题，包括公平的合同与报酬、版权问题，以及电影节资助制度的改进方向。"
+              },
+              {
+                "t": "p",
+                "x": "地区领域将探讨釜山电影产业的可持续发展方案。电影界与行政机关的合作、在电影制作过程中减少碳排放的方法等是主要议题。"
+              },
+              {
+                "t": "p",
+                "x": "论坛无需提前报名，任何人均可免费参加。不设线上直播，仅在现场举行。"
+              },
+              {
+                "t": "p",
+                "x": "第31届釜山国际电影节将于10月6日至15日在电影殿堂一带举行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "LightBox Expo mantiene una\nlínea dura ante la IA generativa",
-          "body": "Los fundadores de LightBox Expo explican por qué vetan la IA generativa: la consideran robo, no arte real.",
-          "mini_headline": "LightBox Expo veta la IA generativa",
+          "headline": "El Forum BIFF de Busan debate\nel cine en la era de la AI",
+          "body": "El Forum BIFF del Festival Internacional de Cine de Busan debatirá desde el 8 de octubre el cine en la era de la AI.",
+          "mini_headline": "Forum BIFF debate la AI y el cine",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Lightbox-Expo.jpg"
+                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+                "cap": "Póster oficial del ‘2026 Forum BIFF’ del 31.º Festival Internacional de Cine de Busan. / Foto: cortesía del Festival Internacional de Cine de Busan"
               },
               {
                 "t": "p",
-                "x": "LightBox Expo, fundada en 2018 por Jim Demonakos y Bobby Chiu, vuelve al Pasadena Convention Center del 23 al 25 de octubre con más de 200 sesiones. Su estricta política no-generative-AI (sin IA generativa) se aplica no solo a los paneles, sino también a las obras que se venden en Artist Alley."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Bobby-Chiu-Jim-Demonakos-Annie-Awards.jpg",
-                "cap": "Bobby Chiu y Jim Demonakos en los Annie Awards"
+                "x": "En el 31.º Festival Internacional de Cine de Busan (BIFF), cineastas de Corea y del extranjero debatirán sobre cómo la inteligencia artificial (AI) está cambiando el entorno de la producción cinematográfica, la crisis del cine coreano y los derechos de los profesionales del cine."
               },
               {
                 "t": "p",
-                "x": "Demonakos explicó que la exposición lleva cuatro, quizá cinco, años con una política sobre IA en su zona de exhibición y en Artist Alley: «En esencia, consideramos que la obra hecha con IA es pirata, porque se la has robado a alguien». El año pasado la política pasó a aplicarse también de cara a los asistentes. «Creemos que la IA generativa es un robo y que no es arte de verdad»."
+                "x": "El Instituto de Cine Jiseok del festival anunció que celebrará el ‘2026 Forum BIFF’ del 8 al 11 de octubre en el Centro de la Industria Audiovisual y en el Centro de Medios para Espectadores de Busan."
               },
               {
                 "t": "p",
-                "x": "Preguntado por posibles reacciones en contra de empresas de IA, dijo que no ha habido ninguna y que los artistas, en general, han elogiado la postura. Chiu contó que su propio panel en LightBox planta cara a la IA al mostrar cómo trabajar con menos tiempo, menos personas y menos dinero sin usar IA en absoluto."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Disney-Lightbox-scaled.jpg"
+                "x": "El tema de este año es ‘Hablar de las posibilidades del cine contemporáneo’. Habrá 8 sesiones en 4 áreas: industria cinematográfica, AI y creación, instituciones y políticas, y región y medio ambiente."
               },
               {
                 "t": "p",
-                "x": "Grandes estudios como Disney, DreamWorks, Paramount, Illumination y Laika vuelven año tras año para reclutar talento."
+                "x": "Kim Jong-kwan, director de la película inaugural del festival, ‘El día y la noche, el uno para el otro’, y el director chino Jia Zhangke darán las ponencias principales."
+              },
+              {
+                "t": "p",
+                "x": "En el área de industria se analizarán las causas de la disminución de las películas coreanas de presupuesto medio y se debatirán las posibilidades de coproducción internacional. También se abordarán el crecimiento de la animación asiática y sus retos futuros."
+              },
+              {
+                "t": "p",
+                "x": "El área de AI examinará el impacto de la AI generativa en la producción cinematográfica y el papel de los creadores. También se proyectarán obras relacionadas, como el cortometraje ‘La danza de Jia Zhangke’, que Jia Zhangke hizo con AI. Participarán cineastas de Corea y del extranjero, entre ellos el director Min Kyu-dong."
+              },
+              {
+                "t": "p",
+                "x": "También se debatirán los derechos de los profesionales del cine: contratos y remuneraciones justas, derechos de autor y la mejora de los sistemas de apoyo a los festivales."
+              },
+              {
+                "t": "p",
+                "x": "El área regional tratará cómo sostener la industria cinematográfica de Busan. Entre los temas principales figuran la cooperación entre el sector del cine y las administraciones, y las formas de reducir las emisiones de carbono durante la producción de películas."
+              },
+              {
+                "t": "p",
+                "x": "El foro es gratuito y abierto a todo el público, sin inscripción previa. Se celebrará solo de forma presencial, sin retransmisión en línea."
+              },
+              {
+                "t": "p",
+                "x": "El 31.º Festival Internacional de Cine de Busan se celebra del 6 al 15 de octubre en los alrededores del Busan Cinema Center."
               }
             ]
           }

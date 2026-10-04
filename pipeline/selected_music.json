@@ -1,106 +1,83 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "music",
   "items": [
     {
-      "rank": 1,
-      "title": "AI music maker Suno now generates spoken words",
+      "title": "AI 작곡·보컬 노래가 결국 음원차트 1위가 됐다 ①",
+      "url": "https://isplus.com/article/view/isp202610020003",
+      "source": "일간스포츠 (isplus)",
+      "published_iso": "2026-10-03T06:00:00+09:00",
+      "og_image": "https://isplus.com/data/isp/image/2026/10/01/isp20261001000306.800x.0.png",
+      "excerpt": "창작자 머무르의 '꿈꾸던 어른이 되었나요?'는 수노(Suno)로 보컬을 생성하고 기획·작사·프로듀싱은 직접 맡은 곡으로, 멜론 등 음원차트 상위권에 오르며 AI 제작 음원 표기 의무 등 제도 논의를 다시 불러왔다.",
+      "category": "music",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "source": "The Verge",
-      "published_iso": "2026-10-02T09:42:19+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Suno's new Speech beta generates synthetic voiceovers set to AI background music, pushing the music generator into ElevenLabs' spoken-audio territory.",
-      "category": "music",
-      "rationale": "Fresh product launch: Suno Speech (beta) generates voice and music as one track. Independent Verge coverage chosen over the duplicate Suno blog post."
+      "rationale": "A Suno-vocal track topping Korean charts is a concrete milestone and reopens AI-labelling rules in the home market."
     },
     {
-      "rank": 2,
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch",
-      "published_iso": "2026-10-02T21:09:14+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-      "excerpt": "Napster co-founder Sean Parker says Stability AI (maker of Stable Audio) is being repositioned as the go-to AI toolmaker for music professionals, built on catalogs licensed from Sony, Warner and Universal.",
+      "title": "Suno is 'far beyond' 2m subscribers and $300m in revenue, says Mikey Shulman – who argues it's 'good' that AI music has no 'firm rules of the road' yet",
+      "url": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
+      "source": "Music Business Worldwide",
+      "published_iso": "2026-10-02T16:42:55+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg",
+      "excerpt": "Suno CEO Mikey Shulman says the v6-era service has passed 2M subscribers, sets out what WMG and BMG get from their licensing deals, and argues about who should set AI music's rules.",
       "category": "music",
-      "rationale": "Product-strategy shift: Stable Audio maker refocusing on pro music tools built on label-licensed catalogs. This is product direction, not funding noise."
-    },
-    {
-      "rank": 3,
-      "title": "Questlove on the History of Sampling, From Public Enemy to Today: 'I See AI as a Parallel to Sampling Culture'",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
-      "source": "Billboard",
-      "published_iso": "2026-09-30T21:33:07+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024",
-      "excerpt": "On Billboard's On the Record, Questlove traces sampling from Public Enemy to microchopping and generative AI, arguing AI parallels sampling culture while the magic still lives in human imperfection.",
-      "category": "music",
-      "rationale": "High-profile artist perspective that places generative AI in the history of sampling. New voice, distinct from the Kelly Clarkson, Fred again.. and Todd Edwards takes already published."
-    },
-    {
-      "rank": 4,
-      "title": "Lyrics Show How AI Can Grow Music Revenue Without Replacing People",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "url": "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/",
-      "source": "Hypebot",
-      "published_iso": "2026-10-01T11:50:19.000Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg",
-      "excerpt": "AI-assisted lyric transcription, sync and translation can make long-tail songs (9.6M tracks, 13% of 2025 streams) addressable, expanding songwriter royalties while creating more work for human teams.",
-      "category": "music",
-      "rationale": "LyricFind op-ed that puts numbers on the AI lyric workflow (transcription, sync, translation) for the long tail. A different angle from the Musixmatch CEO interview."
-    },
-    {
-      "rank": 5,
-      "title": "Making \"Take Me Back\" | Braylon Browner x Nina McNeely",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "url": "https://www.youtube.com/watch?v=1OITvfAN6-g",
-      "source": "Suno (YouTube)",
-      "published_iso": "2026-10-02T10:24:02-07:00",
-      "og_image": "https://i.ytimg.com/vi/1OITvfAN6-g/maxresdefault.jpg",
-      "excerpt": "Suno's behind-the-scenes film with Braylon Browner and Emmy-winning choreographer/director Nina McNeely shows the path from a dance to a Suno v6 song to a full music video built around movement.",
+      "rationale": "First on-record detail of what WMG and BMG get from their Suno licences, plus Suno's scale, from its CEO."
+    },
+    {
+      "title": "How Seoul Institute of the Arts Students Use Suno | In The Cut",
+      "url": "https://www.youtube.com/watch?v=F0vEAbzFLzk",
+      "source": "Suno Music (YouTube)",
+      "published_iso": "2026-10-03T18:45:39+00:00",
+      "og_image": "https://i.ytimg.com/vi/F0vEAbzFLzk/maxresdefault.jpg",
+      "excerpt": "Suno visits Seoul Institute of the Arts in South Korea to show how music students use Suno to sketch song ideas, experiment with vocals and harmonies, find chords, and separate stems in Suno Studio before continuing work in their existing DAW workflows.",
       "category": "music",
-      "rationale": "Creator workflow case study that goes from dance to a Suno v6 song to a music video. Video asset available; distinct from the Speech launch."
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Practical workflow footage: Korean music students using Suno Studio for sketching and stems before moving into their DAW."
+    },
+    {
+      "title": "Feds Want Nearly 4 Years in Prison for AI Music Fraudster Who 'Stole Millions'",
+      "url": "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/",
+      "source": "Rolling Stone",
+      "published_iso": "2026-09-30T00:33:00+00:00",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1",
+      "excerpt": "Prosecutors want convicted AI music fraudster Michael Smith, who used AI-generated songs and bot streams to collect about $8M in royalties, to get nearly four years in prison; he is asking for probation.",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Government's own sentencing ask in the first AI-generated-song streaming-fraud prosecution; AI songs are central to the scheme."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability": {
+      "https://isplus.com/article/view/isp202610020003": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
+        "nearest": "https://www.fnnews.com/news/202609270056206684",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/": {
+      "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.billboard.com/pro/suno-ai-music-deals-labels-artist-reps-react/",
+        "new_action": "Suno CEO publicly discloses subscriber/revenue scale (>2M subs, >$300M) and the terms WMG and BMG receive under their v6 licences; this is new information, not the original deal announcement."
+      },
+      "https://www.youtube.com/watch?v=F0vEAbzFLzk": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.youtube.com/watch?v=JYs3lzKOruI",
         "new_action": ""
       },
-      "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/": {
-        "verdict": "new",
-        "nearest": "https://www.musicradar.com/artists/i-resent-the-way-people-talk-about-this-technology-as-if-its-from-the-devil-the-hypocrisy-in-the-industry-is-insane-house-legend-todd-edwards-on-how-ai-has-transformed-his-approach-to-sampling",
-        "new_action": ""
-      },
-      "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/": {
-        "verdict": "new",
-        "nearest": "https://www.musicbusinessworldwide.com/musixmatch-lyrics-are-becoming-the-llm-of-the-music-industry/",
-        "new_action": ""
-      },
-      "https://www.youtube.com/watch?v=1OITvfAN6-g": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
+      "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.musicbusinessworldwide.com/man-who-pocketed-8m-using-ai-songs-and-bot-streams-asks-for-no-prison-time-arguing-no-artist-suffered-any-perceptible-harm/",
+        "new_action": "New filing: prosecutors' sentencing memo seeking nearly 4 years; the 9/29 card covered only the defence's request for probation."
       }
     },
-    "note": "Dropped: suno.com/blog/introducing-speech-beta (the same Suno Speech launch as the Verge pick; kept The Verge as the independent outlet. Its history_match to the ElevenLabs MCP video is a different product). Dropped: MBW 'Suno confirms V6 model was trained on creations from users' (Sep 22, a running-story follow-up to the 2026-09-22 UMG/Sony second-lawsuit card and the 09-13 YouTube-training admission; Suno's public response is not a new filing or ruling, and it is 11 days old). Dropped: Andrew Huang 'AI scammers are trying to use me' (a Short with no description, unverifiable content, thin). Diversity: 5 distinct outlets (The Verge, TechCrunch, Billboard, Hypebot, Suno YouTube). No cross-section clash found with the flagged items (PS5 QSSR, Thomson Reuters v. ROSS, AWN Tripo)."
+    "note": "Dropped as duplicate: MusicTech 'death of Suno' Reddit v6 backlash. It is the same story as the musicradar card of 2026-09-18 (users slam v6), and labels' 'poisoned tree' line repeats the 2026-09-22 MBW second-lawsuit card. Dropped on relevance: DMN Spotify editorial playlist decline. AI slop is only one factor among fake-account crackdowns, so the story stands without the AI angle. Also dropped The Verge Splice CEO interview, an opinion/interview piece with no new release or decision. Shipping 4 picks because the pool held 7 and only 4 passed; nothing was added as padding. Outlets: isplus, MBW, Suno YouTube, Rolling Stone (4 distinct)."
   }
 }

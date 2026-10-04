@@ -1,487 +1,239 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "design",
   "cards": [
     {
-      "id": "bfl-flux3-image",
+      "id": "formas-cartesian-agentic-modeller",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Flux 3 Image\n나머지는 두고 편집",
-      "body": "Flux 3 Image는 나머지를 그대로 두고 최대 4K 해상도로 단계별 편집한다.",
-      "mini_headline": "Flux 3 Image, 단계별 편집",
-      "tool": "KeyShot",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-          },
-          {
-            "t": "p",
-            "x": "Black Forest Labs가 Flux 3 모델 제품군에 속한 이미지 모델 Flux 3 Image를 공개했다. BFL에 따르면 이 모델은 이미지의 다른 부분을 건드리지 않고 여러 단계에 걸쳐 편집할 수 있고, 텍스트-이미지, 이미지-이미지, 텍스트 렌더링, 포토리얼리즘을 모두 다룬다. 바운딩 박스로 장면을 구성하고 참조 이미지를 최대 열 장까지 넣을 수 있으며, 결과물은 최대 4K 해상도로 뽑는다. 무료 데모도 있다."
-          },
-          {
-            "t": "video",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-          },
-          {
-            "t": "p",
-            "x": "API 이용료는 10월 8일까지 50% 할인된다. 기업은 상업용 가중치 라이선스를 받아 자체 인프라에서 모델을 돌리고 파인튜닝할 수 있다. 오픈 웨이트 버전은 몇 주 안에 나올 예정이다. 출시 직전에는 Ideogram도 편집에 초점을 맞춘 자체 모델 4.5 버전을 내놨는데, 이 모델 역시 곧 오픈 웨이트로 공개될 예정이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Flux 3 Image edits in steps\nand leaves the rest alone",
-          "body": "Black Forest Labs says Flux 3 Image makes multi-step edits without touching the rest of a picture, at up to 4K.",
-          "mini_headline": "Flux 3 Image edits in steps",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-              },
-              {
-                "t": "p",
-                "x": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. The model supports multi-step edits without changing other parts of the image, BFL claims, and covers text-to-image, image-to-image, text rendering, and photorealism. Users can compose scenes with bounding boxes, include up to ten reference images, and output up to 4K. A free demo is available."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-              },
-              {
-                "t": "p",
-                "x": "API access is 50 percent off through October 8. Companies can license commercial weights to run and fine-tune the model on their own infrastructure. An open-weight version is expected in the coming weeks. Shortly before the launch, Ideogram announced its own editing-focused model with version 4.5, which is also set to ship as open weights soon."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Flux 3 Image\n分步编辑，其余不动",
-          "body": "Black Forest Labs称Flux 3 Image可分步局部编辑，最高4K。",
-          "mini_headline": "Flux 3 Image分步编辑",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-              },
-              {
-                "t": "p",
-                "x": "Black Forest Labs发布了Flux 3 Image，即其Flux 3模型家族中的图像模型。BFL称，该模型支持多步编辑且不改变图像其他部分，覆盖文生图、图生图、文字渲染和照片级写实。用户可用边界框构图，最多加入10张参考图，并以最高4K输出。目前提供免费演示。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-              },
-              {
-                "t": "p",
-                "x": "API调用在10月8日前优惠50%。企业可获得商用权重授权，在自有基础设施上运行和微调模型。开放权重版本预计在未来几周推出。就在发布前不久，Ideogram推出了专注编辑的4.5版本模型，同样将很快以开放权重形式发布。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Flux 3 Image edita por pasos\ny deja intacto el resto",
-          "body": "Black Forest Labs afirma que Flux 3 Image hace ediciones en varios pasos sin tocar el resto de la imagen, hasta 4K.",
-          "mini_headline": "Flux 3 Image edita por pasos",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-              },
-              {
-                "t": "p",
-                "x": "Black Forest Labs ha lanzado Flux 3 Image, la parte de imagen de su familia de modelos Flux 3. Según BFL, el modelo permite ediciones en varios pasos sin cambiar otras partes de la imagen y cubre text-to-image, image-to-image, renderizado de texto y fotorrealismo. Los usuarios pueden componer escenas con cuadros delimitadores, incluir hasta diez imágenes de referencia y generar salidas de hasta 4K. Hay una demo gratuita disponible."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-              },
-              {
-                "t": "p",
-                "x": "El acceso a la API tiene un 50 por ciento de descuento hasta el 8 de octubre. Las empresas pueden licenciar pesos comerciales para ejecutar y ajustar el modelo en su propia infraestructura. Se espera una versión open-weight en las próximas semanas. Poco antes del lanzamiento, Ideogram anunció su propio modelo centrado en la edición con la versión 4.5, que también se publicará pronto con pesos abiertos."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Flux 3 Image\n나머지는 두고 편집",
-          "body": "Flux 3 Image는 나머지를 그대로 두고 최대 4K 해상도로 단계별 편집한다.",
-          "mini_headline": "Flux 3 Image, 단계별 편집",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-              },
-              {
-                "t": "p",
-                "x": "Black Forest Labs가 Flux 3 모델 제품군에 속한 이미지 모델 Flux 3 Image를 공개했다. BFL에 따르면 이 모델은 이미지의 다른 부분을 건드리지 않고 여러 단계에 걸쳐 편집할 수 있고, 텍스트-이미지, 이미지-이미지, 텍스트 렌더링, 포토리얼리즘을 모두 다룬다. 바운딩 박스로 장면을 구성하고 참조 이미지를 최대 열 장까지 넣을 수 있으며, 결과물은 최대 4K 해상도로 뽑는다. 무료 데모도 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-              },
-              {
-                "t": "p",
-                "x": "API 이용료는 10월 8일까지 50% 할인된다. 기업은 상업용 가중치 라이선스를 받아 자체 인프라에서 모델을 돌리고 파인튜닝할 수 있다. 오픈 웨이트 버전은 몇 주 안에 나올 예정이다. 출시 직전에는 Ideogram도 편집에 초점을 맞춘 자체 모델 4.5 버전을 내놨는데, 이 모델 역시 곧 오픈 웨이트로 공개될 예정이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Flux 3 Imageは\n他を変えず段階編集",
-          "body": "Flux 3 Imageは他の部分を変えずに段階的に編集でき、最大 4K で出力する。",
-          "mini_headline": "Flux 3 Image、段階的に編集",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-              },
-              {
-                "t": "p",
-                "x": "Black Forest Labsは、Flux 3モデルファミリーの画像モデルであるFlux 3 Imageを公開した。BFLによると、このモデルは画像の他の部分を変えずに複数ステップの編集ができ、テキストからの画像生成、画像からの画像生成、テキスト描画、フォトリアリズムに対応する。ユーザーはバウンディングボックスでシーンを構成でき、参照画像は最大十枚まで使え、出力は最大 4K となる。無料デモも用意されている。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-              },
-              {
-                "t": "p",
-                "x": "APIの利用料は10月8日まで50%引きだ。企業は商用ウェイトのライセンスを取得し、自社インフラ上でモデルを実行・ファインチューニングできる。オープンウェイト版は今後数週間のうちに公開される見込みだ。ローンチ直前には、Ideogramが編集に特化した自社モデルのバージョン4.5を発表しており、こちらも近くオープンウェイトで公開される予定である。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "zh": {
-          "headline": "Flux 3 Image\n分步编辑，其余不动",
-          "body": "Black Forest Labs称Flux 3 Image可分步局部编辑，最高4K。",
-          "mini_headline": "Flux 3 Image分步编辑",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-              },
-              {
-                "t": "p",
-                "x": "Black Forest Labs发布了Flux 3 Image，即其Flux 3模型家族中的图像模型。BFL称，该模型支持多步编辑且不改变图像其他部分，覆盖文生图、图生图、文字渲染和照片级写实。用户可用边界框构图，最多加入10张参考图，并以最高4K输出。目前提供免费演示。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-              },
-              {
-                "t": "p",
-                "x": "API调用在10月8日前优惠50%。企业可获得商用权重授权，在自有基础设施上运行和微调模型。开放权重版本预计在未来几周推出。就在发布前不久，Ideogram推出了专注编辑的4.5版本模型，同样将很快以开放权重形式发布。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Flux 3 Image edita por pasos\ny deja intacto el resto",
-          "body": "Black Forest Labs afirma que Flux 3 Image hace ediciones en varios pasos sin tocar el resto de la imagen, hasta 4K.",
-          "mini_headline": "Flux 3 Image edita por pasos",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-              },
-              {
-                "t": "p",
-                "x": "Black Forest Labs ha lanzado Flux 3 Image, la parte de imagen de su familia de modelos Flux 3. Según BFL, el modelo permite ediciones en varios pasos sin cambiar otras partes de la imagen y cubre text-to-image, image-to-image, renderizado de texto y fotorrealismo. Los usuarios pueden componer escenas con cuadros delimitadores, incluir hasta diez imágenes de referencia y generar salidas de hasta 4K. Hay una demo gratuita disponible."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-              },
-              {
-                "t": "p",
-                "x": "El acceso a la API tiene un 50 por ciento de descuento hasta el 8 de octubre. Las empresas pueden licenciar pesos comerciales para ejecutar y ajustar el modelo en su propia infraestructura. Se espera una versión open-weight en las próximas semanas. Poco antes del lanzamiento, Ideogram anunció su propio modelo centrado en la edición con la versión 4.5, que también se publicará pronto con pesos abiertos."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Flux 3 Image\n나머지는 두고 편집",
-          "body": "Flux 3 Image는 나머지는 두고 최대 4K 해상도로 단계별 편집한다.",
-          "mini_headline": "Flux 3 Image, 단계별 편집",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-              },
-              {
-                "t": "p",
-                "x": "Black Forest Labs가 Flux 3 모델 제품군의 이미지 모델인 Flux 3 Image를 공개했다. BFL은 이 모델이 이미지의 다른 부분을 바꾸지 않고 여러 단계에 걸친 편집을 지원하며, 텍스트-이미지, 이미지-이미지, 텍스트 렌더링, 포토리얼리즘을 모두 다룬다고 밝혔다. 사용자는 바운딩 박스로 장면을 구성하고, 참조 이미지를 최대 열 장까지 넣을 수 있으며, 결과물은 최대 4K 해상도로 출력할 수 있다. 무료 데모도 제공된다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-              },
-              {
-                "t": "p",
-                "x": "API 이용료는 10월 8일까지 50% 할인된다. 기업은 상업용 가중치 라이선스를 받아 자체 인프라에서 모델을 실행하고 파인튜닝할 수 있다. 오픈 웨이트 버전은 앞으로 몇 주 안에 나올 예정이다. 출시 직전에는 Ideogram이 편집에 초점을 맞춘 자체 모델 4.5 버전을 발표했으며, 이 모델 역시 곧 오픈 웨이트로 공개될 예정이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Flux 3 Imageは\n他を変えず段階編集",
-          "body": "Flux 3 Imageは他の部分を変えずに段階的に編集でき、最大 4K で出力する。",
-          "mini_headline": "Flux 3 Image、段階的に編集",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
-              },
-              {
-                "t": "p",
-                "x": "Black Forest Labsは、Flux 3モデルファミリーの画像モデルであるFlux 3 Imageを公開した。BFLによると、このモデルは画像の他の部分を変えずに複数ステップの編集ができ、テキストからの画像生成、画像からの画像生成、テキスト描画、フォトリアリズムに対応する。ユーザーはバウンディングボックスでシーンを構成でき、参照画像は最大十枚まで使え、出力は最大 4K となる。無料デモも用意されている。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
-              },
-              {
-                "t": "p",
-                "x": "APIの利用料は10月8日まで50%引きだ。企業は商用ウェイトのライセンスを取得し、自社インフラ上でモデルを実行・ファインチューニングできる。オープンウェイト版は今後数週間のうちに公開される見込みだ。ローンチ直前には、Ideogramが編集に特化した自社モデルのバージョン4.5を発表しており、こちらも近くオープンウェイトで公開される予定である。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "classcad-ai-mcp",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "ClassCAD.ai,\nAI 에이전트에 CAD",
-      "body": "ClassCAD.ai가 Claude·Codex용 CAD 모델링 MCP로 출시됐다.",
-      "mini_headline": "ClassCAD.ai, MCP로 CAD를 잇다",
+      "headline": "Formas.AI의 3D\n에이전트 Cartesian",
+      "body": "Cartesian은 편집 가능한 형상에 공간 추론을 얹은 에이전트형 3D 모델러다.",
+      "mini_headline": "Formas.AI, Cartesian 출시",
       "tool": "Text-to-CAD",
-      "source": "DEVELOP3D",
-      "url": "https://develop3d.com/ai/classcad-ai-cad-mcp/",
+      "source": "AEC Magazine",
+      "url": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Formas.AI가 건축, 인테리어, 가구, 제품 디자인의 초기 단계에 쓰는 AI 지원(AI-assisted) 플랫폼 Cartesian을 공개했다. AI가 만든(AI-generated) 콘셉트를 편집할 수 있으면서 물리적으로도 의미 있는 형상으로 바꾸겠다는 구상이다. 디자이너는 사진, 스케치, 글로 쓴 브리프, 기존 모델에서 출발해 대화로 구성 요소를 하나씩 다듬는다."
+          },
+          {
             "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+            "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
           },
           {
             "t": "p",
-            "x": "ClassCAD.ai가 AI-driven(AI 주도) 임베드형 CAD로 출시됐다. Claude나 Codex 안에서 CAD를 만드는 독립형 MCP로, 협업 자동화 레이어나 대화형 프로토타이핑을 빠르게 시험하는 샌드박스, 맞춤형 내부 도구로 쓸 수 있다."
+            "x": "“그 뒤에 있는 기술은 엄청나게 복잡할 수 있다. 경험은 그래서는 안 된다.” 공동 창업자이자 CEO인 Yiping Goh의 말이다."
           },
           {
             "t": "p",
-            "x": "개발사는 St. Gallen, Switzerland(스위스 장크트갈렌)의 AWV Informatik이다. 기반 CAD인 ClassCAD는 'headless nurbs modeller'를 내세운다. 네이티브로 돌리거나 WebAssembly(WASM)로 통째 임베드할 수 있고, JS/TS, Python, C++에서 같은 API를 쓴다. 파라메트릭 모델 재계산, 구속 조건 스케치, STEP 모델이 필요한 제품이나 앱이라면 무엇이든 구동한다."
+            "x": "중심에는 AI 에이전트용으로 따로 만든 CAD 커널 레이어와 기하 툴킷이 있다. 에이전트는 이것으로 솔리드와 자유곡면을 만들고 형상을 프로그래밍 방식으로 검사하고 고친다. 모델은 이름 붙은 구성 요소, 레이어, 어셈블리 단위로 정리된다. 공동 창업자 Carlos Bañón은 이런 관계가 “형상에 의미를 부여하고, 모델이 바뀌어도 설계 의도를 지키도록 돕는다”고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
           },
           {
             "t": "p",
-            "x": "개발자가 쓸 수 있는 APIs(API)는 두 가지다. Part API는 피처 단위로 작동하며 피처가 만든 바디를 추적하므로 구조화된 파라메트릭 파트에 맞고, 바디를 직접 다루는 Solid API는 히스토리 없이 코드로 짜는 맞춤형 파트에 맞다."
+            "x": "여러 AI 모델과 전문 에이전트는 오케스트레이션 시스템이 한데 조율한다. OpenAI의 GPT-6 Astra와 Claude Opus 5.5도 그 가운데 있다. 에이전트는 일조와 그림자, 실시간 바람 분석을 요청해 모델링 판단에 쓴다."
           },
           {
             "t": "p",
-            "x": "AI 레이어를 쓰는 데 CAD 모델링 경험은 거의 필요 없다. 프런티어 모델에 ClassCAD.ai 사이트를 보여 주면 모델이 MCP를 설치하고, 에이전트는 CAD 전문가가 된다. 모델 컨텍스트는 사용자 시스템에 로컬로 남는다. 요청은 입력하거나 말로 해도 되고 요구사항 목록을 올려도 되며, 완성한 모델은 기존 CAD로 내보낼 수 있다. 한 예시에서는 AliExpress 전자부품 쇼핑 목록을 건네고 하우징을 만들어 달라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "비상업적 용도는 현재 무료이고, 상업용 라이선스는 100 CHF부터다."
+            "x": "Cartesian은 Rhinoceros, SketchUp과 실시간으로 연동되고 DXF·IFC 가져오기와 내보내기, STEP·STL 내보내기를 지원한다. 데스크톱 버전은 macOS와 Windows에 차례로 풀리며, 2026년 10월 31일부터 이용 범위를 넓힐 예정이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ClassCAD.ai brings CAD\nmodeling to AI agents",
-          "body": "ClassCAD.ai launches as an embeddable AI CAD, a self-contained MCP that builds CAD models inside Claude or Codex.",
-          "mini_headline": "ClassCAD.ai brings CAD to MCP",
+          "headline": "Formas.AI unveils Cartesian,\nan agentic 3D modeller",
+          "body": "Formas.AI's Cartesian is a native agentic 3D modeller that pairs editable geometry with spatial design reasoning.",
+          "mini_headline": "Formas.AI launches Cartesian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Formas.AI has unveiled Cartesian, an AI-assisted platform for early-stage architecture, interiors, furniture and product design that aims to turn AI-generated concepts into editable, physically meaningful geometry. Designers can start from photographs, sketches, written briefs or existing models, then refine individual components through conversation."
+              },
+              {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
               },
               {
                 "t": "p",
-                "x": "ClassCAD.ai has been launched as an AI-driven embeddable CAD: a self-contained MCP able to build CAD in your Claude or Codex setup, useful as a collaborative automation layer, a quick conversational prototyping sandbox, or a custom internal tool."
+                "x": "“The technology behind it can be incredibly complex. The experience should not be,” said Yiping Goh, co-founder and CEO."
               },
               {
                 "t": "p",
-                "x": "It is developed by AWV Informatik in St. Gallen, Switzerland. The underlying CAD, ClassCAD, is billed as a 'headless nurbs modeller' that runs native or fully embedded as WebAssembly (WASM), with the same API in JS/TS, Python and C++. It can drive any product or app that needs parametric model recalculations, constrained sketching and STEP models."
+                "x": "At its core is a proprietary CAD kernel layer and geometric toolkit built for AI agents, which can construct solids and freeform surfaces and inspect and revise geometry programmatically. Models are organised into named components, layers and assemblies; co-founder Carlos Bañón said these relationships “give geometry meaning and help preserve design intent as the model changes.”"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Developers get two APIs: the Part API, which works with features and tracks the bodies they make, for structured parametric parts; and the Solid API, which works on the bodies themselves, for custom parts built from code without history."
+                "x": "An orchestration system coordinates multiple AI models, including OpenAI’s GPT-6 Astra and Claude Opus 5.5, alongside specialist agents. Agents can request sunlight, shadow and real-time wind studies to inform modelling decisions."
               },
               {
                 "t": "p",
-                "x": "The AI layer requires little CAD modelling experience. The user shows their frontier model the ClassCAD.ai site, where it installs the MCP and the agent becomes a CAD expert, with the model context kept locally on the user's system. From typing or speaking a request to uploading a list of requirements, it can build a model that can be exported to traditional CAD; in one example, it was given a shopping list of electronics from AliExpress and asked to build a housing."
-              },
-              {
-                "t": "p",
-                "x": "It is currently free for non-commercial use; a commercial licence starts at 100 CHF."
+                "x": "Cartesian has live connections with Rhinoceros and SketchUp, DXF and IFC import and export, plus STEP and STL export. The desktop rollout will be phased across macOS and Windows, with expanded access planned from 31 October 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ClassCAD.ai,\nAI 에이전트에 CAD",
-          "body": "ClassCAD.ai가 Claude·Codex용 CAD 모델링 MCP로 출시됐다.",
-          "mini_headline": "ClassCAD.ai, MCP로 CAD를 잇다",
+          "headline": "Formas.AI의 3D\n에이전트 Cartesian",
+          "body": "Cartesian은 편집 가능한 형상에 공간 추론을 얹은 에이전트형 3D 모델러다.",
+          "mini_headline": "Formas.AI, Cartesian 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Formas.AI가 건축, 인테리어, 가구, 제품 디자인의 초기 단계에 쓰는 AI 지원(AI-assisted) 플랫폼 Cartesian을 공개했다. AI가 만든(AI-generated) 콘셉트를 편집할 수 있으면서 물리적으로도 의미 있는 형상으로 바꾸겠다는 구상이다. 디자이너는 사진, 스케치, 글로 쓴 브리프, 기존 모델에서 출발해 대화로 구성 요소를 하나씩 다듬는다."
+              },
+              {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
               },
               {
                 "t": "p",
-                "x": "ClassCAD.ai가 AI-driven(AI 주도) 임베드형 CAD로 출시됐다. Claude나 Codex 안에서 CAD를 만드는 독립형 MCP로, 협업 자동화 레이어나 대화형 프로토타이핑을 빠르게 시험하는 샌드박스, 맞춤형 내부 도구로 쓸 수 있다."
+                "x": "“그 뒤에 있는 기술은 엄청나게 복잡할 수 있다. 경험은 그래서는 안 된다.” 공동 창업자이자 CEO인 Yiping Goh의 말이다."
               },
               {
                 "t": "p",
-                "x": "개발사는 St. Gallen, Switzerland(스위스 장크트갈렌)의 AWV Informatik이다. 기반 CAD인 ClassCAD는 'headless nurbs modeller'를 내세운다. 네이티브로 돌리거나 WebAssembly(WASM)로 통째 임베드할 수 있고, JS/TS, Python, C++에서 같은 API를 쓴다. 파라메트릭 모델 재계산, 구속 조건 스케치, STEP 모델이 필요한 제품이나 앱이라면 무엇이든 구동한다."
+                "x": "중심에는 AI 에이전트용으로 따로 만든 CAD 커널 레이어와 기하 툴킷이 있다. 에이전트는 이것으로 솔리드와 자유곡면을 만들고 형상을 프로그래밍 방식으로 검사하고 고친다. 모델은 이름 붙은 구성 요소, 레이어, 어셈블리 단위로 정리된다. 공동 창업자 Carlos Bañón은 이런 관계가 “형상에 의미를 부여하고, 모델이 바뀌어도 설계 의도를 지키도록 돕는다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
               },
               {
                 "t": "p",
-                "x": "개발자가 쓸 수 있는 APIs(API)는 두 가지다. Part API는 피처 단위로 작동하며 피처가 만든 바디를 추적하므로 구조화된 파라메트릭 파트에 맞고, 바디를 직접 다루는 Solid API는 히스토리 없이 코드로 짜는 맞춤형 파트에 맞다."
+                "x": "여러 AI 모델과 전문 에이전트는 오케스트레이션 시스템이 한데 조율한다. OpenAI의 GPT-6 Astra와 Claude Opus 5.5도 그 가운데 있다. 에이전트는 일조와 그림자, 실시간 바람 분석을 요청해 모델링 판단에 쓴다."
               },
               {
                 "t": "p",
-                "x": "AI 레이어를 쓰는 데 CAD 모델링 경험은 거의 필요 없다. 프런티어 모델에 ClassCAD.ai 사이트를 보여 주면 모델이 MCP를 설치하고, 에이전트는 CAD 전문가가 된다. 모델 컨텍스트는 사용자 시스템에 로컬로 남는다. 요청은 입력하거나 말로 해도 되고 요구사항 목록을 올려도 되며, 완성한 모델은 기존 CAD로 내보낼 수 있다. 한 예시에서는 AliExpress 전자부품 쇼핑 목록을 건네고 하우징을 만들어 달라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "비상업적 용도는 현재 무료이고, 상업용 라이선스는 100 CHF부터다."
+                "x": "Cartesian은 Rhinoceros, SketchUp과 실시간으로 연동되고 DXF·IFC 가져오기와 내보내기, STEP·STL 내보내기를 지원한다. 데스크톱 버전은 macOS와 Windows에 차례로 풀리며, 2026년 10월 31일부터 이용 범위를 넓힐 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ClassCAD.ai、\nAIエージェントにCAD",
-          "body": "ClassCAD.aiはClaudeやCodexでCADモデルを作るMCPとして登場した。",
-          "mini_headline": "ClassCAD.ai、MCPでCADを提供",
+          "headline": "Formas.AIの3D\n自律型Cartesian",
+          "body": "Cartesianは編集可能な形状に空間推論を加えたエージェント型3D モデラーだ。",
+          "mini_headline": "Formas.AIがCartesianを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Formas.AIは、建築、インテリア、家具、プロダクトデザインの初期段階に向けたAI支援(AI-assisted)プラットフォーム「Cartesian」を発表した。AIが生成した(AI-generated)コンセプトを、編集可能で物理的に意味のある形状に変えることを目指す。デザイナーは写真、スケッチ、文章によるブリーフ、既存のモデルから始め、対話を通じて個々のコンポーネントを詰めていける。"
+              },
+              {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
               },
               {
                 "t": "p",
-                "x": "ClassCAD.aiが、AI-driven（AI主導）の組み込み型CADとして公開された。ClaudeやCodexの環境内でCADを構築できる自己完結型のMCPで、共同作業向けの自動化レイヤー、対話による素早いプロトタイピングのサンドボックス、あるいは独自の社内ツールとして使える。"
+                "x": "「その裏にある技術は非常に複雑になり得る。体験はそうであってはならない」と、共同創業者でCEOのYiping Gohは語った。"
               },
               {
                 "t": "p",
-                "x": "開発したのはSt. Gallen, Switzerland（スイス・ザンクトガレン）のAWV Informatikだ。基盤となるCADであるClassCADは「headless nurbs modeller」をうたい、ネイティブで動くほか、WebAssembly（WASM）として完全に組み込むこともでき、JS/TS、Python、C++で同じAPIを使える。パラメトリックなモデル再計算、拘束付きスケッチ、STEPモデルを必要とするあらゆる製品やアプリを動かせる。"
+                "x": "中核にあるのは、AIエージェント向けに作られた独自のCADカーネル層と幾何ツールキットだ。ソリッドや自由曲面を構築し、形状をプログラムで検査・修正できる。モデルは名前付きのコンポーネント、レイヤー、アセンブリに整理される。共同創業者のCarlos Bañónは、こうした関係が「形状に意味を与え、モデルが変わっても設計意図を保つ助けになる」と述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
               },
               {
                 "t": "p",
-                "x": "開発者には二つのAPIs（API）が用意される。フィーチャー単位で動作し、そこから生まれるボディを追跡するPart APIは構造化されたパラメトリック部品向けで、ボディそのものを扱うSolid APIは履歴を持たずコードで作るカスタム部品向けである。"
+                "x": "オーケストレーションシステムが、OpenAIのGPT-6 AstraやClaude Opus 5.5を含む複数のAIモデルと専門エージェントを連携させる。エージェントは日照、影、リアルタイムの風の解析を要求し、モデリングの判断材料にできる。"
               },
               {
                 "t": "p",
-                "x": "AIレイヤーの利用にCADモデリングの経験はほとんど要らない。ユーザーが自分のフロンティアモデルにClassCAD.aiのサイトを見せると、モデルがMCPをインストールし、エージェントはCADの専門家になる。モデルのコンテキストはユーザーのシステム上にローカルで保持される。要望を入力したり話したりする方法から要件リストをアップロードする方法まで対応し、作ったモデルは従来のCADへ書き出せる。ある例では、AliExpressで買う電子部品のリストを渡し、筐体を作るよう依頼した。"
-              },
-              {
-                "t": "p",
-                "x": "現在、非商用利用は無料で、商用ライセンスは100 CHFからだ。"
+                "x": "CartesianはRhinocerosやSketchUpとのライブ連携、DXFとIFCのインポート・エクスポート、STEPとSTLのエクスポートに対応する。デスクトップ版はmacOSとWindowsで段階的に提供され、2026年10月31日から利用範囲を広げる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ClassCAD.ai：\n让AI智能体做CAD建模",
-          "body": "ClassCAD.ai作为独立MCP上线，可在Claude或Codex中构建CAD模型。",
-          "mini_headline": "ClassCAD.ai把CAD带入MCP",
+          "headline": "Formas.AI推出3D\n建模智能体Cartesian",
+          "body": "Cartesian是一款原生智能体3D 建模工具，把可编辑几何与空间设计推理结合起来。",
+          "mini_headline": "Formas.AI推出Cartesian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Formas.AI发布了Cartesian，这是一款面向早期建筑、室内、家具和产品设计的AI辅助（AI-assisted）平台，旨在把AI生成（AI-generated）的概念转化为可编辑、具有物理意义的几何体。设计师可以从照片、草图、文字简报或现有模型出发，再通过对话逐一细化各个组件。"
+              },
+              {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
               },
               {
                 "t": "p",
-                "x": "ClassCAD.ai正式推出，定位为AI-driven（AI驱动）的可嵌入式CAD：一个能在Claude或Codex环境中构建CAD的独立MCP，可用作协作自动化层、快速对话式原型沙盒，或定制的内部工具。"
+                "x": "“背后的技术可能极其复杂，但体验不应如此。”联合创始人兼CEO Yiping Goh表示。"
               },
               {
                 "t": "p",
-                "x": "它由位于St. Gallen, Switzerland（瑞士圣加仑）的AWV Informatik开发。底层CAD ClassCAD号称“headless nurbs modeller”，既可原生运行，也可作为WebAssembly（WASM）完全嵌入，并在JS/TS、Python和C++中提供相同的API。任何需要参数化模型重算、约束草图和STEP模型的产品或应用，都可以由它驱动。"
+                "x": "其核心是专为AI智能体打造的自有CAD内核层和几何工具包，可构建实体与自由曲面，并以编程方式检查和修改几何体。模型按命名的组件、图层和装配体组织；联合创始人Carlos Bañón表示，这些关系“赋予几何意义，并在模型变化时帮助保留设计意图”。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
               },
               {
                 "t": "p",
-                "x": "开发者可使用两套APIs（API）：Part API基于特征工作并追踪特征生成的实体，适用于结构化的参数化零件；Solid API直接作用于实体本身，适用于不带历史记录、由代码构建的定制零件。"
+                "x": "一套编排系统协调多个AI模型（包括OpenAI的GPT-6 Astra和Claude Opus 5.5）以及专业智能体。智能体可请求日照、阴影和实时风环境分析，为建模决策提供依据。"
               },
               {
                 "t": "p",
-                "x": "使用这一AI层几乎不需要CAD建模经验。用户向自己的前沿模型展示ClassCAD.ai网站，模型便会安装MCP，智能体随即成为CAD专家，模型上下文则保存在用户本地系统中。从输入或口述需求到上传需求清单，它都能构建可导出到传统CAD的模型；在一个示例中，它收到一份AliExpress电子元件购物清单，并被要求据此制作外壳。"
-              },
-              {
-                "t": "p",
-                "x": "目前非商业用途免费；商业许可起价为100 CHF。"
+                "x": "Cartesian可与Rhinoceros和SketchUp实时连接，支持DXF和IFC的导入导出，以及STEP和STL导出。桌面版将在macOS和Windows上分阶段推出，计划自2026年10月31日起扩大开放范围。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ClassCAD.ai lleva el CAD\na los agentes de AI",
-          "body": "ClassCAD.ai se lanza como un CAD con AI integrable, un MCP autónomo que crea modelos CAD dentro de Claude o Codex.",
-          "mini_headline": "ClassCAD.ai lleva el CAD a MCP",
+          "headline": "Formas.AI presenta Cartesian,\nun modelador 3D agéntico",
+          "body": "Cartesian, de Formas.AI, es un modelador 3D agéntico que une geometría editable y razonamiento de diseño espacial.",
+          "mini_headline": "Formas.AI lanza Cartesian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Formas.AI ha presentado Cartesian, una plataforma AI-assisted (asistida por AI) para las primeras fases del diseño de arquitectura, interiores, mobiliario y producto, que busca convertir conceptos AI-generated (generados por AI) en geometría editable y con sentido físico. Los diseñadores pueden partir de fotografías, bocetos, encargos escritos o modelos existentes y después refinar cada componente mediante conversación."
+              },
+              {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
               },
               {
                 "t": "p",
-                "x": "ClassCAD.ai se ha lanzado como un CAD integrable impulsado por AI (AI-driven): un MCP autónomo capaz de construir CAD en tu entorno de Claude o Codex, útil como capa de automatización colaborativa, como entorno de pruebas para prototipos rápidos mediante conversación o como herramienta interna personalizada."
+                "x": "“La tecnología que hay detrás puede ser increíblemente compleja. La experiencia no debería serlo”, afirmó Yiping Goh, cofundador y CEO."
               },
               {
                 "t": "p",
-                "x": "Lo desarrolla AWV Informatik, con sede en St. Gallen, Switzerland (Suiza). El CAD de base, ClassCAD, se presenta como un 'headless nurbs modeller' que funciona de forma nativa o totalmente integrado como WebAssembly (WASM), con la misma API en JS/TS, Python y C++. Puede impulsar cualquier producto o aplicación que necesite recálculos de modelos paramétricos, bocetos con restricciones y modelos STEP."
+                "x": "En su núcleo hay una capa de kernel CAD propia y un conjunto de herramientas geométricas creados para agentes de AI, capaces de construir sólidos y superficies libres, e inspeccionar y revisar la geometría de forma programática. Los modelos se organizan en componentes, capas y ensamblajes con nombre; el cofundador Carlos Bañón dijo que estas relaciones “dan significado a la geometría y ayudan a preservar la intención de diseño a medida que el modelo cambia”."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Los desarrolladores disponen de dos APIs: la Part API, que trabaja con operaciones y rastrea los sólidos que generan, para piezas paramétricas estructuradas; y la Solid API, que trabaja directamente sobre los sólidos, para piezas personalizadas creadas desde código sin historial."
+                "x": "Un sistema de orquestación coordina varios modelos de AI, entre ellos GPT-6 Astra de OpenAI y Claude Opus 5.5, junto con agentes especializados. Los agentes pueden solicitar estudios de soleamiento, sombras y viento en tiempo real para orientar las decisiones de modelado."
               },
               {
                 "t": "p",
-                "x": "La capa de AI requiere poca experiencia en modelado CAD. El usuario muestra a su modelo de frontera el sitio de ClassCAD.ai, donde este instala el MCP y el agente se convierte en experto en CAD, con el contexto del modelo guardado localmente en el sistema del usuario. Desde escribir o dictar una petición hasta subir una lista de requisitos, puede construir un modelo exportable a un CAD tradicional; en un ejemplo, recibió una lista de compra de componentes electrónicos de AliExpress y se le pidió construir una carcasa."
-              },
-              {
-                "t": "p",
-                "x": "Por ahora es gratuito para uso no comercial; la licencia comercial parte de 100 CHF."
+                "x": "Cartesian tiene conexiones en vivo con Rhinoceros y SketchUp, importación y exportación en DXF e IFC, y exportación en STEP y STL. El despliegue de escritorio será gradual en macOS y Windows, con un acceso ampliado previsto a partir del 31 de octubre de 2026."
               }
             ]
           }
@@ -489,137 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ClassCAD.ai,\nAI 에이전트에 CAD",
-          "body": "ClassCAD.ai가 Claude·Codex용 CAD 모델링 MCP로 나왔다.",
-          "mini_headline": "ClassCAD.ai, MCP로 CAD를 잇다",
+          "headline": "Formas.AI의 3D\n에이전트 Cartesian",
+          "body": "Cartesian은 편집형 형상에 공간 추론을 더한 에이전트형 3D 모델러다.",
+          "mini_headline": "Formas.AI, Cartesian 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Formas.AI가 초기 단계의 건축, 인테리어, 가구, 제품 디자인을 위한 AI 지원(AI-assisted) 플랫폼 Cartesian을 공개했다. AI가 만든(AI-generated) 콘셉트를 편집 가능하고 물리적으로 의미 있는 형상으로 바꾸는 것이 목표다. 디자이너는 사진, 스케치, 글로 쓴 브리프, 기존 모델에서 출발해 대화로 개별 구성 요소를 다듬을 수 있다."
+              },
+              {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
               },
               {
                 "t": "p",
-                "x": "ClassCAD.ai가 AI-driven(AI 주도) 임베드형 CAD로 출시됐다. Claude나 Codex 환경 안에서 CAD를 만들 수 있는 독립형 MCP로, 협업 자동화 레이어나 대화형 프로토타이핑을 빠르게 해 보는 샌드박스, 맞춤형 내부 도구로 쓸 수 있다."
+                "x": "“그 뒤에 있는 기술은 엄청나게 복잡할 수 있다. 경험은 그래서는 안 된다.” 공동 창업자이자 CEO인 Yiping Goh의 말이다."
               },
               {
                 "t": "p",
-                "x": "개발사는 St. Gallen, Switzerland(스위스 장크트갈렌)에 있는 AWV Informatik이다. 기반 CAD인 ClassCAD는 'headless nurbs modeller'를 표방하며, 네이티브로 실행하거나 WebAssembly(WASM)로 완전히 임베드해 쓸 수 있고 JS/TS, Python, C++에서 같은 API를 제공한다. 파라메트릭 모델 재계산, 구속 조건 스케치, STEP 모델이 필요한 어떤 제품이나 앱도 구동할 수 있다."
+                "x": "핵심에는 AI 에이전트를 위해 만든 독자적인 CAD 커널 레이어와 기하 툴킷이 있다. 에이전트는 이를 통해 솔리드와 자유곡면을 만들고, 형상을 프로그래밍 방식으로 검사하고 수정할 수 있다. 모델은 이름이 붙은 구성 요소, 레이어, 어셈블리로 정리된다. 공동 창업자 Carlos Bañón은 이런 관계가 “형상에 의미를 부여하고, 모델이 바뀌어도 설계 의도를 지키도록 돕는다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
               },
               {
                 "t": "p",
-                "x": "개발자에게는 두 가지 APIs(API)가 주어진다. 피처 단위로 작동하며 피처가 만든 바디를 추적하는 Part API는 구조화된 파라메트릭 파트에 쓰고, 바디 자체를 다루는 Solid API는 히스토리 없이 코드로 만드는 맞춤형 파트에 쓴다."
+                "x": "오케스트레이션 시스템이 OpenAI의 GPT-6 Astra와 Claude Opus 5.5를 비롯한 여러 AI 모델과 전문 에이전트를 함께 조율한다. 에이전트는 일조, 그림자, 실시간 바람 분석을 요청해 모델링 판단에 활용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "AI 레이어를 쓰는 데 CAD 모델링 경험은 거의 필요 없다. 사용자가 프런티어 모델에 ClassCAD.ai 사이트를 보여 주면 모델이 MCP를 설치하고 에이전트는 CAD 전문가가 되며, 모델 컨텍스트는 사용자 시스템에 로컬로 보관된다. 요청을 입력하거나 말로 전하는 방식부터 요구사항 목록을 올리는 방식까지 쓸 수 있고, 만든 모델은 기존 CAD로 내보낼 수 있다. 한 예시에서는 AliExpress 전자부품 쇼핑 목록을 주고 하우징을 만들어 달라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "현재 비상업적 용도는 무료이며, 상업용 라이선스는 100 CHF부터다."
+                "x": "Cartesian은 Rhinoceros, SketchUp과 실시간으로 연동되고 DXF·IFC 가져오기와 내보내기, STEP·STL 내보내기를 지원한다. 데스크톱 버전은 macOS와 Windows에 단계적으로 배포되며, 2026년 10월 31일부터 이용 범위를 넓힐 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ClassCAD.ai、\nAIエージェントにCAD",
-          "body": "ClassCAD.aiはClaudeやCodexでCADモデルを作るMCPとして登場した。",
-          "mini_headline": "ClassCAD.ai、MCPでCADを提供",
+          "headline": "Formas.AIの3D\n自律型Cartesian",
+          "body": "Cartesianは編集可能な形状に空間推論を加えたエージェント型3D モデラーだ。",
+          "mini_headline": "Formas.AIがCartesianを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Formas.AIは、建築、インテリア、家具、プロダクトデザインの初期段階に向けたAI支援(AI-assisted)プラットフォーム「Cartesian」を発表した。AIが生成した(AI-generated)コンセプトを、編集可能で物理的に意味のある形状に変えることを目指す。デザイナーは写真、スケッチ、文章によるブリーフ、既存のモデルから始め、対話を通じて個々のコンポーネントを詰めていける。"
+              },
+              {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
               },
               {
                 "t": "p",
-                "x": "ClassCAD.aiが、AI-driven（AI主導）の組み込み型CADとして公開された。ClaudeやCodexの環境内でCADを構築できる自己完結型のMCPで、共同作業向けの自動化レイヤー、対話による素早いプロトタイピングのサンドボックス、あるいは独自の社内ツールとして使える。"
+                "x": "「その裏にある技術は非常に複雑になり得る。体験はそうであってはならない」と、共同創業者でCEOのYiping Gohは語った。"
               },
               {
                 "t": "p",
-                "x": "開発したのはSt. Gallen, Switzerland（スイス・ザンクトガレン）のAWV Informatikだ。基盤となるCADであるClassCADは「headless nurbs modeller」をうたい、ネイティブで動くほか、WebAssembly（WASM）として完全に組み込むこともでき、JS/TS、Python、C++で同じAPIを使える。パラメトリックなモデル再計算、拘束付きスケッチ、STEPモデルを必要とするあらゆる製品やアプリを動かせる。"
+                "x": "中核にあるのは、AIエージェント向けに作られた独自のCADカーネル層と幾何ツールキットだ。ソリッドや自由曲面を構築し、形状をプログラムで検査・修正できる。モデルは名前付きのコンポーネント、レイヤー、アセンブリに整理される。共同創業者のCarlos Bañónは、こうした関係が「形状に意味を与え、モデルが変わっても設計意図を保つ助けになる」と述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
               },
               {
                 "t": "p",
-                "x": "開発者には二つのAPIs（API）が用意される。フィーチャー単位で動作し、そこから生まれるボディを追跡するPart APIは構造化されたパラメトリック部品向けで、ボディそのものを扱うSolid APIは履歴を持たずコードで作るカスタム部品向けである。"
+                "x": "オーケストレーションシステムが、OpenAIのGPT-6 AstraやClaude Opus 5.5を含む複数のAIモデルと専門エージェントを連携させる。エージェントは日照、影、リアルタイムの風の解析を要求し、モデリングの判断材料にできる。"
               },
               {
                 "t": "p",
-                "x": "AIレイヤーの利用にCADモデリングの経験はほとんど要らない。ユーザーが自分のフロンティアモデルにClassCAD.aiのサイトを見せると、モデルがMCPをインストールし、エージェントはCADの専門家になる。モデルのコンテキストはユーザーのシステム上にローカルで保持される。要望を入力したり話したりする方法から要件リストをアップロードする方法まで対応し、作ったモデルは従来のCADへ書き出せる。ある例では、AliExpressで買う電子部品のリストを渡し、筐体を作るよう依頼した。"
-              },
-              {
-                "t": "p",
-                "x": "現在、非商用利用は無料で、商用ライセンスは100 CHFからだ。"
+                "x": "CartesianはRhinocerosやSketchUpとのライブ連携、DXFとIFCのインポート・エクスポート、STEPとSTLのエクスポートに対応する。デスクトップ版はmacOSとWindowsで段階的に提供され、2026年10月31日から利用範囲を広げる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ClassCAD.ai：\n让AI智能体做CAD建模",
-          "body": "ClassCAD.ai作为独立MCP上线，可在Claude或Codex中构建CAD模型。",
-          "mini_headline": "ClassCAD.ai把CAD带入MCP",
+          "headline": "Formas.AI推出3D\n建模智能体Cartesian",
+          "body": "Cartesian是一款原生智能体3D 建模工具，把可编辑几何与空间设计推理结合起来。",
+          "mini_headline": "Formas.AI推出Cartesian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Formas.AI发布了Cartesian，这是一款面向早期建筑、室内、家具和产品设计的AI辅助（AI-assisted）平台，旨在把AI生成（AI-generated）的概念转化为可编辑、具有物理意义的几何体。设计师可以从照片、草图、文字简报或现有模型出发，再通过对话逐一细化各个组件。"
+              },
+              {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
               },
               {
                 "t": "p",
-                "x": "ClassCAD.ai正式推出，定位为AI-driven（AI驱动）的可嵌入式CAD：一个能在Claude或Codex环境中构建CAD的独立MCP，可用作协作自动化层、快速对话式原型沙盒，或定制的内部工具。"
+                "x": "“背后的技术可能极其复杂，但体验不应如此。”联合创始人兼CEO Yiping Goh表示。"
               },
               {
                 "t": "p",
-                "x": "它由位于St. Gallen, Switzerland（瑞士圣加仑）的AWV Informatik开发。底层CAD ClassCAD号称“headless nurbs modeller”，既可原生运行，也可作为WebAssembly（WASM）完全嵌入，并在JS/TS、Python和C++中提供相同的API。任何需要参数化模型重算、约束草图和STEP模型的产品或应用，都可以由它驱动。"
+                "x": "其核心是专为AI智能体打造的自有CAD内核层和几何工具包，可构建实体与自由曲面，并以编程方式检查和修改几何体。模型按命名的组件、图层和装配体组织；联合创始人Carlos Bañón表示，这些关系“赋予几何意义，并在模型变化时帮助保留设计意图”。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
               },
               {
                 "t": "p",
-                "x": "开发者可使用两套APIs（API）：Part API基于特征工作并追踪特征生成的实体，适用于结构化的参数化零件；Solid API直接作用于实体本身，适用于不带历史记录、由代码构建的定制零件。"
+                "x": "一套编排系统协调多个AI模型（包括OpenAI的GPT-6 Astra和Claude Opus 5.5）以及专业智能体。智能体可请求日照、阴影和实时风环境分析，为建模决策提供依据。"
               },
               {
                 "t": "p",
-                "x": "使用这一AI层几乎不需要CAD建模经验。用户向自己的前沿模型展示ClassCAD.ai网站，模型便会安装MCP，智能体随即成为CAD专家，模型上下文则保存在用户本地系统中。从输入或口述需求到上传需求清单，它都能构建可导出到传统CAD的模型；在一个示例中，它收到一份AliExpress电子元件购物清单，并被要求据此制作外壳。"
-              },
-              {
-                "t": "p",
-                "x": "目前非商业用途免费；商业许可起价为100 CHF。"
+                "x": "Cartesian可与Rhinoceros和SketchUp实时连接，支持DXF和IFC的导入导出，以及STEP和STL导出。桌面版将在macOS和Windows上分阶段推出，计划自2026年10月31日起扩大开放范围。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ClassCAD.ai lleva el CAD\na los agentes de AI",
-          "body": "ClassCAD.ai se lanza como un CAD con AI integrable, un MCP autónomo que crea modelos CAD dentro de Claude o Codex.",
-          "mini_headline": "ClassCAD.ai lleva el CAD a MCP",
+          "headline": "Formas.AI presenta Cartesian,\nun modelador 3D agéntico",
+          "body": "Cartesian, de Formas.AI, es un modelador 3D agéntico que une geometría editable y razonamiento de diseño espacial.",
+          "mini_headline": "Formas.AI lanza Cartesian",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Formas.AI ha presentado Cartesian, una plataforma AI-assisted (asistida por AI) para las primeras fases del diseño de arquitectura, interiores, mobiliario y producto, que busca convertir conceptos AI-generated (generados por AI) en geometría editable y con sentido físico. Los diseñadores pueden partir de fotografías, bocetos, encargos escritos o modelos existentes y después refinar cada componente mediante conversación."
+              },
+              {
                 "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch-1024x576.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
               },
               {
                 "t": "p",
-                "x": "ClassCAD.ai se ha lanzado como un CAD integrable impulsado por AI (AI-driven): un MCP autónomo capaz de construir CAD en tu entorno de Claude o Codex, útil como capa de automatización colaborativa, como entorno de pruebas para prototipos rápidos mediante conversación o como herramienta interna personalizada."
+                "x": "“La tecnología que hay detrás puede ser increíblemente compleja. La experiencia no debería serlo”, afirmó Yiping Goh, cofundador y CEO."
               },
               {
                 "t": "p",
-                "x": "Lo desarrolla AWV Informatik, con sede en St. Gallen, Switzerland (Suiza). El CAD de base, ClassCAD, se presenta como un 'headless nurbs modeller' que funciona de forma nativa o totalmente integrado como WebAssembly (WASM), con la misma API en JS/TS, Python y C++. Puede impulsar cualquier producto o aplicación que necesite recálculos de modelos paramétricos, bocetos con restricciones y modelos STEP."
+                "x": "En su núcleo hay una capa de kernel CAD propia y un conjunto de herramientas geométricas creados para agentes de AI, capaces de construir sólidos y superficies libres, e inspeccionar y revisar la geometría de forma programática. Los modelos se organizan en componentes, capas y ensamblajes con nombre; el cofundador Carlos Bañón dijo que estas relaciones “dan significado a la geometría y ayudan a preservar la intención de diseño a medida que el modelo cambia”."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Los desarrolladores disponen de dos APIs: la Part API, que trabaja con operaciones y rastrea los sólidos que generan, para piezas paramétricas estructuradas; y la Solid API, que trabaja directamente sobre los sólidos, para piezas personalizadas creadas desde código sin historial."
+                "x": "Un sistema de orquestación coordina varios modelos de AI, entre ellos GPT-6 Astra de OpenAI y Claude Opus 5.5, junto con agentes especializados. Los agentes pueden solicitar estudios de soleamiento, sombras y viento en tiempo real para orientar las decisiones de modelado."
               },
               {
                 "t": "p",
-                "x": "La capa de AI requiere poca experiencia en modelado CAD. El usuario muestra a su modelo de frontera el sitio de ClassCAD.ai, donde este instala el MCP y el agente se convierte en experto en CAD, con el contexto del modelo guardado localmente en el sistema del usuario. Desde escribir o dictar una petición hasta subir una lista de requisitos, puede construir un modelo exportable a un CAD tradicional; en un ejemplo, recibió una lista de compra de componentes electrónicos de AliExpress y se le pidió construir una carcasa."
-              },
-              {
-                "t": "p",
-                "x": "Por ahora es gratuito para uso no comercial; la licencia comercial parte de 100 CHF."
+                "x": "Cartesian tiene conexiones en vivo con Rhinoceros y SketchUp, importación y exportación en DXF e IFC, y exportación en STEP y STL. El despliegue de escritorio será gradual en macOS y Windows, con un acceso ampliado previsto a partir del 31 de octubre de 2026."
               }
             ]
           }
@@ -627,189 +395,225 @@
       }
     },
     {
-      "id": "infoq-regeneratable-ui",
+      "id": "lightroom-prompt-to-edit-restore",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "공유 UI 라이브러리,\n재사용에서 재생성으로",
-      "body": "모델이 표준 UI를 즉석에서 다시 만들면 일관성은 토큰·가이드라인·테스트가 맡는다.",
-      "mini_headline": "UI 라이브러리, 재생성의 시대",
-      "tool": "Design Tokens",
-      "source": "InfoQ",
-      "url": "https://www.infoq.com/articles/regeneratable-ui-component-library/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
+      "headline": "Prompt to Edit\n옛 사진을 되살린다",
+      "body": "Prompt to Edit은 AI로 옛 사진 복원과 흑백 컬러화, 색 보정을 한다.",
+      "mini_headline": "Lightroom AI, 옛 사진 복원",
+      "tool": "KeyShot",
+      "source": "Fstoppers",
+      "url": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
+      "accent": "#f5a623",
+      "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Adobe가 Lightroom에 Prompt to Edit을 넣는다. Adobe가 준비한 예시 프롬프트를 고르거나 직접 프롬프트를 써서 옛 사진을 복원하는 기능이다. 초점이 나간 이미지를 선명하게 하고 흑백 사진에 색을 입히며, 색이 심하게 틀어진 사진도 보정한다."
+          },
+          {
             "t": "img",
-            "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+            "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+            "cap": "John Ricard가 2001년경 촬영한 112. Lightroom에서 Adobe의 Prompt to Edit 기능으로 복원했다."
           },
           {
             "t": "p",
-            "x": "지난 10년간 정석은 전사 공통 컴포넌트 라이브러리를 만드는 것이었다. Griffiths Waite의 Daniel Curtis는 이제 코딩 에이전트가 스타일과 어느 정도의 접근성을 갖춘 컴포넌트를 금세 만들어 내므로, 정본 라이브러리 하나가 주는 이득이 예전만 못하다고 본다. 중앙에서 관리할 가치는 배포된 컴포넌트 코드가 아니라 디자인 시스템, 토큰, 가이드라인, 테스트에 있다."
+            "x": "예시 프롬프트로는 Fix Dust and Scratches, Color Restoration, Unblur 등이 있다. Lightroom은 효과를 입힌 DNG 파일을 새로 만들고 원본은 건드리지 않는다. 프리셋을 고르면 프롬프트 전문이 뜨고, 그대로 고쳐 쓸 수도 있다. 몇 번 써 본 바로는 Color Restoration의 채도가 필자가 원한 것보다 높았다."
           },
           {
             "t": "p",
-            "x": "공유 라이브러리는 재사용, 일관성, 코드에 담긴 전문성, 단일 진실 공급원이라는 네 가지 약속을 한데 묶었다. 그중 배포된 코드가 있어야 하는 건 재사용과 코드에 담긴 전문성뿐인데, 바로 여기를 이제 AI가 거든다. 진짜 비용은 늘 유지보수였다. 버전 관리, 마이그레이션, 변형의 난립, 흐지부지되는 소유권 말이다."
+            "x": "편집이 Lightroom 안에서 끝나니 마스킹, 부분 보정, 개체 제거 같은 기본 도구도 그대로 쓴다. 이미지는 Nano Banana 2가 2K 또는 4K 해상도로 만든다. 프리미엄 기능이라 생성형 크레디트가 든다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+            "cap": "Lightroom의 Prompt to Edit 기능으로 만든 컬러 버전."
           },
           {
             "t": "p",
-            "x": "그가 제안하는 모델은 이렇다. 토큰이 진실 공급원이 되고, 기계가 읽을 수 있는 가이드라인과 엔지니어링 원칙은 에이전트가 생성할 때 따르는 명세가 되며, 시각 회귀·접근성·토큰 준수 테스트가 결과를 검증한다. 버전 관리는 스택 위쪽, 곧 이 규칙들로 올라간다."
-          },
-          {
-            "t": "p",
-            "x": "기본값에 맡기면 모델은 밋밋한 평균으로 수렴한다. 그래서 관점이 뚜렷한 디자인 시스템이 차별화 요소가 된다. 다만 접근성, 그리고 데이터 그리드·콤보박스·날짜 선택기처럼 정말 까다로운 위젯만큼은 여전히 엄선한 공유 코드로 일부 유지할 만하다."
+            "x": "Prompt to Edit은 Lightroom 데스크톱에 Early Access 기능으로 들어오고, Adobe가 피드백을 보며 계속 손볼 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Shared UI libraries move from\nreusable to regeneratable",
-          "body": "With models regenerating standard UI on demand, consistency now comes from central tokens, guidelines and tests.",
-          "mini_headline": "UI libraries, regenerated",
+          "headline": "Lightroom's Prompt to Edit\nrestores old photos",
+          "body": "Lightroom's new Prompt to Edit uses AI to restore old photos, colorize black-and-white shots and correct color casts.",
+          "mini_headline": "Lightroom AI restores old photos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Adobe is introducing Prompt to Edit in Lightroom. It lets you restore an old photograph by selecting one of Adobe’s example prompts or creating your own: sharpen out-of-focus images, colorize black-and-white photographs, and adjust photos with a dramatic color cast."
+              },
+              {
                 "t": "img",
-                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+                "cap": "112 photographed by John Ricard circa 2001, restored using Adobe's Prompt to Edit feature in Lightroom."
               },
               {
                 "t": "p",
-                "x": "For a decade the standard advice was to build a company-wide component library. Daniel Curtis of Griffiths Waite argues that when a coding agent can quickly produce a styled, more-or-less accessible component, one canonical library buys less than it once did. What is worth centralizing is the design system, the tokens, the guidelines and the tests, not the shipped component code."
+                "x": "Example prompts include Fix Dust and Scratches, Color Restoration and Unblur. Lightroom creates a new DNG with the effect applied while leaving the original unmodified. Choosing a preset shows the full prompt, which you can adjust; in limited testing, Color Restoration came out more saturated than the author liked."
               },
               {
                 "t": "p",
-                "x": "A shared library bundled four promises: reuse, consistency, encoded expertise and a single source of truth. Only reuse and encoded expertise needed shipped code, and those are the parts AI can now help with. The real bill was always maintenance: versioning, migrations, variant sprawl and ownership that slips."
+                "x": "Because the edit happens in Lightroom, the standard tools for masking, local adjustments and object removal stay available. Images are generated using Nano Banana 2 at 2K or 4K, and use generative credits as a premium feature."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+                "cap": "Colorized version created using Lightroom’s Prompt to Edit feature."
               },
               {
                 "t": "p",
-                "x": "The proposed model: tokens as the source of truth, machine-readable guidelines and engineering principles as the spec an agent generates from, and verification through visual-regression, accessibility and token-conformance tests. Versioning moves up the stack to those rules."
-              },
-              {
-                "t": "p",
-                "x": "Left to defaults, models converge on a bland average, so an opinionated design system becomes a differentiator. Accessibility and genuinely hard widgets such as data grids, comboboxes and date pickers are still reasons to keep some curated, shared code."
+                "x": "Prompt to Edit is being introduced in Lightroom desktop as an Early Access feature and may continue to change as Adobe evaluates feedback."
               }
             ]
           }
         },
         "ko": {
-          "headline": "공유 UI 라이브러리,\n재사용에서 재생성으로",
-          "body": "모델이 표준 UI를 즉석에서 다시 만들면 일관성은 토큰·가이드라인·테스트가 맡는다.",
-          "mini_headline": "UI 라이브러리, 재생성의 시대",
+          "headline": "Prompt to Edit\n옛 사진을 되살린다",
+          "body": "Prompt to Edit은 AI로 옛 사진 복원과 흑백 컬러화, 색 보정을 한다.",
+          "mini_headline": "Lightroom AI, 옛 사진 복원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Adobe가 Lightroom에 Prompt to Edit을 넣는다. Adobe가 준비한 예시 프롬프트를 고르거나 직접 프롬프트를 써서 옛 사진을 복원하는 기능이다. 초점이 나간 이미지를 선명하게 하고 흑백 사진에 색을 입히며, 색이 심하게 틀어진 사진도 보정한다."
+              },
+              {
                 "t": "img",
-                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+                "cap": "John Ricard가 2001년경 촬영한 112. Lightroom에서 Adobe의 Prompt to Edit 기능으로 복원했다."
               },
               {
                 "t": "p",
-                "x": "지난 10년간 정석은 전사 공통 컴포넌트 라이브러리를 만드는 것이었다. Griffiths Waite의 Daniel Curtis는 이제 코딩 에이전트가 스타일과 어느 정도의 접근성을 갖춘 컴포넌트를 금세 만들어 내므로, 정본 라이브러리 하나가 주는 이득이 예전만 못하다고 본다. 중앙에서 관리할 가치는 배포된 컴포넌트 코드가 아니라 디자인 시스템, 토큰, 가이드라인, 테스트에 있다."
+                "x": "예시 프롬프트로는 Fix Dust and Scratches, Color Restoration, Unblur 등이 있다. Lightroom은 효과를 입힌 DNG 파일을 새로 만들고 원본은 건드리지 않는다. 프리셋을 고르면 프롬프트 전문이 뜨고, 그대로 고쳐 쓸 수도 있다. 몇 번 써 본 바로는 Color Restoration의 채도가 필자가 원한 것보다 높았다."
               },
               {
                 "t": "p",
-                "x": "공유 라이브러리는 재사용, 일관성, 코드에 담긴 전문성, 단일 진실 공급원이라는 네 가지 약속을 한데 묶었다. 그중 배포된 코드가 있어야 하는 건 재사용과 코드에 담긴 전문성뿐인데, 바로 여기를 이제 AI가 거든다. 진짜 비용은 늘 유지보수였다. 버전 관리, 마이그레이션, 변형의 난립, 흐지부지되는 소유권 말이다."
+                "x": "편집이 Lightroom 안에서 끝나니 마스킹, 부분 보정, 개체 제거 같은 기본 도구도 그대로 쓴다. 이미지는 Nano Banana 2가 2K 또는 4K 해상도로 만든다. 프리미엄 기능이라 생성형 크레디트가 든다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+                "cap": "Lightroom의 Prompt to Edit 기능으로 만든 컬러 버전."
               },
               {
                 "t": "p",
-                "x": "그가 제안하는 모델은 이렇다. 토큰이 진실 공급원이 되고, 기계가 읽을 수 있는 가이드라인과 엔지니어링 원칙은 에이전트가 생성할 때 따르는 명세가 되며, 시각 회귀·접근성·토큰 준수 테스트가 결과를 검증한다. 버전 관리는 스택 위쪽, 곧 이 규칙들로 올라간다."
-              },
-              {
-                "t": "p",
-                "x": "기본값에 맡기면 모델은 밋밋한 평균으로 수렴한다. 그래서 관점이 뚜렷한 디자인 시스템이 차별화 요소가 된다. 다만 접근성, 그리고 데이터 그리드·콤보박스·날짜 선택기처럼 정말 까다로운 위젯만큼은 여전히 엄선한 공유 코드로 일부 유지할 만하다."
+                "x": "Prompt to Edit은 Lightroom 데스크톱에 Early Access 기능으로 들어오고, Adobe가 피드백을 보며 계속 손볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "共有UIライブラリは\n再利用から再生成へ",
-          "body": "モデルが標準UIを都度再生成する今、一貫性は中央のトークンや指針、テストが担う。",
-          "mini_headline": "UIライブラリは再生成の時代へ",
+          "headline": "Prompt to Edit\n古写真をAIで修復",
+          "body": "Prompt to EditはAIで古い写真を修復し、白黒のカラー化や色かぶり補正も行う。",
+          "mini_headline": "Lightroom AIが古写真を修復",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AdobeはLightroomにPrompt to Editを導入する。Adobeが用意した例のプロンプトから選ぶか、自分でプロンプトを書くことで、古い写真を修復できる。ピンぼけ画像のシャープ化、白黒写真のカラー化、強い色かぶりのある写真の調整などだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+                "cap": "2001年頃にJohn Ricardが撮影した112。Lightroom内のAdobeのPrompt to Edit機能で修復した。"
               },
               {
                 "t": "p",
-                "x": "この10年、定番の助言は全社共通のコンポーネントライブラリを作ることだった。Griffiths WaiteのDaniel Curtisは、コーディングエージェントがスタイル付きでそこそこアクセシブルなコンポーネントを素早く作れる今、唯一の正統なライブラリから得られるものはかつてより少ないと論じる。中央で管理する価値があるのは、出荷されるコンポーネントのコードではなく、デザインシステム、トークン、ガイドライン、テストだという。"
+                "x": "例のプロンプトにはFix Dust and Scratches、Color Restoration、Unblurなどがある。Lightroomは効果を適用した新しいDNGを作成し、元の画像には手を加えない。プリセットを選ぶと完全なプロンプトが表示され、調整もできる。限られたテストでは、Color Restorationは筆者の好みより彩度が高めに仕上がった。"
               },
               {
                 "t": "p",
-                "x": "共有ライブラリは、再利用、一貫性、コード化された専門知識、信頼できる唯一の情報源という4つの約束を束ねていた。出荷コードを必要としたのは再利用とコード化された専門知識だけで、まさにそこをいまAIが手助けできる。本当のコストは常に保守だった。バージョン管理、移行作業、バリアントの乱立、曖昧になっていく所有権である。"
+                "x": "編集はLightroom内で行われるため、マスク、部分補正、オブジェクト削除といった標準ツールはそのまま使える。画像はNano Banana 2により2K または4K で生成され、プレミアム機能として生成クレジットを消費する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+                "cap": "LightroomのPrompt to Edit機能で作成したカラー版。"
               },
               {
                 "t": "p",
-                "x": "提案されるモデルはこうだ。トークンを信頼できる情報源とし、機械可読なガイドラインとエンジニアリング原則をエージェントが生成の拠り所とする仕様に据え、ビジュアルリグレッション、アクセシビリティ、トークン準拠のテストで検証する。バージョン管理はスタックの上位、つまりこうしたルールの側へ移る。"
-              },
-              {
-                "t": "p",
-                "x": "デフォルトに任せればモデルは無難な平均に収束するため、明確な主張を持つデザインシステムが差別化要因になる。アクセシビリティと、データグリッド、コンボボックス、日付ピッカーのように本当に難しいウィジェットは、厳選した共有コードを一部残す理由であり続ける。"
+                "x": "Prompt to EditはLightroomデスクトップ版にEarly Access機能として導入され、Adobeがフィードバックを検討するなかで今後も変わる可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "共享UI组件库\n从可复用到可重生成",
-          "body": "模型可按需重新生成标准UI，一致性如今来自集中的令牌、规范和测试。",
-          "mini_headline": "UI组件库走向再生成",
+          "headline": "Prompt to Edit\n用AI修复老照片",
+          "body": "Lightroom的Prompt to Edit用AI修复老照片、为黑白照片上色并校正偏色。",
+          "mini_headline": "Lightroom AI修复老照片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Adobe正在Lightroom中推出Prompt to Edit。用户可以选择Adobe提供的示例提示词，或自行编写提示词来修复老照片：让失焦图像变清晰、为黑白照片上色，以及调整严重偏色的照片。"
+              },
+              {
                 "t": "img",
-                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+                "cap": "John Ricard约于2001年拍摄的112，使用Lightroom中Adobe的Prompt to Edit功能修复。"
               },
               {
                 "t": "p",
-                "x": "十年来，标准建议一直是打造全公司通用的组件库。Griffiths Waite的Daniel Curtis认为，当编码代理能快速生成带样式、大致符合无障碍要求的组件时，一套权威组件库带来的收益已不如从前。真正值得集中管理的是设计系统、令牌、规范和测试，而不是交付出去的组件代码。"
+                "x": "示例提示词包括Fix Dust and Scratches、Color Restoration和Unblur。Lightroom会生成一个应用了效果的新DNG文件，原图保持不变。选择预设后会显示完整提示词，可自行调整；在有限的测试中，Color Restoration的效果比作者期望的更饱和。"
               },
               {
                 "t": "p",
-                "x": "共享组件库捆绑了四项承诺：复用、一致性、沉淀的专业经验，以及单一事实来源。其中只有复用和沉淀的专业经验需要交付代码，而这恰恰是AI如今能帮上忙的部分。真正的账单始终是维护：版本管理、迁移、变体泛滥，以及逐渐失守的归属权。"
+                "x": "由于编辑在Lightroom内完成，蒙版、局部调整和对象移除等标准工具依然可用。图像由Nano Banana 2以2K 或4K 分辨率生成，作为高级功能会消耗生成式积分。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+                "cap": "使用Lightroom的Prompt to Edit功能生成的上色版本。"
               },
               {
                 "t": "p",
-                "x": "他提出的模式是：以令牌为事实来源，以机器可读的规范和工程原则作为代理生成所依据的规格，并通过视觉回归、无障碍和令牌一致性测试进行验证。版本管理随之上移到这些规则层面。"
-              },
-              {
-                "t": "p",
-                "x": "放任默认设置，模型会趋向平淡的平均水平，因此有鲜明主张的设计系统会成为差异化因素。无障碍，以及数据表格、组合框、日期选择器等真正棘手的组件，仍是保留部分精选共享代码的理由。"
+                "x": "Prompt to Edit以Early Access功能的形式进入Lightroom桌面版，随着Adobe评估反馈，可能还会继续调整。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bibliotecas de UI compartidas:\nde reutilizables a regenerables",
-          "body": "Con modelos que regeneran la UI estándar a demanda, la coherencia viene ahora de tokens, guías y tests centrales.",
-          "mini_headline": "Bibliotecas de UI, regeneradas",
+          "headline": "Prompt to Edit de Lightroom\nrestaura fotos antiguas",
+          "body": "Con AI, Prompt to Edit de Lightroom restaura fotos viejas, colorea el blanco y negro y corrige dominantes de color.",
+          "mini_headline": "La AI de Lightroom restaura fotos antiguas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Adobe incorpora Prompt to Edit en Lightroom. Permite restaurar una fotografía antigua eligiendo uno de los prompts de ejemplo de Adobe o escribiendo uno propio: enfocar imágenes desenfocadas, colorear fotografías en blanco y negro y ajustar fotos con una dominante de color acusada."
+              },
+              {
                 "t": "img",
-                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+                "cap": "112, fotografiada por John Ricard hacia 2001, restaurada con la función Prompt to Edit de Adobe en Lightroom."
               },
               {
                 "t": "p",
-                "x": "Durante una década, el consejo habitual fue crear una biblioteca de componentes para toda la empresa. Daniel Curtis, de Griffiths Waite, sostiene que cuando un agente de programación puede producir con rapidez un componente con estilos y más o menos accesible, una única biblioteca canónica aporta menos que antes. Lo que vale la pena centralizar es el sistema de diseño, los tokens, las guías y los tests, no el código de los componentes publicados."
+                "x": "Entre los prompts de ejemplo están Fix Dust and Scratches, Color Restoration y Unblur. Lightroom crea un nuevo DNG con el efecto aplicado y deja el original sin modificar. Al elegir un ajuste preestablecido se muestra el prompt completo, que se puede modificar; en pruebas limitadas, Color Restoration dio un resultado más saturado de lo que el autor quería."
               },
               {
                 "t": "p",
-                "x": "Una biblioteca compartida reunía cuatro promesas: reutilización, coherencia, conocimiento experto codificado y una única fuente de verdad. Solo la reutilización y el conocimiento experto codificado necesitaban código publicado, y son justo las partes en las que ahora puede ayudar la AI. El verdadero coste siempre fue el mantenimiento: versionado, migraciones, proliferación de variantes y una propiedad que se diluye."
+                "x": "Como la edición se hace en Lightroom, siguen disponibles las herramientas habituales de máscaras, ajustes locales y eliminación de objetos. Las imágenes se generan con Nano Banana 2 a 2K o 4K y, al ser una función premium, consumen créditos generativos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+                "cap": "Versión coloreada creada con la función Prompt to Edit de Lightroom."
               },
               {
                 "t": "p",
-                "x": "El modelo propuesto: los tokens como fuente de verdad; las guías legibles por máquina y los principios de ingeniería como la especificación a partir de la cual genera un agente; y la verificación mediante tests de regresión visual, accesibilidad y conformidad con los tokens. El versionado sube en la pila hasta esas reglas."
-              },
-              {
-                "t": "p",
-                "x": "Si se dejan con sus valores por defecto, los modelos convergen en una media insulsa, por lo que un sistema de diseño con criterio propio se convierte en un diferenciador. La accesibilidad y los widgets realmente difíciles, como las tablas de datos, los combobox y los selectores de fecha, siguen siendo motivos para conservar algo de código compartido y cuidado."
+                "x": "Prompt to Edit llega a Lightroom para escritorio como función Early Access y puede seguir cambiando a medida que Adobe evalúe los comentarios."
               }
             ]
           }
@@ -817,121 +621,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "공유 UI 라이브러리,\n재사용에서 재생성으로",
-          "body": "모델이 표준 UI를 즉석 재생성하면서 일관성은 토큰·가이드라인·테스트에서 나온다.",
-          "mini_headline": "UI 라이브러리, 재생성의 시대",
+          "headline": "Prompt to Edit\n옛 사진을 되살린다",
+          "body": "Prompt to Edit은 AI로 옛 사진 복원과 흑백 컬러화, 색 보정을 한다.",
+          "mini_headline": "Lightroom AI, 옛 사진 복원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Adobe가 Lightroom에 Prompt to Edit을 도입한다. Adobe가 제공하는 예시 프롬프트 가운데 하나를 고르거나 직접 프롬프트를 써서 옛 사진을 복원할 수 있다. 초점이 나간 이미지를 선명하게 하고, 흑백 사진에 색을 입히고, 색이 심하게 틀어진 사진을 보정하는 식이다."
+              },
+              {
                 "t": "img",
-                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+                "cap": "John Ricard가 2001년경 촬영한 112. Lightroom에서 Adobe의 Prompt to Edit 기능으로 복원했다."
               },
               {
                 "t": "p",
-                "x": "지난 10년간 표준적인 조언은 전사 공통 컴포넌트 라이브러리를 만들라는 것이었다. Griffiths Waite의 Daniel Curtis는 코딩 에이전트가 스타일을 입히고 어느 정도 접근성을 갖춘 컴포넌트를 빠르게 만들 수 있게 된 지금, 하나의 정본 라이브러리가 주는 이득은 예전보다 작다고 주장한다. 중앙에서 관리할 가치가 있는 것은 배포된 컴포넌트 코드가 아니라 디자인 시스템, 토큰, 가이드라인, 테스트다."
+                "x": "예시 프롬프트로는 Fix Dust and Scratches, Color Restoration, Unblur 등이 있다. Lightroom은 효과를 적용한 새 DNG 파일을 만들고 원본은 그대로 둔다. 프리셋을 고르면 전체 프롬프트가 보이고 이를 고칠 수 있다. 제한적인 테스트에서 Color Restoration은 필자가 원한 것보다 채도가 높게 나왔다."
               },
               {
                 "t": "p",
-                "x": "공유 라이브러리는 재사용, 일관성, 코드에 담긴 전문성, 단일 진실 공급원이라는 네 가지 약속을 묶어 제공했다. 이 중 배포된 코드가 필요한 것은 재사용과 코드에 담긴 전문성뿐이었고, 바로 이 부분을 이제 AI가 도울 수 있다. 진짜 비용은 늘 유지보수였다. 버전 관리, 마이그레이션, 변형의 난립, 흐지부지되는 소유권이 그렇다."
+                "x": "편집이 Lightroom 안에서 이뤄지므로 마스킹, 부분 보정, 개체 제거 같은 기본 도구를 그대로 쓸 수 있다. 이미지는 Nano Banana 2로 2K 또는 4K 해상도로 생성되며, 프리미엄 기능이어서 생성형 크레디트를 소모한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+                "cap": "Lightroom의 Prompt to Edit 기능으로 만든 컬러 버전."
               },
               {
                 "t": "p",
-                "x": "제안하는 모델은 이렇다. 토큰을 진실 공급원으로 삼고, 기계가 읽을 수 있는 가이드라인과 엔지니어링 원칙을 에이전트가 생성의 근거로 삼는 명세로 두며, 시각 회귀·접근성·토큰 준수 테스트로 검증한다. 버전 관리는 스택 위쪽, 즉 이 규칙들로 옮겨간다."
-              },
-              {
-                "t": "p",
-                "x": "기본값에 맡기면 모델은 밋밋한 평균으로 수렴하므로, 뚜렷한 관점을 가진 디자인 시스템이 차별화 요소가 된다. 접근성, 그리고 데이터 그리드·콤보박스·날짜 선택기처럼 정말 까다로운 위젯은 여전히 엄선한 공유 코드를 일부 유지할 이유가 된다."
+                "x": "Prompt to Edit은 Lightroom 데스크톱에 Early Access 기능으로 도입되며, Adobe가 피드백을 검토하면서 계속 바뀔 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "共有UIライブラリは\n再利用から再生成へ",
-          "body": "モデルが標準UIを都度再生成する今、一貫性は中央のトークンや指針、テストが担う。",
-          "mini_headline": "UIライブラリは再生成の時代へ",
+          "headline": "Prompt to Edit\n古写真をAIで修復",
+          "body": "Prompt to EditはAIで古い写真を修復し、白黒のカラー化や色かぶり補正も行う。",
+          "mini_headline": "Lightroom AIが古写真を修復",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AdobeはLightroomにPrompt to Editを導入する。Adobeが用意した例のプロンプトから選ぶか、自分でプロンプトを書くことで、古い写真を修復できる。ピンぼけ画像のシャープ化、白黒写真のカラー化、強い色かぶりのある写真の調整などだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+                "cap": "2001年頃にJohn Ricardが撮影した112。Lightroom内のAdobeのPrompt to Edit機能で修復した。"
               },
               {
                 "t": "p",
-                "x": "この10年、定番の助言は全社共通のコンポーネントライブラリを作ることだった。Griffiths WaiteのDaniel Curtisは、コーディングエージェントがスタイル付きでそこそこアクセシブルなコンポーネントを素早く作れる今、唯一の正統なライブラリから得られるものはかつてより少ないと論じる。中央で管理する価値があるのは、出荷されるコンポーネントのコードではなく、デザインシステム、トークン、ガイドライン、テストだという。"
+                "x": "例のプロンプトにはFix Dust and Scratches、Color Restoration、Unblurなどがある。Lightroomは効果を適用した新しいDNGを作成し、元の画像には手を加えない。プリセットを選ぶと完全なプロンプトが表示され、調整もできる。限られたテストでは、Color Restorationは筆者の好みより彩度が高めに仕上がった。"
               },
               {
                 "t": "p",
-                "x": "共有ライブラリは、再利用、一貫性、コード化された専門知識、信頼できる唯一の情報源という4つの約束を束ねていた。出荷コードを必要としたのは再利用とコード化された専門知識だけで、まさにそこをいまAIが手助けできる。本当のコストは常に保守だった。バージョン管理、移行作業、バリアントの乱立、曖昧になっていく所有権である。"
+                "x": "編集はLightroom内で行われるため、マスク、部分補正、オブジェクト削除といった標準ツールはそのまま使える。画像はNano Banana 2により2K または4K で生成され、プレミアム機能として生成クレジットを消費する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+                "cap": "LightroomのPrompt to Edit機能で作成したカラー版。"
               },
               {
                 "t": "p",
-                "x": "提案されるモデルはこうだ。トークンを信頼できる情報源とし、機械可読なガイドラインとエンジニアリング原則をエージェントが生成の拠り所とする仕様に据え、ビジュアルリグレッション、アクセシビリティ、トークン準拠のテストで検証する。バージョン管理はスタックの上位、つまりこうしたルールの側へ移る。"
-              },
-              {
-                "t": "p",
-                "x": "デフォルトに任せればモデルは無難な平均に収束するため、明確な主張を持つデザインシステムが差別化要因になる。アクセシビリティと、データグリッド、コンボボックス、日付ピッカーのように本当に難しいウィジェットは、厳選した共有コードを一部残す理由であり続ける。"
+                "x": "Prompt to EditはLightroomデスクトップ版にEarly Access機能として導入され、Adobeがフィードバックを検討するなかで今後も変わる可能性がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "共享UI组件库\n从可复用到可重生成",
-          "body": "模型可按需重新生成标准UI，一致性如今来自集中的令牌、规范和测试。",
-          "mini_headline": "UI组件库走向再生成",
+          "headline": "Prompt to Edit\n用AI修复老照片",
+          "body": "Lightroom的Prompt to Edit用AI修复老照片、为黑白照片上色并校正偏色。",
+          "mini_headline": "Lightroom AI修复老照片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Adobe正在Lightroom中推出Prompt to Edit。用户可以选择Adobe提供的示例提示词，或自行编写提示词来修复老照片：让失焦图像变清晰、为黑白照片上色，以及调整严重偏色的照片。"
+              },
+              {
                 "t": "img",
-                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+                "cap": "John Ricard约于2001年拍摄的112，使用Lightroom中Adobe的Prompt to Edit功能修复。"
               },
               {
                 "t": "p",
-                "x": "十年来，标准建议一直是打造全公司通用的组件库。Griffiths Waite的Daniel Curtis认为，当编码代理能快速生成带样式、大致符合无障碍要求的组件时，一套权威组件库带来的收益已不如从前。真正值得集中管理的是设计系统、令牌、规范和测试，而不是交付出去的组件代码。"
+                "x": "示例提示词包括Fix Dust and Scratches、Color Restoration和Unblur。Lightroom会生成一个应用了效果的新DNG文件，原图保持不变。选择预设后会显示完整提示词，可自行调整；在有限的测试中，Color Restoration的效果比作者期望的更饱和。"
               },
               {
                 "t": "p",
-                "x": "共享组件库捆绑了四项承诺：复用、一致性、沉淀的专业经验，以及单一事实来源。其中只有复用和沉淀的专业经验需要交付代码，而这恰恰是AI如今能帮上忙的部分。真正的账单始终是维护：版本管理、迁移、变体泛滥，以及逐渐失守的归属权。"
+                "x": "由于编辑在Lightroom内完成，蒙版、局部调整和对象移除等标准工具依然可用。图像由Nano Banana 2以2K 或4K 分辨率生成，作为高级功能会消耗生成式积分。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+                "cap": "使用Lightroom的Prompt to Edit功能生成的上色版本。"
               },
               {
                 "t": "p",
-                "x": "他提出的模式是：以令牌为事实来源，以机器可读的规范和工程原则作为代理生成所依据的规格，并通过视觉回归、无障碍和令牌一致性测试进行验证。版本管理随之上移到这些规则层面。"
-              },
-              {
-                "t": "p",
-                "x": "放任默认设置，模型会趋向平淡的平均水平，因此有鲜明主张的设计系统会成为差异化因素。无障碍，以及数据表格、组合框、日期选择器等真正棘手的组件，仍是保留部分精选共享代码的理由。"
+                "x": "Prompt to Edit以Early Access功能的形式进入Lightroom桌面版，随着Adobe评估反馈，可能还会继续调整。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bibliotecas de UI compartidas:\nde reutilizables a regenerables",
-          "body": "Con modelos que regeneran la UI estándar a demanda, la coherencia viene ahora de tokens, guías y tests centrales.",
-          "mini_headline": "Bibliotecas de UI, regeneradas",
+          "headline": "Prompt to Edit de Lightroom\nrestaura fotos antiguas",
+          "body": "Con AI, Prompt to Edit de Lightroom restaura fotos viejas, colorea el blanco y negro y corrige dominantes de color.",
+          "mini_headline": "La AI de Lightroom restaura fotos antiguas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Adobe incorpora Prompt to Edit en Lightroom. Permite restaurar una fotografía antigua eligiendo uno de los prompts de ejemplo de Adobe o escribiendo uno propio: enfocar imágenes desenfocadas, colorear fotografías en blanco y negro y ajustar fotos con una dominante de color acusada."
+              },
+              {
                 "t": "img",
-                "src": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg"
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+                "cap": "112, fotografiada por John Ricard hacia 2001, restaurada con la función Prompt to Edit de Adobe en Lightroom."
               },
               {
                 "t": "p",
-                "x": "Durante una década, el consejo habitual fue crear una biblioteca de componentes para toda la empresa. Daniel Curtis, de Griffiths Waite, sostiene que cuando un agente de programación puede producir con rapidez un componente con estilos y más o menos accesible, una única biblioteca canónica aporta menos que antes. Lo que vale la pena centralizar es el sistema de diseño, los tokens, las guías y los tests, no el código de los componentes publicados."
+                "x": "Entre los prompts de ejemplo están Fix Dust and Scratches, Color Restoration y Unblur. Lightroom crea un nuevo DNG con el efecto aplicado y deja el original sin modificar. Al elegir un ajuste preestablecido se muestra el prompt completo, que se puede modificar; en pruebas limitadas, Color Restoration dio un resultado más saturado de lo que el autor quería."
               },
               {
                 "t": "p",
-                "x": "Una biblioteca compartida reunía cuatro promesas: reutilización, coherencia, conocimiento experto codificado y una única fuente de verdad. Solo la reutilización y el conocimiento experto codificado necesitaban código publicado, y son justo las partes en las que ahora puede ayudar la AI. El verdadero coste siempre fue el mantenimiento: versionado, migraciones, proliferación de variantes y una propiedad que se diluye."
+                "x": "Como la edición se hace en Lightroom, siguen disponibles las herramientas habituales de máscaras, ajustes locales y eliminación de objetos. Las imágenes se generan con Nano Banana 2 a 2K o 4K y, al ser una función premium, consumen créditos generativos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+                "cap": "Versión coloreada creada con la función Prompt to Edit de Lightroom."
               },
               {
                 "t": "p",
-                "x": "El modelo propuesto: los tokens como fuente de verdad; las guías legibles por máquina y los principios de ingeniería como la especificación a partir de la cual genera un agente; y la verificación mediante tests de regresión visual, accesibilidad y conformidad con los tokens. El versionado sube en la pila hasta esas reglas."
-              },
-              {
-                "t": "p",
-                "x": "Si se dejan con sus valores por defecto, los modelos convergen en una media insulsa, por lo que un sistema de diseño con criterio propio se convierte en un diferenciador. La accesibilidad y los widgets realmente difíciles, como las tablas de datos, los combobox y los selectores de fecha, siguen siendo motivos para conservar algo de código compartido y cuidado."
+                "x": "Prompt to Edit llega a Lightroom para escritorio como función Early Access y puede seguir cambiando a medida que Adobe evalúe los comentarios."
               }
             ]
           }
@@ -939,15 +767,15 @@
       }
     },
     {
-      "id": "doherty-threshold-ai-ux",
+      "id": "chatgpt-sites-public-beta-hosting",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "느린 AI의 해법은 디자인\n더 싼 추론이 아니다",
-      "body": "Doherty 임계값은 답변이 아닌 확인에 걸리니 체감 속도는 프런트엔드 몫이다.",
-      "mini_headline": "느린 AI, 디자인으로 푼다",
+      "headline": "ChatGPT Sites\n공개 베타로 웹 호스팅",
+      "body": "ChatGPT가 다섯 요금제에 웹 호스팅을 열었지만 데이터 상주는 빠졌다.",
+      "mini_headline": "ChatGPT Sites, 웹사이트 호스팅",
       "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc",
+      "source": "MIXED",
+      "url": "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -955,395 +783,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-            "cap": "같은 400밀리초 기준 아래 놓인 두 컴퓨팅 시대."
+            "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
           },
           {
             "t": "p",
-            "x": "느린 AI 기능을 두고 팀들은 모델 탓을 한다. 하지만 Doherty가 1982년에 제시한 임계값은 컴퓨터가 얼마나 빨리 생각하느냐가 아니라 사람이 생각을 얼마나 오래 붙들고 있느냐의 문제였다. 대략 400밀리초 아래면 사용자는 멈춤에 맞춰 생각을 덩어리로 끊지 않는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+            "x": "ChatGPT가 다섯 개 요금제 구독자의 웹사이트, 웹 앱, 게임을 호스팅한다. 다만 OpenAI 문서에 제한이 하나 적혀 있다. “Sites는 출시 시점에 데이터 상주나 추론 상주를 지원하지 않는다.” 배포된 Sites, Site 코드, D1·R2 데이터와 파일 저장소, 생성된 결과물, 로그가 모두 여기에 해당한다."
           },
           {
             "t": "p",
-            "x": "생성형 AI는 하나의 사건을 확인과 답변 둘로 쪼갰고, 임계값은 확인 쪽에 붙었다. 인터페이스는 추론과 상관없이 50밀리초 안에 입력을 되돌려 보여줄 수 있다. 첫 토큰이 나오기 전의 침묵은 스트리밍으로도 못 메운다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-            "cap": "두 개의 시계, 두 명의 담당자, 두 가지 규칙."
+            "x": "Sites는 ChatGPT Plus, Pro, Business, Enterprise, Edu 요금제에서 공개 베타로 쓸 수 있고, 요금제별로 사용 한도가 걸린다. Site마다 R2 객체 저장소와 10 GB짜리 D1 데이터베이스 저장 공간이 붙는다. HTTP, HTTPS, WebSockets는 되지만 raw TCP는 안 된다."
           },
           {
             "t": "p",
-            "x": "AI 상호작용마다 시계 두 개가 돈다. 첫 번째 시계는 입력을 확정한 순간부터 인터페이스가 들었다는 증거를 내보일 때까지다. 목표는 100 ms, 상한은 400이고 프런트엔드가 책임진다. 두 번째 시계인 답변은 기다리는 대가로 무엇을 얻는지 솔직하게 알린다면 길어져도 괜찮다. 에이전트가 말 없이 단계를 이어 가면 사용자는 자리를 떴다가 돌아와 결과물을 그냥 받아들이고, 그렇게 human-in-the-loop 검토는 끝난다."
+            "x": "삭제한 Site는 되살릴 수 없다. Enterprise 워크스페이스는 공개 게시가 기본으로 꺼져 있고, 네트워크 접근 편집기에는 목적지 규칙을 최대 1,024개까지 넣을 수 있다. 건강 정보나 결제 카드 데이터 처리, 금융 거래 기능 같은 용도는 OpenAI가 금지한다."
           },
           {
             "t": "p",
-            "x": "저자의 조언은 이렇다. 명세 단계에서 예산을 나누고, 입력부터 되돌려 보여주고, 실제 상태를 드러내고, 현장에서 첫 탭을 측정하고, 모든 기다림에 빠져나갈 길을 두라."
+            "x": "9월 29일 릴리스 노트를 보면 Plus와 Pro의 소유자와 편집자는 게시한 Site를 ChatGPT 안에서 계속 고칠 수 있다. 7월 9일 출시 때 EEA, 스위스, UK를 뺀 지역 제한은 아직 바뀌었다는 발표가 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Fix slow AI with design,\nnot cheaper inference",
-          "body": "Doherty's threshold now applies to the acknowledgment, not the answer, so perceived speed is front-end work.",
-          "mini_headline": "Fix slow AI with design",
+          "headline": "ChatGPT Sites now hosts\nyour website in public beta",
+          "body": "ChatGPT now hosts websites, web apps and games for subscribers on five plans, but without data residency at launch.",
+          "mini_headline": "ChatGPT Sites hosts websites",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-                "cap": "Two eras of computing, held to the same 400 millisecond standard."
+                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
               },
               {
                 "t": "p",
-                "x": "Teams blame slow AI features on the model. But Doherty's 1982 threshold was never about how fast a computer thinks; it was about how long a person will hold a thought. Below roughly 400 milliseconds, users stop batching their thinking around pauses."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+                "x": "ChatGPT will host a website, a web app or a game for subscribers on five of its plans, and OpenAI's documentation puts one limit in writing: “Sites doesn't support data residency or inference residency at launch.” The exclusion covers deployed Sites, Site code, D1 and R2 data and file storage, generated artifacts, and logs."
               },
               {
                 "t": "p",
-                "x": "Generative AI split one event into two, the acknowledgment and the answer, and the threshold followed the acknowledgment. The interface can echo an input in 50 milliseconds with no dependency on inference. Streaming does not fix the silent gap before the first token."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-                "cap": "Two clocks, two owners, two sets of rules."
+                "x": "Sites is in public beta on ChatGPT Plus, Pro, Business, Enterprise and Edu plans, with plan-specific usage limits. Each Site gets 10 GB of D1 database storage alongside R2 object storage; HTTP, HTTPS and WebSockets are supported, raw TCP is not."
               },
               {
                 "t": "p",
-                "x": "Every AI interaction runs two clocks. Clock one, from commit to proof the interface heard, should target 100 ms with 400 as the ceiling and is front-end work. Clock two, the answer, can be long if it is honest about what the wait buys. In agents, silent steps make users leave and come back only to accept output, which ends human-in-the-loop review."
+                "x": "Deleting a Site is permanent. In Enterprise workspaces public publishing is off by default, and a network-access editor supports up to 1,024 destination rules. OpenAI forbids uses such as processing health or payment-card data or enabling financial transactions."
               },
               {
                 "t": "p",
-                "x": "The author's advice: split the budget in the spec, echo input first, show real state, measure the first tap in the field, and give every wait an exit."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "느린 AI의 해법은 디자인\n더 싼 추론이 아니다",
-          "body": "Doherty 임계값은 답변이 아닌 확인에 걸리니 체감 속도는 프런트엔드 몫이다.",
-          "mini_headline": "느린 AI, 디자인으로 푼다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-                "cap": "같은 400밀리초 기준 아래 놓인 두 컴퓨팅 시대."
-              },
-              {
-                "t": "p",
-                "x": "느린 AI 기능을 두고 팀들은 모델 탓을 한다. 하지만 Doherty가 1982년에 제시한 임계값은 컴퓨터가 얼마나 빨리 생각하느냐가 아니라 사람이 생각을 얼마나 오래 붙들고 있느냐의 문제였다. 대략 400밀리초 아래면 사용자는 멈춤에 맞춰 생각을 덩어리로 끊지 않는다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
-              },
-              {
-                "t": "p",
-                "x": "생성형 AI는 하나의 사건을 확인과 답변 둘로 쪼갰고, 임계값은 확인 쪽에 붙었다. 인터페이스는 추론과 상관없이 50밀리초 안에 입력을 되돌려 보여줄 수 있다. 첫 토큰이 나오기 전의 침묵은 스트리밍으로도 못 메운다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-                "cap": "두 개의 시계, 두 명의 담당자, 두 가지 규칙."
-              },
-              {
-                "t": "p",
-                "x": "AI 상호작용마다 시계 두 개가 돈다. 첫 번째 시계는 입력을 확정한 순간부터 인터페이스가 들었다는 증거를 내보일 때까지다. 목표는 100 ms, 상한은 400이고 프런트엔드가 책임진다. 두 번째 시계인 답변은 기다리는 대가로 무엇을 얻는지 솔직하게 알린다면 길어져도 괜찮다. 에이전트가 말 없이 단계를 이어 가면 사용자는 자리를 떴다가 돌아와 결과물을 그냥 받아들이고, 그렇게 human-in-the-loop 검토는 끝난다."
-              },
-              {
-                "t": "p",
-                "x": "저자의 조언은 이렇다. 명세 단계에서 예산을 나누고, 입력부터 되돌려 보여주고, 실제 상태를 드러내고, 현장에서 첫 탭을 측정하고, 모든 기다림에 빠져나갈 길을 두라."
+                "x": "September 29 release notes let Plus and Pro owners and editors continue editing a published Site in ChatGPT. A regional limit set at the July 9 launch, excluding the EEA, Switzerland and the UK, has had no announced change."
               }
             ]
           }
         },
         "ja": {
-          "headline": "遅いAIは設計で直す\n安い推論ではなく",
-          "body": "Doherty閾値は今や回答ではなく受信確認に適用され、体感速度はフロントエンドの仕事だ。",
-          "mini_headline": "遅いAIは設計で直す",
+          "headline": "ChatGPT Sites\n公開ベータでホスティング",
+          "body": "ChatGPTが五つのプランでサイトのホスティングを始めたが、データレジデンシーは未対応だ。",
+          "mini_headline": "ChatGPT Sitesがサイトをホスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-                "cap": "同じ400ミリ秒の基準が課された、コンピューティングの二つの時代。"
+                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
               },
               {
                 "t": "p",
-                "x": "チームは遅いAI機能をモデルのせいにする。だがDohertyが1982年に示した閾値は、コンピューターの思考速度の話ではなく、人がどれだけ考えを保持していられるかの話だった。およそ400ミリ秒を下回ると、ユーザーは待ち時間に合わせて思考をまとめることをやめる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+                "x": "ChatGPTは五つのプランの加入者向けに、ウェブサイト、ウェブアプリ、ゲームをホストする。OpenAIのドキュメントは一つの制約を明記している。「Sitesはローンチ時点でデータレジデンシーにも推論レジデンシーにも対応しない」。対象外となるのは、デプロイ済みのSites、Siteのコード、D1とR2のデータおよびファイルストレージ、生成された成果物、ログだ。"
               },
               {
                 "t": "p",
-                "x": "生成AIは一つの出来事を受信確認と回答の二つに分け、閾値は受信確認の側についた。インターフェースは推論に依存せず、50ミリ秒で入力をエコー表示できる。ストリーミングでは、最初のトークンが出るまでの無言の空白は解消しない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-                "cap": "二つの時計、二人の担い手、二組のルール。"
+                "x": "SitesはChatGPT Plus、Pro、Business、Enterprise、Eduの各プランで公開ベータとして提供され、プランごとに利用上限がある。各Siteには10 GB のD1データベースストレージとR2オブジェクトストレージが付く。HTTP、HTTPS、WebSocketsには対応するが、raw TCPには対応しない。"
               },
               {
                 "t": "p",
-                "x": "あらゆるAIインタラクションでは二つの時計が動いている。一つ目の時計は、入力の確定からインターフェースが受け取った証拠が示されるまでで、目標は100 ms、上限は400とされ、フロントエンドの仕事だ。二つ目の時計である回答は、待つことで何が得られるのかを正直に示すなら長くてもよい。エージェントでは無言のステップがあるとユーザーは離れ、戻ってきて出力を受け入れるだけになり、human-in-the-loopのレビューが成り立たなくなる。"
+                "x": "Siteの削除は取り消せない。Enterpriseワークスペースでは公開がデフォルトでオフになっており、ネットワークアクセスエディターは最大1,024件の宛先ルールに対応する。OpenAIは、健康情報や決済カードデータの処理、金融取引を可能にする用途などを禁じている。"
               },
               {
                 "t": "p",
-                "x": "著者の助言は、仕様の段階で予算を分けること、まず入力をエコーすること、実際の状態を示すこと、現場で最初のタップを計測すること、そしてあらゆる待ち時間に出口を用意することだ。"
+                "x": "9月29日のリリースノートにより、PlusとProのオーナーと編集者は公開済みのSiteをChatGPT上で引き続き編集できるようになった。7月9日のローンチ時に設けられた、EEA、スイス、UKを除外する地域制限については、変更の発表はない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "慢AI靠设计来解决\n而非更便宜的推理",
-          "body": "Doherty阈值如今作用于确认而非回答，感知速度因此是前端的工作。",
-          "mini_headline": "用设计解决AI慢",
+          "headline": "ChatGPT Sites\n公测开放网站托管",
+          "body": "ChatGPT为五种套餐的订阅用户托管网站、网页应用和游戏，但上线时不支持数据驻留。",
+          "mini_headline": "ChatGPT Sites托管网站",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-                "cap": "两个计算时代，遵循同一个400毫秒标准。"
+                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
               },
               {
                 "t": "p",
-                "x": "团队往往把AI功能的迟缓归咎于模型。但Doherty在1982年提出的阈值从来不是关于计算机思考有多快，而是关于人能把一个念头保持多久。低于大约400毫秒，用户就不再围绕停顿来成批组织思考。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+                "x": "ChatGPT将为五种套餐的订阅用户托管网站、网页应用或游戏，OpenAI的文档写明了一项限制：“Sites在上线时不支持数据驻留或推理驻留。”该例外涵盖已部署的Sites、Site代码、D1和R2数据与文件存储、生成的产物以及日志。"
               },
               {
                 "t": "p",
-                "x": "生成式AI把一个事件拆成了两个：确认和回答，而阈值落在了确认上。界面可以在50毫秒内回显输入，完全不依赖推理。流式输出解决不了第一个token出现前的静默空档。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-                "cap": "两个时钟，两个负责方，两套规则。"
+                "x": "Sites已在ChatGPT Plus、Pro、Business、Enterprise和Edu套餐中公测，各套餐有不同的使用限额。每个Site可获得10 GB 的D1数据库存储以及R2对象存储；支持HTTP、HTTPS和WebSockets，不支持raw TCP。"
               },
               {
                 "t": "p",
-                "x": "每次AI交互都有两个时钟在走。第一个时钟从用户提交到界面证明已收到，目标应是100 ms，上限为400，属于前端的工作。第二个时钟是回答，只要坦诚说明等待换来了什么，就可以很长。在代理场景中，静默的步骤会让用户离开，回来后只是接受输出，human-in-the-loop审核也就此终结。"
+                "x": "删除Site不可恢复。在Enterprise工作区中，公开发布默认关闭，网络访问编辑器最多支持1,024条目标规则。OpenAI禁止处理健康或支付卡数据、支持金融交易等用途。"
               },
               {
                 "t": "p",
-                "x": "作者的建议是：在规格中拆分时间预算，先回显输入，展示真实状态，在真实环境中测量首次点击，并为每一次等待提供退出方式。"
+                "x": "9月29日的发布说明显示，Plus和Pro的所有者与编辑者可以继续在ChatGPT中编辑已发布的Site。7月9日上线时设定的地区限制（不含EEA、瑞士和UK）尚未宣布任何变化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI lenta se cura con diseño,\nno con inferencia más barata",
-          "body": "El umbral de Doherty ahora rige el acuse de recibo, no la respuesta: la velocidad percibida es tarea del front-end.",
-          "mini_headline": "La AI lenta se cura con diseño",
+          "headline": "ChatGPT Sites ya aloja tu web\nen beta pública",
+          "body": "ChatGPT aloja webs, aplicaciones web y juegos en cinco planes, pero sin residencia de datos en el lanzamiento.",
+          "mini_headline": "ChatGPT Sites aloja sitios web",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-                "cap": "Dos eras de la informática, sujetas al mismo estándar de 400 milisegundos."
+                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
               },
               {
                 "t": "p",
-                "x": "Los equipos culpan al modelo de la lentitud de las funciones de AI. Pero el umbral de Doherty de 1982 nunca trató de lo rápido que piensa un ordenador, sino de cuánto tiempo sostiene una persona un pensamiento. Por debajo de unos 400 milisegundos, los usuarios dejan de agrupar su pensamiento en torno a las pausas."
+                "x": "ChatGPT alojará un sitio web, una aplicación web o un juego para los suscriptores de cinco de sus planes, y la documentación de OpenAI deja por escrito un límite: “Sites no admite residencia de datos ni residencia de inferencia en el lanzamiento”. La exclusión abarca los Sites desplegados, el código de cada Site, los datos y el almacenamiento de archivos de D1 y R2, los artefactos generados y los registros."
               },
+              {
+                "t": "p",
+                "x": "Sites está en beta pública en los planes ChatGPT Plus, Pro, Business, Enterprise y Edu, con límites de uso específicos de cada plan. Cada Site recibe 10 GB de almacenamiento de base de datos D1 junto con almacenamiento de objetos R2; se admiten HTTP, HTTPS y WebSockets, pero no TCP raw."
+              },
+              {
+                "t": "p",
+                "x": "Eliminar un Site es permanente. En los espacios de trabajo Enterprise, la publicación pública está desactivada por defecto, y un editor de acceso a la red admite hasta 1,024 reglas de destino. OpenAI prohíbe usos como el tratamiento de datos de salud o de tarjetas de pago, o la habilitación de transacciones financieras."
+              },
+              {
+                "t": "p",
+                "x": "Las notas de versión del 29 de septiembre permiten a los propietarios y editores de Plus y Pro seguir editando un Site publicado en ChatGPT. La restricción regional fijada en el lanzamiento del 9 de julio, que excluye el Espacio Económico Europeo (EEA), Suiza y el Reino Unido (UK), no ha tenido cambios anunciados."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ChatGPT Sites\n공개 베타로 웹 호스팅",
+          "body": "ChatGPT가 다섯 요금제에 웹 호스팅을 열었지만 데이터 상주는 빠졌다.",
+          "mini_headline": "ChatGPT Sites, 웹사이트 호스팅",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
               },
               {
                 "t": "p",
-                "x": "La AI generativa dividió un evento en dos, el acuse de recibo y la respuesta, y el umbral siguió al acuse de recibo. La interfaz puede reflejar una entrada en 50 milisegundos sin depender de la inferencia. El streaming no resuelve el silencio previo al primer token."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-                "cap": "Dos relojes, dos responsables, dos conjuntos de reglas."
+                "x": "ChatGPT가 다섯 개 요금제 구독자의 웹사이트, 웹 앱, 게임을 호스팅한다. 다만 OpenAI 문서에 제한이 하나 적혀 있다. “Sites는 출시 시점에 데이터 상주나 추론 상주를 지원하지 않는다.” 배포된 Sites, Site 코드, D1·R2 데이터와 파일 저장소, 생성된 결과물, 로그가 모두 여기에 해당한다."
               },
               {
                 "t": "p",
-                "x": "Toda interacción con AI corre con dos relojes. El reloj uno, desde que el usuario confirma hasta la prueba de que la interfaz lo ha oído, debería apuntar a 100 ms con 400 como techo, y es trabajo de front-end. El reloj dos, la respuesta, puede ser largo si es honesto sobre lo que compra la espera. En los agentes, los pasos silenciosos hacen que los usuarios se vayan y vuelvan solo para aceptar el resultado, lo que acaba con la revisión human-in-the-loop."
+                "x": "Sites는 ChatGPT Plus, Pro, Business, Enterprise, Edu 요금제에서 공개 베타로 쓸 수 있고, 요금제별로 사용 한도가 걸린다. Site마다 R2 객체 저장소와 10 GB짜리 D1 데이터베이스 저장 공간이 붙는다. HTTP, HTTPS, WebSockets는 되지만 raw TCP는 안 된다."
               },
               {
                 "t": "p",
-                "x": "El consejo del autor: dividir el presupuesto en la especificación, reflejar primero la entrada, mostrar el estado real, medir el primer toque en uso real y dar a cada espera una salida."
+                "x": "삭제한 Site는 되살릴 수 없다. Enterprise 워크스페이스는 공개 게시가 기본으로 꺼져 있고, 네트워크 접근 편집기에는 목적지 규칙을 최대 1,024개까지 넣을 수 있다. 건강 정보나 결제 카드 데이터 처리, 금융 거래 기능 같은 용도는 OpenAI가 금지한다."
+              },
+              {
+                "t": "p",
+                "x": "9월 29일 릴리스 노트를 보면 Plus와 Pro의 소유자와 편집자는 게시한 Site를 ChatGPT 안에서 계속 고칠 수 있다. 7월 9일 출시 때 EEA, 스위스, UK를 뺀 지역 제한은 아직 바뀌었다는 발표가 없다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "느린 AI의 해법은 디자인\n더 싼 추론이 아니다",
-          "body": "Doherty 임계값은 답변 아닌 확인에 적용돼 체감 속도는 프런트엔드 몫이다.",
-          "mini_headline": "느린 AI, 디자인으로 푼다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-                "cap": "같은 400밀리초 기준을 적용받는 두 컴퓨팅 시대."
-              },
-              {
-                "t": "p",
-                "x": "팀들은 느린 AI 기능을 모델 탓으로 돌린다. 하지만 Doherty가 1982년에 제시한 임계값은 컴퓨터가 얼마나 빨리 생각하느냐가 아니라, 사람이 생각을 얼마나 오래 붙들고 있느냐에 관한 것이었다. 대략 400밀리초 아래로 내려가면 사용자는 멈춤에 맞춰 생각을 묶어 처리하지 않게 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
-              },
-              {
-                "t": "p",
-                "x": "생성형 AI는 하나의 사건을 확인과 답변이라는 둘로 쪼갰고, 임계값은 확인 쪽을 따라갔다. 인터페이스는 추론과 무관하게 50밀리초 안에 입력을 되돌려 보여줄 수 있다. 스트리밍으로는 첫 토큰이 나오기 전의 침묵을 해결하지 못한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-                "cap": "두 개의 시계, 두 명의 담당자, 두 가지 규칙."
-              },
-              {
-                "t": "p",
-                "x": "모든 AI 상호작용에는 두 개의 시계가 돈다. 첫 번째 시계는 입력을 확정한 순간부터 인터페이스가 들었다는 증거가 나올 때까지로, 목표는 100 ms, 상한은 400이며 프런트엔드의 일이다. 두 번째 시계인 답변은 기다림으로 무엇을 얻는지 솔직하게 알린다면 길어도 된다. 에이전트에서 말 없이 진행되는 단계가 이어지면 사용자는 자리를 떴다가 돌아와 결과물을 그냥 받아들이기만 하고, 이로써 human-in-the-loop 검토는 끝난다."
-              },
-              {
-                "t": "p",
-                "x": "저자의 조언은 이렇다. 명세에서 예산을 나누고, 입력을 먼저 되돌려 보여주고, 실제 상태를 보여주고, 현장에서 첫 탭을 측정하고, 모든 기다림에 빠져나갈 길을 마련하라."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "遅いAIは設計で直す\n安い推論ではなく",
-          "body": "Doherty閾値は今や回答ではなく受信確認に適用され、体感速度はフロントエンドの仕事だ。",
-          "mini_headline": "遅いAIは設計で直す",
+          "headline": "ChatGPT Sites\n公開ベータでホスティング",
+          "body": "ChatGPTが五つのプランでサイトのホスティングを始めたが、データレジデンシーは未対応だ。",
+          "mini_headline": "ChatGPT Sitesがサイトをホスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-                "cap": "同じ400ミリ秒の基準が課された、コンピューティングの二つの時代。"
+                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
               },
               {
                 "t": "p",
-                "x": "チームは遅いAI機能をモデルのせいにする。だがDohertyが1982年に示した閾値は、コンピューターの思考速度の話ではなく、人がどれだけ考えを保持していられるかの話だった。およそ400ミリ秒を下回ると、ユーザーは待ち時間に合わせて思考をまとめることをやめる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+                "x": "ChatGPTは五つのプランの加入者向けに、ウェブサイト、ウェブアプリ、ゲームをホストする。OpenAIのドキュメントは一つの制約を明記している。「Sitesはローンチ時点でデータレジデンシーにも推論レジデンシーにも対応しない」。対象外となるのは、デプロイ済みのSites、Siteのコード、D1とR2のデータおよびファイルストレージ、生成された成果物、ログだ。"
               },
               {
                 "t": "p",
-                "x": "生成AIは一つの出来事を受信確認と回答の二つに分け、閾値は受信確認の側についた。インターフェースは推論に依存せず、50ミリ秒で入力をエコー表示できる。ストリーミングでは、最初のトークンが出るまでの無言の空白は解消しない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-                "cap": "二つの時計、二人の担い手、二組のルール。"
+                "x": "SitesはChatGPT Plus、Pro、Business、Enterprise、Eduの各プランで公開ベータとして提供され、プランごとに利用上限がある。各Siteには10 GB のD1データベースストレージとR2オブジェクトストレージが付く。HTTP、HTTPS、WebSocketsには対応するが、raw TCPには対応しない。"
               },
               {
                 "t": "p",
-                "x": "あらゆるAIインタラクションでは二つの時計が動いている。一つ目の時計は、入力の確定からインターフェースが受け取った証拠が示されるまでで、目標は100 ms、上限は400とされ、フロントエンドの仕事だ。二つ目の時計である回答は、待つことで何が得られるのかを正直に示すなら長くてもよい。エージェントでは無言のステップがあるとユーザーは離れ、戻ってきて出力を受け入れるだけになり、human-in-the-loopのレビューが成り立たなくなる。"
+                "x": "Siteの削除は取り消せない。Enterpriseワークスペースでは公開がデフォルトでオフになっており、ネットワークアクセスエディターは最大1,024件の宛先ルールに対応する。OpenAIは、健康情報や決済カードデータの処理、金融取引を可能にする用途などを禁じている。"
               },
               {
                 "t": "p",
-                "x": "著者の助言は、仕様の段階で予算を分けること、まず入力をエコーすること、実際の状態を示すこと、現場で最初のタップを計測すること、そしてあらゆる待ち時間に出口を用意することだ。"
+                "x": "9月29日のリリースノートにより、PlusとProのオーナーと編集者は公開済みのSiteをChatGPT上で引き続き編集できるようになった。7月9日のローンチ時に設けられた、EEA、スイス、UKを除外する地域制限については、変更の発表はない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "慢AI靠设计来解决\n而非更便宜的推理",
-          "body": "Doherty阈值如今作用于确认而非回答，感知速度因此是前端的工作。",
-          "mini_headline": "用设计解决AI慢",
+          "headline": "ChatGPT Sites\n公测开放网站托管",
+          "body": "ChatGPT为五种套餐的订阅用户托管网站、网页应用和游戏，但上线时不支持数据驻留。",
+          "mini_headline": "ChatGPT Sites托管网站",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-                "cap": "两个计算时代，遵循同一个400毫秒标准。"
+                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
               },
               {
                 "t": "p",
-                "x": "团队往往把AI功能的迟缓归咎于模型。但Doherty在1982年提出的阈值从来不是关于计算机思考有多快，而是关于人能把一个念头保持多久。低于大约400毫秒，用户就不再围绕停顿来成批组织思考。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+                "x": "ChatGPT将为五种套餐的订阅用户托管网站、网页应用或游戏，OpenAI的文档写明了一项限制：“Sites在上线时不支持数据驻留或推理驻留。”该例外涵盖已部署的Sites、Site代码、D1和R2数据与文件存储、生成的产物以及日志。"
               },
               {
                 "t": "p",
-                "x": "生成式AI把一个事件拆成了两个：确认和回答，而阈值落在了确认上。界面可以在50毫秒内回显输入，完全不依赖推理。流式输出解决不了第一个token出现前的静默空档。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-                "cap": "两个时钟，两个负责方，两套规则。"
+                "x": "Sites已在ChatGPT Plus、Pro、Business、Enterprise和Edu套餐中公测，各套餐有不同的使用限额。每个Site可获得10 GB 的D1数据库存储以及R2对象存储；支持HTTP、HTTPS和WebSockets，不支持raw TCP。"
               },
               {
                 "t": "p",
-                "x": "每次AI交互都有两个时钟在走。第一个时钟从用户提交到界面证明已收到，目标应是100 ms，上限为400，属于前端的工作。第二个时钟是回答，只要坦诚说明等待换来了什么，就可以很长。在代理场景中，静默的步骤会让用户离开，回来后只是接受输出，human-in-the-loop审核也就此终结。"
+                "x": "删除Site不可恢复。在Enterprise工作区中，公开发布默认关闭，网络访问编辑器最多支持1,024条目标规则。OpenAI禁止处理健康或支付卡数据、支持金融交易等用途。"
               },
               {
                 "t": "p",
-                "x": "作者的建议是：在规格中拆分时间预算，先回显输入，展示真实状态，在真实环境中测量首次点击，并为每一次等待提供退出方式。"
+                "x": "9月29日的发布说明显示，Plus和Pro的所有者与编辑者可以继续在ChatGPT中编辑已发布的Site。7月9日上线时设定的地区限制（不含EEA、瑞士和UK）尚未宣布任何变化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI lenta se cura con diseño,\nno con inferencia más barata",
-          "body": "El umbral de Doherty ahora rige el acuse de recibo, no la respuesta: la velocidad percibida es tarea del front-end.",
-          "mini_headline": "La AI lenta se cura con diseño",
+          "headline": "ChatGPT Sites ya aloja tu web\nen beta pública",
+          "body": "ChatGPT aloja webs, aplicaciones web y juegos en cinco planes, pero sin residencia de datos en el lanzamiento.",
+          "mini_headline": "ChatGPT Sites aloja sitios web",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-                "cap": "Dos eras de la informática, sujetas al mismo estándar de 400 milisegundos."
+                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
               },
               {
                 "t": "p",
-                "x": "Los equipos culpan al modelo de la lentitud de las funciones de AI. Pero el umbral de Doherty de 1982 nunca trató de lo rápido que piensa un ordenador, sino de cuánto tiempo sostiene una persona un pensamiento. Por debajo de unos 400 milisegundos, los usuarios dejan de agrupar su pensamiento en torno a las pausas."
+                "x": "ChatGPT alojará un sitio web, una aplicación web o un juego para los suscriptores de cinco de sus planes, y la documentación de OpenAI deja por escrito un límite: “Sites no admite residencia de datos ni residencia de inferencia en el lanzamiento”. La exclusión abarca los Sites desplegados, el código de cada Site, los datos y el almacenamiento de archivos de D1 y R2, los artefactos generados y los registros."
               },
+              {
+                "t": "p",
+                "x": "Sites está en beta pública en los planes ChatGPT Plus, Pro, Business, Enterprise y Edu, con límites de uso específicos de cada plan. Cada Site recibe 10 GB de almacenamiento de base de datos D1 junto con almacenamiento de objetos R2; se admiten HTTP, HTTPS y WebSockets, pero no TCP raw."
+              },
+              {
+                "t": "p",
+                "x": "Eliminar un Site es permanente. En los espacios de trabajo Enterprise, la publicación pública está desactivada por defecto, y un editor de acceso a la red admite hasta 1,024 reglas de destino. OpenAI prohíbe usos como el tratamiento de datos de salud o de tarjetas de pago, o la habilitación de transacciones financieras."
+              },
+              {
+                "t": "p",
+                "x": "Las notas de versión del 29 de septiembre permiten a los propietarios y editores de Plus y Pro seguir editando un Site publicado en ChatGPT. La restricción regional fijada en el lanzamiento del 9 de julio, que excluye el Espacio Económico Europeo (EEA), Suiza y el Reino Unido (UK), no ha tenido cambios anunciados."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ChatGPT Sites\n공개 베타로 웹 호스팅",
+          "body": "ChatGPT가 다섯 요금제에 웹 호스팅을 열었지만 데이터 상주는 빠졌다.",
+          "mini_headline": "ChatGPT Sites, 웹사이트 호스팅",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:945/1*nVaZnqLtzMJ-VM-QzBca-w.png"
+                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
               },
               {
                 "t": "p",
-                "x": "La AI generativa dividió un evento en dos, el acuse de recibo y la respuesta, y el umbral siguió al acuse de recibo. La interfaz puede reflejar una entrada en 50 milisegundos sin depender de la inferencia. El streaming no resuelve el silencio previo al primer token."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*nkVW8Lun8sMUrs1YKsd9lQ.png",
-                "cap": "Dos relojes, dos responsables, dos conjuntos de reglas."
+                "x": "ChatGPT가 다섯 개 요금제 구독자의 웹사이트, 웹 앱, 게임을 호스팅한다. OpenAI 문서는 한 가지 제한을 명시했다. “Sites는 출시 시점에 데이터 상주나 추론 상주를 지원하지 않는다.” 이 제외 대상에는 배포된 Sites, Site 코드, D1·R2 데이터와 파일 저장소, 생성된 결과물, 로그가 포함된다."
               },
               {
                 "t": "p",
-                "x": "Toda interacción con AI corre con dos relojes. El reloj uno, desde que el usuario confirma hasta la prueba de que la interfaz lo ha oído, debería apuntar a 100 ms con 400 como techo, y es trabajo de front-end. El reloj dos, la respuesta, puede ser largo si es honesto sobre lo que compra la espera. En los agentes, los pasos silenciosos hacen que los usuarios se vayan y vuelvan solo para aceptar el resultado, lo que acaba con la revisión human-in-the-loop."
+                "x": "Sites는 ChatGPT Plus, Pro, Business, Enterprise, Edu 요금제에서 공개 베타로 제공되며, 요금제별 사용 한도가 있다. 각 Site에는 R2 객체 저장소와 함께 10 GB의 D1 데이터베이스 저장 공간이 주어진다. HTTP, HTTPS, WebSockets는 지원하지만 raw TCP는 지원하지 않는다."
               },
               {
                 "t": "p",
-                "x": "El consejo del autor: dividir el presupuesto en la especificación, reflejar primero la entrada, mostrar el estado real, medir el primer toque en uso real y dar a cada espera una salida."
+                "x": "Site 삭제는 되돌릴 수 없다. Enterprise 워크스페이스에서는 공개 게시가 기본적으로 꺼져 있고, 네트워크 접근 편집기는 최대 1,024개의 목적지 규칙을 지원한다. OpenAI는 건강 정보나 결제 카드 데이터 처리, 금융 거래 기능 등의 용도를 금지한다."
+              },
+              {
+                "t": "p",
+                "x": "9월 29일 릴리스 노트에 따라 Plus와 Pro의 소유자와 편집자는 게시된 Site를 ChatGPT 안에서 계속 편집할 수 있다. 7월 9일 출시 때 EEA, 스위스, UK를 제외한 지역 제한은 변경 발표가 없었다."
               }
             ]
           }
@@ -1351,165 +1079,225 @@
       }
     },
     {
-      "id": "ideogram45-region-edit",
+      "id": "premiere-android-free-firefly",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ideogram 4.5,\n일부만 고치고 나머지 유지",
-      "body": "Ideogram 4.5는 고른 영역만 고치며 장당 0.8센트부터 2K로 출력한다.",
-      "mini_headline": "Ideogram 4.5, 영역 편집",
-      "tool": "KeyShot",
-      "source": "The Decoder",
-      "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
-      "accent": "#eb367f",
-      "motif": "sphere",
+      "headline": "무료 Premiere\nAndroid에 AI 편집",
+      "body": "무료 Premiere에 Enhance Audio와 Firefly 도구가 담겼다.",
+      "mini_headline": "Premiere, Android에서 무료",
+      "tool": "AI Workflow",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
+      "accent": "#ff5a4d",
+      "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+            "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+            "cap": "Premiere mobile은 일상 브이로그부터 튜토리얼, 팟캐스트 클립, 소셜 콘텐츠까지 무엇이든 만들고 편집하는 앱이다 (Image credit: Adobe)"
           },
           {
             "t": "p",
-            "x": "Ideogram은 새 모델 Ideogram 4.5가 AI 이미지 편집의 가장 큰 골칫거리 중 하나를 해결한다고 밝혔다. 이미지 일부를 편집하면 나머지는 그대로여야 한다. 누군가의 옷을 바꿨다면 체형과 배경은 남아 있어야 한다는 얘기다. GPT-Image 2.5나 Nano Banana 같은 선두 모델도 이 부분이 크게 나아졌지만, 편집을 여러 번 거치면 아직 아티팩트가 생기기 쉽다. 회사는 Ideogram 4.5가 지시한 부분만 건드린다고 주장한다. 주요 용도로는 제품 사진, 인테리어 디자인, 사진 복원, 이미지 속 텍스트 편집을 꼽았다. 초기 테스터들은 편집을 거듭해도 일관성이 뛰어나다고 확인했다."
-          },
-          {
-            "t": "video",
-            "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+            "x": "지난해 iPhone에 먼저 나온 Premiere mobile이 Android에도 나왔다. 무료다. Creative Cloud 구독이 필요 없고 기본 편집이라면 Adobe 계정조차 없어도 된다. 워터마크나 광고, 업그레이드 권유도 없다."
           },
           {
             "t": "p",
-            "x": "Ideogram 4.5의 품질 등급은 장당 0.8센트부터 22센트까지 네 가지이고, 모두 네이티브 2K 해상도다. 지금 Ideogram 플랫폼과 API에서 쓸 수 있으며, 파트너로는 Picsart, Runway, Pika, Leonardo AI가 있다. Ideogram은 오픈 웨이트 버전도 곧 내놓겠다고 밝혔다."
+            "x": "무료 버전에도 멀티트랙 타임라인, 프레임 단위 정밀 편집, 앱 안에서 하는 보이스오버 녹음이 있다. 탭 한 번에 배경 소음을 걷어내는 Enhance Audio도 들어 있다. 크리에이터가 만든 템플릿과 무제한 4K 내보내기까지 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+            "cap": "AI 기반(AI-powered) Enhance Audio는 잡음 섞인 녹음을 쉽게 정리해 대사를 더 또렷하게 만든다 (Image credit: Adobe)"
+          },
+          {
+            "t": "p",
+            "x": "Generative Fill, Image-to-Video, Generate Sound Effects 같은 Firefly 기반(Firefly-powered) 기능에는 따로 사야 하는 생성형 크레디트가 든다. 앱을 쓰려면 Android 13 이상, RAM 5GB 이상이 필요하다. 키프레임, 비트 감지, Adobe Fonts, 향상된 자막, 데스크톱에서 프로젝트 이어 하기에는 아직 “곧 출시” 표시가 붙어 있다."
+          },
+          {
+            "t": "p",
+            "x": "무료 Premiere는 신뢰부터 얻고 돈은 나중에 받거나, 어쩌면 끝내 받지 않는다. 휴대폰으로 시작하는 세대의 크리에이터를 Adobe가 대할 방식은 바로 이것이라고 필자는 주장한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ideogram 4.5 edits one region\nand keeps the rest intact",
-          "body": "Ideogram says its 4.5 model edits only chosen areas, with native 2K output from 0.8 cents per image.",
-          "mini_headline": "Ideogram 4.5 edits by region",
+          "headline": "Free Premiere on Android\nbrings AI video editing",
+          "body": "Adobe's free Premiere for Android pairs Enhance Audio with credit-based Firefly tools like Generative Fill.",
+          "mini_headline": "Premiere goes free on Android",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+                "cap": "Premiere mobile is an app for creating and editing everything from day-in-the-life vlogs to tutorials, podcast clips and social content (Image credit: Adobe)"
               },
               {
                 "t": "p",
-                "x": "Ideogram says its new model Ideogram 4.5 solves one of AI image editing's biggest headaches. When you edit part of an image, the rest shouldn't change. Swap someone's outfit, and their body shape and background should stay intact. Leading models like GPT-Image 2.5 and Nano Banana have gotten much better at this, but they still tend to produce artifacts, especially after multiple edits. Ideogram 4.5 only touches what the user tells it to, the company claims. Target use cases include product photography, interior design, photo restoration, and in-image text editing. Early testers confirm strong consistency across edits."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+                "x": "Premiere mobile, which launched on iPhone last year, has arrived on Android, and it's free. You don't need a Creative Cloud subscription, or for basic editing even an Adobe account, and there are no watermarks, ads or upgrade prompts."
               },
               {
                 "t": "p",
-                "x": "Ideogram 4.5 offers four quality tiers ranging from 0.8 to 22 cents per image, all at native 2K resolution. The model is available now on the Ideogram platform and through the API. Partners include Picsart, Runway, Pika, and Leonardo AI. Ideogram also says an open-weight release is coming soon."
+                "x": "The free tier includes a multi-track timeline, frame-accurate editing, in-app voiceover recording and Enhance Audio, which cleans up background noise in a single tap, plus creator-made templates and unlimited 4K exports."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+                "cap": "AI-powered Enhance Audio makes it easy to clean up noisy recordings and improve the clarity of dialogue (Image credit: Adobe)"
+              },
+              {
+                "t": "p",
+                "x": "Firefly-powered features such as Generative Fill, Image-to-Video and Generate Sound Effects run on generative credits, which you'll have to buy. The app requires Android 13 or later and at least 5GB of RAM, and keyframes, beat detection, Adobe Fonts, enhanced captions and continuing a project on desktop are marked “coming soon”."
+              },
+              {
+                "t": "p",
+                "x": "Free Premiere earns trust first and asks for money later, or maybe never, which the author argues is exactly how Adobe should treat a generation of creators starting out on phones."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ideogram 4.5,\n일부만 고치고 나머지 유지",
-          "body": "Ideogram 4.5는 고른 영역만 고치며 장당 0.8센트부터 2K로 출력한다.",
-          "mini_headline": "Ideogram 4.5, 영역 편집",
+          "headline": "무료 Premiere\nAndroid에 AI 편집",
+          "body": "무료 Premiere에 Enhance Audio와 Firefly 도구가 담겼다.",
+          "mini_headline": "Premiere, Android에서 무료",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+                "cap": "Premiere mobile은 일상 브이로그부터 튜토리얼, 팟캐스트 클립, 소셜 콘텐츠까지 무엇이든 만들고 편집하는 앱이다 (Image credit: Adobe)"
               },
               {
                 "t": "p",
-                "x": "Ideogram은 새 모델 Ideogram 4.5가 AI 이미지 편집의 가장 큰 골칫거리 중 하나를 해결한다고 밝혔다. 이미지 일부를 편집하면 나머지는 그대로여야 한다. 누군가의 옷을 바꿨다면 체형과 배경은 남아 있어야 한다는 얘기다. GPT-Image 2.5나 Nano Banana 같은 선두 모델도 이 부분이 크게 나아졌지만, 편집을 여러 번 거치면 아직 아티팩트가 생기기 쉽다. 회사는 Ideogram 4.5가 지시한 부분만 건드린다고 주장한다. 주요 용도로는 제품 사진, 인테리어 디자인, 사진 복원, 이미지 속 텍스트 편집을 꼽았다. 초기 테스터들은 편집을 거듭해도 일관성이 뛰어나다고 확인했다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+                "x": "지난해 iPhone에 먼저 나온 Premiere mobile이 Android에도 나왔다. 무료다. Creative Cloud 구독이 필요 없고 기본 편집이라면 Adobe 계정조차 없어도 된다. 워터마크나 광고, 업그레이드 권유도 없다."
               },
               {
                 "t": "p",
-                "x": "Ideogram 4.5의 품질 등급은 장당 0.8센트부터 22센트까지 네 가지이고, 모두 네이티브 2K 해상도다. 지금 Ideogram 플랫폼과 API에서 쓸 수 있으며, 파트너로는 Picsart, Runway, Pika, Leonardo AI가 있다. Ideogram은 오픈 웨이트 버전도 곧 내놓겠다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ideogram 4.5 edita una región\ny mantiene intacto el resto",
-          "body": "Ideogram dice que su modelo 4.5 edita solo zonas elegidas, con salida nativa en 2K desde 0.8 centavos por imagen.",
-          "mini_headline": "Ideogram 4.5 edita por regiones",
-          "full": {
-            "mode": "full",
-            "blocks": [
+                "x": "무료 버전에도 멀티트랙 타임라인, 프레임 단위 정밀 편집, 앱 안에서 하는 보이스오버 녹음이 있다. 탭 한 번에 배경 소음을 걷어내는 Enhance Audio도 들어 있다. 크리에이터가 만든 템플릿과 무제한 4K 내보내기까지 된다."
+              },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+                "cap": "AI 기반(AI-powered) Enhance Audio는 잡음 섞인 녹음을 쉽게 정리해 대사를 더 또렷하게 만든다 (Image credit: Adobe)"
               },
               {
                 "t": "p",
-                "x": "Ideogram afirma que su nuevo modelo, Ideogram 4.5, resuelve uno de los mayores quebraderos de cabeza de la edición de imágenes con AI. Al editar una parte de una imagen, el resto no debería cambiar. Si se cambia la ropa de una persona, su complexión y el fondo deberían permanecer intactos. Modelos líderes como GPT-Image 2.5 y Nano Banana han mejorado mucho en esto, pero todavía tienden a producir artefactos, sobre todo tras varias ediciones. Según la empresa, Ideogram 4.5 solo modifica lo que el usuario le indica. Entre los usos previstos están la fotografía de producto, el diseño de interiores, la restauración de fotos y la edición de texto dentro de la imagen. Los primeros probadores confirman una gran coherencia entre ediciones."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+                "x": "Generative Fill, Image-to-Video, Generate Sound Effects 같은 Firefly 기반(Firefly-powered) 기능에는 따로 사야 하는 생성형 크레디트가 든다. 앱을 쓰려면 Android 13 이상, RAM 5GB 이상이 필요하다. 키프레임, 비트 감지, Adobe Fonts, 향상된 자막, 데스크톱에서 프로젝트 이어 하기에는 아직 “곧 출시” 표시가 붙어 있다."
               },
               {
                 "t": "p",
-                "x": "Ideogram 4.5 ofrece cuatro niveles de calidad, de 0.8 a 22 centavos por imagen, todos con resolución nativa 2K. El modelo ya está disponible en la plataforma de Ideogram y a través de la API. Entre sus socios figuran Picsart, Runway, Pika y Leonardo AI. Ideogram también afirma que pronto habrá una versión open-weight."
+                "x": "무료 Premiere는 신뢰부터 얻고 돈은 나중에 받거나, 어쩌면 끝내 받지 않는다. 휴대폰으로 시작하는 세대의 크리에이터를 Adobe가 대할 방식은 바로 이것이라고 필자는 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ideogram 4.5\n一部だけ編集し他は保持",
-          "body": "Ideogram 4.5は指定領域のみ編集し、1枚0.8セントから 2K で出力する。",
-          "mini_headline": "Ideogram 4.5、領域単位で編集",
+          "headline": "無料のPremiere\nAndroidでAI編集",
+          "body": "無料のPremiereはEnhance Audioとクレジット制のFireflyを備える。",
+          "mini_headline": "PremiereがAndroidで無料に",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+                "cap": "Premiere mobileは、日常のVlogからチュートリアル、ポッドキャストのクリップ、ソーシャル向けコンテンツまで、あらゆるものを作成・編集できるアプリだ(Image credit: Adobe)"
               },
               {
                 "t": "p",
-                "x": "Ideogramは、新モデルIdeogram 4.5がAI画像編集の最大の悩みの一つを解決すると述べている。画像の一部を編集しても、残りは変わるべきではない。人物の服を替えても、体形や背景はそのまま保たれるべきだ。GPT-Image 2.5やNano Bananaといった主要モデルはこの点で大きく改善したが、特に複数回の編集後にはまだアーティファクトが生じやすい。同社によると、Ideogram 4.5はユーザーが指示した部分にしか手を加えない。想定用途は商品写真、インテリアデザイン、写真修復、画像内テキストの編集などだ。初期テスターも編集間の一貫性の高さを認めている。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+                "x": "昨年iPhone向けに登場したPremiere mobileがAndroidにも登場し、しかも無料だ。Creative Cloudのサブスクリプションは不要で、基本的な編集ならAdobeアカウントすらいらない。透かし、広告、アップグレードの勧誘もない。"
               },
               {
                 "t": "p",
-                "x": "Ideogram 4.5には1枚あたり0.8セントから22セントまでの四つの品質ティアがあり、いずれもネイティブ 2K 解像度で出力する。モデルはIdeogramのプラットフォームとAPIですでに利用できる。パートナーにはPicsart、Runway、Pika、Leonardo AIが名を連ねる。Ideogramはオープンウェイト版も近く公開するとしている。"
+                "x": "無料版には、マルチトラックのタイムライン、フレーム単位の正確な編集、アプリ内でのボイスオーバー録音、ワンタップで背景ノイズを除去するEnhance Audioが含まれる。クリエイター制作のテンプレートや無制限の4K 書き出しも使える。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+                "cap": "AI搭載(AI-powered)のEnhance Audioで、ノイズの多い録音を手軽に整え、セリフを聞き取りやすくできる(Image credit: Adobe)"
+              },
+              {
+                "t": "p",
+                "x": "Generative Fill、Image-to-Video、Generate Sound EffectsといったFirefly搭載(Firefly-powered)の機能は、別途購入が必要な生成クレジットで動く。アプリにはAndroid 13以降と5GB 以上のRAMが必要だ。キーフレーム、ビート検出、Adobe Fonts、強化されたキャプション、デスクトップでのプロジェクト継続は「近日公開」と表示されている。"
+              },
+              {
+                "t": "p",
+                "x": "無料のPremiereはまず信頼を得て、お金を求めるのは後回し、あるいは求めないかもしれない。筆者は、スマートフォンから始める世代のクリエイターにAdobeが取るべき姿勢はまさにこれだと主張する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ideogram 4.5\n只改选区其余不动",
-          "body": "Ideogram称其4.5模型只编辑选定区域，原生 2K 输出，每张图低至0.8美分。",
-          "mini_headline": "Ideogram 4.5按区域编辑",
+          "headline": "免费版Premiere\n带来Android AI剪辑",
+          "body": "免费Premiere集成Enhance Audio与按积分计费的Firefly工具。",
+          "mini_headline": "Premiere在Android上免费",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+                "cap": "Premiere mobile是一款可创作和编辑各类内容的应用，从日常vlog到教程、播客片段和社交内容皆可（Image credit: Adobe）"
               },
               {
                 "t": "p",
-                "x": "Ideogram表示，其新模型Ideogram 4.5解决了AI图像编辑中最令人头疼的问题之一：编辑图像的一部分时，其余部分不应发生变化。给人物换装时，体型和背景都应保持原样。GPT-Image 2.5和Nano Banana等主流模型在这方面已有明显进步，但仍容易产生伪影，尤其是在多次编辑之后。该公司称，Ideogram 4.5只会改动用户指定的部分。目标用途包括产品摄影、室内设计、照片修复以及图内文字编辑。早期测试者也证实其在多次编辑间保持了很强的一致性。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+                "x": "去年在iPhone上推出的Premiere mobile现已登陆Android，而且免费。无需Creative Cloud订阅，基础编辑甚至不需要Adobe账户，也没有水印、广告或升级提示。"
               },
               {
                 "t": "p",
-                "x": "Ideogram 4.5提供四个质量档位，每张图价格从0.8美分到22美分不等，全部以原生 2K 分辨率输出。该模型现已在Ideogram平台和API上线。合作伙伴包括Picsart、Runway、Pika和Leonardo AI。Ideogram还表示，开放权重版本即将推出。"
+                "x": "免费版包括多轨时间线、逐帧精确剪辑、应用内配音录制，以及一键清除背景噪音的Enhance Audio，另有创作者制作的模板和无限次4K 导出。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+                "cap": "AI驱动（AI-powered）的Enhance Audio可轻松清理嘈杂录音，让对白更清晰（Image credit: Adobe）"
+              },
+              {
+                "t": "p",
+                "x": "Generative Fill、Image-to-Video和Generate Sound Effects等由Firefly驱动（Firefly-powered）的功能需消耗生成式积分，且积分需另行购买。该应用要求Android 13或更高版本以及至少5GB RAM。关键帧、节拍检测、Adobe Fonts、增强字幕以及在桌面端继续项目等功能标注为“即将推出”。"
+              },
+              {
+                "t": "p",
+                "x": "免费的Premiere先赢得信任，之后再收费，甚至可能永远不收。作者认为，这正是Adobe对待从手机起步的一代创作者应有的方式。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Premiere gratis en Android\ntrae edición de video con AI",
+          "body": "El Premiere gratuito para Android une Enhance Audio y herramientas Firefly por créditos, como Generative Fill.",
+          "mini_headline": "Premiere llega gratis a Android",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+                "cap": "Premiere mobile es una app para crear y editar de todo, desde vlogs del día a día hasta tutoriales, clips de pódcast y contenido para redes sociales (Image credit: Adobe)"
+              },
+              {
+                "t": "p",
+                "x": "Premiere mobile, que llegó a iPhone el año pasado, ya está en Android y es gratis. No hace falta una suscripción a Creative Cloud ni, para la edición básica, siquiera una cuenta de Adobe, y no hay marcas de agua, anuncios ni avisos para actualizar."
+              },
+              {
+                "t": "p",
+                "x": "La versión gratuita incluye una línea de tiempo multipista, edición con precisión de fotograma, grabación de voz en off dentro de la app y Enhance Audio, que elimina el ruido de fondo con un solo toque, además de plantillas hechas por creadores y exportaciones 4K ilimitadas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+                "cap": "Enhance Audio, con tecnología AI (AI-powered), facilita limpiar grabaciones ruidosas y mejorar la claridad de los diálogos (Image credit: Adobe)"
+              },
+              {
+                "t": "p",
+                "x": "Las funciones Firefly-powered (basadas en Firefly), como Generative Fill, Image-to-Video y Generate Sound Effects, consumen créditos generativos que hay que comprar. La app requiere Android 13 o posterior y al menos 5GB de RAM; los fotogramas clave, la detección de ritmo, Adobe Fonts, los subtítulos mejorados y continuar un proyecto en el escritorio aparecen como “próximamente”."
+              },
+              {
+                "t": "p",
+                "x": "El Premiere gratuito se gana primero la confianza y pide dinero después, o quizá nunca, lo que según el autor es exactamente como Adobe debería tratar a una generación de creadores que empieza con el teléfono."
               }
             ]
           }
@@ -1517,105 +1305,457 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ideogram 4.5,\n일부만 고치고 나머지 유지",
-          "body": "Ideogram 4.5는 고른 영역만 편집하며 장당 0.8센트부터 2K로 출력한다.",
-          "mini_headline": "Ideogram 4.5, 영역 편집",
+          "headline": "무료 Premiere\nAndroid에 AI 편집",
+          "body": "무료 Premiere에 Enhance Audio와 Firefly 도구가 담겼다.",
+          "mini_headline": "Premiere, Android에서 무료",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+                "cap": "Premiere mobile은 일상 브이로그부터 튜토리얼, 팟캐스트 클립, 소셜 콘텐츠까지 무엇이든 만들고 편집하는 앱이다 (Image credit: Adobe)"
               },
               {
                 "t": "p",
-                "x": "Ideogram은 새 모델 Ideogram 4.5가 AI 이미지 편집의 가장 큰 골칫거리 중 하나를 해결한다고 밝혔다. 이미지 일부를 편집할 때 나머지는 바뀌지 않아야 한다. 누군가의 옷을 바꾸면 체형과 배경은 그대로 남아 있어야 한다. GPT-Image 2.5와 Nano Banana 같은 선두 모델도 이 부분에서 크게 나아졌지만, 특히 여러 번 편집하면 여전히 아티팩트가 생기기 쉽다. 회사는 Ideogram 4.5가 사용자가 지시한 부분만 건드린다고 주장한다. 주요 용도로는 제품 사진, 인테리어 디자인, 사진 복원, 이미지 속 텍스트 편집을 꼽는다. 초기 테스터들은 편집을 거듭해도 일관성이 뛰어나다고 확인했다."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+                "x": "지난해 iPhone에 먼저 나온 Premiere mobile이 Android에도 나왔고, 무료다. Creative Cloud 구독은 필요 없고, 기본 편집이라면 Adobe 계정조차 없어도 된다. 워터마크나 광고, 업그레이드 권유도 없다."
               },
               {
                 "t": "p",
-                "x": "Ideogram 4.5는 장당 0.8센트부터 22센트까지 네 가지 품질 등급을 제공하며, 모두 네이티브 2K 해상도다. 모델은 지금 Ideogram 플랫폼과 API로 이용할 수 있다. 파트너로는 Picsart, Runway, Pika, Leonardo AI가 있다. Ideogram은 오픈 웨이트 버전도 곧 공개할 예정이라고 밝혔다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ideogram 4.5 edita una región\ny mantiene intacto el resto",
-          "body": "Ideogram dice que su modelo 4.5 edita solo zonas elegidas, con salida nativa en 2K desde 0.8 centavos por imagen.",
-          "mini_headline": "Ideogram 4.5 edita por regiones",
-          "full": {
-            "mode": "full",
-            "blocks": [
+                "x": "무료 버전에는 멀티트랙 타임라인, 프레임 단위의 정밀 편집, 앱 내 보이스오버 녹음, 한 번의 탭으로 배경 소음을 정리하는 Enhance Audio가 들어 있다. 크리에이터가 만든 템플릿과 무제한 4K 내보내기도 지원한다."
+              },
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+                "cap": "AI 기반(AI-powered) Enhance Audio로 잡음 섞인 녹음을 쉽게 정리하고 대사를 더 또렷하게 만들 수 있다 (Image credit: Adobe)"
               },
               {
                 "t": "p",
-                "x": "Ideogram afirma que su nuevo modelo, Ideogram 4.5, resuelve uno de los mayores quebraderos de cabeza de la edición de imágenes con AI. Al editar una parte de una imagen, el resto no debería cambiar. Si se cambia la ropa de una persona, su complexión y el fondo deberían permanecer intactos. Modelos líderes como GPT-Image 2.5 y Nano Banana han mejorado mucho en esto, pero todavía tienden a producir artefactos, sobre todo tras varias ediciones. Según la empresa, Ideogram 4.5 solo modifica lo que el usuario le indica. Entre los usos previstos están la fotografía de producto, el diseño de interiores, la restauración de fotos y la edición de texto dentro de la imagen. Los primeros probadores confirman una gran coherencia entre ediciones."
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+                "x": "Generative Fill, Image-to-Video, Generate Sound Effects 같은 Firefly 기반(Firefly-powered) 기능은 따로 구매해야 하는 생성형 크레디트를 쓴다. 앱은 Android 13 이상, RAM 5GB 이상을 요구한다. 키프레임, 비트 감지, Adobe Fonts, 향상된 자막, 데스크톱에서 프로젝트 이어 하기는 “곧 출시”로 표시돼 있다."
               },
               {
                 "t": "p",
-                "x": "Ideogram 4.5 ofrece cuatro niveles de calidad, de 0.8 a 22 centavos por imagen, todos con resolución nativa 2K. El modelo ya está disponible en la plataforma de Ideogram y a través de la API. Entre sus socios figuran Picsart, Runway, Pika y Leonardo AI. Ideogram también afirma que pronto habrá una versión open-weight."
+                "x": "무료 Premiere는 먼저 신뢰를 얻고 돈은 나중에, 어쩌면 끝내 요구하지 않는다. 필자는 이것이야말로 휴대폰으로 시작하는 세대의 크리에이터를 Adobe가 대해야 할 방식이라고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ideogram 4.5\n一部だけ編集し他は保持",
-          "body": "Ideogram 4.5は指定領域のみ編集し、1枚0.8セントから 2K で出力する。",
-          "mini_headline": "Ideogram 4.5、領域単位で編集",
+          "headline": "無料のPremiere\nAndroidでAI編集",
+          "body": "無料のPremiereはEnhance Audioとクレジット制のFireflyを備える。",
+          "mini_headline": "PremiereがAndroidで無料に",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+                "cap": "Premiere mobileは、日常のVlogからチュートリアル、ポッドキャストのクリップ、ソーシャル向けコンテンツまで、あらゆるものを作成・編集できるアプリだ(Image credit: Adobe)"
               },
               {
                 "t": "p",
-                "x": "Ideogramは、新モデルIdeogram 4.5がAI画像編集の最大の悩みの一つを解決すると述べている。画像の一部を編集しても、残りは変わるべきではない。人物の服を替えても、体形や背景はそのまま保たれるべきだ。GPT-Image 2.5やNano Bananaといった主要モデルはこの点で大きく改善したが、特に複数回の編集後にはまだアーティファクトが生じやすい。同社によると、Ideogram 4.5はユーザーが指示した部分にしか手を加えない。想定用途は商品写真、インテリアデザイン、写真修復、画像内テキストの編集などだ。初期テスターも編集間の一貫性の高さを認めている。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+                "x": "昨年iPhone向けに登場したPremiere mobileがAndroidにも登場し、しかも無料だ。Creative Cloudのサブスクリプションは不要で、基本的な編集ならAdobeアカウントすらいらない。透かし、広告、アップグレードの勧誘もない。"
               },
               {
                 "t": "p",
-                "x": "Ideogram 4.5には1枚あたり0.8セントから22セントまでの四つの品質ティアがあり、いずれもネイティブ 2K 解像度で出力する。モデルはIdeogramのプラットフォームとAPIですでに利用できる。パートナーにはPicsart、Runway、Pika、Leonardo AIが名を連ねる。Ideogramはオープンウェイト版も近く公開するとしている。"
+                "x": "無料版には、マルチトラックのタイムライン、フレーム単位の正確な編集、アプリ内でのボイスオーバー録音、ワンタップで背景ノイズを除去するEnhance Audioが含まれる。クリエイター制作のテンプレートや無制限の4K 書き出しも使える。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+                "cap": "AI搭載(AI-powered)のEnhance Audioで、ノイズの多い録音を手軽に整え、セリフを聞き取りやすくできる(Image credit: Adobe)"
+              },
+              {
+                "t": "p",
+                "x": "Generative Fill、Image-to-Video、Generate Sound EffectsといったFirefly搭載(Firefly-powered)の機能は、別途購入が必要な生成クレジットで動く。アプリにはAndroid 13以降と5GB 以上のRAMが必要だ。キーフレーム、ビート検出、Adobe Fonts、強化されたキャプション、デスクトップでのプロジェクト継続は「近日公開」と表示されている。"
+              },
+              {
+                "t": "p",
+                "x": "無料のPremiereはまず信頼を得て、お金を求めるのは後回し、あるいは求めないかもしれない。筆者は、スマートフォンから始める世代のクリエイターにAdobeが取るべき姿勢はまさにこれだと主張する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ideogram 4.5\n只改选区其余不动",
-          "body": "Ideogram称其4.5模型只编辑选定区域，原生 2K 输出，每张图低至0.8美分。",
-          "mini_headline": "Ideogram 4.5按区域编辑",
+          "headline": "免费版Premiere\n带来Android AI剪辑",
+          "body": "免费Premiere集成Enhance Audio与按积分计费的Firefly工具。",
+          "mini_headline": "Premiere在Android上免费",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+                "cap": "Premiere mobile是一款可创作和编辑各类内容的应用，从日常vlog到教程、播客片段和社交内容皆可（Image credit: Adobe）"
               },
               {
                 "t": "p",
-                "x": "Ideogram表示，其新模型Ideogram 4.5解决了AI图像编辑中最令人头疼的问题之一：编辑图像的一部分时，其余部分不应发生变化。给人物换装时，体型和背景都应保持原样。GPT-Image 2.5和Nano Banana等主流模型在这方面已有明显进步，但仍容易产生伪影，尤其是在多次编辑之后。该公司称，Ideogram 4.5只会改动用户指定的部分。目标用途包括产品摄影、室内设计、照片修复以及图内文字编辑。早期测试者也证实其在多次编辑间保持了很强的一致性。"
-              },
-              {
-                "t": "video",
-                "src": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45_demo.mp4"
+                "x": "去年在iPhone上推出的Premiere mobile现已登陆Android，而且免费。无需Creative Cloud订阅，基础编辑甚至不需要Adobe账户，也没有水印、广告或升级提示。"
               },
               {
                 "t": "p",
-                "x": "Ideogram 4.5提供四个质量档位，每张图价格从0.8美分到22美分不等，全部以原生 2K 分辨率输出。该模型现已在Ideogram平台和API上线。合作伙伴包括Picsart、Runway、Pika和Leonardo AI。Ideogram还表示，开放权重版本即将推出。"
+                "x": "免费版包括多轨时间线、逐帧精确剪辑、应用内配音录制，以及一键清除背景噪音的Enhance Audio，另有创作者制作的模板和无限次4K 导出。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+                "cap": "AI驱动（AI-powered）的Enhance Audio可轻松清理嘈杂录音，让对白更清晰（Image credit: Adobe）"
+              },
+              {
+                "t": "p",
+                "x": "Generative Fill、Image-to-Video和Generate Sound Effects等由Firefly驱动（Firefly-powered）的功能需消耗生成式积分，且积分需另行购买。该应用要求Android 13或更高版本以及至少5GB RAM。关键帧、节拍检测、Adobe Fonts、增强字幕以及在桌面端继续项目等功能标注为“即将推出”。"
+              },
+              {
+                "t": "p",
+                "x": "免费的Premiere先赢得信任，之后再收费，甚至可能永远不收。作者认为，这正是Adobe对待从手机起步的一代创作者应有的方式。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Premiere gratis en Android\ntrae edición de video con AI",
+          "body": "El Premiere gratuito para Android une Enhance Audio y herramientas Firefly por créditos, como Generative Fill.",
+          "mini_headline": "Premiere llega gratis a Android",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+                "cap": "Premiere mobile es una app para crear y editar de todo, desde vlogs del día a día hasta tutoriales, clips de pódcast y contenido para redes sociales (Image credit: Adobe)"
+              },
+              {
+                "t": "p",
+                "x": "Premiere mobile, que llegó a iPhone el año pasado, ya está en Android y es gratis. No hace falta una suscripción a Creative Cloud ni, para la edición básica, siquiera una cuenta de Adobe, y no hay marcas de agua, anuncios ni avisos para actualizar."
+              },
+              {
+                "t": "p",
+                "x": "La versión gratuita incluye una línea de tiempo multipista, edición con precisión de fotograma, grabación de voz en off dentro de la app y Enhance Audio, que elimina el ruido de fondo con un solo toque, además de plantillas hechas por creadores y exportaciones 4K ilimitadas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+                "cap": "Enhance Audio, con tecnología AI (AI-powered), facilita limpiar grabaciones ruidosas y mejorar la claridad de los diálogos (Image credit: Adobe)"
+              },
+              {
+                "t": "p",
+                "x": "Las funciones Firefly-powered (basadas en Firefly), como Generative Fill, Image-to-Video y Generate Sound Effects, consumen créditos generativos que hay que comprar. La app requiere Android 13 o posterior y al menos 5GB de RAM; los fotogramas clave, la detección de ritmo, Adobe Fonts, los subtítulos mejorados y continuar un proyecto en el escritorio aparecen como “próximamente”."
+              },
+              {
+                "t": "p",
+                "x": "El Premiere gratuito se gana primero la confianza y pide dinero después, o quizá nunca, lo que según el autor es exactamente como Adobe debería tratar a una generación de creadores que empieza con el teléfono."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "aholo-lux3d-blender-agent",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Aholo Lux3D,\n사진 세 장을 3D로",
+      "body": "에이전트가 Lux3D로 사진 세 장을 청동상으로 바꾸고 Blender로 마감했다.",
+      "mini_headline": "Lux3D, 사진을 3D로",
+      "tool": "KeyShot",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/manycore-aholo-lux3d-blender-agent-3d-ai-harness-workflow",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+          },
+          {
+            "t": "p",
+            "x": "Leiphone이 9월 30일 공개한 실사용 테스트는 Aholo Lux3D가 에이전트 중심 파이프라인 안에서 한 구성 요소로 어떻게 돌아가는지 보여 준다. 항저우의 Manycore Tech가 만든 3D 생성 모델이다. Leiphone은 이 구조를 3D AI 하네스라고 부른다. 범용 에이전트가 작업을 계획해 나누면 전문 모델이 에셋을 만들고, Blender 같은 소프트웨어가 결과물을 점검해 마무리한다."
+          },
+          {
+            "t": "p",
+            "x": "Lux3D는 이미지 한 장이나 텍스트 프롬프트 하나로 지오메트리와 PBR 재질을 갖춘 3D 모델을 만든다. 등급은 Turbo와 Standard가 있고, API, 에이전트 스킬, MCP 서버, Codex 플러그인 형태로 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Leiphone은 Codex에서 돌아가는 GPT-6 Astra에 원명원 십이지 컬렉션의 청동 쥐 머리 사진 세 장을 줬다. 에이전트는 G1-Turbo로 초안을 뽑고 G1으로 넘어간 다음, 결과물을 Blender에서 열어 받침대를 붙이고 세 각도에서 렌더링했다. 시간은 약 92.9초와 559.7초, 비용은 크레디트 21개(약 1.47위안)였다."
+          },
+          {
+            "t": "p",
+            "x": "Leiphone의 평가로는 모델이 핵심 특징과 표면의 미세하게 움푹 팬 자국까지 살렸다. 다만 지나치게 평평한 뒷면과 일부 자국에는 AI 추론의 흔적이 남았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Aholo Lux3D turns three photos\ninto an editable 3D asset",
+          "body": "An AI agent drove Aholo Lux3D to turn three photos into an editable bronze sculpture that Blender then finished.",
+          "mini_headline": "Lux3D turns photos into 3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+              },
+              {
+                "t": "p",
+                "x": "A hands-on test published by Leiphone on September 30 shows how Aholo Lux3D, the 3D generation model built by Hangzhou-based Manycore Tech, can act as one component in an agent-driven pipeline. Leiphone calls it a 3D AI harness: a general-purpose agent plans and dispatches the work, a specialist model generates the assets, and software such as Blender checks and finishes them."
+              },
+              {
+                "t": "p",
+                "x": "Lux3D turns a single image or text prompt into a 3D model with geometry and PBR materials, in Turbo and Standard tiers, and is available via API, agent skills, an MCP server and a Codex plugin."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone gave GPT-6 Astra, running in Codex, three photos of the bronze rat head from the Old Summer Palace zodiac collection. The agent drafted with G1-Turbo, moved to G1, then opened the result in Blender, added a plinth and rendered three angles. The passes took about 92.9 and 559.7 seconds and 21 credits, roughly 1.47 yuan."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone said the model preserved the key features and fine surface dents, though an overly flat back and some dents showed signs of AI inference."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Aholo Lux3D,\n사진 세 장을 3D로",
+          "body": "에이전트가 Lux3D로 사진 세 장을 청동상으로 바꾸고 Blender로 마감했다.",
+          "mini_headline": "Lux3D, 사진을 3D로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+              },
+              {
+                "t": "p",
+                "x": "Leiphone이 9월 30일 공개한 실사용 테스트는 Aholo Lux3D가 에이전트 중심 파이프라인 안에서 한 구성 요소로 어떻게 돌아가는지 보여 준다. 항저우의 Manycore Tech가 만든 3D 생성 모델이다. Leiphone은 이 구조를 3D AI 하네스라고 부른다. 범용 에이전트가 작업을 계획해 나누면 전문 모델이 에셋을 만들고, Blender 같은 소프트웨어가 결과물을 점검해 마무리한다."
+              },
+              {
+                "t": "p",
+                "x": "Lux3D는 이미지 한 장이나 텍스트 프롬프트 하나로 지오메트리와 PBR 재질을 갖춘 3D 모델을 만든다. 등급은 Turbo와 Standard가 있고, API, 에이전트 스킬, MCP 서버, Codex 플러그인 형태로 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone은 Codex에서 돌아가는 GPT-6 Astra에 원명원 십이지 컬렉션의 청동 쥐 머리 사진 세 장을 줬다. 에이전트는 G1-Turbo로 초안을 뽑고 G1으로 넘어간 다음, 결과물을 Blender에서 열어 받침대를 붙이고 세 각도에서 렌더링했다. 시간은 약 92.9초와 559.7초, 비용은 크레디트 21개(약 1.47위안)였다."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone의 평가로는 모델이 핵심 특징과 표면의 미세하게 움푹 팬 자국까지 살렸다. 다만 지나치게 평평한 뒷면과 일부 자국에는 AI 추론의 흔적이 남았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Aholo Lux3D\n写真三枚を3D 資産に",
+          "body": "AIエージェントがLux3Dで写真三枚から編集可能な銅像を作り、Blenderで仕上げた。",
+          "mini_headline": "Lux3Dが写真を3Dに",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+              },
+              {
+                "t": "p",
+                "x": "Leiphoneが9月30日に公開した実機テストは、杭州を拠点とするManycore Techが開発した3D 生成モデルAholo Lux3Dが、エージェント主導のパイプラインの一部品としてどう機能するかを示している。Leiphoneはこれを3D AIハーネスと呼ぶ。汎用エージェントが作業を計画して振り分け、専門モデルがアセットを生成し、Blenderなどのソフトウェアが確認と仕上げを担う。"
+              },
+              {
+                "t": "p",
+                "x": "Lux3Dは単一の画像またはテキストプロンプトから、ジオメトリとPBRマテリアルを備えた3D モデルを生成する。TurboとStandardのティアがあり、API、エージェントスキル、MCPサーバー、Codexプラグインから利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "LeiphoneはCodex上で動くGPT-6 Astraに、円明園の十二支コレクションにあるブロンズの鼠首の写真三枚を渡した。エージェントはG1-Turboで下書きを作り、G1に移行したうえで結果をBlenderで開き、台座を加えて三つの角度からレンダリングした。処理には約92.9秒と559.7秒、21クレジット、およそ1.47元を要した。"
+              },
+              {
+                "t": "p",
+                "x": "Leiphoneによれば、モデルは主要な特徴や表面の細かなへこみを保っていたが、平らすぎる背面や一部のへこみにはAIによる推測の跡が見られたという。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Aholo Lux3D\n把三张照片变成3D 资产",
+          "body": "AI智能体用Aholo Lux3D把三张照片变成可编辑的青铜雕塑，再交Blender收尾。",
+          "mini_headline": "Lux3D把照片变成3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+              },
+              {
+                "t": "p",
+                "x": "Leiphone于9月30日发布的一项上手测试显示，杭州公司Manycore Tech打造的3D 生成模型Aholo Lux3D可以作为智能体驱动流水线中的一个组件。Leiphone称之为3D AI harness：通用智能体负责规划和分派任务，专业模型生成资产，再由Blender等软件检查并收尾。"
+              },
+              {
+                "t": "p",
+                "x": "Lux3D可将单张图像或文本提示词转化为带有几何结构和PBR材质的3D 模型，提供Turbo和Standard档位，并可通过API、智能体技能、MCP服务器和Codex插件使用。"
+              },
+              {
+                "t": "p",
+                "x": "Leiphone向在Codex中运行的GPT-6 Astra提供了圆明园十二生肖兽首中铜鼠首的三张照片。智能体先用G1-Turbo生成草稿，再切换到G1，随后在Blender中打开结果、添加底座并渲染了三个角度。各轮处理分别耗时约92.9秒和559.7秒，消耗21个积分，约合1.47元。"
+              },
+              {
+                "t": "p",
+                "x": "Leiphone表示，该模型保留了关键特征和表面的细微凹痕，但过于平坦的背部和部分凹痕显露出AI推断的痕迹。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Aholo Lux3D convierte tres fotos\nen un recurso 3D editable",
+          "body": "Un agente de AI usó Aholo Lux3D para convertir tres fotos en una escultura de bronce editable que Blender remató.",
+          "mini_headline": "Lux3D convierte fotos en 3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+              },
+              {
+                "t": "p",
+                "x": "Una prueba práctica publicada por Leiphone el 30 de septiembre muestra cómo Aholo Lux3D, el modelo de generación 3D creado por Manycore Tech, con sede en Hangzhou, puede funcionar como un componente de un pipeline dirigido por agentes. Leiphone lo llama un 3D AI harness: un agente de propósito general planifica y reparte el trabajo, un modelo especializado genera los recursos y un software como Blender los revisa y los termina."
+              },
+              {
+                "t": "p",
+                "x": "Lux3D convierte una sola imagen o un prompt de texto en un modelo 3D con geometría y materiales PBR, en los niveles Turbo y Standard, y está disponible mediante API, habilidades para agentes, un servidor MCP y un plugin de Codex."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone entregó a GPT-6 Astra, ejecutándose en Codex, tres fotos de la cabeza de rata de bronce de la colección del zodiaco del Antiguo Palacio de Verano. El agente hizo un borrador con G1-Turbo, pasó a G1, abrió el resultado en Blender, añadió un pedestal y renderizó tres ángulos. Las pasadas tardaron unos 92.9 y 559.7 segundos y costaron 21 créditos, aproximadamente 1.47 yuanes."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone señaló que el modelo conservó los rasgos principales y las finas abolladuras de la superficie, aunque una parte trasera demasiado plana y algunas abolladuras mostraban señales de inferencia de AI."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Aholo Lux3D,\n사진 세 장을 3D로",
+          "body": "에이전트가 Lux3D로 사진 세 장을 청동상으로 바꾸고 Blender로 마감했다.",
+          "mini_headline": "Lux3D, 사진을 3D로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+              },
+              {
+                "t": "p",
+                "x": "Leiphone이 9월 30일 공개한 실사용 테스트는 항저우의 Manycore Tech가 만든 3D 생성 모델 Aholo Lux3D가 에이전트 중심 파이프라인의 한 구성 요소로 어떻게 작동하는지 보여 준다. Leiphone은 이를 3D AI 하네스라고 부른다. 범용 에이전트가 작업을 계획해 배분하고, 전문 모델이 에셋을 생성하며, Blender 같은 소프트웨어가 결과물을 점검하고 마무리하는 구조다."
+              },
+              {
+                "t": "p",
+                "x": "Lux3D는 이미지 한 장이나 텍스트 프롬프트 하나로 지오메트리와 PBR 재질을 갖춘 3D 모델을 만든다. Turbo와 Standard 등급이 있으며, API, 에이전트 스킬, MCP 서버, Codex 플러그인으로 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone은 Codex에서 실행되는 GPT-6 Astra에 원명원 십이지 컬렉션의 청동 쥐 머리 사진 세 장을 건넸다. 에이전트는 G1-Turbo로 초안을 만든 뒤 G1으로 넘어갔고, 결과물을 Blender에서 열어 받침대를 더하고 세 각도로 렌더링했다. 작업에는 약 92.9초와 559.7초, 크레디트 21개(약 1.47위안)가 들었다."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone은 모델이 핵심 특징과 표면의 미세한 움푹 팬 자국까지 살렸지만, 지나치게 평평한 뒷면과 일부 자국에서는 AI 추론의 흔적이 드러났다고 평가했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Aholo Lux3D\n写真三枚を3D 資産に",
+          "body": "AIエージェントがLux3Dで写真三枚から編集可能な銅像を作り、Blenderで仕上げた。",
+          "mini_headline": "Lux3Dが写真を3Dに",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+              },
+              {
+                "t": "p",
+                "x": "Leiphoneが9月30日に公開した実機テストは、杭州を拠点とするManycore Techが開発した3D 生成モデルAholo Lux3Dが、エージェント主導のパイプラインの一部品としてどう機能するかを示している。Leiphoneはこれを3D AIハーネスと呼ぶ。汎用エージェントが作業を計画して振り分け、専門モデルがアセットを生成し、Blenderなどのソフトウェアが確認と仕上げを担う。"
+              },
+              {
+                "t": "p",
+                "x": "Lux3Dは単一の画像またはテキストプロンプトから、ジオメトリとPBRマテリアルを備えた3D モデルを生成する。TurboとStandardのティアがあり、API、エージェントスキル、MCPサーバー、Codexプラグインから利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "LeiphoneはCodex上で動くGPT-6 Astraに、円明園の十二支コレクションにあるブロンズの鼠首の写真三枚を渡した。エージェントはG1-Turboで下書きを作り、G1に移行したうえで結果をBlenderで開き、台座を加えて三つの角度からレンダリングした。処理には約92.9秒と559.7秒、21クレジット、およそ1.47元を要した。"
+              },
+              {
+                "t": "p",
+                "x": "Leiphoneによれば、モデルは主要な特徴や表面の細かなへこみを保っていたが、平らすぎる背面や一部のへこみにはAIによる推測の跡が見られたという。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Aholo Lux3D\n把三张照片变成3D 资产",
+          "body": "AI智能体用Aholo Lux3D把三张照片变成可编辑的青铜雕塑，再交Blender收尾。",
+          "mini_headline": "Lux3D把照片变成3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+              },
+              {
+                "t": "p",
+                "x": "Leiphone于9月30日发布的一项上手测试显示，杭州公司Manycore Tech打造的3D 生成模型Aholo Lux3D可以作为智能体驱动流水线中的一个组件。Leiphone称之为3D AI harness：通用智能体负责规划和分派任务，专业模型生成资产，再由Blender等软件检查并收尾。"
+              },
+              {
+                "t": "p",
+                "x": "Lux3D可将单张图像或文本提示词转化为带有几何结构和PBR材质的3D 模型，提供Turbo和Standard档位，并可通过API、智能体技能、MCP服务器和Codex插件使用。"
+              },
+              {
+                "t": "p",
+                "x": "Leiphone向在Codex中运行的GPT-6 Astra提供了圆明园十二生肖兽首中铜鼠首的三张照片。智能体先用G1-Turbo生成草稿，再切换到G1，随后在Blender中打开结果、添加底座并渲染了三个角度。各轮处理分别耗时约92.9秒和559.7秒，消耗21个积分，约合1.47元。"
+              },
+              {
+                "t": "p",
+                "x": "Leiphone表示，该模型保留了关键特征和表面的细微凹痕，但过于平坦的背部和部分凹痕显露出AI推断的痕迹。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Aholo Lux3D convierte tres fotos\nen un recurso 3D editable",
+          "body": "Un agente de AI usó Aholo Lux3D para convertir tres fotos en una escultura de bronce editable que Blender remató.",
+          "mini_headline": "Lux3D convierte fotos en 3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+              },
+              {
+                "t": "p",
+                "x": "Una prueba práctica publicada por Leiphone el 30 de septiembre muestra cómo Aholo Lux3D, el modelo de generación 3D creado por Manycore Tech, con sede en Hangzhou, puede funcionar como un componente de un pipeline dirigido por agentes. Leiphone lo llama un 3D AI harness: un agente de propósito general planifica y reparte el trabajo, un modelo especializado genera los recursos y un software como Blender los revisa y los termina."
+              },
+              {
+                "t": "p",
+                "x": "Lux3D convierte una sola imagen o un prompt de texto en un modelo 3D con geometría y materiales PBR, en los niveles Turbo y Standard, y está disponible mediante API, habilidades para agentes, un servidor MCP y un plugin de Codex."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone entregó a GPT-6 Astra, ejecutándose en Codex, tres fotos de la cabeza de rata de bronce de la colección del zodiaco del Antiguo Palacio de Verano. El agente hizo un borrador con G1-Turbo, pasó a G1, abrió el resultado en Blender, añadió un pedestal y renderizó tres ángulos. Las pasadas tardaron unos 92.9 y 559.7 segundos y costaron 21 créditos, aproximadamente 1.47 yuanes."
+              },
+              {
+                "t": "p",
+                "x": "Leiphone señaló que el modelo conservó los rasgos principales y las finas abolladuras de la superficie, aunque una parte trasera demasiado plana y algunas abolladuras mostraban señales de inferencia de AI."
               }
             ]
           }

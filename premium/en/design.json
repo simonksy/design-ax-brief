@@ -6526,6 +6526,134 @@
           "x": "Ideogram 4.5 offers four quality tiers ranging from 0.8 to 22 cents per image, all at native 2K resolution. The model is available now on the Ideogram platform and through the API. Partners include Picsart, Runway, Pika, and Leonardo AI. Ideogram also says an open-weight release is coming soon."
         }
       ]
+    },
+    "design/lightroom-prompt-to-edit-restore": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe is introducing Prompt to Edit in Lightroom. It lets you restore an old photograph by selecting one of Adobe’s example prompts or creating your own: sharpen out-of-focus images, colorize black-and-white photographs, and adjust photos with a dramatic color cast."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+          "cap": "112 photographed by John Ricard circa 2001, restored using Adobe's Prompt to Edit feature in Lightroom."
+        },
+        {
+          "t": "p",
+          "x": "Example prompts include Fix Dust and Scratches, Color Restoration and Unblur. Lightroom creates a new DNG with the effect applied while leaving the original unmodified. Choosing a preset shows the full prompt, which you can adjust; in limited testing, Color Restoration came out more saturated than the author liked."
+        },
+        {
+          "t": "p",
+          "x": "Because the edit happens in Lightroom, the standard tools for masking, local adjustments and object removal stay available. Images are generated using Nano Banana 2 at 2K or 4K, and use generative credits as a premium feature."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+          "cap": "Colorized version created using Lightroom’s Prompt to Edit feature."
+        },
+        {
+          "t": "p",
+          "x": "Prompt to Edit is being introduced in Lightroom desktop as an Early Access feature and may continue to change as Adobe evaluates feedback."
+        }
+      ]
+    },
+    "design/chatgpt-sites-public-beta-hosting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT will host a website, a web app or a game for subscribers on five of its plans, and OpenAI's documentation puts one limit in writing: “Sites doesn't support data residency or inference residency at launch.” The exclusion covers deployed Sites, Site code, D1 and R2 data and file storage, generated artifacts, and logs."
+        },
+        {
+          "t": "p",
+          "x": "Sites is in public beta on ChatGPT Plus, Pro, Business, Enterprise and Edu plans, with plan-specific usage limits. Each Site gets 10 GB of D1 database storage alongside R2 object storage; HTTP, HTTPS and WebSockets are supported, raw TCP is not."
+        },
+        {
+          "t": "p",
+          "x": "Deleting a Site is permanent. In Enterprise workspaces public publishing is off by default, and a network-access editor supports up to 1,024 destination rules. OpenAI forbids uses such as processing health or payment-card data or enabling financial transactions."
+        },
+        {
+          "t": "p",
+          "x": "September 29 release notes let Plus and Pro owners and editors continue editing a published Site in ChatGPT. A regional limit set at the July 9 launch, excluding the EEA, Switzerland and the UK, has had no announced change."
+        }
+      ]
+    },
+    "design/premiere-android-free-firefly": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+          "cap": "Premiere mobile is an app for creating and editing everything from day-in-the-life vlogs to tutorials, podcast clips and social content (Image credit: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "Premiere mobile, which launched on iPhone last year, has arrived on Android, and it's free. You don't need a Creative Cloud subscription, or for basic editing even an Adobe account, and there are no watermarks, ads or upgrade prompts."
+        },
+        {
+          "t": "p",
+          "x": "The free tier includes a multi-track timeline, frame-accurate editing, in-app voiceover recording and Enhance Audio, which cleans up background noise in a single tap, plus creator-made templates and unlimited 4K exports."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+          "cap": "AI-powered Enhance Audio makes it easy to clean up noisy recordings and improve the clarity of dialogue (Image credit: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "Firefly-powered features such as Generative Fill, Image-to-Video and Generate Sound Effects run on generative credits, which you'll have to buy. The app requires Android 13 or later and at least 5GB of RAM, and keyframes, beat detection, Adobe Fonts, enhanced captions and continuing a project on desktop are marked “coming soon”."
+        },
+        {
+          "t": "p",
+          "x": "Free Premiere earns trust first and asks for money later, or maybe never, which the author argues is exactly how Adobe should treat a generation of creators starting out on phones."
+        }
+      ]
+    },
+    "design/aholo-lux3d-blender-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+        },
+        {
+          "t": "p",
+          "x": "A hands-on test published by Leiphone on September 30 shows how Aholo Lux3D, the 3D generation model built by Hangzhou-based Manycore Tech, can act as one component in an agent-driven pipeline. Leiphone calls it a 3D AI harness: a general-purpose agent plans and dispatches the work, a specialist model generates the assets, and software such as Blender checks and finishes them."
+        },
+        {
+          "t": "p",
+          "x": "Lux3D turns a single image or text prompt into a 3D model with geometry and PBR materials, in Turbo and Standard tiers, and is available via API, agent skills, an MCP server and a Codex plugin."
+        },
+        {
+          "t": "p",
+          "x": "Leiphone gave GPT-6 Astra, running in Codex, three photos of the bronze rat head from the Old Summer Palace zodiac collection. The agent drafted with G1-Turbo, moved to G1, then opened the result in Blender, added a plinth and rendered three angles. The passes took about 92.9 and 559.7 seconds and 21 credits, roughly 1.47 yuan."
+        },
+        {
+          "t": "p",
+          "x": "Leiphone said the model preserved the key features and fine surface dents, though an overly flat back and some dents showed signs of AI inference."
+        }
+      ]
+    },
+    "design/bfl-flux3-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
+        },
+        {
+          "t": "p",
+          "x": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. The model supports multi-step edits without changing other parts of the image, BFL claims, and covers text-to-image, image-to-image, text rendering, and photorealism. Users can compose scenes with bounding boxes, include up to ten reference images, and output up to 4K. A free demo is available."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
+        },
+        {
+          "t": "p",
+          "x": "API access is 50 percent off through October 8. Companies can license commercial weights to run and fine-tune the model on their own infrastructure. An open-weight version is expected in the coming weeks. Shortly before the launch, Ideogram announced its own editing-focused model with version 4.5, which is also set to ship as open weights soon."
+        }
+      ]
     }
   }
 }

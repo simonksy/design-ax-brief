@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "music",
   "cards": [
     {
-      "id": "suno-speech-beta",
-      "source_lang": "en",
+      "id": "isplus-suno-vocal-chart-top",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Suno Speech 베타\nAI 음악에 목소리 입혀",
-      "body": "Suno Speech가 AI 음악에 음성을 얹어 ElevenLabs 영역을 넘본다.",
-      "mini_headline": "Suno Speech, 내레이션 추가",
+      "headline": "수노로 만든 노래가\n벅스 차트 1위에 올랐다",
+      "body": "수노로 만든 머무르 곡이 벅스 실시간 1위에 올라 AI 표기 논의가 다시 불붙었다.",
+      "mini_headline": "수노 곡, 벅스 차트 1위",
       "tool": "Music",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "일간스포츠 (isplus)",
+      "url": "https://isplus.com/article/view/isp202610020003",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,335 +19,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
           },
           {
             "t": "p",
-            "x": "Suno가 AI 음악을 넘어 Speech로 영역을 넓힌다. 대본이나 프롬프트 설명만으로 말하는 목소리를 만들어 주는 기능이다. 지금은 Suno 웹·모바일 플랫폼에서 공개 베타로 쓸 수 있고, 내레이션 뒤에 깔 배경음악도 함께 만든다."
+            "x": "창작자 머무르의 ‘꿈꾸던 어른이 되었나요?’는 생성형 인공지능(AI)을 활용해 제작된 음원이다. AI 제작 음원 표기 의무 등의 제도가 미비한 가운데 AI 곡이 차트 상위권을 치고 올라오자 관련 논의의 필요성이 다시 대두되고 있다."
           },
           {
             "t": "p",
-            "x": "최고제품책임자 Jack Brody는 이를 \"목소리와 음악을 하나의 응집된 트랙으로 함께 생성하는 첫 오디오 모델\"이라고 부르면서, 음악은 \"언제나 Suno의 중심에 있을 것\"이라고 덧붙였다."
+            "x": "이 곡은 수노(Suno) AI 기술을 통해 생성됐고, 기획·작사 및 전체 프로듀싱 디렉션은 머무르가 직접 진행했다. 머무르는 “저에게 AI는 현대적인 악기이자, 제 상상을 함께 현실로 옮겨주는 파트너”라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "AI 음성이 새로운 건 아니다. DeepMind와 Adobe가 이미 뛰어들었고, 2023년부터 가장 널리 알려진 플랫폼 중 하나인 ElevenLabs도 있다. The Verge는 음악 생성기를 두고 소송이 잇따르자 Suno가 플랫폼 다각화에 나선 것으로 본다."
+            "x": "6월 23일 공개된 곡은 릴스·쇼츠 배경음악으로 쓰이며 유튜브에서 먼저 관심을 모았고, 9월 2일 유튜브 일간 인기 뮤직비디오 차트 1위를 기록했다. 한 달 만인 2일 멜론 톱 100 기준 29위까지 올라섰고, 벅스 실시간 차트에서는 1위에 올랐다."
           },
           {
             "t": "p",
-            "x": "음악은 선택 사항이라 끄면 깨끗한 음성만 남는다. Create 탭의 Simple 모드는 \"선원들을 독려하는 해적 선장\" 같은 프롬프트를 받고, Advanced 모드에서는 직접 쓴 대본을 넣어 목소리 성별, 말투, 다양성을 조절한다. 클립은 최대 약 8분까지 나온다."
+            "x": "음원차트 댓글에는 “AI 차트를 따로 만들거나 AI 음원 표기 의무화가 필요하다”는 의견도 나온다. 정민재 대중음악 평론가는 “AI 차트를 별도로 신설하는 등의 논의가 되어야 할 것”이라고 말했다."
           },
           {
             "t": "p",
-            "x": "\"베타는 정말 베타라는 뜻입니다.\" Brody의 말이다. \"가끔 영국식 억양이 호주에 갔다가 돌아오기도 합니다.\""
+            "x": "한 음원 플랫폼 관계자는 “신탁단체나 정부에서 AI 창작물을 어떻게 분류할 것인가에 대한 기준이 먼저 성립된 뒤에 민간기업이 따를 수 있는 상황”이라고 전했다. 텐센트뮤직에 따르면 플랫폼 신규 등록 음악 중 AI 음악 비중은 2023년 5.2%에서 올해 상반기 44.1%로 늘었다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Suno's new Speech beta\nadds voices to AI music",
-          "body": "Suno's Speech beta sets synthetic voiceovers to AI background music, moving into ElevenLabs' spoken-audio territory.",
-          "mini_headline": "Suno Speech adds voiceovers",
+        "ko": {
+          "headline": "수노로 만든 노래가\n벅스 차트 1위에 올랐다",
+          "body": "수노로 만든 머무르 곡이 벅스 실시간 1위에 올라 AI 표기 논의가 다시 불붙었다.",
+          "mini_headline": "수노 곡, 벅스 차트 1위",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
               },
               {
                 "t": "p",
-                "x": "Suno is branching out from AI music with Speech, a feature that generates spoken voices from scripts or prompted descriptions. It is now in public beta on Suno's web and mobile platforms, and generates voiceovers together with background music to accompany them."
+                "x": "창작자 머무르의 ‘꿈꾸던 어른이 되었나요?’는 생성형 인공지능(AI)을 활용해 제작된 음원이다. AI 제작 음원 표기 의무 등의 제도가 미비한 가운데 AI 곡이 차트 상위권을 치고 올라오자 관련 논의의 필요성이 다시 대두되고 있다."
               },
               {
                 "t": "p",
-                "x": "Chief product officer Jack Brody called it \"the first audio model that generates voice and music together as one cohesive track,\" adding that music \"will always be at the heart of Suno.\""
+                "x": "이 곡은 수노(Suno) AI 기술을 통해 생성됐고, 기획·작사 및 전체 프로듀싱 디렉션은 머무르가 직접 진행했다. 머무르는 “저에게 AI는 현대적인 악기이자, 제 상상을 함께 현실로 옮겨주는 파트너”라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "AI speech is hardly new: DeepMind, Adobe and ElevenLabs, one of the most recognizable platforms since 2023, are already there. The Verge suggests Suno is likely trying to diversify a platform whose music generator has drawn many lawsuits."
+                "x": "6월 23일 공개된 곡은 릴스·쇼츠 배경음악으로 쓰이며 유튜브에서 먼저 관심을 모았고, 9월 2일 유튜브 일간 인기 뮤직비디오 차트 1위를 기록했다. 한 달 만인 2일 멜론 톱 100 기준 29위까지 올라섰고, 벅스 실시간 차트에서는 1위에 올랐다."
               },
               {
                 "t": "p",
-                "x": "The music is optional and can be toggled off for clean speech. In the Create tab, Simple mode takes a prompt such as \"a pirate captain rallying his crew,\" while Advanced mode accepts a custom script and adjusts voice gender, speech style and variety. Clips run up to about eight minutes."
+                "x": "음원차트 댓글에는 “AI 차트를 따로 만들거나 AI 음원 표기 의무화가 필요하다”는 의견도 나온다. 정민재 대중음악 평론가는 “AI 차트를 별도로 신설하는 등의 논의가 되어야 할 것”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "\"Beta really does mean beta,\" Brody said. \"Occasionally, British accents can wander off to Australia and back.\""
+                "x": "한 음원 플랫폼 관계자는 “신탁단체나 정부에서 AI 창작물을 어떻게 분류할 것인가에 대한 기준이 먼저 성립된 뒤에 민간기업이 따를 수 있는 상황”이라고 전했다. 텐센트뮤직에 따르면 플랫폼 신규 등록 음악 중 AI 음악 비중은 2023년 5.2%에서 올해 상반기 44.1%로 늘었다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Suno Speech 베타\nAI 음악에 목소리 입혀",
-          "body": "Suno Speech가 AI 음악에 음성을 얹어 ElevenLabs 영역을 넘본다.",
-          "mini_headline": "Suno Speech, 내레이션 추가",
+        "en": {
+          "headline": "A song made with Suno tops\nthe Bugs real-time chart",
+          "body": "A song Meomureu made with Suno hit No. 1 on Bugs' real-time chart, reigniting debate over labeling AI music.",
+          "mini_headline": "Suno song tops Bugs chart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
               },
               {
                 "t": "p",
-                "x": "Suno가 AI 음악을 넘어 Speech로 영역을 넓힌다. 대본이나 프롬프트 설명만으로 말하는 목소리를 만들어 주는 기능이다. 지금은 Suno 웹·모바일 플랫폼에서 공개 베타로 쓸 수 있고, 내레이션 뒤에 깔 배경음악도 함께 만든다."
+                "x": "Creator Meomureu's ‘Did I Become the Adult I Dreamed Of?’ is a track made with generative artificial intelligence (AI). With rules such as mandatory labeling of AI-made tracks still lacking, an AI song climbing to the top of the charts has renewed calls for a discussion."
               },
               {
                 "t": "p",
-                "x": "최고제품책임자 Jack Brody는 이를 \"목소리와 음악을 하나의 응집된 트랙으로 함께 생성하는 첫 오디오 모델\"이라고 부르면서, 음악은 \"언제나 Suno의 중심에 있을 것\"이라고 덧붙였다."
+                "x": "The song was generated with Suno AI technology, while Meomureu personally handled the planning, lyrics and overall production direction. Meomureu said, “To me, AI is a modern instrument and a partner that helps turn my imagination into reality.”"
               },
               {
                 "t": "p",
-                "x": "AI 음성이 새로운 건 아니다. DeepMind와 Adobe가 이미 뛰어들었고, 2023년부터 가장 널리 알려진 플랫폼 중 하나인 ElevenLabs도 있다. The Verge는 음악 생성기를 두고 소송이 잇따르자 Suno가 플랫폼 다각화에 나선 것으로 본다."
+                "x": "Released on June 23, the song first drew attention on YouTube as background music for Reels and Shorts, and on September 2 it ranked No. 1 on YouTube's daily popular music video chart. A month later, on the 2nd, it climbed to No. 29 on the Melon Top 100 and reached No. 1 on the Bugs real-time chart."
               },
               {
                 "t": "p",
-                "x": "음악은 선택 사항이라 끄면 깨끗한 음성만 남는다. Create 탭의 Simple 모드는 \"선원들을 독려하는 해적 선장\" 같은 프롬프트를 받고, Advanced 모드에서는 직접 쓴 대본을 넣어 목소리 성별, 말투, 다양성을 조절한다. 클립은 최대 약 8분까지 나온다."
+                "x": "Comments on music charts include calls to “create a separate AI chart or make labeling of AI tracks mandatory.” Pop music critic Jeong Min-jae said, “There should be discussion of measures such as creating a separate AI chart.”"
               },
               {
                 "t": "p",
-                "x": "\"베타는 정말 베타라는 뜻입니다.\" Brody의 말이다. \"가끔 영국식 억양이 호주에 갔다가 돌아오기도 합니다.\""
+                "x": "An official at a music platform said, “Private companies can follow only after copyright collectives or the government first set standards on how to classify AI creations.” According to Tencent Music, the share of AI music among newly registered tracks on its platform rose from 5.2% in 2023 to 44.1% in the first half of this year."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sunoの新Speech\nAI音楽に声を加える",
-          "body": "SunoのSpeechはAI音楽に合成音声を重ね、ElevenLabsの領域に踏み込む。",
-          "mini_headline": "Suno Speechが音声を追加",
+          "headline": "Sunoで作った曲が\nBugsチャートで1位",
+          "body": "Sunoで作られたモムルの曲がBugsのリアルタイム1位となり、AI表記論議が再燃した。",
+          "mini_headline": "Suno曲がBugsで1位",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
               },
               {
                 "t": "p",
-                "x": "SunoはAI音楽の枠を超え、台本やプロンプトの説明から話し声を生成する機能Speechを打ち出した。現在Sunoのウェブ版とモバイル版で公開ベータとして提供され、ナレーションとそれに添える背景音楽をあわせて生成する。"
+                "x": "クリエイターのモムルによる『夢見た大人になれましたか?』は、生成人工知能(AI)を活用して制作された音源だ。AI制作音源の表記義務などの制度が整わないなか、AI曲がチャート上位に食い込み、関連する議論の必要性が改めて浮上している。"
               },
               {
                 "t": "p",
-                "x": "最高製品責任者のJack Brodyは、これを「声と音楽を一つのまとまったトラックとして同時に生成する初のオーディオモデル」と呼び、音楽は「常にSunoの中心にあり続ける」と付け加えた。"
+                "x": "この曲はSunoのAI技術で生成され、企画・作詞と全体のプロデュースディレクションはモムル本人が担った。モムルは「私にとってAIは現代的な楽器であり、私の想像を共に現実へ移してくれるパートナーだ」と語った。"
               },
               {
                 "t": "p",
-                "x": "AI音声自体は目新しくない。DeepMind、Adobe、そして2023年以降最もよく知られたプラットフォームの一つであるElevenLabsがすでに参入している。The Vergeは、音楽生成機能が多くの訴訟を招いてきたSunoが、プラットフォームの多角化を図っている可能性が高いと見る。"
+                "x": "6月23日に公開された曲は、リールやショート動画のBGMとして使われ、まずYouTubeで注目を集めた。9月2日にはYouTubeの日間人気ミュージックビデオチャートで1位を記録した。それからひと月で、2日にはMelonトップ100で29位まで上昇し、Bugsのリアルタイムチャートでは1位に立った。"
               },
               {
                 "t": "p",
-                "x": "音楽は任意で、オフにすれば音声だけを得られる。CreateタブのSimpleモードでは「船員を鼓舞する海賊船長」のようなプロンプトを入力し、Advancedモードでは独自の台本を使って声の性別、話し方、バリエーションを調整できる。クリップは最長で約8分だ。"
+                "x": "音源チャートのコメント欄には「AIチャートを別に作るか、AI音源の表記義務化が必要だ」との意見も出ている。大衆音楽評論家のチョン・ミンジェ氏は「AIチャートを別途新設するなどの議論がなされるべきだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "「ベータは本当にベータという意味だ」とBrodyは言う。「ときどき、イギリス訛りがオーストラリアまで行って戻ってくることがある」"
+                "x": "ある音源プラットフォーム関係者は「著作権信託団体や政府がAI創作物をどう分類するかの基準をまず定めてこそ、民間企業が従える状況だ」と話した。Tencent Musicによると、プラットフォームに新規登録された楽曲のうちAI音楽の比率は2023年の5.2%から、今年上半期には44.1%に増えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno Speech测试版\n为AI音乐配上人声",
-          "body": "Suno的Speech测试版为AI背景音乐配上合成旁白，进军ElevenLabs语音领域。",
-          "mini_headline": "Suno Speech加入旁白",
+          "headline": "用Suno制作的歌曲\n登顶Bugs排行榜",
+          "body": "Meomureu用Suno制作的歌曲登上Bugs实时榜第1名,再度引发AI标注讨论。",
+          "mini_headline": "Suno歌曲登顶Bugs榜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
               },
               {
                 "t": "p",
-                "x": "Suno以Speech功能拓展AI音乐之外的版图，可根据脚本或提示描述生成说话的声音。该功能目前在Suno的网页和移动平台上公开测试，会在生成旁白的同时配上相应的背景音乐。"
+                "x": "创作者Meomureu的《是否成为了梦想中的大人?》是借助生成式人工智能(AI)制作的音源。在AI制作音源标注义务等制度尚不完善的情况下,AI歌曲冲上排行榜前列,相关讨论的必要性再次凸显。"
               },
               {
                 "t": "p",
-                "x": "首席产品官Jack Brody称其为“首个将人声与音乐作为一条完整音轨同时生成的音频模型”，并补充说音乐“将始终是Suno的核心”。"
+                "x": "这首歌通过Suno的AI技术生成,企划、作词及整体制作指导由Meomureu亲自完成。Meomureu表示:“对我来说,AI是一种现代乐器,也是与我一起把想象变为现实的伙伴。”"
               },
               {
                 "t": "p",
-                "x": "AI语音并不新鲜：DeepMind、Adobe，以及自2023年以来最知名的平台之一ElevenLabs都已入局。The Verge认为，Suno的音乐生成器已招致多起诉讼，此举很可能是在推动平台多元化。"
+                "x": "这首歌于6月23日发布,作为Reels和Shorts的背景音乐先在YouTube上受到关注,9月2日登上YouTube每日热门音乐视频榜第1名。一个月后的2日,它在Melon Top 100中升至第29名,并在Bugs实时榜上登顶第1名。"
               },
               {
                 "t": "p",
-                "x": "音乐为可选项，关闭后即可得到纯净语音。在Create标签页中，Simple模式接受“一位鼓舞船员的海盗船长”这类提示，Advanced模式则可使用自定义脚本，并调整声音性别、说话风格和多样性。片段最长约8分钟。"
+                "x": "音源榜单评论区也出现了“需要另设AI榜单或强制标注AI音源”的意见。流行音乐评论家Jeong Min-jae表示:“应该讨论另设AI榜单等方案。”"
               },
               {
                 "t": "p",
-                "x": "“测试版就真的是测试版，”Brody说，“英国口音偶尔会跑到澳大利亚再绕回来。”"
+                "x": "一位音源平台相关人士表示:“只有在著作权信托团体或政府先确立如何对AI创作物进行分类的标准之后,民营企业才能跟进。”据腾讯音乐称,平台新登记音乐中AI音乐的占比从2023年的5.2%增至今年上半年的44.1%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La nueva beta Speech de Suno\nañade voces a la música con AI",
-          "body": "La beta de Speech de Suno une voces sintéticas y música de fondo con AI, y entra en el terreno de ElevenLabs.",
-          "mini_headline": "Suno Speech añade locuciones",
+          "headline": "Una canción hecha con Suno\nlidera la lista de Bugs",
+          "body": "Un tema de Meomureu hecho con Suno llegó al n.º 1 de Bugs y reavivó el debate sobre etiquetar la música hecha con AI.",
+          "mini_headline": "Un tema de Suno, n.º 1 en Bugs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
               },
               {
                 "t": "p",
-                "x": "Suno amplía su alcance más allá de la música con AI con Speech, una función que genera voces habladas a partir de guiones o descripciones en forma de prompt. Ya está en beta pública en las plataformas web y móvil de Suno, y genera las locuciones junto con la música de fondo que las acompaña."
+                "x": "‘¿Me convertí en el adulto que soñaba?’, obra de Meomureu, es un tema producido con inteligencia artificial (AI) generativa. Ante la falta de normas como la obligación de etiquetar los temas hechos con AI, la escalada de una canción AI a lo alto de las listas ha vuelto a poner sobre la mesa la necesidad de debatir el asunto."
               },
               {
                 "t": "p",
-                "x": "El director de producto, Jack Brody, la describió como \"el primer modelo de audio que genera voz y música juntas como una sola pista cohesionada\", y añadió que la música \"siempre estará en el corazón de Suno\"."
+                "x": "La canción se generó con la tecnología AI de Suno, mientras que Meomureu se encargó en persona de la planificación, la letra y la dirección general de la producción. Meomureu afirmó: “Para mí, la AI es un instrumento moderno y una compañera que me ayuda a hacer realidad lo que imagino”."
               },
               {
                 "t": "p",
-                "x": "La voz con AI no es nueva: DeepMind, Adobe y ElevenLabs, una de las plataformas más reconocibles desde 2023, ya están ahí. The Verge sugiere que Suno probablemente busca diversificar una plataforma cuyo generador de música ha acumulado numerosas demandas."
+                "x": "Publicada el 23 de junio, la canción llamó primero la atención en YouTube como música de fondo de Reels y Shorts, y el 2 de septiembre alcanzó el n.º 1 de la lista diaria de videos musicales populares de YouTube. Un mes después, el día 2, subió hasta el puesto 29 del Top 100 de Melon y llegó al n.º 1 de la lista en tiempo real de Bugs."
               },
               {
                 "t": "p",
-                "x": "La música es opcional y puede desactivarse para obtener solo la voz. En la pestaña Create, el modo Simple acepta un prompt como \"un capitán pirata arengando a su tripulación\", mientras que el modo Advanced admite un guion propio y ajusta el género de la voz, el estilo de habla y la variedad. Los clips duran hasta unos ocho minutos."
+                "x": "En los comentarios de las listas musicales aparecen opiniones como “hace falta crear una lista AI aparte o hacer obligatorio etiquetar la música AI”. El crítico de música popular Jeong Min-jae señaló: “Debería debatirse, por ejemplo, la creación de una lista AI independiente”."
               },
               {
                 "t": "p",
-                "x": "\"Beta realmente significa beta\", dijo Brody. \"De vez en cuando, los acentos británicos pueden irse hasta Australia y volver\"."
+                "x": "Un responsable de una plataforma musical explicó: “Las empresas privadas solo podrán seguirlo una vez que las entidades de gestión colectiva o el Gobierno establezcan primero un criterio sobre cómo clasificar las creaciones de AI”. Según Tencent Music, la proporción de música AI entre los temas recién registrados en su plataforma pasó del 5.2% en 2023 al 44.1% en el primer semestre de este año."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Suno Speech 베타\nAI 음악에 목소리 입혀",
-          "body": "Suno Speech가 AI 음악에 음성을 얹어 ElevenLabs 영역을 넘본다.",
-          "mini_headline": "Suno Speech, 내레이션 추가",
+        "en": {
+          "headline": "A song made with Suno tops\nthe Bugs real-time chart",
+          "body": "A song Meomureu made with Suno hit No. 1 on Bugs' real-time chart, reigniting debate over labeling AI music.",
+          "mini_headline": "Suno song tops Bugs chart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
               },
               {
                 "t": "p",
-                "x": "Suno가 AI 음악을 넘어 Speech로 영역을 넓힌다. 대본이나 프롬프트 설명을 바탕으로 말하는 목소리를 생성하는 기능이다. 현재 Suno의 웹·모바일 플랫폼에서 공개 베타로 제공되며, 내레이션과 함께 이를 받쳐 줄 배경음악도 생성한다."
+                "x": "Creator Meomureu's ‘Did I Become the Adult I Dreamed Of?’ is a track made with generative artificial intelligence (AI). With rules such as mandatory labeling of AI-made tracks still lacking, an AI song climbing to the top of the charts has renewed calls for a discussion."
               },
               {
                 "t": "p",
-                "x": "Jack Brody 최고제품책임자는 이를 \"목소리와 음악을 하나의 응집된 트랙으로 함께 생성하는 첫 오디오 모델\"이라고 부르며, 음악은 \"언제나 Suno의 중심에 있을 것\"이라고 덧붙였다."
+                "x": "The song was generated with Suno AI technology, while Meomureu personally handled the planning, lyrics and overall production direction. Meomureu said, “To me, AI is a modern instrument and a partner that helps turn my imagination into reality.”"
               },
               {
                 "t": "p",
-                "x": "AI 음성 자체는 새롭지 않다. DeepMind, Adobe, 그리고 2023년부터 가장 널리 알려진 플랫폼 중 하나인 ElevenLabs가 이미 이 분야에 있다. The Verge는 음악 생성기를 둘러싼 소송이 잇따른 만큼 Suno가 플랫폼 다각화를 꾀하는 것으로 보인다고 분석했다."
+                "x": "Released on June 23, the song first drew attention on YouTube as background music for Reels and Shorts, and on September 2 it ranked No. 1 on YouTube's daily popular music video chart. A month later, on the 2nd, it climbed to No. 29 on the Melon Top 100 and reached No. 1 on the Bugs real-time chart."
               },
               {
                 "t": "p",
-                "x": "음악은 선택 사항이며 끄면 깨끗한 음성만 얻을 수 있다. Create 탭의 Simple 모드는 \"선원들을 독려하는 해적 선장\" 같은 프롬프트를 받고, Advanced 모드는 직접 쓴 대본을 받아 목소리 성별, 말투, 다양성을 조절한다. 클립 길이는 최대 약 8분이다."
+                "x": "Comments on music charts include calls to “create a separate AI chart or make labeling of AI tracks mandatory.” Pop music critic Jeong Min-jae said, “There should be discussion of measures such as creating a separate AI chart.”"
               },
               {
                 "t": "p",
-                "x": "\"베타는 정말 베타라는 뜻입니다.\" Brody의 말이다. \"가끔 영국식 억양이 호주에 갔다가 돌아오기도 합니다.\""
+                "x": "An official at a music platform said, “Private companies can follow only after copyright collectives or the government first set standards on how to classify AI creations.” According to Tencent Music, the share of AI music among newly registered tracks on its platform rose from 5.2% in 2023 to 44.1% in the first half of this year."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sunoの新Speech\nAI音楽に声を加える",
-          "body": "SunoのSpeechはAI音楽に合成音声を重ね、ElevenLabsの領域に踏み込む。",
-          "mini_headline": "Suno Speechが音声を追加",
+          "headline": "Sunoで作った曲が\nBugsチャートで1位",
+          "body": "Sunoで作られたモムルの曲がBugsのリアルタイム1位となり、AI表記論議が再燃した。",
+          "mini_headline": "Suno曲がBugsで1位",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
               },
               {
                 "t": "p",
-                "x": "SunoはAI音楽の枠を超え、台本やプロンプトの説明から話し声を生成する機能Speechを打ち出した。現在Sunoのウェブ版とモバイル版で公開ベータとして提供され、ナレーションとそれに添える背景音楽をあわせて生成する。"
+                "x": "クリエイターのモムルによる『夢見た大人になれましたか?』は、生成人工知能(AI)を活用して制作された音源だ。AI制作音源の表記義務などの制度が整わないなか、AI曲がチャート上位に食い込み、関連する議論の必要性が改めて浮上している。"
               },
               {
                 "t": "p",
-                "x": "最高製品責任者のJack Brodyは、これを「声と音楽を一つのまとまったトラックとして同時に生成する初のオーディオモデル」と呼び、音楽は「常にSunoの中心にあり続ける」と付け加えた。"
+                "x": "この曲はSunoのAI技術で生成され、企画・作詞と全体のプロデュースディレクションはモムル本人が担った。モムルは「私にとってAIは現代的な楽器であり、私の想像を共に現実へ移してくれるパートナーだ」と語った。"
               },
               {
                 "t": "p",
-                "x": "AI音声自体は目新しくない。DeepMind、Adobe、そして2023年以降最もよく知られたプラットフォームの一つであるElevenLabsがすでに参入している。The Vergeは、音楽生成機能が多くの訴訟を招いてきたSunoが、プラットフォームの多角化を図っている可能性が高いと見る。"
+                "x": "6月23日に公開された曲は、リールやショート動画のBGMとして使われ、まずYouTubeで注目を集めた。9月2日にはYouTubeの日間人気ミュージックビデオチャートで1位を記録した。それからひと月で、2日にはMelonトップ100で29位まで上昇し、Bugsのリアルタイムチャートでは1位に立った。"
               },
               {
                 "t": "p",
-                "x": "音楽は任意で、オフにすれば音声だけを得られる。CreateタブのSimpleモードでは「船員を鼓舞する海賊船長」のようなプロンプトを入力し、Advancedモードでは独自の台本を使って声の性別、話し方、バリエーションを調整できる。クリップは最長で約8分だ。"
+                "x": "音源チャートのコメント欄には「AIチャートを別に作るか、AI音源の表記義務化が必要だ」との意見も出ている。大衆音楽評論家のチョン・ミンジェ氏は「AIチャートを別途新設するなどの議論がなされるべきだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "「ベータは本当にベータという意味だ」とBrodyは言う。「ときどき、イギリス訛りがオーストラリアまで行って戻ってくることがある」"
+                "x": "ある音源プラットフォーム関係者は「著作権信託団体や政府がAI創作物をどう分類するかの基準をまず定めてこそ、民間企業が従える状況だ」と話した。Tencent Musicによると、プラットフォームに新規登録された楽曲のうちAI音楽の比率は2023年の5.2%から、今年上半期には44.1%に増えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno Speech测试版\n为AI音乐配上人声",
-          "body": "Suno的Speech测试版为AI背景音乐配上合成旁白，进军ElevenLabs语音领域。",
-          "mini_headline": "Suno Speech加入旁白",
+          "headline": "用Suno制作的歌曲\n登顶Bugs排行榜",
+          "body": "Meomureu用Suno制作的歌曲登上Bugs实时榜第1名,再度引发AI标注讨论。",
+          "mini_headline": "Suno歌曲登顶Bugs榜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
               },
               {
                 "t": "p",
-                "x": "Suno以Speech功能拓展AI音乐之外的版图，可根据脚本或提示描述生成说话的声音。该功能目前在Suno的网页和移动平台上公开测试，会在生成旁白的同时配上相应的背景音乐。"
+                "x": "创作者Meomureu的《是否成为了梦想中的大人?》是借助生成式人工智能(AI)制作的音源。在AI制作音源标注义务等制度尚不完善的情况下,AI歌曲冲上排行榜前列,相关讨论的必要性再次凸显。"
               },
               {
                 "t": "p",
-                "x": "首席产品官Jack Brody称其为“首个将人声与音乐作为一条完整音轨同时生成的音频模型”，并补充说音乐“将始终是Suno的核心”。"
+                "x": "这首歌通过Suno的AI技术生成,企划、作词及整体制作指导由Meomureu亲自完成。Meomureu表示:“对我来说,AI是一种现代乐器,也是与我一起把想象变为现实的伙伴。”"
               },
               {
                 "t": "p",
-                "x": "AI语音并不新鲜：DeepMind、Adobe，以及自2023年以来最知名的平台之一ElevenLabs都已入局。The Verge认为，Suno的音乐生成器已招致多起诉讼，此举很可能是在推动平台多元化。"
+                "x": "这首歌于6月23日发布,作为Reels和Shorts的背景音乐先在YouTube上受到关注,9月2日登上YouTube每日热门音乐视频榜第1名。一个月后的2日,它在Melon Top 100中升至第29名,并在Bugs实时榜上登顶第1名。"
               },
               {
                 "t": "p",
-                "x": "音乐为可选项，关闭后即可得到纯净语音。在Create标签页中，Simple模式接受“一位鼓舞船员的海盗船长”这类提示，Advanced模式则可使用自定义脚本，并调整声音性别、说话风格和多样性。片段最长约8分钟。"
+                "x": "音源榜单评论区也出现了“需要另设AI榜单或强制标注AI音源”的意见。流行音乐评论家Jeong Min-jae表示:“应该讨论另设AI榜单等方案。”"
               },
               {
                 "t": "p",
-                "x": "“测试版就真的是测试版，”Brody说，“英国口音偶尔会跑到澳大利亚再绕回来。”"
+                "x": "一位音源平台相关人士表示:“只有在著作权信托团体或政府先确立如何对AI创作物进行分类的标准之后,民营企业才能跟进。”据腾讯音乐称,平台新登记音乐中AI音乐的占比从2023年的5.2%增至今年上半年的44.1%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La nueva beta Speech de Suno\nañade voces a la música con AI",
-          "body": "La beta de Speech de Suno une voces sintéticas y música de fondo con AI, y entra en el terreno de ElevenLabs.",
-          "mini_headline": "Suno Speech añade locuciones",
+          "headline": "Una canción hecha con Suno\nlidera la lista de Bugs",
+          "body": "Un tema de Meomureu hecho con Suno llegó al n.º 1 de Bugs y reavivó el debate sobre etiquetar la música hecha con AI.",
+          "mini_headline": "Un tema de Suno, n.º 1 en Bugs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Suno-AI-voices.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
               },
               {
                 "t": "p",
-                "x": "Suno amplía su alcance más allá de la música con AI con Speech, una función que genera voces habladas a partir de guiones o descripciones en forma de prompt. Ya está en beta pública en las plataformas web y móvil de Suno, y genera las locuciones junto con la música de fondo que las acompaña."
+                "x": "‘¿Me convertí en el adulto que soñaba?’, obra de Meomureu, es un tema producido con inteligencia artificial (AI) generativa. Ante la falta de normas como la obligación de etiquetar los temas hechos con AI, la escalada de una canción AI a lo alto de las listas ha vuelto a poner sobre la mesa la necesidad de debatir el asunto."
               },
               {
                 "t": "p",
-                "x": "El director de producto, Jack Brody, la describió como \"el primer modelo de audio que genera voz y música juntas como una sola pista cohesionada\", y añadió que la música \"siempre estará en el corazón de Suno\"."
+                "x": "La canción se generó con la tecnología AI de Suno, mientras que Meomureu se encargó en persona de la planificación, la letra y la dirección general de la producción. Meomureu afirmó: “Para mí, la AI es un instrumento moderno y una compañera que me ayuda a hacer realidad lo que imagino”."
               },
               {
                 "t": "p",
-                "x": "La voz con AI no es nueva: DeepMind, Adobe y ElevenLabs, una de las plataformas más reconocibles desde 2023, ya están ahí. The Verge sugiere que Suno probablemente busca diversificar una plataforma cuyo generador de música ha acumulado numerosas demandas."
+                "x": "Publicada el 23 de junio, la canción llamó primero la atención en YouTube como música de fondo de Reels y Shorts, y el 2 de septiembre alcanzó el n.º 1 de la lista diaria de videos musicales populares de YouTube. Un mes después, el día 2, subió hasta el puesto 29 del Top 100 de Melon y llegó al n.º 1 de la lista en tiempo real de Bugs."
               },
               {
                 "t": "p",
-                "x": "La música es opcional y puede desactivarse para obtener solo la voz. En la pestaña Create, el modo Simple acepta un prompt como \"un capitán pirata arengando a su tripulación\", mientras que el modo Advanced admite un guion propio y ajusta el género de la voz, el estilo de habla y la variedad. Los clips duran hasta unos ocho minutos."
+                "x": "En los comentarios de las listas musicales aparecen opiniones como “hace falta crear una lista AI aparte o hacer obligatorio etiquetar la música AI”. El crítico de música popular Jeong Min-jae señaló: “Debería debatirse, por ejemplo, la creación de una lista AI independiente”."
               },
               {
                 "t": "p",
-                "x": "\"Beta realmente significa beta\", dijo Brody. \"De vez en cuando, los acentos británicos pueden irse hasta Australia y volver\"."
+                "x": "Un responsable de una plataforma musical explicó: “Las empresas privadas solo podrán seguirlo una vez que las entidades de gestión colectiva o el Gobierno establezcan primero un criterio sobre cómo clasificar las creaciones de AI”. Según Tencent Music, la proporción de música AI entre los temas recién registrados en su plataforma pasó del 5.2% en 2023 al 44.1% en el primer semestre de este año."
               }
             ]
           }
@@ -355,1181 +355,541 @@
       }
     },
     {
-      "id": "stability-ai-sean-parker-music",
+      "id": "mbw-suno-wmg-bmg-licence-terms",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sean Parker의 새\nStability AI",
-      "body": "Sean Parker는 Stability AI를 전문 음악 도구 회사로 바꾼다.",
-      "mini_headline": "Stability AI, 음악으로 전환",
+      "headline": "WMG·BMG가 Suno에\n내는 돈, 팬 리믹스 대가",
+      "body": "CEO Mikey Shulman은 WMG·BMG가 팬 리믹스에 돈을 낸다고 했다.",
+      "mini_headline": "WMG·BMG가 Suno에 돈 내는 이유",
       "tool": "Music",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-          },
-          {
-            "t": "p",
-            "x": "Napster 공동 창업자 Sean Parker가 다시 음악 산업에 뛰어들었다. 이번에는 규칙을 지킨다고 The Information에 말했다. (허락 대신 용서를 구했던 지난번 방식이 그리 잘 통하지 않았다는 점은 순순히 인정한다.)"
-          },
-          {
-            "t": "p",
-            "x": "2년 전 그는 Stability AI를 살리려는 $80 million 규모의 구제 작업에 참여했다. 이 이미지 생성 스타트업은 과도한 지출과 내부 혼란 끝에 창업자 Emad Mostaque가 축출되면서 무너지기 직전이었다. 이제 Parker와, CEO를 맡은 오랜 친구 Prem Akkaraju가 그동안 만든 것을 하나씩 내보이고 있다."
-          },
-          {
-            "t": "p",
-            "x": "Parker의 핵심 구상은 Stability를 음악 전문가들이 가장 먼저 찾는 AI 도구 제작사로 키우는 일이다. 회사는 8월 말 Sony, Warner, Universal 등에서 $76 million 투자를 유치했다고 발표했고, 이들은 거래 조건으로 학습용 카탈로그 라이선스도 내줬다. Stability는 이후 새 오디오 모델 세 가지와 AI 음악 편집 소프트웨어를 내놓았다. 텍스트 프롬프트만으로 연주곡 전체나 짧은 조각을 만드는 AI다. Parker는 곧 나올 업데이트에서 멜로디를 흥얼거리거나 비트박스로 드럼 패턴을 넣어 생성 방향을 잡을 수 있게 된다고 말한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Sean Parker rebuilds\nStability AI around music",
-          "body": "Sean Parker says Stability AI is pivoting to pro music tools built on catalogs licensed from Sony, Warner and Universal.",
-          "mini_headline": "Stability AI turns to music",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Sean Parker, the Napster co-founder, has jumped back into the music industry, and he tells The Information that he's playing by the rules this time. (Asking for forgiveness rather than permission didn't work out so well last time around, he readily concedes.)"
-              },
-              {
-                "t": "p",
-                "x": "Two years ago, he joined an $80 million rescue of Stability AI, the image-generator startup that nearly collapsed after overspending and internal turmoil led to founder Emad Mostaque's ouster. Now Parker and his longtime friend Prem Akkaraju, who became CEO, are taking the wraps off what they've been building."
-              },
-              {
-                "t": "p",
-                "x": "The big idea, Parker says, is to turn Stability into the go-to AI toolmaker for music professionals. Toward that end, in late August, the company announced $76 million in funding from, among others, Sony, Warner, and Universal, which also licensed their catalogs for training as part of the deal. Stability has since released three new audio models and AI music-editing software. The AI can generate whole instrumental tracks or short snippets from text prompts. Parker says an upcoming update will let users hum a melody or beatbox a drum pattern to steer it."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Sean Parker의 새\nStability AI",
-          "body": "Sean Parker는 Stability AI를 전문 음악 도구 회사로 바꾼다.",
-          "mini_headline": "Stability AI, 음악으로 전환",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Napster 공동 창업자 Sean Parker가 다시 음악 산업에 뛰어들었다. 이번에는 규칙을 지킨다고 The Information에 말했다. (허락 대신 용서를 구했던 지난번 방식이 그리 잘 통하지 않았다는 점은 순순히 인정한다.)"
-              },
-              {
-                "t": "p",
-                "x": "2년 전 그는 Stability AI를 살리려는 $80 million 규모의 구제 작업에 참여했다. 이 이미지 생성 스타트업은 과도한 지출과 내부 혼란 끝에 창업자 Emad Mostaque가 축출되면서 무너지기 직전이었다. 이제 Parker와, CEO를 맡은 오랜 친구 Prem Akkaraju가 그동안 만든 것을 하나씩 내보이고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Parker의 핵심 구상은 Stability를 음악 전문가들이 가장 먼저 찾는 AI 도구 제작사로 키우는 일이다. 회사는 8월 말 Sony, Warner, Universal 등에서 $76 million 투자를 유치했다고 발표했고, 이들은 거래 조건으로 학습용 카탈로그 라이선스도 내줬다. Stability는 이후 새 오디오 모델 세 가지와 AI 음악 편집 소프트웨어를 내놓았다. 텍스트 프롬프트만으로 연주곡 전체나 짧은 조각을 만드는 AI다. Parker는 곧 나올 업데이트에서 멜로디를 흥얼거리거나 비트박스로 드럼 패턴을 넣어 생성 방향을 잡을 수 있게 된다고 말한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sean Parkerが\nStability AI刷新",
-          "body": "Sean ParkerはStability AIをプロ向け音楽ツール企業へ転換すると語る。",
-          "mini_headline": "Stability AIが音楽へ転換",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Napsterの共同創業者Sean Parkerが音楽業界に戻ってきた。The Informationに対し、今回はルールに従っていると語っている。(前回は許可より許しを請うやり方があまりうまくいかなかったと、本人もあっさり認めている。)"
-              },
-              {
-                "t": "p",
-                "x": "2年前、彼はStability AIを救済する$80 millionの支援に加わった。同社は画像生成のスタートアップで、過剰な支出と社内の混乱から創業者Emad Mostaqueが追放され、崩壊寸前に陥っていた。現在、Parkerと、CEOに就いた長年の友人Prem Akkarajuが、これまで築いてきたものを公開しつつある。"
-              },
-              {
-                "t": "p",
-                "x": "Parkerによれば、大きな狙いはStabilityを音楽のプロにとって定番のAIツールメーカーにすることだ。その一環として同社は8月下旬、Sony、Warner、Universalなどから$76 millionの資金調達を発表した。これらの企業は契約の一部として、学習用にカタログのライセンスも提供した。Stabilityはその後、新たなオーディオモデル3種とAI音楽編集ソフトウェアをリリースした。このAIはテキストプロンプトからインスト曲全体や短いフレーズを生成できる。Parkerによると、今後のアップデートでは、メロディを口ずさんだりドラムパターンをビートボックスしたりして生成を導けるようになる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sean Parker以音乐\n重塑Stability AI",
-          "body": "Sean Parker称Stability AI将转向基于授权曲库的专业音乐工具。",
-          "mini_headline": "Stability AI转向音乐",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Napster联合创始人Sean Parker重返音乐行业，他告诉The Information，这次他会按规矩行事。（他坦然承认，上一次先斩后奏、事后再求原谅的做法效果并不好。）"
-              },
-              {
-                "t": "p",
-                "x": "两年前，他参与了对Stability AI的$80 million救助。这家图像生成初创公司因过度支出和内部动荡导致创始人Emad Mostaque被罢免，一度濒临崩溃。如今，Parker与出任CEO的老友Prem Akkaraju正揭开他们一直在打造的成果。"
-              },
-              {
-                "t": "p",
-                "x": "Parker表示，宏大构想是把Stability打造成音乐专业人士首选的AI工具开发商。为此，公司在8月下旬宣布获得Sony、Warner、Universal等方面的$76 million融资，这几家公司还作为交易的一部分授权其曲库用于训练。此后，Stability发布了三款新音频模型和AI音乐编辑软件。该AI可根据文本提示生成完整器乐曲或短片段。Parker说，即将推出的更新将让用户通过哼唱旋律或用beatbox打出鼓点来引导生成。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sean Parker reorienta\nStability AI hacia la música",
-          "body": "Sean Parker dice que Stability AI se centra en herramientas para músicos con catálogos de Sony, Warner y Universal.",
-          "mini_headline": "Stability AI apuesta por la música",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Sean Parker, cofundador de Napster, ha vuelto a la industria musical y le dice a The Information que esta vez juega según las reglas. (Pedir perdón en lugar de permiso no le salió tan bien la última vez, admite sin reparos.)"
-              },
-              {
-                "t": "p",
-                "x": "Hace dos años se sumó a un rescate de 80 millones de dólares de Stability AI, la startup de generación de imágenes que estuvo a punto de hundirse después de que el gasto excesivo y las tensiones internas llevaran a la salida de su fundador, Emad Mostaque. Ahora Parker y su viejo amigo Prem Akkaraju, que asumió como CEO, presentan lo que han estado construyendo."
-              },
-              {
-                "t": "p",
-                "x": "La gran idea, según Parker, es convertir a Stability en el fabricante de herramientas de AI de referencia para los profesionales de la música. Con ese fin, a finales de agosto la empresa anunció una financiación de 76 millones de dólares procedente, entre otros, de Sony, Warner y Universal, que como parte del acuerdo también licenciaron sus catálogos para entrenamiento. Desde entonces, Stability ha lanzado tres nuevos modelos de audio y un software de edición musical con AI. La AI puede generar pistas instrumentales completas o fragmentos breves a partir de prompts de texto. Parker dice que una próxima actualización permitirá a los usuarios tararear una melodía o marcar con beatbox un patrón de batería para guiarla."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Sean Parker의 새\nStability AI",
-          "body": "Sean Parker는 Stability AI를 전문 음악 도구 회사로 바꾼다.",
-          "mini_headline": "Stability AI, 음악으로 전환",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Napster 공동 창업자 Sean Parker가 음악 산업에 다시 뛰어들었다. 그는 The Information에 이번에는 규칙을 지키고 있다고 말했다. (지난번에는 허락 대신 용서를 구하는 방식이 그리 잘 통하지 않았다고 그는 순순히 인정한다.)"
-              },
-              {
-                "t": "p",
-                "x": "그는 2년 전 Stability AI를 살리기 위한 $80 million 규모의 구제 작업에 참여했다. 이 이미지 생성 스타트업은 과도한 지출과 내부 혼란 끝에 창업자 Emad Mostaque가 축출되면서 붕괴 직전까지 갔다. 이제 Parker와 CEO가 된 오랜 친구 Prem Akkaraju가 그동안 만들어 온 것을 공개하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Parker는 핵심 구상이 Stability를 음악 전문가들이 가장 먼저 찾는 AI 도구 제작사로 만드는 것이라고 말한다. 이를 위해 회사는 8월 말 Sony, Warner, Universal 등으로부터 $76 million 투자를 유치했다고 발표했으며, 이들은 거래의 일환으로 학습용 카탈로그 라이선스도 제공했다. Stability는 이후 새 오디오 모델 세 가지와 AI 음악 편집 소프트웨어를 내놓았다. 이 AI는 텍스트 프롬프트로 연주곡 전체나 짧은 조각을 생성할 수 있다. Parker는 곧 나올 업데이트에서 사용자가 멜로디를 흥얼거리거나 비트박스로 드럼 패턴을 넣어 생성 방향을 이끌 수 있게 된다고 말한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sean Parkerが\nStability AI刷新",
-          "body": "Sean ParkerはStability AIをプロ向け音楽ツール企業へ転換すると語る。",
-          "mini_headline": "Stability AIが音楽へ転換",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Napsterの共同創業者Sean Parkerが音楽業界に戻ってきた。The Informationに対し、今回はルールに従っていると語っている。(前回は許可より許しを請うやり方があまりうまくいかなかったと、本人もあっさり認めている。)"
-              },
-              {
-                "t": "p",
-                "x": "2年前、彼はStability AIを救済する$80 millionの支援に加わった。同社は画像生成のスタートアップで、過剰な支出と社内の混乱から創業者Emad Mostaqueが追放され、崩壊寸前に陥っていた。現在、Parkerと、CEOに就いた長年の友人Prem Akkarajuが、これまで築いてきたものを公開しつつある。"
-              },
-              {
-                "t": "p",
-                "x": "Parkerによれば、大きな狙いはStabilityを音楽のプロにとって定番のAIツールメーカーにすることだ。その一環として同社は8月下旬、Sony、Warner、Universalなどから$76 millionの資金調達を発表した。これらの企業は契約の一部として、学習用にカタログのライセンスも提供した。Stabilityはその後、新たなオーディオモデル3種とAI音楽編集ソフトウェアをリリースした。このAIはテキストプロンプトからインスト曲全体や短いフレーズを生成できる。Parkerによると、今後のアップデートでは、メロディを口ずさんだりドラムパターンをビートボックスしたりして生成を導けるようになる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sean Parker以音乐\n重塑Stability AI",
-          "body": "Sean Parker称Stability AI将转向基于授权曲库的专业音乐工具。",
-          "mini_headline": "Stability AI转向音乐",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Napster联合创始人Sean Parker重返音乐行业，他告诉The Information，这次他会按规矩行事。（他坦然承认，上一次先斩后奏、事后再求原谅的做法效果并不好。）"
-              },
-              {
-                "t": "p",
-                "x": "两年前，他参与了对Stability AI的$80 million救助。这家图像生成初创公司因过度支出和内部动荡导致创始人Emad Mostaque被罢免，一度濒临崩溃。如今，Parker与出任CEO的老友Prem Akkaraju正揭开他们一直在打造的成果。"
-              },
-              {
-                "t": "p",
-                "x": "Parker表示，宏大构想是把Stability打造成音乐专业人士首选的AI工具开发商。为此，公司在8月下旬宣布获得Sony、Warner、Universal等方面的$76 million融资，这几家公司还作为交易的一部分授权其曲库用于训练。此后，Stability发布了三款新音频模型和AI音乐编辑软件。该AI可根据文本提示生成完整器乐曲或短片段。Parker说，即将推出的更新将让用户通过哼唱旋律或用beatbox打出鼓点来引导生成。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sean Parker reorienta\nStability AI hacia la música",
-          "body": "Sean Parker dice que Stability AI se centra en herramientas para músicos con catálogos de Sony, Warner y Universal.",
-          "mini_headline": "Stability AI apuesta por la música",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Sean Parker, cofundador de Napster, ha vuelto a la industria musical y le dice a The Information que esta vez juega según las reglas. (Pedir perdón en lugar de permiso no le salió tan bien la última vez, admite sin reparos.)"
-              },
-              {
-                "t": "p",
-                "x": "Hace dos años se sumó a un rescate de 80 millones de dólares de Stability AI, la startup de generación de imágenes que estuvo a punto de hundirse después de que el gasto excesivo y las tensiones internas llevaran a la salida de su fundador, Emad Mostaque. Ahora Parker y su viejo amigo Prem Akkaraju, que asumió como CEO, presentan lo que han estado construyendo."
-              },
-              {
-                "t": "p",
-                "x": "La gran idea, según Parker, es convertir a Stability en el fabricante de herramientas de AI de referencia para los profesionales de la música. Con ese fin, a finales de agosto la empresa anunció una financiación de 76 millones de dólares procedente, entre otros, de Sony, Warner y Universal, que como parte del acuerdo también licenciaron sus catálogos para entrenamiento. Desde entonces, Stability ha lanzado tres nuevos modelos de audio y un software de edición musical con AI. La AI puede generar pistas instrumentales completas o fragmentos breves a partir de prompts de texto. Parker dice que una próxima actualización permitirá a los usuarios tararear una melodía o marcar con beatbox un patrón de batería para guiarla."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "questlove-sampling-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Questlove \"AI는\n샘플링 문화와 닮았다\"",
-      "body": "Questlove는 Public Enemy부터 AI까지 샘플링을 되짚는다.",
-      "mini_headline": "Questlove가 본 AI와 샘플링",
-      "tool": "Music",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/music/rb-hip-hop/questlove-music-sampling-public-enemy-ai-interview-1236351222/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "T8TFsrsEx_o"
-          },
-          {
-            "t": "p",
-            "x": "Questlove는 Billboard On the Record에서 샘플링의 흐름을 짚는다. Fairlight와 Marley Marl에서 출발해, 1988년 그에게 \"유레카의 순간(Eureka moment)\"이 된 Public Enemy의 It Takes a Nation of Millions to Hold Us Back까지. 이어 마이크로초핑, 카탈로그 매각, 생성형 AI가 이 예술 형식에 새로운 기회가 될지 위험이 될지 묻는다."
-          },
-          {
-            "t": "p",
-            "x": "\"1988년부터 1991년까지는 무법천지(Wild West)였어요. 아무도 우리를 단속하지 않았죠.\" 그의 말이다. 그러다 Biz Markie 소송 이후로는 허락을 받는 게 규칙이 됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-          },
-          {
-            "t": "p",
-            "x": "\"AI냐, 직접 만드느냐를 두고 늘 논쟁이 있어요. 전자레인지에 데우느냐, 제대로 한 끼를 요리하느냐의 차이죠. 제게는 불완전함 속에 늘 마법이 있었습니다.\""
-          },
-          {
-            "t": "p",
-            "x": "디지털 왜곡 탓에 소리만 놓고 보면 AI 음악은 \"아직 거기까지 오지 않았다\"는 게 그의 판단이다. 다만 10년 안에 모델이 이를 완성할 수도 있다고 본다. \"하지만 저는 AI를 샘플링 문화와 나란히 놓고 봅니다.\""
-          },
-          {
-            "t": "p",
-            "x": "\"AI 시스템을 만든다면 플랫폼 구축에 쓰인 자료를 투명하게 밝혀야 하고, 그에 대한 보상이 있어야 합니다.\""
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Questlove: AI is a parallel\nto sampling culture",
-          "body": "Questlove traces sampling from Public Enemy to microchopping and AI, arguing the magic lives in human imperfection.",
-          "mini_headline": "Questlove on AI and sampling",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "T8TFsrsEx_o"
-              },
-              {
-                "t": "p",
-                "x": "On Billboard On the Record, Questlove traces sampling from the Fairlight and Marley Marl to Public Enemy's It Takes a Nation of Millions to Hold Us Back, his 1988 \"Eureka moment,\" and asks how microchopping, catalog sales and generative AI may pose new opportunities or risks to the art form."
-              },
-              {
-                "t": "p",
-                "x": "\"Between 1988 and 1991, it was the Wild West. No one was policing us,\" he says, until the Biz Markie lawsuit made permission the rule."
-              },
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "\"There's always a debate about AI versus making something yourself — microwaving versus cooking a full meal. To me, there has always been magic in imperfection.\""
-              },
-              {
-                "t": "p",
-                "x": "Sonically he is \"not there yet\" on AI music because of its digital distortion, though models may perfect it in ten years. \"But I see AI as a parallel to sampling culture.\""
-              },
-              {
-                "t": "p",
-                "x": "\"If you're building an AI system, you should be transparent about the material used to build the platform, and there should be compensation for it.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Questlove \"AI는\n샘플링 문화와 닮았다\"",
-          "body": "Questlove는 Public Enemy부터 AI까지 샘플링을 되짚는다.",
-          "mini_headline": "Questlove가 본 AI와 샘플링",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "T8TFsrsEx_o"
-              },
-              {
-                "t": "p",
-                "x": "Questlove는 Billboard On the Record에서 샘플링의 흐름을 짚는다. Fairlight와 Marley Marl에서 출발해, 1988년 그에게 \"유레카의 순간(Eureka moment)\"이 된 Public Enemy의 It Takes a Nation of Millions to Hold Us Back까지. 이어 마이크로초핑, 카탈로그 매각, 생성형 AI가 이 예술 형식에 새로운 기회가 될지 위험이 될지 묻는다."
-              },
-              {
-                "t": "p",
-                "x": "\"1988년부터 1991년까지는 무법천지(Wild West)였어요. 아무도 우리를 단속하지 않았죠.\" 그의 말이다. 그러다 Biz Markie 소송 이후로는 허락을 받는 게 규칙이 됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "\"AI냐, 직접 만드느냐를 두고 늘 논쟁이 있어요. 전자레인지에 데우느냐, 제대로 한 끼를 요리하느냐의 차이죠. 제게는 불완전함 속에 늘 마법이 있었습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "디지털 왜곡 탓에 소리만 놓고 보면 AI 음악은 \"아직 거기까지 오지 않았다\"는 게 그의 판단이다. 다만 10년 안에 모델이 이를 완성할 수도 있다고 본다. \"하지만 저는 AI를 샘플링 문화와 나란히 놓고 봅니다.\""
-              },
-              {
-                "t": "p",
-                "x": "\"AI 시스템을 만든다면 플랫폼 구축에 쓰인 자료를 투명하게 밝혀야 하고, 그에 대한 보상이 있어야 합니다.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Questlove「AIは\nサンプリング文化に通じる」",
-          "body": "QuestloveはPublic EnemyからAIまでサンプリング史を語る。",
-          "mini_headline": "Questloveが語るAIとサンプリング",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "T8TFsrsEx_o"
-              },
-              {
-                "t": "p",
-                "x": "QuestloveはBillboard On the Recordで、FairlightやMarley Marlから、1988年の自身の「Eureka moment(ひらめきの瞬間)」となったPublic EnemyのIt Takes a Nation of Millions to Hold Us Backまで、サンプリングの歩みをたどる。そして、マイクロチョッピングやカタログ売却、生成AIがこの芸術形式にどんな新たな機会やリスクをもたらしうるかを問う。"
-              },
-              {
-                "t": "p",
-                "x": "「1988年から1991年まではWild West(無法地帯)だった。誰も僕らを取り締まらなかった」と彼は言う。だがBiz Markieの訴訟を機に、許諾を得ることがルールになった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "「AIか、自分で作るかという議論は常にある。電子レンジで温めるか、ちゃんとした食事を作るかの違いだ。僕にとっては、不完全さの中にいつも魔法があった」"
-              },
-              {
-                "t": "p",
-                "x": "デジタル歪みがあるため、音の面でAI音楽は「まだその域に達していない」と彼は見るが、10年後にはモデルが完成させるかもしれないという。「でも、僕はAIをサンプリング文化と相通じるものだと見ている」"
-              },
-              {
-                "t": "p",
-                "x": "「AIシステムを作るなら、プラットフォーム構築に使った素材について透明であるべきだし、それに対する対価も支払われるべきだ」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Questlove：AI与\n采样文化一脉相承",
-          "body": "Questlove梳理从Public Enemy到AI的采样历程，认为魔力在于人的不完美。",
-          "mini_headline": "Questlove谈AI与采样",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "T8TFsrsEx_o"
-              },
-              {
-                "t": "p",
-                "x": "在Billboard On the Record节目中，Questlove回顾了采样从Fairlight和Marley Marl，到Public Enemy的It Takes a Nation of Millions to Hold Us Back——他1988年的“Eureka moment”（顿悟时刻）——的发展历程，并探讨微切片、版权目录出售和生成式AI可能给这门艺术形式带来哪些新机遇或风险。"
-              },
-              {
-                "t": "p",
-                "x": "“1988年到1991年间，那就是Wild West（蛮荒西部）。没人管我们，”他说。直到Biz Markie诉讼案之后，获得许可才成为规则。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "“关于用AI还是亲手创作，争论从未停止——就像用微波炉加热和做一顿完整的饭。对我来说，不完美之中一直有种魔力。”"
-              },
-              {
-                "t": "p",
-                "x": "由于存在数字失真，他认为AI音乐在声音上“还没到那个程度”，不过模型或许会在十年内将其完善。“但我把AI看作与采样文化相平行的事物。”"
-              },
-              {
-                "t": "p",
-                "x": "“如果你在构建AI系统，就应该公开用于搭建平台的素材，并且应当为此支付报酬。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Questlove: la AI es un paralelo\nde la cultura del sampleo",
-          "body": "Questlove repasa el sampleo de Public Enemy al microchopping y la AI, y sitúa la magia en la imperfección humana.",
-          "mini_headline": "Questlove sobre la AI y el sampleo",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "T8TFsrsEx_o"
-              },
-              {
-                "t": "p",
-                "x": "En Billboard On the Record, Questlove repasa el sampleo desde el Fairlight y Marley Marl hasta It Takes a Nation of Millions to Hold Us Back, de Public Enemy, su \"momento Eureka\" de 1988, y se pregunta qué nuevas oportunidades o riesgos pueden suponer para esta forma de arte el microchopping, la venta de catálogos y la AI generativa."
-              },
-              {
-                "t": "p",
-                "x": "\"Entre 1988 y 1991 era el Wild West. Nadie nos vigilaba\", dice, hasta que la demanda contra Biz Markie convirtió el permiso en la norma."
-              },
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "\"Siempre hay un debate entre la AI y hacer algo uno mismo: calentar en el microondas o cocinar una comida completa. Para mí, siempre ha habido magia en la imperfección\"."
-              },
-              {
-                "t": "p",
-                "x": "En lo sonoro, considera que la música con AI \"todavía no está ahí\" por su distorsión digital, aunque los modelos podrían perfeccionarla en diez años. \"Pero veo la AI como un paralelo de la cultura del sampleo\"."
-              },
-              {
-                "t": "p",
-                "x": "\"Si estás construyendo un sistema de AI, deberías ser transparente sobre el material usado para construir la plataforma, y debería haber una compensación por ello\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Questlove \"AI는\n샘플링 문화와 닮았다\"",
-          "body": "Questlove는 Public Enemy부터 AI까지 샘플링을 되짚는다.",
-          "mini_headline": "Questlove가 본 AI와 샘플링",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "T8TFsrsEx_o"
-              },
-              {
-                "t": "p",
-                "x": "Questlove는 Billboard On the Record에서 Fairlight와 Marley Marl부터 1988년 그에게 \"유레카의 순간(Eureka moment)\"이었던 Public Enemy의 It Takes a Nation of Millions to Hold Us Back까지 샘플링의 흐름을 짚는다. 그리고 마이크로초핑, 카탈로그 매각, 생성형 AI가 이 예술 형식에 어떤 새로운 기회나 위험이 될 수 있는지 묻는다."
-              },
-              {
-                "t": "p",
-                "x": "\"1988년부터 1991년까지는 무법천지(Wild West)였어요. 아무도 우리를 단속하지 않았죠.\" 그의 말이다. 그러다 Biz Markie 소송 이후 허락을 받는 것이 규칙이 됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "\"AI냐, 직접 만드느냐를 두고 늘 논쟁이 있어요. 전자레인지에 데우느냐, 제대로 한 끼를 요리하느냐의 차이죠. 제게는 불완전함 속에 늘 마법이 있었습니다.\""
-              },
-              {
-                "t": "p",
-                "x": "디지털 왜곡 때문에 그는 소리 면에서 AI 음악이 \"아직 거기까지 오지 않았다\"고 보지만, 10년 안에 모델이 이를 완성할 수도 있다고 한다. \"하지만 저는 AI를 샘플링 문화와 나란히 놓고 봅니다.\""
-              },
-              {
-                "t": "p",
-                "x": "\"AI 시스템을 만든다면 플랫폼 구축에 쓰인 자료를 투명하게 밝혀야 하고, 그에 대한 보상이 있어야 합니다.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Questlove「AIは\nサンプリング文化に通じる」",
-          "body": "QuestloveはPublic EnemyからAIまでサンプリング史を語る。",
-          "mini_headline": "Questloveが語るAIとサンプリング",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "T8TFsrsEx_o"
-              },
-              {
-                "t": "p",
-                "x": "QuestloveはBillboard On the Recordで、FairlightやMarley Marlから、1988年の自身の「Eureka moment(ひらめきの瞬間)」となったPublic EnemyのIt Takes a Nation of Millions to Hold Us Backまで、サンプリングの歩みをたどる。そして、マイクロチョッピングやカタログ売却、生成AIがこの芸術形式にどんな新たな機会やリスクをもたらしうるかを問う。"
-              },
-              {
-                "t": "p",
-                "x": "「1988年から1991年まではWild West(無法地帯)だった。誰も僕らを取り締まらなかった」と彼は言う。だがBiz Markieの訴訟を機に、許諾を得ることがルールになった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "「AIか、自分で作るかという議論は常にある。電子レンジで温めるか、ちゃんとした食事を作るかの違いだ。僕にとっては、不完全さの中にいつも魔法があった」"
-              },
-              {
-                "t": "p",
-                "x": "デジタル歪みがあるため、音の面でAI音楽は「まだその域に達していない」と彼は見るが、10年後にはモデルが完成させるかもしれないという。「でも、僕はAIをサンプリング文化と相通じるものだと見ている」"
-              },
-              {
-                "t": "p",
-                "x": "「AIシステムを作るなら、プラットフォーム構築に使った素材について透明であるべきだし、それに対する対価も支払われるべきだ」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Questlove：AI与\n采样文化一脉相承",
-          "body": "Questlove梳理从Public Enemy到AI的采样历程，认为魔力在于人的不完美。",
-          "mini_headline": "Questlove谈AI与采样",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "T8TFsrsEx_o"
-              },
-              {
-                "t": "p",
-                "x": "在Billboard On the Record节目中，Questlove回顾了采样从Fairlight和Marley Marl，到Public Enemy的It Takes a Nation of Millions to Hold Us Back——他1988年的“Eureka moment”（顿悟时刻）——的发展历程，并探讨微切片、版权目录出售和生成式AI可能给这门艺术形式带来哪些新机遇或风险。"
-              },
-              {
-                "t": "p",
-                "x": "“1988年到1991年间，那就是Wild West（蛮荒西部）。没人管我们，”他说。直到Biz Markie诉讼案之后，获得许可才成为规则。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "“关于用AI还是亲手创作，争论从未停止——就像用微波炉加热和做一顿完整的饭。对我来说，不完美之中一直有种魔力。”"
-              },
-              {
-                "t": "p",
-                "x": "由于存在数字失真，他认为AI音乐在声音上“还没到那个程度”，不过模型或许会在十年内将其完善。“但我把AI看作与采样文化相平行的事物。”"
-              },
-              {
-                "t": "p",
-                "x": "“如果你在构建AI系统，就应该公开用于搭建平台的素材，并且应当为此支付报酬。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Questlove: la AI es un paralelo\nde la cultura del sampleo",
-          "body": "Questlove repasa el sampleo de Public Enemy al microchopping y la AI, y sitúa la magia en la imperfección humana.",
-          "mini_headline": "Questlove sobre la AI y el sampleo",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "T8TFsrsEx_o"
-              },
-              {
-                "t": "p",
-                "x": "En Billboard On the Record, Questlove repasa el sampleo desde el Fairlight y Marley Marl hasta It Takes a Nation of Millions to Hold Us Back, de Public Enemy, su \"momento Eureka\" de 1988, y se pregunta qué nuevas oportunidades o riesgos pueden suponer para esta forma de arte el microchopping, la venta de catálogos y la AI generativa."
-              },
-              {
-                "t": "p",
-                "x": "\"Entre 1988 y 1991 era el Wild West. Nadie nos vigilaba\", dice, hasta que la demanda contra Biz Markie convirtió el permiso en la norma."
-              },
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/09/questlove-june-2026-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "\"Siempre hay un debate entre la AI y hacer algo uno mismo: calentar en el microondas o cocinar una comida completa. Para mí, siempre ha habido magia en la imperfección\"."
-              },
-              {
-                "t": "p",
-                "x": "En lo sonoro, considera que la música con AI \"todavía no está ahí\" por su distorsión digital, aunque los modelos podrían perfeccionarla en diez años. \"Pero veo la AI como un paralelo de la cultura del sampleo\"."
-              },
-              {
-                "t": "p",
-                "x": "\"Si estás construyendo un sistema de AI, deberías ser transparente sobre el material usado para construir la plataforma, y debería haber una compensación por ello\"."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "lyricfind-ai-lyrics-long-tail",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 가사 도구가\n롱테일 저작권료 키운다",
-      "body": "LyricFind는 AI 가사 작업이 9.6M 롱테일 곡의 로열티를 키운다고 본다.",
-      "mini_headline": "롱테일을 위한 AI 가사",
-      "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/lyrics-show-how-ai-can-grow-music-revenue-without-replacing-people/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-          },
-          {
-            "t": "p",
-            "x": "LyricFind 창립자 겸 CEO Darryl Ballantyne은 기고문에서 생성형 AI에 라이선스와 투명성, 안전장치가 필요하다고 짚으면서도, 가사·권리 데이터·메타데이터 분야의 AI는 기존 작품의 수익을 늘릴 수 있다고 주장한다."
-          },
-          {
-            "t": "p",
-            "x": "가사 로열티는 사용량에 따라 나오기 때문에 가사가 비어 있으면 노출이 줄고 권리자 수익도 준다. 수작업 전사·싱크·번역은 손익분기점이 분명해서, 업계가 카탈로그를 얼마나 깊이 다룰지에 한계가 있었다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Luminate에 따르면 2025년에 10,000회에서 500,000회 사이로 스트리밍된 곡은 9.6M 곡으로, 전 세계 스트리밍 양의 13%를 넘는다. LyricFind는 AI로 첫 전사를 마친 뒤 단어 단위 싱크와 번역을 거치고, 단계마다 사람이 검증한다."
-          },
-          {
-            "t": "p",
-            "x": "직원 효율을 세네 배로 끌어올리면 활용 가능한 콘텐츠가 약 700% 늘어나니, 인력을 두 배로 늘리는 편이 합리적이라는 게 그의 설명이다. 정확도가 99%인 시스템도 가사 1억 건을 처리하면 오류가 백만 건 남는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI lyric tools could grow\nlong-tail song royalties",
-          "body": "LyricFind argues AI lyric transcription, sync and translation could expand royalties from 9.6M long-tail tracks.",
-          "mini_headline": "AI lyrics for the long tail",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-              },
-              {
-                "t": "p",
-                "x": "In an op-ed, LyricFind founder and CEO Darryl Ballantyne argues that while generative AI needs licensing, transparency and guardrails, AI in lyrics, rights data and metadata can help existing works earn more."
-              },
-              {
-                "t": "p",
-                "x": "Lyric royalties are usage-driven, so gaps in availability mean fewer displays and less money for rightsholders. Manual transcription, sync and translation set a break-even point that limited how deep into the catalogue the industry could go."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Per Luminate, 9.6M songs were streamed 10,000 to 500,000 times in 2025, over 13% of global stream volume. LyricFind uses AI for first-pass transcription, then word-by-word sync and translation, with humans verifying throughout."
-              },
-              {
-                "t": "p",
-                "x": "Making staff three or four times more efficient grows viable content by about 700%, he says, so it makes sense to double the human team. Even a 99% accurate system on 100 million lyrics would leave a million errors."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI en las letras podría\nampliar regalías de cola larga",
-          "body": "LyricFind cree que transcribir, sincronizar y traducir letras con AI podría ampliar regalías de 9.6M temas long-tail.",
-          "mini_headline": "Letras con AI para la cola larga",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En un artículo de opinión, el fundador y CEO de LyricFind, Darryl Ballantyne, sostiene que, si bien la AI generativa necesita licencias, transparencia y salvaguardas, la AI aplicada a letras, datos de derechos y metadatos puede ayudar a que las obras existentes generen más ingresos."
-              },
-              {
-                "t": "p",
-                "x": "Las regalías por letras dependen del uso, así que los vacíos de disponibilidad implican menos visualizaciones y menos dinero para los titulares de derechos. La transcripción, la sincronización y la traducción manuales fijaban un punto de equilibrio que limitaba hasta dónde podía llegar la industria dentro del catálogo."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Según Luminate, 9.6M canciones se reprodujeron entre 10,000 y 500,000 veces en 2025, más del 13% del volumen mundial de streams. LyricFind usa AI para una primera transcripción y luego para la sincronización palabra por palabra y la traducción, con verificación humana en todo el proceso."
-              },
-              {
-                "t": "p",
-                "x": "Hacer al personal tres o cuatro veces más eficiente aumenta el contenido viable en torno a un 700%, afirma, por lo que tiene sentido duplicar el equipo humano. Incluso un sistema con un 99% de precisión sobre 100 millones de letras dejaría un millón de errores."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 가사 도구가\n롱테일 저작권료 키운다",
-          "body": "LyricFind는 AI 가사 작업이 9.6M 롱테일 곡의 로열티를 키운다고 본다.",
-          "mini_headline": "롱테일을 위한 AI 가사",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LyricFind 창립자 겸 CEO Darryl Ballantyne은 기고문에서 생성형 AI에 라이선스와 투명성, 안전장치가 필요하다고 짚으면서도, 가사·권리 데이터·메타데이터 분야의 AI는 기존 작품의 수익을 늘릴 수 있다고 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "가사 로열티는 사용량에 따라 나오기 때문에 가사가 비어 있으면 노출이 줄고 권리자 수익도 준다. 수작업 전사·싱크·번역은 손익분기점이 분명해서, 업계가 카탈로그를 얼마나 깊이 다룰지에 한계가 있었다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Luminate에 따르면 2025년에 10,000회에서 500,000회 사이로 스트리밍된 곡은 9.6M 곡으로, 전 세계 스트리밍 양의 13%를 넘는다. LyricFind는 AI로 첫 전사를 마친 뒤 단어 단위 싱크와 번역을 거치고, 단계마다 사람이 검증한다."
-              },
-              {
-                "t": "p",
-                "x": "직원 효율을 세네 배로 끌어올리면 활용 가능한 콘텐츠가 약 700% 늘어나니, 인력을 두 배로 늘리는 편이 합리적이라는 게 그의 설명이다. 정확도가 99%인 시스템도 가사 1억 건을 처리하면 오류가 백만 건 남는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI歌詞ツールが\nロングテール印税を拡大",
-          "body": "LyricFindは、AI歌詞技術で9.6M 曲のロングテール印税が増えると説く。",
-          "mini_headline": "ロングテールにAI歌詞",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LyricFindの創業者兼CEOであるDarryl Ballantyneは寄稿で、生成AIにはライセンス、透明性、ガードレールが必要だとしつつ、歌詞や権利データ、メタデータにおけるAIは既存作品の収益拡大に役立つと論じる。"
-              },
-              {
-                "t": "p",
-                "x": "歌詞の印税は利用量に応じて発生するため、提供されていない歌詞があれば表示回数が減り、権利者の収入も減る。手作業の書き起こし、同期、翻訳には損益分岐点があり、業界がカタログをどこまで深く掘り下げられるかを制約してきた。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Luminateによると、2025年に10,000回から500,000回再生された曲は9.6M 曲にのぼり、世界のストリーミング総量の13%超を占めた。LyricFindはAIで最初の書き起こしを行い、続いて単語単位の同期と翻訳を進め、全工程で人間が検証する。"
-              },
-              {
-                "t": "p",
-                "x": "スタッフの効率を三、四倍に高めれば、採算の合うコンテンツは約700%増えるため、人員を倍増させるのが理にかなうと彼は言う。精度99%のシステムでも、1億件の歌詞を扱えば百万件の誤りが残る。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI歌词工具\n或可扩大长尾版税",
-          "body": "LyricFind认为，AI歌词转录、同步与翻译可扩大9.6M 首长尾歌曲的版税。",
-          "mini_headline": "面向长尾的AI歌词",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LyricFind创始人兼CEO Darryl Ballantyne在一篇评论文章中指出，生成式AI需要授权、透明度和防护机制，但应用于歌词、版权数据和元数据的AI能帮助现有作品获得更多收入。"
-              },
-              {
-                "t": "p",
-                "x": "歌词版税按使用量计算，歌词缺失意味着展示次数减少，版权方收入也随之减少。人工转录、同步和翻译设定了盈亏平衡点，限制了业界深入挖掘曲库的程度。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-              },
-              {
-                "t": "p",
-                "x": "据Luminate统计，2025年有9.6M 首歌曲的播放量在10,000至500,000次之间，占全球播放总量的13%以上。LyricFind先用AI完成初步转录，再进行逐词同步和翻译，全程由人工核验。"
-              },
-              {
-                "t": "p",
-                "x": "他表示，若员工效率提高三四倍，可行的内容量将增长约700%，因此将人工团队扩大一倍是合理的。即便是准确率99%的系统，处理1亿条歌词也会留下百万个错误。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "La AI en las letras podría\nampliar regalías de cola larga",
-          "body": "LyricFind cree que transcribir, sincronizar y traducir letras con AI podría ampliar regalías de 9.6M temas long-tail.",
-          "mini_headline": "Letras con AI para la cola larga",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En un artículo de opinión, el fundador y CEO de LyricFind, Darryl Ballantyne, sostiene que, si bien la AI generativa necesita licencias, transparencia y salvaguardas, la AI aplicada a letras, datos de derechos y metadatos puede ayudar a que las obras existentes generen más ingresos."
-              },
-              {
-                "t": "p",
-                "x": "Las regalías por letras dependen del uso, así que los vacíos de disponibilidad implican menos visualizaciones y menos dinero para los titulares de derechos. La transcripción, la sincronización y la traducción manuales fijaban un punto de equilibrio que limitaba hasta dónde podía llegar la industria dentro del catálogo."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Según Luminate, 9.6M canciones se reprodujeron entre 10,000 y 500,000 veces en 2025, más del 13% del volumen mundial de streams. LyricFind usa AI para una primera transcripción y luego para la sincronización palabra por palabra y la traducción, con verificación humana en todo el proceso."
-              },
-              {
-                "t": "p",
-                "x": "Hacer al personal tres o cuatro veces más eficiente aumenta el contenido viable en torno a un 700%, afirma, por lo que tiene sentido duplicar el equipo humano. Incluso un sistema con un 99% de precisión sobre 100 millones de letras dejaría un millón de errores."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 가사 도구가\n롱테일 저작권료 키운다",
-          "body": "LyricFind는 AI 가사 작업이 9.6M 롱테일 곡의 로열티를 키운다고 본다.",
-          "mini_headline": "롱테일을 위한 AI 가사",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LyricFind 창립자이자 CEO인 Darryl Ballantyne은 기고문에서, 생성형 AI에는 라이선스와 투명성, 안전장치가 필요하지만 가사·권리 데이터·메타데이터 분야의 AI는 기존 작품의 수익을 늘릴 수 있다고 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "가사 로열티는 사용량에 따라 발생하므로, 가사가 제공되지 않는 공백은 노출 감소와 권리자 수익 감소로 이어진다. 수작업 전사·싱크·번역에는 손익분기점이 있었고, 이 때문에 업계가 카탈로그를 얼마나 깊이 다룰 수 있는지가 제한됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Luminate에 따르면 2025년에 9.6M 곡이 10,000회에서 500,000회 스트리밍됐고, 이는 전 세계 스트리밍 양의 13%를 넘는다. LyricFind는 AI로 첫 전사를 한 뒤 단어 단위 싱크와 번역을 진행하며, 모든 단계에서 사람이 검증한다."
-              },
-              {
-                "t": "p",
-                "x": "그는 직원 효율을 세네 배로 높이면 활용 가능한 콘텐츠가 약 700% 늘어나므로 인력을 두 배로 늘리는 것이 합리적이라고 말한다. 정확도 99%인 시스템이라도 가사 1억 건을 처리하면 백만 건의 오류가 남는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI歌詞ツールが\nロングテール印税を拡大",
-          "body": "LyricFindは、AI歌詞技術で9.6M 曲のロングテール印税が増えると説く。",
-          "mini_headline": "ロングテールにAI歌詞",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LyricFindの創業者兼CEOであるDarryl Ballantyneは寄稿で、生成AIにはライセンス、透明性、ガードレールが必要だとしつつ、歌詞や権利データ、メタデータにおけるAIは既存作品の収益拡大に役立つと論じる。"
-              },
-              {
-                "t": "p",
-                "x": "歌詞の印税は利用量に応じて発生するため、提供されていない歌詞があれば表示回数が減り、権利者の収入も減る。手作業の書き起こし、同期、翻訳には損益分岐点があり、業界がカタログをどこまで深く掘り下げられるかを制約してきた。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Luminateによると、2025年に10,000回から500,000回再生された曲は9.6M 曲にのぼり、世界のストリーミング総量の13%超を占めた。LyricFindはAIで最初の書き起こしを行い、続いて単語単位の同期と翻訳を進め、全工程で人間が検証する。"
-              },
-              {
-                "t": "p",
-                "x": "スタッフの効率を三、四倍に高めれば、採算の合うコンテンツは約700%増えるため、人員を倍増させるのが理にかなうと彼は言う。精度99%のシステムでも、1億件の歌詞を扱えば百万件の誤りが残る。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI歌词工具\n或可扩大长尾版税",
-          "body": "LyricFind认为，AI歌词转录、同步与翻译可扩大9.6M 首长尾歌曲的版税。",
-          "mini_headline": "面向长尾的AI歌词",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/9-29-lyricfind-oped.jpg"
-              },
-              {
-                "t": "p",
-                "x": "LyricFind创始人兼CEO Darryl Ballantyne在一篇评论文章中指出，生成式AI需要授权、透明度和防护机制，但应用于歌词、版权数据和元数据的AI能帮助现有作品获得更多收入。"
-              },
-              {
-                "t": "p",
-                "x": "歌词版税按使用量计算，歌词缺失意味着展示次数减少，版权方收入也随之减少。人工转录、同步和翻译设定了盈亏平衡点，限制了业界深入挖掘曲库的程度。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/09/Luminate-Pyramid-2025.jpg"
-              },
-              {
-                "t": "p",
-                "x": "据Luminate统计，2025年有9.6M 首歌曲的播放量在10,000至500,000次之间，占全球播放总量的13%以上。LyricFind先用AI完成初步转录，再进行逐词同步和翻译，全程由人工核验。"
-              },
-              {
-                "t": "p",
-                "x": "他表示，若员工效率提高三四倍，可行的内容量将增长约700%，因此将人工团队扩大一倍是合理的。即便是准确率99%的系统，处理1亿条歌词也会留下百万个错误。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "suno-v6-take-me-back-video",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "춤에서 Suno v6\n노래와 뮤직비디오로",
-      "body": "Browner·McNeely가 춤을 Suno v6 곡과 뮤직비디오로 만든다.",
-      "mini_headline": "춤에서 Suno v6 뮤비까지",
-      "tool": "Music",
-      "source": "Suno (YouTube)",
-      "url": "https://www.youtube.com/watch?v=1OITvfAN6-g",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Suno 공동창업자이자 CEO인 Mikey Shulman은 10월 1일 Bloomberg의 Screentime 콘퍼런스에서 Suno가 앞서 공개한 유료 구독자 2 million명, 매출 USD $300 million을 이미 “훨씬 넘어섰다”고 말했다. 새 수치는 어느 쪽도 내놓지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "Warner Music Group과 BMG가 무엇을 받고 Suno에 돈을 내느냐고 묻자 Shulman은 이렇게 답했다. “좋아하는 아티스트의 음악을 가져와 갖고 놀면서 리믹스하거나 커버하거나 다른 것과 매시업할 수 있다고 상상해 보라… 완전히 새로운 제품이다.”"
+          },
+          {
             "t": "video",
-            "yt": "1OITvfAN6-g"
+            "yt": "j8JAWfM6q1E"
           },
           {
             "t": "p",
-            "x": "Braylon Browner와 Emmy 수상 안무가 겸 감독 Nina McNeely의 비하인드 장면을 따라가며, 춤이 노래가 되고 다시 움직임 중심의 온전한 창작 세계로 커지기까지 무엇이 필요한지 들여다본다."
+            "x": "Suno는 2025년 11월 WMG 소송을 합의로 끝낸 뒤 8월 12일 BMG, 9월 8일 Believe와 계약했고 9월 9일 이들 파트너와 함께 v6 모델을 내놓았다. Universal과 Sony는 9월 18일 다시 소송을 냈다."
           },
           {
             "t": "p",
-            "x": "Browner는 \"작업하면서 바로 음악을 편집할 수 있다는 게 놀랍다\"며, 그 덕에 춤과 음악이 \"정말로 만나 완벽한 조화를 이룬다\"고 말한다. McNeely는 Suno가 \"안무가들에게 우리 안무 아이디어에 맞춰 곡을 바꿀 수 있는 힘을 되돌려 주고 있다\"고 덧붙인다."
-          },
-          {
-            "t": "p",
-            "x": "전체 뮤직비디오는 suno.com/braylon에서 볼 수 있다."
+            "x": "AI 음악 표기를 두고 Shulman은 어느 한쪽이 정할 일이 아니라며 “아직 확고한 규칙이 없다는 건 사실 좋은 일”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "From a dance to a Suno v6\nsong and music video",
-          "body": "Braylon Browner and Nina McNeely turn a dance into a Suno v6 song, then a music video built around movement.",
-          "mini_headline": "Dance to Suno v6 video",
+          "headline": "Suno's CEO says WMG and BMG\npay for fan remixes of artists",
+          "body": "Asked what WMG and BMG pay Suno for, CEO Mikey Shulman pointed to a product for fans to remix and cover artists' music.",
+          "mini_headline": "What WMG and BMG pay Suno for",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "1OITvfAN6-g"
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
               },
               {
                 "t": "p",
-                "x": "Go behind the scenes with Braylon Browner and Emmy award winning choreographer/director Nina McNeely to see what it takes to go from dance, to song, to complete creative world built around movement."
+                "x": "Suno is now “far beyond” the 2 million paid subscribers and USD $300 million in revenue it last disclosed, co-founder and CEO Mikey Shulman said at Bloomberg's Screentime conference on October 1. He did not put a new number on either figure."
               },
               {
                 "t": "p",
-                "x": "\"It's amazing to be able to edit the music as you go,\" Browner says, so that dance and music \"really meet together and work perfectly in harmony.\" McNeely adds that Suno \"is giving the choreographers the power back to change the song to match our choreographic ideas.\""
+                "x": "Asked what Warner Music Group and BMG are paying Suno for, Shulman said: “Imagine, you can take the music of one of your favorite artists and start to play with it and remix it or cover it or mash it up with something else… This is an entirely new product.”"
               },
-              {
-                "t": "p",
-                "x": "Watch the complete music video at suno.com/braylon"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "춤에서 Suno v6\n노래와 뮤직비디오로",
-          "body": "Browner·McNeely가 춤을 Suno v6 곡과 뮤직비디오로 만든다.",
-          "mini_headline": "춤에서 Suno v6 뮤비까지",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "video",
-                "yt": "1OITvfAN6-g"
+                "yt": "j8JAWfM6q1E"
               },
               {
                 "t": "p",
-                "x": "Braylon Browner와 Emmy 수상 안무가 겸 감독 Nina McNeely의 비하인드 장면을 따라가며, 춤이 노래가 되고 다시 움직임 중심의 온전한 창작 세계로 커지기까지 무엇이 필요한지 들여다본다."
+                "x": "Suno settled WMG's lawsuit in November 2025, signed BMG on August 12 and Believe on September 8, and launched its v6 models with those partners on September 9. Universal and Sony sued again on September 18."
               },
               {
                 "t": "p",
-                "x": "Browner는 \"작업하면서 바로 음악을 편집할 수 있다는 게 놀랍다\"며, 그 덕에 춤과 음악이 \"정말로 만나 완벽한 조화를 이룬다\"고 말한다. McNeely는 Suno가 \"안무가들에게 우리 안무 아이디어에 맞춰 곡을 바꿀 수 있는 힘을 되돌려 주고 있다\"고 덧붙인다."
-              },
-              {
-                "t": "p",
-                "x": "전체 뮤직비디오는 suno.com/braylon에서 볼 수 있다."
+                "x": "On labelling AI music, Shulman said no single party should decide, and “it's actually good that we don't have firm rules of the road just yet.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ダンスからSuno v6の\n曲とミュージックビデオへ",
-          "body": "BrownerとMcNeelyがダンスをSuno v6の曲とミュージックビデオに仕立てる。",
-          "mini_headline": "ダンスからSuno v6のMVへ",
+          "headline": "WMGとBMGがSunoに\n払うのはファン用リミックス",
+          "body": "Mikey Shulman CEOはWMGとBMGが払うのはファン用リミックスだと語った。",
+          "mini_headline": "WMGとBMGがSunoに払う対価",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+              },
+              {
+                "t": "p",
+                "x": "共同創業者でCEOのMikey Shulmanは10月1日、BloombergのScreentimeカンファレンスで、Sunoは最後に公表した有料会員2百万人、売上高USD $300 millionを今や「はるかに超えている」と述べた。いずれの数字についても新たな値は示さなかった。"
+              },
+              {
+                "t": "p",
+                "x": "Warner Music GroupとBMGがSunoに何の対価を払っているのかと問われ、Shulmanはこう答えた。「想像してみてほしい。好きなアーティストの音楽を手に取って遊び始め、リミックスしたり、カバーしたり、別の何かとマッシュアップしたりできる…これはまったく新しいプロダクトだ」"
+              },
+              {
                 "t": "video",
-                "yt": "1OITvfAN6-g"
+                "yt": "j8JAWfM6q1E"
               },
               {
                 "t": "p",
-                "x": "Braylon Brownerと、Emmy賞を受賞した振付師/監督のNina McNeelyの舞台裏に密着し、ダンスから曲へ、さらに動きを軸にした完全な創作世界へと至るまでに何が必要かを探る。"
+                "x": "Sunoは2025年11月にWMGの訴訟で和解し、8月12日にBMG、9月8日にBelieveと契約、9月9日にこれらのパートナーとともにv6モデルを公開した。UniversalとSonyは9月18日に改めて提訴した。"
               },
               {
                 "t": "p",
-                "x": "「作りながら音楽を編集できるのは本当にすごい」とBrownerは言い、それによってダンスと音楽が「しっかり出会い、完璧に調和する」と語る。McNeelyは、Sunoが「振付師に、自分たちの振付のアイデアに合わせて曲を変える力を取り戻させてくれている」と付け加える。"
-              },
-              {
-                "t": "p",
-                "x": "ミュージックビデオの全編はsuno.com/braylonで視聴できる。"
+                "x": "AI音楽の表示について、Shulmanはどこか一者が決めるべきではないとし、「確固たるルールがまだないのは、実は良いことだ」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从舞蹈到Suno v6\n歌曲与音乐视频",
-          "body": "Browner与McNeely把舞蹈变成Suno v6歌曲，再拍成围绕动作的音乐视频。",
-          "mini_headline": "从舞蹈到Suno v6视频",
+          "headline": "WMG与BMG向Suno付费\n为的是粉丝混音翻唱",
+          "body": "Suno CEO Mikey Shulman称,WMG与BMG买的是粉丝混音翻唱产品。",
+          "mini_headline": "WMG与BMG向Suno付费买什么",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+              },
+              {
+                "t": "p",
+                "x": "联合创始人兼CEO Mikey Shulman于10月1日在Bloomberg的Screentime大会上表示,Suno如今已“远远超过”其上次披露的2百万付费订阅用户和USD $300 million营收。他没有给出这两项的新数字。"
+              },
+              {
+                "t": "p",
+                "x": "被问及Warner Music Group和BMG付费给Suno买的是什么时,Shulman说:“想象一下,你可以拿来自己最喜欢的某位艺人的音乐,开始把玩它,对它进行混音、翻唱,或者与其他东西做混搭……这是一个全新的产品。”"
+              },
+              {
                 "t": "video",
-                "yt": "1OITvfAN6-g"
+                "yt": "j8JAWfM6q1E"
               },
               {
                 "t": "p",
-                "x": "跟随Braylon Browner与Emmy奖得主、编舞/导演Nina McNeely走进幕后，看看从舞蹈到歌曲，再到围绕动作构建的完整创作世界，需要付出什么。"
+                "x": "Suno于2025年11月与WMG就诉讼达成和解,8月12日与BMG、9月8日与Believe签约,并于9月9日与这些合作伙伴推出v6模型。Universal和Sony于9月18日再次提起诉讼。"
               },
               {
                 "t": "p",
-                "x": "“能够边做边编辑音乐，真是太棒了，”Browner说，这样舞蹈和音乐就能“真正交汇，完美和谐地配合”。McNeely补充说，Suno“正在把权力交还给编舞者，让我们能根据自己的编舞构想修改歌曲”。"
-              },
-              {
-                "t": "p",
-                "x": "完整音乐视频请见suno.com/braylon"
+                "x": "关于AI音乐标注,Shulman表示不应由任何单独一方来决定,并称“目前还没有明确的规则,其实是件好事”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "De un baile a una canción\ny un videoclip con Suno v6",
-          "body": "Braylon Browner y Nina McNeely llevan un baile a una canción de Suno v6 y a un videoclip centrado en el movimiento.",
-          "mini_headline": "Del baile a un videoclip con Suno v6",
+          "headline": "El CEO de Suno: WMG y BMG pagan\npor remixes de fans de artistas",
+          "body": "Al preguntarle qué pagan WMG y BMG a Suno, el CEO Mikey Shulman citó un producto de remezclas y versiones para fans.",
+          "mini_headline": "Lo que WMG y BMG pagan a Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Suno ya está “muy por encima” de los 2 millones de suscriptores de pago y los USD $300 millones de ingresos que reveló por última vez, dijo su cofundador y CEO, Mikey Shulman, en la conferencia Screentime de Bloomberg el 1 de octubre. No dio una cifra nueva para ninguno de los dos datos."
+              },
+              {
+                "t": "p",
+                "x": "Al preguntarle por qué pagan Warner Music Group y BMG a Suno, Shulman respondió: “Imagina que puedes tomar la música de uno de tus artistas favoritos y empezar a jugar con ella, remezclarla, versionarla o mezclarla con otra cosa… Es un producto totalmente nuevo”."
+              },
+              {
                 "t": "video",
-                "yt": "1OITvfAN6-g"
+                "yt": "j8JAWfM6q1E"
               },
               {
                 "t": "p",
-                "x": "Un vistazo entre bastidores con Braylon Browner y la coreógrafa/directora ganadora de un Emmy Nina McNeely para ver qué hace falta para pasar del baile a la canción y a un mundo creativo completo construido en torno al movimiento."
+                "x": "Suno resolvió la demanda de WMG en noviembre de 2025, firmó con BMG el 12 de agosto y con Believe el 8 de septiembre, y lanzó sus modelos v6 con esos socios el 9 de septiembre. Universal y Sony volvieron a demandar el 18 de septiembre."
               },
               {
                 "t": "p",
-                "x": "\"Es increíble poder editar la música sobre la marcha\", dice Browner, para que el baile y la música \"de verdad se encuentren y funcionen en perfecta armonía\". McNeely añade que Suno \"está devolviendo a los coreógrafos el poder de cambiar la canción para que se ajuste a nuestras ideas coreográficas\"."
+                "x": "Sobre el etiquetado de la música AI, Shulman dijo que ninguna parte por sí sola debería decidir y que “en realidad es bueno que todavía no tengamos reglas firmes del juego”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "WMG·BMG가 Suno에\n내는 돈, 팬 리믹스 대가",
+          "body": "CEO Mikey Shulman은 WMG·BMG가 팬 리믹스에 돈을 낸다고 했다.",
+          "mini_headline": "WMG·BMG가 Suno에 돈 내는 이유",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
               },
               {
                 "t": "p",
-                "x": "El videoclip completo puede verse en suno.com/braylon"
+                "x": "Suno 공동창업자이자 CEO인 Mikey Shulman은 10월 1일 Bloomberg의 Screentime 콘퍼런스에서 Suno가 앞서 공개한 유료 구독자 2 million명, 매출 USD $300 million을 이미 “훨씬 넘어섰다”고 말했다. 새 수치는 어느 쪽도 내놓지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Warner Music Group과 BMG가 무엇을 받고 Suno에 돈을 내느냐고 묻자 Shulman은 이렇게 답했다. “좋아하는 아티스트의 음악을 가져와 갖고 놀면서 리믹스하거나 커버하거나 다른 것과 매시업할 수 있다고 상상해 보라… 완전히 새로운 제품이다.”"
+              },
+              {
+                "t": "video",
+                "yt": "j8JAWfM6q1E"
+              },
+              {
+                "t": "p",
+                "x": "Suno는 2025년 11월 WMG 소송을 합의로 끝낸 뒤 8월 12일 BMG, 9월 8일 Believe와 계약했고 9월 9일 이들 파트너와 함께 v6 모델을 내놓았다. Universal과 Sony는 9월 18일 다시 소송을 냈다."
+              },
+              {
+                "t": "p",
+                "x": "AI 음악 표기를 두고 Shulman은 어느 한쪽이 정할 일이 아니라며 “아직 확고한 규칙이 없다는 건 사실 좋은 일”이라고 말했다."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ja": {
+          "headline": "WMGとBMGがSunoに\n払うのはファン用リミックス",
+          "body": "Mikey Shulman CEOはWMGとBMGが払うのはファン用リミックスだと語った。",
+          "mini_headline": "WMGとBMGがSunoに払う対価",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+              },
+              {
+                "t": "p",
+                "x": "共同創業者でCEOのMikey Shulmanは10月1日、BloombergのScreentimeカンファレンスで、Sunoは最後に公表した有料会員2百万人、売上高USD $300 millionを今や「はるかに超えている」と述べた。いずれの数字についても新たな値は示さなかった。"
+              },
+              {
+                "t": "p",
+                "x": "Warner Music GroupとBMGがSunoに何の対価を払っているのかと問われ、Shulmanはこう答えた。「想像してみてほしい。好きなアーティストの音楽を手に取って遊び始め、リミックスしたり、カバーしたり、別の何かとマッシュアップしたりできる…これはまったく新しいプロダクトだ」"
+              },
+              {
+                "t": "video",
+                "yt": "j8JAWfM6q1E"
+              },
+              {
+                "t": "p",
+                "x": "Sunoは2025年11月にWMGの訴訟で和解し、8月12日にBMG、9月8日にBelieveと契約、9月9日にこれらのパートナーとともにv6モデルを公開した。UniversalとSonyは9月18日に改めて提訴した。"
+              },
+              {
+                "t": "p",
+                "x": "AI音楽の表示について、Shulmanはどこか一者が決めるべきではないとし、「確固たるルールがまだないのは、実は良いことだ」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "WMG与BMG向Suno付费\n为的是粉丝混音翻唱",
+          "body": "Suno CEO Mikey Shulman称,WMG与BMG买的是粉丝混音翻唱产品。",
+          "mini_headline": "WMG与BMG向Suno付费买什么",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+              },
+              {
+                "t": "p",
+                "x": "联合创始人兼CEO Mikey Shulman于10月1日在Bloomberg的Screentime大会上表示,Suno如今已“远远超过”其上次披露的2百万付费订阅用户和USD $300 million营收。他没有给出这两项的新数字。"
+              },
+              {
+                "t": "p",
+                "x": "被问及Warner Music Group和BMG付费给Suno买的是什么时,Shulman说:“想象一下,你可以拿来自己最喜欢的某位艺人的音乐,开始把玩它,对它进行混音、翻唱,或者与其他东西做混搭……这是一个全新的产品。”"
+              },
+              {
+                "t": "video",
+                "yt": "j8JAWfM6q1E"
+              },
+              {
+                "t": "p",
+                "x": "Suno于2025年11月与WMG就诉讼达成和解,8月12日与BMG、9月8日与Believe签约,并于9月9日与这些合作伙伴推出v6模型。Universal和Sony于9月18日再次提起诉讼。"
+              },
+              {
+                "t": "p",
+                "x": "关于AI音乐标注,Shulman表示不应由任何单独一方来决定,并称“目前还没有明确的规则,其实是件好事”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El CEO de Suno: WMG y BMG pagan\npor remixes de fans de artistas",
+          "body": "Al preguntarle qué pagan WMG y BMG a Suno, el CEO Mikey Shulman citó un producto de remezclas y versiones para fans.",
+          "mini_headline": "Lo que WMG y BMG pagan a Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Suno ya está “muy por encima” de los 2 millones de suscriptores de pago y los USD $300 millones de ingresos que reveló por última vez, dijo su cofundador y CEO, Mikey Shulman, en la conferencia Screentime de Bloomberg el 1 de octubre. No dio una cifra nueva para ninguno de los dos datos."
+              },
+              {
+                "t": "p",
+                "x": "Al preguntarle por qué pagan Warner Music Group y BMG a Suno, Shulman respondió: “Imagina que puedes tomar la música de uno de tus artistas favoritos y empezar a jugar con ella, remezclarla, versionarla o mezclarla con otra cosa… Es un producto totalmente nuevo”."
+              },
+              {
+                "t": "video",
+                "yt": "j8JAWfM6q1E"
+              },
+              {
+                "t": "p",
+                "x": "Suno resolvió la demanda de WMG en noviembre de 2025, firmó con BMG el 12 de agosto y con Believe el 8 de septiembre, y lanzó sus modelos v6 con esos socios el 9 de septiembre. Universal y Sony volvieron a demandar el 18 de septiembre."
+              },
+              {
+                "t": "p",
+                "x": "Sobre el etiquetado de la música AI, Shulman dijo que ninguna parte por sí sola debería decidir y que “en realidad es bueno que todavía no tengamos reglas firmes del juego”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "WMG·BMG가 Suno에\n내는 돈, 팬 리믹스 대가",
+          "body": "CEO Mikey Shulman은 WMG·BMG가 팬 리믹스에 돈을 낸다고 했다.",
+          "mini_headline": "WMG와 BMG가 Suno에 돈을 내는 이유",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Suno 공동창업자이자 CEO인 Mikey Shulman은 10월 1일 Bloomberg의 Screentime 콘퍼런스에서 Suno가 지난번 공개한 유료 구독자 2 million명, 매출 USD $300 million을 이미 “훨씬 넘어섰다”고 말했다. 두 수치 모두 새 숫자는 밝히지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "Warner Music Group과 BMG가 Suno에 무엇을 대가로 돈을 내느냐는 질문에 Shulman은 이렇게 답했다. “좋아하는 아티스트의 음악을 가져와 갖고 놀면서 리믹스하거나 커버하거나 다른 것과 매시업할 수 있다고 상상해 보라… 완전히 새로운 제품이다.”"
+              },
+              {
+                "t": "video",
+                "yt": "j8JAWfM6q1E"
+              },
+              {
+                "t": "p",
+                "x": "Suno는 2025년 11월 WMG 소송을 합의로 끝냈고, 8월 12일 BMG, 9월 8일 Believe와 계약했으며, 9월 9일 이들 파트너와 함께 v6 모델을 내놓았다. Universal과 Sony는 9월 18일 다시 소송을 냈다."
+              },
+              {
+                "t": "p",
+                "x": "AI 음악 표기 문제에 대해 Shulman은 어느 한쪽이 결정해서는 안 된다며 “아직 확고한 규칙이 없다는 건 사실 좋은 일”이라고 말했다."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "suno-seoul-arts-students-studio",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "서울 음악도의 곡 스케치,\nSuno Studio에서",
+      "body": "서울예대 학생들은 Suno로 곡을 스케치하고 스템을 나눠 DAW에서 마무리한다.",
+      "mini_headline": "서울 학생들의 Suno 스케치",
+      "tool": "Music",
+      "source": "Suno Music (YouTube)",
+      "url": "https://www.youtube.com/watch?v=F0vEAbzFLzk",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "F0vEAbzFLzk"
+          },
+          {
+            "t": "p",
+            "x": "음악을 공부하는 학생들이 창작 과정에 Suno를 들이면 무슨 일이 생기는지 살펴본다."
+          },
+          {
+            "t": "p",
+            "x": "In The Cut 이번 편은 서울예술대학교(Seoul Institute of the Arts)를 찾았다. 학생들은 Suno로 아이디어를 키우고 보컬과 화성을 실험한다. 코드를 찾거나 달리 녹음하기 어려운 소리를 만든 뒤, 그 아이디어를 기존 프로덕션 워크플로로 가져간다."
+          },
+          {
+            "t": "p",
+            "x": "곡의 첫 실마리를 만드는 일부터 Suno Studio에서 스템을 나눠 DAW 안에서 작업을 이어가는 과정까지, 학생들은 Suno 덕에 작업이 빨라져도 최종 음악은 스스로 다듬는다고 말한다."
+          },
+          {
+            "t": "p",
+            "x": "새 창작 도구가 다음 세대 음악가를 만났을 때 벌어지는 일을 담았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Seoul music students sketch\nsongs with Suno Studio",
+          "body": "At Seoul Institute of the Arts, students use Suno to sketch ideas, try vocals and split stems, then finish in their DAW.",
+          "mini_headline": "Seoul students sketch with Suno",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "F0vEAbzFLzk"
+              },
+              {
+                "t": "p",
+                "x": "What happens when music students bring Suno into their creative process?"
+              },
+              {
+                "t": "p",
+                "x": "In this episode of In The Cut, we visit Seoul Institute of the Arts in Seoul, South Korea to see how students are using Suno to develop ideas, experiment with vocals and harmonies, find chords, create sounds they might not otherwise be able to record, and bring those ideas into their existing production workflows."
+              },
+              {
+                "t": "p",
+                "x": "From generating the starting point of a song to separating stems in Suno Studio and continuing the work inside a DAW, the students share how Suno can help them move faster while still shaping the final music themselves."
+              },
+              {
+                "t": "p",
+                "x": "See what happens when new creative tools meet the next generation of musicians."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "서울 음악도의 곡 스케치,\nSuno Studio에서",
+          "body": "서울예대 학생들은 Suno로 곡을 스케치하고 스템을 나눠 DAW에서 마무리한다.",
+          "mini_headline": "서울 학생들의 Suno 스케치",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "F0vEAbzFLzk"
+              },
+              {
+                "t": "p",
+                "x": "음악을 공부하는 학생들이 창작 과정에 Suno를 들이면 무슨 일이 생기는지 살펴본다."
+              },
+              {
+                "t": "p",
+                "x": "In The Cut 이번 편은 서울예술대학교(Seoul Institute of the Arts)를 찾았다. 학생들은 Suno로 아이디어를 키우고 보컬과 화성을 실험한다. 코드를 찾거나 달리 녹음하기 어려운 소리를 만든 뒤, 그 아이디어를 기존 프로덕션 워크플로로 가져간다."
+              },
+              {
+                "t": "p",
+                "x": "곡의 첫 실마리를 만드는 일부터 Suno Studio에서 스템을 나눠 DAW 안에서 작업을 이어가는 과정까지, 학생들은 Suno 덕에 작업이 빨라져도 최종 음악은 스스로 다듬는다고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "새 창작 도구가 다음 세대 음악가를 만났을 때 벌어지는 일을 담았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ソウルの音大生、曲の下書きは\nSuno Studioで",
+          "body": "ソウル芸術大学の学生はSunoで着想を形にし、ステムを分けてDAWで仕上げる。",
+          "mini_headline": "ソウルの学生がSunoで下書き",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "F0vEAbzFLzk"
+              },
+              {
+                "t": "p",
+                "x": "音楽を学ぶ学生が創作過程にSunoを取り入れると、何が起きるのか。"
+              },
+              {
+                "t": "p",
+                "x": "In The Cutの今回のエピソードでは、韓国・ソウルにあるソウル芸術大学(Seoul Institute of the Arts)を訪ね、学生たちがSunoを使ってアイデアを発展させ、ボーカルやハーモニーを試し、コードを探し、ほかの方法では録音できないようなサウンドを作り、そのアイデアを既存の制作ワークフローに取り込む様子を見る。"
+              },
+              {
+                "t": "p",
+                "x": "曲の出発点を生成するところから、Suno Studioでステムを分離し、DAWで作業を続けるところまで、学生たちはSunoによって作業を速めつつ、最終的な音楽は自分たちで形づくれると語る。"
+              },
+              {
+                "t": "p",
+                "x": "新しい創作ツールが次世代のミュージシャンと出会うと何が起きるのか、その様子を見てほしい。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "首尔音乐学生用\nSuno Studio打草稿",
+          "body": "首尔艺术大学学生用Suno构思、尝试人声、分离分轨,再在DAW中完成。",
+          "mini_headline": "首尔学生用Suno打草稿",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "F0vEAbzFLzk"
+              },
+              {
+                "t": "p",
+                "x": "当音乐专业的学生把Suno引入创作过程,会发生什么?"
+              },
+              {
+                "t": "p",
+                "x": "在本期In The Cut中,我们走访了韩国首尔的首尔艺术大学(Seoul Institute of the Arts),看看学生们如何用Suno发展创意、尝试人声与和声、寻找和弦、创造原本可能无法录制的声音,并将这些创意带入他们现有的制作流程。"
+              },
+              {
+                "t": "p",
+                "x": "从生成一首歌的起点,到在Suno Studio中分离分轨、再在DAW里继续创作,学生们分享了Suno如何帮助他们加快进度,同时最终的音乐仍由自己塑造。"
+              },
+              {
+                "t": "p",
+                "x": "看看当新的创作工具遇上新一代音乐人时,会发生什么。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Alumnos de música en Seúl\nesbozan temas con Suno Studio",
+          "body": "En el Seoul Institute of the Arts, el alumnado esboza con Suno, prueba voces y separa stems, y termina en su DAW.",
+          "mini_headline": "Alumnos de Seúl esbozan con Suno",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "F0vEAbzFLzk"
+              },
+              {
+                "t": "p",
+                "x": "¿Qué ocurre cuando estudiantes de música incorporan Suno a su proceso creativo?"
+              },
+              {
+                "t": "p",
+                "x": "En este episodio de In The Cut visitamos el Seoul Institute of the Arts, en Seúl (Corea del Sur), para ver cómo los estudiantes usan Suno para desarrollar ideas, experimentar con voces y armonías, encontrar acordes, crear sonidos que de otro modo quizá no podrían grabar y llevar esas ideas a sus flujos de producción habituales."
+              },
+              {
+                "t": "p",
+                "x": "Desde generar el punto de partida de una canción hasta separar stems en Suno Studio y seguir trabajando en un DAW, los estudiantes cuentan cómo Suno les ayuda a avanzar más rápido sin dejar de dar forma ellos mismos a la música final."
+              },
+              {
+                "t": "p",
+                "x": "Así es el encuentro entre las nuevas herramientas creativas y la próxima generación de músicos."
               }
             ]
           }
@@ -1537,105 +897,433 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "춤에서 Suno v6\n노래와 뮤직비디오로",
-          "body": "Browner·McNeely가 춤을 Suno v6 곡과 뮤직비디오로 만든다.",
-          "mini_headline": "춤에서 Suno v6 뮤비까지",
+          "headline": "서울 음악도의 곡 스케치,\nSuno Studio에서",
+          "body": "서울예대 학생들은 Suno로 곡을 스케치하고 스템을 나눠 DAW에서 마무리한다.",
+          "mini_headline": "서울 학생들의 Suno 스케치",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "1OITvfAN6-g"
+                "yt": "F0vEAbzFLzk"
               },
               {
                 "t": "p",
-                "x": "Braylon Browner와 Emmy 수상 안무가/감독 Nina McNeely의 비하인드 장면을 통해 춤에서 노래로, 다시 움직임을 중심으로 한 완전한 창작 세계로 나아가는 데 무엇이 필요한지 살펴본다."
+                "x": "음악을 공부하는 학생들이 창작 과정에 Suno를 들이면 무슨 일이 생기는지 살펴본다."
               },
               {
                 "t": "p",
-                "x": "Browner는 \"작업하면서 바로 음악을 편집할 수 있다는 게 놀랍다\"며, 덕분에 춤과 음악이 \"정말로 만나 완벽한 조화를 이룬다\"고 말한다. McNeely는 Suno가 \"안무가들에게 우리 안무 아이디어에 맞춰 곡을 바꿀 수 있는 힘을 되돌려 주고 있다\"고 덧붙인다."
+                "x": "In The Cut 이번 편은 한국 서울의 서울예술대학교(Seoul Institute of the Arts)를 찾아, 학생들이 Suno로 아이디어를 발전시키고, 보컬과 화성을 실험하고, 코드를 찾고, 달리 녹음하기 어려운 소리를 만들고, 그 아이디어를 기존 프로덕션 워크플로에 가져오는 모습을 담았다."
               },
               {
                 "t": "p",
-                "x": "전체 뮤직비디오는 suno.com/braylon에서 볼 수 있다."
+                "x": "곡의 출발점을 생성하는 일부터 Suno Studio에서 스템을 분리하고 DAW 안에서 작업을 이어가는 과정까지, 학생들은 Suno가 작업 속도를 높여 주면서도 최종 음악은 스스로 다듬게 해 준다고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "새로운 창작 도구가 차세대 음악가들을 만나면 어떤 일이 일어나는지 확인할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ダンスからSuno v6の\n曲とミュージックビデオへ",
-          "body": "BrownerとMcNeelyがダンスをSuno v6の曲とミュージックビデオに仕立てる。",
-          "mini_headline": "ダンスからSuno v6のMVへ",
+          "headline": "ソウルの音大生、曲の下書きは\nSuno Studioで",
+          "body": "ソウル芸術大学の学生はSunoで着想を形にし、ステムを分けてDAWで仕上げる。",
+          "mini_headline": "ソウルの学生がSunoで下書き",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "1OITvfAN6-g"
+                "yt": "F0vEAbzFLzk"
               },
               {
                 "t": "p",
-                "x": "Braylon Brownerと、Emmy賞を受賞した振付師/監督のNina McNeelyの舞台裏に密着し、ダンスから曲へ、さらに動きを軸にした完全な創作世界へと至るまでに何が必要かを探る。"
+                "x": "音楽を学ぶ学生が創作過程にSunoを取り入れると、何が起きるのか。"
               },
               {
                 "t": "p",
-                "x": "「作りながら音楽を編集できるのは本当にすごい」とBrownerは言い、それによってダンスと音楽が「しっかり出会い、完璧に調和する」と語る。McNeelyは、Sunoが「振付師に、自分たちの振付のアイデアに合わせて曲を変える力を取り戻させてくれている」と付け加える。"
+                "x": "In The Cutの今回のエピソードでは、韓国・ソウルにあるソウル芸術大学(Seoul Institute of the Arts)を訪ね、学生たちがSunoを使ってアイデアを発展させ、ボーカルやハーモニーを試し、コードを探し、ほかの方法では録音できないようなサウンドを作り、そのアイデアを既存の制作ワークフローに取り込む様子を見る。"
               },
               {
                 "t": "p",
-                "x": "ミュージックビデオの全編はsuno.com/braylonで視聴できる。"
+                "x": "曲の出発点を生成するところから、Suno Studioでステムを分離し、DAWで作業を続けるところまで、学生たちはSunoによって作業を速めつつ、最終的な音楽は自分たちで形づくれると語る。"
+              },
+              {
+                "t": "p",
+                "x": "新しい創作ツールが次世代のミュージシャンと出会うと何が起きるのか、その様子を見てほしい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "从舞蹈到Suno v6\n歌曲与音乐视频",
-          "body": "Browner与McNeely把舞蹈变成Suno v6歌曲，再拍成围绕动作的音乐视频。",
-          "mini_headline": "从舞蹈到Suno v6视频",
+          "headline": "首尔音乐学生用\nSuno Studio打草稿",
+          "body": "首尔艺术大学学生用Suno构思、尝试人声、分离分轨,再在DAW中完成。",
+          "mini_headline": "首尔学生用Suno打草稿",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "1OITvfAN6-g"
+                "yt": "F0vEAbzFLzk"
               },
               {
                 "t": "p",
-                "x": "跟随Braylon Browner与Emmy奖得主、编舞/导演Nina McNeely走进幕后，看看从舞蹈到歌曲，再到围绕动作构建的完整创作世界，需要付出什么。"
+                "x": "当音乐专业的学生把Suno引入创作过程,会发生什么?"
               },
               {
                 "t": "p",
-                "x": "“能够边做边编辑音乐，真是太棒了，”Browner说，这样舞蹈和音乐就能“真正交汇，完美和谐地配合”。McNeely补充说，Suno“正在把权力交还给编舞者，让我们能根据自己的编舞构想修改歌曲”。"
+                "x": "在本期In The Cut中,我们走访了韩国首尔的首尔艺术大学(Seoul Institute of the Arts),看看学生们如何用Suno发展创意、尝试人声与和声、寻找和弦、创造原本可能无法录制的声音,并将这些创意带入他们现有的制作流程。"
               },
               {
                 "t": "p",
-                "x": "完整音乐视频请见suno.com/braylon"
+                "x": "从生成一首歌的起点,到在Suno Studio中分离分轨、再在DAW里继续创作,学生们分享了Suno如何帮助他们加快进度,同时最终的音乐仍由自己塑造。"
+              },
+              {
+                "t": "p",
+                "x": "看看当新的创作工具遇上新一代音乐人时,会发生什么。"
               }
             ]
           }
         },
         "es": {
-          "headline": "De un baile a una canción\ny un videoclip con Suno v6",
-          "body": "Braylon Browner y Nina McNeely llevan un baile a una canción de Suno v6 y a un videoclip centrado en el movimiento.",
-          "mini_headline": "Del baile a un videoclip con Suno v6",
+          "headline": "Alumnos de música en Seúl\nesbozan temas con Suno Studio",
+          "body": "En el Seoul Institute of the Arts, el alumnado esboza con Suno, prueba voces y separa stems, y termina en su DAW.",
+          "mini_headline": "Alumnos de Seúl esbozan con Suno",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "F0vEAbzFLzk"
+              },
+              {
+                "t": "p",
+                "x": "¿Qué ocurre cuando estudiantes de música incorporan Suno a su proceso creativo?"
+              },
+              {
+                "t": "p",
+                "x": "En este episodio de In The Cut visitamos el Seoul Institute of the Arts, en Seúl (Corea del Sur), para ver cómo los estudiantes usan Suno para desarrollar ideas, experimentar con voces y armonías, encontrar acordes, crear sonidos que de otro modo quizá no podrían grabar y llevar esas ideas a sus flujos de producción habituales."
+              },
+              {
+                "t": "p",
+                "x": "Desde generar el punto de partida de una canción hasta separar stems en Suno Studio y seguir trabajando en un DAW, los estudiantes cuentan cómo Suno les ayuda a avanzar más rápido sin dejar de dar forma ellos mismos a la música final."
+              },
+              {
+                "t": "p",
+                "x": "Así es el encuentro entre las nuevas herramientas creativas y la próxima generación de músicos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "rollingstone-smith-ai-fraud-sentencing",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "검찰, AI 음악 사기범에\n징역 네 해 가까이 구형",
+      "body": "검찰은 AI곡으로 $8M 넘게 챙긴 Michael Smith에 46개월을 구형했다.",
+      "mini_headline": "AI 사기범에 징역 네 해 가까이 구형",
+      "tool": "Music",
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+          },
+          {
+            "t": "p",
+            "x": "검찰은 노스캐롤라이나의 한 남성이 “상당한 처벌”을 받아야 한다고 밝혔다. 그는 인공지능으로 가상의 아티스트 이름을 붙인 가짜 곡 수천 곡을 만들고, 봇 계정 군단을 풀어 이 곡들을 수십억 회 스트리밍했다."
+          },
+          {
+            "t": "p",
+            "x": "맨해튼 연방검찰은 Michael Smith에게 최소 46개월의 징역형을 내려 달라고 판사에게 요청했다. Smith 측 변호인은 보호관찰만 요청한 반면 연방 보호관찰 당국은 24개월을 권고했다. 선고는 10월 6일이다."
+          },
+          {
+            "t": "p",
+            "x": "검찰에 따르면 2023년 4월 Taylor Swift의 전체 카탈로그가 YouTube Music 패밀리 요금제 구독자에게서 올린 스트리밍은 9.3 million 회였지만, Smith의 곡은 80.9 million 회에 달했다. 검찰은 그가 여섯 해 넘게 부당한 로열티로 $8 million 이상을 챙겼다고 본다."
+          },
+          {
+            "t": "p",
+            "x": "Smith는 3월 전신 사기 공모 혐의 한 건의 유죄를 인정하고 몰수금 $8,091,843.64를 내기로 했다. 변호인들은 그가 “깊이 후회하고 있다”면서도 “연방 범죄를 저지르려 한 것은 아니었다”고 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Prosecutors seek nearly four\nyears for AI music fraudster",
+          "body": "Prosecutors want at least 46 months for Michael Smith, who used AI songs and bot streams to take over $8M in royalties.",
+          "mini_headline": "Four years sought for AI fraudster",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "1OITvfAN6-g"
+                "t": "img",
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "Un vistazo entre bastidores con Braylon Browner y la coreógrafa/directora ganadora de un Emmy Nina McNeely para ver qué hace falta para pasar del baile a la canción y a un mundo creativo completo construido en torno al movimiento."
+                "x": "The North Carolina man who used artificial intelligence to create thousands of fake songs by invented artists, then unleashed an army of bot accounts to stream the tracks billions of times, should face “significant punishment,” prosecutors say."
               },
               {
                 "t": "p",
-                "x": "\"Es increíble poder editar la música sobre la marcha\", dice Browner, para que el baile y la música \"de verdad se encuentren y funcionen en perfecta armonía\". McNeely añade que Suno \"está devolviendo a los coreógrafos el poder de cambiar la canción para que se ajuste a nuestras ideas coreográficas\"."
+                "x": "Manhattan federal prosecutors urged a judge to sentence Michael Smith to at least 46 months behind bars. Smith's defense is asking for probation only; federal probation officials recommend 24 months. Sentencing is set for Oct. 6."
               },
               {
                 "t": "p",
-                "x": "El videoclip completo puede verse en suno.com/braylon"
+                "x": "In April 2023, Taylor Swift's entire catalog drew 9.3 million streams from YouTube Music family-plan subscribers, prosecutors said, while Smith's generated 80.9 million. They said he pocketed more than $8 million in unearned royalties over more than six years."
+              },
+              {
+                "t": "p",
+                "x": "Smith pleaded guilty in March to one count of conspiracy to commit wire fraud and agreed to pay $8,091,843.64 in forfeiture. His lawyers said he was “profoundly sorry” but “did not set out to commit a federal crime.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "검찰, AI 음악 사기범에\n징역 네 해 가까이 구형",
+          "body": "검찰은 AI곡으로 $8M 넘게 챙긴 Michael Smith에 46개월을 구형했다.",
+          "mini_headline": "AI 사기범에 징역 네 해 가까이 구형",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "검찰은 노스캐롤라이나의 한 남성이 “상당한 처벌”을 받아야 한다고 밝혔다. 그는 인공지능으로 가상의 아티스트 이름을 붙인 가짜 곡 수천 곡을 만들고, 봇 계정 군단을 풀어 이 곡들을 수십억 회 스트리밍했다."
+              },
+              {
+                "t": "p",
+                "x": "맨해튼 연방검찰은 Michael Smith에게 최소 46개월의 징역형을 내려 달라고 판사에게 요청했다. Smith 측 변호인은 보호관찰만 요청한 반면 연방 보호관찰 당국은 24개월을 권고했다. 선고는 10월 6일이다."
+              },
+              {
+                "t": "p",
+                "x": "검찰에 따르면 2023년 4월 Taylor Swift의 전체 카탈로그가 YouTube Music 패밀리 요금제 구독자에게서 올린 스트리밍은 9.3 million 회였지만, Smith의 곡은 80.9 million 회에 달했다. 검찰은 그가 여섯 해 넘게 부당한 로열티로 $8 million 이상을 챙겼다고 본다."
+              },
+              {
+                "t": "p",
+                "x": "Smith는 3월 전신 사기 공모 혐의 한 건의 유죄를 인정하고 몰수금 $8,091,843.64를 내기로 했다. 변호인들은 그가 “깊이 후회하고 있다”면서도 “연방 범죄를 저지르려 한 것은 아니었다”고 했다."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La Fiscalía pide casi cuatro\naños para un estafador con AI",
+          "body": "La Fiscalía pide al menos 46 meses para Michael Smith, que con canciones AI y bots se llevó más de $8M en regalías.",
+          "mini_headline": "Piden casi cuatro años para un estafador AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "El hombre de Carolina del Norte que usó inteligencia artificial para crear miles de canciones falsas de artistas inventados y luego desató un ejército de cuentas bot para reproducirlas miles de millones de veces debería recibir un “castigo significativo”, según la Fiscalía."
+              },
+              {
+                "t": "p",
+                "x": "Los fiscales federales de Manhattan pidieron a un juez que condene a Michael Smith a al menos 46 meses de prisión. La defensa de Smith solicita solo libertad vigilada; los funcionarios federales de libertad vigilada recomiendan 24 meses. La sentencia está fijada para el 6 de octubre."
+              },
+              {
+                "t": "p",
+                "x": "En abril de 2023, todo el catálogo de Taylor Swift sumó 9.3 millones de reproducciones entre los suscriptores del plan familiar de YouTube Music, según la Fiscalía, mientras que el de Smith generó 80.9 millones. Afirmaron que se embolsó más de $8 millones en regalías indebidas durante más de seis años."
+              },
+              {
+                "t": "p",
+                "x": "Smith se declaró culpable en marzo de un cargo de conspiración para cometer fraude electrónico y aceptó pagar $8,091,843.64 en decomiso. Sus abogados dijeron que estaba “profundamente arrepentido”, pero que “no se propuso cometer un delito federal”."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI楽曲詐欺の男に\n検察が禁錮約四年求刑",
+          "body": "検察はAI曲とボットで800万ドル超を得たMichael Smithに46か月以上を求刑。",
+          "mini_headline": "AI詐欺の男に約四年求刑",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "人工知能で架空のアーティストによる偽の楽曲を数千曲作り、ボットアカウントの大群に数十億回再生させたNorth Carolina州の男は「重い処罰」を受けるべきだと、検察は述べている。"
+              },
+              {
+                "t": "p",
+                "x": "Manhattanの連邦検察は、Michael Smithに少なくとも46か月の禁錮刑を科すよう判事に求めた。Smith側の弁護人は保護観察のみを求め、連邦保護観察当局は24か月を勧告している。量刑の言い渡しは10月6日の予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "検察によると、2023年4月、YouTube Musicのファミリープラン加入者によるTaylor Swiftの全カタログの再生数は930万回だったのに対し、Smithの楽曲は8090万回に達した。Smithは六年余りにわたり、不当な印税800万ドル超を手にしたという。"
+              },
+              {
+                "t": "p",
+                "x": "Smithは3月、通信詐欺の共謀罪一件で有罪を認め、$8,091,843.64の没収に応じた。弁護人は、Smithは「深く後悔している」が「連邦犯罪を犯すつもりはなかった」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "检方求判AI音乐骗子\n近四年徒刑",
+          "body": "检方求判用AI歌曲和机器人刷播骗取逾800万美元的Michael Smith至少46个月。",
+          "mini_headline": "AI骗子被求判近四年",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "检方表示，这名North Carolina男子利用人工智能，以虚构艺人之名制作数千首假歌，再动用大批机器人账号将其播放数十亿次，应受到“严厉惩罚”。"
+              },
+              {
+                "t": "p",
+                "x": "Manhattan联邦检察官敦促法官判处Michael Smith至少46个月监禁。Smith的辩护方仅请求缓刑；联邦缓刑官员建议判处24个月。宣判定于10月6日。"
+              },
+              {
+                "t": "p",
+                "x": "检方称，2023年4月，Taylor Swift全部作品在YouTube Music家庭套餐用户中的播放量为930万次，而Smith的歌曲达8090万次。检方还称，他在六年多时间里攫取了逾800万美元不应得的版税。"
+              },
+              {
+                "t": "p",
+                "x": "Smith于3月承认一项电汇欺诈共谋罪，并同意缴付$8,091,843.64的没收款。他的律师称他“深感抱歉”，但“并非有意触犯联邦罪行”。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "검찰, AI 음악 사기범에\n징역 네 해 가까이 구형",
+          "body": "검찰은 AI곡으로 $8M 넘게 챙긴 Michael Smith에 46개월을 구형했다.",
+          "mini_headline": "AI 사기범에 징역 네 해 가까이 구형",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "인공지능으로 가상의 아티스트 이름을 붙인 가짜 곡 수천 곡을 만든 뒤 봇 계정 군단을 풀어 이 곡들을 수십억 회 스트리밍한 노스캐롤라이나 남성은 “상당한 처벌”을 받아야 한다고 검찰은 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "맨해튼 연방검찰은 판사에게 Michael Smith에게 최소 46개월의 징역형을 선고해 달라고 요청했다. Smith 측 변호인은 보호관찰만을 요청하고 있으며, 연방 보호관찰 당국은 24개월을 권고했다. 선고는 10월 6일로 잡혀 있다."
+              },
+              {
+                "t": "p",
+                "x": "검찰에 따르면 2023년 4월 Taylor Swift의 전체 카탈로그가 YouTube Music 패밀리 요금제 구독자에게서 올린 스트리밍은 9.3 million 회였던 반면, Smith의 곡은 80.9 million 회를 기록했다. 검찰은 그가 여섯 해 넘게 부당한 로열티 $8 million 이상을 챙겼다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Smith는 3월 전신 사기 공모 혐의 한 건에 대해 유죄를 인정하고 몰수금 $8,091,843.64를 내기로 했다. 그의 변호인들은 그가 “깊이 후회하고 있다”면서도 “연방 범죄를 저지르려 한 것은 아니었다”고 밝혔다."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La Fiscalía pide casi cuatro\naños para un estafador con AI",
+          "body": "La Fiscalía pide al menos 46 meses para Michael Smith, que con canciones AI y bots se llevó más de $8M en regalías.",
+          "mini_headline": "Piden casi cuatro años para un estafador AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "El hombre de Carolina del Norte que usó inteligencia artificial para crear miles de canciones falsas de artistas inventados y luego desató un ejército de cuentas bot para reproducirlas miles de millones de veces debería recibir un “castigo significativo”, según la Fiscalía."
+              },
+              {
+                "t": "p",
+                "x": "Los fiscales federales de Manhattan pidieron a un juez que condene a Michael Smith a al menos 46 meses de prisión. La defensa de Smith solicita solo libertad vigilada; los funcionarios federales de libertad vigilada recomiendan 24 meses. La sentencia está fijada para el 6 de octubre."
+              },
+              {
+                "t": "p",
+                "x": "En abril de 2023, todo el catálogo de Taylor Swift sumó 9.3 millones de reproducciones entre los suscriptores del plan familiar de YouTube Music, según la Fiscalía, mientras que el de Smith generó 80.9 millones. Afirmaron que se embolsó más de $8 millones en regalías indebidas durante más de seis años."
+              },
+              {
+                "t": "p",
+                "x": "Smith se declaró culpable en marzo de un cargo de conspiración para cometer fraude electrónico y aceptó pagar $8,091,843.64 en decomiso. Sus abogados dijeron que estaba “profundamente arrepentido”, pero que “no se propuso cometer un delito federal”."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI楽曲詐欺の男に\n検察が禁錮約四年求刑",
+          "body": "検察はAI曲とボットで800万ドル超を得たMichael Smithに46か月以上を求刑。",
+          "mini_headline": "AI詐欺の男に約四年求刑",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "人工知能で架空のアーティストによる偽の楽曲を数千曲作り、ボットアカウントの大群に数十億回再生させたNorth Carolina州の男は「重い処罰」を受けるべきだと、検察は述べている。"
+              },
+              {
+                "t": "p",
+                "x": "Manhattanの連邦検察は、Michael Smithに少なくとも46か月の禁錮刑を科すよう判事に求めた。Smith側の弁護人は保護観察のみを求め、連邦保護観察当局は24か月を勧告している。量刑の言い渡しは10月6日の予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "検察によると、2023年4月、YouTube Musicのファミリープラン加入者によるTaylor Swiftの全カタログの再生数は930万回だったのに対し、Smithの楽曲は8090万回に達した。Smithは六年余りにわたり、不当な印税800万ドル超を手にしたという。"
+              },
+              {
+                "t": "p",
+                "x": "Smithは3月、通信詐欺の共謀罪一件で有罪を認め、$8,091,843.64の没収に応じた。弁護人は、Smithは「深く後悔している」が「連邦犯罪を犯すつもりはなかった」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "检方求判AI音乐骗子\n近四年徒刑",
+          "body": "检方求判用AI歌曲和机器人刷播骗取逾800万美元的Michael Smith至少46个月。",
+          "mini_headline": "AI骗子被求判近四年",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "检方表示，这名North Carolina男子利用人工智能，以虚构艺人之名制作数千首假歌，再动用大批机器人账号将其播放数十亿次，应受到“严厉惩罚”。"
+              },
+              {
+                "t": "p",
+                "x": "Manhattan联邦检察官敦促法官判处Michael Smith至少46个月监禁。Smith的辩护方仅请求缓刑；联邦缓刑官员建议判处24个月。宣判定于10月6日。"
+              },
+              {
+                "t": "p",
+                "x": "检方称，2023年4月，Taylor Swift全部作品在YouTube Music家庭套餐用户中的播放量为930万次，而Smith的歌曲达8090万次。检方还称，他在六年多时间里攫取了逾800万美元不应得的版税。"
+              },
+              {
+                "t": "p",
+                "x": "Smith于3月承认一项电汇欺诈共谋罪，并同意缴付$8,091,843.64的没收款。他的律师称他“深感抱歉”，但“并非有意触犯联邦罪行”。"
               }
             ]
           }
