@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-05",
+  "section": "science",
+  "items": [
+    {
+      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+      "source": "MIT News",
+      "published_iso": "2026-10-01T22:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
+      "excerpt": "The InstructMesh generative AI tool helps users 3D print working, real-world items with ease by understanding how designs should look and which edits users truly want. You can prompt the system to produce a 3D model, then ask it to edit specific parts.",
+      "category": "science",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "MIT CSAIL research system (InstructMesh) where generative AI is the core result: part-level editing of AI-made 3D meshes into fabricable objects; adds an engineering/fabrication field and a fifth distinct outlet."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://techxplore.com/news/2026-10-visual-illusion-reveals-today-ai.html": {
+        "verdict": "new",
+        "nearest": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
+        "new_action": ""
+      },
+      "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://medicalxpress.com/news/2026-09-ai-health-anxiety-depression-young.html": {
+        "verdict": "new",
+        "nearest": "https://www.psychologytoday.com/ca/blog/the-future-brain/202609/ai-use-and-emotional-problems-in-children-and-teens",
+        "new_action": ""
+      },
+      "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001": {
+        "verdict": "new",
+        "nearest": "https://techxplore.com/news/2026-09-hardflow-algorithm-generative-ai-high.html",
+        "new_action": ""
+      },
+      "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/": {
+        "verdict": "new",
+        "nearest": "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
+        "new_action": ""
+      }
+    },
+    "note": "SWAP: removed ScienceDaily 'Scientists burned their own scrolls...' (Herculaneum). The fact-check found AI is only background there: the study tested lead in ink on burned replica scrolls and has no AI result. Backfilled with MIT News InstructMesh (CSAIL; generative AI is central to the result; the URL is not in /tmp/ax-claimed-urls.txt, and no design-section pick covers this story; no similar story in the 30-day history_digest). Earlier drop still stands: phys.org 'AI scans 4.6 million compounds ... hydrogen positions' duplicates the 09-24 GEN Tautomer card. Other candidates were rejected for these reasons: SciAm attachment-theory piece, Psychology Today 'Your AI Therapist' and MIT Tech Review 'LLMs don't reason' are opinion/essay; Talus Bio rests on vendor internal benchmarks and would be a second biology/drug item next to Quine; MIT algorithmic monoculture is economics, with AI only peripheral; in SciAm Etruscan tomb the AI angle is unclear; the Phys.org, Tech Xplore and Medical Xpress items would repeat outlets already used (spatial transcriptomics, stripe patterns, quantum-inspired uncertainty, SwRI GAMES, chatbot harm); RetroChimera would repeat Microsoft Research and is close to the 09-05 small-molecules card. The 5 picks come from 5 distinct outlets."
+  }
+}

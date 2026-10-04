@@ -5203,6 +5203,155 @@
           "x": "今天，我们抢先展示与电脑交互的四种新方式：Portals、Visual Thinking、Responsive Video Interfaces与Interactive Worlds。Solaris等Interface World Models正在重新构想界面的可能形态。"
         }
       ]
+    },
+    "movies/curious-refuge-gpt-astra-agent-edit": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "JWEAmLHp7Sg"
+        },
+        {
+          "t": "p",
+          "x": "AI智能体究竟能完成多少电影制作工作？"
+        },
+        {
+          "t": "p",
+          "x": "在这段视频中，我们让GPT Astra整理并剪辑一段视频，包括制作VFX、SFX和营销素材。来看看我们的教程，了解哪些做法奏效、哪些没有。"
+        },
+        {
+          "t": "p",
+          "x": "完整的文字解析和提示词请见：https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
+        }
+      ]
+    },
+    "movies/mubi-cakarel-no-ai-films-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+          "cap": "Efe Cakarel"
+        },
+        {
+          "t": "p",
+          "x": "Mubi创始人兼CEO Efe Cakarel于9月26日在Zurich Film Festival的Zurich Summit上发表主题演讲时表示，公司“在电影方面将尽可能远离AI”。"
+        },
+        {
+          "t": "p",
+          "x": "“在Mubi，我们会使用AI，而且已经在工程、财务、运营、预测和客户服务中使用AI，”Cakarel说。他对这一策略作了限定：“这并不是因为我认为AI做不出好东西。那种论点自满，而且很可能是错的。恰恰是因为AI-generated内容即将变得非常出色，人类的创作才会变得更有价值。”"
+        },
+        {
+          "t": "p",
+          "x": "这位CEO表示，未来的价值将在于“意图”，以及“品味、注意力、文化正当性、社群、来源，最重要的是信任”。他警告说，AI可能导致同一部电影为不同观众制作出不同版本：“超个性化的娱乐给你满足感，而电影给你可以谈论的东西。”"
+        },
+        {
+          "t": "p",
+          "x": "“所以没错，我们希望机器在生活中承担大量工作；只是不希望它们来拍电影。因为如果我对娱乐业走向的判断没错，20年后，一家电影公司能说出的最激进的话，或许就是‘这是由人制作的’。”"
+        }
+      ]
+    },
+    "movies/tonic-dna-ai-hand-drawn-animation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+          "cap": "Tonic DNA Demo Reel 2026"
+        },
+        {
+          "t": "p",
+          "x": "本月，Tonic DNA上线了新网站。“我更愿意称之为焕新，而不是品牌重塑，”合伙人Stefanie Bitton说。Tonic DNA是一家根源可追溯到约四十年前的蒙特利尔工作室：它曾是传统动画公司、IMAX先驱、3D与混合制作公司、导演主导的创意工作室，如今则有一部原创作品正在制作中，并拥有由自家艺术家打造的AI流程。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+          "cap": "位于蒙特利尔市中心的Tonic DNA前台。"
+        },
+        {
+          "t": "p",
+          "x": "“说复兴，就意味着2D曾经消失过。但它从未消失，”Bitton说。今年，工作室新增了The Anta Claus of the South Pole，这是一部由Cordell Barker执导、与National Film Board of Canada（加拿大国家电影局）联合制作的24分钟2D节日特别片。"
+        },
+        {
+          "t": "p",
+          "x": "Tonic花了两年时间打造自有AI工具，Bitton称这种做法为“AI with intention”（有意图的AI）。“这并不意味着取代艺术家或跳过手艺，而是消除流程中的一些摩擦，让艺术家有更多实验空间。”目标是长篇2D。“起初阻力很大，”她说，但艺术家们参与了开发。“一旦技术开始模糊作者身份或绕过同意，就进入了完全不同的领域。”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+          "cap": "Tonic DNA休息区墙上挂满概念艺术。"
+        }
+      ]
+    },
+    "movies/biff-forum-biff-ai-film-future": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+          "cap": "第31届釜山国际电影节“2026 Forum BIFF”官方海报。/ 图片由釜山国际电影节提供"
+        },
+        {
+          "t": "p",
+          "x": "第31届釜山国际电影节（BIFF）上，国内外电影人将围绕人工智能（AI）带来的电影制作环境变化、韩国电影的危机以及电影人权益等议题展开讨论。"
+        },
+        {
+          "t": "p",
+          "x": "釜山国际电影节智硕电影研究所宣布，将于10月8日至11日在影像产业中心和釜山市观众媒体中心举办“2026 Forum BIFF”。"
+        },
+        {
+          "t": "p",
+          "x": "今年的主题是“谈论当代电影的可能性”。论坛将在电影产业、AI·创作、制度·政策、地区·环境4个领域举行8场会议。"
+        },
+        {
+          "t": "p",
+          "x": "本届电影节开幕片《昼与夜互为彼此》的导演金宗宽和中国导演贾樟柯将担任主旨发言人。"
+        },
+        {
+          "t": "p",
+          "x": "电影产业领域将剖析韩国中等预算电影减少的原因，探讨海外合拍的可能性，并讨论亚洲动画的发展与未来课题。"
+        },
+        {
+          "t": "p",
+          "x": "AI领域将探讨生成式AI对电影制作的影响以及创作者的角色。贾樟柯用AI制作的短片《贾樟柯的舞蹈》等相关作品也将放映。闵奎东导演等国内外电影人将参与其中。"
+        },
+        {
+          "t": "p",
+          "x": "论坛还将讨论电影人的权益问题，包括公平的合同与报酬、版权问题，以及电影节资助制度的改进方向。"
+        },
+        {
+          "t": "p",
+          "x": "地区领域将探讨釜山电影产业的可持续发展方案。电影界与行政机关的合作、在电影制作过程中减少碳排放的方法等是主要议题。"
+        },
+        {
+          "t": "p",
+          "x": "论坛无需提前报名，任何人均可免费参加。不设线上直播，仅在现场举行。"
+        },
+        {
+          "t": "p",
+          "x": "第31届釜山国际电影节将于10月6日至15日在电影殿堂一带举行。"
+        }
+      ]
+    },
+    "movies/tripo-smartmesh-previs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/dsc07842_2-opq4846368210-1280.jpg?itok=aLTYpIH9"
+        },
+        {
+          "t": "p",
+          "x": "Tripo AI是北京创立的VAST旗下产品品牌，在SIGGRAPH 2026上带来了5篇技术论文、一场主题演讲，以及荣获Best in Show的Real-Time Live!演示。公司称拥有2000万用户，今年夏天据报道以10亿美元估值融资约3.5亿美元。"
+        },
+        {
+          "t": "p",
+          "x": "首席科学家Yanpei Cao表示，这一演示基于已进入产品的SmartMesh。它经过优化，能以每个资产不到2秒的速度生成具备可用拓扑和纹理的游戏级资产；在正式产品中则“用时不到5秒或10秒”。公司称，其在建模、重拓扑、绑定、动画和纹理各环节默认开源。"
+        },
+        {
+          "t": "p",
+          "x": "Cao列举了四个领域：游戏、消费级3D打印、电影/动画/XR，以及机器人。大型工作室将这些资产用作参考、静态道具或场景白模，而小型独立团队如今可以探索更多方向。"
+        },
+        {
+          "t": "p",
+          "x": "谈到电影，Cao直言：“目前输出的质量……还达不到电影级标准。但人们仍在使用”，并补充说预演“现在对我们来说是一件大事”。Tripo正在为Maya、Houdini和Blender开发插件，并致力于打造能自动化繁琐工作流的智能体系统，以“与艺术家一起……而不是绕开他们”的方式构建AI。"
+        }
+      ]
     }
   }
 }

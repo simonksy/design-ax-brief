@@ -1,96 +1,63 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "gadgets",
   "items": [
     {
-      "tool": "Gadgets",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "title": "Insta360 turns its action cameras into free 3D scanners — Spatial Capture tool uses Gaussian Splatting to build 3D models with 4 free renders a month",
-      "url": "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month",
-      "source": "TechRadar",
-      "published_iso": "2026-10-02T16:34:13Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb-2000-80.jpg",
-      "excerpt": "Insta360 has launched Spatial Capture, a free feature that uses 3D Gaussian Splatting to turn short 360 videos into explorable 3D models of indoor spaces.",
-      "rationale": "New free feature turns a consumer 360 camera into a Gaussian-splat 3D scanner, so designers get cheap room capture for spatial and interior work."
-    },
-    {
+      "title": "Ray-Ban Meta Audio Drops The Camera For A Lighter, Socially Acceptable Design",
+      "url": "https://www.uploadvr.com/ray-ban-meta-audio-glasses-no-camera/",
+      "source": "UploadVR",
+      "published_iso": "2026-09-28T03:17:01.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Ray-Ban-Meta-Audio---Lifestyle3.jpg",
+      "excerpt": "Ray-Ban Meta Audio drops the camera for a lighter and sleeker design that's likely to be more socially acceptable amid the public privacy backlash.",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge",
-      "published_iso": "2026-10-02T21:08:37+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "excerpt": "“Proceed at your own risk!”",
-      "rationale": "Concrete new release: Meta opens Home Link code so makers can build their own Muse-powered hardware, which opens a prototyping path for AI device designers."
+      "rationale": "The actual product launch of camera-less Meta AI glasses, after the 09-18 card covered only the report; a real product-design response to the privacy backlash."
     },
     {
-      "tool": "Gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse — new GB10 config starts at $4999 for those who can work with less",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-10-02T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/D4D8sJFKUe4PFUpqUAPSfB-2560-80.jpg",
-      "excerpt": "Less memory, lower price, otherwise identical",
-      "rationale": "New lower-priced 64GB DGX Spark config makes a local-AI desktop box more affordable for studios that run models on their own hardware."
-    },
-    {
+      "title": "Apple's cheapest iPad is finally getting Apple Intelligence, leaked code shows",
+      "url": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-09-25T19:23:00+00:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
+      "excerpt": "Leaked code indicates Apple's next entry-level iPad will support Apple Intelligence, bringing on-device AI features to its cheapest tablet.",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "title": "Gemini fully replaces Google Assistant on Android",
-      "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
-      "source": "9to5Google",
-      "published_iso": "2026-09-28T20:48:08+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2018/01/google_assistant_logo_11.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "At the start of September, the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out.",
-      "rationale": "Platform milestone: Assistant is gone from Android phones and Gemini is now the default voice layer, which changes the baseline for anyone designing voice or assistant flows."
+      "rationale": "Brings on-device Apple Intelligence to Apple's entry-level tablet, which widens the device base for AI features. No matching card in the history."
     },
     {
+      "title": "Boston Dynamics' Atlas robot gets new hands",
+      "url": "https://www.notebookcheck.net/Boston-Dynamics-Atlas-robot-gets-new-hands.1413778.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-10-01T21:21:00+00:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-10-01-at-22.36.04.png",
+      "excerpt": "Boston Dynamics showed redesigned hands for its electric Atlas humanoid, aimed at more dexterous manipulation for real-world tasks.",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#f5a623",
-      "motif": "headset",
-      "title": "Apple is reportedly building a smart home camera that won't record video footage of you or anyone else",
-      "url": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
-      "source": "Engadget",
-      "published_iso": "2026-10-02T13:44:31+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/l-intro-1790948027.jpg",
-      "excerpt": "The device will apparently use AI to analyze activity in your home without actually filming it.",
-      "rationale": "Newly reported Apple device that uses on-device AI to sense activity without storing footage, a privacy-by-design hardware pattern not covered before."
+      "motif": "cube",
+      "rationale": "A new hardware reveal for a leading humanoid robot that adds a robotics angle to a pool heavy on glasses; distinct from the 09-26 Tesla Optimus hands card."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.techradar.com/cameras/360-cameras/insta360-cameras-get-free-3d-scanner-upgrade-and-the-gaussian-splatting-tool-gives-you-4-free-renders-a-month": {
-        "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Acer-debuts-Aspire-G-3D-16-Glasses-free-3D-gaming-laptop-with-AMD-Ryzen-AI-Max-395-and-128-GB-RAM-capable-of-running-large-AI-models-and-OpenClaw.1385303.0.html",
-        "new_action": ""
-      },
-      "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link": {
+      "https://www.uploadvr.com/ray-ban-meta-audio-glasses-no-camera/": {
         "verdict": "follow-up",
-        "nearest": "https://www.androidauthority.com/meta-smart-glasses-muse-agent-leak-3714611/",
-        "new_action": "Meta released open-source Home Link code that lets makers build their own Muse AI gadgets. This is a new release, not the 09-24 glasses-assistant leak, the 09-23 0-day or the 09-25 keychain launch."
-      },
-      "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less": {
-        "verdict": "new",
-        "nearest": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu",
-        "new_action": ""
-      },
-      "https://9to5google.com/2026/09/28/google-assistant-gemini-android/": {
-        "verdict": "new",
-        "nearest": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
-        "new_action": ""
-      },
-      "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/": {
-        "verdict": "new",
         "nearest": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
-        "new_action": ""
+        "new_action": "Official launch of the Ray-Ban Meta Audio product (camera-less glasses); the 09-18 card was only a report that Meta was building them."
+      },
+      "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html": {
+        "verdict": "new",
+        "nearest": ""
+      },
+      "https://www.notebookcheck.net/Boston-Dynamics-Atlas-robot-gets-new-hands.1413778.0.html": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands"
       }
     },
-    "note": "Dropped as repeats of published gadgets stories: Google Home Find My Phone update (same Google Home update run as 10-02 'Gemini for Home ... noisy rooms'); Apple Watch S12/Ultra 4 features (likely-repeat of 09-08); Apple homeOS and HomePad Oct 13 (rumor follow-ups of 09-22 'Apple Smart Home Display coming next month', no official release); Samsung Android XR glasses launch window (same story as 10-02 Samsung FCC smart glasses); CNET Qualcomm Adreno Neural Fusion (follow-up of 09-03 Neural Fusion and 09-23 Qualcomm flagship, no new release); UploadVR Meta Muse on glasses (same story as 09-24 Muse glasses leak; the Verge open-source release is kept instead); Notebookcheck Sony QSSR (games published it 10-02 via IGN). Not chosen on merit: Android Auto Gemini bug (minor), CNET weather voice test (evergreen comparison), Microsoft Oct 7 event preview (speculation), Xiaomi washer-dryer (weak AI angle), iPad 12 Apple Intelligence leak (code rumor), Body Proxy (would have made 2 Meta-glasses cards next to Muse). Nearest notes: for the Gemini-replaces-Assistant pick, history_match points to the XREAL hands-on, but the real related history is 09-05 'Gemini overlay bubble' and nothing on Assistant deprecation, so it is new. For the Apple camera pick, history_match is the roadtovr Meta camera-less glasses story; the closer one is 09-27 Verge 'Apple is making your security camera smarter' (software for third-party cameras, not a new Apple device). Cross-section: the Verge Muse open-source item is also in the design pool (vr) and should stay in gadgets only. Outlets: TechRadar, The Verge, Tom's Hardware, 9to5Google, Engadget (1 each)."
+    "note": "SWAP pass: removed the Soulog Sense recorder (Android Authority; a paid 'Promoted' post) and the Newsom smart-glasses veto (Engadget; the article never mentions AI), both on fact-check. One backfill: Meta Ray-Ban Display international launch (UploadVR). Its history_match (Apple Smart Home Display, 09-22) is a false word match on 'Display'. No Ray-Ban Display story is in the 30-day digest, and it is a distinct product from the Ray-Ban Meta Audio pick (a separate release, not a content-hub repeat). UploadVR now has 2 picks and Notebookcheck has 2, so the outlet cap is met. Enrichment must confirm that the 'new features' are AI features. No second backfill qualified. Excluded at the user's request as earlier duplicates: PS5 AI upscaling, Meta glasses Muse, Meta Muse hands-on, Apple Oct 13 home products and the iMac G4-style hub, the Samsung XR glasses launch window, and Qualcomm Adreno Neural Fusion. Rejected on quality: Acemagic F9A Pro (a third Notebookcheck pick would break the outlet cap, and it repeats recent mini-PC cards); Amazon driver glasses (Tom's Guide; an opinion and warehouse-tour essay, not a launch); Soundcore Space 2 Pro review (its AI feature reportedly doesn't work, so AI is incidental); Microsoft AI PC teaser (speculation, related to the 09-26 Copilot+ card); iOS 27 Siri piece (commentary on the 09-15 iOS 27 Siri launch card); WIRED Meta Gen 3 review (battery and mic refresh, AI not central); PewDiePie Ajax (a software model, not a device). None of the picks overlaps /tmp/ax-claimed-urls.txt from other sections. | Orchestrator: Meta Ray-Ban Display replacement removed after enrichment fact-check (AI not central to the article); curator found no other qualifying backfill."
   }
 }

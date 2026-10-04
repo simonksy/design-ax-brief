@@ -6414,6 +6414,102 @@
           "x": "Road to VR señala que Samsung tendrá que enfrentarse a la ventaja de varios años de Meta y al mismo escrutinio público sobre las gafas con cámara que ha recibido Meta."
         }
       ]
+    },
+    "gadgets/ipad-entry-apple-intelligence-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
+          "cap": "El iPad 11 (2025)"
+        },
+        {
+          "t": "p",
+          "x": "Un código filtrado revela que el próximo iPad 12 contará con mejoras de hardware notables diseñadas específicamente para admitir Apple Intelligence. Se espera que la tableta de entrada incluya el chip A19 y 8GB de RAM."
+        },
+        {
+          "t": "p",
+          "x": "Las referencias al modelo de 12.ª generación, halladas en el código de Apple por el colaborador de MacRumors Aaron Perris, también mencionan el módem celular propio C1X y el chip de redes inalámbricas N1 de la compañía. El A19 sustituye al chip A16 del actual iPad 11, lanzado en marzo de 2025."
+        },
+        {
+          "t": "p",
+          "x": "El cambio de chip lleva Apple Intelligence al iPad de entrada por primera vez. El A16 no es compatible con la plataforma, por lo que los usuarios del iPad 11 se quedan sin las herramientas de AI generativa de Apple y sin las funciones de Siri basadas en ellas. La memoria pasa de 6GB a 8GB, el mínimo que Apple exige para ejecutar Apple Intelligence."
+        },
+        {
+          "t": "p",
+          "x": "El C1X es compatible con redes 5G sub-6GHz y es más eficiente energéticamente, mientras que el N1 añade Wi-Fi 7, Bluetooth 6 y compatibilidad con Thread. El iPad 11 parte ahora de $449 tras una subida de precio en junio de 2026, y se espera que su sucesor llegue al mismo precio. Los hallazgos no incluyen una fecha de lanzamiento, y no se espera el iPad 12 antes de la primavera de 2027."
+        }
+      ]
+    },
+    "gadgets/atlas-redesigned-hands-bd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-10-01-at-22.36.04.png",
+          "cap": "Una nueva mano para Atlas."
+        },
+        {
+          "t": "p",
+          "x": "Atlas, de Boston Dynamics, recibe manos nuevas. La empresa de robótica mostró el nuevo diseño de la mano, que ahora debería poder manejar un taladro o mover dos pelotas de golf con una sola mano. Según Boston Dynamics, esto eleva a 13 los grados de libertad."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics ha presentado una nueva mano para su robot de gama alta, Atlas. Un nuevo vídeo muestra sus nuevas capacidades, entre ellas el manejo de un taladro. Aunque esta demostración se realizó con la ayuda de un operador remoto, debería mostrar lo que será posible en un futuro cercano. Actualmente, Boston Dynamics también investiga cómo lograr que Atlas aprenda realmente por sí mismo en lugar de ser entrenado."
+        },
+        {
+          "t": "p",
+          "x": "Atlas ya puede usar las nuevas manos de forma totalmente autónoma. Boston Dynamics lo demuestra con Atlas manipulando dos pelotas de golf con una sola mano. Atlas puede hacerlo sin meñique. Según la empresa, otro dedo no compensa la complejidad adicional que añadiría. También aumentaría el consumo de energía. Es solo un pulgar y tres dedos más."
+        },
+        {
+          "t": "p",
+          "x": "La complejidad ya alcanza un nivel cercano al de un minirrobot independiente. Las manos mejoradas de Atlas ofrecen ahora 13 grados de libertad, según el ingeniero mecánico de Boston Dynamics Dylan Thrush. Antes, Atlas se limitaba a 7 grados de libertad. Como la empresa planea usar Atlas en el ensamblaje de automóviles, estos grados de libertad adicionales probablemente resulten útiles. La nueva mano es algo más grande y más fuerte que una mano humana típica."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics también espera que, gracias a la mayor flexibilidad, la nueva mano evite mejor los movimientos que podrían dañar sus piezas mecánicas."
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        }
+      ]
+    },
+    "gadgets/insta360-spatial-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+          "cap": "Crédito de la imagen: Insta360"
+        },
+        {
+          "t": "p",
+          "x": "Insta360 lanzó Spatial Capture, una función gratuita que convierte video 360 en un modelo 3D detallado de un espacio real por el que es posible desplazarse. Todavía está en beta y ya está disponible para la Insta360 X6 y para cualquiera de las cámaras 360 de la compañía que graben video 5.7K a 30fps o más, incluidas la X4 Air y la X5."
+        },
+        {
+          "t": "p",
+          "x": "Spatial Capture se basa en 3D Gaussian Splatting (3DGS): el software calcula dónde estaba la cámara en cada momento y luego reconstruye la escena a partir de millones de pequeñas manchas semitransparentes. El resultado es una escena 3D fotorrealista que puede verse desde ángulos que la cámara nunca ocupó."
+        },
+        {
+          "t": "video",
+          "yt": "HOBZMKxbHKw"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma en la nube Splatica parte de $49.95 al mes; Spatial Capture ofrece cuatro generaciones gratuitas al mes. Insta360 afirma que Splatica produce resultados de mayor calidad para profesionales, mientras que Spatial Capture está pensada para usuarios ocasionales y procesa un video de dos minutos en una o dos horas, frente a unas ocho."
+        },
+        {
+          "t": "p",
+          "x": "Se graba un clip de dos minutos o menos y el procesamiento se hace en la nube. Insta360 recomienda espacios interiores bien iluminados de hasta 100 metros cuadrados, por lo que parece pensada para habitaciones más que para paisajes. Las escenas se pueden compartir mediante un enlace en el navegador, pero aún no se pueden exportar como archivos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+          "cap": "Crédito de la imagen: Insta360"
+        },
+        {
+          "t": "p",
+          "x": "El clip de prueba que el autor de la reseña grabó con su X6 no se pudo subir en dos ocasiones —el tipo de problema inicial esperable en una beta—, pero es un añadido gratuito bienvenido que suma valor a una cámara costosa."
+        }
+      ]
     }
   }
 }

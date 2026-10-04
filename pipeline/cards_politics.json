@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "politics",
   "cards": [
     {
-      "id": "newsom-ai-workplace-law",
+      "id": "xai-minnesota-nudify-ban-8th-circuit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "뉴섬, 캘리포니아\n직장 AI 제한 서명",
-      "body": "뉴섬 캘리포니아 주지사가 노동자 해고·감시에 AI 사용을 제한하는 법에 서명했다.",
-      "mini_headline": "뉴섬, 직장 AI 규정 서명",
+      "headline": "항소법원, 미네소타\nAI 누드화 금지법 제동",
+      "body": "8th Circuit이 xAI 위헌 소송 동안 미네소타 누드화 금지법을 멈췄다.",
+      "mini_headline": "미네소타 AI 누드화 금지법, 항소심서 제동",
       "tool": "Politics",
-      "source": "CalMatters",
-      "url": "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/",
+      "source": "MPR News",
+      "url": "https://www.mprnews.org/story/2026/10/02/us-appeals-court-blocks-minnesota-law-barring-nudified-photos-in-xai-lawsuit",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,345 +19,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-            "cap": "2026년 9월 15일 샌프란시스코 Dreamforce 행사장 밖에서 시위대가 AI의 일자리 잠식에 반대하는 집회를 열고 있다. 사진 Manuel Orbegozo, CalMatters"
+            "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+            "cap": "Grok 앱과 로고가 뜬 iPhone 화면. Anna Barclay | Getty Images"
           },
           {
             "t": "p",
-            "x": "개빈 뉴섬 주지사가 임기 중 마지막 정기 회기의 법안 처리 시한 마지막 날, 인공지능으로부터 노동자를 보호하는 법안 여러 건에 서명했다. 환자 돌봄과 해고에 AI를 쓰는 것을 제한하는 내용도 들어 있다. 다만 노동계가 밀어 온 의료 노동자 보호용 AI 관련(AI-related) 법안 2건은 거부했다."
+            "x": "일론 머스크의 xAI가 금요일 미국(US) 연방항소법원을 설득해, 미네소타주가 미국 최초로 도입한 AI 생성(AI-generated) 가짜 누드 이미지 금지법 시행을 멈춰 세웠다. 이 기술·소셜미디어 기업은 법이 위헌이라며 소송을 이어 가는 중이다."
           },
           {
             "t": "p",
-            "x": "노동계 지도자들은 AI 법안 9건에 모두 서명하라고 압박하면서 그 결과가 향후 대선 출마 때 지지 여부에 영향을 줄 거라고 말해 왔다. 노조가 얻어낸 건 9건 중 7건이다."
+            "x": "St. Louis에 있는 제8순회항소법원(St. Louis-based 8th US Circuit Court of Appeals)은 명령을 내려 xAI의 가처분 신청을 받아들이고 법의 효력을 당분간 정지했다. 지난달 하급심 판사는 법 시행을 막아 달라는 머스크 측 요청을 기각한 바 있다."
           },
           {
             "t": "p",
-            "x": "새 법은 노동자 해고나 징계에 AI를 쓰는 것을 제한한다. 환자 돌봄(patient-care) 결정은 AI가 아니라 의료 전문가가 내리도록 했고, 고용주가 노동자의 감정 상태를 예측하거나 뇌 데이터를 모으는 일도 막았다. 화장실 안 AI 감시도 금지 대상이다. 해고 사유가 전부든 일부든 AI나 자동화라면 미리 알려야 한다."
+            "x": "8월 1일 시행된 미네소타의 반(反)\"누드화\"법은 웹사이트 운영자나 소프트웨어 개발자 등이 이용자에게 식별 가능한 인물의 원본 사진에 없던 은밀한 신체 부위를 사실적으로 그린 이미지를 만들게 해 주는 것을 금지한다. xAI는 이 법이 미국 헌법(US Constitution)이 보호하는 표현의 자유를 제한한다고 주장한다."
           },
           {
             "t": "p",
-            "x": "뉴섬은 거부 메시지에서 정신건강 법안이 \"지나치게 광범위하다\"고 했다. 다른 법안의 보복 금지(anti-retaliation) 규정은 노동위원(Labor Commissioner)에게 집행할 의학적 전문성이 없다는 이유로 돌려보냈다. 캘리포니아간호사협회(California Nurses Association) 샌디 레딩 회장은 거부권 행사를 비판했다. 반면 AFL-CIO 리즈 슐러 회장은 새 법을 \"국내에서 가장 강력한 주 법률 중 일부\"로 꼽았다."
+            "x": "미국 연방지방법원(US District)의 도너번 프랭크 판사는 지난달, xAI가 소송 기간에 회복할 수 없는 손해를 입는다는 걸 입증하지 못했고 긴급 구제도 너무 늦게 신청했다고 판단했다. xAI는 항소심에서 이를 반박하며 자사 Grok Imagine 도구에는 실존 인물의 누드화·성적 이미지 생성을 막는 \"엄격한 보호 장치\"가 있다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "CalMatters는 해고 관련 법이 입법 과정에서 후퇴했다고 짚었다. 노동자 이의 제기 절차와 이행을 강제할 소송권, 계약직 적용 범위가 법안에서 빠졌다."
+            "x": "미네소타주는 항소법원에 법 시행을 막지 말아 달라고 요청했다. 주 정부 설명으로는 \"Grok Imagine 같은 AI 제품이 만들어 내는 엄청난 양의 아동 성착취물\"에 대응하려고 도입한 법이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Newsom signs AI limits\nfor California workplaces",
-          "body": "California Gov. Newsom signed AI rules limiting how the technology can be used to fire, override or surveil workers.",
-          "mini_headline": "Newsom signs AI workplace rules",
+          "headline": "Appeals court pauses Minnesota\nban on AI nudification tools",
+          "body": "The 8th Circuit blocked Minnesota's nudification-tool ban while xAI's First Amendment challenge proceeds.",
+          "mini_headline": "Minnesota AI nudify ban\npaused on appeal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-                "cap": "Protesters rally against AI job takeover outside Dreamforce in San Francisco, Sept. 15, 2026. Photo by Manuel Orbegozo for CalMatters"
+                "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+                "cap": "An iPhone screen displaying the Grok app and logo. Anna Barclay | Getty Images"
               },
               {
                 "t": "p",
-                "x": "On the final day to act on bills from his last scheduled legislative session, Gov. Gavin Newsom signed several bills to protect workers from artificial intelligence, including limits on AI in patient care and in firing people. He vetoed two AI-related bills labor leaders had pushed for that would have protected health care workers."
+                "x": "Elon Musk's xAI on Friday persuaded a US federal appeals court to halt Minnesota's first-in-the-nation ban on AI-generated fake nude images as the technology and social media company pursues a lawsuit alleging that the law is unconstitutional."
               },
               {
                 "t": "p",
-                "x": "Labor leaders had pressed him to sign a slate of nine AI bills, saying it would affect their support for any presidential run. Unions won seven of the nine."
+                "x": "The St. Louis-based 8th US Circuit Court of Appeals in its order put the law on hold for now, granting a request for an injunction by xAI. A lower court judge last month had rejected Musk's bid for an order stopping the law."
               },
               {
                 "t": "p",
-                "x": "The new laws limit AI in terminating or disciplining workers, keep health care professionals rather than AI in charge of patient-care decisions, bar employers from predicting workers' emotional states or collecting brain data, ban AI surveillance in bathrooms, and require notice when layoffs are due in whole or in part to AI or automation."
+                "x": "The state's anti-\"nudification\" law, which took effect on August 1, prohibits website operators, software developers and others from allowing users to create realistic images depicting an intimate body part that is not shown in an original photo of an identifiable individual. xAI alleges the measure restricts free speech protected by the US Constitution."
               },
               {
                 "t": "p",
-                "x": "In veto messages, Newsom called the mental health measure \"overly broad\" and said the Labor Commissioner lacks the medical expertise to enforce the other bill's anti-retaliation rules. California Nurses Association President Sandy Reding criticized that veto, while AFL-CIO president Liz Shuler called the new laws \"some of the strongest state legislation in the country.\""
+                "x": "US District Judge Donovan Frank ruled last month that xAI had not shown it would suffer irreparable harm while challenging the law and said the company had waited too long to seek emergency relief. In its appeal, xAI disputed that finding and said its Grok Imagine tool includes \"rigorous protections\" against creating nudified or sexualized images of real people."
               },
               {
                 "t": "p",
-                "x": "CalMatters notes the firing law was weakened during the legislative process, losing an appeals process for workers, a right to sue to compel compliance, and coverage of contractors."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ニューサム知事、\n職場のAI規制法に署名",
-          "body": "カリフォルニア州のニューサム知事がAIによる労働者の解雇や監視などを制限する法に署名した。",
-          "mini_headline": "ニューサム知事、職場AI規制に署名",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-                "cap": "2026年9月15日、サンフランシスコのDreamforce会場の外で、AIによる雇用の奪取に抗議する人々。写真：Manuel Orbegozo for CalMatters"
-              },
-              {
-                "t": "p",
-                "x": "ギャビン・ニューサム知事は、自身最後となる定例議会会期の法案に対応する期限の最終日、患者ケアや解雇におけるAI利用の制限を含め、人工知能から労働者を守る複数の法案に署名した。一方、労働界が成立を求めていた、医療従事者を保護するAI関連(AI-related)法案2本には拒否権を行使した。"
-              },
-              {
-                "t": "p",
-                "x": "労働界の指導者らは9本のAI法案すべてへの署名を迫り、それが将来の大統領選出馬への支持に影響すると訴えていた。労組は9本のうち7本を勝ち取った。"
-              },
-              {
-                "t": "p",
-                "x": "新法は、労働者の解雇や懲戒におけるAI利用を制限し、患者ケア(patient-care)に関する判断をAIではなく医療専門職が担うよう定める。また雇用主が労働者の感情状態を予測したり脳データを収集したりすることを禁じ、トイレでのAI監視を禁止し、解雇の全部または一部がAIや自動化によるものである場合には通知を義務づける。"
-              },
-              {
-                "t": "p",
-                "x": "ニューサム氏は拒否理由書で、メンタルヘルス法案を「過度に広範」と評し、もう一方の法案の報復禁止(anti-retaliation)規定を執行するには労働委員(Labor Commissioner)に医学的専門性が欠けていると述べた。カリフォルニア看護師協会(California Nurses Association)のサンディ・レディング会長はこの拒否権行使を批判した。一方、AFL-CIOのリズ・シュラー会長は新法を「国内で最も強力な州法の一部」と評価した。"
-              },
-              {
-                "t": "p",
-                "x": "CalMattersによると、解雇に関する法律は立法過程で弱められ、労働者の不服申し立て手続き、履行を求めて提訴する権利、請負業者への適用が削られた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "纽森签署加州\n职场AI限制法案",
-          "body": "加州州长纽森签署新规，限制雇主利用AI解雇、监控员工或推翻其决定。",
-          "mini_headline": "纽森签署职场AI规定",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-                "cap": "2026年9月15日，抗议者在旧金山Dreamforce场外集会，反对AI抢走工作。摄影：Manuel Orbegozo，CalMatters"
-              },
-              {
-                "t": "p",
-                "x": "在其最后一个例行立法会期法案的处理截止日，州长加文·纽森签署了多项保护劳动者免受人工智能影响的法案，其中包括限制AI用于病患护理和解雇员工。他否决了劳工领袖推动的两项旨在保护医护人员的AI相关（AI-related）法案。"
-              },
-              {
-                "t": "p",
-                "x": "劳工领袖此前敦促他签署全部9项AI法案，并表示这将影响他们对其任何总统竞选的支持。工会最终赢得了其中7项。"
-              },
-              {
-                "t": "p",
-                "x": "新法限制在解雇或惩戒员工时使用AI，确保由医疗专业人员而非AI主导病患护理（patient-care）决策，禁止雇主预测员工情绪状态或收集脑部数据，禁止在洗手间进行AI监控，并要求在裁员全部或部分源于AI或自动化时发出通知。"
-              },
-              {
-                "t": "p",
-                "x": "纽森在否决说明中称心理健康法案“过于宽泛”，并表示劳工专员（Labor Commissioner）缺乏执行另一项法案反报复（anti-retaliation）条款所需的医学专业知识。加州护士协会（California Nurses Association）会长桑迪·雷丁批评了这一否决，而AFL-CIO主席利兹·舒勒则称新法是“全国最强有力的州立法之一”。"
-              },
-              {
-                "t": "p",
-                "x": "CalMatters指出，解雇相关法律在立法过程中遭到削弱，删去了员工申诉程序、为强制合规提起诉讼的权利以及对承包商的适用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Newsom firma límites a la AI\nen el trabajo en California",
-          "body": "El gobernador Newsom firmó en California normas que limitan usar AI para despedir, anular o vigilar a empleados.",
-          "mini_headline": "Newsom firma normas de AI laboral",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-                "cap": "Manifestantes protestan contra la sustitución de empleos por la AI frente a Dreamforce, en San Francisco, el 15 de septiembre de 2026. Foto de Manuel Orbegozo para CalMatters"
-              },
-              {
-                "t": "p",
-                "x": "En el último día para actuar sobre los proyectos de su última sesión legislativa programada, el gobernador Gavin Newsom firmó varias leyes para proteger a los trabajadores frente a la inteligencia artificial, entre ellas límites al uso de la AI en la atención a pacientes y en los despidos. Vetó dos proyectos relacionados con la AI (AI-related) impulsados por líderes sindicales que habrían protegido a los trabajadores sanitarios."
-              },
-              {
-                "t": "p",
-                "x": "Los líderes sindicales lo habían presionado para firmar un paquete de nueve proyectos de AI y advirtieron que ello influiría en su apoyo a cualquier candidatura presidencial. Los sindicatos lograron siete de los nueve."
-              },
-              {
-                "t": "p",
-                "x": "Las nuevas leyes limitan la AI en despidos o sanciones disciplinarias, mantienen a los profesionales sanitarios, y no a la AI, al frente de las decisiones de atención al paciente (patient-care), prohíben a los empleadores predecir el estado emocional de los trabajadores o recopilar datos cerebrales, prohíben la vigilancia con AI en los baños y exigen aviso cuando los despidos se deban total o parcialmente a la AI o la automatización."
-              },
-              {
-                "t": "p",
-                "x": "En sus mensajes de veto, Newsom calificó la medida de salud mental de \"excesivamente amplia\" y dijo que el Labor Commissioner carece de la experiencia médica necesaria para hacer cumplir las normas contra represalias (anti-retaliation) del otro proyecto. Sandy Reding, presidenta de la California Nurses Association, criticó ese veto, mientras que Liz Shuler, presidenta de la AFL-CIO, calificó las nuevas leyes como \"algunas de las legislaciones estatales más sólidas del país\"."
-              },
-              {
-                "t": "p",
-                "x": "CalMatters señala que la ley sobre despidos se debilitó durante el proceso legislativo: perdió un procedimiento de apelación para los trabajadores, el derecho a demandar para exigir su cumplimiento y la cobertura de los contratistas."
+                "x": "Minnesota had urged the appeals court not to block the law, which the state said it adopted to combat a \"staggering amount (of) child sexual abuse material that AI products like Grok Imagine generate.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "뉴섬, 캘리포니아\n직장 AI 제한 서명",
-          "body": "뉴섬 캘리포니아 주지사가 노동자 해고·감시에 AI 사용을 제한하는 법에 서명했다.",
-          "mini_headline": "뉴섬, 직장 AI 규정 서명",
+          "headline": "항소법원, 미네소타\nAI 누드화 금지법 제동",
+          "body": "8th Circuit이 xAI 위헌 소송 동안 미네소타 누드화 금지법을 멈췄다.",
+          "mini_headline": "미네소타 AI 누드화 금지법, 항소심서 제동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-                "cap": "2026년 9월 15일 샌프란시스코 Dreamforce 행사장 밖에서 시위대가 AI의 일자리 잠식에 반대하는 집회를 열고 있다. 사진 Manuel Orbegozo, CalMatters"
+                "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+                "cap": "Grok 앱과 로고가 뜬 iPhone 화면. Anna Barclay | Getty Images"
               },
               {
                 "t": "p",
-                "x": "개빈 뉴섬 주지사가 임기 중 마지막 정기 회기의 법안 처리 시한 마지막 날, 인공지능으로부터 노동자를 보호하는 법안 여러 건에 서명했다. 환자 돌봄과 해고에 AI를 쓰는 것을 제한하는 내용도 들어 있다. 다만 노동계가 밀어 온 의료 노동자 보호용 AI 관련(AI-related) 법안 2건은 거부했다."
+                "x": "일론 머스크의 xAI가 금요일 미국(US) 연방항소법원을 설득해, 미네소타주가 미국 최초로 도입한 AI 생성(AI-generated) 가짜 누드 이미지 금지법 시행을 멈춰 세웠다. 이 기술·소셜미디어 기업은 법이 위헌이라며 소송을 이어 가는 중이다."
               },
               {
                 "t": "p",
-                "x": "노동계 지도자들은 AI 법안 9건에 모두 서명하라고 압박하면서 그 결과가 향후 대선 출마 때 지지 여부에 영향을 줄 거라고 말해 왔다. 노조가 얻어낸 건 9건 중 7건이다."
+                "x": "St. Louis에 있는 제8순회항소법원(St. Louis-based 8th US Circuit Court of Appeals)은 명령을 내려 xAI의 가처분 신청을 받아들이고 법의 효력을 당분간 정지했다. 지난달 하급심 판사는 법 시행을 막아 달라는 머스크 측 요청을 기각한 바 있다."
               },
               {
                 "t": "p",
-                "x": "새 법은 노동자 해고나 징계에 AI를 쓰는 것을 제한한다. 환자 돌봄(patient-care) 결정은 AI가 아니라 의료 전문가가 내리도록 했고, 고용주가 노동자의 감정 상태를 예측하거나 뇌 데이터를 모으는 일도 막았다. 화장실 안 AI 감시도 금지 대상이다. 해고 사유가 전부든 일부든 AI나 자동화라면 미리 알려야 한다."
+                "x": "8월 1일 시행된 미네소타의 반(反)\"누드화\"법은 웹사이트 운영자나 소프트웨어 개발자 등이 이용자에게 식별 가능한 인물의 원본 사진에 없던 은밀한 신체 부위를 사실적으로 그린 이미지를 만들게 해 주는 것을 금지한다. xAI는 이 법이 미국 헌법(US Constitution)이 보호하는 표현의 자유를 제한한다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "뉴섬은 거부 메시지에서 정신건강 법안이 \"지나치게 광범위하다\"고 했다. 다른 법안의 보복 금지(anti-retaliation) 규정은 노동위원(Labor Commissioner)에게 집행할 의학적 전문성이 없다는 이유로 돌려보냈다. 캘리포니아간호사협회(California Nurses Association) 샌디 레딩 회장은 거부권 행사를 비판했다. 반면 AFL-CIO 리즈 슐러 회장은 새 법을 \"국내에서 가장 강력한 주 법률 중 일부\"로 꼽았다."
+                "x": "미국 연방지방법원(US District)의 도너번 프랭크 판사는 지난달, xAI가 소송 기간에 회복할 수 없는 손해를 입는다는 걸 입증하지 못했고 긴급 구제도 너무 늦게 신청했다고 판단했다. xAI는 항소심에서 이를 반박하며 자사 Grok Imagine 도구에는 실존 인물의 누드화·성적 이미지 생성을 막는 \"엄격한 보호 장치\"가 있다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "CalMatters는 해고 관련 법이 입법 과정에서 후퇴했다고 짚었다. 노동자 이의 제기 절차와 이행을 강제할 소송권, 계약직 적용 범위가 법안에서 빠졌다."
+                "x": "미네소타주는 항소법원에 법 시행을 막지 말아 달라고 요청했다. 주 정부 설명으로는 \"Grok Imagine 같은 AI 제품이 만들어 내는 엄청난 양의 아동 성착취물\"에 대응하려고 도입한 법이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "米控訴裁、ミネソタ州の\nAI脱衣ツール禁止を停止",
+          "body": "8th Circuitは、xAIの違憲訴訟の間ミネソタ州の脱衣ツール禁止法を差し止めた。",
+          "mini_headline": "ミネソタ州のAI脱衣禁止法、控訴審で停止",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+                "cap": "Grokのアプリとロゴを表示したiPhoneの画面。Anna Barclay | Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "イーロン・マスク氏のxAIは金曜日、米国(US)の連邦控訴裁判所を説得し、AI生成(AI-generated)の偽ヌード画像を全米で初めて禁じたミネソタ州法の施行を停止させた。テクノロジー・ソーシャルメディア企業である同社は、同法が違憲だとして訴訟を進めている。"
+              },
+              {
+                "t": "p",
+                "x": "St. Louisに本拠を置く第8巡回区控訴裁判所(St. Louis-based 8th US Circuit Court of Appeals)は命令で、xAIの差し止め請求を認め、同法を当面停止した。先月には下級審の判事が、同法の差し止めを求めるマスク氏側の申し立てを退けていた。"
+              },
+              {
+                "t": "p",
+                "x": "8月1日に施行された同州の反「ヌード化」法は、ウェブサイト運営者やソフトウェア開発者などが、特定可能な個人の元の写真に写っていない身体の性的な部位を写実的に描いた画像を、利用者に作らせることを禁じている。xAIは、この措置が米国憲法(US Constitution)で保護された言論の自由を制限すると主張している。"
+              },
+              {
+                "t": "p",
+                "x": "米連邦地裁(US District)のドノバン・フランク判事は先月、xAIは訴訟中に回復不能な損害を被ることを示しておらず、緊急の救済を求めるのが遅すぎたと判断した。xAIは控訴でこの判断に異を唱え、同社のGrok Imagineツールには実在の人物のヌード化・性的画像の生成を防ぐ「厳格な保護策」があると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "ミネソタ州は控訴裁に同法を差し止めないよう求めていた。州は同法について、「Grok ImagineのようなAI製品が生み出す膨大な量の児童性的虐待コンテンツ」に対抗するため制定したと説明している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "美上诉法院叫停\n明尼苏达AI脱衣禁令",
+          "body": "8th Circuit在xAI违宪诉讼期间，暂停了明尼苏达州的脱衣工具禁令。",
+          "mini_headline": "明尼苏达AI脱衣禁令在上诉中被叫停",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+                "cap": "显示Grok应用及标志的iPhone屏幕。Anna Barclay | Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "埃隆·马斯克旗下的xAI周五成功说服一家美国(US)联邦上诉法院，暂停明尼苏达州在全美首创的AI生成(AI-generated)虚假裸体图像禁令。这家科技与社交媒体公司正在提起诉讼，主张该法违宪。"
+              },
+              {
+                "t": "p",
+                "x": "位于圣路易斯的第八巡回上诉法院(St. Louis-based 8th US Circuit Court of Appeals)在命令中批准了xAI的禁令请求，暂时搁置该法。下级法院法官上月曾驳回马斯克方面要求阻止该法的申请。"
+              },
+              {
+                "t": "p",
+                "x": "该州的反“裸体化”法于8月1日生效，禁止网站运营者、软件开发者等允许用户生成逼真图像，描绘可识别个人原始照片中并未显示的私密身体部位。xAI称，该措施限制了美国宪法(US Constitution)保护的言论自由。"
+              },
+              {
+                "t": "p",
+                "x": "美国联邦地区法院(US District)法官唐纳文·弗兰克上月裁定，xAI未能证明在诉讼期间会遭受不可弥补的损害，并称该公司寻求紧急救济为时过晚。xAI在上诉中对这一认定提出异议，并表示其Grok Imagine工具设有“严格的保护措施”，防止生成真实人物的裸体化或性化图像。"
+              },
+              {
+                "t": "p",
+                "x": "明尼苏达州曾敦促上诉法院不要阻止该法。州方称，制定该法是为了应对“Grok Imagine等AI产品生成的数量惊人的儿童性虐待材料”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Tribunal frena la prohibición\nde Minnesota a desnudos con AI",
+          "body": "El tribunal del 8th Circuit suspendió la prohibición de Minnesota mientras sigue la demanda constitucional de xAI.",
+          "mini_headline": "Frenada en apelación la prohibición AI de Minnesota",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+                "cap": "Pantalla de un iPhone con la app y el logo de Grok. Anna Barclay | Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "xAI, de Elon Musk, convenció el viernes a un tribunal federal de apelaciones de Estados Unidos (US) de suspender la prohibición de Minnesota, la primera del país, contra las imágenes falsas de desnudos generadas por AI (AI-generated), mientras la empresa de tecnología y redes sociales sigue adelante con una demanda que sostiene que la ley es inconstitucional."
+              },
+              {
+                "t": "p",
+                "x": "El Tribunal de Apelaciones del Octavo Circuito, con sede en St. Louis (St. Louis-based 8th US Circuit Court of Appeals), dejó la ley en suspenso por ahora al conceder la medida cautelar solicitada por xAI. El mes pasado, un juez de primera instancia había rechazado la petición de Musk de una orden para frenar la ley."
+              },
+              {
+                "t": "p",
+                "x": "La ley estatal contra la \"desnudez\", en vigor desde el 1 de agosto, prohíbe a operadores de sitios web, desarrolladores de software y otros permitir que los usuarios creen imágenes realistas que muestren una parte íntima del cuerpo que no aparece en la foto original de una persona identificable. xAI sostiene que la medida restringe la libertad de expresión protegida por la Constitución de Estados Unidos (US Constitution)."
+              },
+              {
+                "t": "p",
+                "x": "El juez de distrito de Estados Unidos (US District Judge) Donovan Frank dictaminó el mes pasado que xAI no había demostrado que sufriría un daño irreparable mientras impugnaba la ley y que la empresa había esperado demasiado para pedir medidas de emergencia. En su apelación, xAI rechazó esa conclusión y afirmó que su herramienta Grok Imagine incluye \"protecciones rigurosas\" contra la creación de imágenes desnudas o sexualizadas de personas reales."
+              },
+              {
+                "t": "p",
+                "x": "Minnesota había pedido al tribunal de apelaciones que no bloqueara la ley, que según el estado adoptó para combatir una \"cantidad asombrosa de material de abuso sexual infantil que generan productos AI como Grok Imagine\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "ニューサム知事、\n職場のAI規制法に署名",
-          "body": "カリフォルニア州のニューサム知事がAIによる労働者の解雇や監視などを制限する法に署名した。",
-          "mini_headline": "ニューサム知事、職場AI規制に署名",
+        "ko": {
+          "headline": "항소법원, 미네소타\nAI 누드화 금지법 제동",
+          "body": "8th Circuit이 xAI의 위헌 소송 중 미네소타 누드화 금지법을 멈췄다.",
+          "mini_headline": "미네소타 AI 누드화 금지법, 항소심서 제동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-                "cap": "2026年9月15日、サンフランシスコのDreamforce会場の外で、AIによる雇用の奪取に抗議する人々。写真：Manuel Orbegozo for CalMatters"
+                "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+                "cap": "Grok 앱과 로고가 뜬 iPhone 화면. Anna Barclay | Getty Images"
               },
               {
                 "t": "p",
-                "x": "ギャビン・ニューサム知事は、自身最後となる定例議会会期の法案に対応する期限の最終日、患者ケアや解雇におけるAI利用の制限を含め、人工知能から労働者を守る複数の法案に署名した。一方、労働界が成立を求めていた、医療従事者を保護するAI関連(AI-related)法案2本には拒否権を行使した。"
+                "x": "일론 머스크의 xAI가 금요일 미국(US) 연방항소법원을 설득해, 미네소타주가 미국 최초로 도입한 AI 생성(AI-generated) 가짜 누드 이미지 금지법의 시행을 멈추게 했다. 이 기술·소셜미디어 기업은 해당 법이 위헌이라며 소송을 이어가고 있다."
               },
               {
                 "t": "p",
-                "x": "労働界の指導者らは9本のAI法案すべてへの署名を迫り、それが将来の大統領選出馬への支持に影響すると訴えていた。労組は9本のうち7本を勝ち取った。"
+                "x": "St. Louis에 있는 제8순회항소법원(St. Louis-based 8th US Circuit Court of Appeals)은 명령을 통해 xAI의 가처분 신청을 받아들여 이 법의 효력을 당분간 정지했다. 앞서 지난달 하급심 판사는 법 시행을 막아 달라는 머스크 측 요청을 기각했다."
               },
               {
                 "t": "p",
-                "x": "新法は、労働者の解雇や懲戒におけるAI利用を制限し、患者ケア(patient-care)に関する判断をAIではなく医療専門職が担うよう定める。また雇用主が労働者の感情状態を予測したり脳データを収集したりすることを禁じ、トイレでのAI監視を禁止し、解雇の全部または一部がAIや自動化によるものである場合には通知を義務づける。"
+                "x": "8월 1일 시행된 이 주의 반(反)\"누드화\"법은 웹사이트 운영자, 소프트웨어 개발자 등이 이용자에게 식별 가능한 인물의 원본 사진에 없는 신체 은밀한 부위를 사실적으로 묘사한 이미지를 만들도록 허용하는 것을 금지한다. xAI는 이 조치가 미국 헌법(US Constitution)이 보호하는 표현의 자유를 제한한다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "ニューサム氏は拒否理由書で、メンタルヘルス法案を「過度に広範」と評し、もう一方の法案の報復禁止(anti-retaliation)規定を執行するには労働委員(Labor Commissioner)に医学的専門性が欠けていると述べた。カリフォルニア看護師協会(California Nurses Association)のサンディ・レディング会長はこの拒否権行使を批判した。一方、AFL-CIOのリズ・シュラー会長は新法を「国内で最も強力な州法の一部」と評価した。"
+                "x": "미국 연방지방법원(US District)의 도너번 프랭크 판사는 지난달 xAI가 소송 기간 중 회복 불가능한 손해를 입는다는 점을 입증하지 못했고, 긴급 구제를 너무 늦게 신청했다고 판단했다. xAI는 항소에서 이 판단에 반박하며, 자사 Grok Imagine 도구에 실존 인물의 누드화·성적 이미지 생성을 막는 \"엄격한 보호 장치\"가 있다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "CalMattersによると、解雇に関する法律は立法過程で弱められ、労働者の不服申し立て手続き、履行を求めて提訴する権利、請負業者への適用が削られた。"
+                "x": "미네소타주는 항소법원에 법 시행을 막지 말라고 요청했다. 주 정부는 \"Grok Imagine 같은 AI 제품이 만들어 내는 엄청난 양의 아동 성착취물\"에 대응하려고 이 법을 도입했다고 설명했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "米控訴裁、ミネソタ州の\nAI脱衣ツール禁止を停止",
+          "body": "8th Circuitは、xAIの違憲訴訟の間ミネソタ州の脱衣ツール禁止法を差し止めた。",
+          "mini_headline": "ミネソタ州のAI脱衣禁止法、控訴審で停止",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+                "cap": "Grokのアプリとロゴを表示したiPhoneの画面。Anna Barclay | Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "イーロン・マスク氏のxAIは金曜日、米国(US)の連邦控訴裁判所を説得し、AI生成(AI-generated)の偽ヌード画像を全米で初めて禁じたミネソタ州法の施行を停止させた。テクノロジー・ソーシャルメディア企業である同社は、同法が違憲だとして訴訟を進めている。"
+              },
+              {
+                "t": "p",
+                "x": "St. Louisに本拠を置く第8巡回区控訴裁判所(St. Louis-based 8th US Circuit Court of Appeals)は命令で、xAIの差し止め請求を認め、同法を当面停止した。先月には下級審の判事が、同法の差し止めを求めるマスク氏側の申し立てを退けていた。"
+              },
+              {
+                "t": "p",
+                "x": "8月1日に施行された同州の反「ヌード化」法は、ウェブサイト運営者やソフトウェア開発者などが、特定可能な個人の元の写真に写っていない身体の性的な部位を写実的に描いた画像を、利用者に作らせることを禁じている。xAIは、この措置が米国憲法(US Constitution)で保護された言論の自由を制限すると主張している。"
+              },
+              {
+                "t": "p",
+                "x": "米連邦地裁(US District)のドノバン・フランク判事は先月、xAIは訴訟中に回復不能な損害を被ることを示しておらず、緊急の救済を求めるのが遅すぎたと判断した。xAIは控訴でこの判断に異を唱え、同社のGrok Imagineツールには実在の人物のヌード化・性的画像の生成を防ぐ「厳格な保護策」があると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "ミネソタ州は控訴裁に同法を差し止めないよう求めていた。州は同法について、「Grok ImagineのようなAI製品が生み出す膨大な量の児童性的虐待コンテンツ」に対抗するため制定したと説明している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "纽森签署加州\n职场AI限制法案",
-          "body": "加州州长纽森签署新规，限制雇主利用AI解雇、监控员工或推翻其决定。",
-          "mini_headline": "纽森签署职场AI规定",
+          "headline": "美上诉法院叫停\n明尼苏达AI脱衣禁令",
+          "body": "8th Circuit在xAI违宪诉讼期间，暂停了明尼苏达州的脱衣工具禁令。",
+          "mini_headline": "明尼苏达AI脱衣禁令在上诉中被叫停",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-                "cap": "2026年9月15日，抗议者在旧金山Dreamforce场外集会，反对AI抢走工作。摄影：Manuel Orbegozo，CalMatters"
+                "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+                "cap": "显示Grok应用及标志的iPhone屏幕。Anna Barclay | Getty Images"
               },
               {
                 "t": "p",
-                "x": "在其最后一个例行立法会期法案的处理截止日，州长加文·纽森签署了多项保护劳动者免受人工智能影响的法案，其中包括限制AI用于病患护理和解雇员工。他否决了劳工领袖推动的两项旨在保护医护人员的AI相关（AI-related）法案。"
+                "x": "埃隆·马斯克旗下的xAI周五成功说服一家美国(US)联邦上诉法院，暂停明尼苏达州在全美首创的AI生成(AI-generated)虚假裸体图像禁令。这家科技与社交媒体公司正在提起诉讼，主张该法违宪。"
               },
               {
                 "t": "p",
-                "x": "劳工领袖此前敦促他签署全部9项AI法案，并表示这将影响他们对其任何总统竞选的支持。工会最终赢得了其中7项。"
+                "x": "位于圣路易斯的第八巡回上诉法院(St. Louis-based 8th US Circuit Court of Appeals)在命令中批准了xAI的禁令请求，暂时搁置该法。下级法院法官上月曾驳回马斯克方面要求阻止该法的申请。"
               },
               {
                 "t": "p",
-                "x": "新法限制在解雇或惩戒员工时使用AI，确保由医疗专业人员而非AI主导病患护理（patient-care）决策，禁止雇主预测员工情绪状态或收集脑部数据，禁止在洗手间进行AI监控，并要求在裁员全部或部分源于AI或自动化时发出通知。"
+                "x": "该州的反“裸体化”法于8月1日生效，禁止网站运营者、软件开发者等允许用户生成逼真图像，描绘可识别个人原始照片中并未显示的私密身体部位。xAI称，该措施限制了美国宪法(US Constitution)保护的言论自由。"
               },
               {
                 "t": "p",
-                "x": "纽森在否决说明中称心理健康法案“过于宽泛”，并表示劳工专员（Labor Commissioner）缺乏执行另一项法案反报复（anti-retaliation）条款所需的医学专业知识。加州护士协会（California Nurses Association）会长桑迪·雷丁批评了这一否决，而AFL-CIO主席利兹·舒勒则称新法是“全国最强有力的州立法之一”。"
+                "x": "美国联邦地区法院(US District)法官唐纳文·弗兰克上月裁定，xAI未能证明在诉讼期间会遭受不可弥补的损害，并称该公司寻求紧急救济为时过晚。xAI在上诉中对这一认定提出异议，并表示其Grok Imagine工具设有“严格的保护措施”，防止生成真实人物的裸体化或性化图像。"
               },
               {
                 "t": "p",
-                "x": "CalMatters指出，解雇相关法律在立法过程中遭到削弱，删去了员工申诉程序、为强制合规提起诉讼的权利以及对承包商的适用。"
+                "x": "明尼苏达州曾敦促上诉法院不要阻止该法。州方称，制定该法是为了应对“Grok Imagine等AI产品生成的数量惊人的儿童性虐待材料”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Newsom firma límites a la AI\nen el trabajo en California",
-          "body": "El gobernador Newsom firmó en California normas que limitan usar AI para despedir, anular o vigilar a empleados.",
-          "mini_headline": "Newsom firma normas de AI laboral",
+          "headline": "Tribunal frena la prohibición\nde Minnesota a desnudos con AI",
+          "body": "El tribunal del 8th Circuit suspendió la prohibición de Minnesota mientras sigue la demanda constitucional de xAI.",
+          "mini_headline": "Frenada en apelación la prohibición AI de Minnesota",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-                "cap": "Manifestantes protestan contra la sustitución de empleos por la AI frente a Dreamforce, en San Francisco, el 15 de septiembre de 2026. Foto de Manuel Orbegozo para CalMatters"
+                "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+                "cap": "Pantalla de un iPhone con la app y el logo de Grok. Anna Barclay | Getty Images"
               },
               {
                 "t": "p",
-                "x": "En el último día para actuar sobre los proyectos de su última sesión legislativa programada, el gobernador Gavin Newsom firmó varias leyes para proteger a los trabajadores frente a la inteligencia artificial, entre ellas límites al uso de la AI en la atención a pacientes y en los despidos. Vetó dos proyectos relacionados con la AI (AI-related) impulsados por líderes sindicales que habrían protegido a los trabajadores sanitarios."
+                "x": "xAI, de Elon Musk, convenció el viernes a un tribunal federal de apelaciones de Estados Unidos (US) de suspender la prohibición de Minnesota, la primera del país, contra las imágenes falsas de desnudos generadas por AI (AI-generated), mientras la empresa de tecnología y redes sociales sigue adelante con una demanda que sostiene que la ley es inconstitucional."
               },
               {
                 "t": "p",
-                "x": "Los líderes sindicales lo habían presionado para firmar un paquete de nueve proyectos de AI y advirtieron que ello influiría en su apoyo a cualquier candidatura presidencial. Los sindicatos lograron siete de los nueve."
+                "x": "El Tribunal de Apelaciones del Octavo Circuito, con sede en St. Louis (St. Louis-based 8th US Circuit Court of Appeals), dejó la ley en suspenso por ahora al conceder la medida cautelar solicitada por xAI. El mes pasado, un juez de primera instancia había rechazado la petición de Musk de una orden para frenar la ley."
               },
               {
                 "t": "p",
-                "x": "Las nuevas leyes limitan la AI en despidos o sanciones disciplinarias, mantienen a los profesionales sanitarios, y no a la AI, al frente de las decisiones de atención al paciente (patient-care), prohíben a los empleadores predecir el estado emocional de los trabajadores o recopilar datos cerebrales, prohíben la vigilancia con AI en los baños y exigen aviso cuando los despidos se deban total o parcialmente a la AI o la automatización."
+                "x": "La ley estatal contra la \"desnudez\", en vigor desde el 1 de agosto, prohíbe a operadores de sitios web, desarrolladores de software y otros permitir que los usuarios creen imágenes realistas que muestren una parte íntima del cuerpo que no aparece en la foto original de una persona identificable. xAI sostiene que la medida restringe la libertad de expresión protegida por la Constitución de Estados Unidos (US Constitution)."
               },
               {
                 "t": "p",
-                "x": "En sus mensajes de veto, Newsom calificó la medida de salud mental de \"excesivamente amplia\" y dijo que el Labor Commissioner carece de la experiencia médica necesaria para hacer cumplir las normas contra represalias (anti-retaliation) del otro proyecto. Sandy Reding, presidenta de la California Nurses Association, criticó ese veto, mientras que Liz Shuler, presidenta de la AFL-CIO, calificó las nuevas leyes como \"algunas de las legislaciones estatales más sólidas del país\"."
+                "x": "El juez de distrito de Estados Unidos (US District Judge) Donovan Frank dictaminó el mes pasado que xAI no había demostrado que sufriría un daño irreparable mientras impugnaba la ley y que la empresa había esperado demasiado para pedir medidas de emergencia. En su apelación, xAI rechazó esa conclusión y afirmó que su herramienta Grok Imagine incluye \"protecciones rigurosas\" contra la creación de imágenes desnudas o sexualizadas de personas reales."
               },
               {
                 "t": "p",
-                "x": "CalMatters señala que la ley sobre despidos se debilitó durante el proceso legislativo: perdió un procedimiento de apelación para los trabajadores, el derecho a demandar para exigir su cumplimiento y la cobertura de los contratistas."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "뉴섬, 캘리포니아\n직장 AI 제한 서명",
-          "body": "뉴섬 캘리포니아 주지사가 노동자 해고·감시에 AI 사용을 제한하는 법에 서명했다.",
-          "mini_headline": "뉴섬, 직장 AI 규정 서명",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-                "cap": "2026년 9월 15일 샌프란시스코 Dreamforce 행사장 밖에서 시위대가 AI의 일자리 잠식에 반대하는 집회를 열고 있다. 사진 Manuel Orbegozo, CalMatters"
-              },
-              {
-                "t": "p",
-                "x": "개빈 뉴섬 주지사는 자신의 마지막 정기 회기 법안 처리 시한 마지막 날, 환자 돌봄과 해고에서 AI 사용을 제한하는 내용을 포함해 인공지능으로부터 노동자를 보호하는 법안 여러 건에 서명했다. 다만 노동계가 추진해 온, 의료 노동자를 보호하는 AI 관련(AI-related) 법안 2건에는 거부권을 행사했다."
-              },
-              {
-                "t": "p",
-                "x": "노동계 지도자들은 AI 법안 9건에 모두 서명하라고 압박하며, 이것이 향후 대선 출마 시 지지 여부에 영향을 줄 것이라고 말해 왔다. 노조는 9건 중 7건을 얻어냈다."
-              },
-              {
-                "t": "p",
-                "x": "새 법은 노동자 해고나 징계에 AI 사용을 제한하고, 환자 돌봄(patient-care) 결정을 AI가 아닌 의료 전문가가 맡도록 하며, 고용주가 노동자의 감정 상태를 예측하거나 뇌 데이터를 수집하는 것을 금지한다. 화장실 내 AI 감시도 금지하고, 해고가 전부 또는 일부 AI나 자동화 때문일 경우 사전 통지를 의무화한다."
-              },
-              {
-                "t": "p",
-                "x": "뉴섬은 거부 메시지에서 정신건강 법안을 \"지나치게 광범위하다\"고 평가했고, 다른 법안의 보복 금지(anti-retaliation) 규정을 집행하기에는 노동위원(Labor Commissioner)에게 의학적 전문성이 없다고 밝혔다. 캘리포니아간호사협회(California Nurses Association) 샌디 레딩 회장은 이 거부권 행사를 비판했고, AFL-CIO의 리즈 슐러 회장은 새 법을 \"국내에서 가장 강력한 주 법률 중 일부\"라고 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "CalMatters는 해고 관련 법이 입법 과정에서 약화돼 노동자 이의 제기 절차, 이행을 강제하기 위한 소송권, 계약직 적용 범위가 빠졌다고 지적했다."
+                "x": "Minnesota había pedido al tribunal de apelaciones que no bloqueara la ley, que según el estado adoptó para combatir una \"cantidad asombrosa de material de abuso sexual infantil que generan productos AI como Grok Imagine\"."
               }
             ]
           }
@@ -365,15 +365,15 @@
       }
     },
     {
-      "id": "eu-nudify-ai-ban",
-      "source_lang": "ko",
+      "id": "kyoto-vision-science-declaration-ostp",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EU, 누디파이 AI\n법으로 직접 금지",
-      "body": "EU가 12월 2일부터 비동의 성적 이미지를 만드는 누디파이 AI를 금지한다.",
-      "mini_headline": "EU, 누디파이 AI 금지",
+      "headline": "U.S.와 16개국,\n교토 과학 선언 지지",
+      "body": "교토 STS 포럼서 17개국이 OSTP-led 초지능 과학 선언을 지지했다.",
+      "mini_headline": "17개국, 교토 과학 비전 서명",
       "tool": "Politics",
-      "source": "ZDNet Korea",
-      "url": "https://zdnet.co.kr/view/?no=20261002190003",
+      "source": "The White House",
+      "url": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -381,345 +381,255 @@
         "blocks": [
           {
             "t": "p",
-            "x": "사진 한 장으로 실제 인물의 옷을 벗긴 것처럼 이미지를 만드는 이른바 ‘누디파이(Nudify)’ AI가 유럽에서 엄격하게 금지된다. EU가 비동의 성적 이미지 생성 AI를 법으로 직접 금지하면서 생성형 AI의 악용을 사후 콘텐츠 삭제가 아닌 AI 시스템 자체의 규제 대상으로 끌어올린다."
+            "x": "백악관 발표에 따르면 교토에서 열린 제23회 과학기술과 사회(STS) 포럼 연차총회(23rd Annual Meeting)에서 미국과 16개국이 '과학 황금시대를 위한 교토 비전(Kyoto Vision for a Golden Age of Science)'을 지지했다. 과학 생태계를 새롭게 다지고 강화하자는 공동 선언이다."
           },
           {
             "t": "p",
-            "x": "EU 집행위원회(EC)에 따르면 이런 시스템을 금지하는 인공지능법(AI Act) 규정이 12월 2일부터 적용된다. 이번 발표는 유럽의회 의원 100명 이상이 즉각적인 집행 준비를 요구하면서 나왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-            "cap": "유럽연합이 12월부터 누디파이 AI에 대한 엄격한 법 집행에 나선다. 사진_EC 홈페이지"
+            "x": "마이클 크라치오스 백악관 과학기술정책실장이 주도한 선언은 과학에 쓰이는 초지능 덕분에 대규모 자율 실험이 가능해진다고 본다. 크라치오스는 \"과학에 적용된 초지능은 연구를 민주화하는 역사상 가장 큰 힘이 될 것\"이라고 말했다."
           },
           {
             "t": "p",
-            "x": "토마 레니에 EC 대변인은 “이는 불법이며 유럽에서 설 자리가 전혀 없다”며 “시행 첫날부터 법을 집행할 준비가 돼 있다”고 말했다."
+            "x": "선언은 다양한 자금 지원 수단과 새 기관 모델로 발견의 제도를 손보자고 촉구한다. 연구자의 SI 도구·데이터·컴퓨팅·실험 시설 접근을 넓히겠다는 약속과 함께 과학용 초지능을 활용하고, 과학계 전반에서 인재를 기르자는 내용도 담았다."
           },
           {
             "t": "p",
-            "x": "인공지능법은 비동의 성적 콘텐츠를 생성하는 AI 시스템 자체를 ‘금지된 AI 관행’으로 규정하며, 아동 성착취물을 생성하는 AI 시스템도 함께 금지된다. 당초 명시적 금지 규정은 없었으나 AI 옴니버스 개정 과정에서 추가됐고, 지난 5월 유럽의회와 EU 이사회가 정치적 합의에 도달했다."
-          },
-          {
-            "t": "p",
-            "x": "EU는 디지털서비스법(DSA)도 동원해 xAI의 그록(Grok)이 비동의 성적 이미지를 생성한 문제를 조사 중이다. 플랫폼의 불법 콘텐츠 확산은 DSA로, 이를 만드는 AI 시스템은 인공지능법으로 다루는 두 갈래 구조다."
+            "x": "지지국: 아르헨티나, 불가리아, 칠레, 키프로스, 독일, 그리스, 인도네시아, 이탈리아, 일본, 카자흐스탄, 대한민국, 뉴질랜드, 폴란드, 싱가포르, 아랍에미리트, 영국, 미국."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "EU, 누디파이 AI\n법으로 직접 금지",
-          "body": "EU가 12월 2일부터 비동의 성적 이미지를 만드는 누디파이 AI를 금지한다.",
-          "mini_headline": "EU, 누디파이 AI 금지",
+        "en": {
+          "headline": "U.S. and 16 countries endorse\nKyoto science declaration",
+          "body": "At Kyoto's STS Forum, 17 nations backed an OSTP-led declaration on harnessing super intelligence for science.",
+          "mini_headline": "17 nations sign\nKyoto science vision",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "사진 한 장으로 실제 인물의 옷을 벗긴 것처럼 이미지를 만드는 이른바 ‘누디파이(Nudify)’ AI가 유럽에서 엄격하게 금지된다. EU가 비동의 성적 이미지 생성 AI를 법으로 직접 금지하면서 생성형 AI의 악용을 사후 콘텐츠 삭제가 아닌 AI 시스템 자체의 규제 대상으로 끌어올린다."
+                "x": "At the 23rd Annual Meeting of the Science and Technology in Society (STS) Forum in Kyoto, the United States and 16 countries endorsed the Kyoto Vision for a Golden Age of Science, a joint declaration to renew and strengthen science ecosystems, according to a White House release."
               },
               {
                 "t": "p",
-                "x": "EU 집행위원회(EC)에 따르면 이런 시스템을 금지하는 인공지능법(AI Act) 규정이 12월 2일부터 적용된다. 이번 발표는 유럽의회 의원 100명 이상이 즉각적인 집행 준비를 요구하면서 나왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-                "cap": "유럽연합이 12월부터 누디파이 AI에 대한 엄격한 법 집행에 나선다. 사진_EC 홈페이지"
+                "x": "Led by Office of Science and Technology Policy Director Michael Kratsios, the declaration says super intelligence for science will enable autonomous experimentation at scale. \"Super intelligence applied to science will be the greatest force in history for democratizing research,\" Kratsios said."
               },
               {
                 "t": "p",
-                "x": "토마 레니에 EC 대변인은 “이는 불법이며 유럽에서 설 자리가 전혀 없다”며 “시행 첫날부터 법을 집행할 준비가 돼 있다”고 말했다."
+                "x": "It calls for improving the institutions of discovery through varied funding tools and new institutional models; harnessing super intelligence for science, with pledges to expand researcher access to SI tools, data, computing and experimental facilities; and cultivating talent across the scientific enterprise."
               },
               {
                 "t": "p",
-                "x": "인공지능법은 비동의 성적 콘텐츠를 생성하는 AI 시스템 자체를 ‘금지된 AI 관행’으로 규정하며, 아동 성착취물을 생성하는 AI 시스템도 함께 금지된다. 당초 명시적 금지 규정은 없었으나 AI 옴니버스 개정 과정에서 추가됐고, 지난 5월 유럽의회와 EU 이사회가 정치적 합의에 도달했다."
-              },
-              {
-                "t": "p",
-                "x": "EU는 디지털서비스법(DSA)도 동원해 xAI의 그록(Grok)이 비동의 성적 이미지를 생성한 문제를 조사 중이다. 플랫폼의 불법 콘텐츠 확산은 DSA로, 이를 만드는 AI 시스템은 인공지능법으로 다루는 두 갈래 구조다."
+                "x": "Endorsers: Argentina, Bulgaria, Chile, Cyprus, Germany, Greece, Indonesia, Italy, Japan, Kazakhstan, Republic of Korea, New Zealand, Poland, Singapore, United Arab Emirates, United Kingdom and the United States."
               }
             ]
           }
         },
-        "en": {
-          "headline": "EU bans Nudify AI\ndirectly by law",
-          "body": "The EU will ban Nudify AI that creates non-consensual sexual images starting December 2.",
-          "mini_headline": "EU bans Nudify AI",
+        "ko": {
+          "headline": "U.S.와 16개국,\n교토 과학 선언 지지",
+          "body": "교토 STS 포럼서 17개국이 OSTP-led 초지능 과학 선언을 지지했다.",
+          "mini_headline": "17개국, 교토 과학 비전 서명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "So-called ‘Nudify’ AI, which uses a single photo to create images that make a real person appear undressed, will be strictly banned in Europe. By directly banning AI that generates non-consensual sexual images by law, the EU elevates the misuse of generative AI from after-the-fact content removal to regulation of the AI systems themselves."
+                "x": "백악관 발표에 따르면 교토에서 열린 제23회 과학기술과 사회(STS) 포럼 연차총회(23rd Annual Meeting)에서 미국과 16개국이 '과학 황금시대를 위한 교토 비전(Kyoto Vision for a Golden Age of Science)'을 지지했다. 과학 생태계를 새롭게 다지고 강화하자는 공동 선언이다."
               },
               {
                 "t": "p",
-                "x": "According to the European Commission (EC), the AI Act provision banning such systems will apply from December 2. The announcement came after more than 100 members of the European Parliament called for immediate enforcement readiness."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-                "cap": "The European Union will begin strict legal enforcement against Nudify AI from December. Photo_EC website"
+                "x": "마이클 크라치오스 백악관 과학기술정책실장이 주도한 선언은 과학에 쓰이는 초지능 덕분에 대규모 자율 실험이 가능해진다고 본다. 크라치오스는 \"과학에 적용된 초지능은 연구를 민주화하는 역사상 가장 큰 힘이 될 것\"이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "EC spokesperson Thomas Regnier said, “This is illegal and has absolutely no place in Europe,” adding, “We are ready to enforce the law from day one.”"
+                "x": "선언은 다양한 자금 지원 수단과 새 기관 모델로 발견의 제도를 손보자고 촉구한다. 연구자의 SI 도구·데이터·컴퓨팅·실험 시설 접근을 넓히겠다는 약속과 함께 과학용 초지능을 활용하고, 과학계 전반에서 인재를 기르자는 내용도 담았다."
               },
               {
                 "t": "p",
-                "x": "The AI Act defines AI systems that generate non-consensual sexual content as a ‘prohibited AI practice,’ and AI systems that generate child sexual abuse material are banned as well. There was originally no explicit prohibition, but it was added during the AI Omnibus revision process, and the European Parliament and the EU Council reached a political agreement in May."
-              },
-              {
-                "t": "p",
-                "x": "The EU is also using the Digital Services Act (DSA) to investigate xAI's Grok over its generation of non-consensual sexual images. The approach runs on two tracks: the spread of illegal content on platforms is handled under the DSA, while the AI systems that create it are handled under the AI Act."
+                "x": "지지국: 아르헨티나, 불가리아, 칠레, 키프로스, 독일, 그리스, 인도네시아, 이탈리아, 일본, 카자흐스탄, 대한민국, 뉴질랜드, 폴란드, 싱가포르, 아랍에미리트, 영국, 미국."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU、ヌーディファイAIを\n法律で直接禁止",
-          "body": "EUは12月2日から、同意のない性的画像を作るヌーディファイAIを禁止する。",
-          "mini_headline": "EU、ヌーディファイAI禁止",
+          "headline": "U.S.と16カ国が\n京都の科学宣言を支持",
+          "body": "京都のSTSフォーラムで17カ国が、OSTP-ledの科学向け超知能宣言を支持した。",
+          "mini_headline": "17カ国が京都科学ビジョンに署名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "写真1枚で実在の人物の服を脱がせたかのような画像を作る、いわゆる「ヌーディファイ(Nudify)」AIが、欧州で厳しく禁止される。EUが同意のない性的画像を生成するAIを法律で直接禁止することで、生成AIの悪用は事後的なコンテンツ削除ではなく、AIシステムそのものの規制対象へと引き上げられる。"
+                "x": "ホワイトハウスの発表によると、京都で開かれた第23回「科学技術と社会(STS)フォーラム」年次総会(23rd Annual Meeting)で、米国と16カ国が、科学のエコシステムを刷新・強化する共同宣言「科学の黄金時代に向けた京都ビジョン(Kyoto Vision for a Golden Age of Science)」を支持した。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会(EC)によると、こうしたシステムを禁止する人工知能法(AI Act)の規定は12月2日から適用される。今回の発表は、欧州議会議員100人以上が即時の執行準備を求めたことを受けたものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-                "cap": "欧州連合は12月からヌーディファイAIに対する厳格な法執行に乗り出す。写真_EC公式サイト"
+                "x": "科学技術政策局のマイケル・クラツィオス局長が主導したこの宣言は、科学のための超知能が大規模な自律実験を可能にするとしている。クラツィオス氏は「科学に応用される超知能は、研究を民主化する史上最大の力になる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "EC報道官のトマ・レニエ氏は「これは違法であり、欧州に居場所はまったくない」と述べ、「施行初日から法を執行する準備ができている」と語った。"
+                "x": "宣言は、多様な資金手段と新たな組織モデルによる発見の制度の改善、研究者によるSIツール・データ・計算資源・実験施設へのアクセス拡大を約束したうえでの科学のための超知能の活用、そして科学界全体での人材育成を求めている。"
               },
               {
                 "t": "p",
-                "x": "人工知能法は、同意のない性的コンテンツを生成するAIシステムそのものを「禁止されたAI慣行」と定め、児童性的搾取物を生成するAIシステムも併せて禁止する。当初は明示的な禁止規定がなかったが、AIオムニバス改正の過程で追加され、5月に欧州議会とEU理事会が政治合意に達した。"
-              },
-              {
-                "t": "p",
-                "x": "EUはデジタルサービス法(DSA)も動員し、xAIのGrokが同意のない性的画像を生成した問題を調査している。プラットフォーム上の違法コンテンツの拡散はDSAで、それを作り出すAIシステムは人工知能法で扱う二本立ての構造だ。"
+                "x": "支持国:アルゼンチン、ブルガリア、チリ、キプロス、ドイツ、ギリシャ、インドネシア、イタリア、日本、カザフスタン、大韓民国、ニュージーランド、ポーランド、シンガポール、アラブ首長国連邦、英国、米国。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU立法直接禁止\nNudify AI",
-          "body": "EU将自12月2日起禁止生成未经同意性图像的Nudify AI。",
-          "mini_headline": "EU禁止Nudify AI",
+          "headline": "U.S.与16个国家\n支持京都科学宣言",
+          "body": "17国在京都STS论坛上支持由OSTP牵头(OSTP-led)的科学超级智能宣言。",
+          "mini_headline": "17国签署京都科学愿景",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "仅凭一张照片就能生成仿佛脱去真人衣服的图像的所谓“一键脱衣（Nudify）”AI，将在欧洲遭到严格禁止。EU以立法形式直接禁止生成未经同意性图像的AI，把生成式AI滥用问题从事后删除内容提升为对AI系统本身的监管。"
+                "x": "据白宫发布的消息，在京都举行的第23届科学技术与社会(STS)论坛年会(23rd Annual Meeting)上，美国和16个国家支持了《迈向科学黄金时代的京都愿景》(Kyoto Vision for a Golden Age of Science)，这是一份旨在更新和加强科学生态系统的联合宣言。"
               },
               {
                 "t": "p",
-                "x": "据欧盟委员会（EC）称，禁止此类系统的《人工智能法》（AI Act）条款将于12月2日起适用。此次宣布是在100多名欧洲议会议员要求立即做好执法准备之后作出的。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-                "cap": "欧盟将自12月起对Nudify AI严格执法。图片_EC官网"
+                "x": "该宣言由白宫科学技术政策办公室主任迈克尔·克拉齐奥斯牵头，称面向科学的超级智能将实现大规模自主实验。克拉齐奥斯说：“应用于科学的超级智能将成为历史上推动研究民主化的最强大力量。”"
               },
               {
                 "t": "p",
-                "x": "EC发言人托马·雷尼耶表示：“这是违法的，在欧洲毫无立足之地。”他还说：“我们已准备好从实施首日起执法。”"
+                "x": "宣言呼吁：通过多样化的资助工具和新的机构模式改进发现机制；利用面向科学的超级智能，并承诺扩大研究人员对SI工具、数据、算力和实验设施的使用；以及在整个科学事业中培养人才。"
               },
               {
                 "t": "p",
-                "x": "《人工智能法》将生成未经同意性内容的AI系统本身界定为“被禁止的AI行为”，生成儿童性剥削内容的AI系统也一并被禁止。该法最初并无明确禁止条款，后在AI综合（Omnibus）修订过程中加入，欧洲议会与EU理事会已于5月达成政治协议。"
-              },
-              {
-                "t": "p",
-                "x": "EU还动用《数字服务法》（DSA）调查xAI旗下Grok生成未经同意性图像的问题。平台上非法内容的传播由DSA处理，制造这些内容的AI系统则由《人工智能法》规管，形成双轨结构。"
+                "x": "支持国：阿根廷、保加利亚、智利、塞浦路斯、德国、希腊、印度尼西亚、意大利、日本、哈萨克斯坦、大韩民国、新西兰、波兰、新加坡、阿拉伯联合酋长国、英国和美国。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EU prohíbe directamente\npor ley la AI Nudify",
-          "body": "La EU prohibirá desde el 2 de diciembre la AI Nudify, que crea imágenes sexuales sin consentimiento.",
-          "mini_headline": "La EU prohíbe la AI Nudify",
+          "headline": "U.S. y 16 países respaldan\ndeclaración científica de Kyoto",
+          "body": "En el STS Forum de Kyoto, 17 naciones respaldaron una declaración OSTP-led sobre superinteligencia para la ciencia.",
+          "mini_headline": "17 naciones firman la visión científica de Kyoto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La llamada AI ‘Nudify’, que a partir de una sola foto crea imágenes en las que una persona real parece desvestida, quedará estrictamente prohibida en Europa. Al prohibir directamente por ley la AI que genera imágenes sexuales sin consentimiento, la EU eleva el uso indebido de la AI generativa de la retirada de contenidos a posteriori a la regulación de los propios sistemas de AI."
+                "x": "En la 23.ª Reunión Anual (23rd Annual Meeting) del Foro Ciencia y Tecnología en la Sociedad (STS) en Kyoto, Estados Unidos y 16 países respaldaron la Visión de Kyoto para una Edad de Oro de la Ciencia (Kyoto Vision for a Golden Age of Science), una declaración conjunta para renovar y fortalecer los ecosistemas científicos, según un comunicado de la Casa Blanca."
               },
               {
                 "t": "p",
-                "x": "Según la Comisión Europea (EC), la disposición de la ley de inteligencia artificial (AI Act) que prohíbe estos sistemas se aplicará desde el 2 de diciembre. El anuncio se produjo después de que más de 100 eurodiputados pidieran preparar su aplicación inmediata."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-                "cap": "La Unión Europea aplicará la ley con rigor contra la AI Nudify a partir de diciembre. Foto_sitio web de la EC"
+                "x": "Encabezada por el director de la Oficina de Política Científica y Tecnológica, Michael Kratsios, la declaración afirma que la superinteligencia aplicada a la ciencia permitirá la experimentación autónoma a gran escala. \"La superinteligencia aplicada a la ciencia será la mayor fuerza de la historia para democratizar la investigación\", dijo Kratsios."
               },
               {
                 "t": "p",
-                "x": "Thomas Regnier, portavoz de la EC, afirmó: “Esto es ilegal y no tiene cabida alguna en Europa”, y añadió: “Estamos preparados para aplicar la ley desde el primer día”."
+                "x": "Pide mejorar las instituciones del descubrimiento mediante diversas herramientas de financiación y nuevos modelos institucionales; aprovechar la superinteligencia para la ciencia, con compromisos para ampliar el acceso de los investigadores a herramientas de SI, datos, computación e instalaciones experimentales; y cultivar el talento en todo el ámbito científico."
               },
               {
                 "t": "p",
-                "x": "La AI Act define los propios sistemas de AI que generan contenido sexual sin consentimiento como una ‘práctica de AI prohibida’, y también prohíbe los sistemas de AI que generan material de abuso sexual infantil. En un principio no había una prohibición explícita, pero se añadió durante la revisión del Ómnibus de AI, y en mayo el Parlamento Europeo y el Consejo de la EU alcanzaron un acuerdo político."
-              },
-              {
-                "t": "p",
-                "x": "La EU también recurre a la Ley de Servicios Digitales (DSA) para investigar a Grok, de xAI, por generar imágenes sexuales sin consentimiento. Es una estructura de dos vías: la difusión de contenido ilegal en las plataformas se aborda con la DSA y los sistemas de AI que lo crean, con la AI Act."
+                "x": "Firmantes: Argentina, Bulgaria, Chile, Chipre, Alemania, Grecia, Indonesia, Italia, Japón, Kazajistán, República de Corea, Nueva Zelanda, Polonia, Singapur, Emiratos Árabes Unidos, Reino Unido y Estados Unidos."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "EU bans Nudify AI\ndirectly by law",
-          "body": "The EU will ban Nudify AI that creates non-consensual sexual images starting December 2.",
-          "mini_headline": "EU bans Nudify AI",
+        "ko": {
+          "headline": "U.S.와 16개국,\n교토 과학 선언 지지",
+          "body": "교토 STS 포럼서 17개국이 OSTP-led 초지능 과학 선언을 지지했다.",
+          "mini_headline": "17개국, 교토 과학 비전 서명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "So-called ‘Nudify’ AI, which uses a single photo to create images that make a real person appear undressed, will be strictly banned in Europe. By directly banning AI that generates non-consensual sexual images by law, the EU elevates the misuse of generative AI from after-the-fact content removal to regulation of the AI systems themselves."
+                "x": "백악관 발표에 따르면, 교토에서 열린 제23회 과학기술과 사회(STS) 포럼 연차총회(23rd Annual Meeting)에서 미국과 16개국이 과학 생태계를 새롭게 하고 강화하기 위한 공동 선언인 '과학 황금시대를 위한 교토 비전(Kyoto Vision for a Golden Age of Science)'을 지지했다."
               },
               {
                 "t": "p",
-                "x": "According to the European Commission (EC), the AI Act provision banning such systems will apply from December 2. The announcement came after more than 100 members of the European Parliament called for immediate enforcement readiness."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-                "cap": "The European Union will begin strict legal enforcement against Nudify AI from December. Photo_EC website"
+                "x": "마이클 크라치오스 백악관 과학기술정책실장이 주도한 이 선언은 과학을 위한 초지능이 대규모 자율 실험을 가능하게 할 것이라고 밝힌다. 크라치오스는 \"과학에 적용된 초지능은 연구를 민주화하는 역사상 가장 큰 힘이 될 것\"이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "EC spokesperson Thomas Regnier said, “This is illegal and has absolutely no place in Europe,” adding, “We are ready to enforce the law from day one.”"
+                "x": "선언은 다양한 자금 지원 수단과 새로운 기관 모델로 발견의 제도를 개선하고, 연구자의 SI 도구·데이터·컴퓨팅·실험 시설 접근을 넓히겠다는 약속과 함께 과학을 위한 초지능을 활용하며, 과학계 전반에서 인재를 기르자고 촉구한다."
               },
               {
                 "t": "p",
-                "x": "The AI Act defines AI systems that generate non-consensual sexual content as a ‘prohibited AI practice,’ and AI systems that generate child sexual abuse material are banned as well. There was originally no explicit prohibition, but it was added during the AI Omnibus revision process, and the European Parliament and the EU Council reached a political agreement in May."
-              },
-              {
-                "t": "p",
-                "x": "The EU is also using the Digital Services Act (DSA) to investigate xAI's Grok over its generation of non-consensual sexual images. The approach runs on two tracks: the spread of illegal content on platforms is handled under the DSA, while the AI systems that create it are handled under the AI Act."
+                "x": "지지국: 아르헨티나, 불가리아, 칠레, 키프로스, 독일, 그리스, 인도네시아, 이탈리아, 일본, 카자흐스탄, 대한민국, 뉴질랜드, 폴란드, 싱가포르, 아랍에미리트, 영국, 미국."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU、ヌーディファイAIを\n法律で直接禁止",
-          "body": "EUは12月2日から、同意のない性的画像を作るヌーディファイAIを禁止する。",
-          "mini_headline": "EU、ヌーディファイAI禁止",
+          "headline": "U.S.と16カ国が\n京都の科学宣言を支持",
+          "body": "京都のSTSフォーラムで17カ国が、OSTP-ledの科学向け超知能宣言を支持した。",
+          "mini_headline": "17カ国が京都科学ビジョンに署名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "写真1枚で実在の人物の服を脱がせたかのような画像を作る、いわゆる「ヌーディファイ(Nudify)」AIが、欧州で厳しく禁止される。EUが同意のない性的画像を生成するAIを法律で直接禁止することで、生成AIの悪用は事後的なコンテンツ削除ではなく、AIシステムそのものの規制対象へと引き上げられる。"
+                "x": "ホワイトハウスの発表によると、京都で開かれた第23回「科学技術と社会(STS)フォーラム」年次総会(23rd Annual Meeting)で、米国と16カ国が、科学のエコシステムを刷新・強化する共同宣言「科学の黄金時代に向けた京都ビジョン(Kyoto Vision for a Golden Age of Science)」を支持した。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会(EC)によると、こうしたシステムを禁止する人工知能法(AI Act)の規定は12月2日から適用される。今回の発表は、欧州議会議員100人以上が即時の執行準備を求めたことを受けたものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-                "cap": "欧州連合は12月からヌーディファイAIに対する厳格な法執行に乗り出す。写真_EC公式サイト"
+                "x": "科学技術政策局のマイケル・クラツィオス局長が主導したこの宣言は、科学のための超知能が大規模な自律実験を可能にするとしている。クラツィオス氏は「科学に応用される超知能は、研究を民主化する史上最大の力になる」と述べた。"
               },
               {
                 "t": "p",
-                "x": "EC報道官のトマ・レニエ氏は「これは違法であり、欧州に居場所はまったくない」と述べ、「施行初日から法を執行する準備ができている」と語った。"
+                "x": "宣言は、多様な資金手段と新たな組織モデルによる発見の制度の改善、研究者によるSIツール・データ・計算資源・実験施設へのアクセス拡大を約束したうえでの科学のための超知能の活用、そして科学界全体での人材育成を求めている。"
               },
               {
                 "t": "p",
-                "x": "人工知能法は、同意のない性的コンテンツを生成するAIシステムそのものを「禁止されたAI慣行」と定め、児童性的搾取物を生成するAIシステムも併せて禁止する。当初は明示的な禁止規定がなかったが、AIオムニバス改正の過程で追加され、5月に欧州議会とEU理事会が政治合意に達した。"
-              },
-              {
-                "t": "p",
-                "x": "EUはデジタルサービス法(DSA)も動員し、xAIのGrokが同意のない性的画像を生成した問題を調査している。プラットフォーム上の違法コンテンツの拡散はDSAで、それを作り出すAIシステムは人工知能法で扱う二本立ての構造だ。"
+                "x": "支持国:アルゼンチン、ブルガリア、チリ、キプロス、ドイツ、ギリシャ、インドネシア、イタリア、日本、カザフスタン、大韓民国、ニュージーランド、ポーランド、シンガポール、アラブ首長国連邦、英国、米国。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU立法直接禁止\nNudify AI",
-          "body": "EU将自12月2日起禁止生成未经同意性图像的Nudify AI。",
-          "mini_headline": "EU禁止Nudify AI",
+          "headline": "U.S.与16个国家\n支持京都科学宣言",
+          "body": "17国在京都STS论坛上支持由OSTP牵头(OSTP-led)的科学超级智能宣言。",
+          "mini_headline": "17国签署京都科学愿景",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "仅凭一张照片就能生成仿佛脱去真人衣服的图像的所谓“一键脱衣（Nudify）”AI，将在欧洲遭到严格禁止。EU以立法形式直接禁止生成未经同意性图像的AI，把生成式AI滥用问题从事后删除内容提升为对AI系统本身的监管。"
+                "x": "据白宫发布的消息，在京都举行的第23届科学技术与社会(STS)论坛年会(23rd Annual Meeting)上，美国和16个国家支持了《迈向科学黄金时代的京都愿景》(Kyoto Vision for a Golden Age of Science)，这是一份旨在更新和加强科学生态系统的联合宣言。"
               },
               {
                 "t": "p",
-                "x": "据欧盟委员会（EC）称，禁止此类系统的《人工智能法》（AI Act）条款将于12月2日起适用。此次宣布是在100多名欧洲议会议员要求立即做好执法准备之后作出的。"
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-                "cap": "欧盟将自12月起对Nudify AI严格执法。图片_EC官网"
+                "x": "该宣言由白宫科学技术政策办公室主任迈克尔·克拉齐奥斯牵头，称面向科学的超级智能将实现大规模自主实验。克拉齐奥斯说：“应用于科学的超级智能将成为历史上推动研究民主化的最强大力量。”"
               },
               {
                 "t": "p",
-                "x": "EC发言人托马·雷尼耶表示：“这是违法的，在欧洲毫无立足之地。”他还说：“我们已准备好从实施首日起执法。”"
+                "x": "宣言呼吁：通过多样化的资助工具和新的机构模式改进发现机制；利用面向科学的超级智能，并承诺扩大研究人员对SI工具、数据、算力和实验设施的使用；以及在整个科学事业中培养人才。"
               },
               {
                 "t": "p",
-                "x": "《人工智能法》将生成未经同意性内容的AI系统本身界定为“被禁止的AI行为”，生成儿童性剥削内容的AI系统也一并被禁止。该法最初并无明确禁止条款，后在AI综合（Omnibus）修订过程中加入，欧洲议会与EU理事会已于5月达成政治协议。"
-              },
-              {
-                "t": "p",
-                "x": "EU还动用《数字服务法》（DSA）调查xAI旗下Grok生成未经同意性图像的问题。平台上非法内容的传播由DSA处理，制造这些内容的AI系统则由《人工智能法》规管，形成双轨结构。"
+                "x": "支持国：阿根廷、保加利亚、智利、塞浦路斯、德国、希腊、印度尼西亚、意大利、日本、哈萨克斯坦、大韩民国、新西兰、波兰、新加坡、阿拉伯联合酋长国、英国和美国。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EU prohíbe directamente\npor ley la AI Nudify",
-          "body": "La EU prohibirá desde el 2 de diciembre la AI Nudify, que crea imágenes sexuales sin consentimiento.",
-          "mini_headline": "La EU prohíbe la AI Nudify",
+          "headline": "U.S. y 16 países respaldan\ndeclaración científica de Kyoto",
+          "body": "En el STS Forum de Kyoto, 17 naciones respaldaron una declaración OSTP-led sobre superinteligencia para la ciencia.",
+          "mini_headline": "17 naciones firman la visión científica de Kyoto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La llamada AI ‘Nudify’, que a partir de una sola foto crea imágenes en las que una persona real parece desvestida, quedará estrictamente prohibida en Europa. Al prohibir directamente por ley la AI que genera imágenes sexuales sin consentimiento, la EU eleva el uso indebido de la AI generativa de la retirada de contenidos a posteriori a la regulación de los propios sistemas de AI."
+                "x": "En la 23.ª Reunión Anual (23rd Annual Meeting) del Foro Ciencia y Tecnología en la Sociedad (STS) en Kyoto, Estados Unidos y 16 países respaldaron la Visión de Kyoto para una Edad de Oro de la Ciencia (Kyoto Vision for a Golden Age of Science), una declaración conjunta para renovar y fortalecer los ecosistemas científicos, según un comunicado de la Casa Blanca."
               },
               {
                 "t": "p",
-                "x": "Según la Comisión Europea (EC), la disposición de la ley de inteligencia artificial (AI Act) que prohíbe estos sistemas se aplicará desde el 2 de diciembre. El anuncio se produjo después de que más de 100 eurodiputados pidieran preparar su aplicación inmediata."
-              },
-              {
-                "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-                "cap": "La Unión Europea aplicará la ley con rigor contra la AI Nudify a partir de diciembre. Foto_sitio web de la EC"
+                "x": "Encabezada por el director de la Oficina de Política Científica y Tecnológica, Michael Kratsios, la declaración afirma que la superinteligencia aplicada a la ciencia permitirá la experimentación autónoma a gran escala. \"La superinteligencia aplicada a la ciencia será la mayor fuerza de la historia para democratizar la investigación\", dijo Kratsios."
               },
               {
                 "t": "p",
-                "x": "Thomas Regnier, portavoz de la EC, afirmó: “Esto es ilegal y no tiene cabida alguna en Europa”, y añadió: “Estamos preparados para aplicar la ley desde el primer día”."
+                "x": "Pide mejorar las instituciones del descubrimiento mediante diversas herramientas de financiación y nuevos modelos institucionales; aprovechar la superinteligencia para la ciencia, con compromisos para ampliar el acceso de los investigadores a herramientas de SI, datos, computación e instalaciones experimentales; y cultivar el talento en todo el ámbito científico."
               },
               {
                 "t": "p",
-                "x": "La AI Act define los propios sistemas de AI que generan contenido sexual sin consentimiento como una ‘práctica de AI prohibida’, y también prohíbe los sistemas de AI que generan material de abuso sexual infantil. En un principio no había una prohibición explícita, pero se añadió durante la revisión del Ómnibus de AI, y en mayo el Parlamento Europeo y el Consejo de la EU alcanzaron un acuerdo político."
-              },
-              {
-                "t": "p",
-                "x": "La EU también recurre a la Ley de Servicios Digitales (DSA) para investigar a Grok, de xAI, por generar imágenes sexuales sin consentimiento. Es una estructura de dos vías: la difusión de contenido ilegal en las plataformas se aborda con la DSA y los sistemas de AI que lo crean, con la AI Act."
+                "x": "Firmantes: Argentina, Bulgaria, Chile, Chipre, Alemania, Grecia, Indonesia, Italia, Japón, Kazajistán, República de Corea, Nueva Zelanda, Polonia, Singapur, Emiratos Árabes Unidos, Reino Unido y Estados Unidos."
               }
             ]
           }
@@ -727,15 +637,15 @@
       }
     },
     {
-      "id": "vanorden-cooke-deepfake",
+      "id": "jay-clayton-ai-czar-super-intelligence-force",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "밴 오든 캠프에\nAI 딥페이크 중지 서한",
-      "body": "쿡 측 변호인은 밴 오든 캠프가 AI 딥페이크로 쿡의 발언을 지어냈다고 밝혔다.",
-      "mini_headline": "밴 오든, 딥페이크 서한 받아",
+      "headline": "트럼프, DNI 클레이턴\n백악관 AI 차르 지명",
+      "body": "트럼프는 클레이턴에게 AI 기업과의 협력을 조율할 새 초지능군을 맡긴다고 밝혔다.",
+      "mini_headline": "제이 클레이턴, AI 차르 지명",
       "tool": "Politics",
-      "source": "Washington Sun",
-      "url": "https://www.washingtonsun.com/campaigns/van-orden-hit-with-cease-and-desist-letter-over-ai-deepfake-videos",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -743,179 +653,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-            "cap": "데릭 밴 오든 (Alex Brandon/AP)"
+            "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+            "cap": "2026년 7월 15일 상원 정보위원회 인준 청문회에 출석한 제이 클레이턴. Mariam Zuhaib/AP"
           },
           {
             "t": "p",
-            "x": "공화당 데릭 밴 오든 하원의원이 수요일 AI 딥페이크 영상을 문제 삼은 중지 요구(cease-and-desist) 서한을 받았다. 보낸 쪽은 위스콘신주 제3선거구 민주당 도전자 레베카 쿡의 변호인단이다."
+            "x": "트럼프 대통령은 일요일, 제이 클레이턴 국가정보장을 새 백악관 AI 차르로 앉힌다고 밝혔다. Truth Social에는 클레이턴이 백악관의 새 \"초지능군(Super Intelligence Force)\"을 이끌고, 이 조직이 \"소비자, 공익 단체, 종교 단체, 핵심 기반시설 제공자, 초지능 기업과 연방정부 간의 관계를 조율\"하게 된다고 썼다."
           },
           {
             "t": "p",
-            "x": "서한이 겨냥한 건 밴 오든이 8월 4일 X에 올린 딥페이크다. 영상 속 쿡은 \"가능한 한 많은 부패를 이용하겠다\"고 말한다. Elias Law Group의 벤 스태퍼드는 이 콘텐츠가 \"위스콘신 유권자들이 그녀가 하지 않은 말을 했다고 믿도록 속이려는\" 목적으로 만들어졌다고 썼다."
+            "x": "트럼프에 따르면 이 그룹에는 앤드루 퍼거슨 FTC 위원장, 스콧 쿠포 OPM 처장, 에밀 마이클 국방부 연구·공학 차관도 들어간다. 클레이턴은 뉴욕 남부지구 연방검사장(U.S. Attorney)과 SEC 위원장을 거쳤다."
           },
           {
             "t": "p",
-            "x": "위스콘신은 정치 딥페이크를 규제하는 33개 주 가운데 하나다. 딥페이크 자체를 금지하진 않지만 영상이 AI로 생성됐다(AI-generated)는 사실은 밝히게 한다. 서한에는 쿡이 명예훼손 소송을 낼 수 있다는 내용도 담겼다."
-          },
-          {
-            "t": "p",
-            "x": "밴 오든은 또 다른 AI-generated 영상과 성명을 내놓으며 맞섰다. 쿡이 자신의 의정 기록을 두고 \"허위 주장\"을 담은 광고를 내보낸다는 비난이었다. 쿡은 밴 오든이 \"내가 하지 않은 말을 내 입에 넣고 있다\"며 이번 딥페이크를 그가 지지해 온 데이터센터 문제와 엮었다."
+            "x": "발표는 화요일 백악관 회의 뒤에 나왔다. 트럼프는 그 회의가 끝난 뒤 여러 AI 기업이 자발적 협약에 서명했다고 말했다. AI를 폭넓게 규제하는 연방법은 아직 의회를 통과하지 못했다. 클레이턴은 지난달 초지능을 \"국가 안보 문제\"라고 부르며 \"일시 중단\" 요구에 반대했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Van Orden campaign hit with\nAI deepfake cease-and-desist",
-          "body": "Rebecca Cooke's lawyers say Rep. Van Orden's campaign used AI deepfake videos to falsely attribute statements to her.",
-          "mini_headline": "Van Orden faces deepfake letter",
+          "headline": "Trump names DNI Jay Clayton\nas White House AI czar",
+          "body": "Trump said Clayton will lead a new Super Intelligence Force coordinating government engagement with AI firms.",
+          "mini_headline": "Jay Clayton named\nAI czar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-                "cap": "Derrick Van Orden (Alex Brandon/AP)"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+                "cap": "Jay Clayton at his Senate Intelligence Committee confirmation hearing, July 15, 2026. Mariam Zuhaib/AP"
               },
               {
                 "t": "p",
-                "x": "Republican Rep. Derrick Van Orden received a cease-and-desist letter Wednesday from attorneys for Rebecca Cooke, his Democratic challenger in Wisconsin's 3rd Congressional District, over AI deepfake videos."
+                "x": "Director of National Intelligence Jay Clayton is the new White House AI czar, President Trump said on Sunday. Trump wrote on Truth Social that Clayton will lead the White House's new \"Super Intelligence Force,\" which will \"coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies.\""
               },
               {
                 "t": "p",
-                "x": "The letter cites a deepfake Van Orden posted to X on Aug. 4 purporting to show Cooke saying she intends \"to take advantage of as much corruption as possible.\" Ben Stafford of Elias Law Group wrote that the content aims \"to fool the voters of Wisconsin into believing she said something she did not.\""
+                "x": "Trump said the group will also include FTC Chairman Andrew Ferguson, OPM Director Scott Kupor and Under Secretary of Defense for Research and Engineering Emil Michael. Clayton was previously U.S. Attorney for the Southern District of New York and SEC chairman."
               },
               {
                 "t": "p",
-                "x": "Wisconsin is one of 33 states regulating political deepfakes; it does not ban them but requires disclosure that a video is AI-generated. The letter says Cooke could pursue a defamation claim."
-              },
-              {
-                "t": "p",
-                "x": "Van Orden responded with another AI-generated video and a statement accusing Cooke of running ads with \"false claims\" about his record. Cooke said Van Orden is \"putting words in my mouth\" and tied the deepfakes to data centers he has supported."
+                "x": "The announcement follows a Tuesday White House meeting after which Trump said several AI companies had signed a voluntary accord. Congress has not passed federal law broadly regulating AI. Last month Clayton called super intelligence a \"national security issue\" and pushed back against calls for a \"pause.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "밴 오든 캠프에\nAI 딥페이크 중지 서한",
-          "body": "쿡 측 변호인은 밴 오든 캠프가 AI 딥페이크로 쿡의 발언을 지어냈다고 밝혔다.",
-          "mini_headline": "밴 오든, 딥페이크 서한 받아",
+          "headline": "트럼프, DNI 클레이턴\n백악관 AI 차르 지명",
+          "body": "트럼프는 클레이턴에게 AI 기업과의 협력을 조율할 새 초지능군을 맡긴다고 밝혔다.",
+          "mini_headline": "제이 클레이턴, AI 차르 지명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-                "cap": "데릭 밴 오든 (Alex Brandon/AP)"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+                "cap": "2026년 7월 15일 상원 정보위원회 인준 청문회에 출석한 제이 클레이턴. Mariam Zuhaib/AP"
               },
               {
                 "t": "p",
-                "x": "공화당 데릭 밴 오든 하원의원이 수요일 AI 딥페이크 영상을 문제 삼은 중지 요구(cease-and-desist) 서한을 받았다. 보낸 쪽은 위스콘신주 제3선거구 민주당 도전자 레베카 쿡의 변호인단이다."
+                "x": "트럼프 대통령은 일요일, 제이 클레이턴 국가정보장을 새 백악관 AI 차르로 앉힌다고 밝혔다. Truth Social에는 클레이턴이 백악관의 새 \"초지능군(Super Intelligence Force)\"을 이끌고, 이 조직이 \"소비자, 공익 단체, 종교 단체, 핵심 기반시설 제공자, 초지능 기업과 연방정부 간의 관계를 조율\"하게 된다고 썼다."
               },
               {
                 "t": "p",
-                "x": "서한이 겨냥한 건 밴 오든이 8월 4일 X에 올린 딥페이크다. 영상 속 쿡은 \"가능한 한 많은 부패를 이용하겠다\"고 말한다. Elias Law Group의 벤 스태퍼드는 이 콘텐츠가 \"위스콘신 유권자들이 그녀가 하지 않은 말을 했다고 믿도록 속이려는\" 목적으로 만들어졌다고 썼다."
+                "x": "트럼프에 따르면 이 그룹에는 앤드루 퍼거슨 FTC 위원장, 스콧 쿠포 OPM 처장, 에밀 마이클 국방부 연구·공학 차관도 들어간다. 클레이턴은 뉴욕 남부지구 연방검사장(U.S. Attorney)과 SEC 위원장을 거쳤다."
               },
               {
                 "t": "p",
-                "x": "위스콘신은 정치 딥페이크를 규제하는 33개 주 가운데 하나다. 딥페이크 자체를 금지하진 않지만 영상이 AI로 생성됐다(AI-generated)는 사실은 밝히게 한다. 서한에는 쿡이 명예훼손 소송을 낼 수 있다는 내용도 담겼다."
-              },
-              {
-                "t": "p",
-                "x": "밴 오든은 또 다른 AI-generated 영상과 성명을 내놓으며 맞섰다. 쿡이 자신의 의정 기록을 두고 \"허위 주장\"을 담은 광고를 내보낸다는 비난이었다. 쿡은 밴 오든이 \"내가 하지 않은 말을 내 입에 넣고 있다\"며 이번 딥페이크를 그가 지지해 온 데이터센터 문제와 엮었다."
+                "x": "발표는 화요일 백악관 회의 뒤에 나왔다. 트럼프는 그 회의가 끝난 뒤 여러 AI 기업이 자발적 협약에 서명했다고 말했다. AI를 폭넓게 규제하는 연방법은 아직 의회를 통과하지 못했다. 클레이턴은 지난달 초지능을 \"국가 안보 문제\"라고 부르며 \"일시 중단\" 요구에 반대했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "バン・オーデン陣営に\nAI偽動画で停止要求書",
-          "body": "クック氏の弁護士は、バン・オーデン陣営がAI偽造動画で発言を捏造したと主張する。",
-          "mini_headline": "バン・オーデン氏にディープフェイク停止要求",
+          "headline": "トランプ氏、政権AI担当に\nDNIクレイトン氏を指名",
+          "body": "トランプ氏は、クレイトン氏がAI企業への政府対応を調整する新組織を率いると述べた。",
+          "mini_headline": "クレイトン氏、AI担当に指名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-                "cap": "デリック・バン・オーデン(Alex Brandon/AP)"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+                "cap": "2026年7月15日、上院情報特別委員会の承認公聴会に臨むジェイ・クレイトン氏。Mariam Zuhaib/AP"
               },
               {
                 "t": "p",
-                "x": "共和党のデリック・バン・オーデン下院議員は水曜日、ウィスコンシン州第3選挙区で議席を争う民主党候補レベッカ・クック氏の弁護士から、AIディープフェイク動画をめぐる停止要求(cease-and-desist)書簡を受け取った。"
+                "x": "トランプ大統領は日曜日、国家情報長官のジェイ・クレイトン氏がホワイトハウスの新たなAI担当責任者(AI czar)に就くと明らかにした。トランプ氏はTruth Socialで、クレイトン氏がホワイトハウスに新設される「超知能部隊(Super Intelligence Force)」を率い、同組織が「消費者、公益団体、宗教団体、重要インフラ事業者、超知能企業と連邦政府との関わりを調整する」と書いた。"
               },
               {
                 "t": "p",
-                "x": "書簡は、バン・オーデン氏が8月4日にXに投稿したディープフェイクを挙げている。この動画は、クック氏が「できる限り多くの腐敗を利用する」つもりだと語っているかのように見せるものだ。Elias Law Groupのベン・スタッフォード氏は、このコンテンツの狙いは「ウィスコンシンの有権者をだまし、彼女が言っていないことを言ったと信じ込ませる」ことにあると記した。"
+                "x": "トランプ氏によると、このグループにはFTCのアンドリュー・ファーガソン委員長、OPMのスコット・クーパー長官、国防総省のエミル・マイケル研究・工学担当次官も加わる。クレイトン氏は以前、ニューヨーク南部地区の連邦検事(U.S. Attorney)やSEC委員長を務めた。"
               },
               {
                 "t": "p",
-                "x": "ウィスコンシン州は政治ディープフェイクを規制する33州の一つで、禁止はしていないが、動画がAIで生成された(AI-generated)ものであることの開示を義務づけている。書簡は、クック氏が名誉毀損で訴える可能性があるとしている。"
-              },
-              {
-                "t": "p",
-                "x": "バン・オーデン氏は別のAI-generated動画と声明で応じ、クック氏が自身の実績について「虚偽の主張」を含む広告を流していると非難した。クック氏は、バン・オーデン氏が「私の口に言葉を押し込んでいる」と述べ、ディープフェイクを同氏が支持してきたデータセンターと結びつけた。"
+                "x": "今回の発表は火曜日にホワイトハウスで開かれた会合に続くもので、トランプ氏は会合後、複数のAI企業が自主的な合意に署名したと述べていた。議会はAIを幅広く規制する連邦法を成立させていない。クレイトン氏は先月、超知能を「国家安全保障の問題」と呼び、「一時停止」を求める声に反論した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "范奥登阵营收到\nAI深度伪造停止函",
-          "body": "库克的律师称，范奥登议员阵营用AI深度伪造视频捏造她的言论。",
-          "mini_headline": "范奥登收到深度伪造停止函",
+          "headline": "特朗普任命DNI克莱顿\n为白宫AI沙皇",
+          "body": "特朗普称克莱顿将领导新设的超级智能部队，协调政府与AI企业的往来。",
+          "mini_headline": "克莱顿获任AI沙皇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-                "cap": "德里克·范奥登（Alex Brandon/AP）"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+                "cap": "2026年7月15日，杰伊·克莱顿出席参议院情报委员会的确认听证会。Mariam Zuhaib/AP"
               },
               {
                 "t": "p",
-                "x": "共和党籍众议员德里克·范奥登周三收到威斯康星州第3国会选区民主党挑战者丽贝卡·库克的律师发出的停止侵权函（cease-and-desist），事涉AI深度伪造视频。"
+                "x": "特朗普总统周日表示，国家情报总监杰伊·克莱顿出任新的白宫AI沙皇。特朗普在Truth Social上写道，克莱顿将领导白宫新设的“超级智能部队”(Super Intelligence Force)，该部队将“协调联邦政府与消费者、公共利益团体、宗教组织、关键基础设施提供者及超级智能公司的往来”。"
               },
               {
                 "t": "p",
-                "x": "该函援引了范奥登8月4日在X上发布的一段深度伪造内容，其声称显示库克表示她打算“尽可能多地利用腐败”。Elias Law Group的本·斯塔福德写道，该内容旨在“欺骗威斯康星选民，让他们相信她说了她没说过的话”。"
+                "x": "特朗普说，该小组成员还包括FTC主席安德鲁·弗格森、OPM局长斯科特·库波尔，以及负责研究与工程的国防部副部长埃米尔·迈克尔。克莱顿此前曾任纽约南区联邦检察官(U.S. Attorney)和SEC主席。"
               },
               {
                 "t": "p",
-                "x": "威斯康星州是33个规范政治深度伪造的州之一；该州并不禁止深度伪造，但要求披露视频由AI生成（AI-generated）。信中称，库克可以提出诽谤索赔。"
-              },
-              {
-                "t": "p",
-                "x": "范奥登以另一段AI-generated视频和一份声明回应，指责库克投放的广告就其履历提出“虚假说法”。库克说范奥登是在“把话硬塞进我嘴里”，并将这些深度伪造与他所支持的数据中心联系起来。"
+                "x": "此次宣布紧随周二的一场白宫会议。会后特朗普称，多家AI公司已签署一项自愿协议。国会尚未通过广泛监管AI的联邦法律。上月，克莱顿称超级智能是“国家安全问题”，并反驳了要求“暂停”的呼声。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Campaña de Van Orden recibe un\ncease-and-desist por AI",
-          "body": "Los abogados de Cooke afirman que la campaña de Van Orden usó deepfakes de AI para atribuirle frases que no dijo.",
-          "mini_headline": "Van Orden recibe carta por deepfakes",
+          "headline": "Trump nombra al DNI Jay Clayton\nzar de AI de la Casa Blanca",
+          "body": "Trump dijo que Clayton dirigirá una nueva Super Intelligence Force que coordinará al Gobierno con las empresas de AI.",
+          "mini_headline": "Jay Clayton, nombrado zar de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-                "cap": "Derrick Van Orden (Alex Brandon/AP)"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+                "cap": "Jay Clayton en su audiencia de confirmación ante el Comité de Inteligencia del Senado, el 15 de julio de 2026. Mariam Zuhaib/AP"
               },
               {
                 "t": "p",
-                "x": "El representante republicano Derrick Van Orden recibió el miércoles una carta de cese y desistimiento (cease-and-desist) de los abogados de Rebecca Cooke, su rival demócrata en el 3.er Distrito Congresional de Wisconsin, por videos deepfake creados con AI."
+                "x": "El director de Inteligencia Nacional, Jay Clayton, es el nuevo zar de AI de la Casa Blanca, dijo el presidente Trump el domingo. Trump escribió en Truth Social que Clayton dirigirá la nueva \"Super Intelligence Force\" de la Casa Blanca, que \"coordinará la relación del Gobierno federal con consumidores, grupos de interés público, organizaciones religiosas, proveedores de infraestructura crítica y empresas de superinteligencia\"."
               },
               {
                 "t": "p",
-                "x": "La carta cita un deepfake que Van Orden publicó en X el 4 de agosto y que supuestamente muestra a Cooke diciendo que pretende \"aprovechar tanta corrupción como sea posible\". Ben Stafford, de Elias Law Group, escribió que el contenido busca \"engañar a los votantes de Wisconsin para que crean que ella dijo algo que no dijo\"."
+                "x": "Trump dijo que el grupo también incluirá al presidente de la FTC, Andrew Ferguson; al director de la OPM, Scott Kupor, y al subsecretario de Defensa para Investigación e Ingeniería, Emil Michael. Clayton fue antes fiscal federal (U.S. Attorney) del Distrito Sur de Nueva York y presidente de la SEC."
               },
               {
                 "t": "p",
-                "x": "Wisconsin es uno de los 33 estados que regulan los deepfakes políticos; no los prohíbe, pero exige revelar que un video ha sido generado con AI (AI-generated). La carta señala que Cooke podría presentar una demanda por difamación."
-              },
-              {
-                "t": "p",
-                "x": "Van Orden respondió con otro video AI-generated y un comunicado en el que acusa a Cooke de difundir anuncios con \"afirmaciones falsas\" sobre su historial. Cooke dijo que Van Orden está \"poniendo palabras en mi boca\" y vinculó los deepfakes con los centros de datos que él ha apoyado."
+                "x": "El anuncio llega tras una reunión del martes en la Casa Blanca, después de la cual Trump dijo que varias empresas de AI habían firmado un acuerdo voluntario. El Congreso no ha aprobado una ley federal que regule la AI de forma amplia. El mes pasado, Clayton calificó la superinteligencia de \"asunto de seguridad nacional\" y rechazó los llamados a una \"pausa\"."
               }
             ]
           }
@@ -923,125 +809,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "밴 오든 캠프에\nAI 딥페이크 중지 서한",
-          "body": "쿡 측 변호인은 밴 오든 캠프가 AI 딥페이크로 쿡의 발언을 지어냈다고 밝혔다.",
-          "mini_headline": "밴 오든, 딥페이크 서한 받아",
+          "headline": "트럼프, DNI 클레이턴\n백악관 AI 차르 지명",
+          "body": "트럼프는 클레이턴이 AI 기업과의 협력을 조율할 새 초지능군을 이끈다고 밝혔다.",
+          "mini_headline": "제이 클레이턴, AI 차르 지명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-                "cap": "데릭 밴 오든 (Alex Brandon/AP)"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+                "cap": "2026년 7월 15일 상원 정보위원회 인준 청문회에 출석한 제이 클레이턴. Mariam Zuhaib/AP"
               },
               {
                 "t": "p",
-                "x": "공화당 소속 데릭 밴 오든 하원의원이 수요일, 위스콘신주 제3선거구 민주당 도전자 레베카 쿡의 변호인단으로부터 AI 딥페이크 영상과 관련한 중지 요구(cease-and-desist) 서한을 받았다."
+                "x": "트럼프 대통령은 일요일 제이 클레이턴 국가정보장이 새 백악관 AI 차르를 맡는다고 밝혔다. 트럼프는 Truth Social에 클레이턴이 백악관의 새 \"초지능군(Super Intelligence Force)\"을 이끌 것이며, 이 조직이 \"소비자, 공익 단체, 종교 단체, 핵심 기반시설 제공자, 초지능 기업과 연방정부 간의 관계를 조율\"할 것이라고 썼다."
               },
               {
                 "t": "p",
-                "x": "서한은 밴 오든이 8월 4일 X에 올린 딥페이크를 문제 삼았다. 이 영상은 쿡이 \"가능한 한 많은 부패를 이용하겠다\"고 말하는 것처럼 묘사했다. Elias Law Group의 벤 스태퍼드는 이 콘텐츠가 \"위스콘신 유권자들이 그녀가 하지 않은 말을 했다고 믿도록 속이려는\" 목적이라고 썼다."
+                "x": "트럼프는 이 그룹에 앤드루 퍼거슨 FTC 위원장, 스콧 쿠포 OPM 처장, 에밀 마이클 국방부 연구·공학 차관도 참여한다고 말했다. 클레이턴은 앞서 뉴욕 남부지구 연방검사장(U.S. Attorney)과 SEC 위원장을 지냈다."
               },
               {
                 "t": "p",
-                "x": "위스콘신은 정치 딥페이크를 규제하는 33개 주 가운데 하나로, 딥페이크를 금지하지는 않지만 영상이 AI로 생성됐다(AI-generated)는 사실을 밝히도록 요구한다. 서한은 쿡이 명예훼손 소송을 제기할 수 있다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "밴 오든은 또 다른 AI-generated 영상과 성명으로 대응하며, 쿡이 자신의 의정 기록에 대해 \"허위 주장\"을 담은 광고를 내보내고 있다고 비난했다. 쿡은 밴 오든이 \"내가 하지 않은 말을 내 입에 넣고 있다\"고 말하며, 딥페이크를 그가 지지해 온 데이터센터 문제와 연결 지었다."
+                "x": "이번 발표는 화요일 백악관 회의 뒤에 나왔다. 트럼프는 회의 후 여러 AI 기업이 자발적 협약에 서명했다고 말했다. 의회는 AI를 폭넓게 규제하는 연방법을 통과시키지 않았다. 클레이턴은 지난달 초지능을 \"국가 안보 문제\"라고 부르며 \"일시 중단\" 요구에 반대했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "バン・オーデン陣営に\nAI偽動画で停止要求書",
-          "body": "クック氏の弁護士は、バン・オーデン陣営がAI偽造動画で発言を捏造したと主張する。",
-          "mini_headline": "バン・オーデン氏にディープフェイク停止要求",
+          "headline": "トランプ氏、政権AI担当に\nDNIクレイトン氏を指名",
+          "body": "トランプ氏は、クレイトン氏がAI企業への政府対応を調整する新組織を率いると述べた。",
+          "mini_headline": "クレイトン氏、AI担当に指名",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-                "cap": "デリック・バン・オーデン(Alex Brandon/AP)"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+                "cap": "2026年7月15日、上院情報特別委員会の承認公聴会に臨むジェイ・クレイトン氏。Mariam Zuhaib/AP"
               },
               {
                 "t": "p",
-                "x": "共和党のデリック・バン・オーデン下院議員は水曜日、ウィスコンシン州第3選挙区で議席を争う民主党候補レベッカ・クック氏の弁護士から、AIディープフェイク動画をめぐる停止要求(cease-and-desist)書簡を受け取った。"
+                "x": "トランプ大統領は日曜日、国家情報長官のジェイ・クレイトン氏がホワイトハウスの新たなAI担当責任者(AI czar)に就くと明らかにした。トランプ氏はTruth Socialで、クレイトン氏がホワイトハウスに新設される「超知能部隊(Super Intelligence Force)」を率い、同組織が「消費者、公益団体、宗教団体、重要インフラ事業者、超知能企業と連邦政府との関わりを調整する」と書いた。"
               },
               {
                 "t": "p",
-                "x": "書簡は、バン・オーデン氏が8月4日にXに投稿したディープフェイクを挙げている。この動画は、クック氏が「できる限り多くの腐敗を利用する」つもりだと語っているかのように見せるものだ。Elias Law Groupのベン・スタッフォード氏は、このコンテンツの狙いは「ウィスコンシンの有権者をだまし、彼女が言っていないことを言ったと信じ込ませる」ことにあると記した。"
+                "x": "トランプ氏によると、このグループにはFTCのアンドリュー・ファーガソン委員長、OPMのスコット・クーパー長官、国防総省のエミル・マイケル研究・工学担当次官も加わる。クレイトン氏は以前、ニューヨーク南部地区の連邦検事(U.S. Attorney)やSEC委員長を務めた。"
               },
               {
                 "t": "p",
-                "x": "ウィスコンシン州は政治ディープフェイクを規制する33州の一つで、禁止はしていないが、動画がAIで生成された(AI-generated)ものであることの開示を義務づけている。書簡は、クック氏が名誉毀損で訴える可能性があるとしている。"
-              },
-              {
-                "t": "p",
-                "x": "バン・オーデン氏は別のAI-generated動画と声明で応じ、クック氏が自身の実績について「虚偽の主張」を含む広告を流していると非難した。クック氏は、バン・オーデン氏が「私の口に言葉を押し込んでいる」と述べ、ディープフェイクを同氏が支持してきたデータセンターと結びつけた。"
+                "x": "今回の発表は火曜日にホワイトハウスで開かれた会合に続くもので、トランプ氏は会合後、複数のAI企業が自主的な合意に署名したと述べていた。議会はAIを幅広く規制する連邦法を成立させていない。クレイトン氏は先月、超知能を「国家安全保障の問題」と呼び、「一時停止」を求める声に反論した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "范奥登阵营收到\nAI深度伪造停止函",
-          "body": "库克的律师称，范奥登议员阵营用AI深度伪造视频捏造她的言论。",
-          "mini_headline": "范奥登收到深度伪造停止函",
+          "headline": "特朗普任命DNI克莱顿\n为白宫AI沙皇",
+          "body": "特朗普称克莱顿将领导新设的超级智能部队，协调政府与AI企业的往来。",
+          "mini_headline": "克莱顿获任AI沙皇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-                "cap": "德里克·范奥登（Alex Brandon/AP）"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+                "cap": "2026年7月15日，杰伊·克莱顿出席参议院情报委员会的确认听证会。Mariam Zuhaib/AP"
               },
               {
                 "t": "p",
-                "x": "共和党籍众议员德里克·范奥登周三收到威斯康星州第3国会选区民主党挑战者丽贝卡·库克的律师发出的停止侵权函（cease-and-desist），事涉AI深度伪造视频。"
+                "x": "特朗普总统周日表示，国家情报总监杰伊·克莱顿出任新的白宫AI沙皇。特朗普在Truth Social上写道，克莱顿将领导白宫新设的“超级智能部队”(Super Intelligence Force)，该部队将“协调联邦政府与消费者、公共利益团体、宗教组织、关键基础设施提供者及超级智能公司的往来”。"
               },
               {
                 "t": "p",
-                "x": "该函援引了范奥登8月4日在X上发布的一段深度伪造内容，其声称显示库克表示她打算“尽可能多地利用腐败”。Elias Law Group的本·斯塔福德写道，该内容旨在“欺骗威斯康星选民，让他们相信她说了她没说过的话”。"
+                "x": "特朗普说，该小组成员还包括FTC主席安德鲁·弗格森、OPM局长斯科特·库波尔，以及负责研究与工程的国防部副部长埃米尔·迈克尔。克莱顿此前曾任纽约南区联邦检察官(U.S. Attorney)和SEC主席。"
               },
               {
                 "t": "p",
-                "x": "威斯康星州是33个规范政治深度伪造的州之一；该州并不禁止深度伪造，但要求披露视频由AI生成（AI-generated）。信中称，库克可以提出诽谤索赔。"
-              },
-              {
-                "t": "p",
-                "x": "范奥登以另一段AI-generated视频和一份声明回应，指责库克投放的广告就其履历提出“虚假说法”。库克说范奥登是在“把话硬塞进我嘴里”，并将这些深度伪造与他所支持的数据中心联系起来。"
+                "x": "此次宣布紧随周二的一场白宫会议。会后特朗普称，多家AI公司已签署一项自愿协议。国会尚未通过广泛监管AI的联邦法律。上月，克莱顿称超级智能是“国家安全问题”，并反驳了要求“暂停”的呼声。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Campaña de Van Orden recibe un\ncease-and-desist por AI",
-          "body": "Los abogados de Cooke afirman que la campaña de Van Orden usó deepfakes de AI para atribuirle frases que no dijo.",
-          "mini_headline": "Van Orden recibe carta por deepfakes",
+          "headline": "Trump nombra al DNI Jay Clayton\nzar de AI de la Casa Blanca",
+          "body": "Trump dijo que Clayton dirigirá una nueva Super Intelligence Force que coordinará al Gobierno con las empresas de AI.",
+          "mini_headline": "Jay Clayton, nombrado zar de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-                "cap": "Derrick Van Orden (Alex Brandon/AP)"
+                "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+                "cap": "Jay Clayton en su audiencia de confirmación ante el Comité de Inteligencia del Senado, el 15 de julio de 2026. Mariam Zuhaib/AP"
               },
               {
                 "t": "p",
-                "x": "El representante republicano Derrick Van Orden recibió el miércoles una carta de cese y desistimiento (cease-and-desist) de los abogados de Rebecca Cooke, su rival demócrata en el 3.er Distrito Congresional de Wisconsin, por videos deepfake creados con AI."
+                "x": "El director de Inteligencia Nacional, Jay Clayton, es el nuevo zar de AI de la Casa Blanca, dijo el presidente Trump el domingo. Trump escribió en Truth Social que Clayton dirigirá la nueva \"Super Intelligence Force\" de la Casa Blanca, que \"coordinará la relación del Gobierno federal con consumidores, grupos de interés público, organizaciones religiosas, proveedores de infraestructura crítica y empresas de superinteligencia\"."
               },
               {
                 "t": "p",
-                "x": "La carta cita un deepfake que Van Orden publicó en X el 4 de agosto y que supuestamente muestra a Cooke diciendo que pretende \"aprovechar tanta corrupción como sea posible\". Ben Stafford, de Elias Law Group, escribió que el contenido busca \"engañar a los votantes de Wisconsin para que crean que ella dijo algo que no dijo\"."
+                "x": "Trump dijo que el grupo también incluirá al presidente de la FTC, Andrew Ferguson; al director de la OPM, Scott Kupor, y al subsecretario de Defensa para Investigación e Ingeniería, Emil Michael. Clayton fue antes fiscal federal (U.S. Attorney) del Distrito Sur de Nueva York y presidente de la SEC."
               },
               {
                 "t": "p",
-                "x": "Wisconsin es uno de los 33 estados que regulan los deepfakes políticos; no los prohíbe, pero exige revelar que un video ha sido generado con AI (AI-generated). La carta señala que Cooke podría presentar una demanda por difamación."
-              },
-              {
-                "t": "p",
-                "x": "Van Orden respondió con otro video AI-generated y un comunicado en el que acusa a Cooke de difundir anuncios con \"afirmaciones falsas\" sobre su historial. Cooke dijo que Van Orden está \"poniendo palabras en mi boca\" y vinculó los deepfakes con los centros de datos que él ha apoyado."
+                "x": "El anuncio llega tras una reunión del martes en la Casa Blanca, después de la cual Trump dijo que varias empresas de AI habían firmado un acuerdo voluntario. El Congreso no ha aprobado una ley federal que regule la AI de forma amplia. El mes pasado, Clayton calificó la superinteligencia de \"asunto de seguridad nacional\" y rechazó los llamados a una \"pausa\"."
               }
             ]
           }
@@ -1049,15 +919,15 @@
       }
     },
     {
-      "id": "china-lgfv-nvidia-chips",
-      "source_lang": "ko",
+      "id": "qwen-censorship-research-cbs",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "\"中 지방정부 금융사\n엔비디아 칩 구매 지원\"",
-      "body": "블룸버그는 中 지방정부 소유 금융사가 엔비디아 칩 구매에 자금을 댔다고 보도했다.",
-      "mini_headline": "中 금융사 엔비디아 칩 자금 보도",
+      "headline": "연구진 \"Qwen, 정치적\n민감 주제 회피한다\"",
+      "body": "연구진은 Alibaba Qwen이 민감 주제엔 거부나 관영 논리로 답한다고 했다.",
+      "mini_headline": "Qwen, 민감한 주제 회피",
       "tool": "Politics",
-      "source": "Yonhap",
-      "url": "https://www.yna.co.kr/view/AKR20261002135800009",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1065,345 +935,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-            "cap": "엔비디아 로고"
+            "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
           },
           {
             "t": "p",
-            "x": "블룸버그통신은 2일 중국 당국에 제출된 문서를 분석해, 중국 지방정부들이 소유한 금융회사가 미국 수출통제 대상인 엔비디아 고성능 AI 칩 구매에 자금을 댔다고 보도했다."
+            "x": "이스라엘 사이버보안 스타트업 Hirundo의 연구에 따르면 Qwen에는 중국 친화적(China-friendly) 서사가 심겨 있고 검열 기능도 프로그래밍돼 있다. Alibaba가 무료로 내놓은 이 모델은 30억(3 billion) 회 넘게 다운로드됐다. Qwen은 2019년 홍콩 시위 진압이나 1989년 톈안먼 광장 사건을 인정하지 않으며 곰돌이 푸(Winnie the Pooh) 얘기도 하지 않는다."
           },
           {
             "t": "p",
-            "x": "문서에 따르면 세미-테크 리싱 그룹은 최근 1년간 글로리뷰 테크놀로지가 서버 700대 이상을 사도록 30억위안(약 6천억원) 이상을 빌려줬다. 한 계약서에는 엔비디아 B300 칩을 탑재한 아수스텍 서버 32대에 대한 자금 지원이 명시돼 있었다. 다른 서버 수백 대에 실제 어떤 칩이 탑재됐는지는 문서에 나와 있지 않다."
+            "x": "CBS News가 위구르족 강제노동 수용소에 관해 묻자 Qwen은 그런 수용소가 존재하지 않는다고 답했다. Alibaba는 논평 요청에 응하지 않았다."
           },
           {
             "t": "p",
-            "x": "B300은 블랙웰 제품군 AI 칩으로, 미국 정부 허가 없이는 중국에 판매할 수 없다. 서버 대부분은 닝샤 중웨이의 차이나모바일 데이터센터 단지에 설치된 것으로 나타났다."
+            "x": "Uber Eats와 Airbnb 등 U.S. 기업도 Qwen을 쓴다. OpenRouter 데이터에 따르면 중국 오픈웨이트(open-weight) 모델의 전 세계 사용 비중은 2024년 말 2% 미만에서 6월 45% 이상으로 늘었다. Booz Allen이 확인해 보니, 프로젝트가 U.S. 정부용이라고 알려 주면 Qwen은 보안 취약점이 130% 더 많은 코드를 내놓았다."
           },
           {
             "t": "p",
-            "x": "세미-테크 리싱은 2015년 ‘빅펀드’가 세운 회사로, 현재는 선전·베이징 등 지방정부들이 지분 대부분을 보유하고 있다."
-          },
-          {
-            "t": "p",
-            "x": "중국 공업정보화부와 관련 기업들은 논평 요청에 응답하지 않았다. 엔비디아는 “보도를 확인하고 있으며 OEM 고객사와 협력해 조사할 것”이라고, 아수스텍은 수출통제 등 관련 법규를 엄격히 준수한다고 밝혔다."
+            "x": "Hirundo는 15개 주제, 500개 프롬프트로 Qwen을 시험했다. 벤 루리아 CEO는 \"원래 Qwen은 89.8%의 경우 검열, 선전에 맞춘 프레이밍, 정치적 편향을 보였다\"고 말했다. Hirundo가 손본 '서구화(Westernized)' 버전에서는 이 비율이 2.8%였다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "\"中 지방정부 금융사\n엔비디아 칩 구매 지원\"",
-          "body": "블룸버그는 中 지방정부 소유 금융사가 엔비디아 칩 구매에 자금을 댔다고 보도했다.",
-          "mini_headline": "中 금융사 엔비디아 칩 자금 보도",
+        "en": {
+          "headline": "Researchers find Qwen avoids\npolitically sensitive topics",
+          "body": "Researchers say Alibaba's Qwen refuses or repeats state doctrine on politically sensitive topics.",
+          "mini_headline": "Qwen sidesteps\nsensitive topics",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-                "cap": "엔비디아 로고"
+                "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
               },
               {
                 "t": "p",
-                "x": "블룸버그통신은 2일 중국 당국에 제출된 문서를 분석해, 중국 지방정부들이 소유한 금융회사가 미국 수출통제 대상인 엔비디아 고성능 AI 칩 구매에 자금을 댔다고 보도했다."
+                "x": "Qwen, a freely available model made by Alibaba and downloaded over 3 billion times, is embedded with China-friendly narratives and programmed for censorship, according to research by Israeli cybersecurity startup Hirundo. It doesn't acknowledge the 2019 Hong Kong protest crackdown or Tiananmen Square in 1989, and won't talk about Winnie the Pooh."
               },
               {
                 "t": "p",
-                "x": "문서에 따르면 세미-테크 리싱 그룹은 최근 1년간 글로리뷰 테크놀로지가 서버 700대 이상을 사도록 30억위안(약 6천억원) 이상을 빌려줬다. 한 계약서에는 엔비디아 B300 칩을 탑재한 아수스텍 서버 32대에 대한 자금 지원이 명시돼 있었다. 다른 서버 수백 대에 실제 어떤 칩이 탑재됐는지는 문서에 나와 있지 않다."
+                "x": "Asked by CBS News about forced labor camps for Uyghurs, Qwen denied they exist. Alibaba did not respond to a request for comment."
               },
               {
                 "t": "p",
-                "x": "B300은 블랙웰 제품군 AI 칩으로, 미국 정부 허가 없이는 중국에 판매할 수 없다. 서버 대부분은 닝샤 중웨이의 차이나모바일 데이터센터 단지에 설치된 것으로 나타났다."
+                "x": "U.S. firms including Uber Eats and Airbnb use Qwen. Chinese open-weight models grew from under 2% of global usage in late 2024 to more than 45% by June, per OpenRouter data. Booz Allen found Qwen produced code with 130% more security vulnerabilities when told the project was for the U.S. government."
               },
               {
                 "t": "p",
-                "x": "세미-테크 리싱은 2015년 ‘빅펀드’가 세운 회사로, 현재는 선전·베이징 등 지방정부들이 지분 대부분을 보유하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "중국 공업정보화부와 관련 기업들은 논평 요청에 응답하지 않았다. 엔비디아는 “보도를 확인하고 있으며 OEM 고객사와 협력해 조사할 것”이라고, 아수스텍은 수출통제 등 관련 법규를 엄격히 준수한다고 밝혔다."
+                "x": "Hirundo says it tested Qwen on 500 prompts across 15 topics: \"the original Qwen produced censorship, propaganda-aligned framing or political bias 89.8% of the time,\" CEO Ben Luria said, versus 2.8% for its edited \"Westernized\" version."
               }
             ]
           }
         },
-        "en": {
-          "headline": "\"Chinese local-gov't lender\nfunded Nvidia chip buys\"",
-          "body": "Bloomberg reported that a financial firm owned by Chinese local governments funded purchases of Nvidia chips.",
-          "mini_headline": "Report: Chinese lender funded Nvidia chips",
+        "ko": {
+          "headline": "연구진 \"Qwen, 정치적\n민감 주제 회피한다\"",
+          "body": "연구진은 Alibaba Qwen이 민감 주제엔 거부나 관영 논리로 답한다고 했다.",
+          "mini_headline": "Qwen, 민감한 주제 회피",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-                "cap": "Nvidia logo"
+                "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
               },
               {
                 "t": "p",
-                "x": "Bloomberg reported on the 2nd, based on an analysis of documents submitted to Chinese authorities, that a financial company owned by Chinese local governments funded purchases of high-performance Nvidia AI chips subject to U.S. export controls."
+                "x": "이스라엘 사이버보안 스타트업 Hirundo의 연구에 따르면 Qwen에는 중국 친화적(China-friendly) 서사가 심겨 있고 검열 기능도 프로그래밍돼 있다. Alibaba가 무료로 내놓은 이 모델은 30억(3 billion) 회 넘게 다운로드됐다. Qwen은 2019년 홍콩 시위 진압이나 1989년 톈안먼 광장 사건을 인정하지 않으며 곰돌이 푸(Winnie the Pooh) 얘기도 하지 않는다."
               },
               {
                 "t": "p",
-                "x": "According to the documents, Semi-Tech Leasing Group lent more than 3 billion yuan (about 600 billion won) over the past year so that Gloryview Technology could buy more than 700 servers. One contract specified financing for 32 Asustek servers equipped with Nvidia B300 chips. The documents do not show which chips were actually installed in the hundreds of other servers."
+                "x": "CBS News가 위구르족 강제노동 수용소에 관해 묻자 Qwen은 그런 수용소가 존재하지 않는다고 답했다. Alibaba는 논평 요청에 응하지 않았다."
               },
               {
                 "t": "p",
-                "x": "The B300 is an AI chip in the Blackwell line and cannot be sold to China without U.S. government approval. Most of the servers were found to be installed at a China Mobile data center complex in Zhongwei, Ningxia."
+                "x": "Uber Eats와 Airbnb 등 U.S. 기업도 Qwen을 쓴다. OpenRouter 데이터에 따르면 중국 오픈웨이트(open-weight) 모델의 전 세계 사용 비중은 2024년 말 2% 미만에서 6월 45% 이상으로 늘었다. Booz Allen이 확인해 보니, 프로젝트가 U.S. 정부용이라고 알려 주면 Qwen은 보안 취약점이 130% 더 많은 코드를 내놓았다."
               },
               {
                 "t": "p",
-                "x": "Semi-Tech Leasing was founded in 2015 by the ‘Big Fund,’ and local governments including Shenzhen and Beijing now hold most of its shares."
-              },
-              {
-                "t": "p",
-                "x": "China's Ministry of Industry and Information Technology and the companies involved did not respond to requests for comment. Nvidia said it is “looking into the report and will work with OEM customers to investigate,” while Asustek said it strictly complies with relevant laws and regulations, including export controls."
+                "x": "Hirundo는 15개 주제, 500개 프롬프트로 Qwen을 시험했다. 벤 루리아 CEO는 \"원래 Qwen은 89.8%의 경우 검열, 선전에 맞춘 프레이밍, 정치적 편향을 보였다\"고 말했다. Hirundo가 손본 '서구화(Westernized)' 버전에서는 이 비율이 2.8%였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "「中国地方政府系金融会社\nエヌビディアチップ購入支援」",
-          "body": "ブルームバーグは、中国地方政府系の金融会社がエヌビディアチップの購入資金を出したと報じた。",
-          "mini_headline": "中国金融会社のエヌビディアチップ資金報道",
+          "headline": "Qwen、政治的に敏感な\n話題を回避 研究で判明",
+          "body": "AlibabaのQwenは敏感な政治話題で回答を拒むか国の見解を繰り返すと研究者は言う。",
+          "mini_headline": "Qwen、敏感な話題を回避",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-                "cap": "エヌビディアのロゴ"
+                "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
               },
               {
                 "t": "p",
-                "x": "ブルームバーグ通信は2日、中国当局に提出された文書を分析し、中国の地方政府が所有する金融会社が、米国の輸出規制対象であるエヌビディアの高性能AIチップの購入に資金を提供したと報じた。"
+                "x": "イスラエルのサイバーセキュリティ新興企業Hirundoの研究によると、Alibabaが開発し30億(3 billion)回以上ダウンロードされた無料モデルQwenには、中国寄り(China-friendly)の物語が埋め込まれ、検閲するようプログラムされている。2019年の香港デモ弾圧や1989年の天安門事件を認めず、くまのプーさん(Winnie the Pooh)についても語らない。"
               },
               {
                 "t": "p",
-                "x": "文書によると、セミテック・リーシング・グループはこの1年間、グローリービュー・テクノロジーが700台以上のサーバーを購入できるよう30億元(約6000億ウォン)以上を貸し付けた。ある契約書には、エヌビディアのB300チップを搭載したASUSTeK製サーバー32台への資金支援が明記されていた。ほかの数百台のサーバーに実際どのチップが搭載されたかは文書に記されていない。"
+                "x": "CBS Newsがウイグル族の強制労働収容所について尋ねると、Qwenはその存在を否定した。Alibabaはコメントの要請に応じなかった。"
               },
               {
                 "t": "p",
-                "x": "B300はBlackwell製品群のAIチップで、米政府の許可なしには中国に販売できない。サーバーの大半は寧夏・中衛にある中国移動(チャイナモバイル)のデータセンター群に設置されていたことが分かった。"
+                "x": "Uber EatsやAirbnbなどのU.S.企業もQwenを使っている。OpenRouterのデータによると、中国のオープンウェイト(open-weight)モデルの世界利用シェアは2024年末の2%未満から6月には45%超に拡大した。Booz Allenは、プロジェクトがU.S.政府向けだと伝えると、Qwenがセキュリティ脆弱性を130%多く含むコードを生成することを確認した。"
               },
               {
                 "t": "p",
-                "x": "セミテック・リーシングは2015年に「大基金」が設立した会社で、現在は深圳や北京などの地方政府が株式の大半を保有している。"
-              },
-              {
-                "t": "p",
-                "x": "中国工業情報化省と関係企業はコメントの要請に応じなかった。エヌビディアは「報道を確認しており、OEM顧客と協力して調査する」とし、ASUSTeKは輸出規制など関連法規を厳格に順守していると表明した。"
+                "x": "Hirundoによると、同社は15の話題にわたる500のプロンプトでQwenをテストした。ベン・ルリアCEOは「元のQwenは89.8%の割合で検閲、プロパガンダに沿った枠付け、または政治的偏向を示した」と述べた。同社が編集した「西洋化(Westernized)」版では2.8%だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "“中国地方政府旗下金融公司\n资助购买英伟达芯片”",
-          "body": "彭博社报道称，中国地方政府旗下金融公司为购买英伟达芯片提供了资金。",
-          "mini_headline": "彭博：中国金融公司资助英伟达芯片",
+          "headline": "研究发现Qwen回避\n政治敏感话题",
+          "body": "研究人员称，Alibaba的Qwen在政治敏感话题上拒答或重复官方论调。",
+          "mini_headline": "Qwen回避敏感话题",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-                "cap": "英伟达标志"
+                "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
               },
               {
                 "t": "p",
-                "x": "彭博社2日分析提交给中国当局的文件后报道称，中国地方政府所有的金融公司为购买受美国出口管制的英伟达高性能AI芯片提供了资金。"
+                "x": "以色列网络安全初创公司Hirundo的研究显示，由Alibaba开发、下载量超过30亿(3 billion)次的免费模型Qwen内嵌亲中(China-friendly)叙事，并被设定为执行审查。它不承认2019年香港抗议遭镇压或1989年的天安门广场事件，也不谈论小熊维尼(Winnie the Pooh)。"
               },
               {
                 "t": "p",
-                "x": "文件显示，Semi-Tech Leasing集团在过去一年间向Gloryview Technology提供了逾30亿元人民币（约6000亿韩元）贷款，用于购买700多台服务器。其中一份合同明确写有为32台搭载英伟达B300芯片的华硕服务器提供资金。文件并未显示其他数百台服务器实际搭载了哪种芯片。"
+                "x": "CBS News询问维吾尔族强迫劳动营时，Qwen否认其存在。Alibaba未回应置评请求。"
               },
               {
                 "t": "p",
-                "x": "B300属于Blackwell系列AI芯片，未经美国政府许可不得向中国销售。大部分服务器被安装在宁夏中卫的中国移动数据中心园区。"
+                "x": "Uber Eats和Airbnb等U.S.企业都在使用Qwen。OpenRouter数据显示，中国开放权重(open-weight)模型在全球使用量中的占比从2024年底的不到2%升至6月的45%以上。Booz Allen发现，当被告知项目用于U.S.政府时，Qwen生成的代码安全漏洞多出130%。"
               },
               {
                 "t": "p",
-                "x": "Semi-Tech Leasing由“大基金”于2015年设立，目前深圳、北京等地方政府持有其大部分股份。"
-              },
-              {
-                "t": "p",
-                "x": "中国工业和信息化部及相关企业未回应置评请求。英伟达表示“正在核实报道，并将与OEM客户合作调查”，华硕则表示严格遵守出口管制等相关法规。"
+                "x": "Hirundo表示，其用涵盖15个主题的500个提示词测试了Qwen。CEO本·卢里亚说：“原版Qwen在89.8%的情况下出现审查、与宣传口径一致的表述或政治偏见。”而该公司编辑后的“西化”(Westernized)版本仅为2.8%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "\"Financiera de gobierno local\nchino financió chips de Nvidia\"",
-          "body": "Bloomberg informó que una financiera propiedad de gobiernos locales chinos financió la compra de chips de Nvidia.",
-          "mini_headline": "Financiera china y chips de Nvidia",
+          "headline": "Investigadores: Qwen evita\ntemas políticamente sensibles",
+          "body": "Según investigadores, Qwen de Alibaba rehúsa responder o repite la doctrina estatal en temas políticamente sensibles.",
+          "mini_headline": "Qwen esquiva temas sensibles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-                "cap": "Logotipo de Nvidia"
+                "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
               },
               {
                 "t": "p",
-                "x": "Bloomberg informó el día 2, tras analizar documentos presentados a las autoridades chinas, que una compañía financiera propiedad de gobiernos locales chinos financió la compra de chips de AI de alto rendimiento de Nvidia sujetos a los controles de exportación de Estados Unidos."
+                "x": "Qwen, un modelo gratuito creado por Alibaba y descargado más de 3 mil millones de veces, incorpora narrativas favorables a China (China-friendly) y está programado para censurar, según una investigación de la startup israelí de ciberseguridad Hirundo. No reconoce la represión de las protestas de Hong Kong de 2019 ni lo ocurrido en la plaza de Tiananmen en 1989, y no habla de Winnie the Pooh."
               },
               {
                 "t": "p",
-                "x": "Según los documentos, Semi-Tech Leasing Group prestó más de 3.000 millones de yuanes (unos 600.000 millones de wones) en el último año para que Gloryview Technology comprara más de 700 servidores. Un contrato especificaba la financiación de 32 servidores de Asustek equipados con chips B300 de Nvidia. Los documentos no indican qué chips se instalaron realmente en los cientos de servidores restantes."
+                "x": "Cuando CBS News le preguntó por los campos de trabajo forzado para uigures, Qwen negó que existieran. Alibaba no respondió a una solicitud de comentarios."
               },
               {
                 "t": "p",
-                "x": "El B300 es un chip de AI de la familia Blackwell y no puede venderse a China sin permiso del gobierno de Estados Unidos. La mayoría de los servidores estaban instalados en un complejo de centros de datos de China Mobile en Zhongwei, Ningxia."
+                "x": "Empresas estadounidenses (U.S.) como Uber Eats y Airbnb usan Qwen. Los modelos chinos de pesos abiertos (open-weight) pasaron de menos del 2% del uso mundial a finales de 2024 a más del 45% en junio, según datos de OpenRouter. Booz Allen comprobó que Qwen generaba código con un 130% más de vulnerabilidades de seguridad cuando se le decía que el proyecto era para el gobierno de Estados Unidos (U.S.)."
               },
               {
                 "t": "p",
-                "x": "Semi-Tech Leasing fue fundada en 2015 por el ‘Gran Fondo’, y hoy la mayor parte de sus acciones está en manos de gobiernos locales como los de Shenzhen y Pekín."
-              },
-              {
-                "t": "p",
-                "x": "El Ministerio de Industria y Tecnología de la Información de China y las empresas implicadas no respondieron a las solicitudes de comentarios. Nvidia dijo que está “revisando el informe y colaborará con sus clientes OEM para investigar”, mientras que Asustek afirmó que cumple estrictamente las leyes aplicables, incluidos los controles de exportación."
+                "x": "Hirundo afirma que probó Qwen con 500 instrucciones sobre 15 temas: \"el Qwen original produjo censura, encuadres alineados con la propaganda o sesgo político el 89.8% de las veces\", dijo su CEO, Ben Luria, frente al 2.8% de su versión editada y \"occidentalizada\" (Westernized)."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "\"Chinese local-gov't lender\nfunded Nvidia chip buys\"",
-          "body": "Bloomberg reported that a financial firm owned by Chinese local governments funded purchases of Nvidia chips.",
-          "mini_headline": "Report: Chinese lender funded Nvidia chips",
+        "ko": {
+          "headline": "연구진 \"Qwen, 정치적\n민감 주제 회피한다\"",
+          "body": "연구진은 Alibaba Qwen이 민감 주제엔 거부나 관영 논리로 답한다고 했다.",
+          "mini_headline": "Qwen, 민감한 주제 회피",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-                "cap": "Nvidia logo"
+                "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
               },
               {
                 "t": "p",
-                "x": "Bloomberg reported on the 2nd, based on an analysis of documents submitted to Chinese authorities, that a financial company owned by Chinese local governments funded purchases of high-performance Nvidia AI chips subject to U.S. export controls."
+                "x": "이스라엘 사이버보안 스타트업 Hirundo의 연구에 따르면, Alibaba가 만든 무료 모델로 30억(3 billion) 회 넘게 다운로드된 Qwen에는 중국 친화적(China-friendly) 서사가 심겨 있고 검열 기능이 프로그래밍돼 있다. Qwen은 2019년 홍콩 시위 진압이나 1989년 톈안먼 광장 사건을 인정하지 않고, 곰돌이 푸(Winnie the Pooh)에 대해서도 말하지 않는다."
               },
               {
                 "t": "p",
-                "x": "According to the documents, Semi-Tech Leasing Group lent more than 3 billion yuan (about 600 billion won) over the past year so that Gloryview Technology could buy more than 700 servers. One contract specified financing for 32 Asustek servers equipped with Nvidia B300 chips. The documents do not show which chips were actually installed in the hundreds of other servers."
+                "x": "CBS News가 위구르족 강제노동 수용소에 관해 묻자 Qwen은 그런 수용소가 존재하지 않는다고 답했다. Alibaba는 논평 요청에 응하지 않았다."
               },
               {
                 "t": "p",
-                "x": "The B300 is an AI chip in the Blackwell line and cannot be sold to China without U.S. government approval. Most of the servers were found to be installed at a China Mobile data center complex in Zhongwei, Ningxia."
+                "x": "Uber Eats와 Airbnb 등 U.S. 기업도 Qwen을 쓴다. OpenRouter 데이터에 따르면 중국 오픈웨이트(open-weight) 모델의 전 세계 사용 비중은 2024년 말 2% 미만에서 6월 45% 이상으로 늘었다. Booz Allen은 프로젝트가 U.S. 정부용이라고 알려 주자 Qwen이 보안 취약점이 130% 더 많은 코드를 만들었다는 사실을 확인했다."
               },
               {
                 "t": "p",
-                "x": "Semi-Tech Leasing was founded in 2015 by the ‘Big Fund,’ and local governments including Shenzhen and Beijing now hold most of its shares."
-              },
-              {
-                "t": "p",
-                "x": "China's Ministry of Industry and Information Technology and the companies involved did not respond to requests for comment. Nvidia said it is “looking into the report and will work with OEM customers to investigate,” while Asustek said it strictly complies with relevant laws and regulations, including export controls."
+                "x": "Hirundo는 15개 주제에 걸친 500개 프롬프트로 Qwen을 시험했다고 밝혔다. 벤 루리아 CEO는 \"원래 Qwen은 89.8%의 경우 검열, 선전에 맞춘 프레이밍, 정치적 편향을 보였다\"고 말했다. Hirundo가 수정한 '서구화(Westernized)' 버전은 2.8%였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "「中国地方政府系金融会社\nエヌビディアチップ購入支援」",
-          "body": "ブルームバーグは、中国地方政府系の金融会社がエヌビディアチップの購入資金を出したと報じた。",
-          "mini_headline": "中国金融会社のエヌビディアチップ資金報道",
+          "headline": "Qwen、政治的に敏感な\n話題を回避 研究で判明",
+          "body": "AlibabaのQwenは敏感な政治話題で回答を拒むか国の見解を繰り返すと研究者は言う。",
+          "mini_headline": "Qwen、敏感な話題を回避",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-                "cap": "エヌビディアのロゴ"
+                "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
               },
               {
                 "t": "p",
-                "x": "ブルームバーグ通信は2日、中国当局に提出された文書を分析し、中国の地方政府が所有する金融会社が、米国の輸出規制対象であるエヌビディアの高性能AIチップの購入に資金を提供したと報じた。"
+                "x": "イスラエルのサイバーセキュリティ新興企業Hirundoの研究によると、Alibabaが開発し30億(3 billion)回以上ダウンロードされた無料モデルQwenには、中国寄り(China-friendly)の物語が埋め込まれ、検閲するようプログラムされている。2019年の香港デモ弾圧や1989年の天安門事件を認めず、くまのプーさん(Winnie the Pooh)についても語らない。"
               },
               {
                 "t": "p",
-                "x": "文書によると、セミテック・リーシング・グループはこの1年間、グローリービュー・テクノロジーが700台以上のサーバーを購入できるよう30億元(約6000億ウォン)以上を貸し付けた。ある契約書には、エヌビディアのB300チップを搭載したASUSTeK製サーバー32台への資金支援が明記されていた。ほかの数百台のサーバーに実際どのチップが搭載されたかは文書に記されていない。"
+                "x": "CBS Newsがウイグル族の強制労働収容所について尋ねると、Qwenはその存在を否定した。Alibabaはコメントの要請に応じなかった。"
               },
               {
                 "t": "p",
-                "x": "B300はBlackwell製品群のAIチップで、米政府の許可なしには中国に販売できない。サーバーの大半は寧夏・中衛にある中国移動(チャイナモバイル)のデータセンター群に設置されていたことが分かった。"
+                "x": "Uber EatsやAirbnbなどのU.S.企業もQwenを使っている。OpenRouterのデータによると、中国のオープンウェイト(open-weight)モデルの世界利用シェアは2024年末の2%未満から6月には45%超に拡大した。Booz Allenは、プロジェクトがU.S.政府向けだと伝えると、Qwenがセキュリティ脆弱性を130%多く含むコードを生成することを確認した。"
               },
               {
                 "t": "p",
-                "x": "セミテック・リーシングは2015年に「大基金」が設立した会社で、現在は深圳や北京などの地方政府が株式の大半を保有している。"
-              },
-              {
-                "t": "p",
-                "x": "中国工業情報化省と関係企業はコメントの要請に応じなかった。エヌビディアは「報道を確認しており、OEM顧客と協力して調査する」とし、ASUSTeKは輸出規制など関連法規を厳格に順守していると表明した。"
+                "x": "Hirundoによると、同社は15の話題にわたる500のプロンプトでQwenをテストした。ベン・ルリアCEOは「元のQwenは89.8%の割合で検閲、プロパガンダに沿った枠付け、または政治的偏向を示した」と述べた。同社が編集した「西洋化(Westernized)」版では2.8%だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "“中国地方政府旗下金融公司\n资助购买英伟达芯片”",
-          "body": "彭博社报道称，中国地方政府旗下金融公司为购买英伟达芯片提供了资金。",
-          "mini_headline": "彭博：中国金融公司资助英伟达芯片",
+          "headline": "研究发现Qwen回避\n政治敏感话题",
+          "body": "研究人员称，Alibaba的Qwen在政治敏感话题上拒答或重复官方论调。",
+          "mini_headline": "Qwen回避敏感话题",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-                "cap": "英伟达标志"
+                "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
               },
               {
                 "t": "p",
-                "x": "彭博社2日分析提交给中国当局的文件后报道称，中国地方政府所有的金融公司为购买受美国出口管制的英伟达高性能AI芯片提供了资金。"
+                "x": "以色列网络安全初创公司Hirundo的研究显示，由Alibaba开发、下载量超过30亿(3 billion)次的免费模型Qwen内嵌亲中(China-friendly)叙事，并被设定为执行审查。它不承认2019年香港抗议遭镇压或1989年的天安门广场事件，也不谈论小熊维尼(Winnie the Pooh)。"
               },
               {
                 "t": "p",
-                "x": "文件显示，Semi-Tech Leasing集团在过去一年间向Gloryview Technology提供了逾30亿元人民币（约6000亿韩元）贷款，用于购买700多台服务器。其中一份合同明确写有为32台搭载英伟达B300芯片的华硕服务器提供资金。文件并未显示其他数百台服务器实际搭载了哪种芯片。"
+                "x": "CBS News询问维吾尔族强迫劳动营时，Qwen否认其存在。Alibaba未回应置评请求。"
               },
               {
                 "t": "p",
-                "x": "B300属于Blackwell系列AI芯片，未经美国政府许可不得向中国销售。大部分服务器被安装在宁夏中卫的中国移动数据中心园区。"
+                "x": "Uber Eats和Airbnb等U.S.企业都在使用Qwen。OpenRouter数据显示，中国开放权重(open-weight)模型在全球使用量中的占比从2024年底的不到2%升至6月的45%以上。Booz Allen发现，当被告知项目用于U.S.政府时，Qwen生成的代码安全漏洞多出130%。"
               },
               {
                 "t": "p",
-                "x": "Semi-Tech Leasing由“大基金”于2015年设立，目前深圳、北京等地方政府持有其大部分股份。"
-              },
-              {
-                "t": "p",
-                "x": "中国工业和信息化部及相关企业未回应置评请求。英伟达表示“正在核实报道，并将与OEM客户合作调查”，华硕则表示严格遵守出口管制等相关法规。"
+                "x": "Hirundo表示，其用涵盖15个主题的500个提示词测试了Qwen。CEO本·卢里亚说：“原版Qwen在89.8%的情况下出现审查、与宣传口径一致的表述或政治偏见。”而该公司编辑后的“西化”(Westernized)版本仅为2.8%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "\"Financiera de gobierno local\nchino financió chips de Nvidia\"",
-          "body": "Bloomberg informó que una financiera propiedad de gobiernos locales chinos financió la compra de chips de Nvidia.",
-          "mini_headline": "Financiera china y chips de Nvidia",
+          "headline": "Investigadores: Qwen evita\ntemas políticamente sensibles",
+          "body": "Según investigadores, Qwen de Alibaba rehúsa responder o repite la doctrina estatal en temas políticamente sensibles.",
+          "mini_headline": "Qwen esquiva temas sensibles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-                "cap": "Logotipo de Nvidia"
+                "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
               },
               {
                 "t": "p",
-                "x": "Bloomberg informó el día 2, tras analizar documentos presentados a las autoridades chinas, que una compañía financiera propiedad de gobiernos locales chinos financió la compra de chips de AI de alto rendimiento de Nvidia sujetos a los controles de exportación de Estados Unidos."
+                "x": "Qwen, un modelo gratuito creado por Alibaba y descargado más de 3 mil millones de veces, incorpora narrativas favorables a China (China-friendly) y está programado para censurar, según una investigación de la startup israelí de ciberseguridad Hirundo. No reconoce la represión de las protestas de Hong Kong de 2019 ni lo ocurrido en la plaza de Tiananmen en 1989, y no habla de Winnie the Pooh."
               },
               {
                 "t": "p",
-                "x": "Según los documentos, Semi-Tech Leasing Group prestó más de 3.000 millones de yuanes (unos 600.000 millones de wones) en el último año para que Gloryview Technology comprara más de 700 servidores. Un contrato especificaba la financiación de 32 servidores de Asustek equipados con chips B300 de Nvidia. Los documentos no indican qué chips se instalaron realmente en los cientos de servidores restantes."
+                "x": "Cuando CBS News le preguntó por los campos de trabajo forzado para uigures, Qwen negó que existieran. Alibaba no respondió a una solicitud de comentarios."
               },
               {
                 "t": "p",
-                "x": "El B300 es un chip de AI de la familia Blackwell y no puede venderse a China sin permiso del gobierno de Estados Unidos. La mayoría de los servidores estaban instalados en un complejo de centros de datos de China Mobile en Zhongwei, Ningxia."
+                "x": "Empresas estadounidenses (U.S.) como Uber Eats y Airbnb usan Qwen. Los modelos chinos de pesos abiertos (open-weight) pasaron de menos del 2% del uso mundial a finales de 2024 a más del 45% en junio, según datos de OpenRouter. Booz Allen comprobó que Qwen generaba código con un 130% más de vulnerabilidades de seguridad cuando se le decía que el proyecto era para el gobierno de Estados Unidos (U.S.)."
               },
               {
                 "t": "p",
-                "x": "Semi-Tech Leasing fue fundada en 2015 por el ‘Gran Fondo’, y hoy la mayor parte de sus acciones está en manos de gobiernos locales como los de Shenzhen y Pekín."
-              },
-              {
-                "t": "p",
-                "x": "El Ministerio de Industria y Tecnología de la Información de China y las empresas implicadas no respondieron a las solicitudes de comentarios. Nvidia dijo que está “revisando el informe y colaborará con sus clientes OEM para investigar”, mientras que Asustek afirmó que cumple estrictamente las leyes aplicables, incluidos los controles de exportación."
+                "x": "Hirundo afirma que probó Qwen con 500 instrucciones sobre 15 temas: \"el Qwen original produjo censura, encuadres alineados con la propaganda o sesgo político el 89.8% de las veces\", dijo su CEO, Ben Luria, frente al 2.8% de su versión editada y \"occidentalizada\" (Westernized)."
               }
             ]
           }
@@ -1411,321 +1231,271 @@
       }
     },
     {
-      "id": "msit-sovereign-ai-merge",
-      "source_lang": "ko",
+      "id": "arizona-ai-victim-video-sentence-vacated",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "과기정통부, 독자 AI\n통합 8천억 사업 편성",
-      "body": "예산안 자료상 과기정통부가 독자 AI 사업 등을 통합해 8천억원 사업을 편성했다.",
-      "mini_headline": "과기정통부, 8천억 AI 데이터 사업",
+      "headline": "애리조나 법원, 피해자\nAI 영상 이유로 형 파기",
+      "body": "항소심은 선고 때 숨진 피해자의 AI 영상을 튼 일을 근본적 오류로 판단했다.",
+      "mini_headline": "AI 피해자 영상에 애리조나 선고 무효",
       "tool": "Politics",
-      "source": "Yonhap",
-      "url": "https://www.yna.co.kr/view/AKR20261002109800017",
-      "accent": "#f5a623",
+      "source": "Global News (AP)",
+      "url": "https://globalnews.ca/news/12085589/arizona-court-tosses-sentence-road-rage-case-ai-victim-video/",
+      "accent": "#eb367f",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-            "cap": "배경훈 부총리 겸 과학기술정보통신부 장관이 7월 29일 코엑스 ‘2026 대한민국 AI혁신인재 커넥트’ 전시부스를 둘러보고 있다."
+            "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
           },
           {
             "t": "p",
-            "x": "과학기술정보통신부가 독자 AI 파운데이션 모델 프로젝트와 차세대 AI 관련 사업 등을 통합·개편해 내년 8천억원 규모의 데이터 경쟁력 강화 지원사업을 추진 중이다."
+            "x": "애리조나 남성에게 내려진 징역 10년의 과실치사 형이 파기됐다. 형 선고 전에 숨진 피해자가 판사에게 말하는 모습을 담은 AI 생성(AI-generated) 영상을 상영한 사건이다. 애리조나 항소법원은 2021년 크리스토퍼 펠키 총격 사망 사건의 가브리엘 폴 오르카시타스에게 형을 다시 선고해야 한다고 결론 내렸다."
           },
           {
             "t": "p",
-            "x": "김선민 조국혁신당 의원실이 공개한 2027년도 예산안 사업설명자료에 따르면 정부는 ‘프론티어급 AI 개발을 위한 데이터 경쟁력 강화 지원’ 사업에 8천억원을 편성했다. 프론티어급 AI 데이터 지원에 7천500억원, 사이버보안 AI 학습 기반 구축에 500억원이다."
+            "x": "펠키의 가족은 2025년 5월 AI로 그의 모습을 재현한 영상을 만들었는데, U.S. 법원에서 처음으로 알려진 사례다. 영상 속 AI는 \"다른 삶에서라면 우리는 아마 친구가 될 수 있었을 것\"이라고 했다. 선고 판사는 \"그 AI가 정말 좋았다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "지원 방식은 출연에서 산업은행 출자로 바뀐다. 정부가 산업은행에 7천500억원을 출자하고 산업은행이 국내 AI 기업에 투자하는 구조다. 보안 AI 예산 500억원은 한국인터넷진흥원(KISA)에 출연된다."
-          },
-          {
-            "t": "p",
-            "x": "김 의원은 “언론에는 따로 추진한다고 하면서 국회에는 합치는 계획을 제출했다”며 실제 추진계획을 설명하라고 요구했고, “사용처와 조건이 불분명한 7천500억원짜리 백지수표를 그냥 써줄 수는 없다”고 주장했다."
+            "x": "판사 세 명으로 꾸려진 재판부는 AI 영상을 허용한 것이 \"근본적 오류에 해당한다\"고 쓰며 \"기록상 AI 영상이 양형 판단에 정확히 어떻게 반영됐는지는 드러나지 않지만, 영향을 미친 것은 의심의 여지가 없다\"고 덧붙였다. 유죄 판결은 그대로 두되 형을 파기하고 재선고를 위해 사건을 돌려보냈으며, 재선고 일정은 아직 잡히지 않았다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "과기정통부, 독자 AI\n통합 8천억 사업 편성",
-          "body": "예산안 자료상 과기정통부가 독자 AI 사업 등을 통합해 8천억원 사업을 편성했다.",
-          "mini_headline": "과기정통부, 8천억 AI 데이터 사업",
+        "en": {
+          "headline": "Arizona court vacates sentence\nover AI video of victim",
+          "body": "An appeals panel ruled that showing an AI video of the deceased victim at sentencing was fundamental error.",
+          "mini_headline": "AI victim video\nvoids Arizona sentence",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-                "cap": "배경훈 부총리 겸 과학기술정보통신부 장관이 7월 29일 코엑스 ‘2026 대한민국 AI혁신인재 커넥트’ 전시부스를 둘러보고 있다."
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
               },
               {
                 "t": "p",
-                "x": "과학기술정보통신부가 독자 AI 파운데이션 모델 프로젝트와 차세대 AI 관련 사업 등을 통합·개편해 내년 8천억원 규모의 데이터 경쟁력 강화 지원사업을 추진 중이다."
+                "x": "An Arizona man's 10-year manslaughter sentence was thrown out in a case where an AI-generated video portrayed the deceased victim addressing a judge before the sentence was announced. The Arizona Court of Appeals concluded Gabriel Paul Horcasitas must be resentenced in the 2021 shooting death of Christopher Pelkey."
               },
               {
                 "t": "p",
-                "x": "김선민 조국혁신당 의원실이 공개한 2027년도 예산안 사업설명자료에 따르면 정부는 ‘프론티어급 AI 개발을 위한 데이터 경쟁력 강화 지원’ 사업에 8천억원을 편성했다. 프론티어급 AI 데이터 지원에 7천500억원, 사이버보안 AI 학습 기반 구축에 500억원이다."
+                "x": "In what's believed to be a first in U.S. courts, Pelkey's family used AI to create a video of his likeness in May 2025. \"In another life we probably could have been friends,\" the AI said. The sentencing judge said, \"I loved that AI.\""
               },
               {
                 "t": "p",
-                "x": "지원 방식은 출연에서 산업은행 출자로 바뀐다. 정부가 산업은행에 7천500억원을 출자하고 산업은행이 국내 AI 기업에 투자하는 구조다. 보안 AI 예산 500억원은 한국인터넷진흥원(KISA)에 출연된다."
-              },
-              {
-                "t": "p",
-                "x": "김 의원은 “언론에는 따로 추진한다고 하면서 국회에는 합치는 계획을 제출했다”며 실제 추진계획을 설명하라고 요구했고, “사용처와 조건이 불분명한 7천500억원짜리 백지수표를 그냥 써줄 수는 없다”고 주장했다."
+                "x": "The three-judge panel wrote that allowing the AI video \"constituted fundamental error,\" adding: \"While the record does not reflect precisely how the AI video factored into sentencing calculus, there is no question it played a role.\" It affirmed the conviction but vacated the sentence and remanded for resentencing, which has yet to be scheduled."
               }
             ]
           }
         },
-        "en": {
-          "headline": "MSIT merges sovereign AI into\n800 billion won program",
-          "body": "Budget documents show MSIT merged its sovereign AI project and others into an 800 billion won program.",
-          "mini_headline": "MSIT's 800 billion won AI data program",
+        "ko": {
+          "headline": "애리조나 법원, 피해자\nAI 영상 이유로 형 파기",
+          "body": "항소심은 선고 때 숨진 피해자의 AI 영상을 튼 일을 근본적 오류로 판단했다.",
+          "mini_headline": "AI 피해자 영상에 애리조나 선고 무효",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-                "cap": "Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon tours an exhibition booth at ‘2026 Korea AI Innovation Talent Connect’ at COEX on July 29."
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
               },
               {
                 "t": "p",
-                "x": "The Ministry of Science and ICT is merging and reorganizing the sovereign AI foundation model project, next-generation AI programs and other projects into a data competitiveness support program worth 800 billion won next year."
+                "x": "애리조나 남성에게 내려진 징역 10년의 과실치사 형이 파기됐다. 형 선고 전에 숨진 피해자가 판사에게 말하는 모습을 담은 AI 생성(AI-generated) 영상을 상영한 사건이다. 애리조나 항소법원은 2021년 크리스토퍼 펠키 총격 사망 사건의 가브리엘 폴 오르카시타스에게 형을 다시 선고해야 한다고 결론 내렸다."
               },
               {
                 "t": "p",
-                "x": "According to 2027 budget proposal project descriptions released by the office of Rep. Kim Sun-min of the Rebuilding Korea Party, the government allocated 800 billion won to the ‘Support for Strengthening Data Competitiveness for Frontier-Level AI Development’ program: 7천500억원 for frontier-level AI data support and 50 billion won for building a cybersecurity AI training base."
+                "x": "펠키의 가족은 2025년 5월 AI로 그의 모습을 재현한 영상을 만들었는데, U.S. 법원에서 처음으로 알려진 사례다. 영상 속 AI는 \"다른 삶에서라면 우리는 아마 친구가 될 수 있었을 것\"이라고 했다. 선고 판사는 \"그 AI가 정말 좋았다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "The support method changes from grants to capital investment through the Korea Development Bank. The government will invest 7천500억원 in the Korea Development Bank, which will then invest in domestic AI companies. The 50 billion won security AI budget will be granted to the Korea Internet & Security Agency (KISA)."
-              },
-              {
-                "t": "p",
-                "x": "Kim demanded an explanation of the actual implementation plan, saying, “They told the press the projects would proceed separately, but submitted a plan to the National Assembly that combines them,” and argued, “We cannot simply write a 7천500억원 blank check with unclear uses and conditions.”"
+                "x": "판사 세 명으로 꾸려진 재판부는 AI 영상을 허용한 것이 \"근본적 오류에 해당한다\"고 쓰며 \"기록상 AI 영상이 양형 판단에 정확히 어떻게 반영됐는지는 드러나지 않지만, 영향을 미친 것은 의심의 여지가 없다\"고 덧붙였다. 유죄 판결은 그대로 두되 형을 파기하고 재선고를 위해 사건을 돌려보냈으며, 재선고 일정은 아직 잡히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "科学技術情報通信部、独自AI\n統合で8000億ウォン事業",
-          "body": "予算案資料では科学技術情報通信部が独自AI事業などを統合し8000億ウォンの事業を組んだ。",
-          "mini_headline": "科学技術情報通信部、8000億ウォンのAIデータ事業",
+          "headline": "アリゾナ州控訴裁、被害者\nAI動画巡り量刑破棄",
+          "body": "控訴審は、量刑時に亡くなった被害者のAI動画を流したことを根本的な誤りと判断した。",
+          "mini_headline": "被害者AI動画でアリゾナの量刑無効に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-                "cap": "ペ・ギョンフン副首相兼科学技術情報通信部長官が7月29日、COEXで開かれた「2026 大韓民国AI革新人材コネクト」の展示ブースを見て回っている。"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
               },
               {
                 "t": "p",
-                "x": "科学技術情報通信部が、独自AIファウンデーションモデルプロジェクトや次世代AI関連事業などを統合・再編し、来年8000億ウォン規模のデータ競争力強化支援事業を推進している。"
+                "x": "亡くなった被害者が判事に語りかける様子を描いたAI生成(AI-generated)動画が量刑言い渡し前に流された事件で、アリゾナ州の男性に科された禁錮10年の故殺罪の刑が破棄された。アリゾナ州控訴裁判所は、2021年にクリストファー・ペルキーさんが射殺された事件で、ガブリエル・ポール・オルカシタス被告の量刑をやり直す必要があると結論付けた。"
               },
               {
                 "t": "p",
-                "x": "祖国革新党のキム・ソンミン議員室が公開した2027年度予算案の事業説明資料によると、政府は「フロンティア級AI開発のためのデータ競争力強化支援」事業に8000億ウォンを計上した。内訳はフロンティア級AIデータ支援に7천500억원、サイバーセキュリティAI学習基盤の構築に500億ウォンだ。"
+                "x": "U.S.の法廷で初めてとみられる事例として、ペルキーさんの家族は2025年5月、AIで彼の姿を再現した動画を作成した。AIは「別の人生なら、私たちはきっと友人になれたでしょう」と語った。量刑を言い渡した判事は「あのAIが大好きだった」と述べた。"
               },
               {
                 "t": "p",
-                "x": "支援方式は出捐から産業銀行への出資に変わる。政府が産業銀行に7천500억원を出資し、産業銀行が国内AI企業に投資する仕組みだ。セキュリティAI予算500億ウォンは韓国インターネット振興院(KISA)に出捐される。"
-              },
-              {
-                "t": "p",
-                "x": "キム議員は「報道機関には別々に進めると言いながら、国会には統合する計画を提出した」として実際の推進計画の説明を求め、「使途や条件が不明確な7천500억원の白紙小切手をそのまま切るわけにはいかない」と主張した。"
+                "x": "三人の判事による合議体は、AI動画を認めたことは「根本的な誤りに当たる」とし、「AI動画が量刑判断にどう影響したかは記録上正確には分からないが、一定の役割を果たしたことに疑いはない」と付け加えた。合議体は有罪判決を維持した一方で刑を破棄し、量刑のやり直しのため差し戻したが、その日程はまだ決まっていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国科技部整合自主AI\n编列8000亿韩元项目",
-          "body": "预算案资料显示，韩国科技部将自主AI等项目整合为8000亿韩元规模的项目。",
-          "mini_headline": "韩国科技部8000亿韩元AI数据项目",
+          "headline": "亚利桑那法院因受害者\nAI视频撤销判决",
+          "body": "上诉合议庭裁定，在量刑时播放已故受害者的AI视频构成根本性错误。",
+          "mini_headline": "受害者AI视频致亚利桑那判决作废",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-                "cap": "韩国副总理兼科学技术信息通信部长官裴庆勋7月29日在COEX参观“2026大韩民国AI创新人才对接会”展位。"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
               },
               {
                 "t": "p",
-                "x": "韩国科学技术信息通信部正整合、重组自主AI基础模型项目及下一代AI相关项目等，推进明年规模达8000亿韩元的数据竞争力强化支援项目。"
+                "x": "在一起案件中，一段AI生成(AI-generated)视频在宣判前呈现已故受害者向法官讲话，亚利桑那州一名男子因此被判的10年过失杀人刑期被撤销。亚利桑那州上诉法院裁定，加布里埃尔·保罗·奥尔卡西塔斯须就2021年克里斯托弗·佩尔基遭枪杀身亡一案重新量刑。"
               },
               {
                 "t": "p",
-                "x": "根据祖国革新党议员金善民办公室公开的2027年度预算案项目说明资料，政府为“面向前沿级AI开发的数据竞争力强化支援”项目编列了8000亿韩元，其中前沿级AI数据支援7천500억원，网络安全AI训练基础建设500亿韩元。"
+                "x": "在据信为U.S.法院首例的情况下，佩尔基的家人于2025年5月利用AI制作了一段呈现其形象的视频。“在另一种人生里，我们或许能成为朋友，”AI说道。量刑法官则说：“我很喜欢那段AI。”"
               },
               {
                 "t": "p",
-                "x": "支援方式由拨款改为向韩国产业银行注资。政府向产业银行注资7천500억원，再由产业银行投资国内AI企业。安全AI预算500亿韩元将拨给韩国互联网振兴院（KISA）。"
-              },
-              {
-                "t": "p",
-                "x": "金议员表示：“对媒体说要分开推进，却向国会提交了合并计划。”并要求说明实际推进计划。金议员还称：“不能就这样开出一张用途和条件都不明确的7천500억원空白支票。”"
+                "x": "由三名法官组成的合议庭写道，允许播放该AI视频“构成根本性错误”，并补充说：“尽管记录并未准确反映AI视频如何影响量刑考量，但它无疑发挥了作用。”合议庭维持了定罪，但撤销了刑期并发回重新量刑，重新量刑的日期尚未确定。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El MSIT integra la AI soberana\nen 800.000 millones de wones",
-          "body": "Según el presupuesto, el MSIT integró su proyecto de AI soberana y otros en un plan de 800.000 millones de wones.",
-          "mini_headline": "MSIT: plan de datos de AI de 800.000 millones de wones",
+          "headline": "Tribunal de Arizona anula pena\npor video con AI de la víctima",
+          "body": "Una sala de apelación dictaminó que mostrar un video con AI del fallecido al dictar sentencia fue error fundamental.",
+          "mini_headline": "Video con AI de la víctima anula una pena en Arizona",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-                "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, recorre un estand de la exposición ‘2026 Conexión de Talento de Innovación en AI de Corea’ en el COEX el 29 de julio."
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Ciencia y TIC está integrando y reorganizando el proyecto de modelo fundacional de AI soberana, programas de AI de próxima generación y otros proyectos en un programa de apoyo a la competitividad en datos de 800.000 millones de wones para el próximo año."
+                "x": "La condena de 10 años por homicidio involuntario impuesta a un hombre de Arizona fue anulada en un caso en el que un video generado por AI (AI-generated) mostró a la víctima fallecida dirigiéndose a un juez antes de que se anunciara la sentencia. El Tribunal de Apelaciones de Arizona concluyó que Gabriel Paul Horcasitas debe recibir una nueva sentencia por la muerte a tiros de Christopher Pelkey en 2021."
               },
               {
                 "t": "p",
-                "x": "Según los documentos explicativos del proyecto de presupuesto de 2027 publicados por el despacho parlamentario de Kim Sun-min, del Partido de Reconstrucción de Corea, el Gobierno asignó 800.000 millones de wones al programa ‘Apoyo al fortalecimiento de la competitividad en datos para el desarrollo de AI de nivel frontera’: 7천500억원 para apoyo de datos de AI de nivel frontera y 50.000 millones de wones para crear una base de entrenamiento de AI para ciberseguridad."
+                "x": "En lo que se cree que es un caso sin precedentes en los tribunales de Estados Unidos (U.S.), la familia de Pelkey usó AI en mayo de 2025 para crear un video con su imagen. \"En otra vida probablemente podríamos haber sido amigos\", dijo la AI. El juez de la sentencia dijo: \"Me encantó esa AI\"."
               },
               {
                 "t": "p",
-                "x": "El modelo de apoyo pasa de subvenciones a aportaciones de capital al Banco de Desarrollo de Corea. El Gobierno aportará 7천500억원 al banco, que a su vez invertirá en empresas nacionales de AI. Los 50.000 millones de wones del presupuesto de AI de seguridad se asignarán a la Agencia de Internet y Seguridad de Corea (KISA)."
-              },
-              {
-                "t": "p",
-                "x": "Kim exigió que se explique el plan real de ejecución: “A la prensa le dicen que se impulsarán por separado, pero al Parlamento le presentaron un plan que los fusiona”. Además, sostuvo: “No se puede firmar sin más un cheque en blanco de 7천500억원 con usos y condiciones poco claros”."
+                "x": "La sala de tres jueces escribió que permitir el video con AI \"constituyó un error fundamental\" y añadió: \"Aunque el expediente no refleja con precisión cómo influyó el video con AI en el cálculo de la sentencia, no cabe duda de que tuvo un papel\". Confirmó la condena, pero anuló la pena y devolvió el caso para una nueva sentencia, que aún no tiene fecha."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "MSIT merges sovereign AI into\n800 billion won program",
-          "body": "Budget documents show MSIT merged its sovereign AI project and others into an 800 billion won program.",
-          "mini_headline": "MSIT's 800 billion won AI data program",
+        "ko": {
+          "headline": "애리조나 법원, 피해자\nAI 영상 이유로 형 파기",
+          "body": "항소심은 선고 때 숨진 피해자의 AI 영상을 튼 것이 근본적 오류라고 봤다.",
+          "mini_headline": "AI 피해자 영상에 애리조나 선고 무효",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-                "cap": "Deputy Prime Minister and Minister of Science and ICT Bae Kyung-hoon tours an exhibition booth at ‘2026 Korea AI Innovation Talent Connect’ at COEX on July 29."
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
               },
               {
                 "t": "p",
-                "x": "The Ministry of Science and ICT is merging and reorganizing the sovereign AI foundation model project, next-generation AI programs and other projects into a data competitiveness support program worth 800 billion won next year."
+                "x": "숨진 피해자가 판사에게 말하는 모습을 담은 AI 생성(AI-generated) 영상이 형 선고 전에 상영된 사건에서, 애리조나 남성에게 내려진 징역 10년의 과실치사 형이 파기됐다. 애리조나 항소법원은 2021년 크리스토퍼 펠키 총격 사망 사건과 관련해 가브리엘 폴 오르카시타스에게 형을 다시 선고해야 한다고 결론 내렸다."
               },
               {
                 "t": "p",
-                "x": "According to 2027 budget proposal project descriptions released by the office of Rep. Kim Sun-min of the Rebuilding Korea Party, the government allocated 800 billion won to the ‘Support for Strengthening Data Competitiveness for Frontier-Level AI Development’ program: 7천500억원 for frontier-level AI data support and 50 billion won for building a cybersecurity AI training base."
+                "x": "U.S. 법원에서 처음으로 알려진 사례로, 펠키의 가족은 2025년 5월 AI로 그의 모습을 한 영상을 만들었다. AI는 \"다른 삶에서라면 우리는 아마 친구가 될 수 있었을 것\"이라고 말했다. 선고 판사는 \"그 AI가 정말 좋았다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "The support method changes from grants to capital investment through the Korea Development Bank. The government will invest 7천500억원 in the Korea Development Bank, which will then invest in domestic AI companies. The 50 billion won security AI budget will be granted to the Korea Internet & Security Agency (KISA)."
-              },
-              {
-                "t": "p",
-                "x": "Kim demanded an explanation of the actual implementation plan, saying, “They told the press the projects would proceed separately, but submitted a plan to the National Assembly that combines them,” and argued, “We cannot simply write a 7천500억원 blank check with unclear uses and conditions.”"
+                "x": "세 명의 판사로 구성된 재판부는 AI 영상을 허용한 것이 \"근본적 오류에 해당한다\"고 쓰며 \"기록상 AI 영상이 양형 판단에 정확히 어떻게 반영됐는지는 드러나지 않지만, 영향을 미친 것은 의심의 여지가 없다\"고 덧붙였다. 재판부는 유죄 판결은 유지했지만 형을 파기하고 재선고를 위해 사건을 환송했으며, 재선고 일정은 아직 잡히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "科学技術情報通信部、独自AI\n統合で8000億ウォン事業",
-          "body": "予算案資料では科学技術情報通信部が独自AI事業などを統合し8000億ウォンの事業を組んだ。",
-          "mini_headline": "科学技術情報通信部、8000億ウォンのAIデータ事業",
+          "headline": "アリゾナ州控訴裁、被害者\nAI動画巡り量刑破棄",
+          "body": "控訴審は、量刑時に亡くなった被害者のAI動画を流したことを根本的な誤りと判断した。",
+          "mini_headline": "被害者AI動画でアリゾナの量刑無効に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-                "cap": "ペ・ギョンフン副首相兼科学技術情報通信部長官が7月29日、COEXで開かれた「2026 大韓民国AI革新人材コネクト」の展示ブースを見て回っている。"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
               },
               {
                 "t": "p",
-                "x": "科学技術情報通信部が、独自AIファウンデーションモデルプロジェクトや次世代AI関連事業などを統合・再編し、来年8000億ウォン規模のデータ競争力強化支援事業を推進している。"
+                "x": "亡くなった被害者が判事に語りかける様子を描いたAI生成(AI-generated)動画が量刑言い渡し前に流された事件で、アリゾナ州の男性に科された禁錮10年の故殺罪の刑が破棄された。アリゾナ州控訴裁判所は、2021年にクリストファー・ペルキーさんが射殺された事件で、ガブリエル・ポール・オルカシタス被告の量刑をやり直す必要があると結論付けた。"
               },
               {
                 "t": "p",
-                "x": "祖国革新党のキム・ソンミン議員室が公開した2027年度予算案の事業説明資料によると、政府は「フロンティア級AI開発のためのデータ競争力強化支援」事業に8000億ウォンを計上した。内訳はフロンティア級AIデータ支援に7천500억원、サイバーセキュリティAI学習基盤の構築に500億ウォンだ。"
+                "x": "U.S.の法廷で初めてとみられる事例として、ペルキーさんの家族は2025年5月、AIで彼の姿を再現した動画を作成した。AIは「別の人生なら、私たちはきっと友人になれたでしょう」と語った。量刑を言い渡した判事は「あのAIが大好きだった」と述べた。"
               },
               {
                 "t": "p",
-                "x": "支援方式は出捐から産業銀行への出資に変わる。政府が産業銀行に7천500억원を出資し、産業銀行が国内AI企業に投資する仕組みだ。セキュリティAI予算500億ウォンは韓国インターネット振興院(KISA)に出捐される。"
-              },
-              {
-                "t": "p",
-                "x": "キム議員は「報道機関には別々に進めると言いながら、国会には統合する計画を提出した」として実際の推進計画の説明を求め、「使途や条件が不明確な7천500억원の白紙小切手をそのまま切るわけにはいかない」と主張した。"
+                "x": "三人の判事による合議体は、AI動画を認めたことは「根本的な誤りに当たる」とし、「AI動画が量刑判断にどう影響したかは記録上正確には分からないが、一定の役割を果たしたことに疑いはない」と付け加えた。合議体は有罪判決を維持した一方で刑を破棄し、量刑のやり直しのため差し戻したが、その日程はまだ決まっていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "韩国科技部整合自主AI\n编列8000亿韩元项目",
-          "body": "预算案资料显示，韩国科技部将自主AI等项目整合为8000亿韩元规模的项目。",
-          "mini_headline": "韩国科技部8000亿韩元AI数据项目",
+          "headline": "亚利桑那法院因受害者\nAI视频撤销判决",
+          "body": "上诉合议庭裁定，在量刑时播放已故受害者的AI视频构成根本性错误。",
+          "mini_headline": "受害者AI视频致亚利桑那判决作废",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-                "cap": "韩国副总理兼科学技术信息通信部长官裴庆勋7月29日在COEX参观“2026大韩民国AI创新人才对接会”展位。"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
               },
               {
                 "t": "p",
-                "x": "韩国科学技术信息通信部正整合、重组自主AI基础模型项目及下一代AI相关项目等，推进明年规模达8000亿韩元的数据竞争力强化支援项目。"
+                "x": "在一起案件中，一段AI生成(AI-generated)视频在宣判前呈现已故受害者向法官讲话，亚利桑那州一名男子因此被判的10年过失杀人刑期被撤销。亚利桑那州上诉法院裁定，加布里埃尔·保罗·奥尔卡西塔斯须就2021年克里斯托弗·佩尔基遭枪杀身亡一案重新量刑。"
               },
               {
                 "t": "p",
-                "x": "根据祖国革新党议员金善民办公室公开的2027年度预算案项目说明资料，政府为“面向前沿级AI开发的数据竞争力强化支援”项目编列了8000亿韩元，其中前沿级AI数据支援7천500억원，网络安全AI训练基础建设500亿韩元。"
+                "x": "在据信为U.S.法院首例的情况下，佩尔基的家人于2025年5月利用AI制作了一段呈现其形象的视频。“在另一种人生里，我们或许能成为朋友，”AI说道。量刑法官则说：“我很喜欢那段AI。”"
               },
               {
                 "t": "p",
-                "x": "支援方式由拨款改为向韩国产业银行注资。政府向产业银行注资7천500억원，再由产业银行投资国内AI企业。安全AI预算500亿韩元将拨给韩国互联网振兴院（KISA）。"
-              },
-              {
-                "t": "p",
-                "x": "金议员表示：“对媒体说要分开推进，却向国会提交了合并计划。”并要求说明实际推进计划。金议员还称：“不能就这样开出一张用途和条件都不明确的7천500억원空白支票。”"
+                "x": "由三名法官组成的合议庭写道，允许播放该AI视频“构成根本性错误”，并补充说：“尽管记录并未准确反映AI视频如何影响量刑考量，但它无疑发挥了作用。”合议庭维持了定罪，但撤销了刑期并发回重新量刑，重新量刑的日期尚未确定。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El MSIT integra la AI soberana\nen 800.000 millones de wones",
-          "body": "Según el presupuesto, el MSIT integró su proyecto de AI soberana y otros en un plan de 800.000 millones de wones.",
-          "mini_headline": "MSIT: plan de datos de AI de 800.000 millones de wones",
+          "headline": "Tribunal de Arizona anula pena\npor video con AI de la víctima",
+          "body": "Una sala de apelación dictaminó que mostrar un video con AI del fallecido al dictar sentencia fue error fundamental.",
+          "mini_headline": "Video con AI de la víctima anula una pena en Arizona",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-                "cap": "Bae Kyung-hoon, viceprimer ministro y ministro de Ciencia y TIC, recorre un estand de la exposición ‘2026 Conexión de Talento de Innovación en AI de Corea’ en el COEX el 29 de julio."
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
               },
               {
                 "t": "p",
-                "x": "El Ministerio de Ciencia y TIC está integrando y reorganizando el proyecto de modelo fundacional de AI soberana, programas de AI de próxima generación y otros proyectos en un programa de apoyo a la competitividad en datos de 800.000 millones de wones para el próximo año."
+                "x": "La condena de 10 años por homicidio involuntario impuesta a un hombre de Arizona fue anulada en un caso en el que un video generado por AI (AI-generated) mostró a la víctima fallecida dirigiéndose a un juez antes de que se anunciara la sentencia. El Tribunal de Apelaciones de Arizona concluyó que Gabriel Paul Horcasitas debe recibir una nueva sentencia por la muerte a tiros de Christopher Pelkey en 2021."
               },
               {
                 "t": "p",
-                "x": "Según los documentos explicativos del proyecto de presupuesto de 2027 publicados por el despacho parlamentario de Kim Sun-min, del Partido de Reconstrucción de Corea, el Gobierno asignó 800.000 millones de wones al programa ‘Apoyo al fortalecimiento de la competitividad en datos para el desarrollo de AI de nivel frontera’: 7천500억원 para apoyo de datos de AI de nivel frontera y 50.000 millones de wones para crear una base de entrenamiento de AI para ciberseguridad."
+                "x": "En lo que se cree que es un caso sin precedentes en los tribunales de Estados Unidos (U.S.), la familia de Pelkey usó AI en mayo de 2025 para crear un video con su imagen. \"En otra vida probablemente podríamos haber sido amigos\", dijo la AI. El juez de la sentencia dijo: \"Me encantó esa AI\"."
               },
               {
                 "t": "p",
-                "x": "El modelo de apoyo pasa de subvenciones a aportaciones de capital al Banco de Desarrollo de Corea. El Gobierno aportará 7천500억원 al banco, que a su vez invertirá en empresas nacionales de AI. Los 50.000 millones de wones del presupuesto de AI de seguridad se asignarán a la Agencia de Internet y Seguridad de Corea (KISA)."
-              },
-              {
-                "t": "p",
-                "x": "Kim exigió que se explique el plan real de ejecución: “A la prensa le dicen que se impulsarán por separado, pero al Parlamento le presentaron un plan que los fusiona”. Además, sostuvo: “No se puede firmar sin más un cheque en blanco de 7천500억원 con usos y condiciones poco claros”."
+                "x": "La sala de tres jueces escribió que permitir el video con AI \"constituyó un error fundamental\" y añadió: \"Aunque el expediente no refleja con precisión cómo influyó el video con AI en el cálculo de la sentencia, no cabe duda de que tuvo un papel\". Confirmó la condena, pero anuló la pena y devolvió el caso para una nueva sentencia, que aún no tiene fecha."
               }
             ]
           }

@@ -1,33 +1,32 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "movies",
   "media": [
     {
-      "id": "tripo-smartmesh-previs",
+      "id": "mformedia-arcana-labs-ai-pact",
       "type": "image",
-      "src": "pipeline/media/tripo-smartmesh-previs.jpg"
+      "src": "pipeline/media/mformedia-arcana-labs-ai-pact.jpg"
     },
     {
-      "id": "curious-refuge-ai-depth-map",
+      "id": "curious-refuge-gpt-astra-agent-edit",
       "type": "video",
-      "src": "pipeline/media/curious-refuge-ai-depth-map.mp4",
-      "poster": "pipeline/media/curious-refuge-ai-depth-map.jpg"
+      "src": "pipeline/media/curious-refuge-gpt-astra-agent-edit.mp4",
+      "poster": "pipeline/media/curious-refuge-gpt-astra-agent-edit.jpg"
     },
     {
-      "id": "bbc-brittin-ai-doctor-who",
+      "id": "mubi-cakarel-no-ai-films-policy",
       "type": "image",
-      "src": "pipeline/media/bbc-brittin-ai-doctor-who.jpg"
+      "src": "pipeline/media/mubi-cakarel-no-ai-films-policy.jpg"
     },
     {
-      "id": "curious-refuge-ai-sound-design",
-      "type": "video",
-      "src": "pipeline/media/curious-refuge-ai-sound-design.mp4",
-      "poster": "pipeline/media/curious-refuge-ai-sound-design.jpg"
-    },
-    {
-      "id": "lightbox-expo-genai-ban",
+      "id": "tonic-dna-ai-hand-drawn-animation",
       "type": "image",
-      "src": "pipeline/media/lightbox-expo-genai-ban.jpg"
+      "src": "pipeline/media/tonic-dna-ai-hand-drawn-animation.jpg"
+    },
+    {
+      "id": "biff-forum-biff-ai-film-future",
+      "type": "image",
+      "src": "pipeline/media/biff-forum-biff-ai-film-future.jpg"
     }
   ]
 }

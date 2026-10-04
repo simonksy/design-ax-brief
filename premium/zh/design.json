@@ -6267,6 +6267,134 @@
           "x": "本场演示还涵盖启动动画与文字错位动画、关键帧缓动、营销素材自动缩放、生成式插件与着色器、画布内的自定义AI技能、在Weave中生成图像、将不透明度设为变量，以及设计到代码还原度的提升。"
         }
       ]
+    },
+    "design/lightroom-prompt-to-edit-restore": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe正在Lightroom中推出Prompt to Edit。用户可以选择Adobe提供的示例提示词，或自行编写提示词来修复老照片：让失焦图像变清晰、为黑白照片上色，以及调整严重偏色的照片。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+          "cap": "John Ricard约于2001年拍摄的112，使用Lightroom中Adobe的Prompt to Edit功能修复。"
+        },
+        {
+          "t": "p",
+          "x": "示例提示词包括Fix Dust and Scratches、Color Restoration和Unblur。Lightroom会生成一个应用了效果的新DNG文件，原图保持不变。选择预设后会显示完整提示词，可自行调整；在有限的测试中，Color Restoration的效果比作者期望的更饱和。"
+        },
+        {
+          "t": "p",
+          "x": "由于编辑在Lightroom内完成，蒙版、局部调整和对象移除等标准工具依然可用。图像由Nano Banana 2以2K 或4K 分辨率生成，作为高级功能会消耗生成式积分。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+          "cap": "使用Lightroom的Prompt to Edit功能生成的上色版本。"
+        },
+        {
+          "t": "p",
+          "x": "Prompt to Edit以Early Access功能的形式进入Lightroom桌面版，随着Adobe评估反馈，可能还会继续调整。"
+        }
+      ]
+    },
+    "design/chatgpt-sites-public-beta-hosting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT将为五种套餐的订阅用户托管网站、网页应用或游戏，OpenAI的文档写明了一项限制：“Sites在上线时不支持数据驻留或推理驻留。”该例外涵盖已部署的Sites、Site代码、D1和R2数据与文件存储、生成的产物以及日志。"
+        },
+        {
+          "t": "p",
+          "x": "Sites已在ChatGPT Plus、Pro、Business、Enterprise和Edu套餐中公测，各套餐有不同的使用限额。每个Site可获得10 GB 的D1数据库存储以及R2对象存储；支持HTTP、HTTPS和WebSockets，不支持raw TCP。"
+        },
+        {
+          "t": "p",
+          "x": "删除Site不可恢复。在Enterprise工作区中，公开发布默认关闭，网络访问编辑器最多支持1,024条目标规则。OpenAI禁止处理健康或支付卡数据、支持金融交易等用途。"
+        },
+        {
+          "t": "p",
+          "x": "9月29日的发布说明显示，Plus和Pro的所有者与编辑者可以继续在ChatGPT中编辑已发布的Site。7月9日上线时设定的地区限制（不含EEA、瑞士和UK）尚未宣布任何变化。"
+        }
+      ]
+    },
+    "design/premiere-android-free-firefly": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+          "cap": "Premiere mobile是一款可创作和编辑各类内容的应用，从日常vlog到教程、播客片段和社交内容皆可（Image credit: Adobe）"
+        },
+        {
+          "t": "p",
+          "x": "去年在iPhone上推出的Premiere mobile现已登陆Android，而且免费。无需Creative Cloud订阅，基础编辑甚至不需要Adobe账户，也没有水印、广告或升级提示。"
+        },
+        {
+          "t": "p",
+          "x": "免费版包括多轨时间线、逐帧精确剪辑、应用内配音录制，以及一键清除背景噪音的Enhance Audio，另有创作者制作的模板和无限次4K 导出。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+          "cap": "AI驱动（AI-powered）的Enhance Audio可轻松清理嘈杂录音，让对白更清晰（Image credit: Adobe）"
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill、Image-to-Video和Generate Sound Effects等由Firefly驱动（Firefly-powered）的功能需消耗生成式积分，且积分需另行购买。该应用要求Android 13或更高版本以及至少5GB RAM。关键帧、节拍检测、Adobe Fonts、增强字幕以及在桌面端继续项目等功能标注为“即将推出”。"
+        },
+        {
+          "t": "p",
+          "x": "免费的Premiere先赢得信任，之后再收费，甚至可能永远不收。作者认为，这正是Adobe对待从手机起步的一代创作者应有的方式。"
+        }
+      ]
+    },
+    "design/aholo-lux3d-blender-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+        },
+        {
+          "t": "p",
+          "x": "Leiphone于9月30日发布的一项上手测试显示，杭州公司Manycore Tech打造的3D 生成模型Aholo Lux3D可以作为智能体驱动流水线中的一个组件。Leiphone称之为3D AI harness：通用智能体负责规划和分派任务，专业模型生成资产，再由Blender等软件检查并收尾。"
+        },
+        {
+          "t": "p",
+          "x": "Lux3D可将单张图像或文本提示词转化为带有几何结构和PBR材质的3D 模型，提供Turbo和Standard档位，并可通过API、智能体技能、MCP服务器和Codex插件使用。"
+        },
+        {
+          "t": "p",
+          "x": "Leiphone向在Codex中运行的GPT-6 Astra提供了圆明园十二生肖兽首中铜鼠首的三张照片。智能体先用G1-Turbo生成草稿，再切换到G1，随后在Blender中打开结果、添加底座并渲染了三个角度。各轮处理分别耗时约92.9秒和559.7秒，消耗21个积分，约合1.47元。"
+        },
+        {
+          "t": "p",
+          "x": "Leiphone表示，该模型保留了关键特征和表面的细微凹痕，但过于平坦的背部和部分凹痕显露出AI推断的痕迹。"
+        }
+      ]
+    },
+    "design/bfl-flux3-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
+        },
+        {
+          "t": "p",
+          "x": "Black Forest Labs发布了Flux 3 Image，即其Flux 3模型家族中的图像模型。BFL称，该模型支持多步编辑且不改变图像其他部分，覆盖文生图、图生图、文字渲染和照片级写实。用户可用边界框构图，最多加入10张参考图，并以最高4K输出。目前提供免费演示。"
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
+        },
+        {
+          "t": "p",
+          "x": "API调用在10月8日前优惠50%。企业可获得商用权重授权，在自有基础设施上运行和微调模型。开放权重版本预计在未来几周推出。就在发布前不久，Ideogram推出了专注编辑的4.5版本模型，同样将很快以开放权重形式发布。"
+        }
+      ]
     }
   }
 }

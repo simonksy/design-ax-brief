@@ -1,106 +1,97 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "games",
   "items": [
     {
-      "rank": 1,
-      "title": "\"Quite often it's given me more to do\" – Why AI might be creating more work for games companies, rather than saving time",
-      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-10-02T14:29:12.160641+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "At the GamesIndustry.biz HR Summit, attendees explained how any efficiency gains from generative AI are countered by employee anxiety, potential data leaks, and",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "The Verge",
+      "published_iso": "2026-10-03T16:49:10+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "excerpt": "During a presentation on the future of RE Engine, Capcom laid out its plans to embrace AI in ‘development workflows.’",
       "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "First-hand HR Summit reporting on genAI's hidden overhead (anxiety, data leaks, review work) — a practical reality check for studio teams adopting AI."
+      "rationale": "A major publisher formally puts AI into its RE Engine development roadmap, which is a concrete studio-level workflow decision. Not previously covered."
     },
     {
-      "rank": 2,
-      "title": "Dmitriy Vergasov - LocHub - AI Assisted Localization System",
-      "url": "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341",
-      "source": "Epic Developer Community",
-      "published_iso": "2026-09-29T10:51:54+00:00",
-      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png",
-      "excerpt": "LocHub brings AI translation into the Unreal Editor without taking the control away from you. Your project's strings go to the AI provider you choose, under your own key; built-in checks and a second AI catch the problems; you review the result in one place and pull it back as plain Unreal localizat",
+      "title": "Stardock unveils Clairvoyance AI productivity tools for game devs and more | exclusive",
+      "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs-and-more-exclusive/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-02T13:30:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg",
+      "excerpt": "Brad Wardell's Stardock unveiled Clairvoyance, a set AI tools that is making game developers and other more productive.",
       "category": "games",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "New Unreal Editor tool for BYO-key AI localization with second-model QA and in-editor review — directly usable tomorrow."
+      "rationale": "A new AI tool suite for game developers. This is the pool's strongest actionable release."
     },
     {
-      "rank": 3,
-      "title": "Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: \"throwing AI at it is just disrespectful\"",
-      "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-10-02T19:35:25Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-      "excerpt": "\"AI bros are definitely not beating the",
+      "title": "Vibe-coded mashup mods are flooding X/Twitter, and modders hate it",
+      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+      "source": "Eurogamer",
+      "published_iso": "2026-10-04T16:38:22.846067+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A wave of AI-decompiled mashup mods has taken over X/Twitter this week.",
       "category": "games",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "New event: a vibe-coded Banjo-Tooie recomp and the established port devs' pushback — the single representative of today's AI recomp/decomp cluster."
+      "rationale": "This week's new wave of AI-decompiled mashup mods and the backlash from modders. It is a distinct event from the earlier Banjo-Tooie and Ocarina port stories."
     },
     {
-      "rank": 4,
-      "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
-      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+      "title": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads",
+      "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
       "source": "Rock Paper Shotgun",
-      "published_iso": "2026-10-02T11:45:53.107075+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Bethesda have seemingly slapped an AI-generated Fallout: New York browser game with cease and desist order.",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "A rights holder reportedly sending a C&D to an AI-generated fan game — a concrete IP-enforcement signal for anyone prompting games on existing franchises."
-    },
-    {
-      "rank": 5,
-      "title": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra",
-      "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
-      "source": "Epic Developer Community",
-      "published_iso": "2026-09-28T03:03:13+00:00",
-      "og_image": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png",
-      "excerpt": "A step-by-step guide to animated NPCs, AI-generated dialogue, and conversation history with Codex, Unreal MCP, UnrealAI, and the OpenAI API.  https://dev.epicgames.com/community/learning/tutorials/9mlkB/building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra",
+      "published_iso": "2026-10-02T15:37:33.400541+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Total War: Warhammer 3 mod SFO: Grimhammer 3 has been \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads.",
       "category": "games",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Step-by-step UE5 tutorial wiring Codex + Unreal MCP + OpenAI API into talking NPCs — hands-on and distinct from the earlier MCP getting-started video."
+      "rationale": "A concrete creator action: the SFO: Grimhammer 3 author sabotaged his own mod to counter AI-altered reuploads. It is a new incident."
+    },
+    {
+      "title": "Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects",
+      "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
+      "source": "Kotaku",
+      "published_iso": "2026-10-03T16:20:08+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg",
+      "excerpt": "Vibe coders are getting legal notices",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "Follow-up. The new action is Activision's legal notice against a genAI MW2 project. The Bethesda Fallout C&D was already published on 10-03, so the copy must lead with Activision. Note: og_image is a 2020 Kotaku stock image."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time": {
+      "https://www.theverge.com/games/1004418/capcom-ai-game-development": {
         "verdict": "new",
-        "nearest": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
-        "new_action": ""
+        "nearest": ""
       },
-      "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341": {
+      "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs-and-more-exclusive/": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
+        "nearest": "https://gamesbeat.com/ramen-launches-aura-1-0-to-push-agentic-ai-in-game-development/"
       },
-      "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/": {
+      "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
-        "new_action": ""
+        "nearest": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/"
       },
-      "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims": {
+      "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads": {
         "verdict": "new",
-        "nearest": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
-        "new_action": ""
+        "nearest": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/"
       },
-      "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834": {
-        "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=k0tgmrBuIJc",
-        "new_action": ""
+      "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580": {
+        "verdict": "follow-up",
+        "nearest": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+        "new_action": "Activision issued legal notices against a genAI Modern Warfare 2 fan project. The Bethesda Fallout C&D was already published on 2026-10-03."
       }
     },
-    "note": "Pre-dropped by annotate: Unity Grok plugin (same story as 10-02 Grok Build video and the Claude Code/Codex plugin cards) and Insomniac Wolverine no-AI (09-20). Dropped: Comtoos Hive Axil (likely-repeat of 09-30 inven launch); PC Gamer 'haystack slop' Steam review (same story as 09-27 'Robloxification of Steam' haystack rip-offs); MediEvil recomp and TheGamer non-AI decomp list (same cluster as Banjo-Tooie recomp, kept only Banjo-Tooie as the concrete new event); Witcher 3 DLSS 5 injection (incremental entry in heavily covered DLSS 5 mod run, latest wccftech 09-29/10-01); Polygon Halo browser port (AI angle unclear, related to Meta browser tools card); Kotaku Loish (illustration accusation, not games); Kotaku 'stop AI game mashup mods' (opinion column) and RPS Total War mod corruption (third anti-AI-modding item; held back for category spread and RPS outlet cap). Cross-section: none of the picks overlap PS5 QSSR or other recent cross-section stories. Diversity: 4 outlets (GI.biz, Epic Dev Community x2, GamesRadar+, RPS)."
+    "note": "Dropped as duplicates: (1) GamesBeat 'Com2uS Platform launches Hive Axyl' is the same launch as the published Inven 'Com2uS Platform launches Hive Axyl on the 30th' (2026-09-30, inven ?news=321491). (2) Kotaku 'AI Made StarCraft Bot Swaps In Human Made Bot' looks like extra reporting on the GPT-6 StarCraft bot showdown (36kr, 2026-09-30) and has no new release. Dropped on other grounds: Polygon Halo browser port (AI is incidental; the headline stands without it), GamesRadar Black & White retrospective (evergreen, classic game AI), Kotaku Loish piece (artist reaction/opinion, not games news; would also have been a third Kotaku card). Orchestrator EXTRA flagged an Inven 'Dokkaebi's World' item with a title/body mismatch ('묘룡' in the title vs '묘롱' in the body), but no Inven item exists in candidates_filtered_games.json, so it was not picked and nothing was annotated. If it gets added later, check the spelling before writing the copy."
   }
 }

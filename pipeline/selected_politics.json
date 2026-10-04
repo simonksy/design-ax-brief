@@ -1,96 +1,106 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "politics",
   "items": [
     {
-      "url": "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/",
-      "source": "CalMatters",
+      "title": "U.S. appeals court blocks Minnesota law barring 'nudified' photos in xAI lawsuit",
+      "url": "https://www.mprnews.org/story/2026/10/02/us-appeals-court-blocks-minnesota-law-barring-nudified-photos-in-xai-lawsuit",
+      "source": "MPR News",
+      "published_iso": "2026-10-02T17:08:00-05:00",
+      "og_image": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+      "excerpt": "The 8th Circuit enjoined Minnesota's first-in-the-nation ban on AI 'nudification' tools while xAI's First Amendment challenge proceeds; AG Ellison vows to defend it. (Off-list: no on-list outlet covered the ruling.)",
+      "category": "politics",
+      "axis": "policy",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "axis": "policy",
-      "rationale": "Concrete signed law: Gov. Newsom signed AI workplace rules limiting how AI can be used to fire, override or surveil workers; directly changes compliance for anyone deploying AI in HR in California.",
-      "published_iso": "2026-10-01T00:15:00+00:00",
-      "og_image": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
-      "excerpt": "The governor signed AI regulations to limit how workers can be terminated, overridden, or surveilled by the technology."
+      "rationale": "New federal appellate decision that pauses a first-of-its-kind state AI tool ban, a concrete regulation and litigation event for anyone shipping image-generation features."
     },
     {
-      "url": "https://zdnet.co.kr/view/?no=20261002190003",
-      "source": "ZDNet Korea",
+      "title": "U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science",
+      "url": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
+      "source": "The White House",
+      "published_iso": "2026-10-04T09:14:42+00:00",
+      "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
+      "excerpt": "Primary release: at the STS Forum in Kyoto, the U.S. and 16 countries endorsed a joint declaration led by OSTP's Michael Kratsios to harness 'super intelligence' for autonomous experimentation and new research funding models.",
+      "category": "politics",
+      "axis": "geopolitics",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "axis": "policy",
-      "rationale": "EU law directly bans 'nudify' AI systems that generate non-consensual sexual imagery from December, regulating the AI system itself rather than post-hoc takedowns; a concrete rule for image-gen builders.",
-      "published_iso": "2026-10-03T06:00:03+09:00",
-      "og_image": "https://image.zdnet.co.kr/2026/10/02/0d44360442526066ccf4a85bbe7bac8c.jpg",
-      "excerpt": "사진 한 장으로 실제 인물의 옷을 벗긴 것처럼 이미지를 만드는 이른바 '누디파이(Nudify)' AI가 유럽에서 엄격하게 금지된다. 유럽연합(EU)이 비동의 성적 이미지 생성 AI를 법으로 직접 금지하면서 생성형 AI의 악용을 사후 콘텐츠 삭제가 아닌 AI 시스템 자체의 규제 대상으로 끌어..."
+      "rationale": "Primary document of a new 17-country AI-for-science declaration, covering the geopolitics axis with an official release rather than commentary."
     },
     {
-      "url": "https://www.washingtonsun.com/campaigns/van-orden-hit-with-cease-and-desist-letter-over-ai-deepfake-videos",
-      "source": "Washington Sun",
+      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+      "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+      "source": "NPR",
+      "published_iso": "2026-10-04T14:36:48-04:00",
+      "og_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+      "excerpt": "Trump said DNI Jay Clayton will lead the White House's new 'Super Intelligence Force,' which will coordinate government engagement with AI companies; follows last week's voluntary AI accord. (Off-list: on-list Axios is bot-walled.)",
+      "category": "politics",
+      "axis": "policy",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "axis": "elections",
-      "rationale": "Elections axis with a concrete legal action: a candidate's attorneys sent a cease-and-desist alleging AI deepfake videos falsely attribute statements; claims must be attributed to Rebecca Cooke's campaign, not asserted.",
-      "published_iso": "2026-10-01T19:39:54Z",
-      "og_image": "https://static.washingtonsun.com/dims4/default/77fe04d/2147483647/strip/true/crop/5636x3170+0+293/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7a%2F46%2F9d1e98814cee8b5b7dac86ed7e06%2Fcongress-speaker-23292590534120.jpg",
-      "excerpt": "Attorneys for Democratic candidate Rebecca Cooke say the Wisconsin representative's campaign used the technology to \"falsely attribute\" statements to his opponent."
+      "rationale": "New executive decision creating a White House AI coordination body and naming its lead, which changes who AI companies deal with in government."
     },
     {
-      "url": "https://www.yna.co.kr/view/AKR20261002135800009",
-      "source": "Yonhap",
+      "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
+      "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
+      "source": "CBS News",
+      "published_iso": "2026-10-02T13:08:54-04:00",
+      "og_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg",
+      "excerpt": "Researchers found Alibaba's Qwen refuses or parrots state doctrine on politically sensitive topics, raising questions as Chinese open models spread globally. (Off-list.)",
+      "category": "politics",
+      "axis": "geopolitics",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "axis": "geopolitics",
-      "rationale": "Geopolitics axis: report that Chinese local-government-owned financiers are helping buy export-controlled Nvidia AI chips; a new event distinct from the 10-02 DOJ smuggling arrest (attribute to the report).",
-      "published_iso": "2026-10-02T16:21:52+09:00",
-      "og_image": "https://img8.yna.co.kr/photo/reuters/2026/10/02/PRU20261002224301009_P4.jpg",
-      "excerpt": "(서울=연합뉴스) 권숙희 기자 = 중국 지방정부들이 소유한 금융회사가 미국 정부의 수출통제 대상인 엔비디아의 고성능 인공지능(AI) 칩 구매에 ..."
+      "rationale": "New research finding on state-aligned censorship in a widely used Chinese open model, relevant to US-China AI competition and to builders choosing base models."
     },
     {
-      "url": "https://www.yna.co.kr/view/AKR20261002109800017",
-      "source": "Yonhap",
+      "title": "Arizona court tosses sentence in road rage case over AI victim video",
+      "url": "https://globalnews.ca/news/12085589/arizona-court-tosses-sentence-road-rage-case-ai-victim-video/",
+      "source": "Global News (AP)",
+      "published_iso": "2026-10-02T15:20:18-04:00",
+      "og_image": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "excerpt": "An Arizona appeals panel ruled that letting an AI-generated video of the deceased victim be shown at sentencing 'constituted fundamental error,' vacating the sentence. (Off-list AP wire.)",
+      "category": "politics",
+      "axis": "policy",
       "tool": "Politics",
-      "accent": "#f5a623",
+      "accent": "#eb367f",
       "motif": "cube",
-      "axis": "geopolitics",
-      "rationale": "Sovereign-AI decision: Korea's science ministry merges its independent AI foundation model and frontier AI programs into one restructured ~800B won program; a concrete government funding decision.",
-      "published_iso": "2026-10-02T14:30:18+09:00",
-      "og_image": "https://img4.yna.co.kr/photo/yna/YH/2026/07/29/PYH2026072909420001300_P4.jpg",
-      "excerpt": "(서울=연합뉴스) 한상용 기자 = 과학기술정보통신부가 독자 인공지능(AI) 파운데이션 모델 프로젝트와 차세대 AI 관련 사업 등을 통합·개편해 ..."
+      "rationale": "New appellate ruling that sets a limit on synthetic AI media in court proceedings; AI is the reason the sentence was vacated."
     }
   ],
   "dedup": {
     "checks": {
-      "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/": {
+      "https://www.mprnews.org/story/2026/10/02/us-appeals-court-blocks-minnesota-law-barring-nudified-photos-in-xai-lawsuit": {
+        "verdict": "new",
+        "nearest": "https://zdnet.co.kr/view/?no=20261002190003",
+        "new_action": ""
+      },
+      "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/": {
+        "verdict": "new",
+        "nearest": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+        "new_action": ""
+      },
+      "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump": {
+        "verdict": "follow-up",
+        "nearest": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
+        "new_action": "New executive appointment: Trump names DNI Jay Clayton to lead the newly created White House 'Super Intelligence Force' coordinating government engagement with AI companies."
+      },
+      "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://zdnet.co.kr/view/?no=20261002190003": {
-        "verdict": "new",
-        "nearest": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/",
-        "new_action": ""
-      },
-      "https://www.washingtonsun.com/campaigns/van-orden-hit-with-cease-and-desist-letter-over-ai-deepfake-videos": {
-        "verdict": "new",
-        "nearest": "https://www.techpolicy.press/taiwans-election-needs-a-deepfake-law-that-works",
-        "new_action": ""
-      },
-      "https://www.yna.co.kr/view/AKR20261002135800009": {
-        "verdict": "new",
-        "nearest": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
-        "new_action": ""
-      },
-      "https://www.yna.co.kr/view/AKR20261002109800017": {
+      "https://globalnews.ca/news/12085589/arizona-court-tosses-sentence-road-rage-case-ai-victim-video/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "OpenAI Hugging Face hack running story (Ars 10-01, FTC 10-01, CA subpoena 10-02, WIRED pause 9-29): dropped Tech Policy Press Senate hearing (history_match related; testimony, no decision), Tech Policy Press 'governments shouldn't be stuck with the cleanup' (commentary), Lawfare 'Rogue AI isn't going anywhere' (newsletter commentary). Rest of World 'countries need their own evaluators' (history_match related to FTC probe) is event recap/analysis - dropped. Commentary/analysis not picked: Tech Policy Press Russia AI law (analysis; strongest reserve), CSET x2, Diplomat x2, Rest of World Africa, OECD HAIP blog, CJR Ask Anika. Statements without a decision: Politico UK AI minister, Politico UK financial watchdogs. Business/datacenter noise: Ars Amazon $1B datacenter plan, Register Oracle Wisconsin power approval, Politico EU datacenter complaint (AI tangential). Not picked on score/diversity: Yonhap Trump DNI 'AI czar' plan (reported plan, personnel; Yonhap capped at 2), ZDNet Korea AI senior secretary CAIO meeting (weak), Register Chinese phishing and OpenAI distillation accusation. Daily Campus Connecticut law skipped per weak-source rule. No cross-section clash found with the named 10-02 stories. Outlets: 4 distinct (Yonhap x2); axes: policy x2, elections x1, geopolitics x2. No shared URLs."
+    "note": "Dropped as duplicates: Authors Alliance on Thomson Reuters v. ROSS (same 3rd Circuit ruling as the 2026-10-02 NiemanLab card, commentary with no new decision); Ars Technica on the $300M Nvidia chip smuggling arrest (same event as the 2026-10-02 DOJ release card). Dropped as commentary or analysis of already-published events: Yonhap SI explainer and WIRED 'AI rebrand loyalty test' (both about the 9/30 SI executive order), Tech Policy Press weekly roundup (accord, czar, and Pentagon command, so it overlaps picks and history). CSET cluster c12 (China AI relationships / What America and China fear): both are commentary or podcast with unverified bodies, so neither was picked, which keeps the cluster at zero or one. Not picked on scope or strength: Verge NJ ex-lieutenant governor (personal scandal, AI is incidental), WIRED rural data center tax break (explainer on an existing 2025 law), TPP Pennsylvania data center politics (analysis that leans toward midterm horse-race framing), TPP Russia AI law (analysis), Rest of World Africa at UNSC (close to the 9/28 UN AI clash card), Yonhap financial regulator AI hacking warning (official remarks, no new rule), and The Register Oracle Wisconsin datacenter (utility permitting and business). No strong elections or public-opinion candidate survived, so axes are policy x3 and geopolitics x2. Five distinct outlets."
   }
 }

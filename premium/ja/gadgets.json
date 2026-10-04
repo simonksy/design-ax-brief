@@ -5965,6 +5965,102 @@
           "x": "Road to VRは、Samsungが数年先行するMetaと競うことになり、カメラ付きグラスをめぐってMetaが受けてきたのと同じ世間の厳しい目にもさらされると指摘している。"
         }
       ]
+    },
+    "gadgets/ipad-entry-apple-intelligence-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
+          "cap": "iPad 11 (2025)"
+        },
+        {
+          "t": "p",
+          "x": "流出したコードから、次期iPad 12がApple Intelligenceへの対応を前提に設計された大幅なハードウェア強化を受けることが明らかになった。このエントリーモデルのタブレットにはA19チップと8GB RAMが搭載される見込みだ。"
+        },
+        {
+          "t": "p",
+          "x": "MacRumorsのコントリビューターであるAaron PerrisがAppleのコード内で見つけた第12世代モデルへの言及には、同社独自のC1XセルラーモデムとN1ワイヤレスネットワーキングチップも記載されている。A19は、2025年3月に発売された現行iPad 11のA16チップに代わるものだ。"
+        },
+        {
+          "t": "p",
+          "x": "このチップ変更により、エントリーモデルのiPadに初めてApple Intelligenceが搭載される。A16はこのプラットフォームに対応しておらず、iPad 11のユーザーはAppleの生成AIツールや、それを基盤とするSiriの機能を使えない。メモリは6GBから8GBに増える。これはAppleがApple Intelligenceの実行に求める最低容量である。"
+        },
+        {
+          "t": "p",
+          "x": "C1Xはsub-6GHzの5Gネットワークに対応し電力効率も高い。N1はWi-Fi 7、Bluetooth 6、Threadへの対応を加える。iPad 11は2026年6月の値上げ以降$449からとなっており、後継機も同じ価格で登場すると見られる。今回の発見に発売日は含まれておらず、iPad 12の登場は2027年春以降になる見通しだ。"
+        }
+      ]
+    },
+    "gadgets/atlas-redesigned-hands-bd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-10-01-at-22.36.04.png",
+          "cap": "Atlasの新しい手。"
+        },
+        {
+          "t": "p",
+          "x": "Boston DynamicsのAtlasが新しい手を得る。同社が公開した新しいハンドは、ドリルを操作したり、片手でゴルフボール二つを動かしたりできるという。Boston Dynamicsによると、これにより自由度は13に増える。"
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamicsは、ハイエンドロボットAtlas向けの新しいハンドを発表した。新たな動画では、ドリルの扱いを含む新しい能力が披露されている。このデモは遠隔オペレーターの助けを借りて行われたが、近い将来に可能になることを示すものだ。Boston Dynamicsは現在、Atlasを訓練するのではなく、実際に自ら学習させる方法も研究している。"
+        },
+        {
+          "t": "p",
+          "x": "Atlasはすでに新しい手を完全に自律して使える。Boston Dynamicsは、Atlasが片手でゴルフボール二つを扱う様子でそれを示している。Atlasは小指なしでこれをこなす。同社によれば、指をもう一本増やしても、加わる複雑さに見合う価値はない。消費電力も増える。親指と、ほかに指が三本あるだけだ。"
+        },
+        {
+          "t": "p",
+          "x": "その複雑さは、すでに独立した小型ロボットに近い水準に達している。Boston Dynamicsの機械エンジニアDylan Thrushによれば、改良されたAtlasの手は13の自由度を持つ。以前のAtlasは7自由度にとどまっていた。同社はAtlasを自動車の組み立てに使う計画であり、増えた自由度はおそらく役立つだろう。新しい手は一般的な人間の手よりやや大きく、力も強い。"
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamicsはまた、柔軟性が増したことで、新しい手が機械部品を損傷しかねない動きをうまく避けられるようになることを期待している。"
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        }
+      ]
+    },
+    "gadgets/insta360-spatial-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+          "cap": "画像提供：Insta360"
+        },
+        {
+          "t": "p",
+          "x": "Insta360は、360度動画を実在の空間の精細な3Dモデルに変換し、その中を動き回れる無料機能Spatial Captureを公開した。まだベータ版で、Insta360 X6のほか、X4 AirやX5を含め、5.7K 動画を30fps以上で撮影できる同社の360度カメラで利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "Spatial Captureは3D Gaussian Splatting（3DGS）を基盤とする。ソフトウェアが各瞬間のカメラ位置を割り出し、数百万個の小さな半透明の粒でシーンを再構築する。その結果、カメラが実際には置かれていなかった角度からも眺められる、写実的な3Dシーンが得られる。"
+        },
+        {
+          "t": "video",
+          "yt": "HOBZMKxbHKw"
+        },
+        {
+          "t": "p",
+          "x": "クラウドプラットフォームSplaticaは月額$49.95からだが、Spatial Captureでは月に四回まで無料で生成できる。Insta360によれば、Splaticaはプロ向けにより高品質な結果を出す一方、Spatial Captureは一般ユーザー向けで、二分の動画を約八時間ではなく一〜二時間でレンダリングする。"
+        },
+        {
+          "t": "p",
+          "x": "撮影するのは二分以内のクリップで、処理はクラウドで行われる。Insta360は100平方メートルまでの明るい屋内空間を推奨しており、風景よりも部屋向けに設計されているようだ。シーンはブラウザのリンクで共有できるが、ファイルとしての書き出しにはまだ対応していない。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+          "cap": "画像提供：Insta360"
+        },
+        {
+          "t": "p",
+          "x": "レビュアー自身のX6によるテストクリップは二度アップロードに失敗した。ベータ版にありがちな初期不良だが、高価なカメラに価値を加える歓迎すべき無料機能だ。"
+        }
+      ]
     }
   }
 }

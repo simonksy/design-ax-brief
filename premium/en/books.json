@@ -5391,6 +5391,125 @@
           "x": "Garmus's author bio describes her as a coffee-dependent American novelist. Her debut novel, Lessons in Chemistry, was a number one global bestseller and was named by New York Times readers as one of the top 100 books of the 21st Century."
         }
       ]
+    },
+    "books/ewc-destructive-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+          "cap": "3d rendered illustration of an isolated t-rex © 3dMediSphere"
+        },
+        {
+          "t": "p",
+          "x": "The EWC condemns the AI tech practice of « destructively scanning » millions of old or rare European books and calls upon decision-makers to speak up on behalf of authors, publishers, and readers."
+        },
+        {
+          "t": "p",
+          "x": "Non-European tech giants have purchased at least up to two million books through second hand and antiquarian booksellers. At AI scan factories in the U.S., the spine is cut so pages can be fed through high-speed scanners before the copy is discarded, shredded, and recycled into toilet paper. The files are used to develop large language models."
+        },
+        {
+          "t": "p",
+          "x": "“Rare books are destroyed. Many such books will never be found again and will exist solely as the digital property of an AI tech company,” says EWC Vice President Maïa Bensimon. EWC Political Commissioner Nina George points to Anthropic’s secret ‘Project Panama’, which aims to ‘scan all the books in the world’."
+        },
+        {
+          "t": "p",
+          "x": "On 16 September 2026, Executive Vice-President Henna Virkkunen answered that digitising copyright-protected books, even lawfully acquired in analogue form, requires the rightsholder’s prior authorisation, as text and data mining exceptions only cover digital works."
+        },
+        {
+          "t": "p",
+          "x": "The EWC calls upon the European Commission, the European Parliament, and every European State to take a clear stance against this practice."
+        }
+      ]
+    },
+    "books/bye-bye-ai-library-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+          "cap": "A person using a smartphone."
+        },
+        {
+          "t": "p",
+          "x": "A public library in upstate New York has gone viral for offering an unusual kind of tech assistance: helping people switch off AI features on their phones and computers. The North Chatham Free Library, which serves roughly 800 cardholders, posted a \"Bye Bye AI\" flyer that drew responses far beyond the hamlet."
+        },
+        {
+          "t": "p",
+          "x": "Shea Wert, the library's only full-time librarian, said the drop-in program came from repeated patron complaints: \"Gmail auto replies and auto completes really frustrate people.\""
+        },
+        {
+          "t": "p",
+          "x": "In April the library also held an \"AI for seniors\" session, and Wert says she is not broadly opposed to AI. Older adults make up most of those seeking help."
+        },
+        {
+          "t": "p",
+          "x": "Librarian Hannah Cyrus, whose free classes on disabling AI tools inspired the event, wrote that \"libraries have a role to play in facilitating patrons' rejection of technology, just as much as in their adoption of it.\" She has \"heard from hundreds of librarians from all over the world asking for my presentation slides.\""
+        }
+      ]
+    },
+    "books/shelf-reading-bots-libraries-ht": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+          "cap": "The shelf-reading bot at Singapore’s National Library Board-operated libraries. (NLB Singapore)"
+        },
+        {
+          "t": "p",
+          "x": "Around the world, shelf-reading bots and AI cataloguing are changing the way we borrow from libraries."
+        },
+        {
+          "t": "p",
+          "x": "In Shanghai’s Changning District Library, a digital human avatar, Xin Ye, recommends books from borrowing records, books seats and has a robot deliver titles. The Beijing Library’s automated retrieval system delivers a chosen title from over 8 million books in under 15 minutes. Taiwan’s NLPI added a generative-AI “librarian”, Xiao-Shu, in 2023."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+          "cap": "The Beijing Library’s interiors have sensor-enabled columns that regulate climate, lighting and acoustics. (Snohetta)"
+        },
+        {
+          "t": "p",
+          "x": "At Singapore’s National Library Board libraries, a robot scans RFID-tagged books every night and reports misplaced titles by morning, saving up to 3,500 staff hours per year."
+        },
+        {
+          "t": "p",
+          "x": "But recommendation algorithms give us more of what we already like, while libraries also introduce books we never knew we wanted. Privacy is a major reason libraries across Finland are still evaluating AI; “The more the system knows… the better it can predict what you want next,” says analyst Kashyap Kompella."
+        }
+      ]
+    },
+    "books/savo-directive-detectives-ai-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+          "cap": "Giulio Savo talks about \"Directive Detectives: The Freedom Trail Directive\" at Claremont Middle School. (Molly Hughes / Valley News)"
+        },
+        {
+          "t": "p",
+          "x": "\"Directive Detectives: The Freedom Trail Directive\" opens with a girl climbing past \"the stone lions guarding the entrance\" of the Boston Public Library. No lions stand at that entrance, but the illustrations show them anyway. Author Giulio Savo of Claremont said the illustrations were generated by AI: \"These are my stories, these are my words, but I'm not an illustrator.\""
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+          "cap": "An AI-generated illustration labeled \"Boston Public Library – 1895\" from the book."
+        },
+        {
+          "t": "p",
+          "x": "Claremont Middle School gave a copy to every family at its first author night, paid for with federal family engagement funds. Savo said he couldn't afford an illustrator and had lost his own digital marketing job to AI. Some errors also appear in the text, and Amazon's required AI disclosure is not shown on the listing or in the book."
+        },
+        {
+          "t": "p",
+          "x": "Dartmouth art historian Mary Coffey said a book walking children past real landmarks should be reasonably accurate, calling the images \"such an impoverished visual language\" and urging AI users to be forthcoming."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+          "cap": "A poster for \"Sunset Scares,\" illustrated by Jared Gagnon. (Courtesy Dustin Warburton)"
+        },
+        {
+          "t": "p",
+          "x": "Vermont writer Dustin Warburton, who works with illustrator Jared Gagnon, said competing with \"a light switch that turns on and produces a book\" is frustrating, and that the school never called him. Both want AI use disclosed where readers can see it."
+        }
+      ]
     }
   }
 }

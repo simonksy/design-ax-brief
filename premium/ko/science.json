@@ -10460,6 +10460,142 @@
           "x": "Aydogan Ozcan 교수 연구팀은 이 시스템을 처리량 높은 1차 방어선으로 본다. 의심스러운 콘텐츠는 더 정교한 디지털 모델로 넘겨 최종 판정을 맡긴다."
         }
       ]
+    },
+    "science/murdoch-enzyme-plastic-ml-screen": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "전 세계 데이터베이스에는 플라스틱 같은 오염물질을 분해할 잠재력을 지닌 효소 정보가 수없이 쌓여 있다. Murdoch University의 Bioplastics Innovation Hub 과학자들은 머신러닝 기술과 생화학을 엮어, 이 가운데 플라스틱과 그 밖의 유해 오염물질을 분해할 만한 효소를 가려낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Ph.D. 과정생 Joseph Boctor는 Nature Reviews Earth & Environment에 실린 최근 리뷰에서, 오염물질마다 알맞은 생물학적 해법을 찾을 열쇠가 이미 있는 데이터 속에 숨어 있을 공산이 크다고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "“효소를 지나치게 설계하는 것은 나쁜 출발점이라고 강하게 주장한다. 이런 오염물질에 대한 잠재적 해법을 이미 숱하게 만들어 낸 수백만 년의 진화를 외면하는 일이기 때문이다”라고 Boctor는 말했다."
+        },
+        {
+          "t": "p",
+          "x": "이 머신러닝 파이프라인은 이미 특성이 밝혀진 효소에서 얻은 지식으로, 효소 구조가 표적 오염물질과 어떻게 맞물려 그것을 분해할지 예측한다. 연구팀은 이제 찾아낸 효소를 생물학적 정화에 쓰려고 시험하고 검증하며 규모를 키우는 중이다."
+        }
+      ]
+    },
+    "science/uf-ai-health-questions-anxiety": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "University of Florida 연구자 Yusen Zhai가 이끈 새 연구를 보면, 생성형 인공지능에 건강 질문을 던지는 청년은 그렇지 않은 청년보다 임상적으로 유의한 불안·우울 선별검사에서 양성이 나올 가능성이 높았다. 연구는 Journal of Counseling & Development에 실렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "연구진은 청년 100,000명 가까이의 데이터를 분석했다. ChatGPT나 Claude 같은 생성형 AI 도구에 건강을 물은 사람은 불안과 우울 선별검사 양성 확률이 각각 52%, 46% 더 높았다. 다만 이는 연관성일 뿐, AI 사용이 불안이나 우울을 부른다는 증거는 아니다."
+        },
+        {
+          "t": "p",
+          "x": "이런 흐름을 떠올려 볼 수 있다. 안심하려고 AI에 물었는데, 답을 받고 나니 질문이 더 늘어난다. “이런 반복 순환은 반추, 건강 불안, 그 밖의 고통을 강화할 수 있다”고 Zhai는 말했다."
+        },
+        {
+          "t": "p",
+          "x": "데이터를 2023년부터 2024년까지 모았으니 이번 결과는 초기 신호에 가깝다. “문제는 생성형 AI 자체가 아니다”라고 Zhai는 말했다. “‘어떻게’의 문제, 즉 사람들이 그것을 어떻게 쓰느냐의 문제다.”"
+        }
+      ]
+    },
+    "science/instructmesh-mit-3d-repair": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
+          "cap": "InstructMesh AI 도구로 머그컵 같은 물체의 3D 디자인을 만든 뒤, 3D 프린팅 전에 다듬고 싶은 부분을 강조 표시할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "AI 모델은 물체의 겉모습은 알아도 작동 원리는 몰라서 쓰기 힘든 디자인을 내놓곤 한다. 만든 모델은 고치기도 어려운데, 3D 디자인이 처음인 사용자라면 더하다."
+        },
+        {
+          "t": "p",
+          "x": "MIT CSAIL, Google, Northeastern University 연구진이 개발한 InstructMesh는 프롬프트로 3D 디자인을 만들고, 3D 프린팅 전에 손보고 싶은 부분을 사용자가 강조 표시하게 한다. 텍스트·이미지 프롬프트로 3D 모델을 만드는 Microsoft의 TRELLIS 시스템에 LLM GPT-4를 붙였다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 용이 감싼 머그컵, 조개껍데기 모양 호루라기, 나비 날개 안경, 데님처럼 보이는 무릎 보호대, 모터를 숨긴 새우 모양 ‘브리슬 봇(bristle bot)’을 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "TRELLIS로 인기 Thingiverse 모델을 재현했더니 80퍼센트 가까이에서 구조적 결함이 나왔다. 전문가 검토 결과, 초보자들은 InstructMesh에서 약 90퍼센트의 경우 이런 문제를 찾아내 고쳤다."
+        },
+        {
+          "t": "p",
+          "x": "“보는 대로 얻었고, 말하자면 물건들이 광고한 대로 작동했다”고 제1저자 Faraz Faruqi는 말했다. 지금 Google에 있는 Faruqi는 InstructMesh를 AR 플랫폼으로 옮겨 갈 수도 있다. 이 연구는 11월 ACM Symposium on User Interface Software and Technology에서 발표된다."
+        }
+      ]
+    },
+    "science/microsoft-quine-biology-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Research가 생물학의 여러 경계를 넘나들도록 설계한 연구 프로젝트 Quine을 내놓았다. Quine은 생물학 세계 모델에, 과학 도구·문헌·습식 실험실(wet lab)·그것을 쓰는 연구자를 잇는 하네스를 결합했다."
+        },
+        {
+          "t": "video",
+          "yt": "ZMJHGeR6GPU"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft가 말하는 세계 모델은 생물학적 시스템의 상태를 표현하고, 개입하면 그 상태가 어떻게 바뀔지 예측하고, 그 결과를 추론한다. 서열, 구조, 기능, 세포 상태, 이미징 데이터를 아우르는 공유 표현을 학습하지만, 실험을 대신하지는 않는다."
+        },
+        {
+          "t": "p",
+          "x": "Broad Institute와 함께한 췌장암 연구에서 Quine은 수천 개의 화합물이 종양 세포 상태를 얼마나 바꿀지 예측해 우선순위를 매겼다. 순위가 가장 높은 화합물들이 wet-lab 실험에서 의도한 전환을 가장 크게 일으켰다. 이 과정은 단 한 주말 만에 끝났다."
+        },
+        {
+          "t": "p",
+          "x": "초기에는 Quine Fellows 프로그램과 일부 연구 협력에만 문을 열고, 안전장치를 갖춘 채 단계적으로 넓혀 간다."
+        }
+      ]
+    },
+    "science/mindreading-brain-scan": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "와이즈만 과학연구소(Weizmann Institute of Science)의 미할 이라니(Michal Irani) 연구팀이 개발한 새 AI 도구는 뇌 스캔만 보고 사람이 무엇을 보는지 짐작해 그 이미지를 놀라울 만큼 정밀하게 재현한다. 거꾸로 사람이 보는 장면에서 뇌 활동을 예측하기도 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
+          "cap": "왼쪽: 참가자가 본 이미지. 오른쪽: 모델이 재구성한 이미지. 사진 제공: 연구진"
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 각자 약 9,000장의 이미지를 본 여덟 명의 고해상도 fMRI 데이터로 두 갈래 구조의 “뇌 디코더”를 학습시켰다. 한 갈래는 이미지의 구조를, 다른 갈래는 내용을 예측한다. 확산 모델은 이 예측을 받아 참가자가 본 장면을 재구성한다."
+        },
+        {
+          "t": "p",
+          "x": "데이터를 늘리려고 이미지에서 뇌 활동을 예측하는 인코더도 학습시켰고, 두 모델을 맞물려 서로의 성능을 끌어올렸다. 학습 데이터의 약 70%는 스캐너 안에서 누구에게도 보여준 적 없는 이미지에서 나왔다. 완성된 도구는 처음 보는 사람이라도 fMRI 데이터 약 한 시간 분량이면 작동한다. 기존 도구는 약 40시간이 필요했다."
+        },
+        {
+          "t": "p",
+          "x": "케이크를 샌드위치 세 개로 바꿔 놓는 실수도 아직 하지만, 이라니는 이 도구가 다른 도구를 “상당한 차이로” 앞섰다고 말한다. 앞으로는 영상, 소리, 상상, 꿈까지 연구를 넓히고 감금 증후군 환자의 의사소통도 돕고 싶다고 그는 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "다른 과학자들은 비슷한 방법이 EEG로 넘어가면 특히 정신적 프라이버시가 침해될 수 있다고 경고한다. UCSB 신경과학자 토미 스프라그(Tommy Sprague)는 “윤리적 고려에 대해 조금 더 진지해져야 한다”고 말했다."
+        }
+      ]
     }
   }
 }

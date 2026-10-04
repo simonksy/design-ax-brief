@@ -6121,6 +6121,144 @@
           "x": "A step-by-step guide to animated NPCs, AI-generated dialogue, and conversation history with Codex, Unreal MCP, UnrealAI, and the OpenAI API."
         }
       ]
+    },
+    "games/stardock-clairvoyance-ai-devtools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brad Wardell started Stardock in 1993. Now his team has created Clairvoyance, an AI productivity tool for game developers and more. Wardell said it could become the company’s top-selling product: “It’s exploding.”"
+        },
+        {
+          "t": "p",
+          "x": "Clairvoyance started as an internal tool to automate repetitive software and game-development operations, and Stardock used and refined it daily for two years before deciding to sell it externally."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It runs directly on your own computer, so your AI staff can open your real projects, build them, run them, and hand back finished work. It’s free on Windows, macOS, and Linux, and works alongside Claude Code, Codex, Cursor, Grok, and Copilot."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Wardell said Clairvoyance targets workflow friction rather than replacing creative work: importing human-created art into custom engines, converting Word files into CSV data, analyzing crash logs, and creating Jira tasks. The base app is free; the pro version costs $20 a month."
+        },
+        {
+          "t": "p",
+          "x": "“I think that generative AI currently ends up creating homogenous-looking slop,” Wardell said of generative art."
+        }
+      ]
+    },
+    "games/vibe-coded-mashup-mods-backlash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Long-time mod makers are not happy about the latest trend to take over their corner of the internet - the \"bullshit 'trend'\" of AI-generated, or \"vibe-coded\", mods."
+        },
+        {
+          "t": "p",
+          "x": "\"I mod games and I'm not shy about the fact that I use AI to do it. I hate this bullshit 'trend'. Pure slop, there's nothing creative about this at all,\" modder kran27_ posted."
+        },
+        {
+          "t": "p",
+          "x": "The surge of mods brings unrelated games together, from World of Warcraft into Call of Duty: World at War, to Escape From Tarkov into Skyrim. The trend has snowballed over a single week, driven by Claude Opus 5.5's cheaper tokens and improved code generation making it easier than ever to point the model at a game, decompile it, and add in something else entirely."
+        },
+        {
+          "t": "p",
+          "x": "None of these mashups have popped up on modding platforms like Nexus Mods yet, which IGN suggests is likely down to rights issues. Almost all of them rely on decompiled code and assets the people building them have no rights to."
+        }
+      ]
+    },
+    "games/grimhammer3-mod-corrupted-ai-protest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Cheesed off with unauthorised reuploads of their Total War: Warhammer 3 overhaul which make use of AI, the main modder behind SFO: Grimhammer 3 has opted to purposefully corrupt the mod. The aim is to ensure that the modders maintain more control over where and when the latest version of Grimhammer 3 can be grabbed, with creator Venris threatening to make the mod private if the situation doesn't improve."
+        },
+        {
+          "t": "p",
+          "x": "\"Due to the growing number of unauthorized reuploads of SFO: Grimhammer III, and more importantly, the use of AI in the process, I have deliberately corrupted the mod to prevent it from functioning with such unauthorized uploads,\" they wrote in a Patreon post spotted by IGN."
+        },
+        {
+          "t": "p",
+          "x": "\"SFO: Grimhammer is the result of nearly ten years of passion and love for this community and the fantasy world. As such, I do not permit anyone to take my work without permission. Especially not for AI-related purposes. Support modders, not AI.\" Venris closed by making clear they won't be paywalling the mod."
+        },
+        {
+          "t": "p",
+          "x": "While the SFO team's mods are primarily published via the Steam Workshop, modding sites like Nexus Mods have recently moved to tighten up their labelling of mods made using generative AI."
+        }
+      ]
+    },
+    "games/activision-mw2-genai-legal-notice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "There’s currently a free-for-all when it comes to vibe coding video game slop, including knock-offs and decompilations of existing games. Activision and Bethesda, both owned by Microsoft, recently took action against two different projects."
+        },
+        {
+          "t": "p",
+          "x": "Fallout: New York, a browser recreation coded with Claude Opus 5.5, drew over 3.5 million views before ChrisFirst abandoned it on October 1 after receiving an alleged cease and desist from Bethesda."
+        },
+        {
+          "t": "p",
+          "x": "Maurice Heumann shared on X on September 30 that he was using genAI to decompile the source code for the original Modern Warfare 2 on PC. “With currently 17 agents working in parallel, we’re making progress at an incredible pace,” he wrote."
+        },
+        {
+          "t": "p",
+          "x": "Activision responded by nuking the footage he’d shared, replaced with a warning: “This media has been disabled in response to a report by the copyright owner.” A link to the site allegedly hosting the code can no longer be reached either."
+        }
+      ]
+    },
+    "games/gibiz-hr-summit-genai-workload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Image credit: GamesIndustry.biz"
+        },
+        {
+          "t": "p",
+          "x": "At the GamesIndustry.biz HR Summit on October 1, generative AI came up again and again. Some pointed to AI speeding up coding or automating drudge work, but the general view was that it falls far short of a miracle cure and is causing workplace problems: worries about sensitive data, rising employee anxiety, and more work for HR."
+        },
+        {
+          "t": "p",
+          "x": "Most attendees' companies now have an AI policy, but the speed of change forces constant rewrites. Leaders said they have little control over staff pasting NDA material into personal ChatGPT accounts. \"I haven't seen AI create anything fun,\" one said; \"You can make crap quicker,\" quipped another."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "The GamesIndustry.biz HR Summit took place at The Royal Institution in London | Image credit: GamesIndustry.biz"
+        },
+        {
+          "t": "p",
+          "x": "Without enforcement, chaos follows: Gemini-generated shader code that broke studio rules led to a reverted build, and outsourced AI art with extra fingers sparked a community backlash. Workflow pilots often collapse because processes rely on tacit knowledge."
+        },
+        {
+          "t": "p",
+          "x": "HR teams also face lengthy AI-written grievance letters full of inaccurate detail. \"Quite often it's given me more to do,\" one attendee said, adding that AI can answer questions but \"can't read the person.\""
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-05",
+  "section": "gadgets",
+  "items": [
+    {
+      "title": "Meta Ray-Ban Display Gets New Features, Online Ordering & International Launch",
+      "url": "https://www.uploadvr.com/meta-ray-ban-display-gets-new-features-online-ordering-international-launch/",
+      "source": "UploadVR",
+      "published_iso": "2026-09-28T01:07:44.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Ray-Ban-Display-Connect-2026-news.png",
+      "excerpt": "Meta Ray-Ban Display is now available in the UK and Canada, and will be available in France, Italy and Germany next month. It's also getting new features and updates.",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "rationale": "A concrete release: Meta's in-lens-display AI glasses launch outside the US, open online ordering and get new features. No Ray-Ban Display card in the 30-day history."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.uploadvr.com/ray-ban-meta-audio-glasses-no-camera/": {
+        "verdict": "follow-up",
+        "nearest": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
+        "new_action": "Official launch of the Ray-Ban Meta Audio product (camera-less glasses); the 09-18 card was only a report that Meta was building them."
+      },
+      "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html": {
+        "verdict": "new",
+        "nearest": ""
+      },
+      "https://www.notebookcheck.net/Boston-Dynamics-Atlas-robot-gets-new-hands.1413778.0.html": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands"
+      },
+      "https://www.uploadvr.com/meta-ray-ban-display-gets-new-features-online-ordering-international-launch/": {
+        "verdict": "new",
+        "nearest": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/"
+      }
+    },
+    "note": "SWAP pass: removed the Soulog Sense recorder (Android Authority; a paid 'Promoted' post) and the Newsom smart-glasses veto (Engadget; the article never mentions AI), both on fact-check. One backfill: Meta Ray-Ban Display international launch (UploadVR). Its history_match (Apple Smart Home Display, 09-22) is a false word match on 'Display'. No Ray-Ban Display story is in the 30-day digest, and it is a distinct product from the Ray-Ban Meta Audio pick (a separate release, not a content-hub repeat). UploadVR now has 2 picks and Notebookcheck has 2, so the outlet cap is met. Enrichment must confirm that the 'new features' are AI features. No second backfill qualified. Excluded at the user's request as earlier duplicates: PS5 AI upscaling, Meta glasses Muse, Meta Muse hands-on, Apple Oct 13 home products and the iMac G4-style hub, the Samsung XR glasses launch window, and Qualcomm Adreno Neural Fusion. Rejected on quality: Acemagic F9A Pro (a third Notebookcheck pick would break the outlet cap, and it repeats recent mini-PC cards); Amazon driver glasses (Tom's Guide; an opinion and warehouse-tour essay, not a launch); Soundcore Space 2 Pro review (its AI feature reportedly doesn't work, so AI is incidental); Microsoft AI PC teaser (speculation, related to the 09-26 Copilot+ card); iOS 27 Siri piece (commentary on the 09-15 iOS 27 Siri launch card); WIRED Meta Gen 3 review (battery and mic refresh, AI not central); PewDiePie Ajax (a software model, not a device). None of the picks overlaps /tmp/ax-claimed-urls.txt from other sections."
+  }
+}

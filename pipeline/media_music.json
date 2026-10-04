@@ -1,32 +1,27 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "music",
   "media": [
     {
-      "id": "suno-speech-beta",
+      "id": "isplus-suno-vocal-chart-top",
       "type": "image",
-      "src": "pipeline/media/suno-speech-beta.jpg"
+      "src": "pipeline/media/isplus-suno-vocal-chart-top.png"
     },
     {
-      "id": "stability-ai-sean-parker-music",
+      "id": "mbw-suno-wmg-bmg-licence-terms",
       "type": "image",
-      "src": "pipeline/media/stability-ai-sean-parker-music.jpg"
+      "src": "pipeline/media/mbw-suno-wmg-bmg-licence-terms.jpg"
     },
     {
-      "id": "questlove-sampling-ai",
-      "type": "image",
-      "src": "pipeline/media/questlove-sampling-ai.jpg"
-    },
-    {
-      "id": "lyricfind-ai-lyrics-long-tail",
-      "type": "image",
-      "src": "pipeline/media/lyricfind-ai-lyrics-long-tail.jpg"
-    },
-    {
-      "id": "suno-v6-take-me-back-video",
+      "id": "suno-seoul-arts-students-studio",
       "type": "video",
-      "src": "pipeline/media/suno-v6-take-me-back-video.mp4",
-      "poster": "pipeline/media/suno-v6-take-me-back-video.jpg"
+      "src": "pipeline/media/suno-seoul-arts-students-studio.mp4",
+      "poster": "pipeline/media/suno-seoul-arts-students-studio.jpg"
+    },
+    {
+      "id": "rollingstone-smith-ai-fraud-sentencing",
+      "type": "image",
+      "src": "pipeline/media/rollingstone-smith-ai-fraud-sentencing.jpg"
     }
   ]
 }

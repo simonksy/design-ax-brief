@@ -1,106 +1,101 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "design",
   "items": [
     {
-      "rank": 1,
-      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
-      "source": "The Decoder",
-      "published_iso": "2026-10-02T07:44:44+00:00",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png",
-      "excerpt": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are coming in the next few weeks.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Major image-model release: localized multi-step edits, bounding-box composition with 10 references, 4K output, open weights coming -- directly changes how designers iterate on visuals."
-    },
-    {
-      "rank": 2,
-      "title": "ClassCAD.ai brings its CAD model-building MCP to your system",
-      "url": "https://develop3d.com/ai/classcad-ai-cad-mcp/",
-      "source": "DEVELOP3D",
-      "published_iso": "2026-10-02T10:27:41+00:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/classcadai-launch.jpg",
-      "excerpt": "ClassCAD.ai has been launched as an AI-driven embeddable CAD, that's a self contained MCP able to build CAD in your Claude/Codex",
+      "title": "Formas.AI unveils native agentic 3D modeller",
+      "url": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
+      "source": "AEC Magazine",
+      "published_iso": "2026-10-02T11:04:09+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-3-1.jpg",
+      "excerpt": "Forma.AI unveils Cartesian, a native agentic 3D modeller for the physical world, where editable geometry meets spatial design reasoning",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "New product launch: a self-contained CAD MCP that lets Claude/Codex build real CAD models -- a different company and product from the OwlCAD browser launch published 10-01."
+      "rationale": "New product launch: an agentic modeller that outputs editable geometry, which changes how spatial and product designers block out form."
     },
     {
-      "rank": 3,
-      "title": "From Reusable to Regeneratable: Rethinking the Shared UI Component Library",
-      "url": "https://www.infoq.com/articles/regeneratable-ui-component-library/",
-      "source": "InfoQ",
-      "published_iso": "2026-10-02T09:00:00Z",
-      "og_image": "https://res.infoq.com/articles/regeneratable-ui-component-library/en/headerimage/regeneratable-ui-component-library-header-1790758478325.jpg",
-      "excerpt": "Regeneration has changed reuse economics. A model pointed at a solid design system can produce most standard UI on demand, so paying to keep a canonical component package alive is much harder to justify than it used to be. Keep the design system, tokens, guidelines and tests central. They are what actually buy you consistency.",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "Fresh, substantive argument for design-system teams: keep tokens, guidelines and tests central and let models regenerate components -- reframes what a DS team maintains."
+      "title": "Adobe's Prompt to Edit Lightroom: Restore Old Photos Fast",
+      "url": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
+      "source": "Fstoppers",
+      "published_iso": "2026-10-03T16:03:01+00:00",
+      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/09/11220260125_00137jr-prompt.jpg.webp?itok=rLe7Zuni",
+      "excerpt": "Adobe's new Prompt to Edit feature in Lightroom uses AI to restore old photographs, fix focus issues, colorize black-and-white images, and correct color casts. Hands-on results with Color Restoration and custom prompts.",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Hands-on with a new Lightroom feature (prompt-driven restoration and colour correction) that image editors can use right away."
     },
     {
-      "rank": 4,
-      "title": "Stop blaming the model for slow AI. Using Doherty's threshold as a guideline.",
-      "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc",
-      "source": "UX Collective",
-      "published_iso": "2026-10-01T22:52:26Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*DfgDMmR-elZfFiXjEu8_KQ.png",
-      "excerpt": "Doherty's threshold has moved from the answer to the acknowledgment: designing AI products for perceived speed is a week of front-end work and a definition of done, not cheaper inference.",
+      "title": "ChatGPT Sites hosts your website in public beta, with no data residency at launch",
+      "url": "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/",
+      "source": "MIXED",
+      "published_iso": "2026-10-04T15:10:36+00:00",
+      "og_image": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04.png",
+      "excerpt": "ChatGPT will host a website, a web app or a game for subscribers on five of its plans, and OpenAI's documentation for the feature puts one limit in",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Highly actionable UX guidance: design AI products for perceived speed via instant acknowledgment, a front-end fix designers can ship tomorrow."
+      "rationale": "New public-beta feature: ChatGPT now hosts sites and web apps directly, so a prototype can go live without a separate host. The piece also flags the data-residency limit."
     },
     {
-      "rank": 5,
-      "title": "Ideogram says its new model can edit part of an image without messing up the rest",
-      "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
-      "source": "The Decoder",
-      "published_iso": "2026-10-01T17:33:03+00:00",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45-1200x675.png",
-      "excerpt": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, and Leonardo AI are already on board. An open-weight release is planned.",
+      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
+      "url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
+      "source": "Creative Bloq",
+      "published_iso": "2026-10-04T08:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg",
+      "excerpt": "Adobe's free Premiere for Android brings mobile video editing with AI features such as Enhance Audio, with Firefly-powered Generative Fill, Image-to-Video and Generate Sound Effects on generative credits.",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "Covers a concrete release: Premiere on Android is free, with Firefly generative tools, which puts AI video editing on the phone."
+    },
+    {
+      "title": "Manycore's Aholo Lux3D Turns Three Photos Into an Editable 3D Asset via Agent and Blender",
+      "url": "https://pandaily.com/manycore-aholo-lux3d-blender-agent-3d-ai-harness-workflow",
+      "source": "Pandaily",
+      "published_iso": "2026-10-04T07:06:58+00:00",
+      "og_image": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png",
+      "excerpt": "A Leiphone test shows Manycore's Aholo Lux3D generating an editable bronze sculpture from three photos, with an AI agent orchestrating the job and Blender finishing it.",
       "category": "render",
       "tool": "KeyShot",
-      "accent": "#eb367f",
+      "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Separate model release from a different company (Ideogram 4.5): region-only edits, native 2K at 0.8 cents/image, already available through Runway, Pika and Leonardo."
+      "rationale": "A tested photo-to-editable-3D pipeline, with an agent running the job and Blender finishing it, that 3D artists can use."
     }
   ],
   "dedup": {
     "checks": {
-      "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/": {
+      "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/": {
+        "verdict": "new",
+        "nearest": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
+        "new_action": ""
+      },
+      "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858": {
+        "verdict": "new",
+        "nearest": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
+        "new_action": ""
+      },
+      "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://develop3d.com/ai/classcad-ai-cad-mcp/": {
+      "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking": {
         "verdict": "new",
-        "nearest": "https://www.voxelmatters.com/owlcad-brings-parametric-cad-and-ai-powered-design-to-the-browser/",
+        "nearest": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
         "new_action": ""
       },
-      "https://www.infoq.com/articles/regeneratable-ui-component-library/": {
+      "https://pandaily.com/manycore-aholo-lux3d-blender-agent-3d-ai-harness-workflow": {
         "verdict": "new",
-        "nearest": "https://dev.to/lateen-sail/designmdtohaaitojin-meruuidezainnogong-you-gaido-144c",
-        "new_action": ""
-      },
-      "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/": {
-        "verdict": "new",
-        "nearest": "https://www.cgchannel.com/2026/09/canva-releases-affinity-3-3/",
+        "nearest": "https://www.youtube.com/shorts/tqUEnRj0NbM",
         "new_action": ""
       }
     },
-    "note": "Pool 22, no exact repeats. history_match tags checked: ClassCAD vs OwlCAD (10-01) are different products and companies, so ClassCAD is new. InfoQ regeneratable library vs DESIGN.md guide (09-08) are different pieces. Ideogram 4.5 vs Affinity 3.3 (09-17) was a false word-overlap match. Runway Praxis-1 vs Runway Ads (10-01) is a different release, but it was dropped anyway because it is robotics, not design. Meta Muse open-source code vs Muse Charm (09-27) is a running Meta Muse story and gadget-leaning, so dropped. Also dropped: the AWN Tripo AI interview (reserved for movies per run rules); Suno speech (belongs to music); Instagram AI video assistant, ChatGPT try-on, Gemini 4 Argon and Gemini skills (general consumer/model news that other sections are likely to pick, and low design actionability); Pope Leo on AI art (commentary); the Matt Wolfe roundup (aggregator with sponsor plug); Engineering.com AI recommendations (evergreen); the LogRocket pieces and the UX Collective accessibility/attention essays (lower novelty). dev.to 'One repo, many agents' (Figma MCP) was the runner-up. Diversity: 4 outlets (The Decoder x2, DEVELOP3D, InfoQ, UX Collective); render x2, cad, tokens and figma. The second render card uses palette accent #eb367f."
+    "note": "No candidate duplicated a published story; the history_match tags were all loose 'related' overlaps (Lightroom Prompt to Edit is a different feature from the Lightroom-in-Gemini plugin published 9/28). Dropped as weak or off-section: Pope on AI art (TechCrunch, opinion), Matt Wolfe weekly roundup (its Sonnet 5.5 item was already published 9/30), Runway Praxis-1 (robotics, not design), Capcom AI (games), Adobe text-to-3D patents (speculative), Kling 4.0 dev.to post (vendor-ish account), three UX Collective essays (opinion), the Meta glasses third-party wrapper (apps can't be published), the Duke AR-grading study and LEGO-Anything benchmark (research, less actionable), and Claude Code Mods (developer-focused). Diversity: 5 outlets; the two render picks are split by accent."
   }
 }

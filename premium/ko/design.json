@@ -12488,6 +12488,134 @@
           "x": "세션에서는 런치 애니메이션과 텍스트 스태거, 키프레임 이징, 마케팅 에셋 자동 스케일링, 생성형 플러그인과 셰이더, 캔버스 안의 맞춤 AI 스킬, Weave의 이미지 생성, 변수로 쓰는 불투명도, 디자인-코드 충실도 개선까지 보여준다."
         }
       ]
+    },
+    "design/lightroom-prompt-to-edit-restore": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe가 Lightroom에 Prompt to Edit을 넣는다. Adobe가 준비한 예시 프롬프트를 고르거나 직접 프롬프트를 써서 옛 사진을 복원하는 기능이다. 초점이 나간 이미지를 선명하게 하고 흑백 사진에 색을 입히며, 색이 심하게 틀어진 사진도 보정한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+          "cap": "John Ricard가 2001년경 촬영한 112. Lightroom에서 Adobe의 Prompt to Edit 기능으로 복원했다."
+        },
+        {
+          "t": "p",
+          "x": "예시 프롬프트로는 Fix Dust and Scratches, Color Restoration, Unblur 등이 있다. Lightroom은 효과를 입힌 DNG 파일을 새로 만들고 원본은 건드리지 않는다. 프리셋을 고르면 프롬프트 전문이 뜨고, 그대로 고쳐 쓸 수도 있다. 몇 번 써 본 바로는 Color Restoration의 채도가 필자가 원한 것보다 높았다."
+        },
+        {
+          "t": "p",
+          "x": "편집이 Lightroom 안에서 끝나니 마스킹, 부분 보정, 개체 제거 같은 기본 도구도 그대로 쓴다. 이미지는 Nano Banana 2가 2K 또는 4K 해상도로 만든다. 프리미엄 기능이라 생성형 크레디트가 든다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+          "cap": "Lightroom의 Prompt to Edit 기능으로 만든 컬러 버전."
+        },
+        {
+          "t": "p",
+          "x": "Prompt to Edit은 Lightroom 데스크톱에 Early Access 기능으로 들어오고, Adobe가 피드백을 보며 계속 손볼 수 있다."
+        }
+      ]
+    },
+    "design/chatgpt-sites-public-beta-hosting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT가 다섯 개 요금제 구독자의 웹사이트, 웹 앱, 게임을 호스팅한다. 다만 OpenAI 문서에 제한이 하나 적혀 있다. “Sites는 출시 시점에 데이터 상주나 추론 상주를 지원하지 않는다.” 배포된 Sites, Site 코드, D1·R2 데이터와 파일 저장소, 생성된 결과물, 로그가 모두 여기에 해당한다."
+        },
+        {
+          "t": "p",
+          "x": "Sites는 ChatGPT Plus, Pro, Business, Enterprise, Edu 요금제에서 공개 베타로 쓸 수 있고, 요금제별로 사용 한도가 걸린다. Site마다 R2 객체 저장소와 10 GB짜리 D1 데이터베이스 저장 공간이 붙는다. HTTP, HTTPS, WebSockets는 되지만 raw TCP는 안 된다."
+        },
+        {
+          "t": "p",
+          "x": "삭제한 Site는 되살릴 수 없다. Enterprise 워크스페이스는 공개 게시가 기본으로 꺼져 있고, 네트워크 접근 편집기에는 목적지 규칙을 최대 1,024개까지 넣을 수 있다. 건강 정보나 결제 카드 데이터 처리, 금융 거래 기능 같은 용도는 OpenAI가 금지한다."
+        },
+        {
+          "t": "p",
+          "x": "9월 29일 릴리스 노트를 보면 Plus와 Pro의 소유자와 편집자는 게시한 Site를 ChatGPT 안에서 계속 고칠 수 있다. 7월 9일 출시 때 EEA, 스위스, UK를 뺀 지역 제한은 아직 바뀌었다는 발표가 없다."
+        }
+      ]
+    },
+    "design/premiere-android-free-firefly": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+          "cap": "Premiere mobile은 일상 브이로그부터 튜토리얼, 팟캐스트 클립, 소셜 콘텐츠까지 무엇이든 만들고 편집하는 앱이다 (Image credit: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "지난해 iPhone에 먼저 나온 Premiere mobile이 Android에도 나왔다. 무료다. Creative Cloud 구독이 필요 없고 기본 편집이라면 Adobe 계정조차 없어도 된다. 워터마크나 광고, 업그레이드 권유도 없다."
+        },
+        {
+          "t": "p",
+          "x": "무료 버전에도 멀티트랙 타임라인, 프레임 단위 정밀 편집, 앱 안에서 하는 보이스오버 녹음이 있다. 탭 한 번에 배경 소음을 걷어내는 Enhance Audio도 들어 있다. 크리에이터가 만든 템플릿과 무제한 4K 내보내기까지 된다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+          "cap": "AI 기반(AI-powered) Enhance Audio는 잡음 섞인 녹음을 쉽게 정리해 대사를 더 또렷하게 만든다 (Image credit: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill, Image-to-Video, Generate Sound Effects 같은 Firefly 기반(Firefly-powered) 기능에는 따로 사야 하는 생성형 크레디트가 든다. 앱을 쓰려면 Android 13 이상, RAM 5GB 이상이 필요하다. 키프레임, 비트 감지, Adobe Fonts, 향상된 자막, 데스크톱에서 프로젝트 이어 하기에는 아직 “곧 출시” 표시가 붙어 있다."
+        },
+        {
+          "t": "p",
+          "x": "무료 Premiere는 신뢰부터 얻고 돈은 나중에 받거나, 어쩌면 끝내 받지 않는다. 휴대폰으로 시작하는 세대의 크리에이터를 Adobe가 대할 방식은 바로 이것이라고 필자는 주장한다."
+        }
+      ]
+    },
+    "design/aholo-lux3d-blender-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+        },
+        {
+          "t": "p",
+          "x": "Leiphone이 9월 30일 공개한 실사용 테스트는 Aholo Lux3D가 에이전트 중심 파이프라인 안에서 한 구성 요소로 어떻게 돌아가는지 보여 준다. 항저우의 Manycore Tech가 만든 3D 생성 모델이다. Leiphone은 이 구조를 3D AI 하네스라고 부른다. 범용 에이전트가 작업을 계획해 나누면 전문 모델이 에셋을 만들고, Blender 같은 소프트웨어가 결과물을 점검해 마무리한다."
+        },
+        {
+          "t": "p",
+          "x": "Lux3D는 이미지 한 장이나 텍스트 프롬프트 하나로 지오메트리와 PBR 재질을 갖춘 3D 모델을 만든다. 등급은 Turbo와 Standard가 있고, API, 에이전트 스킬, MCP 서버, Codex 플러그인 형태로 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Leiphone은 Codex에서 돌아가는 GPT-6 Astra에 원명원 십이지 컬렉션의 청동 쥐 머리 사진 세 장을 줬다. 에이전트는 G1-Turbo로 초안을 뽑고 G1으로 넘어간 다음, 결과물을 Blender에서 열어 받침대를 붙이고 세 각도에서 렌더링했다. 시간은 약 92.9초와 559.7초, 비용은 크레디트 21개(약 1.47위안)였다."
+        },
+        {
+          "t": "p",
+          "x": "Leiphone의 평가로는 모델이 핵심 특징과 표면의 미세하게 움푹 팬 자국까지 살렸다. 다만 지나치게 평평한 뒷면과 일부 자국에는 AI 추론의 흔적이 남았다."
+        }
+      ]
+    },
+    "design/bfl-flux3-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png"
+        },
+        {
+          "t": "p",
+          "x": "Black Forest Labs가 Flux 3 모델 제품군에 속한 이미지 모델 Flux 3 Image를 공개했다. BFL에 따르면 이 모델은 이미지의 다른 부분을 건드리지 않고 여러 단계에 걸쳐 편집할 수 있고, 텍스트-이미지, 이미지-이미지, 텍스트 렌더링, 포토리얼리즘을 모두 다룬다. 바운딩 박스로 장면을 구성하고 참조 이미지를 최대 열 장까지 넣을 수 있으며, 결과물은 최대 4K 해상도로 뽑는다. 무료 데모도 있다."
+        },
+        {
+          "t": "video",
+          "src": "https://the-decoder.com/wp-content/uploads/2026/10/flux3_bfl.mp4"
+        },
+        {
+          "t": "p",
+          "x": "API 이용료는 10월 8일까지 50% 할인된다. 기업은 상업용 가중치 라이선스를 받아 자체 인프라에서 모델을 돌리고 파인튜닝할 수 있다. 오픈 웨이트 버전은 몇 주 안에 나올 예정이다. 출시 직전에는 Ideogram도 편집에 초점을 맞춘 자체 모델 4.5 버전을 내놨는데, 이 모델 역시 곧 오픈 웨이트로 공개될 예정이다."
+        }
+      ]
     }
   }
 }

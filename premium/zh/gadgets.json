@@ -5626,6 +5626,102 @@
           "x": "Road to VR指出，Samsung将面对领先多年的Meta，也将受到Meta此前因带摄像头眼镜而遭遇的同样公众审视。"
         }
       ]
+    },
+    "gadgets/ipad-entry-apple-intelligence-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
+          "cap": "iPad 11 (2025)"
+        },
+        {
+          "t": "p",
+          "x": "泄露的代码显示，即将推出的iPad 12将迎来专为支持Apple Intelligence而设计的显著硬件升级。这款入门级平板预计将搭载A19芯片和8GB RAM。"
+        },
+        {
+          "t": "p",
+          "x": "MacRumors撰稿人Aaron Perris在Apple代码中发现了第12代机型的相关信息，其中还列出了该公司自研的C1X蜂窝调制解调器和N1无线网络芯片。A19将取代2025年3月发布的现款iPad 11所用的A16芯片。"
+        },
+        {
+          "t": "p",
+          "x": "芯片的更换让入门级iPad首次支持Apple Intelligence。A16不支持该平台，因此iPad 11用户无法使用Apple的生成式AI工具以及基于这些工具的Siri功能。内存从6GB增至8GB，这是Apple运行Apple Intelligence的最低要求。"
+        },
+        {
+          "t": "p",
+          "x": "C1X支持sub-6GHz 5G网络，能效更高；N1则增加了对Wi-Fi 7、Bluetooth 6和Thread的支持。iPad 11在2026年6月涨价后起售价为$449，其继任机型预计将以相同价格推出。此次发现未包含发布日期，iPad 12预计不会早于2027年春季推出。"
+        }
+      ]
+    },
+    "gadgets/atlas-redesigned-hands-bd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-10-01-at-22.36.04.png",
+          "cap": "Atlas的新手部。"
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics的Atlas即将换上新手部。这家机器人公司展示了新的手部设计，如今应能操作电钻，或单手移动两个高尔夫球。据Boston Dynamics称，这使自由度增加到13个。"
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics为旗下高端机器人Atlas推出了新手部。一段新视频展示了它的新能力，包括操作电钻。虽然这次演示是在远程操作员的协助下完成的，但它应能展示不久的将来可以实现什么。目前，Boston Dynamics还在研究如何让Atlas真正自主学习，而不是接受训练。"
+        },
+        {
+          "t": "p",
+          "x": "Atlas已经能够完全自主地使用新手部。Boston Dynamics用Atlas单手操控两个高尔夫球来展示这一点。Atlas在没有小指的情况下也能做到。据该公司称，再加一根手指所带来的额外复杂度并不值得，还会增加功耗。新手部只有一根拇指和另外三根手指。"
+        },
+        {
+          "t": "p",
+          "x": "其复杂程度已接近一台独立的小型机器人。Boston Dynamics机械工程师Dylan Thrush表示，Atlas改进后的手部现在拥有13个自由度，而此前Atlas仅有7个自由度。由于该公司计划将Atlas用于汽车装配，这些额外的自由度可能会派上用场。新手部比普通人手略大，力量也更强。"
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics还希望，凭借更高的灵活性，新手部能更好地避免可能损坏其机械部件的动作。"
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        }
+      ]
+    },
+    "gadgets/insta360-spatial-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SRu53yDEKWi25XkvCgxaFb.jpg",
+          "cap": "图片来源：Insta360"
+        },
+        {
+          "t": "p",
+          "x": "Insta360推出了免费功能Spatial Capture，可将360度视频转换为真实空间的精细3D模型，并能在其中自由移动。该功能仍处于测试阶段，现已支持Insta360 X6，以及能以30fps或更高帧率拍摄5.7K 视频的该公司任意360度相机，包括X4 Air和X5。"
+        },
+        {
+          "t": "p",
+          "x": "Spatial Capture基于3D Gaussian Splatting（3DGS）技术：软件先推算出相机在每个时刻的位置，再用数百万个微小的半透明斑点重建场景。最终得到一个逼真的3D场景，可以从相机从未到过的角度观看。"
+        },
+        {
+          "t": "video",
+          "yt": "HOBZMKxbHKw"
+        },
+        {
+          "t": "p",
+          "x": "云平台Splatica月费$49.95起；Spatial Capture则每月提供四次免费生成。Insta360表示，Splatica面向专业用户，生成质量更高；Spatial Capture则面向普通用户，渲染一段两分钟视频只需一到两小时，而前者约需八小时。"
+        },
+        {
+          "t": "p",
+          "x": "用户需录制两分钟以内的片段，处理在云端完成。Insta360建议在光线充足、面积不超过100平方米的室内空间使用，看来它是为房间而非风景设计的。场景可通过浏览器链接分享，但暂时还不能导出为文件。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/V8AsdHRT9j5jHpZSymAF5Q.jpg",
+          "cap": "图片来源：Insta360"
+        },
+        {
+          "t": "p",
+          "x": "评测者用自己的X6拍摄的测试片段两次上传失败——这是测试版常见的小毛病——但作为一项免费功能，它为一款价格不菲的相机增添了价值。"
+        }
+      ]
     }
   }
 }

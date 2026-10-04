@@ -94693,6 +94693,989 @@
           "x": "CalMatters는 해고 관련 법이 입법 과정에서 후퇴했다고 짚었다. 노동자 이의 제기 절차와 이행을 강제할 소송권, 계약직 적용 범위가 법안에서 빠졌다."
         }
       ]
+    },
+    "design/lightroom-prompt-to-edit-restore": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Adobe가 Lightroom에 Prompt to Edit을 넣는다. Adobe가 준비한 예시 프롬프트를 고르거나 직접 프롬프트를 써서 옛 사진을 복원하는 기능이다. 초점이 나간 이미지를 선명하게 하고 흑백 사진에 색을 입히며, 색이 심하게 틀어진 사진도 보정한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
+          "cap": "John Ricard가 2001년경 촬영한 112. Lightroom에서 Adobe의 Prompt to Edit 기능으로 복원했다."
+        },
+        {
+          "t": "p",
+          "x": "예시 프롬프트로는 Fix Dust and Scratches, Color Restoration, Unblur 등이 있다. Lightroom은 효과를 입힌 DNG 파일을 새로 만들고 원본은 건드리지 않는다. 프리셋을 고르면 프롬프트 전문이 뜨고, 그대로 고쳐 쓸 수도 있다. 몇 번 써 본 바로는 Color Restoration의 채도가 필자가 원한 것보다 높았다."
+        },
+        {
+          "t": "p",
+          "x": "편집이 Lightroom 안에서 끝나니 마스킹, 부분 보정, 개체 제거 같은 기본 도구도 그대로 쓴다. 이미지는 Nano Banana 2가 2K 또는 4K 해상도로 만든다. 프리미엄 기능이라 생성형 크레디트가 든다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
+          "cap": "Lightroom의 Prompt to Edit 기능으로 만든 컬러 버전."
+        },
+        {
+          "t": "p",
+          "x": "Prompt to Edit은 Lightroom 데스크톱에 Early Access 기능으로 들어오고, Adobe가 피드백을 보며 계속 손볼 수 있다."
+        }
+      ]
+    },
+    "design/chatgpt-sites-public-beta-hosting": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT가 다섯 개 요금제 구독자의 웹사이트, 웹 앱, 게임을 호스팅한다. 다만 OpenAI 문서에 제한이 하나 적혀 있다. “Sites는 출시 시점에 데이터 상주나 추론 상주를 지원하지 않는다.” 배포된 Sites, Site 코드, D1·R2 데이터와 파일 저장소, 생성된 결과물, 로그가 모두 여기에 해당한다."
+        },
+        {
+          "t": "p",
+          "x": "Sites는 ChatGPT Plus, Pro, Business, Enterprise, Edu 요금제에서 공개 베타로 쓸 수 있고, 요금제별로 사용 한도가 걸린다. Site마다 R2 객체 저장소와 10 GB짜리 D1 데이터베이스 저장 공간이 붙는다. HTTP, HTTPS, WebSockets는 되지만 raw TCP는 안 된다."
+        },
+        {
+          "t": "p",
+          "x": "삭제한 Site는 되살릴 수 없다. Enterprise 워크스페이스는 공개 게시가 기본으로 꺼져 있고, 네트워크 접근 편집기에는 목적지 규칙을 최대 1,024개까지 넣을 수 있다. 건강 정보나 결제 카드 데이터 처리, 금융 거래 기능 같은 용도는 OpenAI가 금지한다."
+        },
+        {
+          "t": "p",
+          "x": "9월 29일 릴리스 노트를 보면 Plus와 Pro의 소유자와 편집자는 게시한 Site를 ChatGPT 안에서 계속 고칠 수 있다. 7월 9일 출시 때 EEA, 스위스, UK를 뺀 지역 제한은 아직 바뀌었다는 발표가 없다."
+        }
+      ]
+    },
+    "design/premiere-android-free-firefly": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
+          "cap": "Premiere mobile은 일상 브이로그부터 튜토리얼, 팟캐스트 클립, 소셜 콘텐츠까지 무엇이든 만들고 편집하는 앱이다 (Image credit: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "지난해 iPhone에 먼저 나온 Premiere mobile이 Android에도 나왔다. 무료다. Creative Cloud 구독이 필요 없고 기본 편집이라면 Adobe 계정조차 없어도 된다. 워터마크나 광고, 업그레이드 권유도 없다."
+        },
+        {
+          "t": "p",
+          "x": "무료 버전에도 멀티트랙 타임라인, 프레임 단위 정밀 편집, 앱 안에서 하는 보이스오버 녹음이 있다. 탭 한 번에 배경 소음을 걷어내는 Enhance Audio도 들어 있다. 크리에이터가 만든 템플릿과 무제한 4K 내보내기까지 된다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
+          "cap": "AI 기반(AI-powered) Enhance Audio는 잡음 섞인 녹음을 쉽게 정리해 대사를 더 또렷하게 만든다 (Image credit: Adobe)"
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill, Image-to-Video, Generate Sound Effects 같은 Firefly 기반(Firefly-powered) 기능에는 따로 사야 하는 생성형 크레디트가 든다. 앱을 쓰려면 Android 13 이상, RAM 5GB 이상이 필요하다. 키프레임, 비트 감지, Adobe Fonts, 향상된 자막, 데스크톱에서 프로젝트 이어 하기에는 아직 “곧 출시” 표시가 붙어 있다."
+        },
+        {
+          "t": "p",
+          "x": "무료 Premiere는 신뢰부터 얻고 돈은 나중에 받거나, 어쩌면 끝내 받지 않는다. 휴대폰으로 시작하는 세대의 크리에이터를 Adobe가 대할 방식은 바로 이것이라고 필자는 주장한다."
+        }
+      ]
+    },
+    "design/aholo-lux3d-blender-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+        },
+        {
+          "t": "p",
+          "x": "Leiphone이 9월 30일 공개한 실사용 테스트는 Aholo Lux3D가 에이전트 중심 파이프라인 안에서 한 구성 요소로 어떻게 돌아가는지 보여 준다. 항저우의 Manycore Tech가 만든 3D 생성 모델이다. Leiphone은 이 구조를 3D AI 하네스라고 부른다. 범용 에이전트가 작업을 계획해 나누면 전문 모델이 에셋을 만들고, Blender 같은 소프트웨어가 결과물을 점검해 마무리한다."
+        },
+        {
+          "t": "p",
+          "x": "Lux3D는 이미지 한 장이나 텍스트 프롬프트 하나로 지오메트리와 PBR 재질을 갖춘 3D 모델을 만든다. 등급은 Turbo와 Standard가 있고, API, 에이전트 스킬, MCP 서버, Codex 플러그인 형태로 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Leiphone은 Codex에서 돌아가는 GPT-6 Astra에 원명원 십이지 컬렉션의 청동 쥐 머리 사진 세 장을 줬다. 에이전트는 G1-Turbo로 초안을 뽑고 G1으로 넘어간 다음, 결과물을 Blender에서 열어 받침대를 붙이고 세 각도에서 렌더링했다. 시간은 약 92.9초와 559.7초, 비용은 크레디트 21개(약 1.47위안)였다."
+        },
+        {
+          "t": "p",
+          "x": "Leiphone의 평가로는 모델이 핵심 특징과 표면의 미세하게 움푹 팬 자국까지 살렸다. 다만 지나치게 평평한 뒷면과 일부 자국에는 AI 추론의 흔적이 남았다."
+        }
+      ]
+    },
+    "music/mbw-suno-wmg-bmg-licence-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Suno 공동창업자이자 CEO인 Mikey Shulman은 10월 1일 Bloomberg의 Screentime 콘퍼런스에서 Suno가 앞서 공개한 유료 구독자 2 million명, 매출 USD $300 million을 이미 “훨씬 넘어섰다”고 말했다. 새 수치는 어느 쪽도 내놓지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Warner Music Group과 BMG가 무엇을 받고 Suno에 돈을 내느냐고 묻자 Shulman은 이렇게 답했다. “좋아하는 아티스트의 음악을 가져와 갖고 놀면서 리믹스하거나 커버하거나 다른 것과 매시업할 수 있다고 상상해 보라… 완전히 새로운 제품이다.”"
+        },
+        {
+          "t": "video",
+          "yt": "j8JAWfM6q1E"
+        },
+        {
+          "t": "p",
+          "x": "Suno는 2025년 11월 WMG 소송을 합의로 끝낸 뒤 8월 12일 BMG, 9월 8일 Believe와 계약했고 9월 9일 이들 파트너와 함께 v6 모델을 내놓았다. Universal과 Sony는 9월 18일 다시 소송을 냈다."
+        },
+        {
+          "t": "p",
+          "x": "AI 음악 표기를 두고 Shulman은 어느 한쪽이 정할 일이 아니라며 “아직 확고한 규칙이 없다는 건 사실 좋은 일”이라고 말했다."
+        }
+      ]
+    },
+    "music/suno-seoul-arts-students-studio": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "F0vEAbzFLzk"
+        },
+        {
+          "t": "p",
+          "x": "음악을 공부하는 학생들이 창작 과정에 Suno를 들이면 무슨 일이 생기는지 살펴본다."
+        },
+        {
+          "t": "p",
+          "x": "In The Cut 이번 편은 서울예술대학교(Seoul Institute of the Arts)를 찾았다. 학생들은 Suno로 아이디어를 키우고 보컬과 화성을 실험한다. 코드를 찾거나 달리 녹음하기 어려운 소리를 만든 뒤, 그 아이디어를 기존 프로덕션 워크플로로 가져간다."
+        },
+        {
+          "t": "p",
+          "x": "곡의 첫 실마리를 만드는 일부터 Suno Studio에서 스템을 나눠 DAW 안에서 작업을 이어가는 과정까지, 학생들은 Suno 덕에 작업이 빨라져도 최종 음악은 스스로 다듬는다고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "새 창작 도구가 다음 세대 음악가를 만났을 때 벌어지는 일을 담았다."
+        }
+      ]
+    },
+    "music/rollingstone-smith-ai-fraud-sentencing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "검찰은 노스캐롤라이나의 한 남성이 “상당한 처벌”을 받아야 한다고 밝혔다. 그는 인공지능으로 가상의 아티스트 이름을 붙인 가짜 곡 수천 곡을 만들고, 봇 계정 군단을 풀어 이 곡들을 수십억 회 스트리밍했다."
+        },
+        {
+          "t": "p",
+          "x": "맨해튼 연방검찰은 Michael Smith에게 최소 46개월의 징역형을 내려 달라고 판사에게 요청했다. Smith 측 변호인은 보호관찰만 요청한 반면 연방 보호관찰 당국은 24개월을 권고했다. 선고는 10월 6일이다."
+        },
+        {
+          "t": "p",
+          "x": "검찰에 따르면 2023년 4월 Taylor Swift의 전체 카탈로그가 YouTube Music 패밀리 요금제 구독자에게서 올린 스트리밍은 9.3 million 회였지만, Smith의 곡은 80.9 million 회에 달했다. 검찰은 그가 여섯 해 넘게 부당한 로열티로 $8 million 이상을 챙겼다고 본다."
+        },
+        {
+          "t": "p",
+          "x": "Smith는 3월 전신 사기 공모 혐의 한 건의 유죄를 인정하고 몰수금 $8,091,843.64를 내기로 했다. 변호인들은 그가 “깊이 후회하고 있다”면서도 “연방 범죄를 저지르려 한 것은 아니었다”고 했다."
+        }
+      ]
+    },
+    "movies/curious-refuge-gpt-astra-agent-edit": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "JWEAmLHp7Sg"
+        },
+        {
+          "t": "p",
+          "x": "AI 에이전트는 영화 제작을 실제로 얼마나 해낼 수 있을까?"
+        },
+        {
+          "t": "p",
+          "x": "이번 영상에서는 GPT Astra에 영상 정리와 편집을 맡겼다. VFX, SFX 작업에 마케팅 소재 제작까지 포함해서다. 무엇이 통했고 무엇이 안 통했는지는 튜토리얼에 담았다."
+        },
+        {
+          "t": "p",
+          "x": "전체 분석 글과 프롬프트는 여기 있다: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
+        }
+      ]
+    },
+    "movies/mubi-cakarel-no-ai-films-policy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
+          "cap": "Efe Cakarel"
+        },
+        {
+          "t": "p",
+          "x": "Mubi 창업자 겸 CEO 에페 차카렐(Efe Cakarel)은 9월 26일 취리히영화제(Zurich Film Festival) Zurich Summit 기조연설에서 “영화에 관해서는 AI를 최대한 멀리할 것”이라고 회사 방침을 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "“Mubi에서도 AI를 쓸 것이고, 이미 엔지니어링, 재무, 운영, 예측, 고객 서비스에 AI를 쓰고 있다”고 차카렐은 말했다. 그는 이 전략에 단서를 달았다. “AI가 좋은 것을 만들 수 없다고 믿어서가 아니다. 그건 안일하고 아마 틀린 주장이다. 오히려 AI-generated 콘텐츠가 곧 아주 좋아질 것이기에 인간의 창작이 더 가치 있어지는 것이다.”"
+        },
+        {
+          "t": "p",
+          "x": "이 CEO는 앞으로 가치가 “의도”에 있을 것이라고 했다. “취향, 주의, 문화적 정당성, 공동체, 출처, 무엇보다 신뢰”에도 있다고 덧붙였다. AI 때문에 같은 영화가 관객마다 다른 버전으로 만들어질 수 있다는 경고도 내놨다. “초개인화된 엔터테인먼트는 만족을 주지만, 영화는 이야깃거리를 준다.”"
+        },
+        {
+          "t": "p",
+          "x": "“그러니 맞다, 우리는 기계가 우리 삶에서 많은 일을 해주길 원한다. 다만 영화만큼은 기계가 만들지 않기를 바란다. 엔터테인먼트가 어디로 가는지에 대한 내 생각이 맞다면, 20년 뒤 영화사가 할 수 있는 가장 급진적인 말은 ‘이건 사람이 만들었다’일지도 모르기 때문이다.”"
+        }
+      ]
+    },
+    "movies/tonic-dna-ai-hand-drawn-animation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+          "cap": "Tonic DNA Demo Reel 2026"
+        },
+        {
+          "t": "p",
+          "x": "Tonic DNA가 이번 달 새 웹사이트를 열었다. 파트너 스테파니 비턴(Stefanie Bitton)은 “리브랜딩이라기보다 리프레시라고 부른다”고 말한다. 뿌리가 약 사십 년 전까지 거슬러 올라가는 몬트리올 스튜디오다. 전통 애니메이션 하우스, IMAX 선구자, 3D·하이브리드 스튜디오, 감독 중심 크리에이티브 스튜디오를 차례로 거쳤고, 지금은 오리지널 작품을 만들며 소속 아티스트들이 직접 짠 AI 파이프라인까지 갖췄다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+          "cap": "몬트리올 도심에 있는 Tonic DNA 리셉션."
+        },
+        {
+          "t": "p",
+          "x": "“르네상스라는 말은 2D가 사라졌었다는 뜻이다. 2D는 사라진 적이 없다”고 비턴은 말한다. 스튜디오는 올해 The Anta Claus of the South Pole을 라인업에 더했다. 코델 바커(Cordell Barker)가 연출하고 캐나다 국립영화위원회(National Film Board of Canada)와 함께 만든 24분짜리 2D 홀리데이 스페셜이다."
+        },
+        {
+          "t": "p",
+          "x": "Tonic이 자체 AI 도구를 만든 지 두 해가 됐다. 비턴은 이 방식을 ‘AI with intention(의도가 있는 AI)’이라 부른다. “아티스트를 대체하거나 공정을 건너뛰겠다는 뜻이 아니다. 과정의 마찰을 일부 덜어 아티스트가 더 많이 실험할 여지를 주겠다는 뜻이다.” 목표는 장편 2D다. “처음엔 반발이 많았다”고 그는 털어놓는다. 그래도 아티스트들은 개발에 참여했다. “기술이 저작자를 흐리거나 동의를 건너뛰기 시작하면, 완전히 다른 영역으로 넘어간 것이다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
+          "cap": "Tonic DNA 라운지 벽을 채운 콘셉트 아트."
+        }
+      ]
+    },
+    "movies/biff-forum-biff-ai-film-future": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
+          "cap": "제31회 부산국제영화제 ‘2026 포럼 비프(Forum BIFF)’ 공식 포스터. / 사진=부산국제영화제 제공"
+        },
+        {
+          "t": "p",
+          "x": "제31회 부산국제영화제(BIFF)에서 인공지능(AI)이 바꾸는 영화 제작 환경과 한국영화의 위기, 영화인의 권리 등을 놓고 국내외 영화인들이 머리를 맞댄다."
+        },
+        {
+          "t": "p",
+          "x": "부산국제영화제 지석영화연구소는 오는 10월 8일부터 11일까지 영상산업센터와 부산시청자미디어센터에서 ‘2026 포럼 비프(Forum BIFF)’를 연다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "올해 주제는 ‘동시대 영화의 가능성을 말하다’다. 영화산업, AI·창작, 제도·정책, 지역·환경 등 4개 분야에서 8개 세션이 진행된다."
+        },
+        {
+          "t": "p",
+          "x": "영화제 개막작 ‘낮과 밤은 서로에게’의 김종관 감독과 중국의 지아장커 감독이 기조발제자로 나선다."
+        },
+        {
+          "t": "p",
+          "x": "영화산업 분야에서는 중예산 한국영화가 줄어드는 원인을 짚고 해외 공동제작 가능성을 논의한다. 아시아 애니메이션의 성장과 앞으로의 과제도 다룬다."
+        },
+        {
+          "t": "p",
+          "x": "AI 분야에서는 생성형 AI가 영화 제작에 미치는 영향과 창작자의 역할을 살펴본다. 지아장커 감독이 AI로 만든 단편 ‘지아장커의 댄스’ 등 관련 작품도 상영된다. 민규동 감독 등 국내외 영화인들이 참여한다."
+        },
+        {
+          "t": "p",
+          "x": "영화인의 권리 문제도 논의한다. 공정한 계약과 보상, 저작권 문제를 비롯해 영화제 지원제도의 개선 방향을 짚을 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "지역 분야에서는 부산 영화산업의 지속 방안을 다룬다. 영화계와 행정기관의 협력, 영화 제작 과정에서 탄소 배출을 줄이는 방안 등이 주요 의제다."
+        },
+        {
+          "t": "p",
+          "x": "포럼은 사전 신청 없이 누구나 무료로 참여할 수 있다. 온라인 중계 없이 현장에서만 열린다."
+        },
+        {
+          "t": "p",
+          "x": "제31회 부산국제영화제는 10월 6일부터 15일까지 영화의전당 일대에서 개최된다."
+        }
+      ]
+    },
+    "games/stardock-clairvoyance-ai-devtools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brad Wardell이 Stardock을 세운 건 1993년이다. 그의 팀이 이번에 게임 개발자 등을 위한 AI 생산성 도구 Clairvoyance를 만들었다. Wardell은 “지금 폭발적이다”라며 이 도구가 회사의 최고 매출 제품이 될 수도 있다고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Clairvoyance의 출발점은 반복적인 소프트웨어·게임 개발 작업을 자동화하던 사내 도구였다. Stardock은 두 해 동안 날마다 쓰며 다듬은 끝에 외부에 팔기로 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Clairvoyance는 사용자 컴퓨터에서 직접 돈다. 덕분에 AI 직원이 실제 프로젝트를 열고 빌드하고 실행한 다음 완성된 결과물을 넘겨준다. Windows, macOS, Linux에서 무료로 쓸 수 있고 Claude Code, Codex, Cursor, Grok, Copilot과 함께 돌아간다."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Wardell의 설명으로는 Clairvoyance가 노리는 건 창작의 대체가 아니라 작업 흐름의 마찰이다. 사람이 만든 아트를 자체 엔진으로 가져오기, Word 파일을 CSV 데이터로 바꾸기, 크래시 로그 분석, Jira 작업 생성 같은 일이다. 기본 앱은 무료, 프로 버전은 월 $20이다."
+        },
+        {
+          "t": "p",
+          "x": "생성형 아트를 두고 Wardell은 “지금의 생성형 AI는 결국 다 비슷해 보이는 저질 결과물을 만들어낸다고 생각한다”고 말했다."
+        }
+      ]
+    },
+    "games/vibe-coded-mashup-mods-backlash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "오래 모드를 만들어 온 이들이 인터넷 속 자기 영역을 차지한 최신 유행에 불만을 터뜨리고 있다. AI로 생성한(AI-generated), 이른바 “바이브 코딩(vibe-coded)” 모드라는 “빌어먹을 ‘트렌드’”다."
+        },
+        {
+          "t": "p",
+          "x": "“나는 게임 모드를 만들고, 그 작업에 AI를 쓴다는 사실을 숨기지 않는다. 그래도 이 빌어먹을 ‘트렌드’는 싫다. 순전한 쓰레기일 뿐, 창의적인 구석이라고는 전혀 없다.” 모더 kran27_가 올린 글이다."
+        },
+        {
+          "t": "p",
+          "x": "쏟아지는 모드들은 서로 무관한 게임을 뒤섞는다. World of Warcraft를 Call of Duty: World at War에, Escape From Tarkov를 Skyrim에 넣는 식이다. 유행은 단 일주일 만에 눈덩이처럼 커졌다. Claude Opus 5.5의 토큰 가격이 내려가고 코드 생성 능력이 좋아져, 모델에 게임 디컴파일을 맡기고 전혀 다른 요소를 덧붙이기가 그 어느 때보다 쉬워진 탓이다."
+        },
+        {
+          "t": "p",
+          "x": "이런 AI 디컴파일(AI-decompiled) 매시업은 아직 Nexus Mods 같은 모딩 플랫폼에 올라오지 않았다. IGN은 권리 문제 때문일 공산이 크다고 본다. 거의 전부가 제작자에게 아무 권리도 없는 디컴파일 코드와 에셋을 쓴다."
+        }
+      ]
+    },
+    "games/grimhammer3-mod-corrupted-ai-protest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Total War: Warhammer 3 오버홀 모드가 AI를 활용한(AI-infused) 방식으로 무단 재업로드되자, SFO: Grimhammer 3의 주 제작자가 화가 나 모드를 일부러 망가뜨리기로 했다. 최신 버전의 Grimhammer 3를 언제, 어디서 받을지 모더들이 더 확실히 쥐겠다는 취지다. 제작자 Venris는 상황이 나아지지 않으면 모드를 비공개로 돌리겠다고 경고했다."
+        },
+        {
+          "t": "p",
+          "x": "“SFO: Grimhammer III의 무단 재업로드가 늘고 있고, 더 중요하게는 그 과정에서 AI가 쓰이고 있어, 이런 무단 업로드에서는 작동하지 않도록 모드를 일부러 손상시켰습니다.” 제작자는 IGN이 찾아낸 Patreon 게시글에 이렇게 썼다."
+        },
+        {
+          "t": "p",
+          "x": "“SFO: Grimhammer는 이 커뮤니티와 판타지 세계를 향한 십 년 가까운 열정과 애정의 결과물입니다. 그러니 누구도 허락 없이 제 작업물을 가져가게 두지 않습니다. 특히 AI 관련(AI-related) 목적이라면 더더욱 그렇습니다. AI가 아니라 모더를 응원해 주세요.” Venris는 모드를 유료화할 생각은 없다고 못 박으며 글을 맺었다."
+        },
+        {
+          "t": "p",
+          "x": "SFO 팀의 모드는 주로 Steam Workshop으로 배포된다. 다만 Nexus Mods 같은 모딩 사이트들은 최근 생성형 AI로 만든 모드의 표기 기준을 강화하는 쪽으로 움직였다."
+        }
+      ]
+    },
+    "games/activision-mw2-genai-legal-notice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "기존 게임의 아류작과 디컴파일, 바이브 코딩으로 찍어 내는 저질 게임은 지금 사실상 무법지대다. 그런데 둘 다 Microsoft 소유인 Activision과 Bethesda가 최근 서로 다른 두 프로젝트를 상대로 조치에 나섰다."
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus 5.5로 코딩한 브라우저 재현작 Fallout: New York은 조회수 3.5백만 회를 넘겼다. 하지만 ChrisFirst는 Bethesda에서 중단 요구서를 받았다고 알려진 뒤 10월 1일 프로젝트를 접었다."
+        },
+        {
+          "t": "p",
+          "x": "Maurice Heumann은 9월 30일 X에 genAI로 PC판 원작 Modern Warfare 2의 소스 코드를 디컴파일하는 중이라고 올렸다. “현재 17개의 에이전트가 병렬로 작업하고 있어 놀라운 속도로 진척되고 있다”는 글이었다."
+        },
+        {
+          "t": "p",
+          "x": "Activision은 그가 공유한 영상을 지우는 것으로 대응했다. 그 자리에는 “저작권자의 신고에 따라 이 미디어는 비활성화되었습니다”라는 경고만 남았다. 코드를 호스팅하던 것으로 알려진 사이트 링크도 더는 열리지 않는다."
+        }
+      ]
+    },
+    "books/ewc-destructive-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+          "cap": "홀로 선 t-rex 3d 렌더링 일러스트 © 3dMediSphere"
+        },
+        {
+          "t": "p",
+          "x": "EWC는 AI 기술 업계가 유럽의 오래되거나 희귀한 책 수백만 권을 « 파괴적으로 스캔 »하는 관행을 규탄했다. 의사결정자들에게는 작가와 출판사, 독자 편에 서서 목소리를 내 달라고 요구한다."
+        },
+        {
+          "t": "p",
+          "x": "유럽 밖(Non-European)의 거대 기술 기업들은 중고 서점과 고서점에서 적어도 이백만 권에 이르는 책을 사들였다. U.S.의 AI 스캔 공장은 책등을 잘라 낱장을 고속 스캐너에 넣고 남은 책은 버리거나 파쇄해 화장지로 재활용한다. 그렇게 얻은 파일은 대규모 언어 모델 개발에 쓰인다."
+        },
+        {
+          "t": "p",
+          "x": "“희귀한 책이 파괴되고 있다. 이런 책 상당수는 다시는 찾을 수 없고, AI 기술 기업의 디지털 자산으로만 남는다.” EWC 부회장(Vice President) Maïa Bensimon의 말이다. EWC 정책위원 Nina George는 ‘세상의 모든 책을 스캔’하려는 Anthropic의 비밀 프로젝트 ‘Project Panama’를 지목한다."
+        },
+        {
+          "t": "p",
+          "x": "Henna Virkkunen 집행부위원장(Executive Vice-President)은 2026년 9월 16일 답변에서 텍스트·데이터 마이닝 예외는 디지털 저작물에만 적용된다고 밝혔다. 저작권이 있는 책은 아날로그 형태로 적법하게 취득했더라도 디지털화하려면 권리자의 사전 허락을 받아야 한다는 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "EWC는 유럽연합 집행위원회(European Commission)와 유럽의회(European Parliament), 모든 유럽 국가에 이 관행에 반대한다고 분명히 밝히라고 요구한다."
+        }
+      ]
+    },
+    "books/bye-bye-ai-library-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+          "cap": "스마트폰을 쓰는 사람."
+        },
+        {
+          "t": "p",
+          "x": "뉴욕주(New York) 북부의 한 공공도서관이 색다른 기술 지원으로 화제다. 휴대폰과 컴퓨터의 AI 기능을 끄도록 도와준다. 카드 소지자가 약 800명인 North Chatham Free Library가 “Bye Bye AI” 전단을 올리자 작은 마을 바깥 먼 곳에서까지 반응이 쏟아졌다."
+        },
+        {
+          "t": "p",
+          "x": "도서관의 유일한 정규직 사서 Shea Wert에 따르면, 예약 없이 들르면 되는 이 프로그램은 이용자들이 거듭 불만을 털어놓으면서 시작됐다. “Gmail 자동 답장과 자동 완성 때문에 사람들이 정말 답답해한다.”"
+        },
+        {
+          "t": "p",
+          "x": "도서관은 4월에 “AI for seniors” 강좌도 열었다. Wert도 AI 자체를 크게 반대하지는 않는다고 말한다. 도움을 청하러 오는 사람은 대부분 노년층이다."
+        },
+        {
+          "t": "p",
+          "x": "이번 행사는 사서 Hannah Cyrus가 연 AI 도구 끄기 무료 강좌에서 영감을 받았다. Cyrus는 “도서관은 이용자의 기술 수용을 돕는 것만큼이나 기술 거부를 돕는 데에도 맡을 역할이 있다”고 썼다. 그는 “전 세계 수백 명의 사서에게서 발표 슬라이드를 보내 달라는 연락을 받았다”고 한다."
+        }
+      ]
+    },
+    "books/shelf-reading-bots-libraries-ht": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+          "cap": "싱가포르 National Library Board가 운영하는 도서관의 shelf-reading 로봇. (NLB Singapore)"
+        },
+        {
+          "t": "p",
+          "x": "세계 곳곳의 도서관에서 shelf-reading 봇과 AI 목록화가 책 빌리는 방식을 바꿔 놓는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "상하이 Changning District Library에서는 디지털 휴먼 아바타 Xin Ye가 대출 기록을 보고 책을 추천하고 좌석을 잡아 주며 로봇을 시켜 책을 배달한다. Beijing Library의 자동 검색 시스템은 8 million 권이 넘는 장서 가운데 고른 책을 15분 안에 가져다준다. 대만 NLPI는 2023년 생성형 AI(generative-AI) ‘사서’ Xiao-Shu를 도입했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+          "cap": "Beijing Library 내부에는 실내 기후와 조명, 음향을 조절하는 센서 기둥이 서 있다. (Snohetta)"
+        },
+        {
+          "t": "p",
+          "x": "싱가포르 National Library Board 도서관에서는 로봇이 매일 밤 RFID 태그(RFID-tagged)가 붙은 책을 스캔해 두었다가 아침에 잘못 꽂힌 책을 알려 준다. 이걸로 직원들이 해마다 아끼는 업무 시간이 최대 3,500시간이다."
+        },
+        {
+          "t": "p",
+          "x": "추천 알고리즘은 이미 좋아하는 것을 더 보여 줄 뿐이지만 도서관은 원하는 줄도 몰랐던 책을 소개하기도 한다. 핀란드 곳곳의 도서관이 여전히 AI를 두고 고민하는 큰 이유는 개인정보 보호다. 애널리스트 Kashyap Kompella는 “시스템이 더 많이 알수록… 다음에 원하는 것을 더 잘 예측할 수 있다”고 말한다."
+        }
+      ]
+    },
+    "gadgets/ipad-entry-apple-intelligence-leak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
+          "cap": "iPad 11 (2025)"
+        },
+        {
+          "t": "p",
+          "x": "유출된 코드를 보면 곧 나올 iPad 12는 Apple Intelligence를 염두에 두고 하드웨어를 눈에 띄게 끌어올린다. 이 보급형 태블릿에는 A19 칩과 8GB RAM이 들어갈 전망이다."
+        },
+        {
+          "t": "p",
+          "x": "MacRumors 기고자 Aaron Perris가 Apple 코드에서 12세대 모델 항목을 찾아냈는데, 여기에는 Apple이 직접 만든 C1X 셀룰러 모뎀과 N1 무선 네트워킹 칩도 올라 있다. A19는 2025년 3월에 나온 현행 iPad 11의 A16 칩 자리를 잇는다."
+        },
+        {
+          "t": "p",
+          "x": "칩이 바뀌면서 보급형 iPad에도 처음 Apple Intelligence가 들어온다. A16이 이 플랫폼을 지원하지 않아 iPad 11 사용자는 Apple의 생성형 AI 도구도, 이를 바탕으로 한 Siri 기능도 쓰지 못한다. 메모리는 6GB에서 8GB로 늘어나 Apple이 Apple Intelligence 구동에 요구하는 최소 용량을 채운다."
+        },
+        {
+          "t": "p",
+          "x": "C1X는 sub-6GHz 5G 네트워크를 지원하면서 전력 효율이 더 높고, N1은 Wi-Fi 7, Bluetooth 6, Thread 지원을 더한다. iPad 11은 2026년 6월 가격이 오른 뒤 지금 $449부터이고, 후속 모델도 같은 가격이 예상된다. 이번에 찾아낸 코드에 출시일은 없다. iPad 12는 2027년 봄은 지나야 나올 전망이다."
+        }
+      ]
+    },
+    "gadgets/atlas-redesigned-hands-bd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-10-01-at-22.36.04.png",
+          "cap": "Atlas의 새 손."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics의 Atlas가 새 손을 단다. 이 로봇 회사가 공개한 새 손은 드릴을 다루고 한 손으로 골프공 두 개를 움직인다. Boston Dynamics에 따르면 자유도도 13으로 늘어난다."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics가 고급 로봇 Atlas용 새 손을 선보였다. 새 영상에는 드릴 다루기를 비롯한 새 능력이 담겼다. 시연에는 원격 조작자가 거들었지만, 머지않아 가능해질 일을 엿보기에는 충분하다. Boston Dynamics는 Atlas가 훈련받는 대신 실제로 스스로 배우게 하는 방법도 연구 중이다."
+        },
+        {
+          "t": "p",
+          "x": "Atlas는 이미 새 손을 완전히 자율로 쓴다. Boston Dynamics는 Atlas가 한 손으로 골프공 두 개를 다루는 장면으로 이를 보여 준다. Atlas는 새끼손가락 없이 이 동작을 해낸다. 회사 설명으로는 손가락을 하나 더 달면 복잡해지는 만큼 얻는 게 없다. 전력 소비도 늘어난다. 엄지 하나에 손가락 세 개, 그게 전부다."
+        },
+        {
+          "t": "p",
+          "x": "복잡하기로는 이미 소형 로봇에 맞먹는다. Boston Dynamics의 기계 엔지니어 Dylan Thrush는 개선된 Atlas의 손이 이제 13자유도를 갖췄다고 말한다. 이전 Atlas는 7자유도에 그쳤다. 회사가 Atlas를 자동차 조립에 투입할 계획이라 늘어난 자유도는 쓸모가 있을 것이다. 새 손은 보통 사람 손보다 조금 더 크고 힘도 세다."
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics는 유연성이 늘어난 새 손이 기계 부품을 망가뜨릴 만한 동작을 더 잘 피하리라 기대한다."
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        }
+      ]
+    },
+    "science/murdoch-enzyme-plastic-ml-screen": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "전 세계 데이터베이스에는 플라스틱 같은 오염물질을 분해할 잠재력을 지닌 효소 정보가 수없이 쌓여 있다. Murdoch University의 Bioplastics Innovation Hub 과학자들은 머신러닝 기술과 생화학을 엮어, 이 가운데 플라스틱과 그 밖의 유해 오염물질을 분해할 만한 효소를 가려낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Ph.D. 과정생 Joseph Boctor는 Nature Reviews Earth & Environment에 실린 최근 리뷰에서, 오염물질마다 알맞은 생물학적 해법을 찾을 열쇠가 이미 있는 데이터 속에 숨어 있을 공산이 크다고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "“효소를 지나치게 설계하는 것은 나쁜 출발점이라고 강하게 주장한다. 이런 오염물질에 대한 잠재적 해법을 이미 숱하게 만들어 낸 수백만 년의 진화를 외면하는 일이기 때문이다”라고 Boctor는 말했다."
+        },
+        {
+          "t": "p",
+          "x": "이 머신러닝 파이프라인은 이미 특성이 밝혀진 효소에서 얻은 지식으로, 효소 구조가 표적 오염물질과 어떻게 맞물려 그것을 분해할지 예측한다. 연구팀은 이제 찾아낸 효소를 생물학적 정화에 쓰려고 시험하고 검증하며 규모를 키우는 중이다."
+        }
+      ]
+    },
+    "science/uf-ai-health-questions-anxiety": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "University of Florida 연구자 Yusen Zhai가 이끈 새 연구를 보면, 생성형 인공지능에 건강 질문을 던지는 청년은 그렇지 않은 청년보다 임상적으로 유의한 불안·우울 선별검사에서 양성이 나올 가능성이 높았다. 연구는 Journal of Counseling & Development에 실렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "연구진은 청년 100,000명 가까이의 데이터를 분석했다. ChatGPT나 Claude 같은 생성형 AI 도구에 건강을 물은 사람은 불안과 우울 선별검사 양성 확률이 각각 52%, 46% 더 높았다. 다만 이는 연관성일 뿐, AI 사용이 불안이나 우울을 부른다는 증거는 아니다."
+        },
+        {
+          "t": "p",
+          "x": "이런 흐름을 떠올려 볼 수 있다. 안심하려고 AI에 물었는데, 답을 받고 나니 질문이 더 늘어난다. “이런 반복 순환은 반추, 건강 불안, 그 밖의 고통을 강화할 수 있다”고 Zhai는 말했다."
+        },
+        {
+          "t": "p",
+          "x": "데이터를 2023년부터 2024년까지 모았으니 이번 결과는 초기 신호에 가깝다. “문제는 생성형 AI 자체가 아니다”라고 Zhai는 말했다. “‘어떻게’의 문제, 즉 사람들이 그것을 어떻게 쓰느냐의 문제다.”"
+        }
+      ]
+    },
+    "science/instructmesh-mit-3d-repair": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
+          "cap": "InstructMesh AI 도구로 머그컵 같은 물체의 3D 디자인을 만든 뒤, 3D 프린팅 전에 다듬고 싶은 부분을 강조 표시할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "AI 모델은 물체의 겉모습은 알아도 작동 원리는 몰라서 쓰기 힘든 디자인을 내놓곤 한다. 만든 모델은 고치기도 어려운데, 3D 디자인이 처음인 사용자라면 더하다."
+        },
+        {
+          "t": "p",
+          "x": "MIT CSAIL, Google, Northeastern University 연구진이 개발한 InstructMesh는 프롬프트로 3D 디자인을 만들고, 3D 프린팅 전에 손보고 싶은 부분을 사용자가 강조 표시하게 한다. 텍스트·이미지 프롬프트로 3D 모델을 만드는 Microsoft의 TRELLIS 시스템에 LLM GPT-4를 붙였다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 용이 감싼 머그컵, 조개껍데기 모양 호루라기, 나비 날개 안경, 데님처럼 보이는 무릎 보호대, 모터를 숨긴 새우 모양 ‘브리슬 봇(bristle bot)’을 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "TRELLIS로 인기 Thingiverse 모델을 재현했더니 80퍼센트 가까이에서 구조적 결함이 나왔다. 전문가 검토 결과, 초보자들은 InstructMesh에서 약 90퍼센트의 경우 이런 문제를 찾아내 고쳤다."
+        },
+        {
+          "t": "p",
+          "x": "“보는 대로 얻었고, 말하자면 물건들이 광고한 대로 작동했다”고 제1저자 Faraz Faruqi는 말했다. 지금 Google에 있는 Faruqi는 InstructMesh를 AR 플랫폼으로 옮겨 갈 수도 있다. 이 연구는 11월 ACM Symposium on User Interface Software and Technology에서 발표된다."
+        }
+      ]
+    },
+    "science/microsoft-quine-biology-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft Research가 생물학의 여러 경계를 넘나들도록 설계한 연구 프로젝트 Quine을 내놓았다. Quine은 생물학 세계 모델에, 과학 도구·문헌·습식 실험실(wet lab)·그것을 쓰는 연구자를 잇는 하네스를 결합했다."
+        },
+        {
+          "t": "video",
+          "yt": "ZMJHGeR6GPU"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft가 말하는 세계 모델은 생물학적 시스템의 상태를 표현하고, 개입하면 그 상태가 어떻게 바뀔지 예측하고, 그 결과를 추론한다. 서열, 구조, 기능, 세포 상태, 이미징 데이터를 아우르는 공유 표현을 학습하지만, 실험을 대신하지는 않는다."
+        },
+        {
+          "t": "p",
+          "x": "Broad Institute와 함께한 췌장암 연구에서 Quine은 수천 개의 화합물이 종양 세포 상태를 얼마나 바꿀지 예측해 우선순위를 매겼다. 순위가 가장 높은 화합물들이 wet-lab 실험에서 의도한 전환을 가장 크게 일으켰다. 이 과정은 단 한 주말 만에 끝났다."
+        },
+        {
+          "t": "p",
+          "x": "초기에는 Quine Fellows 프로그램과 일부 연구 협력에만 문을 열고, 안전장치를 갖춘 채 단계적으로 넓혀 간다."
+        }
+      ]
+    },
+    "politics/kyoto-vision-science-declaration-ostp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "백악관 발표에 따르면 교토에서 열린 제23회 과학기술과 사회(STS) 포럼 연차총회(23rd Annual Meeting)에서 미국과 16개국이 '과학 황금시대를 위한 교토 비전(Kyoto Vision for a Golden Age of Science)'을 지지했다. 과학 생태계를 새롭게 다지고 강화하자는 공동 선언이다."
+        },
+        {
+          "t": "p",
+          "x": "마이클 크라치오스 백악관 과학기술정책실장이 주도한 선언은 과학에 쓰이는 초지능 덕분에 대규모 자율 실험이 가능해진다고 본다. 크라치오스는 \"과학에 적용된 초지능은 연구를 민주화하는 역사상 가장 큰 힘이 될 것\"이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "선언은 다양한 자금 지원 수단과 새 기관 모델로 발견의 제도를 손보자고 촉구한다. 연구자의 SI 도구·데이터·컴퓨팅·실험 시설 접근을 넓히겠다는 약속과 함께 과학용 초지능을 활용하고, 과학계 전반에서 인재를 기르자는 내용도 담았다."
+        },
+        {
+          "t": "p",
+          "x": "지지국: 아르헨티나, 불가리아, 칠레, 키프로스, 독일, 그리스, 인도네시아, 이탈리아, 일본, 카자흐스탄, 대한민국, 뉴질랜드, 폴란드, 싱가포르, 아랍에미리트, 영국, 미국."
+        }
+      ]
+    },
+    "politics/jay-clayton-ai-czar-super-intelligence-force": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+          "cap": "2026년 7월 15일 상원 정보위원회 인준 청문회에 출석한 제이 클레이턴. Mariam Zuhaib/AP"
+        },
+        {
+          "t": "p",
+          "x": "트럼프 대통령은 일요일, 제이 클레이턴 국가정보장을 새 백악관 AI 차르로 앉힌다고 밝혔다. Truth Social에는 클레이턴이 백악관의 새 \"초지능군(Super Intelligence Force)\"을 이끌고, 이 조직이 \"소비자, 공익 단체, 종교 단체, 핵심 기반시설 제공자, 초지능 기업과 연방정부 간의 관계를 조율\"하게 된다고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "트럼프에 따르면 이 그룹에는 앤드루 퍼거슨 FTC 위원장, 스콧 쿠포 OPM 처장, 에밀 마이클 국방부 연구·공학 차관도 들어간다. 클레이턴은 뉴욕 남부지구 연방검사장(U.S. Attorney)과 SEC 위원장을 거쳤다."
+        },
+        {
+          "t": "p",
+          "x": "발표는 화요일 백악관 회의 뒤에 나왔다. 트럼프는 그 회의가 끝난 뒤 여러 AI 기업이 자발적 협약에 서명했다고 말했다. AI를 폭넓게 규제하는 연방법은 아직 의회를 통과하지 못했다. 클레이턴은 지난달 초지능을 \"국가 안보 문제\"라고 부르며 \"일시 중단\" 요구에 반대했다."
+        }
+      ]
+    },
+    "politics/qwen-censorship-research-cbs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
+        },
+        {
+          "t": "p",
+          "x": "이스라엘 사이버보안 스타트업 Hirundo의 연구에 따르면 Qwen에는 중국 친화적(China-friendly) 서사가 심겨 있고 검열 기능도 프로그래밍돼 있다. Alibaba가 무료로 내놓은 이 모델은 30억(3 billion) 회 넘게 다운로드됐다. Qwen은 2019년 홍콩 시위 진압이나 1989년 톈안먼 광장 사건을 인정하지 않으며 곰돌이 푸(Winnie the Pooh) 얘기도 하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "CBS News가 위구르족 강제노동 수용소에 관해 묻자 Qwen은 그런 수용소가 존재하지 않는다고 답했다. Alibaba는 논평 요청에 응하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Uber Eats와 Airbnb 등 U.S. 기업도 Qwen을 쓴다. OpenRouter 데이터에 따르면 중국 오픈웨이트(open-weight) 모델의 전 세계 사용 비중은 2024년 말 2% 미만에서 6월 45% 이상으로 늘었다. Booz Allen이 확인해 보니, 프로젝트가 U.S. 정부용이라고 알려 주면 Qwen은 보안 취약점이 130% 더 많은 코드를 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "Hirundo는 15개 주제, 500개 프롬프트로 Qwen을 시험했다. 벤 루리아 CEO는 \"원래 Qwen은 89.8%의 경우 검열, 선전에 맞춘 프레이밍, 정치적 편향을 보였다\"고 말했다. Hirundo가 손본 '서구화(Westernized)' 버전에서는 이 비율이 2.8%였다."
+        }
+      ]
+    },
+    "politics/arizona-ai-victim-video-sentence-vacated": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "애리조나 남성에게 내려진 징역 10년의 과실치사 형이 파기됐다. 형 선고 전에 숨진 피해자가 판사에게 말하는 모습을 담은 AI 생성(AI-generated) 영상을 상영한 사건이다. 애리조나 항소법원은 2021년 크리스토퍼 펠키 총격 사망 사건의 가브리엘 폴 오르카시타스에게 형을 다시 선고해야 한다고 결론 내렸다."
+        },
+        {
+          "t": "p",
+          "x": "펠키의 가족은 2025년 5월 AI로 그의 모습을 재현한 영상을 만들었는데, U.S. 법원에서 처음으로 알려진 사례다. 영상 속 AI는 \"다른 삶에서라면 우리는 아마 친구가 될 수 있었을 것\"이라고 했다. 선고 판사는 \"그 AI가 정말 좋았다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "판사 세 명으로 꾸려진 재판부는 AI 영상을 허용한 것이 \"근본적 오류에 해당한다\"고 쓰며 \"기록상 AI 영상이 양형 판단에 정확히 어떻게 반영됐는지는 드러나지 않지만, 영향을 미친 것은 의심의 여지가 없다\"고 덧붙였다. 유죄 판결은 그대로 두되 형을 파기하고 재선고를 위해 사건을 돌려보냈으며, 재선고 일정은 아직 잡히지 않았다."
+        }
+      ]
+    },
+    "design/formas-cartesian-agentic-modeller": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Formas.AI가 건축, 인테리어, 가구, 제품 디자인의 초기 단계에 쓰는 AI 지원(AI-assisted) 플랫폼 Cartesian을 공개했다. AI가 만든(AI-generated) 콘셉트를 편집할 수 있으면서 물리적으로도 의미 있는 형상으로 바꾸겠다는 구상이다. 디자이너는 사진, 스케치, 글로 쓴 브리프, 기존 모델에서 출발해 대화로 구성 요소를 하나씩 다듬는다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“그 뒤에 있는 기술은 엄청나게 복잡할 수 있다. 경험은 그래서는 안 된다.” 공동 창업자이자 CEO인 Yiping Goh의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "중심에는 AI 에이전트용으로 따로 만든 CAD 커널 레이어와 기하 툴킷이 있다. 에이전트는 이것으로 솔리드와 자유곡면을 만들고 형상을 프로그래밍 방식으로 검사하고 고친다. 모델은 이름 붙은 구성 요소, 레이어, 어셈블리 단위로 정리된다. 공동 창업자 Carlos Bañón은 이런 관계가 “형상에 의미를 부여하고, 모델이 바뀌어도 설계 의도를 지키도록 돕는다”고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "여러 AI 모델과 전문 에이전트는 오케스트레이션 시스템이 한데 조율한다. OpenAI의 GPT-6 Astra와 Claude Opus 5.5도 그 가운데 있다. 에이전트는 일조와 그림자, 실시간 바람 분석을 요청해 모델링 판단에 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "Cartesian은 Rhinoceros, SketchUp과 실시간으로 연동되고 DXF·IFC 가져오기와 내보내기, STEP·STL 내보내기를 지원한다. 데스크톱 버전은 macOS와 Windows에 차례로 풀리며, 2026년 10월 31일부터 이용 범위를 넓힐 예정이다."
+        }
+      ]
+    },
+    "music/isplus-suno-vocal-chart-top": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+        },
+        {
+          "t": "p",
+          "x": "창작자 머무르의 ‘꿈꾸던 어른이 되었나요?’는 생성형 인공지능(AI)을 활용해 제작된 음원이다. AI 제작 음원 표기 의무 등의 제도가 미비한 가운데 AI 곡이 차트 상위권을 치고 올라오자 관련 논의의 필요성이 다시 대두되고 있다."
+        },
+        {
+          "t": "p",
+          "x": "이 곡은 수노(Suno) AI 기술을 통해 생성됐고, 기획·작사 및 전체 프로듀싱 디렉션은 머무르가 직접 진행했다. 머무르는 “저에게 AI는 현대적인 악기이자, 제 상상을 함께 현실로 옮겨주는 파트너”라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "6월 23일 공개된 곡은 릴스·쇼츠 배경음악으로 쓰이며 유튜브에서 먼저 관심을 모았고, 9월 2일 유튜브 일간 인기 뮤직비디오 차트 1위를 기록했다. 한 달 만인 2일 멜론 톱 100 기준 29위까지 올라섰고, 벅스 실시간 차트에서는 1위에 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "음원차트 댓글에는 “AI 차트를 따로 만들거나 AI 음원 표기 의무화가 필요하다”는 의견도 나온다. 정민재 대중음악 평론가는 “AI 차트를 별도로 신설하는 등의 논의가 되어야 할 것”이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "한 음원 플랫폼 관계자는 “신탁단체나 정부에서 AI 창작물을 어떻게 분류할 것인가에 대한 기준이 먼저 성립된 뒤에 민간기업이 따를 수 있는 상황”이라고 전했다. 텐센트뮤직에 따르면 플랫폼 신규 등록 음악 중 AI 음악 비중은 2023년 5.2%에서 올해 상반기 44.1%로 늘었다."
+        }
+      ]
+    },
+    "movies/mformedia-arcana-labs-ai-pact": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+          "cap": "MForMedia"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: Dubai의 MForMedia가 Arcana Labs와 계약을 맺고 자사 제작에 AI 워크플로를 들인다. 두 회사가 맺은 전략적 파트너십은 Arcana의 소프트웨어를 MForMedia의 제작 워크플로와 Arabic-language(아랍어) 공동 제작, 직원 교육에 접목하는 내용이다. 최종 목표는 중동·북아프리카(Middle East and North Africa, MENA) 전역에 AI-native 영화·TV 제작 역량을 갖추는 일이다."
+        },
+        {
+          "t": "p",
+          "x": "MForMedia와 Arcana Labs의 제작 부문 Arcana Studios는 MENA 관객용 오리지널 콘텐츠도 함께 만든다. 제목을 밝히지 않은 작품 여럿이 이미 개발 단계에 있다. MForMedia 직원들은 이달 AI-native 제작을 다루는 닷새(five-day) 교육 워크숍에도 참여한다."
+        },
+        {
+          "t": "p",
+          "x": "Arcana Labs CEO Jonathan Yunger는 “이 모델로 우리는 첫날부터 지역 스튜디오 안에 AI-native 파이프라인을 심고 있다”며 “이제 콘텐츠를 Dubai에서, Arabic(아랍어)으로, 그 어느 때보다 빠르고 비용 효율적으로 만들 수 있어 Arabic-language 제작이 지역 안에 머물게 된다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "MForMedia는 공동 창업자이자 Managing Partners인 Ralph Matar와 Khalil Homeissy가 이끌며, Carpool Karaoke와 The X Factor의 Arabic(아랍어)판을 만든다. 얼마 전에는 MENA TV 업계 베테랑 Ziad Kebbi를 Managing Director로 영입하고 AI 제작, 오리지널 콘텐츠, IP 소유 쪽으로 방향을 틀겠다고 밝혔다. 이번 소식은 그 직후에 나왔다."
+        }
+      ]
+    },
+    "games/capcom-re-engine-ai-workflows": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Capcom의 Pragmata는 AI의 공포를 정면으로 다루지만, 정작 스튜디오는 이 기술을 그리 나쁘게 보지 않는 모양이다. Capcom Open Conference RE: 2026에서 프로그래머 Satoshi Ishida가 “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”(REX 프로젝트의 전망과 미래, 차세대를 향해 더 진화하는 RE Engine)이라는 긴 제목으로 발표에 나섰다. Resident Evil 규모의 게임을 만드는 스튜디오의 고민을 짚는 자리였다. 이 정도 규모면 단순한 작업에도 시간이 엄청나게 든다. Ishida가 내놓은 답은 “개발 워크플로에 AI 기술을 성공적으로 통합하는 것”이다."
+        },
+        {
+          "t": "p",
+          "x": "Capcom은 앞서 AI 생성 에셋(AI-generated assets)을 게임에 넣지 않고, 개발 효율을 높이는 데 이 기술을 쓰겠다고 밝혔다. Ishida의 발언도 그 방침과 맞닿아 있지만 더 넓게 쓸 여지는 분명히 남겨 뒀다. IGN의 번역에 따르면 그는 RE Engine을 천천히, 단계적으로 “AI 생성 게임 엔진(AI-generation game engine)”으로 바꿔 “AI와 함께 게임을 만드는 미래”로 가겠다는 계획을 내놓았다."
+        }
+      ]
+    },
+    "books/hongkong-comics-ai-heyday": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Q8VYqGtRM1A"
+        },
+        {
+          "t": "p",
+          "x": "한창때 홍콩(Hong Kong)은 만화 강국이었다. 업계가 호황이던 1980년대에는 해마다 약 50 million 부가 팔렸다. 홍콩 만화가 mid-1990s부터 내리막을 걸었다는 데에는 이견이 별로 없다."
+        },
+        {
+          "t": "p",
+          "x": "“이제는 … 몇천 권만 팔아도 이미 아주 좋은 수치다.” 구룡(Kowloon)에서 서점 Epic One을 운영하는 Dicky Lam의 말이다. “홍콩 만화 시장은 90% 줄었다.”"
+        },
+        {
+          "t": "p",
+          "x": "작가 Jerry Cho는 『The Life After Life』로 올해 Japan International Manga Award 동상을 받았다. 그런데 이 작품은 3,000부밖에 안 팔렸다. Cho와 정규직 직원 두 명, 외주 작업자 다섯 명이 여섯 달 걸려 만든 작품이다."
+        },
+        {
+          "t": "img",
+          "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+          "cap": "홍콩 만화가 Jerry Cho. (Image: CNA)"
+        },
+        {
+          "t": "p",
+          "x": "Cho는 제작 초반에 AI를 자료 조사와 시각화 도구로 쓴다. 캐릭터 이미지를 넣어 여러 옷을 입혀 보고 나서 팀이 장면을 그리는 식이다. AI 덕분에 팀 제작 시간이 약 10 per cent 줄었다고 그는 추산한다. 다만 완성된 만화에 AI 생성(AI-generated) 이미지를 쓰는 데는 선을 긋는다. “그렇다. 예술은 고유하기 때문이다.”"
+        },
+        {
+          "t": "p",
+          "x": "Hong Kong Comics and Animation Federation의 Alan Wan은 작가들이 자기 만화를 AI-generated 애니메이션으로 바꿀 수 있다고 말한다. “그들은 만화가에 그치지 않고 감독이 될 수도 있다.” 저작권과 저작자 문제는 아직 풀리지 않았다."
+        }
+      ]
+    },
+    "gadgets/ray-ban-meta-audio-no-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Ray-Ban-Meta-Audio---Lifestyle3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio는 카메라를 빼고 더 가볍고 날렵한 디자인을 택했다. 사생활 침해 논란이 커지는 만큼 사회적으로도 더 쉽게 받아들여질 듯하다."
+        },
+        {
+          "t": "p",
+          "x": "Meta Connect 2026에서 공개된 Ray-Ban Meta Audio는 Meta가 처음 내놓은 카메라 없는 스마트 글라스다. 나머지 기능은 그대로다. Meta AI에 질문하고 음악과 오디오북, 팟캐스트를 듣고 통화도 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Clubmaster3.png"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Burbank3.png"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio는 Burbank와 Clubmaster 두 가지 스타일로 나온다. Burbank는 카메라와 LED만 빠졌을 뿐 흔한 Wayfarer형 Ray-Ban Meta 글라스와 꽤 닮았다. Clubmaster는 Meta의 다른 스마트 글라스와 전혀 다르게 생겼다."
+        },
+        {
+          "t": "p",
+          "x": "Clubmaster Ray-Ban Meta Audio는 표준 사이즈 기준 43그램으로, 지금까지 나온 Meta 스마트 글라스 가운데 가장 가볍다. Burbank가 47그램으로 뒤를 잇는다."
+        },
+        {
+          "t": "p",
+          "x": "카메라 달린 스마트 글라스를 향한 대중의 반발이 널리 퍼진 뒤에 나온 제품이다. Meta는 녹화 LED를 조작하기 더 어렵게 하는 펌웨어 업데이트를 내놓는 중이다. 그래도 부정행위와 엮인다는 인식이 커지면서 카메라 달린 스마트 글라스를 아예 외면하는 잠재 구매자도 생길 것이다. Ray-Ban Meta Audio가 노릴 만한 시장이 바로 여기다."
+        },
+        {
+          "t": "p",
+          "x": "다만 Meta는 UploadVR에 Ray-Ban Meta Audio가 수년간 개발해 온 제품이고, 대중의 반발 때문에 만든 게 아니라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio는 $349에 사전 주문을 받으며 10월 13일부터 배송된다."
+        }
+      ]
+    },
+    "science/york-illusion-ai-vision-errors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "우리 눈은 사물이 어디 있는지 늘 정확히 알려 주지는 않는다. 단순한 결함이라기보다 생물학적 시각이 원래 그렇게 작동하는 것일 수 있다. York University 연구진은 새 연구에서 흔한 착시 하나를 들어 이렇게 묻는다. 인공지능이 우리처럼 보게 만들려면, 체계적인 지각 “실수”도 일부 똑같이 저질러야 하는가?"
+        },
+        {
+          "t": "p",
+          "x": "한 방향으로 꾸준히 움직이는 대상을 보다가 곧바로 멈춰 있는 물체를 보면, 그 물체가 반대쪽으로 살짝 밀려난 듯 보이기도 한다. 운동 잔효(motion aftereffect)라는 이 착시로 지각 밑에서 돌아가는 계산을 엿볼 수 있다. 연구 결과는 Current Biology에 실렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
+          "cap": "Credit: Orhan Pergel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "지금의 AI 시각 시스템은 사물 위치를 정확히 짚을 때가 많다. 하지만 바로 앞서 본 장면이 그 답을 바꾸는 방식은 대체로 재현하지 못한다. 연구진은 영장류 시각 피질에서 이에 대응하는 변화를 확인했으나, 시험한 AI 모델에서는 찾지 못했다. 동적 시각 모델을 평가할 새 벤치마크도 함께 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "“인간과 함께 일하고 인간과 더 잘 맞는 방식으로 세상을 이해하는 AI를 원한다면, 정답을 맞히는지에만 집중해서는 안 된다”고 책임저자 Kohitij Kar는 말했다."
+        }
+      ]
+    },
+    "politics/xai-minnesota-nudify-ban-8th-circuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+          "cap": "Grok 앱과 로고가 뜬 iPhone 화면. Anna Barclay | Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "일론 머스크의 xAI가 금요일 미국(US) 연방항소법원을 설득해, 미네소타주가 미국 최초로 도입한 AI 생성(AI-generated) 가짜 누드 이미지 금지법 시행을 멈춰 세웠다. 이 기술·소셜미디어 기업은 법이 위헌이라며 소송을 이어 가는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "St. Louis에 있는 제8순회항소법원(St. Louis-based 8th US Circuit Court of Appeals)은 명령을 내려 xAI의 가처분 신청을 받아들이고 법의 효력을 당분간 정지했다. 지난달 하급심 판사는 법 시행을 막아 달라는 머스크 측 요청을 기각한 바 있다."
+        },
+        {
+          "t": "p",
+          "x": "8월 1일 시행된 미네소타의 반(反)\"누드화\"법은 웹사이트 운영자나 소프트웨어 개발자 등이 이용자에게 식별 가능한 인물의 원본 사진에 없던 은밀한 신체 부위를 사실적으로 그린 이미지를 만들게 해 주는 것을 금지한다. xAI는 이 법이 미국 헌법(US Constitution)이 보호하는 표현의 자유를 제한한다고 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "미국 연방지방법원(US District)의 도너번 프랭크 판사는 지난달, xAI가 소송 기간에 회복할 수 없는 손해를 입는다는 걸 입증하지 못했고 긴급 구제도 너무 늦게 신청했다고 판단했다. xAI는 항소심에서 이를 반박하며 자사 Grok Imagine 도구에는 실존 인물의 누드화·성적 이미지 생성을 막는 \"엄격한 보호 장치\"가 있다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "미네소타주는 항소법원에 법 시행을 막지 말아 달라고 요청했다. 주 정부 설명으로는 \"Grok Imagine 같은 AI 제품이 만들어 내는 엄청난 양의 아동 성착취물\"에 대응하려고 도입한 법이다."
+        }
+      ]
     }
   }
 }

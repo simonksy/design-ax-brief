@@ -1,227 +1,143 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "games",
   "cards": [
     {
-      "id": "gibiz-hr-summit-genai-workload",
+      "id": "capcom-re-engine-ai-workflows",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "생성형 AI가 게임사\n업무를 늘리나",
-      "body": "GamesIndustry.biz HR 회의서 genAI 이득을 불안·유출이 깎았다.",
-      "mini_headline": "GenAI, 스튜디오 업무 늘리나",
+      "headline": "Capcom, AI와 함께\n게임 만드는 미래 그린다",
+      "body": "Capcom이 RE Engine 발표에서 개발 공정에 AI를 들이겠다고 밝혔다.",
+      "mini_headline": "Capcom, RE Engine에 AI 준비",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: GamesIndustry.biz"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
           },
           {
             "t": "p",
-            "x": "10월 1일 열린 GamesIndustry.biz HR Summit에서 생성형 AI는 몇 번이고 화제에 올랐다. 코딩이 빨라지고 단순 반복 업무가 자동화된다는 의견도 나왔지만, 만병통치약과는 거리가 멀고 오히려 직장에 문제를 만든다는 시각이 대체적이었다. 민감한 데이터 우려, 커지는 직원 불안, 늘어나는 HR 업무 같은 문제다."
+            "x": "Capcom의 Pragmata는 AI의 공포를 정면으로 다루지만, 정작 스튜디오는 이 기술을 그리 나쁘게 보지 않는 모양이다. Capcom Open Conference RE: 2026에서 프로그래머 Satoshi Ishida가 “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”(REX 프로젝트의 전망과 미래, 차세대를 향해 더 진화하는 RE Engine)이라는 긴 제목으로 발표에 나섰다. Resident Evil 규모의 게임을 만드는 스튜디오의 고민을 짚는 자리였다. 이 정도 규모면 단순한 작업에도 시간이 엄청나게 든다. Ishida가 내놓은 답은 “개발 워크플로에 AI 기술을 성공적으로 통합하는 것”이다."
           },
           {
             "t": "p",
-            "x": "참석자 회사 대부분이 이제 AI 정책을 두고 있지만, 변화가 워낙 빨라 계속 고쳐 써야 한다. 직원이 NDA 자료를 개인 ChatGPT 계정에 붙여 넣어도 거의 막을 길이 없다고 리더들은 털어놨다. 한 참석자는 \"AI가 재미있는 걸 만드는 건 본 적이 없다\"고 했고, 다른 참석자는 \"쓰레기를 더 빨리 만들 수 있다\"고 꼬집었다."
-          },
-          {
-            "t": "img",
-            "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-            "cap": "GamesIndustry.biz HR Summit은 London의 The Royal Institution에서 열렸다 | 이미지 출처: GamesIndustry.biz"
-          },
-          {
-            "t": "p",
-            "x": "규칙을 강제하지 않으면 혼란이 생긴다. Gemini-generated 셰이더 코드가 스튜디오 규칙을 어겨 빌드를 되돌린 일이 있었고, 손가락이 더 달린 외주 AI 아트는 커뮤니티의 반발을 샀다. 업무 과정이 암묵지에 기대다 보니 워크플로 시범 도입이 무산되는 일도 잦다."
-          },
-          {
-            "t": "p",
-            "x": "HR 팀은 부정확한 내용투성이인 긴 AI-written 고충 신고서까지 떠안는다. 한 참석자는 \"꽤 자주 오히려 할 일이 늘었다\"며 AI가 질문에 답할 수는 있어도 \"사람을 읽지는 못한다\"고 덧붙였다."
+            "x": "Capcom은 앞서 AI 생성 에셋(AI-generated assets)을 게임에 넣지 않고, 개발 효율을 높이는 데 이 기술을 쓰겠다고 밝혔다. Ishida의 발언도 그 방침과 맞닿아 있지만 더 넓게 쓸 여지는 분명히 남겨 뒀다. IGN의 번역에 따르면 그는 RE Engine을 천천히, 단계적으로 “AI 생성 게임 엔진(AI-generation game engine)”으로 바꿔 “AI와 함께 게임을 만드는 미래”로 가겠다는 계획을 내놓았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Generative AI may be adding\nwork at game studios",
-          "body": "At the GamesIndustry.biz HR Summit, attendees said genAI gains are offset by staff anxiety and data-leak risks.",
-          "mini_headline": "GenAI may add\nstudio workload",
+          "headline": "Capcom plans a future of\nmaking games with AI",
+          "body": "Capcom used an RE Engine presentation to lay out plans for bringing AI into its game development workflows.",
+          "mini_headline": "Capcom readies AI\nfor RE Engine",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: GamesIndustry.biz"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "At the GamesIndustry.biz HR Summit on October 1, generative AI came up again and again. Some pointed to AI speeding up coding or automating drudge work, but the general view was that it falls far short of a miracle cure and is causing workplace problems: worries about sensitive data, rising employee anxiety, and more work for HR."
+                "x": "Capcom’s Pragmata might be all about the horrors of AI, but in practice the studio doesn’t seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.” During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is “successfully integrating AI technology into development workflows.”"
               },
               {
                 "t": "p",
-                "x": "Most attendees' companies now have an AI policy, but the speed of change forces constant rewrites. Leaders said they have little control over staff pasting NDA material into personal ChatGPT accounts. \"I haven't seen AI create anything fun,\" one said; \"You can make crap quicker,\" quipped another."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "The GamesIndustry.biz HR Summit took place at The Royal Institution in London | Image credit: GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "Without enforcement, chaos follows: Gemini-generated shader code that broke studio rules led to a reverted build, and outsourced AI art with extra fingers sparked a community backlash. Workflow pilots often collapse because processes rely on tacit knowledge."
-              },
-              {
-                "t": "p",
-                "x": "HR teams also face lengthy AI-written grievance letters full of inaccurate detail. \"Quite often it's given me more to do,\" one attendee said, adding that AI can answer questions but \"can't read the person.\""
+                "x": "Capcom has said previously that it will not use AI-generated assets in its games, and instead would focus on using the tech to make development more efficient. Ishida’s comments seem to lineup, though definitely seem to leave the door open to more extensive use. He laid out a plan to turn RE Engine slowly, and incrementally, into an “AI-generation game engine” building towards a “a future where we create games together with AI,” according to IGN’s translation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "생성형 AI가 게임사\n업무를 늘리나",
-          "body": "GamesIndustry.biz HR 회의서 genAI 이득을 불안·유출이 깎았다.",
-          "mini_headline": "GenAI, 스튜디오 업무 늘리나",
+          "headline": "Capcom, AI와 함께\n게임 만드는 미래 그린다",
+          "body": "Capcom이 RE Engine 발표에서 개발 공정에 AI를 들이겠다고 밝혔다.",
+          "mini_headline": "Capcom, RE Engine에 AI 준비",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: GamesIndustry.biz"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "10월 1일 열린 GamesIndustry.biz HR Summit에서 생성형 AI는 몇 번이고 화제에 올랐다. 코딩이 빨라지고 단순 반복 업무가 자동화된다는 의견도 나왔지만, 만병통치약과는 거리가 멀고 오히려 직장에 문제를 만든다는 시각이 대체적이었다. 민감한 데이터 우려, 커지는 직원 불안, 늘어나는 HR 업무 같은 문제다."
+                "x": "Capcom의 Pragmata는 AI의 공포를 정면으로 다루지만, 정작 스튜디오는 이 기술을 그리 나쁘게 보지 않는 모양이다. Capcom Open Conference RE: 2026에서 프로그래머 Satoshi Ishida가 “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”(REX 프로젝트의 전망과 미래, 차세대를 향해 더 진화하는 RE Engine)이라는 긴 제목으로 발표에 나섰다. Resident Evil 규모의 게임을 만드는 스튜디오의 고민을 짚는 자리였다. 이 정도 규모면 단순한 작업에도 시간이 엄청나게 든다. Ishida가 내놓은 답은 “개발 워크플로에 AI 기술을 성공적으로 통합하는 것”이다."
               },
               {
                 "t": "p",
-                "x": "참석자 회사 대부분이 이제 AI 정책을 두고 있지만, 변화가 워낙 빨라 계속 고쳐 써야 한다. 직원이 NDA 자료를 개인 ChatGPT 계정에 붙여 넣어도 거의 막을 길이 없다고 리더들은 털어놨다. 한 참석자는 \"AI가 재미있는 걸 만드는 건 본 적이 없다\"고 했고, 다른 참석자는 \"쓰레기를 더 빨리 만들 수 있다\"고 꼬집었다."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "GamesIndustry.biz HR Summit은 London의 The Royal Institution에서 열렸다 | 이미지 출처: GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "규칙을 강제하지 않으면 혼란이 생긴다. Gemini-generated 셰이더 코드가 스튜디오 규칙을 어겨 빌드를 되돌린 일이 있었고, 손가락이 더 달린 외주 AI 아트는 커뮤니티의 반발을 샀다. 업무 과정이 암묵지에 기대다 보니 워크플로 시범 도입이 무산되는 일도 잦다."
-              },
-              {
-                "t": "p",
-                "x": "HR 팀은 부정확한 내용투성이인 긴 AI-written 고충 신고서까지 떠안는다. 한 참석자는 \"꽤 자주 오히려 할 일이 늘었다\"며 AI가 질문에 답할 수는 있어도 \"사람을 읽지는 못한다\"고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "生成式AI或在增加\n游戏工作室的工作量",
-          "body": "GamesIndustry.biz HR峰会上，与会者称genAI收益被焦虑与泄密风险抵消。",
-          "mini_headline": "GenAI或加重工作室负担",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "在10月1日举行的GamesIndustry.biz HR Summit上，生成式AI一再成为话题。有人指出AI能加快编程速度或自动处理繁琐工作，但普遍看法是它远非灵丹妙药，反而正在给职场带来问题：对敏感数据的担忧、员工焦虑加剧，以及HR工作量增加。"
-              },
-              {
-                "t": "p",
-                "x": "多数与会者所在的公司如今都有AI政策，但变化太快，政策不得不一改再改。管理者们表示，他们几乎无法阻止员工把NDA材料粘贴进个人ChatGPT账户。一位与会者说：“我还没见过AI创造出什么有趣的东西。”另一位则调侃：“你可以更快地做出垃圾。”"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "GamesIndustry.biz HR Summit在London的The Royal Institution举行 | 图片来源：GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "缺乏执行就会出乱子：违反工作室规定的Gemini-generated着色器代码导致构建被回滚，外包的AI美术图多出手指，引发社区反弹。由于流程依赖隐性知识，工作流试点也常常夭折。"
-              },
-              {
-                "t": "p",
-                "x": "HR团队还要应对冗长、充满不实细节的AI-written投诉信。一位与会者说：“很多时候它反而给我添了更多事。”并补充说，AI能回答问题，却“读不懂人”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La IA generativa podría sumar\ntrabajo a los estudios de juegos",
-          "body": "En la GamesIndustry.biz HR Summit se dijo que la ansiedad y el riesgo de fugas de datos anulan lo ganado con la genAI.",
-          "mini_headline": "La GenAI podría sumar trabajo a los estudios",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de imagen: GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "En la GamesIndustry.biz HR Summit del 1 de octubre, la IA generativa salió una y otra vez. Algunos señalaron que la IA acelera la programación o automatiza tareas tediosas, pero la opinión general fue que está muy lejos de ser una solución milagrosa y que está causando problemas en el trabajo: preocupación por los datos sensibles, más ansiedad entre los empleados y más trabajo para HR."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de las empresas de los asistentes ya tiene una política de IA, pero la velocidad del cambio obliga a reescribirla constantemente. Los responsables dijeron que apenas pueden controlar que el personal pegue material bajo NDA en cuentas personales de ChatGPT. «No he visto que la IA cree nada divertido», dijo uno; «Puedes hacer basura más rápido», ironizó otro."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "La GamesIndustry.biz HR Summit se celebró en The Royal Institution, en London | Crédito de imagen: GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "Sin control, llega el caos: un código de shaders Gemini-generated que incumplía las normas del estudio obligó a revertir una compilación, y un arte de IA externalizado con dedos de más provocó una reacción negativa de la comunidad. Los pilotos de flujos de trabajo suelen fracasar porque los procesos dependen de conocimiento tácito."
-              },
-              {
-                "t": "p",
-                "x": "Los equipos de HR también reciben extensas quejas formales AI-written llenas de detalles inexactos. «Con bastante frecuencia me ha dado más trabajo», dijo un asistente, que añadió que la IA puede responder preguntas pero «no sabe leer a la persona»."
+                "x": "Capcom은 앞서 AI 생성 에셋(AI-generated assets)을 게임에 넣지 않고, 개발 효율을 높이는 데 이 기술을 쓰겠다고 밝혔다. Ishida의 발언도 그 방침과 맞닿아 있지만 더 넓게 쓸 여지는 분명히 남겨 뒀다. IGN의 번역에 따르면 그는 RE Engine을 천천히, 단계적으로 “AI 생성 게임 엔진(AI-generation game engine)”으로 바꿔 “AI와 함께 게임을 만드는 미래”로 가겠다는 계획을 내놓았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "生成AIがゲーム会社の\n仕事を増やしている可能性",
-          "body": "HRサミットでは、genAIの利点が社員の不安と情報漏洩リスクで相殺されるとの声が出た。",
-          "mini_headline": "genAIで現場の仕事が増える可能性",
+          "headline": "Capcom、AIと共に\nゲームを作る未来へ",
+          "body": "CapcomはRE Engineの発表で、開発工程へのAI導入計画を示した。",
+          "mini_headline": "Capcom、RE EngineにAI導入へ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像クレジット: GamesIndustry.biz"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "10月1日のGamesIndustry.biz HR Summitでは、生成AI（genAI）の話題が繰り返し持ち上がった。AIがコーディングを速めたり単調な作業を自動化したりするとの声もあったが、万能薬には程遠く、職場に問題を生んでいるというのが大方の見方だった。機密データへの懸念、社員の不安の高まり、そしてHRの仕事の増加である。"
+                "x": "CapcomのPragmataはAIの恐ろしさを描く作品かもしれないが、実際のところスタジオ自体はこの技術にそれほど否定的ではないようだ。Capcom Open Conference RE: 2026で、プログラマーのSatoshi Ishidaは「The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation」(REXプロジェクトの展望と未来、次世代に向けてさらに進化するRE Engine)という長いタイトルの講演を行った。講演では、Resident Evil規模のゲームを制作するスタジオが直面する課題を説明した。その規模では、単純な作業でさえ膨大な時間がかかるという。Ishidaが示した解決策は「開発ワークフローにAI技術をうまく統合すること」だ。"
               },
               {
                 "t": "p",
-                "x": "参加者の多くの会社にはすでにAIポリシーがあるが、変化が速く、絶えず書き直しを迫られている。社員がNDAの資料を個人のChatGPTアカウントに貼り付けることはほとんど管理できないと、リーダーたちは語った。「AIが何か楽しいものを生み出したのを見たことがない」とある参加者が言えば、別の参加者は「くだらないものを速く作れるだけだ」と皮肉った。"
-              },
+                "x": "Capcomは以前から、AI生成アセット(AI-generated assets)をゲームに使わず、開発の効率化にこの技術を活用すると述べてきた。Ishidaの発言もそれに沿うものだが、より広範な利用への余地を明らかに残している。IGNの翻訳によると、彼はRE Engineを少しずつ段階的に「AI生成ゲームエンジン(AI-generation game engine)」へと変え、「AIと共にゲームを作る未来」を目指す計画を示した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Capcom描绘\n与AI共创游戏的未来",
+          "body": "Capcom借RE Engine演讲，公布了将AI引入游戏开发流程的计划。",
+          "mini_headline": "Capcom为RE Engine引入AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "GamesIndustry.biz HR SummitはロンドンのThe Royal Institutionで開催された | 画像クレジット: GamesIndustry.biz"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "ルールが徹底されなければ混乱が起きる。スタジオの規則に反するGemini製のシェーダーコードのせいでビルドを差し戻すことになり、指の多い外注のAIアートはコミュニティの反発を招いた。プロセスが暗黙知に頼っているため、ワークフローの試験導入はしばしば頓挫する。"
+                "x": "Capcom的《Pragmata》或许以AI的恐怖为主题，但这家工作室在实践中似乎并不排斥这项技术。在Capcom Open Conference RE: 2026上，程序员Satoshi Ishida做了一场标题颇长的演讲：“The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”（REX项目的展望与未来：面向下一代进一步进化的RE Engine）。他在演讲中阐述了制作Resident Evil这种规模游戏的工作室所面临的挑战——在这种规模下，即便简单的任务也会极其耗时。Ishida表示，解决之道是“将AI技术成功融入开发工作流程”。"
               },
               {
                 "t": "p",
-                "x": "HRチームは、不正確な内容だらけの長いAI-written（AIが書いた）苦情文書にも向き合っている。「むしろ仕事が増えたことがよくある」とある参加者は語り、AIは質問には答えられても「人の心は読めない」と付け加えた。"
+                "x": "Capcom此前曾表示不会在游戏中使用AI生成素材（AI-generated assets），而是专注于用这项技术提高开发效率。Ishida的说法大体与此一致，但显然为更广泛的应用留了余地。据IGN的翻译，他提出了一项计划：逐步、渐进地把RE Engine打造成“AI生成游戏引擎（AI-generation game engine）”，迈向“与AI共同创作游戏的未来”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Capcom prevé un futuro\nde juegos hechos con IA",
+          "body": "Capcom usó una presentación del RE Engine para exponer sus planes de integrar la IA en el desarrollo de juegos.",
+          "mini_headline": "Capcom prepara la IA para RE Engine",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Puede que Pragmata, de Capcom, gire en torno a los horrores de la IA, pero en la práctica el estudio no parece tan reacio a esta tecnología. Durante la Capcom Open Conference RE: 2026, el programador Satoshi Ishida ofreció una presentación de título extenso: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”. En la charla expuso los retos que afrontan los estudios que producen juegos a la escala de Resident Evil, donde incluso las tareas sencillas pueden consumir muchísimo tiempo. La solución, según Ishida, es “integrar con éxito la tecnología de IA en los flujos de trabajo de desarrollo”."
+              },
+              {
+                "t": "p",
+                "x": "Capcom ya había dicho que no usará recursos generados por IA (AI-generated) en sus juegos y que, en cambio, se centraría en usar la tecnología para hacer más eficiente el desarrollo. Los comentarios de Ishida parecen coincidir, aunque sin duda dejan la puerta abierta a un uso más amplio. Según la traducción de IGN, planteó convertir RE Engine de forma lenta y gradual en un “motor de juego de generación por IA” (“AI-generation game engine”), avanzando hacia “un futuro en el que creemos juegos junto con la IA”."
               }
             ]
           }
@@ -229,145 +145,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "생성형 AI가 게임사\n업무를 늘리고 있나",
-          "body": "GamesIndustry.biz HR 회의서 genAI 이득을 불안·유출이 깎았다.",
-          "mini_headline": "GenAI, 스튜디오 업무 늘리나",
+          "headline": "Capcom, AI와 함께\n게임 만드는 미래 그린다",
+          "body": "Capcom이 RE Engine 발표에서 개발 공정에 AI 도입 계획을 밝혔다.",
+          "mini_headline": "Capcom, RE Engine에 AI 준비",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: GamesIndustry.biz"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "10월 1일 열린 GamesIndustry.biz HR Summit에서는 생성형 AI가 거듭 화제에 올랐다. AI가 코딩 속도를 높이거나 단순 반복 업무를 자동화한다는 의견도 있었지만, 만병통치약과는 거리가 멀고 오히려 직장에 문제를 일으킨다는 시각이 대체적이었다. 민감한 데이터에 대한 우려, 커지는 직원 불안, 늘어나는 HR 업무가 그것이다."
+                "x": "Capcom의 Pragmata는 AI의 공포를 정면으로 다루는 작품이지만, 정작 스튜디오는 이 기술을 그리 부정적으로 보지 않는 듯하다. Capcom Open Conference RE: 2026에서 프로그래머 Satoshi Ishida는 “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”(REX 프로젝트의 전망과 미래, 차세대를 향해 더 진화하는 RE Engine)이라는 긴 제목의 발표를 했다. 그는 Resident Evil 규모의 게임을 만드는 스튜디오가 마주한 과제를 짚었다. 이 정도 규모에서는 단순한 작업조차 엄청난 시간이 든다는 것이다. Ishida가 제시한 해법은 “개발 워크플로에 AI 기술을 성공적으로 통합하는 것”이다."
               },
               {
                 "t": "p",
-                "x": "참석자 대부분의 회사에는 이제 AI 정책이 있지만, 변화가 워낙 빨라 계속 고쳐 써야 한다. 리더들은 직원이 NDA 자료를 개인 ChatGPT 계정에 붙여 넣는 일을 거의 통제하지 못한다고 말했다. 한 참석자는 \"AI가 재미있는 걸 만드는 건 본 적이 없다\"고 했고, 다른 참석자는 \"쓰레기를 더 빨리 만들 수 있다\"고 꼬집었다."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "GamesIndustry.biz HR Summit은 London의 The Royal Institution에서 열렸다 | 이미지 출처: GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "규칙을 강제하지 않으면 혼란이 따른다. 스튜디오 규칙을 어긴 Gemini-generated 셰이더 코드 때문에 빌드를 되돌린 일이 있었고, 손가락이 더 달린 외주 AI 아트는 커뮤니티의 반발을 샀다. 업무 과정이 암묵지에 기대고 있어 워크플로 시범 도입이 무산되는 경우도 많다."
-              },
-              {
-                "t": "p",
-                "x": "HR 팀은 부정확한 내용으로 가득한 장문의 AI-written 고충 신고서도 상대해야 한다. 한 참석자는 \"꽤 자주 오히려 할 일이 늘었다\"며, AI가 질문에 답할 수는 있어도 \"사람을 읽지는 못한다\"고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "生成式AI或在增加\n游戏工作室的工作量",
-          "body": "GamesIndustry.biz HR峰会上，与会者称genAI收益被焦虑与泄密风险抵消。",
-          "mini_headline": "GenAI或加重工作室负担",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "在10月1日举行的GamesIndustry.biz HR Summit上，生成式AI一再成为话题。有人指出AI能加快编程速度或自动处理繁琐工作，但普遍看法是它远非灵丹妙药，反而正在给职场带来问题：对敏感数据的担忧、员工焦虑加剧，以及HR工作量增加。"
-              },
-              {
-                "t": "p",
-                "x": "多数与会者所在的公司如今都有AI政策，但变化太快，政策不得不一改再改。管理者们表示，他们几乎无法阻止员工把NDA材料粘贴进个人ChatGPT账户。一位与会者说：“我还没见过AI创造出什么有趣的东西。”另一位则调侃：“你可以更快地做出垃圾。”"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "GamesIndustry.biz HR Summit在London的The Royal Institution举行 | 图片来源：GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "缺乏执行就会出乱子：违反工作室规定的Gemini-generated着色器代码导致构建被回滚，外包的AI美术图多出手指，引发社区反弹。由于流程依赖隐性知识，工作流试点也常常夭折。"
-              },
-              {
-                "t": "p",
-                "x": "HR团队还要应对冗长、充满不实细节的AI-written投诉信。一位与会者说：“很多时候它反而给我添了更多事。”并补充说，AI能回答问题，却“读不懂人”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La IA generativa podría sumar\ntrabajo a los estudios de juegos",
-          "body": "En la GamesIndustry.biz HR Summit se dijo que la ansiedad y el riesgo de fugas de datos anulan lo ganado con la genAI.",
-          "mini_headline": "La GenAI podría sumar trabajo a los estudios",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de imagen: GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "En la GamesIndustry.biz HR Summit del 1 de octubre, la IA generativa salió una y otra vez. Algunos señalaron que la IA acelera la programación o automatiza tareas tediosas, pero la opinión general fue que está muy lejos de ser una solución milagrosa y que está causando problemas en el trabajo: preocupación por los datos sensibles, más ansiedad entre los empleados y más trabajo para HR."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de las empresas de los asistentes ya tiene una política de IA, pero la velocidad del cambio obliga a reescribirla constantemente. Los responsables dijeron que apenas pueden controlar que el personal pegue material bajo NDA en cuentas personales de ChatGPT. «No he visto que la IA cree nada divertido», dijo uno; «Puedes hacer basura más rápido», ironizó otro."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "La GamesIndustry.biz HR Summit se celebró en The Royal Institution, en London | Crédito de imagen: GamesIndustry.biz"
-              },
-              {
-                "t": "p",
-                "x": "Sin control, llega el caos: un código de shaders Gemini-generated que incumplía las normas del estudio obligó a revertir una compilación, y un arte de IA externalizado con dedos de más provocó una reacción negativa de la comunidad. Los pilotos de flujos de trabajo suelen fracasar porque los procesos dependen de conocimiento tácito."
-              },
-              {
-                "t": "p",
-                "x": "Los equipos de HR también reciben extensas quejas formales AI-written llenas de detalles inexactos. «Con bastante frecuencia me ha dado más trabajo», dijo un asistente, que añadió que la IA puede responder preguntas pero «no sabe leer a la persona»."
+                "x": "Capcom은 앞서 AI 생성 에셋(AI-generated assets)을 게임에 쓰지 않고, 대신 개발 효율을 높이는 데 이 기술을 쓰겠다고 밝힌 바 있다. Ishida의 발언도 이와 맞아떨어지지만, 더 폭넓은 활용의 여지는 분명히 남겨 둔 것으로 보인다. IGN의 번역에 따르면 그는 RE Engine을 천천히, 단계적으로 “AI 생성 게임 엔진(AI-generation game engine)”으로 바꿔 “AI와 함께 게임을 만드는 미래”로 나아가겠다는 계획을 제시했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "生成AIがゲーム会社の\n仕事を増やしている可能性",
-          "body": "HRサミットでは、genAIの利点が社員の不安と情報漏洩リスクで相殺されるとの声が出た。",
-          "mini_headline": "genAIで現場の仕事が増える可能性",
+          "headline": "Capcom、AIと共に\nゲームを作る未来へ",
+          "body": "CapcomはRE Engineの発表で、開発工程へのAI導入計画を示した。",
+          "mini_headline": "Capcom、RE EngineにAI導入へ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像クレジット: GamesIndustry.biz"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "10月1日のGamesIndustry.biz HR Summitでは、生成AI（genAI）の話題が繰り返し持ち上がった。AIがコーディングを速めたり単調な作業を自動化したりするとの声もあったが、万能薬には程遠く、職場に問題を生んでいるというのが大方の見方だった。機密データへの懸念、社員の不安の高まり、そしてHRの仕事の増加である。"
+                "x": "CapcomのPragmataはAIの恐ろしさを描く作品かもしれないが、実際のところスタジオ自体はこの技術にそれほど否定的ではないようだ。Capcom Open Conference RE: 2026で、プログラマーのSatoshi Ishidaは「The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation」(REXプロジェクトの展望と未来、次世代に向けてさらに進化するRE Engine)という長いタイトルの講演を行った。講演では、Resident Evil規模のゲームを制作するスタジオが直面する課題を説明した。その規模では、単純な作業でさえ膨大な時間がかかるという。Ishidaが示した解決策は「開発ワークフローにAI技術をうまく統合すること」だ。"
               },
               {
                 "t": "p",
-                "x": "参加者の多くの会社にはすでにAIポリシーがあるが、変化が速く、絶えず書き直しを迫られている。社員がNDAの資料を個人のChatGPTアカウントに貼り付けることはほとんど管理できないと、リーダーたちは語った。「AIが何か楽しいものを生み出したのを見たことがない」とある参加者が言えば、別の参加者は「くだらないものを速く作れるだけだ」と皮肉った。"
-              },
+                "x": "Capcomは以前から、AI生成アセット(AI-generated assets)をゲームに使わず、開発の効率化にこの技術を活用すると述べてきた。Ishidaの発言もそれに沿うものだが、より広範な利用への余地を明らかに残している。IGNの翻訳によると、彼はRE Engineを少しずつ段階的に「AI生成ゲームエンジン(AI-generation game engine)」へと変え、「AIと共にゲームを作る未来」を目指す計画を示した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Capcom描绘\n与AI共创游戏的未来",
+          "body": "Capcom借RE Engine演讲，公布了将AI引入游戏开发流程的计划。",
+          "mini_headline": "Capcom为RE Engine引入AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "GamesIndustry.biz HR SummitはロンドンのThe Royal Institutionで開催された | 画像クレジット: GamesIndustry.biz"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
               },
               {
                 "t": "p",
-                "x": "ルールが徹底されなければ混乱が起きる。スタジオの規則に反するGemini製のシェーダーコードのせいでビルドを差し戻すことになり、指の多い外注のAIアートはコミュニティの反発を招いた。プロセスが暗黙知に頼っているため、ワークフローの試験導入はしばしば頓挫する。"
+                "x": "Capcom的《Pragmata》或许以AI的恐怖为主题，但这家工作室在实践中似乎并不排斥这项技术。在Capcom Open Conference RE: 2026上，程序员Satoshi Ishida做了一场标题颇长的演讲：“The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”（REX项目的展望与未来：面向下一代进一步进化的RE Engine）。他在演讲中阐述了制作Resident Evil这种规模游戏的工作室所面临的挑战——在这种规模下，即便简单的任务也会极其耗时。Ishida表示，解决之道是“将AI技术成功融入开发工作流程”。"
               },
               {
                 "t": "p",
-                "x": "HRチームは、不正確な内容だらけの長いAI-written（AIが書いた）苦情文書にも向き合っている。「むしろ仕事が増えたことがよくある」とある参加者は語り、AIは質問には答えられても「人の心は読めない」と付け加えた。"
+                "x": "Capcom此前曾表示不会在游戏中使用AI生成素材（AI-generated assets），而是专注于用这项技术提高开发效率。Ishida的说法大体与此一致，但显然为更广泛的应用留了余地。据IGN的翻译，他提出了一项计划：逐步、渐进地把RE Engine打造成“AI生成游戏引擎（AI-generation game engine）”，迈向“与AI共同创作游戏的未来”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Capcom prevé un futuro\nde juegos hechos con IA",
+          "body": "Capcom usó una presentación del RE Engine para exponer sus planes de integrar la IA en el desarrollo de juegos.",
+          "mini_headline": "Capcom prepara la IA para RE Engine",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Puede que Pragmata, de Capcom, gire en torno a los horrores de la IA, pero en la práctica el estudio no parece tan reacio a esta tecnología. Durante la Capcom Open Conference RE: 2026, el programador Satoshi Ishida ofreció una presentación de título extenso: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”. En la charla expuso los retos que afrontan los estudios que producen juegos a la escala de Resident Evil, donde incluso las tareas sencillas pueden consumir muchísimo tiempo. La solución, según Ishida, es “integrar con éxito la tecnología de IA en los flujos de trabajo de desarrollo”."
+              },
+              {
+                "t": "p",
+                "x": "Capcom ya había dicho que no usará recursos generados por IA (AI-generated) en sus juegos y que, en cambio, se centraría en usar la tecnología para hacer más eficiente el desarrollo. Los comentarios de Ishida parecen coincidir, aunque sin duda dejan la puerta abierta a un uso más amplio. Según la traducción de IGN, planteó convertir RE Engine de forma lenta y gradual en un “motor de juego de generación por IA” (“AI-generation game engine”), avanzando hacia “un futuro en el que creemos juegos junto con la IA”."
               }
             ]
           }
@@ -375,15 +235,15 @@
       }
     },
     {
-      "id": "lochub-unreal-ai-localization",
+      "id": "stardock-clairvoyance-ai-devtools",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LocHub이 AI 번역을\nUnreal Editor에",
-      "body": "LocHub은 내 AI 키로 Unreal 문자열을 번역하고 다른 AI로 검수한다.",
-      "mini_headline": "Unreal 안의 AI 현지화",
+      "headline": "Stardock이 내놓은\n게임 개발 AI 도구",
+      "body": "Stardock이 개발자용 AI 생산성 도구 Clairvoyance를 공개했다.",
+      "mini_headline": "Stardock의 AI 개발 도구 Clairvoyance",
       "tool": "Games",
-      "source": "Epic Developer Community",
-      "url": "https://forums.unrealengine.com/t/dmitriy-vergasov-lochub-ai-assisted-localization-system/2835341",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs-and-more-exclusive/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -391,173 +251,245 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
           },
           {
             "t": "p",
-            "x": "LocHub은 통제권은 그대로 둔 채 AI 번역을 Unreal Editor 안으로 들여온다. 프로젝트 문자열은 사용자가 고른 AI 제공업체에 사용자 본인의 키로 보내진다. 내장 검사와 두 번째 AI가 문제를 걸러 내면 사용자는 결과를 한곳에서 검토한 뒤 일반 Unreal 현지화 데이터로 다시 가져온다."
+            "x": "Brad Wardell이 Stardock을 세운 건 1993년이다. 그의 팀이 이번에 게임 개발자 등을 위한 AI 생산성 도구 Clairvoyance를 만들었다. Wardell은 “지금 폭발적이다”라며 이 도구가 회사의 최고 매출 제품이 될 수도 있다고 했다."
           },
           {
             "t": "p",
-            "x": "서식 인수, 복수형, rich-text 태그는 LocHub과 Unreal 자체 검증기가 코드로 두 번 확인하기 때문에 깨진 텍스트는 승인 단계를 넘지 못한다. 선택 사항인 AI 심사기는 의미, 용어, 어조를 살피고 위험한 문자열을 검토 대기열 맨 앞으로 올린다. 번역은 문자열마다 원본 에셋이나 C++ 파일, 개발자 메모, 인접 문자열, 스타일 가이드와 용어집을 참고해 맥락 속에서 이뤄진다."
+            "x": "Clairvoyance의 출발점은 반복적인 소프트웨어·게임 개발 작업을 자동화하던 사내 도구였다. Stardock은 두 해 동안 날마다 쓰며 다듬은 끝에 외부에 팔기로 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
           },
           {
             "t": "p",
-            "x": "사람이 고친 내용은 AI가 절대 덮어쓰지 않는다. 원문이 바뀌면 해당 번역에 구버전 표시가 붙고, 모든 작업에는 비용 추정과 엄격한 지출 상한이 걸린다. Anthropic, OpenAI, xAI, DeepSeek, Google Gemini의 키를 직접 쓰거나 구독으로 Claude Code를 이용하면 된다."
+            "x": "Clairvoyance는 사용자 컴퓨터에서 직접 돈다. 덕분에 AI 직원이 실제 프로젝트를 열고 빌드하고 실행한 다음 완성된 결과물을 넘겨준다. Windows, macOS, Linux에서 무료로 쓸 수 있고 Claude Code, Codex, Cursor, Grok, Copilot과 함께 돌아간다."
+          },
+          {
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
           },
           {
             "t": "p",
-            "x": "Unreal Engine 5.6, 5.7, 5.8과 Node.js 22.11 이상이 필요하다. 출력물이 일반 현지화 아카이브와 .locres 파일이라 LocHub은 언제든 그만 써도 된다."
+            "x": "Wardell의 설명으로는 Clairvoyance가 노리는 건 창작의 대체가 아니라 작업 흐름의 마찰이다. 사람이 만든 아트를 자체 엔진으로 가져오기, Word 파일을 CSV 데이터로 바꾸기, 크래시 로그 분석, Jira 작업 생성 같은 일이다. 기본 앱은 무료, 프로 버전은 월 $20이다."
+          },
+          {
+            "t": "p",
+            "x": "생성형 아트를 두고 Wardell은 “지금의 생성형 AI는 결국 다 비슷해 보이는 저질 결과물을 만들어낸다고 생각한다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LocHub brings AI translation\ninto the Unreal Editor",
-          "body": "LocHub runs Unreal strings through your own AI provider key, with built-in checks and a second AI to catch problems.",
-          "mini_headline": "AI localization\ninside Unreal",
+          "headline": "Stardock unveils Clairvoyance\nAI tools for game developers",
+          "body": "Brad Wardell's Stardock unveiled Clairvoyance, an AI productivity tool for game developers and others.",
+          "mini_headline": "Stardock's Clairvoyance\nAI dev tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
               },
               {
                 "t": "p",
-                "x": "LocHub brings AI translation into the Unreal Editor without taking the control away from you. Your project's strings go to the AI provider you choose, under your own key; built-in checks and a second AI catch the problems; you review the result in one place and pull it back as plain Unreal localization data."
+                "x": "Brad Wardell started Stardock in 1993. Now his team has created Clairvoyance, an AI productivity tool for game developers and more. Wardell said it could become the company’s top-selling product: “It’s exploding.”"
               },
               {
                 "t": "p",
-                "x": "Format arguments, plural forms and rich-text tags are validated in code twice, by LocHub and by Unreal's own validator, so broken text cannot be approved. An optional AI judge checks meaning, terminology and tone and puts risky strings first in the review queue. Each string is translated in context, with its source asset or C++ file, developer notes, neighbouring strings, your style guide and glossary."
+                "x": "Clairvoyance started as an internal tool to automate repetitive software and game-development operations, and Stardock used and refined it daily for two years before deciding to sell it externally."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
               },
               {
                 "t": "p",
-                "x": "Human edits are never overwritten by the AI, changed source text marks translations outdated, and every job gets a cost estimate and a hard spending cap. Bring your own key from Anthropic, OpenAI, xAI, DeepSeek or Google Gemini, or use Claude Code via a subscription."
+                "x": "It runs directly on your own computer, so your AI staff can open your real projects, build them, run them, and hand back finished work. It’s free on Windows, macOS, and Linux, and works alongside Claude Code, Codex, Cursor, Grok, and Copilot."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
               },
               {
                 "t": "p",
-                "x": "It requires Unreal Engine 5.6, 5.7 or 5.8 and Node.js 22.11 or newer. Output is ordinary localization archives and .locres files, so you can stop using LocHub any time."
+                "x": "Wardell said Clairvoyance targets workflow friction rather than replacing creative work: importing human-created art into custom engines, converting Word files into CSV data, analyzing crash logs, and creating Jira tasks. The base app is free; the pro version costs $20 a month."
+              },
+              {
+                "t": "p",
+                "x": "“I think that generative AI currently ends up creating homogenous-looking slop,” Wardell said of generative art."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LocHub이 AI 번역을\nUnreal Editor에",
-          "body": "LocHub은 내 AI 키로 Unreal 문자열을 번역하고 다른 AI로 검수한다.",
-          "mini_headline": "Unreal 안의 AI 현지화",
+          "headline": "Stardock이 내놓은\n게임 개발 AI 도구",
+          "body": "Stardock이 개발자용 AI 생산성 도구 Clairvoyance를 공개했다.",
+          "mini_headline": "Stardock의 AI 개발 도구 Clairvoyance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
               },
               {
                 "t": "p",
-                "x": "LocHub은 통제권은 그대로 둔 채 AI 번역을 Unreal Editor 안으로 들여온다. 프로젝트 문자열은 사용자가 고른 AI 제공업체에 사용자 본인의 키로 보내진다. 내장 검사와 두 번째 AI가 문제를 걸러 내면 사용자는 결과를 한곳에서 검토한 뒤 일반 Unreal 현지화 데이터로 다시 가져온다."
+                "x": "Brad Wardell이 Stardock을 세운 건 1993년이다. 그의 팀이 이번에 게임 개발자 등을 위한 AI 생산성 도구 Clairvoyance를 만들었다. Wardell은 “지금 폭발적이다”라며 이 도구가 회사의 최고 매출 제품이 될 수도 있다고 했다."
               },
               {
                 "t": "p",
-                "x": "서식 인수, 복수형, rich-text 태그는 LocHub과 Unreal 자체 검증기가 코드로 두 번 확인하기 때문에 깨진 텍스트는 승인 단계를 넘지 못한다. 선택 사항인 AI 심사기는 의미, 용어, 어조를 살피고 위험한 문자열을 검토 대기열 맨 앞으로 올린다. 번역은 문자열마다 원본 에셋이나 C++ 파일, 개발자 메모, 인접 문자열, 스타일 가이드와 용어집을 참고해 맥락 속에서 이뤄진다."
+                "x": "Clairvoyance의 출발점은 반복적인 소프트웨어·게임 개발 작업을 자동화하던 사내 도구였다. Stardock은 두 해 동안 날마다 쓰며 다듬은 끝에 외부에 팔기로 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
               },
               {
                 "t": "p",
-                "x": "사람이 고친 내용은 AI가 절대 덮어쓰지 않는다. 원문이 바뀌면 해당 번역에 구버전 표시가 붙고, 모든 작업에는 비용 추정과 엄격한 지출 상한이 걸린다. Anthropic, OpenAI, xAI, DeepSeek, Google Gemini의 키를 직접 쓰거나 구독으로 Claude Code를 이용하면 된다."
+                "x": "Clairvoyance는 사용자 컴퓨터에서 직접 돈다. 덕분에 AI 직원이 실제 프로젝트를 열고 빌드하고 실행한 다음 완성된 결과물을 넘겨준다. Windows, macOS, Linux에서 무료로 쓸 수 있고 Claude Code, Codex, Cursor, Grok, Copilot과 함께 돌아간다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.6, 5.7, 5.8과 Node.js 22.11 이상이 필요하다. 출력물이 일반 현지화 아카이브와 .locres 파일이라 LocHub은 언제든 그만 써도 된다."
+                "x": "Wardell의 설명으로는 Clairvoyance가 노리는 건 창작의 대체가 아니라 작업 흐름의 마찰이다. 사람이 만든 아트를 자체 엔진으로 가져오기, Word 파일을 CSV 데이터로 바꾸기, 크래시 로그 분석, Jira 작업 생성 같은 일이다. 기본 앱은 무료, 프로 버전은 월 $20이다."
+              },
+              {
+                "t": "p",
+                "x": "생성형 아트를 두고 Wardell은 “지금의 생성형 AI는 결국 다 비슷해 보이는 저질 결과물을 만들어낸다고 생각한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LocHub、AI翻訳を\nUnreal Editorへ",
-          "body": "LocHubは自前のAIキーでUnreal文字列を翻訳し、別のAIが問題を検出する。",
-          "mini_headline": "Unreal内でAIローカライズ",
+          "headline": "Stardock、ゲーム開発\n向けAIツールを発表",
+          "body": "Stardockが開発者向けAI生産性ツールClairvoyanceを発表した。",
+          "mini_headline": "StardockのAI開発ツールClairvoyance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
               },
               {
                 "t": "p",
-                "x": "LocHubは、主導権を奪うことなくAI翻訳をUnreal Editorに持ち込む。プロジェクトの文字列は、ユーザーが選んだAIプロバイダーへ自分のキーで送られる。組み込みのチェックと2つ目のAIが問題を拾い、結果は1か所でレビューして、通常のUnrealローカライズデータとして取り込める。"
+                "x": "Brad Wardellは1993年にStardockを創業した。そしていま、彼のチームはゲーム開発者などに向けたAI生産性ツールClairvoyanceを生み出した。Wardellは同社で最も売れる製品になる可能性があるとし、「爆発的に伸びている」と語った。"
               },
               {
                 "t": "p",
-                "x": "書式引数、複数形、rich-textタグはLocHubとUnreal自身のバリデーターによってコードで二重に検証されるため、壊れたテキストは承認できない。オプションのAI審査役は意味、用語、トーンを確認し、リスクのある文字列をレビュー待ちの先頭に回す。各文字列は、元のアセットやC++ファイル、開発者メモ、隣接する文字列、スタイルガイド、用語集を踏まえ、文脈の中で翻訳される。"
+                "x": "Clairvoyanceは、ソフトウェアやゲーム開発における反復作業を自動化する社内ツールとして始まった。Stardockは二年にわたって毎日使いながら改良を重ね、その後外部への販売を決めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
               },
               {
                 "t": "p",
-                "x": "人間による修正をAIが上書きすることはなく、原文が変われば翻訳は古いものとして示され、各ジョブには費用見積もりと厳格な支出上限が付く。Anthropic、OpenAI、xAI、DeepSeek、Google Geminiの自分のキーを使うか、サブスクリプション経由でClaude Codeを使える。"
+                "x": "Clairvoyanceはユーザー自身のコンピューター上で直接動作するため、AIスタッフが実際のプロジェクトを開き、ビルドし、実行し、完成した成果物を返すことができる。Windows、macOS、Linuxで無料で使え、Claude Code、Codex、Cursor、Grok、Copilotと併用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
               },
               {
                 "t": "p",
-                "x": "動作にはUnreal Engine 5.6、5.7、5.8と、Node.js 22.11以降が必要だ。出力は通常のローカライズアーカイブと.locresファイルなので、いつでもLocHubの利用をやめられる。"
+                "x": "Wardellによれば、Clairvoyanceが狙うのは創作の置き換えではなく、ワークフロー上の摩擦だ。人間が制作したアートを独自エンジンへ取り込む、WordファイルをCSVデータに変換する、クラッシュログを分析する、Jiraのタスクを作成する、といった作業である。基本アプリは無料で、プロ版は月額$20だ。"
+              },
+              {
+                "t": "p",
+                "x": "生成アートについてWardellは「現在の生成AIは、結局どれも似たような粗悪なものを生み出していると思う」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LocHub将AI翻译带入\nUnreal Editor",
-          "body": "LocHub用你自己的AI密钥翻译Unreal文本，并由第二个AI排查问题。",
-          "mini_headline": "Unreal内的AI本地化",
+          "headline": "Stardock推出\n面向游戏开发者的AI工具",
+          "body": "Stardock发布了面向游戏开发者等群体的AI生产力工具Clairvoyance。",
+          "mini_headline": "Stardock的AI开发工具Clairvoyance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
               },
               {
                 "t": "p",
-                "x": "LocHub把AI翻译带进Unreal Editor，同时不夺走你的控制权。项目文本通过你自己的密钥发送给你选择的AI服务商；内置检查和第二个AI负责发现问题；你在一处审阅结果，再将其作为普通的Unreal本地化数据取回。"
+                "x": "Brad Wardell于1993年创立了Stardock。如今，他的团队打造了一款面向游戏开发者等用户的AI生产力工具Clairvoyance。Wardell表示，它可能成为公司最畅销的产品：“它正在爆发。”"
               },
               {
                 "t": "p",
-                "x": "格式参数、复数形式和rich-text标签会经LocHub与Unreal自带的校验器在代码层面两次验证，因此损坏的文本无法通过审批。可选的AI评审会检查含义、术语和语气，并把有风险的文本排在审阅队列最前面。每条文本都结合上下文翻译，参考其源资产或C++文件、开发者备注、相邻文本、你的风格指南和术语表。"
+                "x": "Clairvoyance最初是一款内部工具，用于自动化重复性的软件与游戏开发操作。Stardock每天使用并打磨它整整两年，之后才决定对外销售。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
               },
               {
                 "t": "p",
-                "x": "人工修改绝不会被AI覆盖，源文本一旦变动，相应译文会被标记为过时，每项任务都附有费用估算和硬性支出上限。你可以使用自己的Anthropic、OpenAI、xAI、DeepSeek或Google Gemini密钥，也可以通过订阅使用Claude Code。"
+                "x": "它直接在用户自己的电脑上运行，因此AI员工可以打开真实项目、构建、运行，并交回完成的成果。它在Windows、macOS和Linux上免费，可与Claude Code、Codex、Cursor、Grok和Copilot配合使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
               },
               {
                 "t": "p",
-                "x": "它需要Unreal Engine 5.6、5.7或5.8，以及Node.js 22.11或更高版本。输出是普通的本地化归档和.locres文件，因此你随时可以停用LocHub。"
+                "x": "Wardell表示，Clairvoyance针对的是工作流程中的阻碍，而非取代创意工作：例如把人工创作的美术资源导入自定义引擎、将Word文件转换为CSV数据、分析崩溃日志，以及创建Jira任务。基础应用免费，专业版每月$20。"
+              },
+              {
+                "t": "p",
+                "x": "谈到生成式美术，Wardell说：“我认为目前的生成式AI最终只会产出千篇一律的劣质内容。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "LocHub lleva traducción con IA\nal Unreal Editor",
-          "body": "LocHub traduce los textos de Unreal con tu propia clave de IA, con controles integrados y una segunda IA de revisión.",
-          "mini_headline": "Localización con IA dentro de Unreal",
+          "headline": "Stardock presenta Clairvoyance,\nherramientas de IA para juegos",
+          "body": "Stardock presentó Clairvoyance, una herramienta de productividad con IA para desarrolladores de juegos y otros.",
+          "mini_headline": "Clairvoyance, las herramientas de IA de Stardock",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
               },
               {
                 "t": "p",
-                "x": "LocHub lleva la traducción con IA al Unreal Editor sin quitarte el control. Los textos de tu proyecto van al proveedor de IA que elijas, con tu propia clave; los controles integrados y una segunda IA detectan los problemas; revisas el resultado en un solo lugar y lo recuperas como datos de localización normales de Unreal."
+                "x": "Brad Wardell fundó Stardock en 1993. Ahora su equipo ha creado Clairvoyance, una herramienta de productividad con IA (AI) para desarrolladores de juegos y más. Wardell dijo que podría convertirse en el producto más vendido de la compañía: “Está explotando”."
               },
               {
                 "t": "p",
-                "x": "Los argumentos de formato, las formas plurales y las etiquetas rich-text se validan dos veces en código, por LocHub y por el propio validador de Unreal, de modo que no se puede aprobar texto roto. Un juez de IA opcional revisa el significado, la terminología y el tono, y coloca primero en la cola de revisión los textos de riesgo. Cada texto se traduce en contexto, con su recurso de origen o archivo C++, las notas de los desarrolladores, los textos vecinos, tu guía de estilo y tu glosario."
+                "x": "Clairvoyance nació como una herramienta interna para automatizar operaciones repetitivas de software y desarrollo de juegos, y Stardock la usó y perfeccionó a diario durante dos años antes de decidir venderla al público."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
               },
               {
                 "t": "p",
-                "x": "La IA nunca sobrescribe las ediciones humanas, un cambio en el texto de origen marca las traducciones como desactualizadas y cada tarea recibe una estimación de coste y un límite de gasto estricto. Puedes usar tu propia clave de Anthropic, OpenAI, xAI, DeepSeek o Google Gemini, o Claude Code mediante una suscripción."
+                "x": "Se ejecuta directamente en el propio equipo del usuario, de modo que su personal de IA puede abrir sus proyectos reales, compilarlos, ejecutarlos y entregar el trabajo terminado. Es gratuita en Windows, macOS y Linux, y funciona junto a Claude Code, Codex, Cursor, Grok y Copilot."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
               },
               {
                 "t": "p",
-                "x": "Requiere Unreal Engine 5.6, 5.7 o 5.8 y Node.js 22.11 o posterior. El resultado son archivos de localización comunes y archivos .locres, así que puedes dejar de usar LocHub en cualquier momento."
+                "x": "Wardell explicó que Clairvoyance apunta a las fricciones del flujo de trabajo más que a sustituir el trabajo creativo: importar arte creado por personas a motores propios, convertir archivos de Word en datos CSV, analizar registros de fallos y crear tareas en Jira. La aplicación base es gratuita; la versión pro cuesta $20 al mes."
+              },
+              {
+                "t": "p",
+                "x": "“Creo que la IA generativa actualmente acaba produciendo bazofia de aspecto homogéneo”, dijo Wardell sobre el arte generativo."
               }
             ]
           }
@@ -565,121 +497,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LocHub이 AI 번역을\nUnreal Editor에",
-          "body": "LocHub은 Unreal 문자열을 내 AI 키로 번역하고 다른 AI가 검수한다.",
-          "mini_headline": "Unreal 안의 AI 현지화",
+          "headline": "Stardock이 내놓은\n게임 개발 AI 도구",
+          "body": "Stardock이 개발자용 AI 생산성 도구 Clairvoyance를 공개했다.",
+          "mini_headline": "Stardock의 AI 개발 도구 Clairvoyance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
               },
               {
                 "t": "p",
-                "x": "LocHub은 통제권을 빼앗지 않으면서 AI 번역을 Unreal Editor 안으로 들여온다. 프로젝트의 문자열은 사용자가 고른 AI 제공업체로 사용자 자신의 키를 통해 전달된다. 내장 검사와 두 번째 AI가 문제를 잡아내고, 사용자는 결과를 한곳에서 검토한 뒤 일반 Unreal 현지화 데이터로 다시 가져온다."
+                "x": "Brad Wardell은 1993년 Stardock을 세웠다. 이제 그의 팀은 게임 개발자 등을 위한 AI 생산성 도구 Clairvoyance를 만들었다. Wardell은 이 도구가 회사의 최고 매출 제품이 될 수 있다며 “지금 폭발적이다”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "서식 인수, 복수형, rich-text 태그는 LocHub과 Unreal 자체 검증기가 코드로 두 번 검증하므로 깨진 텍스트는 승인할 수 없다. 선택 사항인 AI 심사기는 의미, 용어, 어조를 점검하고 위험한 문자열을 검토 대기열 맨 앞에 둔다. 각 문자열은 원본 에셋이나 C++ 파일, 개발자 메모, 인접 문자열, 스타일 가이드와 용어집을 참고해 맥락 속에서 번역한다."
+                "x": "Clairvoyance는 반복적인 소프트웨어·게임 개발 작업을 자동화하는 사내 도구로 출발했다. Stardock은 두 해 동안 매일 이 도구를 쓰고 다듬은 끝에 외부 판매를 결정했다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
               },
               {
                 "t": "p",
-                "x": "사람이 고친 내용은 AI가 절대 덮어쓰지 않고, 원문이 바뀌면 해당 번역은 구버전으로 표시되며, 모든 작업에는 비용 추정과 엄격한 지출 상한이 붙는다. Anthropic, OpenAI, xAI, DeepSeek, Google Gemini의 키를 직접 쓰거나, 구독으로 Claude Code를 이용할 수 있다."
+                "x": "Clairvoyance는 사용자 컴퓨터에서 직접 돌아간다. 그래서 AI 직원이 실제 프로젝트를 열고, 빌드하고, 실행한 뒤 완성된 결과물을 넘겨줄 수 있다. Windows, macOS, Linux에서 무료로 쓸 수 있고 Claude Code, Codex, Cursor, Grok, Copilot과 함께 작동한다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
               },
               {
                 "t": "p",
-                "x": "Unreal Engine 5.6, 5.7, 5.8과 Node.js 22.11 이상이 필요하다. 출력물은 일반 현지화 아카이브와 .locres 파일이므로 언제든 LocHub 사용을 중단할 수 있다."
+                "x": "Wardell은 Clairvoyance가 창작을 대체하기보다 작업 흐름의 마찰을 겨냥한다고 설명했다. 사람이 만든 아트를 자체 엔진으로 가져오기, Word 파일을 CSV 데이터로 변환하기, 크래시 로그 분석, Jira 작업 생성 같은 일이다. 기본 앱은 무료이고, 프로 버전은 월 $20이다."
+              },
+              {
+                "t": "p",
+                "x": "Wardell은 생성형 아트에 대해 “지금의 생성형 AI는 결국 다 비슷해 보이는 저질 결과물을 만들어낸다고 생각한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LocHub、AI翻訳を\nUnreal Editorへ",
-          "body": "LocHubは自前のAIキーでUnreal文字列を翻訳し、別のAIが問題を検出する。",
-          "mini_headline": "Unreal内でAIローカライズ",
+          "headline": "Stardock、ゲーム開発\n向けAIツールを発表",
+          "body": "Stardockが開発者向けAI生産性ツールClairvoyanceを発表した。",
+          "mini_headline": "StardockのAI開発ツールClairvoyance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
               },
               {
                 "t": "p",
-                "x": "LocHubは、主導権を奪うことなくAI翻訳をUnreal Editorに持ち込む。プロジェクトの文字列は、ユーザーが選んだAIプロバイダーへ自分のキーで送られる。組み込みのチェックと2つ目のAIが問題を拾い、結果は1か所でレビューして、通常のUnrealローカライズデータとして取り込める。"
+                "x": "Brad Wardellは1993年にStardockを創業した。そしていま、彼のチームはゲーム開発者などに向けたAI生産性ツールClairvoyanceを生み出した。Wardellは同社で最も売れる製品になる可能性があるとし、「爆発的に伸びている」と語った。"
               },
               {
                 "t": "p",
-                "x": "書式引数、複数形、rich-textタグはLocHubとUnreal自身のバリデーターによってコードで二重に検証されるため、壊れたテキストは承認できない。オプションのAI審査役は意味、用語、トーンを確認し、リスクのある文字列をレビュー待ちの先頭に回す。各文字列は、元のアセットやC++ファイル、開発者メモ、隣接する文字列、スタイルガイド、用語集を踏まえ、文脈の中で翻訳される。"
+                "x": "Clairvoyanceは、ソフトウェアやゲーム開発における反復作業を自動化する社内ツールとして始まった。Stardockは二年にわたって毎日使いながら改良を重ね、その後外部への販売を決めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
               },
               {
                 "t": "p",
-                "x": "人間による修正をAIが上書きすることはなく、原文が変われば翻訳は古いものとして示され、各ジョブには費用見積もりと厳格な支出上限が付く。Anthropic、OpenAI、xAI、DeepSeek、Google Geminiの自分のキーを使うか、サブスクリプション経由でClaude Codeを使える。"
+                "x": "Clairvoyanceはユーザー自身のコンピューター上で直接動作するため、AIスタッフが実際のプロジェクトを開き、ビルドし、実行し、完成した成果物を返すことができる。Windows、macOS、Linuxで無料で使え、Claude Code、Codex、Cursor、Grok、Copilotと併用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
               },
               {
                 "t": "p",
-                "x": "動作にはUnreal Engine 5.6、5.7、5.8と、Node.js 22.11以降が必要だ。出力は通常のローカライズアーカイブと.locresファイルなので、いつでもLocHubの利用をやめられる。"
+                "x": "Wardellによれば、Clairvoyanceが狙うのは創作の置き換えではなく、ワークフロー上の摩擦だ。人間が制作したアートを独自エンジンへ取り込む、WordファイルをCSVデータに変換する、クラッシュログを分析する、Jiraのタスクを作成する、といった作業である。基本アプリは無料で、プロ版は月額$20だ。"
+              },
+              {
+                "t": "p",
+                "x": "生成アートについてWardellは「現在の生成AIは、結局どれも似たような粗悪なものを生み出していると思う」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LocHub将AI翻译带入\nUnreal Editor",
-          "body": "LocHub用你自己的AI密钥翻译Unreal文本，并由第二个AI排查问题。",
-          "mini_headline": "Unreal内的AI本地化",
+          "headline": "Stardock推出\n面向游戏开发者的AI工具",
+          "body": "Stardock发布了面向游戏开发者等群体的AI生产力工具Clairvoyance。",
+          "mini_headline": "Stardock的AI开发工具Clairvoyance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
               },
               {
                 "t": "p",
-                "x": "LocHub把AI翻译带进Unreal Editor，同时不夺走你的控制权。项目文本通过你自己的密钥发送给你选择的AI服务商；内置检查和第二个AI负责发现问题；你在一处审阅结果，再将其作为普通的Unreal本地化数据取回。"
+                "x": "Brad Wardell于1993年创立了Stardock。如今，他的团队打造了一款面向游戏开发者等用户的AI生产力工具Clairvoyance。Wardell表示，它可能成为公司最畅销的产品：“它正在爆发。”"
               },
               {
                 "t": "p",
-                "x": "格式参数、复数形式和rich-text标签会经LocHub与Unreal自带的校验器在代码层面两次验证，因此损坏的文本无法通过审批。可选的AI评审会检查含义、术语和语气，并把有风险的文本排在审阅队列最前面。每条文本都结合上下文翻译，参考其源资产或C++文件、开发者备注、相邻文本、你的风格指南和术语表。"
+                "x": "Clairvoyance最初是一款内部工具，用于自动化重复性的软件与游戏开发操作。Stardock每天使用并打磨它整整两年，之后才决定对外销售。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
               },
               {
                 "t": "p",
-                "x": "人工修改绝不会被AI覆盖，源文本一旦变动，相应译文会被标记为过时，每项任务都附有费用估算和硬性支出上限。你可以使用自己的Anthropic、OpenAI、xAI、DeepSeek或Google Gemini密钥，也可以通过订阅使用Claude Code。"
+                "x": "它直接在用户自己的电脑上运行，因此AI员工可以打开真实项目、构建、运行，并交回完成的成果。它在Windows、macOS和Linux上免费，可与Claude Code、Codex、Cursor、Grok和Copilot配合使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
               },
               {
                 "t": "p",
-                "x": "它需要Unreal Engine 5.6、5.7或5.8，以及Node.js 22.11或更高版本。输出是普通的本地化归档和.locres文件，因此你随时可以停用LocHub。"
+                "x": "Wardell表示，Clairvoyance针对的是工作流程中的阻碍，而非取代创意工作：例如把人工创作的美术资源导入自定义引擎、将Word文件转换为CSV数据、分析崩溃日志，以及创建Jira任务。基础应用免费，专业版每月$20。"
+              },
+              {
+                "t": "p",
+                "x": "谈到生成式美术，Wardell说：“我认为目前的生成式AI最终只会产出千篇一律的劣质内容。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "LocHub lleva traducción con IA\nal Unreal Editor",
-          "body": "LocHub traduce los textos de Unreal con tu propia clave de IA, con controles integrados y una segunda IA de revisión.",
-          "mini_headline": "Localización con IA dentro de Unreal",
+          "headline": "Stardock presenta Clairvoyance,\nherramientas de IA para juegos",
+          "body": "Stardock presentó Clairvoyance, una herramienta de productividad con IA para desarrolladores de juegos y otros.",
+          "mini_headline": "Clairvoyance, las herramientas de IA de Stardock",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/optimized/4X/d/0/5/d0574430adae35914753f944c9c5fa41074a6206_2_1024x576.png"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
               },
               {
                 "t": "p",
-                "x": "LocHub lleva la traducción con IA al Unreal Editor sin quitarte el control. Los textos de tu proyecto van al proveedor de IA que elijas, con tu propia clave; los controles integrados y una segunda IA detectan los problemas; revisas el resultado en un solo lugar y lo recuperas como datos de localización normales de Unreal."
+                "x": "Brad Wardell fundó Stardock en 1993. Ahora su equipo ha creado Clairvoyance, una herramienta de productividad con IA (AI) para desarrolladores de juegos y más. Wardell dijo que podría convertirse en el producto más vendido de la compañía: “Está explotando”."
               },
               {
                 "t": "p",
-                "x": "Los argumentos de formato, las formas plurales y las etiquetas rich-text se validan dos veces en código, por LocHub y por el propio validador de Unreal, de modo que no se puede aprobar texto roto. Un juez de IA opcional revisa el significado, la terminología y el tono, y coloca primero en la cola de revisión los textos de riesgo. Cada texto se traduce en contexto, con su recurso de origen o archivo C++, las notas de los desarrolladores, los textos vecinos, tu guía de estilo y tu glosario."
+                "x": "Clairvoyance nació como una herramienta interna para automatizar operaciones repetitivas de software y desarrollo de juegos, y Stardock la usó y perfeccionó a diario durante dos años antes de decidir venderla al público."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
               },
               {
                 "t": "p",
-                "x": "La IA nunca sobrescribe las ediciones humanas, un cambio en el texto de origen marca las traducciones como desactualizadas y cada tarea recibe una estimación de coste y un límite de gasto estricto. Puedes usar tu propia clave de Anthropic, OpenAI, xAI, DeepSeek o Google Gemini, o Claude Code mediante una suscripción."
+                "x": "Se ejecuta directamente en el propio equipo del usuario, de modo que su personal de IA puede abrir sus proyectos reales, compilarlos, ejecutarlos y entregar el trabajo terminado. Es gratuita en Windows, macOS y Linux, y funciona junto a Claude Code, Codex, Cursor, Grok y Copilot."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
               },
               {
                 "t": "p",
-                "x": "Requiere Unreal Engine 5.6, 5.7 o 5.8 y Node.js 22.11 o posterior. El resultado son archivos de localización comunes y archivos .locres, así que puedes dejar de usar LocHub en cualquier momento."
+                "x": "Wardell explicó que Clairvoyance apunta a las fricciones del flujo de trabajo más que a sustituir el trabajo creativo: importar arte creado por personas a motores propios, convertir archivos de Word en datos CSV, analizar registros de fallos y crear tareas en Jira. La aplicación base es gratuita; la versión pro cuesta $20 al mes."
+              },
+              {
+                "t": "p",
+                "x": "“Creo que la IA generativa actualmente acaba produciendo bazofia de aspecto homogéneo”, dijo Wardell sobre el arte generativo."
               }
             ]
           }
@@ -687,15 +667,15 @@
       }
     },
     {
-      "id": "banjo-tooie-vibe-recomp",
+      "id": "vibe-coded-mashup-mods-backlash",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Banjo-Tooie의\nvibe-coded판 뭇매",
-      "body": "Zelda·Banjo 이식팀이 vibe-coded Banjo-Tooie를 비판했다.",
-      "mini_headline": "AI Banjo-Tooie 리컴프에 비판",
+      "headline": "바이브 코딩 매시업 모드\nX 덮치자 모더들 반발",
+      "body": "AI 디컴파일 매시업 모드가 이번 주 X/Twitter를 휩쓸며 반발을 샀다.",
+      "mini_headline": "바이브 코딩 모드에 모더들 분노",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -703,185 +683,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-            "cap": "(이미지 출처: Nintendo/Rare)"
+            "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
           },
           {
             "t": "p",
-            "x": "팬들이 고전 게임을 리컴파일하는 프로젝트가 늘면서 vibe coding으로 만든 AI-driven 프로젝트도 덩달아 많아졌다. Zelda 64: Recompiled와 Banjo: Recompiled 개발진은 자기들의 N64: Recompiled 작업 위에 세운 새 Banjo-Tooie 리컴파일이 못마땅하다. 제작자는 \"AI 도구가 이 프로젝트 코드의 상당 부분을 생성했다\"고 밝혔다."
+            "x": "오래 모드를 만들어 온 이들이 인터넷 속 자기 영역을 차지한 최신 유행에 불만을 터뜨리고 있다. AI로 생성한(AI-generated), 이른바 “바이브 코딩(vibe-coded)” 모드라는 “빌어먹을 ‘트렌드’”다."
           },
           {
             "t": "p",
-            "x": "개발자 Dario는 Bluesky에서 \"Banjo-Tooie Recompilation은 우리와 전혀(NOT) 관련이 없다\"며 \"Zelda: Recompiled와 Banjo: Recompiled 모두 매우 분명한 No AI 입장을 갖고 있다\"고 말했다. 팀은 이미 Tooie 이식 계획을 발표해 둔 상태다. \"프레임워크와 렌더러, 게임 자체에 대해 우리가 사람의 손으로 쌓아 온 방대한 연구를 가져다 AI에 던져 넣는 건 그저 무례한 일이다.\""
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-            "cap": "(이미지 출처: Nintendo/Zelda 64: Recompiled)"
+            "x": "“나는 게임 모드를 만들고, 그 작업에 AI를 쓴다는 사실을 숨기지 않는다. 그래도 이 빌어먹을 ‘트렌드’는 싫다. 순전한 쓰레기일 뿐, 창의적인 구석이라고는 전혀 없다.” 모더 kran27_가 올린 글이다."
           },
           {
             "t": "p",
-            "x": "개발자 Reonu_는 이 프로젝트를 두고 팀이 계획해 둔 이식작을 AI-rushed로 급조한 \"망가진 '알파'\"라고 불렀다. Donkey Kong 64: Recompiled 개발진은 7월에 vibe coding을 거부했다. 이해 가능한 AI-assisted 코드라면 받아 주는 RPCS3 에뮬레이터 팀도 기여자들에게 \"AI 슬롭 코드\"는 그만 보내 달라고 호소했다."
+            "x": "쏟아지는 모드들은 서로 무관한 게임을 뒤섞는다. World of Warcraft를 Call of Duty: World at War에, Escape From Tarkov를 Skyrim에 넣는 식이다. 유행은 단 일주일 만에 눈덩이처럼 커졌다. Claude Opus 5.5의 토큰 가격이 내려가고 코드 생성 능력이 좋아져, 모델에 게임 디컴파일을 맡기고 전혀 다른 요소를 덧붙이기가 그 어느 때보다 쉬워진 탓이다."
+          },
+          {
+            "t": "p",
+            "x": "이런 AI 디컴파일(AI-decompiled) 매시업은 아직 Nexus Mods 같은 모딩 플랫폼에 올라오지 않았다. IGN은 권리 문제 때문일 공산이 크다고 본다. 거의 전부가 제작자에게 아무 권리도 없는 디컴파일 코드와 에셋을 쓴다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Port devs slam a vibe-coded\nBanjo-Tooie recompilation",
-          "body": "Zelda and Banjo PC port devs criticized a vibe-coded Banjo-Tooie recomp, saying throwing AI at it is disrespectful.",
-          "mini_headline": "Port devs slam AI\nBanjo-Tooie recomp",
+          "headline": "Vibe-coded mashup mods\nflood X, angering modders",
+          "body": "A wave of AI-decompiled mashup mods took over X/Twitter this week, drawing a backlash from the modding community.",
+          "mini_headline": "Vibe-coded mods\nanger modders",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-                "cap": "(Image credit: Nintendo/Rare)"
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "As fanmade recompilations of classic games grow, so do AI-driven projects built through vibe coding. The devs behind Zelda 64: Recompiled and Banjo: Recompiled are perturbed by a new Banjo-Tooie recompilation that builds on their N64: Recompiled work, whose creator says \"AI tools generated substantial portions of this project's code.\""
+                "x": "Long-time mod makers are not happy about the latest trend to take over their corner of the internet - the \"bullshit 'trend'\" of AI-generated, or \"vibe-coded\", mods."
               },
               {
                 "t": "p",
-                "x": "\"The Banjo-Tooie Recompilation is NOT associated with us,\" developer Dario said on Bluesky. \"Both Zelda: Recompiled and Banjo: Recompiled have very clear No AI stances.\" The team had already announced plans for a Tooie port: \"Using the extensive amount of human research we've done for the framework, the renderer and the games themselves and throwing AI at it is just disrespectful.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-                "cap": "(Image credit: Nintendo/Zelda 64: Recompiled)"
+                "x": "\"I mod games and I'm not shy about the fact that I use AI to do it. I hate this bullshit 'trend'. Pure slop, there's nothing creative about this at all,\" modder kran27_ posted."
               },
               {
                 "t": "p",
-                "x": "Developer Reonu_ called it an AI-rushed \"broken 'alpha'\" of a port the team had planned. The Donkey Kong 64: Recompiled devs rejected vibe coding in July, and the RPCS3 emulator team, which accepts AI-assisted code it understands, has begged contributors to stop submitting \"AI slop code.\""
+                "x": "The surge of mods brings unrelated games together, from World of Warcraft into Call of Duty: World at War, to Escape From Tarkov into Skyrim. The trend has snowballed over a single week, driven by Claude Opus 5.5's cheaper tokens and improved code generation making it easier than ever to point the model at a game, decompile it, and add in something else entirely."
+              },
+              {
+                "t": "p",
+                "x": "None of these mashups have popped up on modding platforms like Nexus Mods yet, which IGN suggests is likely down to rights issues. Almost all of them rely on decompiled code and assets the people building them have no rights to."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Banjo-Tooie의\nvibe-coded판 뭇매",
-          "body": "Zelda·Banjo 이식팀이 vibe-coded Banjo-Tooie를 비판했다.",
-          "mini_headline": "AI Banjo-Tooie 리컴프에 비판",
+          "headline": "바이브 코딩 매시업 모드\nX 덮치자 모더들 반발",
+          "body": "AI 디컴파일 매시업 모드가 이번 주 X/Twitter를 휩쓸며 반발을 샀다.",
+          "mini_headline": "바이브 코딩 모드에 모더들 분노",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-                "cap": "(이미지 출처: Nintendo/Rare)"
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "팬들이 고전 게임을 리컴파일하는 프로젝트가 늘면서 vibe coding으로 만든 AI-driven 프로젝트도 덩달아 많아졌다. Zelda 64: Recompiled와 Banjo: Recompiled 개발진은 자기들의 N64: Recompiled 작업 위에 세운 새 Banjo-Tooie 리컴파일이 못마땅하다. 제작자는 \"AI 도구가 이 프로젝트 코드의 상당 부분을 생성했다\"고 밝혔다."
+                "x": "오래 모드를 만들어 온 이들이 인터넷 속 자기 영역을 차지한 최신 유행에 불만을 터뜨리고 있다. AI로 생성한(AI-generated), 이른바 “바이브 코딩(vibe-coded)” 모드라는 “빌어먹을 ‘트렌드’”다."
               },
               {
                 "t": "p",
-                "x": "개발자 Dario는 Bluesky에서 \"Banjo-Tooie Recompilation은 우리와 전혀(NOT) 관련이 없다\"며 \"Zelda: Recompiled와 Banjo: Recompiled 모두 매우 분명한 No AI 입장을 갖고 있다\"고 말했다. 팀은 이미 Tooie 이식 계획을 발표해 둔 상태다. \"프레임워크와 렌더러, 게임 자체에 대해 우리가 사람의 손으로 쌓아 온 방대한 연구를 가져다 AI에 던져 넣는 건 그저 무례한 일이다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-                "cap": "(이미지 출처: Nintendo/Zelda 64: Recompiled)"
+                "x": "“나는 게임 모드를 만들고, 그 작업에 AI를 쓴다는 사실을 숨기지 않는다. 그래도 이 빌어먹을 ‘트렌드’는 싫다. 순전한 쓰레기일 뿐, 창의적인 구석이라고는 전혀 없다.” 모더 kran27_가 올린 글이다."
               },
               {
                 "t": "p",
-                "x": "개발자 Reonu_는 이 프로젝트를 두고 팀이 계획해 둔 이식작을 AI-rushed로 급조한 \"망가진 '알파'\"라고 불렀다. Donkey Kong 64: Recompiled 개발진은 7월에 vibe coding을 거부했다. 이해 가능한 AI-assisted 코드라면 받아 주는 RPCS3 에뮬레이터 팀도 기여자들에게 \"AI 슬롭 코드\"는 그만 보내 달라고 호소했다."
+                "x": "쏟아지는 모드들은 서로 무관한 게임을 뒤섞는다. World of Warcraft를 Call of Duty: World at War에, Escape From Tarkov를 Skyrim에 넣는 식이다. 유행은 단 일주일 만에 눈덩이처럼 커졌다. Claude Opus 5.5의 토큰 가격이 내려가고 코드 생성 능력이 좋아져, 모델에 게임 디컴파일을 맡기고 전혀 다른 요소를 덧붙이기가 그 어느 때보다 쉬워진 탓이다."
+              },
+              {
+                "t": "p",
+                "x": "이런 AI 디컴파일(AI-decompiled) 매시업은 아직 Nexus Mods 같은 모딩 플랫폼에 올라오지 않았다. IGN은 권리 문제 때문일 공산이 크다고 본다. 거의 전부가 제작자에게 아무 권리도 없는 디컴파일 코드와 에셋을 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "vibe-codedの\nBanjo-Tooieに批判",
-          "body": "ZeldaとBanjoの移植陣が、vibe-codedのBanjo-Tooieを批判した。",
-          "mini_headline": "AI製Banjo-Tooie再コンパイルに批判",
+          "headline": "バイブコーディングMOD\nXに氾濫、モッダー反発",
+          "body": "AIで逆コンパイルしたマッシュアップMODが今週X/Twitterを席巻し、反発を招いた。",
+          "mini_headline": "バイブコーディングMODにモッダー反発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-                "cap": "(画像提供：Nintendo/Rare)"
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "クラシックゲームのファンメイド再コンパイルが増えるにつれ、vibe codingで作られたAI-drivenなプロジェクトも増えている。Zelda 64: RecompiledとBanjo: Recompiledの開発者たちは、自分たちのN64: Recompiledの成果を土台にした新たなBanjo-Tooie再コンパイルに困惑している。その作者は「このプロジェクトのコードのかなりの部分はAIツールが生成した」と述べている。"
+                "x": "長年MODを作ってきた制作者たちは、ネット上の自分たちの領域を席巻する最新の流行に不満を抱いている。AIで生成した(AI-generated)、いわゆる「vibe-coded(バイブコーディング)」MODという「くだらない『トレンド』」だ。"
               },
               {
                 "t": "p",
-                "x": "開発者のDarioはBlueskyで「Banjo-Tooie Recompilationは我々とは一切（NOT）関係ない」と述べ、「Zelda: RecompiledもBanjo: Recompiledも、No AIの姿勢を非常に明確にしている」とした。チームはすでにTooieの移植計画を発表していた。「フレームワーク、レンダラー、そしてゲームそのものについて我々が人の手で積み重ねてきた膨大な研究を使い、そこにAIを投げ込むのは、ただ無礼なことだ」"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-                "cap": "(画像提供：Nintendo/Zelda 64: Recompiled)"
+                "x": "「僕はゲームのMODを作っているし、そのためにAIを使っていることも隠していない。でも、このくだらない『トレンド』は大嫌いだ。ただのゴミで、創造性なんてまったくない」とモッダーのkran27_は投稿した。"
               },
               {
                 "t": "p",
-                "x": "開発者のReonu_は、これをチームが計画していた移植をAI-rushedで急造した「壊れた『アルファ版』」と呼んだ。Donkey Kong 64: Recompiledの開発者たちは7月にvibe codingを拒否しており、理解できるAI-assistedのコードは受け入れるRPCS3エミュレーターチームも、貢献者に「AIスロップコード」の提出をやめるよう懇願している。"
+                "x": "急増するMODは、無関係なゲーム同士を組み合わせる。World of WarcraftをCall of Duty: World at Warに、Escape From TarkovをSkyrimに、といった具合だ。この流行はたった一週間で雪だるま式に広がった。Claude Opus 5.5のトークンが安くなり、コード生成も向上したことで、モデルにゲームを指定して逆コンパイルさせ、まったく別の要素を加えることがかつてなく容易になったためだ。"
+              },
+              {
+                "t": "p",
+                "x": "こうしたAIによる逆コンパイル(AI-decompiled)のマッシュアップは、まだNexus ModsなどのMODプラットフォームには現れていない。IGNは権利の問題が原因である可能性が高いとみている。そのほぼすべてが、制作者に何の権利もない逆コンパイルされたコードやアセットに依存しているからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "vibe-coded的\nBanjo-Tooie遭批评",
-          "body": "Zelda与Banjo PC移植团队批评vibe-coded的Banjo-Tooie重编译。",
-          "mini_headline": "移植开发者批AI版Banjo-Tooie",
+          "headline": "氛围编程拼接模组\n刷屏X，模组作者不满",
+          "body": "一波经AI反编译的拼接模组本周席卷X/Twitter，引发模组社区反弹。",
+          "mini_headline": "氛围编程模组惹恼模组作者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-                "cap": "（图片来源：Nintendo/Rare）"
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "随着经典游戏的粉丝重编译项目越来越多，借助vibe coding打造的AI-driven项目也在增加。Zelda 64: Recompiled和Banjo: Recompiled的开发者对一款新的Banjo-Tooie重编译感到不安，它建立在他们的N64: Recompiled成果之上，其作者称“这个项目的大部分代码由AI工具生成”。"
+                "x": "资深模组作者们对最近席卷其网络圈子的新潮流很不满——那就是AI生成（AI-generated）或者说“vibe-coded”（氛围编程）模组这一“狗屁‘潮流’”。"
               },
               {
                 "t": "p",
-                "x": "开发者Dario在Bluesky上表示：“Banjo-Tooie Recompilation与我们毫无（NOT）关系。”“Zelda: Recompiled和Banjo: Recompiled都有非常明确的No AI立场。”团队此前已宣布Tooie移植计划：“拿我们在框架、渲染器和游戏本身上投入的大量人工研究，再把AI扔进去，这简直是不尊重。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-                "cap": "（图片来源：Nintendo/Zelda 64: Recompiled）"
+                "x": "“我做游戏模组，也从不讳言自己用AI来做。但我讨厌这种狗屁‘潮流’。纯粹是垃圾，毫无创意可言。”模组作者kran27_发帖写道。"
               },
               {
                 "t": "p",
-                "x": "开发者Reonu_称其是团队原本计划的移植版被AI-rushed赶出来的“残破‘alpha’”。Donkey Kong 64: Recompiled的开发者在7月拒绝了vibe coding；而接受自己能理解的AI-assisted代码的RPCS3模拟器团队，也恳求贡献者别再提交“AI垃圾代码”。"
+                "x": "这些激增的模组把互不相干的游戏拼在一起，从把World of Warcraft放进Call of Duty: World at War，到把Escape From Tarkov放进Skyrim。这股潮流在短短一周内像滚雪球一样迅速扩大，推动力来自Claude Opus 5.5更便宜的token和更强的代码生成能力——如今让模型对准一款游戏、反编译它、再加入完全不同的内容，比以往任何时候都容易。"
+              },
+              {
+                "t": "p",
+                "x": "这些AI反编译（AI-decompiled）的拼接模组目前尚未出现在Nexus Mods等模组平台上，IGN认为这很可能是权利问题所致。它们几乎全都依赖制作者无权使用的反编译代码和素材。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Críticas a una recompilación\nvibe-coded de Banjo-Tooie",
-          "body": "Quienes portaron Zelda y Banjo a PC tachan de irrespetuoso usar IA en una recompilación vibe-coded de Banjo-Tooie.",
-          "mini_headline": "Critican el recomp con IA de Banjo-Tooie",
+          "headline": "Mods hechos con vibe coding\ninundan X y enfadan a modders",
+          "body": "Una ola de mods mashup descompilados con IA invadió X/Twitter esta semana y provocó el rechazo de los modders.",
+          "mini_headline": "Los mods vibe-coded indignan a los modders",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-                "cap": "(Crédito de imagen: Nintendo/Rare)"
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "A medida que crecen las recompilaciones de clásicos hechas por fans, también lo hacen los proyectos AI-driven creados mediante vibe coding. Los desarrolladores de Zelda 64: Recompiled y Banjo: Recompiled están molestos con una nueva recompilación de Banjo-Tooie basada en su trabajo de N64: Recompiled, cuyo creador afirma que «las herramientas de IA generaron partes sustanciales del código de este proyecto»."
+                "x": "Los creadores de mods veteranos no están contentos con la última moda que se ha apoderado de su rincón de internet: la “‘tendencia’ de mierda” de los mods generados por IA (AI-generated), o “vibe-coded”."
               },
               {
                 "t": "p",
-                "x": "«La Banjo-Tooie Recompilation NO (NOT) está asociada con nosotros», dijo el desarrollador Dario en Bluesky. «Tanto Zelda: Recompiled como Banjo: Recompiled tienen posturas No AI muy claras». El equipo ya había anunciado planes para un port de Tooie: «Usar la enorme cantidad de investigación humana que hemos hecho sobre el framework, el renderizador y los propios juegos y echarle IA encima es sencillamente una falta de respeto»."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-                "cap": "(Crédito de imagen: Nintendo/Zelda 64: Recompiled)"
+                "x": "“Hago mods de juegos y no me avergüenza decir que uso IA para ello. Odio esta ‘tendencia’ de mierda. Pura bazofia, no hay nada creativo en esto”, publicó el modder kran27_."
               },
               {
                 "t": "p",
-                "x": "El desarrollador Reonu_ la calificó de «'alfa' rota» AI-rushed de un port que el equipo tenía previsto. Los desarrolladores de Donkey Kong 64: Recompiled rechazaron el vibe coding en julio, y el equipo del emulador RPCS3, que acepta código AI-assisted que entiende, ha rogado a los colaboradores que dejen de enviar «código basura de IA»."
+                "x": "La avalancha de mods une juegos que no tienen relación entre sí, desde World of Warcraft dentro de Call of Duty: World at War hasta Escape From Tarkov dentro de Skyrim. La tendencia creció como una bola de nieve en una sola semana, impulsada por los tokens más baratos de Claude Opus 5.5 y su mejor generación de código, que hacen más fácil que nunca apuntar el modelo a un juego, descompilarlo y añadirle algo totalmente distinto."
+              },
+              {
+                "t": "p",
+                "x": "Ninguno de estos mashups descompilados con IA (AI-decompiled) ha aparecido todavía en plataformas de modding como Nexus Mods, algo que según IGN probablemente se deba a cuestiones de derechos. Casi todos dependen de código y recursos descompilados sobre los que sus creadores no tienen ningún derecho."
               }
             ]
           }
@@ -889,129 +857,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Banjo-Tooie의\nvibe-coded판 뭇매",
-          "body": "Zelda·Banjo 이식팀이 vibe-coded Banjo-Tooie를 비판했다.",
-          "mini_headline": "AI Banjo-Tooie 리컴프에 비판",
+          "headline": "바이브 코딩 매시업 모드\nX 덮치자 모더들 반발",
+          "body": "AI 디컴파일 매시업 모드가 이번 주 X/Twitter를 휩쓸어 반발을 샀다.",
+          "mini_headline": "바이브 코딩 모드에 모더들 분노",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-                "cap": "(이미지 출처: Nintendo/Rare)"
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "고전 게임을 팬들이 리컴파일하는 프로젝트가 늘면서, vibe coding으로 만든 AI-driven 프로젝트도 늘고 있다. Zelda 64: Recompiled와 Banjo: Recompiled 개발진은 자신들의 N64: Recompiled 작업을 바탕으로 한 새 Banjo-Tooie 리컴파일에 불편한 기색이다. 이 프로젝트의 제작자는 \"AI 도구가 이 프로젝트 코드의 상당 부분을 생성했다\"고 밝혔다."
+                "x": "오랜 모드 제작자들이 인터넷 속 자신들의 영역을 장악한 최신 유행에 불만을 드러내고 있다. AI로 생성한(AI-generated), 이른바 “바이브 코딩(vibe-coded)” 모드라는 “빌어먹을 ‘트렌드’”다."
               },
               {
                 "t": "p",
-                "x": "개발자 Dario는 Bluesky에서 \"Banjo-Tooie Recompilation은 우리와 전혀(NOT) 관련이 없다\"며 \"Zelda: Recompiled와 Banjo: Recompiled 모두 매우 분명한 No AI 입장을 갖고 있다\"고 말했다. 팀은 이미 Tooie 이식 계획을 발표한 바 있다. \"프레임워크와 렌더러, 게임 자체에 대해 우리가 사람의 손으로 쌓아 온 방대한 연구를 가져다 AI에 던져 넣는 건 그저 무례한 일이다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-                "cap": "(이미지 출처: Nintendo/Zelda 64: Recompiled)"
+                "x": "“나는 게임 모드를 만들고, 그 작업에 AI를 쓴다는 사실을 숨기지 않는다. 그래도 이 빌어먹을 ‘트렌드’는 싫다. 순전한 쓰레기일 뿐, 창의적인 구석이라고는 전혀 없다.” 모더 kran27_의 글이다."
               },
               {
                 "t": "p",
-                "x": "개발자 Reonu_는 이를 팀이 계획해 둔 이식작을 AI-rushed로 급조한 \"망가진 '알파'\"라고 불렀다. Donkey Kong 64: Recompiled 개발진은 7월에 vibe coding을 거부했고, 이해할 수 있는 AI-assisted 코드는 받아들이는 RPCS3 에뮬레이터 팀은 기여자들에게 \"AI 슬롭 코드\"를 그만 제출해 달라고 호소했다."
+                "x": "쏟아지는 모드들은 서로 무관한 게임을 한데 섞는다. World of Warcraft를 Call of Duty: World at War에, Escape From Tarkov를 Skyrim에 넣는 식이다. 이 유행은 단 일주일 만에 눈덩이처럼 불어났다. Claude Opus 5.5의 토큰 가격이 내려가고 코드 생성 능력이 좋아지면서, 모델에게 게임을 맡겨 디컴파일하고 전혀 다른 요소를 덧붙이는 일이 그 어느 때보다 쉬워졌기 때문이다."
+              },
+              {
+                "t": "p",
+                "x": "이런 AI 디컴파일(AI-decompiled) 매시업은 아직 Nexus Mods 같은 모딩 플랫폼에는 올라오지 않았다. IGN은 권리 문제 때문일 가능성이 크다고 본다. 거의 모두가 제작자에게 아무 권리가 없는 디컴파일 코드와 에셋에 기대고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "vibe-codedの\nBanjo-Tooieに批判",
-          "body": "ZeldaとBanjoの移植陣が、vibe-codedのBanjo-Tooieを批判した。",
-          "mini_headline": "AI製Banjo-Tooie再コンパイルに批判",
+          "headline": "バイブコーディングMOD\nXに氾濫、モッダー反発",
+          "body": "AIで逆コンパイルしたマッシュアップMODが今週X/Twitterを席巻し、反発を招いた。",
+          "mini_headline": "バイブコーディングMODにモッダー反発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-                "cap": "(画像提供：Nintendo/Rare)"
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "クラシックゲームのファンメイド再コンパイルが増えるにつれ、vibe codingで作られたAI-drivenなプロジェクトも増えている。Zelda 64: RecompiledとBanjo: Recompiledの開発者たちは、自分たちのN64: Recompiledの成果を土台にした新たなBanjo-Tooie再コンパイルに困惑している。その作者は「このプロジェクトのコードのかなりの部分はAIツールが生成した」と述べている。"
+                "x": "長年MODを作ってきた制作者たちは、ネット上の自分たちの領域を席巻する最新の流行に不満を抱いている。AIで生成した(AI-generated)、いわゆる「vibe-coded(バイブコーディング)」MODという「くだらない『トレンド』」だ。"
               },
               {
                 "t": "p",
-                "x": "開発者のDarioはBlueskyで「Banjo-Tooie Recompilationは我々とは一切（NOT）関係ない」と述べ、「Zelda: RecompiledもBanjo: Recompiledも、No AIの姿勢を非常に明確にしている」とした。チームはすでにTooieの移植計画を発表していた。「フレームワーク、レンダラー、そしてゲームそのものについて我々が人の手で積み重ねてきた膨大な研究を使い、そこにAIを投げ込むのは、ただ無礼なことだ」"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-                "cap": "(画像提供：Nintendo/Zelda 64: Recompiled)"
+                "x": "「僕はゲームのMODを作っているし、そのためにAIを使っていることも隠していない。でも、このくだらない『トレンド』は大嫌いだ。ただのゴミで、創造性なんてまったくない」とモッダーのkran27_は投稿した。"
               },
               {
                 "t": "p",
-                "x": "開発者のReonu_は、これをチームが計画していた移植をAI-rushedで急造した「壊れた『アルファ版』」と呼んだ。Donkey Kong 64: Recompiledの開発者たちは7月にvibe codingを拒否しており、理解できるAI-assistedのコードは受け入れるRPCS3エミュレーターチームも、貢献者に「AIスロップコード」の提出をやめるよう懇願している。"
+                "x": "急増するMODは、無関係なゲーム同士を組み合わせる。World of WarcraftをCall of Duty: World at Warに、Escape From TarkovをSkyrimに、といった具合だ。この流行はたった一週間で雪だるま式に広がった。Claude Opus 5.5のトークンが安くなり、コード生成も向上したことで、モデルにゲームを指定して逆コンパイルさせ、まったく別の要素を加えることがかつてなく容易になったためだ。"
+              },
+              {
+                "t": "p",
+                "x": "こうしたAIによる逆コンパイル(AI-decompiled)のマッシュアップは、まだNexus ModsなどのMODプラットフォームには現れていない。IGNは権利の問題が原因である可能性が高いとみている。そのほぼすべてが、制作者に何の権利もない逆コンパイルされたコードやアセットに依存しているからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "vibe-coded的\nBanjo-Tooie遭批评",
-          "body": "Zelda与Banjo PC移植团队批评vibe-coded的Banjo-Tooie重编译。",
-          "mini_headline": "移植开发者批AI版Banjo-Tooie",
+          "headline": "氛围编程拼接模组\n刷屏X，模组作者不满",
+          "body": "一波经AI反编译的拼接模组本周席卷X/Twitter，引发模组社区反弹。",
+          "mini_headline": "氛围编程模组惹恼模组作者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-                "cap": "（图片来源：Nintendo/Rare）"
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "随着经典游戏的粉丝重编译项目越来越多，借助vibe coding打造的AI-driven项目也在增加。Zelda 64: Recompiled和Banjo: Recompiled的开发者对一款新的Banjo-Tooie重编译感到不安，它建立在他们的N64: Recompiled成果之上，其作者称“这个项目的大部分代码由AI工具生成”。"
+                "x": "资深模组作者们对最近席卷其网络圈子的新潮流很不满——那就是AI生成（AI-generated）或者说“vibe-coded”（氛围编程）模组这一“狗屁‘潮流’”。"
               },
               {
                 "t": "p",
-                "x": "开发者Dario在Bluesky上表示：“Banjo-Tooie Recompilation与我们毫无（NOT）关系。”“Zelda: Recompiled和Banjo: Recompiled都有非常明确的No AI立场。”团队此前已宣布Tooie移植计划：“拿我们在框架、渲染器和游戏本身上投入的大量人工研究，再把AI扔进去，这简直是不尊重。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-                "cap": "（图片来源：Nintendo/Zelda 64: Recompiled）"
+                "x": "“我做游戏模组，也从不讳言自己用AI来做。但我讨厌这种狗屁‘潮流’。纯粹是垃圾，毫无创意可言。”模组作者kran27_发帖写道。"
               },
               {
                 "t": "p",
-                "x": "开发者Reonu_称其是团队原本计划的移植版被AI-rushed赶出来的“残破‘alpha’”。Donkey Kong 64: Recompiled的开发者在7月拒绝了vibe coding；而接受自己能理解的AI-assisted代码的RPCS3模拟器团队，也恳求贡献者别再提交“AI垃圾代码”。"
+                "x": "这些激增的模组把互不相干的游戏拼在一起，从把World of Warcraft放进Call of Duty: World at War，到把Escape From Tarkov放进Skyrim。这股潮流在短短一周内像滚雪球一样迅速扩大，推动力来自Claude Opus 5.5更便宜的token和更强的代码生成能力——如今让模型对准一款游戏、反编译它、再加入完全不同的内容，比以往任何时候都容易。"
+              },
+              {
+                "t": "p",
+                "x": "这些AI反编译（AI-decompiled）的拼接模组目前尚未出现在Nexus Mods等模组平台上，IGN认为这很可能是权利问题所致。它们几乎全都依赖制作者无权使用的反编译代码和素材。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Críticas a una recompilación\nvibe-coded de Banjo-Tooie",
-          "body": "Quienes portaron Zelda y Banjo a PC tachan de irrespetuoso usar IA en una recompilación vibe-coded de Banjo-Tooie.",
-          "mini_headline": "Critican el recomp con IA de Banjo-Tooie",
+          "headline": "Mods hechos con vibe coding\ninundan X y enfadan a modders",
+          "body": "Una ola de mods mashup descompilados con IA invadió X/Twitter esta semana y provocó el rechazo de los modders.",
+          "mini_headline": "Los mods vibe-coded indignan a los modders",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7dd5KPjpNgxXX2DvWMjuRZ-1920-80.jpg",
-                "cap": "(Crédito de imagen: Nintendo/Rare)"
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "A medida que crecen las recompilaciones de clásicos hechas por fans, también lo hacen los proyectos AI-driven creados mediante vibe coding. Los desarrolladores de Zelda 64: Recompiled y Banjo: Recompiled están molestos con una nueva recompilación de Banjo-Tooie basada en su trabajo de N64: Recompiled, cuyo creador afirma que «las herramientas de IA generaron partes sustanciales del código de este proyecto»."
+                "x": "Los creadores de mods veteranos no están contentos con la última moda que se ha apoderado de su rincón de internet: la “‘tendencia’ de mierda” de los mods generados por IA (AI-generated), o “vibe-coded”."
               },
               {
                 "t": "p",
-                "x": "«La Banjo-Tooie Recompilation NO (NOT) está asociada con nosotros», dijo el desarrollador Dario en Bluesky. «Tanto Zelda: Recompiled como Banjo: Recompiled tienen posturas No AI muy claras». El equipo ya había anunciado planes para un port de Tooie: «Usar la enorme cantidad de investigación humana que hemos hecho sobre el framework, el renderizador y los propios juegos y echarle IA encima es sencillamente una falta de respeto»."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/959ktPUZGao3vDeLjLFUHX-1200-80.jpg",
-                "cap": "(Crédito de imagen: Nintendo/Zelda 64: Recompiled)"
+                "x": "“Hago mods de juegos y no me avergüenza decir que uso IA para ello. Odio esta ‘tendencia’ de mierda. Pura bazofia, no hay nada creativo en esto”, publicó el modder kran27_."
               },
               {
                 "t": "p",
-                "x": "El desarrollador Reonu_ la calificó de «'alfa' rota» AI-rushed de un port que el equipo tenía previsto. Los desarrolladores de Donkey Kong 64: Recompiled rechazaron el vibe coding en julio, y el equipo del emulador RPCS3, que acepta código AI-assisted que entiende, ha rogado a los colaboradores que dejen de enviar «código basura de IA»."
+                "x": "La avalancha de mods une juegos que no tienen relación entre sí, desde World of Warcraft dentro de Call of Duty: World at War hasta Escape From Tarkov dentro de Skyrim. La tendencia creció como una bola de nieve en una sola semana, impulsada por los tokens más baratos de Claude Opus 5.5 y su mejor generación de código, que hacen más fácil que nunca apuntar el modelo a un juego, descompilarlo y añadirle algo totalmente distinto."
+              },
+              {
+                "t": "p",
+                "x": "Ninguno de estos mashups descompilados con IA (AI-decompiled) ha aparecido todavía en plataformas de modding como Nexus Mods, algo que según IGN probablemente se deba a cuestiones de derechos. Casi todos dependen de código y recursos descompilados sobre los que sus creadores no tienen ningún derecho."
               }
             ]
           }
@@ -1019,15 +979,327 @@
       }
     },
     {
-      "id": "fallout-new-york-ai-cnd",
+      "id": "grimhammer3-mod-corrupted-ai-protest",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-made 폴아웃에\nZeniMax C&D 주장",
-      "body": "Fallout: New York 제작자는 ZeniMax의 C&D를 받았다고 했다.",
-      "mini_headline": "AI Fallout 게임에 ZeniMax C&D 주장",
+      "headline": "Warhammer 3 모더\n자기 모드 일부러 망가뜨려",
+      "body": "SFO: Grimhammer 3 제작자가 AI 재업로드에 항의해 모드를 훼손했다.",
+      "mini_headline": "AI 재업로드에 자기 모드 부순 모더",
       "tool": "Games",
       "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
+      "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          },
+          {
+            "t": "p",
+            "x": "Total War: Warhammer 3 오버홀 모드가 AI를 활용한(AI-infused) 방식으로 무단 재업로드되자, SFO: Grimhammer 3의 주 제작자가 화가 나 모드를 일부러 망가뜨리기로 했다. 최신 버전의 Grimhammer 3를 언제, 어디서 받을지 모더들이 더 확실히 쥐겠다는 취지다. 제작자 Venris는 상황이 나아지지 않으면 모드를 비공개로 돌리겠다고 경고했다."
+          },
+          {
+            "t": "p",
+            "x": "“SFO: Grimhammer III의 무단 재업로드가 늘고 있고, 더 중요하게는 그 과정에서 AI가 쓰이고 있어, 이런 무단 업로드에서는 작동하지 않도록 모드를 일부러 손상시켰습니다.” 제작자는 IGN이 찾아낸 Patreon 게시글에 이렇게 썼다."
+          },
+          {
+            "t": "p",
+            "x": "“SFO: Grimhammer는 이 커뮤니티와 판타지 세계를 향한 십 년 가까운 열정과 애정의 결과물입니다. 그러니 누구도 허락 없이 제 작업물을 가져가게 두지 않습니다. 특히 AI 관련(AI-related) 목적이라면 더더욱 그렇습니다. AI가 아니라 모더를 응원해 주세요.” Venris는 모드를 유료화할 생각은 없다고 못 박으며 글을 맺었다."
+          },
+          {
+            "t": "p",
+            "x": "SFO 팀의 모드는 주로 Steam Workshop으로 배포된다. 다만 Nexus Mods 같은 모딩 사이트들은 최근 생성형 AI로 만든 모드의 표기 기준을 강화하는 쪽으로 움직였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Warhammer 3 modder corrupts\nown mod to protest AI reuploads",
+          "body": "SFO: Grimhammer 3's creator deliberately corrupted the Warhammer 3 mod to protest AI-infused unauthorised reuploads.",
+          "mini_headline": "Modder sabotages own mod\nover AI reuploads",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Cheesed off with unauthorised reuploads of their Total War: Warhammer 3 overhaul which make use of AI, the main modder behind SFO: Grimhammer 3 has opted to purposefully corrupt the mod. The aim is to ensure that the modders maintain more control over where and when the latest version of Grimhammer 3 can be grabbed, with creator Venris threatening to make the mod private if the situation doesn't improve."
+              },
+              {
+                "t": "p",
+                "x": "\"Due to the growing number of unauthorized reuploads of SFO: Grimhammer III, and more importantly, the use of AI in the process, I have deliberately corrupted the mod to prevent it from functioning with such unauthorized uploads,\" they wrote in a Patreon post spotted by IGN."
+              },
+              {
+                "t": "p",
+                "x": "\"SFO: Grimhammer is the result of nearly ten years of passion and love for this community and the fantasy world. As such, I do not permit anyone to take my work without permission. Especially not for AI-related purposes. Support modders, not AI.\" Venris closed by making clear they won't be paywalling the mod."
+              },
+              {
+                "t": "p",
+                "x": "While the SFO team's mods are primarily published via the Steam Workshop, modding sites like Nexus Mods have recently moved to tighten up their labelling of mods made using generative AI."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Warhammer 3 모더\n자기 모드 일부러 망가뜨려",
+          "body": "SFO: Grimhammer 3 제작자가 AI 재업로드에 항의해 모드를 훼손했다.",
+          "mini_headline": "AI 재업로드에 자기 모드 부순 모더",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Total War: Warhammer 3 오버홀 모드가 AI를 활용한(AI-infused) 방식으로 무단 재업로드되자, SFO: Grimhammer 3의 주 제작자가 화가 나 모드를 일부러 망가뜨리기로 했다. 최신 버전의 Grimhammer 3를 언제, 어디서 받을지 모더들이 더 확실히 쥐겠다는 취지다. 제작자 Venris는 상황이 나아지지 않으면 모드를 비공개로 돌리겠다고 경고했다."
+              },
+              {
+                "t": "p",
+                "x": "“SFO: Grimhammer III의 무단 재업로드가 늘고 있고, 더 중요하게는 그 과정에서 AI가 쓰이고 있어, 이런 무단 업로드에서는 작동하지 않도록 모드를 일부러 손상시켰습니다.” 제작자는 IGN이 찾아낸 Patreon 게시글에 이렇게 썼다."
+              },
+              {
+                "t": "p",
+                "x": "“SFO: Grimhammer는 이 커뮤니티와 판타지 세계를 향한 십 년 가까운 열정과 애정의 결과물입니다. 그러니 누구도 허락 없이 제 작업물을 가져가게 두지 않습니다. 특히 AI 관련(AI-related) 목적이라면 더더욱 그렇습니다. AI가 아니라 모더를 응원해 주세요.” Venris는 모드를 유료화할 생각은 없다고 못 박으며 글을 맺었다."
+              },
+              {
+                "t": "p",
+                "x": "SFO 팀의 모드는 주로 Steam Workshop으로 배포된다. 다만 Nexus Mods 같은 모딩 사이트들은 최근 생성형 AI로 만든 모드의 표기 기준을 강화하는 쪽으로 움직였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI無断転載に抗議し\n自作MODを故意に破損",
+          "body": "SFO: Grimhammer 3の作者が、AI無断転載に抗議しMODを破損させた。",
+          "mini_headline": "AI転載に抗議、作者がMODを自ら破損",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "AIを使った(AI-infused)Total War: Warhammer 3向けオーバーホールMODの無断転載に業を煮やし、SFO: Grimhammer 3の中心的なモッダーがMODを意図的に破損させることを選んだ。狙いは、Grimhammer 3の最新版をいつどこで入手できるかを、モッダー側がより確実に管理できるようにすることだ。作者のVenrisは、状況が改善しなければMODを非公開にすると警告している。"
+              },
+              {
+                "t": "p",
+                "x": "「SFO: Grimhammer IIIの無断転載が増えており、さらに重要なのはその過程でAIが使われていることです。そのため、こうした無断アップロードでは動作しないよう、意図的にMODを破損させました」と、作者はIGNが見つけたPatreonの投稿に書いている。"
+              },
+              {
+                "t": "p",
+                "x": "「SFO: Grimhammerは、このコミュニティとファンタジー世界への十年近い情熱と愛情の結晶です。ですから、誰であれ許可なく私の作品を持ち出すことは認めません。AI関連(AI-related)の目的であればなおさらです。AIではなく、モッダーを支援してください」。Venrisは、MODを有料化するつもりはないと明言して投稿を締めくくった。"
+              },
+              {
+                "t": "p",
+                "x": "SFOチームのMODは主にSteam Workshopで公開されているが、Nexus ModsなどのMODサイトは最近、生成AIを使って作られたMODの表示を厳格化する動きを見せている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Warhammer 3模组\n作者抗议AI转载而自毁",
+          "body": "SFO: Grimhammer 3作者故意损坏模组，以抗议借助AI的未授权转载。",
+          "mini_headline": "作者为抗议AI转载自毁模组",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "由于不满自己为Total War: Warhammer 3制作的大修模组被人借助AI（AI-infused）未经授权转载，SFO: Grimhammer 3的主要作者决定故意损坏这款模组。此举旨在让模组作者更好地掌控Grimhammer 3最新版本的获取渠道与时间，作者Venris还警告称，如果情况没有改善，就会把模组设为私密。"
+              },
+              {
+                "t": "p",
+                "x": "“由于SFO: Grimhammer III的未授权转载越来越多，更重要的是转载过程中还使用了AI，我故意损坏了模组，使其无法在这些未授权上传的版本中运行。”作者在一篇被IGN发现的Patreon帖子中写道。"
+              },
+              {
+                "t": "p",
+                "x": "“SFO: Grimhammer是近十年来我对这个社区和这个奇幻世界的热情与热爱的结晶。因此，我不允许任何人未经许可拿走我的作品，尤其是用于与AI相关（AI-related）的用途。请支持模组作者，而不是AI。”Venris在帖子结尾明确表示，不会把模组设为付费。"
+              },
+              {
+                "t": "p",
+                "x": "虽然SFO团队的模组主要通过Steam Workshop发布，但Nexus Mods等模组网站最近已着手收紧对使用生成式AI制作的模组的标注要求。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un modder de Warhammer 3 daña\nsu mod contra resubidas con IA",
+          "body": "El creador de SFO: Grimhammer 3 corrompió a propósito su mod en protesta por resubidas no autorizadas con IA.",
+          "mini_headline": "Un modder sabotea su propio mod por resubidas con IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Harto de las resubidas no autorizadas de su revisión integral de Total War: Warhammer 3 que recurren a la IA (AI-infused), el principal modder detrás de SFO: Grimhammer 3 ha optado por corromper el mod a propósito. El objetivo es que los modders mantengan más control sobre dónde y cuándo se puede descargar la versión más reciente de Grimhammer 3, y su creador, Venris, amenaza con hacer privado el mod si la situación no mejora."
+              },
+              {
+                "t": "p",
+                "x": "“Debido al creciente número de resubidas no autorizadas de SFO: Grimhammer III y, sobre todo, al uso de IA en el proceso, he corrompido deliberadamente el mod para impedir que funcione con esas subidas no autorizadas”, escribió en una publicación de Patreon detectada por IGN."
+              },
+              {
+                "t": "p",
+                "x": "“SFO: Grimhammer es el resultado de casi diez años de pasión y amor por esta comunidad y por el mundo de fantasía. Por eso, no permito que nadie tome mi trabajo sin permiso. Y menos aún con fines relacionados con la IA (AI-related). Apoyen a los modders, no a la IA”. Venris cerró dejando claro que no pondrá el mod tras un muro de pago."
+              },
+              {
+                "t": "p",
+                "x": "Aunque los mods del equipo de SFO se publican principalmente a través de Steam Workshop, sitios de modding como Nexus Mods han empezado recientemente a endurecer el etiquetado de los mods creados con IA generativa."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Warhammer 3 모더\n자기 모드 일부러 망가뜨려",
+          "body": "SFO: Grimhammer 3 제작자가 AI 재업로드에 항의해 모드를 훼손했다.",
+          "mini_headline": "AI 재업로드에 모드를 스스로 망가뜨린 모더",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "AI를 활용한(AI-infused) Total War: Warhammer 3 오버홀 모드의 무단 재업로드에 화가 난 SFO: Grimhammer 3의 주 제작자가 모드를 일부러 망가뜨리기로 했다. 최신 버전의 Grimhammer 3를 언제, 어디서 받을 수 있는지를 모더들이 더 확실히 통제하려는 목적이다. 제작자 Venris는 상황이 나아지지 않으면 모드를 비공개로 돌리겠다고 경고했다."
+              },
+              {
+                "t": "p",
+                "x": "“SFO: Grimhammer III의 무단 재업로드가 늘고 있고, 더 중요하게는 그 과정에서 AI가 쓰이고 있어, 이런 무단 업로드에서는 작동하지 않도록 모드를 일부러 손상시켰습니다.” 제작자는 IGN이 찾아낸 Patreon 게시글에 이렇게 썼다."
+              },
+              {
+                "t": "p",
+                "x": "“SFO: Grimhammer는 이 커뮤니티와 판타지 세계를 향한 십 년 가까운 열정과 애정의 결과물입니다. 그러니 누구도 허락 없이 제 작업물을 가져가게 두지 않습니다. 특히 AI 관련(AI-related) 목적이라면 더더욱 그렇습니다. AI가 아니라 모더를 응원해 주세요.” Venris는 모드를 유료화하지는 않겠다고 분명히 밝히며 글을 맺었다."
+              },
+              {
+                "t": "p",
+                "x": "SFO 팀의 모드는 주로 Steam Workshop을 통해 배포되지만, Nexus Mods 같은 모딩 사이트들은 최근 생성형 AI로 만든 모드의 표기 기준을 강화하는 쪽으로 움직였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI無断転載に抗議し\n自作MODを故意に破損",
+          "body": "SFO: Grimhammer 3の作者が、AI無断転載に抗議しMODを破損させた。",
+          "mini_headline": "AI転載に抗議、作者がMODを自ら破損",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "AIを使った(AI-infused)Total War: Warhammer 3向けオーバーホールMODの無断転載に業を煮やし、SFO: Grimhammer 3の中心的なモッダーがMODを意図的に破損させることを選んだ。狙いは、Grimhammer 3の最新版をいつどこで入手できるかを、モッダー側がより確実に管理できるようにすることだ。作者のVenrisは、状況が改善しなければMODを非公開にすると警告している。"
+              },
+              {
+                "t": "p",
+                "x": "「SFO: Grimhammer IIIの無断転載が増えており、さらに重要なのはその過程でAIが使われていることです。そのため、こうした無断アップロードでは動作しないよう、意図的にMODを破損させました」と、作者はIGNが見つけたPatreonの投稿に書いている。"
+              },
+              {
+                "t": "p",
+                "x": "「SFO: Grimhammerは、このコミュニティとファンタジー世界への十年近い情熱と愛情の結晶です。ですから、誰であれ許可なく私の作品を持ち出すことは認めません。AI関連(AI-related)の目的であればなおさらです。AIではなく、モッダーを支援してください」。Venrisは、MODを有料化するつもりはないと明言して投稿を締めくくった。"
+              },
+              {
+                "t": "p",
+                "x": "SFOチームのMODは主にSteam Workshopで公開されているが、Nexus ModsなどのMODサイトは最近、生成AIを使って作られたMODの表示を厳格化する動きを見せている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Warhammer 3模组\n作者抗议AI转载而自毁",
+          "body": "SFO: Grimhammer 3作者故意损坏模组，以抗议借助AI的未授权转载。",
+          "mini_headline": "作者为抗议AI转载自毁模组",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "由于不满自己为Total War: Warhammer 3制作的大修模组被人借助AI（AI-infused）未经授权转载，SFO: Grimhammer 3的主要作者决定故意损坏这款模组。此举旨在让模组作者更好地掌控Grimhammer 3最新版本的获取渠道与时间，作者Venris还警告称，如果情况没有改善，就会把模组设为私密。"
+              },
+              {
+                "t": "p",
+                "x": "“由于SFO: Grimhammer III的未授权转载越来越多，更重要的是转载过程中还使用了AI，我故意损坏了模组，使其无法在这些未授权上传的版本中运行。”作者在一篇被IGN发现的Patreon帖子中写道。"
+              },
+              {
+                "t": "p",
+                "x": "“SFO: Grimhammer是近十年来我对这个社区和这个奇幻世界的热情与热爱的结晶。因此，我不允许任何人未经许可拿走我的作品，尤其是用于与AI相关（AI-related）的用途。请支持模组作者，而不是AI。”Venris在帖子结尾明确表示，不会把模组设为付费。"
+              },
+              {
+                "t": "p",
+                "x": "虽然SFO团队的模组主要通过Steam Workshop发布，但Nexus Mods等模组网站最近已着手收紧对使用生成式AI制作的模组的标注要求。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un modder de Warhammer 3 daña\nsu mod contra resubidas con IA",
+          "body": "El creador de SFO: Grimhammer 3 corrompió a propósito su mod en protesta por resubidas no autorizadas con IA.",
+          "mini_headline": "Un modder sabotea su propio mod por resubidas con IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Harto de las resubidas no autorizadas de su revisión integral de Total War: Warhammer 3 que recurren a la IA (AI-infused), el principal modder detrás de SFO: Grimhammer 3 ha optado por corromper el mod a propósito. El objetivo es que los modders mantengan más control sobre dónde y cuándo se puede descargar la versión más reciente de Grimhammer 3, y su creador, Venris, amenaza con hacer privado el mod si la situación no mejora."
+              },
+              {
+                "t": "p",
+                "x": "“Debido al creciente número de resubidas no autorizadas de SFO: Grimhammer III y, sobre todo, al uso de IA en el proceso, he corrompido deliberadamente el mod para impedir que funcione con esas subidas no autorizadas”, escribió en una publicación de Patreon detectada por IGN."
+              },
+              {
+                "t": "p",
+                "x": "“SFO: Grimhammer es el resultado de casi diez años de pasión y amor por esta comunidad y por el mundo de fantasía. Por eso, no permito que nadie tome mi trabajo sin permiso. Y menos aún con fines relacionados con la IA (AI-related). Apoyen a los modders, no a la IA”. Venris cerró dejando claro que no pondrá el mod tras un muro de pago."
+              },
+              {
+                "t": "p",
+                "x": "Aunque los mods del equipo de SFO se publican principalmente a través de Steam Workshop, sitios de modding como Nexus Mods han empezado recientemente a endurecer el etiquetado de los mods creados con IA generativa."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "activision-mw2-genai-legal-notice",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "genAI MW2 디컴파일\nActivision이 제동",
+      "body": "Activision이 genAI MW2 디컴파일 영상을 내리게 했다.",
+      "mini_headline": "Activision, genAI MW2 프로젝트 겨냥",
+      "tool": "Games",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1035,407 +1307,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: Bethesda"
+            "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
           },
           {
             "t": "p",
-            "x": "AI-generated(AI 생성) 브라우저 게임 Fallout: New York의 제작자가 Bethesda 모회사 ZeniMax에서 중단 요구 메시지를 받았다고 주장했다. 게임은 Anthropic의 Claude Opus 5.5로 만들었다."
+            "x": "기존 게임의 아류작과 디컴파일, 바이브 코딩으로 찍어 내는 저질 게임은 지금 사실상 무법지대다. 그런데 둘 다 Microsoft 소유인 Activision과 Bethesda가 최근 서로 다른 두 프로젝트를 상대로 조치에 나섰다."
           },
           {
             "t": "p",
-            "x": "트위터에서 CHRIS FIRST라는 이름을 쓰는 자칭 \"AI Creative\" 제작자는 게임에 퀘스트, 동료, 대화 트리, V.A.T.S., Pip-Boy가 다 있고 전부 코드로 생성해 \"텍스처 파일은 영 개\", \"사운드 파일도 영 개\"라고 자랑했다. Rock Paper Shotgun은 NPC 얼굴을 두고 끔찍하게 흉측하다고 평했다. 프롬프터는 \"전부 무료이고 이걸로 한 푼도 벌지 않는다\"고 썼다."
+            "x": "Claude Opus 5.5로 코딩한 브라우저 재현작 Fallout: New York은 조회수 3.5백만 회를 넘겼다. 하지만 ChrisFirst는 Bethesda에서 중단 요구서를 받았다고 알려진 뒤 10월 1일 프로젝트를 접었다."
           },
           {
             "t": "p",
-            "x": "통지가 진짜라면 ZeniMax가 저작물을 지키려고 문제 삼은 건 \"fallout.nyc\" 도메인 이름으로 보인다. RPS는 Bethesda에 입장을 물었다. 제작자는 \"내가 안 만들어도 되게 차라리 당신들이 Fallout 게임을 만드는 건 어때?\"라고 응수했다. RPS는 그 대신 사람이 만든 대형 모드 Fallout: London을 권한다."
+            "x": "Maurice Heumann은 9월 30일 X에 genAI로 PC판 원작 Modern Warfare 2의 소스 코드를 디컴파일하는 중이라고 올렸다. “현재 17개의 에이전트가 병렬로 작업하고 있어 놀라운 속도로 진척되고 있다”는 글이었다."
+          },
+          {
+            "t": "p",
+            "x": "Activision은 그가 공유한 영상을 지우는 것으로 대응했다. 그 자리에는 “저작권자의 신고에 따라 이 미디어는 비활성화되었습니다”라는 경고만 남았다. 코드를 호스팅하던 것으로 알려진 사이트 링크도 더는 열리지 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Creator says ZeniMax sent C&D\nto AI-made Fallout game",
-          "body": "The maker of a Claude-built Fallout: New York browser game says Bethesda parent ZeniMax sent a cease and desist.",
-          "mini_headline": "ZeniMax C&D claimed\nfor AI Fallout game",
+          "headline": "Activision pulls footage of\ngenAI MW2 decompilation",
+          "body": "Activision had footage of a genAI Modern Warfare 2 decompilation pulled as Bethesda also cracks down on vibe coders.",
+          "mini_headline": "Activision targets\ngenAI MW2 project",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: Bethesda"
+                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "The person behind an AI-generated browser game dubbed Fallout: New York has claimed to have received a cease and desist message from Bethesda parent company ZeniMax. The game was generated using Anthropic's Claude Opus 5.5."
+                "x": "There’s currently a free-for-all when it comes to vibe coding video game slop, including knock-offs and decompilations of existing games. Activision and Bethesda, both owned by Microsoft, recently took action against two different projects."
               },
               {
                 "t": "p",
-                "x": "Its creator, a self-styled \"AI Creative\" going by CHRIS FIRST on Twitter, boasted of quests, companions, dialogue trees, V.A.T.S. and a Pip-Boy, with \"zero texture files\" and \"zero sound files\" since everything is generated by code. Rock Paper Shotgun calls the NPC faces utterly hideous. \"It's all free and I make 0 money on it,\" the prompter wrote."
+                "x": "Fallout: New York, a browser recreation coded with Claude Opus 5.5, drew over 3.5 million views before ChrisFirst abandoned it on October 1 after receiving an alleged cease and desist from Bethesda."
               },
               {
                 "t": "p",
-                "x": "If the notice is genuine, the \"fallout.nyc\" domain name looks like the strand ZeniMax picked at to protect its copyrighted material; RPS has asked Bethesda for comment. \"How about you make a Fallout game instead so I don't have to?\" the creator replied. RPS instead recommends Fallout: London, a massive mod made by humans."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Su autor dice que ZeniMax envió\nun C&D a su Fallout AI-made",
-          "body": "El autor de Fallout: New York, juego Claude-built, dice que ZeniMax, matriz de Bethesda, le envió un C&D.",
-          "mini_headline": "ZeniMax y el C&D a un Fallout hecho con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de imagen: Bethesda"
+                "x": "Maurice Heumann shared on X on September 30 that he was using genAI to decompile the source code for the original Modern Warfare 2 on PC. “With currently 17 agents working in parallel, we’re making progress at an incredible pace,” he wrote."
               },
               {
                 "t": "p",
-                "x": "El autor de un juego de navegador AI-generated llamado Fallout: New York afirma haber recibido un mensaje de cese y desista de ZeniMax, la empresa matriz de Bethesda. El juego se generó con Claude Opus 5.5, de Anthropic."
-              },
-              {
-                "t": "p",
-                "x": "Su creador, que se presenta como «AI Creative» y usa el nombre CHRIS FIRST en Twitter, presumió de misiones, compañeros, árboles de diálogo, V.A.T.S. y un Pip-Boy, con «cero archivos de texturas» y «cero archivos de sonido», ya que todo se genera con código. Rock Paper Shotgun describe las caras de los NPC como absolutamente horribles. «Todo es gratis y gano 0 dinero con ello», escribió el autor de los prompts."
-              },
-              {
-                "t": "p",
-                "x": "Si el aviso es auténtico, el nombre de dominio «fallout.nyc» parece ser el hilo del que tiró ZeniMax para proteger su material con derechos de autor; RPS ha pedido comentarios a Bethesda. «¿Y si mejor hacéis vosotros un juego de Fallout para que yo no tenga que hacerlo?», respondió el creador. RPS recomienda en su lugar Fallout: London, un enorme mod hecho por humanos."
+                "x": "Activision responded by nuking the footage he’d shared, replaced with a warning: “This media has been disabled in response to a report by the copyright owner.” A link to the site allegedly hosting the code can no longer be reached either."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-made 폴아웃에\nZeniMax C&D 주장",
-          "body": "Fallout: New York 제작자는 ZeniMax의 C&D를 받았다고 했다.",
-          "mini_headline": "AI Fallout 게임에 ZeniMax C&D 주장",
+          "headline": "genAI MW2 디컴파일\nActivision이 제동",
+          "body": "Activision이 genAI MW2 디컴파일 영상을 내리게 했다.",
+          "mini_headline": "Activision, genAI MW2 프로젝트 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Bethesda"
+                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-generated(AI 생성) 브라우저 게임 Fallout: New York의 제작자가 Bethesda 모회사 ZeniMax에서 중단 요구 메시지를 받았다고 주장했다. 게임은 Anthropic의 Claude Opus 5.5로 만들었다."
+                "x": "기존 게임의 아류작과 디컴파일, 바이브 코딩으로 찍어 내는 저질 게임은 지금 사실상 무법지대다. 그런데 둘 다 Microsoft 소유인 Activision과 Bethesda가 최근 서로 다른 두 프로젝트를 상대로 조치에 나섰다."
               },
               {
                 "t": "p",
-                "x": "트위터에서 CHRIS FIRST라는 이름을 쓰는 자칭 \"AI Creative\" 제작자는 게임에 퀘스트, 동료, 대화 트리, V.A.T.S., Pip-Boy가 다 있고 전부 코드로 생성해 \"텍스처 파일은 영 개\", \"사운드 파일도 영 개\"라고 자랑했다. Rock Paper Shotgun은 NPC 얼굴을 두고 끔찍하게 흉측하다고 평했다. 프롬프터는 \"전부 무료이고 이걸로 한 푼도 벌지 않는다\"고 썼다."
+                "x": "Claude Opus 5.5로 코딩한 브라우저 재현작 Fallout: New York은 조회수 3.5백만 회를 넘겼다. 하지만 ChrisFirst는 Bethesda에서 중단 요구서를 받았다고 알려진 뒤 10월 1일 프로젝트를 접었다."
               },
               {
                 "t": "p",
-                "x": "통지가 진짜라면 ZeniMax가 저작물을 지키려고 문제 삼은 건 \"fallout.nyc\" 도메인 이름으로 보인다. RPS는 Bethesda에 입장을 물었다. 제작자는 \"내가 안 만들어도 되게 차라리 당신들이 Fallout 게임을 만드는 건 어때?\"라고 응수했다. RPS는 그 대신 사람이 만든 대형 모드 Fallout: London을 권한다."
+                "x": "Maurice Heumann은 9월 30일 X에 genAI로 PC판 원작 Modern Warfare 2의 소스 코드를 디컴파일하는 중이라고 올렸다. “현재 17개의 에이전트가 병렬로 작업하고 있어 놀라운 속도로 진척되고 있다”는 글이었다."
+              },
+              {
+                "t": "p",
+                "x": "Activision은 그가 공유한 영상을 지우는 것으로 대응했다. 그 자리에는 “저작권자의 신고에 따라 이 미디어는 비활성화되었습니다”라는 경고만 남았다. 코드를 호스팅하던 것으로 알려진 사이트 링크도 더는 열리지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-madeゲームに\nZeniMaxがC&D通知",
-          "body": "Fallout: New Yorkの制作者が、ZeniMaxからC&Dを受けたと主張した。",
-          "mini_headline": "AI FalloutにZeniMaxがC&Dか",
+          "headline": "genAIでのMW2解析動画\nActivisionが削除",
+          "body": "ActivisionがgenAIによるMW2逆コンパイル動画を削除させた。",
+          "mini_headline": "Activision、genAI製MW2計画に対処",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像クレジット: Bethesda"
+                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-generated（AI生成）のブラウザゲーム「Fallout: New York」の制作者が、Bethesdaの親会社ZeniMaxから停止要求のメッセージを受け取ったと主張している。このゲームはAnthropicのClaude Opus 5.5で生成された。"
+                "x": "既存ゲームの模倣品や逆コンパイルを含め、バイブコーディングで作られた粗悪なゲームは、いまや無法状態だ。どちらもMicrosoft傘下のActivisionとBethesdaは最近、二つの別々のプロジェクトに対して措置を講じた。"
               },
               {
                 "t": "p",
-                "x": "制作者はTwitterでCHRIS FIRSTを名乗る自称「AI Creative」で、クエスト、コンパニオン、会話ツリー、V.A.T.S.、Pip-Boyを備え、すべてをコードで生成しているため「テクスチャファイルはゼロ」「サウンドファイルもゼロ」だと誇った。Rock Paper ShotgunはNPCの顔がひどく醜いと評している。「すべて無料で、これで一銭も稼いでいない」とプロンプターは書いた。"
+                "x": "Claude Opus 5.5でコーディングされたブラウザ版の再現作Fallout: New Yorkは3.5百万回を超える再生を集めたが、ChrisFirstはBethesdaから停止要求を受け取ったとされ、10月1日に開発を断念した。"
               },
               {
                 "t": "p",
-                "x": "通知が本物なら、ZeniMaxが著作物を守るために問題視したのは「fallout.nyc」というドメイン名のようだ。RPSはBethesdaにコメントを求めている。制作者は「僕が作らなくて済むように、代わりにFalloutのゲームを作ったらどう？」と返した。RPSは代わりに、人の手による大型MOD「Fallout: London」を薦めている。"
+                "x": "Maurice Heumannは9月30日、genAIを使ってPC版オリジナルのModern Warfare 2のソースコードを逆コンパイルしているとXで明かした。「現在17のエージェントが並行して作業しており、驚くべきペースで進んでいる」と彼は書いた。"
+              },
+              {
+                "t": "p",
+                "x": "Activisionは、彼が共有した映像を削除することで対応し、その場所には「このメディアは著作権者からの報告により無効化されました」という警告が表示された。コードをホストしていたとされるサイトへのリンクも、もはやアクセスできない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "制作者称ZeniMax\n向AI-made游戏发C&D",
-          "body": "Claude打造的Fallout: New York作者称收到ZeniMax勒令停止函。",
-          "mini_headline": "ZeniMax被指向AI Fallout游戏发C&D",
+          "headline": "Activision下架\ngenAI反编译MW2视频",
+          "body": "Activision要求下架用genAI反编译Modern Warfare 2的视频。",
+          "mini_headline": "Activision出手genAI版MW2项目",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Bethesda"
+                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "一款名为Fallout: New York的AI-generated（AI生成）浏览器游戏的制作者声称，收到了Bethesda母公司ZeniMax发来的勒令停止通知。该游戏使用Anthropic的Claude Opus 5.5生成。"
+                "x": "如今，用氛围编程制作劣质游戏已成乱象，其中包括对现有游戏的山寨和反编译。同属Microsoft旗下的Activision和Bethesda最近分别对两个不同项目采取了行动。"
               },
               {
                 "t": "p",
-                "x": "其制作者在Twitter上名为CHRIS FIRST，自称“AI Creative”，夸耀游戏拥有任务、同伴、对话树、V.A.T.S.和Pip-Boy，并且因为一切都由代码生成，做到了“零纹理文件”和“零音效文件”。Rock Paper Shotgun称NPC的脸极其丑陋。这位提示词作者写道：“全部免费，我一分钱都不赚。”"
+                "x": "用Claude Opus 5.5编写的浏览器复刻作品Fallout: New York浏览量超过3.5百万次，但ChrisFirst据称收到Bethesda的停止侵权函后，于10月1日放弃了该项目。"
               },
               {
                 "t": "p",
-                "x": "如果通知属实，ZeniMax为保护版权素材而揪住的似乎是“fallout.nyc”这个域名；RPS已向Bethesda寻求置评。制作者回应：“不如你们来做一款Fallout游戏，这样我就不用做了？”RPS则推荐由人类制作的大型模组Fallout: London。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "Su autor dice que ZeniMax envió\nun C&D a su Fallout AI-made",
-          "body": "El autor de Fallout: New York, juego Claude-built, dice que ZeniMax, matriz de Bethesda, le envió un C&D.",
-          "mini_headline": "ZeniMax y el C&D a un Fallout hecho con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de imagen: Bethesda"
+                "x": "Maurice Heumann于9月30日在X上表示，他正在用genAI反编译PC版初代Modern Warfare 2的源代码。他写道：“目前有17个智能体并行工作，我们的进展速度惊人。”"
               },
               {
                 "t": "p",
-                "x": "El autor de un juego de navegador AI-generated llamado Fallout: New York afirma haber recibido un mensaje de cese y desista de ZeniMax, la empresa matriz de Bethesda. El juego se generó con Claude Opus 5.5, de Anthropic."
-              },
-              {
-                "t": "p",
-                "x": "Su creador, que se presenta como «AI Creative» y usa el nombre CHRIS FIRST en Twitter, presumió de misiones, compañeros, árboles de diálogo, V.A.T.S. y un Pip-Boy, con «cero archivos de texturas» y «cero archivos de sonido», ya que todo se genera con código. Rock Paper Shotgun describe las caras de los NPC como absolutamente horribles. «Todo es gratis y gano 0 dinero con ello», escribió el autor de los prompts."
-              },
-              {
-                "t": "p",
-                "x": "Si el aviso es auténtico, el nombre de dominio «fallout.nyc» parece ser el hilo del que tiró ZeniMax para proteger su material con derechos de autor; RPS ha pedido comentarios a Bethesda. «¿Y si mejor hacéis vosotros un juego de Fallout para que yo no tenga que hacerlo?», respondió el creador. RPS recomienda en su lugar Fallout: London, un enorme mod hecho por humanos."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-made 폴아웃에\nZeniMax C&D 주장",
-          "body": "Fallout: New York 제작자는 ZeniMax의 C&D를 받았다고 했다.",
-          "mini_headline": "AI Fallout 게임에 ZeniMax C&D 주장",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Bethesda"
-              },
-              {
-                "t": "p",
-                "x": "Fallout: New York이라는 AI-generated(AI 생성) 브라우저 게임의 제작자가 Bethesda 모회사 ZeniMax로부터 중단 요구 메시지를 받았다고 주장했다. 이 게임은 Anthropic의 Claude Opus 5.5로 만들었다."
-              },
-              {
-                "t": "p",
-                "x": "트위터에서 CHRIS FIRST라는 이름을 쓰는 자칭 \"AI Creative\" 제작자는 퀘스트, 동료, 대화 트리, V.A.T.S., Pip-Boy를 갖췄고 모든 것을 코드로 생성해 \"텍스처 파일은 영 개\", \"사운드 파일도 영 개\"라고 자랑했다. Rock Paper Shotgun은 NPC 얼굴이 끔찍하게 흉측하다고 평했다. 프롬프터는 \"전부 무료이고 이걸로 한 푼도 벌지 않는다\"고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "통지가 진짜라면 ZeniMax가 저작물을 지키려고 문제 삼은 대목은 \"fallout.nyc\" 도메인 이름으로 보인다. RPS는 Bethesda에 입장을 요청했다. 제작자는 \"내가 안 만들어도 되게 차라리 당신들이 Fallout 게임을 만드는 건 어때?\"라고 응수했다. RPS는 대신 사람이 만든 대형 모드 Fallout: London을 추천한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-madeゲームに\nZeniMaxがC&D通知",
-          "body": "Fallout: New Yorkの制作者が、ZeniMaxからC&Dを受けたと主張した。",
-          "mini_headline": "AI FalloutにZeniMaxがC&Dか",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像クレジット: Bethesda"
-              },
-              {
-                "t": "p",
-                "x": "AI-generated（AI生成）のブラウザゲーム「Fallout: New York」の制作者が、Bethesdaの親会社ZeniMaxから停止要求のメッセージを受け取ったと主張している。このゲームはAnthropicのClaude Opus 5.5で生成された。"
-              },
-              {
-                "t": "p",
-                "x": "制作者はTwitterでCHRIS FIRSTを名乗る自称「AI Creative」で、クエスト、コンパニオン、会話ツリー、V.A.T.S.、Pip-Boyを備え、すべてをコードで生成しているため「テクスチャファイルはゼロ」「サウンドファイルもゼロ」だと誇った。Rock Paper ShotgunはNPCの顔がひどく醜いと評している。「すべて無料で、これで一銭も稼いでいない」とプロンプターは書いた。"
-              },
-              {
-                "t": "p",
-                "x": "通知が本物なら、ZeniMaxが著作物を守るために問題視したのは「fallout.nyc」というドメイン名のようだ。RPSはBethesdaにコメントを求めている。制作者は「僕が作らなくて済むように、代わりにFalloutのゲームを作ったらどう？」と返した。RPSは代わりに、人の手による大型MOD「Fallout: London」を薦めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "制作者称ZeniMax\n向AI-made游戏发C&D",
-          "body": "Claude打造的Fallout: New York作者称收到ZeniMax勒令停止函。",
-          "mini_headline": "ZeniMax被指向AI Fallout游戏发C&D",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/fallout-4-mod-drama-breaking-benjamin-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Bethesda"
-              },
-              {
-                "t": "p",
-                "x": "一款名为Fallout: New York的AI-generated（AI生成）浏览器游戏的制作者声称，收到了Bethesda母公司ZeniMax发来的勒令停止通知。该游戏使用Anthropic的Claude Opus 5.5生成。"
-              },
-              {
-                "t": "p",
-                "x": "其制作者在Twitter上名为CHRIS FIRST，自称“AI Creative”，夸耀游戏拥有任务、同伴、对话树、V.A.T.S.和Pip-Boy，并且因为一切都由代码生成，做到了“零纹理文件”和“零音效文件”。Rock Paper Shotgun称NPC的脸极其丑陋。这位提示词作者写道：“全部免费，我一分钱都不赚。”"
-              },
-              {
-                "t": "p",
-                "x": "如果通知属实，ZeniMax为保护版权素材而揪住的似乎是“fallout.nyc”这个域名；RPS已向Bethesda寻求置评。制作者回应：“不如你们来做一款Fallout游戏，这样我就不用做了？”RPS则推荐由人类制作的大型模组Fallout: London。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "ue5-codex-gpt6-npc-tutorial",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "UE5로 말하는\nAI NPCs 만들기",
-      "body": "Codex와 Unreal MCP, OpenAI API로 UE5 NPCs를 만든다.",
-      "mini_headline": "UE5의 말하는 AI NPCs",
-      "tool": "Games",
-      "source": "Epic Developer Community",
-      "url": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
-          },
-          {
-            "t": "p",
-            "x": "Codex와 GPT-6 Astra로 Unreal Engine 5에서 대화형 AI NPCs를 만드는 커뮤니티 튜토리얼이다."
-          },
-          {
-            "t": "p",
-            "x": "Codex, Unreal MCP, UnrealAI, OpenAI API로 애니메이션 NPCs와 AI-generated 대사, 대화 기록을 구현하는 step-by-step 가이드다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Building talking AI NPCs\nin Unreal Engine 5",
-          "body": "A guide wires Codex, Unreal MCP, UnrealAI, and the OpenAI API into animated UE5 NPCs with AI-generated dialogue.",
-          "mini_headline": "Talking AI NPCs\nin UE5",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
-              },
-              {
-                "t": "p",
-                "x": "Community Tutorial: Building Conversational AI NPCs in Unreal Engine 5 with Codex and GPT-6 Astra."
-              },
-              {
-                "t": "p",
-                "x": "A step-by-step guide to animated NPCs, AI-generated dialogue, and conversation history with Codex, Unreal MCP, UnrealAI, and the OpenAI API."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "UE5로 말하는\nAI NPCs 만들기",
-          "body": "Codex와 Unreal MCP, OpenAI API로 UE5 NPCs를 만든다.",
-          "mini_headline": "UE5의 말하는 AI NPCs",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
-              },
-              {
-                "t": "p",
-                "x": "Codex와 GPT-6 Astra로 Unreal Engine 5에서 대화형 AI NPCs를 만드는 커뮤니티 튜토리얼이다."
-              },
-              {
-                "t": "p",
-                "x": "Codex, Unreal MCP, UnrealAI, OpenAI API로 애니메이션 NPCs와 AI-generated 대사, 대화 기록을 구현하는 step-by-step 가이드다."
+                "x": "Activision的回应是直接撤下他分享的视频，取而代之的是一条警告：“此媒体已因版权所有者的举报而被禁用。”据称托管该代码的网站链接也已无法访问。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Crear NPCs con IA que hablan\nen Unreal Engine 5",
-          "body": "Una guía une Codex, Unreal MCP, UnrealAI y la OpenAI API para crear NPCs animados en UE5 con diálogos AI-generated.",
-          "mini_headline": "NPCs de IA que hablan en UE5",
+          "headline": "Activision retira un video de\nla descompilación genAI de MW2",
+          "body": "Activision retiró un video de una descompilación con genAI de Modern Warfare 2, y Bethesda frena a los vibe coders.",
+          "mini_headline": "Activision apunta al proyecto genAI de MW2",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
+                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "Tutorial de la comunidad: cómo crear NPCs conversacionales con IA en Unreal Engine 5 con Codex y GPT-6 Astra."
+                "x": "Ahora mismo reina el todo vale en lo que respecta a la bazofia de videojuegos hecha con vibe coding, incluidas imitaciones y descompilaciones de juegos existentes. Activision y Bethesda, ambas propiedad de Microsoft, actuaron recientemente contra dos proyectos distintos."
               },
               {
                 "t": "p",
-                "x": "Una guía step-by-step para crear NPCs animados, diálogos AI-generated e historial de conversación con Codex, Unreal MCP, UnrealAI y la OpenAI API."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "UE5で話す\nAI NPCsを作る",
-          "body": "Codexなどで、AI-generated会話を話すUE5 NPCsを作る手引きだ。",
-          "mini_headline": "UE5で話すAI NPCs",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
+                "x": "Fallout: New York, una recreación para navegador programada con Claude Opus 5.5, superó los 3.5 millones de visualizaciones antes de que ChrisFirst la abandonara el 1 de octubre tras recibir, según se informa, un requerimiento de cese y desistimiento de Bethesda."
               },
               {
                 "t": "p",
-                "x": "コミュニティチュートリアル: CodexとGPT-6 Astraを使い、Unreal Engine 5で会話型AI NPCs（NPC）を作る。"
+                "x": "Maurice Heumann contó en X el 30 de septiembre que estaba usando genAI para descompilar el código fuente del Modern Warfare 2 original para PC. “Con 17 agentes trabajando actualmente en paralelo, estamos avanzando a un ritmo increíble”, escribió."
               },
               {
                 "t": "p",
-                "x": "Codex、Unreal MCP、UnrealAI、OpenAI APIを使って、アニメーション付きのNPCs、AI-generated（AI生成）の会話、会話履歴を実装する手順ガイドだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "用UE5打造\n会说话的AI NPCs",
-          "body": "指南用Codex等工具，在UE5中打造带AI-generated对话的动画NPCs。",
-          "mini_headline": "UE5中会说话的AI NPCs",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
-              },
-              {
-                "t": "p",
-                "x": "社区教程：借助Codex与GPT-6 Astra，在Unreal Engine 5中构建可对话的AI NPCs。"
-              },
-              {
-                "t": "p",
-                "x": "分步讲解如何用Codex、Unreal MCP、UnrealAI和OpenAI API实现带动画的NPCs、AI-generated（AI生成）对话以及对话历史。"
+                "x": "Activision respondió eliminando el video que había compartido, sustituido por un aviso: “Este contenido multimedia se ha desactivado en respuesta a una denuncia del propietario de los derechos de autor”. Tampoco se puede acceder ya a un enlace al sitio que supuestamente alojaba el código."
               }
             ]
           }
@@ -1443,89 +1481,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UE5로 말하는\nAI NPCs 만들기",
-          "body": "Codex와 Unreal MCP, OpenAI API로 UE5 NPCs를 만든다.",
-          "mini_headline": "UE5의 말하는 AI NPCs",
+          "headline": "genAI MW2 디컴파일\nActivision이 제동",
+          "body": "Activision이 genAI MW2 디컴파일 영상을 내리게 했다.",
+          "mini_headline": "Activision, genAI MW2 프로젝트 겨냥",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
+                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "커뮤니티 튜토리얼: Codex와 GPT-6 Astra로 Unreal Engine 5에서 대화형 AI NPCs 만들기."
+                "x": "지금 기존 게임의 아류작과 디컴파일을 비롯해, 바이브 코딩으로 찍어 내는 저질 게임은 사실상 무법지대다. 둘 다 Microsoft 소유인 Activision과 Bethesda가 최근 서로 다른 두 프로젝트를 상대로 조치에 나섰다."
               },
               {
                 "t": "p",
-                "x": "Codex, Unreal MCP, UnrealAI, OpenAI API로 애니메이션 NPCs, AI-generated 대사, 대화 기록을 구현하는 step-by-step 가이드다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Crear NPCs con IA que hablan\nen Unreal Engine 5",
-          "body": "Una guía une Codex, Unreal MCP, UnrealAI y la OpenAI API para crear NPCs animados en UE5 con diálogos AI-generated.",
-          "mini_headline": "NPCs de IA que hablan en UE5",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
+                "x": "Claude Opus 5.5로 코딩한 브라우저 재현작 Fallout: New York은 조회수 3.5백만 회를 넘겼지만, ChrisFirst는 Bethesda로부터 중단 요구서를 받은 것으로 알려진 뒤 10월 1일 프로젝트를 접었다."
               },
               {
                 "t": "p",
-                "x": "Tutorial de la comunidad: cómo crear NPCs conversacionales con IA en Unreal Engine 5 con Codex y GPT-6 Astra."
+                "x": "Maurice Heumann은 9월 30일 X에서 genAI로 PC판 원작 Modern Warfare 2의 소스 코드를 디컴파일하고 있다고 밝혔다. 그는 “현재 17개의 에이전트가 병렬로 작업하고 있어 놀라운 속도로 진척되고 있다”고 썼다."
               },
               {
                 "t": "p",
-                "x": "Una guía step-by-step para crear NPCs animados, diálogos AI-generated e historial de conversación con Codex, Unreal MCP, UnrealAI y la OpenAI API."
+                "x": "Activision은 그가 공유한 영상을 삭제하는 것으로 대응했고, 그 자리에는 “저작권자의 신고에 따라 이 미디어는 비활성화되었습니다”라는 경고가 떴다. 코드를 호스팅하던 것으로 알려진 사이트의 링크도 더는 접속되지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UE5で話す\nAI NPCsを作る",
-          "body": "Codexなどで、AI-generated会話を話すUE5 NPCsを作る手引きだ。",
-          "mini_headline": "UE5で話すAI NPCs",
+          "headline": "genAIでのMW2解析動画\nActivisionが削除",
+          "body": "ActivisionがgenAIによるMW2逆コンパイル動画を削除させた。",
+          "mini_headline": "Activision、genAI製MW2計画に対処",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
+                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "コミュニティチュートリアル: CodexとGPT-6 Astraを使い、Unreal Engine 5で会話型AI NPCs（NPC）を作る。"
+                "x": "既存ゲームの模倣品や逆コンパイルを含め、バイブコーディングで作られた粗悪なゲームは、いまや無法状態だ。どちらもMicrosoft傘下のActivisionとBethesdaは最近、二つの別々のプロジェクトに対して措置を講じた。"
               },
               {
                 "t": "p",
-                "x": "Codex、Unreal MCP、UnrealAI、OpenAI APIを使って、アニメーション付きのNPCs、AI-generated（AI生成）の会話、会話履歴を実装する手順ガイドだ。"
+                "x": "Claude Opus 5.5でコーディングされたブラウザ版の再現作Fallout: New Yorkは3.5百万回を超える再生を集めたが、ChrisFirstはBethesdaから停止要求を受け取ったとされ、10月1日に開発を断念した。"
+              },
+              {
+                "t": "p",
+                "x": "Maurice Heumannは9月30日、genAIを使ってPC版オリジナルのModern Warfare 2のソースコードを逆コンパイルしているとXで明かした。「現在17のエージェントが並行して作業しており、驚くべきペースで進んでいる」と彼は書いた。"
+              },
+              {
+                "t": "p",
+                "x": "Activisionは、彼が共有した映像を削除することで対応し、その場所には「このメディアは著作権者からの報告により無効化されました」という警告が表示された。コードをホストしていたとされるサイトへのリンクも、もはやアクセスできない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用UE5打造\n会说话的AI NPCs",
-          "body": "指南用Codex等工具，在UE5中打造带AI-generated对话的动画NPCs。",
-          "mini_headline": "UE5中会说话的AI NPCs",
+          "headline": "Activision下架\ngenAI反编译MW2视频",
+          "body": "Activision要求下架用genAI反编译Modern Warfare 2的视频。",
+          "mini_headline": "Activision出手genAI版MW2项目",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/b/2/4b280f634b056c5ef927c55b924c348550827f02.png"
+                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
               },
               {
                 "t": "p",
-                "x": "社区教程：借助Codex与GPT-6 Astra，在Unreal Engine 5中构建可对话的AI NPCs。"
+                "x": "如今，用氛围编程制作劣质游戏已成乱象，其中包括对现有游戏的山寨和反编译。同属Microsoft旗下的Activision和Bethesda最近分别对两个不同项目采取了行动。"
               },
               {
                 "t": "p",
-                "x": "分步讲解如何用Codex、Unreal MCP、UnrealAI和OpenAI API实现带动画的NPCs、AI-generated（AI生成）对话以及对话历史。"
+                "x": "用Claude Opus 5.5编写的浏览器复刻作品Fallout: New York浏览量超过3.5百万次，但ChrisFirst据称收到Bethesda的停止侵权函后，于10月1日放弃了该项目。"
+              },
+              {
+                "t": "p",
+                "x": "Maurice Heumann于9月30日在X上表示，他正在用genAI反编译PC版初代Modern Warfare 2的源代码。他写道：“目前有17个智能体并行工作，我们的进展速度惊人。”"
+              },
+              {
+                "t": "p",
+                "x": "Activision的回应是直接撤下他分享的视频，取而代之的是一条警告：“此媒体已因版权所有者的举报而被禁用。”据称托管该代码的网站链接也已无法访问。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Activision retira un video de\nla descompilación genAI de MW2",
+          "body": "Activision retiró un video de una descompilación con genAI de Modern Warfare 2, y Bethesda frena a los vibe coders.",
+          "mini_headline": "Activision apunta al proyecto genAI de MW2",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Ahora mismo reina el todo vale en lo que respecta a la bazofia de videojuegos hecha con vibe coding, incluidas imitaciones y descompilaciones de juegos existentes. Activision y Bethesda, ambas propiedad de Microsoft, actuaron recientemente contra dos proyectos distintos."
+              },
+              {
+                "t": "p",
+                "x": "Fallout: New York, una recreación para navegador programada con Claude Opus 5.5, superó los 3.5 millones de visualizaciones antes de que ChrisFirst la abandonara el 1 de octubre tras recibir, según se informa, un requerimiento de cese y desistimiento de Bethesda."
+              },
+              {
+                "t": "p",
+                "x": "Maurice Heumann contó en X el 30 de septiembre que estaba usando genAI para descompilar el código fuente del Modern Warfare 2 original para PC. “Con 17 agentes trabajando actualmente en paralelo, estamos avanzando a un ritmo increíble”, escribió."
+              },
+              {
+                "t": "p",
+                "x": "Activision respondió eliminando el video que había compartido, sustituido por un aviso: “Este contenido multimedia se ha desactivado en respuesta a una denuncia del propietario de los derechos de autor”. Tampoco se puede acceder ya a un enlace al sitio que supuestamente alojaba el código."
               }
             ]
           }

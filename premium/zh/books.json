@@ -4924,6 +4924,125 @@
           "x": "2025年美国（U.S.）有声书销售额达到24.3亿美元。这些功能目前处于测试阶段，Audible计划逐步扩展到更多作品。"
         }
       ]
+    },
+    "books/ewc-destructive-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+          "cap": "一只孤立霸王龙(t-rex)的3d渲染插图 © 3dMediSphere"
+        },
+        {
+          "t": "p",
+          "x": "EWC谴责AI科技行业对数以百万计的欧洲古籍和珍本进行« 破坏性扫描 »的做法，并呼吁决策者为作者、出版商和读者发声。"
+        },
+        {
+          "t": "p",
+          "x": "非欧洲(Non-European)科技巨头已通过二手书店和古籍书商购入至少多达两百万册图书。在U.S.的AI扫描工厂里，书脊被切掉，书页送入高速扫描仪，随后书本被丢弃、粉碎，再回收制成卫生纸。这些文件被用于开发大语言模型。"
+        },
+        {
+          "t": "p",
+          "x": "“珍本正在被毁。许多这样的书将再也找不到，只会作为某家AI科技公司的数字财产存在。”EWC副主席(Vice President)Maïa Bensimon说。EWC政策专员Nina George提到了Anthropic的秘密计划‘Project Panama’，其目标是‘扫描世界上所有的书’。"
+        },
+        {
+          "t": "p",
+          "x": "2026年9月16日，执行副主席(Executive Vice-President)Henna Virkkunen答复称，由于文本与数据挖掘例外只涵盖数字作品，将受版权保护的图书数字化，即便是合法购得的纸质版，也须事先获得权利人授权。"
+        },
+        {
+          "t": "p",
+          "x": "EWC呼吁欧盟委员会(European Commission)、欧洲议会(European Parliament)以及每个欧洲国家明确表态，反对这种做法。"
+        }
+      ]
+    },
+    "books/bye-bye-ai-library-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+          "cap": "一个正在使用智能手机的人。"
+        },
+        {
+          "t": "p",
+          "x": "纽约州(New York)北部一家公共图书馆因提供一种不寻常的技术帮助而走红：帮人们关闭手机和电脑上的AI功能。服务约800名持卡读者的North Chatham Free Library贴出一张“Bye Bye AI”传单，引发的反响远远超出了这个小村庄。"
+        },
+        {
+          "t": "p",
+          "x": "馆里唯一的全职馆员Shea Wert说，这项随到随学的活动源于读者的反复抱怨：“Gmail的自动回复和自动补全真的让人很恼火。”"
+        },
+        {
+          "t": "p",
+          "x": "今年4月，该馆还办过一场“AI for seniors”讲座，Wert表示她并非全面反对AI。前来求助的大多是老年人。"
+        },
+        {
+          "t": "p",
+          "x": "馆员Hannah Cyrus开设的关闭AI工具免费课程启发了这次活动。她写道：“图书馆既要帮助读者接纳技术，也同样要帮助他们拒绝技术。”她说自己“收到了来自世界各地数百名馆员索要演示幻灯片的消息”。"
+        }
+      ]
+    },
+    "books/shelf-reading-bots-libraries-ht": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+          "cap": "新加坡National Library Board所辖图书馆的shelf-reading盘架机器人。(NLB Singapore)"
+        },
+        {
+          "t": "p",
+          "x": "在世界各地，shelf-reading盘架机器人和AI编目正在改变我们从图书馆借书的方式。"
+        },
+        {
+          "t": "p",
+          "x": "在上海Changning District Library，数字人虚拟形象Xin Ye根据借阅记录推荐图书、预约座位，并让机器人送书上门。Beijing Library的自动化检索系统能在15分钟内从逾8 million 册藏书中调出读者选中的书。台湾NLPI于2023年引入生成式AI(generative-AI)“馆员”Xiao-Shu。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+          "cap": "Beijing Library内部设有带传感器的立柱，可调节温湿度、照明和声学环境。(Snohetta)"
+        },
+        {
+          "t": "p",
+          "x": "在新加坡National Library Board旗下图书馆，机器人每晚扫描贴有RFID标签(RFID-tagged)的图书，并在早上前报告放错位置的书，每年最多可节省3,500个员工工时。"
+        },
+        {
+          "t": "p",
+          "x": "但推荐算法只会给我们更多已经喜欢的东西，而图书馆还会向我们介绍从未想到自己会想读的书。隐私是芬兰各地图书馆仍在评估AI的一大原因；分析师Kashyap Kompella说：“系统知道得越多……就越能预测你接下来想要什么。”"
+        }
+      ]
+    },
+    "books/savo-directive-detectives-ai-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+          "cap": "Giulio Savo在Claremont Middle School介绍《Directive Detectives: The Freedom Trail Directive》。（Molly Hughes / Valley News）"
+        },
+        {
+          "t": "p",
+          "x": "《Directive Detectives: The Freedom Trail Directive》开篇写一个女孩经过Boston Public Library“守卫入口的石狮”向上攀爬。那处入口其实并没有石狮，插图却照样画了出来。来自Claremont的作者Giulio Savo表示，插图由AI生成：“这些是我的故事，是我的文字，但我不是插画师。”"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+          "cap": "书中一幅标注“Boston Public Library – 1895”的AI-generated插图。"
+        },
+        {
+          "t": "p",
+          "x": "Claremont Middle School在首届作家之夜向每个家庭赠送一本，费用来自联邦家庭参与资金。Savo说他请不起插画师，自己的数字营销工作也被AI取代。书中文字也有一些错误，而Amazon要求的AI披露既未出现在商品页面上，也未出现在书中。"
+        },
+        {
+          "t": "p",
+          "x": "Dartmouth艺术史学者Mary Coffey表示，一本带孩子走过真实地标的书理应相当准确。她称这些图像是“如此贫乏的视觉语言”，并敦促AI使用者坦诚说明。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+          "cap": "Jared Gagnon绘制的《Sunset Scares》海报。（Courtesy Dustin Warburton）"
+        },
+        {
+          "t": "p",
+          "x": "与插画师Jared Gagnon合作的Vermont作家Dustin Warburton表示，与“一打开就能产出一本书的电灯开关”竞争令人沮丧，而学校从未联系过他。两人都希望在读者看得到的地方披露AI的使用。"
+        }
+      ]
     }
   }
 }

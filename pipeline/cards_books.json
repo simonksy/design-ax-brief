@@ -1,257 +1,245 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-05",
   "section": "books",
   "cards": [
     {
-      "id": "savo-directive-detectives-ai-art",
+      "id": "hongkong-comics-ai-heyday",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claremont 작가\n신간 AI 삽화 논란",
-      "body": "Giulio Savo AI-illustrated 책이 Claremont서 비판받다.",
-      "mini_headline": "AI 삽화 동화책에 비판",
+      "headline": "홍콩 만화가들\nAI로 제작 시간 단축",
+      "body": "Jerry Cho는 AI로 의상을 시험해 시간을 약 10 per cent 줄인다.",
+      "mini_headline": "AI로 향하는 홍콩 만화",
       "tool": "Books",
-      "source": "Valley News",
-      "url": "https://vnews.com/2026/10/02/ai-book-controversy-claremont/",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/watch/hong-kong-comics-scene-creators-turning-ai-in-bid-recapture-industrys-heyday-6427021",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-            "cap": "Giulio Savo가 Claremont Middle School에서 \"Directive Detectives: The Freedom Trail Directive\"에 관해 이야기하고 있다. (Molly Hughes / Valley News)"
+            "t": "video",
+            "yt": "Q8VYqGtRM1A"
           },
           {
             "t": "p",
-            "x": "\"Directive Detectives: The Freedom Trail Directive\"는 한 소녀가 Boston Public Library의 \"입구를 지키는 돌사자\"를 지나 올라가는 장면으로 시작한다. 실제 입구에는 사자가 없는데 삽화에는 버젓이 그려져 있다. Claremont에 사는 작가 Giulio Savo는 삽화를 AI로 만들었다며 이렇게 말했다. \"이건 제 이야기이고 제 글이지만, 저는 삽화가가 아닙니다.\""
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-            "cap": "\"Boston Public Library – 1895\"라는 설명이 붙은, 책 속 AI-generated 삽화."
+            "x": "한창때 홍콩(Hong Kong)은 만화 강국이었다. 업계가 호황이던 1980년대에는 해마다 약 50 million 부가 팔렸다. 홍콩 만화가 mid-1990s부터 내리막을 걸었다는 데에는 이견이 별로 없다."
           },
           {
             "t": "p",
-            "x": "Claremont Middle School은 첫 작가와의 밤 행사에서 모든 가정에 이 책을 한 권씩 나눠 줬다. 비용은 연방 가족 참여 기금에서 댔다. Savo는 삽화가를 쓸 형편이 안 됐고 자신도 디지털 마케팅 일자리를 AI에 빼앗겼다고 했다. 본문에도 오류가 몇 군데 있다. Amazon이 요구하는 AI 사용 고지는 판매 페이지에도, 책에도 없다."
+            "x": "“이제는 … 몇천 권만 팔아도 이미 아주 좋은 수치다.” 구룡(Kowloon)에서 서점 Epic One을 운영하는 Dicky Lam의 말이다. “홍콩 만화 시장은 90% 줄었다.”"
           },
           {
             "t": "p",
-            "x": "Dartmouth의 미술사학자 Mary Coffey는 아이들을 실제 명소로 안내하는 책이라면 어느 정도는 정확해야 한다고 했다. 그는 이 이미지들을 \"너무나 빈곤한 시각 언어\"라고 평하면서 AI를 쓴다면 솔직히 밝히라고 촉구했다."
+            "x": "작가 Jerry Cho는 『The Life After Life』로 올해 Japan International Manga Award 동상을 받았다. 그런데 이 작품은 3,000부밖에 안 팔렸다. Cho와 정규직 직원 두 명, 외주 작업자 다섯 명이 여섯 달 걸려 만든 작품이다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-            "cap": "Jared Gagnon이 그린 \"Sunset Scares\" 포스터. (Courtesy Dustin Warburton)"
+            "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+            "cap": "홍콩 만화가 Jerry Cho. (Image: CNA)"
           },
           {
             "t": "p",
-            "x": "삽화가 Jared Gagnon과 함께 작업하는 Vermont의 작가 Dustin Warburton은 \"켜기만 하면 책을 만들어 내는 전등 스위치\"와 겨뤄야 하는 현실이 답답하다며 학교가 자신에게는 한 번도 연락하지 않았다고 말했다. 두 사람은 AI를 썼다면 독자 눈에 띄는 곳에 밝혀야 한다는 입장이다."
+            "x": "Cho는 제작 초반에 AI를 자료 조사와 시각화 도구로 쓴다. 캐릭터 이미지를 넣어 여러 옷을 입혀 보고 나서 팀이 장면을 그리는 식이다. AI 덕분에 팀 제작 시간이 약 10 per cent 줄었다고 그는 추산한다. 다만 완성된 만화에 AI 생성(AI-generated) 이미지를 쓰는 데는 선을 긋는다. “그렇다. 예술은 고유하기 때문이다.”"
+          },
+          {
+            "t": "p",
+            "x": "Hong Kong Comics and Animation Federation의 Alan Wan은 작가들이 자기 만화를 AI-generated 애니메이션으로 바꿀 수 있다고 말한다. “그들은 만화가에 그치지 않고 감독이 될 수도 있다.” 저작권과 저작자 문제는 아직 풀리지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Claremont author criticized\nover AI art in new book",
-          "body": "Giulio Savo's AI-illustrated book, given free to Claremont families, drew criticism over historical errors.",
-          "mini_headline": "AI art draws criticism\nin children's book",
+          "headline": "Hong Kong comic artists use\nAI to cut production time",
+          "body": "Artist Jerry Cho uses AI to test character outfits before drawing, saving his team about 10 per cent of production time.",
+          "mini_headline": "Hong Kong comics\nturn to AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-                "cap": "Giulio Savo talks about \"Directive Detectives: The Freedom Trail Directive\" at Claremont Middle School. (Molly Hughes / Valley News)"
+                "t": "video",
+                "yt": "Q8VYqGtRM1A"
               },
               {
                 "t": "p",
-                "x": "\"Directive Detectives: The Freedom Trail Directive\" opens with a girl climbing past \"the stone lions guarding the entrance\" of the Boston Public Library. No lions stand at that entrance, but the illustrations show them anyway. Author Giulio Savo of Claremont said the illustrations were generated by AI: \"These are my stories, these are my words, but I'm not an illustrator.\""
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-                "cap": "An AI-generated illustration labeled \"Boston Public Library – 1895\" from the book."
+                "x": "In its heyday, Hong Kong was a comics powerhouse: during the industry's boom years in the 1980s, about 50 million copies were sold annually. Hong Kong comics have been widely regarded as being in decline since the mid-1990s."
               },
               {
                 "t": "p",
-                "x": "Claremont Middle School gave a copy to every family at its first author night, paid for with federal family engagement funds. Savo said he couldn't afford an illustrator and had lost his own digital marketing job to AI. Some errors also appear in the text, and Amazon's required AI disclosure is not shown on the listing or in the book."
+                "x": "“Now, if we can sell … a few thousand books, it’s already a very good figure,” said Dicky Lam, owner of the Epic One bookstore in Kowloon. “The Hong Kong comic market has shrunk by 90 per cent.”"
               },
               {
                 "t": "p",
-                "x": "Dartmouth art historian Mary Coffey said a book walking children past real landmarks should be reasonably accurate, calling the images \"such an impoverished visual language\" and urging AI users to be forthcoming."
+                "x": "Artist Jerry Cho won a bronze award at this year’s Japan International Manga Award for The Life After Life, which has sold just 3,000 copies. It took six months to produce, involving Cho, two full-time staff and five outsourced contributors."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-                "cap": "A poster for \"Sunset Scares,\" illustrated by Jared Gagnon. (Courtesy Dustin Warburton)"
+                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+                "cap": "Hong Kong comic artist Jerry Cho. (Image: CNA)"
               },
               {
                 "t": "p",
-                "x": "Vermont writer Dustin Warburton, who works with illustrator Jared Gagnon, said competing with \"a light switch that turns on and produces a book\" is frustrating, and that the school never called him. Both want AI use disclosed where readers can see it."
+                "x": "Cho uses AI early in production as a research and visualisation tool, for example feeding in a character image to try different clothes before his team illustrates the scene. He estimates AI saves his team about 10 per cent of production time, but he draws a line at AI-generated images in the finished comic: “Yes, because art is unique.”"
+              },
+              {
+                "t": "p",
+                "x": "Alan Wan of the Hong Kong Comics and Animation Federation says artists could turn comics into AI-generated animation: “They won’t just be comic artists, they could become directors.” Questions over copyright and authorship remain open."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claremont 작가\n신간 AI 삽화 논란",
-          "body": "Giulio Savo AI-illustrated 책이 Claremont서 비판받다.",
-          "mini_headline": "AI 삽화 동화책에 비판",
+          "headline": "홍콩 만화가들\nAI로 제작 시간 단축",
+          "body": "Jerry Cho는 AI로 의상을 시험해 시간을 약 10 per cent 줄인다.",
+          "mini_headline": "AI로 향하는 홍콩 만화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-                "cap": "Giulio Savo가 Claremont Middle School에서 \"Directive Detectives: The Freedom Trail Directive\"에 관해 이야기하고 있다. (Molly Hughes / Valley News)"
+                "t": "video",
+                "yt": "Q8VYqGtRM1A"
               },
               {
                 "t": "p",
-                "x": "\"Directive Detectives: The Freedom Trail Directive\"는 한 소녀가 Boston Public Library의 \"입구를 지키는 돌사자\"를 지나 올라가는 장면으로 시작한다. 실제 입구에는 사자가 없는데 삽화에는 버젓이 그려져 있다. Claremont에 사는 작가 Giulio Savo는 삽화를 AI로 만들었다며 이렇게 말했다. \"이건 제 이야기이고 제 글이지만, 저는 삽화가가 아닙니다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-                "cap": "\"Boston Public Library – 1895\"라는 설명이 붙은, 책 속 AI-generated 삽화."
+                "x": "한창때 홍콩(Hong Kong)은 만화 강국이었다. 업계가 호황이던 1980년대에는 해마다 약 50 million 부가 팔렸다. 홍콩 만화가 mid-1990s부터 내리막을 걸었다는 데에는 이견이 별로 없다."
               },
               {
                 "t": "p",
-                "x": "Claremont Middle School은 첫 작가와의 밤 행사에서 모든 가정에 이 책을 한 권씩 나눠 줬다. 비용은 연방 가족 참여 기금에서 댔다. Savo는 삽화가를 쓸 형편이 안 됐고 자신도 디지털 마케팅 일자리를 AI에 빼앗겼다고 했다. 본문에도 오류가 몇 군데 있다. Amazon이 요구하는 AI 사용 고지는 판매 페이지에도, 책에도 없다."
+                "x": "“이제는 … 몇천 권만 팔아도 이미 아주 좋은 수치다.” 구룡(Kowloon)에서 서점 Epic One을 운영하는 Dicky Lam의 말이다. “홍콩 만화 시장은 90% 줄었다.”"
               },
               {
                 "t": "p",
-                "x": "Dartmouth의 미술사학자 Mary Coffey는 아이들을 실제 명소로 안내하는 책이라면 어느 정도는 정확해야 한다고 했다. 그는 이 이미지들을 \"너무나 빈곤한 시각 언어\"라고 평하면서 AI를 쓴다면 솔직히 밝히라고 촉구했다."
+                "x": "작가 Jerry Cho는 『The Life After Life』로 올해 Japan International Manga Award 동상을 받았다. 그런데 이 작품은 3,000부밖에 안 팔렸다. Cho와 정규직 직원 두 명, 외주 작업자 다섯 명이 여섯 달 걸려 만든 작품이다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-                "cap": "Jared Gagnon이 그린 \"Sunset Scares\" 포스터. (Courtesy Dustin Warburton)"
+                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+                "cap": "홍콩 만화가 Jerry Cho. (Image: CNA)"
               },
               {
                 "t": "p",
-                "x": "삽화가 Jared Gagnon과 함께 작업하는 Vermont의 작가 Dustin Warburton은 \"켜기만 하면 책을 만들어 내는 전등 스위치\"와 겨뤄야 하는 현실이 답답하다며 학교가 자신에게는 한 번도 연락하지 않았다고 말했다. 두 사람은 AI를 썼다면 독자 눈에 띄는 곳에 밝혀야 한다는 입장이다."
+                "x": "Cho는 제작 초반에 AI를 자료 조사와 시각화 도구로 쓴다. 캐릭터 이미지를 넣어 여러 옷을 입혀 보고 나서 팀이 장면을 그리는 식이다. AI 덕분에 팀 제작 시간이 약 10 per cent 줄었다고 그는 추산한다. 다만 완성된 만화에 AI 생성(AI-generated) 이미지를 쓰는 데는 선을 긋는다. “그렇다. 예술은 고유하기 때문이다.”"
+              },
+              {
+                "t": "p",
+                "x": "Hong Kong Comics and Animation Federation의 Alan Wan은 작가들이 자기 만화를 AI-generated 애니메이션으로 바꿀 수 있다고 말한다. “그들은 만화가에 그치지 않고 감독이 될 수도 있다.” 저작권과 저작자 문제는 아직 풀리지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claremontの作家\n新刊のAI挿絵に批判",
-          "body": "Giulio SavoのAI-illustrated本がClaremontで批判を浴びた。",
-          "mini_headline": "児童書のAIアートに批判",
+          "headline": "香港の漫画家たち\nAIで制作時間を短縮",
+          "body": "Jerry ChoはAIで衣装を試し、制作時間を約10 per cent削減している。",
+          "mini_headline": "香港漫画、AIに活路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-                "cap": "Claremont Middle Schoolで「Directive Detectives: The Freedom Trail Directive」について語るGiulio Savo。(Molly Hughes / Valley News)"
+                "t": "video",
+                "yt": "Q8VYqGtRM1A"
               },
               {
                 "t": "p",
-                "x": "「Directive Detectives: The Freedom Trail Directive」は、少女がBoston Public Libraryの「入口を守る石のライオン」の脇を通り過ぎて上っていく場面から始まる。実際の入口にライオンはいないが、挿絵にはそれが描かれている。Claremontに住む著者Giulio Savoは、挿絵はAIで生成したと説明し、「これは私の物語で、私の言葉だが、私はイラストレーターではない」と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-                "cap": "本に収められた、「Boston Public Library – 1895」と記されたAI-generatedの挿絵。"
+                "x": "全盛期の香港(Hong Kong)は漫画大国だった。業界が活況に沸いた1980年代には、年間約50 million 部が売れた。香港漫画はmid-1990s以降、衰退していると広く見なされている。"
               },
               {
                 "t": "p",
-                "x": "Claremont Middle Schoolは初めての「作家の夜」で、連邦の家族参加支援資金を使い、全家庭に一冊ずつ配布した。Savoはイラストレーターを雇う余裕がなく、自身もデジタルマーケティングの仕事をAIに奪われたと話す。本文にも誤りが見られ、Amazonが義務づけるAI使用の開示は、販売ページにも本にも記載されていない。"
+                "x": "「今では…数千冊売れれば、それだけでとても良い数字だ」と、九龍(Kowloon)の書店Epic Oneの店主Dicky Lamは語る。「香港の漫画市場は90%縮小した」"
               },
               {
                 "t": "p",
-                "x": "Dartmouthの美術史家Mary Coffeyは、実在の名所へ子どもを案内する本であれば相応の正確さが必要だと指摘した。画像を「あまりに貧しい視覚言語」と評し、AIを使う人は率直に明かすべきだと訴えた。"
+                "x": "作家Jerry Choは『The Life After Life』で今年のJapan International Manga Award銅賞を受賞したが、同作の販売部数はわずか3,000部にとどまる。制作には六か月を要し、Choと常勤スタッフ二人、外部協力者五人が関わった。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-                "cap": "Jared Gagnonが描いた「Sunset Scares」のポスター。(Courtesy Dustin Warburton)"
+                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+                "cap": "香港の漫画家Jerry Cho。(Image: CNA)"
               },
               {
                 "t": "p",
-                "x": "イラストレーターのJared Gagnonと組むVermontの作家Dustin Warburtonは、「入れれば本ができあがる照明スイッチ」と競うのはもどかしいと語り、学校からは一度も声がかからなかったという。二人とも、AIの使用を読者の目に触れる形で開示するよう求めている。"
+                "x": "Choは制作の初期段階でAIを調査と視覚化のツールとして使う。たとえばキャラクターの画像を入力してさまざまな服を試し、その後チームが場面を描く。AIでチームの制作時間を約10 per cent節約できると見積もるが、完成した漫画にAI生成(AI-generated)画像を使うことには一線を引く。「そうだ、芸術は唯一無二だからだ」"
+              },
+              {
+                "t": "p",
+                "x": "Hong Kong Comics and Animation FederationのAlan Wanは、作家が漫画をAI-generatedアニメーションに変えられると話す。「彼らは単なる漫画家ではなく、監督にもなり得る」。著作権と作者性をめぐる問題は未解決のままだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claremont作家\n新书AI插图遭批评",
-          "body": "Giulio Savo的AI-illustrated书在Claremont因史实错误受批评。",
-          "mini_headline": "儿童书AI插图引批评",
+          "headline": "香港漫画家\n借AI缩短制作时间",
+          "body": "画家Jerry Cho用AI试穿角色服装，为团队节省约10 per cent的制作时间。",
+          "mini_headline": "香港漫画转向AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-                "cap": "Giulio Savo在Claremont Middle School介绍《Directive Detectives: The Freedom Trail Directive》。（Molly Hughes / Valley News）"
+                "t": "video",
+                "yt": "Q8VYqGtRM1A"
               },
               {
                 "t": "p",
-                "x": "《Directive Detectives: The Freedom Trail Directive》开篇写一个女孩经过Boston Public Library“守卫入口的石狮”向上攀爬。那处入口其实并没有石狮，插图却照样画了出来。来自Claremont的作者Giulio Savo表示，插图由AI生成：“这些是我的故事，是我的文字，但我不是插画师。”"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-                "cap": "书中一幅标注“Boston Public Library – 1895”的AI-generated插图。"
+                "x": "鼎盛时期的香港(Hong Kong)是漫画重镇：在1980年代的行业繁荣期，年销量约50 million 册。人们普遍认为，香港漫画自mid-1990s起便走向衰落。"
               },
               {
                 "t": "p",
-                "x": "Claremont Middle School在首届作家之夜向每个家庭赠送一本，费用来自联邦家庭参与资金。Savo说他请不起插画师，自己的数字营销工作也被AI取代。书中文字也有一些错误，而Amazon要求的AI披露既未出现在商品页面上，也未出现在书中。"
+                "x": "“现在要是能卖出……几千本，就已经是很好的数字了。”九龙(Kowloon)书店Epic One的老板Dicky Lam说，“香港漫画市场萎缩了90%。”"
               },
               {
                 "t": "p",
-                "x": "Dartmouth艺术史学者Mary Coffey表示，一本带孩子走过真实地标的书理应相当准确。她称这些图像是“如此贫乏的视觉语言”，并敦促AI使用者坦诚说明。"
+                "x": "画家Jerry Cho凭《The Life After Life》获得今年Japan International Manga Award铜奖，但该作仅售出3,000册。作品耗时六个月完成，参与者包括Cho、两名全职员工和五名外包人员。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-                "cap": "Jared Gagnon绘制的《Sunset Scares》海报。（Courtesy Dustin Warburton）"
+                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+                "cap": "香港漫画家Jerry Cho。(Image: CNA)"
               },
               {
                 "t": "p",
-                "x": "与插画师Jared Gagnon合作的Vermont作家Dustin Warburton表示，与“一打开就能产出一本书的电灯开关”竞争令人沮丧，而学校从未联系过他。两人都希望在读者看得到的地方披露AI的使用。"
+                "x": "Cho在制作初期把AI当作资料调研和可视化工具，例如输入角色图像试穿不同服装，再由团队绘制场景。他估计AI为团队节省约10 per cent的制作时间，但在成品漫画中使用AI生成(AI-generated)图像这件事上，他划清了界线：“是的，因为艺术是独一无二的。”"
+              },
+              {
+                "t": "p",
+                "x": "Hong Kong Comics and Animation Federation的Alan Wan表示，画家可以把漫画转成AI-generated动画：“他们将不只是漫画家，还可能成为导演。”版权与作者归属问题仍悬而未决。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autor de Claremont, criticado\npor el arte con AI de su libro",
-          "body": "El libro AI-illustrated de Giulio Savo, regalado a familias de Claremont, recibió críticas por errores históricos.",
-          "mini_headline": "Críticas al arte con AI en un libro infantil",
+          "headline": "Dibujantes de Hong Kong usan\nAI para acortar la producción",
+          "body": "El dibujante Jerry Cho usa AI para probar vestuarios antes de dibujar y ahorra cerca del 10 per cent del tiempo.",
+          "mini_headline": "El cómic de Hong Kong recurre a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-                "cap": "Giulio Savo habla sobre \"Directive Detectives: The Freedom Trail Directive\" en Claremont Middle School. (Molly Hughes / Valley News)"
+                "t": "video",
+                "yt": "Q8VYqGtRM1A"
               },
               {
                 "t": "p",
-                "x": "\"Directive Detectives: The Freedom Trail Directive\" comienza con una niña que sube y pasa junto a \"los leones de piedra que custodian la entrada\" de la Boston Public Library. En esa entrada no hay leones, pero las ilustraciones los muestran de todos modos. El autor Giulio Savo, de Claremont, explicó que las ilustraciones se generaron con AI: \"Estas son mis historias, estas son mis palabras, pero no soy ilustrador\"."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-                "cap": "Una ilustración AI-generated del libro, rotulada \"Boston Public Library – 1895\"."
+                "x": "En su época dorada, Hong Kong fue una potencia del cómic: durante los años de auge de la industria, en la década de 1980, se vendían unos 50 millones de ejemplares al año. Se considera ampliamente que el cómic de Hong Kong está en declive desde mediados de los noventa (mid-1990s)."
               },
               {
                 "t": "p",
-                "x": "Claremont Middle School entregó un ejemplar a cada familia en su primera noche de autores, con fondos federales de participación familiar. Savo dijo que no podía pagar a un ilustrador y que había perdido su propio empleo de marketing digital a causa de la AI. El texto también contiene algunos errores, y el aviso sobre AI que exige Amazon no aparece ni en la ficha del producto ni en el libro."
+                "x": "“Ahora, si conseguimos vender … unos pocos miles de libros, ya es una cifra muy buena”, dijo Dicky Lam, propietario de la librería Epic One en Kowloon. “El mercado del cómic de Hong Kong se ha reducido un 90 por ciento”."
               },
               {
                 "t": "p",
-                "x": "La historiadora del arte de Dartmouth Mary Coffey afirmó que un libro que guía a los niños por lugares emblemáticos reales debería ser razonablemente preciso; calificó las imágenes de \"un lenguaje visual tan empobrecido\" e instó a quienes usan AI a ser transparentes."
+                "x": "El dibujante Jerry Cho ganó este año un premio de bronce en el Japan International Manga Award por The Life After Life, que solo ha vendido 3,000 ejemplares. La obra tardó seis meses en producirse y en ella participaron Cho, dos empleados a tiempo completo y cinco colaboradores externos."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-                "cap": "Un póster de \"Sunset Scares\", ilustrado por Jared Gagnon. (Courtesy Dustin Warburton)"
+                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+                "cap": "El dibujante de cómics de Hong Kong Jerry Cho. (Image: CNA)"
               },
               {
                 "t": "p",
-                "x": "El escritor de Vermont Dustin Warburton, que trabaja con el ilustrador Jared Gagnon, dijo que competir con \"un interruptor que se enciende y produce un libro\" resulta frustrante, y que la escuela nunca lo llamó. Ambos quieren que el uso de AI se indique donde los lectores puedan verlo."
+                "x": "Cho usa la AI en las primeras fases de producción como herramienta de investigación y visualización: por ejemplo, introduce la imagen de un personaje para probar distintas prendas antes de que su equipo ilustre la escena. Calcula que la AI ahorra a su equipo cerca del 10 per cent del tiempo de producción, pero pone un límite a las imágenes AI-generated en el cómic terminado: “Sí, porque el arte es único”."
+              },
+              {
+                "t": "p",
+                "x": "Alan Wan, de la Hong Kong Comics and Animation Federation, afirma que los artistas podrían convertir los cómics en animación AI-generated: “No serán solo dibujantes de cómics, podrían convertirse en directores”. Las cuestiones sobre derechos de autor y autoría siguen abiertas."
               }
             ]
           }
@@ -259,165 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claremont 작가\n신간 AI 삽화 논란",
-          "body": "Giulio Savo AI-illustrated 책이 Claremont서 비판받다.",
-          "mini_headline": "AI 삽화 동화책에 비판",
+          "headline": "홍콩 만화가들\nAI로 제작 시간 단축",
+          "body": "Jerry Cho는 AI로 의상을 시험해 시간을 약 10 per cent 줄인다.",
+          "mini_headline": "AI로 향하는 홍콩 만화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-                "cap": "Giulio Savo가 Claremont Middle School에서 \"Directive Detectives: The Freedom Trail Directive\"에 관해 이야기하고 있다. (Molly Hughes / Valley News)"
+                "t": "video",
+                "yt": "Q8VYqGtRM1A"
               },
               {
                 "t": "p",
-                "x": "\"Directive Detectives: The Freedom Trail Directive\"는 한 소녀가 Boston Public Library의 \"입구를 지키는 돌사자\"를 지나 올라가는 장면으로 시작한다. 실제 그 입구에는 사자가 없지만 삽화에는 사자가 그려져 있다. Claremont에 사는 작가 Giulio Savo는 삽화를 AI로 생성했다며 이렇게 말했다. \"이건 제 이야기이고 제 글이지만, 저는 삽화가가 아닙니다.\""
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-                "cap": "책에 실린, \"Boston Public Library – 1895\"라는 설명이 붙은 AI-generated 삽화."
+                "x": "전성기의 홍콩(Hong Kong)은 만화 강국이었다. 산업이 호황을 누리던 1980년대에는 해마다 약 50 million 부가 팔렸다. 홍콩 만화는 mid-1990s부터 내리막길을 걸었다는 평가가 널리 퍼져 있다."
               },
               {
                 "t": "p",
-                "x": "Claremont Middle School은 첫 작가와의 밤 행사에서 모든 가정에 이 책을 한 권씩 나눠 주었고, 비용은 연방 가족 참여 기금으로 충당했다. Savo는 삽화가를 고용할 여유가 없었고, 자신도 디지털 마케팅 일자리를 AI에 잃었다고 말했다. 본문에도 일부 오류가 있으며, Amazon이 요구하는 AI 사용 고지는 판매 페이지에도 책에도 나와 있지 않다."
+                "x": "“이제는 … 몇천 권만 팔아도 이미 아주 좋은 수치다.” 구룡(Kowloon)에서 서점 Epic One을 운영하는 Dicky Lam의 말이다. “홍콩 만화 시장은 90% 줄었다.”"
               },
               {
                 "t": "p",
-                "x": "Dartmouth의 미술사학자 Mary Coffey는 아이들을 실제 명소로 안내하는 책이라면 어느 정도 정확해야 한다고 말했다. 그는 이 이미지들을 \"너무나 빈곤한 시각 언어\"라고 평하며 AI 사용자들에게 솔직하게 밝힐 것을 촉구했다."
+                "x": "작가 Jerry Cho는 『The Life After Life』로 올해 Japan International Manga Award 동상을 받았지만, 이 작품은 3,000부밖에 팔리지 않았다. 제작에는 여섯 달이 걸렸고, Cho와 정규직 직원 두 명, 외주 작업자 다섯 명이 참여했다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-                "cap": "Jared Gagnon이 그린 \"Sunset Scares\" 포스터. (Courtesy Dustin Warburton)"
+                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+                "cap": "홍콩 만화가 Jerry Cho. (Image: CNA)"
               },
               {
                 "t": "p",
-                "x": "삽화가 Jared Gagnon과 함께 작업하는 Vermont의 작가 Dustin Warburton은 \"켜기만 하면 책을 만들어 내는 전등 스위치\"와 경쟁하는 일이 답답하다며, 학교가 자신에게는 한 번도 연락하지 않았다고 말했다. 두 사람 모두 독자가 볼 수 있는 곳에 AI 사용을 밝혀야 한다고 본다."
+                "x": "Cho는 제작 초기에 AI를 자료 조사와 시각화 도구로 쓴다. 예를 들어 캐릭터 이미지를 넣어 여러 옷을 입혀 본 뒤 팀이 장면을 그린다. 그는 AI 덕분에 팀의 제작 시간이 약 10 per cent 줄었다고 추산하지만, 완성된 만화에 AI 생성(AI-generated) 이미지를 쓰는 데는 선을 긋는다. “그렇다. 예술은 고유하기 때문이다.”"
+              },
+              {
+                "t": "p",
+                "x": "Hong Kong Comics and Animation Federation의 Alan Wan은 작가들이 만화를 AI-generated 애니메이션으로 바꿀 수 있다고 말한다. “그들은 만화가에 그치지 않고 감독이 될 수도 있다.” 저작권과 저작자를 둘러싼 문제는 아직 풀리지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claremontの作家\n新刊のAI挿絵に批判",
-          "body": "Giulio SavoのAI-illustrated本がClaremontで批判を浴びた。",
-          "mini_headline": "児童書のAIアートに批判",
+          "headline": "香港の漫画家たち\nAIで制作時間を短縮",
+          "body": "Jerry ChoはAIで衣装を試し、制作時間を約10 per cent削減している。",
+          "mini_headline": "香港漫画、AIに活路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-                "cap": "Claremont Middle Schoolで「Directive Detectives: The Freedom Trail Directive」について語るGiulio Savo。(Molly Hughes / Valley News)"
+                "t": "video",
+                "yt": "Q8VYqGtRM1A"
               },
               {
                 "t": "p",
-                "x": "「Directive Detectives: The Freedom Trail Directive」は、少女がBoston Public Libraryの「入口を守る石のライオン」の脇を通り過ぎて上っていく場面から始まる。実際の入口にライオンはいないが、挿絵にはそれが描かれている。Claremontに住む著者Giulio Savoは、挿絵はAIで生成したと説明し、「これは私の物語で、私の言葉だが、私はイラストレーターではない」と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-                "cap": "本に収められた、「Boston Public Library – 1895」と記されたAI-generatedの挿絵。"
+                "x": "全盛期の香港(Hong Kong)は漫画大国だった。業界が活況に沸いた1980年代には、年間約50 million 部が売れた。香港漫画はmid-1990s以降、衰退していると広く見なされている。"
               },
               {
                 "t": "p",
-                "x": "Claremont Middle Schoolは初めての「作家の夜」で、連邦の家族参加支援資金を使い、全家庭に一冊ずつ配布した。Savoはイラストレーターを雇う余裕がなく、自身もデジタルマーケティングの仕事をAIに奪われたと話す。本文にも誤りが見られ、Amazonが義務づけるAI使用の開示は、販売ページにも本にも記載されていない。"
+                "x": "「今では…数千冊売れれば、それだけでとても良い数字だ」と、九龍(Kowloon)の書店Epic Oneの店主Dicky Lamは語る。「香港の漫画市場は90%縮小した」"
               },
               {
                 "t": "p",
-                "x": "Dartmouthの美術史家Mary Coffeyは、実在の名所へ子どもを案内する本であれば相応の正確さが必要だと指摘した。画像を「あまりに貧しい視覚言語」と評し、AIを使う人は率直に明かすべきだと訴えた。"
+                "x": "作家Jerry Choは『The Life After Life』で今年のJapan International Manga Award銅賞を受賞したが、同作の販売部数はわずか3,000部にとどまる。制作には六か月を要し、Choと常勤スタッフ二人、外部協力者五人が関わった。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-                "cap": "Jared Gagnonが描いた「Sunset Scares」のポスター。(Courtesy Dustin Warburton)"
+                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+                "cap": "香港の漫画家Jerry Cho。(Image: CNA)"
               },
               {
                 "t": "p",
-                "x": "イラストレーターのJared Gagnonと組むVermontの作家Dustin Warburtonは、「入れれば本ができあがる照明スイッチ」と競うのはもどかしいと語り、学校からは一度も声がかからなかったという。二人とも、AIの使用を読者の目に触れる形で開示するよう求めている。"
+                "x": "Choは制作の初期段階でAIを調査と視覚化のツールとして使う。たとえばキャラクターの画像を入力してさまざまな服を試し、その後チームが場面を描く。AIでチームの制作時間を約10 per cent節約できると見積もるが、完成した漫画にAI生成(AI-generated)画像を使うことには一線を引く。「そうだ、芸術は唯一無二だからだ」"
+              },
+              {
+                "t": "p",
+                "x": "Hong Kong Comics and Animation FederationのAlan Wanは、作家が漫画をAI-generatedアニメーションに変えられると話す。「彼らは単なる漫画家ではなく、監督にもなり得る」。著作権と作者性をめぐる問題は未解決のままだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claremont作家\n新书AI插图遭批评",
-          "body": "Giulio Savo的AI-illustrated书在Claremont因史实错误受批评。",
-          "mini_headline": "儿童书AI插图引批评",
+          "headline": "香港漫画家\n借AI缩短制作时间",
+          "body": "画家Jerry Cho用AI试穿角色服装，为团队节省约10 per cent的制作时间。",
+          "mini_headline": "香港漫画转向AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-                "cap": "Giulio Savo在Claremont Middle School介绍《Directive Detectives: The Freedom Trail Directive》。（Molly Hughes / Valley News）"
+                "t": "video",
+                "yt": "Q8VYqGtRM1A"
               },
               {
                 "t": "p",
-                "x": "《Directive Detectives: The Freedom Trail Directive》开篇写一个女孩经过Boston Public Library“守卫入口的石狮”向上攀爬。那处入口其实并没有石狮，插图却照样画了出来。来自Claremont的作者Giulio Savo表示，插图由AI生成：“这些是我的故事，是我的文字，但我不是插画师。”"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-                "cap": "书中一幅标注“Boston Public Library – 1895”的AI-generated插图。"
+                "x": "鼎盛时期的香港(Hong Kong)是漫画重镇：在1980年代的行业繁荣期，年销量约50 million 册。人们普遍认为，香港漫画自mid-1990s起便走向衰落。"
               },
               {
                 "t": "p",
-                "x": "Claremont Middle School在首届作家之夜向每个家庭赠送一本，费用来自联邦家庭参与资金。Savo说他请不起插画师，自己的数字营销工作也被AI取代。书中文字也有一些错误，而Amazon要求的AI披露既未出现在商品页面上，也未出现在书中。"
+                "x": "“现在要是能卖出……几千本，就已经是很好的数字了。”九龙(Kowloon)书店Epic One的老板Dicky Lam说，“香港漫画市场萎缩了90%。”"
               },
               {
                 "t": "p",
-                "x": "Dartmouth艺术史学者Mary Coffey表示，一本带孩子走过真实地标的书理应相当准确。她称这些图像是“如此贫乏的视觉语言”，并敦促AI使用者坦诚说明。"
+                "x": "画家Jerry Cho凭《The Life After Life》获得今年Japan International Manga Award铜奖，但该作仅售出3,000册。作品耗时六个月完成，参与者包括Cho、两名全职员工和五名外包人员。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-                "cap": "Jared Gagnon绘制的《Sunset Scares》海报。（Courtesy Dustin Warburton）"
+                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+                "cap": "香港漫画家Jerry Cho。(Image: CNA)"
               },
               {
                 "t": "p",
-                "x": "与插画师Jared Gagnon合作的Vermont作家Dustin Warburton表示，与“一打开就能产出一本书的电灯开关”竞争令人沮丧，而学校从未联系过他。两人都希望在读者看得到的地方披露AI的使用。"
+                "x": "Cho在制作初期把AI当作资料调研和可视化工具，例如输入角色图像试穿不同服装，再由团队绘制场景。他估计AI为团队节省约10 per cent的制作时间，但在成品漫画中使用AI生成(AI-generated)图像这件事上，他划清了界线：“是的，因为艺术是独一无二的。”"
+              },
+              {
+                "t": "p",
+                "x": "Hong Kong Comics and Animation Federation的Alan Wan表示，画家可以把漫画转成AI-generated动画：“他们将不只是漫画家，还可能成为导演。”版权与作者归属问题仍悬而未决。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autor de Claremont, criticado\npor el arte con AI de su libro",
-          "body": "El libro AI-illustrated de Giulio Savo, regalado a familias de Claremont, recibió críticas por errores históricos.",
-          "mini_headline": "Críticas al arte con AI en un libro infantil",
+          "headline": "Dibujantes de Hong Kong usan\nAI para acortar la producción",
+          "body": "El dibujante Jerry Cho usa AI para probar vestuarios antes de dibujar y ahorra cerca del 10 per cent del tiempo.",
+          "mini_headline": "El cómic de Hong Kong recurre a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
-                "cap": "Giulio Savo habla sobre \"Directive Detectives: The Freedom Trail Directive\" en Claremont Middle School. (Molly Hughes / Valley News)"
+                "t": "video",
+                "yt": "Q8VYqGtRM1A"
               },
               {
                 "t": "p",
-                "x": "\"Directive Detectives: The Freedom Trail Directive\" comienza con una niña que sube y pasa junto a \"los leones de piedra que custodian la entrada\" de la Boston Public Library. En esa entrada no hay leones, pero las ilustraciones los muestran de todos modos. El autor Giulio Savo, de Claremont, explicó que las ilustraciones se generaron con AI: \"Estas son mis historias, estas son mis palabras, pero no soy ilustrador\"."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
-                "cap": "Una ilustración AI-generated del libro, rotulada \"Boston Public Library – 1895\"."
+                "x": "En su época dorada, Hong Kong fue una potencia del cómic: durante los años de auge de la industria, en la década de 1980, se vendían unos 50 millones de ejemplares al año. Se considera ampliamente que el cómic de Hong Kong está en declive desde mediados de los noventa (mid-1990s)."
               },
               {
                 "t": "p",
-                "x": "Claremont Middle School entregó un ejemplar a cada familia en su primera noche de autores, con fondos federales de participación familiar. Savo dijo que no podía pagar a un ilustrador y que había perdido su propio empleo de marketing digital a causa de la AI. El texto también contiene algunos errores, y el aviso sobre AI que exige Amazon no aparece ni en la ficha del producto ni en el libro."
+                "x": "“Ahora, si conseguimos vender … unos pocos miles de libros, ya es una cifra muy buena”, dijo Dicky Lam, propietario de la librería Epic One en Kowloon. “El mercado del cómic de Hong Kong se ha reducido un 90 por ciento”."
               },
               {
                 "t": "p",
-                "x": "La historiadora del arte de Dartmouth Mary Coffey afirmó que un libro que guía a los niños por lugares emblemáticos reales debería ser razonablemente preciso; calificó las imágenes de \"un lenguaje visual tan empobrecido\" e instó a quienes usan AI a ser transparentes."
+                "x": "El dibujante Jerry Cho ganó este año un premio de bronce en el Japan International Manga Award por The Life After Life, que solo ha vendido 3,000 ejemplares. La obra tardó seis meses en producirse y en ella participaron Cho, dos empleados a tiempo completo y cinco colaboradores externos."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
-                "cap": "Un póster de \"Sunset Scares\", ilustrado por Jared Gagnon. (Courtesy Dustin Warburton)"
+                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+                "cap": "El dibujante de cómics de Hong Kong Jerry Cho. (Image: CNA)"
               },
               {
                 "t": "p",
-                "x": "El escritor de Vermont Dustin Warburton, que trabaja con el ilustrador Jared Gagnon, dijo que competir con \"un interruptor que se enciende y produce un libro\" resulta frustrante, y que la escuela nunca lo llamó. Ambos quieren que el uso de AI se indique donde los lectores puedan verlo."
+                "x": "Cho usa la AI en las primeras fases de producción como herramienta de investigación y visualización: por ejemplo, introduce la imagen de un personaje para probar distintas prendas antes de que su equipo ilustre la escena. Calcula que la AI ahorra a su equipo cerca del 10 per cent del tiempo de producción, pero pone un límite a las imágenes AI-generated en el cómic terminado: “Sí, porque el arte es único”."
+              },
+              {
+                "t": "p",
+                "x": "Alan Wan, de la Hong Kong Comics and Animation Federation, afirma que los artistas podrían convertir los cómics en animación AI-generated: “No serán solo dibujantes de cómics, podrían convertirse en directores”. Las cuestiones sobre derechos de autor y autoría siguen abiertas."
               }
             ]
           }
@@ -425,207 +405,15 @@
       }
     },
     {
-      "id": "openai-book-market-study-exclude",
+      "id": "ewc-destructive-book-scanning",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI가 배제 요청한\nmarket-harm 연구",
-      "body": "OpenAI가 로펌 자금과 얽혔다며 AI 도서 시장 피해 연구 배제를 요청했다.",
-      "mini_headline": "OpenAI, 도서 시장 연구에 이의",
+      "headline": "유럽 작가들\nAI용 책 파쇄 규탄",
+      "body": "EWC가 AI 기업의 고서·희귀본 파괴 스캔에 유럽의 단호한 대응을 촉구했다.",
+      "mini_headline": "작가들, AI용 책 파쇄 규탄",
       "tool": "Books",
-      "source": "Jane Friedman",
-      "url": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "OpenAI는 작가들이 낸 병합 소송에서 한 도서 시장 연구를 배제해 달라고 요청했다. 이 연구가 작가 측 로펌과 자금으로 얽혀 있다는 이유에서다."
-          },
-          {
-            "t": "p",
-            "x": "Gen AI가 시장에 피해를 준다고 주장하는 연구가 얼마나 정확한지, 자금은 어디서 나왔는지가 병합 소송의 중요한 쟁점으로 떠올랐다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "OpenAI seeks to exclude\nbook market-harm study",
-          "body": "OpenAI seeks to exclude a study claiming AI harms the book market, citing its funding ties to the authors' law firm.",
-          "mini_headline": "OpenAI challenges\nbook market study",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI seeks to exclude a book market study from the consolidated authors' lawsuits, citing the study's funding ties to the authors' law firm."
-              },
-              {
-                "t": "p",
-                "x": "The accuracy and funding of research claiming Gen AI causes market harm have become important questions in the consolidated lawsuits."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "OpenAI가 배제 요청한\nmarket-harm 연구",
-          "body": "OpenAI가 로펌 자금과 얽혔다며 AI 도서 시장 피해 연구 배제를 요청했다.",
-          "mini_headline": "OpenAI, 도서 시장 연구에 이의",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI는 작가들이 낸 병합 소송에서 한 도서 시장 연구를 배제해 달라고 요청했다. 이 연구가 작가 측 로펌과 자금으로 얽혀 있다는 이유에서다."
-              },
-              {
-                "t": "p",
-                "x": "Gen AI가 시장에 피해를 준다고 주장하는 연구가 얼마나 정확한지, 자금은 어디서 나왔는지가 병합 소송의 중요한 쟁점으로 떠올랐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAI、排除を要求\nmarket-harm研究",
-          "body": "OpenAIは作家側事務所との資金関係を理由に、AIの書籍市場被害研究の排除を求める。",
-          "mini_headline": "OpenAI、書籍市場研究に異議",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAIは、作家らによる併合訴訟から書籍市場に関するある研究を除外するよう求めている。理由として、この研究と作家側の法律事務所との資金面のつながりを挙げている。"
-              },
-              {
-                "t": "p",
-                "x": "Gen AIが市場に損害を与えると主張する研究の正確性と資金源は、併合訴訟における重要な論点となっている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OpenAI请求排除\nmarket-harm研究",
-          "body": "OpenAI以与作者律所存在资金关联为由，请求排除一项称AI损害图书市场的研究。",
-          "mini_headline": "OpenAI质疑图书市场研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI请求在作者合并诉讼中排除一项图书市场研究，理由是该研究与作者方律所存在资金关联。"
-              },
-              {
-                "t": "p",
-                "x": "声称Gen AI造成市场损害的研究，其准确性与资金来源已成为合并诉讼中的重要问题。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "OpenAI pide excluir un estudio\nsobre market-harm en libros",
-          "body": "OpenAI pide excluir un estudio sobre el daño de la AI al mercado del libro por vínculos con el bufete de los autores.",
-          "mini_headline": "OpenAI impugna un estudio sobre el mercado del libro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI busca excluir un estudio sobre el mercado del libro de las demandas consolidadas de los autores, alegando los vínculos de financiación del estudio con el bufete de los autores."
-              },
-              {
-                "t": "p",
-                "x": "La exactitud y la financiación de las investigaciones que afirman que la Gen AI causa daños al mercado se han convertido en cuestiones importantes en las demandas consolidadas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "OpenAI가 배제 요청한\nmarket-harm 연구",
-          "body": "OpenAI는 로펌 자금 연관을 들어 AI 도서 시장 피해 연구를 배제하려 한다.",
-          "mini_headline": "OpenAI, 도서 시장 연구에 이의",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI는 작가들의 병합 소송에서 한 도서 시장 연구를 배제해 달라고 요청하며, 이 연구가 작가 측 로펌과 자금으로 얽혀 있다는 점을 근거로 들었다."
-              },
-              {
-                "t": "p",
-                "x": "Gen AI가 시장 피해를 일으킨다고 주장하는 연구의 정확성과 자금 출처는 병합 소송에서 중요한 쟁점이 됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAI、排除を要求\nmarket-harm研究",
-          "body": "OpenAIは作家側事務所との資金関係を理由に、AIの書籍市場被害研究の排除を求める。",
-          "mini_headline": "OpenAI、書籍市場研究に異議",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAIは、作家らによる併合訴訟から書籍市場に関するある研究を除外するよう求めている。理由として、この研究と作家側の法律事務所との資金面のつながりを挙げている。"
-              },
-              {
-                "t": "p",
-                "x": "Gen AIが市場に損害を与えると主張する研究の正確性と資金源は、併合訴訟における重要な論点となっている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OpenAI请求排除\nmarket-harm研究",
-          "body": "OpenAI以与作者律所存在资金关联为由，请求排除一项称AI损害图书市场的研究。",
-          "mini_headline": "OpenAI质疑图书市场研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI请求在作者合并诉讼中排除一项图书市场研究，理由是该研究与作者方律所存在资金关联。"
-              },
-              {
-                "t": "p",
-                "x": "声称Gen AI造成市场损害的研究，其准确性与资金来源已成为合并诉讼中的重要问题。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "OpenAI pide excluir un estudio\nsobre market-harm en libros",
-          "body": "OpenAI pide excluir un estudio sobre el daño de la AI al mercado del libro por vínculos con el bufete de los autores.",
-          "mini_headline": "OpenAI impugna un estudio sobre el mercado del libro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI busca excluir un estudio sobre el mercado del libro de las demandas consolidadas de los autores, alegando los vínculos de financiación del estudio con el bufete de los autores."
-              },
-              {
-                "t": "p",
-                "x": "La exactitud y la financiación de las investigaciones que afirman que la Gen AI causa daños al mercado se han convertido en cuestiones importantes en las demandas consolidadas."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "elevenlabs-spoken-audiobooks",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 기업들\n오디오북 시장 겨냥",
-      "body": "ElevenLabs와 Spoken이 fast-growing 오디오북 시장을 노린다.",
-      "mini_headline": "AI, 오디오북을 노리다",
-      "tool": "Books",
-      "source": "Marketplace",
-      "url": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry",
+      "source": "European Writers Council",
+      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -633,185 +421,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-            "cap": "ElevenLabs는 누구의 목소리든 흉내 낼 수 있는 AI 음성 복제 기술을 개발했다."
+            "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+            "cap": "홀로 선 t-rex 3d 렌더링 일러스트 © 3dMediSphere"
           },
           {
             "t": "p",
-            "x": "ElevenLabs와 Spoken 같은 AI 기업들이 빠르게 커지는(fast-growing) 오디오북 시장을 노린다. ElevenLabs는 올여름 Michael Caine의 목소리를 재현해 낭독한 AI-voiced \"The Odyssey\"로 화제가 됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-            "cap": "ElevenLabs의 AI-voiced \"The Odyssey\"는 엇갈린 평가를 받았다."
+            "x": "EWC는 AI 기술 업계가 유럽의 오래되거나 희귀한 책 수백만 권을 « 파괴적으로 스캔 »하는 관행을 규탄했다. 의사결정자들에게는 작가와 출판사, 독자 편에 서서 목소리를 내 달라고 요구한다."
           },
           {
             "t": "p",
-            "x": "오디오북 매출은 지난해 9% 늘어 $2.43 billion을 기록했다. 사람이 낭독하는(Human-narrated) 오디오북은 만드는 데 여섯 달가량 걸리고 수천 달러가 든다. AI 버전은 $200이나 $300이면 충분하고 몇 시간에서 며칠이면 나온다. 베스트셀러 작가이자 Spoken의 사업개발 이사인 Joseph Nassise는 AI 덕에 모든 목소리와 발음을 직접 통제할 수 있다고 말한다."
+            "x": "유럽 밖(Non-European)의 거대 기술 기업들은 중고 서점과 고서점에서 적어도 이백만 권에 이르는 책을 사들였다. U.S.의 AI 스캔 공장은 책등을 잘라 낱장을 고속 스캐너에 넣고 남은 책은 버리거나 파쇄해 화장지로 재활용한다. 그렇게 얻은 파일은 대규모 언어 모델 개발에 쓰인다."
           },
           {
             "t": "p",
-            "x": "SAG-AFTRA의 Jane Love는 지금까지 나온 AI 작품 중 조합원이 고용될 만한 작품은 없었다고 말한다. 2025년 AI 오디오북이 업계 매출에서 차지한 몫은 약 .03%였다. ElevenLabs로 목소리를 복제한 성우는 사용 시간당 약 $1.20을 번다. 내레이터 Will Damron은 음성 복제가 이 직업의 가치를 떨어뜨린다고 경고한다. Nassise도 AI 오디오북에는 명확한 표시가 필요하다고 본다."
+            "x": "“희귀한 책이 파괴되고 있다. 이런 책 상당수는 다시는 찾을 수 없고, AI 기술 기업의 디지털 자산으로만 남는다.” EWC 부회장(Vice President) Maïa Bensimon의 말이다. EWC 정책위원 Nina George는 ‘세상의 모든 책을 스캔’하려는 Anthropic의 비밀 프로젝트 ‘Project Panama’를 지목한다."
+          },
+          {
+            "t": "p",
+            "x": "Henna Virkkunen 집행부위원장(Executive Vice-President)은 2026년 9월 16일 답변에서 텍스트·데이터 마이닝 예외는 디지털 저작물에만 적용된다고 밝혔다. 저작권이 있는 책은 아날로그 형태로 적법하게 취득했더라도 디지털화하려면 권리자의 사전 허락을 받아야 한다는 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "EWC는 유럽연합 집행위원회(European Commission)와 유럽의회(European Parliament), 모든 유럽 국가에 이 관행에 반대한다고 분명히 밝히라고 요구한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI companies set sights\non the audiobook market",
-          "body": "ElevenLabs and Spoken are angling for the fast-growing audiobook market, though consumer demand remains unproven.",
-          "mini_headline": "AI eyes\naudiobooks",
+          "headline": "European writers condemn\nbooks shredded for AI",
+          "body": "The European Writers Council asks Europe to take a firm stand on AI firms destructively scanning old and rare books.",
+          "mini_headline": "Writers condemn\nAI book shredding",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-                "cap": "ElevenLabs has developed AI voice clones that can mimic anyone's voice."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+                "cap": "3d rendered illustration of an isolated t-rex © 3dMediSphere"
               },
               {
                 "t": "p",
-                "x": "AI companies like ElevenLabs and Spoken are angling for the fast-growing audiobook market. ElevenLabs drew attention this summer with an AI-voiced \"The Odyssey\" narrated by a recreation of Michael Caine's voice."
-              },
-              {
-                "t": "img",
-                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-                "cap": "ElevenLabs' AI-voiced \"The Odyssey\" received mixed reviews."
+                "x": "The EWC condemns the AI tech practice of « destructively scanning » millions of old or rare European books and calls upon decision-makers to speak up on behalf of authors, publishers, and readers."
               },
               {
                 "t": "p",
-                "x": "Audiobook sales grew 9% last year to $2.43 billion. Human-narrated audiobooks take about six months and thousands of dollars; AI versions cost closer to $200 or $300 and take hours or days. Bestselling author Joseph Nassise, business development director at Spoken, says AI lets him control every voice and pronunciation."
+                "x": "Non-European tech giants have purchased at least up to two million books through second hand and antiquarian booksellers. At AI scan factories in the U.S., the spine is cut so pages can be fed through high-speed scanners before the copy is discarded, shredded, and recycled into toilet paper. The files are used to develop large language models."
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA's Jane Love says AI titles so far aren't ones its members would be hired for, and AI audiobooks made up about .03% of industry revenue in 2025. Performers who clone voices with ElevenLabs earn roughly $1.20 per hour of use; narrator Will Damron warns voice clones devalue the craft. Nassise says AI audiobooks should be clearly labeled."
+                "x": "“Rare books are destroyed. Many such books will never be found again and will exist solely as the digital property of an AI tech company,” says EWC Vice President Maïa Bensimon. EWC Political Commissioner Nina George points to Anthropic’s secret ‘Project Panama’, which aims to ‘scan all the books in the world’."
+              },
+              {
+                "t": "p",
+                "x": "On 16 September 2026, Executive Vice-President Henna Virkkunen answered that digitising copyright-protected books, even lawfully acquired in analogue form, requires the rightsholder’s prior authorisation, as text and data mining exceptions only cover digital works."
+              },
+              {
+                "t": "p",
+                "x": "The EWC calls upon the European Commission, the European Parliament, and every European State to take a clear stance against this practice."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 기업들\n오디오북 시장 겨냥",
-          "body": "ElevenLabs와 Spoken이 fast-growing 오디오북 시장을 노린다.",
-          "mini_headline": "AI, 오디오북을 노리다",
+          "headline": "유럽 작가들\nAI용 책 파쇄 규탄",
+          "body": "EWC가 AI 기업의 고서·희귀본 파괴 스캔에 유럽의 단호한 대응을 촉구했다.",
+          "mini_headline": "작가들, AI용 책 파쇄 규탄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-                "cap": "ElevenLabs는 누구의 목소리든 흉내 낼 수 있는 AI 음성 복제 기술을 개발했다."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+                "cap": "홀로 선 t-rex 3d 렌더링 일러스트 © 3dMediSphere"
               },
               {
                 "t": "p",
-                "x": "ElevenLabs와 Spoken 같은 AI 기업들이 빠르게 커지는(fast-growing) 오디오북 시장을 노린다. ElevenLabs는 올여름 Michael Caine의 목소리를 재현해 낭독한 AI-voiced \"The Odyssey\"로 화제가 됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-                "cap": "ElevenLabs의 AI-voiced \"The Odyssey\"는 엇갈린 평가를 받았다."
+                "x": "EWC는 AI 기술 업계가 유럽의 오래되거나 희귀한 책 수백만 권을 « 파괴적으로 스캔 »하는 관행을 규탄했다. 의사결정자들에게는 작가와 출판사, 독자 편에 서서 목소리를 내 달라고 요구한다."
               },
               {
                 "t": "p",
-                "x": "오디오북 매출은 지난해 9% 늘어 $2.43 billion을 기록했다. 사람이 낭독하는(Human-narrated) 오디오북은 만드는 데 여섯 달가량 걸리고 수천 달러가 든다. AI 버전은 $200이나 $300이면 충분하고 몇 시간에서 며칠이면 나온다. 베스트셀러 작가이자 Spoken의 사업개발 이사인 Joseph Nassise는 AI 덕에 모든 목소리와 발음을 직접 통제할 수 있다고 말한다."
+                "x": "유럽 밖(Non-European)의 거대 기술 기업들은 중고 서점과 고서점에서 적어도 이백만 권에 이르는 책을 사들였다. U.S.의 AI 스캔 공장은 책등을 잘라 낱장을 고속 스캐너에 넣고 남은 책은 버리거나 파쇄해 화장지로 재활용한다. 그렇게 얻은 파일은 대규모 언어 모델 개발에 쓰인다."
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA의 Jane Love는 지금까지 나온 AI 작품 중 조합원이 고용될 만한 작품은 없었다고 말한다. 2025년 AI 오디오북이 업계 매출에서 차지한 몫은 약 .03%였다. ElevenLabs로 목소리를 복제한 성우는 사용 시간당 약 $1.20을 번다. 내레이터 Will Damron은 음성 복제가 이 직업의 가치를 떨어뜨린다고 경고한다. Nassise도 AI 오디오북에는 명확한 표시가 필요하다고 본다."
+                "x": "“희귀한 책이 파괴되고 있다. 이런 책 상당수는 다시는 찾을 수 없고, AI 기술 기업의 디지털 자산으로만 남는다.” EWC 부회장(Vice President) Maïa Bensimon의 말이다. EWC 정책위원 Nina George는 ‘세상의 모든 책을 스캔’하려는 Anthropic의 비밀 프로젝트 ‘Project Panama’를 지목한다."
+              },
+              {
+                "t": "p",
+                "x": "Henna Virkkunen 집행부위원장(Executive Vice-President)은 2026년 9월 16일 답변에서 텍스트·데이터 마이닝 예외는 디지털 저작물에만 적용된다고 밝혔다. 저작권이 있는 책은 아날로그 형태로 적법하게 취득했더라도 디지털화하려면 권리자의 사전 허락을 받아야 한다는 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "EWC는 유럽연합 집행위원회(European Commission)와 유럽의회(European Parliament), 모든 유럽 국가에 이 관행에 반대한다고 분명히 밝히라고 요구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI企業が狙う\nオーディオブック市場",
-          "body": "ElevenLabsとSpokenがfast-growingなオーディオブック市場を狙う。",
-          "mini_headline": "AIがオーディオブックを狙う",
+          "headline": "欧州の作家団体\nAI用の書籍裁断を非難",
+          "body": "EWCは、AI企業による古書・希少本の破壊的スキャンに欧州の断固たる対応を求めた。",
+          "mini_headline": "作家団体、AI用の書籍裁断を非難",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-                "cap": "ElevenLabsは、誰の声でも模倣できるAI音声クローンを開発した。"
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+                "cap": "単体のt-rexを描いた3dレンダリングのイラスト © 3dMediSphere"
               },
               {
                 "t": "p",
-                "x": "ElevenLabsやSpokenといったAI企業が、急成長する(fast-growing)オーディオブック市場を狙っている。ElevenLabsはこの夏、Michael Caineの声を再現して朗読したAI-voicedの「The Odyssey」で注目を集めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-                "cap": "ElevenLabsのAI-voicedによる「The Odyssey」は賛否が分かれた。"
+                "x": "EWCは、AIテック業界が欧州の古書や希少本数百万冊を« 破壊的にスキャン »する慣行を非難し、意思決定者に対して著者、出版社、読者のために声を上げるよう呼びかけている。"
               },
               {
                 "t": "p",
-                "x": "オーディオブックの売上は昨年9%伸び、$2.43 billionに達した。人間が朗読する(Human-narrated)オーディオブックは制作に約半年と数千ドルを要するが、AI版の費用は$200か$300程度で、数時間から数日で完成する。ベストセラー作家で、Spokenの事業開発ディレクターを務めるJoseph Nassiseは、AIならすべての声と発音を自分で管理できると話す。"
+                "x": "欧州域外(Non-European)の巨大テック企業は、古書店や古本屋を通じて少なくとも最大二百万冊の本を購入した。U.S.のAIスキャン工場では、背表紙を切り落としてページを高速スキャナーに通した後、本を廃棄・裁断し、トイレットペーパーに再生する。こうして得たファイルは大規模言語モデルの開発に使われる。"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRAのJane Loveによれば、これまでのAI作品は組合員が起用されるような作品ではなく、2025年のAIオーディオブックは業界売上の約.03%だった。ElevenLabsで声をクローンした出演者の収入は、使用時間あたり約$1.20だ。ナレーターのWill Damronは、音声クローンが技能の価値を下げると警告する。Nassiseは、AIオーディオブックには明確な表示が必要だと述べている。"
+                "x": "「希少な本が破壊されている。そうした本の多くは二度と見つからず、AIテック企業のデジタル資産としてのみ存在することになる」とEWC副会長(Vice President)のMaïa Bensimonは言う。EWC政策委員のNina Georgeは、「世界中のすべての本をスキャンする」ことを目指すAnthropicの秘密計画『Project Panama』を指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "2026年9月16日、Henna Virkkunen上級副委員長(Executive Vice-President)は、テキスト・データマイニングの例外はデジタル作品にしか適用されないため、著作権で保護された書籍は、たとえアナログ形態で合法的に入手したものでも、デジタル化には権利者の事前許諾が必要だと回答した。"
+              },
+              {
+                "t": "p",
+                "x": "EWCは欧州委員会(European Commission)、欧州議会(European Parliament)、そしてすべての欧州諸国に対し、この慣行に明確に反対する立場を取るよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI公司瞄准\n有声书市场",
-          "body": "ElevenLabs和Spoken瞄准fast-growing的有声书市场，但需求未获验证。",
-          "mini_headline": "AI瞄准有声书",
+          "headline": "欧洲作家谴责\n为AI而碎毁书籍",
+          "body": "欧洲作家理事会呼吁欧洲对AI公司破坏性扫描古籍和珍本表明坚定立场。",
+          "mini_headline": "作家谴责AI碎书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-                "cap": "ElevenLabs开发了能模仿任何人声音的AI语音克隆。"
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+                "cap": "一只孤立霸王龙(t-rex)的3d渲染插图 © 3dMediSphere"
               },
               {
                 "t": "p",
-                "x": "ElevenLabs和Spoken等AI公司正瞄准快速增长（fast-growing）的有声书市场。今年夏天，ElevenLabs凭借一部由重现的Michael Caine声音朗读的AI-voiced版《The Odyssey》引发关注。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-                "cap": "ElevenLabs的AI-voiced版《The Odyssey》评价不一。"
+                "x": "EWC谴责AI科技行业对数以百万计的欧洲古籍和珍本进行« 破坏性扫描 »的做法，并呼吁决策者为作者、出版商和读者发声。"
               },
               {
                 "t": "p",
-                "x": "有声书销售额去年增长9%，达到$2.43 billion。真人朗读（Human-narrated）的有声书制作约需六个月和数千美元；AI版本成本约$200或$300，只需数小时或数天。畅销书作家、Spoken业务发展总监Joseph Nassise表示，AI让他能掌控每一个声音和发音。"
+                "x": "非欧洲(Non-European)科技巨头已通过二手书店和古籍书商购入至少多达两百万册图书。在U.S.的AI扫描工厂里，书脊被切掉，书页送入高速扫描仪，随后书本被丢弃、粉碎，再回收制成卫生纸。这些文件被用于开发大语言模型。"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA的Jane Love表示，迄今的AI作品并不是其会员会受雇参与的作品，2025年AI有声书约占行业收入的.03%。用ElevenLabs克隆声音的表演者按使用时长每小时约赚$1.20；朗读者Will Damron警告，声音克隆会贬低这门手艺。Nassise表示，AI有声书应清楚标注。"
+                "x": "“珍本正在被毁。许多这样的书将再也找不到，只会作为某家AI科技公司的数字财产存在。”EWC副主席(Vice President)Maïa Bensimon说。EWC政策专员Nina George提到了Anthropic的秘密计划‘Project Panama’，其目标是‘扫描世界上所有的书’。"
+              },
+              {
+                "t": "p",
+                "x": "2026年9月16日，执行副主席(Executive Vice-President)Henna Virkkunen答复称，由于文本与数据挖掘例外只涵盖数字作品，将受版权保护的图书数字化，即便是合法购得的纸质版，也须事先获得权利人授权。"
+              },
+              {
+                "t": "p",
+                "x": "EWC呼吁欧盟委员会(European Commission)、欧洲议会(European Parliament)以及每个欧洲国家明确表态，反对这种做法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Empresas de AI ponen la mira\nen el mercado de audiolibros",
-          "body": "ElevenLabs y Spoken apuntan al fast-growing mercado de audiolibros, aunque la demanda sigue sin demostrarse.",
-          "mini_headline": "La AI pone la mira en los audiolibros",
+          "headline": "Escritores europeos condenan\nlibros triturados para la AI",
+          "body": "El European Writers Council pide firmeza a Europa ante firmas de AI que escanean y destruyen libros antiguos y raros.",
+          "mini_headline": "Escritores condenan la trituración de libros para AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-                "cap": "ElevenLabs ha desarrollado clones de voz con AI capaces de imitar la voz de cualquier persona."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+                "cap": "Ilustración 3d renderizada de un t-rex aislado © 3dMediSphere"
               },
               {
                 "t": "p",
-                "x": "Empresas de AI como ElevenLabs y Spoken apuntan al mercado de audiolibros, de crecimiento rápido (fast-growing). ElevenLabs llamó la atención este verano con una versión AI-voiced de \"The Odyssey\" narrada por una recreación de la voz de Michael Caine."
-              },
-              {
-                "t": "img",
-                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-                "cap": "La versión AI-voiced de \"The Odyssey\" de ElevenLabs recibió críticas dispares."
+                "x": "El EWC condena la práctica de la industria tecnológica de la AI de « escanear de forma destructiva » millones de libros europeos antiguos o raros, y pide a los responsables políticos que alcen la voz en nombre de autores, editores y lectores."
               },
               {
                 "t": "p",
-                "x": "Las ventas de audiolibros crecieron un 9% el año pasado, hasta $2.43 billion. Los audiolibros narrados por personas (Human-narrated) requieren unos seis meses y miles de dólares; las versiones con AI cuestan más bien $200 o $300 y se hacen en horas o días. El autor superventas Joseph Nassise, director de desarrollo de negocio de Spoken, afirma que la AI le permite controlar cada voz y cada pronunciación."
+                "x": "Gigantes tecnológicos no europeos (Non-European) han comprado al menos hasta dos millones de libros a través de librerías de segunda mano y anticuarios. En fábricas de escaneo de AI en Estados Unidos (U.S.), se corta el lomo para pasar las páginas por escáneres de alta velocidad y después el ejemplar se desecha, se tritura y se recicla como papel higiénico. Los archivos se usan para desarrollar grandes modelos de lenguaje."
               },
               {
                 "t": "p",
-                "x": "Jane Love, de SAG-AFTRA, dice que los títulos con AI hasta ahora no son de los que contratarían a sus miembros, y que los audiolibros con AI representaron alrededor del .03% de los ingresos del sector en 2025. Los intérpretes que clonan su voz con ElevenLabs ganan unos $1.20 por hora de uso; el narrador Will Damron advierte que los clones de voz devalúan el oficio. Nassise sostiene que los audiolibros con AI deberían etiquetarse con claridad."
+                "x": "“Se destruyen libros raros. Muchos de ellos no volverán a encontrarse jamás y existirán únicamente como propiedad digital de una empresa tecnológica de AI”, afirma la vicepresidenta del EWC (Vice President), Maïa Bensimon. La comisionada política del EWC, Nina George, señala el ‘Project Panama’ secreto de Anthropic, que busca ‘escanear todos los libros del mundo’."
+              },
+              {
+                "t": "p",
+                "x": "El 16 de septiembre de 2026, la vicepresidenta ejecutiva (Executive Vice-President) Henna Virkkunen respondió que digitalizar libros protegidos por derechos de autor, incluso adquiridos legalmente en formato analógico, requiere la autorización previa del titular de los derechos, ya que las excepciones de minería de textos y datos solo cubren obras digitales."
+              },
+              {
+                "t": "p",
+                "x": "El EWC pide a la Comisión Europea (European Commission), al Parlamento Europeo (European Parliament) y a cada Estado europeo que adopten una postura clara contra esta práctica."
               }
             ]
           }
@@ -819,129 +625,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 기업들\n오디오북 시장 겨냥",
-          "body": "ElevenLabs·Spoken이 fast-growing 오디오북 시장을 노린다.",
-          "mini_headline": "AI, 오디오북을 노리다",
+          "headline": "유럽 작가들\nAI용 책 파쇄 규탄",
+          "body": "EWC가 AI 기업의 고서·희귀본 파괴 스캔에 유럽의 단호한 대응을 촉구했다.",
+          "mini_headline": "작가들, AI용 책 파쇄 규탄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-                "cap": "ElevenLabs는 누구의 목소리든 흉내 낼 수 있는 AI 음성 복제 기술을 개발했다."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+                "cap": "홀로 선 t-rex를 표현한 3d 렌더링 일러스트 © 3dMediSphere"
               },
               {
                 "t": "p",
-                "x": "ElevenLabs와 Spoken 같은 AI 기업들이 빠르게 성장하는(fast-growing) 오디오북 시장을 노리고 있다. ElevenLabs는 올여름 Michael Caine의 목소리를 재현해 낭독한 AI-voiced \"The Odyssey\"로 주목받았다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-                "cap": "ElevenLabs의 AI-voiced \"The Odyssey\"는 엇갈린 평가를 받았다."
+                "x": "EWC는 AI 기술 업계가 유럽의 오래되거나 희귀한 책 수백만 권을 « 파괴적으로 스캔 »하는 관행을 규탄하고, 의사결정자들에게 작가와 출판사, 독자를 대신해 목소리를 내 달라고 촉구한다."
               },
               {
                 "t": "p",
-                "x": "오디오북 매출은 지난해 9% 늘어 $2.43 billion에 달했다. 사람이 낭독하는(Human-narrated) 오디오북은 제작에 여섯 달가량과 수천 달러가 들지만, AI 버전은 비용이 $200이나 $300 수준이고 몇 시간에서 며칠이면 완성된다. 베스트셀러 작가이자 Spoken의 사업개발 이사인 Joseph Nassise는 AI 덕분에 모든 목소리와 발음을 직접 통제할 수 있다고 말한다."
+                "x": "유럽 밖(Non-European)의 거대 기술 기업들은 중고 서점과 고서점을 통해 적어도 이백만 권에 이르는 책을 사들였다. U.S.의 AI 스캔 공장에서는 책등을 잘라 낱장을 고속 스캐너에 넣은 뒤, 책을 버리거나 파쇄해 화장지로 재활용한다. 이렇게 만든 파일은 대규모 언어 모델 개발에 쓰인다."
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA의 Jane Love는 지금까지 나온 AI 작품은 조합원이 고용될 만한 작품이 아니었다고 말하며, 2025년 AI 오디오북은 업계 매출의 약 .03%를 차지했다. ElevenLabs로 목소리를 복제한 성우는 사용 시간당 약 $1.20을 번다. 내레이터 Will Damron은 음성 복제가 이 직업의 가치를 떨어뜨린다고 경고한다. Nassise는 AI 오디오북에 명확한 표시가 필요하다고 말한다."
+                "x": "“희귀한 책이 파괴되고 있다. 이런 책 상당수는 다시는 찾을 수 없고, AI 기술 기업의 디지털 자산으로만 남는다.” EWC 부회장(Vice President) Maïa Bensimon의 말이다. EWC 정책위원 Nina George는 ‘세상의 모든 책을 스캔’하려는 Anthropic의 비밀 프로젝트 ‘Project Panama’를 지목한다."
+              },
+              {
+                "t": "p",
+                "x": "2026년 9월 16일, Henna Virkkunen 집행부위원장(Executive Vice-President)은 텍스트·데이터 마이닝 예외는 디지털 저작물에만 적용되므로, 저작권이 있는 책은 아날로그 형태로 적법하게 취득했더라도 디지털화하려면 권리자의 사전 허락을 받아야 한다고 답했다."
+              },
+              {
+                "t": "p",
+                "x": "EWC는 유럽연합 집행위원회(European Commission)와 유럽의회(European Parliament), 그리고 모든 유럽 국가에 이 관행에 분명히 반대하는 입장을 밝히라고 촉구한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI企業が狙う\nオーディオブック市場",
-          "body": "ElevenLabsとSpokenがfast-growingなオーディオブック市場を狙う。",
-          "mini_headline": "AIがオーディオブックを狙う",
+          "headline": "欧州の作家団体\nAI用の書籍裁断を非難",
+          "body": "EWCは、AI企業による古書・希少本の破壊的スキャンに欧州の断固たる対応を求めた。",
+          "mini_headline": "作家団体、AI用の書籍裁断を非難",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-                "cap": "ElevenLabsは、誰の声でも模倣できるAI音声クローンを開発した。"
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+                "cap": "単体のt-rexを描いた3dレンダリングのイラスト © 3dMediSphere"
               },
               {
                 "t": "p",
-                "x": "ElevenLabsやSpokenといったAI企業が、急成長する(fast-growing)オーディオブック市場を狙っている。ElevenLabsはこの夏、Michael Caineの声を再現して朗読したAI-voicedの「The Odyssey」で注目を集めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-                "cap": "ElevenLabsのAI-voicedによる「The Odyssey」は賛否が分かれた。"
+                "x": "EWCは、AIテック業界が欧州の古書や希少本数百万冊を« 破壊的にスキャン »する慣行を非難し、意思決定者に対して著者、出版社、読者のために声を上げるよう呼びかけている。"
               },
               {
                 "t": "p",
-                "x": "オーディオブックの売上は昨年9%伸び、$2.43 billionに達した。人間が朗読する(Human-narrated)オーディオブックは制作に約半年と数千ドルを要するが、AI版の費用は$200か$300程度で、数時間から数日で完成する。ベストセラー作家で、Spokenの事業開発ディレクターを務めるJoseph Nassiseは、AIならすべての声と発音を自分で管理できると話す。"
+                "x": "欧州域外(Non-European)の巨大テック企業は、古書店や古本屋を通じて少なくとも最大二百万冊の本を購入した。U.S.のAIスキャン工場では、背表紙を切り落としてページを高速スキャナーに通した後、本を廃棄・裁断し、トイレットペーパーに再生する。こうして得たファイルは大規模言語モデルの開発に使われる。"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRAのJane Loveによれば、これまでのAI作品は組合員が起用されるような作品ではなく、2025年のAIオーディオブックは業界売上の約.03%だった。ElevenLabsで声をクローンした出演者の収入は、使用時間あたり約$1.20だ。ナレーターのWill Damronは、音声クローンが技能の価値を下げると警告する。Nassiseは、AIオーディオブックには明確な表示が必要だと述べている。"
+                "x": "「希少な本が破壊されている。そうした本の多くは二度と見つからず、AIテック企業のデジタル資産としてのみ存在することになる」とEWC副会長(Vice President)のMaïa Bensimonは言う。EWC政策委員のNina Georgeは、「世界中のすべての本をスキャンする」ことを目指すAnthropicの秘密計画『Project Panama』を指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "2026年9月16日、Henna Virkkunen上級副委員長(Executive Vice-President)は、テキスト・データマイニングの例外はデジタル作品にしか適用されないため、著作権で保護された書籍は、たとえアナログ形態で合法的に入手したものでも、デジタル化には権利者の事前許諾が必要だと回答した。"
+              },
+              {
+                "t": "p",
+                "x": "EWCは欧州委員会(European Commission)、欧州議会(European Parliament)、そしてすべての欧州諸国に対し、この慣行に明確に反対する立場を取るよう求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI公司瞄准\n有声书市场",
-          "body": "ElevenLabs和Spoken瞄准fast-growing的有声书市场，但需求未获验证。",
-          "mini_headline": "AI瞄准有声书",
+          "headline": "欧洲作家谴责\n为AI而碎毁书籍",
+          "body": "欧洲作家理事会呼吁欧洲对AI公司破坏性扫描古籍和珍本表明坚定立场。",
+          "mini_headline": "作家谴责AI碎书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-                "cap": "ElevenLabs开发了能模仿任何人声音的AI语音克隆。"
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+                "cap": "一只孤立霸王龙(t-rex)的3d渲染插图 © 3dMediSphere"
               },
               {
                 "t": "p",
-                "x": "ElevenLabs和Spoken等AI公司正瞄准快速增长（fast-growing）的有声书市场。今年夏天，ElevenLabs凭借一部由重现的Michael Caine声音朗读的AI-voiced版《The Odyssey》引发关注。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-                "cap": "ElevenLabs的AI-voiced版《The Odyssey》评价不一。"
+                "x": "EWC谴责AI科技行业对数以百万计的欧洲古籍和珍本进行« 破坏性扫描 »的做法，并呼吁决策者为作者、出版商和读者发声。"
               },
               {
                 "t": "p",
-                "x": "有声书销售额去年增长9%，达到$2.43 billion。真人朗读（Human-narrated）的有声书制作约需六个月和数千美元；AI版本成本约$200或$300，只需数小时或数天。畅销书作家、Spoken业务发展总监Joseph Nassise表示，AI让他能掌控每一个声音和发音。"
+                "x": "非欧洲(Non-European)科技巨头已通过二手书店和古籍书商购入至少多达两百万册图书。在U.S.的AI扫描工厂里，书脊被切掉，书页送入高速扫描仪，随后书本被丢弃、粉碎，再回收制成卫生纸。这些文件被用于开发大语言模型。"
               },
               {
                 "t": "p",
-                "x": "SAG-AFTRA的Jane Love表示，迄今的AI作品并不是其会员会受雇参与的作品，2025年AI有声书约占行业收入的.03%。用ElevenLabs克隆声音的表演者按使用时长每小时约赚$1.20；朗读者Will Damron警告，声音克隆会贬低这门手艺。Nassise表示，AI有声书应清楚标注。"
+                "x": "“珍本正在被毁。许多这样的书将再也找不到，只会作为某家AI科技公司的数字财产存在。”EWC副主席(Vice President)Maïa Bensimon说。EWC政策专员Nina George提到了Anthropic的秘密计划‘Project Panama’，其目标是‘扫描世界上所有的书’。"
+              },
+              {
+                "t": "p",
+                "x": "2026年9月16日，执行副主席(Executive Vice-President)Henna Virkkunen答复称，由于文本与数据挖掘例外只涵盖数字作品，将受版权保护的图书数字化，即便是合法购得的纸质版，也须事先获得权利人授权。"
+              },
+              {
+                "t": "p",
+                "x": "EWC呼吁欧盟委员会(European Commission)、欧洲议会(European Parliament)以及每个欧洲国家明确表态，反对这种做法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Empresas de AI ponen la mira\nen el mercado de audiolibros",
-          "body": "ElevenLabs y Spoken apuntan al fast-growing mercado de audiolibros, aunque la demanda sigue sin demostrarse.",
-          "mini_headline": "La AI pone la mira en los audiolibros",
+          "headline": "Escritores europeos condenan\nlibros triturados para la AI",
+          "body": "El European Writers Council pide firmeza a Europa ante firmas de AI que escanean y destruyen libros antiguos y raros.",
+          "mini_headline": "Escritores condenan la trituración de libros para AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.apmcdn.org/96c154e42d8a87a77f39a9c2b3f4b181de0c8610/widescreen/347db6-20260930-a-close-up-of-a-microphone-with-a-person-behind-it-webp2000.webp",
-                "cap": "ElevenLabs ha desarrollado clones de voz con AI capaces de imitar la voz de cualquier persona."
+                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+                "cap": "Ilustración 3d renderizada de un t-rex aislado © 3dMediSphere"
               },
               {
                 "t": "p",
-                "x": "Empresas de AI como ElevenLabs y Spoken apuntan al mercado de audiolibros, de crecimiento rápido (fast-growing). ElevenLabs llamó la atención este verano con una versión AI-voiced de \"The Odyssey\" narrada por una recreación de la voz de Michael Caine."
-              },
-              {
-                "t": "img",
-                "src": "https://img.apmcdn.org/9ccbd1f5cb414cf5dc506e215de8ddd65b20a723/uncropped/1871e5-20260930-the-odyssey-ai-audiobook-cover-447.jpg",
-                "cap": "La versión AI-voiced de \"The Odyssey\" de ElevenLabs recibió críticas dispares."
+                "x": "El EWC condena la práctica de la industria tecnológica de la AI de « escanear de forma destructiva » millones de libros europeos antiguos o raros, y pide a los responsables políticos que alcen la voz en nombre de autores, editores y lectores."
               },
               {
                 "t": "p",
-                "x": "Las ventas de audiolibros crecieron un 9% el año pasado, hasta $2.43 billion. Los audiolibros narrados por personas (Human-narrated) requieren unos seis meses y miles de dólares; las versiones con AI cuestan más bien $200 o $300 y se hacen en horas o días. El autor superventas Joseph Nassise, director de desarrollo de negocio de Spoken, afirma que la AI le permite controlar cada voz y cada pronunciación."
+                "x": "Gigantes tecnológicos no europeos (Non-European) han comprado al menos hasta dos millones de libros a través de librerías de segunda mano y anticuarios. En fábricas de escaneo de AI en Estados Unidos (U.S.), se corta el lomo para pasar las páginas por escáneres de alta velocidad y después el ejemplar se desecha, se tritura y se recicla como papel higiénico. Los archivos se usan para desarrollar grandes modelos de lenguaje."
               },
               {
                 "t": "p",
-                "x": "Jane Love, de SAG-AFTRA, dice que los títulos con AI hasta ahora no son de los que contratarían a sus miembros, y que los audiolibros con AI representaron alrededor del .03% de los ingresos del sector en 2025. Los intérpretes que clonan su voz con ElevenLabs ganan unos $1.20 por hora de uso; el narrador Will Damron advierte que los clones de voz devalúan el oficio. Nassise sostiene que los audiolibros con AI deberían etiquetarse con claridad."
+                "x": "“Se destruyen libros raros. Muchos de ellos no volverán a encontrarse jamás y existirán únicamente como propiedad digital de una empresa tecnológica de AI”, afirma la vicepresidenta del EWC (Vice President), Maïa Bensimon. La comisionada política del EWC, Nina George, señala el ‘Project Panama’ secreto de Anthropic, que busca ‘escanear todos los libros del mundo’."
+              },
+              {
+                "t": "p",
+                "x": "El 16 de septiembre de 2026, la vicepresidenta ejecutiva (Executive Vice-President) Henna Virkkunen respondió que digitalizar libros protegidos por derechos de autor, incluso adquiridos legalmente en formato analógico, requiere la autorización previa del titular de los derechos, ya que las excepciones de minería de textos y datos solo cubren obras digitales."
+              },
+              {
+                "t": "p",
+                "x": "El EWC pide a la Comisión Europea (European Commission), al Parlamento Europeo (European Parliament) y a cada Estado europeo que adopten una postura clara contra esta práctica."
               }
             ]
           }
@@ -949,327 +767,15 @@
       }
     },
     {
-      "id": "sudowrite-chat-rewrite-printing",
+      "id": "bye-bye-ai-library-event",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sudowrite Chat\n속도 두 배, 원고 인쇄도",
-      "body": "Sudowrite Chat이 두 배 빨라졌고 Rewrite 개선과 인쇄도 더해졌다.",
-      "mini_headline": "Sudowrite Chat, 2x 빨라지다",
+      "headline": "뉴욕의 작은 도서관\nAI 끄기를 돕다",
+      "body": "뉴욕주 북부의 한 도서관이 휴대폰·컴퓨터의 AI 기능을 꺼 주며 화제가 됐다.",
+      "mini_headline": "AI 끄기 돕는 도서관",
       "tool": "Books",
-      "source": "Sudowrite",
-      "url": "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "최근 Chat을 크게 손봐 속도와 성능을 함께 끌어올렸다."
-          },
-          {
-            "t": "p",
-            "x": "Chat 응답 속도가 두 배로 빨라졌다 - 이번 주 Chat을 더 빠른 인프라로 옮기면서 응답 시간이 절반으로 줄었다. 큰 작업일수록 차이가 확실히 느껴진다."
-          },
-          {
-            "t": "p",
-            "x": "Chat의 실수가 줄었다 - Chat이 가장 자주 막히던 지점을 손보는 데 공을 들여 왔다. 최근 수정으로 오류율이 30% 낮아졌다. 맥락을 놓치거나 편집 위치를 잘못 잡거나 작업을 중간에 포기하는 일도 훨씬 드물어졌다. 아직 끝난 게 아니다. Chat 개선은 계속 이어진다."
-          },
-          {
-            "t": "p",
-            "x": "Rewrite가 이제 자체(in-house) 모델로 돌아간다 - Rewrite는 그동안 Anthropic의 Claude Sonnet을 써 왔다. 이번에 Ballad로 옮겼는데 결과가 모든 걸 말해 준다. 작가들이 Rewrite 결과물을 실제로 쓸 가능성이 20% 높아졌다. 한동안 Rewrite를 안 썼다면 다시 써 볼 만하다."
-          },
-          {
-            "t": "p",
-            "x": "이제 문서를 제대로 인쇄할 수 있다 - 예전에는 Sudowrite 편집기에서 Ctrl + P나 Command + P를 누르면 빈 페이지와 함께 더 넓은 브라우저가 필요하다는 메시지만 떴다. 다행히 이제는 보고 있는 문서를 깔끔하게 인쇄해 준다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Sudowrite doubles Chat speed\nand adds manuscript printing",
-          "body": "Sudowrite's Chat responds twice as fast, alongside an improved Rewrite tool and new printing support for manuscripts.",
-          "mini_headline": "Sudowrite Chat\ngets 2x faster",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "We've made some big updates to Chat very recently, improving both its speed and performance."
-              },
-              {
-                "t": "p",
-                "x": "Chat responses are now twice as fast - We moved Chat to faster infrastructure this week, cutting response time in half in the process. You should definitely notice it on bigger tasks."
-              },
-              {
-                "t": "p",
-                "x": "Chat makes fewer mistakes - We've been working hard to improve Chat's performance where it's most likely to stumble. Our most recent fixes have reduced error rates by 30%, meaning it's now far less likely to drop context, misplace an edit, or give up. We're not done yet, though, and there are more Chat improvements to come."
-              },
-              {
-                "t": "p",
-                "x": "Rewrite now runs on our in-house model - Rewrite had been using Anthropic's Claude Sonnet for a while. We just moved it to Ballad, and the results speak for themselves: authors are now 20% more likely to actually use the resulting Rewrite. If you haven't tried Rewrite in a while, it's worth another spin."
-              },
-              {
-                "t": "p",
-                "x": "Actually print your documents - Hitting Ctrl + P or Command + P while viewing the Sudowrite editor used to pop up a blank page and a message about needing a wider browser. Well, good news, folks: it will now print a clean version of whatever document you're viewing."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Sudowrite Chat\n속도 두 배, 원고 인쇄도",
-          "body": "Sudowrite Chat이 두 배 빨라졌고 Rewrite 개선과 인쇄도 더해졌다.",
-          "mini_headline": "Sudowrite Chat, 2x 빨라지다",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "최근 Chat을 크게 손봐 속도와 성능을 함께 끌어올렸다."
-              },
-              {
-                "t": "p",
-                "x": "Chat 응답 속도가 두 배로 빨라졌다 - 이번 주 Chat을 더 빠른 인프라로 옮기면서 응답 시간이 절반으로 줄었다. 큰 작업일수록 차이가 확실히 느껴진다."
-              },
-              {
-                "t": "p",
-                "x": "Chat의 실수가 줄었다 - Chat이 가장 자주 막히던 지점을 손보는 데 공을 들여 왔다. 최근 수정으로 오류율이 30% 낮아졌다. 맥락을 놓치거나 편집 위치를 잘못 잡거나 작업을 중간에 포기하는 일도 훨씬 드물어졌다. 아직 끝난 게 아니다. Chat 개선은 계속 이어진다."
-              },
-              {
-                "t": "p",
-                "x": "Rewrite가 이제 자체(in-house) 모델로 돌아간다 - Rewrite는 그동안 Anthropic의 Claude Sonnet을 써 왔다. 이번에 Ballad로 옮겼는데 결과가 모든 걸 말해 준다. 작가들이 Rewrite 결과물을 실제로 쓸 가능성이 20% 높아졌다. 한동안 Rewrite를 안 썼다면 다시 써 볼 만하다."
-              },
-              {
-                "t": "p",
-                "x": "이제 문서를 제대로 인쇄할 수 있다 - 예전에는 Sudowrite 편집기에서 Ctrl + P나 Command + P를 누르면 빈 페이지와 함께 더 넓은 브라우저가 필요하다는 메시지만 떴다. 다행히 이제는 보고 있는 문서를 깔끔하게 인쇄해 준다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sudowrite Chat\n速度倍増、原稿印刷も",
-          "body": "Sudowrite Chatが倍速になり、Rewriteも改善、原稿印刷にも対応した。",
-          "mini_headline": "Sudowrite Chatが2x高速に",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "最近、Chatに大きなアップデートを行い、速度と性能の両方を向上させた。"
-              },
-              {
-                "t": "p",
-                "x": "Chatの応答速度が倍になった - 今週Chatをより高速なインフラに移し、応答時間を半分に短縮した。大きな作業ではっきり実感できるはずだ。"
-              },
-              {
-                "t": "p",
-                "x": "Chatのミスが減った - Chatがつまずきやすい場面での性能改善に力を注いできた。直近の修正でエラー率を30%下げ、文脈を落としたり、編集箇所を誤ったり、途中で投げ出したりすることが大幅に減った。ただしまだ終わりではなく、Chatの改善はこれからも続く。"
-              },
-              {
-                "t": "p",
-                "x": "Rewriteが自社(in-house)モデルで動作 - RewriteはしばらくAnthropicのClaude Sonnetを使っていた。これをBalladに移したところ、結果は明らかだ。作家が生成されたRewriteを実際に採用する確率が20%高まった。しばらくRewriteを使っていないなら、改めて試す価値がある。"
-              },
-              {
-                "t": "p",
-                "x": "文書をきちんと印刷できるように - これまでSudowriteのエディタ表示中にCtrl + PやCommand + Pを押すと、白紙のページと、より幅の広いブラウザが必要だというメッセージが表示されていた。朗報だ。今後は表示中の文書をきれいな形で印刷できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sudowrite Chat\n提速一倍并支持打印稿件",
-          "body": "Sudowrite的Chat响应速度翻倍，Rewrite工具获改进，并新增稿件打印功能。",
-          "mini_headline": "Sudowrite Chat提速至2x",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "我们最近对Chat进行了重大更新，速度和性能都有提升。"
-              },
-              {
-                "t": "p",
-                "x": "Chat响应速度翻倍 - 本周我们将Chat迁移到更快的基础设施，响应时间因此减半。在较大的任务上你一定能感受到。"
-              },
-              {
-                "t": "p",
-                "x": "Chat出错更少 - 我们一直在努力提升Chat在最容易出错之处的表现。最近的修复让错误率降低了30%，这意味着它丢失上下文、放错编辑位置或中途放弃的可能性大大降低。不过我们还没完成，更多Chat改进即将到来。"
-              },
-              {
-                "t": "p",
-                "x": "Rewrite现在运行在我们的自研（in-house）模型上 - Rewrite此前一段时间使用的是Anthropic的Claude Sonnet。我们刚把它迁移到Ballad，结果不言自明：作者实际采用Rewrite结果的可能性提高了20%。如果你有一阵子没用Rewrite了，值得再试一次。"
-              },
-              {
-                "t": "p",
-                "x": "现在可以真正打印文档了 - 以前在Sudowrite编辑器中按Ctrl + P或Command + P，只会弹出一页空白页和一条需要更宽浏览器的提示。好消息是：现在它会打印出你正在查看的文档的干净版本。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sudowrite acelera Chat al doble\ny permite imprimir manuscritos",
-          "body": "El Chat de Sudowrite responde el doble de rápido, con un Rewrite mejorado y nueva opción de imprimir manuscritos.",
-          "mini_headline": "Sudowrite Chat, 2x más rápido",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Hemos hecho recientemente grandes actualizaciones en Chat que mejoran tanto su velocidad como su rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "Las respuestas de Chat ahora son el doble de rápidas - Esta semana trasladamos Chat a una infraestructura más rápida, lo que redujo a la mitad el tiempo de respuesta. Se notará sin duda en las tareas más grandes."
-              },
-              {
-                "t": "p",
-                "x": "Chat comete menos errores - Hemos trabajado a fondo para mejorar el rendimiento de Chat donde es más probable que falle. Nuestras correcciones más recientes han reducido la tasa de errores en un 30%, de modo que ahora es mucho menos probable que pierda el contexto, coloque mal una edición o se rinda. Aún no hemos terminado y habrá más mejoras de Chat."
-              },
-              {
-                "t": "p",
-                "x": "Rewrite ahora funciona con nuestro modelo in-house - Rewrite usaba Claude Sonnet de Anthropic desde hacía un tiempo. Acabamos de pasarlo a Ballad y los resultados hablan por sí solos: ahora es un 20% más probable que los autores usen de verdad el resultado de Rewrite. Si hace tiempo que no prueba Rewrite, vale la pena volver a hacerlo."
-              },
-              {
-                "t": "p",
-                "x": "Imprima de verdad sus documentos - Al pulsar Ctrl + P o Command + P en el editor de Sudowrite antes aparecía una página en blanco y un mensaje que pedía un navegador más ancho. La buena noticia es que ahora se imprimirá una versión limpia del documento que esté viendo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Sudowrite Chat\n속도 두 배, 원고 인쇄도",
-          "body": "Sudowrite Chat이 두 배 빨라졌고 Rewrite 개선과 인쇄도 더해졌다.",
-          "mini_headline": "Sudowrite Chat, 2x 빨라지다",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "최근 Chat을 크게 업데이트해 속도와 성능을 모두 높였다."
-              },
-              {
-                "t": "p",
-                "x": "Chat 응답 속도가 두 배로 빨라졌다 - 이번 주 Chat을 더 빠른 인프라로 옮기면서 응답 시간을 절반으로 줄였다. 규모가 큰 작업에서는 확실히 체감할 수 있을 것이다."
-              },
-              {
-                "t": "p",
-                "x": "Chat의 실수가 줄었다 - Chat이 가장 막히기 쉬운 부분의 성능을 높이려고 공을 들여 왔다. 최근 수정으로 오류율을 30% 낮췄고, 맥락을 놓치거나 편집 위치를 잘못 잡거나 작업을 포기하는 일이 훨씬 줄었다. 아직 끝은 아니며, Chat 개선은 앞으로도 이어진다."
-              },
-              {
-                "t": "p",
-                "x": "Rewrite가 이제 자체(in-house) 모델로 돌아간다 - Rewrite는 한동안 Anthropic의 Claude Sonnet을 사용해 왔다. 이번에 이를 Ballad로 옮겼고, 결과가 모든 것을 말해 준다. 작가들이 Rewrite 결과물을 실제로 사용할 가능성이 20% 높아졌다. 한동안 Rewrite를 쓰지 않았다면 다시 써 볼 만하다."
-              },
-              {
-                "t": "p",
-                "x": "이제 문서를 제대로 인쇄할 수 있다 - 예전에는 Sudowrite 편집기에서 Ctrl + P나 Command + P를 누르면 빈 페이지와 함께 더 넓은 브라우저가 필요하다는 메시지가 떴다. 반가운 소식이다. 이제는 보고 있는 문서를 깔끔한 형태로 인쇄해 준다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sudowrite Chat\n速度倍増、原稿印刷も",
-          "body": "Sudowrite Chatが倍速になり、Rewriteも改善、原稿印刷にも対応した。",
-          "mini_headline": "Sudowrite Chatが2x高速に",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "最近、Chatに大きなアップデートを行い、速度と性能の両方を向上させた。"
-              },
-              {
-                "t": "p",
-                "x": "Chatの応答速度が倍になった - 今週Chatをより高速なインフラに移し、応答時間を半分に短縮した。大きな作業ではっきり実感できるはずだ。"
-              },
-              {
-                "t": "p",
-                "x": "Chatのミスが減った - Chatがつまずきやすい場面での性能改善に力を注いできた。直近の修正でエラー率を30%下げ、文脈を落としたり、編集箇所を誤ったり、途中で投げ出したりすることが大幅に減った。ただしまだ終わりではなく、Chatの改善はこれからも続く。"
-              },
-              {
-                "t": "p",
-                "x": "Rewriteが自社(in-house)モデルで動作 - RewriteはしばらくAnthropicのClaude Sonnetを使っていた。これをBalladに移したところ、結果は明らかだ。作家が生成されたRewriteを実際に採用する確率が20%高まった。しばらくRewriteを使っていないなら、改めて試す価値がある。"
-              },
-              {
-                "t": "p",
-                "x": "文書をきちんと印刷できるように - これまでSudowriteのエディタ表示中にCtrl + PやCommand + Pを押すと、白紙のページと、より幅の広いブラウザが必要だというメッセージが表示されていた。朗報だ。今後は表示中の文書をきれいな形で印刷できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sudowrite Chat\n提速一倍并支持打印稿件",
-          "body": "Sudowrite的Chat响应速度翻倍，Rewrite工具获改进，并新增稿件打印功能。",
-          "mini_headline": "Sudowrite Chat提速至2x",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "我们最近对Chat进行了重大更新，速度和性能都有提升。"
-              },
-              {
-                "t": "p",
-                "x": "Chat响应速度翻倍 - 本周我们将Chat迁移到更快的基础设施，响应时间因此减半。在较大的任务上你一定能感受到。"
-              },
-              {
-                "t": "p",
-                "x": "Chat出错更少 - 我们一直在努力提升Chat在最容易出错之处的表现。最近的修复让错误率降低了30%，这意味着它丢失上下文、放错编辑位置或中途放弃的可能性大大降低。不过我们还没完成，更多Chat改进即将到来。"
-              },
-              {
-                "t": "p",
-                "x": "Rewrite现在运行在我们的自研（in-house）模型上 - Rewrite此前一段时间使用的是Anthropic的Claude Sonnet。我们刚把它迁移到Ballad，结果不言自明：作者实际采用Rewrite结果的可能性提高了20%。如果你有一阵子没用Rewrite了，值得再试一次。"
-              },
-              {
-                "t": "p",
-                "x": "现在可以真正打印文档了 - 以前在Sudowrite编辑器中按Ctrl + P或Command + P，只会弹出一页空白页和一条需要更宽浏览器的提示。好消息是：现在它会打印出你正在查看的文档的干净版本。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sudowrite acelera Chat al doble\ny permite imprimir manuscritos",
-          "body": "El Chat de Sudowrite responde el doble de rápido, con un Rewrite mejorado y nueva opción de imprimir manuscritos.",
-          "mini_headline": "Sudowrite Chat, 2x más rápido",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Hemos hecho recientemente grandes actualizaciones en Chat que mejoran tanto su velocidad como su rendimiento."
-              },
-              {
-                "t": "p",
-                "x": "Las respuestas de Chat ahora son el doble de rápidas - Esta semana trasladamos Chat a una infraestructura más rápida, lo que redujo a la mitad el tiempo de respuesta. Se notará sin duda en las tareas más grandes."
-              },
-              {
-                "t": "p",
-                "x": "Chat comete menos errores - Hemos trabajado a fondo para mejorar el rendimiento de Chat donde es más probable que falle. Nuestras correcciones más recientes han reducido la tasa de errores en un 30%, de modo que ahora es mucho menos probable que pierda el contexto, coloque mal una edición o se rinda. Aún no hemos terminado y habrá más mejoras de Chat."
-              },
-              {
-                "t": "p",
-                "x": "Rewrite ahora funciona con nuestro modelo in-house - Rewrite usaba Claude Sonnet de Anthropic desde hacía un tiempo. Acabamos de pasarlo a Ballad y los resultados hablan por sí solos: ahora es un 20% más probable que los autores usen de verdad el resultado de Rewrite. Si hace tiempo que no prueba Rewrite, vale la pena volver a hacerlo."
-              },
-              {
-                "t": "p",
-                "x": "Imprima de verdad sus documentos - Al pulsar Ctrl + P o Command + P en el editor de Sudowrite antes aparecía una página en blanco y un mensaje que pedía un navegador más ancho. La buena noticia es que ahora se imprimirá una versión limpia del documento que esté viendo."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "garmus-ai-hubris-essay",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Bonnie Garmus:\nAI가 드러낸 인간의 오만",
-      "body": "소설가 Bonnie Garmus는 AI가 인간의 오만까지 드러냈다고 본다.",
-      "mini_headline": "Garmus, AI가 드러낸 인간의 오만",
-      "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad",
+      "source": "The Cool Down",
+      "url": "https://www.thecooldown.com/green-tech/library-bye-bye-ai-event-viral/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1277,125 +783,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+            "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+            "cap": "스마트폰을 쓰는 사람."
           },
           {
             "t": "p",
-            "x": "소설가 Bonnie Garmus는 The Bookseller에 기고한 \"AI가 우리를 죽일지도 모르지만, 그게 그렇게 나쁜가?\"라는 제목의 칼럼에서 AI의 등장에 작가 대부분이 불안해졌지만 한편으로는 인류의 오만도 드러났다고 썼다."
+            "x": "뉴욕주(New York) 북부의 한 공공도서관이 색다른 기술 지원으로 화제다. 휴대폰과 컴퓨터의 AI 기능을 끄도록 도와준다. 카드 소지자가 약 800명인 North Chatham Free Library가 “Bye Bye AI” 전단을 올리자 작은 마을 바깥 먼 곳에서까지 반응이 쏟아졌다."
           },
           {
             "t": "p",
-            "x": "Garmus의 작가 소개를 보면 그는 커피 없이는 못 사는(coffee-dependent) 미국 소설가다. 데뷔작 Lessons in Chemistry는 전 세계 베스트셀러 정상에 올랐고 New York Times 독자들이 뽑은 21세기 최고의 책 100권에도 이름을 올렸다."
+            "x": "도서관의 유일한 정규직 사서 Shea Wert에 따르면, 예약 없이 들르면 되는 이 프로그램은 이용자들이 거듭 불만을 털어놓으면서 시작됐다. “Gmail 자동 답장과 자동 완성 때문에 사람들이 정말 답답해한다.”"
+          },
+          {
+            "t": "p",
+            "x": "도서관은 4월에 “AI for seniors” 강좌도 열었다. Wert도 AI 자체를 크게 반대하지는 않는다고 말한다. 도움을 청하러 오는 사람은 대부분 노년층이다."
+          },
+          {
+            "t": "p",
+            "x": "이번 행사는 사서 Hannah Cyrus가 연 AI 도구 끄기 무료 강좌에서 영감을 받았다. Cyrus는 “도서관은 이용자의 기술 수용을 돕는 것만큼이나 기술 거부를 돕는 데에도 맡을 역할이 있다”고 썼다. 그는 “전 세계 수백 명의 사서에게서 발표 슬라이드를 보내 달라는 연락을 받았다”고 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Bonnie Garmus: AI exposes\nthe hubris of humankind",
-          "body": "Novelist Bonnie Garmus argues that while AI alarms most writers, it has also exposed the hubris of humankind.",
-          "mini_headline": "Garmus sees AI exposing\nhuman hubris",
+          "headline": "A New York library helps\npeople switch off AI",
+          "body": "A library in upstate New York went viral for helping patrons switch off AI features on their phones and computers.",
+          "mini_headline": "Library event helps\nswitch off AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+                "cap": "A person using a smartphone."
               },
               {
                 "t": "p",
-                "x": "In a comment piece for The Bookseller titled \"AI might kill us, but is that so bad?\", novelist Bonnie Garmus writes that while the advent of AI has alarmed most writers, it has also shone a light on the hubris of humankind."
+                "x": "A public library in upstate New York has gone viral for offering an unusual kind of tech assistance: helping people switch off AI features on their phones and computers. The North Chatham Free Library, which serves roughly 800 cardholders, posted a \"Bye Bye AI\" flyer that drew responses far beyond the hamlet."
               },
               {
                 "t": "p",
-                "x": "Garmus's author bio describes her as a coffee-dependent American novelist. Her debut novel, Lessons in Chemistry, was a number one global bestseller and was named by New York Times readers as one of the top 100 books of the 21st Century."
+                "x": "Shea Wert, the library's only full-time librarian, said the drop-in program came from repeated patron complaints: \"Gmail auto replies and auto completes really frustrate people.\""
+              },
+              {
+                "t": "p",
+                "x": "In April the library also held an \"AI for seniors\" session, and Wert says she is not broadly opposed to AI. Older adults make up most of those seeking help."
+              },
+              {
+                "t": "p",
+                "x": "Librarian Hannah Cyrus, whose free classes on disabling AI tools inspired the event, wrote that \"libraries have a role to play in facilitating patrons' rejection of technology, just as much as in their adoption of it.\" She has \"heard from hundreds of librarians from all over the world asking for my presentation slides.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Bonnie Garmus:\nAI가 드러낸 인간의 오만",
-          "body": "소설가 Bonnie Garmus는 AI가 인간의 오만까지 드러냈다고 본다.",
-          "mini_headline": "Garmus, AI가 드러낸 인간의 오만",
+          "headline": "뉴욕의 작은 도서관\nAI 끄기를 돕다",
+          "body": "뉴욕주 북부의 한 도서관이 휴대폰·컴퓨터의 AI 기능을 꺼 주며 화제가 됐다.",
+          "mini_headline": "AI 끄기 돕는 도서관",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+                "cap": "스마트폰을 쓰는 사람."
               },
               {
                 "t": "p",
-                "x": "소설가 Bonnie Garmus는 The Bookseller에 기고한 \"AI가 우리를 죽일지도 모르지만, 그게 그렇게 나쁜가?\"라는 제목의 칼럼에서 AI의 등장에 작가 대부분이 불안해졌지만 한편으로는 인류의 오만도 드러났다고 썼다."
+                "x": "뉴욕주(New York) 북부의 한 공공도서관이 색다른 기술 지원으로 화제다. 휴대폰과 컴퓨터의 AI 기능을 끄도록 도와준다. 카드 소지자가 약 800명인 North Chatham Free Library가 “Bye Bye AI” 전단을 올리자 작은 마을 바깥 먼 곳에서까지 반응이 쏟아졌다."
               },
               {
                 "t": "p",
-                "x": "Garmus의 작가 소개를 보면 그는 커피 없이는 못 사는(coffee-dependent) 미국 소설가다. 데뷔작 Lessons in Chemistry는 전 세계 베스트셀러 정상에 올랐고 New York Times 독자들이 뽑은 21세기 최고의 책 100권에도 이름을 올렸다."
+                "x": "도서관의 유일한 정규직 사서 Shea Wert에 따르면, 예약 없이 들르면 되는 이 프로그램은 이용자들이 거듭 불만을 털어놓으면서 시작됐다. “Gmail 자동 답장과 자동 완성 때문에 사람들이 정말 답답해한다.”"
+              },
+              {
+                "t": "p",
+                "x": "도서관은 4월에 “AI for seniors” 강좌도 열었다. Wert도 AI 자체를 크게 반대하지는 않는다고 말한다. 도움을 청하러 오는 사람은 대부분 노년층이다."
+              },
+              {
+                "t": "p",
+                "x": "이번 행사는 사서 Hannah Cyrus가 연 AI 도구 끄기 무료 강좌에서 영감을 받았다. Cyrus는 “도서관은 이용자의 기술 수용을 돕는 것만큼이나 기술 거부를 돕는 데에도 맡을 역할이 있다”고 썼다. 그는 “전 세계 수백 명의 사서에게서 발표 슬라이드를 보내 달라는 연락을 받았다”고 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bonnie Garmus:\nAIが暴く人類の傲慢",
-          "body": "小説家Bonnie Garmusは、AIが人類の傲慢さも浮き彫りにしたと論じる。",
-          "mini_headline": "Garmus、AIが暴く人間の傲慢",
+          "headline": "ニューヨークの図書館\nAIオフを手助け",
+          "body": "ニューヨーク州北部の図書館が、スマホやパソコンのAI機能を切る手伝いで話題になった。",
+          "mini_headline": "AIオフを手伝う図書館",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+                "cap": "スマートフォンを使う人。"
               },
               {
                 "t": "p",
-                "x": "小説家Bonnie Garmusは、The Booksellerに寄せた「AIは私たちを滅ぼすかもしれない、でもそれはそんなに悪いことか?」と題するコラムで、AIの登場は多くの作家を不安にさせたが、人類の傲慢さにも光を当てたと書いている。"
+                "x": "ニューヨーク州(New York)北部の公共図書館が、一風変わった技術支援で話題を集めている。スマートフォンやパソコンのAI機能をオフにする手伝いだ。カード登録者約800人のNorth Chatham Free Libraryが「Bye Bye AI」のチラシを掲示すると、小さな村をはるかに越えて反響が広がった。"
               },
               {
                 "t": "p",
-                "x": "Garmusの著者紹介には、コーヒーが手放せない(coffee-dependent)アメリカ人小説家とある。デビュー作Lessons in Chemistryは世界的ベストセラー首位となり、New York Timesの読者が選ぶ21世紀のベスト100冊の一冊に選ばれた。"
+                "x": "同館で唯一の常勤司書Shea Wertによると、予約不要のこのプログラムは利用者から繰り返し寄せられた不満から生まれた。「Gmailの自動返信や自動補完に、みんな本当にいら立っている」"
+              },
+              {
+                "t": "p",
+                "x": "同館は4月に「AI for seniors」講座も開いており、Wert自身はAIに全面的に反対しているわけではないという。助けを求めに来るのは主に高齢者だ。"
+              },
+              {
+                "t": "p",
+                "x": "AIツールを無効にする無料講座でこの催しのきっかけをつくった司書Hannah Cyrusは、「図書館には、利用者が技術を取り入れるのを助けるのと同じくらい、技術を拒むのを助ける役割もある」と書いた。Cyrusは「世界中の何百人もの司書から、発表スライドを求める連絡を受けた」という。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bonnie Garmus：\nAI暴露人类的傲慢",
-          "body": "小说家Bonnie Garmus认为，AI虽令多数作家不安，却也暴露了人类的傲慢。",
-          "mini_headline": "Garmus：AI暴露人类傲慢",
+          "headline": "纽约一家图书馆\n帮人关掉AI",
+          "body": "纽约州北部一家图书馆因帮读者关闭手机和电脑上的AI功能而走红。",
+          "mini_headline": "图书馆帮人关掉AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+                "cap": "一个正在使用智能手机的人。"
               },
               {
                 "t": "p",
-                "x": "小说家Bonnie Garmus在为The Bookseller撰写的评论文章《AI可能会杀死我们，但那有那么糟吗？》中写道，AI的出现虽令大多数作家感到不安，却也照见了人类的傲慢。"
+                "x": "纽约州(New York)北部一家公共图书馆因提供一种不寻常的技术帮助而走红：帮人们关闭手机和电脑上的AI功能。服务约800名持卡读者的North Chatham Free Library贴出一张“Bye Bye AI”传单，引发的反响远远超出了这个小村庄。"
               },
               {
                 "t": "p",
-                "x": "Garmus的作者简介称她是一位离不开咖啡（coffee-dependent）的美国小说家。她的处女作Lessons in Chemistry曾登上全球畅销书榜首，并被New York Times读者评为21世纪100本最佳图书之一。"
+                "x": "馆里唯一的全职馆员Shea Wert说，这项随到随学的活动源于读者的反复抱怨：“Gmail的自动回复和自动补全真的让人很恼火。”"
+              },
+              {
+                "t": "p",
+                "x": "今年4月，该馆还办过一场“AI for seniors”讲座，Wert表示她并非全面反对AI。前来求助的大多是老年人。"
+              },
+              {
+                "t": "p",
+                "x": "馆员Hannah Cyrus开设的关闭AI工具免费课程启发了这次活动。她写道：“图书馆既要帮助读者接纳技术，也同样要帮助他们拒绝技术。”她说自己“收到了来自世界各地数百名馆员索要演示幻灯片的消息”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bonnie Garmus: la AI expone\nla soberbia de la humanidad",
-          "body": "Para la novelista Bonnie Garmus, la AI alarma a la mayoría de los escritores, pero también expone la soberbia humana.",
-          "mini_headline": "Garmus ve en la AI un reflejo de la soberbia humana",
+          "headline": "Una biblioteca de Nueva York\nayuda a desactivar la AI",
+          "body": "Una biblioteca del norte de Nueva York se hizo viral por ayudar a desactivar la AI de teléfonos y computadoras.",
+          "mini_headline": "Una biblioteca ayuda a desactivar la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+                "cap": "Una persona usando un teléfono inteligente."
               },
               {
                 "t": "p",
-                "x": "En un artículo de opinión para The Bookseller titulado \"La AI podría matarnos, pero ¿es tan malo?\", la novelista Bonnie Garmus escribe que, aunque la llegada de la AI ha alarmado a la mayoría de los escritores, también ha puesto de relieve la soberbia de la humanidad."
+                "x": "Una biblioteca pública del norte del estado de Nueva York (New York) se ha hecho viral por ofrecer un tipo inusual de asistencia tecnológica: ayudar a la gente a desactivar las funciones de AI de sus teléfonos y computadoras. La North Chatham Free Library, que atiende a unos 800 titulares de carné, publicó un folleto “Bye Bye AI” que generó reacciones mucho más allá de la pequeña localidad."
               },
               {
                 "t": "p",
-                "x": "La biografía de autora de Garmus la describe como una novelista estadounidense coffee-dependent, dependiente del café. Su primera novela, Lessons in Chemistry, fue número uno en ventas a nivel mundial y los lectores del New York Times la eligieron entre los 100 mejores libros del siglo 21."
+                "x": "Shea Wert, la única bibliotecaria a tiempo completo de la biblioteca, dijo que el programa sin cita previa surgió de las quejas reiteradas de los usuarios: “Las respuestas automáticas y el autocompletado de Gmail frustran mucho a la gente”."
+              },
+              {
+                "t": "p",
+                "x": "En abril, la biblioteca también organizó una sesión “AI for seniors”, y Wert dice que no se opone a la AI en general. Las personas mayores son la mayoría de quienes buscan ayuda."
+              },
+              {
+                "t": "p",
+                "x": "La bibliotecaria Hannah Cyrus, cuyas clases gratuitas para desactivar herramientas de AI inspiraron el evento, escribió que “las bibliotecas tienen un papel que cumplir para facilitar que los usuarios rechacen la tecnología, tanto como para que la adopten”. Cyrus ha “recibido mensajes de cientos de bibliotecarios de todo el mundo que me piden mis diapositivas”."
               }
             ]
           }
@@ -1403,89 +963,497 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Bonnie Garmus:\nAI가 드러낸 인간의 오만",
-          "body": "소설가 Bonnie Garmus는 AI가 인간의 오만도 드러냈다고 본다.",
-          "mini_headline": "Garmus, AI가 드러낸 인간의 오만",
+          "headline": "뉴욕의 한 도서관,\nAI 끄기를 돕다",
+          "body": "뉴욕주 북부의 한 도서관이 휴대폰과 컴퓨터의 AI 기능 끄기를 도와 화제가 됐다.",
+          "mini_headline": "AI 끄기 돕는 도서관",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+                "cap": "스마트폰을 쓰는 사람."
               },
               {
                 "t": "p",
-                "x": "소설가 Bonnie Garmus는 The Bookseller에 기고한 \"AI가 우리를 죽일지도 모르지만, 그게 그렇게 나쁜가?\"라는 제목의 칼럼에서, AI의 등장이 대부분의 작가를 불안하게 했지만 인류의 오만을 비추기도 했다고 썼다."
+                "x": "뉴욕주(New York) 북부의 한 공공도서관이 색다른 기술 지원으로 화제가 됐다. 휴대폰과 컴퓨터의 AI 기능을 끌 수 있게 도와주는 것이다. 카드 소지자 약 800명이 이용하는 North Chatham Free Library가 “Bye Bye AI” 전단을 올리자, 작은 마을을 훨씬 넘어선 곳에서까지 반응이 쏟아졌다."
               },
               {
                 "t": "p",
-                "x": "Garmus의 작가 소개에는 그가 커피 없이는 못 사는(coffee-dependent) 미국 소설가로 적혀 있다. 데뷔작 Lessons in Chemistry는 전 세계 베스트셀러 정상에 올랐고, New York Times 독자들이 뽑은 21세기 최고의 책 100권 중 하나로 선정됐다."
+                "x": "이 도서관의 유일한 정규직 사서 Shea Wert는 예약 없이 들르는 이 프로그램이 이용자들의 거듭된 불만에서 출발했다고 말했다. “Gmail 자동 답장과 자동 완성 때문에 사람들이 정말 답답해한다.”"
+              },
+              {
+                "t": "p",
+                "x": "도서관은 4월에 “AI for seniors” 강좌도 열었고, Wert는 AI 자체에 크게 반대하지는 않는다고 말한다. 도움을 청하는 사람은 대부분 노년층이다."
+              },
+              {
+                "t": "p",
+                "x": "AI 도구를 끄는 무료 강좌로 이번 행사에 영감을 준 사서 Hannah Cyrus는 “도서관은 이용자의 기술 수용을 돕는 것만큼이나 기술 거부를 돕는 데에도 맡을 역할이 있다”고 썼다. Cyrus는 “전 세계 수백 명의 사서에게서 발표 슬라이드를 보내 달라는 연락을 받았다”고 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Bonnie Garmus:\nAIが暴く人類の傲慢",
-          "body": "小説家Bonnie Garmusは、AIが人類の傲慢さも浮き彫りにしたと論じる。",
-          "mini_headline": "Garmus、AIが暴く人間の傲慢",
+          "headline": "ニューヨークの図書館\nAIオフを手助け",
+          "body": "ニューヨーク州北部の図書館が、スマホやパソコンのAI機能を切る手伝いで話題になった。",
+          "mini_headline": "AIオフを手伝う図書館",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+                "cap": "スマートフォンを使う人。"
               },
               {
                 "t": "p",
-                "x": "小説家Bonnie Garmusは、The Booksellerに寄せた「AIは私たちを滅ぼすかもしれない、でもそれはそんなに悪いことか?」と題するコラムで、AIの登場は多くの作家を不安にさせたが、人類の傲慢さにも光を当てたと書いている。"
+                "x": "ニューヨーク州(New York)北部の公共図書館が、一風変わった技術支援で話題を集めている。スマートフォンやパソコンのAI機能をオフにする手伝いだ。カード登録者約800人のNorth Chatham Free Libraryが「Bye Bye AI」のチラシを掲示すると、小さな村をはるかに越えて反響が広がった。"
               },
               {
                 "t": "p",
-                "x": "Garmusの著者紹介には、コーヒーが手放せない(coffee-dependent)アメリカ人小説家とある。デビュー作Lessons in Chemistryは世界的ベストセラー首位となり、New York Timesの読者が選ぶ21世紀のベスト100冊の一冊に選ばれた。"
+                "x": "同館で唯一の常勤司書Shea Wertによると、予約不要のこのプログラムは利用者から繰り返し寄せられた不満から生まれた。「Gmailの自動返信や自動補完に、みんな本当にいら立っている」"
+              },
+              {
+                "t": "p",
+                "x": "同館は4月に「AI for seniors」講座も開いており、Wert自身はAIに全面的に反対しているわけではないという。助けを求めに来るのは主に高齢者だ。"
+              },
+              {
+                "t": "p",
+                "x": "AIツールを無効にする無料講座でこの催しのきっかけをつくった司書Hannah Cyrusは、「図書館には、利用者が技術を取り入れるのを助けるのと同じくらい、技術を拒むのを助ける役割もある」と書いた。Cyrusは「世界中の何百人もの司書から、発表スライドを求める連絡を受けた」という。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Bonnie Garmus：\nAI暴露人类的傲慢",
-          "body": "小说家Bonnie Garmus认为，AI虽令多数作家不安，却也暴露了人类的傲慢。",
-          "mini_headline": "Garmus：AI暴露人类傲慢",
+          "headline": "纽约一家图书馆\n帮人关掉AI",
+          "body": "纽约州北部一家图书馆因帮读者关闭手机和电脑上的AI功能而走红。",
+          "mini_headline": "图书馆帮人关掉AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+                "cap": "一个正在使用智能手机的人。"
               },
               {
                 "t": "p",
-                "x": "小说家Bonnie Garmus在为The Bookseller撰写的评论文章《AI可能会杀死我们，但那有那么糟吗？》中写道，AI的出现虽令大多数作家感到不安，却也照见了人类的傲慢。"
+                "x": "纽约州(New York)北部一家公共图书馆因提供一种不寻常的技术帮助而走红：帮人们关闭手机和电脑上的AI功能。服务约800名持卡读者的North Chatham Free Library贴出一张“Bye Bye AI”传单，引发的反响远远超出了这个小村庄。"
               },
               {
                 "t": "p",
-                "x": "Garmus的作者简介称她是一位离不开咖啡（coffee-dependent）的美国小说家。她的处女作Lessons in Chemistry曾登上全球畅销书榜首，并被New York Times读者评为21世纪100本最佳图书之一。"
+                "x": "馆里唯一的全职馆员Shea Wert说，这项随到随学的活动源于读者的反复抱怨：“Gmail的自动回复和自动补全真的让人很恼火。”"
+              },
+              {
+                "t": "p",
+                "x": "今年4月，该馆还办过一场“AI for seniors”讲座，Wert表示她并非全面反对AI。前来求助的大多是老年人。"
+              },
+              {
+                "t": "p",
+                "x": "馆员Hannah Cyrus开设的关闭AI工具免费课程启发了这次活动。她写道：“图书馆既要帮助读者接纳技术，也同样要帮助他们拒绝技术。”她说自己“收到了来自世界各地数百名馆员索要演示幻灯片的消息”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Bonnie Garmus: la AI expone\nla soberbia de la humanidad",
-          "body": "Para la novelista Bonnie Garmus, la AI alarma a la mayoría de los escritores, pero también expone la soberbia humana.",
-          "mini_headline": "Garmus ve en la AI un reflejo de la soberbia humana",
+          "headline": "Una biblioteca de Nueva York\nayuda a desactivar la AI",
+          "body": "Una biblioteca del norte de Nueva York se hizo viral por ayudar a desactivar la AI de teléfonos y computadoras.",
+          "mini_headline": "Una biblioteca ayuda a desactivar la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+                "cap": "Una persona usando un teléfono inteligente."
               },
               {
                 "t": "p",
-                "x": "En un artículo de opinión para The Bookseller titulado \"La AI podría matarnos, pero ¿es tan malo?\", la novelista Bonnie Garmus escribe que, aunque la llegada de la AI ha alarmado a la mayoría de los escritores, también ha puesto de relieve la soberbia de la humanidad."
+                "x": "Una biblioteca pública del norte del estado de Nueva York (New York) se ha hecho viral por ofrecer un tipo inusual de asistencia tecnológica: ayudar a la gente a desactivar las funciones de AI de sus teléfonos y computadoras. La North Chatham Free Library, que atiende a unos 800 titulares de carné, publicó un folleto “Bye Bye AI” que generó reacciones mucho más allá de la pequeña localidad."
               },
               {
                 "t": "p",
-                "x": "La biografía de autora de Garmus la describe como una novelista estadounidense coffee-dependent, dependiente del café. Su primera novela, Lessons in Chemistry, fue número uno en ventas a nivel mundial y los lectores del New York Times la eligieron entre los 100 mejores libros del siglo 21."
+                "x": "Shea Wert, la única bibliotecaria a tiempo completo de la biblioteca, dijo que el programa sin cita previa surgió de las quejas reiteradas de los usuarios: “Las respuestas automáticas y el autocompletado de Gmail frustran mucho a la gente”."
+              },
+              {
+                "t": "p",
+                "x": "En abril, la biblioteca también organizó una sesión “AI for seniors”, y Wert dice que no se opone a la AI en general. Las personas mayores son la mayoría de quienes buscan ayuda."
+              },
+              {
+                "t": "p",
+                "x": "La bibliotecaria Hannah Cyrus, cuyas clases gratuitas para desactivar herramientas de AI inspiraron el evento, escribió que “las bibliotecas tienen un papel que cumplir para facilitar que los usuarios rechacen la tecnología, tanto como para que la adopten”. Cyrus ha “recibido mensajes de cientos de bibliotecarios de todo el mundo que me piden mis diapositivas”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "shelf-reading-bots-libraries-ht",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "서가 점검 봇과 AI\n도서관을 바꾸다",
+      "body": "세계 곳곳의 shelf-reading 봇과 AI 목록화가 대출 방식을 바꾼다.",
+      "mini_headline": "도서관을 바꾸는 봇",
+      "tool": "Books",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/lifestyle/art-culture/booksmart-and-shelf-aware-how-ai-and-bots-are-changing-libraries-101790935951543.html",
+      "accent": "#ff5a4d",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+            "cap": "싱가포르 National Library Board가 운영하는 도서관의 shelf-reading 로봇. (NLB Singapore)"
+          },
+          {
+            "t": "p",
+            "x": "세계 곳곳의 도서관에서 shelf-reading 봇과 AI 목록화가 책 빌리는 방식을 바꿔 놓는 중이다."
+          },
+          {
+            "t": "p",
+            "x": "상하이 Changning District Library에서는 디지털 휴먼 아바타 Xin Ye가 대출 기록을 보고 책을 추천하고 좌석을 잡아 주며 로봇을 시켜 책을 배달한다. Beijing Library의 자동 검색 시스템은 8 million 권이 넘는 장서 가운데 고른 책을 15분 안에 가져다준다. 대만 NLPI는 2023년 생성형 AI(generative-AI) ‘사서’ Xiao-Shu를 도입했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+            "cap": "Beijing Library 내부에는 실내 기후와 조명, 음향을 조절하는 센서 기둥이 서 있다. (Snohetta)"
+          },
+          {
+            "t": "p",
+            "x": "싱가포르 National Library Board 도서관에서는 로봇이 매일 밤 RFID 태그(RFID-tagged)가 붙은 책을 스캔해 두었다가 아침에 잘못 꽂힌 책을 알려 준다. 이걸로 직원들이 해마다 아끼는 업무 시간이 최대 3,500시간이다."
+          },
+          {
+            "t": "p",
+            "x": "추천 알고리즘은 이미 좋아하는 것을 더 보여 줄 뿐이지만 도서관은 원하는 줄도 몰랐던 책을 소개하기도 한다. 핀란드 곳곳의 도서관이 여전히 AI를 두고 고민하는 큰 이유는 개인정보 보호다. 애널리스트 Kashyap Kompella는 “시스템이 더 많이 알수록… 다음에 원하는 것을 더 잘 예측할 수 있다”고 말한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Shelf-reading bots and AI\nreshape the library",
+          "body": "Around the world, shelf-reading bots and AI cataloguing are changing the way people borrow from libraries.",
+          "mini_headline": "Bots reshape\nthe library",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+                "cap": "The shelf-reading bot at Singapore’s National Library Board-operated libraries. (NLB Singapore)"
+              },
+              {
+                "t": "p",
+                "x": "Around the world, shelf-reading bots and AI cataloguing are changing the way we borrow from libraries."
+              },
+              {
+                "t": "p",
+                "x": "In Shanghai’s Changning District Library, a digital human avatar, Xin Ye, recommends books from borrowing records, books seats and has a robot deliver titles. The Beijing Library’s automated retrieval system delivers a chosen title from over 8 million books in under 15 minutes. Taiwan’s NLPI added a generative-AI “librarian”, Xiao-Shu, in 2023."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+                "cap": "The Beijing Library’s interiors have sensor-enabled columns that regulate climate, lighting and acoustics. (Snohetta)"
+              },
+              {
+                "t": "p",
+                "x": "At Singapore’s National Library Board libraries, a robot scans RFID-tagged books every night and reports misplaced titles by morning, saving up to 3,500 staff hours per year."
+              },
+              {
+                "t": "p",
+                "x": "But recommendation algorithms give us more of what we already like, while libraries also introduce books we never knew we wanted. Privacy is a major reason libraries across Finland are still evaluating AI; “The more the system knows… the better it can predict what you want next,” says analyst Kashyap Kompella."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "서가 점검 봇과 AI\n도서관을 바꾸다",
+          "body": "세계 곳곳의 shelf-reading 봇과 AI 목록화가 대출 방식을 바꾼다.",
+          "mini_headline": "도서관을 바꾸는 봇",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+                "cap": "싱가포르 National Library Board가 운영하는 도서관의 shelf-reading 로봇. (NLB Singapore)"
+              },
+              {
+                "t": "p",
+                "x": "세계 곳곳의 도서관에서 shelf-reading 봇과 AI 목록화가 책 빌리는 방식을 바꿔 놓는 중이다."
+              },
+              {
+                "t": "p",
+                "x": "상하이 Changning District Library에서는 디지털 휴먼 아바타 Xin Ye가 대출 기록을 보고 책을 추천하고 좌석을 잡아 주며 로봇을 시켜 책을 배달한다. Beijing Library의 자동 검색 시스템은 8 million 권이 넘는 장서 가운데 고른 책을 15분 안에 가져다준다. 대만 NLPI는 2023년 생성형 AI(generative-AI) ‘사서’ Xiao-Shu를 도입했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+                "cap": "Beijing Library 내부에는 실내 기후와 조명, 음향을 조절하는 센서 기둥이 서 있다. (Snohetta)"
+              },
+              {
+                "t": "p",
+                "x": "싱가포르 National Library Board 도서관에서는 로봇이 매일 밤 RFID 태그(RFID-tagged)가 붙은 책을 스캔해 두었다가 아침에 잘못 꽂힌 책을 알려 준다. 이걸로 직원들이 해마다 아끼는 업무 시간이 최대 3,500시간이다."
+              },
+              {
+                "t": "p",
+                "x": "추천 알고리즘은 이미 좋아하는 것을 더 보여 줄 뿐이지만 도서관은 원하는 줄도 몰랐던 책을 소개하기도 한다. 핀란드 곳곳의 도서관이 여전히 AI를 두고 고민하는 큰 이유는 개인정보 보호다. 애널리스트 Kashyap Kompella는 “시스템이 더 많이 알수록… 다음에 원하는 것을 더 잘 예측할 수 있다”고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "書架点検ロボとAIが\n図書館を変える",
+          "body": "世界各地で、書架点検ロボットとAIによる目録作成が図書館の貸し出しを変えつつある。",
+          "mini_headline": "ロボが図書館を変える",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+                "cap": "シンガポールのNational Library Boardが運営する図書館のshelf-readingロボット。(NLB Singapore)"
+              },
+              {
+                "t": "p",
+                "x": "世界各地で、shelf-readingロボットとAIによる目録作成が、図書館で本を借りる方法を変えつつある。"
+              },
+              {
+                "t": "p",
+                "x": "上海のChangning District Libraryでは、デジタルヒューマンのアバターXin Yeが貸出履歴をもとに本を薦め、座席を予約し、ロボットに本を届けさせる。Beijing Libraryの自動検索システムは、8 million 冊を超える蔵書から選んだ一冊を15分以内に届ける。台湾のNLPIは2023年に生成AI(generative-AI)の「司書」Xiao-Shuを導入した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+                "cap": "Beijing Libraryの館内には、空調、照明、音響を調整するセンサー付きの柱が並ぶ。(Snohetta)"
+              },
+              {
+                "t": "p",
+                "x": "シンガポールのNational Library Boardの図書館では、ロボットが毎晩RFIDタグ付き(RFID-tagged)の本をスキャンし、配架ミスを朝までに報告する。これにより職員の作業時間を年間最大3,500時間削減している。"
+              },
+              {
+                "t": "p",
+                "x": "ただ、推薦アルゴリズムはすでに好きなものをさらに勧めるだけだが、図書館は欲しいとも知らなかった本との出会いももたらす。フィンランド各地の図書館がいまもAIの導入を検討中なのは、プライバシーが大きな理由だ。アナリストのKashyap Kompellaは「システムが多くを知るほど…次に何を求めるかをより正確に予測できる」と語る。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "盘架机器人与AI\n重塑图书馆",
+          "body": "在世界各地，盘架机器人和AI编目正在改变人们从图书馆借书的方式。",
+          "mini_headline": "机器人重塑图书馆",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+                "cap": "新加坡National Library Board所辖图书馆的shelf-reading盘架机器人。(NLB Singapore)"
+              },
+              {
+                "t": "p",
+                "x": "在世界各地，shelf-reading盘架机器人和AI编目正在改变我们从图书馆借书的方式。"
+              },
+              {
+                "t": "p",
+                "x": "在上海Changning District Library，数字人虚拟形象Xin Ye根据借阅记录推荐图书、预约座位，并让机器人送书上门。Beijing Library的自动化检索系统能在15分钟内从逾8 million 册藏书中调出读者选中的书。台湾NLPI于2023年引入生成式AI(generative-AI)“馆员”Xiao-Shu。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+                "cap": "Beijing Library内部设有带传感器的立柱，可调节温湿度、照明和声学环境。(Snohetta)"
+              },
+              {
+                "t": "p",
+                "x": "在新加坡National Library Board旗下图书馆，机器人每晚扫描贴有RFID标签(RFID-tagged)的图书，并在早上前报告放错位置的书，每年最多可节省3,500个员工工时。"
+              },
+              {
+                "t": "p",
+                "x": "但推荐算法只会给我们更多已经喜欢的东西，而图书馆还会向我们介绍从未想到自己会想读的书。隐私是芬兰各地图书馆仍在评估AI的一大原因；分析师Kashyap Kompella说：“系统知道得越多……就越能预测你接下来想要什么。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Robots de estanterías y AI\ntransforman la biblioteca",
+          "body": "En todo el mundo, los robots shelf-reading y la catalogación con AI cambian la forma de pedir libros prestados.",
+          "mini_headline": "Los robots transforman la biblioteca",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+                "cap": "El robot shelf-reading de las bibliotecas gestionadas por el National Library Board de Singapur. (NLB Singapore)"
+              },
+              {
+                "t": "p",
+                "x": "En todo el mundo, los robots shelf-reading y la catalogación con AI están cambiando la forma en que tomamos libros prestados de las bibliotecas."
+              },
+              {
+                "t": "p",
+                "x": "En la Changning District Library de Shanghái, un avatar humano digital, Xin Ye, recomienda libros a partir del historial de préstamos, reserva asientos y hace que un robot entregue los títulos. El sistema automatizado de recuperación de la Beijing Library entrega un título elegido entre más de 8 millones de libros en menos de 15 minutos. La NLPI de Taiwán incorporó en 2023 un “bibliotecario” de AI generativa (generative-AI), Xiao-Shu."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+                "cap": "El interior de la Beijing Library tiene columnas con sensores que regulan el clima, la iluminación y la acústica. (Snohetta)"
+              },
+              {
+                "t": "p",
+                "x": "En las bibliotecas del National Library Board de Singapur, un robot escanea cada noche los libros con etiquetas RFID (RFID-tagged) y por la mañana informa de los títulos mal colocados, lo que ahorra hasta 3,500 horas de trabajo del personal al año."
+              },
+              {
+                "t": "p",
+                "x": "Pero los algoritmos de recomendación nos dan más de lo que ya nos gusta, mientras que las bibliotecas también nos presentan libros que no sabíamos que queríamos. La privacidad es una de las principales razones por las que las bibliotecas de toda Finlandia siguen evaluando la AI; “Cuanto más sabe el sistema… mejor puede predecir lo que quieres a continuación”, afirma el analista Kashyap Kompella."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "서가 점검 봇과 AI,\n도서관을 바꾸다",
+          "body": "세계 곳곳의 shelf-reading 봇과 AI 목록화가 대출 방식을 바꾼다.",
+          "mini_headline": "도서관을 바꾸는 봇",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+                "cap": "싱가포르 National Library Board가 운영하는 도서관의 shelf-reading 로봇. (NLB Singapore)"
+              },
+              {
+                "t": "p",
+                "x": "세계 곳곳에서 shelf-reading 봇과 AI 목록화가 도서관에서 책을 빌리는 방식을 바꾸고 있다."
+              },
+              {
+                "t": "p",
+                "x": "상하이 Changning District Library에서는 디지털 휴먼 아바타 Xin Ye가 대출 기록을 바탕으로 책을 추천하고 좌석을 예약해 주며, 로봇을 시켜 책을 배달한다. Beijing Library의 자동 검색 시스템은 8 million 권이 넘는 장서 가운데 고른 책을 15분 안에 가져다준다. 대만 NLPI는 2023년 생성형 AI(generative-AI) ‘사서’ Xiao-Shu를 도입했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+                "cap": "Beijing Library 내부에는 실내 기후와 조명, 음향을 조절하는 센서 기둥이 서 있다. (Snohetta)"
+              },
+              {
+                "t": "p",
+                "x": "싱가포르 National Library Board 도서관에서는 로봇이 매일 밤 RFID 태그(RFID-tagged)가 붙은 책을 스캔해 아침까지 잘못 꽂힌 책을 알려 준다. 덕분에 직원 업무 시간을 해마다 최대 3,500시간 아낀다."
+              },
+              {
+                "t": "p",
+                "x": "하지만 추천 알고리즘은 이미 좋아하는 것을 더 많이 보여 줄 뿐이지만, 도서관은 원하는 줄도 몰랐던 책을 소개하기도 한다. 핀란드 곳곳의 도서관이 여전히 AI를 검토하는 큰 이유는 개인정보 보호다. 애널리스트 Kashyap Kompella는 “시스템이 더 많이 알수록… 다음에 원하는 것을 더 잘 예측할 수 있다”고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "書架点検ロボとAIが\n図書館を変える",
+          "body": "世界各地で、書架点検ロボットとAIによる目録作成が図書館の貸し出しを変えつつある。",
+          "mini_headline": "ロボが図書館を変える",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+                "cap": "シンガポールのNational Library Boardが運営する図書館のshelf-readingロボット。(NLB Singapore)"
+              },
+              {
+                "t": "p",
+                "x": "世界各地で、shelf-readingロボットとAIによる目録作成が、図書館で本を借りる方法を変えつつある。"
+              },
+              {
+                "t": "p",
+                "x": "上海のChangning District Libraryでは、デジタルヒューマンのアバターXin Yeが貸出履歴をもとに本を薦め、座席を予約し、ロボットに本を届けさせる。Beijing Libraryの自動検索システムは、8 million 冊を超える蔵書から選んだ一冊を15分以内に届ける。台湾のNLPIは2023年に生成AI(generative-AI)の「司書」Xiao-Shuを導入した。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+                "cap": "Beijing Libraryの館内には、空調、照明、音響を調整するセンサー付きの柱が並ぶ。(Snohetta)"
+              },
+              {
+                "t": "p",
+                "x": "シンガポールのNational Library Boardの図書館では、ロボットが毎晩RFIDタグ付き(RFID-tagged)の本をスキャンし、配架ミスを朝までに報告する。これにより職員の作業時間を年間最大3,500時間削減している。"
+              },
+              {
+                "t": "p",
+                "x": "ただ、推薦アルゴリズムはすでに好きなものをさらに勧めるだけだが、図書館は欲しいとも知らなかった本との出会いももたらす。フィンランド各地の図書館がいまもAIの導入を検討中なのは、プライバシーが大きな理由だ。アナリストのKashyap Kompellaは「システムが多くを知るほど…次に何を求めるかをより正確に予測できる」と語る。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "盘架机器人与AI\n重塑图书馆",
+          "body": "在世界各地，盘架机器人和AI编目正在改变人们从图书馆借书的方式。",
+          "mini_headline": "机器人重塑图书馆",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+                "cap": "新加坡National Library Board所辖图书馆的shelf-reading盘架机器人。(NLB Singapore)"
+              },
+              {
+                "t": "p",
+                "x": "在世界各地，shelf-reading盘架机器人和AI编目正在改变我们从图书馆借书的方式。"
+              },
+              {
+                "t": "p",
+                "x": "在上海Changning District Library，数字人虚拟形象Xin Ye根据借阅记录推荐图书、预约座位，并让机器人送书上门。Beijing Library的自动化检索系统能在15分钟内从逾8 million 册藏书中调出读者选中的书。台湾NLPI于2023年引入生成式AI(generative-AI)“馆员”Xiao-Shu。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+                "cap": "Beijing Library内部设有带传感器的立柱，可调节温湿度、照明和声学环境。(Snohetta)"
+              },
+              {
+                "t": "p",
+                "x": "在新加坡National Library Board旗下图书馆，机器人每晚扫描贴有RFID标签(RFID-tagged)的图书，并在早上前报告放错位置的书，每年最多可节省3,500个员工工时。"
+              },
+              {
+                "t": "p",
+                "x": "但推荐算法只会给我们更多已经喜欢的东西，而图书馆还会向我们介绍从未想到自己会想读的书。隐私是芬兰各地图书馆仍在评估AI的一大原因；分析师Kashyap Kompella说：“系统知道得越多……就越能预测你接下来想要什么。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Robots de estanterías y AI\ntransforman la biblioteca",
+          "body": "En todo el mundo, los robots shelf-reading y la catalogación con AI cambian la forma de pedir libros prestados.",
+          "mini_headline": "Los robots transforman la biblioteca",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+                "cap": "El robot shelf-reading de las bibliotecas gestionadas por el National Library Board de Singapur. (NLB Singapore)"
+              },
+              {
+                "t": "p",
+                "x": "En todo el mundo, los robots shelf-reading y la catalogación con AI están cambiando la forma en que tomamos libros prestados de las bibliotecas."
+              },
+              {
+                "t": "p",
+                "x": "En la Changning District Library de Shanghái, un avatar humano digital, Xin Ye, recomienda libros a partir del historial de préstamos, reserva asientos y hace que un robot entregue los títulos. El sistema automatizado de recuperación de la Beijing Library entrega un título elegido entre más de 8 millones de libros en menos de 15 minutos. La NLPI de Taiwán incorporó en 2023 un “bibliotecario” de AI generativa (generative-AI), Xiao-Shu."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+                "cap": "El interior de la Beijing Library tiene columnas con sensores que regulan el clima, la iluminación y la acústica. (Snohetta)"
+              },
+              {
+                "t": "p",
+                "x": "En las bibliotecas del National Library Board de Singapur, un robot escanea cada noche los libros con etiquetas RFID (RFID-tagged) y por la mañana informa de los títulos mal colocados, lo que ahorra hasta 3,500 horas de trabajo del personal al año."
+              },
+              {
+                "t": "p",
+                "x": "Pero los algoritmos de recomendación nos dan más de lo que ya nos gusta, mientras que las bibliotecas también nos presentan libros que no sabíamos que queríamos. La privacidad es una de las principales razones por las que las bibliotecas de toda Finlandia siguen evaluando la AI; “Cuanto más sabe el sistema… mejor puede predecir lo que quieres a continuación”, afirma el analista Kashyap Kompella."
               }
             ]
           }

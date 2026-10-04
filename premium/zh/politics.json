@@ -977,6 +977,120 @@
           "x": "该裁决表明，复制作品文本以与其直接竞争的AI工具很可能无法通过合理使用检验，同时也为生成式AI被视为更具转换性留下了空间。Montgomery-Reeves将本案与Bartz v. Anthropic案区分开来，在后者中，一名法官认定用书籍训练Claude属于合理使用。"
         }
       ]
+    },
+    "politics/kyoto-vision-science-declaration-ostp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "据白宫发布的消息，在京都举行的第23届科学技术与社会(STS)论坛年会(23rd Annual Meeting)上，美国和16个国家支持了《迈向科学黄金时代的京都愿景》(Kyoto Vision for a Golden Age of Science)，这是一份旨在更新和加强科学生态系统的联合宣言。"
+        },
+        {
+          "t": "p",
+          "x": "该宣言由白宫科学技术政策办公室主任迈克尔·克拉齐奥斯牵头，称面向科学的超级智能将实现大规模自主实验。克拉齐奥斯说：“应用于科学的超级智能将成为历史上推动研究民主化的最强大力量。”"
+        },
+        {
+          "t": "p",
+          "x": "宣言呼吁：通过多样化的资助工具和新的机构模式改进发现机制；利用面向科学的超级智能，并承诺扩大研究人员对SI工具、数据、算力和实验设施的使用；以及在整个科学事业中培养人才。"
+        },
+        {
+          "t": "p",
+          "x": "支持国：阿根廷、保加利亚、智利、塞浦路斯、德国、希腊、印度尼西亚、意大利、日本、哈萨克斯坦、大韩民国、新西兰、波兰、新加坡、阿拉伯联合酋长国、英国和美国。"
+        }
+      ]
+    },
+    "politics/jay-clayton-ai-czar-super-intelligence-force": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
+          "cap": "2026年7月15日，杰伊·克莱顿出席参议院情报委员会的确认听证会。Mariam Zuhaib/AP"
+        },
+        {
+          "t": "p",
+          "x": "特朗普总统周日表示，国家情报总监杰伊·克莱顿出任新的白宫AI沙皇。特朗普在Truth Social上写道，克莱顿将领导白宫新设的“超级智能部队”(Super Intelligence Force)，该部队将“协调联邦政府与消费者、公共利益团体、宗教组织、关键基础设施提供者及超级智能公司的往来”。"
+        },
+        {
+          "t": "p",
+          "x": "特朗普说，该小组成员还包括FTC主席安德鲁·弗格森、OPM局长斯科特·库波尔，以及负责研究与工程的国防部副部长埃米尔·迈克尔。克莱顿此前曾任纽约南区联邦检察官(U.S. Attorney)和SEC主席。"
+        },
+        {
+          "t": "p",
+          "x": "此次宣布紧随周二的一场白宫会议。会后特朗普称，多家AI公司已签署一项自愿协议。国会尚未通过广泛监管AI的联邦法律。上月，克莱顿称超级智能是“国家安全问题”，并反驳了要求“暂停”的呼声。"
+        }
+      ]
+    },
+    "politics/qwen-censorship-research-cbs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg"
+        },
+        {
+          "t": "p",
+          "x": "以色列网络安全初创公司Hirundo的研究显示，由Alibaba开发、下载量超过30亿(3 billion)次的免费模型Qwen内嵌亲中(China-friendly)叙事，并被设定为执行审查。它不承认2019年香港抗议遭镇压或1989年的天安门广场事件，也不谈论小熊维尼(Winnie the Pooh)。"
+        },
+        {
+          "t": "p",
+          "x": "CBS News询问维吾尔族强迫劳动营时，Qwen否认其存在。Alibaba未回应置评请求。"
+        },
+        {
+          "t": "p",
+          "x": "Uber Eats和Airbnb等U.S.企业都在使用Qwen。OpenRouter数据显示，中国开放权重(open-weight)模型在全球使用量中的占比从2024年底的不到2%升至6月的45%以上。Booz Allen发现，当被告知项目用于U.S.政府时，Qwen生成的代码安全漏洞多出130%。"
+        },
+        {
+          "t": "p",
+          "x": "Hirundo表示，其用涵盖15个主题的500个提示词测试了Qwen。CEO本·卢里亚说：“原版Qwen在89.8%的情况下出现审查、与宣传口径一致的表述或政治偏见。”而该公司编辑后的“西化”(Westernized)版本仅为2.8%。"
+        }
+      ]
+    },
+    "politics/arizona-ai-victim-video-sentence-vacated": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "在一起案件中，一段AI生成(AI-generated)视频在宣判前呈现已故受害者向法官讲话，亚利桑那州一名男子因此被判的10年过失杀人刑期被撤销。亚利桑那州上诉法院裁定，加布里埃尔·保罗·奥尔卡西塔斯须就2021年克里斯托弗·佩尔基遭枪杀身亡一案重新量刑。"
+        },
+        {
+          "t": "p",
+          "x": "在据信为U.S.法院首例的情况下，佩尔基的家人于2025年5月利用AI制作了一段呈现其形象的视频。“在另一种人生里，我们或许能成为朋友，”AI说道。量刑法官则说：“我很喜欢那段AI。”"
+        },
+        {
+          "t": "p",
+          "x": "由三名法官组成的合议庭写道，允许播放该AI视频“构成根本性错误”，并补充说：“尽管记录并未准确反映AI视频如何影响量刑考量，但它无疑发挥了作用。”合议庭维持了定罪，但撤销了刑期并发回重新量刑，重新量刑的日期尚未确定。"
+        }
+      ]
+    },
+    "politics/newsom-ai-workplace-law": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://calmatters.org/wp-content/uploads/2026/09/091526_Tech-Protest_MO_CM_06.jpg",
+          "cap": "2026年9月15日，抗议者在旧金山Dreamforce场外集会，反对AI抢走工作。摄影：Manuel Orbegozo，CalMatters"
+        },
+        {
+          "t": "p",
+          "x": "在其最后一个例行立法会期法案的处理截止日，州长加文·纽森签署了多项保护劳动者免受人工智能影响的法案，其中包括限制AI用于病患护理和解雇员工。他否决了劳工领袖推动的两项旨在保护医护人员的AI相关（AI-related）法案。"
+        },
+        {
+          "t": "p",
+          "x": "劳工领袖此前敦促他签署全部9项AI法案，并表示这将影响他们对其任何总统竞选的支持。工会最终赢得了其中7项。"
+        },
+        {
+          "t": "p",
+          "x": "新法限制在解雇或惩戒员工时使用AI，确保由医疗专业人员而非AI主导病患护理（patient-care）决策，禁止雇主预测员工情绪状态或收集脑部数据，禁止在洗手间进行AI监控，并要求在裁员全部或部分源于AI或自动化时发出通知。"
+        },
+        {
+          "t": "p",
+          "x": "纽森在否决说明中称心理健康法案“过于宽泛”，并表示劳工专员（Labor Commissioner）缺乏执行另一项法案反报复（anti-retaliation）条款所需的医学专业知识。加州护士协会（California Nurses Association）会长桑迪·雷丁批评了这一否决，而AFL-CIO主席利兹·舒勒则称新法是“全国最强有力的州立法之一”。"
+        },
+        {
+          "t": "p",
+          "x": "CalMatters指出，解雇相关法律在立法过程中遭到削弱，删去了员工申诉程序、为强制合规提起诉讼的权利以及对承包商的适用。"
+        }
+      ]
     }
   }
 }

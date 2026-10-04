@@ -5749,6 +5749,144 @@
           "x": "SonyはQSSRをすべての開発者に提供するとしており、両タイトルのパッチは本日配信される。"
         }
       ]
+    },
+    "games/stardock-clairvoyance-ai-devtools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brad Wardellは1993年にStardockを創業した。そしていま、彼のチームはゲーム開発者などに向けたAI生産性ツールClairvoyanceを生み出した。Wardellは同社で最も売れる製品になる可能性があるとし、「爆発的に伸びている」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Clairvoyanceは、ソフトウェアやゲーム開発における反復作業を自動化する社内ツールとして始まった。Stardockは二年にわたって毎日使いながら改良を重ね、その後外部への販売を決めた。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Clairvoyanceはユーザー自身のコンピューター上で直接動作するため、AIスタッフが実際のプロジェクトを開き、ビルドし、実行し、完成した成果物を返すことができる。Windows、macOS、Linuxで無料で使え、Claude Code、Codex、Cursor、Grok、Copilotと併用できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Wardellによれば、Clairvoyanceが狙うのは創作の置き換えではなく、ワークフロー上の摩擦だ。人間が制作したアートを独自エンジンへ取り込む、WordファイルをCSVデータに変換する、クラッシュログを分析する、Jiraのタスクを作成する、といった作業である。基本アプリは無料で、プロ版は月額$20だ。"
+        },
+        {
+          "t": "p",
+          "x": "生成アートについてWardellは「現在の生成AIは、結局どれも似たような粗悪なものを生み出していると思う」と述べた。"
+        }
+      ]
+    },
+    "games/vibe-coded-mashup-mods-backlash": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "長年MODを作ってきた制作者たちは、ネット上の自分たちの領域を席巻する最新の流行に不満を抱いている。AIで生成した(AI-generated)、いわゆる「vibe-coded(バイブコーディング)」MODという「くだらない『トレンド』」だ。"
+        },
+        {
+          "t": "p",
+          "x": "「僕はゲームのMODを作っているし、そのためにAIを使っていることも隠していない。でも、このくだらない『トレンド』は大嫌いだ。ただのゴミで、創造性なんてまったくない」とモッダーのkran27_は投稿した。"
+        },
+        {
+          "t": "p",
+          "x": "急増するMODは、無関係なゲーム同士を組み合わせる。World of WarcraftをCall of Duty: World at Warに、Escape From TarkovをSkyrimに、といった具合だ。この流行はたった一週間で雪だるま式に広がった。Claude Opus 5.5のトークンが安くなり、コード生成も向上したことで、モデルにゲームを指定して逆コンパイルさせ、まったく別の要素を加えることがかつてなく容易になったためだ。"
+        },
+        {
+          "t": "p",
+          "x": "こうしたAIによる逆コンパイル(AI-decompiled)のマッシュアップは、まだNexus ModsなどのMODプラットフォームには現れていない。IGNは権利の問題が原因である可能性が高いとみている。そのほぼすべてが、制作者に何の権利もない逆コンパイルされたコードやアセットに依存しているからだ。"
+        }
+      ]
+    },
+    "games/grimhammer3-mod-corrupted-ai-protest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "AIを使った(AI-infused)Total War: Warhammer 3向けオーバーホールMODの無断転載に業を煮やし、SFO: Grimhammer 3の中心的なモッダーがMODを意図的に破損させることを選んだ。狙いは、Grimhammer 3の最新版をいつどこで入手できるかを、モッダー側がより確実に管理できるようにすることだ。作者のVenrisは、状況が改善しなければMODを非公開にすると警告している。"
+        },
+        {
+          "t": "p",
+          "x": "「SFO: Grimhammer IIIの無断転載が増えており、さらに重要なのはその過程でAIが使われていることです。そのため、こうした無断アップロードでは動作しないよう、意図的にMODを破損させました」と、作者はIGNが見つけたPatreonの投稿に書いている。"
+        },
+        {
+          "t": "p",
+          "x": "「SFO: Grimhammerは、このコミュニティとファンタジー世界への十年近い情熱と愛情の結晶です。ですから、誰であれ許可なく私の作品を持ち出すことは認めません。AI関連(AI-related)の目的であればなおさらです。AIではなく、モッダーを支援してください」。Venrisは、MODを有料化するつもりはないと明言して投稿を締めくくった。"
+        },
+        {
+          "t": "p",
+          "x": "SFOチームのMODは主にSteam Workshopで公開されているが、Nexus ModsなどのMODサイトは最近、生成AIを使って作られたMODの表示を厳格化する動きを見せている。"
+        }
+      ]
+    },
+    "games/activision-mw2-genai-legal-notice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "既存ゲームの模倣品や逆コンパイルを含め、バイブコーディングで作られた粗悪なゲームは、いまや無法状態だ。どちらもMicrosoft傘下のActivisionとBethesdaは最近、二つの別々のプロジェクトに対して措置を講じた。"
+        },
+        {
+          "t": "p",
+          "x": "Claude Opus 5.5でコーディングされたブラウザ版の再現作Fallout: New Yorkは3.5百万回を超える再生を集めたが、ChrisFirstはBethesdaから停止要求を受け取ったとされ、10月1日に開発を断念した。"
+        },
+        {
+          "t": "p",
+          "x": "Maurice Heumannは9月30日、genAIを使ってPC版オリジナルのModern Warfare 2のソースコードを逆コンパイルしているとXで明かした。「現在17のエージェントが並行して作業しており、驚くべきペースで進んでいる」と彼は書いた。"
+        },
+        {
+          "t": "p",
+          "x": "Activisionは、彼が共有した映像を削除することで対応し、その場所には「このメディアは著作権者からの報告により無効化されました」という警告が表示された。コードをホストしていたとされるサイトへのリンクも、もはやアクセスできない。"
+        }
+      ]
+    },
+    "games/gibiz-hr-summit-genai-workload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/5D7A6953.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "画像クレジット: GamesIndustry.biz"
+        },
+        {
+          "t": "p",
+          "x": "10月1日のGamesIndustry.biz HR Summitでは、生成AI（genAI）の話題が繰り返し持ち上がった。AIがコーディングを速めたり単調な作業を自動化したりするとの声もあったが、万能薬には程遠く、職場に問題を生んでいるというのが大方の見方だった。機密データへの懸念、社員の不安の高まり、そしてHRの仕事の増加である。"
+        },
+        {
+          "t": "p",
+          "x": "参加者の多くの会社にはすでにAIポリシーがあるが、変化が速く、絶えず書き直しを迫られている。社員がNDAの資料を個人のChatGPTアカウントに貼り付けることはほとんど管理できないと、リーダーたちは語った。「AIが何か楽しいものを生み出したのを見たことがない」とある参加者が言えば、別の参加者は「くだらないものを速く作れるだけだ」と皮肉った。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/5D7A6957.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "GamesIndustry.biz HR SummitはロンドンのThe Royal Institutionで開催された | 画像クレジット: GamesIndustry.biz"
+        },
+        {
+          "t": "p",
+          "x": "ルールが徹底されなければ混乱が起きる。スタジオの規則に反するGemini製のシェーダーコードのせいでビルドを差し戻すことになり、指の多い外注のAIアートはコミュニティの反発を招いた。プロセスが暗黙知に頼っているため、ワークフローの試験導入はしばしば頓挫する。"
+        },
+        {
+          "t": "p",
+          "x": "HRチームは、不正確な内容だらけの長いAI-written（AIが書いた）苦情文書にも向き合っている。「むしろ仕事が増えたことがよくある」とある参加者は語り、AIは質問には答えられても「人の心は読めない」と付け加えた。"
+        }
+      ]
     }
   }
 }

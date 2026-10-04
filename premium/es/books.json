@@ -5157,6 +5157,125 @@
           "x": "Las ventas de audiolibros en Estados Unidos (U.S.) alcanzaron 2430 millones de dólares en 2025. Las funciones están en beta y Audible planea ampliarlas a más títulos con el tiempo."
         }
       ]
+    },
+    "books/ewc-destructive-book-scanning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
+          "cap": "Ilustración 3d renderizada de un t-rex aislado © 3dMediSphere"
+        },
+        {
+          "t": "p",
+          "x": "El EWC condena la práctica de la industria tecnológica de la AI de « escanear de forma destructiva » millones de libros europeos antiguos o raros, y pide a los responsables políticos que alcen la voz en nombre de autores, editores y lectores."
+        },
+        {
+          "t": "p",
+          "x": "Gigantes tecnológicos no europeos (Non-European) han comprado al menos hasta dos millones de libros a través de librerías de segunda mano y anticuarios. En fábricas de escaneo de AI en Estados Unidos (U.S.), se corta el lomo para pasar las páginas por escáneres de alta velocidad y después el ejemplar se desecha, se tritura y se recicla como papel higiénico. Los archivos se usan para desarrollar grandes modelos de lenguaje."
+        },
+        {
+          "t": "p",
+          "x": "“Se destruyen libros raros. Muchos de ellos no volverán a encontrarse jamás y existirán únicamente como propiedad digital de una empresa tecnológica de AI”, afirma la vicepresidenta del EWC (Vice President), Maïa Bensimon. La comisionada política del EWC, Nina George, señala el ‘Project Panama’ secreto de Anthropic, que busca ‘escanear todos los libros del mundo’."
+        },
+        {
+          "t": "p",
+          "x": "El 16 de septiembre de 2026, la vicepresidenta ejecutiva (Executive Vice-President) Henna Virkkunen respondió que digitalizar libros protegidos por derechos de autor, incluso adquiridos legalmente en formato analógico, requiere la autorización previa del titular de los derechos, ya que las excepciones de minería de textos y datos solo cubren obras digitales."
+        },
+        {
+          "t": "p",
+          "x": "El EWC pide a la Comisión Europea (European Commission), al Parlamento Europeo (European Parliament) y a cada Estado europeo que adopten una postura clara contra esta práctica."
+        }
+      ]
+    },
+    "books/bye-bye-ai-library-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
+          "cap": "Una persona usando un teléfono inteligente."
+        },
+        {
+          "t": "p",
+          "x": "Una biblioteca pública del norte del estado de Nueva York (New York) se ha hecho viral por ofrecer un tipo inusual de asistencia tecnológica: ayudar a la gente a desactivar las funciones de AI de sus teléfonos y computadoras. La North Chatham Free Library, que atiende a unos 800 titulares de carné, publicó un folleto “Bye Bye AI” que generó reacciones mucho más allá de la pequeña localidad."
+        },
+        {
+          "t": "p",
+          "x": "Shea Wert, la única bibliotecaria a tiempo completo de la biblioteca, dijo que el programa sin cita previa surgió de las quejas reiteradas de los usuarios: “Las respuestas automáticas y el autocompletado de Gmail frustran mucho a la gente”."
+        },
+        {
+          "t": "p",
+          "x": "En abril, la biblioteca también organizó una sesión “AI for seniors”, y Wert dice que no se opone a la AI en general. Las personas mayores son la mayoría de quienes buscan ayuda."
+        },
+        {
+          "t": "p",
+          "x": "La bibliotecaria Hannah Cyrus, cuyas clases gratuitas para desactivar herramientas de AI inspiraron el evento, escribió que “las bibliotecas tienen un papel que cumplir para facilitar que los usuarios rechacen la tecnología, tanto como para que la adopten”. Cyrus ha “recibido mensajes de cientos de bibliotecarios de todo el mundo que me piden mis diapositivas”."
+        }
+      ]
+    },
+    "books/shelf-reading-bots-libraries-ht": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
+          "cap": "El robot shelf-reading de las bibliotecas gestionadas por el National Library Board de Singapur. (NLB Singapore)"
+        },
+        {
+          "t": "p",
+          "x": "En todo el mundo, los robots shelf-reading y la catalogación con AI están cambiando la forma en que tomamos libros prestados de las bibliotecas."
+        },
+        {
+          "t": "p",
+          "x": "En la Changning District Library de Shanghái, un avatar humano digital, Xin Ye, recomienda libros a partir del historial de préstamos, reserva asientos y hace que un robot entregue los títulos. El sistema automatizado de recuperación de la Beijing Library entrega un título elegido entre más de 8 millones de libros en menos de 15 minutos. La NLPI de Taiwán incorporó en 2023 un “bibliotecario” de AI generativa (generative-AI), Xiao-Shu."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
+          "cap": "El interior de la Beijing Library tiene columnas con sensores que regulan el clima, la iluminación y la acústica. (Snohetta)"
+        },
+        {
+          "t": "p",
+          "x": "En las bibliotecas del National Library Board de Singapur, un robot escanea cada noche los libros con etiquetas RFID (RFID-tagged) y por la mañana informa de los títulos mal colocados, lo que ahorra hasta 3,500 horas de trabajo del personal al año."
+        },
+        {
+          "t": "p",
+          "x": "Pero los algoritmos de recomendación nos dan más de lo que ya nos gusta, mientras que las bibliotecas también nos presentan libros que no sabíamos que queríamos. La privacidad es una de las principales razones por las que las bibliotecas de toda Finlandia siguen evaluando la AI; “Cuanto más sabe el sistema… mejor puede predecir lo que quieres a continuación”, afirma el analista Kashyap Kompella."
+        }
+      ]
+    },
+    "books/savo-directive-detectives-ai-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_5821-scaled.jpg?fit=1200%2C742&ssl=1",
+          "cap": "Giulio Savo habla sobre \"Directive Detectives: The Freedom Trail Directive\" en Claremont Middle School. (Molly Hughes / Valley News)"
+        },
+        {
+          "t": "p",
+          "x": "\"Directive Detectives: The Freedom Trail Directive\" comienza con una niña que sube y pasa junto a \"los leones de piedra que custodian la entrada\" de la Boston Public Library. En esa entrada no hay leones, pero las ilustraciones los muestran de todos modos. El autor Giulio Savo, de Claremont, explicó que las ilustraciones se generaron con AI: \"Estas son mis historias, estas son mis palabras, pero no soy ilustrador\"."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/Image-10-2-26-at-12.12-PM-1.jpeg?resize=780%2C437&ssl=1",
+          "cap": "Una ilustración AI-generated del libro, rotulada \"Boston Public Library – 1895\"."
+        },
+        {
+          "t": "p",
+          "x": "Claremont Middle School entregó un ejemplar a cada familia en su primera noche de autores, con fondos federales de participación familiar. Savo dijo que no podía pagar a un ilustrador y que había perdido su propio empleo de marketing digital a causa de la AI. El texto también contiene algunos errores, y el aviso sobre AI que exige Amazon no aparece ni en la ficha del producto ni en el libro."
+        },
+        {
+          "t": "p",
+          "x": "La historiadora del arte de Dartmouth Mary Coffey afirmó que un libro que guía a los niños por lugares emblemáticos reales debería ser razonablemente preciso; calificó las imágenes de \"un lenguaje visual tan empobrecido\" e instó a quienes usan AI a ser transparentes."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/vnews.com/wp-content/uploads/2026/10/IMG_1806.jpeg?resize=780%2C969&ssl=1",
+          "cap": "Un póster de \"Sunset Scares\", ilustrado por Jared Gagnon. (Courtesy Dustin Warburton)"
+        },
+        {
+          "t": "p",
+          "x": "El escritor de Vermont Dustin Warburton, que trabaja con el ilustrador Jared Gagnon, dijo que competir con \"un interruptor que se enciende y produce un libro\" resulta frustrante, y que la escuela nunca lo llamó. Ambos quieren que el uso de AI se indique donde los lectores puedan verlo."
+        }
+      ]
     }
   }
 }
