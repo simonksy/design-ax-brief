@@ -1,101 +1,91 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "design",
-  "items": [
-    {
-      "title": "Formas.AI unveils native agentic 3D modeller",
-      "url": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
-      "source": "AEC Magazine",
-      "published_iso": "2026-10-02T11:04:09+00:00",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-3-1.jpg",
-      "excerpt": "Forma.AI unveils Cartesian, a native agentic 3D modeller for the physical world, where editable geometry meets spatial design reasoning",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "New product launch: an agentic modeller that outputs editable geometry, which changes how spatial and product designers block out form."
-    },
-    {
-      "title": "Adobe's Prompt to Edit Lightroom: Restore Old Photos Fast",
-      "url": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
-      "source": "Fstoppers",
-      "published_iso": "2026-10-03T16:03:01+00:00",
-      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/09/11220260125_00137jr-prompt.jpg.webp?itok=rLe7Zuni",
-      "excerpt": "Adobe's new Prompt to Edit feature in Lightroom uses AI to restore old photographs, fix focus issues, colorize black-and-white images, and correct color casts. Hands-on results with Color Restoration and custom prompts.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Hands-on with a new Lightroom feature (prompt-driven restoration and colour correction) that image editors can use right away."
-    },
-    {
-      "title": "ChatGPT Sites hosts your website in public beta, with no data residency at launch",
-      "url": "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/",
-      "source": "MIXED",
-      "published_iso": "2026-10-04T15:10:36+00:00",
-      "og_image": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04.png",
-      "excerpt": "ChatGPT will host a website, a web app or a game for subscribers on five of its plans, and OpenAI's documentation for the feature puts one limit in",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "New public-beta feature: ChatGPT now hosts sites and web apps directly, so a prototype can go live without a separate host. The piece also flags the data-residency limit."
-    },
-    {
-      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
-      "url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "source": "Creative Bloq",
-      "published_iso": "2026-10-04T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg",
-      "excerpt": "Adobe's free Premiere for Android brings mobile video editing with AI features such as Enhance Audio, with Firefly-powered Generative Fill, Image-to-Video and Generate Sound Effects on generative credits.",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "Covers a concrete release: Premiere on Android is free, with Firefly generative tools, which puts AI video editing on the phone."
-    },
-    {
-      "title": "Manycore's Aholo Lux3D Turns Three Photos Into an Editable 3D Asset via Agent and Blender",
-      "url": "https://pandaily.com/manycore-aholo-lux3d-blender-agent-3d-ai-harness-workflow",
-      "source": "Pandaily",
-      "published_iso": "2026-10-04T07:06:58+00:00",
-      "og_image": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png",
-      "excerpt": "A Leiphone test shows Manycore's Aholo Lux3D generating an editable bronze sculpture from three photos, with an AI agent orchestrating the job and Blender finishing it.",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "A tested photo-to-editable-3D pipeline, with an agent running the job and Blender finishing it, that 3D artists can use."
-    }
-  ],
   "dedup": {
     "checks": {
-      "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/": {
+      "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/": {
         "verdict": "new",
-        "nearest": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
+        "nearest": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
         "new_action": ""
       },
-      "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858": {
+      "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908": {
         "verdict": "new",
-        "nearest": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
+        "nearest": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
         "new_action": ""
       },
-      "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/": {
+      "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next": {
+        "verdict": "new",
+        "nearest": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+        "new_action": ""
+      },
+      "https://nofilmschool.com/apples-full-disk-access-statement": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking": {
+      "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
-        "new_action": ""
-      },
-      "https://pandaily.com/manycore-aholo-lux3d-blender-agent-3d-ai-harness-workflow": {
-        "verdict": "new",
-        "nearest": "https://www.youtube.com/shorts/tqUEnRj0NbM",
+        "nearest": "https://www.core77.com/posts/145488/AI-Has-Changed-What-Makes-a-Great-Designer",
         "new_action": ""
       }
     },
-    "note": "No candidate duplicated a published story; the history_match tags were all loose 'related' overlaps (Lightroom Prompt to Edit is a different feature from the Lightroom-in-Gemini plugin published 9/28). Dropped as weak or off-section: Pope on AI art (TechCrunch, opinion), Matt Wolfe weekly roundup (its Sonnet 5.5 item was already published 9/30), Runway Praxis-1 (robotics, not design), Capcom AI (games), Adobe text-to-3D patents (speculative), Kling 4.0 dev.to post (vendor-ish account), three UX Collective essays (opinion), the Meta glasses third-party wrapper (apps can't be published), the Duke AR-grading study and LEGO-Anything benchmark (research, less actionable), and Claude Code Mods (developer-focused). Diversity: 5 outlets; the two render picks are split by accent."
-  }
+    "note": "SWAP: removed BlenderNation Quadify pick (paid vendor commercial post — '[$]' title, utm_medium=commercial_post, discount code) and its dedup entry. Replacement: Creative Bloq on Adobe's newly published USPTO text-to-3D-world patent filings — editorial, AI-substantive, untagged by story_dedup; checked by hand against the 30-day history_digest: no prior Adobe patent / text-to-3D-world story (nearest is the 27 Sep Adobe MAX lineup piece, which is a different event); new outlet, so final 5 = 5 distinct outlets. Other replacement options passed over: CG Channel 4 Oct roundup (new weekly edition, but a mixed roundup mostly of non-AI updates, and render already has a pick), Skylum Aperty shutdown (product discontinuation, AI only incidental), DEV text-fix, ZDNET vibe-coded app, UX Planet Claude Code mods, 'feed I produce' essay (lower score). Ambassadors Mosa left out because it is assigned to movies. Earlier drops still stand: taste-paradox essay (thematic repeat of the 2026-09-23 Fast Company 'having good taste won't save designers'), Pope AI-art remarks (commentary), Safeworld / RoboParty / OpenSpace (off-scope). Categories: cad 1, render 2, workflow 2. Cross-section watch: nofilmschool.com is also allowed for movies, so the orchestrator should confirm the Apple Full Disk Access story is not also picked in movies or gadgets."
+  },
+  "items": [
+    {
+      "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
+      "source": "AEC Magazine",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Concrete new release: Argus multi-agent platform inside Revit now builds fully parametric Revit families from scratch, plus ADA bathroom and MEP agents — directly changes BIM authoring work.",
+      "published_iso": "2026-10-05T15:34:31+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+      "excerpt": "BIMlogiq has expanded Argus, a multi-agent AI platform inside Revit, adding a Family Creation Agent that builds fully parametric Revit families from scratch, a Bathroom Agent for ADA-compliant layouts, and an MEP Systems Agent."
+    },
+    {
+      "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
+      "source": "Fstoppers",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Immediately actionable: Photoshop's Remove tool does not burn generative credits even with cloud AI on, so designers can protect their monthly credit budget tomorrow.",
+      "published_iso": "2026-10-03T07:03:01-04:00",
+      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/10/cover_6.jpg.webp",
+      "excerpt": "PHLEARN's Aaron Nace shows Photoshop's Remove tool doesn't consume generative credits even with Generative AI and cloud processing on, plus other overlooked features that preserve a designer's monthly AI credit budget."
+    },
+    {
+      "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+      "source": "Creative Bloq",
+      "tool": "KeyShot",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Newly published Adobe patent filings for generating 3D worlds from text prompts signal Firefly's next step beyond image and video — an early heads-up for 3D and visualisation designers.",
+      "published_iso": "2026-10-04T09:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+      "excerpt": "Newly published USPTO patent filings show Adobe working on a method for generating 3D worlds from text prompts, hinting at where Firefly could expand beyond image and video generation."
+    },
+    {
+      "url": "https://nofilmschool.com/apples-full-disk-access-statement",
+      "source": "No Film School",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "rationale": "Official Apple notice warning creators not to grant AI agents Full Disk Access on macOS, with new controls promised — a concrete security change for every designer running desktop agents.",
+      "published_iso": "2026-10-05T17:00:05+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68053614&width=1200&height=600",
+      "excerpt": "Apple issued a notice warning creators against granting AI agents Full Disk Access on macOS and promised new controls to address the critical risks."
+    },
+    {
+      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
+      "source": "UX Collective",
+      "tool": "AI Workflow",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "Fresh designer-practice insight on skill atrophy and cognitive offloading — what designers stop practising when they hand judgement to AI; distinct angle from the published taste/great-designer pieces.",
+      "published_iso": "2026-10-05T22:00:12Z",
+      "og_image": "",
+      "excerpt": "AI is not making us less intelligent but reducing the intelligence we practise; the essay examines skill atrophy and cognitive offloading when designers outsource judgement and struggle to AI."
+    }
+  ]
 }

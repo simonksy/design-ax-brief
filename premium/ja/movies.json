@@ -5760,6 +5760,115 @@
           "x": "映画についてCaoは率直だった。「現状の出力品質は……映画の品質基準には達していない。それでも人々は使っている」と述べ、プリビズは「今の我々にとって非常に大きな領域だ」と付け加えた。TripoはMaya、Houdini、Blender向けのプラグインを開発しており、面倒なワークフローを自動化するエージェント型システムを目指している。AIを「アーティストと共に……彼らを迂回するのではなく」作るという姿勢だ。"
         }
       ]
+    },
+    "movies/pvc-ai-coded-editor-utilities-roundup": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "人工知能(Artificial Intelligence)は何でも得意なわけではないが、コードを書くのは得意だ。小規模なソフトウェアツールはまさにその得意分野に当たる。Iain Andersonは、自身がまとめた新ツールがどう作られたかについて確かな情報は持っていないが、大半は少なくともある程度AIが関わっていると見てよいだろうと述べる。"
+        },
+        {
+          "t": "p",
+          "x": "コーディングが容易になったことで、ポストプロダクションの現場では、小さいながらも厄介な問題を解決するアプリが大幅に増えている。編集者自身がそうしたツールを設計し、実装できるようになったためだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+          "cap": "Beatは脚本をノードベースの多機能ドキュメントに変える"
+        },
+        {
+          "t": "p",
+          "x": "選ばれたツールには、MCP経由でAIツールを接続できる無料のビジュアルスクリプティングツールBeatや、音声で操作するテレプロンプターPowerCueがある。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+          "cap": "Doza Assistは、現在登場しているAI-poweredの編集ソリューションの一つだ"
+        },
+        {
+          "t": "p",
+          "x": "Doza Assist、PowerCut、RoughCutといった自動ラフカットツールも取り上げられ、Final Cut Proに生成拡張機能を加えるFCP Extenderも並ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "「『自分のために作ったアプリ』と『人が買いたいと思うアプリ』の間には、まだ大きな隔たりがある」とAndersonは書き、マーケティングとサポートを大きな課題として挙げる。"
+        }
+      ]
+    },
+    "movies/laemmle-inside-the-arthouse-chronicle-ai-audience": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+          "cap": "‘Inside the Arthouse’"
+        },
+        {
+          "t": "p",
+          "x": "Laemmle Theatres社長のGreg Laemmleと、映画監督で俳優のRaphael Sbargeが司会を務める動画ポッドキャスト「Inside the Arthouse」は、二年でYouTube登録者五十万人、再生回数5百万回超にまで成長した。"
+        },
+        {
+          "t": "p",
+          "x": "番組はAI-drivenのデータ企業Chronicleと提携した。ChronicleはAIモデルで観客をシミュレートし、視聴者の行動や関心を分析し、ソーシャル上でコンテンツをより効果的に届け、そのデータを司会者たちがポッドキャストのマーケティングや成長の方針を決められるよう最適化する。"
+        },
+        {
+          "t": "p",
+          "x": "二か月後、司会者たちによるとエンゲージメントは「文字どおり、ほぼ一夜にして」上がったという。共同創業者のScott Greenbergによれば、Chronicleは番組そのもので学習したAIモデルを構築し、「大量の広告を買ってばらまく」のではなく、特定のユーザーにクリップをマイクロターゲティングする。"
+        },
+        {
+          "t": "p",
+          "x": "その知見は、エピソードの長さやゲストの起用、さらにはLaemmleの劇場で開く可能性のあるライブイベントにまで反映されつつある。"
+        }
+      ]
+    },
+    "movies/motionographer-ai-animation-ip-production": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "生成AIは実験段階から、プロのアニメーションや商業制作へと急速に移りつつある。スタジオ、エージェンシー、ブランドにとって、その機会は大きい。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+          "cap": "ピンクに光る目を持つ小さなロボットAniが、デスクトップの上を走る"
+        },
+        {
+          "t": "p",
+          "x": "しかしAIが主流の制作に組み込まれるにつれ、より重要な問いが浮上している。こうしたシステムに投入された素材はどうなるのか。クリエイティブチームは日常的に、未発表のキャンペーンや独自キャラクター、機密映像、価値あるクライアントの知的財産を扱っている。"
+        },
+        {
+          "t": "p",
+          "x": "保護の度合いはAIプロバイダーによって大きく異なる。顧客のコンテンツでモデルを学習しないと約束する企業もあれば、アップロードされた素材に広範な権利を保持する企業もある。"
+        },
+        {
+          "t": "p",
+          "x": "SynimaのCreative Director for Generative AIで、AIAnimation.comの創設者でもあるJon Draperは、AIアニメーションが成熟するにつれ、これが決定的な論点の一つになると考えている。次の段階で問われるのはプロ仕様のインフラ、つまり明確な所有権、管理されたアクセス、クライアント資産の安全な取り扱い、そしてデータの使われ方の透明性だという。"
+        }
+      ]
+    },
+    "movies/mformedia-arcana-labs-ai-pact": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+          "cap": "MForMedia"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: ドバイのMForMediaは、Arcana Labsとの契約を受けて自社の制作にAIワークフローを取り入れる。両社は戦略的パートナーシップを結び、Arcanaのソフトウェアを MForMediaの制作ワークフロー、アラビア語の共同制作、スタッフ研修に組み込む。最終的な目標は、中東・北アフリカ(MENA)地域全体でAI-nativeな映画・テレビ制作の体制を築くことだ。"
+        },
+        {
+          "t": "p",
+          "x": "Arcana Labsの制作部門Arcana StudiosとMForMediaは、MENAの観客に向けたオリジナル作品も共同制作する。タイトル未発表の作品がすでに開発中だ。MForMediaのスタッフは今月、AI-native制作に関する五日間の研修ワークショップも受ける。"
+        },
+        {
+          "t": "p",
+          "x": "「このモデルで、私たちは地域のスタジオに初日からAI-nativeなパイプラインを組み込んでいる」とArcana LabsのCEO、ジョナサン・ユンガー(Jonathan Yunger)は語る。「コンテンツはいまやドバイで、アラビア語で、かつてないほど速く低コストで作れる。アラビア語の制作がこの地域にとどまることになる」"
+        },
+        {
+          "t": "p",
+          "x": "共同創業者でマネージング・パートナーのラルフ・マタール(Ralph Matar)とハリール・ホメイシー(Khalil Homeissy)が率いるMForMediaは、Carpool KaraokeとThe X Factorのアラビア語版を制作している。今回の発表は、MForMediaがMENAのテレビ業界のベテラン、ジアード・ケビ(Ziad Kebbi)をマネージング・ディレクターに迎えた直後のことだ。同社は当時、AI制作、オリジナルコンテンツ、IP保有へと舵を切ると発表していた。"
+        }
+      ]
     }
   }
 }

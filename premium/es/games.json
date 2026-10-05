@@ -5860,6 +5860,130 @@
           "x": "Los equipos de HR también reciben extensas quejas formales AI-written llenas de detalles inexactos. «Con bastante frecuencia me ha dado más trabajo», dijo un asistente, que añadió que la IA puede responder preguntas pero «no sabe leer a la persona»."
         }
       ]
+    },
+    "games/jagex-pulls-runescape-genai-trailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Tráiler de RuneScape Dragon Slayer 2. Imagen: Jagex"
+        },
+        {
+          "t": "p",
+          "x": "Jagex ha respondido al uso de AI generativa en un tráiler de la misión Dragon Slayer 2 de RuneScape 3 mostrado durante RuneFest. Usuarios de Reddit detectaron un uso extenso de GenAI, incluida una mano de seis dedos y unas botas medievales parecidas a unas Air Jordans."
+        },
+        {
+          "t": "p",
+          "x": "Jagex afirmó que el tráiler fue producido por \"un socio externo de confianza que había confirmado explícitamente que no se usaría GenAI\", y ha retirado el material promocional mientras investiga."
+        },
+        {
+          "t": "p",
+          "x": "\"Es la segunda vez en poco tiempo que surgen inquietudes sobre la AI generativa a través de socios en los que confiábamos, y para nosotros eso pone de relieve un problema en nuestros propios procesos que debemos resolver\". El otro caso involucró una colaboración con 100 Thieves."
+        },
+        {
+          "t": "p",
+          "x": "Jagex dice que está renovando por completo sus procesos de revisión y que encargará a creadores de la comunidad contar la historia de Dragon Slayer II. \"No usamos GenAI para crear nuestros juegos, nuestro arte ni nuestros recursos creativos\", afirmó."
+        }
+      ]
+    },
+    "games/fortnite-replaces-gemini-watermark-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "cap": "Fortnite"
+        },
+        {
+          "t": "p",
+          "x": "Fortnite ha reemplazado discretamente una ilustración in-game después de que los fans descubrieran que su versión original contenía una marca de agua de Google Gemini AI."
+        },
+        {
+          "t": "p",
+          "x": "Epic Games añadió el mes pasado a Fortnite el tema musical \"Meow\", de Ironmouse, Sleeping Forest & HalaCG, con la marca de agua de Gemini en la esquina inferior derecha de su portada. Su difusión el pasado fin de semana provocó un pequeño revuelo en redes sociales y Reddit."
+        },
+        {
+          "t": "p",
+          "x": "La ilustración ya se ha sustituido por una versión sin marca de agua. Sin embargo, la marca de Gemini estaba en la portada original del tema, que Epic simplemente incorporó al juego; también aparece en Spotify."
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+          "cap": "La portada original de \"Meow\" (izquierda) tal como se veía en Fortnite, y su sustituta (derecha). Imagen: Ironmouse/Epic Games."
+        },
+        {
+          "t": "p",
+          "x": "El arte generado por AI (AI-generated) es un tema polémico entre los fans de Fortnite. IGN interpreta el cambio como una señal de que Epic no quiere mostrar abiertamente en el juego ilustraciones con elementos evidentes de AI."
+        }
+      ]
+    },
+    "games/kojima-on-ai-after-dlss5-death-stranding2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+          "cap": "Sam Porter Bridges en Death Stranding 2"
+        },
+        {
+          "t": "p",
+          "x": "Death Stranding 2, de Hideo Kojima, quedó envuelto en el debate en torno a Nvidia DLSS 5, y ahora él ha hablado de la AI en el podcast Koji10."
+        },
+        {
+          "t": "p",
+          "x": "\"Como creador, tengo sentimientos encontrados sobre esta tecnología\", dice. \"La AI es buena para dar vida a fotografías antiguas o para colorearlas, ¿verdad? Creo que algún día podríamos dejar de hacer remakes\"."
+        },
+        {
+          "t": "p",
+          "x": "Pero la AI no puede entender la intención artística. \"Como la persona que hizo el original, no querría que alguien lo cambiara demasiado\", dice. \"Había una razón por la que elegí una iluminación concreta. Sería distinto si la AI entendiera esas intenciones\"."
+        },
+        {
+          "t": "video",
+          "yt": "YDTq8SeY9s0"
+        },
+        {
+          "t": "p",
+          "x": "\"No me gustaría\", dice sobre que la AI haga cambios por su cuenta. \"Si yo controlara la AI en mi propia obra, quizá sería distinto. Aunque no lo sé\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Quizá la AI acabe haciendo todo eso de forma automática. Dentro de cien años, la resolución puede ser aún mayor. Pero no me gusta mucho la idea\"."
+        }
+      ]
+    },
+    "games/rider-agentic-unreal-dev-unreal-fest": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "0C7GjShUnlY"
+        },
+        {
+          "t": "p",
+          "x": "La AI genérica genera código y resuelve la parte fácil. Las partes difíciles del desarrollo con Unreal Engine —como el bootstrap del Gameplay Ability System (GAS), el triaje de builds, la creación de DataTable, la depuración de fallos o la configuración para móviles— ocurren en el editor, en los subsistemas del motor y en una red de archivos de configuración interdependientes en los que la AI genérica falla una y otra vez."
+        },
+        {
+          "t": "p",
+          "x": "Esta sesión, grabada en Unreal Fest Chicago 2026, presenta un stack práctico —JetBrains Rider, el Agent Communication Protocol (ACP, un protocolo abierto de agentes como LSP para agentes de AI) y habilidades específicas de UE (UE-specific) que se ejecutan a través de AgentBridge— que da a los agentes de AI ojos y manos dentro del editor, no solo acceso a tus archivos fuente."
+        },
+        {
+          "t": "p",
+          "x": "JetBrains cubre todo el ciclo de desarrollo: consultoría de arquitectura, scaffolding en C++ con la configuración correcta de replicación de GAS, creación de habilidades con GameplayEffects, triaje de fallos, colocación de actores a partir de un brief de texto y pruebas automatizadas."
+        }
+      ]
+    },
+    "games/capcom-re-engine-ai-workflows": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Puede que Pragmata, de Capcom, gire en torno a los horrores de la IA, pero en la práctica el estudio no parece tan reacio a esta tecnología. Durante la Capcom Open Conference RE: 2026, el programador Satoshi Ishida ofreció una presentación de título extenso: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”. En la charla expuso los retos que afrontan los estudios que producen juegos a la escala de Resident Evil, donde incluso las tareas sencillas pueden consumir muchísimo tiempo. La solución, según Ishida, es “integrar con éxito la tecnología de IA en los flujos de trabajo de desarrollo”."
+        },
+        {
+          "t": "p",
+          "x": "Capcom ya había dicho que no usará recursos generados por IA (AI-generated) en sus juegos y que, en cambio, se centraría en usar la tecnología para hacer más eficiente el desarrollo. Los comentarios de Ishida parecen coincidir, aunque sin duda dejan la puerta abierta a un uso más amplio. Según la traducción de IGN, planteó convertir RE Engine de forma lenta y gradual en un “motor de juego de generación por IA” (“AI-generation game engine”), avanzando hacia “un futuro en el que creemos juegos junto con la IA”."
+        }
+      ]
     }
   }
 }

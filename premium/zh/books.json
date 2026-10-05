@@ -5043,6 +5043,105 @@
           "x": "与插画师Jared Gagnon合作的Vermont作家Dustin Warburton表示，与“一打开就能产出一本书的电灯开关”竞争令人沮丧，而学校从未联系过他。两人都希望在读者看得到的地方披露AI的使用。"
         }
       ]
+    },
+    "books/scholarly-kitchen-ai-representation-not-scholarship": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI的问题或许不在于机器越来越聪明，而在于我们越来越擅长放大一种能力很强却有限的认知形式。AI能够重组已知的东西，但重组并不等同于创造力或洞见。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+          "cap": "图1：思维的能力与智能相关特质的对比。"
+        },
+        {
+          "t": "p",
+          "x": "学术交流向来依赖表征：论文表征一项研究，摘要表征论文，引用表征作品之间的关系。当表征本身成为我们优化的对象，AI可能拉大与学术本身的距离。模型可以在不理解证据的情况下令人信服地总结一篇论文，或生成看似合理却无法核实的引用。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+          "cap": "图2：从工具到智能体，治理需要跟上能力的步伐。"
+        },
+        {
+          "t": "p",
+          "x": "随着AI从工具走向智能体，问题也从能力转向能动性。作者呼吁用AI减少一部分而非全部的努力，并让人类保有质疑表征本身的能力。机器越擅长处理，我们就越需要擅长感知。"
+        }
+      ]
+    },
+    "books/proyecto451-publisher-ai-policy-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+        },
+        {
+          "t": "p",
+          "x": "AI十字路口：Proyecto451审视了40多家出版商的AI政策，发现两大主要策略——将书目内容授权给AI公司，或将其留在内部(in-house)以开发专有工具。"
+        },
+        {
+          "t": "p",
+          "x": "在Carlo Carrenho的综述中，De Marque与ElevenLabs合作，使其Cantook Édition平台上的出版商能够通过ElevenReader以音频形式提供精选图书。ElevenLabs已与Bookwire、StreetLib等聚合平台合作，通过合作伙伴而非逐本扩充其AI-narrated(AI朗读)书目。"
+        },
+        {
+          "t": "p",
+          "x": "此外，挪威新人作家Fabian Heffermehl手写完成了整部小说，以证明作品源自他自己的生活、文字和身体——而非AI。"
+        }
+      ]
+    },
+    "books/lithub-ai-writing-spiritual-practice-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
+        },
+        {
+          "t": "p",
+          "x": "文学界终于开始追问：有什么是人类作家能做而人工智能做不到的？答案往往围绕声音、亲身经历和情感的细微之处打转，但其底下藏着一个文学文化一直回避的词：灵魂。"
+        },
+        {
+          "t": "p",
+          "x": "AI可以吞下图书馆里的每一本书，再把我们的句法原样吐出来，但它无法渴望一件叫不出名字的东西，也无法哀悼一位它从未爱过、也从未失去的父亲。Charlotte Donlon认为，在AI时代，作家的灵魂是唯一无法复制的东西——而我们尚未建立起照料它的基础设施。"
+        },
+        {
+          "t": "p",
+          "x": "她建议文学会议增设关于内在生活与可持续创作实践的环节，MFA项目开设关于沉思的选修课，驻留项目则把离开的时间视为照料灵魂(soul-tending)而予以尊重。“AI会不断进步，但它永远不会发展出真正的渴望、悲伤或伦理上的自我审视(self-interrogation)的能力。”"
+        }
+      ]
+    },
+    "books/hongkong-comics-ai-heyday": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Q8VYqGtRM1A"
+        },
+        {
+          "t": "p",
+          "x": "鼎盛时期的香港(Hong Kong)是漫画重镇：在1980年代的行业繁荣期，年销量约50 million 册。人们普遍认为，香港漫画自mid-1990s起便走向衰落。"
+        },
+        {
+          "t": "p",
+          "x": "“现在要是能卖出……几千本，就已经是很好的数字了。”九龙(Kowloon)书店Epic One的老板Dicky Lam说，“香港漫画市场萎缩了90%。”"
+        },
+        {
+          "t": "p",
+          "x": "画家Jerry Cho凭《The Life After Life》获得今年Japan International Manga Award铜奖，但该作仅售出3,000册。作品耗时六个月完成，参与者包括Cho、两名全职员工和五名外包人员。"
+        },
+        {
+          "t": "img",
+          "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+          "cap": "香港漫画家Jerry Cho。(Image: CNA)"
+        },
+        {
+          "t": "p",
+          "x": "Cho在制作初期把AI当作资料调研和可视化工具，例如输入角色图像试穿不同服装，再由团队绘制场景。他估计AI为团队节省约10 per cent的制作时间，但在成品漫画中使用AI生成(AI-generated)图像这件事上，他划清了界线：“是的，因为艺术是独一无二的。”"
+        },
+        {
+          "t": "p",
+          "x": "Hong Kong Comics and Animation Federation的Alan Wan表示，画家可以把漫画转成AI-generated动画：“他们将不只是漫画家，还可能成为导演。”版权与作者归属问题仍悬而未决。"
+        }
+      ]
     }
   }
 }

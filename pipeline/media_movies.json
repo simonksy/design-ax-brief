@@ -1,32 +1,23 @@
 {
-  "date": "2026-10-05",
-  "section": "movies",
   "media": [
     {
-      "id": "mformedia-arcana-labs-ai-pact",
+      "id": "ambassadors-mosa-ai-platform-opens",
       "type": "image",
-      "src": "pipeline/media/mformedia-arcana-labs-ai-pact.jpg"
+      "src": "pipeline/media/ambassadors-mosa-ai-platform-opens.jpg"
     },
     {
-      "id": "curious-refuge-gpt-astra-agent-edit",
-      "type": "video",
-      "src": "pipeline/media/curious-refuge-gpt-astra-agent-edit.mp4",
-      "poster": "pipeline/media/curious-refuge-gpt-astra-agent-edit.jpg"
+      "id": "pvc-ai-coded-editor-utilities-roundup",
+      "type": "image",
+      "src": "pipeline/media/pvc-ai-coded-editor-utilities-roundup.jpg"
     },
     {
-      "id": "mubi-cakarel-no-ai-films-policy",
-      "type": "image",
-      "src": "pipeline/media/mubi-cakarel-no-ai-films-policy.jpg"
+      "id": "laemmle-inside-the-arthouse-chronicle-ai-audience",
+      "type": "svg"
     },
     {
-      "id": "tonic-dna-ai-hand-drawn-animation",
+      "id": "motionographer-ai-animation-ip-production",
       "type": "image",
-      "src": "pipeline/media/tonic-dna-ai-hand-drawn-animation.jpg"
-    },
-    {
-      "id": "biff-forum-biff-ai-film-future",
-      "type": "image",
-      "src": "pipeline/media/biff-forum-biff-ai-film-future.jpg"
+      "src": "pipeline/media/motionographer-ai-animation-ip-production.jpg"
     }
   ]
 }

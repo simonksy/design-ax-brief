@@ -1091,6 +1091,154 @@
           "x": "CalMatters notes the firing law was weakened during the legislative process, losing an appeals process for workers, a right to sue to compel compliance, and coverage of contractors."
         }
       ]
+    },
+    "politics/openai-textgrain-eu-ai-act-watermarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI says its textGrain watermarking “matched or exceeded” other approaches like Google DeepMind’s SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic made the move to meet the requirements of the EU’s AI Act."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI also shared benchmark scores showing similar performance from watermarked and unwatermarked text, but notes textGrain “does not guarantee reliable detection,” and that watermarks don’t verify accuracy, determine ownership, measure human contribution, or prove human authorship."
+        },
+        {
+          "t": "p",
+          "x": "Per OpenAI, watermarking will reach eligible ChatGPT and Codex users across all plans in the EU over the coming weeks; it is “not making text watermarking a global default at launch.” API customers worldwide can opt in to watermarked outputs for select models starting today."
+        },
+        {
+          "t": "p",
+          "x": "Approved researchers and expert organizations can apply for detector access case by case under the Code of Practice. Citing the risk of missed watermarks and false positives, OpenAI is not making the detector publicly available at launch."
+        }
+      ]
+    },
+    "politics/european-parliament-deepfake-porn-research": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
+          "cap": "In this photo illustration, a screen displays examples of AI prompt-created videos, in London on Jan. 12, 2026. | Leon Neal/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Fifty European Union lawmakers, including 46 women, have been the targets of deepfake pornography, according to new research released Monday."
+        },
+        {
+          "t": "p",
+          "x": "The number of women targeted by deepfake pornography — when generative AI is used to create sexually explicit depictions of people, often without their consent — means roughly one in six female members of the European Parliament have been affected, the report by Agora Digitale Transformation, a Germany-based civil society group, said."
+        },
+        {
+          "t": "p",
+          "x": "The European Union is banning AI-powered nudifier apps on Dec. 2, and is also investigating similar use of Grok on the social media platform X."
+        },
+        {
+          "t": "p",
+          "x": "A cross-party group of 119 MEPs, including the leaders of Renew, the socialists and The Left, called for effective enforcement of the ban and prompt resolution of the Grok investigation in a Sept. 30 letter to EU leaders including Commission President Ursula von der Leyen."
+        },
+        {
+          "t": "p",
+          "x": "“There can't be any loopholes or delays” in enforcing the ban, Austrian Greens MEP Lena Schilling, who also signed the letter, told reporters on Monday."
+        },
+        {
+          "t": "p",
+          "x": "Politicians can't opt out of having their likeness online, so it's hard for them to avoid being targeted by AI nudifiers, said Benjamin Shultz, who co-authored the report."
+        },
+        {
+          "t": "p",
+          "x": "Shultz said that to enforce the ban, the Commission needs to hold accountable all entities that, at times, inadvertently enable the nudifier industry. That also includes payment processors and domain registrars. The report said the Commission should also look into how to get search engines to de-index AI nudifier websites, meaning removing them from their databases."
+        }
+      ]
+    },
+    "politics/moreno-letter-anthropic-amodei": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
+          "cap": "Sen. Bernie Moreno at the U.S. Institute of Peace on Sept. 3 in Washington. Photo: Andrew Harnik/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Sen. Bernie Moreno (R-Ohio) is urging Anthropic CEO Dario Amodei against an \"alarmist approach\" and \"panic-inducing commentary\" on AI, according to a letter sent Monday and obtained by Axios."
+        },
+        {
+          "t": "p",
+          "x": "Axios describes the letter as the latest example of President Trump's allies targeting Amodei. It comes ahead of Anthropic's expected IPO, with valuation estimates as high as nearly $2 trillion."
+        },
+        {
+          "t": "p",
+          "x": "\"I do not understand how you can ask them to invest their hard-earned savings in Anthropic's continued development while warning those same Americans that your product could ultimately lead to their extinction,\" Moreno wrote. \"With great power comes great responsibility, and in this case, I am concerned that you are failing to meet the moment.\""
+        },
+        {
+          "t": "p",
+          "x": "Adopting Trump's new term \"super intelligence\" (SI) in place of AI, Moreno said Amodei's words agreeing with \"doomer\" views \"indicate that your instinct is to wreak havoc on the public SI discourse.\" He urged more emphasis on how AI can guard against the very threats being warned about, strengthen national security and keep the U.S. ahead of China."
+        },
+        {
+          "t": "p",
+          "x": "Public concern over AI and data centers has become a midterm issue; fellow Ohio Republican Sen. Jon Husted has faced ads accusing him of being pro-data centers as he seeks re-election."
+        }
+      ]
+    },
+    "politics/japan-sovereign-ai-strategy-vs-china": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
+          "cap": "Credit: ID 132487198 © Mykhailo Polenok | Dreamstime.com"
+        },
+        {
+          "t": "p",
+          "x": "In an analysis for The Diplomat, contributing author Bonnie Girard argues that Japan, though behind the U.S. and China in core AI, is moving to establish a leading position in “physical AI” and sovereign AI deployment. Kyoto University’s Dr. Takahiro Tsuchiya says Chinese companies even dominate Japan’s domestic AI market, largely on cost."
+        },
+        {
+          "t": "p",
+          "x": "Since 2025, the author writes, Tokyo has acted to ward off foreign AI-related threats by developing AI for Japan, in Japan. Tsuchiya said “Japan cannot copy the U.S. Japan makes its own assessments” of the threats it faces."
+        },
+        {
+          "t": "p",
+          "x": "The government launched a $6.34 billion initiative from fiscal year 2026 to wed Japan’s industrial robotics with next-generation AI. Nikkei reported that Sumitomo Corp. has partnered with Sakana AI to bring its models to some 100,000 client companies."
+        },
+        {
+          "t": "p",
+          "x": "Japan put an AI Act into force in June 2025, adopted an AI Basic Plan that December and, per Hello World Japan, committed more than 10 trillion yen to AI and semiconductor infrastructure. The Cabinet passed a Second AI Basic Plan on July 14 targeting agentic AI and tech sovereignty, with a road map to mobilize 370 trillion yen ($2.3 trillion) by 2040."
+        }
+      ]
+    },
+    "politics/xai-minnesota-nudify-ban-8th-circuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+          "cap": "An iPhone screen displaying the Grok app and logo. Anna Barclay | Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Elon Musk's xAI on Friday persuaded a US federal appeals court to halt Minnesota's first-in-the-nation ban on AI-generated fake nude images as the technology and social media company pursues a lawsuit alleging that the law is unconstitutional."
+        },
+        {
+          "t": "p",
+          "x": "The St. Louis-based 8th US Circuit Court of Appeals in its order put the law on hold for now, granting a request for an injunction by xAI. A lower court judge last month had rejected Musk's bid for an order stopping the law."
+        },
+        {
+          "t": "p",
+          "x": "The state's anti-\"nudification\" law, which took effect on August 1, prohibits website operators, software developers and others from allowing users to create realistic images depicting an intimate body part that is not shown in an original photo of an identifiable individual. xAI alleges the measure restricts free speech protected by the US Constitution."
+        },
+        {
+          "t": "p",
+          "x": "US District Judge Donovan Frank ruled last month that xAI had not shown it would suffer irreparable harm while challenging the law and said the company had waited too long to seek emergency relief. In its appeal, xAI disputed that finding and said its Grok Imagine tool includes \"rigorous protections\" against creating nudified or sexualized images of real people."
+        },
+        {
+          "t": "p",
+          "x": "Minnesota had urged the appeals court not to block the law, which the state said it adopted to combat a \"staggering amount (of) child sexual abuse material that AI products like Grok Imagine generate.\""
+        }
+      ]
     }
   }
 }

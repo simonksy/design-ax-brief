@@ -1,197 +1,197 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "science",
   "cards": [
     {
-      "id": "york-illusion-ai-vision-errors",
+      "id": "pfas-yeast-biosensor-ai-detection",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "착시 하나가 드러낸\nAI 시각의 빈자리",
-      "body": "York University 연구진이 AI도 인간처럼 착각해야 하는지 묻는다.",
-      "mini_headline": "착시로 본 AI 시각",
+      "headline": "조작 효모와 AI,\n영원한 화학물질을 쫓다",
+      "body": "효모에 AI-designed 수용체와 CMOS 칩을 달아 PFAS 센서를 만든다.",
+      "mini_headline": "효모와 AI, PFAS 겨냥",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-visual-illusion-reveals-today-ai.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "우리 눈은 사물이 어디 있는지 늘 정확히 알려 주지는 않는다. 단순한 결함이라기보다 생물학적 시각이 원래 그렇게 작동하는 것일 수 있다. York University 연구진은 새 연구에서 흔한 착시 하나를 들어 이렇게 묻는다. 인공지능이 우리처럼 보게 만들려면, 체계적인 지각 “실수”도 일부 똑같이 저질러야 하는가?"
-          },
-          {
-            "t": "p",
-            "x": "한 방향으로 꾸준히 움직이는 대상을 보다가 곧바로 멈춰 있는 물체를 보면, 그 물체가 반대쪽으로 살짝 밀려난 듯 보이기도 한다. 운동 잔효(motion aftereffect)라는 이 착시로 지각 밑에서 돌아가는 계산을 엿볼 수 있다. 연구 결과는 Current Biology에 실렸다."
-          },
-          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-            "cap": "Credit: Orhan Pergel from Pexels"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+            "cap": "출처: Orhan Akbaba, Pexels"
           },
           {
             "t": "p",
-            "x": "지금의 AI 시각 시스템은 사물 위치를 정확히 짚을 때가 많다. 하지만 바로 앞서 본 장면이 그 답을 바꾸는 방식은 대체로 재현하지 못한다. 연구진은 영장류 시각 피질에서 이에 대응하는 변화를 확인했으나, 시험한 AI 모델에서는 찾지 못했다. 동적 시각 모델을 평가할 새 벤치마크도 함께 내놓았다."
+            "x": "영원한 화학물질(PFAS)은 미국인 90% 이상에게서 검출되고, U.S. 지방자치단체 상수도의 절반 가까이에도 들어 있다고 알려졌다. 새 EPA 규정으로 수도 사업자는 검사를 자주 해야 한다. 그런데 대부분은 비싸고 결과가 몇 주씩 걸리기도 하는 질량분석(mass-spectrometry) 실험실에 기댄다."
           },
           {
             "t": "p",
-            "x": "“인간과 함께 일하고 인간과 더 잘 맞는 방식으로 세상을 이해하는 AI를 원한다면, 정답을 맞히는지에만 집중해서는 안 된다”고 책임저자 Kohitij Kar는 말했다."
+            "x": "Virginia Cornish가 이끄는 Columbia와 City College 공동 연구팀은 \"바이오하이브리드(biohybrid)\" 장치를 개발 중이다. 조작 효모와 AI-designed 단백질, CMOS 센서 칩을 묶어 PFAS를 검출하고 제거 과정도 모니터링한다."
+          },
+          {
+            "t": "p",
+            "x": "Saccharomyces cerevisiae에 넣은 합성 수용체가 표적 화학물질과 붙으면 효모는 초록빛을 낸다. 이런 수용체를 설계하는 데 예전엔 몇 년이 걸렸다. 연구팀은 Mohammed AlQuraishi 연구실의 AI 도구로 설계-제작-시험(design-build-test) 주기를 몇 주로 줄이는 중이고, 지금 겨냥하는 물질은 PFOA와 PFOS다."
+          },
+          {
+            "t": "p",
+            "x": "형광은 Ken Shepard 연구실의 CMOS 칩이 읽는다. 사용자는 일회용 스틱을 물에 담그기만 하면 곧바로 결과를 본다. Cornish는 비용이 기존 방식보다 몇 자릿수 낮아질 것으로 내다본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A visual illusion shows what\nAI vision is still missing",
-          "body": "York University researchers use a common illusion to ask whether AI should share human vision's systematic errors.",
-          "mini_headline": "Illusion tests AI vision",
+          "headline": "Engineered yeast and AI\ntake aim at forever chemicals",
+          "body": "Columbia scientists are building a PFAS sensor from yeast fitted with AI-designed receptors and CMOS chips.",
+          "mini_headline": "Yeast and AI target PFAS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Our eyes do not always tell us exactly where things are—and that may be a feature of how biological vision works, rather than simply a flaw. A new study by York University researchers uses a common illusion to ask: If artificial intelligence is meant to see more like us, should it make some of the same systematic perceptual \"mistakes\"?"
-              },
-              {
-                "t": "p",
-                "x": "After staring at something moving steadily in one direction, a stationary object viewed immediately afterward can appear slightly displaced in the opposite direction. This illusion, called a motion aftereffect, gives scientists a window into the computations underlying perception. The study is published in Current Biology."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-                "cap": "Credit: Orhan Pergel from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+                "cap": "Credit: Orhan Akbaba from Pexels"
               },
               {
                 "t": "p",
-                "x": "Current AI vision systems can often determine accurately where an object is, but they generally do not reproduce the way recent visual experience can reshape that answer. The researchers found a corresponding change in the primate visual cortex—but not in the AI models they tested. The findings also provide a new benchmark to evaluate dynamic vision models."
+                "x": "Forever chemicals (PFAS) are found in more than 90% of Americans, and nearly half of U.S. municipal water supplies are known to contain them. Under new EPA rules, water suppliers must test frequently, but most rely on costly mass-spectrometry labs that can take weeks."
               },
               {
                 "t": "p",
-                "x": "\"If we want AI that works with humans and understands the world in more human-compatible ways, we cannot focus only on whether it gets the right answer,\" said senior author Kohitij Kar."
+                "x": "A Columbia and City College team led by Virginia Cornish is building a \"biohybrid\" device that combines engineered yeast, AI-designed proteins and CMOS sensor chips to detect PFAS and monitor their removal."
+              },
+              {
+                "t": "p",
+                "x": "Synthetic receptors inserted into Saccharomyces cerevisiae make the yeast glow green when they bind a target chemical. Designing those receptors once took years; with an AI tool from Mohammed AlQuraishi's lab, the team is working toward a design-build-test cycle of only weeks, now aimed at PFOA and PFOS."
+              },
+              {
+                "t": "p",
+                "x": "CMOS chips from Ken Shepard's lab read the fluorescence, so users could dip a disposable stick into water for an instant readout. Cornish estimates it will cost orders of magnitude less than current methods."
               }
             ]
           }
         },
         "ko": {
-          "headline": "착시 하나가 드러낸\nAI 시각의 빈자리",
-          "body": "York University 연구진이 AI도 인간처럼 착각해야 하는지 묻는다.",
-          "mini_headline": "착시로 본 AI 시각",
+          "headline": "조작 효모와 AI,\n영원한 화학물질을 쫓다",
+          "body": "효모에 AI-designed 수용체와 CMOS 칩을 달아 PFAS 센서를 만든다.",
+          "mini_headline": "효모와 AI, PFAS 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "우리 눈은 사물이 어디 있는지 늘 정확히 알려 주지는 않는다. 단순한 결함이라기보다 생물학적 시각이 원래 그렇게 작동하는 것일 수 있다. York University 연구진은 새 연구에서 흔한 착시 하나를 들어 이렇게 묻는다. 인공지능이 우리처럼 보게 만들려면, 체계적인 지각 “실수”도 일부 똑같이 저질러야 하는가?"
-              },
-              {
-                "t": "p",
-                "x": "한 방향으로 꾸준히 움직이는 대상을 보다가 곧바로 멈춰 있는 물체를 보면, 그 물체가 반대쪽으로 살짝 밀려난 듯 보이기도 한다. 운동 잔효(motion aftereffect)라는 이 착시로 지각 밑에서 돌아가는 계산을 엿볼 수 있다. 연구 결과는 Current Biology에 실렸다."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-                "cap": "Credit: Orhan Pergel from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+                "cap": "출처: Orhan Akbaba, Pexels"
               },
               {
                 "t": "p",
-                "x": "지금의 AI 시각 시스템은 사물 위치를 정확히 짚을 때가 많다. 하지만 바로 앞서 본 장면이 그 답을 바꾸는 방식은 대체로 재현하지 못한다. 연구진은 영장류 시각 피질에서 이에 대응하는 변화를 확인했으나, 시험한 AI 모델에서는 찾지 못했다. 동적 시각 모델을 평가할 새 벤치마크도 함께 내놓았다."
+                "x": "영원한 화학물질(PFAS)은 미국인 90% 이상에게서 검출되고, U.S. 지방자치단체 상수도의 절반 가까이에도 들어 있다고 알려졌다. 새 EPA 규정으로 수도 사업자는 검사를 자주 해야 한다. 그런데 대부분은 비싸고 결과가 몇 주씩 걸리기도 하는 질량분석(mass-spectrometry) 실험실에 기댄다."
               },
               {
                 "t": "p",
-                "x": "“인간과 함께 일하고 인간과 더 잘 맞는 방식으로 세상을 이해하는 AI를 원한다면, 정답을 맞히는지에만 집중해서는 안 된다”고 책임저자 Kohitij Kar는 말했다."
+                "x": "Virginia Cornish가 이끄는 Columbia와 City College 공동 연구팀은 \"바이오하이브리드(biohybrid)\" 장치를 개발 중이다. 조작 효모와 AI-designed 단백질, CMOS 센서 칩을 묶어 PFAS를 검출하고 제거 과정도 모니터링한다."
+              },
+              {
+                "t": "p",
+                "x": "Saccharomyces cerevisiae에 넣은 합성 수용체가 표적 화학물질과 붙으면 효모는 초록빛을 낸다. 이런 수용체를 설계하는 데 예전엔 몇 년이 걸렸다. 연구팀은 Mohammed AlQuraishi 연구실의 AI 도구로 설계-제작-시험(design-build-test) 주기를 몇 주로 줄이는 중이고, 지금 겨냥하는 물질은 PFOA와 PFOS다."
+              },
+              {
+                "t": "p",
+                "x": "형광은 Ken Shepard 연구실의 CMOS 칩이 읽는다. 사용자는 일회용 스틱을 물에 담그기만 하면 곧바로 결과를 본다. Cornish는 비용이 기존 방식보다 몇 자릿수 낮아질 것으로 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "錯視が示す\nAIの視覚に足りないもの",
-          "body": "York Universityの研究者が、AIも人の知覚の誤りを共有すべきかを錯視で問う。",
-          "mini_headline": "錯視でAIの視覚を検証",
+          "headline": "改変酵母とAIが\n永遠の化学物質に挑む",
+          "body": "AI-designed受容体とCMOSチップを備えた酵母でPFASセンサーを開発中だ。",
+          "mini_headline": "酵母とAIがPFASを狙う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "私たちの目は、物の位置を常に正確に伝えているわけではない。それは単なる欠陥ではなく、生物の視覚が働く仕組みの特徴なのかもしれない。York Universityの研究者による新たな研究は、よく知られた錯視を使ってこう問いかける。人工知能が私たちに近い見方をするべきなら、同じ体系的な知覚の「誤り」もいくらか犯すべきなのか。"
-              },
-              {
-                "t": "p",
-                "x": "一方向に一定の速さで動くものを見つめた直後に静止した物体を見ると、それが反対方向へわずかにずれて見えることがある。運動残効(motion aftereffect)と呼ばれるこの錯視は、知覚を支える計算をのぞく窓となる。研究成果はCurrent Biologyに掲載された。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-                "cap": "Credit: Orhan Pergel from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+                "cap": "クレジット: Orhan Akbaba（Pexels）"
               },
               {
                 "t": "p",
-                "x": "現在のAI視覚システムは物体の位置を正確に割り出せることが多いが、直前の視覚体験がその答えを変える仕組みは概して再現できない。研究チームは霊長類の視覚野にはこれに対応する変化を見いだしたが、検証したAIモデルには見られなかった。この成果は、動的な視覚モデルを評価する新たなベンチマークにもなる。"
+                "x": "永遠の化学物質（PFAS）は米国人の90%以上から検出され、U.S.の自治体水道のほぼ半数に含まれていることが分かっている。新たなEPA規則で水道事業者は頻繁な検査を求められるが、多くは数週間かかることもある高価な質量分析（mass-spectrometry）ラボに頼っている。"
               },
               {
                 "t": "p",
-                "x": "「人間と協働し、より人間と相性のよい形で世界を理解するAIを求めるなら、正しい答えを出せるかどうかだけに注目するわけにはいかない」と、責任著者のKohitij Karは述べた。"
+                "x": "Virginia Cornishが率いるColumbiaとCity Collegeのチームは、改変酵母、AI-designedタンパク質、CMOSセンサーチップを組み合わせ、PFASを検出してその除去を監視する「バイオハイブリッド（biohybrid）」装置を開発している。"
+              },
+              {
+                "t": "p",
+                "x": "Saccharomyces cerevisiaeに組み込んだ合成受容体は、標的の化学物質と結合すると酵母を緑色に光らせる。かつてこうした受容体の設計には何年もかかったが、Mohammed AlQuraishiの研究室のAIツールにより、チームは設計・構築・試験（design-build-test）のサイクルをわずか数週間にすることを目指しており、現在はPFOAとPFOSを標的にしている。"
+              },
+              {
+                "t": "p",
+                "x": "Ken Shepardの研究室のCMOSチップが蛍光を読み取るため、使い捨てのスティックを水に浸すだけで即座に結果が分かる。Cornishは、コストが現行手法より桁違いに低くなると見積もる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一种视觉错觉揭示\nAI视觉仍缺什么",
-          "body": "York University研究人员借常见错觉，探讨AI是否应具有人类视觉的系统性误差。",
-          "mini_headline": "用错觉检验AI视觉",
+          "headline": "工程酵母与AI\n瞄准永久化学品",
+          "body": "Columbia团队用带AI-designed受体和CMOS芯片的酵母打造PFAS传感器。",
+          "mini_headline": "酵母与AI瞄准PFAS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "我们的眼睛并不总能准确告诉我们物体在哪里——这或许是生物视觉运作方式的一个特点，而不只是缺陷。York University研究人员的一项新研究借助一种常见错觉提出问题：如果人工智能要更像我们一样去看，它是否也应犯下某些同样的系统性感知“错误”？"
-              },
-              {
-                "t": "p",
-                "x": "盯着朝一个方向稳定移动的东西看一阵后，紧接着看到的静止物体可能会显得朝相反方向略微偏移。这种错觉被称为运动后效（motion aftereffect），为科学家观察知觉背后的计算提供了一扇窗口。该研究发表于Current Biology。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-                "cap": "Credit: Orhan Pergel from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+                "cap": "图片来源：Orhan Akbaba / Pexels"
               },
               {
                 "t": "p",
-                "x": "当前的AI视觉系统往往能准确判断物体的位置，但通常无法再现近期视觉经验重塑这一判断的方式。研究人员在灵长类视觉皮层中发现了相应的变化，但在他们测试的AI模型中没有发现。这些发现也为评估动态视觉模型提供了新的基准。"
+                "x": "超过90%的美国人体内能检出永久化学品（PFAS），已知近一半U.S.市政供水含有这类物质。根据EPA新规，供水方必须频繁检测，但多数依赖昂贵的质谱（mass-spectrometry）实验室，结果可能要等上数周。"
               },
               {
                 "t": "p",
-                "x": "“如果我们想要能与人类协作、以更契合人类的方式理解世界的AI，就不能只关注它是否给出正确答案。”资深作者Kohitij Kar说。"
+                "x": "由Virginia Cornish领导的Columbia与City College团队正在打造一种“生物混合（biohybrid）”装置，将工程酵母、AI-designed蛋白质与CMOS传感芯片结合，用于检测PFAS并监测其去除情况。"
+              },
+              {
+                "t": "p",
+                "x": "植入Saccharomyces cerevisiae的合成受体在结合目标化学品时会让酵母发出绿光。设计这类受体曾需数年；借助Mohammed AlQuraishi实验室的AI工具，团队正努力把设计-构建-测试（design-build-test）周期缩短到仅数周，目前瞄准PFOA和PFOS。"
+              },
+              {
+                "t": "p",
+                "x": "Ken Shepard实验室的CMOS芯片负责读取荧光，用户只需把一次性试棒浸入水中即可立即读数。Cornish估计，其成本将比现有方法低几个数量级。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una ilusión revela lo que aún\nle falta a la visión de la AI",
-          "body": "Científicos de York University usan una ilusión para preguntar si la AI debe heredar los errores de la visión humana.",
-          "mini_headline": "Una ilusión pone a prueba la visión de la AI",
+          "headline": "Levadura modificada y AI\napuntan a los químicos eternos",
+          "body": "Científicos de Columbia desarrollan un sensor de PFAS con levadura dotada de receptores AI-designed y chips CMOS.",
+          "mini_headline": "Levadura y AI contra los PFAS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Nuestros ojos no siempre nos dicen con exactitud dónde están las cosas, y eso puede ser un rasgo del funcionamiento de la visión biológica más que un simple defecto. Un nuevo estudio de investigadores de York University usa una ilusión común para preguntar: si la inteligencia artificial debe ver de forma más parecida a nosotros, ¿debería cometer algunos de los mismos \"errores\" perceptivos sistemáticos?"
-              },
-              {
-                "t": "p",
-                "x": "Tras mirar fijamente algo que se mueve de forma constante en una dirección, un objeto inmóvil observado justo después puede parecer ligeramente desplazado en la dirección contraria. Esta ilusión, llamada efecto consecutivo de movimiento (motion aftereffect), ofrece a los científicos una ventana a los cálculos en los que se basa la percepción. El estudio se publicó en Current Biology."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-                "cap": "Credit: Orhan Pergel from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+                "cap": "Crédito: Orhan Akbaba de Pexels"
               },
               {
                 "t": "p",
-                "x": "Los sistemas actuales de visión por AI suelen determinar con precisión dónde está un objeto, pero en general no reproducen la forma en que la experiencia visual reciente puede modificar esa respuesta. Los investigadores hallaron un cambio correspondiente en la corteza visual de los primates, pero no en los modelos de AI que evaluaron. Los resultados también ofrecen un nuevo punto de referencia para evaluar modelos de visión dinámica."
+                "x": "Las sustancias químicas eternas (PFAS) están presentes en más del 90% de los estadounidenses, y se sabe que casi la mitad de los suministros municipales de agua de U.S. las contienen. Con las nuevas normas de la EPA, los proveedores de agua deben hacer análisis frecuentes, pero la mayoría depende de costosos laboratorios de espectrometría de masas (mass-spectrometry) que pueden tardar semanas."
               },
               {
                 "t": "p",
-                "x": "\"Si queremos una AI que trabaje con las personas y entienda el mundo de maneras más compatibles con lo humano, no podemos centrarnos solo en si da la respuesta correcta\", afirmó el autor principal, Kohitij Kar."
+                "x": "Un equipo de Columbia y City College dirigido por Virginia Cornish construye un dispositivo \"biohíbrido\" (biohybrid) que combina levadura modificada, proteínas AI-designed y chips sensores CMOS para detectar PFAS y vigilar su eliminación."
+              },
+              {
+                "t": "p",
+                "x": "Los receptores sintéticos insertados en Saccharomyces cerevisiae hacen que la levadura brille en verde cuando se unen a una sustancia objetivo. Diseñar esos receptores llevaba años; con una herramienta de AI del laboratorio de Mohammed AlQuraishi, el equipo trabaja hacia un ciclo de diseño, construcción y prueba (design-build-test) de solo semanas, ahora orientado a PFOA y PFOS."
+              },
+              {
+                "t": "p",
+                "x": "Los chips CMOS del laboratorio de Ken Shepard leen la fluorescencia, de modo que bastaría con sumergir una tira desechable en el agua para obtener una lectura inmediata. Cornish calcula que costará órdenes de magnitud menos que los métodos actuales."
               }
             ]
           }
@@ -199,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "착시 하나가 드러낸\nAI 시각의 빈자리",
-          "body": "York University 연구진이 AI도 인간처럼 착각해야 하는지 묻는다.",
-          "mini_headline": "착시로 본 AI 시각",
+          "headline": "조작 효모와 AI가\n영원한 화학물질 겨냥",
+          "body": "AI-designed 수용체와 CMOS 칩을 단 효모로 PFAS 센서를 만든다.",
+          "mini_headline": "효모와 AI, PFAS 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "우리 눈은 사물이 어디 있는지 늘 정확히 알려 주지는 않는다. 이는 단순한 결함이라기보다 생물학적 시각이 작동하는 방식의 특징일 수 있다. York University 연구진의 새 연구는 흔한 착시 하나로 이렇게 묻는다. 인공지능이 우리처럼 보도록 만들어진다면, 같은 체계적 지각 “실수”도 일부 저질러야 하는가?"
-              },
-              {
-                "t": "p",
-                "x": "한 방향으로 꾸준히 움직이는 대상을 바라본 직후 정지한 물체를 보면, 그 물체가 반대 방향으로 살짝 밀려난 듯 보일 수 있다. 운동 잔효(motion aftereffect)라 불리는 이 착시는 지각의 바탕에 깔린 계산을 들여다보는 창이 된다. 연구 결과는 Current Biology에 실렸다."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-                "cap": "Credit: Orhan Pergel from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+                "cap": "출처: Orhan Akbaba, Pexels"
               },
               {
                 "t": "p",
-                "x": "현재의 AI 시각 시스템은 사물의 위치를 정확히 짚어 내는 경우가 많지만, 직전의 시각 경험이 그 답을 바꾸는 방식은 대체로 재현하지 못한다. 연구진은 영장류 시각 피질에서는 이에 대응하는 변화를 확인했지만, 시험한 AI 모델에서는 찾지 못했다. 이번 결과는 동적 시각 모델을 평가할 새 벤치마크도 제시한다."
+                "x": "영원한 화학물질(PFAS)은 미국인 90% 이상에게서 검출되며, U.S. 지방자치단체 상수도의 절반 가까이에 들어 있는 것으로 알려져 있다. 새 EPA 규정에 따라 수도 사업자는 검사를 자주 해야 하지만, 대부분은 몇 주가 걸리기도 하는 값비싼 질량분석(mass-spectrometry) 실험실에 의존한다."
               },
               {
                 "t": "p",
-                "x": "“인간과 함께 일하고 인간과 더 잘 맞는 방식으로 세상을 이해하는 AI를 원한다면, 정답을 맞히는지에만 집중해서는 안 된다”고 책임저자 Kohitij Kar는 말했다."
+                "x": "Virginia Cornish가 이끄는 Columbia와 City College 공동 연구팀은 조작 효모, AI-designed 단백질, CMOS 센서 칩을 결합해 PFAS를 검출하고 제거 과정을 모니터링하는 \"바이오하이브리드(biohybrid)\" 장치를 만들고 있다."
+              },
+              {
+                "t": "p",
+                "x": "Saccharomyces cerevisiae에 넣은 합성 수용체는 표적 화학물질과 결합하면 효모가 초록빛을 내게 한다. 예전에는 이런 수용체를 설계하는 데 몇 년이 걸렸지만, 연구팀은 Mohammed AlQuraishi 연구실의 AI 도구로 설계-제작-시험(design-build-test) 주기를 몇 주로 줄이는 작업을 진행 중이며, 현재 PFOA와 PFOS를 겨냥하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "Ken Shepard 연구실의 CMOS 칩이 형광을 읽어내므로, 사용자는 일회용 스틱을 물에 담그기만 하면 바로 결과를 확인할 수 있다. Cornish는 비용이 기존 방식보다 몇 자릿수 낮을 것으로 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "錯視が示す\nAIの視覚に足りないもの",
-          "body": "York Universityの研究者が、AIも人の知覚の誤りを共有すべきかを錯視で問う。",
-          "mini_headline": "錯視でAIの視覚を検証",
+          "headline": "改変酵母とAIが\n永遠の化学物質に挑む",
+          "body": "AI-designed受容体とCMOSチップを備えた酵母でPFASセンサーを開発中だ。",
+          "mini_headline": "酵母とAIがPFASを狙う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "私たちの目は、物の位置を常に正確に伝えているわけではない。それは単なる欠陥ではなく、生物の視覚が働く仕組みの特徴なのかもしれない。York Universityの研究者による新たな研究は、よく知られた錯視を使ってこう問いかける。人工知能が私たちに近い見方をするべきなら、同じ体系的な知覚の「誤り」もいくらか犯すべきなのか。"
-              },
-              {
-                "t": "p",
-                "x": "一方向に一定の速さで動くものを見つめた直後に静止した物体を見ると、それが反対方向へわずかにずれて見えることがある。運動残効(motion aftereffect)と呼ばれるこの錯視は、知覚を支える計算をのぞく窓となる。研究成果はCurrent Biologyに掲載された。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-                "cap": "Credit: Orhan Pergel from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+                "cap": "クレジット: Orhan Akbaba（Pexels）"
               },
               {
                 "t": "p",
-                "x": "現在のAI視覚システムは物体の位置を正確に割り出せることが多いが、直前の視覚体験がその答えを変える仕組みは概して再現できない。研究チームは霊長類の視覚野にはこれに対応する変化を見いだしたが、検証したAIモデルには見られなかった。この成果は、動的な視覚モデルを評価する新たなベンチマークにもなる。"
+                "x": "永遠の化学物質（PFAS）は米国人の90%以上から検出され、U.S.の自治体水道のほぼ半数に含まれていることが分かっている。新たなEPA規則で水道事業者は頻繁な検査を求められるが、多くは数週間かかることもある高価な質量分析（mass-spectrometry）ラボに頼っている。"
               },
               {
                 "t": "p",
-                "x": "「人間と協働し、より人間と相性のよい形で世界を理解するAIを求めるなら、正しい答えを出せるかどうかだけに注目するわけにはいかない」と、責任著者のKohitij Karは述べた。"
+                "x": "Virginia Cornishが率いるColumbiaとCity Collegeのチームは、改変酵母、AI-designedタンパク質、CMOSセンサーチップを組み合わせ、PFASを検出してその除去を監視する「バイオハイブリッド（biohybrid）」装置を開発している。"
+              },
+              {
+                "t": "p",
+                "x": "Saccharomyces cerevisiaeに組み込んだ合成受容体は、標的の化学物質と結合すると酵母を緑色に光らせる。かつてこうした受容体の設計には何年もかかったが、Mohammed AlQuraishiの研究室のAIツールにより、チームは設計・構築・試験（design-build-test）のサイクルをわずか数週間にすることを目指しており、現在はPFOAとPFOSを標的にしている。"
+              },
+              {
+                "t": "p",
+                "x": "Ken Shepardの研究室のCMOSチップが蛍光を読み取るため、使い捨てのスティックを水に浸すだけで即座に結果が分かる。Cornishは、コストが現行手法より桁違いに低くなると見積もる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一种视觉错觉揭示\nAI视觉仍缺什么",
-          "body": "York University研究人员借常见错觉，探讨AI是否应具有人类视觉的系统性误差。",
-          "mini_headline": "用错觉检验AI视觉",
+          "headline": "工程酵母与AI\n瞄准永久化学品",
+          "body": "Columbia团队用带AI-designed受体和CMOS芯片的酵母打造PFAS传感器。",
+          "mini_headline": "酵母与AI瞄准PFAS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "我们的眼睛并不总能准确告诉我们物体在哪里——这或许是生物视觉运作方式的一个特点，而不只是缺陷。York University研究人员的一项新研究借助一种常见错觉提出问题：如果人工智能要更像我们一样去看，它是否也应犯下某些同样的系统性感知“错误”？"
-              },
-              {
-                "t": "p",
-                "x": "盯着朝一个方向稳定移动的东西看一阵后，紧接着看到的静止物体可能会显得朝相反方向略微偏移。这种错觉被称为运动后效（motion aftereffect），为科学家观察知觉背后的计算提供了一扇窗口。该研究发表于Current Biology。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-                "cap": "Credit: Orhan Pergel from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+                "cap": "图片来源：Orhan Akbaba / Pexels"
               },
               {
                 "t": "p",
-                "x": "当前的AI视觉系统往往能准确判断物体的位置，但通常无法再现近期视觉经验重塑这一判断的方式。研究人员在灵长类视觉皮层中发现了相应的变化，但在他们测试的AI模型中没有发现。这些发现也为评估动态视觉模型提供了新的基准。"
+                "x": "超过90%的美国人体内能检出永久化学品（PFAS），已知近一半U.S.市政供水含有这类物质。根据EPA新规，供水方必须频繁检测，但多数依赖昂贵的质谱（mass-spectrometry）实验室，结果可能要等上数周。"
               },
               {
                 "t": "p",
-                "x": "“如果我们想要能与人类协作、以更契合人类的方式理解世界的AI，就不能只关注它是否给出正确答案。”资深作者Kohitij Kar说。"
+                "x": "由Virginia Cornish领导的Columbia与City College团队正在打造一种“生物混合（biohybrid）”装置，将工程酵母、AI-designed蛋白质与CMOS传感芯片结合，用于检测PFAS并监测其去除情况。"
+              },
+              {
+                "t": "p",
+                "x": "植入Saccharomyces cerevisiae的合成受体在结合目标化学品时会让酵母发出绿光。设计这类受体曾需数年；借助Mohammed AlQuraishi实验室的AI工具，团队正努力把设计-构建-测试（design-build-test）周期缩短到仅数周，目前瞄准PFOA和PFOS。"
+              },
+              {
+                "t": "p",
+                "x": "Ken Shepard实验室的CMOS芯片负责读取荧光，用户只需把一次性试棒浸入水中即可立即读数。Cornish估计，其成本将比现有方法低几个数量级。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una ilusión revela lo que aún\nle falta a la visión de la AI",
-          "body": "Científicos de York University usan una ilusión para preguntar si la AI debe heredar los errores de la visión humana.",
-          "mini_headline": "Una ilusión pone a prueba la visión de la AI",
+          "headline": "Levadura modificada y AI\napuntan a los químicos eternos",
+          "body": "Científicos de Columbia desarrollan un sensor de PFAS con levadura dotada de receptores AI-designed y chips CMOS.",
+          "mini_headline": "Levadura y AI contra los PFAS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Nuestros ojos no siempre nos dicen con exactitud dónde están las cosas, y eso puede ser un rasgo del funcionamiento de la visión biológica más que un simple defecto. Un nuevo estudio de investigadores de York University usa una ilusión común para preguntar: si la inteligencia artificial debe ver de forma más parecida a nosotros, ¿debería cometer algunos de los mismos \"errores\" perceptivos sistemáticos?"
-              },
-              {
-                "t": "p",
-                "x": "Tras mirar fijamente algo que se mueve de forma constante en una dirección, un objeto inmóvil observado justo después puede parecer ligeramente desplazado en la dirección contraria. Esta ilusión, llamada efecto consecutivo de movimiento (motion aftereffect), ofrece a los científicos una ventana a los cálculos en los que se basa la percepción. El estudio se publicó en Current Biology."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
-                "cap": "Credit: Orhan Pergel from Pexels"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+                "cap": "Crédito: Orhan Akbaba de Pexels"
               },
               {
                 "t": "p",
-                "x": "Los sistemas actuales de visión por AI suelen determinar con precisión dónde está un objeto, pero en general no reproducen la forma en que la experiencia visual reciente puede modificar esa respuesta. Los investigadores hallaron un cambio correspondiente en la corteza visual de los primates, pero no en los modelos de AI que evaluaron. Los resultados también ofrecen un nuevo punto de referencia para evaluar modelos de visión dinámica."
+                "x": "Las sustancias químicas eternas (PFAS) están presentes en más del 90% de los estadounidenses, y se sabe que casi la mitad de los suministros municipales de agua de U.S. las contienen. Con las nuevas normas de la EPA, los proveedores de agua deben hacer análisis frecuentes, pero la mayoría depende de costosos laboratorios de espectrometría de masas (mass-spectrometry) que pueden tardar semanas."
               },
               {
                 "t": "p",
-                "x": "\"Si queremos una AI que trabaje con las personas y entienda el mundo de maneras más compatibles con lo humano, no podemos centrarnos solo en si da la respuesta correcta\", afirmó el autor principal, Kohitij Kar."
+                "x": "Un equipo de Columbia y City College dirigido por Virginia Cornish construye un dispositivo \"biohíbrido\" (biohybrid) que combina levadura modificada, proteínas AI-designed y chips sensores CMOS para detectar PFAS y vigilar su eliminación."
+              },
+              {
+                "t": "p",
+                "x": "Los receptores sintéticos insertados en Saccharomyces cerevisiae hacen que la levadura brille en verde cuando se unen a una sustancia objetivo. Diseñar esos receptores llevaba años; con una herramienta de AI del laboratorio de Mohammed AlQuraishi, el equipo trabaja hacia un ciclo de diseño, construcción y prueba (design-build-test) de solo semanas, ahora orientado a PFOA y PFOS."
+              },
+              {
+                "t": "p",
+                "x": "Los chips CMOS del laboratorio de Ken Shepard leen la fluorescencia, de modo que bastaría con sumergir una tira desechable en el agua para obtener una lectura inmediata. Cornish calcula que costará órdenes de magnitud menos que los métodos actuales."
               }
             ]
           }
@@ -325,195 +325,243 @@
       }
     },
     {
-      "id": "murdoch-enzyme-plastic-ml-screen",
+      "id": "berkeley-lab-heat-shield-xray-ai-ablation",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "진화가 이끄는 AI의\n오염 분해 효소 탐색",
-      "body": "Murdoch University가 머신러닝으로 플라스틱 분해 효소를 찾는다.",
-      "mini_headline": "AI로 플라스틱 분해 효소 찾기",
+      "headline": "X-rays·AI로 본\n열차폐재가 타는 순간",
+      "body": "NASA가 X-ray micro-CT와 AI로 열차폐재 붕괴를 실시간으로 지켜봤다.",
+      "mini_headline": "AI가 본 열차폐재 연소",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html",
+      "source": "Universe Today",
+      "url": "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+          },
+          {
             "t": "p",
-            "x": "전 세계 데이터베이스에는 플라스틱 같은 오염물질을 분해할 잠재력을 지닌 효소 정보가 수없이 쌓여 있다. Murdoch University의 Bioplastics Innovation Hub 과학자들은 머신러닝 기술과 생화학을 엮어, 이 가운데 플라스틱과 그 밖의 유해 오염물질을 분해할 만한 효소를 가려낸다."
+            "x": "열차폐재는 스스로 깎여 나가는 삭마 방식으로 우주선을 지킨다. 그 과정에서 연구자들이 볼 수 있던 건 대개 전후(before-and-after) 사진뿐이었다. Artemis I에서는 시뮬레이션이 예측하지 못한 탄화와 고르지 않은 소재 손실이 나타났다."
+          },
+          {
+            "t": "video",
+            "yt": "04rSPGwMLlM"
+          },
+          {
+            "t": "p",
+            "x": "이 상황을 바꾼 건 NASA와 Lawrence Berkeley National Laboratory의 Advanced Light Source 간 협력이다. LBNL 연구진이 시료를 최대 900℃까지 달구는 챔버를 만들었고, 가열되는 동안 X-ray micro-computed tomography(미세 컴퓨터단층촬영)가 분해되는 소재를 3D 이미지로 담는다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-            "cap": "Credit: Unsplash/CC0 Public Domain"
+            "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+            "cap": "Kennedy Space Center에서 Artemis II 열차폐재 작업을 하는 엔지니어들. 출처 - NASA"
           },
           {
             "t": "p",
-            "x": "Ph.D. 과정생 Joseph Boctor는 Nature Reviews Earth & Environment에 실린 최근 리뷰에서, 오염물질마다 알맞은 생물학적 해법을 찾을 열쇠가 이미 있는 데이터 속에 숨어 있을 공산이 크다고 설명한다."
+            "x": "SLA-561V 속 코르크 입자는 기화하면서 빈 공동으로 남는다. SLA-220은 뜨거운 가스를 내보내는 가지 모양 미세 통로(micro-channels)로 갈라진다."
           },
           {
             "t": "p",
-            "x": "“효소를 지나치게 설계하는 것은 나쁜 출발점이라고 강하게 주장한다. 이런 오염물질에 대한 잠재적 해법을 이미 숱하게 만들어 낸 수백만 년의 진화를 외면하는 일이기 때문이다”라고 Boctor는 말했다."
-          },
-          {
-            "t": "p",
-            "x": "이 머신러닝 파이프라인은 이미 특성이 밝혀진 효소에서 얻은 지식으로, 효소 구조가 표적 오염물질과 어떻게 맞물려 그것을 분해할지 예측한다. 연구팀은 이제 찾아낸 효소를 생물학적 정화에 쓰려고 시험하고 검증하며 규모를 키우는 중이다."
+            "x": "속도와 해상도 사이 균형을 맞추려고 연구팀은 Generative Adversarial Network(GAN)를 학습시켰다. 빠르게 찍은 중간 해상도(intermediate-resolution) 스캔이 이를 거치면, 소재가 뒤틀리고 그을리고 속이 비어 가는 과정을 담은 고해상도(high-resolution) 3D 기록이 된다. 공학 시뮬레이션은 아직 갱신되지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Evolution guides an AI search\nfor pollution-fighting enzymes",
-          "body": "Murdoch University scientists pair machine learning with biochemistry to find enzymes that could break down plastic.",
-          "mini_headline": "AI hunts plastic enzymes",
+          "headline": "X-rays and AI show heat\nshields burning in real time",
+          "body": "NASA and Berkeley Lab researchers paired X-ray micro-CT with AI to watch heat-shield material break down in real time.",
+          "mini_headline": "AI watches heat shields burn",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Databases around the world contain information on millions upon millions of enzymes that have the potential to degrade pollutants like plastic. Scientists at Murdoch University's Bioplastics Innovation Hub are combining machine learning technology and biochemistry to identify which of these enzymes have the potential to break down plastic and other harmful pollutants."
+                "x": "Heat shields protect spacecraft by ablating, but researchers usually see only before-and-after pictures. Artemis I showed unexpected charring and uneven material loss that simulations had not predicted."
+              },
+              {
+                "t": "video",
+                "yt": "04rSPGwMLlM"
+              },
+              {
+                "t": "p",
+                "x": "A collaboration between NASA and the Advanced Light Source at Lawrence Berkeley National Laboratory changed that. LBNL researchers built a chamber that heats samples up to 900℃ while X-ray micro-computed tomography captures 3D images of the material as it breaks down."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+                "cap": "Engineers working on the Artemis II heat shield at the Kennedy Space Center. Credit - NASA"
               },
               {
                 "t": "p",
-                "x": "Ph.D. candidate Joseph Boctor explains in his latest review, published in Nature Reviews Earth & Environment, that the key to finding the right biological fit to combat each pollutant is likely hidden within existing data."
+                "x": "Cork particles in SLA-561V vaporize into hollow voids, while SLA-220 degrades into branching micro-channels that vent hot gases."
               },
               {
                 "t": "p",
-                "x": "\"I strongly advocate that overengineering enzymes is a bad starting point that overlooks millions of years of evolution that have already produced lots of potential solutions to these contaminants,\" Boctor said."
-              },
-              {
-                "t": "p",
-                "x": "These machine learning pipelines use knowledge from previously characterized enzymes to predict how enzyme structures might interact with target pollutants and break them down. The team is now channeling its energy into testing, validating and scaling the identified enzymes for bioremediation efforts."
+                "x": "To balance speed against resolution, the team trained a Generative Adversarial Network (GAN) to turn rapid intermediate-resolution scans into high-resolution 3D records of the material as it warped, charred and hollowed out. Engineering simulations have not yet been updated."
               }
             ]
           }
         },
         "ko": {
-          "headline": "진화가 이끄는 AI의\n오염 분해 효소 탐색",
-          "body": "Murdoch University가 머신러닝으로 플라스틱 분해 효소를 찾는다.",
-          "mini_headline": "AI로 플라스틱 분해 효소 찾기",
+          "headline": "X-rays·AI로 본\n열차폐재가 타는 순간",
+          "body": "NASA가 X-ray micro-CT와 AI로 열차폐재 붕괴를 실시간으로 지켜봤다.",
+          "mini_headline": "AI가 본 열차폐재 연소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+              },
+              {
                 "t": "p",
-                "x": "전 세계 데이터베이스에는 플라스틱 같은 오염물질을 분해할 잠재력을 지닌 효소 정보가 수없이 쌓여 있다. Murdoch University의 Bioplastics Innovation Hub 과학자들은 머신러닝 기술과 생화학을 엮어, 이 가운데 플라스틱과 그 밖의 유해 오염물질을 분해할 만한 효소를 가려낸다."
+                "x": "열차폐재는 스스로 깎여 나가는 삭마 방식으로 우주선을 지킨다. 그 과정에서 연구자들이 볼 수 있던 건 대개 전후(before-and-after) 사진뿐이었다. Artemis I에서는 시뮬레이션이 예측하지 못한 탄화와 고르지 않은 소재 손실이 나타났다."
+              },
+              {
+                "t": "video",
+                "yt": "04rSPGwMLlM"
+              },
+              {
+                "t": "p",
+                "x": "이 상황을 바꾼 건 NASA와 Lawrence Berkeley National Laboratory의 Advanced Light Source 간 협력이다. LBNL 연구진이 시료를 최대 900℃까지 달구는 챔버를 만들었고, 가열되는 동안 X-ray micro-computed tomography(미세 컴퓨터단층촬영)가 분해되는 소재를 3D 이미지로 담는다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+                "cap": "Kennedy Space Center에서 Artemis II 열차폐재 작업을 하는 엔지니어들. 출처 - NASA"
               },
               {
                 "t": "p",
-                "x": "Ph.D. 과정생 Joseph Boctor는 Nature Reviews Earth & Environment에 실린 최근 리뷰에서, 오염물질마다 알맞은 생물학적 해법을 찾을 열쇠가 이미 있는 데이터 속에 숨어 있을 공산이 크다고 설명한다."
+                "x": "SLA-561V 속 코르크 입자는 기화하면서 빈 공동으로 남는다. SLA-220은 뜨거운 가스를 내보내는 가지 모양 미세 통로(micro-channels)로 갈라진다."
               },
               {
                 "t": "p",
-                "x": "“효소를 지나치게 설계하는 것은 나쁜 출발점이라고 강하게 주장한다. 이런 오염물질에 대한 잠재적 해법을 이미 숱하게 만들어 낸 수백만 년의 진화를 외면하는 일이기 때문이다”라고 Boctor는 말했다."
-              },
-              {
-                "t": "p",
-                "x": "이 머신러닝 파이프라인은 이미 특성이 밝혀진 효소에서 얻은 지식으로, 효소 구조가 표적 오염물질과 어떻게 맞물려 그것을 분해할지 예측한다. 연구팀은 이제 찾아낸 효소를 생물학적 정화에 쓰려고 시험하고 검증하며 규모를 키우는 중이다."
+                "x": "속도와 해상도 사이 균형을 맞추려고 연구팀은 Generative Adversarial Network(GAN)를 학습시켰다. 빠르게 찍은 중간 해상도(intermediate-resolution) 스캔이 이를 거치면, 소재가 뒤틀리고 그을리고 속이 비어 가는 과정을 담은 고해상도(high-resolution) 3D 기록이 된다. 공학 시뮬레이션은 아직 갱신되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "進化が導くAIの\n汚染分解酵素探し",
-          "body": "Murdoch Universityが機械学習と生化学でプラスチック分解酵素を探す。",
-          "mini_headline": "AIでプラスチック分解酵素を探す",
+          "headline": "X-raysとAIで見る\n耐熱材が燃える瞬間",
+          "body": "NASAらはX-ray micro-CTとAIで耐熱材の崩壊をリアルタイムで観察した。",
+          "mini_headline": "AIが見る耐熱材の燃焼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+              },
+              {
                 "t": "p",
-                "x": "世界中のデータベースには、プラスチックなどの汚染物質を分解しうる膨大な数の酵素の情報が収められている。Murdoch UniversityのBioplastics Innovation Hubの科学者たちは、機械学習技術と生化学を組み合わせ、これらの酵素のうちどれがプラスチックやその他の有害な汚染物質を分解できる可能性があるかを見極めようとしている。"
+                "x": "耐熱シールドはアブレーションによって宇宙船を守るが、研究者が目にできるのは通常、前後（before-and-after）の画像だけだ。Artemis Iでは、シミュレーションが予測していなかった炭化と不均一な材料損失が見られた。"
+              },
+              {
+                "t": "video",
+                "yt": "04rSPGwMLlM"
+              },
+              {
+                "t": "p",
+                "x": "NASAとLawrence Berkeley National LaboratoryのAdvanced Light Sourceの協力がこれを変えた。LBNLの研究者は試料を最大900℃まで加熱するチャンバーを作り、その間にX-ray micro-computed tomography（X線マイクロCT）が分解していく材料の3D画像を捉える。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+                "cap": "Kennedy Space CenterでArtemis IIの耐熱シールドの作業をするエンジニアたち。クレジット - NASA"
               },
               {
                 "t": "p",
-                "x": "Ph.D.候補生のJoseph Boctorは、Nature Reviews Earth & Environmentに掲載された最新のレビューで、それぞれの汚染物質に立ち向かう最適な生物学的解を見つける鍵は、既存のデータの中に隠れている可能性が高いと説明する。"
+                "x": "SLA-561V中のコルク粒子は気化して空洞となり、SLA-220は高温ガスを逃がす枝分かれした微細流路（micro-channels）へと劣化する。"
               },
               {
                 "t": "p",
-                "x": "「酵素を過剰に設計するのは悪い出発点であり、これらの汚染物質に対する潜在的な解決策をすでに数多く生み出してきた何百万年もの進化を見落としていると強く主張したい」とBoctorは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "これらの機械学習パイプラインは、すでに特性が明らかになった酵素の知見を用いて、酵素の構造が標的の汚染物質とどう相互作用し、それを分解するかを予測する。チームは現在、特定した酵素をバイオレメディエーションに生かすための試験、検証、規模拡大に力を注いでいる。"
+                "x": "速度と解像度のバランスを取るため、チームはGenerative Adversarial Network（GAN）を訓練し、高速な中解像度（intermediate-resolution）スキャンを、材料が歪み、焦げ、空洞化していく様子の高解像度（high-resolution）3D記録に変換した。工学シミュレーションはまだ更新されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "进化引导AI\n搜寻抗污染的酶",
-          "body": "Murdoch University科学家结合机器学习与生物化学，寻找可分解塑料的酶。",
-          "mini_headline": "AI搜寻塑料分解酶",
+          "headline": "X-rays与AI实时\n揭示隔热罩燃烧",
+          "body": "NASA等团队用X-ray micro-CT与AI实时观察隔热罩材料的分解过程。",
+          "mini_headline": "AI观察隔热罩燃烧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+              },
+              {
                 "t": "p",
-                "x": "世界各地的数据库收录了数以百万计的酶的信息，这些酶有潜力降解塑料等污染物。Murdoch University的Bioplastics Innovation Hub科学家正结合机器学习技术与生物化学，找出其中哪些酶有潜力分解塑料及其他有害污染物。"
+                "x": "隔热罩靠烧蚀来保护航天器，但研究人员通常只能看到前后（before-and-after）对比图。Artemis I出现了模拟未能预测的意外炭化和不均匀材料损耗。"
+              },
+              {
+                "t": "video",
+                "yt": "04rSPGwMLlM"
+              },
+              {
+                "t": "p",
+                "x": "NASA与Lawrence Berkeley National Laboratory的Advanced Light Source合作改变了这一点。LBNL研究人员建造了一个可将样品加热至900℃的腔室，同时由X-ray micro-computed tomography（X射线显微断层成像）拍下材料分解时的3D图像。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+                "cap": "工程师在Kennedy Space Center处理Artemis II隔热罩。图片来源 - NASA"
               },
               {
                 "t": "p",
-                "x": "Ph.D.候选人Joseph Boctor在发表于Nature Reviews Earth & Environment的最新综述中解释说，为每种污染物找到合适生物学对策的关键，很可能就藏在现有数据之中。"
+                "x": "SLA-561V中的软木颗粒汽化成中空孔洞，而SLA-220则降解为排出高温气体的分叉微通道（micro-channels）。"
               },
               {
                 "t": "p",
-                "x": "“我强烈主张，过度改造酶是一个糟糕的起点，它忽视了数百万年的进化，而进化早已为这些污染物产生了大量潜在解决方案。”Boctor说。"
-              },
-              {
-                "t": "p",
-                "x": "这些机器学习流程利用已表征酶的知识，预测酶的结构可能如何与目标污染物相互作用并将其分解。团队目前正集中精力，对已识别的酶开展测试、验证和规模化，以用于生物修复。"
+                "x": "为兼顾速度与分辨率，团队训练了一个Generative Adversarial Network（GAN），把快速的中等分辨率（intermediate-resolution）扫描转换为高分辨率（high-resolution）3D记录，呈现材料翘曲、炭化和掏空的过程。工程模拟尚未据此更新。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La evolución guía a la AI que\nbusca enzimas contra la polución",
-          "body": "Científicos de Murdoch University unen aprendizaje automático y bioquímica para hallar enzimas que degraden plástico.",
-          "mini_headline": "La AI busca enzimas contra el plástico",
+          "headline": "X-rays y AI muestran escudos\ntérmicos ardiendo en tiempo real",
+          "body": "NASA y Berkeley Lab unieron X-ray micro-CT y AI para ver en tiempo real cómo se degrada un escudo térmico.",
+          "mini_headline": "La AI observa arder escudos térmicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Las bases de datos de todo el mundo contienen información sobre millones y millones de enzimas con potencial para degradar contaminantes como el plástico. Científicos del Bioplastics Innovation Hub de Murdoch University combinan tecnología de aprendizaje automático y bioquímica para identificar cuáles de estas enzimas pueden descomponer el plástico y otros contaminantes nocivos."
+                "x": "Los escudos térmicos protegen las naves mediante ablación, pero los investigadores suelen ver solo imágenes del antes y el después (before-and-after). Artemis I mostró una carbonización inesperada y una pérdida desigual de material que las simulaciones no habían previsto."
+              },
+              {
+                "t": "video",
+                "yt": "04rSPGwMLlM"
+              },
+              {
+                "t": "p",
+                "x": "Una colaboración entre NASA y la Advanced Light Source del Lawrence Berkeley National Laboratory cambió eso. Investigadores del LBNL construyeron una cámara que calienta muestras hasta 900℃ mientras la X-ray micro-computed tomography capta imágenes 3D del material a medida que se degrada."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+                "cap": "Ingenieros trabajan en el escudo térmico de Artemis II en el Kennedy Space Center. Crédito - NASA"
               },
               {
                 "t": "p",
-                "x": "El candidato a Ph.D. Joseph Boctor explica en su última revisión, publicada en Nature Reviews Earth & Environment, que la clave para encontrar la respuesta biológica adecuada contra cada contaminante probablemente está oculta en los datos ya existentes."
+                "x": "Las partículas de corcho del SLA-561V se vaporizan y dejan huecos, mientras que el SLA-220 se degrada en microcanales ramificados (micro-channels) que expulsan gases calientes."
               },
               {
                 "t": "p",
-                "x": "\"Defiendo con firmeza que sobrediseñar enzimas es un mal punto de partida que pasa por alto millones de años de evolución que ya han producido muchas soluciones potenciales para estos contaminantes\", dijo Boctor."
-              },
-              {
-                "t": "p",
-                "x": "Estos flujos de aprendizaje automático usan el conocimiento de enzimas ya caracterizadas para predecir cómo sus estructuras podrían interactuar con los contaminantes objetivo y descomponerlos. El equipo concentra ahora sus esfuerzos en probar, validar y escalar las enzimas identificadas para tareas de biorremediación."
+                "x": "Para equilibrar velocidad y resolución, el equipo entrenó una Generative Adversarial Network (GAN) que convierte escaneos rápidos de resolución intermedia (intermediate-resolution) en registros 3D de alta resolución (high-resolution) del material mientras se deformaba, se carbonizaba y se vaciaba. Las simulaciones de ingeniería aún no se han actualizado."
               }
             ]
           }
@@ -521,125 +569,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "진화가 이끄는 AI의\n오염 분해 효소 탐색",
-          "body": "Murdoch University가 머신러닝으로 플라스틱 분해 효소를 찾는다.",
-          "mini_headline": "AI로 플라스틱 분해 효소 찾기",
+          "headline": "X-rays·AI로 본\n열차폐재가 타는 순간",
+          "body": "NASA는 X-ray micro-CT와 AI로 열차폐재 붕괴를 실시간 관찰했다.",
+          "mini_headline": "AI가 본 열차폐재 연소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+              },
+              {
                 "t": "p",
-                "x": "전 세계 데이터베이스에는 플라스틱 같은 오염물질을 분해할 잠재력을 지닌 수없이 많은 효소의 정보가 담겨 있다. Murdoch University의 Bioplastics Innovation Hub 과학자들은 머신러닝 기술과 생화학을 결합해, 이 가운데 어떤 효소가 플라스틱과 그 밖의 유해 오염물질을 분해할 잠재력이 있는지 가려내고 있다."
+                "x": "열차폐재는 스스로 깎여 나가는 삭마 방식으로 우주선을 보호하지만, 연구자들은 대개 전후(before-and-after) 사진만 볼 수 있었다. Artemis I에서는 시뮬레이션이 예측하지 못한 탄화와 고르지 않은 소재 손실이 나타났다."
+              },
+              {
+                "t": "video",
+                "yt": "04rSPGwMLlM"
+              },
+              {
+                "t": "p",
+                "x": "NASA와 Lawrence Berkeley National Laboratory의 Advanced Light Source 간 협력이 이를 바꿨다. LBNL 연구진은 시료를 최대 900℃까지 가열하는 챔버를 만들었고, 그동안 X-ray micro-computed tomography(미세 컴퓨터단층촬영)가 분해되는 소재의 3D 이미지를 포착한다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+                "cap": "Kennedy Space Center에서 Artemis II 열차폐재 작업을 하는 엔지니어들. 출처 - NASA"
               },
               {
                 "t": "p",
-                "x": "Ph.D. 과정생 Joseph Boctor는 Nature Reviews Earth & Environment에 실린 최근 리뷰에서, 오염물질마다 맞설 알맞은 생물학적 해법을 찾는 열쇠가 기존 데이터 속에 숨어 있을 가능성이 크다고 설명한다."
+                "x": "SLA-561V 속 코르크 입자는 기화해 빈 공동이 되고, SLA-220은 뜨거운 가스를 내보내는 가지 모양 미세 통로(micro-channels)로 분해된다."
               },
               {
                 "t": "p",
-                "x": "“효소를 지나치게 설계하는 것은 나쁜 출발점이라고 강하게 주장한다. 이런 오염물질에 대한 잠재적 해법을 이미 숱하게 만들어 낸 수백만 년의 진화를 외면하는 일이기 때문이다”라고 Boctor는 말했다."
-              },
-              {
-                "t": "p",
-                "x": "이 머신러닝 파이프라인은 앞서 특성이 밝혀진 효소들의 지식을 활용해, 효소 구조가 표적 오염물질과 어떻게 상호작용하며 이를 분해할지 예측한다. 연구팀은 이제 찾아낸 효소들을 생물학적 정화에 쓰기 위한 시험, 검증, 규모 확대에 힘을 쏟고 있다."
+                "x": "연구팀은 속도와 해상도 사이 균형을 맞추려고 Generative Adversarial Network(GAN)를 학습시켜, 빠른 중간 해상도(intermediate-resolution) 스캔을 소재가 뒤틀리고 그을리고 속이 비어 가는 과정의 고해상도(high-resolution) 3D 기록으로 바꿨다. 공학 시뮬레이션은 아직 갱신되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "進化が導くAIの\n汚染分解酵素探し",
-          "body": "Murdoch Universityが機械学習と生化学でプラスチック分解酵素を探す。",
-          "mini_headline": "AIでプラスチック分解酵素を探す",
+          "headline": "X-raysとAIで見る\n耐熱材が燃える瞬間",
+          "body": "NASAらはX-ray micro-CTとAIで耐熱材の崩壊をリアルタイムで観察した。",
+          "mini_headline": "AIが見る耐熱材の燃焼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+              },
+              {
                 "t": "p",
-                "x": "世界中のデータベースには、プラスチックなどの汚染物質を分解しうる膨大な数の酵素の情報が収められている。Murdoch UniversityのBioplastics Innovation Hubの科学者たちは、機械学習技術と生化学を組み合わせ、これらの酵素のうちどれがプラスチックやその他の有害な汚染物質を分解できる可能性があるかを見極めようとしている。"
+                "x": "耐熱シールドはアブレーションによって宇宙船を守るが、研究者が目にできるのは通常、前後（before-and-after）の画像だけだ。Artemis Iでは、シミュレーションが予測していなかった炭化と不均一な材料損失が見られた。"
+              },
+              {
+                "t": "video",
+                "yt": "04rSPGwMLlM"
+              },
+              {
+                "t": "p",
+                "x": "NASAとLawrence Berkeley National LaboratoryのAdvanced Light Sourceの協力がこれを変えた。LBNLの研究者は試料を最大900℃まで加熱するチャンバーを作り、その間にX-ray micro-computed tomography（X線マイクロCT）が分解していく材料の3D画像を捉える。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+                "cap": "Kennedy Space CenterでArtemis IIの耐熱シールドの作業をするエンジニアたち。クレジット - NASA"
               },
               {
                 "t": "p",
-                "x": "Ph.D.候補生のJoseph Boctorは、Nature Reviews Earth & Environmentに掲載された最新のレビューで、それぞれの汚染物質に立ち向かう最適な生物学的解を見つける鍵は、既存のデータの中に隠れている可能性が高いと説明する。"
+                "x": "SLA-561V中のコルク粒子は気化して空洞となり、SLA-220は高温ガスを逃がす枝分かれした微細流路（micro-channels）へと劣化する。"
               },
               {
                 "t": "p",
-                "x": "「酵素を過剰に設計するのは悪い出発点であり、これらの汚染物質に対する潜在的な解決策をすでに数多く生み出してきた何百万年もの進化を見落としていると強く主張したい」とBoctorは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "これらの機械学習パイプラインは、すでに特性が明らかになった酵素の知見を用いて、酵素の構造が標的の汚染物質とどう相互作用し、それを分解するかを予測する。チームは現在、特定した酵素をバイオレメディエーションに生かすための試験、検証、規模拡大に力を注いでいる。"
+                "x": "速度と解像度のバランスを取るため、チームはGenerative Adversarial Network（GAN）を訓練し、高速な中解像度（intermediate-resolution）スキャンを、材料が歪み、焦げ、空洞化していく様子の高解像度（high-resolution）3D記録に変換した。工学シミュレーションはまだ更新されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "进化引导AI\n搜寻抗污染的酶",
-          "body": "Murdoch University科学家结合机器学习与生物化学，寻找可分解塑料的酶。",
-          "mini_headline": "AI搜寻塑料分解酶",
+          "headline": "X-rays与AI实时\n揭示隔热罩燃烧",
+          "body": "NASA等团队用X-ray micro-CT与AI实时观察隔热罩材料的分解过程。",
+          "mini_headline": "AI观察隔热罩燃烧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+              },
+              {
                 "t": "p",
-                "x": "世界各地的数据库收录了数以百万计的酶的信息，这些酶有潜力降解塑料等污染物。Murdoch University的Bioplastics Innovation Hub科学家正结合机器学习技术与生物化学，找出其中哪些酶有潜力分解塑料及其他有害污染物。"
+                "x": "隔热罩靠烧蚀来保护航天器，但研究人员通常只能看到前后（before-and-after）对比图。Artemis I出现了模拟未能预测的意外炭化和不均匀材料损耗。"
+              },
+              {
+                "t": "video",
+                "yt": "04rSPGwMLlM"
+              },
+              {
+                "t": "p",
+                "x": "NASA与Lawrence Berkeley National Laboratory的Advanced Light Source合作改变了这一点。LBNL研究人员建造了一个可将样品加热至900℃的腔室，同时由X-ray micro-computed tomography（X射线显微断层成像）拍下材料分解时的3D图像。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+                "cap": "工程师在Kennedy Space Center处理Artemis II隔热罩。图片来源 - NASA"
               },
               {
                 "t": "p",
-                "x": "Ph.D.候选人Joseph Boctor在发表于Nature Reviews Earth & Environment的最新综述中解释说，为每种污染物找到合适生物学对策的关键，很可能就藏在现有数据之中。"
+                "x": "SLA-561V中的软木颗粒汽化成中空孔洞，而SLA-220则降解为排出高温气体的分叉微通道（micro-channels）。"
               },
               {
                 "t": "p",
-                "x": "“我强烈主张，过度改造酶是一个糟糕的起点，它忽视了数百万年的进化，而进化早已为这些污染物产生了大量潜在解决方案。”Boctor说。"
-              },
-              {
-                "t": "p",
-                "x": "这些机器学习流程利用已表征酶的知识，预测酶的结构可能如何与目标污染物相互作用并将其分解。团队目前正集中精力，对已识别的酶开展测试、验证和规模化，以用于生物修复。"
+                "x": "为兼顾速度与分辨率，团队训练了一个Generative Adversarial Network（GAN），把快速的中等分辨率（intermediate-resolution）扫描转换为高分辨率（high-resolution）3D记录，呈现材料翘曲、炭化和掏空的过程。工程模拟尚未据此更新。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La evolución guía a la AI que\nbusca enzimas contra la polución",
-          "body": "Científicos de Murdoch University unen aprendizaje automático y bioquímica para hallar enzimas que degraden plástico.",
-          "mini_headline": "La AI busca enzimas contra el plástico",
+          "headline": "X-rays y AI muestran escudos\ntérmicos ardiendo en tiempo real",
+          "body": "NASA y Berkeley Lab unieron X-ray micro-CT y AI para ver en tiempo real cómo se degrada un escudo térmico.",
+          "mini_headline": "La AI observa arder escudos térmicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Las bases de datos de todo el mundo contienen información sobre millones y millones de enzimas con potencial para degradar contaminantes como el plástico. Científicos del Bioplastics Innovation Hub de Murdoch University combinan tecnología de aprendizaje automático y bioquímica para identificar cuáles de estas enzimas pueden descomponer el plástico y otros contaminantes nocivos."
+                "x": "Los escudos térmicos protegen las naves mediante ablación, pero los investigadores suelen ver solo imágenes del antes y el después (before-and-after). Artemis I mostró una carbonización inesperada y una pérdida desigual de material que las simulaciones no habían previsto."
+              },
+              {
+                "t": "video",
+                "yt": "04rSPGwMLlM"
+              },
+              {
+                "t": "p",
+                "x": "Una colaboración entre NASA y la Advanced Light Source del Lawrence Berkeley National Laboratory cambió eso. Investigadores del LBNL construyeron una cámara que calienta muestras hasta 900℃ mientras la X-ray micro-computed tomography capta imágenes 3D del material a medida que se degrada."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2020/3-plastic.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+                "cap": "Ingenieros trabajan en el escudo térmico de Artemis II en el Kennedy Space Center. Crédito - NASA"
               },
               {
                 "t": "p",
-                "x": "El candidato a Ph.D. Joseph Boctor explica en su última revisión, publicada en Nature Reviews Earth & Environment, que la clave para encontrar la respuesta biológica adecuada contra cada contaminante probablemente está oculta en los datos ya existentes."
+                "x": "Las partículas de corcho del SLA-561V se vaporizan y dejan huecos, mientras que el SLA-220 se degrada en microcanales ramificados (micro-channels) que expulsan gases calientes."
               },
               {
                 "t": "p",
-                "x": "\"Defiendo con firmeza que sobrediseñar enzimas es un mal punto de partida que pasa por alto millones de años de evolución que ya han producido muchas soluciones potenciales para estos contaminantes\", dijo Boctor."
-              },
-              {
-                "t": "p",
-                "x": "Estos flujos de aprendizaje automático usan el conocimiento de enzimas ya caracterizadas para predecir cómo sus estructuras podrían interactuar con los contaminantes objetivo y descomponerlos. El equipo concentra ahora sus esfuerzos en probar, validar y escalar las enzimas identificadas para tareas de biorremediación."
+                "x": "Para equilibrar velocidad y resolución, el equipo entrenó una Generative Adversarial Network (GAN) que convierte escaneos rápidos de resolución intermedia (intermediate-resolution) en registros 3D de alta resolución (high-resolution) del material mientras se deformaba, se carbonizaba y se vaciaba. Las simulaciones de ingeniería aún no se han actualizado."
               }
             ]
           }
@@ -647,195 +727,195 @@
       }
     },
     {
-      "id": "uf-ai-health-questions-anxiety",
+      "id": "autonomous-ai-dermatology-appointments-study",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI에 건강을 묻는 것은\n불안·우울 신호일 수도",
-      "body": "생성형 AI에 건강을 묻는 청년은 불안·우울 선별에서 양성이 더 잘 나온다.",
-      "mini_headline": "AI 건강 질문과 불안",
+      "headline": "자율 AI, 피부과 진료\n수천 건 확보할 수도",
+      "body": "8,391명 연구에서 AI는 16개월간 진료 8,500건 넘게 비울 여력을 보였다.",
+      "mini_headline": "AI, 피부과 진료 여력 확보",
       "tool": "Science",
       "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2026-09-ai-health-anxiety-depression-young.html",
+      "url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "University of Florida 연구자 Yusen Zhai가 이끈 새 연구를 보면, 생성형 인공지능에 건강 질문을 던지는 청년은 그렇지 않은 청년보다 임상적으로 유의한 불안·우울 선별검사에서 양성이 나올 가능성이 높았다. 연구는 Journal of Counseling & Development에 실렸다."
-          },
-          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-            "cap": "Credit: Unsplash/CC0 Public Domain"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+            "cap": "출처: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "연구진은 청년 100,000명 가까이의 데이터를 분석했다. ChatGPT나 Claude 같은 생성형 AI 도구에 건강을 물은 사람은 불안과 우울 선별검사 양성 확률이 각각 52%, 46% 더 높았다. 다만 이는 연관성일 뿐, AI 사용이 불안이나 우울을 부른다는 증거는 아니다."
+            "x": "EADV Congress 2026에서 발표된 실제 환경(real-world) 연구는 환자 8,391명을 대상으로 했다. 16개월 동안 U.K. 병원 두 곳에서 자율 AI는 대면(face-to-face) 피부과 진료를 8,500건 넘게 더 받을 수 있는 여력을 만들어 냈다."
           },
           {
             "t": "p",
-            "x": "이런 흐름을 떠올려 볼 수 있다. 안심하려고 AI에 물었는데, 답을 받고 나니 질문이 더 늘어난다. “이런 반복 순환은 반추, 건강 불안, 그 밖의 고통을 강화할 수 있다”고 Zhai는 말했다."
+            "x": "CE-marked Class III AI 의료기기가 스마트폰으로 찍은 피부 병변 사진을 분류했다. 양성이면 스스로 퇴원 처리하고, 위험이 더 높은(higher-risk) 사례는 원격 피부과 전문의 검토로 넘겼다. 두 병원에서 AI가 임상의 검토 없이 퇴원 처리한 환자는 각각 31%와 25%였다."
           },
           {
             "t": "p",
-            "x": "데이터를 2023년부터 2024년까지 모았으니 이번 결과는 초기 신호에 가깝다. “문제는 생성형 AI 자체가 아니다”라고 Zhai는 말했다. “‘어떻게’의 문제, 즉 사람들이 그것을 어떻게 쓰느냐의 문제다.”"
+            "x": "이 진료 경로로 임상의 시간 2,851시간을 아끼고 진료 역량은 약 62% 늘었으며, 생검 비율은 43%에서 27%로 낮아진 것으로 추산됐다."
+          },
+          {
+            "t": "p",
+            "x": "전국 데이터셋에서 침윤성 흑색종과 SCC, BCC 민감도는 98%를 넘었다. 시판 후(post-market) 감시에서는 위음성 여섯 건이 나왔지만 확인된 부작용은 없었다. 주저자 Dr. Lucy Thomas는 \"AI 시스템을 안전하게 배치하는 일은 일회성(one-off) 작업이 아니다\"라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Asking AI about health may\nsignal anxiety and depression",
-          "body": "Young adults who ask generative AI health questions are more likely to screen positive for anxiety and depression.",
-          "mini_headline": "AI health queries and anxiety",
+          "headline": "Autonomous AI could free\nthousands of dermatology slots",
+          "body": "In a real-world study of 8,391 patients, autonomous AI could free over 8,500 dermatology appointments in 16 months.",
+          "mini_headline": "AI frees dermatology slots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Young adults who use generative artificial intelligence to ask health-related questions are more likely to screen positive for clinically significant anxiety and depression than those who do not, according to a new study led by University of Florida researcher Yusen Zhai, published in the Journal of Counseling & Development."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
                 "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "The study analyzed data from nearly 100,000 young adults. The odds of screening positive for anxiety and depression were 52% and 46% greater, respectively, for people who used generative AI tools like ChatGPT or Claude for health questions. The findings show an association; they do not establish that AI use causes anxiety or depression."
+                "x": "A real-world study of 8,391 patients, presented at the EADV Congress 2026, found that autonomous AI could free enough capacity for more than 8,500 additional face-to-face dermatology appointments across two U.K. hospitals over 16 months."
               },
               {
                 "t": "p",
-                "x": "One possible pattern: a person asks AI for reassurance, gets an answer, then develops more questions. \"That kind of repeated cycle could reinforce rumination, health anxiety or other distress,\" Zhai said."
+                "x": "A CE-marked Class III AI medical device classified smartphone images of skin lesions, autonomously discharging benign cases and referring higher-risk ones for teledermatologist review. The AI discharged 31% and 25% of patients at the two hospitals without clinician review."
               },
               {
                 "t": "p",
-                "x": "The data were collected from 2023 to 2024, making the findings an early indication. \"The problem is not generative AI itself,\" Zhai said. \"It's the 'how' question—how people use it.\""
+                "x": "The pathway was estimated to save 2,851 hours of clinician time, about a 62% gain in capacity, and cut biopsy rates to 27% from 43%."
+              },
+              {
+                "t": "p",
+                "x": "In a national dataset, sensitivity exceeded 98% for invasive melanoma, SCC and BCC. Six false negatives were found through post-market surveillance, with no adverse outcomes identified. \"Deploying an AI system safely isn't a one-off exercise,\" said lead author Dr. Lucy Thomas."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI에 건강을 묻는 것은\n불안·우울 신호일 수도",
-          "body": "생성형 AI에 건강을 묻는 청년은 불안·우울 선별에서 양성이 더 잘 나온다.",
-          "mini_headline": "AI 건강 질문과 불안",
+          "headline": "자율 AI, 피부과 진료\n수천 건 확보할 수도",
+          "body": "8,391명 연구에서 AI는 16개월간 진료 8,500건 넘게 비울 여력을 보였다.",
+          "mini_headline": "AI, 피부과 진료 여력 확보",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Florida 연구자 Yusen Zhai가 이끈 새 연구를 보면, 생성형 인공지능에 건강 질문을 던지는 청년은 그렇지 않은 청년보다 임상적으로 유의한 불안·우울 선별검사에서 양성이 나올 가능성이 높았다. 연구는 Journal of Counseling & Development에 실렸다."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+                "cap": "출처: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "연구진은 청년 100,000명 가까이의 데이터를 분석했다. ChatGPT나 Claude 같은 생성형 AI 도구에 건강을 물은 사람은 불안과 우울 선별검사 양성 확률이 각각 52%, 46% 더 높았다. 다만 이는 연관성일 뿐, AI 사용이 불안이나 우울을 부른다는 증거는 아니다."
+                "x": "EADV Congress 2026에서 발표된 실제 환경(real-world) 연구는 환자 8,391명을 대상으로 했다. 16개월 동안 U.K. 병원 두 곳에서 자율 AI는 대면(face-to-face) 피부과 진료를 8,500건 넘게 더 받을 수 있는 여력을 만들어 냈다."
               },
               {
                 "t": "p",
-                "x": "이런 흐름을 떠올려 볼 수 있다. 안심하려고 AI에 물었는데, 답을 받고 나니 질문이 더 늘어난다. “이런 반복 순환은 반추, 건강 불안, 그 밖의 고통을 강화할 수 있다”고 Zhai는 말했다."
+                "x": "CE-marked Class III AI 의료기기가 스마트폰으로 찍은 피부 병변 사진을 분류했다. 양성이면 스스로 퇴원 처리하고, 위험이 더 높은(higher-risk) 사례는 원격 피부과 전문의 검토로 넘겼다. 두 병원에서 AI가 임상의 검토 없이 퇴원 처리한 환자는 각각 31%와 25%였다."
               },
               {
                 "t": "p",
-                "x": "데이터를 2023년부터 2024년까지 모았으니 이번 결과는 초기 신호에 가깝다. “문제는 생성형 AI 자체가 아니다”라고 Zhai는 말했다. “‘어떻게’의 문제, 즉 사람들이 그것을 어떻게 쓰느냐의 문제다.”"
+                "x": "이 진료 경로로 임상의 시간 2,851시간을 아끼고 진료 역량은 약 62% 늘었으며, 생검 비율은 43%에서 27%로 낮아진 것으로 추산됐다."
+              },
+              {
+                "t": "p",
+                "x": "전국 데이터셋에서 침윤성 흑색종과 SCC, BCC 민감도는 98%를 넘었다. 시판 후(post-market) 감시에서는 위음성 여섯 건이 나왔지만 확인된 부작용은 없었다. 주저자 Dr. Lucy Thomas는 \"AI 시스템을 안전하게 배치하는 일은 일회성(one-off) 작업이 아니다\"라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIに健康を尋ねるのは\n不安やうつのサインか",
-          "body": "生成AIに健康を尋ねる若者は、不安とうつのスクリーニングで陽性になりやすい。",
-          "mini_headline": "AIへの健康相談と不安",
+          "headline": "自律型AI、皮膚科の\n予約枠を数千件空けうる",
+          "body": "8,391人の研究で、AIは16カ月に皮膚科予約8,500件超を空けうると示された。",
+          "mini_headline": "AIが皮膚科の予約枠を空ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Floridaの研究者Yusen Zhaiが主導し、Journal of Counseling & Developmentに掲載された新たな研究によると、生成人工知能を使って健康に関する質問をする若者は、そうでない若者に比べ、臨床的に有意な不安とうつのスクリーニングで陽性となる可能性が高い。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+                "cap": "クレジット: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "研究では100,000人近い若者のデータを分析した。ChatGPTやClaudeなどの生成AIツールを健康に関する質問に使った人は、不安とうつのスクリーニングで陽性となるオッズがそれぞれ52%、46%高かった。この結果は関連を示すものであり、AIの利用が不安やうつを引き起こすことを立証するものではない。"
+                "x": "EADV Congress 2026で発表された患者8,391人の実臨床（real-world）研究によると、自律型AIはU.K.の病院二つで16カ月にわたり、対面（face-to-face）の皮膚科診察を8,500件以上追加できるだけの余力を生み出しうる。"
               },
               {
                 "t": "p",
-                "x": "考えられるパターンの一つはこうだ。安心を求めてAIに尋ね、答えを得ると、さらに疑問が増えていく。「そうした繰り返しのサイクルが、反すうや健康不安、その他の苦痛を強める可能性がある」とZhaiは述べた。"
+                "x": "CE-marked（CEマーク取得）のClass III AI医療機器がスマートフォンで撮影した皮膚病変の画像を分類し、良性例は自律的に退院させ、高リスク（higher-risk）例は遠隔皮膚科医の確認に回した。AIは二つの病院で、それぞれ患者の31%と25%を臨床医の確認なしに退院させた。"
               },
               {
                 "t": "p",
-                "x": "データは2023年から2024年にかけて収集されたもので、今回の結果は初期の兆候といえる。「問題は生成AIそのものではない」とZhaiは言う。「『どのように』という問題、つまり人々がそれをどう使うかだ」"
+                "x": "この経路により臨床医の時間を2,851時間節約し、診療能力を約62%高め、生検率を43%から27%に下げたと推定された。"
+              },
+              {
+                "t": "p",
+                "x": "全国データセットでは、浸潤性黒色腫、SCC、BCCに対する感度が98%を超えた。市販後（post-market）調査で偽陰性が六件見つかったが、有害な転帰は確認されなかった。筆頭著者のDr. Lucy Thomasは「AIシステムを安全に導入するのは一度きり（one-off）の作業ではない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "向AI询问健康问题\n或是焦虑抑郁信号",
-          "body": "向生成式AI询问健康问题的年轻人，焦虑和抑郁筛查呈阳性的可能性更高。",
-          "mini_headline": "AI健康咨询与焦虑",
+          "headline": "自主AI或为皮肤科\n腾出数千个预约",
+          "body": "一项涉及8,391名患者的研究显示，自主AI可在16个月内腾出逾8,500个皮肤科预约。",
+          "mini_headline": "AI为皮肤科腾出预约",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Florida研究人员Yusen Zhai领导的一项新研究发表于Journal of Counseling & Development。研究显示，使用生成式人工智能询问健康相关问题的年轻人，在具有临床意义的焦虑和抑郁筛查中呈阳性的可能性高于不这样做的人。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "该研究分析了近100,000名年轻人的数据。使用ChatGPT或Claude等生成式AI工具询问健康问题的人，焦虑和抑郁筛查呈阳性的几率分别高出52%和46%。这些发现显示的是关联，并不能证明使用AI会导致焦虑或抑郁。"
+                "x": "一项在EADV Congress 2026上发表、涉及8,391名患者的真实世界（real-world）研究发现，在16个月里，自主AI可为两家U.K.医院腾出足够产能，新增逾8,500次面对面（face-to-face）皮肤科门诊。"
               },
               {
                 "t": "p",
-                "x": "一种可能的模式是：一个人向AI寻求安慰，得到回答，随后又冒出更多问题。“这种反复循环可能会加剧反刍思维、健康焦虑或其他困扰。”Zhai说。"
+                "x": "一款带CE-marked认证的Class III AI医疗器械对智能手机拍摄的皮损图像进行分类，自主让良性病例出院，并将风险较高（higher-risk）的病例转交远程皮肤科医生审核。在两家医院，AI分别在无临床医生审核的情况下让31%和25%的患者出院。"
               },
               {
                 "t": "p",
-                "x": "数据收集于2023年至2024年，因此这些发现只是早期迹象。“问题不在于生成式AI本身，”Zhai说，“而在于‘如何’的问题——人们如何使用它。”"
+                "x": "据估算，这一路径节省了2,851小时临床医生时间，产能提升约62%，活检率从43%降至27%。"
+              },
+              {
+                "t": "p",
+                "x": "在一个全国数据集中，对浸润性黑色素瘤、SCC和BCC的敏感度超过98%。上市后（post-market）监测发现六例假阴性，未发现不良结局。第一作者Dr. Lucy Thomas说：“安全部署AI系统不是一次性（one-off）的工作。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Preguntar a la AI por salud se\nasocia a ansiedad y depresión",
-          "body": "Los jóvenes que consultan a la AI generativa sobre salud dan positivo con más frecuencia en ansiedad y depresión.",
-          "mini_headline": "Consultas de salud a la AI y ansiedad",
+          "headline": "La AI autónoma podría liberar\nmiles de citas de dermatología",
+          "body": "En un estudio con 8,391 pacientes, la AI autónoma podría liberar más de 8,500 citas dermatológicas en 16 meses.",
+          "mini_headline": "La AI libera citas de dermatología",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los adultos jóvenes que usan inteligencia artificial generativa para hacer preguntas relacionadas con la salud tienen más probabilidades de dar positivo en el cribado de ansiedad y depresión clínicamente significativas que quienes no lo hacen, según un nuevo estudio dirigido por el investigador de la University of Florida Yusen Zhai y publicado en el Journal of Counseling & Development."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "El estudio analizó datos de casi 100,000 adultos jóvenes. Las probabilidades de dar positivo en ansiedad y depresión fueron un 52% y un 46% mayores, respectivamente, entre quienes usaron herramientas de AI generativa como ChatGPT o Claude para consultas de salud. Los resultados muestran una asociación; no demuestran que el uso de la AI cause ansiedad o depresión."
+                "x": "Un estudio en condiciones reales (real-world) con 8,391 pacientes, presentado en el EADV Congress 2026, halló que la AI autónoma podría liberar capacidad suficiente para más de 8,500 consultas dermatológicas presenciales (face-to-face) adicionales en dos hospitales de U.K. a lo largo de 16 meses."
               },
               {
                 "t": "p",
-                "x": "Un patrón posible: una persona pide a la AI que la tranquilice, obtiene una respuesta y luego le surgen más preguntas. \"Ese tipo de ciclo repetido podría reforzar la rumiación, la ansiedad por la salud u otros malestares\", dijo Zhai."
+                "x": "Un dispositivo médico de AI Class III con marcado CE (CE-marked) clasificó imágenes de lesiones cutáneas tomadas con smartphone, dio de alta de forma autónoma los casos benignos y derivó los de mayor riesgo (higher-risk) a revisión por teledermatólogos. La AI dio de alta al 31% y al 25% de los pacientes en los dos hospitales sin revisión de un clínico."
               },
               {
                 "t": "p",
-                "x": "Los datos se recogieron entre 2023 y 2024, por lo que los resultados son un indicio temprano. \"El problema no es la AI generativa en sí\", dijo Zhai. \"Es la cuestión del 'cómo': cómo la usan las personas\"."
+                "x": "Se estimó que la vía ahorró 2,851 horas de tiempo clínico, un aumento de capacidad de alrededor del 62%, y redujo la tasa de biopsias del 43% al 27%."
+              },
+              {
+                "t": "p",
+                "x": "En un conjunto de datos nacional, la sensibilidad superó el 98% para melanoma invasivo, SCC y BCC. La vigilancia poscomercialización (post-market) detectó seis falsos negativos, sin resultados adversos identificados. \"Desplegar un sistema de AI de forma segura no es un ejercicio puntual (one-off)\", dijo la autora principal, Dr. Lucy Thomas."
               }
             ]
           }
@@ -843,125 +923,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI에 건강을 묻는 것은\n불안·우울 신호일 수도",
-          "body": "생성형 AI에 건강을 묻는 청년은 불안·우울 선별 양성 가능성이 더 높다.",
-          "mini_headline": "AI 건강 질문과 불안",
+          "headline": "자율 AI, 피부과 진료\n수천 건 확보할 수도",
+          "body": "8,391명 연구에서 AI가 16개월간 진료 8,500건 넘게 비울 수 있었다.",
+          "mini_headline": "AI, 피부과 진료 여력 확보",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Florida 연구자 Yusen Zhai가 이끈 새 연구에 따르면, 생성형 인공지능으로 건강 관련 질문을 하는 청년은 그렇지 않은 청년보다 임상적으로 유의한 불안과 우울 선별검사에서 양성이 나올 가능성이 더 높다. 연구는 Journal of Counseling & Development에 실렸다."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+                "cap": "출처: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "연구는 100,000명 가까운 청년의 데이터를 분석했다. ChatGPT나 Claude 같은 생성형 AI 도구로 건강 질문을 한 사람은 불안과 우울 선별검사 양성 확률이 각각 52%, 46% 더 높았다. 이 결과는 연관성을 보여 줄 뿐, AI 사용이 불안이나 우울을 일으킨다는 점을 입증하지는 않는다."
+                "x": "EADV Congress 2026에서 발표된 환자 8,391명 대상 실제 환경(real-world) 연구에 따르면, 자율 AI는 16개월 동안 U.K. 병원 두 곳에서 대면(face-to-face) 피부과 진료를 8,500건 넘게 추가할 수 있는 여력을 만들어 낼 수 있었다."
               },
               {
                 "t": "p",
-                "x": "가능한 패턴 하나는 이렇다. 누군가 안심하려고 AI에 묻고, 답을 받은 뒤, 더 많은 질문을 품게 된다. “이런 반복 순환은 반추, 건강 불안, 그 밖의 고통을 강화할 수 있다”고 Zhai는 말했다."
+                "x": "CE-marked Class III AI 의료기기가 스마트폰으로 찍은 피부 병변 사진을 분류해, 양성 사례는 자율적으로 퇴원 처리하고 위험이 더 높은(higher-risk) 사례는 원격 피부과 전문의 검토로 넘겼다. AI는 두 병원에서 각각 환자의 31%와 25%를 임상의 검토 없이 퇴원 처리했다."
               },
               {
                 "t": "p",
-                "x": "데이터는 2023년부터 2024년까지 수집됐기에 이번 결과는 초기 신호로 볼 수 있다. “문제는 생성형 AI 자체가 아니다”라고 Zhai는 말했다. “‘어떻게’의 문제, 즉 사람들이 그것을 어떻게 쓰느냐의 문제다.”"
+                "x": "이 진료 경로는 임상의 시간 2,851시간을 아끼고 진료 역량을 약 62% 늘리며, 생검 비율을 43%에서 27%로 낮춘 것으로 추산됐다."
+              },
+              {
+                "t": "p",
+                "x": "전국 데이터셋에서 침윤성 흑색종, SCC, BCC에 대한 민감도는 98%를 넘었다. 시판 후(post-market) 감시에서 위음성 여섯 건이 발견됐으나 확인된 부작용은 없었다. 주저자 Dr. Lucy Thomas는 \"AI 시스템을 안전하게 배치하는 일은 일회성(one-off) 작업이 아니다\"라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIに健康を尋ねるのは\n不安やうつのサインか",
-          "body": "生成AIに健康を尋ねる若者は、不安とうつのスクリーニングで陽性になりやすい。",
-          "mini_headline": "AIへの健康相談と不安",
+          "headline": "自律型AI、皮膚科の\n予約枠を数千件空けうる",
+          "body": "8,391人の研究で、AIは16カ月に皮膚科予約8,500件超を空けうると示された。",
+          "mini_headline": "AIが皮膚科の予約枠を空ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Floridaの研究者Yusen Zhaiが主導し、Journal of Counseling & Developmentに掲載された新たな研究によると、生成人工知能を使って健康に関する質問をする若者は、そうでない若者に比べ、臨床的に有意な不安とうつのスクリーニングで陽性となる可能性が高い。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+                "cap": "クレジット: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "研究では100,000人近い若者のデータを分析した。ChatGPTやClaudeなどの生成AIツールを健康に関する質問に使った人は、不安とうつのスクリーニングで陽性となるオッズがそれぞれ52%、46%高かった。この結果は関連を示すものであり、AIの利用が不安やうつを引き起こすことを立証するものではない。"
+                "x": "EADV Congress 2026で発表された患者8,391人の実臨床（real-world）研究によると、自律型AIはU.K.の病院二つで16カ月にわたり、対面（face-to-face）の皮膚科診察を8,500件以上追加できるだけの余力を生み出しうる。"
               },
               {
                 "t": "p",
-                "x": "考えられるパターンの一つはこうだ。安心を求めてAIに尋ね、答えを得ると、さらに疑問が増えていく。「そうした繰り返しのサイクルが、反すうや健康不安、その他の苦痛を強める可能性がある」とZhaiは述べた。"
+                "x": "CE-marked（CEマーク取得）のClass III AI医療機器がスマートフォンで撮影した皮膚病変の画像を分類し、良性例は自律的に退院させ、高リスク（higher-risk）例は遠隔皮膚科医の確認に回した。AIは二つの病院で、それぞれ患者の31%と25%を臨床医の確認なしに退院させた。"
               },
               {
                 "t": "p",
-                "x": "データは2023年から2024年にかけて収集されたもので、今回の結果は初期の兆候といえる。「問題は生成AIそのものではない」とZhaiは言う。「『どのように』という問題、つまり人々がそれをどう使うかだ」"
+                "x": "この経路により臨床医の時間を2,851時間節約し、診療能力を約62%高め、生検率を43%から27%に下げたと推定された。"
+              },
+              {
+                "t": "p",
+                "x": "全国データセットでは、浸潤性黒色腫、SCC、BCCに対する感度が98%を超えた。市販後（post-market）調査で偽陰性が六件見つかったが、有害な転帰は確認されなかった。筆頭著者のDr. Lucy Thomasは「AIシステムを安全に導入するのは一度きり（one-off）の作業ではない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "向AI询问健康问题\n或是焦虑抑郁信号",
-          "body": "向生成式AI询问健康问题的年轻人，焦虑和抑郁筛查呈阳性的可能性更高。",
-          "mini_headline": "AI健康咨询与焦虑",
+          "headline": "自主AI或为皮肤科\n腾出数千个预约",
+          "body": "一项涉及8,391名患者的研究显示，自主AI可在16个月内腾出逾8,500个皮肤科预约。",
+          "mini_headline": "AI为皮肤科腾出预约",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "University of Florida研究人员Yusen Zhai领导的一项新研究发表于Journal of Counseling & Development。研究显示，使用生成式人工智能询问健康相关问题的年轻人，在具有临床意义的焦虑和抑郁筛查中呈阳性的可能性高于不这样做的人。"
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "该研究分析了近100,000名年轻人的数据。使用ChatGPT或Claude等生成式AI工具询问健康问题的人，焦虑和抑郁筛查呈阳性的几率分别高出52%和46%。这些发现显示的是关联，并不能证明使用AI会导致焦虑或抑郁。"
+                "x": "一项在EADV Congress 2026上发表、涉及8,391名患者的真实世界（real-world）研究发现，在16个月里，自主AI可为两家U.K.医院腾出足够产能，新增逾8,500次面对面（face-to-face）皮肤科门诊。"
               },
               {
                 "t": "p",
-                "x": "一种可能的模式是：一个人向AI寻求安慰，得到回答，随后又冒出更多问题。“这种反复循环可能会加剧反刍思维、健康焦虑或其他困扰。”Zhai说。"
+                "x": "一款带CE-marked认证的Class III AI医疗器械对智能手机拍摄的皮损图像进行分类，自主让良性病例出院，并将风险较高（higher-risk）的病例转交远程皮肤科医生审核。在两家医院，AI分别在无临床医生审核的情况下让31%和25%的患者出院。"
               },
               {
                 "t": "p",
-                "x": "数据收集于2023年至2024年，因此这些发现只是早期迹象。“问题不在于生成式AI本身，”Zhai说，“而在于‘如何’的问题——人们如何使用它。”"
+                "x": "据估算，这一路径节省了2,851小时临床医生时间，产能提升约62%，活检率从43%降至27%。"
+              },
+              {
+                "t": "p",
+                "x": "在一个全国数据集中，对浸润性黑色素瘤、SCC和BCC的敏感度超过98%。上市后（post-market）监测发现六例假阴性，未发现不良结局。第一作者Dr. Lucy Thomas说：“安全部署AI系统不是一次性（one-off）的工作。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Preguntar a la AI por salud se\nasocia a ansiedad y depresión",
-          "body": "Los jóvenes que consultan a la AI generativa sobre salud dan positivo con más frecuencia en ansiedad y depresión.",
-          "mini_headline": "Consultas de salud a la AI y ansiedad",
+          "headline": "La AI autónoma podría liberar\nmiles de citas de dermatología",
+          "body": "En un estudio con 8,391 pacientes, la AI autónoma podría liberar más de 8,500 citas dermatológicas en 16 meses.",
+          "mini_headline": "La AI libera citas de dermatología",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los adultos jóvenes que usan inteligencia artificial generativa para hacer preguntas relacionadas con la salud tienen más probabilidades de dar positivo en el cribado de ansiedad y depresión clínicamente significativas que quienes no lo hacen, según un nuevo estudio dirigido por el investigador de la University of Florida Yusen Zhai y publicado en el Journal of Counseling & Development."
-              },
-              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2023/chatgpt-11.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "El estudio analizó datos de casi 100,000 adultos jóvenes. Las probabilidades de dar positivo en ansiedad y depresión fueron un 52% y un 46% mayores, respectivamente, entre quienes usaron herramientas de AI generativa como ChatGPT o Claude para consultas de salud. Los resultados muestran una asociación; no demuestran que el uso de la AI cause ansiedad o depresión."
+                "x": "Un estudio en condiciones reales (real-world) con 8,391 pacientes, presentado en el EADV Congress 2026, halló que la AI autónoma podría liberar capacidad suficiente para más de 8,500 consultas dermatológicas presenciales (face-to-face) adicionales en dos hospitales de U.K. a lo largo de 16 meses."
               },
               {
                 "t": "p",
-                "x": "Un patrón posible: una persona pide a la AI que la tranquilice, obtiene una respuesta y luego le surgen más preguntas. \"Ese tipo de ciclo repetido podría reforzar la rumiación, la ansiedad por la salud u otros malestares\", dijo Zhai."
+                "x": "Un dispositivo médico de AI Class III con marcado CE (CE-marked) clasificó imágenes de lesiones cutáneas tomadas con smartphone, dio de alta de forma autónoma los casos benignos y derivó los de mayor riesgo (higher-risk) a revisión por teledermatólogos. La AI dio de alta al 31% y al 25% de los pacientes en los dos hospitales sin revisión de un clínico."
               },
               {
                 "t": "p",
-                "x": "Los datos se recogieron entre 2023 y 2024, por lo que los resultados son un indicio temprano. \"El problema no es la AI generativa en sí\", dijo Zhai. \"Es la cuestión del 'cómo': cómo la usan las personas\"."
+                "x": "Se estimó que la vía ahorró 2,851 horas de tiempo clínico, un aumento de capacidad de alrededor del 62%, y redujo la tasa de biopsias del 43% al 27%."
+              },
+              {
+                "t": "p",
+                "x": "En un conjunto de datos nacional, la sensibilidad superó el 98% para melanoma invasivo, SCC y BCC. La vigilancia poscomercialización (post-market) detectó seis falsos negativos, sin resultados adversos identificados. \"Desplegar un sistema de AI de forma segura no es un ejercicio puntual (one-off)\", dijo la autora principal, Dr. Lucy Thomas."
               }
             ]
           }
@@ -969,15 +1049,15 @@
       }
     },
     {
-      "id": "instructmesh-mit-3d-repair",
+      "id": "copenhagen-chatbots-knowledge-collapse-study",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "InstructMesh로\nAI 3D 모델 고쳐 출력",
-      "body": "MIT의 InstructMesh로 3D 모델 일부를 고쳐 쓸모 있게 출력한다.",
-      "mini_headline": "InstructMesh, AI 3D 모델 수정",
+      "headline": "AI 챗봇의 지식,\n검색보다 좁다",
+      "body": "155개 주제를 시험하니 챗봇 답의 다양성은 Google 검색에 크게 못 미쳤다.",
+      "mini_headline": "챗봇이 좁히는 지식",
       "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -985,345 +1065,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-            "cap": "InstructMesh AI 도구로 머그컵 같은 물체의 3D 디자인을 만든 뒤, 3D 프린팅 전에 다듬고 싶은 부분을 강조 표시할 수 있다."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+            "cap": "출처: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "AI 모델은 물체의 겉모습은 알아도 작동 원리는 몰라서 쓰기 힘든 디자인을 내놓곤 한다. 만든 모델은 고치기도 어려운데, 3D 디자인이 처음인 사용자라면 더하다."
+            "x": "대규모 언어 모델이 내놓는 정보는 일반 웹 검색보다 폭이 크게 좁다. 코펜하겐대학교(University of Copenhagen) 컴퓨터과학과(DIKU)가 이끈 연구의 결론이다. 논문은 EMNLP 2026에서 발표된다."
           },
           {
             "t": "p",
-            "x": "MIT CSAIL, Google, Northeastern University 연구진이 개발한 InstructMesh는 프롬프트로 3D 디자인을 만들고, 3D 프린팅 전에 손보고 싶은 부분을 사용자가 강조 표시하게 한다. 텍스트·이미지 프롬프트로 3D 모델을 만드는 Microsoft의 TRELLIS 시스템에 LLM GPT-4를 붙였다."
+            "x": "연구팀은 27개 모델에 155개 주제를 묻고, 주제마다 프롬프트 표현을 200가지로 바꿔 가며 약 7000만 개의 주장을 모았다. 가장 다양한 정보를 낸 OpenAI의 GPT-5도 Google보다 최소 18.7% 덜 다양했다."
           },
           {
             "t": "p",
-            "x": "연구팀은 용이 감싼 머그컵, 조개껍데기 모양 호루라기, 나비 날개 안경, 데님처럼 보이는 무릎 보호대, 모터를 숨긴 새우 모양 ‘브리슬 봇(bristle bot)’을 만들었다."
+            "x": "현재 Aalborg University에 있는 제1저자 Dustin Wright는 \"사람들은 상당 부분 같은 정보에 거듭 노출되고 있다\"고 말한다."
           },
           {
             "t": "p",
-            "x": "TRELLIS로 인기 Thingiverse 모델을 재현했더니 80퍼센트 가까이에서 구조적 결함이 나왔다. 전문가 검토 결과, 초보자들은 InstructMesh에서 약 90퍼센트의 경우 이런 문제를 찾아내 고쳤다."
-          },
-          {
-            "t": "p",
-            "x": "“보는 대로 얻었고, 말하자면 물건들이 광고한 대로 작동했다”고 제1저자 Faraz Faruqi는 말했다. 지금 Google에 있는 Faruqi는 InstructMesh를 AR 플랫폼으로 옮겨 갈 수도 있다. 이 연구는 11월 ACM Symposium on User Interface Software and Technology에서 발표된다."
+            "x": "모델은 학습 텍스트를 압축하는 과정에서 드문 패턴을 걸러낸다. AI-generated 텍스트로 학습하는 일이 잦아지면 정보의 폭은 세대를 거치며 좁아질 수 있다. 연구진은 이 위험을 \"지식 붕괴(knowledge collapse)\"라 부른다. 다만 교신저자 Isabelle Augenstein은 최신 모델이 조금 더 다양해진 만큼 아직 그런 일이 벌어지지는 않는다고 짚는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "InstructMesh edits AI 3D models\ninto objects you can print",
-          "body": "MIT's InstructMesh lets users prompt a 3D model, then edit specific parts before 3D printing a working object.",
-          "mini_headline": "InstructMesh fixes AI 3D models",
+          "headline": "AI chatbots offer a narrow\nslice of knowledge, study warns",
+          "body": "Across 155 topics, chatbots gave significantly less diverse information than Google search, a Copenhagen study found.",
+          "mini_headline": "Chatbots narrow what we know",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-                "cap": "The InstructMesh AI tool can be prompted to generate a 3D design for an object such as a mug, and then users can highlight specific parts of the blueprint they’d like refined before 3D printing."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "AI models understand how an object should look, but not how it works, leading to impractical designs — and the models are typically hard to edit, especially for users new to 3D design."
+                "x": "A study led by the Department of Computer Science (DIKU) at the University of Copenhagen finds that large language models give a significantly narrower range of information than a conventional web search. It will be presented at EMNLP 2026."
               },
               {
                 "t": "p",
-                "x": "InstructMesh, developed by researchers at MIT CSAIL, Google, and Northeastern University, can be prompted to generate a 3D design, and users can then highlight specific parts they’d like refined before 3D printing. It pairs Microsoft’s TRELLIS system, which creates 3D models from text and image prompts, with the LLM GPT-4."
+                "x": "The team tested 27 models on 155 topics with 200 prompt formulations each, producing around 70 million claims. Even the most diverse model, OpenAI's GPT-5, gave at least 18.7% less varied information than Google."
               },
               {
                 "t": "p",
-                "x": "The team made a dragon-wrapped mug, a shell-like whistle, butterfly-winged glasses, a denim-look knee brace and a shrimp-like “bristle bot” with a hidden motor."
+                "x": "\"People are to a large extent exposed to the same information over and over again,\" says first author Dustin Wright, now at Aalborg University."
               },
               {
                 "t": "p",
-                "x": "When TRELLIS recreated popular Thingiverse models, nearly 80 percent were structurally flawed. Novices identified and fixed these issues in InstructMesh around 90 percent of the time, as reviewed by an expert."
-              },
-              {
-                "t": "p",
-                "x": "“What they saw is what they got, and the items worked as advertised, so to speak,” says lead author Faraz Faruqi, now at Google, who may bring InstructMesh to an AR platform. The work will be presented at the ACM Symposium on User Interface Software and Technology in November."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "InstructMesh로\nAI 3D 모델 고쳐 출력",
-          "body": "MIT의 InstructMesh로 3D 모델 일부를 고쳐 쓸모 있게 출력한다.",
-          "mini_headline": "InstructMesh, AI 3D 모델 수정",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-                "cap": "InstructMesh AI 도구로 머그컵 같은 물체의 3D 디자인을 만든 뒤, 3D 프린팅 전에 다듬고 싶은 부분을 강조 표시할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "AI 모델은 물체의 겉모습은 알아도 작동 원리는 몰라서 쓰기 힘든 디자인을 내놓곤 한다. 만든 모델은 고치기도 어려운데, 3D 디자인이 처음인 사용자라면 더하다."
-              },
-              {
-                "t": "p",
-                "x": "MIT CSAIL, Google, Northeastern University 연구진이 개발한 InstructMesh는 프롬프트로 3D 디자인을 만들고, 3D 프린팅 전에 손보고 싶은 부분을 사용자가 강조 표시하게 한다. 텍스트·이미지 프롬프트로 3D 모델을 만드는 Microsoft의 TRELLIS 시스템에 LLM GPT-4를 붙였다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 용이 감싼 머그컵, 조개껍데기 모양 호루라기, 나비 날개 안경, 데님처럼 보이는 무릎 보호대, 모터를 숨긴 새우 모양 ‘브리슬 봇(bristle bot)’을 만들었다."
-              },
-              {
-                "t": "p",
-                "x": "TRELLIS로 인기 Thingiverse 모델을 재현했더니 80퍼센트 가까이에서 구조적 결함이 나왔다. 전문가 검토 결과, 초보자들은 InstructMesh에서 약 90퍼센트의 경우 이런 문제를 찾아내 고쳤다."
-              },
-              {
-                "t": "p",
-                "x": "“보는 대로 얻었고, 말하자면 물건들이 광고한 대로 작동했다”고 제1저자 Faraz Faruqi는 말했다. 지금 Google에 있는 Faruqi는 InstructMesh를 AR 플랫폼으로 옮겨 갈 수도 있다. 이 연구는 11월 ACM Symposium on User Interface Software and Technology에서 발표된다."
+                "x": "Models compress their training text and filter out less common patterns. If they increasingly train on AI-generated text, the range could narrow over generations, a risk the researchers call \"knowledge collapse.\" Senior author Isabelle Augenstein notes newer models are slightly more diverse, so it is not happening yet."
               }
             ]
           }
         },
         "ja": {
-          "headline": "InstructMesh、\nAI製3Dを印刷可能に",
-          "body": "MITのInstructMeshは3Dモデルの一部を直し、使える物として印刷できる。",
-          "mini_headline": "InstructMeshでAI 3Dを修正",
+          "headline": "AIチャットボットの\n知識は狭い、研究が警鐘",
+          "body": "155のテーマで、チャットボットの情報はGoogle検索より多様性が大幅に低かった。",
+          "mini_headline": "チャットボットが狭める知識",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-                "cap": "InstructMesh AIツールにマグカップなどの物体の3Dデザインを生成させた後、ユーザーは3Dプリントの前に改善したい設計図の特定部分をハイライトできる。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+                "cap": "クレジット: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "AIモデルは物体がどう見えるべきかは理解しているが、どう機能するかは理解しておらず、実用的でないデザインにつながる。しかもモデルは概して編集しにくく、3Dデザインに不慣れなユーザーにとってはなおさらだ。"
+                "x": "University of Copenhagenのコンピューターサイエンス学科（DIKU）が主導した研究によると、大規模言語モデルが示す情報の幅は、従来のウェブ検索よりかなり狭い。研究はEMNLP 2026で発表される。"
               },
               {
                 "t": "p",
-                "x": "MIT CSAIL、Google、Northeastern Universityの研究者が開発したInstructMeshは、プロンプトで3Dデザインを生成でき、ユーザーは3Dプリントの前に改善したい特定部分をハイライトできる。テキストや画像のプロンプトから3Dモデルを作るMicrosoftのTRELLISシステムと、LLMのGPT-4を組み合わせている。"
+                "x": "チームは27のモデルを155のテーマでそれぞれ200通りのプロンプトを用いて検証し、約70百万件の主張を得た。最も多様なモデルであるOpenAIのGPT-5でさえ、情報の多様性はGoogleより少なくとも18.7%低かった。"
               },
               {
                 "t": "p",
-                "x": "チームは、竜が巻きついたマグカップ、貝殻のような笛、蝶の羽をかたどった眼鏡、デニム風の膝サポーター、モーターを内蔵したエビのような「ブリッスルボット(bristle bot)」を作った。"
+                "x": "「人々はかなりの程度、同じ情報に何度も繰り返しさらされている」と、現在Aalborg Universityに所属する筆頭著者のDustin Wrightは言う。"
               },
               {
                 "t": "p",
-                "x": "TRELLISで人気のThingiverseモデルを再現したところ、80パーセント近くに構造上の欠陥があった。専門家の確認によると、初心者はInstructMeshを使って約90パーセントのケースでこうした問題を見つけて修正した。"
-              },
-              {
-                "t": "p",
-                "x": "「見たとおりのものが手に入り、いわば宣伝どおりに物が機能した」と筆頭著者のFaraz Faruqiは語る。現在Googleに在籍する彼は、InstructMeshをARプラットフォームに持ち込む可能性がある。この研究は11月のACM Symposium on User Interface Software and Technologyで発表される。"
+                "x": "モデルは学習テキストを圧縮し、あまり一般的でないパターンを取り除く。AI-generatedテキストでの学習が増えれば、世代を重ねるごとに幅が狭まりうる。研究者はこのリスクを「知識の崩壊」と呼ぶ。責任著者のIsabelle Augensteinは、新しいモデルほどわずかに多様性が高いため、まだそれは起きていないと指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "InstructMesh\n让AI 3D模型可打印",
-          "body": "MIT的InstructMesh让用户先修改3D模型的特定部分，再打印出可用物体。",
-          "mini_headline": "InstructMesh修复AI 3D模型",
+          "headline": "研究警告AI聊天机器人\n提供的知识面偏窄",
+          "body": "Copenhagen研究发现，155个主题中聊天机器人的信息远不如Google搜索多样。",
+          "mini_headline": "聊天机器人收窄知识面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-                "cap": "可以提示InstructMesh AI工具为马克杯等物体生成3D设计，随后用户可在3D打印前高亮标出蓝图中希望改进的特定部分。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "AI模型知道物体应该是什么样子，却不懂它如何运作，因而生成不实用的设计——而且这些模型通常难以编辑，对3D设计新手来说尤其如此。"
+                "x": "由University of Copenhagen计算机科学系（DIKU）牵头的研究发现，大语言模型提供的信息范围明显比常规网络搜索窄。该研究将在EMNLP 2026上发表。"
               },
               {
                 "t": "p",
-                "x": "InstructMesh由MIT CSAIL、Google和Northeastern University的研究人员开发，可根据提示生成3D设计，用户随后可在3D打印前高亮标出想要改进的特定部分。它将可根据文本和图像提示创建3D模型的Microsoft TRELLIS系统与LLM GPT-4结合在一起。"
+                "x": "团队在155个主题上测试了27个模型，每个主题使用200种提示表述，共产生约70百万条陈述。即便是最多样的模型OpenAI的GPT-5，其信息多样性也比Google低至少18.7%。"
               },
               {
                 "t": "p",
-                "x": "团队制作了龙身缠绕的马克杯、贝壳状口哨、蝴蝶翅膀眼镜、牛仔布外观的护膝，以及藏有电机的虾形“刷毛机器人”（bristle bot）。"
+                "x": "现任职于Aalborg University的第一作者Dustin Wright表示：“人们在很大程度上一再接触同样的信息。”"
               },
               {
                 "t": "p",
-                "x": "TRELLIS重建热门Thingiverse模型时，近80%存在结构缺陷。经专家审核，新手在InstructMesh中约有90%的时候能发现并修复这些问题。"
-              },
-              {
-                "t": "p",
-                "x": "“所见即所得，可以说这些物品都像宣传的那样好用。”第一作者Faraz Faruqi说。他目前任职于Google，未来可能将InstructMesh带到AR平台。该研究将于11月在ACM Symposium on User Interface Software and Technology上发表。"
+                "x": "模型会压缩训练文本，并过滤掉不太常见的模式。如果模型越来越多地用AI-generated文本训练，信息范围可能随代际收窄，研究人员称这一风险为“知识坍塌”。资深作者Isabelle Augenstein指出，较新的模型多样性略高，因此这种情况尚未发生。"
               }
             ]
           }
         },
         "es": {
-          "headline": "InstructMesh convierte modelos\n3D de AI en objetos imprimibles",
-          "body": "InstructMesh, del MIT, permite generar un modelo 3D y editar partes concretas antes de imprimir un objeto funcional.",
-          "mini_headline": "InstructMesh corrige modelos 3D de AI",
+          "headline": "Los chatbots de AI dan una\nvisión estrecha del saber",
+          "body": "Un estudio de Copenhagen halló que en 155 temas los chatbots dan información mucho menos diversa que Google.",
+          "mini_headline": "Los chatbots estrechan el saber",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-                "cap": "A la herramienta de AI InstructMesh se le puede pedir que genere un diseño 3D de un objeto como una taza, y luego los usuarios pueden resaltar las partes concretas del plano que quieren refinar antes de la impresión 3D."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Los modelos de AI entienden cómo debe verse un objeto, pero no cómo funciona, lo que da lugar a diseños poco prácticos; además, suelen ser difíciles de editar, sobre todo para usuarios nuevos en el diseño 3D."
+                "x": "Un estudio dirigido por el Departamento de Ciencias de la Computación (DIKU) de la University of Copenhagen concluye que los grandes modelos de lenguaje ofrecen un abanico de información mucho más estrecho que una búsqueda web convencional. Se presentará en EMNLP 2026."
               },
               {
                 "t": "p",
-                "x": "InstructMesh, desarrollado por investigadores de MIT CSAIL, Google y Northeastern University, puede generar un diseño 3D a partir de una instrucción, y los usuarios pueden después resaltar las partes concretas que desean refinar antes de la impresión 3D. Combina el sistema TRELLIS de Microsoft, que crea modelos 3D a partir de instrucciones de texto e imagen, con el LLM GPT-4."
+                "x": "El equipo probó 27 modelos en 155 temas con 200 formulaciones de prompt cada uno, lo que generó unos 70 millones de afirmaciones. Incluso el modelo más diverso, GPT-5 de OpenAI, ofreció al menos un 18.7% menos de variedad informativa que Google."
               },
               {
                 "t": "p",
-                "x": "El equipo fabricó una taza envuelta por un dragón, un silbato en forma de concha, unas gafas con alas de mariposa, una rodillera con aspecto de tela vaquera y un \"bristle bot\" con forma de camarón y un motor oculto."
+                "x": "\"La gente está expuesta en gran medida a la misma información una y otra vez\", afirma el primer autor, Dustin Wright, ahora en Aalborg University."
               },
               {
                 "t": "p",
-                "x": "Cuando TRELLIS recreó modelos populares de Thingiverse, casi el 80 por ciento tenía fallos estructurales. Los principiantes detectaron y corrigieron estos problemas en InstructMesh alrededor del 90 por ciento de las veces, según la revisión de un experto."
+                "x": "Los modelos comprimen su texto de entrenamiento y filtran los patrones menos comunes. Si se entrenan cada vez más con texto AI-generated, el abanico podría estrecharse con cada generación, un riesgo que los investigadores llaman \"colapso del conocimiento\". La autora sénior Isabelle Augenstein señala que los modelos más nuevos son algo más diversos, así que eso aún no ocurre."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 챗봇의 지식,\n검색보다 좁다",
+          "body": "155개 주제를 시험하니 챗봇 답의 다양성은 Google 검색에 크게 못 미쳤다.",
+          "mini_headline": "챗봇이 좁히는 지식",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+                "cap": "출처: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "\"Lo que vieron es lo que obtuvieron, y los objetos funcionaron según lo prometido, por así decirlo\", afirma el autor principal, Faraz Faruqi, ahora en Google, que podría llevar InstructMesh a una plataforma de AR. El trabajo se presentará en el ACM Symposium on User Interface Software and Technology en noviembre."
+                "x": "대규모 언어 모델이 내놓는 정보는 일반 웹 검색보다 폭이 크게 좁다. 코펜하겐대학교(University of Copenhagen) 컴퓨터과학과(DIKU)가 이끈 연구의 결론이다. 논문은 EMNLP 2026에서 발표된다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 27개 모델에 155개 주제를 묻고, 주제마다 프롬프트 표현을 200가지로 바꿔 가며 약 7000만 개의 주장을 모았다. 가장 다양한 정보를 낸 OpenAI의 GPT-5도 Google보다 최소 18.7% 덜 다양했다."
+              },
+              {
+                "t": "p",
+                "x": "현재 Aalborg University에 있는 제1저자 Dustin Wright는 \"사람들은 상당 부분 같은 정보에 거듭 노출되고 있다\"고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "모델은 학습 텍스트를 압축하는 과정에서 드문 패턴을 걸러낸다. AI-generated 텍스트로 학습하는 일이 잦아지면 정보의 폭은 세대를 거치며 좁아질 수 있다. 연구진은 이 위험을 \"지식 붕괴(knowledge collapse)\"라 부른다. 다만 교신저자 Isabelle Augenstein은 최신 모델이 조금 더 다양해진 만큼 아직 그런 일이 벌어지지는 않는다고 짚는다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "InstructMesh로\nAI 3D 모델을 출력까지",
-          "body": "MIT의 InstructMesh로 3D 모델 일부를 고쳐 쓸모 있게 출력한다.",
-          "mini_headline": "InstructMesh, AI 3D 모델 수정",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-                "cap": "InstructMesh AI 도구에 머그컵 같은 물체의 3D 디자인을 만들라고 지시하면, 사용자는 3D 프린팅 전에 다듬고 싶은 설계도의 특정 부분을 강조 표시할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "AI 모델은 물체가 어떻게 보여야 하는지는 알지만 어떻게 작동하는지는 이해하지 못해 비실용적인 디자인을 내놓는다. 게다가 모델은 대개 수정하기 어렵고, 3D 디자인이 처음인 사용자에게는 더욱 그렇다."
-              },
-              {
-                "t": "p",
-                "x": "MIT CSAIL, Google, Northeastern University 연구진이 개발한 InstructMesh는 프롬프트로 3D 디자인을 생성하고, 사용자가 3D 프린팅 전에 다듬고 싶은 특정 부분을 강조 표시하게 해 준다. 텍스트와 이미지 프롬프트로 3D 모델을 만드는 Microsoft의 TRELLIS 시스템을 LLM GPT-4와 짝지었다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 용이 감싼 머그컵, 조개껍데기 모양 호루라기, 나비 날개 안경, 데님처럼 보이는 무릎 보호대, 모터를 숨긴 새우 모양 ‘브리슬 봇(bristle bot)’을 만들었다."
-              },
-              {
-                "t": "p",
-                "x": "TRELLIS로 인기 Thingiverse 모델을 재현하자 80퍼센트 가까이가 구조적 결함을 보였다. 전문가 검토 결과, 초보자들은 InstructMesh에서 약 90퍼센트의 경우 이런 문제를 찾아 고쳤다."
-              },
-              {
-                "t": "p",
-                "x": "“보는 대로 얻었고, 말하자면 물건들이 광고한 대로 작동했다”고 제1저자 Faraz Faruqi는 말했다. 지금은 Google에 있는 그는 InstructMesh를 AR 플랫폼으로 가져갈 수도 있다. 이 연구는 11월 ACM Symposium on User Interface Software and Technology에서 발표된다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "InstructMesh、\nAI製3Dを印刷可能に",
-          "body": "MITのInstructMeshは3Dモデルの一部を直し、使える物として印刷できる。",
-          "mini_headline": "InstructMeshでAI 3Dを修正",
+          "headline": "AIチャットボットの\n知識は狭い、研究が警鐘",
+          "body": "155のテーマで、チャットボットの情報はGoogle検索より多様性が大幅に低かった。",
+          "mini_headline": "チャットボットが狭める知識",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-                "cap": "InstructMesh AIツールにマグカップなどの物体の3Dデザインを生成させた後、ユーザーは3Dプリントの前に改善したい設計図の特定部分をハイライトできる。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+                "cap": "クレジット: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "AIモデルは物体がどう見えるべきかは理解しているが、どう機能するかは理解しておらず、実用的でないデザインにつながる。しかもモデルは概して編集しにくく、3Dデザインに不慣れなユーザーにとってはなおさらだ。"
+                "x": "University of Copenhagenのコンピューターサイエンス学科（DIKU）が主導した研究によると、大規模言語モデルが示す情報の幅は、従来のウェブ検索よりかなり狭い。研究はEMNLP 2026で発表される。"
               },
               {
                 "t": "p",
-                "x": "MIT CSAIL、Google、Northeastern Universityの研究者が開発したInstructMeshは、プロンプトで3Dデザインを生成でき、ユーザーは3Dプリントの前に改善したい特定部分をハイライトできる。テキストや画像のプロンプトから3Dモデルを作るMicrosoftのTRELLISシステムと、LLMのGPT-4を組み合わせている。"
+                "x": "チームは27のモデルを155のテーマでそれぞれ200通りのプロンプトを用いて検証し、約70百万件の主張を得た。最も多様なモデルであるOpenAIのGPT-5でさえ、情報の多様性はGoogleより少なくとも18.7%低かった。"
               },
               {
                 "t": "p",
-                "x": "チームは、竜が巻きついたマグカップ、貝殻のような笛、蝶の羽をかたどった眼鏡、デニム風の膝サポーター、モーターを内蔵したエビのような「ブリッスルボット(bristle bot)」を作った。"
+                "x": "「人々はかなりの程度、同じ情報に何度も繰り返しさらされている」と、現在Aalborg Universityに所属する筆頭著者のDustin Wrightは言う。"
               },
               {
                 "t": "p",
-                "x": "TRELLISで人気のThingiverseモデルを再現したところ、80パーセント近くに構造上の欠陥があった。専門家の確認によると、初心者はInstructMeshを使って約90パーセントのケースでこうした問題を見つけて修正した。"
-              },
-              {
-                "t": "p",
-                "x": "「見たとおりのものが手に入り、いわば宣伝どおりに物が機能した」と筆頭著者のFaraz Faruqiは語る。現在Googleに在籍する彼は、InstructMeshをARプラットフォームに持ち込む可能性がある。この研究は11月のACM Symposium on User Interface Software and Technologyで発表される。"
+                "x": "モデルは学習テキストを圧縮し、あまり一般的でないパターンを取り除く。AI-generatedテキストでの学習が増えれば、世代を重ねるごとに幅が狭まりうる。研究者はこのリスクを「知識の崩壊」と呼ぶ。責任著者のIsabelle Augensteinは、新しいモデルほどわずかに多様性が高いため、まだそれは起きていないと指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "InstructMesh\n让AI 3D模型可打印",
-          "body": "MIT的InstructMesh让用户先修改3D模型的特定部分，再打印出可用物体。",
-          "mini_headline": "InstructMesh修复AI 3D模型",
+          "headline": "研究警告AI聊天机器人\n提供的知识面偏窄",
+          "body": "Copenhagen研究发现，155个主题中聊天机器人的信息远不如Google搜索多样。",
+          "mini_headline": "聊天机器人收窄知识面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-                "cap": "可以提示InstructMesh AI工具为马克杯等物体生成3D设计，随后用户可在3D打印前高亮标出蓝图中希望改进的特定部分。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "AI模型知道物体应该是什么样子，却不懂它如何运作，因而生成不实用的设计——而且这些模型通常难以编辑，对3D设计新手来说尤其如此。"
+                "x": "由University of Copenhagen计算机科学系（DIKU）牵头的研究发现，大语言模型提供的信息范围明显比常规网络搜索窄。该研究将在EMNLP 2026上发表。"
               },
               {
                 "t": "p",
-                "x": "InstructMesh由MIT CSAIL、Google和Northeastern University的研究人员开发，可根据提示生成3D设计，用户随后可在3D打印前高亮标出想要改进的特定部分。它将可根据文本和图像提示创建3D模型的Microsoft TRELLIS系统与LLM GPT-4结合在一起。"
+                "x": "团队在155个主题上测试了27个模型，每个主题使用200种提示表述，共产生约70百万条陈述。即便是最多样的模型OpenAI的GPT-5，其信息多样性也比Google低至少18.7%。"
               },
               {
                 "t": "p",
-                "x": "团队制作了龙身缠绕的马克杯、贝壳状口哨、蝴蝶翅膀眼镜、牛仔布外观的护膝，以及藏有电机的虾形“刷毛机器人”（bristle bot）。"
+                "x": "现任职于Aalborg University的第一作者Dustin Wright表示：“人们在很大程度上一再接触同样的信息。”"
               },
               {
                 "t": "p",
-                "x": "TRELLIS重建热门Thingiverse模型时，近80%存在结构缺陷。经专家审核，新手在InstructMesh中约有90%的时候能发现并修复这些问题。"
-              },
-              {
-                "t": "p",
-                "x": "“所见即所得，可以说这些物品都像宣传的那样好用。”第一作者Faraz Faruqi说。他目前任职于Google，未来可能将InstructMesh带到AR平台。该研究将于11月在ACM Symposium on User Interface Software and Technology上发表。"
+                "x": "模型会压缩训练文本，并过滤掉不太常见的模式。如果模型越来越多地用AI-generated文本训练，信息范围可能随代际收窄，研究人员称这一风险为“知识坍塌”。资深作者Isabelle Augenstein指出，较新的模型多样性略高，因此这种情况尚未发生。"
               }
             ]
           }
         },
         "es": {
-          "headline": "InstructMesh convierte modelos\n3D de AI en objetos imprimibles",
-          "body": "InstructMesh, del MIT, permite generar un modelo 3D y editar partes concretas antes de imprimir un objeto funcional.",
-          "mini_headline": "InstructMesh corrige modelos 3D de AI",
+          "headline": "Los chatbots de AI dan una\nvisión estrecha del saber",
+          "body": "Un estudio de Copenhagen halló que en 155 temas los chatbots dan información mucho menos diversa que Google.",
+          "mini_headline": "Los chatbots estrechan el saber",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-                "cap": "A la herramienta de AI InstructMesh se le puede pedir que genere un diseño 3D de un objeto como una taza, y luego los usuarios pueden resaltar las partes concretas del plano que quieren refinar antes de la impresión 3D."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Los modelos de AI entienden cómo debe verse un objeto, pero no cómo funciona, lo que da lugar a diseños poco prácticos; además, suelen ser difíciles de editar, sobre todo para usuarios nuevos en el diseño 3D."
+                "x": "Un estudio dirigido por el Departamento de Ciencias de la Computación (DIKU) de la University of Copenhagen concluye que los grandes modelos de lenguaje ofrecen un abanico de información mucho más estrecho que una búsqueda web convencional. Se presentará en EMNLP 2026."
               },
               {
                 "t": "p",
-                "x": "InstructMesh, desarrollado por investigadores de MIT CSAIL, Google y Northeastern University, puede generar un diseño 3D a partir de una instrucción, y los usuarios pueden después resaltar las partes concretas que desean refinar antes de la impresión 3D. Combina el sistema TRELLIS de Microsoft, que crea modelos 3D a partir de instrucciones de texto e imagen, con el LLM GPT-4."
+                "x": "El equipo probó 27 modelos en 155 temas con 200 formulaciones de prompt cada uno, lo que generó unos 70 millones de afirmaciones. Incluso el modelo más diverso, GPT-5 de OpenAI, ofreció al menos un 18.7% menos de variedad informativa que Google."
               },
               {
                 "t": "p",
-                "x": "El equipo fabricó una taza envuelta por un dragón, un silbato en forma de concha, unas gafas con alas de mariposa, una rodillera con aspecto de tela vaquera y un \"bristle bot\" con forma de camarón y un motor oculto."
+                "x": "\"La gente está expuesta en gran medida a la misma información una y otra vez\", afirma el primer autor, Dustin Wright, ahora en Aalborg University."
               },
               {
                 "t": "p",
-                "x": "Cuando TRELLIS recreó modelos populares de Thingiverse, casi el 80 por ciento tenía fallos estructurales. Los principiantes detectaron y corrigieron estos problemas en InstructMesh alrededor del 90 por ciento de las veces, según la revisión de un experto."
+                "x": "Los modelos comprimen su texto de entrenamiento y filtran los patrones menos comunes. Si se entrenan cada vez más con texto AI-generated, el abanico podría estrecharse con cada generación, un riesgo que los investigadores llaman \"colapso del conocimiento\". La autora sénior Isabelle Augenstein señala que los modelos más nuevos son algo más diversos, así que eso aún no ocurre."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 챗봇의 지식,\n검색보다 좁다",
+          "body": "155개 주제에서 챗봇은 Google 검색보다 정보 다양성이 크게 낮았다.",
+          "mini_headline": "챗봇이 좁히는 지식",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "\"Lo que vieron es lo que obtuvieron, y los objetos funcionaron según lo prometido, por así decirlo\", afirma el autor principal, Faraz Faruqi, ahora en Google, que podría llevar InstructMesh a una plataforma de AR. El trabajo se presentará en el ACM Symposium on User Interface Software and Technology en noviembre."
+                "x": "코펜하겐대학교(University of Copenhagen) 컴퓨터과학과(DIKU)가 이끈 연구에 따르면 대규모 언어 모델이 내놓는 정보의 폭은 일반 웹 검색보다 크게 좁다. 이 연구는 EMNLP 2026에서 발표된다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 27개 모델을 155개 주제에 대해 주제마다 200가지 프롬프트 표현으로 시험해 약 7000만 개의 주장을 얻었다. 가장 다양한 정보를 낸 OpenAI의 GPT-5 역시 Google보다 최소 18.7% 덜 다양한 정보를 내놓았다."
+              },
+              {
+                "t": "p",
+                "x": "\"사람들은 상당 부분 같은 정보에 거듭 노출되고 있다\"고 현재 Aalborg University에 있는 제1저자 Dustin Wright는 말한다."
+              },
+              {
+                "t": "p",
+                "x": "모델은 학습 텍스트를 압축하면서 드문 패턴을 걸러낸다. 모델이 AI-generated 텍스트로 학습하는 일이 늘어나면 정보의 폭이 세대를 거치며 좁아질 수 있고, 연구진은 이 위험을 \"지식 붕괴(knowledge collapse)\"라 부른다. 교신저자 Isabelle Augenstein은 최신 모델이 조금 더 다양해졌으므로 아직 그런 일이 일어나고 있지는 않다고 짚는다."
               }
             ]
           }
@@ -1331,15 +1371,15 @@
       }
     },
     {
-      "id": "microsoft-quine-biology-world-model",
+      "id": "stanford-ai-benchmarks-measurement-audit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Microsoft가 만드는\n생물학 세계모델 Quine",
-      "body": "Quine은 Microsoft Research의 초기 생물학 세계 모델 연구다.",
-      "mini_headline": "Quine, 생물학을 모델링하다",
+      "headline": "AI를 채점하는 시험이\n틀렸을 수도 있다",
+      "body": "Stanford-led 연구에서 AI 벤치마크 56개는 결과가 자주 엇갈렸다.",
+      "mini_headline": "AI 벤치마크, 잘못 재나",
       "tool": "Science",
-      "source": "Microsoft Research",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -1347,197 +1387,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+            "cap": "출처: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "Microsoft Research가 생물학의 여러 경계를 넘나들도록 설계한 연구 프로젝트 Quine을 내놓았다. Quine은 생물학 세계 모델에, 과학 도구·문헌·습식 실험실(wet lab)·그것을 쓰는 연구자를 잇는 하네스를 결합했다."
-          },
-          {
-            "t": "video",
-            "yt": "ZMJHGeR6GPU"
+            "x": "벤치마크는 추론부터 안전성까지 AI 모델의 모든 면에 점수를 매긴다. 수십억 달러와 정책 결정이 그 결과에 걸려 있다. Stanford 연구진과 협력자들은 새 연구 두 편에서 이 시험들이 내세운 것을 실제로 재는지 따졌다."
           },
           {
             "t": "p",
-            "x": "Microsoft가 말하는 세계 모델은 생물학적 시스템의 상태를 표현하고, 개입하면 그 상태가 어떻게 바뀔지 예측하고, 그 결과를 추론한다. 서열, 구조, 기능, 세포 상태, 이미징 데이터를 아우르는 공유 표현을 학습하지만, 실험을 대신하지는 않는다."
+            "x": "연구진은 측정 과학과 심리측정학의 도구를 빌려 널리 쓰이는 벤치마크 56개를 검증했다. 벤치마크는 내세운 것을 늘 재지는 않았고, 같은 것을 잰다는 벤치마크끼리도 결과가 자주 엇갈렸다."
           },
           {
             "t": "p",
-            "x": "Broad Institute와 함께한 췌장암 연구에서 Quine은 수천 개의 화합물이 종양 세포 상태를 얼마나 바꿀지 예측해 우선순위를 매겼다. 순위가 가장 높은 화합물들이 wet-lab 실험에서 의도한 전환을 가장 크게 일으켰다. 이 과정은 단 한 주말 만에 끝났다."
+            "x": "Sanmi Koyejo는 편향 벤치마크 BBQ를 예로 든다. 그의 설명으로는 BBQ가 재는 것은 결국 독해력에 더 가깝다."
           },
           {
             "t": "p",
-            "x": "초기에는 Quine Fellows 프로그램과 일부 연구 협력에만 문을 열고, 안전장치를 갖춘 채 단계적으로 넓혀 간다."
+            "x": "두 번째 논문에 따르면 영어에서 번역한 안전성 벤치마크는 두 갈래로 무너진다. 가드레일이 약해질 수 있고, 번역된 시험 자체도 더 불안정한 측정 도구가 된다. Koyejo는 \"측정 막대를 쥔 사람이 배의 키를 잡는다\"고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Microsoft's Quine builds a\nworld model of biology",
-          "body": "Quine is an early-stage Microsoft Research effort to build a multimodal world model connecting biology across scales.",
-          "mini_headline": "Quine models biology",
+          "headline": "The tests that grade AI\nmay be getting it wrong",
+          "body": "A Stanford-led study of 56 AI benchmarks found they don't always measure what they claim to, and often disagree.",
+          "mini_headline": "AI benchmarks may mismeasure",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Microsoft Research is introducing Quine, a research effort designed to work across the boundaries of biology. Quine brings together a world model of biology with a harness that connects scientific tools, literature, the wet lab, and the researchers using them."
-              },
-              {
-                "t": "video",
-                "yt": "ZMJHGeR6GPU"
+                "x": "Benchmarks score AI models on everything from reasoning to safety, and billions of dollars and policy decisions ride on them. In two new studies, Stanford researchers and collaborators asked whether these tests measure what they claim to."
               },
               {
                 "t": "p",
-                "x": "By world model, Microsoft means a system that can represent the state of a biological system, predict how that state will evolve in response to interventions, and reason over the consequences. It learns shared representations across sequence, structure, function, cellular state, and imaging data. Such a system would not replace experimentation."
+                "x": "Borrowing tools from measurement science and psychometrics, they tested 56 widely used benchmarks and found that benchmarks do not always measure what they claim, and that ones claiming to measure the same thing often disagree."
               },
               {
                 "t": "p",
-                "x": "In pancreatic cancer work with the Broad Institute, Quine predicted and prioritized thousands of compounds for their potential to shift tumor cells between states; its highest-ranked compounds produced the largest intended shifts in wet-lab studies. The process took just one weekend."
+                "x": "The bias benchmark BBQ, for instance, ends up measuring something closer to reading comprehension, says Sanmi Koyejo."
               },
               {
                 "t": "p",
-                "x": "Initial access is limited to the Quine Fellows program and select research collaborations, with a phased approach and built-in safeguards."
+                "x": "A second paper shows safety benchmarks translated from English break in two ways: guardrails can weaken, and the translated test becomes a shakier instrument. \"Whoever holds the measuring stick steers the ship,\" Koyejo says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Microsoft가 만드는\n생물학 세계모델 Quine",
-          "body": "Quine은 Microsoft Research의 초기 생물학 세계 모델 연구다.",
-          "mini_headline": "Quine, 생물학을 모델링하다",
+          "headline": "AI를 채점하는 시험이\n틀렸을 수도 있다",
+          "body": "Stanford-led 연구에서 AI 벤치마크 56개는 결과가 자주 엇갈렸다.",
+          "mini_headline": "AI 벤치마크, 잘못 재나",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+                "cap": "출처: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Microsoft Research가 생물학의 여러 경계를 넘나들도록 설계한 연구 프로젝트 Quine을 내놓았다. Quine은 생물학 세계 모델에, 과학 도구·문헌·습식 실험실(wet lab)·그것을 쓰는 연구자를 잇는 하네스를 결합했다."
-              },
-              {
-                "t": "video",
-                "yt": "ZMJHGeR6GPU"
+                "x": "벤치마크는 추론부터 안전성까지 AI 모델의 모든 면에 점수를 매긴다. 수십억 달러와 정책 결정이 그 결과에 걸려 있다. Stanford 연구진과 협력자들은 새 연구 두 편에서 이 시험들이 내세운 것을 실제로 재는지 따졌다."
               },
               {
                 "t": "p",
-                "x": "Microsoft가 말하는 세계 모델은 생물학적 시스템의 상태를 표현하고, 개입하면 그 상태가 어떻게 바뀔지 예측하고, 그 결과를 추론한다. 서열, 구조, 기능, 세포 상태, 이미징 데이터를 아우르는 공유 표현을 학습하지만, 실험을 대신하지는 않는다."
+                "x": "연구진은 측정 과학과 심리측정학의 도구를 빌려 널리 쓰이는 벤치마크 56개를 검증했다. 벤치마크는 내세운 것을 늘 재지는 않았고, 같은 것을 잰다는 벤치마크끼리도 결과가 자주 엇갈렸다."
               },
               {
                 "t": "p",
-                "x": "Broad Institute와 함께한 췌장암 연구에서 Quine은 수천 개의 화합물이 종양 세포 상태를 얼마나 바꿀지 예측해 우선순위를 매겼다. 순위가 가장 높은 화합물들이 wet-lab 실험에서 의도한 전환을 가장 크게 일으켰다. 이 과정은 단 한 주말 만에 끝났다."
+                "x": "Sanmi Koyejo는 편향 벤치마크 BBQ를 예로 든다. 그의 설명으로는 BBQ가 재는 것은 결국 독해력에 더 가깝다."
               },
               {
                 "t": "p",
-                "x": "초기에는 Quine Fellows 프로그램과 일부 연구 협력에만 문을 열고, 안전장치를 갖춘 채 단계적으로 넓혀 간다."
+                "x": "두 번째 논문에 따르면 영어에서 번역한 안전성 벤치마크는 두 갈래로 무너진다. 가드레일이 약해질 수 있고, 번역된 시험 자체도 더 불안정한 측정 도구가 된다. Koyejo는 \"측정 막대를 쥔 사람이 배의 키를 잡는다\"고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Microsoftが築く\n生物学の世界モデルQuine",
-          "body": "QuineはMicrosoft Researchによる初期段階の生物学世界モデル研究だ。",
-          "mini_headline": "Quine、生物学をモデル化",
+          "headline": "AIを採点するテストが\n間違っているかもしれない",
+          "body": "Stanford-led研究は、AIベンチマーク56種の結果がしばしば食い違うと示した。",
+          "mini_headline": "AIベンチマークは測り違いか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+                "cap": "クレジット: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Microsoft Researchは、生物学の境界を越えて機能するよう設計された研究プロジェクトQuineを発表した。Quineは生物学の世界モデルと、科学ツール、文献、ウェットラボ(wet lab)、そしてそれらを使う研究者をつなぐハーネスを一体化する。"
-              },
-              {
-                "t": "video",
-                "yt": "ZMJHGeR6GPU"
+                "x": "ベンチマークは推論から安全性までAIモデルのあらゆる面を採点し、数十億ドルの資金や政策判断がその結果に左右される。Stanfordの研究者と共同研究者は二つの新しい研究で、こうしたテストが主張どおりのものを測っているのかを問うた。"
               },
               {
                 "t": "p",
-                "x": "Microsoftのいう世界モデルとは、生物学的システムの状態を表現し、介入に応じてその状態がどう変化するかを予測し、その帰結について推論できるシステムを指す。配列、構造、機能、細胞状態、イメージングデータにまたがる共有表現を学習する。こうしたシステムが実験に取って代わるわけではない。"
+                "x": "測定科学と心理測定学の手法を借りて広く使われる56のベンチマークを検証したところ、ベンチマークは主張するものを必ずしも測っておらず、同じものを測るとするベンチマーク同士でも結果が食い違うことが多いと分かった。"
               },
               {
                 "t": "p",
-                "x": "Broad Instituteとの膵臓がん研究で、Quineは腫瘍細胞の状態を転換させる可能性に基づいて数千の化合物を予測し、優先順位をつけた。最上位の化合物は、wet-labの研究で意図した転換を最も大きく引き起こした。この過程はわずか一度の週末で完了した。"
+                "x": "たとえばバイアスのベンチマークであるBBQは、結局は読解力に近いものを測っているとSanmi Koyejoは言う。"
               },
               {
                 "t": "p",
-                "x": "当初の利用はQuine Fellowsプログラムと一部の研究協力に限られ、段階的に進められ、安全策も組み込まれている。"
+                "x": "二つ目の論文は、英語から翻訳された安全性ベンチマークが二つの形で崩れることを示す。ガードレールが弱まりうること、そして翻訳されたテストが測定器として不安定になることだ。「物差しを握る者が船の舵を取る」とKoyejoは言う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Microsoft构建\n生物学世界模型Quine",
-          "body": "Quine是Microsoft Research早期项目，构建跨尺度多模态生物学世界模型。",
-          "mini_headline": "Quine为生物学建模",
+          "headline": "给AI打分的测试\n可能本身就有问题",
+          "body": "Stanford-led研究发现，56个AI基准测试并不总能测出声称的能力，且常相互矛盾。",
+          "mini_headline": "AI基准测试或测不准",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Microsoft Research推出Quine，这是一项旨在跨越生物学边界开展工作的研究项目。Quine将一个生物学世界模型与一套框架结合在一起，后者连接科学工具、文献、湿实验室（wet lab）以及使用它们的研究人员。"
-              },
-              {
-                "t": "video",
-                "yt": "ZMJHGeR6GPU"
+                "x": "从推理到安全，基准测试为AI模型的方方面面打分，数十亿美元资金和政策决定都取决于此。在两项新研究中，Stanford研究人员及合作者追问：这些测试是否真在测量它们声称测量的东西。"
               },
               {
                 "t": "p",
-                "x": "Microsoft所说的世界模型，是指能够表示生物系统状态、预测该状态在干预下如何演变，并对其后果进行推理的系统。它在序列、结构、功能、细胞状态和成像数据之间学习共享表征。这样的系统不会取代实验。"
+                "x": "他们借用测量科学与心理测量学的工具，检验了56个广泛使用的基准测试，发现基准测试并不总能测量其声称的内容，而声称测量同一事物的基准测试之间也常常结果不一。"
               },
               {
                 "t": "p",
-                "x": "在与Broad Institute合作的胰腺癌研究中，Quine根据数千种化合物促使肿瘤细胞状态转变的潜力进行预测和排序；排名最高的化合物在wet-lab研究中产生了最大的预期转变。整个过程仅用了一个周末。"
+                "x": "Sanmi Koyejo说，例如偏见基准测试BBQ，最终测到的更接近阅读理解能力。"
               },
               {
                 "t": "p",
-                "x": "初期访问仅限于Quine Fellows项目和部分研究合作，将分阶段推进，并内置安全保障措施。"
+                "x": "第二篇论文显示，从英语翻译过来的安全基准测试会在两方面失灵：护栏可能被削弱，翻译后的测试也会成为更不可靠的测量工具。Koyejo说：“谁握着量尺，谁就掌舵。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Quine, de Microsoft, construye\nun modelo mundial de la biología",
-          "body": "Quine, proyecto inicial de Microsoft Research, busca un modelo mundial que conecte la biología a varias escalas.",
-          "mini_headline": "Quine modela la biología",
+          "headline": "Los tests que evalúan la AI\npodrían estar fallando",
+          "body": "Un estudio Stanford-led de 56 benchmarks de AI halló que no siempre miden lo que dicen y que a menudo discrepan.",
+          "mini_headline": "Los benchmarks de AI podrían medir mal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Microsoft Research presenta Quine, un proyecto de investigación diseñado para trabajar más allá de las fronteras de la biología. Quine reúne un modelo del mundo de la biología con un entorno que conecta herramientas científicas, literatura, el laboratorio húmedo (wet lab) y a los investigadores que los utilizan."
-              },
-              {
-                "t": "video",
-                "yt": "ZMJHGeR6GPU"
+                "x": "Los benchmarks puntúan a los modelos de AI en todo, desde el razonamiento hasta la seguridad, y de ellos dependen miles de millones de dólares y decisiones políticas. En dos nuevos estudios, investigadores de Stanford y sus colaboradores se preguntaron si estas pruebas miden lo que dicen medir."
               },
               {
                 "t": "p",
-                "x": "Por modelo del mundo, Microsoft entiende un sistema capaz de representar el estado de un sistema biológico, predecir cómo evolucionará ese estado ante intervenciones y razonar sobre las consecuencias. Aprende representaciones compartidas entre datos de secuencia, estructura, función, estado celular e imagen. Un sistema así no reemplazaría la experimentación."
+                "x": "Con herramientas de la ciencia de la medición y la psicometría, evaluaron 56 benchmarks de uso extendido y hallaron que no siempre miden lo que afirman y que los que dicen medir lo mismo a menudo discrepan."
               },
               {
                 "t": "p",
-                "x": "En un trabajo sobre cáncer de páncreas con el Broad Institute, Quine predijo y priorizó miles de compuestos según su potencial para hacer cambiar de estado a las células tumorales; sus compuestos mejor clasificados produjeron los mayores cambios buscados en estudios de wet-lab. El proceso llevó apenas un fin de semana."
+                "x": "El benchmark de sesgo BBQ, por ejemplo, acaba midiendo algo más cercano a la comprensión lectora, afirma Sanmi Koyejo."
               },
               {
                 "t": "p",
-                "x": "El acceso inicial se limita al programa Quine Fellows y a colaboraciones de investigación seleccionadas, con un enfoque por fases y salvaguardas integradas."
+                "x": "Un segundo artículo muestra que los benchmarks de seguridad traducidos del inglés fallan de dos maneras: las salvaguardas pueden debilitarse y la prueba traducida se vuelve un instrumento menos fiable. \"Quien sostiene la vara de medir dirige el barco\", dice Koyejo."
               }
             ]
           }
@@ -1545,137 +1567,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Microsoft가 만드는\n생물학 세계모델 Quine",
-          "body": "Quine은 Microsoft Research의 초기 생물학 세계 모델 연구다.",
-          "mini_headline": "Quine, 생물학을 모델링하다",
+          "headline": "AI를 채점하는 시험이\n틀렸을 수도 있다",
+          "body": "Stanford-led 연구서 AI 벤치마크 56개가 자주 엇갈린 결과를 냈다.",
+          "mini_headline": "AI 벤치마크, 잘못 재나",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+                "cap": "출처: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Microsoft Research가 생물학의 경계를 넘나들며 작동하도록 설계한 연구 프로젝트 Quine을 소개한다. Quine은 생물학 세계 모델과, 과학 도구·문헌·습식 실험실(wet lab)·이를 쓰는 연구자를 잇는 하네스를 하나로 묶는다."
-              },
-              {
-                "t": "video",
-                "yt": "ZMJHGeR6GPU"
+                "x": "벤치마크는 추론부터 안전성까지 AI 모델의 모든 면을 채점하며, 수십억 달러와 정책 결정이 그 결과에 달려 있다. Stanford 연구진과 협력자들은 새 연구 두 편에서 이 시험들이 내세운 것을 실제로 측정하는지 물었다."
               },
               {
                 "t": "p",
-                "x": "Microsoft가 말하는 세계 모델이란 생물학적 시스템의 상태를 표현하고, 개입에 따라 그 상태가 어떻게 변할지 예측하며, 그 결과를 추론하는 시스템이다. 이 시스템은 서열, 구조, 기능, 세포 상태, 이미징 데이터 전반에 걸쳐 공유 표현을 학습한다. 이런 시스템이 실험을 대체하지는 않는다."
+                "x": "연구진은 측정 과학과 심리측정학의 도구를 빌려 널리 쓰이는 벤치마크 56개를 검증했고, 벤치마크가 내세운 것을 늘 측정하지는 않으며 같은 것을 잰다는 벤치마크끼리도 결과가 자주 엇갈린다는 사실을 확인했다."
               },
               {
                 "t": "p",
-                "x": "Broad Institute와 함께한 췌장암 연구에서 Quine은 종양 세포의 상태를 바꿀 잠재력을 기준으로 수천 개의 화합물을 예측하고 우선순위를 매겼다. 최상위 화합물들은 wet-lab 실험에서 의도한 전환을 가장 크게 일으켰다. 이 과정은 단 한 주말 만에 끝났다."
+                "x": "Sanmi Koyejo는 예컨대 편향 벤치마크 BBQ가 결국 독해력에 더 가까운 것을 측정한다고 말한다."
               },
               {
                 "t": "p",
-                "x": "초기 접근은 Quine Fellows 프로그램과 일부 연구 협력으로 제한되며, 단계적으로 진행되고 안전장치가 내장된다."
+                "x": "두 번째 논문은 영어에서 번역한 안전성 벤치마크가 두 가지 방식으로 무너진다는 점을 보여 준다. 가드레일이 약해질 수 있고, 번역된 시험은 더 불안정한 측정 도구가 된다. Koyejo는 \"측정 막대를 쥔 사람이 배의 키를 잡는다\"고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Microsoftが築く\n生物学の世界モデルQuine",
-          "body": "QuineはMicrosoft Researchによる初期段階の生物学世界モデル研究だ。",
-          "mini_headline": "Quine、生物学をモデル化",
+          "headline": "AIを採点するテストが\n間違っているかもしれない",
+          "body": "Stanford-led研究は、AIベンチマーク56種の結果がしばしば食い違うと示した。",
+          "mini_headline": "AIベンチマークは測り違いか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+                "cap": "クレジット: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Microsoft Researchは、生物学の境界を越えて機能するよう設計された研究プロジェクトQuineを発表した。Quineは生物学の世界モデルと、科学ツール、文献、ウェットラボ(wet lab)、そしてそれらを使う研究者をつなぐハーネスを一体化する。"
-              },
-              {
-                "t": "video",
-                "yt": "ZMJHGeR6GPU"
+                "x": "ベンチマークは推論から安全性までAIモデルのあらゆる面を採点し、数十億ドルの資金や政策判断がその結果に左右される。Stanfordの研究者と共同研究者は二つの新しい研究で、こうしたテストが主張どおりのものを測っているのかを問うた。"
               },
               {
                 "t": "p",
-                "x": "Microsoftのいう世界モデルとは、生物学的システムの状態を表現し、介入に応じてその状態がどう変化するかを予測し、その帰結について推論できるシステムを指す。配列、構造、機能、細胞状態、イメージングデータにまたがる共有表現を学習する。こうしたシステムが実験に取って代わるわけではない。"
+                "x": "測定科学と心理測定学の手法を借りて広く使われる56のベンチマークを検証したところ、ベンチマークは主張するものを必ずしも測っておらず、同じものを測るとするベンチマーク同士でも結果が食い違うことが多いと分かった。"
               },
               {
                 "t": "p",
-                "x": "Broad Instituteとの膵臓がん研究で、Quineは腫瘍細胞の状態を転換させる可能性に基づいて数千の化合物を予測し、優先順位をつけた。最上位の化合物は、wet-labの研究で意図した転換を最も大きく引き起こした。この過程はわずか一度の週末で完了した。"
+                "x": "たとえばバイアスのベンチマークであるBBQは、結局は読解力に近いものを測っているとSanmi Koyejoは言う。"
               },
               {
                 "t": "p",
-                "x": "当初の利用はQuine Fellowsプログラムと一部の研究協力に限られ、段階的に進められ、安全策も組み込まれている。"
+                "x": "二つ目の論文は、英語から翻訳された安全性ベンチマークが二つの形で崩れることを示す。ガードレールが弱まりうること、そして翻訳されたテストが測定器として不安定になることだ。「物差しを握る者が船の舵を取る」とKoyejoは言う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Microsoft构建\n生物学世界模型Quine",
-          "body": "Quine是Microsoft Research早期项目，构建跨尺度多模态生物学世界模型。",
-          "mini_headline": "Quine为生物学建模",
+          "headline": "给AI打分的测试\n可能本身就有问题",
+          "body": "Stanford-led研究发现，56个AI基准测试并不总能测出声称的能力，且常相互矛盾。",
+          "mini_headline": "AI基准测试或测不准",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Microsoft Research推出Quine，这是一项旨在跨越生物学边界开展工作的研究项目。Quine将一个生物学世界模型与一套框架结合在一起，后者连接科学工具、文献、湿实验室（wet lab）以及使用它们的研究人员。"
-              },
-              {
-                "t": "video",
-                "yt": "ZMJHGeR6GPU"
+                "x": "从推理到安全，基准测试为AI模型的方方面面打分，数十亿美元资金和政策决定都取决于此。在两项新研究中，Stanford研究人员及合作者追问：这些测试是否真在测量它们声称测量的东西。"
               },
               {
                 "t": "p",
-                "x": "Microsoft所说的世界模型，是指能够表示生物系统状态、预测该状态在干预下如何演变，并对其后果进行推理的系统。它在序列、结构、功能、细胞状态和成像数据之间学习共享表征。这样的系统不会取代实验。"
+                "x": "他们借用测量科学与心理测量学的工具，检验了56个广泛使用的基准测试，发现基准测试并不总能测量其声称的内容，而声称测量同一事物的基准测试之间也常常结果不一。"
               },
               {
                 "t": "p",
-                "x": "在与Broad Institute合作的胰腺癌研究中，Quine根据数千种化合物促使肿瘤细胞状态转变的潜力进行预测和排序；排名最高的化合物在wet-lab研究中产生了最大的预期转变。整个过程仅用了一个周末。"
+                "x": "Sanmi Koyejo说，例如偏见基准测试BBQ，最终测到的更接近阅读理解能力。"
               },
               {
                 "t": "p",
-                "x": "初期访问仅限于Quine Fellows项目和部分研究合作，将分阶段推进，并内置安全保障措施。"
+                "x": "第二篇论文显示，从英语翻译过来的安全基准测试会在两方面失灵：护栏可能被削弱，翻译后的测试也会成为更不可靠的测量工具。Koyejo说：“谁握着量尺，谁就掌舵。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Quine, de Microsoft, construye\nun modelo mundial de la biología",
-          "body": "Quine, proyecto inicial de Microsoft Research, busca un modelo mundial que conecte la biología a varias escalas.",
-          "mini_headline": "Quine modela la biología",
+          "headline": "Los tests que evalúan la AI\npodrían estar fallando",
+          "body": "Un estudio Stanford-led de 56 benchmarks de AI halló que no siempre miden lo que dicen y que a menudo discrepan.",
+          "mini_headline": "Los benchmarks de AI podrían medir mal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Microsoft Research presenta Quine, un proyecto de investigación diseñado para trabajar más allá de las fronteras de la biología. Quine reúne un modelo del mundo de la biología con un entorno que conecta herramientas científicas, literatura, el laboratorio húmedo (wet lab) y a los investigadores que los utilizan."
-              },
-              {
-                "t": "video",
-                "yt": "ZMJHGeR6GPU"
+                "x": "Los benchmarks puntúan a los modelos de AI en todo, desde el razonamiento hasta la seguridad, y de ellos dependen miles de millones de dólares y decisiones políticas. En dos nuevos estudios, investigadores de Stanford y sus colaboradores se preguntaron si estas pruebas miden lo que dicen medir."
               },
               {
                 "t": "p",
-                "x": "Por modelo del mundo, Microsoft entiende un sistema capaz de representar el estado de un sistema biológico, predecir cómo evolucionará ese estado ante intervenciones y razonar sobre las consecuencias. Aprende representaciones compartidas entre datos de secuencia, estructura, función, estado celular e imagen. Un sistema así no reemplazaría la experimentación."
+                "x": "Con herramientas de la ciencia de la medición y la psicometría, evaluaron 56 benchmarks de uso extendido y hallaron que no siempre miden lo que afirman y que los que dicen medir lo mismo a menudo discrepan."
               },
               {
                 "t": "p",
-                "x": "En un trabajo sobre cáncer de páncreas con el Broad Institute, Quine predijo y priorizó miles de compuestos según su potencial para hacer cambiar de estado a las células tumorales; sus compuestos mejor clasificados produjeron los mayores cambios buscados en estudios de wet-lab. El proceso llevó apenas un fin de semana."
+                "x": "El benchmark de sesgo BBQ, por ejemplo, acaba midiendo algo más cercano a la comprensión lectora, afirma Sanmi Koyejo."
               },
               {
                 "t": "p",
-                "x": "El acceso inicial se limita al programa Quine Fellows y a colaboraciones de investigación seleccionadas, con un enfoque por fases y salvaguardas integradas."
+                "x": "Un segundo artículo muestra que los benchmarks de seguridad traducidos del inglés fallan de dos maneras: las salvaguardas pueden debilitarse y la prueba traducida se vuelve un instrumento menos fiable. \"Quien sostiene la vara de medir dirige el barco\", dice Koyejo."
               }
             ]
           }

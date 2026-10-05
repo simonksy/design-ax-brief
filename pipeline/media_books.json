@@ -1,27 +1,6 @@
-{
-  "date": "2026-10-05",
-  "section": "books",
-  "media": [
-    {
-      "id": "hongkong-comics-ai-heyday",
-      "type": "video",
-      "src": "pipeline/media/hongkong-comics-ai-heyday.mp4",
-      "poster": "pipeline/media/hongkong-comics-ai-heyday.jpg"
-    },
-    {
-      "id": "ewc-destructive-book-scanning",
-      "type": "image",
-      "src": "pipeline/media/ewc-destructive-book-scanning.jpg"
-    },
-    {
-      "id": "bye-bye-ai-library-event",
-      "type": "image",
-      "src": "pipeline/media/bye-bye-ai-library-event.jpg"
-    },
-    {
-      "id": "shelf-reading-bots-libraries-ht",
-      "type": "image",
-      "src": "pipeline/media/shelf-reading-bots-libraries-ht.jpg"
-    }
-  ]
-}
+{"media":[
+{"id":"ross-appeal-ai-fair-use-ruling","type":"image","src":"pipeline/media/ross-appeal-ai-fair-use-ruling.jpg"},
+{"id":"scholarly-kitchen-ai-representation-not-scholarship","type":"image","src":"pipeline/media/scholarly-kitchen-ai-representation-not-scholarship.png"},
+{"id":"proyecto451-publisher-ai-policy-review","type":"image","src":"pipeline/media/proyecto451-publisher-ai-policy-review.png"},
+{"id":"lithub-ai-writing-spiritual-practice-essay","type":"image","src":"pipeline/media/lithub-ai-writing-spiritual-practice-essay.png"}
+]}

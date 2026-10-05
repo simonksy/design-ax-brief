@@ -6403,6 +6403,139 @@
           "x": "Other scientists warn of mental-privacy risks, especially if similar methods move to EEG. \"We have to be a little more serious about the ethical considerations,\" says UCSB neuroscientist Tommy Sprague."
         }
       ]
+    },
+    "science/berkeley-lab-heat-shield-xray-ai-ablation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Heat shields protect spacecraft by ablating, but researchers usually see only before-and-after pictures. Artemis I showed unexpected charring and uneven material loss that simulations had not predicted."
+        },
+        {
+          "t": "video",
+          "yt": "04rSPGwMLlM"
+        },
+        {
+          "t": "p",
+          "x": "A collaboration between NASA and the Advanced Light Source at Lawrence Berkeley National Laboratory changed that. LBNL researchers built a chamber that heats samples up to 900℃ while X-ray micro-computed tomography captures 3D images of the material as it breaks down."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+          "cap": "Engineers working on the Artemis II heat shield at the Kennedy Space Center. Credit - NASA"
+        },
+        {
+          "t": "p",
+          "x": "Cork particles in SLA-561V vaporize into hollow voids, while SLA-220 degrades into branching micro-channels that vent hot gases."
+        },
+        {
+          "t": "p",
+          "x": "To balance speed against resolution, the team trained a Generative Adversarial Network (GAN) to turn rapid intermediate-resolution scans into high-resolution 3D records of the material as it warped, charred and hollowed out. Engineering simulations have not yet been updated."
+        }
+      ]
+    },
+    "science/autonomous-ai-dermatology-appointments-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "A real-world study of 8,391 patients, presented at the EADV Congress 2026, found that autonomous AI could free enough capacity for more than 8,500 additional face-to-face dermatology appointments across two U.K. hospitals over 16 months."
+        },
+        {
+          "t": "p",
+          "x": "A CE-marked Class III AI medical device classified smartphone images of skin lesions, autonomously discharging benign cases and referring higher-risk ones for teledermatologist review. The AI discharged 31% and 25% of patients at the two hospitals without clinician review."
+        },
+        {
+          "t": "p",
+          "x": "The pathway was estimated to save 2,851 hours of clinician time, about a 62% gain in capacity, and cut biopsy rates to 27% from 43%."
+        },
+        {
+          "t": "p",
+          "x": "In a national dataset, sensitivity exceeded 98% for invasive melanoma, SCC and BCC. Six false negatives were found through post-market surveillance, with no adverse outcomes identified. \"Deploying an AI system safely isn't a one-off exercise,\" said lead author Dr. Lucy Thomas."
+        }
+      ]
+    },
+    "science/copenhagen-chatbots-knowledge-collapse-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "A study led by the Department of Computer Science (DIKU) at the University of Copenhagen finds that large language models give a significantly narrower range of information than a conventional web search. It will be presented at EMNLP 2026."
+        },
+        {
+          "t": "p",
+          "x": "The team tested 27 models on 155 topics with 200 prompt formulations each, producing around 70 million claims. Even the most diverse model, OpenAI's GPT-5, gave at least 18.7% less varied information than Google."
+        },
+        {
+          "t": "p",
+          "x": "\"People are to a large extent exposed to the same information over and over again,\" says first author Dustin Wright, now at Aalborg University."
+        },
+        {
+          "t": "p",
+          "x": "Models compress their training text and filter out less common patterns. If they increasingly train on AI-generated text, the range could narrow over generations, a risk the researchers call \"knowledge collapse.\" Senior author Isabelle Augenstein notes newer models are slightly more diverse, so it is not happening yet."
+        }
+      ]
+    },
+    "science/stanford-ai-benchmarks-measurement-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Benchmarks score AI models on everything from reasoning to safety, and billions of dollars and policy decisions ride on them. In two new studies, Stanford researchers and collaborators asked whether these tests measure what they claim to."
+        },
+        {
+          "t": "p",
+          "x": "Borrowing tools from measurement science and psychometrics, they tested 56 widely used benchmarks and found that benchmarks do not always measure what they claim, and that ones claiming to measure the same thing often disagree."
+        },
+        {
+          "t": "p",
+          "x": "The bias benchmark BBQ, for instance, ends up measuring something closer to reading comprehension, says Sanmi Koyejo."
+        },
+        {
+          "t": "p",
+          "x": "A second paper shows safety benchmarks translated from English break in two ways: guardrails can weaken, and the translated test becomes a shakier instrument. \"Whoever holds the measuring stick steers the ship,\" Koyejo says."
+        }
+      ]
+    },
+    "science/york-illusion-ai-vision-errors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Our eyes do not always tell us exactly where things are—and that may be a feature of how biological vision works, rather than simply a flaw. A new study by York University researchers uses a common illusion to ask: If artificial intelligence is meant to see more like us, should it make some of the same systematic perceptual \"mistakes\"?"
+        },
+        {
+          "t": "p",
+          "x": "After staring at something moving steadily in one direction, a stationary object viewed immediately afterward can appear slightly displaced in the opposite direction. This illusion, called a motion aftereffect, gives scientists a window into the computations underlying perception. The study is published in Current Biology."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
+          "cap": "Credit: Orhan Pergel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Current AI vision systems can often determine accurately where an object is, but they generally do not reproduce the way recent visual experience can reshape that answer. The researchers found a corresponding change in the primate visual cortex—but not in the AI models they tested. The findings also provide a new benchmark to evaluate dynamic vision models."
+        },
+        {
+          "t": "p",
+          "x": "\"If we want AI that works with humans and understands the world in more human-compatible ways, we cannot focus only on whether it gets the right answer,\" said senior author Kohitij Kar."
+        }
+      ]
     }
   }
 }

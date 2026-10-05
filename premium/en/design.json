@@ -6654,6 +6654,138 @@
           "x": "API access is 50 percent off through October 8. Companies can license commercial weights to run and fine-tune the model on their own infrastructure. An open-weight version is expected in the coming weeks. Shortly before the launch, Ideogram announced its own editing-focused model with version 4.5, which is also set to ship as open weights soon."
         }
       ]
+    },
+    "design/photoshop-remove-tool-no-generative-credits": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "nmvewzc6MG4"
+        },
+        {
+          "t": "p",
+          "x": "Adobe now meters many of Photoshop's AI tools against a monthly pool of generative credits, so knowing which features draw from that pool directly affects how freely you can edit."
+        },
+        {
+          "t": "p",
+          "x": "The Remove tool delivers the first surprise. Aaron Nace of PHLEARN checks his credit balance at 2,870, paints over a handful of distractions with Generative AI switched on and cloud processing selected, then checks again. The number hasn't moved. The tool can also run on device processing offline, once Photoshop has downloaded the AI model."
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill, Generative Expand and Generate Image all draw from the monthly allotment, and partner models from other companies cost more credits per generation than Adobe's own Firefly models. Content-Aware Fill and Select Subject don't touch that balance, so a good habit is to try the free option first."
+        },
+        {
+          "t": "p",
+          "x": "Other tips cover scrubby-slider labels, clipping masks, the targeted Curves hand tool and cloud processing for cleaner Select Subject edges."
+        }
+      ]
+    },
+    "design/adobe-text-to-3d-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+          "cap": "Adobe's text-to-3D world concept (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "Adobe has rolled out a string of AI tools in recent years, from Firefly's image and video models to Photoshop's AI Relight. A large batch of newly published patent filings suggests where it could go next, including areas where Adobe has little presence today."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+          "cap": "Adobe patent for an AI text-to-3D world generator (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "Spotted by patent tracker Patentlyze, one USPTO filing describes a method for creating navigable 3D worlds from text. A prompt such as \"a foggy Japanese garden at dusk\" would first produce an intermediate spherical 2D image, like a 360 view, which a second AI process would then use as the basis for building 3D geometry. Users could view the result from multiple perspectives and move forwards and backwards through it."
+        },
+        {
+          "t": "p",
+          "x": "Building 3D environments today is slow, often requiring hundreds of sculpted and painted assets. Adobe's Substance apps cover parts of that pipeline, but Substance 3D Modeler remains niche next to ZBrush and Blender and has no Firefly-powered tools yet. The closest existing products, such as Blockade Labs' Skybox AI, generate 360-degree scenes rather than navigable environments."
+        },
+        {
+          "t": "p",
+          "x": "Other recent Adobe filings cover AI that builds new camera angles from a single photo, material matching across 3D models and 3D garment previews. Creative Bloq notes that a patent application doesn't necessarily signal plans to ship a product."
+        }
+      ]
+    },
+    "design/apple-macos-ai-agent-full-disk-access-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+          "cap": "Credit: Apple"
+        },
+        {
+          "t": "p",
+          "x": "Apple has posted an “Updates to Full Disk Access in macOS” notice on its Apple Developer page, warning against giving AI agents Full Disk Access in ways that could put users at risk."
+        },
+        {
+          "t": "p",
+          "x": "Apple says some developers are using Full Disk Access in ways that expose everything on users' systems—including files, mail, messages, and even browsing history—without users' full knowledge and understanding."
+        },
+        {
+          "t": "p",
+          "x": "“Going forward, we will introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action. Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially.”"
+        },
+        {
+          "t": "p",
+          "x": "Until those controls arrive, No Film School notes the risk can be avoided by not giving AI agents that access at all."
+        }
+      ]
+    },
+    "design/uxcollective-ai-skill-atrophy-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+          "cap": "When cognitive offloading becomes unlearning (Visualization by Slava Polonski)"
+        },
+        {
+          "t": "p",
+          "x": "AI is not making us less intelligent. It is reducing the amount of intelligence we practise. The real problem is that we can slowly forget how to do things we no longer have to do."
+        },
+        {
+          "t": "p",
+          "x": "Slava Polonski looks at AI skill atrophy and cognitive offloading: what happens when we outsource the thinking, judgement, and struggle that made those skills ours in the first place."
+        },
+        {
+          "t": "p",
+          "x": "The essay opens with phone numbers. Nobody decided to stop memorising them; the capacity just quietly stopped being used, and then quietly stopped being there. Handing a skill to a machine does not feel like a loss. It feels like an improvement."
+        }
+      ]
+    },
+    "design/formas-cartesian-agentic-modeller": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Formas.AI has unveiled Cartesian, an AI-assisted platform for early-stage architecture, interiors, furniture and product design that aims to turn AI-generated concepts into editable, physically meaningful geometry. Designers can start from photographs, sketches, written briefs or existing models, then refine individual components through conversation."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“The technology behind it can be incredibly complex. The experience should not be,” said Yiping Goh, co-founder and CEO."
+        },
+        {
+          "t": "p",
+          "x": "At its core is a proprietary CAD kernel layer and geometric toolkit built for AI agents, which can construct solids and freeform surfaces and inspect and revise geometry programmatically. Models are organised into named components, layers and assemblies; co-founder Carlos Bañón said these relationships “give geometry meaning and help preserve design intent as the model changes.”"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "An orchestration system coordinates multiple AI models, including OpenAI’s GPT-6 Astra and Claude Opus 5.5, alongside specialist agents. Agents can request sunlight, shadow and real-time wind studies to inform modelling decisions."
+        },
+        {
+          "t": "p",
+          "x": "Cartesian has live connections with Rhinoceros and SketchUp, DXF and IFC import and export, plus STEP and STL export. The desktop rollout will be phased across macOS and Windows, with expanded access planned from 31 October 2026."
+        }
+      ]
     }
   }
 }

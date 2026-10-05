@@ -1,353 +1,273 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "music",
   "cards": [
     {
-      "id": "isplus-suno-vocal-chart-top",
-      "source_lang": "ko",
+      "id": "suno-albums-launch",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "수노로 만든 노래가\n벅스 차트 1위에 올랐다",
-      "body": "수노로 만든 머무르 곡이 벅스 실시간 1위에 올라 AI 표기 논의가 다시 불붙었다.",
-      "mini_headline": "수노 곡, 벅스 차트 1위",
+      "headline": "Suno에서 이제\n앨범 통째로 낸다",
+      "body": "Suno Albums로 AI-made 곡을 초안으로 묶고 순서를 정해 발매한다.",
+      "mini_headline": "Suno, Albums 출시",
       "tool": "Music",
-      "source": "일간스포츠 (isplus)",
-      "url": "https://isplus.com/article/view/isp202610020003",
+      "source": "Suno (YouTube)",
+      "url": "https://www.youtube.com/watch?v=MdxaU0l3FzI",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+            "t": "video",
+            "yt": "MdxaU0l3FzI"
           },
           {
             "t": "p",
-            "x": "창작자 머무르의 ‘꿈꾸던 어른이 되었나요?’는 생성형 인공지능(AI)을 활용해 제작된 음원이다. AI 제작 음원 표기 의무 등의 제도가 미비한 가운데 AI 곡이 차트 상위권을 치고 올라오자 관련 논의의 필요성이 다시 대두되고 있다."
+            "x": "Suno에 Albums가 나왔다. 크리에이터는 Albums로 곡을 모아 하나의 정식 발매작을 만든다. 커버 아트를 생성하거나 업로드하고 트랙 리스트를 정리한 다음 Album을 Suno에 공개하고, 프로젝트 전체를 한곳에서 공유할 수도 있다."
           },
           {
             "t": "p",
-            "x": "이 곡은 수노(Suno) AI 기술을 통해 생성됐고, 기획·작사 및 전체 프로듀싱 디렉션은 머무르가 직접 진행했다. 머무르는 “저에게 AI는 현대적인 악기이자, 제 상상을 함께 현실로 옮겨주는 파트너”라고 밝혔다."
+            "x": "진행자 Luke Conard는 튜토리얼에서 작업 흐름을 처음부터 끝까지 짚는다. Albums와 플레이리스트의 차이, 새 LP나 EP 만들기, Album 아트워크 업로드와 생성, Library나 플레이리스트에서 곡 추가하기가 차례로 나온다."
           },
           {
             "t": "p",
-            "x": "6월 23일 공개된 곡은 릴스·쇼츠 배경음악으로 쓰이며 유튜브에서 먼저 관심을 모았고, 9월 2일 유튜브 일간 인기 뮤직비디오 차트 1위를 기록했다. 한 달 만인 2일 멜론 톱 100 기준 29위까지 올라섰고, 벅스 실시간 차트에서는 1위에 올랐다."
-          },
-          {
-            "t": "p",
-            "x": "음원차트 댓글에는 “AI 차트를 따로 만들거나 AI 음원 표기 의무화가 필요하다”는 의견도 나온다. 정민재 대중음악 평론가는 “AI 차트를 별도로 신설하는 등의 논의가 되어야 할 것”이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "한 음원 플랫폼 관계자는 “신탁단체나 정부에서 AI 창작물을 어떻게 분류할 것인가에 대한 기준이 먼저 성립된 뒤에 민간기업이 따를 수 있는 상황”이라고 전했다. 텐센트뮤직에 따르면 플랫폼 신규 등록 음악 중 AI 음악 비중은 2023년 5.2%에서 올해 상반기 44.1%로 늘었다."
+            "x": "트랙 순서 바꾸기와 Album 세부 정보 편집, 발매 전 초안 공유, 기존 플레이리스트를 Album으로 바꾸기, 모든 곡에 Album 커버 하나 쓰기도 다룬다. 공개하면 무엇이 달라지는지, 발매 후 Album을 찾아 고치는 법까지 설명한다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "수노로 만든 노래가\n벅스 차트 1위에 올랐다",
-          "body": "수노로 만든 머무르 곡이 벅스 실시간 1위에 올라 AI 표기 논의가 다시 불붙었다.",
-          "mini_headline": "수노 곡, 벅스 차트 1위",
+        "en": {
+          "headline": "Suno now lets creators\npublish full albums",
+          "body": "Suno Albums lets creators group AI-made songs into a draft, set the track order and publish the full release on Suno.",
+          "mini_headline": "Suno adds Albums",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+                "t": "video",
+                "yt": "MdxaU0l3FzI"
               },
               {
                 "t": "p",
-                "x": "창작자 머무르의 ‘꿈꾸던 어른이 되었나요?’는 생성형 인공지능(AI)을 활용해 제작된 음원이다. AI 제작 음원 표기 의무 등의 제도가 미비한 가운데 AI 곡이 차트 상위권을 치고 올라오자 관련 논의의 필요성이 다시 대두되고 있다."
+                "x": "Albums are here on Suno. With Albums, creators can bring their songs together into a full release, create or upload cover art, arrange the track list, publish the Album on Suno, and share the whole project in one place."
               },
               {
                 "t": "p",
-                "x": "이 곡은 수노(Suno) AI 기술을 통해 생성됐고, 기획·작사 및 전체 프로듀싱 디렉션은 머무르가 직접 진행했다. 머무르는 “저에게 AI는 현대적인 악기이자, 제 상상을 함께 현실로 옮겨주는 파트너”라고 밝혔다."
+                "x": "In the tutorial, host Luke Conard walks through the full workflow: how Albums differ from playlists, creating a new LP or EP, uploading or generating Album artwork, and adding songs from the Library or from playlists."
               },
               {
                 "t": "p",
-                "x": "6월 23일 공개된 곡은 릴스·쇼츠 배경음악으로 쓰이며 유튜브에서 먼저 관심을 모았고, 9월 2일 유튜브 일간 인기 뮤직비디오 차트 1위를 기록했다. 한 달 만인 2일 멜론 톱 100 기준 29위까지 올라섰고, 벅스 실시간 차트에서는 1위에 올랐다."
-              },
-              {
-                "t": "p",
-                "x": "음원차트 댓글에는 “AI 차트를 따로 만들거나 AI 음원 표기 의무화가 필요하다”는 의견도 나온다. 정민재 대중음악 평론가는 “AI 차트를 별도로 신설하는 등의 논의가 되어야 할 것”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "한 음원 플랫폼 관계자는 “신탁단체나 정부에서 AI 창작물을 어떻게 분류할 것인가에 대한 기준이 먼저 성립된 뒤에 민간기업이 따를 수 있는 상황”이라고 전했다. 텐센트뮤직에 따르면 플랫폼 신규 등록 음악 중 AI 음악 비중은 2023년 5.2%에서 올해 상반기 44.1%로 늘었다."
+                "x": "It also covers reordering tracks and editing Album details, sharing a draft before release, turning an existing playlist into an Album, using one Album cover across every song, what happens on publish, and finding and editing Albums after release."
               }
             ]
           }
         },
-        "en": {
-          "headline": "A song made with Suno tops\nthe Bugs real-time chart",
-          "body": "A song Meomureu made with Suno hit No. 1 on Bugs' real-time chart, reigniting debate over labeling AI music.",
-          "mini_headline": "Suno song tops Bugs chart",
+        "ko": {
+          "headline": "Suno에서 이제\n앨범 통째로 낸다",
+          "body": "Suno Albums로 AI-made 곡을 초안으로 묶고 순서를 정해 발매한다.",
+          "mini_headline": "Suno, Albums 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+                "t": "video",
+                "yt": "MdxaU0l3FzI"
               },
               {
                 "t": "p",
-                "x": "Creator Meomureu's ‘Did I Become the Adult I Dreamed Of?’ is a track made with generative artificial intelligence (AI). With rules such as mandatory labeling of AI-made tracks still lacking, an AI song climbing to the top of the charts has renewed calls for a discussion."
+                "x": "Suno에 Albums가 나왔다. 크리에이터는 Albums로 곡을 모아 하나의 정식 발매작을 만든다. 커버 아트를 생성하거나 업로드하고 트랙 리스트를 정리한 다음 Album을 Suno에 공개하고, 프로젝트 전체를 한곳에서 공유할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "The song was generated with Suno AI technology, while Meomureu personally handled the planning, lyrics and overall production direction. Meomureu said, “To me, AI is a modern instrument and a partner that helps turn my imagination into reality.”"
+                "x": "진행자 Luke Conard는 튜토리얼에서 작업 흐름을 처음부터 끝까지 짚는다. Albums와 플레이리스트의 차이, 새 LP나 EP 만들기, Album 아트워크 업로드와 생성, Library나 플레이리스트에서 곡 추가하기가 차례로 나온다."
               },
               {
                 "t": "p",
-                "x": "Released on June 23, the song first drew attention on YouTube as background music for Reels and Shorts, and on September 2 it ranked No. 1 on YouTube's daily popular music video chart. A month later, on the 2nd, it climbed to No. 29 on the Melon Top 100 and reached No. 1 on the Bugs real-time chart."
-              },
-              {
-                "t": "p",
-                "x": "Comments on music charts include calls to “create a separate AI chart or make labeling of AI tracks mandatory.” Pop music critic Jeong Min-jae said, “There should be discussion of measures such as creating a separate AI chart.”"
-              },
-              {
-                "t": "p",
-                "x": "An official at a music platform said, “Private companies can follow only after copyright collectives or the government first set standards on how to classify AI creations.” According to Tencent Music, the share of AI music among newly registered tracks on its platform rose from 5.2% in 2023 to 44.1% in the first half of this year."
+                "x": "트랙 순서 바꾸기와 Album 세부 정보 편집, 발매 전 초안 공유, 기존 플레이리스트를 Album으로 바꾸기, 모든 곡에 Album 커버 하나 쓰기도 다룬다. 공개하면 무엇이 달라지는지, 발매 후 Album을 찾아 고치는 법까지 설명한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sunoで作った曲が\nBugsチャートで1位",
-          "body": "Sunoで作られたモムルの曲がBugsのリアルタイム1位となり、AI表記論議が再燃した。",
-          "mini_headline": "Suno曲がBugsで1位",
+          "headline": "Sunoでクリエイターが\nアルバムを丸ごと公開",
+          "body": "Suno Albumsでは、AI-madeの曲を下書きにまとめ、曲順を決めて公開できる。",
+          "mini_headline": "SunoがAlbumsを追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+                "t": "video",
+                "yt": "MdxaU0l3FzI"
               },
               {
                 "t": "p",
-                "x": "クリエイターのモムルによる『夢見た大人になれましたか?』は、生成人工知能(AI)を活用して制作された音源だ。AI制作音源の表記義務などの制度が整わないなか、AI曲がチャート上位に食い込み、関連する議論の必要性が改めて浮上している。"
+                "x": "SunoにAlbumsが登場した。Albumsを使えば、クリエイターは楽曲をまとめて一つの作品としてリリースし、カバーアートを作成またはアップロードし、トラックリストを並べ、AlbumをSunoで公開し、プロジェクト全体を一か所で共有できる。"
               },
               {
                 "t": "p",
-                "x": "この曲はSunoのAI技術で生成され、企画・作詞と全体のプロデュースディレクションはモムル本人が担った。モムルは「私にとってAIは現代的な楽器であり、私の想像を共に現実へ移してくれるパートナーだ」と語った。"
+                "x": "チュートリアルでは、ホストのLuke Conardが一連の流れを説明する。Albumsとプレイリストの違い、新しいLPやEPの作成、Albumアートワークのアップロードや生成、Libraryやプレイリストからの曲の追加だ。"
               },
               {
                 "t": "p",
-                "x": "6月23日に公開された曲は、リールやショート動画のBGMとして使われ、まずYouTubeで注目を集めた。9月2日にはYouTubeの日間人気ミュージックビデオチャートで1位を記録した。それからひと月で、2日にはMelonトップ100で29位まで上昇し、Bugsのリアルタイムチャートでは1位に立った。"
-              },
-              {
-                "t": "p",
-                "x": "音源チャートのコメント欄には「AIチャートを別に作るか、AI音源の表記義務化が必要だ」との意見も出ている。大衆音楽評論家のチョン・ミンジェ氏は「AIチャートを別途新設するなどの議論がなされるべきだ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "ある音源プラットフォーム関係者は「著作権信託団体や政府がAI創作物をどう分類するかの基準をまず定めてこそ、民間企業が従える状況だ」と話した。Tencent Musicによると、プラットフォームに新規登録された楽曲のうちAI音楽の比率は2023年の5.2%から、今年上半期には44.1%に増えた。"
+                "x": "さらに、曲順の入れ替えやAlbum詳細の編集、リリース前の下書き共有、既存プレイリストのAlbum化、全曲に一つのAlbumカバーを使う方法、公開時に何が起きるか、リリース後のAlbumの検索と編集も取り上げている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用Suno制作的歌曲\n登顶Bugs排行榜",
-          "body": "Meomureu用Suno制作的歌曲登上Bugs实时榜第1名,再度引发AI标注讨论。",
-          "mini_headline": "Suno歌曲登顶Bugs榜",
+          "headline": "Suno让创作者\n发布完整专辑",
+          "body": "Suno Albums可将AI-made歌曲归入草稿、排好曲序，并在Suno上发布。",
+          "mini_headline": "Suno推出Albums",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+                "t": "video",
+                "yt": "MdxaU0l3FzI"
               },
               {
                 "t": "p",
-                "x": "创作者Meomureu的《是否成为了梦想中的大人?》是借助生成式人工智能(AI)制作的音源。在AI制作音源标注义务等制度尚不完善的情况下,AI歌曲冲上排行榜前列,相关讨论的必要性再次凸显。"
+                "x": "Suno推出了Albums。借助Albums，创作者可以把歌曲整合成一张完整作品，创建或上传封面，编排曲目列表，在Suno上发布Album，并在一处分享整个项目。"
               },
               {
                 "t": "p",
-                "x": "这首歌通过Suno的AI技术生成,企划、作词及整体制作指导由Meomureu亲自完成。Meomureu表示:“对我来说,AI是一种现代乐器,也是与我一起把想象变为现实的伙伴。”"
+                "x": "在教程中，主持人Luke Conard演示了完整流程：Albums与播放列表有何不同，如何新建LP或EP，如何上传或生成Album封面，以及如何从Library或播放列表中添加歌曲。"
               },
               {
                 "t": "p",
-                "x": "这首歌于6月23日发布,作为Reels和Shorts的背景音乐先在YouTube上受到关注,9月2日登上YouTube每日热门音乐视频榜第1名。一个月后的2日,它在Melon Top 100中升至第29名,并在Bugs实时榜上登顶第1名。"
-              },
-              {
-                "t": "p",
-                "x": "音源榜单评论区也出现了“需要另设AI榜单或强制标注AI音源”的意见。流行音乐评论家Jeong Min-jae表示:“应该讨论另设AI榜单等方案。”"
-              },
-              {
-                "t": "p",
-                "x": "一位音源平台相关人士表示:“只有在著作权信托团体或政府先确立如何对AI创作物进行分类的标准之后,民营企业才能跟进。”据腾讯音乐称,平台新登记音乐中AI音乐的占比从2023年的5.2%增至今年上半年的44.1%。"
+                "x": "教程还介绍了如何调整曲序和编辑Album信息、在发布前分享草稿、将现有播放列表转为Album、为所有歌曲使用同一张Album封面、发布时会发生什么，以及发布后如何查找和编辑Album。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una canción hecha con Suno\nlidera la lista de Bugs",
-          "body": "Un tema de Meomureu hecho con Suno llegó al n.º 1 de Bugs y reavivó el debate sobre etiquetar la música hecha con AI.",
-          "mini_headline": "Un tema de Suno, n.º 1 en Bugs",
+          "headline": "Suno ya permite a los creadores\npublicar álbumes completos",
+          "body": "Suno Albums permite agrupar canciones AI-made en un borrador, ordenar las pistas y publicar el lanzamiento en Suno.",
+          "mini_headline": "Suno añade Albums",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+                "t": "video",
+                "yt": "MdxaU0l3FzI"
               },
               {
                 "t": "p",
-                "x": "‘¿Me convertí en el adulto que soñaba?’, obra de Meomureu, es un tema producido con inteligencia artificial (AI) generativa. Ante la falta de normas como la obligación de etiquetar los temas hechos con AI, la escalada de una canción AI a lo alto de las listas ha vuelto a poner sobre la mesa la necesidad de debatir el asunto."
+                "x": "Albums ya está disponible en Suno. Con Albums, los creadores pueden reunir sus canciones en un lanzamiento completo, crear o subir la portada, ordenar la lista de pistas, publicar el Album en Suno y compartir todo el proyecto en un solo lugar."
               },
               {
                 "t": "p",
-                "x": "La canción se generó con la tecnología AI de Suno, mientras que Meomureu se encargó en persona de la planificación, la letra y la dirección general de la producción. Meomureu afirmó: “Para mí, la AI es un instrumento moderno y una compañera que me ayuda a hacer realidad lo que imagino”."
+                "x": "En el tutorial, el presentador Luke Conard recorre todo el proceso: en qué se diferencian Albums de las playlists, cómo crear un nuevo LP o EP, cómo subir o generar la portada del Album y cómo añadir canciones desde la Library o desde playlists."
               },
               {
                 "t": "p",
-                "x": "Publicada el 23 de junio, la canción llamó primero la atención en YouTube como música de fondo de Reels y Shorts, y el 2 de septiembre alcanzó el n.º 1 de la lista diaria de videos musicales populares de YouTube. Un mes después, el día 2, subió hasta el puesto 29 del Top 100 de Melon y llegó al n.º 1 de la lista en tiempo real de Bugs."
-              },
-              {
-                "t": "p",
-                "x": "En los comentarios de las listas musicales aparecen opiniones como “hace falta crear una lista AI aparte o hacer obligatorio etiquetar la música AI”. El crítico de música popular Jeong Min-jae señaló: “Debería debatirse, por ejemplo, la creación de una lista AI independiente”."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de una plataforma musical explicó: “Las empresas privadas solo podrán seguirlo una vez que las entidades de gestión colectiva o el Gobierno establezcan primero un criterio sobre cómo clasificar las creaciones de AI”. Según Tencent Music, la proporción de música AI entre los temas recién registrados en su plataforma pasó del 5.2% en 2023 al 44.1% en el primer semestre de este año."
+                "x": "También explica cómo reordenar pistas y editar los detalles del Album, compartir un borrador antes del lanzamiento, convertir una playlist existente en un Album, usar una misma portada de Album para todas las canciones, qué ocurre al publicar y cómo encontrar y editar Albums después del lanzamiento."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "A song made with Suno tops\nthe Bugs real-time chart",
-          "body": "A song Meomureu made with Suno hit No. 1 on Bugs' real-time chart, reigniting debate over labeling AI music.",
-          "mini_headline": "Suno song tops Bugs chart",
+        "ko": {
+          "headline": "Suno에서 이제\n앨범 통째로 낸다",
+          "body": "Suno Albums로 AI-made 곡을 초안에 묶고 순서를 정해 발매한다.",
+          "mini_headline": "Suno, Albums 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+                "t": "video",
+                "yt": "MdxaU0l3FzI"
               },
               {
                 "t": "p",
-                "x": "Creator Meomureu's ‘Did I Become the Adult I Dreamed Of?’ is a track made with generative artificial intelligence (AI). With rules such as mandatory labeling of AI-made tracks still lacking, an AI song climbing to the top of the charts has renewed calls for a discussion."
+                "x": "Suno에 Albums가 나왔다. Albums를 이용하면 크리에이터는 곡을 모아 하나의 정식 발매작으로 만들고, 커버 아트를 생성하거나 업로드하고, 트랙 리스트를 정리하고, Album을 Suno에 공개하고, 프로젝트 전체를 한곳에서 공유할 수 있다."
               },
               {
                 "t": "p",
-                "x": "The song was generated with Suno AI technology, while Meomureu personally handled the planning, lyrics and overall production direction. Meomureu said, “To me, AI is a modern instrument and a partner that helps turn my imagination into reality.”"
+                "x": "튜토리얼에서 진행자 Luke Conard는 전체 작업 흐름을 차례로 보여준다. Albums가 플레이리스트와 어떻게 다른지, 새 LP나 EP를 만드는 법, Album 아트워크를 업로드하거나 생성하는 법, Library나 플레이리스트에서 곡을 추가하는 법이다."
               },
               {
                 "t": "p",
-                "x": "Released on June 23, the song first drew attention on YouTube as background music for Reels and Shorts, and on September 2 it ranked No. 1 on YouTube's daily popular music video chart. A month later, on the 2nd, it climbed to No. 29 on the Melon Top 100 and reached No. 1 on the Bugs real-time chart."
-              },
-              {
-                "t": "p",
-                "x": "Comments on music charts include calls to “create a separate AI chart or make labeling of AI tracks mandatory.” Pop music critic Jeong Min-jae said, “There should be discussion of measures such as creating a separate AI chart.”"
-              },
-              {
-                "t": "p",
-                "x": "An official at a music platform said, “Private companies can follow only after copyright collectives or the government first set standards on how to classify AI creations.” According to Tencent Music, the share of AI music among newly registered tracks on its platform rose from 5.2% in 2023 to 44.1% in the first half of this year."
+                "x": "트랙 순서를 바꾸고 Album 세부 정보를 편집하는 법, 발매 전에 초안을 공유하는 법, 기존 플레이리스트를 Album으로 바꾸는 법, 모든 곡에 하나의 Album 커버를 쓰는 법, 공개 시 일어나는 일, 발매 후 Album을 찾고 편집하는 법도 다룬다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sunoで作った曲が\nBugsチャートで1位",
-          "body": "Sunoで作られたモムルの曲がBugsのリアルタイム1位となり、AI表記論議が再燃した。",
-          "mini_headline": "Suno曲がBugsで1位",
+          "headline": "Sunoでクリエイターが\nアルバムを丸ごと公開",
+          "body": "Suno Albumsでは、AI-madeの曲を下書きにまとめ、曲順を決めて公開できる。",
+          "mini_headline": "SunoがAlbumsを追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+                "t": "video",
+                "yt": "MdxaU0l3FzI"
               },
               {
                 "t": "p",
-                "x": "クリエイターのモムルによる『夢見た大人になれましたか?』は、生成人工知能(AI)を活用して制作された音源だ。AI制作音源の表記義務などの制度が整わないなか、AI曲がチャート上位に食い込み、関連する議論の必要性が改めて浮上している。"
+                "x": "SunoにAlbumsが登場した。Albumsを使えば、クリエイターは楽曲をまとめて一つの作品としてリリースし、カバーアートを作成またはアップロードし、トラックリストを並べ、AlbumをSunoで公開し、プロジェクト全体を一か所で共有できる。"
               },
               {
                 "t": "p",
-                "x": "この曲はSunoのAI技術で生成され、企画・作詞と全体のプロデュースディレクションはモムル本人が担った。モムルは「私にとってAIは現代的な楽器であり、私の想像を共に現実へ移してくれるパートナーだ」と語った。"
+                "x": "チュートリアルでは、ホストのLuke Conardが一連の流れを説明する。Albumsとプレイリストの違い、新しいLPやEPの作成、Albumアートワークのアップロードや生成、Libraryやプレイリストからの曲の追加だ。"
               },
               {
                 "t": "p",
-                "x": "6月23日に公開された曲は、リールやショート動画のBGMとして使われ、まずYouTubeで注目を集めた。9月2日にはYouTubeの日間人気ミュージックビデオチャートで1位を記録した。それからひと月で、2日にはMelonトップ100で29位まで上昇し、Bugsのリアルタイムチャートでは1位に立った。"
-              },
-              {
-                "t": "p",
-                "x": "音源チャートのコメント欄には「AIチャートを別に作るか、AI音源の表記義務化が必要だ」との意見も出ている。大衆音楽評論家のチョン・ミンジェ氏は「AIチャートを別途新設するなどの議論がなされるべきだ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "ある音源プラットフォーム関係者は「著作権信託団体や政府がAI創作物をどう分類するかの基準をまず定めてこそ、民間企業が従える状況だ」と話した。Tencent Musicによると、プラットフォームに新規登録された楽曲のうちAI音楽の比率は2023年の5.2%から、今年上半期には44.1%に増えた。"
+                "x": "さらに、曲順の入れ替えやAlbum詳細の編集、リリース前の下書き共有、既存プレイリストのAlbum化、全曲に一つのAlbumカバーを使う方法、公開時に何が起きるか、リリース後のAlbumの検索と編集も取り上げている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用Suno制作的歌曲\n登顶Bugs排行榜",
-          "body": "Meomureu用Suno制作的歌曲登上Bugs实时榜第1名,再度引发AI标注讨论。",
-          "mini_headline": "Suno歌曲登顶Bugs榜",
+          "headline": "Suno让创作者\n发布完整专辑",
+          "body": "Suno Albums可将AI-made歌曲归入草稿、排好曲序，并在Suno上发布。",
+          "mini_headline": "Suno推出Albums",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+                "t": "video",
+                "yt": "MdxaU0l3FzI"
               },
               {
                 "t": "p",
-                "x": "创作者Meomureu的《是否成为了梦想中的大人?》是借助生成式人工智能(AI)制作的音源。在AI制作音源标注义务等制度尚不完善的情况下,AI歌曲冲上排行榜前列,相关讨论的必要性再次凸显。"
+                "x": "Suno推出了Albums。借助Albums，创作者可以把歌曲整合成一张完整作品，创建或上传封面，编排曲目列表，在Suno上发布Album，并在一处分享整个项目。"
               },
               {
                 "t": "p",
-                "x": "这首歌通过Suno的AI技术生成,企划、作词及整体制作指导由Meomureu亲自完成。Meomureu表示:“对我来说,AI是一种现代乐器,也是与我一起把想象变为现实的伙伴。”"
+                "x": "在教程中，主持人Luke Conard演示了完整流程：Albums与播放列表有何不同，如何新建LP或EP，如何上传或生成Album封面，以及如何从Library或播放列表中添加歌曲。"
               },
               {
                 "t": "p",
-                "x": "这首歌于6月23日发布,作为Reels和Shorts的背景音乐先在YouTube上受到关注,9月2日登上YouTube每日热门音乐视频榜第1名。一个月后的2日,它在Melon Top 100中升至第29名,并在Bugs实时榜上登顶第1名。"
-              },
-              {
-                "t": "p",
-                "x": "音源榜单评论区也出现了“需要另设AI榜单或强制标注AI音源”的意见。流行音乐评论家Jeong Min-jae表示:“应该讨论另设AI榜单等方案。”"
-              },
-              {
-                "t": "p",
-                "x": "一位音源平台相关人士表示:“只有在著作权信托团体或政府先确立如何对AI创作物进行分类的标准之后,民营企业才能跟进。”据腾讯音乐称,平台新登记音乐中AI音乐的占比从2023年的5.2%增至今年上半年的44.1%。"
+                "x": "教程还介绍了如何调整曲序和编辑Album信息、在发布前分享草稿、将现有播放列表转为Album、为所有歌曲使用同一张Album封面、发布时会发生什么，以及发布后如何查找和编辑Album。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una canción hecha con Suno\nlidera la lista de Bugs",
-          "body": "Un tema de Meomureu hecho con Suno llegó al n.º 1 de Bugs y reavivó el debate sobre etiquetar la música hecha con AI.",
-          "mini_headline": "Un tema de Suno, n.º 1 en Bugs",
+          "headline": "Suno ya permite a los creadores\npublicar álbumes completos",
+          "body": "Suno Albums permite agrupar canciones AI-made en un borrador, ordenar las pistas y publicar el lanzamiento en Suno.",
+          "mini_headline": "Suno añade Albums",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/10/01/isp20261001000306.1280x.0.png"
+                "t": "video",
+                "yt": "MdxaU0l3FzI"
               },
               {
                 "t": "p",
-                "x": "‘¿Me convertí en el adulto que soñaba?’, obra de Meomureu, es un tema producido con inteligencia artificial (AI) generativa. Ante la falta de normas como la obligación de etiquetar los temas hechos con AI, la escalada de una canción AI a lo alto de las listas ha vuelto a poner sobre la mesa la necesidad de debatir el asunto."
+                "x": "Albums ya está disponible en Suno. Con Albums, los creadores pueden reunir sus canciones en un lanzamiento completo, crear o subir la portada, ordenar la lista de pistas, publicar el Album en Suno y compartir todo el proyecto en un solo lugar."
               },
               {
                 "t": "p",
-                "x": "La canción se generó con la tecnología AI de Suno, mientras que Meomureu se encargó en persona de la planificación, la letra y la dirección general de la producción. Meomureu afirmó: “Para mí, la AI es un instrumento moderno y una compañera que me ayuda a hacer realidad lo que imagino”."
+                "x": "En el tutorial, el presentador Luke Conard recorre todo el proceso: en qué se diferencian Albums de las playlists, cómo crear un nuevo LP o EP, cómo subir o generar la portada del Album y cómo añadir canciones desde la Library o desde playlists."
               },
               {
                 "t": "p",
-                "x": "Publicada el 23 de junio, la canción llamó primero la atención en YouTube como música de fondo de Reels y Shorts, y el 2 de septiembre alcanzó el n.º 1 de la lista diaria de videos musicales populares de YouTube. Un mes después, el día 2, subió hasta el puesto 29 del Top 100 de Melon y llegó al n.º 1 de la lista en tiempo real de Bugs."
-              },
-              {
-                "t": "p",
-                "x": "En los comentarios de las listas musicales aparecen opiniones como “hace falta crear una lista AI aparte o hacer obligatorio etiquetar la música AI”. El crítico de música popular Jeong Min-jae señaló: “Debería debatirse, por ejemplo, la creación de una lista AI independiente”."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de una plataforma musical explicó: “Las empresas privadas solo podrán seguirlo una vez que las entidades de gestión colectiva o el Gobierno establezcan primero un criterio sobre cómo clasificar las creaciones de AI”. Según Tencent Music, la proporción de música AI entre los temas recién registrados en su plataforma pasó del 5.2% en 2023 al 44.1% en el primer semestre de este año."
+                "x": "También explica cómo reordenar pistas y editar los detalles del Album, compartir un borrador antes del lanzamiento, convertir una playlist existente en un Album, usar una misma portada de Album para todas las canciones, qué ocurre al publicar y cómo encontrar y editar Albums después del lanzamiento."
               }
             ]
           }
@@ -355,351 +275,311 @@
       }
     },
     {
-      "id": "mbw-suno-wmg-bmg-licence-terms",
+      "id": "sony-music-260k-deepfake-takedowns",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "WMG·BMG가 Suno에\n내는 돈, 팬 리믹스 대가",
-      "body": "CEO Mikey Shulman은 WMG·BMG가 팬 리믹스에 돈을 낸다고 했다.",
-      "mini_headline": "WMG·BMG가 Suno에 돈 내는 이유",
+      "headline": "Sony Music, AI\n가짜 260,000건 삭제",
+      "body": "Sony Music은 AI 모방곡 260,000건 넘게 삭제를 요청하며 고전한다.",
+      "mini_headline": "Sony, AI 가짜 260,000건 겨냥",
       "tool": "Music",
       "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
-      "accent": "#0070f3",
+      "url": "https://www.musicbusinessworldwide.com/sony-music-has-now-asked-platforms-to-remove-more-than-260000-ai-deepfakes-imitating-artists-like-harry-styles-adele-and-michael-jackson/",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+            "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
           },
           {
             "t": "p",
-            "x": "Suno 공동창업자이자 CEO인 Mikey Shulman은 10월 1일 Bloomberg의 Screentime 콘퍼런스에서 Suno가 앞서 공개한 유료 구독자 2 million명, 매출 USD $300 million을 이미 “훨씬 넘어섰다”고 말했다. 새 수치는 어느 쪽도 내놓지 않았다."
+            "x": "Financial Times에 따르면 Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI-generated 트랙 260,000건 이상을 내려 달라고 디지털 플랫폼에 요청했다. 3월 말까지 요청한 135,000건의 두 배 가까운 규모다."
           },
           {
             "t": "p",
-            "x": "Warner Music Group과 BMG가 무엇을 받고 Suno에 돈을 내느냐고 묻자 Shulman은 이렇게 답했다. “좋아하는 아티스트의 음악을 가져와 갖고 놀면서 리믹스하거나 커버하거나 다른 것과 매시업할 수 있다고 상상해 보라… 완전히 새로운 제품이다.”"
-          },
-          {
-            "t": "video",
-            "yt": "j8JAWfM6q1E"
+            "x": "“아티스트의 권리를 계속 지키겠으며, 플랫폼이 신속히 대응하고 같은 콘텐츠가 다시 올라오지 않도록 막아 주기를 기대한다.” Sony는 FT에 이렇게 말했다. “하지만 점점 힘겨운 싸움이 되고 있다.”"
           },
           {
             "t": "p",
-            "x": "Suno는 2025년 11월 WMG 소송을 합의로 끝낸 뒤 8월 12일 BMG, 9월 8일 Believe와 계약했고 9월 9일 이들 파트너와 함께 v6 모델을 내놓았다. Universal과 Sony는 9월 18일 다시 소송을 냈다."
+            "x": "딥페이크 표적이 된 Sony 계열(Sony-affiliated) 아티스트로는 Harry Styles, Adele, Britney Spears, Queen, Michael Jackson 등이 있다. 플랫폼이 이 중 몇 곡을 내렸는지, 어떤 서비스가 요청을 받았는지는 FT 보도에 나오지 않는다."
           },
           {
             "t": "p",
-            "x": "AI 음악 표기를 두고 Shulman은 어느 한쪽이 정할 일이 아니라며 “아직 확고한 규칙이 없다는 건 사실 좋은 일”이라고 말했다."
+            "x": "레이블 임원들은 스트리밍 사기로 업계가 입는 손실을 연간 최대 $2.2 billion으로 본다고 FT는 전했다. Sony는 개인의 목소리와 시각적 초상에 연방 차원의 권리를 새로 만드는 NO FAKES Act를 지지한다. 법안은 6월 18일 상원 법사위원회를 만장일치로 통과했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Suno's CEO says WMG and BMG\npay for fan remixes of artists",
-          "body": "Asked what WMG and BMG pay Suno for, CEO Mikey Shulman pointed to a product for fans to remix and cover artists' music.",
-          "mini_headline": "What WMG and BMG pay Suno for",
+          "headline": "Sony Music seeks removal of\n260,000+ AI deepfakes",
+          "body": "Sony Music has asked platforms to remove over 260,000 AI soundalike tracks, calling the fight an uphill struggle.",
+          "mini_headline": "Sony targets 260,000 AI fakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
               },
               {
                 "t": "p",
-                "x": "Suno is now “far beyond” the 2 million paid subscribers and USD $300 million in revenue it last disclosed, co-founder and CEO Mikey Shulman said at Bloomberg's Screentime conference on October 1. He did not put a new number on either figure."
+                "x": "By the end of September, Sony Music had asked digital platforms to take down more than 260,000 AI-generated tracks impersonating its artists – almost double the 135,000 it had sought to remove by the end of March, according to the Financial Times."
               },
               {
                 "t": "p",
-                "x": "Asked what Warner Music Group and BMG are paying Suno for, Shulman said: “Imagine, you can take the music of one of your favorite artists and start to play with it and remix it or cover it or mash it up with something else… This is an entirely new product.”"
-              },
-              {
-                "t": "video",
-                "yt": "j8JAWfM6q1E"
+                "x": "“We will keep enforcing our artists’ rights and expect platforms to act quickly and to prevent the same content from reappearing,” Sony told the FT. “But it’s becoming an uphill struggle.”"
               },
               {
                 "t": "p",
-                "x": "Suno settled WMG's lawsuit in November 2025, signed BMG on August 12 and Believe on September 8, and launched its v6 models with those partners on September 9. Universal and Sony sued again on September 18."
+                "x": "Sony-affiliated artists targeted by the deepfakes include Harry Styles, Adele, Britney Spears, Queen, and Michael Jackson. The FT did not report how many of the tracks platforms have removed, or which services received the requests."
               },
               {
                 "t": "p",
-                "x": "On labelling AI music, Shulman said no single party should decide, and “it's actually good that we don't have firm rules of the road just yet.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "WMGとBMGがSunoに\n払うのはファン用リミックス",
-          "body": "Mikey Shulman CEOはWMGとBMGが払うのはファン用リミックスだと語った。",
-          "mini_headline": "WMGとBMGがSunoに払う対価",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
-              },
-              {
-                "t": "p",
-                "x": "共同創業者でCEOのMikey Shulmanは10月1日、BloombergのScreentimeカンファレンスで、Sunoは最後に公表した有料会員2百万人、売上高USD $300 millionを今や「はるかに超えている」と述べた。いずれの数字についても新たな値は示さなかった。"
-              },
-              {
-                "t": "p",
-                "x": "Warner Music GroupとBMGがSunoに何の対価を払っているのかと問われ、Shulmanはこう答えた。「想像してみてほしい。好きなアーティストの音楽を手に取って遊び始め、リミックスしたり、カバーしたり、別の何かとマッシュアップしたりできる…これはまったく新しいプロダクトだ」"
-              },
-              {
-                "t": "video",
-                "yt": "j8JAWfM6q1E"
-              },
-              {
-                "t": "p",
-                "x": "Sunoは2025年11月にWMGの訴訟で和解し、8月12日にBMG、9月8日にBelieveと契約、9月9日にこれらのパートナーとともにv6モデルを公開した。UniversalとSonyは9月18日に改めて提訴した。"
-              },
-              {
-                "t": "p",
-                "x": "AI音楽の表示について、Shulmanはどこか一者が決めるべきではないとし、「確固たるルールがまだないのは、実は良いことだ」と語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "WMG与BMG向Suno付费\n为的是粉丝混音翻唱",
-          "body": "Suno CEO Mikey Shulman称,WMG与BMG买的是粉丝混音翻唱产品。",
-          "mini_headline": "WMG与BMG向Suno付费买什么",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
-              },
-              {
-                "t": "p",
-                "x": "联合创始人兼CEO Mikey Shulman于10月1日在Bloomberg的Screentime大会上表示,Suno如今已“远远超过”其上次披露的2百万付费订阅用户和USD $300 million营收。他没有给出这两项的新数字。"
-              },
-              {
-                "t": "p",
-                "x": "被问及Warner Music Group和BMG付费给Suno买的是什么时,Shulman说:“想象一下,你可以拿来自己最喜欢的某位艺人的音乐,开始把玩它,对它进行混音、翻唱,或者与其他东西做混搭……这是一个全新的产品。”"
-              },
-              {
-                "t": "video",
-                "yt": "j8JAWfM6q1E"
-              },
-              {
-                "t": "p",
-                "x": "Suno于2025年11月与WMG就诉讼达成和解,8月12日与BMG、9月8日与Believe签约,并于9月9日与这些合作伙伴推出v6模型。Universal和Sony于9月18日再次提起诉讼。"
-              },
-              {
-                "t": "p",
-                "x": "关于AI音乐标注,Shulman表示不应由任何单独一方来决定,并称“目前还没有明确的规则,其实是件好事”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El CEO de Suno: WMG y BMG pagan\npor remixes de fans de artistas",
-          "body": "Al preguntarle qué pagan WMG y BMG a Suno, el CEO Mikey Shulman citó un producto de remezclas y versiones para fans.",
-          "mini_headline": "Lo que WMG y BMG pagan a Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Suno ya está “muy por encima” de los 2 millones de suscriptores de pago y los USD $300 millones de ingresos que reveló por última vez, dijo su cofundador y CEO, Mikey Shulman, en la conferencia Screentime de Bloomberg el 1 de octubre. No dio una cifra nueva para ninguno de los dos datos."
-              },
-              {
-                "t": "p",
-                "x": "Al preguntarle por qué pagan Warner Music Group y BMG a Suno, Shulman respondió: “Imagina que puedes tomar la música de uno de tus artistas favoritos y empezar a jugar con ella, remezclarla, versionarla o mezclarla con otra cosa… Es un producto totalmente nuevo”."
-              },
-              {
-                "t": "video",
-                "yt": "j8JAWfM6q1E"
-              },
-              {
-                "t": "p",
-                "x": "Suno resolvió la demanda de WMG en noviembre de 2025, firmó con BMG el 12 de agosto y con Believe el 8 de septiembre, y lanzó sus modelos v6 con esos socios el 9 de septiembre. Universal y Sony volvieron a demandar el 18 de septiembre."
-              },
-              {
-                "t": "p",
-                "x": "Sobre el etiquetado de la música AI, Shulman dijo que ninguna parte por sí sola debería decidir y que “en realidad es bueno que todavía no tengamos reglas firmes del juego”."
+                "x": "The FT also reported that label executives estimate streaming fraud could be costing the industry up to $2.2 billion annually. Sony supports the NO FAKES Act, which would create a federal right in a person’s voice and visual likeness; the bill cleared the Senate Judiciary Committee unanimously on June 18."
               }
             ]
           }
         },
         "ko": {
-          "headline": "WMG·BMG가 Suno에\n내는 돈, 팬 리믹스 대가",
-          "body": "CEO Mikey Shulman은 WMG·BMG가 팬 리믹스에 돈을 낸다고 했다.",
-          "mini_headline": "WMG·BMG가 Suno에 돈 내는 이유",
+          "headline": "Sony Music, AI\n가짜 260,000건 삭제",
+          "body": "Sony Music은 AI 모방곡 260,000건 넘게 삭제를 요청하며 고전한다.",
+          "mini_headline": "Sony, AI 가짜 260,000건 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
               },
               {
                 "t": "p",
-                "x": "Suno 공동창업자이자 CEO인 Mikey Shulman은 10월 1일 Bloomberg의 Screentime 콘퍼런스에서 Suno가 앞서 공개한 유료 구독자 2 million명, 매출 USD $300 million을 이미 “훨씬 넘어섰다”고 말했다. 새 수치는 어느 쪽도 내놓지 않았다."
+                "x": "Financial Times에 따르면 Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI-generated 트랙 260,000건 이상을 내려 달라고 디지털 플랫폼에 요청했다. 3월 말까지 요청한 135,000건의 두 배 가까운 규모다."
               },
               {
                 "t": "p",
-                "x": "Warner Music Group과 BMG가 무엇을 받고 Suno에 돈을 내느냐고 묻자 Shulman은 이렇게 답했다. “좋아하는 아티스트의 음악을 가져와 갖고 놀면서 리믹스하거나 커버하거나 다른 것과 매시업할 수 있다고 상상해 보라… 완전히 새로운 제품이다.”"
-              },
-              {
-                "t": "video",
-                "yt": "j8JAWfM6q1E"
+                "x": "“아티스트의 권리를 계속 지키겠으며, 플랫폼이 신속히 대응하고 같은 콘텐츠가 다시 올라오지 않도록 막아 주기를 기대한다.” Sony는 FT에 이렇게 말했다. “하지만 점점 힘겨운 싸움이 되고 있다.”"
               },
               {
                 "t": "p",
-                "x": "Suno는 2025년 11월 WMG 소송을 합의로 끝낸 뒤 8월 12일 BMG, 9월 8일 Believe와 계약했고 9월 9일 이들 파트너와 함께 v6 모델을 내놓았다. Universal과 Sony는 9월 18일 다시 소송을 냈다."
+                "x": "딥페이크 표적이 된 Sony 계열(Sony-affiliated) 아티스트로는 Harry Styles, Adele, Britney Spears, Queen, Michael Jackson 등이 있다. 플랫폼이 이 중 몇 곡을 내렸는지, 어떤 서비스가 요청을 받았는지는 FT 보도에 나오지 않는다."
               },
               {
                 "t": "p",
-                "x": "AI 음악 표기를 두고 Shulman은 어느 한쪽이 정할 일이 아니라며 “아직 확고한 규칙이 없다는 건 사실 좋은 일”이라고 말했다."
+                "x": "레이블 임원들은 스트리밍 사기로 업계가 입는 손실을 연간 최대 $2.2 billion으로 본다고 FT는 전했다. Sony는 개인의 목소리와 시각적 초상에 연방 차원의 권리를 새로 만드는 NO FAKES Act를 지지한다. 법안은 6월 18일 상원 법사위원회를 만장일치로 통과했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Sony MusicがAI曲\n260,000件超を削除要請",
+          "body": "Sony MusicはAIの模倣曲260,000件超の削除を求め、苦しい戦いだと語った。",
+          "mini_headline": "Sony、AI偽曲260,000件を標的に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Financial Timesによると、Sony Musicは9月末までに、所属アーティストになりすましたAI-generatedの楽曲260,000件以上の削除をデジタルプラットフォームに求めた。3月末までに削除を求めた135,000件からほぼ倍増した。"
+              },
+              {
+                "t": "p",
+                "x": "「当社はアーティストの権利を守る取り組みを続け、プラットフォームには迅速に対応し、同じコンテンツの再出現を防ぐよう求める」とSonyはFTに語った。「だが、苦しい戦いになりつつある」"
+              },
+              {
+                "t": "p",
+                "x": "ディープフェイクの標的となったSony系列（Sony-affiliated）のアーティストには、Harry Styles、Adele、Britney Spears、Queen、Michael Jacksonが含まれる。FTは、プラットフォームが実際に何件を削除したのか、どのサービスが要請を受けたのかは報じていない。"
+              },
+              {
+                "t": "p",
+                "x": "FTはまた、レーベル幹部の推計として、ストリーミング詐欺による業界の損失は年間最大$2.2 billionに上る可能性があると報じた。Sonyは、個人の声と視覚的な肖像に対する連邦レベルの権利を創設するNO FAKES Actを支持している。同法案は6月18日、上院司法委員会を全会一致で通過した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Sony Music要求删除\n逾260,000首AI深伪曲",
+          "body": "Sony Music已要求平台删除逾260,000首AI仿声歌曲，并称这是一场艰难的战斗。",
+          "mini_headline": "Sony瞄准260,000首AI伪作",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
+              },
+              {
+                "t": "p",
+                "x": "据Financial Times报道，截至9月底，Sony Music已要求数字平台下架逾260,000首冒充其旗下艺人的AI-generated歌曲，几乎是3月底时135,000首的两倍。"
+              },
+              {
+                "t": "p",
+                "x": "“我们将继续维护旗下艺人的权利，并期待平台迅速行动，防止相同内容再次出现，”Sony对FT表示，“但这正变得越来越艰难。”"
+              },
+              {
+                "t": "p",
+                "x": "遭深伪冒充的Sony旗下（Sony-affiliated）艺人包括Harry Styles、Adele、Britney Spears、Queen和Michael Jackson。FT并未报道平台已删除其中多少首，也未说明哪些服务收到了请求。"
+              },
+              {
+                "t": "p",
+                "x": "FT还报道称，唱片公司高管估计，流媒体欺诈每年可能给行业造成高达$2.2 billion的损失。Sony支持NO FAKES Act，该法案将确立个人对其声音与视觉形象的联邦权利；该法案已于6月18日在参议院司法委员会获一致通过。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Sony Music pide retirar más de\n260,000 deepfakes de AI",
+          "body": "Sony Music pidió a plataformas retirar más de 260,000 pistas AI que imitan voces y lo llama una batalla cuesta arriba.",
+          "mini_headline": "Sony va contra 260,000 falsificaciones AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
+              },
+              {
+                "t": "p",
+                "x": "A finales de septiembre, Sony Music había pedido a las plataformas digitales retirar más de 260,000 pistas AI-generated que suplantaban a sus artistas, casi el doble de las 135,000 cuya retirada había solicitado a finales de marzo, según el Financial Times."
+              },
+              {
+                "t": "p",
+                "x": "“Seguiremos defendiendo los derechos de nuestros artistas y esperamos que las plataformas actúen con rapidez y eviten que el mismo contenido vuelva a aparecer”, dijo Sony al FT. “Pero se está convirtiendo en una batalla cuesta arriba”."
+              },
+              {
+                "t": "p",
+                "x": "Entre los artistas vinculados a Sony (Sony-affiliated) afectados por los deepfakes figuran Harry Styles, Adele, Britney Spears, Queen y Michael Jackson. El FT no informó cuántas de esas pistas han retirado las plataformas ni qué servicios recibieron las solicitudes."
+              },
+              {
+                "t": "p",
+                "x": "El FT también informó de que directivos de discográficas estiman que el fraude en streaming podría costarle a la industria hasta 2.2 mil millones de dólares al año. Sony apoya la NO FAKES Act, que crearía un derecho federal sobre la voz y la imagen de una persona; el proyecto superó por unanimidad el Comité Judicial del Senado el 18 de junio."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "WMGとBMGがSunoに\n払うのはファン用リミックス",
-          "body": "Mikey Shulman CEOはWMGとBMGが払うのはファン用リミックスだと語った。",
-          "mini_headline": "WMGとBMGがSunoに払う対価",
+        "ko": {
+          "headline": "Sony Music, AI\n가짜 260,000건 삭제",
+          "body": "Sony Music은 AI 모방곡 260,000건 넘게 삭제를 요청하며 고전한다.",
+          "mini_headline": "Sony, AI 가짜 260,000건 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
               },
               {
                 "t": "p",
-                "x": "共同創業者でCEOのMikey Shulmanは10月1日、BloombergのScreentimeカンファレンスで、Sunoは最後に公表した有料会員2百万人、売上高USD $300 millionを今や「はるかに超えている」と述べた。いずれの数字についても新たな値は示さなかった。"
+                "x": "Financial Times에 따르면 Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI-generated 트랙 260,000건 이상을 내려 달라고 디지털 플랫폼에 요청했다. 3월 말까지 삭제를 요청한 135,000건의 두 배에 가깝다."
               },
               {
                 "t": "p",
-                "x": "Warner Music GroupとBMGがSunoに何の対価を払っているのかと問われ、Shulmanはこう答えた。「想像してみてほしい。好きなアーティストの音楽を手に取って遊び始め、リミックスしたり、カバーしたり、別の何かとマッシュアップしたりできる…これはまったく新しいプロダクトだ」"
-              },
-              {
-                "t": "video",
-                "yt": "j8JAWfM6q1E"
+                "x": "“아티스트의 권리를 계속 지키겠으며, 플랫폼이 신속히 대응하고 같은 콘텐츠가 다시 올라오지 않도록 막아 주기를 기대한다.” Sony는 FT에 이렇게 말했다. “하지만 점점 힘겨운 싸움이 되고 있다.”"
               },
               {
                 "t": "p",
-                "x": "Sunoは2025年11月にWMGの訴訟で和解し、8月12日にBMG、9月8日にBelieveと契約、9月9日にこれらのパートナーとともにv6モデルを公開した。UniversalとSonyは9月18日に改めて提訴した。"
+                "x": "딥페이크의 표적이 된 Sony 계열(Sony-affiliated) 아티스트로는 Harry Styles, Adele, Britney Spears, Queen, Michael Jackson 등이 있다. FT는 플랫폼이 이 가운데 몇 곡을 삭제했는지, 어떤 서비스가 요청을 받았는지는 보도하지 않았다."
               },
               {
                 "t": "p",
-                "x": "AI音楽の表示について、Shulmanはどこか一者が決めるべきではないとし、「確固たるルールがまだないのは、実は良いことだ」と語った。"
+                "x": "FT는 또 레이블 임원들이 스트리밍 사기로 업계가 입는 손실을 연간 최대 $2.2 billion으로 추산한다고 전했다. Sony는 개인의 목소리와 시각적 초상에 대한 연방 차원의 권리를 신설하는 NO FAKES Act를 지지한다. 이 법안은 6월 18일 상원 법사위원회를 만장일치로 통과했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Sony MusicがAI曲\n260,000件超を削除要請",
+          "body": "Sony MusicはAIの模倣曲260,000件超の削除を求め、苦しい戦いだと語った。",
+          "mini_headline": "Sony、AI偽曲260,000件を標的に",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Financial Timesによると、Sony Musicは9月末までに、所属アーティストになりすましたAI-generatedの楽曲260,000件以上の削除をデジタルプラットフォームに求めた。3月末までに削除を求めた135,000件からほぼ倍増した。"
+              },
+              {
+                "t": "p",
+                "x": "「当社はアーティストの権利を守る取り組みを続け、プラットフォームには迅速に対応し、同じコンテンツの再出現を防ぐよう求める」とSonyはFTに語った。「だが、苦しい戦いになりつつある」"
+              },
+              {
+                "t": "p",
+                "x": "ディープフェイクの標的となったSony系列（Sony-affiliated）のアーティストには、Harry Styles、Adele、Britney Spears、Queen、Michael Jacksonが含まれる。FTは、プラットフォームが実際に何件を削除したのか、どのサービスが要請を受けたのかは報じていない。"
+              },
+              {
+                "t": "p",
+                "x": "FTはまた、レーベル幹部の推計として、ストリーミング詐欺による業界の損失は年間最大$2.2 billionに上る可能性があると報じた。Sonyは、個人の声と視覚的な肖像に対する連邦レベルの権利を創設するNO FAKES Actを支持している。同法案は6月18日、上院司法委員会を全会一致で通過した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WMG与BMG向Suno付费\n为的是粉丝混音翻唱",
-          "body": "Suno CEO Mikey Shulman称,WMG与BMG买的是粉丝混音翻唱产品。",
-          "mini_headline": "WMG与BMG向Suno付费买什么",
+          "headline": "Sony Music要求删除\n逾260,000首AI深伪曲",
+          "body": "Sony Music已要求平台删除逾260,000首AI仿声歌曲，并称这是一场艰难的战斗。",
+          "mini_headline": "Sony瞄准260,000首AI伪作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
               },
               {
                 "t": "p",
-                "x": "联合创始人兼CEO Mikey Shulman于10月1日在Bloomberg的Screentime大会上表示,Suno如今已“远远超过”其上次披露的2百万付费订阅用户和USD $300 million营收。他没有给出这两项的新数字。"
+                "x": "据Financial Times报道，截至9月底，Sony Music已要求数字平台下架逾260,000首冒充其旗下艺人的AI-generated歌曲，几乎是3月底时135,000首的两倍。"
               },
               {
                 "t": "p",
-                "x": "被问及Warner Music Group和BMG付费给Suno买的是什么时,Shulman说:“想象一下,你可以拿来自己最喜欢的某位艺人的音乐,开始把玩它,对它进行混音、翻唱,或者与其他东西做混搭……这是一个全新的产品。”"
-              },
-              {
-                "t": "video",
-                "yt": "j8JAWfM6q1E"
+                "x": "“我们将继续维护旗下艺人的权利，并期待平台迅速行动，防止相同内容再次出现，”Sony对FT表示，“但这正变得越来越艰难。”"
               },
               {
                 "t": "p",
-                "x": "Suno于2025年11月与WMG就诉讼达成和解,8月12日与BMG、9月8日与Believe签约,并于9月9日与这些合作伙伴推出v6模型。Universal和Sony于9月18日再次提起诉讼。"
+                "x": "遭深伪冒充的Sony旗下（Sony-affiliated）艺人包括Harry Styles、Adele、Britney Spears、Queen和Michael Jackson。FT并未报道平台已删除其中多少首，也未说明哪些服务收到了请求。"
               },
               {
                 "t": "p",
-                "x": "关于AI音乐标注,Shulman表示不应由任何单独一方来决定,并称“目前还没有明确的规则,其实是件好事”。"
+                "x": "FT还报道称，唱片公司高管估计，流媒体欺诈每年可能给行业造成高达$2.2 billion的损失。Sony支持NO FAKES Act，该法案将确立个人对其声音与视觉形象的联邦权利；该法案已于6月18日在参议院司法委员会获一致通过。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El CEO de Suno: WMG y BMG pagan\npor remixes de fans de artistas",
-          "body": "Al preguntarle qué pagan WMG y BMG a Suno, el CEO Mikey Shulman citó un producto de remezclas y versiones para fans.",
-          "mini_headline": "Lo que WMG y BMG pagan a Suno",
+          "headline": "Sony Music pide retirar más de\n260,000 deepfakes de AI",
+          "body": "Sony Music pidió a plataformas retirar más de 260,000 pistas AI que imitan voces y lo llama una batalla cuesta arriba.",
+          "mini_headline": "Sony va contra 260,000 falsificaciones AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
               },
               {
                 "t": "p",
-                "x": "Suno ya está “muy por encima” de los 2 millones de suscriptores de pago y los USD $300 millones de ingresos que reveló por última vez, dijo su cofundador y CEO, Mikey Shulman, en la conferencia Screentime de Bloomberg el 1 de octubre. No dio una cifra nueva para ninguno de los dos datos."
+                "x": "A finales de septiembre, Sony Music había pedido a las plataformas digitales retirar más de 260,000 pistas AI-generated que suplantaban a sus artistas, casi el doble de las 135,000 cuya retirada había solicitado a finales de marzo, según el Financial Times."
               },
               {
                 "t": "p",
-                "x": "Al preguntarle por qué pagan Warner Music Group y BMG a Suno, Shulman respondió: “Imagina que puedes tomar la música de uno de tus artistas favoritos y empezar a jugar con ella, remezclarla, versionarla o mezclarla con otra cosa… Es un producto totalmente nuevo”."
-              },
-              {
-                "t": "video",
-                "yt": "j8JAWfM6q1E"
+                "x": "“Seguiremos defendiendo los derechos de nuestros artistas y esperamos que las plataformas actúen con rapidez y eviten que el mismo contenido vuelva a aparecer”, dijo Sony al FT. “Pero se está convirtiendo en una batalla cuesta arriba”."
               },
               {
                 "t": "p",
-                "x": "Suno resolvió la demanda de WMG en noviembre de 2025, firmó con BMG el 12 de agosto y con Believe el 8 de septiembre, y lanzó sus modelos v6 con esos socios el 9 de septiembre. Universal y Sony volvieron a demandar el 18 de septiembre."
+                "x": "Entre los artistas vinculados a Sony (Sony-affiliated) afectados por los deepfakes figuran Harry Styles, Adele, Britney Spears, Queen y Michael Jackson. El FT no informó cuántas de esas pistas han retirado las plataformas ni qué servicios recibieron las solicitudes."
               },
               {
                 "t": "p",
-                "x": "Sobre el etiquetado de la música AI, Shulman dijo que ninguna parte por sí sola debería decidir y que “en realidad es bueno que todavía no tengamos reglas firmes del juego”."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "WMG·BMG가 Suno에\n내는 돈, 팬 리믹스 대가",
-          "body": "CEO Mikey Shulman은 WMG·BMG가 팬 리믹스에 돈을 낸다고 했다.",
-          "mini_headline": "WMG와 BMG가 Suno에 돈을 내는 이유",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Suno 공동창업자이자 CEO인 Mikey Shulman은 10월 1일 Bloomberg의 Screentime 콘퍼런스에서 Suno가 지난번 공개한 유료 구독자 2 million명, 매출 USD $300 million을 이미 “훨씬 넘어섰다”고 말했다. 두 수치 모두 새 숫자는 밝히지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Warner Music Group과 BMG가 Suno에 무엇을 대가로 돈을 내느냐는 질문에 Shulman은 이렇게 답했다. “좋아하는 아티스트의 음악을 가져와 갖고 놀면서 리믹스하거나 커버하거나 다른 것과 매시업할 수 있다고 상상해 보라… 완전히 새로운 제품이다.”"
-              },
-              {
-                "t": "video",
-                "yt": "j8JAWfM6q1E"
-              },
-              {
-                "t": "p",
-                "x": "Suno는 2025년 11월 WMG 소송을 합의로 끝냈고, 8월 12일 BMG, 9월 8일 Believe와 계약했으며, 9월 9일 이들 파트너와 함께 v6 모델을 내놓았다. Universal과 Sony는 9월 18일 다시 소송을 냈다."
-              },
-              {
-                "t": "p",
-                "x": "AI 음악 표기 문제에 대해 Shulman은 어느 한쪽이 결정해서는 안 된다며 “아직 확고한 규칙이 없다는 건 사실 좋은 일”이라고 말했다."
+                "x": "El FT también informó de que directivos de discográficas estiman que el fraude en streaming podría costarle a la industria hasta 2.2 mil millones de dólares al año. Sony apoya la NO FAKES Act, que crearía un derecho federal sobre la voz y la imagen de una persona; el proyecto superó por unanimidad el Comité Judicial del Senado el 18 de junio."
               }
             ]
           }
@@ -707,189 +587,165 @@
       }
     },
     {
-      "id": "suno-seoul-arts-students-studio",
+      "id": "spotify-editorial-playlists-decline-fake-account-purge",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "서울 음악도의 곡 스케치,\nSuno Studio에서",
-      "body": "서울예대 학생들은 Suno로 곡을 스케치하고 스템을 나눠 DAW에서 마무리한다.",
-      "mini_headline": "서울 학생들의 Suno 스케치",
+      "headline": "Spotify 플레이리스트\n부진, 가짜 계정 정리 탓",
+      "body": "Spotify 플레이리스트 하락은 가짜 계정·AI slop 단속 여파라는 분석이다.",
+      "mini_headline": "Spotify 플레이리스트 하락",
       "tool": "Music",
-      "source": "Suno Music (YouTube)",
-      "url": "https://www.youtube.com/watch?v=F0vEAbzFLzk",
-      "accent": "#7928ca",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/",
+      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "F0vEAbzFLzk"
+            "t": "img",
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
           },
           {
             "t": "p",
-            "x": "음악을 공부하는 학생들이 창작 과정에 Suno를 들이면 무슨 일이 생기는지 살펴본다."
+            "x": "Spotify가 가짜 스트리밍과 AI slop 단속을 공식화한 지 한 해, RapCaviar를 비롯한 에디토리얼 플레이리스트의 청취자가 눈에 띄게 줄었다. PlaylistSupply가 Chartmetric 데이터로 분석한 결과다."
           },
           {
             "t": "p",
-            "x": "In The Cut 이번 편은 서울예술대학교(Seoul Institute of the Arts)를 찾았다. 학생들은 Suno로 아이디어를 키우고 보컬과 화성을 실험한다. 코드를 찾거나 달리 녹음하기 어려운 소리를 만든 뒤, 그 아이디어를 기존 프로덕션 워크플로로 가져간다."
+            "x": "Spotify의 “가장 많이 기본 노출되는 네 개 플레이리스트”인 RapCaviar, Today’s Top Hits, Top 50 Global, Viva Latino는 2025년 4월께 정리가 시작된 “이후 매달 팔로워를 잃었다.” 감소 폭은 RapCaviar의 2.6%가 최대일 만큼 크지 않다. 그래도 오랜 성장세는 끊겼다."
           },
           {
             "t": "p",
-            "x": "곡의 첫 실마리를 만드는 일부터 Suno Studio에서 스템을 나눠 DAW 안에서 작업을 이어가는 과정까지, 학생들은 Suno 덕에 작업이 빨라져도 최종 음악은 스스로 다듬는다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "새 창작 도구가 다음 세대 음악가를 만났을 때 벌어지는 일을 담았다."
+            "x": "플레이리스트를 떠나는 전반적 흐름만으로는 설명이 안 된다. 서드파티 플레이리스트의 팔로워 수 중앙값은 2023년 1월 이후 70% 늘었는데, 에디토리얼은 19%에 그쳤다. 보고서는 대형 에디토리얼 플레이리스트가 “가짜 계정이 진짜처럼 보이려고 팔로우하는 바로 그 목록이라, 프로필 정리의 여파가 가장 먼저 드러난다”고 추정한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Seoul music students sketch\nsongs with Suno Studio",
-          "body": "At Seoul Institute of the Arts, students use Suno to sketch ideas, try vocals and split stems, then finish in their DAW.",
-          "mini_headline": "Seoul students sketch with Suno",
+          "headline": "Spotify playlist dips tied\nto its fake-account purge",
+          "body": "A new report ties slipping numbers on Spotify's top editorial playlists to its crackdown on fake accounts and AI slop.",
+          "mini_headline": "Spotify playlists slip",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "F0vEAbzFLzk"
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
               },
               {
                 "t": "p",
-                "x": "What happens when music students bring Suno into their creative process?"
+                "x": "One year after Spotify confirmed a crackdown targeting fake streams and AI slop, editorial playlists including RapCaviar are experiencing material listenership falloffs, according to a PlaylistSupply analysis drawing on Chartmetric data."
               },
               {
                 "t": "p",
-                "x": "In this episode of In The Cut, we visit Seoul Institute of the Arts in Seoul, South Korea to see how students are using Suno to develop ideas, experiment with vocals and harmonies, find chords, create sounds they might not otherwise be able to record, and bring those ideas into their existing production workflows."
+                "x": "Spotify’s “four most-defaulted playlists” – RapCaviar, Today’s Top Hits, Top 50 Global and Viva Latino – “have lost followers every month since” the purge began around April 2025. The drops are modest, topping out at 2.6% for RapCaviar, but they broke long growth streaks."
               },
               {
                 "t": "p",
-                "x": "From generating the starting point of a song to separating stems in Suno Studio and continuing the work inside a DAW, the students share how Suno can help them move faster while still shaping the final music themselves."
-              },
-              {
-                "t": "p",
-                "x": "See what happens when new creative tools meet the next generation of musicians."
+                "x": "A general shift away from playlists doesn’t explain it: third-party playlists’ median follower count is up 70% since January 2023, versus 19% for editorial. Big editorial lists “are exactly the lists a fake account follows to pass as real, so a profile purge surfaces on them first,” the report hypothesizes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "서울 음악도의 곡 스케치,\nSuno Studio에서",
-          "body": "서울예대 학생들은 Suno로 곡을 스케치하고 스템을 나눠 DAW에서 마무리한다.",
-          "mini_headline": "서울 학생들의 Suno 스케치",
+          "headline": "Spotify 플레이리스트\n부진, 가짜 계정 정리 탓",
+          "body": "Spotify 플레이리스트 하락은 가짜 계정·AI slop 단속 여파라는 분석이다.",
+          "mini_headline": "Spotify 플레이리스트 하락",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "F0vEAbzFLzk"
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
               },
               {
                 "t": "p",
-                "x": "음악을 공부하는 학생들이 창작 과정에 Suno를 들이면 무슨 일이 생기는지 살펴본다."
+                "x": "Spotify가 가짜 스트리밍과 AI slop 단속을 공식화한 지 한 해, RapCaviar를 비롯한 에디토리얼 플레이리스트의 청취자가 눈에 띄게 줄었다. PlaylistSupply가 Chartmetric 데이터로 분석한 결과다."
               },
               {
                 "t": "p",
-                "x": "In The Cut 이번 편은 서울예술대학교(Seoul Institute of the Arts)를 찾았다. 학생들은 Suno로 아이디어를 키우고 보컬과 화성을 실험한다. 코드를 찾거나 달리 녹음하기 어려운 소리를 만든 뒤, 그 아이디어를 기존 프로덕션 워크플로로 가져간다."
+                "x": "Spotify의 “가장 많이 기본 노출되는 네 개 플레이리스트”인 RapCaviar, Today’s Top Hits, Top 50 Global, Viva Latino는 2025년 4월께 정리가 시작된 “이후 매달 팔로워를 잃었다.” 감소 폭은 RapCaviar의 2.6%가 최대일 만큼 크지 않다. 그래도 오랜 성장세는 끊겼다."
               },
               {
                 "t": "p",
-                "x": "곡의 첫 실마리를 만드는 일부터 Suno Studio에서 스템을 나눠 DAW 안에서 작업을 이어가는 과정까지, 학생들은 Suno 덕에 작업이 빨라져도 최종 음악은 스스로 다듬는다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "새 창작 도구가 다음 세대 음악가를 만났을 때 벌어지는 일을 담았다."
+                "x": "플레이리스트를 떠나는 전반적 흐름만으로는 설명이 안 된다. 서드파티 플레이리스트의 팔로워 수 중앙값은 2023년 1월 이후 70% 늘었는데, 에디토리얼은 19%에 그쳤다. 보고서는 대형 에디토리얼 플레이리스트가 “가짜 계정이 진짜처럼 보이려고 팔로우하는 바로 그 목록이라, 프로필 정리의 여파가 가장 먼저 드러난다”고 추정한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ソウルの音大生、曲の下書きは\nSuno Studioで",
-          "body": "ソウル芸術大学の学生はSunoで着想を形にし、ステムを分けてDAWで仕上げる。",
-          "mini_headline": "ソウルの学生がSunoで下書き",
+          "headline": "Spotifyのプレイリスト\n偽アカウント排除で減少",
+          "body": "報告は、Spotifyのプレイリスト低迷を偽アカウントとAI slop対策に結びつけた。",
+          "mini_headline": "Spotifyのプレイリストが減少",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "F0vEAbzFLzk"
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
               },
               {
                 "t": "p",
-                "x": "音楽を学ぶ学生が創作過程にSunoを取り入れると、何が起きるのか。"
+                "x": "SpotifyがフェイクストリームとAI slopの取り締まりを認めてから一年。RapCaviarをはじめとする編集プレイリストのリスナー数が大きく落ち込んでいることが、Chartmetricのデータに基づくPlaylistSupplyの分析で分かった。"
               },
               {
                 "t": "p",
-                "x": "In The Cutの今回のエピソードでは、韓国・ソウルにあるソウル芸術大学(Seoul Institute of the Arts)を訪ね、学生たちがSunoを使ってアイデアを発展させ、ボーカルやハーモニーを試し、コードを探し、ほかの方法では録音できないようなサウンドを作り、そのアイデアを既存の制作ワークフローに取り込む様子を見る。"
+                "x": "Spotifyの「最もデフォルトで表示される四つのプレイリスト」であるRapCaviar、Today’s Top Hits、Top 50 Global、Viva Latinoは、2025年4月ごろに一掃が始まって「以来、毎月フォロワーを失っている」。減少幅はRapCaviarの2.6%が最大と小さいが、長く続いた成長は途切れた。"
               },
               {
                 "t": "p",
-                "x": "曲の出発点を生成するところから、Suno Studioでステムを分離し、DAWで作業を続けるところまで、学生たちはSunoによって作業を速めつつ、最終的な音楽は自分たちで形づくれると語る。"
-              },
-              {
-                "t": "p",
-                "x": "新しい創作ツールが次世代のミュージシャンと出会うと何が起きるのか、その様子を見てほしい。"
+                "x": "プレイリスト離れという全体的な流れでは説明がつかない。サードパーティのプレイリストのフォロワー数中央値は2023年1月以降70%増えたが、編集プレイリストは19%にとどまる。大型の編集プレイリストは「偽アカウントが本物に見せかけるためにフォローするまさにそのリストであり、プロフィール一掃の影響が真っ先に表れる」と報告は推測している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首尔音乐学生用\nSuno Studio打草稿",
-          "body": "首尔艺术大学学生用Suno构思、尝试人声、分离分轨,再在DAW中完成。",
-          "mini_headline": "首尔学生用Suno打草稿",
+          "headline": "Spotify歌单下滑\n或与清理假账号有关",
+          "body": "新报告将Spotify头部编辑歌单数据下滑归因于其打击假账号和AI slop。",
+          "mini_headline": "Spotify歌单下滑",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "F0vEAbzFLzk"
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
               },
               {
                 "t": "p",
-                "x": "当音乐专业的学生把Suno引入创作过程,会发生什么?"
+                "x": "Spotify确认打击虚假播放和AI slop一年后，据PlaylistSupply基于Chartmetric数据的分析，包括RapCaviar在内的编辑歌单收听人数明显下滑。"
               },
               {
                 "t": "p",
-                "x": "在本期In The Cut中,我们走访了韩国首尔的首尔艺术大学(Seoul Institute of the Arts),看看学生们如何用Suno发展创意、尝试人声与和声、寻找和弦、创造原本可能无法录制的声音,并将这些创意带入他们现有的制作流程。"
+                "x": "Spotify“默认推荐最多的四个歌单”——RapCaviar、Today’s Top Hits、Top 50 Global和Viva Latino——自2025年4月前后清理开始以来“每个月都在流失粉丝”。降幅不大，最高为RapCaviar的2.6%，但打破了长期的增长势头。"
               },
               {
                 "t": "p",
-                "x": "从生成一首歌的起点,到在Suno Studio中分离分轨、再在DAW里继续创作,学生们分享了Suno如何帮助他们加快进度,同时最终的音乐仍由自己塑造。"
-              },
-              {
-                "t": "p",
-                "x": "看看当新的创作工具遇上新一代音乐人时,会发生什么。"
+                "x": "这无法用听众整体远离歌单来解释：自2023年1月以来，第三方歌单的粉丝数中位数增长了70%，而编辑歌单仅为19%。报告推测，大型编辑歌单“恰恰是假账号为冒充真人而关注的歌单，因此账号清理会最先在这些歌单上显现”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Alumnos de música en Seúl\nesbozan temas con Suno Studio",
-          "body": "En el Seoul Institute of the Arts, el alumnado esboza con Suno, prueba voces y separa stems, y termina en su DAW.",
-          "mini_headline": "Alumnos de Seúl esbozan con Suno",
+          "headline": "Spotify: caída en sus playlists\nligada a purgar cuentas falsas",
+          "body": "Un informe vincula la caída de las playlists editoriales de Spotify con su ofensiva contra cuentas falsas y AI slop.",
+          "mini_headline": "Las playlists de Spotify retroceden",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "F0vEAbzFLzk"
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
               },
               {
                 "t": "p",
-                "x": "¿Qué ocurre cuando estudiantes de música incorporan Suno a su proceso creativo?"
+                "x": "Un año después de que Spotify confirmara una ofensiva contra las reproducciones falsas y el AI slop, las playlists editoriales, entre ellas RapCaviar, registran caídas notables de audiencia, según un análisis de PlaylistSupply basado en datos de Chartmetric."
               },
               {
                 "t": "p",
-                "x": "En este episodio de In The Cut visitamos el Seoul Institute of the Arts, en Seúl (Corea del Sur), para ver cómo los estudiantes usan Suno para desarrollar ideas, experimentar con voces y armonías, encontrar acordes, crear sonidos que de otro modo quizá no podrían grabar y llevar esas ideas a sus flujos de producción habituales."
+                "x": "Las “cuatro playlists más predeterminadas” de Spotify —RapCaviar, Today’s Top Hits, Top 50 Global y Viva Latino— “han perdido seguidores cada mes desde” que comenzó la purga, hacia abril de 2025. Las caídas son moderadas, con un máximo del 2.6% en RapCaviar, pero rompieron largas rachas de crecimiento."
               },
               {
                 "t": "p",
-                "x": "Desde generar el punto de partida de una canción hasta separar stems en Suno Studio y seguir trabajando en un DAW, los estudiantes cuentan cómo Suno les ayuda a avanzar más rápido sin dejar de dar forma ellos mismos a la música final."
-              },
-              {
-                "t": "p",
-                "x": "Así es el encuentro entre las nuevas herramientas creativas y la próxima generación de músicos."
+                "x": "Un alejamiento general de las playlists no lo explica: la mediana de seguidores de las playlists de terceros ha subido un 70% desde enero de 2023, frente al 19% de las editoriales. Las grandes listas editoriales “son justamente las que sigue una cuenta falsa para pasar por real, así que una purga de perfiles se nota primero en ellas”, plantea el informe como hipótesis."
               }
             ]
           }
@@ -897,121 +753,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "서울 음악도의 곡 스케치,\nSuno Studio에서",
-          "body": "서울예대 학생들은 Suno로 곡을 스케치하고 스템을 나눠 DAW에서 마무리한다.",
-          "mini_headline": "서울 학생들의 Suno 스케치",
+          "headline": "Spotify 플레이리스트\n부진, 가짜 계정 정리 탓",
+          "body": "Spotify 플레이리스트 하락이 가짜 계정·AI slop 단속 탓이란 분석이다.",
+          "mini_headline": "Spotify 플레이리스트 하락",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "F0vEAbzFLzk"
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
               },
               {
                 "t": "p",
-                "x": "음악을 공부하는 학생들이 창작 과정에 Suno를 들이면 무슨 일이 생기는지 살펴본다."
+                "x": "Spotify가 가짜 스트리밍과 AI slop 단속을 공식화한 지 한 해가 지나면서, RapCaviar를 비롯한 에디토리얼 플레이리스트의 청취자 수가 눈에 띄게 줄고 있다. Chartmetric 데이터를 바탕으로 한 PlaylistSupply의 분석 결과다."
               },
               {
                 "t": "p",
-                "x": "In The Cut 이번 편은 한국 서울의 서울예술대학교(Seoul Institute of the Arts)를 찾아, 학생들이 Suno로 아이디어를 발전시키고, 보컬과 화성을 실험하고, 코드를 찾고, 달리 녹음하기 어려운 소리를 만들고, 그 아이디어를 기존 프로덕션 워크플로에 가져오는 모습을 담았다."
+                "x": "Spotify의 “가장 많이 기본 노출되는 네 개 플레이리스트”인 RapCaviar, Today’s Top Hits, Top 50 Global, Viva Latino는 2025년 4월께 정리가 시작된 “이후 매달 팔로워를 잃었다.” 감소 폭은 RapCaviar의 2.6%가 최대일 만큼 크지 않지만, 오랜 성장 흐름은 끊겼다."
               },
               {
                 "t": "p",
-                "x": "곡의 출발점을 생성하는 일부터 Suno Studio에서 스템을 분리하고 DAW 안에서 작업을 이어가는 과정까지, 학생들은 Suno가 작업 속도를 높여 주면서도 최종 음악은 스스로 다듬게 해 준다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "새로운 창작 도구가 차세대 음악가들을 만나면 어떤 일이 일어나는지 확인할 수 있다."
+                "x": "플레이리스트 이탈이라는 전반적 흐름으로는 설명되지 않는다. 서드파티 플레이리스트의 팔로워 수 중앙값은 2023년 1월 이후 70% 늘었지만, 에디토리얼은 19%에 그쳤다. 보고서는 대형 에디토리얼 플레이리스트가 “가짜 계정이 진짜처럼 보이려고 팔로우하는 바로 그 목록이라, 프로필 정리의 여파가 가장 먼저 드러난다”고 추정한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ソウルの音大生、曲の下書きは\nSuno Studioで",
-          "body": "ソウル芸術大学の学生はSunoで着想を形にし、ステムを分けてDAWで仕上げる。",
-          "mini_headline": "ソウルの学生がSunoで下書き",
+          "headline": "Spotifyのプレイリスト\n偽アカウント排除で減少",
+          "body": "報告は、Spotifyのプレイリスト低迷を偽アカウントとAI slop対策に結びつけた。",
+          "mini_headline": "Spotifyのプレイリストが減少",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "F0vEAbzFLzk"
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
               },
               {
                 "t": "p",
-                "x": "音楽を学ぶ学生が創作過程にSunoを取り入れると、何が起きるのか。"
+                "x": "SpotifyがフェイクストリームとAI slopの取り締まりを認めてから一年。RapCaviarをはじめとする編集プレイリストのリスナー数が大きく落ち込んでいることが、Chartmetricのデータに基づくPlaylistSupplyの分析で分かった。"
               },
               {
                 "t": "p",
-                "x": "In The Cutの今回のエピソードでは、韓国・ソウルにあるソウル芸術大学(Seoul Institute of the Arts)を訪ね、学生たちがSunoを使ってアイデアを発展させ、ボーカルやハーモニーを試し、コードを探し、ほかの方法では録音できないようなサウンドを作り、そのアイデアを既存の制作ワークフローに取り込む様子を見る。"
+                "x": "Spotifyの「最もデフォルトで表示される四つのプレイリスト」であるRapCaviar、Today’s Top Hits、Top 50 Global、Viva Latinoは、2025年4月ごろに一掃が始まって「以来、毎月フォロワーを失っている」。減少幅はRapCaviarの2.6%が最大と小さいが、長く続いた成長は途切れた。"
               },
               {
                 "t": "p",
-                "x": "曲の出発点を生成するところから、Suno Studioでステムを分離し、DAWで作業を続けるところまで、学生たちはSunoによって作業を速めつつ、最終的な音楽は自分たちで形づくれると語る。"
-              },
-              {
-                "t": "p",
-                "x": "新しい創作ツールが次世代のミュージシャンと出会うと何が起きるのか、その様子を見てほしい。"
+                "x": "プレイリスト離れという全体的な流れでは説明がつかない。サードパーティのプレイリストのフォロワー数中央値は2023年1月以降70%増えたが、編集プレイリストは19%にとどまる。大型の編集プレイリストは「偽アカウントが本物に見せかけるためにフォローするまさにそのリストであり、プロフィール一掃の影響が真っ先に表れる」と報告は推測している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首尔音乐学生用\nSuno Studio打草稿",
-          "body": "首尔艺术大学学生用Suno构思、尝试人声、分离分轨,再在DAW中完成。",
-          "mini_headline": "首尔学生用Suno打草稿",
+          "headline": "Spotify歌单下滑\n或与清理假账号有关",
+          "body": "新报告将Spotify头部编辑歌单数据下滑归因于其打击假账号和AI slop。",
+          "mini_headline": "Spotify歌单下滑",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "F0vEAbzFLzk"
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
               },
               {
                 "t": "p",
-                "x": "当音乐专业的学生把Suno引入创作过程,会发生什么?"
+                "x": "Spotify确认打击虚假播放和AI slop一年后，据PlaylistSupply基于Chartmetric数据的分析，包括RapCaviar在内的编辑歌单收听人数明显下滑。"
               },
               {
                 "t": "p",
-                "x": "在本期In The Cut中,我们走访了韩国首尔的首尔艺术大学(Seoul Institute of the Arts),看看学生们如何用Suno发展创意、尝试人声与和声、寻找和弦、创造原本可能无法录制的声音,并将这些创意带入他们现有的制作流程。"
+                "x": "Spotify“默认推荐最多的四个歌单”——RapCaviar、Today’s Top Hits、Top 50 Global和Viva Latino——自2025年4月前后清理开始以来“每个月都在流失粉丝”。降幅不大，最高为RapCaviar的2.6%，但打破了长期的增长势头。"
               },
               {
                 "t": "p",
-                "x": "从生成一首歌的起点,到在Suno Studio中分离分轨、再在DAW里继续创作,学生们分享了Suno如何帮助他们加快进度,同时最终的音乐仍由自己塑造。"
-              },
-              {
-                "t": "p",
-                "x": "看看当新的创作工具遇上新一代音乐人时,会发生什么。"
+                "x": "这无法用听众整体远离歌单来解释：自2023年1月以来，第三方歌单的粉丝数中位数增长了70%，而编辑歌单仅为19%。报告推测，大型编辑歌单“恰恰是假账号为冒充真人而关注的歌单，因此账号清理会最先在这些歌单上显现”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Alumnos de música en Seúl\nesbozan temas con Suno Studio",
-          "body": "En el Seoul Institute of the Arts, el alumnado esboza con Suno, prueba voces y separa stems, y termina en su DAW.",
-          "mini_headline": "Alumnos de Seúl esbozan con Suno",
+          "headline": "Spotify: caída en sus playlists\nligada a purgar cuentas falsas",
+          "body": "Un informe vincula la caída de las playlists editoriales de Spotify con su ofensiva contra cuentas falsas y AI slop.",
+          "mini_headline": "Las playlists de Spotify retroceden",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "F0vEAbzFLzk"
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
               },
               {
                 "t": "p",
-                "x": "¿Qué ocurre cuando estudiantes de música incorporan Suno a su proceso creativo?"
+                "x": "Un año después de que Spotify confirmara una ofensiva contra las reproducciones falsas y el AI slop, las playlists editoriales, entre ellas RapCaviar, registran caídas notables de audiencia, según un análisis de PlaylistSupply basado en datos de Chartmetric."
               },
               {
                 "t": "p",
-                "x": "En este episodio de In The Cut visitamos el Seoul Institute of the Arts, en Seúl (Corea del Sur), para ver cómo los estudiantes usan Suno para desarrollar ideas, experimentar con voces y armonías, encontrar acordes, crear sonidos que de otro modo quizá no podrían grabar y llevar esas ideas a sus flujos de producción habituales."
+                "x": "Las “cuatro playlists más predeterminadas” de Spotify —RapCaviar, Today’s Top Hits, Top 50 Global y Viva Latino— “han perdido seguidores cada mes desde” que comenzó la purga, hacia abril de 2025. Las caídas son moderadas, con un máximo del 2.6% en RapCaviar, pero rompieron largas rachas de crecimiento."
               },
               {
                 "t": "p",
-                "x": "Desde generar el punto de partida de una canción hasta separar stems en Suno Studio y seguir trabajando en un DAW, los estudiantes cuentan cómo Suno les ayuda a avanzar más rápido sin dejar de dar forma ellos mismos a la música final."
-              },
-              {
-                "t": "p",
-                "x": "Así es el encuentro entre las nuevas herramientas creativas y la próxima generación de músicos."
+                "x": "Un alejamiento general de las playlists no lo explica: la mediana de seguidores de las playlists de terceros ha subido un 70% desde enero de 2023, frente al 19% de las editoriales. Las grandes listas editoriales “son justamente las que sigue una cuenta falsa para pasar por real, así que una purga de perfiles se nota primero en ellas”, plantea el informe como hipótesis."
               }
             ]
           }
@@ -1019,15 +859,15 @@
       }
     },
     {
-      "id": "rollingstone-smith-ai-fraud-sentencing",
+      "id": "joe-bonamassa-suno-lyrics-stance",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "검찰, AI 음악 사기범에\n징역 네 해 가까이 구형",
-      "body": "검찰은 AI곡으로 $8M 넘게 챙긴 Michael Smith에 46개월을 구형했다.",
-      "mini_headline": "AI 사기범에 징역 네 해 가까이 구형",
+      "headline": "Joe Bonamassa\nSuno 작사, 중죄 아냐",
+      "body": "Joe Bonamassa는 Suno 작사는 죄가 아니나 AI 가수는 다르다고 했다.",
+      "mini_headline": "Bonamassa, AI 작사를 말하다",
       "tool": "Music",
-      "source": "Rolling Stone",
-      "url": "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/",
+      "source": "MusicRadar",
+      "url": "https://www.musicradar.com/artists/guitarists/were-in-the-entertainment-business-if-someone-uses-suno-to-write-a-lyric-its-not-a-high-crime-or-misdemeanour-joe-bonamassa-has-sympathy-for-up-and-coming-artists-using-ai-to-get-an-edge",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1035,173 +875,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+            "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+            "cap": "2026년 8월 28일, GRAMMY Museum의 Joe Bonamassa"
           },
           {
             "t": "p",
-            "x": "검찰은 노스캐롤라이나의 한 남성이 “상당한 처벌”을 받아야 한다고 밝혔다. 그는 인공지능으로 가상의 아티스트 이름을 붙인 가짜 곡 수천 곡을 만들고, 봇 계정 군단을 풀어 이 곡들을 수십억 회 스트리밍했다."
+            "x": "Joe Bonamassa는 Austin에서 열린 Eric Clapton’s Crossroads 페스티벌에서 Blues Rock Review와 이야기하다 “매주 빠짐없이 Billboard’s Blues Chart에 오르는” AI 창작물 Eddie Dalton을 꺼냈다."
           },
           {
             "t": "p",
-            "x": "맨해튼 연방검찰은 Michael Smith에게 최소 46개월의 징역형을 내려 달라고 판사에게 요청했다. Smith 측 변호인은 보호관찰만 요청한 반면 연방 보호관찰 당국은 24개월을 권고했다. 선고는 10월 6일이다."
+            "x": "“팬은 자기가 반응하는 것에 반응할 뿐이다… AI 음악을 좋아한다면 그건 100% 그들의 권리다.” 그는 이렇게 말했다. “그런 아티스트가 실제로 살아 있는 사람들과 같은 부문에 있어야 할까? 아니다. 끔찍한 일이다.”"
+          },
+          {
+            "t": "video",
+            "yt": "VF4C5v5datc"
           },
           {
             "t": "p",
-            "x": "검찰에 따르면 2023년 4월 Taylor Swift의 전체 카탈로그가 YouTube Music 패밀리 요금제 구독자에게서 올린 스트리밍은 9.3 million 회였지만, Smith의 곡은 80.9 million 회에 달했다. 검찰은 그가 여섯 해 넘게 부당한 로열티로 $8 million 이상을 챙겼다고 본다."
-          },
-          {
-            "t": "p",
-            "x": "Smith는 3월 전신 사기 공모 혐의 한 건의 유죄를 인정하고 몰수금 $8,091,843.64를 내기로 했다. 변호인들은 그가 “깊이 후회하고 있다”면서도 “연방 범죄를 저지르려 한 것은 아니었다”고 했다."
+            "x": "Suno를 두고는 특히 신진 아티스트에게 더 너그러웠다. “우리는 엔터테인먼트 사업을 한다. 누군가 Suno로 가사를 쓴다고 해서 중죄도 경범죄도 아니다. 올라가는 중일 때는… 주목받으려 애쓰기 마련이다.” 이런 일이 없는 척하는 건 모래에 머리를 묻는 것과 같다고도 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Prosecutors seek nearly four\nyears for AI music fraudster",
-          "body": "Prosecutors want at least 46 months for Michael Smith, who used AI songs and bot streams to take over $8M in royalties.",
-          "mini_headline": "Four years sought for AI fraudster",
+          "headline": "Joe Bonamassa: using Suno\nfor lyrics is no high crime",
+          "body": "Joe Bonamassa says using Suno for a lyric is no high crime, but AI acts shouldn't share a category with living artists.",
+          "mini_headline": "Bonamassa on AI lyrics",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+                "cap": "Joe Bonamassa at the GRAMMY Museum, August 28, 2026"
               },
               {
                 "t": "p",
-                "x": "The North Carolina man who used artificial intelligence to create thousands of fake songs by invented artists, then unleashed an army of bot accounts to stream the tracks billions of times, should face “significant punishment,” prosecutors say."
+                "x": "Talking to Blues Rock Review at Eric Clapton’s Crossroads festival in Austin, Joe Bonamassa pointed to Eddie Dalton, an AI creation that is “on Billboard’s Blues Chart every single week.”"
               },
               {
                 "t": "p",
-                "x": "Manhattan federal prosecutors urged a judge to sentence Michael Smith to at least 46 months behind bars. Smith's defense is asking for probation only; federal probation officials recommend 24 months. Sentencing is set for Oct. 6."
+                "x": "“The fans will respond to what they respond to… if they like AI music, that’s 100% their right,” he said. “Should those artists be in the same category as living people out there? No. That’s a horrible thing.”"
+              },
+              {
+                "t": "video",
+                "yt": "VF4C5v5datc"
               },
               {
                 "t": "p",
-                "x": "In April 2023, Taylor Swift's entire catalog drew 9.3 million streams from YouTube Music family-plan subscribers, prosecutors said, while Smith's generated 80.9 million. They said he pocketed more than $8 million in unearned royalties over more than six years."
-              },
-              {
-                "t": "p",
-                "x": "Smith pleaded guilty in March to one count of conspiracy to commit wire fraud and agreed to pay $8,091,843.64 in forfeiture. His lawyers said he was “profoundly sorry” but “did not set out to commit a federal crime.”"
+                "x": "On Suno he had more sympathy, especially for up-and-coming artists: “We’re in the entertainment business. If someone uses Suno to write a lyric, it’s not a high crime or misdemeanour. When you’re on your way up… you’re trying to get noticed.” Pretending it isn’t happening, he added, would be burying your head in the sand."
               }
             ]
           }
         },
         "ko": {
-          "headline": "검찰, AI 음악 사기범에\n징역 네 해 가까이 구형",
-          "body": "검찰은 AI곡으로 $8M 넘게 챙긴 Michael Smith에 46개월을 구형했다.",
-          "mini_headline": "AI 사기범에 징역 네 해 가까이 구형",
+          "headline": "Joe Bonamassa\nSuno 작사, 중죄 아냐",
+          "body": "Joe Bonamassa는 Suno 작사는 죄가 아니나 AI 가수는 다르다고 했다.",
+          "mini_headline": "Bonamassa, AI 작사를 말하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+                "cap": "2026년 8월 28일, GRAMMY Museum의 Joe Bonamassa"
               },
               {
                 "t": "p",
-                "x": "검찰은 노스캐롤라이나의 한 남성이 “상당한 처벌”을 받아야 한다고 밝혔다. 그는 인공지능으로 가상의 아티스트 이름을 붙인 가짜 곡 수천 곡을 만들고, 봇 계정 군단을 풀어 이 곡들을 수십억 회 스트리밍했다."
+                "x": "Joe Bonamassa는 Austin에서 열린 Eric Clapton’s Crossroads 페스티벌에서 Blues Rock Review와 이야기하다 “매주 빠짐없이 Billboard’s Blues Chart에 오르는” AI 창작물 Eddie Dalton을 꺼냈다."
               },
               {
                 "t": "p",
-                "x": "맨해튼 연방검찰은 Michael Smith에게 최소 46개월의 징역형을 내려 달라고 판사에게 요청했다. Smith 측 변호인은 보호관찰만 요청한 반면 연방 보호관찰 당국은 24개월을 권고했다. 선고는 10월 6일이다."
+                "x": "“팬은 자기가 반응하는 것에 반응할 뿐이다… AI 음악을 좋아한다면 그건 100% 그들의 권리다.” 그는 이렇게 말했다. “그런 아티스트가 실제로 살아 있는 사람들과 같은 부문에 있어야 할까? 아니다. 끔찍한 일이다.”"
+              },
+              {
+                "t": "video",
+                "yt": "VF4C5v5datc"
               },
               {
                 "t": "p",
-                "x": "검찰에 따르면 2023년 4월 Taylor Swift의 전체 카탈로그가 YouTube Music 패밀리 요금제 구독자에게서 올린 스트리밍은 9.3 million 회였지만, Smith의 곡은 80.9 million 회에 달했다. 검찰은 그가 여섯 해 넘게 부당한 로열티로 $8 million 이상을 챙겼다고 본다."
-              },
-              {
-                "t": "p",
-                "x": "Smith는 3월 전신 사기 공모 혐의 한 건의 유죄를 인정하고 몰수금 $8,091,843.64를 내기로 했다. 변호인들은 그가 “깊이 후회하고 있다”면서도 “연방 범죄를 저지르려 한 것은 아니었다”고 했다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La Fiscalía pide casi cuatro\naños para un estafador con AI",
-          "body": "La Fiscalía pide al menos 46 meses para Michael Smith, que con canciones AI y bots se llevó más de $8M en regalías.",
-          "mini_headline": "Piden casi cuatro años para un estafador AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "El hombre de Carolina del Norte que usó inteligencia artificial para crear miles de canciones falsas de artistas inventados y luego desató un ejército de cuentas bot para reproducirlas miles de millones de veces debería recibir un “castigo significativo”, según la Fiscalía."
-              },
-              {
-                "t": "p",
-                "x": "Los fiscales federales de Manhattan pidieron a un juez que condene a Michael Smith a al menos 46 meses de prisión. La defensa de Smith solicita solo libertad vigilada; los funcionarios federales de libertad vigilada recomiendan 24 meses. La sentencia está fijada para el 6 de octubre."
-              },
-              {
-                "t": "p",
-                "x": "En abril de 2023, todo el catálogo de Taylor Swift sumó 9.3 millones de reproducciones entre los suscriptores del plan familiar de YouTube Music, según la Fiscalía, mientras que el de Smith generó 80.9 millones. Afirmaron que se embolsó más de $8 millones en regalías indebidas durante más de seis años."
-              },
-              {
-                "t": "p",
-                "x": "Smith se declaró culpable en marzo de un cargo de conspiración para cometer fraude electrónico y aceptó pagar $8,091,843.64 en decomiso. Sus abogados dijeron que estaba “profundamente arrepentido”, pero que “no se propuso cometer un delito federal”."
+                "x": "Suno를 두고는 특히 신진 아티스트에게 더 너그러웠다. “우리는 엔터테인먼트 사업을 한다. 누군가 Suno로 가사를 쓴다고 해서 중죄도 경범죄도 아니다. 올라가는 중일 때는… 주목받으려 애쓰기 마련이다.” 이런 일이 없는 척하는 건 모래에 머리를 묻는 것과 같다고도 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI楽曲詐欺の男に\n検察が禁錮約四年求刑",
-          "body": "検察はAI曲とボットで800万ドル超を得たMichael Smithに46か月以上を求刑。",
-          "mini_headline": "AI詐欺の男に約四年求刑",
+          "headline": "Joe Bonamassa\nSuno作詞は重罪ではない",
+          "body": "Joe BonamassaはSunoでの作詞を重罪ではないとし、AI勢は別枠だと語った。",
+          "mini_headline": "BonamassaがAI作詞に言及",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+                "cap": "GRAMMY MuseumでのJoe Bonamassa、2026年8月28日"
               },
               {
                 "t": "p",
-                "x": "人工知能で架空のアーティストによる偽の楽曲を数千曲作り、ボットアカウントの大群に数十億回再生させたNorth Carolina州の男は「重い処罰」を受けるべきだと、検察は述べている。"
+                "x": "AustinでのEric Clapton’s CrossroadsフェスティバルでBlues Rock Reviewの取材に応じたJoe Bonamassaは、「毎週欠かさずBillboard’s Blues Chartに入っている」AIが生み出した存在、Eddie Daltonを挙げた。"
               },
               {
                 "t": "p",
-                "x": "Manhattanの連邦検察は、Michael Smithに少なくとも46か月の禁錮刑を科すよう判事に求めた。Smith側の弁護人は保護観察のみを求め、連邦保護観察当局は24か月を勧告している。量刑の言い渡しは10月6日の予定だ。"
+                "x": "「ファンは自分が反応するものに反応する……AI音楽が好きなら、それは100%彼らの権利だ」と彼は語った。「そうしたアーティストが、実際に生きている人たちと同じカテゴリーにいるべきか。答えはノーだ。ひどいことだ」"
+              },
+              {
+                "t": "video",
+                "yt": "VF4C5v5datc"
               },
               {
                 "t": "p",
-                "x": "検察によると、2023年4月、YouTube Musicのファミリープラン加入者によるTaylor Swiftの全カタログの再生数は930万回だったのに対し、Smithの楽曲は8090万回に達した。Smithは六年余りにわたり、不当な印税800万ドル超を手にしたという。"
-              },
-              {
-                "t": "p",
-                "x": "Smithは3月、通信詐欺の共謀罪一件で有罪を認め、$8,091,843.64の没収に応じた。弁護人は、Smithは「深く後悔している」が「連邦犯罪を犯すつもりはなかった」と述べた。"
+                "x": "Sunoについては、特に駆け出しのアーティストに対してより寛容だった。「我々はエンターテインメント業界にいる。誰かがSunoで歌詞を書いても、重罪でも軽犯罪でもない。上を目指している途中なら……注目されようと必死なんだ」。それが起きていないふりをするのは、砂に頭を埋めるようなものだと彼は付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "检方求判AI音乐骗子\n近四年徒刑",
-          "body": "检方求判用AI歌曲和机器人刷播骗取逾800万美元的Michael Smith至少46个月。",
-          "mini_headline": "AI骗子被求判近四年",
+          "headline": "Joe Bonamassa：\n用Suno写词不算重罪",
+          "body": "Joe Bonamassa称用Suno写词不算重罪，但AI艺人不应与在世艺人同列。",
+          "mini_headline": "Bonamassa谈AI写词",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+                "cap": "Joe Bonamassa在GRAMMY Museum，2026年8月28日"
               },
               {
                 "t": "p",
-                "x": "检方表示，这名North Carolina男子利用人工智能，以虚构艺人之名制作数千首假歌，再动用大批机器人账号将其播放数十亿次，应受到“严厉惩罚”。"
+                "x": "Joe Bonamassa在Austin举行的Eric Clapton’s Crossroads音乐节上接受Blues Rock Review采访时，提到了AI创作的Eddie Dalton，它“每周都登上Billboard’s Blues Chart”。"
               },
               {
                 "t": "p",
-                "x": "Manhattan联邦检察官敦促法官判处Michael Smith至少46个月监禁。Smith的辩护方仅请求缓刑；联邦缓刑官员建议判处24个月。宣判定于10月6日。"
+                "x": "“粉丝会对自己有感觉的东西作出反应……如果他们喜欢AI音乐，那100%是他们的权利，”他说，“这些艺人应该和现实中活着的人归在同一类别吗？不应该。那是很糟糕的事。”"
+              },
+              {
+                "t": "video",
+                "yt": "VF4C5v5datc"
               },
               {
                 "t": "p",
-                "x": "检方称，2023年4月，Taylor Swift全部作品在YouTube Music家庭套餐用户中的播放量为930万次，而Smith的歌曲达8090万次。检方还称，他在六年多时间里攫取了逾800万美元不应得的版税。"
+                "x": "对于Suno，他则更为宽容，尤其是对新晋艺人：“我们身处娱乐行业。如果有人用Suno写歌词，那既不是重罪，也不是轻罪。当你还在往上走的时候……你只是想被人注意到。”他补充说，假装这件事没有发生，无异于把头埋进沙子里。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Joe Bonamassa: usar Suno para\nletras no es un delito grave",
+          "body": "Para Joe Bonamassa, usar Suno en una letra no es grave, pero la AI no debe compartir categoría con artistas vivos.",
+          "mini_headline": "Bonamassa opina sobre letras con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+                "cap": "Joe Bonamassa en el GRAMMY Museum, 28 de agosto de 2026"
               },
               {
                 "t": "p",
-                "x": "Smith于3月承认一项电汇欺诈共谋罪，并同意缴付$8,091,843.64的没收款。他的律师称他“深感抱歉”，但“并非有意触犯联邦罪行”。"
+                "x": "En conversación con Blues Rock Review en el festival Eric Clapton’s Crossroads de Austin, Joe Bonamassa mencionó a Eddie Dalton, una creación de AI que está “en el Billboard’s Blues Chart todas las semanas, sin falta”."
+              },
+              {
+                "t": "p",
+                "x": "“Los fans responderán a lo que respondan… si les gusta la música hecha con AI, están en su derecho al 100%”, dijo. “¿Deberían esos artistas estar en la misma categoría que las personas vivas? No. Es algo horrible”."
+              },
+              {
+                "t": "video",
+                "yt": "VF4C5v5datc"
+              },
+              {
+                "t": "p",
+                "x": "Con Suno se mostró más comprensivo, sobre todo con los artistas emergentes: “Estamos en el negocio del entretenimiento. Si alguien usa Suno para escribir una letra, no es un delito grave ni una falta. Cuando vas subiendo… intentas que te noten”. Fingir que no está ocurriendo, añadió, sería esconder la cabeza bajo la arena."
               }
             ]
           }
@@ -1209,121 +1055,527 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "검찰, AI 음악 사기범에\n징역 네 해 가까이 구형",
-          "body": "검찰은 AI곡으로 $8M 넘게 챙긴 Michael Smith에 46개월을 구형했다.",
-          "mini_headline": "AI 사기범에 징역 네 해 가까이 구형",
+          "headline": "Joe Bonamassa\nSuno 작사, 중죄 아냐",
+          "body": "Joe Bonamassa는 Suno 작사는 죄가 아니나 AI 가수는 별개라 했다.",
+          "mini_headline": "Bonamassa, AI 작사를 말하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+                "cap": "2026년 8월 28일, GRAMMY Museum의 Joe Bonamassa"
               },
               {
                 "t": "p",
-                "x": "인공지능으로 가상의 아티스트 이름을 붙인 가짜 곡 수천 곡을 만든 뒤 봇 계정 군단을 풀어 이 곡들을 수십억 회 스트리밍한 노스캐롤라이나 남성은 “상당한 처벌”을 받아야 한다고 검찰은 밝혔다."
+                "x": "Joe Bonamassa는 Austin에서 열린 Eric Clapton’s Crossroads 페스티벌에서 Blues Rock Review와 이야기하며, “매주 빠짐없이 Billboard’s Blues Chart에 오르는” AI 창작물 Eddie Dalton을 언급했다."
               },
               {
                 "t": "p",
-                "x": "맨해튼 연방검찰은 판사에게 Michael Smith에게 최소 46개월의 징역형을 선고해 달라고 요청했다. Smith 측 변호인은 보호관찰만을 요청하고 있으며, 연방 보호관찰 당국은 24개월을 권고했다. 선고는 10월 6일로 잡혀 있다."
+                "x": "“팬은 자기가 반응하는 것에 반응할 뿐이다… AI 음악을 좋아한다면 그건 100% 그들의 권리다.” 그는 이렇게 말했다. “그런 아티스트가 실제로 살아 있는 사람들과 같은 부문에 있어야 할까? 아니다. 끔찍한 일이다.”"
+              },
+              {
+                "t": "video",
+                "yt": "VF4C5v5datc"
               },
               {
                 "t": "p",
-                "x": "검찰에 따르면 2023년 4월 Taylor Swift의 전체 카탈로그가 YouTube Music 패밀리 요금제 구독자에게서 올린 스트리밍은 9.3 million 회였던 반면, Smith의 곡은 80.9 million 회를 기록했다. 검찰은 그가 여섯 해 넘게 부당한 로열티 $8 million 이상을 챙겼다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Smith는 3월 전신 사기 공모 혐의 한 건에 대해 유죄를 인정하고 몰수금 $8,091,843.64를 내기로 했다. 그의 변호인들은 그가 “깊이 후회하고 있다”면서도 “연방 범죄를 저지르려 한 것은 아니었다”고 밝혔다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La Fiscalía pide casi cuatro\naños para un estafador con AI",
-          "body": "La Fiscalía pide al menos 46 meses para Michael Smith, que con canciones AI y bots se llevó más de $8M en regalías.",
-          "mini_headline": "Piden casi cuatro años para un estafador AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "El hombre de Carolina del Norte que usó inteligencia artificial para crear miles de canciones falsas de artistas inventados y luego desató un ejército de cuentas bot para reproducirlas miles de millones de veces debería recibir un “castigo significativo”, según la Fiscalía."
-              },
-              {
-                "t": "p",
-                "x": "Los fiscales federales de Manhattan pidieron a un juez que condene a Michael Smith a al menos 46 meses de prisión. La defensa de Smith solicita solo libertad vigilada; los funcionarios federales de libertad vigilada recomiendan 24 meses. La sentencia está fijada para el 6 de octubre."
-              },
-              {
-                "t": "p",
-                "x": "En abril de 2023, todo el catálogo de Taylor Swift sumó 9.3 millones de reproducciones entre los suscriptores del plan familiar de YouTube Music, según la Fiscalía, mientras que el de Smith generó 80.9 millones. Afirmaron que se embolsó más de $8 millones en regalías indebidas durante más de seis años."
-              },
-              {
-                "t": "p",
-                "x": "Smith se declaró culpable en marzo de un cargo de conspiración para cometer fraude electrónico y aceptó pagar $8,091,843.64 en decomiso. Sus abogados dijeron que estaba “profundamente arrepentido”, pero que “no se propuso cometer un delito federal”."
+                "x": "Suno에 대해서는, 특히 신진 아티스트에게 더 너그러웠다. “우리는 엔터테인먼트 사업을 한다. 누군가 Suno로 가사를 쓴다고 해서 중죄도 경범죄도 아니다. 올라가는 중일 때는… 주목받으려 애쓰기 마련이다.” 그는 이런 일이 없는 척하는 것은 모래에 머리를 묻는 것과 같다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI楽曲詐欺の男に\n検察が禁錮約四年求刑",
-          "body": "検察はAI曲とボットで800万ドル超を得たMichael Smithに46か月以上を求刑。",
-          "mini_headline": "AI詐欺の男に約四年求刑",
+          "headline": "Joe Bonamassa\nSuno作詞は重罪ではない",
+          "body": "Joe BonamassaはSunoでの作詞を重罪ではないとし、AI勢は別枠だと語った。",
+          "mini_headline": "BonamassaがAI作詞に言及",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+                "cap": "GRAMMY MuseumでのJoe Bonamassa、2026年8月28日"
               },
               {
                 "t": "p",
-                "x": "人工知能で架空のアーティストによる偽の楽曲を数千曲作り、ボットアカウントの大群に数十億回再生させたNorth Carolina州の男は「重い処罰」を受けるべきだと、検察は述べている。"
+                "x": "AustinでのEric Clapton’s CrossroadsフェスティバルでBlues Rock Reviewの取材に応じたJoe Bonamassaは、「毎週欠かさずBillboard’s Blues Chartに入っている」AIが生み出した存在、Eddie Daltonを挙げた。"
               },
               {
                 "t": "p",
-                "x": "Manhattanの連邦検察は、Michael Smithに少なくとも46か月の禁錮刑を科すよう判事に求めた。Smith側の弁護人は保護観察のみを求め、連邦保護観察当局は24か月を勧告している。量刑の言い渡しは10月6日の予定だ。"
+                "x": "「ファンは自分が反応するものに反応する……AI音楽が好きなら、それは100%彼らの権利だ」と彼は語った。「そうしたアーティストが、実際に生きている人たちと同じカテゴリーにいるべきか。答えはノーだ。ひどいことだ」"
+              },
+              {
+                "t": "video",
+                "yt": "VF4C5v5datc"
               },
               {
                 "t": "p",
-                "x": "検察によると、2023年4月、YouTube Musicのファミリープラン加入者によるTaylor Swiftの全カタログの再生数は930万回だったのに対し、Smithの楽曲は8090万回に達した。Smithは六年余りにわたり、不当な印税800万ドル超を手にしたという。"
-              },
-              {
-                "t": "p",
-                "x": "Smithは3月、通信詐欺の共謀罪一件で有罪を認め、$8,091,843.64の没収に応じた。弁護人は、Smithは「深く後悔している」が「連邦犯罪を犯すつもりはなかった」と述べた。"
+                "x": "Sunoについては、特に駆け出しのアーティストに対してより寛容だった。「我々はエンターテインメント業界にいる。誰かがSunoで歌詞を書いても、重罪でも軽犯罪でもない。上を目指している途中なら……注目されようと必死なんだ」。それが起きていないふりをするのは、砂に頭を埋めるようなものだと彼は付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "检方求判AI音乐骗子\n近四年徒刑",
-          "body": "检方求判用AI歌曲和机器人刷播骗取逾800万美元的Michael Smith至少46个月。",
-          "mini_headline": "AI骗子被求判近四年",
+          "headline": "Joe Bonamassa：\n用Suno写词不算重罪",
+          "body": "Joe Bonamassa称用Suno写词不算重罪，但AI艺人不应与在世艺人同列。",
+          "mini_headline": "Bonamassa谈AI写词",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1"
+                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+                "cap": "Joe Bonamassa在GRAMMY Museum，2026年8月28日"
               },
               {
                 "t": "p",
-                "x": "检方表示，这名North Carolina男子利用人工智能，以虚构艺人之名制作数千首假歌，再动用大批机器人账号将其播放数十亿次，应受到“严厉惩罚”。"
+                "x": "Joe Bonamassa在Austin举行的Eric Clapton’s Crossroads音乐节上接受Blues Rock Review采访时，提到了AI创作的Eddie Dalton，它“每周都登上Billboard’s Blues Chart”。"
               },
               {
                 "t": "p",
-                "x": "Manhattan联邦检察官敦促法官判处Michael Smith至少46个月监禁。Smith的辩护方仅请求缓刑；联邦缓刑官员建议判处24个月。宣判定于10月6日。"
+                "x": "“粉丝会对自己有感觉的东西作出反应……如果他们喜欢AI音乐，那100%是他们的权利，”他说，“这些艺人应该和现实中活着的人归在同一类别吗？不应该。那是很糟糕的事。”"
+              },
+              {
+                "t": "video",
+                "yt": "VF4C5v5datc"
               },
               {
                 "t": "p",
-                "x": "检方称，2023年4月，Taylor Swift全部作品在YouTube Music家庭套餐用户中的播放量为930万次，而Smith的歌曲达8090万次。检方还称，他在六年多时间里攫取了逾800万美元不应得的版税。"
+                "x": "对于Suno，他则更为宽容，尤其是对新晋艺人：“我们身处娱乐行业。如果有人用Suno写歌词，那既不是重罪，也不是轻罪。当你还在往上走的时候……你只是想被人注意到。”他补充说，假装这件事没有发生，无异于把头埋进沙子里。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Joe Bonamassa: usar Suno para\nletras no es un delito grave",
+          "body": "Para Joe Bonamassa, usar Suno en una letra no es grave, pero la AI no debe compartir categoría con artistas vivos.",
+          "mini_headline": "Bonamassa opina sobre letras con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+                "cap": "Joe Bonamassa en el GRAMMY Museum, 28 de agosto de 2026"
               },
               {
                 "t": "p",
-                "x": "Smith于3月承认一项电汇欺诈共谋罪，并同意缴付$8,091,843.64的没收款。他的律师称他“深感抱歉”，但“并非有意触犯联邦罪行”。"
+                "x": "En conversación con Blues Rock Review en el festival Eric Clapton’s Crossroads de Austin, Joe Bonamassa mencionó a Eddie Dalton, una creación de AI que está “en el Billboard’s Blues Chart todas las semanas, sin falta”."
+              },
+              {
+                "t": "p",
+                "x": "“Los fans responderán a lo que respondan… si les gusta la música hecha con AI, están en su derecho al 100%”, dijo. “¿Deberían esos artistas estar en la misma categoría que las personas vivas? No. Es algo horrible”."
+              },
+              {
+                "t": "video",
+                "yt": "VF4C5v5datc"
+              },
+              {
+                "t": "p",
+                "x": "Con Suno se mostró más comprensivo, sobre todo con los artistas emergentes: “Estamos en el negocio del entretenimiento. Si alguien usa Suno para escribir una letra, no es un delito grave ni una falta. Cuando vas subiendo… intentas que te noten”. Fingir que no está ocurriendo, añadió, sería esconder la cabeza bajo la arena."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "pope-leo-xiv-human-art-ai-warning",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "교황 Leo XIV\n인간 예술, 기계와 달라",
+      "body": "교황 Leo XIV는 '존재론적 차이'를 들어 예술·기계 구분이 시급하다고 했다.",
+      "mini_headline": "교황, AI 예술에 선 긋다",
+      "tool": "Music",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/10/05/pope-delivers-ai-warning-algorithms-lack-the-spark-of-humanity/",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+            "cap": "교황"
+          },
+          {
+            "t": "p",
+            "x": "2026년에 교황 기사를, 그것도 두 번이나 쓰게 될 줄은 몰랐지만 결국 이렇게 됐다. 교황 Leo XIV가 다시 인공지능과 예술을 두고 목소리를 냈다. 이번에는 X 게시물이다."
+          },
+          {
+            "t": "p",
+            "x": "“인공지능 시대에 인간의 예술을 기계가 만들어 내는 것과 구별하는 일이 점점 시급해지고 있다.” 트윗에는 이렇게 적혀 있었다."
+          },
+          {
+            "t": "p",
+            "x": "“예술과, 남들이 만든 수백만 장의 이미지를 바탕으로 기계가 통계적 계산을 통해 생성할 수 있는 것 사이에는 미학적 차이 이전에 존재론적 차이가 있다.” 게시물은 이렇게 이어진다."
+          },
+          {
+            "t": "p",
+            "x": "“알고리즘에는 인간다움의 불꽃이 없다. 그래서 교회는 우리의 인간다움을 지키기 위해 예술가 및 문화 기관과의 동맹을 새롭게 하고자 한다.”"
+          },
+          {
+            "t": "p",
+            "x": "그 동맹이 구체적으로 무엇인지는 아직 분명하지 않다. 다만 이번 발언은 1월 교황이 낸 제60차 세계 홍보 주일 담화의 뒤를 잇는다."
+          },
+          {
+            "t": "p",
+            "x": "당시 그는 인간의 창작 산업이 “해체되어 ‘Powered by AI’라는 꼬리표로 대체될 위험에 놓여 있으며, 사람들을 생각되지 않은 생각과 소유도 사랑도 없는 익명의 산물을 수동적으로 소비하는 존재로 만들고 있다”고 경고했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Pope Leo XIV says human art\ndiffers from machine output",
+          "body": "Pope Leo XIV says it is urgent to tell human art from machine output, citing an 'ontological difference' between them.",
+          "mini_headline": "Pope draws AI art line",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+                "cap": "The Pope"
+              },
+              {
+                "t": "p",
+                "x": "We did not expect to be writing a story about the Pope in 2026, let alone two, but here we are. Pope Leo XIV has been sounding off again about artificial intelligence and art – this time in a post on X."
+              },
+              {
+                "t": "p",
+                "x": "“In this era of artificial intelligence, it is becoming urgent to distinguish human art from what machines produce,” suggested his tweet."
+              },
+              {
+                "t": "p",
+                "x": "“There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,” continued the post."
+              },
+              {
+                "t": "p",
+                "x": "“Algorithms lack the spark of humanity. For this reason, the Church wishes to renew an alliance with artists and cultural institutions to safeguard our humanity.”"
+              },
+              {
+                "t": "p",
+                "x": "Details of that alliance remain unclear. However, the statement follows the Pope’s message for the 60th World Day of Social Communications in January."
+              },
+              {
+                "t": "p",
+                "x": "Then, he warned about human creative industries being “at risk of being dismantled and replaced with the label ‘Powered by AI,’ turning people into passive consumers of unthought thoughts and anonymous products without ownership or love.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "교황 Leo XIV\n인간 예술, 기계와 달라",
+          "body": "교황 Leo XIV는 '존재론적 차이'를 들어 예술·기계 구분이 시급하다고 했다.",
+          "mini_headline": "교황, AI 예술에 선 긋다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+                "cap": "교황"
+              },
+              {
+                "t": "p",
+                "x": "2026년에 교황 기사를, 그것도 두 번이나 쓰게 될 줄은 몰랐지만 결국 이렇게 됐다. 교황 Leo XIV가 다시 인공지능과 예술을 두고 목소리를 냈다. 이번에는 X 게시물이다."
+              },
+              {
+                "t": "p",
+                "x": "“인공지능 시대에 인간의 예술을 기계가 만들어 내는 것과 구별하는 일이 점점 시급해지고 있다.” 트윗에는 이렇게 적혀 있었다."
+              },
+              {
+                "t": "p",
+                "x": "“예술과, 남들이 만든 수백만 장의 이미지를 바탕으로 기계가 통계적 계산을 통해 생성할 수 있는 것 사이에는 미학적 차이 이전에 존재론적 차이가 있다.” 게시물은 이렇게 이어진다."
+              },
+              {
+                "t": "p",
+                "x": "“알고리즘에는 인간다움의 불꽃이 없다. 그래서 교회는 우리의 인간다움을 지키기 위해 예술가 및 문화 기관과의 동맹을 새롭게 하고자 한다.”"
+              },
+              {
+                "t": "p",
+                "x": "그 동맹이 구체적으로 무엇인지는 아직 분명하지 않다. 다만 이번 발언은 1월 교황이 낸 제60차 세계 홍보 주일 담화의 뒤를 잇는다."
+              },
+              {
+                "t": "p",
+                "x": "당시 그는 인간의 창작 산업이 “해체되어 ‘Powered by AI’라는 꼬리표로 대체될 위험에 놓여 있으며, 사람들을 생각되지 않은 생각과 소유도 사랑도 없는 익명의 산물을 수동적으로 소비하는 존재로 만들고 있다”고 경고했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "教皇Leo XIV\n人間の芸術は機械と別物",
+          "body": "教皇Leo XIVは「存在論的な違い」を挙げ、人間の芸術と機械の産物の区別は急務だとした。",
+          "mini_headline": "教皇、AIアートに一線",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+                "cap": "教皇"
+              },
+              {
+                "t": "p",
+                "x": "2026年に教皇の記事を書くことになるとは思わなかった。それも二本目だ。教皇Leo XIVが再び人工知能と芸術について意見を表明した。今回はXへの投稿である。"
+              },
+              {
+                "t": "p",
+                "x": "「人工知能の時代において、人間の芸術を機械が生み出すものと区別することが急務になりつつある」と彼のツイートは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "「芸術と、他者が作った何百万もの画像をもとに機械が統計的計算によって生成しうるものとの間には、美的な違い以前に存在論的な違いがある」と投稿は続けた。"
+              },
+              {
+                "t": "p",
+                "x": "「アルゴリズムには人間性の輝きが欠けている。だからこそ教会は、私たちの人間性を守るため、芸術家や文化機関との同盟を新たにしたいと願っている」"
+              },
+              {
+                "t": "p",
+                "x": "その同盟の詳細はまだ明らかではない。ただ、この発言は1月に出された教皇の第60回世界広報の日メッセージに続くものだ。"
+              },
+              {
+                "t": "p",
+                "x": "その際、教皇は人間の創造産業が「解体され、『Powered by AI』というラベルに置き換えられる危機にあり、人々を、考えられていない思考や、所有も愛もない匿名の産物の受け身な消費者に変えてしまう」と警告していた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "教宗Leo XIV：\n人类艺术有别于机器产物",
+          "body": "教宗Leo XIV称人类艺术与机器产物存在“本体论差异”，亟需加以区分。",
+          "mini_headline": "教宗为AI艺术划线",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+                "cap": "教宗"
+              },
+              {
+                "t": "p",
+                "x": "我们没想到会在2026年写关于教宗的报道，更别说两篇了，但事情就是这样。教宗Leo XIV再次就人工智能与艺术发声，这次是在X上发帖。"
+              },
+              {
+                "t": "p",
+                "x": "“在这个人工智能时代，区分人类艺术与机器产物正变得刻不容缓，”他在推文中写道。"
+              },
+              {
+                "t": "p",
+                "x": "“艺术与机器基于他人创作的数百万张图像、通过统计计算所能生成的东西之间，在审美差异之前，首先存在本体论上的差异，”帖子接着写道。"
+              },
+              {
+                "t": "p",
+                "x": "“算法缺乏人性的火花。因此，教会希望与艺术家和文化机构重建联盟，以守护我们的人性。”"
+              },
+              {
+                "t": "p",
+                "x": "这一联盟的细节尚不清楚。不过，这番表态是在教宗1月发表的第60届世界社会传播日文告之后作出的。"
+              },
+              {
+                "t": "p",
+                "x": "当时，他警告人类创意产业“面临被拆解、被贴上‘Powered by AI’标签所取代的风险，使人们沦为未经思考的思想和无归属、无爱的匿名产品的被动消费者”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El papa Leo XIV: el arte humano\nno es lo que produce una máquina",
+          "body": "El papa Leo XIV ve urgente separar el arte humano de lo que hacen las máquinas y alude a una 'diferencia ontológica'.",
+          "mini_headline": "El papa traza una línea ante el arte con AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+                "cap": "El papa"
+              },
+              {
+                "t": "p",
+                "x": "No esperábamos escribir una noticia sobre el papa en 2026, y menos aún dos, pero aquí estamos. El papa Leo XIV ha vuelto a pronunciarse sobre la inteligencia artificial y el arte, esta vez en una publicación en X."
+              },
+              {
+                "t": "p",
+                "x": "“En esta era de la inteligencia artificial, se está volviendo urgente distinguir el arte humano de lo que producen las máquinas”, planteaba su tuit."
+              },
+              {
+                "t": "p",
+                "x": "“Existe una diferencia ontológica, incluso antes que estética, entre el arte y lo que una máquina puede generar mediante cálculo estadístico a partir de millones de imágenes creadas por otros”, continuaba la publicación."
+              },
+              {
+                "t": "p",
+                "x": "“Los algoritmos carecen de la chispa de la humanidad. Por eso, la Iglesia desea renovar una alianza con artistas e instituciones culturales para salvaguardar nuestra humanidad”."
+              },
+              {
+                "t": "p",
+                "x": "Los detalles de esa alianza siguen sin estar claros. Sin embargo, la declaración llega tras el mensaje del papa para la 60.ª Jornada Mundial de las Comunicaciones Sociales, en enero."
+              },
+              {
+                "t": "p",
+                "x": "Entonces advirtió de que las industrias creativas humanas están “en riesgo de ser desmanteladas y sustituidas por la etiqueta ‘Powered by AI’, convirtiendo a las personas en consumidores pasivos de pensamientos no pensados y de productos anónimos sin autoría ni amor”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "교황 Leo XIV\n인간 예술, 기계와 달라",
+          "body": "교황 Leo XIV는 '존재론적 차이'를 들어 예술과 기계의 구분이 시급하다 했다.",
+          "mini_headline": "교황, AI 예술에 선 긋다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+                "cap": "교황"
+              },
+              {
+                "t": "p",
+                "x": "2026년에 교황에 관한 기사를, 그것도 두 번이나 쓰게 될 줄은 몰랐지만 결국 이렇게 됐다. 교황 Leo XIV가 다시 인공지능과 예술에 대해 목소리를 냈다. 이번에는 X 게시물을 통해서다."
+              },
+              {
+                "t": "p",
+                "x": "“인공지능 시대에 인간의 예술을 기계가 만들어 내는 것과 구별하는 일이 점점 시급해지고 있다.” 그의 트윗은 이렇게 적었다."
+              },
+              {
+                "t": "p",
+                "x": "“예술과, 남들이 만든 수백만 장의 이미지를 바탕으로 기계가 통계적 계산을 통해 생성할 수 있는 것 사이에는 미학적 차이 이전에 존재론적 차이가 있다.” 게시물은 이렇게 이어졌다."
+              },
+              {
+                "t": "p",
+                "x": "“알고리즘에는 인간다움의 불꽃이 없다. 그래서 교회는 우리의 인간다움을 지키기 위해 예술가 및 문화 기관과의 동맹을 새롭게 하고자 한다.”"
+              },
+              {
+                "t": "p",
+                "x": "그 동맹의 구체적인 내용은 아직 분명하지 않다. 다만 이번 발언은 1월에 나온 교황의 제60차 세계 홍보 주일 담화에 뒤이은 것이다."
+              },
+              {
+                "t": "p",
+                "x": "당시 그는 인간의 창작 산업이 “해체되어 ‘Powered by AI’라는 꼬리표로 대체될 위험에 놓여 있으며, 사람들을 생각되지 않은 생각과 소유도 사랑도 없는 익명의 산물을 수동적으로 소비하는 존재로 만들고 있다”고 경고했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "教皇Leo XIV\n人間の芸術は機械と別物",
+          "body": "教皇Leo XIVは「存在論的な違い」を挙げ、人間の芸術と機械の産物の区別は急務だとした。",
+          "mini_headline": "教皇、AIアートに一線",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+                "cap": "教皇"
+              },
+              {
+                "t": "p",
+                "x": "2026年に教皇の記事を書くことになるとは思わなかった。それも二本目だ。教皇Leo XIVが再び人工知能と芸術について意見を表明した。今回はXへの投稿である。"
+              },
+              {
+                "t": "p",
+                "x": "「人工知能の時代において、人間の芸術を機械が生み出すものと区別することが急務になりつつある」と彼のツイートは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "「芸術と、他者が作った何百万もの画像をもとに機械が統計的計算によって生成しうるものとの間には、美的な違い以前に存在論的な違いがある」と投稿は続けた。"
+              },
+              {
+                "t": "p",
+                "x": "「アルゴリズムには人間性の輝きが欠けている。だからこそ教会は、私たちの人間性を守るため、芸術家や文化機関との同盟を新たにしたいと願っている」"
+              },
+              {
+                "t": "p",
+                "x": "その同盟の詳細はまだ明らかではない。ただ、この発言は1月に出された教皇の第60回世界広報の日メッセージに続くものだ。"
+              },
+              {
+                "t": "p",
+                "x": "その際、教皇は人間の創造産業が「解体され、『Powered by AI』というラベルに置き換えられる危機にあり、人々を、考えられていない思考や、所有も愛もない匿名の産物の受け身な消費者に変えてしまう」と警告していた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "教宗Leo XIV：\n人类艺术有别于机器产物",
+          "body": "教宗Leo XIV称人类艺术与机器产物存在“本体论差异”，亟需加以区分。",
+          "mini_headline": "教宗为AI艺术划线",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+                "cap": "教宗"
+              },
+              {
+                "t": "p",
+                "x": "我们没想到会在2026年写关于教宗的报道，更别说两篇了，但事情就是这样。教宗Leo XIV再次就人工智能与艺术发声，这次是在X上发帖。"
+              },
+              {
+                "t": "p",
+                "x": "“在这个人工智能时代，区分人类艺术与机器产物正变得刻不容缓，”他在推文中写道。"
+              },
+              {
+                "t": "p",
+                "x": "“艺术与机器基于他人创作的数百万张图像、通过统计计算所能生成的东西之间，在审美差异之前，首先存在本体论上的差异，”帖子接着写道。"
+              },
+              {
+                "t": "p",
+                "x": "“算法缺乏人性的火花。因此，教会希望与艺术家和文化机构重建联盟，以守护我们的人性。”"
+              },
+              {
+                "t": "p",
+                "x": "这一联盟的细节尚不清楚。不过，这番表态是在教宗1月发表的第60届世界社会传播日文告之后作出的。"
+              },
+              {
+                "t": "p",
+                "x": "当时，他警告人类创意产业“面临被拆解、被贴上‘Powered by AI’标签所取代的风险，使人们沦为未经思考的思想和无归属、无爱的匿名产品的被动消费者”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El papa Leo XIV: el arte humano\nno es lo que produce una máquina",
+          "body": "El papa Leo XIV ve urgente separar el arte humano de lo que hacen las máquinas y alude a una 'diferencia ontológica'.",
+          "mini_headline": "El papa traza una línea ante el arte con AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+                "cap": "El papa"
+              },
+              {
+                "t": "p",
+                "x": "No esperábamos escribir una noticia sobre el papa en 2026, y menos aún dos, pero aquí estamos. El papa Leo XIV ha vuelto a pronunciarse sobre la inteligencia artificial y el arte, esta vez en una publicación en X."
+              },
+              {
+                "t": "p",
+                "x": "“En esta era de la inteligencia artificial, se está volviendo urgente distinguir el arte humano de lo que producen las máquinas”, planteaba su tuit."
+              },
+              {
+                "t": "p",
+                "x": "“Existe una diferencia ontológica, incluso antes que estética, entre el arte y lo que una máquina puede generar mediante cálculo estadístico a partir de millones de imágenes creadas por otros”, continuaba la publicación."
+              },
+              {
+                "t": "p",
+                "x": "“Los algoritmos carecen de la chispa de la humanidad. Por eso, la Iglesia desea renovar una alianza con artistas e instituciones culturales para salvaguardar nuestra humanidad”."
+              },
+              {
+                "t": "p",
+                "x": "Los detalles de esa alianza siguen sin estar claros. Sin embargo, la declaración llega tras el mensaje del papa para la 60.ª Jornada Mundial de las Comunicaciones Sociales, en enero."
+              },
+              {
+                "t": "p",
+                "x": "Entonces advirtió de que las industrias creativas humanas están “en riesgo de ser desmanteladas y sustituidas por la etiqueta ‘Powered by AI’, convirtiendo a las personas en consumidores pasivos de pensamientos no pensados y de productos anónimos sin autoría ni amor”."
               }
             ]
           }

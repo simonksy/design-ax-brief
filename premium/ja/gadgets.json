@@ -6061,6 +6061,185 @@
           "x": "レビュアー自身のX6によるテストクリップは二度アップロードに失敗した。ベータ版にありがちな初期不良だが、高価なカメラに価値を加える歓迎すべき無料機能だ。"
         }
       ]
+    },
+    "gadgets/windows-11-26h2-file-explorer-ai-actions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
+          "cap": "Windows 11の公式ロゴ。"
+        },
+        {
+          "t": "p",
+          "x": "MicrosoftはWindows 11 2026 Updateとも呼ばれるWindows 11 バージョン26H2 の配信を開始した。配信は2026年9月29日に始まり、バージョン24H2 または25H2 を実行中のデバイスには小規模な有効化パッケージとして提供される。"
+        },
+        {
+          "t": "p",
+          "x": "ほとんどの機能はすでに月例更新でPCsに届いており、このパッケージは多くの場合、一度の再起動でそれらを有効にする。サポート期間もリセットされ、HomeとProは24か月、EnterpriseとEducationは36か月となる。"
+        },
+        {
+          "t": "p",
+          "x": "File Explorerには、対応する画像を編集したり文書を要約したりできるAI操作が加わった。要約(Summarize)はOneDriveとSharePoint上のファイルで機能し、Microsoft 365のサブスクリプションとCopilotライセンスが必要だ。職場または学校のアカウントでは、File Explorer Homeでファイルにカーソルを合わせると、Open File LocationとAsk Copilotも表示される。"
+        },
+        {
+          "t": "p",
+          "x": "Explorerはuu、cpio、xar、nupkg形式のアーカイブと音声入力による名前変更に対応し、タスクバーは画面のどの端にも配置できるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "セキュリティ面では、Sysmonが標準搭載され、Administrator protectionが導入された(いずれも既定ではオフ)。さらにWindowsは、耐量子アルゴリズムML-KEMとML-DSAのAPIサポートを追加した。"
+        }
+      ]
+    },
+    "gadgets/tvos-27-2-apple-intelligence-apple-tv-code": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Appleの最新tvOS 27.2ベータは、次期Apple TVがSiri AIとApple Intelligenceに対応するという噂を補強するものだ。コードからは、AppleがtvOSの設定アプリにImprove Siri & Apple Intelligenceのトグルを追加しようとしていることがうかがえる。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "「Siri、音声入力、翻訳でのテキストや音声のやり取りをAppleが収集・利用することを許可して、基盤モデルとSiriの改善に協力してください」と記されている。"
+        },
+        {
+          "t": "p",
+          "x": "Apple Intelligenceを搭載する他のApple製品にも、同様の名称のプライバシー開示やデータ共有のオプトインがある。Apple Intelligenceに対応しないデバイスでは、この設定は「Improve Siri & Dictation」と表示される。新しいコードは既存のSiriデータ共有用コードと並んで含まれており、Apple Intelligence-capableなハードウェアでのみ表示される可能性が高い。"
+        },
+        {
+          "t": "p",
+          "x": "tvOS 27.2には新しいSiri Messages UIフレームワークも含まれており、将来的にApple TV上でメッセージの内容が表示される可能性を示している。Siriが連携したiPhoneに届いたメッセージを読み上げ、Apple TV上でスマート返信の候補を表示できるようになるかもしれない。現行のApple TV版Siriはメッセージの送信や読み上げに対応していないため、このフレームワークはSiri AIに関連するものとみられる。"
+        },
+        {
+          "t": "p",
+          "x": "Appleは8GB または12GB のRAMと、A19 またはA19 Pro チップを搭載したApple TVを開発中で、このハードウェアならオンデバイスのSiri AI機能を支えられる可能性がある。AppleはtvOS 27.2で新型Apple TVの下地を整えているようだ。新型Apple TVは早ければ10月13日にも登場する可能性がある。"
+        }
+      ]
+    },
+    "gadgets/wici-one-wireless-gpu-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "大手テック企業は、クラウドベースのAIには家庭のPC以上のGPUパワーが必要だと信じさせたがっている。WiCi Oneは、クラウドサブスクリプションをさらに増やす代わりの選択肢を示す。実質的にはWi-Fi 7接続で下位クラスのPCにグラフィックス処理能力を送るeGPUであり、「パーソナルコンピューティング」を「共有コンピューティング」に変えるものだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
+          "cap": "トースターか、スピーカーか。判断はあなた次第だ。© Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Wi-Fi 7の最大速度は約11.5Gbps、対してThunderbolt 4は32Gbps である。共同創業者でCEOのZill Mengによると、WiCiは干渉とデータ伝送を最小限に抑えるため、独自のプロトコルとファームウェアを設計したという。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
+          "cap": "文字どおり、デスクトップPC一台分のパーツがこの中に詰まっている。© Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "予定されているモデルは二つ。RTX 5060 Ti 搭載の$2,600モデルと、RTX 5090搭載の$10,000モデルだ。MengはRTX 5090版でDeepSeek-V3 AIモデルを動かしてみせた。約七フィート離れた場所からプレイしたCyberpunk 2077は、フレーム生成ありで100から200 fpsの間を行き来し、パストレーシングを有効にすると10 fps近くまで落ちた。"
+        },
+        {
+          "t": "p",
+          "x": "Meng自身もゲームが最適な用途ではないかもしれないと述べており、Thunderbolt 4ポートも備える。WiCi Oneは12月の発売予定までに、まだ改善が必要だ。"
+        }
+      ]
+    },
+    "gadgets/pixel-search-gemini-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
+          "cap": "Pixelランチャーの検索バー"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 11シリーズにプリインストールされた新しいPixel Searchアプリでは、アプリドロワーから写真、メール、連絡先などを検索できる。現在Googleは、Gemini-poweredのアップグレードを準備する一方、通話履歴やメッセージのデータについてユーザーが管理できる範囲を広げようとしているようだ。"
+        },
+        {
+          "t": "p",
+          "x": "最新バージョン(1.0.983036833)では、設定に「Privacy & Permissions」セクションが追加され、「Help improve Pixel Search」「Call Logs」「SMS」という三つのトグルが用意された。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
+          "cap": "Pixel SearchのPrivacy & Permissions設定(AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
+          "cap": "Pixel Searchのプライバシー用トグル(AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "「Help improve Pixel Search」をオフにすると、利用状況分析のためのデータ集約が止まる。「Call Logs」と「SMS」のトグルをオフにすると、Googleはその履歴を連絡先候補の改善に使わなくなる。ただし、オフにしても検索結果から通話やメッセージが消えるわけではない。そのためには、アプリの通話履歴とSMSの権限を取り消す必要がある。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
+          "cap": "Pixel Searchアプリの権限(AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "Android Authorityは、今後登場する「Gemini-powered suggestions」機能のコードも見つけた。文字列には「Show Gemini-powered suggestions」や「See relevant info and Gemini-suggested actions to help you finish a task faster.」とある。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini-poweredの提案機能はまだ有効になっておらず、今後のアップデートで登場する可能性があるが、プライバシーセクションはすでに利用できる。Pixel 11の所有者はPlay Storeから更新でき、それ以前のPixelではAndroid 17 QPR2 Beta 5以降でアプリをサイドロードできる。"
+        }
+      ]
+    },
+    "gadgets/ray-ban-meta-audio-no-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Ray-Ban-Meta-Audio---Lifestyle3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audioはカメラを省き、より軽く洗練されたデザインになった。プライバシーをめぐる世間の反発が強まるなか、社会的に受け入れられやすい製品といえそうだ。"
+        },
+        {
+          "t": "p",
+          "x": "Meta Connect 2026で発表されたRay-Ban Meta Audioは、カメラを搭載しないMeta初のスマートグラスである。それ以外の機能は同じで、Meta AIへの質問、音楽やオーディオブック、ポッドキャストの再生、通話に対応する。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Clubmaster3.png"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Burbank3.png"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta AudioにはBurbankとClubmasterの二つのスタイルがある。BurbankはカメラとLEDがない点を除けば一般的なWayfarer型のRay-Ban Metaグラスによく似ているが、ClubmasterはMetaのほかのどのスマートグラスとも異なる。"
+        },
+        {
+          "t": "p",
+          "x": "Clubmaster Ray-Ban Meta Audioは標準サイズで43グラムと、これまでのMetaのスマートグラスで最も軽い。Burbankは47グラムでそれに次ぐ。"
+        },
+        {
+          "t": "p",
+          "x": "この製品は、カメラ付きスマートグラスという発想に世間が広く反発したあとに登場した。Metaは録画LEDへの細工をより難しくするファームウェアアップデートを配信してきた。それでも不正行為との結びつきが強まるにつれ、カメラ付きスマートグラスそのものを敬遠する潜在的な購入者も出てくるだろう。Ray-Ban Meta Audioはこの層を狙える。"
+        },
+        {
+          "t": "p",
+          "x": "ただしMetaはUploadVRに対し、Ray-Ban Meta Audioは何年も前から開発してきたもので、世間の反発を受けて開発したわけではないと説明した。"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audioは$349で予約を受け付けており、10月13日から出荷される。"
+        }
+      ]
     }
   }
 }

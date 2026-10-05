@@ -1,106 +1,101 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "politics",
-  "items": [
-    {
-      "title": "U.S. appeals court blocks Minnesota law barring 'nudified' photos in xAI lawsuit",
-      "url": "https://www.mprnews.org/story/2026/10/02/us-appeals-court-blocks-minnesota-law-barring-nudified-photos-in-xai-lawsuit",
-      "source": "MPR News",
-      "published_iso": "2026-10-02T17:08:00-05:00",
-      "og_image": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
-      "excerpt": "The 8th Circuit enjoined Minnesota's first-in-the-nation ban on AI 'nudification' tools while xAI's First Amendment challenge proceeds; AG Ellison vows to defend it. (Off-list: no on-list outlet covered the ruling.)",
-      "category": "politics",
-      "axis": "policy",
-      "tool": "Politics",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "rationale": "New federal appellate decision that pauses a first-of-its-kind state AI tool ban, a concrete regulation and litigation event for anyone shipping image-generation features."
-    },
-    {
-      "title": "U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science",
-      "url": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
-      "source": "The White House",
-      "published_iso": "2026-10-04T09:14:42+00:00",
-      "og_image": "https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Social-Share-Card.jpg",
-      "excerpt": "Primary release: at the STS Forum in Kyoto, the U.S. and 16 countries endorsed a joint declaration led by OSTP's Michael Kratsios to harness 'super intelligence' for autonomous experimentation and new research funding models.",
-      "category": "politics",
-      "axis": "geopolitics",
-      "tool": "Politics",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "Primary document of a new 17-country AI-for-science declaration, covering the geopolitics axis with an official release rather than commentary."
-    },
-    {
-      "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-      "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-      "source": "NPR",
-      "published_iso": "2026-10-04T14:36:48-04:00",
-      "og_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4525x2545+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2Fd7%2Ff235a8db45239880a2816c1cf983%2Fap26196593850558.jpg",
-      "excerpt": "Trump said DNI Jay Clayton will lead the White House's new 'Super Intelligence Force,' which will coordinate government engagement with AI companies; follows last week's voluntary AI accord. (Off-list: on-list Axios is bot-walled.)",
-      "category": "politics",
-      "axis": "policy",
-      "tool": "Politics",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "New executive decision creating a White House AI coordination body and naming its lead, which changes who AI companies deal with in government."
-    },
-    {
-      "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
-      "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
-      "source": "CBS News",
-      "published_iso": "2026-10-02T13:08:54-04:00",
-      "og_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg",
-      "excerpt": "Researchers found Alibaba's Qwen refuses or parrots state doctrine on politically sensitive topics, raising questions as Chinese open models spread globally. (Off-list.)",
-      "category": "politics",
-      "axis": "geopolitics",
-      "tool": "Politics",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "New research finding on state-aligned censorship in a widely used Chinese open model, relevant to US-China AI competition and to builders choosing base models."
-    },
-    {
-      "title": "Arizona court tosses sentence in road rage case over AI victim video",
-      "url": "https://globalnews.ca/news/12085589/arizona-court-tosses-sentence-road-rage-case-ai-victim-video/",
-      "source": "Global News (AP)",
-      "published_iso": "2026-10-02T15:20:18-04:00",
-      "og_image": "https://globalnews.ca/wp-content/uploads/2026/10/Christopher-Pelkey-road-rage-ai-video.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "excerpt": "An Arizona appeals panel ruled that letting an AI-generated video of the deceased victim be shown at sentencing 'constituted fundamental error,' vacating the sentence. (Off-list AP wire.)",
-      "category": "politics",
-      "axis": "policy",
-      "tool": "Politics",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "New appellate ruling that sets a limit on synthetic AI media in court proceedings; AI is the reason the sentence was vacated."
-    }
-  ],
   "dedup": {
     "checks": {
-      "https://www.mprnews.org/story/2026/10/02/us-appeals-court-blocks-minnesota-law-barring-nudified-photos-in-xai-lawsuit": {
+      "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.digitaltrends.com/wearables/norway-mulls-ban-on-smart-glasses-before-they-become-a-bigger-privacy-problem/",
+        "new_action": "Norwegian government formally announced (Mon 2026-10-05) it will introduce a law for a temporary ban on AI glasses in parks, beaches, schools and kindergartens, and set up an expert group to draft permanent rules; the 2026-09-03 gadgets card only reported the ban being considered."
+      },
+      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act": {
+        "verdict": "new",
+        "nearest": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/",
+        "new_action": ""
+      },
+      "https://www.politico.eu/article/female-european-parliament-lawmakers-targeted-deepfake-porn/": {
         "verdict": "new",
         "nearest": "https://zdnet.co.kr/view/?no=20261002190003",
         "new_action": ""
       },
-      "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/": {
+      "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence": {
         "verdict": "new",
-        "nearest": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+        "nearest": "https://www.axios.com/2026/09/28/pope-leo-ai-fears-fake-news-trump",
         "new_action": ""
       },
-      "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump": {
-        "verdict": "follow-up",
-        "nearest": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
-        "new_action": "New executive appointment: Trump names DNI Jay Clayton to lead the newly created White House 'Super Intelligence Force' coordinating government engagement with AI companies."
-      },
-      "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://globalnews.ca/news/12085589/arizona-court-tosses-sentence-road-rage-case-ai-victim-video/": {
+      "https://thediplomat.com/2026/10/can-japan-counter-chinas-dominance-in-ai/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Authors Alliance on Thomson Reuters v. ROSS (same 3rd Circuit ruling as the 2026-10-02 NiemanLab card, commentary with no new decision); Ars Technica on the $300M Nvidia chip smuggling arrest (same event as the 2026-10-02 DOJ release card). Dropped as commentary or analysis of already-published events: Yonhap SI explainer and WIRED 'AI rebrand loyalty test' (both about the 9/30 SI executive order), Tech Policy Press weekly roundup (accord, czar, and Pentagon command, so it overlaps picks and history). CSET cluster c12 (China AI relationships / What America and China fear): both are commentary or podcast with unverified bodies, so neither was picked, which keeps the cluster at zero or one. Not picked on scope or strength: Verge NJ ex-lieutenant governor (personal scandal, AI is incidental), WIRED rural data center tax break (explainer on an existing 2025 law), TPP Pennsylvania data center politics (analysis that leans toward midterm horse-race framing), TPP Russia AI law (analysis), Rest of World Africa at UNSC (close to the 9/28 UN AI clash card), Yonhap financial regulator AI hacking warning (official remarks, no new rule), and The Register Oracle Wisconsin datacenter (utility permitting and business). No strong elections or public-opinion candidate survived, so axes are policy x3 and geopolitics x2. Five distinct outlets."
-  }
+    "note": "SWAP (2026-10-06): removed WIRED 'Rural data centers are in for a big federal tax break' after the full-article check found its body never mentions AI (pure opportunity-zone tax story = general political news under the politics _note). Replaced with Axios 'GOP Sen. Bernie Moreno letter to Anthropic's Dario Amodei' - the only remaining candidate reporting a concrete new action (a sitting senator's formal letter, sent Mon 2026-10-05) where AI is the whole story; distinct from the 2026-09-28 Pope/Trump 'AI fears hoax' card and the 2026-10-01 FTC OpenAI/Anthropic probe (different actor, different action). To be written neutrally as a policy action, not partisan framing. Other remaining candidates stay dropped as analysis/commentary/interviews with no new decision (ChinaTalk, CSET, Lawfare, FPF, IAPP, TPP x3, Diplomat APAC data centers, Altman Decoded, Schiff Decoder), AI business noise (Axios Reflection), AI incidental (Verge NJ ex-LG), or weak politics axis/no image (Nieman Lab). Original note: no candidate carried a history_match; all 20 checked by content against the 30-day politics history_digest plus the gadgets ledger entry for Norway (digitaltrends 'Norway mulls ban', 2026-09-03), which the Ars card follows up with the formal law announcement. Diversity after swap: 5 distinct outlets (Ars, Verge, POLITICO Europe, Axios, Diplomat); axes policy x3, elections x1, geopolitics x1."
+  },
+  "items": [
+    {
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "source": "Ars Technica",
+      "title": "AI glasses face their first major government crackdown",
+      "tool": "Politics",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "axis": "policy",
+      "rationale": "Follow-up with a concrete new government action: Norway will legislate a temporary ban on AI glasses in parks, beaches, schools and kindergartens and convene an expert group for permanent rules (first national-level crackdown).",
+      "published_iso": "2026-10-05T13:39:30+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
+      "excerpt": "Norway's government said Monday it will introduce a law for a temporary ban on AI glasses in places such as parks, beaches, schools and kindergartens, and set up an expert group to draft permanent rules."
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "source": "The Verge",
+      "title": "OpenAI launches text watermarks in the EU to meet the AI Act",
+      "tool": "Politics",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "axis": "policy",
+      "rationale": "Regulation visibly changing a product: OpenAI ships 'textGrain' watermarking in ChatGPT/Codex in the EU to comply with AI Act transparency rules, EU-only for now.",
+      "published_iso": "2026-10-05T18:08:39+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "OpenAI is launching 'textGrain' text watermarking in ChatGPT and Codex in the EU to meet EU AI Act transparency requirements, but says it won't be the global default yet; Anthropic made a similar move."
+    },
+    {
+      "url": "https://www.politico.eu/article/female-european-parliament-lawmakers-targeted-deepfake-porn/",
+      "source": "POLITICO Europe",
+      "title": "Fifty EU lawmakers, 46 of them women, targeted by deepfake porn",
+      "tool": "Politics",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "axis": "elections",
+      "rationale": "New research released Monday quantifies AI deepfake abuse aimed at sitting European Parliament members, the elections/public-opinion axis with fresh data.",
+      "published_iso": "2026-10-05T16:54:02+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
+      "excerpt": "Fifty European Union lawmakers, including 46 women, have been the targets of deepfake pornography, according to new research released Monday. The number of women targeted by deepfake pornography — …"
+    },
+    {
+      "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
+      "source": "Axios",
+      "title": "Sen. Bernie Moreno sends letter urging Anthropic's Dario Amodei to drop 'alarmist' AI commentary",
+      "tool": "Politics",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "axis": "policy",
+      "rationale": "Concrete new action from Congress: a sitting senator formally wrote to Anthropic's CEO on Monday objecting to its AI-risk messaging ahead of the expected IPO - lawmakers now pressing labs directly on how they talk about AI risk (write neutrally).",
+      "published_iso": "2026-10-05T18:00:05+00:00",
+      "og_image": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
+      "excerpt": "Sen. Bernie Moreno (R-Ohio) sent a letter Monday urging Anthropic CEO Dario Amodei against an 'alarmist approach' and 'panic-inducing commentary' on AI, according to Axios, ahead of Anthropic's expected IPO."
+    },
+    {
+      "url": "https://thediplomat.com/2026/10/can-japan-counter-chinas-dominance-in-ai/",
+      "source": "The Diplomat",
+      "title": "Can Japan counter China's dominance in AI?",
+      "tool": "Politics",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "axis": "geopolitics",
+      "rationale": "Sovereign-AI geopolitics outside the US/EU frame: assessment of Tokyo's 'AI for Japan, in Japan' strategy against China's lead; fills the Asia gap in the set.",
+      "published_iso": "2026-10-05T12:30:00+00:00",
+      "og_image": "https://images.thediplomat.com/v1/td-list-l-2/2025/01/thediplomat_2025-01-24-135215.jpg",
+      "excerpt": "Since 2025 Tokyo has moved to ward off foreign AI-related threats by developing AI 'for Japan, in Japan' -- an assessment of Japan's sovereign-AI push against China's dominance."
+    }
+  ]
 }

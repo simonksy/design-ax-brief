@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-06",
+  "section": "design",
+  "cards": [
+    {
+      "id": "adobe-text-to-3d-patent",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Adobe patents point Firefly\ntoward text-to-3D worlds",
+      "body": "Newly published USPTO filings show Adobe seeking patents on text-to-3D world generation, a concept, not a shipped tool.",
+      "mini_headline": "Adobe's text-to-3D patents",
+      "tool": "KeyShot",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+            "cap": "Adobe's text-to-3D world concept (Image: Adobe / USPTO)"
+          },
+          {
+            "t": "p",
+            "x": "Adobe has rolled out a string of AI tools in recent years, from Firefly's image and video models to Photoshop's AI Relight. A large batch of newly published patent filings suggests where it could go next, including areas where Adobe has little presence today."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+            "cap": "Adobe patent for an AI text-to-3D world generator (Image: Adobe / USPTO)"
+          },
+          {
+            "t": "p",
+            "x": "Spotted by patent tracker Patentlyze, one USPTO filing describes a method for creating navigable 3D worlds from text. A prompt such as \"a foggy Japanese garden at dusk\" would first produce an intermediate spherical 2D image, like a 360 view, which a second AI process would then use as the basis for building 3D geometry. Users could view the result from multiple perspectives and move forwards and backwards through it."
+          },
+          {
+            "t": "p",
+            "x": "Building 3D environments today is slow, often requiring hundreds of sculpted and painted assets. Adobe's Substance apps cover parts of that pipeline, but Substance 3D Modeler remains niche next to ZBrush and Blender and has no Firefly-powered tools yet. The closest existing products, such as Blockade Labs' Skybox AI, generate 360-degree scenes rather than navigable environments."
+          },
+          {
+            "t": "p",
+            "x": "Other recent Adobe filings cover AI that builds new camera angles from a single photo, material matching across 3D models and 3D garment previews. Creative Bloq notes that a patent application doesn't necessarily signal plans to ship a product."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,101 +1,101 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "science",
   "items": [
     {
-      "title": "Visual illusion reveals what today's AI vision is missing",
-      "url": "https://techxplore.com/news/2026-10-visual-illusion-reveals-today-ai.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-10-02T12:20:16-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/vision-1.jpg",
-      "excerpt": "Our eyes do not always tell us exactly where things are—and that may be a feature of how biological vision works, rather than simply a flaw. A new study by York University researchers uses a common illusion to ask: If artificial intelligence is meant to see more like us, should it make some of the same systematic perceptual \"mistakes\"?",
+      "title": "Detecting forever chemicals—with yeast and AI",
+      "url": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
+      "source": "Phys.org",
+      "published_iso": "2026-10-05T15:00:10-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pfas.jpg",
+      "excerpt": "Researchers pair engineered yeast biosensors with AI analysis to detect PFAS 'forever chemicals' in samples.",
       "category": "science",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Perception-psychology study (York U.) testing whether AI vision models reproduce human illusion errors; fresh research result, cognitive-science angle."
+      "rationale": "New environmental-chemistry result that pairs engineered yeast biosensors with AI readout to detect PFAS. It is the freshest item in the pool and has no counterpart in the 30-day history."
     },
     {
-      "title": "Millions of years of evolution guide AI search for pollution-fighting enzymes",
-      "url": "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-02T13:00:18-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2020/3-plastic.jpg",
-      "excerpt": "Databases around the world contain information on millions upon millions of enzymes that have the potential to degrade pollutants like plastic. Scientists at Murdoch University's Bioplastics Innovation Hub are combining machine learning technology and biochemistry to identify which of these enzymes have the potential to break down plastic and other",
+      "title": "X-Rays and AI Reveal How Spacecraft Heat Shields Burn in Real Time",
+      "url": "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time",
+      "source": "Universe Today",
+      "published_iso": "2026-10-05T10:02:19+00:00",
+      "og_image": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg",
+      "excerpt": "Berkeley Lab researchers combined X-ray imaging with AI analysis to watch spacecraft heat-shield material ablate in real time.",
       "category": "science",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Murdoch University ML + biochemistry screen for plastic-degrading enzymes; life-science/materials result with a clear environmental payoff."
+      "rationale": "Berkeley Lab materials and space-engineering result in which AI analysis of X-ray imaging tracks heat-shield ablation as it happens. Adds a space and materials field."
     },
     {
-      "title": "Turning to AI for health answers may signal anxiety, depression among young adults",
-      "url": "https://medicalxpress.com/news/2026-09-ai-health-anxiety-depression-young.html",
+      "title": "Autonomous AI could create capacity for thousands more dermatology appointments, real-world study finds",
+      "url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html",
       "source": "Medical Xpress",
-      "published_iso": "2026-09-28T08:20:07-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2023/chatgpt-11.jpg",
-      "excerpt": "Young adults who use generative artificial intelligence to ask health-related questions are more likely to screen positive for clinically significant anxiety and depression than those who do not use AI for health issues, according to a new study led by University of Florida researcher Yusen Zhai.",
+      "published_iso": "2026-09-30",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+      "excerpt": "A real-world study of 8,391 patients found autonomous AI could free roughly 8,500 dermatology appointments over 16 months by safely discharging benign cases, with over 98% sensitivity for invasive melanoma.",
       "category": "science",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "University of Florida clinical-psychology study linking generative-AI health queries to anxiety/depression screens; empirical data rather than opinion."
+      "rationale": "Real-world clinical study of 8,391 patients with concrete outcome numbers (over 98% melanoma sensitivity, about 8,500 appointments freed). It was the strongest of the medical candidates."
     },
     {
-      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
-      "source": "MIT News",
-      "published_iso": "2026-10-01T22:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-csail-InstructMesh.jpg",
-      "excerpt": "The InstructMesh generative AI tool helps users 3D print working, real-world items with ease by understanding how designs should look and which edits users truly want. You can prompt the system to produce a 3D model, then ask it to edit specific parts.",
+      "title": "AI chatbots give us a narrow slice of knowledge: Researchers warn of 'knowledge collapse'",
+      "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-28",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+      "excerpt": "University of Copenhagen researchers found AI chatbots deliver significantly less diverse information than Google search across 155 topics, warning of 'knowledge collapse' as models train on AI text.",
       "category": "science",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "MIT CSAIL research system (InstructMesh) where generative AI is the core result: part-level editing of AI-made 3D meshes into fabricable objects; adds an engineering/fabrication field and a fifth distinct outlet."
+      "rationale": "Empirical University of Copenhagen study across 155 topics that measures how much less diverse chatbot answers are than search results. A cognitive and information-science result, not opinion."
     },
     {
-      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-      "source": "Microsoft Research",
-      "published_iso": "2026-09-29T14:00:02+00:00",
-      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/ProjectQuine-BlogHeroFeature-1400x788-2.jpg",
-      "excerpt": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger th",
+      "title": "The tests that grade AI may be getting it wrong",
+      "url": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-09-30",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+      "excerpt": "Stanford researchers analyzed 56 widely used AI benchmarks and found major measurement inconsistencies, including safety benchmarks that degrade across languages, arguing for measurement-science methods.",
       "category": "science",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Microsoft Research announcement of Quine, a multimodal world model of biology; this is a new research-system release, not commentary."
+      "rationale": "Stanford measurement-science audit of 56 AI benchmarks, with concrete findings such as safety benchmarks that degrade across languages. It is a different study from the 09-08 BenchMIRT post."
     }
   ],
   "dedup": {
     "checks": {
-      "https://techxplore.com/news/2026-10-visual-illusion-reveals-today-ai.html": {
+      "https://phys.org/news/2026-10-chemicals-yeast-ai.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
+        "nearest": "https://phys.org/news/2026-09-machine-chemicals-repel-honey-bees.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html": {
+      "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://techxplore.com/news/2026-09-scientists-real-ai-advanced-nuclear.html",
         "new_action": ""
       },
-      "https://medicalxpress.com/news/2026-09-ai-health-anxiety-depression-young.html": {
+      "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html": {
         "verdict": "new",
-        "nearest": "https://www.psychologytoday.com/ca/blog/the-future-brain/202609/ai-use-and-emotional-problems-in-children-and-teens",
+        "nearest": "https://medicalxpress.com/news/2026-09-ai-routine-imaging-patients-treatment.html",
         "new_action": ""
       },
-      "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001": {
+      "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-hardflow-algorithm-generative-ai-high.html",
+        "nearest": "https://techxplore.com/news/2026-09-ai-generated-summaries-distort-human.html",
         "new_action": ""
       },
-      "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/": {
+      "https://techxplore.com/news/2026-09-grade-ai-wrong.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
+        "nearest": "https://allenai.org/blog/benchmirt",
         "new_action": ""
       }
     },
-    "note": "SWAP: removed ScienceDaily 'Scientists burned their own scrolls...' (Herculaneum). The fact-check found AI is only background there: the study tested lead in ink on burned replica scrolls and has no AI result. Backfilled with MIT News InstructMesh (CSAIL; generative AI is central to the result; the URL is not in /tmp/ax-claimed-urls.txt, and no design-section pick covers this story; no similar story in the 30-day history_digest). Earlier drop still stands: phys.org 'AI scans 4.6 million compounds ... hydrogen positions' duplicates the 09-24 GEN Tautomer card. Other candidates were rejected for these reasons: SciAm attachment-theory piece, Psychology Today 'Your AI Therapist' and MIT Tech Review 'LLMs don't reason' are opinion/essay; Talus Bio rests on vendor internal benchmarks and would be a second biology/drug item next to Quine; MIT algorithmic monoculture is economics, with AI only peripheral; in SciAm Etruscan tomb the AI angle is unclear; the Phys.org, Tech Xplore and Medical Xpress items would repeat outlets already used (spatial transcriptomics, stripe patterns, quantum-inspired uncertainty, SwRI GAMES, chatbot harm); RetroChimera would repeat Microsoft Research and is close to the 09-05 small-molecules card. The 5 picks come from 5 distinct outlets."
+    "note": "DROPPED as repeats: (1) Phys.org 'Self-driving lab automates semiconductor ink synthesis' (KIT E-MAP). history_match is the 09-27 EurekAlert card 'Self-driving lab speeds up materials development', which appears to cover the same KIT release, so it is treated as a duplicate. (2) Physics World 'Drones, AI and the future of wildlife conservation' is an evergreen feature that overlaps the 10-03 Antarctica drones/AI card. NOT PICKED for other reasons: opinion, essay or feature pieces (SciAm attachment theory, MIT Tech Review 'LLMs don't reason', STAT Nobel op-ed, Quanta 'end of math', Psychology Today outsourcing). Quantum Insider AIDAQ is conference roundup noise. MIT algorithmic monoculture is economics, with AI peripheral. In the SciAm Etruscan tomb story the AI role is unclear. Medical Xpress MEL-IA skin-lesion tool is the same dermatology theme as the stronger real-world study that was picked. Arrhythmia GNN is validated only on simulated data. Phys.org 'Have it disagree with you' (45 workers) and Tech Xplore gender pay gap would push an outlet over the 2-per-outlet cap. The phys.org item's history_match (InstructMesh, 10-05) is unrelated. No pathogen-adjacent items in the pool. Outlets: Phys.org 1, Universe Today 1, Medical Xpress 1, Tech Xplore 2 (4 distinct)."
   }
 }

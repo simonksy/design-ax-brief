@@ -5722,6 +5722,185 @@
           "x": "评测者用自己的X6拍摄的测试片段两次上传失败——这是测试版常见的小毛病——但作为一项免费功能，它为一款价格不菲的相机增添了价值。"
         }
       ]
+    },
+    "gadgets/windows-11-26h2-file-explorer-ai-actions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
+          "cap": "Windows 11官方标志。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft已开始推送Windows 11版本26H2，也称Windows 11 2026 Update。此次发布始于2026年9月29日，对已运行24H2 或25H2 版本的设备而言，它以小型启用包的形式提供。"
+        },
+        {
+          "t": "p",
+          "x": "大多数功能此前已通过月度更新进入PCs，该启用包在多数情况下只需重启一次即可将其激活。它还会重置支持周期：Home和Pro为24个月，Enterprise和Education为36个月。"
+        },
+        {
+          "t": "p",
+          "x": "File Explorer新增AI操作，用户可编辑受支持的图片或总结文档。总结（Summarize）功能适用于OneDrive和SharePoint中的文件，需要Microsoft 365订阅和Copilot许可证。工作或学校账户在File Explorer Home中将鼠标悬停在文件上时，还会看到Open File Location和Ask Copilot。"
+        },
+        {
+          "t": "p",
+          "x": "Explorer新增对uu、cpio、xar和nupkg压缩格式的支持，以及语音输入重命名功能；任务栏现在也可以放在屏幕任意一侧。"
+        },
+        {
+          "t": "p",
+          "x": "安全方面，Sysmon成为内置组件，并引入Administrator protection（两者默认均为关闭），Windows还新增了对后量子算法ML-KEM和ML-DSA的API支持。"
+        }
+      ]
+    },
+    "gadgets/tvos-27-2-apple-intelligence-apple-tv-code": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple最新的tvOS 27.2测试版进一步印证了下一代Apple TV将支持Siri AI和Apple Intelligence的传闻。代码显示，Apple正在tvOS设置应用中加入Improve Siri & Apple Intelligence开关。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "相关文字写道：“允许Apple收集并使用你与Siri、听写和翻译之间的文本与音频交互，帮助改进基础模型和Siri。”"
+        },
+        {
+          "t": "p",
+          "x": "其他支持Apple Intelligence的Apple设备也有名称类似的隐私说明和数据共享选项。在不支持Apple Intelligence的设备上，该设置名为“Improve Siri & Dictation”。新代码与现有的Siri数据共享代码放在一起，因此很可能只有Apple Intelligence-capable硬件才会显示该设置。"
+        },
+        {
+          "t": "p",
+          "x": "tvOS 27.2还新增了Siri Messages UI框架，表明未来消息内容可能会显示在Apple TV上。Siri或许能读取发送到关联iPhone的消息，并在Apple TV上显示智能回复选项。目前Apple TV上的Siri不支持发送或读取消息，因此该框架很可能与Siri AI有关。"
+        },
+        {
+          "t": "p",
+          "x": "Apple正在开发一款配备8GB 或12GB RAM、搭载A19 或A19 Pro 芯片的Apple TV，这样的硬件可以支持端侧Siri AI功能。Apple似乎正借tvOS 27.2为新款Apple TV铺路。新款Apple TV最早可能在10月13日推出。"
+        }
+      ]
+    },
+    "gadgets/wici-one-wireless-gpu-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "大型科技公司希望你相信，云端AI比你家里的PC更需要GPU算力。WiCi One则为又一项云订阅提供了替代方案：它本质上是一款eGPU，通过Wi-Fi 7连接把图形处理能力输送给低配PC，把“个人计算”变成“共享计算”。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
+          "cap": "这是烤面包机还是音箱？你来判断。© Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Wi-Fi 7的最高速率约为11.5Gbps，而Thunderbolt 4为32Gbps。联合创始人兼CEO Zill Meng表示，WiCi自行设计了协议和固件，以尽量减少干扰和数据传输。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
+          "cap": "这东西里面装的真的是一整台台式PC的零件。© Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "计划推出两款型号：搭载RTX 5060 Ti的$2,600版本，以及搭载RTX 5090的$10,000版本。Meng展示了RTX 5090版本运行DeepSeek-V3 AI模型。在约七英尺外游玩的Cyberpunk 2077，开启帧生成后帧率在100到200 fps之间波动，开启路径追踪后则降至接近10 fps。"
+        },
+        {
+          "t": "p",
+          "x": "Meng本人也表示，游戏可能并非最佳用途；设备还配有Thunderbolt 4接口。WiCi One在计划中的12月上市之前仍需改进。"
+        }
+      ]
+    },
+    "gadgets/pixel-search-gemini-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
+          "cap": "Pixel启动器搜索栏"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 11系列预装的全新Pixel Search应用可让用户在应用抽屉中搜索照片、电子邮件、联系人等内容。现在，Google似乎正在准备一项Gemini-powered升级，同时让用户对通话记录和短信数据拥有更多控制权。"
+        },
+        {
+          "t": "p",
+          "x": "最新版本（1.0.983036833）在设置中新增了“Privacy & Permissions”部分，包含三个开关：“Help improve Pixel Search”“Call Logs”和“SMS”。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
+          "cap": "Pixel Search的Privacy & Permissions设置（AssembleDebug / Android Authority）"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
+          "cap": "Pixel Search隐私开关（AssembleDebug / Android Authority）"
+        },
+        {
+          "t": "p",
+          "x": "关闭“Help improve Pixel Search”后，数据将不再被汇总用于使用情况分析；关闭“Call Logs”和“SMS”开关后，Google不再使用这些记录来改进联系人建议。不过，关闭这些开关并不会在结果中隐藏通话或短信——要做到这一点，需要撤销该应用的通话记录和SMS权限。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
+          "cap": "Pixel Search应用权限（AssembleDebug / Android Authority）"
+        },
+        {
+          "t": "p",
+          "x": "Android Authority还发现了即将推出的“Gemini-powered suggestions”功能的代码。相关字符串为“Show Gemini-powered suggestions”和“See relevant info and Gemini-suggested actions to help you finish a task faster.”"
+        },
+        {
+          "t": "p",
+          "x": "Gemini-powered建议尚未上线，可能会在未来的更新中推出，但隐私部分已经可用。Pixel 11用户可通过Play Store更新，较早的Pixel机型可在Android 17 QPR2 Beta 5或更高版本上侧载该应用。"
+        }
+      ]
+    },
+    "gadgets/ray-ban-meta-audio-no-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Ray-Ban-Meta-Audio---Lifestyle3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio取消了摄像头，设计更轻、更时尚。在公众对隐私问题强烈反弹之际，它可能更容易被社会接受。"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio在Meta Connect 2026上发布，是Meta首款不带摄像头的智能眼镜。除此之外，它的功能完全相同，支持Meta AI问答、收听音乐、有声书和播客，以及接听电话。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Clubmaster3.png"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Burbank3.png"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio提供Burbank和Clubmaster两种款式。Burbank与常见的Wayfarer款Ray-Ban Meta眼镜十分相似，只是没有摄像头和LED；Clubmaster则与Meta的其他智能眼镜都不一样。"
+        },
+        {
+          "t": "p",
+          "x": "Clubmaster款Ray-Ban Meta Audio标准尺寸重43克，是Meta迄今最轻的智能眼镜；Burbank以47克位居第二。"
+        },
+        {
+          "t": "p",
+          "x": "这款设备是在公众普遍反感带摄像头的智能眼镜之后推出的。Meta一直在发布固件更新，让篡改录制LED变得更加困难。尽管如此，带摄像头的智能眼镜与不当行为的关联日益加深，会让部分潜在买家彻底放弃这类产品，而Ray-Ban Meta Audio正可瞄准这一市场。"
+        },
+        {
+          "t": "p",
+          "x": "不过，Meta向UploadVR表示，Ray-Ban Meta Audio已开发多年，其开发并非出于公众的反弹。"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio现已开放预订，售价$349，10月13日起发货。"
+        }
+      ]
     }
   }
 }

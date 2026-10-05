@@ -12616,6 +12616,138 @@
           "x": "API 이용료는 10월 8일까지 50% 할인된다. 기업은 상업용 가중치 라이선스를 받아 자체 인프라에서 모델을 돌리고 파인튜닝할 수 있다. 오픈 웨이트 버전은 몇 주 안에 나올 예정이다. 출시 직전에는 Ideogram도 편집에 초점을 맞춘 자체 모델 4.5 버전을 내놨는데, 이 모델 역시 곧 오픈 웨이트로 공개될 예정이다."
         }
       ]
+    },
+    "design/photoshop-remove-tool-no-generative-credits": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "nmvewzc6MG4"
+        },
+        {
+          "t": "p",
+          "x": "이제 Adobe는 Photoshop의 여러 AI 도구 사용량을 월간 생성 크레딧에서 차감한다. 어떤 기능이 크레딧을 쓰는지에 따라 편집의 자유도가 곧바로 달라진다."
+        },
+        {
+          "t": "p",
+          "x": "첫 번째 반전은 Remove 도구다. PHLEARN의 Aaron Nace는 크레딧 잔액 2,870을 확인한 뒤 Generative AI를 켜고 클라우드 처리를 고른 채로 거슬리는 요소 몇 개를 칠해 지운다. 그러고 잔액을 다시 본다. 숫자는 그대로다. AI 모델을 한 번 내려받고 나면 Photoshop은 이 도구를 오프라인 기기 처리로도 돌린다."
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill, Generative Expand, Generate Image는 모두 월간 할당량에서 크레딧을 쓴다. 다른 회사의 파트너 모델은 Adobe 자체 Firefly 모델보다 생성 1회당 크레딧이 더 든다. Content-Aware Fill과 Select Subject는 잔액을 건드리지 않으니 무료 옵션부터 써 보는 습관을 들이는 편이 좋다."
+        },
+        {
+          "t": "p",
+          "x": "그 밖에 scrubby-slider 레이블과 클리핑 마스크, Curves의 대상 지정 손 도구, Select Subject 가장자리를 더 깔끔하게 따는 클라우드 처리 팁도 다룬다."
+        }
+      ]
+    },
+    "design/adobe-text-to-3d-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+          "cap": "Adobe의 text-to-3D 세계 구상 (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "Adobe는 최근 몇 년 동안 Firefly의 이미지·영상 모델부터 Photoshop의 AI Relight까지 AI 도구를 잇달아 내놓았다. 이번에 무더기로 공개된 특허 출원을 보면 지금은 존재감이 거의 없는 분야까지 포함해 Adobe의 다음 행보를 짐작할 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+          "cap": "Adobe의 AI text-to-3D 세계 생성기 특허 (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "특허 추적 서비스 Patentlyze가 찾아낸 USPTO 출원서 하나는 텍스트로 탐색 가능한 3D 세계를 만드는 방법을 설명한다. \"a foggy Japanese garden at dusk\"(해 질 녘 안개 낀 일본 정원) 같은 프롬프트를 넣으면 먼저 360 뷰 같은 구형 2D 중간 이미지가 나온다. 두 번째 AI 과정이 이 이미지를 토대로 3D 지오메트리를 쌓는다. 사용자는 결과물을 여러 시점에서 보고 그 안을 앞뒤로 오갈 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "지금은 3D 환경 제작이 느리다. 조각하고 채색한 에셋이 수백 개씩 필요한 경우도 많다. Adobe의 Substance 앱이 이 파이프라인 일부를 맡지만 Substance 3D Modeler는 ZBrush와 Blender에 비하면 아직 틈새 도구이고 Firefly-powered 도구도 없다. 가장 가까운 기존 제품인 Blockade Labs의 Skybox AI도 탐색 가능한 환경이 아니라 360-degree 장면을 생성한다."
+        },
+        {
+          "t": "p",
+          "x": "Adobe가 최근 낸 다른 출원에는 사진 한 장으로 새 카메라 앵글을 만드는 AI, 3D 모델 사이의 재질 매칭, 3D 의상 미리보기가 들어 있다. Creative Bloq는 특허를 출원했다고 해서 곧 제품을 내놓는다는 뜻은 아니라고 짚는다."
+        }
+      ]
+    },
+    "design/apple-macos-ai-agent-full-disk-access-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+          "cap": "Credit: Apple"
+        },
+        {
+          "t": "p",
+          "x": "Apple은 Apple Developer 페이지에 “Updates to Full Disk Access in macOS”라는 공지를 올렸다. 사용자를 위험에 빠뜨릴 수 있는 방식으로 AI 에이전트에 Full Disk Access를 주지 말라는 경고다."
+        },
+        {
+          "t": "p",
+          "x": "Apple에 따르면 일부 개발자는 Full Disk Access로 파일과 메일, 메시지, 방문 기록까지 사용자 시스템의 모든 것을 노출하고 있다. 정작 사용자는 이를 충분히 알지도, 이해하지도 못한 상태다."
+        },
+        {
+          "t": "p",
+          "x": "“앞으로 이처럼 이례적인 수준의 접근 권한을 앱에 진심으로 부여하려는 사용자가 매우 명시적인 조작을 거쳐야만 그렇게 할 수 있도록 추가 통제 장치를 도입할 것이다. 이 문제를 해결하는 일은 매우 중요하다. AI 에이전트의 능력과 자율성이 커질수록 이 수준의 접근에 따르는 위험도 크게 늘어날 것이다.”"
+        },
+        {
+          "t": "p",
+          "x": "No Film School은 이 통제 장치가 나오기 전까지는 AI 에이전트에 그런 접근 권한을 아예 주지 않으면 위험을 피할 수 있다고 전한다."
+        }
+      ]
+    },
+    "design/uxcollective-ai-skill-atrophy-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+          "cap": "인지적 오프로딩이 망각으로 바뀔 때 (Visualization by Slava Polonski)"
+        },
+        {
+          "t": "p",
+          "x": "AI가 우리를 덜 지적으로 만들지는 않는다. 우리가 연습하는 지능의 양을 줄일 뿐이다. 진짜 문제는 따로 있다. 더는 할 필요가 없는 일을 하는 법을 우리가 서서히 잊을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Slava Polonski는 AI가 부르는 스킬 위축과 인지적 오프로딩을 들여다본다. 애초에 그 기술을 우리 것으로 만들어 준 사고와 판단, 분투를 바깥에 맡기면 무슨 일이 생기는지 묻는다."
+        },
+        {
+          "t": "p",
+          "x": "에세이는 전화번호 이야기로 시작한다. 번호 외우기를 그만두자고 마음먹은 사람은 없다. 그 능력은 그저 조용히 안 쓰이게 됐고 그러다 조용히 사라졌다. 기술을 기계에 넘기는 일은 손실로 느껴지지 않는다. 오히려 나아진 것처럼 느껴진다."
+        }
+      ]
+    },
+    "design/formas-cartesian-agentic-modeller": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Formas.AI가 건축, 인테리어, 가구, 제품 디자인의 초기 단계에 쓰는 AI 지원(AI-assisted) 플랫폼 Cartesian을 공개했다. AI가 만든(AI-generated) 콘셉트를 편집할 수 있으면서 물리적으로도 의미 있는 형상으로 바꾸겠다는 구상이다. 디자이너는 사진, 스케치, 글로 쓴 브리프, 기존 모델에서 출발해 대화로 구성 요소를 하나씩 다듬는다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“그 뒤에 있는 기술은 엄청나게 복잡할 수 있다. 경험은 그래서는 안 된다.” 공동 창업자이자 CEO인 Yiping Goh의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "중심에는 AI 에이전트용으로 따로 만든 CAD 커널 레이어와 기하 툴킷이 있다. 에이전트는 이것으로 솔리드와 자유곡면을 만들고 형상을 프로그래밍 방식으로 검사하고 고친다. 모델은 이름 붙은 구성 요소, 레이어, 어셈블리 단위로 정리된다. 공동 창업자 Carlos Bañón은 이런 관계가 “형상에 의미를 부여하고, 모델이 바뀌어도 설계 의도를 지키도록 돕는다”고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "여러 AI 모델과 전문 에이전트는 오케스트레이션 시스템이 한데 조율한다. OpenAI의 GPT-6 Astra와 Claude Opus 5.5도 그 가운데 있다. 에이전트는 일조와 그림자, 실시간 바람 분석을 요청해 모델링 판단에 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "Cartesian은 Rhinoceros, SketchUp과 실시간으로 연동되고 DXF·IFC 가져오기와 내보내기, STEP·STL 내보내기를 지원한다. 데스크톱 버전은 macOS와 Windows에 차례로 풀리며, 2026년 10월 31일부터 이용 범위를 넓힐 예정이다."
+        }
+      ]
     }
   }
 }

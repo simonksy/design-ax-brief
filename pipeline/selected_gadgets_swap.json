@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-06",
+  "section": "gadgets",
+  "items": [
+    {
+      "title": "Pixel Search could soon get a Gemini-powered upgrade along with privacy improvements",
+      "url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
+      "source": "Android Authority",
+      "published_iso": "2026-10-05T12:11:36Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
+      "excerpt": "Pixel Search could soon get a Gemini-powered upgrade along with privacy improvements — New Pixel Search update introduces a \"Privacy & Permissions\" section letting users stop the app from using their data to improve suggestions.",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "Gemini moving into the Pixel launcher's search bar, with a new control over whether your data trains suggestions. It covers a different surface from the published Pixel Buds and Call for Me cards and adds a fifth outlet."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/": {
+        "verdict": "new",
+        "nearest": "https://www.uploadvr.com/ray-ban-meta-audio-glasses-no-camera/"
+      },
+      "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html": {
+        "verdict": "new",
+        "nearest": "https://www.xda-developers.com/gemini-app-for-windows-puts-copilot-to-shame/"
+      },
+      "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/": {
+        "verdict": "new",
+        "nearest": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html"
+      },
+      "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866": {
+        "verdict": "new",
+        "nearest": ""
+      },
+      "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/": {
+        "verdict": "new",
+        "nearest": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/"
+      }
+    },
+    "note": "SWAP (10-06): removed the TDK retinal-display pick (Notebookcheck) because the full-article check found the body never mentions AI; it is a pure optics story. Replaced it with Android Authority's Pixel Search Gemini teardown, the best remaining candidate where AI is central to the device. Its history_match (09-29 Pixel Buds Gemini controls) is a different product surface, and no published card covers Pixel launcher search, so it is new. The replacement also brings Notebookcheck down to one card and gives 5 distinct outlets. Other options passed over in this swap: Ghost Core (TechCrunch; mainly a funding story), Gemini Call for Me for contacts (an APK teardown expanding the 09-26 card), the EU Siri wait (a prediction), AMD Gorgon Halo benchmarks (vendor PR, covered 09-29), the UGREEN price drop (a deal), Deliveroo robots (AI not central), the Norway ban (politics), and any further Meta-glasses cards. Original note: Excluded by cross-section rule: the Norway AI-glasses ban (Ars Technica), which belongs to politics. From the Meta-glasses overlap group I kept only the 9to5Google software update (a new release, distinct from the 10-05 Ray-Ban Meta Audio hardware card). Dropped from that group: the WIRED Gen 3 review, the UploadVR Display features, the CNET Muse charm smartwatch piece, and the TechRadar Dutch retailer pull. Dropped as duplicates or follow-ups with no new release: the Samsung Android XR glasses November launch, the Google Home 09-30 update, Gemini Call for Me for contacts, the Anker eufy S4 doorbell, and the EU Siri wait. Dropped on quality: AMD Gorgon Halo benchmarks, Ghost $11M raise and Safeworld (funding noise), Soulog Sense (promoted post), the UGREEN NAS price drop, the Siri data how-to, and Deliveroo robots."
+  }
+}

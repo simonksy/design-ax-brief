@@ -5517,6 +5517,105 @@
           "x": "イラストレーターのJared Gagnonと組むVermontの作家Dustin Warburtonは、「入れれば本ができあがる照明スイッチ」と競うのはもどかしいと語り、学校からは一度も声がかからなかったという。二人とも、AIの使用を読者の目に触れる形で開示するよう求めている。"
         }
       ]
+    },
+    "books/scholarly-kitchen-ai-representation-not-scholarship": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AIの問題は、機械がより賢くなっていることではないのかもしれない。むしろ、私たちが非常に有能だが限られた形の認知を増幅することに長けつつあることにある。AIは既知のものを組み替えることはできるが、組み替えは創造性や洞察と同じではない。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+          "cap": "図1. 思考の能力と、知性に結びつく資質の対比。"
+        },
+        {
+          "t": "p",
+          "x": "学術コミュニケーションは常に表象の上に成り立ってきた。論文は研究を、抄録は論文を、引用は著作間の関係を表す。表象そのものが最適化の対象になると、AIは学問そのものとの距離を広げかねない。モデルは根拠を理解しないまま論文をもっともらしく要約したり、もっともらしいが検証できない引用を生成したりできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+          "cap": "図2. ツールからエージェントへ。ガバナンスは能力の進歩に歩調を合わせる必要がある。"
+        },
+        {
+          "t": "p",
+          "x": "AIがツールからエージェントへと移るにつれ、問いは能力からエージェンシー(主体性)へと移る。筆者は、AIで労力の一部は減らしても全部は減らさず、人間が表象そのものを問い直せる状態を保つよう促す。機械が処理に長けるほど、私たちは知覚に長けなければならない。"
+        }
+      ]
+    },
+    "books/proyecto451-publisher-ai-policy-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+        },
+        {
+          "t": "p",
+          "x": "AIの岐路：Proyecto451が40を超える出版社のAI方針を調べたところ、主な戦略は二つあった。カタログをAI企業にライセンス供与するか、社内(in-house)にとどめて独自ツールを開発するかである。"
+        },
+        {
+          "t": "p",
+          "x": "Carlo Carrenhoのまとめによると、De MarqueはElevenLabsと提携し、同社のCantook Éditionプラットフォームを使う出版社が、選んだ書籍をElevenReaderでオーディオとして提供できるようにした。ElevenLabsはすでにBookwireやStreetLibといったアグリゲーターと組んでおり、タイトル単位ではなくパートナーを通じてAI-narrated(AIによる朗読)のカタログを拡大している。"
+        },
+        {
+          "t": "p",
+          "x": "そしてノルウェーの新人作家Fabian Heffermehlは、作品がAIではなく自らの人生と言葉と身体から生まれたことを示すため、小説をすべて手書きで書き上げた。"
+        }
+      ]
+    },
+    "books/lithub-ai-writing-spiritual-practice-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
+        },
+        {
+          "t": "p",
+          "x": "文学界はようやく、人間の作家にできて人工知能にできないことは何かを問い始めた。答えはたいてい声や実体験、感情の機微のまわりを巡るが、その底には文学文化が避けてきた言葉がある。魂だ。"
+        },
+        {
+          "t": "p",
+          "x": "AIは図書館のすべての本を取り込み、私たちの構文をそのまま吐き出すことはできるが、名づけられない何かを切望することも、愛して失ったことのない父を悼むこともできない。Charlotte Donlonは、AIの時代において作家の魂こそが複製できない唯一のものであり、私たちはそれを育む基盤をまだ築いていないと論じる。"
+        },
+        {
+          "t": "p",
+          "x": "Donlonは、文学カンファレンスが内面生活と持続可能な創作実践に関するセッションを設け、MFAプログラムが観想についての選択科目を用意し、レジデンシーが離れて過ごす時間を魂の手入れ(soul-tending)として尊重するよう提案する。「AIは向上するだろうが、真の切望や悲嘆、倫理的な自己省察(self-interrogation)の能力を身につけることは決してない」"
+        }
+      ]
+    },
+    "books/hongkong-comics-ai-heyday": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Q8VYqGtRM1A"
+        },
+        {
+          "t": "p",
+          "x": "全盛期の香港(Hong Kong)は漫画大国だった。業界が活況に沸いた1980年代には、年間約50 million 部が売れた。香港漫画はmid-1990s以降、衰退していると広く見なされている。"
+        },
+        {
+          "t": "p",
+          "x": "「今では…数千冊売れれば、それだけでとても良い数字だ」と、九龍(Kowloon)の書店Epic Oneの店主Dicky Lamは語る。「香港の漫画市場は90%縮小した」"
+        },
+        {
+          "t": "p",
+          "x": "作家Jerry Choは『The Life After Life』で今年のJapan International Manga Award銅賞を受賞したが、同作の販売部数はわずか3,000部にとどまる。制作には六か月を要し、Choと常勤スタッフ二人、外部協力者五人が関わった。"
+        },
+        {
+          "t": "img",
+          "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+          "cap": "香港の漫画家Jerry Cho。(Image: CNA)"
+        },
+        {
+          "t": "p",
+          "x": "Choは制作の初期段階でAIを調査と視覚化のツールとして使う。たとえばキャラクターの画像を入力してさまざまな服を試し、その後チームが場面を描く。AIでチームの制作時間を約10 per cent節約できると見積もるが、完成した漫画にAI生成(AI-generated)画像を使うことには一線を引く。「そうだ、芸術は唯一無二だからだ」"
+        },
+        {
+          "t": "p",
+          "x": "Hong Kong Comics and Animation FederationのAlan Wanは、作家が漫画をAI-generatedアニメーションに変えられると話す。「彼らは単なる漫画家ではなく、監督にもなり得る」。著作権と作者性をめぐる問題は未解決のままだ。"
+        }
+      ]
     }
   }
 }

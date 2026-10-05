@@ -1,83 +1,91 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "music",
+  "dedup": {
+    "checks": {
+      "https://www.youtube.com/watch?v=MdxaU0l3FzI": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+        "new_action": ""
+      },
+      "https://www.musicbusinessworldwide.com/sony-music-has-now-asked-platforms-to-remove-more-than-260000-ai-deepfakes-imitating-artists-like-harry-styles-adele-and-michael-jackson/": {
+        "verdict": "new",
+        "nearest": "https://www.engadget.com/2261435/scammers-have-been-inserting-fake-songs-onto-real-artist-pages-on-spotify-and-other-platforms/",
+        "new_action": ""
+      },
+      "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/": {
+        "verdict": "new",
+        "nearest": "https://www.musicbusinessworldwide.com/spotify-has-set-out-how-it-works-inside-muse-metas-personal-ai-agent/",
+        "new_action": ""
+      },
+      "https://www.musicradar.com/artists/guitarists/were-in-the-entertainment-business-if-someone-uses-suno-to-write-a-lyric-its-not-a-high-crime-or-misdemeanour-joe-bonamassa-has-sympathy-for-up-and-coming-artists-using-ai-to-get-an-edge": {
+        "verdict": "new",
+        "nearest": "https://www.musicradar.com/artists/i-resent-the-way-people-talk-about-this-technology-as-if-its-from-the-devil-the-hypocrisy-in-the-industry-is-insane-house-legend-todd-edwards-on-how-ai-has-transformed-his-approach-to-sampling",
+        "new_action": ""
+      },
+      "https://musically.com/2026/10/05/pope-delivers-ai-warning-algorithms-lack-the-spark-of-humanity/": {
+        "verdict": "new",
+        "nearest": "https://djmag.com/news/fred-again-speaks-out-against-ai-music-process-magic",
+        "new_action": ""
+      }
+    },
+    "note": "Dropped: (1) MBW 'A US appeals court has rejected a fair-use defense... what does it mean for the labels' fight with Suno' is an MBW Explains analysis of the Thomson Reuters v. ROSS ruling already published 10/01 (same outlet). It has no new ruling or filing, so it is the same story. (2) Bedroom Producers Blog 'suno-lawsuit' (09/26) mainly re-reports the second UMG/Sony v. Suno suit published 09/22. The v6 training-data admission is supporting detail, not a new filing. (3) Andrew Huang Short 'AI scammers are trying to use me' (09/26): the Short has no description, so the body cannot be checked, and it overlaps the 09/23 Engadget artist-page scam story. Skipped rather than published unverified. The Banoffee/Suno v6 video (Kao_5B_-a6U) had already been removed by story_dedup as the same campaign as the 10/03 Braylon Browner x Nina McNeely video. No Banoffee item is in the pool, so nothing to re-add. Diversity: 5 picks from 5 different outlets (Suno YouTube, MBW, DMN, MusicRadar, Music Ally), at most 1 per outlet. Single category 'music', so accents were rotated from the palette."
+  },
   "items": [
     {
-      "title": "AI 작곡·보컬 노래가 결국 음원차트 1위가 됐다 ①",
-      "url": "https://isplus.com/article/view/isp202610020003",
-      "source": "일간스포츠 (isplus)",
-      "published_iso": "2026-10-03T06:00:00+09:00",
-      "og_image": "https://isplus.com/data/isp/image/2026/10/01/isp20261001000306.800x.0.png",
-      "excerpt": "창작자 머무르의 '꿈꾸던 어른이 되었나요?'는 수노(Suno)로 보컬을 생성하고 기획·작사·프로듀싱은 직접 맡은 곡으로, 멜론 등 음원차트 상위권에 오르며 AI 제작 음원 표기 의무 등 제도 논의를 다시 불러왔다.",
-      "category": "music",
+      "url": "https://www.youtube.com/watch?v=MdxaU0l3FzI",
+      "source": "Suno (YouTube)",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "A Suno-vocal track topping Korean charts is a concrete milestone and reopens AI-labelling rules in the home market."
+      "rationale": "New Suno product feature (Albums: group, order and publish AI-made tracks as a full release), the most actionable item for creators today.",
+      "published_iso": "2026-10-05T10:03:54-07:00",
+      "og_image": "https://i.ytimg.com/vi/MdxaU0l3FzI/maxresdefault.jpg",
+      "excerpt": "Suno launches Albums: creators can group their AI-made songs into a full release, build an album draft (including from an existing playlist), organize track order and publish it on Suno."
     },
     {
-      "title": "Suno is 'far beyond' 2m subscribers and $300m in revenue, says Mikey Shulman – who argues it's 'good' that AI music has no 'firm rules of the road' yet",
-      "url": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
+      "url": "https://www.musicbusinessworldwide.com/sony-music-has-now-asked-platforms-to-remove-more-than-260000-ai-deepfakes-imitating-artists-like-harry-styles-adele-and-michael-jackson/",
       "source": "Music Business Worldwide",
-      "published_iso": "2026-10-02T16:42:55+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/03/shutterstock_2707140975-e1773068320657.jpg",
-      "excerpt": "Suno CEO Mikey Shulman says the v6-era service has passed 2M subscribers, sets out what WMG and BMG get from their licensing deals, and argues about who should set AI music's rules.",
-      "category": "music",
-      "tool": "Music",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "First on-record detail of what WMG and BMG get from their Suno licences, plus Suno's scale, from its CEO."
-    },
-    {
-      "title": "How Seoul Institute of the Arts Students Use Suno | In The Cut",
-      "url": "https://www.youtube.com/watch?v=F0vEAbzFLzk",
-      "source": "Suno Music (YouTube)",
-      "published_iso": "2026-10-03T18:45:39+00:00",
-      "og_image": "https://i.ytimg.com/vi/F0vEAbzFLzk/maxresdefault.jpg",
-      "excerpt": "Suno visits Seoul Institute of the Arts in South Korea to show how music students use Suno to sketch song ideas, experiment with vocals and harmonies, find chords, and separate stems in Suno Studio before continuing work in their existing DAW workflows.",
-      "category": "music",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Practical workflow footage: Korean music students using Suno Studio for sketching and stems before moving into their DAW."
+      "rationale": "Hard new figure: Sony has requested takedowns of 260,000+ AI soundalike deepfakes and calls it an uphill struggle. Shows how large the AI impersonation problem has become.",
+      "published_iso": "2026-10-05T10:19:00+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg",
+      "excerpt": "Sony Music has now asked platforms to remove more than 260,000 AI deepfake tracks imitating artists like Harry Styles, Adele and Michael Jackson, telling the FT the fight against soundalike AI tracks is 'becoming an uphill struggle'."
     },
     {
-      "title": "Feds Want Nearly 4 Years in Prison for AI Music Fraudster Who 'Stole Millions'",
-      "url": "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/",
-      "source": "Rolling Stone",
-      "published_iso": "2026-09-30T00:33:00+00:00",
-      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/09/MikeSmithFedsWantPrison-1.jpg?w=1600&h=900&crop=1",
-      "excerpt": "Prosecutors want convicted AI music fraudster Michael Smith, who used AI-generated songs and bot streams to collect about $8M in royalties, to get nearly four years in prison; he is asking for probation.",
-      "category": "music",
+      "url": "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/",
+      "source": "Digital Music News",
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "New report ties the falling numbers on Spotify's flagship editorial playlists to its crackdown on fake accounts and AI slop. This is a different story from the Meta Muse integration.",
+      "published_iso": "2026-10-01T20:45:36+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar.jpg",
+      "excerpt": "Follower and listener counts on Spotify's biggest editorial playlists are slipping, which a new report links to Spotify's crackdown on fake accounts and AI slop rather than waning interest."
+    },
+    {
+      "url": "https://www.musicradar.com/artists/guitarists/were-in-the-entertainment-business-if-someone-uses-suno-to-write-a-lyric-its-not-a-high-crime-or-misdemeanour-joe-bonamassa-has-sympathy-for-up-and-coming-artists-using-ai-to-get-an-edge",
+      "source": "MusicRadar",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Government's own sentencing ask in the first AI-generated-song streaming-fraud prosecution; AI songs are central to the scheme."
-    }
-  ],
-  "dedup": {
-    "checks": {
-      "https://isplus.com/article/view/isp202610020003": {
-        "verdict": "new",
-        "nearest": "https://www.fnnews.com/news/202609270056206684",
-        "new_action": ""
-      },
-      "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.billboard.com/pro/suno-ai-music-deals-labels-artist-reps-react/",
-        "new_action": "Suno CEO publicly discloses subscriber/revenue scale (>2M subs, >$300M) and the terms WMG and BMG receive under their v6 licences; this is new information, not the original deal announcement."
-      },
-      "https://www.youtube.com/watch?v=F0vEAbzFLzk": {
-        "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=JYs3lzKOruI",
-        "new_action": ""
-      },
-      "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.musicbusinessworldwide.com/man-who-pocketed-8m-using-ai-songs-and-bot-streams-asks-for-no-prison-time-arguing-no-artist-suffered-any-perceptible-harm/",
-        "new_action": "New filing: prosecutors' sentencing memo seeking nearly 4 years; the 9/29 card covered only the defence's request for probation."
-      }
+      "rationale": "Fresh artist stance with a practical line: AI-assisted lyric writing is acceptable, but AI 'artists' should not chart alongside humans.",
+      "published_iso": "2026-10-05T10:59:48Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-2000-80.jpg",
+      "excerpt": "Joe Bonamassa says using Suno to write a lyric is 'not a high crime or misdemeanour' and sympathises with emerging artists using AI for an edge, but argues AI 'artists' shouldn't chart alongside humans."
     },
-    "note": "Dropped as duplicate: MusicTech 'death of Suno' Reddit v6 backlash. It is the same story as the musicradar card of 2026-09-18 (users slam v6), and labels' 'poisoned tree' line repeats the 2026-09-22 MBW second-lawsuit card. Dropped on relevance: DMN Spotify editorial playlist decline. AI slop is only one factor among fake-account crackdowns, so the story stands without the AI angle. Also dropped The Verge Splice CEO interview, an opinion/interview piece with no new release or decision. Shipping 4 picks because the pool held 7 and only 4 passed; nothing was added as padding. Outlets: isplus, MBW, Suno YouTube, Rolling Stone (4 distinct)."
-  }
+    {
+      "url": "https://musically.com/2026/10/05/pope-delivers-ai-warning-algorithms-lack-the-spark-of-humanity/",
+      "source": "Music Ally",
+      "tool": "Music",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "rationale": "Pope Leo XIV draws a line between human art and machine output. Music Ally places it within the music industry's AI fight. A new voice in the human-vs-AI art debate.",
+      "published_iso": "2026-10-05T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Pope Leo XIV posts that it is 'urgent to distinguish human art from what machines produce', claiming an 'ontological difference' between art and statistically generated output; Music Ally frames it against the music industry's AI fight."
+    }
+  ]
 }

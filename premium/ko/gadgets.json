@@ -11731,6 +11731,185 @@
           "x": "리뷰어가 X6로 직접 찍은 테스트 클립은 업로드에 두 번이나 실패했다. 베타라면 겪을 법한 초기 문제다. 그래도 비싼 카메라의 가치를 높여 주는 반가운 무료 기능이다."
         }
       ]
+    },
+    "gadgets/windows-11-26h2-file-explorer-ai-actions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
+          "cap": "공식 Windows 11 로고."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft가 Windows 11 버전 26H2 배포를 시작했다. Windows 11 2026 Update라고도 부른다. 배포는 2026년 9월 29일 시작됐다. 버전 24H2나 25H2를 쓰는 기기는 작은 활성화 패키지로 받는다."
+        },
+        {
+          "t": "p",
+          "x": "기능 대부분은 월간 업데이트로 이미 PCs에 들어와 있다. 이 패키지는 보통 재시작 한 번으로 그 기능을 켠다. 지원 기간도 새로 시작한다. Home과 Pro는 24개월, Enterprise와 Education은 36개월이다."
+        },
+        {
+          "t": "p",
+          "x": "File Explorer에는 지원 이미지를 편집하고 문서를 요약하는 AI 작업이 들어왔다. 요약(Summarize)은 OneDrive와 SharePoint 파일에서 작동하고 Microsoft 365 구독과 Copilot 라이선스가 있어야 한다. 회사나 학교 계정이라면 File Explorer Home에서 파일에 마우스를 올렸을 때 Open File Location과 Ask Copilot 항목도 뜬다."
+        },
+        {
+          "t": "p",
+          "x": "Explorer는 uu, cpio, xar, nupkg 압축 파일과 음성 입력 이름 바꾸기를 지원한다. 작업 표시줄은 이제 화면 어느 가장자리에나 둘 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "보안 쪽으로는 Sysmon이 내장되고 Administrator protection이 들어왔다(둘 다 기본값은 꺼짐). 양자 내성 알고리즘 ML-KEM과 ML-DSA용 API 지원도 Windows에 추가됐다."
+        }
+      ]
+    },
+    "gadgets/tvos-27-2-apple-intelligence-apple-tv-code": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple의 최신 tvOS 27.2 베타가 한 소문에 힘을 싣는다. 차기 Apple TV에 Siri AI와 Apple Intelligence 지원이 들어간다는 소문이다. 코드상으로는 Apple이 tvOS 설정 앱에 Improve Siri & Apple Intelligence 토글을 추가할 모양이다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "문구는 이렇다. “Siri, 받아쓰기, 번역에서 주고받은 텍스트와 오디오를 Apple이 수집하고 사용하도록 허용해 파운데이션 모델과 Siri 개선을 도와주세요.”"
+        },
+        {
+          "t": "p",
+          "x": "Apple Intelligence를 지원하는 다른 Apple 기기에도 이름이 비슷한 개인정보 고지와 데이터 공유 동의 항목이 있다. Apple Intelligence를 지원하지 않는 기기라면 이 설정 이름은 “Improve Siri & Dictation”이다. 새 코드가 기존 Siri 데이터 공유 코드와 함께 들어 있으니 이 설정은 Apple Intelligence-capable 하드웨어에서만 보일 공산이 크다."
+        },
+        {
+          "t": "p",
+          "x": "tvOS 27.2에는 새 Siri Messages UI 프레임워크도 있다. 앞으로 Apple TV에 메시지 내용이 뜰 수 있다는 얘기다. Siri가 연결된 iPhone에 온 메시지를 읽어 주고 Apple TV에 스마트 답장 옵션을 띄울 수도 있다. 지금 Apple TV의 Siri는 메시지를 보내지도 읽지도 못하니 이 프레임워크는 Siri AI와 연관됐을 가능성이 크다."
+        },
+        {
+          "t": "p",
+          "x": "Apple은 8GB 또는 12GB RAM에 A19 또는 A19 Pro 칩을 넣은 Apple TV를 개발 중이다. 이 하드웨어라면 온디바이스 Siri AI 기능을 감당할 수 있다. Apple은 tvOS 27.2로 새 Apple TV의 밑작업을 하는 것으로 보인다. 새 Apple TV는 이르면 10월 13일에 나올 수 있다."
+        }
+      ]
+    },
+    "gadgets/wici-one-wireless-gpu-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "빅테크는 클라우드 AI를 쓰려면 집 PC보다 큰 GPU 성능이 필요하다고 사람들이 믿기를 바란다. WiCi One은 클라우드 구독을 하나 더 늘리는 대신 다른 길을 내놓는다. Wi-Fi 7 연결로 저사양 PC에 그래픽 처리 성능을 보내는 eGPU다. “개인 컴퓨팅”을 “공동 컴퓨팅”으로 바꾸는 셈이다."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
+          "cap": "토스터일까, 스피커일까? 판단은 독자의 몫이다. © Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Wi-Fi 7의 최고 속도는 약 11.5Gbps, Thunderbolt 4는 32Gbps 수준이다. 공동 창업자이자 CEO인 Zill Meng에 따르면 WiCi는 간섭과 데이터 전송을 최소화하려고 자체 프로토콜과 펌웨어를 설계했다."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
+          "cap": "말 그대로 데스크톱 PC 한 대 분량 부품이 이 안에 들었다. © Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "계획된 모델은 두 가지다. RTX 5060 Ti를 넣은 $2,600 모델, RTX 5090을 넣은 $10,000 모델이다. Meng은 RTX 5090 버전으로 DeepSeek-V3 AI 모델을 돌려 보였다. 약 일곱 피트 떨어져서 플레이한 Cyberpunk 2077은 프레임 생성을 켜자 100에서 200 fps 사이를 오갔다. 패스 트레이싱을 켜면 10 fps 가까이로 떨어졌다."
+        },
+        {
+          "t": "p",
+          "x": "Meng도 게임이 최선의 용도는 아닐 수 있다고 말했다. Thunderbolt 4 포트도 달려 있다. WiCi One은 12월 출시 예정인데 그 전에 다듬을 부분이 아직 남았다."
+        }
+      ]
+    },
+    "gadgets/pixel-search-gemini-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
+          "cap": "Pixel 런처 검색창"
+        },
+        {
+          "t": "p",
+          "x": "새 Pixel Search 앱은 Pixel 11 시리즈에 기본으로 들어 있다. 앱 서랍에서 사진, 이메일, 연락처 등을 찾아 준다. Google은 여기에 Gemini-powered 업그레이드를 준비하면서 통화 기록과 메시지 데이터를 사용자가 더 통제하도록 손보는 모양이다."
+        },
+        {
+          "t": "p",
+          "x": "최신 버전(1.0.983036833)은 설정에 “Privacy & Permissions” 섹션을 새로 만들었다. 토글은 “Help improve Pixel Search”, “Call Logs”, “SMS” 세 가지다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
+          "cap": "Pixel Search의 Privacy & Permissions 설정 (AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
+          "cap": "Pixel Search 개인정보 토글 (AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "“Help improve Pixel Search”를 끄면 사용 분석용 데이터 집계가 멈춘다. “Call Logs”와 “SMS” 토글을 끄면 Google이 그 기록을 연락처 추천 개선에 쓰지 않는다. 그래도 검색 결과에서 통화나 메시지가 사라지지는 않는다. 숨기려면 앱의 통화 기록과 SMS 권한을 거둬야 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
+          "cap": "Pixel Search 앱 권한 (AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "Gemini-powered 제안은 아직 켜지지 않았고 이후 업데이트로 나올 수 있다. 개인정보 섹션은 지금 바로 쓸 수 있다. Pixel 11 사용자는 Play Store에서 업데이트하면 되고 이전 Pixel 기기는 Android 17 QPR2 Beta 5 이상에서 앱을 사이드로드할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini-powered 제안은 아직 활성화되지 않았고 향후 업데이트로 나올 수 있지만, 개인정보 섹션은 이미 이용할 수 있다. Pixel 11 사용자는 Play Store에서 업데이트할 수 있고, 이전 Pixel 기기는 Android 17 QPR2 Beta 5 이상에서 앱을 사이드로드할 수 있다."
+        }
+      ]
+    },
+    "gadgets/ray-ban-meta-audio-no-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Ray-Ban-Meta-Audio---Lifestyle3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio는 카메라를 빼고 더 가볍고 날렵한 디자인을 택했다. 사생활 침해 논란이 커지는 만큼 사회적으로도 더 쉽게 받아들여질 듯하다."
+        },
+        {
+          "t": "p",
+          "x": "Meta Connect 2026에서 공개된 Ray-Ban Meta Audio는 Meta가 처음 내놓은 카메라 없는 스마트 글라스다. 나머지 기능은 그대로다. Meta AI에 질문하고 음악과 오디오북, 팟캐스트를 듣고 통화도 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Clubmaster3.png"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Burbank3.png"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio는 Burbank와 Clubmaster 두 가지 스타일로 나온다. Burbank는 카메라와 LED만 빠졌을 뿐 흔한 Wayfarer형 Ray-Ban Meta 글라스와 꽤 닮았다. Clubmaster는 Meta의 다른 스마트 글라스와 전혀 다르게 생겼다."
+        },
+        {
+          "t": "p",
+          "x": "Clubmaster Ray-Ban Meta Audio는 표준 사이즈 기준 43그램으로, 지금까지 나온 Meta 스마트 글라스 가운데 가장 가볍다. Burbank가 47그램으로 뒤를 잇는다."
+        },
+        {
+          "t": "p",
+          "x": "카메라 달린 스마트 글라스를 향한 대중의 반발이 널리 퍼진 뒤에 나온 제품이다. Meta는 녹화 LED를 조작하기 더 어렵게 하는 펌웨어 업데이트를 내놓는 중이다. 그래도 부정행위와 엮인다는 인식이 커지면서 카메라 달린 스마트 글라스를 아예 외면하는 잠재 구매자도 생길 것이다. Ray-Ban Meta Audio가 노릴 만한 시장이 바로 여기다."
+        },
+        {
+          "t": "p",
+          "x": "다만 Meta는 UploadVR에 Ray-Ban Meta Audio가 수년간 개발해 온 제품이고, 대중의 반발 때문에 만든 게 아니라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio는 $349에 사전 주문을 받으며 10월 13일부터 배송된다."
+        }
+      ]
     }
   }
 }

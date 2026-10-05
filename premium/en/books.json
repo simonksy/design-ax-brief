@@ -5510,6 +5510,105 @@
           "x": "Vermont writer Dustin Warburton, who works with illustrator Jared Gagnon, said competing with \"a light switch that turns on and produces a book\" is frustrating, and that the school never called him. Both want AI use disclosed where readers can see it."
         }
       ]
+    },
+    "books/scholarly-kitchen-ai-representation-not-scholarship": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The problem with AI may not be that machines are growing more intelligent, but that we are becoming skilled at amplifying a highly capable, but limited form of cognition. AI can recombine what is already known; recombination is not the same as creativity or insight."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+          "cap": "Figure 1. Thought's capabilities versus the qualities associated with intelligence."
+        },
+        {
+          "t": "p",
+          "x": "Scholarly communication has always run on representations: an article represents an investigation, an abstract the article, a citation a relationship between works. When the representation becomes the object we optimize, AI can widen the distance from the scholarship itself. A model can summarize a paper convincingly without understanding its evidence, or generate plausible but unverifiable citations."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+          "cap": "Figure 2. From tool to agent, governance needs to keep pace with capability."
+        },
+        {
+          "t": "p",
+          "x": "As AI moves from tool to agent, the question shifts from capability to agency. The author urges using AI to reduce some effort, but not all, and keeping humans able to question the representation itself. As machines become better at processing, we need to become better at perceiving."
+        }
+      ]
+    },
+    "books/proyecto451-publisher-ai-policy-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+        },
+        {
+          "t": "p",
+          "x": "An AI crossroads: a Proyecto451 review of the AI policies of more than 40 publishers identified two main strategies — licensing their catalogues to AI companies, or keeping them in-house to build proprietary tools."
+        },
+        {
+          "t": "p",
+          "x": "Elsewhere in Carlo Carrenho's roundup, De Marque partnered with ElevenLabs so publishers on its Cantook Édition platform can make selected books available in audio through ElevenReader. ElevenLabs already works with aggregators such as Bookwire and StreetLib, scaling its AI-narrated catalog through partners rather than title by title."
+        },
+        {
+          "t": "p",
+          "x": "And Norwegian debut author Fabian Heffermehl wrote his entire novel by hand to demonstrate that it came from his own life, words and body — not AI."
+        }
+      ]
+    },
+    "books/lithub-ai-writing-spiritual-practice-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
+        },
+        {
+          "t": "p",
+          "x": "The literary world is finally asking what a human writer can do that artificial intelligence cannot. The answers tend to circle around voice, lived experience and emotional nuance, but underneath sits a word literary culture has avoided: soul."
+        },
+        {
+          "t": "p",
+          "x": "AI can ingest every book in a library and spit our syntax back out, but it cannot long for something it cannot name or grieve a father it has not loved and lost. In the age of AI, Charlotte Donlon argues, the writer's soul is the only thing that cannot be replicated — and we have not built the infrastructure to tend it."
+        },
+        {
+          "t": "p",
+          "x": "She proposes literary conferences add sessions on the inner life and sustainable creative practices, MFA programs offer optional courses on contemplation, and residencies honor time away as soul-tending. “AI will improve, but it will never develop the capacity for genuine longing, grief, or ethical self-interrogation.”"
+        }
+      ]
+    },
+    "books/hongkong-comics-ai-heyday": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Q8VYqGtRM1A"
+        },
+        {
+          "t": "p",
+          "x": "In its heyday, Hong Kong was a comics powerhouse: during the industry's boom years in the 1980s, about 50 million copies were sold annually. Hong Kong comics have been widely regarded as being in decline since the mid-1990s."
+        },
+        {
+          "t": "p",
+          "x": "“Now, if we can sell … a few thousand books, it’s already a very good figure,” said Dicky Lam, owner of the Epic One bookstore in Kowloon. “The Hong Kong comic market has shrunk by 90 per cent.”"
+        },
+        {
+          "t": "p",
+          "x": "Artist Jerry Cho won a bronze award at this year’s Japan International Manga Award for The Life After Life, which has sold just 3,000 copies. It took six months to produce, involving Cho, two full-time staff and five outsourced contributors."
+        },
+        {
+          "t": "img",
+          "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
+          "cap": "Hong Kong comic artist Jerry Cho. (Image: CNA)"
+        },
+        {
+          "t": "p",
+          "x": "Cho uses AI early in production as a research and visualisation tool, for example feeding in a character image to try different clothes before his team illustrates the scene. He estimates AI saves his team about 10 per cent of production time, but he draws a line at AI-generated images in the finished comic: “Yes, because art is unique.”"
+        },
+        {
+          "t": "p",
+          "x": "Alan Wan of the Hong Kong Comics and Animation Federation says artists could turn comics into AI-generated animation: “They won’t just be comic artists, they could become directors.” Questions over copyright and authorship remain open."
+        }
+      ]
     }
   }
 }

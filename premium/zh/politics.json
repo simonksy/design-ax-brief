@@ -1091,6 +1091,154 @@
           "x": "CalMatters指出，解雇相关法律在立法过程中遭到削弱，删去了员工申诉程序、为强制合规提起诉讼的权利以及对承包商的适用。"
         }
       ]
+    },
+    "politics/openai-textgrain-eu-ai-act-watermarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "一种嵌入文本输出、肉眼不可见但机器可读的水印正向ChatGPT和Codex推出，但起初仅面向欧盟用户。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI称，其textGrain水印“持平或超过”Google DeepMind的文本版SynthID等其他方法，SynthID也是Anthropic于8月宣布的水印方案的基础。与OpenAI一样，Anthropic此举也是为了满足EU AI Act的要求。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI还公布了基准测试分数，显示带水印与不带水印文本的表现相近，但指出textGrain“不保证可靠检测”，且水印无法核实准确性、判定归属、衡量人类贡献或证明由人类撰写。"
+        },
+        {
+          "t": "p",
+          "x": "据OpenAI介绍，未来几周内，水印将覆盖EU所有套餐中符合条件的ChatGPT和Codex用户；公司“不会在推出时将文本水印设为全球默认”。全球API客户自今日起可为部分模型选择启用带水印的输出。"
+        },
+        {
+          "t": "p",
+          "x": "经批准的研究人员和专业机构可依据《行为准则》（Code of Practice）逐案申请检测器访问权限。OpenAI以可能漏检水印和误报为由，在推出时不公开提供检测器。"
+        }
+      ]
+    },
+    "politics/european-parliament-deepfake-porn-research": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
+          "cap": "照片插图：2026年1月12日，伦敦，屏幕上显示用AI提示词生成的视频示例。| Leon Neal/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "据周一发布的一项新研究，包括46名女性在内的五十名欧盟议员曾成为深度伪造色情内容的目标。"
+        },
+        {
+          "t": "p",
+          "x": "总部位于德国（Germany-based）的公民社会组织Agora Digitale Transformation在报告中表示，深度伪造色情——即利用生成式AI制作他人露骨的性描绘，且往往未经本人同意——所针对的女性人数意味着，欧洲议会约六分之一的女性议员受到影响。"
+        },
+        {
+          "t": "p",
+          "x": "欧盟将于12月2日禁止AI驱动（AI-powered）的“一键脱衣”应用，并正在调查社交媒体平台X上Grok的类似用途。"
+        },
+        {
+          "t": "p",
+          "x": "包括Renew、社会党团和The Left领导人在内的119名跨党派MEPs，在9月30日致欧盟委员会主席乌尔苏拉·冯德莱恩（Ursula von der Leyen）等EU领导人的信中，呼吁切实执行该禁令，并尽快了结对Grok的调查。"
+        },
+        {
+          "t": "p",
+          "x": "同样在信上签名的奥地利绿党MEP莉娜·席林（Lena Schilling）周一对记者表示，执行禁令“不能有任何漏洞或拖延”。"
+        },
+        {
+          "t": "p",
+          "x": "报告合著者本杰明·舒尔茨（Benjamin Shultz）表示，政治人物无法选择让自己的肖像不出现在网上，因此很难避免成为AI脱衣工具的目标。"
+        },
+        {
+          "t": "p",
+          "x": "舒尔茨表示，要执行禁令，欧盟委员会需要追究所有有时无意中助长脱衣工具产业的实体的责任，其中也包括支付处理商和域名注册商。报告称，欧盟委员会还应研究如何促使搜索引擎将AI脱衣网站从索引中移除，即从其数据库中删除。"
+        }
+      ]
+    },
+    "politics/moreno-letter-anthropic-amodei": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
+          "cap": "9月3日，参议员伯尼·莫雷诺（Sen. Bernie Moreno）在华盛顿的美国和平研究所（U.S. Institute of Peace）。摄影：Andrew Harnik/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "据Axios获得的一封周一发出的信件，参议员伯尼·莫雷诺（Sen. Bernie Moreno，R-Ohio）敦促Anthropic CEO达里奥·阿莫代（Dario Amodei）不要在AI问题上采取“危言耸听的做法”、发表“引发恐慌的言论”。"
+        },
+        {
+          "t": "p",
+          "x": "Axios称，这封信是特朗普总统的盟友针对阿莫代的最新例证。信件发出之际，Anthropic预计将进行IPO，估值预期最高接近2万亿美元。"
+        },
+        {
+          "t": "p",
+          "x": "莫雷诺写道：“你一边警告这些美国人你的产品最终可能导致他们灭绝，一边又要求他们把辛苦积攒的储蓄投入Anthropic的持续发展，我不明白你怎么能这样做。”他还写道：“能力越大，责任越大。在这件事上，我担心你未能不负这一时刻。”"
+        },
+        {
+          "t": "p",
+          "x": "莫雷诺采用特朗普用来取代AI的新术语“超级智能”（SI），称阿莫代认同“末日论者”观点的言论“表明你的本能是扰乱公众关于SI的讨论”。他敦促更多强调AI如何防范所警告的那些威胁、加强国家安全，并让美国（U.S.）保持对中国的领先。"
+        },
+        {
+          "t": "p",
+          "x": "公众对AI和数据中心的担忧已成为中期选举议题；同为俄亥俄州共和党人的参议员乔恩·胡斯特德（Sen. Jon Husted）在寻求连任之际，遭遇指责他支持数据中心的广告。"
+        }
+      ]
+    },
+    "politics/japan-sovereign-ai-strategy-vs-china": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
+          "cap": "图片来源：ID 132487198 © Mykhailo Polenok | Dreamstime.com"
+        },
+        {
+          "t": "p",
+          "x": "特约作者邦妮·吉拉德（Bonnie Girard）在为The Diplomat撰写的分析中指出，日本虽然在核心AI领域落后于美国（U.S.）和中国，但正着手在“物理AI”和主权AI部署方面确立领先地位。京都大学的Dr. Takahiro Tsuchiya表示，中国企业主要凭借成本优势，甚至主导了日本国内AI市场。"
+        },
+        {
+          "t": "p",
+          "x": "作者写道，自2025年以来，东京通过在日本开发服务日本的AI，来抵御外国与AI相关（AI-related）的威胁。Tsuchiya就日本面临的威胁表示：“日本不能照搬美国（U.S.）。日本会作出自己的评估。”"
+        },
+        {
+          "t": "p",
+          "x": "日本政府从2026财年起启动了一项$6.34 billion 的计划，将日本工业机器人与下一代AI相结合。Nikkei报道称，Sumitomo Corp.已与Sakana AI合作，将其模型提供给约100,000家客户企业。"
+        },
+        {
+          "t": "p",
+          "x": "日本于2025年6月实施AI Act，同年12月通过AI基本计划；据Hello World Japan报道，日本已承诺向AI和半导体基础设施投入超过10万亿日元。内阁于7月14日通过第二份AI基本计划，聚焦智能体AI和技术主权，并制定路线图，计划到2040年动员370万亿日元（2.3万亿美元）。"
+        }
+      ]
+    },
+    "politics/xai-minnesota-nudify-ban-8th-circuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+          "cap": "显示Grok应用及标志的iPhone屏幕。Anna Barclay | Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "埃隆·马斯克旗下的xAI周五成功说服一家美国(US)联邦上诉法院，暂停明尼苏达州在全美首创的AI生成(AI-generated)虚假裸体图像禁令。这家科技与社交媒体公司正在提起诉讼，主张该法违宪。"
+        },
+        {
+          "t": "p",
+          "x": "位于圣路易斯的第八巡回上诉法院(St. Louis-based 8th US Circuit Court of Appeals)在命令中批准了xAI的禁令请求，暂时搁置该法。下级法院法官上月曾驳回马斯克方面要求阻止该法的申请。"
+        },
+        {
+          "t": "p",
+          "x": "该州的反“裸体化”法于8月1日生效，禁止网站运营者、软件开发者等允许用户生成逼真图像，描绘可识别个人原始照片中并未显示的私密身体部位。xAI称，该措施限制了美国宪法(US Constitution)保护的言论自由。"
+        },
+        {
+          "t": "p",
+          "x": "美国联邦地区法院(US District)法官唐纳文·弗兰克上月裁定，xAI未能证明在诉讼期间会遭受不可弥补的损害，并称该公司寻求紧急救济为时过晚。xAI在上诉中对这一认定提出异议，并表示其Grok Imagine工具设有“严格的保护措施”，防止生成真实人物的裸体化或性化图像。"
+        },
+        {
+          "t": "p",
+          "x": "明尼苏达州曾敦促上诉法院不要阻止该法。州方称，制定该法是为了应对“Grok Imagine等AI产品生成的数量惊人的儿童性虐待材料”。"
+        }
+      ]
     }
   }
 }

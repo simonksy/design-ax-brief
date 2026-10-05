@@ -6510,6 +6510,185 @@
           "x": "El clip de prueba que el autor de la reseña grabó con su X6 no se pudo subir en dos ocasiones —el tipo de problema inicial esperable en una beta—, pero es un añadido gratuito bienvenido que suma valor a una cámara costosa."
         }
       ]
+    },
+    "gadgets/windows-11-26h2-file-explorer-ai-actions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
+          "cap": "El logotipo oficial de Windows 11."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft ha comenzado a distribuir Windows 11 versión 26H2, también llamada Windows 11 2026 Update. El lanzamiento comenzó el 29 de septiembre de 2026 y llega como un pequeño paquete de habilitación para los dispositivos que ya ejecutan la versión 24H2 o 25H2."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de las funciones ya llegaron a los PCs mediante actualizaciones mensuales; en la mayoría de los casos, el paquete las activa con un solo reinicio. También reinicia el plazo de soporte: 24 meses para Home y Pro, y 36 meses para Enterprise y Education."
+        },
+        {
+          "t": "p",
+          "x": "File Explorer incorpora acciones de AI que permiten editar imágenes compatibles o resumir documentos. Summarize funciona con archivos de OneDrive y SharePoint y requiere una suscripción a Microsoft 365 y una licencia de Copilot. Las cuentas de trabajo o educativas también ven Open File Location y Ask Copilot al pasar el cursor sobre los archivos en File Explorer Home."
+        },
+        {
+          "t": "p",
+          "x": "Explorer añade compatibilidad con archivos uu, cpio, xar y nupkg y con el cambio de nombre por dictado de voz, y la barra de tareas ya puede colocarse en cualquier borde de la pantalla."
+        },
+        {
+          "t": "p",
+          "x": "En seguridad, Sysmon viene integrado, llega Administrator protection (ambos desactivados por defecto) y Windows añade compatibilidad de API con los algoritmos poscuánticos ML-KEM y ML-DSA."
+        }
+      ]
+    },
+    "gadgets/tvos-27-2-apple-intelligence-apple-tv-code": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La última beta de tvOS 27.2 de Apple refuerza los rumores de que el próximo Apple TV será compatible con Siri AI y Apple Intelligence. El código sugiere que Apple está añadiendo un interruptor Improve Siri & Apple Intelligence a la app Ajustes de tvOS."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“Ayuda a mejorar los modelos fundacionales y Siri permitiendo que Apple recopile y use tus interacciones de texto y audio con Siri, Dictado y Traducir”, dice el texto."
+        },
+        {
+          "t": "p",
+          "x": "Otros dispositivos de Apple con Apple Intelligence tienen avisos de privacidad y opciones para compartir datos con nombres similares. En los dispositivos que no son compatibles con Apple Intelligence, el ajuste se llama “Improve Siri & Dictation”. El nuevo código aparece junto al código existente para compartir datos de Siri, por lo que probablemente solo lo verá el hardware Apple Intelligence-capable."
+        },
+        {
+          "t": "p",
+          "x": "tvOS 27.2 también incluye un nuevo framework Siri Messages UI, lo que indica que en el futuro el contenido de los mensajes podría mostrarse en el Apple TV. Siri podría leer los mensajes enviados a un iPhone vinculado y mostrar opciones de respuesta inteligente en el Apple TV. La versión actual de Siri en Apple TV no permite enviar ni leer mensajes, así que el framework probablemente esté vinculado a Siri AI."
+        },
+        {
+          "t": "p",
+          "x": "Apple trabaja en una versión del Apple TV con 8GB o 12GB de RAM y un chip A19 o A19 Pro, un hardware que podría ejecutar funciones de Siri AI en el propio dispositivo. Apple parece estar preparando el terreno para el nuevo Apple TV con tvOS 27.2. Un nuevo Apple TV podría llegar ya el 13 de octubre."
+        }
+      ]
+    },
+    "gadgets/wici-one-wireless-gpu-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las grandes tecnológicas quieren hacer creer que la AI en la nube necesita más potencia de GPU que un PC doméstico. WiCi One propone una alternativa a otra suscripción más en la nube: en esencia, una eGPU que envía potencia de procesamiento gráfico a un PC de gama baja mediante una conexión Wi-Fi 7, convirtiendo la “computación personal” en “computación comunitaria”."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
+          "cap": "¿Es una tostadora o un altavoz? Usted decide. © Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Wi-Fi 7 alcanza un máximo de unos 11.5Gbps, frente a los 32Gbps de Thunderbolt 4. El cofundador y CEO Zill Meng afirma que WiCi diseñó sus propios protocolos y firmware para minimizar las interferencias y la transmisión de datos."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
+          "cap": "Literalmente, dentro hay piezas para todo un PC de sobremesa. © Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Hay dos modelos previstos: uno de $2,600 con una RTX 5060 Ti y otro de $10,000 con una RTX 5090. Meng mostró la versión con RTX 5090 ejecutando el modelo de AI DeepSeek-V3. Cyberpunk 2077, jugado a unos siete pies de distancia, osciló entre 100 y 200 fps con generación de fotogramas y bajó a cerca de 10 fps con trazado de rutas."
+        },
+        {
+          "t": "p",
+          "x": "El propio Meng dijo que los juegos quizá no sean el mejor uso; incluye un puerto Thunderbolt 4. WiCi One aún necesita ajustes antes de su lanzamiento previsto para diciembre."
+        }
+      ]
+    },
+    "gadgets/pixel-search-gemini-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
+          "cap": "Barra de búsqueda del launcher de Pixel"
+        },
+        {
+          "t": "p",
+          "x": "La nueva app Pixel Search, preinstalada en la serie Pixel 11, permite buscar fotos, correos, contactos y más desde el cajón de aplicaciones. Ahora Google parece estar preparando una mejora Gemini-powered, al tiempo que da a los usuarios más control sobre los datos del registro de llamadas y los mensajes."
+        },
+        {
+          "t": "p",
+          "x": "La última versión (1.0.983036833) añade en los ajustes una sección “Privacy & Permissions” con tres interruptores: “Help improve Pixel Search”, “Call Logs” y “SMS”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
+          "cap": "Ajustes de Privacy & Permissions de Pixel Search (AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
+          "cap": "Interruptores de privacidad de Pixel Search (AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "Desactivar “Help improve Pixel Search” impide que los datos se agreguen para obtener información de uso; los interruptores “Call Logs” y “SMS” impiden que Google use ese historial para mejorar las sugerencias de contactos. Sin embargo, desactivarlos no oculta las llamadas ni los mensajes en los resultados: para ello, hay que revocar los permisos de registro de llamadas y SMS de la app."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
+          "cap": "Permisos de la app Pixel Search (AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "Android Authority también encontró código de una futura función “Gemini-powered suggestions”. Las cadenas dicen “Show Gemini-powered suggestions” y “See relevant info and Gemini-suggested actions to help you finish a task faster.”"
+        },
+        {
+          "t": "p",
+          "x": "Las sugerencias Gemini-powered aún no están activas y podrían llegar en una futura actualización, pero la sección de privacidad ya está disponible. Los usuarios de Pixel 11 pueden actualizar desde Play Store; los Pixel más antiguos pueden instalar la app manualmente con Android 17 QPR2 Beta 5 o posterior."
+        }
+      ]
+    },
+    "gadgets/ray-ban-meta-audio-no-camera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Ray-Ban-Meta-Audio---Lifestyle3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio prescinde de la cámara para lograr un diseño más ligero y estilizado que probablemente resulte más aceptable socialmente en plena reacción pública por la privacidad."
+        },
+        {
+          "t": "p",
+          "x": "Presentadas en Meta Connect 2026, las Ray-Ban Meta Audio son las primeras gafas inteligentes de Meta sin cámara. Por lo demás, ofrecen las mismas funciones: consultas a Meta AI, escuchar música, audiolibros y pódcasts, y atender llamadas."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Clubmaster3.png"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/09/Ray-Ban-Meta-Audio---Burbank3.png"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio está disponible en dos estilos, Burbank y Clubmaster. Burbank se parece mucho a las habituales Ray-Ban Meta de estilo Wayfarer, pero sin la cámara ni el LED, mientras que Clubmaster no se parece a ninguna otra de las gafas inteligentes de Meta."
+        },
+        {
+          "t": "p",
+          "x": "Las Clubmaster Ray-Ban Meta Audio son las gafas inteligentes más ligeras de Meta hasta la fecha, con 43 gramos en la talla estándar, mientras que las Burbank ocupan el segundo lugar con 47 gramos."
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo llega tras un amplio rechazo público a la idea de unas gafas inteligentes con cámara. Meta ha ido publicando actualizaciones de firmware para dificultar la manipulación del LED de grabación. Aun así, la creciente asociación con conductas indebidas alejará por completo a algunos posibles compradores de las gafas inteligentes con cámara, y Ray-Ban Meta Audio puede dirigirse a ese mercado."
+        },
+        {
+          "t": "p",
+          "x": "Pese a ello, Meta dijo a UploadVR que Ray-Ban Meta Audio lleva años en desarrollo y que su desarrollo no responde a la reacción pública."
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta Audio puede reservarse por $349 y se envía a partir del 13 de octubre."
+        }
+      ]
     }
   }
 }

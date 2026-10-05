@@ -1,245 +1,197 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "books",
   "cards": [
     {
-      "id": "hongkong-comics-ai-heyday",
+      "id": "ross-appeal-ai-fair-use-ruling",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "홍콩 만화가들\nAI로 제작 시간 단축",
-      "body": "Jerry Cho는 AI로 의상을 시험해 시간을 약 10 per cent 줄인다.",
-      "mini_headline": "AI로 향하는 홍콩 만화",
+      "headline": "Ross AI 복제,\n항소심도 공정이용 아니다",
+      "body": "U.S. 항소심도 ROSS의 AI용 Westlaw 복제를 공정이용으로 보지 않았다.",
+      "mini_headline": "Ross 항소심: 공정이용 아니다",
       "tool": "Books",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/watch/hong-kong-comics-scene-creators-turning-ai-in-bid-recapture-industrys-heyday-6427021",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "Q8VYqGtRM1A"
+            "t": "p",
+            "x": "미국출판협회(Association of American Publishers)와 Authors Guild가 Thomson Reuters v. ROSS 사건 항소심 판결을 반겼다. 항소법원은 ROSS가 Thomson Reuters의 Westlaw 헤드노트를 복제한 행위를 공정이용으로 인정하지 않았다. AI 기업의 이런 무단 복제에 항소법원이 공정이용 보호를 거부한 첫 사례다."
           },
           {
             "t": "p",
-            "x": "한창때 홍콩(Hong Kong)은 만화 강국이었다. 업계가 호황이던 1980년대에는 해마다 약 50 million 부가 팔렸다. 홍콩 만화가 mid-1990s부터 내리막을 걸었다는 데에는 이견이 별로 없다."
-          },
-          {
-            "t": "p",
-            "x": "“이제는 … 몇천 권만 팔아도 이미 아주 좋은 수치다.” 구룡(Kowloon)에서 서점 Epic One을 운영하는 Dicky Lam의 말이다. “홍콩 만화 시장은 90% 줄었다.”"
-          },
-          {
-            "t": "p",
-            "x": "작가 Jerry Cho는 『The Life After Life』로 올해 Japan International Manga Award 동상을 받았다. 그런데 이 작품은 3,000부밖에 안 팔렸다. Cho와 정규직 직원 두 명, 외주 작업자 다섯 명이 여섯 달 걸려 만든 작품이다."
+            "x": "Thomson Reuters는 ROSS가 Westlaw 헤드노트로 자사 AI 플랫폼을 학습시키자 2020년 5월 U.S. 델라웨어 연방지방법원에 소송을 냈다. 델라웨어 법원이 Thomson Reuters의 손을 들어주자 AAP는 2025년 11월 제3순회항소법원(Third Circuit)에 법정조언자 의견서를 냈다. ROSS의 공정이용 주장을 물리치고 원심을 확정해 달라는 내용이었다."
           },
           {
             "t": "img",
-            "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-            "cap": "홍콩 만화가 Jerry Cho. (Image: CNA)"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+            "cap": "필라델피아의 James A. Byrne United States Courthouse. 사진: ajay_suresh, CC BY 2.0"
           },
           {
             "t": "p",
-            "x": "Cho는 제작 초반에 AI를 자료 조사와 시각화 도구로 쓴다. 캐릭터 이미지를 넣어 여러 옷을 입혀 보고 나서 팀이 장면을 그리는 식이다. AI 덕분에 팀 제작 시간이 약 10 per cent 줄었다고 그는 추산한다. 다만 완성된 만화에 AI 생성(AI-generated) 이미지를 쓰는 데는 선을 긋는다. “그렇다. 예술은 고유하기 때문이다.”"
+            "x": "AAP CEO Maria Pallante는 “제3순회항소법원은 AI 학습용 라이선스 시장이 존재할 뿐 아니라 ‘빠르게 성장하고 있다’는 점을 정확히 짚었다”며 이번 판결을 “이 강력한 선례”라 불렀다."
           },
           {
             "t": "p",
-            "x": "Hong Kong Comics and Animation Federation의 Alan Wan은 작가들이 자기 만화를 AI-generated 애니메이션으로 바꿀 수 있다고 말한다. “그들은 만화가에 그치지 않고 감독이 될 수도 있다.” 저작권과 저작자 문제는 아직 풀리지 않았다."
+            "x": "Authors Guild CEO Mary Rasenberger는 이번 판결이 “저작권법의 정당성을 입증한다. AI가 학습한 바로 그 작품을 대체하는 AI 시스템을 학습시키려고 남의 작품을 훔쳐서는 안 된다는 점을 분명히 한다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Hong Kong comic artists use\nAI to cut production time",
-          "body": "Artist Jerry Cho uses AI to test character outfits before drawing, saving his team about 10 per cent of production time.",
-          "mini_headline": "Hong Kong comics\nturn to AI",
+          "headline": "Appeals ruling: Ross AI copying\nwas not fair use",
+          "body": "A U.S. appeals court affirmed that ROSS Intelligence's copying of Westlaw headnotes to train its AI was not fair use.",
+          "mini_headline": "Ross ruling: not fair use",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Q8VYqGtRM1A"
+                "t": "p",
+                "x": "The Association of American Publishers and the Authors Guild praised an appeals court decision in Thomson Reuters v. ROSS that found ROSS's copying of Thomson Reuters Westlaw headnotes was not fair use. It was the first time an appeals court ruled that such unauthorized copying by an AI company was not protected by fair use."
               },
               {
                 "t": "p",
-                "x": "In its heyday, Hong Kong was a comics powerhouse: during the industry's boom years in the 1980s, about 50 million copies were sold annually. Hong Kong comics have been widely regarded as being in decline since the mid-1990s."
-              },
-              {
-                "t": "p",
-                "x": "“Now, if we can sell … a few thousand books, it’s already a very good figure,” said Dicky Lam, owner of the Epic One bookstore in Kowloon. “The Hong Kong comic market has shrunk by 90 per cent.”"
-              },
-              {
-                "t": "p",
-                "x": "Artist Jerry Cho won a bronze award at this year’s Japan International Manga Award for The Life After Life, which has sold just 3,000 copies. It took six months to produce, involving Cho, two full-time staff and five outsourced contributors."
+                "x": "Thomson Reuters sued in the U.S. District Court for Delaware in May 2020 after ROSS used Westlaw headnotes to train its AI platform. After the Delaware court ruled for Thomson Reuters, the AAP filed an amicus brief in November 2025 asking the Third Circuit to affirm by rejecting ROSS's fair use arguments."
               },
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-                "cap": "Hong Kong comic artist Jerry Cho. (Image: CNA)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+                "cap": "The James A. Byrne United States Courthouse in Philadelphia. Photo: ajay_suresh, CC BY 2.0"
               },
               {
                 "t": "p",
-                "x": "Cho uses AI early in production as a research and visualisation tool, for example feeding in a character image to try different clothes before his team illustrates the scene. He estimates AI saves his team about 10 per cent of production time, but he draws a line at AI-generated images in the finished comic: “Yes, because art is unique.”"
+                "x": "AAP CEO Maria Pallante said “the Third Circuit correctly noted that the licensing market for AI training not only exists but is ‘rapidly developing,’” calling the ruling “this powerful precedent.”"
               },
               {
                 "t": "p",
-                "x": "Alan Wan of the Hong Kong Comics and Animation Federation says artists could turn comics into AI-generated animation: “They won’t just be comic artists, they could become directors.” Questions over copyright and authorship remain open."
+                "x": "Authors Guild CEO Mary Rasenberger said the ruling “vindicates copyright law. It clarifies that one cannot steal someone else's works to train an AI system that displaces the very works the AI was trained on.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "홍콩 만화가들\nAI로 제작 시간 단축",
-          "body": "Jerry Cho는 AI로 의상을 시험해 시간을 약 10 per cent 줄인다.",
-          "mini_headline": "AI로 향하는 홍콩 만화",
+          "headline": "Ross AI 복제,\n항소심도 공정이용 아니다",
+          "body": "U.S. 항소심도 ROSS의 AI용 Westlaw 복제를 공정이용으로 보지 않았다.",
+          "mini_headline": "Ross 항소심: 공정이용 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Q8VYqGtRM1A"
+                "t": "p",
+                "x": "미국출판협회(Association of American Publishers)와 Authors Guild가 Thomson Reuters v. ROSS 사건 항소심 판결을 반겼다. 항소법원은 ROSS가 Thomson Reuters의 Westlaw 헤드노트를 복제한 행위를 공정이용으로 인정하지 않았다. AI 기업의 이런 무단 복제에 항소법원이 공정이용 보호를 거부한 첫 사례다."
               },
               {
                 "t": "p",
-                "x": "한창때 홍콩(Hong Kong)은 만화 강국이었다. 업계가 호황이던 1980년대에는 해마다 약 50 million 부가 팔렸다. 홍콩 만화가 mid-1990s부터 내리막을 걸었다는 데에는 이견이 별로 없다."
-              },
-              {
-                "t": "p",
-                "x": "“이제는 … 몇천 권만 팔아도 이미 아주 좋은 수치다.” 구룡(Kowloon)에서 서점 Epic One을 운영하는 Dicky Lam의 말이다. “홍콩 만화 시장은 90% 줄었다.”"
-              },
-              {
-                "t": "p",
-                "x": "작가 Jerry Cho는 『The Life After Life』로 올해 Japan International Manga Award 동상을 받았다. 그런데 이 작품은 3,000부밖에 안 팔렸다. Cho와 정규직 직원 두 명, 외주 작업자 다섯 명이 여섯 달 걸려 만든 작품이다."
+                "x": "Thomson Reuters는 ROSS가 Westlaw 헤드노트로 자사 AI 플랫폼을 학습시키자 2020년 5월 U.S. 델라웨어 연방지방법원에 소송을 냈다. 델라웨어 법원이 Thomson Reuters의 손을 들어주자 AAP는 2025년 11월 제3순회항소법원(Third Circuit)에 법정조언자 의견서를 냈다. ROSS의 공정이용 주장을 물리치고 원심을 확정해 달라는 내용이었다."
               },
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-                "cap": "홍콩 만화가 Jerry Cho. (Image: CNA)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+                "cap": "필라델피아의 James A. Byrne United States Courthouse. 사진: ajay_suresh, CC BY 2.0"
               },
               {
                 "t": "p",
-                "x": "Cho는 제작 초반에 AI를 자료 조사와 시각화 도구로 쓴다. 캐릭터 이미지를 넣어 여러 옷을 입혀 보고 나서 팀이 장면을 그리는 식이다. AI 덕분에 팀 제작 시간이 약 10 per cent 줄었다고 그는 추산한다. 다만 완성된 만화에 AI 생성(AI-generated) 이미지를 쓰는 데는 선을 긋는다. “그렇다. 예술은 고유하기 때문이다.”"
+                "x": "AAP CEO Maria Pallante는 “제3순회항소법원은 AI 학습용 라이선스 시장이 존재할 뿐 아니라 ‘빠르게 성장하고 있다’는 점을 정확히 짚었다”며 이번 판결을 “이 강력한 선례”라 불렀다."
               },
               {
                 "t": "p",
-                "x": "Hong Kong Comics and Animation Federation의 Alan Wan은 작가들이 자기 만화를 AI-generated 애니메이션으로 바꿀 수 있다고 말한다. “그들은 만화가에 그치지 않고 감독이 될 수도 있다.” 저작권과 저작자 문제는 아직 풀리지 않았다."
+                "x": "Authors Guild CEO Mary Rasenberger는 이번 판결이 “저작권법의 정당성을 입증한다. AI가 학습한 바로 그 작품을 대체하는 AI 시스템을 학습시키려고 남의 작품을 훔쳐서는 안 된다는 점을 분명히 한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "香港の漫画家たち\nAIで制作時間を短縮",
-          "body": "Jerry ChoはAIで衣装を試し、制作時間を約10 per cent削減している。",
-          "mini_headline": "香港漫画、AIに活路",
+          "headline": "RossのAI複製\n控訴審もフェアユース否定",
+          "body": "U.S.控訴審もROSSのAI学習用Westlaw複製はフェアユースでないとした。",
+          "mini_headline": "Ross判決：フェアユースに当たらず",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Q8VYqGtRM1A"
+                "t": "p",
+                "x": "米国出版社協会(Association of American Publishers)とAuthors Guildは、Thomson Reuters v. ROSS訴訟の控訴審判決を歓迎した。判決は、ROSSがThomson ReutersのWestlawのヘッドノートを複製した行為はフェアユースに当たらないと判断した。AI企業によるこうした無断複製がフェアユースで保護されないと控訴裁判所が判断したのは、これが初めてである。"
               },
               {
                 "t": "p",
-                "x": "全盛期の香港(Hong Kong)は漫画大国だった。業界が活況に沸いた1980年代には、年間約50 million 部が売れた。香港漫画はmid-1990s以降、衰退していると広く見なされている。"
-              },
-              {
-                "t": "p",
-                "x": "「今では…数千冊売れれば、それだけでとても良い数字だ」と、九龍(Kowloon)の書店Epic Oneの店主Dicky Lamは語る。「香港の漫画市場は90%縮小した」"
-              },
-              {
-                "t": "p",
-                "x": "作家Jerry Choは『The Life After Life』で今年のJapan International Manga Award銅賞を受賞したが、同作の販売部数はわずか3,000部にとどまる。制作には六か月を要し、Choと常勤スタッフ二人、外部協力者五人が関わった。"
+                "x": "Thomson Reutersは、ROSSがWestlawのヘッドノートを使って自社のAIプラットフォームを学習させたとして、2020年5月にU.S.デラウェア連邦地方裁判所に提訴した。デラウェアの裁判所がThomson Reutersの主張を認めた後、AAPは2025年11月、ROSSのフェアユースの主張を退けて判決を維持するよう第3巡回区控訴裁判所(Third Circuit)に求めるアミカスブリーフを提出した。"
               },
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-                "cap": "香港の漫画家Jerry Cho。(Image: CNA)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+                "cap": "フィラデルフィアのJames A. Byrne United States Courthouse。写真：ajay_suresh, CC BY 2.0"
               },
               {
                 "t": "p",
-                "x": "Choは制作の初期段階でAIを調査と視覚化のツールとして使う。たとえばキャラクターの画像を入力してさまざまな服を試し、その後チームが場面を描く。AIでチームの制作時間を約10 per cent節約できると見積もるが、完成した漫画にAI生成(AI-generated)画像を使うことには一線を引く。「そうだ、芸術は唯一無二だからだ」"
+                "x": "AAPのCEO、Maria Pallanteは「第3巡回区控訴裁判所は、AI学習向けのライセンス市場が存在するだけでなく『急速に発展している』ことを正しく指摘した」と述べ、今回の判決を「この強力な先例」と呼んだ。"
               },
               {
                 "t": "p",
-                "x": "Hong Kong Comics and Animation FederationのAlan Wanは、作家が漫画をAI-generatedアニメーションに変えられると話す。「彼らは単なる漫画家ではなく、監督にもなり得る」。著作権と作者性をめぐる問題は未解決のままだ。"
+                "x": "Authors GuildのCEO、Mary Rasenbergerは、判決は「著作権法の正しさを立証するものだ。AIが学習したまさにその作品に取って代わるAIシステムを訓練するために、他人の作品を盗んではならないことを明確にした」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "香港漫画家\n借AI缩短制作时间",
-          "body": "画家Jerry Cho用AI试穿角色服装，为团队节省约10 per cent的制作时间。",
-          "mini_headline": "香港漫画转向AI",
+          "headline": "Ross AI复制\n上诉法院：不属合理使用",
+          "body": "U.S.上诉法院维持原判，认定ROSS复制Westlaw判例摘要训练AI不属合理使用。",
+          "mini_headline": "Ross案：不属合理使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Q8VYqGtRM1A"
+                "t": "p",
+                "x": "美国出版商协会(Association of American Publishers)与Authors Guild对Thomson Reuters v. ROSS案的上诉判决表示赞赏。该判决认定，ROSS复制Thomson Reuters旗下Westlaw判例摘要的行为不构成合理使用。这是上诉法院首次裁定AI公司的此类未经授权复制不受合理使用保护。"
               },
               {
                 "t": "p",
-                "x": "鼎盛时期的香港(Hong Kong)是漫画重镇：在1980年代的行业繁荣期，年销量约50 million 册。人们普遍认为，香港漫画自mid-1990s起便走向衰落。"
-              },
-              {
-                "t": "p",
-                "x": "“现在要是能卖出……几千本，就已经是很好的数字了。”九龙(Kowloon)书店Epic One的老板Dicky Lam说，“香港漫画市场萎缩了90%。”"
-              },
-              {
-                "t": "p",
-                "x": "画家Jerry Cho凭《The Life After Life》获得今年Japan International Manga Award铜奖，但该作仅售出3,000册。作品耗时六个月完成，参与者包括Cho、两名全职员工和五名外包人员。"
+                "x": "ROSS使用Westlaw判例摘要训练其AI平台后，Thomson Reuters于2020年5月在U.S.特拉华州联邦地区法院提起诉讼。特拉华法院作出有利于Thomson Reuters的裁决后，AAP于2025年11月提交法庭之友意见书，请求第三巡回上诉法院(Third Circuit)驳回ROSS的合理使用主张、维持原判。"
               },
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-                "cap": "香港漫画家Jerry Cho。(Image: CNA)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+                "cap": "费城的James A. Byrne United States Courthouse。图片：ajay_suresh, CC BY 2.0"
               },
               {
                 "t": "p",
-                "x": "Cho在制作初期把AI当作资料调研和可视化工具，例如输入角色图像试穿不同服装，再由团队绘制场景。他估计AI为团队节省约10 per cent的制作时间，但在成品漫画中使用AI生成(AI-generated)图像这件事上，他划清了界线：“是的，因为艺术是独一无二的。”"
+                "x": "AAP CEO Maria Pallante表示，“第三巡回上诉法院正确指出，AI训练的授权许可市场不仅存在，而且‘正在迅速发展’”，并称该判决是“这一有力的先例”。"
               },
               {
                 "t": "p",
-                "x": "Hong Kong Comics and Animation Federation的Alan Wan表示，画家可以把漫画转成AI-generated动画：“他们将不只是漫画家，还可能成为导演。”版权与作者归属问题仍悬而未决。"
+                "x": "Authors Guild CEO Mary Rasenberger表示，该判决“为版权法正名。它明确了，任何人都不能窃取他人作品，去训练一个会取代其训练所用作品的AI系统。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dibujantes de Hong Kong usan\nAI para acortar la producción",
-          "body": "El dibujante Jerry Cho usa AI para probar vestuarios antes de dibujar y ahorra cerca del 10 per cent del tiempo.",
-          "mini_headline": "El cómic de Hong Kong recurre a la AI",
+          "headline": "Apelación: la copia de Ross AI\nno fue uso legítimo",
+          "body": "La corte de apelación de U.S. ratificó que copiar Westlaw para entrenar la AI de ROSS Intelligence no fue uso legítimo.",
+          "mini_headline": "Fallo sobre Ross: no es uso legítimo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Q8VYqGtRM1A"
+                "t": "p",
+                "x": "La Association of American Publishers y el Authors Guild celebraron el fallo de apelación en Thomson Reuters v. ROSS, que determinó que la copia por parte de ROSS de los sumarios de Westlaw de Thomson Reuters no fue uso legítimo. Es la primera vez que un tribunal de apelación dictamina que este tipo de copia no autorizada por parte de una empresa de AI no está protegida por el uso legítimo."
               },
               {
                 "t": "p",
-                "x": "En su época dorada, Hong Kong fue una potencia del cómic: durante los años de auge de la industria, en la década de 1980, se vendían unos 50 millones de ejemplares al año. Se considera ampliamente que el cómic de Hong Kong está en declive desde mediados de los noventa (mid-1990s)."
-              },
-              {
-                "t": "p",
-                "x": "“Ahora, si conseguimos vender … unos pocos miles de libros, ya es una cifra muy buena”, dijo Dicky Lam, propietario de la librería Epic One en Kowloon. “El mercado del cómic de Hong Kong se ha reducido un 90 por ciento”."
-              },
-              {
-                "t": "p",
-                "x": "El dibujante Jerry Cho ganó este año un premio de bronce en el Japan International Manga Award por The Life After Life, que solo ha vendido 3,000 ejemplares. La obra tardó seis meses en producirse y en ella participaron Cho, dos empleados a tiempo completo y cinco colaboradores externos."
+                "x": "Thomson Reuters presentó la demanda ante el U.S. District Court for Delaware en mayo de 2020, después de que ROSS usara sumarios de Westlaw para entrenar su plataforma de AI. Tras el fallo del tribunal de Delaware a favor de Thomson Reuters, la AAP presentó en noviembre de 2025 un escrito amicus en el que pidió al Third Circuit confirmar la sentencia rechazando los argumentos de uso legítimo de ROSS."
               },
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-                "cap": "El dibujante de cómics de Hong Kong Jerry Cho. (Image: CNA)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+                "cap": "El James A. Byrne United States Courthouse en Filadelfia. Foto: ajay_suresh, CC BY 2.0"
               },
               {
                 "t": "p",
-                "x": "Cho usa la AI en las primeras fases de producción como herramienta de investigación y visualización: por ejemplo, introduce la imagen de un personaje para probar distintas prendas antes de que su equipo ilustre la escena. Calcula que la AI ahorra a su equipo cerca del 10 per cent del tiempo de producción, pero pone un límite a las imágenes AI-generated en el cómic terminado: “Sí, porque el arte es único”."
+                "x": "La CEO de la AAP, Maria Pallante, dijo que “el Third Circuit señaló correctamente que el mercado de licencias para el entrenamiento de AI no solo existe, sino que se está ‘desarrollando rápidamente’”, y calificó el fallo como “este poderoso precedente”."
               },
               {
                 "t": "p",
-                "x": "Alan Wan, de la Hong Kong Comics and Animation Federation, afirma que los artistas podrían convertir los cómics en animación AI-generated: “No serán solo dibujantes de cómics, podrían convertirse en directores”. Las cuestiones sobre derechos de autor y autoría siguen abiertas."
+                "x": "La CEO del Authors Guild, Mary Rasenberger, afirmó que el fallo “reivindica la ley de derechos de autor. Aclara que no se pueden robar las obras de otra persona para entrenar un sistema de AI que desplaza precisamente las obras con las que se entrenó la AI”."
               }
             ]
           }
@@ -247,157 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "홍콩 만화가들\nAI로 제작 시간 단축",
-          "body": "Jerry Cho는 AI로 의상을 시험해 시간을 약 10 per cent 줄인다.",
-          "mini_headline": "AI로 향하는 홍콩 만화",
+          "headline": "Ross AI 복제,\n항소심도 공정이용 아니다",
+          "body": "U.S. 항소심도 ROSS의 AI용 Westlaw 복제는 공정이용 아니라고 봤다.",
+          "mini_headline": "Ross 항소심: 공정이용 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Q8VYqGtRM1A"
+                "t": "p",
+                "x": "미국출판협회(Association of American Publishers)와 Authors Guild는 Thomson Reuters v. ROSS 사건의 항소심 판결을 환영했다. 판결은 ROSS가 Thomson Reuters의 Westlaw 헤드노트를 복제한 행위가 공정이용이 아니라고 봤다. AI 기업의 이런 무단 복제가 공정이용으로 보호받지 못한다고 항소법원이 판단한 것은 이번이 처음이다."
               },
               {
                 "t": "p",
-                "x": "전성기의 홍콩(Hong Kong)은 만화 강국이었다. 산업이 호황을 누리던 1980년대에는 해마다 약 50 million 부가 팔렸다. 홍콩 만화는 mid-1990s부터 내리막길을 걸었다는 평가가 널리 퍼져 있다."
-              },
-              {
-                "t": "p",
-                "x": "“이제는 … 몇천 권만 팔아도 이미 아주 좋은 수치다.” 구룡(Kowloon)에서 서점 Epic One을 운영하는 Dicky Lam의 말이다. “홍콩 만화 시장은 90% 줄었다.”"
-              },
-              {
-                "t": "p",
-                "x": "작가 Jerry Cho는 『The Life After Life』로 올해 Japan International Manga Award 동상을 받았지만, 이 작품은 3,000부밖에 팔리지 않았다. 제작에는 여섯 달이 걸렸고, Cho와 정규직 직원 두 명, 외주 작업자 다섯 명이 참여했다."
+                "x": "Thomson Reuters는 ROSS가 Westlaw 헤드노트로 자사 AI 플랫폼을 학습시키자 2020년 5월 U.S. 델라웨어 연방지방법원에 소송을 냈다. 델라웨어 법원이 Thomson Reuters의 손을 들어준 뒤, AAP는 2025년 11월 제3순회항소법원(Third Circuit)에 ROSS의 공정이용 주장을 물리치고 원심을 확정해 달라는 법정조언자 의견서를 냈다."
               },
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-                "cap": "홍콩 만화가 Jerry Cho. (Image: CNA)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+                "cap": "필라델피아의 James A. Byrne United States Courthouse. 사진: ajay_suresh, CC BY 2.0"
               },
               {
                 "t": "p",
-                "x": "Cho는 제작 초기에 AI를 자료 조사와 시각화 도구로 쓴다. 예를 들어 캐릭터 이미지를 넣어 여러 옷을 입혀 본 뒤 팀이 장면을 그린다. 그는 AI 덕분에 팀의 제작 시간이 약 10 per cent 줄었다고 추산하지만, 완성된 만화에 AI 생성(AI-generated) 이미지를 쓰는 데는 선을 긋는다. “그렇다. 예술은 고유하기 때문이다.”"
+                "x": "AAP CEO Maria Pallante는 “제3순회항소법원은 AI 학습용 라이선스 시장이 존재할 뿐 아니라 ‘빠르게 성장하고 있다’는 점을 정확히 짚었다”며 이번 판결을 “이 강력한 선례”라고 평가했다."
               },
               {
                 "t": "p",
-                "x": "Hong Kong Comics and Animation Federation의 Alan Wan은 작가들이 만화를 AI-generated 애니메이션으로 바꿀 수 있다고 말한다. “그들은 만화가에 그치지 않고 감독이 될 수도 있다.” 저작권과 저작자를 둘러싼 문제는 아직 풀리지 않았다."
+                "x": "Authors Guild CEO Mary Rasenberger는 이번 판결이 “저작권법의 정당성을 입증한다. AI가 학습한 바로 그 작품을 대체하는 AI 시스템을 학습시키려고 남의 작품을 훔쳐서는 안 된다는 점을 분명히 한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "香港の漫画家たち\nAIで制作時間を短縮",
-          "body": "Jerry ChoはAIで衣装を試し、制作時間を約10 per cent削減している。",
-          "mini_headline": "香港漫画、AIに活路",
+          "headline": "RossのAI複製\n控訴審もフェアユース否定",
+          "body": "U.S.控訴審もROSSのAI学習用Westlaw複製はフェアユースでないとした。",
+          "mini_headline": "Ross判決：フェアユースに当たらず",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Q8VYqGtRM1A"
+                "t": "p",
+                "x": "米国出版社協会(Association of American Publishers)とAuthors Guildは、Thomson Reuters v. ROSS訴訟の控訴審判決を歓迎した。判決は、ROSSがThomson ReutersのWestlawのヘッドノートを複製した行為はフェアユースに当たらないと判断した。AI企業によるこうした無断複製がフェアユースで保護されないと控訴裁判所が判断したのは、これが初めてである。"
               },
               {
                 "t": "p",
-                "x": "全盛期の香港(Hong Kong)は漫画大国だった。業界が活況に沸いた1980年代には、年間約50 million 部が売れた。香港漫画はmid-1990s以降、衰退していると広く見なされている。"
-              },
-              {
-                "t": "p",
-                "x": "「今では…数千冊売れれば、それだけでとても良い数字だ」と、九龍(Kowloon)の書店Epic Oneの店主Dicky Lamは語る。「香港の漫画市場は90%縮小した」"
-              },
-              {
-                "t": "p",
-                "x": "作家Jerry Choは『The Life After Life』で今年のJapan International Manga Award銅賞を受賞したが、同作の販売部数はわずか3,000部にとどまる。制作には六か月を要し、Choと常勤スタッフ二人、外部協力者五人が関わった。"
+                "x": "Thomson Reutersは、ROSSがWestlawのヘッドノートを使って自社のAIプラットフォームを学習させたとして、2020年5月にU.S.デラウェア連邦地方裁判所に提訴した。デラウェアの裁判所がThomson Reutersの主張を認めた後、AAPは2025年11月、ROSSのフェアユースの主張を退けて判決を維持するよう第3巡回区控訴裁判所(Third Circuit)に求めるアミカスブリーフを提出した。"
               },
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-                "cap": "香港の漫画家Jerry Cho。(Image: CNA)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+                "cap": "フィラデルフィアのJames A. Byrne United States Courthouse。写真：ajay_suresh, CC BY 2.0"
               },
               {
                 "t": "p",
-                "x": "Choは制作の初期段階でAIを調査と視覚化のツールとして使う。たとえばキャラクターの画像を入力してさまざまな服を試し、その後チームが場面を描く。AIでチームの制作時間を約10 per cent節約できると見積もるが、完成した漫画にAI生成(AI-generated)画像を使うことには一線を引く。「そうだ、芸術は唯一無二だからだ」"
+                "x": "AAPのCEO、Maria Pallanteは「第3巡回区控訴裁判所は、AI学習向けのライセンス市場が存在するだけでなく『急速に発展している』ことを正しく指摘した」と述べ、今回の判決を「この強力な先例」と呼んだ。"
               },
               {
                 "t": "p",
-                "x": "Hong Kong Comics and Animation FederationのAlan Wanは、作家が漫画をAI-generatedアニメーションに変えられると話す。「彼らは単なる漫画家ではなく、監督にもなり得る」。著作権と作者性をめぐる問題は未解決のままだ。"
+                "x": "Authors GuildのCEO、Mary Rasenbergerは、判決は「著作権法の正しさを立証するものだ。AIが学習したまさにその作品に取って代わるAIシステムを訓練するために、他人の作品を盗んではならないことを明確にした」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "香港漫画家\n借AI缩短制作时间",
-          "body": "画家Jerry Cho用AI试穿角色服装，为团队节省约10 per cent的制作时间。",
-          "mini_headline": "香港漫画转向AI",
+          "headline": "Ross AI复制\n上诉法院：不属合理使用",
+          "body": "U.S.上诉法院维持原判，认定ROSS复制Westlaw判例摘要训练AI不属合理使用。",
+          "mini_headline": "Ross案：不属合理使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Q8VYqGtRM1A"
+                "t": "p",
+                "x": "美国出版商协会(Association of American Publishers)与Authors Guild对Thomson Reuters v. ROSS案的上诉判决表示赞赏。该判决认定，ROSS复制Thomson Reuters旗下Westlaw判例摘要的行为不构成合理使用。这是上诉法院首次裁定AI公司的此类未经授权复制不受合理使用保护。"
               },
               {
                 "t": "p",
-                "x": "鼎盛时期的香港(Hong Kong)是漫画重镇：在1980年代的行业繁荣期，年销量约50 million 册。人们普遍认为，香港漫画自mid-1990s起便走向衰落。"
-              },
-              {
-                "t": "p",
-                "x": "“现在要是能卖出……几千本，就已经是很好的数字了。”九龙(Kowloon)书店Epic One的老板Dicky Lam说，“香港漫画市场萎缩了90%。”"
-              },
-              {
-                "t": "p",
-                "x": "画家Jerry Cho凭《The Life After Life》获得今年Japan International Manga Award铜奖，但该作仅售出3,000册。作品耗时六个月完成，参与者包括Cho、两名全职员工和五名外包人员。"
+                "x": "ROSS使用Westlaw判例摘要训练其AI平台后，Thomson Reuters于2020年5月在U.S.特拉华州联邦地区法院提起诉讼。特拉华法院作出有利于Thomson Reuters的裁决后，AAP于2025年11月提交法庭之友意见书，请求第三巡回上诉法院(Third Circuit)驳回ROSS的合理使用主张、维持原判。"
               },
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-                "cap": "香港漫画家Jerry Cho。(Image: CNA)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+                "cap": "费城的James A. Byrne United States Courthouse。图片：ajay_suresh, CC BY 2.0"
               },
               {
                 "t": "p",
-                "x": "Cho在制作初期把AI当作资料调研和可视化工具，例如输入角色图像试穿不同服装，再由团队绘制场景。他估计AI为团队节省约10 per cent的制作时间，但在成品漫画中使用AI生成(AI-generated)图像这件事上，他划清了界线：“是的，因为艺术是独一无二的。”"
+                "x": "AAP CEO Maria Pallante表示，“第三巡回上诉法院正确指出，AI训练的授权许可市场不仅存在，而且‘正在迅速发展’”，并称该判决是“这一有力的先例”。"
               },
               {
                 "t": "p",
-                "x": "Hong Kong Comics and Animation Federation的Alan Wan表示，画家可以把漫画转成AI-generated动画：“他们将不只是漫画家，还可能成为导演。”版权与作者归属问题仍悬而未决。"
+                "x": "Authors Guild CEO Mary Rasenberger表示，该判决“为版权法正名。它明确了，任何人都不能窃取他人作品，去训练一个会取代其训练所用作品的AI系统。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dibujantes de Hong Kong usan\nAI para acortar la producción",
-          "body": "El dibujante Jerry Cho usa AI para probar vestuarios antes de dibujar y ahorra cerca del 10 per cent del tiempo.",
-          "mini_headline": "El cómic de Hong Kong recurre a la AI",
+          "headline": "Apelación: la copia de Ross AI\nno fue uso legítimo",
+          "body": "La corte de apelación de U.S. ratificó que copiar Westlaw para entrenar la AI de ROSS Intelligence no fue uso legítimo.",
+          "mini_headline": "Fallo sobre Ross: no es uso legítimo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Q8VYqGtRM1A"
+                "t": "p",
+                "x": "La Association of American Publishers y el Authors Guild celebraron el fallo de apelación en Thomson Reuters v. ROSS, que determinó que la copia por parte de ROSS de los sumarios de Westlaw de Thomson Reuters no fue uso legítimo. Es la primera vez que un tribunal de apelación dictamina que este tipo de copia no autorizada por parte de una empresa de AI no está protegida por el uso legítimo."
               },
               {
                 "t": "p",
-                "x": "En su época dorada, Hong Kong fue una potencia del cómic: durante los años de auge de la industria, en la década de 1980, se vendían unos 50 millones de ejemplares al año. Se considera ampliamente que el cómic de Hong Kong está en declive desde mediados de los noventa (mid-1990s)."
-              },
-              {
-                "t": "p",
-                "x": "“Ahora, si conseguimos vender … unos pocos miles de libros, ya es una cifra muy buena”, dijo Dicky Lam, propietario de la librería Epic One en Kowloon. “El mercado del cómic de Hong Kong se ha reducido un 90 por ciento”."
-              },
-              {
-                "t": "p",
-                "x": "El dibujante Jerry Cho ganó este año un premio de bronce en el Japan International Manga Award por The Life After Life, que solo ha vendido 3,000 ejemplares. La obra tardó seis meses en producirse y en ella participaron Cho, dos empleados a tiempo completo y cinco colaboradores externos."
+                "x": "Thomson Reuters presentó la demanda ante el U.S. District Court for Delaware en mayo de 2020, después de que ROSS usara sumarios de Westlaw para entrenar su plataforma de AI. Tras el fallo del tribunal de Delaware a favor de Thomson Reuters, la AAP presentó en noviembre de 2025 un escrito amicus en el que pidió al Third Circuit confirmar la sentencia rechazando los argumentos de uso legítimo de ROSS."
               },
               {
                 "t": "img",
-                "src": "https://dam.mediacorp.sg/image/upload/s--XU05y0OX--/c_crop,h_489,w_611,x_115,y_1/c_fill,g_center,h_598,w_747/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/artist_jerry_cho.png?itok=1Y-V0Foo",
-                "cap": "El dibujante de cómics de Hong Kong Jerry Cho. (Image: CNA)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+                "cap": "El James A. Byrne United States Courthouse en Filadelfia. Foto: ajay_suresh, CC BY 2.0"
               },
               {
                 "t": "p",
-                "x": "Cho usa la AI en las primeras fases de producción como herramienta de investigación y visualización: por ejemplo, introduce la imagen de un personaje para probar distintas prendas antes de que su equipo ilustre la escena. Calcula que la AI ahorra a su equipo cerca del 10 per cent del tiempo de producción, pero pone un límite a las imágenes AI-generated en el cómic terminado: “Sí, porque el arte es único”."
+                "x": "La CEO de la AAP, Maria Pallante, dijo que “el Third Circuit señaló correctamente que el mercado de licencias para el entrenamiento de AI no solo existe, sino que se está ‘desarrollando rápidamente’”, y calificó el fallo como “este poderoso precedente”."
               },
               {
                 "t": "p",
-                "x": "Alan Wan, de la Hong Kong Comics and Animation Federation, afirma que los artistas podrían convertir los cómics en animación AI-generated: “No serán solo dibujantes de cómics, podrían convertirse en directores”. Las cuestiones sobre derechos de autor y autoría siguen abiertas."
+                "x": "La CEO del Authors Guild, Mary Rasenberger, afirmó que el fallo “reivindica la ley de derechos de autor. Aclara que no se pueden robar las obras de otra persona para entrenar un sistema de AI que desplaza precisamente las obras con las que se entrenó la AI”."
               }
             ]
           }
@@ -405,557 +325,201 @@
       }
     },
     {
-      "id": "ewc-destructive-book-scanning",
+      "id": "scholarly-kitchen-ai-representation-not-scholarship",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "유럽 작가들\nAI용 책 파쇄 규탄",
-      "body": "EWC가 AI 기업의 고서·희귀본 파괴 스캔에 유럽의 단호한 대응을 촉구했다.",
-      "mini_headline": "작가들, AI용 책 파쇄 규탄",
+      "headline": "AI 출판에서 논문은\n학문 그 자체가 아니다",
+      "body": "이 에세이는 AI가 한정된 인지를 증폭해 논문을 학문으로 착각하게 한다고 본다.",
+      "mini_headline": "논문은 학문이 아니다",
       "tool": "Books",
-      "source": "European Writers Council",
-      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-            "cap": "홀로 선 t-rex 3d 렌더링 일러스트 © 3dMediSphere"
-          },
-          {
-            "t": "p",
-            "x": "EWC는 AI 기술 업계가 유럽의 오래되거나 희귀한 책 수백만 권을 « 파괴적으로 스캔 »하는 관행을 규탄했다. 의사결정자들에게는 작가와 출판사, 독자 편에 서서 목소리를 내 달라고 요구한다."
-          },
-          {
-            "t": "p",
-            "x": "유럽 밖(Non-European)의 거대 기술 기업들은 중고 서점과 고서점에서 적어도 이백만 권에 이르는 책을 사들였다. U.S.의 AI 스캔 공장은 책등을 잘라 낱장을 고속 스캐너에 넣고 남은 책은 버리거나 파쇄해 화장지로 재활용한다. 그렇게 얻은 파일은 대규모 언어 모델 개발에 쓰인다."
-          },
-          {
-            "t": "p",
-            "x": "“희귀한 책이 파괴되고 있다. 이런 책 상당수는 다시는 찾을 수 없고, AI 기술 기업의 디지털 자산으로만 남는다.” EWC 부회장(Vice President) Maïa Bensimon의 말이다. EWC 정책위원 Nina George는 ‘세상의 모든 책을 스캔’하려는 Anthropic의 비밀 프로젝트 ‘Project Panama’를 지목한다."
-          },
-          {
-            "t": "p",
-            "x": "Henna Virkkunen 집행부위원장(Executive Vice-President)은 2026년 9월 16일 답변에서 텍스트·데이터 마이닝 예외는 디지털 저작물에만 적용된다고 밝혔다. 저작권이 있는 책은 아날로그 형태로 적법하게 취득했더라도 디지털화하려면 권리자의 사전 허락을 받아야 한다는 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "EWC는 유럽연합 집행위원회(European Commission)와 유럽의회(European Parliament), 모든 유럽 국가에 이 관행에 반대한다고 분명히 밝히라고 요구한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "European writers condemn\nbooks shredded for AI",
-          "body": "The European Writers Council asks Europe to take a firm stand on AI firms destructively scanning old and rare books.",
-          "mini_headline": "Writers condemn\nAI book shredding",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-                "cap": "3d rendered illustration of an isolated t-rex © 3dMediSphere"
-              },
-              {
-                "t": "p",
-                "x": "The EWC condemns the AI tech practice of « destructively scanning » millions of old or rare European books and calls upon decision-makers to speak up on behalf of authors, publishers, and readers."
-              },
-              {
-                "t": "p",
-                "x": "Non-European tech giants have purchased at least up to two million books through second hand and antiquarian booksellers. At AI scan factories in the U.S., the spine is cut so pages can be fed through high-speed scanners before the copy is discarded, shredded, and recycled into toilet paper. The files are used to develop large language models."
-              },
-              {
-                "t": "p",
-                "x": "“Rare books are destroyed. Many such books will never be found again and will exist solely as the digital property of an AI tech company,” says EWC Vice President Maïa Bensimon. EWC Political Commissioner Nina George points to Anthropic’s secret ‘Project Panama’, which aims to ‘scan all the books in the world’."
-              },
-              {
-                "t": "p",
-                "x": "On 16 September 2026, Executive Vice-President Henna Virkkunen answered that digitising copyright-protected books, even lawfully acquired in analogue form, requires the rightsholder’s prior authorisation, as text and data mining exceptions only cover digital works."
-              },
-              {
-                "t": "p",
-                "x": "The EWC calls upon the European Commission, the European Parliament, and every European State to take a clear stance against this practice."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "유럽 작가들\nAI용 책 파쇄 규탄",
-          "body": "EWC가 AI 기업의 고서·희귀본 파괴 스캔에 유럽의 단호한 대응을 촉구했다.",
-          "mini_headline": "작가들, AI용 책 파쇄 규탄",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-                "cap": "홀로 선 t-rex 3d 렌더링 일러스트 © 3dMediSphere"
-              },
-              {
-                "t": "p",
-                "x": "EWC는 AI 기술 업계가 유럽의 오래되거나 희귀한 책 수백만 권을 « 파괴적으로 스캔 »하는 관행을 규탄했다. 의사결정자들에게는 작가와 출판사, 독자 편에 서서 목소리를 내 달라고 요구한다."
-              },
-              {
-                "t": "p",
-                "x": "유럽 밖(Non-European)의 거대 기술 기업들은 중고 서점과 고서점에서 적어도 이백만 권에 이르는 책을 사들였다. U.S.의 AI 스캔 공장은 책등을 잘라 낱장을 고속 스캐너에 넣고 남은 책은 버리거나 파쇄해 화장지로 재활용한다. 그렇게 얻은 파일은 대규모 언어 모델 개발에 쓰인다."
-              },
-              {
-                "t": "p",
-                "x": "“희귀한 책이 파괴되고 있다. 이런 책 상당수는 다시는 찾을 수 없고, AI 기술 기업의 디지털 자산으로만 남는다.” EWC 부회장(Vice President) Maïa Bensimon의 말이다. EWC 정책위원 Nina George는 ‘세상의 모든 책을 스캔’하려는 Anthropic의 비밀 프로젝트 ‘Project Panama’를 지목한다."
-              },
-              {
-                "t": "p",
-                "x": "Henna Virkkunen 집행부위원장(Executive Vice-President)은 2026년 9월 16일 답변에서 텍스트·데이터 마이닝 예외는 디지털 저작물에만 적용된다고 밝혔다. 저작권이 있는 책은 아날로그 형태로 적법하게 취득했더라도 디지털화하려면 권리자의 사전 허락을 받아야 한다는 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "EWC는 유럽연합 집행위원회(European Commission)와 유럽의회(European Parliament), 모든 유럽 국가에 이 관행에 반대한다고 분명히 밝히라고 요구한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "欧州の作家団体\nAI用の書籍裁断を非難",
-          "body": "EWCは、AI企業による古書・希少本の破壊的スキャンに欧州の断固たる対応を求めた。",
-          "mini_headline": "作家団体、AI用の書籍裁断を非難",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-                "cap": "単体のt-rexを描いた3dレンダリングのイラスト © 3dMediSphere"
-              },
-              {
-                "t": "p",
-                "x": "EWCは、AIテック業界が欧州の古書や希少本数百万冊を« 破壊的にスキャン »する慣行を非難し、意思決定者に対して著者、出版社、読者のために声を上げるよう呼びかけている。"
-              },
-              {
-                "t": "p",
-                "x": "欧州域外(Non-European)の巨大テック企業は、古書店や古本屋を通じて少なくとも最大二百万冊の本を購入した。U.S.のAIスキャン工場では、背表紙を切り落としてページを高速スキャナーに通した後、本を廃棄・裁断し、トイレットペーパーに再生する。こうして得たファイルは大規模言語モデルの開発に使われる。"
-              },
-              {
-                "t": "p",
-                "x": "「希少な本が破壊されている。そうした本の多くは二度と見つからず、AIテック企業のデジタル資産としてのみ存在することになる」とEWC副会長(Vice President)のMaïa Bensimonは言う。EWC政策委員のNina Georgeは、「世界中のすべての本をスキャンする」ことを目指すAnthropicの秘密計画『Project Panama』を指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "2026年9月16日、Henna Virkkunen上級副委員長(Executive Vice-President)は、テキスト・データマイニングの例外はデジタル作品にしか適用されないため、著作権で保護された書籍は、たとえアナログ形態で合法的に入手したものでも、デジタル化には権利者の事前許諾が必要だと回答した。"
-              },
-              {
-                "t": "p",
-                "x": "EWCは欧州委員会(European Commission)、欧州議会(European Parliament)、そしてすべての欧州諸国に対し、この慣行に明確に反対する立場を取るよう求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "欧洲作家谴责\n为AI而碎毁书籍",
-          "body": "欧洲作家理事会呼吁欧洲对AI公司破坏性扫描古籍和珍本表明坚定立场。",
-          "mini_headline": "作家谴责AI碎书",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-                "cap": "一只孤立霸王龙(t-rex)的3d渲染插图 © 3dMediSphere"
-              },
-              {
-                "t": "p",
-                "x": "EWC谴责AI科技行业对数以百万计的欧洲古籍和珍本进行« 破坏性扫描 »的做法，并呼吁决策者为作者、出版商和读者发声。"
-              },
-              {
-                "t": "p",
-                "x": "非欧洲(Non-European)科技巨头已通过二手书店和古籍书商购入至少多达两百万册图书。在U.S.的AI扫描工厂里，书脊被切掉，书页送入高速扫描仪，随后书本被丢弃、粉碎，再回收制成卫生纸。这些文件被用于开发大语言模型。"
-              },
-              {
-                "t": "p",
-                "x": "“珍本正在被毁。许多这样的书将再也找不到，只会作为某家AI科技公司的数字财产存在。”EWC副主席(Vice President)Maïa Bensimon说。EWC政策专员Nina George提到了Anthropic的秘密计划‘Project Panama’，其目标是‘扫描世界上所有的书’。"
-              },
-              {
-                "t": "p",
-                "x": "2026年9月16日，执行副主席(Executive Vice-President)Henna Virkkunen答复称，由于文本与数据挖掘例外只涵盖数字作品，将受版权保护的图书数字化，即便是合法购得的纸质版，也须事先获得权利人授权。"
-              },
-              {
-                "t": "p",
-                "x": "EWC呼吁欧盟委员会(European Commission)、欧洲议会(European Parliament)以及每个欧洲国家明确表态，反对这种做法。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Escritores europeos condenan\nlibros triturados para la AI",
-          "body": "El European Writers Council pide firmeza a Europa ante firmas de AI que escanean y destruyen libros antiguos y raros.",
-          "mini_headline": "Escritores condenan la trituración de libros para AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-                "cap": "Ilustración 3d renderizada de un t-rex aislado © 3dMediSphere"
-              },
-              {
-                "t": "p",
-                "x": "El EWC condena la práctica de la industria tecnológica de la AI de « escanear de forma destructiva » millones de libros europeos antiguos o raros, y pide a los responsables políticos que alcen la voz en nombre de autores, editores y lectores."
-              },
-              {
-                "t": "p",
-                "x": "Gigantes tecnológicos no europeos (Non-European) han comprado al menos hasta dos millones de libros a través de librerías de segunda mano y anticuarios. En fábricas de escaneo de AI en Estados Unidos (U.S.), se corta el lomo para pasar las páginas por escáneres de alta velocidad y después el ejemplar se desecha, se tritura y se recicla como papel higiénico. Los archivos se usan para desarrollar grandes modelos de lenguaje."
-              },
-              {
-                "t": "p",
-                "x": "“Se destruyen libros raros. Muchos de ellos no volverán a encontrarse jamás y existirán únicamente como propiedad digital de una empresa tecnológica de AI”, afirma la vicepresidenta del EWC (Vice President), Maïa Bensimon. La comisionada política del EWC, Nina George, señala el ‘Project Panama’ secreto de Anthropic, que busca ‘escanear todos los libros del mundo’."
-              },
-              {
-                "t": "p",
-                "x": "El 16 de septiembre de 2026, la vicepresidenta ejecutiva (Executive Vice-President) Henna Virkkunen respondió que digitalizar libros protegidos por derechos de autor, incluso adquiridos legalmente en formato analógico, requiere la autorización previa del titular de los derechos, ya que las excepciones de minería de textos y datos solo cubren obras digitales."
-              },
-              {
-                "t": "p",
-                "x": "El EWC pide a la Comisión Europea (European Commission), al Parlamento Europeo (European Parliament) y a cada Estado europeo que adopten una postura clara contra esta práctica."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "유럽 작가들\nAI용 책 파쇄 규탄",
-          "body": "EWC가 AI 기업의 고서·희귀본 파괴 스캔에 유럽의 단호한 대응을 촉구했다.",
-          "mini_headline": "작가들, AI용 책 파쇄 규탄",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-                "cap": "홀로 선 t-rex를 표현한 3d 렌더링 일러스트 © 3dMediSphere"
-              },
-              {
-                "t": "p",
-                "x": "EWC는 AI 기술 업계가 유럽의 오래되거나 희귀한 책 수백만 권을 « 파괴적으로 스캔 »하는 관행을 규탄하고, 의사결정자들에게 작가와 출판사, 독자를 대신해 목소리를 내 달라고 촉구한다."
-              },
-              {
-                "t": "p",
-                "x": "유럽 밖(Non-European)의 거대 기술 기업들은 중고 서점과 고서점을 통해 적어도 이백만 권에 이르는 책을 사들였다. U.S.의 AI 스캔 공장에서는 책등을 잘라 낱장을 고속 스캐너에 넣은 뒤, 책을 버리거나 파쇄해 화장지로 재활용한다. 이렇게 만든 파일은 대규모 언어 모델 개발에 쓰인다."
-              },
-              {
-                "t": "p",
-                "x": "“희귀한 책이 파괴되고 있다. 이런 책 상당수는 다시는 찾을 수 없고, AI 기술 기업의 디지털 자산으로만 남는다.” EWC 부회장(Vice President) Maïa Bensimon의 말이다. EWC 정책위원 Nina George는 ‘세상의 모든 책을 스캔’하려는 Anthropic의 비밀 프로젝트 ‘Project Panama’를 지목한다."
-              },
-              {
-                "t": "p",
-                "x": "2026년 9월 16일, Henna Virkkunen 집행부위원장(Executive Vice-President)은 텍스트·데이터 마이닝 예외는 디지털 저작물에만 적용되므로, 저작권이 있는 책은 아날로그 형태로 적법하게 취득했더라도 디지털화하려면 권리자의 사전 허락을 받아야 한다고 답했다."
-              },
-              {
-                "t": "p",
-                "x": "EWC는 유럽연합 집행위원회(European Commission)와 유럽의회(European Parliament), 그리고 모든 유럽 국가에 이 관행에 분명히 반대하는 입장을 밝히라고 촉구한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "欧州の作家団体\nAI用の書籍裁断を非難",
-          "body": "EWCは、AI企業による古書・希少本の破壊的スキャンに欧州の断固たる対応を求めた。",
-          "mini_headline": "作家団体、AI用の書籍裁断を非難",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-                "cap": "単体のt-rexを描いた3dレンダリングのイラスト © 3dMediSphere"
-              },
-              {
-                "t": "p",
-                "x": "EWCは、AIテック業界が欧州の古書や希少本数百万冊を« 破壊的にスキャン »する慣行を非難し、意思決定者に対して著者、出版社、読者のために声を上げるよう呼びかけている。"
-              },
-              {
-                "t": "p",
-                "x": "欧州域外(Non-European)の巨大テック企業は、古書店や古本屋を通じて少なくとも最大二百万冊の本を購入した。U.S.のAIスキャン工場では、背表紙を切り落としてページを高速スキャナーに通した後、本を廃棄・裁断し、トイレットペーパーに再生する。こうして得たファイルは大規模言語モデルの開発に使われる。"
-              },
-              {
-                "t": "p",
-                "x": "「希少な本が破壊されている。そうした本の多くは二度と見つからず、AIテック企業のデジタル資産としてのみ存在することになる」とEWC副会長(Vice President)のMaïa Bensimonは言う。EWC政策委員のNina Georgeは、「世界中のすべての本をスキャンする」ことを目指すAnthropicの秘密計画『Project Panama』を指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "2026年9月16日、Henna Virkkunen上級副委員長(Executive Vice-President)は、テキスト・データマイニングの例外はデジタル作品にしか適用されないため、著作権で保護された書籍は、たとえアナログ形態で合法的に入手したものでも、デジタル化には権利者の事前許諾が必要だと回答した。"
-              },
-              {
-                "t": "p",
-                "x": "EWCは欧州委員会(European Commission)、欧州議会(European Parliament)、そしてすべての欧州諸国に対し、この慣行に明確に反対する立場を取るよう求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "欧洲作家谴责\n为AI而碎毁书籍",
-          "body": "欧洲作家理事会呼吁欧洲对AI公司破坏性扫描古籍和珍本表明坚定立场。",
-          "mini_headline": "作家谴责AI碎书",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-                "cap": "一只孤立霸王龙(t-rex)的3d渲染插图 © 3dMediSphere"
-              },
-              {
-                "t": "p",
-                "x": "EWC谴责AI科技行业对数以百万计的欧洲古籍和珍本进行« 破坏性扫描 »的做法，并呼吁决策者为作者、出版商和读者发声。"
-              },
-              {
-                "t": "p",
-                "x": "非欧洲(Non-European)科技巨头已通过二手书店和古籍书商购入至少多达两百万册图书。在U.S.的AI扫描工厂里，书脊被切掉，书页送入高速扫描仪，随后书本被丢弃、粉碎，再回收制成卫生纸。这些文件被用于开发大语言模型。"
-              },
-              {
-                "t": "p",
-                "x": "“珍本正在被毁。许多这样的书将再也找不到，只会作为某家AI科技公司的数字财产存在。”EWC副主席(Vice President)Maïa Bensimon说。EWC政策专员Nina George提到了Anthropic的秘密计划‘Project Panama’，其目标是‘扫描世界上所有的书’。"
-              },
-              {
-                "t": "p",
-                "x": "2026年9月16日，执行副主席(Executive Vice-President)Henna Virkkunen答复称，由于文本与数据挖掘例外只涵盖数字作品，将受版权保护的图书数字化，即便是合法购得的纸质版，也须事先获得权利人授权。"
-              },
-              {
-                "t": "p",
-                "x": "EWC呼吁欧盟委员会(European Commission)、欧洲议会(European Parliament)以及每个欧洲国家明确表态，反对这种做法。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Escritores europeos condenan\nlibros triturados para la AI",
-          "body": "El European Writers Council pide firmeza a Europa ante firmas de AI que escanean y destruyen libros antiguos y raros.",
-          "mini_headline": "Escritores condenan la trituración de libros para AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-                "cap": "Ilustración 3d renderizada de un t-rex aislado © 3dMediSphere"
-              },
-              {
-                "t": "p",
-                "x": "El EWC condena la práctica de la industria tecnológica de la AI de « escanear de forma destructiva » millones de libros europeos antiguos o raros, y pide a los responsables políticos que alcen la voz en nombre de autores, editores y lectores."
-              },
-              {
-                "t": "p",
-                "x": "Gigantes tecnológicos no europeos (Non-European) han comprado al menos hasta dos millones de libros a través de librerías de segunda mano y anticuarios. En fábricas de escaneo de AI en Estados Unidos (U.S.), se corta el lomo para pasar las páginas por escáneres de alta velocidad y después el ejemplar se desecha, se tritura y se recicla como papel higiénico. Los archivos se usan para desarrollar grandes modelos de lenguaje."
-              },
-              {
-                "t": "p",
-                "x": "“Se destruyen libros raros. Muchos de ellos no volverán a encontrarse jamás y existirán únicamente como propiedad digital de una empresa tecnológica de AI”, afirma la vicepresidenta del EWC (Vice President), Maïa Bensimon. La comisionada política del EWC, Nina George, señala el ‘Project Panama’ secreto de Anthropic, que busca ‘escanear todos los libros del mundo’."
-              },
-              {
-                "t": "p",
-                "x": "El 16 de septiembre de 2026, la vicepresidenta ejecutiva (Executive Vice-President) Henna Virkkunen respondió que digitalizar libros protegidos por derechos de autor, incluso adquiridos legalmente en formato analógico, requiere la autorización previa del titular de los derechos, ya que las excepciones de minería de textos y datos solo cubren obras digitales."
-              },
-              {
-                "t": "p",
-                "x": "El EWC pide a la Comisión Europea (European Commission), al Parlamento Europeo (European Parliament) y a cada Estado europeo que adopten una postura clara contra esta práctica."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "bye-bye-ai-library-event",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "뉴욕의 작은 도서관\nAI 끄기를 돕다",
-      "body": "뉴욕주 북부의 한 도서관이 휴대폰·컴퓨터의 AI 기능을 꺼 주며 화제가 됐다.",
-      "mini_headline": "AI 끄기 돕는 도서관",
-      "tool": "Books",
-      "source": "The Cool Down",
-      "url": "https://www.thecooldown.com/green-tech/library-bye-bye-ai-event-viral/",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "AI의 문제는 기계가 더 똑똑해진다는 데 있지 않을지도 모른다. 뛰어나지만 한정된 형태의 인지를 우리가 점점 더 잘 증폭하게 됐다는 게 문제일 수 있다. AI는 이미 알려진 것을 재조합한다. 하지만 재조합은 창의성이나 통찰과 다르다."
+          },
+          {
             "t": "img",
-            "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-            "cap": "스마트폰을 쓰는 사람."
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+            "cap": "그림 1. 사고 능력과 지능에 결부된 특성 비교."
           },
           {
             "t": "p",
-            "x": "뉴욕주(New York) 북부의 한 공공도서관이 색다른 기술 지원으로 화제다. 휴대폰과 컴퓨터의 AI 기능을 끄도록 도와준다. 카드 소지자가 약 800명인 North Chatham Free Library가 “Bye Bye AI” 전단을 올리자 작은 마을 바깥 먼 곳에서까지 반응이 쏟아졌다."
+            "x": "학술 커뮤니케이션은 늘 표상 위에서 돌아갔다. 논문은 연구를, 초록은 논문을, 인용은 저작 사이의 관계를 표상한다. 표상 자체가 최적화 대상이 되면 AI는 학문과의 거리를 더 벌릴 수 있다. 모델은 근거를 이해하지 못한 채 논문을 그럴듯하게 요약하고, 검증할 수 없는 인용을 그럴듯하게 지어내기도 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+            "cap": "그림 2. 도구에서 에이전트로 갈수록 거버넌스도 역량을 따라가야 한다."
           },
           {
             "t": "p",
-            "x": "도서관의 유일한 정규직 사서 Shea Wert에 따르면, 예약 없이 들르면 되는 이 프로그램은 이용자들이 거듭 불만을 털어놓으면서 시작됐다. “Gmail 자동 답장과 자동 완성 때문에 사람들이 정말 답답해한다.”"
-          },
-          {
-            "t": "p",
-            "x": "도서관은 4월에 “AI for seniors” 강좌도 열었다. Wert도 AI 자체를 크게 반대하지는 않는다고 말한다. 도움을 청하러 오는 사람은 대부분 노년층이다."
-          },
-          {
-            "t": "p",
-            "x": "이번 행사는 사서 Hannah Cyrus가 연 AI 도구 끄기 무료 강좌에서 영감을 받았다. Cyrus는 “도서관은 이용자의 기술 수용을 돕는 것만큼이나 기술 거부를 돕는 데에도 맡을 역할이 있다”고 썼다. 그는 “전 세계 수백 명의 사서에게서 발표 슬라이드를 보내 달라는 연락을 받았다”고 한다."
+            "x": "AI가 도구에서 에이전트로 옮겨가면 질문도 역량에서 행위 주체성으로 넘어간다. 필자는 AI로 수고를 덜되 전부 덜지는 말라고, 표상 자체를 의심할 수 있는 사람의 능력을 지키라고 촉구한다. 기계가 처리에 능해질수록 우리는 지각에 능해져야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A New York library helps\npeople switch off AI",
-          "body": "A library in upstate New York went viral for helping patrons switch off AI features on their phones and computers.",
-          "mini_headline": "Library event helps\nswitch off AI",
+          "headline": "In AI publishing, the paper\nis not the scholarship",
+          "body": "The essay argues AI amplifies a limited form of cognition, tempting us to mistake the paper for the scholarship.",
+          "mini_headline": "Paper is not scholarship",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The problem with AI may not be that machines are growing more intelligent, but that we are becoming skilled at amplifying a highly capable, but limited form of cognition. AI can recombine what is already known; recombination is not the same as creativity or insight."
+              },
+              {
                 "t": "img",
-                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-                "cap": "A person using a smartphone."
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+                "cap": "Figure 1. Thought's capabilities versus the qualities associated with intelligence."
               },
               {
                 "t": "p",
-                "x": "A public library in upstate New York has gone viral for offering an unusual kind of tech assistance: helping people switch off AI features on their phones and computers. The North Chatham Free Library, which serves roughly 800 cardholders, posted a \"Bye Bye AI\" flyer that drew responses far beyond the hamlet."
+                "x": "Scholarly communication has always run on representations: an article represents an investigation, an abstract the article, a citation a relationship between works. When the representation becomes the object we optimize, AI can widen the distance from the scholarship itself. A model can summarize a paper convincingly without understanding its evidence, or generate plausible but unverifiable citations."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+                "cap": "Figure 2. From tool to agent, governance needs to keep pace with capability."
               },
               {
                 "t": "p",
-                "x": "Shea Wert, the library's only full-time librarian, said the drop-in program came from repeated patron complaints: \"Gmail auto replies and auto completes really frustrate people.\""
-              },
-              {
-                "t": "p",
-                "x": "In April the library also held an \"AI for seniors\" session, and Wert says she is not broadly opposed to AI. Older adults make up most of those seeking help."
-              },
-              {
-                "t": "p",
-                "x": "Librarian Hannah Cyrus, whose free classes on disabling AI tools inspired the event, wrote that \"libraries have a role to play in facilitating patrons' rejection of technology, just as much as in their adoption of it.\" She has \"heard from hundreds of librarians from all over the world asking for my presentation slides.\""
+                "x": "As AI moves from tool to agent, the question shifts from capability to agency. The author urges using AI to reduce some effort, but not all, and keeping humans able to question the representation itself. As machines become better at processing, we need to become better at perceiving."
               }
             ]
           }
         },
         "ko": {
-          "headline": "뉴욕의 작은 도서관\nAI 끄기를 돕다",
-          "body": "뉴욕주 북부의 한 도서관이 휴대폰·컴퓨터의 AI 기능을 꺼 주며 화제가 됐다.",
-          "mini_headline": "AI 끄기 돕는 도서관",
+          "headline": "AI 출판에서 논문은\n학문 그 자체가 아니다",
+          "body": "이 에세이는 AI가 한정된 인지를 증폭해 논문을 학문으로 착각하게 한다고 본다.",
+          "mini_headline": "논문은 학문이 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI의 문제는 기계가 더 똑똑해진다는 데 있지 않을지도 모른다. 뛰어나지만 한정된 형태의 인지를 우리가 점점 더 잘 증폭하게 됐다는 게 문제일 수 있다. AI는 이미 알려진 것을 재조합한다. 하지만 재조합은 창의성이나 통찰과 다르다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-                "cap": "스마트폰을 쓰는 사람."
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+                "cap": "그림 1. 사고 능력과 지능에 결부된 특성 비교."
               },
               {
                 "t": "p",
-                "x": "뉴욕주(New York) 북부의 한 공공도서관이 색다른 기술 지원으로 화제다. 휴대폰과 컴퓨터의 AI 기능을 끄도록 도와준다. 카드 소지자가 약 800명인 North Chatham Free Library가 “Bye Bye AI” 전단을 올리자 작은 마을 바깥 먼 곳에서까지 반응이 쏟아졌다."
+                "x": "학술 커뮤니케이션은 늘 표상 위에서 돌아갔다. 논문은 연구를, 초록은 논문을, 인용은 저작 사이의 관계를 표상한다. 표상 자체가 최적화 대상이 되면 AI는 학문과의 거리를 더 벌릴 수 있다. 모델은 근거를 이해하지 못한 채 논문을 그럴듯하게 요약하고, 검증할 수 없는 인용을 그럴듯하게 지어내기도 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+                "cap": "그림 2. 도구에서 에이전트로 갈수록 거버넌스도 역량을 따라가야 한다."
               },
               {
                 "t": "p",
-                "x": "도서관의 유일한 정규직 사서 Shea Wert에 따르면, 예약 없이 들르면 되는 이 프로그램은 이용자들이 거듭 불만을 털어놓으면서 시작됐다. “Gmail 자동 답장과 자동 완성 때문에 사람들이 정말 답답해한다.”"
-              },
-              {
-                "t": "p",
-                "x": "도서관은 4월에 “AI for seniors” 강좌도 열었다. Wert도 AI 자체를 크게 반대하지는 않는다고 말한다. 도움을 청하러 오는 사람은 대부분 노년층이다."
-              },
-              {
-                "t": "p",
-                "x": "이번 행사는 사서 Hannah Cyrus가 연 AI 도구 끄기 무료 강좌에서 영감을 받았다. Cyrus는 “도서관은 이용자의 기술 수용을 돕는 것만큼이나 기술 거부를 돕는 데에도 맡을 역할이 있다”고 썼다. 그는 “전 세계 수백 명의 사서에게서 발표 슬라이드를 보내 달라는 연락을 받았다”고 한다."
+                "x": "AI가 도구에서 에이전트로 옮겨가면 질문도 역량에서 행위 주체성으로 넘어간다. 필자는 AI로 수고를 덜되 전부 덜지는 말라고, 표상 자체를 의심할 수 있는 사람의 능력을 지키라고 촉구한다. 기계가 처리에 능해질수록 우리는 지각에 능해져야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ニューヨークの図書館\nAIオフを手助け",
-          "body": "ニューヨーク州北部の図書館が、スマホやパソコンのAI機能を切る手伝いで話題になった。",
-          "mini_headline": "AIオフを手伝う図書館",
+          "headline": "AI出版では、\n論文は学問そのものではない",
+          "body": "AIは限られた認知を増幅し、論文を学問と取り違えさせると本稿は論じる。",
+          "mini_headline": "論文は学問ではない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AIの問題は、機械がより賢くなっていることではないのかもしれない。むしろ、私たちが非常に有能だが限られた形の認知を増幅することに長けつつあることにある。AIは既知のものを組み替えることはできるが、組み替えは創造性や洞察と同じではない。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-                "cap": "スマートフォンを使う人。"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+                "cap": "図1. 思考の能力と、知性に結びつく資質の対比。"
               },
               {
                 "t": "p",
-                "x": "ニューヨーク州(New York)北部の公共図書館が、一風変わった技術支援で話題を集めている。スマートフォンやパソコンのAI機能をオフにする手伝いだ。カード登録者約800人のNorth Chatham Free Libraryが「Bye Bye AI」のチラシを掲示すると、小さな村をはるかに越えて反響が広がった。"
+                "x": "学術コミュニケーションは常に表象の上に成り立ってきた。論文は研究を、抄録は論文を、引用は著作間の関係を表す。表象そのものが最適化の対象になると、AIは学問そのものとの距離を広げかねない。モデルは根拠を理解しないまま論文をもっともらしく要約したり、もっともらしいが検証できない引用を生成したりできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+                "cap": "図2. ツールからエージェントへ。ガバナンスは能力の進歩に歩調を合わせる必要がある。"
               },
               {
                 "t": "p",
-                "x": "同館で唯一の常勤司書Shea Wertによると、予約不要のこのプログラムは利用者から繰り返し寄せられた不満から生まれた。「Gmailの自動返信や自動補完に、みんな本当にいら立っている」"
-              },
-              {
-                "t": "p",
-                "x": "同館は4月に「AI for seniors」講座も開いており、Wert自身はAIに全面的に反対しているわけではないという。助けを求めに来るのは主に高齢者だ。"
-              },
-              {
-                "t": "p",
-                "x": "AIツールを無効にする無料講座でこの催しのきっかけをつくった司書Hannah Cyrusは、「図書館には、利用者が技術を取り入れるのを助けるのと同じくらい、技術を拒むのを助ける役割もある」と書いた。Cyrusは「世界中の何百人もの司書から、発表スライドを求める連絡を受けた」という。"
+                "x": "AIがツールからエージェントへと移るにつれ、問いは能力からエージェンシー(主体性)へと移る。筆者は、AIで労力の一部は減らしても全部は減らさず、人間が表象そのものを問い直せる状態を保つよう促す。機械が処理に長けるほど、私たちは知覚に長けなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "纽约一家图书馆\n帮人关掉AI",
-          "body": "纽约州北部一家图书馆因帮读者关闭手机和电脑上的AI功能而走红。",
-          "mini_headline": "图书馆帮人关掉AI",
+          "headline": "AI出版中，\n论文不等于学术本身",
+          "body": "文章认为，AI放大了一种有限的认知，诱使我们把论文误当作学术本身。",
+          "mini_headline": "论文不等于学术",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI的问题或许不在于机器越来越聪明，而在于我们越来越擅长放大一种能力很强却有限的认知形式。AI能够重组已知的东西，但重组并不等同于创造力或洞见。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-                "cap": "一个正在使用智能手机的人。"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+                "cap": "图1：思维的能力与智能相关特质的对比。"
               },
               {
                 "t": "p",
-                "x": "纽约州(New York)北部一家公共图书馆因提供一种不寻常的技术帮助而走红：帮人们关闭手机和电脑上的AI功能。服务约800名持卡读者的North Chatham Free Library贴出一张“Bye Bye AI”传单，引发的反响远远超出了这个小村庄。"
+                "x": "学术交流向来依赖表征：论文表征一项研究，摘要表征论文，引用表征作品之间的关系。当表征本身成为我们优化的对象，AI可能拉大与学术本身的距离。模型可以在不理解证据的情况下令人信服地总结一篇论文，或生成看似合理却无法核实的引用。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+                "cap": "图2：从工具到智能体，治理需要跟上能力的步伐。"
               },
               {
                 "t": "p",
-                "x": "馆里唯一的全职馆员Shea Wert说，这项随到随学的活动源于读者的反复抱怨：“Gmail的自动回复和自动补全真的让人很恼火。”"
-              },
-              {
-                "t": "p",
-                "x": "今年4月，该馆还办过一场“AI for seniors”讲座，Wert表示她并非全面反对AI。前来求助的大多是老年人。"
-              },
-              {
-                "t": "p",
-                "x": "馆员Hannah Cyrus开设的关闭AI工具免费课程启发了这次活动。她写道：“图书馆既要帮助读者接纳技术，也同样要帮助他们拒绝技术。”她说自己“收到了来自世界各地数百名馆员索要演示幻灯片的消息”。"
+                "x": "随着AI从工具走向智能体，问题也从能力转向能动性。作者呼吁用AI减少一部分而非全部的努力，并让人类保有质疑表征本身的能力。机器越擅长处理，我们就越需要擅长感知。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una biblioteca de Nueva York\nayuda a desactivar la AI",
-          "body": "Una biblioteca del norte de Nueva York se hizo viral por ayudar a desactivar la AI de teléfonos y computadoras.",
-          "mini_headline": "Una biblioteca ayuda a desactivar la AI",
+          "headline": "Edición con AI: el artículo\nno es el saber académico",
+          "body": "El ensayo sostiene que la AI amplifica una cognición limitada y nos tienta a confundir el artículo con el saber.",
+          "mini_headline": "El artículo no es el saber",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El problema de la AI quizá no sea que las máquinas se vuelvan más inteligentes, sino que nos estamos volviendo hábiles en amplificar una forma de cognición muy capaz, pero limitada. La AI puede recombinar lo que ya se sabe; la recombinación no equivale a creatividad ni a perspicacia."
+              },
+              {
                 "t": "img",
-                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-                "cap": "Una persona usando un teléfono inteligente."
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+                "cap": "Figura 1. Las capacidades del pensamiento frente a las cualidades asociadas a la inteligencia."
               },
               {
                 "t": "p",
-                "x": "Una biblioteca pública del norte del estado de Nueva York (New York) se ha hecho viral por ofrecer un tipo inusual de asistencia tecnológica: ayudar a la gente a desactivar las funciones de AI de sus teléfonos y computadoras. La North Chatham Free Library, que atiende a unos 800 titulares de carné, publicó un folleto “Bye Bye AI” que generó reacciones mucho más allá de la pequeña localidad."
+                "x": "La comunicación académica siempre ha funcionado con representaciones: un artículo representa una investigación; un resumen, el artículo; una cita, una relación entre obras. Cuando la representación se convierte en el objeto que optimizamos, la AI puede ampliar la distancia respecto del propio trabajo académico. Un modelo puede resumir un artículo de forma convincente sin entender su evidencia, o generar citas plausibles pero imposibles de verificar."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+                "cap": "Figura 2. De herramienta a agente: la gobernanza debe avanzar al ritmo de la capacidad."
               },
               {
                 "t": "p",
-                "x": "Shea Wert, la única bibliotecaria a tiempo completo de la biblioteca, dijo que el programa sin cita previa surgió de las quejas reiteradas de los usuarios: “Las respuestas automáticas y el autocompletado de Gmail frustran mucho a la gente”."
-              },
-              {
-                "t": "p",
-                "x": "En abril, la biblioteca también organizó una sesión “AI for seniors”, y Wert dice que no se opone a la AI en general. Las personas mayores son la mayoría de quienes buscan ayuda."
-              },
-              {
-                "t": "p",
-                "x": "La bibliotecaria Hannah Cyrus, cuyas clases gratuitas para desactivar herramientas de AI inspiraron el evento, escribió que “las bibliotecas tienen un papel que cumplir para facilitar que los usuarios rechacen la tecnología, tanto como para que la adopten”. Cyrus ha “recibido mensajes de cientos de bibliotecarios de todo el mundo que me piden mis diapositivas”."
+                "x": "A medida que la AI pasa de herramienta a agente, la pregunta pasa de la capacidad a la agencia. El autor insta a usar la AI para reducir parte del esfuerzo, pero no todo, y a mantener la capacidad humana de cuestionar la propia representación. A medida que las máquinas procesan mejor, nosotros necesitamos percibir mejor."
               }
             ]
           }
@@ -963,125 +527,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "뉴욕의 한 도서관,\nAI 끄기를 돕다",
-          "body": "뉴욕주 북부의 한 도서관이 휴대폰과 컴퓨터의 AI 기능 끄기를 도와 화제가 됐다.",
-          "mini_headline": "AI 끄기 돕는 도서관",
+          "headline": "AI 출판에서 논문은\n학문 그 자체가 아니다",
+          "body": "이 에세이는 AI가 제한된 인지를 증폭해 논문을 학문으로 착각하게 만든다고 본다.",
+          "mini_headline": "논문은 학문이 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI의 문제는 기계가 더 똑똑해진다는 데 있지 않을지도 모른다. 오히려 우리가 뛰어나지만 한정된 형태의 인지를 증폭하는 데 능숙해지고 있다는 점이 문제일 수 있다. AI는 이미 알려진 것을 재조합할 수 있지만, 재조합은 창의성이나 통찰과 같지 않다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-                "cap": "스마트폰을 쓰는 사람."
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+                "cap": "그림 1. 사고의 능력과 지능에 결부된 특성의 비교."
               },
               {
                 "t": "p",
-                "x": "뉴욕주(New York) 북부의 한 공공도서관이 색다른 기술 지원으로 화제가 됐다. 휴대폰과 컴퓨터의 AI 기능을 끌 수 있게 도와주는 것이다. 카드 소지자 약 800명이 이용하는 North Chatham Free Library가 “Bye Bye AI” 전단을 올리자, 작은 마을을 훨씬 넘어선 곳에서까지 반응이 쏟아졌다."
+                "x": "학술 커뮤니케이션은 늘 표상 위에서 돌아갔다. 논문은 연구를, 초록은 논문을, 인용은 저작 사이의 관계를 표상한다. 표상 자체가 최적화의 대상이 되면 AI는 학문 그 자체와의 거리를 더 벌릴 수 있다. 모델은 근거를 이해하지 못한 채 논문을 그럴듯하게 요약하거나, 그럴듯하지만 검증할 수 없는 인용을 만들어낼 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+                "cap": "그림 2. 도구에서 에이전트로 나아가는 만큼 거버넌스도 역량에 발맞춰야 한다."
               },
               {
                 "t": "p",
-                "x": "이 도서관의 유일한 정규직 사서 Shea Wert는 예약 없이 들르는 이 프로그램이 이용자들의 거듭된 불만에서 출발했다고 말했다. “Gmail 자동 답장과 자동 완성 때문에 사람들이 정말 답답해한다.”"
-              },
-              {
-                "t": "p",
-                "x": "도서관은 4월에 “AI for seniors” 강좌도 열었고, Wert는 AI 자체에 크게 반대하지는 않는다고 말한다. 도움을 청하는 사람은 대부분 노년층이다."
-              },
-              {
-                "t": "p",
-                "x": "AI 도구를 끄는 무료 강좌로 이번 행사에 영감을 준 사서 Hannah Cyrus는 “도서관은 이용자의 기술 수용을 돕는 것만큼이나 기술 거부를 돕는 데에도 맡을 역할이 있다”고 썼다. Cyrus는 “전 세계 수백 명의 사서에게서 발표 슬라이드를 보내 달라는 연락을 받았다”고 한다."
+                "x": "AI가 도구에서 에이전트로 옮겨가면서 질문도 역량에서 행위 주체성으로 옮겨간다. 필자는 AI로 수고의 일부를 덜되 전부를 덜지는 말고, 사람이 표상 자체에 의문을 던질 수 있는 능력을 지켜야 한다고 촉구한다. 기계가 처리에 능해질수록 우리는 지각에 능해져야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ニューヨークの図書館\nAIオフを手助け",
-          "body": "ニューヨーク州北部の図書館が、スマホやパソコンのAI機能を切る手伝いで話題になった。",
-          "mini_headline": "AIオフを手伝う図書館",
+          "headline": "AI出版では、\n論文は学問そのものではない",
+          "body": "AIは限られた認知を増幅し、論文を学問と取り違えさせると本稿は論じる。",
+          "mini_headline": "論文は学問ではない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AIの問題は、機械がより賢くなっていることではないのかもしれない。むしろ、私たちが非常に有能だが限られた形の認知を増幅することに長けつつあることにある。AIは既知のものを組み替えることはできるが、組み替えは創造性や洞察と同じではない。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-                "cap": "スマートフォンを使う人。"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+                "cap": "図1. 思考の能力と、知性に結びつく資質の対比。"
               },
               {
                 "t": "p",
-                "x": "ニューヨーク州(New York)北部の公共図書館が、一風変わった技術支援で話題を集めている。スマートフォンやパソコンのAI機能をオフにする手伝いだ。カード登録者約800人のNorth Chatham Free Libraryが「Bye Bye AI」のチラシを掲示すると、小さな村をはるかに越えて反響が広がった。"
+                "x": "学術コミュニケーションは常に表象の上に成り立ってきた。論文は研究を、抄録は論文を、引用は著作間の関係を表す。表象そのものが最適化の対象になると、AIは学問そのものとの距離を広げかねない。モデルは根拠を理解しないまま論文をもっともらしく要約したり、もっともらしいが検証できない引用を生成したりできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+                "cap": "図2. ツールからエージェントへ。ガバナンスは能力の進歩に歩調を合わせる必要がある。"
               },
               {
                 "t": "p",
-                "x": "同館で唯一の常勤司書Shea Wertによると、予約不要のこのプログラムは利用者から繰り返し寄せられた不満から生まれた。「Gmailの自動返信や自動補完に、みんな本当にいら立っている」"
-              },
-              {
-                "t": "p",
-                "x": "同館は4月に「AI for seniors」講座も開いており、Wert自身はAIに全面的に反対しているわけではないという。助けを求めに来るのは主に高齢者だ。"
-              },
-              {
-                "t": "p",
-                "x": "AIツールを無効にする無料講座でこの催しのきっかけをつくった司書Hannah Cyrusは、「図書館には、利用者が技術を取り入れるのを助けるのと同じくらい、技術を拒むのを助ける役割もある」と書いた。Cyrusは「世界中の何百人もの司書から、発表スライドを求める連絡を受けた」という。"
+                "x": "AIがツールからエージェントへと移るにつれ、問いは能力からエージェンシー(主体性)へと移る。筆者は、AIで労力の一部は減らしても全部は減らさず、人間が表象そのものを問い直せる状態を保つよう促す。機械が処理に長けるほど、私たちは知覚に長けなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "纽约一家图书馆\n帮人关掉AI",
-          "body": "纽约州北部一家图书馆因帮读者关闭手机和电脑上的AI功能而走红。",
-          "mini_headline": "图书馆帮人关掉AI",
+          "headline": "AI出版中，\n论文不等于学术本身",
+          "body": "文章认为，AI放大了一种有限的认知，诱使我们把论文误当作学术本身。",
+          "mini_headline": "论文不等于学术",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI的问题或许不在于机器越来越聪明，而在于我们越来越擅长放大一种能力很强却有限的认知形式。AI能够重组已知的东西，但重组并不等同于创造力或洞见。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-                "cap": "一个正在使用智能手机的人。"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+                "cap": "图1：思维的能力与智能相关特质的对比。"
               },
               {
                 "t": "p",
-                "x": "纽约州(New York)北部一家公共图书馆因提供一种不寻常的技术帮助而走红：帮人们关闭手机和电脑上的AI功能。服务约800名持卡读者的North Chatham Free Library贴出一张“Bye Bye AI”传单，引发的反响远远超出了这个小村庄。"
+                "x": "学术交流向来依赖表征：论文表征一项研究，摘要表征论文，引用表征作品之间的关系。当表征本身成为我们优化的对象，AI可能拉大与学术本身的距离。模型可以在不理解证据的情况下令人信服地总结一篇论文，或生成看似合理却无法核实的引用。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+                "cap": "图2：从工具到智能体，治理需要跟上能力的步伐。"
               },
               {
                 "t": "p",
-                "x": "馆里唯一的全职馆员Shea Wert说，这项随到随学的活动源于读者的反复抱怨：“Gmail的自动回复和自动补全真的让人很恼火。”"
-              },
-              {
-                "t": "p",
-                "x": "今年4月，该馆还办过一场“AI for seniors”讲座，Wert表示她并非全面反对AI。前来求助的大多是老年人。"
-              },
-              {
-                "t": "p",
-                "x": "馆员Hannah Cyrus开设的关闭AI工具免费课程启发了这次活动。她写道：“图书馆既要帮助读者接纳技术，也同样要帮助他们拒绝技术。”她说自己“收到了来自世界各地数百名馆员索要演示幻灯片的消息”。"
+                "x": "随着AI从工具走向智能体，问题也从能力转向能动性。作者呼吁用AI减少一部分而非全部的努力，并让人类保有质疑表征本身的能力。机器越擅长处理，我们就越需要擅长感知。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una biblioteca de Nueva York\nayuda a desactivar la AI",
-          "body": "Una biblioteca del norte de Nueva York se hizo viral por ayudar a desactivar la AI de teléfonos y computadoras.",
-          "mini_headline": "Una biblioteca ayuda a desactivar la AI",
+          "headline": "Edición con AI: el artículo\nno es el saber académico",
+          "body": "El ensayo sostiene que la AI amplifica una cognición limitada y nos tienta a confundir el artículo con el saber.",
+          "mini_headline": "El artículo no es el saber",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El problema de la AI quizá no sea que las máquinas se vuelvan más inteligentes, sino que nos estamos volviendo hábiles en amplificar una forma de cognición muy capaz, pero limitada. La AI puede recombinar lo que ya se sabe; la recombinación no equivale a creatividad ni a perspicacia."
+              },
+              {
                 "t": "img",
-                "src": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-                "cap": "Una persona usando un teléfono inteligente."
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+                "cap": "Figura 1. Las capacidades del pensamiento frente a las cualidades asociadas a la inteligencia."
               },
               {
                 "t": "p",
-                "x": "Una biblioteca pública del norte del estado de Nueva York (New York) se ha hecho viral por ofrecer un tipo inusual de asistencia tecnológica: ayudar a la gente a desactivar las funciones de AI de sus teléfonos y computadoras. La North Chatham Free Library, que atiende a unos 800 titulares de carné, publicó un folleto “Bye Bye AI” que generó reacciones mucho más allá de la pequeña localidad."
+                "x": "La comunicación académica siempre ha funcionado con representaciones: un artículo representa una investigación; un resumen, el artículo; una cita, una relación entre obras. Cuando la representación se convierte en el objeto que optimizamos, la AI puede ampliar la distancia respecto del propio trabajo académico. Un modelo puede resumir un artículo de forma convincente sin entender su evidencia, o generar citas plausibles pero imposibles de verificar."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+                "cap": "Figura 2. De herramienta a agente: la gobernanza debe avanzar al ritmo de la capacidad."
               },
               {
                 "t": "p",
-                "x": "Shea Wert, la única bibliotecaria a tiempo completo de la biblioteca, dijo que el programa sin cita previa surgió de las quejas reiteradas de los usuarios: “Las respuestas automáticas y el autocompletado de Gmail frustran mucho a la gente”."
-              },
-              {
-                "t": "p",
-                "x": "En abril, la biblioteca también organizó una sesión “AI for seniors”, y Wert dice que no se opone a la AI en general. Las personas mayores son la mayoría de quienes buscan ayuda."
-              },
-              {
-                "t": "p",
-                "x": "La bibliotecaria Hannah Cyrus, cuyas clases gratuitas para desactivar herramientas de AI inspiraron el evento, escribió que “las bibliotecas tienen un papel que cumplir para facilitar que los usuarios rechacen la tecnología, tanto como para que la adopten”. Cyrus ha “recibido mensajes de cientos de bibliotecarios de todo el mundo que me piden mis diapositivas”."
+                "x": "A medida que la AI pasa de herramienta a agente, la pregunta pasa de la capacidad a la agencia. El autor insta a usar la AI para reducir parte del esfuerzo, pero no todo, y a mantener la capacidad humana de cuestionar la propia representación. A medida que las máquinas procesan mejor, nosotros necesitamos percibir mejor."
               }
             ]
           }
@@ -1089,15 +657,287 @@
       }
     },
     {
-      "id": "shelf-reading-bots-libraries-ht",
+      "id": "proyecto451-publisher-ai-policy-review",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "서가 점검 봇과 AI\n도서관을 바꾸다",
-      "body": "세계 곳곳의 shelf-reading 봇과 AI 목록화가 대출 방식을 바꾼다.",
-      "mini_headline": "도서관을 바꾸는 봇",
+      "headline": "출판사 AI의 갈림길\n라이선스냐 자체 구축이냐",
+      "body": "Proyecto451이 본 40+ 출판사 AI 전략은 라이선스와 in-house다.",
+      "mini_headline": "출판사의 두 갈래 AI 전략",
       "tool": "Books",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/lifestyle/art-culture/booksmart-and-shelf-aware-how-ai-and-bots-are-changing-libraries-101790935951543.html",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-5th-2026/",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+          },
+          {
+            "t": "p",
+            "x": "Proyecto451이 40곳이 넘는 출판사의 AI 정책을 검토해 보니 전략은 크게 두 갈래였다. 카탈로그를 AI 기업에 라이선스하거나, 카탈로그를 내부(in-house)에 두고 독자 도구를 만든다."
+          },
+          {
+            "t": "p",
+            "x": "Carlo Carrenho의 정리에 따르면 De Marque는 ElevenLabs와 손잡았다. 자사 Cantook Édition 플랫폼의 출판사들이 고른 책을 ElevenReader에서 오디오로 제공하게 했다. ElevenLabs는 이미 Bookwire, StreetLib 같은 애그리게이터와 협력하며 한 권씩이 아니라 파트너 단위로 AI 낭독(AI-narrated) 카탈로그를 넓히는 중이다."
+          },
+          {
+            "t": "p",
+            "x": "노르웨이 신인 작가 Fabian Heffermehl은 소설이 AI가 아니라 자기 삶과 언어, 몸에서 나왔음을 보이려고 소설 전체를 손으로 썼다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Publishers split on AI:\nlicense out or build in",
+          "body": "A Proyecto451 review of 40+ publishers' AI policies finds two paths: license catalogs to AI firms or build in-house.",
+          "mini_headline": "Publishers' two AI paths",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+              },
+              {
+                "t": "p",
+                "x": "An AI crossroads: a Proyecto451 review of the AI policies of more than 40 publishers identified two main strategies — licensing their catalogues to AI companies, or keeping them in-house to build proprietary tools."
+              },
+              {
+                "t": "p",
+                "x": "Elsewhere in Carlo Carrenho's roundup, De Marque partnered with ElevenLabs so publishers on its Cantook Édition platform can make selected books available in audio through ElevenReader. ElevenLabs already works with aggregators such as Bookwire and StreetLib, scaling its AI-narrated catalog through partners rather than title by title."
+              },
+              {
+                "t": "p",
+                "x": "And Norwegian debut author Fabian Heffermehl wrote his entire novel by hand to demonstrate that it came from his own life, words and body — not AI."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "출판사 AI의 갈림길\n라이선스냐 자체 구축이냐",
+          "body": "Proyecto451이 본 40+ 출판사 AI 전략은 라이선스와 in-house다.",
+          "mini_headline": "출판사의 두 갈래 AI 전략",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+              },
+              {
+                "t": "p",
+                "x": "Proyecto451이 40곳이 넘는 출판사의 AI 정책을 검토해 보니 전략은 크게 두 갈래였다. 카탈로그를 AI 기업에 라이선스하거나, 카탈로그를 내부(in-house)에 두고 독자 도구를 만든다."
+              },
+              {
+                "t": "p",
+                "x": "Carlo Carrenho의 정리에 따르면 De Marque는 ElevenLabs와 손잡았다. 자사 Cantook Édition 플랫폼의 출판사들이 고른 책을 ElevenReader에서 오디오로 제공하게 했다. ElevenLabs는 이미 Bookwire, StreetLib 같은 애그리게이터와 협력하며 한 권씩이 아니라 파트너 단위로 AI 낭독(AI-narrated) 카탈로그를 넓히는 중이다."
+              },
+              {
+                "t": "p",
+                "x": "노르웨이 신인 작가 Fabian Heffermehl은 소설이 AI가 아니라 자기 삶과 언어, 몸에서 나왔음을 보이려고 소설 전체를 손으로 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "出版社のAI戦略は二択\nライセンスか自社開発か",
+          "body": "Proyecto451調査で40超の出版社AI方針はライセンスかin-houseかの二択だ。",
+          "mini_headline": "出版社のAI、二つの道",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+              },
+              {
+                "t": "p",
+                "x": "AIの岐路：Proyecto451が40を超える出版社のAI方針を調べたところ、主な戦略は二つあった。カタログをAI企業にライセンス供与するか、社内(in-house)にとどめて独自ツールを開発するかである。"
+              },
+              {
+                "t": "p",
+                "x": "Carlo Carrenhoのまとめによると、De MarqueはElevenLabsと提携し、同社のCantook Éditionプラットフォームを使う出版社が、選んだ書籍をElevenReaderでオーディオとして提供できるようにした。ElevenLabsはすでにBookwireやStreetLibといったアグリゲーターと組んでおり、タイトル単位ではなくパートナーを通じてAI-narrated(AIによる朗読)のカタログを拡大している。"
+              },
+              {
+                "t": "p",
+                "x": "そしてノルウェーの新人作家Fabian Heffermehlは、作品がAIではなく自らの人生と言葉と身体から生まれたことを示すため、小説をすべて手書きで書き上げた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "出版商AI路线分化：\n对外授权还是自建",
+          "body": "Proyecto451梳理40多家出版商AI政策，路线分为对外授权与in-house自建。",
+          "mini_headline": "出版商的两条AI路线",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+              },
+              {
+                "t": "p",
+                "x": "AI十字路口：Proyecto451审视了40多家出版商的AI政策，发现两大主要策略——将书目内容授权给AI公司，或将其留在内部(in-house)以开发专有工具。"
+              },
+              {
+                "t": "p",
+                "x": "在Carlo Carrenho的综述中，De Marque与ElevenLabs合作，使其Cantook Édition平台上的出版商能够通过ElevenReader以音频形式提供精选图书。ElevenLabs已与Bookwire、StreetLib等聚合平台合作，通过合作伙伴而非逐本扩充其AI-narrated(AI朗读)书目。"
+              },
+              {
+                "t": "p",
+                "x": "此外，挪威新人作家Fabian Heffermehl手写完成了整部小说，以证明作品源自他自己的生活、文字和身体——而非AI。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Editoriales ante la AI:\nlicenciar o crear en casa",
+          "body": "Proyecto451 revisó las políticas de AI de 40+ editoriales y halló dos vías: licenciar a firmas de AI o crear in-house.",
+          "mini_headline": "Dos caminos editoriales ante la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+              },
+              {
+                "t": "p",
+                "x": "Una encrucijada de la AI: una revisión de Proyecto451 de las políticas de AI de más de 40 editoriales identificó dos estrategias principales: licenciar sus catálogos a empresas de AI o mantenerlos in-house para desarrollar herramientas propias."
+              },
+              {
+                "t": "p",
+                "x": "En otro punto del resumen de Carlo Carrenho, De Marque se asoció con ElevenLabs para que las editoriales de su plataforma Cantook Édition puedan ofrecer libros seleccionados en audio a través de ElevenReader. ElevenLabs ya trabaja con agregadores como Bookwire y StreetLib, y amplía su catálogo AI-narrated mediante socios en lugar de título por título."
+              },
+              {
+                "t": "p",
+                "x": "Y el autor noruego debutante Fabian Heffermehl escribió a mano toda su novela para demostrar que surgió de su propia vida, sus palabras y su cuerpo, no de la AI."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "출판사의 AI 갈림길:\n라이선스냐 자체 구축이냐",
+          "body": "Proyecto451이 본 40+ 출판사 AI 길은 라이선스와 in-house다.",
+          "mini_headline": "출판사의 두 갈래 AI 전략",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+              },
+              {
+                "t": "p",
+                "x": "AI 갈림길: Proyecto451이 40곳이 넘는 출판사의 AI 정책을 검토한 결과, 두 가지 주요 전략이 드러났다. 카탈로그를 AI 기업에 라이선스하거나, 카탈로그를 내부(in-house)에 두고 독자 도구를 만드는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "Carlo Carrenho의 정리에 따르면, De Marque는 ElevenLabs와 손잡고 자사 Cantook Édition 플랫폼의 출판사들이 선택한 책을 ElevenReader에서 오디오로 제공할 수 있게 했다. ElevenLabs는 이미 Bookwire, StreetLib 같은 애그리게이터와 협력하며, 한 권씩이 아니라 파트너를 통해 AI 낭독(AI-narrated) 카탈로그를 넓히고 있다."
+              },
+              {
+                "t": "p",
+                "x": "노르웨이의 신인 작가 Fabian Heffermehl은 소설이 AI가 아니라 자신의 삶과 언어, 몸에서 나왔음을 보여주려고 소설 전체를 손으로 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "出版社のAI戦略は二択\nライセンスか自社開発か",
+          "body": "Proyecto451調査で40超の出版社AI方針はライセンスかin-houseかの二択だ。",
+          "mini_headline": "出版社のAI、二つの道",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+              },
+              {
+                "t": "p",
+                "x": "AIの岐路：Proyecto451が40を超える出版社のAI方針を調べたところ、主な戦略は二つあった。カタログをAI企業にライセンス供与するか、社内(in-house)にとどめて独自ツールを開発するかである。"
+              },
+              {
+                "t": "p",
+                "x": "Carlo Carrenhoのまとめによると、De MarqueはElevenLabsと提携し、同社のCantook Éditionプラットフォームを使う出版社が、選んだ書籍をElevenReaderでオーディオとして提供できるようにした。ElevenLabsはすでにBookwireやStreetLibといったアグリゲーターと組んでおり、タイトル単位ではなくパートナーを通じてAI-narrated(AIによる朗読)のカタログを拡大している。"
+              },
+              {
+                "t": "p",
+                "x": "そしてノルウェーの新人作家Fabian Heffermehlは、作品がAIではなく自らの人生と言葉と身体から生まれたことを示すため、小説をすべて手書きで書き上げた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "出版商AI路线分化：\n对外授权还是自建",
+          "body": "Proyecto451梳理40多家出版商AI政策，路线分为对外授权与in-house自建。",
+          "mini_headline": "出版商的两条AI路线",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+              },
+              {
+                "t": "p",
+                "x": "AI十字路口：Proyecto451审视了40多家出版商的AI政策，发现两大主要策略——将书目内容授权给AI公司，或将其留在内部(in-house)以开发专有工具。"
+              },
+              {
+                "t": "p",
+                "x": "在Carlo Carrenho的综述中，De Marque与ElevenLabs合作，使其Cantook Édition平台上的出版商能够通过ElevenReader以音频形式提供精选图书。ElevenLabs已与Bookwire、StreetLib等聚合平台合作，通过合作伙伴而非逐本扩充其AI-narrated(AI朗读)书目。"
+              },
+              {
+                "t": "p",
+                "x": "此外，挪威新人作家Fabian Heffermehl手写完成了整部小说，以证明作品源自他自己的生活、文字和身体——而非AI。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Editoriales ante la AI:\nlicenciar o crear en casa",
+          "body": "Proyecto451 revisó las políticas de AI de 40+ editoriales y halló dos vías: licenciar a firmas de AI o crear in-house.",
+          "mini_headline": "Dos caminos editoriales ante la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+              },
+              {
+                "t": "p",
+                "x": "Una encrucijada de la AI: una revisión de Proyecto451 de las políticas de AI de más de 40 editoriales identificó dos estrategias principales: licenciar sus catálogos a empresas de AI o mantenerlos in-house para desarrollar herramientas propias."
+              },
+              {
+                "t": "p",
+                "x": "En otro punto del resumen de Carlo Carrenho, De Marque se asoció con ElevenLabs para que las editoriales de su plataforma Cantook Édition puedan ofrecer libros seleccionados en audio a través de ElevenReader. ElevenLabs ya trabaja con agregadores como Bookwire y StreetLib, y amplía su catálogo AI-narrated mediante socios en lugar de título por título."
+              },
+              {
+                "t": "p",
+                "x": "Y el autor noruego debutante Fabian Heffermehl escribió a mano toda su novela para demostrar que surgió de su propia vida, sus palabras y su cuerpo, no de la AI."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "lithub-ai-writing-spiritual-practice-essay",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "인간 작가에겐 있고\nAI에겐 없는 것",
+      "body": "이 글은 작가가 AI를 앞서는 힘을 기교가 아닌 영적 삶과 꾸준한 실천에서 찾는다.",
+      "mini_headline": "AI가 못 가진 작가의 힘",
+      "tool": "Books",
+      "source": "Literary Hub",
+      "url": "https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/",
       "accent": "#ff5a4d",
       "motif": "swatch",
       "full": {
@@ -1105,209 +945,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-            "cap": "싱가포르 National Library Board가 운영하는 도서관의 shelf-reading 로봇. (NLB Singapore)"
+            "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
           },
           {
             "t": "p",
-            "x": "세계 곳곳의 도서관에서 shelf-reading 봇과 AI 목록화가 책 빌리는 방식을 바꿔 놓는 중이다."
+            "x": "문학계가 마침내 묻기 시작했다. 인간 작가는 할 수 있고 인공지능은 못 하는 일은 무엇인가. 답은 대개 목소리, 삶의 경험, 감정의 결을 맴돈다. 그 밑에는 문학 문화가 피해 온 단어가 있다. 영혼이다."
           },
           {
             "t": "p",
-            "x": "상하이 Changning District Library에서는 디지털 휴먼 아바타 Xin Ye가 대출 기록을 보고 책을 추천하고 좌석을 잡아 주며 로봇을 시켜 책을 배달한다. Beijing Library의 자동 검색 시스템은 8 million 권이 넘는 장서 가운데 고른 책을 15분 안에 가져다준다. 대만 NLPI는 2023년 생성형 AI(generative-AI) ‘사서’ Xiao-Shu를 도입했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-            "cap": "Beijing Library 내부에는 실내 기후와 조명, 음향을 조절하는 센서 기둥이 서 있다. (Snohetta)"
+            "x": "AI는 도서관의 책을 모두 집어삼키고 우리 문장 구조를 그대로 뱉어낼 수 있다. 그래도 이름 붙일 수 없는 무언가를 갈망하거나, 사랑하고 잃어본 적 없는 아버지를 애도하지는 못한다. Charlotte Donlon은 AI 시대에 복제할 수 없는 유일한 것이 작가의 영혼인데, 우리는 아직 그것을 돌볼 기반을 마련하지 못했다고 주장한다."
           },
           {
             "t": "p",
-            "x": "싱가포르 National Library Board 도서관에서는 로봇이 매일 밤 RFID 태그(RFID-tagged)가 붙은 책을 스캔해 두었다가 아침에 잘못 꽂힌 책을 알려 준다. 이걸로 직원들이 해마다 아끼는 업무 시간이 최대 3,500시간이다."
-          },
-          {
-            "t": "p",
-            "x": "추천 알고리즘은 이미 좋아하는 것을 더 보여 줄 뿐이지만 도서관은 원하는 줄도 몰랐던 책을 소개하기도 한다. 핀란드 곳곳의 도서관이 여전히 AI를 두고 고민하는 큰 이유는 개인정보 보호다. 애널리스트 Kashyap Kompella는 “시스템이 더 많이 알수록… 다음에 원하는 것을 더 잘 예측할 수 있다”고 말한다."
+            "x": "Donlon은 문학 콘퍼런스에 내면의 삶과 지속 가능한 창작 실천을 다루는 세션을, MFA 과정에 관조에 관한 선택 과목을 두자고 제안한다. 레지던시는 떠나 있는 시간을 영혼 돌봄(soul-tending)으로 존중하자고 한다. “AI는 나아지겠지만, 진정한 갈망이나 슬픔, 윤리적 자기 성찰(self-interrogation)의 능력은 결코 갖추지 못할 것이다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Shelf-reading bots and AI\nreshape the library",
-          "body": "Around the world, shelf-reading bots and AI cataloguing are changing the way people borrow from libraries.",
-          "mini_headline": "Bots reshape\nthe library",
+          "headline": "What human writers have\nthat AI cannot",
+          "body": "The essay argues a human writer's edge over AI lies not in technique but in spiritual life and sustainable practice.",
+          "mini_headline": "Writing's edge over AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-                "cap": "The shelf-reading bot at Singapore’s National Library Board-operated libraries. (NLB Singapore)"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
               },
               {
                 "t": "p",
-                "x": "Around the world, shelf-reading bots and AI cataloguing are changing the way we borrow from libraries."
+                "x": "The literary world is finally asking what a human writer can do that artificial intelligence cannot. The answers tend to circle around voice, lived experience and emotional nuance, but underneath sits a word literary culture has avoided: soul."
               },
               {
                 "t": "p",
-                "x": "In Shanghai’s Changning District Library, a digital human avatar, Xin Ye, recommends books from borrowing records, books seats and has a robot deliver titles. The Beijing Library’s automated retrieval system delivers a chosen title from over 8 million books in under 15 minutes. Taiwan’s NLPI added a generative-AI “librarian”, Xiao-Shu, in 2023."
-              },
-              {
-                "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-                "cap": "The Beijing Library’s interiors have sensor-enabled columns that regulate climate, lighting and acoustics. (Snohetta)"
+                "x": "AI can ingest every book in a library and spit our syntax back out, but it cannot long for something it cannot name or grieve a father it has not loved and lost. In the age of AI, Charlotte Donlon argues, the writer's soul is the only thing that cannot be replicated — and we have not built the infrastructure to tend it."
               },
               {
                 "t": "p",
-                "x": "At Singapore’s National Library Board libraries, a robot scans RFID-tagged books every night and reports misplaced titles by morning, saving up to 3,500 staff hours per year."
-              },
-              {
-                "t": "p",
-                "x": "But recommendation algorithms give us more of what we already like, while libraries also introduce books we never knew we wanted. Privacy is a major reason libraries across Finland are still evaluating AI; “The more the system knows… the better it can predict what you want next,” says analyst Kashyap Kompella."
+                "x": "She proposes literary conferences add sessions on the inner life and sustainable creative practices, MFA programs offer optional courses on contemplation, and residencies honor time away as soul-tending. “AI will improve, but it will never develop the capacity for genuine longing, grief, or ethical self-interrogation.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "서가 점검 봇과 AI\n도서관을 바꾸다",
-          "body": "세계 곳곳의 shelf-reading 봇과 AI 목록화가 대출 방식을 바꾼다.",
-          "mini_headline": "도서관을 바꾸는 봇",
+          "headline": "인간 작가에겐 있고\nAI에겐 없는 것",
+          "body": "이 글은 작가가 AI를 앞서는 힘을 기교가 아닌 영적 삶과 꾸준한 실천에서 찾는다.",
+          "mini_headline": "AI가 못 가진 작가의 힘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-                "cap": "싱가포르 National Library Board가 운영하는 도서관의 shelf-reading 로봇. (NLB Singapore)"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
               },
               {
                 "t": "p",
-                "x": "세계 곳곳의 도서관에서 shelf-reading 봇과 AI 목록화가 책 빌리는 방식을 바꿔 놓는 중이다."
+                "x": "문학계가 마침내 묻기 시작했다. 인간 작가는 할 수 있고 인공지능은 못 하는 일은 무엇인가. 답은 대개 목소리, 삶의 경험, 감정의 결을 맴돈다. 그 밑에는 문학 문화가 피해 온 단어가 있다. 영혼이다."
               },
               {
                 "t": "p",
-                "x": "상하이 Changning District Library에서는 디지털 휴먼 아바타 Xin Ye가 대출 기록을 보고 책을 추천하고 좌석을 잡아 주며 로봇을 시켜 책을 배달한다. Beijing Library의 자동 검색 시스템은 8 million 권이 넘는 장서 가운데 고른 책을 15분 안에 가져다준다. 대만 NLPI는 2023년 생성형 AI(generative-AI) ‘사서’ Xiao-Shu를 도입했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-                "cap": "Beijing Library 내부에는 실내 기후와 조명, 음향을 조절하는 센서 기둥이 서 있다. (Snohetta)"
+                "x": "AI는 도서관의 책을 모두 집어삼키고 우리 문장 구조를 그대로 뱉어낼 수 있다. 그래도 이름 붙일 수 없는 무언가를 갈망하거나, 사랑하고 잃어본 적 없는 아버지를 애도하지는 못한다. Charlotte Donlon은 AI 시대에 복제할 수 없는 유일한 것이 작가의 영혼인데, 우리는 아직 그것을 돌볼 기반을 마련하지 못했다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "싱가포르 National Library Board 도서관에서는 로봇이 매일 밤 RFID 태그(RFID-tagged)가 붙은 책을 스캔해 두었다가 아침에 잘못 꽂힌 책을 알려 준다. 이걸로 직원들이 해마다 아끼는 업무 시간이 최대 3,500시간이다."
-              },
-              {
-                "t": "p",
-                "x": "추천 알고리즘은 이미 좋아하는 것을 더 보여 줄 뿐이지만 도서관은 원하는 줄도 몰랐던 책을 소개하기도 한다. 핀란드 곳곳의 도서관이 여전히 AI를 두고 고민하는 큰 이유는 개인정보 보호다. 애널리스트 Kashyap Kompella는 “시스템이 더 많이 알수록… 다음에 원하는 것을 더 잘 예측할 수 있다”고 말한다."
+                "x": "Donlon은 문학 콘퍼런스에 내면의 삶과 지속 가능한 창작 실천을 다루는 세션을, MFA 과정에 관조에 관한 선택 과목을 두자고 제안한다. 레지던시는 떠나 있는 시간을 영혼 돌봄(soul-tending)으로 존중하자고 한다. “AI는 나아지겠지만, 진정한 갈망이나 슬픔, 윤리적 자기 성찰(self-interrogation)의 능력은 결코 갖추지 못할 것이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "書架点検ロボとAIが\n図書館を変える",
-          "body": "世界各地で、書架点検ロボットとAIによる目録作成が図書館の貸し出しを変えつつある。",
-          "mini_headline": "ロボが図書館を変える",
+          "headline": "人間の作家にあって\nAIにないもの",
+          "body": "本稿は、人間の作家がAIに勝る点は技巧ではなく精神生活と持続可能な実践にあると論じる。",
+          "mini_headline": "AIに対する書き手の強み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-                "cap": "シンガポールのNational Library Boardが運営する図書館のshelf-readingロボット。(NLB Singapore)"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
               },
               {
                 "t": "p",
-                "x": "世界各地で、shelf-readingロボットとAIによる目録作成が、図書館で本を借りる方法を変えつつある。"
+                "x": "文学界はようやく、人間の作家にできて人工知能にできないことは何かを問い始めた。答えはたいてい声や実体験、感情の機微のまわりを巡るが、その底には文学文化が避けてきた言葉がある。魂だ。"
               },
               {
                 "t": "p",
-                "x": "上海のChangning District Libraryでは、デジタルヒューマンのアバターXin Yeが貸出履歴をもとに本を薦め、座席を予約し、ロボットに本を届けさせる。Beijing Libraryの自動検索システムは、8 million 冊を超える蔵書から選んだ一冊を15分以内に届ける。台湾のNLPIは2023年に生成AI(generative-AI)の「司書」Xiao-Shuを導入した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-                "cap": "Beijing Libraryの館内には、空調、照明、音響を調整するセンサー付きの柱が並ぶ。(Snohetta)"
+                "x": "AIは図書館のすべての本を取り込み、私たちの構文をそのまま吐き出すことはできるが、名づけられない何かを切望することも、愛して失ったことのない父を悼むこともできない。Charlotte Donlonは、AIの時代において作家の魂こそが複製できない唯一のものであり、私たちはそれを育む基盤をまだ築いていないと論じる。"
               },
               {
                 "t": "p",
-                "x": "シンガポールのNational Library Boardの図書館では、ロボットが毎晩RFIDタグ付き(RFID-tagged)の本をスキャンし、配架ミスを朝までに報告する。これにより職員の作業時間を年間最大3,500時間削減している。"
-              },
-              {
-                "t": "p",
-                "x": "ただ、推薦アルゴリズムはすでに好きなものをさらに勧めるだけだが、図書館は欲しいとも知らなかった本との出会いももたらす。フィンランド各地の図書館がいまもAIの導入を検討中なのは、プライバシーが大きな理由だ。アナリストのKashyap Kompellaは「システムが多くを知るほど…次に何を求めるかをより正確に予測できる」と語る。"
+                "x": "Donlonは、文学カンファレンスが内面生活と持続可能な創作実践に関するセッションを設け、MFAプログラムが観想についての選択科目を用意し、レジデンシーが離れて過ごす時間を魂の手入れ(soul-tending)として尊重するよう提案する。「AIは向上するだろうが、真の切望や悲嘆、倫理的な自己省察(self-interrogation)の能力を身につけることは決してない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "盘架机器人与AI\n重塑图书馆",
-          "body": "在世界各地，盘架机器人和AI编目正在改变人们从图书馆借书的方式。",
-          "mini_headline": "机器人重塑图书馆",
+          "headline": "人类作家所拥有的\nAI无法拥有之物",
+          "body": "文章认为，人类作家胜过AI之处不在技巧，而在精神生活与可持续的实践。",
+          "mini_headline": "写作胜过AI之处",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-                "cap": "新加坡National Library Board所辖图书馆的shelf-reading盘架机器人。(NLB Singapore)"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
               },
               {
                 "t": "p",
-                "x": "在世界各地，shelf-reading盘架机器人和AI编目正在改变我们从图书馆借书的方式。"
+                "x": "文学界终于开始追问：有什么是人类作家能做而人工智能做不到的？答案往往围绕声音、亲身经历和情感的细微之处打转，但其底下藏着一个文学文化一直回避的词：灵魂。"
               },
               {
                 "t": "p",
-                "x": "在上海Changning District Library，数字人虚拟形象Xin Ye根据借阅记录推荐图书、预约座位，并让机器人送书上门。Beijing Library的自动化检索系统能在15分钟内从逾8 million 册藏书中调出读者选中的书。台湾NLPI于2023年引入生成式AI(generative-AI)“馆员”Xiao-Shu。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-                "cap": "Beijing Library内部设有带传感器的立柱，可调节温湿度、照明和声学环境。(Snohetta)"
+                "x": "AI可以吞下图书馆里的每一本书，再把我们的句法原样吐出来，但它无法渴望一件叫不出名字的东西，也无法哀悼一位它从未爱过、也从未失去的父亲。Charlotte Donlon认为，在AI时代，作家的灵魂是唯一无法复制的东西——而我们尚未建立起照料它的基础设施。"
               },
               {
                 "t": "p",
-                "x": "在新加坡National Library Board旗下图书馆，机器人每晚扫描贴有RFID标签(RFID-tagged)的图书，并在早上前报告放错位置的书，每年最多可节省3,500个员工工时。"
-              },
-              {
-                "t": "p",
-                "x": "但推荐算法只会给我们更多已经喜欢的东西，而图书馆还会向我们介绍从未想到自己会想读的书。隐私是芬兰各地图书馆仍在评估AI的一大原因；分析师Kashyap Kompella说：“系统知道得越多……就越能预测你接下来想要什么。”"
+                "x": "她建议文学会议增设关于内在生活与可持续创作实践的环节，MFA项目开设关于沉思的选修课，驻留项目则把离开的时间视为照料灵魂(soul-tending)而予以尊重。“AI会不断进步，但它永远不会发展出真正的渴望、悲伤或伦理上的自我审视(self-interrogation)的能力。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Robots de estanterías y AI\ntransforman la biblioteca",
-          "body": "En todo el mundo, los robots shelf-reading y la catalogación con AI cambian la forma de pedir libros prestados.",
-          "mini_headline": "Los robots transforman la biblioteca",
+          "headline": "Lo que los escritores humanos\ntienen y la AI no",
+          "body": "El ensayo ubica la ventaja del escritor sobre la AI en la vida espiritual y la práctica sostenible, no en la técnica.",
+          "mini_headline": "La ventaja del escritor ante la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-                "cap": "El robot shelf-reading de las bibliotecas gestionadas por el National Library Board de Singapur. (NLB Singapore)"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
               },
               {
                 "t": "p",
-                "x": "En todo el mundo, los robots shelf-reading y la catalogación con AI están cambiando la forma en que tomamos libros prestados de las bibliotecas."
+                "x": "El mundo literario por fin se pregunta qué puede hacer un escritor humano que la inteligencia artificial no pueda. Las respuestas suelen girar en torno a la voz, la experiencia vivida y el matiz emocional, pero debajo late una palabra que la cultura literaria ha evitado: alma."
               },
               {
                 "t": "p",
-                "x": "En la Changning District Library de Shanghái, un avatar humano digital, Xin Ye, recomienda libros a partir del historial de préstamos, reserva asientos y hace que un robot entregue los títulos. El sistema automatizado de recuperación de la Beijing Library entrega un título elegido entre más de 8 millones de libros en menos de 15 minutos. La NLPI de Taiwán incorporó en 2023 un “bibliotecario” de AI generativa (generative-AI), Xiao-Shu."
-              },
-              {
-                "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-                "cap": "El interior de la Beijing Library tiene columnas con sensores que regulan el clima, la iluminación y la acústica. (Snohetta)"
+                "x": "La AI puede absorber todos los libros de una biblioteca y devolvernos nuestra sintaxis, pero no puede anhelar algo que no sabe nombrar ni llorar a un padre al que no ha amado y perdido. En la era de la AI, sostiene Charlotte Donlon, el alma del escritor es lo único que no puede replicarse, y no hemos construido la infraestructura para cuidarla."
               },
               {
                 "t": "p",
-                "x": "En las bibliotecas del National Library Board de Singapur, un robot escanea cada noche los libros con etiquetas RFID (RFID-tagged) y por la mañana informa de los títulos mal colocados, lo que ahorra hasta 3,500 horas de trabajo del personal al año."
-              },
-              {
-                "t": "p",
-                "x": "Pero los algoritmos de recomendación nos dan más de lo que ya nos gusta, mientras que las bibliotecas también nos presentan libros que no sabíamos que queríamos. La privacidad es una de las principales razones por las que las bibliotecas de toda Finlandia siguen evaluando la AI; “Cuanto más sabe el sistema… mejor puede predecir lo que quieres a continuación”, afirma el analista Kashyap Kompella."
+                "x": "Propone que los congresos literarios añadan sesiones sobre la vida interior y las prácticas creativas sostenibles, que los programas de MFA ofrezcan cursos optativos sobre contemplación y que las residencias honren el tiempo de retiro como cuidado del alma (soul-tending). “La AI mejorará, pero nunca desarrollará la capacidad de anhelo genuino, duelo o autoexamen ético (self-interrogation)”."
               }
             ]
           }
@@ -1315,145 +1095,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "서가 점검 봇과 AI,\n도서관을 바꾸다",
-          "body": "세계 곳곳의 shelf-reading 봇과 AI 목록화가 대출 방식을 바꾼다.",
-          "mini_headline": "도서관을 바꾸는 봇",
+          "headline": "인간 작가에겐 있고\nAI에겐 없는 것",
+          "body": "이 글은 작가가 AI를 앞서는 힘을 기교 아닌 영적 삶과 지속적 실천에서 찾는다.",
+          "mini_headline": "AI가 못 가진 작가의 힘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-                "cap": "싱가포르 National Library Board가 운영하는 도서관의 shelf-reading 로봇. (NLB Singapore)"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
               },
               {
                 "t": "p",
-                "x": "세계 곳곳에서 shelf-reading 봇과 AI 목록화가 도서관에서 책을 빌리는 방식을 바꾸고 있다."
+                "x": "문학계가 마침내 인간 작가는 할 수 있고 인공지능은 할 수 없는 일이 무엇인지 묻기 시작했다. 답은 대개 목소리, 삶의 경험, 감정의 결을 맴돌지만, 그 밑에는 문학 문화가 피해 온 단어가 있다. 바로 영혼이다."
               },
               {
                 "t": "p",
-                "x": "상하이 Changning District Library에서는 디지털 휴먼 아바타 Xin Ye가 대출 기록을 바탕으로 책을 추천하고 좌석을 예약해 주며, 로봇을 시켜 책을 배달한다. Beijing Library의 자동 검색 시스템은 8 million 권이 넘는 장서 가운데 고른 책을 15분 안에 가져다준다. 대만 NLPI는 2023년 생성형 AI(generative-AI) ‘사서’ Xiao-Shu를 도입했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-                "cap": "Beijing Library 내부에는 실내 기후와 조명, 음향을 조절하는 센서 기둥이 서 있다. (Snohetta)"
+                "x": "AI는 도서관의 모든 책을 집어삼키고 우리의 문장 구조를 그대로 뱉어낼 수 있지만, 이름 붙일 수 없는 무언가를 갈망하거나 사랑하고 잃어본 적 없는 아버지를 애도하지는 못한다. Charlotte Donlon은 AI 시대에 작가의 영혼이야말로 복제할 수 없는 유일한 것이며, 우리는 아직 그것을 돌볼 기반을 마련하지 못했다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "싱가포르 National Library Board 도서관에서는 로봇이 매일 밤 RFID 태그(RFID-tagged)가 붙은 책을 스캔해 아침까지 잘못 꽂힌 책을 알려 준다. 덕분에 직원 업무 시간을 해마다 최대 3,500시간 아낀다."
-              },
-              {
-                "t": "p",
-                "x": "하지만 추천 알고리즘은 이미 좋아하는 것을 더 많이 보여 줄 뿐이지만, 도서관은 원하는 줄도 몰랐던 책을 소개하기도 한다. 핀란드 곳곳의 도서관이 여전히 AI를 검토하는 큰 이유는 개인정보 보호다. 애널리스트 Kashyap Kompella는 “시스템이 더 많이 알수록… 다음에 원하는 것을 더 잘 예측할 수 있다”고 말한다."
+                "x": "Donlon은 문학 콘퍼런스가 내면의 삶과 지속 가능한 창작 실천을 다루는 세션을 마련하고, MFA 과정이 관조에 관한 선택 과목을 열며, 레지던시가 떠나 있는 시간을 영혼 돌봄(soul-tending)으로 존중하자고 제안한다. “AI는 나아지겠지만, 진정한 갈망이나 슬픔, 윤리적 자기 성찰(self-interrogation)의 능력은 결코 갖추지 못할 것이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "書架点検ロボとAIが\n図書館を変える",
-          "body": "世界各地で、書架点検ロボットとAIによる目録作成が図書館の貸し出しを変えつつある。",
-          "mini_headline": "ロボが図書館を変える",
+          "headline": "人間の作家にあって\nAIにないもの",
+          "body": "本稿は、人間の作家がAIに勝る点は技巧ではなく精神生活と持続可能な実践にあると論じる。",
+          "mini_headline": "AIに対する書き手の強み",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-                "cap": "シンガポールのNational Library Boardが運営する図書館のshelf-readingロボット。(NLB Singapore)"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
               },
               {
                 "t": "p",
-                "x": "世界各地で、shelf-readingロボットとAIによる目録作成が、図書館で本を借りる方法を変えつつある。"
+                "x": "文学界はようやく、人間の作家にできて人工知能にできないことは何かを問い始めた。答えはたいてい声や実体験、感情の機微のまわりを巡るが、その底には文学文化が避けてきた言葉がある。魂だ。"
               },
               {
                 "t": "p",
-                "x": "上海のChangning District Libraryでは、デジタルヒューマンのアバターXin Yeが貸出履歴をもとに本を薦め、座席を予約し、ロボットに本を届けさせる。Beijing Libraryの自動検索システムは、8 million 冊を超える蔵書から選んだ一冊を15分以内に届ける。台湾のNLPIは2023年に生成AI(generative-AI)の「司書」Xiao-Shuを導入した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-                "cap": "Beijing Libraryの館内には、空調、照明、音響を調整するセンサー付きの柱が並ぶ。(Snohetta)"
+                "x": "AIは図書館のすべての本を取り込み、私たちの構文をそのまま吐き出すことはできるが、名づけられない何かを切望することも、愛して失ったことのない父を悼むこともできない。Charlotte Donlonは、AIの時代において作家の魂こそが複製できない唯一のものであり、私たちはそれを育む基盤をまだ築いていないと論じる。"
               },
               {
                 "t": "p",
-                "x": "シンガポールのNational Library Boardの図書館では、ロボットが毎晩RFIDタグ付き(RFID-tagged)の本をスキャンし、配架ミスを朝までに報告する。これにより職員の作業時間を年間最大3,500時間削減している。"
-              },
-              {
-                "t": "p",
-                "x": "ただ、推薦アルゴリズムはすでに好きなものをさらに勧めるだけだが、図書館は欲しいとも知らなかった本との出会いももたらす。フィンランド各地の図書館がいまもAIの導入を検討中なのは、プライバシーが大きな理由だ。アナリストのKashyap Kompellaは「システムが多くを知るほど…次に何を求めるかをより正確に予測できる」と語る。"
+                "x": "Donlonは、文学カンファレンスが内面生活と持続可能な創作実践に関するセッションを設け、MFAプログラムが観想についての選択科目を用意し、レジデンシーが離れて過ごす時間を魂の手入れ(soul-tending)として尊重するよう提案する。「AIは向上するだろうが、真の切望や悲嘆、倫理的な自己省察(self-interrogation)の能力を身につけることは決してない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "盘架机器人与AI\n重塑图书馆",
-          "body": "在世界各地，盘架机器人和AI编目正在改变人们从图书馆借书的方式。",
-          "mini_headline": "机器人重塑图书馆",
+          "headline": "人类作家所拥有的\nAI无法拥有之物",
+          "body": "文章认为，人类作家胜过AI之处不在技巧，而在精神生活与可持续的实践。",
+          "mini_headline": "写作胜过AI之处",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-                "cap": "新加坡National Library Board所辖图书馆的shelf-reading盘架机器人。(NLB Singapore)"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
               },
               {
                 "t": "p",
-                "x": "在世界各地，shelf-reading盘架机器人和AI编目正在改变我们从图书馆借书的方式。"
+                "x": "文学界终于开始追问：有什么是人类作家能做而人工智能做不到的？答案往往围绕声音、亲身经历和情感的细微之处打转，但其底下藏着一个文学文化一直回避的词：灵魂。"
               },
               {
                 "t": "p",
-                "x": "在上海Changning District Library，数字人虚拟形象Xin Ye根据借阅记录推荐图书、预约座位，并让机器人送书上门。Beijing Library的自动化检索系统能在15分钟内从逾8 million 册藏书中调出读者选中的书。台湾NLPI于2023年引入生成式AI(generative-AI)“馆员”Xiao-Shu。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-                "cap": "Beijing Library内部设有带传感器的立柱，可调节温湿度、照明和声学环境。(Snohetta)"
+                "x": "AI可以吞下图书馆里的每一本书，再把我们的句法原样吐出来，但它无法渴望一件叫不出名字的东西，也无法哀悼一位它从未爱过、也从未失去的父亲。Charlotte Donlon认为，在AI时代，作家的灵魂是唯一无法复制的东西——而我们尚未建立起照料它的基础设施。"
               },
               {
                 "t": "p",
-                "x": "在新加坡National Library Board旗下图书馆，机器人每晚扫描贴有RFID标签(RFID-tagged)的图书，并在早上前报告放错位置的书，每年最多可节省3,500个员工工时。"
-              },
-              {
-                "t": "p",
-                "x": "但推荐算法只会给我们更多已经喜欢的东西，而图书馆还会向我们介绍从未想到自己会想读的书。隐私是芬兰各地图书馆仍在评估AI的一大原因；分析师Kashyap Kompella说：“系统知道得越多……就越能预测你接下来想要什么。”"
+                "x": "她建议文学会议增设关于内在生活与可持续创作实践的环节，MFA项目开设关于沉思的选修课，驻留项目则把离开的时间视为照料灵魂(soul-tending)而予以尊重。“AI会不断进步，但它永远不会发展出真正的渴望、悲伤或伦理上的自我审视(self-interrogation)的能力。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Robots de estanterías y AI\ntransforman la biblioteca",
-          "body": "En todo el mundo, los robots shelf-reading y la catalogación con AI cambian la forma de pedir libros prestados.",
-          "mini_headline": "Los robots transforman la biblioteca",
+          "headline": "Lo que los escritores humanos\ntienen y la AI no",
+          "body": "El ensayo ubica la ventaja del escritor sobre la AI en la vida espiritual y la práctica sostenible, no en la técnica.",
+          "mini_headline": "La ventaja del escritor ante la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-                "cap": "El robot shelf-reading de las bibliotecas gestionadas por el National Library Board de Singapur. (NLB Singapore)"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
               },
               {
                 "t": "p",
-                "x": "En todo el mundo, los robots shelf-reading y la catalogación con AI están cambiando la forma en que tomamos libros prestados de las bibliotecas."
+                "x": "El mundo literario por fin se pregunta qué puede hacer un escritor humano que la inteligencia artificial no pueda. Las respuestas suelen girar en torno a la voz, la experiencia vivida y el matiz emocional, pero debajo late una palabra que la cultura literaria ha evitado: alma."
               },
               {
                 "t": "p",
-                "x": "En la Changning District Library de Shanghái, un avatar humano digital, Xin Ye, recomienda libros a partir del historial de préstamos, reserva asientos y hace que un robot entregue los títulos. El sistema automatizado de recuperación de la Beijing Library entrega un título elegido entre más de 8 millones de libros en menos de 15 minutos. La NLPI de Taiwán incorporó en 2023 un “bibliotecario” de AI generativa (generative-AI), Xiao-Shu."
-              },
-              {
-                "t": "img",
-                "src": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/1f7e4400-bbfb-11f1-9ea6-edf45002f7e7_1790935946964_laIV.jpg",
-                "cap": "El interior de la Beijing Library tiene columnas con sensores que regulan el clima, la iluminación y la acústica. (Snohetta)"
+                "x": "La AI puede absorber todos los libros de una biblioteca y devolvernos nuestra sintaxis, pero no puede anhelar algo que no sabe nombrar ni llorar a un padre al que no ha amado y perdido. En la era de la AI, sostiene Charlotte Donlon, el alma del escritor es lo único que no puede replicarse, y no hemos construido la infraestructura para cuidarla."
               },
               {
                 "t": "p",
-                "x": "En las bibliotecas del National Library Board de Singapur, un robot escanea cada noche los libros con etiquetas RFID (RFID-tagged) y por la mañana informa de los títulos mal colocados, lo que ahorra hasta 3,500 horas de trabajo del personal al año."
-              },
-              {
-                "t": "p",
-                "x": "Pero los algoritmos de recomendación nos dan más de lo que ya nos gusta, mientras que las bibliotecas también nos presentan libros que no sabíamos que queríamos. La privacidad es una de las principales razones por las que las bibliotecas de toda Finlandia siguen evaluando la AI; “Cuanto más sabe el sistema… mejor puede predecir lo que quieres a continuación”, afirma el analista Kashyap Kompella."
+                "x": "Propone que los congresos literarios añadan sesiones sobre la vida interior y las prácticas creativas sostenibles, que los programas de MFA ofrezcan cursos optativos sobre contemplación y que las residencias honren el tiempo de retiro como cuidado del alma (soul-tending). “La AI mejorará, pero nunca desarrollará la capacidad de anhelo genuino, duelo o autoexamen ético (self-interrogation)”."
               }
             ]
           }

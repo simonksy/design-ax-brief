@@ -1,27 +1,7 @@
-{
-  "date": "2026-10-05",
-  "section": "music",
-  "media": [
-    {
-      "id": "isplus-suno-vocal-chart-top",
-      "type": "image",
-      "src": "pipeline/media/isplus-suno-vocal-chart-top.png"
-    },
-    {
-      "id": "mbw-suno-wmg-bmg-licence-terms",
-      "type": "image",
-      "src": "pipeline/media/mbw-suno-wmg-bmg-licence-terms.jpg"
-    },
-    {
-      "id": "suno-seoul-arts-students-studio",
-      "type": "video",
-      "src": "pipeline/media/suno-seoul-arts-students-studio.mp4",
-      "poster": "pipeline/media/suno-seoul-arts-students-studio.jpg"
-    },
-    {
-      "id": "rollingstone-smith-ai-fraud-sentencing",
-      "type": "image",
-      "src": "pipeline/media/rollingstone-smith-ai-fraud-sentencing.jpg"
-    }
-  ]
-}
+{"media":[
+{"id":"suno-albums-launch","type":"video","src":"pipeline/media/suno-albums-launch.mp4","poster":"pipeline/media/suno-albums-launch.jpg"},
+{"id":"sony-music-260k-deepfake-takedowns","type":"image","src":"pipeline/media/sony-music-260k-deepfake-takedowns.jpg"},
+{"id":"spotify-editorial-playlists-decline-fake-account-purge","type":"image","src":"pipeline/media/spotify-editorial-playlists-decline-fake-account-purge.jpg"},
+{"id":"joe-bonamassa-suno-lyrics-stance","type":"image","src":"pipeline/media/joe-bonamassa-suno-lyrics-stance.jpg"},
+{"id":"pope-leo-xiv-human-art-ai-warning","type":"image","src":"pipeline/media/pope-leo-xiv-human-art-ai-warning.jpg"}
+]}

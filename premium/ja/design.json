@@ -6781,6 +6781,138 @@
           "x": "APIの利用料は10月8日まで50%引きだ。企業は商用ウェイトのライセンスを取得し、自社インフラ上でモデルを実行・ファインチューニングできる。オープンウェイト版は今後数週間のうちに公開される見込みだ。ローンチ直前には、Ideogramが編集に特化した自社モデルのバージョン4.5を発表しており、こちらも近くオープンウェイトで公開される予定である。"
         }
       ]
+    },
+    "design/photoshop-remove-tool-no-generative-credits": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "nmvewzc6MG4"
+        },
+        {
+          "t": "p",
+          "x": "AdobeはいまやPhotoshopの多くのAIツールを、毎月の生成クレジット枠から差し引いている。どの機能がその枠を消費するかを知っているかどうかで、どれだけ気兼ねなく編集できるかが直接変わる。"
+        },
+        {
+          "t": "p",
+          "x": "最初の驚きはRemoveツールだ。PHLEARNのAaron Naceはクレジット残高が2,870であることを確認し、Generative AIをオンにしてクラウド処理を選んだ状態で、いくつかの邪魔な要素を塗って消してから、もう一度残高を確かめる。数字は変わっていない。PhotoshopがAIモデルをダウンロードした後は、オフラインでもデバイス処理でこのツールを使える。"
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill、Generative Expand、Generate Imageはいずれも月間の割り当てからクレジットを消費し、他社のパートナーモデルはAdobe自社のFireflyモデルより1回の生成あたりのクレジットが多い。Content-Aware FillとSelect Subjectは残高に影響しないため、まず無料の選択肢を試すのがよい習慣だ。"
+        },
+        {
+          "t": "p",
+          "x": "ほかにも、scrubby-sliderラベル、クリッピングマスク、Curvesのターゲット調整ハンドツール、Select Subjectの境界をよりきれいにするクラウド処理といったヒントを紹介している。"
+        }
+      ]
+    },
+    "design/adobe-text-to-3d-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+          "cap": "Adobeのtext-to-3Dワールド構想 (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "Adobeはここ数年、Fireflyの画像・動画モデルからPhotoshopのAI Relightまで、AIツールを次々と投入してきた。新たに公開された大量の特許出願は、Adobeが現在ほとんど存在感を持たない分野も含め、次に向かう先を示唆している。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+          "cap": "AI text-to-3Dワールド生成器に関するAdobeの特許 (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "特許トラッカーのPatentlyzeが見つけたUSPTO出願の一つは、テキストから移動可能な3Dワールドを作る手法を説明している。\"a foggy Japanese garden at dusk\"（夕暮れの霧がかった日本庭園）のようなプロンプトから、まず360ビューのような球状の中間2D画像を生成し、続く2段階目のAI処理がそれを基に3Dジオメトリを構築する。ユーザーは結果を複数の視点から眺め、その中を前後に移動できる。"
+        },
+        {
+          "t": "p",
+          "x": "現在、3D環境の構築には時間がかかり、彫刻・ペイントされたアセットが数百点必要になることも多い。AdobeのSubstanceアプリはそのパイプラインの一部を担うが、Substance 3D ModelerはZBrushやBlenderに比べてまだニッチで、Firefly-poweredのツールもない。Blockade LabsのSkybox AIなど最も近い既存製品は、移動可能な環境ではなく360-degreeのシーンを生成する。"
+        },
+        {
+          "t": "p",
+          "x": "Adobeの最近のほかの出願には、1枚の写真から新しいカメラアングルを作るAI、3Dモデル間のマテリアルマッチング、3D衣服プレビューなどがある。Creative Bloqは、特許出願が必ずしも製品化の計画を意味するわけではないと指摘している。"
+        }
+      ]
+    },
+    "design/apple-macos-ai-agent-full-disk-access-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+          "cap": "Credit: Apple"
+        },
+        {
+          "t": "p",
+          "x": "AppleはApple Developerページに「Updates to Full Disk Access in macOS」という告知を掲載し、ユーザーを危険にさらしかねない形でAIエージェントにFull Disk Accessを与えないよう警告した。"
+        },
+        {
+          "t": "p",
+          "x": "Appleによると、一部の開発者はFull Disk Accessを利用し、ファイル、メール、メッセージ、さらには閲覧履歴まで、ユーザーのシステム上のあらゆるものを、ユーザーが十分に認識・理解しないまま露出させているという。"
+        },
+        {
+          "t": "p",
+          "x": "「今後、この並外れたレベルのアクセスを本当にアプリに許可したいユーザーが、極めて明示的な操作によってのみそれを行えるよう、追加の制御を導入する。この問題への対処は極めて重要だ。AIエージェントの能力と自律性が高まるにつれ、このレベルのアクセスに伴うリスクは大幅に増大する」"
+        },
+        {
+          "t": "p",
+          "x": "No Film Schoolは、その制御が導入されるまでは、AIエージェントにそもそもそのアクセスを与えないことでリスクを避けられると指摘している。"
+        }
+      ]
+    },
+    "design/uxcollective-ai-skill-atrophy-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+          "cap": "認知的オフロードが忘却に変わるとき (Visualization by Slava Polonski)"
+        },
+        {
+          "t": "p",
+          "x": "AIは私たちの知性を低下させているわけではない。私たちが鍛える知性の量を減らしているのだ。本当の問題は、もうやる必要のなくなったことのやり方を、少しずつ忘れてしまいかねない点にある。"
+        },
+        {
+          "t": "p",
+          "x": "Slava Polonskiは、AIによるスキルの衰えと認知的オフロードを考察する。そもそもそのスキルを自分のものにしてくれた思考、判断、苦闘を外部に委ねたとき、何が起きるのか。"
+        },
+        {
+          "t": "p",
+          "x": "エッセイは電話番号の話から始まる。誰も番号を覚えるのをやめようと決めたわけではない。その能力はただ静かに使われなくなり、やがて静かに消えていった。スキルを機械に手渡すことは、損失のようには感じられない。むしろ改善のように感じられる。"
+        }
+      ]
+    },
+    "design/formas-cartesian-agentic-modeller": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Formas.AIは、建築、インテリア、家具、プロダクトデザインの初期段階に向けたAI支援(AI-assisted)プラットフォーム「Cartesian」を発表した。AIが生成した(AI-generated)コンセプトを、編集可能で物理的に意味のある形状に変えることを目指す。デザイナーは写真、スケッチ、文章によるブリーフ、既存のモデルから始め、対話を通じて個々のコンポーネントを詰めていける。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "「その裏にある技術は非常に複雑になり得る。体験はそうであってはならない」と、共同創業者でCEOのYiping Gohは語った。"
+        },
+        {
+          "t": "p",
+          "x": "中核にあるのは、AIエージェント向けに作られた独自のCADカーネル層と幾何ツールキットだ。ソリッドや自由曲面を構築し、形状をプログラムで検査・修正できる。モデルは名前付きのコンポーネント、レイヤー、アセンブリに整理される。共同創業者のCarlos Bañónは、こうした関係が「形状に意味を与え、モデルが変わっても設計意図を保つ助けになる」と述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "オーケストレーションシステムが、OpenAIのGPT-6 AstraやClaude Opus 5.5を含む複数のAIモデルと専門エージェントを連携させる。エージェントは日照、影、リアルタイムの風の解析を要求し、モデリングの判断材料にできる。"
+        },
+        {
+          "t": "p",
+          "x": "CartesianはRhinocerosやSketchUpとのライブ連携、DXFとIFCのインポート・エクスポート、STEPとSTLのエクスポートに対応する。デスクトップ版はmacOSとWindowsで段階的に提供され、2026年10月31日から利用範囲を広げる予定だ。"
+        }
+      ]
     }
   }
 }

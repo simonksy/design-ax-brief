@@ -10596,6 +10596,139 @@
           "x": "다른 과학자들은 비슷한 방법이 EEG로 넘어가면 특히 정신적 프라이버시가 침해될 수 있다고 경고한다. UCSB 신경과학자 토미 스프라그(Tommy Sprague)는 “윤리적 고려에 대해 조금 더 진지해져야 한다”고 말했다."
         }
       ]
+    },
+    "science/berkeley-lab-heat-shield-xray-ai-ablation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+        },
+        {
+          "t": "p",
+          "x": "열차폐재는 스스로 깎여 나가는 삭마 방식으로 우주선을 지킨다. 그 과정에서 연구자들이 볼 수 있던 건 대개 전후(before-and-after) 사진뿐이었다. Artemis I에서는 시뮬레이션이 예측하지 못한 탄화와 고르지 않은 소재 손실이 나타났다."
+        },
+        {
+          "t": "video",
+          "yt": "04rSPGwMLlM"
+        },
+        {
+          "t": "p",
+          "x": "이 상황을 바꾼 건 NASA와 Lawrence Berkeley National Laboratory의 Advanced Light Source 간 협력이다. LBNL 연구진이 시료를 최대 900℃까지 달구는 챔버를 만들었고, 가열되는 동안 X-ray micro-computed tomography(미세 컴퓨터단층촬영)가 분해되는 소재를 3D 이미지로 담는다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+          "cap": "Kennedy Space Center에서 Artemis II 열차폐재 작업을 하는 엔지니어들. 출처 - NASA"
+        },
+        {
+          "t": "p",
+          "x": "SLA-561V 속 코르크 입자는 기화하면서 빈 공동으로 남는다. SLA-220은 뜨거운 가스를 내보내는 가지 모양 미세 통로(micro-channels)로 갈라진다."
+        },
+        {
+          "t": "p",
+          "x": "속도와 해상도 사이 균형을 맞추려고 연구팀은 Generative Adversarial Network(GAN)를 학습시켰다. 빠르게 찍은 중간 해상도(intermediate-resolution) 스캔이 이를 거치면, 소재가 뒤틀리고 그을리고 속이 비어 가는 과정을 담은 고해상도(high-resolution) 3D 기록이 된다. 공학 시뮬레이션은 아직 갱신되지 않았다."
+        }
+      ]
+    },
+    "science/autonomous-ai-dermatology-appointments-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+          "cap": "출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "EADV Congress 2026에서 발표된 실제 환경(real-world) 연구는 환자 8,391명을 대상으로 했다. 16개월 동안 U.K. 병원 두 곳에서 자율 AI는 대면(face-to-face) 피부과 진료를 8,500건 넘게 더 받을 수 있는 여력을 만들어 냈다."
+        },
+        {
+          "t": "p",
+          "x": "CE-marked Class III AI 의료기기가 스마트폰으로 찍은 피부 병변 사진을 분류했다. 양성이면 스스로 퇴원 처리하고, 위험이 더 높은(higher-risk) 사례는 원격 피부과 전문의 검토로 넘겼다. 두 병원에서 AI가 임상의 검토 없이 퇴원 처리한 환자는 각각 31%와 25%였다."
+        },
+        {
+          "t": "p",
+          "x": "이 진료 경로로 임상의 시간 2,851시간을 아끼고 진료 역량은 약 62% 늘었으며, 생검 비율은 43%에서 27%로 낮아진 것으로 추산됐다."
+        },
+        {
+          "t": "p",
+          "x": "전국 데이터셋에서 침윤성 흑색종과 SCC, BCC 민감도는 98%를 넘었다. 시판 후(post-market) 감시에서는 위음성 여섯 건이 나왔지만 확인된 부작용은 없었다. 주저자 Dr. Lucy Thomas는 \"AI 시스템을 안전하게 배치하는 일은 일회성(one-off) 작업이 아니다\"라고 말했다."
+        }
+      ]
+    },
+    "science/copenhagen-chatbots-knowledge-collapse-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+          "cap": "출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "대규모 언어 모델이 내놓는 정보는 일반 웹 검색보다 폭이 크게 좁다. 코펜하겐대학교(University of Copenhagen) 컴퓨터과학과(DIKU)가 이끈 연구의 결론이다. 논문은 EMNLP 2026에서 발표된다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 27개 모델에 155개 주제를 묻고, 주제마다 프롬프트 표현을 200가지로 바꿔 가며 약 7000만 개의 주장을 모았다. 가장 다양한 정보를 낸 OpenAI의 GPT-5도 Google보다 최소 18.7% 덜 다양했다."
+        },
+        {
+          "t": "p",
+          "x": "현재 Aalborg University에 있는 제1저자 Dustin Wright는 \"사람들은 상당 부분 같은 정보에 거듭 노출되고 있다\"고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 학습 텍스트를 압축하는 과정에서 드문 패턴을 걸러낸다. AI-generated 텍스트로 학습하는 일이 잦아지면 정보의 폭은 세대를 거치며 좁아질 수 있다. 연구진은 이 위험을 \"지식 붕괴(knowledge collapse)\"라 부른다. 다만 교신저자 Isabelle Augenstein은 최신 모델이 조금 더 다양해진 만큼 아직 그런 일이 벌어지지는 않는다고 짚는다."
+        }
+      ]
+    },
+    "science/stanford-ai-benchmarks-measurement-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+          "cap": "출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "벤치마크는 추론부터 안전성까지 AI 모델의 모든 면에 점수를 매긴다. 수십억 달러와 정책 결정이 그 결과에 걸려 있다. Stanford 연구진과 협력자들은 새 연구 두 편에서 이 시험들이 내세운 것을 실제로 재는지 따졌다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 측정 과학과 심리측정학의 도구를 빌려 널리 쓰이는 벤치마크 56개를 검증했다. 벤치마크는 내세운 것을 늘 재지는 않았고, 같은 것을 잰다는 벤치마크끼리도 결과가 자주 엇갈렸다."
+        },
+        {
+          "t": "p",
+          "x": "Sanmi Koyejo는 편향 벤치마크 BBQ를 예로 든다. 그의 설명으로는 BBQ가 재는 것은 결국 독해력에 더 가깝다."
+        },
+        {
+          "t": "p",
+          "x": "두 번째 논문에 따르면 영어에서 번역한 안전성 벤치마크는 두 갈래로 무너진다. 가드레일이 약해질 수 있고, 번역된 시험 자체도 더 불안정한 측정 도구가 된다. Koyejo는 \"측정 막대를 쥔 사람이 배의 키를 잡는다\"고 말한다."
+        }
+      ]
+    },
+    "science/york-illusion-ai-vision-errors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "우리 눈은 사물이 어디 있는지 늘 정확히 알려 주지는 않는다. 단순한 결함이라기보다 생물학적 시각이 원래 그렇게 작동하는 것일 수 있다. York University 연구진은 새 연구에서 흔한 착시 하나를 들어 이렇게 묻는다. 인공지능이 우리처럼 보게 만들려면, 체계적인 지각 “실수”도 일부 똑같이 저질러야 하는가?"
+        },
+        {
+          "t": "p",
+          "x": "한 방향으로 꾸준히 움직이는 대상을 보다가 곧바로 멈춰 있는 물체를 보면, 그 물체가 반대쪽으로 살짝 밀려난 듯 보이기도 한다. 운동 잔효(motion aftereffect)라는 이 착시로 지각 밑에서 돌아가는 계산을 엿볼 수 있다. 연구 결과는 Current Biology에 실렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
+          "cap": "Credit: Orhan Pergel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "지금의 AI 시각 시스템은 사물 위치를 정확히 짚을 때가 많다. 하지만 바로 앞서 본 장면이 그 답을 바꾸는 방식은 대체로 재현하지 못한다. 연구진은 영장류 시각 피질에서 이에 대응하는 변화를 확인했으나, 시험한 AI 모델에서는 찾지 못했다. 동적 시각 모델을 평가할 새 벤치마크도 함께 내놓았다."
+        },
+        {
+          "t": "p",
+          "x": "“인간과 함께 일하고 인간과 더 잘 맞는 방식으로 세상을 이해하는 AI를 원한다면, 정답을 맞히는지에만 집중해서는 안 된다”고 책임저자 Kohitij Kar는 말했다."
+        }
+      ]
     }
   }
 }
