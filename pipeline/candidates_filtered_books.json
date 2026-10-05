@@ -1,168 +1,117 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "books",
-  "now_iso": "2026-10-04T22:05:00Z",
+  "now_iso": "2026-10-05T22:02:44Z",
   "window_hours": 336,
   "items": [
+    {
+      "title": "AAP, Authors Guild Applaud Decision in ROSS Copyright Infringement Case",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-10-02T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+      "excerpt": "An appeals judge backed a Delaware court ruling that found the now-defunct AI startup Ross Intelligence's unauthorized copying of text from Thomson Reuters's Westlaw was not fair use; AAP and the Authors Guild hailed it as a precedent for AI training cases.",
+      "keyword": "AI copyright authors",
+      "category": "books",
+      "history_match": {
+        "score": 0.171,
+        "date": "2026-09-14",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
+        "title": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case",
+        "band": "related"
+      }
+    },
+    {
+      "title": "We Banned the Soul from the Building: On AI, Spiritual Life, and Sustainable Practices for Writing",
+      "url": "https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/",
+      "source": "Literary Hub",
+      "published_iso": "2026-10-05T09:08:58+00:00",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png",
+      "excerpt": "The literary world is finally asking what a human writer can do that artificial intelligence cannot; this essay argues the answer lies beyond technique, in spiritual life and sustainable writing practice.",
+      "keyword": "AI writing",
+      "category": "books"
+    },
     {
       "title": "Can Better Wording Fix the “Made With AI” Problem? New 2026 Research Says It's Complicated",
       "url": "https://the-digital-reader.com/can-better-wording-fix-the-made-with-ai-problem-new-2026-research-says-its-complicated/",
       "source": "The Digital Reader",
       "published_iso": "2026-10-02T15:17:43+00:00",
       "og_image": "https://the-digital-reader.com/wp-content/uploads/2026/10/Wording.png",
-      "excerpt": "Can better wording solve the “Made With AI” problem? Explore what new 2026 research reveals about AI-generated content, detection, trust, and communication.",
+      "excerpt": "New 2026 research on how 'Made with AI' labels affect reader trust finds that rewording disclosures does not simply fix the penalty audiences apply to AI-assisted content.",
+      "keyword": "AI self-publishing",
+      "category": "books"
+    },
+    {
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "source": "The Verge",
+      "published_iso": "2026-10-05T18:08:39+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "OpenAI is launching 'textGrain' watermarking of ChatGPT-generated text in the EU to comply with the AI Act, but says it won't be the global default yet; a provenance shift with direct implications for AI-written manuscripts and submissions.",
+      "keyword": "AI manuscript",
+      "category": "books"
+    },
+    {
+      "title": "The Representation Is Not the Scholarship",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-10-05T09:30:09+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence.png",
+      "excerpt": "The problem with AI in scholarly publishing may not be that machines are growing more intelligent, but that we are amplifying a capable yet limited form of cognition and mistaking the written representation for the scholarship itself.",
+      "keyword": "AI publishing",
+      "category": "books"
+    },
+    {
+      "title": "Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 1",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/01/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today/",
+      "source": "The Scholarly Kitchen",
+      "published_iso": "2026-10-01T09:30:16+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-1419932367.jpg",
+      "excerpt": "Scholarly Kitchen chefs reconsider open-access strategy in hindsight, with AI training on openly licensed research a central theme of what they would do differently.",
+      "keyword": "AI publishing",
       "category": "books",
-      "section": "books",
       "history_match": {
-        "score": 0.242,
-        "date": "2026-09-06",
-        "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
-        "title": "We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.",
+        "score": 0.178,
+        "date": "2026-09-20",
+        "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
+        "title": "Ask the Chefs: AI and Copyright Licensing",
         "band": "related"
       }
     },
     {
-      "title": "Publishers say using AI to translate classics is ethically wrong",
-      "url": "https://news.err.ee/1610153521/publishers-say-using-ai-to-translate-classics-is-ethically-wrong",
-      "source": "ERR News",
-      "published_iso": "2026-10-03T12:50:00+03:00",
-      "og_image": "https://s.err.ee/photo/crop/2026/01/26/3167126h955ct24.jpg",
-      "excerpt": "Publishers Krista Kaer and Piret Lemetti warn that AI-assisted re-translations of literary classics appearing on the market are unethical, unfair to readers, and devalue the work of human translators.",
-      "category": "books",
-      "section": "books"
+      "title": "Around the Book World: Monday, October 5th, 2026",
+      "url": "https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-5th-2026/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-10-05T11:52:52+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
+      "excerpt": "Roundup highlights: a Proyecto451 review of 40+ publishers' AI policies finds two strategies (license catalogs to AI firms vs. build in-house tools); ElevenLabs' aggregator-led audiobook strategy via De Marque, Bookwire and StreetLib; a Norwegian debut novel written entirely by hand to prove it is not AI.",
+      "keyword": "AI publishing",
+      "category": "books"
     },
     {
-      "title": "무라카미 하루키 신작, 日 출간 4시간 만에 중국서 AI 번역본 등장",
-      "url": "https://www.hankyung.com/article/202609303989i",
-      "source": "한국경제",
-      "published_iso": "2026-09-30T11:00:10+09:00",
-      "og_image": "https://img.hankyung.com/photo/202609/01.45880885.1.jpg",
-      "excerpt": "무라카미 하루키 신작이 일본 출간 4시간 만에 중국에서 AI 번역본으로 등장했고, 이란에서는 페르시아어판이 영어판보다 먼저 나왔다. AI 번역이 해외 출간 질서를 흔드는 사례.",
-      "category": "books",
-      "section": "books"
+      "title": "Frankfurter Buchmesse 2026: The Asia Stage Returns",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-the-asia-stage-returns/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-10-05T12:17:33+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/96833_Asia-Stage-2025-1-scaled.jpg",
+      "excerpt": "Frankfurt's Asia Stage program will cover Asian markets, authors of interest to Western publishers, and how these countries' publishing industries are engaging with AI.",
+      "keyword": "AI publishing",
+      "category": "books"
     },
     {
-      "title": "[천자칼럼] 엉터리 AI 번역 서적",
-      "url": "https://www.hankyung.com/article/2026093056061",
-      "source": "한국경제",
-      "published_iso": "2026-10-01T07:00:06+09:00",
-      "og_image": "https://static.hankyung.com/img/logo/logo-news-sns.png?v=20201130",
-      "excerpt": "[천자칼럼] AI로 대충 번역해 내놓는 엉터리 번역 서적 문제를 짚은 칼럼.",
-      "category": "books",
-      "section": "books"
-    },
-    {
-      "title": "Hong Kong comics scene: Creators turning to AI in bid to recapture industry's heyday",
-      "url": "https://www.channelnewsasia.com/watch/hong-kong-comics-scene-creators-turning-ai-in-bid-recapture-industrys-heyday-6427021",
-      "source": "CNA",
-      "published_iso": "2026-10-02T21:09:48+08:00",
-      "og_image": "https://dam.mediacorp.sg/image/upload/s--92fFQUlw--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/02/img_20261002_210744_8896.jpg?itok=v63Dp94A",
-      "excerpt": "Hong Kong was once a comic powerhouse, producing titles that sold millions of copies each year. But while creators still win awards, sales are a fraction of what they used to be. Jeraldine Yap reports.",
-      "category": "books",
-      "section": "books"
-    },
-    {
-      "title": "Publishers Hit the AI Jackpot",
-      "url": "https://www.vulture.com/article/publishers-hit-the-ai-jackpot.html",
-      "source": "Vulture",
-      "published_iso": "2026-10-01T05:00:13-04:00",
-      "og_image": "https://pyxis.nymag.com/v1/imgs/8cd/d6f/6d22ede002de957054e800645eb62bb14c-anthropic-lede.1x.rsocial.w1200.jpg",
-      "excerpt": "The industry stands to gain the most from Anthropic’s $1.5 billion copyright settlement. Many writers aren’t happy about it.",
-      "category": "books",
-      "section": "books",
-      "history_match": {
-        "score": 0.227,
-        "date": "2026-09-09",
-        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Authors say AI-generated books are making human work harder to find",
-      "url": "https://spectrumnews1.com/oh/columbus/news/2026/09/30/authors-say-ai-generated-books-are-making-human-work-harder-to-find",
-      "source": "Spectrum News",
-      "published_iso": "2026-09-30T10:58:00-04:00",
-      "og_image": "https://s7d2.scene7.com/is/image/TWCNews/OH-20ai-20impact-20on-20authors-20digital-20image_1790778998847",
-      "excerpt": "Authors are raising concerns about AI-generated books on Amazon and training data, saying the technology makes human work harder to find.",
-      "category": "books",
-      "section": "books"
-    },
-    {
-      "title": "Alberto Manguel shares thoughts on AI in writing, the pace of change in Portugal and his favourite libraries",
-      "url": "https://www.theglobeandmail.com/culture/books/article-alberto-manguel-shares-thoughts-on-ai-in-writing-the-pace-of-change-in/",
-      "source": "The Globe and Mail",
-      "published_iso": "2026-10-02T06:00:00-04:00",
-      "og_image": "https://www.theglobeandmail.com/resizer/v2/V4WKUINGN5CXHBQNVN56IYWL6M.jpg?auth=c56cda238c544c0b20b267c662e984fb53695f9a03d3b82380cef371cb29dd05&width=1200&height=800&quality=80&smart=true",
-      "excerpt": "Celebrated author refuses to slow down, speaking at festivals and writing prolifically, including his latest book Resistance",
-      "category": "books",
-      "section": "books"
-    },
-    {
-      "title": "Book-smart and shelf aware: How AI and bots are changing libraries",
-      "url": "https://www.hindustantimes.com/lifestyle/art-culture/booksmart-and-shelf-aware-how-ai-and-bots-are-changing-libraries-101790935951543.html",
-      "source": "Hindustan Times",
-      "published_iso": "2026-10-02T15:42:31+05:30",
-      "og_image": "https://www.hindustantimes.com/ht-img/img/2026/10/02/1600x900/logo/The-shelf-reading-bot-at-Singapore-s-National-Libr_1790935948439_cLoH.jpeg",
-      "excerpt": "Around the world, shelf-reading bots and AI cataloguing are changing the way we borrow from libraries. What does this mean for a millennia-old institution?&nbsp;",
-      "category": "books",
-      "section": "books"
-    },
-    {
-      "title": "Half of surveyed UK novelists fear AI could replace their work entirely",
-      "url": "https://www.thebrighterside.news/post/half-of-surveyed-uk-novelists-fear-ai-could-replace-their-work-entirely/",
-      "source": "The Brighter Side of News",
-      "published_iso": "2026-10-04T11:07:00-07:00",
-      "og_image": "https://www.thebrighterside.news/uploads/2026/10/Screenshot-2026-10-03-100825.png?auto=webp",
-      "excerpt": "A survey of UK novelists finds about half fear AI could replace their work entirely.",
-      "category": "books",
-      "section": "books"
-    },
-    {
-      "title": "In New York, a small library's 'Bye Bye AI' event to remove AI features goes viral",
-      "url": "https://www.thecooldown.com/green-tech/library-bye-bye-ai-event-viral/",
-      "source": "The Cool Down",
-      "published_iso": "2026-09-30T01:41:00+00:00",
-      "og_image": "https://www.thecooldown.com/wp-content/uploads/2026/09/iStock-2189410598.jpg",
-      "excerpt": "A public library in upstate New York has gone viral for offering an unusual kind of tech assistance: helping people switch off AI features on their phones and computers.",
-      "category": "books",
-      "section": "books"
-    },
-    {
-      "title": "Translators celebrate their profession while navigating the surge of AI",
-      "url": "https://kz.kursiv.media/en/2026-09-30/engk-yeri-translators-celebrate-their-profession-while-navigating-the-surge-of-ai/",
-      "source": "Kursiv Media",
-      "published_iso": "2026-09-29T19:01:00+00:00",
-      "og_image": "https://cdn-kz.kursiv.media/wp-content/uploads/2026/09/836655afd901fc1f5913.jpg",
-      "excerpt": "Translators celebrate International Translation Day despite rise of AI",
-      "category": "books",
-      "section": "books"
-    },
-    {
-      "title": "\"AI 시대 '디즈니'를 꿈꾼다\"...레진코믹스 창립 멤버가 어린이 책에 뛰어든 이유",
-      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01489126645584384",
-      "source": "이데일리 마켓in",
-      "published_iso": "2026-09-27T00:00:00+09:00",
-      "og_image": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092700469.jpg",
-      "excerpt": "“웹툰은 한 번 완결되면 이후엔 잘 안 팔려요. 그래서 연재 중인 좋은 작품을 계속 확보해야 하죠. 이 한계를 뛰어넘는 지적재산권(IP)를 만들고 싶었어요”국내 웹툰 유료화 시장을 키운 웹툰 플랫폼 ‘레진코믹스’의 창립 멤버였던 이성업 노틸러스 대표가 최근 가진 이데일리와의 인터뷰에서 다시 콘텐츠 스타트업 창업에 몸을 던진 이유를 이같이 설명했다. 이 대...",
-      "category": "books",
-      "section": "books"
-    },
-    {
-      "title": "EWC denounces AI Tech’s practice of shredding books and calls on Europe’s decision-makers to take a firm stand",
-      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/",
-      "source": "European Writers Council",
-      "published_iso": "2026-09-25T11:32:30+00:00",
-      "og_image": "https://europeanwriterscouncil.eu/wp-content/uploads/2026/09/T-Rex-©-3dMediSphere-scaled.jpg",
-      "excerpt": "The EWC condemns the AI tech practice of « destructively scanning » millions of old or rare European books and calls upon decision-makers and the whole of our European society to speak up loudly on behalf of authors, publishers, and readers on this predatory exploitation.",
-      "category": "books",
-      "section": "books"
+      "title": "Elredo Voice's AI is making publisher backlists worth recording",
+      "url": "https://www.thebookseller.com/features/elredo-voices-ai-is-making-publisher-backlists-worth-recording",
+      "source": "The Bookseller",
+      "published_iso": "2026-09-23T12:51:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/677/Elredo-Voice-sirokouhle.jpg",
+      "excerpt": "Elredo Voice was built to help publishers turn the thousands of books sitting in their backlists into audio using AI narration.",
+      "keyword": "AI audiobook narration",
+      "category": "books"
     }
   ],
-  "notes": "Feeds swept: PW (4 section feeds), Lit Hub, Good e-Reader, Jane Friedman, Publishing Perspectives, Book Riot, TeleRead, Writer's Digest, Electric Lit, Scholarly Kitchen, Digital Reader, Authors Guild, Inside Higher Ed, Wired, Verge, TechCrunch, Ars, Creative Penn YT; Bookseller RSS 404. Most on-list AI items already published (Audible talk-to-characters, De Marque/ElevenLabs, PW AI implementation, IDPA finalists, Bookseller comments, Orelien). Off-list backfill used. Dropped: Lit Hub Audible (dup story), Jane Friedman AI report (same BISG story as published PW), Lynote (Good e-Reader, sponsored), Elredo (Bookseller sponsored), Forbes (blocked).",
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 9,
     "against_days": 5
   },
   "story_dedup": {
@@ -172,26 +121,6 @@
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-05",
-      "title": "Top WSJ Editor Approves AI-Assisted Writing, Says AI Is a “Fact of Modern Life”",
-      "url": "https://futurism.com/artificial-intelligence/wsj-ai-writing-fact-of-life"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Google rolls out AI chatbots for books, with permission from publishers and authors",
-      "url": "https://janefriedman.com/google-rolls-out-ai-chatbots-for-books-with-permission-from-publishers-and-authors/"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "U.S. Department of Justice Files Legal Brief Urging Court to Find AI Training to Be Fair Use",
-      "url": "https://publishingperspectives.com/2026/09/u-s-department-of-justice-files-legal-brief-urging-court-to-find-ai-training-to-be-fair-use/"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Anthropic Copyright Settlement: Publishers Are Making Incorrect Claims on Authors’ Payouts",
-      "url": "https://writerbeware.blog/2026/09/04/anthropic-copyright-settlement-publishers-are-making-incorrect-claims-on-authors-payouts/"
-    },
     {
       "date": "2026-09-06",
       "title": "These are all of the new Spotify Audibook features",
@@ -786,6 +715,26 @@
       "date": "2026-10-03",
       "title": "AI might kill us, but is that so bad?",
       "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "EWC denounces AI Tech's practice of shredding books and calls on Europe's decision-makers to take a firm stand",
+      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Hong Kong comics scene: Creators turning to AI in bid to recapture industry's heyday",
+      "url": "https://www.channelnewsasia.com/watch/hong-kong-comics-scene-creators-turning-ai-in-bid-recapture-industrys-heyday-6427021"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Book-smart and shelf aware: How AI and bots are changing libraries",
+      "url": "https://www.hindustantimes.com/lifestyle/art-culture/booksmart-and-shelf-aware-how-ai-and-bots-are-changing-libraries-101790935951543.html"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "In New York, a small library's 'Bye Bye AI' event to remove AI features goes viral",
+      "url": "https://www.thecooldown.com/green-tech/library-bye-bye-ai-event-viral/"
     }
   ]
 }

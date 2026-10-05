@@ -5747,6 +5747,115 @@
           "x": "Sobre el cine, Cao fue directo: «la calidad actual de los resultados... no está a la altura de los estándares de cine. Pero la gente lo sigue usando», y añadió que la previsualización «es algo enorme para nosotros ahora». Tripo desarrolla plugins para Maya, Houdini y Blender y trabaja en un sistema agéntico que automatice los flujos de trabajo tediosos, construyendo IA «con los artistas... no a su alrededor»."
         }
       ]
+    },
+    "movies/pvc-ai-coded-editor-utilities-roundup": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La inteligencia artificial (Artificial Intelligence) no es buena en todo, pero sí escribiendo código. Las herramientas de software a pequeña escala encajan justo en ese punto fuerte. Iain Anderson no tiene información firme sobre cómo se hicieron las nuevas herramientas que reúne, pero considera razonable suponer que en la mayoría intervino la AI al menos en cierta medida."
+        },
+        {
+          "t": "p",
+          "x": "Como programar se ha vuelto más fácil, en la posproducción aparecen muchas más apps que resuelven pequeños problemas molestos, porque los propios editores pueden diseñar e implementar esas herramientas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+          "cap": "Beat convierte el guion en un documento multifuncional basado en nodos"
+        },
+        {
+          "t": "p",
+          "x": "Entre las elegidas figuran Beat, una herramienta gratuita de guion visual que puede conectar herramientas de AI mediante MCP, y PowerCue, un teleprompter activado por voz."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+          "cap": "Doza Assist es una de las soluciones de edición AI-powered actuales"
+        },
+        {
+          "t": "p",
+          "x": "También aparecen herramientas de premontaje automático como Doza Assist, PowerCut y RoughCut, junto a FCP Extender, que añade a Final Cut Pro una función de extensión generativa."
+        },
+        {
+          "t": "p",
+          "x": "“Todavía hay una gran distancia entre ‘una app hecha para mí’ y ‘una app que la gente quiera comprar’”, escribe Anderson, que señala el marketing y el soporte como enormes desafíos."
+        }
+      ]
+    },
+    "movies/laemmle-inside-the-arthouse-chronicle-ai-audience": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+          "cap": "‘Inside the Arthouse’"
+        },
+        {
+          "t": "p",
+          "x": "El presidente de Laemmle Theatres, Greg Laemmle, y el cineasta y actor Raphael Sbarge presentan “Inside the Arthouse”, un videopodcast que en dos años ha llegado a medio millón de suscriptores en YouTube y a más de 5 millones de visualizaciones."
+        },
+        {
+          "t": "p",
+          "x": "El programa se ha asociado con Chronicle, una empresa de datos AI-driven. Chronicle usa modelos de AI para simular audiencias, analizar el comportamiento y los intereses de los espectadores, llevar el contenido de forma más eficaz al público en redes sociales y adaptar esos datos para que los presentadores decidan cómo promocionar y hacer crecer el podcast."
+        },
+        {
+          "t": "p",
+          "x": "Tras dos meses, los presentadores aseguran que la interacción subió “literalmente casi de la noche a la mañana”. Chronicle crea un modelo de AI entrenado con el propio programa y luego dirige clips con microsegmentación a usuarios concretos, en lugar de “comprar un montón de anuncios y dispararlos a lo loco”, explicó el cofundador Scott Greenberg."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados están influyendo en la duración de los episodios, la elección de invitados e incluso en posibles eventos en vivo en las salas de Laemmle."
+        }
+      ]
+    },
+    "movies/motionographer-ai-animation-ip-production": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La AI generativa está pasando rápidamente de la experimentación a la animación profesional y la producción comercial. Para estudios, agencias y marcas, la oportunidad es considerable."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+          "cap": "Ani, un pequeño robot de ojos rosados y brillantes, corre por un escritorio"
+        },
+        {
+          "t": "p",
+          "x": "Pero a medida que la AI se integra en la producción convencional, surge una pregunta más importante: ¿qué ocurre con el material que se introduce en estos sistemas? Los equipos creativos trabajan a diario con campañas inéditas, personajes propios, material audiovisual confidencial y valiosa propiedad intelectual de sus clientes."
+        },
+        {
+          "t": "p",
+          "x": "Las protecciones varían mucho entre proveedores de AI. Algunos se comprometen a no entrenar modelos con el contenido de los clientes; otros conservan amplios derechos sobre el material subido."
+        },
+        {
+          "t": "p",
+          "x": "Jon Draper, Creative Director for Generative AI en Synima y fundador de AIAnimation.com, cree que esta será una de las cuestiones decisivas a medida que madure la animación con AI. La siguiente etapa girará en torno a la infraestructura profesional: propiedad clara, acceso controlado, manejo seguro de los activos de los clientes y transparencia sobre cómo se usan los datos."
+        }
+      ]
+    },
+    "movies/mformedia-arcana-labs-ai-pact": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+          "cap": "MForMedia"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: MForMedia, de Dubai, buscará incorporar flujos de trabajo de AI en sus producciones tras un acuerdo con Arcana Labs. Las dos compañías han cerrado una alianza estratégica para integrar el software de Arcana en los flujos de producción de MForMedia, en coproducciones en árabe y en la formación del personal. El objetivo general es desarrollar capacidades de producción de cine y televisión AI-native en toda la región de Oriente Medio y el Norte de África (MENA)."
+        },
+        {
+          "t": "p",
+          "x": "Arcana Studios, el brazo de producción de Arcana Labs, y MForMedia también coproducirán contenido original para el público de MENA, con títulos aún sin anunciar ya en desarrollo. Además, el personal de MForMedia recibirá este mes un taller de formación de cinco días sobre producción AI-native."
+        },
+        {
+          "t": "p",
+          "x": "“Con este modelo, estamos integrando un pipeline AI-native dentro de un estudio regional desde el primer día”, dijo Jonathan Yunger, CEO de Arcana Labs. “Ahora se puede crear contenido en Dubai, en árabe, más rápido y de forma más rentable que nunca, lo que garantiza que la producción en árabe se quede en la región.”"
+        },
+        {
+          "t": "p",
+          "x": "MForMedia, dirigida por sus cofundadores y Managing Partners Ralph Matar y Khalil Homeissy, produce las versiones en árabe de Carpool Karaoke y The X Factor. La noticia llega poco después de que MForMedia contratara como Managing Director a Ziad Kebbi, veterano de la televisión en MENA, cuando la compañía anunció su giro hacia la producción con AI, el contenido original y la propiedad de IP."
+        }
+      ]
     }
   }
 }

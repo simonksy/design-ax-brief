@@ -6153,6 +6153,139 @@
           "x": "Otros científicos advierten sobre riesgos para la privacidad mental, sobre todo si métodos similares se trasladan al EEG. \"Tenemos que tomarnos un poco más en serio las consideraciones éticas\", afirma Tommy Sprague, neurocientífico de UCSB."
         }
       ]
+    },
+    "science/berkeley-lab-heat-shield-xray-ai-ablation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los escudos térmicos protegen las naves mediante ablación, pero los investigadores suelen ver solo imágenes del antes y el después (before-and-after). Artemis I mostró una carbonización inesperada y una pérdida desigual de material que las simulaciones no habían previsto."
+        },
+        {
+          "t": "video",
+          "yt": "04rSPGwMLlM"
+        },
+        {
+          "t": "p",
+          "x": "Una colaboración entre NASA y la Advanced Light Source del Lawrence Berkeley National Laboratory cambió eso. Investigadores del LBNL construyeron una cámara que calienta muestras hasta 900℃ mientras la X-ray micro-computed tomography capta imágenes 3D del material a medida que se degrada."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+          "cap": "Ingenieros trabajan en el escudo térmico de Artemis II en el Kennedy Space Center. Crédito - NASA"
+        },
+        {
+          "t": "p",
+          "x": "Las partículas de corcho del SLA-561V se vaporizan y dejan huecos, mientras que el SLA-220 se degrada en microcanales ramificados (micro-channels) que expulsan gases calientes."
+        },
+        {
+          "t": "p",
+          "x": "Para equilibrar velocidad y resolución, el equipo entrenó una Generative Adversarial Network (GAN) que convierte escaneos rápidos de resolución intermedia (intermediate-resolution) en registros 3D de alta resolución (high-resolution) del material mientras se deformaba, se carbonizaba y se vaciaba. Las simulaciones de ingeniería aún no se han actualizado."
+        }
+      ]
+    },
+    "science/autonomous-ai-dermatology-appointments-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+          "cap": "Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio en condiciones reales (real-world) con 8,391 pacientes, presentado en el EADV Congress 2026, halló que la AI autónoma podría liberar capacidad suficiente para más de 8,500 consultas dermatológicas presenciales (face-to-face) adicionales en dos hospitales de U.K. a lo largo de 16 meses."
+        },
+        {
+          "t": "p",
+          "x": "Un dispositivo médico de AI Class III con marcado CE (CE-marked) clasificó imágenes de lesiones cutáneas tomadas con smartphone, dio de alta de forma autónoma los casos benignos y derivó los de mayor riesgo (higher-risk) a revisión por teledermatólogos. La AI dio de alta al 31% y al 25% de los pacientes en los dos hospitales sin revisión de un clínico."
+        },
+        {
+          "t": "p",
+          "x": "Se estimó que la vía ahorró 2,851 horas de tiempo clínico, un aumento de capacidad de alrededor del 62%, y redujo la tasa de biopsias del 43% al 27%."
+        },
+        {
+          "t": "p",
+          "x": "En un conjunto de datos nacional, la sensibilidad superó el 98% para melanoma invasivo, SCC y BCC. La vigilancia poscomercialización (post-market) detectó seis falsos negativos, sin resultados adversos identificados. \"Desplegar un sistema de AI de forma segura no es un ejercicio puntual (one-off)\", dijo la autora principal, Dr. Lucy Thomas."
+        }
+      ]
+    },
+    "science/copenhagen-chatbots-knowledge-collapse-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+          "cap": "Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio dirigido por el Departamento de Ciencias de la Computación (DIKU) de la University of Copenhagen concluye que los grandes modelos de lenguaje ofrecen un abanico de información mucho más estrecho que una búsqueda web convencional. Se presentará en EMNLP 2026."
+        },
+        {
+          "t": "p",
+          "x": "El equipo probó 27 modelos en 155 temas con 200 formulaciones de prompt cada uno, lo que generó unos 70 millones de afirmaciones. Incluso el modelo más diverso, GPT-5 de OpenAI, ofreció al menos un 18.7% menos de variedad informativa que Google."
+        },
+        {
+          "t": "p",
+          "x": "\"La gente está expuesta en gran medida a la misma información una y otra vez\", afirma el primer autor, Dustin Wright, ahora en Aalborg University."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos comprimen su texto de entrenamiento y filtran los patrones menos comunes. Si se entrenan cada vez más con texto AI-generated, el abanico podría estrecharse con cada generación, un riesgo que los investigadores llaman \"colapso del conocimiento\". La autora sénior Isabelle Augenstein señala que los modelos más nuevos son algo más diversos, así que eso aún no ocurre."
+        }
+      ]
+    },
+    "science/stanford-ai-benchmarks-measurement-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+          "cap": "Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los benchmarks puntúan a los modelos de AI en todo, desde el razonamiento hasta la seguridad, y de ellos dependen miles de millones de dólares y decisiones políticas. En dos nuevos estudios, investigadores de Stanford y sus colaboradores se preguntaron si estas pruebas miden lo que dicen medir."
+        },
+        {
+          "t": "p",
+          "x": "Con herramientas de la ciencia de la medición y la psicometría, evaluaron 56 benchmarks de uso extendido y hallaron que no siempre miden lo que afirman y que los que dicen medir lo mismo a menudo discrepan."
+        },
+        {
+          "t": "p",
+          "x": "El benchmark de sesgo BBQ, por ejemplo, acaba midiendo algo más cercano a la comprensión lectora, afirma Sanmi Koyejo."
+        },
+        {
+          "t": "p",
+          "x": "Un segundo artículo muestra que los benchmarks de seguridad traducidos del inglés fallan de dos maneras: las salvaguardas pueden debilitarse y la prueba traducida se vuelve un instrumento menos fiable. \"Quien sostiene la vara de medir dirige el barco\", dice Koyejo."
+        }
+      ]
+    },
+    "science/york-illusion-ai-vision-errors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nuestros ojos no siempre nos dicen con exactitud dónde están las cosas, y eso puede ser un rasgo del funcionamiento de la visión biológica más que un simple defecto. Un nuevo estudio de investigadores de York University usa una ilusión común para preguntar: si la inteligencia artificial debe ver de forma más parecida a nosotros, ¿debería cometer algunos de los mismos \"errores\" perceptivos sistemáticos?"
+        },
+        {
+          "t": "p",
+          "x": "Tras mirar fijamente algo que se mueve de forma constante en una dirección, un objeto inmóvil observado justo después puede parecer ligeramente desplazado en la dirección contraria. Esta ilusión, llamada efecto consecutivo de movimiento (motion aftereffect), ofrece a los científicos una ventana a los cálculos en los que se basa la percepción. El estudio se publicó en Current Biology."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
+          "cap": "Credit: Orhan Pergel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas actuales de visión por AI suelen determinar con precisión dónde está un objeto, pero en general no reproducen la forma en que la experiencia visual reciente puede modificar esa respuesta. Los investigadores hallaron un cambio correspondiente en la corteza visual de los primates, pero no en los modelos de AI que evaluaron. Los resultados también ofrecen un nuevo punto de referencia para evaluar modelos de visión dinámica."
+        },
+        {
+          "t": "p",
+          "x": "\"Si queremos una AI que trabaje con las personas y entienda el mundo de maneras más compatibles con lo humano, no podemos centrarnos solo en si da la respuesta correcta\", afirmó el autor principal, Kohitij Kar."
+        }
+      ]
     }
   }
 }

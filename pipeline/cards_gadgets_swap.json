@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-06",
+  "section": "gadgets",
+  "cards": [
+    {
+      "id": "pixel-search-gemini-teardown",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Pixel Search code hints\nat a Gemini upgrade",
+      "body": "A new Pixel Search update adds a privacy setting, and its code hints at Gemini-powered suggestions to come.",
+      "mini_headline": "Pixel Search may get Gemini",
+      "tool": "Gadgets",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
+            "cap": "Pixel launcher search bar"
+          },
+          {
+            "t": "p",
+            "x": "The new Pixel Search app preloaded on the Pixel 11 series lets users search photos, emails, contacts and more from the app drawer. Now Google appears to be prepping a Gemini-powered upgrade, while also giving users more control over call log and message data."
+          },
+          {
+            "t": "p",
+            "x": "The latest version (1.0.983036833) adds a \"Privacy & Permissions\" section in settings with three toggles: \"Help improve Pixel Search,\" \"Call Logs\" and \"SMS.\""
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
+            "cap": "Pixel Search Privacy & Permissions settings (AssembleDebug / Android Authority)"
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
+            "cap": "Pixel Search privacy toggles (AssembleDebug / Android Authority)"
+          },
+          {
+            "t": "p",
+            "x": "Turning off \"Help improve Pixel Search\" stops data being aggregated for usage insights; the \"Call Logs\" and \"SMS\" toggles stop Google using that history to improve contact suggestions. Disabling them doesn't hide calls or messages from results, though — for that, revoke the app's Call logs and SMS permissions."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
+            "cap": "Pixel Search app permissions (AssembleDebug / Android Authority)"
+          },
+          {
+            "t": "p",
+            "x": "Android Authority also found code for an upcoming \"Gemini-powered suggestions\" feature. Strings read \"Show Gemini-powered suggestions\" and \"See relevant info and Gemini-suggested actions to help you finish a task faster.\""
+          },
+          {
+            "t": "p",
+            "x": "Gemini-powered suggestions aren't live yet and could arrive in a future update, but the privacy section is already available. Pixel 11 owners can update via the Play Store; older Pixels can sideload the app on Android 17 QPR2 Beta 5 or newer."
+          }
+        ]
+      }
+    }
+  ]
+}

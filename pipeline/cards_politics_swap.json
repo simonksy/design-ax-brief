@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-06",
+  "section": "politics",
+  "cards": [
+    {
+      "id": "moreno-letter-anthropic-amodei",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Sen. Moreno writes to Anthropic\nover 'alarmist' AI commentary",
+      "body": "In a Monday letter, Sen. Bernie Moreno urged Anthropic's Dario Amodei to avoid what he called 'alarmist' AI commentary.",
+      "mini_headline": "Moreno writes Anthropic\non 'alarmist' AI talk",
+      "tool": "Politics",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
+            "cap": "Sen. Bernie Moreno at the U.S. Institute of Peace on Sept. 3 in Washington. Photo: Andrew Harnik/Getty Images"
+          },
+          {
+            "t": "p",
+            "x": "Sen. Bernie Moreno (R-Ohio) is urging Anthropic CEO Dario Amodei against an \"alarmist approach\" and \"panic-inducing commentary\" on AI, according to a letter sent Monday and obtained by Axios."
+          },
+          {
+            "t": "p",
+            "x": "Axios describes the letter as the latest example of President Trump's allies targeting Amodei. It comes ahead of Anthropic's expected IPO, with valuation estimates as high as nearly $2 trillion."
+          },
+          {
+            "t": "p",
+            "x": "\"I do not understand how you can ask them to invest their hard-earned savings in Anthropic's continued development while warning those same Americans that your product could ultimately lead to their extinction,\" Moreno wrote. \"With great power comes great responsibility, and in this case, I am concerned that you are failing to meet the moment.\""
+          },
+          {
+            "t": "p",
+            "x": "Adopting Trump's new term \"super intelligence\" (SI) in place of AI, Moreno said Amodei's words agreeing with \"doomer\" views \"indicate that your instinct is to wreak havoc on the public SI discourse.\" He urged more emphasis on how AI can guard against the very threats being warned about, strengthen national security and keep the U.S. ahead of China."
+          },
+          {
+            "t": "p",
+            "x": "Public concern over AI and data centers has become a midterm issue; fellow Ohio Republican Sen. Jon Husted has faced ads accusing him of being pro-data centers as he seeks re-election."
+          }
+        ]
+      }
+    }
+  ]
+}

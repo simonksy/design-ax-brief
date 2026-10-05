@@ -6491,6 +6491,138 @@
           "x": "El acceso a la API tiene un 50 por ciento de descuento hasta el 8 de octubre. Las empresas pueden licenciar pesos comerciales para ejecutar y ajustar el modelo en su propia infraestructura. Se espera una versión open-weight en las próximas semanas. Poco antes del lanzamiento, Ideogram anunció su propio modelo centrado en la edición con la versión 4.5, que también se publicará pronto con pesos abiertos."
         }
       ]
+    },
+    "design/photoshop-remove-tool-no-generative-credits": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "nmvewzc6MG4"
+        },
+        {
+          "t": "p",
+          "x": "Adobe ahora descuenta muchas de las herramientas de AI de Photoshop de una bolsa mensual de créditos generativos, así que saber qué funciones tiran de esa bolsa influye directamente en la libertad con la que se puede editar."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta Remove da la primera sorpresa. Aaron Nace, de PHLEARN, comprueba que su saldo de créditos es de 2,870, pinta sobre un puñado de distracciones con Generative AI activado y el procesamiento en la nube seleccionado, y vuelve a comprobarlo. La cifra no se ha movido. La herramienta también puede funcionar sin conexión con procesamiento en el dispositivo, una vez que Photoshop ha descargado el modelo de AI."
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill, Generative Expand y Generate Image consumen la asignación mensual, y los modelos de socios de otras empresas cuestan más créditos por generación que los modelos Firefly propios de Adobe. Content-Aware Fill y Select Subject no tocan ese saldo, así que conviene acostumbrarse a probar primero la opción gratuita."
+        },
+        {
+          "t": "p",
+          "x": "Otros consejos abarcan las etiquetas scrubby-slider, las máscaras de recorte, la herramienta de mano de ajuste selectivo de Curves y el procesamiento en la nube para obtener bordes más limpios con Select Subject."
+        }
+      ]
+    },
+    "design/adobe-text-to-3d-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+          "cap": "Concepto de mundo text-to-3D de Adobe (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "En los últimos años, Adobe ha lanzado una serie de herramientas de AI, desde los modelos de imagen y video de Firefly hasta AI Relight de Photoshop. Un gran lote de solicitudes de patente recién publicadas sugiere hacia dónde podría ir después, incluidas áreas en las que Adobe tiene hoy poca presencia."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+          "cap": "Patente de Adobe para un generador de mundos text-to-3D con AI (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "Detectada por el rastreador de patentes Patentlyze, una solicitud ante la USPTO describe un método para crear mundos 3D navegables a partir de texto. Un prompt como \"a foggy Japanese garden at dusk\" (un jardín japonés con niebla al anochecer) produciría primero una imagen 2D esférica intermedia, como una vista 360, que un segundo proceso de AI usaría después como base para construir la geometría 3D. Los usuarios podrían ver el resultado desde varias perspectivas y avanzar y retroceder dentro de él."
+        },
+        {
+          "t": "p",
+          "x": "Hoy, construir entornos 3D es lento y a menudo exige cientos de recursos esculpidos y pintados. Las apps Substance de Adobe cubren partes de ese proceso, pero Substance 3D Modeler sigue siendo minoritario frente a ZBrush y Blender y aún no tiene herramientas Firefly-powered. Los productos existentes más cercanos, como Skybox AI de Blockade Labs, generan escenas 360-degree en lugar de entornos navegables."
+        },
+        {
+          "t": "p",
+          "x": "Otras solicitudes recientes de Adobe abarcan una AI que crea nuevos ángulos de cámara a partir de una sola foto, la correspondencia de materiales entre modelos 3D y vistas previas de prendas en 3D. Creative Bloq señala que una solicitud de patente no indica necesariamente planes de lanzar un producto."
+        }
+      ]
+    },
+    "design/apple-macos-ai-agent-full-disk-access-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+          "cap": "Credit: Apple"
+        },
+        {
+          "t": "p",
+          "x": "Apple ha publicado un aviso titulado “Updates to Full Disk Access in macOS” en su página de Apple Developer, en el que advierte contra dar a los agentes de AI Full Disk Access de maneras que podrían poner en riesgo a los usuarios."
+        },
+        {
+          "t": "p",
+          "x": "Apple afirma que algunos desarrolladores usan Full Disk Access de formas que exponen todo lo que hay en los sistemas de los usuarios —incluidos archivos, correo, mensajes e incluso el historial de navegación— sin que los usuarios lo sepan ni lo entiendan del todo."
+        },
+        {
+          "t": "p",
+          "x": "“En adelante, introduciremos controles adicionales para garantizar que los usuarios que de verdad deseen conceder a una app este nivel extraordinario de acceso solo puedan hacerlo mediante una acción muy explícita. Resolver esto es fundamental. A medida que los agentes de AI se vuelvan cada vez más capaces y autónomos, los riesgos asociados a este nivel de acceso crecerán de forma considerable.”"
+        },
+        {
+          "t": "p",
+          "x": "Hasta que lleguen esos controles, No Film School señala que el riesgo puede evitarse no dando a los agentes de AI ese acceso en absoluto."
+        }
+      ]
+    },
+    "design/uxcollective-ai-skill-atrophy-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+          "cap": "Cuando la descarga cognitiva se convierte en desaprendizaje (Visualization by Slava Polonski)"
+        },
+        {
+          "t": "p",
+          "x": "La AI no nos está volviendo menos inteligentes. Está reduciendo la cantidad de inteligencia que practicamos. El verdadero problema es que podemos olvidar poco a poco cómo hacer cosas que ya no tenemos que hacer."
+        },
+        {
+          "t": "p",
+          "x": "Slava Polonski analiza la atrofia de habilidades por la AI y la descarga cognitiva: qué ocurre cuando delegamos el pensamiento, el juicio y el esfuerzo que, en primer lugar, hicieron nuestras esas habilidades."
+        },
+        {
+          "t": "p",
+          "x": "El ensayo empieza con los números de teléfono. Nadie decidió dejar de memorizarlos; esa capacidad simplemente dejó de usarse en silencio y, después, en silencio dejó de existir. Ceder una habilidad a una máquina no se siente como una pérdida. Se siente como una mejora."
+        }
+      ]
+    },
+    "design/formas-cartesian-agentic-modeller": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Formas.AI ha presentado Cartesian, una plataforma AI-assisted (asistida por AI) para las primeras fases del diseño de arquitectura, interiores, mobiliario y producto, que busca convertir conceptos AI-generated (generados por AI) en geometría editable y con sentido físico. Los diseñadores pueden partir de fotografías, bocetos, encargos escritos o modelos existentes y después refinar cada componente mediante conversación."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“La tecnología que hay detrás puede ser increíblemente compleja. La experiencia no debería serlo”, afirmó Yiping Goh, cofundador y CEO."
+        },
+        {
+          "t": "p",
+          "x": "En su núcleo hay una capa de kernel CAD propia y un conjunto de herramientas geométricas creados para agentes de AI, capaces de construir sólidos y superficies libres, e inspeccionar y revisar la geometría de forma programática. Los modelos se organizan en componentes, capas y ensamblajes con nombre; el cofundador Carlos Bañón dijo que estas relaciones “dan significado a la geometría y ayudan a preservar la intención de diseño a medida que el modelo cambia”."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un sistema de orquestación coordina varios modelos de AI, entre ellos GPT-6 Astra de OpenAI y Claude Opus 5.5, junto con agentes especializados. Los agentes pueden solicitar estudios de soleamiento, sombras y viento en tiempo real para orientar las decisiones de modelado."
+        },
+        {
+          "t": "p",
+          "x": "Cartesian tiene conexiones en vivo con Rhinoceros y SketchUp, importación y exportación en DXF e IFC, y exportación en STEP y STL. El despliegue de escritorio será gradual en macOS y Windows, con un acceso ampliado previsto a partir del 31 de octubre de 2026."
+        }
+      ]
     }
   }
 }

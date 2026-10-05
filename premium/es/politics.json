@@ -1091,6 +1091,154 @@
           "x": "CalMatters señala que la ley sobre despidos se debilitó durante el proceso legislativo: perdió un procedimiento de apelación para los trabajadores, el derecho a demandar para exigir su cumplimiento y la cobertura de los contratistas."
         }
       ]
+    },
+    "politics/openai-textgrain-eu-ai-act-watermarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Una marca de agua invisible y legible por máquinas en el texto generado está llegando a ChatGPT y Codex, aunque al principio solo para usuarios de la Unión Europea."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI afirma que su marca de agua textGrain “igualó o superó” a otros enfoques como SynthID para texto de Google DeepMind, que también es la base de la marca de agua que Anthropic anunció en agosto. Al igual que OpenAI, Anthropic dio el paso para cumplir los requisitos de la AI Act de la EU."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI también compartió puntuaciones de benchmarks que muestran un rendimiento similar entre texto con y sin marca de agua, pero advierte que textGrain “no garantiza una detección fiable” y que las marcas de agua no verifican la exactitud, no determinan la propiedad, no miden la contribución humana ni prueban la autoría humana."
+        },
+        {
+          "t": "p",
+          "x": "Según OpenAI, la marca de agua llegará en las próximas semanas a los usuarios elegibles de ChatGPT y Codex de todos los planes en la EU; la empresa “no hará de la marca de agua en texto una opción global por defecto en el lanzamiento”. Los clientes de la API de todo el mundo pueden activar desde hoy salidas con marca de agua en modelos seleccionados."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores autorizados y organizaciones expertas pueden solicitar acceso al detector caso por caso en virtud del Code of Practice. Alegando el riesgo de marcas de agua no detectadas y de falsos positivos, OpenAI no pondrá el detector a disposición del público en el lanzamiento."
+        }
+      ]
+    },
+    "politics/european-parliament-deepfake-porn-research": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
+          "cap": "En esta fotoilustración, una pantalla muestra ejemplos de videos creados con prompts de AI, en Londres, el 12 de enero de 2026. | Leon Neal/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Cincuenta legisladores de la Unión Europea, entre ellos 46 mujeres, han sido blanco de pornografía deepfake, según un nuevo estudio publicado el lunes."
+        },
+        {
+          "t": "p",
+          "x": "El número de mujeres afectadas por la pornografía deepfake —cuando se usa AI generativa para crear representaciones sexualmente explícitas de personas, a menudo sin su consentimiento— supone que aproximadamente una de cada seis eurodiputadas se ha visto afectada, según el informe de Agora Digitale Transformation, un grupo de la sociedad civil con sede en Alemania (Germany-based)."
+        },
+        {
+          "t": "p",
+          "x": "La Unión Europea prohibirá el 2 de diciembre las aplicaciones para desnudar impulsadas por AI (AI-powered), y también investiga un uso similar de Grok en la red social X."
+        },
+        {
+          "t": "p",
+          "x": "Un grupo multipartidista de 119 MEPs, que incluye a los líderes de Renew, los socialistas y The Left, pidió la aplicación efectiva de la prohibición y una pronta resolución de la investigación sobre Grok en una carta del 30 de septiembre dirigida a líderes de la EU, entre ellos la presidenta de la Comisión, Ursula von der Leyen."
+        },
+        {
+          "t": "p",
+          "x": "“No puede haber resquicios ni retrasos” en la aplicación de la prohibición, dijo el lunes a los periodistas la MEP de los Verdes austriacos Lena Schilling, que también firmó la carta."
+        },
+        {
+          "t": "p",
+          "x": "Los políticos no pueden optar por que su imagen no esté en internet, por lo que les resulta difícil evitar ser blanco de las herramientas de AI para desnudar, dijo Benjamin Shultz, coautor del informe."
+        },
+        {
+          "t": "p",
+          "x": "Shultz dijo que, para hacer cumplir la prohibición, la Comisión debe pedir cuentas a todas las entidades que, a veces sin querer, facilitan la industria de las herramientas para desnudar. Eso incluye también a los procesadores de pagos y a los registradores de dominios. El informe señala que la Comisión también debería estudiar cómo lograr que los buscadores desindexen los sitios web de AI para desnudar, es decir, que los eliminen de sus bases de datos."
+        }
+      ]
+    },
+    "politics/moreno-letter-anthropic-amodei": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
+          "cap": "El Sen. Bernie Moreno en el U.S. Institute of Peace, el 3 de septiembre en Washington. Foto: Andrew Harnik/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El Sen. Bernie Moreno (R-Ohio) insta al CEO de Anthropic, Dario Amodei, a dejar de lado un “enfoque alarmista” y los “comentarios que inducen al pánico” sobre la AI, según una carta enviada el lunes y obtenida por Axios."
+        },
+        {
+          "t": "p",
+          "x": "Axios describe la carta como el ejemplo más reciente de aliados del presidente Trump que apuntan contra Amodei. Llega antes de la esperada IPO de Anthropic, con estimaciones de valoración de hasta casi 2 billones de dólares."
+        },
+        {
+          "t": "p",
+          "x": "“No entiendo cómo puede pedirles que inviertan sus ahorros, ganados con esfuerzo, en el desarrollo continuo de Anthropic mientras advierte a esos mismos estadounidenses de que su producto podría acabar provocando su extinción”, escribió Moreno. “Un gran poder conlleva una gran responsabilidad, y en este caso me preocupa que no esté a la altura del momento”."
+        },
+        {
+          "t": "p",
+          "x": "Adoptando el nuevo término de Trump, “superinteligencia” (SI), en lugar de AI, Moreno dijo que las palabras de Amodei en sintonía con las posturas “catastrofistas” “indican que su instinto es sembrar el caos en el discurso público sobre la SI”. Pidió poner más énfasis en cómo la AI puede proteger frente a las mismas amenazas sobre las que se advierte, reforzar la seguridad nacional y mantener a Estados Unidos (U.S.) por delante de China."
+        },
+        {
+          "t": "p",
+          "x": "La preocupación pública por la AI y los centros de datos se ha convertido en un tema de las elecciones de medio mandato; el también republicano de Ohio Sen. Jon Husted ha enfrentado anuncios que lo acusan de estar a favor de los centros de datos mientras busca la reelección."
+        }
+      ]
+    },
+    "politics/japan-sovereign-ai-strategy-vs-china": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
+          "cap": "Crédito: ID 132487198 © Mykhailo Polenok | Dreamstime.com"
+        },
+        {
+          "t": "p",
+          "x": "En un análisis para The Diplomat, la autora colaboradora Bonnie Girard sostiene que Japón, aunque va por detrás de Estados Unidos (U.S.) y China en la AI de base, avanza para consolidar una posición de liderazgo en la “AI física” y en el despliegue de AI soberana. El Dr. Takahiro Tsuchiya, de la Universidad de Kioto, afirma que las empresas chinas dominan incluso el mercado interno de AI de Japón, en gran medida por precio."
+        },
+        {
+          "t": "p",
+          "x": "Desde 2025, escribe la autora, Tokio ha actuado para protegerse de las amenazas extranjeras relacionadas con la AI (AI-related) desarrollando AI para Japón, en Japón. Tsuchiya dijo que “Japón no puede copiar a U.S. Japón hace sus propias evaluaciones” de las amenazas que enfrenta."
+        },
+        {
+          "t": "p",
+          "x": "El gobierno lanzó una iniciativa de 6.34 mil millones de dólares ($6.34 billion) a partir del año fiscal 2026 para unir la robótica industrial de Japón con la AI de próxima generación. Nikkei informó de que Sumitomo Corp. se ha asociado con Sakana AI para llevar sus modelos a unas 100,000 empresas clientes."
+        },
+        {
+          "t": "p",
+          "x": "Japón puso en vigor una AI Act en junio de 2025, adoptó un Plan Básico de AI en diciembre de ese año y, según Hello World Japan, comprometió más de 10 billones de yenes para infraestructura de AI y semiconductores. El Gabinete aprobó el 14 de julio un Segundo Plan Básico de AI centrado en la AI agéntica y la soberanía tecnológica, con una hoja de ruta para movilizar 370 billones de yenes (2.3 billones de dólares) para 2040."
+        }
+      ]
+    },
+    "politics/xai-minnesota-nudify-ban-8th-circuit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.apmcdn.org/cc0e4b45f8f2df6e06a5378c54d9e4f46a713afe/widescreen/3b73df-20260113-an-iphone-displaying-the-grok-app-2000.jpg",
+          "cap": "Pantalla de un iPhone con la app y el logo de Grok. Anna Barclay | Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "xAI, de Elon Musk, convenció el viernes a un tribunal federal de apelaciones de Estados Unidos (US) de suspender la prohibición de Minnesota, la primera del país, contra las imágenes falsas de desnudos generadas por AI (AI-generated), mientras la empresa de tecnología y redes sociales sigue adelante con una demanda que sostiene que la ley es inconstitucional."
+        },
+        {
+          "t": "p",
+          "x": "El Tribunal de Apelaciones del Octavo Circuito, con sede en St. Louis (St. Louis-based 8th US Circuit Court of Appeals), dejó la ley en suspenso por ahora al conceder la medida cautelar solicitada por xAI. El mes pasado, un juez de primera instancia había rechazado la petición de Musk de una orden para frenar la ley."
+        },
+        {
+          "t": "p",
+          "x": "La ley estatal contra la \"desnudez\", en vigor desde el 1 de agosto, prohíbe a operadores de sitios web, desarrolladores de software y otros permitir que los usuarios creen imágenes realistas que muestren una parte íntima del cuerpo que no aparece en la foto original de una persona identificable. xAI sostiene que la medida restringe la libertad de expresión protegida por la Constitución de Estados Unidos (US Constitution)."
+        },
+        {
+          "t": "p",
+          "x": "El juez de distrito de Estados Unidos (US District Judge) Donovan Frank dictaminó el mes pasado que xAI no había demostrado que sufriría un daño irreparable mientras impugnaba la ley y que la empresa había esperado demasiado para pedir medidas de emergencia. En su apelación, xAI rechazó esa conclusión y afirmó que su herramienta Grok Imagine incluye \"protecciones rigurosas\" contra la creación de imágenes desnudas o sexualizadas de personas reales."
+        },
+        {
+          "t": "p",
+          "x": "Minnesota había pedido al tribunal de apelaciones que no bloqueara la ley, que según el estado adoptó para combatir una \"cantidad asombrosa de material de abuso sexual infantil que generan productos AI como Grok Imagine\"."
+        }
+      ]
     }
   }
 }

@@ -95676,6 +95676,1028 @@
           "x": "미네소타주는 항소법원에 법 시행을 막지 말아 달라고 요청했다. 주 정부 설명으로는 \"Grok Imagine 같은 AI 제품이 만들어 내는 엄청난 양의 아동 성착취물\"에 대응하려고 도입한 법이다."
         }
       ]
+    },
+    "design/photoshop-remove-tool-no-generative-credits": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "nmvewzc6MG4"
+        },
+        {
+          "t": "p",
+          "x": "이제 Adobe는 Photoshop의 여러 AI 도구 사용량을 월간 생성 크레딧에서 차감한다. 어떤 기능이 크레딧을 쓰는지에 따라 편집의 자유도가 곧바로 달라진다."
+        },
+        {
+          "t": "p",
+          "x": "첫 번째 반전은 Remove 도구다. PHLEARN의 Aaron Nace는 크레딧 잔액 2,870을 확인한 뒤 Generative AI를 켜고 클라우드 처리를 고른 채로 거슬리는 요소 몇 개를 칠해 지운다. 그러고 잔액을 다시 본다. 숫자는 그대로다. AI 모델을 한 번 내려받고 나면 Photoshop은 이 도구를 오프라인 기기 처리로도 돌린다."
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill, Generative Expand, Generate Image는 모두 월간 할당량에서 크레딧을 쓴다. 다른 회사의 파트너 모델은 Adobe 자체 Firefly 모델보다 생성 1회당 크레딧이 더 든다. Content-Aware Fill과 Select Subject는 잔액을 건드리지 않으니 무료 옵션부터 써 보는 습관을 들이는 편이 좋다."
+        },
+        {
+          "t": "p",
+          "x": "그 밖에 scrubby-slider 레이블과 클리핑 마스크, Curves의 대상 지정 손 도구, Select Subject 가장자리를 더 깔끔하게 따는 클라우드 처리 팁도 다룬다."
+        }
+      ]
+    },
+    "design/adobe-text-to-3d-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+          "cap": "Adobe의 text-to-3D 세계 구상 (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "Adobe는 최근 몇 년 동안 Firefly의 이미지·영상 모델부터 Photoshop의 AI Relight까지 AI 도구를 잇달아 내놓았다. 이번에 무더기로 공개된 특허 출원을 보면 지금은 존재감이 거의 없는 분야까지 포함해 Adobe의 다음 행보를 짐작할 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+          "cap": "Adobe의 AI text-to-3D 세계 생성기 특허 (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "특허 추적 서비스 Patentlyze가 찾아낸 USPTO 출원서 하나는 텍스트로 탐색 가능한 3D 세계를 만드는 방법을 설명한다. \"a foggy Japanese garden at dusk\"(해 질 녘 안개 낀 일본 정원) 같은 프롬프트를 넣으면 먼저 360 뷰 같은 구형 2D 중간 이미지가 나온다. 두 번째 AI 과정이 이 이미지를 토대로 3D 지오메트리를 쌓는다. 사용자는 결과물을 여러 시점에서 보고 그 안을 앞뒤로 오갈 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "지금은 3D 환경 제작이 느리다. 조각하고 채색한 에셋이 수백 개씩 필요한 경우도 많다. Adobe의 Substance 앱이 이 파이프라인 일부를 맡지만 Substance 3D Modeler는 ZBrush와 Blender에 비하면 아직 틈새 도구이고 Firefly-powered 도구도 없다. 가장 가까운 기존 제품인 Blockade Labs의 Skybox AI도 탐색 가능한 환경이 아니라 360-degree 장면을 생성한다."
+        },
+        {
+          "t": "p",
+          "x": "Adobe가 최근 낸 다른 출원에는 사진 한 장으로 새 카메라 앵글을 만드는 AI, 3D 모델 사이의 재질 매칭, 3D 의상 미리보기가 들어 있다. Creative Bloq는 특허를 출원했다고 해서 곧 제품을 내놓는다는 뜻은 아니라고 짚는다."
+        }
+      ]
+    },
+    "design/apple-macos-ai-agent-full-disk-access-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+          "cap": "Credit: Apple"
+        },
+        {
+          "t": "p",
+          "x": "Apple은 Apple Developer 페이지에 “Updates to Full Disk Access in macOS”라는 공지를 올렸다. 사용자를 위험에 빠뜨릴 수 있는 방식으로 AI 에이전트에 Full Disk Access를 주지 말라는 경고다."
+        },
+        {
+          "t": "p",
+          "x": "Apple에 따르면 일부 개발자는 Full Disk Access로 파일과 메일, 메시지, 방문 기록까지 사용자 시스템의 모든 것을 노출하고 있다. 정작 사용자는 이를 충분히 알지도, 이해하지도 못한 상태다."
+        },
+        {
+          "t": "p",
+          "x": "“앞으로 이처럼 이례적인 수준의 접근 권한을 앱에 진심으로 부여하려는 사용자가 매우 명시적인 조작을 거쳐야만 그렇게 할 수 있도록 추가 통제 장치를 도입할 것이다. 이 문제를 해결하는 일은 매우 중요하다. AI 에이전트의 능력과 자율성이 커질수록 이 수준의 접근에 따르는 위험도 크게 늘어날 것이다.”"
+        },
+        {
+          "t": "p",
+          "x": "No Film School은 이 통제 장치가 나오기 전까지는 AI 에이전트에 그런 접근 권한을 아예 주지 않으면 위험을 피할 수 있다고 전한다."
+        }
+      ]
+    },
+    "design/uxcollective-ai-skill-atrophy-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+          "cap": "인지적 오프로딩이 망각으로 바뀔 때 (Visualization by Slava Polonski)"
+        },
+        {
+          "t": "p",
+          "x": "AI가 우리를 덜 지적으로 만들지는 않는다. 우리가 연습하는 지능의 양을 줄일 뿐이다. 진짜 문제는 따로 있다. 더는 할 필요가 없는 일을 하는 법을 우리가 서서히 잊을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Slava Polonski는 AI가 부르는 스킬 위축과 인지적 오프로딩을 들여다본다. 애초에 그 기술을 우리 것으로 만들어 준 사고와 판단, 분투를 바깥에 맡기면 무슨 일이 생기는지 묻는다."
+        },
+        {
+          "t": "p",
+          "x": "에세이는 전화번호 이야기로 시작한다. 번호 외우기를 그만두자고 마음먹은 사람은 없다. 그 능력은 그저 조용히 안 쓰이게 됐고 그러다 조용히 사라졌다. 기술을 기계에 넘기는 일은 손실로 느껴지지 않는다. 오히려 나아진 것처럼 느껴진다."
+        }
+      ]
+    },
+    "music/sony-music-260k-deepfake-takedowns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Financial Times에 따르면 Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI-generated 트랙 260,000건 이상을 내려 달라고 디지털 플랫폼에 요청했다. 3월 말까지 요청한 135,000건의 두 배 가까운 규모다."
+        },
+        {
+          "t": "p",
+          "x": "“아티스트의 권리를 계속 지키겠으며, 플랫폼이 신속히 대응하고 같은 콘텐츠가 다시 올라오지 않도록 막아 주기를 기대한다.” Sony는 FT에 이렇게 말했다. “하지만 점점 힘겨운 싸움이 되고 있다.”"
+        },
+        {
+          "t": "p",
+          "x": "딥페이크 표적이 된 Sony 계열(Sony-affiliated) 아티스트로는 Harry Styles, Adele, Britney Spears, Queen, Michael Jackson 등이 있다. 플랫폼이 이 중 몇 곡을 내렸는지, 어떤 서비스가 요청을 받았는지는 FT 보도에 나오지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "레이블 임원들은 스트리밍 사기로 업계가 입는 손실을 연간 최대 $2.2 billion으로 본다고 FT는 전했다. Sony는 개인의 목소리와 시각적 초상에 연방 차원의 권리를 새로 만드는 NO FAKES Act를 지지한다. 법안은 6월 18일 상원 법사위원회를 만장일치로 통과했다."
+        }
+      ]
+    },
+    "music/spotify-editorial-playlists-decline-fake-account-purge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Spotify가 가짜 스트리밍과 AI slop 단속을 공식화한 지 한 해, RapCaviar를 비롯한 에디토리얼 플레이리스트의 청취자가 눈에 띄게 줄었다. PlaylistSupply가 Chartmetric 데이터로 분석한 결과다."
+        },
+        {
+          "t": "p",
+          "x": "Spotify의 “가장 많이 기본 노출되는 네 개 플레이리스트”인 RapCaviar, Today’s Top Hits, Top 50 Global, Viva Latino는 2025년 4월께 정리가 시작된 “이후 매달 팔로워를 잃었다.” 감소 폭은 RapCaviar의 2.6%가 최대일 만큼 크지 않다. 그래도 오랜 성장세는 끊겼다."
+        },
+        {
+          "t": "p",
+          "x": "플레이리스트를 떠나는 전반적 흐름만으로는 설명이 안 된다. 서드파티 플레이리스트의 팔로워 수 중앙값은 2023년 1월 이후 70% 늘었는데, 에디토리얼은 19%에 그쳤다. 보고서는 대형 에디토리얼 플레이리스트가 “가짜 계정이 진짜처럼 보이려고 팔로우하는 바로 그 목록이라, 프로필 정리의 여파가 가장 먼저 드러난다”고 추정한다."
+        }
+      ]
+    },
+    "music/joe-bonamassa-suno-lyrics-stance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
+          "cap": "2026년 8월 28일, GRAMMY Museum의 Joe Bonamassa"
+        },
+        {
+          "t": "p",
+          "x": "Joe Bonamassa는 Austin에서 열린 Eric Clapton’s Crossroads 페스티벌에서 Blues Rock Review와 이야기하다 “매주 빠짐없이 Billboard’s Blues Chart에 오르는” AI 창작물 Eddie Dalton을 꺼냈다."
+        },
+        {
+          "t": "p",
+          "x": "“팬은 자기가 반응하는 것에 반응할 뿐이다… AI 음악을 좋아한다면 그건 100% 그들의 권리다.” 그는 이렇게 말했다. “그런 아티스트가 실제로 살아 있는 사람들과 같은 부문에 있어야 할까? 아니다. 끔찍한 일이다.”"
+        },
+        {
+          "t": "video",
+          "yt": "VF4C5v5datc"
+        },
+        {
+          "t": "p",
+          "x": "Suno를 두고는 특히 신진 아티스트에게 더 너그러웠다. “우리는 엔터테인먼트 사업을 한다. 누군가 Suno로 가사를 쓴다고 해서 중죄도 경범죄도 아니다. 올라가는 중일 때는… 주목받으려 애쓰기 마련이다.” 이런 일이 없는 척하는 건 모래에 머리를 묻는 것과 같다고도 했다."
+        }
+      ]
+    },
+    "music/pope-leo-xiv-human-art-ai-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
+          "cap": "교황"
+        },
+        {
+          "t": "p",
+          "x": "2026년에 교황 기사를, 그것도 두 번이나 쓰게 될 줄은 몰랐지만 결국 이렇게 됐다. 교황 Leo XIV가 다시 인공지능과 예술을 두고 목소리를 냈다. 이번에는 X 게시물이다."
+        },
+        {
+          "t": "p",
+          "x": "“인공지능 시대에 인간의 예술을 기계가 만들어 내는 것과 구별하는 일이 점점 시급해지고 있다.” 트윗에는 이렇게 적혀 있었다."
+        },
+        {
+          "t": "p",
+          "x": "“예술과, 남들이 만든 수백만 장의 이미지를 바탕으로 기계가 통계적 계산을 통해 생성할 수 있는 것 사이에는 미학적 차이 이전에 존재론적 차이가 있다.” 게시물은 이렇게 이어진다."
+        },
+        {
+          "t": "p",
+          "x": "“알고리즘에는 인간다움의 불꽃이 없다. 그래서 교회는 우리의 인간다움을 지키기 위해 예술가 및 문화 기관과의 동맹을 새롭게 하고자 한다.”"
+        },
+        {
+          "t": "p",
+          "x": "그 동맹이 구체적으로 무엇인지는 아직 분명하지 않다. 다만 이번 발언은 1월 교황이 낸 제60차 세계 홍보 주일 담화의 뒤를 잇는다."
+        },
+        {
+          "t": "p",
+          "x": "당시 그는 인간의 창작 산업이 “해체되어 ‘Powered by AI’라는 꼬리표로 대체될 위험에 놓여 있으며, 사람들을 생각되지 않은 생각과 소유도 사랑도 없는 익명의 산물을 수동적으로 소비하는 존재로 만들고 있다”고 경고했다."
+        }
+      ]
+    },
+    "movies/pvc-ai-coded-editor-utilities-roundup": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "인공지능(Artificial Intelligence)이 모든 일을 잘하지는 못해도 코드 작성만큼은 강하다. 작은 소프트웨어 도구가 바로 그 강점에 들어맞는다. Iain Anderson은 자신이 정리한 새 도구들이 어떻게 만들어졌는지 확실히는 모른다면서도, 대부분 적어도 어느 정도는 AI의 손을 거쳤다고 봐도 무리가 없다고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "코딩이 쉬워지자 포스트 프로덕션 분야에도 사소하지만 성가신 문제를 푸는 앱이 부쩍 늘었다. 편집자가 그런 도구를 직접 설계하고 만들 수 있게 됐기 때문이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+          "cap": "Beat는 대본을 노드 기반 다기능 문서로 바꾼다"
+        },
+        {
+          "t": "p",
+          "x": "추천 목록에는 MCP로 AI 도구를 연결하는 무료 비주얼 스크립팅 도구 Beat, 음성으로 움직이는 텔레프롬프터 PowerCue가 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+          "cap": "Doza Assist 역시 요즘 늘어나는 AI-powered 편집 솔루션이다"
+        },
+        {
+          "t": "p",
+          "x": "Doza Assist, PowerCut, RoughCut 같은 자동 러프컷 도구도 소개된다. Final Cut Pro에 생성형 확장 기능을 붙이는 FCP Extender도 목록에 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "“‘나를 위해 만든 앱’과 ‘사람들이 사고 싶어 할 앱’ 사이에는 여전히 큰 간극이 있다.” Anderson은 이렇게 적고 마케팅과 지원을 큰 숙제로 꼽았다."
+        }
+      ]
+    },
+    "movies/laemmle-inside-the-arthouse-chronicle-ai-audience": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+          "cap": "‘Inside the Arthouse’"
+        },
+        {
+          "t": "p",
+          "x": "비디오 팟캐스트 “Inside the Arthouse”는 Laemmle Theatres 대표 Greg Laemmle과 영화감독 겸 배우 Raphael Sbarge가 진행한다. 두 해 만에 YouTube 구독자 오십만 명, 조회수 5백만 회를 넘겼다."
+        },
+        {
+          "t": "p",
+          "x": "이 쇼가 손잡은 곳은 AI-driven 데이터 기업 Chronicle이다. Chronicle은 AI 모델로 관객을 시뮬레이션하고 시청자의 행동과 관심사를 분석한다. 소셜에서 콘텐츠가 더 잘 전달되게 하고, 진행자들이 팟캐스트의 마케팅과 성장 방향을 정하도록 데이터를 맞춤 가공해 준다."
+        },
+        {
+          "t": "p",
+          "x": "두 달 만에 참여도가 “말 그대로 거의 하룻밤 사이에” 올랐다고 진행자들은 말한다. 공동 창업자 Scott Greenberg에 따르면 Chronicle은 쇼 자체로 학습한 AI 모델을 만든 뒤 “광고를 잔뜩 사서 무작정 뿌리는” 대신 특정 사용자에게 클립을 정밀하게 겨눈다."
+        },
+        {
+          "t": "p",
+          "x": "분석 결과는 에피소드 길이와 게스트 섭외를 거쳐 Laemmle 극장에서 열 수 있는 라이브 이벤트에까지 영향을 준다."
+        }
+      ]
+    },
+    "movies/motionographer-ai-animation-ip-production": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "생성형 AI가 실험 단계를 빠르게 벗어나 전문 애니메이션과 상업 제작으로 넘어가는 중이다. 스튜디오와 에이전시, 브랜드에는 꽤 큰 기회다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+          "cap": "분홍빛 눈이 빛나는 작은 로봇 Ani가 데스크톱 위를 달린다"
+        },
+        {
+          "t": "p",
+          "x": "하지만 AI가 주류 제작에 자리 잡을수록 더 중요한 질문이 남는다. 이 시스템에 넣은 자료는 어떻게 되는가? 크리에이티브 팀은 미공개 캠페인, 독점 캐릭터, 기밀 영상, 고객의 귀한 지식재산을 날마다 다룬다."
+        },
+        {
+          "t": "p",
+          "x": "보호 수준은 AI 제공업체마다 크게 다르다. 고객 콘텐츠로 모델을 학습하지 않겠다고 약속하는 곳도 있지만, 업로드된 자료에 폭넓은 권리를 남겨 두는 곳도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Synima의 Creative Director for Generative AI이자 AIAnimation.com 창업자인 Jon Draper는 AI 애니메이션이 성숙할수록 이 문제가 결정적인 쟁점 가운데 하나로 떠오른다고 본다. 다음 단계를 좌우할 것은 명확한 소유권, 통제된 접근, 고객 에셋의 안전한 관리, 데이터 활용의 투명성 같은 전문 인프라라는 설명이다."
+        }
+      ]
+    },
+    "games/jagex-pulls-runescape-genai-trailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "RuneScape Dragon Slayer 2 예고편. 이미지 출처: Jagex"
+        },
+        {
+          "t": "p",
+          "x": "Jagex가 RuneFest에서 공개한 RuneScape 3의 Dragon Slayer 2 퀘스트 예고편에 생성형 AI가 쓰인 일을 두고 입장을 밝혔다. Reddit 이용자들은 손가락이 여섯 개인 손, Air Jordans를 닮은 중세 부츠처럼 GenAI를 폭넓게 쓴 흔적을 여럿 찾아냈다."
+        },
+        {
+          "t": "p",
+          "x": "Jagex에 따르면 이 예고편은 \"GenAI를 쓰지 않겠다고 명시적으로 확인한, 신뢰하는 외부 파트너\"가 만들었다. 회사는 조사하는 동안 홍보물을 내렸다."
+        },
+        {
+          "t": "p",
+          "x": "\"신뢰하던 파트너를 통해 생성형 AI 우려가 불거진 것은 짧은 기간에 벌써 두 번째이며, 이는 우리가 바로잡아야 할 자체 절차의 문제를 드러낸다.\" 다른 한 번은 100 Thieves와의 협업에서였다."
+        },
+        {
+          "t": "p",
+          "x": "Jagex는 검토 절차를 전면 손보고 Dragon Slayer II의 이야기는 커뮤니티 창작자들에게 맡기겠다고 했다. \"우리는 게임, 아트워크, 크리에이티브 에셋을 만드는 데 GenAI를 쓰지 않는다\"는 말도 덧붙였다."
+        }
+      ]
+    },
+    "games/fortnite-replaces-gemini-watermark-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "cap": "Fortnite"
+        },
+        {
+          "t": "p",
+          "x": "Fortnite가 게임 속(in-game) 아트워크 하나를 조용히 바꿨다. 원본에 Google Gemini AI 워터마크가 있다는 걸 팬들이 알아챈 뒤였다."
+        },
+        {
+          "t": "p",
+          "x": "Epic Games는 지난달 Ironmouse, Sleeping Forest & HalaCG의 곡 \"Meow\"를 Fortnite에 추가했다. 그 곡 아트워크 오른쪽 아래 구석에 Gemini 워터마크가 박혀 있었다. 지난 주말 이 사실이 퍼지자 소셜 미디어와 Reddit이 한동안 술렁였다."
+        },
+        {
+          "t": "p",
+          "x": "지금 아트워크는 워터마크 없는 버전으로 바뀌었다. 다만 Gemini 표시는 곡의 원래 아트에 이미 들어 있었고 Epic은 그걸 그대로 게임에 옮겼을 뿐이다. Spotify에서도 같은 표시가 보인다."
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+          "cap": "Fortnite에서 보이던 원래 \"Meow\" 트랙 아트(왼쪽)와 교체된 버전(오른쪽). 이미지 출처: Ironmouse/Epic Games."
+        },
+        {
+          "t": "p",
+          "x": "AI 생성 아트(AI-generated art)는 Fortnite 팬들 사이에서 말이 많은 주제다. IGN은 이번 교체를 두고, 눈에 띄는 AI 요소가 담긴 아트워크를 Epic이 게임에 내걸고 싶어 하지 않는다는 신호로 읽는다."
+        }
+      ]
+    },
+    "games/kojima-on-ai-after-dlss5-death-stranding2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+          "cap": "Death Stranding 2의 Sam Porter Bridges"
+        },
+        {
+          "t": "p",
+          "x": "Hideo Kojima의 Death Stranding 2가 Nvidia DLSS 5를 둘러싼 논쟁에 휘말린 가운데, Kojima가 Koji10 팟캐스트에서 AI 이야기를 꺼냈다."
+        },
+        {
+          "t": "p",
+          "x": "\"창작자로서 이 기술에 대해서는 복잡한 심정이다\"라고 그는 말한다. \"AI는 오래된 사진에 생기를 불어넣거나 색을 입히는 데 능하지 않나. 언젠가는 리메이크를 하지 않게 될지도 모르겠다.\""
+        },
+        {
+          "t": "p",
+          "x": "그래도 AI는 예술적 의도까지 이해하지는 못한다. \"원작을 만든 사람으로서, 누군가 그것을 너무 많이 바꾸는 건 원치 않는다\"고 덧붙인다. \"특정한 조명 설정을 고른 데는 이유가 있었다. AI가 그런 의도를 이해한다면 이야기가 달라지겠지만.\""
+        },
+        {
+          "t": "video",
+          "yt": "YDTq8SeY9s0"
+        },
+        {
+          "t": "p",
+          "x": "\"그건 싫다.\" AI가 알아서 손을 대 바꿔 버리는 일을 두고 한 말이다. \"내 작품에서 내가 AI를 통제한다면 달라질 수도 있다. 그래도 잘 모르겠다.\""
+        },
+        {
+          "t": "p",
+          "x": "\"어쩌면 결국 AI가 그 모든 걸 자동으로 하게 될지도 모른다. 백 년 뒤에는 해상도가 더 높아져 있을 수도 있다. 하지만 별로 내키는 생각은 아니다.\""
+        }
+      ]
+    },
+    "games/rider-agentic-unreal-dev-unreal-fest": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "0C7GjShUnlY"
+        },
+        {
+          "t": "p",
+          "x": "범용 AI는 코드를 짜고 쉬운 부분을 처리한다. 그런데 Unreal Engine 개발의 어려운 일, 그러니까 Gameplay Ability System(GAS) 부트스트랩, 빌드 트리아지, DataTable 작성, 크래시 디버깅, 모바일 설정은 에디터 안과 엔진 서브시스템, 서로 얽힌 설정 파일들 사이에서 벌어진다. 범용 AI가 번번이 틀리는 곳도 바로 여기다."
+        },
+        {
+          "t": "p",
+          "x": "Unreal Fest Chicago 2026에서 녹화한 이 세션은 실용적인 스택 하나를 소개한다. JetBrains Rider, Agent Communication Protocol(ACP, AI 에이전트를 위한 LSP 같은 오픈 에이전트 프로토콜), AgentBridge로 돌아가는 UE 전용(UE-specific) 스킬을 묶은 구성이다. 덕분에 AI 에이전트는 소스 파일에 접근하는 데서 그치지 않고 에디터 안을 직접 보며 손을 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "JetBrains가 다루는 범위는 아키텍처 상담, 올바른 GAS 리플리케이션 설정을 갖춘 C++ 스캐폴딩, GameplayEffects를 활용한 어빌리티 작성, 크래시 트리아지, 텍스트 브리프에 따른 액터 배치, 자동화 테스트까지 개발 라이프사이클 전체다."
+        }
+      ]
+    },
+    "books/scholarly-kitchen-ai-representation-not-scholarship": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI의 문제는 기계가 더 똑똑해진다는 데 있지 않을지도 모른다. 뛰어나지만 한정된 형태의 인지를 우리가 점점 더 잘 증폭하게 됐다는 게 문제일 수 있다. AI는 이미 알려진 것을 재조합한다. 하지만 재조합은 창의성이나 통찰과 다르다."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
+          "cap": "그림 1. 사고 능력과 지능에 결부된 특성 비교."
+        },
+        {
+          "t": "p",
+          "x": "학술 커뮤니케이션은 늘 표상 위에서 돌아갔다. 논문은 연구를, 초록은 논문을, 인용은 저작 사이의 관계를 표상한다. 표상 자체가 최적화 대상이 되면 AI는 학문과의 거리를 더 벌릴 수 있다. 모델은 근거를 이해하지 못한 채 논문을 그럴듯하게 요약하고, 검증할 수 없는 인용을 그럴듯하게 지어내기도 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
+          "cap": "그림 2. 도구에서 에이전트로 갈수록 거버넌스도 역량을 따라가야 한다."
+        },
+        {
+          "t": "p",
+          "x": "AI가 도구에서 에이전트로 옮겨가면 질문도 역량에서 행위 주체성으로 넘어간다. 필자는 AI로 수고를 덜되 전부 덜지는 말라고, 표상 자체를 의심할 수 있는 사람의 능력을 지키라고 촉구한다. 기계가 처리에 능해질수록 우리는 지각에 능해져야 한다."
+        }
+      ]
+    },
+    "books/proyecto451-publisher-ai-policy-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
+        },
+        {
+          "t": "p",
+          "x": "Proyecto451이 40곳이 넘는 출판사의 AI 정책을 검토해 보니 전략은 크게 두 갈래였다. 카탈로그를 AI 기업에 라이선스하거나, 카탈로그를 내부(in-house)에 두고 독자 도구를 만든다."
+        },
+        {
+          "t": "p",
+          "x": "Carlo Carrenho의 정리에 따르면 De Marque는 ElevenLabs와 손잡았다. 자사 Cantook Édition 플랫폼의 출판사들이 고른 책을 ElevenReader에서 오디오로 제공하게 했다. ElevenLabs는 이미 Bookwire, StreetLib 같은 애그리게이터와 협력하며 한 권씩이 아니라 파트너 단위로 AI 낭독(AI-narrated) 카탈로그를 넓히는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "노르웨이 신인 작가 Fabian Heffermehl은 소설이 AI가 아니라 자기 삶과 언어, 몸에서 나왔음을 보이려고 소설 전체를 손으로 썼다."
+        }
+      ]
+    },
+    "books/lithub-ai-writing-spiritual-practice-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
+        },
+        {
+          "t": "p",
+          "x": "문학계가 마침내 묻기 시작했다. 인간 작가는 할 수 있고 인공지능은 못 하는 일은 무엇인가. 답은 대개 목소리, 삶의 경험, 감정의 결을 맴돈다. 그 밑에는 문학 문화가 피해 온 단어가 있다. 영혼이다."
+        },
+        {
+          "t": "p",
+          "x": "AI는 도서관의 책을 모두 집어삼키고 우리 문장 구조를 그대로 뱉어낼 수 있다. 그래도 이름 붙일 수 없는 무언가를 갈망하거나, 사랑하고 잃어본 적 없는 아버지를 애도하지는 못한다. Charlotte Donlon은 AI 시대에 복제할 수 없는 유일한 것이 작가의 영혼인데, 우리는 아직 그것을 돌볼 기반을 마련하지 못했다고 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "Donlon은 문학 콘퍼런스에 내면의 삶과 지속 가능한 창작 실천을 다루는 세션을, MFA 과정에 관조에 관한 선택 과목을 두자고 제안한다. 레지던시는 떠나 있는 시간을 영혼 돌봄(soul-tending)으로 존중하자고 한다. “AI는 나아지겠지만, 진정한 갈망이나 슬픔, 윤리적 자기 성찰(self-interrogation)의 능력은 결코 갖추지 못할 것이다.”"
+        }
+      ]
+    },
+    "gadgets/windows-11-26h2-file-explorer-ai-actions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
+          "cap": "공식 Windows 11 로고."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft가 Windows 11 버전 26H2 배포를 시작했다. Windows 11 2026 Update라고도 부른다. 배포는 2026년 9월 29일 시작됐다. 버전 24H2나 25H2를 쓰는 기기는 작은 활성화 패키지로 받는다."
+        },
+        {
+          "t": "p",
+          "x": "기능 대부분은 월간 업데이트로 이미 PCs에 들어와 있다. 이 패키지는 보통 재시작 한 번으로 그 기능을 켠다. 지원 기간도 새로 시작한다. Home과 Pro는 24개월, Enterprise와 Education은 36개월이다."
+        },
+        {
+          "t": "p",
+          "x": "File Explorer에는 지원 이미지를 편집하고 문서를 요약하는 AI 작업이 들어왔다. 요약(Summarize)은 OneDrive와 SharePoint 파일에서 작동하고 Microsoft 365 구독과 Copilot 라이선스가 있어야 한다. 회사나 학교 계정이라면 File Explorer Home에서 파일에 마우스를 올렸을 때 Open File Location과 Ask Copilot 항목도 뜬다."
+        },
+        {
+          "t": "p",
+          "x": "Explorer는 uu, cpio, xar, nupkg 압축 파일과 음성 입력 이름 바꾸기를 지원한다. 작업 표시줄은 이제 화면 어느 가장자리에나 둘 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "보안 쪽으로는 Sysmon이 내장되고 Administrator protection이 들어왔다(둘 다 기본값은 꺼짐). 양자 내성 알고리즘 ML-KEM과 ML-DSA용 API 지원도 Windows에 추가됐다."
+        }
+      ]
+    },
+    "gadgets/tvos-27-2-apple-intelligence-apple-tv-code": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Apple의 최신 tvOS 27.2 베타가 한 소문에 힘을 싣는다. 차기 Apple TV에 Siri AI와 Apple Intelligence 지원이 들어간다는 소문이다. 코드상으로는 Apple이 tvOS 설정 앱에 Improve Siri & Apple Intelligence 토글을 추가할 모양이다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
+        },
+        {
+          "t": "p",
+          "x": "문구는 이렇다. “Siri, 받아쓰기, 번역에서 주고받은 텍스트와 오디오를 Apple이 수집하고 사용하도록 허용해 파운데이션 모델과 Siri 개선을 도와주세요.”"
+        },
+        {
+          "t": "p",
+          "x": "Apple Intelligence를 지원하는 다른 Apple 기기에도 이름이 비슷한 개인정보 고지와 데이터 공유 동의 항목이 있다. Apple Intelligence를 지원하지 않는 기기라면 이 설정 이름은 “Improve Siri & Dictation”이다. 새 코드가 기존 Siri 데이터 공유 코드와 함께 들어 있으니 이 설정은 Apple Intelligence-capable 하드웨어에서만 보일 공산이 크다."
+        },
+        {
+          "t": "p",
+          "x": "tvOS 27.2에는 새 Siri Messages UI 프레임워크도 있다. 앞으로 Apple TV에 메시지 내용이 뜰 수 있다는 얘기다. Siri가 연결된 iPhone에 온 메시지를 읽어 주고 Apple TV에 스마트 답장 옵션을 띄울 수도 있다. 지금 Apple TV의 Siri는 메시지를 보내지도 읽지도 못하니 이 프레임워크는 Siri AI와 연관됐을 가능성이 크다."
+        },
+        {
+          "t": "p",
+          "x": "Apple은 8GB 또는 12GB RAM에 A19 또는 A19 Pro 칩을 넣은 Apple TV를 개발 중이다. 이 하드웨어라면 온디바이스 Siri AI 기능을 감당할 수 있다. Apple은 tvOS 27.2로 새 Apple TV의 밑작업을 하는 것으로 보인다. 새 Apple TV는 이르면 10월 13일에 나올 수 있다."
+        }
+      ]
+    },
+    "gadgets/wici-one-wireless-gpu-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "빅테크는 클라우드 AI를 쓰려면 집 PC보다 큰 GPU 성능이 필요하다고 사람들이 믿기를 바란다. WiCi One은 클라우드 구독을 하나 더 늘리는 대신 다른 길을 내놓는다. Wi-Fi 7 연결로 저사양 PC에 그래픽 처리 성능을 보내는 eGPU다. “개인 컴퓨팅”을 “공동 컴퓨팅”으로 바꾸는 셈이다."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
+          "cap": "토스터일까, 스피커일까? 판단은 독자의 몫이다. © Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Wi-Fi 7의 최고 속도는 약 11.5Gbps, Thunderbolt 4는 32Gbps 수준이다. 공동 창업자이자 CEO인 Zill Meng에 따르면 WiCi는 간섭과 데이터 전송을 최소화하려고 자체 프로토콜과 펌웨어를 설계했다."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
+          "cap": "말 그대로 데스크톱 PC 한 대 분량 부품이 이 안에 들었다. © Kyle Barr / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "계획된 모델은 두 가지다. RTX 5060 Ti를 넣은 $2,600 모델, RTX 5090을 넣은 $10,000 모델이다. Meng은 RTX 5090 버전으로 DeepSeek-V3 AI 모델을 돌려 보였다. 약 일곱 피트 떨어져서 플레이한 Cyberpunk 2077은 프레임 생성을 켜자 100에서 200 fps 사이를 오갔다. 패스 트레이싱을 켜면 10 fps 가까이로 떨어졌다."
+        },
+        {
+          "t": "p",
+          "x": "Meng도 게임이 최선의 용도는 아닐 수 있다고 말했다. Thunderbolt 4 포트도 달려 있다. WiCi One은 12월 출시 예정인데 그 전에 다듬을 부분이 아직 남았다."
+        }
+      ]
+    },
+    "gadgets/pixel-search-gemini-teardown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
+          "cap": "Pixel 런처 검색창"
+        },
+        {
+          "t": "p",
+          "x": "새 Pixel Search 앱은 Pixel 11 시리즈에 기본으로 들어 있다. 앱 서랍에서 사진, 이메일, 연락처 등을 찾아 준다. Google은 여기에 Gemini-powered 업그레이드를 준비하면서 통화 기록과 메시지 데이터를 사용자가 더 통제하도록 손보는 모양이다."
+        },
+        {
+          "t": "p",
+          "x": "최신 버전(1.0.983036833)은 설정에 “Privacy & Permissions” 섹션을 새로 만들었다. 토글은 “Help improve Pixel Search”, “Call Logs”, “SMS” 세 가지다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
+          "cap": "Pixel Search의 Privacy & Permissions 설정 (AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
+          "cap": "Pixel Search 개인정보 토글 (AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "“Help improve Pixel Search”를 끄면 사용 분석용 데이터 집계가 멈춘다. “Call Logs”와 “SMS” 토글을 끄면 Google이 그 기록을 연락처 추천 개선에 쓰지 않는다. 그래도 검색 결과에서 통화나 메시지가 사라지지는 않는다. 숨기려면 앱의 통화 기록과 SMS 권한을 거둬야 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
+          "cap": "Pixel Search 앱 권한 (AssembleDebug / Android Authority)"
+        },
+        {
+          "t": "p",
+          "x": "Gemini-powered 제안은 아직 켜지지 않았고 이후 업데이트로 나올 수 있다. 개인정보 섹션은 지금 바로 쓸 수 있다. Pixel 11 사용자는 Play Store에서 업데이트하면 되고 이전 Pixel 기기는 Android 17 QPR2 Beta 5 이상에서 앱을 사이드로드할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Gemini-powered 제안은 아직 활성화되지 않았고 향후 업데이트로 나올 수 있지만, 개인정보 섹션은 이미 이용할 수 있다. Pixel 11 사용자는 Play Store에서 업데이트할 수 있고, 이전 Pixel 기기는 Android 17 QPR2 Beta 5 이상에서 앱을 사이드로드할 수 있다."
+        }
+      ]
+    },
+    "science/berkeley-lab-heat-shield-xray-ai-ablation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+        },
+        {
+          "t": "p",
+          "x": "열차폐재는 스스로 깎여 나가는 삭마 방식으로 우주선을 지킨다. 그 과정에서 연구자들이 볼 수 있던 건 대개 전후(before-and-after) 사진뿐이었다. Artemis I에서는 시뮬레이션이 예측하지 못한 탄화와 고르지 않은 소재 손실이 나타났다."
+        },
+        {
+          "t": "video",
+          "yt": "04rSPGwMLlM"
+        },
+        {
+          "t": "p",
+          "x": "이 상황을 바꾼 건 NASA와 Lawrence Berkeley National Laboratory의 Advanced Light Source 간 협력이다. LBNL 연구진이 시료를 최대 900℃까지 달구는 챔버를 만들었고, 가열되는 동안 X-ray micro-computed tomography(미세 컴퓨터단층촬영)가 분해되는 소재를 3D 이미지로 담는다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+          "cap": "Kennedy Space Center에서 Artemis II 열차폐재 작업을 하는 엔지니어들. 출처 - NASA"
+        },
+        {
+          "t": "p",
+          "x": "SLA-561V 속 코르크 입자는 기화하면서 빈 공동으로 남는다. SLA-220은 뜨거운 가스를 내보내는 가지 모양 미세 통로(micro-channels)로 갈라진다."
+        },
+        {
+          "t": "p",
+          "x": "속도와 해상도 사이 균형을 맞추려고 연구팀은 Generative Adversarial Network(GAN)를 학습시켰다. 빠르게 찍은 중간 해상도(intermediate-resolution) 스캔이 이를 거치면, 소재가 뒤틀리고 그을리고 속이 비어 가는 과정을 담은 고해상도(high-resolution) 3D 기록이 된다. 공학 시뮬레이션은 아직 갱신되지 않았다."
+        }
+      ]
+    },
+    "science/autonomous-ai-dermatology-appointments-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+          "cap": "출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "EADV Congress 2026에서 발표된 실제 환경(real-world) 연구는 환자 8,391명을 대상으로 했다. 16개월 동안 U.K. 병원 두 곳에서 자율 AI는 대면(face-to-face) 피부과 진료를 8,500건 넘게 더 받을 수 있는 여력을 만들어 냈다."
+        },
+        {
+          "t": "p",
+          "x": "CE-marked Class III AI 의료기기가 스마트폰으로 찍은 피부 병변 사진을 분류했다. 양성이면 스스로 퇴원 처리하고, 위험이 더 높은(higher-risk) 사례는 원격 피부과 전문의 검토로 넘겼다. 두 병원에서 AI가 임상의 검토 없이 퇴원 처리한 환자는 각각 31%와 25%였다."
+        },
+        {
+          "t": "p",
+          "x": "이 진료 경로로 임상의 시간 2,851시간을 아끼고 진료 역량은 약 62% 늘었으며, 생검 비율은 43%에서 27%로 낮아진 것으로 추산됐다."
+        },
+        {
+          "t": "p",
+          "x": "전국 데이터셋에서 침윤성 흑색종과 SCC, BCC 민감도는 98%를 넘었다. 시판 후(post-market) 감시에서는 위음성 여섯 건이 나왔지만 확인된 부작용은 없었다. 주저자 Dr. Lucy Thomas는 \"AI 시스템을 안전하게 배치하는 일은 일회성(one-off) 작업이 아니다\"라고 말했다."
+        }
+      ]
+    },
+    "science/copenhagen-chatbots-knowledge-collapse-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+          "cap": "출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "대규모 언어 모델이 내놓는 정보는 일반 웹 검색보다 폭이 크게 좁다. 코펜하겐대학교(University of Copenhagen) 컴퓨터과학과(DIKU)가 이끈 연구의 결론이다. 논문은 EMNLP 2026에서 발표된다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 27개 모델에 155개 주제를 묻고, 주제마다 프롬프트 표현을 200가지로 바꿔 가며 약 7000만 개의 주장을 모았다. 가장 다양한 정보를 낸 OpenAI의 GPT-5도 Google보다 최소 18.7% 덜 다양했다."
+        },
+        {
+          "t": "p",
+          "x": "현재 Aalborg University에 있는 제1저자 Dustin Wright는 \"사람들은 상당 부분 같은 정보에 거듭 노출되고 있다\"고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 학습 텍스트를 압축하는 과정에서 드문 패턴을 걸러낸다. AI-generated 텍스트로 학습하는 일이 잦아지면 정보의 폭은 세대를 거치며 좁아질 수 있다. 연구진은 이 위험을 \"지식 붕괴(knowledge collapse)\"라 부른다. 다만 교신저자 Isabelle Augenstein은 최신 모델이 조금 더 다양해진 만큼 아직 그런 일이 벌어지지는 않는다고 짚는다."
+        }
+      ]
+    },
+    "science/stanford-ai-benchmarks-measurement-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+          "cap": "출처: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "벤치마크는 추론부터 안전성까지 AI 모델의 모든 면에 점수를 매긴다. 수십억 달러와 정책 결정이 그 결과에 걸려 있다. Stanford 연구진과 협력자들은 새 연구 두 편에서 이 시험들이 내세운 것을 실제로 재는지 따졌다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 측정 과학과 심리측정학의 도구를 빌려 널리 쓰이는 벤치마크 56개를 검증했다. 벤치마크는 내세운 것을 늘 재지는 않았고, 같은 것을 잰다는 벤치마크끼리도 결과가 자주 엇갈렸다."
+        },
+        {
+          "t": "p",
+          "x": "Sanmi Koyejo는 편향 벤치마크 BBQ를 예로 든다. 그의 설명으로는 BBQ가 재는 것은 결국 독해력에 더 가깝다."
+        },
+        {
+          "t": "p",
+          "x": "두 번째 논문에 따르면 영어에서 번역한 안전성 벤치마크는 두 갈래로 무너진다. 가드레일이 약해질 수 있고, 번역된 시험 자체도 더 불안정한 측정 도구가 된다. Koyejo는 \"측정 막대를 쥔 사람이 배의 키를 잡는다\"고 말한다."
+        }
+      ]
+    },
+    "politics/openai-textgrain-eu-ai-act-watermarks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT와 Codex의 텍스트 출력에 눈에 보이지 않는, 기계가 읽을 수 있는 워터마크가 들어간다. 처음에는 유럽연합 사용자에게만 적용된다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 자사 textGrain 워터마크가 Google DeepMind의 텍스트용 SynthID 등 다른 방식과 “대등하거나 그 이상”이었다고 밝혔다. Anthropic이 8월 발표한 워터마크도 SynthID를 바탕으로 한다. Anthropic 역시 OpenAI처럼 EU AI Act 요건을 맞추려고 이 조치를 내놨다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 워터마크를 넣은 텍스트와 넣지 않은 텍스트의 성능이 비슷하다는 벤치마크 점수도 공개했다. 그러면서도 textGrain이 “신뢰할 수 있는 탐지를 보장하지 않는다”고 밝혔다. 워터마크로는 정확성을 검증하거나 소유권을 판단할 수 없고, 사람의 기여도를 재거나 사람이 썼음을 증명하지도 못한다고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI에 따르면 워터마크는 앞으로 몇 주에 걸쳐 EU 내 모든 요금제의 대상 ChatGPT·Codex 사용자에게 적용된다. 회사는 “출시 시점에 텍스트 워터마크를 전 세계 기본값으로 삼지 않는다”고 밝혔다. 전 세계 API 고객은 오늘부터 일부 모델에서 워터마크가 들어간 출력을 골라 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "승인받은 연구자와 전문 기관은 행동강령(Code of Practice)에 따라 사안별로 탐지기 접근을 신청할 수 있다. 워터마크 누락과 오탐 위험 때문에 OpenAI는 출시 시점에 탐지기를 일반에 공개하지 않는다."
+        }
+      ]
+    },
+    "politics/european-parliament-deepfake-porn-research": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
+          "cap": "사진 일러스트: 2026년 1월 12일 런던의 한 화면에 AI 프롬프트로 만든 영상 예시가 떠 있다. | Leon Neal/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "월요일 공개된 새 연구에 따르면 유럽연합 의원 쉰 명이 딥페이크 음란물의 표적이 됐다. 이 가운데 46명이 여성이다."
+        },
+        {
+          "t": "p",
+          "x": "독일에 본부를 둔(Germany-based) 시민사회단체 Agora Digitale Transformation은 보고서에서 표적이 된 여성 수로 따지면 유럽의회 여성 의원 약 여섯 명 중 한 명이 피해를 입은 셈이라고 밝혔다. 딥페이크 음란물은 생성형 AI로 흔히 당사자 동의 없이 사람을 성적으로 노골적으로 묘사한 것을 말한다."
+        },
+        {
+          "t": "p",
+          "x": "유럽연합은 12월 2일 AI 기반(AI-powered) 누디파이어 앱을 금지한다. 소셜미디어 플랫폼 X에서 Grok이 비슷하게 쓰인 사례도 조사 중이다."
+        },
+        {
+          "t": "p",
+          "x": "Renew, 사회당 그룹, The Left 대표 등 초당적 MEPs 119명은 9월 30일 우르줄라 폰데어라이엔(Ursula von der Leyen) 집행위원장 등 EU 지도부에 서한을 보내 금지 조치를 실효성 있게 집행하고 Grok 조사를 서둘러 매듭지으라고 촉구했다."
+        },
+        {
+          "t": "p",
+          "x": "서한에 함께 서명한 오스트리아 녹색당 MEP 레나 실링(Lena Schilling)은 월요일 기자들에게 금지 조치 집행에 “어떤 허점이나 지연도 있어선 안 된다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "보고서 공동 저자 벤저민 슐츠(Benjamin Shultz)는 정치인은 자기 모습이 온라인에 올라가는 걸 거부할 수 없어서 AI 누디파이어의 표적이 되는 일을 피하기 어렵다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "슐츠는 금지를 집행하려면 집행위원회가 때로 의도치 않게 누디파이어 산업을 돕는 모든 주체에 책임을 물어야 한다고 했다. 결제 처리업체와 도메인 등록업체도 여기에 든다. 보고서는 집행위원회가 검색엔진이 AI 누디파이어 웹사이트를 색인에서 빼도록, 곧 데이터베이스에서 지우도록 하는 방안도 검토해야 한다고 밝혔다."
+        }
+      ]
+    },
+    "politics/moreno-letter-anthropic-amodei": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
+          "cap": "9월 3일 워싱턴 미국평화연구소(U.S. Institute of Peace)의 버니 모레노(Sen. Bernie Moreno) 상원의원. 사진: Andrew Harnik/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Axios가 입수한 월요일 발송 서한에 따르면, 버니 모레노(Sen. Bernie Moreno, R-Ohio) 상원의원은 Anthropic의 다리오 아모데이(Dario Amodei) CEO에게 AI를 둘러싼 “공포를 조장하는 접근”과 “패닉을 유발하는 발언”을 하지 말라고 촉구했다."
+        },
+        {
+          "t": "p",
+          "x": "Axios는 이 서한을 트럼프 대통령의 측근들이 아모데이를 겨냥한 최근 사례로 꼽았다. 기업가치 추정치가 최대 2조 달러에 육박하는 Anthropic의 IPO를 앞둔 시점에 나온 서한이다."
+        },
+        {
+          "t": "p",
+          "x": "모레노는 “당신의 제품이 결국 그들의 멸종으로 이어질 수 있다고 바로 그 미국인들에게 경고하면서, 어떻게 그들에게 힘들게 모은 저축을 Anthropic의 지속적인 개발에 투자하라고 요구할 수 있는지 이해할 수 없다”고 썼다. 이어 “큰 힘에는 큰 책임이 따른다. 이번 경우 당신이 이 순간에 걸맞게 대응하지 못하고 있는 것이 우려된다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "모레노는 트럼프가 AI 대신 쓰기 시작한 새 용어 “초지능”(SI)을 쓰면서, “파멸론자” 시각에 동조하는 아모데이의 발언이 “공공 SI 담론을 혼란에 빠뜨리려는 것이 당신의 본능임을 보여준다”고 말했다. 그러면서 지금 경고하는 바로 그 위협을 AI가 어떻게 막고 국가안보를 강화하며 미국(U.S.)이 중국을 앞서게 할 수 있는지에 더 무게를 두라고 촉구했다."
+        },
+        {
+          "t": "p",
+          "x": "AI와 데이터센터를 향한 대중의 우려는 중간선거 쟁점이 됐다. 같은 오하이오주 공화당 소속 존 허스티드(Sen. Jon Husted) 상원의원은 재선에 도전하면서 자신을 데이터센터 찬성론자라고 비난하는 광고와 맞닥뜨렸다."
+        }
+      ]
+    },
+    "politics/japan-sovereign-ai-strategy-vs-china": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
+          "cap": "출처: ID 132487198 © Mykhailo Polenok | Dreamstime.com"
+        },
+        {
+          "t": "p",
+          "x": "The Diplomat 기고 작가 보니 지라드(Bonnie Girard)는 분석 기사에서 일본이 핵심 AI에서는 미국(U.S.)과 중국에 뒤처졌지만 “물리적 AI”와 소버린 AI 배치에서는 앞자리를 잡으려 한다고 주장한다. 교토대학 쓰치야 다카히로(Dr. Takahiro Tsuchiya) 박사는 중국 기업들이 주로 비용을 무기로 일본 국내 AI 시장까지 장악하고 있다고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "필자에 따르면 도쿄는 2025년부터 일본을 위한, 일본 내 AI를 개발해 외국발 AI 관련(AI-related) 위협을 막는 데 힘써 왔다. 쓰치야는 일본이 맞닥뜨린 위협을 두고 “일본은 미국(U.S.)을 따라 할 수 없다. 일본은 스스로 평가를 내린다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "일본 정부는 2026 회계연도부터 일본 산업용 로봇과 차세대 AI를 묶는 $6.34 billion 규모의 사업을 시작했다. Nikkei는 Sumitomo Corp.가 Sakana AI와 손잡고 약 100,000개 고객사에 Sakana AI의 모델을 공급한다고 보도했다."
+        },
+        {
+          "t": "p",
+          "x": "일본은 2025년 6월 AI Act를 시행하고 같은 해 12월 AI 기본계획을 채택했다. Hello World Japan에 따르면 AI와 반도체 인프라에 10조 엔 이상을 투입하기로 했다. 내각은 7월 14일 에이전틱 AI와 기술 주권을 겨냥한 제2차 AI 기본계획을 통과시켰다. 2040년까지 370조 엔(2.3조 달러)을 동원하는 로드맵이 여기에 담겼다."
+        }
+      ]
+    },
+    "design/bimlogiq-argus-revit-family-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+          "cap": "Revit 안에서 돌아가는 BIMlogiq Argus"
+        },
+        {
+          "t": "p",
+          "x": "BIMlogiq가 Revit용 AI 플랫폼 Argus를 강화했다. Argus는 전문 에이전트 팀을 꾸려 Revit 프로젝트 안에서 워크플로를 바로 자동화한다. 목표만 주면 단계를 짜고 도구를 엮어 처음부터 끝까지(end-to-end) 실행한다. 패밀리 배치와 모델 검토, 태그·치수 기입, 뷰와 시트 작성까지 맡는다. 실행 과정은 명령으로 저장해 두고 팀 전체가 다시 꺼내 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "최근 추가된 Family Creation Agent는 Revit 기본 구성 요소로 완전한 파라메트릭 Revit 패밀리를 처음부터 만든다고 알려졌다. Bathroom Agent는 ADA-compliant(ADA 규정 준수) 욕실을 설계한다. 새 MEP Systems Agent는 장비부터 말단 기구까지 네트워크 흐름을 따라가는데, 시스템 일부가 완전히 연결되지 않아도 작동한다."
+        },
+        {
+          "t": "p",
+          "x": "철근 모델링 에이전트는 첨부한 PDF 사양서에서 3D 철근을 곧바로 생성한다. Argus에는 QA/QC 모듈도 있다. 사용자가 일상 언어로 규칙을 설명하면 AI가 거기에 맞는 검사 항목을 만든다. BIMlogiq는 회사의 과거 데이터와 설계로 학습시킨 전용 에이전트도 개발해 준다."
+        }
+      ]
+    },
+    "music/suno-albums-launch": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "MdxaU0l3FzI"
+        },
+        {
+          "t": "p",
+          "x": "Suno에 Albums가 나왔다. 크리에이터는 Albums로 곡을 모아 하나의 정식 발매작을 만든다. 커버 아트를 생성하거나 업로드하고 트랙 리스트를 정리한 다음 Album을 Suno에 공개하고, 프로젝트 전체를 한곳에서 공유할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "진행자 Luke Conard는 튜토리얼에서 작업 흐름을 처음부터 끝까지 짚는다. Albums와 플레이리스트의 차이, 새 LP나 EP 만들기, Album 아트워크 업로드와 생성, Library나 플레이리스트에서 곡 추가하기가 차례로 나온다."
+        },
+        {
+          "t": "p",
+          "x": "트랙 순서 바꾸기와 Album 세부 정보 편집, 발매 전 초안 공유, 기존 플레이리스트를 Album으로 바꾸기, 모든 곡에 Album 커버 하나 쓰기도 다룬다. 공개하면 무엇이 달라지는지, 발매 후 Album을 찾아 고치는 법까지 설명한다."
+        }
+      ]
+    },
+    "movies/ambassadors-mosa-ai-platform-opens": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amsterdam-based 크리에이티브 제작사 Ambassadors가 사내에서 쓰던 비주얼 AI 워크플로 플랫폼 Mosa를 누구나 쓸 수 있게 열었다. 유월에 처음 선보인 Mosa는 10개 브랜드·에이전시가 참여한 클로즈드 베타를 거쳤다. 그동안 참여사들이 만든 워크플로는 40개, 생성한 에셋은 500개를 넘는다."
+        },
+        {
+          "t": "p",
+          "x": "Mosa는 Ambassadors의 자체 제작 현장에서 나왔다. 이미지와 영상, 업스케일링 도구가 따로 놀다 보니 프롬프트와 데이터, 브랜드 요건을 도구마다 손으로 옮겨야 했다. Mosa는 AI 모델과 데이터, 워크플로 단계를 비주얼 워크플로 하나로 묶는다. 팀은 이 워크플로를 프로젝트와 포맷, 시장을 넘나들며 다시 쓴다."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“좋은 에셋 하나를 만드는 일은 더 이상 어렵지 않기 때문에 이걸 만들었습니다. 어려운 건 포맷과 시장을 가리지 않고, 브랜드를 온전히 지키면서 꾸준히 해내는 일입니다.” Ambassadors의 CIO Diederik Veelo는 이렇게 말했다."
+        },
+        {
+          "t": "p",
+          "x": "단계마다 비용이 드러나고 AI 에이전트가 코딩 없이 워크플로 짜는 일을 돕는다. 이제 스튜디오와 에이전시, 사내 팀은 물론 개인 크리에이터와 프리랜서도 Mosa를 쓸 수 있다. 대규모 조직에는 엔터프라이즈 플랜이 따로 있다."
+        }
+      ]
+    },
+    "games/unity-agent-concept-art-to-ui-menu": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IYvRShclEL8"
+        },
+        {
+          "t": "p",
+          "x": "터미널을 떠나지 않고도 콘셉트 아트가 실제로 돌아가는 게임 UI가 된다."
+        },
+        {
+          "t": "p",
+          "x": "콘셉트 아트와 짧은 브리프만 건네면 에이전트가 Unity CLI로 작동하는 UI Toolkit 메인 메뉴를 만들어 낸다."
+        },
+        {
+          "t": "p",
+          "x": "테스트도 에이전트가 직접 한다. Play mode UI 테스트를 돌리고 Game view 스크린샷으로 바뀐 부분을 확인하며 작업을 되풀이한다."
+        },
+        {
+          "t": "p",
+          "x": "방향은 사람이 잡고, 만드는 일은 에이전트가 맡는다."
+        }
+      ]
+    },
+    "books/ross-appeal-ai-fair-use-ruling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "미국출판협회(Association of American Publishers)와 Authors Guild가 Thomson Reuters v. ROSS 사건 항소심 판결을 반겼다. 항소법원은 ROSS가 Thomson Reuters의 Westlaw 헤드노트를 복제한 행위를 공정이용으로 인정하지 않았다. AI 기업의 이런 무단 복제에 항소법원이 공정이용 보호를 거부한 첫 사례다."
+        },
+        {
+          "t": "p",
+          "x": "Thomson Reuters는 ROSS가 Westlaw 헤드노트로 자사 AI 플랫폼을 학습시키자 2020년 5월 U.S. 델라웨어 연방지방법원에 소송을 냈다. 델라웨어 법원이 Thomson Reuters의 손을 들어주자 AAP는 2025년 11월 제3순회항소법원(Third Circuit)에 법정조언자 의견서를 냈다. ROSS의 공정이용 주장을 물리치고 원심을 확정해 달라는 내용이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+          "cap": "필라델피아의 James A. Byrne United States Courthouse. 사진: ajay_suresh, CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "AAP CEO Maria Pallante는 “제3순회항소법원은 AI 학습용 라이선스 시장이 존재할 뿐 아니라 ‘빠르게 성장하고 있다’는 점을 정확히 짚었다”며 이번 판결을 “이 강력한 선례”라 불렀다."
+        },
+        {
+          "t": "p",
+          "x": "Authors Guild CEO Mary Rasenberger는 이번 판결이 “저작권법의 정당성을 입증한다. AI가 학습한 바로 그 작품을 대체하는 AI 시스템을 학습시키려고 남의 작품을 훔쳐서는 안 된다는 점을 분명히 한다”고 말했다."
+        }
+      ]
+    },
+    "gadgets/meta-rayban-walking-navigation-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Meta가 Ray-Ban 스마트 글라스 업데이트를 내놓았다. 오디오 재생이 나아졌고 턴바이턴 도보 길안내가 새로 붙었다."
+        },
+        {
+          "t": "p",
+          "x": "시스템 업데이트 버전 129에는 오디오 변화가 두 가지 들어갔다. Mono Audio는 왼쪽과 오른쪽 채널을 하나로 합쳐 잘 들리지 않는 쪽 소리도 놓치지 않게 한다. Audio Balance는 소리를 왼쪽이나 오른쪽 귀 쪽으로 옮긴다. 둘 다 Meta AI 응답이나 알림처럼 글라스에서 나오는 소리에 적용된다."
+        },
+        {
+          "t": "p",
+          "x": "9월 초 처음 공개된 버전 128도 이제 널리 배포되는 중이다. Spatial Audio 지원과 새 위치 기능이 들어갔고, 프라이버시 LED를 건드리면 카메라가 작동하지 않게 막는 변조 방지 조치도 더해졌다."
+        },
+        {
+          "t": "p",
+          "x": "가장 눈에 띄는 건 턴바이턴 도보 길안내다. “Hey Meta, Times Square로 안내해 줘”라고 말하면 그만이다. 위치 정보는 휴대폰에서 가져온다. 지도 앱에서 장소를 Meta AI로 바로 공유해 글라스에서 길안내를 시작해도 된다. 목적지가 멀면 Meta가 휴대폰으로 운전 경로를 보낸다."
+        },
+        {
+          "t": "p",
+          "x": "오디오 변화는 이제 막 배포를 시작했다. 길안내는 Meta AI 앱 업데이트로 이미 널리 풀리는 중이다."
+        }
+      ]
+    },
+    "science/pfas-yeast-biosensor-ai-detection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+          "cap": "출처: Orhan Akbaba, Pexels"
+        },
+        {
+          "t": "p",
+          "x": "영원한 화학물질(PFAS)은 미국인 90% 이상에게서 검출되고, U.S. 지방자치단체 상수도의 절반 가까이에도 들어 있다고 알려졌다. 새 EPA 규정으로 수도 사업자는 검사를 자주 해야 한다. 그런데 대부분은 비싸고 결과가 몇 주씩 걸리기도 하는 질량분석(mass-spectrometry) 실험실에 기댄다."
+        },
+        {
+          "t": "p",
+          "x": "Virginia Cornish가 이끄는 Columbia와 City College 공동 연구팀은 \"바이오하이브리드(biohybrid)\" 장치를 개발 중이다. 조작 효모와 AI-designed 단백질, CMOS 센서 칩을 묶어 PFAS를 검출하고 제거 과정도 모니터링한다."
+        },
+        {
+          "t": "p",
+          "x": "Saccharomyces cerevisiae에 넣은 합성 수용체가 표적 화학물질과 붙으면 효모는 초록빛을 낸다. 이런 수용체를 설계하는 데 예전엔 몇 년이 걸렸다. 연구팀은 Mohammed AlQuraishi 연구실의 AI 도구로 설계-제작-시험(design-build-test) 주기를 몇 주로 줄이는 중이고, 지금 겨냥하는 물질은 PFOA와 PFOS다."
+        },
+        {
+          "t": "p",
+          "x": "형광은 Ken Shepard 연구실의 CMOS 칩이 읽는다. 사용자는 일회용 스틱을 물에 담그기만 하면 곧바로 결과를 본다. Cornish는 비용이 기존 방식보다 몇 자릿수 낮아질 것으로 내다본다."
+        }
+      ]
+    },
+    "politics/norway-ai-glasses-temporary-ban": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
+          "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성."
+        },
+        {
+          "t": "p",
+          "x": "웨어러블 기술을 둘러싼 사생활 우려가 커지자 노르웨이가 일부 공공장소에서 AI 안경 사용을 한시적으로 막자고 제안했다. 주요 국가 가운데 처음이다."
+        },
+        {
+          "t": "p",
+          "x": "중도좌파 정부는 월요일 공원, 해변, 학교, 유치원 같은 곳을 대상으로 한 한시 금지 법안을 곧 의회에 내겠다고 밝혔다. 영구적인 국가 규칙을 제안할 전문가 그룹도 꾸린다."
+        },
+        {
+          "t": "p",
+          "x": "토르게이르 미카엘센(Torgeir Micaelsen) 디지털화부 장관은 “사람들이 자신도 모르게 사진이나 영상으로 찍히거나 녹음될 위험이 있는 강력한 신기술이 도입되는 것이 우려된다”고 말했다. 한시적 금지가 “철저한 평가를 진행하고, 영구 규제의 토대가 될 수 있는 충분한 정보에 기반한 논의를 할 시간을 줄 것”이라고도 했다."
+        },
+        {
+          "t": "p",
+          "x": "오슬로 학교들과 석유·가스 대기업 Equinor는 이미 이 안경을 금지했다. 호주도 일부 공공장소에서 금지를 검토 중이다. 노르웨이는 전면 금지까지는 원하지 않는다며 동의 없이 사람을 찍을 위험이 없는 곳이라면 적절히 써도 된다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Meta, Google, OpenAI는 스마트 안경이 휴대폰을 대신해 AI로 들어가는 주요 관문이 되리라 본다. Counterpoint Research는 2026년부터 2032년까지 소비자가 웨어러블에 1조 달러 이상을 쓸 것으로 추정한다. 반면 사생활 우려 탓에 이를 “변태 기술”이라고 부르는 활동가들도 있다."
+        }
+      ]
     }
   }
 }

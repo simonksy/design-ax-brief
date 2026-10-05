@@ -5352,6 +5352,115 @@
           "x": "谈到电影，Cao直言：“目前输出的质量……还达不到电影级标准。但人们仍在使用”，并补充说预演“现在对我们来说是一件大事”。Tripo正在为Maya、Houdini和Blender开发插件，并致力于打造能自动化繁琐工作流的智能体系统，以“与艺术家一起……而不是绕开他们”的方式构建AI。"
         }
       ]
+    },
+    "movies/pvc-ai-coded-editor-utilities-roundup": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "人工智能（Artificial Intelligence）并非样样精通，但很擅长写代码，小型软件工具恰好是它的用武之地。Iain Anderson并没有确切信息说明他汇总的这些新工具是如何开发的，但他表示，可以合理推测其中大多数至少在某种程度上用到了AI。"
+        },
+        {
+          "t": "p",
+          "x": "由于编程变得更容易，后期制作领域出现了越来越多解决恼人小问题的应用，因为剪辑师已经能够自己设计并实现这些工具。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+          "cap": "Beat把剧本变成基于节点的多功能文档"
+        },
+        {
+          "t": "p",
+          "x": "入选工具包括可通过MCP接入AI工具的免费可视化脚本工具Beat，以及声控提词器PowerCue。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+          "cap": "Doza Assist是当下一批AI-powered剪辑方案之一"
+        },
+        {
+          "t": "p",
+          "x": "Doza Assist、PowerCut和RoughCut等自动粗剪工具也在其列，此外还有为Final Cut Pro加入生成式扩展功能的FCP Extender。"
+        },
+        {
+          "t": "p",
+          "x": "“‘为自己做的应用’和‘人们愿意掏钱买的应用’之间仍有很大差距。”Anderson写道，并指出营销和支持是巨大的挑战。"
+        }
+      ]
+    },
+    "movies/laemmle-inside-the-arthouse-chronicle-ai-audience": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+          "cap": "‘Inside the Arthouse’"
+        },
+        {
+          "t": "p",
+          "x": "Laemmle Theatres总裁Greg Laemmle与电影人、演员Raphael Sbarge主持的视频播客“Inside the Arthouse”，两年间已发展到YouTube订阅者五十万、观看次数超过5百万。"
+        },
+        {
+          "t": "p",
+          "x": "该节目已与AI-driven数据公司Chronicle合作。Chronicle用AI模型模拟受众、分析观众行为与兴趣，在社交平台上更有效地推送内容，并对数据进行定制，帮助主持人决定如何推广和发展播客。"
+        },
+        {
+          "t": "p",
+          "x": "两个月后，主持人表示互动量“真的几乎是一夜之间”就上来了。联合创始人Scott Greenberg说，Chronicle会用节目本身训练一个AI模型，再把片段精准推送给特定用户，而不是“买一堆广告然后到处乱撒”。"
+        },
+        {
+          "t": "p",
+          "x": "这些发现正在影响节目时长、嘉宾邀约，甚至可能在Laemmle影院举办的现场活动。"
+        }
+      ]
+    },
+    "movies/motionographer-ai-animation-ip-production": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "生成式AI正迅速从试验阶段走向专业动画和商业制作。对工作室、代理商和品牌而言，这是一个重大机遇。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+          "cap": "Ani是一个眼睛闪着粉光的小机器人，正跑过桌面"
+        },
+        {
+          "t": "p",
+          "x": "但随着AI成为主流制作的一部分，一个更重要的问题浮出水面：输入这些系统的素材会怎样？创意团队日常处理的，正是未发布的营销活动、自有角色、机密影像和珍贵的客户知识产权。"
+        },
+        {
+          "t": "p",
+          "x": "各家AI服务商的保护措施差异很大。有的承诺不用客户内容训练模型，有的则对上传素材保留广泛权利。"
+        },
+        {
+          "t": "p",
+          "x": "Synima的Creative Director for Generative AI、AIAnimation.com创始人Jon Draper认为，随着AI动画走向成熟，这将成为决定性议题之一。下一阶段的关键在于专业基础设施：清晰的所有权、受控的访问、客户资产的安全处理，以及数据使用方式的透明。"
+        }
+      ]
+    },
+    "movies/mformedia-arcana-labs-ai-pact": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+          "cap": "MForMedia"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE：迪拜的MForMedia与Arcana Labs达成协议，将在制作中引入AI工作流。两家公司已建立战略合作伙伴关系，把Arcana的软件融入MForMedia的制作流程、阿拉伯语合拍项目和员工培训。总体目标是在中东和北非（MENA）地区建立AI-native的影视制作能力。"
+        },
+        {
+          "t": "p",
+          "x": "Arcana Labs旗下制作部门Arcana Studios还将与MForMedia为MENA观众联合制作原创内容，尚未公布片名的作品已在开发中。本月，MForMedia员工还将参加为期五天的AI-native制作培训工作坊。"
+        },
+        {
+          "t": "p",
+          "x": "“通过这种模式，我们从第一天起就把AI-native流程嵌入一家地区工作室，”Arcana Labs CEO Jonathan Yunger表示。“如今可以在迪拜、用阿拉伯语，以前所未有的速度和成本效益制作内容，确保阿拉伯语制作留在本地区。”"
+        },
+        {
+          "t": "p",
+          "x": "MForMedia由联合创始人兼管理合伙人Ralph Matar和Khalil Homeissy领导，制作Carpool Karaoke和The X Factor的阿拉伯语版本。此前不久，MForMedia聘请MENA电视业资深人士Ziad Kebbi担任董事总经理，并宣布公司将转向AI制作、原创内容和IP所有权。"
+        }
+      ]
     }
   }
 }

@@ -1,63 +1,96 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "gadgets",
   "items": [
     {
-      "title": "Ray-Ban Meta Audio Drops The Camera For A Lighter, Socially Acceptable Design",
-      "url": "https://www.uploadvr.com/ray-ban-meta-audio-glasses-no-camera/",
-      "source": "UploadVR",
-      "published_iso": "2026-09-28T03:17:01.000Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Ray-Ban-Meta-Audio---Lifestyle3.jpg",
-      "excerpt": "Ray-Ban Meta Audio drops the camera for a lighter and sleeker design that's likely to be more socially acceptable amid the public privacy backlash.",
+      "title": "Meta rolling out audio upgrades, turn-by-turn navigation for Ray-Ban smart glasses",
+      "url": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
+      "source": "9to5Google",
+      "published_iso": "2026-10-05T20:20:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Meta rolling out audio upgrades, turn-by-turn navigation for Ray-Ban smart glasses — Meta’s most recent updates for its Ray-Ban smart glasses deliver upgrades to audio playback as well as new turn-by-turn walking...",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "rationale": "A shipping software update that adds turn-by-turn walking navigation to AI glasses already on people's faces. It is the one Meta-glasses pick from the overlap group."
+    },
+    {
+      "title": "Windows 11 26H2 begins roll-out with AI File Explorer actions",
+      "url": "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html",
+      "source": "Notebookcheck",
+      "published_iso": "2026-10-04T11:30:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
+      "excerpt": "Microsoft rolls out Windows 11 version 26H2. Explore Copilot File Explorer AI tools, system settings, NLP controls, lightweight enablement packages, and IT security.",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
-      "motif": "headset",
-      "rationale": "The actual product launch of camera-less Meta AI glasses, after the 09-18 card covered only the report; a real product-design response to the privacy backlash."
+      "motif": "frame",
+      "rationale": "A major OS release now rolling out that puts Copilot actions into File Explorer, which changes everyday file work on Windows PCs right away."
     },
     {
-      "title": "Apple's cheapest iPad is finally getting Apple Intelligence, leaked code shows",
-      "url": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-09-25T19:23:00+00:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/csm_Apple_iPad_11_2025_Test_3_7e3bae3beb.jpg",
-      "excerpt": "Leaked code indicates Apple's next entry-level iPad will support Apple Intelligence, bringing on-device AI features to its cheapest tablet.",
+      "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
+      "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
+      "source": "MacRumors",
+      "published_iso": "2026-10-05T20:45:55Z",
+      "og_image": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg",
+      "excerpt": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV — Apple's latest tvOS 27.2 beta adds weight to rumors that the next Apple TV will have Siri AI and Apple Intelligence support. Code suggests Apple is adding an Improve Siri & Apple Intelligence toggle to the tvOS Settings app.",
       "category": "gadgets",
       "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "rationale": "Brings on-device Apple Intelligence to Apple's entry-level tablet, which widens the device base for AI features. No matching card in the history."
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "New beta-code evidence that brings Siri AI to the living-room TV box. It is a different device and a different leak from the 10-05 iPad card."
     },
     {
-      "title": "Boston Dynamics' Atlas robot gets new hands",
-      "url": "https://www.notebookcheck.net/Boston-Dynamics-Atlas-robot-gets-new-hands.1413778.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-10-01T21:21:00+00:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Screenshot-2026-10-01-at-22.36.04.png",
-      "excerpt": "Boston Dynamics showed redesigned hands for its electric Atlas humanoid, aimed at more dexterous manipulation for real-world tasks.",
+      "title": "The First 'Wireless GPU' Uses Wi-Fi to Headbutt All Those AI Subscriptions",
+      "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
+      "source": "Gizmodo",
+      "published_iso": "2026-10-05T20:30:00Z",
+      "og_image": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg",
+      "excerpt": "The First 'Wireless GPU' Uses Wi-Fi to Headbutt All Those AI Subscriptions — Just don't imagine the WiCi eGPU will be all that useful for turning your laptop into a gaming powerhouse.",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A new hardware reveal for a leading humanoid robot that adds a robotics angle to a pool heavy on glasses; distinct from the 09-26 Tesla Optimus hands card."
+      "rationale": "A new hardware category, a Wi-Fi eGPU for running local AI, tested hands-on. It is a fresh take on local AI compute instead of another mini-PC."
+    },
+    {
+      "title": "Pixel Search could soon get a Gemini-powered upgrade along with privacy improvements",
+      "url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
+      "source": "Android Authority",
+      "published_iso": "2026-10-05T12:11:36Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
+      "excerpt": "Pixel Search could soon get a Gemini-powered upgrade along with privacy improvements — New Pixel Search update introduces a \"Privacy & Permissions\" section letting users stop the app from using their data to improve suggestions.",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "Gemini moving into the Pixel launcher's search bar, with a new control over whether your data trains suggestions. It covers a different surface from the published Pixel Buds and Call for Me cards and adds a fifth outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.uploadvr.com/ray-ban-meta-audio-glasses-no-camera/": {
-        "verdict": "follow-up",
-        "nearest": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
-        "new_action": "Official launch of the Ray-Ban Meta Audio product (camera-less glasses); the 09-18 card was only a report that Meta was building them."
+      "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/": {
+        "verdict": "new",
+        "nearest": "https://www.uploadvr.com/ray-ban-meta-audio-glasses-no-camera/"
       },
-      "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html": {
+      "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html": {
+        "verdict": "new",
+        "nearest": "https://www.xda-developers.com/gemini-app-for-windows-puts-copilot-to-shame/"
+      },
+      "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/": {
+        "verdict": "new",
+        "nearest": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html"
+      },
+      "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866": {
         "verdict": "new",
         "nearest": ""
       },
-      "https://www.notebookcheck.net/Boston-Dynamics-Atlas-robot-gets-new-hands.1413778.0.html": {
+      "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands"
+        "nearest": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/"
       }
     },
-    "note": "SWAP pass: removed the Soulog Sense recorder (Android Authority; a paid 'Promoted' post) and the Newsom smart-glasses veto (Engadget; the article never mentions AI), both on fact-check. One backfill: Meta Ray-Ban Display international launch (UploadVR). Its history_match (Apple Smart Home Display, 09-22) is a false word match on 'Display'. No Ray-Ban Display story is in the 30-day digest, and it is a distinct product from the Ray-Ban Meta Audio pick (a separate release, not a content-hub repeat). UploadVR now has 2 picks and Notebookcheck has 2, so the outlet cap is met. Enrichment must confirm that the 'new features' are AI features. No second backfill qualified. Excluded at the user's request as earlier duplicates: PS5 AI upscaling, Meta glasses Muse, Meta Muse hands-on, Apple Oct 13 home products and the iMac G4-style hub, the Samsung XR glasses launch window, and Qualcomm Adreno Neural Fusion. Rejected on quality: Acemagic F9A Pro (a third Notebookcheck pick would break the outlet cap, and it repeats recent mini-PC cards); Amazon driver glasses (Tom's Guide; an opinion and warehouse-tour essay, not a launch); Soundcore Space 2 Pro review (its AI feature reportedly doesn't work, so AI is incidental); Microsoft AI PC teaser (speculation, related to the 09-26 Copilot+ card); iOS 27 Siri piece (commentary on the 09-15 iOS 27 Siri launch card); WIRED Meta Gen 3 review (battery and mic refresh, AI not central); PewDiePie Ajax (a software model, not a device). None of the picks overlaps /tmp/ax-claimed-urls.txt from other sections. | Orchestrator: Meta Ray-Ban Display replacement removed after enrichment fact-check (AI not central to the article); curator found no other qualifying backfill."
+    "note": "SWAP (10-06): removed the TDK retinal-display pick (Notebookcheck) because the full-article check found the body never mentions AI; it is a pure optics story. Replaced it with Android Authority's Pixel Search Gemini teardown, the best remaining candidate where AI is central to the device. Its history_match (09-29 Pixel Buds Gemini controls) is a different product surface, and no published card covers Pixel launcher search, so it is new. The replacement also brings Notebookcheck down to one card and gives 5 distinct outlets. Other options passed over in this swap: Ghost Core (TechCrunch; mainly a funding story), Gemini Call for Me for contacts (an APK teardown expanding the 09-26 card), the EU Siri wait (a prediction), AMD Gorgon Halo benchmarks (vendor PR, covered 09-29), the UGREEN price drop (a deal), Deliveroo robots (AI not central), the Norway ban (politics), and any further Meta-glasses cards. Original note: Excluded by cross-section rule: the Norway AI-glasses ban (Ars Technica), which belongs to politics. From the Meta-glasses overlap group I kept only the 9to5Google software update (a new release, distinct from the 10-05 Ray-Ban Meta Audio hardware card). Dropped from that group: the WIRED Gen 3 review, the UploadVR Display features, the CNET Muse charm smartwatch piece, and the TechRadar Dutch retailer pull. Dropped as duplicates or follow-ups with no new release: the Samsung Android XR glasses November launch, the Google Home 09-30 update, Gemini Call for Me for contacts, the Anker eufy S4 doorbell, and the EU Siri wait. Dropped on quality: AMD Gorgon Halo benchmarks, Ghost $11M raise and Safeworld (funding noise), Soulog Sense (promoted post), the UGREEN NAS price drop, the Siri data how-to, and Deliveroo robots."
   }
 }

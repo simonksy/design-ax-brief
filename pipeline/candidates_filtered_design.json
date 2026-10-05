@@ -1,244 +1,193 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "design",
-  "now_iso": "2026-10-04T22:05:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Adobe's AI text-to-3D world concept is a glimpse of where Firefly could go next",
       "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
       "source": "Creative Bloq",
+      "category": "render",
       "published_iso": "2026-10-04T09:00:00Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-      "excerpt": "Ambitious AI patents suggest that Adobe's thinking beyond 2D.",
-      "category": "cad",
-      "section": "design",
-      "history_match": {
-        "score": 0.152,
-        "date": "2026-09-06",
-        "url": "https://www.youtube.com/watch?v=7q3spdQlZLA",
-        "title": "포토샵 다이내믹 텍스트 내용 바뀌면 레이아웃도 자동 포토샵 다이내믹 텍스트는 콘텐츠가 바뀌면 레이어 여백과 구조를 자동 조정한다.",
-        "band": "related"
-      }
+      "excerpt": "Newly published USPTO patent filings show Adobe working on a method for generating 3D worlds from text prompts, hinting at where Firefly could expand beyond image and video generation."
     },
     {
-      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
-      "url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "source": "Creative Bloq",
-      "published_iso": "2026-10-04T08:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb-2000-80.jpg",
-      "excerpt": "Adobe's free Premiere for Android brings mobile video editing with AI features such as Enhance Audio, with Firefly-powered Generative Fill, Image-to-Video and Generate Sound Effects on generative credits.",
-      "category": "workflow",
-      "section": "design",
-      "history_match": {
-        "score": 0.174,
-        "date": "2026-09-25",
-        "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
-        "title": "What It Takes to Build Great Products Now",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Runway introduces Praxis-1 world action model for robotics",
-      "url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
-      "source": "The Robot Report",
-      "published_iso": "2026-10-02T18:32:13+00:00",
-      "og_image": "https://www.therobotreport.com/wp-content/uploads/2026/10/runway-featured.jpg",
-      "excerpt": "Runway unveiled Praxis-1, a world action model trained on video data for robotics, and plans to ship it with open weights when publicly released.",
-      "category": "cad",
-      "section": "design",
-      "history_match": {
-        "score": 0.199,
-        "date": "2026-10-01",
-        "url": "https://runway.com/news/introducing-runway-ads",
-        "title": "Introducing Runway Ads",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
-      "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
-      "source": "The Decoder",
-      "published_iso": "2026-10-03T08:31:04+00:00",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/10/lego-anything-generated-image-nano-banana-pro.jpg",
-      "excerpt": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across all tested agents is that they can't judge their own geometric accuracy any better",
+      "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
+      "source": "Fstoppers",
       "category": "render",
-      "section": "design",
+      "published_iso": "2026-10-03T07:03:01-04:00",
+      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/10/cover_6.jpg.webp",
+      "excerpt": "PHLEARN's Aaron Nace shows Photoshop's Remove tool doesn't consume generative credits even with Generative AI and cloud processing on, plus other overlooked features that preserve a designer's monthly AI credit budget."
+    },
+    {
+      "url": "https://www.cgchannel.com/2026/10/new-3d-software-you-may-have-missed-4-october-2026/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-10-04T14:14:57+00:00",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261004_NewCGSoftwareYouMayHaveMisssed4October2026_alt_f-960x480.jpg",
+      "excerpt": "CG Channel's weekly roundup leads with Alpha Gen, an experimental alpha-matte generation component of Lightricks' VFX-focused AI world model LTX-2.5 that removes video backgrounds, alongside updates to Caddis, RailClone and others.",
       "history_match": {
-        "score": 0.189,
-        "date": "2026-09-08",
-        "url": "https://www.youtube.com/shorts/tqUEnRj0NbM",
-        "title": "This AI Turns Insane Ideas Into 3D Objects",
+        "score": 0.222,
+        "date": "2026-09-14",
+        "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-13-september-2026/",
+        "title": "New CG software you may have missed: 13 September 2026",
         "band": "related"
       }
     },
     {
-      "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
-      "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
-      "source": "The Decoder",
-      "published_iso": "2026-10-03T07:12:09+00:00",
-      "og_image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-      "excerpt": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands.",
-      "category": "tokens",
-      "section": "design"
-    },
-    {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "source": "The Verge",
-      "published_iso": "2026-10-03T16:49:10+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "excerpt": "During a presentation on the future of RE Engine, Capcom laid out its plans to embrace AI in ‘development workflows.’",
+      "url": "https://www.blendernation.com/2026/10/05/quadify-clean-quad-retopology-for-ai-scan-and-cad-meshes-in-blender/",
+      "source": "BlenderNation",
       "category": "render",
-      "section": "design"
+      "published_iso": "2026-10-05T15:55:05+00:00",
+      "og_image": "https://www.blendernation.com/wp-content/uploads/2026/10/quadify-pro-blendernation-1456x672-1-800x450.png.webp",
+      "excerpt": "Quadify is a family of Blender add-ons that converts triangle-soup meshes from AI 3D generators, scans and CAD imports into clean, animation-ready quad topology without manual retopology.",
+      "off_list": true,
+      "history_match": {
+        "score": 0.207,
+        "date": "2026-09-20",
+        "url": "https://80.lv/articles/quad-remesher-for-hard-surface-organic-blender-models/",
+        "title": "Quad Remesher for Hard-Surface & Organic Blender Models",
+        "band": "related"
+      }
     },
     {
-      "title": "Formas.AI unveils native agentic 3D modeller",
-      "url": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
+      "url": "https://petapixel.com/2026/10/05/skylum-saying-goodbye-to-the-ai-portrait-editor-aperty-despite-promising-5-years-of-updates/",
+      "source": "PetaPixel",
+      "category": "render",
+      "published_iso": "2026-10-05T12:00:00+00:00",
+      "og_image": "https://petapixel.com/assets/uploads/2026/10/Skylum-Saying-Goodbye-to-the-AI-Portrait-Edit.jpg",
+      "excerpt": "Skylum is discontinuing its AI portrait editor Aperty to focus on Luminar, leaving lifetime license holders without the five years of updates they were promised.",
+      "off_list": true
+    },
+    {
+      "url": "https://dev.to/fastoolster/ai-image-generators-still-cant-spell-heres-how-i-fix-text-without-regenerating-3c7a",
+      "source": "DEV Community",
+      "category": "render",
+      "published_iso": "2026-10-05T11:07:24Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffalrzz8ibbhuux98jamx.png",
+      "excerpt": "A practitioner workflow for fixing garbled text in AI-generated images by editing it in place rather than burning more generations."
+    },
+    {
+      "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
       "source": "AEC Magazine",
-      "published_iso": "2026-10-02T11:04:09+00:00",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-3-1.jpg",
-      "excerpt": "Forma.AI unveils Cartesian, a native agentic 3D modeller for the physical world, where editable geometry meets spatial design reasoning",
       "category": "cad",
-      "section": "design",
+      "published_iso": "2026-10-05T15:34:31+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+      "excerpt": "BIMlogiq has expanded Argus, a multi-agent AI platform inside Revit, adding a Family Creation Agent that builds fully parametric Revit families from scratch, a Bathroom Agent for ADA-compliant layouts, and an MEP Systems Agent."
+    },
+    {
+      "url": "https://aecmag.com/reality-capture-modelling/openspace-ai-to-help-firms-make-faster-decisions-on-site/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "published_iso": "2026-10-05T08:17:50+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/openspace.jpg",
+      "excerpt": "OpenSpace has added AI agents to its Visual Intelligence reality-capture platform that can see, understand and act on job-site data, moving from recording construction to helping teams decide in real time."
+    },
+    {
+      "url": "https://www.engineering.com/roboparty-unveils-rp1-open-source-humanoid-robot/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-05T11:11:14+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/20261003074659EDT_image_1-3.jpg",
+      "excerpt": "RoboParty unveiled RP1, pitched as the first high-performance full-stack open-source bipedal humanoid, with up to 160 N·m joint torque and support for embodied AI development by researchers and builders."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "source": "TechCrunch",
+      "category": "cad",
+      "published_iso": "2026-10-05T12:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg",
+      "excerpt": "CMU Safe AI lab director Ding Zhao co-founded Safeworld, which builds digital humans to test and underwrite the safety of robots driven by generative AI models before they are deployed among people."
+    },
+    {
+      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-10-05T22:00:12Z",
+      "og_image": "",
+      "excerpt": "AI is not making us less intelligent but reducing the intelligence we practise; the essay examines skill atrophy and cognitive offloading when designers outsource judgement and struggle to AI."
+    },
+    {
+      "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-10-05T21:59:40Z",
+      "og_image": "https://cdn-images-1.medium.com/max/864/0*3xxtyCY66D5i8S1A",
+      "excerpt": "Designers agree taste is the last human advantage in the age of AI, yet the essay argues our tools and de-risking habits now make taste almost impossible to develop.",
       "history_match": {
-        "score": 0.151,
-        "date": "2026-09-19",
-        "url": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
-        "title": "Blender 5.3 is getting native 3D Gaussian splat support",
+        "score": 0.205,
+        "date": "2026-09-23",
+        "url": "https://www.fastcompany.com/91608605/having-good-taste-wont-save-designers",
+        "title": "fastcompany.com",
         "band": "related"
       }
     },
     {
-      "title": "ChatGPT Sites hosts your website in public beta, with no data residency at launch",
-      "url": "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/",
-      "source": "MIXED",
-      "published_iso": "2026-10-04T15:10:36+00:00",
-      "og_image": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04.png",
-      "excerpt": "ChatGPT will host a website, a web app or a game for subscribers on five of its plans, and OpenAI's documentation for the feature puts one limit in",
-      "category": "figma",
-      "section": "design"
-    },
-    {
-      "title": "Eleven AI models graded AR scenes, and the best tracked human raters at 0.87",
-      "url": "https://mixed-news.com/en/duke-vision-language-models-ar-scene-quality-spearman-0-8695/",
-      "source": "MIXED",
-      "published_iso": "2026-10-04T19:49:23+00:00",
-      "og_image": "https://mixed-news.com/en/wp-content/uploads/2024/11/Meta-Quest-3-Room-Scan.jpg",
-      "excerpt": "Six Duke University researchers set eleven commercial vision-language models the job of grading how right augmented reality content looks, and the best of",
-      "category": "vr",
-      "section": "design"
-    },
-    {
-      "title": "Meta's glasses toolkit 1.0 reaches React Native, but apps using it cannot be published",
-      "url": "https://mixed-news.com/en/expo-meta-wearables-dat-1-0-wrapper-experimental-cannot-publish/",
-      "source": "MIXED",
-      "published_iso": "2026-10-04T15:57:02+00:00",
-      "og_image": "https://mixed-news.com/en/wp-content/uploads/2026/09/03_Ray-Ban-Meta-Gen3_Carousel_03.jpg",
-      "excerpt": "An independent Expo module published on October 3 at 18:35 UTC became the first third-party package to wrap version 1.0 of Meta's Wearables Device Access",
-      "category": "vr",
-      "section": "design",
-      "history_match": {
-        "score": 0.154,
-        "date": "2026-09-30",
-        "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
-        "title": "Hands-on: Meta's Hologram avatars for VR and display glasses",
-        "band": "related"
-      }
-    },
-    {
-      "title": "The feed I produce myself",
       "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c",
       "source": "UX Collective",
-      "published_iso": "2026-10-03T11:12:42+00:00",
+      "category": "workflow",
+      "published_iso": "2026-10-03T11:12:42Z",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*IdGInOuO4jsmUFdz0chJRg.png",
-      "excerpt": "On working with agents, producing more than ever, and losing the ability to see anything whole: a designer writes while several AI agents produce deliverables in parallel.",
-      "category": "workflow",
-      "section": "design"
+      "excerpt": "A designer on working with several AI agents in parallel tabs, producing more than ever while losing the ability to see any project whole."
     },
     {
-      "title": "Design’s consensus was AI’s first casualty",
-      "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80",
-      "source": "UX Collective",
-      "published_iso": "2026-10-01T22:51:02+00:00",
-      "og_image": "https://cdn-images-1.medium.com/max/2500/1*k4Gl0Tb1QEUT4UCinL8mng.jpeg",
-      "excerpt": "The same evidence about AI is being read two opposite ways, leaving designers to choose without a clear consensus to lean on.",
-      "category": "workflow",
-      "section": "design"
-    },
-    {
-      "title": "AI beyond average: from chatting to collaborating",
-      "url": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a",
-      "source": "UX Collective",
-      "published_iso": "2026-10-01T22:49:51+00:00",
-      "og_image": "https://cdn-images-1.medium.com/max/1456/0*QUMNBmWOyUMJce0y.png",
-      "excerpt": "How context, skills, and feedback turn the same model into a different kind of collaborator for design work.",
+      "url": "https://uxplanet.org/claude-code-mods-are-game-changers-39a566cddca5",
+      "source": "UX Planet",
       "category": "figma",
-      "section": "design"
-    },
-    {
-      "title": "Manycore's Aholo Lux3D Turns Three Photos Into an Editable 3D Asset via Agent and Blender",
-      "url": "https://pandaily.com/manycore-aholo-lux3d-blender-agent-3d-ai-harness-workflow",
-      "source": "Pandaily",
-      "published_iso": "2026-10-04T07:06:58+00:00",
-      "og_image": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png",
-      "excerpt": "A Leiphone test shows Manycore's Aholo Lux3D generating an editable bronze sculpture from three photos, with an AI agent orchestrating the job and Blender finishing it.",
-      "category": "render",
-      "section": "design"
-    },
-    {
-      "title": "Adobe's Prompt to Edit Lightroom: Restore Old Photos Fast",
-      "url": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
-      "source": "Fstoppers",
-      "published_iso": "2026-10-03T16:03:01+00:00",
-      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/09/11220260125_00137jr-prompt.jpg.webp?itok=rLe7Zuni",
-      "excerpt": "Adobe's new Prompt to Edit feature in Lightroom uses AI to restore old photographs, fix focus issues, colorize black-and-white images, and correct color casts. Hands-on results with Color Restoration and custom prompts.",
-      "category": "render",
-      "section": "design",
+      "published_iso": "2026-10-05T12:12:58Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:700/1*n5mZVXYiW3wVffrqtr6mbg.png",
+      "excerpt": "A walkthrough of Claude Code mods for designers: what they are and a practical workflow for building custom mods tailored to your own design use cases.",
+      "off_list": true,
       "history_match": {
-        "score": 0.33,
-        "date": "2026-09-28",
-        "url": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
-        "title": "You Can Edit Your Photos With Lightroom and Photoshop Inside Google Gemini",
+        "score": 0.167,
+        "date": "2026-09-25",
+        "url": "https://www.eleken.co/blog-posts/ai-agent-design-patterns",
+        "title": "AI Design Patterns: A Practical Guide for Product Teams",
         "band": "related"
       }
     },
     {
-      "title": "Two Weeks with Kling 4.0: Physical Continuity, Camera Control, and Pitfalls Still Worth Avoiding",
-      "url": "https://dev.to/kling4ai-production/two-weeks-with-kling-40-physical-continuity-camera-control-and-pitfalls-still-worth-avoiding-ii4",
-      "source": "DEV Community",
-      "published_iso": "2026-10-04T21:47:26+00:00",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F539f9z8qhkcwtno7o5s0.png",
-      "excerpt": "A two-week production test of Kling 4.0 covering physical continuity, camera-control moves like whip pans and 360 orbits, and the failure modes video and storyboard teams still hit.",
-      "category": "render",
-      "section": "design"
+      "url": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
+      "source": "ZDNET",
+      "category": "figma",
+      "published_iso": "2026-10-05T08:03:03-04:00",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_0057.png",
+      "excerpt": "A writer used Claude to vibe-code a paid Mac app and pass Apple's App Store review in 11 days without writing a line of code, documenting the idea-to-product journey.",
+      "off_list": true
     },
     {
-      "title": "AI News: Dots, GPT-6.1 Sol, Sonnet 5.5, Gemini 4, and everything you need to know",
-      "url": "https://www.youtube.com/watch?v=dDgncbBAA0c",
-      "source": "Matt Wolfe (YouTube)",
-      "published_iso": "2026-10-02T15:00:16+00:00",
-      "og_image": "https://i.ytimg.com/vi/dDgncbBAA0c/maxresdefault.jpg",
-      "excerpt": "Matt Wolfe's weekly AI roundup: OpenAI Dots, GPT-6.1 Sol, Claude Sonnet 5.5, Gemini 4 and other tool releases creators may have missed.",
-      "category": "social",
-      "section": "design",
-      "history_match": {
-        "score": 0.189,
-        "date": "2026-09-30",
-        "url": "https://www.anthropic.com/claude-sonnet-5-5",
-        "title": "Introducing Claude Sonnet 5.5",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "source": "TechCrunch",
-      "published_iso": "2026-10-02T15:39:41+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
-      "excerpt": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+      "url": "https://petapixel.com/2026/10/05/the-pope-denounces-ai-art-algorithms-lack-the-spark-of-humanity/",
+      "source": "PetaPixel",
       "category": "workflow",
-      "section": "design"
+      "published_iso": "2026-10-05T10:00:11+00:00",
+      "og_image": "https://petapixel.com/assets/uploads/2026/10/Pope-Leo-XIV.jpg",
+      "excerpt": "Pope Leo XIV denounced AI-generated art, saying algorithms lack the spark of humanity, adding a high-profile voice to the creative-community debate over generative imagery.",
+      "off_list": true,
+      "history_match": {
+        "score": 0.156,
+        "date": "2026-09-29",
+        "url": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
+        "title": "Viral AI animation sparks controversy over familiar character design",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://postperspective.com/ambassadors-in-house-ai-workflow-platform-available-to-all/",
+      "source": "postPerspective",
+      "category": "workflow",
+      "published_iso": "2026-10-05T18:43:38+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg",
+      "excerpt": "Amsterdam creative production company Ambassadors has opened Mosa, its in-house visual AI workflow platform, to everyone.",
+      "off_list": true
+    },
+    {
+      "url": "https://nofilmschool.com/apples-full-disk-access-statement",
+      "source": "No Film School",
+      "category": "workflow",
+      "published_iso": "2026-10-05T17:00:05+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68053614&width=1200&height=600",
+      "excerpt": "Apple issued a notice warning creators against granting AI agents Full Disk Access on macOS and promised new controls to address the critical risks.",
+      "off_list": true
     }
   ],
   "dedup": {
@@ -249,35 +198,10 @@
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 8,
+    "review": 5,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-05",
-      "title": "Auto-syncing Tailwind config from Figma variables on every pull request",
-      "url": "https://dev.to/alexandersstudi/auto-syncing-tailwind-config-from-figma-variables-on-every-pull-request-4hg9"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "ArmorPaint 1.0 is out after eight years in early access",
-      "url": "https://www.cgchannel.com/2026/09/armorpaint-1-0-is-out-after-eight-years-in-early-access/"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Parker only went and made those viral anti-AI pen billboards real",
-      "url": "https://www.creativebloq.com/design/advertising/parker-only-went-and-made-those-viral-anti-ai-pen-billboards-real"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Why does AI-generated food look like that?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Figma Motion basics: Time-stamped comments",
-      "url": "https://www.youtube.com/watch?v=xI4tglaE5GA"
-    },
     {
       "date": "2026-09-06",
       "title": "NVIDIA accelerates local AI at IFA 2026",
@@ -877,6 +801,31 @@
       "date": "2026-10-03",
       "title": "From Reusable to Regeneratable: Rethinking the Shared UI Component Library",
       "url": "https://www.infoq.com/articles/regeneratable-ui-component-library/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Formas.AI unveils native agentic 3D modeller",
+      "url": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Adobe's Prompt to Edit Lightroom: Restore Old Photos Fast",
+      "url": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "ChatGPT Sites hosts your website in public beta, with no data residency at launch",
+      "url": "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Manycore's Aholo Lux3D Turns Three Photos Into an Editable 3D Asset via Agent and Blender",
+      "url": "https://pandaily.com/manycore-aholo-lux3d-blender-agent-3d-ai-harness-workflow"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
+      "url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking"
     }
   ]
 }

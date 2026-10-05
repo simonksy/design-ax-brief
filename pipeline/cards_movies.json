@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "movies",
   "cards": [
     {
-      "id": "mformedia-arcana-labs-ai-pact",
+      "id": "ambassadors-mosa-ai-platform-opens",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MForMedia, AI는\nArcana Labs와",
-      "body": "Dubai의 MForMedia가 Arcana Labs의 AI 워크플로를 들여온다.",
-      "mini_headline": "MForMedia, AI 협약 체결",
+      "headline": "Ambassadors의\nAI 플랫폼 Mosa 개방",
+      "body": "Amsterdam의 Ambassadors가 AI 플랫폼 Mosa를 전면 공개했다.",
+      "mini_headline": "Ambassadors, Mosa 전면 개방",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/09/mformedia-arcana-labs-sign-ai-production-pact-1237143000/",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/ambassadors-in-house-ai-workflow-platform-available-to-all/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,305 +19,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-            "cap": "MForMedia"
+            "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
           },
           {
             "t": "p",
-            "x": "EXCLUSIVE: Dubai의 MForMedia가 Arcana Labs와 계약을 맺고 자사 제작에 AI 워크플로를 들인다. 두 회사가 맺은 전략적 파트너십은 Arcana의 소프트웨어를 MForMedia의 제작 워크플로와 Arabic-language(아랍어) 공동 제작, 직원 교육에 접목하는 내용이다. 최종 목표는 중동·북아프리카(Middle East and North Africa, MENA) 전역에 AI-native 영화·TV 제작 역량을 갖추는 일이다."
+            "x": "Amsterdam-based 크리에이티브 제작사 Ambassadors가 사내에서 쓰던 비주얼 AI 워크플로 플랫폼 Mosa를 누구나 쓸 수 있게 열었다. 유월에 처음 선보인 Mosa는 10개 브랜드·에이전시가 참여한 클로즈드 베타를 거쳤다. 그동안 참여사들이 만든 워크플로는 40개, 생성한 에셋은 500개를 넘는다."
           },
           {
             "t": "p",
-            "x": "MForMedia와 Arcana Labs의 제작 부문 Arcana Studios는 MENA 관객용 오리지널 콘텐츠도 함께 만든다. 제목을 밝히지 않은 작품 여럿이 이미 개발 단계에 있다. MForMedia 직원들은 이달 AI-native 제작을 다루는 닷새(five-day) 교육 워크숍에도 참여한다."
+            "x": "Mosa는 Ambassadors의 자체 제작 현장에서 나왔다. 이미지와 영상, 업스케일링 도구가 따로 놀다 보니 프롬프트와 데이터, 브랜드 요건을 도구마다 손으로 옮겨야 했다. Mosa는 AI 모델과 데이터, 워크플로 단계를 비주얼 워크플로 하나로 묶는다. 팀은 이 워크플로를 프로젝트와 포맷, 시장을 넘나들며 다시 쓴다."
+          },
+          {
+            "t": "img",
+            "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
           },
           {
             "t": "p",
-            "x": "Arcana Labs CEO Jonathan Yunger는 “이 모델로 우리는 첫날부터 지역 스튜디오 안에 AI-native 파이프라인을 심고 있다”며 “이제 콘텐츠를 Dubai에서, Arabic(아랍어)으로, 그 어느 때보다 빠르고 비용 효율적으로 만들 수 있어 Arabic-language 제작이 지역 안에 머물게 된다”고 말했다."
+            "x": "“좋은 에셋 하나를 만드는 일은 더 이상 어렵지 않기 때문에 이걸 만들었습니다. 어려운 건 포맷과 시장을 가리지 않고, 브랜드를 온전히 지키면서 꾸준히 해내는 일입니다.” Ambassadors의 CIO Diederik Veelo는 이렇게 말했다."
           },
           {
             "t": "p",
-            "x": "MForMedia는 공동 창업자이자 Managing Partners인 Ralph Matar와 Khalil Homeissy가 이끌며, Carpool Karaoke와 The X Factor의 Arabic(아랍어)판을 만든다. 얼마 전에는 MENA TV 업계 베테랑 Ziad Kebbi를 Managing Director로 영입하고 AI 제작, 오리지널 콘텐츠, IP 소유 쪽으로 방향을 틀겠다고 밝혔다. 이번 소식은 그 직후에 나왔다."
+            "x": "단계마다 비용이 드러나고 AI 에이전트가 코딩 없이 워크플로 짜는 일을 돕는다. 이제 스튜디오와 에이전시, 사내 팀은 물론 개인 크리에이터와 프리랜서도 Mosa를 쓸 수 있다. 대규모 조직에는 엔터프라이즈 플랜이 따로 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MForMedia and Arcana Labs\nsign an AI production pact",
-          "body": "Dubai producer MForMedia will add Arcana Labs' AI workflows to its productions under a new deal.",
-          "mini_headline": "MForMedia signs AI pact",
+          "headline": "Ambassadors opens its Mosa\nAI workflow platform to all",
+          "body": "Amsterdam studio Ambassadors has made Mosa, its in-house visual AI workflow platform, available to everyone.",
+          "mini_headline": "Ambassadors opens Mosa to all",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-                "cap": "MForMedia"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Dubai’s MForMedia will look to add AI workflows into its productions following a deal with Arcana Labs. The two companies have struck a strategic partnership to incorporate Arcana’s software into MForMedia’s production workflows, Arabic-language co-productions and staff training. The overarching goal is to build AI-native film and television production capabilities across the Middle East and North Africa (MENA) region."
+                "x": "Amsterdam-based creative production company Ambassadors has made its in-house visual AI workflow platform Mosa available now to all. First introduced in June, it was tested in a closed beta with 10 brands and agencies who built over 40 workflows and generated over 500 assets."
               },
               {
                 "t": "p",
-                "x": "Arcana Studios, the production arm of Arcana Labs, and MForMedia will also co-produce original content for MENA audiences, with unnamed titles already in development. MForMedia staff are also provided with a five-day training workshop on AI-native production this month."
+                "x": "Mosa grew out of Ambassadors' own production work, where separate tools for images, video and upscaling meant prompts, data and brand requirements were carried by hand between them. It brings AI models, data and workflow steps into a single visual workflow that teams can reuse across projects, formats and markets."
               },
-              {
-                "t": "p",
-                "x": "“With this model, we are embedding an AI-native pipeline inside a regional studio from day one,” said Arcana Labs CEO Jonathan Yunger. “Content can now be created in Dubai, in Arabic, faster and more cost-effectively than ever before, ensuring Arabic-language production stays in the region.”"
-              },
-              {
-                "t": "p",
-                "x": "MForMedia, led by co-founders and Managing Partners Ralph Matar and Khalil Homeissy, produces Arabic versions of Carpool Karaoke and The X Factor. The news comes soon after MForMedia hired MENA television industry veteran Ziad Kebbi as Managing Director, when the company announced it was pivoting toward AI production, original content and IP ownership."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MForMedia、AI制作\nArcana Labsと提携",
-          "body": "ドバイのMForMediaがArcana LabsのAIワークフローを導入する。",
-          "mini_headline": "MForMedia、AI提携を締結",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-                "cap": "MForMedia"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: ドバイのMForMediaは、Arcana Labsとの契約を受けて自社の制作にAIワークフローを取り入れる。両社は戦略的パートナーシップを結び、Arcanaのソフトウェアを MForMediaの制作ワークフロー、アラビア語の共同制作、スタッフ研修に組み込む。最終的な目標は、中東・北アフリカ(MENA)地域全体でAI-nativeな映画・テレビ制作の体制を築くことだ。"
+                "x": "“We built it because generating one good asset is no longer the hard part. The hard part is doing it consistently, across formats and markets, with the brand still intact,” says Diederik Veelo, CIO at Ambassadors."
               },
               {
                 "t": "p",
-                "x": "Arcana Labsの制作部門Arcana StudiosとMForMediaは、MENAの観客に向けたオリジナル作品も共同制作する。タイトル未発表の作品がすでに開発中だ。MForMediaのスタッフは今月、AI-native制作に関する五日間の研修ワークショップも受ける。"
-              },
-              {
-                "t": "p",
-                "x": "「このモデルで、私たちは地域のスタジオに初日からAI-nativeなパイプラインを組み込んでいる」とArcana LabsのCEO、ジョナサン・ユンガー(Jonathan Yunger)は語る。「コンテンツはいまやドバイで、アラビア語で、かつてないほど速く低コストで作れる。アラビア語の制作がこの地域にとどまることになる」"
-              },
-              {
-                "t": "p",
-                "x": "共同創業者でマネージング・パートナーのラルフ・マタール(Ralph Matar)とハリール・ホメイシー(Khalil Homeissy)が率いるMForMediaは、Carpool KaraokeとThe X Factorのアラビア語版を制作している。今回の発表は、MForMediaがMENAのテレビ業界のベテラン、ジアード・ケビ(Ziad Kebbi)をマネージング・ディレクターに迎えた直後のことだ。同社は当時、AI制作、オリジナルコンテンツ、IP保有へと舵を切ると発表していた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MForMedia签AI协议\n携手Arcana Labs",
-          "body": "迪拜制片公司MForMedia将依新协议引入Arcana Labs的AI工作流。",
-          "mini_headline": "MForMedia签署AI协议",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-                "cap": "MForMedia"
-              },
-              {
-                "t": "p",
-                "x": "EXCLUSIVE：迪拜的MForMedia与Arcana Labs达成协议，将在制作中引入AI工作流。两家公司已建立战略合作伙伴关系，把Arcana的软件融入MForMedia的制作流程、阿拉伯语合拍项目和员工培训。总体目标是在中东和北非（MENA）地区建立AI-native的影视制作能力。"
-              },
-              {
-                "t": "p",
-                "x": "Arcana Labs旗下制作部门Arcana Studios还将与MForMedia为MENA观众联合制作原创内容，尚未公布片名的作品已在开发中。本月，MForMedia员工还将参加为期五天的AI-native制作培训工作坊。"
-              },
-              {
-                "t": "p",
-                "x": "“通过这种模式，我们从第一天起就把AI-native流程嵌入一家地区工作室，”Arcana Labs CEO Jonathan Yunger表示。“如今可以在迪拜、用阿拉伯语，以前所未有的速度和成本效益制作内容，确保阿拉伯语制作留在本地区。”"
-              },
-              {
-                "t": "p",
-                "x": "MForMedia由联合创始人兼管理合伙人Ralph Matar和Khalil Homeissy领导，制作Carpool Karaoke和The X Factor的阿拉伯语版本。此前不久，MForMedia聘请MENA电视业资深人士Ziad Kebbi担任董事总经理，并宣布公司将转向AI制作、原创内容和IP所有权。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "MForMedia y Arcana Labs firman\nun acuerdo de producción con AI",
-          "body": "La productora MForMedia, de Dubai, sumará a sus producciones los flujos de trabajo de AI de Arcana Labs.",
-          "mini_headline": "MForMedia firma un pacto de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-                "cap": "MForMedia"
-              },
-              {
-                "t": "p",
-                "x": "EXCLUSIVE: MForMedia, de Dubai, buscará incorporar flujos de trabajo de AI en sus producciones tras un acuerdo con Arcana Labs. Las dos compañías han cerrado una alianza estratégica para integrar el software de Arcana en los flujos de producción de MForMedia, en coproducciones en árabe y en la formación del personal. El objetivo general es desarrollar capacidades de producción de cine y televisión AI-native en toda la región de Oriente Medio y el Norte de África (MENA)."
-              },
-              {
-                "t": "p",
-                "x": "Arcana Studios, el brazo de producción de Arcana Labs, y MForMedia también coproducirán contenido original para el público de MENA, con títulos aún sin anunciar ya en desarrollo. Además, el personal de MForMedia recibirá este mes un taller de formación de cinco días sobre producción AI-native."
-              },
-              {
-                "t": "p",
-                "x": "“Con este modelo, estamos integrando un pipeline AI-native dentro de un estudio regional desde el primer día”, dijo Jonathan Yunger, CEO de Arcana Labs. “Ahora se puede crear contenido en Dubai, en árabe, más rápido y de forma más rentable que nunca, lo que garantiza que la producción en árabe se quede en la región.”"
-              },
-              {
-                "t": "p",
-                "x": "MForMedia, dirigida por sus cofundadores y Managing Partners Ralph Matar y Khalil Homeissy, produce las versiones en árabe de Carpool Karaoke y The X Factor. La noticia llega poco después de que MForMedia contratara como Managing Director a Ziad Kebbi, veterano de la televisión en MENA, cuando la compañía anunció su giro hacia la producción con AI, el contenido original y la propiedad de IP."
+                "x": "Costs are visible at every step, and an AI agent helps users build workflows with no coding required. Mosa is now available to individual creators and freelancers as well as studios, agencies and in-house teams, with an enterprise plan for larger organizations."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MForMedia, AI는\nArcana Labs와",
-          "body": "Dubai의 MForMedia가 Arcana Labs의 AI 워크플로를 들여온다.",
-          "mini_headline": "MForMedia, AI 협약 체결",
+          "headline": "Ambassadors의\nAI 플랫폼 Mosa 개방",
+          "body": "Amsterdam의 Ambassadors가 AI 플랫폼 Mosa를 전면 공개했다.",
+          "mini_headline": "Ambassadors, Mosa 전면 개방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-                "cap": "MForMedia"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Dubai의 MForMedia가 Arcana Labs와 계약을 맺고 자사 제작에 AI 워크플로를 들인다. 두 회사가 맺은 전략적 파트너십은 Arcana의 소프트웨어를 MForMedia의 제작 워크플로와 Arabic-language(아랍어) 공동 제작, 직원 교육에 접목하는 내용이다. 최종 목표는 중동·북아프리카(Middle East and North Africa, MENA) 전역에 AI-native 영화·TV 제작 역량을 갖추는 일이다."
+                "x": "Amsterdam-based 크리에이티브 제작사 Ambassadors가 사내에서 쓰던 비주얼 AI 워크플로 플랫폼 Mosa를 누구나 쓸 수 있게 열었다. 유월에 처음 선보인 Mosa는 10개 브랜드·에이전시가 참여한 클로즈드 베타를 거쳤다. 그동안 참여사들이 만든 워크플로는 40개, 생성한 에셋은 500개를 넘는다."
               },
               {
                 "t": "p",
-                "x": "MForMedia와 Arcana Labs의 제작 부문 Arcana Studios는 MENA 관객용 오리지널 콘텐츠도 함께 만든다. 제목을 밝히지 않은 작품 여럿이 이미 개발 단계에 있다. MForMedia 직원들은 이달 AI-native 제작을 다루는 닷새(five-day) 교육 워크숍에도 참여한다."
+                "x": "Mosa는 Ambassadors의 자체 제작 현장에서 나왔다. 이미지와 영상, 업스케일링 도구가 따로 놀다 보니 프롬프트와 데이터, 브랜드 요건을 도구마다 손으로 옮겨야 했다. Mosa는 AI 모델과 데이터, 워크플로 단계를 비주얼 워크플로 하나로 묶는다. 팀은 이 워크플로를 프로젝트와 포맷, 시장을 넘나들며 다시 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "Arcana Labs CEO Jonathan Yunger는 “이 모델로 우리는 첫날부터 지역 스튜디오 안에 AI-native 파이프라인을 심고 있다”며 “이제 콘텐츠를 Dubai에서, Arabic(아랍어)으로, 그 어느 때보다 빠르고 비용 효율적으로 만들 수 있어 Arabic-language 제작이 지역 안에 머물게 된다”고 말했다."
+                "x": "“좋은 에셋 하나를 만드는 일은 더 이상 어렵지 않기 때문에 이걸 만들었습니다. 어려운 건 포맷과 시장을 가리지 않고, 브랜드를 온전히 지키면서 꾸준히 해내는 일입니다.” Ambassadors의 CIO Diederik Veelo는 이렇게 말했다."
               },
               {
                 "t": "p",
-                "x": "MForMedia는 공동 창업자이자 Managing Partners인 Ralph Matar와 Khalil Homeissy가 이끌며, Carpool Karaoke와 The X Factor의 Arabic(아랍어)판을 만든다. 얼마 전에는 MENA TV 업계 베테랑 Ziad Kebbi를 Managing Director로 영입하고 AI 제작, 오리지널 콘텐츠, IP 소유 쪽으로 방향을 틀겠다고 밝혔다. 이번 소식은 그 직후에 나왔다."
+                "x": "단계마다 비용이 드러나고 AI 에이전트가 코딩 없이 워크플로 짜는 일을 돕는다. 이제 스튜디오와 에이전시, 사내 팀은 물론 개인 크리에이터와 프리랜서도 Mosa를 쓸 수 있다. 대규모 조직에는 엔터프라이즈 플랜이 따로 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ambassadors\nAI基盤Mosaを全面開放",
+          "body": "AmsterdamのAmbassadorsが自社のAI基盤Mosaを全面公開した。",
+          "mini_headline": "AmbassadorsがMosaを全面開放",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amsterdam-basedのクリエイティブ制作会社Ambassadorsが、社内向けのビジュアルAIワークフロー基盤Mosaを全面公開した。六月に初披露されたMosaは、10のブランドとエージェンシーが参加したクローズドベータでテストされ、参加社は40を超えるワークフローを構築し、500点を超えるアセットを生成した。"
+              },
+              {
+                "t": "p",
+                "x": "MosaはAmbassadors自身の制作現場から生まれた。画像、映像、アップスケーリングでツールが分かれていたため、プロンプトやデータ、ブランド要件をツール間で手作業で受け渡す必要があった。MosaはAIモデル、データ、ワークフローの各ステップを一つのビジュアルワークフローにまとめ、チームはそれをプロジェクトやフォーマット、市場をまたいで再利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
+              },
+              {
+                "t": "p",
+                "x": "「良いアセットを一つ生成すること自体は、もはや難しくない。難しいのは、フォーマットや市場をまたいで、ブランドを損なわずに一貫して作り続けることだ。だからこれを作った」と、AmbassadorsのCIO、Diederik Veeloは語る。"
+              },
+              {
+                "t": "p",
+                "x": "各ステップでコストが見え、AIエージェントがコーディングなしでのワークフロー構築を手助けする。Mosaはスタジオ、エージェンシー、社内チームに加え、個人クリエイターやフリーランスも利用でき、大規模組織向けにはエンタープライズプランも用意されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ambassadors\nAI平台Mosa全面开放",
+          "body": "Amsterdam工作室Ambassadors将自研AI工作流平台Mosa向所有人开放。",
+          "mini_headline": "Ambassadors全面开放Mosa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amsterdam-based创意制作公司Ambassadors已向所有人开放其内部可视化AI工作流平台Mosa。该平台于六月首次亮相，曾在10家品牌和代理商参与的封闭测试中试用，参与者搭建了40多个工作流，生成了500多个素材。"
+              },
+              {
+                "t": "p",
+                "x": "Mosa源自Ambassadors自身的制作实践：图像、视频和放大各用一套工具，提示词、数据和品牌要求只能在工具之间手动传递。Mosa把AI模型、数据和工作流步骤整合进同一个可视化工作流，团队可以在不同项目、格式和市场中反复使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
+              },
+              {
+                "t": "p",
+                "x": "“我们做它，是因为生成一个好素材已经不再是难点。难的是在不同格式和市场中持续稳定地产出，同时保持品牌完整。”Ambassadors首席信息官（CIO）Diederik Veelo说。"
+              },
+              {
+                "t": "p",
+                "x": "每一步的成本都清晰可见，AI智能体可帮助用户在无需编程的情况下搭建工作流。Mosa现已向个人创作者和自由职业者开放，也面向工作室、代理商和内部团队，并为大型机构提供企业版方案。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ambassadors abre a todos\nMosa, su plataforma de AI",
+          "body": "El estudio de Amsterdam Ambassadors abre a todos Mosa, su plataforma interna de flujos de trabajo visuales con AI.",
+          "mini_headline": "Ambassadors abre Mosa a todos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La productora creativa Amsterdam-based Ambassadors ha abierto a todos Mosa, su plataforma interna de flujos de trabajo visuales con AI. Presentada en junio, se probó en una beta cerrada con 10 marcas y agencias, que crearon más de 40 flujos de trabajo y generaron más de 500 recursos."
+              },
+              {
+                "t": "p",
+                "x": "Mosa nació del propio trabajo de producción de Ambassadors, donde las herramientas separadas para imagen, video y escalado obligaban a trasladar a mano prompts, datos y requisitos de marca de una a otra. La plataforma reúne modelos de AI, datos y pasos de trabajo en un único flujo visual que los equipos pueden reutilizar entre proyectos, formatos y mercados."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
+              },
+              {
+                "t": "p",
+                "x": "“La construimos porque generar un buen recurso ya no es lo difícil. Lo difícil es hacerlo de forma constante, en distintos formatos y mercados, sin que la marca pierda su identidad”, afirma Diederik Veelo, CIO de Ambassadors."
+              },
+              {
+                "t": "p",
+                "x": "Los costos se ven en cada paso, y un agente de AI ayuda a crear flujos de trabajo sin necesidad de programar. Mosa ya está disponible para creadores individuales y freelancers, así como para estudios, agencias y equipos internos, con un plan enterprise para organizaciones más grandes."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "MForMedia、AI制作\nArcana Labsと提携",
-          "body": "ドバイのMForMediaがArcana LabsのAIワークフローを導入する。",
-          "mini_headline": "MForMedia、AI提携を締結",
+        "ko": {
+          "headline": "Ambassadors의\nAI 플랫폼 Mosa 개방",
+          "body": "Amsterdam의 Ambassadors가 AI 플랫폼 Mosa를 전면 공개했다.",
+          "mini_headline": "Ambassadors, Mosa 전면 개방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-                "cap": "MForMedia"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: ドバイのMForMediaは、Arcana Labsとの契約を受けて自社の制作にAIワークフローを取り入れる。両社は戦略的パートナーシップを結び、Arcanaのソフトウェアを MForMediaの制作ワークフロー、アラビア語の共同制作、スタッフ研修に組み込む。最終的な目標は、中東・北アフリカ(MENA)地域全体でAI-nativeな映画・テレビ制作の体制を築くことだ。"
+                "x": "Amsterdam-based 크리에이티브 제작사 Ambassadors가 사내 비주얼 AI 워크플로 플랫폼 Mosa를 이제 모두에게 공개했다. 유월에 처음 소개된 Mosa는 10개 브랜드·에이전시가 참여한 클로즈드 베타에서 테스트를 거쳤고, 참여사들은 40개가 넘는 워크플로를 만들고 500개가 넘는 에셋을 생성했다."
               },
               {
                 "t": "p",
-                "x": "Arcana Labsの制作部門Arcana StudiosとMForMediaは、MENAの観客に向けたオリジナル作品も共同制作する。タイトル未発表の作品がすでに開発中だ。MForMediaのスタッフは今月、AI-native制作に関する五日間の研修ワークショップも受ける。"
+                "x": "Mosa는 Ambassadors의 자체 제작 현장에서 출발했다. 이미지, 영상, 업스케일링 도구가 제각각이라 프롬프트와 데이터, 브랜드 요건을 도구 사이에서 일일이 손으로 옮겨야 했다. Mosa는 AI 모델과 데이터, 워크플로 단계를 하나의 비주얼 워크플로로 묶고, 팀은 이를 프로젝트와 포맷, 시장을 넘나들며 재사용할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "「このモデルで、私たちは地域のスタジオに初日からAI-nativeなパイプラインを組み込んでいる」とArcana LabsのCEO、ジョナサン・ユンガー(Jonathan Yunger)は語る。「コンテンツはいまやドバイで、アラビア語で、かつてないほど速く低コストで作れる。アラビア語の制作がこの地域にとどまることになる」"
+                "x": "“좋은 에셋 하나를 만드는 일은 더 이상 어렵지 않기 때문에 이걸 만들었습니다. 어려운 건 포맷과 시장을 가리지 않고, 브랜드를 온전히 지키면서 꾸준히 해내는 일입니다.” Ambassadors의 CIO Diederik Veelo의 말이다."
               },
               {
                 "t": "p",
-                "x": "共同創業者でマネージング・パートナーのラルフ・マタール(Ralph Matar)とハリール・ホメイシー(Khalil Homeissy)が率いるMForMediaは、Carpool KaraokeとThe X Factorのアラビア語版を制作している。今回の発表は、MForMediaがMENAのテレビ業界のベテラン、ジアード・ケビ(Ziad Kebbi)をマネージング・ディレクターに迎えた直後のことだ。同社は当時、AI制作、オリジナルコンテンツ、IP保有へと舵を切ると発表していた。"
+                "x": "단계마다 비용이 보이고, AI 에이전트가 코딩 없이 워크플로를 만들도록 돕는다. Mosa는 이제 스튜디오와 에이전시, 사내 팀은 물론 개인 크리에이터와 프리랜서도 쓸 수 있으며, 대규모 조직을 위한 엔터프라이즈 플랜도 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Ambassadors\nAI基盤Mosaを全面開放",
+          "body": "AmsterdamのAmbassadorsが自社のAI基盤Mosaを全面公開した。",
+          "mini_headline": "AmbassadorsがMosaを全面開放",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amsterdam-basedのクリエイティブ制作会社Ambassadorsが、社内向けのビジュアルAIワークフロー基盤Mosaを全面公開した。六月に初披露されたMosaは、10のブランドとエージェンシーが参加したクローズドベータでテストされ、参加社は40を超えるワークフローを構築し、500点を超えるアセットを生成した。"
+              },
+              {
+                "t": "p",
+                "x": "MosaはAmbassadors自身の制作現場から生まれた。画像、映像、アップスケーリングでツールが分かれていたため、プロンプトやデータ、ブランド要件をツール間で手作業で受け渡す必要があった。MosaはAIモデル、データ、ワークフローの各ステップを一つのビジュアルワークフローにまとめ、チームはそれをプロジェクトやフォーマット、市場をまたいで再利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
+              },
+              {
+                "t": "p",
+                "x": "「良いアセットを一つ生成すること自体は、もはや難しくない。難しいのは、フォーマットや市場をまたいで、ブランドを損なわずに一貫して作り続けることだ。だからこれを作った」と、AmbassadorsのCIO、Diederik Veeloは語る。"
+              },
+              {
+                "t": "p",
+                "x": "各ステップでコストが見え、AIエージェントがコーディングなしでのワークフロー構築を手助けする。Mosaはスタジオ、エージェンシー、社内チームに加え、個人クリエイターやフリーランスも利用でき、大規模組織向けにはエンタープライズプランも用意されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MForMedia签AI协议\n携手Arcana Labs",
-          "body": "迪拜制片公司MForMedia将依新协议引入Arcana Labs的AI工作流。",
-          "mini_headline": "MForMedia签署AI协议",
+          "headline": "Ambassadors\nAI平台Mosa全面开放",
+          "body": "Amsterdam工作室Ambassadors将自研AI工作流平台Mosa向所有人开放。",
+          "mini_headline": "Ambassadors全面开放Mosa",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-                "cap": "MForMedia"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE：迪拜的MForMedia与Arcana Labs达成协议，将在制作中引入AI工作流。两家公司已建立战略合作伙伴关系，把Arcana的软件融入MForMedia的制作流程、阿拉伯语合拍项目和员工培训。总体目标是在中东和北非（MENA）地区建立AI-native的影视制作能力。"
+                "x": "Amsterdam-based创意制作公司Ambassadors已向所有人开放其内部可视化AI工作流平台Mosa。该平台于六月首次亮相，曾在10家品牌和代理商参与的封闭测试中试用，参与者搭建了40多个工作流，生成了500多个素材。"
               },
               {
                 "t": "p",
-                "x": "Arcana Labs旗下制作部门Arcana Studios还将与MForMedia为MENA观众联合制作原创内容，尚未公布片名的作品已在开发中。本月，MForMedia员工还将参加为期五天的AI-native制作培训工作坊。"
+                "x": "Mosa源自Ambassadors自身的制作实践：图像、视频和放大各用一套工具，提示词、数据和品牌要求只能在工具之间手动传递。Mosa把AI模型、数据和工作流步骤整合进同一个可视化工作流，团队可以在不同项目、格式和市场中反复使用。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "“通过这种模式，我们从第一天起就把AI-native流程嵌入一家地区工作室，”Arcana Labs CEO Jonathan Yunger表示。“如今可以在迪拜、用阿拉伯语，以前所未有的速度和成本效益制作内容，确保阿拉伯语制作留在本地区。”"
+                "x": "“我们做它，是因为生成一个好素材已经不再是难点。难的是在不同格式和市场中持续稳定地产出，同时保持品牌完整。”Ambassadors首席信息官（CIO）Diederik Veelo说。"
               },
               {
                 "t": "p",
-                "x": "MForMedia由联合创始人兼管理合伙人Ralph Matar和Khalil Homeissy领导，制作Carpool Karaoke和The X Factor的阿拉伯语版本。此前不久，MForMedia聘请MENA电视业资深人士Ziad Kebbi担任董事总经理，并宣布公司将转向AI制作、原创内容和IP所有权。"
+                "x": "每一步的成本都清晰可见，AI智能体可帮助用户在无需编程的情况下搭建工作流。Mosa现已向个人创作者和自由职业者开放，也面向工作室、代理商和内部团队，并为大型机构提供企业版方案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MForMedia y Arcana Labs firman\nun acuerdo de producción con AI",
-          "body": "La productora MForMedia, de Dubai, sumará a sus producciones los flujos de trabajo de AI de Arcana Labs.",
-          "mini_headline": "MForMedia firma un pacto de AI",
+          "headline": "Ambassadors abre a todos\nMosa, su plataforma de AI",
+          "body": "El estudio de Amsterdam Ambassadors abre a todos Mosa, su plataforma interna de flujos de trabajo visuales con AI.",
+          "mini_headline": "Ambassadors abre Mosa a todos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-                "cap": "MForMedia"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: MForMedia, de Dubai, buscará incorporar flujos de trabajo de AI en sus producciones tras un acuerdo con Arcana Labs. Las dos compañías han cerrado una alianza estratégica para integrar el software de Arcana en los flujos de producción de MForMedia, en coproducciones en árabe y en la formación del personal. El objetivo general es desarrollar capacidades de producción de cine y televisión AI-native en toda la región de Oriente Medio y el Norte de África (MENA)."
+                "x": "La productora creativa Amsterdam-based Ambassadors ha abierto a todos Mosa, su plataforma interna de flujos de trabajo visuales con AI. Presentada en junio, se probó en una beta cerrada con 10 marcas y agencias, que crearon más de 40 flujos de trabajo y generaron más de 500 recursos."
               },
               {
                 "t": "p",
-                "x": "Arcana Studios, el brazo de producción de Arcana Labs, y MForMedia también coproducirán contenido original para el público de MENA, con títulos aún sin anunciar ya en desarrollo. Además, el personal de MForMedia recibirá este mes un taller de formación de cinco días sobre producción AI-native."
+                "x": "Mosa nació del propio trabajo de producción de Ambassadors, donde las herramientas separadas para imagen, video y escalado obligaban a trasladar a mano prompts, datos y requisitos de marca de una a otra. La plataforma reúne modelos de AI, datos y pasos de trabajo en un único flujo visual que los equipos pueden reutilizar entre proyectos, formatos y mercados."
               },
-              {
-                "t": "p",
-                "x": "“Con este modelo, estamos integrando un pipeline AI-native dentro de un estudio regional desde el primer día”, dijo Jonathan Yunger, CEO de Arcana Labs. “Ahora se puede crear contenido en Dubai, en árabe, más rápido y de forma más rentable que nunca, lo que garantiza que la producción en árabe se quede en la región.”"
-              },
-              {
-                "t": "p",
-                "x": "MForMedia, dirigida por sus cofundadores y Managing Partners Ralph Matar y Khalil Homeissy, produce las versiones en árabe de Carpool Karaoke y The X Factor. La noticia llega poco después de que MForMedia contratara como Managing Director a Ziad Kebbi, veterano de la televisión en MENA, cuando la compañía anunció su giro hacia la producción con AI, el contenido original y la propiedad de IP."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "MForMedia, AI는\nArcana Labs와",
-          "body": "Dubai의 MForMedia가 Arcana Labs의 AI 워크플로를 도입한다.",
-          "mini_headline": "MForMedia, AI 협약 체결",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
-                "cap": "MForMedia"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "EXCLUSIVE: Dubai의 MForMedia가 Arcana Labs와의 계약에 따라 자사 제작에 AI 워크플로를 도입한다. 두 회사는 Arcana의 소프트웨어를 MForMedia의 제작 워크플로, Arabic-language(아랍어) 공동 제작, 직원 교육에 접목하는 전략적 파트너십을 맺었다. 궁극적인 목표는 중동·북아프리카(Middle East and North Africa, MENA) 지역 전반에 AI-native 영화·TV 제작 역량을 갖추는 것이다."
+                "x": "“La construimos porque generar un buen recurso ya no es lo difícil. Lo difícil es hacerlo de forma constante, en distintos formatos y mercados, sin que la marca pierda su identidad”, afirma Diederik Veelo, CIO de Ambassadors."
               },
               {
                 "t": "p",
-                "x": "Arcana Labs의 제작 부문인 Arcana Studios와 MForMedia는 MENA 관객을 위한 오리지널 콘텐츠도 공동 제작하며, 제목이 공개되지 않은 작품들이 이미 개발 중이다. MForMedia 직원들은 이달 AI-native 제작에 관한 닷새(five-day) 교육 워크숍도 받는다."
-              },
-              {
-                "t": "p",
-                "x": "Arcana Labs CEO Jonathan Yunger는 “이 모델로 우리는 첫날부터 지역 스튜디오 안에 AI-native 파이프라인을 심고 있다”며 “이제 콘텐츠를 Dubai에서, Arabic(아랍어)으로, 그 어느 때보다 빠르고 비용 효율적으로 만들 수 있어 Arabic-language 제작이 지역 안에 머물게 된다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "공동 창업자이자 Managing Partners인 Ralph Matar와 Khalil Homeissy가 이끄는 MForMedia는 Carpool Karaoke와 The X Factor의 Arabic(아랍어)판을 제작한다. 이번 소식은 MForMedia가 MENA TV 업계 베테랑 Ziad Kebbi를 Managing Director로 영입하며 AI 제작, 오리지널 콘텐츠, IP 소유 쪽으로 방향을 튼다고 밝힌 직후에 나왔다."
+                "x": "Los costos se ven en cada paso, y un agente de AI ayuda a crear flujos de trabajo sin necesidad de programar. Mosa ya está disponible para creadores individuales y freelancers, así como para estudios, agencias y equipos internos, con un plan enterprise para organizaciones más grandes."
               }
             ]
           }
@@ -325,467 +355,249 @@
       }
     },
     {
-      "id": "curious-refuge-gpt-astra-agent-edit",
+      "id": "pvc-ai-coded-editor-utilities-roundup",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트는 영화를\n얼마나 만들 수 있나",
-      "body": "Curious Refuge가 GPT Astra에 VFX·SFX까지 편집을 맡겼다.",
-      "mini_headline": "AI 영화 에이전트 실험",
+      "headline": "AI로 코딩 쉬워지자\n편집 도구가 늘어난다",
+      "body": "AI는 코드 작성에 강하고, 편집자용 작은 도구는 그 강점에 꼭 들어맞는다.",
+      "mini_headline": "AI 코딩이 키운 편집 도구",
       "tool": "Movies",
-      "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=JWEAmLHp7Sg",
+      "source": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/roundup-new-software-for-video-editors/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "JWEAmLHp7Sg"
+            "t": "p",
+            "x": "인공지능(Artificial Intelligence)이 모든 일을 잘하지는 못해도 코드 작성만큼은 강하다. 작은 소프트웨어 도구가 바로 그 강점에 들어맞는다. Iain Anderson은 자신이 정리한 새 도구들이 어떻게 만들어졌는지 확실히는 모른다면서도, 대부분 적어도 어느 정도는 AI의 손을 거쳤다고 봐도 무리가 없다고 말한다."
           },
           {
             "t": "p",
-            "x": "AI 에이전트는 영화 제작을 실제로 얼마나 해낼 수 있을까?"
+            "x": "코딩이 쉬워지자 포스트 프로덕션 분야에도 사소하지만 성가신 문제를 푸는 앱이 부쩍 늘었다. 편집자가 그런 도구를 직접 설계하고 만들 수 있게 됐기 때문이다."
           },
-          {
-            "t": "p",
-            "x": "이번 영상에서는 GPT Astra에 영상 정리와 편집을 맡겼다. VFX, SFX 작업에 마케팅 소재 제작까지 포함해서다. 무엇이 통했고 무엇이 안 통했는지는 튜토리얼에 담았다."
-          },
-          {
-            "t": "p",
-            "x": "전체 분석 글과 프롬프트는 여기 있다: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "How much filmmaking can\nan AI agent actually do",
-          "body": "Curious Refuge let GPT Astra organize and edit a video, including VFX, SFX and marketing assets.",
-          "mini_headline": "Testing an AI film agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "JWEAmLHp7Sg"
-              },
-              {
-                "t": "p",
-                "x": "How Much of Filmmaking Can AI Agents Actually Do?"
-              },
-              {
-                "t": "p",
-                "x": "In this video, we let GPT Astra organize and edit a video including doing VFX, SFX, and producing marketing assets. Check out our tutorial for what worked and what didn’t."
-              },
-              {
-                "t": "p",
-                "x": "Check out the full written breakdown and prompts here: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 에이전트는 영화를\n얼마나 만들 수 있나",
-          "body": "Curious Refuge가 GPT Astra에 VFX·SFX까지 편집을 맡겼다.",
-          "mini_headline": "AI 영화 에이전트 실험",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "JWEAmLHp7Sg"
-              },
-              {
-                "t": "p",
-                "x": "AI 에이전트는 영화 제작을 실제로 얼마나 해낼 수 있을까?"
-              },
-              {
-                "t": "p",
-                "x": "이번 영상에서는 GPT Astra에 영상 정리와 편집을 맡겼다. VFX, SFX 작업에 마케팅 소재 제작까지 포함해서다. 무엇이 통했고 무엇이 안 통했는지는 튜토리얼에 담았다."
-              },
-              {
-                "t": "p",
-                "x": "전체 분석 글과 프롬프트는 여기 있다: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIエージェントは\n映画をどこまで作れるか",
-          "body": "Curious RefugeがGPT AstraにVFXやSFXも含む動画編集を任せた。",
-          "mini_headline": "AI映画エージェントを検証",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "JWEAmLHp7Sg"
-              },
-              {
-                "t": "p",
-                "x": "AIエージェントは映画制作を実際どこまでこなせるのか?"
-              },
-              {
-                "t": "p",
-                "x": "この動画では、GPT AstraにVFXやSFXの作業、マーケティング素材の制作も含めて動画の整理と編集を任せた。何がうまくいき、何がうまくいかなかったかはチュートリアルで確認できる。"
-              },
-              {
-                "t": "p",
-                "x": "詳しい解説記事とプロンプトはこちら: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI智能体究竟能\n完成多少电影制作",
-          "body": "Curious Refuge让GPT Astra剪辑视频，含VFX、SFX和营销素材。",
-          "mini_headline": "实测AI电影智能体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "JWEAmLHp7Sg"
-              },
-              {
-                "t": "p",
-                "x": "AI智能体究竟能完成多少电影制作工作？"
-              },
-              {
-                "t": "p",
-                "x": "在这段视频中，我们让GPT Astra整理并剪辑一段视频，包括制作VFX、SFX和营销素材。来看看我们的教程，了解哪些做法奏效、哪些没有。"
-              },
-              {
-                "t": "p",
-                "x": "完整的文字解析和提示词请见：https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "¿Cuánto cine puede hacer\nde verdad un agente de AI?",
-          "body": "Curious Refuge dejó que GPT Astra organizara y editara un video, con VFX, SFX y piezas de marketing incluidas.",
-          "mini_headline": "Prueba de un agente de cine con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "JWEAmLHp7Sg"
-              },
-              {
-                "t": "p",
-                "x": "¿Cuánto del trabajo cinematográfico pueden hacer realmente los agentes de AI?"
-              },
-              {
-                "t": "p",
-                "x": "En este video dejamos que GPT Astra organizara y editara un video, incluidos los VFX, los SFX y la producción de piezas de marketing. Consulta nuestro tutorial para ver qué funcionó y qué no."
-              },
-              {
-                "t": "p",
-                "x": "Consulta el análisis completo por escrito y los prompts aquí: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 에이전트는 영화를\n얼마나 만들 수 있나",
-          "body": "Curious Refuge가 GPT Astra에 VFX·SFX까지 편집을 맡겼다.",
-          "mini_headline": "AI 영화 에이전트 실험",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "JWEAmLHp7Sg"
-              },
-              {
-                "t": "p",
-                "x": "AI 에이전트는 영화 제작을 실제로 얼마나 해낼 수 있을까?"
-              },
-              {
-                "t": "p",
-                "x": "이번 영상에서는 GPT Astra에 VFX, SFX 작업과 마케팅 소재 제작까지 포함해 영상의 정리와 편집을 맡겼다. 무엇이 통했고 무엇이 통하지 않았는지는 튜토리얼에서 확인할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "전체 분석 글과 프롬프트는 여기서 볼 수 있다: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIエージェントは\n映画をどこまで作れるか",
-          "body": "Curious RefugeがGPT AstraにVFXやSFXも含む動画編集を任せた。",
-          "mini_headline": "AI映画エージェントを検証",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "JWEAmLHp7Sg"
-              },
-              {
-                "t": "p",
-                "x": "AIエージェントは映画制作を実際どこまでこなせるのか?"
-              },
-              {
-                "t": "p",
-                "x": "この動画では、GPT AstraにVFXやSFXの作業、マーケティング素材の制作も含めて動画の整理と編集を任せた。何がうまくいき、何がうまくいかなかったかはチュートリアルで確認できる。"
-              },
-              {
-                "t": "p",
-                "x": "詳しい解説記事とプロンプトはこちら: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI智能体究竟能\n完成多少电影制作",
-          "body": "Curious Refuge让GPT Astra剪辑视频，含VFX、SFX和营销素材。",
-          "mini_headline": "实测AI电影智能体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "JWEAmLHp7Sg"
-              },
-              {
-                "t": "p",
-                "x": "AI智能体究竟能完成多少电影制作工作？"
-              },
-              {
-                "t": "p",
-                "x": "在这段视频中，我们让GPT Astra整理并剪辑一段视频，包括制作VFX、SFX和营销素材。来看看我们的教程，了解哪些做法奏效、哪些没有。"
-              },
-              {
-                "t": "p",
-                "x": "完整的文字解析和提示词请见：https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "¿Cuánto cine puede hacer\nde verdad un agente de AI?",
-          "body": "Curious Refuge dejó que GPT Astra organizara y editara un video, con VFX, SFX y piezas de marketing incluidas.",
-          "mini_headline": "Prueba de un agente de cine con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "JWEAmLHp7Sg"
-              },
-              {
-                "t": "p",
-                "x": "¿Cuánto del trabajo cinematográfico pueden hacer realmente los agentes de AI?"
-              },
-              {
-                "t": "p",
-                "x": "En este video dejamos que GPT Astra organizara y editara un video, incluidos los VFX, los SFX y la producción de piezas de marketing. Consulta nuestro tutorial para ver qué funcionó y qué no."
-              },
-              {
-                "t": "p",
-                "x": "Consulta el análisis completo por escrito y los prompts aquí: https://curiousrefuge.com/blog/5-ways-to-use-astra-for-ai-filmmaking"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "mubi-cakarel-no-ai-films-policy",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Mubi의 Cakarel\n영화에선 AI 멀리한다",
-      "body": "Mubi의 Efe Cakarel은 영화만큼은 AI를 최대한 멀리하겠다고 했다.",
-      "mini_headline": "Mubi, 영화에선 AI 배제",
-      "tool": "Movies",
-      "source": "Screen Daily",
-      "url": "https://www.screendaily.com/news/mubis-efe-cakarel-we-are-going-to-stay-as-far-away-from-ai-as-possible-when-it-comes-to-films/5220798.article",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-            "cap": "Efe Cakarel"
+            "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+            "cap": "Beat는 대본을 노드 기반 다기능 문서로 바꾼다"
           },
           {
             "t": "p",
-            "x": "Mubi 창업자 겸 CEO 에페 차카렐(Efe Cakarel)은 9월 26일 취리히영화제(Zurich Film Festival) Zurich Summit 기조연설에서 “영화에 관해서는 AI를 최대한 멀리할 것”이라고 회사 방침을 밝혔다."
+            "x": "추천 목록에는 MCP로 AI 도구를 연결하는 무료 비주얼 스크립팅 도구 Beat, 음성으로 움직이는 텔레프롬프터 PowerCue가 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+            "cap": "Doza Assist 역시 요즘 늘어나는 AI-powered 편집 솔루션이다"
           },
           {
             "t": "p",
-            "x": "“Mubi에서도 AI를 쓸 것이고, 이미 엔지니어링, 재무, 운영, 예측, 고객 서비스에 AI를 쓰고 있다”고 차카렐은 말했다. 그는 이 전략에 단서를 달았다. “AI가 좋은 것을 만들 수 없다고 믿어서가 아니다. 그건 안일하고 아마 틀린 주장이다. 오히려 AI-generated 콘텐츠가 곧 아주 좋아질 것이기에 인간의 창작이 더 가치 있어지는 것이다.”"
+            "x": "Doza Assist, PowerCut, RoughCut 같은 자동 러프컷 도구도 소개된다. Final Cut Pro에 생성형 확장 기능을 붙이는 FCP Extender도 목록에 올랐다."
           },
           {
             "t": "p",
-            "x": "이 CEO는 앞으로 가치가 “의도”에 있을 것이라고 했다. “취향, 주의, 문화적 정당성, 공동체, 출처, 무엇보다 신뢰”에도 있다고 덧붙였다. AI 때문에 같은 영화가 관객마다 다른 버전으로 만들어질 수 있다는 경고도 내놨다. “초개인화된 엔터테인먼트는 만족을 주지만, 영화는 이야깃거리를 준다.”"
-          },
-          {
-            "t": "p",
-            "x": "“그러니 맞다, 우리는 기계가 우리 삶에서 많은 일을 해주길 원한다. 다만 영화만큼은 기계가 만들지 않기를 바란다. 엔터테인먼트가 어디로 가는지에 대한 내 생각이 맞다면, 20년 뒤 영화사가 할 수 있는 가장 급진적인 말은 ‘이건 사람이 만들었다’일지도 모르기 때문이다.”"
+            "x": "“‘나를 위해 만든 앱’과 ‘사람들이 사고 싶어 할 앱’ 사이에는 여전히 큰 간극이 있다.” Anderson은 이렇게 적고 마케팅과 지원을 큰 숙제로 꼽았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mubi's Efe Cakarel keeps\nAI away from its films",
-          "body": "Mubi's Efe Cakarel says the company will stay as far away from AI as possible when it comes to films.",
-          "mini_headline": "Mubi keeps AI out of films",
+          "headline": "As AI makes coding easier,\nnew editor tools multiply",
+          "body": "AI is good at writing code, and small software tools for video editors sit right in its sweet spot.",
+          "mini_headline": "AI coding spurs editor tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Artificial Intelligence isn't good at everything, but it is good at writing code. Small-scale software tools sit right in the sweet spot. Iain Anderson has no firm information on how the new tools he rounds up were made, but says it's a fair bet most had at least some degree of AI involvement."
+              },
+              {
+                "t": "p",
+                "x": "Because coding has become easier, the post production scene is seeing a lot more apps that solve annoying smaller issues, because editors are able to design and implement those tools themselves."
+              },
+              {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-                "cap": "Efe Cakarel"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+                "cap": "Beat turns your script into a node-based multifunctional document"
               },
               {
                 "t": "p",
-                "x": "Mubi founder and CEO Efe Cakarel says the company is “going to stay as far away from AI as possible when it comes to films”, in a keynote at the Zurich Summit at the Zurich Film Festival on September 26."
+                "x": "Picks include Beat, a free visual scripting tool that can hook in AI tools via MCP, and PowerCue, a voice-activated teleprompter."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+                "cap": "Doza Assist is one of the current crop of AI-powered editing solutions"
               },
               {
                 "t": "p",
-                "x": "“At Mubi, we’re going to use AI, and we are using AI in engineering, finance, operations, forecasting, customer service,” said Cakarel. He qualified the strategy: “Not because I believe AI cannot make something good. That argument is complacent and probably wrong. It is precisely because AI-generated content is about to become so good that human creation becomes more valuable.”"
+                "x": "Automatic rough-cut tools such as Doza Assist, PowerCut and RoughCut also feature, alongside FCP Extender, which brings a generative extend feature to Final Cut Pro."
               },
               {
                 "t": "p",
-                "x": "In the future, the value will be in “intention”, said the CEO, and in “taste, attention, cultural legitimacy, community, provenance, and above all, trust.” He warned that AI could lead to different versions of the same film being made for different viewers: “Hyper-personalised entertainment gives you satisfaction, but cinema gives you something to talk about.”"
-              },
-              {
-                "t": "p",
-                "x": "“So yes, we want machines doing a great deal of work in our lives; we just don’t want them making the movies. Because if I’m right about where entertainment is going, 20 years from now, the most radical thing a film company may be able to say is ‘This was made by people’.”"
+                "x": "“There's still a big gap between ‘app made for me’ and ‘app that people will want to buy’,” Anderson writes, pointing to marketing and support as huge challenges."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Mubi의 Cakarel\n영화에선 AI 멀리한다",
-          "body": "Mubi의 Efe Cakarel은 영화만큼은 AI를 최대한 멀리하겠다고 했다.",
-          "mini_headline": "Mubi, 영화에선 AI 배제",
+          "headline": "AI로 코딩 쉬워지자\n편집 도구가 늘어난다",
+          "body": "AI는 코드 작성에 강하고, 편집자용 작은 도구는 그 강점에 꼭 들어맞는다.",
+          "mini_headline": "AI 코딩이 키운 편집 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "인공지능(Artificial Intelligence)이 모든 일을 잘하지는 못해도 코드 작성만큼은 강하다. 작은 소프트웨어 도구가 바로 그 강점에 들어맞는다. Iain Anderson은 자신이 정리한 새 도구들이 어떻게 만들어졌는지 확실히는 모른다면서도, 대부분 적어도 어느 정도는 AI의 손을 거쳤다고 봐도 무리가 없다고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "코딩이 쉬워지자 포스트 프로덕션 분야에도 사소하지만 성가신 문제를 푸는 앱이 부쩍 늘었다. 편집자가 그런 도구를 직접 설계하고 만들 수 있게 됐기 때문이다."
+              },
+              {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-                "cap": "Efe Cakarel"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+                "cap": "Beat는 대본을 노드 기반 다기능 문서로 바꾼다"
               },
               {
                 "t": "p",
-                "x": "Mubi 창업자 겸 CEO 에페 차카렐(Efe Cakarel)은 9월 26일 취리히영화제(Zurich Film Festival) Zurich Summit 기조연설에서 “영화에 관해서는 AI를 최대한 멀리할 것”이라고 회사 방침을 밝혔다."
+                "x": "추천 목록에는 MCP로 AI 도구를 연결하는 무료 비주얼 스크립팅 도구 Beat, 음성으로 움직이는 텔레프롬프터 PowerCue가 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+                "cap": "Doza Assist 역시 요즘 늘어나는 AI-powered 편집 솔루션이다"
               },
               {
                 "t": "p",
-                "x": "“Mubi에서도 AI를 쓸 것이고, 이미 엔지니어링, 재무, 운영, 예측, 고객 서비스에 AI를 쓰고 있다”고 차카렐은 말했다. 그는 이 전략에 단서를 달았다. “AI가 좋은 것을 만들 수 없다고 믿어서가 아니다. 그건 안일하고 아마 틀린 주장이다. 오히려 AI-generated 콘텐츠가 곧 아주 좋아질 것이기에 인간의 창작이 더 가치 있어지는 것이다.”"
+                "x": "Doza Assist, PowerCut, RoughCut 같은 자동 러프컷 도구도 소개된다. Final Cut Pro에 생성형 확장 기능을 붙이는 FCP Extender도 목록에 올랐다."
               },
               {
                 "t": "p",
-                "x": "이 CEO는 앞으로 가치가 “의도”에 있을 것이라고 했다. “취향, 주의, 문화적 정당성, 공동체, 출처, 무엇보다 신뢰”에도 있다고 덧붙였다. AI 때문에 같은 영화가 관객마다 다른 버전으로 만들어질 수 있다는 경고도 내놨다. “초개인화된 엔터테인먼트는 만족을 주지만, 영화는 이야깃거리를 준다.”"
-              },
-              {
-                "t": "p",
-                "x": "“그러니 맞다, 우리는 기계가 우리 삶에서 많은 일을 해주길 원한다. 다만 영화만큼은 기계가 만들지 않기를 바란다. 엔터테인먼트가 어디로 가는지에 대한 내 생각이 맞다면, 20년 뒤 영화사가 할 수 있는 가장 급진적인 말은 ‘이건 사람이 만들었다’일지도 모르기 때문이다.”"
+                "x": "“‘나를 위해 만든 앱’과 ‘사람들이 사고 싶어 할 앱’ 사이에는 여전히 큰 간극이 있다.” Anderson은 이렇게 적고 마케팅과 지원을 큰 숙제로 꼽았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MubiのCakarel\n映画からAIを遠ざける",
-          "body": "MubiのEfe Cakarelは、映画に関してはAIからできる限り距離を置くと語った。",
-          "mini_headline": "Mubi、映画にAIは使わず",
+          "headline": "AIでコーディングが容易に\n編集ツールが続々登場",
+          "body": "AIはコード作成が得意で、映像編集者向けの小さなツールはまさにその得意分野に収まる。",
+          "mini_headline": "AIコーディングで編集ツール増加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "人工知能(Artificial Intelligence)は何でも得意なわけではないが、コードを書くのは得意だ。小規模なソフトウェアツールはまさにその得意分野に当たる。Iain Andersonは、自身がまとめた新ツールがどう作られたかについて確かな情報は持っていないが、大半は少なくともある程度AIが関わっていると見てよいだろうと述べる。"
+              },
+              {
+                "t": "p",
+                "x": "コーディングが容易になったことで、ポストプロダクションの現場では、小さいながらも厄介な問題を解決するアプリが大幅に増えている。編集者自身がそうしたツールを設計し、実装できるようになったためだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-                "cap": "Efe Cakarel"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+                "cap": "Beatは脚本をノードベースの多機能ドキュメントに変える"
               },
               {
                 "t": "p",
-                "x": "Mubiの創業者兼CEO、エフェ・チャカレル(Efe Cakarel)は9月26日、Zurich Film FestivalのZurich Summitでの基調講演で、同社は「映画に関してはAIからできる限り距離を置く」と述べた。"
+                "x": "選ばれたツールには、MCP経由でAIツールを接続できる無料のビジュアルスクリプティングツールBeatや、音声で操作するテレプロンプターPowerCueがある。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+                "cap": "Doza Assistは、現在登場しているAI-poweredの編集ソリューションの一つだ"
               },
               {
                 "t": "p",
-                "x": "「Mubiでも AIは使うし、すでにエンジニアリング、財務、運営、予測、顧客サービスでAIを使っている」とチャカレルは語る。そのうえで戦略にこう但し書きを付けた。「AIが良いものを作れないと思っているからではない。その主張は慢心であり、おそらく間違っている。むしろAI-generatedコンテンツがまもなく非常に良くなるからこそ、人間の創作の価値が高まるのだ」"
+                "x": "Doza Assist、PowerCut、RoughCutといった自動ラフカットツールも取り上げられ、Final Cut Proに生成拡張機能を加えるFCP Extenderも並ぶ。"
               },
               {
                 "t": "p",
-                "x": "将来、価値は「意図」にあるとCEOは言う。そして「センス、注意、文化的正当性、コミュニティ、来歴、そして何よりも信頼」にあるという。AIによって同じ映画が観客ごとに異なるバージョンで作られる可能性があるとも警告した。「超パーソナライズされたエンタメは満足を与えるが、映画は語り合う何かを与えてくれる」"
-              },
-              {
-                "t": "p",
-                "x": "「だから確かに、私たちは生活の多くの仕事を機械にやってほしい。ただ映画だけは作ってほしくない。エンターテインメントの行方についての私の見立てが正しければ、20年後、映画会社が言える最もラディカルな言葉は『これは人間が作った』になるかもしれないからだ」"
+                "x": "「『自分のために作ったアプリ』と『人が買いたいと思うアプリ』の間には、まだ大きな隔たりがある」とAndersonは書き、マーケティングとサポートを大きな課題として挙げる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mubi的Cakarel\n让电影远离AI",
-          "body": "Mubi的Efe Cakarel表示，在电影方面，公司将尽可能远离AI。",
-          "mini_headline": "Mubi让电影远离AI",
+          "headline": "AI让编程更容易\n剪辑工具纷纷涌现",
+          "body": "AI擅长写代码，而面向视频剪辑师的小型软件工具正好落在它的强项上。",
+          "mini_headline": "AI编程催生剪辑工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "人工智能（Artificial Intelligence）并非样样精通，但很擅长写代码，小型软件工具恰好是它的用武之地。Iain Anderson并没有确切信息说明他汇总的这些新工具是如何开发的，但他表示，可以合理推测其中大多数至少在某种程度上用到了AI。"
+              },
+              {
+                "t": "p",
+                "x": "由于编程变得更容易，后期制作领域出现了越来越多解决恼人小问题的应用，因为剪辑师已经能够自己设计并实现这些工具。"
+              },
+              {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-                "cap": "Efe Cakarel"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+                "cap": "Beat把剧本变成基于节点的多功能文档"
               },
               {
                 "t": "p",
-                "x": "Mubi创始人兼CEO Efe Cakarel于9月26日在Zurich Film Festival的Zurich Summit上发表主题演讲时表示，公司“在电影方面将尽可能远离AI”。"
+                "x": "入选工具包括可通过MCP接入AI工具的免费可视化脚本工具Beat，以及声控提词器PowerCue。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+                "cap": "Doza Assist是当下一批AI-powered剪辑方案之一"
               },
               {
                 "t": "p",
-                "x": "“在Mubi，我们会使用AI，而且已经在工程、财务、运营、预测和客户服务中使用AI，”Cakarel说。他对这一策略作了限定：“这并不是因为我认为AI做不出好东西。那种论点自满，而且很可能是错的。恰恰是因为AI-generated内容即将变得非常出色，人类的创作才会变得更有价值。”"
+                "x": "Doza Assist、PowerCut和RoughCut等自动粗剪工具也在其列，此外还有为Final Cut Pro加入生成式扩展功能的FCP Extender。"
               },
               {
                 "t": "p",
-                "x": "这位CEO表示，未来的价值将在于“意图”，以及“品味、注意力、文化正当性、社群、来源，最重要的是信任”。他警告说，AI可能导致同一部电影为不同观众制作出不同版本：“超个性化的娱乐给你满足感，而电影给你可以谈论的东西。”"
-              },
-              {
-                "t": "p",
-                "x": "“所以没错，我们希望机器在生活中承担大量工作；只是不希望它们来拍电影。因为如果我对娱乐业走向的判断没错，20年后，一家电影公司能说出的最激进的话，或许就是‘这是由人制作的’。”"
+                "x": "“‘为自己做的应用’和‘人们愿意掏钱买的应用’之间仍有很大差距。”Anderson写道，并指出营销和支持是巨大的挑战。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Efe Cakarel, de Mubi, mantiene\nla AI lejos de sus películas",
-          "body": "Efe Cakarel, de Mubi, afirma que la compañía se mantendrá lo más lejos posible de la AI en lo que respecta al cine.",
-          "mini_headline": "Mubi aleja la AI de sus películas",
+          "headline": "Programar es más fácil con AI\ny surgen nuevas apps de edición",
+          "body": "La AI escribe bien código, y las pequeñas herramientas para editores de video encajan justo en su punto fuerte.",
+          "mini_headline": "La AI impulsa apps de edición",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La inteligencia artificial (Artificial Intelligence) no es buena en todo, pero sí escribiendo código. Las herramientas de software a pequeña escala encajan justo en ese punto fuerte. Iain Anderson no tiene información firme sobre cómo se hicieron las nuevas herramientas que reúne, pero considera razonable suponer que en la mayoría intervino la AI al menos en cierta medida."
+              },
+              {
+                "t": "p",
+                "x": "Como programar se ha vuelto más fácil, en la posproducción aparecen muchas más apps que resuelven pequeños problemas molestos, porque los propios editores pueden diseñar e implementar esas herramientas."
+              },
+              {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-                "cap": "Efe Cakarel"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+                "cap": "Beat convierte el guion en un documento multifuncional basado en nodos"
               },
               {
                 "t": "p",
-                "x": "El fundador y CEO de Mubi, Efe Cakarel, afirmó que la compañía “se mantendrá lo más lejos posible de la AI en lo que respecta a las películas”, durante una conferencia magistral en el Zurich Summit del Zurich Film Festival el 26 de septiembre."
+                "x": "Entre las elegidas figuran Beat, una herramienta gratuita de guion visual que puede conectar herramientas de AI mediante MCP, y PowerCue, un teleprompter activado por voz."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+                "cap": "Doza Assist es una de las soluciones de edición AI-powered actuales"
               },
               {
                 "t": "p",
-                "x": "“En Mubi vamos a usar AI, y ya la estamos usando en ingeniería, finanzas, operaciones, previsiones y atención al cliente”, dijo Cakarel. Y matizó la estrategia: “No es porque crea que la AI no puede hacer algo bueno. Ese argumento es complaciente y probablemente erróneo. Es precisamente porque el contenido generado por AI (AI-generated) está a punto de volverse tan bueno que la creación humana se vuelve más valiosa”."
+                "x": "También aparecen herramientas de premontaje automático como Doza Assist, PowerCut y RoughCut, junto a FCP Extender, que añade a Final Cut Pro una función de extensión generativa."
               },
               {
                 "t": "p",
-                "x": "En el futuro, el valor estará en la “intención”, dijo el CEO, y en “el gusto, la atención, la legitimidad cultural, la comunidad, la procedencia y, sobre todo, la confianza”. Advirtió que la AI podría llevar a que se hicieran distintas versiones de una misma película para distintos espectadores: “El entretenimiento hiperpersonalizado te da satisfacción, pero el cine te da algo de qué hablar”."
-              },
-              {
-                "t": "p",
-                "x": "“Así que sí, queremos que las máquinas hagan gran parte del trabajo en nuestras vidas; solo que no queremos que hagan las películas. Porque si tengo razón sobre hacia dónde va el entretenimiento, dentro de 20 años lo más radical que podrá decir una productora será ‘Esto lo hicieron personas’”."
+                "x": "“Todavía hay una gran distancia entre ‘una app hecha para mí’ y ‘una app que la gente quiera comprar’”, escribe Anderson, que señala el marketing y el soporte como enormes desafíos."
               }
             ]
           }
@@ -793,125 +605,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Mubi의 Cakarel\n영화에선 AI 멀리한다",
-          "body": "Mubi의 Efe Cakarel은 영화에서는 AI를 최대한 멀리하겠다고 밝혔다.",
-          "mini_headline": "Mubi, 영화에선 AI 배제",
+          "headline": "AI로 코딩 쉬워지자\n편집 도구가 늘어난다",
+          "body": "AI는 코드 작성에 강하고, 영상 편집자용 소형 도구는 그 강점에 딱 들어맞는다.",
+          "mini_headline": "AI 코딩이 키운 편집 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "인공지능(Artificial Intelligence)이 모든 일에 능한 것은 아니지만, 코드 작성에는 강하다. 소규모 소프트웨어 도구는 바로 그 강점에 들어맞는다. Iain Anderson은 자신이 정리한 새 도구들이 어떻게 만들어졌는지 확실한 정보는 없지만, 대부분 적어도 어느 정도는 AI의 손을 거쳤다고 봐도 무리가 없다고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "코딩이 쉬워지면서 포스트 프로덕션 분야에는 사소하지만 성가신 문제를 해결하는 앱이 훨씬 많아지고 있다. 편집자가 그런 도구를 직접 설계하고 구현할 수 있게 됐기 때문이다."
+              },
+              {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-                "cap": "Efe Cakarel"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+                "cap": "Beat는 대본을 노드 기반의 다기능 문서로 바꿔 준다"
               },
               {
                 "t": "p",
-                "x": "Mubi 창업자 겸 CEO 에페 차카렐(Efe Cakarel)은 9월 26일 취리히영화제(Zurich Film Festival)의 Zurich Summit 기조연설에서 회사가 “영화에 관해서는 AI를 최대한 멀리할 것”이라고 말했다."
+                "x": "추천 목록에는 MCP로 AI 도구를 연결할 수 있는 무료 비주얼 스크립팅 도구 Beat와 음성으로 작동하는 텔레프롬프터 PowerCue가 들어 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+                "cap": "Doza Assist는 요즘 나오는 AI-powered 편집 솔루션 가운데 하나다"
               },
               {
                 "t": "p",
-                "x": "“Mubi에서도 AI를 쓸 것이고, 이미 엔지니어링, 재무, 운영, 예측, 고객 서비스에 AI를 쓰고 있다”고 차카렐은 말했다. 그는 이 전략에 단서를 달았다. “AI가 좋은 것을 만들 수 없다고 믿어서가 아니다. 그건 안일하고 아마 틀린 주장이다. 오히려 AI-generated 콘텐츠가 곧 아주 좋아질 것이기에 인간의 창작이 더 가치 있어지는 것이다.”"
+                "x": "Doza Assist, PowerCut, RoughCut 같은 자동 러프컷 도구도 소개되며, Final Cut Pro에 생성형 확장 기능을 더하는 FCP Extender도 함께 올랐다."
               },
               {
                 "t": "p",
-                "x": "앞으로 가치는 “의도”에 있을 것이라고 이 CEO는 말했다. 또 “취향, 주의, 문화적 정당성, 공동체, 출처, 무엇보다 신뢰”에 있다고 했다. 그는 AI 때문에 같은 영화가 관객마다 다른 버전으로 만들어질 수 있다고 경고했다. “초개인화된 엔터테인먼트는 만족을 주지만, 영화는 이야깃거리를 준다.”"
-              },
-              {
-                "t": "p",
-                "x": "“그러니 맞다, 우리는 기계가 우리 삶에서 많은 일을 해주길 원한다. 다만 영화만큼은 기계가 만들지 않기를 바란다. 엔터테인먼트가 어디로 가는지에 대한 내 생각이 맞다면, 20년 뒤 영화사가 할 수 있는 가장 급진적인 말은 ‘이건 사람이 만들었다’일지도 모르기 때문이다.”"
+                "x": "“‘나를 위해 만든 앱’과 ‘사람들이 사고 싶어 할 앱’ 사이에는 여전히 큰 간극이 있다.” Anderson은 이렇게 쓰며 마케팅과 지원을 큰 과제로 꼽았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MubiのCakarel\n映画からAIを遠ざける",
-          "body": "MubiのEfe Cakarelは、映画に関してはAIからできる限り距離を置くと語った。",
-          "mini_headline": "Mubi、映画にAIは使わず",
+          "headline": "AIでコーディングが容易に\n編集ツールが続々登場",
+          "body": "AIはコード作成が得意で、映像編集者向けの小さなツールはまさにその得意分野に収まる。",
+          "mini_headline": "AIコーディングで編集ツール増加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "人工知能(Artificial Intelligence)は何でも得意なわけではないが、コードを書くのは得意だ。小規模なソフトウェアツールはまさにその得意分野に当たる。Iain Andersonは、自身がまとめた新ツールがどう作られたかについて確かな情報は持っていないが、大半は少なくともある程度AIが関わっていると見てよいだろうと述べる。"
+              },
+              {
+                "t": "p",
+                "x": "コーディングが容易になったことで、ポストプロダクションの現場では、小さいながらも厄介な問題を解決するアプリが大幅に増えている。編集者自身がそうしたツールを設計し、実装できるようになったためだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-                "cap": "Efe Cakarel"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+                "cap": "Beatは脚本をノードベースの多機能ドキュメントに変える"
               },
               {
                 "t": "p",
-                "x": "Mubiの創業者兼CEO、エフェ・チャカレル(Efe Cakarel)は9月26日、Zurich Film FestivalのZurich Summitでの基調講演で、同社は「映画に関してはAIからできる限り距離を置く」と述べた。"
+                "x": "選ばれたツールには、MCP経由でAIツールを接続できる無料のビジュアルスクリプティングツールBeatや、音声で操作するテレプロンプターPowerCueがある。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+                "cap": "Doza Assistは、現在登場しているAI-poweredの編集ソリューションの一つだ"
               },
               {
                 "t": "p",
-                "x": "「Mubiでも AIは使うし、すでにエンジニアリング、財務、運営、予測、顧客サービスでAIを使っている」とチャカレルは語る。そのうえで戦略にこう但し書きを付けた。「AIが良いものを作れないと思っているからではない。その主張は慢心であり、おそらく間違っている。むしろAI-generatedコンテンツがまもなく非常に良くなるからこそ、人間の創作の価値が高まるのだ」"
+                "x": "Doza Assist、PowerCut、RoughCutといった自動ラフカットツールも取り上げられ、Final Cut Proに生成拡張機能を加えるFCP Extenderも並ぶ。"
               },
               {
                 "t": "p",
-                "x": "将来、価値は「意図」にあるとCEOは言う。そして「センス、注意、文化的正当性、コミュニティ、来歴、そして何よりも信頼」にあるという。AIによって同じ映画が観客ごとに異なるバージョンで作られる可能性があるとも警告した。「超パーソナライズされたエンタメは満足を与えるが、映画は語り合う何かを与えてくれる」"
-              },
-              {
-                "t": "p",
-                "x": "「だから確かに、私たちは生活の多くの仕事を機械にやってほしい。ただ映画だけは作ってほしくない。エンターテインメントの行方についての私の見立てが正しければ、20年後、映画会社が言える最もラディカルな言葉は『これは人間が作った』になるかもしれないからだ」"
+                "x": "「『自分のために作ったアプリ』と『人が買いたいと思うアプリ』の間には、まだ大きな隔たりがある」とAndersonは書き、マーケティングとサポートを大きな課題として挙げる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mubi的Cakarel\n让电影远离AI",
-          "body": "Mubi的Efe Cakarel表示，在电影方面，公司将尽可能远离AI。",
-          "mini_headline": "Mubi让电影远离AI",
+          "headline": "AI让编程更容易\n剪辑工具纷纷涌现",
+          "body": "AI擅长写代码，而面向视频剪辑师的小型软件工具正好落在它的强项上。",
+          "mini_headline": "AI编程催生剪辑工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "人工智能（Artificial Intelligence）并非样样精通，但很擅长写代码，小型软件工具恰好是它的用武之地。Iain Anderson并没有确切信息说明他汇总的这些新工具是如何开发的，但他表示，可以合理推测其中大多数至少在某种程度上用到了AI。"
+              },
+              {
+                "t": "p",
+                "x": "由于编程变得更容易，后期制作领域出现了越来越多解决恼人小问题的应用，因为剪辑师已经能够自己设计并实现这些工具。"
+              },
+              {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-                "cap": "Efe Cakarel"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+                "cap": "Beat把剧本变成基于节点的多功能文档"
               },
               {
                 "t": "p",
-                "x": "Mubi创始人兼CEO Efe Cakarel于9月26日在Zurich Film Festival的Zurich Summit上发表主题演讲时表示，公司“在电影方面将尽可能远离AI”。"
+                "x": "入选工具包括可通过MCP接入AI工具的免费可视化脚本工具Beat，以及声控提词器PowerCue。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+                "cap": "Doza Assist是当下一批AI-powered剪辑方案之一"
               },
               {
                 "t": "p",
-                "x": "“在Mubi，我们会使用AI，而且已经在工程、财务、运营、预测和客户服务中使用AI，”Cakarel说。他对这一策略作了限定：“这并不是因为我认为AI做不出好东西。那种论点自满，而且很可能是错的。恰恰是因为AI-generated内容即将变得非常出色，人类的创作才会变得更有价值。”"
+                "x": "Doza Assist、PowerCut和RoughCut等自动粗剪工具也在其列，此外还有为Final Cut Pro加入生成式扩展功能的FCP Extender。"
               },
               {
                 "t": "p",
-                "x": "这位CEO表示，未来的价值将在于“意图”，以及“品味、注意力、文化正当性、社群、来源，最重要的是信任”。他警告说，AI可能导致同一部电影为不同观众制作出不同版本：“超个性化的娱乐给你满足感，而电影给你可以谈论的东西。”"
-              },
-              {
-                "t": "p",
-                "x": "“所以没错，我们希望机器在生活中承担大量工作；只是不希望它们来拍电影。因为如果我对娱乐业走向的判断没错，20年后，一家电影公司能说出的最激进的话，或许就是‘这是由人制作的’。”"
+                "x": "“‘为自己做的应用’和‘人们愿意掏钱买的应用’之间仍有很大差距。”Anderson写道，并指出营销和支持是巨大的挑战。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Efe Cakarel, de Mubi, mantiene\nla AI lejos de sus películas",
-          "body": "Efe Cakarel, de Mubi, afirma que la compañía se mantendrá lo más lejos posible de la AI en lo que respecta al cine.",
-          "mini_headline": "Mubi aleja la AI de sus películas",
+          "headline": "Programar es más fácil con AI\ny surgen nuevas apps de edición",
+          "body": "La AI escribe bien código, y las pequeñas herramientas para editores de video encajan justo en su punto fuerte.",
+          "mini_headline": "La AI impulsa apps de edición",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La inteligencia artificial (Artificial Intelligence) no es buena en todo, pero sí escribiendo código. Las herramientas de software a pequeña escala encajan justo en ese punto fuerte. Iain Anderson no tiene información firme sobre cómo se hicieron las nuevas herramientas que reúne, pero considera razonable suponer que en la mayoría intervino la AI al menos en cierta medida."
+              },
+              {
+                "t": "p",
+                "x": "Como programar se ha vuelto más fácil, en la posproducción aparecen muchas más apps que resuelven pequeños problemas molestos, porque los propios editores pueden diseñar e implementar esas herramientas."
+              },
+              {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/2/6/1/1488261_efecakarel_headshotcrop_274152.jpg",
-                "cap": "Efe Cakarel"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+                "cap": "Beat convierte el guion en un documento multifuncional basado en nodos"
               },
               {
                 "t": "p",
-                "x": "El fundador y CEO de Mubi, Efe Cakarel, afirmó que la compañía “se mantendrá lo más lejos posible de la AI en lo que respecta a las películas”, durante una conferencia magistral en el Zurich Summit del Zurich Film Festival el 26 de septiembre."
+                "x": "Entre las elegidas figuran Beat, una herramienta gratuita de guion visual que puede conectar herramientas de AI mediante MCP, y PowerCue, un teleprompter activado por voz."
+              },
+              {
+                "t": "img",
+                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+                "cap": "Doza Assist es una de las soluciones de edición AI-powered actuales"
               },
               {
                 "t": "p",
-                "x": "“En Mubi vamos a usar AI, y ya la estamos usando en ingeniería, finanzas, operaciones, previsiones y atención al cliente”, dijo Cakarel. Y matizó la estrategia: “No es porque crea que la AI no puede hacer algo bueno. Ese argumento es complaciente y probablemente erróneo. Es precisamente porque el contenido generado por AI (AI-generated) está a punto de volverse tan bueno que la creación humana se vuelve más valiosa”."
+                "x": "También aparecen herramientas de premontaje automático como Doza Assist, PowerCut y RoughCut, junto a FCP Extender, que añade a Final Cut Pro una función de extensión generativa."
               },
               {
                 "t": "p",
-                "x": "En el futuro, el valor estará en la “intención”, dijo el CEO, y en “el gusto, la atención, la legitimidad cultural, la comunidad, la procedencia y, sobre todo, la confianza”. Advirtió que la AI podría llevar a que se hicieran distintas versiones de una misma película para distintos espectadores: “El entretenimiento hiperpersonalizado te da satisfacción, pero el cine te da algo de qué hablar”."
-              },
-              {
-                "t": "p",
-                "x": "“Así que sí, queremos que las máquinas hagan gran parte del trabajo en nuestras vidas; solo que no queremos que hagan las películas. Porque si tengo razón sobre hacia dónde va el entretenimiento, dentro de 20 años lo más radical que podrá decir una productora será ‘Esto lo hicieron personas’”."
+                "x": "“Todavía hay una gran distancia entre ‘una app hecha para mí’ y ‘una app que la gente quiera comprar’”, escribe Anderson, que señala el marketing y el soporte como enormes desafíos."
               }
             ]
           }
@@ -919,15 +767,15 @@
       }
     },
     {
-      "id": "tonic-dna-ai-hand-drawn-animation",
+      "id": "laemmle-inside-the-arthouse-chronicle-ai-audience",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tonic DNA, AI로\n손그림 수명 연장에 건다",
-      "body": "사십 년 된 몬트리올 Tonic DNA가 AI로 손그림 애니 수명을 늘리려 한다.",
-      "mini_headline": "Tonic DNA의 AI 애니메이션 베팅",
+      "headline": "Laemmle 팟캐스트\nAI로 관객 넓힌다",
+      "body": "Inside the Arthouse가 시청자를 넓히려 Chronicle과 손잡았다.",
+      "mini_headline": "아트하우스 팟캐스트, AI 데이터 실험",
       "tool": "Movies",
-      "source": "Motionographer",
-      "url": "https://motionographer.com/2026/09/29/the-studio-that-refused-to-be-one-thing/",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -935,215 +783,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-            "cap": "Tonic DNA Demo Reel 2026"
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+            "cap": "‘Inside the Arthouse’"
           },
           {
             "t": "p",
-            "x": "Tonic DNA가 이번 달 새 웹사이트를 열었다. 파트너 스테파니 비턴(Stefanie Bitton)은 “리브랜딩이라기보다 리프레시라고 부른다”고 말한다. 뿌리가 약 사십 년 전까지 거슬러 올라가는 몬트리올 스튜디오다. 전통 애니메이션 하우스, IMAX 선구자, 3D·하이브리드 스튜디오, 감독 중심 크리에이티브 스튜디오를 차례로 거쳤고, 지금은 오리지널 작품을 만들며 소속 아티스트들이 직접 짠 AI 파이프라인까지 갖췄다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-            "cap": "몬트리올 도심에 있는 Tonic DNA 리셉션."
+            "x": "비디오 팟캐스트 “Inside the Arthouse”는 Laemmle Theatres 대표 Greg Laemmle과 영화감독 겸 배우 Raphael Sbarge가 진행한다. 두 해 만에 YouTube 구독자 오십만 명, 조회수 5백만 회를 넘겼다."
           },
           {
             "t": "p",
-            "x": "“르네상스라는 말은 2D가 사라졌었다는 뜻이다. 2D는 사라진 적이 없다”고 비턴은 말한다. 스튜디오는 올해 The Anta Claus of the South Pole을 라인업에 더했다. 코델 바커(Cordell Barker)가 연출하고 캐나다 국립영화위원회(National Film Board of Canada)와 함께 만든 24분짜리 2D 홀리데이 스페셜이다."
+            "x": "이 쇼가 손잡은 곳은 AI-driven 데이터 기업 Chronicle이다. Chronicle은 AI 모델로 관객을 시뮬레이션하고 시청자의 행동과 관심사를 분석한다. 소셜에서 콘텐츠가 더 잘 전달되게 하고, 진행자들이 팟캐스트의 마케팅과 성장 방향을 정하도록 데이터를 맞춤 가공해 준다."
           },
           {
             "t": "p",
-            "x": "Tonic이 자체 AI 도구를 만든 지 두 해가 됐다. 비턴은 이 방식을 ‘AI with intention(의도가 있는 AI)’이라 부른다. “아티스트를 대체하거나 공정을 건너뛰겠다는 뜻이 아니다. 과정의 마찰을 일부 덜어 아티스트가 더 많이 실험할 여지를 주겠다는 뜻이다.” 목표는 장편 2D다. “처음엔 반발이 많았다”고 그는 털어놓는다. 그래도 아티스트들은 개발에 참여했다. “기술이 저작자를 흐리거나 동의를 건너뛰기 시작하면, 완전히 다른 영역으로 넘어간 것이다.”"
+            "x": "두 달 만에 참여도가 “말 그대로 거의 하룻밤 사이에” 올랐다고 진행자들은 말한다. 공동 창업자 Scott Greenberg에 따르면 Chronicle은 쇼 자체로 학습한 AI 모델을 만든 뒤 “광고를 잔뜩 사서 무작정 뿌리는” 대신 특정 사용자에게 클립을 정밀하게 겨눈다."
           },
           {
-            "t": "img",
-            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-            "cap": "Tonic DNA 라운지 벽을 채운 콘셉트 아트."
+            "t": "p",
+            "x": "분석 결과는 에피소드 길이와 게스트 섭외를 거쳐 Laemmle 극장에서 열 수 있는 라이브 이벤트에까지 영향을 준다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Tonic DNA bets AI can extend\nhand-drawn animation's life",
-          "body": "Forty years in, Montreal's Tonic DNA is betting that AI can give hand-drawn animation a longer life.",
-          "mini_headline": "Tonic DNA's AI animation bet",
+          "headline": "Laemmle's art house podcast\nturns to AI audience data",
+          "body": "Inside the Arthouse, Greg Laemmle and Raphael Sbarge's podcast, partnered with data firm Chronicle to extend its reach.",
+          "mini_headline": "Art house podcast tries AI data",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-                "cap": "Tonic DNA Demo Reel 2026"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+                "cap": "‘Inside the Arthouse’"
               },
               {
                 "t": "p",
-                "x": "This month, Tonic DNA turned on a new website. “I call it a refresh more than a rebrand,” says partner Stefanie Bitton. Tonic DNA is a Montreal studio with roots reaching back about forty years: a traditional animation house, an IMAX pioneer, a 3D and hybrid shop, a director-led creative studio, and now a company with an original property in production and an AI pipeline built by its own artists."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-                "cap": "The reception at Tonic DNA in downtown Montreal."
+                "x": "Laemmle Theatres president Greg Laemmle and filmmaker and actor Raphael Sbarge host “Inside the Arthouse,” a video podcast that has grown to half a million YouTube subscribers and over 5 million views in two years."
               },
               {
                 "t": "p",
-                "x": "“A renaissance suggests 2D disappeared. It never did,” Bitton says. This year the studio added The Anta Claus of the South Pole, a 24-minute 2D holiday special directed by Cordell Barker, co-produced with the National Film Board of Canada."
+                "x": "The show has partnered with Chronicle, an AI-driven data company. Chronicle uses AI models to simulate audiences, analyze viewer behaviors and interest, push content more effectively to people on social, and tailor that data so the hosts can decide how to market and grow the podcast."
               },
               {
                 "t": "p",
-                "x": "Tonic has spent two years building its own AI tools, and Bitton calls the approach AI with intention. “That doesn’t mean replacing the artist or skipping the craft. It means removing some of the friction around the process so the artists have more room to experiment.” The target is long-form 2D. “At first there was a lot of resistance,” she says, but the artists were involved in development. “Once the technology starts obscuring authorship or bypassing consent, you’ve crossed into a very different territory.”"
+                "x": "After two months, the hosts say engagement rose “literally almost overnight.” Chronicle builds an AI model trained on the show itself, then micro-targets clips to specific users rather than “buying a bunch of ads and just shotgunning it,” co-founder Scott Greenberg said."
               },
               {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-                "cap": "Concept art lines the lounge at Tonic DNA."
+                "t": "p",
+                "x": "The findings are shaping episode length, guest bookings and even potential live events in Laemmle's venues."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Tonic DNA, AI로\n손그림 수명 연장에 건다",
-          "body": "사십 년 된 몬트리올 Tonic DNA가 AI로 손그림 애니 수명을 늘리려 한다.",
-          "mini_headline": "Tonic DNA의 AI 애니메이션 베팅",
+          "headline": "Laemmle 팟캐스트\nAI로 관객 넓힌다",
+          "body": "Inside the Arthouse가 시청자를 넓히려 Chronicle과 손잡았다.",
+          "mini_headline": "아트하우스 팟캐스트, AI 데이터 실험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-                "cap": "Tonic DNA Demo Reel 2026"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+                "cap": "‘Inside the Arthouse’"
               },
               {
                 "t": "p",
-                "x": "Tonic DNA가 이번 달 새 웹사이트를 열었다. 파트너 스테파니 비턴(Stefanie Bitton)은 “리브랜딩이라기보다 리프레시라고 부른다”고 말한다. 뿌리가 약 사십 년 전까지 거슬러 올라가는 몬트리올 스튜디오다. 전통 애니메이션 하우스, IMAX 선구자, 3D·하이브리드 스튜디오, 감독 중심 크리에이티브 스튜디오를 차례로 거쳤고, 지금은 오리지널 작품을 만들며 소속 아티스트들이 직접 짠 AI 파이프라인까지 갖췄다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-                "cap": "몬트리올 도심에 있는 Tonic DNA 리셉션."
+                "x": "비디오 팟캐스트 “Inside the Arthouse”는 Laemmle Theatres 대표 Greg Laemmle과 영화감독 겸 배우 Raphael Sbarge가 진행한다. 두 해 만에 YouTube 구독자 오십만 명, 조회수 5백만 회를 넘겼다."
               },
               {
                 "t": "p",
-                "x": "“르네상스라는 말은 2D가 사라졌었다는 뜻이다. 2D는 사라진 적이 없다”고 비턴은 말한다. 스튜디오는 올해 The Anta Claus of the South Pole을 라인업에 더했다. 코델 바커(Cordell Barker)가 연출하고 캐나다 국립영화위원회(National Film Board of Canada)와 함께 만든 24분짜리 2D 홀리데이 스페셜이다."
+                "x": "이 쇼가 손잡은 곳은 AI-driven 데이터 기업 Chronicle이다. Chronicle은 AI 모델로 관객을 시뮬레이션하고 시청자의 행동과 관심사를 분석한다. 소셜에서 콘텐츠가 더 잘 전달되게 하고, 진행자들이 팟캐스트의 마케팅과 성장 방향을 정하도록 데이터를 맞춤 가공해 준다."
               },
               {
                 "t": "p",
-                "x": "Tonic이 자체 AI 도구를 만든 지 두 해가 됐다. 비턴은 이 방식을 ‘AI with intention(의도가 있는 AI)’이라 부른다. “아티스트를 대체하거나 공정을 건너뛰겠다는 뜻이 아니다. 과정의 마찰을 일부 덜어 아티스트가 더 많이 실험할 여지를 주겠다는 뜻이다.” 목표는 장편 2D다. “처음엔 반발이 많았다”고 그는 털어놓는다. 그래도 아티스트들은 개발에 참여했다. “기술이 저작자를 흐리거나 동의를 건너뛰기 시작하면, 완전히 다른 영역으로 넘어간 것이다.”"
+                "x": "두 달 만에 참여도가 “말 그대로 거의 하룻밤 사이에” 올랐다고 진행자들은 말한다. 공동 창업자 Scott Greenberg에 따르면 Chronicle은 쇼 자체로 학습한 AI 모델을 만든 뒤 “광고를 잔뜩 사서 무작정 뿌리는” 대신 특정 사용자에게 클립을 정밀하게 겨눈다."
               },
               {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-                "cap": "Tonic DNA 라운지 벽을 채운 콘셉트 아트."
+                "t": "p",
+                "x": "분석 결과는 에피소드 길이와 게스트 섭외를 거쳐 Laemmle 극장에서 열 수 있는 라이브 이벤트에까지 영향을 준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tonic DNA\n手描きの延命をAIに賭ける",
-          "body": "四十年の歴史を持つモントリオールのTonic DNAは、手描きアニメの延命をAIに賭ける。",
-          "mini_headline": "Tonic DNAのAIアニメ戦略",
+          "headline": "Laemmleの映画番組\nAI観客データを活用",
+          "body": "Inside the Arthouseがリーチ拡大へChronicleと提携した。",
+          "mini_headline": "アートハウス番組がAIデータ活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-                "cap": "Tonic DNA Demo Reel 2026"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+                "cap": "‘Inside the Arthouse’"
               },
               {
                 "t": "p",
-                "x": "Tonic DNAは今月、新しいウェブサイトを公開した。「リブランドというよりリフレッシュだ」とパートナーのステファニー・ビットン(Stefanie Bitton)は言う。Tonic DNAは約四十年前にさかのぼるルーツを持つモントリオールのスタジオだ。伝統的なアニメーションハウス、IMAXの先駆者、3Dとハイブリッドの制作会社、監督主導のクリエイティブスタジオを経て、いまはオリジナル作品を制作中で、自社のアーティストが構築したAIパイプラインを持つ会社になった。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-                "cap": "モントリオール中心部にあるTonic DNAの受付。"
+                "x": "Laemmle Theatres社長のGreg Laemmleと、映画監督で俳優のRaphael Sbargeが司会を務める動画ポッドキャスト「Inside the Arthouse」は、二年でYouTube登録者五十万人、再生回数5百万回超にまで成長した。"
               },
               {
                 "t": "p",
-                "x": "「ルネサンスという言葉は、2Dが一度消えたことを意味する。でも消えたことはない」とビットンは言う。スタジオは今年、The Anta Claus of the South Poleを加えた。コーデル・バーカー(Cordell Barker)が監督し、カナダ国立映画制作庁(National Film Board of Canada)と共同制作した24分の2Dホリデースペシャルだ。"
+                "x": "番組はAI-drivenのデータ企業Chronicleと提携した。ChronicleはAIモデルで観客をシミュレートし、視聴者の行動や関心を分析し、ソーシャル上でコンテンツをより効果的に届け、そのデータを司会者たちがポッドキャストのマーケティングや成長の方針を決められるよう最適化する。"
               },
               {
                 "t": "p",
-                "x": "Tonicは二年をかけて独自のAIツールを開発してきた。ビットンはこのアプローチを「AI with intention(意図あるAI)」と呼ぶ。「アーティストを置き換えたり、技を省いたりするという意味ではない。工程の摩擦を一部取り除き、アーティストが実験できる余地を広げるということだ」。狙いは長編の2Dだ。「最初は大きな抵抗があった」と彼女は言うが、アーティストたちは開発に関わった。「技術が作者性を曖昧にしたり、同意を素通りしたりし始めたら、まったく別の領域に踏み込んだことになる」"
+                "x": "二か月後、司会者たちによるとエンゲージメントは「文字どおり、ほぼ一夜にして」上がったという。共同創業者のScott Greenbergによれば、Chronicleは番組そのもので学習したAIモデルを構築し、「大量の広告を買ってばらまく」のではなく、特定のユーザーにクリップをマイクロターゲティングする。"
               },
               {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-                "cap": "Tonic DNAのラウンジに並ぶコンセプトアート。"
+                "t": "p",
+                "x": "その知見は、エピソードの長さやゲストの起用、さらにはLaemmleの劇場で開く可能性のあるライブイベントにまで反映されつつある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tonic DNA押注AI\n延续手绘动画生命",
-          "body": "走过四十年的蒙特利尔Tonic DNA押注AI能延长手绘动画的生命。",
-          "mini_headline": "Tonic DNA的AI动画赌注",
+          "headline": "Laemmle艺术片播客\n借力AI受众数据",
+          "body": "Inside the Arthouse播客与数据公司Chronicle合作，以扩大影响力。",
+          "mini_headline": "艺术片播客试水AI数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-                "cap": "Tonic DNA Demo Reel 2026"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+                "cap": "‘Inside the Arthouse’"
               },
               {
                 "t": "p",
-                "x": "本月，Tonic DNA上线了新网站。“我更愿意称之为焕新，而不是品牌重塑，”合伙人Stefanie Bitton说。Tonic DNA是一家根源可追溯到约四十年前的蒙特利尔工作室：它曾是传统动画公司、IMAX先驱、3D与混合制作公司、导演主导的创意工作室，如今则有一部原创作品正在制作中，并拥有由自家艺术家打造的AI流程。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-                "cap": "位于蒙特利尔市中心的Tonic DNA前台。"
+                "x": "Laemmle Theatres总裁Greg Laemmle与电影人、演员Raphael Sbarge主持的视频播客“Inside the Arthouse”，两年间已发展到YouTube订阅者五十万、观看次数超过5百万。"
               },
               {
                 "t": "p",
-                "x": "“说复兴，就意味着2D曾经消失过。但它从未消失，”Bitton说。今年，工作室新增了The Anta Claus of the South Pole，这是一部由Cordell Barker执导、与National Film Board of Canada（加拿大国家电影局）联合制作的24分钟2D节日特别片。"
+                "x": "该节目已与AI-driven数据公司Chronicle合作。Chronicle用AI模型模拟受众、分析观众行为与兴趣，在社交平台上更有效地推送内容，并对数据进行定制，帮助主持人决定如何推广和发展播客。"
               },
               {
                 "t": "p",
-                "x": "Tonic花了两年时间打造自有AI工具，Bitton称这种做法为“AI with intention”（有意图的AI）。“这并不意味着取代艺术家或跳过手艺，而是消除流程中的一些摩擦，让艺术家有更多实验空间。”目标是长篇2D。“起初阻力很大，”她说，但艺术家们参与了开发。“一旦技术开始模糊作者身份或绕过同意，就进入了完全不同的领域。”"
+                "x": "两个月后，主持人表示互动量“真的几乎是一夜之间”就上来了。联合创始人Scott Greenberg说，Chronicle会用节目本身训练一个AI模型，再把片段精准推送给特定用户，而不是“买一堆广告然后到处乱撒”。"
               },
               {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-                "cap": "Tonic DNA休息区墙上挂满概念艺术。"
+                "t": "p",
+                "x": "这些发现正在影响节目时长、嘉宾邀约，甚至可能在Laemmle影院举办的现场活动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tonic DNA apuesta a que la AI\ndé más vida al dibujo a mano",
-          "body": "Tras cuarenta años, Tonic DNA de Montreal apuesta a que la AI puede dar más vida a la animación dibujada a mano.",
-          "mini_headline": "La apuesta de Tonic DNA por la AI",
+          "headline": "El podcast arthouse de Laemmle\nusa datos de audiencia con AI",
+          "body": "Inside the Arthouse, el podcast de Greg Laemmle y Raphael Sbarge, se alió con Chronicle para ampliar su alcance.",
+          "mini_headline": "Podcast arthouse prueba datos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-                "cap": "Tonic DNA Demo Reel 2026"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+                "cap": "‘Inside the Arthouse’"
               },
               {
                 "t": "p",
-                "x": "Este mes, Tonic DNA estrenó un nuevo sitio web. “Lo llamo una renovación más que un cambio de marca”, dice la socia Stefanie Bitton. Tonic DNA es un estudio de Montreal con raíces que se remontan a unos cuarenta años: una casa de animación tradicional, pionera de IMAX, un taller de 3D e híbrido, un estudio creativo liderado por directores y, ahora, una compañía con una propiedad original en producción y un pipeline de AI construido por sus propios artistas."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-                "cap": "La recepción de Tonic DNA en el centro de Montreal."
+                "x": "El presidente de Laemmle Theatres, Greg Laemmle, y el cineasta y actor Raphael Sbarge presentan “Inside the Arthouse”, un videopodcast que en dos años ha llegado a medio millón de suscriptores en YouTube y a más de 5 millones de visualizaciones."
               },
               {
                 "t": "p",
-                "x": "“Hablar de renacimiento sugiere que el 2D desapareció. Nunca lo hizo”, dice Bitton. Este año el estudio sumó The Anta Claus of the South Pole, un especial festivo 2D de 24 minutos dirigido por Cordell Barker y coproducido con la National Film Board of Canada."
+                "x": "El programa se ha asociado con Chronicle, una empresa de datos AI-driven. Chronicle usa modelos de AI para simular audiencias, analizar el comportamiento y los intereses de los espectadores, llevar el contenido de forma más eficaz al público en redes sociales y adaptar esos datos para que los presentadores decidan cómo promocionar y hacer crecer el podcast."
               },
               {
                 "t": "p",
-                "x": "Tonic lleva dos años construyendo sus propias herramientas de AI, y Bitton llama a este enfoque AI with intention (AI con intención). “Eso no significa reemplazar al artista ni saltarse el oficio. Significa eliminar parte de la fricción del proceso para que los artistas tengan más margen para experimentar”. El objetivo es el 2D de formato largo. “Al principio hubo mucha resistencia”, dice, pero los artistas participaron en el desarrollo. “Cuando la tecnología empieza a ocultar la autoría o a saltarse el consentimiento, has entrado en un territorio muy distinto”."
+                "x": "Tras dos meses, los presentadores aseguran que la interacción subió “literalmente casi de la noche a la mañana”. Chronicle crea un modelo de AI entrenado con el propio programa y luego dirige clips con microsegmentación a usuarios concretos, en lugar de “comprar un montón de anuncios y dispararlos a lo loco”, explicó el cofundador Scott Greenberg."
               },
               {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-                "cap": "Arte conceptual en las paredes del salón de Tonic DNA."
+                "t": "p",
+                "x": "Los resultados están influyendo en la duración de los episodios, la elección de invitados e incluso en posibles eventos en vivo en las salas de Laemmle."
               }
             ]
           }
@@ -1151,149 +963,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Tonic DNA, AI로\n손그림 수명 연장에 건다",
-          "body": "사십 년 된 몬트리올 Tonic DNA가 AI로 손그림 애니 수명 연장에 건다.",
-          "mini_headline": "Tonic DNA의 AI 애니메이션 베팅",
+          "headline": "Laemmle 팟캐스트\nAI 관객 데이터 활용",
+          "body": "Inside the Arthouse가 도달을 넓히려 Chronicle과 손잡았다.",
+          "mini_headline": "아트하우스 팟캐스트, AI 데이터 실험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-                "cap": "Tonic DNA Demo Reel 2026"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+                "cap": "‘Inside the Arthouse’"
               },
               {
                 "t": "p",
-                "x": "Tonic DNA는 이번 달 새 웹사이트를 열었다. “리브랜딩이라기보다 리프레시라고 부른다”고 파트너 스테파니 비턴(Stefanie Bitton)은 말한다. Tonic DNA는 약 사십 년 전까지 뿌리가 닿는 몬트리올 스튜디오다. 전통 애니메이션 하우스, IMAX 선구자, 3D·하이브리드 스튜디오, 감독 중심의 크리에이티브 스튜디오를 거쳐, 지금은 오리지널 작품을 제작 중이며 소속 아티스트들이 직접 만든 AI 파이프라인을 갖춘 회사가 됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-                "cap": "몬트리올 도심에 있는 Tonic DNA 리셉션."
+                "x": "Laemmle Theatres 대표 Greg Laemmle과 영화감독 겸 배우 Raphael Sbarge가 진행하는 비디오 팟캐스트 “Inside the Arthouse”는 두 해 만에 YouTube 구독자 오십만 명, 조회수 5백만 회 이상으로 성장했다."
               },
               {
                 "t": "p",
-                "x": "“르네상스라는 말은 2D가 사라졌었다는 뜻이다. 2D는 사라진 적이 없다”고 비턴은 말한다. 스튜디오는 올해 The Anta Claus of the South Pole을 더했다. 코델 바커(Cordell Barker)가 연출하고 캐나다 국립영화위원회(National Film Board of Canada)와 공동 제작한 24분짜리 2D 홀리데이 스페셜이다."
+                "x": "이 쇼는 AI-driven 데이터 기업 Chronicle과 손잡았다. Chronicle은 AI 모델로 관객을 시뮬레이션하고, 시청자의 행동과 관심사를 분석하고, 소셜에서 콘텐츠를 더 효과적으로 전달하며, 진행자들이 팟캐스트의 마케팅과 성장 방향을 정할 수 있도록 데이터를 맞춤 가공한다."
               },
               {
                 "t": "p",
-                "x": "Tonic은 두 해 동안 자체 AI 도구를 만들어 왔고, 비턴은 이 방식을 ‘AI with intention(의도가 있는 AI)’이라 부른다. “아티스트를 대체하거나 공정을 건너뛰겠다는 뜻이 아니다. 과정의 마찰을 일부 덜어 아티스트가 더 많이 실험할 여지를 주겠다는 뜻이다.” 목표는 장편 2D다. “처음엔 반발이 많았다”고 그는 말하지만, 아티스트들은 개발에 참여했다. “기술이 저작자를 흐리거나 동의를 건너뛰기 시작하면, 완전히 다른 영역으로 넘어간 것이다.”"
+                "x": "두 달이 지나자 진행자들은 참여도가 “말 그대로 거의 하룻밤 사이에” 올랐다고 말한다. 공동 창업자 Scott Greenberg에 따르면 Chronicle은 쇼 자체로 학습한 AI 모델을 만든 뒤, “광고를 잔뜩 사서 무작정 뿌리는” 대신 특정 사용자에게 클립을 정밀 타기팅한다."
               },
               {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-                "cap": "Tonic DNA 라운지 벽을 채운 콘셉트 아트."
+                "t": "p",
+                "x": "이 분석 결과는 에피소드 길이와 게스트 섭외, 나아가 Laemmle 극장에서 열 수 있는 라이브 이벤트에까지 영향을 주고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tonic DNA\n手描きの延命をAIに賭ける",
-          "body": "四十年の歴史を持つモントリオールのTonic DNAは、手描きアニメの延命をAIに賭ける。",
-          "mini_headline": "Tonic DNAのAIアニメ戦略",
+          "headline": "Laemmleの映画番組\nAI観客データを活用",
+          "body": "Inside the Arthouseがリーチ拡大へChronicleと提携した。",
+          "mini_headline": "アートハウス番組がAIデータ活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-                "cap": "Tonic DNA Demo Reel 2026"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+                "cap": "‘Inside the Arthouse’"
               },
               {
                 "t": "p",
-                "x": "Tonic DNAは今月、新しいウェブサイトを公開した。「リブランドというよりリフレッシュだ」とパートナーのステファニー・ビットン(Stefanie Bitton)は言う。Tonic DNAは約四十年前にさかのぼるルーツを持つモントリオールのスタジオだ。伝統的なアニメーションハウス、IMAXの先駆者、3Dとハイブリッドの制作会社、監督主導のクリエイティブスタジオを経て、いまはオリジナル作品を制作中で、自社のアーティストが構築したAIパイプラインを持つ会社になった。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-                "cap": "モントリオール中心部にあるTonic DNAの受付。"
+                "x": "Laemmle Theatres社長のGreg Laemmleと、映画監督で俳優のRaphael Sbargeが司会を務める動画ポッドキャスト「Inside the Arthouse」は、二年でYouTube登録者五十万人、再生回数5百万回超にまで成長した。"
               },
               {
                 "t": "p",
-                "x": "「ルネサンスという言葉は、2Dが一度消えたことを意味する。でも消えたことはない」とビットンは言う。スタジオは今年、The Anta Claus of the South Poleを加えた。コーデル・バーカー(Cordell Barker)が監督し、カナダ国立映画制作庁(National Film Board of Canada)と共同制作した24分の2Dホリデースペシャルだ。"
+                "x": "番組はAI-drivenのデータ企業Chronicleと提携した。ChronicleはAIモデルで観客をシミュレートし、視聴者の行動や関心を分析し、ソーシャル上でコンテンツをより効果的に届け、そのデータを司会者たちがポッドキャストのマーケティングや成長の方針を決められるよう最適化する。"
               },
               {
                 "t": "p",
-                "x": "Tonicは二年をかけて独自のAIツールを開発してきた。ビットンはこのアプローチを「AI with intention(意図あるAI)」と呼ぶ。「アーティストを置き換えたり、技を省いたりするという意味ではない。工程の摩擦を一部取り除き、アーティストが実験できる余地を広げるということだ」。狙いは長編の2Dだ。「最初は大きな抵抗があった」と彼女は言うが、アーティストたちは開発に関わった。「技術が作者性を曖昧にしたり、同意を素通りしたりし始めたら、まったく別の領域に踏み込んだことになる」"
+                "x": "二か月後、司会者たちによるとエンゲージメントは「文字どおり、ほぼ一夜にして」上がったという。共同創業者のScott Greenbergによれば、Chronicleは番組そのもので学習したAIモデルを構築し、「大量の広告を買ってばらまく」のではなく、特定のユーザーにクリップをマイクロターゲティングする。"
               },
               {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-                "cap": "Tonic DNAのラウンジに並ぶコンセプトアート。"
+                "t": "p",
+                "x": "その知見は、エピソードの長さやゲストの起用、さらにはLaemmleの劇場で開く可能性のあるライブイベントにまで反映されつつある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tonic DNA押注AI\n延续手绘动画生命",
-          "body": "走过四十年的蒙特利尔Tonic DNA押注AI能延长手绘动画的生命。",
-          "mini_headline": "Tonic DNA的AI动画赌注",
+          "headline": "Laemmle艺术片播客\n借力AI受众数据",
+          "body": "Inside the Arthouse播客与数据公司Chronicle合作，以扩大影响力。",
+          "mini_headline": "艺术片播客试水AI数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-                "cap": "Tonic DNA Demo Reel 2026"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+                "cap": "‘Inside the Arthouse’"
               },
               {
                 "t": "p",
-                "x": "本月，Tonic DNA上线了新网站。“我更愿意称之为焕新，而不是品牌重塑，”合伙人Stefanie Bitton说。Tonic DNA是一家根源可追溯到约四十年前的蒙特利尔工作室：它曾是传统动画公司、IMAX先驱、3D与混合制作公司、导演主导的创意工作室，如今则有一部原创作品正在制作中，并拥有由自家艺术家打造的AI流程。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-                "cap": "位于蒙特利尔市中心的Tonic DNA前台。"
+                "x": "Laemmle Theatres总裁Greg Laemmle与电影人、演员Raphael Sbarge主持的视频播客“Inside the Arthouse”，两年间已发展到YouTube订阅者五十万、观看次数超过5百万。"
               },
               {
                 "t": "p",
-                "x": "“说复兴，就意味着2D曾经消失过。但它从未消失，”Bitton说。今年，工作室新增了The Anta Claus of the South Pole，这是一部由Cordell Barker执导、与National Film Board of Canada（加拿大国家电影局）联合制作的24分钟2D节日特别片。"
+                "x": "该节目已与AI-driven数据公司Chronicle合作。Chronicle用AI模型模拟受众、分析观众行为与兴趣，在社交平台上更有效地推送内容，并对数据进行定制，帮助主持人决定如何推广和发展播客。"
               },
               {
                 "t": "p",
-                "x": "Tonic花了两年时间打造自有AI工具，Bitton称这种做法为“AI with intention”（有意图的AI）。“这并不意味着取代艺术家或跳过手艺，而是消除流程中的一些摩擦，让艺术家有更多实验空间。”目标是长篇2D。“起初阻力很大，”她说，但艺术家们参与了开发。“一旦技术开始模糊作者身份或绕过同意，就进入了完全不同的领域。”"
+                "x": "两个月后，主持人表示互动量“真的几乎是一夜之间”就上来了。联合创始人Scott Greenberg说，Chronicle会用节目本身训练一个AI模型，再把片段精准推送给特定用户，而不是“买一堆广告然后到处乱撒”。"
               },
               {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-                "cap": "Tonic DNA休息区墙上挂满概念艺术。"
+                "t": "p",
+                "x": "这些发现正在影响节目时长、嘉宾邀约，甚至可能在Laemmle影院举办的现场活动。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tonic DNA apuesta a que la AI\ndé más vida al dibujo a mano",
-          "body": "Tras cuarenta años, Tonic DNA de Montreal apuesta a que la AI puede dar más vida a la animación dibujada a mano.",
-          "mini_headline": "La apuesta de Tonic DNA por la AI",
+          "headline": "El podcast arthouse de Laemmle\nusa datos de audiencia con AI",
+          "body": "Inside the Arthouse, el podcast de Greg Laemmle y Raphael Sbarge, se alió con Chronicle para ampliar su alcance.",
+          "mini_headline": "Podcast arthouse prueba datos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
-                "cap": "Tonic DNA Demo Reel 2026"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+                "cap": "‘Inside the Arthouse’"
               },
               {
                 "t": "p",
-                "x": "Este mes, Tonic DNA estrenó un nuevo sitio web. “Lo llamo una renovación más que un cambio de marca”, dice la socia Stefanie Bitton. Tonic DNA es un estudio de Montreal con raíces que se remontan a unos cuarenta años: una casa de animación tradicional, pionera de IMAX, un taller de 3D e híbrido, un estudio creativo liderado por directores y, ahora, una compañía con una propiedad original en producción y un pipeline de AI construido por sus propios artistas."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
-                "cap": "La recepción de Tonic DNA en el centro de Montreal."
+                "x": "El presidente de Laemmle Theatres, Greg Laemmle, y el cineasta y actor Raphael Sbarge presentan “Inside the Arthouse”, un videopodcast que en dos años ha llegado a medio millón de suscriptores en YouTube y a más de 5 millones de visualizaciones."
               },
               {
                 "t": "p",
-                "x": "“Hablar de renacimiento sugiere que el 2D desapareció. Nunca lo hizo”, dice Bitton. Este año el estudio sumó The Anta Claus of the South Pole, un especial festivo 2D de 24 minutos dirigido por Cordell Barker y coproducido con la National Film Board of Canada."
+                "x": "El programa se ha asociado con Chronicle, una empresa de datos AI-driven. Chronicle usa modelos de AI para simular audiencias, analizar el comportamiento y los intereses de los espectadores, llevar el contenido de forma más eficaz al público en redes sociales y adaptar esos datos para que los presentadores decidan cómo promocionar y hacer crecer el podcast."
               },
               {
                 "t": "p",
-                "x": "Tonic lleva dos años construyendo sus propias herramientas de AI, y Bitton llama a este enfoque AI with intention (AI con intención). “Eso no significa reemplazar al artista ni saltarse el oficio. Significa eliminar parte de la fricción del proceso para que los artistas tengan más margen para experimentar”. El objetivo es el 2D de formato largo. “Al principio hubo mucha resistencia”, dice, pero los artistas participaron en el desarrollo. “Cuando la tecnología empieza a ocultar la autoría o a saltarse el consentimiento, has entrado en un territorio muy distinto”."
+                "x": "Tras dos meses, los presentadores aseguran que la interacción subió “literalmente casi de la noche a la mañana”. Chronicle crea un modelo de AI entrenado con el propio programa y luego dirige clips con microsegmentación a usuarios concretos, en lugar de “comprar un montón de anuncios y dispararlos a lo loco”, explicó el cofundador Scott Greenberg."
               },
               {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/1787606289216-0c399b.jpg?w=850&quality=89&ssl=1",
-                "cap": "Arte conceptual en las paredes del salón de Tonic DNA."
+                "t": "p",
+                "x": "Los resultados están influyendo en la duración de los episodios, la elección de invitados e incluso en posibles eventos en vivo en las salas de Laemmle."
               }
             ]
           }
@@ -1301,561 +1089,321 @@
       }
     },
     {
-      "id": "biff-forum-biff-ai-film-future",
-      "source_lang": "ko",
+      "id": "motionographer-ai-animation-ip-production",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "부산영화제 포럼 비프\nAI 시대 영화 논의",
-      "body": "부산국제영화제 포럼 비프가 10월 8일부터 AI 시대 영화 제작을 논의한다.",
-      "mini_headline": "포럼 비프 AI 영화 논의",
+      "headline": "생성형 AI,\n프로 애니메이션 현장으로",
+      "body": "생성형 AI가 실험 단계를 지나 전문 애니메이션의 큰 기회로 떠올랐다.",
+      "mini_headline": "AI, 프로 애니메이션 속으로",
       "tool": "Movies",
-      "source": "더쎈뉴스",
-      "url": "https://www.mhns.co.kr/news/articleView.html?idxno=762264",
+      "source": "Motionographer",
+      "url": "https://motionographer.com/news/ai-animation-ip-and-the-next-phase-of-creative-production/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "생성형 AI가 실험 단계를 빠르게 벗어나 전문 애니메이션과 상업 제작으로 넘어가는 중이다. 스튜디오와 에이전시, 브랜드에는 꽤 큰 기회다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-            "cap": "제31회 부산국제영화제 ‘2026 포럼 비프(Forum BIFF)’ 공식 포스터. / 사진=부산국제영화제 제공"
+            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+            "cap": "분홍빛 눈이 빛나는 작은 로봇 Ani가 데스크톱 위를 달린다"
           },
           {
             "t": "p",
-            "x": "제31회 부산국제영화제(BIFF)에서 인공지능(AI)이 바꾸는 영화 제작 환경과 한국영화의 위기, 영화인의 권리 등을 놓고 국내외 영화인들이 머리를 맞댄다."
+            "x": "하지만 AI가 주류 제작에 자리 잡을수록 더 중요한 질문이 남는다. 이 시스템에 넣은 자료는 어떻게 되는가? 크리에이티브 팀은 미공개 캠페인, 독점 캐릭터, 기밀 영상, 고객의 귀한 지식재산을 날마다 다룬다."
           },
           {
             "t": "p",
-            "x": "부산국제영화제 지석영화연구소는 오는 10월 8일부터 11일까지 영상산업센터와 부산시청자미디어센터에서 ‘2026 포럼 비프(Forum BIFF)’를 연다고 밝혔다."
+            "x": "보호 수준은 AI 제공업체마다 크게 다르다. 고객 콘텐츠로 모델을 학습하지 않겠다고 약속하는 곳도 있지만, 업로드된 자료에 폭넓은 권리를 남겨 두는 곳도 있다."
           },
           {
             "t": "p",
-            "x": "올해 주제는 ‘동시대 영화의 가능성을 말하다’다. 영화산업, AI·창작, 제도·정책, 지역·환경 등 4개 분야에서 8개 세션이 진행된다."
-          },
-          {
-            "t": "p",
-            "x": "영화제 개막작 ‘낮과 밤은 서로에게’의 김종관 감독과 중국의 지아장커 감독이 기조발제자로 나선다."
-          },
-          {
-            "t": "p",
-            "x": "영화산업 분야에서는 중예산 한국영화가 줄어드는 원인을 짚고 해외 공동제작 가능성을 논의한다. 아시아 애니메이션의 성장과 앞으로의 과제도 다룬다."
-          },
-          {
-            "t": "p",
-            "x": "AI 분야에서는 생성형 AI가 영화 제작에 미치는 영향과 창작자의 역할을 살펴본다. 지아장커 감독이 AI로 만든 단편 ‘지아장커의 댄스’ 등 관련 작품도 상영된다. 민규동 감독 등 국내외 영화인들이 참여한다."
-          },
-          {
-            "t": "p",
-            "x": "영화인의 권리 문제도 논의한다. 공정한 계약과 보상, 저작권 문제를 비롯해 영화제 지원제도의 개선 방향을 짚을 예정이다."
-          },
-          {
-            "t": "p",
-            "x": "지역 분야에서는 부산 영화산업의 지속 방안을 다룬다. 영화계와 행정기관의 협력, 영화 제작 과정에서 탄소 배출을 줄이는 방안 등이 주요 의제다."
-          },
-          {
-            "t": "p",
-            "x": "포럼은 사전 신청 없이 누구나 무료로 참여할 수 있다. 온라인 중계 없이 현장에서만 열린다."
-          },
-          {
-            "t": "p",
-            "x": "제31회 부산국제영화제는 10월 6일부터 15일까지 영화의전당 일대에서 개최된다."
+            "x": "Synima의 Creative Director for Generative AI이자 AIAnimation.com 창업자인 Jon Draper는 AI 애니메이션이 성숙할수록 이 문제가 결정적인 쟁점 가운데 하나로 떠오른다고 본다. 다음 단계를 좌우할 것은 명확한 소유권, 통제된 접근, 고객 에셋의 안전한 관리, 데이터 활용의 투명성 같은 전문 인프라라는 설명이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "부산영화제 포럼 비프\nAI 시대 영화 논의",
-          "body": "부산국제영화제 포럼 비프가 10월 8일부터 AI 시대 영화 제작을 논의한다.",
-          "mini_headline": "포럼 비프 AI 영화 논의",
+        "en": {
+          "headline": "Generative AI moves into\nprofessional animation",
+          "body": "Generative AI is moving from experiments into professional animation, a significant opportunity for studios and brands.",
+          "mini_headline": "AI moves into pro animation",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Generative AI is rapidly moving from experimentation into professional animation and commercial production. For studios, agencies and brands, the opportunity is significant."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-                "cap": "제31회 부산국제영화제 ‘2026 포럼 비프(Forum BIFF)’ 공식 포스터. / 사진=부산국제영화제 제공"
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+                "cap": "Ani, a small robot with glowing pink eyes, running across a desktop"
               },
               {
                 "t": "p",
-                "x": "제31회 부산국제영화제(BIFF)에서 인공지능(AI)이 바꾸는 영화 제작 환경과 한국영화의 위기, 영화인의 권리 등을 놓고 국내외 영화인들이 머리를 맞댄다."
+                "x": "But as AI becomes part of mainstream production, a more important question is emerging: what happens to the material being put into these systems? Creative teams routinely work with unreleased campaigns, proprietary characters, confidential footage and valuable client intellectual property."
               },
               {
                 "t": "p",
-                "x": "부산국제영화제 지석영화연구소는 오는 10월 8일부터 11일까지 영상산업센터와 부산시청자미디어센터에서 ‘2026 포럼 비프(Forum BIFF)’를 연다고 밝혔다."
+                "x": "Protections vary considerably between AI providers. Some commit not to train models on customer content; others retain broad rights over uploaded material."
               },
               {
                 "t": "p",
-                "x": "올해 주제는 ‘동시대 영화의 가능성을 말하다’다. 영화산업, AI·창작, 제도·정책, 지역·환경 등 4개 분야에서 8개 세션이 진행된다."
-              },
-              {
-                "t": "p",
-                "x": "영화제 개막작 ‘낮과 밤은 서로에게’의 김종관 감독과 중국의 지아장커 감독이 기조발제자로 나선다."
-              },
-              {
-                "t": "p",
-                "x": "영화산업 분야에서는 중예산 한국영화가 줄어드는 원인을 짚고 해외 공동제작 가능성을 논의한다. 아시아 애니메이션의 성장과 앞으로의 과제도 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "AI 분야에서는 생성형 AI가 영화 제작에 미치는 영향과 창작자의 역할을 살펴본다. 지아장커 감독이 AI로 만든 단편 ‘지아장커의 댄스’ 등 관련 작품도 상영된다. 민규동 감독 등 국내외 영화인들이 참여한다."
-              },
-              {
-                "t": "p",
-                "x": "영화인의 권리 문제도 논의한다. 공정한 계약과 보상, 저작권 문제를 비롯해 영화제 지원제도의 개선 방향을 짚을 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "지역 분야에서는 부산 영화산업의 지속 방안을 다룬다. 영화계와 행정기관의 협력, 영화 제작 과정에서 탄소 배출을 줄이는 방안 등이 주요 의제다."
-              },
-              {
-                "t": "p",
-                "x": "포럼은 사전 신청 없이 누구나 무료로 참여할 수 있다. 온라인 중계 없이 현장에서만 열린다."
-              },
-              {
-                "t": "p",
-                "x": "제31회 부산국제영화제는 10월 6일부터 15일까지 영화의전당 일대에서 개최된다."
+                "x": "Jon Draper, Creative Director for Generative AI at Synima and founder of AIAnimation.com, believes this will become one of the defining issues as AI animation matures. The next stage will be about professional infrastructure: clear ownership, controlled access, secure handling of client assets and transparency over how data is used."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Busan festival's Forum BIFF\ntakes on film in the AI era",
-          "body": "Busan International Film Festival's Forum BIFF will discuss filmmaking in the AI era from October 8.",
-          "mini_headline": "Forum BIFF to discuss AI and film",
+        "ko": {
+          "headline": "생성형 AI,\n프로 애니메이션 현장으로",
+          "body": "생성형 AI가 실험 단계를 지나 전문 애니메이션의 큰 기회로 떠올랐다.",
+          "mini_headline": "AI, 프로 애니메이션 속으로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "생성형 AI가 실험 단계를 빠르게 벗어나 전문 애니메이션과 상업 제작으로 넘어가는 중이다. 스튜디오와 에이전시, 브랜드에는 꽤 큰 기회다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-                "cap": "Official poster for ‘2026 Forum BIFF’ at the 31st Busan International Film Festival. / Photo courtesy of Busan International Film Festival"
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+                "cap": "분홍빛 눈이 빛나는 작은 로봇 Ani가 데스크톱 위를 달린다"
               },
               {
                 "t": "p",
-                "x": "At the 31st Busan International Film Festival (BIFF), filmmakers from Korea and abroad will come together to discuss how artificial intelligence (AI) is changing the filmmaking environment, the crisis in Korean cinema, and the rights of film workers."
+                "x": "하지만 AI가 주류 제작에 자리 잡을수록 더 중요한 질문이 남는다. 이 시스템에 넣은 자료는 어떻게 되는가? 크리에이티브 팀은 미공개 캠페인, 독점 캐릭터, 기밀 영상, 고객의 귀한 지식재산을 날마다 다룬다."
               },
               {
                 "t": "p",
-                "x": "The festival's Jiseok Film Institute said it will hold ‘2026 Forum BIFF’ from October 8 to 11 at the Film and Video Industry Center and the Busan Viewers Media Center."
+                "x": "보호 수준은 AI 제공업체마다 크게 다르다. 고객 콘텐츠로 모델을 학습하지 않겠다고 약속하는 곳도 있지만, 업로드된 자료에 폭넓은 권리를 남겨 두는 곳도 있다."
               },
               {
                 "t": "p",
-                "x": "This year's theme is ‘Talking About the Possibilities of Contemporary Cinema.’ A total of 8 sessions will run across 4 areas: the film industry, AI and creation, systems and policy, and regions and environment."
-              },
-              {
-                "t": "p",
-                "x": "Director Kim Jong-kwan, whose ‘Days and Nights to Each Other’ opens the festival, and Chinese director Jia Zhangke will give the keynote presentations."
-              },
-              {
-                "t": "p",
-                "x": "The film industry sessions will look at why mid-budget Korean films are declining and discuss the potential for international co-productions. They will also cover the growth of Asian animation and the challenges ahead."
-              },
-              {
-                "t": "p",
-                "x": "The AI sessions will examine the impact of generative AI on filmmaking and the role of creators. Related works will also be screened, including ‘Jia Zhangke's Dance,’ a short Jia Zhangke made with AI. Filmmakers from Korea and abroad, including director Min Kyu-dong, will take part."
-              },
-              {
-                "t": "p",
-                "x": "The rights of film workers will also be on the table. Sessions will cover fair contracts, compensation and copyright, as well as ways to improve festival support programs."
-              },
-              {
-                "t": "p",
-                "x": "The regional sessions will address how to sustain Busan's film industry. Key agenda items include cooperation between the film community and government bodies, and ways to cut carbon emissions during film production."
-              },
-              {
-                "t": "p",
-                "x": "The forum is free and open to all, with no advance registration. It will be held in person only, with no online streaming."
-              },
-              {
-                "t": "p",
-                "x": "The 31st Busan International Film Festival runs from October 6 to 15 around the Busan Cinema Center."
+                "x": "Synima의 Creative Director for Generative AI이자 AIAnimation.com 창업자인 Jon Draper는 AI 애니메이션이 성숙할수록 이 문제가 결정적인 쟁점 가운데 하나로 떠오른다고 본다. 다음 단계를 좌우할 것은 명확한 소유권, 통제된 접근, 고객 에셋의 안전한 관리, 데이터 활용의 투명성 같은 전문 인프라라는 설명이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "釜山のForum BIFF\nAI時代の映画を議論",
-          "body": "釜山国際映画祭のForum BIFFが10月8日から、AI時代の映画制作を議論する。",
-          "mini_headline": "Forum BIFF、AIと映画を議論",
+          "headline": "生成AIが\nプロのアニメ制作へ",
+          "body": "生成AIが実験からプロのアニメ制作へ移り、スタジオやブランドの好機となっている。",
+          "mini_headline": "AI、プロのアニメ制作へ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成AIは実験段階から、プロのアニメーションや商業制作へと急速に移りつつある。スタジオ、エージェンシー、ブランドにとって、その機会は大きい。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-                "cap": "第31回釜山国際映画祭「2026 Forum BIFF(フォーラム・ビフ)」公式ポスター。/ 写真=釜山国際映画祭提供"
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+                "cap": "ピンクに光る目を持つ小さなロボットAniが、デスクトップの上を走る"
               },
               {
                 "t": "p",
-                "x": "第31回釜山国際映画祭(BIFF)で、人工知能(AI)が変える映画制作の環境や韓国映画の危機、映画人の権利などをめぐり、国内外の映画人が議論を交わす。"
+                "x": "しかしAIが主流の制作に組み込まれるにつれ、より重要な問いが浮上している。こうしたシステムに投入された素材はどうなるのか。クリエイティブチームは日常的に、未発表のキャンペーンや独自キャラクター、機密映像、価値あるクライアントの知的財産を扱っている。"
               },
               {
                 "t": "p",
-                "x": "釜山国際映画祭のジソク映画研究所は、10月8日から11日まで映像産業センターと釜山市視聴者メディアセンターで「2026 Forum BIFF」を開催すると明らかにした。"
+                "x": "保護の度合いはAIプロバイダーによって大きく異なる。顧客のコンテンツでモデルを学習しないと約束する企業もあれば、アップロードされた素材に広範な権利を保持する企業もある。"
               },
               {
                 "t": "p",
-                "x": "今年のテーマは「同時代映画の可能性を語る」だ。映画産業、AI・創作、制度・政策、地域・環境の4分野で8つのセッションが行われる。"
-              },
-              {
-                "t": "p",
-                "x": "映画祭の開幕作『昼と夜は互いに』のキム・ジョングァン監督と、中国のジャ・ジャンクー監督が基調発表を務める。"
-              },
-              {
-                "t": "p",
-                "x": "映画産業分野では、中予算の韓国映画が減っている原因を探り、海外との共同制作の可能性を議論する。アジアのアニメーションの成長と今後の課題も取り上げる。"
-              },
-              {
-                "t": "p",
-                "x": "AI分野では、生成AIが映画制作に与える影響とクリエイターの役割を考える。ジャ・ジャンクー監督がAIで制作した短編『ジャ・ジャンクーのダンス』など関連作品も上映される。ミン・ギュドン監督ら国内外の映画人が参加する。"
-              },
-              {
-                "t": "p",
-                "x": "映画人の権利の問題も議論する。公正な契約と報酬、著作権の問題をはじめ、映画祭の支援制度の改善の方向性を探る予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "地域分野では、釜山の映画産業を持続させる方策を扱う。映画界と行政機関の協力、映画制作の過程で炭素排出を減らす方策などが主な議題だ。"
-              },
-              {
-                "t": "p",
-                "x": "フォーラムは事前申し込み不要で、誰でも無料で参加できる。オンライン中継はなく、会場のみで開かれる。"
-              },
-              {
-                "t": "p",
-                "x": "第31回釜山国際映画祭は10月6日から15日まで、映画の殿堂一帯で開催される。"
+                "x": "SynimaのCreative Director for Generative AIで、AIAnimation.comの創設者でもあるJon Draperは、AIアニメーションが成熟するにつれ、これが決定的な論点の一つになると考えている。次の段階で問われるのはプロ仕様のインフラ、つまり明確な所有権、管理されたアクセス、クライアント資産の安全な取り扱い、そしてデータの使われ方の透明性だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "釜山Forum BIFF\n探讨AI时代电影",
-          "body": "釜山国际电影节Forum BIFF将于10月8日起探讨AI时代的电影制作。",
-          "mini_headline": "Forum BIFF探讨AI与电影",
+          "headline": "生成式AI\n迈入专业动画制作",
+          "body": "生成式AI正从实验走向专业动画制作，为工作室和品牌带来重大机遇。",
+          "mini_headline": "AI进军专业动画",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成式AI正迅速从试验阶段走向专业动画和商业制作。对工作室、代理商和品牌而言，这是一个重大机遇。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-                "cap": "第31届釜山国际电影节“2026 Forum BIFF”官方海报。/ 图片由釜山国际电影节提供"
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+                "cap": "Ani是一个眼睛闪着粉光的小机器人，正跑过桌面"
               },
               {
                 "t": "p",
-                "x": "第31届釜山国际电影节（BIFF）上，国内外电影人将围绕人工智能（AI）带来的电影制作环境变化、韩国电影的危机以及电影人权益等议题展开讨论。"
+                "x": "但随着AI成为主流制作的一部分，一个更重要的问题浮出水面：输入这些系统的素材会怎样？创意团队日常处理的，正是未发布的营销活动、自有角色、机密影像和珍贵的客户知识产权。"
               },
               {
                 "t": "p",
-                "x": "釜山国际电影节智硕电影研究所宣布，将于10月8日至11日在影像产业中心和釜山市观众媒体中心举办“2026 Forum BIFF”。"
+                "x": "各家AI服务商的保护措施差异很大。有的承诺不用客户内容训练模型，有的则对上传素材保留广泛权利。"
               },
               {
                 "t": "p",
-                "x": "今年的主题是“谈论当代电影的可能性”。论坛将在电影产业、AI·创作、制度·政策、地区·环境4个领域举行8场会议。"
-              },
-              {
-                "t": "p",
-                "x": "本届电影节开幕片《昼与夜互为彼此》的导演金宗宽和中国导演贾樟柯将担任主旨发言人。"
-              },
-              {
-                "t": "p",
-                "x": "电影产业领域将剖析韩国中等预算电影减少的原因，探讨海外合拍的可能性，并讨论亚洲动画的发展与未来课题。"
-              },
-              {
-                "t": "p",
-                "x": "AI领域将探讨生成式AI对电影制作的影响以及创作者的角色。贾樟柯用AI制作的短片《贾樟柯的舞蹈》等相关作品也将放映。闵奎东导演等国内外电影人将参与其中。"
-              },
-              {
-                "t": "p",
-                "x": "论坛还将讨论电影人的权益问题，包括公平的合同与报酬、版权问题，以及电影节资助制度的改进方向。"
-              },
-              {
-                "t": "p",
-                "x": "地区领域将探讨釜山电影产业的可持续发展方案。电影界与行政机关的合作、在电影制作过程中减少碳排放的方法等是主要议题。"
-              },
-              {
-                "t": "p",
-                "x": "论坛无需提前报名，任何人均可免费参加。不设线上直播，仅在现场举行。"
-              },
-              {
-                "t": "p",
-                "x": "第31届釜山国际电影节将于10月6日至15日在电影殿堂一带举行。"
+                "x": "Synima的Creative Director for Generative AI、AIAnimation.com创始人Jon Draper认为，随着AI动画走向成熟，这将成为决定性议题之一。下一阶段的关键在于专业基础设施：清晰的所有权、受控的访问、客户资产的安全处理，以及数据使用方式的透明。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Forum BIFF de Busan debate\nel cine en la era de la AI",
-          "body": "El Forum BIFF del Festival Internacional de Cine de Busan debatirá desde el 8 de octubre el cine en la era de la AI.",
-          "mini_headline": "Forum BIFF debate la AI y el cine",
+          "headline": "La AI generativa entra en\nla animación profesional",
+          "body": "La AI generativa pasa de los experimentos a la animación profesional, una gran oportunidad para estudios y marcas.",
+          "mini_headline": "La AI entra en la animación profesional",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La AI generativa está pasando rápidamente de la experimentación a la animación profesional y la producción comercial. Para estudios, agencias y marcas, la oportunidad es considerable."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-                "cap": "Póster oficial del ‘2026 Forum BIFF’ del 31.º Festival Internacional de Cine de Busan. / Foto: cortesía del Festival Internacional de Cine de Busan"
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+                "cap": "Ani, un pequeño robot de ojos rosados y brillantes, corre por un escritorio"
               },
               {
                 "t": "p",
-                "x": "En el 31.º Festival Internacional de Cine de Busan (BIFF), cineastas de Corea y del extranjero debatirán sobre cómo la inteligencia artificial (AI) está cambiando el entorno de la producción cinematográfica, la crisis del cine coreano y los derechos de los profesionales del cine."
+                "x": "Pero a medida que la AI se integra en la producción convencional, surge una pregunta más importante: ¿qué ocurre con el material que se introduce en estos sistemas? Los equipos creativos trabajan a diario con campañas inéditas, personajes propios, material audiovisual confidencial y valiosa propiedad intelectual de sus clientes."
               },
               {
                 "t": "p",
-                "x": "El Instituto de Cine Jiseok del festival anunció que celebrará el ‘2026 Forum BIFF’ del 8 al 11 de octubre en el Centro de la Industria Audiovisual y en el Centro de Medios para Espectadores de Busan."
+                "x": "Las protecciones varían mucho entre proveedores de AI. Algunos se comprometen a no entrenar modelos con el contenido de los clientes; otros conservan amplios derechos sobre el material subido."
               },
               {
                 "t": "p",
-                "x": "El tema de este año es ‘Hablar de las posibilidades del cine contemporáneo’. Habrá 8 sesiones en 4 áreas: industria cinematográfica, AI y creación, instituciones y políticas, y región y medio ambiente."
-              },
-              {
-                "t": "p",
-                "x": "Kim Jong-kwan, director de la película inaugural del festival, ‘El día y la noche, el uno para el otro’, y el director chino Jia Zhangke darán las ponencias principales."
-              },
-              {
-                "t": "p",
-                "x": "En el área de industria se analizarán las causas de la disminución de las películas coreanas de presupuesto medio y se debatirán las posibilidades de coproducción internacional. También se abordarán el crecimiento de la animación asiática y sus retos futuros."
-              },
-              {
-                "t": "p",
-                "x": "El área de AI examinará el impacto de la AI generativa en la producción cinematográfica y el papel de los creadores. También se proyectarán obras relacionadas, como el cortometraje ‘La danza de Jia Zhangke’, que Jia Zhangke hizo con AI. Participarán cineastas de Corea y del extranjero, entre ellos el director Min Kyu-dong."
-              },
-              {
-                "t": "p",
-                "x": "También se debatirán los derechos de los profesionales del cine: contratos y remuneraciones justas, derechos de autor y la mejora de los sistemas de apoyo a los festivales."
-              },
-              {
-                "t": "p",
-                "x": "El área regional tratará cómo sostener la industria cinematográfica de Busan. Entre los temas principales figuran la cooperación entre el sector del cine y las administraciones, y las formas de reducir las emisiones de carbono durante la producción de películas."
-              },
-              {
-                "t": "p",
-                "x": "El foro es gratuito y abierto a todo el público, sin inscripción previa. Se celebrará solo de forma presencial, sin retransmisión en línea."
-              },
-              {
-                "t": "p",
-                "x": "El 31.º Festival Internacional de Cine de Busan se celebra del 6 al 15 de octubre en los alrededores del Busan Cinema Center."
+                "x": "Jon Draper, Creative Director for Generative AI en Synima y fundador de AIAnimation.com, cree que esta será una de las cuestiones decisivas a medida que madure la animación con AI. La siguiente etapa girará en torno a la infraestructura profesional: propiedad clara, acceso controlado, manejo seguro de los activos de los clientes y transparencia sobre cómo se usan los datos."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Busan festival's Forum BIFF\ntakes on film in the AI era",
-          "body": "Busan International Film Festival's Forum BIFF will discuss filmmaking in the AI era from October 8.",
-          "mini_headline": "Forum BIFF to discuss AI and film",
+        "ko": {
+          "headline": "생성형 AI,\n프로 애니메이션 현장으로",
+          "body": "생성형 AI가 실험을 넘어 전문 애니메이션으로 옮겨 가며 큰 기회가 되고 있다.",
+          "mini_headline": "AI, 프로 애니메이션 속으로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "생성형 AI가 실험 단계를 빠르게 벗어나 전문 애니메이션과 상업 제작으로 옮겨 가고 있다. 스튜디오와 에이전시, 브랜드에게는 상당한 기회다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-                "cap": "Official poster for ‘2026 Forum BIFF’ at the 31st Busan International Film Festival. / Photo courtesy of Busan International Film Festival"
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+                "cap": "분홍빛 눈이 빛나는 작은 로봇 Ani가 데스크톱 위를 달리고 있다"
               },
               {
                 "t": "p",
-                "x": "At the 31st Busan International Film Festival (BIFF), filmmakers from Korea and abroad will come together to discuss how artificial intelligence (AI) is changing the filmmaking environment, the crisis in Korean cinema, and the rights of film workers."
+                "x": "하지만 AI가 주류 제작의 일부가 되면서 더 중요한 질문이 떠오르고 있다. 이 시스템에 넣는 자료는 어떻게 되는가? 크리에이티브 팀은 미공개 캠페인, 독점 캐릭터, 기밀 영상, 고객의 귀중한 지식재산을 일상적으로 다룬다."
               },
               {
                 "t": "p",
-                "x": "The festival's Jiseok Film Institute said it will hold ‘2026 Forum BIFF’ from October 8 to 11 at the Film and Video Industry Center and the Busan Viewers Media Center."
+                "x": "보호 수준은 AI 제공업체마다 크게 다르다. 고객 콘텐츠로 모델을 학습하지 않겠다고 약속하는 곳이 있는가 하면, 업로드된 자료에 폭넓은 권리를 유지하는 곳도 있다."
               },
               {
                 "t": "p",
-                "x": "This year's theme is ‘Talking About the Possibilities of Contemporary Cinema.’ A total of 8 sessions will run across 4 areas: the film industry, AI and creation, systems and policy, and regions and environment."
-              },
-              {
-                "t": "p",
-                "x": "Director Kim Jong-kwan, whose ‘Days and Nights to Each Other’ opens the festival, and Chinese director Jia Zhangke will give the keynote presentations."
-              },
-              {
-                "t": "p",
-                "x": "The film industry sessions will look at why mid-budget Korean films are declining and discuss the potential for international co-productions. They will also cover the growth of Asian animation and the challenges ahead."
-              },
-              {
-                "t": "p",
-                "x": "The AI sessions will examine the impact of generative AI on filmmaking and the role of creators. Related works will also be screened, including ‘Jia Zhangke's Dance,’ a short Jia Zhangke made with AI. Filmmakers from Korea and abroad, including director Min Kyu-dong, will take part."
-              },
-              {
-                "t": "p",
-                "x": "The rights of film workers will also be on the table. Sessions will cover fair contracts, compensation and copyright, as well as ways to improve festival support programs."
-              },
-              {
-                "t": "p",
-                "x": "The regional sessions will address how to sustain Busan's film industry. Key agenda items include cooperation between the film community and government bodies, and ways to cut carbon emissions during film production."
-              },
-              {
-                "t": "p",
-                "x": "The forum is free and open to all, with no advance registration. It will be held in person only, with no online streaming."
-              },
-              {
-                "t": "p",
-                "x": "The 31st Busan International Film Festival runs from October 6 to 15 around the Busan Cinema Center."
+                "x": "Synima의 Creative Director for Generative AI이자 AIAnimation.com 창업자인 Jon Draper는 AI 애니메이션이 성숙해 갈수록 이 문제가 결정적인 쟁점 가운데 하나가 될 것으로 본다. 다음 단계는 명확한 소유권, 통제된 접근, 고객 에셋의 안전한 관리, 데이터 활용의 투명성 같은 전문 인프라가 좌우할 것이라는 설명이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "釜山のForum BIFF\nAI時代の映画を議論",
-          "body": "釜山国際映画祭のForum BIFFが10月8日から、AI時代の映画制作を議論する。",
-          "mini_headline": "Forum BIFF、AIと映画を議論",
+          "headline": "生成AIが\nプロのアニメ制作へ",
+          "body": "生成AIが実験からプロのアニメ制作へ移り、スタジオやブランドの好機となっている。",
+          "mini_headline": "AI、プロのアニメ制作へ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成AIは実験段階から、プロのアニメーションや商業制作へと急速に移りつつある。スタジオ、エージェンシー、ブランドにとって、その機会は大きい。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-                "cap": "第31回釜山国際映画祭「2026 Forum BIFF(フォーラム・ビフ)」公式ポスター。/ 写真=釜山国際映画祭提供"
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+                "cap": "ピンクに光る目を持つ小さなロボットAniが、デスクトップの上を走る"
               },
               {
                 "t": "p",
-                "x": "第31回釜山国際映画祭(BIFF)で、人工知能(AI)が変える映画制作の環境や韓国映画の危機、映画人の権利などをめぐり、国内外の映画人が議論を交わす。"
+                "x": "しかしAIが主流の制作に組み込まれるにつれ、より重要な問いが浮上している。こうしたシステムに投入された素材はどうなるのか。クリエイティブチームは日常的に、未発表のキャンペーンや独自キャラクター、機密映像、価値あるクライアントの知的財産を扱っている。"
               },
               {
                 "t": "p",
-                "x": "釜山国際映画祭のジソク映画研究所は、10月8日から11日まで映像産業センターと釜山市視聴者メディアセンターで「2026 Forum BIFF」を開催すると明らかにした。"
+                "x": "保護の度合いはAIプロバイダーによって大きく異なる。顧客のコンテンツでモデルを学習しないと約束する企業もあれば、アップロードされた素材に広範な権利を保持する企業もある。"
               },
               {
                 "t": "p",
-                "x": "今年のテーマは「同時代映画の可能性を語る」だ。映画産業、AI・創作、制度・政策、地域・環境の4分野で8つのセッションが行われる。"
-              },
-              {
-                "t": "p",
-                "x": "映画祭の開幕作『昼と夜は互いに』のキム・ジョングァン監督と、中国のジャ・ジャンクー監督が基調発表を務める。"
-              },
-              {
-                "t": "p",
-                "x": "映画産業分野では、中予算の韓国映画が減っている原因を探り、海外との共同制作の可能性を議論する。アジアのアニメーションの成長と今後の課題も取り上げる。"
-              },
-              {
-                "t": "p",
-                "x": "AI分野では、生成AIが映画制作に与える影響とクリエイターの役割を考える。ジャ・ジャンクー監督がAIで制作した短編『ジャ・ジャンクーのダンス』など関連作品も上映される。ミン・ギュドン監督ら国内外の映画人が参加する。"
-              },
-              {
-                "t": "p",
-                "x": "映画人の権利の問題も議論する。公正な契約と報酬、著作権の問題をはじめ、映画祭の支援制度の改善の方向性を探る予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "地域分野では、釜山の映画産業を持続させる方策を扱う。映画界と行政機関の協力、映画制作の過程で炭素排出を減らす方策などが主な議題だ。"
-              },
-              {
-                "t": "p",
-                "x": "フォーラムは事前申し込み不要で、誰でも無料で参加できる。オンライン中継はなく、会場のみで開かれる。"
-              },
-              {
-                "t": "p",
-                "x": "第31回釜山国際映画祭は10月6日から15日まで、映画の殿堂一帯で開催される。"
+                "x": "SynimaのCreative Director for Generative AIで、AIAnimation.comの創設者でもあるJon Draperは、AIアニメーションが成熟するにつれ、これが決定的な論点の一つになると考えている。次の段階で問われるのはプロ仕様のインフラ、つまり明確な所有権、管理されたアクセス、クライアント資産の安全な取り扱い、そしてデータの使われ方の透明性だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "釜山Forum BIFF\n探讨AI时代电影",
-          "body": "釜山国际电影节Forum BIFF将于10月8日起探讨AI时代的电影制作。",
-          "mini_headline": "Forum BIFF探讨AI与电影",
+          "headline": "生成式AI\n迈入专业动画制作",
+          "body": "生成式AI正从实验走向专业动画制作，为工作室和品牌带来重大机遇。",
+          "mini_headline": "AI进军专业动画",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "生成式AI正迅速从试验阶段走向专业动画和商业制作。对工作室、代理商和品牌而言，这是一个重大机遇。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-                "cap": "第31届釜山国际电影节“2026 Forum BIFF”官方海报。/ 图片由釜山国际电影节提供"
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+                "cap": "Ani是一个眼睛闪着粉光的小机器人，正跑过桌面"
               },
               {
                 "t": "p",
-                "x": "第31届釜山国际电影节（BIFF）上，国内外电影人将围绕人工智能（AI）带来的电影制作环境变化、韩国电影的危机以及电影人权益等议题展开讨论。"
+                "x": "但随着AI成为主流制作的一部分，一个更重要的问题浮出水面：输入这些系统的素材会怎样？创意团队日常处理的，正是未发布的营销活动、自有角色、机密影像和珍贵的客户知识产权。"
               },
               {
                 "t": "p",
-                "x": "釜山国际电影节智硕电影研究所宣布，将于10月8日至11日在影像产业中心和釜山市观众媒体中心举办“2026 Forum BIFF”。"
+                "x": "各家AI服务商的保护措施差异很大。有的承诺不用客户内容训练模型，有的则对上传素材保留广泛权利。"
               },
               {
                 "t": "p",
-                "x": "今年的主题是“谈论当代电影的可能性”。论坛将在电影产业、AI·创作、制度·政策、地区·环境4个领域举行8场会议。"
-              },
-              {
-                "t": "p",
-                "x": "本届电影节开幕片《昼与夜互为彼此》的导演金宗宽和中国导演贾樟柯将担任主旨发言人。"
-              },
-              {
-                "t": "p",
-                "x": "电影产业领域将剖析韩国中等预算电影减少的原因，探讨海外合拍的可能性，并讨论亚洲动画的发展与未来课题。"
-              },
-              {
-                "t": "p",
-                "x": "AI领域将探讨生成式AI对电影制作的影响以及创作者的角色。贾樟柯用AI制作的短片《贾樟柯的舞蹈》等相关作品也将放映。闵奎东导演等国内外电影人将参与其中。"
-              },
-              {
-                "t": "p",
-                "x": "论坛还将讨论电影人的权益问题，包括公平的合同与报酬、版权问题，以及电影节资助制度的改进方向。"
-              },
-              {
-                "t": "p",
-                "x": "地区领域将探讨釜山电影产业的可持续发展方案。电影界与行政机关的合作、在电影制作过程中减少碳排放的方法等是主要议题。"
-              },
-              {
-                "t": "p",
-                "x": "论坛无需提前报名，任何人均可免费参加。不设线上直播，仅在现场举行。"
-              },
-              {
-                "t": "p",
-                "x": "第31届釜山国际电影节将于10月6日至15日在电影殿堂一带举行。"
+                "x": "Synima的Creative Director for Generative AI、AIAnimation.com创始人Jon Draper认为，随着AI动画走向成熟，这将成为决定性议题之一。下一阶段的关键在于专业基础设施：清晰的所有权、受控的访问、客户资产的安全处理，以及数据使用方式的透明。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Forum BIFF de Busan debate\nel cine en la era de la AI",
-          "body": "El Forum BIFF del Festival Internacional de Cine de Busan debatirá desde el 8 de octubre el cine en la era de la AI.",
-          "mini_headline": "Forum BIFF debate la AI y el cine",
+          "headline": "La AI generativa entra en\nla animación profesional",
+          "body": "La AI generativa pasa de los experimentos a la animación profesional, una gran oportunidad para estudios y marcas.",
+          "mini_headline": "La AI entra en la animación profesional",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La AI generativa está pasando rápidamente de la experimentación a la animación profesional y la producción comercial. Para estudios, agencias y marcas, la oportunidad es considerable."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mhns.co.kr/news/photo/202609/762264_896726_502.jpg",
-                "cap": "Póster oficial del ‘2026 Forum BIFF’ del 31.º Festival Internacional de Cine de Busan. / Foto: cortesía del Festival Internacional de Cine de Busan"
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+                "cap": "Ani, un pequeño robot de ojos rosados y brillantes, corre por un escritorio"
               },
               {
                 "t": "p",
-                "x": "En el 31.º Festival Internacional de Cine de Busan (BIFF), cineastas de Corea y del extranjero debatirán sobre cómo la inteligencia artificial (AI) está cambiando el entorno de la producción cinematográfica, la crisis del cine coreano y los derechos de los profesionales del cine."
+                "x": "Pero a medida que la AI se integra en la producción convencional, surge una pregunta más importante: ¿qué ocurre con el material que se introduce en estos sistemas? Los equipos creativos trabajan a diario con campañas inéditas, personajes propios, material audiovisual confidencial y valiosa propiedad intelectual de sus clientes."
               },
               {
                 "t": "p",
-                "x": "El Instituto de Cine Jiseok del festival anunció que celebrará el ‘2026 Forum BIFF’ del 8 al 11 de octubre en el Centro de la Industria Audiovisual y en el Centro de Medios para Espectadores de Busan."
+                "x": "Las protecciones varían mucho entre proveedores de AI. Algunos se comprometen a no entrenar modelos con el contenido de los clientes; otros conservan amplios derechos sobre el material subido."
               },
               {
                 "t": "p",
-                "x": "El tema de este año es ‘Hablar de las posibilidades del cine contemporáneo’. Habrá 8 sesiones en 4 áreas: industria cinematográfica, AI y creación, instituciones y políticas, y región y medio ambiente."
-              },
-              {
-                "t": "p",
-                "x": "Kim Jong-kwan, director de la película inaugural del festival, ‘El día y la noche, el uno para el otro’, y el director chino Jia Zhangke darán las ponencias principales."
-              },
-              {
-                "t": "p",
-                "x": "En el área de industria se analizarán las causas de la disminución de las películas coreanas de presupuesto medio y se debatirán las posibilidades de coproducción internacional. También se abordarán el crecimiento de la animación asiática y sus retos futuros."
-              },
-              {
-                "t": "p",
-                "x": "El área de AI examinará el impacto de la AI generativa en la producción cinematográfica y el papel de los creadores. También se proyectarán obras relacionadas, como el cortometraje ‘La danza de Jia Zhangke’, que Jia Zhangke hizo con AI. Participarán cineastas de Corea y del extranjero, entre ellos el director Min Kyu-dong."
-              },
-              {
-                "t": "p",
-                "x": "También se debatirán los derechos de los profesionales del cine: contratos y remuneraciones justas, derechos de autor y la mejora de los sistemas de apoyo a los festivales."
-              },
-              {
-                "t": "p",
-                "x": "El área regional tratará cómo sostener la industria cinematográfica de Busan. Entre los temas principales figuran la cooperación entre el sector del cine y las administraciones, y las formas de reducir las emisiones de carbono durante la producción de películas."
-              },
-              {
-                "t": "p",
-                "x": "El foro es gratuito y abierto a todo el público, sin inscripción previa. Se celebrará solo de forma presencial, sin retransmisión en línea."
-              },
-              {
-                "t": "p",
-                "x": "El 31.º Festival Internacional de Cine de Busan se celebra del 6 al 15 de octubre en los alrededores del Busan Cinema Center."
+                "x": "Jon Draper, Creative Director for Generative AI en Synima y fundador de AIAnimation.com, cree que esta será una de las cuestiones decisivas a medida que madure la animación con AI. La siguiente etapa girará en torno a la infraestructura profesional: propiedad clara, acceso controlado, manejo seguro de los activos de los clientes y transparencia sobre cómo se usan los datos."
               }
             ]
           }

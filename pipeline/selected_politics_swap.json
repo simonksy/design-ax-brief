@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-06",
+  "section": "politics",
+  "dedup": {
+    "checks": {
+      "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.digitaltrends.com/wearables/norway-mulls-ban-on-smart-glasses-before-they-become-a-bigger-privacy-problem/",
+        "new_action": "Norwegian government formally announced (Mon 2026-10-05) it will introduce a law for a temporary ban on AI glasses in parks, beaches, schools and kindergartens, and set up an expert group to draft permanent rules; the 2026-09-03 gadgets card only reported the ban being considered."
+      },
+      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act": {
+        "verdict": "new",
+        "nearest": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/",
+        "new_action": ""
+      },
+      "https://www.politico.eu/article/female-european-parliament-lawmakers-targeted-deepfake-porn/": {
+        "verdict": "new",
+        "nearest": "https://zdnet.co.kr/view/?no=20261002190003",
+        "new_action": ""
+      },
+      "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence": {
+        "verdict": "new",
+        "nearest": "https://www.axios.com/2026/09/28/pope-leo-ai-fears-fake-news-trump",
+        "new_action": ""
+      },
+      "https://thediplomat.com/2026/10/can-japan-counter-chinas-dominance-in-ai/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      }
+    },
+    "note": "SWAP (2026-10-06): removed WIRED 'Rural data centers are in for a big federal tax break' after the full-article check found its body never mentions AI (pure opportunity-zone tax story = general political news under the politics _note). Replaced with Axios 'GOP Sen. Bernie Moreno letter to Anthropic's Dario Amodei' - the only remaining candidate reporting a concrete new action (a sitting senator's formal letter, sent Mon 2026-10-05) where AI is the whole story; distinct from the 2026-09-28 Pope/Trump 'AI fears hoax' card and the 2026-10-01 FTC OpenAI/Anthropic probe (different actor, different action). To be written neutrally as a policy action, not partisan framing. Other remaining candidates stay dropped as analysis/commentary/interviews with no new decision (ChinaTalk, CSET, Lawfare, FPF, IAPP, TPP x3, Diplomat APAC data centers, Altman Decoded, Schiff Decoder), AI business noise (Axios Reflection), AI incidental (Verge NJ ex-LG), or weak politics axis/no image (Nieman Lab). Original note: no candidate carried a history_match; all 20 checked by content against the 30-day politics history_digest plus the gadgets ledger entry for Norway (digitaltrends 'Norway mulls ban', 2026-09-03), which the Ars card follows up with the formal law announcement. Diversity after swap: 5 distinct outlets (Ars, Verge, POLITICO Europe, Axios, Diplomat); axes policy x3, elections x1, geopolitics x1."
+  },
+  "items": [
+    {
+      "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
+      "source": "Axios",
+      "title": "Sen. Bernie Moreno sends letter urging Anthropic's Dario Amodei to drop 'alarmist' AI commentary",
+      "tool": "Politics",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "axis": "policy",
+      "rationale": "Concrete new action from Congress: a sitting senator formally wrote to Anthropic's CEO on Monday objecting to its AI-risk messaging ahead of the expected IPO - lawmakers now pressing labs directly on how they talk about AI risk (write neutrally).",
+      "published_iso": "2026-10-05T18:00:05+00:00",
+      "og_image": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
+      "excerpt": "Sen. Bernie Moreno (R-Ohio) sent a letter Monday urging Anthropic CEO Dario Amodei against an 'alarmist approach' and 'panic-inducing commentary' on AI, according to Axios, ahead of Anthropic's expected IPO."
+    }
+  ]
+}

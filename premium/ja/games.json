@@ -5887,6 +5887,130 @@
           "x": "HRチームは、不正確な内容だらけの長いAI-written（AIが書いた）苦情文書にも向き合っている。「むしろ仕事が増えたことがよくある」とある参加者は語り、AIは質問には答えられても「人の心は読めない」と付け加えた。"
         }
       ]
+    },
+    "games/jagex-pulls-runescape-genai-trailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "RuneScape Dragon Slayer 2の予告編。画像提供: Jagex"
+        },
+        {
+          "t": "p",
+          "x": "Jagexは、RuneFestで公開されたRuneScape 3のクエスト「Dragon Slayer 2」の予告編に生成AIが使われていた件について見解を示した。Redditユーザーは、指が六本ある手やAir Jordansに似た中世のブーツなど、GenAIが多用された痕跡を見つけていた。"
+        },
+        {
+          "t": "p",
+          "x": "Jagexによれば、予告編は「GenAIを使わないと明確に確認していた、信頼できる外部パートナー」が制作したもので、調査を進める間、宣伝素材を取り下げたという。"
+        },
+        {
+          "t": "p",
+          "x": "「信頼していたパートナーを通じて生成AIへの懸念が生じたのは、短期間でこれが二度目だ。我々にとって、それは自らの手順に対処すべき問題があることを示している」。もう一件は100 Thievesとのコラボレーションだった。"
+        },
+        {
+          "t": "p",
+          "x": "Jagexはレビュー手順を全面的に見直し、Dragon Slayer IIの物語を伝える作品をコミュニティのクリエイターに依頼するとしている。「当社はゲームやアートワーク、クリエイティブアセットの制作にGenAIを使っていない」と述べた。"
+        }
+      ]
+    },
+    "games/fortnite-replaces-gemini-watermark-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "cap": "Fortnite"
+        },
+        {
+          "t": "p",
+          "x": "Fortniteが、ゲーム内（in-game）のアートワークをひっそりと差し替えた。元のバージョンにGoogle Gemini AIの透かしが入っていることにファンが気づいたためだ。"
+        },
+        {
+          "t": "p",
+          "x": "Epic Gamesは先月、Ironmouse, Sleeping Forest & HalaCGによる楽曲「Meow」をFortniteに追加したが、その楽曲アートワークの右下隅にGeminiの透かしがあった。先週末にこれが広く知られると、ソーシャルメディアやRedditでちょっとした騒ぎになった。"
+        },
+        {
+          "t": "p",
+          "x": "アートワークは現在、透かしのないバージョンに差し替えられている。ただし、Geminiのマークは楽曲のオリジナルアートにもともと入っており、Epicはそれをそのままゲームに取り込んだにすぎない。同じマークはSpotifyでも確認できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+          "cap": "Fortnite内で表示されていた元の「Meow」のトラックアート（左）と差し替え後（右）。画像提供: Ironmouse/Epic Games。"
+        },
+        {
+          "t": "p",
+          "x": "AI生成アート（AI-generated art）は、Fortniteファンにとって議論を呼ぶテーマだ。IGNは今回の差し替えを、明らかなAI要素を含むアートワークをEpicがゲーム内で公然と見せたくないことの表れとみている。"
+        }
+      ]
+    },
+    "games/kojima-on-ai-after-dlss5-death-stranding2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+          "cap": "Death Stranding 2のSam Porter Bridges"
+        },
+        {
+          "t": "p",
+          "x": "Hideo KojimaのDeath Stranding 2はNvidia DLSS 5をめぐる議論に巻き込まれた。その彼が、Koji10ポッドキャストでAIについて語った。"
+        },
+        {
+          "t": "p",
+          "x": "「クリエイターとして、この技術には複雑な思いがある」と彼は言う。「AIは古い写真に命を吹き込んだり、色を付けたりするのが得意だよね。いつかリメイクをやらなくなるかもしれない」"
+        },
+        {
+          "t": "p",
+          "x": "だが、AIは芸術的な意図を理解できない。「オリジナルを作った人間としては、誰かにあまり変えてほしくない」と彼は言う。「特定のライティングを選んだのには理由があった。AIがその意図を理解するなら話は別だが」"
+        },
+        {
+          "t": "video",
+          "yt": "YDTq8SeY9s0"
+        },
+        {
+          "t": "p",
+          "x": "「それは嫌だね」と、AIが勝手に変更を加えることについて彼は語る。「自分の作品で自分がAIをコントロールしているなら、違うかもしれない。でも、わからないな」"
+        },
+        {
+          "t": "p",
+          "x": "「いずれAIがそれを全部自動でやるようになるかもしれない。百年後には解像度がさらに上がっているかもしれない。でも、その考えはあまり好きじゃない」"
+        }
+      ]
+    },
+    "games/rider-agentic-unreal-dev-unreal-fest": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "0C7GjShUnlY"
+        },
+        {
+          "t": "p",
+          "x": "汎用AIはコードを生成し、簡単な部分を片付ける。だがUnreal Engine開発の難しい部分、つまりGameplay Ability System（GAS）のブートストラップ、ビルドのトリアージ、DataTableの作成、クラッシュのデバッグ、モバイル設定などは、エディタ内やエンジンのサブシステム、そして相互に依存する設定ファイル群の中で起きる。汎用AIはそこでいつも間違える。"
+        },
+        {
+          "t": "p",
+          "x": "Unreal Fest Chicago 2026で収録されたこのセッションでは、JetBrains Rider、Agent Communication Protocol（ACP。AIエージェント向けのLSPのようなオープンなエージェントプロトコル）、そしてAgentBridge経由で動くUE固有（UE-specific）のスキルからなる実用的なスタックを紹介する。これによりAIエージェントは、ソースファイルにアクセスするだけでなく、エディタの中で目と手を持つことになる。"
+        },
+        {
+          "t": "p",
+          "x": "JetBrainsは、アーキテクチャの相談、正しいGASレプリケーション設定を備えたC++のスキャフォールディング、GameplayEffectsを使ったアビリティ作成、クラッシュのトリアージ、テキストの指示からのアクター配置、自動テストまで、開発ライフサイクル全体を扱う。"
+        }
+      ]
+    },
+    "games/capcom-re-engine-ai-workflows": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "CapcomのPragmataはAIの恐ろしさを描く作品かもしれないが、実際のところスタジオ自体はこの技術にそれほど否定的ではないようだ。Capcom Open Conference RE: 2026で、プログラマーのSatoshi Ishidaは「The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation」(REXプロジェクトの展望と未来、次世代に向けてさらに進化するRE Engine)という長いタイトルの講演を行った。講演では、Resident Evil規模のゲームを制作するスタジオが直面する課題を説明した。その規模では、単純な作業でさえ膨大な時間がかかるという。Ishidaが示した解決策は「開発ワークフローにAI技術をうまく統合すること」だ。"
+        },
+        {
+          "t": "p",
+          "x": "Capcomは以前から、AI生成アセット(AI-generated assets)をゲームに使わず、開発の効率化にこの技術を活用すると述べてきた。Ishidaの発言もそれに沿うものだが、より広範な利用への余地を明らかに残している。IGNの翻訳によると、彼はRE Engineを少しずつ段階的に「AI生成ゲームエンジン(AI-generation game engine)」へと変え、「AIと共にゲームを作る未来」を目指す計画を示した。"
+        }
+      ]
     }
   }
 }

@@ -1,239 +1,173 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "design",
   "cards": [
     {
-      "id": "formas-cartesian-agentic-modeller",
+      "id": "bimlogiq-argus-revit-family-agent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Formas.AI의 3D\n에이전트 Cartesian",
-      "body": "Cartesian은 편집 가능한 형상에 공간 추론을 얹은 에이전트형 3D 모델러다.",
-      "mini_headline": "Formas.AI, Cartesian 출시",
+      "headline": "BIMlogiq Argus\nRevit 패밀리 만든다",
+      "body": "BIMlogiq Argus에 Revit 패밀리·욕실·MEP 에이전트가 추가됐다.",
+      "mini_headline": "Argus 에이전트, Revit 패밀리 생성",
       "tool": "Text-to-CAD",
       "source": "AEC Magazine",
-      "url": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
+      "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Formas.AI가 건축, 인테리어, 가구, 제품 디자인의 초기 단계에 쓰는 AI 지원(AI-assisted) 플랫폼 Cartesian을 공개했다. AI가 만든(AI-generated) 콘셉트를 편집할 수 있으면서 물리적으로도 의미 있는 형상으로 바꾸겠다는 구상이다. 디자이너는 사진, 스케치, 글로 쓴 브리프, 기존 모델에서 출발해 대화로 구성 요소를 하나씩 다듬는다."
-          },
-          {
             "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+            "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+            "cap": "Revit 안에서 돌아가는 BIMlogiq Argus"
           },
           {
             "t": "p",
-            "x": "“그 뒤에 있는 기술은 엄청나게 복잡할 수 있다. 경험은 그래서는 안 된다.” 공동 창업자이자 CEO인 Yiping Goh의 말이다."
+            "x": "BIMlogiq가 Revit용 AI 플랫폼 Argus를 강화했다. Argus는 전문 에이전트 팀을 꾸려 Revit 프로젝트 안에서 워크플로를 바로 자동화한다. 목표만 주면 단계를 짜고 도구를 엮어 처음부터 끝까지(end-to-end) 실행한다. 패밀리 배치와 모델 검토, 태그·치수 기입, 뷰와 시트 작성까지 맡는다. 실행 과정은 명령으로 저장해 두고 팀 전체가 다시 꺼내 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "중심에는 AI 에이전트용으로 따로 만든 CAD 커널 레이어와 기하 툴킷이 있다. 에이전트는 이것으로 솔리드와 자유곡면을 만들고 형상을 프로그래밍 방식으로 검사하고 고친다. 모델은 이름 붙은 구성 요소, 레이어, 어셈블리 단위로 정리된다. 공동 창업자 Carlos Bañón은 이런 관계가 “형상에 의미를 부여하고, 모델이 바뀌어도 설계 의도를 지키도록 돕는다”고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+            "x": "최근 추가된 Family Creation Agent는 Revit 기본 구성 요소로 완전한 파라메트릭 Revit 패밀리를 처음부터 만든다고 알려졌다. Bathroom Agent는 ADA-compliant(ADA 규정 준수) 욕실을 설계한다. 새 MEP Systems Agent는 장비부터 말단 기구까지 네트워크 흐름을 따라가는데, 시스템 일부가 완전히 연결되지 않아도 작동한다."
           },
           {
             "t": "p",
-            "x": "여러 AI 모델과 전문 에이전트는 오케스트레이션 시스템이 한데 조율한다. OpenAI의 GPT-6 Astra와 Claude Opus 5.5도 그 가운데 있다. 에이전트는 일조와 그림자, 실시간 바람 분석을 요청해 모델링 판단에 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "Cartesian은 Rhinoceros, SketchUp과 실시간으로 연동되고 DXF·IFC 가져오기와 내보내기, STEP·STL 내보내기를 지원한다. 데스크톱 버전은 macOS와 Windows에 차례로 풀리며, 2026년 10월 31일부터 이용 범위를 넓힐 예정이다."
+            "x": "철근 모델링 에이전트는 첨부한 PDF 사양서에서 3D 철근을 곧바로 생성한다. Argus에는 QA/QC 모듈도 있다. 사용자가 일상 언어로 규칙을 설명하면 AI가 거기에 맞는 검사 항목을 만든다. BIMlogiq는 회사의 과거 데이터와 설계로 학습시킨 전용 에이전트도 개발해 준다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Formas.AI unveils Cartesian,\nan agentic 3D modeller",
-          "body": "Formas.AI's Cartesian is a native agentic 3D modeller that pairs editable geometry with spatial design reasoning.",
-          "mini_headline": "Formas.AI launches Cartesian",
+          "headline": "BIMlogiq Argus adds agents\nthat build Revit families",
+          "body": "BIMlogiq's Argus can now create fully parametric Revit families from scratch, alongside new bathroom and MEP agents.",
+          "mini_headline": "Argus agents build Revit families",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Formas.AI has unveiled Cartesian, an AI-assisted platform for early-stage architecture, interiors, furniture and product design that aims to turn AI-generated concepts into editable, physically meaningful geometry. Designers can start from photographs, sketches, written briefs or existing models, then refine individual components through conversation."
-              },
-              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+                "cap": "BIMlogiq Argus inside Revit"
               },
               {
                 "t": "p",
-                "x": "“The technology behind it can be incredibly complex. The experience should not be,” said Yiping Goh, co-founder and CEO."
+                "x": "BIMlogiq has enhanced Argus, its AI platform for Revit that uses a team of specialist agents to automate workflows directly within a Revit project. Users give it a goal and it plans the steps, chains the tools and executes end-to-end: placing families, checking the model, tagging and dimensioning, building views and sheets. Runs can be saved as a command for the whole team to reuse."
               },
               {
                 "t": "p",
-                "x": "At its core is a proprietary CAD kernel layer and geometric toolkit built for AI agents, which can construct solids and freeform surfaces and inspect and revise geometry programmatically. Models are organised into named components, layers and assemblies; co-founder Carlos Bañón said these relationships “give geometry meaning and help preserve design intent as the model changes.”"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+                "x": "Recent additions include a Family Creation Agent that can reportedly create fully parametric Revit families from scratch using native Revit components, and a Bathroom Agent that designs ADA-compliant bathrooms. A new MEP Systems Agent traces flows through the network, from equipment to terminals, even when parts of a system are not fully connected."
               },
               {
                 "t": "p",
-                "x": "An orchestration system coordinates multiple AI models, including OpenAI’s GPT-6 Astra and Claude Opus 5.5, alongside specialist agents. Agents can request sunlight, shadow and real-time wind studies to inform modelling decisions."
-              },
-              {
-                "t": "p",
-                "x": "Cartesian has live connections with Rhinoceros and SketchUp, DXF and IFC import and export, plus STEP and STL export. The desktop rollout will be phased across macOS and Windows, with expanded access planned from 31 October 2026."
+                "x": "A rebar modelling agent generates 3D rebar directly from an attached PDF specification. Argus also includes a QA/QC module where users describe rules in plain language and AI creates the corresponding checks. BIMlogiq can also develop specialised agents trained on a firm's past data and designs."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Formas.AI의 3D\n에이전트 Cartesian",
-          "body": "Cartesian은 편집 가능한 형상에 공간 추론을 얹은 에이전트형 3D 모델러다.",
-          "mini_headline": "Formas.AI, Cartesian 출시",
+          "headline": "BIMlogiq Argus\nRevit 패밀리 만든다",
+          "body": "BIMlogiq Argus에 Revit 패밀리·욕실·MEP 에이전트가 추가됐다.",
+          "mini_headline": "Argus 에이전트, Revit 패밀리 생성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Formas.AI가 건축, 인테리어, 가구, 제품 디자인의 초기 단계에 쓰는 AI 지원(AI-assisted) 플랫폼 Cartesian을 공개했다. AI가 만든(AI-generated) 콘셉트를 편집할 수 있으면서 물리적으로도 의미 있는 형상으로 바꾸겠다는 구상이다. 디자이너는 사진, 스케치, 글로 쓴 브리프, 기존 모델에서 출발해 대화로 구성 요소를 하나씩 다듬는다."
-              },
-              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+                "cap": "Revit 안에서 돌아가는 BIMlogiq Argus"
               },
               {
                 "t": "p",
-                "x": "“그 뒤에 있는 기술은 엄청나게 복잡할 수 있다. 경험은 그래서는 안 된다.” 공동 창업자이자 CEO인 Yiping Goh의 말이다."
+                "x": "BIMlogiq가 Revit용 AI 플랫폼 Argus를 강화했다. Argus는 전문 에이전트 팀을 꾸려 Revit 프로젝트 안에서 워크플로를 바로 자동화한다. 목표만 주면 단계를 짜고 도구를 엮어 처음부터 끝까지(end-to-end) 실행한다. 패밀리 배치와 모델 검토, 태그·치수 기입, 뷰와 시트 작성까지 맡는다. 실행 과정은 명령으로 저장해 두고 팀 전체가 다시 꺼내 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "중심에는 AI 에이전트용으로 따로 만든 CAD 커널 레이어와 기하 툴킷이 있다. 에이전트는 이것으로 솔리드와 자유곡면을 만들고 형상을 프로그래밍 방식으로 검사하고 고친다. 모델은 이름 붙은 구성 요소, 레이어, 어셈블리 단위로 정리된다. 공동 창업자 Carlos Bañón은 이런 관계가 “형상에 의미를 부여하고, 모델이 바뀌어도 설계 의도를 지키도록 돕는다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+                "x": "최근 추가된 Family Creation Agent는 Revit 기본 구성 요소로 완전한 파라메트릭 Revit 패밀리를 처음부터 만든다고 알려졌다. Bathroom Agent는 ADA-compliant(ADA 규정 준수) 욕실을 설계한다. 새 MEP Systems Agent는 장비부터 말단 기구까지 네트워크 흐름을 따라가는데, 시스템 일부가 완전히 연결되지 않아도 작동한다."
               },
               {
                 "t": "p",
-                "x": "여러 AI 모델과 전문 에이전트는 오케스트레이션 시스템이 한데 조율한다. OpenAI의 GPT-6 Astra와 Claude Opus 5.5도 그 가운데 있다. 에이전트는 일조와 그림자, 실시간 바람 분석을 요청해 모델링 판단에 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "Cartesian은 Rhinoceros, SketchUp과 실시간으로 연동되고 DXF·IFC 가져오기와 내보내기, STEP·STL 내보내기를 지원한다. 데스크톱 버전은 macOS와 Windows에 차례로 풀리며, 2026년 10월 31일부터 이용 범위를 넓힐 예정이다."
+                "x": "철근 모델링 에이전트는 첨부한 PDF 사양서에서 3D 철근을 곧바로 생성한다. Argus에는 QA/QC 모듈도 있다. 사용자가 일상 언어로 규칙을 설명하면 AI가 거기에 맞는 검사 항목을 만든다. BIMlogiq는 회사의 과거 데이터와 설계로 학습시킨 전용 에이전트도 개발해 준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Formas.AIの3D\n自律型Cartesian",
-          "body": "Cartesianは編集可能な形状に空間推論を加えたエージェント型3D モデラーだ。",
-          "mini_headline": "Formas.AIがCartesianを公開",
+          "headline": "BIMlogiq Argus\nRevitファミリを自動生成",
+          "body": "BIMlogiq ArgusにRevitファミリ生成と浴室・MEPエージェントが加わった。",
+          "mini_headline": "ArgusのエージェントがRevitファミリを構築",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Formas.AIは、建築、インテリア、家具、プロダクトデザインの初期段階に向けたAI支援(AI-assisted)プラットフォーム「Cartesian」を発表した。AIが生成した(AI-generated)コンセプトを、編集可能で物理的に意味のある形状に変えることを目指す。デザイナーは写真、スケッチ、文章によるブリーフ、既存のモデルから始め、対話を通じて個々のコンポーネントを詰めていける。"
-              },
-              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+                "cap": "Revit上で動くBIMlogiq Argus"
               },
               {
                 "t": "p",
-                "x": "「その裏にある技術は非常に複雑になり得る。体験はそうであってはならない」と、共同創業者でCEOのYiping Gohは語った。"
+                "x": "BIMlogiqは、Revit向けAIプラットフォームArgusを強化した。Argusは専門エージェントのチームを使い、Revitプロジェクト内で直接ワークフローを自動化する。ユーザーが目標を与えると、手順を計画し、ツールをつないで最初から最後まで（end-to-end）実行する。ファミリの配置、モデルのチェック、タグ付けと寸法記入、ビューやシートの作成までこなす。実行内容はコマンドとして保存でき、チーム全体で再利用できる。"
               },
               {
                 "t": "p",
-                "x": "中核にあるのは、AIエージェント向けに作られた独自のCADカーネル層と幾何ツールキットだ。ソリッドや自由曲面を構築し、形状をプログラムで検査・修正できる。モデルは名前付きのコンポーネント、レイヤー、アセンブリに整理される。共同創業者のCarlos Bañónは、こうした関係が「形状に意味を与え、モデルが変わっても設計意図を保つ助けになる」と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+                "x": "最近追加されたFamily Creation Agentは、Revitのネイティブコンポーネントを使い、完全にパラメトリックなRevitファミリをゼロから作成できるとされる。Bathroom AgentはADA-compliant（ADA準拠）の浴室を設計する。新しいMEP Systems Agentは、機器から末端までネットワーク内の流れを追跡し、システムの一部が完全につながっていない場合でも機能する。"
               },
               {
                 "t": "p",
-                "x": "オーケストレーションシステムが、OpenAIのGPT-6 AstraやClaude Opus 5.5を含む複数のAIモデルと専門エージェントを連携させる。エージェントは日照、影、リアルタイムの風の解析を要求し、モデリングの判断材料にできる。"
-              },
-              {
-                "t": "p",
-                "x": "CartesianはRhinocerosやSketchUpとのライブ連携、DXFとIFCのインポート・エクスポート、STEPとSTLのエクスポートに対応する。デスクトップ版はmacOSとWindowsで段階的に提供され、2026年10月31日から利用範囲を広げる予定だ。"
+                "x": "鉄筋モデリングエージェントは、添付されたPDF仕様書から3D鉄筋を直接生成する。ArgusにはQA/QCモジュールもあり、ユーザーが平易な言葉でルールを記述すると、AIが対応するチェックを作成する。BIMlogiqは、企業の過去のデータや設計で学習させた専用エージェントの開発も手がける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Formas.AI推出3D\n建模智能体Cartesian",
-          "body": "Cartesian是一款原生智能体3D 建模工具，把可编辑几何与空间设计推理结合起来。",
-          "mini_headline": "Formas.AI推出Cartesian",
+          "headline": "BIMlogiq Argus\n新增智能体构建Revit族",
+          "body": "BIMlogiq Argus现可从零创建全参数化Revit族，并新增浴室与MEP智能体。",
+          "mini_headline": "Argus智能体构建Revit族",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Formas.AI发布了Cartesian，这是一款面向早期建筑、室内、家具和产品设计的AI辅助（AI-assisted）平台，旨在把AI生成（AI-generated）的概念转化为可编辑、具有物理意义的几何体。设计师可以从照片、草图、文字简报或现有模型出发，再通过对话逐一细化各个组件。"
-              },
-              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+                "cap": "Revit中的BIMlogiq Argus"
               },
               {
                 "t": "p",
-                "x": "“背后的技术可能极其复杂，但体验不应如此。”联合创始人兼CEO Yiping Goh表示。"
+                "x": "BIMlogiq升级了其面向Revit的AI平台Argus。Argus借助一组专业智能体，直接在Revit项目内自动化工作流程。用户只需给出目标，它便会规划步骤、串联工具并端到端（end-to-end）执行：放置族、检查模型、添加标记与尺寸标注、创建视图和图纸。运行过程可保存为命令，供整个团队复用。"
               },
               {
                 "t": "p",
-                "x": "其核心是专为AI智能体打造的自有CAD内核层和几何工具包，可构建实体与自由曲面，并以编程方式检查和修改几何体。模型按命名的组件、图层和装配体组织；联合创始人Carlos Bañón表示，这些关系“赋予几何意义，并在模型变化时帮助保留设计意图”。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+                "x": "近期新增的Family Creation Agent据称能使用Revit原生构件，从零创建完全参数化的Revit族；Bathroom Agent则可设计符合ADA-compliant（ADA标准）的卫生间。新的MEP Systems Agent可追踪网络中从设备到末端的流向，即使系统部分环节并未完全连接也能运作。"
               },
               {
                 "t": "p",
-                "x": "一套编排系统协调多个AI模型（包括OpenAI的GPT-6 Astra和Claude Opus 5.5）以及专业智能体。智能体可请求日照、阴影和实时风环境分析，为建模决策提供依据。"
-              },
-              {
-                "t": "p",
-                "x": "Cartesian可与Rhinoceros和SketchUp实时连接，支持DXF和IFC的导入导出，以及STEP和STL导出。桌面版将在macOS和Windows上分阶段推出，计划自2026年10月31日起扩大开放范围。"
+                "x": "钢筋建模智能体可直接根据附带的PDF规范生成3D钢筋。Argus还包含QA/QC模块，用户用日常语言描述规则，AI便会生成相应的检查项。BIMlogiq还可基于企业过往数据和设计，开发经过专门训练的智能体。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Formas.AI presenta Cartesian,\nun modelador 3D agéntico",
-          "body": "Cartesian, de Formas.AI, es un modelador 3D agéntico que une geometría editable y razonamiento de diseño espacial.",
-          "mini_headline": "Formas.AI lanza Cartesian",
+          "headline": "BIMlogiq Argus suma agentes\nque crean familias de Revit",
+          "body": "Argus, de BIMlogiq, ya crea familias de Revit totalmente paramétricas desde cero y suma agentes de baño y MEP.",
+          "mini_headline": "Agentes de Argus crean familias de Revit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Formas.AI ha presentado Cartesian, una plataforma AI-assisted (asistida por AI) para las primeras fases del diseño de arquitectura, interiores, mobiliario y producto, que busca convertir conceptos AI-generated (generados por AI) en geometría editable y con sentido físico. Los diseñadores pueden partir de fotografías, bocetos, encargos escritos o modelos existentes y después refinar cada componente mediante conversación."
-              },
-              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+                "cap": "BIMlogiq Argus dentro de Revit"
               },
               {
                 "t": "p",
-                "x": "“La tecnología que hay detrás puede ser increíblemente compleja. La experiencia no debería serlo”, afirmó Yiping Goh, cofundador y CEO."
+                "x": "BIMlogiq ha mejorado Argus, su plataforma de AI para Revit que usa un equipo de agentes especializados para automatizar flujos de trabajo directamente dentro de un proyecto de Revit. El usuario le da un objetivo y Argus planifica los pasos, encadena las herramientas y lo ejecuta de principio a fin (end-to-end): coloca familias, revisa el modelo, etiqueta y acota, y crea vistas y planos. Las ejecuciones pueden guardarse como un comando para que todo el equipo las reutilice."
               },
               {
                 "t": "p",
-                "x": "En su núcleo hay una capa de kernel CAD propia y un conjunto de herramientas geométricas creados para agentes de AI, capaces de construir sólidos y superficies libres, e inspeccionar y revisar la geometría de forma programática. Los modelos se organizan en componentes, capas y ensamblajes con nombre; el cofundador Carlos Bañón dijo que estas relaciones “dan significado a la geometría y ayudan a preservar la intención de diseño a medida que el modelo cambia”."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+                "x": "Entre las novedades recientes figura un Family Creation Agent que, según se informa, puede crear familias de Revit totalmente paramétricas desde cero con componentes nativos de Revit, y un Bathroom Agent que diseña baños ADA-compliant. Un nuevo MEP Systems Agent rastrea los flujos a través de la red, desde los equipos hasta los terminales, incluso cuando partes del sistema no están completamente conectadas."
               },
               {
                 "t": "p",
-                "x": "Un sistema de orquestación coordina varios modelos de AI, entre ellos GPT-6 Astra de OpenAI y Claude Opus 5.5, junto con agentes especializados. Los agentes pueden solicitar estudios de soleamiento, sombras y viento en tiempo real para orientar las decisiones de modelado."
-              },
-              {
-                "t": "p",
-                "x": "Cartesian tiene conexiones en vivo con Rhinoceros y SketchUp, importación y exportación en DXF e IFC, y exportación en STEP y STL. El despliegue de escritorio será gradual en macOS y Windows, con un acceso ampliado previsto a partir del 31 de octubre de 2026."
+                "x": "Un agente de modelado de armaduras genera armado 3D directamente a partir de una especificación en PDF adjunta. Argus también incluye un módulo de QA/QC en el que el usuario describe reglas en lenguaje llano y la AI crea las comprobaciones correspondientes. BIMlogiq también puede desarrollar agentes especializados entrenados con los datos y diseños anteriores de una firma."
               }
             ]
           }
@@ -241,153 +175,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Formas.AI의 3D\n에이전트 Cartesian",
-          "body": "Cartesian은 편집형 형상에 공간 추론을 더한 에이전트형 3D 모델러다.",
-          "mini_headline": "Formas.AI, Cartesian 출시",
+          "headline": "BIMlogiq Argus\nRevit 패밀리 만든다",
+          "body": "BIMlogiq Argus에 Revit 패밀리·욕실·MEP 에이전트가 추가됐다.",
+          "mini_headline": "Argus 에이전트, Revit 패밀리 생성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Formas.AI가 초기 단계의 건축, 인테리어, 가구, 제품 디자인을 위한 AI 지원(AI-assisted) 플랫폼 Cartesian을 공개했다. AI가 만든(AI-generated) 콘셉트를 편집 가능하고 물리적으로 의미 있는 형상으로 바꾸는 것이 목표다. 디자이너는 사진, 스케치, 글로 쓴 브리프, 기존 모델에서 출발해 대화로 개별 구성 요소를 다듬을 수 있다."
-              },
-              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+                "cap": "Revit 안에서 구동되는 BIMlogiq Argus"
               },
               {
                 "t": "p",
-                "x": "“그 뒤에 있는 기술은 엄청나게 복잡할 수 있다. 경험은 그래서는 안 된다.” 공동 창업자이자 CEO인 Yiping Goh의 말이다."
+                "x": "BIMlogiq가 Revit용 AI 플랫폼 Argus를 강화했다. Argus는 전문 에이전트 팀을 활용해 Revit 프로젝트 안에서 직접 워크플로를 자동화한다. 사용자가 목표를 주면 단계를 계획하고 도구를 엮어 처음부터 끝까지(end-to-end) 실행한다. 패밀리 배치, 모델 검토, 태그와 치수 기입, 뷰와 시트 작성까지 맡는다. 실행 과정은 명령으로 저장해 팀 전체가 다시 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "핵심에는 AI 에이전트를 위해 만든 독자적인 CAD 커널 레이어와 기하 툴킷이 있다. 에이전트는 이를 통해 솔리드와 자유곡면을 만들고, 형상을 프로그래밍 방식으로 검사하고 수정할 수 있다. 모델은 이름이 붙은 구성 요소, 레이어, 어셈블리로 정리된다. 공동 창업자 Carlos Bañón은 이런 관계가 “형상에 의미를 부여하고, 모델이 바뀌어도 설계 의도를 지키도록 돕는다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+                "x": "최근 추가된 Family Creation Agent는 Revit 기본 구성 요소로 완전한 파라메트릭 Revit 패밀리를 처음부터 만들 수 있는 것으로 알려졌다. Bathroom Agent는 ADA-compliant(ADA 규정 준수) 욕실을 설계한다. 새 MEP Systems Agent는 장비에서 말단 기구까지 네트워크의 흐름을 추적하며, 시스템 일부가 완전히 연결되지 않은 경우에도 작동한다."
               },
               {
                 "t": "p",
-                "x": "오케스트레이션 시스템이 OpenAI의 GPT-6 Astra와 Claude Opus 5.5를 비롯한 여러 AI 모델과 전문 에이전트를 함께 조율한다. 에이전트는 일조, 그림자, 실시간 바람 분석을 요청해 모델링 판단에 활용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Cartesian은 Rhinoceros, SketchUp과 실시간으로 연동되고 DXF·IFC 가져오기와 내보내기, STEP·STL 내보내기를 지원한다. 데스크톱 버전은 macOS와 Windows에 단계적으로 배포되며, 2026년 10월 31일부터 이용 범위를 넓힐 계획이다."
+                "x": "철근 모델링 에이전트는 첨부한 PDF 사양서에서 3D 철근을 바로 생성한다. Argus에는 QA/QC 모듈도 있어, 사용자가 일상 언어로 규칙을 설명하면 AI가 그에 맞는 검사 항목을 만든다. BIMlogiq는 회사의 과거 데이터와 설계로 학습한 전용 에이전트도 개발해 준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Formas.AIの3D\n自律型Cartesian",
-          "body": "Cartesianは編集可能な形状に空間推論を加えたエージェント型3D モデラーだ。",
-          "mini_headline": "Formas.AIがCartesianを公開",
+          "headline": "BIMlogiq Argus\nRevitファミリを自動生成",
+          "body": "BIMlogiq ArgusにRevitファミリ生成と浴室・MEPエージェントが加わった。",
+          "mini_headline": "ArgusのエージェントがRevitファミリを構築",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Formas.AIは、建築、インテリア、家具、プロダクトデザインの初期段階に向けたAI支援(AI-assisted)プラットフォーム「Cartesian」を発表した。AIが生成した(AI-generated)コンセプトを、編集可能で物理的に意味のある形状に変えることを目指す。デザイナーは写真、スケッチ、文章によるブリーフ、既存のモデルから始め、対話を通じて個々のコンポーネントを詰めていける。"
-              },
-              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+                "cap": "Revit上で動くBIMlogiq Argus"
               },
               {
                 "t": "p",
-                "x": "「その裏にある技術は非常に複雑になり得る。体験はそうであってはならない」と、共同創業者でCEOのYiping Gohは語った。"
+                "x": "BIMlogiqは、Revit向けAIプラットフォームArgusを強化した。Argusは専門エージェントのチームを使い、Revitプロジェクト内で直接ワークフローを自動化する。ユーザーが目標を与えると、手順を計画し、ツールをつないで最初から最後まで（end-to-end）実行する。ファミリの配置、モデルのチェック、タグ付けと寸法記入、ビューやシートの作成までこなす。実行内容はコマンドとして保存でき、チーム全体で再利用できる。"
               },
               {
                 "t": "p",
-                "x": "中核にあるのは、AIエージェント向けに作られた独自のCADカーネル層と幾何ツールキットだ。ソリッドや自由曲面を構築し、形状をプログラムで検査・修正できる。モデルは名前付きのコンポーネント、レイヤー、アセンブリに整理される。共同創業者のCarlos Bañónは、こうした関係が「形状に意味を与え、モデルが変わっても設計意図を保つ助けになる」と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+                "x": "最近追加されたFamily Creation Agentは、Revitのネイティブコンポーネントを使い、完全にパラメトリックなRevitファミリをゼロから作成できるとされる。Bathroom AgentはADA-compliant（ADA準拠）の浴室を設計する。新しいMEP Systems Agentは、機器から末端までネットワーク内の流れを追跡し、システムの一部が完全につながっていない場合でも機能する。"
               },
               {
                 "t": "p",
-                "x": "オーケストレーションシステムが、OpenAIのGPT-6 AstraやClaude Opus 5.5を含む複数のAIモデルと専門エージェントを連携させる。エージェントは日照、影、リアルタイムの風の解析を要求し、モデリングの判断材料にできる。"
-              },
-              {
-                "t": "p",
-                "x": "CartesianはRhinocerosやSketchUpとのライブ連携、DXFとIFCのインポート・エクスポート、STEPとSTLのエクスポートに対応する。デスクトップ版はmacOSとWindowsで段階的に提供され、2026年10月31日から利用範囲を広げる予定だ。"
+                "x": "鉄筋モデリングエージェントは、添付されたPDF仕様書から3D鉄筋を直接生成する。ArgusにはQA/QCモジュールもあり、ユーザーが平易な言葉でルールを記述すると、AIが対応するチェックを作成する。BIMlogiqは、企業の過去のデータや設計で学習させた専用エージェントの開発も手がける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Formas.AI推出3D\n建模智能体Cartesian",
-          "body": "Cartesian是一款原生智能体3D 建模工具，把可编辑几何与空间设计推理结合起来。",
-          "mini_headline": "Formas.AI推出Cartesian",
+          "headline": "BIMlogiq Argus\n新增智能体构建Revit族",
+          "body": "BIMlogiq Argus现可从零创建全参数化Revit族，并新增浴室与MEP智能体。",
+          "mini_headline": "Argus智能体构建Revit族",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Formas.AI发布了Cartesian，这是一款面向早期建筑、室内、家具和产品设计的AI辅助（AI-assisted）平台，旨在把AI生成（AI-generated）的概念转化为可编辑、具有物理意义的几何体。设计师可以从照片、草图、文字简报或现有模型出发，再通过对话逐一细化各个组件。"
-              },
-              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+                "cap": "Revit中的BIMlogiq Argus"
               },
               {
                 "t": "p",
-                "x": "“背后的技术可能极其复杂，但体验不应如此。”联合创始人兼CEO Yiping Goh表示。"
+                "x": "BIMlogiq升级了其面向Revit的AI平台Argus。Argus借助一组专业智能体，直接在Revit项目内自动化工作流程。用户只需给出目标，它便会规划步骤、串联工具并端到端（end-to-end）执行：放置族、检查模型、添加标记与尺寸标注、创建视图和图纸。运行过程可保存为命令，供整个团队复用。"
               },
               {
                 "t": "p",
-                "x": "其核心是专为AI智能体打造的自有CAD内核层和几何工具包，可构建实体与自由曲面，并以编程方式检查和修改几何体。模型按命名的组件、图层和装配体组织；联合创始人Carlos Bañón表示，这些关系“赋予几何意义，并在模型变化时帮助保留设计意图”。"
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+                "x": "近期新增的Family Creation Agent据称能使用Revit原生构件，从零创建完全参数化的Revit族；Bathroom Agent则可设计符合ADA-compliant（ADA标准）的卫生间。新的MEP Systems Agent可追踪网络中从设备到末端的流向，即使系统部分环节并未完全连接也能运作。"
               },
               {
                 "t": "p",
-                "x": "一套编排系统协调多个AI模型（包括OpenAI的GPT-6 Astra和Claude Opus 5.5）以及专业智能体。智能体可请求日照、阴影和实时风环境分析，为建模决策提供依据。"
-              },
-              {
-                "t": "p",
-                "x": "Cartesian可与Rhinoceros和SketchUp实时连接，支持DXF和IFC的导入导出，以及STEP和STL导出。桌面版将在macOS和Windows上分阶段推出，计划自2026年10月31日起扩大开放范围。"
+                "x": "钢筋建模智能体可直接根据附带的PDF规范生成3D钢筋。Argus还包含QA/QC模块，用户用日常语言描述规则，AI便会生成相应的检查项。BIMlogiq还可基于企业过往数据和设计，开发经过专门训练的智能体。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Formas.AI presenta Cartesian,\nun modelador 3D agéntico",
-          "body": "Cartesian, de Formas.AI, es un modelador 3D agéntico que une geometría editable y razonamiento de diseño espacial.",
-          "mini_headline": "Formas.AI lanza Cartesian",
+          "headline": "BIMlogiq Argus suma agentes\nque crean familias de Revit",
+          "body": "Argus, de BIMlogiq, ya crea familias de Revit totalmente paramétricas desde cero y suma agentes de baño y MEP.",
+          "mini_headline": "Agentes de Argus crean familias de Revit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Formas.AI ha presentado Cartesian, una plataforma AI-assisted (asistida por AI) para las primeras fases del diseño de arquitectura, interiores, mobiliario y producto, que busca convertir conceptos AI-generated (generados por AI) en geometría editable y con sentido físico. Los diseñadores pueden partir de fotografías, bocetos, encargos escritos o modelos existentes y después refinar cada componente mediante conversación."
-              },
-              {
                 "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+                "cap": "BIMlogiq Argus dentro de Revit"
               },
               {
                 "t": "p",
-                "x": "“La tecnología que hay detrás puede ser increíblemente compleja. La experiencia no debería serlo”, afirmó Yiping Goh, cofundador y CEO."
+                "x": "BIMlogiq ha mejorado Argus, su plataforma de AI para Revit que usa un equipo de agentes especializados para automatizar flujos de trabajo directamente dentro de un proyecto de Revit. El usuario le da un objetivo y Argus planifica los pasos, encadena las herramientas y lo ejecuta de principio a fin (end-to-end): coloca familias, revisa el modelo, etiqueta y acota, y crea vistas y planos. Las ejecuciones pueden guardarse como un comando para que todo el equipo las reutilice."
               },
               {
                 "t": "p",
-                "x": "En su núcleo hay una capa de kernel CAD propia y un conjunto de herramientas geométricas creados para agentes de AI, capaces de construir sólidos y superficies libres, e inspeccionar y revisar la geometría de forma programática. Los modelos se organizan en componentes, capas y ensamblajes con nombre; el cofundador Carlos Bañón dijo que estas relaciones “dan significado a la geometría y ayudan a preservar la intención de diseño a medida que el modelo cambia”."
-              },
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+                "x": "Entre las novedades recientes figura un Family Creation Agent que, según se informa, puede crear familias de Revit totalmente paramétricas desde cero con componentes nativos de Revit, y un Bathroom Agent que diseña baños ADA-compliant. Un nuevo MEP Systems Agent rastrea los flujos a través de la red, desde los equipos hasta los terminales, incluso cuando partes del sistema no están completamente conectadas."
               },
               {
                 "t": "p",
-                "x": "Un sistema de orquestación coordina varios modelos de AI, entre ellos GPT-6 Astra de OpenAI y Claude Opus 5.5, junto con agentes especializados. Los agentes pueden solicitar estudios de soleamiento, sombras y viento en tiempo real para orientar las decisiones de modelado."
-              },
-              {
-                "t": "p",
-                "x": "Cartesian tiene conexiones en vivo con Rhinoceros y SketchUp, importación y exportación en DXF e IFC, y exportación en STEP y STL. El despliegue de escritorio será gradual en macOS y Windows, con un acceso ampliado previsto a partir del 31 de octubre de 2026."
+                "x": "Un agente de modelado de armaduras genera armado 3D directamente a partir de una especificación en PDF adjunta. Argus también incluye un módulo de QA/QC en el que el usuario describe reglas en lenguaje llano y la AI crea las comprobaciones correspondientes. BIMlogiq también puede desarrollar agentes especializados entrenados con los datos y diseños anteriores de una firma."
               }
             ]
           }
@@ -395,225 +285,189 @@
       }
     },
     {
-      "id": "lightroom-prompt-to-edit-restore",
+      "id": "photoshop-remove-tool-no-generative-credits",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Prompt to Edit\n옛 사진을 되살린다",
-      "body": "Prompt to Edit은 AI로 옛 사진 복원과 흑백 컬러화, 색 보정을 한다.",
-      "mini_headline": "Lightroom AI, 옛 사진 복원",
+      "headline": "Photoshop의\nRemove는 크레딧 무료",
+      "body": "Photoshop Remove는 Generative AI를 켜도 크레딧을 안 쓴다.",
+      "mini_headline": "Remove 도구, AI 크레딧 안 쓴다",
       "tool": "KeyShot",
       "source": "Fstoppers",
-      "url": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
+      "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Adobe가 Lightroom에 Prompt to Edit을 넣는다. Adobe가 준비한 예시 프롬프트를 고르거나 직접 프롬프트를 써서 옛 사진을 복원하는 기능이다. 초점이 나간 이미지를 선명하게 하고 흑백 사진에 색을 입히며, 색이 심하게 틀어진 사진도 보정한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-            "cap": "John Ricard가 2001년경 촬영한 112. Lightroom에서 Adobe의 Prompt to Edit 기능으로 복원했다."
+            "t": "video",
+            "yt": "nmvewzc6MG4"
           },
           {
             "t": "p",
-            "x": "예시 프롬프트로는 Fix Dust and Scratches, Color Restoration, Unblur 등이 있다. Lightroom은 효과를 입힌 DNG 파일을 새로 만들고 원본은 건드리지 않는다. 프리셋을 고르면 프롬프트 전문이 뜨고, 그대로 고쳐 쓸 수도 있다. 몇 번 써 본 바로는 Color Restoration의 채도가 필자가 원한 것보다 높았다."
+            "x": "이제 Adobe는 Photoshop의 여러 AI 도구 사용량을 월간 생성 크레딧에서 차감한다. 어떤 기능이 크레딧을 쓰는지에 따라 편집의 자유도가 곧바로 달라진다."
           },
           {
             "t": "p",
-            "x": "편집이 Lightroom 안에서 끝나니 마스킹, 부분 보정, 개체 제거 같은 기본 도구도 그대로 쓴다. 이미지는 Nano Banana 2가 2K 또는 4K 해상도로 만든다. 프리미엄 기능이라 생성형 크레디트가 든다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-            "cap": "Lightroom의 Prompt to Edit 기능으로 만든 컬러 버전."
+            "x": "첫 번째 반전은 Remove 도구다. PHLEARN의 Aaron Nace는 크레딧 잔액 2,870을 확인한 뒤 Generative AI를 켜고 클라우드 처리를 고른 채로 거슬리는 요소 몇 개를 칠해 지운다. 그러고 잔액을 다시 본다. 숫자는 그대로다. AI 모델을 한 번 내려받고 나면 Photoshop은 이 도구를 오프라인 기기 처리로도 돌린다."
           },
           {
             "t": "p",
-            "x": "Prompt to Edit은 Lightroom 데스크톱에 Early Access 기능으로 들어오고, Adobe가 피드백을 보며 계속 손볼 수 있다."
+            "x": "Generative Fill, Generative Expand, Generate Image는 모두 월간 할당량에서 크레딧을 쓴다. 다른 회사의 파트너 모델은 Adobe 자체 Firefly 모델보다 생성 1회당 크레딧이 더 든다. Content-Aware Fill과 Select Subject는 잔액을 건드리지 않으니 무료 옵션부터 써 보는 습관을 들이는 편이 좋다."
+          },
+          {
+            "t": "p",
+            "x": "그 밖에 scrubby-slider 레이블과 클리핑 마스크, Curves의 대상 지정 손 도구, Select Subject 가장자리를 더 깔끔하게 따는 클라우드 처리 팁도 다룬다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Lightroom's Prompt to Edit\nrestores old photos",
-          "body": "Lightroom's new Prompt to Edit uses AI to restore old photos, colorize black-and-white shots and correct color casts.",
-          "mini_headline": "Lightroom AI restores old photos",
+          "headline": "Photoshop's Remove tool spares\nyour generative credits",
+          "body": "Photoshop's Remove tool does not consume generative credits, even with Generative AI and cloud processing turned on.",
+          "mini_headline": "Remove tool skips AI credits",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe is introducing Prompt to Edit in Lightroom. It lets you restore an old photograph by selecting one of Adobe’s example prompts or creating your own: sharpen out-of-focus images, colorize black-and-white photographs, and adjust photos with a dramatic color cast."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-                "cap": "112 photographed by John Ricard circa 2001, restored using Adobe's Prompt to Edit feature in Lightroom."
+                "t": "video",
+                "yt": "nmvewzc6MG4"
               },
               {
                 "t": "p",
-                "x": "Example prompts include Fix Dust and Scratches, Color Restoration and Unblur. Lightroom creates a new DNG with the effect applied while leaving the original unmodified. Choosing a preset shows the full prompt, which you can adjust; in limited testing, Color Restoration came out more saturated than the author liked."
+                "x": "Adobe now meters many of Photoshop's AI tools against a monthly pool of generative credits, so knowing which features draw from that pool directly affects how freely you can edit."
               },
               {
                 "t": "p",
-                "x": "Because the edit happens in Lightroom, the standard tools for masking, local adjustments and object removal stay available. Images are generated using Nano Banana 2 at 2K or 4K, and use generative credits as a premium feature."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-                "cap": "Colorized version created using Lightroom’s Prompt to Edit feature."
+                "x": "The Remove tool delivers the first surprise. Aaron Nace of PHLEARN checks his credit balance at 2,870, paints over a handful of distractions with Generative AI switched on and cloud processing selected, then checks again. The number hasn't moved. The tool can also run on device processing offline, once Photoshop has downloaded the AI model."
               },
               {
                 "t": "p",
-                "x": "Prompt to Edit is being introduced in Lightroom desktop as an Early Access feature and may continue to change as Adobe evaluates feedback."
+                "x": "Generative Fill, Generative Expand and Generate Image all draw from the monthly allotment, and partner models from other companies cost more credits per generation than Adobe's own Firefly models. Content-Aware Fill and Select Subject don't touch that balance, so a good habit is to try the free option first."
+              },
+              {
+                "t": "p",
+                "x": "Other tips cover scrubby-slider labels, clipping masks, the targeted Curves hand tool and cloud processing for cleaner Select Subject edges."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Prompt to Edit\n옛 사진을 되살린다",
-          "body": "Prompt to Edit은 AI로 옛 사진 복원과 흑백 컬러화, 색 보정을 한다.",
-          "mini_headline": "Lightroom AI, 옛 사진 복원",
+          "headline": "Photoshop의\nRemove는 크레딧 무료",
+          "body": "Photoshop Remove는 Generative AI를 켜도 크레딧을 안 쓴다.",
+          "mini_headline": "Remove 도구, AI 크레딧 안 쓴다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe가 Lightroom에 Prompt to Edit을 넣는다. Adobe가 준비한 예시 프롬프트를 고르거나 직접 프롬프트를 써서 옛 사진을 복원하는 기능이다. 초점이 나간 이미지를 선명하게 하고 흑백 사진에 색을 입히며, 색이 심하게 틀어진 사진도 보정한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-                "cap": "John Ricard가 2001년경 촬영한 112. Lightroom에서 Adobe의 Prompt to Edit 기능으로 복원했다."
+                "t": "video",
+                "yt": "nmvewzc6MG4"
               },
               {
                 "t": "p",
-                "x": "예시 프롬프트로는 Fix Dust and Scratches, Color Restoration, Unblur 등이 있다. Lightroom은 효과를 입힌 DNG 파일을 새로 만들고 원본은 건드리지 않는다. 프리셋을 고르면 프롬프트 전문이 뜨고, 그대로 고쳐 쓸 수도 있다. 몇 번 써 본 바로는 Color Restoration의 채도가 필자가 원한 것보다 높았다."
+                "x": "이제 Adobe는 Photoshop의 여러 AI 도구 사용량을 월간 생성 크레딧에서 차감한다. 어떤 기능이 크레딧을 쓰는지에 따라 편집의 자유도가 곧바로 달라진다."
               },
               {
                 "t": "p",
-                "x": "편집이 Lightroom 안에서 끝나니 마스킹, 부분 보정, 개체 제거 같은 기본 도구도 그대로 쓴다. 이미지는 Nano Banana 2가 2K 또는 4K 해상도로 만든다. 프리미엄 기능이라 생성형 크레디트가 든다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-                "cap": "Lightroom의 Prompt to Edit 기능으로 만든 컬러 버전."
+                "x": "첫 번째 반전은 Remove 도구다. PHLEARN의 Aaron Nace는 크레딧 잔액 2,870을 확인한 뒤 Generative AI를 켜고 클라우드 처리를 고른 채로 거슬리는 요소 몇 개를 칠해 지운다. 그러고 잔액을 다시 본다. 숫자는 그대로다. AI 모델을 한 번 내려받고 나면 Photoshop은 이 도구를 오프라인 기기 처리로도 돌린다."
               },
               {
                 "t": "p",
-                "x": "Prompt to Edit은 Lightroom 데스크톱에 Early Access 기능으로 들어오고, Adobe가 피드백을 보며 계속 손볼 수 있다."
+                "x": "Generative Fill, Generative Expand, Generate Image는 모두 월간 할당량에서 크레딧을 쓴다. 다른 회사의 파트너 모델은 Adobe 자체 Firefly 모델보다 생성 1회당 크레딧이 더 든다. Content-Aware Fill과 Select Subject는 잔액을 건드리지 않으니 무료 옵션부터 써 보는 습관을 들이는 편이 좋다."
+              },
+              {
+                "t": "p",
+                "x": "그 밖에 scrubby-slider 레이블과 클리핑 마스크, Curves의 대상 지정 손 도구, Select Subject 가장자리를 더 깔끔하게 따는 클라우드 처리 팁도 다룬다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Prompt to Edit\n古写真をAIで修復",
-          "body": "Prompt to EditはAIで古い写真を修復し、白黒のカラー化や色かぶり補正も行う。",
-          "mini_headline": "Lightroom AIが古写真を修復",
+          "headline": "Photoshopの\nRemoveはクレジット不要",
+          "body": "PhotoshopのRemoveはGenerative AI有効時もクレジットを使わない。",
+          "mini_headline": "Removeツールはクレジット不要",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AdobeはLightroomにPrompt to Editを導入する。Adobeが用意した例のプロンプトから選ぶか、自分でプロンプトを書くことで、古い写真を修復できる。ピンぼけ画像のシャープ化、白黒写真のカラー化、強い色かぶりのある写真の調整などだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-                "cap": "2001年頃にJohn Ricardが撮影した112。Lightroom内のAdobeのPrompt to Edit機能で修復した。"
+                "t": "video",
+                "yt": "nmvewzc6MG4"
               },
               {
                 "t": "p",
-                "x": "例のプロンプトにはFix Dust and Scratches、Color Restoration、Unblurなどがある。Lightroomは効果を適用した新しいDNGを作成し、元の画像には手を加えない。プリセットを選ぶと完全なプロンプトが表示され、調整もできる。限られたテストでは、Color Restorationは筆者の好みより彩度が高めに仕上がった。"
+                "x": "AdobeはいまやPhotoshopの多くのAIツールを、毎月の生成クレジット枠から差し引いている。どの機能がその枠を消費するかを知っているかどうかで、どれだけ気兼ねなく編集できるかが直接変わる。"
               },
               {
                 "t": "p",
-                "x": "編集はLightroom内で行われるため、マスク、部分補正、オブジェクト削除といった標準ツールはそのまま使える。画像はNano Banana 2により2K または4K で生成され、プレミアム機能として生成クレジットを消費する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-                "cap": "LightroomのPrompt to Edit機能で作成したカラー版。"
+                "x": "最初の驚きはRemoveツールだ。PHLEARNのAaron Naceはクレジット残高が2,870であることを確認し、Generative AIをオンにしてクラウド処理を選んだ状態で、いくつかの邪魔な要素を塗って消してから、もう一度残高を確かめる。数字は変わっていない。PhotoshopがAIモデルをダウンロードした後は、オフラインでもデバイス処理でこのツールを使える。"
               },
               {
                 "t": "p",
-                "x": "Prompt to EditはLightroomデスクトップ版にEarly Access機能として導入され、Adobeがフィードバックを検討するなかで今後も変わる可能性がある。"
+                "x": "Generative Fill、Generative Expand、Generate Imageはいずれも月間の割り当てからクレジットを消費し、他社のパートナーモデルはAdobe自社のFireflyモデルより1回の生成あたりのクレジットが多い。Content-Aware FillとSelect Subjectは残高に影響しないため、まず無料の選択肢を試すのがよい習慣だ。"
+              },
+              {
+                "t": "p",
+                "x": "ほかにも、scrubby-sliderラベル、クリッピングマスク、Curvesのターゲット調整ハンドツール、Select Subjectの境界をよりきれいにするクラウド処理といったヒントを紹介している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Prompt to Edit\n用AI修复老照片",
-          "body": "Lightroom的Prompt to Edit用AI修复老照片、为黑白照片上色并校正偏色。",
-          "mini_headline": "Lightroom AI修复老照片",
+          "headline": "Photoshop的\nRemove不耗生成积分",
+          "body": "Photoshop的Remove即使开启Generative AI和云端处理，也不耗积分。",
+          "mini_headline": "Remove工具不耗AI积分",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe正在Lightroom中推出Prompt to Edit。用户可以选择Adobe提供的示例提示词，或自行编写提示词来修复老照片：让失焦图像变清晰、为黑白照片上色，以及调整严重偏色的照片。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-                "cap": "John Ricard约于2001年拍摄的112，使用Lightroom中Adobe的Prompt to Edit功能修复。"
+                "t": "video",
+                "yt": "nmvewzc6MG4"
               },
               {
                 "t": "p",
-                "x": "示例提示词包括Fix Dust and Scratches、Color Restoration和Unblur。Lightroom会生成一个应用了效果的新DNG文件，原图保持不变。选择预设后会显示完整提示词，可自行调整；在有限的测试中，Color Restoration的效果比作者期望的更饱和。"
+                "x": "Adobe如今将Photoshop的许多AI工具计入每月的生成积分额度，因此了解哪些功能会消耗额度，直接影响你能多自由地编辑。"
               },
               {
                 "t": "p",
-                "x": "由于编辑在Lightroom内完成，蒙版、局部调整和对象移除等标准工具依然可用。图像由Nano Banana 2以2K 或4K 分辨率生成，作为高级功能会消耗生成式积分。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-                "cap": "使用Lightroom的Prompt to Edit功能生成的上色版本。"
+                "x": "第一个惊喜来自Remove工具。PHLEARN的Aaron Nace先确认积分余额为2,870，在开启Generative AI并选择云端处理的情况下涂抹去除几处干扰元素，然后再次查看。数字没有变化。Photoshop下载AI模型后，该工具还能离线使用设备端处理运行。"
               },
               {
                 "t": "p",
-                "x": "Prompt to Edit以Early Access功能的形式进入Lightroom桌面版，随着Adobe评估反馈，可能还会继续调整。"
+                "x": "Generative Fill、Generative Expand和Generate Image都会消耗每月额度，而其他公司的合作伙伴模型每次生成消耗的积分比Adobe自家的Firefly模型更多。Content-Aware Fill和Select Subject不会动用余额，所以不妨养成先试免费选项的习惯。"
+              },
+              {
+                "t": "p",
+                "x": "其他技巧还包括scrubby-slider标签、剪贴蒙版、Curves的目标调整手形工具，以及借助云端处理让Select Subject边缘更干净。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prompt to Edit de Lightroom\nrestaura fotos antiguas",
-          "body": "Con AI, Prompt to Edit de Lightroom restaura fotos viejas, colorea el blanco y negro y corrige dominantes de color.",
-          "mini_headline": "La AI de Lightroom restaura fotos antiguas",
+          "headline": "Remove de Photoshop ahorra\ntus créditos generativos",
+          "body": "Remove, de Photoshop, no consume créditos generativos aun con Generative AI y el procesamiento en la nube activados.",
+          "mini_headline": "Remove no gasta créditos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe incorpora Prompt to Edit en Lightroom. Permite restaurar una fotografía antigua eligiendo uno de los prompts de ejemplo de Adobe o escribiendo uno propio: enfocar imágenes desenfocadas, colorear fotografías en blanco y negro y ajustar fotos con una dominante de color acusada."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-                "cap": "112, fotografiada por John Ricard hacia 2001, restaurada con la función Prompt to Edit de Adobe en Lightroom."
+                "t": "video",
+                "yt": "nmvewzc6MG4"
               },
               {
                 "t": "p",
-                "x": "Entre los prompts de ejemplo están Fix Dust and Scratches, Color Restoration y Unblur. Lightroom crea un nuevo DNG con el efecto aplicado y deja el original sin modificar. Al elegir un ajuste preestablecido se muestra el prompt completo, que se puede modificar; en pruebas limitadas, Color Restoration dio un resultado más saturado de lo que el autor quería."
+                "x": "Adobe ahora descuenta muchas de las herramientas de AI de Photoshop de una bolsa mensual de créditos generativos, así que saber qué funciones tiran de esa bolsa influye directamente en la libertad con la que se puede editar."
               },
               {
                 "t": "p",
-                "x": "Como la edición se hace en Lightroom, siguen disponibles las herramientas habituales de máscaras, ajustes locales y eliminación de objetos. Las imágenes se generan con Nano Banana 2 a 2K o 4K y, al ser una función premium, consumen créditos generativos."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-                "cap": "Versión coloreada creada con la función Prompt to Edit de Lightroom."
+                "x": "La herramienta Remove da la primera sorpresa. Aaron Nace, de PHLEARN, comprueba que su saldo de créditos es de 2,870, pinta sobre un puñado de distracciones con Generative AI activado y el procesamiento en la nube seleccionado, y vuelve a comprobarlo. La cifra no se ha movido. La herramienta también puede funcionar sin conexión con procesamiento en el dispositivo, una vez que Photoshop ha descargado el modelo de AI."
               },
               {
                 "t": "p",
-                "x": "Prompt to Edit llega a Lightroom para escritorio como función Early Access y puede seguir cambiando a medida que Adobe evalúe los comentarios."
+                "x": "Generative Fill, Generative Expand y Generate Image consumen la asignación mensual, y los modelos de socios de otras empresas cuestan más créditos por generación que los modelos Firefly propios de Adobe. Content-Aware Fill y Select Subject no tocan ese saldo, así que conviene acostumbrarse a probar primero la opción gratuita."
+              },
+              {
+                "t": "p",
+                "x": "Otros consejos abarcan las etiquetas scrubby-slider, las máscaras de recorte, la herramienta de mano de ajuste selectivo de Curves y el procesamiento en la nube para obtener bordes más limpios con Select Subject."
               }
             ]
           }
@@ -621,145 +475,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Prompt to Edit\n옛 사진을 되살린다",
-          "body": "Prompt to Edit은 AI로 옛 사진 복원과 흑백 컬러화, 색 보정을 한다.",
-          "mini_headline": "Lightroom AI, 옛 사진 복원",
+          "headline": "Photoshop의\nRemove는 크레딧 무료",
+          "body": "Photoshop Remove는 Generative AI를 켜도 크레딧을 안 쓴다.",
+          "mini_headline": "Remove 도구, AI 크레딧 안 쓴다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe가 Lightroom에 Prompt to Edit을 도입한다. Adobe가 제공하는 예시 프롬프트 가운데 하나를 고르거나 직접 프롬프트를 써서 옛 사진을 복원할 수 있다. 초점이 나간 이미지를 선명하게 하고, 흑백 사진에 색을 입히고, 색이 심하게 틀어진 사진을 보정하는 식이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-                "cap": "John Ricard가 2001년경 촬영한 112. Lightroom에서 Adobe의 Prompt to Edit 기능으로 복원했다."
+                "t": "video",
+                "yt": "nmvewzc6MG4"
               },
               {
                 "t": "p",
-                "x": "예시 프롬프트로는 Fix Dust and Scratches, Color Restoration, Unblur 등이 있다. Lightroom은 효과를 적용한 새 DNG 파일을 만들고 원본은 그대로 둔다. 프리셋을 고르면 전체 프롬프트가 보이고 이를 고칠 수 있다. 제한적인 테스트에서 Color Restoration은 필자가 원한 것보다 채도가 높게 나왔다."
+                "x": "Adobe는 이제 Photoshop의 여러 AI 도구 사용량을 월간 생성 크레딧에서 차감한다. 그래서 어떤 기능이 크레딧을 쓰는지 알면 편집을 얼마나 자유롭게 할 수 있는지가 곧바로 달라진다."
               },
               {
                 "t": "p",
-                "x": "편집이 Lightroom 안에서 이뤄지므로 마스킹, 부분 보정, 개체 제거 같은 기본 도구를 그대로 쓸 수 있다. 이미지는 Nano Banana 2로 2K 또는 4K 해상도로 생성되며, 프리미엄 기능이어서 생성형 크레디트를 소모한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-                "cap": "Lightroom의 Prompt to Edit 기능으로 만든 컬러 버전."
+                "x": "첫 번째 반전은 Remove 도구다. PHLEARN의 Aaron Nace는 크레딧 잔액이 2,870인 것을 확인한 뒤, Generative AI를 켜고 클라우드 처리를 선택한 상태로 거슬리는 요소 몇 개를 칠해 지우고 다시 잔액을 확인한다. 숫자는 그대로다. Photoshop이 AI 모델을 내려받은 뒤에는 오프라인에서 기기 처리로도 이 도구를 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Prompt to Edit은 Lightroom 데스크톱에 Early Access 기능으로 도입되며, Adobe가 피드백을 검토하면서 계속 바뀔 수 있다."
+                "x": "Generative Fill, Generative Expand, Generate Image는 모두 월간 할당량에서 크레딧을 쓰며, 다른 회사의 파트너 모델은 Adobe 자체 Firefly 모델보다 생성 1회당 크레딧이 더 든다. Content-Aware Fill과 Select Subject는 잔액에 손대지 않으므로, 무료 옵션부터 써 보는 습관을 들이면 좋다."
+              },
+              {
+                "t": "p",
+                "x": "그 밖에 scrubby-slider 레이블, 클리핑 마스크, Curves의 대상 지정 손 도구, 더 깔끔한 Select Subject 가장자리를 위한 클라우드 처리 팁도 다룬다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Prompt to Edit\n古写真をAIで修復",
-          "body": "Prompt to EditはAIで古い写真を修復し、白黒のカラー化や色かぶり補正も行う。",
-          "mini_headline": "Lightroom AIが古写真を修復",
+          "headline": "Photoshopの\nRemoveはクレジット不要",
+          "body": "PhotoshopのRemoveはGenerative AI有効時もクレジットを使わない。",
+          "mini_headline": "Removeツールはクレジット不要",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AdobeはLightroomにPrompt to Editを導入する。Adobeが用意した例のプロンプトから選ぶか、自分でプロンプトを書くことで、古い写真を修復できる。ピンぼけ画像のシャープ化、白黒写真のカラー化、強い色かぶりのある写真の調整などだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-                "cap": "2001年頃にJohn Ricardが撮影した112。Lightroom内のAdobeのPrompt to Edit機能で修復した。"
+                "t": "video",
+                "yt": "nmvewzc6MG4"
               },
               {
                 "t": "p",
-                "x": "例のプロンプトにはFix Dust and Scratches、Color Restoration、Unblurなどがある。Lightroomは効果を適用した新しいDNGを作成し、元の画像には手を加えない。プリセットを選ぶと完全なプロンプトが表示され、調整もできる。限られたテストでは、Color Restorationは筆者の好みより彩度が高めに仕上がった。"
+                "x": "AdobeはいまやPhotoshopの多くのAIツールを、毎月の生成クレジット枠から差し引いている。どの機能がその枠を消費するかを知っているかどうかで、どれだけ気兼ねなく編集できるかが直接変わる。"
               },
               {
                 "t": "p",
-                "x": "編集はLightroom内で行われるため、マスク、部分補正、オブジェクト削除といった標準ツールはそのまま使える。画像はNano Banana 2により2K または4K で生成され、プレミアム機能として生成クレジットを消費する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-                "cap": "LightroomのPrompt to Edit機能で作成したカラー版。"
+                "x": "最初の驚きはRemoveツールだ。PHLEARNのAaron Naceはクレジット残高が2,870であることを確認し、Generative AIをオンにしてクラウド処理を選んだ状態で、いくつかの邪魔な要素を塗って消してから、もう一度残高を確かめる。数字は変わっていない。PhotoshopがAIモデルをダウンロードした後は、オフラインでもデバイス処理でこのツールを使える。"
               },
               {
                 "t": "p",
-                "x": "Prompt to EditはLightroomデスクトップ版にEarly Access機能として導入され、Adobeがフィードバックを検討するなかで今後も変わる可能性がある。"
+                "x": "Generative Fill、Generative Expand、Generate Imageはいずれも月間の割り当てからクレジットを消費し、他社のパートナーモデルはAdobe自社のFireflyモデルより1回の生成あたりのクレジットが多い。Content-Aware FillとSelect Subjectは残高に影響しないため、まず無料の選択肢を試すのがよい習慣だ。"
+              },
+              {
+                "t": "p",
+                "x": "ほかにも、scrubby-sliderラベル、クリッピングマスク、Curvesのターゲット調整ハンドツール、Select Subjectの境界をよりきれいにするクラウド処理といったヒントを紹介している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Prompt to Edit\n用AI修复老照片",
-          "body": "Lightroom的Prompt to Edit用AI修复老照片、为黑白照片上色并校正偏色。",
-          "mini_headline": "Lightroom AI修复老照片",
+          "headline": "Photoshop的\nRemove不耗生成积分",
+          "body": "Photoshop的Remove即使开启Generative AI和云端处理，也不耗积分。",
+          "mini_headline": "Remove工具不耗AI积分",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe正在Lightroom中推出Prompt to Edit。用户可以选择Adobe提供的示例提示词，或自行编写提示词来修复老照片：让失焦图像变清晰、为黑白照片上色，以及调整严重偏色的照片。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-                "cap": "John Ricard约于2001年拍摄的112，使用Lightroom中Adobe的Prompt to Edit功能修复。"
+                "t": "video",
+                "yt": "nmvewzc6MG4"
               },
               {
                 "t": "p",
-                "x": "示例提示词包括Fix Dust and Scratches、Color Restoration和Unblur。Lightroom会生成一个应用了效果的新DNG文件，原图保持不变。选择预设后会显示完整提示词，可自行调整；在有限的测试中，Color Restoration的效果比作者期望的更饱和。"
+                "x": "Adobe如今将Photoshop的许多AI工具计入每月的生成积分额度，因此了解哪些功能会消耗额度，直接影响你能多自由地编辑。"
               },
               {
                 "t": "p",
-                "x": "由于编辑在Lightroom内完成，蒙版、局部调整和对象移除等标准工具依然可用。图像由Nano Banana 2以2K 或4K 分辨率生成，作为高级功能会消耗生成式积分。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-                "cap": "使用Lightroom的Prompt to Edit功能生成的上色版本。"
+                "x": "第一个惊喜来自Remove工具。PHLEARN的Aaron Nace先确认积分余额为2,870，在开启Generative AI并选择云端处理的情况下涂抹去除几处干扰元素，然后再次查看。数字没有变化。Photoshop下载AI模型后，该工具还能离线使用设备端处理运行。"
               },
               {
                 "t": "p",
-                "x": "Prompt to Edit以Early Access功能的形式进入Lightroom桌面版，随着Adobe评估反馈，可能还会继续调整。"
+                "x": "Generative Fill、Generative Expand和Generate Image都会消耗每月额度，而其他公司的合作伙伴模型每次生成消耗的积分比Adobe自家的Firefly模型更多。Content-Aware Fill和Select Subject不会动用余额，所以不妨养成先试免费选项的习惯。"
+              },
+              {
+                "t": "p",
+                "x": "其他技巧还包括scrubby-slider标签、剪贴蒙版、Curves的目标调整手形工具，以及借助云端处理让Select Subject边缘更干净。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prompt to Edit de Lightroom\nrestaura fotos antiguas",
-          "body": "Con AI, Prompt to Edit de Lightroom restaura fotos viejas, colorea el blanco y negro y corrige dominantes de color.",
-          "mini_headline": "La AI de Lightroom restaura fotos antiguas",
+          "headline": "Remove de Photoshop ahorra\ntus créditos generativos",
+          "body": "Remove, de Photoshop, no consume créditos generativos aun con Generative AI y el procesamiento en la nube activados.",
+          "mini_headline": "Remove no gasta créditos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Adobe incorpora Prompt to Edit en Lightroom. Permite restaurar una fotografía antigua eligiendo uno de los prompts de ejemplo de Adobe o escribiendo uno propio: enfocar imágenes desenfocadas, colorear fotografías en blanco y negro y ajustar fotos con una dominante de color acusada."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/11220260125_00137jr-prompt.jpg?itok=mqLQokMk",
-                "cap": "112, fotografiada por John Ricard hacia 2001, restaurada con la función Prompt to Edit de Adobe en Lightroom."
+                "t": "video",
+                "yt": "nmvewzc6MG4"
               },
               {
                 "t": "p",
-                "x": "Entre los prompts de ejemplo están Fix Dust and Scratches, Color Restoration y Unblur. Lightroom crea un nuevo DNG con el efecto aplicado y deja el original sin modificar. Al elegir un ajuste preestablecido se muestra el prompt completo, que se puede modificar; en pruebas limitadas, Color Restoration dio un resultado más saturado de lo que el autor quería."
+                "x": "Adobe ahora descuenta muchas de las herramientas de AI de Photoshop de una bolsa mensual de créditos generativos, así que saber qué funciones tiran de esa bolsa influye directamente en la libertad con la que se puede editar."
               },
               {
                 "t": "p",
-                "x": "Como la edición se hace en Lightroom, siguen disponibles las herramientas habituales de máscaras, ajustes locales y eliminación de objetos. Las imágenes se generan con Nano Banana 2 a 2K o 4K y, al ser una función premium, consumen créditos generativos."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.fstoppers.com/styles/article_medium/s3/media/2026/09/30/297278_156079527813706_100002349795189_297776_1781918610_n-prompt.jpg?itok=ctCe1NxZ",
-                "cap": "Versión coloreada creada con la función Prompt to Edit de Lightroom."
+                "x": "La herramienta Remove da la primera sorpresa. Aaron Nace, de PHLEARN, comprueba que su saldo de créditos es de 2,870, pinta sobre un puñado de distracciones con Generative AI activado y el procesamiento en la nube seleccionado, y vuelve a comprobarlo. La cifra no se ha movido. La herramienta también puede funcionar sin conexión con procesamiento en el dispositivo, una vez que Photoshop ha descargado el modelo de AI."
               },
               {
                 "t": "p",
-                "x": "Prompt to Edit llega a Lightroom para escritorio como función Early Access y puede seguir cambiando a medida que Adobe evalúe los comentarios."
+                "x": "Generative Fill, Generative Expand y Generate Image consumen la asignación mensual, y los modelos de socios de otras empresas cuestan más créditos por generación que los modelos Firefly propios de Adobe. Content-Aware Fill y Select Subject no tocan ese saldo, así que conviene acostumbrarse a probar primero la opción gratuita."
+              },
+              {
+                "t": "p",
+                "x": "Otros consejos abarcan las etiquetas scrubby-slider, las máscaras de recorte, la herramienta de mano de ajuste selectivo de Curves y el procesamiento en la nube para obtener bordes más limpios con Select Subject."
               }
             ]
           }
@@ -767,699 +597,15 @@
       }
     },
     {
-      "id": "chatgpt-sites-public-beta-hosting",
+      "id": "adobe-text-to-3d-patent",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT Sites\n공개 베타로 웹 호스팅",
-      "body": "ChatGPT가 다섯 요금제에 웹 호스팅을 열었지만 데이터 상주는 빠졌다.",
-      "mini_headline": "ChatGPT Sites, 웹사이트 호스팅",
-      "tool": "Figma",
-      "source": "MIXED",
-      "url": "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-          },
-          {
-            "t": "p",
-            "x": "ChatGPT가 다섯 개 요금제 구독자의 웹사이트, 웹 앱, 게임을 호스팅한다. 다만 OpenAI 문서에 제한이 하나 적혀 있다. “Sites는 출시 시점에 데이터 상주나 추론 상주를 지원하지 않는다.” 배포된 Sites, Site 코드, D1·R2 데이터와 파일 저장소, 생성된 결과물, 로그가 모두 여기에 해당한다."
-          },
-          {
-            "t": "p",
-            "x": "Sites는 ChatGPT Plus, Pro, Business, Enterprise, Edu 요금제에서 공개 베타로 쓸 수 있고, 요금제별로 사용 한도가 걸린다. Site마다 R2 객체 저장소와 10 GB짜리 D1 데이터베이스 저장 공간이 붙는다. HTTP, HTTPS, WebSockets는 되지만 raw TCP는 안 된다."
-          },
-          {
-            "t": "p",
-            "x": "삭제한 Site는 되살릴 수 없다. Enterprise 워크스페이스는 공개 게시가 기본으로 꺼져 있고, 네트워크 접근 편집기에는 목적지 규칙을 최대 1,024개까지 넣을 수 있다. 건강 정보나 결제 카드 데이터 처리, 금융 거래 기능 같은 용도는 OpenAI가 금지한다."
-          },
-          {
-            "t": "p",
-            "x": "9월 29일 릴리스 노트를 보면 Plus와 Pro의 소유자와 편집자는 게시한 Site를 ChatGPT 안에서 계속 고칠 수 있다. 7월 9일 출시 때 EEA, 스위스, UK를 뺀 지역 제한은 아직 바뀌었다는 발표가 없다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "ChatGPT Sites now hosts\nyour website in public beta",
-          "body": "ChatGPT now hosts websites, web apps and games for subscribers on five plans, but without data residency at launch.",
-          "mini_headline": "ChatGPT Sites hosts websites",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT will host a website, a web app or a game for subscribers on five of its plans, and OpenAI's documentation puts one limit in writing: “Sites doesn't support data residency or inference residency at launch.” The exclusion covers deployed Sites, Site code, D1 and R2 data and file storage, generated artifacts, and logs."
-              },
-              {
-                "t": "p",
-                "x": "Sites is in public beta on ChatGPT Plus, Pro, Business, Enterprise and Edu plans, with plan-specific usage limits. Each Site gets 10 GB of D1 database storage alongside R2 object storage; HTTP, HTTPS and WebSockets are supported, raw TCP is not."
-              },
-              {
-                "t": "p",
-                "x": "Deleting a Site is permanent. In Enterprise workspaces public publishing is off by default, and a network-access editor supports up to 1,024 destination rules. OpenAI forbids uses such as processing health or payment-card data or enabling financial transactions."
-              },
-              {
-                "t": "p",
-                "x": "September 29 release notes let Plus and Pro owners and editors continue editing a published Site in ChatGPT. A regional limit set at the July 9 launch, excluding the EEA, Switzerland and the UK, has had no announced change."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ChatGPT Sites\n公開ベータでホスティング",
-          "body": "ChatGPTが五つのプランでサイトのホスティングを始めたが、データレジデンシーは未対応だ。",
-          "mini_headline": "ChatGPT Sitesがサイトをホスト",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPTは五つのプランの加入者向けに、ウェブサイト、ウェブアプリ、ゲームをホストする。OpenAIのドキュメントは一つの制約を明記している。「Sitesはローンチ時点でデータレジデンシーにも推論レジデンシーにも対応しない」。対象外となるのは、デプロイ済みのSites、Siteのコード、D1とR2のデータおよびファイルストレージ、生成された成果物、ログだ。"
-              },
-              {
-                "t": "p",
-                "x": "SitesはChatGPT Plus、Pro、Business、Enterprise、Eduの各プランで公開ベータとして提供され、プランごとに利用上限がある。各Siteには10 GB のD1データベースストレージとR2オブジェクトストレージが付く。HTTP、HTTPS、WebSocketsには対応するが、raw TCPには対応しない。"
-              },
-              {
-                "t": "p",
-                "x": "Siteの削除は取り消せない。Enterpriseワークスペースでは公開がデフォルトでオフになっており、ネットワークアクセスエディターは最大1,024件の宛先ルールに対応する。OpenAIは、健康情報や決済カードデータの処理、金融取引を可能にする用途などを禁じている。"
-              },
-              {
-                "t": "p",
-                "x": "9月29日のリリースノートにより、PlusとProのオーナーと編集者は公開済みのSiteをChatGPT上で引き続き編集できるようになった。7月9日のローンチ時に設けられた、EEA、スイス、UKを除外する地域制限については、変更の発表はない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ChatGPT Sites\n公测开放网站托管",
-          "body": "ChatGPT为五种套餐的订阅用户托管网站、网页应用和游戏，但上线时不支持数据驻留。",
-          "mini_headline": "ChatGPT Sites托管网站",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT将为五种套餐的订阅用户托管网站、网页应用或游戏，OpenAI的文档写明了一项限制：“Sites在上线时不支持数据驻留或推理驻留。”该例外涵盖已部署的Sites、Site代码、D1和R2数据与文件存储、生成的产物以及日志。"
-              },
-              {
-                "t": "p",
-                "x": "Sites已在ChatGPT Plus、Pro、Business、Enterprise和Edu套餐中公测，各套餐有不同的使用限额。每个Site可获得10 GB 的D1数据库存储以及R2对象存储；支持HTTP、HTTPS和WebSockets，不支持raw TCP。"
-              },
-              {
-                "t": "p",
-                "x": "删除Site不可恢复。在Enterprise工作区中，公开发布默认关闭，网络访问编辑器最多支持1,024条目标规则。OpenAI禁止处理健康或支付卡数据、支持金融交易等用途。"
-              },
-              {
-                "t": "p",
-                "x": "9月29日的发布说明显示，Plus和Pro的所有者与编辑者可以继续在ChatGPT中编辑已发布的Site。7月9日上线时设定的地区限制（不含EEA、瑞士和UK）尚未宣布任何变化。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "ChatGPT Sites ya aloja tu web\nen beta pública",
-          "body": "ChatGPT aloja webs, aplicaciones web y juegos en cinco planes, pero sin residencia de datos en el lanzamiento.",
-          "mini_headline": "ChatGPT Sites aloja sitios web",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT alojará un sitio web, una aplicación web o un juego para los suscriptores de cinco de sus planes, y la documentación de OpenAI deja por escrito un límite: “Sites no admite residencia de datos ni residencia de inferencia en el lanzamiento”. La exclusión abarca los Sites desplegados, el código de cada Site, los datos y el almacenamiento de archivos de D1 y R2, los artefactos generados y los registros."
-              },
-              {
-                "t": "p",
-                "x": "Sites está en beta pública en los planes ChatGPT Plus, Pro, Business, Enterprise y Edu, con límites de uso específicos de cada plan. Cada Site recibe 10 GB de almacenamiento de base de datos D1 junto con almacenamiento de objetos R2; se admiten HTTP, HTTPS y WebSockets, pero no TCP raw."
-              },
-              {
-                "t": "p",
-                "x": "Eliminar un Site es permanente. En los espacios de trabajo Enterprise, la publicación pública está desactivada por defecto, y un editor de acceso a la red admite hasta 1,024 reglas de destino. OpenAI prohíbe usos como el tratamiento de datos de salud o de tarjetas de pago, o la habilitación de transacciones financieras."
-              },
-              {
-                "t": "p",
-                "x": "Las notas de versión del 29 de septiembre permiten a los propietarios y editores de Plus y Pro seguir editando un Site publicado en ChatGPT. La restricción regional fijada en el lanzamiento del 9 de julio, que excluye el Espacio Económico Europeo (EEA), Suiza y el Reino Unido (UK), no ha tenido cambios anunciados."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "ChatGPT Sites\n공개 베타로 웹 호스팅",
-          "body": "ChatGPT가 다섯 요금제에 웹 호스팅을 열었지만 데이터 상주는 빠졌다.",
-          "mini_headline": "ChatGPT Sites, 웹사이트 호스팅",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT가 다섯 개 요금제 구독자의 웹사이트, 웹 앱, 게임을 호스팅한다. 다만 OpenAI 문서에 제한이 하나 적혀 있다. “Sites는 출시 시점에 데이터 상주나 추론 상주를 지원하지 않는다.” 배포된 Sites, Site 코드, D1·R2 데이터와 파일 저장소, 생성된 결과물, 로그가 모두 여기에 해당한다."
-              },
-              {
-                "t": "p",
-                "x": "Sites는 ChatGPT Plus, Pro, Business, Enterprise, Edu 요금제에서 공개 베타로 쓸 수 있고, 요금제별로 사용 한도가 걸린다. Site마다 R2 객체 저장소와 10 GB짜리 D1 데이터베이스 저장 공간이 붙는다. HTTP, HTTPS, WebSockets는 되지만 raw TCP는 안 된다."
-              },
-              {
-                "t": "p",
-                "x": "삭제한 Site는 되살릴 수 없다. Enterprise 워크스페이스는 공개 게시가 기본으로 꺼져 있고, 네트워크 접근 편집기에는 목적지 규칙을 최대 1,024개까지 넣을 수 있다. 건강 정보나 결제 카드 데이터 처리, 금융 거래 기능 같은 용도는 OpenAI가 금지한다."
-              },
-              {
-                "t": "p",
-                "x": "9월 29일 릴리스 노트를 보면 Plus와 Pro의 소유자와 편집자는 게시한 Site를 ChatGPT 안에서 계속 고칠 수 있다. 7월 9일 출시 때 EEA, 스위스, UK를 뺀 지역 제한은 아직 바뀌었다는 발표가 없다."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ja": {
-          "headline": "ChatGPT Sites\n公開ベータでホスティング",
-          "body": "ChatGPTが五つのプランでサイトのホスティングを始めたが、データレジデンシーは未対応だ。",
-          "mini_headline": "ChatGPT Sitesがサイトをホスト",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPTは五つのプランの加入者向けに、ウェブサイト、ウェブアプリ、ゲームをホストする。OpenAIのドキュメントは一つの制約を明記している。「Sitesはローンチ時点でデータレジデンシーにも推論レジデンシーにも対応しない」。対象外となるのは、デプロイ済みのSites、Siteのコード、D1とR2のデータおよびファイルストレージ、生成された成果物、ログだ。"
-              },
-              {
-                "t": "p",
-                "x": "SitesはChatGPT Plus、Pro、Business、Enterprise、Eduの各プランで公開ベータとして提供され、プランごとに利用上限がある。各Siteには10 GB のD1データベースストレージとR2オブジェクトストレージが付く。HTTP、HTTPS、WebSocketsには対応するが、raw TCPには対応しない。"
-              },
-              {
-                "t": "p",
-                "x": "Siteの削除は取り消せない。Enterpriseワークスペースでは公開がデフォルトでオフになっており、ネットワークアクセスエディターは最大1,024件の宛先ルールに対応する。OpenAIは、健康情報や決済カードデータの処理、金融取引を可能にする用途などを禁じている。"
-              },
-              {
-                "t": "p",
-                "x": "9月29日のリリースノートにより、PlusとProのオーナーと編集者は公開済みのSiteをChatGPT上で引き続き編集できるようになった。7月9日のローンチ時に設けられた、EEA、スイス、UKを除外する地域制限については、変更の発表はない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ChatGPT Sites\n公测开放网站托管",
-          "body": "ChatGPT为五种套餐的订阅用户托管网站、网页应用和游戏，但上线时不支持数据驻留。",
-          "mini_headline": "ChatGPT Sites托管网站",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT将为五种套餐的订阅用户托管网站、网页应用或游戏，OpenAI的文档写明了一项限制：“Sites在上线时不支持数据驻留或推理驻留。”该例外涵盖已部署的Sites、Site代码、D1和R2数据与文件存储、生成的产物以及日志。"
-              },
-              {
-                "t": "p",
-                "x": "Sites已在ChatGPT Plus、Pro、Business、Enterprise和Edu套餐中公测，各套餐有不同的使用限额。每个Site可获得10 GB 的D1数据库存储以及R2对象存储；支持HTTP、HTTPS和WebSockets，不支持raw TCP。"
-              },
-              {
-                "t": "p",
-                "x": "删除Site不可恢复。在Enterprise工作区中，公开发布默认关闭，网络访问编辑器最多支持1,024条目标规则。OpenAI禁止处理健康或支付卡数据、支持金融交易等用途。"
-              },
-              {
-                "t": "p",
-                "x": "9月29日的发布说明显示，Plus和Pro的所有者与编辑者可以继续在ChatGPT中编辑已发布的Site。7月9日上线时设定的地区限制（不含EEA、瑞士和UK）尚未宣布任何变化。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "ChatGPT Sites ya aloja tu web\nen beta pública",
-          "body": "ChatGPT aloja webs, aplicaciones web y juegos en cinco planes, pero sin residencia de datos en el lanzamiento.",
-          "mini_headline": "ChatGPT Sites aloja sitios web",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT alojará un sitio web, una aplicación web o un juego para los suscriptores de cinco de sus planes, y la documentación de OpenAI deja por escrito un límite: “Sites no admite residencia de datos ni residencia de inferencia en el lanzamiento”. La exclusión abarca los Sites desplegados, el código de cada Site, los datos y el almacenamiento de archivos de D1 y R2, los artefactos generados y los registros."
-              },
-              {
-                "t": "p",
-                "x": "Sites está en beta pública en los planes ChatGPT Plus, Pro, Business, Enterprise y Edu, con límites de uso específicos de cada plan. Cada Site recibe 10 GB de almacenamiento de base de datos D1 junto con almacenamiento de objetos R2; se admiten HTTP, HTTPS y WebSockets, pero no TCP raw."
-              },
-              {
-                "t": "p",
-                "x": "Eliminar un Site es permanente. En los espacios de trabajo Enterprise, la publicación pública está desactivada por defecto, y un editor de acceso a la red admite hasta 1,024 reglas de destino. OpenAI prohíbe usos como el tratamiento de datos de salud o de tarjetas de pago, o la habilitación de transacciones financieras."
-              },
-              {
-                "t": "p",
-                "x": "Las notas de versión del 29 de septiembre permiten a los propietarios y editores de Plus y Pro seguir editando un Site publicado en ChatGPT. La restricción regional fijada en el lanzamiento del 9 de julio, que excluye el Espacio Económico Europeo (EEA), Suiza y el Reino Unido (UK), no ha tenido cambios anunciados."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "ChatGPT Sites\n공개 베타로 웹 호스팅",
-          "body": "ChatGPT가 다섯 요금제에 웹 호스팅을 열었지만 데이터 상주는 빠졌다.",
-          "mini_headline": "ChatGPT Sites, 웹사이트 호스팅",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://mixed-news.com/en/wp-content/uploads/2026/09/SEO_Banner_2400x1350_04-1200x675.png"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT가 다섯 개 요금제 구독자의 웹사이트, 웹 앱, 게임을 호스팅한다. OpenAI 문서는 한 가지 제한을 명시했다. “Sites는 출시 시점에 데이터 상주나 추론 상주를 지원하지 않는다.” 이 제외 대상에는 배포된 Sites, Site 코드, D1·R2 데이터와 파일 저장소, 생성된 결과물, 로그가 포함된다."
-              },
-              {
-                "t": "p",
-                "x": "Sites는 ChatGPT Plus, Pro, Business, Enterprise, Edu 요금제에서 공개 베타로 제공되며, 요금제별 사용 한도가 있다. 각 Site에는 R2 객체 저장소와 함께 10 GB의 D1 데이터베이스 저장 공간이 주어진다. HTTP, HTTPS, WebSockets는 지원하지만 raw TCP는 지원하지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Site 삭제는 되돌릴 수 없다. Enterprise 워크스페이스에서는 공개 게시가 기본적으로 꺼져 있고, 네트워크 접근 편집기는 최대 1,024개의 목적지 규칙을 지원한다. OpenAI는 건강 정보나 결제 카드 데이터 처리, 금융 거래 기능 등의 용도를 금지한다."
-              },
-              {
-                "t": "p",
-                "x": "9월 29일 릴리스 노트에 따라 Plus와 Pro의 소유자와 편집자는 게시된 Site를 ChatGPT 안에서 계속 편집할 수 있다. 7월 9일 출시 때 EEA, 스위스, UK를 제외한 지역 제한은 변경 발표가 없었다."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "premiere-android-free-firefly",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "무료 Premiere\nAndroid에 AI 편집",
-      "body": "무료 Premiere에 Enhance Audio와 Firefly 도구가 담겼다.",
-      "mini_headline": "Premiere, Android에서 무료",
-      "tool": "AI Workflow",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-            "cap": "Premiere mobile은 일상 브이로그부터 튜토리얼, 팟캐스트 클립, 소셜 콘텐츠까지 무엇이든 만들고 편집하는 앱이다 (Image credit: Adobe)"
-          },
-          {
-            "t": "p",
-            "x": "지난해 iPhone에 먼저 나온 Premiere mobile이 Android에도 나왔다. 무료다. Creative Cloud 구독이 필요 없고 기본 편집이라면 Adobe 계정조차 없어도 된다. 워터마크나 광고, 업그레이드 권유도 없다."
-          },
-          {
-            "t": "p",
-            "x": "무료 버전에도 멀티트랙 타임라인, 프레임 단위 정밀 편집, 앱 안에서 하는 보이스오버 녹음이 있다. 탭 한 번에 배경 소음을 걷어내는 Enhance Audio도 들어 있다. 크리에이터가 만든 템플릿과 무제한 4K 내보내기까지 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-            "cap": "AI 기반(AI-powered) Enhance Audio는 잡음 섞인 녹음을 쉽게 정리해 대사를 더 또렷하게 만든다 (Image credit: Adobe)"
-          },
-          {
-            "t": "p",
-            "x": "Generative Fill, Image-to-Video, Generate Sound Effects 같은 Firefly 기반(Firefly-powered) 기능에는 따로 사야 하는 생성형 크레디트가 든다. 앱을 쓰려면 Android 13 이상, RAM 5GB 이상이 필요하다. 키프레임, 비트 감지, Adobe Fonts, 향상된 자막, 데스크톱에서 프로젝트 이어 하기에는 아직 “곧 출시” 표시가 붙어 있다."
-          },
-          {
-            "t": "p",
-            "x": "무료 Premiere는 신뢰부터 얻고 돈은 나중에 받거나, 어쩌면 끝내 받지 않는다. 휴대폰으로 시작하는 세대의 크리에이터를 Adobe가 대할 방식은 바로 이것이라고 필자는 주장한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Free Premiere on Android\nbrings AI video editing",
-          "body": "Adobe's free Premiere for Android pairs Enhance Audio with credit-based Firefly tools like Generative Fill.",
-          "mini_headline": "Premiere goes free on Android",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-                "cap": "Premiere mobile is an app for creating and editing everything from day-in-the-life vlogs to tutorials, podcast clips and social content (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Premiere mobile, which launched on iPhone last year, has arrived on Android, and it's free. You don't need a Creative Cloud subscription, or for basic editing even an Adobe account, and there are no watermarks, ads or upgrade prompts."
-              },
-              {
-                "t": "p",
-                "x": "The free tier includes a multi-track timeline, frame-accurate editing, in-app voiceover recording and Enhance Audio, which cleans up background noise in a single tap, plus creator-made templates and unlimited 4K exports."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-                "cap": "AI-powered Enhance Audio makes it easy to clean up noisy recordings and improve the clarity of dialogue (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Firefly-powered features such as Generative Fill, Image-to-Video and Generate Sound Effects run on generative credits, which you'll have to buy. The app requires Android 13 or later and at least 5GB of RAM, and keyframes, beat detection, Adobe Fonts, enhanced captions and continuing a project on desktop are marked “coming soon”."
-              },
-              {
-                "t": "p",
-                "x": "Free Premiere earns trust first and asks for money later, or maybe never, which the author argues is exactly how Adobe should treat a generation of creators starting out on phones."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "무료 Premiere\nAndroid에 AI 편집",
-          "body": "무료 Premiere에 Enhance Audio와 Firefly 도구가 담겼다.",
-          "mini_headline": "Premiere, Android에서 무료",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-                "cap": "Premiere mobile은 일상 브이로그부터 튜토리얼, 팟캐스트 클립, 소셜 콘텐츠까지 무엇이든 만들고 편집하는 앱이다 (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "지난해 iPhone에 먼저 나온 Premiere mobile이 Android에도 나왔다. 무료다. Creative Cloud 구독이 필요 없고 기본 편집이라면 Adobe 계정조차 없어도 된다. 워터마크나 광고, 업그레이드 권유도 없다."
-              },
-              {
-                "t": "p",
-                "x": "무료 버전에도 멀티트랙 타임라인, 프레임 단위 정밀 편집, 앱 안에서 하는 보이스오버 녹음이 있다. 탭 한 번에 배경 소음을 걷어내는 Enhance Audio도 들어 있다. 크리에이터가 만든 템플릿과 무제한 4K 내보내기까지 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-                "cap": "AI 기반(AI-powered) Enhance Audio는 잡음 섞인 녹음을 쉽게 정리해 대사를 더 또렷하게 만든다 (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill, Image-to-Video, Generate Sound Effects 같은 Firefly 기반(Firefly-powered) 기능에는 따로 사야 하는 생성형 크레디트가 든다. 앱을 쓰려면 Android 13 이상, RAM 5GB 이상이 필요하다. 키프레임, 비트 감지, Adobe Fonts, 향상된 자막, 데스크톱에서 프로젝트 이어 하기에는 아직 “곧 출시” 표시가 붙어 있다."
-              },
-              {
-                "t": "p",
-                "x": "무료 Premiere는 신뢰부터 얻고 돈은 나중에 받거나, 어쩌면 끝내 받지 않는다. 휴대폰으로 시작하는 세대의 크리에이터를 Adobe가 대할 방식은 바로 이것이라고 필자는 주장한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "無料のPremiere\nAndroidでAI編集",
-          "body": "無料のPremiereはEnhance Audioとクレジット制のFireflyを備える。",
-          "mini_headline": "PremiereがAndroidで無料に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-                "cap": "Premiere mobileは、日常のVlogからチュートリアル、ポッドキャストのクリップ、ソーシャル向けコンテンツまで、あらゆるものを作成・編集できるアプリだ(Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "昨年iPhone向けに登場したPremiere mobileがAndroidにも登場し、しかも無料だ。Creative Cloudのサブスクリプションは不要で、基本的な編集ならAdobeアカウントすらいらない。透かし、広告、アップグレードの勧誘もない。"
-              },
-              {
-                "t": "p",
-                "x": "無料版には、マルチトラックのタイムライン、フレーム単位の正確な編集、アプリ内でのボイスオーバー録音、ワンタップで背景ノイズを除去するEnhance Audioが含まれる。クリエイター制作のテンプレートや無制限の4K 書き出しも使える。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-                "cap": "AI搭載(AI-powered)のEnhance Audioで、ノイズの多い録音を手軽に整え、セリフを聞き取りやすくできる(Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill、Image-to-Video、Generate Sound EffectsといったFirefly搭載(Firefly-powered)の機能は、別途購入が必要な生成クレジットで動く。アプリにはAndroid 13以降と5GB 以上のRAMが必要だ。キーフレーム、ビート検出、Adobe Fonts、強化されたキャプション、デスクトップでのプロジェクト継続は「近日公開」と表示されている。"
-              },
-              {
-                "t": "p",
-                "x": "無料のPremiereはまず信頼を得て、お金を求めるのは後回し、あるいは求めないかもしれない。筆者は、スマートフォンから始める世代のクリエイターにAdobeが取るべき姿勢はまさにこれだと主張する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "免费版Premiere\n带来Android AI剪辑",
-          "body": "免费Premiere集成Enhance Audio与按积分计费的Firefly工具。",
-          "mini_headline": "Premiere在Android上免费",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-                "cap": "Premiere mobile是一款可创作和编辑各类内容的应用，从日常vlog到教程、播客片段和社交内容皆可（Image credit: Adobe）"
-              },
-              {
-                "t": "p",
-                "x": "去年在iPhone上推出的Premiere mobile现已登陆Android，而且免费。无需Creative Cloud订阅，基础编辑甚至不需要Adobe账户，也没有水印、广告或升级提示。"
-              },
-              {
-                "t": "p",
-                "x": "免费版包括多轨时间线、逐帧精确剪辑、应用内配音录制，以及一键清除背景噪音的Enhance Audio，另有创作者制作的模板和无限次4K 导出。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-                "cap": "AI驱动（AI-powered）的Enhance Audio可轻松清理嘈杂录音，让对白更清晰（Image credit: Adobe）"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill、Image-to-Video和Generate Sound Effects等由Firefly驱动（Firefly-powered）的功能需消耗生成式积分，且积分需另行购买。该应用要求Android 13或更高版本以及至少5GB RAM。关键帧、节拍检测、Adobe Fonts、增强字幕以及在桌面端继续项目等功能标注为“即将推出”。"
-              },
-              {
-                "t": "p",
-                "x": "免费的Premiere先赢得信任，之后再收费，甚至可能永远不收。作者认为，这正是Adobe对待从手机起步的一代创作者应有的方式。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Premiere gratis en Android\ntrae edición de video con AI",
-          "body": "El Premiere gratuito para Android une Enhance Audio y herramientas Firefly por créditos, como Generative Fill.",
-          "mini_headline": "Premiere llega gratis a Android",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-                "cap": "Premiere mobile es una app para crear y editar de todo, desde vlogs del día a día hasta tutoriales, clips de pódcast y contenido para redes sociales (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Premiere mobile, que llegó a iPhone el año pasado, ya está en Android y es gratis. No hace falta una suscripción a Creative Cloud ni, para la edición básica, siquiera una cuenta de Adobe, y no hay marcas de agua, anuncios ni avisos para actualizar."
-              },
-              {
-                "t": "p",
-                "x": "La versión gratuita incluye una línea de tiempo multipista, edición con precisión de fotograma, grabación de voz en off dentro de la app y Enhance Audio, que elimina el ruido de fondo con un solo toque, además de plantillas hechas por creadores y exportaciones 4K ilimitadas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-                "cap": "Enhance Audio, con tecnología AI (AI-powered), facilita limpiar grabaciones ruidosas y mejorar la claridad de los diálogos (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Las funciones Firefly-powered (basadas en Firefly), como Generative Fill, Image-to-Video y Generate Sound Effects, consumen créditos generativos que hay que comprar. La app requiere Android 13 o posterior y al menos 5GB de RAM; los fotogramas clave, la detección de ritmo, Adobe Fonts, los subtítulos mejorados y continuar un proyecto en el escritorio aparecen como “próximamente”."
-              },
-              {
-                "t": "p",
-                "x": "El Premiere gratuito se gana primero la confianza y pide dinero después, o quizá nunca, lo que según el autor es exactamente como Adobe debería tratar a una generación de creadores que empieza con el teléfono."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "무료 Premiere\nAndroid에 AI 편집",
-          "body": "무료 Premiere에 Enhance Audio와 Firefly 도구가 담겼다.",
-          "mini_headline": "Premiere, Android에서 무료",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-                "cap": "Premiere mobile은 일상 브이로그부터 튜토리얼, 팟캐스트 클립, 소셜 콘텐츠까지 무엇이든 만들고 편집하는 앱이다 (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "지난해 iPhone에 먼저 나온 Premiere mobile이 Android에도 나왔고, 무료다. Creative Cloud 구독은 필요 없고, 기본 편집이라면 Adobe 계정조차 없어도 된다. 워터마크나 광고, 업그레이드 권유도 없다."
-              },
-              {
-                "t": "p",
-                "x": "무료 버전에는 멀티트랙 타임라인, 프레임 단위의 정밀 편집, 앱 내 보이스오버 녹음, 한 번의 탭으로 배경 소음을 정리하는 Enhance Audio가 들어 있다. 크리에이터가 만든 템플릿과 무제한 4K 내보내기도 지원한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-                "cap": "AI 기반(AI-powered) Enhance Audio로 잡음 섞인 녹음을 쉽게 정리하고 대사를 더 또렷하게 만들 수 있다 (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill, Image-to-Video, Generate Sound Effects 같은 Firefly 기반(Firefly-powered) 기능은 따로 구매해야 하는 생성형 크레디트를 쓴다. 앱은 Android 13 이상, RAM 5GB 이상을 요구한다. 키프레임, 비트 감지, Adobe Fonts, 향상된 자막, 데스크톱에서 프로젝트 이어 하기는 “곧 출시”로 표시돼 있다."
-              },
-              {
-                "t": "p",
-                "x": "무료 Premiere는 먼저 신뢰를 얻고 돈은 나중에, 어쩌면 끝내 요구하지 않는다. 필자는 이것이야말로 휴대폰으로 시작하는 세대의 크리에이터를 Adobe가 대해야 할 방식이라고 주장한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "無料のPremiere\nAndroidでAI編集",
-          "body": "無料のPremiereはEnhance Audioとクレジット制のFireflyを備える。",
-          "mini_headline": "PremiereがAndroidで無料に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-                "cap": "Premiere mobileは、日常のVlogからチュートリアル、ポッドキャストのクリップ、ソーシャル向けコンテンツまで、あらゆるものを作成・編集できるアプリだ(Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "昨年iPhone向けに登場したPremiere mobileがAndroidにも登場し、しかも無料だ。Creative Cloudのサブスクリプションは不要で、基本的な編集ならAdobeアカウントすらいらない。透かし、広告、アップグレードの勧誘もない。"
-              },
-              {
-                "t": "p",
-                "x": "無料版には、マルチトラックのタイムライン、フレーム単位の正確な編集、アプリ内でのボイスオーバー録音、ワンタップで背景ノイズを除去するEnhance Audioが含まれる。クリエイター制作のテンプレートや無制限の4K 書き出しも使える。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-                "cap": "AI搭載(AI-powered)のEnhance Audioで、ノイズの多い録音を手軽に整え、セリフを聞き取りやすくできる(Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill、Image-to-Video、Generate Sound EffectsといったFirefly搭載(Firefly-powered)の機能は、別途購入が必要な生成クレジットで動く。アプリにはAndroid 13以降と5GB 以上のRAMが必要だ。キーフレーム、ビート検出、Adobe Fonts、強化されたキャプション、デスクトップでのプロジェクト継続は「近日公開」と表示されている。"
-              },
-              {
-                "t": "p",
-                "x": "無料のPremiereはまず信頼を得て、お金を求めるのは後回し、あるいは求めないかもしれない。筆者は、スマートフォンから始める世代のクリエイターにAdobeが取るべき姿勢はまさにこれだと主張する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "免费版Premiere\n带来Android AI剪辑",
-          "body": "免费Premiere集成Enhance Audio与按积分计费的Firefly工具。",
-          "mini_headline": "Premiere在Android上免费",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-                "cap": "Premiere mobile是一款可创作和编辑各类内容的应用，从日常vlog到教程、播客片段和社交内容皆可（Image credit: Adobe）"
-              },
-              {
-                "t": "p",
-                "x": "去年在iPhone上推出的Premiere mobile现已登陆Android，而且免费。无需Creative Cloud订阅，基础编辑甚至不需要Adobe账户，也没有水印、广告或升级提示。"
-              },
-              {
-                "t": "p",
-                "x": "免费版包括多轨时间线、逐帧精确剪辑、应用内配音录制，以及一键清除背景噪音的Enhance Audio，另有创作者制作的模板和无限次4K 导出。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-                "cap": "AI驱动（AI-powered）的Enhance Audio可轻松清理嘈杂录音，让对白更清晰（Image credit: Adobe）"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill、Image-to-Video和Generate Sound Effects等由Firefly驱动（Firefly-powered）的功能需消耗生成式积分，且积分需另行购买。该应用要求Android 13或更高版本以及至少5GB RAM。关键帧、节拍检测、Adobe Fonts、增强字幕以及在桌面端继续项目等功能标注为“即将推出”。"
-              },
-              {
-                "t": "p",
-                "x": "免费的Premiere先赢得信任，之后再收费，甚至可能永远不收。作者认为，这正是Adobe对待从手机起步的一代创作者应有的方式。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Premiere gratis en Android\ntrae edición de video con AI",
-          "body": "El Premiere gratuito para Android une Enhance Audio y herramientas Firefly por créditos, como Generative Fill.",
-          "mini_headline": "Premiere llega gratis a Android",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/gYWaT7CUePYPDC2gyF8aCb.jpg",
-                "cap": "Premiere mobile es una app para crear y editar de todo, desde vlogs del día a día hasta tutoriales, clips de pódcast y contenido para redes sociales (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Premiere mobile, que llegó a iPhone el año pasado, ya está en Android y es gratis. No hace falta una suscripción a Creative Cloud ni, para la edición básica, siquiera una cuenta de Adobe, y no hay marcas de agua, anuncios ni avisos para actualizar."
-              },
-              {
-                "t": "p",
-                "x": "La versión gratuita incluye una línea de tiempo multipista, edición con precisión de fotograma, grabación de voz en off dentro de la app y Enhance Audio, que elimina el ruido de fondo con un solo toque, además de plantillas hechas por creadores y exportaciones 4K ilimitadas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2LRNauDXVyADzTkNgf459b.jpg",
-                "cap": "Enhance Audio, con tecnología AI (AI-powered), facilita limpiar grabaciones ruidosas y mejorar la claridad de los diálogos (Image credit: Adobe)"
-              },
-              {
-                "t": "p",
-                "x": "Las funciones Firefly-powered (basadas en Firefly), como Generative Fill, Image-to-Video y Generate Sound Effects, consumen créditos generativos que hay que comprar. La app requiere Android 13 o posterior y al menos 5GB de RAM; los fotogramas clave, la detección de ritmo, Adobe Fonts, los subtítulos mejorados y continuar un proyecto en el escritorio aparecen como “próximamente”."
-              },
-              {
-                "t": "p",
-                "x": "El Premiere gratuito se gana primero la confianza y pide dinero después, o quizá nunca, lo que según el autor es exactamente como Adobe debería tratar a una generación de creadores que empieza con el teléfono."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "aholo-lux3d-blender-agent",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Aholo Lux3D,\n사진 세 장을 3D로",
-      "body": "에이전트가 Lux3D로 사진 세 장을 청동상으로 바꾸고 Blender로 마감했다.",
-      "mini_headline": "Lux3D, 사진을 3D로",
+      "headline": "Adobe Firefly\ntext-to-3D 특허",
+      "body": "USPTO에 Adobe의 text-to-3D 특허 출원이 공개됐지만 구상 단계다.",
+      "mini_headline": "Adobe의 text-to-3D 특허",
       "tool": "KeyShot",
-      "source": "Pandaily",
-      "url": "https://pandaily.com/manycore-aholo-lux3d-blender-agent-3d-ai-harness-workflow",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1467,173 +613,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+            "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+            "cap": "Adobe의 text-to-3D 세계 구상 (Image: Adobe / USPTO)"
           },
           {
             "t": "p",
-            "x": "Leiphone이 9월 30일 공개한 실사용 테스트는 Aholo Lux3D가 에이전트 중심 파이프라인 안에서 한 구성 요소로 어떻게 돌아가는지 보여 준다. 항저우의 Manycore Tech가 만든 3D 생성 모델이다. Leiphone은 이 구조를 3D AI 하네스라고 부른다. 범용 에이전트가 작업을 계획해 나누면 전문 모델이 에셋을 만들고, Blender 같은 소프트웨어가 결과물을 점검해 마무리한다."
+            "x": "Adobe는 최근 몇 년 동안 Firefly의 이미지·영상 모델부터 Photoshop의 AI Relight까지 AI 도구를 잇달아 내놓았다. 이번에 무더기로 공개된 특허 출원을 보면 지금은 존재감이 거의 없는 분야까지 포함해 Adobe의 다음 행보를 짐작할 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+            "cap": "Adobe의 AI text-to-3D 세계 생성기 특허 (Image: Adobe / USPTO)"
           },
           {
             "t": "p",
-            "x": "Lux3D는 이미지 한 장이나 텍스트 프롬프트 하나로 지오메트리와 PBR 재질을 갖춘 3D 모델을 만든다. 등급은 Turbo와 Standard가 있고, API, 에이전트 스킬, MCP 서버, Codex 플러그인 형태로 쓸 수 있다."
+            "x": "특허 추적 서비스 Patentlyze가 찾아낸 USPTO 출원서 하나는 텍스트로 탐색 가능한 3D 세계를 만드는 방법을 설명한다. \"a foggy Japanese garden at dusk\"(해 질 녘 안개 낀 일본 정원) 같은 프롬프트를 넣으면 먼저 360 뷰 같은 구형 2D 중간 이미지가 나온다. 두 번째 AI 과정이 이 이미지를 토대로 3D 지오메트리를 쌓는다. 사용자는 결과물을 여러 시점에서 보고 그 안을 앞뒤로 오갈 수 있다."
           },
           {
             "t": "p",
-            "x": "Leiphone은 Codex에서 돌아가는 GPT-6 Astra에 원명원 십이지 컬렉션의 청동 쥐 머리 사진 세 장을 줬다. 에이전트는 G1-Turbo로 초안을 뽑고 G1으로 넘어간 다음, 결과물을 Blender에서 열어 받침대를 붙이고 세 각도에서 렌더링했다. 시간은 약 92.9초와 559.7초, 비용은 크레디트 21개(약 1.47위안)였다."
+            "x": "지금은 3D 환경 제작이 느리다. 조각하고 채색한 에셋이 수백 개씩 필요한 경우도 많다. Adobe의 Substance 앱이 이 파이프라인 일부를 맡지만 Substance 3D Modeler는 ZBrush와 Blender에 비하면 아직 틈새 도구이고 Firefly-powered 도구도 없다. 가장 가까운 기존 제품인 Blockade Labs의 Skybox AI도 탐색 가능한 환경이 아니라 360-degree 장면을 생성한다."
           },
           {
             "t": "p",
-            "x": "Leiphone의 평가로는 모델이 핵심 특징과 표면의 미세하게 움푹 팬 자국까지 살렸다. 다만 지나치게 평평한 뒷면과 일부 자국에는 AI 추론의 흔적이 남았다."
+            "x": "Adobe가 최근 낸 다른 출원에는 사진 한 장으로 새 카메라 앵글을 만드는 AI, 3D 모델 사이의 재질 매칭, 3D 의상 미리보기가 들어 있다. Creative Bloq는 특허를 출원했다고 해서 곧 제품을 내놓는다는 뜻은 아니라고 짚는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Aholo Lux3D turns three photos\ninto an editable 3D asset",
-          "body": "An AI agent drove Aholo Lux3D to turn three photos into an editable bronze sculpture that Blender then finished.",
-          "mini_headline": "Lux3D turns photos into 3D",
+          "headline": "Adobe patents point Firefly\ntoward text-to-3D worlds",
+          "body": "Newly published USPTO filings show Adobe seeking patents on text-to-3D world generation, a concept, not a shipped tool.",
+          "mini_headline": "Adobe's text-to-3D patents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+                "cap": "Adobe's text-to-3D world concept (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "A hands-on test published by Leiphone on September 30 shows how Aholo Lux3D, the 3D generation model built by Hangzhou-based Manycore Tech, can act as one component in an agent-driven pipeline. Leiphone calls it a 3D AI harness: a general-purpose agent plans and dispatches the work, a specialist model generates the assets, and software such as Blender checks and finishes them."
+                "x": "Adobe has rolled out a string of AI tools in recent years, from Firefly's image and video models to Photoshop's AI Relight. A large batch of newly published patent filings suggests where it could go next, including areas where Adobe has little presence today."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+                "cap": "Adobe patent for an AI text-to-3D world generator (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Lux3D turns a single image or text prompt into a 3D model with geometry and PBR materials, in Turbo and Standard tiers, and is available via API, agent skills, an MCP server and a Codex plugin."
+                "x": "Spotted by patent tracker Patentlyze, one USPTO filing describes a method for creating navigable 3D worlds from text. A prompt such as \"a foggy Japanese garden at dusk\" would first produce an intermediate spherical 2D image, like a 360 view, which a second AI process would then use as the basis for building 3D geometry. Users could view the result from multiple perspectives and move forwards and backwards through it."
               },
               {
                 "t": "p",
-                "x": "Leiphone gave GPT-6 Astra, running in Codex, three photos of the bronze rat head from the Old Summer Palace zodiac collection. The agent drafted with G1-Turbo, moved to G1, then opened the result in Blender, added a plinth and rendered three angles. The passes took about 92.9 and 559.7 seconds and 21 credits, roughly 1.47 yuan."
+                "x": "Building 3D environments today is slow, often requiring hundreds of sculpted and painted assets. Adobe's Substance apps cover parts of that pipeline, but Substance 3D Modeler remains niche next to ZBrush and Blender and has no Firefly-powered tools yet. The closest existing products, such as Blockade Labs' Skybox AI, generate 360-degree scenes rather than navigable environments."
               },
               {
                 "t": "p",
-                "x": "Leiphone said the model preserved the key features and fine surface dents, though an overly flat back and some dents showed signs of AI inference."
+                "x": "Other recent Adobe filings cover AI that builds new camera angles from a single photo, material matching across 3D models and 3D garment previews. Creative Bloq notes that a patent application doesn't necessarily signal plans to ship a product."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Aholo Lux3D,\n사진 세 장을 3D로",
-          "body": "에이전트가 Lux3D로 사진 세 장을 청동상으로 바꾸고 Blender로 마감했다.",
-          "mini_headline": "Lux3D, 사진을 3D로",
+          "headline": "Adobe Firefly\ntext-to-3D 특허",
+          "body": "USPTO에 Adobe의 text-to-3D 특허 출원이 공개됐지만 구상 단계다.",
+          "mini_headline": "Adobe의 text-to-3D 특허",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+                "cap": "Adobe의 text-to-3D 세계 구상 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Leiphone이 9월 30일 공개한 실사용 테스트는 Aholo Lux3D가 에이전트 중심 파이프라인 안에서 한 구성 요소로 어떻게 돌아가는지 보여 준다. 항저우의 Manycore Tech가 만든 3D 생성 모델이다. Leiphone은 이 구조를 3D AI 하네스라고 부른다. 범용 에이전트가 작업을 계획해 나누면 전문 모델이 에셋을 만들고, Blender 같은 소프트웨어가 결과물을 점검해 마무리한다."
+                "x": "Adobe는 최근 몇 년 동안 Firefly의 이미지·영상 모델부터 Photoshop의 AI Relight까지 AI 도구를 잇달아 내놓았다. 이번에 무더기로 공개된 특허 출원을 보면 지금은 존재감이 거의 없는 분야까지 포함해 Adobe의 다음 행보를 짐작할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+                "cap": "Adobe의 AI text-to-3D 세계 생성기 특허 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Lux3D는 이미지 한 장이나 텍스트 프롬프트 하나로 지오메트리와 PBR 재질을 갖춘 3D 모델을 만든다. 등급은 Turbo와 Standard가 있고, API, 에이전트 스킬, MCP 서버, Codex 플러그인 형태로 쓸 수 있다."
+                "x": "특허 추적 서비스 Patentlyze가 찾아낸 USPTO 출원서 하나는 텍스트로 탐색 가능한 3D 세계를 만드는 방법을 설명한다. \"a foggy Japanese garden at dusk\"(해 질 녘 안개 낀 일본 정원) 같은 프롬프트를 넣으면 먼저 360 뷰 같은 구형 2D 중간 이미지가 나온다. 두 번째 AI 과정이 이 이미지를 토대로 3D 지오메트리를 쌓는다. 사용자는 결과물을 여러 시점에서 보고 그 안을 앞뒤로 오갈 수 있다."
               },
               {
                 "t": "p",
-                "x": "Leiphone은 Codex에서 돌아가는 GPT-6 Astra에 원명원 십이지 컬렉션의 청동 쥐 머리 사진 세 장을 줬다. 에이전트는 G1-Turbo로 초안을 뽑고 G1으로 넘어간 다음, 결과물을 Blender에서 열어 받침대를 붙이고 세 각도에서 렌더링했다. 시간은 약 92.9초와 559.7초, 비용은 크레디트 21개(약 1.47위안)였다."
+                "x": "지금은 3D 환경 제작이 느리다. 조각하고 채색한 에셋이 수백 개씩 필요한 경우도 많다. Adobe의 Substance 앱이 이 파이프라인 일부를 맡지만 Substance 3D Modeler는 ZBrush와 Blender에 비하면 아직 틈새 도구이고 Firefly-powered 도구도 없다. 가장 가까운 기존 제품인 Blockade Labs의 Skybox AI도 탐색 가능한 환경이 아니라 360-degree 장면을 생성한다."
               },
               {
                 "t": "p",
-                "x": "Leiphone의 평가로는 모델이 핵심 특징과 표면의 미세하게 움푹 팬 자국까지 살렸다. 다만 지나치게 평평한 뒷면과 일부 자국에는 AI 추론의 흔적이 남았다."
+                "x": "Adobe가 최근 낸 다른 출원에는 사진 한 장으로 새 카메라 앵글을 만드는 AI, 3D 모델 사이의 재질 매칭, 3D 의상 미리보기가 들어 있다. Creative Bloq는 특허를 출원했다고 해서 곧 제품을 내놓는다는 뜻은 아니라고 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Aholo Lux3D\n写真三枚を3D 資産に",
-          "body": "AIエージェントがLux3Dで写真三枚から編集可能な銅像を作り、Blenderで仕上げた。",
-          "mini_headline": "Lux3Dが写真を3Dに",
+          "headline": "Adobe Firefly\ntext-to-3Dの特許",
+          "body": "USPTOの公開出願でAdobeのtext-to-3D特許が判明したが、構想段階だ。",
+          "mini_headline": "Adobeのtext-to-3D特許",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+                "cap": "Adobeのtext-to-3Dワールド構想 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Leiphoneが9月30日に公開した実機テストは、杭州を拠点とするManycore Techが開発した3D 生成モデルAholo Lux3Dが、エージェント主導のパイプラインの一部品としてどう機能するかを示している。Leiphoneはこれを3D AIハーネスと呼ぶ。汎用エージェントが作業を計画して振り分け、専門モデルがアセットを生成し、Blenderなどのソフトウェアが確認と仕上げを担う。"
+                "x": "Adobeはここ数年、Fireflyの画像・動画モデルからPhotoshopのAI Relightまで、AIツールを次々と投入してきた。新たに公開された大量の特許出願は、Adobeが現在ほとんど存在感を持たない分野も含め、次に向かう先を示唆している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+                "cap": "AI text-to-3Dワールド生成器に関するAdobeの特許 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Lux3Dは単一の画像またはテキストプロンプトから、ジオメトリとPBRマテリアルを備えた3D モデルを生成する。TurboとStandardのティアがあり、API、エージェントスキル、MCPサーバー、Codexプラグインから利用できる。"
+                "x": "特許トラッカーのPatentlyzeが見つけたUSPTO出願の一つは、テキストから移動可能な3Dワールドを作る手法を説明している。\"a foggy Japanese garden at dusk\"（夕暮れの霧がかった日本庭園）のようなプロンプトから、まず360ビューのような球状の中間2D画像を生成し、続く2段階目のAI処理がそれを基に3Dジオメトリを構築する。ユーザーは結果を複数の視点から眺め、その中を前後に移動できる。"
               },
               {
                 "t": "p",
-                "x": "LeiphoneはCodex上で動くGPT-6 Astraに、円明園の十二支コレクションにあるブロンズの鼠首の写真三枚を渡した。エージェントはG1-Turboで下書きを作り、G1に移行したうえで結果をBlenderで開き、台座を加えて三つの角度からレンダリングした。処理には約92.9秒と559.7秒、21クレジット、およそ1.47元を要した。"
+                "x": "現在、3D環境の構築には時間がかかり、彫刻・ペイントされたアセットが数百点必要になることも多い。AdobeのSubstanceアプリはそのパイプラインの一部を担うが、Substance 3D ModelerはZBrushやBlenderに比べてまだニッチで、Firefly-poweredのツールもない。Blockade LabsのSkybox AIなど最も近い既存製品は、移動可能な環境ではなく360-degreeのシーンを生成する。"
               },
               {
                 "t": "p",
-                "x": "Leiphoneによれば、モデルは主要な特徴や表面の細かなへこみを保っていたが、平らすぎる背面や一部のへこみにはAIによる推測の跡が見られたという。"
+                "x": "Adobeの最近のほかの出願には、1枚の写真から新しいカメラアングルを作るAI、3Dモデル間のマテリアルマッチング、3D衣服プレビューなどがある。Creative Bloqは、特許出願が必ずしも製品化の計画を意味するわけではないと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Aholo Lux3D\n把三张照片变成3D 资产",
-          "body": "AI智能体用Aholo Lux3D把三张照片变成可编辑的青铜雕塑，再交Blender收尾。",
-          "mini_headline": "Lux3D把照片变成3D",
+          "headline": "Adobe Firefly\ntext-to-3D专利曝光",
+          "body": "公开的USPTO文件显示Adobe申请text-to-3D世界生成专利，仅为概念而非产品。",
+          "mini_headline": "Adobe的text-to-3D专利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+                "cap": "Adobe的text-to-3D世界概念 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Leiphone于9月30日发布的一项上手测试显示，杭州公司Manycore Tech打造的3D 生成模型Aholo Lux3D可以作为智能体驱动流水线中的一个组件。Leiphone称之为3D AI harness：通用智能体负责规划和分派任务，专业模型生成资产，再由Blender等软件检查并收尾。"
+                "x": "近年来，Adobe接连推出多款AI工具，从Firefly的图像和视频模型到Photoshop的AI Relight。一批新公开的专利申请暗示了它的下一步方向，其中包括Adobe目前几乎没有涉足的领域。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+                "cap": "Adobe关于AI text-to-3D世界生成器的专利 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Lux3D可将单张图像或文本提示词转化为带有几何结构和PBR材质的3D 模型，提供Turbo和Standard档位，并可通过API、智能体技能、MCP服务器和Codex插件使用。"
+                "x": "专利追踪平台Patentlyze发现的一份USPTO申请，描述了一种由文本生成可漫游3D世界的方法。输入\"a foggy Japanese garden at dusk\"（黄昏时雾气笼罩的日本庭园）这样的提示词后，系统会先生成类似360视图的球形2D中间图像，再由第二个AI流程以此为基础构建3D几何体。用户可以从多个视角查看结果，并在其中前后移动。"
               },
               {
                 "t": "p",
-                "x": "Leiphone向在Codex中运行的GPT-6 Astra提供了圆明园十二生肖兽首中铜鼠首的三张照片。智能体先用G1-Turbo生成草稿，再切换到G1，随后在Blender中打开结果、添加底座并渲染了三个角度。各轮处理分别耗时约92.9秒和559.7秒，消耗21个积分，约合1.47元。"
+                "x": "如今构建3D环境耗时较长，往往需要数以百计经过雕刻和绘制的资产。Adobe的Substance应用覆盖了这一流程的部分环节，但与ZBrush和Blender相比，Substance 3D Modeler仍属小众，也尚无Firefly-powered工具。最接近的现有产品，如Blockade Labs的Skybox AI，生成的是360-degree场景，而非可漫游的环境。"
               },
               {
                 "t": "p",
-                "x": "Leiphone表示，该模型保留了关键特征和表面的细微凹痕，但过于平坦的背部和部分凹痕显露出AI推断的痕迹。"
+                "x": "Adobe近期的其他申请还涉及用单张照片生成新相机角度的AI、3D模型之间的材质匹配以及3D服装预览。Creative Bloq指出，专利申请并不一定意味着有推出产品的计划。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Aholo Lux3D convierte tres fotos\nen un recurso 3D editable",
-          "body": "Un agente de AI usó Aholo Lux3D para convertir tres fotos en una escultura de bronce editable que Blender remató.",
-          "mini_headline": "Lux3D convierte fotos en 3D",
+          "headline": "Patentes de Adobe llevan Firefly\nhacia mundos text-to-3D",
+          "body": "Nuevas solicitudes ante la USPTO muestran que Adobe busca patentar mundos text-to-3D: un concepto, no un producto.",
+          "mini_headline": "Las patentes text-to-3D de Adobe",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+                "cap": "Concepto de mundo text-to-3D de Adobe (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Una prueba práctica publicada por Leiphone el 30 de septiembre muestra cómo Aholo Lux3D, el modelo de generación 3D creado por Manycore Tech, con sede en Hangzhou, puede funcionar como un componente de un pipeline dirigido por agentes. Leiphone lo llama un 3D AI harness: un agente de propósito general planifica y reparte el trabajo, un modelo especializado genera los recursos y un software como Blender los revisa y los termina."
+                "x": "En los últimos años, Adobe ha lanzado una serie de herramientas de AI, desde los modelos de imagen y video de Firefly hasta AI Relight de Photoshop. Un gran lote de solicitudes de patente recién publicadas sugiere hacia dónde podría ir después, incluidas áreas en las que Adobe tiene hoy poca presencia."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+                "cap": "Patente de Adobe para un generador de mundos text-to-3D con AI (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Lux3D convierte una sola imagen o un prompt de texto en un modelo 3D con geometría y materiales PBR, en los niveles Turbo y Standard, y está disponible mediante API, habilidades para agentes, un servidor MCP y un plugin de Codex."
+                "x": "Detectada por el rastreador de patentes Patentlyze, una solicitud ante la USPTO describe un método para crear mundos 3D navegables a partir de texto. Un prompt como \"a foggy Japanese garden at dusk\" (un jardín japonés con niebla al anochecer) produciría primero una imagen 2D esférica intermedia, como una vista 360, que un segundo proceso de AI usaría después como base para construir la geometría 3D. Los usuarios podrían ver el resultado desde varias perspectivas y avanzar y retroceder dentro de él."
               },
               {
                 "t": "p",
-                "x": "Leiphone entregó a GPT-6 Astra, ejecutándose en Codex, tres fotos de la cabeza de rata de bronce de la colección del zodiaco del Antiguo Palacio de Verano. El agente hizo un borrador con G1-Turbo, pasó a G1, abrió el resultado en Blender, añadió un pedestal y renderizó tres ángulos. Las pasadas tardaron unos 92.9 y 559.7 segundos y costaron 21 créditos, aproximadamente 1.47 yuanes."
+                "x": "Hoy, construir entornos 3D es lento y a menudo exige cientos de recursos esculpidos y pintados. Las apps Substance de Adobe cubren partes de ese proceso, pero Substance 3D Modeler sigue siendo minoritario frente a ZBrush y Blender y aún no tiene herramientas Firefly-powered. Los productos existentes más cercanos, como Skybox AI de Blockade Labs, generan escenas 360-degree en lugar de entornos navegables."
               },
               {
                 "t": "p",
-                "x": "Leiphone señaló que el modelo conservó los rasgos principales y las finas abolladuras de la superficie, aunque una parte trasera demasiado plana y algunas abolladuras mostraban señales de inferencia de AI."
+                "x": "Otras solicitudes recientes de Adobe abarcan una AI que crea nuevos ángulos de cámara a partir de una sola foto, la correspondencia de materiales entre modelos 3D y vistas previas de prendas en 3D. Creative Bloq señala que una solicitud de patente no indica necesariamente planes de lanzar un producto."
               }
             ]
           }
@@ -1641,121 +823,749 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Aholo Lux3D,\n사진 세 장을 3D로",
-          "body": "에이전트가 Lux3D로 사진 세 장을 청동상으로 바꾸고 Blender로 마감했다.",
-          "mini_headline": "Lux3D, 사진을 3D로",
+          "headline": "Adobe Firefly\ntext-to-3D 특허",
+          "body": "USPTO에 Adobe의 text-to-3D 특허 출원이 공개됐지만 구상 단계다.",
+          "mini_headline": "Adobe의 text-to-3D 특허",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+                "cap": "Adobe의 text-to-3D 세계 구상 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Leiphone이 9월 30일 공개한 실사용 테스트는 항저우의 Manycore Tech가 만든 3D 생성 모델 Aholo Lux3D가 에이전트 중심 파이프라인의 한 구성 요소로 어떻게 작동하는지 보여 준다. Leiphone은 이를 3D AI 하네스라고 부른다. 범용 에이전트가 작업을 계획해 배분하고, 전문 모델이 에셋을 생성하며, Blender 같은 소프트웨어가 결과물을 점검하고 마무리하는 구조다."
+                "x": "Adobe는 최근 몇 년 사이 Firefly의 이미지·영상 모델부터 Photoshop의 AI Relight까지 여러 AI 도구를 잇달아 내놓았다. 새로 공개된 대량의 특허 출원은 Adobe가 지금은 거의 존재감이 없는 분야를 포함해 다음 행보를 짐작하게 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+                "cap": "AI text-to-3D 세계 생성기에 관한 Adobe 특허 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Lux3D는 이미지 한 장이나 텍스트 프롬프트 하나로 지오메트리와 PBR 재질을 갖춘 3D 모델을 만든다. Turbo와 Standard 등급이 있으며, API, 에이전트 스킬, MCP 서버, Codex 플러그인으로 쓸 수 있다."
+                "x": "특허 추적 서비스 Patentlyze가 찾아낸 USPTO 출원서 하나는 텍스트로 탐색 가능한 3D 세계를 만드는 방법을 설명한다. \"a foggy Japanese garden at dusk\"(해 질 녘 안개 낀 일본 정원) 같은 프롬프트를 넣으면 먼저 360 뷰와 같은 구형 2D 중간 이미지가 만들어지고, 두 번째 AI 과정이 이를 바탕으로 3D 지오메트리를 구축한다. 사용자는 결과물을 여러 시점에서 보고 그 안에서 앞뒤로 이동할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Leiphone은 Codex에서 실행되는 GPT-6 Astra에 원명원 십이지 컬렉션의 청동 쥐 머리 사진 세 장을 건넸다. 에이전트는 G1-Turbo로 초안을 만든 뒤 G1으로 넘어갔고, 결과물을 Blender에서 열어 받침대를 더하고 세 각도로 렌더링했다. 작업에는 약 92.9초와 559.7초, 크레디트 21개(약 1.47위안)가 들었다."
+                "x": "오늘날 3D 환경 제작은 느리고, 조각하고 채색한 에셋이 수백 개씩 필요한 경우가 많다. Adobe의 Substance 앱이 이 파이프라인의 일부를 다루지만, Substance 3D Modeler는 ZBrush와 Blender에 비해 여전히 틈새 도구이고 Firefly-powered 도구도 아직 없다. Blockade Labs의 Skybox AI처럼 가장 가까운 기존 제품은 탐색 가능한 환경이 아니라 360-degree 장면을 생성한다."
               },
               {
                 "t": "p",
-                "x": "Leiphone은 모델이 핵심 특징과 표면의 미세한 움푹 팬 자국까지 살렸지만, 지나치게 평평한 뒷면과 일부 자국에서는 AI 추론의 흔적이 드러났다고 평가했다."
+                "x": "Adobe의 다른 최근 출원에는 사진 한 장으로 새로운 카메라 앵글을 만드는 AI, 3D 모델 간 재질 매칭, 3D 의상 미리보기가 담겼다. Creative Bloq는 특허 출원이 곧 제품 출시 계획을 뜻하지는 않는다고 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Aholo Lux3D\n写真三枚を3D 資産に",
-          "body": "AIエージェントがLux3Dで写真三枚から編集可能な銅像を作り、Blenderで仕上げた。",
-          "mini_headline": "Lux3Dが写真を3Dに",
+          "headline": "Adobe Firefly\ntext-to-3Dの特許",
+          "body": "USPTOの公開出願でAdobeのtext-to-3D特許が判明したが、構想段階だ。",
+          "mini_headline": "Adobeのtext-to-3D特許",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+                "cap": "Adobeのtext-to-3Dワールド構想 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Leiphoneが9月30日に公開した実機テストは、杭州を拠点とするManycore Techが開発した3D 生成モデルAholo Lux3Dが、エージェント主導のパイプラインの一部品としてどう機能するかを示している。Leiphoneはこれを3D AIハーネスと呼ぶ。汎用エージェントが作業を計画して振り分け、専門モデルがアセットを生成し、Blenderなどのソフトウェアが確認と仕上げを担う。"
+                "x": "Adobeはここ数年、Fireflyの画像・動画モデルからPhotoshopのAI Relightまで、AIツールを次々と投入してきた。新たに公開された大量の特許出願は、Adobeが現在ほとんど存在感を持たない分野も含め、次に向かう先を示唆している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+                "cap": "AI text-to-3Dワールド生成器に関するAdobeの特許 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Lux3Dは単一の画像またはテキストプロンプトから、ジオメトリとPBRマテリアルを備えた3D モデルを生成する。TurboとStandardのティアがあり、API、エージェントスキル、MCPサーバー、Codexプラグインから利用できる。"
+                "x": "特許トラッカーのPatentlyzeが見つけたUSPTO出願の一つは、テキストから移動可能な3Dワールドを作る手法を説明している。\"a foggy Japanese garden at dusk\"（夕暮れの霧がかった日本庭園）のようなプロンプトから、まず360ビューのような球状の中間2D画像を生成し、続く2段階目のAI処理がそれを基に3Dジオメトリを構築する。ユーザーは結果を複数の視点から眺め、その中を前後に移動できる。"
               },
               {
                 "t": "p",
-                "x": "LeiphoneはCodex上で動くGPT-6 Astraに、円明園の十二支コレクションにあるブロンズの鼠首の写真三枚を渡した。エージェントはG1-Turboで下書きを作り、G1に移行したうえで結果をBlenderで開き、台座を加えて三つの角度からレンダリングした。処理には約92.9秒と559.7秒、21クレジット、およそ1.47元を要した。"
+                "x": "現在、3D環境の構築には時間がかかり、彫刻・ペイントされたアセットが数百点必要になることも多い。AdobeのSubstanceアプリはそのパイプラインの一部を担うが、Substance 3D ModelerはZBrushやBlenderに比べてまだニッチで、Firefly-poweredのツールもない。Blockade LabsのSkybox AIなど最も近い既存製品は、移動可能な環境ではなく360-degreeのシーンを生成する。"
               },
               {
                 "t": "p",
-                "x": "Leiphoneによれば、モデルは主要な特徴や表面の細かなへこみを保っていたが、平らすぎる背面や一部のへこみにはAIによる推測の跡が見られたという。"
+                "x": "Adobeの最近のほかの出願には、1枚の写真から新しいカメラアングルを作るAI、3Dモデル間のマテリアルマッチング、3D衣服プレビューなどがある。Creative Bloqは、特許出願が必ずしも製品化の計画を意味するわけではないと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Aholo Lux3D\n把三张照片变成3D 资产",
-          "body": "AI智能体用Aholo Lux3D把三张照片变成可编辑的青铜雕塑，再交Blender收尾。",
-          "mini_headline": "Lux3D把照片变成3D",
+          "headline": "Adobe Firefly\ntext-to-3D专利曝光",
+          "body": "公开的USPTO文件显示Adobe申请text-to-3D世界生成专利，仅为概念而非产品。",
+          "mini_headline": "Adobe的text-to-3D专利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+                "cap": "Adobe的text-to-3D世界概念 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Leiphone于9月30日发布的一项上手测试显示，杭州公司Manycore Tech打造的3D 生成模型Aholo Lux3D可以作为智能体驱动流水线中的一个组件。Leiphone称之为3D AI harness：通用智能体负责规划和分派任务，专业模型生成资产，再由Blender等软件检查并收尾。"
+                "x": "近年来，Adobe接连推出多款AI工具，从Firefly的图像和视频模型到Photoshop的AI Relight。一批新公开的专利申请暗示了它的下一步方向，其中包括Adobe目前几乎没有涉足的领域。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+                "cap": "Adobe关于AI text-to-3D世界生成器的专利 (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Lux3D可将单张图像或文本提示词转化为带有几何结构和PBR材质的3D 模型，提供Turbo和Standard档位，并可通过API、智能体技能、MCP服务器和Codex插件使用。"
+                "x": "专利追踪平台Patentlyze发现的一份USPTO申请，描述了一种由文本生成可漫游3D世界的方法。输入\"a foggy Japanese garden at dusk\"（黄昏时雾气笼罩的日本庭园）这样的提示词后，系统会先生成类似360视图的球形2D中间图像，再由第二个AI流程以此为基础构建3D几何体。用户可以从多个视角查看结果，并在其中前后移动。"
               },
               {
                 "t": "p",
-                "x": "Leiphone向在Codex中运行的GPT-6 Astra提供了圆明园十二生肖兽首中铜鼠首的三张照片。智能体先用G1-Turbo生成草稿，再切换到G1，随后在Blender中打开结果、添加底座并渲染了三个角度。各轮处理分别耗时约92.9秒和559.7秒，消耗21个积分，约合1.47元。"
+                "x": "如今构建3D环境耗时较长，往往需要数以百计经过雕刻和绘制的资产。Adobe的Substance应用覆盖了这一流程的部分环节，但与ZBrush和Blender相比，Substance 3D Modeler仍属小众，也尚无Firefly-powered工具。最接近的现有产品，如Blockade Labs的Skybox AI，生成的是360-degree场景，而非可漫游的环境。"
               },
               {
                 "t": "p",
-                "x": "Leiphone表示，该模型保留了关键特征和表面的细微凹痕，但过于平坦的背部和部分凹痕显露出AI推断的痕迹。"
+                "x": "Adobe近期的其他申请还涉及用单张照片生成新相机角度的AI、3D模型之间的材质匹配以及3D服装预览。Creative Bloq指出，专利申请并不一定意味着有推出产品的计划。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Aholo Lux3D convierte tres fotos\nen un recurso 3D editable",
-          "body": "Un agente de AI usó Aholo Lux3D para convertir tres fotos en una escultura de bronce editable que Blender remató.",
-          "mini_headline": "Lux3D convierte fotos en 3D",
+          "headline": "Patentes de Adobe llevan Firefly\nhacia mundos text-to-3D",
+          "body": "Nuevas solicitudes ante la USPTO muestran que Adobe busca patentar mundos text-to-3D: un concepto, no un producto.",
+          "mini_headline": "Las patentes text-to-3D de Adobe",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cms-image.pandaily.com/1/manycore_aholo_lux3d_blender_8fa3a84252.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+                "cap": "Concepto de mundo text-to-3D de Adobe (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Una prueba práctica publicada por Leiphone el 30 de septiembre muestra cómo Aholo Lux3D, el modelo de generación 3D creado por Manycore Tech, con sede en Hangzhou, puede funcionar como un componente de un pipeline dirigido por agentes. Leiphone lo llama un 3D AI harness: un agente de propósito general planifica y reparte el trabajo, un modelo especializado genera los recursos y un software como Blender los revisa y los termina."
+                "x": "En los últimos años, Adobe ha lanzado una serie de herramientas de AI, desde los modelos de imagen y video de Firefly hasta AI Relight de Photoshop. Un gran lote de solicitudes de patente recién publicadas sugiere hacia dónde podría ir después, incluidas áreas en las que Adobe tiene hoy poca presencia."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+                "cap": "Patente de Adobe para un generador de mundos text-to-3D con AI (Image: Adobe / USPTO)"
               },
               {
                 "t": "p",
-                "x": "Lux3D convierte una sola imagen o un prompt de texto en un modelo 3D con geometría y materiales PBR, en los niveles Turbo y Standard, y está disponible mediante API, habilidades para agentes, un servidor MCP y un plugin de Codex."
+                "x": "Detectada por el rastreador de patentes Patentlyze, una solicitud ante la USPTO describe un método para crear mundos 3D navegables a partir de texto. Un prompt como \"a foggy Japanese garden at dusk\" (un jardín japonés con niebla al anochecer) produciría primero una imagen 2D esférica intermedia, como una vista 360, que un segundo proceso de AI usaría después como base para construir la geometría 3D. Los usuarios podrían ver el resultado desde varias perspectivas y avanzar y retroceder dentro de él."
               },
               {
                 "t": "p",
-                "x": "Leiphone entregó a GPT-6 Astra, ejecutándose en Codex, tres fotos de la cabeza de rata de bronce de la colección del zodiaco del Antiguo Palacio de Verano. El agente hizo un borrador con G1-Turbo, pasó a G1, abrió el resultado en Blender, añadió un pedestal y renderizó tres ángulos. Las pasadas tardaron unos 92.9 y 559.7 segundos y costaron 21 créditos, aproximadamente 1.47 yuanes."
+                "x": "Hoy, construir entornos 3D es lento y a menudo exige cientos de recursos esculpidos y pintados. Las apps Substance de Adobe cubren partes de ese proceso, pero Substance 3D Modeler sigue siendo minoritario frente a ZBrush y Blender y aún no tiene herramientas Firefly-powered. Los productos existentes más cercanos, como Skybox AI de Blockade Labs, generan escenas 360-degree en lugar de entornos navegables."
               },
               {
                 "t": "p",
-                "x": "Leiphone señaló que el modelo conservó los rasgos principales y las finas abolladuras de la superficie, aunque una parte trasera demasiado plana y algunas abolladuras mostraban señales de inferencia de AI."
+                "x": "Otras solicitudes recientes de Adobe abarcan una AI que crea nuevos ángulos de cámara a partir de una sola foto, la correspondencia de materiales entre modelos 3D y vistas previas de prendas en 3D. Creative Bloq señala que una solicitud de patente no indica necesariamente planes de lanzar un producto."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "apple-macos-ai-agent-full-disk-access-warning",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Apple, AI Full\nDisk Access 경고",
+      "body": "Apple은 macOS에서 AI에 Full Disk Access 부여를 경고했다.",
+      "mini_headline": "Apple, AI 에이전트 디스크 접근 경고",
+      "tool": "AI Workflow",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/apples-full-disk-access-statement",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+            "cap": "Credit: Apple"
+          },
+          {
+            "t": "p",
+            "x": "Apple은 Apple Developer 페이지에 “Updates to Full Disk Access in macOS”라는 공지를 올렸다. 사용자를 위험에 빠뜨릴 수 있는 방식으로 AI 에이전트에 Full Disk Access를 주지 말라는 경고다."
+          },
+          {
+            "t": "p",
+            "x": "Apple에 따르면 일부 개발자는 Full Disk Access로 파일과 메일, 메시지, 방문 기록까지 사용자 시스템의 모든 것을 노출하고 있다. 정작 사용자는 이를 충분히 알지도, 이해하지도 못한 상태다."
+          },
+          {
+            "t": "p",
+            "x": "“앞으로 이처럼 이례적인 수준의 접근 권한을 앱에 진심으로 부여하려는 사용자가 매우 명시적인 조작을 거쳐야만 그렇게 할 수 있도록 추가 통제 장치를 도입할 것이다. 이 문제를 해결하는 일은 매우 중요하다. AI 에이전트의 능력과 자율성이 커질수록 이 수준의 접근에 따르는 위험도 크게 늘어날 것이다.”"
+          },
+          {
+            "t": "p",
+            "x": "No Film School은 이 통제 장치가 나오기 전까지는 AI 에이전트에 그런 접근 권한을 아예 주지 않으면 위험을 피할 수 있다고 전한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Apple warns against giving\nAI agents Full Disk Access",
+          "body": "Apple has warned users against giving AI agents Full Disk Access on macOS and promised new controls.",
+          "mini_headline": "Apple flags AI agent disk access",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+                "cap": "Credit: Apple"
+              },
+              {
+                "t": "p",
+                "x": "Apple has posted an “Updates to Full Disk Access in macOS” notice on its Apple Developer page, warning against giving AI agents Full Disk Access in ways that could put users at risk."
+              },
+              {
+                "t": "p",
+                "x": "Apple says some developers are using Full Disk Access in ways that expose everything on users' systems—including files, mail, messages, and even browsing history—without users' full knowledge and understanding."
+              },
+              {
+                "t": "p",
+                "x": "“Going forward, we will introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action. Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially.”"
+              },
+              {
+                "t": "p",
+                "x": "Until those controls arrive, No Film School notes the risk can be avoided by not giving AI agents that access at all."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Apple, AI Full\nDisk Access 경고",
+          "body": "Apple은 macOS에서 AI에 Full Disk Access 부여를 경고했다.",
+          "mini_headline": "Apple, AI 에이전트 디스크 접근 경고",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+                "cap": "Credit: Apple"
+              },
+              {
+                "t": "p",
+                "x": "Apple은 Apple Developer 페이지에 “Updates to Full Disk Access in macOS”라는 공지를 올렸다. 사용자를 위험에 빠뜨릴 수 있는 방식으로 AI 에이전트에 Full Disk Access를 주지 말라는 경고다."
+              },
+              {
+                "t": "p",
+                "x": "Apple에 따르면 일부 개발자는 Full Disk Access로 파일과 메일, 메시지, 방문 기록까지 사용자 시스템의 모든 것을 노출하고 있다. 정작 사용자는 이를 충분히 알지도, 이해하지도 못한 상태다."
+              },
+              {
+                "t": "p",
+                "x": "“앞으로 이처럼 이례적인 수준의 접근 권한을 앱에 진심으로 부여하려는 사용자가 매우 명시적인 조작을 거쳐야만 그렇게 할 수 있도록 추가 통제 장치를 도입할 것이다. 이 문제를 해결하는 일은 매우 중요하다. AI 에이전트의 능력과 자율성이 커질수록 이 수준의 접근에 따르는 위험도 크게 늘어날 것이다.”"
+              },
+              {
+                "t": "p",
+                "x": "No Film School은 이 통제 장치가 나오기 전까지는 AI 에이전트에 그런 접근 권한을 아예 주지 않으면 위험을 피할 수 있다고 전한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Apple、AIへのFull\nDisk Accessを警告",
+          "body": "AppleはmacOSでAIにFull Disk Accessを与えないよう警告した。",
+          "mini_headline": "Apple、AIエージェントのディスクアクセスに警鐘",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+                "cap": "Credit: Apple"
+              },
+              {
+                "t": "p",
+                "x": "AppleはApple Developerページに「Updates to Full Disk Access in macOS」という告知を掲載し、ユーザーを危険にさらしかねない形でAIエージェントにFull Disk Accessを与えないよう警告した。"
+              },
+              {
+                "t": "p",
+                "x": "Appleによると、一部の開発者はFull Disk Accessを利用し、ファイル、メール、メッセージ、さらには閲覧履歴まで、ユーザーのシステム上のあらゆるものを、ユーザーが十分に認識・理解しないまま露出させているという。"
+              },
+              {
+                "t": "p",
+                "x": "「今後、この並外れたレベルのアクセスを本当にアプリに許可したいユーザーが、極めて明示的な操作によってのみそれを行えるよう、追加の制御を導入する。この問題への対処は極めて重要だ。AIエージェントの能力と自律性が高まるにつれ、このレベルのアクセスに伴うリスクは大幅に増大する」"
+              },
+              {
+                "t": "p",
+                "x": "No Film Schoolは、その制御が導入されるまでは、AIエージェントにそもそもそのアクセスを与えないことでリスクを避けられると指摘している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Apple警告AI的Full\nDisk Access权限",
+          "body": "Apple警告勿在macOS上授予AI智能体Full Disk Access，并承诺新管控。",
+          "mini_headline": "Apple警示AI智能体磁盘访问",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+                "cap": "Credit: Apple"
+              },
+              {
+                "t": "p",
+                "x": "Apple在Apple Developer页面发布了题为“Updates to Full Disk Access in macOS”的通知，警告不要以可能让用户面临风险的方式授予AI智能体Full Disk Access。"
+              },
+              {
+                "t": "p",
+                "x": "Apple表示，一些开发者使用Full Disk Access的方式，会在用户并不完全知情和理解的情况下，暴露其系统上的一切，包括文件、邮件、信息，甚至浏览记录。"
+              },
+              {
+                "t": "p",
+                "x": "“今后，我们将引入更多管控措施，确保真正希望授予应用这种非同寻常访问级别的用户，只能通过非常明确的用户操作来实现。解决这一问题至关重要。随着AI智能体日益强大和自主，这种访问级别带来的风险将大幅增加。”"
+              },
+              {
+                "t": "p",
+                "x": "No Film School指出，在这些管控措施推出之前，完全不给AI智能体这种访问权限，就能规避风险。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Apple desaconseja dar a agentes\nde AI el Full Disk Access",
+          "body": "Apple advirtió a los usuarios que no den Full Disk Access a agentes de AI en macOS y prometió nuevos controles.",
+          "mini_headline": "Apple alerta sobre el acceso al disco de agentes de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+                "cap": "Credit: Apple"
+              },
+              {
+                "t": "p",
+                "x": "Apple ha publicado un aviso titulado “Updates to Full Disk Access in macOS” en su página de Apple Developer, en el que advierte contra dar a los agentes de AI Full Disk Access de maneras que podrían poner en riesgo a los usuarios."
+              },
+              {
+                "t": "p",
+                "x": "Apple afirma que algunos desarrolladores usan Full Disk Access de formas que exponen todo lo que hay en los sistemas de los usuarios —incluidos archivos, correo, mensajes e incluso el historial de navegación— sin que los usuarios lo sepan ni lo entiendan del todo."
+              },
+              {
+                "t": "p",
+                "x": "“En adelante, introduciremos controles adicionales para garantizar que los usuarios que de verdad deseen conceder a una app este nivel extraordinario de acceso solo puedan hacerlo mediante una acción muy explícita. Resolver esto es fundamental. A medida que los agentes de AI se vuelvan cada vez más capaces y autónomos, los riesgos asociados a este nivel de acceso crecerán de forma considerable.”"
+              },
+              {
+                "t": "p",
+                "x": "Hasta que lleguen esos controles, No Film School señala que el riesgo puede evitarse no dando a los agentes de AI ese acceso en absoluto."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Apple, AI Full\nDisk Access 경고",
+          "body": "Apple은 macOS에서 AI에 Full Disk Access 부여를 경고했다.",
+          "mini_headline": "Apple, AI 에이전트 디스크 접근 경고",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+                "cap": "Credit: Apple"
+              },
+              {
+                "t": "p",
+                "x": "Apple은 Apple Developer 페이지에 “Updates to Full Disk Access in macOS”라는 공지를 올려, 사용자를 위험에 빠뜨릴 수 있는 방식으로 AI 에이전트에 Full Disk Access를 주지 말라고 경고했다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 일부 개발자가 Full Disk Access를 이용해 파일, 메일, 메시지, 심지어 방문 기록까지 사용자 시스템의 모든 것을 사용자가 충분히 알고 이해하지 못한 상태에서 노출하고 있다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "“앞으로 이처럼 이례적인 수준의 접근 권한을 앱에 진심으로 부여하려는 사용자가 매우 명시적인 조작을 거쳐야만 그렇게 할 수 있도록 추가 통제 장치를 도입할 것이다. 이 문제를 해결하는 일은 매우 중요하다. AI 에이전트의 능력과 자율성이 커질수록 이 수준의 접근에 따르는 위험도 크게 늘어날 것이다.”"
+              },
+              {
+                "t": "p",
+                "x": "No Film School은 이 통제 장치가 나오기 전까지는 AI 에이전트에 그런 접근 권한을 아예 주지 않는 것으로 위험을 피할 수 있다고 전한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Apple、AIへのFull\nDisk Accessを警告",
+          "body": "AppleはmacOSでAIにFull Disk Accessを与えないよう警告した。",
+          "mini_headline": "Apple、AIエージェントのディスクアクセスに警鐘",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+                "cap": "Credit: Apple"
+              },
+              {
+                "t": "p",
+                "x": "AppleはApple Developerページに「Updates to Full Disk Access in macOS」という告知を掲載し、ユーザーを危険にさらしかねない形でAIエージェントにFull Disk Accessを与えないよう警告した。"
+              },
+              {
+                "t": "p",
+                "x": "Appleによると、一部の開発者はFull Disk Accessを利用し、ファイル、メール、メッセージ、さらには閲覧履歴まで、ユーザーのシステム上のあらゆるものを、ユーザーが十分に認識・理解しないまま露出させているという。"
+              },
+              {
+                "t": "p",
+                "x": "「今後、この並外れたレベルのアクセスを本当にアプリに許可したいユーザーが、極めて明示的な操作によってのみそれを行えるよう、追加の制御を導入する。この問題への対処は極めて重要だ。AIエージェントの能力と自律性が高まるにつれ、このレベルのアクセスに伴うリスクは大幅に増大する」"
+              },
+              {
+                "t": "p",
+                "x": "No Film Schoolは、その制御が導入されるまでは、AIエージェントにそもそもそのアクセスを与えないことでリスクを避けられると指摘している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Apple警告AI的Full\nDisk Access权限",
+          "body": "Apple警告勿在macOS上授予AI智能体Full Disk Access，并承诺新管控。",
+          "mini_headline": "Apple警示AI智能体磁盘访问",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+                "cap": "Credit: Apple"
+              },
+              {
+                "t": "p",
+                "x": "Apple在Apple Developer页面发布了题为“Updates to Full Disk Access in macOS”的通知，警告不要以可能让用户面临风险的方式授予AI智能体Full Disk Access。"
+              },
+              {
+                "t": "p",
+                "x": "Apple表示，一些开发者使用Full Disk Access的方式，会在用户并不完全知情和理解的情况下，暴露其系统上的一切，包括文件、邮件、信息，甚至浏览记录。"
+              },
+              {
+                "t": "p",
+                "x": "“今后，我们将引入更多管控措施，确保真正希望授予应用这种非同寻常访问级别的用户，只能通过非常明确的用户操作来实现。解决这一问题至关重要。随着AI智能体日益强大和自主，这种访问级别带来的风险将大幅增加。”"
+              },
+              {
+                "t": "p",
+                "x": "No Film School指出，在这些管控措施推出之前，完全不给AI智能体这种访问权限，就能规避风险。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Apple desaconseja dar a agentes\nde AI el Full Disk Access",
+          "body": "Apple advirtió a los usuarios que no den Full Disk Access a agentes de AI en macOS y prometió nuevos controles.",
+          "mini_headline": "Apple alerta sobre el acceso al disco de agentes de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+                "cap": "Credit: Apple"
+              },
+              {
+                "t": "p",
+                "x": "Apple ha publicado un aviso titulado “Updates to Full Disk Access in macOS” en su página de Apple Developer, en el que advierte contra dar a los agentes de AI Full Disk Access de maneras que podrían poner en riesgo a los usuarios."
+              },
+              {
+                "t": "p",
+                "x": "Apple afirma que algunos desarrolladores usan Full Disk Access de formas que exponen todo lo que hay en los sistemas de los usuarios —incluidos archivos, correo, mensajes e incluso el historial de navegación— sin que los usuarios lo sepan ni lo entiendan del todo."
+              },
+              {
+                "t": "p",
+                "x": "“En adelante, introduciremos controles adicionales para garantizar que los usuarios que de verdad deseen conceder a una app este nivel extraordinario de acceso solo puedan hacerlo mediante una acción muy explícita. Resolver esto es fundamental. A medida que los agentes de AI se vuelvan cada vez más capaces y autónomos, los riesgos asociados a este nivel de acceso crecerán de forma considerable.”"
+              },
+              {
+                "t": "p",
+                "x": "Hasta que lleguen esos controles, No Film School señala que el riesgo puede evitarse no dando a los agentes de AI ese acceso en absoluto."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "uxcollective-ai-skill-atrophy-essay",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 생각을 대신할 때\n우리가 멈추는 연습",
+      "body": "이 에세이는 AI가 지능이 아니라 지능을 쓰는 연습을 줄인다고 본다.",
+      "mini_headline": "AI와 스킬 위축",
+      "tool": "AI Workflow",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+            "cap": "인지적 오프로딩이 망각으로 바뀔 때 (Visualization by Slava Polonski)"
+          },
+          {
+            "t": "p",
+            "x": "AI가 우리를 덜 지적으로 만들지는 않는다. 우리가 연습하는 지능의 양을 줄일 뿐이다. 진짜 문제는 따로 있다. 더는 할 필요가 없는 일을 하는 법을 우리가 서서히 잊을 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Slava Polonski는 AI가 부르는 스킬 위축과 인지적 오프로딩을 들여다본다. 애초에 그 기술을 우리 것으로 만들어 준 사고와 판단, 분투를 바깥에 맡기면 무슨 일이 생기는지 묻는다."
+          },
+          {
+            "t": "p",
+            "x": "에세이는 전화번호 이야기로 시작한다. 번호 외우기를 그만두자고 마음먹은 사람은 없다. 그 능력은 그저 조용히 안 쓰이게 됐고 그러다 조용히 사라졌다. 기술을 기계에 넘기는 일은 손실로 느껴지지 않는다. 오히려 나아진 것처럼 느껴진다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "What we stop practising\nwhen AI does the thinking",
+          "body": "The essay argues AI is not making us less intelligent but reducing the amount of intelligence we practise.",
+          "mini_headline": "AI and skill atrophy",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+                "cap": "When cognitive offloading becomes unlearning (Visualization by Slava Polonski)"
+              },
+              {
+                "t": "p",
+                "x": "AI is not making us less intelligent. It is reducing the amount of intelligence we practise. The real problem is that we can slowly forget how to do things we no longer have to do."
+              },
+              {
+                "t": "p",
+                "x": "Slava Polonski looks at AI skill atrophy and cognitive offloading: what happens when we outsource the thinking, judgement, and struggle that made those skills ours in the first place."
+              },
+              {
+                "t": "p",
+                "x": "The essay opens with phone numbers. Nobody decided to stop memorising them; the capacity just quietly stopped being used, and then quietly stopped being there. Handing a skill to a machine does not feel like a loss. It feels like an improvement."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 생각을 대신할 때\n우리가 멈추는 연습",
+          "body": "이 에세이는 AI가 지능이 아니라 지능을 쓰는 연습을 줄인다고 본다.",
+          "mini_headline": "AI와 스킬 위축",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+                "cap": "인지적 오프로딩이 망각으로 바뀔 때 (Visualization by Slava Polonski)"
+              },
+              {
+                "t": "p",
+                "x": "AI가 우리를 덜 지적으로 만들지는 않는다. 우리가 연습하는 지능의 양을 줄일 뿐이다. 진짜 문제는 따로 있다. 더는 할 필요가 없는 일을 하는 법을 우리가 서서히 잊을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Slava Polonski는 AI가 부르는 스킬 위축과 인지적 오프로딩을 들여다본다. 애초에 그 기술을 우리 것으로 만들어 준 사고와 판단, 분투를 바깥에 맡기면 무슨 일이 생기는지 묻는다."
+              },
+              {
+                "t": "p",
+                "x": "에세이는 전화번호 이야기로 시작한다. 번호 외우기를 그만두자고 마음먹은 사람은 없다. 그 능력은 그저 조용히 안 쓰이게 됐고 그러다 조용히 사라졌다. 기술을 기계에 넘기는 일은 손실로 느껴지지 않는다. 오히려 나아진 것처럼 느껴진다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが思考を担うとき\n私たちがやめる鍛錬",
+          "body": "このエッセイは、AIが人を愚かにするのではなく、知性を使う練習を減らすと論じる。",
+          "mini_headline": "AIとスキルの衰え",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+                "cap": "認知的オフロードが忘却に変わるとき (Visualization by Slava Polonski)"
+              },
+              {
+                "t": "p",
+                "x": "AIは私たちの知性を低下させているわけではない。私たちが鍛える知性の量を減らしているのだ。本当の問題は、もうやる必要のなくなったことのやり方を、少しずつ忘れてしまいかねない点にある。"
+              },
+              {
+                "t": "p",
+                "x": "Slava Polonskiは、AIによるスキルの衰えと認知的オフロードを考察する。そもそもそのスキルを自分のものにしてくれた思考、判断、苦闘を外部に委ねたとき、何が起きるのか。"
+              },
+              {
+                "t": "p",
+                "x": "エッセイは電話番号の話から始まる。誰も番号を覚えるのをやめようと決めたわけではない。その能力はただ静かに使われなくなり、やがて静かに消えていった。スキルを機械に手渡すことは、損失のようには感じられない。むしろ改善のように感じられる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "当AI替我们思考\n我们不再练习什么",
+          "body": "文章认为，AI并未让我们变笨，而是减少了我们练习智力的机会。",
+          "mini_headline": "AI与技能退化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+                "cap": "当认知卸载变成遗忘 (Visualization by Slava Polonski)"
+              },
+              {
+                "t": "p",
+                "x": "AI并没有让我们变得不那么聪明，而是在减少我们练习智力的量。真正的问题在于，对于那些不再需要亲自做的事，我们可能会慢慢忘记该怎么做。"
+              },
+              {
+                "t": "p",
+                "x": "Slava Polonski探讨了AI带来的技能退化与认知卸载：当我们把最初让这些技能成为自己一部分的思考、判断和挣扎外包出去时，会发生什么。"
+              },
+              {
+                "t": "p",
+                "x": "文章从电话号码谈起。没有人决定不再记号码；这种能力只是悄悄地不再被使用，随后又悄悄地消失了。把一项技能交给机器，并不让人觉得是一种损失，反而像是一种进步。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lo que dejamos de practicar\ncuando la AI piensa por nosotros",
+          "body": "El ensayo sostiene que la AI no nos vuelve menos inteligentes, sino que reduce la inteligencia que practicamos.",
+          "mini_headline": "La AI y la atrofia de habilidades",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+                "cap": "Cuando la descarga cognitiva se convierte en desaprendizaje (Visualization by Slava Polonski)"
+              },
+              {
+                "t": "p",
+                "x": "La AI no nos está volviendo menos inteligentes. Está reduciendo la cantidad de inteligencia que practicamos. El verdadero problema es que podemos olvidar poco a poco cómo hacer cosas que ya no tenemos que hacer."
+              },
+              {
+                "t": "p",
+                "x": "Slava Polonski analiza la atrofia de habilidades por la AI y la descarga cognitiva: qué ocurre cuando delegamos el pensamiento, el juicio y el esfuerzo que, en primer lugar, hicieron nuestras esas habilidades."
+              },
+              {
+                "t": "p",
+                "x": "El ensayo empieza con los números de teléfono. Nadie decidió dejar de memorizarlos; esa capacidad simplemente dejó de usarse en silencio y, después, en silencio dejó de existir. Ceder una habilidad a una máquina no se siente como una pérdida. Se siente como una mejora."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI가 생각을 대신할 때\n우리가 멈추는 연습",
+          "body": "이 에세이는 AI가 지능을 줄이는 게 아니라 지능을 쓰는 연습을 줄인다고 본다.",
+          "mini_headline": "AI와 스킬 위축",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+                "cap": "인지적 오프로딩이 망각으로 바뀔 때 (Visualization by Slava Polonski)"
+              },
+              {
+                "t": "p",
+                "x": "AI가 우리를 덜 지적으로 만드는 것은 아니다. 우리가 연습하는 지능의 양을 줄이고 있을 뿐이다. 진짜 문제는 더 이상 할 필요가 없는 일을 하는 법을 서서히 잊을 수 있다는 점이다."
+              },
+              {
+                "t": "p",
+                "x": "Slava Polonski는 AI로 인한 스킬 위축과 인지적 오프로딩을 살핀다. 애초에 그 기술을 우리 것으로 만들어 준 사고와 판단, 분투를 외부에 맡기면 어떤 일이 벌어지는지 묻는다."
+              },
+              {
+                "t": "p",
+                "x": "에세이는 전화번호 이야기로 시작한다. 누구도 번호 외우기를 그만두기로 결심하지 않았다. 그 능력은 그저 조용히 쓰이지 않게 됐고, 이어 조용히 사라졌다. 기술을 기계에 넘기는 일은 손실처럼 느껴지지 않는다. 오히려 개선처럼 느껴진다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが思考を担うとき\n私たちがやめる鍛錬",
+          "body": "このエッセイは、AIが人を愚かにするのではなく、知性を使う練習を減らすと論じる。",
+          "mini_headline": "AIとスキルの衰え",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+                "cap": "認知的オフロードが忘却に変わるとき (Visualization by Slava Polonski)"
+              },
+              {
+                "t": "p",
+                "x": "AIは私たちの知性を低下させているわけではない。私たちが鍛える知性の量を減らしているのだ。本当の問題は、もうやる必要のなくなったことのやり方を、少しずつ忘れてしまいかねない点にある。"
+              },
+              {
+                "t": "p",
+                "x": "Slava Polonskiは、AIによるスキルの衰えと認知的オフロードを考察する。そもそもそのスキルを自分のものにしてくれた思考、判断、苦闘を外部に委ねたとき、何が起きるのか。"
+              },
+              {
+                "t": "p",
+                "x": "エッセイは電話番号の話から始まる。誰も番号を覚えるのをやめようと決めたわけではない。その能力はただ静かに使われなくなり、やがて静かに消えていった。スキルを機械に手渡すことは、損失のようには感じられない。むしろ改善のように感じられる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "当AI替我们思考\n我们不再练习什么",
+          "body": "文章认为，AI并未让我们变笨，而是减少了我们练习智力的机会。",
+          "mini_headline": "AI与技能退化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+                "cap": "当认知卸载变成遗忘 (Visualization by Slava Polonski)"
+              },
+              {
+                "t": "p",
+                "x": "AI并没有让我们变得不那么聪明，而是在减少我们练习智力的量。真正的问题在于，对于那些不再需要亲自做的事，我们可能会慢慢忘记该怎么做。"
+              },
+              {
+                "t": "p",
+                "x": "Slava Polonski探讨了AI带来的技能退化与认知卸载：当我们把最初让这些技能成为自己一部分的思考、判断和挣扎外包出去时，会发生什么。"
+              },
+              {
+                "t": "p",
+                "x": "文章从电话号码谈起。没有人决定不再记号码；这种能力只是悄悄地不再被使用，随后又悄悄地消失了。把一项技能交给机器，并不让人觉得是一种损失，反而像是一种进步。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lo que dejamos de practicar\ncuando la AI piensa por nosotros",
+          "body": "El ensayo sostiene que la AI no nos vuelve menos inteligentes, sino que reduce la inteligencia que practicamos.",
+          "mini_headline": "La AI y la atrofia de habilidades",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+                "cap": "Cuando la descarga cognitiva se convierte en desaprendizaje (Visualization by Slava Polonski)"
+              },
+              {
+                "t": "p",
+                "x": "La AI no nos está volviendo menos inteligentes. Está reduciendo la cantidad de inteligencia que practicamos. El verdadero problema es que podemos olvidar poco a poco cómo hacer cosas que ya no tenemos que hacer."
+              },
+              {
+                "t": "p",
+                "x": "Slava Polonski analiza la atrofia de habilidades por la AI y la descarga cognitiva: qué ocurre cuando delegamos el pensamiento, el juicio y el esfuerzo que, en primer lugar, hicieron nuestras esas habilidades."
+              },
+              {
+                "t": "p",
+                "x": "El ensayo empieza con los números de teléfono. Nadie decidió dejar de memorizarlos; esa capacidad simplemente dejó de usarse en silencio y, después, en silencio dejó de existir. Ceder una habilidad a una máquina no se siente como una pérdida. Se siente como una mejora."
               }
             ]
           }

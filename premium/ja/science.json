@@ -6588,6 +6588,139 @@
           "x": "他の科学者たちは、特に同様の手法がEEGに応用された場合の、精神的プライバシーへのリスクを警告する。UCSBの神経科学者トミー・スプラーグ(Tommy Sprague)は「倫理的な配慮について、もう少し真剣になる必要がある」と語る。"
         }
       ]
+    },
+    "science/berkeley-lab-heat-shield-xray-ai-ablation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+        },
+        {
+          "t": "p",
+          "x": "耐熱シールドはアブレーションによって宇宙船を守るが、研究者が目にできるのは通常、前後（before-and-after）の画像だけだ。Artemis Iでは、シミュレーションが予測していなかった炭化と不均一な材料損失が見られた。"
+        },
+        {
+          "t": "video",
+          "yt": "04rSPGwMLlM"
+        },
+        {
+          "t": "p",
+          "x": "NASAとLawrence Berkeley National LaboratoryのAdvanced Light Sourceの協力がこれを変えた。LBNLの研究者は試料を最大900℃まで加熱するチャンバーを作り、その間にX-ray micro-computed tomography（X線マイクロCT）が分解していく材料の3D画像を捉える。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+          "cap": "Kennedy Space CenterでArtemis IIの耐熱シールドの作業をするエンジニアたち。クレジット - NASA"
+        },
+        {
+          "t": "p",
+          "x": "SLA-561V中のコルク粒子は気化して空洞となり、SLA-220は高温ガスを逃がす枝分かれした微細流路（micro-channels）へと劣化する。"
+        },
+        {
+          "t": "p",
+          "x": "速度と解像度のバランスを取るため、チームはGenerative Adversarial Network（GAN）を訓練し、高速な中解像度（intermediate-resolution）スキャンを、材料が歪み、焦げ、空洞化していく様子の高解像度（high-resolution）3D記録に変換した。工学シミュレーションはまだ更新されていない。"
+        }
+      ]
+    },
+    "science/autonomous-ai-dermatology-appointments-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+          "cap": "クレジット: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "EADV Congress 2026で発表された患者8,391人の実臨床（real-world）研究によると、自律型AIはU.K.の病院二つで16カ月にわたり、対面（face-to-face）の皮膚科診察を8,500件以上追加できるだけの余力を生み出しうる。"
+        },
+        {
+          "t": "p",
+          "x": "CE-marked（CEマーク取得）のClass III AI医療機器がスマートフォンで撮影した皮膚病変の画像を分類し、良性例は自律的に退院させ、高リスク（higher-risk）例は遠隔皮膚科医の確認に回した。AIは二つの病院で、それぞれ患者の31%と25%を臨床医の確認なしに退院させた。"
+        },
+        {
+          "t": "p",
+          "x": "この経路により臨床医の時間を2,851時間節約し、診療能力を約62%高め、生検率を43%から27%に下げたと推定された。"
+        },
+        {
+          "t": "p",
+          "x": "全国データセットでは、浸潤性黒色腫、SCC、BCCに対する感度が98%を超えた。市販後（post-market）調査で偽陰性が六件見つかったが、有害な転帰は確認されなかった。筆頭著者のDr. Lucy Thomasは「AIシステムを安全に導入するのは一度きり（one-off）の作業ではない」と語った。"
+        }
+      ]
+    },
+    "science/copenhagen-chatbots-knowledge-collapse-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+          "cap": "クレジット: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Copenhagenのコンピューターサイエンス学科（DIKU）が主導した研究によると、大規模言語モデルが示す情報の幅は、従来のウェブ検索よりかなり狭い。研究はEMNLP 2026で発表される。"
+        },
+        {
+          "t": "p",
+          "x": "チームは27のモデルを155のテーマでそれぞれ200通りのプロンプトを用いて検証し、約70百万件の主張を得た。最も多様なモデルであるOpenAIのGPT-5でさえ、情報の多様性はGoogleより少なくとも18.7%低かった。"
+        },
+        {
+          "t": "p",
+          "x": "「人々はかなりの程度、同じ情報に何度も繰り返しさらされている」と、現在Aalborg Universityに所属する筆頭著者のDustin Wrightは言う。"
+        },
+        {
+          "t": "p",
+          "x": "モデルは学習テキストを圧縮し、あまり一般的でないパターンを取り除く。AI-generatedテキストでの学習が増えれば、世代を重ねるごとに幅が狭まりうる。研究者はこのリスクを「知識の崩壊」と呼ぶ。責任著者のIsabelle Augensteinは、新しいモデルほどわずかに多様性が高いため、まだそれは起きていないと指摘する。"
+        }
+      ]
+    },
+    "science/stanford-ai-benchmarks-measurement-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+          "cap": "クレジット: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "ベンチマークは推論から安全性までAIモデルのあらゆる面を採点し、数十億ドルの資金や政策判断がその結果に左右される。Stanfordの研究者と共同研究者は二つの新しい研究で、こうしたテストが主張どおりのものを測っているのかを問うた。"
+        },
+        {
+          "t": "p",
+          "x": "測定科学と心理測定学の手法を借りて広く使われる56のベンチマークを検証したところ、ベンチマークは主張するものを必ずしも測っておらず、同じものを測るとするベンチマーク同士でも結果が食い違うことが多いと分かった。"
+        },
+        {
+          "t": "p",
+          "x": "たとえばバイアスのベンチマークであるBBQは、結局は読解力に近いものを測っているとSanmi Koyejoは言う。"
+        },
+        {
+          "t": "p",
+          "x": "二つ目の論文は、英語から翻訳された安全性ベンチマークが二つの形で崩れることを示す。ガードレールが弱まりうること、そして翻訳されたテストが測定器として不安定になることだ。「物差しを握る者が船の舵を取る」とKoyejoは言う。"
+        }
+      ]
+    },
+    "science/york-illusion-ai-vision-errors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "私たちの目は、物の位置を常に正確に伝えているわけではない。それは単なる欠陥ではなく、生物の視覚が働く仕組みの特徴なのかもしれない。York Universityの研究者による新たな研究は、よく知られた錯視を使ってこう問いかける。人工知能が私たちに近い見方をするべきなら、同じ体系的な知覚の「誤り」もいくらか犯すべきなのか。"
+        },
+        {
+          "t": "p",
+          "x": "一方向に一定の速さで動くものを見つめた直後に静止した物体を見ると、それが反対方向へわずかにずれて見えることがある。運動残効(motion aftereffect)と呼ばれるこの錯視は、知覚を支える計算をのぞく窓となる。研究成果はCurrent Biologyに掲載された。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
+          "cap": "Credit: Orhan Pergel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "現在のAI視覚システムは物体の位置を正確に割り出せることが多いが、直前の視覚体験がその答えを変える仕組みは概して再現できない。研究チームは霊長類の視覚野にはこれに対応する変化を見いだしたが、検証したAIモデルには見られなかった。この成果は、動的な視覚モデルを評価する新たなベンチマークにもなる。"
+        },
+        {
+          "t": "p",
+          "x": "「人間と協働し、より人間と相性のよい形で世界を理解するAIを求めるなら、正しい答えを出せるかどうかだけに注目するわけにはいかない」と、責任著者のKohitij Karは述べた。"
+        }
+      ]
     }
   }
 }

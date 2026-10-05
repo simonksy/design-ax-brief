@@ -6395,6 +6395,138 @@
           "x": "API调用在10月8日前优惠50%。企业可获得商用权重授权，在自有基础设施上运行和微调模型。开放权重版本预计在未来几周推出。就在发布前不久，Ideogram推出了专注编辑的4.5版本模型，同样将很快以开放权重形式发布。"
         }
       ]
+    },
+    "design/photoshop-remove-tool-no-generative-credits": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "nmvewzc6MG4"
+        },
+        {
+          "t": "p",
+          "x": "Adobe如今将Photoshop的许多AI工具计入每月的生成积分额度，因此了解哪些功能会消耗额度，直接影响你能多自由地编辑。"
+        },
+        {
+          "t": "p",
+          "x": "第一个惊喜来自Remove工具。PHLEARN的Aaron Nace先确认积分余额为2,870，在开启Generative AI并选择云端处理的情况下涂抹去除几处干扰元素，然后再次查看。数字没有变化。Photoshop下载AI模型后，该工具还能离线使用设备端处理运行。"
+        },
+        {
+          "t": "p",
+          "x": "Generative Fill、Generative Expand和Generate Image都会消耗每月额度，而其他公司的合作伙伴模型每次生成消耗的积分比Adobe自家的Firefly模型更多。Content-Aware Fill和Select Subject不会动用余额，所以不妨养成先试免费选项的习惯。"
+        },
+        {
+          "t": "p",
+          "x": "其他技巧还包括scrubby-slider标签、剪贴蒙版、Curves的目标调整手形工具，以及借助云端处理让Select Subject边缘更干净。"
+        }
+      ]
+    },
+    "design/adobe-text-to-3d-patent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+          "cap": "Adobe的text-to-3D世界概念 (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "近年来，Adobe接连推出多款AI工具，从Firefly的图像和视频模型到Photoshop的AI Relight。一批新公开的专利申请暗示了它的下一步方向，其中包括Adobe目前几乎没有涉足的领域。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
+          "cap": "Adobe关于AI text-to-3D世界生成器的专利 (Image: Adobe / USPTO)"
+        },
+        {
+          "t": "p",
+          "x": "专利追踪平台Patentlyze发现的一份USPTO申请，描述了一种由文本生成可漫游3D世界的方法。输入\"a foggy Japanese garden at dusk\"（黄昏时雾气笼罩的日本庭园）这样的提示词后，系统会先生成类似360视图的球形2D中间图像，再由第二个AI流程以此为基础构建3D几何体。用户可以从多个视角查看结果，并在其中前后移动。"
+        },
+        {
+          "t": "p",
+          "x": "如今构建3D环境耗时较长，往往需要数以百计经过雕刻和绘制的资产。Adobe的Substance应用覆盖了这一流程的部分环节，但与ZBrush和Blender相比，Substance 3D Modeler仍属小众，也尚无Firefly-powered工具。最接近的现有产品，如Blockade Labs的Skybox AI，生成的是360-degree场景，而非可漫游的环境。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe近期的其他申请还涉及用单张照片生成新相机角度的AI、3D模型之间的材质匹配以及3D服装预览。Creative Bloq指出，专利申请并不一定意味着有推出产品的计划。"
+        }
+      ]
+    },
+    "design/apple-macos-ai-agent-full-disk-access-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
+          "cap": "Credit: Apple"
+        },
+        {
+          "t": "p",
+          "x": "Apple在Apple Developer页面发布了题为“Updates to Full Disk Access in macOS”的通知，警告不要以可能让用户面临风险的方式授予AI智能体Full Disk Access。"
+        },
+        {
+          "t": "p",
+          "x": "Apple表示，一些开发者使用Full Disk Access的方式，会在用户并不完全知情和理解的情况下，暴露其系统上的一切，包括文件、邮件、信息，甚至浏览记录。"
+        },
+        {
+          "t": "p",
+          "x": "“今后，我们将引入更多管控措施，确保真正希望授予应用这种非同寻常访问级别的用户，只能通过非常明确的用户操作来实现。解决这一问题至关重要。随着AI智能体日益强大和自主，这种访问级别带来的风险将大幅增加。”"
+        },
+        {
+          "t": "p",
+          "x": "No Film School指出，在这些管控措施推出之前，完全不给AI智能体这种访问权限，就能规避风险。"
+        }
+      ]
+    },
+    "design/uxcollective-ai-skill-atrophy-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
+          "cap": "当认知卸载变成遗忘 (Visualization by Slava Polonski)"
+        },
+        {
+          "t": "p",
+          "x": "AI并没有让我们变得不那么聪明，而是在减少我们练习智力的量。真正的问题在于，对于那些不再需要亲自做的事，我们可能会慢慢忘记该怎么做。"
+        },
+        {
+          "t": "p",
+          "x": "Slava Polonski探讨了AI带来的技能退化与认知卸载：当我们把最初让这些技能成为自己一部分的思考、判断和挣扎外包出去时，会发生什么。"
+        },
+        {
+          "t": "p",
+          "x": "文章从电话号码谈起。没有人决定不再记号码；这种能力只是悄悄地不再被使用，随后又悄悄地消失了。把一项技能交给机器，并不让人觉得是一种损失，反而像是一种进步。"
+        }
+      ]
+    },
+    "design/formas-cartesian-agentic-modeller": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Formas.AI发布了Cartesian，这是一款面向早期建筑、室内、家具和产品设计的AI辅助（AI-assisted）平台，旨在把AI生成（AI-generated）的概念转化为可编辑、具有物理意义的几何体。设计师可以从照片、草图、文字简报或现有模型出发，再通过对话逐一细化各个组件。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“背后的技术可能极其复杂，但体验不应如此。”联合创始人兼CEO Yiping Goh表示。"
+        },
+        {
+          "t": "p",
+          "x": "其核心是专为AI智能体打造的自有CAD内核层和几何工具包，可构建实体与自由曲面，并以编程方式检查和修改几何体。模型按命名的组件、图层和装配体组织；联合创始人Carlos Bañón表示，这些关系“赋予几何意义，并在模型变化时帮助保留设计意图”。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Formas-Cartesian-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一套编排系统协调多个AI模型（包括OpenAI的GPT-6 Astra和Claude Opus 5.5）以及专业智能体。智能体可请求日照、阴影和实时风环境分析，为建模决策提供依据。"
+        },
+        {
+          "t": "p",
+          "x": "Cartesian可与Rhinoceros和SketchUp实时连接，支持DXF和IFC的导入导出，以及STEP和STL导出。桌面版将在macOS和Windows上分阶段推出，计划自2026年10月31日起扩大开放范围。"
+        }
+      ]
     }
   }
 }

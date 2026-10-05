@@ -1,77 +1,112 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "games",
-  "now_iso": "2026-10-04T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-      "source": "The Verge",
-      "published_iso": "2026-10-03T16:49:10+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "excerpt": "During a presentation on the future of RE Engine, Capcom laid out its plans to embrace AI in ‘development workflows.’",
+      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "section": "games"
+      "published_iso": "2026-10-05T11:08:39.980413+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Developer removes promotional material as it investigates situation, says it highlights \"an issue with our own processes which we must address\"",
+      "title": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
+      "cluster": "c0"
     },
     {
-      "title": "Com2uS Platform launches Hive Axyl, an AI-optimized platform to simplify language integration",
-      "url": "https://gamesbeat.com/com2us-platform-launches-hive-axyl-an-ai-optimized-platform-to-simplify-language-integration/",
-      "source": "GamesBeat",
-      "published_iso": "2026-10-02T12:45:38+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Hive-Axyl.png",
-      "excerpt": "Com2uS Platform has announced the launch of Hive Axyl, an AI-optimized platform that aims to make it easier to integrate natural-language.",
+      "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
+      "source": "GamesIndustry.biz",
       "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "Stardock unveils Clairvoyance AI productivity tools for game devs and more | exclusive",
-      "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs-and-more-exclusive/",
-      "source": "GamesBeat",
-      "published_iso": "2026-10-02T13:30:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg",
-      "excerpt": "Brad Wardell's Stardock unveiled Clairvoyance, a set AI tools that is making game developers and other more productive.",
-      "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "Artist Falsely Accused Of Using GenAI Gives The Perfect Response, 'Don't Forget What Makes Us Human!' - Kotaku",
-      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
-      "source": "Kotaku",
-      "published_iso": "2026-10-02T17:30:58+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
-      "excerpt": "Loish took to Instagram to explain why such accusations matter, and how to spot original creativity",
-      "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects",
-      "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
-      "source": "Kotaku",
-      "published_iso": "2026-10-03T16:20:08+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg",
-      "excerpt": "Vibe coders are getting legal notices",
-      "category": "games",
-      "section": "games",
+      "published_iso": "2026-10-05T13:35:22.180302+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/ghost-of-yotei-qssr.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "PlayStation Spectral Super Resolution (PSSR) remains exclusive to the PS5 Pro, which SIE says is the \"gold standard\"",
+      "title": "Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech",
       "history_match": {
-        "score": 0.177,
+        "score": 0.327,
+        "date": "2026-10-02",
+        "url": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
+        "title": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5",
+        "band": "related"
+      },
+      "cluster": "c1"
+    },
+    {
+      "url": "https://www.ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-10-05T20:47:52.527Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/10/05/runescape-ai-1791232364399.png?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "RuneScape developer Jagex has pulled a new trailer after a six-fingered knight led to allegations of generative AI use from fans.",
+      "title": "RuneScape Dev Jagex Responds to AI Allegations, Pulls New Trailer After Fans Spot Knight With 6 Fingers",
+      "history_match": {
+        "score": 0.191,
+        "date": "2026-09-13",
+        "url": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
+        "title": "\"What in the vibe-coded s*** is this\" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex",
+        "band": "related"
+      },
+      "cluster": "c0"
+    },
+    {
+      "url": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-10-05T15:43:55.286Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Fortnite has quietly replaced a piece of in-game artwork after fans spotted its original version contained a Google Gemini AI watermark.",
+      "title": "Fortnite Has Updated In-Game Art After Fans Discovered a Google Gemini AI Image Watermark"
+    },
+    {
+      "url": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-10-05T16:28:03Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+      "excerpt": "Hideo Kojima addresses AI after DLSS 5 hit Death Stranding 2, says \"I don't much like the idea\" of it taking work or control from artists. But he thinks it's here to stay",
+      "title": "Hideo Kojima addresses AI after DLSS 5 hit Death Stranding 2, says \"I don't much like the idea\" of it taking work or control from artists"
+    },
+    {
+      "url": "https://kotaku.com/zelda-and-banjo-recompiled-devs-go-to-war-with-ai-vibe-coded-slopcomps-2000739936",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-10-05T14:22:27+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/Banjo.jpg",
+      "excerpt": "Zelda and Banjo Recompiled Devs Go To War With AI Vibe-Coded 'Slopcomps'. AI-assisted projects provoking stark criticism",
+      "title": "Zelda and Banjo Recompiled Devs Go To War With AI Vibe-Coded 'Slopcomps'",
+      "history_match": {
+        "score": 0.349,
         "date": "2026-10-03",
-        "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
-        "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
+        "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
+        "title": "Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: \"throwing AI at it is just disrespectful\"",
         "band": "related"
       }
     },
     {
-      "title": "AI Made StarCraft Bot Swaps In Human Made Bot In Tournament",
-      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+      "url": "https://kotaku.com/ocarina-of-time-romhack-soccerina-of-time-2000740026",
       "source": "Kotaku",
-      "published_iso": "2026-10-03T21:26:58+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg",
-      "excerpt": "In a showdown between AI generated Brood War bots and human made ones, OpenAI’s champion resorted to its natural playbook: lie, cheat and steal",
       "category": "games",
-      "section": "games",
+      "published_iso": "2026-10-05T20:00:01+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/soccerina-1200x675.jpg",
+      "excerpt": "You Can Play Soccer In Ocarina Of Time And—Ugh, It's Vibe-Coded. Goal Skulltulas",
+      "title": "You Can Play Soccer In Ocarina Of Time And—Ugh, It's Vibe-Coded",
       "history_match": {
-        "score": 0.168,
+        "score": 0.154,
+        "date": "2026-09-19",
+        "url": "https://kotaku.com/team-behind-popular-ocarina-of-time-pc-port-admit-to-using-ai-for-years-and-now-fans-are-freaking-out-about-vibecoded-slop-2000735358",
+        "title": "Team Behind Popular Ocarina Of Time PC Port Admit To Using AI For Years And Now Fans Are Freaking Out About 'Vibecoded Slop' - Kotaku",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "source": "The Verge",
+      "category": "games",
+      "published_iso": "2026-10-04T15:21:59+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9020427/swarm_screenshot27_large.jpg?quality=90&strip=all&crop=0,8.1151832460733,100,83.769633507853",
+      "excerpt": "When GPT-6 Astra’s own bot failed, it simply downloaded the best human-made bot instead.",
+      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+      "history_match": {
+        "score": 0.266,
         "date": "2026-09-30",
         "url": "https://eu.36kr.com/en/p/3995368325501056",
         "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
@@ -79,85 +114,132 @@
       }
     },
     {
-      "title": "The Original 'Halo' Is Now Playable in Web Browsers With Multiplayer Support",
-      "url": "https://www.polygon.com/halo-web-browser-ai-game-mods/",
-      "source": "Polygon",
-      "published_iso": "2026-10-02T17:54:00Z",
-      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/ss_567cd7abbf4dc976c707fb6b73be93e21bfbba0a-1920x1080.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "The Halo: Combat Evolved fan project supports up to 128 players",
+      "url": "https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "section": "games",
+      "published_iso": "2026-10-05T15:13:13.396924+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/banjo-kazooie-unofficial-pc-port-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "A Banjo Kazooie: Recompiled developer has spoken out against the idea that generative AI allows for faster PC ports and, therefore, better preservation.",
+      "title": "Claims that genAI speeds up PC ports of classic games are either \"false\" or missing the point, says Banjo Kazooie: Recompiled developer",
       "history_match": {
-        "score": 0.166,
-        "date": "2026-09-30",
-        "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-        "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
+        "score": 0.208,
+        "date": "2026-10-03",
+        "url": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/",
+        "title": "Zelda and Banjo PC port devs slam new vibe-coded Banjo-Tooie recompilation: \"throwing AI at it is just disrespectful\"",
         "band": "related"
       }
     },
     {
-      "title": "Vibe-coded mashup mods are flooding X/Twitter, and modders hate it",
-      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+      "url": "https://automaton-media.com/en/news/morpho-reverie-combines-rhythm-gameplay-and-a-visual-novel-in-a-narrative-exploring-musicians-being-replaced-by-ai/",
+      "source": "AUTOMATON",
+      "category": "games",
+      "published_iso": "2026-10-01T07:08:32+00:00",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261001-73217-header.jpg",
+      "excerpt": "The game recently received a new story trailer, with a demo planned to release this fall.",
+      "title": "Morpho Reverie combines rhythm gameplay and a visual novel in a narrative exploring musicians being replaced by AI - AUTOMATON WEST"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IYvRShclEL8",
+      "source": "Unity (YouTube)",
+      "category": "games",
+      "published_iso": "2026-10-05T15:00:08-07:00",
+      "og_image": "https://i.ytimg.com/vi/IYvRShclEL8/maxresdefault.jpg",
+      "excerpt": "without leaving the terminal ⏩Give an agent your concept art and a short brief, and watch it build a working UI Toolkit main menu through the Unity CLI. The ...",
+      "title": "Turn concept art into a functional game UI"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0C7GjShUnlY",
+      "source": "Unreal Engine (YouTube)",
+      "category": "games",
+      "published_iso": "2026-10-02T09:00:05-07:00",
+      "og_image": "https://i.ytimg.com/vi/0C7GjShUnlY/maxresdefault.jpg",
+      "excerpt": "Generic AI generates code and solves the easy part. The hard parts of Unreal Engine development—like Gameplay Ability System (GAS) bootstrap, build triage, D...",
+      "title": "Agentic Development in Unreal Engine with Rider | Unreal Fest Chicago 2026",
+      "history_match": {
+        "score": 0.238,
+        "date": "2026-09-19",
+        "url": "https://www.youtube.com/watch?v=k0tgmrBuIJc",
+        "title": "Getting Started with MCP in Unreal Engine 5.8",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.gamemeca.com/view.php?gid=1781199",
+      "source": "게임메카",
+      "category": "games",
+      "published_iso": "2026-09-30T20:32:01+09:00",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/199/gm560931_thumb____.webp",
+      "excerpt": "컴투스플랫폼은 자연어 명령으로 백엔드 시스템 연동을 지원하는 AI 특화 게임 백엔드 플랫폼 하이브 액실을 출시했다. 하이브 액실은 인증과 결제 등 복잡한 기능을 단일 환경에서 일관되게 관리하며 반복 작업을 줄여준다. 개발사는 이 플랫폼을 통해 인프라 구축 부담을 줄이고 게임 본연...",
+      "title": "AI 특화 게임 백엔드 플랫폼 '하이브 액실' 정식 출시",
+      "history_match": {
+        "score": 0.416,
+        "date": "2026-09-30",
+        "url": "https://www.inven.co.kr/webzine/news/?news=321491",
+        "title": "컴투스플랫폼, 하이브 액실 30일 출시",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-10-02T17:30:58+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
+      "excerpt": "Artist Falsely Accused Of Using GenAI Gives The Perfect Response, 'Don't Forget What Makes Us Human!' - Kotaku. Loish took to Instagram to explain why such accusations matter, and how to spot original creativity",
+      "title": "Artist Falsely Accused Of Using GenAI Gives The Perfect Response, 'Don't Forget What Makes Us Human!' - Kotaku"
+    },
+    {
+      "url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
       "source": "Eurogamer",
-      "published_iso": "2026-10-04T16:38:22.846067+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "A wave of AI-decompiled mashup mods has taken over X/Twitter this week.",
       "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads",
-      "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-10-02T15:37:33.400541+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Total War: Warhammer 3 mod SFO: Grimhammer 3 has been \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads.",
-      "category": "games",
-      "section": "games"
-    },
-    {
-      "title": "Playing God: The revolutionary AI that made Black & White still unforgettable",
-      "url": "https://www.gamesradar.com/games/simulation/playing-god-the-revolutionary-ai-that-made-black-and-white-still-unforgettable/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-10-04T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4HeBHR9BtGDXoXNHjBmKLB-1280-80.jpg",
-      "excerpt": "The AI God-game that came before AI started playing God",
-      "category": "games",
-      "section": "games"
+      "published_iso": "2026-10-02T09:28:14.210392+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/ghost-of-yotei-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei. AI upscaling was previously exclusive to PS5 Pro, but base PS5s are getting a watered down version, and it's available now.",
+      "title": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
+      "history_match": {
+        "score": 0.255,
+        "date": "2026-10-02",
+        "url": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
+        "title": "Sony Announces QSSR, a Trimmed Down Version of PSSR That Finally Brings AI Upscaling to Base PS5",
+        "band": "related"
+      },
+      "cluster": "c1"
     }
   ],
   "dedup": {
     "dropped": 3,
-    "kept": 10,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 3,
-    "same_story_pairs": []
+    "dropped": [
+      {
+        "url": "https://unity.com/blog/unity-plugin-grok",
+        "title": "Official Unity Plugin for Grok Build Is Now Available | Unity",
+        "match": {
+          "score": 0.625,
+          "date": "2026-10-02",
+          "url": "https://www.youtube.com/watch?v=Fx1orSJc8d4",
+          "title": "Introducing the official Unity plugin for Grok Build"
+        }
+      }
+    ],
+    "review": 9,
+    "same_story_pairs": [
+      [
+        "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+        "https://www.ign.com/articles/runescape-dev-pulls-trailer-after-6-fingered-knight-leads-to-generative-ai-allegations",
+        0.332
+      ],
+      [
+        "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
+        "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+        0.412
+      ]
+    ]
   },
   "history_digest": [
-    {
-      "date": "2026-09-05",
-      "title": "Building a Procedural Shell Grotto with Substance 3D Designer & UE5",
-      "url": "https://80.lv/articles/building-a-procedural-shell-grotto-with-substance-3d-designer-unreal-engine"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "The AI Panic Is Forcing Developers To Prove Their Trailers Were Made By Humans",
-      "url": "https://kotaku.com/game-accused-of-using-ai-to-generate-its-reveal-trailer-proves-it-was-made-by-people-2000731291"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Modder Enables DLSS 5 Neural Rendering On AMD Radeon RX 9070 XT",
-      "url": "https://wccftech.com/modder-enables-dlss-5-neural-rendering-on-amd-radeon-rx-9070-xt/"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Hands-on with DLSS 5 in NBA 2K27: what works and what doesn't about Nvidia's new AI upscaler",
-      "url": "https://www.gamesradar.com/hardware/desktop-pc/hands-on-with-dlss-5-in-nba-2k27-heres-what-works-and-what-doesnt-work-about-nvidias-new-ai-upscaler/"
-    },
     {
       "date": "2026-09-06",
       "title": "ArtStation Has New Owners Who Say They'll Put Artists First By Blocking AI Scrapers",
@@ -752,6 +834,31 @@
       "date": "2026-10-03",
       "title": "AI-generated Fallout: New York browser game full of utterly cursed faces slapped with Bethesda cease and desist, its slop prompter claims",
       "url": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Stardock unveils Clairvoyance AI productivity tools for game devs and more | exclusive",
+      "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs-and-more-exclusive/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects",
+      "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Vibe-coded mashup mods are flooding X/Twitter, and modders hate it",
+      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "\"Support modders, not AI\": Total War: Warhammer 3 mod \"deliberately corrupted\" by its own creator in protest of AI-infused unauthorised reuploads",
+      "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
     }
   ]
 }

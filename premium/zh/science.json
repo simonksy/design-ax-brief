@@ -5714,6 +5714,139 @@
           "x": "其他科学家警告称，这存在精神隐私风险，尤其是当类似方法转向EEG时。UCSB神经科学家汤米·斯普拉格（Tommy Sprague）说：“我们必须更认真一点地对待伦理问题。”"
         }
       ]
+    },
+    "science/berkeley-lab-heat-shield-xray-ai-ablation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
+        },
+        {
+          "t": "p",
+          "x": "隔热罩靠烧蚀来保护航天器，但研究人员通常只能看到前后（before-and-after）对比图。Artemis I出现了模拟未能预测的意外炭化和不均匀材料损耗。"
+        },
+        {
+          "t": "video",
+          "yt": "04rSPGwMLlM"
+        },
+        {
+          "t": "p",
+          "x": "NASA与Lawrence Berkeley National Laboratory的Advanced Light Source合作改变了这一点。LBNL研究人员建造了一个可将样品加热至900℃的腔室，同时由X-ray micro-computed tomography（X射线显微断层成像）拍下材料分解时的3D图像。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
+          "cap": "工程师在Kennedy Space Center处理Artemis II隔热罩。图片来源 - NASA"
+        },
+        {
+          "t": "p",
+          "x": "SLA-561V中的软木颗粒汽化成中空孔洞，而SLA-220则降解为排出高温气体的分叉微通道（micro-channels）。"
+        },
+        {
+          "t": "p",
+          "x": "为兼顾速度与分辨率，团队训练了一个Generative Adversarial Network（GAN），把快速的中等分辨率（intermediate-resolution）扫描转换为高分辨率（high-resolution）3D记录，呈现材料翘曲、炭化和掏空的过程。工程模拟尚未据此更新。"
+        }
+      ]
+    },
+    "science/autonomous-ai-dermatology-appointments-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
+          "cap": "图片来源：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "一项在EADV Congress 2026上发表、涉及8,391名患者的真实世界（real-world）研究发现，在16个月里，自主AI可为两家U.K.医院腾出足够产能，新增逾8,500次面对面（face-to-face）皮肤科门诊。"
+        },
+        {
+          "t": "p",
+          "x": "一款带CE-marked认证的Class III AI医疗器械对智能手机拍摄的皮损图像进行分类，自主让良性病例出院，并将风险较高（higher-risk）的病例转交远程皮肤科医生审核。在两家医院，AI分别在无临床医生审核的情况下让31%和25%的患者出院。"
+        },
+        {
+          "t": "p",
+          "x": "据估算，这一路径节省了2,851小时临床医生时间，产能提升约62%，活检率从43%降至27%。"
+        },
+        {
+          "t": "p",
+          "x": "在一个全国数据集中，对浸润性黑色素瘤、SCC和BCC的敏感度超过98%。上市后（post-market）监测发现六例假阴性，未发现不良结局。第一作者Dr. Lucy Thomas说：“安全部署AI系统不是一次性（one-off）的工作。”"
+        }
+      ]
+    },
+    "science/copenhagen-chatbots-knowledge-collapse-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
+          "cap": "图片来源：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "由University of Copenhagen计算机科学系（DIKU）牵头的研究发现，大语言模型提供的信息范围明显比常规网络搜索窄。该研究将在EMNLP 2026上发表。"
+        },
+        {
+          "t": "p",
+          "x": "团队在155个主题上测试了27个模型，每个主题使用200种提示表述，共产生约70百万条陈述。即便是最多样的模型OpenAI的GPT-5，其信息多样性也比Google低至少18.7%。"
+        },
+        {
+          "t": "p",
+          "x": "现任职于Aalborg University的第一作者Dustin Wright表示：“人们在很大程度上一再接触同样的信息。”"
+        },
+        {
+          "t": "p",
+          "x": "模型会压缩训练文本，并过滤掉不太常见的模式。如果模型越来越多地用AI-generated文本训练，信息范围可能随代际收窄，研究人员称这一风险为“知识坍塌”。资深作者Isabelle Augenstein指出，较新的模型多样性略高，因此这种情况尚未发生。"
+        }
+      ]
+    },
+    "science/stanford-ai-benchmarks-measurement-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
+          "cap": "图片来源：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "从推理到安全，基准测试为AI模型的方方面面打分，数十亿美元资金和政策决定都取决于此。在两项新研究中，Stanford研究人员及合作者追问：这些测试是否真在测量它们声称测量的东西。"
+        },
+        {
+          "t": "p",
+          "x": "他们借用测量科学与心理测量学的工具，检验了56个广泛使用的基准测试，发现基准测试并不总能测量其声称的内容，而声称测量同一事物的基准测试之间也常常结果不一。"
+        },
+        {
+          "t": "p",
+          "x": "Sanmi Koyejo说，例如偏见基准测试BBQ，最终测到的更接近阅读理解能力。"
+        },
+        {
+          "t": "p",
+          "x": "第二篇论文显示，从英语翻译过来的安全基准测试会在两方面失灵：护栏可能被削弱，翻译后的测试也会成为更不可靠的测量工具。Koyejo说：“谁握着量尺，谁就掌舵。”"
+        }
+      ]
+    },
+    "science/york-illusion-ai-vision-errors": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "我们的眼睛并不总能准确告诉我们物体在哪里——这或许是生物视觉运作方式的一个特点，而不只是缺陷。York University研究人员的一项新研究借助一种常见错觉提出问题：如果人工智能要更像我们一样去看，它是否也应犯下某些同样的系统性感知“错误”？"
+        },
+        {
+          "t": "p",
+          "x": "盯着朝一个方向稳定移动的东西看一阵后，紧接着看到的静止物体可能会显得朝相反方向略微偏移。这种错觉被称为运动后效（motion aftereffect），为科学家观察知觉背后的计算提供了一扇窗口。该研究发表于Current Biology。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vision-1.jpg",
+          "cap": "Credit: Orhan Pergel from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "当前的AI视觉系统往往能准确判断物体的位置，但通常无法再现近期视觉经验重塑这一判断的方式。研究人员在灵长类视觉皮层中发现了相应的变化，但在他们测试的AI模型中没有发现。这些发现也为评估动态视觉模型提供了新的基准。"
+        },
+        {
+          "t": "p",
+          "x": "“如果我们想要能与人类协作、以更契合人类的方式理解世界的AI，就不能只关注它是否给出正确答案。”资深作者Kohitij Kar说。"
+        }
+      ]
     }
   }
 }

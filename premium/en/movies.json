@@ -6162,6 +6162,115 @@
           "x": "On film, Cao was direct: \"the current quality of the output... is not to film-quality standards. But people are still using it,\" adding that previs \"is a huge thing for us now.\" Tripo builds plugins for Maya, Houdini and Blender and is working toward an agentic system that automates tedious workflows, building AI \"with the artists... not around them.\""
         }
       ]
+    },
+    "movies/pvc-ai-coded-editor-utilities-roundup": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Artificial Intelligence isn't good at everything, but it is good at writing code. Small-scale software tools sit right in the sweet spot. Iain Anderson has no firm information on how the new tools he rounds up were made, but says it's a fair bet most had at least some degree of AI involvement."
+        },
+        {
+          "t": "p",
+          "x": "Because coding has become easier, the post production scene is seeing a lot more apps that solve annoying smaller issues, because editors are able to design and implement those tools themselves."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
+          "cap": "Beat turns your script into a node-based multifunctional document"
+        },
+        {
+          "t": "p",
+          "x": "Picks include Beat, a free visual scripting tool that can hook in AI tools via MCP, and PowerCue, a voice-activated teleprompter."
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
+          "cap": "Doza Assist is one of the current crop of AI-powered editing solutions"
+        },
+        {
+          "t": "p",
+          "x": "Automatic rough-cut tools such as Doza Assist, PowerCut and RoughCut also feature, alongside FCP Extender, which brings a generative extend feature to Final Cut Pro."
+        },
+        {
+          "t": "p",
+          "x": "“There's still a big gap between ‘app made for me’ and ‘app that people will want to buy’,” Anderson writes, pointing to marketing and support as huge challenges."
+        }
+      ]
+    },
+    "movies/laemmle-inside-the-arthouse-chronicle-ai-audience": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
+          "cap": "‘Inside the Arthouse’"
+        },
+        {
+          "t": "p",
+          "x": "Laemmle Theatres president Greg Laemmle and filmmaker and actor Raphael Sbarge host “Inside the Arthouse,” a video podcast that has grown to half a million YouTube subscribers and over 5 million views in two years."
+        },
+        {
+          "t": "p",
+          "x": "The show has partnered with Chronicle, an AI-driven data company. Chronicle uses AI models to simulate audiences, analyze viewer behaviors and interest, push content more effectively to people on social, and tailor that data so the hosts can decide how to market and grow the podcast."
+        },
+        {
+          "t": "p",
+          "x": "After two months, the hosts say engagement rose “literally almost overnight.” Chronicle builds an AI model trained on the show itself, then micro-targets clips to specific users rather than “buying a bunch of ads and just shotgunning it,” co-founder Scott Greenberg said."
+        },
+        {
+          "t": "p",
+          "x": "The findings are shaping episode length, guest bookings and even potential live events in Laemmle's venues."
+        }
+      ]
+    },
+    "movies/motionographer-ai-animation-ip-production": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Generative AI is rapidly moving from experimentation into professional animation and commercial production. For studios, agencies and brands, the opportunity is significant."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
+          "cap": "Ani, a small robot with glowing pink eyes, running across a desktop"
+        },
+        {
+          "t": "p",
+          "x": "But as AI becomes part of mainstream production, a more important question is emerging: what happens to the material being put into these systems? Creative teams routinely work with unreleased campaigns, proprietary characters, confidential footage and valuable client intellectual property."
+        },
+        {
+          "t": "p",
+          "x": "Protections vary considerably between AI providers. Some commit not to train models on customer content; others retain broad rights over uploaded material."
+        },
+        {
+          "t": "p",
+          "x": "Jon Draper, Creative Director for Generative AI at Synima and founder of AIAnimation.com, believes this will become one of the defining issues as AI animation matures. The next stage will be about professional infrastructure: clear ownership, controlled access, secure handling of client assets and transparency over how data is used."
+        }
+      ]
+    },
+    "movies/mformedia-arcana-labs-ai-pact": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/09/MFORMEDIA-e1790776130766.jpeg?w=1024",
+          "cap": "MForMedia"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: Dubai’s MForMedia will look to add AI workflows into its productions following a deal with Arcana Labs. The two companies have struck a strategic partnership to incorporate Arcana’s software into MForMedia’s production workflows, Arabic-language co-productions and staff training. The overarching goal is to build AI-native film and television production capabilities across the Middle East and North Africa (MENA) region."
+        },
+        {
+          "t": "p",
+          "x": "Arcana Studios, the production arm of Arcana Labs, and MForMedia will also co-produce original content for MENA audiences, with unnamed titles already in development. MForMedia staff are also provided with a five-day training workshop on AI-native production this month."
+        },
+        {
+          "t": "p",
+          "x": "“With this model, we are embedding an AI-native pipeline inside a regional studio from day one,” said Arcana Labs CEO Jonathan Yunger. “Content can now be created in Dubai, in Arabic, faster and more cost-effectively than ever before, ensuring Arabic-language production stays in the region.”"
+        },
+        {
+          "t": "p",
+          "x": "MForMedia, led by co-founders and Managing Partners Ralph Matar and Khalil Homeissy, produces Arabic versions of Carpool Karaoke and The X Factor. The news comes soon after MForMedia hired MENA television industry veteran Ziad Kebbi as Managing Director, when the company announced it was pivoting toward AI production, original content and IP ownership."
+        }
+      ]
     }
   }
 }

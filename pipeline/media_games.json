@@ -1,33 +1,7 @@
-{
-  "date": "2026-10-05",
-  "section": "games",
-  "media": [
-    {
-      "id": "capcom-re-engine-ai-workflows",
-      "type": "image",
-      "src": "pipeline/media/capcom-re-engine-ai-workflows.jpg"
-    },
-    {
-      "id": "stardock-clairvoyance-ai-devtools",
-      "type": "image",
-      "src": "pipeline/media/stardock-clairvoyance-ai-devtools.jpg"
-    },
-    {
-      "id": "vibe-coded-mashup-mods-backlash",
-      "type": "video",
-      "src": "pipeline/media/vibe-coded-mashup-mods-backlash.mp4",
-      "poster": "pipeline/media/vibe-coded-mashup-mods-backlash.jpg"
-    },
-    {
-      "id": "grimhammer3-mod-corrupted-ai-protest",
-      "type": "image",
-      "src": "pipeline/media/grimhammer3-mod-corrupted-ai-protest.jpg"
-    },
-    {
-      "id": "activision-mw2-genai-legal-notice",
-      "type": "video",
-      "src": "pipeline/media/activision-mw2-genai-legal-notice.mp4",
-      "poster": "pipeline/media/activision-mw2-genai-legal-notice.jpg"
-    }
-  ]
-}
+{"media":[
+{"id":"unity-agent-concept-art-to-ui-menu","type":"video","src":"pipeline/media/unity-agent-concept-art-to-ui-menu.mp4","poster":"pipeline/media/unity-agent-concept-art-to-ui-menu.jpg"},
+{"id":"jagex-pulls-runescape-genai-trailer","type":"image","src":"pipeline/media/jagex-pulls-runescape-genai-trailer.jpg"},
+{"id":"fortnite-replaces-gemini-watermark-art","type":"image","src":"pipeline/media/fortnite-replaces-gemini-watermark-art.jpg"},
+{"id":"kojima-on-ai-after-dlss5-death-stranding2","type":"image","src":"pipeline/media/kojima-on-ai-after-dlss5-death-stranding2.jpg"},
+{"id":"rider-agentic-unreal-dev-unreal-fest","type":"video","src":"pipeline/media/rider-agentic-unreal-dev-unreal-fest.mp4","poster":"pipeline/media/rider-agentic-unreal-dev-unreal-fest.jpg"}
+]}

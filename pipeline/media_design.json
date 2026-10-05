@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-05",
-  "section": "design",
-  "media": [
-    {
-      "id": "formas-cartesian-agentic-modeller",
-      "type": "image",
-      "src": "pipeline/media/formas-cartesian-agentic-modeller.jpg"
-    },
-    {
-      "id": "lightroom-prompt-to-edit-restore",
-      "type": "image",
-      "src": "pipeline/media/lightroom-prompt-to-edit-restore.jpg"
-    },
-    {
-      "id": "chatgpt-sites-public-beta-hosting",
-      "type": "image",
-      "src": "pipeline/media/chatgpt-sites-public-beta-hosting.jpg"
-    },
-    {
-      "id": "premiere-android-free-firefly",
-      "type": "image",
-      "src": "pipeline/media/premiere-android-free-firefly.jpg"
-    },
-    {
-      "id": "aholo-lux3d-blender-agent",
-      "type": "image",
-      "src": "pipeline/media/aholo-lux3d-blender-agent.jpg"
-    }
-  ]
-}
+{"media":[
+{"id":"bimlogiq-argus-revit-family-agent","type":"image","src":"pipeline/media/bimlogiq-argus-revit-family-agent.jpg"},
+{"id":"photoshop-remove-tool-no-generative-credits","type":"video","src":"pipeline/media/photoshop-remove-tool-no-generative-credits.mp4","poster":"pipeline/media/photoshop-remove-tool-no-generative-credits.jpg"},
+{"id":"adobe-text-to-3d-patent","type":"image","src":"pipeline/media/adobe-text-to-3d-patent.jpg"},
+{"id":"apple-macos-ai-agent-full-disk-access-warning","type":"image","src":"pipeline/media/apple-macos-ai-agent-full-disk-access-warning.jpg"},
+{"id":"uxcollective-ai-skill-atrophy-essay","type":"image","src":"pipeline/media/uxcollective-ai-skill-atrophy-essay.jpg"}
+]}

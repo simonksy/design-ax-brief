@@ -6259,6 +6259,130 @@
           "x": "HR teams also face lengthy AI-written grievance letters full of inaccurate detail. \"Quite often it's given me more to do,\" one attendee said, adding that AI can answer questions but \"can't read the person.\""
         }
       ]
+    },
+    "games/jagex-pulls-runescape-genai-trailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "RuneScape Dragon Slayer 2 trailer. Image credit: Jagex"
+        },
+        {
+          "t": "p",
+          "x": "Jagex has responded to the use of generative AI in a trailer for RuneScape 3's Dragon Slayer 2 quest shown during RuneFest. Reddit users spotted extensive GenAI use, including a six-fingered hand and medieval boots resembling Air Jordans."
+        },
+        {
+          "t": "p",
+          "x": "Jagex said the trailer was produced by \"a trusted external partner who had explicitly confirmed GenAI would not be used,\" and has removed the promotional material as it investigates."
+        },
+        {
+          "t": "p",
+          "x": "\"This is the second time in quick succession that concerns about generative AI have arisen through partners we trusted, and for us that highlights an issue with our own processes which we must address.\" The other case involved a collaboration with 100 Thieves."
+        },
+        {
+          "t": "p",
+          "x": "Jagex says it is overhauling its review processes and will commission creators from the community to tell the story of Dragon Slayer II. \"We don't use GenAI to create our games, artwork or creative assets,\" it said."
+        }
+      ]
+    },
+    "games/fortnite-replaces-gemini-watermark-art": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+          "cap": "Fortnite"
+        },
+        {
+          "t": "p",
+          "x": "Fortnite has quietly replaced a piece of in-game artwork after fans spotted its original version contained a Google Gemini AI watermark."
+        },
+        {
+          "t": "p",
+          "x": "Epic Games added the music track \"Meow\" by Ironmouse, Sleeping Forest & HalaCG to Fortnite last month, with the Gemini watermark in the track artwork's bottom right corner. Its wider discovery last weekend sparked a minor kerfuffle on social media and Reddit."
+        },
+        {
+          "t": "p",
+          "x": "The artwork has now been replaced with a version with no watermark. But the Gemini mark was present in the track's original art, which Epic simply incorporated in-game; it also appears on Spotify."
+        },
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+          "cap": "The original \"Meow\" track art (left) as seen in Fortnite, and its replacement (right). Image credit: Ironmouse/Epic Games."
+        },
+        {
+          "t": "p",
+          "x": "AI-generated art is a contentious subject for Fortnite fans. IGN reads the swap as a sign Epic does not want to openly show artwork with obvious AI elements in the game."
+        }
+      ]
+    },
+    "games/kojima-on-ai-after-dlss5-death-stranding2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+          "cap": "Sam Porter Bridges in Death Stranding 2"
+        },
+        {
+          "t": "p",
+          "x": "Hideo Kojima's Death Stranding 2 got caught up in the discussion around Nvidia DLSS 5, and he has now addressed AI on the Koji10 podcast."
+        },
+        {
+          "t": "p",
+          "x": "\"As a creator, I have mixed feelings about this technology,\" he says. \"AI is good at bringing old photographs to life or adding color to them, right? I think we might stop doing remakes one day.\""
+        },
+        {
+          "t": "p",
+          "x": "But AI can't understand artistic intention. \"As the person who made the original, I wouldn't want someone changing it too much,\" he says. \"There was a reason I chose a particular lighting setup. It would be different if AI understood those intentions.\""
+        },
+        {
+          "t": "video",
+          "yt": "YDTq8SeY9s0"
+        },
+        {
+          "t": "p",
+          "x": "\"I wouldn't like that,\" he says of AI making changes of its own accord. \"Unless I was controlling the AI in my own work, that may be different. I don't know, though.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Maybe AI will eventually do all that automatically. In a hundred years, the resolution may be even higher. But I don't much like the idea.\""
+        }
+      ]
+    },
+    "games/rider-agentic-unreal-dev-unreal-fest": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "0C7GjShUnlY"
+        },
+        {
+          "t": "p",
+          "x": "Generic AI generates code and solves the easy part. The hard parts of Unreal Engine development—like Gameplay Ability System (GAS) bootstrap, build triage, DataTable authoring, crash debugging, mobile configuration—happen in the editor, in engine subsystems, and across a web of interdependent config files that generic AI consistently gets wrong."
+        },
+        {
+          "t": "p",
+          "x": "This session recorded at Unreal Fest Chicago 2026 introduces a practical stack—JetBrains Rider, the Agent Communication Protocol (ACP, an open agent protocol like LSP for AI agents), and UE-specific skills running through AgentBridge—that gives AI agents eyes and hands inside the editor, not just access to your source files."
+        },
+        {
+          "t": "p",
+          "x": "JetBrains covers the complete development lifecycle: architecture consultation, C++ scaffolding with correct GAS replication setup, ability authoring with GameplayEffects, crash triage, actor placement from a text brief, and automated testing."
+        }
+      ]
+    },
+    "games/capcom-re-engine-ai-workflows": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Capcom’s Pragmata might be all about the horrors of AI, but in practice the studio doesn’t seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.” During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is “successfully integrating AI technology into development workflows.”"
+        },
+        {
+          "t": "p",
+          "x": "Capcom has said previously that it will not use AI-generated assets in its games, and instead would focus on using the tech to make development more efficient. Ishida’s comments seem to lineup, though definitely seem to leave the door open to more extensive use. He laid out a plan to turn RE Engine slowly, and incrementally, into an “AI-generation game engine” building towards a “a future where we create games together with AI,” according to IGN’s translation."
+        }
+      ]
     }
   }
 }

@@ -1,143 +1,191 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "section": "games",
   "cards": [
     {
-      "id": "capcom-re-engine-ai-workflows",
+      "id": "unity-agent-concept-art-to-ui-menu",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Capcom, AI와 함께\n게임 만드는 미래 그린다",
-      "body": "Capcom이 RE Engine 발표에서 개발 공정에 AI를 들이겠다고 밝혔다.",
-      "mini_headline": "Capcom, RE Engine에 AI 준비",
+      "headline": "에이전트가 콘셉트 아트를\nUnity 메인 메뉴로",
+      "body": "에이전트가 콘셉트 아트로 Unity CLI에서 UI Toolkit 메뉴를 만든다.",
+      "mini_headline": "콘셉트 아트를 Unity 메뉴로",
       "tool": "Games",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "source": "Unity (YouTube)",
+      "url": "https://www.youtube.com/watch?v=IYvRShclEL8",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+            "t": "video",
+            "yt": "IYvRShclEL8"
           },
           {
             "t": "p",
-            "x": "Capcom의 Pragmata는 AI의 공포를 정면으로 다루지만, 정작 스튜디오는 이 기술을 그리 나쁘게 보지 않는 모양이다. Capcom Open Conference RE: 2026에서 프로그래머 Satoshi Ishida가 “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”(REX 프로젝트의 전망과 미래, 차세대를 향해 더 진화하는 RE Engine)이라는 긴 제목으로 발표에 나섰다. Resident Evil 규모의 게임을 만드는 스튜디오의 고민을 짚는 자리였다. 이 정도 규모면 단순한 작업에도 시간이 엄청나게 든다. Ishida가 내놓은 답은 “개발 워크플로에 AI 기술을 성공적으로 통합하는 것”이다."
+            "x": "터미널을 떠나지 않고도 콘셉트 아트가 실제로 돌아가는 게임 UI가 된다."
           },
           {
             "t": "p",
-            "x": "Capcom은 앞서 AI 생성 에셋(AI-generated assets)을 게임에 넣지 않고, 개발 효율을 높이는 데 이 기술을 쓰겠다고 밝혔다. Ishida의 발언도 그 방침과 맞닿아 있지만 더 넓게 쓸 여지는 분명히 남겨 뒀다. IGN의 번역에 따르면 그는 RE Engine을 천천히, 단계적으로 “AI 생성 게임 엔진(AI-generation game engine)”으로 바꿔 “AI와 함께 게임을 만드는 미래”로 가겠다는 계획을 내놓았다."
+            "x": "콘셉트 아트와 짧은 브리프만 건네면 에이전트가 Unity CLI로 작동하는 UI Toolkit 메인 메뉴를 만들어 낸다."
+          },
+          {
+            "t": "p",
+            "x": "테스트도 에이전트가 직접 한다. Play mode UI 테스트를 돌리고 Game view 스크린샷으로 바뀐 부분을 확인하며 작업을 되풀이한다."
+          },
+          {
+            "t": "p",
+            "x": "방향은 사람이 잡고, 만드는 일은 에이전트가 맡는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Capcom plans a future of\nmaking games with AI",
-          "body": "Capcom used an RE Engine presentation to lay out plans for bringing AI into its game development workflows.",
-          "mini_headline": "Capcom readies AI\nfor RE Engine",
+          "headline": "An agent turns concept art\ninto a Unity main menu",
+          "body": "Given concept art and a short brief, an agent builds a working UI Toolkit main menu through the Unity CLI.",
+          "mini_headline": "Concept art to Unity menu",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                "t": "video",
+                "yt": "IYvRShclEL8"
               },
               {
                 "t": "p",
-                "x": "Capcom’s Pragmata might be all about the horrors of AI, but in practice the studio doesn’t seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation.” During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is “successfully integrating AI technology into development workflows.”"
+                "x": "Turn concept art into a functional game UI without leaving the terminal."
               },
               {
                 "t": "p",
-                "x": "Capcom has said previously that it will not use AI-generated assets in its games, and instead would focus on using the tech to make development more efficient. Ishida’s comments seem to lineup, though definitely seem to leave the door open to more extensive use. He laid out a plan to turn RE Engine slowly, and incrementally, into an “AI-generation game engine” building towards a “a future where we create games together with AI,” according to IGN’s translation."
+                "x": "Give an agent your concept art and a short brief, and watch it build a working UI Toolkit main menu through the Unity CLI."
+              },
+              {
+                "t": "p",
+                "x": "The agent tests its own work too: running Play mode UI tests and grabbing Game view screenshots so it can check its changes and keep iterating."
+              },
+              {
+                "t": "p",
+                "x": "You steer it, and it does the building."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Capcom, AI와 함께\n게임 만드는 미래 그린다",
-          "body": "Capcom이 RE Engine 발표에서 개발 공정에 AI를 들이겠다고 밝혔다.",
-          "mini_headline": "Capcom, RE Engine에 AI 준비",
+          "headline": "에이전트가 콘셉트 아트를\nUnity 메인 메뉴로",
+          "body": "에이전트가 콘셉트 아트로 Unity CLI에서 UI Toolkit 메뉴를 만든다.",
+          "mini_headline": "콘셉트 아트를 Unity 메뉴로",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                "t": "video",
+                "yt": "IYvRShclEL8"
               },
               {
                 "t": "p",
-                "x": "Capcom의 Pragmata는 AI의 공포를 정면으로 다루지만, 정작 스튜디오는 이 기술을 그리 나쁘게 보지 않는 모양이다. Capcom Open Conference RE: 2026에서 프로그래머 Satoshi Ishida가 “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”(REX 프로젝트의 전망과 미래, 차세대를 향해 더 진화하는 RE Engine)이라는 긴 제목으로 발표에 나섰다. Resident Evil 규모의 게임을 만드는 스튜디오의 고민을 짚는 자리였다. 이 정도 규모면 단순한 작업에도 시간이 엄청나게 든다. Ishida가 내놓은 답은 “개발 워크플로에 AI 기술을 성공적으로 통합하는 것”이다."
+                "x": "터미널을 떠나지 않고도 콘셉트 아트가 실제로 돌아가는 게임 UI가 된다."
               },
               {
                 "t": "p",
-                "x": "Capcom은 앞서 AI 생성 에셋(AI-generated assets)을 게임에 넣지 않고, 개발 효율을 높이는 데 이 기술을 쓰겠다고 밝혔다. Ishida의 발언도 그 방침과 맞닿아 있지만 더 넓게 쓸 여지는 분명히 남겨 뒀다. IGN의 번역에 따르면 그는 RE Engine을 천천히, 단계적으로 “AI 생성 게임 엔진(AI-generation game engine)”으로 바꿔 “AI와 함께 게임을 만드는 미래”로 가겠다는 계획을 내놓았다."
+                "x": "콘셉트 아트와 짧은 브리프만 건네면 에이전트가 Unity CLI로 작동하는 UI Toolkit 메인 메뉴를 만들어 낸다."
+              },
+              {
+                "t": "p",
+                "x": "테스트도 에이전트가 직접 한다. Play mode UI 테스트를 돌리고 Game view 스크린샷으로 바뀐 부분을 확인하며 작업을 되풀이한다."
+              },
+              {
+                "t": "p",
+                "x": "방향은 사람이 잡고, 만드는 일은 에이전트가 맡는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Capcom、AIと共に\nゲームを作る未来へ",
-          "body": "CapcomはRE Engineの発表で、開発工程へのAI導入計画を示した。",
-          "mini_headline": "Capcom、RE EngineにAI導入へ",
+          "headline": "エージェントが設定画を\nUnityメインメニューに",
+          "body": "エージェントがコンセプトアートからUnity CLIでUI Toolkitメニューを作る。",
+          "mini_headline": "コンセプトアートをUnityメニューに",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                "t": "video",
+                "yt": "IYvRShclEL8"
               },
               {
                 "t": "p",
-                "x": "CapcomのPragmataはAIの恐ろしさを描く作品かもしれないが、実際のところスタジオ自体はこの技術にそれほど否定的ではないようだ。Capcom Open Conference RE: 2026で、プログラマーのSatoshi Ishidaは「The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation」(REXプロジェクトの展望と未来、次世代に向けてさらに進化するRE Engine)という長いタイトルの講演を行った。講演では、Resident Evil規模のゲームを制作するスタジオが直面する課題を説明した。その規模では、単純な作業でさえ膨大な時間がかかるという。Ishidaが示した解決策は「開発ワークフローにAI技術をうまく統合すること」だ。"
+                "x": "ターミナルを離れずに、コンセプトアートを実際に動くゲームUIへと変える。"
               },
               {
                 "t": "p",
-                "x": "Capcomは以前から、AI生成アセット(AI-generated assets)をゲームに使わず、開発の効率化にこの技術を活用すると述べてきた。Ishidaの発言もそれに沿うものだが、より広範な利用への余地を明らかに残している。IGNの翻訳によると、彼はRE Engineを少しずつ段階的に「AI生成ゲームエンジン(AI-generation game engine)」へと変え、「AIと共にゲームを作る未来」を目指す計画を示した。"
+                "x": "エージェントにコンセプトアートと短い指示を渡せば、Unity CLIを通じて動作するUI Toolkitのメインメニューを組み上げていく。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントは自らの作業もテストする。Play modeのUIテストを走らせ、Game viewのスクリーンショットを撮って変更を確かめ、改良を重ねていく。"
+              },
+              {
+                "t": "p",
+                "x": "舵を取るのは人間で、組み立てるのはエージェントだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Capcom描绘\n与AI共创游戏的未来",
-          "body": "Capcom借RE Engine演讲，公布了将AI引入游戏开发流程的计划。",
-          "mini_headline": "Capcom为RE Engine引入AI",
+          "headline": "智能体把概念图\n变成Unity主菜单",
+          "body": "智能体根据概念图和简短说明，通过Unity CLI搭建可用的UI Toolkit主菜单。",
+          "mini_headline": "概念图变Unity菜单",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                "t": "video",
+                "yt": "IYvRShclEL8"
               },
               {
                 "t": "p",
-                "x": "Capcom的《Pragmata》或许以AI的恐怖为主题，但这家工作室在实践中似乎并不排斥这项技术。在Capcom Open Conference RE: 2026上，程序员Satoshi Ishida做了一场标题颇长的演讲：“The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”（REX项目的展望与未来：面向下一代进一步进化的RE Engine）。他在演讲中阐述了制作Resident Evil这种规模游戏的工作室所面临的挑战——在这种规模下，即便简单的任务也会极其耗时。Ishida表示，解决之道是“将AI技术成功融入开发工作流程”。"
+                "x": "无需离开终端，就能把概念图变成可用的游戏UI。"
               },
               {
                 "t": "p",
-                "x": "Capcom此前曾表示不会在游戏中使用AI生成素材（AI-generated assets），而是专注于用这项技术提高开发效率。Ishida的说法大体与此一致，但显然为更广泛的应用留了余地。据IGN的翻译，他提出了一项计划：逐步、渐进地把RE Engine打造成“AI生成游戏引擎（AI-generation game engine）”，迈向“与AI共同创作游戏的未来”。"
+                "x": "把概念图和一份简短说明交给智能体，就能看着它通过Unity CLI搭建出可运行的UI Toolkit主菜单。"
+              },
+              {
+                "t": "p",
+                "x": "智能体还会自行测试：运行Play mode UI测试、截取Game view截图，以便检查改动并持续迭代。"
+              },
+              {
+                "t": "p",
+                "x": "你来掌舵，它来动手。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Capcom prevé un futuro\nde juegos hechos con IA",
-          "body": "Capcom usó una presentación del RE Engine para exponer sus planes de integrar la IA en el desarrollo de juegos.",
-          "mini_headline": "Capcom prepara la IA para RE Engine",
+          "headline": "Un agente convierte arte\nconceptual en un menú de Unity",
+          "body": "Un agente crea un menú principal en UI Toolkit con la Unity CLI a partir de arte conceptual y un breve encargo.",
+          "mini_headline": "Del arte conceptual a Unity",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                "t": "video",
+                "yt": "IYvRShclEL8"
               },
               {
                 "t": "p",
-                "x": "Puede que Pragmata, de Capcom, gire en torno a los horrores de la IA, pero en la práctica el estudio no parece tan reacio a esta tecnología. Durante la Capcom Open Conference RE: 2026, el programador Satoshi Ishida ofreció una presentación de título extenso: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”. En la charla expuso los retos que afrontan los estudios que producen juegos a la escala de Resident Evil, donde incluso las tareas sencillas pueden consumir muchísimo tiempo. La solución, según Ishida, es “integrar con éxito la tecnología de IA en los flujos de trabajo de desarrollo”."
+                "x": "Convierte arte conceptual en una UI de juego funcional sin salir de la terminal."
               },
               {
                 "t": "p",
-                "x": "Capcom ya había dicho que no usará recursos generados por IA (AI-generated) en sus juegos y que, en cambio, se centraría en usar la tecnología para hacer más eficiente el desarrollo. Los comentarios de Ishida parecen coincidir, aunque sin duda dejan la puerta abierta a un uso más amplio. Según la traducción de IGN, planteó convertir RE Engine de forma lenta y gradual en un “motor de juego de generación por IA” (“AI-generation game engine”), avanzando hacia “un futuro en el que creemos juegos junto con la IA”."
+                "x": "Entrega a un agente tu arte conceptual y un breve encargo, y obsérvalo construir un menú principal funcional con UI Toolkit a través de la Unity CLI."
+              },
+              {
+                "t": "p",
+                "x": "El agente también prueba su propio trabajo: ejecuta pruebas de UI en Play mode y toma capturas de Game view para revisar sus cambios y seguir iterando."
+              },
+              {
+                "t": "p",
+                "x": "Tú lo diriges y él se encarga de construir."
               }
             ]
           }
@@ -145,89 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Capcom, AI와 함께\n게임 만드는 미래 그린다",
-          "body": "Capcom이 RE Engine 발표에서 개발 공정에 AI 도입 계획을 밝혔다.",
-          "mini_headline": "Capcom, RE Engine에 AI 준비",
+          "headline": "에이전트가 콘셉트 아트를\nUnity 메인 메뉴로",
+          "body": "에이전트가 콘셉트 아트로 Unity CLI에서 UI Toolkit 메뉴를 만든다.",
+          "mini_headline": "콘셉트 아트를 Unity 메뉴로",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                "t": "video",
+                "yt": "IYvRShclEL8"
               },
               {
                 "t": "p",
-                "x": "Capcom의 Pragmata는 AI의 공포를 정면으로 다루는 작품이지만, 정작 스튜디오는 이 기술을 그리 부정적으로 보지 않는 듯하다. Capcom Open Conference RE: 2026에서 프로그래머 Satoshi Ishida는 “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”(REX 프로젝트의 전망과 미래, 차세대를 향해 더 진화하는 RE Engine)이라는 긴 제목의 발표를 했다. 그는 Resident Evil 규모의 게임을 만드는 스튜디오가 마주한 과제를 짚었다. 이 정도 규모에서는 단순한 작업조차 엄청난 시간이 든다는 것이다. Ishida가 제시한 해법은 “개발 워크플로에 AI 기술을 성공적으로 통합하는 것”이다."
+                "x": "터미널을 벗어나지 않고 콘셉트 아트를 실제로 작동하는 게임 UI로 바꾼다."
               },
               {
                 "t": "p",
-                "x": "Capcom은 앞서 AI 생성 에셋(AI-generated assets)을 게임에 쓰지 않고, 대신 개발 효율을 높이는 데 이 기술을 쓰겠다고 밝힌 바 있다. Ishida의 발언도 이와 맞아떨어지지만, 더 폭넓은 활용의 여지는 분명히 남겨 둔 것으로 보인다. IGN의 번역에 따르면 그는 RE Engine을 천천히, 단계적으로 “AI 생성 게임 엔진(AI-generation game engine)”으로 바꿔 “AI와 함께 게임을 만드는 미래”로 나아가겠다는 계획을 제시했다."
+                "x": "에이전트에게 콘셉트 아트와 짧은 브리프를 주면, Unity CLI를 거쳐 작동하는 UI Toolkit 메인 메뉴를 만들어 낸다."
+              },
+              {
+                "t": "p",
+                "x": "에이전트는 자기 작업도 직접 테스트한다. Play mode UI 테스트를 돌리고 Game view 스크린샷을 찍어 변경 사항을 확인하며 반복 작업을 이어 간다."
+              },
+              {
+                "t": "p",
+                "x": "방향은 사람이 잡고, 만드는 일은 에이전트가 맡는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Capcom、AIと共に\nゲームを作る未来へ",
-          "body": "CapcomはRE Engineの発表で、開発工程へのAI導入計画を示した。",
-          "mini_headline": "Capcom、RE EngineにAI導入へ",
+          "headline": "エージェントが設定画を\nUnityメインメニューに",
+          "body": "エージェントがコンセプトアートからUnity CLIでUI Toolkitメニューを作る。",
+          "mini_headline": "コンセプトアートをUnityメニューに",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                "t": "video",
+                "yt": "IYvRShclEL8"
               },
               {
                 "t": "p",
-                "x": "CapcomのPragmataはAIの恐ろしさを描く作品かもしれないが、実際のところスタジオ自体はこの技術にそれほど否定的ではないようだ。Capcom Open Conference RE: 2026で、プログラマーのSatoshi Ishidaは「The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation」(REXプロジェクトの展望と未来、次世代に向けてさらに進化するRE Engine)という長いタイトルの講演を行った。講演では、Resident Evil規模のゲームを制作するスタジオが直面する課題を説明した。その規模では、単純な作業でさえ膨大な時間がかかるという。Ishidaが示した解決策は「開発ワークフローにAI技術をうまく統合すること」だ。"
+                "x": "ターミナルを離れずに、コンセプトアートを実際に動くゲームUIへと変える。"
               },
               {
                 "t": "p",
-                "x": "Capcomは以前から、AI生成アセット(AI-generated assets)をゲームに使わず、開発の効率化にこの技術を活用すると述べてきた。Ishidaの発言もそれに沿うものだが、より広範な利用への余地を明らかに残している。IGNの翻訳によると、彼はRE Engineを少しずつ段階的に「AI生成ゲームエンジン(AI-generation game engine)」へと変え、「AIと共にゲームを作る未来」を目指す計画を示した。"
+                "x": "エージェントにコンセプトアートと短い指示を渡せば、Unity CLIを通じて動作するUI Toolkitのメインメニューを組み上げていく。"
+              },
+              {
+                "t": "p",
+                "x": "エージェントは自らの作業もテストする。Play modeのUIテストを走らせ、Game viewのスクリーンショットを撮って変更を確かめ、改良を重ねていく。"
+              },
+              {
+                "t": "p",
+                "x": "舵を取るのは人間で、組み立てるのはエージェントだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Capcom描绘\n与AI共创游戏的未来",
-          "body": "Capcom借RE Engine演讲，公布了将AI引入游戏开发流程的计划。",
-          "mini_headline": "Capcom为RE Engine引入AI",
+          "headline": "智能体把概念图\n变成Unity主菜单",
+          "body": "智能体根据概念图和简短说明，通过Unity CLI搭建可用的UI Toolkit主菜单。",
+          "mini_headline": "概念图变Unity菜单",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                "t": "video",
+                "yt": "IYvRShclEL8"
               },
               {
                 "t": "p",
-                "x": "Capcom的《Pragmata》或许以AI的恐怖为主题，但这家工作室在实践中似乎并不排斥这项技术。在Capcom Open Conference RE: 2026上，程序员Satoshi Ishida做了一场标题颇长的演讲：“The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”（REX项目的展望与未来：面向下一代进一步进化的RE Engine）。他在演讲中阐述了制作Resident Evil这种规模游戏的工作室所面临的挑战——在这种规模下，即便简单的任务也会极其耗时。Ishida表示，解决之道是“将AI技术成功融入开发工作流程”。"
+                "x": "无需离开终端，就能把概念图变成可用的游戏UI。"
               },
               {
                 "t": "p",
-                "x": "Capcom此前曾表示不会在游戏中使用AI生成素材（AI-generated assets），而是专注于用这项技术提高开发效率。Ishida的说法大体与此一致，但显然为更广泛的应用留了余地。据IGN的翻译，他提出了一项计划：逐步、渐进地把RE Engine打造成“AI生成游戏引擎（AI-generation game engine）”，迈向“与AI共同创作游戏的未来”。"
+                "x": "把概念图和一份简短说明交给智能体，就能看着它通过Unity CLI搭建出可运行的UI Toolkit主菜单。"
+              },
+              {
+                "t": "p",
+                "x": "智能体还会自行测试：运行Play mode UI测试、截取Game view截图，以便检查改动并持续迭代。"
+              },
+              {
+                "t": "p",
+                "x": "你来掌舵，它来动手。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Capcom prevé un futuro\nde juegos hechos con IA",
-          "body": "Capcom usó una presentación del RE Engine para exponer sus planes de integrar la IA en el desarrollo de juegos.",
-          "mini_headline": "Capcom prepara la IA para RE Engine",
+          "headline": "Un agente convierte arte\nconceptual en un menú de Unity",
+          "body": "Un agente crea un menú principal en UI Toolkit con la Unity CLI a partir de arte conceptual y un breve encargo.",
+          "mini_headline": "Del arte conceptual a Unity",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/RE9_SS_08.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+                "t": "video",
+                "yt": "IYvRShclEL8"
               },
               {
                 "t": "p",
-                "x": "Puede que Pragmata, de Capcom, gire en torno a los horrores de la IA, pero en la práctica el estudio no parece tan reacio a esta tecnología. Durante la Capcom Open Conference RE: 2026, el programador Satoshi Ishida ofreció una presentación de título extenso: “The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation”. En la charla expuso los retos que afrontan los estudios que producen juegos a la escala de Resident Evil, donde incluso las tareas sencillas pueden consumir muchísimo tiempo. La solución, según Ishida, es “integrar con éxito la tecnología de IA en los flujos de trabajo de desarrollo”."
+                "x": "Convierte arte conceptual en una UI de juego funcional sin salir de la terminal."
               },
               {
                 "t": "p",
-                "x": "Capcom ya había dicho que no usará recursos generados por IA (AI-generated) en sus juegos y que, en cambio, se centraría en usar la tecnología para hacer más eficiente el desarrollo. Los comentarios de Ishida parecen coincidir, aunque sin duda dejan la puerta abierta a un uso más amplio. Según la traducción de IGN, planteó convertir RE Engine de forma lenta y gradual en un “motor de juego de generación por IA” (“AI-generation game engine”), avanzando hacia “un futuro en el que creemos juegos junto con la IA”."
+                "x": "Entrega a un agente tu arte conceptual y un breve encargo, y obsérvalo construir un menú principal funcional con UI Toolkit a través de la Unity CLI."
+              },
+              {
+                "t": "p",
+                "x": "El agente también prueba su propio trabajo: ejecuta pruebas de UI en Play mode y toma capturas de Game view para revisar sus cambios y seguir iterando."
+              },
+              {
+                "t": "p",
+                "x": "Tú lo diriges y él se encarga de construir."
               }
             ]
           }
@@ -235,15 +315,15 @@
       }
     },
     {
-      "id": "stardock-clairvoyance-ai-devtools",
+      "id": "jagex-pulls-runescape-genai-trailer",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Stardock이 내놓은\n게임 개발 AI 도구",
-      "body": "Stardock이 개발자용 AI 생산성 도구 Clairvoyance를 공개했다.",
-      "mini_headline": "Stardock의 AI 개발 도구 Clairvoyance",
+      "headline": "AI 쓴 RuneScape\n예고편, Jagex가 내려",
+      "body": "Jagex는 외부 제작 RuneScape 예고편을 내리고 내부 절차 문제를 짚었다.",
+      "mini_headline": "Jagex, AI 예고편 철회",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/stardock-unveils-clairvoyance-ai-productivity-tools-for-game-devs-and-more-exclusive/",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -251,245 +331,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+            "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+            "cap": "RuneScape Dragon Slayer 2 예고편. 이미지 출처: Jagex"
           },
           {
             "t": "p",
-            "x": "Brad Wardell이 Stardock을 세운 건 1993년이다. 그의 팀이 이번에 게임 개발자 등을 위한 AI 생산성 도구 Clairvoyance를 만들었다. Wardell은 “지금 폭발적이다”라며 이 도구가 회사의 최고 매출 제품이 될 수도 있다고 했다."
+            "x": "Jagex가 RuneFest에서 공개한 RuneScape 3의 Dragon Slayer 2 퀘스트 예고편에 생성형 AI가 쓰인 일을 두고 입장을 밝혔다. Reddit 이용자들은 손가락이 여섯 개인 손, Air Jordans를 닮은 중세 부츠처럼 GenAI를 폭넓게 쓴 흔적을 여럿 찾아냈다."
           },
           {
             "t": "p",
-            "x": "Clairvoyance의 출발점은 반복적인 소프트웨어·게임 개발 작업을 자동화하던 사내 도구였다. Stardock은 두 해 동안 날마다 쓰며 다듬은 끝에 외부에 팔기로 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+            "x": "Jagex에 따르면 이 예고편은 \"GenAI를 쓰지 않겠다고 명시적으로 확인한, 신뢰하는 외부 파트너\"가 만들었다. 회사는 조사하는 동안 홍보물을 내렸다."
           },
           {
             "t": "p",
-            "x": "Clairvoyance는 사용자 컴퓨터에서 직접 돈다. 덕분에 AI 직원이 실제 프로젝트를 열고 빌드하고 실행한 다음 완성된 결과물을 넘겨준다. Windows, macOS, Linux에서 무료로 쓸 수 있고 Claude Code, Codex, Cursor, Grok, Copilot과 함께 돌아간다."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+            "x": "\"신뢰하던 파트너를 통해 생성형 AI 우려가 불거진 것은 짧은 기간에 벌써 두 번째이며, 이는 우리가 바로잡아야 할 자체 절차의 문제를 드러낸다.\" 다른 한 번은 100 Thieves와의 협업에서였다."
           },
           {
             "t": "p",
-            "x": "Wardell의 설명으로는 Clairvoyance가 노리는 건 창작의 대체가 아니라 작업 흐름의 마찰이다. 사람이 만든 아트를 자체 엔진으로 가져오기, Word 파일을 CSV 데이터로 바꾸기, 크래시 로그 분석, Jira 작업 생성 같은 일이다. 기본 앱은 무료, 프로 버전은 월 $20이다."
-          },
-          {
-            "t": "p",
-            "x": "생성형 아트를 두고 Wardell은 “지금의 생성형 AI는 결국 다 비슷해 보이는 저질 결과물을 만들어낸다고 생각한다”고 말했다."
+            "x": "Jagex는 검토 절차를 전면 손보고 Dragon Slayer II의 이야기는 커뮤니티 창작자들에게 맡기겠다고 했다. \"우리는 게임, 아트워크, 크리에이티브 에셋을 만드는 데 GenAI를 쓰지 않는다\"는 말도 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Stardock unveils Clairvoyance\nAI tools for game developers",
-          "body": "Brad Wardell's Stardock unveiled Clairvoyance, an AI productivity tool for game developers and others.",
-          "mini_headline": "Stardock's Clairvoyance\nAI dev tools",
+          "headline": "Jagex pulls RuneScape trailer\nover generative AI use",
+          "body": "Jagex pulled a RuneScape trailer made by an external partner, saying it exposed an issue with its own processes.",
+          "mini_headline": "Jagex pulls AI trailer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "RuneScape Dragon Slayer 2 trailer. Image credit: Jagex"
               },
               {
                 "t": "p",
-                "x": "Brad Wardell started Stardock in 1993. Now his team has created Clairvoyance, an AI productivity tool for game developers and more. Wardell said it could become the company’s top-selling product: “It’s exploding.”"
+                "x": "Jagex has responded to the use of generative AI in a trailer for RuneScape 3's Dragon Slayer 2 quest shown during RuneFest. Reddit users spotted extensive GenAI use, including a six-fingered hand and medieval boots resembling Air Jordans."
               },
               {
                 "t": "p",
-                "x": "Clairvoyance started as an internal tool to automate repetitive software and game-development operations, and Stardock used and refined it daily for two years before deciding to sell it externally."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+                "x": "Jagex said the trailer was produced by \"a trusted external partner who had explicitly confirmed GenAI would not be used,\" and has removed the promotional material as it investigates."
               },
               {
                 "t": "p",
-                "x": "It runs directly on your own computer, so your AI staff can open your real projects, build them, run them, and hand back finished work. It’s free on Windows, macOS, and Linux, and works alongside Claude Code, Codex, Cursor, Grok, and Copilot."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+                "x": "\"This is the second time in quick succession that concerns about generative AI have arisen through partners we trusted, and for us that highlights an issue with our own processes which we must address.\" The other case involved a collaboration with 100 Thieves."
               },
               {
                 "t": "p",
-                "x": "Wardell said Clairvoyance targets workflow friction rather than replacing creative work: importing human-created art into custom engines, converting Word files into CSV data, analyzing crash logs, and creating Jira tasks. The base app is free; the pro version costs $20 a month."
-              },
-              {
-                "t": "p",
-                "x": "“I think that generative AI currently ends up creating homogenous-looking slop,” Wardell said of generative art."
+                "x": "Jagex says it is overhauling its review processes and will commission creators from the community to tell the story of Dragon Slayer II. \"We don't use GenAI to create our games, artwork or creative assets,\" it said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Stardock이 내놓은\n게임 개발 AI 도구",
-          "body": "Stardock이 개발자용 AI 생산성 도구 Clairvoyance를 공개했다.",
-          "mini_headline": "Stardock의 AI 개발 도구 Clairvoyance",
+          "headline": "AI 쓴 RuneScape\n예고편, Jagex가 내려",
+          "body": "Jagex는 외부 제작 RuneScape 예고편을 내리고 내부 절차 문제를 짚었다.",
+          "mini_headline": "Jagex, AI 예고편 철회",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "RuneScape Dragon Slayer 2 예고편. 이미지 출처: Jagex"
               },
               {
                 "t": "p",
-                "x": "Brad Wardell이 Stardock을 세운 건 1993년이다. 그의 팀이 이번에 게임 개발자 등을 위한 AI 생산성 도구 Clairvoyance를 만들었다. Wardell은 “지금 폭발적이다”라며 이 도구가 회사의 최고 매출 제품이 될 수도 있다고 했다."
+                "x": "Jagex가 RuneFest에서 공개한 RuneScape 3의 Dragon Slayer 2 퀘스트 예고편에 생성형 AI가 쓰인 일을 두고 입장을 밝혔다. Reddit 이용자들은 손가락이 여섯 개인 손, Air Jordans를 닮은 중세 부츠처럼 GenAI를 폭넓게 쓴 흔적을 여럿 찾아냈다."
               },
               {
                 "t": "p",
-                "x": "Clairvoyance의 출발점은 반복적인 소프트웨어·게임 개발 작업을 자동화하던 사내 도구였다. Stardock은 두 해 동안 날마다 쓰며 다듬은 끝에 외부에 팔기로 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+                "x": "Jagex에 따르면 이 예고편은 \"GenAI를 쓰지 않겠다고 명시적으로 확인한, 신뢰하는 외부 파트너\"가 만들었다. 회사는 조사하는 동안 홍보물을 내렸다."
               },
               {
                 "t": "p",
-                "x": "Clairvoyance는 사용자 컴퓨터에서 직접 돈다. 덕분에 AI 직원이 실제 프로젝트를 열고 빌드하고 실행한 다음 완성된 결과물을 넘겨준다. Windows, macOS, Linux에서 무료로 쓸 수 있고 Claude Code, Codex, Cursor, Grok, Copilot과 함께 돌아간다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+                "x": "\"신뢰하던 파트너를 통해 생성형 AI 우려가 불거진 것은 짧은 기간에 벌써 두 번째이며, 이는 우리가 바로잡아야 할 자체 절차의 문제를 드러낸다.\" 다른 한 번은 100 Thieves와의 협업에서였다."
               },
               {
                 "t": "p",
-                "x": "Wardell의 설명으로는 Clairvoyance가 노리는 건 창작의 대체가 아니라 작업 흐름의 마찰이다. 사람이 만든 아트를 자체 엔진으로 가져오기, Word 파일을 CSV 데이터로 바꾸기, 크래시 로그 분석, Jira 작업 생성 같은 일이다. 기본 앱은 무료, 프로 버전은 월 $20이다."
-              },
-              {
-                "t": "p",
-                "x": "생성형 아트를 두고 Wardell은 “지금의 생성형 AI는 결국 다 비슷해 보이는 저질 결과물을 만들어낸다고 생각한다”고 말했다."
+                "x": "Jagex는 검토 절차를 전면 손보고 Dragon Slayer II의 이야기는 커뮤니티 창작자들에게 맡기겠다고 했다. \"우리는 게임, 아트워크, 크리에이티브 에셋을 만드는 데 GenAI를 쓰지 않는다\"는 말도 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Stardock、ゲーム開発\n向けAIツールを発表",
-          "body": "Stardockが開発者向けAI生産性ツールClairvoyanceを発表した。",
-          "mini_headline": "StardockのAI開発ツールClairvoyance",
+          "headline": "Jagex、生成AI使用で\nRuneScape予告を撤回",
+          "body": "Jagexは外部パートナー制作のRuneScape予告編を撤回し、自社の手順の問題だとした。",
+          "mini_headline": "JagexがAI予告編を撤回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "RuneScape Dragon Slayer 2の予告編。画像提供: Jagex"
               },
               {
                 "t": "p",
-                "x": "Brad Wardellは1993年にStardockを創業した。そしていま、彼のチームはゲーム開発者などに向けたAI生産性ツールClairvoyanceを生み出した。Wardellは同社で最も売れる製品になる可能性があるとし、「爆発的に伸びている」と語った。"
+                "x": "Jagexは、RuneFestで公開されたRuneScape 3のクエスト「Dragon Slayer 2」の予告編に生成AIが使われていた件について見解を示した。Redditユーザーは、指が六本ある手やAir Jordansに似た中世のブーツなど、GenAIが多用された痕跡を見つけていた。"
               },
               {
                 "t": "p",
-                "x": "Clairvoyanceは、ソフトウェアやゲーム開発における反復作業を自動化する社内ツールとして始まった。Stardockは二年にわたって毎日使いながら改良を重ね、その後外部への販売を決めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+                "x": "Jagexによれば、予告編は「GenAIを使わないと明確に確認していた、信頼できる外部パートナー」が制作したもので、調査を進める間、宣伝素材を取り下げたという。"
               },
               {
                 "t": "p",
-                "x": "Clairvoyanceはユーザー自身のコンピューター上で直接動作するため、AIスタッフが実際のプロジェクトを開き、ビルドし、実行し、完成した成果物を返すことができる。Windows、macOS、Linuxで無料で使え、Claude Code、Codex、Cursor、Grok、Copilotと併用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+                "x": "「信頼していたパートナーを通じて生成AIへの懸念が生じたのは、短期間でこれが二度目だ。我々にとって、それは自らの手順に対処すべき問題があることを示している」。もう一件は100 Thievesとのコラボレーションだった。"
               },
               {
                 "t": "p",
-                "x": "Wardellによれば、Clairvoyanceが狙うのは創作の置き換えではなく、ワークフロー上の摩擦だ。人間が制作したアートを独自エンジンへ取り込む、WordファイルをCSVデータに変換する、クラッシュログを分析する、Jiraのタスクを作成する、といった作業である。基本アプリは無料で、プロ版は月額$20だ。"
-              },
-              {
-                "t": "p",
-                "x": "生成アートについてWardellは「現在の生成AIは、結局どれも似たような粗悪なものを生み出していると思う」と述べた。"
+                "x": "Jagexはレビュー手順を全面的に見直し、Dragon Slayer IIの物語を伝える作品をコミュニティのクリエイターに依頼するとしている。「当社はゲームやアートワーク、クリエイティブアセットの制作にGenAIを使っていない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Stardock推出\n面向游戏开发者的AI工具",
-          "body": "Stardock发布了面向游戏开发者等群体的AI生产力工具Clairvoyance。",
-          "mini_headline": "Stardock的AI开发工具Clairvoyance",
+          "headline": "Jagex因生成式AI\n撤下RuneScape预告",
+          "body": "Jagex撤下外部合作方制作的RuneScape预告片，称这暴露了自身流程的问题。",
+          "mini_headline": "Jagex撤下AI预告片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "RuneScape Dragon Slayer 2预告片。图片来源：Jagex"
               },
               {
                 "t": "p",
-                "x": "Brad Wardell于1993年创立了Stardock。如今，他的团队打造了一款面向游戏开发者等用户的AI生产力工具Clairvoyance。Wardell表示，它可能成为公司最畅销的产品：“它正在爆发。”"
+                "x": "Jagex就RuneFest期间发布的RuneScape 3任务Dragon Slayer 2预告片使用生成式AI一事作出回应。Reddit用户发现片中大量使用GenAI，包括一只六指的手，以及形似Air Jordans的中世纪靴子。"
               },
               {
                 "t": "p",
-                "x": "Clairvoyance最初是一款内部工具，用于自动化重复性的软件与游戏开发操作。Stardock每天使用并打磨它整整两年，之后才决定对外销售。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+                "x": "Jagex表示，该预告片由\"一家明确承诺不会使用GenAI、值得信赖的外部合作方\"制作，并已在调查期间撤下这份宣传素材。"
               },
               {
                 "t": "p",
-                "x": "它直接在用户自己的电脑上运行，因此AI员工可以打开真实项目、构建、运行，并交回完成的成果。它在Windows、macOS和Linux上免费，可与Claude Code、Codex、Cursor、Grok和Copilot配合使用。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+                "x": "\"短时间内这已是第二次因我们信任的合作方而引发对生成式AI的担忧，这说明我们自身的流程存在必须解决的问题。\"另一起事件涉及与100 Thieves的合作。"
               },
               {
                 "t": "p",
-                "x": "Wardell表示，Clairvoyance针对的是工作流程中的阻碍，而非取代创意工作：例如把人工创作的美术资源导入自定义引擎、将Word文件转换为CSV数据、分析崩溃日志，以及创建Jira任务。基础应用免费，专业版每月$20。"
-              },
-              {
-                "t": "p",
-                "x": "谈到生成式美术，Wardell说：“我认为目前的生成式AI最终只会产出千篇一律的劣质内容。”"
+                "x": "Jagex表示正在全面改革审核流程，并将委托社区创作者来讲述Dragon Slayer II的故事。\"我们不使用GenAI制作游戏、美术作品或创意素材，\"该公司表示。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Stardock presenta Clairvoyance,\nherramientas de IA para juegos",
-          "body": "Stardock presentó Clairvoyance, una herramienta de productividad con IA para desarrolladores de juegos y otros.",
-          "mini_headline": "Clairvoyance, las herramientas de IA de Stardock",
+          "headline": "Jagex retira un tráiler de\nRuneScape por la AI generativa",
+          "body": "Jagex retiró un tráiler de RuneScape hecho por un socio externo y dijo que reveló un problema en sus propios procesos.",
+          "mini_headline": "Jagex retira el tráiler con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "Tráiler de RuneScape Dragon Slayer 2. Imagen: Jagex"
               },
               {
                 "t": "p",
-                "x": "Brad Wardell fundó Stardock en 1993. Ahora su equipo ha creado Clairvoyance, una herramienta de productividad con IA (AI) para desarrolladores de juegos y más. Wardell dijo que podría convertirse en el producto más vendido de la compañía: “Está explotando”."
+                "x": "Jagex ha respondido al uso de AI generativa en un tráiler de la misión Dragon Slayer 2 de RuneScape 3 mostrado durante RuneFest. Usuarios de Reddit detectaron un uso extenso de GenAI, incluida una mano de seis dedos y unas botas medievales parecidas a unas Air Jordans."
               },
               {
                 "t": "p",
-                "x": "Clairvoyance nació como una herramienta interna para automatizar operaciones repetitivas de software y desarrollo de juegos, y Stardock la usó y perfeccionó a diario durante dos años antes de decidir venderla al público."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+                "x": "Jagex afirmó que el tráiler fue producido por \"un socio externo de confianza que había confirmado explícitamente que no se usaría GenAI\", y ha retirado el material promocional mientras investiga."
               },
               {
                 "t": "p",
-                "x": "Se ejecuta directamente en el propio equipo del usuario, de modo que su personal de IA puede abrir sus proyectos reales, compilarlos, ejecutarlos y entregar el trabajo terminado. Es gratuita en Windows, macOS y Linux, y funciona junto a Claude Code, Codex, Cursor, Grok y Copilot."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+                "x": "\"Es la segunda vez en poco tiempo que surgen inquietudes sobre la AI generativa a través de socios en los que confiábamos, y para nosotros eso pone de relieve un problema en nuestros propios procesos que debemos resolver\". El otro caso involucró una colaboración con 100 Thieves."
               },
               {
                 "t": "p",
-                "x": "Wardell explicó que Clairvoyance apunta a las fricciones del flujo de trabajo más que a sustituir el trabajo creativo: importar arte creado por personas a motores propios, convertir archivos de Word en datos CSV, analizar registros de fallos y crear tareas en Jira. La aplicación base es gratuita; la versión pro cuesta $20 al mes."
-              },
-              {
-                "t": "p",
-                "x": "“Creo que la IA generativa actualmente acaba produciendo bazofia de aspecto homogéneo”, dijo Wardell sobre el arte generativo."
+                "x": "Jagex dice que está renovando por completo sus procesos de revisión y que encargará a creadores de la comunidad contar la historia de Dragon Slayer II. \"No usamos GenAI para crear nuestros juegos, nuestro arte ni nuestros recursos creativos\", afirmó."
               }
             ]
           }
@@ -497,169 +511,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Stardock이 내놓은\n게임 개발 AI 도구",
-          "body": "Stardock이 개발자용 AI 생산성 도구 Clairvoyance를 공개했다.",
-          "mini_headline": "Stardock의 AI 개발 도구 Clairvoyance",
+          "headline": "AI 쓴 RuneScape\n예고편, Jagex가 내려",
+          "body": "Jagex는 외부 제작 RuneScape 예고편을 내리고 내부 절차 문제를 짚었다.",
+          "mini_headline": "Jagex, AI 예고편 철회",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "RuneScape Dragon Slayer 2 예고편. 이미지 출처: Jagex"
               },
               {
                 "t": "p",
-                "x": "Brad Wardell은 1993년 Stardock을 세웠다. 이제 그의 팀은 게임 개발자 등을 위한 AI 생산성 도구 Clairvoyance를 만들었다. Wardell은 이 도구가 회사의 최고 매출 제품이 될 수 있다며 “지금 폭발적이다”라고 말했다."
+                "x": "Jagex가 RuneFest에서 공개한 RuneScape 3의 Dragon Slayer 2 퀘스트 예고편에 생성형 AI가 쓰인 일에 대해 입장을 밝혔다. Reddit 이용자들은 손가락이 여섯 개인 손, Air Jordans를 닮은 중세 부츠 등 GenAI를 폭넓게 쓴 흔적을 찾아냈다."
               },
               {
                 "t": "p",
-                "x": "Clairvoyance는 반복적인 소프트웨어·게임 개발 작업을 자동화하는 사내 도구로 출발했다. Stardock은 두 해 동안 매일 이 도구를 쓰고 다듬은 끝에 외부 판매를 결정했다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+                "x": "Jagex는 이 예고편을 \"GenAI를 쓰지 않겠다고 명시적으로 확인한, 신뢰하는 외부 파트너\"가 제작했다며, 조사를 진행하는 동안 홍보물을 내렸다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Clairvoyance는 사용자 컴퓨터에서 직접 돌아간다. 그래서 AI 직원이 실제 프로젝트를 열고, 빌드하고, 실행한 뒤 완성된 결과물을 넘겨줄 수 있다. Windows, macOS, Linux에서 무료로 쓸 수 있고 Claude Code, Codex, Cursor, Grok, Copilot과 함께 작동한다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+                "x": "\"신뢰하던 파트너를 통해 생성형 AI 우려가 불거진 것은 짧은 기간에 벌써 두 번째이며, 이는 우리가 바로잡아야 할 자체 절차의 문제를 드러낸다.\" 다른 사례는 100 Thieves와의 협업이었다."
               },
               {
                 "t": "p",
-                "x": "Wardell은 Clairvoyance가 창작을 대체하기보다 작업 흐름의 마찰을 겨냥한다고 설명했다. 사람이 만든 아트를 자체 엔진으로 가져오기, Word 파일을 CSV 데이터로 변환하기, 크래시 로그 분석, Jira 작업 생성 같은 일이다. 기본 앱은 무료이고, 프로 버전은 월 $20이다."
-              },
-              {
-                "t": "p",
-                "x": "Wardell은 생성형 아트에 대해 “지금의 생성형 AI는 결국 다 비슷해 보이는 저질 결과물을 만들어낸다고 생각한다”고 말했다."
+                "x": "Jagex는 검토 절차를 전면 개편하고, 커뮤니티 창작자들에게 Dragon Slayer II의 이야기를 맡기겠다고 밝혔다. \"우리는 게임, 아트워크, 크리에이티브 에셋을 만드는 데 GenAI를 쓰지 않는다\"고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Stardock、ゲーム開発\n向けAIツールを発表",
-          "body": "Stardockが開発者向けAI生産性ツールClairvoyanceを発表した。",
-          "mini_headline": "StardockのAI開発ツールClairvoyance",
+          "headline": "Jagex、生成AI使用で\nRuneScape予告を撤回",
+          "body": "Jagexは外部パートナー制作のRuneScape予告編を撤回し、自社の手順の問題だとした。",
+          "mini_headline": "JagexがAI予告編を撤回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "RuneScape Dragon Slayer 2の予告編。画像提供: Jagex"
               },
               {
                 "t": "p",
-                "x": "Brad Wardellは1993年にStardockを創業した。そしていま、彼のチームはゲーム開発者などに向けたAI生産性ツールClairvoyanceを生み出した。Wardellは同社で最も売れる製品になる可能性があるとし、「爆発的に伸びている」と語った。"
+                "x": "Jagexは、RuneFestで公開されたRuneScape 3のクエスト「Dragon Slayer 2」の予告編に生成AIが使われていた件について見解を示した。Redditユーザーは、指が六本ある手やAir Jordansに似た中世のブーツなど、GenAIが多用された痕跡を見つけていた。"
               },
               {
                 "t": "p",
-                "x": "Clairvoyanceは、ソフトウェアやゲーム開発における反復作業を自動化する社内ツールとして始まった。Stardockは二年にわたって毎日使いながら改良を重ね、その後外部への販売を決めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+                "x": "Jagexによれば、予告編は「GenAIを使わないと明確に確認していた、信頼できる外部パートナー」が制作したもので、調査を進める間、宣伝素材を取り下げたという。"
               },
               {
                 "t": "p",
-                "x": "Clairvoyanceはユーザー自身のコンピューター上で直接動作するため、AIスタッフが実際のプロジェクトを開き、ビルドし、実行し、完成した成果物を返すことができる。Windows、macOS、Linuxで無料で使え、Claude Code、Codex、Cursor、Grok、Copilotと併用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+                "x": "「信頼していたパートナーを通じて生成AIへの懸念が生じたのは、短期間でこれが二度目だ。我々にとって、それは自らの手順に対処すべき問題があることを示している」。もう一件は100 Thievesとのコラボレーションだった。"
               },
               {
                 "t": "p",
-                "x": "Wardellによれば、Clairvoyanceが狙うのは創作の置き換えではなく、ワークフロー上の摩擦だ。人間が制作したアートを独自エンジンへ取り込む、WordファイルをCSVデータに変換する、クラッシュログを分析する、Jiraのタスクを作成する、といった作業である。基本アプリは無料で、プロ版は月額$20だ。"
-              },
-              {
-                "t": "p",
-                "x": "生成アートについてWardellは「現在の生成AIは、結局どれも似たような粗悪なものを生み出していると思う」と述べた。"
+                "x": "Jagexはレビュー手順を全面的に見直し、Dragon Slayer IIの物語を伝える作品をコミュニティのクリエイターに依頼するとしている。「当社はゲームやアートワーク、クリエイティブアセットの制作にGenAIを使っていない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Stardock推出\n面向游戏开发者的AI工具",
-          "body": "Stardock发布了面向游戏开发者等群体的AI生产力工具Clairvoyance。",
-          "mini_headline": "Stardock的AI开发工具Clairvoyance",
+          "headline": "Jagex因生成式AI\n撤下RuneScape预告",
+          "body": "Jagex撤下外部合作方制作的RuneScape预告片，称这暴露了自身流程的问题。",
+          "mini_headline": "Jagex撤下AI预告片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "RuneScape Dragon Slayer 2预告片。图片来源：Jagex"
               },
               {
                 "t": "p",
-                "x": "Brad Wardell于1993年创立了Stardock。如今，他的团队打造了一款面向游戏开发者等用户的AI生产力工具Clairvoyance。Wardell表示，它可能成为公司最畅销的产品：“它正在爆发。”"
+                "x": "Jagex就RuneFest期间发布的RuneScape 3任务Dragon Slayer 2预告片使用生成式AI一事作出回应。Reddit用户发现片中大量使用GenAI，包括一只六指的手，以及形似Air Jordans的中世纪靴子。"
               },
               {
                 "t": "p",
-                "x": "Clairvoyance最初是一款内部工具，用于自动化重复性的软件与游戏开发操作。Stardock每天使用并打磨它整整两年，之后才决定对外销售。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+                "x": "Jagex表示，该预告片由\"一家明确承诺不会使用GenAI、值得信赖的外部合作方\"制作，并已在调查期间撤下这份宣传素材。"
               },
               {
                 "t": "p",
-                "x": "它直接在用户自己的电脑上运行，因此AI员工可以打开真实项目、构建、运行，并交回完成的成果。它在Windows、macOS和Linux上免费，可与Claude Code、Codex、Cursor、Grok和Copilot配合使用。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+                "x": "\"短时间内这已是第二次因我们信任的合作方而引发对生成式AI的担忧，这说明我们自身的流程存在必须解决的问题。\"另一起事件涉及与100 Thieves的合作。"
               },
               {
                 "t": "p",
-                "x": "Wardell表示，Clairvoyance针对的是工作流程中的阻碍，而非取代创意工作：例如把人工创作的美术资源导入自定义引擎、将Word文件转换为CSV数据、分析崩溃日志，以及创建Jira任务。基础应用免费，专业版每月$20。"
-              },
-              {
-                "t": "p",
-                "x": "谈到生成式美术，Wardell说：“我认为目前的生成式AI最终只会产出千篇一律的劣质内容。”"
+                "x": "Jagex表示正在全面改革审核流程，并将委托社区创作者来讲述Dragon Slayer II的故事。\"我们不使用GenAI制作游戏、美术作品或创意素材，\"该公司表示。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Stardock presenta Clairvoyance,\nherramientas de IA para juegos",
-          "body": "Stardock presentó Clairvoyance, una herramienta de productividad con IA para desarrolladores de juegos y otros.",
-          "mini_headline": "Clairvoyance, las herramientas de IA de Stardock",
+          "headline": "Jagex retira un tráiler de\nRuneScape por la AI generativa",
+          "body": "Jagex retiró un tráiler de RuneScape hecho por un socio externo y dijo que reveló un problema en sus propios procesos.",
+          "mini_headline": "Jagex retira el tráiler con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance_logo-Banner.jpg"
+                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "Tráiler de RuneScape Dragon Slayer 2. Imagen: Jagex"
               },
               {
                 "t": "p",
-                "x": "Brad Wardell fundó Stardock en 1993. Ahora su equipo ha creado Clairvoyance, una herramienta de productividad con IA (AI) para desarrolladores de juegos y más. Wardell dijo que podría convertirse en el producto más vendido de la compañía: “Está explotando”."
+                "x": "Jagex ha respondido al uso de AI generativa en un tráiler de la misión Dragon Slayer 2 de RuneScape 3 mostrado durante RuneFest. Usuarios de Reddit detectaron un uso extenso de GenAI, incluida una mano de seis dedos y unas botas medievales parecidas a unas Air Jordans."
               },
               {
                 "t": "p",
-                "x": "Clairvoyance nació como una herramienta interna para automatizar operaciones repetitivas de software y desarrollo de juegos, y Stardock la usó y perfeccionó a diario durante dos años antes de decidir venderla al público."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Stardock-Clairvoyance-Team-photo-1-1024x768.jpg"
+                "x": "Jagex afirmó que el tráiler fue producido por \"un socio externo de confianza que había confirmado explícitamente que no se usaría GenAI\", y ha retirado el material promocional mientras investiga."
               },
               {
                 "t": "p",
-                "x": "Se ejecuta directamente en el propio equipo del usuario, de modo que su personal de IA puede abrir sus proyectos reales, compilarlos, ejecutarlos y entregar el trabajo terminado. Es gratuita en Windows, macOS y Linux, y funciona junto a Claude Code, Codex, Cursor, Grok y Copilot."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Clairvoyance-Gaming-Example-1024x551.jpg"
+                "x": "\"Es la segunda vez en poco tiempo que surgen inquietudes sobre la AI generativa a través de socios en los que confiábamos, y para nosotros eso pone de relieve un problema en nuestros propios procesos que debemos resolver\". El otro caso involucró una colaboración con 100 Thieves."
               },
               {
                 "t": "p",
-                "x": "Wardell explicó que Clairvoyance apunta a las fricciones del flujo de trabajo más que a sustituir el trabajo creativo: importar arte creado por personas a motores propios, convertir archivos de Word en datos CSV, analizar registros de fallos y crear tareas en Jira. La aplicación base es gratuita; la versión pro cuesta $20 al mes."
-              },
-              {
-                "t": "p",
-                "x": "“Creo que la IA generativa actualmente acaba produciendo bazofia de aspecto homogéneo”, dijo Wardell sobre el arte generativo."
+                "x": "Jagex dice que está renovando por completo sus procesos de revisión y que encargará a creadores de la comunidad contar la historia de Dragon Slayer II. \"No usamos GenAI para crear nuestros juegos, nuestro arte ni nuestros recursos creativos\", afirmó."
               }
             ]
           }
@@ -667,15 +637,15 @@
       }
     },
     {
-      "id": "vibe-coded-mashup-mods-backlash",
+      "id": "fortnite-replaces-gemini-watermark-art",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "바이브 코딩 매시업 모드\nX 덮치자 모더들 반발",
-      "body": "AI 디컴파일 매시업 모드가 이번 주 X/Twitter를 휩쓸며 반발을 샀다.",
-      "mini_headline": "바이브 코딩 모드에 모더들 분노",
+      "headline": "Gemini 워터마크 찍힌\nFortnite 아트 교체",
+      "body": "Google Gemini AI 워터마크가 드러나자 Fortnite가 아트를 바꿨다.",
+      "mini_headline": "Fortnite, Gemini 아트 교체",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -683,173 +653,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+            "cap": "Fortnite"
           },
           {
             "t": "p",
-            "x": "오래 모드를 만들어 온 이들이 인터넷 속 자기 영역을 차지한 최신 유행에 불만을 터뜨리고 있다. AI로 생성한(AI-generated), 이른바 “바이브 코딩(vibe-coded)” 모드라는 “빌어먹을 ‘트렌드’”다."
+            "x": "Fortnite가 게임 속(in-game) 아트워크 하나를 조용히 바꿨다. 원본에 Google Gemini AI 워터마크가 있다는 걸 팬들이 알아챈 뒤였다."
           },
           {
             "t": "p",
-            "x": "“나는 게임 모드를 만들고, 그 작업에 AI를 쓴다는 사실을 숨기지 않는다. 그래도 이 빌어먹을 ‘트렌드’는 싫다. 순전한 쓰레기일 뿐, 창의적인 구석이라고는 전혀 없다.” 모더 kran27_가 올린 글이다."
+            "x": "Epic Games는 지난달 Ironmouse, Sleeping Forest & HalaCG의 곡 \"Meow\"를 Fortnite에 추가했다. 그 곡 아트워크 오른쪽 아래 구석에 Gemini 워터마크가 박혀 있었다. 지난 주말 이 사실이 퍼지자 소셜 미디어와 Reddit이 한동안 술렁였다."
           },
           {
             "t": "p",
-            "x": "쏟아지는 모드들은 서로 무관한 게임을 뒤섞는다. World of Warcraft를 Call of Duty: World at War에, Escape From Tarkov를 Skyrim에 넣는 식이다. 유행은 단 일주일 만에 눈덩이처럼 커졌다. Claude Opus 5.5의 토큰 가격이 내려가고 코드 생성 능력이 좋아져, 모델에 게임 디컴파일을 맡기고 전혀 다른 요소를 덧붙이기가 그 어느 때보다 쉬워진 탓이다."
+            "x": "지금 아트워크는 워터마크 없는 버전으로 바뀌었다. 다만 Gemini 표시는 곡의 원래 아트에 이미 들어 있었고 Epic은 그걸 그대로 게임에 옮겼을 뿐이다. Spotify에서도 같은 표시가 보인다."
+          },
+          {
+            "t": "img",
+            "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+            "cap": "Fortnite에서 보이던 원래 \"Meow\" 트랙 아트(왼쪽)와 교체된 버전(오른쪽). 이미지 출처: Ironmouse/Epic Games."
           },
           {
             "t": "p",
-            "x": "이런 AI 디컴파일(AI-decompiled) 매시업은 아직 Nexus Mods 같은 모딩 플랫폼에 올라오지 않았다. IGN은 권리 문제 때문일 공산이 크다고 본다. 거의 전부가 제작자에게 아무 권리도 없는 디컴파일 코드와 에셋을 쓴다."
+            "x": "AI 생성 아트(AI-generated art)는 Fortnite 팬들 사이에서 말이 많은 주제다. IGN은 이번 교체를 두고, 눈에 띄는 AI 요소가 담긴 아트워크를 Epic이 게임에 내걸고 싶어 하지 않는다는 신호로 읽는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Vibe-coded mashup mods\nflood X, angering modders",
-          "body": "A wave of AI-decompiled mashup mods took over X/Twitter this week, drawing a backlash from the modding community.",
-          "mini_headline": "Vibe-coded mods\nanger modders",
+          "headline": "Fortnite replaces art that\ncarried a Gemini watermark",
+          "body": "Fortnite quietly replaced in-game artwork after fans spotted a Google Gemini AI watermark in the original.",
+          "mini_headline": "Fortnite swaps Gemini art",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "cap": "Fortnite"
               },
               {
                 "t": "p",
-                "x": "Long-time mod makers are not happy about the latest trend to take over their corner of the internet - the \"bullshit 'trend'\" of AI-generated, or \"vibe-coded\", mods."
+                "x": "Fortnite has quietly replaced a piece of in-game artwork after fans spotted its original version contained a Google Gemini AI watermark."
               },
               {
                 "t": "p",
-                "x": "\"I mod games and I'm not shy about the fact that I use AI to do it. I hate this bullshit 'trend'. Pure slop, there's nothing creative about this at all,\" modder kran27_ posted."
+                "x": "Epic Games added the music track \"Meow\" by Ironmouse, Sleeping Forest & HalaCG to Fortnite last month, with the Gemini watermark in the track artwork's bottom right corner. Its wider discovery last weekend sparked a minor kerfuffle on social media and Reddit."
               },
               {
                 "t": "p",
-                "x": "The surge of mods brings unrelated games together, from World of Warcraft into Call of Duty: World at War, to Escape From Tarkov into Skyrim. The trend has snowballed over a single week, driven by Claude Opus 5.5's cheaper tokens and improved code generation making it easier than ever to point the model at a game, decompile it, and add in something else entirely."
+                "x": "The artwork has now been replaced with a version with no watermark. But the Gemini mark was present in the track's original art, which Epic simply incorporated in-game; it also appears on Spotify."
+              },
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+                "cap": "The original \"Meow\" track art (left) as seen in Fortnite, and its replacement (right). Image credit: Ironmouse/Epic Games."
               },
               {
                 "t": "p",
-                "x": "None of these mashups have popped up on modding platforms like Nexus Mods yet, which IGN suggests is likely down to rights issues. Almost all of them rely on decompiled code and assets the people building them have no rights to."
+                "x": "AI-generated art is a contentious subject for Fortnite fans. IGN reads the swap as a sign Epic does not want to openly show artwork with obvious AI elements in the game."
               }
             ]
           }
         },
         "ko": {
-          "headline": "바이브 코딩 매시업 모드\nX 덮치자 모더들 반발",
-          "body": "AI 디컴파일 매시업 모드가 이번 주 X/Twitter를 휩쓸며 반발을 샀다.",
-          "mini_headline": "바이브 코딩 모드에 모더들 분노",
+          "headline": "Gemini 워터마크 찍힌\nFortnite 아트 교체",
+          "body": "Google Gemini AI 워터마크가 드러나자 Fortnite가 아트를 바꿨다.",
+          "mini_headline": "Fortnite, Gemini 아트 교체",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "cap": "Fortnite"
               },
               {
                 "t": "p",
-                "x": "오래 모드를 만들어 온 이들이 인터넷 속 자기 영역을 차지한 최신 유행에 불만을 터뜨리고 있다. AI로 생성한(AI-generated), 이른바 “바이브 코딩(vibe-coded)” 모드라는 “빌어먹을 ‘트렌드’”다."
+                "x": "Fortnite가 게임 속(in-game) 아트워크 하나를 조용히 바꿨다. 원본에 Google Gemini AI 워터마크가 있다는 걸 팬들이 알아챈 뒤였다."
               },
               {
                 "t": "p",
-                "x": "“나는 게임 모드를 만들고, 그 작업에 AI를 쓴다는 사실을 숨기지 않는다. 그래도 이 빌어먹을 ‘트렌드’는 싫다. 순전한 쓰레기일 뿐, 창의적인 구석이라고는 전혀 없다.” 모더 kran27_가 올린 글이다."
+                "x": "Epic Games는 지난달 Ironmouse, Sleeping Forest & HalaCG의 곡 \"Meow\"를 Fortnite에 추가했다. 그 곡 아트워크 오른쪽 아래 구석에 Gemini 워터마크가 박혀 있었다. 지난 주말 이 사실이 퍼지자 소셜 미디어와 Reddit이 한동안 술렁였다."
               },
               {
                 "t": "p",
-                "x": "쏟아지는 모드들은 서로 무관한 게임을 뒤섞는다. World of Warcraft를 Call of Duty: World at War에, Escape From Tarkov를 Skyrim에 넣는 식이다. 유행은 단 일주일 만에 눈덩이처럼 커졌다. Claude Opus 5.5의 토큰 가격이 내려가고 코드 생성 능력이 좋아져, 모델에 게임 디컴파일을 맡기고 전혀 다른 요소를 덧붙이기가 그 어느 때보다 쉬워진 탓이다."
+                "x": "지금 아트워크는 워터마크 없는 버전으로 바뀌었다. 다만 Gemini 표시는 곡의 원래 아트에 이미 들어 있었고 Epic은 그걸 그대로 게임에 옮겼을 뿐이다. Spotify에서도 같은 표시가 보인다."
+              },
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+                "cap": "Fortnite에서 보이던 원래 \"Meow\" 트랙 아트(왼쪽)와 교체된 버전(오른쪽). 이미지 출처: Ironmouse/Epic Games."
               },
               {
                 "t": "p",
-                "x": "이런 AI 디컴파일(AI-decompiled) 매시업은 아직 Nexus Mods 같은 모딩 플랫폼에 올라오지 않았다. IGN은 권리 문제 때문일 공산이 크다고 본다. 거의 전부가 제작자에게 아무 권리도 없는 디컴파일 코드와 에셋을 쓴다."
+                "x": "AI 생성 아트(AI-generated art)는 Fortnite 팬들 사이에서 말이 많은 주제다. IGN은 이번 교체를 두고, 눈에 띄는 AI 요소가 담긴 아트워크를 Epic이 게임에 내걸고 싶어 하지 않는다는 신호로 읽는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "バイブコーディングMOD\nXに氾濫、モッダー反発",
-          "body": "AIで逆コンパイルしたマッシュアップMODが今週X/Twitterを席巻し、反発を招いた。",
-          "mini_headline": "バイブコーディングMODにモッダー反発",
+          "headline": "Gemini透かし入りの絵\nFortniteが差し替え",
+          "body": "Google Gemini AIの透かしが見つかり、Fortniteがアートを差し替えた。",
+          "mini_headline": "FortniteがGeminiアートを差し替え",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "cap": "Fortnite"
               },
               {
                 "t": "p",
-                "x": "長年MODを作ってきた制作者たちは、ネット上の自分たちの領域を席巻する最新の流行に不満を抱いている。AIで生成した(AI-generated)、いわゆる「vibe-coded(バイブコーディング)」MODという「くだらない『トレンド』」だ。"
+                "x": "Fortniteが、ゲーム内（in-game）のアートワークをひっそりと差し替えた。元のバージョンにGoogle Gemini AIの透かしが入っていることにファンが気づいたためだ。"
               },
               {
                 "t": "p",
-                "x": "「僕はゲームのMODを作っているし、そのためにAIを使っていることも隠していない。でも、このくだらない『トレンド』は大嫌いだ。ただのゴミで、創造性なんてまったくない」とモッダーのkran27_は投稿した。"
+                "x": "Epic Gamesは先月、Ironmouse, Sleeping Forest & HalaCGによる楽曲「Meow」をFortniteに追加したが、その楽曲アートワークの右下隅にGeminiの透かしがあった。先週末にこれが広く知られると、ソーシャルメディアやRedditでちょっとした騒ぎになった。"
               },
               {
                 "t": "p",
-                "x": "急増するMODは、無関係なゲーム同士を組み合わせる。World of WarcraftをCall of Duty: World at Warに、Escape From TarkovをSkyrimに、といった具合だ。この流行はたった一週間で雪だるま式に広がった。Claude Opus 5.5のトークンが安くなり、コード生成も向上したことで、モデルにゲームを指定して逆コンパイルさせ、まったく別の要素を加えることがかつてなく容易になったためだ。"
+                "x": "アートワークは現在、透かしのないバージョンに差し替えられている。ただし、Geminiのマークは楽曲のオリジナルアートにもともと入っており、Epicはそれをそのままゲームに取り込んだにすぎない。同じマークはSpotifyでも確認できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+                "cap": "Fortnite内で表示されていた元の「Meow」のトラックアート（左）と差し替え後（右）。画像提供: Ironmouse/Epic Games。"
               },
               {
                 "t": "p",
-                "x": "こうしたAIによる逆コンパイル(AI-decompiled)のマッシュアップは、まだNexus ModsなどのMODプラットフォームには現れていない。IGNは権利の問題が原因である可能性が高いとみている。そのほぼすべてが、制作者に何の権利もない逆コンパイルされたコードやアセットに依存しているからだ。"
+                "x": "AI生成アート（AI-generated art）は、Fortniteファンにとって議論を呼ぶテーマだ。IGNは今回の差し替えを、明らかなAI要素を含むアートワークをEpicがゲーム内で公然と見せたくないことの表れとみている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "氛围编程拼接模组\n刷屏X，模组作者不满",
-          "body": "一波经AI反编译的拼接模组本周席卷X/Twitter，引发模组社区反弹。",
-          "mini_headline": "氛围编程模组惹恼模组作者",
+          "headline": "Fortnite替换了\n带Gemini水印的美术",
+          "body": "粉丝发现原图带Google Gemini AI水印，Fortnite悄悄替换了游戏内美术。",
+          "mini_headline": "Fortnite替换Gemini美术",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "cap": "Fortnite"
               },
               {
                 "t": "p",
-                "x": "资深模组作者们对最近席卷其网络圈子的新潮流很不满——那就是AI生成（AI-generated）或者说“vibe-coded”（氛围编程）模组这一“狗屁‘潮流’”。"
+                "x": "粉丝发现Fortnite一幅游戏内（in-game）美术的原版带有Google Gemini AI水印后，Fortnite悄悄将其替换。"
               },
               {
                 "t": "p",
-                "x": "“我做游戏模组，也从不讳言自己用AI来做。但我讨厌这种狗屁‘潮流’。纯粹是垃圾，毫无创意可言。”模组作者kran27_发帖写道。"
+                "x": "Epic Games上个月在Fortnite中加入了Ironmouse, Sleeping Forest & HalaCG的歌曲\"Meow\"，其曲目封面右下角带有Gemini水印。上周末此事被更多人发现，在社交媒体和Reddit上引发了一场小风波。"
               },
               {
                 "t": "p",
-                "x": "这些激增的模组把互不相干的游戏拼在一起，从把World of Warcraft放进Call of Duty: World at War，到把Escape From Tarkov放进Skyrim。这股潮流在短短一周内像滚雪球一样迅速扩大，推动力来自Claude Opus 5.5更便宜的token和更强的代码生成能力——如今让模型对准一款游戏、反编译它、再加入完全不同的内容，比以往任何时候都容易。"
+                "x": "这幅美术现已换成没有水印的版本。不过，Gemini标记原本就出现在该曲目的原始封面中，Epic只是将其直接放进了游戏；Spotify上的封面同样带有该标记。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+                "cap": "Fortnite中原版\"Meow\"曲目封面（左）与替换后的版本（右）。图片来源：Ironmouse/Epic Games。"
               },
               {
                 "t": "p",
-                "x": "这些AI反编译（AI-decompiled）的拼接模组目前尚未出现在Nexus Mods等模组平台上，IGN认为这很可能是权利问题所致。它们几乎全都依赖制作者无权使用的反编译代码和素材。"
+                "x": "AI生成美术（AI-generated art）在Fortnite玩家中颇具争议。IGN认为，此次替换表明Epic不希望在游戏中公开展示带有明显AI元素的美术作品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mods hechos con vibe coding\ninundan X y enfadan a modders",
-          "body": "Una ola de mods mashup descompilados con IA invadió X/Twitter esta semana y provocó el rechazo de los modders.",
-          "mini_headline": "Los mods vibe-coded indignan a los modders",
+          "headline": "Fortnite reemplaza un arte\ncon marca de agua de Gemini",
+          "body": "Fortnite cambió en silencio un arte in-game cuando los fans hallaron una marca de agua de Google Gemini AI.",
+          "mini_headline": "Fortnite cambia el arte de Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "cap": "Fortnite"
               },
               {
                 "t": "p",
-                "x": "Los creadores de mods veteranos no están contentos con la última moda que se ha apoderado de su rincón de internet: la “‘tendencia’ de mierda” de los mods generados por IA (AI-generated), o “vibe-coded”."
+                "x": "Fortnite ha reemplazado discretamente una ilustración in-game después de que los fans descubrieran que su versión original contenía una marca de agua de Google Gemini AI."
               },
               {
                 "t": "p",
-                "x": "“Hago mods de juegos y no me avergüenza decir que uso IA para ello. Odio esta ‘tendencia’ de mierda. Pura bazofia, no hay nada creativo en esto”, publicó el modder kran27_."
+                "x": "Epic Games añadió el mes pasado a Fortnite el tema musical \"Meow\", de Ironmouse, Sleeping Forest & HalaCG, con la marca de agua de Gemini en la esquina inferior derecha de su portada. Su difusión el pasado fin de semana provocó un pequeño revuelo en redes sociales y Reddit."
               },
               {
                 "t": "p",
-                "x": "La avalancha de mods une juegos que no tienen relación entre sí, desde World of Warcraft dentro de Call of Duty: World at War hasta Escape From Tarkov dentro de Skyrim. La tendencia creció como una bola de nieve en una sola semana, impulsada por los tokens más baratos de Claude Opus 5.5 y su mejor generación de código, que hacen más fácil que nunca apuntar el modelo a un juego, descompilarlo y añadirle algo totalmente distinto."
+                "x": "La ilustración ya se ha sustituido por una versión sin marca de agua. Sin embargo, la marca de Gemini estaba en la portada original del tema, que Epic simplemente incorporó al juego; también aparece en Spotify."
+              },
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+                "cap": "La portada original de \"Meow\" (izquierda) tal como se veía en Fortnite, y su sustituta (derecha). Imagen: Ironmouse/Epic Games."
               },
               {
                 "t": "p",
-                "x": "Ninguno de estos mashups descompilados con IA (AI-decompiled) ha aparecido todavía en plataformas de modding como Nexus Mods, algo que según IGN probablemente se deba a cuestiones de derechos. Casi todos dependen de código y recursos descompilados sobre los que sus creadores no tienen ningún derecho."
+                "x": "El arte generado por AI (AI-generated) es un tema polémico entre los fans de Fortnite. IGN interpreta el cambio como una señal de que Epic no quiere mostrar abiertamente en el juego ilustraciones con elementos evidentes de AI."
               }
             ]
           }
@@ -857,121 +863,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "바이브 코딩 매시업 모드\nX 덮치자 모더들 반발",
-          "body": "AI 디컴파일 매시업 모드가 이번 주 X/Twitter를 휩쓸어 반발을 샀다.",
-          "mini_headline": "바이브 코딩 모드에 모더들 분노",
+          "headline": "Gemini 워터마크 찍힌\nFortnite 아트 교체",
+          "body": "Google Gemini AI 워터마크가 발견되자 Fortnite가 아트를 바꿨다.",
+          "mini_headline": "Fortnite, Gemini 아트 교체",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "cap": "Fortnite"
               },
               {
                 "t": "p",
-                "x": "오랜 모드 제작자들이 인터넷 속 자신들의 영역을 장악한 최신 유행에 불만을 드러내고 있다. AI로 생성한(AI-generated), 이른바 “바이브 코딩(vibe-coded)” 모드라는 “빌어먹을 ‘트렌드’”다."
+                "x": "Fortnite가 게임 속(in-game) 아트워크 하나를 조용히 교체했다. 원본에 Google Gemini AI 워터마크가 들어 있다는 사실을 팬들이 알아챈 뒤였다."
               },
               {
                 "t": "p",
-                "x": "“나는 게임 모드를 만들고, 그 작업에 AI를 쓴다는 사실을 숨기지 않는다. 그래도 이 빌어먹을 ‘트렌드’는 싫다. 순전한 쓰레기일 뿐, 창의적인 구석이라고는 전혀 없다.” 모더 kran27_의 글이다."
+                "x": "Epic Games는 지난달 Ironmouse, Sleeping Forest & HalaCG의 곡 \"Meow\"를 Fortnite에 추가했는데, 이 곡 아트워크의 오른쪽 아래 구석에 Gemini 워터마크가 있었다. 지난 주말 이 사실이 널리 알려지면서 소셜 미디어와 Reddit에서 작은 소동이 일었다."
               },
               {
                 "t": "p",
-                "x": "쏟아지는 모드들은 서로 무관한 게임을 한데 섞는다. World of Warcraft를 Call of Duty: World at War에, Escape From Tarkov를 Skyrim에 넣는 식이다. 이 유행은 단 일주일 만에 눈덩이처럼 불어났다. Claude Opus 5.5의 토큰 가격이 내려가고 코드 생성 능력이 좋아지면서, 모델에게 게임을 맡겨 디컴파일하고 전혀 다른 요소를 덧붙이는 일이 그 어느 때보다 쉬워졌기 때문이다."
+                "x": "현재 아트워크는 워터마크가 없는 버전으로 바뀌었다. 다만 Gemini 표시는 곡의 원래 아트에 이미 들어 있었고, Epic은 이를 그대로 게임에 넣었을 뿐이다. 같은 표시는 Spotify에서도 볼 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+                "cap": "Fortnite에서 보이던 원래 \"Meow\" 트랙 아트(왼쪽)와 교체된 버전(오른쪽). 이미지 출처: Ironmouse/Epic Games."
               },
               {
                 "t": "p",
-                "x": "이런 AI 디컴파일(AI-decompiled) 매시업은 아직 Nexus Mods 같은 모딩 플랫폼에는 올라오지 않았다. IGN은 권리 문제 때문일 가능성이 크다고 본다. 거의 모두가 제작자에게 아무 권리가 없는 디컴파일 코드와 에셋에 기대고 있다."
+                "x": "AI 생성 아트(AI-generated art)는 Fortnite 팬들 사이에서 논쟁적인 주제다. IGN은 이번 교체를 Epic이 뚜렷한 AI 요소가 담긴 아트워크를 게임에서 드러내 보이고 싶어 하지 않는다는 신호로 읽는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "バイブコーディングMOD\nXに氾濫、モッダー反発",
-          "body": "AIで逆コンパイルしたマッシュアップMODが今週X/Twitterを席巻し、反発を招いた。",
-          "mini_headline": "バイブコーディングMODにモッダー反発",
+          "headline": "Gemini透かし入りの絵\nFortniteが差し替え",
+          "body": "Google Gemini AIの透かしが見つかり、Fortniteがアートを差し替えた。",
+          "mini_headline": "FortniteがGeminiアートを差し替え",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "cap": "Fortnite"
               },
               {
                 "t": "p",
-                "x": "長年MODを作ってきた制作者たちは、ネット上の自分たちの領域を席巻する最新の流行に不満を抱いている。AIで生成した(AI-generated)、いわゆる「vibe-coded(バイブコーディング)」MODという「くだらない『トレンド』」だ。"
+                "x": "Fortniteが、ゲーム内（in-game）のアートワークをひっそりと差し替えた。元のバージョンにGoogle Gemini AIの透かしが入っていることにファンが気づいたためだ。"
               },
               {
                 "t": "p",
-                "x": "「僕はゲームのMODを作っているし、そのためにAIを使っていることも隠していない。でも、このくだらない『トレンド』は大嫌いだ。ただのゴミで、創造性なんてまったくない」とモッダーのkran27_は投稿した。"
+                "x": "Epic Gamesは先月、Ironmouse, Sleeping Forest & HalaCGによる楽曲「Meow」をFortniteに追加したが、その楽曲アートワークの右下隅にGeminiの透かしがあった。先週末にこれが広く知られると、ソーシャルメディアやRedditでちょっとした騒ぎになった。"
               },
               {
                 "t": "p",
-                "x": "急増するMODは、無関係なゲーム同士を組み合わせる。World of WarcraftをCall of Duty: World at Warに、Escape From TarkovをSkyrimに、といった具合だ。この流行はたった一週間で雪だるま式に広がった。Claude Opus 5.5のトークンが安くなり、コード生成も向上したことで、モデルにゲームを指定して逆コンパイルさせ、まったく別の要素を加えることがかつてなく容易になったためだ。"
+                "x": "アートワークは現在、透かしのないバージョンに差し替えられている。ただし、Geminiのマークは楽曲のオリジナルアートにもともと入っており、Epicはそれをそのままゲームに取り込んだにすぎない。同じマークはSpotifyでも確認できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+                "cap": "Fortnite内で表示されていた元の「Meow」のトラックアート（左）と差し替え後（右）。画像提供: Ironmouse/Epic Games。"
               },
               {
                 "t": "p",
-                "x": "こうしたAIによる逆コンパイル(AI-decompiled)のマッシュアップは、まだNexus ModsなどのMODプラットフォームには現れていない。IGNは権利の問題が原因である可能性が高いとみている。そのほぼすべてが、制作者に何の権利もない逆コンパイルされたコードやアセットに依存しているからだ。"
+                "x": "AI生成アート（AI-generated art）は、Fortniteファンにとって議論を呼ぶテーマだ。IGNは今回の差し替えを、明らかなAI要素を含むアートワークをEpicがゲーム内で公然と見せたくないことの表れとみている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "氛围编程拼接模组\n刷屏X，模组作者不满",
-          "body": "一波经AI反编译的拼接模组本周席卷X/Twitter，引发模组社区反弹。",
-          "mini_headline": "氛围编程模组惹恼模组作者",
+          "headline": "Fortnite替换了\n带Gemini水印的美术",
+          "body": "粉丝发现原图带Google Gemini AI水印，Fortnite悄悄替换了游戏内美术。",
+          "mini_headline": "Fortnite替换Gemini美术",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "cap": "Fortnite"
               },
               {
                 "t": "p",
-                "x": "资深模组作者们对最近席卷其网络圈子的新潮流很不满——那就是AI生成（AI-generated）或者说“vibe-coded”（氛围编程）模组这一“狗屁‘潮流’”。"
+                "x": "粉丝发现Fortnite一幅游戏内（in-game）美术的原版带有Google Gemini AI水印后，Fortnite悄悄将其替换。"
               },
               {
                 "t": "p",
-                "x": "“我做游戏模组，也从不讳言自己用AI来做。但我讨厌这种狗屁‘潮流’。纯粹是垃圾，毫无创意可言。”模组作者kran27_发帖写道。"
+                "x": "Epic Games上个月在Fortnite中加入了Ironmouse, Sleeping Forest & HalaCG的歌曲\"Meow\"，其曲目封面右下角带有Gemini水印。上周末此事被更多人发现，在社交媒体和Reddit上引发了一场小风波。"
               },
               {
                 "t": "p",
-                "x": "这些激增的模组把互不相干的游戏拼在一起，从把World of Warcraft放进Call of Duty: World at War，到把Escape From Tarkov放进Skyrim。这股潮流在短短一周内像滚雪球一样迅速扩大，推动力来自Claude Opus 5.5更便宜的token和更强的代码生成能力——如今让模型对准一款游戏、反编译它、再加入完全不同的内容，比以往任何时候都容易。"
+                "x": "这幅美术现已换成没有水印的版本。不过，Gemini标记原本就出现在该曲目的原始封面中，Epic只是将其直接放进了游戏；Spotify上的封面同样带有该标记。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+                "cap": "Fortnite中原版\"Meow\"曲目封面（左）与替换后的版本（右）。图片来源：Ironmouse/Epic Games。"
               },
               {
                 "t": "p",
-                "x": "这些AI反编译（AI-decompiled）的拼接模组目前尚未出现在Nexus Mods等模组平台上，IGN认为这很可能是权利问题所致。它们几乎全都依赖制作者无权使用的反编译代码和素材。"
+                "x": "AI生成美术（AI-generated art）在Fortnite玩家中颇具争议。IGN认为，此次替换表明Epic不希望在游戏中公开展示带有明显AI元素的美术作品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mods hechos con vibe coding\ninundan X y enfadan a modders",
-          "body": "Una ola de mods mashup descompilados con IA invadió X/Twitter esta semana y provocó el rechazo de los modders.",
-          "mini_headline": "Los mods vibe-coded indignan a los modders",
+          "headline": "Fortnite reemplaza un arte\ncon marca de agua de Gemini",
+          "body": "Fortnite cambió en silencio un arte in-game cuando los fans hallaron una marca de agua de Google Gemini AI.",
+          "mini_headline": "Fortnite cambia el arte de Gemini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-04-at-17.30.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
+                "cap": "Fortnite"
               },
               {
                 "t": "p",
-                "x": "Los creadores de mods veteranos no están contentos con la última moda que se ha apoderado de su rincón de internet: la “‘tendencia’ de mierda” de los mods generados por IA (AI-generated), o “vibe-coded”."
+                "x": "Fortnite ha reemplazado discretamente una ilustración in-game después de que los fans descubrieran que su versión original contenía una marca de agua de Google Gemini AI."
               },
               {
                 "t": "p",
-                "x": "“Hago mods de juegos y no me avergüenza decir que uso IA para ello. Odio esta ‘tendencia’ de mierda. Pura bazofia, no hay nada creativo en esto”, publicó el modder kran27_."
+                "x": "Epic Games añadió el mes pasado a Fortnite el tema musical \"Meow\", de Ironmouse, Sleeping Forest & HalaCG, con la marca de agua de Gemini en la esquina inferior derecha de su portada. Su difusión el pasado fin de semana provocó un pequeño revuelo en redes sociales y Reddit."
               },
               {
                 "t": "p",
-                "x": "La avalancha de mods une juegos que no tienen relación entre sí, desde World of Warcraft dentro de Call of Duty: World at War hasta Escape From Tarkov dentro de Skyrim. La tendencia creció como una bola de nieve en una sola semana, impulsada por los tokens más baratos de Claude Opus 5.5 y su mejor generación de código, que hacen más fácil que nunca apuntar el modelo a un juego, descompilarlo y añadirle algo totalmente distinto."
+                "x": "La ilustración ya se ha sustituido por una versión sin marca de agua. Sin embargo, la marca de Gemini estaba en la portada original del tema, que Epic simplemente incorporó al juego; también aparece en Spotify."
+              },
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
+                "cap": "La portada original de \"Meow\" (izquierda) tal como se veía en Fortnite, y su sustituta (derecha). Imagen: Ironmouse/Epic Games."
               },
               {
                 "t": "p",
-                "x": "Ninguno de estos mashups descompilados con IA (AI-decompiled) ha aparecido todavía en plataformas de modding como Nexus Mods, algo que según IGN probablemente se deba a cuestiones de derechos. Casi todos dependen de código y recursos descompilados sobre los que sus creadores no tienen ningún derecho."
+                "x": "El arte generado por AI (AI-generated) es un tema polémico entre los fans de Fortnite. IGN interpreta el cambio como una señal de que Epic no quiere mostrar abiertamente en el juego ilustraciones con elementos evidentes de AI."
               }
             ]
           }
@@ -979,15 +1009,15 @@
       }
     },
     {
-      "id": "grimhammer3-mod-corrupted-ai-protest",
+      "id": "kojima-on-ai-after-dlss5-death-stranding2",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Warhammer 3 모더\n자기 모드 일부러 망가뜨려",
-      "body": "SFO: Grimhammer 3 제작자가 AI 재업로드에 항의해 모드를 훼손했다.",
-      "mini_headline": "AI 재업로드에 자기 모드 부순 모더",
+      "headline": "Kojima, AI가 작가\n일·통제권 빼앗는 건 경계",
+      "body": "Hideo Kojima는 AI가 작가 일을 빼앗는 건 싫지만 AI는 남는다고 본다.",
+      "mini_headline": "Kojima가 본 AI와 창작자",
       "tool": "Games",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/support-modders-not-ai-total-war-warhammer-3-mod-deliberately-corrupted-by-its-own-creator-in-protest-of-ai-infused-unauthorised-reuploads",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -995,173 +1025,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+            "cap": "Death Stranding 2의 Sam Porter Bridges"
           },
           {
             "t": "p",
-            "x": "Total War: Warhammer 3 오버홀 모드가 AI를 활용한(AI-infused) 방식으로 무단 재업로드되자, SFO: Grimhammer 3의 주 제작자가 화가 나 모드를 일부러 망가뜨리기로 했다. 최신 버전의 Grimhammer 3를 언제, 어디서 받을지 모더들이 더 확실히 쥐겠다는 취지다. 제작자 Venris는 상황이 나아지지 않으면 모드를 비공개로 돌리겠다고 경고했다."
+            "x": "Hideo Kojima의 Death Stranding 2가 Nvidia DLSS 5를 둘러싼 논쟁에 휘말린 가운데, Kojima가 Koji10 팟캐스트에서 AI 이야기를 꺼냈다."
           },
           {
             "t": "p",
-            "x": "“SFO: Grimhammer III의 무단 재업로드가 늘고 있고, 더 중요하게는 그 과정에서 AI가 쓰이고 있어, 이런 무단 업로드에서는 작동하지 않도록 모드를 일부러 손상시켰습니다.” 제작자는 IGN이 찾아낸 Patreon 게시글에 이렇게 썼다."
+            "x": "\"창작자로서 이 기술에 대해서는 복잡한 심정이다\"라고 그는 말한다. \"AI는 오래된 사진에 생기를 불어넣거나 색을 입히는 데 능하지 않나. 언젠가는 리메이크를 하지 않게 될지도 모르겠다.\""
           },
           {
             "t": "p",
-            "x": "“SFO: Grimhammer는 이 커뮤니티와 판타지 세계를 향한 십 년 가까운 열정과 애정의 결과물입니다. 그러니 누구도 허락 없이 제 작업물을 가져가게 두지 않습니다. 특히 AI 관련(AI-related) 목적이라면 더더욱 그렇습니다. AI가 아니라 모더를 응원해 주세요.” Venris는 모드를 유료화할 생각은 없다고 못 박으며 글을 맺었다."
+            "x": "그래도 AI는 예술적 의도까지 이해하지는 못한다. \"원작을 만든 사람으로서, 누군가 그것을 너무 많이 바꾸는 건 원치 않는다\"고 덧붙인다. \"특정한 조명 설정을 고른 데는 이유가 있었다. AI가 그런 의도를 이해한다면 이야기가 달라지겠지만.\""
+          },
+          {
+            "t": "video",
+            "yt": "YDTq8SeY9s0"
           },
           {
             "t": "p",
-            "x": "SFO 팀의 모드는 주로 Steam Workshop으로 배포된다. 다만 Nexus Mods 같은 모딩 사이트들은 최근 생성형 AI로 만든 모드의 표기 기준을 강화하는 쪽으로 움직였다."
+            "x": "\"그건 싫다.\" AI가 알아서 손을 대 바꿔 버리는 일을 두고 한 말이다. \"내 작품에서 내가 AI를 통제한다면 달라질 수도 있다. 그래도 잘 모르겠다.\""
+          },
+          {
+            "t": "p",
+            "x": "\"어쩌면 결국 AI가 그 모든 걸 자동으로 하게 될지도 모른다. 백 년 뒤에는 해상도가 더 높아져 있을 수도 있다. 하지만 별로 내키는 생각은 아니다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Warhammer 3 modder corrupts\nown mod to protest AI reuploads",
-          "body": "SFO: Grimhammer 3's creator deliberately corrupted the Warhammer 3 mod to protest AI-infused unauthorised reuploads.",
-          "mini_headline": "Modder sabotages own mod\nover AI reuploads",
+          "headline": "Kojima wary of AI taking work\nor control from artists",
+          "body": "Hideo Kojima says he dislikes AI taking work or control from artists, but believes it is here to stay.",
+          "mini_headline": "Kojima on AI and artists",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+                "cap": "Sam Porter Bridges in Death Stranding 2"
               },
               {
                 "t": "p",
-                "x": "Cheesed off with unauthorised reuploads of their Total War: Warhammer 3 overhaul which make use of AI, the main modder behind SFO: Grimhammer 3 has opted to purposefully corrupt the mod. The aim is to ensure that the modders maintain more control over where and when the latest version of Grimhammer 3 can be grabbed, with creator Venris threatening to make the mod private if the situation doesn't improve."
+                "x": "Hideo Kojima's Death Stranding 2 got caught up in the discussion around Nvidia DLSS 5, and he has now addressed AI on the Koji10 podcast."
               },
               {
                 "t": "p",
-                "x": "\"Due to the growing number of unauthorized reuploads of SFO: Grimhammer III, and more importantly, the use of AI in the process, I have deliberately corrupted the mod to prevent it from functioning with such unauthorized uploads,\" they wrote in a Patreon post spotted by IGN."
+                "x": "\"As a creator, I have mixed feelings about this technology,\" he says. \"AI is good at bringing old photographs to life or adding color to them, right? I think we might stop doing remakes one day.\""
               },
               {
                 "t": "p",
-                "x": "\"SFO: Grimhammer is the result of nearly ten years of passion and love for this community and the fantasy world. As such, I do not permit anyone to take my work without permission. Especially not for AI-related purposes. Support modders, not AI.\" Venris closed by making clear they won't be paywalling the mod."
+                "x": "But AI can't understand artistic intention. \"As the person who made the original, I wouldn't want someone changing it too much,\" he says. \"There was a reason I chose a particular lighting setup. It would be different if AI understood those intentions.\""
+              },
+              {
+                "t": "video",
+                "yt": "YDTq8SeY9s0"
               },
               {
                 "t": "p",
-                "x": "While the SFO team's mods are primarily published via the Steam Workshop, modding sites like Nexus Mods have recently moved to tighten up their labelling of mods made using generative AI."
+                "x": "\"I wouldn't like that,\" he says of AI making changes of its own accord. \"Unless I was controlling the AI in my own work, that may be different. I don't know, though.\""
+              },
+              {
+                "t": "p",
+                "x": "\"Maybe AI will eventually do all that automatically. In a hundred years, the resolution may be even higher. But I don't much like the idea.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Warhammer 3 모더\n자기 모드 일부러 망가뜨려",
-          "body": "SFO: Grimhammer 3 제작자가 AI 재업로드에 항의해 모드를 훼손했다.",
-          "mini_headline": "AI 재업로드에 자기 모드 부순 모더",
+          "headline": "Kojima, AI가 작가\n일·통제권 빼앗는 건 경계",
+          "body": "Hideo Kojima는 AI가 작가 일을 빼앗는 건 싫지만 AI는 남는다고 본다.",
+          "mini_headline": "Kojima가 본 AI와 창작자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+                "cap": "Death Stranding 2의 Sam Porter Bridges"
               },
               {
                 "t": "p",
-                "x": "Total War: Warhammer 3 오버홀 모드가 AI를 활용한(AI-infused) 방식으로 무단 재업로드되자, SFO: Grimhammer 3의 주 제작자가 화가 나 모드를 일부러 망가뜨리기로 했다. 최신 버전의 Grimhammer 3를 언제, 어디서 받을지 모더들이 더 확실히 쥐겠다는 취지다. 제작자 Venris는 상황이 나아지지 않으면 모드를 비공개로 돌리겠다고 경고했다."
+                "x": "Hideo Kojima의 Death Stranding 2가 Nvidia DLSS 5를 둘러싼 논쟁에 휘말린 가운데, Kojima가 Koji10 팟캐스트에서 AI 이야기를 꺼냈다."
               },
               {
                 "t": "p",
-                "x": "“SFO: Grimhammer III의 무단 재업로드가 늘고 있고, 더 중요하게는 그 과정에서 AI가 쓰이고 있어, 이런 무단 업로드에서는 작동하지 않도록 모드를 일부러 손상시켰습니다.” 제작자는 IGN이 찾아낸 Patreon 게시글에 이렇게 썼다."
+                "x": "\"창작자로서 이 기술에 대해서는 복잡한 심정이다\"라고 그는 말한다. \"AI는 오래된 사진에 생기를 불어넣거나 색을 입히는 데 능하지 않나. 언젠가는 리메이크를 하지 않게 될지도 모르겠다.\""
               },
               {
                 "t": "p",
-                "x": "“SFO: Grimhammer는 이 커뮤니티와 판타지 세계를 향한 십 년 가까운 열정과 애정의 결과물입니다. 그러니 누구도 허락 없이 제 작업물을 가져가게 두지 않습니다. 특히 AI 관련(AI-related) 목적이라면 더더욱 그렇습니다. AI가 아니라 모더를 응원해 주세요.” Venris는 모드를 유료화할 생각은 없다고 못 박으며 글을 맺었다."
+                "x": "그래도 AI는 예술적 의도까지 이해하지는 못한다. \"원작을 만든 사람으로서, 누군가 그것을 너무 많이 바꾸는 건 원치 않는다\"고 덧붙인다. \"특정한 조명 설정을 고른 데는 이유가 있었다. AI가 그런 의도를 이해한다면 이야기가 달라지겠지만.\""
+              },
+              {
+                "t": "video",
+                "yt": "YDTq8SeY9s0"
               },
               {
                 "t": "p",
-                "x": "SFO 팀의 모드는 주로 Steam Workshop으로 배포된다. 다만 Nexus Mods 같은 모딩 사이트들은 최근 생성형 AI로 만든 모드의 표기 기준을 강화하는 쪽으로 움직였다."
+                "x": "\"그건 싫다.\" AI가 알아서 손을 대 바꿔 버리는 일을 두고 한 말이다. \"내 작품에서 내가 AI를 통제한다면 달라질 수도 있다. 그래도 잘 모르겠다.\""
+              },
+              {
+                "t": "p",
+                "x": "\"어쩌면 결국 AI가 그 모든 걸 자동으로 하게 될지도 모른다. 백 년 뒤에는 해상도가 더 높아져 있을 수도 있다. 하지만 별로 내키는 생각은 아니다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI無断転載に抗議し\n自作MODを故意に破損",
-          "body": "SFO: Grimhammer 3の作者が、AI無断転載に抗議しMODを破損させた。",
-          "mini_headline": "AI転載に抗議、作者がMODを自ら破損",
+          "headline": "Kojima、AIが作り手の\n仕事や主導権を奪うのを警戒",
+          "body": "Hideo KojimaはAIが作り手の仕事や主導権を奪うのは嫌だが、定着すると見ている。",
+          "mini_headline": "KojimaとAI、そして作り手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+                "cap": "Death Stranding 2のSam Porter Bridges"
               },
               {
                 "t": "p",
-                "x": "AIを使った(AI-infused)Total War: Warhammer 3向けオーバーホールMODの無断転載に業を煮やし、SFO: Grimhammer 3の中心的なモッダーがMODを意図的に破損させることを選んだ。狙いは、Grimhammer 3の最新版をいつどこで入手できるかを、モッダー側がより確実に管理できるようにすることだ。作者のVenrisは、状況が改善しなければMODを非公開にすると警告している。"
+                "x": "Hideo KojimaのDeath Stranding 2はNvidia DLSS 5をめぐる議論に巻き込まれた。その彼が、Koji10ポッドキャストでAIについて語った。"
               },
               {
                 "t": "p",
-                "x": "「SFO: Grimhammer IIIの無断転載が増えており、さらに重要なのはその過程でAIが使われていることです。そのため、こうした無断アップロードでは動作しないよう、意図的にMODを破損させました」と、作者はIGNが見つけたPatreonの投稿に書いている。"
+                "x": "「クリエイターとして、この技術には複雑な思いがある」と彼は言う。「AIは古い写真に命を吹き込んだり、色を付けたりするのが得意だよね。いつかリメイクをやらなくなるかもしれない」"
               },
               {
                 "t": "p",
-                "x": "「SFO: Grimhammerは、このコミュニティとファンタジー世界への十年近い情熱と愛情の結晶です。ですから、誰であれ許可なく私の作品を持ち出すことは認めません。AI関連(AI-related)の目的であればなおさらです。AIではなく、モッダーを支援してください」。Venrisは、MODを有料化するつもりはないと明言して投稿を締めくくった。"
+                "x": "だが、AIは芸術的な意図を理解できない。「オリジナルを作った人間としては、誰かにあまり変えてほしくない」と彼は言う。「特定のライティングを選んだのには理由があった。AIがその意図を理解するなら話は別だが」"
+              },
+              {
+                "t": "video",
+                "yt": "YDTq8SeY9s0"
               },
               {
                 "t": "p",
-                "x": "SFOチームのMODは主にSteam Workshopで公開されているが、Nexus ModsなどのMODサイトは最近、生成AIを使って作られたMODの表示を厳格化する動きを見せている。"
+                "x": "「それは嫌だね」と、AIが勝手に変更を加えることについて彼は語る。「自分の作品で自分がAIをコントロールしているなら、違うかもしれない。でも、わからないな」"
+              },
+              {
+                "t": "p",
+                "x": "「いずれAIがそれを全部自動でやるようになるかもしれない。百年後には解像度がさらに上がっているかもしれない。でも、その考えはあまり好きじゃない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Warhammer 3模组\n作者抗议AI转载而自毁",
-          "body": "SFO: Grimhammer 3作者故意损坏模组，以抗议借助AI的未授权转载。",
-          "mini_headline": "作者为抗议AI转载自毁模组",
+          "headline": "Kojima警惕AI夺走\n创作者的工作与掌控",
+          "body": "Hideo Kojima不愿看到AI夺走创作者的工作或掌控权，但认为AI会长期存在。",
+          "mini_headline": "Kojima谈AI与创作者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+                "cap": "Death Stranding 2中的Sam Porter Bridges"
               },
               {
                 "t": "p",
-                "x": "由于不满自己为Total War: Warhammer 3制作的大修模组被人借助AI（AI-infused）未经授权转载，SFO: Grimhammer 3的主要作者决定故意损坏这款模组。此举旨在让模组作者更好地掌控Grimhammer 3最新版本的获取渠道与时间，作者Venris还警告称，如果情况没有改善，就会把模组设为私密。"
+                "x": "Hideo Kojima的Death Stranding 2卷入了围绕Nvidia DLSS 5的讨论，如今他在Koji10播客中谈到了AI。"
               },
               {
                 "t": "p",
-                "x": "“由于SFO: Grimhammer III的未授权转载越来越多，更重要的是转载过程中还使用了AI，我故意损坏了模组，使其无法在这些未授权上传的版本中运行。”作者在一篇被IGN发现的Patreon帖子中写道。"
+                "x": "\"作为创作者，我对这项技术感情复杂，\"他说，\"AI很擅长让老照片活起来，或者给它们上色，对吧？我想也许有一天我们会不再做重制。\""
               },
               {
                 "t": "p",
-                "x": "“SFO: Grimhammer是近十年来我对这个社区和这个奇幻世界的热情与热爱的结晶。因此，我不允许任何人未经许可拿走我的作品，尤其是用于与AI相关（AI-related）的用途。请支持模组作者，而不是AI。”Venris在帖子结尾明确表示，不会把模组设为付费。"
+                "x": "但AI无法理解艺术意图。\"作为原作的创作者，我不希望别人改动太多，\"他说，\"我选择某种特定的灯光设置是有原因的。如果AI能理解这些意图，那就另当别论了。\""
+              },
+              {
+                "t": "video",
+                "yt": "YDTq8SeY9s0"
               },
               {
                 "t": "p",
-                "x": "虽然SFO团队的模组主要通过Steam Workshop发布，但Nexus Mods等模组网站最近已着手收紧对使用生成式AI制作的模组的标注要求。"
+                "x": "\"我不会喜欢那样，\"他谈到AI自行做出改动时说，\"除非是我在自己的作品里控制AI，那可能就不一样了。不过我也说不准。\""
+              },
+              {
+                "t": "p",
+                "x": "\"也许AI最终会自动完成这一切。一百年后，分辨率可能会更高。但我不太喜欢这个想法。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Un modder de Warhammer 3 daña\nsu mod contra resubidas con IA",
-          "body": "El creador de SFO: Grimhammer 3 corrompió a propósito su mod en protesta por resubidas no autorizadas con IA.",
-          "mini_headline": "Un modder sabotea su propio mod por resubidas con IA",
+          "headline": "Kojima recela de que la AI quite\ntrabajo o control a artistas",
+          "body": "Hideo Kojima dice que le disgusta que la AI quite trabajo o control a artistas, pero cree que ha llegado para quedarse.",
+          "mini_headline": "Kojima, la AI y los artistas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+                "cap": "Sam Porter Bridges en Death Stranding 2"
               },
               {
                 "t": "p",
-                "x": "Harto de las resubidas no autorizadas de su revisión integral de Total War: Warhammer 3 que recurren a la IA (AI-infused), el principal modder detrás de SFO: Grimhammer 3 ha optado por corromper el mod a propósito. El objetivo es que los modders mantengan más control sobre dónde y cuándo se puede descargar la versión más reciente de Grimhammer 3, y su creador, Venris, amenaza con hacer privado el mod si la situación no mejora."
+                "x": "Death Stranding 2, de Hideo Kojima, quedó envuelto en el debate en torno a Nvidia DLSS 5, y ahora él ha hablado de la AI en el podcast Koji10."
               },
               {
                 "t": "p",
-                "x": "“Debido al creciente número de resubidas no autorizadas de SFO: Grimhammer III y, sobre todo, al uso de IA en el proceso, he corrompido deliberadamente el mod para impedir que funcione con esas subidas no autorizadas”, escribió en una publicación de Patreon detectada por IGN."
+                "x": "\"Como creador, tengo sentimientos encontrados sobre esta tecnología\", dice. \"La AI es buena para dar vida a fotografías antiguas o para colorearlas, ¿verdad? Creo que algún día podríamos dejar de hacer remakes\"."
               },
               {
                 "t": "p",
-                "x": "“SFO: Grimhammer es el resultado de casi diez años de pasión y amor por esta comunidad y por el mundo de fantasía. Por eso, no permito que nadie tome mi trabajo sin permiso. Y menos aún con fines relacionados con la IA (AI-related). Apoyen a los modders, no a la IA”. Venris cerró dejando claro que no pondrá el mod tras un muro de pago."
+                "x": "Pero la AI no puede entender la intención artística. \"Como la persona que hizo el original, no querría que alguien lo cambiara demasiado\", dice. \"Había una razón por la que elegí una iluminación concreta. Sería distinto si la AI entendiera esas intenciones\"."
+              },
+              {
+                "t": "video",
+                "yt": "YDTq8SeY9s0"
               },
               {
                 "t": "p",
-                "x": "Aunque los mods del equipo de SFO se publican principalmente a través de Steam Workshop, sitios de modding como Nexus Mods han empezado recientemente a endurecer el etiquetado de los mods creados con IA generativa."
+                "x": "\"No me gustaría\", dice sobre que la AI haga cambios por su cuenta. \"Si yo controlara la AI en mi propia obra, quizá sería distinto. Aunque no lo sé\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Quizá la AI acabe haciendo todo eso de forma automática. Dentro de cien años, la resolución puede ser aún mayor. Pero no me gusta mucho la idea\"."
               }
             ]
           }
@@ -1169,121 +1253,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Warhammer 3 모더\n자기 모드 일부러 망가뜨려",
-          "body": "SFO: Grimhammer 3 제작자가 AI 재업로드에 항의해 모드를 훼손했다.",
-          "mini_headline": "AI 재업로드에 모드를 스스로 망가뜨린 모더",
+          "headline": "Kojima, AI가 작가\n일·통제권 빼앗는 건 경계",
+          "body": "Hideo Kojima는 AI가 작가 일을 빼앗는 건 싫지만 AI는 남는다고 본다.",
+          "mini_headline": "Kojima가 본 AI와 창작자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+                "cap": "Death Stranding 2의 Sam Porter Bridges"
               },
               {
                 "t": "p",
-                "x": "AI를 활용한(AI-infused) Total War: Warhammer 3 오버홀 모드의 무단 재업로드에 화가 난 SFO: Grimhammer 3의 주 제작자가 모드를 일부러 망가뜨리기로 했다. 최신 버전의 Grimhammer 3를 언제, 어디서 받을 수 있는지를 모더들이 더 확실히 통제하려는 목적이다. 제작자 Venris는 상황이 나아지지 않으면 모드를 비공개로 돌리겠다고 경고했다."
+                "x": "Hideo Kojima의 Death Stranding 2가 Nvidia DLSS 5를 둘러싼 논쟁에 휘말린 가운데, 그가 Koji10 팟캐스트에서 AI에 대해 입을 열었다."
               },
               {
                 "t": "p",
-                "x": "“SFO: Grimhammer III의 무단 재업로드가 늘고 있고, 더 중요하게는 그 과정에서 AI가 쓰이고 있어, 이런 무단 업로드에서는 작동하지 않도록 모드를 일부러 손상시켰습니다.” 제작자는 IGN이 찾아낸 Patreon 게시글에 이렇게 썼다."
+                "x": "\"창작자로서 이 기술에 대해서는 복잡한 심정이다\"라고 그는 말한다. \"AI는 오래된 사진에 생기를 불어넣거나 색을 입히는 데 능하지 않나. 언젠가는 리메이크를 하지 않게 될지도 모르겠다.\""
               },
               {
                 "t": "p",
-                "x": "“SFO: Grimhammer는 이 커뮤니티와 판타지 세계를 향한 십 년 가까운 열정과 애정의 결과물입니다. 그러니 누구도 허락 없이 제 작업물을 가져가게 두지 않습니다. 특히 AI 관련(AI-related) 목적이라면 더더욱 그렇습니다. AI가 아니라 모더를 응원해 주세요.” Venris는 모드를 유료화하지는 않겠다고 분명히 밝히며 글을 맺었다."
+                "x": "하지만 AI는 예술적 의도를 이해하지 못한다. \"원작을 만든 사람으로서, 누군가 그것을 너무 많이 바꾸는 건 원치 않는다\"고 그는 말한다. \"특정한 조명 설정을 고른 데는 이유가 있었다. AI가 그런 의도를 이해한다면 이야기가 달라지겠지만.\""
+              },
+              {
+                "t": "video",
+                "yt": "YDTq8SeY9s0"
               },
               {
                 "t": "p",
-                "x": "SFO 팀의 모드는 주로 Steam Workshop을 통해 배포되지만, Nexus Mods 같은 모딩 사이트들은 최근 생성형 AI로 만든 모드의 표기 기준을 강화하는 쪽으로 움직였다."
+                "x": "\"그건 싫다.\" AI가 스스로 알아서 바꾸는 일에 대해 그는 이렇게 말한다. \"내 작품에서 내가 AI를 통제한다면 달라질 수도 있다. 그래도 잘 모르겠다.\""
+              },
+              {
+                "t": "p",
+                "x": "\"어쩌면 결국 AI가 그 모든 걸 자동으로 하게 될지도 모른다. 백 년 뒤에는 해상도가 더 높아져 있을 수도 있다. 하지만 별로 내키는 생각은 아니다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI無断転載に抗議し\n自作MODを故意に破損",
-          "body": "SFO: Grimhammer 3の作者が、AI無断転載に抗議しMODを破損させた。",
-          "mini_headline": "AI転載に抗議、作者がMODを自ら破損",
+          "headline": "Kojima、AIが作り手の\n仕事や主導権を奪うのを警戒",
+          "body": "Hideo KojimaはAIが作り手の仕事や主導権を奪うのは嫌だが、定着すると見ている。",
+          "mini_headline": "KojimaとAI、そして作り手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+                "cap": "Death Stranding 2のSam Porter Bridges"
               },
               {
                 "t": "p",
-                "x": "AIを使った(AI-infused)Total War: Warhammer 3向けオーバーホールMODの無断転載に業を煮やし、SFO: Grimhammer 3の中心的なモッダーがMODを意図的に破損させることを選んだ。狙いは、Grimhammer 3の最新版をいつどこで入手できるかを、モッダー側がより確実に管理できるようにすることだ。作者のVenrisは、状況が改善しなければMODを非公開にすると警告している。"
+                "x": "Hideo KojimaのDeath Stranding 2はNvidia DLSS 5をめぐる議論に巻き込まれた。その彼が、Koji10ポッドキャストでAIについて語った。"
               },
               {
                 "t": "p",
-                "x": "「SFO: Grimhammer IIIの無断転載が増えており、さらに重要なのはその過程でAIが使われていることです。そのため、こうした無断アップロードでは動作しないよう、意図的にMODを破損させました」と、作者はIGNが見つけたPatreonの投稿に書いている。"
+                "x": "「クリエイターとして、この技術には複雑な思いがある」と彼は言う。「AIは古い写真に命を吹き込んだり、色を付けたりするのが得意だよね。いつかリメイクをやらなくなるかもしれない」"
               },
               {
                 "t": "p",
-                "x": "「SFO: Grimhammerは、このコミュニティとファンタジー世界への十年近い情熱と愛情の結晶です。ですから、誰であれ許可なく私の作品を持ち出すことは認めません。AI関連(AI-related)の目的であればなおさらです。AIではなく、モッダーを支援してください」。Venrisは、MODを有料化するつもりはないと明言して投稿を締めくくった。"
+                "x": "だが、AIは芸術的な意図を理解できない。「オリジナルを作った人間としては、誰かにあまり変えてほしくない」と彼は言う。「特定のライティングを選んだのには理由があった。AIがその意図を理解するなら話は別だが」"
+              },
+              {
+                "t": "video",
+                "yt": "YDTq8SeY9s0"
               },
               {
                 "t": "p",
-                "x": "SFOチームのMODは主にSteam Workshopで公開されているが、Nexus ModsなどのMODサイトは最近、生成AIを使って作られたMODの表示を厳格化する動きを見せている。"
+                "x": "「それは嫌だね」と、AIが勝手に変更を加えることについて彼は語る。「自分の作品で自分がAIをコントロールしているなら、違うかもしれない。でも、わからないな」"
+              },
+              {
+                "t": "p",
+                "x": "「いずれAIがそれを全部自動でやるようになるかもしれない。百年後には解像度がさらに上がっているかもしれない。でも、その考えはあまり好きじゃない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Warhammer 3模组\n作者抗议AI转载而自毁",
-          "body": "SFO: Grimhammer 3作者故意损坏模组，以抗议借助AI的未授权转载。",
-          "mini_headline": "作者为抗议AI转载自毁模组",
+          "headline": "Kojima警惕AI夺走\n创作者的工作与掌控",
+          "body": "Hideo Kojima不愿看到AI夺走创作者的工作或掌控权，但认为AI会长期存在。",
+          "mini_headline": "Kojima谈AI与创作者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+                "cap": "Death Stranding 2中的Sam Porter Bridges"
               },
               {
                 "t": "p",
-                "x": "由于不满自己为Total War: Warhammer 3制作的大修模组被人借助AI（AI-infused）未经授权转载，SFO: Grimhammer 3的主要作者决定故意损坏这款模组。此举旨在让模组作者更好地掌控Grimhammer 3最新版本的获取渠道与时间，作者Venris还警告称，如果情况没有改善，就会把模组设为私密。"
+                "x": "Hideo Kojima的Death Stranding 2卷入了围绕Nvidia DLSS 5的讨论，如今他在Koji10播客中谈到了AI。"
               },
               {
                 "t": "p",
-                "x": "“由于SFO: Grimhammer III的未授权转载越来越多，更重要的是转载过程中还使用了AI，我故意损坏了模组，使其无法在这些未授权上传的版本中运行。”作者在一篇被IGN发现的Patreon帖子中写道。"
+                "x": "\"作为创作者，我对这项技术感情复杂，\"他说，\"AI很擅长让老照片活起来，或者给它们上色，对吧？我想也许有一天我们会不再做重制。\""
               },
               {
                 "t": "p",
-                "x": "“SFO: Grimhammer是近十年来我对这个社区和这个奇幻世界的热情与热爱的结晶。因此，我不允许任何人未经许可拿走我的作品，尤其是用于与AI相关（AI-related）的用途。请支持模组作者，而不是AI。”Venris在帖子结尾明确表示，不会把模组设为付费。"
+                "x": "但AI无法理解艺术意图。\"作为原作的创作者，我不希望别人改动太多，\"他说，\"我选择某种特定的灯光设置是有原因的。如果AI能理解这些意图，那就另当别论了。\""
+              },
+              {
+                "t": "video",
+                "yt": "YDTq8SeY9s0"
               },
               {
                 "t": "p",
-                "x": "虽然SFO团队的模组主要通过Steam Workshop发布，但Nexus Mods等模组网站最近已着手收紧对使用生成式AI制作的模组的标注要求。"
+                "x": "\"我不会喜欢那样，\"他谈到AI自行做出改动时说，\"除非是我在自己的作品里控制AI，那可能就不一样了。不过我也说不准。\""
+              },
+              {
+                "t": "p",
+                "x": "\"也许AI最终会自动完成这一切。一百年后，分辨率可能会更高。但我不太喜欢这个想法。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Un modder de Warhammer 3 daña\nsu mod contra resubidas con IA",
-          "body": "El creador de SFO: Grimhammer 3 corrompió a propósito su mod en protesta por resubidas no autorizadas con IA.",
-          "mini_headline": "Un modder sabotea su propio mod por resubidas con IA",
+          "headline": "Kojima recela de que la AI quite\ntrabajo o control a artistas",
+          "body": "Hideo Kojima dice que le disgusta que la AI quite trabajo o control a artistas, pero cree que ha llegado para quedarse.",
+          "mini_headline": "Kojima, la AI y los artistas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/total-war-warhammer-3-mod-corrupted-ai-reuploads-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
+                "cap": "Sam Porter Bridges en Death Stranding 2"
               },
               {
                 "t": "p",
-                "x": "Harto de las resubidas no autorizadas de su revisión integral de Total War: Warhammer 3 que recurren a la IA (AI-infused), el principal modder detrás de SFO: Grimhammer 3 ha optado por corromper el mod a propósito. El objetivo es que los modders mantengan más control sobre dónde y cuándo se puede descargar la versión más reciente de Grimhammer 3, y su creador, Venris, amenaza con hacer privado el mod si la situación no mejora."
+                "x": "Death Stranding 2, de Hideo Kojima, quedó envuelto en el debate en torno a Nvidia DLSS 5, y ahora él ha hablado de la AI en el podcast Koji10."
               },
               {
                 "t": "p",
-                "x": "“Debido al creciente número de resubidas no autorizadas de SFO: Grimhammer III y, sobre todo, al uso de IA en el proceso, he corrompido deliberadamente el mod para impedir que funcione con esas subidas no autorizadas”, escribió en una publicación de Patreon detectada por IGN."
+                "x": "\"Como creador, tengo sentimientos encontrados sobre esta tecnología\", dice. \"La AI es buena para dar vida a fotografías antiguas o para colorearlas, ¿verdad? Creo que algún día podríamos dejar de hacer remakes\"."
               },
               {
                 "t": "p",
-                "x": "“SFO: Grimhammer es el resultado de casi diez años de pasión y amor por esta comunidad y por el mundo de fantasía. Por eso, no permito que nadie tome mi trabajo sin permiso. Y menos aún con fines relacionados con la IA (AI-related). Apoyen a los modders, no a la IA”. Venris cerró dejando claro que no pondrá el mod tras un muro de pago."
+                "x": "Pero la AI no puede entender la intención artística. \"Como la persona que hizo el original, no querría que alguien lo cambiara demasiado\", dice. \"Había una razón por la que elegí una iluminación concreta. Sería distinto si la AI entendiera esas intenciones\"."
+              },
+              {
+                "t": "video",
+                "yt": "YDTq8SeY9s0"
               },
               {
                 "t": "p",
-                "x": "Aunque los mods del equipo de SFO se publican principalmente a través de Steam Workshop, sitios de modding como Nexus Mods han empezado recientemente a endurecer el etiquetado de los mods creados con IA generativa."
+                "x": "\"No me gustaría\", dice sobre que la AI haga cambios por su cuenta. \"Si yo controlara la AI en mi propia obra, quizá sería distinto. Aunque no lo sé\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Quizá la AI acabe haciendo todo eso de forma automática. Dentro de cien años, la resolución puede ser aún mayor. Pero no me gusta mucho la idea\"."
               }
             ]
           }
@@ -1291,189 +1411,165 @@
       }
     },
     {
-      "id": "activision-mw2-genai-legal-notice",
+      "id": "rider-agentic-unreal-dev-unreal-fest",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "genAI MW2 디컴파일\nActivision이 제동",
-      "body": "Activision이 genAI MW2 디컴파일 영상을 내리게 했다.",
-      "mini_headline": "Activision, genAI MW2 프로젝트 겨냥",
+      "headline": "Rider 에이전트로 푸는\nUnreal 개발의 난제",
+      "body": "Unreal Fest 2026에서 Rider 에이전트로 GAS 같은 난제를 푼다.",
+      "mini_headline": "Unreal을 위한 Rider 에이전트",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580",
+      "source": "Unreal Engine (YouTube)",
+      "url": "https://www.youtube.com/watch?v=0C7GjShUnlY",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+            "t": "video",
+            "yt": "0C7GjShUnlY"
           },
           {
             "t": "p",
-            "x": "기존 게임의 아류작과 디컴파일, 바이브 코딩으로 찍어 내는 저질 게임은 지금 사실상 무법지대다. 그런데 둘 다 Microsoft 소유인 Activision과 Bethesda가 최근 서로 다른 두 프로젝트를 상대로 조치에 나섰다."
+            "x": "범용 AI는 코드를 짜고 쉬운 부분을 처리한다. 그런데 Unreal Engine 개발의 어려운 일, 그러니까 Gameplay Ability System(GAS) 부트스트랩, 빌드 트리아지, DataTable 작성, 크래시 디버깅, 모바일 설정은 에디터 안과 엔진 서브시스템, 서로 얽힌 설정 파일들 사이에서 벌어진다. 범용 AI가 번번이 틀리는 곳도 바로 여기다."
           },
           {
             "t": "p",
-            "x": "Claude Opus 5.5로 코딩한 브라우저 재현작 Fallout: New York은 조회수 3.5백만 회를 넘겼다. 하지만 ChrisFirst는 Bethesda에서 중단 요구서를 받았다고 알려진 뒤 10월 1일 프로젝트를 접었다."
+            "x": "Unreal Fest Chicago 2026에서 녹화한 이 세션은 실용적인 스택 하나를 소개한다. JetBrains Rider, Agent Communication Protocol(ACP, AI 에이전트를 위한 LSP 같은 오픈 에이전트 프로토콜), AgentBridge로 돌아가는 UE 전용(UE-specific) 스킬을 묶은 구성이다. 덕분에 AI 에이전트는 소스 파일에 접근하는 데서 그치지 않고 에디터 안을 직접 보며 손을 쓴다."
           },
           {
             "t": "p",
-            "x": "Maurice Heumann은 9월 30일 X에 genAI로 PC판 원작 Modern Warfare 2의 소스 코드를 디컴파일하는 중이라고 올렸다. “현재 17개의 에이전트가 병렬로 작업하고 있어 놀라운 속도로 진척되고 있다”는 글이었다."
-          },
-          {
-            "t": "p",
-            "x": "Activision은 그가 공유한 영상을 지우는 것으로 대응했다. 그 자리에는 “저작권자의 신고에 따라 이 미디어는 비활성화되었습니다”라는 경고만 남았다. 코드를 호스팅하던 것으로 알려진 사이트 링크도 더는 열리지 않는다."
+            "x": "JetBrains가 다루는 범위는 아키텍처 상담, 올바른 GAS 리플리케이션 설정을 갖춘 C++ 스캐폴딩, GameplayEffects를 활용한 어빌리티 작성, 크래시 트리아지, 텍스트 브리프에 따른 액터 배치, 자동화 테스트까지 개발 라이프사이클 전체다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Activision pulls footage of\ngenAI MW2 decompilation",
-          "body": "Activision had footage of a genAI Modern Warfare 2 decompilation pulled as Bethesda also cracks down on vibe coders.",
-          "mini_headline": "Activision targets\ngenAI MW2 project",
+          "headline": "Using Rider's agents on the\nhard parts of Unreal work",
+          "body": "An Unreal Fest 2026 talk applies agentic workflows in Rider to hard Unreal tasks like GAS bootstrap and build triage.",
+          "mini_headline": "Rider agents for Unreal",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+                "t": "video",
+                "yt": "0C7GjShUnlY"
               },
               {
                 "t": "p",
-                "x": "There’s currently a free-for-all when it comes to vibe coding video game slop, including knock-offs and decompilations of existing games. Activision and Bethesda, both owned by Microsoft, recently took action against two different projects."
+                "x": "Generic AI generates code and solves the easy part. The hard parts of Unreal Engine development—like Gameplay Ability System (GAS) bootstrap, build triage, DataTable authoring, crash debugging, mobile configuration—happen in the editor, in engine subsystems, and across a web of interdependent config files that generic AI consistently gets wrong."
               },
               {
                 "t": "p",
-                "x": "Fallout: New York, a browser recreation coded with Claude Opus 5.5, drew over 3.5 million views before ChrisFirst abandoned it on October 1 after receiving an alleged cease and desist from Bethesda."
+                "x": "This session recorded at Unreal Fest Chicago 2026 introduces a practical stack—JetBrains Rider, the Agent Communication Protocol (ACP, an open agent protocol like LSP for AI agents), and UE-specific skills running through AgentBridge—that gives AI agents eyes and hands inside the editor, not just access to your source files."
               },
               {
                 "t": "p",
-                "x": "Maurice Heumann shared on X on September 30 that he was using genAI to decompile the source code for the original Modern Warfare 2 on PC. “With currently 17 agents working in parallel, we’re making progress at an incredible pace,” he wrote."
-              },
-              {
-                "t": "p",
-                "x": "Activision responded by nuking the footage he’d shared, replaced with a warning: “This media has been disabled in response to a report by the copyright owner.” A link to the site allegedly hosting the code can no longer be reached either."
+                "x": "JetBrains covers the complete development lifecycle: architecture consultation, C++ scaffolding with correct GAS replication setup, ability authoring with GameplayEffects, crash triage, actor placement from a text brief, and automated testing."
               }
             ]
           }
         },
         "ko": {
-          "headline": "genAI MW2 디컴파일\nActivision이 제동",
-          "body": "Activision이 genAI MW2 디컴파일 영상을 내리게 했다.",
-          "mini_headline": "Activision, genAI MW2 프로젝트 겨냥",
+          "headline": "Rider 에이전트로 푸는\nUnreal 개발의 난제",
+          "body": "Unreal Fest 2026에서 Rider 에이전트로 GAS 같은 난제를 푼다.",
+          "mini_headline": "Unreal을 위한 Rider 에이전트",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+                "t": "video",
+                "yt": "0C7GjShUnlY"
               },
               {
                 "t": "p",
-                "x": "기존 게임의 아류작과 디컴파일, 바이브 코딩으로 찍어 내는 저질 게임은 지금 사실상 무법지대다. 그런데 둘 다 Microsoft 소유인 Activision과 Bethesda가 최근 서로 다른 두 프로젝트를 상대로 조치에 나섰다."
+                "x": "범용 AI는 코드를 짜고 쉬운 부분을 처리한다. 그런데 Unreal Engine 개발의 어려운 일, 그러니까 Gameplay Ability System(GAS) 부트스트랩, 빌드 트리아지, DataTable 작성, 크래시 디버깅, 모바일 설정은 에디터 안과 엔진 서브시스템, 서로 얽힌 설정 파일들 사이에서 벌어진다. 범용 AI가 번번이 틀리는 곳도 바로 여기다."
               },
               {
                 "t": "p",
-                "x": "Claude Opus 5.5로 코딩한 브라우저 재현작 Fallout: New York은 조회수 3.5백만 회를 넘겼다. 하지만 ChrisFirst는 Bethesda에서 중단 요구서를 받았다고 알려진 뒤 10월 1일 프로젝트를 접었다."
+                "x": "Unreal Fest Chicago 2026에서 녹화한 이 세션은 실용적인 스택 하나를 소개한다. JetBrains Rider, Agent Communication Protocol(ACP, AI 에이전트를 위한 LSP 같은 오픈 에이전트 프로토콜), AgentBridge로 돌아가는 UE 전용(UE-specific) 스킬을 묶은 구성이다. 덕분에 AI 에이전트는 소스 파일에 접근하는 데서 그치지 않고 에디터 안을 직접 보며 손을 쓴다."
               },
               {
                 "t": "p",
-                "x": "Maurice Heumann은 9월 30일 X에 genAI로 PC판 원작 Modern Warfare 2의 소스 코드를 디컴파일하는 중이라고 올렸다. “현재 17개의 에이전트가 병렬로 작업하고 있어 놀라운 속도로 진척되고 있다”는 글이었다."
-              },
-              {
-                "t": "p",
-                "x": "Activision은 그가 공유한 영상을 지우는 것으로 대응했다. 그 자리에는 “저작권자의 신고에 따라 이 미디어는 비활성화되었습니다”라는 경고만 남았다. 코드를 호스팅하던 것으로 알려진 사이트 링크도 더는 열리지 않는다."
+                "x": "JetBrains가 다루는 범위는 아키텍처 상담, 올바른 GAS 리플리케이션 설정을 갖춘 C++ 스캐폴딩, GameplayEffects를 활용한 어빌리티 작성, 크래시 트리아지, 텍스트 브리프에 따른 액터 배치, 자동화 테스트까지 개발 라이프사이클 전체다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "genAIでのMW2解析動画\nActivisionが削除",
-          "body": "ActivisionがgenAIによるMW2逆コンパイル動画を削除させた。",
-          "mini_headline": "Activision、genAI製MW2計画に対処",
+          "headline": "Riderのエージェントで\nUnreal開発の難所に挑む",
+          "body": "Unreal Fest 2026の講演は、RiderのエージェントでGASなどの難題に挑む。",
+          "mini_headline": "Unreal向けRiderエージェント",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+                "t": "video",
+                "yt": "0C7GjShUnlY"
               },
               {
                 "t": "p",
-                "x": "既存ゲームの模倣品や逆コンパイルを含め、バイブコーディングで作られた粗悪なゲームは、いまや無法状態だ。どちらもMicrosoft傘下のActivisionとBethesdaは最近、二つの別々のプロジェクトに対して措置を講じた。"
+                "x": "汎用AIはコードを生成し、簡単な部分を片付ける。だがUnreal Engine開発の難しい部分、つまりGameplay Ability System（GAS）のブートストラップ、ビルドのトリアージ、DataTableの作成、クラッシュのデバッグ、モバイル設定などは、エディタ内やエンジンのサブシステム、そして相互に依存する設定ファイル群の中で起きる。汎用AIはそこでいつも間違える。"
               },
               {
                 "t": "p",
-                "x": "Claude Opus 5.5でコーディングされたブラウザ版の再現作Fallout: New Yorkは3.5百万回を超える再生を集めたが、ChrisFirstはBethesdaから停止要求を受け取ったとされ、10月1日に開発を断念した。"
+                "x": "Unreal Fest Chicago 2026で収録されたこのセッションでは、JetBrains Rider、Agent Communication Protocol（ACP。AIエージェント向けのLSPのようなオープンなエージェントプロトコル）、そしてAgentBridge経由で動くUE固有（UE-specific）のスキルからなる実用的なスタックを紹介する。これによりAIエージェントは、ソースファイルにアクセスするだけでなく、エディタの中で目と手を持つことになる。"
               },
               {
                 "t": "p",
-                "x": "Maurice Heumannは9月30日、genAIを使ってPC版オリジナルのModern Warfare 2のソースコードを逆コンパイルしているとXで明かした。「現在17のエージェントが並行して作業しており、驚くべきペースで進んでいる」と彼は書いた。"
-              },
-              {
-                "t": "p",
-                "x": "Activisionは、彼が共有した映像を削除することで対応し、その場所には「このメディアは著作権者からの報告により無効化されました」という警告が表示された。コードをホストしていたとされるサイトへのリンクも、もはやアクセスできない。"
+                "x": "JetBrainsは、アーキテクチャの相談、正しいGASレプリケーション設定を備えたC++のスキャフォールディング、GameplayEffectsを使ったアビリティ作成、クラッシュのトリアージ、テキストの指示からのアクター配置、自動テストまで、開発ライフサイクル全体を扱う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Activision下架\ngenAI反编译MW2视频",
-          "body": "Activision要求下架用genAI反编译Modern Warfare 2的视频。",
-          "mini_headline": "Activision出手genAI版MW2项目",
+          "headline": "用Rider智能体\n攻克Unreal开发难题",
+          "body": "Unreal Fest 2026的演讲用Rider智能体攻克GAS引导、构建排查等难题。",
+          "mini_headline": "Rider智能体助力Unreal",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+                "t": "video",
+                "yt": "0C7GjShUnlY"
               },
               {
                 "t": "p",
-                "x": "如今，用氛围编程制作劣质游戏已成乱象，其中包括对现有游戏的山寨和反编译。同属Microsoft旗下的Activision和Bethesda最近分别对两个不同项目采取了行动。"
+                "x": "通用AI能生成代码，解决简单的部分。而Unreal Engine开发中的难点——如Gameplay Ability System（GAS）引导、构建问题排查、DataTable编写、崩溃调试、移动端配置——发生在编辑器里、引擎子系统中，以及一张由相互依赖的配置文件织成的网中，通用AI在这些地方总是出错。"
               },
               {
                 "t": "p",
-                "x": "用Claude Opus 5.5编写的浏览器复刻作品Fallout: New York浏览量超过3.5百万次，但ChrisFirst据称收到Bethesda的停止侵权函后，于10月1日放弃了该项目。"
+                "x": "这场在Unreal Fest Chicago 2026录制的演讲介绍了一套实用技术栈：JetBrains Rider、Agent Communication Protocol（ACP，一种面向AI智能体、类似LSP的开放智能体协议），以及通过AgentBridge运行的UE专用（UE-specific）技能。它让AI智能体在编辑器内拥有眼睛和双手，而不只是能访问源文件。"
               },
               {
                 "t": "p",
-                "x": "Maurice Heumann于9月30日在X上表示，他正在用genAI反编译PC版初代Modern Warfare 2的源代码。他写道：“目前有17个智能体并行工作，我们的进展速度惊人。”"
-              },
-              {
-                "t": "p",
-                "x": "Activision的回应是直接撤下他分享的视频，取而代之的是一条警告：“此媒体已因版权所有者的举报而被禁用。”据称托管该代码的网站链接也已无法访问。"
+                "x": "JetBrains涵盖了完整的开发生命周期：架构咨询、带有正确GAS复制设置的C++脚手架搭建、使用GameplayEffects编写技能、崩溃排查、根据文字说明摆放角色对象，以及自动化测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Activision retira un video de\nla descompilación genAI de MW2",
-          "body": "Activision retiró un video de una descompilación con genAI de Modern Warfare 2, y Bethesda frena a los vibe coders.",
-          "mini_headline": "Activision apunta al proyecto genAI de MW2",
+          "headline": "Agentes de Rider para las\npartes difíciles de Unreal",
+          "body": "Una charla de Unreal Fest 2026 usa flujos agénticos en Rider para el bootstrap de GAS y el triaje de builds en Unreal.",
+          "mini_headline": "Agentes de Rider para Unreal",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+                "t": "video",
+                "yt": "0C7GjShUnlY"
               },
               {
                 "t": "p",
-                "x": "Ahora mismo reina el todo vale en lo que respecta a la bazofia de videojuegos hecha con vibe coding, incluidas imitaciones y descompilaciones de juegos existentes. Activision y Bethesda, ambas propiedad de Microsoft, actuaron recientemente contra dos proyectos distintos."
+                "x": "La AI genérica genera código y resuelve la parte fácil. Las partes difíciles del desarrollo con Unreal Engine —como el bootstrap del Gameplay Ability System (GAS), el triaje de builds, la creación de DataTable, la depuración de fallos o la configuración para móviles— ocurren en el editor, en los subsistemas del motor y en una red de archivos de configuración interdependientes en los que la AI genérica falla una y otra vez."
               },
               {
                 "t": "p",
-                "x": "Fallout: New York, una recreación para navegador programada con Claude Opus 5.5, superó los 3.5 millones de visualizaciones antes de que ChrisFirst la abandonara el 1 de octubre tras recibir, según se informa, un requerimiento de cese y desistimiento de Bethesda."
+                "x": "Esta sesión, grabada en Unreal Fest Chicago 2026, presenta un stack práctico —JetBrains Rider, el Agent Communication Protocol (ACP, un protocolo abierto de agentes como LSP para agentes de AI) y habilidades específicas de UE (UE-specific) que se ejecutan a través de AgentBridge— que da a los agentes de AI ojos y manos dentro del editor, no solo acceso a tus archivos fuente."
               },
               {
                 "t": "p",
-                "x": "Maurice Heumann contó en X el 30 de septiembre que estaba usando genAI para descompilar el código fuente del Modern Warfare 2 original para PC. “Con 17 agentes trabajando actualmente en paralelo, estamos avanzando a un ritmo increíble”, escribió."
-              },
-              {
-                "t": "p",
-                "x": "Activision respondió eliminando el video que había compartido, sustituido por un aviso: “Este contenido multimedia se ha desactivado en respuesta a una denuncia del propietario de los derechos de autor”. Tampoco se puede acceder ya a un enlace al sitio que supuestamente alojaba el código."
+                "x": "JetBrains cubre todo el ciclo de desarrollo: consultoría de arquitectura, scaffolding en C++ con la configuración correcta de replicación de GAS, creación de habilidades con GameplayEffects, triaje de fallos, colocación de actores a partir de un brief de texto y pruebas automatizadas."
               }
             ]
           }
@@ -1481,121 +1577,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "genAI MW2 디컴파일\nActivision이 제동",
-          "body": "Activision이 genAI MW2 디컴파일 영상을 내리게 했다.",
-          "mini_headline": "Activision, genAI MW2 프로젝트 겨냥",
+          "headline": "Rider 에이전트로 푸는\nUnreal 개발의 난제",
+          "body": "Unreal Fest 2026 발표가 Rider 에이전트로 GAS 등 난제를 푼다.",
+          "mini_headline": "Unreal을 위한 Rider 에이전트",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+                "t": "video",
+                "yt": "0C7GjShUnlY"
               },
               {
                 "t": "p",
-                "x": "지금 기존 게임의 아류작과 디컴파일을 비롯해, 바이브 코딩으로 찍어 내는 저질 게임은 사실상 무법지대다. 둘 다 Microsoft 소유인 Activision과 Bethesda가 최근 서로 다른 두 프로젝트를 상대로 조치에 나섰다."
+                "x": "범용 AI는 코드를 생성하고 쉬운 부분을 해결한다. Unreal Engine 개발의 어려운 부분, 즉 Gameplay Ability System(GAS) 부트스트랩, 빌드 트리아지, DataTable 작성, 크래시 디버깅, 모바일 설정 같은 일은 에디터 안에서, 엔진 서브시스템에서, 그리고 서로 얽힌 설정 파일들 사이에서 벌어지며, 범용 AI는 이를 번번이 틀린다."
               },
               {
                 "t": "p",
-                "x": "Claude Opus 5.5로 코딩한 브라우저 재현작 Fallout: New York은 조회수 3.5백만 회를 넘겼지만, ChrisFirst는 Bethesda로부터 중단 요구서를 받은 것으로 알려진 뒤 10월 1일 프로젝트를 접었다."
+                "x": "Unreal Fest Chicago 2026에서 녹화된 이 세션은 JetBrains Rider, Agent Communication Protocol(ACP, AI 에이전트를 위한 LSP 같은 오픈 에이전트 프로토콜), 그리고 AgentBridge로 실행되는 UE 전용(UE-specific) 스킬로 이뤄진 실용적인 스택을 소개한다. 이 스택은 AI 에이전트가 소스 파일에 접근하는 데 그치지 않고 에디터 안에서 직접 보고 손을 쓸 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "Maurice Heumann은 9월 30일 X에서 genAI로 PC판 원작 Modern Warfare 2의 소스 코드를 디컴파일하고 있다고 밝혔다. 그는 “현재 17개의 에이전트가 병렬로 작업하고 있어 놀라운 속도로 진척되고 있다”고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "Activision은 그가 공유한 영상을 삭제하는 것으로 대응했고, 그 자리에는 “저작권자의 신고에 따라 이 미디어는 비활성화되었습니다”라는 경고가 떴다. 코드를 호스팅하던 것으로 알려진 사이트의 링크도 더는 접속되지 않는다."
+                "x": "JetBrains는 아키텍처 상담, 올바른 GAS 리플리케이션 설정을 갖춘 C++ 스캐폴딩, GameplayEffects를 활용한 어빌리티 작성, 크래시 트리아지, 텍스트 브리프를 바탕으로 한 액터 배치, 자동화 테스트까지 개발 라이프사이클 전체를 다룬다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "genAIでのMW2解析動画\nActivisionが削除",
-          "body": "ActivisionがgenAIによるMW2逆コンパイル動画を削除させた。",
-          "mini_headline": "Activision、genAI製MW2計画に対処",
+          "headline": "Riderのエージェントで\nUnreal開発の難所に挑む",
+          "body": "Unreal Fest 2026の講演は、RiderのエージェントでGASなどの難題に挑む。",
+          "mini_headline": "Unreal向けRiderエージェント",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+                "t": "video",
+                "yt": "0C7GjShUnlY"
               },
               {
                 "t": "p",
-                "x": "既存ゲームの模倣品や逆コンパイルを含め、バイブコーディングで作られた粗悪なゲームは、いまや無法状態だ。どちらもMicrosoft傘下のActivisionとBethesdaは最近、二つの別々のプロジェクトに対して措置を講じた。"
+                "x": "汎用AIはコードを生成し、簡単な部分を片付ける。だがUnreal Engine開発の難しい部分、つまりGameplay Ability System（GAS）のブートストラップ、ビルドのトリアージ、DataTableの作成、クラッシュのデバッグ、モバイル設定などは、エディタ内やエンジンのサブシステム、そして相互に依存する設定ファイル群の中で起きる。汎用AIはそこでいつも間違える。"
               },
               {
                 "t": "p",
-                "x": "Claude Opus 5.5でコーディングされたブラウザ版の再現作Fallout: New Yorkは3.5百万回を超える再生を集めたが、ChrisFirstはBethesdaから停止要求を受け取ったとされ、10月1日に開発を断念した。"
+                "x": "Unreal Fest Chicago 2026で収録されたこのセッションでは、JetBrains Rider、Agent Communication Protocol（ACP。AIエージェント向けのLSPのようなオープンなエージェントプロトコル）、そしてAgentBridge経由で動くUE固有（UE-specific）のスキルからなる実用的なスタックを紹介する。これによりAIエージェントは、ソースファイルにアクセスするだけでなく、エディタの中で目と手を持つことになる。"
               },
               {
                 "t": "p",
-                "x": "Maurice Heumannは9月30日、genAIを使ってPC版オリジナルのModern Warfare 2のソースコードを逆コンパイルしているとXで明かした。「現在17のエージェントが並行して作業しており、驚くべきペースで進んでいる」と彼は書いた。"
-              },
-              {
-                "t": "p",
-                "x": "Activisionは、彼が共有した映像を削除することで対応し、その場所には「このメディアは著作権者からの報告により無効化されました」という警告が表示された。コードをホストしていたとされるサイトへのリンクも、もはやアクセスできない。"
+                "x": "JetBrainsは、アーキテクチャの相談、正しいGASレプリケーション設定を備えたC++のスキャフォールディング、GameplayEffectsを使ったアビリティ作成、クラッシュのトリアージ、テキストの指示からのアクター配置、自動テストまで、開発ライフサイクル全体を扱う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Activision下架\ngenAI反编译MW2视频",
-          "body": "Activision要求下架用genAI反编译Modern Warfare 2的视频。",
-          "mini_headline": "Activision出手genAI版MW2项目",
+          "headline": "用Rider智能体\n攻克Unreal开发难题",
+          "body": "Unreal Fest 2026的演讲用Rider智能体攻克GAS引导、构建排查等难题。",
+          "mini_headline": "Rider智能体助力Unreal",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+                "t": "video",
+                "yt": "0C7GjShUnlY"
               },
               {
                 "t": "p",
-                "x": "如今，用氛围编程制作劣质游戏已成乱象，其中包括对现有游戏的山寨和反编译。同属Microsoft旗下的Activision和Bethesda最近分别对两个不同项目采取了行动。"
+                "x": "通用AI能生成代码，解决简单的部分。而Unreal Engine开发中的难点——如Gameplay Ability System（GAS）引导、构建问题排查、DataTable编写、崩溃调试、移动端配置——发生在编辑器里、引擎子系统中，以及一张由相互依赖的配置文件织成的网中，通用AI在这些地方总是出错。"
               },
               {
                 "t": "p",
-                "x": "用Claude Opus 5.5编写的浏览器复刻作品Fallout: New York浏览量超过3.5百万次，但ChrisFirst据称收到Bethesda的停止侵权函后，于10月1日放弃了该项目。"
+                "x": "这场在Unreal Fest Chicago 2026录制的演讲介绍了一套实用技术栈：JetBrains Rider、Agent Communication Protocol（ACP，一种面向AI智能体、类似LSP的开放智能体协议），以及通过AgentBridge运行的UE专用（UE-specific）技能。它让AI智能体在编辑器内拥有眼睛和双手，而不只是能访问源文件。"
               },
               {
                 "t": "p",
-                "x": "Maurice Heumann于9月30日在X上表示，他正在用genAI反编译PC版初代Modern Warfare 2的源代码。他写道：“目前有17个智能体并行工作，我们的进展速度惊人。”"
-              },
-              {
-                "t": "p",
-                "x": "Activision的回应是直接撤下他分享的视频，取而代之的是一条警告：“此媒体已因版权所有者的举报而被禁用。”据称托管该代码的网站链接也已无法访问。"
+                "x": "JetBrains涵盖了完整的开发生命周期：架构咨询、带有正确GAS复制设置的C++脚手架搭建、使用GameplayEffects编写技能、崩溃排查、根据文字说明摆放角色对象，以及自动化测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Activision retira un video de\nla descompilación genAI de MW2",
-          "body": "Activision retiró un video de una descompilación con genAI de Modern Warfare 2, y Bethesda frena a los vibe coders.",
-          "mini_headline": "Activision apunta al proyecto genAI de MW2",
+          "headline": "Agentes de Rider para las\npartes difíciles de Unreal",
+          "body": "Una charla de Unreal Fest 2026 usa flujos agénticos en Rider para el bootstrap de GAS y el triaje de builds en Unreal.",
+          "mini_headline": "Agentes de Rider para Unreal",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg"
+                "t": "video",
+                "yt": "0C7GjShUnlY"
               },
               {
                 "t": "p",
-                "x": "Ahora mismo reina el todo vale en lo que respecta a la bazofia de videojuegos hecha con vibe coding, incluidas imitaciones y descompilaciones de juegos existentes. Activision y Bethesda, ambas propiedad de Microsoft, actuaron recientemente contra dos proyectos distintos."
+                "x": "La AI genérica genera código y resuelve la parte fácil. Las partes difíciles del desarrollo con Unreal Engine —como el bootstrap del Gameplay Ability System (GAS), el triaje de builds, la creación de DataTable, la depuración de fallos o la configuración para móviles— ocurren en el editor, en los subsistemas del motor y en una red de archivos de configuración interdependientes en los que la AI genérica falla una y otra vez."
               },
               {
                 "t": "p",
-                "x": "Fallout: New York, una recreación para navegador programada con Claude Opus 5.5, superó los 3.5 millones de visualizaciones antes de que ChrisFirst la abandonara el 1 de octubre tras recibir, según se informa, un requerimiento de cese y desistimiento de Bethesda."
+                "x": "Esta sesión, grabada en Unreal Fest Chicago 2026, presenta un stack práctico —JetBrains Rider, el Agent Communication Protocol (ACP, un protocolo abierto de agentes como LSP para agentes de AI) y habilidades específicas de UE (UE-specific) que se ejecutan a través de AgentBridge— que da a los agentes de AI ojos y manos dentro del editor, no solo acceso a tus archivos fuente."
               },
               {
                 "t": "p",
-                "x": "Maurice Heumann contó en X el 30 de septiembre que estaba usando genAI para descompilar el código fuente del Modern Warfare 2 original para PC. “Con 17 agentes trabajando actualmente en paralelo, estamos avanzando a un ritmo increíble”, escribió."
-              },
-              {
-                "t": "p",
-                "x": "Activision respondió eliminando el video que había compartido, sustituido por un aviso: “Este contenido multimedia se ha desactivado en respuesta a una denuncia del propietario de los derechos de autor”. Tampoco se puede acceder ya a un enlace al sitio que supuestamente alojaba el código."
+                "x": "JetBrains cubre todo el ciclo de desarrollo: consultoría de arquitectura, scaffolding en C++ con la configuración correcta de replicación de GAS, creación de habilidades con GameplayEffects, triaje de fallos, colocación de actores a partir de un brief de texto y pruebas automatizadas."
               }
             ]
           }

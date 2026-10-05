@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-06",
+  "section": "design",
+  "dedup": {
+    "checks": {
+      "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/": {
+        "verdict": "new",
+        "nearest": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
+        "new_action": ""
+      },
+      "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908": {
+        "verdict": "new",
+        "nearest": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
+        "new_action": ""
+      },
+      "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next": {
+        "verdict": "new",
+        "nearest": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+        "new_action": ""
+      },
+      "https://nofilmschool.com/apples-full-disk-access-statement": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496": {
+        "verdict": "new",
+        "nearest": "https://www.core77.com/posts/145488/AI-Has-Changed-What-Makes-a-Great-Designer",
+        "new_action": ""
+      }
+    },
+    "note": "SWAP: removed BlenderNation Quadify pick (paid vendor commercial post — '[$]' title, utm_medium=commercial_post, discount code) and its dedup entry. Replacement: Creative Bloq on Adobe's newly published USPTO text-to-3D-world patent filings — editorial, AI-substantive, untagged by story_dedup; checked by hand against the 30-day history_digest: no prior Adobe patent / text-to-3D-world story (nearest is the 27 Sep Adobe MAX lineup piece, which is a different event); new outlet, so final 5 = 5 distinct outlets. Other replacement options passed over: CG Channel 4 Oct roundup (new weekly edition, but a mixed roundup mostly of non-AI updates, and render already has a pick), Skylum Aperty shutdown (product discontinuation, AI only incidental), DEV text-fix, ZDNET vibe-coded app, UX Planet Claude Code mods, 'feed I produce' essay (lower score). Ambassadors Mosa left out because it is assigned to movies. Earlier drops still stand: taste-paradox essay (thematic repeat of the 2026-09-23 Fast Company 'having good taste won't save designers'), Pope AI-art remarks (commentary), Safeworld / RoboParty / OpenSpace (off-scope). Categories: cad 1, render 2, workflow 2. Cross-section watch: nofilmschool.com is also allowed for movies, so the orchestrator should confirm the Apple Full Disk Access story is not also picked in movies or gadgets."
+  },
+  "items": [
+    {
+      "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+      "source": "Creative Bloq",
+      "tool": "KeyShot",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "rationale": "Newly published Adobe patent filings for generating 3D worlds from text prompts signal Firefly's next step beyond image and video — an early heads-up for 3D and visualisation designers.",
+      "published_iso": "2026-10-04T09:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
+      "excerpt": "Newly published USPTO patent filings show Adobe working on a method for generating 3D worlds from text prompts, hinting at where Firefly could expand beyond image and video generation."
+    }
+  ]
+}
