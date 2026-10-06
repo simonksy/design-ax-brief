@@ -167,7 +167,7 @@ export default {
         // 세션이 놓이면 원래 창이 그걸 가져간다.
         const pid = newPendingId();
         const code = newPendingCode();
-        await putPending(env.AUTH_TOKENS, pid, email, code);
+        await putPending(env.DB, pid, email, code);
         const link = `${env.BASE_URL}/api/auth/callback?token=${token}&p=${pid}`;
         try {
           await sendMagicLink(env, email, link, code);
@@ -193,7 +193,7 @@ export default {
     if (p === "/api/auth/pending") {
       const pid = url.searchParams.get("pid") || "";
       if (!pid || cookies.ax_pend !== pid) return json({ approved: false }, 403);
-      const session = await claimPending(env.AUTH_TOKENS, pid);
+      const session = await claimPending(env.DB, pid);
       if (!session) return json({ approved: false });
       return json({ approved: true }, 200, { "set-cookie": sessionSetCookie(session) });
     }
@@ -206,7 +206,7 @@ export default {
       // 없으면 "남의 주소로 요청해 두고 클릭을 유도하는" 공격이 그대로 통한다.
       const sameDevice = pid && cookies.ax_pend === pid;
       if (pid && !sameDevice) {
-        const rec = await readPending(env.AUTH_TOKENS, pid);
+        const rec = await readPending(env.DB, pid);
         // 토큰은 아직 쓰지 않는다 — 승인 버튼을 눌러야 소모된다.
         if (!rec || !(await env.AUTH_TOKENS.get("ml:" + token)))
           return htmlPage("만료되었거나 이미 사용된 링크입니다. 다시 요청해 주세요.", 400);
@@ -215,7 +215,7 @@ export default {
       const email = await consumeMagicToken(env.AUTH_TOKENS, token);
       if (!email) return new Response("만료되었거나 이미 사용된 링크입니다. 다시 요청해 주세요.", { status: 400 });
       const session = await signSession(email, env.SESSION_SIGNING_KEY);
-      if (pid) await approvePending(env.AUTH_TOKENS, pid, session);
+      if (pid) await approvePending(env.DB, pid, session);
       return new Response(null, { status: 302, headers: { location: "/", "set-cookie": sessionSetCookie(session) } });
     }
 
@@ -227,7 +227,7 @@ export default {
       const email = await consumeMagicToken(env.AUTH_TOKENS, String(token || ""));
       if (!email) return htmlPage("만료되었거나 이미 사용된 링크입니다. 다시 요청해 주세요.", 400);
       const session = await signSession(email, env.SESSION_SIGNING_KEY);
-      await approvePending(env.AUTH_TOKENS, String(pid || ""), session);
+      await approvePending(env.DB, String(pid || ""), session);
       // 이 기기도 함께 로그인시킨다 — 폰에서 열었다면 폰에서도 보고 싶을 것이다.
       return htmlPage("로그인했습니다. 요청하신 화면으로 돌아가세요.", 200,
                       { "set-cookie": sessionSetCookie(session) });
