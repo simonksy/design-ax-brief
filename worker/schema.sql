@@ -25,3 +25,20 @@ CREATE TABLE IF NOT EXISTS pending_logins (
   session    TEXT,
   created_at INTEGER NOT NULL
 );
+/* 주간 리포트 수신 설정. 행이 없으면 "아직 아무것도 고르지 않은 사람"이고,
+   기본값(전체 섹션 / 사이트 언어 / 수신함)으로 취급한다 — 로그인만 하고 설정에
+   들어온 적 없는 사람에게도 리포트가 가야 하기 때문이다. */
+CREATE TABLE IF NOT EXISTS mail_prefs (
+  email      TEXT PRIMARY KEY,
+  lang       TEXT NOT NULL DEFAULT 'ko',
+  sections   TEXT NOT NULL DEFAULT '*',
+  weekly     INTEGER NOT NULL DEFAULT 1,
+  unsub_all  INTEGER NOT NULL DEFAULT 0,
+  created_at INTEGER NOT NULL,
+  updated_at INTEGER NOT NULL
+);
+/* 같은 메일을 두 번 보내지 않기 위한 발송 기록. Cron 재실행·재시도에 안전해야 한다. */
+CREATE TABLE IF NOT EXISTS mail_sent (
+  id      TEXT PRIMARY KEY,
+  sent_at INTEGER NOT NULL
+);

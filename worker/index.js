@@ -5,6 +5,7 @@ import { issueMagicToken, consumeMagicToken, rateLimited,
          approvePending, claimPending } from "./lib/tokens.js";
 import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } from "./lib/cookies.js";
 import { getEntitlement, hasPaddleSubscription } from "./lib/entitlement.js";
+import { getPrefs, setPrefs } from "./lib/mail_prefs.js";
 import { sendMagicLink } from "./lib/email.js";
 import { verifyPaddleSignature, toEntitlement, fetchCustomerEmail } from "./lib/paddle.js";
 import { applyEntitlement } from "./lib/billing.js";
@@ -346,6 +347,25 @@ export default {
       return json({ loggedIn: true, email, entitled: ent.entitled, hasSubscription,
                     status: ent.status, periodEnd: ent.periodEnd,
                     startedAt: ent.startedAt, provider: ent.provider });
+    }
+
+    // 수신 설정 — 로그인한 본인 것만 읽고 쓴다. 남의 설정을 건드릴 길은 없다.
+    if (p === "/api/mail/prefs") {
+      const email = await currentEmail(request, env);
+      if (!email) return json({ reason: "login_required" }, 401);
+      if (request.method === "GET") return json(await getPrefs(env.DB, email));
+      if (request.method === "POST") {
+        let body = {};
+        try { body = await request.json(); } catch {}
+        // 받은 것 중 아는 필드만 추린다 — unsub_all은 여기서 못 바꾼다(수신 거부
+        // 링크 전용). 설정 화면의 실수로 전체 수신 거부가 켜지면 안 된다.
+        const patch = {};
+        if (typeof body.lang === "string" && LANGS.includes(body.lang)) patch.lang = body.lang;
+        if (typeof body.sections === "string") patch.sections = body.sections;
+        if (body.weekly != null) patch.weekly = body.weekly ? 1 : 0;
+        return json(await setPrefs(env.DB, email, patch));
+      }
+      return json({ reason: "method_not_allowed" }, 405);
     }
 
     if (p === "/api/premium/full") {
